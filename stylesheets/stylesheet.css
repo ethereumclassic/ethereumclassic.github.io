@@ -346,7 +346,19 @@ Full-Width Styles
   background: #212121;
 }
 
+#priceTicker	{
 
+  position:absolute;
+  top:2%;
+  right:1%;
+  padding:10px;
+  background:#000000;
+  border:1px solid #008500;
+  box-shadow: 0 0 10px rgba(0,0,0,.5);
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+
+}
 
 /*******************************************************************************
 Small Device Styles
