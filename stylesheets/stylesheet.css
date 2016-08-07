@@ -120,11 +120,6 @@ a {
 
 a:hover, a:focus {text-decoration: underline;}
 
-footer a {
-  color: #F2F2F2;
-  text-decoration: underline;
-}
-
 em {
   font-style: italic;
 }
@@ -133,28 +128,11 @@ strong {
   font-weight: bold;
 }
 
-img {
-  position: relative;
-  margin: 0 auto;
-  max-width: 739px;
-  padding: 5px;
-  margin: 10px 0 10px 0;
-  border: 1px solid #ebebeb;
-
-  box-shadow: 0 0 5px #ebebeb;
-  -webkit-box-shadow: 0 0 5px #ebebeb;
-  -moz-box-shadow: 0 0 5px #ebebeb;
-  -o-box-shadow: 0 0 5px #ebebeb;
-  -ms-box-shadow: 0 0 5px #ebebeb;
-}
-
-p img {
-  display: inline;
-  margin: 0;
-  padding: 0;
-  vertical-align: middle;
-  text-align: center;
-  border: none;
+#etc-logo {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
 }
 
 pre, code {
@@ -391,6 +369,10 @@ Small Device Styles
     font-size:14px;
   }
 
+  .header_wrap {
+    text-align: center;
+  }
+
   #downloads {
     display: none;
   }
@@ -433,5 +415,4 @@ Small Device Styles
     max-width: 480px;
     font-size: 11px;
   }
-
 }
