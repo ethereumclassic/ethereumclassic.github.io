@@ -26,7 +26,7 @@ export default class Header extends Component {
             classic
           </h1>
           <h2>
-            <span>decentralised</span>
+            <span>decentralized</span>
             {' '}<span>immutable</span>
             {' '}<span>unstoppable</span>
           </h2>
