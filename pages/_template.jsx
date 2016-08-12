@@ -8,11 +8,16 @@ import React, { PropTypes, Component } from 'react'
 import 'muicss/lib/css/mui.css'
 import '../css/main.scss'
 
+import Footer from '../components/footer'
+
 export default class MainTemplate extends Component {
   render () {
     return (
       <div id="app">
-        {this.props.children}
+        <div className="content">
+          {this.props.children}
+        </div>
+        <Footer />
       </div>
     )
   }
