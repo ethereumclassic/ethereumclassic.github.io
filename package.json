@@ -9,20 +9,15 @@
     "babel-preset-es2015": "^6.9.0",
     "babel-preset-react": "^6.5.0",
     "babel-preset-stage-1": "^6.5.0",
-    "chroma-js": "^0.7.2",
-    "color-pairs-picker": "^1.3.5",
     "gatsby": "^0.12.0",
     "history": "^2.1.1",
     "lodash": "^4.14.1",
     "react": "^15.3.0",
-    "react-document-title": "^2.0.1",
+    "react-addons-transition-group": "^15.3.0",
     "react-dom": "^15.3.0",
+    "react-helmet": "^3.1.0",
     "react-motion": "^0.1.0",
-    "react-responsive-grid": "^0.3.3",
-    "react-router": "^2.6.1",
-    "react-typography": "^0.12.0",
-    "typography": "^0.12.2",
-    "underscore.string": "^3.2.2"
+    "react-router": "^2.6.1"
   },
   "devDependencies": {
     "babel-core": "^6.11.4",
@@ -35,6 +30,7 @@
     "eslint-plugin-jsx-a11y": "^2.0.1",
     "eslint-plugin-react": "^6.0.0",
     "gh-pages": "^0.11.0",
+    "muicss": "^0.6.9",
     "null-loader": "^0.1.1",
     "postcss-loader": "^0.9.1",
     "react-transform-catch-errors": "^1.0.2",
@@ -51,7 +47,7 @@
   "scripts": {
     "lint": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public .",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "develop": "gatsby develop",
+    "start": "gatsby develop",
     "build": "gatsby build",
     "deploy": "gatsby build --prefix-links && gh-pages -d public"
   }
