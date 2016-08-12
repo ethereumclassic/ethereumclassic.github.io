@@ -1,0 +1,11 @@
+siteTitle="AlphabetJS"
+baseColor = "#884499"
+linkPrefix = "/gatsby-starter-documentation"
+docPages = [
+  "/docs/",
+  "/docs/getting-started/",
+  "/docs/how-to-run/",
+  "/docs/some-react-code/",
+  "/docs/the-next-step/",
+  "/docs/conclusion/",
+]
