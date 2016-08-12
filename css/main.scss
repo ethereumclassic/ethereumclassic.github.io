@@ -1,5 +1,74 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
+$white: #efefef;
+$darkWhite: darken($white, 10);
+$classicGreen: #669073;
+$darkGreen: darken($classicGreen, 10);
+
 body {
   font-family: "Roboto", "Helvetica Neue", Helvetica, sans-serif;
+  background: $white;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  > .content {
+    width: 100%;
+    flex: 1;
+  }
+}
+.main-header {
+  position: relative;
+  background: linear-gradient(0deg, $darkWhite, $white);
+  .inner {
+    position: relative;
+    padding: 3em;
+  }
+  .logo {
+    height: 30vh;
+  }
+  h1, h2 {
+    font-weight: 300;
+  }
+  h1 {
+    color: $classicGreen;
+    padding: 0.5em 0em;
+  }
+  h2 {
+    color: #666;
+    font-style: italic;
+    padding-bottom:1em;
+    span {
+      padding: 0 1em;
+    }
+  }
+}
+
+#particles {
+  position:absolute;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+}
+
+.footer {
+  background: linear-gradient(0deg, $classicGreen, $darkGreen);
+  width: 100%;
+  padding: 1em 0em;
+}
+
+.social-links a {
+  padding: 0 0.3em;
+}
+
+.mui--text-light-secondary a{
+  color: inherit;
+  font-weight: 700;
+  &:hover {
+    color:white;
+    text-decoration: none;
+  }
 }
