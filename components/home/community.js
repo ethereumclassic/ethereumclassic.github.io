@@ -19,15 +19,15 @@ import ContentBlock from '../content-block'
 export default class Community extends Component {
   render () {
     return (
-      <Container fluid className="green-gradient mui--text-light-secondary padded">
+      <Container fluid className="green-gradient mui--text-light-secondary">
         <Container className="mui--text-center">
           <Row>
             <Col xs="12">
               <h1>Etheruem Classic Community</h1>
-              <h3>Thousands of Individuals United by the Promise of Immutability</h3>
+              <h3>Thousands of individuals united by the promise of immutability</h3>
             </Col>
           </Row>
-          <Row className="justified-paragraphs">
+          <Row className="justified-paragraphs padded">
             <Col md="6" lg="3">
               <ContentBlock
                 Icon={IconUsers}
@@ -103,14 +103,15 @@ export default class Community extends Component {
               />
             </Col>
           </Row>
-          <Row>
+          <Row className="padded">
             <Col xs="12">
+              <h4>Want to Learn More?</h4>
               <p>
-                Want to learn more? Whatever your interest,{' '}
+                Whatever your interest,{' '}
                 <a target="_blank" href="http://ethereumclassic.herokuapp.com/">
-                  Join the slack group
+                  join the slack group
                 </a>
-                , and help us continue the <b>original</b> Etheruem vision.
+                , and help us continue the <b>original</b> Etheruem vision!
               </p>
             </Col>
           </Row>

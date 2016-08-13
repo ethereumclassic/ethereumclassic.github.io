@@ -18,7 +18,7 @@ import codeIsLaw from '../../contents/why/code-is-law.md'
 export default class WhyClassic extends Component {
   render () {
     return (
-      <Container className="panelled-grid">
+      <Container className="panelled-grid padded">
         <Row>
           <Col md="4" >
             <div dangerouslySetInnerHTML={{ __html: whyClassic.body }} />
