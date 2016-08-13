@@ -2,12 +2,25 @@
 
 $white: #efefef;
 $darkWhite: darken($white, 10);
-$classicGreen: #669073;
-$darkGreen: darken($classicGreen, 10);
+$green: #669073;
+$darkGreen: darken($green, 10);
+$darkerGreen: darken($green, 30);
+
+.mui-btn--primary {
+  background-color: $green;
+  &:hover, &:active, &:focus {
+    background-color: $darkGreen;
+  }
+}
 
 body {
   font-family: "Roboto", "Helvetica Neue", Helvetica, sans-serif;
   background: $white;
+}
+
+::selection {
+  color: $white;
+  background: $green;
 }
 
 #app {
@@ -22,6 +35,7 @@ body {
 .main-header {
   position: relative;
   background: linear-gradient(0deg, $darkWhite, $white);
+  color: #666;
   .inner {
     position: relative;
     padding: 3em;
@@ -33,15 +47,14 @@ body {
     font-weight: 300;
   }
   h1 {
-    color: $classicGreen;
+    color: $green;
     padding: 0.5em 0em;
   }
   h2 {
-    color: #666;
     font-style: italic;
     padding-bottom:1em;
     span {
-      padding: 0 1em;
+      padding: 0 0.5em;
     }
   }
 }
@@ -55,7 +68,7 @@ body {
 }
 
 .footer {
-  background: linear-gradient(0deg, $classicGreen, $darkGreen);
+  background: linear-gradient(0deg, $green, $darkGreen);
   width: 100%;
   padding: 1em 0em;
 }
@@ -64,11 +77,38 @@ body {
   padding: 0 0.3em;
 }
 
-.mui--text-light-secondary a{
+a{
   color: inherit;
   font-weight: 700;
   &:hover {
-    color:white;
+    color: $darkerGreen;
     text-decoration: none;
+  }
+}
+
+.panelled-grid {
+  .mui-panel, h2 {
+    margin-top: 2em;
+  }
+  .mui-panel {
+    position: relative;
+    h1, h2, h3, h4 {
+      margin-top: 0;
+    }
+    .content {
+      position: relative;
+    }
+    .icon {
+      position: absolute;
+      top:0;
+      right:0;
+      opacity: 0.1;
+      height: 14em;
+      width: 14em;
+      svg {
+        height: 100%;
+        width: 100%;
+      }
+    }
   }
 }
