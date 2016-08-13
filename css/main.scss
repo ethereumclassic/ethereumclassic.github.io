@@ -1,15 +1,43 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
 $white: #efefef;
-$darkWhite: darken($white, 10);
+$grey: #ccc;
+$charcol: #666;
 $green: #669073;
+$red: #a61e1e;
+$orange: #d37c00;
+$purple: #8702d4;
+$blue: #0754d4;
+
+$darkWhite: darken($white, 10);
+$darkGrey: darken($grey, 10);
+$darkCharcol: darken($charcol, 10);
 $darkGreen: darken($green, 10);
+$darkRed: darken($red, 10);
+$darkOrange: darken($orange, 10);
+$darkPurple: darken($purple, 10);
+$darkBlue: darken($blue, 10);
+
+$darkerWhite: darken($white, 30);
+$darkerGrey: darken($grey, 30);
+$darkerCharcol: darken($charcol, 30);
 $darkerGreen: darken($green, 30);
+$darkerRed: darken($red, 30);
+$darkerOrange: darken($orange, 30);
+$darkerPurple: darken($purple, 30);
+$darkerBlue: darken($blue, 30);
+
+$defaultPadding: 3em;
 
 body {
   font-family: "Roboto", "Helvetica Neue", Helvetica, sans-serif;
   background: $white;
 }
+
+h1, h2, h3 {
+  font-weight: 300;
+}
+
 
 ::selection {
   color: $white;
@@ -32,6 +60,10 @@ a{
   }
 }
 
+.mui-container-fluid, .mui-container.padded{
+  padding: $defaultPadding 0em;
+}
+
 #app {
   display: flex;
   flex-direction: column;
@@ -41,23 +73,22 @@ a{
     flex: 1;
   }
 }
+
 .main-header {
   position: relative;
   background: linear-gradient(0deg, $darkWhite, $white);
   color: #666;
   .inner {
     position: relative;
-    padding: 3em;
   }
   .logo {
     height: 30vh;
   }
-  h1, h2 {
-    font-weight: 300;
-  }
   h1 {
     color: $green;
     padding: 0.5em 0em;
+    font-size: 4em;
+    line-height: 1em;
   }
   h2 {
     font-style: italic;
@@ -68,11 +99,11 @@ a{
   }
 }
 
-.mui-container-fluid.padded {
-  .mui-row > div {
-    padding-top: 3em;
+.mui-container-fluid {
+  .mui-row.padded > div {
+    padding-top: $defaultPadding;
   }
-  padding-bottom: 3em;
+  padding-bottom: $defaultPadding;
 }
 
 #particles {
@@ -94,9 +125,6 @@ a{
 }
 
 .panelled-grid {
-  .mui-panel, h2 {
-    margin-top: 2em;
-  }
   .mui-panel {
     position: relative;
     h1, h2, h3, h4 {
@@ -124,6 +152,10 @@ a{
   background: linear-gradient(45deg, $darkGreen, $darkerGreen);
 }
 
+.dark-grey-gradient {
+  background: linear-gradient(45deg, $grey, $darkGrey);
+}
+
 .justified-paragraphs p {
   text-align: justify;
 }
@@ -142,4 +174,91 @@ a{
 
 .content-block .mui-dropdown  {
   margin: 1.5em 0;
+}
+
+@mixin timelineItemColor($light, $dark) {
+  .date { background: linear-gradient(0, $dark, $light); }
+  .icon { background: $dark; }
+  .icon::before { background: $dark; }
+}
+
+.fork-timeline-scroller {
+  overflow:hidden;
+  overflow-x: auto;
+  &::-webkit-scrollbar {
+    height: 14px;
+    background:rgba(0,0,0,.04);
+  }
+  &::-webkit-scrollbar-thumb {
+    background: linear-gradient(0, darken($darkerGrey, 15), $darkerGrey);
+    border-radius: 10px;
+  }
+  .fork-timeline {
+    padding:2em 0.5em;
+    white-space: nowrap;
+    .timeline-item {
+      // default colors
+      &{ @include timelineItemColor($charcol, $darkCharcol); }
+      &.green{ @include timelineItemColor($green, $darkGreen); }
+      &.red{ @include timelineItemColor($red, $darkRed); }
+      &.blue{ @include timelineItemColor($blue, $darkBlue); }
+      &.white{
+        @include timelineItemColor($white, $darkWhite);
+        .date, .icon { color: black; }
+      }
+      &.orange{ @include timelineItemColor($orange, $darkOrange); }
+      &.purple{ @include timelineItemColor($purple, $darkPurple); }
+
+      white-space: normal;
+      text-align: center;
+      width: 20em;
+      vertical-align: top;
+      display:inline-block;
+      .content {
+        padding: 0 1.5em;
+      }
+      .date {
+        width: 100%;
+        padding: 0.5em 0em;
+        color: $white;
+        text-transform: uppercase;
+        letter-spacing: 0.2em;
+      }
+      &:first-child .date {
+        border-top-left-radius: 20px;
+        border-bottom-left-radius: 20px;
+      }
+      &:last-child {
+        margin-right: 5em;
+        .date {
+          border-top-right-radius: 20px;
+          border-bottom-right-radius: 20px;
+        }
+      }
+      .icon {
+        $lineHeight: 10px;
+        $lineWidth: 10px;
+        color: $grey;
+        width: auto;
+        display: inline-block;
+        border-radius: 100%;
+        position:relative;
+        text-align: center;
+        margin-top: $lineHeight - 1;
+        &::before{
+          content: '';
+          left: 50%;
+          width: $lineWidth;
+          margin-left: - $lineWidth / 2;
+          position:absolute;
+          height: $lineHeight;
+          margin-top: -$lineHeight + 1;
+          display:inline-block;
+        }
+        svg {
+          margin: 1em;
+        }
+      }
+    }
+  }
 }

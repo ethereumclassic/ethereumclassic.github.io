@@ -20,7 +20,7 @@ export default class Header extends Component {
         <div id="particles" />
         <Container className="inner">
           <img src={etcLogo} alt="Ethereum Classic" className="logo" />
-          <h1 className="mui--text-display3">
+          <h1>
             ethereum
             <br />
             classic

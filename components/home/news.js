@@ -10,7 +10,7 @@ export default class WhyClassic extends Component {
   render () {
     return (
       <Container className="latest-news">
-        <p>Latest news</p>
+        <h3>WIP : Blog & Press</h3>
       </Container>
     )
   }
