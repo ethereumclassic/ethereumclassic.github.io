@@ -6,13 +6,6 @@ $green: #669073;
 $darkGreen: darken($green, 10);
 $darkerGreen: darken($green, 30);
 
-.mui-btn--primary {
-  background-color: $green;
-  &:hover, &:active, &:focus {
-    background-color: $darkGreen;
-  }
-}
-
 body {
   font-family: "Roboto", "Helvetica Neue", Helvetica, sans-serif;
   background: $white;
@@ -21,6 +14,22 @@ body {
 ::selection {
   color: $white;
   background: $green;
+}
+
+a{
+  color: inherit;
+  font-weight: 700;
+  &:hover, &:active, &:focus {
+    color: $darkerGreen;
+    text-decoration: none;
+  }
+}
+
+.mui-btn--primary {
+  background-color: $green;
+  &:hover, &:active, &:focus {
+    background-color: $darkGreen;
+  }
 }
 
 #app {
@@ -59,6 +68,13 @@ body {
   }
 }
 
+.mui-container-fluid.padded {
+  .mui-row > div {
+    padding-top: 3em;
+  }
+  padding-bottom: 3em;
+}
+
 #particles {
   position:absolute;
   top:0;
@@ -75,15 +91,6 @@ body {
 
 .social-links a {
   padding: 0 0.3em;
-}
-
-a{
-  color: inherit;
-  font-weight: 700;
-  &:hover {
-    color: $darkerGreen;
-    text-decoration: none;
-  }
 }
 
 .panelled-grid {
@@ -111,4 +118,28 @@ a{
       }
     }
   }
+}
+
+.green-gradient {
+  background: linear-gradient(45deg, $darkGreen, $darkerGreen);
+}
+
+.justified-paragraphs p {
+  text-align: justify;
+}
+
+// wtf muicss?
+@media (min-width: 768px) {
+  .mui-col-md-6:nth-child(2n+1) {
+    clear: left;
+  }
+}
+@media (min-width: 992px) {
+  .mui-col-md-6:nth-child(2n+1) {
+    clear: none;
+  }
+}
+
+.content-block .mui-dropdown  {
+  margin: 1.5em 0;
 }

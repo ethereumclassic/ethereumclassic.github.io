@@ -4,9 +4,9 @@ try { require('particles.js') } catch (e) { console.warn(e) }
 
 import Container from 'muicss/lib/react/container'
 
-import etcLogo from '../assets/etc_logo.svg'
+import etcLogo from '../../assets/etc_logo.svg'
 import particlesConfig from './particles-config.json'
-import SocialLinks from './social-links'
+import SocialLinks from '../social-links'
 
 export default class Header extends Component {
   componentDidMount () {
@@ -31,7 +31,7 @@ export default class Header extends Component {
             {' '}<span>unstoppable</span>
           </h2>
           <a target="_blank" className="mui-btn" href="https://github.com/ethereumproject/go-ethereum/releases">Download Client</a>
-          <a target="_blank" className="mui-btn" href="#support">Support Development</a>
+          <a target="_blank" className="mui-btn" href="http://blocks.elaineou.com/">Explore the Chain</a>
           <br /><br />
           <SocialLinks />
         </Container>
