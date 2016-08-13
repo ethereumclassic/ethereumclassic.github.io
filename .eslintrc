@@ -13,6 +13,7 @@
     "react/prefer-stateless-function": [0],
     "import/no-unresolved": [0],
     "global-require": [0],
+    "max-len": [0],
   },
   "globals": {
     "__PREFIX_LINKS__": true,

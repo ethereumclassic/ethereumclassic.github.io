@@ -3,17 +3,17 @@ import React, { Component } from 'react'
 import Container from 'muicss/lib/react/container'
 import Row from 'muicss/lib/react/row'
 import Col from 'muicss/lib/react/col'
-
-import ContentPanel from './content-panel'
-
-import whyClassic from '../contents/why-classic.md'
-import decentralizedGovernance from '../contents/decentralized-governance.md'
-import codeIsLaw from '../contents/code-is-law.md'
+import Panel from 'muicss/lib/react/panel'
+import Button from 'muicss/lib/react/button'
 
 import IconDecentralised from 'react-icons/lib/ti/arrow-maximise'
 import IconFinality from 'react-icons/lib/ti/link'
 
-console.log(whyClassic)
+import ContentBlock from '../content-block'
+
+import whyClassic from '../../contents/why/why-classic.md'
+import decentralizedGovernance from '../../contents/why/decentralized-governance.md'
+import codeIsLaw from '../../contents/why/code-is-law.md'
 
 export default class WhyClassic extends Component {
   render () {
@@ -29,10 +29,16 @@ export default class WhyClassic extends Component {
             >
               Read the Declaration
             </a>
+            <br />
+            <Button variant="raised" color="primary">Learn about the Fork</Button>
           </Col>
           <Col md="8">
-            <ContentPanel src={codeIsLaw} Icon={IconFinality} />
-            <ContentPanel src={decentralizedGovernance} Icon={IconDecentralised} />
+            <Panel>
+              <ContentBlock body={codeIsLaw} Icon={IconFinality} />
+            </Panel>
+            <Panel>
+              <ContentBlock body={decentralizedGovernance} Icon={IconDecentralised} />
+            </Panel>
           </Col>
         </Row>
       </Container>

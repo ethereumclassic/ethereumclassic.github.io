@@ -15,7 +15,7 @@ export default class Footer extends Component {
         <Container>
           <Row>
             <Col xs="6">
-              Ethereum Classic is a Decentralised Project.
+              Ethereum Classic is a Decentralized Project.
               <br />
               Website content{' '}
               <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">
