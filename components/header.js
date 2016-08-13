@@ -3,10 +3,10 @@ import React, { Component } from 'react'
 try { require('particles.js') } catch (e) { console.warn(e) }
 
 import Container from 'muicss/lib/react/container'
-import Button from 'muicss/lib/react/button'
 
 import etcLogo from '../assets/etc_logo.svg'
 import particlesConfig from './particles-config.json'
+import SocialLinks from './social-links'
 
 export default class Header extends Component {
   componentDidMount () {
@@ -30,9 +30,10 @@ export default class Header extends Component {
             {' '}<span>immutable</span>
             {' '}<span>unstoppable</span>
           </h2>
-          <Button>Download Client</Button>
-          <Button>Join Slack</Button>
-          <Button>Support Development</Button>
+          <a target="_blank" className="mui-btn" href="https://github.com/ethereumproject/go-ethereum/releases">Download Client</a>
+          <a target="_blank" className="mui-btn" href="#support">Support Development</a>
+          <br /><br />
+          <SocialLinks />
         </Container>
       </Container>
     )
