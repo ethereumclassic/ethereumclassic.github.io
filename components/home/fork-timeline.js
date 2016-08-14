@@ -175,8 +175,8 @@ export default class ForkTimeline extends Component {
             <TimelineItem
               className="green"
               link="https://www.reddit.com/r/EthereumClassic/"
-              Icon={IconEthClassic} date="Jul 24" title="Classic Community"
-              text="The Classic community begins to branch off from the forked-chain subreddits and form it's own communication channels, including /r/EtheruemClassic, Slack and Telegram"
+              Icon={IconEthClassic} date="Jul 24" title="Ethereum Classic Community"
+              text="The Ethereum Classic community begins to branch off from the forked-chain subreddits and form it's own communication channels, including /r/EtheruemClassic, Slack and Telegram"
             />
             <TimelineItem
               className="white"
