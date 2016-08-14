@@ -29,7 +29,7 @@ export default class TimelineItem extends Component {
 }
 
 TimelineItem.propTypes = {
-  Icon: PropTypes.object,
+  Icon: PropTypes.func,
   date: PropTypes.string,
   title: PropTypes.string,
   text: PropTypes.string,

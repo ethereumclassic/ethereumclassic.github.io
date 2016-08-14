@@ -36,6 +36,9 @@ body {
 
 h1, h2, h3 {
   font-weight: 300;
+  small {
+    padding-left: 1em;
+  }
 }
 
 
@@ -126,26 +129,25 @@ a{
   padding: 0 0.3em;
 }
 
-.panelled-grid {
-  .mui-panel {
+.icon-panel {
+  position: relative;
+  overflow: hidden;
+  h1, h2, h3, h4 {
+    margin-top: 0;
+  }
+  .content {
     position: relative;
-    h1, h2, h3, h4 {
-      margin-top: 0;
-    }
-    .content {
-      position: relative;
-    }
-    .icon {
-      position: absolute;
-      top:0;
-      right:0;
-      opacity: 0.1;
-      height: 14em;
-      width: 14em;
-      svg {
-        height: 100%;
-        width: 100%;
-      }
+  }
+  .icon {
+    position: absolute;
+    top:0;
+    right:0;
+    opacity: 0.06;
+    height: 14em;
+    width: 14em;
+    svg {
+      height: 100%;
+      width: 100%;
     }
   }
 }
@@ -160,6 +162,18 @@ a{
 
 .justified-paragraphs p {
   text-align: justify;
+}
+
+.big-icons {
+  .icon {
+    width: 6em;
+    height: 6em;
+    margin: auto;
+    svg {
+      width: 100%;
+      height: 100%;
+    }
+  }
 }
 
 // wtf muicss?
@@ -266,6 +280,46 @@ a{
         svg {
           margin: 1em;
         }
+      }
+    }
+  }
+}
+
+.news-items {
+  $hPad: 0.5em;
+  $vPad: 0.5em;
+  .item-scroller {
+    margin: 0 -$hPad;
+    max-height: 30em;
+    overflow-y: auto;
+    &::-webkit-scrollbar {
+      width: 8px;
+      background:transparent
+    }
+    &::-webkit-scrollbar-thumb {
+      background: linear-gradient(90deg, $green, $darkGreen);
+      border-radius: 10px;
+    }
+  }
+  .item {
+    padding: $vPad $hPad;
+    display: block;
+    border-bottom: 1px solid $white;
+    &:last-child{
+      border-bottom: 0;
+    }
+    &:hover {
+      background: $white;
+    }
+    .title, .info {
+      margin:0;
+      padding:0;
+      font-weight: 400;
+    }
+    .info {
+      .date {
+        font-weight: 300;
+        padding-right: 0.5em;
       }
     }
   }
