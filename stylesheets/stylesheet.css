@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
+b, u, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
@@ -27,6 +27,20 @@ time, mark, audio, video {
   border: 0;
   font: inherit;
   vertical-align: baseline;
+}
+
+sub,
+sup {
+font-size: 75%;
+line-height: 0;
+position: relative;
+vertical-align: baseline;
+}
+sup {
+top: -0.5em;
+}
+sub {
+bottom: -0.25em;
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -358,6 +372,18 @@ Full-Width Styles
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
 
+}
+
+.declaration {
+  background-color: #fff;
+  padding: 20px;
+}
+
+.download-declaration {
+  float: right;
+  width: 25px;
+  height: 25px;
+  margin-top: -20px;
 }
 
 /*******************************************************************************
