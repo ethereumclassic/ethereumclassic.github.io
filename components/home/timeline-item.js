@@ -2,7 +2,7 @@ import React, { PropTypes, Component } from 'react'
 
 export default class TimelineItem extends Component {
   render () {
-    const { Icon, date, title, text, className, children } = this.props
+    const { Icon, date, title, text, className, link, children } = this.props
     return (
       <div className={`timeline-item ${className || ''}`}>
         <div className="date">{date || ' '}</div>
@@ -13,7 +13,13 @@ export default class TimelineItem extends Component {
           </div>
         }
         <div className="content">
-          {title && <h3>{title}</h3>}
+          {title &&
+            <h3>
+              {link ?
+                <a href={link} target="_blank">{title}</a>
+              : title}
+            </h3>
+          }
           {text && <p>{text}</p>}
           {children}
         </div>
@@ -27,6 +33,7 @@ TimelineItem.propTypes = {
   date: PropTypes.string,
   title: PropTypes.string,
   text: PropTypes.string,
+  link: PropTypes.string,
   className: PropTypes.string,
   children: PropTypes.node,
 }
