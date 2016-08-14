@@ -138,6 +138,7 @@ export default class ForkTimeline extends Component {
               text="The only reamining option is a controversial Hard Fork. A Specification is determined and announced by Slock.it and Ethereum Foundation members"
             />
             <TimelineItem
+              className="orange"
               link="https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork/"
               Icon={IconLastMinute} date="Jul 15" title="Last Minute Carbonvote"
               text="With 12 hours notice, The Etherum Foundation use a controversial third party 'coin vote' to determine that the Hard Fork should be turned on by default; consensus is declaired and an updated client is released"
@@ -149,6 +150,7 @@ export default class ForkTimeline extends Component {
               text="With around 80% of nodes updating to the new client, the community nervously await the arrival of the Hard Fork activation block 192000"
             />
             <TimelineItem
+              className="purple"
               link="https://twitter.com/initc3org/status/758000698881613824"
               Icon={IconMissionAccomplished} date="Block 192000" title="'Mission Accomplished!'"
               text="The community lets out a sigh of releif as the Hard Fork code is succesfully implemented with no obvious flaws; champangne corks are popped all over the globe"

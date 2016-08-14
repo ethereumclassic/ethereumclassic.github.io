@@ -8,7 +8,7 @@ export default class ContentBlock extends Component {
     const { Icon, body, title, dropdown } = this.props
     return (
       <div className={`content-block ${this.props.className || ''}`}>
-        {Icon && <div className="icon">{<Icon size={100} />}</div>}
+        {Icon && <div className="icon">{<Icon />}</div>}
         {title && <h2>{title}</h2>}
         {dropdown &&
           <Dropdown label={dropdown.title}>
@@ -26,7 +26,7 @@ export default class ContentBlock extends Component {
 
 ContentBlock.propTypes = {
   body: PropTypes.object.isRequired,
-  Icon: PropTypes.object,
+  Icon: PropTypes.func,
   title: PropTypes.string,
   dropdown: PropTypes.object,
   bodyClass: PropTypes.string,

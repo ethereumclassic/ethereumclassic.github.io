@@ -27,7 +27,7 @@ export default class Community extends Component {
               <h3>Thousands of individuals united by the promise of immutability</h3>
             </Col>
           </Row>
-          <Row className="justified-paragraphs padded">
+          <Row className="justified-paragraphs big-icons padded">
             <Col md="6" lg="3">
               <ContentBlock
                 Icon={IconUsers}
