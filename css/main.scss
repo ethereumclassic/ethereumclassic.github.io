@@ -90,8 +90,10 @@ a{
     font-size: 4em;
     line-height: 1em;
   }
+  h1, h2 {
+    letter-spacing: 0.1em;
+  }
   h2 {
-    font-style: italic;
     padding-bottom:1em;
     span {
       padding: 0 0.5em;
@@ -233,6 +235,12 @@ a{
         .date {
           border-top-right-radius: 20px;
           border-bottom-right-radius: 20px;
+        }
+      }
+      a {
+        font-weight: inherit;
+        &:hover {
+          border-bottom: 1px dotted $charcol;
         }
       }
       .icon {
