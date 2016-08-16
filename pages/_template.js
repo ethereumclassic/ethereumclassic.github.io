@@ -22,7 +22,6 @@ export default class MainTemplate extends Component {
     .map((a) => {
       const article = a.data
       article.to = a.path
-      console.log('blog', article)
       return article
     })
     // sort by date
