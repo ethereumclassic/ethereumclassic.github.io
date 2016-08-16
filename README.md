@@ -10,7 +10,7 @@
 
 **Manual Push:**
 
-1. `npm run build`
+1. `npm run build-prefix-links`
 2. Copy contents of `/public`
 3. Checkout `gh-pages`
 4. Paste & replace contents

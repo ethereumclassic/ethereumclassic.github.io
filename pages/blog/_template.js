@@ -1,4 +1,6 @@
 import React, { PropTypes, Component } from 'react'
+import { prefixLink } from 'gatsby-helpers'
+import { Link } from 'react-router'
 
 import Container from 'muicss/lib/react/container'
 import Row from 'muicss/lib/react/row'
@@ -8,15 +10,13 @@ import Panel from 'muicss/lib/react/panel'
 import etcLogo from '../../assets/etc_logo.svg'
 import NewsItems from '../../components/news-items'
 
-import { Link } from 'react-router'
-
 export default class BlogTempalte extends Component {
   render () {
     return (
       <Container id="blog">
         <div className="blog-header">
           <h3>
-            <Link to="/">
+            <Link to={prefixLink('/')}>
               <img className="logo" src={etcLogo} alt="Ethereum Classic" />
               Ethereum Classic
             </Link> Blog

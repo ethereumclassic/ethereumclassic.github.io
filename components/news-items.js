@@ -1,5 +1,5 @@
 import React, { PropTypes, Component } from 'react'
-
+import { prefixLink } from 'gatsby-helpers'
 import { Link } from 'react-router'
 
 import formattedDate from '../utils/formattedDate'
@@ -26,7 +26,7 @@ export default class NewsItems extends Component {
     // internal links
     if (item.to) {
       return (
-        <Link key={i} className="item" to={item.to} >
+        <Link key={i} className="item" to={prefixLink(item.to)} >
           {this.renderItemInner(item)}
         </Link>
       )
