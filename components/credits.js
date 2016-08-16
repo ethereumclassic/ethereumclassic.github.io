@@ -7,20 +7,22 @@ export default class Credits extends Component {
     return (
       <div className="credits">
         <p>
-          This website was created by random strangers on the internet who have a thing for decentralization.
+          This website was created by random strangers on the internet purely out of love for Ethereum.
           If you'd like to support similar developments, please consider donating in ETC or ETH:
         </p>
         <ul>
           <li>
             <b>DaxClassix</b> Web Development
             <br />
-            <code>0x12312312312</code>
+            <code className="wallet-address">0xF0c830882CeD032Fa6510Fc3545cED5BB60b5965</code>
           </li>
+          {/* TODO
           <li>
             <b>b3n</b> Logo Design & Graphics
             <br />
             <code>0x123123123312</code>
           </li>
+          */}
         </ul>
         <div className="mui--text-center">
           Much <Heart />
