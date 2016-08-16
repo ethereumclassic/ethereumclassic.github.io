@@ -37,7 +37,7 @@ export default class Footer extends Component {
             <Col xs="6" className="mui--text-right">
               <SocialLinks />
               <br />
-              Made with <Heart /> by <a onClick={this.handleClick} href="#">Dax & Co</a>.
+              Made with <Heart /> by <a onClick={this.handleClick} href="#">Dax</a>.
             </Col>
           </Row>
         </Container>

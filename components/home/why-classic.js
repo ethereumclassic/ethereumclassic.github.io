@@ -20,33 +20,32 @@ export default class WhyClassic extends Component {
   render () {
     return (
       <Container className="padded">
-        <Row>
-          <Col md="4" >
-            <div dangerouslySetInnerHTML={{ __html: whyClassic.body }} />
-            <a
-              className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
-              href="https://ethereumclassic.github.io/assets/ETC_Declaration_of_Independence.pdf"
-              target="_blank"
-            >
-              Read the Declaration
-            </a>
-            <br />
-            <a
-              className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
-              href="#fork-timeline"
-            >
-              Learn about the Fork
-            </a>
-          </Col>
-          <Col md="8">
-            <IconPanel Icon={IconFinality} >
-              <ContentBlock body={codeIsLaw} />
-            </IconPanel>
-            <IconPanel Icon={IconDecentralised} >
-              <ContentBlock body={decentralizedGovernance} />
-            </IconPanel>
-          </Col>
-        </Row>
+        <Col md="4" >
+          <div dangerouslySetInnerHTML={{ __html: whyClassic.body }} />
+          <a
+            className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
+            href="https://ethereumclassic.github.io/assets/ETC_Declaration_of_Independence.pdf"
+            target="_blank"
+          >
+            Read the Declaration
+          </a>
+          <br />
+          <a
+            className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
+            href="#fork-timeline"
+          >
+            Learn about the Fork
+          </a>
+          <br /><br />
+        </Col>
+        <Col md="8">
+          <IconPanel Icon={IconFinality} >
+            <ContentBlock body={codeIsLaw} />
+          </IconPanel>
+          <IconPanel Icon={IconDecentralised} >
+            <ContentBlock body={decentralizedGovernance} />
+          </IconPanel>
+        </Col>
       </Container>
     )
   }
