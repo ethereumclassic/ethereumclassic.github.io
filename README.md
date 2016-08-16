@@ -8,10 +8,16 @@
 
 ### Deploy
 
-TODO: Automate this
+**Manual Push:**
 
-1. `gatsby build --prefix-links`
+1. `npm run build`
 2. Copy contents of `/public`
 3. Checkout `gh-pages`
 4. Paste & replace contents
 5. Push
+
+**Automated Checkout:**
+
+Install [`gh-pages`](https://www.npmjs.com/package/gh-pages)
+
+1. `npm run deploy`
