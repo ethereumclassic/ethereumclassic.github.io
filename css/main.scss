@@ -170,12 +170,14 @@ a{
   padding: 0 0.3em;
 }
 
+.mui-panel {
+  h1, h2, h3 {
+    &:first-child { margin-top: 0; }
+  }
+}
 .icon-panel {
   position: relative;
   overflow: hidden;
-  h1, h2, h3, h4 {
-    margin-top: 0;
-  }
   .content {
     position: relative;
   }
@@ -352,5 +354,24 @@ a{
         padding-right: 0.5em;
       }
     }
+  }
+}
+
+.blog-header {
+  padding-bottom:1em;
+  .logo {
+    height: 2em;
+    margin-right: 1em;
+  }
+  a {
+    color: $darkGreen;
+  }
+}
+
+.blog-item > .info {
+  border-bottom: 1px solid $white;
+  margin-bottom: 1em;
+  h3 {
+    margin-top: 0;
   }
 }

@@ -36,7 +36,7 @@ import IconTbc from 'react-icons/lib/fa/ellipsis-h'
 export default class ForkTimeline extends Component {
   render () {
     return (
-      <Container fluid className="dark-grey-gradient">
+      <Container fluid className="dark-grey-gradient" id="fork-timeline">
         <Container>
           <h2>
             Hard Fork Timeline{' '}

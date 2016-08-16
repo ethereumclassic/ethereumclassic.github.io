@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component, PropTypes } from 'react'
 
 import Container from 'muicss/lib/react/container'
 import Col from 'muicss/lib/react/col'
@@ -10,7 +10,7 @@ import IconPanel from '../icon-panel'
 import NewsItems from '../news-items'
 import pressArticles from '../../contents/press.yaml'
 
-export default class WhyClassic extends Component {
+export default class News extends Component {
   render () {
     return (
       <Container className="latest-news padded">
@@ -19,7 +19,7 @@ export default class WhyClassic extends Component {
             <NewsItems
               title="Blog"
               subtitle="Classic Announcements"
-              items={[]}
+              items={this.context.blogPosts}
             />
           </IconPanel>
         </Col>
@@ -28,11 +28,15 @@ export default class WhyClassic extends Component {
             <NewsItems
               title="Press"
               subtitle="Classic in the Media"
-              items={pressArticles}
+              items={pressArticles.sort((a, b) => new Date(b.date) - new Date(a.date))}
             />
           </IconPanel>
         </Col>
       </Container>
     )
   }
+}
+
+News.contextTypes = {
+  blogPosts: PropTypes.array.isRequired,
 }
