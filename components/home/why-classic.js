@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component, PropTypes } from 'react'
 
 import Container from 'muicss/lib/react/container'
 import Row from 'muicss/lib/react/row'
@@ -15,6 +15,7 @@ import whyClassic from '../../contents/why/why-classic.md'
 import decentralizedGovernance from '../../contents/why/decentralized-governance.md'
 import codeIsLaw from '../../contents/why/code-is-law.md'
 
+
 export default class WhyClassic extends Component {
   render () {
     return (
@@ -30,7 +31,12 @@ export default class WhyClassic extends Component {
               Read the Declaration
             </a>
             <br />
-            <Button variant="raised" color="primary">Learn about the Fork</Button>
+            <a
+              className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
+              href="#fork-timeline"
+            >
+              Learn about the Fork
+            </a>
           </Col>
           <Col md="8">
             <IconPanel Icon={IconFinality} >
@@ -44,4 +50,8 @@ export default class WhyClassic extends Component {
       </Container>
     )
   }
+}
+
+WhyClassic.contextTypes = {
+  blogPosts: PropTypes.array.isRequired,
 }

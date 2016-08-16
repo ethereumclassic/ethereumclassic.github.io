@@ -36,11 +36,10 @@ export default class Community extends Component {
                 dropdown={{
                   title: 'Learn and Discuss',
                   items: [
-                    { text: 'Read the Declaration', link: '#' },
                     { text: 'Seperate your ETH/ETC', link: 'https://github.com/ethereumclassic/README/issues/3' },
-                    { text: 'Read the Wiki', link: '#' },
-                    { text: 'Join the Etherum Classic Subreddit', link: '#' },
-                    { text: 'Join our Slack Channel', link: '#' },
+                    { text: 'Read the Wiki', link: 'http://ethcwiki.org/' },
+                    { text: 'Join the Etherum Classic Subreddit', link: 'http://reddit.com/r/EthereumClassic' },
+                    { text: 'Join our Slack Channel', link: 'http://ethereumclassic.herokuapp.com' },
                   ],
                 }}
               />
@@ -53,10 +52,7 @@ export default class Community extends Component {
                 dropdown={{
                   title: 'Write Some Code',
                   items: [
-                    { text: 'Contribute to Core', link: '#' },
-                    { text: 'Build a Dapp', link: '#' },
-                    { text: 'Learn Solidity', link: '#' },
-                    { text: 'Chat in Gitter', link: '#' },
+                    { text: 'Volunteer', link: 'https://github.com/ethereumproject/volunteer' },
                   ],
                 }}
               />

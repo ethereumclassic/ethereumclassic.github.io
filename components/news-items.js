@@ -1,21 +1,41 @@
 import React, { PropTypes, Component } from 'react'
 
+import { Link } from 'react-router'
+
+import formattedDate from '../utils/formattedDate'
+
 export default class NewsItems extends Component {
+  renderItemInner (item) {
+    return [
+      <div key="info" className="info">
+        {item.date && <span className="date">{formattedDate(item.date)}</span>}
+        {item.author && <span className="author">{item.author}</span>}
+      </div>,
+      <h4 key="title" className="title">{item.title}</h4>,
+    ]
+  }
   renderItem (item, i) {
-    // TODO render `to` links
+    // external links
+    if (item.link) {
+      return (
+        <a key={i} className="item" target="_blank" href={item.link} >
+          {this.renderItemInner(item)}
+        </a>
+      )
+    }
+    // internal links
+    if (item.to) {
+      return (
+        <Link key={i} className="item" to={item.to} >
+          {this.renderItemInner(item)}
+        </Link>
+      )
+    }
+    // no link
     return (
-      <a
-        key={i}
-        className="item"
-        target="_blank"
-        href={item.link}
-      >
-        <div className="info">
-          {item.date && <span className="date">{item.date}</span>}
-          {item.source && <span className="source">{item.source}</span>}
-        </div>
-        <h4 className="title">{item.title}</h4>
-      </a>
+      <div key={i} className="item">
+        {this.renderItemInner(item)}
+      </div>
     )
   }
   render () {
@@ -29,7 +49,7 @@ export default class NewsItems extends Component {
           </small>
         </h2>
         <div className="item-scroller">
-          {items.map(this.renderItem)}
+          {items.map(this.renderItem.bind(this))}
         </div>
       </div>
     )
