@@ -116,6 +116,7 @@ a{
   > .content {
     width: 100%;
     flex: 1;
+    overflow: hidden;
   }
 }
 
@@ -186,9 +187,10 @@ a{
     position: absolute;
     top:0;
     right:0;
-    opacity: 0.06;
+    opacity: 0.2;
     height: 14em;
     width: 14em;
+    color: $green;
     svg {
       height: 100%;
       width: 100%;
@@ -379,4 +381,64 @@ a{
 
 .wallet-address {
   word-wrap: break-word;
+}
+
+.price-ticker{
+  min-height: 2em;
+  display:block;
+  margin-top: 2em;
+  opacity: 0.1;
+  word-wrap: break-word;
+  $hPad: 0.3em;
+  $vPad: 0.2em;
+  &.loaded {
+    transition: opacity 300ms;
+    opacity: 1;
+  }
+  .base, .brand {
+    padding: 0 $hPad;
+  }
+  .currency {
+    @media (max-width: 768px) {
+      margin: 1em auto;
+      display:block;
+    }
+    .inner {
+      margin: 0 $hPad;
+      padding: $vPad 0em;
+      border: 1px solid rgba(0,0,0,.1);
+      white-space: nowrap;
+    }
+    &.green .change {
+      color: green;
+      background: rgba(0,255,0,.3);
+    }
+    &.red .change {
+      color: red;
+      background: rgba(255,0,0,.3);
+    }
+    .price, .symbol {
+      background: rgba(255,255,255,.3);
+    }
+    .price, .symbol, .change {
+      padding: $vPad $hPad;
+    }
+    .symbol {
+      padding-right: $hPad;
+      padding-left: 0;
+    }
+    .price {
+      padding-left: $hPad;
+    }
+  }
+  .brand {
+    opacity: 0.4;
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+  .brand img {
+    height: 1.3em;
+    vertical-align: middle;
+  }
 }
