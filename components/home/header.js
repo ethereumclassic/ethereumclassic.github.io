@@ -7,6 +7,7 @@ import Container from 'muicss/lib/react/container'
 import etcLogo from '../../assets/etc_logo.svg'
 import particlesConfig from './particles-config.json'
 import SocialLinks from '../social-links'
+import PriceTicker from '../price-ticker'
 
 export default class Header extends Component {
   componentDidMount () {
@@ -34,6 +35,7 @@ export default class Header extends Component {
           <a target="_blank" className="mui-btn" href="http://blocks.elaineou.com/">Explore the Chain</a>
           <br /><br />
           <SocialLinks />
+          <PriceTicker />
         </Container>
       </Container>
     )
