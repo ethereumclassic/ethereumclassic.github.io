@@ -11,13 +11,15 @@
 **Manual Push:**
 
 1. `npm run build-prefix-links`
-2. Copy contents of `/public`
-3. Checkout `gh-pages`
-4. Paste & replace contents
+2. Copy contents of `/public` (move it)
+3. Checkout `master`
+4. Replace contents of `master` with `/public`
 5. Push
 
 **Automated Checkout:**
 
 Install [`gh-pages`](https://www.npmjs.com/package/gh-pages)
 
-1. `npm run deploy`
+Please see docs.
+
+TODO: Automated Deploy Tool a la https://github.com/ethereumclassic/ethereumclassic.github.io/issues/40
