@@ -16,12 +16,12 @@ module.exports = React.createClass({
     if (process.env.NODE_ENV === 'production') {
       css = <style dangerouslySetInnerHTML={{ __html: require('!raw!./public/styles.css') }} />
     }
-
     return (
       <html lang="en">
         <head>
           <meta charSet="utf-8" />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+          <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,700&subset=latin,latin-ext" rel="stylesheet" type="text/css" />
           <meta
             name="viewport"
             content="width=device-width, initial-scale=1.0"
