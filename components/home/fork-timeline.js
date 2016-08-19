@@ -56,7 +56,7 @@ export default class ForkTimeline extends Component {
             <TimelineItem
               link="https://blog.slock.it/deja-vu-dao-smart-contracts-audit-results-d26bc088e32e"
               Icon={IconDaoCreated} date="April 5 2016" title="Slock.it Creates TheDAO"
-              text="Christoph and Lefteris from Slock.it being constructing TheDAO Ethereum Contract; a security audit is compelted by Dejavu"
+              text="Slock.it construct TheDAO Ethereum Contract; a security audit is compelted by Dejavu"
             />
             <TimelineItem
               link="https://blog.slock.it/the-dao-creation-is-now-live-2270fd23affc"
@@ -89,7 +89,7 @@ export default class ForkTimeline extends Component {
             <TimelineItem
               link="https://blog.slock.it/no-dao-funds-at-risk-following-the-ethereum-smart-contract-recursive-call-bug-discovery-29f482d348b"
               Icon={IconNoFundsAtRisk} date="Jun 12" title="'No Funds at Risk'"
-              text="Stephan Taul publicly claims that TheDAO funds are safe despite the newly-discoverd critical security flaw"
+              text="Stephan Tual publicly claims that TheDAO funds are safe despite the newly-discoverd critical security flaw"
             />
             <TimelineItem
               className="red"
