@@ -169,7 +169,7 @@ export default class ForkTimeline extends Component {
             />
             <TimelineItem
               className="red"
-              Icon={IconBadTimes} date="Jul 23 Onwards" title="Community in Disary"
+              Icon={IconBadTimes} date="Jul 23 Onwards" title="Community in Disarray"
               text="Flame wars begin in the once peacful /r/etherum and /r/ethtrader subreddits and economically-charged vitriolic spats being to take hold of the community as it comes to terms with the split"
             />
             <TimelineItem
