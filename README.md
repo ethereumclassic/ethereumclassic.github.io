@@ -1,4 +1,9 @@
-# Ethereum Classic Web
+# Ethereum Classic Website
+
+This was Ethereum Classic website created as fast as possible to attract attention, updated design is in the works.
+
+Thanks for your support!
+Ethereum Classic development team.
 
 ### Develop
 
