@@ -1,12 +1,28 @@
-# ethereumclassic.github.io
+# Ethereum Classic Website
 
-This was the first website created as fast as possible to attract the community's attention.
-A new website is to come which will address most of the demands right now not yet fulfilled.
-
-Immutability was preserved at Ethereum classic,
-hackers are motivated to discover system vulnerabilities with deserved bounties.
-The history of the public ledger cannot be rewritten.
-Moral principles are not left aside for rescuing one or another company.
+This was Ethereum Classic website created as fast as possible to attract attention, updated design is in the works.
 
 Thanks for your support!
 Ethereum Classic development team.
+
+### Develop
+
+1. Clone this repo
+2. `npm install`
+3. `npm start`
+
+### Deploy
+
+**Manual Push:**
+
+1. `npm run build-prefix-links`
+2. Copy contents of `/public`
+3. Checkout `gh-pages`
+4. Paste & replace contents
+5. Push
+
+**Automated Checkout:**
+
+Install [`gh-pages`](https://www.npmjs.com/package/gh-pages)
+
+1. `npm run deploy`

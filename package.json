@@ -1,0 +1,58 @@
+{
+  "name": "docs-site",
+  "description": "Gatsby example site",
+  "version": "1.0.0",
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "dependencies": {
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-plugin-react-transform": "^2.0.2",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-preset-stage-1": "^6.5.0",
+    "gatsby": "^0.12.0",
+    "history": "^2.1.1",
+    "lodash": "^4.14.1",
+    "particles.js": "^2.0.0",
+    "react": "^15.3.0",
+    "react-addons-transition-group": "^15.3.0",
+    "react-dom": "^15.3.0",
+    "react-helmet": "^3.1.0",
+    "react-icons": "^2.2.1",
+    "react-motion": "^0.1.0",
+    "react-router": "^2.6.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.11.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-react-hmre": "^1.1.1",
+    "css-loader": "^0.23.1",
+    "eslint": "^3.2.2",
+    "eslint-config-airbnb": "^10.0.0",
+    "eslint-plugin-import": "^1.12.0",
+    "eslint-plugin-jsx-a11y": "^2.0.1",
+    "eslint-plugin-react": "^6.0.0",
+    "gh-pages": "^0.11.0",
+    "image-webpack-loader": "^2.0.0",
+    "muicss": "^0.6.9",
+    "null-loader": "^0.1.1",
+    "postcss-loader": "^0.9.1",
+    "react-transform-catch-errors": "^1.0.2",
+    "react-transform-hmr": "^1.0.4",
+    "redbox-react": "^1.2.10",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gatsby develop",
+    "build": "rm -rf ./public; gatsby build",
+    "build-prefix-links": "rm -rf ./public; gatsby build --prefix-links",
+    "deploy": "rm -rf ./public; gatsby build --prefix-links && gh-pages -d public"
+  }
+}

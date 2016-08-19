@@ -1,0 +1,444 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
+$white: #efefef;
+$grey: #ccc;
+$charcol: #666;
+$green: #669073;
+$red: #a61e1e;
+$orange: #d37c00;
+$purple: #8702d4;
+$blue: #0754d4;
+
+$darkWhite: darken($white, 10);
+$darkGrey: darken($grey, 10);
+$darkCharcol: darken($charcol, 10);
+$darkGreen: darken($green, 10);
+$darkRed: darken($red, 10);
+$darkOrange: darken($orange, 10);
+$darkPurple: darken($purple, 10);
+$darkBlue: darken($blue, 10);
+
+$darkerWhite: darken($white, 30);
+$darkerGrey: darken($grey, 30);
+$darkerCharcol: darken($charcol, 30);
+$darkerGreen: darken($green, 30);
+$darkerRed: darken($red, 30);
+$darkerOrange: darken($orange, 30);
+$darkerPurple: darken($purple, 30);
+$darkerBlue: darken($blue, 30);
+
+$defaultPadding: 3em;
+
+body {
+  font-family: "Roboto", "Helvetica Neue", Helvetica, sans-serif;
+  background: $white;
+}
+
+h1, h2, h3 {
+  font-weight: 300;
+  small {
+    padding-left: 1em;
+  }
+}
+
+ul li {
+  padding-bottom: 0.5em;
+}
+
+
+::selection {
+  color: $white;
+  background: $green;
+}
+
+a{
+  color: inherit;
+  font-weight: 700;
+  &:hover, &:active, &:focus {
+    color: $darkerGreen;
+    text-decoration: none;
+  }
+}
+
+.mui-btn--primary {
+  background-color: $green;
+  &:hover, &:active, &:focus {
+    background-color: $darkGreen;
+  }
+}
+
+.mui-container-fluid, .mui-container.padded{
+  padding: $defaultPadding 0em;
+}
+
+// wtf muicss?
+@media (min-width: 768px) {
+  .mui-col-md-6:nth-child(2n+1) {
+    clear: left;
+  }
+}
+@media (min-width: 992px) {
+  .mui-col-md-6:nth-child(2n+1) {
+    clear: none;
+  }
+}
+
+#mui-overlay {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0,0,0,.5);
+  > .inner {
+    > .close {
+      cursor: pointer;
+      position: absolute;
+      font-size: 2em;
+      color: white;
+      padding: 1em;
+      top: -2em;
+      right: -2em;
+    }
+    background: white;
+    position: relative;
+    box-shadow: 0 0.5em 3em rgba(0,0,0,.3);
+    width: 60%;
+    @media (max-width: 768px) { width: 80%; }
+    max-width: 720px;
+    margin: 0 4em;
+    padding: 2em;
+  }
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  > .content {
+    width: 100%;
+    flex: 1;
+    overflow: hidden;
+  }
+}
+
+.main-header {
+  position: relative;
+  background: linear-gradient(0deg, $darkWhite, $white);
+  color: #666;
+  .inner {
+    position: relative;
+  }
+  .logo {
+    height: 30vh;
+  }
+  h1 {
+    color: $green;
+    padding: 0.5em 0em;
+    font-size: 4em;
+    line-height: 1em;
+  }
+  h1, h2 {
+    letter-spacing: 0.1em;
+  }
+  h2 {
+    padding-bottom:1em;
+    span {
+      padding: 0 0.5em;
+    }
+  }
+}
+
+.mui-container-fluid {
+  .mui-row.padded > div {
+    padding-top: $defaultPadding;
+  }
+  padding-bottom: $defaultPadding;
+}
+
+#particles {
+  position:absolute;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+}
+
+.footer {
+  background: linear-gradient(0deg, $green, $darkGreen);
+  width: 100%;
+  padding: 1em 0em;
+}
+
+.social-links a {
+  padding: 0 0.3em;
+}
+
+.mui-panel {
+  h1, h2, h3 {
+    &:first-child { margin-top: 0; }
+  }
+}
+.icon-panel {
+  position: relative;
+  overflow: hidden;
+  .content {
+    position: relative;
+  }
+  .icon {
+    position: absolute;
+    top:0;
+    right:0;
+    opacity: 0.2;
+    height: 14em;
+    width: 14em;
+    color: $green;
+    svg {
+      height: 100%;
+      width: 100%;
+    }
+  }
+}
+
+.green-gradient {
+  background: linear-gradient(45deg, $darkGreen, $darkerGreen);
+}
+
+.dark-grey-gradient {
+  background: linear-gradient(45deg, $grey, $darkGrey);
+}
+
+.justified-paragraphs p {
+  text-align: justify;
+}
+
+.big-icons {
+  .icon {
+    width: 6em;
+    height: 6em;
+    margin: auto;
+    svg {
+      width: 100%;
+      height: 100%;
+    }
+  }
+}
+
+
+.content-block .mui-dropdown  {
+  margin: 1.5em 0;
+}
+
+@mixin timelineItemColor($light, $dark) {
+  .date { background: linear-gradient(0, $dark, $light); }
+  .icon { background: $dark; }
+  .icon::before { background: $dark; }
+}
+
+.fork-timeline-scroller {
+  overflow:hidden;
+  overflow-x: auto;
+  &::-webkit-scrollbar {
+    height: 14px;
+    background:rgba(0,0,0,.04);
+  }
+  &::-webkit-scrollbar-thumb {
+    background: linear-gradient(0, darken($darkerGrey, 15), $darkerGrey);
+    border-radius: 10px;
+  }
+  .fork-timeline {
+    padding:2em 0.5em;
+    white-space: nowrap;
+    .timeline-item {
+      // default colors
+      &{ @include timelineItemColor($charcol, $darkCharcol); }
+      &.green{ @include timelineItemColor($green, $darkGreen); }
+      &.red{ @include timelineItemColor($red, $darkRed); }
+      &.blue{ @include timelineItemColor($blue, $darkBlue); }
+      &.white{
+        @include timelineItemColor($white, $darkWhite);
+        .date, .icon { color: black; }
+      }
+      &.orange{ @include timelineItemColor($orange, $darkOrange); }
+      &.purple{ @include timelineItemColor($purple, $darkPurple); }
+
+      white-space: normal;
+      text-align: center;
+      width: 20em;
+      vertical-align: top;
+      display:inline-block;
+      .content {
+        padding: 0 1.5em;
+      }
+      .date {
+        width: 100%;
+        padding: 0.5em 0em;
+        color: $white;
+        text-transform: uppercase;
+        letter-spacing: 0.2em;
+      }
+      &:first-child .date {
+        border-top-left-radius: 20px;
+        border-bottom-left-radius: 20px;
+      }
+      &:last-child {
+        margin-right: 5em;
+        .date {
+          border-top-right-radius: 20px;
+          border-bottom-right-radius: 20px;
+        }
+      }
+      a {
+        font-weight: inherit;
+        &:hover {
+          border-bottom: 1px dotted $charcol;
+        }
+      }
+      .icon {
+        $lineHeight: 10px;
+        $lineWidth: 10px;
+        color: $grey;
+        width: auto;
+        display: inline-block;
+        border-radius: 100%;
+        position:relative;
+        text-align: center;
+        margin-top: $lineHeight - 1;
+        &::before{
+          content: '';
+          left: 50%;
+          width: $lineWidth;
+          margin-left: - $lineWidth / 2;
+          position:absolute;
+          height: $lineHeight;
+          margin-top: -$lineHeight + 1;
+          display:inline-block;
+        }
+        svg {
+          margin: 1em;
+        }
+      }
+    }
+  }
+}
+
+.news-items {
+  $hPad: 0.5em;
+  $vPad: 0.5em;
+  .item-scroller {
+    margin: 0 -$hPad;
+    max-height: 30em;
+    overflow-y: auto;
+    &::-webkit-scrollbar {
+      width: 8px;
+      background:transparent
+    }
+    &::-webkit-scrollbar-thumb {
+      background: linear-gradient(90deg, $green, $darkGreen);
+      border-radius: 10px;
+    }
+  }
+  .item {
+    padding: $vPad $hPad;
+    display: block;
+    border-bottom: 1px solid $white;
+    &:last-child{
+      border-bottom: 0;
+    }
+    &:hover {
+      background: $white;
+    }
+    .title, .info {
+      margin:0;
+      padding:0;
+      font-weight: 400;
+    }
+    .info {
+      .date {
+        font-weight: 300;
+        padding-right: 0.5em;
+      }
+    }
+  }
+}
+
+.blog-header {
+  padding-bottom:1em;
+  .logo {
+    height: 2em;
+    margin-right: 1em;
+  }
+  a {
+    color: $darkGreen;
+  }
+}
+
+.blog-item > .info {
+  border-bottom: 1px solid $white;
+  margin-bottom: 1em;
+  h3 {
+    margin-top: 0;
+  }
+}
+
+.wallet-address {
+  word-wrap: break-word;
+}
+
+.price-ticker{
+  min-height: 2em;
+  display:block;
+  margin-top: 2em;
+  opacity: 0.1;
+  word-wrap: break-word;
+  $hPad: 0.3em;
+  $vPad: 0.2em;
+  &.loaded {
+    transition: opacity 300ms;
+    opacity: 1;
+  }
+  .base, .brand {
+    padding: 0 $hPad;
+  }
+  .currency {
+    @media (max-width: 768px) {
+      margin: 1em auto;
+      display:block;
+    }
+    .inner {
+      margin: 0 $hPad;
+      padding: $vPad 0em;
+      border: 1px solid rgba(0,0,0,.1);
+      white-space: nowrap;
+    }
+    &.green .change {
+      color: green;
+      background: rgba(0,255,0,.3);
+    }
+    &.red .change {
+      color: red;
+      background: rgba(255,0,0,.3);
+    }
+    .price, .symbol {
+      background: rgba(255,255,255,.3);
+    }
+    .price, .symbol, .change {
+      padding: $vPad $hPad;
+    }
+    .symbol {
+      padding-right: $hPad;
+      padding-left: 0;
+    }
+    .price {
+      padding-left: $hPad;
+    }
+  }
+  .brand {
+    opacity: 0.4;
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+  .brand img {
+    height: 1.3em;
+    vertical-align: middle;
+  }
+}
