@@ -23,7 +23,7 @@ export default class Community extends Component {
         <Container className="mui--text-center">
           <Row>
             <Col xs="12">
-              <h1>Etheruem Classic Community</h1>
+              <h1>Ethereum Classic Community</h1>
               <h3>Thousands of individuals united by the promise of immutability</h3>
             </Col>
           </Row>
@@ -107,7 +107,7 @@ export default class Community extends Component {
                 <a target="_blank" href="http://ethereumclassic.herokuapp.com/">
                   join the slack group
                 </a>
-                , and help us continue the <b>original</b> Etheruem vision!
+                , and help us continue the <b>original</b> Ethereum vision!
               </p>
             </Col>
           </Row>

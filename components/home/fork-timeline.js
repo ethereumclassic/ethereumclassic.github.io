@@ -56,7 +56,7 @@ export default class ForkTimeline extends Component {
             <TimelineItem
               link="https://blog.slock.it/deja-vu-dao-smart-contracts-audit-results-d26bc088e32e"
               Icon={IconDaoCreated} date="April 5 2016" title="Slock.it Creates TheDAO"
-              text="Christoph and Lefteris from Slock.it being constructing TheDAO Etheruem Contract; a security audit is compelted by Dejavu"
+              text="Christoph and Lefteris from Slock.it being constructing TheDAO Ethereum Contract; a security audit is compelted by Dejavu"
             />
             <TimelineItem
               link="https://blog.slock.it/the-dao-creation-is-now-live-2270fd23affc"
@@ -129,7 +129,7 @@ export default class ForkTimeline extends Component {
             />
             <TimelineItem
               Icon={IconDebate} date="Jun 28 - Jul 15" title="Hard Fork Debate"
-              text="Many days of intense arguing goes on in the Etheruem community about the pros and cons of implementing a Hard Fork"
+              text="Many days of intense arguing goes on in the Ethereum community about the pros and cons of implementing a Hard Fork"
             />
             <TimelineItem
               className="blue"
@@ -165,7 +165,7 @@ export default class ForkTimeline extends Component {
               className="green"
               link="https://twitter.com/poloniex/status/757068619234803712"
               Icon={IconPoloniexLists} date="Jul 23" title="Poloniex Lists Classic"
-              text="The largest Etherum exchange lists 'ETC' - Etheruem Classic; many exchanges quickly follow suit, ETC price the peaks to 1/3 of ETH's"
+              text="The largest Etherum exchange lists 'ETC' - Ethereum Classic; many exchanges quickly follow suit, ETC price the peaks to 1/3 of ETH's"
             />
             <TimelineItem
               className="red"
@@ -176,7 +176,7 @@ export default class ForkTimeline extends Component {
               className="green"
               link="https://www.reddit.com/r/EthereumClassic/"
               Icon={IconEthClassic} date="Jul 24" title="Ethereum Classic Community"
-              text="The Ethereum Classic community begins to branch off from the forked-chain subreddits and form it's own communication channels, including /r/EtheruemClassic, Slack and Telegram"
+              text="The Ethereum Classic community begins to branch off from the forked-chain subreddits and form it's own communication channels, including /r/EthereumClassic, Slack and Telegram"
             />
             <TimelineItem
               className="white"
