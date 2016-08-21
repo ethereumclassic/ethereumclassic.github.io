@@ -76,6 +76,7 @@ export default class Community extends Component {
                     { link: 'http://ethteam.com/', text: 'ethteam.com' },
                     { link: 'http://etc-pool.com', text: 'etc-pool.com' },
                     { link: 'https://ethereum-classic.miningpoolhub.com/', text: 'ethereum-classic.miningpoolhub.com' },
+                    { link: 'http://bdt.io/', text: 'btd.io' },
                   ],
                 }}
               />
