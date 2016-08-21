@@ -39,9 +39,9 @@ export default class ForkTimeline extends Component {
       <Container fluid className="dark-grey-gradient" id="fork-timeline">
         <Container>
           <h2>
-            Hard Fork Timeline{' '}
+            The Hard Fork Timeline{' '}
             <small className="mui--text-dark-secondary">
-              The Events that Created Classic
+              Events that Created Classic
             </small>
           </h2>
         </Container>
