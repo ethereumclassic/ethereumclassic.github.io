@@ -1,3 +1,8 @@
 language: node_js
 node_js:
 - 6
+script: bash ./deploy.sh
+env:
+  global:
+  - ENCRYPTION_LABEL: "a55c8da1c39b"
+  - COMMIT_AUTHOR_EMAIL: "dax.classix@gmail.com"
