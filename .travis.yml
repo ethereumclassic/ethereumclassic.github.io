@@ -5,4 +5,5 @@ script: bash ./deploy.sh
 env:
   global:
   - ENCRYPTION_LABEL: "a55c8da1c39b"
-  - COMMIT_AUTHOR_EMAIL: "dax.classix@gmail.com"
+  - SOURCE_BRANCH: "autobuild-test"
+  - TARGET_BRANCH: "gh-pages"
