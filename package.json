@@ -51,8 +51,6 @@
     "lint": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public .",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "gatsby develop",
-    "build": "rm -rf ./public; gatsby build",
-    "build-prefix-links": "rm -rf ./public; gatsby build --prefix-links",
-    "deploy": "rm -rf ./public; gatsby build --prefix-links && gh-pages -d public"
+    "build": "gatsby build --prefix-links"
   }
 }
