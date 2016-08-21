@@ -36,7 +36,7 @@ export default class Community extends Component {
                 dropdown={{
                   title: 'Learn and Discuss',
                   items: [
-                    { text: 'Seperate your ETH/ETC', link: 'https://github.com/ethereumclassic/README/issues/3' },
+                    { text: 'Separate your ETH/ETC', link: 'https://github.com/ethereumclassic/README/issues/3' },
                     { text: 'Read the Wiki', link: 'http://ethcwiki.org/' },
                     { text: 'Join the Etherum Classic Subreddit', link: 'http://reddit.com/r/EthereumClassic' },
                     { text: 'Join our Slack Channel', link: 'http://ethereumclassic.herokuapp.com' },
