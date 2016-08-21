@@ -56,7 +56,7 @@ export default class ForkTimeline extends Component {
             <TimelineItem
               link="https://blog.slock.it/deja-vu-dao-smart-contracts-audit-results-d26bc088e32e"
               Icon={IconDaoCreated} date="April 5 2016" title="Slock.it Creates TheDAO"
-              text="Slock.it construct TheDAO Ethereum Contract; a security audit is compelted by Dejavu"
+              text="Slock.it construct TheDAO Ethereum Contract; a security audit is completed by Dejavu"
             />
             <TimelineItem
               link="https://blog.slock.it/the-dao-creation-is-now-live-2270fd23affc"
@@ -73,7 +73,7 @@ export default class ForkTimeline extends Component {
               className="orange"
               link="http://hackingdistributed.com/2016/05/27/dao-call-for-moratorium/"
               Icon={IconMoratorium} date="May 27" title="Moratorium Called"
-              text="On the last day of the crowdsale, DAO curator Vlad Zamfir calls for a moratorium on TheDAO, citing many game-theoritcal security issues"
+              text="On the last day of the crowdsale, DAO curator Vlad Zamfir calls for a moratorium on TheDAO, citing many game-theoretical security issues"
             />
             <TimelineItem
               link="http://slacknation.github.io/medium/8/8.html"
@@ -89,7 +89,7 @@ export default class ForkTimeline extends Component {
             <TimelineItem
               link="https://blog.slock.it/no-dao-funds-at-risk-following-the-ethereum-smart-contract-recursive-call-bug-discovery-29f482d348b"
               Icon={IconNoFundsAtRisk} date="Jun 12" title="'No Funds at Risk'"
-              text="Stephan Tual publicly claims that TheDAO funds are safe despite the newly-discoverd critical security flaw"
+              text="Stephan Tual publicly claims that TheDAO funds are safe despite the newly-discovered critical security flaw"
             />
             <TimelineItem
               className="red"
@@ -135,13 +135,13 @@ export default class ForkTimeline extends Component {
               className="blue"
               link="https://blog.slock.it/hard-fork-specification-24b889e70703"
               Icon={IconHardForkAnnounced} date="Jul 15" title="Hard Fork Spec Announced"
-              text="The only reamining option is a controversial Hard Fork. A Specification is determined and announced by Slock.it and Ethereum Foundation members"
+              text="The only remaining option is a controversial Hard Fork. A Specification is determined and announced by Slock.it and Ethereum Foundation members"
             />
             <TimelineItem
               className="orange"
               link="https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork/"
               Icon={IconLastMinute} date="Jul 15" title="Last Minute Carbonvote"
-              text="With 12 hours notice, The Etherum Foundation use a controversial third party 'coin vote' to determine that the Hard Fork should be turned on by default; consensus is declaired and an updated client is released"
+              text="With 12 hours notice, The Etherum Foundation use a controversial third party 'coin vote' to determine that the Hard Fork should be turned on by default; consensus is declared and an updated client is released"
             />
             <TimelineItem
               className="blue"
@@ -153,13 +153,13 @@ export default class ForkTimeline extends Component {
               className="purple"
               link="https://twitter.com/initc3org/status/758000698881613824"
               Icon={IconMissionAccomplished} date="Block 192000" title="'Mission Accomplished!'"
-              text="The community lets out a sigh of releif as the Hard Fork code is succesfully implemented with no obvious flaws; champangne corks are popped all over the globe"
+              text="The community lets out a sigh of relief as the Hard Fork code is succesfully implemented with no obvious flaws; champagne corks are popped all over the globe"
             />
             <TimelineItem
               className="green"
               link="https://gastracker.io/block/0x94365e3a8c0b35089c1d1195081fe7489b528a84b22199c916180db8b28ade7f"
               Icon={IconClassicBorn} date="Block 192001" title="Ethereum Classic is Born"
-              text="With predictions of the original non-forked chain to disappear within hours, many are surpised to find that miners continue mining blocks on the original chain at a lower hashrate"
+              text="With predictions of the original non-forked chain to disappear within hours, many are surprised to find that miners continue mining blocks on the original chain at a lower hashrate"
             />
             <TimelineItem
               className="green"
@@ -170,13 +170,13 @@ export default class ForkTimeline extends Component {
             <TimelineItem
               className="red"
               Icon={IconBadTimes} date="Jul 23 Onwards" title="Community in Disarray"
-              text="Flame wars begin in the once peacful /r/etherum and /r/ethtrader subreddits and economically-charged vitriolic spats being to take hold of the community as it comes to terms with the split"
+              text="Flame wars begin in the once peaceful /r/etherum and /r/ethtrader subreddits and economically-charged vitriolic spats begin to take hold of the community as it comes to terms with the split"
             />
             <TimelineItem
               className="green"
               link="https://www.reddit.com/r/EthereumClassic/"
               Icon={IconEthClassic} date="Jul 24" title="Ethereum Classic Community"
-              text="The Ethereum Classic community begins to branch off from the forked-chain subreddits and form it's own communication channels, including /r/EthereumClassic, Slack and Telegram"
+              text="The Ethereum Classic community begins to branch off from the forked-chain subreddits and form its own communication channels, including /r/EthereumClassic, Slack and Telegram"
             />
             <TimelineItem
               className="white"
@@ -187,7 +187,7 @@ export default class ForkTimeline extends Component {
             <TimelineItem
               className="green"
               Icon={IconClassicRebuild} date="Aug 15" title="Classic Rebuilds"
-              text="The Etherum Classic community begins to rally behind a stabailizng ETC price by rebuilding on the Classic network; this website is created, groups are formed, new ideas being to surface"
+              text="The Etherum Classic community begins to rally behind a stabilizing ETC price by rebuilding on the Classic network; this website is created, groups are formed, new ideas begin to surface"
             />
             <TimelineItem
               Icon={IconTbc} title="To Be Continued"
