@@ -147,12 +147,12 @@ export default class ForkTimeline extends Component {
               className="blue"
               link="https://blog.ethereum.org/2016/07/20/hard-fork-completed/"
               Icon={IconHardForkHappens} date="Jul 20" title="Ethereum Hard Forks"
-              text="With around 80% of nodes updating to the new client, the community nervously await the arrival of the Hard Fork activation block 192000"
+              text="With around 80% of nodes updating to the new client, the community nervously await the arrival of the Hard Fork activation block 1920000"
             />
             <TimelineItem
               className="purple"
               link="https://twitter.com/initc3org/status/758000698881613824"
-              Icon={IconMissionAccomplished} date="Block 192000" title="'Mission Accomplished!'"
+              Icon={IconMissionAccomplished} date="Block 1920000" title="'Mission Accomplished!'"
               text="The community lets out a sigh of relief as the Hard Fork code is succesfully implemented with no obvious flaws; champagne corks are popped all over the globe"
             />
             <TimelineItem
