@@ -6,7 +6,6 @@ import Container from 'muicss/lib/react/container'
 import Row from 'muicss/lib/react/row'
 import Col from 'muicss/lib/react/col'
 
-import SocialLinks from './social-links'
 import Credits from './credits'
 
 export default class Footer extends Component {
@@ -35,7 +34,7 @@ export default class Footer extends Component {
               .
             </Col>
             <Col xs="6" className="mui--text-right">
-              Made with <Heart /> by <a onClick={this.handleClick} href="#">Dax</a> and Travis.
+              Made with <Heart /> by <a onClick={this.handleClick} href="#">Dax</a>.
             </Col>
           </Row>
         </Container>
