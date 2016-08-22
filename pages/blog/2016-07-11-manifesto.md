@@ -1,6 +1,6 @@
 ---
 title: A Crypto-Decentralist Manifesto
-date: 2016-07-14
+date: 2016-07-11
 author: Arvicco
 ---
 
