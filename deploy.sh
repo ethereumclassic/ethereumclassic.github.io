@@ -40,14 +40,14 @@ git config user.name "Travis CI"
 git config user.email "$COMMITTER_NAME"
 
 # If there are no changes to the compiled out (e.g. this is a README update) then just bail.
-if [ -z `git diff --exit-code` ]; then
+if [ $(git status --porcelain | wc -l) -lt 1 ]; then
     echo "No changes to the output on this push; exiting."
     exit 0
 fi
 
 # Commit the "changes", i.e. the new version.
 # The delta will show diffs between new and old versions.
-git add .
+git add -A .
 git commit -m "Deploy to GitHub Pages: ${SHA}"
 
 # Get the deploy key by using Travis's stored variables to decrypt deploy_key.enc
