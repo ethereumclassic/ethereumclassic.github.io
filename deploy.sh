@@ -19,7 +19,7 @@ fi
 REPO=`git config remote.origin.url`
 SSH_REPO=${REPO/https:\/\/github.com\//git@github.com:}
 SHA=`git rev-parse --verify HEAD`
-COMMITTER_NAME="$(git log --pretty=format:'%ae' -1)"
+COMMITTER_EMAIL="$(git log --pretty=format:'%ae' -1)"
 
 # Clone the existing gh-pages for this repo into out/
 # Create a new empty branch if gh-pages doesn't exist yet (should only happen on first deply)
@@ -37,13 +37,7 @@ doCompile
 # Now let's go have some fun with the cloned repo
 cd public
 git config user.name "Travis CI"
-git config user.email "$COMMITTER_NAME"
-
-# If there are no changes to the compiled out (e.g. this is a README update) then just bail.
-if [ $(git status --porcelain | wc -l) -lt 1 ]; then
-    echo "No changes to the output on this push; exiting."
-    exit 0
-fi
+git config user.email "$COMMITTER_EMAIL"
 
 # Commit the "changes", i.e. the new version.
 # The delta will show diffs between new and old versions.
