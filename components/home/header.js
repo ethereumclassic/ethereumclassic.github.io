@@ -33,11 +33,14 @@ export default class Header extends Component {
             {' '}<span>immutable</span>
             {' '}<span>unstoppable</span>
           </h2>
-          <a target="_blank" className="mui-btn" href="https://github.com/ethereumproject/go-ethereum/releases">Download Client</a>
+          <Dropdown label="Download ETC Client">
+            <DropdownItem target="_blank" link="//classicetherwallet.com/">Web Wallet</DropdownItem>
+            <DropdownItem target="_blank" link="//chrome.google.com/webstore/detail/classicetherwallet-cx/opggclcfcbfbchcienjdaohghcamjfhf">Chrome Extension</DropdownItem>
+            <DropdownItem target="_blank" link="//github.com/ethereumproject/go-ethereum/releases">Full Node</DropdownItem>
+          </Dropdown>
           {' '}
           <br />
           <Dropdown label="Blockchain Explorers">
-            <DropdownItem target="_blank" link="//blocks.elaineou.com">blocks.elaineou.com</DropdownItem>
             <DropdownItem target="_blank" link="//etherhub.io">etherhub.io</DropdownItem>
             <DropdownItem target="_blank" link="//gastracker.io">gastracker.io</DropdownItem>
             <DropdownItem target="_blank" link="//etherx.com">etherx.com</DropdownItem>
