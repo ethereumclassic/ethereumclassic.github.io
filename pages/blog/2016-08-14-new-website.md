@@ -8,4 +8,4 @@ Hello Classic Fans.
 
 We've launched a new website to replace the old one.
 
-If you'd like to write a blog article, feel free to submit a PR!
+If you'd like to write a blog article, [feel free to submit a PR](https://github.com/ethereumclassic/ethereumclassic.github.io)!
