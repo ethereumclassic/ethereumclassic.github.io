@@ -57,7 +57,7 @@ Mining pool supporting the original chain is currently under development, please
 
 ### Traders
 
-Most important question for traders is 'will ETC have market price'? There are all reasons to believe that it will. Essentially, ETC is an Ethereum ['spinoff coin'](https://bitcointalk.org/index.php?topic=563972.0) with a wide user base of all current ETH users. Some of them will see the value of transacting on a censorship-resistant chain, some won't. This creates interesting arbitrage opportunities for smart traders. Additional reasoning why [EHTC is very unlikely to be 'worthless'](https://www.reddit.com/r/ethereum/comments/4sxwo3/ethereum_classic_keep_original/d5dawgg).
+Most important question for traders is 'will ETC have market price'? There are all reasons to believe that it will. Essentially, ETC is an Ethereum ['spinoff coin'](https://bitcointalk.org/index.php?topic=563972.0) with a wide user base of all current ETH users. Some of them will see the value of transacting on a censorship-resistant chain, some won't. This creates interesting arbitrage opportunities for smart traders. Additional reasoning why [ETC is very unlikely to be 'worthless'](https://www.reddit.com/r/ethereum/comments/4sxwo3/ethereum_classic_keep_original/d5dawgg).
 
 One exchange agreed to carry ETC already. It's Bitsquare which is planning to [add ETC trading right after the fork](https://www.reddit.com/r/ethereum/comments/4sxwo3/ethereum_classic_keep_original/d5e1oo7). Other trading venues will follow. We are in talks with several exchanges to add ETC to their platforms (or re-introduce trading for the exchanges that previously traded ethers).
 
