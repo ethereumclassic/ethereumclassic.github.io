@@ -15,15 +15,15 @@ export default class SocialLinks extends Component {
   render () {
     return (
       <Dropdown label="Social Links" className="social-links">
-        <DropdownItem link="https://github.com/ethereumproject" target="_blank"><Github /> Github</DropdownItem>
-        <DropdownItem link="https://twitter.com/ethereumclassic" target="_blank"><Twitter /> @etheruemclassic</DropdownItem>
-        <DropdownItem link="https://twitter.com/eth_classic" target="_blank"><Twitter /> @eth_classic</DropdownItem>
-        <DropdownItem link="http://ethereumclassic.herokuapp.com" target="_blank"><Slack /> Slack</DropdownItem>
-        <DropdownItem link="https://reddit.com/r/ethereumclassic" target="_blank"><Reddit /> Reddit</DropdownItem>
-        <DropdownItem link="https://telegram.me/ethclassic" target="_blank"><Telegram /> Telegram</DropdownItem>
-        <DropdownItem link="http://telegram.me/etcrussia" target="_blank"><Telegram /> Telegram (Russian)</DropdownItem>
-        <DropdownItem link="irc://irc.freenode.net/ethereumclassic" target="_blank"><Irc /> IRC</DropdownItem>
-        <DropdownItem link="https://ethereumclassictalk.org" target="_blank"><Forum /> Ethereum Classic Forums</DropdownItem>
+        <DropdownItem link="https://github.com/ethereumproject" target="_blank"><Github className="icon" /> Github</DropdownItem>
+        <DropdownItem link="https://twitter.com/ethereumclassic" target="_blank"><Twitter className="icon" /> @etheruemclassic</DropdownItem>
+        <DropdownItem link="https://twitter.com/eth_classic" target="_blank"><Twitter className="icon" /> @eth_classic</DropdownItem>
+        <DropdownItem link="http://ethereumclassic.herokuapp.com" target="_blank"><Slack className="icon" /> Slack</DropdownItem>
+        <DropdownItem link="https://reddit.com/r/ethereumclassic" target="_blank"><Reddit className="icon" /> Reddit</DropdownItem>
+        <DropdownItem link="https://telegram.me/ethclassic" target="_blank"><Telegram className="icon" /> Telegram</DropdownItem>
+        <DropdownItem link="http://telegram.me/etcrussia" target="_blank"><Telegram className="icon" /> Telegram (Russian)</DropdownItem>
+        <DropdownItem link="irc://irc.freenode.net/ethereumclassic" target="_blank"><Irc className="icon" /> IRC</DropdownItem>
+        <DropdownItem link="https://ethereumclassictalk.org" target="_blank"><Forum className="icon" /> Ethereum Classic Forums</DropdownItem>
       </Dropdown>
     )
   }
