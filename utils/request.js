@@ -1,4 +1,4 @@
-const Promise = require('es6-promise').Promise
+const Promise = require('promise-polyfill')
 
 export function get (url) {
   return new Promise((resolve, reject) => {
