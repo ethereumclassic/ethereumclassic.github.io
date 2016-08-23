@@ -113,7 +113,7 @@ a{
   min-height: 100vh;
   > .content {
     width: 100%;
-    flex: 1;
+    flex: 1 0 0;
     overflow: hidden;
   }
 }
@@ -226,7 +226,10 @@ a{
 }
 
 @mixin timelineItemColor($light, $dark) {
-  .date { background: linear-gradient(0, $dark, $light); }
+  .date {
+    background: $dark;
+    background: linear-gradient(0, $dark, $light);
+  }
   .icon { background: $dark; }
   .icon::before { background: $dark; }
 }
