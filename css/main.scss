@@ -151,6 +151,16 @@ a{
   padding-bottom: $defaultPadding;
 }
 
+.mui-dropdown__menu {
+  li:last-child {
+    padding-bottom: 0;
+  }
+  li .icon {
+    margin-right: 0.5em;
+    color: $darkGreen;
+  }
+}
+
 #particles {
   position:absolute;
   top:0;
