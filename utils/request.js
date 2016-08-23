@@ -1,3 +1,5 @@
+const Promise = require('es6-promise').Promise
+
 export function get (url) {
   return new Promise((resolve, reject) => {
     const request = new XMLHttpRequest()
