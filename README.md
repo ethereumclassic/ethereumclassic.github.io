@@ -12,11 +12,9 @@ Do not directly modify `master` branch; it is for [serving](https://help.github.
 
 ### Develop
 
-1. You need to have [Node.js installed](https://nodejs.org/en/download/)
-2. Fork this repo under your name
-2. Clone the forked repo locally, checkout `source`
-3. `npm install`
-4. `npm start`
+1. Clone this repo, checkout `source`
+2. `npm install`
+3. `npm start`
 
 #### Where to add content?
 
@@ -34,9 +32,7 @@ Run `npm run build`, and open up `/public/index.html` with a static web server.
 
 ### Deploy
 
-1. Push changes to your fork
-2. Create pull request from the `source` branch of your repo to `source` branch of ethereumclassic/ethereumclassic.github.io/
-3. Travis CI will handle the rest.
+Simply push changes to the `source` branch and Travis CI will handle the rest rest.
 
 ## License
 
