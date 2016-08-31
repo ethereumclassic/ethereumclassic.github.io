@@ -4,7 +4,7 @@ date: 2016-08-14
 author: DaxClassix
 ---
 
-Hello Classic Fans.
+Hello, Classic Fans!
 
 We've launched a new ethereumclassic.org website to replace the old one.
 
