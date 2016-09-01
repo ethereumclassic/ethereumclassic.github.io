@@ -13,6 +13,7 @@
     "history": "^2.1.1",
     "lodash": "^4.14.1",
     "particles.js": "^2.0.0",
+    "promise-polyfill": "^6.0.1",
     "react": "^15.3.0",
     "react-addons-transition-group": "^15.3.0",
     "react-dom": "^15.3.0",

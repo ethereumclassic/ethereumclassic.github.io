@@ -5091,6 +5091,11 @@
       "from": "promise@>=7.1.1 <8.0.0",
       "resolved": "https://registry.npmjs.org/promise/-/promise-7.1.1.tgz"
     },
+    "promise-polyfill": {
+      "version": "6.0.1",
+      "from": "promise-polyfill@latest",
+      "resolved": "https://registry.npmjs.org/promise-polyfill/-/promise-polyfill-6.0.1.tgz"
+    },
     "promise.pipe": {
       "version": "3.0.0",
       "from": "promise.pipe@>=3.0.0 <4.0.0",

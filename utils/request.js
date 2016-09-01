@@ -1,3 +1,5 @@
+const Promise = require('promise-polyfill')
+
 export function get (url) {
   return new Promise((resolve, reject) => {
     const request = new XMLHttpRequest()
