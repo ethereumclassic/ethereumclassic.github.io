@@ -159,12 +159,12 @@ export default class ForkTimeline extends Component {
               className="green"
               link="https://gastracker.io/block/0x94365e3a8c0b35089c1d1195081fe7489b528a84b22199c916180db8b28ade7f"
               Icon={IconClassicBorn} date="Block 192001" title="Ethereum Classic is Born"
-              text="With predictions of the original non-forked chain to disappear within hours, many are surprised to find that miners continue mining blocks on the original chain at a lower hashrate"
+              text="With predictions of the original non-forked chain to disappear within hours, many are surprised to find that miners continue mining blocks and OTC trading of the original chain tokens gives them value"
             />
             <TimelineItem
               className="green"
               link="https://twitter.com/poloniex/status/757068619234803712"
-              Icon={IconPoloniexLists} date="Jul 23" title="Poloniex Lists Classic"
+              Icon={IconPoloniexLists} date="Jul 23" title="Poloniex Lists ETC"
               text="The largest Etherum exchange lists 'ETC' - Ethereum Classic; many exchanges quickly follow suit, ETC price the peaks to 1/3 of ETH's"
             />
             <TimelineItem
@@ -188,6 +188,12 @@ export default class ForkTimeline extends Component {
               className="green"
               Icon={IconClassicRebuild} date="Aug 15" title="Classic Rebuilds"
               text="The Etherum Classic community begins to rally behind a stabilizing ETC price by rebuilding on the Classic network; this website is created, groups are formed, new ideas begin to surface"
+            />
+            <TimelineItem
+              className="white"
+              link="https://bitcoinmagazine.com/articles/millions-of-dollars-worth-of-etc-may-soon-be-dumped-on-the-market-1472567361"
+              Icon={IconMarketPanic} date="Aug 31" title="DAO ETC unlocked"
+              text="Millions of previously locked or frozen ETC become available to DAO token holders and DAO attacker. Despite predictions of doom and gloom, ETC price holds remarkably well in face of huge dumps"
             />
             <TimelineItem
               Icon={IconTbc} title="To Be Continued"
