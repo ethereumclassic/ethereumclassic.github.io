@@ -1,4 +1,9 @@
 -
+  date: 2016-09-04
+  link: http://fortune.com/2016/09/04/ethereum-fall-out/
+  author: Fortune
+  title: "The Bizarre Fallout of Ethereum’s Epic Fail"
+-
   date: 2016-09-01
   link: http://cointimes.tech/2016/09/ethereum-classic-a-masterpiece-in-the-making/
   author: CoinTimes
@@ -128,6 +133,11 @@
   link: http://blogs.wsj.com/moneybeat/2016/08/01/the-great-digital-currency-debate-new-ethereum-vs-ethereum-classic/
   author: The Wall Street Journal
   title: "The Great Digital-Currency Debate: ‘New’ Ethereum Vs. Ethereum ‘Classic’"
+-
+  date: 2016-08-01
+  link: http://elaineou.com/2016/08/01/the-value-of-settlement-finality
+  author: Elaine Ou
+  title: "The Value of Settlement Finality"
 -
   date: 2016-07-31
   link: http://www.newsbtc.com/2016/07/31/51pool-attack-plans-51-network-attack-ethereum-classic/
