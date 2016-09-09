@@ -34,8 +34,10 @@ export default class Header extends Component {
             {' '}<span>unstoppable</span>
           </h2>
           <Dropdown label="Download ETC Client">
-            <DropdownItem target="_blank" link="http://classicetherwallet.com/">Web Wallet</DropdownItem>
+            <DropdownItem target="_blank" link="//jaxx.io/">Multi-platform Wallet</DropdownItem>
             <DropdownItem target="_blank" link="//chrome.google.com/webstore/detail/classicetherwallet-cx/opggclcfcbfbchcienjdaohghcamjfhf">Chrome Extension</DropdownItem>
+            <DropdownItem target="_blank" link="//www.ledgerwallet.com/products/12-ledger-nano-s">Hardware Wallet</DropdownItem>
+            <DropdownItem target="_blank" link="//classicetherwallet.com/">Web Wallet</DropdownItem>
             <DropdownItem target="_blank" link="//github.com/ethereumproject/go-ethereum/releases">Full Node</DropdownItem>
           </Dropdown>
           {' '}
