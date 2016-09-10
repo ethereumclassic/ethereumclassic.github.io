@@ -1,5 +1,5 @@
 ---
-title: On 'Code is Law' and the quest for justice
+title: 'Code is Law' and the quest for justice
 date: 2016-09-09
 author: Arvicco
 ---
