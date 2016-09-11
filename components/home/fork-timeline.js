@@ -119,7 +119,7 @@ export default class ForkTimeline extends Component {
               className="blue"
               link="https://blog.ethereum.org/2016/06/24/dao-wars-youre-voice-soft-fork-dilemma/"
               Icon={IconSoftFork} date="Jun 24" title="DAO Wars: Soft Fork Vote"
-              text="The Etherum Foundation releases a 'Soft Fork' client to censor transactions coming from the hacker; mining pools vote to enable it by lowering gas limit"
+              text="The Ethereum Foundation releases a 'Soft Fork' client to censor transactions coming from the hacker; mining pools vote to enable it by lowering gas limit"
             />
             <TimelineItem
               className="red"
@@ -141,7 +141,7 @@ export default class ForkTimeline extends Component {
               className="orange"
               link="https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork/"
               Icon={IconLastMinute} date="Jul 15" title="Last Minute Carbonvote"
-              text="With 12 hours notice, The Etherum Foundation use a controversial third party 'coin vote' to determine that the Hard Fork should be turned on by default; consensus is declared and an updated client is released"
+              text="With 12 hours notice, The Ethereum Foundation use a controversial third party 'coin vote' to determine that the Hard Fork should be turned on by default; consensus is declared and an updated client is released"
             />
             <TimelineItem
               className="blue"
@@ -165,12 +165,12 @@ export default class ForkTimeline extends Component {
               className="green"
               link="https://twitter.com/poloniex/status/757068619234803712"
               Icon={IconPoloniexLists} date="Jul 23" title="Poloniex Lists ETC"
-              text="The largest Etherum exchange lists 'ETC' - Ethereum Classic; many exchanges quickly follow suit, ETC price the peaks to 1/3 of ETH's"
+              text="The largest Ethereum exchange lists 'ETC' - Ethereum Classic; many exchanges quickly follow suit, ETC price the peaks to 1/3 of ETH's"
             />
             <TimelineItem
               className="red"
               Icon={IconBadTimes} date="Jul 23 Onwards" title="Community in Disarray"
-              text="Flame wars begin in the once peaceful /r/etherum and /r/ethtrader subreddits and economically-charged vitriolic spats begin to take hold of the community as it comes to terms with the split"
+              text="Flame wars begin in the once peaceful /r/Ethereum and /r/ethtrader subreddits and economically-charged vitriolic spats begin to take hold of the community as it comes to terms with the split"
             />
             <TimelineItem
               className="green"
@@ -187,7 +187,7 @@ export default class ForkTimeline extends Component {
             <TimelineItem
               className="green"
               Icon={IconClassicRebuild} date="Aug 15" title="Classic Rebuilds"
-              text="The Etherum Classic community begins to rally behind a stabilizing ETC price by rebuilding on the Classic network; this website is created, groups are formed, new ideas begin to surface"
+              text="The Ethereum Classic community begins to rally behind a stabilizing ETC price by rebuilding on the Classic network; this website is created, groups are formed, new ideas begin to surface"
             />
             <TimelineItem
               className="white"
