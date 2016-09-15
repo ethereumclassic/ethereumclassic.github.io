@@ -51,6 +51,8 @@ export default class Header extends Component {
           &nbsp;{' '}&nbsp;
           <SocialLinks />
           <PriceTicker />
+          <br/>
+          Donate: <code>0xe9a7e26bf5c05fe3bae272d4c940bd7158611ce9</code>
         </Container>
       </Container>
     )
