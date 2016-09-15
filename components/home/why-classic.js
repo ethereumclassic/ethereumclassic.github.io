@@ -28,10 +28,10 @@ export default class WhyClassic extends Component {
           >
             Declaration of Independence
           </a>
-          <br/>
+          <br />
           <a
             className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
-            href="http://www.slideshare.net/arcatomia/ethereum-classic-shanghai-products-and-services"
+            href={prefixLink('/assets/Ethereum_Classic_-_The_New_Original_Innovator.pdf')}
             target="_blank"
           >
             Products and Services Roadmap
