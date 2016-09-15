@@ -86,6 +86,7 @@ export default class Community extends Component {
                     { link: 'http://etc.altpool.net/', text: 'etc.altpool.net' },
                     { link: 'http://etc-pool.com', text: 'etc-pool.com' },
                     { link: 'https://ethereum-classic.miningpoolhub.com/', text: 'ethereum-classic.miningpoolhub.com' },
+                    { link: 'http://etc-poolcrypto.org/', text: 'etc-poolcrypto.org' }
                   ],
                 }}
               />
