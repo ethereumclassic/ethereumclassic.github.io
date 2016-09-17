@@ -11,7 +11,7 @@ Methodology for reaching improved governance of decentralized anarchist organiza
 
 ![](http://insidebitcoins.com/wp-content/uploads/2014/10/CryptoAnarchy-Logo.jpg)
 
-<center>Figure 1 - Source [Inside Bitcoins](http://insidebitcoins.com/)</center>
+Figure 1 - Source [Inside Bitcoins](http://insidebitcoins.com/)
 
 
 ## Introduction
@@ -20,7 +20,7 @@ One of the main problems to be addressed by a decentralized anarchist organizati
 
 ![](https://miletrackgps.com/wp-content/uploads/2014/08/dna.jpg)
 
-<center>Figure 2 - Source [Mile Track GPS](https://miletrackgps.com/)</center>
+Figure 2 - Source [Mile Track GPS](https://miletrackgps.com/)
 
 ## Proposed Algorithm
 
@@ -32,7 +32,7 @@ One way to effectively measure the fitness of proposals is by a simple democracy
 
 ![](http://t1.ftcdn.net/jpg/00/48/00/52/400_F_48005278_ll3uog4WdeW3maZ11URbnw3wXBsr9xUl.jpg)
 
-<center>Figure 3 - Source [FTCDN](http://t1.ftcdn.net/)</center>
+Figure 3 - Source [FTCDN](http://t1.ftcdn.net/)
 
 
 If somehow a method for measuring the quality of the votes was available, the [tiranny of the majority](https://en.wikipedia.org/wiki/Tyranny_of_the_majority) could be avoided.
@@ -41,10 +41,9 @@ If somehow a method for measuring the quality of the votes was available, the [t
 
 The quality of the votes can be estimated with the conscience level each voter has.
 
+![](http://www.mytechanalyst.net/wp-content/uploads/2014/02/CustomerSatChecklist-Depositphotos_4351613_xs.jpg)
 
-![](http://i.imgur.com/I6EL2xy.jpg)
-
-<center>Figure 4 - Source [My Tech Analyst](http://www.mytechanalyst.net/)</center>
+Figure 4 - Source [My Tech Analyst](http://www.mytechanalyst.net/)
 
 
 To better illustrate the conscience level parameter I'll give a classical example called [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons).
@@ -54,8 +53,8 @@ To better illustrate the conscience level parameter I'll give a classical exampl
 
 >The tragedy of the commons is an economic theory of a situation within a shared-resource system where individual users acting independently according to their own self-interest behave contrary to the common good of all users by depleting that resource through their collective action.
 
-![](https://secure.static.tumblr.com/73d934c53ee607bed6434d88063fdccf/iotazsv/MlJnhmz4c/tumblr_static_tumblr_static_9et8m7056cws88wc04wsgcssk_640.jpg)
-<center>Figure 5 - Source [Jborden](http://www.jborden.com/)</center>
+![](http://i.imgur.com/I6EL2xy.jpg)
+Figure 5 - Source [Jborden](http://www.jborden.com/)
 
 
 People with less conscience would vote based on their own interest resulting in the depleting of the common resource whereas people with more conscience would actually vote for the collective handling of the common resource for added overall productivity.
@@ -70,7 +69,7 @@ He became Darth Vader and started acting evilly, in the same way highly consciou
 
 ![](https://secure.static.tumblr.com/73d934c53ee607bed6434d88063fdccf/iotazsv/MlJnhmz4c/tumblr_static_tumblr_static_9et8m7056cws88wc04wsgcssk_640.jpg)
 
-<center>Figure 6 - Source [Tumblr](https://www.tumblr.com/)</center>
+Figure 6 - Source [Tumblr](https://www.tumblr.com/)
 
 
 Evilness can be modeled as a factor ranging from -1 to 1.
