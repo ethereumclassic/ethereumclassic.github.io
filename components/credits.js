@@ -25,7 +25,7 @@ export default class Credits extends Component {
           */}
         </ul>
         <div className="mui--text-center">
-          Much <Heart />
+          Done with <Heart />
         </div>
       </div>
     )
