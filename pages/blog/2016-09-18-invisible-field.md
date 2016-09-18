@@ -8,7 +8,7 @@ author: ProphetDaniel
 
 Ethereum Classic community, with a clean and inspired mind we will perform greatly in the many challenges we have ahead.
 
-The video bellow perfectly captures a beautiful phenomenon, a consequence of the invisible field and protector of life on planet Earth called magnetic field. Mars once had a [similar magnitude field](http://mgs-mager.gsfc.nasa.gov/Kids/magfield.html) for millions of years ago when life was probably much more abundant there. With its weakening the sunrays just ravaged the planet.
+The video bellow perfectly captures a beautiful phenomenon, a consequence of the invisible field and [protector of life](https://youtu.be/MEr_h6cUat4) on planet Earth called magnetic field. Mars once had a [similar magnitude field](http://mgs-mager.gsfc.nasa.gov/Kids/magfield.html) for millions of years ago when life was probably much more abundant there. With its weakening the sunrays just ravaged the planet.
 
 So every time you feel defeated by the devastation that we do ourselves to our planet, remember that there is an invisible field and protector of our lives here on Earth. A field able to reveal itself to mankind through a light show in rare places.
 
