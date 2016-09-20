@@ -23,7 +23,7 @@ export default class SocialLinks extends Component {
         <DropdownItem link="https://ethereumclassictalk.org" target="_blank"><Forum className="icon" /> Ethereum Classic Forums</DropdownItem>
         <DropdownItem link="https://twitter.com/ethereumclassic" target="_blank"><Twitter className="icon" /> @etheruemclassic</DropdownItem>
         <DropdownItem link="https://twitter.com/eth_classic" target="_blank"><Twitter className="icon" /> @eth_classic</DropdownItem>
-        <DropdownItem link="irc://irc.freenode.net/ethereumclassic" target="_blank"><Irc className="icon" /> IRC</DropdownItem>
+        <DropdownItem link="http://webchat.freenode.net?channels=ethereumclassic&uio=d4" target="_blank"><Irc className="icon" /> IRC</DropdownItem>
         <DropdownItem link="https://www.linkedin.com/company/ethereum-classic" target="_blank"><Linkedin className="icon" /> LinkedIn</DropdownItem>
         <DropdownItem link="http://telegram.me/etcrussia" target="_blank"><Telegram className="icon" /> Telegram (Russian)</DropdownItem>
       </Dropdown>
