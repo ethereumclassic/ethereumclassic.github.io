@@ -82,6 +82,10 @@ These courses are in fact relevant competences to the subject being voted, so an
 
 ### Measuring evilness of an individual
 
+![](http://i.imgur.com/36tTiow.jpg)
+
+Figure 6 - Source the author
+
 The advent of the blockchain allowed the recording of information in a safe, decentralized and possibly immutable way. Taking into advantage this technology, the evil deeds of an individual can be recorded in a blockchain powered immutable ledger.
 
 If that was done in the [forked Ethereum](https://www.ethereum.org/), Darth Vader would have the possibility to attack his evilness ledger to make it not evil with the purpose of receiving voting power.
