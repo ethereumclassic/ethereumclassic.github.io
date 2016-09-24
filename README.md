@@ -34,12 +34,14 @@ Run `npm run build`, and open up `/public/index.html` with a static web server.
 
 Simply push changes to the `source` branch and Travis CI will handle the rest rest.
 
-## License
-=======
+You can also manually deploy (not recommended) by pushing to the `master` branch:
+
 1. `npm run build-prefix-links`
 2. Copy contents of `/public` (move it)
 3. Checkout `master`
 4. Replace contents of `master` with `/public`
 5. Push
+
+## License
 
 Everything that's not already copyrighted is licensed under [CC0](https://creativecommons.org/choose/zero/) (for graphics) and [TBD ULTRA-OPEN PUBLIC DOMAIN LICENSE].
