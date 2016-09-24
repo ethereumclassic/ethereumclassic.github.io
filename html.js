@@ -1,5 +1,5 @@
 import React from 'react'
-// import Helmet from 'react-helmet'
+import Helmet from 'react-helmet'
 import { prefixLink } from 'gatsby-helpers'
 
 import favicon from './assets/favicon.png'
@@ -12,7 +12,7 @@ module.exports = React.createClass({
     body: React.PropTypes.string,
   },
   render () {
-    // const head = Helmet.rewind()
+    const head = Helmet.rewind()
 
     let css
     if (process.env.NODE_ENV === 'production') {
@@ -29,8 +29,7 @@ module.exports = React.createClass({
             name="viewport"
             content="width=device-width, initial-scale=1.0"
           />
-          <title>Ethereum Classic</title>
-          {/*{head.title.toComponent()}*/}
+          {head.title.toComponent()}
           {css}
         </head>
         <body>

@@ -1,4 +1,5 @@
 import React, { PropTypes, Component } from 'react'
+import Helmet from 'react-helmet'
 
 // import { Link } from 'react-router'
 // import { prefixLink } from 'gatsby-helpers'
@@ -32,6 +33,10 @@ export default class MainTemplate extends Component {
   render () {
     return (
       <OverlayProvider id="app">
+        <Helmet
+          defaultTitle="Ethereum Classic"
+          titleTemplate="%s | Ethereum Classic"
+        />
         <div className="content">
           {this.props.children}
         </div>
