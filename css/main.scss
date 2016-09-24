@@ -388,8 +388,10 @@ a{
     margin-top: 0;
   }
 }
-.blog-item img {
-  max-width: 100%;
+.blog-item {
+  img, iframe {
+    max-width: 100%;
+  }
 }
 
 .wallet-address {
