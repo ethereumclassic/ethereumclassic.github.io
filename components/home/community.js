@@ -67,8 +67,9 @@ export default class Community extends Component {
                 dropdown={{
                   title: 'Join a Pool',
                   items: [
-                    { link: 'http://etc.91pool.com/', text: 'ETC 91pool'},
                     { link: 'http://etherx.com/pools', text: 'Compare ETC Pools' },
+                    { link: 'https://www.coinotron.com', text: 'Coinotron'},                  
+                    { link: 'http://etc.91pool.com/', text: 'ETC 91pool'},
                     { link: 'http://ethc.epool.io', text: 'ethc.epool.io' },
                     { link: 'https://minergate.com', text: 'minergate.com' },
                     { link: 'https://etc.suprnova.cc', text: 'etc.suprnova.cc' },
