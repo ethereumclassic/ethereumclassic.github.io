@@ -15,5 +15,5 @@ const months = [
 
 export default function formattedDate (date) {
   const d = new Date(date)
-  return `${months[d.getMonth()]} ${d.getDate()+1}, ${d.getFullYear()}`
+  return `${months[d.getMonth()]} ${d.getDate()}, ${d.getFullYear()}`
 }
