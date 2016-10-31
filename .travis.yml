@@ -1,6 +1,8 @@
 language: node_js
 node_js:
-- "6.9.0"
+- 6
+install:
+  - npm install --no-optional
 script: bash ./deploy.sh
 env:
   global:
