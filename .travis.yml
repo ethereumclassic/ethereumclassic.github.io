@@ -2,7 +2,7 @@ language: node_js
 node_js:
 - 6
 install:
-  - npm instal --no-optional
+  - npm install --no-optional
 script: bash ./deploy.sh
 env:
   global:
