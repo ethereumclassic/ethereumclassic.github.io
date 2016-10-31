@@ -17,6 +17,9 @@
     "react-motion": "^0.1.0",
     "react-router": "^2.6.1"
   },
+  "optionalDependencies": {
+    "fsevents": "*"
+  },   
   "devDependencies": {
     "babel-plugin-add-module-exports": "^0.2.1",
     "babel-plugin-react-transform": "^2.0.2",
