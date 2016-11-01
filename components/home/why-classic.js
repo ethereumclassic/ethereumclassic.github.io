@@ -34,7 +34,23 @@ export default class WhyClassic extends Component {
             href={prefixLink('/assets/Ethereum_Classic_-_The_New_Original_Innovator.pdf')}
             target="_blank"
           >
-            Products and Services Roadmap
+            Products & Services Roadmap
+          </a>
+          <br />
+          <a
+            className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
+            href={'https://www.reddit.com/r/EthereumClassic/comments/5a8f5l/monetary_policy_analysis_help_doc_spreadsheet/'}
+            target="_blank"
+          >
+            Monetary Policy Workshop
+          </a>
+          <br />
+          <a
+            className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
+            href={'https://steemit.com/@cseberino'}
+            target="_blank"
+          >
+            ETC Education Initiative
           </a>
           <br /><br />
         </Col>
