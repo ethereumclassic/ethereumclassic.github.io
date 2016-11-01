@@ -24,7 +24,6 @@ export default class Community extends Component {
           <Row>
             <Col xs="12">
               <h1>Ethereum Classic Community</h1>
-              <h3>Thousands of individuals united by the promise of immutability</h3>
             </Col>
           </Row>
           <Row className="justified-paragraphs big-icons padded">

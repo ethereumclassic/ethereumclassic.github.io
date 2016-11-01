@@ -20,10 +20,11 @@ export default class PriceTicker extends Component {
     // calculate % change
     const change = 100 - (currency.Open24Hour / currency.Price) * 100
     const up = change >= 0
+    const precision = currency.Symbol == 'BTC' ? 5 : 3
     return (
       <span key={currency.Symbol} className={`currency ${up ? 'green' : 'red'}`}>
         <span className="inner">
-          <span className="price">{round(currency.Price)}</span>
+          <span className="price">{round(currency.Price, precision)}</span>
           <span className="symbol">{currency.Symbol}</span>
           <span className="change">{up ? '↑' : '↓'} {round(change, 2)}%</span>
         </span>
@@ -41,8 +42,8 @@ export default class PriceTicker extends Component {
             <span className="currencies">
               {this.state.data.map(this.renderCurrency)}
             </span>
-            <a className="brand" href="https://www.cryptocompare.com" target="_blank">
-              <img src={ccLogo} alt="Crypto Compare" />
+            <a className="brand" href="http://ethereumwisdom.com/ethclassic" target="_blank">
+              <img src={ccLogo} alt="Realtime Market Data" />
             </a>
           </div>
         }

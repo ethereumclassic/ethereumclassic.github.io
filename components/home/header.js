@@ -38,6 +38,7 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="//chrome.google.com/webstore/detail/classicetherwallet-cx/opggclcfcbfbchcienjdaohghcamjfhf">Chrome Extension</DropdownItem>
             <DropdownItem target="_blank" link="//www.ledgerwallet.com/products/12-ledger-nano-s">Hardware Wallet</DropdownItem>
             <DropdownItem target="_blank" link="//classicetherwallet.com/">Web Wallet</DropdownItem>
+            <DropdownItem target="_blank" link="//github.com/ethereumproject/mist/releases">Mist Browser</DropdownItem>
           </Dropdown>
           &nbsp;{' '}&nbsp;
           <Dropdown label="ETC Nodes">
@@ -60,6 +61,7 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="//etherx.com">etherx.com</DropdownItem>
             <DropdownItem target="_blank" link="//etcchain.com">etcchain.com</DropdownItem>
             <DropdownItem target="_blank" link="//etcstats.net">Network Status</DropdownItem>
+            <DropdownItem target="_blank" link="//gastracker.io/stats/miners">Mining Stats</DropdownItem>
           </Dropdown>
           &nbsp;{' '}&nbsp;
           <Dropdown label="Exchanges">
