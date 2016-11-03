@@ -39,6 +39,14 @@ export default class WhyClassic extends Component {
           <br />
           <a
             className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
+            href={'http://us14.campaign-archive1.com/home/?u=1e7b1574ce5b6f380df5f8510&id=16de44cd42'}
+            target="_blank"
+          >
+            Ethereum Classic Newsletter
+          </a>
+          <br />
+          <a
+            className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
             href={'https://www.reddit.com/r/EthereumClassic/comments/5a8f5l/monetary_policy_analysis_help_doc_spreadsheet/'}
             target="_blank"
           >
