@@ -1,5 +1,5 @@
 ---
-title: Let's Admit Blockchains Are Weird: An Introduction To The Strangeness
+title: "Let's Admit Blockchains Are Weird: An Introduction To The Strangeness"
 date: 2016-11-04
 author: Christian Seberino
 ---
