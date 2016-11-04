@@ -10,11 +10,38 @@ This app is written in [gatsby](https://github.com/gatsbyjs/gatsby) (React & ES6
 
 Do not directly modify `master` branch; it is for [serving](https://help.github.com/articles/user-organization-and-project-pages/) the compiled static html only
 
-### Develop
+### Add content to the site
 
-1. Clone this repo, checkout `source`
-2. `npm install`
-3. `npm start`
+Create a copy of the website code on your Github account:
+       Create a github.com account.
+       Visit https://github.com/ethereumclassic/ethereumclassic.github.io .
+       Click on "Fork" button in upper right.
+
+To set up your name and email in Git:
+       git config --global user.email "<your email goes here>"
+       git config --global user.name "<your name goes here>"
+
+To upload a new Markdown file:
+       git clone https://github.com/<your Github username>/ethereumclassic.github.io.git
+       cd ethereumclassic.github.io
+       git checkout source
+       Add MD file under pages/blog.
+       Rename your MD file to have YYYY-MM-DD-your-title-goes-here.md format.
+       Add correct header to MD file as follows:
+                ---
+                title: "<your title goes here>"
+                date: <date, formatted as YYYY-MM-DD>
+                author: <your name goes here>
+                ---
+       git add <your MD file goes here>
+       git commit -m "Added a blog post"
+       git push
+
+To create a pull request to notify ETC website mainters of your file:
+       Visit https://github.com/<your Github username>/ethereumclassic.github.io.git .
+       Click on "Compare & pull request" in upper right.
+       Add description to form.
+       Click the "Create pull request" in middle right.
 
 #### Where to add content?
 
@@ -24,13 +51,21 @@ Do not directly modify `master` branch; it is for [serving](https://help.github.
 * *Advanced Editing*: The whole app is written in react, you can modify the layout of the landing page and drill down into components from `/pages/index.js`
 * *Future Editing*: Soon we'll have multiple pages, watch this space for more info
 
-### Build
+### Develop site
+
+1. Fork this repo into your own Github account
+2. Clone your fork locally, checkout `source`
+3. Make sure you have [NodeJS](https://nodejs.org/en/download/) installed
+4. `npm install`
+5. `npm start`
+
+#### Build
 
 Building manually isn't required, but you may wish to do so before pushing to ensure everything looks as you'd expect.
 
 Run `npm run build`, and open up `/public/index.html` with a static web server.
 
-### Deploy
+#### Deploy
 
 Simply push changes to the `source` branch and Travis CI will handle the rest rest.
 
