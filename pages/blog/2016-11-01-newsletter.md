@@ -4,14 +4,16 @@ date: 2016-11-01
 author: Carlo Vicari
 ---
 
-# ETC Newsletter : 2016-10-24 - 2016-11-01
-
 ## Links
 
 [ETC Website](https://ethereumclassic.github.io/)
+
 [ETC Reddit](https://www.reddit.com/r/EthereumClassic/)
+
 [ETC Twitter](http://twitter.com/eth_classic)
+
 [ETC Facebook](https://www.facebook.com/)
+
 [ETC Slack](https://ethereumclassic.herokuapp.com/)
 
 ## ETC Development Report.
