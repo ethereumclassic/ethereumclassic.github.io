@@ -41,7 +41,7 @@ The state of the Ethereum and Ethereum Classic systems at all times depends on a
 
 # Feedback
 
-Feel free to leave any comments or questions below.  You can also contact me by clicking any of these icons:
+You can contact me by clicking any of these icons:
 
 [![twitter](http://i.imgsafe.org/fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](http://i.imgsafe.org/fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](http://i.imgsafe.org/fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
