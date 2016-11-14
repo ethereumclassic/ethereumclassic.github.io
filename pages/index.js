@@ -13,8 +13,8 @@ export default class Homepage extends Component {
         <Header />
         <WhyClassic />
         <ForkTimeline />
-        <News />
         <Community />
+        <News />
       </article>
     )
   }
