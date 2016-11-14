@@ -1,6 +1,6 @@
 ## Transaction Finality
 
-We believe the core value proposition of any blockchain is immutability; valid transactions can never be erased or forgotten. Individuals interacting on Ethereum Classic are governed by this reality; **Code is Law**.
+We believe the core value proposition of any blockchain is immutability; valid transactions can never be erased or forgotten. Individuals interacting on Ethereum Classic are governed by this reality; [**Code is Law**](/blog/2016-09-09-code-is-law/).
 
 This does not necessarily mean that code *replaces* existing laws, or that *only* code is law (there are many geographical jurisdictions), but it gives users the opportunity to enter into a new blockchain-based jurisdiction where agreements are governed by code.
 
