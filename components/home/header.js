@@ -51,9 +51,8 @@ export default class Header extends Component {
           </Dropdown>
           &nbsp;{' '}&nbsp;
           <Dropdown label="Split ETC/ETH">
-            <DropdownItem target="_blank" link="//archive.is/3LdCR">Manually (no fee)</DropdownItem>
-            <DropdownItem target="_blank" link="//split.codetract.io/">Codetract (no fee)</DropdownItem>
-            <DropdownItem target="_blank" link="//split.shapeshift.io/">Shapeshift (0.25% fee)</DropdownItem>
+            <DropdownItem target="_blank" link="//archive.is/3LdCR">Manually</DropdownItem>
+            <DropdownItem target="_blank" link="//split.codetract.io/">Codetract</DropdownItem>
           </Dropdown>
           <br />
           <Dropdown label="Explorers">

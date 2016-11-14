@@ -23,6 +23,14 @@ export default class WhyClassic extends Component {
           <div dangerouslySetInnerHTML={{ __html: whyClassic.body }} />
           <a
             className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
+            href={prefixLink('/blog/2016-07-11-manifesto/')}
+            target="_blank"
+          >
+            Crypto-Decentralist Manifesto
+          </a>
+          <br />
+          <a
+            className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
             href={prefixLink('/assets/ETC_Declaration_of_Independence.pdf')}
             target="_blank"
           >
@@ -47,7 +55,7 @@ export default class WhyClassic extends Component {
           <br />
           <a
             className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
-            href={'https://www.reddit.com/r/EthereumClassic/comments/5a8f5l/monetary_policy_analysis_help_doc_spreadsheet/'}
+            href={'https://www.reddit.com/r/EthereumClassic/comments/5cm582/monetary_policy_update/'}
             target="_blank"
           >
             Monetary Policy Workshop

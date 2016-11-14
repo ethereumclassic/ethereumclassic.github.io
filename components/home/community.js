@@ -35,12 +35,12 @@ export default class Community extends Component {
                 dropdown={{
                   title: 'Learn and Discuss',
                   items: [
-                    { text: 'Separate your ETH/ETC', link: 'https://github.com/ethereumclassic/README/issues/3' },
-                    { text: 'Read the Wiki', link: 'http://ethcwiki.org/' },
+                    { text: 'Join ETC Team Slack', link: 'http://ethereumclassic.herokuapp.com' },
                     { text: 'Join the ETC Subreddit', link: 'http://reddit.com/r/EthereumClassic' },
-                    { text: 'Join our Slack Channel', link: 'http://ethereumclassic.herokuapp.com' },
                     { text: 'Find local ETC Meetup', link: 'http://www.meetup.com/EthereumClassic' },
-                    { text: 'Visit ETCtalk forums', link: 'https://ethereumclassictalk.org' },
+                    { text: 'Subscribe to ETC Newsletter', link: 'http://us14.campaign-archive1.com/home/?u=1e7b1574ce5b6f380df5f8510&id=16de44cd42' },
+                    { text: 'Read Ethereum Classic Wiki', link: 'http://ethcwiki.org/' },
+                    { text: 'Discuss ETC Monetary Policy', link: 'https://www.reddit.com/r/EthereumClassic/comments/5cm582/monetary_policy_update/' },
                   ],
                 }}
               />
@@ -53,7 +53,10 @@ export default class Community extends Component {
                 dropdown={{
                   title: 'Write Some Code',
                   items: [
-                    { text: 'Volunteer', link: 'https://github.com/ethereumproject/volunteer' },
+                    { text: 'Check out Github', link: 'http://github.com/ethereumproject/volunteer' },
+                    { text: 'Connect on Slack', link: 'http://ethereumclassic.herokuapp.com' },
+                    { text: 'Connect on Gitter', link: 'http://gitter.im/ethereumproject/go-ethereum' },
+                    { text: 'Volunteer', link: 'http://github.com/ethereumproject/volunteer' },
                   ],
                 }}
               />
@@ -66,7 +69,6 @@ export default class Community extends Component {
                 dropdown={{
                   title: 'Join a Pool',
                   items: [
-                    { link: 'http://etherx.com/pools', text: 'Compare ETC Pools' },
                     { link: 'http://ethc.epool.io', text: 'ethc.epool.io' },
                     { link: 'http://etc.altpool.net/', text: 'etc.altpool.net' },
                     { link: 'https://www.coinotron.com', text: 'Coinotron'},
@@ -86,7 +88,8 @@ export default class Community extends Component {
                     { link: 'http://ethclassic.tk', text: 'ethclassic.tk' },
                     { link: 'http://etc-pool.com', text: 'etc-pool.com' },
                     { link: 'https://ethereum-classic.miningpoolhub.com/', text: 'ethereum-classic.miningpoolhub.com' },
-                    { link: 'http://etc-poolcrypto.org/', text: 'etc-poolcrypto.org' }
+                    { link: 'http://etc-poolcrypto.org/', text: 'etc-poolcrypto.org' },
+                    { link: 'http://etherx.com/pools', text: 'Compare ETC Pools' }
                   ],
                 }}
               />
@@ -97,7 +100,7 @@ export default class Community extends Component {
                 title="Investors"
                 body={traders}
                 dropdown={{
-                  title: 'Trade ETC',
+                  title: 'Invest and Trade',
                   items: [
                     { link: 'https://bitfinex.com', text: 'Bitfinex ETC/BTC, ETC/USD ' },
                     { link: 'https://www.kraken.com', text: 'Kraken ETC/ETH, ETC/EUR, ETC/USD, ETC/XBT' },
@@ -121,14 +124,16 @@ export default class Community extends Component {
           </Row>
           <Row className="padded">
             <Col xs="12">
-              <h4>Want to Learn More?</h4>
-              <p>
+              <h4>
                 Whatever your interest,{' '}
                 <a target="_blank" href="http://ethereumclassic.herokuapp.com/">
-                  join the slack group
+                  join our Slack group
                 </a>
-                , and help us continue the <b>original</b> Ethereum vision!
-              </p>
+                , and help us{' '} 
+                <a target="_blank" href="https://ethereumclassic.github.io/blog/2016-07-15-start-project/">
+                  continue the original Ethereum vision
+                </a>!
+              </h4>
             </Col>
           </Row>
         </Container>
