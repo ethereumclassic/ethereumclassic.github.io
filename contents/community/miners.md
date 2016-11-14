@@ -1,3 +1,3 @@
-The hard fork created a huge opportunity for miners, creating two fluctuating currencies to switch their rigs between. Ethereum Classic is presently one of the [most profitable](http://whattomine.com/) crypto-currencies to mine and is attracting substantial hash power with zero switching cost.
+Emergence of Ethereum Classic created a huge opportunity for miners. ETC is presently one of the [most profitable](http://whattomine.com/) tokens to mine and is attracting substantial hash power with zero switching cost.
 
-With your help, the Ethereum Classic network can grow strong and you will be rewarded for ensuring the future of the original chain. Do it for profit *and* principles; mine Ethereum Classic today!
+As a miner, it's in your best interests to support ETC because Ethereum Foundation is going to abandon its miners very soon, switching to experimental PoS model. Ethereum Classic will continue employing robust and time-tested PoW security model, rewarding miners for ensuring the future of the original chain. Do it for profit *and* principles; mine Ethereum Classic today!
