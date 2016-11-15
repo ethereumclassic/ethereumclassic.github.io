@@ -1,3 +1,9 @@
+---
+title: "ETC Newsletter"
+date: 2016-11-15
+author: Carlo Vicari
+---
+                
 ## Links To Our Community
 
 [ETC Website](https://ethereumclassic.github.io/)
