@@ -12,9 +12,9 @@ export default class Credits extends Component {
         </p>
         <ul>
           <li>
-            <b>DaxClassix</b> Web Development
+            <b>ProphetDaniel</b> Web Development
             <br />
-            <code className="wallet-address">0xF0c830882CeD032Fa6510Fc3545cED5BB60b5965</code>
+            <code className="wallet-address">0x95D80084D4Fc2CB2063B765676fb328930935e5B</code>
           </li>
           {/* TODO
           <li>
@@ -25,7 +25,7 @@ export default class Credits extends Component {
           */}
         </ul>
         <div className="mui--text-center">
-          Much <Heart />
+          Done with <Heart />
         </div>
       </div>
     )

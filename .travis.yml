@@ -6,9 +6,9 @@ install:
 script: bash ./deploy.sh
 env:
   global:
-  - ENCRYPTION_LABEL: "a55c8da1c39b"
+  - ENCRYPTION_LABEL: "bdea881e099f"
   - SOURCE_BRANCH: "source"
   - TARGET_BRANCH: "master"
 cache:
   directories:
-    - node_modules
+  - node_modules
