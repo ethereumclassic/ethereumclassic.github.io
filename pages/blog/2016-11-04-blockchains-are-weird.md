@@ -36,7 +36,7 @@ Free market economies work so well largely because of competition.  Competition 
 
 ![dali](https://i.imgsafe.org/95d3b10b77.jpg)
 
-Blockchain systems are able to effectively manage information in a trustless manner.  They are able to do this partly by utilizing the power of competition.  If blockchains seem unbelievable, consider that many are *still* skeptical of  free markets for similar reasons.  In the words of Mark Twain:
+Blockchain systems are able to effectively manage information in a trustless manner.  They do this partly by utilizing the power of competition.  If blockchains seem unbelievable, consider that many are *still* skeptical of  free markets for similar reasons.  In the words of Mark Twain:
 
 "Truth is stranger than fiction."
 
