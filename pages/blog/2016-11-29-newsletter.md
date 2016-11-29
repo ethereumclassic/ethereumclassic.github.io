@@ -66,12 +66,12 @@ https://twitter.com/avtarsehra/status/803292714267738112
 
 * https://www.cryptocoinsnews.com/chinese-investor-chandler-guo-world-gdp-will-based-bitcoin/
 
-##Article about smart contracts released by Dr. Seberino.
+## Article about smart contracts released by Dr. Seberino.
 "The Skinny On Smart Contracts: An Introduction & Why You Should Care."
 
 * https://ethereumclassic.github.io/blog/2016-11-23-smart-contracts/
 
-##Let's talk ETC! Tuesdays at 7:30pm EST.
+## Let's talk ETC! Tuesdays at 7:30pm EST.
 Every Tuesday at 7:30pm EST we will be discussing what's going on in the ETC community and beyond. This week's show (11-29-16) will feature a special guests from the ETC mining community. We will be discussing mining as well as other of blockchain centric topics. A link to the channel/show will be posted below, if you have ideas or questions please let us know. Thank you for subscribing to our latest updates and announcements!
 
 * https://www.youtube.com/user/chrisseberino
