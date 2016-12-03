@@ -457,3 +457,12 @@ a{
     vertical-align: middle;
   }
 }
+
+.feature-banner{
+  img {
+    max-width:100%;
+    width: 728px;
+  }
+  display: block;
+  margin-bottom: 2em;
+}

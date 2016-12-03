@@ -10,6 +10,9 @@ import etcLogo from '../../assets/etc_logo.svg'
 import particlesConfig from './particles-config.json'
 import SocialLinks from '../social-links'
 import PriceTicker from '../price-ticker'
+import BannerAd from './banner-ad'
+
+import bannerImg from '../../assets/etc-london-meetup-dec-2016.png'
 
 export default class Header extends Component {
   componentDidMount () {
@@ -22,6 +25,11 @@ export default class Header extends Component {
       <Container fluid className="mui--text-center main-header">
         <div id="particles" />
         <Container className="inner">
+          <BannerAd
+            image={bannerImg}
+            alt="Etheruem Classic Meetup London"
+            link="https://www.meetup.com/EthereumClassic/events/235470622/"
+          />
           <img src={etcLogo} alt="Ethereum Classic" className="logo" />
           <h1>
             ethereum
