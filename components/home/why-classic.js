@@ -23,6 +23,14 @@ export default class WhyClassic extends Component {
           <div dangerouslySetInnerHTML={{ __html: whyClassic.body }} />
           <a
             className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
+            href={prefixLink('/blog/2016-07-11-manifesto/')}
+            target="_blank"
+          >
+            Crypto-Decentralist Manifesto
+          </a>
+          <br />
+          <a
+            className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
             href={prefixLink('/assets/ETC_Declaration_of_Independence.pdf')}
             target="_blank"
           >
@@ -34,7 +42,31 @@ export default class WhyClassic extends Component {
             href={prefixLink('/assets/Ethereum_Classic_-_The_New_Original_Innovator.pdf')}
             target="_blank"
           >
-            Products and Services Roadmap
+            Products & Services Roadmap
+          </a>
+          <br />
+          <a
+            className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
+            href={'http://us14.campaign-archive1.com/home/?u=1e7b1574ce5b6f380df5f8510&id=16de44cd42'}
+            target="_blank"
+          >
+            Ethereum Classic Newsletter
+          </a>
+          <br />
+          <a
+            className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
+            href={'https://www.reddit.com/r/EthereumClassic/comments/5cm582/monetary_policy_update/'}
+            target="_blank"
+          >
+            Monetary Policy Workshop
+          </a>
+          <br />
+          <a
+            className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
+            href={'https://steemit.com/@cseberino'}
+            target="_blank"
+          >
+            ETC Education Initiative
           </a>
           <br /><br />
         </Col>

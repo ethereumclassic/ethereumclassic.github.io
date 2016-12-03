@@ -39,9 +39,9 @@ export default class ForkTimeline extends Component {
       <Container fluid className="dark-grey-gradient" id="fork-timeline">
         <Container>
           <h2>
-            Hard Fork Timeline{' '}
+            Ethereum Classic Timeline{' '}
             <small className="mui--text-dark-secondary">
-              The Events that Created Classic
+              The Events that Created ETC
             </small>
           </h2>
         </Container>
@@ -146,7 +146,7 @@ export default class ForkTimeline extends Component {
             <TimelineItem
               className="blue"
               link="https://blog.ethereum.org/2016/07/20/hard-fork-completed/"
-              Icon={IconHardForkHappens} date="Jul 20" title="Ethereum Hard Forks"
+              Icon={IconHardForkHappens} date="Jul 20" title="DAO Bailout Hard Fork"
               text="With around 80% of nodes updating to the new client, the community nervously await the arrival of the Hard Fork activation block 1920000"
             />
             <TimelineItem
@@ -194,6 +194,18 @@ export default class ForkTimeline extends Component {
               link="https://bitcoinmagazine.com/articles/millions-of-dollars-worth-of-etc-may-soon-be-dumped-on-the-market-1472567361"
               Icon={IconMarketPanic} date="Aug 31" title="DAO ETC unlocked"
               text="Millions of previously locked or frozen ETC become available to DAO token holders and DAO attacker. Despite predictions of doom and gloom, ETC price holds remarkably well in face of huge dumps"
+            />
+            <TimelineItem
+              className="red"
+              link="https://www.reddit.com/r/EthereumClassic/comments/599kmf/etc_community_successfully_implemented_gasreprice/"
+              Icon={IconHardForkAnnounced} date="Oct 25" title="Attacks and Upgrades"
+              text="Both Ethereums are hit with non-stop network attacks; ETC devs quickly ensure smooth and uncontentious network upgrade to patch exploited vulnerabilities"
+            />
+            <TimelineItem
+              className="green"
+              link="https://www.reddit.com/r/EthereumClassic/comments/5cm582/monetary_policy_update/"
+              Icon={IconCrodsaleEnds} date="Nov 1" title="ETC Monetary Policy"
+              text="Classic community starts debating ETC monetary policy and emission schedule, as a way to align interests of platform users, miners, investors and developers"
             />
             <TimelineItem
               Icon={IconTbc} title="To Be Continued"
