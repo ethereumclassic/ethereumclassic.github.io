@@ -165,7 +165,7 @@ export default class ForkTimeline extends Component {
               className="green"
               link="https://twitter.com/poloniex/status/757068619234803712"
               Icon={IconPoloniexLists} date="Jul 23" title="Poloniex Lists ETC"
-              text="The largest Ethereum exchange lists 'ETC' - Ethereum Classic; many exchanges quickly follow suit, ETC price the peaks to 1/3 of ETH's"
+              text="The largest Ethereum exchange lists 'ETC' - Ethereum Classic; many exchanges quickly follow suit, ETC price peaks to 1/3 of ETH's"
             />
             <TimelineItem
               className="red"
