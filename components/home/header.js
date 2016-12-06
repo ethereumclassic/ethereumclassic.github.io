@@ -28,7 +28,7 @@ export default class Header extends Component {
           <BannerAd
             image={bannerImg}
             alt="Ethereum Classic Meetup London"
-            link="https://www.meetup.com/EthereumClassic/events/235470622/"
+            link="http://mp2016.ethereumclassic.org"
           />
           <img src={etcLogo} alt="Ethereum Classic" className="logo" />
           <h1>

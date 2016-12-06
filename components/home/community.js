@@ -53,7 +53,7 @@ export default class Community extends Component {
                 dropdown={{
                   title: 'Write Some Code',
                   items: [
-                    { text: 'Check out Github', link: 'http://github.com/ethereumproject/volunteer' },
+                    { text: 'Check out Github', link: 'http://github.com/ethereumproject' },
                     { text: 'Connect on Slack', link: 'http://ethereumclassic.herokuapp.com' },
                     { text: 'Connect on Gitter', link: 'http://gitter.im/ethereumproject/go-ethereum' },
                     { text: 'Volunteer', link: 'http://github.com/ethereumproject/volunteer' },
@@ -129,7 +129,7 @@ export default class Community extends Component {
                 <a target="_blank" href="http://ethereumclassic.herokuapp.com/">
                   join our Slack group
                 </a>
-                , and help us{' '} 
+                , and help us{' '}
                 <a target="_blank" href="https://ethereumclassic.github.io/blog/2016-07-15-start-project/">
                   continue the original Ethereum vision
                 </a>!
