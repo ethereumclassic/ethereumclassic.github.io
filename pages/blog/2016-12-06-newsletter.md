@@ -70,12 +70,12 @@ Focus of the event will be to provide an update on the activity in the ETC commu
 * https://ethereumclassic.github.io/blog/2016-12-01-ipfs/
 
 
-##Article about a Fermat Distributed Governance Model by Luis Molina
+## Article about a Fermat Distributed Governance Model by Luis Molina
 "Fermat Distributed Governance Model."
 
 * https://medium.com/@luisfernandomolina/fermat-distributed-governance-model-1d90538d1bbc#.qq0i5wgog
 
-##Let's talk ETC! Tuesdays at 7:30pm EST.
+## Let's talk ETC! Tuesdays at 7:30pm EST.
 Every Tuesday at 7:30pm EST we will be discussing what's going on in the ETC community and beyond. This week's show (12-06-16) will feature a special guest from the ETC investment community. We will be discussing investment centric topics as well as blockchain in general. A link to the channel/show will be posted below, if you have ideas or questions please let us know. Thank you for subscribing to our latest updates and announcements!
 
 * https://www.youtube.com/user/chrisseberino
