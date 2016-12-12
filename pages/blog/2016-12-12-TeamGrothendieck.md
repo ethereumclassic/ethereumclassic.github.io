@@ -24,8 +24,8 @@ author: Carlo V
 ## [The Grothendieck Team](https://iohk.io/projects/ethereum-classic/#team)
 Hi everyone, it's my pleasure to officially announce the new team known as The Grothendieck Team! The team has been named after Alexander Grothendieck, a German-born French mathematician who became a leading figure in the creation of modern algebraic geometry. They have been committed to Ethereum Classic by [IOHK](https://iohk.io/) in order to build a Scala client for ETC based on IOHK's [Scorex framework](https://iohk.io/projects/scorex/).  Plans are in place to bring the team on "Let's Talk ETC!" to discuss the roadmap and development timeframe for ETC in 2017 (after they have properly reviewed the ETC documentation). Links to the IOHK website, Scorex page, Let's Talk ETC! youtube channel and ETC blog are posted below.
 
-* [www.iohk.io](www.iohk.io) 
-* [Github.com/ScorexFoundation](https://iohk.io/projects/scorex/)
+* [IOHK-Ethereum Classic](https://iohk.io/projects/ethereum-classic/) 
+* [IOHK-Scorex](https://iohk.io/projects/scorex/)
 * [Let's Talk ETC! on youtube.com](https://www.youtube.com/channel/UCojbn_iTgg4BxcSphz0MGMg)
 * [Ethereumclassic.github.io/blog](https://ethereumclassic.github.io/blog/2016-07-27-getting-things-done/)
 
@@ -45,20 +45,20 @@ Alan McSherry graduated with a degree in Computer Engineering from Limerick Univ
 Ethereum Classic Developer
 Team Grothendieck/Atix
 
-Alan Verbner is a computer engineer graduated from the Engineering University of Buenos Aires (Argentina). He has been developing software for about 10 years with special inerest in criptocurrency space. Four years ago he Co-Founded Atixlabs, a software lab that has been helping other companies to make their ideas come true as great high quality products. They are located in the Buenos Aires Bitcoin Embassy.
+Alan Verbner is a computer engineer and graduated from the Engineering University of Buenos Aires (Argentina). He has been developing software for about 10 years with special interest in the cryptocurrency space. Four years ago he Co-Founded Atix Labs, a software lab that has been helping other companies make their ideas come true with great high quality products. They are located in the Buenos Aires Bitcoin Embassy.
 
 
 ## [Nicolas Tallar : Buenos Aires, Argentina](https://iohk.io/team/nicolas-tallar/) ![enter image description here](https://iohk.io/images/team/nicolas-tallar-b.png)
 Ethereum Classic Developer
 Team Grothendieck/Atix
 
-Nicolas Tallar has a background on Computer Science and he is about to get his degree from University Of Buenos Aires (Argentina). He is a passionate functional programmer with special interest in image processing and robot controlling algorithms.
+Nicolas Tallar has a background in Computer Science and he is about to get his degree from University Of Buenos Aires (Argentina). He is a passionate functional programmer with special interest in image processing and robot controlling algorithms.
 
 ## [Jan Ziniewicz : Warsaw, Poland](https://iohk.io/team/jan-ziniewicz/) ![enter image description here](https://iohk.io/images/team/jan-ziniewicz-b.png)
 Ethereum Classic Developer 
 Team Grothendieck
 
-I’ve been working in IT industry since 2004. Apart from being a functional programmer I also was a project manager, system designer and administrator. In free time I am rock climber, cyclist, RPG player, and of course Clojure / Scala coder.
+I’ve been working in IT industry since 2004. Apart from being a functional programmer I was also a project manager, system designer and administrator. In my free time I am a rock climber, cyclist, RPG player, and of course Clojure / Scala coder.
 
 ## [Lukasz Gasior : Rumia, Poland](https://iohk.io/team/lukasz-gasior/) ![enter image description here](https://iohk.io/images/team/lukasz-gasior-b.png)
 Ethereum Classic Developer
