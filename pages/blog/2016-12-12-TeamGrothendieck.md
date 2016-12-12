@@ -24,8 +24,8 @@ author: Carlo V
 ## [The Grothendieck Team](https://iohk.io/projects/ethereum-classic/#team)
 Hi everyone, it's my pleasure to officially announce the new team known as The Grothendieck Team! The team has been named after Alexander Grothendieck, a German-born French mathematician who became a leading figure in the creation of modern algebraic geometry. They have been committed to Ethereum Classic by [IOHK](https://iohk.io/) in order to build a Scala client for ETC based on IOHK's [Scorex framework](https://iohk.io/projects/scorex/).  Plans are in place to bring the team on "Let's Talk ETC!" to discuss the roadmap and development timeframe for ETC in 2017 (after they have properly reviewed the ETC documentation). Links to the IOHK website, Scorex page, Let's Talk ETC! youtube channel and ETC blog are posted below.
 
-* [www.iohk.io](https://iohk.io/projects/ethereum-classic/) 
-* [Github.com/ScorexFoundation](https://iohk.io/projects/scorex/)
+* [IOHK-Ethereum Classic](https://iohk.io/projects/ethereum-classic/) 
+* [IOHK-Scorex](https://iohk.io/projects/scorex/)
 * [Let's Talk ETC! on youtube.com](https://www.youtube.com/channel/UCojbn_iTgg4BxcSphz0MGMg)
 * [Ethereumclassic.github.io/blog](https://ethereumclassic.github.io/blog/2016-07-27-getting-things-done/)
 
