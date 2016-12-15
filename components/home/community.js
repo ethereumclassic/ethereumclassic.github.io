@@ -33,13 +33,14 @@ export default class Community extends Component {
                 title="Users"
                 body={users}
                 dropdown={{
-                  title: 'Learn and Discuss',
+                  title: 'Learn, Discuss, Contribute',
                   items: [
                     { text: 'Join ETC Team Slack', link: 'http://ethereumclassic.herokuapp.com' },
-                    { text: 'Join the ETC Subreddit', link: 'http://reddit.com/r/EthereumClassic' },
+                    { text: 'Join ETC Subreddit', link: 'http://reddit.com/r/EthereumClassic' },
                     { text: 'Find local ETC Meetup', link: 'http://www.meetup.com/EthereumClassic' },
+                    { text: 'Read ETC Today', link: 'http://etc.today/' },
+                    { text: 'Contribute to ETC Wiki', link: 'http://ethcwiki.org/' },
                     { text: 'Subscribe to ETC Newsletter', link: 'http://us14.campaign-archive1.com/home/?u=1e7b1574ce5b6f380df5f8510&id=16de44cd42' },
-                    { text: 'Read Ethereum Classic Wiki', link: 'http://ethcwiki.org/' },
                     { text: 'Discuss ETC Monetary Policy', link: 'https://www.reddit.com/r/EthereumClassic/comments/5cm582/monetary_policy_update/' },
                   ],
                 }}
@@ -69,8 +70,8 @@ export default class Community extends Component {
                 dropdown={{
                   title: 'Join a Pool',
                   items: [
-                    { link: 'http://ethc.epool.io', text: 'ethc.epool.io' },
-                    { link: 'http://etc.altpool.net/', text: 'etc.altpool.net' },
+                    { link: 'http://ethc.epool.io', text: 'Epool' },
+                    { link: 'https://etc.minerhub.io', text: 'Minerhub' },
                     { link: 'https://www.coinotron.com', text: 'Coinotron'},
                     { link: 'http://etc.91pool.com/', text: 'ETC 91pool'},
                     { link: 'https://minergate.com', text: 'minergate.com' },
@@ -102,12 +103,12 @@ export default class Community extends Component {
                 dropdown={{
                   title: 'Invest and Trade',
                   items: [
-                    { link: 'https://bitfinex.com', text: 'Bitfinex ETC/BTC, ETC/USD ' },
-                    { link: 'https://www.kraken.com', text: 'Kraken ETC/ETH, ETC/EUR, ETC/USD, ETC/XBT' },
-                    { link: 'https://poloniex.com/exchange#btc_etc', text: 'Poloniex  ETC/BTC, ETC/ETH, ETC/USDT' },
+                    { link: 'https://bitfinex.com', text: 'Bitfinex: ETC/BTC, ETC/USD ' },
+                    { link: 'https://www.kraken.com', text: 'Kraken: ETC/ETH, ETC/EUR, ETC/USD, ETC/XBT' },
+                    { link: 'https://poloniex.com/exchange#btc_etc', text: 'Poloniex: ETC/BTC, ETC/ETH, ETC/USDT' },
+                    { link: 'https://trans.chbtc.com/etc', text: 'CHBTC: ETC/CNY' },
                     { link: 'https://shapeshift.io', text: 'Shapeshift' },
                     { link: 'https://changelly.com/exchange/BTC/ETC/1', text: 'Changelly' },
-                    { link: 'https://trans.chbtc.com/etc', text: 'CHBTC' },
                     { link: 'https://bittrex.com/Market/Index?MarketName=BTC-ETC', text: 'Bittrex' },
                     { link: 'http://yunbi.com/', text: 'Yunbi' },
                     { link: 'https://korbit.co.kr/etc_market', text: 'Korbit' },
