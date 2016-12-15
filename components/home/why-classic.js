@@ -47,18 +47,18 @@ export default class WhyClassic extends Component {
           <br />
           <a
             className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
-            href={'http://us14.campaign-archive1.com/home/?u=1e7b1574ce5b6f380df5f8510&id=16de44cd42'}
+            href={'http://etc.today/'}
             target="_blank"
           >
-            Ethereum Classic Newsletter
+            ETC Today News Service
           </a>
           <br />
           <a
             className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
-            href={'https://www.reddit.com/r/EthereumClassic/comments/5cm582/monetary_policy_update/'}
+            href={'http://us14.campaign-archive1.com/home/?u=1e7b1574ce5b6f380df5f8510&id=16de44cd42'}
             target="_blank"
           >
-            Monetary Policy Workshop
+            ETC Weekly Newsletter
           </a>
           <br />
           <a
@@ -67,6 +67,14 @@ export default class WhyClassic extends Component {
             target="_blank"
           >
             ETC Education Initiative
+          </a>
+          <br />
+          <a
+            className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
+            href={'https://www.reddit.com/r/EthereumClassic/comments/5cm582/monetary_policy_update/'}
+            target="_blank"
+          >
+            Monetary Policy Workshop
           </a>
           <br /><br />
         </Col>
