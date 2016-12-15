@@ -25,11 +25,6 @@ export default class Header extends Component {
       <Container fluid className="mui--text-center main-header">
         <div id="particles" />
         <Container className="inner">
-          <BannerAd
-            image={bannerImg}
-            alt="Ethereum Classic Meetup London"
-            link="http://mp2016.ethereumclassic.org"
-          />
           <img src={etcLogo} alt="Ethereum Classic" className="logo" />
           <h1>
             ethereum
@@ -64,21 +59,20 @@ export default class Header extends Component {
           </Dropdown>
           <br />
           <Dropdown label="Explorers">
-            <DropdownItem target="_blank" link="//etherhub.io">etherhub.io</DropdownItem>
             <DropdownItem target="_blank" link="//gastracker.io">gastracker.io</DropdownItem>
-            <DropdownItem target="_blank" link="//etherx.com">etherx.com</DropdownItem>
+            <DropdownItem target="_blank" link="//etherhub.io">etherhub.io</DropdownItem>
             <DropdownItem target="_blank" link="//etcchain.com/explorer">etcchain.com</DropdownItem>
             <DropdownItem target="_blank" link="//gastracker.io/stats/miners">Mining Status</DropdownItem>
             <DropdownItem target="_blank" link="//etcstats.net">Network Monitor</DropdownItem>
           </Dropdown>
           &nbsp;{' '}&nbsp;
           <Dropdown label="Exchanges">
-            <DropdownItem target="_blank" link="//bitfinex.com">Bitfinex ETC/BTC, ETC/USD</DropdownItem>
-            <DropdownItem target="_blank" link="//www.kraken.com">Kraken ETC/ETH, ETC/EUR, ETC/USD, ETC/XBT</DropdownItem>
-            <DropdownItem target="_blank" link="//poloniex.com/exchange#btc_etc">Poloniex  ETC/BTC, ETC/ETH, ETC/USDT</DropdownItem>
+            <DropdownItem target="_blank" link="//bitfinex.com">Bitfinex: ETC/BTC, ETC/USD</DropdownItem>
+            <DropdownItem target="_blank" link="//www.kraken.com">Kraken: ETC/ETH, ETC/EUR, ETC/USD, ETC/XBT</DropdownItem>
+            <DropdownItem target="_blank" link="//poloniex.com/exchange#btc_etc">Poloniex: ETC/BTC, ETC/ETH, ETC/USDT</DropdownItem>
+            <DropdownItem target="_blank" link="//trans.chbtc.com/etc">CHBTC: ETC/CNY</DropdownItem>
             <DropdownItem target="_blank" link="//shapeshift.io">Shapeshift</DropdownItem>
             <DropdownItem target="_blank" link="//changelly.com/exchange/BTC/ETC/1">Changelly</DropdownItem>
-            <DropdownItem target="_blank" link="//trans.chbtc.com/etc">CHBTC</DropdownItem>
             <DropdownItem target="_blank" link="//bittrex.com/Market/Index?MarketName=BTC-ETC">Bittrex</DropdownItem>
             <DropdownItem target="_blank" link="//yunbi.com/">Yunbi</DropdownItem>
             <DropdownItem target="_blank" link="//korbit.co.kr/etc_market">Korbit</DropdownItem>
