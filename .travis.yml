@@ -5,7 +5,14 @@ install:
   - npm install --no-optional
 script: bash ./deploy.sh
 env:
-  global:
+  - CXX=g++-4.8
+addons:
+  apt:
+    sources:
+      - ubuntu-toolchain-r-test
+    packages:
+      - g++-4.8
+global:
   - ENCRYPTION_LABEL: "a55c8da1c39b"
   - SOURCE_BRANCH: "source"
   - TARGET_BRANCH: "master"
