@@ -18,7 +18,7 @@ ___
 
 ## World has changed
 
-Recently the [COP21](http://www.un.org/sustainabledevelopment/cop21/) conference raised diplomatic bars and was regarded as a [monumental triumph](http://www.un.org/sustainabledevelopment/blog/2015/12/un-chief-hails-new-climate-change-agreement-as-monumental-triumph/#prettyPhoto).
+Recently the [COP21](http://www.un.org/sustainabledevelopment/cop21/) conference raised diplomatic bars and was regarded as a [monumental triumph](http://www.un.org/sustainabledevelopment/blog/2015/12/un-chief-hails-new-climate-change-agreement-as-monumental-triumph/#prettyPhoto) and a [victory for the planet](http://www.gouvernement.fr/en/universal-cop21-agreement-a-victory-for-the-planet).
 
 > It sets the stage for progress in ending poverty, strengthening peace and ensuring a life of dignity and opportunity for all.
 
