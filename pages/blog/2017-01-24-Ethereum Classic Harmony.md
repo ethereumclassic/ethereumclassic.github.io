@@ -1,7 +1,7 @@
 ---
 title: Ethereum Classic Harmony
 date: 2017-01-24
-author: ProphetDaniel
+author: Prophet Daniel
 ---
 
 # Ethereum Classic Harmony Launch
