@@ -8,7 +8,7 @@ author: Prophet Daniel
 
 | - | - |
 |---|---|
-**Our friends from <a href="http://www.ether.camp/">Ether.camp</a> are proud to announce the release of Ethereum Harmony also available for ETC chain. Great job, cheers!**|![](https://s-media-cache-ak0.pinimg.com/236x/9b/42/b1/9b42b1d4b5547cffd5675f2b7230e5a8.jpg)|
+*Our friends from <a href="http://www.ether.camp/">Ether.camp</a> are proud to announce the release of Ethereum Harmony also available for ETC chain. Great job, cheers!*|![](https://s-media-cache-ak0.pinimg.com/236x/9b/42/b1/9b42b1d4b5547cffd5675f2b7230e5a8.jpg)|
 ||Wine Art - Fabian Perez - Sante|
 
 -----
