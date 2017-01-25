@@ -13,7 +13,7 @@ author: Prophet Daniel
 
 -----
 
-<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/vqAIMxZrE8Q" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/vqAIMxZrE8Q" frameborder="0" allowfullscreen></iframe>
 <p><a href="https://hack.ether.camp/sale">CashEth - demo of the system</a> from <a href="https://www.youtube.com/channel/UC9GC7dr_V9RWVBIGrdYq0MQ">ether.camp</a> on <a href="https://youtube.com">YouTube</a>.</p>
 
 
