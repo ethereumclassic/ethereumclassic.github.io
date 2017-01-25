@@ -13,8 +13,8 @@ author: Prophet Daniel
 
 -----
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/vqAIMxZrE8Q" frameborder="0" allowfullscreen></iframe>
-<p><a href="https://hack.ether.camp/sale">CashEth - demo of the system</a> from <a href="https://www.youtube.com/channel/UC9GC7dr_V9RWVBIGrdYq0MQ">ether.camp</a> on <a href="https://youtube.com">YouTube</a>.</p>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/leaAMTgjvxg" frameborder="0" allowfullscreen></iframe>
+<p><a href="https://hack.ether.camp/sale">Ethereum Harmony - Full info of a smart contract</a> from <a href="https://www.youtube.com/channel/UC9GC7dr_V9RWVBIGrdYq0MQ">ether.camp</a> on <a href="https://youtube.com">YouTube</a>.</p>
 
 
 # More information
