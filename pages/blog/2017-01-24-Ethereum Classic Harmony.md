@@ -6,7 +6,10 @@ author: ProphetDaniel
 
 # Ethereum Classic Harmony Launch
 
-<a href="http://www.ether.camp/">Ether.camp</a> is proud to announce the release of Ethereum Harmony also available for ETC chain.
+| - | - |
+|---|---|
+|Our friends from <a href="http://www.ether.camp/">Ether.camp</a> are proud to announce the release of Ethereum Harmony also available for ETC chain. Great job, cheers!|![](https://s-media-cache-ak0.pinimg.com/236x/9b/42/b1/9b42b1d4b5547cffd5675f2b7230e5a8.jpg)|
+||Wine Art - Fabian Perez - Santé|
 
 -----
 
@@ -18,10 +21,10 @@ author: ProphetDaniel
 
 <a href="https://hack.ether.camp/sale">https://hack.ether.camp/sale</a>
 
-More information and registration as fan or a developer: <a href="https://hack.ether.camp">https://hack.ether.camp</a>
+More information and registration as fan or a developer: https://hack.ether.camp
 
-Slack: <a href="http://www.ether.camp/">http://www.ether.camp/</a>
+Slack: http://www.ether.camp/
 
-<a href="https://twitter.com/campether">https://twitter.com/campether</a>
+<a href="https://twitter.com/campether
 
 <a href="https://www.youtube.com/results?q=%23hackethercamp">#hackethercamp</a> 
