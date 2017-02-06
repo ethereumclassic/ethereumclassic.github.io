@@ -73,7 +73,7 @@ export default class Community extends Component {
                     { link: 'http://ethc.epool.io', text: 'Epool' },
                     { link: 'https://etc.minerhub.io', text: 'Minerhub' },
                     { link: 'https://www.coinotron.com', text: 'Coinotron'},
-                    { link: 'http://etc.91pool.com/', text: 'ETC 91pool'},
+                    { link: 'http://www.91pool.com/', text: 'ETC 91pool'},
                     { link: 'https://minergate.com', text: 'minergate.com' },
                     { link: 'https://etc.suprnova.cc', text: 'etc.suprnova.cc' },
                     { link: 'https://etcpool.io', text: 'etcpool.io' },
