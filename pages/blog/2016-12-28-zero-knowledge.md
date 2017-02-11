@@ -18,7 +18,7 @@ Ben wants to prove to Jerry that he knows the passcode associated with an automa
 
 A zero knowledge proof must not *leak* information.  Therefore, Ben must select an ATM in an enclosed area to prevent someone reading the passcode with a telescope.  For the same reason, all security cameras must be covered or disabled.  Temperature changes due to ATM key presses must be removed lest they create yet another way to determine the passcode.  Ben also cannot only deposit or only withdraw money because that would reveal information about the balance.  Preventing information leakage is not easy!
 
-A zero knowledge proof method must not be able to prove *false* statements.  This is referred to as the *soundness* property.  If Ben does not know the passcode, he should not be able to fool Jerry by various tricks.  He should not be able to fake a deposit by stashing money somewhere.  He should also not be able to fake a withdrawal by using  money hidden on his person or near the ATM.  Therefore, the ATM and surrounding area must be searched before and after.  For the same reason, Ben must disrobe and undergo a full body cavity search before and after!
+A zero knowledge proof method must not be able to prove *false* statements.  This is referred to as the *soundness* property.  If Ben does not know the passcode, he should not be able to fool Jerry by various tricks.  He should not be able to fake a deposit by stashing money somewhere.  He should also not be able to fake a withdrawal by using  money hidden on his person or near the ATM.  Therefore, the ATM and surrounding area must be searched before and after the deposit.  For the same reason, Ben must disrobe and undergo a full body cavity search before and after the deposit!
 
 Only with *all* the necessary steps preventing Ben from leaking information, and Jerry from being fooled, is the zero knowledge proof valid.
 
@@ -34,7 +34,7 @@ Many current zero knowledge proof methods only establish a high *probability* of
 
 ![zcash](http://i.imgsafe.org/f4a994feea.png)
 
-Zero knowledge proofs might improve authentication systems.  Imagine how secure password based systems will be if they *only* require zero knowledge proofs of password *ownership*.  Adequate systems are *already* available for many applications with public key encryption.  There is no danger of divulging passwords due to insecure transmission or compromised servers!
+Zero knowledge proofs might improve authentication systems.  Imagine how secure password based systems will be if they *only* require zero knowledge proofs of password possession.  Adequate systems, for many applications, are *already* available  with public key encryption!
 
 Zero knowledge proofs might eliminate the need for many escrow services.  Imagine people trying to get paid for performing  lengthy  computations.  They do not want to disclose their results before being compensated, and, customers do not want to pay up before confirming the work done.  Zero knowledge proofs might provide the necessary guarantees in a way that pleases everyone.
 
