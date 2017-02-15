@@ -158,7 +158,7 @@ export default class ForkTimeline extends Component {
             <TimelineItem
               className="green"
               link="https://gastracker.io/block/0x94365e3a8c0b35089c1d1195081fe7489b528a84b22199c916180db8b28ade7f"
-              Icon={IconClassicBorn} date="Block 192001" title="Ethereum Classic is Born"
+              Icon={IconClassicBorn} date="Block 1920001" title="Ethereum Classic is Born"
               text="With predictions of the original non-forked chain to disappear within hours, many are surprised to find that miners continue mining blocks and OTC trading of the original chain tokens gives them value"
             />
             <TimelineItem
@@ -183,6 +183,11 @@ export default class ForkTimeline extends Component {
               link="https://www.reddit.com/r/EthereumClassic/comments/4x1157/from_whitehat_to_poloniex/"
               Icon={IconRhgDump} date="Aug 10" title="RHG Strikes Back"
               text="The Robin Hood Group attempts to dump a large quantity of stolen ETC on the market. Poloniex freezes the funds. Uncertainty reaches an all time high."
+            />
+            <TimelineItem
+              className="green"
+              Icon={IconClassicRebuild} date="Block 2050000" title="Classic Declares Independence"
+              text="A Declaration of Independence on the ETC website is published stating ETC no longer wants to be in association with the Foundation. The document, signed by the community, highlights the Ethereum values, which they believed were violated as well as how they plan to move forward."
             />
             <TimelineItem
               className="green"
