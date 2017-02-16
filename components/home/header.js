@@ -36,14 +36,6 @@ export default class Header extends Component {
             {' '}<span>immutable</span>
             {' '}<span>unstoppable</span>
           </h2>
-          <Dropdown label="ETC Wallets">
-            <DropdownItem target="_blank" link="//jaxx.io/">Multi-platform Wallet</DropdownItem>
-            <DropdownItem target="_blank" link="//chrome.google.com/webstore/detail/classicetherwallet-cx/opggclcfcbfbchcienjdaohghcamjfhf">Chrome Extension</DropdownItem>
-            <DropdownItem target="_blank" link="//www.ledgerwallet.com/products/12-ledger-nano-s">Hardware Wallet</DropdownItem>
-            <DropdownItem target="_blank" link="//classicetherwallet.com/">Web Wallet</DropdownItem>
-            <DropdownItem target="_blank" link="//github.com/ethereumproject/mist/releases">Mist Browser</DropdownItem>
-          </Dropdown>
-          &nbsp;{' '}&nbsp;
           <Dropdown label="ETC Nodes">
             <DropdownItem target="_blank" link="//github.com/ethereumproject/go-ethereum/releases">Geth</DropdownItem>
             <DropdownItem target="_blank" link="//github.com/ethcore/parity/releases">Parity</DropdownItem>
@@ -53,11 +45,14 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="//www.reddit.com/r/EthereumClassic/comments/58vwk8/etc_tap_for_osx_homebrew/">OSX Homebrew Install</DropdownItem>
           </Dropdown>
           &nbsp;{' '}&nbsp;
-          <Dropdown label="Split ETC/ETH">
-            <DropdownItem target="_blank" link="//archive.is/3LdCR">Manually</DropdownItem>
-            <DropdownItem target="_blank" link="//split.codetract.io/">Codetract</DropdownItem>
+          <Dropdown label="ETC Wallets">
+            <DropdownItem target="_blank" link="//jaxx.io/">Multi-platform Wallet</DropdownItem>
+            <DropdownItem target="_blank" link="//chrome.google.com/webstore/detail/classicetherwallet-cx/opggclcfcbfbchcienjdaohghcamjfhf">Chrome Extension</DropdownItem>
+            <DropdownItem target="_blank" link="//www.ledgerwallet.com/products/12-ledger-nano-s">Hardware Wallet</DropdownItem>
+            <DropdownItem target="_blank" link="//classicetherwallet.com/">Web Wallet</DropdownItem>
+            <DropdownItem target="_blank" link="//github.com/ethereumproject/mist/releases">Mist Browser</DropdownItem>
           </Dropdown>
-          <br />
+          &nbsp;{' '}&nbsp;
           <Dropdown label="Explorers">
             <DropdownItem target="_blank" link="//gastracker.io">gastracker.io</DropdownItem>
             <DropdownItem target="_blank" link="//etherhub.io">etherhub.io</DropdownItem>
@@ -65,7 +60,7 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="//gastracker.io/stats/miners">Mining Status</DropdownItem>
             <DropdownItem target="_blank" link="//etcstats.net">Network Monitor</DropdownItem>
           </Dropdown>
-          &nbsp;{' '}&nbsp;
+          <br />
           <Dropdown label="Exchanges">
             <DropdownItem target="_blank" link="//bitfinex.com">Bitfinex: ETC/BTC, ETC/USD</DropdownItem>
             <DropdownItem target="_blank" link="//www.kraken.com">Kraken: ETC/ETH, ETC/EUR, ETC/USD, ETC/XBT</DropdownItem>
@@ -83,6 +78,14 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="//www.bitmex.com/app/trade/ETC24H">BitMex futures contract ETC</DropdownItem>
             <DropdownItem target="_blank" link="//bitsquare.io">BitSquare</DropdownItem>
           </Dropdown>
+          &nbsp;{' '}&nbsp;
+          <a
+            className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
+            href={'https://github.com/ethereumclassic/faq'}
+            target="_blank"
+          >
+            FAQ
+          </a>
           &nbsp;{' '}&nbsp;
           <SocialLinks />
           <PriceTicker />
