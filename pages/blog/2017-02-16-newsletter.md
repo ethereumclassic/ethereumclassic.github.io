@@ -1,6 +1,6 @@
 ---
-title: "ETC Weekly Newsletter : ETCathon in Shanghai!"
-date: 2017-02-01
+title: "ETC Weekly Newsletter : Treasury Proposal"
+date: 2017-02-20
 author: Carlo V
 
 ---
@@ -22,7 +22,7 @@ author: Carlo V
 
 ## **ETC Development Report**
 
- The big event coming up next week is the [ETCathon](https://medium.com/@classicether/shanghai-etcathon-slated-for-february-24-26-7c82b96c4032#.d8ghgoelu), set to take place February 24th, 25th and 26th in Shanghai. Another reminder to everyone in the community about the whitehat withdrawl contract being extended. Also in the news recently,  [full footage released from the London monetary policy discussion](https://www.youtube.com/watch?v=5_CojLHSobQ) [and an inside look at IOHK's Grothendieck Team meeting.](https://www.youtube.com/watch?v=k9EcFyEguzI) 
+The biggest story from the past week is the [treasury proposal released by IOHK](https://twitter.com/CollinCrypto/status/832493711384788992). Also, I wanted to let everyone know that the [ETCathon](https://medium.com/@classicether/shanghai-etcathon-slated-for-february-24-26-7c82b96c4032#.d8ghgoelu), set to take place February 24th, 25th and 26th in Shanghai, has been delayed to a later date (TBA). Another reminder to everyone in the community about the whitehat withdrawal contract being extended. Also in the news recently,  [full footage released from the London monetary policy discussion](https://www.youtube.com/watch?v=5_CojLHSobQ) and [an inside look at IOHK's Grothendieck Team meeting.](https://www.youtube.com/watch?v=k9EcFyEguzI) 
 
 The other stories featured in this newsletter are listed below:* 
 
@@ -40,10 +40,15 @@ The other stories featured in this newsletter are listed below:*
 * [Call To  Action :  Help with ETC Wikipedia page.](https://www.reddit.com/r/EthereumClassic/comments/5bsj3c/ethereum_classic_redirects_to_ethereum_on/)
 * Community metrics detailed at the bottom of this newslette
 
-## **ETCathon in Shanghai, February 24th to the 26th.**
-ETCathon will take place at the China Financial Information Center in Shanghai. Sponsors include the BTC China exchange, CHBTC exchange and Digital Currency Group.
+## **Treasury proposal released by IOHK.**
+Treasury proposal has just been released by IOHK. Please voice your thoughts, opinions, and commentary.
 
-* https://medium.com/@classicether/shanghai-etcathon-slated-for-february-24-26-7c82b96c4032#.d8ghgoelu
+* https://twitter.com/CollinCrypto/status/832493711384788992
+
+## **ETCathon has been delayed.**
+
+The ETCathon set to take place later this week has been delayed to a later date (TBA).
+
 
 ## **Whitehat withdrawal contract has been extended.**
 "We want to give the community extra time to withdraw their share, so the funds will remain in the Withdraw Contract for an extra 2 months from today...."
@@ -131,14 +136,14 @@ Reddit user "bitp" has brought it to the communities attention that the "Ethereu
 * Twitter - 33K followers.
 * Reddit /r/EthereumClassic - 3,037 subscribers.
 * Slack - 1,794 users.
-* Telegram - 783 users.
+* Telegram - 817 users.
 * WeChat - 480 users.
 * [Miners - 915.73 Total GH/s](https://gastracker.io/stats/miners)
 
 ## **[Top 5 miners](https://gastracker.io/stats/miners) by average hashrate from the previous 7 days.** 
 
-* EtherMine	259.13 GH/s
-* NanoPool 161.84 GH/s
+* EtherMine	278.89 GH/s
+* NanoPool	139.25 GH/s
 * NanoPool	128.35 GH/s
-* F2Pool	70.96 GH/s
-* Coinotron	24.02 GH/s
+* F2Pool 84.17 GH/s
+* Coinotron	30.56 GH/s
