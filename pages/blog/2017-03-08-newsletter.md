@@ -63,7 +63,7 @@ The other stories featured in this newsletter are listed below:
 Also, now that monetary policy discussion has come to a close I would like to announce some ideas for more organized discussion on the following topics
 
 * Marketing Mondays: Marketing centric discussion and ideas.
-* Treasury Tuesdays: Treasury centric debate and discussion.
+* Funding talk Tuesdays: Funding centric debate and discussion.
 * Dapper devs Wednesdays: Dapp and development centric discussion. 
 * Think about it Thursdays: How can we accomplish what was  discussed during the week.
 * Free for all Fridays: Brainstorm/community questions/discussion open to anything.
