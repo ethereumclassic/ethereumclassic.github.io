@@ -39,7 +39,7 @@ export default class Header extends Component {
           <Dropdown label="ETC Nodes">
             <DropdownItem target="_blank" link="//github.com/ethereumproject/go-ethereum/releases">Geth</DropdownItem>
             <DropdownItem target="_blank" link="//github.com/ethcore/parity/releases">Parity</DropdownItem>
-            <DropdownItem target="_blank" link="//etcstats.net">Network Status</DropdownItem>
+            <DropdownItem target="_blank" link="http://etcstats.net">Network Status</DropdownItem>
             <DropdownItem target="_blank" link="//github.com/Machete3000/etc-net-intelligence-api/wiki/Network-Status-Client-Setup">Add Node to Netstat</DropdownItem>
             <DropdownItem target="_blank" link="//mega.nz/#!UVM2FDAR!c0cF6qKy4IAsu7VRXiAAgHGzSMOSVufB7WHNojsM7yw">Bootstrap Chaindata</DropdownItem>
             <DropdownItem target="_blank" link="//www.reddit.com/r/EthereumClassic/comments/58vwk8/etc_tap_for_osx_homebrew/">OSX Homebrew Install</DropdownItem>
