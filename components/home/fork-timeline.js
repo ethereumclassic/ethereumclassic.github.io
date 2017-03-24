@@ -39,9 +39,9 @@ export default class ForkTimeline extends Component {
       <Container fluid className="dark-grey-gradient" id="fork-timeline">
         <Container>
           <h2>
-            Ethereum Classic Timeline{' '}
+            Ethereum Classic Timeline:{' '}
             <small className="mui--text-dark-secondary">
-              The Events that Created ETC
+              The Events that Created and Defined ETC
             </small>
           </h2>
         </Container>
@@ -60,71 +60,71 @@ export default class ForkTimeline extends Component {
             />
             <TimelineItem
               link="https://blog.slock.it/the-dao-creation-is-now-live-2270fd23affc"
-              Icon={IconDaoCrowdsale} date="April 30" title="TheDAO Crowdsale Begins"
+              Icon={IconDaoCrowdsale} date="April 30 2016" title="TheDAO Crowdsale Begins"
               text="TheDAO smart contract is deployed; members of the public send it value in return for DAO tokens"
             />
             <TimelineItem
               className="orange"
               link="https://blog.slock.it/dao-security-a-proposal-to-guarantee-the-integrity-of-the-dao-3473899ace9d"
-              Icon={IconSecurityAudit} date="May 26" title="Security Proposal"
+              Icon={IconSecurityAudit} date="May 26 2016" title="Security Proposal"
               text="Slock.it announce a $1.5 Million USD proposal, paid in Ether by the crowdfund, 'to guarantee the integrity of The DAO'"
             />
             <TimelineItem
               className="orange"
               link="http://hackingdistributed.com/2016/05/27/dao-call-for-moratorium/"
-              Icon={IconMoratorium} date="May 27" title="Moratorium Called"
+              Icon={IconMoratorium} date="May 27 2016" title="Moratorium Called"
               text="On the last day of the crowdsale, DAO curator Vlad Zamfir calls for a moratorium on TheDAO, citing many game-theoretical security issues"
             />
             <TimelineItem
               link="http://slacknation.github.io/medium/8/8.html"
-              Icon={IconCrodsaleEnds} date="May 27" title="TheDAO Crowdsale Ends"
+              Icon={IconCrodsaleEnds} date="May 27 2016" title="TheDAO Crowdsale Ends"
               text="The crowdsale completes to become the world's largest and raising an incredible $150 Million USD"
             />
             <TimelineItem
               className="orange"
               link="http://vessenes.com/more-ethereum-attacks-race-to-empty-is-the-real-deal/"
-              Icon={IconRentryBug} date="Jun 9" title="Recursive Call Bug Discovered"
+              Icon={IconRentryBug} date="Jun 9 2016" title="Recursive Call Bug Discovered"
               text="Peter Vessenes publicly discloses the existence of a critical security vulnerability overlooked in many Solidiy contracts"
             />
             <TimelineItem
               link="https://blog.slock.it/no-dao-funds-at-risk-following-the-ethereum-smart-contract-recursive-call-bug-discovery-29f482d348b"
-              Icon={IconNoFundsAtRisk} date="Jun 12" title="'No Funds at Risk'"
+              Icon={IconNoFundsAtRisk} date="Jun 12 2016" title="'No Funds at Risk'"
               text="Stephan Tual publicly claims that TheDAO funds are safe despite the newly-discovered critical security flaw"
             />
             <TimelineItem
               className="red"
               link="http://slacknation.github.io/medium/10/10.html"
-              Icon={IconDaoHacked} date="Jun 17, 03:40" title="TheDAO is Hacked"
+              Icon={IconDaoHacked} date="Jun 17 2016" title="TheDAO is Hacked"
               text="Ether is slowly and silently drained from TheDAO as the re-entry bug is applied"
             />
             <TimelineItem
               className="red"
               link="https://cointelegraph.com/news/dao-potentially-hacked-millions-of-ether-may-be-stolen-griff-green-says"
-              Icon={IconMarketPanic} date="Jun 17, 07:40" title="Panic Hits the Markets"
+              Icon={IconMarketPanic} date="Jun 17 2016" title="Panic Hits the Markets"
               text="The price of Ether is slashed in half as Griff Green announces that TheDAO has been hacked"
             />
             <TimelineItem
               className="blue"
               link="https://blog.ethereum.org/2016/06/17/critical-update-re-dao-vulnerability/"
-              Icon={IconCountdown} date="Jun 17" title="The Countdown Beings"
+              Icon={IconCountdown} date="Jun 17 2016" title="The Countdown Beings"
               text="TheDAO's splitting mechanism gives around a month for a solution to be found that recovers the funds; Foundation and community developers race to implement a soft fork"
             />
             <TimelineItem
               className="white"
               link="https://www.reddit.com/r/ethereum/comments/4p7mhc/update_on_the_white_hat_attack/"
-              Icon={IconRhg} date="Jun 21" title="Robin Hood Group Announced"
+              Icon={IconRhg} date="Jun 21 2016" title="Robin Hood Group Announced"
               text="A group of 'white-hat' hackers secure 70% of TheDAO funds but protocol-level action is required to save the remaining 30% split by the hacker"
             />
             <TimelineItem
               className="blue"
               link="https://blog.ethereum.org/2016/06/24/dao-wars-youre-voice-soft-fork-dilemma/"
-              Icon={IconSoftFork} date="Jun 24" title="DAO Wars: Soft Fork Vote"
+              Icon={IconSoftFork} date="Jun 24 2016" title="DAO Wars: Soft Fork Vote"
               text="The Ethereum Foundation releases a 'Soft Fork' client to censor transactions coming from the hacker; mining pools vote to enable it by lowering gas limit"
             />
             <TimelineItem
               className="red"
               link="https://blog.ethereum.org/2016/06/28/security-alert-dos-vulnerability-in-the-soft-fork/"
-              Icon={IconSoftForkFail} date="Jun 28" title="Soft Fork Vulnerability"
+              Icon={IconSoftForkFail} date="Jun 28 2016" title="Soft Fork Vulnerability"
               text="Critical Denial of Service flaws are found in the Soft Fork implementation, miners quicky decide not to use it"
             />
             <TimelineItem
@@ -134,19 +134,19 @@ export default class ForkTimeline extends Component {
             <TimelineItem
               className="blue"
               link="https://blog.slock.it/hard-fork-specification-24b889e70703"
-              Icon={IconHardForkAnnounced} date="Jul 15" title="Hard Fork Spec Announced"
+              Icon={IconHardForkAnnounced} date="Jul 15 2016" title="Hard Fork Spec Announced"
               text="The only remaining option is a controversial Hard Fork. A Specification is determined and announced by Slock.it and Ethereum Foundation members"
             />
             <TimelineItem
               className="orange"
               link="https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork/"
-              Icon={IconLastMinute} date="Jul 15" title="Last Minute Carbonvote"
+              Icon={IconLastMinute} date="Jul 15 2016" title="Last Minute Carbonvote"
               text="With 12 hours notice, The Ethereum Foundation use a controversial third party 'coin vote' to determine that the Hard Fork should be turned on by default; consensus is declared and an updated client is released"
             />
             <TimelineItem
               className="blue"
               link="https://blog.ethereum.org/2016/07/20/hard-fork-completed/"
-              Icon={IconHardForkHappens} date="Jul 20" title="DAO Bailout Hard Fork"
+              Icon={IconHardForkHappens} date="Jul 20 2016" title="DAO Bailout Hard Fork"
               text="With around 80% of nodes updating to the new client, the community nervously await the arrival of the Hard Fork activation block 1920000"
             />
             <TimelineItem
@@ -164,7 +164,7 @@ export default class ForkTimeline extends Component {
             <TimelineItem
               className="green"
               link="https://twitter.com/poloniex/status/757068619234803712"
-              Icon={IconPoloniexLists} date="Jul 23" title="Poloniex Lists ETC"
+              Icon={IconPoloniexLists} date="Jul 23 2016" title="Poloniex Lists ETC"
               text="The largest Ethereum exchange lists 'ETC' - Ethereum Classic; many exchanges quickly follow suit, ETC price peaks to 1/3 of ETH's"
             />
             <TimelineItem
@@ -175,13 +175,13 @@ export default class ForkTimeline extends Component {
             <TimelineItem
               className="green"
               link="https://www.reddit.com/r/EthereumClassic/"
-              Icon={IconEthClassic} date="Jul 24" title="Ethereum Classic Community"
+              Icon={IconEthClassic} date="Jul 24 2016" title="Ethereum Classic Community"
               text="The Ethereum Classic community begins to branch off from the forked-chain subreddits and form its own communication channels, including /r/EthereumClassic, Slack and Telegram"
             />
             <TimelineItem
               className="white"
               link="https://www.reddit.com/r/EthereumClassic/comments/4x1157/from_whitehat_to_poloniex/"
-              Icon={IconRhgDump} date="Aug 10" title="RHG Strikes Back"
+              Icon={IconRhgDump} date="Aug 10 2016" title="RHG Strikes Back"
               text="The Robin Hood Group attempts to dump a large quantity of stolen ETC on the market. Poloniex freezes the funds. Uncertainty reaches an all time high."
             />
             <TimelineItem
@@ -191,30 +191,60 @@ export default class ForkTimeline extends Component {
             />
             <TimelineItem
               className="green"
-              Icon={IconClassicRebuild} date="Aug 15" title="Classic Rebuilds"
+              Icon={IconClassicRebuild} date="Aug 15 2016" title="Classic Rebuilds"
               text="The Ethereum Classic community begins to rally behind a stabilizing ETC price by rebuilding on the Classic network; this website is created, groups are formed, new ideas begin to surface"
             />
             <TimelineItem
               className="white"
               link="https://bitcoinmagazine.com/articles/millions-of-dollars-worth-of-etc-may-soon-be-dumped-on-the-market-1472567361"
-              Icon={IconMarketPanic} date="Aug 31" title="DAO ETC unlocked"
+              Icon={IconMarketPanic} date="Aug 31 2016" title="DAO ETC unlocked"
               text="Millions of previously locked or frozen ETC become available to DAO token holders and DAO attacker. Despite predictions of doom and gloom, ETC price holds remarkably well in face of huge dumps"
             />
             <TimelineItem
               className="red"
               link="https://www.reddit.com/r/EthereumClassic/comments/599kmf/etc_community_successfully_implemented_gasreprice/"
-              Icon={IconHardForkAnnounced} date="Oct 25" title="Attacks and Upgrades"
+              Icon={IconHardForkAnnounced} date="Oct 25 2016" title="Attacks and Upgrades"
               text="Both Ethereums are hit with non-stop network attacks; ETC devs quickly ensure smooth and uncontentious network upgrade to patch exploited vulnerabilities"
             />
             <TimelineItem
               className="green"
               link="https://www.reddit.com/r/EthereumClassic/comments/5cm582/monetary_policy_update/"
-              Icon={IconCrodsaleEnds} date="Nov 1" title="ETC Monetary Policy"
+              Icon={IconCrodsaleEnds} date="Nov 1 2016" title="ETC Monetary Policy"
               text="Classic community starts debating ETC monetary policy and emission schedule, as a way to align interests of platform users, miners, investors and developers"
             />
             <TimelineItem
+              className="white"
+              link="https://ethereumclassic.github.io/blog/2016-12-12-TeamGrothendieck/"
+              Icon={IconSecurityAudit} date="Dec 11 2016" title="Grothendieck team"
+              text="A team of 7 full-time developers, committed by IOHK, starts working for Ethereum Classic"
+            />
+            <TimelineItem
+              className="green"
+              link="https://www.reddit.com/r/EthereumClassic/comments/5nt4qm/diehard_etc_protocol_upgrade_successful_nethash/"
+              Icon={IconDaoCreated} date="Block 3000000" title="ETC Diehard Upgrade"
+              text="ETC goes through a non-contentious network upgrade, resolving critical issues such as difficulty bomb and replay attacks"
+            />
+            <TimelineItem
+              className="white"
+              link="https://www.etcdevteam.com/"
+              Icon={IconSecurityAudit} date="Feb 20 2017" title="ETCDEV Team Announcement"
+              text="A team of long-term ETC contributors and volunteers rebrands as a ETCDEV team"
+            />
+            <TimelineItem
+              className="green"
+              link="https://www.etcdevteam.com/blog/articles/a-joint-statement-ecip1017.html"
+              Icon={IconDaoCrowdsale} date="March 1" title="Monetary Policy Adopted"
+              text="Ethereum Classic community adopts a fixed-cap monetary policy with a Bitcoin-like limited emission schedule"
+            />
+            <TimelineItem
+              className="green"
+              link="https://grayscale.co/ethereum-classic-investment-thesis-march-2017/"
+              Icon={IconCrodsaleEnds} date="March 1" title="ETC Investment Fund"
+              text="Greyscale circulates invesment thesis for 'Ethereum (ETC) Investment Trust', first non-bitcoin crypto fund targeted at traditional investors"
+            />
+            <TimelineItem
               Icon={IconTbc} title="To Be Continued"
-              text="As both communities begin to refocus efforts on development, despite an uncertain future, we reflect on mistakes of the past and look ahead at future potentials..."
+              text="As Ethereum Classic community and its two independent dev teams start to focus efforts on development and applications, we look forward to ETC becoming a decentralized immutable public infrastructure of the future..."
             />
           </Container>
         </div>
