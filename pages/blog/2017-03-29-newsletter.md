@@ -29,7 +29,6 @@ author: Carlo V
 
 **ETCDev Team: Weekly Report**
 
-
 * (Geth) Improved blockchain downloader and peer discovery
 
 * (Geth) Initial refactor to externalize Chain configuration
@@ -48,6 +47,16 @@ author: Carlo V
 
 * Recording of the Grothendieck Team meeting from March 21st, 2017.  
 * https://www.youtube.com/watch?v=CKzo4OgtpSc
+
+**ECIP Updates**
+
+Let us know your thoughts!
+
+* [A smart contract based system for ECIP management by C. Burns](https://github.com/ethereumproject/ECIPs/issues/42)
+
+* [An Ethereum Classic naming service by Dexaran.](https://github.com/ethereumproject/ECIPs/issues/41)
+
+* [Atomic transactions proposal by Splix.](https://github.com/ethereumproject/ECIPs/issues/40)
 
 **The other stories featured in this newsletter are listed below:** 
 
