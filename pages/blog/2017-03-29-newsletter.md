@@ -103,15 +103,6 @@ New video from BitcoinMeister featuring discussion about ETC and other blockchai
 
 * https://iohk.io/blog/proof-refinement-basics/
 
-
-
-
-## **Article from Dr. Seberino. **
-
-“Vitalik Buterin discusses the new viper smart contract programming language.”
-
-* https://steemit.com/etc/@cseberino/ethereum-s-vitalik-buterin-discusses-the-new-viper-smart-contract-programming-language
-
 ## **Let’s Talk ETC - Episode 10.** 
 
 Let's Talk ETC! (Ethereum Classic) #10 featuring Charles Hoskinson & Roman Oliynykov discussing the recently released draft of the treasury proposal.
