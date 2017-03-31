@@ -29,7 +29,6 @@ author: Carlo V
 
 **ETCDev Team: Weekly Report**
 
-
 * (Geth) Improved blockchain downloader and peer discovery
 
 * (Geth) Initial refactor to externalize Chain configuration
@@ -48,6 +47,16 @@ author: Carlo V
 
 * Recording of the Grothendieck Team meeting from March 21st, 2017.  
 * https://www.youtube.com/watch?v=CKzo4OgtpSc
+
+**ECIP Updates**
+
+Let us know your thoughts!
+
+* [A smart contract based system for ECIP management by C. Burns](https://github.com/ethereumproject/ECIPs/issues/42)
+
+* [An Ethereum Classic naming service by Dexaran.](https://github.com/ethereumproject/ECIPs/issues/41)
+
+* [Atomic transactions proposal by Splix.](https://github.com/ethereumproject/ECIPs/issues/40)
 
 **The other stories featured in this newsletter are listed below:** 
 
@@ -102,15 +111,6 @@ New video from BitcoinMeister featuring discussion about ETC and other blockchai
 “Proof refinement basics…..”
 
 * https://iohk.io/blog/proof-refinement-basics/
-
-
-
-
-## **Article from Dr. Seberino. **
-
-“Vitalik Buterin discusses the new viper smart contract programming language.”
-
-* https://steemit.com/etc/@cseberino/ethereum-s-vitalik-buterin-discusses-the-new-viper-smart-contract-programming-language
 
 ## **Let’s Talk ETC - Episode 10.** 
 
