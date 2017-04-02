@@ -41,7 +41,6 @@ export default class Community extends Component {
                     { text: 'Read ETC Today', link: 'http://etc.today/' },
                     { text: 'Contribute to ETC Wiki', link: 'http://ethcwiki.org/' },
                     { text: 'Subscribe to ETC Newsletter', link: 'http://us14.campaign-archive1.com/home/?u=1e7b1574ce5b6f380df5f8510&id=16de44cd42' },
-                    { text: 'Discuss ETC Monetary Policy', link: 'https://www.reddit.com/r/EthereumClassic/comments/5cm582/monetary_policy_update/' },
                   ],
                 }}
               />
@@ -57,7 +56,8 @@ export default class Community extends Component {
                     { text: 'Check out Github', link: 'http://github.com/ethereumproject' },
                     { text: 'Connect on Slack', link: 'http://ethereumclassic.herokuapp.com' },
                     { text: 'Connect on Gitter', link: 'http://gitter.im/ethereumproject/go-ethereum' },
-                    { text: 'Volunteer', link: 'http://github.com/ethereumproject/volunteer' },
+                    { text: 'ETCDEV Team', link: 'https://www.etcdevteam.com/' },
+                    { text: 'Grothendieck Team', link: 'https://iohk.io/projects/ethereum-classic/#team' },
                   ],
                 }}
               />
@@ -103,21 +103,15 @@ export default class Community extends Component {
                 dropdown={{
                   title: 'Invest and Trade',
                   items: [
-                    { link: 'https://bitfinex.com', text: 'Bitfinex: ETC/BTC, ETC/USD ' },
+                    { link: 'https://grayscale.co/wp-content/uploads/2017/03/Grayscale-Ethereum-Classic-Investment-Thesis-March-2017.pdf', text: 'Investment Thesis' },
+                    { link: 'https://bitfinex.com', text: 'Bitfinex: ETC/BTC, ETC/USD' },
                     { link: 'https://www.kraken.com', text: 'Kraken: ETC/ETH, ETC/EUR, ETC/USD, ETC/XBT' },
                     { link: 'https://poloniex.com/exchange#btc_etc', text: 'Poloniex: ETC/BTC, ETC/ETH, ETC/USDT' },
                     { link: 'https://trans.chbtc.com/etc', text: 'CHBTC: ETC/CNY' },
+                    { link: 'https://www.bitmex.com/app/trade/ETC24H', text: 'BitMex: ETC futures' },
                     { link: 'https://shapeshift.io', text: 'Shapeshift' },
-                    { link: 'https://changelly.com/exchange/BTC/ETC/1', text: 'Changelly' },
-                    { link: 'https://bittrex.com/Market/Index?MarketName=BTC-ETC', text: 'Bittrex' },
-                    { link: 'http://yunbi.com/', text: 'Yunbi' },
-                    { link: 'https://korbit.co.kr/etc_market', text: 'Korbit' },
-                    { link: 'https://bter.com/trade/etc_btc', text: 'BTER' },
-                    { link: 'https://yobit.net/en/trade/ETC/BTC', text: 'Yobit' },
-                    { link: 'https://coinexchange.io/market/ETC/BTC', text: 'Coinexchange' },
-                    { link: 'https://c-cex.com/?p=etc-btc', text: 'C-CEX' },
-                    { link: 'https://www.bitmex.com/app/trade/ETC24H', text: 'BitMex futures contract ETC' },
                     { link: 'http://bitsquare.io', text: 'BitSquare' },
+                    { link: 'https://korbit.co.kr/etc_market', text: 'Korbit' },
                   ],
                 }}
               />

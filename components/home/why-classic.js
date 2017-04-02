@@ -42,7 +42,14 @@ export default class WhyClassic extends Component {
             href={prefixLink('/assets/Ethereum_Classic_-_The_New_Original_Innovator.pdf')}
             target="_blank"
           >
-            Products & Services Roadmap
+            Roadmap
+          </a>
+          <a
+            className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
+            href={'https://www.etcdevteam.com/blog/articles/a-joint-statement-ecip1017.html'}
+            target="_blank"
+          >
+            Monetary Policy
           </a>
           <br />
           <a
@@ -50,15 +57,14 @@ export default class WhyClassic extends Component {
             href={'http://etc.today/'}
             target="_blank"
           >
-            ETC Today News Service
+            ETC Today
           </a>
-          <br />
           <a
             className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
             href={'http://us14.campaign-archive1.com/home/?u=1e7b1574ce5b6f380df5f8510&id=16de44cd42'}
             target="_blank"
           >
-            ETC Weekly Newsletter
+            Weekly Update
           </a>
           <br />
           <a
@@ -66,15 +72,22 @@ export default class WhyClassic extends Component {
             href={'https://steemit.com/@cseberino'}
             target="_blank"
           >
-            ETC Education Initiative
+            ETC Education
+          </a>
+          <a
+            className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
+            href={'https://github.com/ethereumclassic/faq'}
+            target="_blank"
+          >
+            ETC FAQ
           </a>
           <br />
           <a
             className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
-            href={'https://www.reddit.com/r/EthereumClassic/comments/5cm582/monetary_policy_update/'}
+            href={'https://grayscale.co/wp-content/uploads/2017/03/Grayscale-Ethereum-Classic-Investment-Thesis-March-2017.pdf'}
             target="_blank"
           >
-            Monetary Policy Workshop
+            Investment Thesis
           </a>
           <br /><br />
         </Col>
