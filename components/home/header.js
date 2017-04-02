@@ -36,13 +36,16 @@ export default class Header extends Component {
             {' '}<span>immutable</span>
             {' '}<span>unstoppable</span>
           </h2>
-          <Dropdown label="ETC Nodes">
-            <DropdownItem target="_blank" link="//github.com/ethereumproject/go-ethereum/releases">Geth</DropdownItem>
-            <DropdownItem target="_blank" link="//github.com/ethcore/parity/releases">Parity</DropdownItem>
-            <DropdownItem target="_blank" link="http://etcstats.net">Network Status</DropdownItem>
-            <DropdownItem target="_blank" link="//github.com/Machete3000/etc-net-intelligence-api/wiki/Network-Status-Client-Setup">Add Node to Netstat</DropdownItem>
-            <DropdownItem target="_blank" link="//mega.nz/#!UVM2FDAR!c0cF6qKy4IAsu7VRXiAAgHGzSMOSVufB7WHNojsM7yw">Bootstrap Chaindata</DropdownItem>
-            <DropdownItem target="_blank" link="//www.reddit.com/r/EthereumClassic/comments/58vwk8/etc_tap_for_osx_homebrew/">OSX Homebrew Install</DropdownItem>
+          <Dropdown label="Information">
+            <DropdownItem target="_blank" link="//github.com/ethereumclassic/faq">ETC FAQ</DropdownItem>
+            <DropdownItem target="_blank" link="//ethereum-classic-guide.readthedocs.io/en/latest/">ETC Guide</DropdownItem>
+            <DropdownItem target="_blank" link="http://etc.today/">ETC Today</DropdownItem>
+            <DropdownItem target="_blank" link="http://us14.campaign-archive1.com/home/?u=1e7b1574ce5b6f380df5f8510&id=16de44cd42">Weekly Newsletter</DropdownItem>
+            <DropdownItem target="_blank" link="//steemit.com/@cseberino">Education Initiative</DropdownItem>
+            <DropdownItem target="_blank" link="//grayscale.co/wp-content/uploads/2017/03/Grayscale-Ethereum-Classic-Investment-Thesis-March-2017.pdf">Investment Thesis</DropdownItem>
+            <DropdownItem target="_blank" link="//www.etcdevteam.com/blog/articles/a-joint-statement-ecip1017.html">Monetary Policy</DropdownItem>
+            <DropdownItem target="_blank" link="//www.etcdevteam.com/">ETCDEV Team</DropdownItem>
+            <DropdownItem target="_blank" link="//iohk.io/projects/ethereum-classic/#team">Grothendieck Team</DropdownItem>
           </Dropdown>
           &nbsp;{' '}&nbsp;
           <Dropdown label="ETC Wallets">
@@ -53,14 +56,22 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="//github.com/ethereumproject/mist/releases">Mist Browser</DropdownItem>
           </Dropdown>
           &nbsp;{' '}&nbsp;
+          <Dropdown label="ETC Nodes">
+            <DropdownItem target="_blank" link="//github.com/ethereumproject/go-ethereum/releases">Geth</DropdownItem>
+            <DropdownItem target="_blank" link="//github.com/ethcore/parity/releases">Parity</DropdownItem>
+            <DropdownItem target="_blank" link="http://etcstats.net">Network Status</DropdownItem>
+            <DropdownItem target="_blank" link="//github.com/Machete3000/etc-net-intelligence-api/wiki/Network-Status-Client-Setup">Add Node to Netstat</DropdownItem>
+            <DropdownItem target="_blank" link="//mega.nz/#!UVM2FDAR!c0cF6qKy4IAsu7VRXiAAgHGzSMOSVufB7WHNojsM7yw">Bootstrap Chaindata</DropdownItem>
+          </Dropdown>
+          <br />
           <Dropdown label="Explorers">
             <DropdownItem target="_blank" link="//gastracker.io">gastracker.io</DropdownItem>
             <DropdownItem target="_blank" link="//etherhub.io">etherhub.io</DropdownItem>
             <DropdownItem target="_blank" link="//etcchain.com/explorer">etcchain.com</DropdownItem>
             <DropdownItem target="_blank" link="//gastracker.io/stats/miners">Mining Status</DropdownItem>
-            <DropdownItem target="_blank" link="//etcstats.net">Network Monitor</DropdownItem>
+            <DropdownItem target="_blank" link="http://etcstats.net">Network Monitor</DropdownItem>
           </Dropdown>
-          <br />
+          &nbsp;{' '}&nbsp;
           <Dropdown label="Exchanges">
             <DropdownItem target="_blank" link="//bitfinex.com">Bitfinex: ETC/BTC, ETC/USD</DropdownItem>
             <DropdownItem target="_blank" link="//www.kraken.com">Kraken: ETC/ETH, ETC/EUR, ETC/USD, ETC/XBT</DropdownItem>
@@ -78,14 +89,6 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="//www.bitmex.com/app/trade/ETC24H">BitMex futures contract ETC</DropdownItem>
             <DropdownItem target="_blank" link="//bitsquare.io">BitSquare</DropdownItem>
           </Dropdown>
-          &nbsp;{' '}&nbsp;
-          <a
-            className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
-            href={'https://github.com/ethereumclassic/faq'}
-            target="_blank"
-          >
-            FAQ
-          </a>
           &nbsp;{' '}&nbsp;
           <SocialLinks />
           <PriceTicker />
