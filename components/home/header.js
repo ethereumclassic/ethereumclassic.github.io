@@ -42,7 +42,7 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="http://etc.today/">ETC Today</DropdownItem>
             <DropdownItem target="_blank" link="http://us14.campaign-archive1.com/home/?u=1e7b1574ce5b6f380df5f8510&id=16de44cd42">Weekly Newsletter</DropdownItem>
             <DropdownItem target="_blank" link="//steemit.com/@cseberino">Education Initiative</DropdownItem>
-            <DropdownItem target="_blank" link="//grayscale.co/wp-content/uploads/2017/03/Grayscale-Ethereum-Classic-Investment-Thesis-March-2017.pdf">Investment Thesis</DropdownItem>
+            <DropdownItem target="_blank" link="https://grayscale.co/ethereum-classic-investment-thesis-march-2017/">Investment Thesis</DropdownItem>
             <DropdownItem target="_blank" link="//www.etcdevteam.com/blog/articles/a-joint-statement-ecip1017.html">Monetary Policy</DropdownItem>
             <DropdownItem target="_blank" link="//www.etcdevteam.com/">ETCDEV Team</DropdownItem>
             <DropdownItem target="_blank" link="//iohk.io/projects/ethereum-classic/#team">Grothendieck Team</DropdownItem>

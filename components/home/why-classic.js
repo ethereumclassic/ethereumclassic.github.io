@@ -84,7 +84,7 @@ export default class WhyClassic extends Component {
           <br />
           <a
             className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
-            href={'https://grayscale.co/wp-content/uploads/2017/03/Grayscale-Ethereum-Classic-Investment-Thesis-March-2017.pdf'}
+            href={prefixLink('/assets/etc-thesis.pdf')}
             target="_blank"
           >
             Investment Thesis

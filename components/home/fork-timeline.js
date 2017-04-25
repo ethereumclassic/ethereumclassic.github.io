@@ -238,9 +238,9 @@ export default class ForkTimeline extends Component {
             />
             <TimelineItem
               className="green"
-              link="https://grayscale.co/ethereum-classic-investment-thesis-march-2017/"
+              link='https://grayscale.co/ethereum-classic-investment-thesis-march-2017/'
               Icon={IconCrodsaleEnds} date="March 1" title="ETC Investment Fund"
-              text="Greyscale circulates investment thesis for 'Ethereum (ETC) Investment Trust', first non-bitcoin crypto fund targeted at traditional investors"
+              text="Grayscale circulates investment thesis for 'Ethereum (ETC) Investment Trust', first non-bitcoin crypto fund targeted at traditional investors"
             />
             <TimelineItem
               Icon={IconTbc} title="To Be Continued"
