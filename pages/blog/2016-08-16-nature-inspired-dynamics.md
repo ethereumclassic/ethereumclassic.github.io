@@ -14,7 +14,7 @@ Figure 1. Ethereum Classic pulsing community. Source Ethereum Classic Slack [#we
 For every opportunity presented to Ethereum Classic community I think it should not disencourage going to several random different approaches as a mutant evolving community. If an individual can grab some fruits in one direction awesome. If it starts to starve in another, that direction might be cancelled like in a [Lévy flight foraging hypothesis](https://en.wikipedia.org/wiki/L%C3%A9vy_flight_foraging_hypothesis) performed by a bee looking for pollen for example.
 
 
-![](http://i.imgur.com/kCoQR5q.jpg)
+![](http://i.imgur.com/KsTJviA.jpg)
 
 Figure 2. Hive and bees. Source [Geyser of Awesome](http://geyserofawesome.com/post/112481764846/bees-are-awesome-they-pollinate-the-crops-we-rely)
 
