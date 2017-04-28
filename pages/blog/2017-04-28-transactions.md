@@ -1,5 +1,8 @@
 ---
-title: "#You can contact me by clicking any of these icons:
+title: "Ethereum Classic World Computer Transactions Explained"
+date: 2017-04-28
+author: Christian Seberino
+---
 
 ![](https://cdn-images-1.medium.com/max/800/0*HOdU25qwLVRmW3Bj.jpg)
 
@@ -18,8 +21,8 @@ programs. All data, funds and programs are associated with
 
 *People* initiate all activity. (Internet devices may also interact with ETC,
 but, they are always doing so on behalf of humans.) Therefore, an access control
-system is necessary. The ETC access control system relies on *payments. *These
-are made with* transactions*.
+system is necessary. The ETC access control system relies on *payments*. These
+are made with *transactions*.
 
 ### Transactions
 
