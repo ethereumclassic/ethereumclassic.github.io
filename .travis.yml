@@ -2,10 +2,10 @@ dist: trusty
 sudo: false
 language: node_js
 node_js:
-- 7
+- 6
 install:
   - npm install --no-optional
-script: travis_wait bash ./deploy.sh
+script: bash ./deploy.sh
 env:
   global:
   - ENCRYPTION_LABEL: "a55c8da1c39b"
