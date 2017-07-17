@@ -5,7 +5,7 @@ node_js:
 - 6
 install:
   - npm install --no-optional
-script: bash ./deploy.sh
+script: travis_wait bash ./deploy.sh
 env:
   global:
   - ENCRYPTION_LABEL: "a55c8da1c39b"
