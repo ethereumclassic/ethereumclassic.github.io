@@ -14,3 +14,4 @@ env:
 cache:
   directories:
     - node_modules
+filter_secrets: false
