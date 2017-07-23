@@ -5,7 +5,7 @@ author: ProphetDaniel
 ---
 
 ![Ethereum Classic's vision](http://i.imgur.com/ZUUnHcH.png "Gandalf at Ethereum Classic")
-> "He that breaks a thing to find out what it is has left the path of wisdom.”
+> "He that breaks a thing to find out what it is has left the path of wisdom."
 Gandalf - J.R.R Tolkien
 
 Ethereum foundation when [hardforked its blockchain](http://qz.com/730004/everything-you-need-to-know-about-the-ethereum-hard-fork/) broke vital values that could ultimately compromise forked Ethereum credibility.
