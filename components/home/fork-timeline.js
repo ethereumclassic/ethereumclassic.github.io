@@ -125,7 +125,7 @@ export default class ForkTimeline extends Component {
               className="red"
               link="https://blog.ethereum.org/2016/06/28/security-alert-dos-vulnerability-in-the-soft-fork/"
               Icon={IconSoftForkFail} date="Jun 28 2016" title="Soft Fork Vulnerability"
-              text="Critical Denial of Service flaws are found in the Soft Fork implementation, miners quicky decide not to use it"
+              text="Critical Denial of Service flaws are found in the Soft Fork implementation, miners quickly decide not to use it"
             />
             <TimelineItem
               Icon={IconDebate} date="Jun 28 - Jul 15" title="Hard Fork Debate"
