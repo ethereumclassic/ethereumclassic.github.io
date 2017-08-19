@@ -70,6 +70,7 @@ export default class Community extends Component {
                 dropdown={{
                   title: 'Join a Pool',
                   items: [
+                    { link: 'https://etc.fairpool.xyz', text: 'Fairpool' },
                     { link: 'http://ethc.epool.io', text: 'Epool' },
                     { link: 'https://etc.minerhub.io', text: 'Minerhub' },
                     { link: 'https://www.coinotron.com', text: 'Coinotron'},
