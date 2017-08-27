@@ -4,7 +4,8 @@ date: 2017-08-27
 author: Prophet Daniel, Tyler West
 ---
 
-# The Rise and Rise of Social Coins
+[Imgur](http://i.imgur.com/d0XtDo5.jpg)
+ImageSource: [MoneyMetals](https://www.moneymetals.com/).
 
 ## A new hope
 Never before in history mankind had as much available computing power, and also never had as much available human intelligence we have now - over 7.5 billion human brains. How come we are still very primitive in several aspects of life? The reason is trivial. Most individuals are not contributing at all for this global community we happen to be now, they are unfortunatelly marginalized by the system. To better illustrate the problem:
