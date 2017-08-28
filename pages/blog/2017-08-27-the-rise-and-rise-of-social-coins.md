@@ -44,7 +44,7 @@ As the scope of circular economy can be too wide to properly address all possibl
 Ethereum Classsic, besides **decentralized law**, works hard to also enable the most important pillar of the future society: **[decentralized governance](https://ethereumclassic.github.io/blog/2016-08-11-decentralized-anarchist-governance-system/)**. Are also pillars of the future society, **decentralized communications** and **decentralized production**.
 
 ## CCEG now supports Ethereum Classic
-> We are currently preparing for a small UK£ 5m ICO [seratio-coins.world](https://www.seratio-coins.world/) which meets our needs. We have stated that any raise beyond this we would act as a foundation and support worthwhile [SDG](https://sustainabledevelopment.un.org/) compliant causes. We think ETC represents this and would be happy to support the work here to a maximum level of UK£ 1M.
+> We are currently preparing for a small UKÂ£ 5m ICO [seratio-coins.world](https://www.seratio-coins.world/) which meets our needs. We have stated that any raise beyond this we would act as a foundation and support worthwhile [SDG](https://sustainabledevelopment.un.org/) compliant causes. We think ETC represents this and would be happy to support the work here to a maximum level of UKÂ£ 1M.
 
 > Olinga Ta'eed - CCEG director
 
