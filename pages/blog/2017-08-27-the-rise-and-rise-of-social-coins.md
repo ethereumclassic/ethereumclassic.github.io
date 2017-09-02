@@ -4,7 +4,7 @@ date: 2017-08-27
 author: Prophet Daniel, Tyler West
 ---
 
-![Imgur](http://i.imgur.com/Jqu5BV6.png)
+![Imgur](https://i.imgur.com/Jqu5BV6.png)
 ImageSource: [MoneyMetals](https://www.moneymetals.com/).
 
 ## A new hope
