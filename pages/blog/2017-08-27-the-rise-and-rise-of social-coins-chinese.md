@@ -1,5 +1,5 @@
 ---
-title: "社会币的崛起"
+title: "The Rise and Rise of Social Coins chinese"
 date: 2017-08-27
 author: Prophet Daniel, Tyler West
 ---
