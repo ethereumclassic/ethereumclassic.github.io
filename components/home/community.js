@@ -91,7 +91,8 @@ export default class Community extends Component {
                     { link: 'http://etc-pool.com', text: 'etc-pool.com' },
                     { link: 'https://ethereum-classic.miningpoolhub.com/', text: 'ethereum-classic.miningpoolhub.com' },
                     { link: 'http://etc-poolcrypto.org/', text: 'etc-poolcrypto.org' },
-                    { link: 'http://etherx.com/pools', text: 'Compare ETC Pools' }
+                    { link: 'http://etherx.com/pools', text: 'Compare ETC Pools' },
+                    { link: 'http://etc.ethertrench.com', text: 'etc.ethertrench.com' }
                   ],
                 }}
               />
