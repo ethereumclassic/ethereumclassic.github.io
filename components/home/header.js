@@ -54,6 +54,7 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="//www.ledgerwallet.com/products/12-ledger-nano-s">Hardware Wallet</DropdownItem>
             <DropdownItem target="_blank" link="//classicetherwallet.com/">Web Wallet</DropdownItem>
             <DropdownItem target="_blank" link="//github.com/ethereumproject/mist/releases">Mist Browser</DropdownItem>
+            <DropdownItem target="_blank" link="//play.google.com/store/apps/details?id=com.guarda.etc">Light Wallet</DropdownItem>
           </Dropdown>
           &nbsp;{' '}&nbsp;
           <Dropdown label="ETC Nodes">
