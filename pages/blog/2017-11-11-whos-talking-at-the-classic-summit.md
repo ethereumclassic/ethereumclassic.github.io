@@ -1,4 +1,8 @@
-# Who’s Talking at the [Classic Summit](https://etcsummit.com/)
+---
+title: Who's Talking at the Classic Summit
+date: 2017-11-11
+author: pyskell (Anthony)
+---
 
 ![](https://cdn-images-1.medium.com/max/1000/1*3vCbXK5glCCkbEM0_XDfog.png)
 
@@ -11,7 +15,7 @@ get excited, but don’t get hyped.
 Created the [Ethereum Classic Investment
 Trust](https://grayscale.co/ethereum-classic-investment-trust/) which brought
 additional investment into Classic. They also created the [ETC
-Cooperative](https://etccooperative.org/) which is funding the summit and
+Cooperative](https://etccooperative.org/) which is funding [the summit](https://etcsummit.com/) and
 seeking to fund other projects that improve the Classic ecosystem.
 
 DCG will be represented by Barry Silbert (CEO), Meltem Demirrors (Director), and
