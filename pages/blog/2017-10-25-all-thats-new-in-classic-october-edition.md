@@ -7,7 +7,7 @@ author: pyskell (Anthony)
 Gather ‘round boys and girls, it’s time for an update on where Ethereum Classic
 is and where it’s heading.
 
-#### Development is expanding, marketing is ramping up, and we got spammed
+## Development is expanding, marketing is ramping up, and we got spammed
 
 We’ve got the [ETC Summit](https://etcsummit.com/), 4 new [ETCDEV Team
 members](https://www.etcdevteam.com/), 2 [new](https://github.com/yograterol)
@@ -24,7 +24,7 @@ We also had some issues with spam on Slack and no effective way to deal with it.
 We just didn’t have tools on Slack. So we’ve moved to Discord. [Come join us
 there!](https://discord.gg/bMGuZsA)
 
-#### For the users
+## For the users
 
 [Emerald Wallet](https://github.com/ethereumproject/emerald-wallet/releases) —
 Now with token and Ledger Nano S support!
@@ -52,7 +52,7 @@ Community-created branding guidelines (and a [sweet-looking
 mascot](https://imgur.com/a/zullj)) are nearly finalized. An announcement is
 coming soon.
 
-#### For the techies
+## For the techies
 
 Callisto — Ethereum Commonwealth is planning to design and launch a new Classic
 testnet called “Callisto” where new features can be tested. [Yohan
@@ -66,7 +66,7 @@ debugging](https://github.com/ethereumproject/sputnikvm-dev/wiki/Debug-RPCs).
 The more technical details are covered at [Wei Tang’s wonderful
 blog](https://that.world/~classic/).
 
-#### For the blockchain
+## For the blockchain
 
 [ECIP-1017](http://ecip1017.com/) — With this fork ETC will have a stable coin
 supply. Going live around December 12th.
