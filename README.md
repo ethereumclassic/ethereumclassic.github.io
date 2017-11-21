@@ -37,7 +37,7 @@ To upload a new Markdown file:
        git commit -m "Added a blog post"
        git push
 
-To create a pull request to notify ETC website mainters of your file:
+To create a pull request to notify ETC website maintainers of your file:
        Visit https://github.com/<your Github username>/ethereumclassic.github.io.git .
        Click on "Compare & pull request" in upper right.
        Add description to form.
