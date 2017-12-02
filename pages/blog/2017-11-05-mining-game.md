@@ -13,12 +13,13 @@ insights from playing this game.
 ### Game Rules
 
 * Players can create and submit blocks for inclusion into chains.
-* Blocks consist of four fields: block numbers, nonces, parent initials, and,
-player initials.
+* Blocks consist of five fields: block numbers, nonces, previous initials, player
+initials, and, payloads.
 * Chains are sets of *valid* blocks that are ordered by block numbers, and, that
 start with block number zero.
-* Blocks are valid if their hashes *begin* with a zero, and, their parent initials
-equal the *player* initials of the *preceding* block in a chain.
+* Blocks are valid if their hashes *begin* with a zero, their previous initials
+equal the *player* initials of the *preceding* block in a chain, and, they
+contain a payload from the payload list.
 * Nonces can be changed to modify hashes.
 * It is possible to submit invalid blocks.
 * The game is over when at least one block has been submitted for every possible
@@ -31,24 +32,28 @@ block number.
 
 Players can enter block fields in the form:
 
-![](https://cdn-images-1.medium.com/max/800/1*EUTBdhJeckAUTUZiYp6MUQ.png)
+![](https://cdn-images-1.medium.com/max/800/1*eJJfLId2umW5jY2LQnYUnQ.png)
 
-Players can click the “Hash Block” button to calculate the hash of a block, or,
-the “Submit Block” button to submit a block:
+Players select payloads from the payload list:
 
-![](https://cdn-images-1.medium.com/max/800/1*OF0GUeJRBjnU7LrjlqR6Kg.png)
+![](https://cdn-images-1.medium.com/max/800/1*VB2HFw5Hefqc9bznkVzt8w.png)
 
-Submitted blocks appear in blue in the yellow region:
+Players can click the "Hash Block" button to calculate the hash of a block, or,
+the "Submit Block" button to submit a block:
 
-![](https://cdn-images-1.medium.com/max/800/1*mmX1V3jqbGJBjukW0kpOAw.png)
+![](https://cdn-images-1.medium.com/max/800/1*hylABG2F9EASeHMXC24jsQ.png)
+
+Submitted blocks appear in the yellow region. Valid blocks will be blue and
+invalid blocks will be red:
+
+![](https://cdn-images-1.medium.com/max/800/1*kEAepWFfqATH89WTGnJW5g.png)
 
 Block numbers correspond to rows, and, there is a row for every possible block
 number. Therefore, games are over when there is at least one block in every
-*row* of the yellow region.
+*row* of the yellow region. When games are over, the blocks of the longest
+chains turn white:
 
-When games are over, the blocks of the longest chains turn white:
-
-![](https://cdn-images-1.medium.com/max/800/1*3KJLpkByhzXn3fbo_Ah40Q.png)
+![](https://cdn-images-1.medium.com/max/800/1*FaeAmcvkJ4cTInOdyOAHyA.png)
 
 Refresh the web page to start new games.
 
