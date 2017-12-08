@@ -62,6 +62,24 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="//github.com/ethcore/parity/releases">Parity</DropdownItem>
             <DropdownItem target="_blank" link="http://etcstats.net">Network Status</DropdownItem>
           </Dropdown>
+          &nbsp;{' '}&nbsp;
+          <Dropdown label="Mining Pools">
+            <DropDownItem target="_blank" link="http://epool.io">Epool</DropDownItem>
+            <DropDownItem target="_blank" link="https://minergate.com">Minergate</DropDownItem>
+            <DropDownItem target="_blank" link="http://91pool.com">91 Pool</DropDownItem>
+            <DropDownItem target="_blank" link="https://www.f2pool.com/help">f2pool</DropDownItem>
+            <DropDownItem target="_blank" link="https://ethc.coin-miners.info">Coin-Miners</DropDownItem>
+            <DropDownItem target="_blank" link="https://etc.bw.com">BW.com</DropDownItem>
+            <DropDownItem target="_blank" link="http://ethteam.com">ETHteam.com</DropDownItem>
+            <DropDownItem target="_blank" link="http://nanopool.org">Nanopool</DropDownItem>
+            <DropDownItem target="_blank" link="http://etc-poolcrypto.org/">ETC-Poolcrypto</DropDownItem>
+            <DropDownItem target="_blank" link="https://poolmining.org/pool/etc">Poolmining.org</DropDownItem>
+            <DropDownItem target="_blank" link="https://etc.ethermine.org/">Ethermine</DropDownItem>
+            <DropDownItem target="_blank" link="http://uupool.cn/">UUpool</DropDownItem>
+            <DropDownItem target="_blank" link="http://etcpool.pl/">ETCPool.pl</DropDownItem>
+            <DropDownItem target="_blank" link="http://clona.ru/">Clona.ru</DropDownItem>
+            <DropDownItem target="_blank" link="http://etc.minertopia.org/">Minertopia.org</DropDownItem>
+          </Dropdown>          
           <br />
           <Dropdown label="Explorers">
             <DropdownItem target="_blank" link="//gastracker.io">gastracker.io</DropdownItem>
