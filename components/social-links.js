@@ -16,7 +16,7 @@ export default class SocialLinks extends Component {
   render () {
     return (
       <Dropdown label="Social Links" className="social-links">
-        <DropdownItem link="https://discord.gg/HW4GckH" target="_blank"><Slack className="icon" />Discord</DropdownItem>
+        <DropdownItem link="https://discord.gg/HW4GckH" target="_blank"><Slack className="icon" /> Discord</DropdownItem>
         <DropdownItem link="https://reddit.com/r/ethereumclassic" target="_blank"><Reddit className="icon" /> Reddit</DropdownItem>
         <DropdownItem link="https://twitter.com/eth_classic" target="_blank"><Twitter className="icon" /> @eth_classic</DropdownItem>
         <DropdownItem link="https://github.com/ethereumproject" target="_blank"><Github className="icon" /> Github</DropdownItem>
