@@ -39,11 +39,12 @@ export default class WhyClassic extends Component {
           <br />
           <a
             className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
-            href={prefixLink('/assets/Ethereum_Classic_-_The_New_Original_Innovator.pdf')}
+            href={prefixLink('https://www.etcdevteam.com/roadmap.html')}
             target="_blank"
           >
-            Roadmap
+            ETCDEV Team Roadmap
           </a>
+          <br />
           <a
             className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
             href={'https://www.etcdevteam.com/blog/articles/a-joint-statement-ecip1017.html'}
@@ -69,19 +70,11 @@ export default class WhyClassic extends Component {
           <br />
           <a
             className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
-            href={'https://steemit.com/@cseberino'}
-            target="_blank"
-          >
-            ETC Education
-          </a>
-          <a
-            className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
             href={'https://github.com/ethereumclassic/faq'}
             target="_blank"
           >
             ETC FAQ
           </a>
-          <br />
           <a
             className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
             href={prefixLink('/assets/etc-thesis.pdf')}
