@@ -47,6 +47,14 @@ export default class WhyClassic extends Component {
           <br />
           <a
             className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
+            href={prefixLink('https://github.com/EthereumCommonwealth/Roadmap/issues')}
+            target="_blank"
+          >
+            Ethereum Commonwealth Roadmap
+          </a>
+          <br />
+          <a
+            className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
             href={'https://www.etcdevteam.com/blog/articles/a-joint-statement-ecip1017.html'}
             target="_blank"
           >
