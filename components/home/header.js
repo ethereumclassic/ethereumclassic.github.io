@@ -64,8 +64,10 @@ export default class Header extends Component {
           </Dropdown>
           &nbsp;{' '}&nbsp;
           <Dropdown label="Mining Pools">
-            <DropdownItem target="_blank" link="http://epool.io">Epool</DropdownItem>
+            <DropdownItem target="_blank" link="https://epool.io">Epool</DropdownItem>
+            <DropdownItem target="_blank" link="http://etc.minertopia.org/">Minertopia.org</DropdownItem>
             <DropdownItem target="_blank" link="https://minergate.com">Minergate</DropdownItem>
+            <DropdownItem target="_blank" link="https://etc.2miners.com">2miners</DropdownItem>
             <DropdownItem target="_blank" link="http://91pool.com">91 Pool</DropdownItem>
             <DropdownItem target="_blank" link="https://www.f2pool.com/help">f2pool</DropdownItem>
             <DropdownItem target="_blank" link="https://ethc.coin-miners.info">Coin-Miners</DropdownItem>
@@ -78,7 +80,6 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="http://uupool.cn/">UUpool</DropdownItem>
             <DropdownItem target="_blank" link="http://etcpool.pl/">ETCPool.pl</DropdownItem>
             <DropdownItem target="_blank" link="http://clona.ru/">Clona.ru</DropdownItem>
-            <DropdownItem target="_blank" link="http://etc.minertopia.org/">Minertopia.org</DropdownItem>
           </Dropdown>          
           <br />
           <Dropdown label="Explorers">
