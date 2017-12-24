@@ -106,6 +106,7 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="//bitsquare.io">BitSquare</DropdownItem>
             <DropdownItem target="_blank" link="//www.kraken.com">Kraken: ETC/ETH, ETC/EUR, ETC/USD, ETC/XBT</DropdownItem>
             <DropdownItem target="_blank" link="//changenow.io">ChangeNow</DropdownItem>
+            <DropdownItem target="_blank" link="//gobuycoin.com">GoBuyCoin: ETC/Alipay, ETC/Wechat Pay</DropdownItem>
           </Dropdown>
           &nbsp;{' '}&nbsp;
           <SocialLinks />
