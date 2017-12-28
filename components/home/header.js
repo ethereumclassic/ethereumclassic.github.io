@@ -39,6 +39,7 @@ export default class Header extends Component {
           <Dropdown label="Information">
             <DropdownItem target="_blank" link="//github.com/ethereumclassic/faq">ETC FAQ</DropdownItem>
             <DropdownItem target="_blank" link="//ethereum-classic-guide.readthedocs.io/en/latest/">ETC Guide</DropdownItem>
+            <DropdownItem link="https://forum.ethereumclassic.org/" target="_blank">Forum</DropdownItem>
             <DropdownItem target="_blank" link="http://etc.today/">ETC Today</DropdownItem>
             <DropdownItem target="_blank" link="//www.etcdevteam.com/">ETCDEV Team</DropdownItem>
             <DropdownItem target="_blank" link="//iohk.io/projects/ethereum-classic/#team">Grothendieck Team</DropdownItem>
