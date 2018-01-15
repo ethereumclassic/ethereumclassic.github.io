@@ -84,8 +84,8 @@ export default class Header extends Component {
           </Dropdown>          
           <br />
           <Dropdown label="Explorers">
-            <DropdownItem target="_blank" link="//gastracker.io">gastracker.io</DropdownItem>
-            <DropdownItem target="_blank" link="//etcchain.com/explorer">etcchain.com</DropdownItem>
+            <DropdownItem target="_blank" link="//gastracker.io">Gastracker.io</DropdownItem>
+            <DropdownItem target="_blank" link="//etherhub.io">Etherhub.io</DropdownItem>
             <DropdownItem target="_blank" link="//gastracker.io/stats/miners">Mining Status</DropdownItem>
             <DropdownItem target="_blank" link="http://etcstats.net">Network Monitor</DropdownItem>
           </Dropdown>
