@@ -36,10 +36,9 @@ times and mining difficulty parameters. It does not specify mining hash rates.
 However, the mining hash algorithm and mining difficulty parameter are defined
 such that:
 
-&lt;H&gt; = *k* &lt;D&gt; / &lt;ΔT&gt;
+&lt;H&gt; = &lt;D&gt; / &lt;ΔT&gt;
 
-where &lt;H&gt; is the average mining hash rate, *k* is a constant that depends
-on the units used, &lt;D&gt; is the average mining difficulty parameter, and,
+where &lt;H&gt; is the average mining hash rate, &lt;D&gt; is the average mining difficulty parameter, and,
 &lt;ΔT&gt; is the average creation time difference between consecutive
 blocks. The averages can be taken over any desired number of blocks.
 
