@@ -56,6 +56,7 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="//myetherwallet.com">MEW Web Wallet</DropdownItem>
             <DropdownItem target="_blank" link="//github.com/ethereumproject/emerald-wallet/releases">Emerald Wallet (BETA)</DropdownItem>                     
             <DropdownItem target="_blank" link="//play.google.com/store/apps/details?id=com.guarda.etc">Android Wallet</DropdownItem>
+            <DropdownItem target="_blank" link="//trustwalletapp.com">Trust Wallet</DropdownItem>
           </Dropdown>
           &nbsp;{' '}&nbsp;
           <Dropdown label="ETC Nodes">
