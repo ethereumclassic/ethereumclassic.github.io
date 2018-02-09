@@ -48,18 +48,18 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="//www.etcdevteam.com/blog/articles/a-joint-statement-ecip1017.html">Monetary Policy</DropdownItem>
           </Dropdown>
           &nbsp;{' '}&nbsp;
-          <Dropdown label="ETC Wallets">
-            <DropdownItem target="_blank" link="//jaxx.io/">Multi-platform Wallet</DropdownItem>
-            <DropdownItem target="_blank" link="//www.ledgerwallet.com/products/12-ledger-nano-s">Ledger Hardware Wallet</DropdownItem>
-            <DropdownItem target="_blank" link="//trezor.io">Trezor Hardware Wallet</DropdownItem>
+          <Dropdown label="Wallets">
             <DropdownItem target="_blank" link="//ethereumproject.github.io/etherwallet/">CEW Web Wallet</DropdownItem>
             <DropdownItem target="_blank" link="//myetherwallet.com">MEW Web Wallet</DropdownItem>
-            <DropdownItem target="_blank" link="//github.com/ethereumproject/emerald-wallet/releases">Emerald Wallet (BETA)</DropdownItem>                     
-            <DropdownItem target="_blank" link="//play.google.com/store/apps/details?id=com.guarda.etc">Android Wallet</DropdownItem>
-            <DropdownItem target="_blank" link="//trustwalletapp.com">Trust Wallet</DropdownItem>
+            <DropdownItem target="_blank" link="//www.ledgerwallet.com/products/12-ledger-nano-s">Ledger Hardware Wallet</DropdownItem>
+            <DropdownItem target="_blank" link="//trezor.io">Trezor Hardware Wallet</DropdownItem>
+            <DropdownItem target="_blank" link="//github.com/ethereumproject/emerald-wallet/releases">Emerald Wallet (Windows, Linux, Mac; Beta)</DropdownItem>                     
+            <DropdownItem target="_blank" link="//guarda.co/">Guarda Wallet (Android, iOS)</DropdownItem>
+            <DropdownItem target="_blank" link="//trustwalletapp.com">Trust Wallet (Android, iOS)</DropdownItem>
+            <DropdownItem target="_blank" link="//jaxx.io/">JAXX (Windows, Linux, Mac, Android, iOS)</DropdownItem>
           </Dropdown>
           &nbsp;{' '}&nbsp;
-          <Dropdown label="ETC Nodes">
+          <Dropdown label="Nodes">
             <DropdownItem target="_blank" link="//github.com/ethereumproject/go-ethereum/releases">Geth</DropdownItem>
             <DropdownItem target="_blank" link="//github.com/ethcore/parity/releases">Parity</DropdownItem>
             <DropdownItem target="_blank" link="http://etcstats.net">Network Status</DropdownItem>
