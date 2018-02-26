@@ -82,6 +82,7 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="http://uupool.cn/">UUpool</DropdownItem>
             <DropdownItem target="_blank" link="http://etcpool.pl/">ETCPool.pl</DropdownItem>
             <DropdownItem target="_blank" link="http://clona.ru/">Clona.ru</DropdownItem>
+            <DropdownItem target="_blank" link="https://pandapool.io">Pandapool.io</DropdownItem>
           </Dropdown>          
           <br />
           <Dropdown label="Explorers">
