@@ -21,6 +21,14 @@ module.exports = React.createClass({
     return (
       <html lang="en">
         <head>
+          <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114790896-1"></script>
+          <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-114790896-1');
+          </script>
           <meta charSet="utf-8" />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,700&subset=latin,latin-ext" rel="stylesheet" type="text/css" />
