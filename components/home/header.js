@@ -48,17 +48,18 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="//www.etcdevteam.com/blog/articles/a-joint-statement-ecip1017.html">Monetary Policy</DropdownItem>
           </Dropdown>
           &nbsp;{' '}&nbsp;
-          <Dropdown label="ETC Wallets">
-            <DropdownItem target="_blank" link="//jaxx.io/">Multi-platform Wallet</DropdownItem>
-            <DropdownItem target="_blank" link="//www.ledgerwallet.com/products/12-ledger-nano-s">Ledger Hardware Wallet</DropdownItem>
-            <DropdownItem target="_blank" link="//trezor.io">Trezor Hardware Wallet</DropdownItem>
+          <Dropdown label="Wallets">
             <DropdownItem target="_blank" link="//ethereumproject.github.io/etherwallet/">CEW Web Wallet</DropdownItem>
             <DropdownItem target="_blank" link="//myetherwallet.com">MEW Web Wallet</DropdownItem>
-            <DropdownItem target="_blank" link="//github.com/ethereumproject/emerald-wallet/releases">Emerald Wallet (BETA)</DropdownItem>                     
-            <DropdownItem target="_blank" link="//play.google.com/store/apps/details?id=com.guarda.etc">Android Wallet</DropdownItem>
+            <DropdownItem target="_blank" link="//www.ledgerwallet.com/products/12-ledger-nano-s">Ledger Hardware Wallet</DropdownItem>
+            <DropdownItem target="_blank" link="//trezor.io">Trezor Hardware Wallet</DropdownItem>
+            <DropdownItem target="_blank" link="//github.com/ethereumproject/emerald-wallet/releases">Emerald Wallet (Windows, Linux, Mac; Beta)</DropdownItem>                     
+            <DropdownItem target="_blank" link="//guarda.co/">Guarda Wallet (Android, iOS)</DropdownItem>
+            <DropdownItem target="_blank" link="//trustwalletapp.com">Trust Wallet (Android, iOS)</DropdownItem>
+            <DropdownItem target="_blank" link="//jaxx.io/">JAXX (Windows, Linux, Mac, Android, iOS)</DropdownItem>
           </Dropdown>
           &nbsp;{' '}&nbsp;
-          <Dropdown label="ETC Nodes">
+          <Dropdown label="Nodes">
             <DropdownItem target="_blank" link="//github.com/ethereumproject/go-ethereum/releases">Geth</DropdownItem>
             <DropdownItem target="_blank" link="//github.com/ethcore/parity/releases">Parity</DropdownItem>
             <DropdownItem target="_blank" link="http://etcstats.net">Network Status</DropdownItem>
@@ -81,6 +82,7 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="http://uupool.cn/">UUpool</DropdownItem>
             <DropdownItem target="_blank" link="http://etcpool.pl/">ETCPool.pl</DropdownItem>
             <DropdownItem target="_blank" link="http://clona.ru/">Clona.ru</DropdownItem>
+            <DropdownItem target="_blank" link="https://pandapool.io">Pandapool.io</DropdownItem>
           </Dropdown>          
           <br />
           <Dropdown label="Explorers">
@@ -95,6 +97,7 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="//bitfinex.com">Bitfinex: ETC/BTC, ETC/USD</DropdownItem>
             <DropdownItem target="_blank" link="//poloniex.com/exchange#btc_etc">Poloniex: ETC/BTC, ETC/ETH, ETC/USDT</DropdownItem>
             <DropdownItem target="_blank" link="//shapeshift.io">Shapeshift</DropdownItem>
+            <DropdownItem target="_blank" link="//changenow.io?utm_source=etc&utm_medium=ref&utm_campaign=etc_exchanges">ChangeNow</DropdownItem>
             <DropdownItem target="_blank" link="//changelly.com/exchange/BTC/ETC/1">Changelly</DropdownItem>
             <DropdownItem target="_blank" link="//trans.chbtc.com/etc">CHBTC: ETC/CNY</DropdownItem>
             <DropdownItem target="_blank" link="//yunbi.com/">Yunbi</DropdownItem>
@@ -106,7 +109,6 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="//www.bitmex.com/app/trade/ETC24H">BitMex futures contract ETC</DropdownItem>
             <DropdownItem target="_blank" link="//bitsquare.io">BitSquare</DropdownItem>
             <DropdownItem target="_blank" link="//www.kraken.com">Kraken: ETC/ETH, ETC/EUR, ETC/USD, ETC/XBT</DropdownItem>
-            <DropdownItem target="_blank" link="//changenow.io">ChangeNow</DropdownItem>
             <DropdownItem target="_blank" link="//godex.io">Godex</DropdownItem>
           </Dropdown>
           &nbsp;{' '}&nbsp;

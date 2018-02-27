@@ -21,6 +21,7 @@ module.exports = React.createClass({
     return (
       <html lang="en">
         <head>
+          <meta name="google-site-verification" content="pQs2MLkUPukitQ1BWDwlWbvSNU4g50VLiT0KnDYY5QU" />
           <meta charSet="utf-8" />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,700&subset=latin,latin-ext" rel="stylesheet" type="text/css" />
