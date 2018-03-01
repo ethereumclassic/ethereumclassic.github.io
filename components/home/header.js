@@ -39,48 +39,67 @@ export default class Header extends Component {
           <Dropdown label="Information">
             <DropdownItem target="_blank" link="//github.com/ethereumclassic/faq">ETC FAQ</DropdownItem>
             <DropdownItem target="_blank" link="//ethereum-classic-guide.readthedocs.io/en/latest/">ETC Guide</DropdownItem>
+            <DropdownItem link="https://forum.ethereumclassic.org/" target="_blank">Forum</DropdownItem>
             <DropdownItem target="_blank" link="http://etc.today/">ETC Today</DropdownItem>
-            <DropdownItem target="_blank" link="http://us14.campaign-archive1.com/home/?u=1e7b1574ce5b6f380df5f8510&id=16de44cd42">Weekly Newsletter</DropdownItem>
-            <DropdownItem target="_blank" link="//steemit.com/@cseberino">Education Initiative</DropdownItem>
-            <DropdownItem target="_blank" link="https://grayscale.co/ethereum-classic-investment-thesis-march-2017/">Investment Thesis</DropdownItem>
-            <DropdownItem target="_blank" link="//www.etcdevteam.com/blog/articles/a-joint-statement-ecip1017.html">Monetary Policy</DropdownItem>
             <DropdownItem target="_blank" link="//www.etcdevteam.com/">ETCDEV Team</DropdownItem>
             <DropdownItem target="_blank" link="//iohk.io/projects/ethereum-classic/#team">Grothendieck Team</DropdownItem>
+            <DropdownItem target="_blank" link="//dexaran.github.io/ICO/">Ethereum Commonwealth</DropdownItem>
+            <DropdownItem target="_blank" link="https://grayscale.co/ethereum-classic-investment-thesis-march-2017/">Investment Thesis</DropdownItem>
+            <DropdownItem target="_blank" link="//www.etcdevteam.com/blog/articles/a-joint-statement-ecip1017.html">Monetary Policy</DropdownItem>
           </Dropdown>
           &nbsp;{' '}&nbsp;
-          <Dropdown label="ETC Wallets">
-            <DropdownItem target="_blank" link="//jaxx.io/">Multi-platform Wallet</DropdownItem>
-            <DropdownItem target="_blank" link="//chrome.google.com/webstore/detail/classicetherwallet-cx/opggclcfcbfbchcienjdaohghcamjfhf">Chrome Extension</DropdownItem>
-            <DropdownItem target="_blank" link="//www.ledgerwallet.com/products/12-ledger-nano-s">Hardware Wallet</DropdownItem>
-            <DropdownItem target="_blank" link="//classicetherwallet.com/">Web Wallet</DropdownItem>
-            <DropdownItem target="_blank" link="//github.com/ethereumproject/mist/releases">Mist Browser</DropdownItem>
-            <DropdownItem target="_blank" link="//play.google.com/store/apps/details?id=com.guarda.etc">Android Wallet</DropdownItem>
+          <Dropdown label="Wallets">
+            <DropdownItem target="_blank" link="//ethereumproject.github.io/etherwallet/">CEW Web Wallet</DropdownItem>
+            <DropdownItem target="_blank" link="//myetherwallet.com">MEW Web Wallet</DropdownItem>
+            <DropdownItem target="_blank" link="//www.ledgerwallet.com/products/12-ledger-nano-s">Ledger Hardware Wallet</DropdownItem>
+            <DropdownItem target="_blank" link="//trezor.io">Trezor Hardware Wallet</DropdownItem>
+            <DropdownItem target="_blank" link="//github.com/ethereumproject/emerald-wallet/releases">Emerald Wallet (Windows, Linux, Mac; Beta)</DropdownItem>                     
+            <DropdownItem target="_blank" link="//guarda.co/">Guarda Wallet (Android, iOS)</DropdownItem>
+            <DropdownItem target="_blank" link="//trustwalletapp.com">Trust Wallet (Android, iOS)</DropdownItem>
+            <DropdownItem target="_blank" link="//jaxx.io/">JAXX (Windows, Linux, Mac, Android, iOS)</DropdownItem>
           </Dropdown>
           &nbsp;{' '}&nbsp;
-          <Dropdown label="ETC Nodes">
+          <Dropdown label="Nodes">
             <DropdownItem target="_blank" link="//github.com/ethereumproject/go-ethereum/releases">Geth</DropdownItem>
             <DropdownItem target="_blank" link="//github.com/ethcore/parity/releases">Parity</DropdownItem>
             <DropdownItem target="_blank" link="http://etcstats.net">Network Status</DropdownItem>
-            <DropdownItem target="_blank" link="//github.com/Machete3000/etc-net-intelligence-api/wiki/Network-Status-Client-Setup">Add Node to Netstat</DropdownItem>
-            <DropdownItem target="_blank" link="//mega.nz/#!UVM2FDAR!c0cF6qKy4IAsu7VRXiAAgHGzSMOSVufB7WHNojsM7yw">Bootstrap Chaindata</DropdownItem>
           </Dropdown>
+          &nbsp;{' '}&nbsp;
+          <Dropdown label="Mining Pools">
+            <DropdownItem target="_blank" link="https://epool.io">Epool</DropdownItem>
+            <DropdownItem target="_blank" link="http://etc.minertopia.org/">Minertopia.org</DropdownItem>
+            <DropdownItem target="_blank" link="https://minergate.com">Minergate</DropdownItem>
+            <DropdownItem target="_blank" link="https://etc.2miners.com">2miners</DropdownItem>
+            <DropdownItem target="_blank" link="http://91pool.com">91 Pool</DropdownItem>
+            <DropdownItem target="_blank" link="https://www.f2pool.com/help">f2pool</DropdownItem>
+            <DropdownItem target="_blank" link="https://ethc.coin-miners.info">Coin-Miners</DropdownItem>
+            <DropdownItem target="_blank" link="https://etc.bw.com">BW.com</DropdownItem>
+            <DropdownItem target="_blank" link="http://ethteam.com">ETHteam.com</DropdownItem>
+            <DropdownItem target="_blank" link="http://nanopool.org">Nanopool</DropdownItem>
+            <DropdownItem target="_blank" link="http://etc-poolcrypto.org/">ETC-Poolcrypto</DropdownItem>
+            <DropdownItem target="_blank" link="https://poolmining.org/pool/etc">Poolmining.org</DropdownItem>
+            <DropdownItem target="_blank" link="https://etc.ethermine.org/">Ethermine</DropdownItem>
+            <DropdownItem target="_blank" link="http://uupool.cn/">UUpool</DropdownItem>
+            <DropdownItem target="_blank" link="http://etcpool.pl/">ETCPool.pl</DropdownItem>
+            <DropdownItem target="_blank" link="http://clona.ru/">Clona.ru</DropdownItem>
+            <DropdownItem target="_blank" link="https://pandapool.io">Pandapool.io</DropdownItem>
+          </Dropdown>          
           <br />
           <Dropdown label="Explorers">
-            <DropdownItem target="_blank" link="//gastracker.io">gastracker.io</DropdownItem>
-            <DropdownItem target="_blank" link="//etherhub.io">etherhub.io</DropdownItem>
-            <DropdownItem target="_blank" link="//etcchain.com/explorer">etcchain.com</DropdownItem>
+            <DropdownItem target="_blank" link="//gastracker.io">Gastracker.io</DropdownItem>
+            <DropdownItem target="_blank" link="http://etherhub.io">Etherhub.io</DropdownItem>
             <DropdownItem target="_blank" link="//gastracker.io/stats/miners">Mining Status</DropdownItem>
             <DropdownItem target="_blank" link="http://etcstats.net">Network Monitor</DropdownItem>
           </Dropdown>
           &nbsp;{' '}&nbsp;
           <Dropdown label="Exchanges">
+            <DropdownItem target="_blank" link="//bittrex.com/Market/Index?MarketName=BTC-ETC">Bittrex: ETC/BTC, ETC/ETH</DropdownItem>
             <DropdownItem target="_blank" link="//bitfinex.com">Bitfinex: ETC/BTC, ETC/USD</DropdownItem>
-            <DropdownItem target="_blank" link="//www.kraken.com">Kraken: ETC/ETH, ETC/EUR, ETC/USD, ETC/XBT</DropdownItem>
             <DropdownItem target="_blank" link="//poloniex.com/exchange#btc_etc">Poloniex: ETC/BTC, ETC/ETH, ETC/USDT</DropdownItem>
-            <DropdownItem target="_blank" link="//trans.chbtc.com/etc">CHBTC: ETC/CNY</DropdownItem>
             <DropdownItem target="_blank" link="//shapeshift.io">Shapeshift</DropdownItem>
+            <DropdownItem target="_blank" link="//changenow.io?utm_source=etc&utm_medium=ref&utm_campaign=etc_exchanges">ChangeNow</DropdownItem>
             <DropdownItem target="_blank" link="//changelly.com/exchange/BTC/ETC/1">Changelly</DropdownItem>
-            <DropdownItem target="_blank" link="//bittrex.com/Market/Index?MarketName=BTC-ETC">Bittrex</DropdownItem>
+            <DropdownItem target="_blank" link="//trans.chbtc.com/etc">CHBTC: ETC/CNY</DropdownItem>
             <DropdownItem target="_blank" link="//yunbi.com/">Yunbi</DropdownItem>
             <DropdownItem target="_blank" link="//korbit.co.kr/etc_market">Korbit</DropdownItem>
             <DropdownItem target="_blank" link="//bter.com/trade/etc_btc">BTER</DropdownItem>
@@ -89,12 +108,12 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="//c-cex.com/?p=etc-btc">C-CEX</DropdownItem>
             <DropdownItem target="_blank" link="//www.bitmex.com/app/trade/ETC24H">BitMex futures contract ETC</DropdownItem>
             <DropdownItem target="_blank" link="//bitsquare.io">BitSquare</DropdownItem>
+            <DropdownItem target="_blank" link="//www.kraken.com">Kraken: ETC/ETH, ETC/EUR, ETC/USD, ETC/XBT</DropdownItem>
           </Dropdown>
           &nbsp;{' '}&nbsp;
           <SocialLinks />
           <PriceTicker />
           <br/>
-          Donate: <code>0xe9a7e26bf5c05fe3bae272d4c940bd7158611ce9</code>
         </Container>
       </Container>
     )
