@@ -67,23 +67,23 @@ export default class Header extends Component {
           &nbsp;{' '}&nbsp;
           <Dropdown label="Mining Pools">
             <DropdownItem target="_blank" link="https://epool.io">Epool</DropdownItem>
-            <DropdownItem target="_blank" link="http://etc.minertopia.org/">Minertopia.org</DropdownItem>
-            <DropdownItem target="_blank" link="https://minergate.com">Minergate</DropdownItem>
             <DropdownItem target="_blank" link="https://etc.2miners.com">2miners</DropdownItem>
             <DropdownItem target="_blank" link="http://91pool.com">91 Pool</DropdownItem>
-            <DropdownItem target="_blank" link="https://www.f2pool.com/help">f2pool</DropdownItem>
-            <DropdownItem target="_blank" link="https://ethc.coin-miners.info">Coin-Miners</DropdownItem>
             <DropdownItem target="_blank" link="https://etc.bw.com">BW.com</DropdownItem>
-            <DropdownItem target="_blank" link="http://ethteam.com">ETHteam.com</DropdownItem>
-            <DropdownItem target="_blank" link="http://nanopool.org">Nanopool</DropdownItem>
-            <DropdownItem target="_blank" link="http://etc-poolcrypto.org/">ETC-Poolcrypto</DropdownItem>
-            <DropdownItem target="_blank" link="https://poolmining.org/pool/etc">Poolmining.org</DropdownItem>
-            <DropdownItem target="_blank" link="https://etc.ethermine.org/">Ethermine</DropdownItem>
-            <DropdownItem target="_blank" link="http://uupool.cn/">UUpool</DropdownItem>
-            <DropdownItem target="_blank" link="http://etcpool.pl/">ETCPool.pl</DropdownItem>
             <DropdownItem target="_blank" link="http://clona.ru/">Clona.ru</DropdownItem>
-            <DropdownItem target="_blank" link="https://pandapool.io">Pandapool.io</DropdownItem>
+            <DropdownItem target="_blank" link="https://coinfoundry.org">Coinfoundry.org</DropdownItem>
+            <DropdownItem target="_blank" link="https://ethc.coin-miners.info">Coin-Miners</DropdownItem>
+            <DropdownItem target="_blank" link="http://etcpool.pl/">ETCPool.pl</DropdownItem>
+            <DropdownItem target="_blank" link="https://etc.ethermine.org/">Ethermine</DropdownItem>
+            <DropdownItem target="_blank" link="http://ethteam.com">ETHteam.com</DropdownItem>
+            <DropdownItem target="_blank" link="http://etc-poolcrypto.org/">ETC-Poolcrypto</DropdownItem>
+            <DropdownItem target="_blank" link="https://www.f2pool.com/help">f2pool</DropdownItem>
             <DropdownItem target="_blank" link="https://etc.fairpool.xyz/">Fairpool.io</DropdownItem>
+            <DropdownItem target="_blank" link="http://etc.minertopia.org/">Minertopia.org</DropdownItem>
+            <DropdownItem target="_blank" link="https://minergate.com">Minergate</DropdownItem>
+            <DropdownItem target="_blank" link="http://nanopool.org">Nanopool</DropdownItem>
+            <DropdownItem target="_blank" link="https://pandapool.io">Pandapool.io</DropdownItem>
+            <DropdownItem target="_blank" link="http://uupool.cn/">UUpool</DropdownItem>
           </Dropdown>          
           <br />
           <Dropdown label="Explorers">
