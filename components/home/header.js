@@ -96,20 +96,21 @@ export default class Header extends Component {
           <Dropdown label="Exchanges">
             <DropdownItem target="_blank" link="//bittrex.com/Market/Index?MarketName=BTC-ETC">Bittrex: ETC/BTC, ETC/ETH</DropdownItem>
             <DropdownItem target="_blank" link="//bitfinex.com">Bitfinex: ETC/BTC, ETC/USD</DropdownItem>
-            <DropdownItem target="_blank" link="//poloniex.com/exchange#btc_etc">Poloniex: ETC/BTC, ETC/ETH, ETC/USDT</DropdownItem>
-            <DropdownItem target="_blank" link="//shapeshift.io">Shapeshift</DropdownItem>
-            <DropdownItem target="_blank" link="//changenow.io?utm_source=etc&utm_medium=ref&utm_campaign=etc_exchanges">ChangeNow</DropdownItem>
-            <DropdownItem target="_blank" link="//changelly.com/exchange/BTC/ETC/1">Changelly</DropdownItem>
-            <DropdownItem target="_blank" link="//trans.chbtc.com/etc">CHBTC: ETC/CNY</DropdownItem>
-            <DropdownItem target="_blank" link="//yunbi.com/">Yunbi</DropdownItem>
-            <DropdownItem target="_blank" link="//korbit.co.kr/etc_market">Korbit</DropdownItem>
-            <DropdownItem target="_blank" link="//bter.com/trade/etc_btc">BTER</DropdownItem>
-            <DropdownItem target="_blank" link="//yobit.net/en/trade/ETC/BTC">Yobit</DropdownItem>
-            <DropdownItem target="_blank" link="//coinexchange.io/market/ETC/BTC">Coinexchange</DropdownItem>
-            <DropdownItem target="_blank" link="//c-cex.com/?p=etc-btc">C-CEX</DropdownItem>
             <DropdownItem target="_blank" link="//www.bitmex.com/app/trade/ETC24H">BitMex futures contract ETC</DropdownItem>
             <DropdownItem target="_blank" link="//bitsquare.io">BitSquare</DropdownItem>
+            <DropdownItem target="_blank" link="//bter.com/trade/etc_btc">BTER</DropdownItem>
+            <DropdownItem target="_blank" link="//changelly.com/exchange/BTC/ETC/1">Changelly</DropdownItem>
+            <DropdownItem target="_blank" link="//changenow.io?utm_source=etc&utm_medium=ref&utm_campaign=etc_exchanges">ChangeNow</DropdownItem>
+            <DropdownItem target="_blank" link="//trans.chbtc.com/etc">CHBTC: ETC/CNY</DropdownItem>
+            <DropdownItem target="_blank" link="//coinexchange.io/market/ETC/BTC">Coinexchange</DropdownItem>
+            <DropdownItem target="_blank" link="//coinswitch.co">CoinSwitch</DropdownItem>            
+            <DropdownItem target="_blank" link="//c-cex.com/?p=etc-btc">C-CEX</DropdownItem>
+            <DropdownItem target="_blank" link="//korbit.co.kr/etc_market">Korbit</DropdownItem>
             <DropdownItem target="_blank" link="//www.kraken.com">Kraken: ETC/ETH, ETC/EUR, ETC/USD, ETC/XBT</DropdownItem>
+            <DropdownItem target="_blank" link="//poloniex.com/exchange#btc_etc">Poloniex: ETC/BTC, ETC/ETH, ETC/USDT</DropdownItem>
+            <DropdownItem target="_blank" link="//shapeshift.io">Shapeshift</DropdownItem>
+            <DropdownItem target="_blank" link="//yobit.net/en/trade/ETC/BTC">Yobit</DropdownItem>
+            <DropdownItem target="_blank" link="//yunbi.com/">Yunbi</DropdownItem>
           </Dropdown>
           &nbsp;{' '}&nbsp;
           <SocialLinks />
