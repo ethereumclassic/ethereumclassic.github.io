@@ -107,6 +107,7 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="//c-cex.com/?p=etc-btc">C-CEX</DropdownItem>
             <DropdownItem target="_blank" link="//korbit.co.kr/etc_market">Korbit</DropdownItem>
             <DropdownItem target="_blank" link="//www.kraken.com">Kraken: ETC/ETH, ETC/EUR, ETC/USD, ETC/XBT</DropdownItem>
+            <DropdownItem target="_blank" link="//godex.io">Godex</DropdownItem>
             <DropdownItem target="_blank" link="//poloniex.com/exchange#btc_etc">Poloniex: ETC/BTC, ETC/ETH, ETC/USDT</DropdownItem>
             <DropdownItem target="_blank" link="//shapeshift.io">Shapeshift</DropdownItem>
             <DropdownItem target="_blank" link="//yobit.net/en/trade/ETC/BTC">Yobit</DropdownItem>
