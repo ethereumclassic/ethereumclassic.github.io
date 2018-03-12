@@ -21,7 +21,7 @@ With ETC sidechains coming out later this year I think we’ll see ETC keep up
 with the increased usage Circle Pay will bring.
 
 ![](https://cdn-images-1.medium.com/max/1200/1*iuiGN6WCRJnuzKN4KTufxg.png)
-<span class="figcaption_hack">Seems Circle chose ETC over XRP.</span>
+Seems Circle chose ETC over XRP.
 
 #### Website Redesign
 
@@ -40,11 +40,7 @@ for further announcements.
 
 #### Community Fund
 
-<span class="figcaption_hack">The inaugural transaction. Thanks [Cody
-Burns](https://medium.com/@DontPanicBurns)!</span>
-
-The contract is live and [located
-here](http://0x48dbda9443746a99ef1b26ab01dd94ac50d7014b/), just awaiting two of
+The contract is live and [located here](http://0x48dbda9443746a99ef1b26ab01dd94ac50d7014b/), just awaiting two of
 the signers to approve their test transactions.
 
 We’ll be using it to fund various bounties and other proposals which will be
