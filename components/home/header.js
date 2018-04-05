@@ -73,6 +73,7 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="http://clona.ru/">Clona.ru</DropdownItem>
             <DropdownItem target="_blank" link="https://coinfoundry.org">Coinfoundry.org</DropdownItem>
             <DropdownItem target="_blank" link="https://ethc.coin-miners.info">Coin-Miners</DropdownItem>
+            <DropdownItem target="_blank" link="https://comining.io">Comining</DropdownItem>
             <DropdownItem target="_blank" link="http://etcpool.pl/">ETCPool.pl</DropdownItem>
             <DropdownItem target="_blank" link="https://etc.ethermine.org/">Ethermine</DropdownItem>
             <DropdownItem target="_blank" link="http://ethteam.com">ETHteam.com</DropdownItem>
