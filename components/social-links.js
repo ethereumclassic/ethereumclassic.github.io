@@ -28,6 +28,7 @@ export default class SocialLinks extends Component {
         <DropdownItem link="http://telegram.me/etcrussia" target="_blank"><Telegram className="icon" /> ETC Russia (Russian)</DropdownItem>
         <DropdownItem link="http://telegram.me/etcru" target="_blank"><Telegram className="icon" /> ETC RU (Russian)</DropdownItem>
         <DropdownItem link="http://t.me/ETC_Italia" target="_blank"><Telegram className="icon" /> ETC Italia (Italian)</DropdownItem>
+        <DropdownItem link="http://t.me/etczh" target="_blank"><Telegram className="icon" /> ETC China (Chinese)</DropdownItem>
         <DropdownItem link="http://webchat.freenode.net?channels=ethereumclassic&uio=d4" target="_blank"><Irc className="icon" /> IRC</DropdownItem>
         <DropdownItem link="https://www.linkedin.com/company/ethereum-classic" target="_blank"><Linkedin className="icon" /> LinkedIn</DropdownItem>
       </Dropdown>
