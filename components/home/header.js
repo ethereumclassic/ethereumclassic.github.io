@@ -78,6 +78,7 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="https://etc.ethermine.org/">Ethermine</DropdownItem>
             <DropdownItem target="_blank" link="http://ethteam.com">ETHteam.com</DropdownItem>
             <DropdownItem target="_blank" link="http://etc-poolcrypto.org/">ETC-Poolcrypto</DropdownItem>
+            <DropdownItem target="_blank" link="https://etc.europool.me">Europool</DropdownItem>
             <DropdownItem target="_blank" link="https://www.f2pool.com/help">f2pool</DropdownItem>
             <DropdownItem target="_blank" link="https://etc.fairpool.xyz/">Fairpool.io</DropdownItem>
             <DropdownItem target="_blank" link="http://etc.minertopia.org/">Minertopia.org</DropdownItem>
