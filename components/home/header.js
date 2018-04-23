@@ -85,7 +85,7 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="https://minergate.com">Minergate</DropdownItem>
             <DropdownItem target="_blank" link="http://nanopool.org">Nanopool</DropdownItem>
             <DropdownItem target="_blank" link="https://pandapool.io">Pandapool.io</DropdownItem>
-            <DropdownItem target="_blank" link="https://ucrypto.net/currency/?curr=ETC">UCrypto</DropdownItem>
+            <DropdownItem target="_blank" link="https://ucrypto.net/currency/?curr=ETC">uCrypto.net</DropdownItem>
             <DropdownItem target="_blank" link="http://uupool.cn/">UUpool</DropdownItem>
           </Dropdown>          
           <br />
