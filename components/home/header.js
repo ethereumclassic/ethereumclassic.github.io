@@ -104,7 +104,7 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="//bitsquare.io">BitSquare</DropdownItem>
             <DropdownItem target="_blank" link="//bter.com/trade/etc_btc">BTER</DropdownItem>
             <DropdownItem target="_blank" link="//changelly.com/exchange/BTC/ETC/1">Changelly</DropdownItem>
-            <DropdownItem target="_blank" link="//changenow.io?utm_source=etc&utm_medium=ref&utm_campaign=etc_exchanges">ChangeNow</DropdownItem>
+            c
             <DropdownItem target="_blank" link="//trans.chbtc.com/etc">CHBTC: ETC/CNY</DropdownItem>
             <DropdownItem target="_blank" link="//coinexchange.io/market/ETC/BTC">Coinexchange</DropdownItem>
             <DropdownItem target="_blank" link="//coinswitch.co">CoinSwitch</DropdownItem>            
@@ -116,6 +116,7 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="//shapeshift.io">Shapeshift</DropdownItem>
             <DropdownItem target="_blank" link="//yobit.net/en/trade/ETC/BTC">Yobit</DropdownItem>
             <DropdownItem target="_blank" link="//yunbi.com/">Yunbi</DropdownItem>
+            <DropdownItem target="_blank" link="//simpleswap.io?utm_source=etc&utm_medium=link&utm_term=etc&utm_campaign=link_etc_website">SimpleSwap</DropdownItem>
           </Dropdown>
           &nbsp;{' '}&nbsp;
           <SocialLinks />
