@@ -104,7 +104,7 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="//bitsquare.io">BitSquare</DropdownItem>
             <DropdownItem target="_blank" link="//bter.com/trade/etc_btc">BTER</DropdownItem>
             <DropdownItem target="_blank" link="//changelly.com/exchange/BTC/ETC/1">Changelly</DropdownItem>
-            c
+            <DropdownItem target="_blank" link="//changenow.io?utm_source=etc&utm_medium=ref&utm_campaign=etc_exchanges">ChangeNow</DropdownItem>
             <DropdownItem target="_blank" link="//trans.chbtc.com/etc">CHBTC: ETC/CNY</DropdownItem>
             <DropdownItem target="_blank" link="//coinexchange.io/market/ETC/BTC">Coinexchange</DropdownItem>
             <DropdownItem target="_blank" link="//coinswitch.co">CoinSwitch</DropdownItem>            
