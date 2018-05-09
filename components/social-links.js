@@ -27,6 +27,7 @@ export default class SocialLinks extends Component {
         <DropdownItem link="http://t.me/etcchat" target="_blank"><Telegram className="icon" /> ETC Chat (English)</DropdownItem>
         <DropdownItem link="http://t.me/etczh" target="_blank"><Telegram className="icon" /> ETC China (Chinese)</DropdownItem>
         <DropdownItem link="http://t.me/ETC_Italia" target="_blank"><Telegram className="icon" /> ETC Italia (Italian)</DropdownItem>
+        <DropdownItem link="https://t.me/joinchat/GqAqlRC9hD5bVy65DuHcfg" target="_blank"><Telegram className="icon" />ETC Japan (Japanese)</DropdownItem>
         <DropdownItem link="http://telegram.me/etcrussia" target="_blank"><Telegram className="icon" /> ETC Russia (Russian)</DropdownItem>
         <DropdownItem link="http://telegram.me/etcru" target="_blank"><Telegram className="icon" /> ETC RU (Russian)</DropdownItem>
         <DropdownItem link="https://open.kakao.com/o/gUNOv0K" target="_blank"><Slack className="icon" /> KakaoTalk (South Korea)</DropdownItem>
