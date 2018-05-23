@@ -34,6 +34,12 @@ module.exports = React.createClass({
           {css}
         </head>
         <body>
+        <div id="banner">
+          <div id="banner-content">
+          This website is being preserved for historical accuracy.<br/>
+          For the latest information on Ethereum Classic please visit the redesigned website at <a href="https://ethereumclassic.org">EthereumClassic.org</a>
+          </div>
+        </div>
           <div id="react-mount" dangerouslySetInnerHTML={{ __html: this.props.body }} />
           <script src={prefixLink(`/bundle.js?t=${BUILD_TIME}`)} />
         </body>

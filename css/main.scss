@@ -27,6 +27,28 @@ $darkerBlue: darken($blue, 30);
 
 $defaultPadding: 3em;
 
+* {
+  margin: 0; 
+  padding: 0;
+}
+
+div#banner { 
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  background-color: #DD8888; 
+  width: 100%; 
+height: 100px;
+}
+div#banner-content { 
+  width: 800px; 
+  margin: 0 auto; 
+  padding: 30px;
+}
+.content { 
+  padding-top: 100px;
+}
+
 body {
   font-family: "Roboto", "Helvetica Neue", Helvetica, sans-serif;
   background: $white;
