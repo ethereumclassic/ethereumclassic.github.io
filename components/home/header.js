@@ -61,7 +61,8 @@ export default class Header extends Component {
           &nbsp;{' '}&nbsp;
           <Dropdown label="Nodes">
             <DropdownItem target="_blank" link="//github.com/ethereumproject/go-ethereum/releases">Geth</DropdownItem>
-            <DropdownItem target="_blank" link="//github.com/ethcore/parity/releases">Parity</DropdownItem>
+            <DropdownItem target="_blank" link="//github.com/paritytech/parity/releases">Parity</DropdownItem>
+            <DropdownItem target="_blank" link="//github.com/ethoxy/multi-geth/releases">Multi-Geth</DropdownItem>
             <DropdownItem target="_blank" link="http://etcstats.net">Network Status</DropdownItem>
           </Dropdown>
           &nbsp;{' '}&nbsp;
