@@ -54,6 +54,7 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="//www.ledgerwallet.com/products/12-ledger-nano-s">Ledger Hardware Wallet</DropdownItem>
             <DropdownItem target="_blank" link="//trezor.io">Trezor Hardware Wallet</DropdownItem>
             <DropdownItem target="_blank" link="//github.com/ethereumproject/emerald-wallet/releases">Emerald Wallet (Windows, Linux, Mac; Beta)</DropdownItem>                     
+            <DropdownItem target="_blank" link="//app.magnumwallet.co/">Magnum Wallet (Web)</DropdownItem>
             <DropdownItem target="_blank" link="//guarda.co/wallet/etc">Guarda Wallet (Android, iOS, Web)</DropdownItem>
             <DropdownItem target="_blank" link="//trustwalletapp.com">Trust Wallet (Android, iOS)</DropdownItem>
             <DropdownItem target="_blank" link="//jaxx.io/">JAXX (Windows, Linux, Mac, Android, iOS)</DropdownItem>
