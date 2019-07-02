@@ -111,6 +111,7 @@ export default class Header extends Component {
             <DropdownItem target="_blank" link="//coinexchange.io/market/ETC/BTC">Coinexchange</DropdownItem>
             <DropdownItem target="_blank" link="//coinswitch.co">CoinSwitch</DropdownItem>            
             <DropdownItem target="_blank" link="//c-cex.com/?p=etc-btc">C-CEX</DropdownItem>
+            <DropdownItem target="_blank" link="//exchangerates.pro/?to_currency=ETC">ExchangeRates.Pro price comparison</DropdownItem>
             <DropdownItem target="_blank" link="//korbit.co.kr/etc_market">Korbit</DropdownItem>
             <DropdownItem target="_blank" link="//www.kraken.com">Kraken: ETC/ETH, ETC/EUR, ETC/USD, ETC/XBT</DropdownItem>
             <DropdownItem target="_blank" link="//godex.io">Godex</DropdownItem>
