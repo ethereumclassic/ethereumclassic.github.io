@@ -37,7 +37,6 @@ export default class WhyClassic extends Component {
             Declaration of Independence
           </a>
           <br />
-          <br />
           <a
             className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
             href={'https://www.etcdevteam.com/blog/articles/a-joint-statement-ecip1017.html'}
