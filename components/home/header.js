@@ -12,29 +12,21 @@ import SocialLinks from '../social-links'
 import PriceTicker from '../price-ticker'
 import BannerAd from './banner-ad'
 
-import bannerImg from '../../assets/etc-london-meetup-dec-2016.png'
-
 export default class Header extends Component {
-  componentDidMount () {
-    setTimeout(() => {
-      window.particlesJS('particles', particlesConfig)
-    }, 0)
-  }
   render () {
     return (
       <Container fluid className="mui--text-center main-header">
-        <div id="particles" />
         <Container className="inner">
           <img src={etcLogo} alt="Ethereum Classic" className="logo" />
           <h1>
-            ethereum
+            ETHEREUM
             <br />
-            classic
+            CLASSIC
           </h1>
           <h2>
-            <span>decentralized</span>
-            {' '}<span>immutable</span>
-            {' '}<span>unstoppable</span>
+            <span>DECENTRALIZED</span>
+            {' '}<span>IMMUTABLE</span>
+            {' '}<span>UNSTOPPABLE</span>
           </h2>
           <Dropdown label="Information">
             <DropdownItem target="_blank" link="//github.com/ethereumclassic/faq">ETC FAQ</DropdownItem>

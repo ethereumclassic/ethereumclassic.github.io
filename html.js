@@ -40,10 +40,10 @@ module.exports = React.createClass({
             April 2018.  It was replaced by
             a <a href="https://ethereumclassic.org">new WordPress site</a> built
             by <a href="https://etccoperative.org">ETC Cooperative</a>, which
-            looks great, but which has already content-rotted.  Only
-            WP admins could update it.<br/>
-            We will bring this website's
-            content back up to date and THEN make it just as fancy.
+            looks great, but the content is already outdated.
+            Only the admins could update it.<br/>
+            We will bring this website's content back up to date and
+            then improve the design.
           </div>
         </div>
           <div id="react-mount" dangerouslySetInnerHTML={{ __html: this.props.body }} />
