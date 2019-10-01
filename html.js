@@ -36,8 +36,13 @@ module.exports = React.createClass({
         <body>
         <div id="banner">
           <div id="banner-content">
-          This website is being preserved for historical accuracy.<br/>
-          For the latest information on Ethereum Classic please visit the redesigned website at <a href="https://ethereumclassic.org">EthereumClassic.org</a>
+            This website served the ETC community from July 2016 until
+            April 2018, when it was replaced by
+            a <a href="https://ethereumclassic.org">new WordPress site</a> built
+            by <a href="https://etccoperative.org">ETC Cooperative</a>, which
+            looks great, but which has already content-rotted because only
+            WP admins could update it.  We will bring this website's
+            content back up to date and THEN make it just as fancy.
           </div>
         </div>
           <div id="react-mount" dangerouslySetInnerHTML={{ __html: this.props.body }} />
