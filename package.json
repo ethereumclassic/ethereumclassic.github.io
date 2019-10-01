@@ -1,6 +1,6 @@
 {
   "name": "etc-web",
-  "description": "Etheruem Classic Site",
+  "description": "Ethereum Classic",
   "version": "1.0.0",
   "author": "Dax Classix",
   "dependencies": {
@@ -19,7 +19,7 @@
   },
   "optionalDependencies": {
     "fsevents": "*"
-  },   
+  },
   "devDependencies": {
     "babel-plugin-add-module-exports": "^0.2.1",
     "babel-plugin-react-transform": "^2.0.2",
@@ -37,9 +37,12 @@
     "eslint-plugin-jsx-a11y": "^2.0.1",
     "eslint-plugin-react": "^6.0.0",
     "image-webpack-loader": "^2.0.0",
+    "jpegtran-bin": "^4.0.0",
     "muicss": "^0.6.9",
     "null-loader": "^0.1.1",
+    "optipng-bin": "^6.0.0",
     "postcss-loader": "^0.9.1",
+    "pngquant-bin": "^5.0.2",
     "react-transform-catch-errors": "^1.0.2",
     "react-transform-hmr": "^1.0.4",
     "redbox-react": "^1.2.10",

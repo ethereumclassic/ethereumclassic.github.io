@@ -39,23 +39,7 @@ export default class WhyClassic extends Component {
           <br />
           <a
             className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
-            href={prefixLink('https://www.etcdevteam.com/roadmap.html')}
-            target="_blank"
-          >
-            ETCDEV Team Roadmap
-          </a>
-          <br />
-          <a
-            className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
-            href={prefixLink('https://github.com/EthereumCommonwealth/Roadmap/issues')}
-            target="_blank"
-          >
-            Ethereum Commonwealth Roadmap
-          </a>
-          <br />
-          <a
-            className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
-            href={'https://www.etcdevteam.com/blog/articles/a-joint-statement-ecip1017.html'}
+            href={'https://medium.com/@etcdev/a-joint-statement-on-ethereum-classics-monetary-policy-920c3af82eef'}
             target="_blank"
           >
             Monetary Policy
@@ -67,13 +51,6 @@ export default class WhyClassic extends Component {
             target="_blank"
           >
             ETC Today
-          </a>
-          <a
-            className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
-            href={'http://us14.campaign-archive1.com/home/?u=1e7b1574ce5b6f380df5f8510&id=16de44cd42'}
-            target="_blank"
-          >
-            Weekly Update
           </a>
           <br />
           <a

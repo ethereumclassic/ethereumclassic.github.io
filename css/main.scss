@@ -36,7 +36,7 @@ div#banner {
   position: absolute; 
   top: 0; 
   left: 0; 
-  background-color: #DD8888; 
+  background-color: #88DD88; 
   width: 100%; 
 height: 100px;
 }
@@ -44,6 +44,7 @@ div#banner-content {
   width: 800px; 
   margin: 0 auto; 
   padding: 30px;
+  text-align: center
 }
 .content { 
   padding-top: 100px;
@@ -51,7 +52,7 @@ div#banner-content {
 
 body {
   font-family: "Roboto", "Helvetica Neue", Helvetica, sans-serif;
-  background: $white;
+  background-color: $white;
 }
 
 h1, h2, h3 {
@@ -141,8 +142,34 @@ a{
 
 .main-header {
   position: relative;
-  background: linear-gradient(0deg, $darkWhite, $white);
+  background-image: url("https://ethereumclassic.org/wp-content/uploads/2018/04/banner-bg.png");
   color: #666;
+  .inner {
+    position: relative;
+  }
+  .logo {
+    height: 30vh;
+  }
+  h1 {
+    color: $green;
+    padding: 0.5em 0em;
+    font-size: 4em;
+    line-height: 1em;
+  }
+  h1, h2 {
+    letter-spacing: 0.1em;
+  }
+  h2 {
+    padding-bottom:1em;
+    span {
+      padding: 0 0.5em;
+    }
+  }
+}
+
+.github-orgs-header {
+  position: relative;
+  background: linear-gradient(0deg, $darkWhite, $white);
   .inner {
     position: relative;
   }
