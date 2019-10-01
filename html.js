@@ -37,11 +37,12 @@ module.exports = React.createClass({
         <div id="banner">
           <div id="banner-content">
             This website served the ETC community from July 2016 until
-            April 2018, when it was replaced by
+            April 2018.  It was replaced by
             a <a href="https://ethereumclassic.org">new WordPress site</a> built
             by <a href="https://etccoperative.org">ETC Cooperative</a>, which
-            looks great, but which has already content-rotted because only
-            WP admins could update it.  We will bring this website's
+            looks great, but which has already content-rotted.  Only
+            WP admins could update it.<br/>
+            We will bring this website's
             content back up to date and THEN make it just as fancy.
           </div>
         </div>
