@@ -34,13 +34,10 @@ export default class Header extends Component {
             <Dropdown label="Information">
               <DropdownItem target="_blank" link="//github.com/ethereumclassic/faq">ETC FAQ</DropdownItem>
               <DropdownItem target="_blank" link="//ethereum-classic-guide.readthedocs.io/en/latest/">ETC Guide</DropdownItem>
-              <DropdownItem link="https://forum.ethereumclassic.org/" target="_blank">Forum</DropdownItem>
               <DropdownItem target="_blank" link="http://etc.today/">ETC Today</DropdownItem>
-              <DropdownItem target="_blank" link="//www.etcdevteam.com/">ETCDEV Team</DropdownItem>
               <DropdownItem target="_blank" link="//iohk.io/projects/ethereum-classic/#team">Grothendieck Team</DropdownItem>
-              <DropdownItem target="_blank" link="//dexaran.github.io/ICO/">Ethereum Commonwealth</DropdownItem>
               <DropdownItem target="_blank" link="https://grayscale.co/ethereum-classic-investment-thesis-march-2017/">Investment Thesis</DropdownItem>
-              <DropdownItem target="_blank" link="//www.etcdevteam.com/blog/articles/a-joint-statement-ecip1017.html">Monetary Policy</DropdownItem>
+              <DropdownItem target="_blank" link="https://medium.com/@etcdev/a-joint-statement-on-ethereum-classics-monetary-policy-920c3af82eef">Monetary Policy</DropdownItem>
             </Dropdown>
             &nbsp;{' '}&nbsp;
             <Dropdown label="Wallets">
@@ -55,9 +52,11 @@ export default class Header extends Component {
             </Dropdown>
             &nbsp;{' '}&nbsp;
             <Dropdown label="Nodes">
-              <DropdownItem target="_blank" link="//github.com/ethereumproject/go-ethereum/releases">Geth</DropdownItem>
+              <DropdownItem target="_blank" link="//github.com/etclabscore/go-ethereum/releases">Classic Geth</DropdownItem>
               <DropdownItem target="_blank" link="//github.com/paritytech/parity/releases">Parity</DropdownItem>
-              <DropdownItem target="_blank" link="//github.com/ethoxy/multi-geth/releases">Multi-Geth</DropdownItem>
+              <DropdownItem target="_blank" link="//github.com/multi-geth/multi-geth/releases">Multi-Geth</DropdownItem>
+              <DropdownItem target="_blank" link="//github.com/ChainSafe/besu">Hyperledger Besu</DropdownItem>
+              <DropdownItem target="_blank" link="//github.com/input-output-hk/mantis/tree/phase/release2_0">Mantis</DropdownItem>
               <DropdownItem target="_blank" link="http://etcstats.net">Network Status</DropdownItem>
             </Dropdown>
             &nbsp;{' '}&nbsp;
@@ -315,7 +314,7 @@ export default class Header extends Component {
             development was defunded at the end of 2018, and Mantis did
             not participate in the recent Atlantis fork.  We hope that
             they will return to battle soon.
-            Development occurs in <a href="https://github.com/input-output-hk/mantis">https://github.com/input-output-hk/mantis</a>.
+            Development occurs in <a href="https://github.com/input-output-hk/mantis/tree/phase/release2_0">https://github.com/input-output-hk/mantis</a>.
           </p>
           <p>
             The <a href="https://github.com/ethereumproject">github.com/ethereumproject</a> organization,

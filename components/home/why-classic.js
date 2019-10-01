@@ -39,7 +39,7 @@ export default class WhyClassic extends Component {
           <br />
           <a
             className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
-            href={'https://www.etcdevteam.com/blog/articles/a-joint-statement-ecip1017.html'}
+            href={'https://medium.com/@etcdev/a-joint-statement-on-ethereum-classics-monetary-policy-920c3af82eef'}
             target="_blank"
           >
             Monetary Policy
