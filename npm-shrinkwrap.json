@@ -5506,7 +5506,7 @@
       "resolved": "https://registry.npmjs.org/redent/-/redent-1.0.0.tgz"
     },
     "reduce-css-calc": {
-      "version": "1.3,0",
+      "version": "1.3.0",
       "from": "reduce-css-calc@>=1.2.0 <2.0.0",
       "resolved": "https://registry.npmjs.org/reduce-css-calc/-/reduce-css-calc-1.3.0.tgz",
       "dependencies": {
