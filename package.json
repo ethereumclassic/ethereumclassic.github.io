@@ -1,14 +1,12 @@
 {
   "name": "etc-web",
-  "description": "Etheruem Classic Site",
+  "description": "Ethereum Classic",
   "version": "1.0.0",
   "author": "Dax Classix",
   "dependencies": {
     "history": "^2.1.1",
     "lodash": "^4.14.1",
-    "optipng-bin": "^6.0.0",
     "particles.js": "^2.0.0",
-    "pngquant-bin": "^5.0.2",
     "promise-polyfill": "^6.0.1",
     "react": "^15.3.0",
     "react-addons-transition-group": "^15.3.0",
@@ -21,7 +19,7 @@
   },
   "optionalDependencies": {
     "fsevents": "*"
-  },   
+  },
   "devDependencies": {
     "babel-plugin-add-module-exports": "^0.2.1",
     "babel-plugin-react-transform": "^2.0.2",
@@ -41,7 +39,9 @@
     "image-webpack-loader": "^2.0.0",
     "muicss": "^0.6.9",
     "null-loader": "^0.1.1",
+    "optipng-bin": "^6.0.0",
     "postcss-loader": "^0.9.1",
+    "pngquant-bin": "^5.0.2",
     "react-transform-catch-errors": "^1.0.2",
     "react-transform-hmr": "^1.0.4",
     "redbox-react": "^1.2.10",
