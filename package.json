@@ -6,7 +6,9 @@
   "dependencies": {
     "history": "^2.1.1",
     "lodash": "^4.14.1",
+    "optipng-bin": "^6.0.0",
     "particles.js": "^2.0.0",
+    "pngquant-bin": "^5.0.2",
     "promise-polyfill": "^6.0.1",
     "react": "^15.3.0",
     "react-addons-transition-group": "^15.3.0",
