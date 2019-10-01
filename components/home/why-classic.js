@@ -37,21 +37,6 @@ export default class WhyClassic extends Component {
             Declaration of Independence
           </a>
           <br />
-          <a
-            className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
-            href={prefixLink('https://www.etcdevteam.com/roadmap.html')}
-            target="_blank"
-          >
-            ETCDEV Team Roadmap
-          </a>
-          <br />
-          <a
-            className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
-            href={prefixLink('https://github.com/EthereumCommonwealth/Roadmap/issues')}
-            target="_blank"
-          >
-            Ethereum Commonwealth Roadmap
-          </a>
           <br />
           <a
             className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
@@ -67,13 +52,6 @@ export default class WhyClassic extends Component {
             target="_blank"
           >
             ETC Today
-          </a>
-          <a
-            className="mui-btn mui-btn mui-btn--raised mui-btn--primary"
-            href={'http://us14.campaign-archive1.com/home/?u=1e7b1574ce5b6f380df5f8510&id=16de44cd42'}
-            target="_blank"
-          >
-            Weekly Update
           </a>
           <br />
           <a
