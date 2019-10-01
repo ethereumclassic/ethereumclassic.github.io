@@ -32,86 +32,89 @@ export default class Header extends Component {
               {' '}<span>UNSTOPPABLE</span>
             </h2>
             <Dropdown label="Information">
-              <DropdownItem target="_blank" link="//github.com/ethereumclassic/faq">ETC FAQ</DropdownItem>
-              <DropdownItem target="_blank" link="//ethereum-classic-guide.readthedocs.io/en/latest/">ETC Guide</DropdownItem>
-              <DropdownItem target="_blank" link="http://etc.today/">ETC Today</DropdownItem>
-              <DropdownItem target="_blank" link="//iohk.io/projects/ethereum-classic/#team">Grothendieck Team</DropdownItem>
-              <DropdownItem target="_blank" link="https://grayscale.co/ethereum-classic-investment-thesis-march-2017/">Investment Thesis</DropdownItem>
-              <DropdownItem target="_blank" link="https://medium.com/@etcdev/a-joint-statement-on-ethereum-classics-monetary-policy-920c3af82eef">Monetary Policy</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//github.com/ethereumclassic/faq">ETC FAQ</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//ethereum-classic-guide.readthedocs.io/en/latest/">ETC Guide</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="http://etc.today/">ETC Today</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//iohk.io/projects/ethereum-classic/#team">Grothendieck Team</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="https://grayscale.co/ethereum-classic-investment-thesis-march-2017/">Investment Thesis</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="https://medium.com/@etcdev/a-joint-statement-on-ethereum-classics-monetary-policy-920c3af82eef">Monetary Policy</DropdownItem>
             </Dropdown>
             &nbsp;{' '}&nbsp;
             <Dropdown label="Wallets">
-              <DropdownItem target="_blank" link="//ethereumclassic.github.io/etherwallet/">CEW Web Wallet</DropdownItem>
-              <DropdownItem target="_blank" link="//myetherwallet.com">MEW Web Wallet</DropdownItem>
-              <DropdownItem target="_blank" link="//www.ledgerwallet.com/products/12-ledger-nano-s">Ledger Hardware Wallet</DropdownItem>
-              <DropdownItem target="_blank" link="//trezor.io">Trezor Hardware Wallet</DropdownItem>
-              <DropdownItem target="_blank" link="//github.com/ethereumproject/emerald-wallet/releases">Emerald Wallet (Windows, Linux, Mac; Beta)</DropdownItem>                     
-              <DropdownItem target="_blank" link="//guarda.co/wallet/etc">Guarda Wallet (Android, iOS, Web)</DropdownItem>
-              <DropdownItem target="_blank" link="//trustwalletapp.com">Trust Wallet (Android, iOS)</DropdownItem>
-              <DropdownItem target="_blank" link="//jaxx.io/">JAXX (Windows, Linux, Mac, Android, iOS)</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//myetherwallet.com">MEW Web Wallet</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//www.saturn.network/blog/saturn-wallet/">Saturn Wallet (Desktop, Android) [#dapp-ready]</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid">Nifty Wallet [#dapp-ready]</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//emeraldwallet.io">Emerald Wallet (Windows, Linux, Mac; Beta)</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//trustwalletapp.com">Trust Wallet (Android, iOS) [#dapp-ready]</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//guarda.co/wallet/etc">Guarda Wallet (Android, iOS, Web)</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//jaxx.io/">JAXX (Windows, Linux, Mac, Android, iOS)</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//www.ledgerwallet.com/products/12-ledger-nano-s">Ledger Hardware Wallet</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//trezor.io">Trezor Hardware Wallet</DropdownItem>
             </Dropdown>
             &nbsp;{' '}&nbsp;
             <Dropdown label="Nodes">
-              <DropdownItem target="_blank" link="//github.com/etclabscore/go-ethereum/releases">Classic Geth</DropdownItem>
-              <DropdownItem target="_blank" link="//github.com/paritytech/parity/releases">Parity</DropdownItem>
-              <DropdownItem target="_blank" link="//github.com/multi-geth/multi-geth/releases">Multi-Geth</DropdownItem>
-              <DropdownItem target="_blank" link="//github.com/ChainSafe/besu">Hyperledger Besu</DropdownItem>
-              <DropdownItem target="_blank" link="//github.com/input-output-hk/mantis/tree/phase/release2_0">Mantis</DropdownItem>
-              <DropdownItem target="_blank" link="http://etcstats.net">Network Status</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//github.com/etclabscore/go-ethereum/releases">Classic Geth</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//github.com/paritytech/parity/releases">Parity</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//github.com/multi-geth/multi-geth/releases">Multi-Geth</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//github.com/ChainSafe/besu">Hyperledger Besu</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//github.com/input-output-hk/mantis/tree/phase/release2_0">Mantis (deprecated)</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="http://etcstats.net">Network Status</DropdownItem>
             </Dropdown>
             &nbsp;{' '}&nbsp;
             <Dropdown label="Mining Pools">
-              <DropdownItem target="_blank" link="https://epool.io">Epool</DropdownItem>
-              <DropdownItem target="_blank" link="https://etc.2miners.com">2miners</DropdownItem>
-              <DropdownItem target="_blank" link="http://91pool.com">91 Pool</DropdownItem>
-              <DropdownItem target="_blank" link="https://anorak.tech/">Anorak.Tech</DropdownItem>
-              <DropdownItem target="_blank" link="https://etc.bw.com">BW.com</DropdownItem>
-              <DropdownItem target="_blank" link="http://clona.ru/">Clona.ru</DropdownItem>
-              <DropdownItem target="_blank" link="https://coinfoundry.org">Coinfoundry.org</DropdownItem>
-              <DropdownItem target="_blank" link="https://ethc.coin-miners.info">Coin-Miners</DropdownItem>
-              <DropdownItem target="_blank" link="https://comining.io">Comining</DropdownItem>
-              <DropdownItem target="_blank" link="http://etcpool.pl/">ETCPool.pl</DropdownItem>
-              <DropdownItem target="_blank" link="https://etc.ethermine.org/">Ethermine</DropdownItem>
-              <DropdownItem target="_blank" link="http://ethteam.com">ETHteam.com</DropdownItem>
-              <DropdownItem target="_blank" link="http://etc-poolcrypto.org/">ETC-Poolcrypto</DropdownItem>
-              <DropdownItem target="_blank" link="https://etc.europool.me">Europool</DropdownItem>
-              <DropdownItem target="_blank" link="https://www.f2pool.com/help">f2pool</DropdownItem>
-              <DropdownItem target="_blank" link="https://etc.fairpool.xyz/">Fairpool.io</DropdownItem>
-              <DropdownItem target="_blank" link="http://etc.minertopia.org/">Minertopia.org</DropdownItem>
-              <DropdownItem target="_blank" link="https://minergate.com">Minergate</DropdownItem>
-              <DropdownItem target="_blank" link="http://nanopool.org">Nanopool</DropdownItem>
-              <DropdownItem target="_blank" link="https://pandapool.io">Pandapool.io</DropdownItem>
-              <DropdownItem target="_blank" link="https://ucrypto.net/currency/?curr=ETC">uCrypto.net</DropdownItem>
-              <DropdownItem target="_blank" link="http://uupool.cn/">UUpool</DropdownItem>
-            </Dropdown>          
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="https://epool.io">Epool</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="https://etc.2miners.com">2miners</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="http://91pool.com">91 Pool</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="https://anorak.tech/">Anorak.Tech</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="https://etc.bw.com">BW.com</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="http://clona.ru/">Clona.ru</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="https://coinfoundry.org">Coinfoundry.org</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="https://ethc.coin-miners.info">Coin-Miners</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="https://comining.io">Comining</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="http://etcpool.pl/">ETCPool.pl</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="https://etc.ethermine.org/">Ethermine</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="http://ethteam.com">ETHteam.com</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="http://etc-poolcrypto.org/">ETC-Poolcrypto</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="https://etc.europool.me">Europool</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="https://www.f2pool.com/help">f2pool</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="https://etc.fairpool.xyz/">Fairpool.io</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="http://etc.minertopia.org/">Minertopia.org</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="https://minergate.com">Minergate</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="http://nanopool.org">Nanopool</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="https://pandapool.io">Pandapool.io</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="https://ucrypto.net/currency/?curr=ETC">uCrypto.net</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="http://uupool.cn/">UUpool</DropdownItem>
+            </Dropdown>
             <br />
             <Dropdown label="Explorers">
-              <DropdownItem target="_blank" link="//gastracker.io">Gastracker.io</DropdownItem>
-              <DropdownItem target="_blank" link="http://etherhub.io">Etherhub.io</DropdownItem>
-              <DropdownItem target="_blank" link="//gastracker.io/stats/miners">Mining Status</DropdownItem>
-              <DropdownItem target="_blank" link="http://etcstats.net">Network Monitor</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//blockscout.com/etc/mainnet/">BlockScout</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//gastracker.io">Gastracker.io</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="http://etherhub.io">Etherhub.io</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//gastracker.io/stats/miners">Mining Status</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="http://etcstats.net">Network Monitor</DropdownItem>
             </Dropdown>
             &nbsp;{' '}&nbsp;
             <Dropdown label="Exchanges">
-              <DropdownItem target="_blank" link="//bittrex.com/Market/Index?MarketName=BTC-ETC">Bittrex: ETC/BTC, ETC/ETH</DropdownItem>
-              <DropdownItem target="_blank" link="//bitfinex.com">Bitfinex: ETC/BTC, ETC/USD</DropdownItem>
-              <DropdownItem target="_blank" link="//www.bitmex.com/app/trade/ETC24H">BitMex futures contract ETC</DropdownItem>
-              <DropdownItem target="_blank" link="//bitsquare.io">BitSquare</DropdownItem>
-              <DropdownItem target="_blank" link="//bter.com/trade/etc_btc">BTER</DropdownItem>
-              <DropdownItem target="_blank" link="//changelly.com/exchange/BTC/ETC/1">Changelly</DropdownItem>
-              <DropdownItem target="_blank" link="//changenow.io?utm_source=etc&utm_medium=ref&utm_campaign=etc_exchanges">ChangeNow</DropdownItem>
-              <DropdownItem target="_blank" link="//trans.chbtc.com/etc">CHBTC: ETC/CNY</DropdownItem>
-              <DropdownItem target="_blank" link="//www.coinex.com/">CoinEx</DropdownItem>
-              <DropdownItem target="_blank" link="//coinexchange.io/market/ETC/BTC">Coinexchange</DropdownItem>
-              <DropdownItem target="_blank" link="//coinswitch.co">CoinSwitch</DropdownItem>            
-              <DropdownItem target="_blank" link="//c-cex.com/?p=etc-btc">C-CEX</DropdownItem>
-              <DropdownItem target="_blank" link="//korbit.co.kr/etc_market">Korbit</DropdownItem>
-              <DropdownItem target="_blank" link="//www.kraken.com">Kraken: ETC/ETH, ETC/EUR, ETC/USD, ETC/XBT</DropdownItem>
-              <DropdownItem target="_blank" link="//godex.io">Godex</DropdownItem>
-              <DropdownItem target="_blank" link="//poloniex.com/exchange#btc_etc">Poloniex: ETC/BTC, ETC/ETH, ETC/USDT</DropdownItem>
-              <DropdownItem target="_blank" link="//shapeshift.io">Shapeshift</DropdownItem>
-              <DropdownItem target="_blank" link="//yobit.net/en/trade/ETC/BTC">Yobit</DropdownItem>
-              <DropdownItem target="_blank" link="//yunbi.com/">Yunbi</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//bittrex.com/Market/Index?MarketName=BTC-ETC">Bittrex: ETC/BTC, ETC/ETH</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//bitfinex.com">Bitfinex: ETC/BTC, ETC/USD</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//www.bitmex.com/app/trade/ETC24H">BitMex futures contract ETC</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//bitsquare.io">BitSquare</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//bter.com/trade/etc_btc">BTER</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//changelly.com/exchange/BTC/ETC/1">Changelly</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//changenow.io?utm_source=etc&utm_medium=ref&utm_campaign=etc_exchanges">ChangeNow</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//trans.chbtc.com/etc">CHBTC: ETC/CNY</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//www.coinex.com/">CoinEx</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//coinexchange.io/market/ETC/BTC">Coinexchange</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//coinswitch.co">CoinSwitch</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//c-cex.com/?p=etc-btc">C-CEX</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//korbit.co.kr/etc_market">Korbit</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//www.kraken.com">Kraken: ETC/ETH, ETC/EUR, ETC/USD, ETC/XBT</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//godex.io">Godex</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//poloniex.com/exchange#btc_etc">Poloniex: ETC/BTC, ETC/ETH, ETC/USDT</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//shapeshift.io">Shapeshift</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//yobit.net/en/trade/ETC/BTC">Yobit</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//yunbi.com/">Yunbi</DropdownItem>
+              <DropdownItem target="_blank" rel="noopener noreferrer" link="//www.saturn.network/">Saturn Network decentralized exchange</DropdownItem>
             </Dropdown>
             &nbsp;{' '}&nbsp;
             <SocialLinks />
@@ -158,7 +161,7 @@ export default class Header extends Component {
           </p>
           <p>
             This is a homecoming of sorts, because this Github website
-            served the ETC community from July 2016 until April 2018. 
+            served the ETC community from July 2016 until April 2018.
             It was replaced by a <a href="https://ethereumclassic.org">new
             WordPress site</a> built by <a href="https://etccoperative.org">ETC Cooperative</a>, which
             looks great, but the content is already outdated.
@@ -227,7 +230,7 @@ export default class Header extends Component {
           <p>
             <b>Geth</b> is the most popular Ethereum client.  Its development is
             funded by the Ethereum Foundation and developed
-            in <a href="https://github.com/ethereum/go-ethereum">github.com/ethereum/go-ethereum</a>. 
+            in <a href="https://github.com/ethereum/go-ethereum">github.com/ethereum/go-ethereum</a>.
             Directly after the time of the DAO fork, Geth supported both Ethereum
             and Ethereum Classic, but that support was dropped pretty soon afterwards.
             There there was little or no demand for Ethereum Classic support,
@@ -252,7 +255,7 @@ export default class Header extends Component {
             hard fork, which will be its last outing.  That has been far from
             a smooth ride, but many ecosystem participants still use it.
             Classic Geth is developed by ETC Labs
-            in <a href="https://github.com/etclabscore/go-ethereum">github.com/etclabscore/go-ethereum</a>.            
+            in <a href="https://github.com/etclabscore/go-ethereum">github.com/etclabscore/go-ethereum</a>.
           </p>
           <p>
             <b>MultiGeth</b> is a downstream fork of Geth which adds
