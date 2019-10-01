@@ -37,6 +37,7 @@
     "eslint-plugin-jsx-a11y": "^2.0.1",
     "eslint-plugin-react": "^6.0.0",
     "image-webpack-loader": "^2.0.0",
+    "jpegtran-bin": "^4.0.0",
     "muicss": "^0.6.9",
     "null-loader": "^0.1.1",
     "optipng-bin": "^6.0.0",
