@@ -12,36 +12,61 @@ Do not directly modify `master` branch; it is for [serving](https://help.github.
 
 ### Add content to the site
 
-Create a copy of the website code on your Github account:
-       Create a github.com account.
-       Visit https://github.com/ethereumclassic/ethereumclassic.github.io .
-       Click on "Fork" button in upper right.
+##### Create a copy of the website code on your Github account:
+
+1. Create a github.com account
+2. Visit https://github.com/ethereumclassic/ethereumclassic.github.io
+3. Click on "Fork" button in upper right
+
+##### Set up git on your computer
+
+If `git` is not installed on your computer please follow [this guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
 To set up your name and email in Git:
-       git config --global user.email "<your email goes here>"
-       git config --global user.name "<your name goes here>"
+
+```sh
+git config --global user.email "<your email goes here>"
+git config --global user.name "<your name goes here>"
+```
+
+##### Making changes
 
 To upload a new Markdown file:
-       git clone https://github.com/<your Github username>/ethereumclassic.github.io.git
-       cd ethereumclassic.github.io
-       git checkout source
-       Add MD file under pages/blog.
-       Rename your MD file to have YYYY-MM-DD-your-title-goes-here.md format.
-       Add correct header to MD file as follows:
-                ---
-                title: "<your title goes here>"
-                date: <date, formatted as YYYY-MM-DD>
-                author: <your name goes here>
-                ---
-       git add <your MD file goes here>
-       git commit -m "Added a blog post"
-       git push
+
+```sh
+git clone https://github.com/<your Github username>/ethereumclassic.github.io.git
+cd ethereumclassic.github.io
+git checkout source
+```
+
+Add MD file under pages/blog.
+Rename your MD file to have `YYYY-MM-DD-{your-title-goes-here}.md` format.
+Add correct header to MD file as follows:
+
+```md
+---
+title: "<your title goes here>"
+date: <date, formatted as YYYY-MM-DD>
+author: <your name goes here>
+---
+```
+
+When you are done making changes, commit them to git.
+
+```sh
+git add <your MD file goes here>
+git commit -m "Added a blog post about {your topic}"
+git push origin source
+```
+
+##### Proposing your changes on GitHub
 
 To create a pull request to notify ETC website maintainers of your file:
-       Visit https://github.com/<your Github username>/ethereumclassic.github.io.git .
-       Click on "Compare & pull request" in upper right.
-       Add description to form.
-       Click the "Create pull request" in middle right.
+
+1. Visit https://github.com/<your Github username>/ethereumclassic.github.io.git
+2. Click on "Compare & pull request" in upper right
+3. Add description to form
+4. Click the "Create pull request" in middle right
 
 #### Where to add content?
 
