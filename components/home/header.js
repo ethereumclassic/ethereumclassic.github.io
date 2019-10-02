@@ -384,6 +384,11 @@ export default class Header extends Component {
               17.10 - 19.30 - Cocktail Happy Hour<br/>
             </p>
           </Container>
+          <Container fluid className="mui--text-center disclaimer-banner">
+            <h2>
+              EVERYTHING BELOW THIS LINE NEEDS REVIEW
+            </h2>
+          </Container>
       </Container>
     )
   }
