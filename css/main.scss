@@ -193,6 +193,32 @@ a{
   }
 }
 
+.disclaimer-banner {
+  position: relative;
+  background: linear-gradient(0deg, $red, $orange);
+  .inner {
+    position: relative;
+  }
+  .logo {
+    height: 30vh;
+  }
+  h1 {
+    color: $green;
+    padding: 0.5em 0em;
+    font-size: 4em;
+    line-height: 1em;
+  }
+  h1, h2 {
+    letter-spacing: 0.1em;
+  }
+  h2 {
+    padding-bottom:1em;
+    span {
+      padding: 0 0.5em;
+    }
+  }
+}
+
 .mui-container-fluid {
   .mui-row.padded > div {
     padding-top: $defaultPadding;
