@@ -332,6 +332,55 @@ export default class Header extends Component {
             </p>
           </p>
         </Container>
+        <Container fluid className="mui--text-center main-header">
+            <h2>
+              Live stream and videos from ETC Summit 2019
+            </h2>
+            <p>
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/7smKT5mZ9MI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </p>
+            <h3>
+              Thursday 3rd October 2019
+            </h3>
+            <p>
+              08.00 - 10.00 - Breakfast<br/>
+              08.00 - 09.00 - Registration<br/>
+              -<br/>
+              09.00 - 09.10 - Opening address - Bob Summerwill<br/>
+              09.10 - 09.35 - The State of ETC - Anthony Lusardi<br/>
+              09.35 - 10.00 - Ethereum Classic Principles, Vision &amp; Opportunities - Donald McIntyre<br/>
+              10.00 - 10.25 - Atlantis Protocol Upgrade &amp; the ETC Roadmap - Afri Schoedon<br/>
+              -<br/>
+              10.25 - 11.00 - Morning break<br/>
+              -<br/>
+              11.00 - 11.10 - The Future of JSON-RPC Tooling - Shane Jonas<br/>
+              11.10 - 11.20 - Jade Service Runner: Bridging the Decentralized Service Gap - Zane Starr<br/>
+              11.20 - 11.40 - Adding Merkle-Mountain-Ranges and Fly-Proofs to ETC - Zac Mitton<br/>
+              11.40 - 12.00 - ERC1066 - One Byte of Context - Brooklyn Zelenka<br/>
+              -<br/>
+              12.00 - 13.00 - Lunch<br/>
+              -<br/>
+              13.00 - 13.20 - The Year Ahead for ETC Labs - Terry Culver<br/>
+              13.20 - 13.40 - Infrastructure for Decentralizing Distributed Networks - Aaron Lowry<br/>
+              13.40 - 14.00 - Radical Ideas: Experiments in Sustaining Open Source Software - Scott Moore<br/>
+              -<br/>
+              14.00 - 14.20 - Afternoon break<br/>
+              -<br/>
+              14.20 - 14.40 - POA Network: Development Tools in the ETC ecosystem - Andrew Gross<br/>
+              14.40 - 15.00 - Collaborative Machine Learning on ETC - Cody Burns<br/>
+              15.00 - 15.20 - State of the ETC testnets - Afri Schoedon<br/>
+              -<br/>
+              15.20 - 15.40 - Afternoon break<br/>
+              -<br/>
+              15.40 - 16.00 - Metronome - 1st cross chain currency - chain hop from ETH to ETC - Manoj Patidor<br/>
+              16.00 - 16.20 - Fireside Chat: Improving Investor Access to ETC - Michael Sonnenshein &amp; Anthony Lusardi<br/>
+              14.20 - 16.40 - The Need for Cross Chain Collaboration - Aidan Hyman<br/>
+              16.40 - 17.00 - Developer Relations in ETC - Yaz Khoury<br/>
+              17.00 - 17.10 - Crossing statements - Bob Summerwill<br/>
+              -<br/>
+              17.10 - 19.30 - Cocktail Happy Hour<br/>
+            </p>
+          </Container>
       </Container>
     )
   }
