@@ -30,7 +30,7 @@ There is a broad perception that ETC has an implicit
 social contract in favor of POW mining.  This ECIP
 seeks to transform that implicit assumption into
 an explicitly written social contract, as an
-ERC which is adopted using the ECIP process.
+ECBP which is adopted using the ECIP process.
 
 This adoption could occur as part of the next
 hard-fork (just to "batch" discussions), or it could
@@ -72,7 +72,7 @@ If they choose to exit the ecosystem as a result
 of this proposal being adopted then that is probably
 a good thing.
 
-# Itended benefit of adopting this proposal?
+# Intended benefit of adopting this proposal?
 
 This proposal would give stakeholders in the Ethereum
 Classic mining ecosystem (miners, pools, ASIC manufacturers, GPU manufacturers, etc) certainty
