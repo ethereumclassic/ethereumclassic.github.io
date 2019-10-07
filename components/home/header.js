@@ -337,29 +337,81 @@ export default class Header extends Component {
         </Container>
         <Container fluid className="mui--text-center main-header">
             <h2>
-              Live stream and videos from ETC Summit 2019
+              Videos from ETC Summit 2019
             </h2>
-            <p>
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/7smKT5mZ9MI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </p>
             <h3>
               Thursday 3rd October 2019
             </h3>
             <p>
-              08.00 - 10.00 - Breakfast<br/>
-              08.00 - 09.00 - Registration<br/>
+              <p>
+                08.00 - 10.00 - Breakfast<br/>
+              </p>
+              <p>
+                08.00 - 09.00 - Registration<br/>
+              </p>
+
               -<br/>
-              09.00 - 09.10 - Opening address - Bob Summerwill<br/>
-              09.10 - 09.35 - The State of ETC - Anthony Lusardi<br/>
-              09.35 - 10.00 - Ethereum Classic Principles, Vision &amp; Opportunities - Donald McIntyre<br/>
-              10.00 - 10.25 - Atlantis Protocol Upgrade &amp; the ETC Roadmap - Afri Schoedon<br/>
+
+              <p>
+                09.00 - 09.10 - Opening address - Bob Summerwill (<a href="https://etcsummit.com/wp-content/uploads/2019/10/ETC-Summit-2019-Day-1-Talk-02-Anthony-Lusardi-The-State-of-Ethereum-Classic.pptx">Slides</a>)
+              </p>
+              <p>
+                <iframe width="320" height="240" src="https://www.youtube.com/embed/j37lKPxZeQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </p>
+
+              <p>
+                09.10 - 09.35 - The State of ETC - Anthony Lusardi (<a href="https://etcsummit.com/wp-content/uploads/2019/10/ETC-Summit-2019-Day-1-Talk-02-Anthony-Lusardi-The-State-of-Ethereum-Classic.pptx">Slides</a>)
+              </p>
+              <p>
+                <iframe width="320" height="240" src="https://www.youtube.com/embed/_vWAuRR_ttg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </p>
+
+              <p>
+                09.35 - 10.00 - Ethereum Classic Principles, Vision &amp; Opportunities - Donald McIntyre (<a href="https://etcsummit.com/wp-content/uploads/2019/10/ETC-Summit-2019-Day-1-Talk-03-Donald-McIntyre-Ethereum-Classic-Principles-Vision-and-Opportunities.pdf">Slides</a>)
+              </p>
+              <p>
+                <iframe width="320" height="240" src="https://www.youtube.com/embed/7ihq8S62K_8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </p>
+
+              <p>
+                10.00 - 10.25 - Atlantis Protocol Upgrade &amp; the ETC Roadmap - Afri Schoedon
+              </p>
+              <p>
+                <iframe width="320" height="240" src="https://www.youtube.com/embed/CelUmEWxY8M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </p>
+
               -<br/>
               10.25 - 11.00 - Morning break<br/>
               -<br/>
-              11.00 - 11.10 - The Future of JSON-RPC Tooling - Shane Jonas<br/>
-              11.10 - 11.20 - Jade Service Runner: Bridging the Decentralized Service Gap - Zane Starr<br/>
-              11.20 - 11.40 - Adding Merkle-Mountain-Ranges and Fly-Proofs to ETC - Zac Mitton<br/>
-              11.40 - 12.00 - ERC1066 - One Byte of Context - Brooklyn Zelenka<br/>
+
+              <p>
+                11.00 - 11.10 - The Future of JSON-RPC Tooling - Shane Jonas
+              </p>
+              <p>
+                <iframe width="320" height="240" src="https://www.youtube.com/embed/g2zUSyXW6nI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </p>
+
+              <p>
+                11.10 - 11.20 - Jade Service Runner: Bridging the Decentralized Service Gap - Zane Starr
+              </p>
+              <p>
+                <iframe width="360" height="240" src="https://www.youtube.com/embed/xZuZ-wrWCFs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </p>
+
+              <p>
+                11.20 - 11.40 - Adding Merkle-Mountain-Ranges and Fly-Proofs to ETC - Zac Mitton (<a href="https://etcsummit.com/wp-content/uploads/2019/10/ETC-Summit-2019-Day-1-Talk-07-Zac-Mitton-Adding-Merkle-Mountain-Ranges-and-Fly-Proofs-to-ETC.pdf">Slides</a>)
+              </p>
+              <p>
+                <iframe width="360" height="240" src="https://www.youtube.com/embed/2Imsj1S4qg8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </p>
+
+              <p>
+                11.40 - 12.00 - ERC1066 - One Byte of Context - Brooklyn Zelenka
+              </p>
+              <p>
+                <iframe width="320" height="240" src="https://www.youtube.com/embed/0uwBqQJ8KQw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </p>
+ 
               -<br/>
               12.00 - 13.00 - Lunch<br/>
               -<br/>
