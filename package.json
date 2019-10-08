@@ -1,0 +1,31 @@
+{
+  "name": "etc-web-2",
+  "private": true,
+  "description": "Refresh of ETC website",
+  "author": "ETC developers",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "start": "npm run develop"
+  },
+  "dependencies": {
+    "@mdx-js/mdx": "^0.20.3",
+    "@mdx-js/tag": "^0.20.3",
+    "eslint-config-react-app": "^5.0.2",
+    "gatsby": "^2.3.3",
+    "gatsby-mdx": "^0.4.4",
+    "gatsby-plugin-layout": "^1.1.6",
+    "gatsby-plugin-manifest": "^2.2.20",
+    "gatsby-plugin-offline": "^3.0.11",
+    "gatsby-plugin-react-helmet": "^3.1.10",
+    "gatsby-plugin-sass": "^2.1.17",
+    "gatsby-source-filesystem": "^2.0.28",
+    "i18next": "^17.0.13",
+    "node-sass": "^4.12.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-helmet": "^5.2.1",
+    "react-i18next": "^10.12.2"
+  }
+}
