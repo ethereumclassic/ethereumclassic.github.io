@@ -1,6 +1,6 @@
 import React from "react"
-import useTranslations from "../components/useTranslations"
-import Mdx from "../components/mdx"
+import useTranslations from "../i18n/useTranslations"
+import Mdx from "../components/Mdx"
 
 const About = ({ pageContext: { i18n } }) => {
   return (

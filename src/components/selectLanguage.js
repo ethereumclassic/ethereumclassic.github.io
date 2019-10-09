@@ -9,7 +9,7 @@ const SelectLanguage = () => {
   return (
     <Location>
       {({ location }) => (
-          <div>
+          <div className="select-language">
             {Object.values(locales).map((localeConf) => {
               // hide the selected language
               if (locale === localeConf.path) {
@@ -22,7 +22,7 @@ const SelectLanguage = () => {
               }
               return (
                 <Link key={localeConf.path} to={link} hrefLang={localeConf.path}>
-                  {localeConf.name}
+                  {localeConf.flag}
                 </Link>
               )
             })}

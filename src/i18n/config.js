@@ -3,6 +3,7 @@ module.exports = {
   locales: {
     en: {
       path: 'en',
+      flag: '🇬🇧',
       name: 'English',
       locale: 'en-US',
       dateFormat: 'DD/MM/YYYY',
@@ -13,6 +14,7 @@ module.exports = {
     },
     de: {
       path: 'de',
+      flag: '🇩🇪',
       name: 'Deutsch',
       locale: 'de-DE',
       dateFormat: 'DD.MM.YYYY',
@@ -23,6 +25,7 @@ module.exports = {
     },
     cn: {
       path: 'zh',
+      flag: '🇨🇳',
       name: 'Chinese',
       locale: 'zh-CN',
       dateFormat: 'DD.MM.YYYY',

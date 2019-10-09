@@ -7,7 +7,7 @@ const Footer = () => {
 
   return (
     <>
-      <section>
+      <section className="footer">
         <header>
           <h2>Get Involved</h2>
         </header>
@@ -38,7 +38,7 @@ const Footer = () => {
         </footer>
       </section>
       <div className="copyright">
-        Made with <span role="img" aria-label="heart">💚</span> by the ETC Community
+        Made with <code>&lt;3</code> by the ETC Community
       </div>
     </>
 )

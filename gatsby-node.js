@@ -169,7 +169,7 @@ exports.createPages = async ({ graphql, actions }) => {
       }
     }
   `);
-  const postTemplate = require.resolve(`./src/layouts/post.js`);
+  const postTemplate = require.resolve(`./src/layouts/blogPost.js`);
 
   blogResult.data.blog.edges.forEach(({ node: post }) => {
     const slug = post.fileAbsolutePath.split('/').slice(-2, -1)[0];

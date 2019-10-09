@@ -1,11 +1,12 @@
 import React from "react";
 
-const Section = ({ title, children }) => {
+const Section = ({ title, children, subSection }) => {
 
   return (
     <section>
       <header>
-        <h2>{title}</h2>
+        {title && <h2>{title}</h2>}
+        {subSection && subSection()}
       </header>
       <div className="content">
         {children}

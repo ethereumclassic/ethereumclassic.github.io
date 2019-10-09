@@ -1,17 +1,19 @@
 import React from "react";
+import logo from '../assets/images/etc-black.svg';
+import image from '../assets/images/10.jpg';
 
 const Banner = () => {
   return (
     <section className="intro">
       <header>
-        <h1>Big<br/>Title</h1>
-        <p>A free responsive site template designed by <a href="https://twitter.com/ajlkn">@ajlkn</a> / <a href="https://html5up.net">HTML5 UP</a></p>
-        <ul className="actions">
-          <li><a href="#first" className="arrow scrolly"><span className="label">Next</span></a></li>
-        </ul>
+        <h1>
+          <img class="logo" src={logo} alt="Ethereum Classic Logo" />
+          Ethereum Classic
+        </h1>
+        <p>Decentralized. Immutable. Unstoppable.</p>
       </header>
       <div className="content">
-        <span className="image fill" data-position="center"><img src="images/pic01.jpg" alt="" /></span>
+        <span className="image fill" data-position="center"><img src={image} alt="" /></span>
       </div>
     </section>
   )

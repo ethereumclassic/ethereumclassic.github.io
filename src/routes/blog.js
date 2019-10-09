@@ -1,32 +1,47 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
-import LocalizedLink from "../components/localizedLink"
-import DefaultLanguageHidden from '../components/defaultLanguageHidden';
+import LocalizedLink from "../components/LocalizedLink"
+import DefaultLanguageHidden from '../components/DefaultLanguageHidden';
 
 const Blog = ({ data: { allMdx } }) => {
   return (
     <>
-      <h1>Blog</h1>
+        <DefaultLanguageHidden>
+          <Link className="button-link" to="/blog" style={{ float: 'right', marginTop: '0' }}>Enlgish Posts</Link>
+        </DefaultLanguageHidden>
+      <h2>
+        Latest Articles
+      </h2>
       <hr style={{ margin: `2rem 0` }} />
-      <DefaultLanguageHidden>
-        <Link to="/blog">Enlgish Posts</Link>
-      </DefaultLanguageHidden>
       {allMdx.edges.length === 0 ?
         <div>
-          <br/><br/>
+          <br/>
           No posts in this language
         </div>
       :
-        <ul className="post-list">
+        <div className="blog-list">
           {allMdx.edges.map(({ node: post }) => (
-            <li key={`${post.frontmatter.title}-${post.fields.locale}`}>
-              <LocalizedLink to={`/${post.parent.relativeDirectory}`}>
-                {post.frontmatter.title}
-              </LocalizedLink>
-              <div>{post.frontmatter.date}</div>
-            </li>
+            <div key={`${post.frontmatter.title}-${post.fields.locale}`} className="blog-item">
+              <h4>
+                {new Date(post.frontmatter.date).toLocaleDateString()}{' '}
+                <small>{post.frontmatter.author}</small>
+              </h4>
+              <h3>
+                <LocalizedLink to={`/${post.parent.relativeDirectory}`}>
+                  {post.frontmatter.title}
+                </LocalizedLink>
+                <br/>
+              </h3>
+              <div>
+                {post.excerpt}{' '}
+                <LocalizedLink to={`/${post.parent.relativeDirectory}`}>
+                  Continue reading
+                  <i className="fas fa-angle-right"></i>
+                </LocalizedLink>
+              </div>
+            </div>
           ))}
-        </ul>
+        </div>
       }
     </>
   )
@@ -51,9 +66,11 @@ export const query = graphql`
     ) {
       edges {
         node {
+          excerpt
           frontmatter {
             title
             date
+            author
           }
           fields {
             locale
