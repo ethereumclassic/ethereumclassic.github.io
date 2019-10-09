@@ -1,0 +1,33 @@
+#menu {
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 1;
+}
+
+#wrapper.page {
+  #content {
+    background: white;
+  }
+  #container {
+    margin: auto;
+    max-width: 900px;
+    padding: 4rem;
+    @include breakpoint('<=small') {
+      padding: 2em;
+    }
+
+  }
+}
+
+.button-link {
+  margin: 0.2em;
+  padding: 0 0.4em;
+  display: inline-block;
+  white-space: nowrap;
+  background: rgba(0,0,0,.05);
+  border-bottom: 0;
+  &:hover {
+    background: rgba(255,255,255,.3);
+  }
+}

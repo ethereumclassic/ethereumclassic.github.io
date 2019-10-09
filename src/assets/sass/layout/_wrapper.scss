@@ -28,7 +28,7 @@
 			}
 
 		// Sections (top level).
-			> section {
+			#container > section, > section {
 				> header {
 
 					// Line.
@@ -123,7 +123,7 @@
 			}
 
 		// Sections (top level).
-			> section {
+			#container > section, > section {
 				margin: 0;
 
 				> header {
@@ -233,7 +233,7 @@
 			}
 
 		// Sections (top level).
-			> section {
+		#container > section, > section {
 				position: relative;
 
 				> header {
@@ -423,7 +423,7 @@
 				}
 
 			// Sections (top level).
-				> section {
+			#container > section, > section {
 					margin: 0;
 
 					> header {
@@ -577,7 +577,7 @@
 					}
 
 				// Sections (top level).
-					> section {
+					#container > section, > section {
 						> header {
 							background-attachment: scroll;
 							background-position: 25% 50%;
@@ -608,7 +608,7 @@
 				}
 
 			// Sections (top level).
-				> section {
+				#container > section, > section {
 
 					// Intro.
 						&.intro {
@@ -690,7 +690,7 @@
 					}
 
 				// Sections (top level).
-					> section {
+				#container > section, > section {
 						> .content {
 							> section {
 								width: 100vw;
