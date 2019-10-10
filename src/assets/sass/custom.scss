@@ -235,7 +235,11 @@ a .fas {
   margin-bottom: 2em;
   padding-bottom: 2em;
   border-bottom: 1px solid rgba(0,0,0,.2);
+  img {
+    max-width: 100%;
+  }
   h4, h3 {
+    line-height: 1.2em;
     a { border-bottom: 0; }
     margin: 0;
     text-transform: inherit;
@@ -253,13 +257,40 @@ a .fas {
 .cards {
   display: grid;
   grid-auto-columns: 1fr;
-  grid-auto-flow: column;
   grid-gap: 2em;
   margin-bottom: 4rem;
   @include breakpoint('<=small') {
     display: block;
+    margin-bottom: 2em;
+  }
+  > a {
+    border-bottom: none;
+  }
+  a .card:hover{
+    background: _palette(accent);
+  }
+  a .card.orange:hover {
+    background: _palette(orange-col);
+  }
+  a .card.red:hover {
+    background: _palette(red-col);
+  }
+  &.center {
+    h4 {
+      text-align: center;
+    }
   }
   .card {
+    &.orange{
+      h4 {
+        background: _palette(orange-col);
+      }
+    }
+    &.red{
+      h4 {
+        background: _palette(red-col);
+      }
+    }
     h4 {
       background: _palette(accent);
       padding: 1em;
@@ -267,6 +298,7 @@ a .fas {
     .content {
       padding: 0 2em;
     }
+    padding-bottom: 2em;
     background: white;
     box-shadow: 0 0.5em 1em rgba(0,0,0,.1)
   }
@@ -290,3 +322,31 @@ a .fas {
     }
   }
 }
+
+.resources {
+  .card h4 {
+    text-align: center;
+  }
+}
+.link-group {
+  margin-top: 2em;
+}
+
+.legend {
+  .key {
+    padding: 0.3em 0.4em;
+    margin: 0 0.2em;
+    background: blue;
+    &.green {
+      background: _palette(accent);
+    }
+    &.orange {
+      background: _palette(orange-col);
+    }
+    &.red {
+      background: _palette(red-col);
+    }
+  }
+}
+
+

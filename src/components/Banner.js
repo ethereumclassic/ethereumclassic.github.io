@@ -7,7 +7,7 @@ const Banner = () => {
     <section className="intro">
       <header>
         <h1>
-          <img class="logo" src={logo} alt="Ethereum Classic Logo" />
+          <img className="logo" src={logo} alt="Ethereum Classic Logo" />
           Ethereum Classic
         </h1>
         <p>Decentralized. Immutable. Unstoppable.</p>

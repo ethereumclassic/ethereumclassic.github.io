@@ -1,9 +1,12 @@
 import React from "react";
 
-const Cards = ({ children }) => {
-
+const Cards = ({ children, columns, className }) => {
+  const style = columns ? {
+    gridTemplateColumns: columns,
+    gridAutoColumns: 'unset'
+  } : {}
   return (
-    <div class="cards">
+    <div className={`cards ${className || ''}`} style={style}>
       {children}
     </div>
   )

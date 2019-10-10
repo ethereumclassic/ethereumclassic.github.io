@@ -5,7 +5,7 @@ import LocalizedLink from "./LocalizedLink";
 const Header = ({ extra }) => {
 
   return (
-    <div class="header">
+    <div className="header">
       <header>
         <img src={logo} alt="Ethereum Classic Logo" />
         <h1>

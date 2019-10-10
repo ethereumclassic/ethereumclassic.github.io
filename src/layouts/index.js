@@ -17,7 +17,6 @@ class Index extends React.Component {
     const isHomePage = rawPath === '/';
     const isBlog = rawPath.startsWith('/blog');
     const wrapperClass = isHomePage ? 'home' : 'page';
-    console.log({ rawPath });
     return (
       <>
         <Navigation />
