@@ -13,6 +13,8 @@ const Navigation = (props) => {
       <Hamburger>
         <NavigationButton to="/" text={backToHome} />
         <NavigationButton to="/blog" text={'Blog'} />
+        <NavigationButton to="/teams" text={'Teams'} />
+        <NavigationButton to="/roadmap" text={'Roadmap'} />
         <NavigationButton to="/about" text={'About'} />
       </Hamburger>
     </div>

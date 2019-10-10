@@ -203,6 +203,9 @@ a .fas {
     vertical-align: top;
     img {
       max-width: 30px;
+      @include breakpoint('<=small') {
+        max-width: 20px;
+      }
       margin-right: 1em;
       // vertical-align: middle;
       display: inline;
@@ -214,6 +217,9 @@ a .fas {
     h1 {
       display: inline;
       font-size: 2.5em;
+      @include breakpoint('<=small') {
+        font-size: 2em;
+      }
       small {
         font-size: 0.7em;
         opacity: 0.7;
@@ -241,5 +247,46 @@ a .fas {
   }
   h1 {
     font-size: 3em;
+  }
+}
+
+.cards {
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-auto-flow: column;
+  grid-gap: 2em;
+  margin-bottom: 4rem;
+  @include breakpoint('<=small') {
+    display: block;
+  }
+  .card {
+    h4 {
+      background: _palette(accent);
+      padding: 1em;
+    }
+    .content {
+      padding: 0 2em;
+    }
+    background: white;
+    box-shadow: 0 0.5em 1em rgba(0,0,0,.1)
+  }
+}
+
+.bars {
+  margin-bottom: 2em;
+  @include breakpoint('<=medium') {
+  line-height: 1.3em;
+    span {
+      font-size: 0.8em;
+    }
+  }
+  .bar {
+    margin-bottom: 0.5em;
+    background: rgba(0,0,0,.5);
+    height: 5px;
+    .fill {
+      height: 100%;
+      background: _palette(accent);
+    }
   }
 }

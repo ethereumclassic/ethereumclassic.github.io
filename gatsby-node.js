@@ -1,13 +1,14 @@
 // TODO make path parsing better (in case of absolute contains)
+const path = require('path');
 
 const { defaultLocale, locales } = require(`./src/i18n/config`);
 
-function parsePath(path) {
+function parsePath(str) {
   return {
-    type: path.split('/').slice(-2, -1)[0],
-    name: path.split('/').slice(-1)[0].split('.')[0],
-    ext: path.split('.').slice(-1)[0],
-    lang: path.split('.').slice(-2, -1)[0],
+    type: str.split('/').slice(-2, -1)[0],
+    name: str.split('/').slice(-1)[0].split('.')[0],
+    ext: str.split('.').slice(-1)[0],
+    lang: str.split('.').slice(-2, -1)[0],
   }
 }
 
@@ -32,6 +33,16 @@ function mergeJson(english = {}, translation = {}) {
   });
   return result;
 }
+
+// https://github.com/ChristopherBiscardi/gatsby-mdx/issues/176
+exports.onCreateWebpackConfig = ({ actions }) => {
+  actions.setWebpackConfig({
+    resolve: {
+      modules: [path.resolve(__dirname, 'src'), 'node_modules'],
+    },
+  })
+}
+
 
 exports.onCreateNode = ({ node, actions: { createNodeField } }) => {
   // TODO filter out blog posts, parse them elsewhere?
