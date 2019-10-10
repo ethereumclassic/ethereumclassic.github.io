@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
-import LocalizedLink from "../components/LocalizedLink"
-import DefaultLanguageHidden from '../components/DefaultLanguageHidden';
+import LocalizedLink from "components/LocalizedLink"
+import DefaultLanguageHidden from 'components/DefaultLanguageHidden';
 
 const Blog = ({ data: { allMdx } }) => {
   return (

@@ -12,10 +12,10 @@ const Navigation = (props) => {
       <SelectLanguage />
       <Hamburger>
         <NavigationButton to="/" text={backToHome} />
-        <NavigationButton to="/blog" text={'Blog'} />
+        <NavigationButton to="/resources" text={'Resources'} />
         <NavigationButton to="/teams" text={'Teams'} />
         <NavigationButton to="/roadmap" text={'Roadmap'} />
-        <NavigationButton to="/about" text={'About'} />
+        <NavigationButton to="/blog" text={'Blog'} />
       </Hamburger>
     </div>
   );

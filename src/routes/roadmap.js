@@ -1,6 +1,6 @@
 import React from "react"
-import Mdx from "../components/Mdx"
-import Bars from "../components/Bars"
+import Mdx from "components/Mdx"
+import Bars from "components/Bars"
 
 const Teams = ({ pageContext: { i18n } }) => {
   return (

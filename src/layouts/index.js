@@ -4,10 +4,10 @@ import '../assets/sass/main.scss'
 
 import withI18next from "../i18n/withI18next";
 
-import Footer from '../components/Footer';
-import Navigation from '../components/Navigation';
-import Header from '../components/Header';
-import LocalizedLink from "../components/LocalizedLink";
+import Footer from 'components/Footer';
+import Navigation from 'components/Navigation';
+import Header from 'components/Header';
+import LocalizedLink from "components/LocalizedLink";
 
 class Index extends React.Component {
 

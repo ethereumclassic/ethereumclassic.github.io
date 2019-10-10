@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
-import Mdx from "../components/Mdx"
-import LocalizedLink from "../components/LocalizedLink"
+import Mdx from "components/Mdx"
+import LocalizedLink from "components/LocalizedLink"
 
 const BlogPost = ({ data: { mdx } }) => (
   <>

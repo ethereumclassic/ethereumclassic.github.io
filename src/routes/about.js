@@ -1,6 +1,7 @@
+//  TODO - remove me!
 import React from "react"
 import useTranslations from "../i18n/useTranslations"
-import Mdx from "../components/Mdx"
+import Mdx from "components/Mdx"
 
 const About = ({ pageContext: { i18n } }) => {
   return (

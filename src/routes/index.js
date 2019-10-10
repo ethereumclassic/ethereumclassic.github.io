@@ -1,12 +1,12 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 
-import Section from '../components/Section';
-import WideSection from '../components/WideSection';
-import Banner from '../components/Banner';
-import Mdx from '../components/Mdx';
-import IconGrid from '../components/IconGrid';
-import LocalizedLink from '../components/LocalizedLink';
+import Section from 'components/Section';
+import WideSection from 'components/WideSection';
+import Banner from 'components/Banner';
+import Mdx from 'components/Mdx';
+import IconGrid from 'components/IconGrid';
+import LocalizedLink from 'components/LocalizedLink';
 /*
 
 STAY UP TO DATE
