@@ -1,4 +1,5 @@
 import React from "react";
+import Helmet from 'react-helmet'
 
 import '../assets/sass/main.scss'
 
@@ -12,18 +13,21 @@ import LocalizedLink from "components/LocalizedLink";
 class Index extends React.Component {
 
   render() {
-    const { children, path, pageContext: { locale } } = this.props;
-    const rawPath = path.startsWith(`/${locale}/`) ? path.replace(`${locale}/`, '') : path;
-    const isHomePage = rawPath === '/';
+    const { children, location: { pathname }, pageContext: { locale } } = this.props;
+    const rawPath = pathname.startsWith(`/${locale}/`) ? pathname.replace(`${locale}/`, '') : pathname;
+    const isHomePage = rawPath === '/' || rawPath === '';
     const isBlog = rawPath.startsWith('/blog');
     const wrapperClass = isHomePage ? 'home' : 'page';
     return (
       <>
+        <Helmet>
+          <title>Ethereum Classic</title>
+       </Helmet>
         <Navigation />
         <div id="wrapper" className={wrapperClass}>
           {!isHomePage && <Header extra={isBlog && <LocalizedLink to="/blog">Blog</LocalizedLink>} />}
-          <div id="content">
-            <div id="container">
+          <div id="layout-content">
+            <div id="layout-container">
               {children}
             </div>
           </div>

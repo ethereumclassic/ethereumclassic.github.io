@@ -1,6 +1,4 @@
 import React from 'react'
-import Helmet from 'react-helmet'
-
 import Section from 'components/Section';
 import WideSection from 'components/WideSection';
 import Banner from 'components/Banner';
@@ -16,10 +14,6 @@ Get the most up-to-date newsletters delivered straight to your email. Whether yo
 
 const Landing = ({ pageContext: { i18n }}) => (
     <>
-			<Helmet>
-					<title>Yo.</title>
-					<meta name="description" content="Landing Page" />
-			</Helmet>
 			<Banner />
 			<Section
 				subSection={() => <Mdx code={i18n.mdx.whatIsClassic} />}

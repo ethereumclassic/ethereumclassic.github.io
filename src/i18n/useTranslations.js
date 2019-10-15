@@ -20,7 +20,7 @@ function useTranslations() {
   const { translations: d } = simplified.find(lang => lang.name === defaultLocale) || {};
   const { translations: t } = simplified.find(lang => lang.name === locale) || {};
   const translations = { ...d }
-  Object.keys(t).forEach(k => {
+  Object.keys(t || {}).forEach(k => {
     if (t[k] !== null) {
       translations[k] = t[k]
     }

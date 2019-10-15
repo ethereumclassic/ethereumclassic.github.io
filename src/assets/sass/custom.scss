@@ -6,10 +6,10 @@
 }
 
 #wrapper.page {
-  #content {
+  #layout-content {
     background: white;
   }
-  #container {
+  #layout-container {
     margin: auto;
     max-width: 900px;
     padding: 4rem;
@@ -350,3 +350,8 @@ a .fas {
 }
 
 
+
+.intro .content .overlay {
+  position: absolute;
+  z-index: 1;
+}
