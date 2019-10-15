@@ -7,12 +7,10 @@ const Social = () => {
     <>
       <h3>Social</h3>
       <ul className="icons">
-        <SocialIcon link="#" icon="twitter" text="Twitter" />
-        <SocialIcon link="#" icon="facebook-f" text="Facebook" />
-        <SocialIcon link="#" icon="instagram" text="Instagram" />
-        <SocialIcon link="#" icon="linkedin-in" text="LinkedIn" />
-        <SocialIcon link="#" icon="github" text="GitHub" />
-        <SocialIcon link="#" icon="codepen" text="Codepen" />
+        <SocialIcon link="https://discordapp.com/invite/HW4GckH" icon="discord" text="Discord" />
+        <SocialIcon link="https://telegram.me/ethclassic" icon="telegram" text="Telegram" />
+        <SocialIcon link="https://www.reddit.com/r/EthereumClassic/" icon="reddit" text="Reddit" />
+        <SocialIcon link="https://twitter.com/eth_classic" icon="twitter" text="Twitter" />
       </ul>
     </>
   )
