@@ -15,6 +15,7 @@
     "eslint-config-react-app": "^5.0.2",
     "gatsby": "^2.3.3",
     "gatsby-mdx": "^0.4.4",
+    "gatsby-plugin-favicon": "^3.1.6",
     "gatsby-plugin-layout": "^1.1.6",
     "gatsby-plugin-manifest": "^2.2.20",
     "gatsby-plugin-offline": "^3.0.11",

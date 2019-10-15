@@ -1,5 +1,11 @@
 module.exports = {
   plugins: [
+    {
+      resolve: `gatsby-plugin-favicon`,
+      options: {
+        logo: "./src/assets/favicon.png",
+      }
+    },
     'gatsby-plugin-layout',
     'gatsby-mdx',
     'gatsby-plugin-react-helmet',
