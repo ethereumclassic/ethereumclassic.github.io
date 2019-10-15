@@ -7,6 +7,8 @@ function doCompile {
   npm run build
   # copy the readme file
   cp README.md public/
+  # copy the CNAME
+  cp CNAME public/
 }
 
 # Pull requests and commits to other branches shouldn't try to deploy, just build to verify
