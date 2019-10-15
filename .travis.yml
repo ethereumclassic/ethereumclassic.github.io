@@ -10,7 +10,7 @@ env:
   global:
   - ENCRYPTION_LABEL: "a55c8da1c39b"
   - SOURCE_BRANCH: "source"
-  - TARGET_BRANCH: "master"
+  - TARGET_BRANCH: "staging"
 cache:
   directories:
     - node_modules
