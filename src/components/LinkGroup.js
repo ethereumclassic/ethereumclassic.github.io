@@ -1,19 +1,18 @@
-import React from "react";
-import ButtonLink from "components/ButtonLink";
+import React from 'react';
+import ButtonLink from './buttonLink';
 
 const LinkGroup = ({ title, items }) => {
-
   return (
     <div className="link-group">
       {title && <h5>{title}</h5>}
-      {items.map(({ link, text, icon }) => (
+      {items.map(({ link, text }) => (
         <ButtonLink link={link} key={link}>
           {/* {icon && } */}
           {text}
         </ButtonLink>
       ))}
     </div>
-  )
+  );
 };
 
 export default LinkGroup;

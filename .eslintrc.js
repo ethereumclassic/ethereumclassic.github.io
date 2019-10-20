@@ -1,6 +1,27 @@
 module.exports = {
-  globals: {
-    __PATH_PREFIX__: true,
+  plugins: ['prettier'],
+  extends: ['airbnb', 'prettier'],
+  settings: {
+    'import/extensions': [
+      '.js'
+    ],
+    'import/resolver': {
+      alias: [
+        ['~components', './src/components']
+      ]
+    }
   },
-  extends: `react-app`,
+  rules: {
+    quotes: ['error', 'single'],
+    'react/jsx-filename-extension': 'off',
+    'react/prop-types': 'off',
+    'react/jsx-props-no-spreading': 'off',
+    'prettier/prettier': [
+      'error',
+      {
+        singleQuote: true,
+        printWidth: 100
+      }
+    ]
+  }
 }

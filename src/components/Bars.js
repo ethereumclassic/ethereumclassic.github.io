@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 const Bars = ({ title, items }) => {
   return (
@@ -8,12 +8,12 @@ const Bars = ({ title, items }) => {
         <div>
           <span>{name}</span>
           <div className="bar">
-            <div className="fill" style={{ width: `${progress || 100}%` }}/>
+            <div className="fill" style={{ width: `${progress || 100}%` }} />
           </div>
         </div>
       ))}
     </div>
-  )
+  );
 };
 
 export default Bars;

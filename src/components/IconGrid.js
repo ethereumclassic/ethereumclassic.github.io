@@ -1,7 +1,6 @@
-import React from "react";
+import React from 'react';
 
 const IconGrid = ({ icons }) => {
-
   return (
     <div className="icon-grid">
       {icons.map(({ icon, text }) => (
@@ -11,7 +10,7 @@ const IconGrid = ({ icons }) => {
         </div>
       ))}
     </div>
-  )
+  );
 };
 
 export default IconGrid;

@@ -6,7 +6,7 @@ author: Christian Seberino
 
 # Introduction
 
-![keys](https://i.imgsafe.org/a917ca51bc.jpg)
+![keys](./a917ca51bc.jpg)
 
 Interactions with the Ethereum Classic (ETC) system depend on special numbers referred to as *public keys* and *private keys*.  Private keys are used to transfer funds, install programs, and, run programs.  These numbers must be kept secret at all times.  Public keys are used to confirm knowledge of private keys *without* their disclosure.  Public keys also provide a means of identifying [accounts](https://steemit.com/etc/@cseberino/the-ethereum-classic-world-computer-accounts-and-states-explained).
 

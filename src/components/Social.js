@@ -1,8 +1,7 @@
-import React from "react";
-import SocialIcon from './SocialIcon';
+import React from 'react';
+import SocialIcon from './socialIcon';
 
 const Social = () => {
-
   return (
     <>
       <h3>Social</h3>
@@ -13,7 +12,7 @@ const Social = () => {
         <SocialIcon link="https://twitter.com/eth_classic" icon="twitter" text="Twitter" />
       </ul>
     </>
-  )
+  );
 };
 
 export default Social;

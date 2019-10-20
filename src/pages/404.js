@@ -1,5 +1,5 @@
-import React from "react"
+import React from 'react';
 
-const NotFound = () => <React.Fragment>Page not found!</React.Fragment>
+const NotFound = () => <>Page not found!</>;
 
-export default NotFound
+export default NotFound;

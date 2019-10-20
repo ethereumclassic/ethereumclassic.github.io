@@ -1,7 +1,26 @@
-import React from "react";
-import { useStaticQuery, graphql } from "gatsby";
-import LocaleContext from "../i18n/localeContext";
-import { defaultLocale } from "../i18n/config";
+import React from 'react';
+import { useStaticQuery, graphql } from 'gatsby';
+import LocaleContext from './localeContext';
+import { defaultLocale } from './config';
+
+const query = graphql`
+  query useTranslations {
+    rawData: allFile(filter: { fields: { isGlobal: { eq: true } } }) {
+      edges {
+        node {
+          fields {
+            locale
+            translations {
+              backToHome
+              hello
+              subline
+            }
+          }
+        }
+      }
+    }
+  }
+`;
 
 function useTranslations() {
   // Grab the locale (passed through context) from the Context Provider
@@ -19,38 +38,13 @@ function useTranslations() {
   // merge
   const { translations: d } = simplified.find(lang => lang.name === defaultLocale) || {};
   const { translations: t } = simplified.find(lang => lang.name === locale) || {};
-  const translations = { ...d }
+  const translations = { ...d };
   Object.keys(t || {}).forEach(k => {
     if (t[k] !== null) {
-      translations[k] = t[k]
+      translations[k] = t[k];
     }
-  })
+  });
   return translations;
 }
 
 export default useTranslations;
-
-const query = graphql`
-  query useTranslations {
-    rawData: allFile(filter: {
-      fields: {
-        isGlobal: {
-          eq: true
-        }
-      }
-    }) {
-      edges {
-        node {
-          fields {
-            locale
-            translations {
-              backToHome
-              hello
-              subline
-            }
-          }
-        }
-      }
-    }
-  }
-`;

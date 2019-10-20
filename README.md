@@ -1,12 +1,26 @@
-# ETC Web v2
+# ETC Web v2
 
-### Work in progress
+## Work in progress
 
-TODO
+### TODO
 
-- Fix 404 page
-- Copy education section
-- Finalize first page content
-- Copy etc summit information + old years
+- Migrate blog images; copy images from steemit / other sources
+- Create transparency page + merge with teams page
+- Etc summit section + old years, etc
+- Finalize first page content; including etc summit links/videos
+- Figure out the footer / mailing list
+- Styling tweaks (e.g. education)
+- React Helmet / SEO everywhere
+- Refactoring & code-level `TODO`s
+
+### vi18n
+
 - Create i18n translations & guide (make a script?)
-- React Helmet everywhere
+- Manage 404 for missing i18n
+- Make global i18ns hot-reloadable
+
+### vNext
+
+- Tina.js
+- Search content / blog post
+- Integrate the different education resources

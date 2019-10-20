@@ -1,7 +1,9 @@
-import React from "react";
-import { Link } from "gatsby";
-import { Location } from '@reach/router'
-import LocaleContext from "../i18n/localeContext";
+import React from 'react';
+import { Link } from 'gatsby';
+// eslint-disable-next-line import/no-extraneous-dependencies
+import { Location } from '@reach/router';
+
+import LocaleContext from '../i18n/localeContext';
 import { locales, defaultLocale } from '../i18n/config';
 
 const SelectLanguage = () => {
@@ -9,26 +11,25 @@ const SelectLanguage = () => {
   return (
     <Location>
       {({ location }) => (
-          <div className="select-language">
-            {Object.values(locales).map((localeConf) => {
-              // hide the selected language
-              if (locale === localeConf.path) {
-                return null;
-              }
-              const current = location.pathname.includes('/blog') ? '/blog' : location.pathname;
-              let link = current.replace(`/${locale}`, '');
-              if (defaultLocale !== localeConf.path) {
-                link = `/${localeConf.path}${link}`;
-              }
-              return (
-                <Link key={localeConf.path} to={link} hrefLang={localeConf.path}>
-                  {localeConf.flag}
-                </Link>
-              )
-            })}
-          </div>
-        )
-      }
+        <div className="select-language">
+          {Object.values(locales).map(localeConf => {
+            // hide the selected language
+            if (locale === localeConf.path) {
+              return null;
+            }
+            const current = location.pathname.includes('/blog') ? '/blog' : location.pathname;
+            let link = current.replace(`/${locale}`, '');
+            if (defaultLocale !== localeConf.path) {
+              link = `/${localeConf.path}${link}`;
+            }
+            return (
+              <Link key={localeConf.path} to={link} hrefLang={localeConf.path}>
+                {localeConf.flag}
+              </Link>
+            );
+          })}
+        </div>
+      )}
     </Location>
   );
 };

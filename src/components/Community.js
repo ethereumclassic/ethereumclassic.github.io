@@ -1,8 +1,7 @@
-import React from "react";
-import ButtonLink from './ButtonLink';
+import React from 'react';
+import ButtonLink from './buttonLink';
 
 const Community = () => {
-
   return (
     <div className="community">
       <h3>Community</h3>
@@ -15,7 +14,7 @@ const Community = () => {
       <ButtonLink link="http://www.ethereumclassicitalia.org/" text="ETC Italia" />
       <ButtonLink link="http://ethereumclassic.cn" text="ETC China" />
     </div>
-  )
+  );
 };
 
 export default Community;

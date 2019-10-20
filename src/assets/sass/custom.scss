@@ -1,9 +1,5 @@
-#menu {
-  position: fixed;
-  top: 0;
-  right: 0;
-  z-index: 10;
-}
+
+// TODO refactor
 
 #wrapper.page {
   #layout-content {
@@ -54,11 +50,20 @@ a .fas {
   margin: 0 0.5em;
 }
 
-/* Show Hamburger */
+// the dropdown menu
 #page-nav {
   position: relative;
   label {
     display: inline-block;
+    margin: 10px 10px 5px 5px;
+    line-height: 40px;
+    cursor: pointer;
+    background: rgba(0,0,0,0.1);
+    font-size: 20px;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    padding: 0px 6px 0px 10px;
   }
   .buttons {
     display: none;
@@ -77,7 +82,12 @@ a .fas {
   }
 }
 
+// language select and dropdown menu
 #menu {
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 10;
   user-select: none;
   > div, > nav {
     display: inline-block;
@@ -85,19 +95,11 @@ a .fas {
   a {
     border-bottom: 0;
   }
-  .select-language a, label {
+  .select-language a {
     line-height: 20px;
     padding: 0.2em;
     margin: 0;
     vertical-align: middle;
-  }
-  label {
-    margin-right: 10px;
-    cursor: pointer;
-    background: rgba(0,0,0,0.1);
-    width: 2em;
-    height: 2em;
-    text-align: center;
   }
 }
 
@@ -240,8 +242,8 @@ a .fas {
   }
   h4, h3 {
     line-height: 1.2em;
+    margin-bottom: 0.4em;
     a { border-bottom: 0; }
-    margin: 0;
     text-transform: inherit;
     small { opacity: 0.5; }
   }
@@ -348,8 +350,6 @@ a .fas {
     }
   }
 }
-
-
 
 .intro .content .overlay {
   position: absolute;

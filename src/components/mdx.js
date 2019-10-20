@@ -1,18 +1,15 @@
-import React from "react"
-import { MDXRenderer } from "gatsby-plugin-mdx"
-import MdxLink from "./mdxLink"
+import React from 'react';
+import { MDXRenderer } from 'gatsby-plugin-mdx';
+import { MDXProvider } from '@mdx-js/react';
+
+import MdxLink from './mdxLink';
 
 const Mdx = ({ code, components }) => {
   return (
-    <MDXRenderer
-      components={{
-        a: MdxLink,
-        ...components
-      }}
-    >
-      {code}
-    </MDXRenderer>
-  )
-}
+    <MDXProvider components={{ a: MdxLink, ...components }}>
+      <MDXRenderer>{code}</MDXRenderer>
+    </MDXProvider>
+  );
+};
 
-export default Mdx
+export default Mdx;

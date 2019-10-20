@@ -1,13 +1,9 @@
-import React from "react";
-import LocalizedLink from "./LocalizedLink";
+import React from 'react';
+import LocalizedLink from './localizedLink';
 
-const NavigationButton = ({ to, text, onClick}) => {
+const NavigationButton = ({ to, text }) => {
   return (
-    <LocalizedLink
-      className="button-link"
-      aria-label={text}
-      to={to}
-    >
+    <LocalizedLink className="button-link" aria-label={text} to={to}>
       {text}
     </LocalizedLink>
   );
