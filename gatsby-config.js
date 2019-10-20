@@ -7,7 +7,12 @@ module.exports = {
       }
     },
     'gatsby-plugin-layout',
-    'gatsby-mdx',
+    {
+      resolve: `gatsby-plugin-mdx`,
+      options: {
+        extensions: [`.mdx`, `.md`],
+      },
+    },
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {

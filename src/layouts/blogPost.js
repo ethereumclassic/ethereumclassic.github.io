@@ -11,7 +11,7 @@ const BlogPost = ({ data: { mdx } }) => (
       <small>{mdx.frontmatter.author}</small>
     </h4>
     <h1>{mdx.frontmatter.title}</h1>
-    <Mdx code={mdx.code.body} />
+    <Mdx code={mdx.body} />
   </div>
   <LocalizedLink to="/blog" className="button-link" >
     <i className="fas fa-angle-left" />
@@ -28,13 +28,11 @@ export const query = graphql`
       frontmatter: { title: { eq: $title } }
       fields: { locale: { eq: $locale } }
     ) {
+      body
       frontmatter {
         title
         date
         author
-      }
-      code {
-        body
       }
     }
   }

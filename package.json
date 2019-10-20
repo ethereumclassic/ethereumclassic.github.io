@@ -10,14 +10,15 @@
     "start": "npm run develop"
   },
   "dependencies": {
-    "@mdx-js/mdx": "^0.20.3",
+    "@mdx-js/mdx": "^1.5.1",
+    "@mdx-js/react": "^1.5.1",
     "@mdx-js/tag": "^0.20.3",
     "eslint-config-react-app": "^5.0.2",
     "gatsby": "^2.3.3",
-    "gatsby-mdx": "^0.4.4",
     "gatsby-plugin-favicon": "^3.1.6",
     "gatsby-plugin-layout": "^1.1.6",
     "gatsby-plugin-manifest": "^2.2.20",
+    "gatsby-plugin-mdx": "^1.0.52",
     "gatsby-plugin-offline": "^3.0.11",
     "gatsby-plugin-react-helmet": "^3.1.10",
     "gatsby-plugin-sass": "^2.1.17",
