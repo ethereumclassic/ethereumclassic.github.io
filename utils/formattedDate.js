@@ -14,6 +14,7 @@ const months = [
 ]
 
 export default function formattedDate (date) {
-  const d = new Date(date)
+  var parts = date.match(/(\d+)/g);
+  const d = new Date(parts[0], parts[1]-1, parts[2]); // months are 0-based
   return `${months[d.getMonth()]} ${d.getDate()}, ${d.getFullYear()}`
 }
