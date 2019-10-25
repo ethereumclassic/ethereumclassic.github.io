@@ -4,14 +4,18 @@
 
 ### TODO
 
-- Migrate blog images; copy images from steemit / other sources
-- Create transparency page + merge with teams page
-- Etc summit section + old years, etc
-- Finalize first page content; including etc summit links/videos
-- Figure out the footer / mailing list
-- Styling tweaks (e.g. education)
-- React Helmet / SEO everywhere
-- Refactoring & code-level `TODO`s
+- Content
+  - Migrate blog images; copy images from steemit / other sources
+  - Create ETC summit section + old years, etc
+  - Structure all pages for i18n usage (powered by, etc...)
+  - Finalize first page content
+    - Link to different pages from the front page
+    - ETC summit links/videos
+- Misc
+  - Figure out the footer / mailing list
+  - Styling tweaks (e.g. education)
+  - React Helmet / SEO everywhere
+  - Refactoring & code-level `TODO`s
 
 ### vi18n
 
@@ -22,5 +26,6 @@
 ### vNext
 
 - Tina.js
+- Make the powered by page more like original SoTD, use GraphQL
 - Search content / blog post
 - Integrate the different education resources

@@ -169,8 +169,9 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
     if (!absolutePath) {
       return;
     }
-    const { slug, name, ext, lang } = parsePath(absolutePath);
+    const { slug, name, ext: extRaw, lang } = parsePath(absolutePath);
     // return the json itself OR the MDX generated code
+    const ext = extRaw === ('md' || 'mdx') ? 'mdx' : extRaw;
     const localeData = ext === 'json' ? require(absolutePath) : data.node.body;
     resolvedLocales[slug] = {
       ...resolvedLocales[slug],

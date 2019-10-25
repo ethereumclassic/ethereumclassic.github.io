@@ -1,6 +1,6 @@
 //  TODO use i18n
 import React from 'react';
-import Cards from '~components/cards';
+import Grid from '~components/grid';
 import Card from '~components/card';
 
 const PoweredByEtc = () => {
@@ -15,7 +15,7 @@ const PoweredByEtc = () => {
         <span className="key red">Awaiting Deployment</span>
       </div>
       <br />
-      <Cards columns="50% 50%" className="center">
+      <Grid>
         <Card className="green" link="https://originalmy.com/" title="OriginalMy">
           OriginalMy provides a fully automated platform to register and verify the authenticity of
           digital documents, contracts, and identities. They are now expanding into stock holder
@@ -102,7 +102,7 @@ const PoweredByEtc = () => {
           Augmented Reality emojis where users can create and actually own the copyright to their
           emojis. A first in the Cryptocurrency space. Ownership is recorded on the ETC blockchain.
         </Card>
-      </Cards>
+      </Grid>
     </>
   );
 };

@@ -1,6 +1,6 @@
 // TODO replace with i18n
 import React from 'react';
-import Cards from '~components/cards';
+import Grid from '~components/grid';
 import Card from '~components/card';
 import LinkGroup from '~components/linkGroup';
 
@@ -9,7 +9,7 @@ const Reseources = () => {
     <>
       <div className="resources">
         <h2>Community Resources</h2>
-        <Cards columns="50% 50%">
+        <Grid>
           <Card title="Github Repos">
             <LinkGroup
               items={[
@@ -96,9 +96,9 @@ const Reseources = () => {
               ]}
             />
           </Card>
-        </Cards>
+        </Grid>
         <h2>Technical Resources</h2>
-        <Cards columns="50% 50%">
+        <Grid>
           <Card title="Nodes & Network Info">
             Run an ETC node and help support the network by using the software below.
             <LinkGroup
@@ -158,9 +158,9 @@ const Reseources = () => {
               ]}
             />
           </Card>
-        </Cards>
+        </Grid>
         <h2>Services</h2>
-        <Cards columns="50% 50%">
+        <Grid>
           <Card title="Wallets">
             Store and send your ETC using one of the wallets below. Hardware wallets are the most
             secure; please use them. Software wallets with an asterisk (*) are closed source.
@@ -410,7 +410,7 @@ const Reseources = () => {
               ]}
             />
           </Card>
-        </Cards>
+        </Grid>
       </div>
     </>
   );

@@ -1,6 +1,8 @@
 
 // TODO refactor
 
+$softShadow: 0 0.5em 1em rgba(0,0,0,.1); 
+
 #wrapper.page {
   #layout-content {
     background: white;
@@ -46,6 +48,7 @@
   }
 }
 
+// font awesome icon within buttons / links
 a .fas {
   margin: 0 0.5em;
 }
@@ -131,35 +134,30 @@ a .fas {
   }
 }
 
-.icon-grid {
+.grid {
   display: grid;
-  grid-auto-columns: 1fr;
-  grid-auto-flow: column;
+  max-width: 100%;
+  grid-gap: 2em;
+  margin-bottom: 2em;
   @include breakpoint('<=small') {
-    display: block;
-  }
-  .item {
-    padding: 2em;
-  }
-
-  .icon-item {
-    font-size: 4em;
-    // color: white;
-    // color: _palette(accent);
-    color: black;
-    // background: rgba(255,255,255,0.6);
-    // background-image: radial-gradient(circle closest-side, _palette(), rgba(255,255,255,0));
-    height: 1.8em;
-    width: 1.8em;
-    background: _palette(accent);
-    border-radius: 100%;
-    text-align: center;
-    vertical-align: middle;
-    line-height: 1.8em;
-    margin-bottom: 0.5em;
+    grid-template-columns: 1fr !important;
   }
 }
 
+.icon-grid .icon-item {
+  font-size: 4em;
+  color: black;
+  height: 1.8em;
+  width: 1.8em;
+  background: _palette(accent);
+  border-radius: 100%;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 1.8em;
+  margin-bottom: 0.5em;
+}
+
+// TODO fix this...
 .intro {
   position: relative;
   img.logo {
@@ -199,6 +197,7 @@ a .fas {
     }
   }
 }
+
 
 #wrapper.page {
   .header {
@@ -256,53 +255,35 @@ a .fas {
   }
 }
 
-.cards {
-  display: grid;
-  grid-auto-columns: 1fr;
-  grid-gap: 2em;
-  margin-bottom: 4rem;
-  @include breakpoint('<=small') {
-    display: block;
-    margin-bottom: 2em;
-  }
-  > a {
-    border-bottom: none;
-  }
-  a .card:hover{
+.card {
+  h4 {
     background: _palette(accent);
+    padding: 1em;
+    text-align: center;
   }
-  a .card.orange:hover {
+  &.orange h4 {
     background: _palette(orange-col);
   }
-  a .card.red:hover {
+  &.red h4 {
     background: _palette(red-col);
   }
-  &.center {
-    h4 {
-      text-align: center;
-    }
+  .content {
+    padding: 0 2em;
   }
-  .card {
-    &.orange{
-      h4 {
-        background: _palette(orange-col);
-      }
-    }
-    &.red{
-      h4 {
-        background: _palette(red-col);
-      }
-    }
-    h4 {
-      background: _palette(accent);
-      padding: 1em;
-    }
-    .content {
-      padding: 0 2em;
-    }
-    padding-bottom: 2em;
-    background: white;
-    box-shadow: 0 0.5em 1em rgba(0,0,0,.1)
+  padding-bottom: 2em;
+  background: white;
+  box-shadow: $softShadow;
+}
+a.card {
+  border-bottom: none;
+  &:hover{
+    background: _palette(accent);
+  }
+  &.orange:hover {
+    background: _palette(orange-col);
+  }
+  &.red:hover {
+    background: _palette(red-col);
   }
 }
 
@@ -325,11 +306,6 @@ a .fas {
   }
 }
 
-.resources {
-  .card h4 {
-    text-align: center;
-  }
-}
 .link-group {
   margin-top: 2em;
 }
@@ -354,4 +330,44 @@ a .fas {
 .intro .content .overlay {
   position: absolute;
   z-index: 1;
+}
+
+.team-member {
+  h3, h4, p {
+    margin: 0;
+  }
+  h4 {
+    margin-bottom: 0.2em;
+    // font-size: 0.4em;
+    text-transform: none;
+  }
+  p { 
+    font-size: 0.9em;
+    line-height: 1.5em;
+  }
+  .image img { 
+    max-width: 256px; 
+    width: 100%;
+    box-shadow: $softShadow;
+  }
+  .icons {
+    position: absolute;
+    margin-top: -3.2em;
+    a.icon {
+      font-size: 0.8em;
+      color: white;
+      background-color: rgba(0,0,0,0.5);
+      &:hover {
+        background-color: rgba(255,255,255,.6);
+        color: black;
+      }
+    }
+  }
+  @include breakpoint('<=small') {
+    & {
+      display: grid;
+      grid-template-columns: 1fr 2fr;
+      grid-gap: 1em;
+    }
+  }
 }

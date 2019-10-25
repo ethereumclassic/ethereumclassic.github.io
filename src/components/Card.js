@@ -2,20 +2,14 @@ import React from 'react';
 
 const Card = ({ title, children, span, link, className }) => {
   const style = span ? { gridColumn: `span ${span}` } : {};
-  const card = (
-    <div className={`card ${className || ''}`} style={style}>
+  const Comp = link ? 'a' : 'div';
+  const linkArgs = link ? { href: link, target: '_blank', rel: 'noopener noreferrer' } : {};
+  return (
+    <Comp className={`card item ${className || ''}`} style={style} {...linkArgs}>
       {title && <h4>{title}</h4>}
       <div className="content">{children}</div>
-    </div>
+    </Comp>
   );
-  if (link) {
-    return (
-      <a href={link} target="_blank" rel="noopener noreferrer">
-        {card}
-      </a>
-    );
-  }
-  return card;
 };
 
 export default Card;
