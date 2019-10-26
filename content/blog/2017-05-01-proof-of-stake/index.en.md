@@ -4,7 +4,7 @@ date: 2017-05-01
 author: Christian Seberino
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*TCSJ3Q0BMHx5tF8E.jpg)
+![](./0*TCSJ3Q0BMHx5tF8E.jpg)
 
 [Proof of
 work](https://steemit.com/etc/@cseberino/let-s-admit-blockchains-are-weird-an-introduction-to-the-strangeness)
@@ -15,7 +15,7 @@ than *threatening* it!
 
 # Proof Of Stake
 
-![](https://cdn-images-1.medium.com/max/800/0*mf8PsX4EY9YMwj61.jpg)
+![](./0*mf8PsX4EY9YMwj61.jpg)
 
 In proof of work systems, volunteers assist in the creation and validation of
 new
@@ -35,7 +35,7 @@ confiscate escrowed funds if volunteers simultaneously work on multiple chains.
 
 ### Benefits
 
-![](https://cdn-images-1.medium.com/max/800/0*o3cDS0DXPCsQa75m.jpg)
+![](./0*o3cDS0DXPCsQa75m.jpg)
 
 Proof of stake systems can *strengthen* proof of work systems rather than
 replacing them. They can simply *add* additional steps to the process of
@@ -67,7 +67,7 @@ Such attacks might not be possible with proof of stake system additions.
 
 ### Concerns
 
-![](https://cdn-images-1.medium.com/max/800/0*O_ngdM_tp4uzOFvA.jpg)
+![](./0*O_ngdM_tp4uzOFvA.jpg)
 
 It is possible that vulnerabilities might be found in proof of stake systems.
 Although combining proof of work and proof of stake systems would likely be
@@ -77,7 +77,7 @@ they also increase the chances of denying yourself access.
 
 # Conclusion
 
-![](https://cdn-images-1.medium.com/max/800/0*DOkdlqd73UHBDWZj.png)
+![](./0*DOkdlqd73UHBDWZj.png)
 
 Proof of stake systems do not necessarily have to eliminate proof of work
 systems. Blockchain systems can simultaneously juggle security *and* innovation.
@@ -86,11 +86,11 @@ systems. Blockchain systems can simultaneously juggle security *and* innovation.
 
 You can contact me by clicking any of these icons:
 
-![](https://cdn-images-1.medium.com/max/800/0*cB1Yj6Xct58IQ8vE.png)
+![](./0*cB1Yj6Xct58IQ8vE.png)
 
-![](https://cdn-images-1.medium.com/max/800/0*ofPrim7g7Z4s8MyC.png)
+![](./0*ofPrim7g7Z4s8MyC.png)
 
-![](https://cdn-images-1.medium.com/max/800/0*pInE9rfjbCmZujdP.png)
+![](./0*pInE9rfjbCmZujdP.png)
 
 # Acknowledgments
 
@@ -98,7 +98,7 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 # License
 
-![](https://cdn-images-1.medium.com/max/800/0*GohSlN8oSGd-FcXX.png)
+![](./0*GohSlN8oSGd-FcXX.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0
 International License.

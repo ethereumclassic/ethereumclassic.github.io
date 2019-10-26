@@ -20,7 +20,7 @@ transaction fee (half-cent to 1-cent transactions).
 With ETC sidechains coming out later this year I think we’ll see ETC keep up
 with the increased usage Circle Pay will bring.
 
-![](https://cdn-images-1.medium.com/max/1200/1*iuiGN6WCRJnuzKN4KTufxg.png)
+![](./1*iuiGN6WCRJnuzKN4KTufxg.png)
 Seems Circle chose ETC over XRP.
 
 #### Website Redesign

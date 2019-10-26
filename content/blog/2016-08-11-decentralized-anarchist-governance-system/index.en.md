@@ -6,7 +6,7 @@ author: ProphetDaniel
 
 Methodology for reaching improved governance of decentralized anarchist organizations
 
-![](http://insidebitcoins.com/wp-content/uploads/2014/10/CryptoAnarchy-Logo.jpg)
+![](./CryptoAnarchy-Logo.jpg)
 
 Figure 1 - Source [Inside Bitcoins](http://insidebitcoins.com/)
 
@@ -15,7 +15,7 @@ Figure 1 - Source [Inside Bitcoins](http://insidebitcoins.com/)
 
 One of the main problems to be addressed by a decentralized anarchist organization of individuals is the intelligent allocation of resources. As each individual is motivated to propose organizational improvements, for each opportunity the organization has, several proposals might be sent for evaluation of the decision taking board. It's probable that not all the proposals made are going to be funded because resources (matter, time, space, intelligent agents) are limited. So methods for selecting most fit proposals are often utilized. Here I present a method analogous to the genetic algorithm for selecting most fit proposals to be funded within an anarchist organization.
 
-![](https://miletrackgps.com/wp-content/uploads/2014/08/dna.jpg)
+![](./dna.jpg)
 
 Figure 2 - Source [Mile Track GPS](https://miletrackgps.com/)
 
@@ -27,7 +27,7 @@ A population of proposals to a problem is evolved toward better proposals. The e
 
 One way to effectively measure the fitness of proposals is by a simple democracy voting process. The problem with this method is that receiving bad votes can lead to the tiranny of the majority.
 
-![](http://t1.ftcdn.net/jpg/00/48/00/52/400_F_48005278_ll3uog4WdeW3maZ11URbnw3wXBsr9xUl.jpg)
+![](./400_F_48005278_ll3uog4WdeW3maZ11URbnw3wXBsr9xUl.jpg)
 
 Figure 3 - Source [FTCDN](http://t1.ftcdn.net/)
 
@@ -38,7 +38,7 @@ If somehow a method for measuring the quality of the votes was available, the [t
 
 The quality of the votes can be estimated with the conscience level each voter has.
 
-![](http://www.mytechanalyst.net/wp-content/uploads/2014/02/CustomerSatChecklist-Depositphotos_4351613_xs.jpg)
+![](./CustomerSatChecklist-Depositphotos_4351613_xs.jpg)
 
 Figure 4 - Source [My Tech Analyst](http://www.mytechanalyst.net/)
 
@@ -50,7 +50,7 @@ To better illustrate the conscience level parameter I'll give a classical exampl
 
 >The tragedy of the commons is an economic theory of a situation within a shared-resource system where individual users acting independently according to their own self-interest behave contrary to the common good of all users by depleting that resource through their collective action.
 
-![](http://i.imgur.com/I6EL2xy.jpg)
+![](./I6EL2xy.jpg)
 Figure 5 - Source [Jborden](http://www.jborden.com/)
 
 
@@ -64,7 +64,7 @@ In Star Wars the consciousness level would be something like the [Midichlorian c
 
 He became Darth Vader and started acting evilly, in the same way highly conscious individuals often do. This indicates that consciousness cannot be the only factor for and individual to receive voting power. Instead evilness has also to be considered.Recently BBC published a psychological test called "[How dark is your personality](http://www.bbc.com/future/story/20151123-how-dark-is-your-personality)" to measure evilness.
 
-![](https://secure.static.tumblr.com/73d934c53ee607bed6434d88063fdccf/iotazsv/MlJnhmz4c/tumblr_static_tumblr_static_9et8m7056cws88wc04wsgcssk_640.jpg)
+![](./tumblr_static_tumblr_static_9et8m7056cws88wc04wsgcssk_640.jpg)
 
 Figure 6 - Source [Tumblr](https://www.tumblr.com/)
 
@@ -82,7 +82,7 @@ These courses are in fact relevant competences to the subject being voted, so an
 
 ### Measuring evilness of an individual
 
-![](http://i.imgur.com/36tTiow.jpg)
+![](./36tTiow.jpg)
 
 Figure 6 - Source the author
 

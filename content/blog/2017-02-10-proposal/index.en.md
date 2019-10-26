@@ -6,7 +6,7 @@ author: Christian Seberino
 
 # Proposal
 
-![ETC logo](http://i.imgsafe.org/aae24a1575.png)
+![ETC logo](./aae24a1575.png)
 
 Here are some proposed Ethereum Classic (ETC) conventions to improve communication and avoid expensive mistakes:
 
@@ -18,7 +18,7 @@ Here are some proposed Ethereum Classic (ETC) conventions to improve communicati
 
 # Motivation
 
-![confusion](http://i.imgsafe.org/aadb24962e.jpg)
+![confusion](./aadb24962e.jpg)
 
 The term "ether" is error prone for beginners as it can be confused with the Ethereum (ETH) currency.  This can lead to expensive mistakes on cryptocurrency exchanges.  Furthermore, the ETH currency terms "wei", "szabo" and "finney" are also confusing for beginners.  The inventors of blockchain technology deserve to be honored.  However, there are better ways to do that than to complicate currency transactions.  Also, using the same consistent logo will improve marketing efforts.  Finally, these conventions are another way to positively distinguish ETC from ETH and improve investor confidence.
 
@@ -26,7 +26,7 @@ The term "ether" is error prone for beginners as it can be confused with the Eth
 
 The proposed conventions are based on the *current* standard currency code, "ETC", and the *de facto* standard logo on the ETC website.  It is only necessary to continue using them and avoid other choices whenever possible.  The SI or metric prefixes are already well known throughout the entire world and will be immediately recognized without any effort needed:
 
-![SI prefixes](http://i.imgsafe.org/ab37b78509.jpg)
+![SI prefixes](./ab37b78509.jpg)
 
 The choice that will likely get used the most, in addition to ETC, is aETC since many objects in software denote funds using this smallest possible division of currency.
 
@@ -34,7 +34,7 @@ The choice that will likely get used the most, in addition to ETC, is aETC since
 
 You can contact me by clicking any of these icons:
 
-[![twitter](http://i.imgsafe.org/fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](http://i.imgsafe.org/fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](http://i.imgsafe.org/fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
+[![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
 # Acknowledgements
 
@@ -42,6 +42,6 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 # License
 
-![license](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![license](./88x31.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0 International License.

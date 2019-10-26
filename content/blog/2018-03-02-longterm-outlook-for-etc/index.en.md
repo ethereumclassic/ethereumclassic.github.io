@@ -13,7 +13,7 @@ but they’re not seeing the forest for the trees. Even worse, some have dubbed
 ETC a shitcoin, as if we’ve existed this long to just be another pump and dump.
 We haven’t, we aren’t, and we won’t be if I have anything to say about it.
 
-![](https://cdn-images-1.medium.com/max/1200/1*ibcdLc3lFgc8lYEsWIWzBQ.jpeg)
+![](./1*ibcdLc3lFgc8lYEsWIWzBQ.jpeg)
 
 This article sets out to give some insight into the advancements ETC has made
 and the bright roadmap it has for its future.

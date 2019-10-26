@@ -4,7 +4,7 @@ date: 2016-07-11
 author: Arvicco
 ---
 
-![Decentralize!](https://cdn-images-1.medium.com/max/1000/1*gMu8qJtr2NeEuuGzvsfcnw.png)
+![Decentralize!](./1*gMu8qJtr2NeEuuGzvsfcnw.png)
 
 Blockchains are going to rule the world, providing a mechanism for scaling
 social and economic cooperation to an unprecedented level — a truly global

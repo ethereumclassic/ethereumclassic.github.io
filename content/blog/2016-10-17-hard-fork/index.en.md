@@ -4,7 +4,7 @@ date: 2016-10-17
 author: Arvicco
 ---
 
-![Hard fork imminent](http://media.coindesk.com/uploads/2015/07/Screen-Shot-2015-07-06-at-2.54.56-PM.png)
+![Hard fork imminent](./Screen-Shot-2015-07-06-at-2.54.56-PM.png)
 
 During the last week, both Ethereum and Ethereum Classic were hit by a series of attacks that took advantage of inadequately low gas cost for certain computational operations. The effect of this attack was effectively making both networks hardly usable: blockchain sync becoming extremely slow and halting unpredictably, valid transactions taking extremely long time to make it into a block, and full nodes (both parity and geth) crashing due to difficulties processing spam transactions bloat.
 

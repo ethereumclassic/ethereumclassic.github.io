@@ -6,29 +6,29 @@ author: Christian Seberino
 
 # Introduction
 
-![ATM](http://i.imgsafe.org/54c0d6403d.jpg)
+![ATM](./54c0d6403d.jpg)
 
 Smart contracts, as defined by Nick Szabo, are computer systems that manage assets. Assets include money, votes, passports and reputation. Examples of smart contracts include supermarket checkout systems and automated teller machines.
 
 # Actions & Agents
 
-![washing machine](http://i.imgsafe.org/5496a65336.jpg)
+![washing machine](./5496a65336.jpg)
 
 Smart contracts can perform *actions*.  Automobile insurance plans might adjust rates hourly based on the weather or location.   Washing machines might order replacement parts when needed.
 
-![handshake](http://i.imgsafe.org/5496970cb0.jpg)
+![handshake](./5496970cb0.jpg)
 
 Because smart contracts often operate autonomously, it might sometimes be more appropriate to refer to them as *agents* (autonomous software components).  On the other hand, the original term emphasizes that they can manage many legal and financial *agreements*.  An example of a smart contract that managed a financial agreement would be a television that stopped working when the loan payments were in arrears.
 
 # Blockchains
 
-![blockchain](http://i.imgsafe.org/549684e929.jpg)
+![blockchain](./549684e929.jpg)
 
 Blockchain systems, such as Ethereum and Ethereum Classic, are ideal platforms for smart contracts (agents) because of their security, reliability and censorship resistance.
 
 # Improved Communication
 
-![law](http://i.imgsafe.org/54969d9a9b.jpg)
+![law](./54969d9a9b.jpg)
 
 A major benefit of smart contracts is the improved *communication*.  Uncertainties in legal and financial agreements such as confusing legalese and unintended loopholes incur huge costs.  In contrast, smart contracts are *deterministic* and formal verification methods can help avoid mistakes.
 
@@ -46,7 +46,7 @@ Smart contracts can effectively manage assets removing a lot of the confusion of
 
 You can contact me by clicking any of these icons:
 
-[![twitter](http://i.imgsafe.org/fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](http://i.imgsafe.org/fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](http://i.imgsafe.org/fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
+[![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
 # Acknowledgements
 
@@ -54,6 +54,6 @@ I would like to thank Gavin Wood for his informative papers and talks that have 
 
 # License
 
-![license](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![license](./88x31.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0 International License.

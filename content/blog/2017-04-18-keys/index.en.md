@@ -12,7 +12,7 @@ Interactions with the Ethereum Classic (ETC) system depend on special numbers re
 
 # Details
 
-![details](https://i.imgsafe.org/a9178af83f.jpg)
+![details](./a9178af83f.jpg)
 
 Private keys are 32 byte numbers between 1 and
 
@@ -109,7 +109,7 @@ The reason for this convoluted process is so that private keys *cannot* be deriv
 
 # Miscellany
 
-![miscellany](https://i.imgsafe.org/a91bd90f31.jpg)
+![miscellany](./a91bd90f31.jpg)
 
 ### Addresses
 
@@ -147,7 +147,7 @@ Programs, or [smart contracts](https://steemit.com/etc/@cseberino/the-skinny-on-
 
 # Example
 
-![example](https://i.imgsafe.org/aa6b2d4614.jpg)
+![example](./aa6b2d4614.jpg)
 
 Here is a slightly edited session, on a Linux computer, that calculates a public key and address with regards to a random private key.  It uses the aforementioned scripts saved in files called etc_pub_key and etc_address respectively:
 
@@ -170,7 +170,7 @@ Here is a slightly edited session, on a Linux computer, that calculates a public
 
 # Conclusion
 
-![door](https://i.imgsafe.org/aa0f86d5b4.jpg)
+![door](./aa0f86d5b4.jpg)
 
 Public and private keys are widely used in ETC and in other technologies.  Therefore, I hope this has been enlightening.
 
@@ -178,7 +178,7 @@ Public and private keys are widely used in ETC and in other technologies.  There
 
 You can contact me by clicking any of these icons:
 
-[![twitter](https://i.imgsafe.org/fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](https://i.imgsafe.org/fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](https://i.imgsafe.org/fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
+[![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
 # Acknowledgements
 
@@ -186,6 +186,6 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 # License
 
-![license](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![license](./88x31.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0 International License.

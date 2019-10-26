@@ -4,7 +4,7 @@ date: 2017-01-06
 author: Prophet Daniel
 ---
 
-![Sustainable Development Goals!](http://i.imgur.com/KZNeqAF.jpg)
+![Sustainable Development Goals!](./KZNeqAF.jpg)
 
 > Alas, our technology has marched ahead of our spiritual and social evolution, making us, frankly, a dangerous people. 
 
@@ -32,7 +32,7 @@ In other words there's increased interest and funding available to initiatives a
 Tomorrow, operating through the UN Innovation Centre, the [Blockchain Alliance for Good](http://www.bisgit.org/) launches its Fintech development lab to deliver the United Nations **S**ustainable, **D**evelopment **G**oals.
 In a nutshell, the effort brings social innovation through the power of the blockchain to truly engage and empower communities to achieve structural and sustainable change.
 
-![SDG infographic](https://cdn-images-1.medium.com/max/840/1*t2YXqyCJwrWiA4vN59raog.jpeg)
+![SDG infographic](./1*t2YXqyCJwrWiA4vN59raog.jpeg)
 
 
 > This is a very exciting collaboration of leading global institutions to accelerate the achievement of the Sustainable Development Goals
@@ -68,4 +68,4 @@ Let's participate identifying opportunities in this regard and taking action whe
 
 **Let's make sure our spiritual and social evolution will march together with technology!**
 
-![Take Action!](http://i.imgur.com/mO3JqJZ.jpg)
+![Take Action!](./mO3JqJZ.jpg)

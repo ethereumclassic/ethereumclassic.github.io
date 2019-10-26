@@ -4,7 +4,7 @@ date: 2017-06-17
 author: Christian Seberino
 ---
 
-![eye](https://cdn-images-1.medium.com/max/800/1*8jnsfnzwuPJ6FEs9wJE9XA.jpeg)
+![eye](./1*8jnsfnzwuPJ6FEs9wJE9XA.jpeg)
 
 Privacy is the power to control the communication of personal information.
 Recent news may discourage some people involved with Ethereum Classic (ETC) from
@@ -72,11 +72,11 @@ Ethereum Classic community is doing a public service in promoting it.
 
 You can contact me by clicking any of these icons:
 
-![Twitter](https://cdn-images-1.medium.com/max/800/0*5dRXFJS3OOOa-JMA.png)
+![Twitter](./0*5dRXFJS3OOOa-JMA.png)
 
-![Facebook](https://cdn-images-1.medium.com/max/800/0*Gw1MixydNP99PwEZ.png)
+![Facebook](./0*Gw1MixydNP99PwEZ.png)
 
-![LinkedIn](https://cdn-images-1.medium.com/max/800/0*aih0AaeN_3NfF1aX.png)
+![LinkedIn](./0*aih0AaeN_3NfF1aX.png)
 
 # Acknowledgements
 
@@ -84,7 +84,7 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 # License
 
-![](https://cdn-images-1.medium.com/max/800/0*RM878FeP_8eediXE.png)
+![](./0*RM878FeP_8eediXE.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0
 International License.

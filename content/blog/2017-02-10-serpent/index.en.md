@@ -4,13 +4,13 @@ date: 2017-02-10
 author: Christian Seberino
 ---
 
-![snake](https://i.imgsafe.org/c57c602990.jpg)
+![snake](./c57c602990.jpg)
 
 Serpent is a [smart contract](https://steemit.com/etc/@cseberino/the-skinny-on-smart-contracts-an-introduction-and-why-you-should-care) language based on Python. Python is arguably the best language for beginning programmers, and, the most productive language for serious developers.  Serpent is *currently* being used for complex enterprise projects.    It was originally developed for Ethereum.    I will describe how to get started with it on the Ethereum Classic (ETC) system.
 
 # Installing
 
-![Python](https://i.imgsafe.org/c402090113.jpg)
+![Python](./c402090113.jpg)
 
 An easy way to install Serpent, on most platforms, is with the Pip package management system.  To install Serpent, first install Python 2 and Pip if necessary.  Then, run the following command:
 
@@ -26,7 +26,7 @@ pip install ethereum
 
 # Programming
 
-![programming](https://i.imgsafe.org/c401779163.jpg)
+![programming](./c401779163.jpg)
 
 To create smart contracts, simply create files containing Serpent functions.  Note that some Python features are modified or missing in Serpent.  For example, integers are 32 bytes, and, strings of 32 bytes or less are treated as integers.  See Python and Serpent documentation for further details.  Here are two examples of functions:
 
@@ -124,7 +124,7 @@ The call data is an encoding of all the information needed to execute a smart co
 
 # Deploying
 
-![soldiers](https://i.imgsafe.org/c3fe5490d9.jpg)
+![soldiers](./c3fe5490d9.jpg)
 
 Deploying smart contracts requires a *funded* ETC account.  There are many ways to obtain some ETC currency.  For example, it can be purchased on the [Poloniex exchange](https://poloniex.com) and transferred to any account.  Deployment will also require access to an [ETC node](https://steemit.com/etc/@cseberino/how-to-easily-set-up-an-amazing-ethereum-classic-node-and-talk-to-it-with-your-own-code).  To set up a node, I recommend the [Parity](https://ethcore.io/parity.html) implementation.
 
@@ -289,7 +289,7 @@ b'It works!\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\
 
 # Conclusion
 
-![Steve Jobs](https://i.imgsafe.org/d2ca2d17d2.jpg)
+![Steve Jobs](./d2ca2d17d2.jpg)
 
 Serpent is an excellent way to get started developing ETC smart contracts.  Now go make a [dent in the universe](https://en.wikipedia.org/wiki/Steve_Jobs_(book)) with it!
 
@@ -297,7 +297,7 @@ Serpent is an excellent way to get started developing ETC smart contracts.  Now 
 
 You can contact me by clicking any of these icons:
 
-[![twitter](https://i.imgsafe.org/fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](https://i.imgsafe.org/fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](https://i.imgsafe.org/fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
+[![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
 # Acknowledgements
 
@@ -305,6 +305,6 @@ I would like to thank Tomasz Drwięga for his help.  I would also like to thank 
 
 # License
 
-![license](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![license](./88x31.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0 International License.

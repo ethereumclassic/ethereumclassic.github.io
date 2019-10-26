@@ -3,7 +3,7 @@ title: What can I do to help Ethereum Classic project?
 date: 2016-07-25
 author: Arvicco
 ---
-![Call for action](http://static.lakana.com/media.fox5atlanta.com/photo/2015/08/20/CallForAction_1440096073156_114852_ver1.0.jpg)
+![Call for action](./CallForAction_1440096073156_114852_ver1.0.jpg)
 
 So, you understand the value proposition of [open, neutral and immutable](https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede) blockchains and share Ethereum Classic principles. You would like to join the community and help original Ethereum vision to succeed. What can you do? Here are some ideas:
 - - -

@@ -32,28 +32,28 @@ block number.
 
 Players can enter block fields in the form:
 
-![](https://cdn-images-1.medium.com/max/800/1*eJJfLId2umW5jY2LQnYUnQ.png)
+![](./1*eJJfLId2umW5jY2LQnYUnQ.png)
 
 Players select payloads from the payload list:
 
-![](https://cdn-images-1.medium.com/max/800/1*VB2HFw5Hefqc9bznkVzt8w.png)
+![](./1*VB2HFw5Hefqc9bznkVzt8w.png)
 
 Players can click the "Hash Block" button to calculate the hash of a block, or,
 the "Submit Block" button to submit a block:
 
-![](https://cdn-images-1.medium.com/max/800/1*hylABG2F9EASeHMXC24jsQ.png)
+![](./1*hylABG2F9EASeHMXC24jsQ.png)
 
 Submitted blocks appear in the yellow region. Valid blocks will be blue and
 invalid blocks will be red:
 
-![](https://cdn-images-1.medium.com/max/800/1*kEAepWFfqATH89WTGnJW5g.png)
+![](./1*kEAepWFfqATH89WTGnJW5g.png)
 
 Block numbers correspond to rows, and, there is a row for every possible block
 number. Therefore, games are over when there is at least one block in every
 *row* of the yellow region. When games are over, the blocks of the longest
 chains turn white:
 
-![](https://cdn-images-1.medium.com/max/800/1*FaeAmcvkJ4cTInOdyOAHyA.png)
+![](./1*FaeAmcvkJ4cTInOdyOAHyA.png)
 
 Refresh the web page to start new games.
 
@@ -74,11 +74,11 @@ share it with anyone interested in blockchains.
 
 You can contact me by clicking any of these icons:
 
-![](https://cdn-images-1.medium.com/max/800/0*eoFC6QOWZ--bCngK.png)
+![](./0*eoFC6QOWZ--bCngK.png)
 
-![](https://cdn-images-1.medium.com/max/800/0*i3CwTFEKUnKYHMf0.png)
+![](./0*i3CwTFEKUnKYHMf0.png)
 
-![](https://cdn-images-1.medium.com/max/800/0*HQj6HSHxE7pkIBjk.png)
+![](./0*HQj6HSHxE7pkIBjk.png)
 
 ### Acknowledgements
 
@@ -86,7 +86,7 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 ### License
 
-![](https://cdn-images-1.medium.com/max/800/0*hocpUZXBcjzNJeQ2.png)
+![](./0*hocpUZXBcjzNJeQ2.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0
 International License.

@@ -8,27 +8,27 @@ I will explain Merkle trees and why they are so important for blockchain systems
 
 # Introduction
 
-![slow](https://i.imgsafe.org/82fa11f184.jpg)
+![slow](./82fa11f184.jpg)
 
 The *sending* of information today is horrendously slow compared to the *processing* of information. Therefore, when distributing information on a peer to peer network, it is desirable to minimize communications even if that implies adding computations.  Hashes can help confirm the integrity of information with minimal communication.  Hash trees, or Merkle trees, can also help *identify* invalid bits with minimal communication.
 
 # El Paquete Semanal
 
-![sign](https://i.imgsafe.org/82fa6d5fc9.jpg)
+![sign](./82fa6d5fc9.jpg)
 
 To understand the importance of Merkle trees for blockchains, consider El Paquete Semanal ("the Weekly Package"), part of one of the strangest peer to peer networks in the world.  Every week a terabyte of YouTube videos, pop music MP3s, Spanish news articles and more is distributed to Cubans for a few pesos.  Distribution sometimes depends on such methods as passing hard drives around by hand.  This is because connectivity in Cuba is so poor.  95% of homes have none, and, the remaining 5% are subject to strong censorship. Suppose you wanted to give everyone a *perfect* copy of  El Paquete Semanal.  Because of the slowness of the network, it is impractical to resend copies to correct errors.  How would you quickly find and fix errors without resending many bits?  That is where Merkle trees come in.
 
-![house](https://i.imgsafe.org/82fa5e09b5.jpg)
+![house](./82fa5e09b5.jpg)
 
 # Fast Search
 
-![map](https://i.imgsafe.org/82fa2df772.jpg)
+![map](./82fa2df772.jpg)
 
 To understand why Merkle trees can be used to find errors so efficiently, try this activity: Have a friend pick any city in any part of the world. Google Maps might be helpful. Start asking yes / no questions to determine the city. You might ask questions like, "Is the city above or below the equator?", and, "Is it to the east or west of Cairo?". You should notice that cutting the search space approximately in half every question leads to the answer amazingly fast. Merkle trees allow a similarly fast search.
 
 # Merkle Trees
 
-![merkle](https://i.imgsafe.org/82fa48ed9d.jpg)
+![merkle](./82fa48ed9d.jpg)
 
 Here is a Merkle tree recipe to quickly find corrupted segments in El Paquete Semanal:
 
@@ -40,7 +40,7 @@ For many small segments (lots of levels), using a Merkle tree to check and fix a
 
 # Conclusion
 
-![last](https://i.imgsafe.org/82fa22d881.jpg)
+![last](./82fa22d881.jpg)
 
 Blockchain systems rely on many clever data structures and algorithms.  Merkle trees are muy importante for making blockchain systems operate quickly and efficiently.
 
@@ -48,7 +48,7 @@ Blockchain systems rely on many clever data structures and algorithms.  Merkle t
 
 You can contact me by clicking any of these icons:
 
-[![twitter](http://i.imgsafe.org/fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](http://i.imgsafe.org/fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](http://i.imgsafe.org/fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
+[![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
 # Acknowledgements
 
@@ -56,6 +56,6 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 # License
 
-![license](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![license](./88x31.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0 International License.

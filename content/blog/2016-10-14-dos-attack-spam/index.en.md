@@ -6,19 +6,19 @@ author: Christian Seberino
 
 # Introduction
 
-![worry](https://i.imgsafe.org/ed6e74c594.jpg)
+![worry](./ed6e74c594.jpg)
 
 Hard forks are incompatible changes to systems. Hard forks have caused more grief than probably anything else in the history of blockchains.  Additional hard forks are being discussed now by the Ethereum and Ethereum Classic communities to deal with issues caused by the recent denial of service attack spam. Fortunately, there is nothing problematic about the proposed hard forks.  I will describe an analogous technology and details of the Ethereum and Ethereum Classic systems to show why all is well.
 
 # Java Virtual Machine
 
-![java](https://i.imgsafe.org/ed6df2c02c.png)
+![java](./ed6df2c02c.png)
 
 People own various computing devices.  People also run various versions and types of operating systems.  The Java Virtual Machine (JVM) allows disparate systems to all run programs and get the *exact* same results.  People have implemented the JVM in hardware, but, most just simulate it in software.  Some use compilers with no optimizations.  Some use "just in time" compilers.  Some use "ahead of time" compilers. Few care about the differences in JVM realizations as long as program results are *always* identical.  If a complex Java based weather simulation predicts the temperature in one week will be 78.91775159 °F, and all JVM instances also compute 78.91775159 °F, then everyone is happy.
 
 # Ethereum & Ethereum Classic Virtual Machines
 
-![ETH](http://i.imgsafe.org/0dbe7e221c.jpg)
+![ETH](./0dbe7e221c.jpg)
 
 The Ethereum and Ethereum Classic systems are also "virtual" machines.  They are imaginary machines that are *simulated*.  There is no Ethereum or Ethereum Classic world computer  located in a bunker somewhere.  The JVM allows everyone to effectively run programs on identical *clones* of a computer.  Astonishingly, Ethereum and Ethereum Classic allow everyone to effectively run programs on the same *instance* of a computer.  In other words, it is as if everyone is using the same single machine! As with the JVM, few care how this is done as long as the results are the same.  The recent denial of service attacks took advantage of the way the systems are currently simulated. The proposed hard forks will just improve the *efficiency*. All results will remain the same.
 
@@ -43,7 +43,7 @@ The state of the Ethereum and Ethereum Classic systems at all times depends on a
 
 You can contact me by clicking any of these icons:
 
-[![twitter](http://i.imgsafe.org/fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](http://i.imgsafe.org/fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](http://i.imgsafe.org/fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
+[![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
 
 # Acknowledgements
@@ -52,6 +52,6 @@ I would like to thank Elaine Ou, Nick Johnson and  Smokyish for their help.  I w
 
 # License
 
-![license](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![license](./88x31.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0 International License.

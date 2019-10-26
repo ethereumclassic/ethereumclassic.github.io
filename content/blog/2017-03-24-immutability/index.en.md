@@ -4,13 +4,13 @@ date: 2017-03-24
 author: Christian Seberino
 ---
 
-![clarify](https://i.imgsafe.org/d7e8287795.jpg)
+![clarify](./d7e8287795.jpg)
 
 Eyan Ron in  [A New Era of Blockchain Immutability - Towards a New Understanding](http://cryptom.site/2017/03/06/a-new-era-of-blockchain-immutability-towards-a-new-understanding/) brilliantly describes two types of blockchain system immutability: *historical* and *procedural*.  I will show how these distinctions can improve Ethereum Classic (ETC) immutability discussions.
 
 # Historical Immutability
 
-![history](https://i.imgsafe.org/d7e8599b0a.jpg)
+![history](./d7e8599b0a.jpg)
 
 *historical immutability : property of blockchain systems such that the content and positions of all blocks, older than some minimum age, do not change*
 
@@ -18,7 +18,7 @@ Historical immutability is not the same as blockchain immutability.  An immutabl
 
 # Procedural Immutability
 
-![procedure](https://i.imgsafe.org/d7e82e49f3.jpeg)
+![procedure](./d7e82e49f3.jpeg)
 
 *procedural immutability : property of blockchain systems such that the protocol to determine valid blocks does not change*
 
@@ -26,7 +26,7 @@ Blockchain systems define block validation protocols.  These might specify minin
 
 # ETC Immutability
 
-![ETC](https://i.imgsafe.org/d7e840f60c.png)
+![ETC](./d7e840f60c.png)
 
 It is now possible to more precisely define ETC immutability:
 
@@ -34,13 +34,13 @@ It is now possible to more precisely define ETC immutability:
 
 # Managing Improvements
 
-![ambiguity](https://i.imgsafe.org/d7e825ab56.jpg)
+![ambiguity](./d7e825ab56.jpg)
 
 Unfortunately, this does not eliminate all ambiguity.  There might still be confusion and disagreements regarding what constitutes *improvements!*  Is the Ethereum DAO attack hard fork an "improvement" because it potentially increased the available investment capital? Clearly all blockchain systems, including ETC, must develop protocols to evaluate proposed improvements and avoid future problems.
 
 # Historical Discussions
 
-![discussion](https://i.imgsafe.org/d7e848bd7e.jpg)
+![discussion](./d7e848bd7e.jpg)
 
 Below are some noteworthy historical ETC immutability related snippets and possible responses:
 
@@ -62,7 +62,7 @@ Possible Response: *Procedural immutability does not apply but historical immuta
 
 # Conclusion
 
-![future](https://i.imgsafe.org/d7e85c367f.jpg)
+![future](./d7e85c367f.jpg)
 
 Eyan Ron has helped clarify the definition of ETC immutability.  This is useful to improve discussions.  Further work is required to specify a protocol to manage proposed ETC improvements.
 
@@ -70,7 +70,7 @@ Eyan Ron has helped clarify the definition of ETC immutability.  This is useful 
 
 You can contact me by clicking any of these icons:
 
-[![twitter](https://i.imgsafe.org/fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](https://i.imgsafe.org/fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](https://i.imgsafe.org/fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
+[![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
 # Acknowledgements
 
@@ -78,6 +78,6 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 # License
 
-![license](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![license](./88x31.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0 International License.

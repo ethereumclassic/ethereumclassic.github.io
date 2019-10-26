@@ -3,7 +3,7 @@ title: Code is Law and the Quest for Justice
 date: 2016-09-09
 author: Arvicco
 ---
-![Code is Law](http://gosreforma.ru/slider/Law-Image.jpg)
+![Code is Law](./Law-Image.jpg)
 
 People keep repeating the phrase "Code is Law" without clear understanding of what it's supposed to mean. Some deliberately misinterpret it to mean that "ETC supports thieves and crooks" and similar nonsense. Let's get some things straight. Code is law on the blockchain. In the sense, all executions and transactions are final and immutable. So, from our (Ethereum Classic supporters) standpoint by pushing the DAO hard fork EF broke the "law" in the sense that they imposed an invalid transaction state on the blockchain.
 

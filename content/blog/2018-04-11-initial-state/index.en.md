@@ -4,7 +4,7 @@ date: 2018-04-11
 author: Christian Seberino
 ---
 
-![](https://cdn-images-1.medium.com/max/800/1*TCmOW4bfexB2Ns21MBDDCw.jpeg)
+![](./1*TCmOW4bfexB2Ns21MBDDCw.jpeg)
 
 The Ethereum Classic (ETC) blockchain does *not* contain all the necessary state
 information for the ETC system to operate. It does not even *implicitly* contain
@@ -12,7 +12,7 @@ all that is needed! I will elaborate and discuss how this is handled.
 
 # State
 
-![](https://cdn-images-1.medium.com/max/800/1*ZHk1y55a8LIXrBXyPQh6sw.jpeg)
+![](./1*ZHk1y55a8LIXrBXyPQh6sw.jpeg)
 
 The state of the ETC system includes all the balances, programs, nonces and
 other values in memory. This data is organized into *accounts*. Therefore, the
@@ -31,7 +31,7 @@ these initially funded accounts? The answer involves the ETC node databases.
 
 # Database
 
-![](https://cdn-images-1.medium.com/max/800/1*doVsSfjjDVsy5Sy9M7m2Xg.jpeg)
+![](./1*doVsSfjjDVsy5Sy9M7m2Xg.jpeg)
 
 ETC nodes typically contain databases that store the blockchain as well as
 additional information. For example, Linux Parity ETC node databases typically
@@ -49,7 +49,7 @@ using the Web 3 library.
 
 # Solution
 
-![](https://cdn-images-1.medium.com/max/800/1*gGGUr4Xhyzo6Amcmzqc4ww.jpeg)
+![](./1*gGGUr4Xhyzo6Amcmzqc4ww.jpeg)
 
 All ETC nodes must contain a complete specification of the initial state for the
 first block. This is required *in addition* to the blockchain. For example, on
@@ -60,7 +60,7 @@ following command:
 
 # Conclusion
 
-![](https://cdn-images-1.medium.com/max/800/1*mfEpuxoLMi8OZwFXK7kYQw.png)
+![](./1*mfEpuxoLMi8OZwFXK7kYQw.png)
 
 ETC nodes require a complete specification of the initial state for the first
 block as well as the blockchain. ETC nodes typically store this information in
@@ -71,11 +71,11 @@ operate.
 
 You can contact me by clicking any of these icons:
 
-![](https://cdn-images-1.medium.com/max/800/0*eoFC6QOWZ--bCngK.png)
+![](./0*eoFC6QOWZ--bCngK.png)
 
-![](https://cdn-images-1.medium.com/max/800/0*i3CwTFEKUnKYHMf0.png)
+![](./0*i3CwTFEKUnKYHMf0.png)
 
-![](https://cdn-images-1.medium.com/max/800/0*HQj6HSHxE7pkIBjk.png)
+![](./0*HQj6HSHxE7pkIBjk.png)
 
 # Acknowledgements
 
@@ -83,4 +83,4 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 # License
 
-![](https://cdn-images-1.medium.com/max/800/0*hocpUZXBcjzNJeQ2.png)
+![](./0*hocpUZXBcjzNJeQ2.png)

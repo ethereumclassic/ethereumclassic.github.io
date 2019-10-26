@@ -4,13 +4,13 @@ date: 2017-06-17
 author: Christian Seberino
 ---
 
-![fund raising](https://steemitimages.com/0x0/http://i.imgsafe.org/1f33c159a2.jpg)
+![fund raising](./1f33c159a2.jpg)
 
 Many initiatives are raising capital with initial coin offerings (ICOs).  The Ethereum (ETH) project raised 18 million dollars and the DAO project raised 150 million dollars!  Furthermore, the entire blockchain space is worth 90 *billion* dollars!  I will describe ICOs and their custom cryptocurrencies on Ethereum Classic (ETC).
 
 # ICO Basics
 
-![ICO](https://steemitimages.com/0x0/http://i.imgsafe.org/094886790b.png)
+![ICO](./094886790b.png)
 
 An ICO is a method of raising funds with the sale of a new cryptocurrency.  These cryptocurrencies are often required to purchase goods and services from the issuing organizations.  For example, the ETH cryptocurrency (ether) is used to rent ETH system resources.  Upcoming ICOs are typically announced on [Bitcointalk.org](https://bitcointalk.org/index.php?board=159.0) forums and heavily marketed beforehand.  Buyers often purchase the new cryptocurrencies by sending bitcoins or ether to escrow accounts.  The initial prices are set, then supply and demand determines the future prices.  If the organizations are well managed, and their cryptocurrencies prove useful, they should both increase in value.  If prices skyrocket, miniscule cryptocurrency subdivisions can typically be used.  For example, ETC cryptocurrency tokens can be subdivided into as many as 10<sup>18</sup> pieces.
 
@@ -18,7 +18,7 @@ Caution is required with ICOs as they are effectively *unregulated*.  Participan
 
 # ICO Cryptocurrencies
 
-![currencies](https://steemitimages.com/0x0/http://i.imgsafe.org/0948843b88.jpg)
+![currencies](./0948843b88.jpg)
 
 Cryptocurrencies are implemented with [smart contracts](https://steemit.com/etc/@cseberino/the-skinny-on-smart-contracts-an-introduction-and-why-you-should-care). ETC provides an excellent smart contract platform.  It has all of the functionality of ETH at a fraction of the cost.
 
@@ -188,7 +188,7 @@ def transferFrom(send_add:address, receiv_add:address, trans_amt:uint256):
 
 # Conclusion
 
-![money](https://steemitimages.com/0x0/http://i.imgsafe.org/09489072fd.jpg)
+![money](./09489072fd.jpg)
 
 ICOs are a new way to raise funds and the ETC platform is an excellent choice for the required cryptocurrency smart contracts.  Vigilance due to the lack of regulations remains important. Hopefully, mechanisms to protect against abuse will allow an ever growing number of people to reap the benefits.
 
@@ -196,7 +196,7 @@ ICOs are a new way to raise funds and the ETC platform is an excellent choice fo
 
 You can contact me by clicking any of these icons:
 
-[![twitter](https://i.imgsafe.org/fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](https://i.imgsafe.org/fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](https://i.imgsafe.org/fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
+[![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
 # Acknowledgements
 
@@ -204,6 +204,6 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 # License
 
-![license](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![license](./88x31.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0 International License.

@@ -3,7 +3,7 @@ title: Getting things done in a decentralized way
 date: 2016-07-27
 author: Arvicco
 ---
-![Getting things done](http://theproductivewoman.com/wp-content/uploads/sites/26/2015/08/Dollarphotoclub_39093955-720x469.jpg)
+![Getting things done](./Dollarphotoclub_39093955.jpg)
 
 There is a tremendous momentum going in Ethereum Classic community. People burst with ideas, they want to help building and improving our community. People want to contribute to its infrastructure, coding, branding, marketing. Volunteers want to spread the word, organize local events and user groups, address issues, start new exciting projects and so on.
 

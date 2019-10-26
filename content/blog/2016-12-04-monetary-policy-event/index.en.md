@@ -3,7 +3,7 @@ title: "ETC End of Year and Monetary Policy Event: London, December 13th"
 date: 2016-12-04
 author: Arvicco
 ---
-![ETC End of Year and Monetary Policy Event](https://i.imgur.com/tbyEkyS.png)
+![ETC End of Year and Monetary Policy Event](./tbyEkyS.png)
 ## Please join us!
 
 ETC End of Year and Monetary Policy Event The Event is hosted by one of the leading financial services law firms, Eversheds LLP, at their [London St. Pauls Head Quarters](https://maps.google.com/maps?f=q&hl=en&q=1+Wood+Street%2C+EC2V+7WS+%2C+London%2C+gb). Attendance is free, but you need to [**register for the event**](https://www.meetup.com/EthereumClassic/quick_join/?eventId=235470622&joinFrom=event&response=3). More information at the [Event web site](http://mp2016.ethereumclassic.org).
@@ -16,7 +16,7 @@ ETC End of Year and Monetary Policy Event The Event is hosted by one of the lead
 
 ## Panel: "Monetary Policy in Cryptocurrencies"
 
-![Monetary Policy Panel Discussion](https://i.imgur.com/wKNJ7Da.png)
+![Monetary Policy Panel Discussion](./wKNJ7Da.png)
 
 **Jon Matonis**:
 
@@ -52,4 +52,4 @@ Director at the British Bankers Association, where he is heading up the BBA’s 
 
 Attendance is free, but you need to [**register for the event**](https://www.meetup.com/EthereumClassic/quick_join/?eventId=235470622&joinFrom=event&response=3). More information at the [Event web site](http://mp2016.ethereumclassic.org).
 
-![Event Location](https://i.imgur.com/3jPjPqS.png)
+![Event Location](./3jPjPqS.png)

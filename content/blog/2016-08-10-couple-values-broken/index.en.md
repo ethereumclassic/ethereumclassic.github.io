@@ -4,7 +4,7 @@ date: 2016-08-10
 author: ProphetDaniel
 ---
 
-![Ethereum Classic's vision](http://i.imgur.com/ZUUnHcH.png "Gandalf at Ethereum Classic")
+![Ethereum Classic's vision](./ZUUnHcH.png "Gandalf at Ethereum Classic")
 > "He that breaks a thing to find out what it is has left the path of wisdom."
 Gandalf - J.R.R Tolkien
 

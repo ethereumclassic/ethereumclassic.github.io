@@ -4,14 +4,14 @@ date: 2018-01-31
 author: Christian Seberino
 ---
 
-![](https://cdn-images-1.medium.com/max/800/1*5E7COYLIHDF04peIBUgxiA.png)
+![](./1*5E7COYLIHDF04peIBUgxiA.png)
 
 The Ethereum Classic (ETC) mining difficulty parameter may seem mysterious to
 some. I will show it has a beautiful easy to understand interpretation.
 
 ### Background
 
-![](https://cdn-images-1.medium.com/max/800/1*W4QUm-oeL-6iExbUJOPYjQ.png)
+![](./1*W4QUm-oeL-6iExbUJOPYjQ.png)
 
 Some ETC network computers receive rewards for creating, distributing and
 validating the blocks of the ETC blockchain. This work is referred to as
@@ -25,7 +25,7 @@ requirements involve a number referred to as the *difficulty*. For a hash value
 
 ### Interpretation
 
-![](https://cdn-images-1.medium.com/max/800/1*vd3ACvJRoSxbfU3YE6pxpQ.jpeg)
+![](./1*vd3ACvJRoSxbfU3YE6pxpQ.jpeg)
 
 The probability of an arbitrary hash meeting the requirement is equal to the
 number of acceptable hashes divided by the number of possible hashes. In other
@@ -127,7 +127,7 @@ Clearly the average hash count *A*(1) = *d*.
 
 ### Conclusion
 
-![](https://cdn-images-1.medium.com/max/800/1*ZgKzWs5KJsMe0qE1U_aBug.jpeg)
+![](./1*ZgKzWs5KJsMe0qE1U_aBug.jpeg)
 
 The mining difficulty can be understood as the average number of hashes required
 to find a valid nonce. If it was mysterious before, hopefully now it is less so.
@@ -136,11 +136,11 @@ to find a valid nonce. If it was mysterious before, hopefully now it is less so.
 
 You can contact me by clicking any of these icons:
 
-![](https://cdn-images-1.medium.com/max/800/0*eoFC6QOWZ--bCngK.png)
+![](./0*eoFC6QOWZ--bCngK.png)
 
-![](https://cdn-images-1.medium.com/max/800/0*i3CwTFEKUnKYHMf0.png)
+![](./0*i3CwTFEKUnKYHMf0.png)
 
-![](https://cdn-images-1.medium.com/max/800/0*HQj6HSHxE7pkIBjk.png)
+![](./0*HQj6HSHxE7pkIBjk.png)
 
 ### Acknowledgements
 
@@ -148,7 +148,7 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 ### License
 
-![](https://cdn-images-1.medium.com/max/800/0*hocpUZXBcjzNJeQ2.png)
+![](./0*hocpUZXBcjzNJeQ2.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0<br/>
 International License.

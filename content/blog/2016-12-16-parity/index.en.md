@@ -6,13 +6,13 @@ author: Christian Seberino
 
 # Introduction
 
-![ETC logo](http://i.imgsafe.org/3315e07195.png)
+![ETC logo](./3315e07195.png)
 
 You can easily get your own Ethereum Classic network node up and running with the phenomenal Parity implementation.  The Parity project is managed by Gavin Wood, the author of the Ethereum specification (yellow paper), and his company Ethcore.
 
 # Setup
 
-![Ethcore logo](http://i.imgsafe.org/38720b3cb7.png)
+![Ethcore logo](./38720b3cb7.png)
 
 The first step is to download and install the latest Parity package for your system after confirming its integrity by checking its hash.  After Parity is installed, the only remaining step to set up a node is to run the following command:
 
@@ -24,7 +24,7 @@ The set up should take a several hours to download a copy the Ethereum Classic b
 
 # Communication
 
-![comms](http://i.imgsafe.org/30432cbb89.jpg)
+![comms](./30432cbb89.jpg)
 
 Parity nodes have a local web interface one can access by default at http://127.0.0.1:8180.  There are other powerful user friendly tools it will be beneficial to investigate such as the Web3 library.  Parity nodes communicate using JavaScript Object Notation (JSON).  For educational purposes, I will show examples of sending and receiving JSON commands using only the following simple Python script:
 
@@ -188,7 +188,7 @@ Parity//v1.4.6-beta-5feccf1-20161205/x86_64-linux-gnu/rustc1.13.0
 
 # Conclusion
 
-![future](http://i.imgsafe.org/387c4eecc2.jpg)
+![future](./387c4eecc2.jpg)
 
 Parity is an amazing solid Ethereum Classic network node implementation you can easily get operational.  The aforementioned code examples should be enlightening.  Feel free to extend my script and investigate further.  Welcome to the future!
 
@@ -196,7 +196,7 @@ Parity is an amazing solid Ethereum Classic network node implementation you can 
 
 You can contact me by clicking any of these icons:
 
-[![twitter](http://i.imgsafe.org/fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](http://i.imgsafe.org/fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](http://i.imgsafe.org/fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
+[![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
 # Acknowledgements
 
@@ -204,6 +204,6 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 # License
 
-![license](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![license](./88x31.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0 International License.

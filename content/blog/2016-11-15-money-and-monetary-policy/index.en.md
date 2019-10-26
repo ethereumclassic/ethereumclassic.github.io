@@ -10,11 +10,11 @@ I will discuss money and monetary policy as well as give details regarding crypt
 
 No one can create all the products and services they desire.  Therefore, people *exchange* products and services.   Money is an object that facilitates this exchange.  Examples of money include convenient products such as rice and salt.  More abstract examples of money include promissory notes like gold notes:
 
-![gold note](http://i.imgsafe.org/a72fc24c84.jpg)
+![gold note](./a72fc24c84.jpg)
 
 Another abstract example is a tally stick.  It can record economic transactions much like a blockchain:
 
-![tally stick](http://i.imgsafe.org/a97229b244.jpg)
+![tally stick](./a97229b244.jpg)
 
 The most abstract examples of money are not associated with *any* product or service, and, they have little or no intrinsic value.  An example is a dollar bill.  The only intrinsic value is the value of the paper and ink.  Another such example is a cryptocurrency key.  It is a set of random numbers with *no* intrinsic value!
 
@@ -24,11 +24,11 @@ Money facilitates *storage*.  It is more convenient to store dollar bills than s
 
 A monetary policy is a plan to manage a money *supply*.  Some advocate fixed money supplies.  Some advocate adjustable money supplies.  In response to the Great Recession, many governments greatly increased their money supplies:
 
-![supply](http://i.imgsafe.org/dd5f4b1425.png)
+![supply](./dd5f4b1425.png)
 
 Satoshi Nakamoto set up Bitcoin to have a *fixed* long term money supply.  He was likely concerned about the possibility of corruption otherwise.  He placed the following Easter egg in the first (genesis) Bitcoin block: "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks".  This refers to the following newspaper cover:
 
-![newspaper](http://i.imgsafe.org/a7217eff78.jpg)
+![newspaper](./a7217eff78.jpg)
 
 # What Sets Cryptocurrency Prices?
 
@@ -70,7 +70,7 @@ Cryptocurrencies are innovative types of money with monetary policies that in ge
 
 You can contact me by clicking any of these icons:
 
-[![twitter](http://i.imgsafe.org/fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](http://i.imgsafe.org/fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](http://i.imgsafe.org/fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
+[![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
 
 # Acknowledgements
@@ -79,6 +79,6 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 # License
 
-![license](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![license](./88x31.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0 International License.

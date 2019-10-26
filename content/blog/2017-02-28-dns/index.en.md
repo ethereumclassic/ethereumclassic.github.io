@@ -6,7 +6,7 @@ author: Christian Seberino
 
 # Introduction
 
-![Internet](https://i.imgsafe.org/375fe24deb.gif)
+![Internet](./375fe24deb.gif)
 
 The Domain Name System (DNS) maps domains to Internet Protocol (IP) addresses.  Governments, corporations and other entities have attempted to censor this system for various reasons.  Therefore, it is desirable to create a censorship resistant alternative.  Furthermore, DNS like systems are useful for other purposes such as cryptocurrencies, inventory tracking and voting.
 
@@ -282,7 +282,7 @@ True
 
 # Conclusion
 
-![light bulb](https://i.imgsafe.org/375f678bf4.jpg)
+![light bulb](./375f678bf4.jpg)
 
 A censorship resistant DNS replacement is just one of many potentially useful [ETC applications](https://steemit.com/etc/@cseberino/why-would-i-choose-to-run-my-application-on-ethereum-classic-instead-of-the-world-wide-web).  Hopefully this example will encourage you to come up with your own ideas.
 
@@ -290,7 +290,7 @@ A censorship resistant DNS replacement is just one of many potentially useful [E
 
 You can contact me by clicking any of these icons:
 
-[![twitter](https://i.imgsafe.org/fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](https://i.imgsafe.org/fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](https://i.imgsafe.org/fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
+[![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
 # Acknowledgements
 
@@ -298,6 +298,6 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 # License
 
-![license](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![license](./88x31.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0 International License.

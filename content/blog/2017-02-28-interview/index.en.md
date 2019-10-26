@@ -4,7 +4,7 @@ date: 2017-02-28
 author: Christian Seberino
 ---
 
-![interview](https://i.imgsafe.org/dce8d1cb45.jpg)
+![interview](./dce8d1cb45.jpg)
 
 I recently interviewed the person who started Ethereum Classic (ETC).  His motives are admirable.  His reason for wishing to remain anonymous is a reminder of why blockchain technologies are important.  Here is a slightly edited version of the interview:
 
@@ -64,7 +64,7 @@ Russians are sometimes stereotyped as stubborn people often doing something unco
 
 You can contact me by clicking any of these icons:
 
-[![twitter](https://i.imgsafe.org/fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](https://i.imgsafe.org/fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](https://i.imgsafe.org/fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
+[![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
 # Acknowledgements
 
@@ -72,6 +72,6 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 # License
 
-![license](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![license](./88x31.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0 International License.

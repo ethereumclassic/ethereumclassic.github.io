@@ -4,7 +4,7 @@ date: 2017-07-28
 author: Christian Seberino
 ---
 
-![](https://cdn-images-1.medium.com/max/800/1*gqnXt9Isyq8V4h4AmrCe_w.png)
+![](./1*gqnXt9Isyq8V4h4AmrCe_w.png)
 
 The most ambitious goal for Ethereum Classic (ETC) is to *replace* the World
 Wide Web (Web). Blockchain based replacements for the Web are often referred to
@@ -12,7 +12,7 @@ as Web 3.0.
 
 # Web 2.0
 
-![](https://cdn-images-1.medium.com/max/800/1*QP4xdyqv3UOD2USYOSdPOw.jpeg)
+![](./1*QP4xdyqv3UOD2USYOSdPOw.jpeg)
 
 The Web was developed by Tim Berners-Lee and first made publicly available in
 1991. It is a user friendly general purpose system based on the Internet.
@@ -23,7 +23,7 @@ Web 2.0. The term was popularized by Tim O’Reilly.
 
 # Web 3.0
 
-![](https://cdn-images-1.medium.com/max/800/1*f5azknP1ivazTcwP-0tVhg.jpeg)
+![](./1*f5azknP1ivazTcwP-0tVhg.jpeg)
 
 Neither the Internet nor the Web were initially designed to be *trustless*
 systems. Components have been steadily introduced to improve security such as
@@ -61,7 +61,7 @@ the era of Web 3.0.
 
 # Conclusion
 
-![](https://cdn-images-1.medium.com/max/800/1*DTUA222AFbN6YabdfoWLvg.jpeg)
+![](./1*DTUA222AFbN6YabdfoWLvg.jpeg)
 
 A public, censorship resistant, pseudonymous, auditable, reliable, secure and
 trustless replacement for the Web is a compelling vision. ETC, IPFS and related
@@ -72,11 +72,11 @@ enamored with ETC and its potential.
 
 You can contact me by clicking any of these icons:
 
-![](https://cdn-images-1.medium.com/max/800/0*eoFC6QOWZ--bCngK.png)
+![](./0*eoFC6QOWZ--bCngK.png)
 
-![](https://cdn-images-1.medium.com/max/800/0*i3CwTFEKUnKYHMf0.png)
+![](./0*i3CwTFEKUnKYHMf0.png)
 
-![](https://cdn-images-1.medium.com/max/800/0*HQj6HSHxE7pkIBjk.png)
+![](./0*HQj6HSHxE7pkIBjk.png)
 
 # Acknowledgements
 
@@ -84,7 +84,7 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 # License
 
-![](https://cdn-images-1.medium.com/max/800/0*hocpUZXBcjzNJeQ2.png)
+![](./0*hocpUZXBcjzNJeQ2.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0
 International License.

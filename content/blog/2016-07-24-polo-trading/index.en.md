@@ -3,7 +3,6 @@ title: ETC exchange trading and other news
 date: 2016-07-24
 author: Arvicco
 ---
-![ETC](https://upload.wikimedia.org/wikipedia/commons/9/9a/Logo_ETC_TV_2015.png)
 
 **News update**
 

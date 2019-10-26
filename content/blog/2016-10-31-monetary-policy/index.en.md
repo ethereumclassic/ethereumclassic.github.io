@@ -4,7 +4,7 @@ date: 2016-10-31
 author: Carlos Graterol
 ---
 
-![Monetary policy](http://www.imaniafrica.org/wp-content/uploads/2016/01/monetary.jpg)
+![Monetary policy](./monetary.jpg)
 
 Since the beginning of the formation of the Ethereum Classic community, users, developers, miners, and traders have been pondering about a change in monetary policy for ETC. Though many users in ETC look forward to a future of decentralized applications and smart contracts running on the blockchain but are dissatisfied with the current supply schedule of 5 ETC awarded per block which is created on average every 14 seconds.
 
@@ -16,7 +16,7 @@ The current supply schedule for ETC is a bug, not a feature. A tightening of sup
 
 The want and need for change in the money supply even had 77% support in one poll conducted by the Ethereum Classic Twitter Account.
 
-![Monetary Policy Poll](http://i.imgur.com/CUvJyj0.png)
+![Monetary Policy Poll](./CUvJyj0.png)
 
 Granted, it was not a scientific poll, but it seems to be an indicator of where the general ETC community stands on wanting to change policy.
 

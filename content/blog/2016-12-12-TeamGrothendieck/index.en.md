@@ -33,7 +33,7 @@ Also, we would love to know more about how the community would like to get updat
 
 * [www.reddit.com](https://www.reddit.com/r/EthereumClassic/comments/5gpf3n/community_brainstorm_ideas_for_continuous/)
 
-## [Alan McSherry : Dublin, Ireland](https://iohk.io/team/alan-mcsherry/) ![enter image description here](https://iohk.io/images/team/alan-mcsherry-b-2.png)
+## [Alan McSherry : Dublin, Ireland](https://iohk.io/team/alan-mcsherry/) ![enter image description here](./alan-mcsherry-b-2.png)
 Ethereum Classic Developer
 Team Grothendieck Manager
 
@@ -41,26 +41,26 @@ Alan McSherry graduated with a degree in Computer Engineering from Limerick Univ
 
 
 
-## [Alan Verbner : Buenos Aires, Argentina](https://iohk.io/team/alan-verbner/) ![enter image description here](https://iohk.io/images/team/alan-verbner-b.png)
+## [Alan Verbner : Buenos Aires, Argentina](https://iohk.io/team/alan-verbner/) ![enter image description here](./alan-verbner-b.png)
 Ethereum Classic Developer
 Team Grothendieck/Atix
 
 Alan Verbner is a computer engineer and graduated from the Engineering University of Buenos Aires (Argentina). He has been developing software for about 10 years with special interest in the cryptocurrency space. Four years ago he Co-Founded Atix Labs, a software lab that has been helping other companies make their ideas come true with great high quality products. They are located in the Buenos Aires Bitcoin Embassy.
 
 
-## [Nicolas Tallar : Buenos Aires, Argentina](https://iohk.io/team/nicolas-tallar/) ![enter image description here](https://iohk.io/images/team/nicolas-tallar-b.png)
+## [Nicolas Tallar : Buenos Aires, Argentina](https://iohk.io/team/nicolas-tallar/) ![enter image description here](./nicolas-tallar-b.png)
 Ethereum Classic Developer
 Team Grothendieck/Atix
 
 Nicolas Tallar has a background in Computer Science and he is about to get his degree from University Of Buenos Aires (Argentina). He is a passionate functional programmer with special interest in image processing and robot controlling algorithms.
 
-## [Jan Ziniewicz : Warsaw, Poland](https://iohk.io/team/jan-ziniewicz/) ![enter image description here](https://iohk.io/images/team/jan-ziniewicz-b.png)
+## [Jan Ziniewicz : Warsaw, Poland](https://iohk.io/team/jan-ziniewicz/) ![enter image description here](./jan-ziniewicz-b.png)
 Ethereum Classic Developer 
 Team Grothendieck
 
 I’ve been working in IT industry since 2004. Apart from being a functional programmer I was also a project manager, system designer and administrator. In my free time I am a rock climber, cyclist, RPG player, and of course Clojure / Scala coder.
 
-## [Lukasz Gasior : Rumia, Poland](https://iohk.io/team/lukasz-gasior/) ![enter image description here](https://iohk.io/images/team/lukasz-gasior-b.png)
+## [Lukasz Gasior : Rumia, Poland](https://iohk.io/team/lukasz-gasior/) ![enter image description here](./lukasz-gasior-b.png)
 Ethereum Classic Developer
 Team Grothendieck/ScalaC
 
@@ -68,14 +68,14 @@ I’m a passionate Scala developer and a big fan of Domain Driven Design. For th
 
 
 
-## [Adam Smolarek : Warsaw, Poland](https://iohk.io/team/adam-smolarek/) ![enter image description here](https://iohk.io/images/team/adam-smolarek-b.png)
+## [Adam Smolarek : Warsaw, Poland](https://iohk.io/team/adam-smolarek/)
 Ethereum Classic Developer
 Team Grothendieck/ScalaC
 
 I’ve been working as software developer since 2010, both fornt and back-end, I was also team leader and arhitect. Hobby: digital drawing, rock climbing, skateboarding, IoT (did master thesis in realated topic), cryptography (ECC).
 
 
-## [Radek Tkaczyk : Warsaw, Poland](https://iohk.io/team/radek-tkaczyk/) ![enter image description here](https://iohk.io/images/team/radek-tkaczyk-b.png)
+## [Radek Tkaczyk : Warsaw, Poland](https://iohk.io/team/radek-tkaczyk/) ![enter image description here](./radek-tkaczyk-b.png)
 Ethereum Classic Developer
 Team Grothendieck/ScalaC
 

@@ -4,13 +4,13 @@ date: 2018-03-19
 author: Christian Seberino
 ---
 
-![](https://i.imgur.com/QShEODs.png)
+![](./QShEODs.png)
 
 Ethereum Classic (ETC) uses Recursive Length Prefix (RLP) encoding to store and send data structures. I will describe RLP and how it is used in ETC.
 
 # Introduction
 
-![](https://cdn-images-1.medium.com/max/800/1*_y8SOO9LmGSUWnSGG1vidg.png)
+![](./1*_y8SOO9LmGSUWnSGG1vidg.png)
 
 Serialization is the process of encoding data structures into byte sequences. It is also referred to as marshalling and pickling. Serialization is necessary when storing and sending data structures.
 
@@ -20,13 +20,13 @@ RLP is also consistent.  Identical objects are always converted to identical byt
 
 # Details
 
-![](https://i.imgur.com/lZK7AV3.jpg)
+![](./lZK7AV3.jpg)
 
 RLP operates on byte sequences and lists. Lists can contain byte sequences and other lists. The interpretation of all inputs is handled by other protocols. For byte sequences, small headers are added which depend on the length. For lists, the elements are encoded separately and concatenated. As with byte sequences, small headers are added which depend on the length.  Lastly, all lengths are encoded in big endian format.
 
 # Code
 
-![](https://i.imgur.com/NpkXLnm.jpg)
+![](./NpkXLnm.jpg)
 
 Here are Python functions which implement RLP encoding and decoding:
 
@@ -146,7 +146,7 @@ b'12345'
 
 # Conclusion
 
-![](https://i.imgur.com/iI2jnWZ.jpg)
+![](./iI2jnWZ.jpg)
 
 RLP is an elegant and approachable serialization format used extensively by ETC. It can be quickly mastered thereby illuminating this important aspect of the system.
 
@@ -154,11 +154,11 @@ RLP is an elegant and approachable serialization format used extensively by ETC.
 
 You can contact me by clicking any of these icons:
 
-![](https://cdn-images-1.medium.com/max/800/0*eoFC6QOWZ--bCngK.png)
+![](./0*eoFC6QOWZ--bCngK.png)
 
-![](https://cdn-images-1.medium.com/max/800/0*i3CwTFEKUnKYHMf0.png)
+![](./0*i3CwTFEKUnKYHMf0.png)
 
-![](https://cdn-images-1.medium.com/max/800/0*HQj6HSHxE7pkIBjk.png)
+![](./0*HQj6HSHxE7pkIBjk.png)
 
 # Acknowledgements
 
@@ -166,6 +166,6 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 # License
 
-![](https://cdn-images-1.medium.com/max/800/0*hocpUZXBcjzNJeQ2.png)
+![](./0*hocpUZXBcjzNJeQ2.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0 International License.

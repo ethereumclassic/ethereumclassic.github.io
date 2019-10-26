@@ -5,13 +5,13 @@ author: Prophet Daniel
 ---
 
 # Ethereum Classic welcomes Ethereum Commonwealth
-![Imgur](http://i.imgur.com/XXQn3HG.jpg?1)
+![Imgur](./XXQn3HG.jpg?1)
 > "If by my life or death I can protect you, I will. You have my sword..."
 > Aragorn - J.R.R Tolkien
 
 We are very happy to welcome Dexaran's soon to be development team called [Ethereum Commonwealth](https://dexaran.github.io/ICO/) as one of the development powers behind Ethereum Classic. As you know your team is joining us at an exciting time in history, as Ethereum Classic is shifting from the incredible burst of expansion (inflation) to the cooling down phase where matter starts to be formed.
 
-![Imgur](http://i.imgur.com/hVZ4N74.jpg)
+![Imgur](./hVZ4N74.jpg)
 Source [BBC](http://www.bbc.com/news/science-environment-26605974)
 
 We are hopeful that with your fresh ideas and enthusiasm, this will be one of our best years ever! The community is projecting unprecedented growth this year, and we are counting on you to help us get there.
@@ -21,7 +21,7 @@ When you have already established your team, let's coordinate efforts to expand 
 # Pledge for support
 Contribute to the many development teams powering Ethereum Classic technology, help teams to be born by supporting them as you can. We as a community thank all the brave work already done by developers. But still there is a lot to do.
 
-![Imgur](http://i.imgur.com/wlZyBeH.jpg?1)
+![Imgur](./wlZyBeH.jpg?1)
 Source [Little Time Machine](littletimemachine.com)
 
 There is a beautiful horizon ahead, so let us shape with joy and enthusiasm the future together for good!

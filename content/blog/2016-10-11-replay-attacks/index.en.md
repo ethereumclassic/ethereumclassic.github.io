@@ -8,13 +8,13 @@ I will explain replay attacks in general and how to protect yourself.  I will g
 
 # Navajo Code Talkers
 
-![navajo](https://i.imgsafe.org/8309b10365.jpg)
+![navajo](./8309b10365.jpg)
 
 Replay attacks are general attacks that are not even limited to computers.  Here is an example involving foreign languages.  During World War 2, bilingual Navajo soldiers secured communications by transmitting messages in the Navajo language.  If no extra precautions were taken, imagine the chaos that could ensure by simply repeating previously intercepted radio messages to random units.  You would not know what you were transmitting, but, you could conceivably send unsuspecting American soldiers messages such as “MOVE 1 MILE WEST NOW” or even “ATTACK NOW”.  Notice this takes little effort.  It does not even require deciphering the foreign language!
 
 # Remote Controlled House
 
-![remote_controlled](https://i.imgsafe.org/8309cdcc0c.jpg)
+![remote_controlled](./8309cdcc0c.jpg)
 
 Here is an example of a replay attack involving computers.  Imagine you decide to make your house remotely controllable with text commands while you are on travel.  You decide to take extreme measures and only send commands over the Internet that have been SHA-256 hashed 100 times.  The following Python code will encrypt your commands thusly:
 
@@ -98,7 +98,7 @@ Perceptive readers may also wonder whether new funds, sent to old addresses that
 
 # Parting Thoughts
 
-![coyote](https://i.imgsafe.org/83099acf43.jpg)
+![coyote](./83099acf43.jpg)
 
 Everyone must be vigilant about protecting their cryptocurrency.  Fortunately, there are effective tools and techniques that provide adequate safeguards.  The dangers cannot be ignored.  As an old Navajo proverb says:
 
@@ -108,7 +108,7 @@ Everyone must be vigilant about protecting their cryptocurrency.  Fortunately, 
 
 You can contact me by clicking any of these icons:
 
-[![twitter](http://i.imgsafe.org/fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](http://i.imgsafe.org/fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](http://i.imgsafe.org/fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
+[![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
 # Acknowledgements
 
@@ -116,6 +116,6 @@ I would like to thank Nick Johnson and Timon Rapp for their help.  I would also 
 
 # License
 
-![license](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![license](./88x31.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0 International License.

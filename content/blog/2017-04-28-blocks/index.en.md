@@ -4,7 +4,7 @@ date: 2017-04-28
 author: Christian Seberino
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*pydf21vjXWl8xH12.jpg)
+![](./0*pydf21vjXWl8xH12.jpg)
 
 The Ethereum Classic (ETC) blockchain organizes information into *blocks*. These
 help improve performance and minimize storage requirements. Blocks can be
@@ -16,7 +16,7 @@ three alternative block element divisions: *context*, *computation* and
 
 # Context
 
-![](https://cdn-images-1.medium.com/max/800/0*llg1l6DGAToRTcUO.jpg)
+![](./0*llg1l6DGAToRTcUO.jpg)
 
 The context, or environment, of all ETC computations must be *completely*
 specified. Therefore, blocks contain block numbers, parent header
@@ -41,7 +41,7 @@ denoted by the number of seconds since 1970–01–01 00:00:00 UTC.
 
 # Computation
 
-![](https://cdn-images-1.medium.com/max/800/0*77XuYYgPihW_w1Q4.png)
+![](./0*77XuYYgPihW_w1Q4.png)
 
 All ETC *computations* must be completely specified as well. Therefore, blocks
 contain transaction lists, transaction list hashes, transaction list gas
@@ -95,7 +95,7 @@ transaction receipt *logs*.
 
 # Consensus
 
-![](https://cdn-images-1.medium.com/max/800/0*NTUJe8yKvJf4WcoT.jpg)
+![](./0*NTUJe8yKvJf4WcoT.jpg)
 
 Mining is the process of creating and validating new blocks. This is referred to
 as mining because the participants (miners) are rewarded with newly created
@@ -155,7 +155,7 @@ partially for security reasons.
 
 # Conclusion
 
-![](https://cdn-images-1.medium.com/max/800/1*krAMt9E5V-2_qQnJfPDgJA.jpeg)
+![](./1*krAMt9E5V-2_qQnJfPDgJA.jpeg)
 
 Considering these context, computation and consensus categories has hopefully
 been enlightening. Sometimes different perspectives can make all the difference.
@@ -164,11 +164,11 @@ been enlightening. Sometimes different perspectives can make all the difference.
 
 You can contact me by clicking any of these icons:
 
-![](https://cdn-images-1.medium.com/max/800/0*eoFC6QOWZ--bCngK.png)
+![](./0*eoFC6QOWZ--bCngK.png)
 
-![](https://cdn-images-1.medium.com/max/800/0*i3CwTFEKUnKYHMf0.png)
+![](./0*i3CwTFEKUnKYHMf0.png)
 
-![](https://cdn-images-1.medium.com/max/800/0*HQj6HSHxE7pkIBjk.png)
+![](./0*HQj6HSHxE7pkIBjk.png)
 
 # Acknowledgements
 
@@ -176,7 +176,7 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 # License
 
-![](https://cdn-images-1.medium.com/max/800/0*hocpUZXBcjzNJeQ2.png)
+![](./0*hocpUZXBcjzNJeQ2.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0
 International License.

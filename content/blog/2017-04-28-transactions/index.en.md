@@ -4,7 +4,7 @@ date: 2017-04-28
 author: Christian Seberino
 ---
 
-![](https://cdn-images-1.medium.com/max/800/0*HOdU25qwLVRmW3Bj.jpg)
+![](./0*HOdU25qwLVRmW3Bj.jpg)
 
 The Ethereum Classic (ETC)
 [blockchain](https://steemit.com/etc/@cseberino/let-s-admit-blockchains-are-weird-an-introduction-to-the-strangeness)
@@ -17,7 +17,7 @@ programs. All data, funds and programs are associated with
 
 # Payments
 
-![](https://cdn-images-1.medium.com/max/800/0*dwEVBeli4Eq1qYvX.jpg)
+![](./0*dwEVBeli4Eq1qYvX.jpg)
 
 *People* initiate all activity. (Internet devices may also interact with ETC,
 but, they are always doing so on behalf of humans.) Therefore, an access control
@@ -84,11 +84,11 @@ usable manner. Understanding transactions will help you become an ETC guru.
 
 You can contact me by clicking any of these icons:
 
-![](https://cdn-images-1.medium.com/max/800/0*eoFC6QOWZ--bCngK.png)
+![](./0*eoFC6QOWZ--bCngK.png)
 
-![](https://cdn-images-1.medium.com/max/800/0*i3CwTFEKUnKYHMf0.png)
+![](./0*i3CwTFEKUnKYHMf0.png)
 
-![](https://cdn-images-1.medium.com/max/800/0*HQj6HSHxE7pkIBjk.png)
+![](./0*HQj6HSHxE7pkIBjk.png)
 
 # Acknowledgements
 
@@ -96,7 +96,7 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 # License
 
-![](https://cdn-images-1.medium.com/max/800/0*hocpUZXBcjzNJeQ2.png)
+![](./0*hocpUZXBcjzNJeQ2.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0
 International License.

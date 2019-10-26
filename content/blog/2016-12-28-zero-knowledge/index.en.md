@@ -6,13 +6,13 @@ author: Christian Seberino
 
 # Basic Definition
 
-![secrets](http://i.imgsafe.org/f4b427bcd0.jpg)
+![secrets](./f4b427bcd0.jpg)
 
 Zero knowledge proofs are proofs that do not reveal *any* information *except* the statement being proved.
 
 # Ben & Jerry
 
-![container](http://i.imgsafe.org/f4b94f376c.jpg)
+![container](./f4b94f376c.jpg)
 
 Ben wants to prove to Jerry that he knows the passcode associated with an automated teller machine (ATM) card.  Therefore, he performs an ATM deposit and withdrawal *without* divulging the passcode entered.  Ben has made a zero knowledge proof!
 
@@ -24,7 +24,7 @@ Only with *all* the necessary steps preventing Ben from leaking information, and
 
 # Current Methods
 
-![security](http://i.imgsafe.org/f4bd3259eb.jpg)
+![security](./f4bd3259eb.jpg)
 
 Many current zero knowledge proof methods are *interactive*.  They require the exchange of nonces, or some equivalent, to protect against replay attacks (replaying transmitted text).
 
@@ -32,7 +32,7 @@ Many current zero knowledge proof methods only establish a high *probability* of
 
 # Some Applications
 
-![zcash](http://i.imgsafe.org/f4a994feea.png)
+![zcash](./f4a994feea.png)
 
 Zero knowledge proofs might improve authentication systems.  Imagine how secure password based systems will be if they *only* require zero knowledge proofs of password possession.  Adequate systems, for many applications, are *already* available  with public key encryption!
 
@@ -42,7 +42,7 @@ Zero knowledge proofs might lead to amazing blockchain applications that can *al
 
 # Parting Thoughts
 
-![math](http://i.imgsafe.org/f4c9f917bf.jpg)
+![math](./f4c9f917bf.jpg)
 
 Zero knowledge proofs might improve authentication systems, eliminate escrow services, add privacy to blockchain applications, and, do much more.  Who would have guessed research in an abstract field of mathematics would have so many consequences!
 
@@ -50,7 +50,7 @@ Zero knowledge proofs might improve authentication systems, eliminate escrow ser
 
 You can contact me by clicking any of these icons:
 
-[![twitter](http://i.imgsafe.org/fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](http://i.imgsafe.org/fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](http://i.imgsafe.org/fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
+[![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
 # Acknowledgements
 
@@ -58,6 +58,6 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 # License
 
-![license](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![license](./88x31.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0 International License.

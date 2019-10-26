@@ -5,7 +5,7 @@ author: Prophet Daniel
 ---
 
 # A take on radicalism and diplomacy
-![](http://i.imgur.com/JXXUxJt.png)
+![](./JXXUxJt.png)
 
 Radicalism is often seen as a bad thing when in essence it is good. In latin radix means root, therefore being radical means going to the root cause of the matter and taking action to improve it. In the other hand diplomacy is mostly seen as a good thing, mainly because people naturally understand that a diplomatic person is skilled and tactful in dealing with sensitive matters or people.
 
@@ -20,7 +20,7 @@ Radicalism is also evident in Bitcoin community where cypherpunks were radical a
 Being mostly radical and against the use of force at the same time is a tendency to be anarchist. Most people actually are, but they just don't realize.
 
 # Anarchism and power centralization
-![](http://i.imgur.com/BfSRI0w.jpg)
+![](./BfSRI0w.jpg)
 
 Nature itself is mostly anarchist.
 
@@ -37,7 +37,7 @@ To minimize the effect of power being wasted in vain, technology can be used for
 >Ideology is a lie told in a beautiful way.
 
 # A world of so many lies
-![](http://i.imgur.com/tUIZnoN.jpg?1)
+![](./tUIZnoN.jpg?1)
 
 >Why are those people going to war?
 >They are protecting women, human rights, they are fighting for freedom and so on.
@@ -52,7 +52,7 @@ We are in a special moment in history, never in the past we had as much availabl
 Immutability is instrumental in preserving the truth and it is also the main value for the insurgence of Ethereum Classic against Ethereum foundation. Once truth is preserved it becomes less hard to control our own existence. The reason is historic truth allows that future generations be able to process cause and effect in a better way with greater processing power than we actually have. So they can set better control mechanisms to make sure sustainable development goals are going to be reached faster and that the mankind is going to be good in essence not evil.
 
 # Social and Financial Value
-![](http://i.imgur.com/EQokQ8z.png)
+![](./EQokQ8z.png)
 
 How to reduce hypocrisy in the social and financial area? Some might ask.
 
@@ -64,6 +64,6 @@ Sooner or later mankind will also be responsible to drive human genetics evoluti
 
 
 # Invitation for engagement
-![](http://i.imgur.com/yYh5PmL.jpg?1)
+![](./yYh5PmL.jpg?1)
 
 Stand up from the crowd, do your homework, become more conscious about the challenges and opportunities the world current faces. And let us shape the future of the Blockchain together. Ethereum Classic has a revolutionary technology and can be a disruptive decentralized community as no other. Fight for this cause, let us lead the technology revolution!

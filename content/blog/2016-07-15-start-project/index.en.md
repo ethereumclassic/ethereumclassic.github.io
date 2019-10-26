@@ -4,7 +4,7 @@ date: 2016-07-15
 author: Arvicco
 ---
 
-![Ethereum Classic Logo](https://cdn-images-1.medium.com/max/800/1*nIUazw_u3KChCX89fLgLDg.png)
+![Ethereum Classic Logo](./1*nIUazw_u3KChCX89fLgLDg.png)
 
 ## Ideology
 We believe in decentralized, censorship-resistant, permissionless blockchains. We believe in the original vision of Ethereum as a world computer you can't shut down, running irreversible smart contracts. We believe in a strong separation of concerns, where system forks are only possible in order to correct actual platform bugs, not to bail out failed contracts and special interests. We believe in censorship-resistant platform that can be actually trusted - by anyone.
