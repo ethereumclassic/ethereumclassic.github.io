@@ -1,9 +1,11 @@
 import React from 'react';
 
-const Card = ({ title, children, span, link, className }) => {
+import Link from './link';
+
+const Card = ({ title, children, span, to, className }) => {
   const style = span ? { gridColumn: `span ${span}` } : {};
-  const Comp = link ? 'a' : 'div';
-  const linkArgs = link ? { href: link, target: '_blank', rel: 'noopener noreferrer' } : {};
+  const Comp = to ? Link : 'div';
+  const linkArgs = to ? { to } : {};
   return (
     <Comp className={`card item ${className || ''}`} style={style} {...linkArgs}>
       {title && <h4>{title}</h4>}
