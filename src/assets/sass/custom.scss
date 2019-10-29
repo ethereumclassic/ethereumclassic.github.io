@@ -57,20 +57,29 @@ a .fas {
   margin: 0 0.5em;
 }
 
-// the dropdown menu
 #page-nav {
   position: relative;
-  label {
+}
+
+// the dropdown menu
+.hamburger {
+  input + label {
+    &::before {
+      display: none;
+    }
     display: inline-block;
-    margin: 10px 10px 5px 5px;
     line-height: 40px;
     cursor: pointer;
+    user-select: none;
     background: rgba(0,0,0,0.1);
-    font-size: 20px;
-    width: 40px;
+    min-width: 40px;
     height: 40px;
     text-align: center;
-    padding: 0px 6px 0px 10px;
+    padding: 0 15px;
+    text-transform: none;
+    letter-spacing: inherit;
+    font-weight: normal;
+    margin-bottom: 10px;
   }
   .buttons {
     display: none;
@@ -84,6 +93,10 @@ a .fas {
   a {
     display: block;
     cursor: pointer;
+  }
+  input:checked + label {
+    background-color: black !important;
+    color: white;
   }
   input:checked ~ .buttons {
     display: block;
@@ -374,5 +387,35 @@ a.card {
       grid-template-columns: 1fr 2fr;
       grid-gap: 1em;
     }
+  }
+}
+
+.education-menu {
+  &.compact .item {
+    display: inline-block;
+    &.back{
+      display: block;
+      margin-bottom: 1em;
+    }
+  }
+  &.full .item {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 1.5em;
+    margin: 1.5em 0em;
+  }
+  &.collapsed {
+    margin-bottom: 2em;
+    position: relative;
+    .item {
+      display: block;
+    }
+    .hamburger {
+      position: absolute;
+      top: 0;
+      right: 0;
+    }
+  }
+  span {
+    display: block;
   }
 }

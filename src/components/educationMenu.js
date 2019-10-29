@@ -1,5 +1,6 @@
 import React from 'react';
 import ButtonLink from './buttonLink';
+import Hamburger from './hamburger';
 
 // TODO import from i18n
 
@@ -45,26 +46,33 @@ const items = [
   }
 ];
 
-const EducationMenu = ({ compact }) => {
+const EducationMenu = ({ compact, collapsed }) => {
+  const buttons = items.map(({ text, link, subText }) => (
+    <div className="item">
+      <ButtonLink to={link}>{text}</ButtonLink>
+      {!compact && subText && <span>{subText}</span>}
+    </div>
+  ));
   return (
-    <ul className="education-menu">
+    <div
+      className={`education-menu ${compact ? 'compact' : 'full'} ${collapsed ? 'collapsed' : ''}`}
+    >
       {compact && (
-        <li>
-          <ButtonLink to="/education">Education Home</ButtonLink>
-        </li>
+        <div className="item back">
+          <ButtonLink to="/education">
+            <i className="fas fa-angle-left" />
+            Education Home
+          </ButtonLink>
+        </div>
       )}
-      {items.map(({ text, link, subText, external, ...props }) => (
-        <li {...props} key={link}>
-          <ButtonLink to={link}>{text}</ButtonLink>
-          {!compact && (
-            <>
-              <br />
-              {subText}
-            </>
-          )}
-        </li>
-      ))}
-    </ul>
+      {!collapsed ? (
+        buttons
+      ) : (
+        <Hamburger title="Articles" id="education">
+          {buttons}
+        </Hamburger>
+      )}
+    </div>
   );
 };
 

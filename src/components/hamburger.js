@@ -16,15 +16,24 @@ class Hamburger extends React.Component {
   }
 
   render() {
-    const { children } = this.props;
+    const { children, id = 'main', title } = this.props;
+    const inputId = `${id}-hamburger`;
     return (
-      <nav id="page-nav">
-        <label htmlFor="hamburger">&#9776;</label>
-        <input type="checkbox" id="hamburger" ref={this.myRef} />
+      <div className="hamburger">
+        <input type="checkbox" id={inputId} ref={this.myRef} />
+        <label htmlFor={inputId}>
+          {title && (
+            <>
+              {title}
+              &nbsp;
+            </>
+          )}
+          &#9776;
+        </label>
         <div className="buttons" onClick={this.onClick}>
           {children}
         </div>
-      </nav>
+      </div>
     );
   }
 }

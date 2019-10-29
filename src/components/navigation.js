@@ -10,15 +10,17 @@ const Navigation = () => {
   return (
     <div id="menu">
       <SelectLanguage />
-      <Hamburger>
-        <NavigationButton to="/" text={backToHome} />
-        <NavigationButton to="/education" text="Education" />
-        <NavigationButton to="/teams" text="Teams" />
-        <NavigationButton to="/roadmap" text="Roadmap" />
-        <NavigationButton to="/powered-by-etc" text="Powered by ETC" />
-        <NavigationButton to="/resources" text="Resources" />
-        <NavigationButton to="/blog" text="Blog" />
-      </Hamburger>
+      <div id="page-nav">
+        <Hamburger>
+          <NavigationButton to="/" text={backToHome} />
+          <NavigationButton to="/education" text="Education" />
+          <NavigationButton to="/teams" text="Teams" />
+          <NavigationButton to="/roadmap" text="Roadmap" />
+          <NavigationButton to="/powered-by-etc" text="Powered by ETC" />
+          <NavigationButton to="/resources" text="Resources" />
+          <NavigationButton to="/blog" text="Blog" />
+        </Hamburger>
+      </div>
     </div>
   );
 };
