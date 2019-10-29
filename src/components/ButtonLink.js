@@ -1,25 +1,8 @@
 import React from 'react';
-import LocalizedLink from './localizedLink';
+import Link from './link';
 
-const ButtonLink = ({ link, text, children, internal, className, ...props }) => {
-  if (internal) {
-    return (
-      <LocalizedLink to={link} className={`button-link ${className || ''}`}>
-        {children}
-      </LocalizedLink>
-    );
-  }
-  return (
-    <a
-      href={link}
-      target="_blank"
-      rel="noopener noreferrer"
-      className={`button-link ${className || ''}`}
-      {...props}
-    >
-      {text || children}
-    </a>
-  );
+const ButtonLink = ({ className, ...props }) => {
+  return <Link className={`button-link ${className}`} {...props} />;
 };
 
 export default ButtonLink;

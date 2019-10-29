@@ -21,7 +21,7 @@ const Banner = () => {
           Vancouver Convention Centre
           <br />
           <br />
-          <ButtonLink link="https://etcsummit.com/">
+          <ButtonLink to="https://etcsummit.com/">
             Event Details
             <i className="fas fa-angle-right" />
           </ButtonLink>

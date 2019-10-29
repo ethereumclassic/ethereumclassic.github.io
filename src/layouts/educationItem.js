@@ -1,5 +1,6 @@
 import React from 'react';
 import { graphql } from 'gatsby';
+import EducationMenu from '~components/educationMenu';
 import LocalizedLink from '~components/localizedLink';
 import Mdx from '~components/mdx';
 
@@ -8,7 +9,7 @@ import PageLayout from './pageLayout';
 const EducationItem = ({ data: { mdx } }) => {
   return (
     <PageLayout headerExtra={<LocalizedLink to="/education">Education</LocalizedLink>}>
-      Education Menu Goes Here...
+      <EducationMenu compact />
       <h1>{mdx.frontmatter.title}</h1>
       <Mdx code={mdx.body} />
     </PageLayout>

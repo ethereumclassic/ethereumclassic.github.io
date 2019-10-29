@@ -1,9 +1,9 @@
 import React from 'react';
 
-const SocialIcon = ({ link, icon, text }) => {
+const SocialIcon = ({ to, icon, text }) => {
   return (
     <li>
-      <a href={link} target="_blank" rel="noopener noreferrer" className={`icon brands fa-${icon}`}>
+      <a href={to} target="_blank" rel="noopener noreferrer" className={`icon brands fa-${icon}`}>
         <span className="label">{text}</span>
       </a>
     </li>

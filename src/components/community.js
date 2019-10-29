@@ -5,14 +5,14 @@ const Community = () => {
   return (
     <div className="community">
       <h3>Community</h3>
-      <ButtonLink link="https://etcdevteam.com" text="ETCDEV" />
-      <ButtonLink link="https://iohk.io/projects/ethereum-classic/" text="IOHK" />
-      <ButtonLink link="https://etccooperative.org" text="ETC Cooperative" />
-      <ButtonLink link="https://www.etclabs.org/" text="ETC Labs" />
-      <ButtonLink link="http://ethereumclassicasia.org" text="ETC Asia" />
-      <ButtonLink link="https://etckorea.modoo.at/" text="ETC Korea" />
-      <ButtonLink link="http://www.ethereumclassicitalia.org/" text="ETC Italia" />
-      <ButtonLink link="http://ethereumclassic.cn" text="ETC China" />
+      <ButtonLink to="https://etcdevteam.com" text="ETCDEV" />
+      <ButtonLink to="https://iohk.io/projects/ethereum-classic/" text="IOHK" />
+      <ButtonLink to="https://etccooperative.org" text="ETC Cooperative" />
+      <ButtonLink to="https://www.etclabs.org/" text="ETC Labs" />
+      <ButtonLink to="http://ethereumclassicasia.org" text="ETC Asia" />
+      <ButtonLink to="https://etckorea.modoo.at/" text="ETC Korea" />
+      <ButtonLink to="http://www.ethereumclassicitalia.org/" text="ETC Italia" />
+      <ButtonLink to="http://ethereumclassic.cn" text="ETC China" />
     </div>
   );
 };

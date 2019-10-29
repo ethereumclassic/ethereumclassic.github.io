@@ -16,14 +16,14 @@ const TeamMember = ({ description, name, title, github, twitter, children: image
           <ul className="icons inverted">
             {twitter && (
               <SocialIcon
-                link={`https://twitter.com/${twitter}`}
+                to={`https://twitter.com/${twitter}`}
                 text={`@${name} on Twitter`}
                 icon="twitter"
               />
             )}
             {github && (
               <SocialIcon
-                link={`https://github.com/${github}`}
+                to={`https://github.com/${github}`}
                 text={`${name} on Github`}
                 icon="github"
               />

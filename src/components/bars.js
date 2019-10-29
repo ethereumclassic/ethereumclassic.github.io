@@ -5,7 +5,7 @@ const Bars = ({ title, items }) => {
     <div className="bars">
       {title && <h3>{title}</h3>}
       {items.map(({ name, progress }) => (
-        <div>
+        <div key={name}>
           <span>{name}</span>
           <div className="bar">
             <div className="fill" style={{ width: `${progress || 100}%` }} />

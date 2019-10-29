@@ -20,21 +20,18 @@ const items = [
     subText: 'Learn how to use the Classic Ether Wallet.'
   },
   {
-    external: true,
     text: 'Declaration of Independence',
     link: '/ETC_Declaration_of_Independence.pdf',
     subText:
       'Essentially the ETC Whitepaper. A statement of our cause, a list of grievances, and a description of our principles and goals.'
   },
   {
-    external: true,
     text: 'Emerald SDK',
     link: 'https://etcdev.gitbook.io/docs/emerald-sdk',
     subText:
       'Emerald Software Development Kit (SDK) is a development framework to easily create DApps.'
   },
   {
-    external: true,
     text: 'Emerald Platform',
     link: 'https://etcdev.gitbook.io/docs/emerald-platform',
     subText:
@@ -48,16 +45,23 @@ const items = [
   }
 ];
 
-const EducationMenu = () => {
+const EducationMenu = ({ compact }) => {
   return (
     <ul className="education-menu">
+      {compact && (
+        <li>
+          <ButtonLink to="/education">Education Home</ButtonLink>
+        </li>
+      )}
       {items.map(({ text, link, subText, external, ...props }) => (
         <li {...props} key={link}>
-          <ButtonLink link={link} internal={!external}>
-            {text}
-          </ButtonLink>
-          <br />
-          {subText}
+          <ButtonLink to={link}>{text}</ButtonLink>
+          {!compact && (
+            <>
+              <br />
+              {subText}
+            </>
+          )}
         </li>
       ))}
     </ul>

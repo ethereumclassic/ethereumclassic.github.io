@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'gatsby';
+import { Link as GatsbyLink } from 'gatsby';
 import LocaleContext from '../i18n/localeContext';
 import { defaultLocale } from '../i18n/config';
 
@@ -11,7 +11,7 @@ const LocalizedLink = ({ to, ...props }) => {
     path = `/${locale}${to}`;
   }
 
-  return <Link {...props} to={path} />;
+  return <GatsbyLink {...props} to={path} />;
 };
 
 export default LocalizedLink;

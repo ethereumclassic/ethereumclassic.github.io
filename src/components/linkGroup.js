@@ -6,7 +6,7 @@ const LinkGroup = ({ title, items }) => {
     <div className="link-group">
       {title && <h5>{title}</h5>}
       {items.map(({ link, text }) => (
-        <ButtonLink link={link} key={link}>
+        <ButtonLink to={link} key={link}>
           {/* {icon && } */}
           {text}
         </ButtonLink>

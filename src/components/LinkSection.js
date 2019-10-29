@@ -1,11 +1,11 @@
 import React from 'react';
 import ButtonLink from './buttonLink';
 
-const LinkSection = ({ link, children, title }) => {
+const LinkSection = ({ to, children, title }) => {
   return (
     <div>
-      {link && (
-        <ButtonLink link={link} style={{ float: 'right', marginTop: '-0.5em' }}>
+      {to && (
+        <ButtonLink to={to} style={{ float: 'right', marginTop: '-0.5em' }}>
           Visit Website
           <i className="fas fa-angle-right" />
         </ButtonLink>
