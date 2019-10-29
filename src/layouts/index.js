@@ -3,6 +3,8 @@ import Helmet from 'react-helmet';
 
 import '../assets/sass/main.scss';
 
+import Warning from '~components/warning';
+
 import withI18next from '../i18n/withI18next';
 
 const Index = ({ children }) => {
@@ -11,6 +13,7 @@ const Index = ({ children }) => {
       <Helmet>
         <title>Ethereum Classic</title>
       </Helmet>
+      <Warning />
       {children}
     </>
   );

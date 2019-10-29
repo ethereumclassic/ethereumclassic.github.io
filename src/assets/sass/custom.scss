@@ -419,3 +419,45 @@ a.card {
     display: block;
   }
 }
+
+.warning-container {
+  position: fixed;
+  width: 100%;
+  z-index: 20;
+  transition: opacity .5s ease-in-out;
+  &.hidden {
+    opacity: 0;
+    user-select: none;
+    pointer-events: none;
+  }
+  .warning-overlay {
+    * { color: white; }
+    position: relative;
+    background: rgba(255, 27, 27, 0.9);
+    box-shadow: $softShadow;
+    width: 500px;
+    max-width: 80%;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 0.8em;
+    .close-button { 
+      position: absolute;
+      top: 0; 
+      right: 0;
+      width: 30px;
+      height: 30px;
+      cursor: pointer;
+      text-align: center;
+    }
+    h3, p {
+      line-height: 1.2em;
+      margin: 0.2em 0;
+    }
+    .action {
+      float: right;
+      padding-left: 1em;
+    }
+  }
+}
