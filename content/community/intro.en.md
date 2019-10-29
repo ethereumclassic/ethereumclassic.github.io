@@ -1,4 +1,6 @@
-# Etheruem Classic Community
+# Community
+
+### Subtitle goes here
 
 The ETC Commmunity is decentralized without a formal heirarchy; it's a permissionless 'do-ocracy', where anyone can participate. Individuals and teams choose tasks for themselves and execute them.
 
