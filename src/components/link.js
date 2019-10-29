@@ -4,24 +4,30 @@ import LocalizedLink from './localizedLink';
 
 import { isHash, isInternal } from '../util';
 
-const Link = ({ to, text, children, ...props }) => {
+const Link = ({ to, text, children, icon, ...props }) => {
+  const content = (
+    <>
+      {text || children}
+      {icon && <i className={`fas fa-${icon}`} />}
+    </>
+  );
   if (isHash(to)) {
     return (
       <a {...props} href={to}>
-        {text || children}
+        {content}
       </a>
     );
   }
   if (!isInternal(to) || to.indexOf('/static/') === 0 || to.endsWith('.pdf')) {
     return (
       <a {...props} href={to} target="_blank" rel="noopener noreferrer">
-        {text || children}
+        {content}
       </a>
     );
   }
   return (
     <LocalizedLink {...props} to={to}>
-      {text || children}
+      {content}
     </LocalizedLink>
   );
 };
