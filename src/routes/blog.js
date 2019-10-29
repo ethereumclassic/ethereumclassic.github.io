@@ -1,20 +1,20 @@
 import React from 'react';
-import { graphql, Link } from 'gatsby';
-import LocalizedLink from '~components/localizedLink';
+import { graphql } from 'gatsby';
+import Link from '~components/link';
 import DefaultLanguageHidden from '~components/defaultLanguageHidden';
 
 import PageLayout from '../layouts/pageLayout';
 
 const Blog = ({ data: { allMdx } }) => {
   return (
-    <PageLayout headerExtra="Blog">
+    <PageLayout>
       <DefaultLanguageHidden>
         <Link className="button-link" to="/blog" style={{ float: 'right', marginTop: '0' }}>
           Enlgish Posts
         </Link>
       </DefaultLanguageHidden>
-      <h2>Latest Articles</h2>
-      <hr style={{ margin: '2rem 0' }} />
+      <h1>Blog & Updates</h1>
+      <h3>Latest Articles</h3>
       {allMdx.edges.length === 0 ? (
         <div>
           <br />
@@ -25,21 +25,20 @@ const Blog = ({ data: { allMdx } }) => {
           {allMdx.edges.map(({ node: post }) => (
             <div key={`${post.frontmatter.title}-${post.fields.locale}`} className="blog-item">
               <h4>
-                {new Date(post.frontmatter.date).toLocaleDateString()}
+                {`${new Date(post.frontmatter.date).toLocaleDateString()} `}
                 <small>{post.frontmatter.author}</small>
               </h4>
               <h3>
-                <LocalizedLink to={`/${post.parent.relativeDirectory}`}>
-                  {post.frontmatter.title}
-                </LocalizedLink>
+                <Link to={`/${post.parent.relativeDirectory}`}>{post.frontmatter.title}</Link>
                 <br />
               </h3>
               <div>
-                {post.excerpt}
-                <LocalizedLink to={`/${post.parent.relativeDirectory}`}>
-                  Continue reading
+                {`${post.excerpt} `}
+                <br />
+                <Link to={`/${post.parent.relativeDirectory}`} className="read-more">
+                  Continue Reading
                   <i className="fas fa-angle-right" />
-                </LocalizedLink>
+                </Link>
               </div>
             </div>
           ))}

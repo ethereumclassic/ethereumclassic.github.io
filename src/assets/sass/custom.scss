@@ -2,19 +2,39 @@
 // TODO refactor
 
 $softShadow: 0 0.5em 1em rgba(0,0,0,.1); 
+$solidBottom:  2px solid rgba(0,0,0,.2);
 
 iframe {
   max-width: 100%;
 }
 
+img {
+  max-width: 100%;
+}
+h4, h3 {
+  line-height: 1.2em;
+  margin-bottom: 0.4em;
+  // a { border-bottom: 0; }
+  text-transform: inherit;
+  small { opacity: 0.5; }
+}
+h3 {
+  font-size: 2em;
+  letter-spacing: 0em;
+}
+h1 {
+  font-size: 3em;
+}
+
+
 #wrapper.page {
-  #layout-content {
+  .layout-container {
     background: white;
   }
-  #layout-container {
+  .layout-content {
     margin: auto;
     max-width: 900px;
-    padding: 4rem;
+    padding: 2rem 4rem;
     @include breakpoint('<=small') {
       padding: 2rem;
     }
@@ -33,6 +53,9 @@ iframe {
     h1 {
       margin:0;
     }
+  }
+  h2 {
+    margin-top: 2em;
   }
 }
 
@@ -78,7 +101,7 @@ a .fas {
     padding: 0 15px;
     text-transform: none;
     letter-spacing: inherit;
-    font-weight: normal;
+    font-weight: 100;
     margin-bottom: 10px;
   }
   .buttons {
@@ -88,6 +111,8 @@ a .fas {
     right: 0;
     background: white;
     padding: 0;
+    max-height: 300px;
+    overflow-y: auto;
     box-shadow: $softShadow;
   }
   a {
@@ -125,12 +150,16 @@ a .fas {
 }
 
 .wide-section {
+  .container {
+    &.full {
+      max-width: none;
+    }
+    max-width: 900px;
+    margin: auto;
+  }
   background: white;
-  padding: 4em;
-  margin-top: 4rem;
-  z-index: 2;
+  padding: 2em;
   position: relative;
-  text-align: center;
   @include breakpoint('<=small') {
     padding: 2rem;
     margin-top: 2rem;
@@ -157,25 +186,30 @@ a .fas {
   max-width: 100%;
   grid-gap: 2em;
   margin-bottom: 2em;
+  grid-template-columns: 1fr 1fr;
   @include breakpoint('<=small') {
     grid-template-columns: 1fr !important;
   }
 }
 
-.icon-grid .icon-item {
-  font-size: 4em;
-  color: black;
-  height: 1.8em;
-  width: 1.8em;
-  background: _palette(accent);
-  border-radius: 100%;
+.icon-grid {
   text-align: center;
-  vertical-align: middle;
-  line-height: 1.8em;
-  margin-bottom: 0.5em;
+  margin: 2em;
+  .icon-item {
+    font-size: 4em;
+    color: black;
+    height: 1.8em;
+    width: 1.8em;
+    background: _palette(accent);
+    border-radius: 100%;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 1.8em;
+    margin-bottom: 0.5em;
+  }
 }
 
-// TODO fix this...
+// TODO fix/refactor this...
 .intro {
   position: relative;
   img.logo {
@@ -250,10 +284,11 @@ a .fas {
   }
 }
 
+// TODO seperate these
 .blog-item, .blog-post {
   margin-bottom: 2em;
   padding-bottom: 2em;
-  border-bottom: 1px solid rgba(0,0,0,.2);
+  border-bottom: $solidBottom;
   img {
     max-width: 100%;
   }
@@ -332,7 +367,9 @@ a.card {
   .key {
     padding: 0.3em 0.4em;
     margin: 0 0.2em;
-    background: blue;
+    white-space: nowrap;
+    display: inline-block;
+    line-height: 1.2em;
     &.green {
       background: _palette(accent);
     }
@@ -399,7 +436,7 @@ a.card {
     }
   }
   &.full .item {
-    border-bottom: 1px solid #ccc;
+    border-bottom: $solidBottom;
     padding-bottom: 1.5em;
     margin: 1.5em 0em;
   }
@@ -425,13 +462,17 @@ a.card {
   width: 100%;
   z-index: 20;
   transition: opacity .5s ease-in-out;
+  pointer-events: none;
   &.hidden {
     opacity: 0;
     user-select: none;
+  }
+  &.hidden .warning-overlay {
     pointer-events: none;
   }
   .warning-overlay {
     * { color: white; }
+    pointer-events: auto;
     position: relative;
     background: rgba(255, 27, 27, 0.9);
     box-shadow: $softShadow;
@@ -460,4 +501,22 @@ a.card {
       padding-left: 1em;
     }
   }
+}
+
+.dapps-list {
+  .wide-section {
+    background: #efefef;
+  }
+  .grid {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }
+  .card .content {
+    max-height: 200px;
+    overflow-y: auto;
+    line-height: 1.4em;
+  }
+}
+
+iframe.video {
+  margin: 2em 0;
 }

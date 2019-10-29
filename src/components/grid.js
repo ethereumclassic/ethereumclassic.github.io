@@ -1,13 +1,17 @@
 import React from 'react';
 
-const Grid = ({ children, columns = 2, className }) => {
-  const gridTemplateColumns = new Array(columns)
-    .fill()
-    .map(() => '1fr')
-    .join(' ');
+const Grid = ({ children, columns, className }) => {
+  const style = !columns
+    ? {}
+    : {
+        gridTemplateColumns: new Array(columns)
+          .fill()
+          .map(() => '1fr')
+          .join(' ')
+      };
 
   return (
-    <div className={`grid ${className || ''}`} style={{ gridTemplateColumns }}>
+    <div className={`grid ${className || ''}`} style={style}>
       {children}
     </div>
   );

@@ -7,7 +7,7 @@ import PageLayout from '../layouts/pageLayout';
 
 const Roadmap = ({ pageContext: { i18n } }) => {
   return (
-    <PageLayout headerExtra="Roadmap">
+    <PageLayout>
       <Mdx code={i18n.mdx.roadmap} />
       <Bars
         title="Multi-Geth / Classic Geth"

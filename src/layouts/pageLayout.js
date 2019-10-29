@@ -10,8 +10,8 @@ const PageLayout = ({ children, headerExtra }) => {
       <Navigation />
       <div id="wrapper" className="page">
         <Header extra={headerExtra} />
-        <div id="layout-content">
-          <div id="layout-container">{children}</div>
+        <div className="layout-container">
+          <div className="layout-content">{children}</div>
         </div>
         <Footer />
       </div>

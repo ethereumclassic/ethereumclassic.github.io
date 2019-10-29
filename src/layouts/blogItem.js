@@ -2,12 +2,16 @@ import React from 'react';
 import { graphql } from 'gatsby';
 
 import Mdx from '~components/mdx';
-import LocalizedLink from '~components/localizedLink';
+import Link from '~components/link';
+import BackButton from '~components/backButton';
+import Spacer from '~components/spacer';
 
 import PageLayout from './pageLayout';
 
 const BlogItem = ({ data: { mdx } }) => (
-  <PageLayout headerExtra={<LocalizedLink to="/blog">Blog</LocalizedLink>}>
+  <PageLayout headerExtra={<Link to="/blog">Blog</Link>}>
+    <BackButton text="Blog Articles" to="/blog" />
+    <Spacer />
     <div className="blog-post">
       <h4>
         {`${new Date(mdx.frontmatter.date).toLocaleDateString()} `}
@@ -16,10 +20,7 @@ const BlogItem = ({ data: { mdx } }) => (
       <h1>{mdx.frontmatter.title}</h1>
       <Mdx code={mdx.body} />
     </div>
-    <LocalizedLink to="/blog" className="button-link">
-      <i className="fas fa-angle-left" />
-      Back to Blog
-    </LocalizedLink>
+    <BackButton text="Blog Articles" to="/blog" />
   </PageLayout>
 );
 

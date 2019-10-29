@@ -1,6 +1,7 @@
 import React from 'react';
 import ButtonLink from './buttonLink';
 import Hamburger from './hamburger';
+import BackButton from './backButton';
 
 // TODO import from i18n
 
@@ -48,7 +49,7 @@ const items = [
 
 const EducationMenu = ({ compact, collapsed }) => {
   const buttons = items.map(({ text, link, subText }) => (
-    <div className="item">
+    <div className="item" key={link}>
       <ButtonLink to={link}>{text}</ButtonLink>
       {!compact && subText && <span>{subText}</span>}
     </div>
@@ -59,10 +60,7 @@ const EducationMenu = ({ compact, collapsed }) => {
     >
       {compact && (
         <div className="item back">
-          <ButtonLink to="/education">
-            <i className="fas fa-angle-left" />
-            Education Home
-          </ButtonLink>
+          <BackButton to="/education" text="Education" />
         </div>
       )}
       {!collapsed ? (
