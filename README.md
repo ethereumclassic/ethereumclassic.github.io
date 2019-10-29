@@ -2,6 +2,8 @@
 
 ## Work in progress
 
+Presently focusing on content and strucutre, the design/layouts will be polished as it nears v2 release.
+
 ### vNow
 
 - Move all content from routes into components
