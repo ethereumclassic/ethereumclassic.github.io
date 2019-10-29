@@ -1,10 +1,13 @@
 import React from 'react';
 import { graphql } from 'gatsby';
+
 import Mdx from '~components/mdx';
 import LocalizedLink from '~components/localizedLink';
 
-const BlogPost = ({ data: { mdx } }) => (
-  <>
+import PageLayout from './pageLayout';
+
+const BlogItem = ({ data: { mdx } }) => (
+  <PageLayout headerExtra={<LocalizedLink to="/blog">Blog</LocalizedLink>}>
     <div className="blog-post">
       <h4>
         {`${new Date(mdx.frontmatter.date).toLocaleDateString()} `}
@@ -17,13 +20,13 @@ const BlogPost = ({ data: { mdx } }) => (
       <i className="fas fa-angle-left" />
       Back to Blog
     </LocalizedLink>
-  </>
+  </PageLayout>
 );
 
-export default BlogPost;
+export default BlogItem;
 
 export const query = graphql`
-  query BlogPost($locale: String!, $title: String!) {
+  query BlogItem($locale: String!, $title: String!) {
     mdx(frontmatter: { title: { eq: $title } }, fields: { locale: { eq: $locale } }) {
       body
       frontmatter {

@@ -1,5 +1,7 @@
 import React from 'react';
 
-const NotFound = () => <>Page not found!</>;
+import PageLayout from '../layouts/pageLayout';
+
+const NotFound = () => <PageLayout>Page not found!</PageLayout>;
 
 export default NotFound;

@@ -4,9 +4,11 @@ import Grid from '~components/grid';
 import Card from '~components/card';
 import LinkGroup from '~components/linkGroup';
 
+import PageLayout from '../layouts/pageLayout';
+
 const Reseources = () => {
   return (
-    <>
+    <PageLayout>
       <div className="resources">
         <h2>Community Resources</h2>
         <Grid>
@@ -412,7 +414,7 @@ const Reseources = () => {
           </Card>
         </Grid>
       </div>
-    </>
+    </PageLayout>
   );
 };
 

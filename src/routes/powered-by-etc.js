@@ -3,9 +3,11 @@ import React from 'react';
 import Grid from '~components/grid';
 import Card from '~components/card';
 
+import PageLayout from '../layouts/pageLayout';
+
 const PoweredByEtc = () => {
   return (
-    <>
+    <PageLayout>
       <h2>Powered By ETC</h2>
       <p>Major projects that are running on and using the ETC blockchain today.</p>
       <div className="legend">
@@ -103,7 +105,7 @@ const PoweredByEtc = () => {
           emojis. A first in the Cryptocurrency space. Ownership is recorded on the ETC blockchain.
         </Card>
       </Grid>
-    </>
+    </PageLayout>
   );
 };
 

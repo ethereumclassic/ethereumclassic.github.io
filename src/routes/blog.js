@@ -3,9 +3,11 @@ import { graphql, Link } from 'gatsby';
 import LocalizedLink from '~components/localizedLink';
 import DefaultLanguageHidden from '~components/defaultLanguageHidden';
 
+import PageLayout from '../layouts/pageLayout';
+
 const Blog = ({ data: { allMdx } }) => {
   return (
-    <>
+    <PageLayout headerExtra="Blog">
       <DefaultLanguageHidden>
         <Link className="button-link" to="/blog" style={{ float: 'right', marginTop: '0' }}>
           Enlgish Posts
@@ -43,7 +45,7 @@ const Blog = ({ data: { allMdx } }) => {
           ))}
         </div>
       )}
-    </>
+    </PageLayout>
   );
 };
 

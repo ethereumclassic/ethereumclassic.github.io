@@ -3,9 +3,11 @@ import React from 'react';
 import Mdx from '~components/mdx';
 import Bars from '~components/bars';
 
-const Teams = ({ pageContext: { i18n } }) => {
+import PageLayout from '../layouts/pageLayout';
+
+const Roadmap = ({ pageContext: { i18n } }) => {
   return (
-    <>
+    <PageLayout headerExtra="Roadmap">
       <Mdx code={i18n.mdx.roadmap} />
       <Bars
         title="Multi-Geth / Classic Geth"
@@ -85,8 +87,8 @@ const Teams = ({ pageContext: { i18n } }) => {
         ]}
       />
       <Mdx code={i18n.mdx.projects} />
-    </>
+    </PageLayout>
   );
 };
 
-export default Teams;
+export default Roadmap;
