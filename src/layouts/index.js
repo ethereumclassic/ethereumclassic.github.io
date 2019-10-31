@@ -1,18 +1,16 @@
 import React from 'react';
-import Helmet from 'react-helmet';
 
 import '../assets/sass/main.scss';
 
 import Warning from '~components/warning';
+import SEO from '~components/seo';
 
 import withI18next from '../i18n/withI18next';
 
 const Index = ({ children }) => {
   return (
     <>
-      <Helmet>
-        <title>Ethereum Classic</title>
-      </Helmet>
+      <SEO />
       <Warning />
       {children}
     </>

@@ -8,7 +8,7 @@ import PageLayout from '../layouts/pageLayout';
 
 const Blog = ({ data: { allMdx } }) => {
   return (
-    <PageLayout>
+    <PageLayout seo={{ title: 'Blog', description: 'Latest news and articles' }}>
       <DefaultLanguageHidden>
         <Link
           className="button-link"

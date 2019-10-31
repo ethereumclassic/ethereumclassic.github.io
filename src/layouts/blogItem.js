@@ -9,7 +9,7 @@ import Spacer from '~components/spacer';
 import PageLayout from './pageLayout';
 
 const BlogItem = ({ data: { mdx } }) => (
-  <PageLayout headerExtra={<Link to="/blog">Blog</Link>}>
+  <PageLayout headerExtra={<Link to="/blog">Blog</Link>} seo={{ title: mdx.frontmatter.title }}>
     <BackButton text="Blog Articles" to="/blog" />
     <Spacer />
     <div className="blog-post">

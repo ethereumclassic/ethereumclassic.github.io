@@ -8,7 +8,10 @@ import PageLayout from './pageLayout';
 
 const EducationItem = ({ data: { mdx } }) => {
   return (
-    <PageLayout headerExtra={<LocalizedLink to="/education">Education</LocalizedLink>}>
+    <PageLayout
+      headerExtra={<LocalizedLink to="/education">Education</LocalizedLink>}
+      seo={{ title: mdx.frontmatter.title }}
+    >
       <EducationMenu compact collapsed />
       <h1>{mdx.frontmatter.title}</h1>
       <Mdx code={mdx.body} />

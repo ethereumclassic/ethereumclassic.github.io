@@ -45,10 +45,11 @@ const withI18next = () => Comp => {
 
     render() {
       const {
-        pageContext: { locale }
+        pageContext: { locale, localeMetadata }
       } = this.props;
+
       return (
-        <LocaleContext.Provider value={{ locale }}>
+        <LocaleContext.Provider value={{ locale, localeMetadata }}>
           <I18nextProvider i18n={this.i18n}>
             <Comp {...this.props} />
           </I18nextProvider>

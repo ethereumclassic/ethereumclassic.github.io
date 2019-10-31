@@ -5,7 +5,7 @@ import PageLayout from '../layouts/pageLayout';
 
 const Summit = () => {
   return (
-    <PageLayout>
+    <PageLayout seo={{ title: 'Summit' }}>
       <h1>Summit</h1>
       <h3>This page will be updated in due course</h3>
       <ButtonLink text="Summit 2019 Videos" to="/summit/2019" />

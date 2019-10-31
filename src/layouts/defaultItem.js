@@ -4,9 +4,8 @@ import Mdx from '~components/mdx';
 
 import PageLayout from './pageLayout';
 
-
 const DefaultItem = ({ data: { mdx } }) => (
-  <PageLayout>
+  <PageLayout seo={{ title: mdx.frontmatter.title }}>
     <h1>{mdx.frontmatter.title}</h1>
     <Mdx code={mdx.body} />
   </PageLayout>

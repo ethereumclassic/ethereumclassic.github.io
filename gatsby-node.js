@@ -207,6 +207,7 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
             component: data.node.absolutePath,
             context: {
               locale,
+              localeMetadata: locales[locale].siteMetadata,
               i18n
             }
           });
@@ -229,9 +230,10 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
       path: myPath,
       component,
       context: {
-        locale,
         parent,
-        title: post.frontmatter.title
+        title: post.frontmatter.title,
+        locale,
+        localeMetadata: locales[locale].siteMetadata
       }
     });
   });
