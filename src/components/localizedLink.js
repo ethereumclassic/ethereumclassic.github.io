@@ -4,10 +4,10 @@ import LocaleContext from '../i18n/localeContext';
 import { defaultLocale } from '../i18n/config';
 
 // Use the globally available context to choose the right path
-const LocalizedLink = ({ to, ...props }) => {
+const LocalizedLink = ({ to, notLocalized, ...props }) => {
   const { locale } = React.useContext(LocaleContext);
   let path = to;
-  if (locale && locale !== defaultLocale) {
+  if (!notLocalized && locale && locale !== defaultLocale) {
     path = `/${locale}${to}`;
   }
 

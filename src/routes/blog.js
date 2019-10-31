@@ -1,6 +1,7 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 import Link from '~components/link';
+import BlogListItem from '~components/blogListItem';
 import DefaultLanguageHidden from '~components/defaultLanguageHidden';
 
 import PageLayout from '../layouts/pageLayout';
@@ -9,7 +10,12 @@ const Blog = ({ data: { allMdx } }) => {
   return (
     <PageLayout>
       <DefaultLanguageHidden>
-        <Link className="button-link" to="/blog" style={{ float: 'right', marginTop: '0' }}>
+        <Link
+          className="button-link"
+          to="/blog"
+          notLocalized
+          style={{ float: 'right', marginTop: '0' }}
+        >
           Enlgish Posts
         </Link>
       </DefaultLanguageHidden>
@@ -23,24 +29,7 @@ const Blog = ({ data: { allMdx } }) => {
       ) : (
         <div className="blog-list">
           {allMdx.edges.map(({ node: post }) => (
-            <div key={`${post.frontmatter.title}-${post.fields.locale}`} className="blog-item">
-              <h4>
-                {`${new Date(post.frontmatter.date).toLocaleDateString()} `}
-                <small>{post.frontmatter.author}</small>
-              </h4>
-              <h3>
-                <Link to={`/${post.parent.relativeDirectory}`}>{post.frontmatter.title}</Link>
-                <br />
-              </h3>
-              <div>
-                {`${post.excerpt} `}
-                <br />
-                <Link to={`/${post.parent.relativeDirectory}`} className="read-more">
-                  Continue Reading
-                  <i className="fas fa-angle-right" />
-                </Link>
-              </div>
-            </div>
+            <BlogListItem post={post} />
           ))}
         </div>
       )}
