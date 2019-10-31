@@ -2,18 +2,18 @@ import React from 'react';
 import { graphql } from 'gatsby';
 
 import Mdx from '~components/mdx';
-import Link from '~components/link';
 import BackButton from '~components/backButton';
 import Spacer from '~components/spacer';
 
 import PageLayout from './pageLayout';
 
 const BlogItem = ({ data: { mdx } }) => (
-  <PageLayout headerExtra={<Link to="/blog">Blog</Link>} seo={{ title: mdx.frontmatter.title }}>
+  <PageLayout link={{ to: '/blog', text: 'Blog' }} seo={{ title: mdx.frontmatter.title }}>
     <BackButton text="Blog Articles" to="/blog" />
     <Spacer />
     <div className="blog-post">
       <h4>
+        {/* TODO replace with i18nnext for dates and such */}
         {`${new Date(mdx.frontmatter.date).toLocaleDateString()} `}
         <small>{mdx.frontmatter.author}</small>
       </h4>

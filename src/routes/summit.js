@@ -1,7 +1,8 @@
 import React from 'react';
-import ButtonLink from '~components/buttonLink';
 
 import PageLayout from '../layouts/pageLayout';
+
+import ButtonLink from '~components/buttonLink';
 
 const Summit = () => {
   return (

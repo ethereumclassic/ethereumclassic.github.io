@@ -1,31 +1,23 @@
 // TODO replace with i18n
 import React from 'react';
-import Dapps from '~components/dapps';
-import Navigation from '~components/navigation';
-import Header from '~components/header';
-import ContentContainer from '~components/contentContainer';
-import Resources from '~components/resources';
-import Footer from '~components/footer';
 
-const Reseources = () => {
+import PageLayout from '../layouts/pageLayout';
+
+import Dapps from '~components/dapps';
+import Resources from '~components/resources';
+
+const Ecosystem = () => {
   return (
-    <>
-      <Navigation />
-      <div id="wrapper" className="page">
-        <Header />
-        <ContentContainer>
-          <h1>Ecosystem</h1>
-          <h3>Lorem ipsum dolor sit</h3>
-          <p>Links are not endorsements!</p>
-        </ContentContainer>
-        <Dapps />
-        <ContentContainer>
-          <Resources />
-        </ContentContainer>
-        <Footer />
-      </div>
-    </>
+    <PageLayout wide seo={{ title: 'Ecosystem' }}>
+      <section>
+        <h1>Ecosystem</h1>
+        <h3>Lorem ipsum dolor sit</h3>
+        <p>Links are not endorsements!</p>
+      </section>
+      <Dapps />
+      <Resources />
+    </PageLayout>
   );
 };
 
-export default Reseources;
+export default Ecosystem;

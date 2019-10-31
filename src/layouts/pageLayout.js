@@ -5,13 +5,13 @@ import Footer from '~components/footer';
 import Navigation from '~components/navigation';
 import Header from '~components/header';
 
-const PageLayout = ({ children, headerExtra, seo }) => {
+const PageLayout = ({ children, link, seo, wide }) => {
   return (
     <>
       <SEO {...seo} />
       <Navigation />
-      <div id="wrapper" className="page">
-        <Header extra={headerExtra} />
+      <div id="wrapper" className={`page ${wide ? 'wide' : ''}`}>
+        <Header link={link} />
         <div className="layout-container">
           <div className="layout-content">{children}</div>
         </div>

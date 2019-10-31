@@ -8,13 +8,16 @@ iframe {
   max-width: 100%;
 }
 
+iframe.video {
+  margin: 2em 0;
+}
+
 img {
   max-width: 100%;
 }
 h4, h3 {
   line-height: 1.2em;
   margin-bottom: 0.4em;
-  // a { border-bottom: 0; }
   text-transform: inherit;
   small { opacity: 0.5; }
 }
@@ -39,6 +42,17 @@ h1 {
       padding: 2rem;
     }
   }
+  &.wide .layout-content{
+    max-width: none;
+    padding: 2rem 0;
+    margin: 0;
+    > section {
+      max-width: 900px;
+      padding: 2rem 4rem;
+      padding-top: 0;
+      margin: auto;
+    }
+  }
   // TODO dry out
   > div.header {
 		background: _palette(accent);
@@ -53,9 +67,6 @@ h1 {
     h1 {
       margin:0;
     }
-  }
-  h2 {
-    margin-top: 2em;
   }
 }
 
@@ -78,10 +89,6 @@ h1 {
 // font awesome icon within buttons / links
 a .fas {
   margin: 0 0.5em;
-}
-
-#page-nav {
-  position: relative;
 }
 
 // the dropdown menu
@@ -504,12 +511,9 @@ a.card {
 }
 
 .dapps-list {
-  .wide-section {
-    background: #efefef;
-  }
-  .grid {
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  }
+  background: #efefef;
+  padding: 2em;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   .card .content {
     max-height: 200px;
     overflow-y: auto;
@@ -517,6 +521,3 @@ a.card {
   }
 }
 
-iframe.video {
-  margin: 2em 0;
-}

@@ -11,9 +11,9 @@ const Blog = ({ data: { allMdx } }) => {
     <PageLayout seo={{ title: 'Blog', description: 'Latest news and articles' }}>
       <DefaultLanguageHidden>
         <Link
-          className="button-link"
-          to="/blog"
           notLocalized
+          to="/blog"
+          className="button-link"
           style={{ float: 'right', marginTop: '0' }}
         >
           Enlgish Posts

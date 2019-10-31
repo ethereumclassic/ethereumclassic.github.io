@@ -8,9 +8,8 @@ Presently focusing on content and strucutre, the design/layouts will be polished
 
 #### Code
 
-- Refactor pageLayout to allow easier ecosystem-style pages (wide pages + seo)
-- Mailing list (use WP for now)
 - Refactoring & code-level `TODO`s
+- Mailing list (use WP endpoint for now)
 - Improve hamburger behaviour (click outside = hide)
 
 #### Content
@@ -21,13 +20,17 @@ Presently focusing on content and strucutre, the design/layouts will be polished
 - Ensure content is up to date with https://github.com/ethereumclassic/Awesome-ETC
 - Ensure old site's up-to-date content is copied including bob's edits
 - Curate the ecosystem page a bit
-- Add / update timeline
+- Migrate & Update ETC Timeline
+
+#### Styling
+
+- Styling / prettification pass
+- Remove all `style=` and migrate to sass file
+- Refactor CSS / Components
 
 ### v2 (Release Candidate)
 
 - Analytics
-- Styling / prettification pass
-- Refactor CSS / Components
 - Copy latest blog posts
 - Advanced SEO
   - Social Image
