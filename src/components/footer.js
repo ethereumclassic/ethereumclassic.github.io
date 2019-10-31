@@ -3,6 +3,7 @@ import Social from './social';
 import Community from './community';
 import Spacer from './spacer';
 import Newsletter from './newsletter';
+import Discord from './discord';
 
 const Footer = () => {
   return (
@@ -12,12 +13,7 @@ const Footer = () => {
           <h2>Get Involved</h2>
         </header>
         <div className="content">
-          <p>
-            <strong>Auctor commodo</strong>
-            interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis
-            dolor imperdiet dolor mattis sagittis.
-          </p>
-          Discord goes here...
+          <Discord />
           <Newsletter />
         </div>
         <footer>

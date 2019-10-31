@@ -32,7 +32,8 @@ class Newsletter extends React.Component {
     const { loading, error, submitted } = this.state;
     return (
       <>
-        <h3>ETC Newsletter</h3>
+        <h3>Newsletter</h3>
+        <p>Sign up below to get the latest updates straight to your inbox.</p>
         <form onSubmit={this.onSubmit}>
           <div className="fields">
             <div className="field">

@@ -4,11 +4,12 @@ import LocalizedLink from './localizedLink';
 
 import { isHash, isInternal } from '../util';
 
-const Link = ({ to, text, children, icon, ...props }) => {
+const Link = ({ to, text, children, icon, fullIcon, ...props }) => {
+  const iconText = fullIcon || (icon ? `fas fa-${icon}` : null);
   const content = (
     <>
       {text || children}
-      {icon && <i className={`fas fa-${icon}`} />}
+      {iconText && <i className={iconText} />}
     </>
   );
   if (isHash(to)) {
