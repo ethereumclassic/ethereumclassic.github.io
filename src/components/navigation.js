@@ -14,7 +14,7 @@ const Navigation = () => {
         <Hamburger>
           <NavigationButton to="/" text={backToHome} />
           <NavigationButton to="/education" text="Education" />
-          <NavigationButton to="/community" text="Community" />
+          <NavigationButton to="/participants" text="Participants" />
           <NavigationButton to="/ecosystem" text="Ecosystem" />
           <NavigationButton to="/roadmap" text="Roadmap" />
           <NavigationButton to="/blog" text="Blog" />

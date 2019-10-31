@@ -6,8 +6,6 @@ Presently focusing on content and strucutre, the design/layouts will be polished
 
 ### vNow
 
-- Move all content from routes into components
-- Add chainsafe to list of teams
 - Landing page content & link to various different pages from the front page
 - Ensure content is up to date with https://github.com/ethereumclassic/Awesome-ETC
 - Ensure old site's up-to-date content is copied including bob's edits
