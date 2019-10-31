@@ -51,6 +51,7 @@ h1 {
       padding: 2rem 4rem;
       padding-top: 0;
       margin: auto;
+      display: block;
     }
   }
   // TODO dry out
@@ -196,6 +197,13 @@ a .fas {
   grid-template-columns: 1fr 1fr;
   @include breakpoint('<=small') {
     grid-template-columns: 1fr !important;
+  }
+  &.wide {
+    padding: 2em;
+  }
+  &.semi {
+    max-width: 1400px;
+    margin: auto;
   }
 }
 
@@ -398,9 +406,12 @@ a.card {
   h3, h4, p {
     margin: 0;
   }
+  h3 {
+    font-size: 1.5em;
+  }
   h4 {
-    margin-bottom: 0.2em;
-    // font-size: 0.4em;
+    margin: 0.2em 0;
+    letter-spacing: normal;
     text-transform: none;
   }
   p { 
@@ -512,12 +523,14 @@ a.card {
 
 .dapps-list {
   background: #efefef;
-  padding: 2em;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   .card .content {
     max-height: 200px;
     overflow-y: auto;
     line-height: 1.4em;
   }
+}
+.individuals{
+
 }
 

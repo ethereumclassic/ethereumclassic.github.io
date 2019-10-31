@@ -6,12 +6,16 @@ import PageLayout from '../layouts/pageLayout';
 
 const Teams = ({ pageContext: { i18n } }) => {
   return (
-    <PageLayout seo={{ title: 'Participants' }}>
-      <Mdx code={i18n.mdx.intro} />
-      <Grid columns={3}>
+    <PageLayout seo={{ title: 'Participants' }} wide>
+      <section>
+        <Mdx code={i18n.mdx.intro} />
+      </section>
+      <Grid itemWidth={200} semi wide>
         <Mdx code={i18n.mdx.individuals} />
       </Grid>
-      <Mdx code={i18n.mdx.organisations} />
+      <section>
+        <Mdx code={i18n.mdx.organisations} />
+      </section>
     </PageLayout>
   );
 };

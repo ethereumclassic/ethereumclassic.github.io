@@ -16,7 +16,7 @@ const Dapps = () => {
           <span className="key red">Awaiting Deployment</span>
         </div>
       </section>
-      <Grid className="dapps-list">
+      <Grid className="dapps-list" wide>
         <Card className="green" to="https://originalmy.com/" title="OriginalMy">
           OriginalMy provides a fully automated platform to register and verify the authenticity of
           digital documents, contracts, and identities. They are now expanding into stock holder

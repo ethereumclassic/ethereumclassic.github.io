@@ -14,7 +14,6 @@ Presently focusing on content and strucutre, the design/layouts will be polished
 
 #### Content
 
-- Fix links on ecoystem page
 - Figure out the footer content
 - Landing page content & link to various different pages from the front page
 - Ensure content is up to date with https://github.com/ethereumclassic/Awesome-ETC

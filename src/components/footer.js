@@ -2,6 +2,7 @@ import React from 'react';
 import Social from './social';
 import Community from './community';
 import Spacer from './spacer';
+import Newsletter from './newsletter';
 
 const Footer = () => {
   return (
@@ -17,24 +18,7 @@ const Footer = () => {
             dolor imperdiet dolor mattis sagittis.
           </p>
           Discord goes here...
-          <form>
-            <div className="fields">
-              <div className="field half">
-                <input type="text" name="name" id="name" placeholder="Name" />
-              </div>
-              <div className="field half">
-                <input type="email" name="email" id="email" placeholder="Email" />
-              </div>
-              <div className="field">
-                <textarea name="message" id="message" placeholder="Message" rows="7" />
-              </div>
-            </div>
-            <ul className="actions">
-              <li>
-                <input type="submit" value="Send Message" className="button primary" />
-              </li>
-            </ul>
-          </form>
+          <Newsletter />
         </div>
         <footer>
           <Community />
