@@ -8,10 +8,15 @@ const Summit = () => {
   return (
     <PageLayout seo={{ title: 'Summit' }}>
       <h1>Summit</h1>
-      <h3>This page will be updated in due course</h3>
-      <ButtonLink text="Summit 2019 Videos" to="/summit/2019" />
-      <br />
-      <ButtonLink text="2019 Main Website" to="https://etcsummit.com/" />
+      <p>This page is under construction.</p>
+      <ul>
+        <li>
+          <ButtonLink text="Summit 2019 Videos" to="/summit/2019" />
+        </li>
+        <li>
+          <ButtonLink text="2019 Main Website" to="https://etcsummit.com/" />
+        </li>
+      </ul>
     </PageLayout>
   );
 };
