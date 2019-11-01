@@ -1,7 +1,8 @@
 import React from 'react';
 
 const Spacer = ({ size }) => {
-  return <div style={{ marginTop: size || '3em' }} />;
+  const style = size ? { marginTop: size } : {};
+  return <div className="spacer" style={style} />;
 };
 
 export default Spacer;

@@ -6,6 +6,7 @@ const Discord = () => {
     <>
       <p>
         The ETC community is most active on discord.
+        <br />
         <ButtonLink
           className="massive blue"
           to="https://discordapp.com/invite/HW4GckH"

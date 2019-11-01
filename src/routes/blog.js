@@ -1,6 +1,6 @@
 import React from 'react';
 import { graphql } from 'gatsby';
-import Link from '~components/link';
+import ButtonLink from '~components/buttonLink';
 import BlogListItem from '~components/blogListItem';
 import DefaultLanguageHidden from '~components/defaultLanguageHidden';
 
@@ -10,14 +10,7 @@ const Blog = ({ data: { allMdx } }) => {
   return (
     <PageLayout seo={{ title: 'Blog', description: 'Latest news and articles' }}>
       <DefaultLanguageHidden>
-        <Link
-          notLocalized
-          to="/blog"
-          className="button-link"
-          style={{ float: 'right', marginTop: '0' }}
-        >
-          Enlgish Posts
-        </Link>
+        <ButtonLink notLocalized to="/blog" text="Enlgish Posts" />
       </DefaultLanguageHidden>
       <h1>Blog & Updates</h1>
       <h3>Latest Articles</h3>
@@ -29,7 +22,7 @@ const Blog = ({ data: { allMdx } }) => {
       ) : (
         <div className="blog-list">
           {allMdx.edges.map(({ node: post }) => (
-            <BlogListItem post={post} />
+            <BlogListItem post={post} key={post.parent.relativeDirectory} />
           ))}
         </div>
       )}

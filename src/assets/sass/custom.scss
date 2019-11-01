@@ -28,7 +28,15 @@ h3 {
 h1 {
   font-size: 3em;
 }
+.spacer {
+  margin-top: 3em;
+}
 
+.link-section {
+  .button-link {
+    float: right;
+  }
+}
 
 #wrapper.page {
   .layout-container {
@@ -91,7 +99,9 @@ h1 {
   }
   &.blue {
     background: rgba(0,0,100,.3);
-    // border: 1px solid rgba(0,0,0,.2);
+    &:hover {
+      background: rgba(0,0,150,.4);
+    }
     box-shadow: $softShadow;
     color: white;
     text-shadow: 0 1px 2px rgba(0,0,0,.5);

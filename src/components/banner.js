@@ -18,7 +18,7 @@ const Banner = () => {
         </p>
       </header>
       <div className="content">
-        <div className="overlay" style={{ textAlign: 'right', right: '4em', top: '4em' }}>
+        <div className="overlay">
           <h3>Ethereum Classic Summit</h3>
           October 3rd & 4th, 2019
           <br />

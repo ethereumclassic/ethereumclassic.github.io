@@ -3,9 +3,9 @@ import ButtonLink from './buttonLink';
 
 const LinkSection = ({ to, children, title }) => {
   return (
-    <div>
+    <div className="link-section">
       {to && (
-        <ButtonLink to={to} style={{ float: 'right', marginTop: '-0.5em' }}>
+        <ButtonLink to={to}>
           Visit Website
           <i className="fas fa-angle-right" />
         </ButtonLink>

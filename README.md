@@ -8,27 +8,24 @@ Presently focusing on content and strucutre, the design/layouts will be polished
 
 #### Code
 
-- Refactoring & code-level `TODO`s
-- Improve hamburger behaviour (click outside = hide)
+- Refactor gatbsy-node
 
 #### Content
 
-- Landing page content & link to various different pages from the front page
 - Ensure content is up to date with https://github.com/ethereumclassic/Awesome-ETC
-- Ensure old site's up-to-date content is copied including bob's edits
 - Curate the ecosystem page a bit
+- Landing page content & link to various different pages from the front page
 
 #### Styling
 
 - Styling / prettification pass
-- Remove all `style=` and migrate to sass file
 - Refactor CSS / Components
 
 ### v2 (Release Candidate)
 
 - Analytics
 - Copy latest blog posts
-- Migrate & Update ETC Timeline
+- Improve hamburger behaviour (click outside = hide)
 - ~ Mailchimp (use WP endpoint for now)
 - Advanced SEO
   - Social Image
@@ -38,6 +35,7 @@ Presently focusing on content and strucutre, the design/layouts will be polished
 
 ### vi18n
 
+- Review `TODO`s
 - Manage 404 for missing i18n
 - i18n date formatting etc.
 - Structure all pages ready for i18n usage (including powered by, etc...)
@@ -47,10 +45,11 @@ Presently focusing on content and strucutre, the design/layouts will be polished
 ### vNext
 
 - Accessibility
+- Migrate & Update ETC Timeline (add to roadmap)
 - Expand ETC summit section, old years, etc.
-- Improve blog navigation / pagination / next article, etc.
-- Tina.js
 - Use graphql fragements
-- Search content / blog post
+- Improve blog navigation / pagination / next article, etc.
+- Search content / blog posts
 - Make the powered by page more like original SoTD, use GraphQL
 - Integrate multiple different education resources
+- Tina.js
