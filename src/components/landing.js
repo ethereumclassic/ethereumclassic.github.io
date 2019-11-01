@@ -6,6 +6,7 @@ import Mdx from '~components/mdx';
 import IconGrid from '~components/iconGrid';
 import LocalizedLink from '~components/localizedLink';
 import Banner from '~components/banner';
+import LatestBlogPosts from '~components/latestBlogPosts';
 
 const Landing = ({ i18n }) => (
   <>
@@ -36,12 +37,7 @@ const Landing = ({ i18n }) => (
       </LocalizedLink>
     </WideSection>
     <Section subSection={() => <Mdx code={i18n.mdx.stayCurrent} />}>
-      List of blogs go here
-      <br />
-      <LocalizedLink to="/blog" className="button-link">
-        All Blog Posts
-        <i className="fas fa-angle-right" />
-      </LocalizedLink>
+      <LatestBlogPosts />
     </Section>
   </>
 );
