@@ -4,7 +4,7 @@ date: 2019-10-06
 author: Bob Summerwill
 ---
 
-# Introduction
+## Introduction
 
 In the years since the DAO fork and the unexpected
 birth of Ethereum Classic, strong social
@@ -24,7 +24,7 @@ This consensus was evident at the recent ETC Summit
 2019 conference in Vancouver, Canada, and this
 proposal seems to make that consensus explicit.
 
-# Proposal
+## Proposal
 
 There is a broad perception that ETC has an implicit
 social contract in favor of POW mining.  This ECIP
@@ -40,7 +40,7 @@ ETC social layer, not a technical protocol consensus
 concern.  Because of that, it does not need to be
 synchronized with a hard fork.
 
-# How would this be adopted?
+## How would this be adopted?
 
 This proposal would be adopted by means of the ECIP
 editors moving it to Final state, if they are
@@ -56,7 +56,7 @@ the ECIP community calls, and anything else which seems prudent to them.
 
 They should not rush this decision.
 
-# Potential downsides of adopting this proposal?
+## Potential downsides of adopting this proposal?
 
 Unlike a protocol-level consensus change,
 dissent against this proposal being adopted would
@@ -72,7 +72,7 @@ If they choose to exit the ecosystem as a result
 of this proposal being adopted then that is probably
 a good thing.
 
-# Intended benefit of adopting this proposal?
+## Intended benefit of adopting this proposal?
 
 This proposal would give stakeholders in the Ethereum
 Classic mining ecosystem (miners, pools, ASIC manufacturers, GPU manufacturers, etc) certainty
@@ -101,7 +101,7 @@ upgrade.
 Ethereum Classic would have a uniquely strong social
 signal with such an explicit statement.
 
-# What if we "change our mind"?
+## What if we "change our mind"?
 
 If some future unforeseen event or change of
 participants in the ETC ecosystem leads to broad
@@ -124,7 +124,7 @@ ecosystem, in a way which likely on Bitcoin can
 match at the moment.
 
 
-# Isn't this proposal running counter to "The Manifesto"?
+## Isn't this proposal running counter to "The Manifesto"?
 
 Some people may feel that adoption of a proposal
 which seeks to make explicit social layer matters
@@ -136,7 +136,7 @@ Ethereum Classic.  There may indeed be such a perception about the manifesto, bu
 the document is inspiration, not gospel truth,
 and certainly not law.
 
-# The need for a written Consitution and Bill of Rights for Ethereum Classic.
+## The need for a written Consitution and Bill of Rights for Ethereum Classic.
 
 There is no written "Consitution" or "Bill of
 Rights" for Ethereum Classic.  No proposal for
@@ -197,7 +197,7 @@ with broad social consensus.  It had the
 explicit goal of locking that economic policy
 in stone forever.
 
-# So is this proposal a Constitution?
+## So is this proposal a Constitution?
 
 Not really.  It would just consist of a single
 sentence.  Something like:
@@ -217,7 +217,7 @@ Constitution then the author will partner with
 suitable co-authors and will propose one.
 
 
-# IP Protections for Ethereum Classic
+## IP Protections for Ethereum Classic
 
 This work is licensed under the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).
 The author,
