@@ -13,6 +13,14 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
+      resolve: 'gatsby-plugin-google-analytics',
+      options: {
+        trackingId: 'GTM-T68669F',
+        anonymize: true,
+        respectDNT: true
+      }
+    },
+    {
       resolve: 'gatsby-plugin-favicon',
       options: {
         logo: './src/assets/favicon.png'

@@ -6,11 +6,10 @@ Presently focusing on content and strucutre, the design/layouts will be polished
 
 ### vNow
 
-#### Code
-
 #### Content
 
 - Landing page content & link to various different pages from the front page
+- Add decentralized manifesto / declaration PDFS
 - Curate the ecosystem page a bit; ensure content is up to date with https://github.com/ethereumclassic/Awesome-ETC
 
 #### Styling
@@ -20,11 +19,8 @@ Presently focusing on content and strucutre, the design/layouts will be polished
 
 ### v2 (Release Candidate)
 
-- Analytics
-- Copy latest blog posts
-- Refactor gatbsy-node (?)
-- Improve hamburger behaviour (click outside = hide)
 - ~ Mailchimp (use WP endpoint for now)
+- Improve hamburger behaviour (click outside = hide)
 - Advanced SEO
   - Social Image
   - OG meta tags etc (incl. language)
@@ -44,6 +40,7 @@ Presently focusing on content and strucutre, the design/layouts will be polished
 ### vNext
 
 - Accessibility
+- Refactor & comment gatbsy-node (?)
 - Use LocalStorage to remember hidden modal
 - Migrate & Update ETC Timeline (add to roadmap)
 - Expand ETC summit section, old years, etc.

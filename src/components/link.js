@@ -1,4 +1,5 @@
 import React from 'react';
+import { OutboundLink } from 'gatsby-plugin-google-analytics';
 
 import LocalizedLink from './localizedLink';
 
@@ -21,9 +22,9 @@ const Link = ({ to, text, children, icon, fullIcon, ...props }) => {
   }
   if (!isInternal(to) || to.indexOf('/static/') === 0 || to.endsWith('.pdf')) {
     return (
-      <a {...props} href={to} target="_blank" rel="noopener noreferrer">
+      <OutboundLink {...props} href={to} target="_blank" rel="noopener noreferrer">
         {content}
-      </a>
+      </OutboundLink>
     );
   }
   return (
