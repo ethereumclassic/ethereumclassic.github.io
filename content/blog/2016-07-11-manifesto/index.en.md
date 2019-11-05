@@ -4,6 +4,8 @@ date: 2016-07-11
 author: Arvicco
 ---
 
+- <a href="#translations">PDFs & Translations</a>
+
 ![Decentralize!](./1*gMu8qJtr2NeEuuGzvsfcnw.png)
 
 Blockchains are going to rule the world, providing a mechanism for scaling
@@ -44,3 +46,15 @@ introduce new centralization risks or strengthen existing ones should be fought.
 The blockchain revolution won’t be centralized. Let’s make sure of it.
 
 **Onward.**
+
+---
+
+### <a name="translations"></a>Translations
+
+This documnet is also available in PDF format in various translations:
+
+- [English](/A_Crypto-Decentralist_Manifesto.pdf)
+- [Tiếng Việt](/A_Crypto-Decentralist_Manifesto_vietnamese.pdf)
+- [русский](/A_Crypto-Decentralist_Manifesto_russian.pdf)
+- [Deutsche](/A_Crypto-Decentralist_Manifesto_german.pdf)
+- [Italiano](/A_Crypto-Decentralist_Manifesto_italian.pdf)

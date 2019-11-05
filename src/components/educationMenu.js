@@ -23,7 +23,7 @@ const items = [
   },
   {
     text: 'Declaration of Independence',
-    link: '/ETC_Declaration_of_Independence.pdf',
+    link: '/blog/2016-08-13-declaration-of-indepenedence',
     subText:
       'Essentially the ETC Whitepaper. A statement of our cause, a list of grievances, and a description of our principles and goals.'
   },
