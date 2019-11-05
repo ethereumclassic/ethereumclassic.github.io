@@ -9,8 +9,7 @@ Presently focusing on content and strucutre, the design/layouts will be polished
 #### Content
 
 - Landing page content & link to various different pages from the front page
-- Add decentralized manifesto / declaration PDFS
-- Curate the ecosystem page a bit; ensure content is up to date with https://github.com/ethereumclassic/Awesome-ETC
+- Rewrite / Review all English copy
 
 #### Styling
 
@@ -19,7 +18,6 @@ Presently focusing on content and strucutre, the design/layouts will be polished
 
 ### v2 (Release Candidate)
 
-- ~ Mailchimp (use WP endpoint for now)
 - Improve hamburger behaviour (click outside = hide)
 - Advanced SEO
   - Social Image
@@ -37,8 +35,10 @@ Presently focusing on content and strucutre, the design/layouts will be polished
 - Create i18n translations & guide (make a script?)
 - Make global i18ns hot-reloadable
 
-### vNext
+### Add to tracker
 
+- ~ Mailchimp (use WP endpoint for now)
+- Pull new dapps from https://dappdirect.net/
 - Accessibility
 - Refactor & comment gatbsy-node (?)
 - Use LocalStorage to remember hidden modal
@@ -47,6 +47,6 @@ Presently focusing on content and strucutre, the design/layouts will be polished
 - Use graphql fragements
 - Improve blog navigation / pagination / next article, etc.
 - Search content / blog posts
-- Make the powered by page more like original SoTD, use GraphQL
-- Integrate multiple different education resources
+- Make the powered by page more like original SoTD, searchable, use GraphQL
+- Integrate multiple different education resources (?)
 - Tina.js

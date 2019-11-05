@@ -4,7 +4,9 @@ import React from 'react';
 import PageLayout from '../layouts/pageLayout';
 
 import Dapps from '~components/dapps';
-import Resources from '~components/resources';
+import ResourcesCommunity from '~components/resourcesCommunity';
+import ResourcesTechnical from '~components/resourcesTechnical';
+import ResourcesServices from '~components/resourcesServices';
 
 const Ecosystem = () => {
   return (
@@ -14,8 +16,10 @@ const Ecosystem = () => {
         <h3>Lorem ipsum dolor sit</h3>
         <p>Links are not endorsements!</p>
       </section>
+      <ResourcesCommunity />
+      <ResourcesTechnical />
       <Dapps />
-      <Resources />
+      <ResourcesServices />
     </PageLayout>
   );
 };
