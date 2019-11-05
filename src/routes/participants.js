@@ -10,12 +10,15 @@ const Teams = ({ pageContext: { i18n } }) => {
       <section>
         <Mdx code={i18n.mdx.intro} />
       </section>
-      <Grid itemWidth={200} semi wide>
-        <Mdx code={i18n.mdx.individuals} />
-      </Grid>
       <section>
         <Mdx code={i18n.mdx.organisations} />
       </section>
+      <section>
+        <Mdx code={i18n.mdx.whosWho} />
+      </section>
+      <Grid itemWidth={200} semi wide>
+        <Mdx code={i18n.mdx.individuals} />
+      </Grid>
     </PageLayout>
   );
 };

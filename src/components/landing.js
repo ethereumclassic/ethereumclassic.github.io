@@ -4,7 +4,7 @@ import Section from '~components/section';
 import WideSection from '~components/wideSection';
 import Mdx from '~components/mdx';
 import IconGrid from '~components/iconGrid';
-import LocalizedLink from '~components/localizedLink';
+import ButtonLink from '~components/buttonLink';
 import Banner from '~components/banner';
 import LatestBlogPosts from '~components/latestBlogPosts';
 
@@ -17,26 +17,29 @@ const Landing = ({ i18n }) => (
     <WideSection className="shaded">
       <IconGrid
         icons={[
-          { icon: 'fas fa-users', text: 'Open and welcoming community' },
-          { icon: 'fas fa-calendar-alt', text: 'Long history of reliable operation' },
-          { icon: 'fas fa-coins', text: 'Your ETC is yours forever' }
+          {
+            title: 'Decentalized',
+            text: 'Open and welcoming grassroots community',
+            icon: 'fas fa-users'
+          },
+          {
+            title: 'Immutable',
+            text: "Ledger remains untampered since it's 2015 inception",
+            icon: 'fas fa-link'
+          },
+          {
+            title: 'Unstoppable',
+            text: 'Neutral platform where contracts are honored forever',
+            icon: 'far fa-hourglass'
+          }
         ]}
       />
     </WideSection>
-    <Section subSection={() => <Mdx code={i18n.mdx.whyClassic} />}>
-      <Mdx code={i18n.mdx.principles} />
-    </Section>
-    <WideSection title="Get started with Etheruem Classic" className="dark">
-      Whether you’re looking for wallets, exchanges or even just general information, we have you
-      covered. Check out our resources page to be directed to the right place you’re searching for.
-      <br />
-      <br />
-      <LocalizedLink to="/" className="button-link big">
-        Get Started
-        <i className="fas fa-angle-right" />
-      </LocalizedLink>
+    <WideSection className="dark">
+      <Mdx code={i18n.mdx.getStarted} />
     </WideSection>
     <Section subSection={() => <Mdx code={i18n.mdx.stayCurrent} />}>
+      <h3>Latest Blog Posts</h3>
       <LatestBlogPosts />
     </Section>
   </>

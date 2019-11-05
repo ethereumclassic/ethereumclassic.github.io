@@ -7,8 +7,10 @@ const Dapps = () => {
   return (
     <>
       <section>
-        <h2>Powered By ETC</h2>
-        <p>This section is for applications built on top of ETC.</p>
+        <h2>Dapps powered by ETC</h2>
+        <p>
+          A selection of (decentralized) applications that are built on top of Ehteruem Classic.
+        </p>
         <div className="legend">
           Legend:
           <span className="key green">In Production</span>

@@ -20,14 +20,17 @@ const Banner = () => {
       <div className="content">
         <div className="overlay">
           <h3>Ethereum Classic Summit</h3>
-          October 3rd & 4th, 2019
-          <br />
-          Vancouver Convention Centre
-          <br />
-          <br />
-          <ButtonLink to="/summit/2019" icon="angle-right">
-            View Presentations
-          </ButtonLink>
+          <p>
+            October 3rd & 4th, 2019
+            <br />
+            Vancouver Convention Centre
+          </p>
+          <ButtonLink
+            to="/summit/2019"
+            icon="angle-right"
+            className="massive"
+            text="View Presentations"
+          />
         </div>
         <span className="image fill" data-position="center">
           <img src={image} alt="" />

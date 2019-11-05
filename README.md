@@ -8,8 +8,10 @@ Presently focusing on content and strucutre, the design/layouts will be polished
 
 #### Content
 
-- Landing page content & link to various different pages from the front page
-- Rewrite / Review all English copy
+- Spell check everything
+- Move projects from roadmap to ecosystem (?)
+- Migrate & Update ETC Timeline (add to roadmap)
+- Knowledge Base (and split into subsections / narratives)
 
 #### Styling
 
@@ -18,7 +20,6 @@ Presently focusing on content and strucutre, the design/layouts will be polished
 
 ### v2 (Release Candidate)
 
-- Improve hamburger behaviour (click outside = hide)
 - Advanced SEO
   - Social Image
   - OG meta tags etc (incl. language)
@@ -38,12 +39,13 @@ Presently focusing on content and strucutre, the design/layouts will be polished
 ### Add to tracker
 
 - ~ Mailchimp (use WP endpoint for now)
-- Pull new dapps from https://dappdirect.net/
 - Accessibility
+- Images for teams
+- Improve hamburger behaviour (click outside = hide)
 - Refactor & comment gatbsy-node (?)
 - Use LocalStorage to remember hidden modal
-- Migrate & Update ETC Timeline (add to roadmap)
-- Expand ETC summit section, old years, etc.
+- Expand ETC summit section, day 2 vids, old years, etc.
+- Pull dapps from [dappdirect](https://dappdirect.net/)
 - Use graphql fragements
 - Improve blog navigation / pagination / next article, etc.
 - Search content / blog posts

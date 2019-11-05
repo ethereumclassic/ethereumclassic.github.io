@@ -13,7 +13,7 @@ const Navigation = () => {
       <div id="page-nav">
         <Hamburger>
           <NavigationButton to="/" text={backToHome} />
-          <NavigationButton to="/education" text="Education" />
+          <NavigationButton to="/knowledge" text="Knowledge" />
           <NavigationButton to="/participants" text="Participants" />
           <NavigationButton to="/ecosystem" text="Ecosystem" />
           <NavigationButton to="/roadmap" text="Roadmap" />

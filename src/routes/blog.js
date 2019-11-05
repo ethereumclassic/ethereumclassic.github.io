@@ -1,19 +1,21 @@
 import React from 'react';
 import { graphql } from 'gatsby';
+
 import ButtonLink from '~components/buttonLink';
+import Mdx from '~components/mdx';
 import BlogListItem from '~components/blogListItem';
 import DefaultLanguageHidden from '~components/defaultLanguageHidden';
 
 import PageLayout from '../layouts/pageLayout';
 
-const Blog = ({ data: { allMdx } }) => {
+const Blog = ({ data: { allMdx }, pageContext: { i18n } }) => {
+  console.log('hello', i18n);
   return (
     <PageLayout seo={{ title: 'Blog', description: 'Latest news and articles' }}>
       <DefaultLanguageHidden>
         <ButtonLink notLocalized to="/blog" text="Enlgish Posts" />
       </DefaultLanguageHidden>
-      <h1>Blog & Updates</h1>
-      <h3>Latest Articles</h3>
+      <Mdx code={i18n.mdx.intro} />
       {allMdx.edges.length === 0 ? (
         <div>
           <br />

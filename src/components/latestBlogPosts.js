@@ -39,7 +39,7 @@ const LatestBlogPosts = () => {
         <div className="latest-blog-posts">
           <div className="items">
             {edges.map(edge => (
-              <LatestBlogPostsItem data={edge.node} />
+              <LatestBlogPostsItem data={edge.node} key={edge.node.frontmatter.title} />
             ))}
           </div>
           <ButtonLink to="/blog" text="View all Blog Posts" icon="angle-right" />

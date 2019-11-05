@@ -6,7 +6,7 @@ import PageLayout from '../layouts/pageLayout';
 
 const Education = ({ pageContext: { i18n } }) => {
   return (
-    <PageLayout seo={{ title: 'Education' }}>
+    <PageLayout seo={{ title: 'Knowledge Base' }}>
       <Mdx code={i18n.mdx.education} />
       <EducationMenu />
     </PageLayout>

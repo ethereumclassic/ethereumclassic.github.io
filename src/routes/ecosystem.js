@@ -4,21 +4,20 @@ import React from 'react';
 import PageLayout from '../layouts/pageLayout';
 
 import Dapps from '~components/dapps';
+import Mdx from '~components/mdx';
 import ResourcesCommunity from '~components/resourcesCommunity';
 import ResourcesTechnical from '~components/resourcesTechnical';
 import ResourcesServices from '~components/resourcesServices';
 
-const Ecosystem = () => {
+const Ecosystem = ({ pageContext: { i18n } }) => {
   return (
     <PageLayout wide seo={{ title: 'Ecosystem' }}>
       <section>
-        <h1>Ecosystem</h1>
-        <h3>Lorem ipsum dolor sit</h3>
-        <p>Links are not endorsements!</p>
+        <Mdx code={i18n.mdx.intro} />
       </section>
+      <Dapps />
       <ResourcesCommunity />
       <ResourcesTechnical />
-      <Dapps />
       <ResourcesServices />
     </PageLayout>
   );

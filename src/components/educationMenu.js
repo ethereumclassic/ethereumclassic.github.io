@@ -8,17 +8,17 @@ import BackButton from './backButton';
 const items = [
   {
     text: 'Using Emerald Wallet',
-    link: '/education/using-emerald-wallet',
+    link: '/knowledge/using-emerald-wallet',
     subText: 'Learn how to download and install Emerald Wallet.'
   },
   {
     text: 'Sent Funds to the Wrong Address',
-    link: '/education/sent-funds-to-the-wrong-address',
+    link: '/knowledge/sent-funds-to-the-wrong-address',
     subText: 'Find out what to do if you send funds to the wrong address.'
   },
   {
     text: 'Using Classic Ether Wallet',
-    link: '/education/using-classic-ether-wallet',
+    link: '/knowledge/using-classic-ether-wallet',
     subText: 'Learn how to use the Classic Ether Wallet.'
   },
   {
@@ -60,7 +60,7 @@ const EducationMenu = ({ compact, collapsed }) => {
     >
       {compact && (
         <div className="item back">
-          <BackButton to="/education" text="Education" />
+          <BackButton to="/knowledge" text="Education" />
         </div>
       )}
       {!collapsed ? (

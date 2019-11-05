@@ -13,6 +13,7 @@ module.exports = {
   },
   rules: {
     quotes: ['error', 'single'],
+    'quotes': ["error", "single", { avoidEscape: true }],
     'react/jsx-filename-extension': 'off',
     'react/prop-types': 'off',
     'react/jsx-props-no-spreading': 'off',

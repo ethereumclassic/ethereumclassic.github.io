@@ -8,7 +8,7 @@ import PageLayout from './pageLayout';
 const EducationItem = ({ data: { mdx } }) => {
   return (
     <PageLayout
-      link={{ to: '/education', text: 'Education' }}
+      link={{ to: '/knowledge', text: 'Knowledge' }}
       seo={{ title: mdx.frontmatter.title }}
     >
       <EducationMenu compact collapsed />

@@ -7,7 +7,7 @@ import PageLayout from '../layouts/pageLayout';
 
 const Roadmap = ({ pageContext: { i18n } }) => {
   return (
-    <PageLayout seo={{ title: 'Roadmap', description: 'Project progression' }}>
+    <PageLayout seo={{ title: 'Road Map', description: 'Project progression' }}>
       <Mdx code={i18n.mdx.roadmap} />
       <Bars
         title="Multi-Geth / Classic Geth"

@@ -1,19 +1,20 @@
 import React from 'react';
 import logo from '../assets/images/etc-black.svg';
-import LocalizedLink from './localizedLink';
+import Link from './link';
 
 const Header = ({ link }) => {
+  console.log(link);
   return (
     <div className="header">
       <header>
         <img src={logo} alt="Ethereum Classic Logo" />
         <h1>
-          <LocalizedLink to="/">Ethereum Classic</LocalizedLink>
+          <Link to="/">Ethereum Classic</Link>
           {link && (
             <>
               {' '}
               <small>
-                <LocalizedLink {...link} />
+                <Link {...link} />
               </small>
             </>
           )}
