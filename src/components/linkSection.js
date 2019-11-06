@@ -1,16 +1,12 @@
 import React from 'react';
-import ButtonLink from './buttonLink';
+import Link from './link';
 
 const LinkSection = ({ to, children, title }) => {
   return (
     <div className="link-section">
-      {to && (
-        <ButtonLink to={to}>
-          Visit Website
-          <i className="fas fa-angle-right" />
-        </ButtonLink>
-      )}
-      <h3>{title}</h3>
+      <h3>
+        <Link to={to}>{title}</Link>
+      </h3>
       {children}
       <br />
     </div>

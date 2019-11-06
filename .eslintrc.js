@@ -1,5 +1,9 @@
 module.exports = {
   plugins: ['prettier'],
+  env: {
+      browser: true,
+      node: true
+  },
   extends: ['airbnb', 'prettier'],
   settings: {
     'import/extensions': [

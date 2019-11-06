@@ -14,7 +14,7 @@ const LatestBlogPostsItem = ({ data }) => {
         <span>{`${new Date(data.frontmatter.date).toLocaleDateString()} `}</span>
         {data.frontmatter.author}
       </h4>
-      <h4>{data.frontmatter.title}</h4>
+      <h3>{data.frontmatter.title}</h3>
       <p>{data.excerpt}</p>
     </Link>
   );

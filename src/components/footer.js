@@ -1,7 +1,6 @@
 import React from 'react';
 import Social from './social';
 import Community from './community';
-import Spacer from './spacer';
 import Newsletter from './newsletter';
 import Discord from './discord';
 
@@ -18,7 +17,6 @@ const Footer = () => {
         </div>
         <footer>
           <Community />
-          <Spacer />
           <Social />
         </footer>
       </section>

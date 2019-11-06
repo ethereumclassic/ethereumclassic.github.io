@@ -7,5 +7,3 @@ Ethereum Classic has a strong philosophical underpinning and it's community has 
 This section intends to both dispel misinformation about Ethereum Classic by guiding you through the events and ideas that shaped ETC it's future.
 
 If you're a complete beginner to ETC, we recommend reading this section in order. Otherwise, feel free to peruse these articles at your leisure.
-
-[TODO add a content narrative]

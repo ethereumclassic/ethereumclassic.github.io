@@ -3,9 +3,8 @@ import logo from '../assets/images/etc-black.svg';
 import Link from './link';
 
 const Header = ({ link }) => {
-  console.log(link);
   return (
-    <div className="header">
+    <div id="page-header">
       <header>
         <img src={logo} alt="Ethereum Classic Logo" />
         <h1>

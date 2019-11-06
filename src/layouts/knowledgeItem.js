@@ -2,6 +2,7 @@ import React from 'react';
 import { graphql } from 'gatsby';
 import EducationMenu from '~components/educationMenu';
 import Mdx from '~components/mdx';
+import Spacer from '~components/spacer';
 
 import PageLayout from './pageLayout';
 
@@ -12,8 +13,10 @@ const EducationItem = ({ data: { mdx } }) => {
       seo={{ title: mdx.frontmatter.title }}
     >
       <EducationMenu compact collapsed />
+      <Spacer />
       <h1>{mdx.frontmatter.title}</h1>
       <Mdx code={mdx.body} />
+      <hr />
       <EducationMenu compact />
     </PageLayout>
   );

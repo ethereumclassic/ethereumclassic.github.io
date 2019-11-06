@@ -2,21 +2,17 @@
 
 ## Work in progress
 
-Presently focusing on content and strucutre, the design/layouts will be polished as it nears v2 release.
+Presently focusing on content and structure, the design/layouts will be polished as it nears v2 release.
 
 ### vNow
 
 #### Content
 
 - Spell check everything
-- Move projects from roadmap to ecosystem (?)
-- Migrate & Update ETC Timeline (add to roadmap)
-- Knowledge Base (and split into subsections / narratives)
 
-#### Styling
+#### Styling
 
 - Styling / prettification pass
-- Refactor CSS / Components
 
 ### v2 (Release Candidate)
 
@@ -38,8 +34,10 @@ Presently focusing on content and strucutre, the design/layouts will be polished
 
 ### Add to tracker
 
-- ~ Mailchimp (use WP endpoint for now)
+- ~ Mailchimp (using WP endpoint for now)
+- Migrate & Update ETC Timeline (add to roadmap)
 - Accessibility
+- More Knowledge Base content
 - Images for teams
 - Improve hamburger behaviour (click outside = hide)
 - Refactor & comment gatbsy-node (?)

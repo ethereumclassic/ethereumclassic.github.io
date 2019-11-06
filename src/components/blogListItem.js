@@ -15,7 +15,6 @@ const BlogListItem = ({ post }) => {
       </h3>
       <div>
         {`${post.excerpt} `}
-        <br />
         <Link to={`/${post.parent.relativeDirectory}`} className="read-more">
           Continue Reading
           <i className="fas fa-angle-right" />

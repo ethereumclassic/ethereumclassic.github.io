@@ -9,7 +9,6 @@ import DefaultLanguageHidden from '~components/defaultLanguageHidden';
 import PageLayout from '../layouts/pageLayout';
 
 const Blog = ({ data: { allMdx }, pageContext: { i18n } }) => {
-  console.log('hello', i18n);
   return (
     <PageLayout seo={{ title: 'Blog', description: 'Latest news and articles' }}>
       <DefaultLanguageHidden>

@@ -39,7 +39,7 @@ const Landing = ({ i18n }) => (
       <Mdx code={i18n.mdx.getStarted} />
     </WideSection>
     <Section subSection={() => <Mdx code={i18n.mdx.stayCurrent} />}>
-      <h3>Latest Blog Posts</h3>
+      <h2>Latest Blog Posts</h2>
       <LatestBlogPosts />
     </Section>
   </>

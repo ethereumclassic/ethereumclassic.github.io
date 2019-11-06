@@ -1,42 +1,59 @@
-
+// TODO replace all PX with rem
+// TODO replace all colors with variables
 // TODO refactor
 
-$softShadow: 0 0.5em 1em rgba(0,0,0,.1); 
+$softShadow: 0 0.5rem 1rem rgba(0,0,0,.1); 
 $solidBottom:  2px solid rgba(0,0,0,.2);
+
+$largePadding: 4rem;
+$smallPadding: 2rem;
+$tinyPadding: 1rem;
+$maxPageWidth: 55rem;
+$maxWideSectionWidth: $maxPageWidth + 30rem;
+
+/* GLOBAL STYLES */
 
 iframe {
   max-width: 100%;
 }
 
 iframe.video {
-  margin: 2em 0;
+  margin: $smallPadding 0;
 }
 
 img {
   max-width: 100%;
 }
-h4, h3 {
-  line-height: 1.2em;
-  margin-bottom: 0.4em;
-  text-transform: inherit;
-  small { opacity: 0.5; }
-}
-h3 {
-  font-size: 2em;
-  letter-spacing: 0em;
-}
-h1 {
-  font-size: 3em;
-}
-.spacer {
-  margin-top: 3em;
+
+small {
+  opacity: 0.7;
 }
 
-.link-section {
-  .button-link {
-    float: right;
-  }
+a i {
+  margin: 0 0.7rem;
 }
+
+a.anchor {
+  visibility: hidden;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+}
+
+h3, h5 {
+  text-transform: none;
+  letter-spacing: inherit;
+}
+h4 small {
+  text-transform: none;
+}
+
+/* PAGE STYLING */
 
 #wrapper.page {
   .layout-container {
@@ -44,104 +61,177 @@ h1 {
   }
   .layout-content {
     margin: auto;
-    max-width: 900px;
-    padding: 2rem 4rem;
+    max-width: $maxPageWidth;
+    padding: $largePadding;
     @include breakpoint('<=small') {
-      padding: 2rem;
+      padding: $smallPadding;
     }
   }
   &.wide .layout-content{
     max-width: none;
-    padding: 2rem 0;
     margin: 0;
+    padding: $smallPadding 0;
     > section {
-      max-width: 900px;
-      padding: 2rem 4rem;
-      padding-top: 0;
+      max-width: $maxPageWidth;
+      padding: $smallPadding $largePadding;
       margin: auto;
       display: block;
     }
   }
-  // TODO dry out
-  > div.header {
-		background: _palette(accent);
-    header {
-      max-width: 900px;
-      padding: 1rem 4rem;
-      margin: auto;
-      @include breakpoint('<=small') {
-        padding: 2rem;
-      }
+}
+
+/* GLOBAL ELEMENTS */
+
+.spacer {
+  margin-top: 3rem;
+}
+
+#page-header {
+  background: _palette(accent);
+  header {
+    max-width: $maxPageWidth;
+    padding: $tinyPadding $largePadding;
+    margin: auto;
+    @include breakpoint('<=small') {
+      padding: $tinyPadding $smallPadding;
     }
-    h1 {
-      margin:0;
+  }
+  img {
+    max-width: 30px;
+    @include breakpoint('<=small') {
+      max-width: 20px;
+    }
+    margin-right: $tinyPadding;
+    display: inline;
+  }
+  a {
+    border-bottom: none;
+    &:hover { color: white; }
+  }
+  h1 {
+    margin: 0;
+    display: inline;
+    font-size: 2.5rem;
+    @include breakpoint('<=small') {
+      font-size: $smallPadding;
+    }
+    small {
+      font-size: 1rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05rem;
+      padding-left: 0.2rem;
     }
   }
 }
 
-.button-link {
-  margin: 0.2em;
-  padding: 0 0.6em;
-  display: inline-block;
-  white-space: nowrap;
-  background: rgba(0,0,0,.05);
-  border-bottom: 2px solid rgba(0,0,0,0.1);
-  &:hover {
-    background: rgba(255,255,255,.3);
-  }
-  &.big {
-    padding: 0.2em 1em;
-    font-size: 1.2em;
-  }
-  &.massive {
-    font-size: 1.5em;
-    font-weight: bold;
-    border-bottom: 3px solid rgba(0,0,0,.3);
-  }
-  &.blue {
-    background: rgba(0,0,100,.3);
-    &:hover {
-      background: rgba(0,0,150,.4);
+// alert warning overlay
+
+.warning-container {
+  position: fixed;
+  width: 100%;
+  z-index: 20;
+  transition: opacity .5s ease-in-out;
+  pointer-events: none;
+  &.hidden {
+    opacity: 0;
+    user-select: none;
+    .warning-overlay {
+      pointer-events: none;
     }
+  }
+  .warning-overlay {
+    * { color: white; }
+    pointer-events: auto;
+    position: relative;
+    background: rgba(255, 27, 27, 0.9);
     box-shadow: $softShadow;
-    color: white;
-    text-shadow: 0 1px 2px rgba(0,0,0,.5);
+    width: 30rem;
+    max-width: 80%;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 0.8rem;
+    .close-button { 
+      position: absolute;
+      top: 0; 
+      right: 0;
+      width: 30px;
+      height: 30px;
+      cursor: pointer;
+      text-align: center;
+    }
+    h3, p {
+      line-height: 1.2rem;
+      margin: 0.2rem 0;
+    }
+    .action {
+      float: right;
+      padding-left: 1rem;
+    }
   }
 }
 
-// font awesome icon within buttons / links
-a i {
-  margin: 0 0.5em;
+
+// main menu
+#menu {
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 10;
+  user-select: none;
+  > div, > nav {
+    display: inline-block;
+  }
+  label {
+    background: rgba(0,0,0,0.1);
+  }
+  a {
+    border-bottom: 0;
+  }
 }
 
-// the dropdown menu
+// language selection
+
+.select-language a {
+  line-height: 1rem;
+  padding: 0.2rem;
+  margin: 0;
+  vertical-align: middle;
+}
+
+/* RE-USED ELEMENTS */
+
+// hamburger menus
+
 .hamburger {
+  $buttonSize: 2.5rem;
+  $dropdownPadding: 10px;
   input + label {
     &::before {
       display: none;
     }
     display: inline-block;
-    line-height: 40px;
     cursor: pointer;
     user-select: none;
-    background: rgba(0,0,0,0.1);
-    min-width: 40px;
-    height: 40px;
+    line-height: $buttonSize;
+    min-width: $buttonSize;
+    height: $buttonSize;
+    padding: 0 $tinyPadding;
     text-align: center;
-    padding: 0 15px;
     text-transform: none;
     letter-spacing: inherit;
     font-weight: 100;
-    margin-bottom: 10px;
+    margin-bottom: $dropdownPadding;
   }
   .buttons {
     display: none;
     position: absolute;
-    margin-right: 10px;
+    margin-right: $dropdownPadding;
     right: 0;
     background: white;
     padding: 0;
-    max-height: 300px;
+    max-height: 50vh;
     overflow-y: auto;
     box-shadow: $softShadow;
   }
@@ -158,41 +248,21 @@ a i {
   }
 }
 
-// language select and dropdown menu
-#menu {
-  position: fixed;
-  top: 0;
-  right: 0;
-  z-index: 10;
-  user-select: none;
-  > div, > nav {
-    display: inline-block;
-  }
-  a {
-    border-bottom: 0;
-  }
-  .select-language a {
-    line-height: 20px;
-    padding: 0.2em;
-    margin: 0;
-    vertical-align: middle;
-  }
-}
+// wide sections
 
 .wide-section {
+  background: white;
+  position: relative;
+  padding: $largePadding;
+  @include breakpoint('<=small') {
+    padding: $smallPadding;
+  }
   .container {
+    max-width: $maxPageWidth;
+    margin: auto;
     &.full {
       max-width: none;
     }
-    max-width: 900px;
-    margin: auto;
-  }
-  background: white;
-  padding: 2em;
-  position: relative;
-  @include breakpoint('<=small') {
-    padding: 2rem;
-    margin-top: 2rem;
   }
   &.shaded {
     background: #f5f5f5;
@@ -211,144 +281,85 @@ a i {
   }
 }
 
+// buttons
+
+.button-link {
+  margin: 0.2rem;
+  padding: 0 0.6rem;
+  display: inline-block;
+  white-space: nowrap;
+  background: rgba(0,0,0,.05);
+  border-bottom: 2px solid rgba(0,0,0,0.1);
+  &:hover {
+    background: rgba(255,255,255,.3);
+  }
+  &.big {
+    padding: 0.2em 1rem;
+    font-size: 1.2rem;
+  }
+  &.massive {
+    font-size: 1.5rem;
+    font-weight: bold;
+    border-bottom: 3px solid rgba(0,0,0,.3);
+  }
+  &.blue {
+    background: rgba(0,0,100,.3);
+    &:hover {
+      background: rgba(0,0,150,.4);
+    }
+    box-shadow: $softShadow;
+    color: white;
+    text-shadow: 0 1px 2px rgba(0,0,0,.5);
+  }
+}
+
+// grids
+
 .grid {
   display: grid;
   max-width: 100%;
-  grid-gap: 2em;
-  margin-bottom: 2em;
+  grid-gap: $smallPadding;
+  margin-bottom: $smallPadding;
   grid-template-columns: 1fr 1fr;
   @include breakpoint('<=small') {
     grid-template-columns: 1fr !important;
   }
   &.wide {
-    padding: 2em;
+    padding: $smallPadding;
   }
   &.semi {
-    max-width: 1400px;
+    max-width: $maxWideSectionWidth;
     margin: auto;
   }
 }
 
+// icon grids
+
 .icon-grid {
   text-align: center;
-  margin: 2em;
+  margin: $smallPadding;
+  $bgSize: 8rem;
+  $iconSize: 4rem;
   .icon-item {
-    font-size: 4em;
-    color: black;
-    height: 1.8em;
-    width: 1.8em;
     background: _palette(accent);
+    color: black;
     border-radius: 100%;
     text-align: center;
     vertical-align: middle;
-    line-height: 1.8em;
-    margin-bottom: 0.5em;
+    font-size: $iconSize;
+    height: $bgSize;
+    width: $bgSize;
+    line-height: $bgSize;
+    margin-bottom: $tinyPadding;
   }
 }
 
-// TODO fix/refactor this...
-.intro {
-  position: relative;
-  img.logo {
-    max-width: 70px;
-    float: right;
-    margin-top: -120px;
-    display: block;
-    margin-right: -60px;
-  }
-  p {
-    font-size: 0.7em !important;
-  }
-  @include breakpoint('<=medium') {
-    h1 {
-      padding-left: 100px;
-      // font-size: 3em;
-      img.logo {
-        float: left;
-        // max-width: 80px;
-        display: inline;
-        margin-left: -100px;
-        margin-top: 10px;
-      }
-    }
-  }
-  @include breakpoint('<=small') {
-    h1 {
-      padding-left: 70px;
-      font-size: 3em;
-      img.logo {
-        float: left;
-        max-width: 40px;
-        display: inline;
-        margin-left: -70px;
-        margin-top: 10px;
-      }
-    }
-  }
-}
-
-
-#wrapper.page {
-  .header {
-    vertical-align: top;
-    img {
-      max-width: 30px;
-      @include breakpoint('<=small') {
-        max-width: 20px;
-      }
-      margin-right: 1em;
-      // vertical-align: middle;
-      display: inline;
-    }
-    a {
-      border-bottom: none;
-      &:hover { color: white; }
-    }
-    h1 {
-      display: inline;
-      font-size: 2.5em;
-      @include breakpoint('<=small') {
-        font-size: 2em;
-      }
-      small {
-        font-size: 0.7em;
-        opacity: 0.7;
-        text-transform: uppercase;
-        letter-spacing: 0.05em;
-        padding-left: 0.2em;
-      }
-    }
-  }
-}
-
-// TODO seperate these
-.blog-item, .blog-post {
-  margin-bottom: 2em;
-  padding-bottom: 2em;
-  border-bottom: $solidBottom;
-  img {
-    max-width: 100%;
-  }
-  h4, h3 {
-    line-height: 1.2em;
-    margin-bottom: 0.4em;
-    a { border-bottom: 0; }
-    text-transform: inherit;
-    small { opacity: 0.5; }
-  }
-  h3 {
-    font-size: 2em;
-    letter-spacing: 0em;
-  }
-  h1 {
-    font-size: 3em;
-  }
-}
+// cards
 
 .card {
   h4 {
     background: _palette(accent);
-    padding: 1em;
+    padding: $tinyPadding;
     text-align: center;
   }
   &.orange h4 {
@@ -358,9 +369,9 @@ a i {
     background: _palette(red-col);
   }
   .content {
-    padding: 0 2em;
+    padding: 0 $smallPadding;
   }
-  padding-bottom: 2em;
+  padding-bottom: $smallPadding;
   background: white;
   box-shadow: $softShadow;
 }
@@ -377,16 +388,53 @@ a.card {
   }
 }
 
-.bars {
-  margin-bottom: 2em;
+/* PAGE SPECIFIC ELEMENTS */
+
+// front page into area
+.intro {
+  position: relative;
+  $logoSize: 70px;
+  $logoSizeSmall: 40px;
+  $headerMargin: $logoSize + 30px;
+  img.logo {
+    float: right;
+    max-width: $logoSize;
+    margin-right: -$logoSize;
+    margin-top: -$headerMargin;
+  }
+  .overlay {
+    position: absolute;
+    z-index: 1;
+  }
   @include breakpoint('<=medium') {
-  line-height: 1.3em;
-    span {
-      font-size: 0.8em;
+    h1, p {
+     padding-left: $headerMargin;
+    }
+    img.logo {
+      float: left;
+      margin-left: -$headerMargin;
+      margin-top: 0;
     }
   }
+  @include breakpoint('<=small') {
+    h1 {
+      font-size: 3.5rem;
+    }
+    h1, p {
+      padding-left: $logoSize;
+    }
+    img.logo {
+      max-width: $logoSizeSmall;
+      margin-left: -$logoSize;  
+    }
+  }
+}
+
+// progress bars (roadmap)
+
+.bars {
+  margin-bottom: $smallPadding;
   .bar {
-    margin-bottom: 0.5em;
     background: rgba(0,0,0,.5);
     height: 5px;
     .fill {
@@ -396,60 +444,21 @@ a.card {
   }
 }
 
-.link-group {
-  margin-top: 2em;
-}
-
-.legend {
-  .key {
-    padding: 0.3em 0.4em;
-    margin: 0 0.2em;
-    white-space: nowrap;
-    display: inline-block;
-    line-height: 1.2em;
-    &.green {
-      background: _palette(accent);
-    }
-    &.orange {
-      background: _palette(orange-col);
-    }
-    &.red {
-      background: _palette(red-col);
-    }
-  }
-}
-
-.intro .content .overlay {
-  position: absolute;
-  z-index: 1;
-}
+// team members (participants)
 
 .team-member {
-  h3, h4, p {
-    margin: 0;
-  }
-  h3 {
-    font-size: 1.5em;
-  }
-  h4 {
-    margin: 0.2em 0;
-    letter-spacing: normal;
-    text-transform: none;
-  }
-  p { 
-    font-size: 0.9em;
-    line-height: 1.5em;
-  }
   .image img { 
     max-width: 256px; 
     width: 100%;
     box-shadow: $softShadow;
   }
+  h3, p, h4 {
+    margin: 0;
+  }
   .icons {
     position: absolute;
-    margin-top: -3.2em;
+    margin-top: -3.2rem;
     a.icon {
-      font-size: 0.8em;
       color: white;
       background-color: rgba(0,0,0,0.5);
       &:hover {
@@ -462,26 +471,36 @@ a.card {
     & {
       display: grid;
       grid-template-columns: 1fr 2fr;
-      grid-gap: 1em;
+      grid-gap: $tinyPadding;
     }
   }
 }
 
 .education-menu {
+  &.full, &.compact {
+    .item {
+      margin: $smallPadding 0;
+    }
+    header {
+      margin-top: $largePadding;
+      margin-bottom: $tinyPadding;
+    }
+    h2 {
+      margin-bottom: $tinyPadding;
+    }
+    h3 {
+      margin-bottom: $tinyPadding;
+    }
+  }
+    
   &.compact .item {
+    margin: 0;
     display: inline-block;
     &.back{
       display: block;
-      margin-bottom: 1em;
     }
   }
-  &.full .item {
-    border-bottom: $solidBottom;
-    padding-bottom: 1.5em;
-    margin: 1.5em 0em;
-  }
   &.collapsed {
-    margin-bottom: 2em;
     position: relative;
     .item {
       display: block;
@@ -491,64 +510,59 @@ a.card {
       top: 0;
       right: 0;
     }
-  }
-  span {
-    display: block;
+    h2, header, .item {
+      margin: 0;
+    }
+    h2 {
+      margin: 0 $tinyPadding;
+      font-size: 1rem;
+    }
   }
 }
 
-.warning-container {
-  position: fixed;
-  width: 100%;
-  z-index: 20;
-  transition: opacity .5s ease-in-out;
-  pointer-events: none;
-  &.hidden {
-    opacity: 0;
-    user-select: none;
-  }
-  &.hidden .warning-overlay {
-    pointer-events: none;
-  }
-  .warning-overlay {
-    * { color: white; }
-    pointer-events: auto;
-    position: relative;
-    background: rgba(255, 27, 27, 0.9);
-    box-shadow: $softShadow;
-    width: 500px;
-    max-width: 80%;
-    margin: auto;
-    margin-top: 10px;
-    border-radius: 10px;
-    padding: 10px 20px;
-    font-size: 0.8em;
-    .close-button { 
-      position: absolute;
-      top: 0; 
-      right: 0;
-      width: 30px;
-      height: 30px;
-      cursor: pointer;
-      text-align: center;
+
+// legend above the dapps list
+
+.legend {
+  .key {
+    white-space: nowrap;
+    display: inline-block;
+    margin-left: $tinyPadding;
+    padding: 0 $tinyPadding / 2;
+    &.green {
+      background: _palette(accent);
     }
-    h3, p {
-      line-height: 1.2em;
-      margin: 0.2em 0;
+    &.orange {
+      background: _palette(orange-col);
     }
-    .action {
-      float: right;
-      padding-left: 1em;
+    &.red {
+      background: _palette(red-col);
     }
   }
 }
+
+// the dapps list 
 
 .dapps-list {
   background: #efefef;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   .card .content {
-    max-height: 200px;
+    max-height: 10rem;
     overflow-y: auto;
-    line-height: 1.4em;
+  }
+}
+
+// blog list
+
+.blog-item {
+  margin: $largePadding 0;
+  h3 {
+    margin-bottom: $tinyPadding; 
+    a { 
+      border: 0; 
+    }
+  }
+  h4 { 
+    margin: 0 
   }
 }
