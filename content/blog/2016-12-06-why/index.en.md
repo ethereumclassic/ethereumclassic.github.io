@@ -4,7 +4,7 @@ date: 2016-12-06
 author: Christian Seberino
 ---
 
-# Benefits Over The World Wide Web
+## Benefits Over The World Wide Web
 
 ![www](./6f50bb0706.jpg)
 
@@ -30,23 +30,23 @@ The World Wide Web is one of the most successful software systems in history.  I
 
 ![handshake](./6f538e8865.jpg)
 
-# Conclusion
+## Conclusion
 
 Ethereum Classic provides many advantages not possible, or not provided by default, with the World Wide Web.  You may want to take it for a test drive to see for yourself.
 
 ![Ferrari](./8e8a026334.jpg)
 
-# Feedback
+## Feedback
 
 You can contact me by clicking any of these icons:
 
 [![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
-# License
+## License
 
 ![license](./88x31.png)
 

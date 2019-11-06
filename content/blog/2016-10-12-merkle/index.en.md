@@ -6,13 +6,13 @@ author: Christian Seberino
 
 I will explain Merkle trees and why they are so important for blockchain systems.
 
-# Introduction
+## Introduction
 
 ![slow](./82fa11f184.jpg)
 
 The *sending* of information today is horrendously slow compared to the *processing* of information. Therefore, when distributing information on a peer to peer network, it is desirable to minimize communications even if that implies adding computations.  Hashes can help confirm the integrity of information with minimal communication.  Hash trees, or Merkle trees, can also help *identify* invalid bits with minimal communication.
 
-# El Paquete Semanal
+## El Paquete Semanal
 
 ![sign](./82fa6d5fc9.jpg)
 
@@ -20,13 +20,13 @@ To understand the importance of Merkle trees for blockchains, consider El Paquet
 
 ![house](./82fa5e09b5.jpg)
 
-# Fast Search
+## Fast Search
 
 ![map](./82fa2df772.jpg)
 
 To understand why Merkle trees can be used to find errors so efficiently, try this activity: Have a friend pick any city in any part of the world. Google Maps might be helpful. Start asking yes / no questions to determine the city. You might ask questions like, "Is the city above or below the equator?", and, "Is it to the east or west of Cairo?". You should notice that cutting the search space approximately in half every question leads to the answer amazingly fast. Merkle trees allow a similarly fast search.
 
-# Merkle Trees
+## Merkle Trees
 
 ![merkle](./82fa48ed9d.jpg)
 
@@ -38,23 +38,23 @@ Check hash 1 to determine if there are any errors to fix or not. Suppose the seg
 
 For many small segments (lots of levels), using a Merkle tree to check and fix a remote copy requires much less communication than sending all the hashes of all the segments. It minimizes communications at the expense of some extra hash calculations.
 
-# Conclusion
+## Conclusion
 
 ![last](./82fa22d881.jpg)
 
 Blockchain systems rely on many clever data structures and algorithms.  Merkle trees are muy importante for making blockchain systems operate quickly and efficiently.
 
-# Feedback
+## Feedback
 
 You can contact me by clicking any of these icons:
 
 [![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
-# License
+## License
 
 ![license](./88x31.png)
 

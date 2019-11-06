@@ -4,25 +4,25 @@ date: 2017-02-10
 author: Christian Seberino
 ---
 
-# The Problem
+## The Problem
 
 ![search](./9a33dea6c7.jpg)
 
 Millions of people search the Internet, government databases, private databases and blockchains everyday for medical advice, financial updates, weather reports, maps and more.  Likewise, millions of people want or need fast searches.
 
-# A Solution
+## A Solution
 
 ![index](./a4ce9e4f51.jpg)
 
 An effective method to speed up many searches is the use of *indexes*.  Indexes, like those at back of textbooks, provide the locations of all search terms.  A possible drawback is that they require large amounts of storage.
 
-# Another Solution
+## Another Solution
 
 ![smart watch](./9a5dcca484.jpg)
 
 An effective method to speed up many searches, with less storage requirements, is the use of *Bloom filters*.  These are important in many areas such as mobile and embedded  devices.
 
-# Bloom Filters
+## Bloom Filters
 
 ![Bloom filter](./a57b80c80b.png)
 
@@ -44,29 +44,29 @@ Larger Bloom filters have less false positives.  Bloom filters of several megaby
 
 To determine if an object X might be in a set with Bloom filter B, built with hash function H, determine if H(X) & B = H(X).  & is the bitwise AND operator.  Notice that the test only returns true if all the set bits in H(X) are also set in B.  Basically, groups of set bits in B correspond to elements.  X might be a member of the set if and only if its group of set bits corresponds to a group in B.  The reason B can only determine if X *might* be in the set is because B contains the bits of several elements.
 
-# Blockchains
+## Blockchains
 
 ![feather](./a76ee7d70d.jpg)
 
 Bloom filters allow lightweight (small memory requirements) Bitcoin wallets to quickly and privately obtain account information without downloading the entire blockchain.  Bloom filters also allow lightweight Ethereum Classic clients to quickly and privately obtain account information without downloading the entire blockchain.
 
-# Conclusion
+## Conclusion
 
 ![magazine cover](./a71e12d794.jpg)
 
 Bloom filters are a powerful tool that allows additional innovation in blockchain applications and many other areas in the twenty first century.
 
-# Feedback
+## Feedback
 
 You can contact me by clicking any of these icons:
 
 [![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
-# License
+## License
 
 ![license](./88x31.png)
 

@@ -10,7 +10,7 @@ The Ethereum Classic (ETC) blockchain does *not* contain all the necessary state
 information for the ETC system to operate. It does not even *implicitly* contain
 all that is needed! I will elaborate and discuss how this is handled.
 
-# State
+## State
 
 ![](./1*ZHk1y55a8LIXrBXyPQh6sw.jpeg)
 
@@ -29,7 +29,7 @@ In other words, all funds did *not* originate from mining. Do you wonder how
 miners know the account balances when processing account transfers involving
 these initially funded accounts? The answer involves the ETC node databases.
 
-# Database
+## Database
 
 ![](./1*doVsSfjjDVsy5Sy9M7m2Xg.jpeg)
 
@@ -47,7 +47,7 @@ For performance reasons, Parity and Geth use nonrelational (NoSQL) key value
 databases. These databases can be accessed directly. They can also be accessed
 using the Web 3 library.
 
-# Solution
+## Solution
 
 ![](./1*gGGUr4Xhyzo6Amcmzqc4ww.jpeg)
 
@@ -58,7 +58,7 @@ following command:
 
     geth dump 0
 
-# Conclusion
+## Conclusion
 
 ![](./1*mfEpuxoLMi8OZwFXK7kYQw.png)
 
@@ -67,7 +67,7 @@ block as well as the blockchain. ETC nodes typically store this information in
 databases. Only with both of these pieces of information can the ETC system
 operate.
 
-# Feedback
+## Feedback
 
 You can contact me by clicking any of these icons:
 
@@ -77,10 +77,10 @@ You can contact me by clicking any of these icons:
 
 ![](./0*HQj6HSHxE7pkIBjk.png)
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
-# License
+## License
 
 ![](./0*hocpUZXBcjzNJeQ2.png)

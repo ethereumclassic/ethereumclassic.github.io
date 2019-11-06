@@ -8,19 +8,19 @@ author: Christian Seberino
 
 *— Bruce Schneier*
 
-# Hash Functions
+## Hash Functions
 
 ![same size](./592d6aa93a.png)
 
 Hash functions are functions with outputs all the same *size*.  These outputs are referred to as *hashes*.  For example, all Secure Hash Algorithm 1 (SHA1) hashes have 20 bytes.  Hash functions can efficiently confirm the integrity of files.  For example, to confirm two terrabyte sized files are identical, it is easier to compare two hashes than all the bits!
 
-# One Way Functions
+## One Way Functions
 
 ![one way](./576150ffce.jpg)
 
 Cryptography requires hash functions that are *one way functions*.  One way functions are functions that are hard to invert.  For example, computers can quickly find products of large primes, but,  they cannot quickly factor the results.
 
-# Collision Resistance
+## Collision Resistance
 
 ![collision](./57f10e49ac.jpg)
 
@@ -28,29 +28,29 @@ Cryptography also requires hash functions that are *collision resistant*.  Colli
 
 Collision resistant hash functions make password based authentication systems more secure since only password hashes are stored. Authentication is performed by comparing hashes.  Even if all password hashes are made public, it is *still* not possible to easily determine the passwords!  (A attacker can eventually determine the passwords.  Therefore, many systems require passwords to be changed every few months.)
 
-# Blockchains
+## Blockchains
 
 ![secure world](./57d628b99d.jpg)
 
 Blockchain systems continually use hashes to confirm the integrity of much information.  Hashes also provide short unique identifiers for accounts, keys, transactions, blocks and state.
 
-# Conclusion
+## Conclusion
 
 ![workhorse](./57dc70fe4a.jpg)
 
 Hashes are vital for the Internet, blockchains and beyond.  They are truly the workhorses of cryptography.
 
-# Feedback
+## Feedback
 
 You can contact me by clicking any of these icons:
 
 [![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
-# License
+## License
 
 ![license](./88x31.png)
 

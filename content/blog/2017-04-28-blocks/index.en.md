@@ -14,7 +14,7 @@ lists, and, uncle header lists. It is informative to also consider the following
 three alternative block element divisions: *context*, *computation* and
 *consensus* categories.
 
-# Context
+## Context
 
 ![](./0*llg1l6DGAToRTcUO.jpg)
 
@@ -39,7 +39,7 @@ This is partially for security reasons.
 All blocks contain the date and time they were added to the blockchain. This is
 denoted by the number of seconds since 1970–01–01 00:00:00 UTC.
 
-# Computation
+## Computation
 
 ![](./0*77XuYYgPihW_w1Q4.png)
 
@@ -93,7 +93,7 @@ Bloom filters are binary strings used to quickly determine set membership with
 nominal storage requirements. Blocks contain Bloom filters for their sets of
 transaction receipt *logs*.
 
-# Consensus
+## Consensus
 
 ![](./0*NTUJe8yKvJf4WcoT.jpg)
 
@@ -153,14 +153,14 @@ blockchain.
 Blocks include the Keccak 256 hashes of their uncle header lists. This is
 partially for security reasons.
 
-# Conclusion
+## Conclusion
 
 ![](./1*krAMt9E5V-2_qQnJfPDgJA.jpeg)
 
 Considering these context, computation and consensus categories has hopefully
 been enlightening. Sometimes different perspectives can make all the difference.
 
-# Feedback
+## Feedback
 
 You can contact me by clicking any of these icons:
 
@@ -170,11 +170,11 @@ You can contact me by clicking any of these icons:
 
 ![](./0*HQj6HSHxE7pkIBjk.png)
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
-# License
+## License
 
 ![](./0*hocpUZXBcjzNJeQ2.png)
 

@@ -4,7 +4,7 @@ date: 2016-09-18
 author: ProphetDaniel
 ---
 
-# Inspiration
+## Inspiration
 
 
 You might not see it. But it is there quite active and performing a vital role!

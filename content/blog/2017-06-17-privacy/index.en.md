@@ -11,7 +11,7 @@ Recent news may discourage some people involved with Ethereum Classic (ETC) from
 protecting privacy. Here are the basics of privacy including why it is
 *indispensable*:
 
-# Universal & Traditional
+## Universal & Traditional
 
 ![Supreme Court](https://cdn-images-1.medium.com/max/800/0*LwgilwikjhWTWpvL.)
 
@@ -32,7 +32,7 @@ A right to privacy is not a new and radical idea. Rather, it is a universal and
 traditional one. The Ethereum Classic community is just promoting the principles
 of the United States, 150 other countries, and, the United Nations!
 
-# Beneficial & Necessary
+## Beneficial & Necessary
 
 ![life preserver](https://cdn-images-1.medium.com/max/800/0*msWol8t8mHQPoAdK.)
 
@@ -61,14 +61,14 @@ could implement an identification card system thereby providing security at the
 expense of privacy. Alternatively, door locks and alarm systems could provide
 the same or better security while maintaining privacy!
 
-# Conclusion
+## Conclusion
 
 ![superhero](https://cdn-images-1.medium.com/max/800/0*xFpLXELmoH3IVy5p.)
 
 A right to privacy is an old, traditional, beneficial and necessary idea. The
 Ethereum Classic community is doing a public service in promoting it.
 
-# Feedback
+## Feedback
 
 You can contact me by clicking any of these icons:
 
@@ -78,11 +78,11 @@ You can contact me by clicking any of these icons:
 
 ![LinkedIn](./0*aih0AaeN_3NfF1aX.png)
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
-# License
+## License
 
 ![](./0*RM878FeP_8eediXE.png)
 

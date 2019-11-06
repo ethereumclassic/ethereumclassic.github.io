@@ -4,7 +4,7 @@ date: 2017-02-28
 author: Christian Seberino
 ---
 
-# Introduction
+## Introduction
 
 ![Internet](./375fe24deb.gif)
 
@@ -12,19 +12,19 @@ The Domain Name System (DNS) maps domains to Internet Protocol (IP) addresses.  
 
 The Ethereum Classic (ETC) system *automatically* provides censorship resistance!  It is only necessary to write a [smart contract](https://steemit.com/etc/@cseberino/the-skinny-on-smart-contracts-an-introduction-and-why-you-should-care) to store and retrieve information on the [blockchain](https://steemit.com/etc/@cseberino/let-s-admit-blockchains-are-weird-an-introduction-to-the-strangeness).
 
-# Code
+## Code
 
 Here is [Serpent](https://steemit.com/etc/@cseberino/serpent-introduction-to-the-best-ethereum-classic-smart-contract-language) code that implements a DNS type system on the ETC platform:
 
 ```
 #
-# Implements a domain name system.
+## Implements a domain name system.
 #
-# The data keyword declares global objects for the smart contract storage space.
+## The data keyword declares global objects for the smart contract storage space.
 #
-# The msg global object contains information about the calling account such as
-# the ETC address and the amount of aETC (10^(-18) ETC) it sent to the smart
-# contract.
+## The msg global object contains information about the calling account such as
+## the ETC address and the amount of aETC (10^(-18) ETC) it sent to the smart
+## contract.
 #
 
 SET_UP_FEE = 1
@@ -77,7 +77,7 @@ def get(domain):
 
 This smart contract has methods to create, modify and retrieve domain records.  All methods supply status messages.  Notice it is necessary to send a small payment to set up new domain records.  This discourages cybersquatting and other attacks.
 
-# Testing & Deployment
+## Testing & Deployment
 
 ### Testing Script
 
@@ -173,9 +173,9 @@ For pretty printing lists, from hexadecimal encodings, I will use the following 
 ```
 #!/usr/bin/env python3
 #
-# Extracts and pretty prints lists from hexadecimal encodings.
+## Extracts and pretty prints lists from hexadecimal encodings.
 #
-# Usage: serpent_list <list>
+## Usage: serpent_list <list>
 
 import binascii
 import textwrap
@@ -280,23 +280,23 @@ Element #2
 True
 ```
 
-# Conclusion
+## Conclusion
 
 ![light bulb](./375f678bf4.jpg)
 
 A censorship resistant DNS replacement is just one of many potentially useful [ETC applications](https://steemit.com/etc/@cseberino/why-would-i-choose-to-run-my-application-on-ethereum-classic-instead-of-the-world-wide-web).  Hopefully this example will encourage you to come up with your own ideas.
 
-# Feedback
+## Feedback
 
 You can contact me by clicking any of these icons:
 
 [![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
-# License
+## License
 
 ![license](./88x31.png)
 

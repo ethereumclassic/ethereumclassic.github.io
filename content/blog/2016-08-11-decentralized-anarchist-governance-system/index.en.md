@@ -11,7 +11,7 @@ Methodology for reaching improved governance of decentralized anarchist organiza
 Figure 1 - Source [Inside Bitcoins](http://insidebitcoins.com/)
 
 
-# Introduction
+## Introduction
 
 One of the main problems to be addressed by a decentralized anarchist organization of individuals is the intelligent allocation of resources. As each individual is motivated to propose organizational improvements, for each opportunity the organization has, several proposals might be sent for evaluation of the decision taking board. It's probable that not all the proposals made are going to be funded because resources (matter, time, space, intelligent agents) are limited. So methods for selecting most fit proposals are often utilized. Here I present a method analogous to the genetic algorithm for selecting most fit proposals to be funded within an anarchist organization.
 
@@ -19,11 +19,11 @@ One of the main problems to be addressed by a decentralized anarchist organizati
 
 Figure 2 - Source [Mile Track GPS](https://miletrackgps.com/)
 
-# Proposed Algorithm
+## Proposed Algorithm
 
 A population of proposals to a problem is evolved toward better proposals. The evolution starts from a population of community generated proposals, and is an iterative process, with the population in each iteration called a generation of proposals. In each generation, the fitness of every proposal in the population is evaluated; The more fit proposals are selected from the current population, and each proposal details are modified to form a new generation. The new generation of candidate proposals is then used in the next iteration of the proposals algorithm. Commonly, the algorithm terminates when either a maximum number of generations has been produced, or a satisfactory fitness level has been reached for the population.
 
-# Measuring Fitness Of Each Proposal
+## Measuring Fitness Of Each Proposal
 
 One way to effectively measure the fitness of proposals is by a simple democracy voting process. The problem with this method is that receiving bad votes can lead to the tiranny of the majority.
 
@@ -34,7 +34,7 @@ Figure 3 - Source [FTCDN](http://t1.ftcdn.net/)
 
 If somehow a method for measuring the quality of the votes was available, the [tiranny of the majority](https://en.wikipedia.org/wiki/Tyranny_of_the_majority) could be avoided.
 
-# Measuring Quality of Votes
+## Measuring Quality of Votes
 
 The quality of the votes can be estimated with the conscience level each voter has.
 
@@ -90,10 +90,10 @@ The advent of the blockchain allowed the recording of information in a safe, dec
 
 If that was done in the [forked Ethereum](https://www.ethereum.org/), Darth Vader would have the possibility to attack his evilness ledger to make it not evil with the purpose of receiving voting power.
 
-# Drawbacks
+## Drawbacks
 
 This system might look overly complicated for a project selection process. Although with the advent of the [smart contracts](http://szabo.best.vwh.net/smart_contracts_idea.html) and computerized selection processes, the burden part of the process can be computer aided. After a few rounds people should get used to it.
 
-# Insights
+## Insights
 
 This topic was motivated from my participation in the [Ethereum Classic](https://ethereumclassic.org/) community and first posted at [Github - issue 39](https://github.com/ethereumclassic/README/issues/39). Thank you Avtar Sehra for your contribution.

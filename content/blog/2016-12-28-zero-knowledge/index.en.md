@@ -4,13 +4,13 @@ date: 2016-12-28
 author: Christian Seberino
 ---
 
-# Basic Definition
+## Basic Definition
 
 ![secrets](./f4b427bcd0.jpg)
 
 Zero knowledge proofs are proofs that do not reveal *any* information *except* the statement being proved.
 
-# Ben & Jerry
+## Ben & Jerry
 
 ![container](./f4b94f376c.jpg)
 
@@ -22,7 +22,7 @@ A zero knowledge proof method must not be able to prove *false* statements.  Thi
 
 Only with *all* the necessary steps preventing Ben from leaking information, and Jerry from being fooled, is the zero knowledge proof valid.
 
-# Current Methods
+## Current Methods
 
 ![security](./f4bd3259eb.jpg)
 
@@ -30,7 +30,7 @@ Many current zero knowledge proof methods are *interactive*.  They require the e
 
 Many current zero knowledge proof methods only establish a high *probability* of a statement being true.  Technically they are not providing proofs but rather only strong *evidence*.  However, this evidence often provides *absurdly* high probabilities of truthfulness.
 
-# Some Applications
+## Some Applications
 
 ![zcash](./f4a994feea.png)
 
@@ -40,23 +40,23 @@ Zero knowledge proofs might eliminate the need for many escrow services.  Imagin
 
 Zero knowledge proofs might lead to amazing blockchain applications that can *also* protect privacy.  zk-SNARKs are zero knowledge proof methods that are *currently* being used on the Zcash blockchain!
 
-# Parting Thoughts
+## Parting Thoughts
 
 ![math](./f4c9f917bf.jpg)
 
 Zero knowledge proofs might improve authentication systems, eliminate escrow services, add privacy to blockchain applications, and, do much more.  Who would have guessed research in an abstract field of mathematics would have so many consequences!
 
-# Feedback
+## Feedback
 
 You can contact me by clicking any of these icons:
 
 [![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
-# License
+## License
 
 ![license](./88x31.png)
 

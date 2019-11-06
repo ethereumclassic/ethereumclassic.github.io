@@ -4,7 +4,7 @@ date: 2017-07-23
 author: Prophet Daniel
 ---
 
-# Ethereum Classic welcomes Ethereum Commonwealth
+## Ethereum Classic welcomes Ethereum Commonwealth
 ![Imgur](./XXQn3HG.jpg?1)
 > "If by my life or death I can protect you, I will. You have my sword..."
 > Aragorn - J.R.R Tolkien
@@ -18,7 +18,7 @@ We are hopeful that with your fresh ideas and enthusiasm, this will be one of ou
 
 When you have already established your team, let's coordinate efforts to expand the community in several different and complimentary dimensions. We are all looking forward to working with your team and are certain that you guys are going to be yet a great power to Ethereum Classic as Grothendiek and ETC Dev teams are. Welcome aboard!
 
-# Pledge for support
+## Pledge for support
 Contribute to the many development teams powering Ethereum Classic technology, help teams to be born by supporting them as you can. We as a community thank all the brave work already done by developers. But still there is a lot to do.
 
 ![Imgur](./wlZyBeH.jpg?1)

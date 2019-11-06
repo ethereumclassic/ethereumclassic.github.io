@@ -8,7 +8,7 @@ author: Christian Seberino
 
 Many initiatives are raising capital with initial coin offerings (ICOs).  The Ethereum (ETH) project raised 18 million dollars and the DAO project raised 150 million dollars!  Furthermore, the entire blockchain space is worth 90 *billion* dollars!  I will describe ICOs and their custom cryptocurrencies on Ethereum Classic (ETC).
 
-# ICO Basics
+## ICO Basics
 
 ![ICO](./094886790b.png)
 
@@ -16,7 +16,7 @@ An ICO is a method of raising funds with the sale of a new cryptocurrency.  Thes
 
 Caution is required with ICOs as they are effectively *unregulated*.  Participants do not purchase ownership in companies, nor, many privileges protected by established case law.  There is great potential for innovation as well as scams.  [Smith & Crown]( https://www.smithandcrown.com) and [ICOrating](http://icorating.com/) are two resources that can assist with ICO research.
 
-# ICO Cryptocurrencies
+## ICO Cryptocurrencies
 
 ![currencies](./0948843b88.jpg)
 
@@ -54,7 +54,7 @@ There are many [Ethereum Token Standard compliant Solidity smart contract exampl
 
 ```
 #
-# Implements a cryptocurrency that adheres to the Ethereum Token Standard.
+## Implements a cryptocurrency that adheres to the Ethereum Token Standard.
 #
 
 data NAME
@@ -186,23 +186,23 @@ def transferFrom(send_add:address, receiv_add:address, trans_amt:uint256):
         return result
 ```
 
-# Conclusion
+## Conclusion
 
 ![money](./09489072fd.jpg)
 
 ICOs are a new way to raise funds and the ETC platform is an excellent choice for the required cryptocurrency smart contracts.  Vigilance due to the lack of regulations remains important. Hopefully, mechanisms to protect against abuse will allow an ever growing number of people to reap the benefits.
 
-# Feedback
+## Feedback
 
 You can contact me by clicking any of these icons:
 
 [![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
-# License
+## License
 
 ![license](./88x31.png)
 

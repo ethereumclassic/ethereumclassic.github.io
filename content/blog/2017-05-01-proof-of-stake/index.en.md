@@ -13,7 +13,7 @@ that funds will be at risk if proof of work systems are replaced with proof of
 stake systems. Fortunately, proof of stake systems can *improve* security rather
 than *threatening* it!
 
-# Proof Of Stake
+## Proof Of Stake
 
 ![](./0*mf8PsX4EY9YMwj61.jpg)
 
@@ -75,14 +75,14 @@ beneficial, there might still be problems. This is analogous to losing the key
 to a second door lock. Multiple door locks provide additional security, but,
 they also increase the chances of denying yourself access.
 
-# Conclusion
+## Conclusion
 
 ![](./0*DOkdlqd73UHBDWZj.png)
 
 Proof of stake systems do not necessarily have to eliminate proof of work
 systems. Blockchain systems can simultaneously juggle security *and* innovation.
 
-# Feedback
+## Feedback
 
 You can contact me by clicking any of these icons:
 
@@ -92,11 +92,11 @@ You can contact me by clicking any of these icons:
 
 ![](./0*pInE9rfjbCmZujdP.png)
 
-# Acknowledgments
+## Acknowledgments
 
 I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
-# License
+## License
 
 ![](./0*GohSlN8oSGd-FcXX.png)
 

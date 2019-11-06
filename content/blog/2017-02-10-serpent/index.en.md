@@ -8,7 +8,7 @@ author: Christian Seberino
 
 Serpent is a [smart contract](https://steemit.com/etc/@cseberino/the-skinny-on-smart-contracts-an-introduction-and-why-you-should-care) language based on Python. Python is arguably the best language for beginning programmers, and, the most productive language for serious developers.  Serpent is *currently* being used for complex enterprise projects.    It was originally developed for Ethereum.    I will describe how to get started with it on the Ethereum Classic (ETC) system.
 
-# Installing
+## Installing
 
 ![Python](./c402090113.jpg)
 
@@ -24,7 +24,7 @@ To test Serpent programs, it will be useful to install an additional package wit
 pip install ethereum
 ```
 
-# Programming
+## Programming
 
 ![programming](./c401779163.jpg)
 
@@ -122,7 +122,7 @@ result    : 0x00000000000000000000000000000000000000000000000000000000000004d2
 
 The call data is an encoding of all the information needed to execute a smart contract method on the ETC blockchain.  Notice the output of get_confirmation is the 32 byte hexadecimal representation of the string "It works!".  Notice the output of add_thousand is the 32 byte hexadecimal representation of  1234 since 0xea equals 234.
 
-# Deploying
+## Deploying
 
 ![soldiers](./c3fe5490d9.jpg)
 
@@ -287,23 +287,23 @@ b'It works!\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\
 1234
 ```
 
-# Conclusion
+## Conclusion
 
 ![Steve Jobs](./d2ca2d17d2.jpg)
 
 Serpent is an excellent way to get started developing ETC smart contracts.  Now go make a [dent in the universe](https://en.wikipedia.org/wiki/Steve_Jobs_(book)) with it!
 
-# Feedback
+## Feedback
 
 You can contact me by clicking any of these icons:
 
 [![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank Tomasz Drwięga for his help.  I would also like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
-# License
+## License
 
 ![license](./88x31.png)
 

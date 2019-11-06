@@ -4,7 +4,7 @@ date: 2017-01-24
 author: Prophet Daniel
 ---
 
-# Ethereum Classic Harmony Launch
+## Ethereum Classic Harmony Launch
 
 | - | - |
 |---|---|
@@ -17,7 +17,7 @@ author: Prophet Daniel
 <p><a href="https://hack.ether.camp/sale">Ethereum Harmony - Full info of a smart contract</a> from <a href="https://www.youtube.com/channel/UC9GC7dr_V9RWVBIGrdYq0MQ">ether.camp</a> on <a href="https://youtube.com">YouTube</a>.</p>
 
 
-# More information
+## More information
 
 <a href="https://hack.ether.camp/sale">https://hack.ether.camp/sale</a>
 

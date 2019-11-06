@@ -4,7 +4,7 @@ date: 2016-12-01
 author: Christian Seberino
 ---
 
-# Introduction
+## Introduction
 
 The Internet is amazing but it is not as good as it can be.  It is several decades old and was designed for a different environment.  It does not provide adequate protections and support for the ways people actually use it:
 
@@ -20,13 +20,13 @@ The Internet is amazing but it is not as good as it can be.  It is several decad
 
 ![net_data_type](./fbc8cb97a5.png)
 
-# Glimpses Of A Better Internet
+## Glimpses Of A Better Internet
 
 ![futurenet](./fb629b5233.jpg)
 
 Virtual private networks (VPNs) and Tor provide better security.  Cell phone networks provide better support for mobile devices.  BitTorrent provides better support for broadcasting.  These give an idea of what a future improved Internet can look like.
 
-# The InterPlanetary File System
+## The InterPlanetary File System
 
 ![ipfs](./0be00dd8a3.png)
 
@@ -34,29 +34,29 @@ The InterPlanetary File System (IPFS)  is one noteworthy attempt to replace the 
 
 The Internet Protocol (IP) addresses devices.  A major change in IPFS, relative to the current Internet, is to focus on addressing *data*.  Notice that as long as copies of data are accurate, sources are *irrelevant*.  Furthermore, IPFS addresses are based on cryptographic hashes making information virtually impossible to tamper with.
 
-# Blockchains
+## Blockchains
 
 ![eth](./fb9fc52f31.png)
 
 Blockchains are not designed to effectively store vast amounts of data.  This is why blockchain systems can greatly benefit from systems such as IPFS.  Imagine a video smart contract, on Ethereum or Ethereum Classic, for which it would be prohibitively expensive to store the required videos on the blockchain.  It would make much more sense to store the videos on IPFS and just store the corresponding IPFS *addresses* on the blockchain.
 
-# Conclusion
+## Conclusion
 
 ![future](./fbb65c1650.jpg)
 
 There are efforts underway to greatly improve the Internet.  These efforts will make the Internet faster, more secure and more mobile friendly for all of us.  Blockchains will be able to effectively utilize these new architectures to allow the creation of many innovative applications in the near future.  Stay tuned as it should be a wild ride.
 
-# Feedback
+## Feedback
 
 You can contact me by clicking any of these icons:
 
 [![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank Van Jacobson for his brilliant Named Data Networking related papers and talks that have greatly helped clarify many of these ideas.  I would also like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
-# License
+## License
 
 ![license](./88x31.png)
 

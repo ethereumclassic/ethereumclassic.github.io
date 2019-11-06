@@ -8,7 +8,7 @@ author: Christian Seberino
 
 The Ethereum Classic (ETC) blockchain makes possible an unstoppable, reliable, auditable, trustless and secure world computer.  To understand this system, it is important to understand *accounts* and *states*.
 
-# Accounts
+## Accounts
 
 ![account](./bf11b98df3.png)
 
@@ -44,29 +44,29 @@ Smart contract accounts have *memories*.  These are also referred to as *storage
 
 Accounts have counters referred to as *nonces*.  Partially to protect against replay attacks, external account nonces increment every time they add a new transaction to the blockchain.  Partially to provide variability when calculating new addresses, smart contract account nonces increment every time they add a new smart contract to the blockchain.
 
-# States
+## States
 
 ![state](./c129534fb1.png)
 
 A *complete* description of the world computer can be given solely by the accounts!  This complete description is referred to as the *state* of the world computer.  Because the world computer is always running, the state is always changing.
 
-# Conclusion
+## Conclusion
 
 ![understanding](./c193ccc60f.jpg)
 
 There are external entity accounts and smart contract accounts.  They completely specify the state of the world computer at all times.  If you understand all that then you have taken a significant step in mastering ETC!
 
-# Feedback
+## Feedback
 
 You can contact me by clicking any of these icons:
 
 [![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
-# License
+## License
 
 ![license](./88x31.png)
 

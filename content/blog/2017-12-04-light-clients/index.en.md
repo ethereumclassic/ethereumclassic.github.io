@@ -92,7 +92,7 @@ utilize the ETC system. By connecting to honest nodes, only storing block
 headers, and, utilizing the properties of hashes, even toasters can benefit from
 the ETC world computer.
 
-# Feedback
+## Feedback
 
 You can contact me by clicking any of these icons:
 
@@ -102,11 +102,11 @@ You can contact me by clicking any of these icons:
 
 ![](./0*HQj6HSHxE7pkIBjk.png)
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
-# License
+## License
 
 ![](./0*hocpUZXBcjzNJeQ2.png)
 

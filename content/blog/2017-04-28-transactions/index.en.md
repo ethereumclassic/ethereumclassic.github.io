@@ -15,7 +15,7 @@ enable people to: send data, send funds, install programs, and, execute
 programs. All data, funds and programs are associated with
 [accounts](https://steemit.com/etc/@cseberino/the-ethereum-classic-world-computer-accounts-and-states-explained).
 
-# Payments
+## Payments
 
 ![](./0*dwEVBeli4Eq1qYvX.jpg)
 
@@ -24,7 +24,7 @@ but, they are always doing so on behalf of humans.) Therefore, an access control
 system is necessary. The ETC access control system relies on *payments*. These
 are made with *transactions*.
 
-# Transactions
+## Transactions
 
 Transactions are data structures containing six elements: an address, datum,
 gift, offer, nonce and signature.
@@ -70,17 +70,17 @@ Digital signatures are specified with three values using the Elliptic Curve
 Digital Signature Algorithm (ECDSA). The sending addresses of transactions can
 be determined from the digital signatures.
 
-# Receipts
+## Receipts
 
 Transaction execution details are available in data structures referred to as
 *receipts*. Receipts are used by search engines and other applications.
 
-# Conclusion
+## Conclusion
 
 Transactions are foundational to ETC. They allow humans to interact with it in a
 usable manner. Understanding transactions will help you become an ETC guru.
 
-# Feedback
+## Feedback
 
 You can contact me by clicking any of these icons:
 
@@ -90,11 +90,11 @@ You can contact me by clicking any of these icons:
 
 ![](./0*HQj6HSHxE7pkIBjk.png)
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
-# License
+## License
 
 ![](./0*hocpUZXBcjzNJeQ2.png)
 

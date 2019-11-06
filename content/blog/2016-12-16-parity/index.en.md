@@ -4,13 +4,13 @@ date: 2016-12-16
 author: Christian Seberino
 ---
 
-# Introduction
+## Introduction
 
 ![ETC logo](./3315e07195.png)
 
 You can easily get your own Ethereum Classic network node up and running with the phenomenal Parity implementation.  The Parity project is managed by Gavin Wood, the author of the Ethereum specification (yellow paper), and his company Ethcore.
 
-# Setup
+## Setup
 
 ![Ethcore logo](./38720b3cb7.png)
 
@@ -22,7 +22,7 @@ parity --chain classic
 
 The set up should take a several hours to download a copy the Ethereum Classic blockchain.  It will use about seven gigabytes of storage.  Parity is able to survive interuptions such as power outtages.  Just restart Parity in the event of an interruption and all should be fine.  It is amazing that with these few steps one can easily add an Ethereum Classic node to the network and join the revolution!
 
-# Communication
+## Communication
 
 ![comms](./30432cbb89.jpg)
 
@@ -186,23 +186,23 @@ Parity//v1.4.6-beta-5feccf1-20161205/x86_64-linux-gnu/rustc1.13.0
 0x6060604052361561001f5760e060020a60003504630f2c93298114610028575b6100005b610002565b6100c1600435602435600080547f16c72721000000000000000000000000000000000000000000000000000000006060908152600160a060020a03909116906316c727219060649060209060048187876161da5a03f11561000257505060405151905080156100b25750604051600160a060020a038416908290349082818181858883f193505050505b156100d3575060015b92915050565b60408051918252519081900360200190f35b600060009054906101000a9004600160a060020a0316600160a060020a03166316c727216040518160e060020a0281526004018090506020604051808303816000876161da5a03f1156100025750506040515115905080156101505750604051600160a060020a038316908290349082818181858883f193505050505b15610023575060016100bb56
 ```
 
-# Conclusion
+## Conclusion
 
 ![future](./387c4eecc2.jpg)
 
 Parity is an amazing solid Ethereum Classic network node implementation you can easily get operational.  The aforementioned code examples should be enlightening.  Feel free to extend my script and investigate further.  Welcome to the future!
 
-# Feedback
+## Feedback
 
 You can contact me by clicking any of these icons:
 
 [![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
-# License
+## License
 
 ![license](./88x31.png)
 

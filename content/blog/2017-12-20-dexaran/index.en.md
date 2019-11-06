@@ -136,7 +136,7 @@ these accusations?
 I can only say that I never hacked TheDAO. If I were [T]heDAO hacker then why do I
 need an ICO to fund my own team?
 
-# Feedback
+## Feedback
 
 You can contact me by clicking any of these icons:
 
@@ -146,11 +146,11 @@ You can contact me by clicking any of these icons:
 
 ![](./0*HQj6HSHxE7pkIBjk.png)
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
-# License
+## License
 
 ![](./0*hocpUZXBcjzNJeQ2.png)
 

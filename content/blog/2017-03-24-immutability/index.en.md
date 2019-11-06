@@ -8,7 +8,7 @@ author: Christian Seberino
 
 Eyan Ron in  [A New Era of Blockchain Immutability - Towards a New Understanding](http://cryptom.site/2017/03/06/a-new-era-of-blockchain-immutability-towards-a-new-understanding/) brilliantly describes two types of blockchain system immutability: *historical* and *procedural*.  I will show how these distinctions can improve Ethereum Classic (ETC) immutability discussions.
 
-# Historical Immutability
+## Historical Immutability
 
 ![history](./d7e8599b0a.jpg)
 
@@ -16,7 +16,7 @@ Eyan Ron in  [A New Era of Blockchain Immutability - Towards a New Understanding
 
 Historical immutability is not the same as blockchain immutability.  An immutable blockchain would not allow new blocks!  Historical immutability only applies to sufficiently aged blocks (or equivalently, blocks of sufficient depth in the blockchain).  It permits new blocks and avoids confusion regarding the latest blocks.  Furthermore, historical immutability does not allow new blocks to be added anywhere except after the latest blocks.
 
-# Procedural Immutability
+## Procedural Immutability
 
 ![procedure](./d7e82e49f3.jpeg)
 
@@ -24,7 +24,7 @@ Historical immutability is not the same as blockchain immutability.  An immutabl
 
 Blockchain systems define block validation protocols.  These might specify mining rewards and valid proof of work information.  Procedural immutability typically is *not* desirable!  It would prohibit bug fixes and new features!  Although blockchain systems typically cannot guarantee procedural immutability, they should specify the only situations in which it may be violated.
 
-# ETC Immutability
+## ETC Immutability
 
 ![ETC](./d7e840f60c.png)
 
@@ -32,13 +32,13 @@ It is now possible to more precisely define ETC immutability:
 
 *ETC guarantees historical immutability, and, to only violate procedural immutability in order to improve the system.*
 
-# Managing Improvements
+## Managing Improvements
 
 ![ambiguity](./d7e825ab56.jpg)
 
 Unfortunately, this does not eliminate all ambiguity.  There might still be confusion and disagreements regarding what constitutes *improvements!*  Is the Ethereum DAO attack hard fork an "improvement" because it potentially increased the available investment capital? Clearly all blockchain systems, including ETC, must develop protocols to evaluate proposed improvements and avoid future problems.
 
-# Historical Discussions
+## Historical Discussions
 
 ![discussion](./d7e848bd7e.jpg)
 
@@ -60,23 +60,23 @@ Possible Response: *Removing the denial of service vulerabilities violated proce
 
 Possible Response: *Procedural immutability does not apply but historical immutability does.*
 
-# Conclusion
+## Conclusion
 
 ![future](./d7e85c367f.jpg)
 
 Eyan Ron has helped clarify the definition of ETC immutability.  This is useful to improve discussions.  Further work is required to specify a protocol to manage proposed ETC improvements.
 
-# Feedback
+## Feedback
 
 You can contact me by clicking any of these icons:
 
 [![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
-# License
+## License
 
 ![license](./88x31.png)
 

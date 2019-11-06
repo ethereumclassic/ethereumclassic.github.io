@@ -4,13 +4,13 @@ date: 2017-04-18
 author: Christian Seberino
 ---
 
-# Introduction
+## Introduction
 
 ![keys](./a917ca51bc.jpg)
 
 Interactions with the Ethereum Classic (ETC) system depend on special numbers referred to as *public keys* and *private keys*.  Private keys are used to transfer funds, install programs, and, run programs.  These numbers must be kept secret at all times.  Public keys are used to confirm knowledge of private keys *without* their disclosure.  Public keys also provide a means of identifying [accounts](https://steemit.com/etc/@cseberino/the-ethereum-classic-world-computer-accounts-and-states-explained).
 
-# Details
+## Details
 
 ![details](./a9178af83f.jpg)
 
@@ -107,7 +107,7 @@ print(convert(multiply(int(sys.argv[1]), (GX, GY))))
 
 The reason for this convoluted process is so that private keys *cannot* be derived from public keys.  If you want to learn more, investigate *elliptic curve cryptography*.  The reason for this name is that historically it followed from calculations of the arc lengths of ellipses.
 
-# Miscellany
+## Miscellany
 
 ![miscellany](./a91bd90f31.jpg)
 
@@ -145,7 +145,7 @@ Private keys provide a way to effectively sign transactions.  For this, ETC uses
 
 Programs, or [smart contracts](https://steemit.com/etc/@cseberino/the-skinny-on-smart-contracts-an-introduction-and-why-you-should-care), do not have their own public and private keys.  Therefore, programs cannot digitally sign transactions.  Furthermore, program account addresses must be selected by some other means.
 
-# Example
+## Example
 
 ![example](./aa6b2d4614.jpg)
 
@@ -168,23 +168,23 @@ Here is a slightly edited session, on a Linux computer, that calculates a public
 89b44e4d3c81ede05d0f5de8d1a68f754d73d997
 ```
 
-# Conclusion
+## Conclusion
 
 ![door](./aa0f86d5b4.jpg)
 
 Public and private keys are widely used in ETC and in other technologies.  Therefore, I hope this has been enlightening.
 
-# Feedback
+## Feedback
 
 You can contact me by clicking any of these icons:
 
 [![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
-# License
+## License
 
 ![license](./88x31.png)
 

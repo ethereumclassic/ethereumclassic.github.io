@@ -8,7 +8,7 @@ author: Christian Seberino
 
 Ethereum Classic (ETC) uses Recursive Length Prefix (RLP) encoding to store and send data structures. I will describe RLP and how it is used in ETC.
 
-# Introduction
+## Introduction
 
 ![](./1*_y8SOO9LmGSUWnSGG1vidg.png)
 
@@ -18,13 +18,13 @@ RLP is a serialization format created by Ethereum developers for all data struct
 
 RLP is also consistent.  Identical objects are always converted to identical byte sequences. This is not true of all serialization formats. For example, when encoding sets of key value pairs, some schemes do not specify an ordering for the keys.
 
-# Details
+## Details
 
 ![](./lZK7AV3.jpg)
 
 RLP operates on byte sequences and lists. Lists can contain byte sequences and other lists. The interpretation of all inputs is handled by other protocols. For byte sequences, small headers are added which depend on the length. For lists, the elements are encoded separately and concatenated. As with byte sequences, small headers are added which depend on the length.  Lastly, all lengths are encoded in big endian format.
 
-# Code
+## Code
 
 ![](./NpkXLnm.jpg)
 
@@ -144,13 +144,13 @@ b'12345'
 [b'abcde', [b'12345', b'12345', b'12345'], [b'fghij'], b'67890', [b'klmno', b'klmno', b'klmno', b'klmno']]
 ```
 
-# Conclusion
+## Conclusion
 
 ![](./iI2jnWZ.jpg)
 
 RLP is an elegant and approachable serialization format used extensively by ETC. It can be quickly mastered thereby illuminating this important aspect of the system.
 
-# Feedback
+## Feedback
 
 You can contact me by clicking any of these icons:
 
@@ -160,11 +160,11 @@ You can contact me by clicking any of these icons:
 
 ![](./0*HQj6HSHxE7pkIBjk.png)
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
-# License
+## License
 
 ![](./0*hocpUZXBcjzNJeQ2.png)
 

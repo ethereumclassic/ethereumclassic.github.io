@@ -10,7 +10,7 @@ The most ambitious goal for Ethereum Classic (ETC) is to *replace* the World
 Wide Web (Web). Blockchain based replacements for the Web are often referred to
 as Web 3.0.
 
-# Web 2.0
+## Web 2.0
 
 ![](./1*QP4xdyqv3UOD2USYOSdPOw.jpeg)
 
@@ -21,7 +21,7 @@ personal home pages. As the Web evolved, greater dynamism and interactivity was
 possible such as with social media. This improved Web is often referred to as
 Web 2.0. The term was popularized by Tim O’Reilly.
 
-# Web 3.0
+## Web 3.0
 
 ![](./1*f5azknP1ivazTcwP-0tVhg.jpeg)
 
@@ -59,7 +59,7 @@ systems to provide additional functionality. As ETC and related systems mature,
 browsers will increasingly just point to these Web alternatives thus ushering in
 the era of Web 3.0.
 
-# Conclusion
+## Conclusion
 
 ![](./1*DTUA222AFbN6YabdfoWLvg.jpeg)
 
@@ -68,7 +68,7 @@ trustless replacement for the Web is a compelling vision. ETC, IPFS and related
 tools can deliver Web 3.0. It is therefore understandable why so many are
 enamored with ETC and its potential.
 
-# Feedback
+## Feedback
 
 You can contact me by clicking any of these icons:
 
@@ -78,11 +78,11 @@ You can contact me by clicking any of these icons:
 
 ![](./0*HQj6HSHxE7pkIBjk.png)
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
-# License
+## License
 
 ![](./0*hocpUZXBcjzNJeQ2.png)
 

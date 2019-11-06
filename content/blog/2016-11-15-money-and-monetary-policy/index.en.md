@@ -6,7 +6,7 @@ author: Christian Seberino
 
 I will discuss money and monetary policy as well as give details regarding cryptocurrencies.
 
-# What Is Money?
+## What Is Money?
 
 No one can create all the products and services they desire.  Therefore, people *exchange* products and services.   Money is an object that facilitates this exchange.  Examples of money include convenient products such as rice and salt.  More abstract examples of money include promissory notes like gold notes:
 
@@ -20,7 +20,7 @@ The most abstract examples of money are not associated with *any* product or ser
 
 Money facilitates *storage*.  It is more convenient to store dollar bills than say horses or eggs.  Money also facilitates *distribution*.  It is more convenient to send Bitcoin than say houses.  Money also facilitates *pricing*.  It is convenient to relate the values of all products and services to some single type of money.
 
-# What Is Monetary Policy?
+## What Is Monetary Policy?
 
 A monetary policy is a plan to manage a money *supply*.  Some advocate fixed money supplies.  Some advocate adjustable money supplies.  In response to the Great Recession, many governments greatly increased their money supplies:
 
@@ -30,7 +30,7 @@ Satoshi Nakamoto set up Bitcoin to have a *fixed* long term money supply.  He wa
 
 ![newspaper](./a7217eff78.jpg)
 
-# What Sets Cryptocurrency Prices?
+## What Sets Cryptocurrency Prices?
 
 Cryptocurrency prices in general are not static.  Satoshi Nakamoto avoided a central bank and accepted potentially fluctuating Bitcoin prices:
 
@@ -58,7 +58,7 @@ Furthermore, the *rate* of Bitcoin money supply growth is decreasing.  The money
 
 Unlike Bitcoin, Ethereum and Ethereum Classic currently do not have fixed long term money supplies.  There are ongoing discussions in both communities about potential changes to their monetary policies.  Any modifications will also likely affect prices.
 
-# Conclusion
+## Conclusion
 
 Cryptocurrencies are innovative types of money with monetary policies that in general have strong protections against abuse.  Cryptocurrency prices can vary due to many factors.  As more people understand these technologies, hopefully they will gain the confidence to benefit from them.  In the words of the inventor of blockchains:
 
@@ -66,18 +66,18 @@ Cryptocurrencies are innovative types of money with monetary policies that in ge
 >
 > **"It's very attractive to the libertarian viewpoint if we can explain it properly."**
 
-# Feedback
+## Feedback
 
 You can contact me by clicking any of these icons:
 
 [![twitter](./fcbc8685c1.png)](https://twitter.com/chris_seberino) [![facebook](./fcbc627df9.png)](https://www.facebook.com/cseberino) [![linkedin](./fcbcf09c9e.png)](https://www.linkedin.com/in/christian-seberino-776897110)
 
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
-# License
+## License
 
 ![license](./88x31.png)
 

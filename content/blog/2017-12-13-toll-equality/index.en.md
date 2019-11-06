@@ -68,7 +68,7 @@ On a completely unrelated note. Since I have your attention dear reader, allow
 me to comment on something completely unrelated, net neutrality: DON’T BELIEVE
 THE HYPE!
 
-# Feedback
+## Feedback
 
 You can contact me by clicking any of these icons:
 
@@ -78,11 +78,11 @@ You can contact me by clicking any of these icons:
 
 ![](./0*HQj6HSHxE7pkIBjk.png)
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
-# License
+## License
 
 ![](./0*hocpUZXBcjzNJeQ2.png)
 

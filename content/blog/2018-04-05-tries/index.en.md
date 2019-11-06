@@ -8,7 +8,7 @@ author: Christian Seberino
 
 I will describe tries and explain why they are so important.
 
-# Introduction
+## Introduction
 
 ![](./1*PspwIHWBVRfeUmS3hppEhA.jpeg)
 
@@ -20,7 +20,7 @@ composed of connected *nodes* that store values. Different nodes imply different
 keys based on their *positions*. A common application that uses tries is
 internet routing.
 
-# Examples
+## Examples
 
 ![](./1*NxSDER7l2eRRfmzsa17Xlg.png)
 
@@ -43,7 +43,7 @@ the keys. Therefore, the yellow dot corresponds to the key with the hexadecimal
 representation "0x0f2". The previous trie diagram represented 15 nodes. This one
 represents 4369 nodes!
 
-# Compression
+## Compression
 
 ![](./1*BM8klqQeu4ZTO9BxU7dC8w.png)
 
@@ -51,7 +51,7 @@ When representing sets of key value pairs with tries, there is often thousands
 of unused nodes. Compression techniques are often used to more efficiently store
 tries with lots of unused nodes.
 
-# Nomenclature
+## Nomenclature
 
 ![](./1*xPRi16jbkoUaQpF3OX3NJg.png)
 
@@ -59,7 +59,7 @@ The terms radix trees and Patricia trees also refer to tries. Sometimes, but not
 always, these terms imply "compressed" tries that more efficiently manage unused
 nodes.
 
-# Conclusion
+## Conclusion
 
 ![](./1*fELeYRhN2hKLIbwtkX7dcw.png)
 
@@ -68,7 +68,7 @@ facilitates changes and searches. They are used extensively in many
 applications. Hopefully now you have gained the fundamentals to be able to take
 a deeper dive into these concepts.
 
-# Feedback
+## Feedback
 
 You can contact me by clicking any of these icons:
 
@@ -78,11 +78,11 @@ You can contact me by clicking any of these icons:
 
 ![](./0*HQj6HSHxE7pkIBjk.png)
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
-# License
+## License
 
 ![](./0*hocpUZXBcjzNJeQ2.png)
 

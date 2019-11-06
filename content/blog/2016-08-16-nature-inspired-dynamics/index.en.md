@@ -9,7 +9,7 @@ author: ProphetDaniel
 Figure 1. Ethereum Classic pulsing community. Source Ethereum Classic Slack [#website-design channel](https://ethereumclassic.slack.com/archives/website-design)
 
 -----
-# Nature Inspired Dynamics
+## Nature Inspired Dynamics
 
 For every opportunity presented to Ethereum Classic community I think it should not disencourage going to several random different approaches as a mutant evolving community. If an individual can grab some fruits in one direction awesome. If it starts to starve in another, that direction might be cancelled like in a [Lévy flight foraging hypothesis](https://en.wikipedia.org/wiki/L%C3%A9vy_flight_foraging_hypothesis) performed by a bee looking for pollen for example.
 
@@ -33,7 +33,7 @@ Figure 3. An example of 1000 steps of a Lévy flight in two dimensions. The orig
 According to the resources requirement, the selection of the best looking path by a single bee has to somehow be performed. Going into one direction has a cost function related to the bee fatigue. If it doesn't find pollen after a long run, best to abort mission and return to the hive to rest and recover energy. When that happens the hive is encouraged to welcome that bee with proud, happiness and warming comfort. 
 
 -----
-# Ethereum Classic community development
+## Ethereum Classic community development
 
 
 ![](./ETC-declaration-of-independence-1024x512-08-11-2016.jpg)
