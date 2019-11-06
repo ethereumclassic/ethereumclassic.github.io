@@ -1,6 +1,6 @@
 import React from 'react';
 
-// TODO test when CORS enabled or switch mailchimp
+// TODO switch to mailchimp
 
 const endpoint = 'https://wordpress.ethereumclassic.org/newsletter-thank-you/';
 
@@ -15,42 +15,56 @@ class Newsletter extends React.Component {
     e.preventDefault();
     const email = new FormData(e.target).get('email');
     this.setState({ loading: true });
-    const response = await fetch(endpoint, {
+
+    const submittedData = new FormData();
+    submittedData.append('input_1', email);
+    submittedData.append('gform_target_page_number_2', 0);
+    submittedData.append('gform_source_page_number_2', 1);
+    submittedData.append('is_submit_2', 1);
+    submittedData.append('gform_submit', 2);
+
+    await fetch(endpoint, {
       method: 'POST',
-      body: {
-        input_1: email,
-        gform_target_page_number_2: 0,
-        gform_source_page_number_2: 1,
-        is_submit_2: 1,
-        gform_submit: 2
-      }
+      body: submittedData
     });
-    this.setState({ loading: false });
+    this.setState({ submitted: true });
   }
 
   render() {
-    const { loading, error, submitted } = this.state;
+    const { loading, submitted } = this.state;
     return (
       <>
         <h3>Newsletter</h3>
         <p>Sign up below to get the latest updates straight to your inbox.</p>
-        <form onSubmit={this.onSubmit}>
-          <div className="fields">
-            <div className="field">
-              <input type="email" name="email" id="email" placeholder="Email" />
+        {submitted ? (
+          <p>
+            <b>Thank you for subscribing to the ETC newsletter!</b>
+          </p>
+        ) : (
+          <form onSubmit={this.onSubmit}>
+            <div className="fields">
+              <div className="field">
+                <input
+                  type="email"
+                  name="email"
+                  id="email"
+                  placeholder="Email"
+                  disabled={loading ? 'disabled' : null}
+                />
+              </div>
             </div>
-          </div>
-          <ul className="actions">
-            <li>
-              <input
-                type="submit"
-                value="Sign Up"
-                className="button primary"
-                disabled={loading ? 'disabled' : null}
-              />
-            </li>
-          </ul>
-        </form>
+            <ul className="actions">
+              <li>
+                <input
+                  type="submit"
+                  value="Sign Up"
+                  className="button primary"
+                  disabled={loading ? 'disabled' : null}
+                />
+              </li>
+            </ul>
+          </form>
+        )}
       </>
     );
   }
