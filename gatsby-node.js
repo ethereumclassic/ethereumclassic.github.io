@@ -7,6 +7,12 @@ const fs = require('fs');
 
 const { defaultLocale, locales } = require('./src/i18n/config');
 
+function getJson(absolutePath) {
+  // clear cache
+  delete require.cache[absolutePath];
+  return require(absolutePath);
+}
+
 function parsePath(str) {
   // get relative path
   const relativePath = str.replace(__dirname, '');
@@ -110,7 +116,7 @@ exports.onCreateNode = ({ node, actions: { createNodeField } }) => {
       createNodeField({
         node,
         name: 'translations',
-        value: require(pathName)
+        value: getJson(pathName)
       });
     }
   }
@@ -172,7 +178,7 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
     const { slug, name, ext: extRaw, lang } = parsePath(absolutePath);
     // return the json itself OR the MDX generated code
     const ext = extRaw === ('md' || 'mdx') ? 'mdx' : extRaw;
-    const localeData = ext === 'json' ? require(absolutePath) : data.node.body;
+    const localeData = ext === 'json' ? getJson(absolutePath) : data.node.body;
     resolvedLocales[slug] = {
       ...resolvedLocales[slug],
       [lang]: {
@@ -184,7 +190,6 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
       }
     };
   });
-
   // generate main routes and inject their translations
   await Promise.all(
     routes.edges.map(async data => {
