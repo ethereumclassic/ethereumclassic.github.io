@@ -86,7 +86,6 @@ const resourcesCommmunity = () => {
               { text: 'ETC China', link: 'http://t.me/etczh' },
               { text: 'ETC Español', link: 'https://t.me/ethclassicesp' },
               { text: 'ETC Germany', link: 'https://t.me/EtherCalssic_de' },
-              { text: 'ETC Italia', link: 'http://t.me/ETC_Italia' },
               {
                 text: 'ETC Japan',
                 link: 'https://t.me/joinchat/GqAqlRC9hD5bVy65DuHcfg'

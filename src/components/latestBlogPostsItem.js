@@ -11,8 +11,8 @@ const LatestBlogPostsItem = ({ data }) => {
   return (
     <Link className="item" to={to} notLocalized>
       <h4>
-        <span>{`${new Date(data.frontmatter.date).toLocaleDateString()} `}</span>
-        {data.frontmatter.author}
+        {`${new Date(data.frontmatter.date).toLocaleDateString()} `}
+        <small>{data.frontmatter.author}</small>
       </h4>
       <h3>{data.frontmatter.title}</h3>
       <p>{data.excerpt}</p>

@@ -18,7 +18,7 @@ const Banner = () => {
         </p>
       </header>
       <div className="content">
-        <div className="overlay">
+        <div className="overlay dark">
           <h3>Ethereum Classic Summit</h3>
           <p>
             October 3rd & 4th, 2019
@@ -28,7 +28,7 @@ const Banner = () => {
           <ButtonLink
             to="/summit/2019"
             icon="angle-right"
-            className="massive"
+            // className="massive"
             text="View Presentations"
           />
         </div>

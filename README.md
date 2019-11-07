@@ -9,6 +9,7 @@ Presently focusing on content and structure, the design/layouts will be polished
 #### Content
 
 - Spell check everything
+- Remove a bunch of exchanges, leave a few..
 
 #### Styling
 
@@ -24,6 +25,7 @@ Presently focusing on content and structure, the design/layouts will be polished
 
 ### vi18n
 
+- use YAML as well as / instead of JSON
 - Structure all pages ready for i18n usage (including powered by, etc...)
 - replace localeDateStrings with i18nNext
 - Review `TODO`s

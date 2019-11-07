@@ -11,7 +11,6 @@ const Community = () => {
       <ButtonLink to="https://www.etclabs.org/" text="ETC Labs" />
       <ButtonLink to="http://ethereumclassicasia.org" text="ETC Asia" />
       <ButtonLink to="https://etckorea.modoo.at/" text="ETC Korea" />
-      <ButtonLink to="http://www.ethereumclassicitalia.org/" text="ETC Italia" />
       <ButtonLink to="http://ethereumclassic.cn" text="ETC China" />
     </div>
   );

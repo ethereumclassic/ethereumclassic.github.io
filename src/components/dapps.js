@@ -12,10 +12,11 @@ const Dapps = () => {
           A selection of (decentralized) applications that are built on top of Ehteruem Classic.
         </p>
         <div className="legend">
-          Legend:
-          <span className="key green">In Production</span>
-          <span className="key orange">Demo Deployed</span>
-          <span className="key red">Under Development</span>
+          <b>Legend:</b>
+          <br />
+          <span className="key green">Production</span>
+          <span className="key orange">Demo</span>
+          <span className="key red">Development</span>
         </div>
       </section>
 

@@ -17,7 +17,8 @@ const BlogItem = ({ data: { mdx } }) => (
       </h3>
       <Mdx code={mdx.body} />
     </div>
-    <BackButton text="Blog Articles" to="/blog" />
+    <hr />
+    <BackButton text="All Blog Articles" to="/blog" />
   </PageLayout>
 );
 

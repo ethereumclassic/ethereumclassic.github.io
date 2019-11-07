@@ -2,45 +2,69 @@
 import React from 'react';
 import Mdx from '~components/mdx';
 import Bars from '~components/bars';
+import LinkSection from '~components/linkSection';
 
 import PageLayout from '../layouts/pageLayout';
 
-const Roadmap = ({ pageContext: { i18n } }) => {
+const Roadmap = ({
+  pageContext: {
+    i18n: {
+      mdx,
+      json: { projects: p, roadmap: r }
+    }
+  }
+}) => {
   return (
-    <PageLayout seo={{ title: 'Road Map', description: 'Project progression' }}>
-      <Mdx code={i18n.mdx.roadmap} />
+    <PageLayout seo={{ title: r.title, description: r.description }}>
+      <Mdx code={mdx.roadmap} />
+      <h2>{r.majorProjects}</h2>
+      <LinkSection
+        title={p.multiGeth}
+        text={p.multiGethText}
+        to="https://github.com/ethoxy/multi-geth"
+      />
       <Bars
-        title="Multi-Geth / Classic Geth"
         items={[
           {
-            name: 'Difficulty Bomb Removal',
+            name: p.multiGethDifficulty,
             progress: 100
           },
           {
-            name: 'Advanced Logging for Developers (Machine Readable Logging & ELK Config)',
+            name: p.multiGethAdvanced,
             progress: 100
           },
           {
-            name: 'Improved Caching for Faster Performance (StateDB)',
+            name: p.multiGethImproved,
             progress: 40
           },
           {
-            name: 'Compatibility with New Ethereum Opcodes',
+            name: p.multiGethCompatibility,
             progress: 20
           },
           {
-            name: 'Address / Transaction Indexing for Developers',
+            name: p.multiGethAddress,
             progress: 100
           },
           {
-            name: 'Faster Syncing (New Warp Sync)',
+            name: p.multiGethFaster,
             progress: 30
           }
         ]}
       />
 
+      <LinkSection title="Sidechains" to="https://github.com/ETCDEVTeam/sidekick-doc">
+        Sidechains will become a native part of ETC infrastructure and protocols. This will increase
+        ETC’s scalability and bring blockchain to a diverse group of handheld and IoT devices for
+        the first time.
+      </LinkSection>
+
+      <LinkSection title="SputnikVM" to="https://github.com/ETCDEVTeam/sputnikvm">
+        SputnikVM is a highly efficient and pluggable implementation of the Ethereum Virtual
+        Machine. It is a standalone EVM that can operate independently of a blockchain and is
+        capable of running on low powered devices; with plans to run on ultra-low power devices.
+      </LinkSection>
+
       <Bars
-        title="Sidechains / SputnikVM"
         items={[
           {
             name: 'Proof of Authority (PoA) in Sidechains',
@@ -56,8 +80,14 @@ const Roadmap = ({ pageContext: { i18n } }) => {
           }
         ]}
       />
+
+      <LinkSection title="Emerald Platform" to="https://github.com/ETCDEVTeam/emerald-platform">
+        Toolkit to build applications running on Ethereum ETC, contains UI Components, Libraries for
+        Javascript and Rust, Icons, Build tools, etc. Targeting various platforms, such as Desktop,
+        Mobile, Web and even Shell Scripting.
+      </LinkSection>
+
       <Bars
-        title="Emerald Wallet"
         items={[
           {
             name: 'Ultra Stable Desktop Release',
@@ -69,6 +99,7 @@ const Roadmap = ({ pageContext: { i18n } }) => {
           }
         ]}
       />
+
       <Bars
         title="Emerald Project"
         items={[
@@ -86,7 +117,6 @@ const Roadmap = ({ pageContext: { i18n } }) => {
           }
         ]}
       />
-      <Mdx code={i18n.mdx.projects} />
     </PageLayout>
   );
 };
