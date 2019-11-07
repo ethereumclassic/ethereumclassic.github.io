@@ -1,3 +1,4 @@
+<!-- CURRENT UNUSED COMPONENT, RENAME TO ENABLE -->
 <!-- NOTE: team members have to be in this format for the image imports -->
 
 import TeamMember from '~components/teamMember'
