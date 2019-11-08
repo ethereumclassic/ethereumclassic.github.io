@@ -7,7 +7,10 @@ import BackButton from '~components/backButton';
 import PageLayout from './pageLayout';
 
 const BlogItem = ({ data: { mdx } }) => (
-  <PageLayout link={{ to: '/blog', text: 'Blog' }} seo={{ title: mdx.frontmatter.title }}>
+  <PageLayout
+    link={{ to: '/blog', text: 'Blog' }}
+    seo={{ title: mdx.frontmatter.title, article: true }}
+  >
     <div className="blog-post">
       <h1>{mdx.frontmatter.title}</h1>
       <h3>

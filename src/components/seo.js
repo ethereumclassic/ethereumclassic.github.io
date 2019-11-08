@@ -11,13 +11,15 @@ const query = graphql`
     site {
       siteMetadata {
         url
+        image
       }
     }
   }
 `;
 
-// from passed props
-const SEO = ({ title, description }) => {
+// TODO dynamic images, twitter username, etc, locale
+
+const SEO = ({ title, description, article }) => {
   return (
     <Location>
       {({ location: { pathname } }) => {
@@ -32,31 +34,41 @@ const SEO = ({ title, description }) => {
                 return null;
               }
               const seo = {
-                title,
+                title:
+                  !title || title === localeMetadata.title
+                    ? localeMetadata.title
+                    : `${title} - ${localeMetadata.title}`,
+                siteName: localeMetadata.title,
                 description: description || localeMetadata.description,
-                url: `${siteMetadata.url}${pathname}`
+                url: `${siteMetadata.url}${pathname}`,
+                image: `${siteMetadata.url}${siteMetadata.image}`,
+                locale: siteMetadata.locale,
+                lang: siteMetadata.lang
               };
               return (
                 <>
-                  <Helmet
-                    title={seo.title}
-                    defaultTitle={localeMetadata.title}
-                    titleTemplate={`%s - ${localeMetadata.title}`}
-                  >
+                  <Helmet title={seo.title}>
+                    {/* language */}
+                    <html lang={seo.lang} />
+                    {/* meta head */}
                     <meta name="description" content={seo.description} />
+                    <meta name="image" content={seo.image} />
+                    {/* social og tags */}
+                    <meta property="og:site_name" content={seo.siteName} />
+                    <meta property="og:title" content={seo.title} />
+                    <meta property="og:description" content={seo.description} />
+                    <meta property="og:image" content={seo.image} />
+                    <meta property="og:locale" content={seo.locale} />
+                    {seo.url && <meta property="og:url" content={seo.url} />}
+                    {article && <meta property="og:type" content="article" />}
+                    {/* twitter tags */}
+                    <meta name="twitter:card" content="summary" />
+                    <meta name="twitter:title" content={seo.title} />
+                    <meta name="twitter:description" content={seo.description} />
+                    <meta name="twitter:image" content={seo.image} />
                     {/* 
                     // TODO other SEO data
-                    <meta name="image" content={seo.image} />
-                    {seo.url && <meta property="og:url" content={seo.url} />}
-                    {(article ? true : null) && <meta property="og:type" content="article" />}
-                    {seo.title && <meta property="og:title" content={seo.title} />}
-                    {seo.description && <meta property="og:description" content={seo.description} />}
-                    {seo.image && <meta property="og:image" content={seo.image} />}
-                    <meta name="twitter:card" content="summary_large_image" />
                     {twitterUsername && <meta name="twitter:creator" content={twitterUsername} />}
-                    {seo.title && <meta name="twitter:title" content={seo.title} />}
-                    {seo.description && <meta name="twitter:description" content={seo.description} />}
-                    {seo.image && <meta name="twitter:image" content={seo.image} />}
                     */}
                   </Helmet>
                 </>

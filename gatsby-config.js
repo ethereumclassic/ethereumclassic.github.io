@@ -1,10 +1,9 @@
 module.exports = {
   siteMetadata: {
     // The rest of this is in `i18n/config.js`
-    url: 'https://ethereumclassic.org'
-    // TODO
-    // Path to your image you placed in the 'static' folder
-    // image: "/images/snape.jpg"
+    url: 'https://etc-v2-dev.netlify.com',
+    // image in the 'static' folder
+    image: '/etc-social-card.png'
   },
   plugins: [
     'gatsby-transformer-sharp',

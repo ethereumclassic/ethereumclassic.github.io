@@ -4,33 +4,27 @@
 
 Presently focusing on content and structure, the design/layouts will be polished as it nears v2 release.
 
-### vNow
+### v2
 
 #### Content
 
-- Remove a bunch of exchanges
-- Migrate roadmap
+- Remove a bunch of mining pools
+- SEO Description & keywords for all pages
 
 #### Styling
 
 - Styling / prettification pass
 
-### v2 (Release Candidate)
-
-- Advanced SEO
-  - Social Image
-  - OG meta tags etc (incl. language)
-  - Description, Keywords
-  - Add description and keywords to markdown files
-
 ### vi18n
 
+- Documentation
 - use YAML as well as / instead of JSON
 - Structure all pages ready for i18n usage (including powered by, etc...)
 - replace localeDateStrings with i18nNext
 - Review `TODO`s
 - Manage 404 for missing i18n (or just create english version)
 - i18n date formatting etc.
+- SEO tags (keywords, og:locale)
 - Create i18n translations & guide (make a script?)
 - Make global i18ns hot-reloadable
 
@@ -53,8 +47,7 @@ Presently focusing on content and structure, the design/layouts will be polished
 - Integrate multiple different education resources (?)
 - Tina.js
 
-
-# About
+## About
 
 - Was previously being hosted on wordpress
 - After a while of not being updated (centralized)
@@ -69,4 +62,3 @@ Presently focusing on content and structure, the design/layouts will be polished
 - Anyone can PR a new blog article easily; auto-rebuild in travis
 - Netlify creates PR previews that need to be approved in github before being published
 - Eventually PRs could be managed on chain
-

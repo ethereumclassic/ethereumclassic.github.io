@@ -9,9 +9,11 @@ module.exports = {
       name: 'English',
       dateFormat: 'DD/MM/YYYY',
       siteMetadata: {
-        locale: 'en_GB',
-        title: 'Etheruem Classic',
-        description: 'Description goes here'
+        locale: 'en_US', //
+        lang: 'en',
+        title: 'Ethereum Classic',
+        description:
+          'A decentralized platform that runs smart contracts: applications that run exactly as programmed without downtime, censorship or third party interference'
       }
     },
     zh: {
