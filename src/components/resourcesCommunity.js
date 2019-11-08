@@ -10,7 +10,7 @@ const resourcesCommmunity = () => {
       <section>
         <h2>Community Resources</h2>
       </section>
-      <Grid className="semi" columns={3}>
+      <Grid className="semi" itemWidth={380}>
         <Card title="Github Repos">
           <LinkGroup
             items={[

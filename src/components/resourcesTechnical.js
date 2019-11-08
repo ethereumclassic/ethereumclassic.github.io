@@ -10,7 +10,7 @@ const resourcesTechnical = () => {
       <section>
         <h2>Technical Resources</h2>
       </section>
-      <Grid className="semi" columns={3}>
+      <Grid className="semi" itemWidth={380}>
         <Card title="Nodes & Network Info">
           Run an ETC node and help support the network by using the software below.
           <LinkGroup

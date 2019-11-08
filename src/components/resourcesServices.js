@@ -10,24 +10,35 @@ const resourcesServices = () => {
       <section>
         <h2>Services</h2>
       </section>
-      <Grid className="semi" columns={3}>
+      <Grid className="semi" itemWidth={380}>
         <Card title="Wallets">
           Store and send your ETC using one of the wallets below. Hardware wallets are the most
           secure; please use them.
+          <LinkGroup
+            title="Web Wallets"
+            items={[
+              {
+                text: 'Classic Ether Wallet',
+                link: 'https://ethereumclassic.github.io/etherwallet/'
+              },
+              { text: 'Guarda', link: 'https://guarda.co/' },
+              {
+                text: 'My Ether Wallet',
+                link: 'https://www.myetherwallet.com/'
+              },
+              { text: 'MyCrypto', link: 'http://mycrypto.com/' },
+              {
+                text: 'SATURN Wallet',
+                link: 'https://saturn.network/saturn-wallet'
+              }
+            ]}
+          />
           <LinkGroup
             title="Hardware / Offline"
             items={[
               {
                 text: 'Ledger',
                 link: 'https://www.ledgerwallet.com/products/12-ledger-nano-s'
-              },
-              {
-                text: 'iOS',
-                link: 'https://itunes.apple.com/us/app/parity-signer/id1218174838'
-              },
-              {
-                text: 'Android',
-                link: 'https://play.google.com/store/apps/details?id=com.nativesigner'
               },
               { text: 'Trezor', link: 'https://trezor.io/' }
             ]}
@@ -62,46 +73,14 @@ const resourcesServices = () => {
               { text: 'AToken', link: 'https://www.atoken.com/' }
             ]}
           />
-          <LinkGroup
-            title="Web"
-            items={[
-              {
-                text: 'Classic Ether Wallet',
-                link: 'https://ethereumclassic.github.io/etherwallet/'
-              },
-              { text: 'Guarda', link: 'https://guarda.co/' },
-              {
-                text: 'My Ether Wallet',
-                link: 'https://www.myetherwallet.com/'
-              },
-              { text: 'MyCrypto', link: 'http://mycrypto.com/' },
-              {
-                text: 'SATURN Wallet',
-                link: 'https://saturn.network/saturn-wallet'
-              }
-            ]}
-          />
         </Card>
         <Card title="Exchanges">
           Get ETC by trading for it at one of the exchanges below. We’re listed on all of your
           favorite exchanges.
           <LinkGroup
-            title="Decentrlaized Exchanges"
-            items={[{ text: 'Saturn Network', link: 'https://www.saturn.network' }]}
-          />
-          <LinkGroup
             title="Traditional Exchanges"
             items={[
-              { text: 'AnyCoinDirect', link: 'https://anycoindirect.eu/' },
-              { text: 'BCEX', link: 'https://www.bcex.ca/' },
               { text: 'Binance', link: 'https://www.binance.com/' },
-              {
-                text: 'Bitcoin Meester',
-                link: 'https://www.bitcoinmeester.nl/'
-              },
-              { text: 'BitForex', link: 'https://bitforex.com/' },
-              { text: 'Bithumb', link: 'https://www.bithumb.com/' },
-              { text: 'Bitladon', link: 'https://www.bitladon.com/' },
               {
                 text: 'Bittrex',
                 link: 'https://bittrex.com/Market/Index?MarketName=BTC-ETC'
@@ -111,60 +90,28 @@ const resourcesServices = () => {
                 text: 'BitMex',
                 link: 'https://www.bitmex.com/app/trade/ETHM18'
               },
-              {
-                text: 'BitSane',
-                link: 'https://bitsane.com/exchange/etc-btc'
-              },
-              { text: 'BitSquare', link: 'https://bisq.network/' },
-              { text: 'Bit-Z', link: 'https://www.bit-z.com/' },
-              { text: 'BTCTrade.im', link: 'https://www.btctrade.im/' },
-              { text: 'BTER', link: 'https://bter.com/trade/etc_btc' },
-              {
-                text: 'Changelly',
-                link: 'https://changelly.com/exchange/BTC/ETC/1'
-              },
-              {
-                text: 'ChangeNow',
-                link:
-                  'https://changenow.io/?utm_source=etc&utm_medium=ref&utm_campaign=etc_exchanges'
-              },
-              { text: 'CHBTC', link: 'https://trans.chbtc.com/etc' },
-              {
-                text: 'Circle Invest',
-                link: 'https://www.circle.com/en/invest'
-              },
-              {
-                text: 'Coindirect',
-                link: 'https://www.coindirect.com/buy/ethereum-classic'
-              },
-              { text: 'CoinEgg', link: 'https://www.coinegg.com/' },
-              { text: 'CoinEx', link: 'https://www.coinex.com/' },
-              {
-                text: 'Coinexchange',
-                link: 'https://www.coinexchange.io/market/ETC/BTC'
-              },
-              { text: 'Coinone', link: 'https://coinone.co.kr/' },
-              { text: 'Coinsuper', link: 'https://www.coinsuper.com/' },
-              { text: 'CoinSwitch', link: 'https://coinswitch.co/' },
-              { text: 'CoinTiger', link: 'https://www.cointiger.pro/' },
-              { text: 'C-CEX', link: 'https://c-cex.com/?p=etc-btc' },
-              { text: 'EXX', link: 'https://www.exx.com/' },
-              { text: 'Korbit', link: 'https://www.korbit.co.kr/etc_market' },
+              { text: 'Bisq', link: 'https://bisq.network/' },
+
               { text: 'Kraken', link: 'https://www.kraken.com/' },
-              { text: 'LBank', link: 'https://www.lbank.info/' },
-              { text: 'London Block Exchange', link: 'https://lbx.com/' },
-              { text: 'OKEx', link: 'https://www.okex.com/' },
-              { text: 'Godex', link: 'https://godex.io/' },
               { text: 'Huobi', link: 'https://www.huobi.pro/' },
               {
                 text: 'Poloniex',
                 link: 'https://poloniex.com/exchange#btc_etc'
+              }
+            ]}
+          />
+          <LinkGroup
+            title="Decentrlaized Exchanges"
+            items={[{ text: 'Saturn Network', link: 'https://www.saturn.network' }]}
+          />
+          <LinkGroup
+            title="Instant Settlement"
+            items={[
+              {
+                text: 'Changelly',
+                link: 'https://changelly.com/exchange/BTC/ETC/1'
               },
-              { text: 'Shapeshift', link: 'https://shapeshift.io/' },
-              { text: 'Upbit', link: 'https://upbit.com/' },
-              { text: 'Yobit', link: 'https://yobit.net/en/trade/ETC/BTC' },
-              { text: 'Yunbi', link: 'https://yunbi.com/' },
-              { text: 'ZB.com', link: 'https://www.zb.com/' }
+              { text: 'Shapeshift', link: 'https://shapeshift.io/' }
             ]}
           />
           <LinkGroup
@@ -178,7 +125,8 @@ const resourcesServices = () => {
           />
         </Card>
         <Card title="Mining Pools">
-          Mine ETC by joining one of the pools below. We’ve got lots of options across the globe.
+          **TODO THIS NEEDS TO BE FILTERED** Mine ETC by joining one of the pools below. We’ve got
+          lots of options across the globe.
           <LinkGroup
             items={[
               { text: 'Epool', link: 'https://www.epool.io/#/' },

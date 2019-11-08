@@ -8,8 +8,8 @@ Presently focusing on content and structure, the design/layouts will be polished
 
 #### Content
 
-- Spell check everything
-- Remove a bunch of exchanges, leave a few..
+- Remove a bunch of exchanges
+- Migrate roadmap
 
 #### Styling
 
@@ -52,3 +52,21 @@ Presently focusing on content and structure, the design/layouts will be polished
 - Make the powered by page more like original SoTD, searchable, use GraphQL
 - Integrate multiple different education resources (?)
 - Tina.js
+
+
+# About
+
+- Was previously being hosted on wordpress
+- After a while of not being updated (centralized)
+- Move to Github + Gatbsy
+  - Static site generator
+  - No backend server
+  - Easily published anywhere (IPFS/Github/S3/Filesystem)
+  - Very fast & Lightweight
+  - Awesome for SEO
+  - Less single source of failure (git reviews)
+  - Awesome for collaboration (perfect for decentralized projects)
+- Anyone can PR a new blog article easily; auto-rebuild in travis
+- Netlify creates PR previews that need to be approved in github before being published
+- Eventually PRs could be managed on chain
+

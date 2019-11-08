@@ -1,8 +1,7 @@
-// TODO replace all PX with rem
 // TODO replace all colors with variables
 // TODO refactor
 
-$softShadow: 0 0.5rem 1rem rgba(0,0,0,.1); 
+$softShadow: 0 0.5rem 1rem rgba(0,0,0,.1);
 $solidBottom:  2px solid rgba(0,0,0,.2);
 
 $maxPageWidth: 55rem;
@@ -82,7 +81,7 @@ h4 small {
       padding: $smallPadding $largePadding;
       @include breakpoint('<=small') {
         padding: 0 $smallPadding;
-      }  
+      }
       margin: auto;
       display: block;
     }
@@ -161,9 +160,9 @@ h4 small {
     border-radius: 10px;
     padding: 10px 20px;
     font-size: 0.8rem;
-    .close-button { 
+    .close-button {
       position: absolute;
-      top: 0; 
+      top: 0;
       right: 0;
       width: 30px;
       height: 30px;
@@ -331,6 +330,7 @@ h4 small {
   grid-gap: $smallPadding;
   margin-bottom: $smallPadding;
   grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
   @include breakpoint('<=small') {
     grid-template-columns: 1fr !important;
   }
@@ -442,15 +442,15 @@ a.card {
       }
       img.logo {
         max-width: $logoSizeSmall;
-        margin-left: -$logoSize;  
+        margin-left: -$logoSize;
       }
     }
   }
   .overlay {
     // font-size: 2rem;
     position: absolute;
-    z-index: 1;    
-    left: 0; 
+    z-index: 1;
+    left: 0;
     right: 0;
     margin-top: $largePadding;
     padding: $smallPadding $largePadding;
@@ -491,8 +491,8 @@ a.card {
 // team members (participants)
 
 .team-member {
-  .image img { 
-    max-width: 256px; 
+  .image img {
+    max-width: 256px;
     width: 100%;
     box-shadow: $softShadow;
   }
@@ -536,7 +536,7 @@ a.card {
       margin-bottom: $tinyPadding;
     }
   }
-    
+
   &.compact .item {
     margin: 0;
     display: inline-block;
@@ -586,7 +586,7 @@ a.card {
   }
 }
 
-// the dapps list 
+// the dapps list
 
 .dapps-list {
   background: #efefef;
@@ -603,13 +603,13 @@ a.card {
 .blog-item {
   margin: $largePadding 0;
   h3 {
-    margin-bottom: $tinyPadding; 
-    a { 
-      border: 0; 
+    margin-bottom: $tinyPadding;
+    a {
+      border: 0;
     }
   }
-  h4 { 
-    margin: 0 
+  h4 {
+    margin: 0
   }
 }
 
@@ -625,4 +625,40 @@ a.card {
 
 .link-section {
   margin-top: $smallPadding;
+}
+
+.fork-timeline {
+  background: red;
+  .scroller {
+    width: auto;
+  }
+  .items {
+    white-space: nowrap;
+    overflow-x: auto;
+  }
+  .item {
+    text-align: center;
+    vertical-align: top;
+    display: inline-block;
+    width: 16rem;
+    background: gold;
+    white-space: normal;
+    margin-right: $smallPadding;
+    margin-bottom: $tinyPadding;
+  }
+  h1, h2, h3, h4, h5, p {
+    margin: 0;
+  }
+  a {
+    border: 0;
+  }
+  h3 {
+    font-size: 1.1rem;
+    line-height: 1.4rem;
+    margin-bottom: 0.6rem;
+  }
+  .text {
+    font-size: 0.9rem;
+    line-height: 1.2rem;
+  }
 }
