@@ -5,7 +5,6 @@ import Mdx from '~components/mdx';
 import Bars from '~components/bars';
 import LinkSection from '~components/linkSection';
 import Timeline from '~components/timeline';
-import WideSection from '~components/wideSection';
 
 import PageLayout from '../layouts/pageLayout';
 
@@ -19,9 +18,14 @@ const Roadmap = ({
 }) => {
   return (
     <PageLayout wide seo={{ title: r.title, description: r.description }}>
+      <section>
+        <Mdx code={mdx.intro} />
+      </section>
       <Timeline />
       <section>
         <Mdx code={mdx.roadmap} />
+      </section>
+      <section>
         <h2>{r.majorProjects}</h2>
         <LinkSection
           title={p.multiGeth}
