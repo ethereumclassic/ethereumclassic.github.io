@@ -11,6 +11,7 @@ $largePadding: 4rem;
 $smallPadding: $largePadding / 2;
 $tinyPadding: $smallPadding / 2;
 $microPadding: $tinyPadding / 2;
+$nanoPadding: $microPadding / 2;
 
 /* GLOBAL STYLES */
 
@@ -496,7 +497,7 @@ a.card {
   }
   .bar {
     background: rgba(0,0,0,.5);
-    height: 5px;
+    height: $nanoPadding;
     .fill {
       height: 100%;
       background: _palette(accent);
@@ -641,12 +642,18 @@ a.card {
 
 .link-section {
   margin-top: $smallPadding;
+  img {
+    float: left;
+    width: 100px;
+    margin: 0 $smallPadding $largePadding 0;
+  }
 }
 
 
 // fork timeline
 
 .fork-timeline {
+  margin-bottom: $smallPadding;
   .items {
     background: #eee;
     white-space: nowrap;
@@ -682,6 +689,10 @@ a.card {
     }
     .date {
       margin-bottom: $stickHeight;
+      text-transform: uppercase;
+      font-size: 0.8rem;
+      font-weight: bold;
+      letter-spacing: 0.1rem;
     }
     .icon {
       margin-top: $stickHeight;
@@ -759,6 +770,66 @@ a.card {
   }
 }
 
-.roadmap-items {
-  margin-bottom: $largePadding;
+.road {
+  // background: orange;
+  $lineThickness: $nanoPadding;
+  $lineColor: _palette(accent);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-bottom: $smallPadding;
+  grid-column-gap: $lineThickness;
+  position: relative;
+  &::before {
+    content: '';
+    display: 'block';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    margin-left: -$lineThickness/2;
+    width: $lineThickness;
+    background: $lineColor;
+  }
+  .date {
+    border-bottom: $lineThickness solid $lineColor;
+    display: inline-block;
+    padding: $microPadding $smallPadding;
+  }
+  h4, p {
+    margin-left: $smallPadding;
+  }
+  .item {
+    // background: blue;
+    padding-bottom: $largePadding;
+    &:nth-child(odd) {
+      text-align: right;
+      h4, p {
+        margin-right: $smallPadding;
+        margin-left: 0;
+      }
+    }
+    &:nth-child(even) {
+      margin-top: $tinyPadding;
+    }
+  }
+  @include breakpoint('<=small') {
+    display: block;
+    &::before {
+      left: 0;
+    }
+    .item {
+      padding-bottom: $smallPadding;
+    }
+    .item:nth-child(odd) {
+      h4, p {
+        margin-right: 0;
+        margin-left: $smallPadding;
+      }
+      text-align: left;
+    }
+    .item:nth-child(even) {
+      margin-top: 0;
+    }
+  }
+
 }

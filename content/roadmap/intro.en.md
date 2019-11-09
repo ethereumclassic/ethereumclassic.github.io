@@ -1,4 +1,4 @@
-# Road Map
+# Roadmap
 
 This page outlines the history of Ethereum Classic and it's future development goals.
 
