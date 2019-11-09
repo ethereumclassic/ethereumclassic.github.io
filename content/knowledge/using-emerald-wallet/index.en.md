@@ -1,5 +1,6 @@
 ---
 title: Using The Emerald Wallet
+metaDescription: User guide for using the Emerald desktop wallet
 ---
 
 ## Installation

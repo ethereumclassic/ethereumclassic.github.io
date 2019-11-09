@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'gatsby';
-// eslint-disable-next-line import/no-extraneous-dependencies
 import { Location } from '@reach/router';
 
 import LocaleContext from '../i18n/localeContext';

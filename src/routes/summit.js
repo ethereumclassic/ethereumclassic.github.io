@@ -1,12 +1,11 @@
 import React from 'react';
 
-import PageLayout from '../layouts/pageLayout';
-
+import PageLayout from '~components/pageLayout';
 import ButtonLink from '~components/buttonLink';
 
 const Summit = () => {
   return (
-    <PageLayout seo={{ title: 'Summit' }}>
+    <PageLayout seo={{ title: 'Summit', description: 'Ethereum Classic Conference' }}>
       <h1>Summit</h1>
       <p>This page is under construction.</p>
       <ul>

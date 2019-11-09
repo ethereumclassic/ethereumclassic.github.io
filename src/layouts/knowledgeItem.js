@@ -4,13 +4,13 @@ import EducationMenu from '~components/educationMenu';
 import Mdx from '~components/mdx';
 import Spacer from '~components/spacer';
 
-import PageLayout from './pageLayout';
+import PageLayout from '~components/pageLayout';
 
 const EducationItem = ({ data: { mdx } }) => {
   return (
     <PageLayout
       link={{ to: '/knowledge', text: 'Knowledge' }}
-      seo={{ title: mdx.frontmatter.title }}
+      seo={{ title: mdx.frontmatter.title, description: mdx.frontmatter.metaDescription }}
     >
       <EducationMenu compact collapsed />
       <Spacer />
@@ -33,6 +33,7 @@ export const query = graphql`
       body
       frontmatter {
         title
+        metaDescription
       }
     }
   }

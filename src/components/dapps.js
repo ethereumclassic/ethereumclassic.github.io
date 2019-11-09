@@ -1,7 +1,8 @@
 //  TODO use i18n
 import React from 'react';
-import Grid from '~components/grid';
-import Card from '~components/card';
+
+import Grid from './grid';
+import Card from './card';
 
 const Dapps = () => {
   return (
@@ -9,7 +10,7 @@ const Dapps = () => {
       <section>
         <h2>Dapps powered by ETC</h2>
         <p>
-          A selection of (decentralized) applications that are built on top of Ehteruem Classic.
+          A selection of (decentralized) applications that are built on top of Ethereum Classic.
         </p>
         <div className="legend">
           <b>Legend:</b>

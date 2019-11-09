@@ -19,7 +19,12 @@ $microPadding: $tinyPadding / 2;
   height: 6px;
 }    
 ::-webkit-scrollbar-thumb {
-    background: black;
+  background: black;
+}
+body {
+  ::-webkit-scrollbar-thumb {
+    background: rgba(0,0,0,.3);
+  }
 }
 
 iframe {
@@ -64,6 +69,10 @@ h3, h5 {
 }
 h4 small {
   text-transform: none;
+}
+
+section > p:last-child {
+  margin-bottom: 0;
 }
 
 /* PAGE STYLING */
@@ -455,7 +464,6 @@ a.card {
     }
   }
   .overlay {
-    // font-size: 2rem;
     position: absolute;
     z-index: 1;
     left: 0;
@@ -464,7 +472,7 @@ a.card {
     padding: $smallPadding $largePadding;
     text-shadow: 0 1px 2px rgba(0,0,0,.4);
     background: linear-gradient(45deg, rgba(0,0,0,.4), transparent);
-    @include breakpoint('<=small') {
+    @include breakpoint('<=large') {
       margin-top: $smallPadding;
       padding: $tinyPadding $smallPadding;
     }
@@ -481,7 +489,7 @@ a.card {
 // progress bars (roadmap)
 
 .bars {
-  margin-bottom: $smallPadding;
+  margin-bottom: $largePadding;
   font-weight: bold;
   > div {
     margin-top: $tinyPadding;
@@ -635,6 +643,9 @@ a.card {
   margin-top: $smallPadding;
 }
 
+
+// fork timeline
+
 .fork-timeline {
   .items {
     background: #eee;
@@ -742,5 +753,12 @@ a.card {
       font-size: 0.9rem;
       line-height: 1.2rem;
     }
+    a { 
+      border: none;
+    }
   }
+}
+
+.roadmap-items {
+  margin-bottom: $largePadding;
 }

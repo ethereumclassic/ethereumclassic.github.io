@@ -1,6 +1,6 @@
 # Road Map
 
-Welcome to the roadmap... Needs more text here
+This page outlines the history of Ethereum Classic and it's future development goals.
 
 ## ETC Timeline
 

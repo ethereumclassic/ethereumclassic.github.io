@@ -279,7 +279,7 @@ const ForkTimeline = () => (
     <div className="scroll-info">
       <i className="fas fa-arrows-alt-h" />
       {' '}
-      Scroll to Progress
+      Scroll to progress (or hold shift and wheel)
     </div>
   </div>
 );

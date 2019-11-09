@@ -1,12 +1,11 @@
 import React from 'react';
 
-import Section from '~components/section';
-import WideSection from '~components/wideSection';
-import Mdx from '~components/mdx';
-import IconGrid from '~components/iconGrid';
-import ButtonLink from '~components/buttonLink';
-import Banner from '~components/banner';
-import LatestBlogPosts from '~components/latestBlogPosts';
+import Section from './section';
+import WideSection from './wideSection';
+import Mdx from './mdx';
+import IconGrid from './iconGrid';
+import Banner from './banner';
+import LatestBlogPosts from './latestBlogPosts';
 
 const Landing = ({ i18n }) => (
   <>

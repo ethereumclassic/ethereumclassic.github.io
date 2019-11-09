@@ -5,12 +5,16 @@ import ButtonLink from '~components/buttonLink';
 import Mdx from '~components/mdx';
 import BlogListItem from '~components/blogListItem';
 import DefaultLanguageHidden from '~components/defaultLanguageHidden';
-
-import PageLayout from '../layouts/pageLayout';
+import PageLayout from '~components/pageLayout';
 
 const Blog = ({ data: { allMdx }, pageContext: { i18n } }) => {
   return (
-    <PageLayout seo={{ title: 'Blog', description: 'Latest news and articles' }}>
+    <PageLayout
+      seo={{
+        title: 'Blog',
+        description: 'Latest Ethereum Classic news articles and announcements'
+      }}
+    >
       <DefaultLanguageHidden>
         <ButtonLink notLocalized to="/blog" text="Enlgish Posts" />
       </DefaultLanguageHidden>

@@ -23,6 +23,7 @@ module.exports = {
       dateFormat: 'DD.MM.YYYY',
       siteMetadata: {
         locale: 'zh_CN',
+        lang: 'zh-CN',
         title: '以太经典',
         description: '以太坊经典区块链' // TODO: translate properly
       }

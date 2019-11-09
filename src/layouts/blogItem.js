@@ -4,12 +4,16 @@ import { graphql } from 'gatsby';
 import Mdx from '~components/mdx';
 import BackButton from '~components/backButton';
 
-import PageLayout from './pageLayout';
+import PageLayout from '~components/pageLayout';
 
 const BlogItem = ({ data: { mdx } }) => (
   <PageLayout
     link={{ to: '/blog', text: 'Blog' }}
-    seo={{ title: mdx.frontmatter.title, article: true }}
+    seo={{
+      title: mdx.frontmatter.title,
+      description: mdx.frontmatter.metaDescription,
+      article: true
+    }}
   >
     <div className="blog-post">
       <h1>{mdx.frontmatter.title}</h1>
@@ -35,6 +39,7 @@ export const query = graphql`
         title
         date
         author
+        metaDescription
       }
     }
   }

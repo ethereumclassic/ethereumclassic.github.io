@@ -1,5 +1,6 @@
 ---
 title: Using Classic Ether Wallet
+metaDescription: User guide for using the CEW web-based wallet
 ---
 
 ## First Use

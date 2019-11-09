@@ -33,6 +33,7 @@ const SEO = ({ title, description, article }) => {
               if (!localeMetadata) {
                 return null;
               }
+              // resolved SEO params
               const seo = {
                 title:
                   !title || title === localeMetadata.title

@@ -1,11 +1,14 @@
 import React from 'react';
-import Mdx from '~components/mdx';
 
-import PageLayout from '../layouts/pageLayout';
+import PageLayout from '~components/pageLayout';
+import Mdx from '~components/mdx';
 
 const Teams = ({ pageContext: { i18n } }) => {
   return (
-    <PageLayout seo={{ title: 'Teams' }} wide>
+    <PageLayout
+      seo={{ title: 'Teams', description: 'Major organizations contributing to Etheruem Classic' }}
+      wide
+    >
       <section>
         <Mdx code={i18n.mdx.intro} />
       </section>

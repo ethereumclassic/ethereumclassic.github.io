@@ -5,8 +5,7 @@ import Mdx from '~components/mdx';
 import Bars from '~components/bars';
 import LinkSection from '~components/linkSection';
 import Timeline from '~components/timeline';
-
-import PageLayout from '../layouts/pageLayout';
+import PageLayout from '~components/pageLayout';
 
 const Roadmap = ({
   pageContext: {
@@ -24,9 +23,6 @@ const Roadmap = ({
       <Timeline />
       <section>
         <Mdx code={mdx.roadmap} />
-      </section>
-      <section>
-        <h2>{r.majorProjects}</h2>
         <LinkSection
           title={p.multiGeth}
           text={p.multiGethText}

@@ -1,9 +1,9 @@
 import React from 'react';
 
-import SEO from '~components/seo';
-import Footer from '~components/footer';
-import Navigation from '~components/navigation';
-import Header from '~components/header';
+import SEO from './seo';
+import Footer from './footer';
+import Navigation from './navigation';
+import Header from './header';
 
 const PageLayout = ({ children, link, seo, wide }) => {
   return (
