@@ -1,4 +1,5 @@
 import React from 'react';
+import { graphql } from 'gatsby';
 
 import Navigation from '~components/navigation';
 import Footer from '~components/footer';
@@ -9,12 +10,12 @@ import IconGrid from '~components/iconGrid';
 import Mdx from '~components/mdx';
 import LatestBlogPosts from '~components/latestBlogPosts';
 
-const Index = ({ pageContext: { i18n } }) => (
+const Index = ({ pageContext: { i18n }, data: { file } }) => (
   <>
     <Navigation />
     <div id="wrapper">
-      <Banner />
-      <Section subSection={() => <Mdx code={i18n.mdx.whatIsClassic} />}>
+      <Banner image={file.childImageSharp.fluid} />
+      <Section className="wide-header" subSection={() => <Mdx code={i18n.mdx.whatIsClassic} />}>
         <Mdx code={i18n.mdx.whatIsBlockchain} />
       </Section>
       <WideSection className="shaded">
@@ -51,3 +52,15 @@ const Index = ({ pageContext: { i18n } }) => (
 );
 
 export default Index;
+
+export const query = graphql`
+  query {
+    file(relativePath: { eq: "banner.jpg" }) {
+      childImageSharp {
+        fluid(maxWidth: 1200, quality: 80) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
+  }
+`;

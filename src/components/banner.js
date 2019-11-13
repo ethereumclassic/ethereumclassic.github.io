@@ -1,9 +1,10 @@
 import React from 'react';
+import Img from 'gatsby-image';
 import logo from '../assets/images/etc-black.svg';
-import image from '../assets/images/vancouver.jpg';
+
 import ButtonLink from './buttonLink';
 
-const Banner = () => {
+const Banner = ({ image }) => {
   return (
     <section className="intro">
       <header>
@@ -14,7 +15,7 @@ const Banner = () => {
         <p>
           Build
           <b> Unstoppable </b>
-          Dapps
+          Applications
         </p>
       </header>
       <div className="content">
@@ -33,7 +34,7 @@ const Banner = () => {
           />
         </div>
         <span className="image fill" data-position="center">
-          <img src={image} alt="" />
+          <Img fluid={image} style={{ position: 'initial', height: '100%' }} />
         </span>
       </div>
     </section>
