@@ -9,6 +9,7 @@ Work in progress version 2 Ethereum Classic website
 #### Final Tasks
 
 - Change siteMetadata.siteUrl publishing to production
+- Disable the fork banner
 
 #### Help Needed
 

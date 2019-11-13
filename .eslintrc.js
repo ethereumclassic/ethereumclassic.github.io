@@ -20,6 +20,7 @@ module.exports = {
     'quotes': ["error", "single", { avoidEscape: true }],
     'react/jsx-filename-extension': 'off',
     'react/prop-types': 'off',
+    'react/jsx-curly-brace-presence': 'off',
     'react/jsx-props-no-spreading': 'off',
     'prettier/prettier': [
       'error',

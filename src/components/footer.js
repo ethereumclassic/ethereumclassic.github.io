@@ -3,6 +3,7 @@ import Social from './social';
 import Community from './community';
 import Newsletter from './newsletter';
 import Discord from './discord';
+import Link from './link';
 
 const Footer = () => {
   return (
@@ -21,9 +22,10 @@ const Footer = () => {
         </footer>
       </section>
       <div className="copyright">
-        Made with
+        <Link to="https://github.com/ethereumclassic/ethereumclassic.github.io">Made</Link>
+        {' with'}
         <code>&lt;3</code>
-        by the ETC Community
+        for the original Ethereum vision
       </div>
     </>
   );

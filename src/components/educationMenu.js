@@ -12,7 +12,7 @@ const philosophyItems = [
     text: 'Declaration of Independence',
     link: '/blog/2016-08-13-declaration-of-independence',
     subText:
-      'Essentially the ETC Whitepaper. A statement of our cause, a list of grievances, and a description of our principles and goals.'
+      "Essentially the ETC Whitepaper. A statement of it's cause, a list of grievances, and a description of it's principles and goals."
   },
   {
     text: 'A Crypto-Decentralist Manifesto',
@@ -57,7 +57,7 @@ const sections = [
     id: 'philosophy',
     title: 'Philosophy',
     subTitle:
-      "To understand why ETC exists and what it stands for, we must look into it's origins and the principles it represents.",
+      "To understand why ETC exists and what it stands for, it's important to understand it's origins and the principles it represents.",
     items: philosophyItems
   },
   {
