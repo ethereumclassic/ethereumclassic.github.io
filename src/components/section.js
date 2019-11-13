@@ -1,8 +1,8 @@
 import React from 'react';
 
-const Section = ({ title, children, subSection }) => {
+const Section = ({ title, children, subSection, className }) => {
   return (
-    <section>
+    <section className={className}>
       <header>
         {title && <h2>{title}</h2>}
         {subSection && subSection()}

@@ -4,7 +4,7 @@ import ButtonLink from './buttonLink';
 const Community = () => {
   return (
     <div className="community">
-      <h3>Communities</h3>
+      <h3>Groups</h3>
       <ButtonLink to="https://etcdevteam.com" text="ETCDEV" />
       <ButtonLink to="https://iohk.io/projects/ethereum-classic/" text="IOHK" />
       <ButtonLink to="https://etccooperative.org" text="ETC Cooperative" />

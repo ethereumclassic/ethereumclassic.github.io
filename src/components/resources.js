@@ -293,8 +293,7 @@ const resourcesCommmunity = () => {
         />
       </Card>
       <Card title="Mining Pools">
-        **TODO THIS NEEDS TO BE FILTERED** Mine ETC by joining one of the pools below. We’ve got
-        lots of options across the globe.
+        Mine ETC by joining one of the pools below.
         <LinkGroup
           items={[
             { text: 'Epool', link: 'https://www.epool.io/#/' },

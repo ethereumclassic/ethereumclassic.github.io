@@ -1,7 +1,7 @@
 ---
 title: The Ethereum Classic Declaration of Independence
 date: 2016-08-13
-author: ETC Community
+author: Ethereum Classic
 ---
 
 - <a href="#translations">PDFs & Translations</a>

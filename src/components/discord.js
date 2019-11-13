@@ -5,9 +5,8 @@ const Discord = () => {
   return (
     <>
       <p>
-        The
-        <b> ETC community </b>
-        is most active on
+        <b> ETC participants </b>
+        are most active on
         <b> discord</b>
         .
         <br />

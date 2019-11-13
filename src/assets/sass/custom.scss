@@ -800,7 +800,7 @@ a.card {
   }
   .item {
     // background: blue;
-    padding-bottom: $largePadding;
+    padding-bottom: $tinyPadding;
     &:nth-child(odd) {
       text-align: right;
       h4, p {
@@ -832,4 +832,18 @@ a.card {
     }
   }
 
+}
+#wrapper section.wide-header { 
+  > header {
+    width: auto;
+    p, h2, h3 {
+      max-width: none;
+    }
+  }
+  > .content, > header {
+    padding-bottom: $largePadding;
+  }
+}
+.intro .gatsby-image-wrapper {
+  background: orange;
 }

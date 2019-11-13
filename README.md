@@ -8,18 +8,16 @@ Work in progress version 2 Ethereum Classic website
 
 #### Final Tasks
 
-- Change siteMetadata.url before publishing to production
+- Change siteMetadata.siteUrl publishing to production
 
 #### Help Needed
 
-- Remove a bunch of mining pools (which ones?)
+- Remove a bunch of mining pools (ETC miners - which ones?)
 - Update timeline with major events since 2017
-- Update the development status of major project on roadmap
 - Day 2 videos for ETC summit
 - Add wechat group
-- General content review
-- (Nice to have) more comprehensive knowledge base page (including more structure introduction, articles, etc.)
 - Switch to Mailchimp or another provider for newsletter sign up (using WP endpoint for now)
+- (Nice to have) more comprehensive knowledge base page (including more structure introduction, articles, etc.)
 
 ### i18n Release (v2.1; ETA late November)
 
@@ -51,6 +49,7 @@ Work in progress version 2 Ethereum Classic website
 - Auto-import multiple different education resources (?)
 - Make the Ecosystem by page more like original SoTD, searchable, use GraphQL 
 - Tina.js
+- Script to automatically meta generate keywords / description for old blog articles
 
 
 ## About

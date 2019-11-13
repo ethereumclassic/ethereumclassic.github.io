@@ -11,6 +11,8 @@ module.exports = {
     'gatsby-plugin-sharp',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
+    'gatsby-plugin-sitemap',
+    'gatsby-plugin-remove-generator',
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
