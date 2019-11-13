@@ -12,6 +12,7 @@ const BlogItem = ({ data: { mdx } }) => (
     seo={{
       title: mdx.frontmatter.title,
       description: mdx.frontmatter.metaDescription,
+      image: mdx.frontmatter.metaImage && mdx.frontmatter.metaImage.childImageSharp.fixed.src,
       article: true
     }}
   >
@@ -40,6 +41,13 @@ export const query = graphql`
         date
         author
         metaDescription
+        metaImage {
+          childImageSharp {
+            fixed(height: 256, quality: 80) {
+              src
+            }
+          }
+        }
       }
     }
   }

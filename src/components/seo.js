@@ -10,7 +10,7 @@ const query = graphql`
   query SEO {
     site {
       siteMetadata {
-        url
+        siteUrl
         image
       }
     }
@@ -19,7 +19,7 @@ const query = graphql`
 
 // TODO dynamic images, twitter username, etc, locale
 
-const SEO = ({ title, description, article }) => {
+const SEO = ({ title, description, article, image }) => {
   return (
     <Location>
       {({ location: { pathname } }) => {
@@ -41,8 +41,8 @@ const SEO = ({ title, description, article }) => {
                     : `${title} - ${localeMetadata.title}`,
                 siteName: localeMetadata.title,
                 description: description || localeMetadata.description,
-                url: `${siteMetadata.url}${pathname}`,
-                image: `${siteMetadata.url}${siteMetadata.image}`,
+                url: `${siteMetadata.siteUrl}${pathname}`,
+                image: `${siteMetadata.siteUrl}${image || siteMetadata.image}`,
                 locale: siteMetadata.locale,
                 lang: siteMetadata.lang
               };

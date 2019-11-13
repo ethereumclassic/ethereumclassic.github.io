@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // The rest of this is in `i18n/config.js`
-    url: 'https://etc-v2-dev.netlify.com',
+    siteUrl: 'https://etc-v2-dev.netlify.com',
     // image in the 'static' folder
     image: '/etc-social-card.png'
   },
@@ -57,6 +57,13 @@ module.exports = {
       options: {
         path: `${__dirname}/content`,
         name: 'content'
+      }
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/src/assets/images`,
+        name: 'images'
       }
     },
     {

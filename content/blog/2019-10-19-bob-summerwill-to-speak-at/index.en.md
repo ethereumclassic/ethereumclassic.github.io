@@ -2,6 +2,8 @@
 title: "Bob Summerwill to speak at Global Digital Assets (Vancouver) Summit 2019"
 date: 2019-10-19
 author: Bob Summerwill
+metaImage: ./gdasummit_bob.jpeg
+metaDescription: The ETC Cooperative today announced that Bob Summerwill, its Executive Director, will be speaking at the Global Digital Assets (Vancouver) Summit 2019
 ---
 
 **19th October 2019 – Vancouver, Canada** – The [ETC Cooperative](https://etccooperative.org) today announced that [Bob Summerwill](https://twitter.com/bobsummerwill), its Executive Director, will be speaking at the [Global Digital Assets (Vancouver) Summit 2019](https://gdasummit.com) on Sunday 27th October 2019 on "*What's Happening with Ethereum Classic?*"
