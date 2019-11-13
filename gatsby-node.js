@@ -199,6 +199,10 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
         const myLocales = resolvedLocales[name] || {};
         // for each of the i18n configs, create a page...
         Object.values(locales).forEach(({ path: locale }) => {
+          // only create pages for enabled locales
+          if (!locales[locale]) {
+            return;
+          }
           const i18n = {
             json: mergeJson((myLocales[defaultLocale] || {}).json, (myLocales[locale] || {}).json),
             mdx: {
@@ -225,6 +229,10 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
   const defaultTemplate = require.resolve('./src/layouts/defaultItem.js');
   children.edges.forEach(({ node: post }) => {
     const { locale, parent } = post.fields;
+    // only create pages for enabled locales
+    if (!locales[locale]) {
+      return;
+    }
     // TODO use better path
     const slug = post.fileAbsolutePath.split('/').slice(-2, -1)[0];
     const myPath = localizedPath(locale, `${parent}/${slug}`);
