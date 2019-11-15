@@ -1,18 +1,10 @@
-# ETC Web v2
-
-Work in progress version 2 Ethereum Classic website
+# Ethereum Classic Website
 
 ## TODOs
 
+- Move TODOs into github issues
+
 ### Public Release (v2)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d126f59b-aed6-422b-95cd-b33f2a93b25b/deploy-status)](https://app.netlify.com/sites/ethereumclassic/deploys)
-
-#### Final Tasks
-
-- Change siteMetadata.siteUrl publishing to production
-- Disable the fork banner
-- Add external link icons to external links
 
 #### Help Needed
 
