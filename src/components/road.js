@@ -17,7 +17,7 @@ const items = [
     date: 'Q1 2019',
     title: 'Documentation website',
     text:
-      'A new documentation website will be provided to the community to help new and existing developers. We’re also exploring embedded documentation in our tooling.',
+      'A new documentation website will be provided to help new and existing developers. Embedded documentation in ETC tooling will be explored.',
     type: 'education'
   },
   {
@@ -50,8 +50,7 @@ const items = [
   {
     date: 'Q2 2019',
     title: 'UX / UI Research ',
-    text:
-      'We want to know more about the DApp development environment. Therefore, we’ll be conducting research prior to our DApp tooling to come..',
+    text: 'Research will be performed to investigate the DApp development environment.',
     type: 'design'
   },
   {
@@ -101,7 +100,7 @@ const items = [
   {
     date: 'Q1—Q4 2019',
     title: 'Dev Tutorials and Guides ',
-    text: 'We will continuously support new and existing developers with tutorials and guides.',
+    text: 'Continuous support new and existing developers with tutorials and guides.',
     type: 'education'
   },
   {
@@ -115,7 +114,7 @@ const items = [
     date: 'TBD 2020',
     title: 'Aztlán Hard Fork',
     text:
-      'Enable the outstanding Ethereum Foundation Istanbul network protocol upgrades on the Ethereum Classic network .',
+      'Enable the outstanding Ethereum Foundation Istanbul network protocol upgrades on the Ethereum Classic network.',
     type: 'fork'
   }
 ];
