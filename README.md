@@ -3,10 +3,9 @@
 ## TODOs
 
 - Move TODOs into github issues
+- Add articles to Knowledge Base
 
-### Public Release (v2)
-
-#### Help Needed
+### Help Needed
 
 - Remove a bunch of mining pools (ETC miners - which ones?)
 - Update timeline with major events since 2017
