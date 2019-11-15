@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // The rest of this is in `i18n/config.js`
-    siteUrl: 'https://etc-v2-dev.netlify.com',
+    siteUrl: 'https://ethereumclassic.netlify.com',
     // image in the 'static' folder
     image: '/etc-social-card.png'
   },

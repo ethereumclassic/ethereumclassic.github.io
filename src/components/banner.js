@@ -34,7 +34,12 @@ const Banner = ({ image }) => {
           />
         </div>
         <span className="image fill" data-position="center">
-          <Img fluid={image} style={{ position: 'initial', height: '100%' }} />
+          <Img
+            fadeIn={false}
+            loading="eager"
+            fluid={image}
+            style={{ position: 'initial', height: '100%' }}
+          />
         </span>
       </div>
     </section>
