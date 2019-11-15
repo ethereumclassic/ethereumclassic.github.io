@@ -296,39 +296,21 @@ const resourcesCommmunity = () => {
         Mine ETC by joining one of the pools below.
         <LinkGroup
           items={[
-            { text: 'Epool', link: 'https://www.epool.io/#/' },
             {
               text: '2miners',
               link: 'https://2miners.com/etc-mining-pool'
             },
-            { text: '91 Pool', link: 'http://www.91pool.com/' },
             { text: 'Altpool', link: 'http://etc.altpool.pro/' },
             { text: 'Anorak.Tech', link: 'https://anorak.tech/' },
-            { text: 'BW.com', link: 'https://etc.bw.com/pool/i' },
-            { text: 'ClassicPool', link: 'https://classicpool.io/' },
             { text: 'Clona.ru', link: 'http://clona.ru/' },
             { text: 'Coinfoundry.org', link: 'https://coinfoundry.org/' },
             { text: 'Comining', link: 'https://comining.io/' },
-            { text: 'ETCPool.pl', link: 'http://etcpool.pl/' },
             { text: 'Ethermine', link: 'https://etc.ethermine.org/' },
-            { text: 'ETC-Poolcrypto', link: 'https://etc-poolcrypto.org/' },
-            { text: 'ETC-Speedpool', link: 'https://etc-speedpool.com/' },
-            { text: 'Europool', link: 'https://etc.europool.me/' },
-            { text: 'ExtremeHash', link: 'http://etc.extremehash.io/' },
             { text: 'F2pool', link: 'https://www.f2pool.com/help' },
             { text: 'Fairpool.io', link: 'https://etc.fairpool.xyz/' },
             { text: 'MaxHash', link: 'https://etcpool.maxhash.org/' },
             { text: 'MinerGate', link: 'https://minergate.com/' },
             { text: 'Nanopool', link: 'https://nanopool.org/' },
-            { text: 'Pandapool.io', link: 'https://pandapool.io/' },
-            {
-              text: 'uCrypto.net',
-              link: 'https://ucrypto.net/currency/?curr=ETC'
-            },
-            {
-              text: 'Uleypool',
-              link: 'https://uleypool.com/mining-pool-ethereum-classic-etc/'
-            },
             { text: 'UUpool', link: 'http://uupool.cn/' },
             { text: 'ZET Technologies', link: 'https://etc.zet-tech.eu/' }
           ]}
