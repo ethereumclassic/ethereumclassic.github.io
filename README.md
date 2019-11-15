@@ -1,7 +1,19 @@
 # Ethereum Classic Website
 
+## Branches
+
+* [Main website (master branch)](https://ethereumclassic.org/)
+* [Preview (staging branch)](https://staging--ethereumclassic.netlify.com/)
+
+Github pages is deployed in `master`; do not make commits to it directly.
+
+To make content updates, push an update to the `source` branch. This will trigger Travis CI to create a new build in the `staging` branch.
+
+The `staging` branch should then be used to create a PR into `master` (which is protected).
+
 ## TODOs
 
+- Better docs for for editing content
 - Move TODOs into github issues
 - Add articles to Knowledge Base
 
@@ -45,19 +57,3 @@
 - Make the Ecosystem by page more like original SoTD, searchable, use GraphQL 
 - Tina.js
 - Script to automatically meta generate keywords / description for old blog articles
-
-## About
-
-- Was previously being hosted on wordpress
-- After a while of not being updated (centralized)
-- Move to Github + Gatbsy
-  - Static site generator
-  - No backend server
-  - Easily published anywhere (IPFS/Github/S3/Filesystem)
-  - Very fast & Lightweight
-  - Awesome for SEO
-  - Less single source of failure (git reviews)
-  - Awesome for collaboration (perfect for decentralized projects)
-- Anyone can PR a new blog article easily; auto-rebuild in travis
-- Netlify creates PR previews that need to be approved in github before being published
-- Eventually PRs could be managed on chain

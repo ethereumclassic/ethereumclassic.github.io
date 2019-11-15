@@ -7,7 +7,7 @@ node_js:
 script: bash ./deploy.sh
 env:
   global:
-  - ENCRYPTION_LABEL: "a55c8da1c39b"
+  - ENCRYPTION_LABEL: "f2018501acb7"
   - SOURCE_BRANCH: "source"
   - TARGET_BRANCH: "staging"
 cache:
