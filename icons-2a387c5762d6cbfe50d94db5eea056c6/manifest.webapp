@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "name": "etc-web-2",
+  "description": null,
+  "icons": {
+    "60": "/icons-2a387c5762d6cbfe50d94db5eea056c6/firefox_app_60x60.png",
+    "128": "/icons-2a387c5762d6cbfe50d94db5eea056c6/firefox_app_128x128.png",
+    "512": "/icons-2a387c5762d6cbfe50d94db5eea056c6/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": null,
+    "url": null
+  }
+}

@@ -1,107 +1,72 @@
-# Ethereum Classic Web
+# ETC Web v2
 
-Thanks for supporting Ethereum Classic!
+Work in progress version 2 Ethereum Classic website
 
-This app is written in [gatsby](https://github.com/gatsbyjs/gatsby) (React & ES6) and generates static HTML to be served by github pages.
+## TODOs
 
-## Contributing
+### Public Release (v2)
 
-**Please checkout the [`source`](https://github.com/ethereumclassic/ethereumclassic.github.io/tree/source) branch for making updates**
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d126f59b-aed6-422b-95cd-b33f2a93b25b/deploy-status)](https://app.netlify.com/sites/ethereumclassic/deploys)
 
-Do not directly modify `master` branch; it is for [serving](https://help.github.com/articles/user-organization-and-project-pages/) the compiled static html only
+#### Final Tasks
 
-### Add content to the site
+- Change siteMetadata.siteUrl publishing to production
+- Disable the fork banner
+- Add external link icons to external links
 
-##### Create a copy of the website code on your Github account:
+#### Help Needed
 
-1. Create a github.com account
-2. Visit https://github.com/ethereumclassic/ethereumclassic.github.io
-3. Click on "Fork" button in upper right
+- Remove a bunch of mining pools (ETC miners - which ones?)
+- Update timeline with major events since 2017
+- Day 2 videos for ETC summit
+- Add wechat group
+- Switch to Mailchimp or another provider for newsletter sign up (using WP endpoint for now)
+- (Nice to have) more comprehensive knowledge base page (including more structure introduction, articles, etc.)
 
-##### Set up git on your computer
+### i18n Release (v2.1; ETA late November)
 
-If `git` is not installed on your computer please follow [this guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+- Documentation / guide for contribution
+- Create script for exporting / importing translations
+- Structure all pages ready for i18n usage (including powered by, etc...)
+- use YAML instead of JSON
+- replace localeDateStrings with i18nNext
+- Manage 404 for missing i18n (or just create english version)
+- Review `TODO`s in code
 
-To set up your name and email in Git:
+### To Add To Tracker (v2.x)
 
-```sh
-git config --global user.email "<your email goes here>"
-git config --global user.name "<your name goes here>"
-```
+#### Content
 
-##### Making changes
+- More Knowledge Base articles
+- Expanded ETC summit section, with agendas, old years, etc.
 
-To upload a new Markdown file:
+#### Code
 
-```sh
-git clone https://github.com/<your Github username>/ethereumclassic.github.io.git
-cd ethereumclassic.github.io
-git checkout source
-```
+- Pull dapps from [dappdirect](https://dappdirect.net/) (?)
+- Accessibility updates (tab navigation etc.)
+- Refactor & comment gatbsy-node (?)
+- Use LocalStorage to remember hidden modal
+- Improve hamburger behaviour (click outside = hide)
+- Improve blog navigation / pagination / next article, etc.
+- Use graphql fragements
+- Search all content & blog posts
+- Auto-import multiple different education resources (?)
+- Make the Ecosystem by page more like original SoTD, searchable, use GraphQL 
+- Tina.js
+- Script to automatically meta generate keywords / description for old blog articles
 
-Add MD file under pages/blog.
-Rename your MD file to have `YYYY-MM-DD-{your-title-goes-here}.md` format.
-Add correct header to MD file as follows:
+## About
 
-```md
----
-title: "<your title goes here>"
-date: <date, formatted as YYYY-MM-DD>
-author: <your name goes here>
----
-```
-
-When you are done making changes, commit them to git.
-
-```sh
-git add <your MD file goes here>
-git commit -m "Added a blog post about {your topic}"
-git push origin source
-```
-
-##### Proposing your changes on GitHub
-
-To create a pull request to notify ETC website maintainers of your file:
-
-1. Visit https://github.com/<your Github username>/ethereumclassic.github.io.git
-2. Click on "Compare & pull request" in upper right
-3. Add description to form
-4. Click the "Create pull request" in middle right
-
-#### Where to add content?
-
-* *Blog Posts*: Just add a new markdown file in `/pages/blog` similar to [this](https://github.com/ethereumclassic/ethereumclassic.github.io/blob/source/pages/blog/2016-08-14-new-website.md)
-* *Press Articles*: Add a new item to the top of the list in `/contents/press.yaml`
-* *Fork Timeline*: As time goes by, drama unfolds, and the timeline needs to be updated. This can be edited in `components/home/fork-timeline.js`. Get icon refs from [font awesome](http://fontawesome.io/icons/)
-* *Advanced Editing*: The whole app is written in react, you can modify the layout of the landing page and drill down into components from `/pages/index.js`
-* *Future Editing*: Soon we'll have multiple pages, watch this space for more info
-
-### Develop site
-
-1. Fork this repo into your own Github account
-2. Clone your fork locally, checkout `source`
-3. Make sure you have [NodeJS](https://nodejs.org/en/download/) installed
-4. `npm install`
-5. `npm start`
-
-#### Build
-
-Building manually isn't required, but you may wish to do so before pushing to ensure everything looks as you'd expect.
-
-Run `npm run build`, and open up `/public/index.html` with a static web server.
-
-#### Deploy
-
-Simply push changes to the `source` branch and Travis CI will handle the rest rest.
-
-You can also manually deploy (not recommended) by pushing to the `master` branch:
-
-1. `npm run build-prefix-links`
-2. Copy contents of `/public` (move it)
-3. Checkout `master`
-4. Replace contents of `master` with `/public`
-5. Push
-
-## License
-
-Everything that's not already copyrighted is licensed under [CC0](https://creativecommons.org/choose/zero/) (for graphics) and [TBD ULTRA-OPEN PUBLIC DOMAIN LICENSE].
+- Was previously being hosted on wordpress
+- After a while of not being updated (centralized)
+- Move to Github + Gatbsy
+  - Static site generator
+  - No backend server
+  - Easily published anywhere (IPFS/Github/S3/Filesystem)
+  - Very fast & Lightweight
+  - Awesome for SEO
+  - Less single source of failure (git reviews)
+  - Awesome for collaboration (perfect for decentralized projects)
+- Anyone can PR a new blog article easily; auto-rebuild in travis
+- Netlify creates PR previews that need to be approved in github before being published
+- Eventually PRs could be managed on chain
