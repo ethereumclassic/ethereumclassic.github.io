@@ -1,0 +1,17 @@
+dist: trusty
+sudo: false
+language: node_js
+filter_secrets: false
+node_js:
+  - '10.0'
+script: bash ./deploy.sh
+env:
+  global:
+  - ENCRYPTION_LABEL: "a55c8da1c39b"
+  - SOURCE_BRANCH: "source"
+  - TARGET_BRANCH: "staging"
+cache:
+  directories:
+    - node_modules
+    - .cache
+    - public
