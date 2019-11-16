@@ -22,7 +22,7 @@ const Index = ({ pageContext: { i18n }, data: { file } }) => (
         <IconGrid
           icons={[
             {
-              title: 'Decentalized',
+              title: 'Decentralized',
               text: 'Open and welcoming grassroots community',
               icon: 'fas fa-users'
             },
