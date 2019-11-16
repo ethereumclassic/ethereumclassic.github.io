@@ -3,6 +3,7 @@ import { graphql } from 'gatsby';
 import EducationMenu from '~components/educationMenu';
 import Mdx from '~components/mdx';
 import Spacer from '~components/spacer';
+import BackButton from '~components/backButton';
 
 import PageLayout from '~components/pageLayout';
 
@@ -12,7 +13,7 @@ const EducationItem = ({ data: { mdx } }) => {
       link={{ to: '/knowledge', text: 'Knowledge' }}
       seo={{ title: mdx.frontmatter.title, description: mdx.frontmatter.metaDescription }}
     >
-      <EducationMenu compact collapsed />
+      <BackButton text="Knowledge Base" to="/knowledge" />
       <Spacer />
       <h1>{mdx.frontmatter.title}</h1>
       <Mdx code={mdx.body} />

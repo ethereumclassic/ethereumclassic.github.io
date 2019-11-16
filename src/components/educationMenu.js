@@ -85,10 +85,7 @@ const EducationMenu = ({ compact, collapsed }) => {
   const elements = sections.map(({ title, subTitle, items, id }) => (
     <div key={id}>
       <header>
-        <h2>
-          <a name={id} className="anchor" />
-          {title}
-        </h2>
+        <h2>{title}</h2>
         {!collapsed && subTitle}
       </header>
       {items.map(({ text, link, subText }) => (
@@ -111,7 +108,7 @@ const EducationMenu = ({ compact, collapsed }) => {
     >
       {compact && (
         <div className="item back">
-          <BackButton to="/knowledge" text="Education" />
+          <BackButton to="/knowledge" text="Knowledge Base" />
         </div>
       )}
       {!collapsed ? (
