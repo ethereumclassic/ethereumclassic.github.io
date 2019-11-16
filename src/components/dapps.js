@@ -12,6 +12,18 @@ const Dapps = () => {
         <p>
           A selection of (decentralized) applications that are built on top of Ethereum Classic.
         </p>
+        <p>
+          <b>
+            <span role="img" aria-label="warning">
+              ⚠️
+            </span>
+            {' Whilst '}
+            malicious links are removed as they are discovered, operating with the sprit of
+            permissionless means that there is no guarantee all links are legitimate. Please use
+            with caution and verify for yourself.
+          </b>
+        </p>
+
         <div className="legend">
           <b>Legend:</b>
           <br />

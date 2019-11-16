@@ -43,6 +43,7 @@ const resourcesCommmunity = () => {
       <Card title="Block Explorers">
         Check on the status of transactions with these handy websites.
         <LinkGroup
+          title="Mainnet"
           items={[
             {
               text: 'BlockScout',
@@ -56,7 +57,12 @@ const resourcesCommmunity = () => {
               text: 'MinerGate',
               link: 'https://minergate.com/blockchain/etc/blocks'
             },
-            { text: '0xETH', link: 'http://0xeth.com/' },
+            { text: '0xETH', link: 'http://0xeth.com/' }
+          ]}
+        />
+        <LinkGroup
+          title="Testnets"
+          items={[
             {
               text: 'Kotti (Testnet) Explorer',
               link: 'https://kottiexplorer.ethernode.io/'
