@@ -19,19 +19,44 @@ const philosophyItems = [
     link: '/blog/2016-07-11-manifesto',
     subText:
       'Every blockchain creates a social network around its applications, with network value growing exponentially with the number of participants in accordance with Reed’s Law. This value isn’t extracted by intermediaries or controllers, as with previous centralized models. Instead, it’s shared among participants, providing economic incentives for cooperation without coercion. Not all blockchains are created equal. There are three key characteristics that make scalable blockchain-enabled cooperation possible: openness, neutrality and immutability.'
+  },
+  {
+    text: 'Ethereum Classic Vision',
+    link: 'https://etherplan.com/2019/08/14/ethereum-classic-vision/8595/',
+    subText: 'Why ETC is both a computing platform and an excellent store of value'
+  },
+  {
+    text: 'Ethereum Classic vs Ethereum 2.0, What is the Difference?',
+    link:
+      'https://etherplan.com/2019/07/23/ethereum-classic-vs-ethereum-2-0-what-is-the-difference/8425/',
+    subText:
+      'It can be said that Ethereum Classic is a conservatively run system, focused on security, and the upcoming Ethereum 2.0 is a progressively run system, focused on performance'
+  },
+  {
+    text: 'Why Proof of Stake is Less Secure Than Proof of Work',
+    link:
+      'https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/',
+    subText:
+      'By anchoring to a proof of work physical base, the subjective layer acquires orders of magnitude more objectivity, thus security.'
   }
 ];
 
 const usingItems = [
   {
+    text: 'What is and how Does Ethereum Classic Work in Layman’s Terms?',
+    link:
+      'https://etherplan.com/2019/07/02/what-is-and-how-does-ethereum-classic-work-in-laymans-terms/8106/',
+    subText: 'A high level overview of how Ethereum Classic works'
+  },
+  {
     text: 'Using Emerald Wallet',
     link: '/knowledge/using-emerald-wallet',
-    subText: 'Learn how to download and install Emerald Wallet.'
+    subText: 'Learn how to download and install Emerald Wallet'
   },
   {
     text: 'Using Classic Ether Wallet',
     link: '/knowledge/using-classic-ether-wallet',
-    subText: 'Learn how to use the Classic Ether Wallet.'
+    subText: 'Learn how to use the Classic Ether Wallet'
   }
 ];
 
