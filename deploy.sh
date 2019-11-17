@@ -56,8 +56,10 @@ ssh-add deploy_key
 # Commit the "changes", i.e. the new version.
 # The delta will show diffs between new and old versions.
 cd staging
+
 git add -A .
-git commit -m "Build from commit: ${SHA}"
+# skip the commit if there are no changes to commit (to prevent quit)
+git diff-index --quiet HEAD || git commit -m "Build from commit: ${SHA}"
 
 # Now that we're all set up, we can push.
 git push $SSH_REPO $TARGET_BRANCH
