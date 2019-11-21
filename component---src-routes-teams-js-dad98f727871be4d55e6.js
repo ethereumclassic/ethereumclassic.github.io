@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{261:function(e,t,n){"use strict";n.r(t);var a=n(0),o=n.n(a),i=n(257),r=n(258);t.default=function(e){var t=e.pageContext.i18n;return o.a.createElement(i.a,{seo:{title:"Teams",description:"Major organizations contributing to Etheruem Classic"},wide:!0},o.a.createElement("section",null,o.a.createElement(r.a,{code:t.mdx.intro})),o.a.createElement("section",null,o.a.createElement(r.a,{code:t.mdx.organisations})))}}}]);
+//# sourceMappingURL=component---src-routes-teams-js-dad98f727871be4d55e6.js.map
