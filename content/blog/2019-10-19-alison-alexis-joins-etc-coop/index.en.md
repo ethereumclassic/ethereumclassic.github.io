@@ -24,7 +24,8 @@ Bob Summerwill said: *“I am delighted that Alison will be joining the ETC Coop
 
 ## Public Disclosure
 
-Bob Summerwill, the Executive Director of the ETC Cooperative, and Alison Alexis CPA, the newly appointed Financial Controller, are  business partners at [Varro Technologies](https://varro.tech), and are also in a common-law relationship and have a child together.
+Bob Summerwill, the Executive Director of the ETC Cooperative, and Alison Alexis CPA, the newly appointed Financial Controller, are  business partners at [Varro Technologies](https://varro.tech), are engaged to be married and
+have a child together.
 
 ## About ETC Cooperative
 
