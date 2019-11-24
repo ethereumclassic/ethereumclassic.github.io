@@ -30,5 +30,3 @@ have a child together.
 ## About ETC Cooperative
 
 The ETC Cooperative is a Delaware-incorporated 501(c)(3) public charity, which seeks to accelerate the growth of Ethereum Classic.
-
-.
