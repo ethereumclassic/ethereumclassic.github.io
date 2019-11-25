@@ -1,58 +1,33 @@
 # Ethereum Classic Website
 
+## Adding Content
+
+For now, if you'd like to contribute, please contact us in the [discord #ethereumclassicwebsite](https://discord.gg/DwQjJ8) channel.
+
+We're not quite ready for translators to begin contributing translations, but watch this space.
+
+*More detailed instructions to come.*
+
+For simple content updates such as editing a blog article, checkout a new branch from `source`, add your content, and create a PR back into source (but do not merge it; this will be managed by maintainers in discord).
+
 ## Branches
 
-* [Main website (master branch)](https://ethereumclassic.org/)
-* [Preview (staging branch)](https://staging--ethereumclassic.netlify.com/)
+To enable branch protection on `master`, and due to the way github pages top level org repos, we need to employ a creative use of branching to manage updates.
 
-Github pages is deployed in `master`; do not make commits to it directly.
+### Source Code Branches
 
-To make content updates, push an update to the `source` branch. This will trigger Travis CI to create a new build in the `staging` branch.
+* [Source](https://github.com/ethereumclassic/ethereumclassic.github.io/tree/source)
+  * Checkout this branch to add new *content*
+  * Any commit to this branch will trigger a new `staging` deploy
+* [Develop](https://github.com/ethereumclassic/ethereumclassic.github.io/tree/develop)
+  * Checkout this branch to add new *features*
+  * To be merged into source for new releases
 
-The `staging` branch should then be used to create a PR into `master` (which is protected).
+### Compiled Code Branches
 
-## TODOs
+Do not commit to these branches directly.
 
-* Better docs for for editing content
-* Move TODOs into github issues
-
-### Help Needed
-
-* Remove a bunch of mining pools (ETC miners - which ones?)
-* Update timeline with major events since 2017
-* Day 2 videos for ETC summit
-* Add wechat group
-* Switch to Mailchimp or another provider for newsletter sign up (using WP endpoint for now)
-* (Nice to have) more comprehensive knowledge base page (including more structure introduction, articles, etc.)
-
-### i18n Release (v2.1; ETA late November)
-
-* Documentation / guide for contribution
-* Create script for exporting / importing translations
-* Structure all pages ready for i18n usage (including powered by, etc...)
-* use YAML instead of JSON
-* replace localeDateStrings with i18nNext
-* Manage 404 for missing i18n (or just create english version)
-* Review `TODO`s in code
-
-### To Add To Tracker (v2.x)
-
-#### Content
-
-* More Knowledge Base articles
-* Expanded ETC summit section, with agendas, old years, etc.
-
-#### Code
-
-* Pull dapps from [dappdirect](https://dappdirect.net/) (?)
-* Accessibility updates (tab navigation etc.)
-* Refactor & comment gatbsy-node (?)
-* Use LocalStorage to remember hidden modal
-* Improve hamburger behaviour (click outside = hide)
-* Improve blog navigation / pagination / next article, etc.
-* Use graphql fragements
-* Search all content & blog posts
-* Auto-import multiple different education resources (?)
-* Make the Ecosystem by page more like original SoTD, searchable, use GraphQL 
-* Tina.js
-* Script to automatically meta generate keywords / description for old blog articles
+* [Master](https://github.com/ethereumclassic/ethereumclassic.github.io/tree/master)
+  * Deploys to https://ethereumclassic.org/
+* [Staging](https://github.com/ethereumclassic/ethereumclassic.github.io/tree/staging)
+  * Deploys to https://staging--ethereumclassic.netlify.com/
