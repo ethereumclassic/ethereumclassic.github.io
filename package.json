@@ -5,9 +5,10 @@
   "author": "ETC developers",
   "version": "0.1.0",
   "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
-    "serve": "gatsby serve",
+    "build": "GATSBY_TELEMETRY_DISABLED=1 gatsby build",
+    "develop": "GATSBY_TELEMETRY_DISABLED=1 gatsby develop",
+    "develop-lan": "GATSBY_TELEMETRY_DISABLED=1 gatsby develop --host=0.0.0.0",
+    "serve": "GATSBY_TELEMETRY_DISABLED=1 gatsby serve",
     "start": "npm run develop",
     "lint": "eslint ."
   },
