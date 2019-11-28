@@ -8,6 +8,7 @@ $maxPageWidth: 55rem;
 $maxWideSectionWidth: $maxPageWidth + 30rem;
 
 $largePadding: 4rem;
+$hugePadding: $largePadding * 2;
 $smallPadding: $largePadding / 2;
 $tinyPadding: $smallPadding / 2;
 $microPadding: $tinyPadding / 2;
@@ -300,7 +301,7 @@ section > p:last-child {
     color: white;
   }
   .button-link {
-    background: rgba(255,255,255,.05);
+    background: rgba(255,255,255,.2);
     box-shadow: $softShadow;
     &:hover {
       background: rgba(255,255,255,.1);
@@ -454,6 +455,7 @@ a.card {
     @include breakpoint('<=small') {
       h1 {
         font-size: 3.5rem;
+        padding-top: $smallPadding;
       }
       h1, p {
         padding-left: $logoSize;
@@ -461,6 +463,9 @@ a.card {
       img.logo {
         max-width: $logoSizeSmall;
         margin-left: -$logoSize;
+      }
+      b {
+        display: block;
       }
     }
   }
@@ -472,11 +477,16 @@ a.card {
     margin-top: $largePadding;
     padding: $smallPadding $largePadding;
     text-shadow: 0 1px 2px rgba(0,0,0,.4);
-    background: linear-gradient(45deg, rgba(0,0,0,.4), transparent);
-    @include breakpoint('<=large') {
-      margin-top: $smallPadding;
-      padding: $tinyPadding $smallPadding;
+    background: linear-gradient(45deg, rgba(0,0,0,.6), transparent);
+    @include breakpoint('<=medium') {
+      margin-top: -$smallPadding;
+      padding: $tinyPadding $hugePadding;
     }
+    @include breakpoint('<=small') {
+      margin-top: 0;
+      padding: $smallPadding;
+    }
+
     h3 {
       font-size: 1.5rem;
       margin: 0;

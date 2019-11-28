@@ -26,7 +26,7 @@ export default class Warning extends React.Component {
             onClick={() => this.setState({ showing: false })}
             role="button"
           >
-            ✖
+            ╳
           </div>
           <h3>Hard Fork Alert</h3>
           <div className="action">
