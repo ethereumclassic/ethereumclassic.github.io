@@ -30,11 +30,15 @@ export default class Warning extends React.Component {
           </div>
           <h3>Hard Fork Alert</h3>
           <div className="action">
-            <ButtonLink text="More" to="#" icon="angle-right" />
+            <ButtonLink
+              text="Upgrade"
+              to="https://ecips.ethereumclassic.org/ECIPs/ecip-1056"
+              icon="angle-right"
+            />
           </div>
           <p>
-            (Test Message) On the 23rd January 2018, at block 203032, the next hard fork will take
-            place.
+            Ethereum Classic is undergoing a planned upgrade "Agharta" around 15 Jan 2020. If you
+            run an ETC node please upgrade as soon as possible.
           </p>
         </div>
       </div>
