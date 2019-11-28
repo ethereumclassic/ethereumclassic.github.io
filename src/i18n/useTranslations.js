@@ -3,18 +3,17 @@ import { useStaticQuery, graphql } from 'gatsby';
 import LocaleContext from './localeContext';
 import { defaultLocale } from './config';
 
+// TODO only query the relevant data - merge at generation ideally...
+// TODO use HOC for global strings
+
 const query = graphql`
   query useTranslations {
-    rawData: allFile(filter: { fields: { isGlobal: { eq: true } } }) {
+    globals: allFile(filter: { fields: { isGlobal: { eq: true } } }) {
       edges {
         node {
           fields {
             locale
-            translations {
-              backToHome
-              hello
-              subline
-            }
+            body
           }
         }
       }
@@ -22,29 +21,17 @@ const query = graphql`
   }
 `;
 
-function useTranslations() {
-  // Grab the locale (passed through context) from the Context Provider
-  const { locale } = React.useContext(LocaleContext);
-  // Query the JSON files in <rootDir>/i18n/translations
-  const { rawData } = useStaticQuery(query);
+function getTranslations(globals, locale) {
+  return JSON.parse(globals.edges.find(e => e.node.fields.locale === locale).node.fields.body);
+}
 
-  // Simplify the response from GraphQL
-  const simplified = rawData.edges.map(item => {
-    return {
-      name: item.node.fields.locale,
-      translations: item.node.fields.translations
-    };
-  });
-  // merge
-  const { translations: d } = simplified.find(lang => lang.name === defaultLocale) || {};
-  const { translations: t } = simplified.find(lang => lang.name === locale) || {};
-  const translations = { ...d };
-  Object.keys(t || {}).forEach(k => {
-    if (t[k] !== null) {
-      translations[k] = t[k];
-    }
-  });
-  return translations;
+function useTranslations() {
+  const { locale } = React.useContext(LocaleContext);
+  const { globals } = useStaticQuery(query);
+  return {
+    ...getTranslations(globals, defaultLocale),
+    ...getTranslations(globals, locale)
+  };
 }
 
 export default useTranslations;

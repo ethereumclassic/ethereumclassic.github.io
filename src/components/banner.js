@@ -1,16 +1,19 @@
 import React from 'react';
 import Img from 'gatsby-image';
 import logo from '../assets/images/etc-black.svg';
+import useTranslations from '../i18n/useTranslations';
 
 import ButtonLink from './buttonLink';
 
 const Banner = ({ image }) => {
+  const { ethereumClassic } = useTranslations();
+
   return (
     <section className="intro">
       <header>
         <h1>
           <img className="logo" src={logo} alt="Ethereum Classic Logo" />
-          Ethereum Classic
+          {ethereumClassic}
         </h1>
         <p>
           Build

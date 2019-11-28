@@ -1,7 +1,7 @@
 import React from 'react';
 import useTranslations from '../i18n/useTranslations';
 import NavigationButton from './navigationButton';
-// import SelectLanguage from './selectLanguage';
+import SelectLanguage from './selectLanguage';
 import Hamburger from './hamburger';
 
 const Navigation = () => {
@@ -9,7 +9,7 @@ const Navigation = () => {
 
   return (
     <div id="menu">
-      {/* TODO: add this <SelectLanguage /> */}
+      <SelectLanguage />
       <div id="page-nav">
         <Hamburger>
           <NavigationButton to="/" text={backToHome} />
