@@ -14,7 +14,7 @@ const Index = ({ pageContext: { i18n }, data: { file } }) => (
   <>
     <Navigation />
     <div id="wrapper">
-      <Banner image={file.childImageSharp.fluid} />
+      <Banner i18n={i18n.yaml.banner} image={file.childImageSharp.fluid} />
       <Section className="wide-header" subSection={() => <Mdx code={i18n.mdx.whatIsClassic} />}>
         <Mdx code={i18n.mdx.whatIsBlockchain} />
       </Section>

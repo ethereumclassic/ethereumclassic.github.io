@@ -1,23 +1,24 @@
 // TODO replace with i18n
 import React from 'react';
 
-import Mdx from '~components/mdx';
+import html from '../i18n/html';
+
 import Road from '~components/road';
 import Timeline from '~components/timeline';
 import PageLayout from '~components/pageLayout';
 
+// TODO make i18n keys automatically better...
+
 const Roadmap = ({ pageContext: { i18n } }) => {
   return (
-    <PageLayout
-      wide
-      seo={{ title: i18n.json.roadmap.title, description: i18n.json.roadmap.description }}
-    >
+    <PageLayout wide>
       <section>
-        <Mdx code={i18n.mdx.intro} />
+        {html(i18n.intro)}
+        {html(i18n.timeline)}
       </section>
       <Timeline />
       <section>
-        <Mdx code={i18n.mdx.roadmap} />
+        {html(i18n.developmentPlans)}
         <Road />
       </section>
     </PageLayout>

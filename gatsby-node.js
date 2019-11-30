@@ -1,17 +1,37 @@
-/* eslint-disable import/no-dynamic-require, global-require */
-// TODO, comment this for readability
-// TODO replace the requires with proper gatsby JSON parsing
-// TODO refactor
+// TODO refactor this & turn into a plugin
+
 const path = require('path');
 const fs = require('fs');
 const jsYaml = require('js-yaml');
+const remark = require('remark');
+const markdown = require('remark-parse');
+const remark2rehype = require('remark-rehype');
+const html = require('rehype-stringify');
 
 const { defaultLocale, locales } = require('./src/i18n/config');
 
-function getJson(absolutePath) {
-  // clear cache
-  delete require.cache[absolutePath];
-  return require(absolutePath);
+const defaultTemplate = require.resolve('./src/layouts/defaultItem.js');
+
+async function processYamlMarkdown(obj) {
+  const transformed = {};
+  await Promise.all(
+    Object.keys(obj).map(async key => {
+      const { contents } = await remark()
+        .use(markdown, { sanitize: true })
+        .use(remark2rehype)
+        // strip <p> tags if there's only one line
+        .use(() => tree => {
+          if (tree.children.length === 1 && tree.children[0].children) {
+            // eslint-disable-next-line no-param-reassign
+            tree.children = tree.children[0].children;
+          }
+        })
+        .use(html)
+        .process(obj[key]);
+      transformed[key] = contents;
+    })
+  );
+  return transformed;
 }
 
 function parsePath(str) {
@@ -47,7 +67,7 @@ function parsePath(str) {
   };
 }
 
-function localizedPath(locale, name) {
+function localizePath(locale, name) {
   const isDefault = locale === defaultLocale;
   let slug = isDefault ? `/${name}/` : `/${locale}/${name}/`;
   if (name === 'index') {
@@ -56,7 +76,7 @@ function localizedPath(locale, name) {
   return slug;
 }
 
-function mergeJson(defaults = {}, translation = {}) {
+function mergeTranslations(defaults = {}, translation = {}) {
   const result = {
     ...translation
   };
@@ -85,13 +105,8 @@ exports.onCreateWebpackConfig = ({ actions }) => {
 // custom method to get stuff from content folder and register it
 exports.onCreateNode = async ({ node, loadNodeContent, actions: { createNodeField } }) => {
   // Check for "Mdx" type so that other files (e.g. images) are excluded
-  if (
-    node.internal.mediaType === 'text/yaml' ||
-    node.internal.mediaType === 'application/json' ||
-    node.internal.type === 'Mdx'
-  ) {
+  if (node.internal.mediaType === 'text/yaml' || node.internal.type === 'Mdx') {
     // Use path.basename
-    const pathName = node.absolutePath || node.fileAbsolutePath;
     const { slug, lang, parent, name, isGlobal } = parsePath(
       node.absolutePath || node.fileAbsolutePath
     );
@@ -121,7 +136,7 @@ exports.onCreateNode = async ({ node, loadNodeContent, actions: { createNodeFiel
       name: 'locale',
       value: lang
     });
-    // TODO rename this to 'generated'
+    // TODO rename hasParent this to 'generated'
     // add the special tag for blog articles etc.
     createNodeField({
       node,
@@ -135,9 +150,6 @@ exports.onCreateNode = async ({ node, loadNodeContent, actions: { createNodeFiel
         value: parent
       });
     }
-
-    // TODO refactor this into an i18n plugin
-    // load the content for json and yaml files
     if (node.internal.mediaType === 'text/yaml') {
       createNodeField({
         node,
@@ -147,21 +159,10 @@ exports.onCreateNode = async ({ node, loadNodeContent, actions: { createNodeFiel
       createNodeField({
         node,
         name: 'body',
-        value: JSON.stringify(jsYaml.load(await loadNodeContent(node)))
-      });
-    } else if (node.internal.mediaType === 'application/json') {
-      createNodeField({
-        node,
-        name: 'ext',
-        value: 'json'
-      });
-      createNodeField({
-        node,
-        name: 'body',
-        value: JSON.stringify(getJson(pathName))
+        value: JSON.stringify(await processYamlMarkdown(jsYaml.load(await loadNodeContent(node))))
       });
     } else {
-      // for mdx files
+      // for md(x) files
       createNodeField({
         node,
         name: 'ext',
@@ -173,8 +174,8 @@ exports.onCreateNode = async ({ node, loadNodeContent, actions: { createNodeFiel
 
 // This hook uses the `routes` folder to generate pages
 // It uses src/i18n/config to generate a page for each language
-
 exports.createPages = async ({ graphql, actions: { createPage } }) => {
+  // query all the nodes we need for generating translations
   const result = await graphql(`
     {
       routes: allFile(filter: { sourceInstanceName: { eq: "routes" } }) {
@@ -198,7 +199,7 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
           }
         }
       }
-      fileTranslations: allFile(filter: { fields: { translation: { eq: true } } }) {
+      yamlTranslations: allFile(filter: { fields: { translation: { eq: true } } }) {
         edges {
           node {
             id
@@ -230,11 +231,11 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
     }
   `);
 
-  const { routes, children, mdxTranslations, fileTranslations } = result.data;
+  const { routes, children, mdxTranslations, yamlTranslations } = result.data;
 
   // create a tree of the translations to be injected into the pages
   const translationsTree = {};
-  mdxTranslations.edges.concat(fileTranslations.edges).forEach(data => {
+  mdxTranslations.edges.concat(yamlTranslations.edges).forEach(data => {
     const { ext, slug, locale, name, body } = data.node.fields;
     // add to the tree
     translationsTree[slug] = {
@@ -249,35 +250,48 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
       }
     };
   });
+
   // generate main routes and inject their translations
   await Promise.all(
     routes.edges.map(async data => {
       const { name, ext } = parsePath(data.node.absolutePath);
       if (ext === 'js') {
-        // my translations are here
-        const myLocales = translationsTree[name] || {};
+        const globalLocales = translationsTree.content || {};
+        const routeLocales = translationsTree[name] || {};
+        const defaultLocales = routeLocales[defaultLocale] || {};
+        const defaultGlobals = globalLocales[defaultLocale] || {};
         // for each of the i18n configs, create a page...
         Object.values(locales).forEach(({ path: locale }) => {
           // only create pages for enabled locales
           if (!locales[locale]) {
             return;
           }
-          const i18n = {
-            yaml: mergeJson((myLocales[defaultLocale] || {}).yaml, (myLocales[locale] || {}).yaml),
-            json: mergeJson((myLocales[defaultLocale] || {}).json, (myLocales[locale] || {}).json),
-            mdx: {
-              ...(myLocales[defaultLocale] || {}).mdx,
-              ...(myLocales[locale] || {}).mdx
-            }
-          };
-          const generatedSlug = localizedPath(locale, name);
+          const routeGlobals = globalLocales[locale] || {};
+          const thisLocale = routeLocales[locale] || {};
+          const yaml = mergeTranslations(defaultLocales.yaml, thisLocale.yaml);
+          // move translations with the same key into the main i18n object
+          const main = yaml[name];
+          // remove them from the child yaml object
+          delete yaml[name];
+          // create the page
           createPage({
-            path: generatedSlug,
+            path: localizePath(locale, name),
             component: data.node.absolutePath,
             context: {
               locale,
               localeMetadata: locales[locale].siteMetadata,
-              i18n
+              globals: {
+                ...defaultGlobals.yaml.globals,
+                ...(routeGlobals.yaml || {}).globals
+              },
+              i18n: {
+                ...main,
+                yaml,
+                mdx: {
+                  ...defaultLocales.mdx,
+                  ...thisLocale.mdx
+                }
+              }
             }
           });
         });
@@ -286,7 +300,6 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
   );
 
   // generate the sub-pages (such as blog)
-  const defaultTemplate = require.resolve('./src/layouts/defaultItem.js');
   children.edges.forEach(({ node: post }) => {
     const { locale, parent } = post.fields;
     // only create pages for enabled locales
@@ -295,7 +308,7 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
     }
     // TODO use better path
     const slug = post.fileAbsolutePath.split('/').slice(-2, -1)[0];
-    const myPath = localizedPath(locale, `${parent}/${slug}`);
+    const myPath = localizePath(locale, `${parent}/${slug}`);
     // use this parent template if it exists, otherwise fallback to parent template
     const templatePath = path.resolve(`./src/layouts/${parent}Item.js`);
     const component = fs.existsSync(templatePath) ? require.resolve(templatePath) : defaultTemplate;

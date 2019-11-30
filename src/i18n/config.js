@@ -1,5 +1,4 @@
 // locale key must be equal to `path`!
-
 module.exports = {
   defaultLocale: 'en',
   locales: {
@@ -22,6 +21,7 @@ module.exports = {
       name: '中文',
       dateFormat: 'DD.MM.YYYY',
       siteMetadata: {
+        bodyClass: 'hanzi',
         locale: 'zh_CN',
         lang: 'zh-CN',
         title: '以太经典',

@@ -3,6 +3,7 @@
 /* eslint-disable jsx-a11y/interactive-supports-focus */
 import React from 'react';
 import ButtonLink from './buttonLink';
+import Translate from './translate';
 
 export default class Warning extends React.Component {
   constructor(props) {
@@ -28,17 +29,18 @@ export default class Warning extends React.Component {
           >
             ╳
           </div>
-          <h3>Hard Fork Alert</h3>
+          <h3>
+            <Translate text="hardForkAlert" />
+          </h3>
           <div className="action">
             <ButtonLink
-              text="Upgrade"
+              text={<Translate text="upgrade" />}
               to="https://ecips.ethereumclassic.org/ECIPs/ecip-1056"
               icon="angle-right"
             />
           </div>
           <p>
-            Ethereum Classic is undergoing a planned upgrade "Agharta" around 15 Jan 2020. If you
-            run an ETC node please upgrade as soon as possible.
+            <Translate text="aghartaWarning" />
           </p>
         </div>
       </div>

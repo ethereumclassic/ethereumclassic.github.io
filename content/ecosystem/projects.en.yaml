@@ -1,0 +1,8 @@
+multiGeth: Multi-Geth / Classic Geth
+multiGethText: ETC Labs Core is maintaining a multi-geth patch that enables geth to support multiple networks. Eventually they hope to have multi-geth integrated into mainline geth.
+multiGethDifficulty: Difficulty *Bomb* Removal
+multiGethAdvanced: Advanced Logging for Developers (Machine Readable Logging & ELK Config)
+multiGethImproved: Improved Caching for Faster Performance (StateDB)
+multiGethCompatibility: Compatibility with New Ethereum Opcodes
+multiGethAddress: Address / Transaction Indexing for Developers
+multiGethFaster: Faster Syncing (New Warp Sync)

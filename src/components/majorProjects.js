@@ -3,7 +3,7 @@ import React from 'react';
 import LinkSection from '~components/linkSection';
 
 const MajorProjects = ({ i18n }) => {
-  const { projects: p } = i18n.json;
+  const { projects: p } = i18n.yaml;
   return (
     <>
       <LinkSection

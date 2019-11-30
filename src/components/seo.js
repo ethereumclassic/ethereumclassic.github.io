@@ -43,14 +43,17 @@ const SEO = ({ title, description, article, image }) => {
                 description: description || localeMetadata.description,
                 url: `${siteMetadata.siteUrl}${pathname}`,
                 image: `${siteMetadata.siteUrl}${image || siteMetadata.image}`,
-                locale: siteMetadata.locale,
-                lang: siteMetadata.lang
+                locale: localeMetadata.locale,
+                lang: localeMetadata.lang,
+                bodyClass: localeMetadata.bodyClass
               };
               return (
                 <>
                   <Helmet title={seo.title}>
                     {/* language */}
+                    {/* TODO make sure this actually works... */}
                     <html lang={seo.lang} />
+                    <body className={seo.bodyClass} />
                     {/* meta head */}
                     <meta name="description" content={seo.description} />
                     <meta name="image" content={seo.image} />

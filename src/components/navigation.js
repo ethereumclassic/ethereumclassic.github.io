@@ -1,24 +1,26 @@
 import React from 'react';
-import useTranslations from '../i18n/useTranslations';
+import Translate from './translate';
 import NavigationButton from './navigationButton';
 import SelectLanguage from './selectLanguage';
 import Hamburger from './hamburger';
 
 const Navigation = () => {
-  const { backToHome } = useTranslations();
-
   return (
     <div id="menu">
       <SelectLanguage />
       <div id="page-nav">
-        <Hamburger>
-          <NavigationButton to="/" text={backToHome} />
-          <NavigationButton to="/knowledge" text="Knowledge" />
-          <NavigationButton to="/teams" text="Teams" />
-          <NavigationButton to="/ecosystem" text="Ecosystem" />
-          <NavigationButton to="/roadmap" text="Roadmap" />
-          <NavigationButton to="/blog" text="Blog" />
-        </Hamburger>
+        <Translate
+          many={t => (
+            <Hamburger>
+              <NavigationButton to="/" text={t.navHome} />
+              <NavigationButton to="/knowledge" text={t.navKnowledge} />
+              <NavigationButton to="/teams" text={t.navTeams} />
+              <NavigationButton to="/ecosystem" text={t.navEcosystem} />
+              <NavigationButton to="/roadmap" text={t.navRoadmap} />
+              <NavigationButton to="/blog" text={t.navBlog} />
+            </Hamburger>
+          )}
+        />
       </div>
     </div>
   );

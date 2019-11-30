@@ -13,7 +13,7 @@ const Ecosystem = ({ pageContext: { i18n } }) => {
   return (
     <PageLayout
       wide
-      seo={{ title: 'Ecosystem', description: 'Projects and resources on Etheruem Classic' }}
+      seo={{ title: 'Ecosystem', description: 'Projects and resources on Ethereum Classic' }}
     >
       <section>
         <Mdx code={i18n.mdx.intro} />

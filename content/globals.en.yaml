@@ -1,0 +1,14 @@
+ethereumClassic: Ethereum Classic
+backToHome: Home
+footerText: Made with `<3` for the original Ethereum vision
+# main menu
+navHome: Home
+navKnowledge: Knowledge
+navTeams: Teams
+navEcosystem: Ecosystem
+navRoadmap: Roadmap
+navBlog: Blog
+# hard fork banner
+hardForkAlert: Hard Fork Alert
+aghartaWarning: Ethereum Classic is undergoing a planned upgrade "Agharta" around 15 Jan 2020. If you run an ETC node please upgrade as soon as possible.
+upgrade: Upgrade

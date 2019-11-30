@@ -857,3 +857,11 @@ a.card {
 .intro .gatsby-image-wrapper {
   background: _palette(accent-border);
 }
+
+// locale specific styles
+
+body.hanzi {
+  #wrapper > section.intro header p {
+    font-size: 1.5rem;
+  }
+}
