@@ -57,6 +57,16 @@ const usingItems = [
     text: 'Using Classic Ether Wallet',
     link: '/knowledge/using-classic-ether-wallet',
     subText: 'Learn how to use the Classic Ether Wallet'
+  },
+  {
+    text: 'Use Nifty Wallet',
+    link: 'https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid?hl=en',
+    subText: 'Interact with the ETC Blockchain using Nifty Wallet from your broweser. Similar to Metamask.'
+  },
+  {
+    text: 'Explore Ethereum Classic Dapps',
+    link: 'https://dappdirect.net/',
+    subText: 'DappDirect.net is a site that tracks the largest smart contracts and applications on the Ethereum Classic blockchain. Submit your Dapps to be listed for free! Similar to DappRadar.'
   }
 ];
 
