@@ -10,7 +10,9 @@ const Footer = () => {
     <>
       <section className="footer">
         <header>
-          <h2>Get Involved</h2>
+          <h2>
+            <Translate text="getInvolved" />
+          </h2>
         </header>
         <div className="content">
           <Discord />

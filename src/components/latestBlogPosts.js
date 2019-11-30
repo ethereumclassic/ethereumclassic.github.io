@@ -3,6 +3,7 @@ import { StaticQuery, graphql } from 'gatsby';
 
 import ButtonLink from './buttonLink';
 import LatestBlogPostsItem from './latestBlogPostsItem';
+import Translate from './translate';
 
 const LatestBlogPosts = () => {
   return (
@@ -37,12 +38,15 @@ const LatestBlogPosts = () => {
       `}
       render={({ allMdx: { edges } }) => (
         <div className="latest-blog-posts">
+          <h2>
+            <Translate text="latestBlogPosts" />
+          </h2>
           <div className="items">
             {edges.map(edge => (
               <LatestBlogPostsItem data={edge.node} key={edge.node.frontmatter.title} />
             ))}
           </div>
-          <ButtonLink to="/blog" text="View all Blog Posts" icon="angle-right" />
+          <ButtonLink to="/blog" text={<Translate text="allBlogPosts" />} icon="angle-right" />
         </div>
       )}
     />

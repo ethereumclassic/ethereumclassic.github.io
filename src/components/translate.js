@@ -2,15 +2,15 @@ import React from 'react';
 import html from '../i18n/html';
 import LocaleContext from '../i18n/localeContext';
 
-// NOTE: this is only used for global translation strings in `/content/globals.xx.yaml`
+// NOTE: this component only used for fetching global translation strings in `/content/globals.xx.yaml`
 
-const Translate = ({ text, many }) => {
+const Translate = ({ text, all }) => {
   const { globals } = React.useContext(LocaleContext);
   if (text) {
-    return html(globals[text]);
+    return html(globals[text] || `__${text}__`);
   }
-  if (many) {
-    return many(globals);
+  if (all) {
+    return all(globals);
   }
   return null;
 };

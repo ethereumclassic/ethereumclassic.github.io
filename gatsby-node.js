@@ -172,6 +172,13 @@ exports.onCreateNode = async ({ node, loadNodeContent, actions: { createNodeFiel
   }
 };
 
+function getGlobals(locale, tree) {
+  return {
+    ...tree.content[defaultLocale].yaml.globals,
+    ...tree.content[locale].yaml.globals
+  };
+}
+
 // This hook uses the `routes` folder to generate pages
 // It uses src/i18n/config to generate a page for each language
 exports.createPages = async ({ graphql, actions: { createPage } }) => {
@@ -256,19 +263,16 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
     routes.edges.map(async data => {
       const { name, ext } = parsePath(data.node.absolutePath);
       if (ext === 'js') {
-        const globalLocales = translationsTree.content || {};
         const routeLocales = translationsTree[name] || {};
-        const defaultLocales = routeLocales[defaultLocale] || {};
-        const defaultGlobals = globalLocales[defaultLocale] || {};
+        const routeDefaultLocales = routeLocales[defaultLocale] || {};
         // for each of the i18n configs, create a page...
-        Object.values(locales).forEach(({ path: locale }) => {
+        Object.keys(locales).forEach(locale => {
           // only create pages for enabled locales
           if (!locales[locale]) {
             return;
           }
-          const routeGlobals = globalLocales[locale] || {};
           const thisLocale = routeLocales[locale] || {};
-          const yaml = mergeTranslations(defaultLocales.yaml, thisLocale.yaml);
+          const yaml = mergeTranslations(routeDefaultLocales.yaml, thisLocale.yaml);
           // move translations with the same key into the main i18n object
           const main = yaml[name];
           // remove them from the child yaml object
@@ -279,16 +283,12 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
             component: data.node.absolutePath,
             context: {
               locale,
-              localeMetadata: locales[locale].siteMetadata,
-              globals: {
-                ...defaultGlobals.yaml.globals,
-                ...(routeGlobals.yaml || {}).globals
-              },
+              globals: getGlobals(locale, translationsTree),
               i18n: {
                 ...main,
                 yaml,
                 mdx: {
-                  ...defaultLocales.mdx,
+                  ...routeDefaultLocales.mdx,
                   ...thisLocale.mdx
                 }
               }
@@ -298,7 +298,6 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
       }
     })
   );
-
   // generate the sub-pages (such as blog)
   children.edges.forEach(({ node: post }) => {
     const { locale, parent } = post.fields;
@@ -306,7 +305,7 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
     if (!locales[locale]) {
       return;
     }
-    // TODO use better path
+    // TODO dry out?
     const slug = post.fileAbsolutePath.split('/').slice(-2, -1)[0];
     const myPath = localizePath(locale, `${parent}/${slug}`);
     // use this parent template if it exists, otherwise fallback to parent template
@@ -316,10 +315,10 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
       path: myPath,
       component,
       context: {
-        parent,
-        title: post.frontmatter.title,
         locale,
-        localeMetadata: locales[locale].siteMetadata
+        globals: getGlobals(locale, translationsTree),
+        parent,
+        title: post.frontmatter.title
       }
     });
   });

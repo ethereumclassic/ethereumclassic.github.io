@@ -10,7 +10,7 @@ const Navigation = () => {
       <SelectLanguage />
       <div id="page-nav">
         <Translate
-          many={t => (
+          all={t => (
             <Hamburger>
               <NavigationButton to="/" text={t.navHome} />
               <NavigationButton to="/knowledge" text={t.navKnowledge} />

@@ -5,10 +5,10 @@ import LocaleContext from './localeContext';
 const withTranslations = () => Comp => {
   return props => {
     const {
-      pageContext: { locale, localeMetadata, globals }
+      pageContext: { locale, globals }
     } = props;
     return (
-      <LocaleContext.Provider value={{ locale, localeMetadata, globals }}>
+      <LocaleContext.Provider value={{ locale, globals }}>
         <Comp {...props} />
       </LocaleContext.Provider>
     );

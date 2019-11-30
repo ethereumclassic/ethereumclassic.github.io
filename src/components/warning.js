@@ -1,6 +1,8 @@
 // TODO fix accessibility
+// TODO replace close button `x` with an SVG
 /* eslint-disable jsx-a11y/click-events-have-key-events */
 /* eslint-disable jsx-a11y/interactive-supports-focus */
+
 import React from 'react';
 import ButtonLink from './buttonLink';
 import Translate from './translate';
@@ -30,17 +32,17 @@ export default class Warning extends React.Component {
             ╳
           </div>
           <h3>
-            <Translate text="hardForkAlert" />
+            <Translate text="warningTitle" />
           </h3>
           <div className="action">
             <ButtonLink
-              text={<Translate text="upgrade" />}
+              text={<Translate text="warningButton" />}
               to="https://ecips.ethereumclassic.org/ECIPs/ecip-1056"
               icon="angle-right"
             />
           </div>
           <p>
-            <Translate text="aghartaWarning" />
+            <Translate text="warningText" />
           </p>
         </div>
       </div>

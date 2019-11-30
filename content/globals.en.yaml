@@ -1,14 +1,60 @@
-ethereumClassic: Ethereum Classic
-backToHome: Home
-footerText: Made with `<3` for the original Ethereum vision
-# main menu
+##
+# META
+##
+title: Ethereum Classic
+description: | 
+  A decentralized platform that runs smart contracts: applications that run exactly as programmed without downtime, censorship or third party interference
+dateFormat: YYYY/MM/DD
+metaLocale: en_US
+htmlLang: en 
+# bodyClass: roman
+##
+# MAIN MENU
+##
 navHome: Home
 navKnowledge: Knowledge
 navTeams: Teams
 navEcosystem: Ecosystem
 navRoadmap: Roadmap
 navBlog: Blog
-# hard fork banner
-hardForkAlert: Hard Fork Alert
-aghartaWarning: Ethereum Classic is undergoing a planned upgrade "Agharta" around 15 Jan 2020. If you run an ETC node please upgrade as soon as possible.
-upgrade: Upgrade
+##
+# WARNING BANNER
+##
+warningTitle: Hard Fork Alert
+warningText: Ethereum Classic is undergoing a planned upgrade "Agharta" around 15 Jan 2020. If you run an ETC node please upgrade as soon as possible.
+warningButton: Upgrade
+##
+# BLOG POSTS
+##
+latestBlogPosts: Latest Blog Posts
+allBlogPosts: All Blog Posts
+##
+# FOOTER
+##
+discordText: "**ETC participants** are most active on **discord**."
+discordJoin: Join ETC on Discord
+getInvolved: Get Involved
+# community
+communityTitle: Groups
+etcDev: ETCDEV
+iohk: IOHK
+etcCooperative: ETC Cooperative
+etcLabs: ETC Labs
+etcAsia: ETC Asia
+etcKorea: ETC Korea
+etcChina: ETC China
+# social
+socialTitle: Social
+discord: Discord
+telegram: Telegram
+reddit: Reddit
+twitter: Twitter
+# newsletter
+newsletterTitle: Newsletter
+newsletterInfo: Sign up below to get the latest updates straight to your inbox.
+newsletterConfirmation: Thank you for subscribing to the ETC newsletter!
+newsletterEmail: Email
+newsletterSubmit: Sign Up
+newsletterSubmitting: Just a moment...
+# sign off
+footerText: Made with `<3` for the original Ethereum vision

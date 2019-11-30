@@ -1,20 +1,18 @@
 import React from 'react';
 import ButtonLink from './buttonLink';
+import Translate from './translate';
 
 const Discord = () => {
   return (
     <>
       <p>
-        <b> ETC participants </b>
-        are most active on
-        <b> discord</b>
-        .
+        <Translate text="discordText" />
         <br />
         <ButtonLink
           className="massive blue"
           to="https://discordapp.com/invite/HW4GckH"
           fullIcon="icon brands fa-discord"
-          text="Join ETC on Discord"
+          text={<Translate text="discordJoin" />}
         />
       </p>
     </>

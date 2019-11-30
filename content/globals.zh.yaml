@@ -1,11 +1,59 @@
-ethereumClassic: 以太坊經典
-footerText: 以`<3`为原始的以太坊愿景
-navHome: 家
+##
+# META
+##
+title: 以太经典
+description: 以太坊经典区块链
+dateFormat: DD.MM.YYYY
+metaLocale: zh_CN
+htmlLang: zh-CN
+bodyClass: hanzi
+##
+# 主菜单
+##
+navHome: 主页
 navKnowledge: 知识
-navTeams: 队伍
+navTeams: 团队
 navEcosystem: 生态系统
 navRoadmap: 路线图
 navBlog: 博客
-hardForkAlert: 硬叉警报
-aghartaWarning: 以太坊经典正计划在2020年1月15日左右升级 “Agharta”。如果您运行ETC节点，请尽快升级。
-upgrade: 升级
+##
+# 警告横幅
+##
+warningTitle: 硬叉警报
+warningText: Ethereum Classic正在进行2020年1月15日左右的计划升级 “Agharta”。如果您运行ETC节点，请尽快进行升级。
+warningButton: 升级
+##
+# 博客文章
+##
+latestBlogPosts: 最新的博客文章
+allBlogPosts: 所有博客文章
+##
+# 脚
+##
+discordText: ETC参与者在不一致上最活跃。
+discordJoin: 加入Discord上的ETC
+getInvolved: 参与
+# 社区
+communityTitle: 群组
+etcDev: ETCDEV
+iohk: IOHK
+etcCooperative: ETC合作社
+etcLabs: ETC实验室
+etcAsia: ETC亚洲
+etcKorea: ETC韩国
+etcChina: ETC中国
+# 社交
+socialTitle: 社交
+discord: 不和谐
+telegram: 电报
+reddit: Reddit
+twitter: Twitter
+# 通讯
+newsletterTitle: 新闻稿
+newsletterInfo: 在下面注册即可直接将最新更新直接发送到您的收件箱。
+newsletterConfirmation: 感谢您订阅ETC新闻！
+newsletterEmail: 电子邮件
+newsletterSubmit: 注册
+newsletterSubmitting: 请稍等...
+#  登出
+footerText: 以“ <3”制成，以获取原始的以太坊视觉

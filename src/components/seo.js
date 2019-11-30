@@ -17,6 +17,7 @@ const query = graphql`
   }
 `;
 
+// TODO pass the description etc from route...
 // TODO dynamic images, twitter username, etc, locale
 
 const SEO = ({ title, description, article, image }) => {
@@ -28,24 +29,22 @@ const SEO = ({ title, description, article, image }) => {
             query={query}
             render={({ site: { siteMetadata } }) => {
               // from i18n/config
-              const { localeMetadata } = React.useContext(LocaleContext);
+              const { globals } = React.useContext(LocaleContext);
               // prevent 404 from erroring
-              if (!localeMetadata) {
+              if (!globals) {
                 return null;
               }
               // resolved SEO params
               const seo = {
                 title:
-                  !title || title === localeMetadata.title
-                    ? localeMetadata.title
-                    : `${title} - ${localeMetadata.title}`,
-                siteName: localeMetadata.title,
-                description: description || localeMetadata.description,
+                  !title || title === globals.title ? globals.title : `${title} - ${globals.title}`,
+                siteName: globals.title,
+                description: description || globals.description,
                 url: `${siteMetadata.siteUrl}${pathname}`,
                 image: `${siteMetadata.siteUrl}${image || siteMetadata.image}`,
-                locale: localeMetadata.locale,
-                lang: localeMetadata.lang,
-                bodyClass: localeMetadata.bodyClass
+                locale: globals.metaLocale,
+                lang: globals.htmlLang,
+                bodyClass: globals.bodyClass
               };
               return (
                 <>

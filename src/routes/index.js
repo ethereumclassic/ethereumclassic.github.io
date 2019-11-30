@@ -1,49 +1,64 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 
+import html from '../i18n/html';
+
 import Navigation from '~components/navigation';
 import Footer from '~components/footer';
 import Banner from '~components/banner';
 import Section from '~components/section';
 import WideSection from '~components/wideSection';
 import IconGrid from '~components/iconGrid';
-import Mdx from '~components/mdx';
+import ButtonLink from '~components/buttonLink';
 import LatestBlogPosts from '~components/latestBlogPosts';
 
 const Index = ({ pageContext: { i18n }, data: { file } }) => (
   <>
     <Navigation />
     <div id="wrapper">
-      <Banner i18n={i18n.yaml.banner} image={file.childImageSharp.fluid} />
-      <Section className="wide-header" subSection={() => <Mdx code={i18n.mdx.whatIsClassic} />}>
-        <Mdx code={i18n.mdx.whatIsBlockchain} />
+      <Banner i18n={i18n} image={file.childImageSharp.fluid} />
+      <Section className="wide-header" subSection={() => html(i18n.whatIsClassic)}>
+        {html(i18n.whatIsBlockchain)}
       </Section>
       <WideSection className="shaded">
         <IconGrid
           icons={[
             {
-              title: 'Decentralized',
-              text: 'Open and welcoming grassroots community',
+              title: i18n.decentralized,
+              text: i18n.decentralizedText,
               icon: 'fas fa-users'
             },
             {
-              title: 'Immutable',
-              text: "Ledger remains untampered since it's 2015 inception",
+              title: i18n.immutable,
+              text: i18n.immutableText,
               icon: 'fas fa-link'
             },
             {
-              title: 'Unstoppable',
-              text: 'Neutral platform where contracts are honored forever',
+              title: i18n.unstoppable,
+              text: i18n.unstoppableText,
               icon: 'far fa-hourglass'
             }
           ]}
         />
       </WideSection>
       <WideSection className="dark">
-        <Mdx code={i18n.mdx.getStarted} />
+        {html(i18n.getStarted)}
+        <ButtonLink text={i18n.knowledgeBase} to="/knowledge" className="big" icon="angle-right" />
       </WideSection>
-      <Section subSection={() => <Mdx code={i18n.mdx.stayCurrent} />}>
-        <h2>Latest Blog Posts</h2>
+      <Section
+        subSection={() => {
+          return (
+            <>
+              {html(i18n.stayCurrent)}
+              <ButtonLink
+                text={i18n.contributeArticles}
+                to="https://github.com/ethereumclassic/ethereumclassic.github.io"
+                icon="angle-right"
+              />
+            </>
+          );
+        }}
+      >
         <LatestBlogPosts />
       </Section>
       <Footer />

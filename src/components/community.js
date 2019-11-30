@@ -1,18 +1,23 @@
 import React from 'react';
 import ButtonLink from './buttonLink';
+import Translate from './translate';
 
 const Community = () => {
   return (
-    <div className="community">
-      <h3>Groups</h3>
-      <ButtonLink to="https://etcdevteam.com" text="ETCDEV" />
-      <ButtonLink to="https://iohk.io/projects/ethereum-classic/" text="IOHK" />
-      <ButtonLink to="https://etccooperative.org" text="ETC Cooperative" />
-      <ButtonLink to="https://www.etclabs.org/" text="ETC Labs" />
-      <ButtonLink to="http://ethereumclassicasia.org" text="ETC Asia" />
-      <ButtonLink to="https://etckorea.modoo.at/" text="ETC Korea" />
-      <ButtonLink to="http://ethereumclassic.cn" text="ETC China" />
-    </div>
+    <Translate
+      all={t => (
+        <div className="community">
+          <h3>{t.communityTitle}</h3>
+          <ButtonLink to="https://etcdevteam.com" text={t.etcDev} />
+          <ButtonLink to="https://iohk.io/projects/ethereum-classic/" text={t.iohk} />
+          <ButtonLink to="https://etccooperative.org" text={t.etcCooperative} />
+          <ButtonLink to="https://www.etclabs.org/" text={t.etcLabs} />
+          <ButtonLink to="http://ethereumclassicasia.org" text={t.etcAsia} />
+          <ButtonLink to="https://etckorea.modoo.at/" text={t.etcKorea} />
+          <ButtonLink to="http://ethereumclassic.cn" text={t.etcChina} />
+        </div>
+      )}
+    />
   );
 };
 

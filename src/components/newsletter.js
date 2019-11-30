@@ -1,4 +1,5 @@
 import React from 'react';
+import Translate from './translate';
 
 // TODO switch to mailchimp
 
@@ -34,36 +35,46 @@ class Newsletter extends React.Component {
     const { loading, submitted } = this.state;
     return (
       <>
-        <h3>Newsletter</h3>
-        <p>Sign up below to get the latest updates straight to your inbox.</p>
+        <h3>
+          <Translate text="newsletterTitle" />
+        </h3>
+        <p>
+          <Translate text="newsletterInfo" />
+        </p>
         {submitted ? (
           <p>
-            <b>Thank you for subscribing to the ETC newsletter!</b>
+            <b>
+              <Translate text="newsletterConfirmation" />
+            </b>
           </p>
         ) : (
-          <form onSubmit={this.onSubmit}>
-            <div className="fields">
-              <div className="field">
-                <input
-                  type="email"
-                  name="email"
-                  id="email"
-                  placeholder="Email"
-                  disabled={loading ? 'disabled' : null}
-                />
-              </div>
-            </div>
-            <ul className="actions">
-              <li>
-                <input
-                  type="submit"
-                  value="Sign Up"
-                  className="button primary"
-                  disabled={loading ? 'disabled' : null}
-                />
-              </li>
-            </ul>
-          </form>
+          <Translate
+            all={t => (
+              <form onSubmit={this.onSubmit}>
+                <div className="fields">
+                  <div className="field">
+                    <input
+                      type="email"
+                      name="email"
+                      id="email"
+                      placeholder={t.newsletterEmail}
+                      disabled={loading ? 'disabled' : null}
+                    />
+                  </div>
+                </div>
+                <ul className="actions">
+                  <li>
+                    <input
+                      type="submit"
+                      value={loading ? t.newsletterSubmitting : t.newsletterSubmit}
+                      className="button primary"
+                      disabled={loading ? 'disabled' : null}
+                    />
+                  </li>
+                </ul>
+              </form>
+            )}
+          />
         )}
       </>
     );

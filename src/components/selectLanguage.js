@@ -11,19 +11,20 @@ const SelectLanguage = () => {
     <Location>
       {({ location }) => (
         <div className="select-language">
-          {Object.values(locales).map(localeConf => {
+          {Object.keys(locales).map(key => {
             // hide the selected language
-            if (locale === localeConf.path) {
+            if (locale === key) {
               return null;
             }
+            // TODO document this
             const current = location.pathname.includes('/blog') ? '/blog' : location.pathname;
             let link = current.replace(`/${locale}`, '');
-            if (defaultLocale !== localeConf.path) {
-              link = `/${localeConf.path}${link}`;
+            if (defaultLocale !== key) {
+              link = `/${key}${link}`;
             }
             return (
-              <Link key={localeConf.path} to={link} hrefLang={localeConf.path}>
-                {localeConf.flag}
+              <Link key={key} to={link} hrefLang={key}>
+                {locales[key].flag}
               </Link>
             );
           })}
