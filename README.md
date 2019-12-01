@@ -13,7 +13,7 @@ The `staging` branch should then be used to create a PR into `master` (which is 
 
 ## TODOs
 
-* Better docs for for editing content
+* Better docs for editing content
 * Move TODOs into github issues
 
 ### Help Needed
