@@ -2,7 +2,7 @@ import React from 'react';
 
 import Link from './link';
 
-const BlogListItem = ({ post }) => {
+const BlogListItem = ({ post, i18n }) => {
   return (
     <div key={`${post.frontmatter.title}-${post.fields.locale}`} className="blog-item">
       <h4>
@@ -16,7 +16,7 @@ const BlogListItem = ({ post }) => {
       <div>
         {`${post.excerpt} `}
         <Link to={`/${post.parent.relativeDirectory}`} className="read-more">
-          Continue Reading
+          {i18n.continueReading}
           <i className="fas fa-angle-right" />
         </Link>
       </div>

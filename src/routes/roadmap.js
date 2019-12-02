@@ -7,8 +7,6 @@ import Road from '~components/road';
 import Timeline from '~components/timeline';
 import PageLayout from '~components/pageLayout';
 
-// TODO make i18n keys automatically better...
-
 const Roadmap = ({ pageContext: { i18n } }) => {
   return (
     <PageLayout wide>
