@@ -8,7 +8,6 @@ const LinkSection = ({ to, children, title, text }) => {
         <Link to={to}>{title}</Link>
       </h3>
       {text || children}
-      <br />
     </div>
   );
 };

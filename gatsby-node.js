@@ -19,7 +19,7 @@ async function processYamlMarkdown(obj) {
       const { contents } = await remark()
         .use(markdown, { sanitize: true })
         .use(remark2rehype)
-        // strip <p> tags if there's only one line
+        // strip <p> tags if there's only one line (use `>` to bring back)
         .use(() => tree => {
           if (tree.children.length === 1 && tree.children[0].children) {
             // eslint-disable-next-line no-param-reassign

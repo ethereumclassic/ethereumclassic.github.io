@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from '../assets/images/etc-black.svg';
 import Link from './link';
+import Translate from './translate';
 
 const Header = ({ link }) => {
   return (
@@ -8,7 +9,9 @@ const Header = ({ link }) => {
       <header>
         <img src={logo} alt="Ethereum Classic Logo" />
         <h1>
-          <Link to="/">Ethereum Classic</Link>
+          <Link to="/">
+            <Translate text="title" />
+          </Link>
           {link && (
             <>
               {' '}
