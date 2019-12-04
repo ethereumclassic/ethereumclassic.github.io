@@ -7,6 +7,9 @@ dateFormat: DD.MM.YYYY
 metaLocale: zh_CN
 htmlLang: zh-CN
 bodyClass: hanzi
+notFound: 找不到网页
+notFoundText: 抱歉，此页面无法使用您的语言。
+goBack: 回去
 ##
 # 主菜单
 ##
@@ -56,4 +59,4 @@ newsletterEmail: 电子邮件
 newsletterSubmit: 注册
 newsletterSubmitting: 请稍等...
 #  登出
-footerText: 以“ <3”制成，以获取原始的以太坊视觉
+footerText: 以`<3`制成，以获取原始的以太坊视觉

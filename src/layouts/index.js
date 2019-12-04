@@ -4,16 +4,17 @@ import '../assets/sass/main.scss';
 
 import withTranslations from '../i18n/withTranslations';
 
-import Warning from '~components/warning';
-import SEO from '~components/seo';
+import LocaleContext from '../i18n/localeContext';
 
-const warningEnabled = true;
+import SEO from '~components/seo';
+import Warning from '~components/warning';
 
 const Index = ({ children }) => {
+  const { locale } = React.useContext(LocaleContext);
   return (
     <>
       <SEO />
-      {warningEnabled && <Warning />}
+      <Warning enabled={!!locale} />
       {children}
     </>
   );

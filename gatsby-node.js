@@ -34,6 +34,8 @@ async function processYamlMarkdown(obj) {
   return transformed;
 }
 
+// TODO refactor this
+
 function parsePath(str) {
   // get relative path
   const relativePath = str.replace(__dirname, '');
@@ -48,7 +50,7 @@ function parsePath(str) {
     ext = lang;
     lang = null;
   }
-  const isGlobal = slug === 'content' && name === 'global';
+  const isGlobal = slug === 'content' && name === 'globals';
   // if it's content, get the subcategory
   const hasParent = isContent && tree.length === 5;
   const parent = hasParent ? tree[2] : null;
@@ -209,7 +211,6 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
       yamlTranslations: allFile(filter: { fields: { translation: { eq: true } } }) {
         edges {
           node {
-            id
             absolutePath
             fields {
               locale

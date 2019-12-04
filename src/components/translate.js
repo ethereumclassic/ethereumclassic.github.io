@@ -5,7 +5,7 @@ import LocaleContext from '../i18n/localeContext';
 // NOTE: this component only used for fetching global translation strings in `/content/globals.xx.yaml`
 
 const Translate = ({ text, all }) => {
-  const { globals } = React.useContext(LocaleContext);
+  const { globals = {} } = React.useContext(LocaleContext);
   if (text) {
     return html(globals[text] || `__${text}__`);
   }

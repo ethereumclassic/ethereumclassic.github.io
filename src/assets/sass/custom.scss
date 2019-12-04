@@ -865,3 +865,15 @@ body.hanzi {
     font-size: 1.5rem;
   }
 }
+
+.four-oh-four {
+  max-width: 30rem;
+  margin: auto;
+  text-align: center;
+  padding: $hugePadding $smallPadding;
+  img { 
+    max-width: 3rem;
+    margin: $smallPadding;
+  }
+
+}

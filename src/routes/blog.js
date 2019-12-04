@@ -3,7 +3,6 @@ import { graphql } from 'gatsby';
 
 import html from '../i18n/html';
 import ButtonLink from '~components/buttonLink';
-import Mdx from '~components/mdx';
 import BlogListItem from '~components/blogListItem';
 import DefaultLanguageHidden from '~components/defaultLanguageHidden';
 import PageLayout from '~components/pageLayout';
@@ -11,6 +10,7 @@ import PageLayout from '~components/pageLayout';
 // TODO a way to show posts from all languages etc...
 
 const Blog = ({ data: { allMdx }, pageContext: { i18n } }) => {
+  const hasPosts = allMdx.edges.length !== 0;
   return (
     <PageLayout seo={i18n}>
       {html(i18n.intro)}
@@ -20,21 +20,16 @@ const Blog = ({ data: { allMdx }, pageContext: { i18n } }) => {
         icon="angle-right"
       />
       <hr />
-      <h2>{i18n.latestArticles}</h2>
-      {allMdx.edges.length === 0 ? (
-        <div>
-          <p>{i18n.noPosts}</p>
-          <DefaultLanguageHidden>
-            <ButtonLink notLocalized to="/blog" text={i18n.englishPosts} />
-          </DefaultLanguageHidden>
-        </div>
-      ) : (
-        <div className="blog-list">
-          {allMdx.edges.map(({ node: post }) => (
+      <DefaultLanguageHidden>
+        <ButtonLink notLocalized to="/blog" text={i18n.englishPosts} style={{ float: 'right' }} />
+      </DefaultLanguageHidden>
+      <h2>{hasPosts ? i18n.latestArticles : i18n.noPosts}</h2>
+      <div className="blog-list">
+        {hasPosts &&
+          allMdx.edges.map(({ node: post }) => (
             <BlogListItem post={post} key={post.parent.relativeDirectory} i18n={i18n} />
           ))}
-        </div>
-      )}
+      </div>
     </PageLayout>
   );
 };

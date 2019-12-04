@@ -7,19 +7,28 @@ import React from 'react';
 import ButtonLink from './buttonLink';
 import Translate from './translate';
 
+// toggle this to enable or disable globally
+const enabled = true;
+
 export default class Warning extends React.Component {
   constructor(props) {
     super(props);
+    this.enabled = props.enabled && enabled;
     this.state = { showing: false };
   }
 
   componentDidMount() {
-    setTimeout(() => {
-      this.setState({ showing: true });
-    }, 2 * 1000);
+    if (this.enabled) {
+      setTimeout(() => {
+        this.setState({ showing: true });
+      }, 2 * 1000);
+    }
   }
 
   render() {
+    if (!this.enabled) {
+      return null;
+    }
     const { showing } = this.state;
     return (
       <div className={`warning-container ${!showing ? 'hidden' : ''}`}>

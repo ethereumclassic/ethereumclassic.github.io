@@ -2,9 +2,10 @@ import React from 'react';
 
 import Link from './link';
 
-const BackButton = ({ children, text, to, ...props }) => {
+const BackButton = ({ children, text, to, automatic, ...props }) => {
+  const onClick = automatic && (() => window.history.back());
   return (
-    <Link className="button-link" to={to} {...props}>
+    <Link className="button-link" onClick={onClick} to={to} {...props}>
       <i className="fas fa-angle-left" />
       {text || children}
     </Link>

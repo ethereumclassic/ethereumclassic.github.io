@@ -7,6 +7,10 @@ description: |
 dateFormat: YYYY/MM/DD
 metaLocale: en_US
 htmlLang: en 
+bodyClass: default
+notFound: Page not found
+notFoundText: Sorry, this page doesn't exist
+goBack: Go Back
 # bodyClass: roman
 ##
 # MAIN MENU

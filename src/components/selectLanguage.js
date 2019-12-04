@@ -16,9 +16,12 @@ const SelectLanguage = () => {
             if (locale === key) {
               return null;
             }
-            // TODO document this
-            const current = location.pathname.includes('/blog') ? '/blog' : location.pathname;
-            let link = current.replace(`/${locale}`, '');
+            // if we're in a sub-page like /blog/xxx or /knowledge/xxx, go to the root page
+            let link = location.pathname.replace(`/${locale}/`, '/');
+            const fragments = link.split('/');
+            if (fragments.length >= 3) {
+              link = `/${fragments[1]}`;
+            }
             if (defaultLocale !== key) {
               link = `/${key}${link}`;
             }

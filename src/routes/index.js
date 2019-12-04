@@ -3,6 +3,7 @@ import { graphql } from 'gatsby';
 
 import html from '../i18n/html';
 
+import GlobalLayout from '~components/globalLayout';
 import Navigation from '~components/navigation';
 import Footer from '~components/footer';
 import Banner from '~components/banner';
@@ -13,7 +14,7 @@ import ButtonLink from '~components/buttonLink';
 import LatestBlogPosts from '~components/latestBlogPosts';
 
 const Index = ({ pageContext: { i18n }, data: { file } }) => (
-  <>
+  <GlobalLayout>
     <Navigation />
     <div id="wrapper">
       <Banner i18n={i18n} image={file.childImageSharp.fluid} />
@@ -63,7 +64,7 @@ const Index = ({ pageContext: { i18n }, data: { file } }) => (
       </Section>
       <Footer />
     </div>
-  </>
+  </GlobalLayout>
 );
 
 export default Index;

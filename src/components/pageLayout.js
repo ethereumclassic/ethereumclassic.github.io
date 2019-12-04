@@ -1,13 +1,14 @@
 import React from 'react';
 
-import SEO from './seo';
 import Footer from './footer';
-import Navigation from './navigation';
+import SEO from './seo';
 import Header from './header';
+import GlobalLayout from './globalLayout';
+import Navigation from './navigation';
 
-const PageLayout = ({ children, link, seo, wide }) => {
+const PageLayout = ({ children, seo, link, wide }) => {
   return (
-    <>
+    <GlobalLayout>
       <SEO {...seo} />
       <Navigation />
       <div id="wrapper" className={`page ${wide ? 'wide' : ''}`}>
@@ -17,7 +18,7 @@ const PageLayout = ({ children, link, seo, wide }) => {
         </div>
         <Footer />
       </div>
-    </>
+    </GlobalLayout>
   );
 };
 
