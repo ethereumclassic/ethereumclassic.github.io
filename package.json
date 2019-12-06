@@ -23,7 +23,7 @@
     "eslint-config-prettier": "^6.4.0",
     "eslint-import-resolver-alias": "^1.1.2",
     "eslint-plugin-prettier": "^3.1.1",
-    "gatsby": "^2.17.1",
+    "gatsby": "^2.18.7",
     "gatsby-image": "^2.2.29",
     "gatsby-plugin-favicon": "^3.1.6",
     "gatsby-plugin-layout": "^1.1.6",
