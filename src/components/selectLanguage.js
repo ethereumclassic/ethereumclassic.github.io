@@ -12,10 +12,11 @@ const SelectLanguage = () => {
       {({ location }) => (
         <div className="select-language">
           {Object.keys(locales).map(key => {
-            // hide the selected language
+            // hide the current language
             if (locale === key) {
               return null;
             }
+            // TODO replace this with 404 tree traversal logic
             // if we're in a sub-page like /blog/xxx or /knowledge/xxx, go to the root page
             let link = location.pathname.replace(`/${locale}/`, '/');
             const fragments = link.split('/');
@@ -26,7 +27,7 @@ const SelectLanguage = () => {
               link = `/${key}${link}`;
             }
             return (
-              <Link key={key} to={link} hrefLang={key}>
+              <Link key={key} to={link} hrefLang={key} state={{ languageChange: true }}>
                 {locales[key].flag}
               </Link>
             );
