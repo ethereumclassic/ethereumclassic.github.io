@@ -4,7 +4,15 @@ date: 2016-08-13
 author: Ethereum Classic
 ---
 
-- <a href="#translations">PDFs & Translations</a>
+<b>PDF Version:</b>
+ <a href="/ETC_Declaration_of_Independence.pdf">English</a>
+ <a href="/ETC_Declaration_of_Independence_chinese.pdf">中文</a>
+ <a href="/ETC_Declaration_of_Independence_russian.pdf">русский</a>
+ <a href="/ETC_Declaration_of_Independence_vietnamese.pdf">Tiếng Việt</a>
+ <a href="/ETC_Declaration_of_Independence_german.pdf">Deutsche</a>
+ <a href="/ETC_Declaration_of_Independence_italian.pdf">Italiano</a>
+
+---
 
 Let it be known to the entire world that on July 20th, 2016, at block 1,920,000, we as a community of sovereign individuals stood united by a common vision to continue the original Ethereum blockchain that is truly *free from censorship, fraud or third party interference*. In realizing, that the blockchain represents absolute truth, we stand by it, supporting its immutability and its future. We do not make this declaration lightly, or without forethought to the consequences of our actions.
 
@@ -81,16 +89,3 @@ We likewise will openly resist the “tyranny of the majority,” and will not a
 8. https://bitcoin.org/bitcoin.pdf
 9. https://github.com/ethereumclassic
 10. Anti-fragile: “Things, That Gain from Disorder” by Nassim Nicholas Taleb
-
----
-
-### <a name="translations"></a>Translations
-
-This documnet is also available in PDF format in various translations:
-
-- [English](/ETC_Declaration_of_Independence.pdf)
-- [中文](/ETC_Declaration_of_Independence_chinese.pdf)
-- [русский](/ETC_Declaration_of_Independence_russian.pdf)
-- [Tiếng Việt](/ETC_Declaration_of_Independence_vietnamese.pdf)
-- [Deutsche](/ETC_Declaration_of_Independence_german.pdf)
-- [Italiano](/ETC_Declaration_of_Independence_italian.pdf)

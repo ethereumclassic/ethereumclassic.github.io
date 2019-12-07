@@ -4,7 +4,16 @@ date: 2016-07-11
 author: Arvicco
 ---
 
-- <a href="#translations">PDFs & Translations</a>
+
+<b>PDF Version:</b>
+ <a href="/A_Crypto-Decentralist_Manifesto.pdf">English</a>
+ <a href="/A_Crypto-Decentralist_Manifesto_vietnamese.pdf">Tiếng Việt</a>
+ <a href="/A_Crypto-Decentralist_Manifesto_russian.pdf">русский</a>
+ <a href="/A_Crypto-Decentralist_Manifesto_german.pdf">Deutsche</a>
+ <a href="/A_Crypto-Decentralist_Manifesto_italian.pdf">Italiano</a>
+
+---
+
 
 ![Decentralize!](./1*gMu8qJtr2NeEuuGzvsfcnw.png)
 
@@ -46,15 +55,3 @@ introduce new centralization risks or strengthen existing ones should be fought.
 The blockchain revolution won’t be centralized. Let’s make sure of it.
 
 **Onward.**
-
----
-
-### <a name="translations"></a>Translations
-
-This documnet is also available in PDF format in various translations:
-
-- [English](/A_Crypto-Decentralist_Manifesto.pdf)
-- [Tiếng Việt](/A_Crypto-Decentralist_Manifesto_vietnamese.pdf)
-- [русский](/A_Crypto-Decentralist_Manifesto_russian.pdf)
-- [Deutsche](/A_Crypto-Decentralist_Manifesto_german.pdf)
-- [Italiano](/A_Crypto-Decentralist_Manifesto_italian.pdf)
