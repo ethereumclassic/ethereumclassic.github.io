@@ -1,55 +1,40 @@
 import React from 'react';
-import { StaticQuery, graphql } from 'gatsby';
 
 import ButtonLink from './buttonLink';
 import LatestBlogPostsItem from './latestBlogPostsItem';
 import Translate from './translate';
 
-const LatestBlogPosts = () => {
+const LatestBlogPosts = ({ articles: { edges } }) => {
   return (
-    <StaticQuery
-      query={graphql`
-        query FrontPageBlogItems {
-          allMdx(
-            filter: { fields: { parent: { eq: "blog" } } }
-            sort: { fields: [frontmatter___date], order: DESC }
-            limit: 3
-          ) {
-            edges {
-              node {
-                excerpt
-                frontmatter {
-                  title
-                  date
-                  author
-                }
-                fields {
-                  locale
-                }
-                parent {
-                  ... on File {
-                    relativeDirectory
-                  }
-                }
-              }
-            }
-          }
-        }
-      `}
-      render={({ allMdx: { edges } }) => (
-        <div className="latest-blog-posts">
-          <h2>
-            <Translate text="latestBlogPosts" />
-          </h2>
+    <div className="latest-blog-posts">
+      <h2>
+        <Translate text="latestArticles" />
+      </h2>
+      {edges.length === 0 ? (
+        <>
+          <p>
+            <b>
+              <Translate text="noPosts" />
+            </b>
+          </p>
+          <ButtonLink
+            notLocalized
+            to="/blog"
+            text={<Translate text="englishPosts" />}
+            icon="angle-right"
+          />
+        </>
+      ) : (
+        <>
           <div className="items">
             {edges.map(edge => (
               <LatestBlogPostsItem data={edge.node} key={edge.node.frontmatter.title} />
             ))}
           </div>
           <ButtonLink to="/blog" text={<Translate text="allBlogPosts" />} icon="angle-right" />
-        </div>
+        </>
       )}
-    />
+    </div>
   );
 };
 

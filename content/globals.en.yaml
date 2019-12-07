@@ -4,7 +4,7 @@
 title: Ethereum Classic
 description: | 
   A decentralized platform that runs smart contracts: applications that run exactly as programmed without downtime, censorship or third party interference
-dateFormat: YYYY/MM/DD
+dateFormat: YYYY.MM.DD
 metaLocale: en_US
 htmlLang: en 
 bodyClass: default
@@ -34,8 +34,12 @@ warningButton: Upgrade
 ##
 # BLOG POSTS
 ##
-latestBlogPosts: Latest Blog Posts
 allBlogPosts: All Blog Posts
+submitArticle: Submit your Article
+latestArticles: Latest Articles
+noPosts: No posts in your selected language.
+englishPosts: English Posts
+continueReading: Continue Reading
 ##
 # FOOTER
 ##

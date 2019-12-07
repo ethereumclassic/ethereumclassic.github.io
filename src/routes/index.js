@@ -13,7 +13,7 @@ import IconGrid from '~components/iconGrid';
 import ButtonLink from '~components/buttonLink';
 import LatestBlogPosts from '~components/latestBlogPosts';
 
-const Index = ({ pageContext: { i18n }, data: { file } }) => (
+const Index = ({ pageContext: { i18n }, data: { file, allMdx: blogArticles } }) => (
   <GlobalLayout>
     <Navigation />
     <div id="wrapper">
@@ -60,7 +60,7 @@ const Index = ({ pageContext: { i18n }, data: { file } }) => (
           );
         }}
       >
-        <LatestBlogPosts />
+        <LatestBlogPosts articles={blogArticles} />
       </Section>
       <Footer />
     </div>
@@ -70,11 +70,35 @@ const Index = ({ pageContext: { i18n }, data: { file } }) => (
 export default Index;
 
 export const query = graphql`
-  query {
+  query Landing($locale: String!) {
     file(relativePath: { eq: "banner.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 1200, quality: 80) {
           ...GatsbyImageSharpFluid_noBase64
+        }
+      }
+    }
+    allMdx(
+      filter: { fields: { locale: { eq: $locale }, parent: { eq: "blog" } } }
+      limit: 3
+      sort: { fields: [frontmatter___date], order: DESC }
+    ) {
+      edges {
+        node {
+          excerpt
+          frontmatter {
+            title
+            date
+            author
+          }
+          fields {
+            locale
+          }
+          parent {
+            ... on File {
+              relativeDirectory
+            }
+          }
         }
       }
     }

@@ -1,4 +1,3 @@
-//  TODO use i18n
 import React from 'react';
 
 import Grid from './grid';

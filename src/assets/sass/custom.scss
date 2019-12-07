@@ -1,11 +1,11 @@
 // TODO replace all colors with variables
 // TODO refactor
 
-$softShadow: 0 0.5rem 1rem rgba(0,0,0,.1);
-$solidBottom:  2px solid rgba(0,0,0,.2);
+$softShadow: 0 0.5rem 1rem rgba(0, 0, 0, .1);
+$solidBottom: 2px solid rgba(0, 0, 0, .2);
 
 $maxPageWidth: 55rem;
-$maxWideSectionWidth: $maxPageWidth + 30rem;
+$maxWideSectionWidth: $maxPageWidth+30rem;
 
 $largePadding: 4rem;
 $hugePadding: $largePadding * 2;
@@ -19,13 +19,15 @@ $nanoPadding: $microPadding / 2;
 ::-webkit-scrollbar {
   width: 6px;
   height: 6px;
-}    
+}
+
 ::-webkit-scrollbar-thumb {
   background: black;
 }
+
 body {
   ::-webkit-scrollbar-thumb {
-    background: rgba(0,0,0,.3);
+    background: rgba(0, 0, 0, .3);
   }
 }
 
@@ -65,15 +67,17 @@ h3 {
   font-size: 1.2rem;
 }
 
-h3, h5 {
+h3,
+h5 {
   text-transform: none;
   letter-spacing: inherit;
 }
+
 h4 small {
   text-transform: none;
 }
 
-section > p:last-child {
+section>p:last-child {
   margin-bottom: 0;
 }
 
@@ -83,24 +87,30 @@ section > p:last-child {
   .layout-container {
     background: white;
   }
+
   .layout-content {
     margin: auto;
     max-width: $maxPageWidth;
     padding: $largePadding;
+
     @include breakpoint('<=small') {
       padding: $smallPadding;
     }
   }
-  &.wide .layout-content{
+
+  &.wide .layout-content {
     max-width: none;
     margin: 0;
     padding: $smallPadding 0;
-    > section {
+
+    >section {
       max-width: $maxPageWidth;
       padding: $smallPadding $largePadding;
+
       @include breakpoint('<=small') {
         padding: 0 $smallPadding;
       }
+
       margin: auto;
       display: block;
     }
@@ -115,33 +125,45 @@ section > p:last-child {
 
 #page-header {
   background: _palette(accent);
+
   header {
     max-width: $maxPageWidth;
     padding: $tinyPadding $largePadding;
     margin: auto;
+
     @include breakpoint('<=small') {
       padding: $tinyPadding $smallPadding;
     }
   }
+
   img {
     max-width: 30px;
+
     @include breakpoint('<=small') {
       max-width: 20px;
     }
+
     margin-right: $tinyPadding;
     display: inline;
   }
+
   a {
     border-bottom: none;
-    &:hover { color: white; }
+
+    &:hover {
+      color: white;
+    }
   }
+
   h1 {
     margin: 0;
     display: inline;
     font-size: 2.5rem;
+
     @include breakpoint('<=small') {
       font-size: $smallPadding;
     }
+
     small {
       font-size: 1rem;
       text-transform: uppercase;
@@ -159,15 +181,21 @@ section > p:last-child {
   z-index: 20;
   transition: opacity .5s ease-in-out;
   pointer-events: none;
+
   &.hidden {
     opacity: 0;
     user-select: none;
+
     .warning-overlay {
       pointer-events: none;
     }
   }
+
   .warning-overlay {
-    * { color: white; }
+    * {
+      color: white;
+    }
+
     pointer-events: auto;
     position: relative;
     background: rgba(255, 27, 27, 0.9);
@@ -179,6 +207,7 @@ section > p:last-child {
     border-radius: 10px;
     padding: 10px 20px;
     font-size: 0.8rem;
+
     .close-button {
       position: absolute;
       top: 0;
@@ -188,10 +217,13 @@ section > p:last-child {
       cursor: pointer;
       text-align: center;
     }
-    h3, p {
+
+    h3,
+    p {
       line-height: 1.2rem;
       margin: 0.2rem 0;
     }
+
     .action {
       float: right;
       padding-left: 1rem;
@@ -207,12 +239,16 @@ section > p:last-child {
   right: 0;
   z-index: 10;
   user-select: none;
-  > div, > nav {
+
+  >div,
+  >nav {
     display: inline-block;
   }
+
   label {
-    background: rgba(0,0,0,0.1);
+    background: rgba(0, 0, 0, 0.1);
   }
+
   a {
     border-bottom: 0;
   }
@@ -234,10 +270,12 @@ section > p:last-child {
 .hamburger {
   $buttonSize: 2.5rem;
   $dropdownPadding: 10px;
-  input + label {
+
+  input+label {
     &::before {
       display: none;
     }
+
     display: inline-block;
     cursor: pointer;
     user-select: none;
@@ -251,6 +289,7 @@ section > p:last-child {
     font-weight: 100;
     margin-bottom: $dropdownPadding;
   }
+
   .buttons {
     display: none;
     position: absolute;
@@ -262,15 +301,18 @@ section > p:last-child {
     overflow-y: auto;
     box-shadow: $softShadow;
   }
+
   a {
     display: block;
     cursor: pointer;
   }
-  input:checked + label {
+
+  input:checked+label {
     background-color: black !important;
     color: white;
   }
-  input:checked ~ .buttons {
+
+  input:checked~.buttons {
     display: block;
   }
 }
@@ -281,30 +323,44 @@ section > p:last-child {
   background: white;
   position: relative;
   padding: $largePadding;
+
   @include breakpoint('<=small') {
     padding: $largePadding $smallPadding;
   }
+
   .container {
     max-width: $maxPageWidth;
     margin: auto;
+
     &.full {
       max-width: none;
     }
   }
+
   &.shaded {
     background: #f5f5f5;
   }
 }
+
 .dark {
   background: _palette(accent-dark);
-  &, h1, h2, h3, h4, p, a {
+
+  &,
+  h1,
+  h2,
+  h3,
+  h4,
+  p,
+  a {
     color: white;
   }
+
   .button-link {
-    background: rgba(255,255,255,.2);
+    background: rgba(255, 255, 255, .2);
     box-shadow: $softShadow;
+
     &:hover {
-      background: rgba(255,255,255,.1);
+      background: rgba(255, 255, 255, .1);
     }
   }
 }
@@ -316,28 +372,34 @@ section > p:last-child {
   padding: 0 0.6rem;
   display: inline-block;
   white-space: nowrap;
-  background: rgba(0,0,0,.05);
-  border-bottom: 2px solid rgba(0,0,0,0.1);
+  background: rgba(0, 0, 0, .05);
+  border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+
   &:hover {
-    background: rgba(255,255,255,.3);
+    background: rgba(255, 255, 255, .3);
   }
+
   &.big {
     padding: 0.2em 1rem;
     font-size: 1.2rem;
   }
+
   &.massive {
     font-size: 1.5rem;
     font-weight: bold;
-    border-bottom: 3px solid rgba(0,0,0,.3);
+    border-bottom: 3px solid rgba(0, 0, 0, .3);
   }
+
   &.blue {
-    background: rgba(0,0,100,.3);
+    background: rgba(0, 0, 100, .3);
+
     &:hover {
-      background: rgba(0,0,150,.4);
+      background: rgba(0, 0, 150, .4);
     }
+
     box-shadow: $softShadow;
     color: white;
-    text-shadow: 0 1px 2px rgba(0,0,0,.5);
+    text-shadow: 0 1px 2px rgba(0, 0, 0, .5);
   }
 }
 
@@ -350,12 +412,16 @@ section > p:last-child {
   margin-bottom: $smallPadding;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: auto;
+
   @include breakpoint('<=small') {
     grid-template-columns: 1fr !important;
   }
-  &.wide, &.semi {
+
+  &.wide,
+  &.semi {
     padding: 0 $smallPadding;
   }
+
   &.semi {
     max-width: $maxWideSectionWidth;
     margin: auto;
@@ -363,7 +429,9 @@ section > p:last-child {
 }
 
 #wrapper.page {
-  .grid.wide, .grid.semi {
+
+  .grid.wide,
+  .grid.semi {
     margin-bottom: $largePadding;
   }
 }
@@ -375,6 +443,7 @@ section > p:last-child {
   margin: $smallPadding;
   $bgSize: 8rem;
   $iconSize: 4rem;
+
   .icon-item {
     background: _palette(accent);
     color: black;
@@ -395,33 +464,42 @@ section > p:last-child {
   padding-bottom: $smallPadding;
   background: white;
   box-shadow: $softShadow;
+
   h4 {
     background: _palette(accent);
     padding: $tinyPadding;
     text-align: center;
   }
+
   &.orange h4 {
     background: _palette(orange-col);
   }
+
   &.red h4 {
     background: _palette(red-col);
   }
+
   .content {
     padding: 0 $smallPadding;
   }
+
   h5 {
     margin-bottom: $microPadding;
     margin-top: $tinyPadding;
   }
 }
+
 a.card {
   border-bottom: none;
-  &:hover{
+
+  &:hover {
     background: _palette(accent);
   }
+
   &.orange:hover {
     background: _palette(orange-col);
   }
+
   &.red:hover {
     background: _palette(red-col);
   }
@@ -435,6 +513,7 @@ a.card {
   $logoSize: 70px;
   $logoSizeSmall: 40px;
   $headerMargin: $logoSize + 30px;
+
   header {
     img.logo {
       float: right;
@@ -442,33 +521,43 @@ a.card {
       margin-right: -$logoSize;
       margin-top: -$headerMargin;
     }
+
     @include breakpoint('<=medium') {
-      h1, p {
-      padding-left: $headerMargin;
+
+      h1,
+      p {
+        padding-left: $headerMargin;
       }
+
       img.logo {
         float: left;
         margin-left: -$headerMargin;
         margin-top: 0;
       }
     }
+
     @include breakpoint('<=small') {
       h1 {
         font-size: 3.5rem;
         padding-top: $smallPadding;
       }
-      h1, p {
+
+      h1,
+      p {
         padding-left: $logoSize;
       }
+
       img.logo {
         max-width: $logoSizeSmall;
         margin-left: -$logoSize;
       }
+
       b {
         display: block;
       }
     }
   }
+
   .overlay {
     position: absolute;
     z-index: 1;
@@ -476,12 +565,14 @@ a.card {
     right: 0;
     margin-top: $largePadding;
     padding: $smallPadding $largePadding;
-    text-shadow: 0 1px 2px rgba(0,0,0,.4);
-    background: linear-gradient(45deg, rgba(0,0,0,.6), transparent);
+    text-shadow: 0 1px 2px rgba(0, 0, 0, .4);
+    background: linear-gradient(45deg, rgba(0, 0, 0, .6), transparent);
+
     @include breakpoint('<=medium') {
       margin-top: -$smallPadding;
       padding: $tinyPadding $hugePadding;
     }
+
     @include breakpoint('<=small') {
       margin-top: 0;
       padding: $smallPadding;
@@ -491,6 +582,7 @@ a.card {
       font-size: 1.5rem;
       margin: 0;
     }
+
     p {
       margin: $tinyPadding 0;
     }
@@ -502,12 +594,15 @@ a.card {
 .bars {
   margin-bottom: $largePadding;
   font-weight: bold;
-  > div {
+
+  >div {
     margin-top: $tinyPadding;
   }
+
   .bar {
-    background: rgba(0,0,0,.5);
+    background: rgba(0, 0, 0, .5);
     height: $nanoPadding;
+
     .fill {
       height: 100%;
       background: _palette(accent);
@@ -523,21 +618,28 @@ a.card {
     width: 100%;
     box-shadow: $softShadow;
   }
-  h3, p, h4 {
+
+  h3,
+  p,
+  h4 {
     margin: 0;
   }
+
   .icons {
     position: absolute;
     margin-top: -3.2rem;
+
     a.icon {
       color: white;
-      background-color: rgba(0,0,0,0.5);
+      background-color: rgba(0, 0, 0, 0.5);
+
       &:hover {
-        background-color: rgba(255,255,255,.6);
+        background-color: rgba(255, 255, 255, .6);
         color: black;
       }
     }
   }
+
   @include breakpoint('<=small') {
     & {
       display: grid;
@@ -548,17 +650,22 @@ a.card {
 }
 
 .education-menu {
-  &.full, &.compact {
+
+  &.full,
+  &.compact {
     .item {
       margin: $smallPadding 0;
     }
+
     header {
       margin-top: $largePadding;
       margin-bottom: $tinyPadding;
     }
+
     h2 {
       margin-bottom: $tinyPadding;
     }
+
     h3 {
       margin-bottom: $tinyPadding;
     }
@@ -567,23 +674,31 @@ a.card {
   &.compact .item {
     margin: 0;
     display: inline-block;
-    &.back{
+
+    &.back {
       display: block;
     }
   }
+
   &.collapsed {
     position: relative;
+
     .item {
       display: block;
     }
+
     .hamburger {
       position: absolute;
       top: 0;
       right: 0;
     }
-    h2, header, .item {
+
+    h2,
+    header,
+    .item {
       margin: 0;
     }
+
     h2 {
       margin: 0 $tinyPadding;
       font-size: 1rem;
@@ -596,17 +711,21 @@ a.card {
 
 .legend {
   margin-bottom: $smallPadding;
+
   .key {
     white-space: nowrap;
     display: inline-block;
     margin: 0 $microPadding $microPadding 0;
     padding: 0 $microPadding;
+
     &.green {
       background: _palette(accent);
     }
+
     &.orange {
       background: _palette(orange-col);
     }
+
     &.red {
       background: _palette(red-col);
     }
@@ -619,6 +738,7 @@ a.card {
   background: #efefef;
   padding: $smallPadding !important;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+
   .card .content {
     max-height: 10rem;
     overflow-y: auto;
@@ -629,20 +749,36 @@ a.card {
 
 .blog-item {
   margin: $largePadding 0;
+
   h3 {
     margin-bottom: $tinyPadding;
+
     a {
       border: 0;
     }
   }
+
   h4 {
     margin: 0
   }
 }
 
 .latest-blog-posts {
-  h4, h3 {
+
+  h4,
+  h3 {
     margin: 0;
+  }
+
+  a.item {
+    margin: 0 (-$tinyPadding);
+    padding: $tinyPadding;
+    display: block;
+    border-bottom: none;
+    p { margin: 0; }
+    &:hover {
+      background: rgba(0,0,0,0.05);
+    }
   }
 }
 
@@ -652,6 +788,7 @@ a.card {
 
 .link-section {
   margin-top: $smallPadding;
+
   img {
     float: left;
     width: 100px;
@@ -664,26 +801,34 @@ a.card {
 
 .fork-timeline {
   margin-bottom: $smallPadding;
+
   .items {
     background: #eee;
     white-space: nowrap;
     overflow-x: auto;
   }
+
   .scroll-info {
     opacity: 0.5;
   }
-  .items, .scroll-info {
+
+  .items,
+  .scroll-info {
     padding: 0 $largePadding;
+
     @include breakpoint('<=small') {
       padding: 0 $smallPadding;
     }
   }
+
   .item:first-child .date {
     border-radius: 1rem 0 0 1rem;
   }
+
   .item:last-child .date {
     border-radius: 0 1rem 1rem 0;
   }
+
   .item {
     $iconSize: 4rem;
     margin: $smallPadding 0;
@@ -693,10 +838,13 @@ a.card {
     display: inline-block;
     width: 16rem;
     white-space: normal;
-    .date, .icon {
+
+    .date,
+    .icon {
       color: white;
       background: grey;
     }
+
     .date {
       margin-bottom: $stickHeight;
       text-transform: uppercase;
@@ -704,6 +852,7 @@ a.card {
       font-weight: bold;
       letter-spacing: 0.1rem;
     }
+
     .icon {
       margin-top: $stickHeight;
       width: $iconSize;
@@ -713,6 +862,7 @@ a.card {
       font-size: $iconSize - 2rem;
       border-radius: 100%;
       display: block;
+
       &::after {
         content: '';
         width: 1rem;
@@ -723,58 +873,95 @@ a.card {
         margin-top: (-$stickHeight) + (-$iconSize);
       }
     }
-    .date, .icon, .icon::after {
+
+    .date,
+    .icon,
+    .icon::after {
       background: #797979;
     }
+
     &.red {
-      .date, .icon, .icon::after {
+
+      .date,
+      .icon,
+      .icon::after {
         background: _palette(dark-red-col);
       }
     }
+
     &.green {
-      .date, .icon, .icon::after {
+
+      .date,
+      .icon,
+      .icon::after {
         background: _palette(accent);
         color: inherit;
       }
     }
+
     &.purple {
-      .date, .icon, .icon::after {
+
+      .date,
+      .icon,
+      .icon::after {
         background: _palette(dark-purple-col);
       }
     }
+
     &.orange {
-      .date, .icon, .icon::after {
+
+      .date,
+      .icon,
+      .icon::after {
         background: _palette(dark-orange-col)
       }
     }
+
     &.blue {
-      .date, .icon, .icon::after {
+
+      .date,
+      .icon,
+      .icon::after {
         background: _palette(dark-blue-col);
       }
     }
+
     &.white {
-      .date, .icon, .icon::after {
+
+      .date,
+      .icon,
+      .icon::after {
         color: inherit;
         background: #fff;
       }
     }
-    h1, h2, h3, h4, h5, p {
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    p {
       margin: 0;
     }
+
     h3 {
       margin-top: $stickHeight;
       font-size: 1.1rem;
       line-height: 1.4rem;
       margin-bottom: 0.6rem;
     }
+
     .content {
       margin: 0 $tinyPadding;
     }
+
     .text {
       font-size: 0.9rem;
       line-height: 1.2rem;
     }
-    a { 
+
+    a {
       border: none;
     }
   }
@@ -789,6 +976,7 @@ a.card {
   margin-bottom: $smallPadding;
   grid-column-gap: $lineThickness;
   position: relative;
+
   &::before {
     content: '';
     display: 'block';
@@ -800,60 +988,83 @@ a.card {
     width: $lineThickness;
     background: $lineColor;
   }
+
   .date {
     border-bottom: $lineThickness solid $lineColor;
     display: inline-block;
     padding: $microPadding $smallPadding;
   }
-  h4, p {
+
+  h4,
+  p {
     margin-left: $smallPadding;
   }
+
   .item {
     // background: blue;
     padding-bottom: $tinyPadding;
+
     &:nth-child(odd) {
       text-align: right;
-      h4, p {
+
+      h4,
+      p {
         margin-right: $smallPadding;
         margin-left: 0;
       }
     }
+
     &:nth-child(even) {
       margin-top: $tinyPadding;
     }
   }
+
   @include breakpoint('<=small') {
     display: block;
+
     &::before {
       left: 0;
     }
+
     .item {
       padding-bottom: $smallPadding;
     }
+
     .item:nth-child(odd) {
-      h4, p {
+
+      h4,
+      p {
         margin-right: 0;
         margin-left: $smallPadding;
       }
+
       text-align: left;
     }
+
     .item:nth-child(even) {
       margin-top: 0;
     }
   }
 
 }
-#wrapper section.wide-header { 
-  > header {
+
+#wrapper section.wide-header {
+  >header {
     width: auto;
-    p, h2, h3 {
+
+    p,
+    h2,
+    h3 {
       max-width: none;
     }
   }
-  > .content, > header {
+
+  >.content,
+  >header {
     padding-bottom: $largePadding;
   }
 }
+
 .intro .gatsby-image-wrapper {
   background: _palette(accent-border);
 }
@@ -861,7 +1072,7 @@ a.card {
 // locale specific styles
 
 body.hanzi {
-  #wrapper > section.intro header p {
+  #wrapper>section.intro header p {
     font-size: 1.5rem;
   }
 }
@@ -871,9 +1082,18 @@ body.hanzi {
   margin: auto;
   text-align: center;
   padding: $hugePadding $smallPadding;
-  img { 
+
+  img {
     max-width: 3rem;
     margin: $smallPadding;
   }
 
+}
+
+.link-group {
+  margin-top: $tinyPadding;
+
+  h5 {
+    margin-top: 0;
+  }
 }

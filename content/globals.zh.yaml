@@ -3,7 +3,7 @@
 ##
 title: 以太经典
 description: 以太坊经典区块链
-dateFormat: DD.MM.YYYY
+dateFormat: YYYY-MM-DD
 metaLocale: zh_CN
 htmlLang: zh-CN
 bodyClass: hanzi
@@ -32,8 +32,12 @@ warningButton: 升级
 ##
 # 博客文章
 ##
-latestBlogPosts: 最新的博客文章
 allBlogPosts: 所有博客文章
+submitArticle: 提交您的文章
+latestArticles: 最新文章
+noPosts: 没有您选择的语言的帖子。
+englishPosts: 英文帖子
+continueReading: 继续阅读
 ##
 # 脚
 ##

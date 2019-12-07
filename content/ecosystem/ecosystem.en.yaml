@@ -31,10 +31,10 @@ resources: |
 
   A small selection of resources such as explorers, chat rooms, exchanges and mining pools.  
   **Use at your own risk.**
-moreResources: More Resourecs
+moreResources: More Resources
 
 # resources items
-nodesAndNetworkInfo: Nodes & Network Info
+nodesAndNetworkInfo: Nodes + Network Info
 nodesAndNetworkInfoText: Run an ETC node and help support the network by using the software below.
 nodes: Nodes
 networkInfo: Network Info
@@ -42,7 +42,7 @@ networkInfo: Network Info
 blockExplorers: Block Explorers
 blockExplorersText: Check on the status of transactions with these handy websites.
 mainnet: Mainnet
-testnests: Testnets
+testnets: Testnets
 
 networkApis: Network APIs
 networkApisText: Use JSONRPC to communicate with ETC.
@@ -64,7 +64,7 @@ mobile: Mobile
 exchanges: Exchanges
 exchangesText: Get ETC by trading for it at one of the exchanges below. We’re listed on all of your favorite exchanges.
 traditionalExchanges: Traditional Exchanges
-decentarlizedExchanges: Decentrlaized Exchanges
+decentralizedExchanges: Decentralized Exchanges
 instantSwaps: Instant Swaps
 paymentProcessors: Payment Processors
 

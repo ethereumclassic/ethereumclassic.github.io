@@ -3,13 +3,13 @@ import React from 'react';
 import Card from './card';
 import LinkGroup from './linkGroup';
 
-const resources = () => {
+const resources = ({ i18n }) => {
   return (
     <>
-      <Card title="Nodes & Network Info">
-        Run an ETC node and help support the network by using the software below.
+      <Card title={i18n.nodesAndNetworkInfo}>
+        {i18n.nodesAndNetworkInfoText}
         <LinkGroup
-          title="Nodes"
+          title={i18n.nodes}
           items={[
             {
               text: 'Classic Geth',
@@ -26,7 +26,7 @@ const resources = () => {
           ]}
         />
         <LinkGroup
-          title="Network Info"
+          title={i18n.networkInfo}
           items={[
             { text: 'ETC Status Live', link: 'https://etcstatus.live/' },
             {
@@ -40,10 +40,10 @@ const resources = () => {
           ]}
         />
       </Card>
-      <Card title="Block Explorers">
-        Check on the status of transactions with these handy websites.
+      <Card title={i18n.blockExplorers}>
+        {i18n.blockExplorersText}
         <LinkGroup
-          title="Mainnet"
+          title={i18n.mainnet}
           items={[
             {
               text: 'BlockScout',
@@ -61,7 +61,7 @@ const resources = () => {
           ]}
         />
         <LinkGroup
-          title="Testnets"
+          title={i18n.testnets}
           items={[
             {
               text: 'Kotti (Testnet) Explorer',
@@ -74,11 +74,10 @@ const resources = () => {
           ]}
         />
       </Card>
-      {/* TODO testnets ?  */}
-      <Card title="Network APIs">
-        Use JSONRPC to communicate with ETC.
+      <Card title={i18n.networkApis}>
+        {i18n.networkApisText}
         <LinkGroup
-          title="Public APIs"
+          title={i18n.publicApis}
           items={[
             {
               text: 'ethereumclassic.network',
@@ -95,14 +94,14 @@ const resources = () => {
           ]}
         />
         <LinkGroup
-          title="Private Deployments"
+          title={i18n.privateDeployments}
           items={[
             { text: 'quiknode.io', link: 'https://quiknode.io/' },
             { text: 'ethernode.io', link: 'http://dev.ethernode.io/' }
           ]}
         />
       </Card>
-      <Card title="Github Repos">
+      <Card title={i18n.githubRepos}>
         <LinkGroup
           items={[
             {
@@ -125,7 +124,7 @@ const resources = () => {
           ]}
         />
       </Card>
-      <Card title="Twitter">
+      <Card title={i18n.twitter}>
         <LinkGroup
           items={[
             {
@@ -151,7 +150,7 @@ const resources = () => {
           ]}
         />
       </Card>
-      <Card title="Chat Rooms">
+      <Card title={i18n.chatRooms}>
         <LinkGroup
           items={[
             { text: 'Discord', link: 'https://discord.gg/bMGuZsA' },
@@ -166,7 +165,7 @@ const resources = () => {
           ]}
         />
         <LinkGroup
-          title="Telegram"
+          title={i18n.telegram}
           items={[
             { text: 'ETC Arabic', link: 'https://t.me/EtherClassic_Ar' },
             {
@@ -187,11 +186,10 @@ const resources = () => {
           ]}
         />
       </Card>
-      <Card title="Wallets">
-        Store and send your ETC using one of the wallets below. Hardware wallets are the most
-        secure; please use them.
+      <Card title={i18n.wallets}>
+        {i18n.waleltsText}
         <LinkGroup
-          title="Web Wallets"
+          title={i18n.webWallets}
           items={[
             {
               text: 'Classic Ether Wallet',
@@ -209,7 +207,7 @@ const resources = () => {
           ]}
         />
         <LinkGroup
-          title="Hardware / Offline"
+          title={i18n.hardwareOffline}
           items={[
             {
               text: 'Ledger',
@@ -219,7 +217,7 @@ const resources = () => {
           ]}
         />
         <LinkGroup
-          title="Desktop"
+          title={i18n.desktop}
           items={[
             {
               text: 'Emerald',
@@ -234,7 +232,7 @@ const resources = () => {
           ]}
         />
         <LinkGroup
-          title="Mobile"
+          title={i18n.mobile}
           items={[
             { text: 'Atomic Wallet', link: 'https://atomicwallet.io/' },
             {
@@ -248,11 +246,10 @@ const resources = () => {
           ]}
         />
       </Card>
-      <Card title="Exchanges">
-        Get ETC by trading for it at one of the exchanges below. We’re listed on all of your
-        favorite exchanges.
+      <Card title={i18n.exchanges}>
+        {i18n.exchangesText}
         <LinkGroup
-          title="Traditional Exchanges"
+          title={i18n.traditionalExchangess}
           items={[
             { text: 'Binance', link: 'https://www.binance.com/' },
             {
@@ -275,11 +272,11 @@ const resources = () => {
           ]}
         />
         <LinkGroup
-          title="Decentrlaized Exchanges"
+          title={i18n.decentralizedExchanges}
           items={[{ text: 'Saturn Network', link: 'https://www.saturn.network' }]}
         />
         <LinkGroup
-          title="Instant Swaps"
+          title={i18n.instantSwaps}
           items={[
             {
               text: 'Changelly',
@@ -289,7 +286,7 @@ const resources = () => {
           ]}
         />
         <LinkGroup
-          title="Payment Processors"
+          title={i18n.paymentProcessors}
           items={[
             { text: 'CoinGate', link: 'https://coingate.com/' },
             { text: 'CoinPayments', link: 'https://www.coinpayments.net/' },
@@ -298,8 +295,8 @@ const resources = () => {
           ]}
         />
       </Card>
-      <Card title="Mining Pools">
-        Mine ETC by joining one of the pools below.
+      <Card title={i18n.miningPools}>
+        {i18n.miningPoolsText}
         <LinkGroup
           items={[
             {

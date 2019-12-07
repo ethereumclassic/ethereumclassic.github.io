@@ -2,7 +2,13 @@ import React from 'react';
 
 import LocalizedLink from './localizedLink';
 
-import { isHash, isInternal } from '../util';
+function isHash(str) {
+  return /^#/.test(str);
+}
+
+function isInternal(str) {
+  return /^\/(?!\/)/.test(str);
+}
 
 const Link = ({ to, text, children, icon, fullIcon, ...props }) => {
   const iconText = fullIcon || (icon ? `fas fa-${icon}` : null);
