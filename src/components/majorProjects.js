@@ -5,7 +5,7 @@ import LinkSection from '~components/linkSection';
 const MajorProjects = ({ i18n }) => {
   return (
     <>
-      <h2>{i18n.title}</h2>
+      <h2>{i18n.projectsTitle}</h2>
       <LinkSection
         title={i18n.multiGeth}
         text={i18n.multiGethText}
