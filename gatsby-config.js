@@ -38,16 +38,6 @@ module.exports = {
               maxWidth: 900,
               linkImagesToOriginal: true
             }
-          },
-          {
-            resolve: '@hitchcott/gatsby-remark-custom-image-component',
-            options: {
-              componentName: 'team-image',
-              imagePropName: 'src',
-              sharpMethod: 'resize',
-              width: 256,
-              height: 256
-            }
           }
         ]
       }
