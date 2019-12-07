@@ -13,7 +13,7 @@ const SelectLanguage = () => {
         <div className="select-language">
           {Object.keys(locales).map(key => {
             // hide the current language
-            if (locale === key) {
+            if (locale === key || !locales[key].enabled) {
               return null;
             }
             // TODO replace this with 404 tree traversal logic

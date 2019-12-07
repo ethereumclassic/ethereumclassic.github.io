@@ -287,7 +287,7 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
         // for each of the i18n configs, create a page...
         Object.keys(locales).forEach(locale => {
           // only create pages for enabled locales
-          if (!locales[locale]) {
+          if (!locales[locale].enabled) {
             return;
           }
           const thisLocale = routeLocales[locale] || {};
@@ -321,7 +321,7 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
   children.edges.forEach(({ node: post }) => {
     const { locale, parent } = post.fields;
     // only create pages for enabled locales
-    if (!locales[locale]) {
+    if (!locales[locale].enabled) {
       return;
     }
     // TODO dry out?

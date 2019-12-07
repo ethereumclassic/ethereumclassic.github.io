@@ -9,7 +9,7 @@ module.exports = {
     zh: {
       flag: '🇨🇳',
       name: '中文',
-      enabled: true
+      enabled: false
     }
   }
 };
