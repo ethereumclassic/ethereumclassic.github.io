@@ -264,6 +264,14 @@
   title: ETC Investment Fund
   text: Grayscale circulates investment thesis for 'Ethereum (ETC) Investment Trust', first non-bitcoin crypto fund targeted at traditional investors
 -
+  key: etcCoop
+  icon: fas fa-child
+  className: green
+  link: https://etccooperative.org/
+  date: Sept 2017
+  title: Birth of ETC Coop
+  text: ETC Cooperative legal entity was created Sep 2017 as LLC. Application for non-profit status was made May 2018 and approved Nov 2018, retroactive to the date of application.
+-
   key: toBeContinued
   title: To Be Continued
   text: As Ethereum Classic community and its two independent dev teams start to focus efforts on development and applications, we look forward to ETC becoming a decentralized immutable public infrastructure of the future...
