@@ -45,8 +45,6 @@ usingEtc: |
   ### [Using Emerald Wallet](/knowledge/using-emerald-wallet)
   Learn how to download and install Emerald Wallet
 
-  ### [Using Classic Ether Wallet](/knowledge/using-classic-ether-wallet)
-  Learn how to use the Classic Ether Wallet
 faqs: |
   ## FAQs  
 
@@ -54,10 +52,14 @@ faqs: |
 
   ### [Sent Funds to the Wrong Address](/knowledge/sent-funds-to-the-wrong-address)
   Find out what to do if you send funds to the wrong address.
+
 developers: |
   ## Developers
 
   If you're interested in developing with ETC, here are some guides on how to contribute.
+
+  ### [ECIPS](https://ecips.ethereumclassic.org/)
+  Ethereum Classic Improvement Proposals (ECIPs), are technical write-ups that describe suggested changes to the Ethereum Classic Protocol.
 
   ### [Emerald SDK](https://etcdev.gitbook.io/docs/emerald-sdk)
   Emerald Software Development Kit (SDK) is a development framework to easily create DApps.
