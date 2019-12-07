@@ -1,32 +1,40 @@
 import React from 'react';
 import { graphql } from 'gatsby';
-import EducationMenu from '~components/educationMenu';
+
+import Translate from '~components/translate';
 import Mdx from '~components/mdx';
 import Spacer from '~components/spacer';
 import BackButton from '~components/backButton';
 
 import PageLayout from '~components/pageLayout';
 
-const EducationItem = ({ data: { mdx } }) => {
+const KnowledgeItem = ({ data: { mdx } }) => {
   return (
-    <PageLayout
-      link={{ to: '/knowledge', text: 'Knowledge' }}
-      seo={{ title: mdx.frontmatter.title, description: mdx.frontmatter.metaDescription }}
-    >
-      <BackButton text="Knowledge Base" to="/knowledge" />
-      <Spacer />
-      <h1>{mdx.frontmatter.title}</h1>
-      <Mdx code={mdx.body} />
-      <hr />
-      <EducationMenu compact />
-    </PageLayout>
+    <Translate
+      all={i18n => (
+        <PageLayout
+          link={{ to: '/knowledge', text: i18n.navKnowledge }}
+          seo={{
+            title: mdx.frontmatter.title,
+            description: mdx.frontmatter.description
+          }}
+        >
+          <BackButton text={i18n.knowledgeBase} to="/knowledge" />
+          <Spacer />
+          <h1>{mdx.frontmatter.title}</h1>
+          <Mdx code={mdx.body} />
+          <hr />
+          <BackButton text={i18n.knowledgeBase} to="/knowledge" />
+        </PageLayout>
+      )}
+    />
   );
 };
 
-export default EducationItem;
+export default KnowledgeItem;
 
 export const query = graphql`
-  query EducationItem($locale: String!, $title: String!, $parent: String!) {
+  query KnowledgeItem($locale: String!, $title: String!, $parent: String!) {
     mdx(
       frontmatter: { title: { eq: $title } }
       fields: { parent: { eq: $parent }, locale: { eq: $locale } }
@@ -34,7 +42,7 @@ export const query = graphql`
       body
       frontmatter {
         title
-        metaDescription
+        description
       }
     }
   }

@@ -11,8 +11,8 @@ const BlogItem = ({ data: { mdx } }) => (
     link={{ to: '/blog', text: 'Blog' }}
     seo={{
       title: mdx.frontmatter.title,
-      description: mdx.frontmatter.metaDescription,
-      image: mdx.frontmatter.metaImage && mdx.frontmatter.metaImage.childImageSharp.fixed.src,
+      description: mdx.frontmatter.description,
+      image: mdx.frontmatter.linkImage && mdx.frontmatter.linkImage.childImageSharp.fixed.src,
       article: true
     }}
   >
@@ -40,8 +40,8 @@ export const query = graphql`
         title
         date
         author
-        metaDescription
-        metaImage {
+        description
+        linkImage {
           childImageSharp {
             fixed(height: 256, quality: 80) {
               src

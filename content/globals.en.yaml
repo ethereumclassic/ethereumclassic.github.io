@@ -22,6 +22,10 @@ navEcosystem: Ecosystem
 navRoadmap: Roadmap
 navBlog: Blog
 ##
+# MISC Navigation
+##
+knowledgeBase: Knowledge Base
+##
 # WARNING BANNER
 ##
 warningTitle: Hard Fork Alert

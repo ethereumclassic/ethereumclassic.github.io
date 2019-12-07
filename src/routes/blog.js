@@ -4,7 +4,7 @@ import { graphql } from 'gatsby';
 import html from '../i18n/html';
 import ButtonLink from '~components/buttonLink';
 import BlogListItem from '~components/blogListItem';
-import DefaultLanguageHidden from '~components/defaultLanguageHidden';
+import LocaleVisibility from '~components/localeVisibility';
 import PageLayout from '~components/pageLayout';
 
 // TODO a way to show posts from all languages etc...
@@ -20,9 +20,9 @@ const Blog = ({ data: { allMdx }, pageContext: { i18n } }) => {
         icon="angle-right"
       />
       <hr />
-      <DefaultLanguageHidden>
+      <LocaleVisibility hide={['en']}>
         <ButtonLink notLocalized to="/blog" text={i18n.englishPosts} style={{ float: 'right' }} />
-      </DefaultLanguageHidden>
+      </LocaleVisibility>
       <h2>{hasPosts ? i18n.latestArticles : i18n.noPosts}</h2>
       <div className="blog-list">
         {hasPosts &&

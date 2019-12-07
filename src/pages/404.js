@@ -32,7 +32,6 @@ const NotFound = () => {
       render={result => (
         <Location>
           {({ location }) => {
-            // console.log(location);
             const { globals, homepath } = parseGlobals(location.pathname, result.locales, config);
             return (
               <>

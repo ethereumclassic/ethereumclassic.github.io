@@ -1,0 +1,48 @@
+-
+  key: coingame
+  title: Coingame
+  text: sports betting platform that started on ETC.
+  to: https://www.coingame.com/
+  className: green
+-
+  key: dappdirect
+  title: DappDirect
+  text: Many contracts running on ETC, and statistics about them, can be found on this community-run site including decentralized exchanges, gambling/insurance contracts, and tokens.
+  to: https://dappdirect.net/
+  className: green
+-
+  key: metronome
+  title: Metronome
+  text: A cross-blockchain cryptocurrency that will start off bridged between ETC and ETH blockchains.
+  to: https://metronome.io/
+  className: orange
+-
+  key: originalmy
+  title: OriginalMy
+  text: OriginalMy provides a fully automated platform to register and verify the authenticity of digital documents, contracts, and identities. They are now expanding into stock holder voting on the blockchain.
+  to: https://originalmy.com/
+  className: green
+-
+  key: peacebridge
+  title: peaceBridge
+  text: A series of cross-chain bridges designed to allow for value transfer and information sharing between ETC and ETH blockchains.
+  to: https://medium.com/akomba/peace-bridge-connecting-ethereum-classic-and-ethereum-e306df01159
+  className: orange
+-
+  key: portalNetwork
+  title: Portal Network's BNS
+  text: Portal Network created the Blockchain Name Service standard that turns cryptic blockchain addresses (ex. 0xfa91d23…) into simple human-readable addresses (ex. myname.etc).
+  to: https://www.portal.network/
+  className: green
+-
+  key: saturnNetwork
+  title: Saturn Network
+  text: A decentralized exchange running on both ETC and ETH.
+  to: https://www.saturn.network/
+  className: green
+-
+  key: stampery
+  title: Stampery
+  text: Stampery certifies data on the blockchain, providing proof of existence, integrity, ownership, and receipt.
+  to: https://stampery.com/
+  className: green

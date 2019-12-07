@@ -5,7 +5,7 @@ import Mdx from '~components/mdx';
 import PageLayout from '~components/pageLayout';
 
 const DefaultItem = ({ data: { mdx } }) => (
-  <PageLayout seo={{ title: mdx.frontmatter.title, description: mdx.frontmatter.metaDescription }}>
+  <PageLayout seo={{ title: mdx.frontmatter.title, description: mdx.frontmatter.description }}>
     <h1>{mdx.frontmatter.title}</h1>
     <Mdx code={mdx.body} />
   </PageLayout>
@@ -22,7 +22,7 @@ export const query = graphql`
       body
       frontmatter {
         title
-        metaDescription
+        description
       }
     }
   }

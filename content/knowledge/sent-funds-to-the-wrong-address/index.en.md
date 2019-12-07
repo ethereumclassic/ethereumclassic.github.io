@@ -1,6 +1,6 @@
 ---
 title: Sent funds to the wrong address
-metaDescription: Guide to recovering funds if you send them to the wrong address
+description: Guide to recovering funds if you send them to the wrong address
 ---
 
 So you’ve sent your funds to the wrong network? The good news is in most cases they can be recovered. Your first step is to take a deep breath and then determine which of the scenarios below happened.
