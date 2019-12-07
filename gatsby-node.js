@@ -13,6 +13,10 @@ const { defaultLocale, locales } = require('./src/i18n/config');
 const defaultTemplate = require.resolve('./src/layouts/defaultItem.js');
 
 async function processYamlMarkdown(obj) {
+  // handle arrays
+  if (Array.isArray(obj)) {
+    return Promise.all(obj.map(processYamlMarkdown));
+  }
   const transformed = {};
   await Promise.all(
     Object.keys(obj).map(async key => {
@@ -83,10 +87,26 @@ function mergeTranslations(defaults = {}, translation = {}) {
     ...translation
   };
   Object.keys(defaults).forEach(k => {
-    result[k] = {
-      ...defaults[k],
-      ...result[k]
-    };
+    // handle arrays
+    if (Array.isArray(defaults[k])) {
+      const mapping = {};
+      defaults[k].concat(result[k] || []).forEach(item => {
+        if (item.key === undefined) {
+          throw new Error('Array items must have unqiue `key` fields', item);
+        }
+        mapping[item.key] = {
+          ...mapping[item.key],
+          ...item
+        };
+      }, []);
+      result[k] = Object.keys(mapping).map(key => mapping[key]);
+    } else {
+      // merge objects
+      result[k] = {
+        ...defaults[k],
+        ...result[k]
+      };
+    }
   });
   return result;
 }
