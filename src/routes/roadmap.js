@@ -14,7 +14,7 @@ const Roadmap = ({ pageContext: { i18n } }) => {
         {html(i18n.intro)}
         {html(i18n.timeline)}
       </section>
-      <Timeline i18n={i18n.yaml.timeline} />
+      <Timeline i18n={i18n} items={i18n.yaml.timeline} />
       <section>
         {html(i18n.developmentPlans)}
         <Road i18n={i18n.yaml.road} />
