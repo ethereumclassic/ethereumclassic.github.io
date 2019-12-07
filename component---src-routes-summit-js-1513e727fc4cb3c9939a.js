@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{i8Oo:function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),o=t.n(a),u=t("Wbzz"),c=t("QCa0"),l=t("2Agp"),i=function(n){var e=n.to,t=void 0===e?"/":e,a=o.a.useContext(c.a).locale,i=t;return a&&a!==l.defaultLocale&&(i="/"+a+t),o.a.useEffect((function(){Object(u.c)(i)}),[]),null};e.default=function(){return o.a.createElement(i,null)}}}]);
+//# sourceMappingURL=component---src-routes-summit-js-1513e727fc4cb3c9939a.js.map

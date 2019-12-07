@@ -16,7 +16,6 @@
 <url> <loc>https://ethereumclassic.org/blog/2016-08-10-couple-values-broken/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2016-08-11-decentralized-anarchist-governance-system/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2016-08-14-new-website/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ethereumclassic.org/blog/2016-08-16-nature-inspired-dynamics/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2016-08-18-meetup/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2016-09-01-chbtc/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2016-09-09-code-is-law/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -32,7 +31,6 @@
 <url> <loc>https://ethereumclassic.org/blog/2016-11-15-money-and-monetary-policy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2016-11-15-newsletter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2016-11-22-newsletter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ethereumclassic.org/blog/2016-11-23-smart-contracts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2016-11-29-newsletter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2016-12-01-ipfs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2016-12-04-monetary-policy-event/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -64,8 +62,8 @@
 <url> <loc>https://ethereumclassic.org/blog/2017-06-17-privacy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2017-06-17-private-keys/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2017-07-23-development-boost/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ethereumclassic.org/blog/2017-08-27-the-rise-and-rise-of-social-coins/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2017-07-28-web3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ethereumclassic.org/blog/2017-08-27-the-rise-and-rise-of-social-coins/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2017-10-25-all-thats-new-in-classic-october-edition/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2017-11-05-mining-game/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2017-11-11-whos-talking-at-the-classic-summit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -81,14 +79,17 @@
 <url> <loc>https://ethereumclassic.org/blog/2018-03-12-etc-roundup/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2018-03-15-signatures/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2018-03-19-etc-roundup/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ethereumclassic.org/blog/2016-11-23-smart-contracts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ethereumclassic.org/blog/2016-08-16-nature-inspired-dynamics/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2018-03-19-rlp/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2018-04-05-tries/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2018-04-11-initial-state/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2019-10-17-yaz-contract-extension/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2019-10-18-etc-coop-joins-eea/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ethereumclassic.org/blog/2019-10-19-alison-alexis-joins-etc-coop/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2019-10-19-bob-summerwill-to-speak-at/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ethereumclassic.org/knowledge/using-classic-ether-wallet/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/knowledge/sent-funds-to-the-wrong-address/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ethereumclassic.org/knowledge/using-classic-ether-wallet/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/knowledge/using-emerald-wallet/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/summit/2019/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2016-08-13-declaration-of-independence/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -107,5 +108,4 @@
 <url> <loc>https://ethereumclassic.org/blog/2019-10-06-pow-mining-explicit-social-contract/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2017-02-28-dns/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2016-12-16-parity/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ethereumclassic.org/blog/2019-10-19-alison-alexis-joins-etc-coop/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
