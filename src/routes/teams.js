@@ -3,7 +3,7 @@ import React from 'react';
 import html from '../i18n/html';
 import PageLayout from '~components/pageLayout';
 import LinkSection from '~components/linkSection';
-// TODO use a static query for this
+
 import etcLabsImg from '../../content/teams/etc-labs.png';
 import etcCoopImg from '../../content/teams/etc-coop.png';
 import chainsafeImg from '../../content/teams/chainsafe.png';

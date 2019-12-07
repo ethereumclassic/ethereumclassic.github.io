@@ -17,9 +17,6 @@ const query = graphql`
   }
 `;
 
-// TODO pass the description etc from route...
-// TODO dynamic images, twitter username, etc, locale
-
 const SEO = ({ title, description, article, image }) => {
   return (
     <Location>
@@ -50,7 +47,6 @@ const SEO = ({ title, description, article, image }) => {
                 <>
                   <Helmet title={seo.title}>
                     {/* language */}
-                    {/* TODO make sure this actually works... */}
                     <html lang={seo.lang} />
                     <body className={seo.bodyClass} />
                     {/* meta head */}
@@ -69,10 +65,6 @@ const SEO = ({ title, description, article, image }) => {
                     <meta name="twitter:title" content={seo.title} />
                     <meta name="twitter:description" content={seo.description} />
                     <meta name="twitter:image" content={seo.image} />
-                    {/* 
-                    // TODO other SEO data
-                    {twitterUsername && <meta name="twitter:creator" content={twitterUsername} />}
-                    */}
                   </Helmet>
                 </>
               );

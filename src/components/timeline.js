@@ -2,8 +2,6 @@ import React from 'react';
 
 import TimelineItem from './timelineItem';
 
-// TODO convert to a more i18n friendly format
-
 const ForkTimeline = ({ i18n }) => (
   <div className="fork-timeline">
     <div className="items">

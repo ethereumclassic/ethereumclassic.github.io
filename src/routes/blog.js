@@ -7,8 +7,6 @@ import BlogListItem from '~components/blogListItem';
 import LocaleVisibility from '~components/localeVisibility';
 import PageLayout from '~components/pageLayout';
 
-// TODO a way to show posts from all languages etc...
-
 const Blog = ({ data: { allMdx }, pageContext: { i18n, globals } }) => {
   const hasPosts = allMdx.edges.length !== 0;
   return (

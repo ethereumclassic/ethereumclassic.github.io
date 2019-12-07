@@ -122,8 +122,6 @@ exports.onCreateWebpackConfig = ({ actions }) => {
   });
 };
 
-// TODO move this into a custom plugin
-
 // custom method to get stuff from content folder and register it
 exports.onCreateNode = async ({ node, loadNodeContent, actions: { createNodeField } }) => {
   // Check for "Mdx" type so that other files (e.g. images) are excluded
