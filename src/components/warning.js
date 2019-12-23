@@ -46,7 +46,7 @@ export default class Warning extends React.Component {
           <div className="action">
             <ButtonLink
               text={<Translate text="warningButton" />}
-              to="https://ecips.ethereumclassic.org/ECIPs/ecip-1056"
+              to="https://ethereum-classic-fjkashlf.ethernodes.org/agharta"
               icon="angle-right"
             />
           </div>

@@ -28,8 +28,8 @@ knowledgeBase: Knowledge Base
 ##
 # WARNING BANNER
 ##
-warningTitle: Hard Fork Alert
-warningText: Ethereum Classic is undergoing a planned upgrade "Agharta" around 15 Jan 2020. If you run an ETC node please upgrade as soon as possible.
+warningTitle: Agharta Hardfork due 13 Jan 2020
+warningText: ETC has a planned upgrade "Agharta" at block 9,573,000 (~13 Jan 2020). If you run an ETC node please upgrade as soon as possible.
 warningButton: Upgrade
 ##
 # BLOG POSTS
