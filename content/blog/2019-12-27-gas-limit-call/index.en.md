@@ -14,7 +14,7 @@ There was an ETC Devs / Miners / Community Call a day ago to talk about options 
 
 Bob S.’s suggested **action items**:
 
-- Blog post on https://ethereumclassic.org/ by @zacmitton explaining the situation and appealing to miners to voluntarily reduce gaslimit. To 1M? To 2M? To 4M?
+- Blog post on https://ethereumclassic.org/ by [@zacmitton](https://twitter.com/voltzroad) explaining the situation and appealing to miners to voluntarily reduce gaslimit. To 1M? To 2M? To 4M?
 - Outreach on the above (using existing contacts we have used for prior HFs)
 - Volunteers to generate pull-requests against Parity-Ethereum, Geth Classic, MultiGeth and Hyperledger Besu which change the defaults for ETC to the same.
 - Volunteers to consider countermeasures to reverse as much of the damage-to-date as we can by buying gastokens (using community fund if this is expensive) and then using them to debloat the chain.
