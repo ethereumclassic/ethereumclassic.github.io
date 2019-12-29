@@ -110,4 +110,5 @@
 <url> <loc>https://ethereumclassic.org/blog/2016-12-16-parity/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2019-12-10-ecip-1056-finalization/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ethereumclassic.org/blog/2019-12-22-coop-contributes-ethercluster-to-hyperledger-labs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ethereumclassic.org/blog/2019-12-27-gas-limit-call/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
