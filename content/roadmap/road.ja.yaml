@@ -1,0 +1,56 @@
+ethCompatibility: ETHの互換性
+ethCompatibilityDate: 2019年第1四半期
+ethCompatibilityText: EVMおよびSputnikVMは、Byz + Constハードフォークをサポートするように更新されます。
+embeddedSvm: 組み込みSVM
+embeddedSvmDate: 2019年第1四半期
+embeddedSvmText: 組み込みSVMにより、組み込みアプリケーション用のEVMおよびSputnikVMが可能になります。
+documentationWebsite: ドキュメントWebサイト
+documentationWebsiteDate: 2019年第1四半期
+documentationWebsiteText: 新規および既存の開発者を支援するために、新しいドキュメントWebサイトが提供されます。 ETCツーリングに埋め込まれたドキュメントが検討されます。
+classicGeth: クラシックゲス
+classicGethDate: 2019年第1四半期
+classicGethText: Classic Gethのサポートとメンテナンス。
+jsonRpcSchema: JSON RPCスキーマ
+jsonRpcSchemaDate: 2019年第1四半期
+jsonRpcSchemaText: Classic-GethおよびMulti-Gethから自動化されたJSONスキーマ生成用のECIPを作成します。これにより、ライブラリに関連する運用コストが削減されます。この改善により、Web3やEmerald
+  JSなどのRPC APIが不要になり、DApp開発環境がより効率的になります。
+serviceRunner: サービスランナー
+serviceRunnerDate: 2019年第1四半期
+serviceRunnerText: Service Runner APIは、DAppフレームワークの依存関係と統合の管理を容易にするのに役立ちます。
+dappDeploymentTool: DApp展開ツール
+dappDeploymentToolDate: 2019年第2四半期
+dappDeploymentToolText: 開発者がDAppを展開するための使いやすいGUIアプリケーション。
+uxUiResearch: UX/UIリサーチ
+uxUiResearchDate: 2019年第2四半期
+uxUiResearchText: DApp開発環境を調査するための調査が行われます。
+multiNetworkExplorer: マルチネットワークエクスプローラー
+multiNetworkExplorerDate: 2019年第2四半期
+multiNetworkExplorerText: Ethereumベースのネットワークで使用できるDApp開発用の使いやすいブロックエクスプローラー。
+etcJitCompiler: ETC JITコンパイラー
+etcJitCompilerDate: 2019年第1四半期と第3四半期
+etcJitCompilerText: ETC JITコンパイラは、EVMバイトコードをネイティブマシンコードに変換します。 JITコンパイラーは通常、プログラムの実行時間を3〜4倍に短縮します。
+atlantisHardFork: アトランティスハードフォーク
+atlantisHardForkDate: 2019年第3四半期
+atlantisHardForkText: Ethereum Classicネットワークで傑出したEthereum Foundation Spurious
+  DragonおよびByzantiumネットワークプロトコルのアップグレードを有効にします
+smartContractIde: スマートコントラクトIDE
+smartContractIdeDate: 2019年第3四半期
+smartContractIdeText: 使いやすいスマートコントラクトIDEおよびランタイム環境。
+multiGeth: マルチゲス
+multiGethDate: 2019年第4四半期
+multiGethText: Multi-Gethの継続的なサポートとメンテナンス。
+evmLlvmBackend: EVM LLVMバックエンド
+evmLlvmBackendDate: 2019年第2四半期
+evmLlvmBackendText: LLVMのEVMバックエンドターゲットを使用すると、開発者はSolidity以外の広範囲のプログラミング言語を使用して、Ethereum仮想マシンをターゲットにできます。
+  EVMバックエンドターゲットは、ソースレベルのデバッグの機会を開き、EVMの関心をLLVMコミュニティに公開します。
+devTutorialsAndGuides: 開発者向けチュートリアルとガイド
+devTutorialsAndGuidesDate: 2019年第1四半期〜第4四半期
+devTutorialsAndGuidesText: チュートリアルとガイドを使用して、新規および既存の開発者を継続的にサポートします。
+aghartaHardFork: アガルタハードフォーク
+aghartaHardForkDate: Q1 2020
+aghartaHardForkText: Ethereum Classicネットワーク上で傑出したEthereum Foundation
+  ConstaninopleおよびPetersburgネットワークプロトコルのアップグレードを有効にします。
+aztlNHardFork: アズトランハードフォーク
+aztlNHardForkDate: TBD 2020
+aztlNHardForkText: Ethereum Classicネットワーク上で、傑出したEthereum Foundation
+  Istanbulネットワークプロトコルのアップグレードを有効にします。

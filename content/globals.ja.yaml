@@ -1,9 +1,8 @@
 title: イーサリアムクラシック
 description: スマートコントラクトを実行する分散型プラットフォーム：ダウンタイム、検閲、またはサードパーティの干渉なしにプログラムどおりに実行されるアプリケーション
-dateFormat: YYYY.MM.DD
+dateFormat: DD-MM-YYYY
 metaLocale: en_US
 htmlLang: en
-bodyClass: デフォルト
 navHome: ホーム
 navKnowledge: 知識
 navTeams: チーム
