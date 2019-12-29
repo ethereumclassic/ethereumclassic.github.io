@@ -21,7 +21,7 @@ Bob S.’s suggested **action items**:
 - Volunteers to consider protocol changes for the long-term, which could include:
   - Gas price changes
   - Removing opcodes (remove refund opcode, remove selfdestruct)
-  - Hard cap gas and curve (my pending [ECIP](https://github.com/ethereumclassic/ECIPs/issues/252)) to give multi-decade certainty
+  - Hard cap gas and curve (my pending ECIP) to give multi-decade certainty
 
 Future discussion is best done on Github issues within the ECIP process, for global visibility and permanent papertrail on the decision-making process.
 
@@ -29,4 +29,4 @@ Thanks to [Zac Mitton](https://twitter.com/voltzroad) (one of the developers) fo
 
 ---
 
-This post was copied form https://bobsummerwill.com/2019/12/27/gas-limit-configuration-call/
+This post was copied from https://bobsummerwill.com/2019/12/27/gas-limit-configuration-call/
