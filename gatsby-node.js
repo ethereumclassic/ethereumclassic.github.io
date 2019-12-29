@@ -197,9 +197,10 @@ exports.onCreateNode = async ({ node, loadNodeContent, actions: { createNodeFiel
 };
 
 function getGlobals(locale, tree) {
+  const myLocale = tree.content[locale] || { yaml: { globals: {} } };
   return {
     ...tree.content[defaultLocale].yaml.globals,
-    ...tree.content[locale].yaml.globals
+    ...myLocale.yaml.globals
   };
 }
 
