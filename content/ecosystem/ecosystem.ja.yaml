@@ -1,0 +1,65 @@
+title: 生態系
+description: Ethereum Classicのプロジェクトとリソース
+intro: |-
+  #生態系
+
+  このページには、Ethereum Classicで、その上で、またはその上で動作しているコミュニティソースプロジェクトのリストが含まれています。
+projectsTitle: 主なプロジェクト
+multiGeth: マルチゲス/クラシックゲス
+multiGethText: ETC Labs
+  Coreは、gethが複数のネットワークをサポートできるようにするマルチgethパッチを維持しています。最終的に、彼らはマルチジェスをメインラインのゲスに統合したいと考えています。
+sidechains: サイドチェーン
+sidechainsText: サイドチェーンは、ETCインフラストラクチャおよびプロトコルのネイティブ部分になります。これにより、ETCのスケーラビリティが向上し、初めてハンドヘルドおよびIoTデバイスの多様なグループにブロックチェーンがもたらされます。
+sputnikVM: SputnikVM
+sputnikVMText: SputnikVMは、Ethereum Virtual
+  Machineの非常に効率的でプラグ可能な実装です。これは、ブロックチェーンとは独立して動作し、低電力デバイスで実行できるスタンドアロンのEVMです。超低電力デバイスで実行する計画があります。
+emeraldPlatform: エメラルドプラットフォーム
+emeraldPlatformText: Ethereum
+  ETCで実行されるアプリケーションを構築するためのツールキットには、UIコンポーネント、JavascriptとRustのライブラリ、アイコン、ビルドツールなどが含まれています。デスクトップ、モバイル、Web、さらにはシェルスクリプトなどのさまざまなプラットフォームを対象としています。
+dapps: >-
+  ## Etcを搭載したDapps
+
+  Ethereum Classicの上に構築された(分散型)アプリケーションのセレクション。
+
+
+  **⚠️悪意のあるリンクは発見されたときに削除されますが、許可なしの精神で動作するということは、すべてのリンクが正当であるという保証がないことを意味します。注意して使用し、自分で確認してください。**
+legend: 伝説
+production: 製造
+demo: デモ
+development: 開発
+resources: |-
+  ##リソース
+
+  エクスプローラー、チャットルーム、エクスチェンジ、マイニングプールなどのリソースの小さな選択。  
+  **自己責任。**
+moreResources: その他のリソース
+nodesAndNetworkInfo: ノード+ネットワーク情報
+nodesAndNetworkInfoText: ETCノードを実行し、以下のソフトウェアを使用してネットワークをサポートします。
+nodes: ノード
+networkInfo: ネットワーク情報
+blockExplorers: ブロックエクスプローラー
+blockExplorersText: これらの便利なWebサイトとの取引のステータスを確認してください。
+mainnet: メインネット
+testnets: テストネット
+networkApis: ネットワークAPI
+networkApisText: JSONRPCを使用してETCと通信します。
+publicApis: パブリックAPI
+privateDeployments: プライベート展開
+githubRepos: Githubリポジトリ
+twitter: ツイッター
+chatRooms: チャットルーム
+telegram: 電報
+wallets: 財布
+walletsText: 以下のウォレットのいずれかを使用して、ETCを保管および送信します。ハードウェアウォレットが最も安全です。それらを使用してください。
+webWallets: ウェブウォレット
+hardwareOffline: ハードウェア/オフライン
+desktop: デスクトップ
+mobile: モバイル
+exchanges: 取引所
+exchangesText: 以下の取引所のいずれかで取引してETCを入手してください。私たちはあなたのお気に入りの交換のすべてにリストされています。
+traditionalExchanges: 従来の交換
+decentralizedExchanges: 分散型取引所
+instantSwaps: インスタントスワップ
+paymentProcessors: 支払処理業者
+miningPools: マイニングプール
+miningPoolsText: 以下のプールのいずれかに参加して、ETCをマイニングします。

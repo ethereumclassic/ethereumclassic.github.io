@@ -15,6 +15,46 @@ module.exports = {
       flag: '🇩🇪',
       name: 'German',
       enabled: true
+    },
+    ru: {
+      name: 'Russian',
+      flag: '🇷🇺',
+      enabled: true
+    },
+    tr: {
+      name: 'Turkish',
+      flag: '🇹🇷',
+      enabled: true
+    },
+    ko: {
+      name: 'Korean',
+      flag: '🇰🇷',
+      enabled: true
+    },
+    fr: {
+      name: 'French',
+      flag: '🇫🇷',
+      enabled: true
+    },
+    el: {
+      name: 'Greek',
+      flag: '🇬🇷',
+      enabled: true
+    },
+    ja: {
+      name: 'Japanese',
+      flag: '🇯🇵',
+      enabled: true
+    },
+    es: {
+      name: 'Spanish',
+      flag: '🇪🇸',
+      enabled: true
+    },
+    vi: {
+      name: 'Vietnamese',
+      flag: '🇻🇳',
+      enabled: true
     }
   }
 };

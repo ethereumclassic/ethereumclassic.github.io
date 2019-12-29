@@ -1,0 +1,88 @@
+title: 知識ベース
+description: さまざまなEthereum Classicツールと概念に関するガイドと説明者
+intro: >-
+  # 知識ベース
+
+
+  Ethereum Classicナレッジベースへようこそ! ETCの学習を始めるのに最適な場所です。
+
+
+  イーサリアムクラシックには強力な哲学的基盤があり、コミュニティはブロックチェーンの分野ではめったに見られない原則にコミットしています。これらの原則はブロックチェーンを長期的に有用かつ成功させるものであるため、時間をどのように過ごすかを決定する際にそれらを理解することが重要です。
+
+
+  このセクションでは、ETCの将来を形作ったイベントやアイデアを紹介することにより、Ethereum Classicに関する誤った情報を払拭することを目的としています。
+
+
+  あなたがETCの完全な初心者であれば、このセクションを順番に読むことをお勧めします。それ以外の場合は、これらの記事を自由に閲覧してください。
+philosophy: >-
+  ##哲学
+
+
+  ETCが存在する理由とその意味を理解するには、ETCの起源とそれが表す原則を理解することが重要です。
+
+
+  ### [独立宣言](/blog/2016-08-13-declaration-of-independence)
+
+
+  基本的にはETCホワイトペーパー。原因の説明、苦情のリスト、およびその原則と目標の説明。
+
+
+  ### [暗号分散化マニフェスト](/blog/2016-07-11-manifesto)
+
+
+  すべてのブロックチェーンは、アプリケーションの周りにソーシャルネットワークを作成します。ネットワークの価値は、リードの法則に従って参加者の数とともに指数関数的に増加します。この値は、以前の集中型モデルのように、仲介者またはコントローラーによって抽出されません。代わりに、参加者間で共有され、強制なしで協力するための経済的インセンティブを提供します。すべてのブロックチェーンが同じように作成されるわけではありません。スケーラブルなブロックチェーン対応の協力を可能にする3つの重要な特性があります：オープン性、中立性、不変性。
+
+
+  ### [Ethereum Classic Vision](https://etherplan.com/2019/08/14/ethereum-classic-vision/8595/)
+
+
+  ETCがコンピューティングプラットフォームであると同時に価値のある優れたストアである理由
+
+
+  ### [Ethereum Classic対Ethereum 2.0、違いは何ですか？](https://etherplan.com/2019/07/23/ethereum-classic-vs-ethereum-2-0-what-is-the-difference/8425/)
+
+
+  Ethereum Classicは、セキュリティを重視した保守的なシステムであり、今後のEthereum 2.0はパフォーマンスを重視したプログレッシブなシステムであると言えます。
+
+
+  ### [仕事の証明よりもステークの証明が安全でない理由](https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of -work/9077/)
+
+
+  仕事の証明の物理的基盤に固定することにより、主観層は数桁の客観性、つまりセキュリティを獲得します。
+usingEtc: >-
+  ## ETCの使用
+
+
+  Ethereum Classicクライアントとウォレットを使用するためのガイド。
+
+
+  ### [レイマンの用語でイーサリアムクラシックはどのように機能しますか？](https://etherplan.com/2019/07/02/what-is-and-how-does-ethereum-classic-work-in- laymans-terms/8106/)
+
+  Ethereum Classicの仕組みの概要
+
+
+  ### [エメラルドウォレットの使用](/knowledge/using-emerald-wallet)
+
+  Emerald Walletをダウンロードしてインストールする方法を学ぶ
+faqs: |-
+  ##よくある質問  
+
+  ETC関連のトピックに関するよくある質問
+
+  ### [間違った住所に資金を送った](/knowledge/sent-funds-to-the-wrong-address)
+  間違った住所に資金を送った場合の対処方法をご覧ください。
+developers: >-
+  ##開発者
+
+
+  ETCでの開発に興味がある場合は、貢献方法に関するガイドをいくつかご紹介します。
+
+
+  ### [ECIPS](https://ecips.ethereumclassic.org/)
+
+  Ethereum Classic Improvement Proposals(ECIP)は、Ethereum Classic Protocolに対する提案された変更を説明する技術的な記事です。
+
+
+  ### [Emerald SDK](https://etcdev.gitbook.io/docs/emerald-sdk)
+
+  Emerald Software Development Kit(SDK)は、DAppを簡単に作成するための開発フレームワークです。

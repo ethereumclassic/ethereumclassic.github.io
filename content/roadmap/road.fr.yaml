@@ -1,0 +1,72 @@
+ethCompatibility: Compatibilité ETH
+ethCompatibilityDate: T1 2019
+ethCompatibilityText: L'EVM et SputnikVM seront mis à jour pour prendre en charge le hard fork Byz +
+  Const.
+embeddedSvm: SVM intégré
+embeddedSvmDate: T1 2019
+embeddedSvmText: Le SVM intégré permettra à EVM et SputnikVM pour les applications intégrées.
+documentationWebsite: Site de documentation
+documentationWebsiteDate: T1 2019
+documentationWebsiteText: Un nouveau site Web de documentation sera fourni pour aider les développeurs
+  nouveaux et existants. La documentation intégrée dans les outils ETC sera
+  explorée.
+classicGeth: Geth classique
+classicGethDate: T1-T2 2019
+classicGethText: Support et maintenance pour Classic Geth.
+jsonRpcSchema: Schéma JSON RPC
+jsonRpcSchemaDate: T1-T2 2019
+jsonRpcSchemaText: Créez ECIP pour la génération automatisée de schémas JSON à partir de
+  Classic-Geth et Multi-Geth. Cela réduira les coûts opérationnels liés aux
+  bibliothèques. Cette amélioration rendrait l'environnement de développement
+  DApp plus efficace en supprimant le besoin d'API RPC telles que Web3 ou
+  Emerald JS.
+serviceRunner: Service Runner
+serviceRunnerDate: T1-T2 2019
+serviceRunnerText: Une API Service Runner aiderait à gérer plus facilement les dépendances et les
+  intégrations du framework DApp.
+dappDeploymentTool: Outil de déploiement DApp
+dappDeploymentToolDate: T2 2019
+dappDeploymentToolText: Une application GUI facile à utiliser pour les développeurs de déployer leurs
+  DApps.
+uxUiResearch: Recherche UX/UI
+uxUiResearchDate: T2 2019
+uxUiResearchText: Des recherches seront effectuées pour étudier l'environnement de développement
+  DApp.
+multiNetworkExplorer: Explorateur multi-réseaux
+multiNetworkExplorerDate: Q2-Q3 2019
+multiNetworkExplorerText: Un explorateur de blocs facile à utiliser pour le développement DApp qui peut
+  être utilisé avec n'importe quel réseau basé sur Ethereum.
+etcJitCompiler: ETC JIT Compiler
+etcJitCompilerDate: T1-T3 2019
+etcJitCompilerText: Le compilateur ETC JIT traduira le code octet EVM en code machine natif. Le
+  compilateur JIT réduit généralement le temps d'exécution du programme d'un
+  facteur de 3 à 4 fois.
+atlantisHardFork: Fourche dure Atlantis
+atlantisHardForkDate: T3 2019
+atlantisHardForkText: Activez les mises à niveau exceptionnelles du protocole de réseau Ethereum
+  Foundation Spurious Dragon et Byzantium sur le réseau Ethereum Classic
+smartContractIde: IDE de contrat intelligent
+smartContractIdeDate: Q3-Q4 2019
+smartContractIdeText: Un IDE de contrat intelligent et un environnement d'exécution faciles à
+  utiliser.
+multiGeth: Multi-Geth
+multiGethDate: T4 2019
+multiGethText: Support et maintenance continus pour Multi-Geth.
+evmLlvmBackend: EVM LLVM Backend
+evmLlvmBackendDate: T2-T4 2019
+evmLlvmBackendText: Avec une cible backend EVM pour LLVM, les développeurs peuvent utiliser une
+  large gamme de langages de programmation autres que Solidity pour cibler la
+  machine virtuelle Ethereum. Un objectif backend EVM ouvre des opportunités de
+  débogage au niveau source et expose l'intérêt EVM à la communauté LLVM.
+devTutorialsAndGuides: Tutoriels et guides de développement
+devTutorialsAndGuidesDate: T1 - T4 2019
+devTutorialsAndGuidesText: Prise en charge continue des développeurs nouveaux et existants avec des
+  tutoriels et des guides.
+aghartaHardFork: Fourche dure Agharta
+aghartaHardForkDate: T1 2020
+aghartaHardForkText: Activez les mises à niveau exceptionnelles du protocole de réseau Ethereum
+  Foundation Constaninople et Petersburg sur le réseau Ethereum Classic.
+aztlNHardFork: Aztlán Hard Fork
+aztlNHardForkDate: À déterminer 2020
+aztlNHardForkText: Activez les mises à niveau exceptionnelles du protocole réseau Ethereum
+  Foundation Istanbul sur le réseau Ethereum Classic.

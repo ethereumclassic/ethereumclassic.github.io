@@ -1,0 +1,66 @@
+ethCompatibility: ETH Uyumluluğu
+ethCompatibilityDate: 1Ç 2019
+ethCompatibilityText: EVM ve SputnikVM, Byz + Const sabit çatalını destekleyecek şekilde
+  güncellenecektir.
+embeddedSvm: Gömülü SVM
+embeddedSvmDate: 1Ç 2019
+embeddedSvmText: Gömülü SVM, gömülü uygulamalar için EVM ve SputnikVM'ye izin verecektir.
+documentationWebsite: Dokümantasyon web sitesi
+documentationWebsiteDate: 1Ç 2019
+documentationWebsiteText: Yeni ve mevcut geliştiricilere yardımcı olmak için yeni bir dokümantasyon web
+  sitesi sağlanacaktır. VB takımındaki gömülü belgeler araştırılacaktır.
+classicGeth: Klasik Geth
+classicGethDate: 1Ç-2Ç 2019
+classicGethText: Classic Geth için destek ve bakım.
+jsonRpcSchema: JSON RPC Şeması
+jsonRpcSchemaDate: 1Ç-2Ç 2019
+jsonRpcSchemaText: Classic-Geth ve Multi-Geth'ten otomatik JSON Şeması üretimi için ECIP
+  oluşturun. Bu, kütüphanelerle ilgili işletim maliyetlerini azaltacaktır. Bu
+  gelişme, Web3 veya Emerald JS gibi RPC API'lerine olan ihtiyacı ortadan
+  kaldırarak DApp geliştirme ortamını daha verimli hale getirecektir.
+serviceRunner: Servis Koşucusu
+serviceRunnerDate: 1Ç-2Ç 2019
+serviceRunnerText: Service Runner API'si DApp çerçeve bağımlılıklarının ve entegrasyonlarının
+  yönetilmesini kolaylaştırır.
+dappDeploymentTool: DApp Dağıtım Aracı
+dappDeploymentToolDate: 2. Çeyrek 2019
+dappDeploymentToolText: Geliştiriciler DApps dağıtmak için GUI uygulaması kullanımı kolay.
+uxUiResearch: UX/UI Araştırması
+uxUiResearchDate: 2. Çeyrek 2019
+uxUiResearchText: DApp geliştirme ortamını araştırmak için araştırma yapılacaktır.
+multiNetworkExplorer: Çoklu Ağ Gezgini
+multiNetworkExplorerDate: 2Ç-3Ç 2019
+multiNetworkExplorerText: Herhangi bir Ethereum tabanlı ağ ile kullanılabilen DApp gelişimi için
+  kullanımı kolay bir blok gezgini.
+etcJitCompiler: VB JIT Derleyici
+etcJitCompilerDate: 1Ç-3Ç 2019
+etcJitCompilerText: ETC JIT derleyicisi EVM bayt kodunu yerel makine koduna çevirir. JIT
+  derleyicisi genellikle program yürütme süresini 3-4 kat azaltır.
+atlantisHardFork: Atlantis Sert Çatal
+atlantisHardForkDate: Ç3 2019
+atlantisHardForkText: Ethereum Classic ağında olağanüstü Ethereum Foundation Sahte Dragon ve Bizans
+  ağ protokolü yükseltmelerini etkinleştirin
+smartContractIde: Akıllı Sözleşme IDE
+smartContractIdeDate: Ç3-Ç4 2019
+smartContractIdeText: Akıllı sözleşme IDE ve çalışma ortamı kullanımı kolay.
+multiGeth: Çok Geth
+multiGethDate: Ç4 2019
+multiGethText: Multi-Geth için sürekli destek ve bakım.
+evmLlvmBackend: EVM LLVM Arka Uç
+evmLlvmBackendDate: Ç2-Ç4 2019
+evmLlvmBackendText: LLVM için bir EVM arka uç hedefi ile, geliştiriciler Ethereum Sanal
+  Makinesi'ni hedeflemek için Solidity dışında geniş bir programlama dili
+  kapsamı kullanabilirler. Bir EVM arka uç hedefi, kaynak düzeyinde hata
+  ayıklama için fırsatlar sunar ve EVM'nin LLVM topluluğuna ilgisini ortaya
+  çıkarır.
+devTutorialsAndGuides: Geliştirici Eğiticileri ve Kılavuzları
+devTutorialsAndGuidesDate: 1. Çeyrek - 4. Çeyrek 2019
+devTutorialsAndGuidesText: Yeni ve mevcut geliştiricileri öğreticiler ve kılavuzlarla sürekli destekleyin.
+aghartaHardFork: Agharta Sert Çatal
+aghartaHardForkDate: Q1 2020
+aghartaHardForkText: Ethereum Classic ağında olağanüstü Ethereum Foundation Constaninople ve
+  Petersburg ağ protokolü yükseltmelerini etkinleştirin.
+aztlNHardFork: Aztlan Sert Çatal
+aztlNHardForkDate: TBD 2020
+aztlNHardForkText: Ethereum Classic ağında olağanüstü Ethereum Foundation İstanbul ağ protokolü
+  yükseltmelerini etkinleştirin.

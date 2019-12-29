@@ -1,0 +1,71 @@
+ethCompatibility: ETH Συμβατότητα
+ethCompatibilityDate: Q1 2019
+ethCompatibilityText: Τα EVM και SputnikVM θα ενημερωθούν για να υποστηρίξουν το σκληρό πιρούνι Byz
+  + Const.
+embeddedSvm: Ενσωματωμένο SVM
+embeddedSvmDate: Q1 2019
+embeddedSvmText: Το ενσωματωμένο SVM θα επιτρέψει στην EVM και την SputnikVM για ενσωματωμένες
+  εφαρμογές.
+documentationWebsite: Ιστοσελίδα τεκμηρίωσης
+documentationWebsiteDate: Q1 2019
+documentationWebsiteText: Θα παρέχεται ένας νέος ιστότοπος τεκμηρίωσης για να βοηθήσει νέους και
+  υπάρχοντες προγραμματιστές. Θα εξεταστεί η ενσωματωμένη τεκμηρίωση στο
+  εργαλείο ETC.
+classicGeth: Κλασικό Geth
+classicGethDate: Q1-Q2 2019
+classicGethText: Υποστήριξη και συντήρηση για το Classic Geth.
+jsonRpcSchema: JSON RPC Schema
+jsonRpcSchemaDate: Q1-Q2 2019
+jsonRpcSchemaText: Δημιουργήστε το ECIP για αυτοματοποιημένη δημιουργία σχήματος JSON από
+  Classic-Geth και Multi-Geth. Αυτό θα μειώσει το λειτουργικό κόστος που
+  σχετίζεται με τις βιβλιοθήκες. Αυτή η βελτίωση θα καταστήσει το περιβάλλον
+  ανάπτυξης του DApp πιο αποτελεσματικό, αφαιρώντας την ανάγκη για API RPC όπως
+  το Web3 ή το Emerald JS.
+serviceRunner: Υπηρεσία δρομέας
+serviceRunnerDate: Q1-Q2 2019
+serviceRunnerText: Ένα API Runner Service θα βοηθούσε στην ευκολότερη διαχείριση των εξαρτήσεων
+  πλαισίων του DApp και των ενοποιήσεων.
+dappDeploymentTool: Εργαλείο ανάπτυξης DApp
+dappDeploymentToolDate: Q2 2019
+dappDeploymentToolText: Μια εύχρηστη εφαρμογή GUI για προγραμματιστές για την ανάπτυξη των DApps τους.
+uxUiResearch: Έρευνα UX/UI
+uxUiResearchDate: Q2 2019
+uxUiResearchText: Θα διεξαχθεί έρευνα για τη διερεύνηση του περιβάλλοντος ανάπτυξης DApp.
+multiNetworkExplorer: Εξερεύνηση πολλαπλών δικτύων
+multiNetworkExplorerDate: Q2-Q3 2019
+multiNetworkExplorerText: Ένα εύκολο στη χρήση εξερευνητής μπλοκ για ανάπτυξη DApp που μπορεί να
+  χρησιμοποιηθεί με οποιοδήποτε δίκτυο που βασίζεται στο Ethereum.
+etcJitCompiler: ETC JIT Compiler
+etcJitCompilerDate: Q1-Q3 2019
+etcJitCompilerText: Ο μεταγλωττιστής ETC JIT μεταφράζει τον κώδικα byte κώδικα EVM στον εγγενή
+  κώδικα μηχανής. Ο μεταγλωττιστής JIT συνήθως μειώνει τον χρόνο εκτέλεσης του
+  προγράμματος κατά ένα συντελεστή 3-4x.
+atlantisHardFork: Σκληρό πεντάρι της Ατλαντίδας
+atlantisHardForkDate: Q3 2019
+atlantisHardForkText: Ενεργοποιήστε τις εκκρεμείς αναβαθμίσεις πρωτότυπου πρωτοκόλλου δικτύων
+  Ethereum Foundation Spurious Dragon και Byzantium στο δίκτυο Ethereum Classic
+smartContractIde: Έξυπνο συμβόλαιο IDE
+smartContractIdeDate: Q3-Q4 2019
+smartContractIdeText: Ένα εύχρηστο έξυπνο συμβόλαιο IDE και περιβάλλον χρόνου εκτέλεσης.
+multiGeth: Multi-Geth
+multiGethDate: Q4 2019
+multiGethText: Συνεχής υποστήριξη και συντήρηση για το Multi-Geth.
+evmLlvmBackend: EVM LLVM Backend
+evmLlvmBackendDate: Q2-Q4 2019
+evmLlvmBackendText: Με στόχο EVM για το LLVM, οι προγραμματιστές μπορούν να χρησιμοποιήσουν ένα
+  μεγάλο εύρος γλωσσών προγραμματισμού εκτός από την Solidity για να στοχεύσουν
+  στην εικονική μηχανή Ethereum. Ένας στόχος υποστήριξης EVM ανοίγει ευκαιρίες
+  για την ανίχνευση επιπέδου πηγής και εκθέτει το ενδιαφέρον EVM στην κοινότητα
+  LLVM.
+devTutorialsAndGuides: Dev Tutorials και Οδηγοί
+devTutorialsAndGuidesDate: Q1-Q4 2019
+devTutorialsAndGuidesText: Συνεχής υποστήριξη νέων και υφιστάμενων προγραμματιστών με μαθήματα και
+  οδηγούς.
+aghartaHardFork: Agartta Hard Fork
+aghartaHardForkDate: Α 'τρίμηνο του 2020
+aghartaHardForkText: Ενεργοποιήστε τις εκκρεμείς αναβαθμίσεις πρωτοκόλλου δικτύου Ethereum
+  Foundation Constaninople και Petersburg στο δίκτυο Ethereum Classic.
+aztlNHardFork: Σκληρό Πιρούνι Αζτλάν
+aztlNHardForkDate: TBD 2020
+aztlNHardForkText: Ενεργοποιήστε τις εκκρεμείς αναβαθμίσεις πρωτοκόλλου δικτύου Ethereum
+  Foundation Istanbul στο δίκτυο Ethereum Classic.

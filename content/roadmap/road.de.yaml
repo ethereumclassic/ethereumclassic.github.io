@@ -1,0 +1,72 @@
+ethCompatibility: ETH-Kompatibilität
+ethCompatibilityDate: Q1 2019
+ethCompatibilityText: EVM und SputnikVM werden aktualisiert, um die Byz + Const-Gabel zu
+  unterstützen.
+embeddedSvm: Embedded SVM
+embeddedSvmDate: Q1 2019
+embeddedSvmText: Embedded SVM ermöglicht EVM und SputnikVM für eingebettete Anwendungen.
+documentationWebsite: Dokumentations-Website
+documentationWebsiteDate: Q1 2019
+documentationWebsiteText: Eine neue Dokumentations-Website wird bereitgestellt, um neuen und bestehenden
+  Entwicklern zu helfen. Die eingebettete Dokumentation in ETC-Tools wird
+  untersucht.
+classicGeth: Klassisches Geth
+classicGethDate: Q1-Q2 2019
+classicGethText: Support und Wartung für Classic Geth.
+jsonRpcSchema: JSON-RPC-Schema
+jsonRpcSchemaDate: Q1-Q2 2019
+jsonRpcSchemaText: Erstellen Sie ECIP für die automatische Generierung von JSON-Schemas aus
+  Classic-Geth und Multi-Geth. Dies reduziert die Betriebskosten für
+  Bibliotheken. Diese Verbesserung würde die DApp-Entwicklungsumgebung
+  effizienter machen, da keine RPC-APIs wie Web3 oder Emerald JS mehr
+  erforderlich sind.
+serviceRunner: Service Runner
+serviceRunnerDate: Q1-Q2 2019
+serviceRunnerText: Eine Service Runner-API würde dazu beitragen, DApp-Framework-Abhängigkeiten
+  und -Integrationen einfacher zu verwalten.
+dappDeploymentTool: DApp-Bereitstellungstool
+dappDeploymentToolDate: Q2 2019
+dappDeploymentToolText: Eine benutzerfreundliche GUI-Anwendung, mit der Entwickler ihre DApps
+  bereitstellen können.
+uxUiResearch: UX/UI-Forschung
+uxUiResearchDate: Q2 2019
+uxUiResearchText: Es werden Forschungsarbeiten durchgeführt, um die DApp-Entwicklungsumgebung zu
+  untersuchen.
+multiNetworkExplorer: Multi-Netzwerk-Explorer
+multiNetworkExplorerDate: Q2-Q3 2019
+multiNetworkExplorerText: Ein benutzerfreundlicher Block-Explorer für die DApp-Entwicklung, der mit
+  jedem Ethereum-basierten Netzwerk verwendet werden kann.
+etcJitCompiler: ETC JIT Compiler
+etcJitCompilerDate: Q1-Q3 2019
+etcJitCompilerText: Der ETC JIT-Compiler übersetzt den EVM-Bytecode in systemeigenen
+  Maschinencode. Der JIT-Compiler reduziert die Programmausführungszeit in der
+  Regel um den Faktor 3 bis 4.
+atlantisHardFork: Atlantis harte Gabel
+atlantisHardForkDate: Q3 2019
+atlantisHardForkText: Aktivieren Sie die herausragenden Netzwerkprotokoll-Upgrades von Ethereum
+  Foundation Spurious Dragon und Byzantium im Ethereum Classic-Netzwerk
+smartContractIde: Intelligente Vertrags-IDE
+smartContractIdeDate: Q3-Q4 2019
+smartContractIdeText: Eine benutzerfreundliche, intelligente Vertrags-IDE und Laufzeitumgebung.
+multiGeth: Multi-Geth
+multiGethDate: Q4 2019
+multiGethText: Kontinuierlicher Support und Wartung für Multi-Geth.
+evmLlvmBackend: EVM LLVM Backend
+evmLlvmBackendDate: Q2-Q4 2019
+evmLlvmBackendText: Mit einem EVM-Backend-Ziel für LLVM können Entwickler eine Vielzahl von
+  anderen Programmiersprachen als Solidity verwenden, um auf die virtuelle
+  Maschine von Ethereum abzuzielen. Ein EVM-Backend-Ziel eröffnet Möglichkeiten
+  für das Debuggen auf Quellenebene und macht EVM für die LLVM-Community
+  interessant.
+devTutorialsAndGuides: Dev Tutorials und Guides
+devTutorialsAndGuidesDate: Q1-Q4 2019
+devTutorialsAndGuidesText: Ständige Unterstützung neuer und bestehender Entwickler mit Tutorials und
+  Anleitungen.
+aghartaHardFork: Agharta harte Gabel
+aghartaHardForkDate: Q1 2020
+aghartaHardForkText: Aktivieren Sie die herausragenden Netzwerkprotokoll-Upgrades für Ethereum
+  Foundation Constaninople und Petersburg im Ethereum Classic-Netzwerk.
+aztlNHardFork: Aztlán Hard Fork
+aztlNHardForkDate: TBD 2020
+aztlNHardForkText: Aktivieren Sie die herausragenden Upgrades des Ethereum Foundation
+  Istanbul-Netzwerkprotokolls im Ethereum Classic-Netzwerk.

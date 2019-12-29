@@ -1,0 +1,88 @@
+title: Kiến thức cơ bản
+description: Hướng dẫn và giải thích về các công cụ và khái niệm Ethereum Classic khác nhau
+intro: >-
+  # Kiến thức cơ bản
+
+
+  Chào mừng bạn đến với nền tảng kiến thức Ethereum Classic! Đây là nơi tốt nhất để bắt đầu tìm hiểu về ETC.
+
+
+  Ethereum Classic có nền tảng triết học mạnh mẽ và cộng đồng của nó có cam kết về các nguyên tắc hiếm thấy trong không gian blockchain. Những nguyên tắc này là những gì làm cho blockchains hữu ích và thành công trong thời gian dài, vì vậy điều quan trọng là phải hiểu chúng khi quyết định sử dụng thời gian của bạn.
+
+
+  Phần này dự định sẽ xua tan thông tin sai lệch về Ethereum Classic bằng cách hướng dẫn bạn thông qua các sự kiện và ý tưởng hình thành nên ETC trong tương lai.
+
+
+  Nếu bạn là người mới bắt đầu hoàn thành ETC, bạn nên đọc phần này theo thứ tự. Nếu không, hãy thoải mái xem qua các bài viết này lúc rảnh rỗi.
+philosophy: >-
+  ## Triết học
+
+
+  Để hiểu tại sao ETC tồn tại và những gì nó đại diện, điều quan trọng là phải hiểu nguồn gốc của nó và các nguyên tắc mà nó đại diện.
+
+
+  ### [Tuyên ngôn độc lập](/blog/2016-08-13-tuyên bố độc lập)
+
+
+  Về cơ bản là Whitepaper ETC. Một tuyên bố về nguyên nhân của nó, một danh sách bất bình và mô tả về các nguyên tắc và mục tiêu của nó.
+
+
+  ### [Bản tuyên ngôn về tiền điện tử](/blog/2016-07-11-tuyên ngôn)
+
+
+  Mỗi blockchain tạo ra một mạng xã hội xung quanh các ứng dụng của nó, với giá trị mạng tăng theo cấp số nhân với số lượng người tham gia theo Luật của Reed. Giá trị này không được trích xuất bởi các trung gian hoặc bộ điều khiển, như với các mô hình tập trung trước đó. Thay vào đó, nó được chia sẻ giữa những người tham gia, cung cấp các khuyến khích kinh tế cho sự hợp tác mà không ép buộc. Không phải tất cả các blockchains được tạo ra bằng nhau. Có ba đặc điểm chính giúp cho khả năng hợp tác dựa trên blockchain có thể mở rộng: tính cởi mở, tính trung lập và tính bất biến.
+
+
+  ### [Tầm nhìn cổ điển Ethereum](https://etherplan.com/2019/08/14/ethereum- classic-vision/8595/)
+
+
+  Tại sao ETC vừa là nền tảng điện toán vừa là kho lưu trữ giá trị tuyệt vời
+
+
+  ### [Ethereum Classic vs Ethereum 2.0, sự khác biệt là gì?](Https://etherplan.com/2019/07/23/ethereum- classic-vs-Ethereum-2-0-what-is-the-default/8425/)
+
+
+  Có thể nói, Ethereum Classic là một hệ thống được vận hành bảo mật, tập trung vào bảo mật và Ethereum 2.0 sắp tới là một hệ thống chạy liên tục, tập trung vào hiệu suất
+
+
+  ### [Tại sao Proof of Stake kém an toàn hơn Proof of Work](https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of -work/9077/)
+
+
+  Bằng cách thả neo vào một bằng chứng về cơ sở vật lý công việc, lớp chủ quan thu được các mệnh lệnh có độ khách quan hơn, do đó bảo mật.
+usingEtc: >-
+  ## Sử dụng ETC
+
+
+  Hướng dẫn sử dụng Ethereum Classic khách hàng và ví.
+
+
+  ### [Ethereum Classic hoạt động như thế nào trong các điều khoản của Layman?](Https://etherplan.com/2019/07/02/what-is-and-how-does-ethereum- classic-work-in- điều khoản cư sĩ/8106/)
+
+  Tổng quan cấp cao về cách thức hoạt động của Ethereum Classic
+
+
+  ### [Sử dụng ví Emerald](/kiến thức/cách sử dụng-emerald-ví)
+
+  Tìm hiểu cách tải xuống và cài đặt Emerald Wallet
+faqs: |-
+  ## Câu hỏi thường gặp  
+
+  Các câu hỏi thường gặp về các chủ đề liên quan đến ETC
+
+  ### [Đã gửi tiền đến địa chỉ sai](/kiến thức/đã gửi tiền đến địa chỉ sai)
+  Tìm hiểu phải làm gì nếu bạn gửi tiền đến địa chỉ sai.
+developers: >-
+  ## Nhà phát triển
+
+
+  Nếu bạn quan tâm đến việc phát triển với ETC, đây là một số hướng dẫn về cách đóng góp.
+
+
+  ### [ECIPS](https://ecips.ethereum classic.org/)
+
+  Các đề xuất cải tiến Ethereum Classic (ECIP), là các bài viết kỹ thuật mô tả các thay đổi được đề xuất cho Giao thức Ethereum Classic.
+
+
+  ### [SDK Emerald](https://etcdev.gitbook.io/docs/emerald-sdk)
+
+  Emerald Software Development Kit (SDK) là một khung phát triển để dễ dàng tạo DApps.

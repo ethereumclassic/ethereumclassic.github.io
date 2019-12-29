@@ -1,0 +1,65 @@
+ethCompatibility: Khả năng tương thích ETH
+ethCompatibilityDate: Quý 1 năm 2019
+ethCompatibilityText: EVM và SputnikVM sẽ được cập nhật để hỗ trợ hard fork Byz + Const.
+embeddedSvm: SVM nhúng
+embeddedSvmDate: Quý 1 năm 2019
+embeddedSvmText: SVM nhúng sẽ cho phép EVM và SputnikVM cho các ứng dụng nhúng.
+documentationWebsite: Trang web tài liệu
+documentationWebsiteDate: Quý 1 năm 2019
+documentationWebsiteText: Một trang web tài liệu mới sẽ được cung cấp để giúp các nhà phát triển mới và
+  hiện có. Tài liệu nhúng trong công cụ ETC sẽ được khám phá.
+classicGeth: Geth cổ điển
+classicGethDate: Quý 1 năm 2019
+classicGethText: Hỗ trợ và bảo trì cho Classic Geth.
+jsonRpcSchema: Lược đồ RPC JSON
+jsonRpcSchemaDate: Quý 1 năm 2019
+jsonRpcSchemaText: Tạo ECIP để tạo lược đồ JSON tự động từ Classic-Geth và Multi-Geth. Điều này
+  sẽ giảm chi phí hoạt động liên quan đến thư viện. Cải tiến này sẽ làm cho môi
+  trường phát triển DApp hiệu quả hơn bằng cách loại bỏ nhu cầu về API RPC như
+  Web3 hoặc Emerald JS.
+serviceRunner: Á hậu phục vụ
+serviceRunnerDate: Quý 1 năm 2019
+serviceRunnerText: API Service Runner sẽ giúp quản lý các phụ thuộc và tích hợp khung DApp dễ
+  dàng hơn.
+dappDeploymentTool: Công cụ triển khai DApp
+dappDeploymentToolDate: Quý 2 năm 2019
+dappDeploymentToolText: Một ứng dụng GUI dễ sử dụng cho các nhà phát triển để triển khai DApps của họ.
+uxUiResearch: Nghiên cứu về UX/UI
+uxUiResearchDate: Quý 2 năm 2019
+uxUiResearchText: Nghiên cứu sẽ được thực hiện để điều tra môi trường phát triển DApp.
+multiNetworkExplorer: Explorer đa mạng
+multiNetworkExplorerDate: Quý 2 năm 2019
+multiNetworkExplorerText: Một trình thám hiểm khối dễ sử dụng để phát triển DApp có thể được sử dụng với
+  bất kỳ mạng dựa trên Ethereum nào.
+etcJitCompiler: Trình biên dịch JIT ETC
+etcJitCompilerDate: Quý 1 năm 2019
+etcJitCompilerText: Trình biên dịch ETC JIT sẽ dịch mã byte EVM sang mã máy gốc. Trình biên dịch
+  JIT thường giảm thời gian thực hiện chương trình xuống 3 nhân tố44.
+atlantisHardFork: Ngã ba Atlantis
+atlantisHardForkDate: Quý 3 năm 2019
+atlantisHardForkText: Cho phép nâng cấp giao thức mạng Speum Dragon và Byzantium nổi bật của
+  Ethereum Foundation trên mạng Ethereum Classic
+smartContractIde: IDE hợp đồng thông minh
+smartContractIdeDate: Quý 3-2019
+smartContractIdeText: Dễ dàng sử dụng IDE hợp đồng thông minh và môi trường thời gian chạy.
+multiGeth: Đa năng
+multiGethDate: Quý 4 năm 2019
+multiGethText: Hỗ trợ và bảo trì liên tục cho Multi-Geth.
+evmLlvmBackend: EVM LLVM
+evmLlvmBackendDate: Quý 2-2019
+evmLlvmBackendText: Với mục tiêu phụ trợ EVM cho LLVM, các nhà phát triển có thể sử dụng một phạm
+  vi lớn các ngôn ngữ lập trình khác ngoài Solidity để nhắm mục tiêu Máy ảo
+  Ethereum. Mục tiêu phụ trợ EVM mở ra cơ hội gỡ lỗi ở mức nguồn và thể hiện sự
+  quan tâm của EVM đối với cộng đồng LLVM.
+devTutorialsAndGuides: Hướng dẫn và hướng dẫn phát triển
+devTutorialsAndGuidesDate: Q1 Q1 Q4 2019
+devTutorialsAndGuidesText: Hỗ trợ liên tục các nhà phát triển mới và hiện có với các hướng dẫn và hướng
+  dẫn.
+aghartaHardFork: Agharta Hard Fork
+aghartaHardForkDate: Quý 1 năm 2020
+aghartaHardForkText: Cho phép nâng cấp giao thức mạng Ethereum Foundation Constaninople và
+  Petersburg nổi bật trên mạng Ethereum Classic.
+aztlNHardFork: Ngã ba Aztlán
+aztlNHardForkDate: TBD 2020
+aztlNHardForkText: Cho phép nâng cấp giao thức mạng Ethereum Foundation Istanbul nổi bật trên
+  mạng Ethereum Classic.

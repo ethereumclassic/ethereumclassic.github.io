@@ -96,7 +96,7 @@
   link: https://blog.ethereum.org/2016/06/24/dao-wars-youre-voice-soft-fork-dilemma/
   icon: fas fa-wrench
   date: Jun 24 2016
-  titleWars: "DAO Wars: Soft Fork Vote"
+  title: "DAO Wars: Soft Fork Vote"
   text: The Ethereum Foundation releases a 'Soft Fork' client to censor transactions coming from the hacker; mining pools vote to enable it by lowering gas limit
 -
   key: softForkVulnerability

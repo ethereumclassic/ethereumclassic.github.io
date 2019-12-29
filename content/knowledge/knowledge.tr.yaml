@@ -1,0 +1,89 @@
+title: Bilgi tabanı
+description: Çeşitli Ethereum Classic araçları ve kavramları hakkında kılavuzlar ve
+  açıklayıcılar
+intro: >-
+  # Bilgi tabanı
+
+
+  Ethereum Classic bilgi tabanına hoş geldiniz! İşte VB hakkında bilgi almak için başlamak için en iyi yer.
+
+
+  Ethereum Classic'in güçlü bir felsefi temeli vardır ve topluluğu, blockchain alanında nadiren görülen ilkelere bağlılık gösterir. Bu ilkeler, uzun vadede blok zincirleri faydalı ve başarılı kılan şeydir, bu nedenle zamanınızı nasıl geçireceğinize karar verirken onları anlamak önemlidir.
+
+
+  Bu bölüm, gelecekteki VB'yi şekillendiren olaylar ve fikirler konusunda size rehberlik ederek Ethereum Classic hakkındaki yanlış bilgileri ortadan kaldırmayı amaçlamaktadır.
+
+
+  ETC'ye tamamen yeni başlıyorsanız, sırayla bu bölümü okumanız önerilir. Aksi takdirde, boş zamanlarınızda bu makalelere göz atabilirsiniz.
+philosophy: >-
+  ## Felsefe
+
+
+  ETC'nin neden var olduğunu ve neyi temsil ettiğini anlamak için, kökenlerini ve temsil ettiği ilkeleri anlamak önemlidir.
+
+
+  ### [Bağımsızlık Bildirgesi](/blog/2016-08-13-Bağımsızlık Bildirgesi)
+
+
+  Esasen ETC Tanıtım Belgesi. Sebebinin ifadesi, şikayetlerin bir listesi ve ilkelerinin ve hedeflerinin açıklaması.
+
+
+  ### [Bir Kripto Merkezi Olmayan Manifesto](/blog/2016-07-11-manifesto)
+
+
+  Her blok zinciri, uygulamaları etrafında, sosyal ağın Reed Yasası uyarınca katılımcı sayısı ile katlanarak arttığı bir sosyal ağ oluşturur. Bu değer, önceki merkezi modellerde olduğu gibi aracılar veya denetleyiciler tarafından alınmaz. Bunun yerine, zorlama olmadan işbirliği için ekonomik teşvikler sağlayan katılımcılar arasında paylaşılmaktadır. Tüm blok zincirleri eşit yaratılmaz. Ölçeklenebilir blockchain özellikli işbirliğini mümkün kılan üç temel özellik vardır: açıklık, tarafsızlık ve değişmezlik.
+
+
+  ### [Ethereum Klasik Vizyon](https://etherplan.com/2019/08/14/ethereum-classic-vision/8595/)
+
+
+  ETC neden hem bir bilgi işlem platformu hem de mükemmel bir değer deposu
+
+
+  ### [Ethereum Classic ve Ethereum 2.0, Fark Nedir?](Https://etherplan.com/2019/07/23/ethereum-classic-vs-ethereum-2-0-what-is-the-difference/8425/)
+
+
+  Ethereum Classic'in güvenliğe odaklı, muhafazakar bir şekilde çalışan bir sistem olduğu ve yaklaşan Ethereum 2.0'ın performansa odaklanan aşamalı olarak çalışan bir sistem olduğu söylenebilir.
+
+
+  ### [Bahis Kanıtı Neden İş Kanıtı'ndan Daha Az Güvenli](https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of -çalışma/9077/)
+
+
+  İşin fiziksel temelinin bir kanıtına demir atarak, öznel katman daha fazla tarafsızlık, dolayısıyla güvenlik emirleri elde eder.
+usingEtc: >-
+  ## ETC kullanma
+
+
+  Ethereum Classic müşterilerini ve cüzdanlarını kullanma kılavuzları.
+
+
+  ### [Ethereum Classic, Layman'ın Şartlarıyla Nedir ve Nasıl Çalışır?](Https://etherplan.com/2019/07/02/what-is-and-how-does-ethereum-classic-work-in- laymans-terimleri/8106/)
+
+  Ethereum Classic'in nasıl çalıştığına dair üst düzey bir genel bakış
+
+
+  ### [Zümrüt Cüzdan Kullanımı](/bilgi/using-zümrüt-cüzdan)
+
+  Emerald Wallet'ı nasıl indirip yükleyeceğinizi öğrenin
+faqs: |-
+  ## SSS  
+
+  ETC ile ilgili konularda sık sorulan sorular
+
+  ### [Yanlış Adrese Para Gönderildi](/bilgi/yanlış adrese gönderilen para)
+  Yanlış adrese para gönderirseniz ne yapacağınızı öğrenin.
+developers: >-
+  ## Geliştiriciler
+
+
+  ETC ile geliştirmeyle ilgileniyorsanız, nasıl katkıda bulunabileceğinizle ilgili bazı kılavuzlar.
+
+
+  ### [ECIPS](https://ecips.ethereumclassic.org/)
+
+  Ethereum Klasik Geliştirme Önerileri (ECIP'ler), Ethereum Klasik Protokolünde önerilen değişiklikleri açıklayan teknik yazılardır.
+
+
+  ### [Zümrüt SDK](https://etcdev.gitbook.io/docs/emerald-sdk)
+
+  Zümrüt Yazılım Geliştirme Kiti (SDK), DApp'leri kolayca oluşturmak için bir geliştirme çerçevesidir.

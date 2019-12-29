@@ -1,0 +1,57 @@
+title: Mannschaften
+description: Wichtige Organisationen, die zu Ethereum Classic beitragen
+intro: >-
+  # Mannschaften
+
+
+  Das Ethereum Classic-Ökosystem ist dezentralisiert und weist keine formale Hierarchie auf. es ist eine erlaubnislose „do-ocracy“, an der jeder teilnehmen kann. Einzelpersonen und Teams wählen Aufgaben für sich und führen sie aus.
+
+
+  Diese Seite enthält eine Auswahl der führenden Teams, die aktiv zum ETC-Ökosystem beitragen.
+
+
+  ETC wächst und jetzt ist eine großartige Zeit, sich an einem wichtigen und einzigartigen Blockchain-Projekt zu beteiligen! Wenn Sie einen Beitrag leisten möchten, sollten Sie sich an eines der folgenden Teams wenden. Sie können auch dem [discord channel] beitreten (https://discordapp.com/invite/HW4GckH).
+etcLabs: ETC Labs
+etcLabsText: >-
+  ETC Labs bietet Finanzmittel, Branchenverbindungen und Büroflächen für
+  aufkeimende ETC-Projekte. mit Büroräumen in San Francisco und Singapur. Ihr
+  langfristiges Ziel ist es, die Entwicklung der Ethereum Classic Community und
+  des Ökosystems zu beschleunigen.
+
+
+  Das ETC Labs-Kernteam wird sich auf die Kernprojekte von Ethereum Classic konzentrieren und die ETC-Blockchain unterstützen und Tools für die dezentrale Anwendungsentwicklung, das Mining und die Dienste bereitstellen. In ihrer Mission legen sie Wert auf Unveränderlichkeit, Dezentralisierung und Abwärtskompatibilität des Staates.
+etcCore: ETC Core
+etcCoreText: >-
+  ETC Core ist das führende Kernentwicklungsteam von Ethereum Classic.
+
+
+  Ausgehend von grundlegenden Spezifikationen, Toolsuiten und Ressourcen bieten sie Open-Source-Tools für das Ethereum Classic-Ökosystem. Sie glauben fest an die kettenübergreifende Kompatibilität und setzen diese Philosophie in ihren Projekten um. Sie können viele ihrer Tools in jeder EVM-basierten Blockchain verwenden.
+
+
+  Sie unterstützen aktiv die langfristige Entwicklung des ETC-Protokolls. Sie tun dies, indem sie sich für Verbesserungsspezifikationen zur Annahme und Aufrechterhaltung von Multi-Geth einsetzen.
+
+
+  Sie sind bestrebt, die Fähigkeiten des EthereumStack durch ihre EVM-LLVM-Projekt- und Compiler-Verbesserungsinitiativen zu maximieren.
+etcCoop: ETC-Genossenschaft
+etcCoopText: "> Die ETC-Genossenschaft (die „ECC“) wurde gegründet, um das Wachstum und die
+  Entwicklung von Ethereum Classic finanziell zu unterstützen, indem drei
+  Schlüsselaspekte des ETC-Ökosystems finanziert werden: Entwicklung, Marketing
+  und Community. Zu diesem Zweck dienen sie als Bindeglied zwischen
+  verschiedenen Teams, pflegen Community-basierte Software und wenden sich an
+  Mitglieder anderer Ethereum-basierter Communities."
+chainsafe: ChainSafe
+chainsafeText: "> ChainSafe ist ein Team von Entwicklern und Nerds, die sich darauf
+  konzentrieren, die Probleme ihrer Kunden mithilfe der Blockchain-Technologie
+  zu lösen, wo immer dies möglich ist. Entwickler mit Interesse an Blockchains,
+  Augmented Reality und Sharing Economy (P2P-Netzwerke). Hilfe beim Aufbau von
+  Web3 für eine bessere Welt. </p>"
+iohk: IOHK (Grothendieck)
+iohkText: "> Das IOHK Grothendieck-Team ist eine motivierte Gruppe von Ingenieuren und
+  Entwicklern, die sich aus Mathematik und Naturwissenschaften zusammensetzt. An
+  der Spitze der Teamentwicklung steht Mantis, ein Knoten-Client, der mit Scala,
+  einer funktionalen Programmiersprache, von Grund auf neu erstellt wurde.
+  Mantis stellt problemlos eine Verbindung zur IOHK Daedalus
+  Wallet-Benutzeroberfläche her, sodass Benutzer ihre ETC problemlos verwalten
+  können. Der Fokus des Teams liegt auf der sicheren und methodischen
+  Einrichtung eines starken ETC-Ökosystems mit einer soliden Grundlage und
+  Unveränderlichkeit im Kern."
