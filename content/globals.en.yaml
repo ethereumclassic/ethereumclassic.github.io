@@ -36,8 +36,8 @@ goBack: Go Back
 # Red pop up, used for hard fork warnings and such
 #
 warningTitle: Hard Fork Alert
-warningText: Ethereum Classic is undergoing a planned upgrade "Agharta" around 15 Jan 2020.
-  If you run an ETC node please upgrade as soon as possible.
+warningText: Ethereum Classic is undergoing a planned upgrade "Agharta" on block 9.573M,
+  around 12 Jan 2020. If you run an ETC node please upgrade as soon as possible.
 warningButton: Upgrade
 #  ## Latest Blog Posts
 # Appears on landing page and blog section
