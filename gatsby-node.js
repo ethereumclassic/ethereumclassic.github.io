@@ -23,11 +23,15 @@ async function processYamlMarkdown(obj) {
       const { contents } = await remark()
         .use(markdown, { sanitize: true })
         .use(remark2rehype)
-        // strip <p> tags if there's only one line (use `>` to bring back)
+        // strip <p> and <a> tags if there's only one line (use `>` to bring back)
         .use(() => tree => {
           if (tree.children.length === 1 && tree.children[0].children) {
             // eslint-disable-next-line no-param-reassign
             tree.children = tree.children[0].children;
+            if (tree.children[0].tagName && tree.children[0].tagName === 'a') {
+              // eslint-disable-next-line no-param-reassign
+              tree.children = tree.children[0].children;
+            }
           }
         })
         .use(html)
@@ -193,9 +197,10 @@ exports.onCreateNode = async ({ node, loadNodeContent, actions: { createNodeFiel
 };
 
 function getGlobals(locale, tree) {
+  const myLocale = tree.content[locale] || { yaml: { globals: {} } };
   return {
     ...tree.content[defaultLocale].yaml.globals,
-    ...tree.content[locale].yaml.globals
+    ...myLocale.yaml.globals
   };
 }
 

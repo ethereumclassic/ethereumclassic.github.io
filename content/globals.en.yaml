@@ -1,52 +1,70 @@
-##
-# META
-##
+#  This file contains words that are used on every page (such as menu and footer).
+#
+# ## Metadata
+# ### Data about the page used by search engines, etc.
+#
+# This title appears in browser tab / window
 title: Ethereum Classic
-description: | 
-  A decentralized platform that runs smart contracts: applications that run exactly as programmed without downtime, censorship or third party interference
+#  A short description that appears in google searches
+description: >
+  A decentralized platform that runs smart contracts: applications that run
+  exactly as programmed without downtime, censorship or third party interference
+#  Date format used to display dates globally
 dateFormat: YYYY.MM.DD
+#  Used by og:locale meta tag [info](https://kb.yoast.com/kb/changing-the-og-locale-output/)
 metaLocale: en_US
-htmlLang: en 
+#  Used in the <html> tag [info](https://www.w3schools.com/tags/att_lang.asp)
+htmlLang: en
+#  Do not edit this!
 bodyClass: default
-notFound: Page not found
-notFoundText: Sorry, this page doesn't exist
-goBack: Go Back
-# bodyClass: roman
-##
-# MAIN MENU
-##
+#  ## Main Menu
+#
 navHome: Home
 navKnowledge: Knowledge
 navTeams: Teams
 navEcosystem: Ecosystem
 navRoadmap: Roadmap
 navBlog: Blog
-##
-# MISC Navigation
-##
 knowledgeBase: Knowledge Base
-##
-# WARNING BANNER
-##
+#  ## 404 Page
+# Page displayed when link is broken or missing
+#
+notFound: Page not found
+notFoundText: Sorry, this page doesn't exist
+goBack: Go Back
+#  ## Warning Banner
+# Red pop up, used for hard fork warnings and such
+#
 warningTitle: Agharta Hardfork due 13 Jan 2020
 warningText: ETC has a planned upgrade "Agharta" at block 9,573,000 (~13 Jan 2020). If you run an ETC node please upgrade as soon as possible.
 warningButton: Upgrade
-##
-# BLOG POSTS
-##
+#  ## Latest Blog Posts
+# Appears on landing page and blog section
+#
 allBlogPosts: All Blog Posts
 submitArticle: Submit your Article
 latestArticles: Latest Articles
 noPosts: No posts in your selected language.
 englishPosts: English Posts
 continueReading: Continue Reading
-##
-# FOOTER
-##
+#  ## Footer
+# This section appears at the bottom of every page
+#
+# ### Discord Invite
+#
 discordText: "**ETC participants** are most active on **discord**."
 discordJoin: Join ETC on Discord
 getInvolved: Get Involved
-# community
+#  ### Newsletter
+#
+newsletterTitle: Newsletter
+newsletterInfo: Sign up below to get the latest updates straight to your inbox.
+newsletterConfirmation: Thank you for subscribing to the ETC newsletter!
+newsletterEmail: Email
+newsletterSubmit: Sign Up
+newsletterSubmitting: Just a moment...
+#  ### Community
+#
 communityTitle: Groups
 etcDev: ETCDEV
 iohk: IOHK
@@ -55,18 +73,12 @@ etcLabs: ETC Labs
 etcAsia: ETC Asia
 etcKorea: ETC Korea
 etcChina: ETC China
-# social
+#  ### Social
+#
 socialTitle: Social
 discord: Discord
 telegram: Telegram
 reddit: Reddit
 twitter: Twitter
-# newsletter
-newsletterTitle: Newsletter
-newsletterInfo: Sign up below to get the latest updates straight to your inbox.
-newsletterConfirmation: Thank you for subscribing to the ETC newsletter!
-newsletterEmail: Email
-newsletterSubmit: Sign Up
-newsletterSubmitting: Just a moment...
-# sign off
+#  Footer sign off text, right at the bottom. Make sure to include the `<3` heart!
 footerText: Made with `<3` for the original Ethereum vision

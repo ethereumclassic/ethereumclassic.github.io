@@ -10,6 +10,11 @@ module.exports = {
       flag: '🇨🇳',
       name: '中文',
       enabled: false
+    },
+    de: {
+      flag: '🇩🇪',
+      name: 'German',
+      enabled: false
     }
   }
 };
