@@ -1,53 +1,53 @@
 title: Ethereum Classic
-description: "Eine dezentrale Plattform, auf der intelligente Verträge ausgeführt werden:
-  Anwendungen, die genau wie programmiert ausgeführt werden, ohne Ausfallzeiten,
-  Zensur oder Eingriffe Dritter"
-dateFormat: JJJJ.MM.DD
+description: "Eine dezentrale Plattform, auf welcher intelligente Verträge ausgeführt
+  werden: Anwendungen, die genau so ausgeführt werden wie sie programmiert
+  wurden ohne der Ausfallzeiten, Zensur oder Eingriffe Dritter"
+dateFormat: DD.MM.YYYY
 metaLocale: de_DE
 htmlLang: en
 bodyClass: Standard
-navHome: Zuhause
-navKnowledge: Wissen
-navTeams: Mannschaften
+navHome: Home
+navKnowledge: Wissensschatz
+navTeams: Teams
 navEcosystem: Ökosystem
 navRoadmap: Fahrplan
 navBlog: Blog
-knowledgeBase: Wissensbasis
+knowledgeBase: Wissensschatz
 notFound: Seite nicht gefunden
-notFoundText: Entschuldigung, diese Seite existiert nicht
+notFoundText: Entschuldige, diese Seite existiert nicht
 goBack: Geh zurück
-warningTitle: Hard Fork Alert
-warningText: Ethereum Classic wird um den 15. Januar 2020 ein geplantes Upgrade "Agharta"
-  durchführen. Wenn Sie einen ETC-Knoten betreiben, aktualisieren Sie diesen
-  bitte so bald wie möglich.
+warningTitle: HardFork Meldung
+warningText: Ethereum Classic wird ein geplantes Upgrade "Agharta" beim Block 9.573M, um
+  den 12 Januar 2020, durchführen. Wenn Du einen ETC-Knoten betreibst,
+  aktualisiere diesen bitte so bald wie möglich.
 warningButton: Aktualisierung
 allBlogPosts: Alle Blogeinträge
-submitArticle: Senden Sie Ihren Artikel
+submitArticle: Beitrage deinen Artikel
 latestArticles: Neueste Artikel
-noPosts: Keine Beiträge in Ihrer ausgewählten Sprache.
+noPosts: Keine Beiträge in Deiner ausgewählten Sprache.
 englishPosts: Englische Beiträge
 continueReading: Weiterlesen
-discordText: "** ETC-Teilnehmer ** sind am aktivsten bei ** Zwietracht **."
-discordJoin: Treten Sie ETC bei Discord bei
-getInvolved: Machen Sie mit
+discordText: "** ETC-Teilnehmer ** sind am aktivsten bei ** Discord**."
+discordJoin: Trete ETC bei Discord bei
+getInvolved: Mach mit
 newsletterTitle: Newsletter
-newsletterInfo: Melden Sie sich unten an, um die neuesten Updates direkt in Ihrem Posteingang
-  zu erhalten.
-newsletterConfirmation: Vielen Dank, dass Sie den ETC-Newsletter abonniert haben!
-newsletterEmail: Email
+newsletterInfo: Melde Dich unten an, um die neuesten Neuigkeiten direkt in Dein Postfach zu
+  erhalten.
+newsletterConfirmation: Vielen Dank, dass Du den ETC-Newsletter abonniert hast!
+newsletterEmail: E-Mail
 newsletterSubmit: Anmelden
 newsletterSubmitting: Einen Augenblick...
 communityTitle: Gruppen
 etcDev: ETCDEV
 iohk: IOHK
-etcCooperative: ETC-Genossenschaft
+etcCooperative: ETC Cooperative
 etcLabs: ETC Labs
 etcAsia: ETC Asia
 etcKorea: ETC Korea
 etcChina: ETC China
-socialTitle: Sozial
-discord: Zwietracht
-telegram: Telegramm
+socialTitle: Sozialnetzwerk
+discord: Discord
+telegram: Telegram
 reddit: Reddit
 twitter: Twitter
 footerText: Gemacht mit `<3` für die ursprüngliche Ethereum Vision

@@ -1,20 +1,20 @@
-title: Wissensbasis
+title: Wissensschatz
 description: Anleitungen und Erklärungen zu verschiedenen Tools und Konzepten von Ethereum
   Classic
 intro: >-
-  # Wissensbasis
+  # Wissensschatz
 
 
-  Willkommen in der Ethereum Classic Wissensdatenbank! Hier ist der beste Ort, um etwas über ETC zu lernen.
+  Willkommen im Wissensschatz von Ethereum Classic! Hier ist der beste Ort, um etwas über ETC zu lernen.
 
 
-  Ethereum Classic hat eine starke philosophische Grundlage und seine Community bekennt sich zu Prinzipien, die im Blockchain-Bereich nur selten anzutreffen sind. Diese Prinzipien machen Blockchains auf lange Sicht nützlich und erfolgreich. Daher ist es wichtig, sie zu verstehen, wenn Sie entscheiden, wie Sie Ihre Zeit verbringen möchten.
+  Ethereum Classic hat eine starke philosophische Grundlage und seine Teilnehmer bekennen sich zur Prinzipien, die im Blockchain-Bereich nur selten anzutreffen sind. Diese Prinzipien machen Blockchains auf lange Sicht nützlich und erfolgreich. Daher ist es wichtig sie zu verstehen, wenn Du entscheidest, wie Du Deine Zeit verbringen möchten.
 
 
-  Dieser Abschnitt soll sowohl Fehlinformationen über Ethereum Classic beseitigen als auch Sie durch die Ereignisse und Ideen führen, die die Zukunft von ETC geprägt haben.
+  In diesem Abschnitt sollen Fehlinformationen über Ethereum Classic beseitigt werden, indem Du durch die Ereignisse und Ideen geführt wirst, die die Zukunft von ETC geprägt haben.
 
 
-  Wenn Sie ein absoluter Anfänger von ETC sind, wird empfohlen, diesen Abschnitt der Reihe nach zu lesen. Ansonsten können Sie diese Artikel nach Belieben durchlesen.
+  Wenn Du ein absoluter Anfänger in ETC bist, wird empfohlen, diesen Abschnitt der Reihe nach zu lesen. Ansonsten kannst Du diese Artikel nach Belieben durchlesen.
 philosophy: >-
   ## Philosophie
 
@@ -25,66 +25,66 @@ philosophy: >-
   ### [Unabhängigkeitserklärung](/blog/2016-08-13-Unabhängigkeitserklärung)
 
 
-  Im Wesentlichen das ETC-Whitepaper. Eine Erklärung der Ursache, eine Liste der Beschwerden und eine Beschreibung der Prinzipien und Ziele.
+  Im Wesentlichen ein ETC-Whitepaper. Eine Erklärung der Ursache, eine Liste der Beschwerden und eine Beschreibung der Prinzipien und Ziele.
 
 
-  ### [Ein krypto-dezentralistisches Manifest](/blog/2016-07-11-manifesto)
+  ### [Manifest eines Krypto-Dezentralisten](/blog/2016-07-11-manifesto)
 
 
-  Jede Blockchain erstellt um ihre Anwendungen ein soziales Netzwerk, dessen Netzwerkwert gemäß Reeds Gesetz exponentiell mit der Anzahl der Teilnehmer wächst. Dieser Wert wird nicht wie bei früheren zentralisierten Modellen von Intermediären oder Controllern extrahiert. Stattdessen wird es unter den Teilnehmern geteilt und bietet wirtschaftliche Anreize für eine Zusammenarbeit ohne Zwang. Nicht alle Blockchains sind gleich. Es gibt drei Schlüsselmerkmale, die eine skalierbare blockchain-fähige Zusammenarbeit ermöglichen: Offenheit, Neutralität und Unveränderlichkeit.
+  Jede Blockchain erstellt um ihre Anwendungen ein soziales Netzwerk, dessen Netzwerkwert gemäß Reed'schem Gesetz exponentiell mit der Anzahl der Teilnehmer wächst. Dieser Wert wird nicht wie bei früheren zentralisierten Modellen von Intermediären oder Kontrollern extrahiert. Stattdessen wird es unter den Teilnehmern geteilt und bietet wirtschaftliche Anreize für eine Zusammenarbeit ohne Zwang. Nicht alle Blockchains sind gleich. Es gibt drei Schlüsselmerkmale, die eine skalierbare blockchainfähige Zusammenarbeit ermöglichen: Offenheit, Neutralität und Unveränderlichkeit.
 
 
   ### [Ethereum Classic Vision](https://etherplan.com/2019/08/14/ethereum-classic-vision/8595/)
 
 
-  Warum ETC sowohl eine Computerplattform als auch ein hervorragender Wertspeicher ist
+  Warum ETC, sowohl eine Computerplattform, als auch ein hervorragender Wertspeicher ist.
 
 
-  ### [Ethereum Classic vs Ethereum 2.0, Was ist der Unterschied?](Https://etherplan.com/2019/07/23/ethereum-classic-vs-ethereum-2-0-was ist der Unterschied/8425/)
+  ### [Ethereum Classic vs. Ethereum 2.0, Was ist der Unterschied?](https://etherplan.com/2019/07/23/ethereum-classic-vs-ethereum-2-0-what-is-the-difference/8425/)
 
 
-  Man kann sagen, dass Ethereum Classic ein konservativ betriebenes System ist, das sich auf Sicherheit konzentriert, und das kommende Ethereum 2.0 ist ein progressiv betriebenes System, das sich auf Leistung konzentriert
+  Es kann gesagt, dass Ethereum Classic ein konservativ betriebenes System ist, das sich auf Sicherheit konzentriert, und das kommende Ethereum 2.0 ist ein progressiv betriebenes System, das sich auf Leistung konzentriert.
 
 
-  ### [Warum der Nachweis des Einsatzes weniger sicher als der Nachweis der Arbeit ist](https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of -work/9077/)
+  ### [Warum der Nachweis des Einsatzes (PoS) weniger sicher ist als der Nachweis der Arbeit (PoW)](https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/)
 
 
   Durch die Verankerung an einem Arbeitsnachweis erhält die subjektive Schicht um Größenordnungen mehr Objektivität und damit Sicherheit.
 usingEtc: >-
-  ## Mit ETC
+  ## Verwendung von ETC
 
 
-  Anleitungen zur Verwendung von Ethereum Classic-Clients und -Mappen.
+  Anleitungen zur Verwendung von Ethereum Classic-Clients und deren digitalen Geldbörsen:
 
 
-  ### [Was ist und wie funktioniert Ethereum Classic?](Https://etherplan.com/2019/07/02/what-is-and-how-does-ethereum-classic-work-in- Laienbegriffe/8106/)
+  ### [Was ist und wie funktioniert Ethereum Classic?](https://etherplan.com/2019/07/02/what-is-and-how-does-ethereum-classic-work-in-laymans-terms/8106/)
 
-  Ein umfassender Überblick über die Funktionsweise von Ethereum Classic
+  Ein umfassender Überblick über die Funktionsweise von Ethereum Classic.
 
 
-  ### [Using Emerald Wallet](/knowledge/using-smaragd-wallet)
+  ### [Verwendung der Emerald Wallet](/knowledge/using-smaragd-wallet)
 
-  Erfahren Sie, wie Sie Emerald Wallet herunterladen und installieren
+  Erfahre, wie Du Emerald Wallet herunterlädst und installierst.
 faqs: >-
   ## FAQs  
 
 
-  Häufig gestellte Fragen zu ETC-bezogenen Themen
+  Häufig gestellte Fragen zu ETC-bezogenen Themen:
 
 
-  ### [Geleistete Zahlungen an die falsche Adresse](/knowledge/Geleistete-Zahlungen-an-die-falsche-Adresse)
+  ### [Geld an die falsche Adresse gesendet](/knowledge/Geleistete-Zahlungen-an-die-falsche-Adresse)
 
-  Finden Sie heraus, was zu tun ist, wenn Sie Geld an die falsche Adresse senden.
+  Finde heraus, was zu tun ist, wenn Du Geld an die falsche Adresse sendest.
 developers: >-
   ## Entwickler
 
 
-  Wenn Sie an einer Entwicklung mit ETC interessiert sind, finden Sie hier einige Anleitungen, wie Sie einen Beitrag leisten können.
+  Wenn Du an einer Entwicklung mit ETC interessiert bist, findest Du hier einige Anleitungen, wie Du einen Beitrag leisten kannst:
 
 
   ### [ECIPS](https://ecips.ethereumclassic.org/)
 
-  Ethereum Classic Improvement Proposals (ECIPs) sind technische Berichtigungen, die vorgeschlagene Änderungen des Ethereum Classic-Protokolls beschreiben.
+  Ethereum Classic Improvement Proposals (ECIPs) sind technische Berichtigungen, die vorgeschlagene Änderungen des Ethereum Classic-Protokolles beschreiben.
 
 
   ### [Emerald SDK](https://etcdev.gitbook.io/docs/emerald-sdk)
