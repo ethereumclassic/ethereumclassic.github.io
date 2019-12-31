@@ -1,0 +1,57 @@
+title: Equipos
+description: Organizaciones importantes que contribuyen al Ethereum Classic
+intro: >-
+  # Equipos
+
+
+  El ecosistema Ethereum Classic está descentralizado y no tiene una jerarquía formal; Es un 'do-ocracy' sin permiso, donde cualquiera puede participar. Las personas y los equipos eligen tareas para ellos y las ejecutan.
+
+
+  Esta página contiene una selección de los equipos destacados que contribuyen activamente al ecosistema ETC.
+
+
+  ¡ETC está creciendo y ahora es un buen momento para involucrarse en un proyecto de blockchain importante y único! Si desea contribuir, un buen lugar para comenzar es comunicarse con uno de los equipos a continuación. También puede unirse al [canal de discordia](https://discordapp.com/invite/HW4GckH).
+etcLabs: Laboratorios ETC
+etcLabsText: >-
+  ETC Labs proporciona fondos, conexiones de la industria y espacio de oficinas
+  para proyectos ETC florecientes; con oficinas en San Francisco y Singapur. Su
+  objetivo a largo plazo es acelerar el desarrollo de la comunidad y el
+  ecosistema Ethereum Classic.
+
+
+  El equipo central de ETC Labs se centrará en los proyectos básicos de Ethereum Classic, apoyando la cadena de bloques ETC, proporcionando herramientas para el desarrollo descentralizado de aplicaciones, minería y servicios. En la búsqueda de su misión, valoran la inmutabilidad del estado, la descentralización y la compatibilidad con versiones anteriores.
+etcCore: ETC Core
+etcCoreText: >-
+  ETC Core es el equipo de desarrollo principal de Ethereum Classic.
+
+
+  Desde especificaciones fundamentales, conjuntos de herramientas y recursos, ofrecen herramientas de código abierto para el ecosistema Ethereum Classic. Creen firmemente en la compatibilidad entre cadenas e implementan esa filosofía en sus proyectos. Puede usar muchas de sus herramientas en cualquier blockchain basada en EVM.
+
+
+  Apoyan activamente el desarrollo a largo plazo del protocolo ETC. Lo hacen defendiendo las especificaciones de mejora para la adopción y manteniendo Multi-Geth.
+
+
+  Están comprometidos a maximizar las capacidades de EthereumStack a través de su proyecto EVM-LLVM y las iniciativas de mejora del compilador.
+etcCoop: Cooperativa ETC
+etcCoopText: '> La Cooperativa ETC (el "ECC") se creó para apoyar financieramente el
+  crecimiento y el desarrollo de Ethereum Classic mediante la financiación de
+  tres aspectos clave del ecosistema ETC: desarrollo, comercialización y
+  comunidad. Con ese fin, sirven como enlace entre varios equipos, mantienen
+  software basado en la comunidad y se comunican con los miembros de otras
+  comunidades basadas en Ethereum.'
+chainsafe: ChainSafe
+chainsafeText: "> ChainSafe es un equipo de desarrolladores y nerds enfocados en resolver los
+  problemas de sus clientes utilizando la tecnología blockchain siempre que sea
+  posible. Desarrolladores con intereses en blockchains, realidad aumentada y
+  economía compartida (redes p2p). Ayudando a construir Web3 para un mundo
+  mejor. </p>"
+iohk: IOHK (Grothendieck)
+iohkText: "> Nombrado en honor a una figura líder en la creación de geometría algebraica
+  moderna, el Equipo IOHK Grothendieck es un grupo motivado de ingenieros y
+  desarrolladores impulsados por las matemáticas y la ciencia. A la vanguardia
+  del desarrollo del equipo está Mantis, un cliente de nodo creado desde cero
+  utilizando Scala, un lenguaje de programación funcional. Mantis se conecta
+  fácilmente a la interfaz de usuario de IOHK Daedalus Wallet, lo que permite a
+  los usuarios administrar fácilmente su ETC. El enfoque del equipo es
+  establecer de manera segura y metódica un ecosistema ETC fuerte, con una base
+  sólida e inmutabilidad en su núcleo."

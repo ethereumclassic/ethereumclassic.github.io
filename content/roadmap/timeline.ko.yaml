@@ -1,0 +1,163 @@
+- key: ethereumLaunches
+  date: 2015 년 7 월 30 일
+  title: 이더 리움 출시
+  text: 비탈 릭 부 테린과 이더 리움 재단은 최초의 블록 체인 기반 튜링 완료 스마트 계약 플랫폼을 만듭니다.
+- key: slockItCreatesTheDAO
+  date: 2016 년 4 월 5 일
+  title: Slock.it는 TheDAO를 만듭니다
+  text: Slock.it는 TheDAO Ethereum Contract를 구성합니다. 보안 감사는 Dejavu에 의해 완료됩니다
+- key: theDAOCrowdsaleBegins
+  date: 2016 년 4 월 30 일
+  title: TheDAO 크라우드 세일 시작
+  text: DAO 스마트 계약이 배포되었습니다. 일반 회원은 DAO 토큰에 대한 대가로 가치를 보냅니다.
+- key: securityProposal
+  date: 2016 년 5 월 26 일
+  title: 보안 제안
+  text: Slock.it는 크라우드 펀드가 지불 한 'DAO의 무결성을 보장하기 위해'150 만 달러의 제안을 발표했습니다.
+- key: moratoriumCalled
+  date: 2016 년 5 월 27 일
+  title: 모라토리엄
+  text: 크라우드 세일 마지막 날, DAO 큐레이터 인 블라드 잠 피르 (Blada Zamfir)는 TheDAO에 대한 모라토리엄을 요구하며 많은
+    게임 이론적 보안 문제를 언급했습니다.
+- key: theDAOCrowdsaleEnds
+  date: 2016 년 5 월 27 일
+  title: TheDAO 크라우드 세일 종료
+  text: 크라우드 세일은 세계 최대가되고 1 억 5 천만 달러를 모금합니다
+- key: recursiveCallBugDiscovered
+  date: 2016 년 6 월 9 일
+  title: 재귀 호출 버그 발견
+  text: Peter Vessenes는 많은 Solidiy 계약에서 간과 된 중요한 보안 취약점의 존재를 공개합니다
+- key: noFundsAtRisk
+  date: 2016 년 6 월 12 일
+  title: 위험에 처한 자금 없음
+  text: Stephan Tual은 TheDAO 자금이 새로 발견 된 중대한 보안 결함에도 불구하고 안전하다고 공개적으로 주장
+- key: theDAOIsHacked
+  date: 2016 년 6 월 17 일
+  title: TheDAO가 해킹되었습니다
+  text: 재 입력 버그가 적용됨에 따라 TheDAO에서 Ether이 천천히 조용히 배출됩니다.
+- key: panicHitsTheMarkets
+  date: 2016 년 6 월 17 일
+  title: 공황이 시장을 강타하다
+  text: Griff Green이 TheDAO가 해킹 당했다고 발표함에 따라 Ether 가격이 반으로 줄었습니다.
+- key: theCountdownBeings
+  date: 2016 년 6 월 17 일
+  title: 카운트 다운 존재
+  text: DAO의 분할 메커니즘은 자금을 회수하는 솔루션을 찾은 데 약 한 달이 걸립니다. 재단 및 커뮤니티 개발자가 소프트 포크를 구현하기 위해
+    경쟁
+- key: robinHoodGroupAnnounced
+  date: 2016 년 6 월 21 일
+  title: 로빈 후드 그룹 발표
+  text: "'화이트 햇'해커 그룹이 TheDAO 자금의 70 %를 보호하지만 해커에 의해 남은 30 % 분할을 저장하려면 프로토콜 수준의 조치가
+    필요합니다"
+- key: DAO
+  date: 2016 년 6 월 24 일
+  title: "DAO 전쟁 : 소프트 포크 투표"
+  text: 이더 리움 재단은 해커로부터 오는 거래를 검열하기 위해 'Soft Fork'클라이언트를 출시합니다. 광산 풀은 가스 한도를 낮춤으로써
+    그것을 가능하게하기로 투표
+- key: softForkVulnerability
+  date: 2016 년 6 월 28 일
+  title: 소프트 포크 취약점
+  text: Soft Fork 구현에서 치명적인 서비스 거부 결함이 발견되면 광부들은이를 사용하지 않기로 결정합니다.
+- key: hardForkDebate
+  date: 6 월 28 일-7 월 15 일
+  title: 하드 포크 토론
+  text: Ethereum 커뮤니티에서 하드 포크 구현의 장단점에 대해 며칠간의 격렬한 논쟁이 계속되고 있습니다.
+- key: hardForkSpecAnnounced
+  date: 2016 년 7 월 15 일
+  title: 하드 포크 사양 발표
+  text: 남아있는 유일한 옵션은 논쟁의 여지가있는 하드 포크입니다. 사양은 Slock.it 및 Ethereum Foundation 회원이 결정하고
+    발표합니다.
+- key: lastMinuteCarbonvote
+  date: 2016 년 7 월 15 일
+  title: 마지막 순간 Carbonvote
+  text: 12 시간 전에 이더 리움 재단은 논쟁의 여지가있는 '코인 투표'를 사용하여 하드 포크가 기본적으로 켜져 있는지 확인합니다. 합의가
+    선언되고 업데이트 된 클라이언트가 해제됩니다
+- key: dAOBailoutHardFork
+  date: 2016 년 7 월 20 일
+  title: DAO 구제 하드 포크
+  text: 노드의 약 80 %가 새 클라이언트로 업데이트되면서, 커뮤니티는 Hard Fork 활성화 블록 1920000의 도착을 긴장하게 기다리고
+    있습니다.
+- key: missionAccomplished
+  date: 블록 1920000
+  title: 임무 완수!
+  text: Hard Fork 코드가 명백한 결함없이 성공적으로 구현 되었기 때문에 커뮤니티는 안도의 한숨을 내쉬고 있습니다. 샴페인 코르크가
+    전세계에 튀어 나옵니다
+- key: ethereumClassicIsBorn
+  date: 블록 1920001
+  title: 이더 리움 클래식 탄생
+  text: 원래 비 포크 체인이 몇 시간 안에 사라질 것이라는 예측으로 많은 사람들이 광부가 채굴 블록을 계속하고 원래 체인 토큰의 OTC 거래가
+    가치를 제공한다는 사실에 놀랐습니다.
+- key: poloniexListsETC
+  date: 2016 년 7 월 23 일
+  title: Poloniex, ETC 등재
+  text: 가장 큰 이더 리움 거래소 목록 'ETC'-Ethereum Classic; 많은 거래소가 신속하게 소송을 따르고 ETC 가격은 ETH의
+    1/3로 최고점에 도달합니다.
+- key: communityInDisarray
+  date: 7 월 23 일
+  title: 혼란에 빠진 공동체
+  text: 화염 전쟁은 한때 평화로운/r/Ethereum 및/r/ethtrader 하위 조직에서 시작되고 경제적으로 부과되는 vitriolic 스패
+    트는 분할과 관련하여 공동체를 붙잡기 시작합니다.
+- key: ethereumClassicCommunity
+  date: 2016 년 7 월 24 일
+  title: 이더 리움 클래식 커뮤니티
+  text: Ethereum Classic 커뮤니티는 포크 체인 하위 레딧에서 분기되어/r/EthereumClassic, Slack 및
+    Telegram을 포함한 자체 통신 채널을 형성합니다.
+- key: rHGStrikesBack
+  date: 2016 년 8 월 10 일
+  title: RHG의 역습
+  text: Robin Hood Group은 시장에 대량의 도난당한 ETC를 버리려고 시도합니다. Poloniex는 자금을 동결합니다. 불확실성은
+    항상 최고에 이릅니다.
+- key: classicDeclaresIndependence
+  date: 블록 2050000
+  title: 클래식은 독립 선언
+  text: ETC가 더 이상 재단과 연계되기를 원하지 않는다는 내용의 ETC 웹 사이트에 독립 선언이 게시되었습니다.
+- key: classicRebuilds
+  date: 2016 년 8 월 15 일
+  title: 클래식 재건
+  text: 이더 리움 클래식 커뮤니티는 클래식 네트워크를 재건함으로써 안정된 ETC 가격을 모으기 시작합니다. 이 웹 사이트가 만들어지고, 그룹이
+    형성되고, 새로운 아이디어가 떠오르 기 시작합니다.
+- key: dAOETCUnlocked
+  date: 2016 년 8 월 31 일
+  title: DAO ETC 잠금 해제
+  text: DAO 토큰 보유자와 DAO 공격자가 수백만 개의 이전에 잠겼거나 동결 된 ETC를 이용할 수 있습니다. 운명과 우울에 대한 예측에도
+    불구하고 ETC 가격은 거대한 덤프에 비해 현저히 잘 유지됩니다.
+- key: attacksAndUpgrades
+  date: 2016 년 10 월 25 일
+  title: 공격 및 업그레이드
+  text: 두 이더 리움 모두 논스톱 네트워크 공격을 받았습니다. ETC 개발자는 악용 된 취약점을 패치하기 위해 부드럽고 논쟁의 여지가없는
+    네트워크 업그레이드를 신속하게 보장
+- key: etcMonetaryPolicy
+  date: 2016 년 11 월 1 일
+  title: ETC 통화 정책
+  text: 클래식 커뮤니티는 플랫폼 사용자, 광부, 투자자 및 개발자의 관심을 조정하는 방법으로 ETC 통화 정책 및 배출 일정에 대해 토론하기
+    시작합니다.
+- key: grothendieckTeam
+  date: 2016 년 12 월 11 일
+  title: 그로 ndi 디크 팀
+  text: IOHK가 전담하는 7 명의 풀 타임 개발자 팀이 Ethereum Classic에서 일하기 시작했습니다.
+- key: etcDiehardUpgrade
+  date: 블록 3000000
+  title: ETC Diehard Upgrade
+  text: ETC는 논쟁의 여지가없는 네트워크 업그레이드를 통해 난이도 폭탄 및 재생 공격과 같은 중요한 문제를 해결합니다.
+- key: etcDEVTeamAnnouncement
+  date: 2017 년 2 월 20 일
+  title: ETCDEV 팀 발표
+  text: 장기 ETC 기고자 및 자원 봉사자 팀이 ETCDEV 팀으로 브랜드 변경
+- key: monetaryPolicyAdopted
+  date: 2017 년 3 월 1 일
+  title: 채택 된 통화 정책
+  text: Ethereum Classic 커뮤니티는 Bitcoin과 같은 제한된 배출 일정으로 고정 자본 통화 정책을 채택합니다.
+- key: etcInvestmentFund
+  date: 2017 년 3 월 1 일
+  title: 기타 투자 자금
+  text: 그레이 스케일, 전통적인 투자자를 대상으로하는 최초의 비 비트 코인 암호화 펀드 인 '이더 리움 (ETC) 투자 트러스트'에 대한 투자
+    논문 배포
+- key: etcCoop
+  date: 2017 년 9 월
+  title: ETC 쿠프의 탄생
+  text: ETC 협동 조합 법인은 2017 년 9 월 LLC로 설립되었습니다. 비영리 자격 신청은 2018 년 5 월에 이루어졌으며 2018 년
+    11 월에 승인되었으며 신청 날짜까지 소급 적용되었습니다.
+- key: toBeContinued
+  title: 계속되기
+  text: Ethereum Classic 커뮤니티와 두 개의 독립적 인 개발 팀이 개발 및 응용 프로그램에 대한 노력에 집중하기 시작하면서 ETC는
+    미래의 분산 된 불변의 공공 인프라가되기를 기대합니다 ...

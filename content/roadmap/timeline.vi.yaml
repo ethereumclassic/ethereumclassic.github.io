@@ -1,0 +1,195 @@
+- key: ethereumLaunches
+  date: Ngày 30 tháng 7 năm 2015
+  title: Ethereum ra mắt
+  text: Vitalik Buterin và Ethereum Foundation tạo ra nền tảng hợp đồng thông minh
+    hoàn chỉnh dựa trên blockchain đầu tiên
+- key: slockItCreatesTheDAO
+  date: Ngày 5 tháng 4 năm 2016
+  title: Slock.it tạo ra TheDAO
+  text: Slock.it xây dựng Hợp đồng Ethereum TheDAO; kiểm toán bảo mật được hoàn
+    thành bởi Dejavu
+- key: theDAOCrowdsaleBegins
+  date: Ngày 30 tháng 4 năm 2016
+  title: TheDAO Crowdsale bắt đầu
+  text: Hợp đồng thông minh TheDAO được triển khai; các thành viên của cộng đồng gửi
+    giá trị đó để đổi lấy mã thông báo DAO
+- key: securityProposal
+  date: Ngày 26 tháng 5 năm 2016
+  title: Đề xuất bảo mật
+  text: Slock.it thông báo đề xuất 1,5 triệu USD, được cộng đồng thanh toán bằng
+    Ether, 'để đảm bảo tính toàn vẹn của The DAO'
+- key: moratoriumCalled
+  date: 27 tháng 5 năm 2016
+  title: Moratorium được gọi là
+  text: Vào ngày cuối cùng của crowdsale, người phụ trách DAO Vlad Zamfir kêu gọi
+    một lệnh cấm đối với TheDAO, trích dẫn nhiều vấn đề bảo mật lý thuyết trò
+    chơi
+- key: theDAOCrowdsaleEnds
+  date: 27 tháng 5 năm 2016
+  title: TheDAO Crowdsale Kết thúc
+  text: Crowdsale hoàn thành để trở thành lớn nhất thế giới và thu về 150 triệu USD
+    đáng kinh ngạc
+- key: recursiveCallBugDiscovered
+  date: Ngày 9 tháng 6 năm 2016
+  title: Phát hiện lỗi cuộc gọi đệ quy
+  text: Peter Vessenes công khai tiết lộ sự tồn tại của lỗ hổng bảo mật quan trọng
+    bị bỏ qua trong nhiều hợp đồng của Solidiy
+- key: noFundsAtRisk
+  date: Ngày 12 tháng 6 năm 2016
+  title: Không có quỹ có rủi ro
+  text: Stephan Tual tuyên bố công khai rằng các quỹ của TheDAO vẫn an toàn mặc dù
+    lỗ hổng bảo mật quan trọng mới được phát hiện
+- key: theDAOIsHacked
+  date: Ngày 17 tháng 6 năm 2016
+  title: TheDAO bị hack
+  text: Ether đang dần cạn kiệt và âm thầm thoát khỏi TheDAO khi lỗi nhập lại được
+    áp dụng
+- key: panicHitsTheMarkets
+  date: Ngày 17 tháng 6 năm 2016
+  title: Hoảng loạn tấn công thị trường
+  text: Giá của Ether đã giảm một nửa khi Griff Green thông báo rằng TheDAO đã bị
+    hack
+- key: theCountdownBeings
+  date: Ngày 17 tháng 6 năm 2016
+  title: Sinh vật đếm ngược
+  text: Cơ chế chia tách của TheDAO cung cấp khoảng một tháng cho một giải pháp được
+    tìm thấy để thu hồi vốn; Các nhà phát triển nền tảng và cộng đồng đua nhau
+    thực hiện một ngã ba mềm
+- key: robinHoodGroupAnnounced
+  date: Ngày 21 tháng 6 năm 2016
+  title: Tập đoàn Robin Hood được công bố
+  text: Một nhóm tin tặc 'mũ trắng' bảo đảm 70% tiền của TheDAO nhưng hành động ở
+    cấp độ giao thức là bắt buộc để tiết kiệm 30% còn lại do tin tặc chia
+- key: DAO
+  date: Ngày 24 tháng 6 năm 2016
+  title: "DAO Wars: Soft Fork Bầu chọn"
+  text: Ethereum Foundation phát hành ứng dụng khách 'Soft Fork' để kiểm duyệt các
+    giao dịch đến từ tin tặc; nhóm khai thác bỏ phiếu để cho phép nó bằng cách
+    hạ thấp giới hạn khí
+- key: softForkVulnerability
+  date: 28 tháng 6 năm 2016
+  title: Lỗ hổng mềm
+  text: Lỗi nghiêm trọng từ chối dịch vụ được tìm thấy trong triển khai Soft Fork,
+    những người khai thác nhanh chóng quyết định không sử dụng nó
+- key: hardForkDebate
+  date: 28 tháng 6 - 15 tháng 7
+  title: Tranh luận về Hard Fork
+  text: Nhiều ngày tranh cãi gay gắt diễn ra trong cộng đồng Ethereum về những ưu và
+    nhược điểm của việc triển khai Hard Fork
+- key: hardForkSpecAnnounced
+  date: Ngày 15 tháng 7 năm 2016
+  title: Hard Fork Spec được công bố
+  text: Tùy chọn duy nhất còn lại là Hard Fork gây tranh cãi. Một đặc điểm kỹ thuật
+    được xác định và công bố bởi các thành viên Slock.it và Ethereum Foundation
+- key: lastMinuteCarbonvote
+  date: Ngày 15 tháng 7 năm 2016
+  title: Carbonvote phút cuối
+  text: Với thông báo 12 giờ, Ethereum Foundation sử dụng một 'phiếu bầu xu' gây
+    tranh cãi của bên thứ ba để xác định rằng Hard Fork nên được bật theo mặc
+    định; sự đồng thuận được tuyên bố và một khách hàng cập nhật được phát hành
+- key: dAOBailoutHardFork
+  date: Ngày 20 tháng 7 năm 2016
+  title: DAO Bailout Hard Fork
+  text: Với khoảng 80% các nút cập nhật lên máy khách mới, cộng đồng hồi hộp chờ đợi
+    sự xuất hiện của khối kích hoạt Hard Fork 1920000
+- key: missionAccomplished
+  date: Khối 1920000
+  title: Nhiệm vụ đã hoàn thành!
+  text: Cộng đồng thở phào nhẹ nhõm vì mã Hard Fork được thực hiện thành công mà
+    không có sai sót rõ ràng; nút chai rượu sâm banh được xuất hiện trên toàn
+    cầu
+- key: ethereumClassicIsBorn
+  date: Khối 1920001
+  title: Ethereum Classic được sinh ra
+  text: Với dự đoán về chuỗi không phân nhánh ban đầu sẽ biến mất trong vài giờ,
+    nhiều người ngạc nhiên khi thấy rằng các công ty khai thác tiếp tục khai
+    thác khối và giao dịch OTC của mã thông báo chuỗi ban đầu mang lại cho họ
+    giá trị
+- key: poloniexListsETC
+  date: Ngày 23 tháng 7 năm 2016
+  title: Danh sách Poloniex ETC
+  text: Danh sách trao đổi Ethereum lớn nhất 'ETC' - Ethereum Classic; nhiều sàn
+    giao dịch nhanh chóng theo sau, giá ETC đạt đỉnh đến 1/3 của ETH
+- key: communityInDisarray
+  date: Ngày 23 tháng 7 trở đi
+  title: Cộng đồng xáo trộn
+  text: Các cuộc chiến nảy lửa bắt đầu trong các tiểu khu vực hòa bình/r/Ethereum
+    và/r/ethtrader một lần và các nhịp sinh học có tính kinh tế bắt đầu chiếm
+    lĩnh cộng đồng khi liên quan đến sự chia rẽ
+- key: ethereumClassicCommunity
+  date: Ngày 24 tháng 7 năm 2016
+  title: Cộng đồng cổ điển Ethereum
+  text: Cộng đồng Ethereum Classic bắt đầu phân nhánh từ các nhánh con chuỗi nhánh
+    và hình thành các kênh liên lạc của riêng mình, bao gồm/r/EthereumClassic,
+    Slack và Telegram
+- key: rHGStrikesBack
+  date: Ngày 10 tháng 8 năm 2016
+  title: RHG đình công trở lại
+  text: Tập đoàn Robin Hood cố gắng đổ một lượng lớn ETC bị đánh cắp trên thị
+    trường. Poloniex đóng băng các quỹ. Sự không chắc chắn đạt đến mức cao nhất
+    mọi thời đại.
+- key: classicDeclaresIndependence
+  date: Khối 2050000
+  title: Tuyên bố độc lập cổ điển
+  text: Tuyên bố Độc lập trên trang web ETC được công bố nói rằng ETC không còn muốn
+    liên kết với Quỹ.
+- key: classicRebuilds
+  date: Ngày 15 tháng 8 năm 2016
+  title: Tái tạo cổ điển
+  text: Cộng đồng Ethereum Classic bắt đầu tăng sau mức giá ETC ổn định bằng cách
+    xây dựng lại trên mạng Cổ điển; Trang web này được tạo ra, các nhóm được
+    hình thành, những ý tưởng mới bắt đầu lộ diện
+- key: dAOETCUnlocked
+  date: Ngày 31 tháng 8 năm 2016
+  title: DAO ETC đã được mở khóa
+  text: Hàng triệu ETC bị khóa hoặc đóng băng trước đây có sẵn cho chủ sở hữu mã
+    thông báo DAO và kẻ tấn công DAO. Bất chấp những dự đoán về sự sụp đổ và u
+    ám, giá ETC giữ vững đáng kể khi đối mặt với những bãi rác khổng lồ
+- key: attacksAndUpgrades
+  date: Ngày 25 tháng 10 năm 2016
+  title: Tấn công và nâng cấp
+  text: Cả hai Ethereum đều bị tấn công mạng không ngừng; Các nhà phát triển ETC
+    nhanh chóng đảm bảo nâng cấp mạng trơn tru và không có ý thức để vá các lỗ
+    hổng bị khai thác
+- key: etcMonetaryPolicy
+  date: Ngày 1 tháng 11 năm 2016
+  title: Chính sách tiền tệ ETC
+  text: Cộng đồng cổ điển bắt đầu tranh luận về chính sách tiền tệ và lịch phát thải
+    của ETC, như một cách để điều chỉnh lợi ích của người dùng nền tảng, người
+    khai thác, nhà đầu tư và nhà phát triển
+- key: grothendieckTeam
+  date: Ngày 11 tháng 12 năm 2016
+  title: Đội Grothendieck
+  text: Một nhóm gồm 7 nhà phát triển toàn thời gian, được IOHK cam kết, bắt đầu làm
+    việc cho Ethereum Classic
+- key: etcDiehardUpgrade
+  date: Khối 3000000
+  title: Nâng cấp ETC Diehard
+  text: ETC trải qua quá trình nâng cấp mạng không gây tranh cãi, giải quyết các vấn
+    đề quan trọng như bom khó và tấn công lại
+- key: etcDEVTeamAnnouncement
+  date: Ngày 20 tháng 2 năm 2017
+  title: Thông báo đội ETCDEV
+  text: Một nhóm những người đóng góp và tình nguyện viên ETC dài hạn đổi thương
+    hiệu thành một nhóm ETCDEV
+- key: monetaryPolicyAdopted
+  date: Ngày 1 tháng 3 năm 2017
+  title: Chính sách tiền tệ được thông qua
+  text: Cộng đồng Ethereum Classic áp dụng chính sách tiền tệ có mức cố định với
+    lịch phát thải hạn chế giống như Bitcoin
+- key: etcInvestmentFund
+  date: Ngày 1 tháng 3 năm 2017
+  title: Quỹ đầu tư ETC
+  text: Grayscale lưu hành luận điểm đầu tư cho 'Ủy thác đầu tư Ethereum (ETC)', quỹ
+    tiền điện tử phi bitcoin đầu tiên nhắm vào các nhà đầu tư truyền thống
+- key: etcCoop
+  date: Tháng 9 năm 2017
+  title: Sự ra đời của ETC Coop
+  text: Pháp nhân hợp tác ETC được thành lập vào tháng 9 năm 2017 với tên LLC. Đơn
+    xin tình trạng phi lợi nhuận được thực hiện vào tháng 5 năm 2018 và được phê
+    duyệt vào tháng 11 năm 2018, hồi tố cho đến ngày nộp đơn.
+- key: toBeContinued
+  title: Còn tiếp
+  text: Khi cộng đồng Ethereum Classic và hai nhóm phát triển độc lập bắt đầu tập
+    trung nỗ lực vào phát triển và ứng dụng, chúng tôi mong muốn ETC trở thành
+    một cơ sở hạ tầng công cộng bất biến phi tập trung trong tương lai ...

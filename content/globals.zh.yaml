@@ -1,70 +1,48 @@
-##
-# META
-##
-title: 以太经典
-description: 以太坊经典区块链
-dateFormat: YYYY-MM-DD
+title: 以太坊经典
+description: 一个运行智能合约的去中心化平台：完全按照编程运行的应用程序，而无停机，检查或第三方干扰
+dateFormat: YYYY.MM.DD
 metaLocale: zh_CN
-htmlLang: zh-CN
-bodyClass: hanzi
-notFound: 找不到网页
-notFoundText: 抱歉，此页面无法使用您的语言。
-goBack: 回去
-##
-# 主菜单
-##
-navHome: 主页
+htmlLang: 恩
+bodyClass: 默认
+navHome: 家
 navKnowledge: 知识
-navTeams: 团队
+navTeams: 队伍
 navEcosystem: 生态系统
 navRoadmap: 路线图
 navBlog: 博客
-##
-# MISC Navigation
-##
 knowledgeBase: 知识库
-##
-# 警告横幅
-##
+notFound: 找不到网页
+notFoundText: 抱歉，此页面不存在
+goBack: 回去
 warningTitle: 硬叉警报
-warningText: Ethereum Classic正在进行2020年1月15日左右的计划升级 “Agharta”。如果您运行ETC节点，请尽快进行升级。
+warningText: 以太坊经典版正在计划于2020年1月15日左右升级“ Agharta”。如果您运行ETC节点，请尽快升级。
 warningButton: 升级
-##
-# 博客文章
-##
 allBlogPosts: 所有博客文章
 submitArticle: 提交您的文章
-latestArticles: 最新文章
+latestArticles: 最新的文章
 noPosts: 没有您选择的语言的帖子。
 englishPosts: 英文帖子
 continueReading: 继续阅读
-##
-# 脚
-##
-discordText: ETC参与者在不一致上最活跃。
+discordText: "** ETC参与者**在**不一致**上最活跃。"
 discordJoin: 加入Discord上的ETC
-getInvolved: 参与
-# 社区
-communityTitle: 群组
-etcDev: ETCDEV
-iohk: IOHK
+getInvolved: 参与其中
+newsletterTitle: 通讯
+newsletterInfo: 在下面注册即可直接将最新更新直接发送到您的收件箱。
+newsletterConfirmation: 感谢您订阅ETC通讯!
+newsletterEmail: 电子邮件
+newsletterSubmit: 注册
+newsletterSubmitting: 一会儿...
+communityTitle: 团体
+etcDev: 贸易发展委员会
+iohk: 信息港
 etcCooperative: ETC合作社
 etcLabs: ETC实验室
 etcAsia: ETC亚洲
-etcKorea: ETC韩国
+etcKorea: 韩国ETC
 etcChina: ETC中国
-# 社交
-socialTitle: 社交
+socialTitle: 社会的
 discord: 不和谐
 telegram: 电报
 reddit: Reddit
-twitter: Twitter
-# 通讯
-newsletterTitle: 新闻稿
-newsletterInfo: 在下面注册即可直接将最新更新直接发送到您的收件箱。
-newsletterConfirmation: 感谢您订阅ETC新闻！
-newsletterEmail: 电子邮件
-newsletterSubmit: 注册
-newsletterSubmitting: 请稍等...
-#  登出
-footerText: 以`<3`制成，以获取原始的以太坊视觉
+twitter: 推特
+footerText: 为原始的以太坊视觉配置`<3`

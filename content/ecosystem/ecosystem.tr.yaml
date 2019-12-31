@@ -1,0 +1,76 @@
+title: Ekosistem
+description: Ethereum Classic ile ilgili projeler ve kaynaklar
+intro: >-
+  # Ekosistem
+
+
+  Bu sayfa, Ethereum Classic için veya üstünde çalışan topluluk kaynaklı projelerin bir listesini içerir.
+projectsTitle: Büyük projeler
+multiGeth: Multi-Geth/Klasik Geth
+multiGethText: ETC Labs Core, geth'in birden fazla ağı desteklemesini sağlayan çok dişli bir
+  yamayı sürdürüyor. Sonunda multi-geth'i ana geth'e entegre etmeyi umuyorlar.
+sidechains: Yan zincirler
+sidechainsText: Yan zincirler, VB altyapısının ve protokollerinin yerel bir parçası haline
+  gelecektir. Bu, ETC'nin ölçeklenebilirliğini artıracak ve ilk kez çeşitli
+  avuçiçi ve IoT cihazlarına blockchain getirecektir.
+sputnikVM: SputnikVM
+sputnikVMText: SputnikVM, Ethereum Sanal Makinesinin oldukça verimli ve takılabilir bir
+  uygulamasıdır. Bir blockchain'den bağımsız olarak çalışabilen ve düşük güçlü
+  cihazlarda çalışabilen bağımsız bir EVM'dir; ultra düşük güçlü cihazlarda
+  çalışmayı planlıyor.
+emeraldPlatform: Zümrüt Platformu
+emeraldPlatformText: Ethereum ETC üzerinde çalışan uygulamalar oluşturmak için araç seti, Kullanıcı
+  Arabirimi Bileşenleri, Javascript ve Rust için Kitaplıklar, Simgeler,
+  Oluşturma araçları vb. İçerir.
+dapps: >-
+  ## Dapps Etc tarafından desteklenmektedir
+
+  Ethereum Classic üzerine inşa edilmiş çeşitli (merkezi olmayan) uygulamalar.
+
+
+  ** malicious️ Kötü niyetli bağlantılar keşfedildikçe kaldırılırken, izinsiz ruhla çalışmak, tüm bağlantıların meşru olduğunu garanti etmediği anlamına gelir. Lütfen dikkatli kullanın ve kendiniz doğrulayın. **
+legend: efsane
+production: Üretim
+demo: gösteri
+development: gelişme
+resources: >-
+  ## Kaynaklar
+
+
+  Kaşifler, sohbet odaları, borsalar ve madencilik havuzları gibi küçük bir kaynak yelpazesi.  
+
+  ** Kendi sorumluluğunuzdadır kullanın. **
+moreResources: Daha fazla kaynak
+nodesAndNetworkInfo: Düğümler + Ağ Bilgisi
+nodesAndNetworkInfoText: Bir ETC düğümü çalıştırın ve aşağıdaki yazılımı kullanarak ağın
+  desteklenmesine yardımcı olun.
+nodes: Düğümler
+networkInfo: Ağ bilgisi
+blockExplorers: Blok Kaşifler
+blockExplorersText: Bu kullanışlı web siteleri ile işlemlerin durumunu kontrol edin.
+mainnet: Mainnet
+testnets: Testnets
+networkApis: Ağ API'ları
+networkApisText: VB ile iletişim kurmak için JSONRPC kullanın.
+publicApis: Herkese Açık API'lar
+privateDeployments: Özel Dağıtımlar
+githubRepos: Github Depoları
+twitter: heyecan
+chatRooms: Sohbet odaları
+telegram: Telgraf
+wallets: cüzdan
+walletsText: ETC'nizi aşağıdaki cüzdanlardan birini kullanarak saklayın ve gönderin.
+  Donanım cüzdanları en güvenlidir; lütfen onları kullanın.
+webWallets: Web Cüzdanları
+hardwareOffline: Donanım/Çevrimdışı
+desktop: Masaüstü
+mobile: seyyar
+exchanges: Değişimleri
+exchangesText: Aşağıdaki borsalardan birinde işlem yaparak ETC alın. Tüm favori
+  borsalarınızda listelendik.
+traditionalExchanges: Geleneksel Borsalar
+decentralizedExchanges: Merkezi Olmayan Borsalar
+instantSwaps: Anında Takaslar
+paymentProcessors: Ödeme İşlemcileri
+miningPools: Madencilik Havuzları
+miningPoolsText: Aşağıdaki havuzlardan birine katılarak VB mayın.

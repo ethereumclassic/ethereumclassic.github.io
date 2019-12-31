@@ -1,0 +1,80 @@
+title: Ökosystem
+description: Projekte und Ressourcen zu Ethereum Classic
+intro: >-
+  # Ökosystem
+
+
+  Diese Seite enthält eine Liste von Community-bezogenen Projekten, die für Ethereum Classic oder darüber hinaus arbeiten.
+projectsTitle: Hauptprojekte
+multiGeth: Multi-Geth/Classic Geth
+multiGethText: ETC Labs Core unterhält einen Multi-Geth-Patch, mit dem Geth mehrere Netzwerke
+  unterstützen kann. Schließlich hoffen sie, Multi-Geths in Mainline-Geths
+  integrieren zu können.
+sidechains: Seitenketten
+sidechainsText: Sidechains werden zu einem nativen Bestandteil der ETC-Infrastruktur und
+  -Protokolle. Dies wird die Skalierbarkeit von ETC erhöhen und die Blockchain
+  zum ersten Mal für eine Vielzahl von Handheld- und IoT-Geräten verfügbar
+  machen.
+sputnikVM: SputnikVM
+sputnikVMText: SputnikVM ist eine hocheffiziente und steckbare Implementierung der Ethereum
+  Virtual Machine. Es handelt sich um ein eigenständiges EVM, das unabhängig von
+  einer Blockchain betrieben werden kann und auf Geräten mit geringem
+  Stromverbrauch ausgeführt werden kann. mit Plänen, auf Geräten mit extrem
+  geringem Stromverbrauch zu laufen.
+emeraldPlatform: Emerald Platform
+emeraldPlatformText: Das Toolkit zum Erstellen von Anwendungen, die auf Ethereum ETC ausgeführt
+  werden, enthält UI-Komponenten, Bibliotheken für Javascript und Rust, Symbole,
+  Build-Tools usw. Für verschiedene Plattformen wie Desktop, Mobile, Web und
+  sogar Shell Scripting.
+dapps: >-
+  ## Dapps Powered by Etc
+
+  Eine Auswahl von (dezentralen) Anwendungen, die auf Ethereum Classic aufbauen.
+
+
+  ** ⚠️ Während böswillige Links entfernt werden, wenn sie entdeckt werden, bedeutet der Betrieb mit dem Geist der Erlaubnislosigkeit, dass es keine Garantie gibt, dass alle Links legitim sind. Bitte verwenden Sie es mit Vorsicht und überzeugen Sie sich selbst. **
+legend: Legende
+production: Produktion
+demo: Demo
+development: Entwicklung
+resources: >-
+  ## Ressourcen
+
+
+  Eine kleine Auswahl von Ressourcen wie Entdecker, Chatrooms, Börsen und Minenpools.  
+
+  **Benutzung auf eigene Gefahr.**
+moreResources: Mehr Ressourcen
+nodesAndNetworkInfo: Knoten + Netzwerkinfo
+nodesAndNetworkInfoText: Führen Sie einen ETC-Knoten aus und unterstützen Sie das Netzwerk mithilfe der
+  folgenden Software.
+nodes: Knoten
+networkInfo: Netzwerk information
+blockExplorers: Entdecker blockieren
+blockExplorersText: Überprüfen Sie den Status von Transaktionen mit diesen praktischen Websites.
+mainnet: Mainnet
+testnets: Testnetze
+networkApis: Netzwerk-APIs
+networkApisText: Verwenden Sie JSONRPC, um mit ETC zu kommunizieren.
+publicApis: Öffentliche APIs
+privateDeployments: Private Bereitstellungen
+githubRepos: Github Repos
+twitter: Twitter
+chatRooms: Chat-Räume
+telegram: Telegramm
+wallets: Geldbörsen
+walletsText: Speichern und senden Sie Ihr ETC mit einer der folgenden Brieftaschen.
+  Hardware-Brieftaschen sind am sichersten. Bitte benutze sie.
+webWallets: Web-Geldbörsen
+hardwareOffline: Hardware/Offline
+desktop: Desktop
+mobile: Handy, Mobiltelefon
+exchanges: Börsen
+exchangesText: Holen Sie sich ETC, indem Sie an einer der folgenden Börsen dafür handeln. Wir
+  sind an allen Ihren Lieblingsbörsen gelistet.
+traditionalExchanges: Traditionelle Börsen
+decentralizedExchanges: Dezentrale Börsen
+instantSwaps: Sofortige Swaps
+paymentProcessors: Zahlungsabwickler
+miningPools: Bergbaubecken
+miningPoolsText: Minen Sie ETC, indem Sie sich einem der unten stehenden Pools anschließen.

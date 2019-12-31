@@ -1,0 +1,83 @@
+title: 기술 자료
+description: 다양한 Ethereum Classic 도구 및 개념에 대한 안내서 및 설명자
+intro: >-
+  # 기술 자료
+
+
+  이더 리움 클래식 지식베이스에 오신 것을 환영합니다! ETC에 대한 학습을 시작하기에 가장 좋은 곳은 다음과 같습니다.
+
+
+  Ethereum Classic은 강력한 철학적 토대를 가지고 있으며 커뮤니티는 블록 체인 공간에서 거의 볼 수없는 원칙에 대한 헌신을 가지고 있습니다. 이러한 원칙은 장기적으로 블록 체인을 유용하고 성공적으로 만드는 이유이므로 시간을 보내는 방법을 결정할 때이를 이해하는 것이 중요합니다.
+
+
+  이 섹션에서는 미래의 ETC를 형성 한 이벤트와 아이디어를 통해 Ethereum Classic에 대한 잘못된 정보를 모두 제거합니다.
+
+
+  ETC를 처음 접하는 분이라면이 섹션을 순서대로 읽으십시오. 그렇지 않으면 여가 시간에 자유롭게이 기사를 숙독하십시오.
+philosophy: >-
+  ## 철학
+
+
+  ETC가 존재하는 이유와 그 의미를 이해하려면 ETC의 기원과 원리를 이해하는 것이 중요합니다.
+
+
+  ### [독립 선언](/blog/2016-08-13- 독립 선언)
+
+
+  본질적으로 ETC 백서. 그 이유에 대한 진술, 불만 목록 및 그 원칙과 목표에 대한 설명.
+
+
+  ### [암호-분권 주의자 선언](/blog/2016-07-11-manifesto)
+
+
+  모든 블록 체인은 응용 프로그램 주위에 소셜 네트워크를 만들고 리드의 법칙에 따라 참가자 수와 함께 네트워크 가치가 기하 급수적으로 증가합니다. 이 값은 이전 중앙 집중식 모델과 마찬가지로 중개자 나 컨트롤러가 추출하지 않습니다. 대신, 참가자들간에 공유되어 강요없이 협력을위한 경제적 인센티브를 제공합니다. 모든 블록 체인이 동일한 것은 아닙니다. 확장 가능한 블록 체인 지원 협력을 가능하게하는 세 가지 주요 특징이 있습니다 : 개방성, 중립성 및 불변성.
+
+
+  ### [Ethereum Classic Vision](https://etherplan.com/2019/08/14/ethereum-classic-vision/8595/)
+
+
+  ETC가 컴퓨팅 플랫폼이자 탁월한 가치 저장소 인 이유
+
+
+  ### [이더 리움 클래식 vs 이더 리움 2.0, 차이점은 무엇입니까?](https://etherplan.com/2019/07/23/ethereum-classic-vs-ethereum-2-0-what-is-the-difference/8425/)
+
+
+  Ethereum Classic은 보수적으로 실행되는 시스템이며 보안에 중점을두고 있으며 곧 출시 될 Ethereum 2.0은 성능에 중점을 둔 점진적으로 실행되는 시스템입니다.
+
+
+  ### [스테이크 증명이 작업 증명보다 안전하지 않은 이유](https://etherplan.com/2019/10/07/why-proof-s-take-is-less-less-secure-proof-of-of -작업/9077/)
+
+
+  작업 증명 물리 기반에 고정함으로써 주관적 계층은 훨씬 더 객관성을 확보하여 보안을 확보합니다.
+usingEtc: >-
+  ## ETC 사용
+
+
+  Ethereum Classic 클라이언트 및 지갑 사용을위한 안내서.
+
+
+  ### [이더 리움 클래식이란 무엇이며 어떻게 Layman의 용어로 작동합니까?](https://etherplan.com/2019/07/02/what-is-and-how-does-ethereum-classic-work-in- 평신도 조건 8106/)
+
+  Ethereum Classic 작동 방식에 대한 개괄적 인 개요
+
+
+  ### [에메랄드 지갑 사용](/knowledge/using-emerald-wallet)
+
+  Emerald Wallet을 다운로드하고 설치하는 방법 알아보기
+faqs: |-
+  ## FAQ  
+
+  ETC 관련 주제에 대한 질문과 대답
+
+  ### [잘못된 주소로 자금을 보냈습니다](/knowledge/sent-funds-to-the-rong-address)
+  잘못된 주소로 자금을 보내면 어떻게해야하는지 알아보십시오.
+developers: |-
+  ## 개발자
+
+  ETC로 개발에 관심이 있다면, 기여 방법에 대한 가이드가 있습니다.
+
+  ### [ECIPS](https://ecips.ethereumclassic.org/)
+  이더 리움 클래식 개선 제안 (ECIP)은 이더 리움 클래식 프로토콜에 제안 된 변경 사항을 설명하는 기술 문서입니다.
+
+  ### [Emerald SDK](https://etcdev.gitbook.io/docs/emerald-sdk)
+  에메랄드 소프트웨어 개발 키트 (SDK)는 DApp을 쉽게 만들 수있는 개발 프레임 워크입니다.

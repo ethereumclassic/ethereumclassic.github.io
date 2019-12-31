@@ -1,0 +1,53 @@
+ethCompatibility: ETH兼容性
+ethCompatibilityDate: 2019年第一季度
+ethCompatibilityText: EVM和SputnikVM将被更新以支持Byz + Const硬分叉。
+embeddedSvm: 嵌入式SVM
+embeddedSvmDate: 2019年第一季度
+embeddedSvmText: 嵌入式SVM将允许EVM和SputnikVM用于嵌入式应用程序。
+documentationWebsite: 文档网站
+documentationWebsiteDate: 2019年第一季度
+documentationWebsiteText: 将提供一个新的文档网站，以帮助新手和现有开发人员。将探索ETC工具中的嵌入式文档。
+classicGeth: 经典格斯
+classicGethDate: 2019年第一季度至第二季度
+classicGethText: 对Classic Geth的支持和维护。
+jsonRpcSchema: JSON RPC模式
+jsonRpcSchemaDate: 2019年第一季度至第二季度
+jsonRpcSchemaText: 创建ECIP以从Classic-Geth和Multi-Geth自动生成JSON模式。这将减少与图书馆相关的运营成本。通过消除对RPC
+  API(例如Web3或Emerald JS)的需求，此改进将使DApp开发环境更加高效。
+serviceRunner: 服务亚军
+serviceRunnerDate: 2019年第一季度至第二季度
+serviceRunnerText: Service Runner API将帮助简化DApp框架的依赖关系和集成。
+dappDeploymentTool: DApp部署工具
+dappDeploymentToolDate: 2019年第二季度
+dappDeploymentToolText: 一个易于使用的GUI应用程序，供开发人员部署其DApp。
+uxUiResearch: UX/UI研究
+uxUiResearchDate: 2019年第二季度
+uxUiResearchText: 将进行研究以调查DApp开发环境。
+multiNetworkExplorer: 多网络浏览器
+multiNetworkExplorerDate: 2019年第二季度至第三季度
+multiNetworkExplorerText: 用于DApp开发的易于使用的块浏览器，可与任何基于以太坊的网络一起使用。
+etcJitCompiler: ETC JIT编译器
+etcJitCompilerDate: 2019年第一季度至第三季度
+etcJitCompilerText: ETC JIT编译器会将EVM字节代码转换为本机代码。 JIT编译器通常将程序执行时间减少3-4倍。
+atlantisHardFork: 亚特兰蒂斯硬叉
+atlantisHardForkDate: 2019年第三季度
+atlantisHardForkText: 在Ethereum Classic网络上实现出色的以太坊基金会Spurious Dragon和Byzantium网络协议升级
+smartContractIde: 智能合约IDE
+smartContractIdeDate: 2019年第三季度至第四季度
+smartContractIdeText: 易于使用的智能合约IDE和运行时环境。
+multiGeth: 多心
+multiGethDate: 2019年第四季度
+multiGethText: 持续支持和维护Multi-Geth。
+evmLlvmBackend: EVM LLVM后端
+evmLlvmBackendDate: 2019年第二季度至第四季度
+evmLlvmBackendText: 通过LLVM的EVM后端目标，开发人员可以使用Solidity以外的各种编程语言来定位以太坊虚拟机。
+  EVM后端目标为源级调试打开了机会，并向LLVM社区展示了EVM的兴趣。
+devTutorialsAndGuides: 开发人员教程和指南
+devTutorialsAndGuidesDate: 2019年第一季度至第四季度
+devTutorialsAndGuidesText: 通过教程和指南不断支持新老开发人员。
+aghartaHardFork: 阿格哈塔硬叉
+aghartaHardForkDate: 2020年第一季度
+aghartaHardForkText: 在Ethereum Classic网络上启用出色的以太坊基金会Constaninople和Petersburg网络协议升级。
+aztlNHardFork: Aztlán硬叉
+aztlNHardForkDate: 待定2020
+aztlNHardForkText: 在Ethereum Classic网络上启用出色的Ethereum Foundation Istanbul网络协议升级。

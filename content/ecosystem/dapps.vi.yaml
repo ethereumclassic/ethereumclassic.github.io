@@ -1,0 +1,33 @@
+- key: coingame
+  title: Coingame
+  text: nền tảng cá cược thể thao bắt đầu trên ETC.
+- key: dappdirect
+  title: DappDirect
+  text: Nhiều hợp đồng chạy trên ETC và thống kê về chúng, có thể được tìm thấy trên
+    trang web do cộng đồng này bao gồm trao đổi phi tập trung, hợp đồng cờ
+    bạc/bảo hiểm và mã thông báo.
+- key: metronome
+  title: Metronome
+  text: Một loại tiền điện tử đa chuỗi sẽ bắt đầu bắc cầu giữa các chuỗi khối ETC và
+    ETH.
+- key: originalmy
+  title: Bản gốc
+  text: OriginalMy cung cấp một nền tảng hoàn toàn tự động để đăng ký và xác minh
+    tính xác thực của các tài liệu kỹ thuật số, hợp đồng và danh tính. Họ hiện
+    đang mở rộng thành người nắm giữ cổ phiếu bỏ phiếu trên blockchain.
+- key: peacebridge
+  title: hòa bình
+  text: Một loạt các cây cầu chuỗi chéo được thiết kế để cho phép chuyển giá trị và
+    chia sẻ thông tin giữa các chuỗi khối ETC và ETH.
+- key: portalNetwork
+  title: Cổng thông tin của BNS
+  text: "Portal Network đã tạo ra tiêu chuẩn Dịch vụ Tên Blockchain để biến các địa
+    chỉ blockchain khó hiểu (ví dụ: 0xfa91d23,) thành các địa chỉ đơn giản có
+    thể đọc được của con người (ví dụ: myname.etc)."
+- key: saturnNetwork
+  title: Mạng sao Thổ
+  text: Một trao đổi phi tập trung chạy trên cả ETC và ETH.
+- key: stampery
+  title: Tuyệt vời
+  text: Stampery chứng nhận dữ liệu trên blockchain, cung cấp bằng chứng về sự tồn
+    tại, tính toàn vẹn, quyền sở hữu và biên lai.

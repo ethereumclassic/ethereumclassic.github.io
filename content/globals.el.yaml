@@ -1,0 +1,53 @@
+title: Ethereum Classic
+description: "Μια αποκεντρωμένη πλατφόρμα που τρέχει έξυπνα συμβόλαια: εφαρμογές που
+  λειτουργούν ακριβώς όπως έχουν προγραμματιστεί χωρίς διακοπή, λογοκρισία ή
+  παρεμβολή τρίτων"
+dateFormat: YYYY.MM.DD
+metaLocale: en_US
+htmlLang: en
+bodyClass: Προκαθορισμένο
+navHome: Σπίτι
+navKnowledge: Η γνώση
+navTeams: Της ομάδας
+navEcosystem: Οικοσύστημα
+navRoadmap: Χάρτης πορείας
+navBlog: Blog
+knowledgeBase: Βάση γνώσεων
+notFound: Η σελίδα δεν βρέθηκε
+notFoundText: Λυπούμαστε, αυτή η σελίδα δεν υπάρχει
+goBack: Πήγαινε πίσω
+warningTitle: Σκληρή προειδοποίηση πτήσης
+warningText: Το Ethereum Classic βρίσκεται υπό προγραμματισμένη αναβάθμιση "Agharta" γύρω
+  στις 15 Ιανουαρίου 2020. Εάν τρέχετε έναν κόμβο ETC, αναβαθμίστε το
+  συντομότερο δυνατό.
+warningButton: Αναβαθμίζω
+allBlogPosts: Όλες οι δημοσιεύσεις στο Blog
+submitArticle: Υποβάλετε το άρθρο σας
+latestArticles: πρόσφατα άρθρα
+noPosts: Δεν υπάρχουν αναρτήσεις στην επιλεγμένη γλώσσα σας.
+englishPosts: Αγγλικά
+continueReading: Συνέχισε να διαβάζεις
+discordText: "** Οι συμμετέχοντες στο ETC ** είναι πιο ενεργοί στη ** διαφωνία **."
+discordJoin: Συμμετάσχετε στο ETC στο Discord
+getInvolved: Εμπλέκομαι
+newsletterTitle: Ενημερωτικό δελτίο
+newsletterInfo: Εγγραφείτε παρακάτω για να λάβετε τις τελευταίες ενημερώσεις απευθείας στα
+  εισερχόμενά σας.
+newsletterConfirmation: Σας ευχαριστούμε για την εγγραφή σας στο ενημερωτικό δελτίο ETC!
+newsletterEmail: ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ
+newsletterSubmit: Εγγραφείτε
+newsletterSubmitting: Μια στιγμή...
+communityTitle: Ομάδες
+etcDev: ETCDEV
+iohk: IOHK
+etcCooperative: Συνεταιρισμός ETC
+etcLabs: ETC Labs
+etcAsia: ETC Ασία
+etcKorea: ETC Κορέα
+etcChina: ETC Κίνα
+socialTitle: Κοινωνικός
+discord: Διχόνοια
+telegram: Τηλεγράφημα
+reddit: Reddit
+twitter: Κελάδημα
+footerText: Κατασκευασμένο με `<3` για το αρχικό όραμα του Ethereum
