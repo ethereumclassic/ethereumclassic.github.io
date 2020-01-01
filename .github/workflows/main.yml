@@ -20,10 +20,11 @@ jobs:
             ${{ runner.os }}-build-
             ${{ runner.os }}-
       - name: Cache public folder
-      - uses: actions/cache@v1
+        uses: actions/cache@v1
         id: cache
         with:
           path: public
+          key: ${{ runner.os }}-public
       - uses: enriikke/gatsby-gh-pages-action@v2.1.1
         with:
           access-token: ${{ secrets.ACCESS_TOKEN }}
