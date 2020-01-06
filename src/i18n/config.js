@@ -9,7 +9,7 @@ module.exports = {
     zh: {
       flag: '🇨🇳',
       name: '中文',
-      enabled: true
+      enabled: false
     },
     de: {
       flag: '🇩🇪',
@@ -19,42 +19,42 @@ module.exports = {
     ru: {
       name: 'Russian',
       flag: '🇷🇺',
-      enabled: true
+      enabled: false
     },
     tr: {
       name: 'Turkish',
       flag: '🇹🇷',
-      enabled: true
+      enabled: false
     },
     ko: {
       name: 'Korean',
       flag: '🇰🇷',
-      enabled: true
+      enabled: false
     },
     fr: {
       name: 'French',
       flag: '🇫🇷',
-      enabled: true
+      enabled: false
     },
     el: {
       name: 'Greek',
       flag: '🇬🇷',
-      enabled: true
+      enabled: false
     },
     ja: {
       name: 'Japanese',
       flag: '🇯🇵',
-      enabled: true
+      enabled: false
     },
     es: {
       name: 'Spanish',
       flag: '🇪🇸',
-      enabled: true
+      enabled: false
     },
     vi: {
       name: 'Vietnamese',
       flag: '🇻🇳',
-      enabled: true
+      enabled: false
     }
   }
 };
