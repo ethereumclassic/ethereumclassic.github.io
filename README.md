@@ -1,6 +1,6 @@
 # Ethereum Classic Website
 
-Development branch preview: https://ethereumclassic-develop.netlify.com/
+i18n Preview: https://etc-i18n.github.io/
 
 ## Adding Content
 
