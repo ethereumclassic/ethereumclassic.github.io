@@ -1,0 +1,91 @@
+title: Base de conocimientos
+description: Guías y explicadores sobre varias herramientas y conceptos de Ethereum Classic
+intro: >-
+  # Base de conocimientos
+
+
+  ¡Bienvenido a la base de conocimiento de Ethereum Classic! Este es el mejor lugar para comenzar a aprender sobre ETC.
+
+
+  Ethereum Classic tiene una fuerte base filosófica y su comunidad tiene un compromiso con los principios que rara vez se ven en el espacio blockchain. Estos principios son los que hacen que las cadenas de bloques sean útiles y exitosas a largo plazo, por lo que es importante comprenderlas al decidir cómo gastar su tiempo.
+
+
+  Esta sección tiene la intención de disipar la información errónea sobre Ethereum Classic al guiarlo a través de los eventos e ideas que dieron forma a ETC en el futuro.
+
+
+  Si es un principiante completo en ETC, se recomienda leer esta sección en orden. De lo contrario, siéntase libre de leer estos artículos a su gusto.
+philosophy: >-
+  ## Filosofía
+
+
+  Para comprender por qué existe ETC y lo que significa, es importante comprender sus orígenes y los principios que representa.
+
+
+  ### [Declaración de independencia](/blog/2016-08-13-declaración-de-independencia)
+
+
+  Esencialmente, el documento técnico de ETC. Una declaración de su causa, una lista de quejas y una descripción de sus principios y objetivos.
+
+
+  ### [Un manifiesto cripto descentralista](/blog/2016-07-11-manifiesto)
+
+
+  Cada blockchain crea una red social alrededor de sus aplicaciones, con un valor de red que crece exponencialmente con el número de participantes de acuerdo con la Ley de Reed. Este valor no es extraído por intermediarios o controladores, como con los modelos centralizados anteriores. En cambio, se comparte entre los participantes, proporcionando incentivos económicos para la cooperación sin coerción. No todas las blockchains son iguales. Hay tres características clave que hacen posible la cooperación escalable habilitada con blockchain: apertura, neutralidad e inmutabilidad.
+
+
+  ### [Ethereum Classic Vision](https://etherplan.com/2019/08/14/ethereum-classic-vision/8595/)
+
+
+  Por qué ETC es tanto una plataforma informática como una excelente reserva de valor
+
+
+  ### [Ethereum Classic vs Ethereum 2.0, ¿Cuál es la diferencia?](Https://etherplan.com/2019/07/23/ethereum-classic-vs-ethereum-2-0-what-is-the-difference/8425/)
+
+
+  Se puede decir que Ethereum Classic es un sistema de funcionamiento conservador, centrado en la seguridad, y el próximo Ethereum 2.0 es un sistema de funcionamiento progresivo, centrado en el rendimiento
+
+
+  ### [Por qué la prueba de estaca es menos segura que la prueba de trabajo](https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of -trabajo/9077/)
+
+
+  Al anclarse a una base física de prueba de trabajo, la capa subjetiva adquiere órdenes de magnitud más objetividad, por lo tanto, seguridad.
+usingEtc: >-
+  ## Usando ETC
+
+
+  Guías para usar clientes y billeteras Ethereum Classic.
+
+
+  ### [¿Qué es y cómo funciona Ethereum Classic en los términos de Layman?](Https://etherplan.com/2019/07/02/what-is-and-how-does-ethereum-classic-work-in- términos laicos/8106/)
+
+  Una descripción general de alto nivel de cómo funciona Ethereum Classic
+
+
+  ### [Usando Emerald Wallet](/conocimiento/using-emerald-wallet)
+
+  Aprende cómo descargar e instalar Emerald Wallet
+faqs: >-
+  ## Preguntas frecuentes  
+
+
+  Preguntas frecuentes sobre temas relacionados con ETC
+
+
+  ### [Fondos enviados a la dirección incorrecta](/conocimiento/fondos-enviados-a-la-dirección-incorrecta)
+
+  Averigüe qué hacer si envía fondos a la dirección incorrecta.
+developers: >-
+  ## Desarrolladores
+
+
+  Si está interesado en desarrollar con ETC, aquí hay algunas guías sobre cómo contribuir.
+
+
+  ### [ECIPS](https://ecips.ethereumclassic.org/)
+
+  Las Propuestas de mejora de Ethereum Classic (ECIP) son descripciones técnicas que describen los cambios sugeridos al Protocolo de Ethereum Classic.
+
+
+  ### [Emerald SDK](https://etcdev.gitbook.io/docs/emerald-sdk)
+
+  Emerald Software Development Kit (SDK) es un marco de desarrollo para crear fácilmente DApps.

@@ -1,0 +1,51 @@
+title: Ethereum Classic
+description: "Una plataforma descentralizada que ejecuta contratos inteligentes:
+  aplicaciones que se ejecutan exactamente como se programó sin tiempo de
+  inactividad, censura o interferencia de terceros"
+metaLocale: en_US
+htmlLang: en
+navHome: Hogar
+navKnowledge: Conocimiento
+navTeams: Equipos
+navEcosystem: Ecosistema
+navRoadmap: Mapa vial
+navBlog: Blog
+knowledgeBase: Base de conocimientos
+notFound: Página no encontrada
+notFoundText: Lo sentimos, esta página no existe
+goBack: Regresa
+warningTitle: Alerta de horquilla dura
+warningText: Ethereum Classic se someterá a una actualización planificada "Agharta"
+  alrededor del 15 de enero de 2020. Si ejecuta un nodo ETC, actualice lo antes
+  posible.
+warningButton: Potenciar
+allBlogPosts: Todas las publicaciones de blog
+submitArticle: Envía tu artículo
+latestArticles: últimos artículos
+noPosts: No hay publicaciones en el idioma seleccionado.
+englishPosts: Publicaciones en inglés
+continueReading: Sigue leyendo
+discordText: "** Los participantes de ETC ** son más activos en ** discordia **."
+discordJoin: Únete a ETC en Discord
+getInvolved: Involucrarse
+newsletterTitle: Boletin informativo
+newsletterInfo: Regístrese a continuación para obtener las últimas actualizaciones
+  directamente en su bandeja de entrada.
+newsletterConfirmation: ¡Gracias por suscribirse al boletín de ETC!
+newsletterEmail: Email
+newsletterSubmit: Regístrate
+newsletterSubmitting: Sólo un momento...
+communityTitle: Grupos
+etcDev: ETCDEV
+iohk: IOHK
+etcCooperative: Cooperativa ETC
+etcLabs: Laboratorios ETC
+etcAsia: ETC Asia
+etcKorea: ETC Korea
+etcChina: ETC China
+socialTitle: Social
+discord: Discordia
+telegram: Telegrama
+reddit: Reddit
+twitter: Gorjeo
+footerText: Hecho con `<3` para la visión original de Ethereum

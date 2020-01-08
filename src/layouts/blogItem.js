@@ -28,7 +28,7 @@ const BlogItem = ({ data: { mdx } }) => (
           <Mdx code={mdx.body} />
         </div>
         <hr />
-        <BackButton text="All Blog Articles" to="/blog" />
+        <BackButton text={<Translate text="allBlogPosts" />} to="/blog" />
       </PageLayout>
     )}
   />

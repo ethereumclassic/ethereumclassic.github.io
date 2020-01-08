@@ -1,0 +1,27 @@
+- key: coingame
+  title: 코인 게임
+  text: ETC에서 시작된 스포츠 베팅 플랫폼.
+- key: dappdirect
+  title: DappDirect
+  text: ETC에서 실행되는 많은 계약 및 그에 대한 통계는 탈 중앙화 거래소, 도박/보험 계약 및 토큰을 포함하여이 커뮤니티 운영 사이트에서
+    찾을 수 있습니다.
+- key: metronome
+  title: 메트로놈
+  text: ETC와 ETH 블록 체인 사이에서 시작되는 크로스 블록 체인 암호 화폐.
+- key: originalmy
+  title: OriginalMy
+  text: OriginalMy는 완전 자동화 된 플랫폼을 제공하여 디지털 문서, 계약 및 신원의 진위를 등록하고 확인할 수 있습니다. 그들은 이제
+    블록 체인에서 주주 투표로 확장하고 있습니다.
+- key: peacebridge
+  title: peaceBridge
+  text: ETC와 ETH 블록 체인간에 가치 이전 및 정보 공유를 허용하도록 설계된 일련의 교차 체인 브리지.
+- key: portalNetwork
+  title: 포털 네트워크의 BNS
+  text: "Portal Network는 암호 블록 체인 주소 (예 : 0xfa91d23…)를 사람이 읽을 수있는 간단한 주소 (예 :
+    myname.etc)로 바꾸는 블록 체인 이름 서비스 표준을 만들었습니다."
+- key: saturnNetwork
+  title: 토성 네트워크
+  text: ETC와 ETH에서 실행되는 분산 교환
+- key: stampery
+  title: 스탬퍼 리
+  text: Stampery는 블록 체인의 데이터를 인증하여 존재, 무결성, 소유권 및 수령 증명을 제공합니다.

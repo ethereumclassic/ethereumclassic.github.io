@@ -1,0 +1,152 @@
+- key: ethereumLaunches
+  date: 2015年7月30日
+  title: イーサリアムの発売
+  text: Vitalik ButerinとThe Ethereum
+    Foundationは、最初のブロックチェーンベースのチューリング完全なスマート契約プラットフォームを作成します
+- key: slockItCreatesTheDAO
+  date: 2016年4月5日
+  title: Slock.itはTheDAOを作成します
+  text: Slock.itはTheDAO Ethereum Contractを構築します。セキュリティ監査はDejavuによって完了されます
+- key: theDAOCrowdsaleBegins
+  date: 2016年4月30日
+  title: TheDAOクラウドセール開始
+  text: TheDAOスマートコントラクトが展開されます。公衆のメンバーは、DAOトークンの代わりに値を送信します
+- key: securityProposal
+  date: 2016年5月26日
+  title: セキュリティ提案
+  text: Slock.itは、クラウドファンドによってEtherで支払われた150万ドルの提案を発表しました。「DAOの完全性を保証するため」
+- key: moratoriumCalled
+  date: 2016年5月27日
+  title: 呼び出されたモラトリアム
+  text: クラウドセールの最終日に、DAOキュレーターのVlad
+    ZamfirはTheDAOのモラトリアムを呼びかけ、ゲーム理論上の多くのセキュリティ問題を引用します。
+- key: theDAOCrowdsaleEnds
+  date: 2016年5月27日
+  title: TheDAOクラウドセール終了
+  text: クラウドセールが完了し、世界最大になり、信じられないほどの1億5,000万米ドルを調達
+- key: recursiveCallBugDiscovered
+  date: 2016年6月9日
+  title: 再帰呼び出しバグが発見されました
+  text: Peter Vessenesは、多くのSolidiy契約で見落とされている重大なセキュリティ脆弱性の存在を公開しています
+- key: noFundsAtRisk
+  date: 2016年6月12日
+  title: リスクのある資金はありません
+  text: ステファン・チュアルは、新たに発見された重大なセキュリティ欠陥にもかかわらず、TheDAOの資金は安全であると公に主張しています
+- key: theDAOIsHacked
+  date: 2016年6月17日
+  title: TheDAOはハッキングされています
+  text: 再入力バグが適用されると、エーテルはTheDAOからゆっくりと静かに排出されます
+- key: panicHitsTheMarkets
+  date: 2016年6月17日
+  title: パニックが市場を襲う
+  text: TheDAOがハッキングされたことをグリフ・グリーンが発表したため、Etherの価格は半分に削減されました
+- key: theCountdownBeings
+  date: 2016年6月17日
+  title: カウントダウンの存在
+  text: DAOの分割メカニズムにより、資金を回収する解決策が見つかるまで約1か月かかります。財団とコミュニティ開発者は、ソフトフォークの実装を競います
+- key: robinHoodGroupAnnounced
+  date: 2016年6月21日
+  title: ロビンフッドグループが発表
+  text: 「ホワイトハット」ハッカーのグループはTheDAOの資金の70％を保護していますが、ハッカーによって分割された残りの30％を節約するにはプロトコルレベルのアクションが必要です
+- key: DAO
+  date: 2016年6月24日
+  title: DAO戦争：ソフトフォーク投票
+  text: Ethereum
+    Foundationは、ハッカーからのトランザクションを検閲するための「ソフトフォーク」クライアントをリリースします。採掘プールは、ガスの制限を下げることでそれを可能にするために投票します
+- key: softForkVulnerability
+  date: 2016年6月28日
+  title: ソフトフォークの脆弱性
+  text: 重大なサービス拒否の欠陥はソフトフォークの実装にあり、マイナーはそれを使用しないことをすぐに決定します。
+- key: hardForkDebate
+  date: 6月28日-7月15日
+  title: ハードフォークディベート
+  text: イーサリアムコミュニティでは、ハードフォークを実装することの長所と短所について激しい議論が続いています。
+- key: hardForkSpecAnnounced
+  date: 2016年7月15日
+  title: ハードフォークの仕様が発表されました
+  text: 残っている唯一のオプションは、物議を醸すハードフォークです。仕様は、Slock.itおよびEthereum
+    Foundationメンバーによって決定および発表されます
+- key: lastMinuteCarbonvote
+  date: 2016年7月15日
+  title: 直前のCarbonvote
+  text: 12時間前の通知で、イーサリアム財団は、物議をかもす第三者の「コイン投票」を使用して、ハードフォークをデフォルトでオンにする必要があると判断しました。コンセンサスが宣言され、更新されたクライアントがリリースされます
+- key: dAOBailoutHardFork
+  date: 2016年7月20日
+  title: DAO救済ハードフォーク
+  text: ノードの約80％が新しいクライアントに更新されると、コミュニティはハードフォークアクティベーションブロック1920000の到着を神経質に待ちます
+- key: missionAccomplished
+  date: ブロック1920000
+  title: 任務完了!
+  text: ハードフォークコードは明らかな欠陥なしで正常に実装されているため、コミュニティは安reliefのため息をつきます。シャンパンのコルクは世界中でポップされています
+- key: ethereumClassicIsBorn
+  date: ブロック1920001
+  title: イーサリアムクラシックが誕生
+  text: 元のフォークされていないチェーンが数時間以内に消えるという予測により、多くの人が鉱夫がブロックをマイニングし続け、元のチェーントークンのOTC取引が彼らに価値を与えていることに気付く人が多い
+- key: poloniexListsETC
+  date: 2016年7月23日
+  title: PoloniexリストETC
+  text: 最大のイーサリアム交換リスト「ETC」-イーサリアムクラシック;多くの取引所はすぐに追随し、ETCの価格はETHの1/3に達する
+- key: communityInDisarray
+  date: 7月23日以降
+  title: 混乱のコミュニティ
+  text: かつて平和だった/r/Ethereumと/r/ethtraderのsubredditsで炎の戦争が始まり、経済的な負担をかけられたガラス質のスパッツが、分裂との関係でコミュニティを掌握し始めました
+- key: ethereumClassicCommunity
+  date: 2016年7月24日
+  title: イーサリアムクラシックコミュニティ
+  text: Ethereum
+    Classicコミュニティは、フォークチェーンのsubredditsから分岐し、/r/EthereumClassic、Slack、Telegramなどの独自の通信チャネルを形成し始めます。
+- key: rHGStrikesBack
+  date: 2016年8月10日
+  title: RHGの逆襲
+  text: ロビンフッドグループは、盗まれた大量のETCを市場に投棄しようとします。 Poloniexは資金を凍結します。不確実性は過去最高に達しました。
+- key: classicDeclaresIndependence
+  date: ブロック2050000
+  title: 古典宣言独立
+  text: ETCのウェブサイトでの独立宣言は、ETCはもはや財団との関係を望んでいないと公表しています。
+- key: classicRebuilds
+  date: 2016年8月15日
+  title: クラシックリビルド
+  text: イーサリアムクラシックコミュニティは、クラシックネットワークで再構築することにより、安定したETC価格の背後に集結し始めます。このウェブサイトが作成され、グループが形成され、新しいアイデアが浮上し始めます
+- key: dAOETCUnlocked
+  date: 2016年8月31日
+  title: DAO ETCのロック解除
+  text: 以前にロックまたは凍結された何百万ものETCがDAOトークンホルダーおよびDAO攻撃者に利用可能になります。運命と暗がりの予測にもかかわらず、ETCの価格は巨大なダンプに直面しても著しく良好に保持されます
+- key: attacksAndUpgrades
+  date: 2016年10月25日
+  title: 攻撃とアップグレード
+  text: 両方のEthereumsは、ノンストップネットワーク攻撃でヒットします。
+    ETC開発者は、悪用された脆弱性にパッチを適用するために、スムーズで問題のないネットワークアップグレードを迅速に保証します
+- key: etcMonetaryPolicy
+  date: 2016年11月1日
+  title: ETC金融政策
+  text: クラシックコミュニティは、プラットフォームユーザー、鉱夫、投資家、開発者の利益を調整する方法として、ETCの金融政策と排出スケジュールの議論を開始します
+- key: grothendieckTeam
+  date: 2016年12月11日
+  title: グロタンディークチーム
+  text: IOHKによってコミットされた7人のフルタイム開発者のチームが、Ethereum Classicの作業を開始します
+- key: etcDiehardUpgrade
+  date: ブロック3000000
+  title: ETC Diehardアップグレード
+  text: ETCは、問題のないネットワークアップグレードを実行し、難易度爆弾やリプレイ攻撃などの重要な問題を解決します
+- key: etcDEVTeamAnnouncement
+  date: 2017年2月20日
+  title: ETCDEVチームのお知らせ
+  text: 長期ETC貢献者とボランティアのチームがETCDEVチームとしてブランド変更
+- key: monetaryPolicyAdopted
+  date: 2017年3月1日
+  title: 採用された金融政策
+  text: イーサリアムクラシックコミュニティは、ビットコインのような制限付き排出スケジュールで固定キャップの金融政策を採用しています
+- key: etcInvestmentFund
+  date: 2017年3月1日
+  title: ETC投資ファンド
+  text: グレースケールは、伝統的な投資家を対象とした最初の非ビットコイン暗号ファンドである「Ethereum(ETC)Investment
+    Trust」の投資論文を配布しています
+- key: etcCoop
+  date: 2017年9月
+  title: ETC Coopの誕生
+  text: ETC Cooperative legal
+    entityは、LLCとして2017年9月に作成されました。非営利ステータスの申請は2018年5月に行われ、申請日まで遡って2018年11月に承認されました。
+- key: toBeContinued
+  title: つづく
+  text: Ethereum
+    Classicコミュニティとその2つの独立した開発チームが開発とアプリケーションに注力するようになると、ETCが将来の分散型不変パブリックインフラストラクチャになることを楽しみにしています...

@@ -1,0 +1,52 @@
+title: Эфириум Классик
+description: "Децентрализованная платформа, которая выполняет умные контракты: приложения,
+  которые работают точно так, как запрограммировано, без простоев, цензуры или
+  вмешательства третьих лиц"
+dateFormat: YYYY.MM.DD
+metaLocale: en_US
+htmlLang: ан
+bodyClass: дефолт
+navHome: Дом
+navKnowledge: Знание
+navTeams: Команды
+navEcosystem: экосистема
+navRoadmap: Дорожная карта
+navBlog: Блог
+knowledgeBase: База знаний
+notFound: Страница не найдена
+notFoundText: Извините, эта страница не существует
+goBack: Возвращаться
+warningTitle: Тяжелая вилка оповещения
+warningText: Эфириум Классик проходит плановое обновление «Агарта» около 15 января 2020
+  года. Если вы используете узел ETC, обновите его как можно скорее.
+warningButton: Обновить
+allBlogPosts: Все сообщения блога
+submitArticle: Отправить свою статью
+latestArticles: Последние статьи
+noPosts: Нет сообщений на выбранном вами языке.
+englishPosts: Английские сообщения
+continueReading: Продолжить чтение
+discordText: "** Участники ETC ** наиболее активны на ** разногласиях **."
+discordJoin: Присоединяйтесь к ETC на Discord
+getInvolved: Втягиваться
+newsletterTitle: Новостная рассылка
+newsletterInfo: Подпишитесь ниже, чтобы получать последние обновления прямо на ваш почтовый
+  ящик.
+newsletterConfirmation: Спасибо за подписку на рассылку ETC!
+newsletterEmail: Эл. адрес
+newsletterSubmit: Зарегистрироваться
+newsletterSubmitting: Момент...
+communityTitle: группы
+etcDev: ETCDEV
+iohk: IOHK
+etcCooperative: ETC Cooperative
+etcLabs: ETC Labs
+etcAsia: ETC Asia
+etcKorea: ETC Корея
+etcChina: ETC China
+socialTitle: Социальное
+discord: диссонанс
+telegram: телеграмма
+reddit: Reddit
+twitter: щебет
+footerText: Сделано из <3` для оригинального видения Эфириума

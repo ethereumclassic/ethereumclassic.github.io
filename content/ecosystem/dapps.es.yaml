@@ -1,0 +1,35 @@
+- key: coingame
+  title: Coingame
+  text: plataforma de apuestas deportivas que comenzó en ETC.
+- key: dappdirect
+  title: DappDirect
+  text: Se pueden encontrar muchos contratos que se ejecutan en ETC, y estadísticas
+    sobre ellos, en este sitio administrado por la comunidad que incluye
+    intercambios descentralizados, contratos de juego/seguros y tokens.
+- key: metronome
+  title: Metrónomo
+  text: Una criptomoneda de cadena de bloques cruzada que comenzará en puente entre
+    las cadenas de bloques ETC y ETH.
+- key: originalmy
+  title: OriginalMi
+  text: OriginalMy proporciona una plataforma totalmente automatizada para registrar
+    y verificar la autenticidad de documentos digitales, contratos e
+    identidades. Ahora se están expandiendo a la votación de los accionistas en
+    la cadena de bloques.
+- key: peacebridge
+  title: pazBridge
+  text: Una serie de puentes de cadena cruzada diseñados para permitir la
+    transferencia de valor y el intercambio de información entre las cadenas de
+    bloques ETC y ETH.
+- key: portalNetwork
+  title: BNS de la red del portal
+  text: Portal Network creó el estándar de Blockchain Name Service que convierte las
+    direcciones crípticas de blockchain (ej. 0xfa91d23 ...) en simples
+    direcciones legibles por humanos (ej. Myname.etc).
+- key: saturnNetwork
+  title: Red de Saturno
+  text: Un intercambio descentralizado que se ejecuta tanto en ETC como en ETH.
+- key: stampery
+  title: Estampación
+  text: Stampery certifica los datos en la cadena de bloques, proporcionando prueba
+    de existencia, integridad, propiedad y recibo.

@@ -1,0 +1,79 @@
+title: Ecosistema
+description: Proyectos y recursos en Ethereum Classic
+intro: >-
+  # Ecosistema
+
+
+  Esta página contiene una lista de proyectos de origen comunitario que están trabajando para Ethereum Classic o además.
+projectsTitle: Proyectos mayores
+multiGeth: Multi-Geth/Classic Geth
+multiGethText: ETC Labs Core está manteniendo un parche multi-geth que le permite a geth
+  soportar múltiples redes. Eventualmente esperan tener multi-geth integrado en
+  geth mainline.
+sidechains: Cadenas laterales
+sidechainsText: Las cadenas laterales se convertirán en una parte nativa de la infraestructura
+  y los protocolos de ETC. Esto aumentará la escalabilidad de ETC y traerá
+  blockchain a un grupo diverso de dispositivos de mano e IoT por primera vez.
+sputnikVM: SputnikVM
+sputnikVMText: SputnikVM es una implementación altamente eficiente y conectable de la máquina
+  virtual Ethereum. Es un EVM independiente que puede funcionar
+  independientemente de una cadena de bloques y es capaz de ejecutarse en
+  dispositivos de baja potencia; con planes para ejecutarse en dispositivos de
+  ultra bajo consumo.
+emeraldPlatform: Plataforma esmeralda
+emeraldPlatformText: El kit de herramientas para compilar aplicaciones que se ejecutan en Ethereum
+  ETC contiene componentes de interfaz de usuario, bibliotecas para Javascript y
+  Rust, íconos, herramientas de compilación, etc. Apuntando a varias
+  plataformas, como Desktop, Mobile, Web e incluso Shell Scripting.
+dapps: >-
+  ## Dapps Desarrollado por Etc
+
+  Una selección de aplicaciones (descentralizadas) que se crean sobre Ethereum Classic.
+
+
+  ** ⚠️ Si bien los enlaces maliciosos se eliminan a medida que se descubren, operar con el espíritu sin permiso significa que no hay garantía de que todos los enlaces sean legítimos. Úselo con precaución y verifíquelo usted mismo. **
+legend: Leyenda
+production: Producción
+demo: Manifestación
+development: Desarrollo
+resources: >-
+  ## Recursos
+
+
+  Una pequeña selección de recursos como exploradores, salas de chat, intercambios y grupos mineros.  
+
+  **Úselo bajo su propio riesgo.**
+moreResources: Más recursos
+nodesAndNetworkInfo: Nodos + Información de red
+nodesAndNetworkInfoText: Ejecute un nodo ETC y ayude a admitir la red utilizando el software a
+  continuación.
+nodes: Nodos
+networkInfo: Información de red
+blockExplorers: Exploradores de bloque
+blockExplorersText: Verifique el estado de las transacciones con estos útiles sitios web.
+mainnet: Mainnet
+testnets: Redes de prueba
+networkApis: API de red
+networkApisText: Use JSONRPC para comunicarse con ETC.
+publicApis: API públicas
+privateDeployments: Implementaciones privadas
+githubRepos: Repos de Github
+twitter: Gorjeo
+chatRooms: Salas de chat
+telegram: Telegrama
+wallets: Carteras
+walletsText: Almacene y envíe su ETC usando una de las billeteras a continuación. Las
+  billeteras de hardware son las más seguras; por favor úsalos.
+webWallets: Carteras web
+hardwareOffline: Hardware/fuera de línea
+desktop: Escritorio
+mobile: Móvil
+exchanges: Intercambios
+exchangesText: Obtenga ETC intercambiándolo en uno de los intercambios a continuación.
+  Estamos listados en todos tus intercambios favoritos.
+traditionalExchanges: Intercambios Tradicionales
+decentralizedExchanges: Intercambios descentralizados
+instantSwaps: Swaps instantáneos
+paymentProcessors: Procesadores de pago
+miningPools: Piscinas Mineras
+miningPoolsText: Mina ETC uniéndote a una de las piscinas de abajo.

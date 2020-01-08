@@ -1,0 +1,201 @@
+- key: ethereumLaunches
+  date: 30 Juli 2015
+  title: Ethereum startet
+  text: Vitalik Buterin und die Ethereum Foundation schaffen die erste
+    blockchainbasierte turingvollständige Plattform für intelligente
+    Vertragsabschlüsse
+- key: slockItCreatesTheDAO
+  date: 5 April 2016
+  title: Slock.it erschafft TheDAO
+  text: Slock.it erstellt TheDAO Ethereum Contract; Eine Sicherheitsüberprüfung wird
+    von Dejavu durchgeführt
+- key: theDAOCrowdsaleBegins
+  date: 30 April 2016
+  title: Der DAO-Crowdsale beginnt
+  text: Der DAO-Smart-Vertrag wird bereitgestellt; Mitglieder der Öffentlichkeit
+    senden es als Geld für DAO-Token
+- key: securityProposal
+  date: 26 Mai 2016
+  title: Sicherheitsvorschlag
+  text: Slock.it kündigt einen 1,5-Millionen-USD-Vorschlag an, der vom Crowdfund in
+    Ether ausgezahlt wird, um 'die Integrität der DAO zu gewährleisten'
+- key: moratoriumCalled
+  date: 27 Mai 2016
+  title: Moratorium wird aufgefordert
+  text: Am letzten Tag des Crowdsales fordert der DAO-Kurator Vlad Zamfir ein
+    Moratorium für TheDAO, in dem viele spieltheoretische Sicherheitsaspekte
+    angeführt werden
+- key: theDAOCrowdsaleEnds
+  date: 27 Mai 2016
+  title: TheDAO Crowdsale endet
+  text: Der Crowdsale wird zum größten der Welt und bringt unglaubliche 150
+    Millionen USD ein
+- key: recursiveCallBugDiscovered
+  date: 9 Juni 2016
+  title: Rekursiver Aufruffehler wird entdeckt (Recursive Call Bug)
+  text: Peter Vessenes offenbart öffentlich das Vorhandensein einer kritischen
+    Sicherheitslücke, die in vielen Solidiy-Verträgen übersehen wurden
+- key: noFundsAtRisk
+  date: 12 Juni 2016
+  title: Keine gefährdeten Fonds
+  text: Stephan Tual behauptet öffentlich, dass TheDAO-Gelder, trotz der neu
+    entdeckten kritischen Sicherheitslücke, sicher seien
+- key: theDAOIsHacked
+  date: 17 Juni 2016
+  title: TheDAO ist gehackt
+  text: Der Ether wird langsam und lautlos aus TheDAO entfernt, sobald der
+    Wiedereintrittsfehler auftritt
+- key: panicHitsTheMarkets
+  date: 17 Juni 2016
+  title: Panik trifft die Märkte
+  text: Der Preis für Ether wird halbiert, als Griff Green verkündet, dass TheDAO
+    gehackt wurde
+- key: theCountdownBeings
+  date: 17 Juni 2016
+  title: Die Countdown beginnt
+  text: Der Aufteilungsmechanismus der DAO gibt ungefähr einen Monat Zeit, um eine
+    Lösung zu finden, die die Gelder wiederherstellt. Foundation- und
+    Community-Entwickler bemühen sich um die Implementierung einer SoftFork
+- key: robinHoodGroupAnnounced
+  date: 21 Juni 2016
+  title: Robin Hood Group wird angekündigt
+  text: Eine Gruppe von "White-Hat"-Hackern sichert sich 70% der TheDAO-Funds, aber
+    es sind Maßnahmen auf Protokollebene erforderlich, um die verbleibenden 30%
+    zu sichern
+- key: DAO
+  date: 24 Juni 2016
+  title: "DAO Wars: SoftFork Vote"
+  text: Die Ethereum Foundation veröffentlicht einen 'SoftFork'-Client, um
+    Transaktionen des Hackers zu zensieren. Mining Pools stimmen dafür, indem
+    sie das Gaslimit senken
+- key: softForkVulnerability
+  date: 28 Juni 2016
+  title: Sicherheitslücke in SoftFork
+  text: Kritische Denial-of-Service-Mängel sind in der SoftFork-Implementierung zu
+    finden. Die Miners entscheiden sich schnell dafür, sie nicht zu verwenden
+- key: hardForkDebate
+  date: 28 Juni - 15 Juli
+  title: HardFork Debatte
+  text: In der Ethereum-Community wird viele Tage lang intensiv über die Vor- und
+    Nachteile der Implementierung einer HardFork gestritten
+- key: hardForkSpecAnnounced
+  date: 15 Juli 2016
+  title: Hard Fork Spec wird angekündigt
+  text: Die einzig verbleibende Option ist eine umstrittene HardFork. Eine
+    Spezifikation wird von den Mitgliedern der Slock.it und der Ethereum
+    Foundation festgelegt und angekündigt
+- key: lastMinuteCarbonvote
+  date: 15 Juli 2016
+  title: Last Minute Carbonvote
+  text: Mit einer Frist von 12 Stunden verwendet die Ethereum Foundation eine
+    umstrittene 'Münzabstimmung' (coin vote) der Drittanbieter, um zu bestimmen,
+    dass die HardFork standardmäßig aktiviert werden soll. Konsens wird erklärt
+    und ein aktualisierter Client wird bereitgestellt
+- key: dAOBailoutHardFork
+  date: 20 Juli 2016
+  title: DAO Bailout HardFork
+  text: Rund 80% der Knoten werden auf den neuen Client aktualisiert. Die Community
+    wartet nervös auf die Ankunft des HardFork-Aktivierungsblockes 1920000
+- key: missionAccomplished
+  date: Block 1920000
+  title: Mission erfüllt!
+  text: Die Community seufzt erleichtert auf, als der HardFork-Code ohne
+    offensichtliche Mängel erfolgreich implementiert wird. Die Champagnerkorken
+    werden auf der ganzen Welt geknallt
+- key: ethereumClassicIsBorn
+  date: Block 1920001
+  title: Ethereum Classic ist geboren
+  text: Mit Vorhersagen, dass die ursprüngliche nicht aufgesplittete Kette (chain)
+    innerhalb von Stunden verschwinden wird, verwundern sich viele, dass die
+    Miners weiterhin Blöcke schürfen (mine) und der OTC-Handel des
+    ursprünglichen Ketten-Tokens ihnen einen Wert verleiht
+- key: poloniexListsETC
+  date: 23 Juli 2016
+  title: Poloniex listet ETC auf
+  text: Die größten Ethereum-Börse listet 'ETC' - Ethereum Classic; Viele Börsen
+    folgen schnell, der ETC-Preis erreicht ein Drittel der ETH
+- key: communityInDisarray
+  date: 23 Juli und danach
+  title: Community in Unordnung
+  text: Flammenkriege beginnen in den einst friedlichen Subreddites /r/Ethereum und
+    /r/ethtrader, und wirtschaftlich aufgeladene vitriolische Gamaschen beginnen
+    die Community zu erobern, wenn es darum geht, mit der Spaltung umzugehen
+- key: ethereumClassicCommunity
+  date: 24 Juli 2016
+  title: Ethereum Classic Community
+  text: Die Ethereum Classic-Community beginnt, sich von den Subredditen der
+    Forked-Chain zu trennen und eigene Kommunikationskanäle zu bilden, darunter
+    /r/EthereumClassic, Slack und Telegram
+- key: rHGStrikesBack
+  date: 10 August 2016
+  title: RHG schlägt zurück
+  text: Die Robin Hood Group versucht, eine große Menge gestohlener ETCs auf den
+    Markt zu bringen. Poloniex friert die Tokens ein. Die Unsicherheit erreicht
+    ein Allzeithoch
+- key: classicDeclaresIndependence
+  date: Block 2050000
+  title: Classic erklärt Unabhängigkeit
+  text: Die Unabhängigkeitserklärung wird auf der ETC-Internetseite veröffentlicht
+    und besagt, dass ETC nicht mehr mit der Stiftung zusammenarbeiten möchte
+- key: classicRebuilds
+  date: 15 August 2016
+  title: Umbauten im Classic
+  text: Die Ethereum Classic-Community beginnt sich hinter einem stabilisierenden
+    ETC-Preis zu erheben, indem sie das Classic-Netzwerk wieder aufbaut. diese
+    Internetseite wird erstellt, Gruppen werden gebildet, neue Ideen tauchen auf
+- key: dAOETCUnlocked
+  date: 31 August 2016
+  title: DAO ETC ist freigeschaltet
+  text: DAO-Token-Inhabern und DAO-Angreifern stehen Millionen von zuvor gesperrten
+    oder eingefrorenen ETC zur Verfügung. Trotz Vorhersagen von Untergang und
+    Trübsal, bleibt der ETC-Preis angesichts riesiger Dumps bemerkenswert gut
+- key: attacksAndUpgrades
+  date: 25 Oktober 2016
+  title: Angriffe und Upgrades
+  text: Beide Ethereums sind von ununterbrochenen Netzwerkangriffen betroffen.
+    ETC-Entwickler stellen schnell ein reibungsloses und unkontinuierliches
+    Netzwerk-Upgrade sicher, um ausgenutzte Schwachstellen zu beheben
+- key: etcMonetaryPolicy
+  date: 1 November 2016
+  title: ETC-Geldpolitik
+  text: Die Classic-Community beginnt mit der Debatte über die Geldpolitik und den
+    Emissionsplan von ETC, um die Interessen der Plattformbenutzer, Miner,
+    Investoren und Entwickler in Einklang zu bringen
+- key: grothendieckTeam
+  date: 11 Dezember 2016
+  title: Grothendieck-Team
+  text: Ein Team von 7 hauptberuflichen Entwicklern, die von IOHK engagiert wurden,
+    beginnt mit der Arbeit für Ethereum Classic
+- key: etcDiehardUpgrade
+  date: Block 3000000
+  title: ETC Diehard-Upgrade
+  text: ETC führt ein nicht umstrittenes Netzwerk-Upgrade durch und behebt kritische
+    Probleme wie Bomben- und Wiederholungsangriffe (replay attacks)
+- key: etcDEVTeamAnnouncement
+  date: 20 Februar 2017
+  title: Ankündigung von ETCDEV-Team
+  text: Ein Team von ETC-Langzeitmitarbeitern und Freiwilligen wird zu einem
+    ETCDEV-Team umfirmiert
+- key: monetaryPolicyAdopted
+  date: 1 März 2017
+  title: Geldpolitik wird verabschiedet
+  text: Die Ethereum Classic-Community verfolgt eine Fixed-Cap-Geldpolitik mit einem
+    Bitcoin-ähnlichen Zeitplan für begrenzte Emissionen
+- key: etcInvestmentFund
+  date: 1 März 2017
+  title: ETC Investment Fund
+  text: Grayscale veröffentlicht Anlagethese für 'Ethereum (ETC) Investment Trust',
+    den ersten Nicht-Bitcoin-Crypto-Fund für traditionelle Anleger
+- key: etcCoop
+  date: September 2017
+  title: Geburt von ETC Cooperative
+  text: Die juristische Person der ETC Cooperative wurde im September 2017 als LLC
+    gegründet. Der Antrag auf Erlangung des Statuses als 'gemeinnützig' wurde im
+    Mai 2018 gestellt und im November 2018 rückwirkend zum Datum des Antrages
+    genehmigt
+- key: toBeContinued
+  title: Fortsetzung folgt
+  text: Da sich die Ethereum Classic-Community und ihre beiden unabhängigen
+    Entwicklerteams auf Entwicklung und Anwendungen konzentrieren, freuen wir
+    uns darauf, ETC zu einer dezentralen, unveränderlichen öffentlichen
+    Infrastruktur der Zukunft zu machen...
