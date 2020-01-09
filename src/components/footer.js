@@ -4,6 +4,7 @@ import Community from './community';
 import Newsletter from './newsletter';
 import Discord from './discord';
 import Translate from './translate';
+import Link from './link';
 
 const Footer = () => {
   return (
@@ -25,6 +26,8 @@ const Footer = () => {
       </section>
       <div className="copyright">
         <Translate text="footerText" />
+        <br />
+        <Link to="https://html5up.net/license" text="Template derived from HTML5UP" />
       </div>
     </>
   );
