@@ -1,14 +1,12 @@
 # Ethereum Classic Website
 
-i18n Preview: https://etc-i18n.github.io/
+Main website: https://ethereumclassic.org/
+Develop branch preview: https://ethereumclassic-develop.netlify.com/
+i18n branch preview: https://etc-i18n.github.io/
 
 ## Adding Content
 
-For now, if you'd like to contribute, please contact us in the [discord #ethereumclassicwebsite](https://discord.gg/DwQjJ8) channel.
-
-We're not quite ready for translators to begin contributing translations, but watch this space.
-
-*More detailed instructions to come.*
+If you'd like to contribute content or translations, please contact us in the [discord #ethereumclassicwebsite](https://discord.gg/DwQjJ8) channel.
 
 For simple content updates such as editing a blog article, checkout a new branch from `source`, add your content, and create a PR back into source (but do not merge it; this will be managed by maintainers in discord).
 
