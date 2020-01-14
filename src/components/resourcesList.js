@@ -12,22 +12,34 @@ const resources = ({ i18n }) => {
           title={i18n.nodes}
           items={[
             {
+              text: 'Multi-Geth',
+              link: 'https://github.com/ethoxy/multi-geth/releases'
+            },
+            {
+              text: 'Hyperledger Besu',
+              link: 'https://www.hyperledger.org/projects/besu'
+            },
+            {
               text: 'Classic Geth',
               link: 'https://github.com/ethereumclassic/go-ethereum/'
             },
             {
               text: 'Parity',
               link: 'https://github.com/paritytech/parity/releases'
-            },
-            {
-              text: 'Multi-Geth',
-              link: 'https://github.com/ethoxy/multi-geth/releases'
             }
           ]}
         />
         <LinkGroup
           title={i18n.networkInfo}
           items={[
+            {
+              text: 'Mainnet Stats',
+              link: 'https://etcnodes.org/'
+            },
+            {
+              text: 'Kotti Testnet Stats',
+              link: 'https://kotti.etcnodes.org/'
+            },
             { text: 'ETC Status Live', link: 'https://etcstatus.live/' },
             {
               text: 'ETC Network Stats (Saturn Tools)',
@@ -49,7 +61,6 @@ const resources = ({ i18n }) => {
               text: 'BlockScout',
               link: 'https://blockscout.com/etc/mainnet/'
             },
-            { text: 'Gastracker.io', link: 'https://gastracker.io/' },
             { text: 'Etherhub.io', link: 'http://etherhub.io/' },
             { text: 'ETCBlockExplorer.com', link: 'https://etcblockexplorer.com/home' },
             { text: 'ETCPlanet.org', link: 'https://etcplanet.org/' },
@@ -60,19 +71,6 @@ const resources = ({ i18n }) => {
             { text: '0xETH', link: 'http://0xeth.com/' }
           ]}
         />
-        <LinkGroup
-          title={i18n.testnets}
-          items={[
-            {
-              text: 'Kotti (Testnet) Explorer',
-              link: 'https://kottiexplorer.ethernode.io/'
-            },
-            {
-              text: 'Morden (Testnet) Explorer',
-              link: 'http://mordenexplorer.ethertrack.io/home'
-            }
-          ]}
-        />
       </Card>
       <Card title={i18n.networkApis}>
         {i18n.networkApisText}
@@ -80,16 +78,20 @@ const resources = ({ i18n }) => {
           title={i18n.publicApis}
           items={[
             {
+              text: 'Ethercluster',
+              link: 'https://www.ethercluster.com/'
+            },
+            {
+              text: 'ethereumclassic.network',
+              link: 'https://ethereumclassic.network'
+            },
+            {
               text: 'ethereumclassic.network',
               link: 'https://ethereumclassic.network'
             },
             {
               text: 'kotti.ethereumclassic.network',
               link: 'https://kotti.ethereumclassic.network'
-            },
-            {
-              text: 'web3.gastracker.io',
-              link: 'https://web3.gastracker.io'
             }
           ]}
         />
