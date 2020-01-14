@@ -6,24 +6,8 @@ intro: >
 
   This page contains a list of community-sourced projects that are working for, with or on top of Ethereum Classic.
 # projects section
+clients: Clients
 projectsTitle: Major Projects
-multiGeth: Multi-Geth / Classic-Geth
-multiGethText: ETC Labs Core is maintaining a multi-geth patch that enables geth to support
-  multiple networks. Eventually they hope to have multi-geth integrated into
-  mainline geth.
-sidechains: Sidechains
-sidechainsText: Sidechains will become a native part of ETC infrastructure and protocols. This
-  will increase ETC’s scalability and bring blockchain to a diverse group of
-  handheld and IoT devices for the first time.
-sputnikVM: SputnikVM
-sputnikVMText: SputnikVM is a highly efficient and pluggable implementation of the Ethereum
-  Virtual Machine. It is a standalone EVM that can operate independently of a
-  blockchain and is capable of running on low powered devices; with plans to run
-  on ultra-low power devices.
-emeraldPlatform: Emerald Platform
-emeraldPlatformText: Toolkit to build applications running on Ethereum ETC, contains UI Components,
-  Libraries for Javascript and Rust, Icons, Build tools, etc. Targeting various
-  platforms, such as Desktop, Mobile, Web and even Shell Scripting.
 # dapps section
 dapps: >
   ## Dapps Powered by Etc
