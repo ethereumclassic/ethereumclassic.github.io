@@ -16,13 +16,8 @@ const SelectLanguage = () => {
             if (locale === key || !locales[key].enabled) {
               return null;
             }
-            // TODO replace this with 404 tree traversal logic
-            // if we're in a sub-page like /blog/xxx or /knowledge/xxx, go to the root page
+            // replace current path with our locale with our new locale
             let link = location.pathname.replace(`/${locale}/`, '/');
-            const fragments = link.split('/');
-            if (fragments.length >= 3) {
-              link = `/${fragments[1]}`;
-            }
             if (defaultLocale !== key) {
               link = `/${key}${link}`;
             }
