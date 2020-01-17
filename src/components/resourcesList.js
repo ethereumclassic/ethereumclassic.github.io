@@ -99,7 +99,8 @@ const resources = ({ i18n }) => {
           title={i18n.privateDeployments}
           items={[
             { text: 'quiknode.io', link: 'https://quiknode.io/' },
-            { text: 'ethernode.io', link: 'http://dev.ethernode.io/' }
+            { text: 'ethernode.io', link: 'http://dev.ethernode.io/' },
+            { text: 'DAppNode', link: 'https://dappnode.io/' }
           ]}
         />
       </Card>
