@@ -10,6 +10,12 @@
   text: Many contracts running on ETC, and statistics about them, can be found on this community-run site including decentralized exchanges, gambling/insurance contracts, and tokens.
   to: https://dappdirect.net/
   className: green
+- 
+  key: emarald
+  title: Emerald Platform
+  text: Toolkit to build applications running on Ethereum ETC, contains UI Components, Libraries for Javascript and Rust, Icons, Build tools, etc. Targeting various platforms, such as Desktop, Mobile, Web and even Shell Scripting.
+  to: https://github.com/ETCDEVTeam/emerald-platform
+  className: orange
 -
   key: metronome
   title: Metronome
@@ -39,6 +45,18 @@
   title: Saturn Network
   text: A decentralized exchange running on both ETC and ETH.
   to: https://www.saturn.network/
+  className: green
+- 
+  key: Sidechains
+  title: Sidechains
+  text: Sidechains may become a native part of ETC infrastructure and protocols. This will increase ETC’s scalability and bring blockchain to a diverse group of handheld and IoT devices for the first time.
+  to: https://github.com/ETCDEVTeam/sidekick-doc
+  className: red
+- 
+  key: sputnik
+  title: SputnikVM
+  text: SputnikVM is a highly efficient and pluggable implementation of the Ethereum Virtual Machine. It is a standalone EVM that can operate independently of a blockchain and is capable of running on low powered devices; with plans to run on ultra-low power devices.
+  to: https://github.com/ETCDEVTeam/sputnikvm
   className: green
 -
   key: stampery

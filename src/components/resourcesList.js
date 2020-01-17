@@ -30,24 +30,14 @@ const resources = ({ i18n }) => {
           ]}
         />
         <LinkGroup
-          title={i18n.networkInfo}
+          title={i18n.privateDeployments}
           items={[
+            { text: 'quiknode.io', link: 'https://quiknode.io/' },
+            { text: 'ethernode.io', link: 'http://dev.ethernode.io/' },
+            { text: 'DAppNode', link: 'https://dappnode.io/' },
             {
-              text: 'Mainnet Stats',
-              link: 'https://etcnodes.org/'
-            },
-            {
-              text: 'Kotti Testnet Stats',
-              link: 'https://kotti.etcnodes.org/'
-            },
-            { text: 'ETC Status Live', link: 'https://etcstatus.live/' },
-            {
-              text: 'ETC Network Stats (Saturn Tools)',
-              link: 'https://saturn.tools/admin/etcstats'
-            },
-            {
-              text: 'Morden (Testnet) Stats',
-              link: 'http://mordenstats.ethertrack.io/'
+              text: 'Ethercluster',
+              link: 'https://www.ethercluster.com/'
             }
           ]}
         />
@@ -78,12 +68,8 @@ const resources = ({ i18n }) => {
           title={i18n.publicApis}
           items={[
             {
-              text: 'Ethercluster',
-              link: 'https://www.ethercluster.com/'
-            },
-            {
-              text: 'ethereumclassic.network',
-              link: 'https://ethereumclassic.network'
+              text: 'ethercluster.com/etc',
+              link: 'https://https://www.ethercluster.com/etc/'
             },
             {
               text: 'ethereumclassic.network',
@@ -96,11 +82,25 @@ const resources = ({ i18n }) => {
           ]}
         />
         <LinkGroup
-          title={i18n.privateDeployments}
+          title={i18n.networkInfo}
           items={[
-            { text: 'quiknode.io', link: 'https://quiknode.io/' },
-            { text: 'ethernode.io', link: 'http://dev.ethernode.io/' },
-            { text: 'DAppNode', link: 'https://dappnode.io/' }
+            {
+              text: 'Mainnet Stats',
+              link: 'https://etcnodes.org/'
+            },
+            {
+              text: 'Kotti Testnet Stats',
+              link: 'https://kotti.etcnodes.org/'
+            },
+            { text: 'ETC Status Live', link: 'https://etcstatus.live/' },
+            {
+              text: 'ETC Network Stats (Saturn Tools)',
+              link: 'https://saturn.tools/admin/etcstats'
+            },
+            {
+              text: 'Morden (Testnet) Stats',
+              link: 'http://mordenstats.ethertrack.io/'
+            }
           ]}
         />
       </Card>

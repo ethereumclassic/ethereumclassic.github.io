@@ -10,7 +10,7 @@ clients: Clients
 projectsTitle: Major Projects
 # dapps section
 dapps: >
-  ## Dapps Powered by Etc
+  ## Apps Powered by Etc
 
   A selection of (decentralized) applications that are built on top of Ethereum Classic.
 
@@ -30,7 +30,7 @@ resources: >
   **Use at your own risk.**
 moreResources: More Resources
 # resources items
-nodesAndNetworkInfo: Nodes + Network Info
+nodesAndNetworkInfo: Nodes
 nodesAndNetworkInfoText: Run an ETC node and help support the network by using the software below.
 nodes: Nodes
 networkInfo: Network Info
@@ -38,7 +38,7 @@ blockExplorers: Block Explorers
 blockExplorersText: Check on the status of transactions with these handy websites.
 mainnet: Mainnet
 testnets: Testnets
-networkApis: Network APIs
+networkApis: Network APIs + Info
 networkApisText: Use JSONRPC to communicate with ETC.
 publicApis: Public APIs
 privateDeployments: Private Deployments

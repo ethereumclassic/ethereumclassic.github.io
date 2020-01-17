@@ -11,12 +11,6 @@ const MajorProjects = ({ i18n }) => {
           <LinkSection {...{ key, title, text, to: link }} />
         ))}
       </section>
-      <section>
-        <h2>{i18n.projectsTitle}</h2>
-        {i18n.yaml.projects.map(({ key, title, link, text }) => (
-          <LinkSection {...{ key, title, text, to: link }} />
-        ))}
-      </section>
     </>
   );
 };
