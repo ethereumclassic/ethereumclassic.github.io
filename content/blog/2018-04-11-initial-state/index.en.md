@@ -84,3 +84,5 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 ## License
 
 ![](./0*hocpUZXBcjzNJeQ2.png)
+
+This work is licensed under the Creative Commons Attribution ShareAlike 4.0 International License.

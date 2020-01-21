@@ -31,3 +31,11 @@
   title: Stampery
   text: Stampery zertifiziert Daten in der Blockchain und liefert einen Nachweis für
     Existenz, Integrität, Eigentum und Erhalt.
+- key: Sidechains
+  title: Nebenketten (Sidechains)
+  text: Sidechains werden zu einem nativen Bestandteil der ETC-Infrastruktur und -Protokolle. Dies wird die Skalierbarkeit von ETC verbessern und die Blockchain zum ersten Mal für eine Vielzahl von Hand- und IoT-Geräten verfügbar machen.
+- key: sputnik
+  text: SputnikVM ist eine hocheffiziente und steckbare Implementierung der Ethereum Virtual Machine. Es handelt sich um ein eigenständiges EVM, das unabhängig von einer Blockchain betrieben und auf Geräten mit geringem Stromverbrauch ausgeführt werden kann; mit Plänen, auf Geräten mit extrem geringem Stromverbrauch zu laufen.
+- key: emarald
+  text: Das Toolkit zum Erstellen von Anwendungen, die auf Ethereum ETC ausgeführt werden, enthält UI-Komponenten, Bibliotheken für Javascript und Rust, Symbole, Build-Werkzeuge usw.. Zielend auf verschiedene Plattformen wie Desktop, Mobile, Web und sogar Shell Scripting.
+
