@@ -1,7 +1,6 @@
 import React from 'react';
 import Social from './social';
 import Community from './community';
-import Newsletter from './newsletter';
 import Discord from './discord';
 import Translate from './translate';
 import Link from './link';
@@ -16,12 +15,11 @@ const Footer = () => {
           </h2>
         </header>
         <div className="content">
+          <Social />
           <Discord />
-          <Newsletter />
         </div>
         <footer>
           <Community />
-          <Social />
         </footer>
       </section>
       <div className="copyright">
