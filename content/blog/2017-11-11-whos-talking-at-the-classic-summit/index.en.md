@@ -56,7 +56,7 @@ ETC](https://www.youtube.com/watch?v=lsUFzKoIW3I&index=8&list=PLKO8sMfwkZQqM444-
 ## [Cody Burns](https://github.com/realcodywburns)
 
 He’s worked on [Classic Ether
-Wallet](https://ethereumproject.github.io/etherwallet/), proposed how we can
+Wallet](http://classicetherwallet.com), proposed how we can
 have [private addresses on
 ETC](https://github.com/ethereumproject/ECIPs/pull/78), and wants to give us
 [cross-chain atomic
