@@ -19,3 +19,7 @@ All other branches will be automatically built and deployed via netlify, for exa
 ## Development
 
 This project uses [gatsby](https://www.gatsbyjs.org/) and a custom i18n content management system. More documentation to come.
+
+To run the development mode, clone this repo, run `npm install` followed by `npm start`.
+
+See `package.json` for scripts scripts.
