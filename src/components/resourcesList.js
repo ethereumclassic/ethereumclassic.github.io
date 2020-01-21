@@ -206,6 +206,10 @@ const resources = ({ i18n }) => {
             {
               text: 'SATURN Wallet',
               link: 'https://saturn.network/saturn-wallet'
+            },
+            {
+              text: 'Nifty Wallet (MetaMask Fork)',
+              link: 'https://github.com/poanetwork/nifty-wallet'
             }
           ]}
         />
