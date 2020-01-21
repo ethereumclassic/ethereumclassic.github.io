@@ -52,7 +52,10 @@ const resources = ({ i18n }) => {
               link: 'https://blockscout.com/etc/mainnet/'
             },
             { text: 'Etherhub.io', link: 'http://etherhub.io/' },
-            { text: 'ETCBlockExplorer.com', link: 'https://etcblockexplorer.com/home' },
+            {
+              text: 'ETCBlockExplorer.com',
+              link: 'https://etcblockexplorer.com/home'
+            },
             { text: 'ETCPlanet.org', link: 'https://etcplanet.org/' },
             {
               text: 'MinerGate',
@@ -194,10 +197,6 @@ const resources = ({ i18n }) => {
         <LinkGroup
           title={i18n.webWallets}
           items={[
-            {
-              text: 'Classic Ether Wallet',
-              link: 'https://ethereumclassic.github.io/etherwallet/'
-            },
             {
               text: 'My Ether Wallet',
               link: 'https://www.myetherwallet.com/'
