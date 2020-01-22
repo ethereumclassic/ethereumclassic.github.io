@@ -10,10 +10,8 @@ import MajorProjects from '~components/majorProjects';
 const Ecosystem = ({ pageContext: { i18n } }) => {
   return (
     <PageLayout wide seo={i18n}>
-      <section>
-        {html(i18n.intro)}
-        <MajorProjects i18n={i18n} />
-      </section>
+      <section>{html(i18n.intro)}</section>
+      <MajorProjects i18n={i18n} />
       <Dapps i18n={i18n} dapps={i18n.yaml.dapps} />
       <Resources i18n={i18n} />
     </PageLayout>

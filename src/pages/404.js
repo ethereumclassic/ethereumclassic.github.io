@@ -1,12 +1,13 @@
 import React from 'react';
 import { Location } from '@reach/router';
-
 import { StaticQuery, graphql } from 'gatsby';
+
 import config from '../i18n/config';
 import logo from '../assets/images/etc-black.svg';
 
 import BackButton from '~components/backButton';
 import SEO from '~components/seo';
+import Redirect from '~components/redirect';
 import ButtonLink from '~components/buttonLink';
 
 const query = graphql`
@@ -24,8 +25,6 @@ const query = graphql`
   }
 `;
 
-// TODO fallback up the URL tree automatically
-
 function getLocaleFromPath({ defaultLocale, locales }, pathname) {
   const potential = pathname.split('/')[1];
   const match = Object.keys(locales).find(locale => locale === potential);
@@ -41,9 +40,9 @@ function parseGlobals(pathname, result) {
   const locale = getLocaleFromPath(config, pathname);
   const fallback = parseResult(result, config.defaultLocale);
   const translation = parseResult(result, locale);
-  const homepath = locale === config.defaultLocale ? '/' : `/${locale}`;
+  const homePath = locale === config.defaultLocale ? '/' : `/${locale}`;
   return {
-    homepath,
+    homePath,
     globals: { ...fallback, ...translation }
   };
 }
@@ -55,16 +54,22 @@ const NotFound = () => {
       render={result => (
         <Location>
           {({ location }) => {
-            const { globals, homepath } = parseGlobals(location.pathname, result.locales);
+            const { globals, homePath } = parseGlobals(location.pathname, result.locales);
+
+            const parentPath = location.pathname
+              .split('/')
+              .slice(0, -1)
+              .join('/');
+
             return (
               <>
                 <SEO title={globals.notFound} />
+                <Redirect to={parentPath} />
                 <div className="four-oh-four">
                   <img src={logo} alt={globals.title} />
                   <h1>{globals.notFoundText}</h1>
-                  {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
                   <BackButton text={globals.goBack} automatic />
-                  <ButtonLink to={homepath} text={globals.navHome} />
+                  <ButtonLink to={homePath} text={globals.navHome} />
                 </div>
               </>
             );

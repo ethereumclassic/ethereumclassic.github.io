@@ -1,35 +1,29 @@
 # Ethereum Classic Website
 
-i18n Preview: https://etc-i18n.github.io/
+https://ethereumclassic.org/
 
-## Adding Content
+## Content
 
-For now, if you'd like to contribute, please contact us in the [discord #ethereumclassicwebsite](https://discord.gg/DwQjJ8) channel.
+If you'd like to contribute content or translations, please contact the [discord #ethereumclassicwebsite](https://discord.gg/DwQjJ8) channel for further instructions and access rights.
 
-We're not quite ready for translators to begin contributing translations, but watch this space.
+Overall structure and content is currently being finalized in this repo's [wiki](https://github.com/ethereumclassic/ethereumclassic.github.io/wiki).
 
-*More detailed instructions to come.*
+For simple content updates such as editing a blog article, checkout a new branch from `source`, add your content, and create a PR back into source.
 
-For simple content updates such as editing a blog article, checkout a new branch from `source`, add your content, and create a PR back into source (but do not merge it; this will be managed by maintainers in discord).
+Feel free to create a new issue if you would like to suggest content changes.
 
-## Branches
+## Deployment
 
-To enable branch protection on `master`, and due to the way github pages top level org repos, we need to employ a creative use of branching to manage updates.
+Updates to the `source` branch are automatically built and deployed to to https://ethereumclassic.org/ (via netlify). The `source` branch is protected; pull requests must be made against it and approved by 3 contributors.
 
-### Source Code Branches
+All other branches will be automatically built and deployed via netlify, for example the `develop` branch: https://develop--ethereumclassic.netlify.com/
 
-* [Source](https://github.com/ethereumclassic/ethereumclassic.github.io/tree/source)
-  * Checkout this branch to add new *content*
-  * Any commit to this branch will trigger a new `staging` deploy
-* [Develop](https://github.com/ethereumclassic/ethereumclassic.github.io/tree/develop)
-  * Checkout this branch to add new *features*
-  * To be merged into source for new releases
+## Development
 
-### Compiled Code Branches
+This project uses [gatsby](https://www.gatsbyjs.org/) and a custom i18n content management system. More documentation to come.
 
-Do not commit to these branches directly.
+To run the development mode, clone this repo, run `npm install` followed by `npm start`.
 
-* [Master](https://github.com/ethereumclassic/ethereumclassic.github.io/tree/master)
-  * Deploys to https://ethereumclassic.org/
-* [Staging](https://github.com/ethereumclassic/ethereumclassic.github.io/tree/staging)
-  * Deploys to https://staging--ethereumclassic.netlify.com/
+See `package.json` for scripts scripts.
+
+Issues and pull requests are welcome. You can also get an overview of issues on the [project kanban](https://github.com/ethereumclassic/ethereumclassic.github.io/projects/1).

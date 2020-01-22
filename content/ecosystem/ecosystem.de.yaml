@@ -27,7 +27,7 @@ emeraldPlatformText: Das Toolkit zum Erstellen von Anwendungen, die auf Ethereum
   Build-Werkzeuge usw.. Zielend auf verschiedene Plattformen wie Desktop,
   Mobile, Web und sogar Shell Scripting.
 dapps: >-
-  ## Dapps von Etc
+  ## Apps von Etc
 
   Eine Auswahl von (dezentralen) Anwendungen, die auf Ethereum Classic aufbauen.
 
@@ -45,7 +45,7 @@ resources: >-
 
   **Benutzung auf eigene Gefahr.**
 moreResources: Mehr Ressourcen
-nodesAndNetworkInfo: Knoten + Netzwerkinfo
+nodesAndNetworkInfo: Knoten
 nodesAndNetworkInfoText: Führe einen ETC-Knoten aus und unterstütze das Netzwerk mithilfe einer der
   folgenden Software.
 nodes: Knoten
@@ -54,7 +54,7 @@ blockExplorers: Block Explorers
 blockExplorersText: Überprüfe den Status von Transaktionen mit diesen praktischen Internetseiten.
 mainnet: Mainnet
 testnets: Testnetze
-networkApis: Netzwerk-APIs
+networkApis: Netzwerk-APIs + Netzwerkinfo
 networkApisText: Verwende JSONRPC, um mit ETC zu kommunizieren.
 publicApis: Öffentliche APIs
 privateDeployments: Private Bereitstellungen
