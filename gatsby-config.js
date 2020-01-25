@@ -13,6 +13,7 @@ module.exports = {
     'gatsby-plugin-sass',
     'gatsby-plugin-sitemap',
     'gatsby-plugin-remove-generator',
+    'gatsby-plugin-netlify',
     {
       resolve: 'gatsby-plugin-netlify-cache',
       options: {
