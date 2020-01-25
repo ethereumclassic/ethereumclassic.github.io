@@ -14,7 +14,7 @@ Feel free to create a new issue if you would like to suggest content changes.
 
 ## Deployment
 
-Updates to the `source` branch are automatically built and deployed to to https://ethereumclassic.org/ (via netlify). The `source` branch is protected; pull requests must be made against it and approved by 3 contributors.
+Updates to the `master` branch are automatically built and deployed to to https://ethereumclassic.org/ (via netlify). The `master` branch is protected; pull requests must be made against it and approved by 3 contributors.
 
 All other branches will be automatically built and deployed via netlify, for example the `develop` branch: https://develop--ethereumclassic.netlify.com/
 
