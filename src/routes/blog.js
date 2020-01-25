@@ -17,6 +17,9 @@ const Blog = ({ data: { allMdx }, pageContext: { i18n, globals } }) => {
         to="https://github.com/ethereumclassic/ethereumclassic.github.io"
         icon="angle-right"
       />
+      <LocaleVisibility show={['en']}>
+        <ButtonLink text={globals.rssFeed} to="https://ethereumclassic.org/rss.xml" icon="rss" />
+      </LocaleVisibility>
       <hr />
       <LocaleVisibility hide={['en']}>
         <ButtonLink

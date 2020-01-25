@@ -11,7 +11,7 @@ import LocaleContext from '../i18n/localeContext';
 
 const LocaleVisibility = ({ children, show, hide }) => {
   const { locale } = React.useContext(LocaleContext);
-  if (show && show.indexOf(locale) >= -1) {
+  if (show && show.indexOf(locale) > -1) {
     return children;
   }
   if (hide && hide.indexOf(locale) === -1) {

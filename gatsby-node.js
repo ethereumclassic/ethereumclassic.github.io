@@ -134,6 +134,11 @@ exports.onCreateNode = async ({ node, loadNodeContent, actions: { createNodeFiel
     const { slug, lang, parent, name, isGlobal } = parsePath(
       node.absolutePath || node.fileAbsolutePath
     );
+    // ignore locales that are not enabled
+    if (!locales[lang].enabled) {
+      return;
+    }
+
     // add the following tags to allow easy querying later on...
     createNodeField({
       node,
@@ -172,6 +177,11 @@ exports.onCreateNode = async ({ node, loadNodeContent, actions: { createNodeFiel
         node,
         name: 'parent',
         value: parent
+      });
+      createNodeField({
+        node,
+        name: 'localSlug',
+        value: localizePath(lang, `${parent}/${slug}`)
       });
     }
     if (node.internal.mediaType === 'text/yaml') {
@@ -325,10 +335,6 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
   // generate the sub-pages (such as blog)
   children.edges.forEach(({ node: post }) => {
     const { locale, parent } = post.fields;
-    // only create pages for enabled locales
-    if (!locales[locale].enabled) {
-      return;
-    }
     // TODO dry out?
     const slug = post.fileAbsolutePath.split('/').slice(-2, -1)[0];
     const myPath = localizePath(locale, `${parent}/${slug}`);
