@@ -22,7 +22,7 @@ Erstens sind Deine ETC/ETH-Adressen vollständig austauschbar, wenn Du die Adres
 
 Was Du tun willst, ist Folgendes:
 
-- Gehe auf [https://www.mycrypto.com/[https://www.mycrypto.com/)
+- Gehe auf [https://www.mycrypto.com/](https://www.mycrypto.com/)
 - Wenn Du versuchst, Deine ETC zu erhalten, wähle oben rechts ETC aus. wenn ETH, so wähle ETH
 - Klicke nun auf "Send Ether & Tokens"
 - Jetzt greifst Du auf Deine digitale Brieftasche zu, wie Du es normalerweise tust:
