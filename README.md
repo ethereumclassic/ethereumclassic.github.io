@@ -16,7 +16,9 @@ Feel free to create a new issue if you would like to suggest content changes.
 
 Updates to the `master` branch are automatically built and deployed to to https://ethereumclassic.org/ (via netlify). The `master` branch is protected; pull requests must be made against it and approved by 3 contributors.
 
-All other branches will be automatically built and deployed via netlify, for example the `develop` branch: https://develop--ethereumclassic.netlify.com/
+All other branches will be automatically built and deployed via netlify.
+
+For example the `develop` branch can be previewed at https://develop--ethereumclassic.netlify.com/
 
 ## Development
 
@@ -27,3 +29,7 @@ To run the development mode, clone this repo, run `npm install` followed by `npm
 See `package.json` for scripts scripts.
 
 Issues and pull requests are welcome. You can also get an overview of issues on the [project kanban](https://github.com/ethereumclassic/ethereumclassic.github.io/projects/1).
+
+## Old Version
+
+An archived version of the old website can be found at https://github.com/ethereumclassic/ethereumclassic.github.io-v1
