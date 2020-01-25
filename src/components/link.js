@@ -26,9 +26,11 @@ const Link = ({ to, text, children, icon, fullIcon, ...props }) => {
     );
   }
   if (!isInternal(to) || to.indexOf('/static/') === 0 || to.endsWith('.pdf')) {
+    const showIcon = !['card', 'button-link'].find(s => `${props.className}`.indexOf(s) > -1);
     return (
       <a {...props} href={to} target="_blank" rel="noopener noreferrer">
         {content}
+        {showIcon && <i className="fas fa-external-link-alt fa-xs external-icon" />}
       </a>
     );
   }
