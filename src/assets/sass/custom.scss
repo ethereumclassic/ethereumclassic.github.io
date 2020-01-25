@@ -775,9 +775,13 @@ a.card {
     padding: $tinyPadding;
     display: block;
     border-bottom: none;
-    p { margin: 0; }
+
+    p {
+      margin: 0;
+    }
+
     &:hover {
-      background: rgba(0,0,0,0.05);
+      background: rgba(0, 0, 0, 0.05);
     }
   }
 }
@@ -1085,9 +1089,12 @@ body.hanzi {
 
   img {
     max-width: 3rem;
-    margin: $smallPadding;
+    margin: $tinyPadding;
   }
 
+  h2 {
+    margin: $tinyPadding;
+  }
 }
 
 .link-group {
