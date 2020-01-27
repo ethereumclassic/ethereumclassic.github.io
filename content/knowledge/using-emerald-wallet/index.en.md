@@ -28,7 +28,7 @@ Here you have two options, “Remote Node” and “Full Node”:
 
 **Full Node**: If you want to sync a “Full Node” for maximum security, and to benefit the ETC network, then you can click “Full Node” and will need to wait a bit for the network to sync.
 
-- While syncing if you receive ETC the balance will not appear until your node is fully synced. Don’t worry, the funds aren’t missing, your node just needs to catch up with the rest of the network.
+- While syncing, if you receive ETC, the balance will not appear until your node is fully synced. Don’t worry, the funds aren’t missing, your node just needs to catch up with the rest of the network.
 - If you encounter issues here you’ll want to make sure that your system clock is properly synced:
   - Windows: Control Panel > Date & Time > Internet Time > Change settings > Update Now
   - Linux/Mac: `sudo ntpdate -vu pool.ntp.org`. In some cases you may need to install the ntpdate program with your package manager.
