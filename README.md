@@ -8,7 +8,7 @@ If you'd like to contribute content or translations, please contact the [discord
 
 Overall structure and content is currently being finalized in this repo's [wiki](https://github.com/ethereumclassic/ethereumclassic.github.io/wiki).
 
-For simple content updates such as editing a blog article, checkout a new branch from `source`, add your content, and create a PR back into source.
+For simple content updates such as editing a blog article, checkout a new branch from `master`, add your content, and create a PR back into `master`.
 
 Feel free to create a new issue if you would like to suggest content changes.
 
