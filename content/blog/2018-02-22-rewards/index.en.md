@@ -4,14 +4,14 @@ date: 2018-02-22
 author: Christian Seberino
 ---
 
-![](./1*vFht2pfMD7lijWCGDpNEJA.png)
+![](./1vFht2pfMD7lijWCGDpNEJA.png)
 
 Ethereum Classic (ETC) mining rewards changed with the new monetary policy. I
 will discuss these changes and their effects.
 
 ### New Formula
 
-![](./1*94Fy4Fxt6Vtn24QMT78WrQ.jpeg)
+![](./194Fy4Fxt6Vtn24QMT78WrQ.jpeg)
 
 ETC miners are rewarded for adding valid blocks to the ETC blockchain. These
 rewards consists of three parts:
@@ -62,7 +62,7 @@ Therefore, the total reward for creating a block is the following:
 
 ### Example Calculations
 
-![](./1*CBy2Wk7IbkpmUgDkOwAceg.jpeg)
+![](./1CBy2Wk7IbkpmUgDkOwAceg.jpeg)
 
 Here is a Python script that uses this mining reward formula to calculate mining
 rewards:
@@ -107,7 +107,7 @@ Here are some example calculations on real ETC blockchain data:
 
 ### Total Supply
 
-![](./1*CI_LeLWUYbgI4AuYp3mj6A.png)
+![](./1CI_LeLWUYbgI4AuYp3mj6A.png)
 
 The new monetary policy bounds the supply of ETC. Notice only the base and uncle
 rewards increase the supply since the gas rewards just transfer existing funds.
@@ -130,7 +130,7 @@ million ETC.
 
 ### Conclusion
 
-![](./1*8EYoI0_aQoGf6OCPsLK_GQ.jpeg)
+![](./18EYoI0_aQoGf6OCPsLK_GQ.jpeg)
 
 The new monetary policy modifies mining rewards and limits the total supply of
 ETC. Hopefully all the details are now more clear.
@@ -139,11 +139,11 @@ ETC. Hopefully all the details are now more clear.
 
 You can contact me by clicking any of these icons:
 
-![](./0*eoFC6QOWZ--bCngK.png)
+![](./0eoFC6QOWZ--bCngK.png)
 
-![](./0*i3CwTFEKUnKYHMf0.png)
+![](./0i3CwTFEKUnKYHMf0.png)
 
-![](./0*HQj6HSHxE7pkIBjk.png)
+![](./0HQj6HSHxE7pkIBjk.png)
 
 ### Acknowledgements
 
@@ -151,7 +151,7 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 ### License
 
-![](./0*hocpUZXBcjzNJeQ2.png)
+![](./0hocpUZXBcjzNJeQ2.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0
 International License.

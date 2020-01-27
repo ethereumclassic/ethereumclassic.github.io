@@ -4,7 +4,7 @@ date: 2018-04-11
 author: Christian Seberino
 ---
 
-![](./1*TCmOW4bfexB2Ns21MBDDCw.jpeg)
+![](./1TCmOW4bfexB2Ns21MBDDCw.jpeg)
 
 The Ethereum Classic (ETC) blockchain does *not* contain all the necessary state
 information for the ETC system to operate. It does not even *implicitly* contain
@@ -12,7 +12,7 @@ all that is needed! I will elaborate and discuss how this is handled.
 
 ## State
 
-![](./1*ZHk1y55a8LIXrBXyPQh6sw.jpeg)
+![](./1ZHk1y55a8LIXrBXyPQh6sw.jpeg)
 
 The state of the ETC system includes all the balances, programs, nonces and
 other values in memory. This data is organized into *accounts*. Therefore, the
@@ -31,7 +31,7 @@ these initially funded accounts? The answer involves the ETC node databases.
 
 ## Database
 
-![](./1*doVsSfjjDVsy5Sy9M7m2Xg.jpeg)
+![](./1doVsSfjjDVsy5Sy9M7m2Xg.jpeg)
 
 ETC nodes typically contain databases that store the blockchain as well as
 additional information. For example, Linux Parity ETC node databases typically
@@ -49,7 +49,7 @@ using the Web 3 library.
 
 ## Solution
 
-![](./1*gGGUr4Xhyzo6Amcmzqc4ww.jpeg)
+![](./1gGGUr4Xhyzo6Amcmzqc4ww.jpeg)
 
 All ETC nodes must contain a complete specification of the initial state for the
 first block. This is required *in addition* to the blockchain. For example, on
@@ -60,7 +60,7 @@ following command:
 
 ## Conclusion
 
-![](./1*mfEpuxoLMi8OZwFXK7kYQw.png)
+![](./1mfEpuxoLMi8OZwFXK7kYQw.png)
 
 ETC nodes require a complete specification of the initial state for the first
 block as well as the blockchain. ETC nodes typically store this information in
@@ -71,11 +71,11 @@ operate.
 
 You can contact me by clicking any of these icons:
 
-![](./0*eoFC6QOWZ--bCngK.png)
+![](./0eoFC6QOWZ--bCngK.png)
 
-![](./0*i3CwTFEKUnKYHMf0.png)
+![](./0i3CwTFEKUnKYHMf0.png)
 
-![](./0*HQj6HSHxE7pkIBjk.png)
+![](./0HQj6HSHxE7pkIBjk.png)
 
 ## Acknowledgements
 
@@ -83,6 +83,6 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 ## License
 
-![](./0*hocpUZXBcjzNJeQ2.png)
+![](./0hocpUZXBcjzNJeQ2.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0 International License.

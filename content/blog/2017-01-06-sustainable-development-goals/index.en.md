@@ -32,7 +32,7 @@ In other words there's increased interest and funding available to initiatives a
 Tomorrow, operating through the UN Innovation Centre, the [Blockchain Alliance for Good](http://www.bisgit.org/) launches its Fintech development lab to deliver the United Nations **S**ustainable, **D**evelopment **G**oals.
 In a nutshell, the effort brings social innovation through the power of the blockchain to truly engage and empower communities to achieve structural and sustainable change.
 
-![SDG infographic](./1*t2YXqyCJwrWiA4vN59raog.jpeg)
+![SDG infographic](./1t2YXqyCJwrWiA4vN59raog.jpeg)
 
 
 > This is a very exciting collaboration of leading global institutions to accelerate the achievement of the Sustainable Development Goals
