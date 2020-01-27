@@ -1,41 +1,74 @@
 - key: coingame
   title: Coingame
   text: Eine Sportwettenplattform, die auf ETC gestartet ist.
+  to: https://www.coingame.com/
+  className: green
 - key: dappdirect
   title: DappDirect
   text: Viele Verträge, die auf ETC laufen, und Statistiken darüber findest Du auf
     dieser von den Teilnehmern betriebener Internetseite, einschließlich
     dezentraler Börsen, Glücksspiele / Versicherungenverträge.
+  to: https://dappdirect.net/
+  className: green
+- key: emarald
+  title: Emerald-Platform
+  text: Das Toolkit zum Erstellen von Anwendungen, die auf Ethereum ETC ausgeführt
+    werden, enthält UI-Komponenten, Bibliotheken für Javascript und Rust,
+    Symbole, Build-Werkzeuge usw.. Zielend auf verschiedene Plattformen wie
+    Desktop, Mobile, Web und sogar Shell-Scripting.
+  to: https://github.com/ETCDEVTeam/emerald-platform
+  className: orange
 - key: metronome
   title: Metronom
   text: Eine blockchainübergreifende Kryptowährung, die als Brücke zwischen ETC- und
     ETH-Blockchains eingesetzt wird.
+  to: https://metronome.io/
+  className: orange
 - key: originalmy
   title: OriginalMy
   text: OriginalMy bietet eine vollautomatische Plattform zur Registrierung und
     Überprüfung der Echtheit digitaler Dokumente, Verträge und Identitäten. Sie
     expandieren nun zu Aktionären, die über die Blockchain abstimmen.
+  to: https://originalmy.com/
+  className: green
 - key: peacebridge
   title: peaceBridge
   text: Eine Reihe von kettenübergreifenden Brücken, die den Wertetransfer und den
     Informationsaustausch zwischen ETC- und ETH-Blockchains ermöglichen.
+  to: https://medium.com/akomba/peace-bridge-connecting-ethereum-classic-and-ethereum-e306df01159f
+  className: orange
 - key: portalNetwork
   title: BNS von Portal Network
-  text: Portal Network hat den Blockchain Name Service-Standard erstellt, der
+  text: Portal Network hat den Blockchain-Name-Service-Standard geschaffen, der
     kryptische Blockchain-Adressen (z. B. 0xfa91d23…) in einfach lesbare
     Adressen (z. B. myname.etc) umwandelt.
+  to: https://www.portal.network/
+  className: green
 - key: saturnNetwork
   title: Saturn-Netzwerk
   text: Ein dezentraler Austausch zwischen ETC und ETH.
+  to: https://www.saturn.network/
+  className: green
+- key: Sidechains
+  title: Nebenketten (Sidechains)
+  text: Sidechains werden zu einem nativen Bestandteil der ETC-Infrastruktur und
+    -Protokolle. Dies wird die Skalierbarkeit von ETC verbessern und die
+    Blockchain zum ersten Mal für eine Vielzahl von Hand- und IoT-Geräten
+    verfügbar machen.
+  to: https://github.com/ETCDEVTeam/sidekick-doc
+  className: red
+- key: sputnik
+  title: SputnikVM
+  text: SputnikVM ist eine hocheffiziente und steckbare Implementierung der Ethereum
+    Virtual Machine. Es handelt sich um ein eigenständiges EVM, das unabhängig
+    von einer Blockchain betrieben und auf Geräten mit geringem Stromverbrauch
+    ausgeführt werden kann; mit Plänen, auf Geräten mit extrem geringem
+    Stromverbrauch zu laufen.
+  to: https://github.com/ETCDEVTeam/sputnikvm
+  className: green
 - key: stampery
   title: Stampery
   text: Stampery zertifiziert Daten in der Blockchain und liefert einen Nachweis für
     Existenz, Integrität, Eigentum und Erhalt.
-- key: Sidechains
-  title: Nebenketten (Sidechains)
-  text: Sidechains werden zu einem nativen Bestandteil der ETC-Infrastruktur und -Protokolle. Dies wird die Skalierbarkeit von ETC verbessern und die Blockchain zum ersten Mal für eine Vielzahl von Hand- und IoT-Geräten verfügbar machen.
-- key: sputnik
-  text: SputnikVM ist eine hocheffiziente und steckbare Implementierung der Ethereum Virtual Machine. Es handelt sich um ein eigenständiges EVM, das unabhängig von einer Blockchain betrieben und auf Geräten mit geringem Stromverbrauch ausgeführt werden kann; mit Plänen, auf Geräten mit extrem geringem Stromverbrauch zu laufen.
-- key: emarald
-  text: Das Toolkit zum Erstellen von Anwendungen, die auf Ethereum ETC ausgeführt werden, enthält UI-Komponenten, Bibliotheken für Javascript und Rust, Symbole, Build-Werkzeuge usw.. Zielend auf verschiedene Plattformen wie Desktop, Mobile, Web und sogar Shell Scripting.
-
+  to: https://stampery.com/
+  className: green

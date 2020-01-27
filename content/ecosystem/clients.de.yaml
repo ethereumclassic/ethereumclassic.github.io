@@ -1,0 +1,20 @@
+- key: multigeth
+  title: Multi-Geth
+  text: Eine "Schweizer Taschenmesser"-Verteilung von go-ethereum mit Unterstützung
+    für viele Arten von Ethereum-Netzwerken.
+  link: https://github.com/multi-geth/multi-geth
+- key: besu
+  title: Hyperledger Besu
+  text: Hyperledger Besu ist ein Ethereum-Client, der sowohl für öffentlich als auch
+    für privat genehmigte Netzwerkanwendungen unternehmensfreundlich konzipiert
+    wurde.
+  link: https://www.hyperledger.org/projects/besu
+- key: parity
+  title: Parity
+  text: Parity entwickelt modernste Blockchain-Technologien, um Innovationen
+    voranzutreiben.
+  link: https://www.parity.io/ethereum/
+- key: gethclassic
+  title: Geth-Classic
+  text: Implementierung des Ethereum Classic-Protokolles in Go-Sprache.
+  link: https://github.com/etclabscore/go-ethereum/releases
