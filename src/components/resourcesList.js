@@ -229,6 +229,7 @@ const resources = ({ i18n }) => {
               text: 'Emerald',
               link: 'https://github.com/ETCDEVTeam/emerald-wallet/releases'
             },
+            { text: 'ZelCore', link: 'https://zel.network/project/zelcore/' },
             { text: 'Exodus', link: 'https://www.exodus.io/' },
             { text: 'Guarda', link: 'https://guarda.co/' },
             {
@@ -245,6 +246,7 @@ const resources = ({ i18n }) => {
               text: 'Coinbase Wallet',
               link: 'https://wallet.coinbase.com/'
             },
+            { text: 'ZelCore', link: 'https://zel.network/project/zelcore/' },
             { text: 'JAXX', link: 'https://jaxx.io/' },
             { text: 'Coinomi', link: 'https://coinomi.com/' },
             { text: 'Trust Wallet', link: 'https://trustwalletapp.com/' },
