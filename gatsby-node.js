@@ -135,7 +135,7 @@ exports.onCreateNode = async ({ node, loadNodeContent, actions: { createNodeFiel
       node.absolutePath || node.fileAbsolutePath
     );
     // ignore locales that are not enabled
-    if (!locales[lang].enabled) {
+    if (!locales[lang] || !locales[lang].enabled) {
       return;
     }
 

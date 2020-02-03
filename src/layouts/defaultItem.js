@@ -9,7 +9,7 @@ import BackButton from '~components/backButton';
 
 const DefaultItem = ({
   pageContext: {
-    i18n: { globals, menu }
+    i18n: { globals = {}, menu }
   },
   data: { mdx }
 }) => {
