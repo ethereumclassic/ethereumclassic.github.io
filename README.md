@@ -4,6 +4,8 @@ https://ethereumclassic.org/
 
 ## Restructure Branch: TODOs
 
+https://restructure--ethereumclassic.netlify.com/
+
 - Implement new site structure
 - Copy content
 - Update locales
