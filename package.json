@@ -7,6 +7,7 @@
   "scripts": {
     "build": "GATSBY_TELEMETRY_DISABLED=1 gatsby build",
     "develop": "SHOW_ALL_LOCALES=1 GATSBY_TELEMETRY_DISABLED=1 gatsby develop",
+    "develop-fast": "NO_BLOG=1 npm run develop",
     "develop-lan": "SHOW_ALL_LOCALES=1 GATSBY_TELEMETRY_DISABLED=1 gatsby develop --host=0.0.0.0",
     "serve-build": "npm run build && npm run serve",
     "serve": "GATSBY_TELEMETRY_DISABLED=1 gatsby serve",

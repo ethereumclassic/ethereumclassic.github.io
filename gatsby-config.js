@@ -1,3 +1,5 @@
+const fs = require('fs');
+
 const siteUrl = 'https://ethereumclassic.org';
 const image = '/etc-social-card.png';
 
@@ -48,7 +50,14 @@ module.exports = {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/content`,
-        name: 'content'
+        name: 'content',
+        ignore: !process.env.NO_BLOG
+          ? []
+          : fs
+              .readdirSync('./content/blog')
+              .filter(dir => dir.indexOf('.') === -1)
+              .map(dir => `**/blog/${dir}/**`)
+              .slice(1)
       }
     },
     {
