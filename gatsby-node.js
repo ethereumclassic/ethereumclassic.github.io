@@ -206,6 +206,14 @@ exports.onCreateNode = async ({ node, loadNodeContent, actions: { createNodeFiel
   }
 };
 
+function getChildLocales(locale, parent, tree) {
+  const parentLocales = tree[parent] || {};
+  const myLocale = parentLocales[locale] || {};
+  const defaultLocales = parentLocales[defaultLocale] || {};
+  const { menu, globals } = mergeTranslations(defaultLocales.yaml, myLocale.yaml);
+  return { menu, globals };
+}
+
 function getGlobals(locale, tree) {
   const myLocale = tree.content[locale] || { yaml: { globals: {} } };
   return {
@@ -346,6 +354,7 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
       component,
       context: {
         locale,
+        i18n: getChildLocales(locale, parent, translationsTree),
         globals: getGlobals(locale, translationsTree),
         parent,
         title: post.frontmatter.title
