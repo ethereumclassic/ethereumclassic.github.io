@@ -1,0 +1,15 @@
+- key: get-started
+  text: get-started
+  link: /development/get-started
+- key: developer-tools
+  text: developer-tools
+  link: /development/developer-tools
+- key: network-resources
+  text: network-resources
+  link: /development/network-resources
+- key: mining-resources
+  text: mining-resources
+  link: /development/mining-resources
+- key: teams
+  text: teams
+  link: /development/teams

@@ -24,13 +24,12 @@ const DefaultItem = ({
         description: mdx.frontmatter.description
       }}
     >
-      {JSON.stringify({ globals, menu })}
       {backLink}
-      {menu && <SubMenu items={menu} />}
       {(menu || backLinkTo) && <Spacer />}
       <h1>{mdx.frontmatter.title}</h1>
       <Mdx code={mdx.body} />
       {backLinkTo && <hr />}
+      {menu && <SubMenu items={menu} />}
       {backLink}
     </PageLayout>
   );

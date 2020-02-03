@@ -21,11 +21,10 @@ bodyClass: default
 #
 navHome: Home
 navKnowledge: Knowledge
-navTeams: Teams
 navEcosystem: Ecosystem
-navRoadmap: Roadmap
-navBlog: Blog
-knowledgeBase: Knowledge Base
+navDevelopment: Development
+navNews: News
+navPress: Press
 #  ## 404 Page
 # Page displayed when link is broken or missing
 #
@@ -36,7 +35,8 @@ goBack: Go Back
 # Red pop up, used for hard fork warnings and such
 #
 warningTitle: Hard Fork Alert
-warningText: Ethereum Classic is undergoing a planned upgrade "Agharta" on block 9.573M,
+warningText:
+  Ethereum Classic is undergoing a planned upgrade "Agharta" on block 9.573M,
   around 12 Jan 2020. If you run an ETC node please upgrade as soon as possible.
 warningButton: Upgrade
 #  ## Latest Blog Posts
