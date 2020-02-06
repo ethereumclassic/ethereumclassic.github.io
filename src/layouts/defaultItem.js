@@ -2,36 +2,20 @@ import React from 'react';
 import { graphql } from 'gatsby';
 import Mdx from '~components/mdx';
 
-import PageLayout from '~components/pageLayout';
-import SubMenu from '~components/subMenu';
-import Spacer from '~components/spacer';
-import BackButton from '~components/backButton';
+import SubPageLayout from '~components/subPageLayout';
 
-const DefaultItem = ({
-  pageContext: {
-    i18n: { globals = {}, menu }
-  },
-  data: { mdx }
-}) => {
-  const { backLinkTo, sectionTitle, backLinkText } = globals;
-  const layoutLink = backLinkTo && { to: globals.backLinkTo, text: sectionTitle };
-  const backLink = backLinkTo && <BackButton text={backLinkText || sectionTitle} to={backLinkTo} />;
+const DefaultItem = ({ pageContext: { i18n }, data: { mdx } }) => {
   return (
-    <PageLayout
-      link={layoutLink}
-      seo={{
+    <SubPageLayout
+      i18n={{
+        ...i18n,
         title: mdx.frontmatter.title,
         description: mdx.frontmatter.description
       }}
     >
-      {backLink}
-      {(menu || backLinkTo) && <Spacer />}
       <h1>{mdx.frontmatter.title}</h1>
       <Mdx code={mdx.body} />
-      {backLinkTo && <hr />}
-      {menu && <SubMenu items={menu} />}
-      {backLink}
-    </PageLayout>
+    </SubPageLayout>
   );
 };
 export default DefaultItem;
