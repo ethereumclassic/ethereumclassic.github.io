@@ -1,5 +1,5 @@
 ---
-title: TITLE HERE DE
+title: TITLE HERE
 description: DESCRIPTION HERE
 ---
 

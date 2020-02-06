@@ -1,8 +1,3 @@
----
-title: Teams
----
-
-```
 title: Teams
 description: Major organizations contributing to Ethereum Classic
 intro: |
@@ -36,5 +31,3 @@ chainsafeText: |
 iohk: IOHK (Grothendieck)
 iohkText: |
   > Named after a leading figure in the creation of modern algebraic geometry, the IOHK Grothendieck Team is a motivated group of math and science-driven engineers and developers. At the forefront of team’s development is Mantis, a node client built from scratch using Scala, a functional programming language. Mantis easily connects to the IOHK Daedalus Wallet UI, allowing users to easily manage their ETC. The team’s focus is to securely and methodically establish a strong ETC ecosystem, with a solid foundation and immutability at its core.
-
-```
