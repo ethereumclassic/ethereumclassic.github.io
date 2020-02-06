@@ -11,10 +11,14 @@ https://restructure--ethereumclassic.netlify.com/
 - Update locales
 - Redirect blog -> news
 - Redirect summit -> press/summit
+- Update timeline
+- Update ecosystem / dapps
 
-## Restructure vLater
+## Code Todos
 
-- Allow js children
+- Combine Blog and Media somehow
+- Make editing config.js reactive (language config in graphql)
+- Ability to import images from yaml files
 
 ### New Structure
 
@@ -26,10 +30,10 @@ https://restructure--ethereumclassic.netlify.com/
   - TODO **JS** Historic Timeline & Roadmap
   - **MD** User Guides & Resources
   - **MD** Community Channels
-- Ecosystem **JS**
-  - Dapps & Protocols
-  - Exchanges
-  - Wallets
+- Ecosystem
+  - **JS** Dapps & Protocols
+  - **MD** Exchanges
+  - **MD** Wallets
 - Development
   - **MD** Get Started
   - **MD** Developer Tools
@@ -41,7 +45,7 @@ https://restructure--ethereumclassic.netlify.com/
   - Media
 - Press
   - **MD** ETC Explainers
-  - **MD** ETC Summit
+  - **MD** Conferences
   - **MD** Development Press
   - **MD** Press Kit
 
