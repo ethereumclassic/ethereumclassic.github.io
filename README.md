@@ -6,19 +6,14 @@ https://ethereumclassic.org/
 
 https://restructure--ethereumclassic.netlify.com/
 
-- Implement new site structure
+## TODOs
+
 - Copy content
-- Update locales
 - Redirect blog -> news
 - Redirect summit -> press/summit
 - Update timeline
 - Update ecosystem / dapps
-
-## Code Todos
-
-- Combine Blog and Media somehow
-- Make editing config.js reactive (language config in graphql)
-- Ability to import images from yaml files
+- Update locales
 
 ### New Structure
 
@@ -27,7 +22,7 @@ https://restructure--ethereumclassic.netlify.com/
   - **MD** What is Ethereum Classic?
   - **MD** What is Ether (ETC)?
   - **MD** Learn about Ethereum Classic
-  - TODO **JS** Historic Timeline & Roadmap
+  - **JS** Historic Timeline & Roadmap
   - **MD** User Guides & Resources
   - **MD** Community Channels
 - Ecosystem
@@ -40,9 +35,10 @@ https://restructure--ethereumclassic.netlify.com/
   - **MD** Mining Resources
   - **MD** Network Resources
   - **MD** Development Teams
-- News **JS**
-  - Blog
-  - Media
+- News
+  - **JS** All News
+  - **JS** Blog Articles
+  - **JS** Media Links
 - Press
   - **MD** ETC Explainers
   - **MD** Conferences
