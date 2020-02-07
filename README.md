@@ -1,12 +1,10 @@
 # Ethereum Classic Website
 
-https://ethereumclassic.org/
+- [Main site](https://ethereumclassic.org/)
+- [Build logs](https://app.netlify.com/sites/ethereumclassic/deploys)
+- [Current restructure preview](https://restructure--ethereumclassic.netlify.com/)
 
 ## Restructure Branch: TODOs
-
-https://restructure--ethereumclassic.netlify.com/
-
-## TODOs
 
 - Copy content
 - Redirect blog -> news
