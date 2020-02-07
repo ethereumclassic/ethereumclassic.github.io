@@ -16,7 +16,7 @@ const Navigation = () => {
               <NavigationButton to="/knowledge" text={t.navKnowledge} />
               <NavigationButton to="/ecosystem" text={t.navEcosystem} />
               <NavigationButton to="/development" text={t.navDevelopment} />
-              <NavigationButton to="/blog" text={t.navNews} />
+              <NavigationButton to="/news" text={t.navNews} />
               <NavigationButton to="/press" text={t.navPress} />
             </Hamburger>
           )}

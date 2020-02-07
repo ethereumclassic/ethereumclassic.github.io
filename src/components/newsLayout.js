@@ -8,9 +8,9 @@ import SubMenu from '~components/subMenu';
 
 // TODO convert to i18n and use currentpage
 const menu = [
-  { key: 'news', to: '/news', text: 'all' },
-  { key: 'blog', to: '/blog', text: 'blog' },
-  { key: 'media', to: '/news/media', text: 'media' }
+  { key: 'news', to: '/news', text: 'All News' },
+  { key: 'blog', to: '/blog', text: 'Blog Articles' },
+  { key: 'media', to: '/news/media', text: 'Meida Links' }
 ];
 
 const NewsLayout = ({ i18n, globals, rssLink, currentPage, children, hasItems }) => {
