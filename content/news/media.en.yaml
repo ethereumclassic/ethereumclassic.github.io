@@ -1,0 +1,14 @@
+-
+  key: thing
+  date: 2015/10/20
+  title: This is a test
+  text: This is a description here
+  source: DogeCon
+  link: http://dogecon.lol
+-
+  key: thing2
+  date: 2020/10/21
+  title: This is a test
+  text: This is a description here
+  source: Some website
+  link: http://dogecon.lol

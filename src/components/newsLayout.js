@@ -1,0 +1,41 @@
+import React from 'react';
+
+import html from '../i18n/html';
+import ButtonLink from '~components/buttonLink';
+import LocaleVisibility from '~components/localeVisibility';
+import PageLayout from '~components/pageLayout';
+import SubMenu from '~components/subMenu';
+
+// TODO convert to i18n and use currentpage
+const menu = [
+  { key: 'news', to: '/news', text: 'all' },
+  { key: 'blog', to: '/blog', text: 'blog' },
+  { key: 'media', to: '/news/media', text: 'media' }
+];
+
+const NewsLayout = ({ i18n, globals, rssLink, currentPage, children, hasItems }) => {
+  return (
+    <PageLayout seo={i18n}>
+      <SubMenu items={menu} selected={currentPage} />
+      {html(i18n.intro)}
+      <ButtonLink
+        text={i18n.submit}
+        to="https://github.com/ethereumclassic/ethereumclassic.github.io"
+        icon="angle-right"
+      />
+      {rssLink && (
+        <LocaleVisibility show={['en']}>
+          <ButtonLink text={globals.rssFeed} to={rssLink} icon="rss" />
+        </LocaleVisibility>
+      )}
+      <hr />
+      <LocaleVisibility hide={['en']}>
+        <ButtonLink notLocalized to="/blog" text={i18n.englishItems} style={{ float: 'right' }} />
+      </LocaleVisibility>
+      <h2>{hasItems ? i18n.latestItems : globals.noPosts}</h2>
+      {children}
+    </PageLayout>
+  );
+};
+
+export default NewsLayout;
