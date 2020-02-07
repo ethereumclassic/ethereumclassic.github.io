@@ -19,7 +19,7 @@ const Banner = ({ image, i18n }) => {
         <div className="overlay dark">
           <h3>{i18n.overlayTitle}</h3>
           <p>{html(i18n.overlaySubtitle)}</p>
-          <ButtonLink to="/summit/2019" icon="angle-right" text={i18n.overlayButton} />
+          <ButtonLink to="/press/conferences" icon="angle-right" text={i18n.overlayButton} />
         </div>
         <span className="image fill" data-position="center">
           <Img
