@@ -76,3 +76,7 @@ reddit: Reddit
 twitter: Twitter
 #  Footer sign off text, right at the bottom. Make sure to include the `<3` heart!
 footerText: Made with `<3` for the original Ethereum vision
+#  ### Misc
+#
+contribute: "If you feel there is incorrect or missing content on this page, please reach out via the [Ethereum Classic Discord](https://discordapp.com/invite/HW4GckH) or create an issue on [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io)."
+license: The content on this page made available under the license

@@ -10,7 +10,7 @@ import SubMenu from '~components/subMenu';
 
 const Ecosystem = ({ pageContext: { i18n } }) => {
   return (
-    <PageLayout wide seo={i18n}>
+    <PageLayout wide i18n={i18n}>
       <section>
         <SubMenu i18n={i18n} />
         TODO: move this stuff to the individual pages

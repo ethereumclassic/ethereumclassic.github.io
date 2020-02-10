@@ -4,8 +4,10 @@ import BackButton from './backButton';
 import PageLayout from './pageLayout';
 import SubMenu from './subMenu';
 
-const SubPageLayout = ({ i18n, children, ...props }) => {
-  const { title, description, menu, globals = {} } = i18n;
+const SubPageLayout = ({ children, ...props }) => {
+  const {
+    i18n: { menu, globals = {} }
+  } = props;
   const { backLinkTo, sectionTitle, backLinkText } = globals;
   const { wide } = props;
   const layoutLink = backLinkTo && {
@@ -21,7 +23,7 @@ const SubPageLayout = ({ i18n, children, ...props }) => {
     </>
   );
   return (
-    <PageLayout link={layoutLink} seo={{ title, description }} {...props}>
+    <PageLayout {...props} link={layoutLink}>
       {wide ? <section>{backLink}</section> : backLink}
       {children}
       {wide ? <section>{footer}</section> : footer}

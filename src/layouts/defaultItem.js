@@ -9,8 +9,7 @@ const DefaultItem = ({ pageContext: { i18n }, data: { mdx } }) => {
     <SubPageLayout
       i18n={{
         ...i18n,
-        title: mdx.frontmatter.title,
-        description: mdx.frontmatter.description
+        ...mdx.frontmatter
       }}
     >
       <h1>{mdx.frontmatter.title}</h1>
@@ -30,6 +29,8 @@ export const query = graphql`
       frontmatter {
         title
         description
+        license
+        contribute
       }
     }
   }

@@ -12,7 +12,7 @@ const BlogItem = ({ data: { mdx } }) => (
     all={i18n => (
       <PageLayout
         link={{ to: '/blog', text: i18n.navBlog }}
-        seo={{
+        i18n={{
           title: mdx.frontmatter.title,
           description: mdx.frontmatter.description,
           image: mdx.frontmatter.linkImage && mdx.frontmatter.linkImage.childImageSharp.fixed.src,

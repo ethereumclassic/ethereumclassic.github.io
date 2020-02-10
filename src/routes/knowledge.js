@@ -7,7 +7,7 @@ import SubMenu from '~components/subMenu';
 
 const Education = ({ pageContext: { i18n } }) => {
   return (
-    <PageLayout seo={i18n}>
+    <PageLayout i18n={i18n}>
       <SubMenu items={i18n.yaml.menu} />
       {html(i18n.intro)}
       {html(i18n.philosophy)}

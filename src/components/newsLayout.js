@@ -15,7 +15,7 @@ const menu = [
 
 const NewsLayout = ({ i18n, globals, rssLink, currentPage, children, hasItems }) => {
   return (
-    <PageLayout seo={i18n}>
+    <PageLayout i18n={i18n}>
       <SubMenu items={menu} selected={currentPage} />
       {html(i18n.intro)}
       <ButtonLink
