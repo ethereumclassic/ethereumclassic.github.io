@@ -22,6 +22,11 @@ async function processYamlMarkdown(obj) {
   const transformed = {};
   await Promise.all(
     Object.keys(obj).map(async key => {
+      // only transform strings
+      if (typeof obj[key] !== 'string') {
+        transformed[key] = obj[key];
+        return;
+      }
       const { contents } = await remark()
         .use(markdown, { sanitize: true })
         .use(remark2rehype)
@@ -199,10 +204,11 @@ exports.onCreateNode = async ({ node, loadNodeContent, actions: { createNodeFiel
         name: 'ext',
         value: 'yaml'
       });
+      const parsedYaml = await processYamlMarkdown(jsYaml.load(await loadNodeContent(node)));
       createNodeField({
         node,
         name: 'body',
-        value: JSON.stringify(await processYamlMarkdown(jsYaml.load(await loadNodeContent(node))))
+        value: JSON.stringify(parsedYaml)
       });
     } else {
       // for md(x) files
