@@ -1,0 +1,95 @@
+- 
+  key: BUIDL IDE
+  name: BUIDL IDE
+  link: https://buidl.secondstate.io/etc
+  text: Second State BUIDL IDE is a web-based IDE that requires no software download or install. It provides a one-stop development and deployment environment for smart contract and dapp developers.
+- 
+  key: Dappkit
+  name: Dappkit
+  link: https://dappkit.io/
+  text: A ledger-agnostic, high-performance infrastructure and libraries for developers to build and scale decentralized applications. In short, collaborative Firebase for Dapps.
+- 
+  key: Embark Framework
+  name: Embark Framework
+  link: https://framework.embarklabs.io/
+  text: Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
+- 
+  key: Emerald Platform
+  name: Emerald Platform
+  link: https://github.com/ETCDEVTeam/emerald-platform
+  text: Platform for building Dapps for ETC blockchain.
+- 
+  key: ESerialize
+  name: ESerialize
+  link: https://eserialize.com/?input=string&output=hex
+  text: The goal of this module is to provide easy functions to serialize and deserialize data for the Ethereum Stack.
+- 
+  key: Ethereum JSON-RPC API
+  name: Ethereum JSON-RPC API
+  link: https://github.com/etclabscore/ethereum-json-rpc-specification
+  text: A specification of JSON-RPC methods that an EVM-based blockchain client must implement.
+- 
+  key: Eth Fiddle
+  name: Eth Fiddle
+  link: https://ethfiddle.com/
+  text: Online editor for smart contracts.
+- 
+  key: EVM-LLVM
+  name: EVM-LLVM
+  link: https://github.com/etclabscore/evm_llvm
+  text: Not only can developers use a large scope of programming languages (Rust for smart contracts!) other than Solidity to target the Ethereum Virtual Machine (EVM), they can also immediately benefit from various development tools built around LLVM infrastructure.
+- 
+  key: Ganache
+  name: Ganache
+  link: https://www.trufflesuite.com/ganache
+  text: Personal Ethereum blockchain to run tests.
+- 
+  key: Jade Suite
+  name: Jade Suite
+  link: https://jade.builders/
+  text: The Jade suite of tools empowers developers to create peer-to-peer decentralized applications on top of EVM-based blockchains like Ethereum Classic.
+- 
+  key: Mythx
+  name: Mythx
+  link: https://mythx.io/
+  text: MythX is the premier security analysis service for Ethereum smart contracts. Our mission is to ensure development teams avoid costly errors and make Ethereum a more secure and trustworthy platform.
+- 
+  key: Open-RPC
+  name: Open-RPC
+  link: https://open-rpc.org/
+  text: The OpenRPC Specification defines a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs.
+- 
+  key: OpenZeppelin
+  name: OpenZeppelin
+  link: https://openzeppelin.org/
+  text: Battle-tested framework of secure, reusable smart contracts.
+- 
+  key: Quorum
+  name: Quorum
+  link: https://www.goquorum.com/
+  text: Quorum is an open source blockchain platform that combines the innovation of the public Ethereum community with enhancements to support enterprise needs.
+- 
+  key: Remix Online IDE
+  name: Remix Online IDE
+  link: https://remix.ethereum.org/
+  text: A useful in-browser IDE that can compile and publish smart contracts to various Ethereum networks. Includes a linter.
+- 
+  key: Signatory
+  name: Signatory
+  link: https://signatory.dev/
+  text: An offline transaction and message signer for the Ethereum Stack.
+- 
+  key: SOLL
+  name: SOLL
+  link: https://github.com/second-state/soll
+  text: The LLVM compiler is finally coming to Solidity. With it, we can easily create smart contracts across multiple blockchain VMs. The EVM on Ethereum Classic and ETH 2.0's eWASM are among the first we support.
+- 
+  key: Sputnikvm
+  name: Sputnikvm
+  link: https://github.com/ETCDEVTeam/sputnikvm
+  text: SputnikVM is an open source standalone implementation of Ethereum Virtual Machine (EVM). It aims to be an efficient, pluggable virtual machine for different Ethereum-based blockchains.
+- 
+  key: Truffle Suite
+  name: Truffle Suite
+  link: https://www.trufflesuite.com/
+  text: A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.

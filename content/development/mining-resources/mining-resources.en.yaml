@@ -1,0 +1,16 @@
+title: Mining Resources
+contribute: true
+softwareTitle: |
+  ## Miner Software
+
+  *Mining Algorithm: Ethash*
+softwareFooter: "Optimization: [minerOS Miner Butler](http://www.mineros.cn/#/home)"
+top5Pools: |
+  ## Top 5 Mining Pools
+
+  Top 5 Mining Pools by Hashrate at the time of writing:
+detailedPools: |
+  ## Detailed Miner Pool List
+
+  All the pulbicly known ETC mining pools
+

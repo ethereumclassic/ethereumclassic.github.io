@@ -1,0 +1,48 @@
+-
+  key: Astor Explorer
+  name: Astor Explorer
+  etc: https://explore.astor.host/
+-
+  key: BlockScout
+  name: BlockScout
+  etc: https://blockscout.com/etc/mainnet/
+  astor: https://blockscout.com/etc/astor/
+  kotti: https://blockscout.com/etc/kotti/
+  mordor: https://blockscout.com/etc/mordor/
+-
+  key: Emerald Receipt
+  name: Emerald Receipt
+  etc: https://receipt.emeraldpay.io/)
+-
+  key: ETCBlockExplorer
+  name: ETCBlockExplorer
+  etc: https://etcblockexplorer.com/
+-
+  key: ETCPlanet
+  name: ETCPlanet
+  etc: https://etcplanet.org/
+-
+  key: EthereumMain.net
+  name: EthereumMain.net
+  etc: http://ethereummain.net/
+  astor: http://astor.ethereumtest.net 
+  mordor: http://mordor.ethereumtest.net
+  kotti: http://kotti.ethereumtest.net
+-
+  key: MinerGate
+  name: MinerGate
+  etc: https://minergate.com/blockchain/etc/blocks
+-
+  key: TheMinersPond
+  name: TheMinersPond
+  etc: https://theminerspond.com/ethereumclassic/explorer/home
+-
+  key: Tokenview
+  name: Tokenview
+  etc: https://etc.tokenview.com/)
+-
+  key: Expedition
+  name: Expedition
+  etc: https://expedition.dev/?network=mainnet
+  kotti: https://expedition.dev/?network=kotti)
+  mordor: https://expedition.dev/?network=mordor)

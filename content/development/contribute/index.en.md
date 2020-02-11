@@ -1,20 +1,20 @@
 ---
-title: ECIPs
+title: Contribute
 description: DESCRIPTION HERE
 license: CC-BY
 contribute: true
 ---
 
-[https://ecips.ethereumclassic.org/](https://ecips.ethereumclassic.org/)
+## [ECIPs](https://ecips.ethereumclassic.org/)
 
-## Summary
+### Summary
 
 This document is a summary of the Ethereum Classic Improvement Proposal (ECIP) process. To view the full description of the ECIP process please read ECIP-1000 which is the formal document generally acknowledged by the Ethereum Classic (ETC) ecosystem, by rough consensus, as the most suitable system to propose new standard changes to the ETC protocol, informational documents, or ECIP process suggestions.
-## Getting Started
+### Getting Started
 
 After reading ECIP-1000, fork the repository and add your ECIP to it, using the provided ECIP markdown template. Submit by creating a Pull Request to the Ethereum Classic ECIPs repository.
 
-## Types of Participants
+### Types of Participants
 
 As you will see by reading this summary and the other documents suggested above, there are several parties that participate in the life cycle of an ECIP:
 
@@ -25,7 +25,7 @@ As you will see by reading this summary and the other documents suggested above,
 * **Users:** Users or end users may be regular consumers, businesses, governments, non-economic node operators, investors, or other kinds of users who see when the implementors upgraded their systems and adopt the new rules for sending transactions and managing smart contracts or using applications on top of ETC.
 Discussion Participants: According the ECIP process, when moving ECIPs forward, authors will open for discussion their proposals. These discussions are located in public forums, Github or developer calls. Discussion participants may be core or volunteer Ethereum Classic client developers, any developers on Github willing to contribute their well reasoned opinions, and other interested stakeholders or participants in the ETC ecosystems.
 
-## Contributing Steps
+### Contributing Steps
 
 * Review ECIP-1000.
 * Fork the repository by clicking "Fork" in the top right.

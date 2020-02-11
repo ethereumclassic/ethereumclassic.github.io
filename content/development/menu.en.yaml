@@ -13,6 +13,6 @@
 - key: teams
   text: teams
   link: /development/teams
-- key: ecips
-  text: ECIPs
-  link: /development/ecips
+- key: contribute
+  text: Contribute
+  link: /development/contribute

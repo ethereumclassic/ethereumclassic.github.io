@@ -1,0 +1,11 @@
+-
+  key: BlockScout
+  name: BlockScout
+  etc: https://blockscout.com/etc/mainnet/api_docs
+- 
+  key: Ethercluster
+  name: Ethercluster
+  etc: https://www.ethercluster.com/etc
+  astor: https://www.ethercluster.com/astor
+  kotti: https://www.ethercluster.com/kotti
+  mordor: https://www.ethercluster.com/mordor

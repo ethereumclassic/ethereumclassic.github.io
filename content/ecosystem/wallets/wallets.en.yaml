@@ -1,0 +1,21 @@
+title: Wallets
+contribute: true
+disclaimer: true
+browserWallets: | 
+  ### Browser Wallets
+
+  - Interactive Browser Wallets can be used as stand-alone wallets and as interfaces to connect through a web3 wallet or hardware wallet. *Not Recommended:* Keystores & Paper Wallets can be generated from these interfaces.
+  - Stand-alone Browser Wallets are dedicated browser wallet with no downloads designed for desktop or mobile use.
+  - Web3 Wallets are browser extensions for interacting with DApps built on Ethereum based networks (EVMs).
+hardwareWallets: |
+  ### Hardware Wallets 
+   
+  *Hardware wallets are secure wallets designed for long term storage.*  
+softwareWallets: |
+  ### Software Wallets
+
+  *Software wallets are Desktop or Mobile devices designed for short-term storage.*
+otherWallets: |
+  ### Other Wallet Products
+ 
+  Something

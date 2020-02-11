@@ -1,0 +1,38 @@
+-
+  key: Ethereum Classic 
+  name: Ethereum Classic 
+  shortName: etc 
+  chainId: 61 
+  network: mainnet
+  networkId: 1
+  link: https://github.com/ethereumclassic
+  conensusAlgo: Proof-of-Work (PoW)
+  miningAlgo: Ethash
+-
+  key: Testnet Astor 
+  name: Testnet Astor 
+  shortName: ast 
+  network: testnet
+  link: https://astor.host/
+  conensusAlgo: Proof-of-Work (PoW)
+  miningAlgo: Keccak256
+-
+  key: Testnet Kotti 
+  name: Testnet Kotti 
+  shortName: kot 
+  chainId: 6 
+  network: kotti
+  networkId: 6
+  link: https://github.com/goerli/testnet
+  conensusAlgo: Proof-of-Authority (PoA)
+  miningAlgo: Clique
+-
+  key: Testnet Mordor
+  name: Testnet Mordor
+  shortName: metc 
+  chainId: 63 
+  network: testnet
+  networkId: 7
+  link: https://github.com/eth-classic/mordor
+  conensusAlgo: Proof-of-Work (PoW)
+  miningAlgo: Ethash

@@ -7,3 +7,6 @@
 - key: wallets
   text: wallets
   link: /ecosystem/wallets
+- key: social
+  text: social-channels
+  link: /ecosystem/social-channels

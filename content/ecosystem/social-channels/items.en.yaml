@@ -1,0 +1,206 @@
+-
+  key: chat Discord
+  name: Discord
+  link: https://discordapp.com/invite/HW4GckH
+  type: chat
+-
+  key: chat Kakao (Korea)
+  name: Kakao (Korea)
+  link: https://open.kakao.com/o/gi4uNJ1
+  type: chat
+-
+  key: chat Matrix Dev Chat
+  name: Matrix Dev Chat
+  link: https://riot.im/app/#/room/#ecips:matrix.org
+  type: chat
+-
+  key: chat Ethereum Classic Slack
+  name: Ethereum Classic Slack
+  link: https://ethereumclassic.herokuapp.com/
+  type: chat
+-
+  key: chat Tencent QQ
+  name: Tencent QQ
+  text: ETC Asia-769408114
+  type: chat
+-
+  key: chat WeChat
+  name: WeChat
+  link: https://bobsummerwill.files.wordpress.com/2019/10/screen-shot-2020-01-31-at-11.40.10-pm.png?w=230&h=300
+  type: chat
+-
+  key: telegram Arabic
+  name: Arabic
+  link: https://t.me/EtherClassic_Ar
+  type: telegram
+-
+  key: telegram China
+  name: China
+  link: https://t.me/etczh
+  type: telegram
+-
+  key: telegram English
+  name: English
+  link: https://telegram.me/ethclassic
+  type: telegram
+-
+  key: telegram English
+  name: English
+  link: https://t.me/etcchat
+  type: telegram
+-
+  key: telegram Español
+  name: Español
+  link: https://t.me/ethclassicesp
+  type: telegram
+-
+  key: telegram German
+  name: German
+  link: https://t.me/EtherCalssic_de
+  type: telegram
+-
+  key: telegram Italia
+  name: Italia
+  link: https://t.me/ETC_Italia
+  type: telegram
+-
+  key: telegram Russia
+  name: Russia
+  link: https://telegram.me/etcrussia
+  type: telegram
+-
+  key: telegram Russia
+  name: Russia
+  link: https://telegram.me/etcru
+  type: telegram
+-
+  key: telegram Viet Nam
+  name: Viet Nam
+  link: https://t.me/ETCVietnam
+  type: telegram
+-
+  key: forum Reddit r/EthereumClassic
+  name: Reddit r/EthereumClassic
+  link: https://www.reddit.com/r/EthereumClassic/
+  type: forum
+-
+  key: forum BitcoinTalk
+  name: BitcoinTalk
+  link: https://bitcointalk.org/index.php?topic=5134923
+  type: forum
+-
+  key: forum Archived BitcoinTalk
+  name: Archived BitcoinTalk
+  link: https://bitcointalk.org/index.php?topic=1559630.0
+  type: forum
+-
+  key: media Let's Talk ETC!
+  name: Let's Talk ETC!
+  link: https://www.youtube.com/playlist?list=PLKO8sMfwkZQqGH3Ny2OJ_SRcAvSf_0gx5
+  type: media
+-
+  key: repository ETC Github
+  name: ETC Github
+  link: https://github.com/ethereumclassic
+  type: repository
+-
+  key: twitter China
+  name: China
+  link: https://twitter.com/EthereumChina
+  type: twitter
+-
+  key: twitter China
+  name: China
+  link: https://twitter.com/ETCChina
+  type: twitter
+-
+  key: twitter English
+  name: English
+  link: https://twitter.com/EthereumClassic
+  type: twitter
+-
+  key: twitter English
+  name: English
+  link: https://twitter.com/eth_classic
+  type: twitter
+-
+  key: twitter Español
+  name: Español
+  link: https://twitter.com/ethclassicesp
+  type: twitter
+-
+  key: twitter France
+  name: France
+  link: https://twitter.com/ETC_France
+  type: twitter
+-
+  key: twitter Germany
+  name: Germany
+  link: https://twitter.com/GermanyEtc
+  type: twitter
+-
+  key: twitter Italia
+  name: Italia
+  link: https://twitter.com/etcitalia
+  type: twitter
+-
+  key: twitter Japan
+  name: Japan
+  link: https://twitter.com/ETCJapan
+  type: twitter
+-
+  key: twitter Korea
+  name: Korea
+  link: https://twitter.com/etckorea1
+  type: twitter
+-
+  key: twitter Korea
+  name: Korea
+  link: https://twitter.com/ethclassic_kor
+  type: twitter
+-
+  key: twitter Netherlands
+  name: Netherlands
+  link: https://twitter.com/etcnetherlands
+  type: twitter
+-
+  key: twitter Philippines
+  name: Philippines
+  link: https://twitter.com/ETC_Philippines
+  type: twitter
+-
+  key: twitter Sri Lanka
+  name: Sri Lanka
+  link: https://twitter.com/etcSriLanka
+  type: twitter
+-
+  key: twitter Viet Nam
+  name: Viet Nam
+  link: https://twitter.com/ETCVietNam
+  type: twitter
+-
+  key: website EthereumClassic.org
+  name: EthereumClassic.org
+  link: https://ethereumclassic.org
+  type: website
+-
+  key: website EthereumClassicAsia
+  name: EthereumClassicAsia
+  link: http://ethereumclassicasia.org/
+  type: website
+-
+  key: website EtheruemClassic.cn
+  name: EtheruemClassic.cn
+  link: http://ethereumclassic.cn/
+  type: website
+-
+  key: website ETCKorea
+  name: ETCKorea
+  link: https://etckorea.modoo.at/
+  type: website
+-
+  key: website EthereumClassicKorea.com
+  name: EthereumClassicKorea.com
+  link: https://www.ethereumclassickorea.com/
+  type: website
+

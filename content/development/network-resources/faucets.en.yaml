@@ -1,0 +1,18 @@
+- 
+  key: EtherDrip
+  name: EtherDrip
+  astor: http://astor.etherdrip.net
+  kotti: http://kotti.etherdrip.net
+  mordor: http://mordor.etherdrip.net
+-
+  key: astor.host
+  name: astor.host
+  astor: https://faucet.astor.host
+-
+  key: KottiFaucet.me
+  name: KottiFaucet.me
+  kotti: http://kottifaucet.me/
+-
+  key: mordor.canhaz.net
+  name: mordor.canhaz.net
+  mordor: http://mordor.canhaz.net/

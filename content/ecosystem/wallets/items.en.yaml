@@ -1,0 +1,205 @@
+- 
+  key: MyCrypto
+  name: MyCrypto
+  link: https://www.mycrypto.com
+  type: interactive
+- 
+  key: MyEtherWallet
+  name: MyEtherWallet
+  link: https://www.myetherwallet.com
+  type: interactive
+
+- 
+  key: Portis
+  name: Portis
+  link: https://www.portis.io/
+  type: standalone
+- 
+  key: Squarelink
+  name: Squarelink
+  link: https://squarelink.com/
+  type: standalone
+
+- 
+  key: MetaMask
+  name: MetaMask
+  link: https://metamask.io/
+  type: extension
+- 
+  key: Nifty Wallet
+  name: Nifty Wallet
+  link: https://github.com/poanetwork/nifty-wallet
+  type: extension
+- 
+  key: Opera
+  name: Opera
+  link: https://www.opera.com/crypto
+  type: extension
+- 
+  key: Saturn Wallet
+  name: Saturn Wallet
+  link: https://www.saturn.network/blog/saturn-wallet-user-manual/
+  type: extension
+- 
+  key: Bitski
+  name: Bitski
+  link: https://www.bitski.com/
+  type: hardware
+- 
+  key: Ledger
+  name: Ledger
+  link: https://shop.ledger.com/
+  type: hardware
+- 
+  key: SafePal
+  name: SafePal
+  link: https://www.safepal.io/
+  type: hardware
+- 
+  key: Trezor
+  name: Trezor
+  link: https://trezor.io/
+  type: hardware
+- 
+  key: AToken
+  name: AToken
+  link: https://www.atoken.com/
+  type: software
+- 
+  key: Alpha Wallet
+  name: Alpha Wallet
+  link: https://alphawallet.com/
+  type: software
+- 
+  key: Atomic Wallet
+  name: Atomic Wallet
+  link: https://atomicwallet.io/
+  type: software
+- 
+  key: Button Wallet
+  name: Button Wallet
+  link: https://buttonwallet.com/
+  type: software
+- 
+  key: Citowise
+  name: Citowise
+  link: https://citowise.com/
+  type: software
+- 
+  key: Cobo
+  name: Cobo
+  link: https://cobo.com/
+  type: software
+- 
+  key: Coinbase Wallet
+  name: Coinbase Wallet
+  link: https://wallet.coinbase.com/
+  type: software
+- 
+  key: Coinomi
+  name: Coinomi
+  link: https://www.coinomi.com/
+  type: software
+- 
+  key: Cryptonator
+  name: Cryptonator
+  link: https://www.cryptonator.com/
+  type: software
+- 
+  key: Edge
+  name: Edge
+  link: https://edge.app/
+  type: software
+- 
+  key: Emerald Wallet
+  name: Emerald Wallet
+  link: https://emeraldpay.io/
+  type: software
+- 
+  key: Ethos
+  name: Ethos
+  link: https://www.ethos.io/universal-wallet/
+  type: software
+- 
+  key: Exodus
+  name: Exodus
+  link: https://www.exodus.io/
+  type: software
+- 
+  key: Guarda
+  name: Guarda
+  link: https://guarda.co/
+  type: software
+- 
+  key: Infinito Wallet
+  name: Infinito Wallet
+  link: https://www.infinitowallet.io/
+  type: software
+- 
+  key: Jaxx
+  name: Jaxx
+  link: https://jaxx.io/
+  type: software
+- 
+  key: Ownbit
+  name: Ownbit
+  link: https://ownbit.io/
+  type: software
+- 
+  key: Trust Wallet
+  name: Trust Wallet
+  link: https://trustwallet.com/
+  type: software
+- 
+  key: Zelcore Wallet
+  name: Zelcore Wallet
+  link: https://zel.network/project/zelcore/
+  type: software
+- 
+  key: BillFodl
+  name: BillFodl
+  link: https://billfodl.com/
+  text: Billfodl is the most secure way to store your crypto wallet backup, safe from hackers and acts of god. Don't be caught in the rain without one.
+  type: other
+- 
+  key: Blockplate
+  name: Blockplate
+  link: https://www.blockplate.com/
+  text: Blockplate is a tool to permanently store and preserve your cryptocurrency's wallet recovery seed. In the event your wallet becomes compromised, Blockplates contain the 12-24 words phrase used to restore the funds on your wallet. Each Blockplate stores up to 12 words (6 words on the front, 6 words on the back).
+  type: other
+- 
+  key: ColdTi
+  name: ColdTi
+  link: https://coldti.com/
+  text: ColdTi is the world’s best cryptocurrency seed storage solution. It won’t rust, melt or mutilate for millennia. ColdTi accommodates any seed, is language agnostic and was designed to be inconspicuously sealed with numbered, holographic stickers to indicate tampering. Simply put ColdTi is the easiest and safest place to store your cryptocurrency seed.
+  type: other
+- 
+  key: Crypto Key Stack
+  name: Crypto Key Stack
+  link: https://cryptokeystack.com/
+  text: Build your stack to your specs. Store one 24 word mnemonic seed per plate. Add up to 10 plates per stack.
+  type: other
+- 
+  key: CryptoSteel
+  name: CryptoSteel
+  link: https://cryptosteel.com/
+  text: The Cryptosteel is the premier backup tool for autonomous offline storage of valuable data without any third-party involvement. The solid metal device, designed to survive extreme conditions, works under nearly all circumstances.
+  type: other
+- 
+  key: CRYPTOTAG
+  name: CRYPTOTAG
+  link: https://cryptotag.io/
+  text: We have devoted our time and resources to create the best backup in the world. No compromises made here. Our high-end products enable people around the world to be their own bank. Secure your financial freedom with your own CRYPTOTAG today.
+  type: other
+- 
+  key: Hodlinox
+  name: Hodlinox
+  link: https://hodlinox.com/
+  text: Hodlinox are metal plates on which you can engrave the seed phrase to your bitcoin wallet. The plates are made from extra thick stainless steel and can be locked together with a tamper-evident all-metal security seal. Protect your crypto from fire, water and disasters, by using Hodlinox plates.
+  type: other
+- 
+  key: Steely
+  name: Steely
+  link: https://thesteely.com/
+  text: Don't become a victim of Murphy's law. Store your hardware wallet recovery sentence, private keys, or mnemonic phrases in a Steely, the most durable and badass way to backup your crypto assets.
+  type: other
