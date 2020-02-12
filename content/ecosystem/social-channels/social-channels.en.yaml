@@ -1,2 +1,21 @@
 title: Social Channels
 contribute: true
+disclaimer: true
+intro: |
+ # Social Channels
+
+ This page contains a list of active ETC discussion groups and channels
+chatIntro: | 
+  > ## Chat Rooms
+telegramIntro: | 
+  > ## Telegram Groups
+forumIntro: | 
+  > ## Forums
+mediaIntro: | 
+  > ## Media
+repositoryIntro: | 
+  > ## Code Repositories
+twitterIntro: | 
+  > ## Twitter Accounts
+websiteIntro: | 
+  > ## Websites

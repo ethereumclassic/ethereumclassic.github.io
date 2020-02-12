@@ -633,3 +633,20 @@
   text: Utrust
   link: https://utrust.com/
   type: processors
+- 
+  key: CoinGecko
+  name: CoinGecko
+  type: price
+  link: https://www.coingecko.com/en/coins/ethereum-classic
+
+- 
+  key: Messari
+  name: Messari
+  type: price
+  link: https://messari.io/asset/ethereum-classic
+
+- 
+  key: TradingView
+  name: TradingView
+  type: price
+  link: https://www.tradingview.com/symbols/ETCUSD/

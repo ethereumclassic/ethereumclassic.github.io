@@ -14,6 +14,12 @@ $tinyPadding: $smallPadding / 2;
 $microPadding: $tinyPadding / 2;
 $nanoPadding: $microPadding / 2;
 
+$grid-color-1:#1BE7FF;
+$grid-color-2:#6EEB83;
+$grid-color-3:#E4FF1A;
+$grid-color-4:#E8AA14;
+$grid-color-5:#FF5714;
+
 /* GLOBAL STYLES */
 
 ::-webkit-scrollbar {
@@ -484,6 +490,26 @@ section>p:last-child {
     background: _palette(red-col);
   }
 
+  &.grid-color-1 h4 {
+    background: $grid-color-1;
+  }
+
+  &.grid-color-2 h4 {
+    background: $grid-color-2;
+  }
+
+  &.grid-color-3 h4 {
+    background: $grid-color-3;
+  }
+
+  &.grid-color-4 h4 {
+    background: $grid-color-4;
+  }
+
+  &.grid-color-5 h4 {
+    background: $grid-color-5;
+  }
+
   .content {
     padding: 0 $smallPadding;
   }
@@ -507,6 +533,26 @@ a.card {
 
   &.red:hover {
     background: _palette(red-col);
+  }
+
+  &.grid-color-1:hover {
+    background: $grid-color-1;
+  }
+
+  &.grid-color-2:hover {
+    background: $grid-color-2;
+  }
+
+  &.grid-color-3:hover {
+    background: $grid-color-3;
+  }
+
+  &.grid-color-4:hover {
+    background: $grid-color-4;
+  }
+
+  &.grid-color-5:hover {
+    background: $grid-color-5;
   }
 }
 
@@ -734,6 +780,28 @@ a.card {
     &.red {
       background: _palette(red-col);
     }
+
+    &.grid-color-1 {
+      background: $grid-color-1;
+    }
+
+    &.grid-color-2 {
+      background: $grid-color-2;
+    }
+
+    &.grid-color-3 {
+      background: $grid-color-3;
+    }
+
+    &.grid-color-4 {
+      background: $grid-color-4;
+    }
+
+    &.grid-color-5 {
+      background: $grid-color-5;
+    }
+
+
   }
 }
 

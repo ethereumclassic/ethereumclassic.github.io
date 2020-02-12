@@ -21,7 +21,7 @@
 -
   key: chat Tencent QQ
   name: Tencent QQ
-  text: ETC Asia-769408114
+  alert: ETC Asia-769408114
   type: chat
 -
   key: chat WeChat

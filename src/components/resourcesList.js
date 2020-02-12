@@ -1,14 +1,14 @@
 import React from 'react';
 
 import Card from './card';
-import LinkGroup from './linkGroup';
+import ButtonGroup from './buttonGroup';
 
 const resources = ({ i18n }) => {
   return (
     <>
       <Card title={i18n.nodesAndNetworkInfo}>
         {i18n.nodesAndNetworkInfoText}
-        <LinkGroup
+        <ButtonGroup
           title={i18n.nodes}
           items={[
             {
@@ -29,7 +29,7 @@ const resources = ({ i18n }) => {
             }
           ]}
         />
-        <LinkGroup
+        <ButtonGroup
           title={i18n.privateDeployments}
           items={[
             { text: 'quiknode.io', link: 'https://quiknode.io/' },
@@ -44,7 +44,7 @@ const resources = ({ i18n }) => {
       </Card>
       <Card title={i18n.blockExplorers}>
         {i18n.blockExplorersText}
-        <LinkGroup
+        <ButtonGroup
           title={i18n.mainnet}
           items={[
             {
@@ -67,7 +67,7 @@ const resources = ({ i18n }) => {
       </Card>
       <Card title={i18n.networkApis}>
         {i18n.networkApisText}
-        <LinkGroup
+        <ButtonGroup
           title={i18n.publicApis}
           items={[
             {
@@ -84,7 +84,7 @@ const resources = ({ i18n }) => {
             }
           ]}
         />
-        <LinkGroup
+        <ButtonGroup
           title={i18n.networkInfo}
           items={[
             {
@@ -108,7 +108,7 @@ const resources = ({ i18n }) => {
         />
       </Card>
       <Card title={i18n.githubRepos}>
-        <LinkGroup
+        <ButtonGroup
           items={[
             {
               text: 'ETC (general)',
@@ -131,7 +131,7 @@ const resources = ({ i18n }) => {
         />
       </Card>
       <Card title={i18n.twitter}>
-        <LinkGroup
+        <ButtonGroup
           items={[
             {
               text: '@Eth_Classic',
@@ -157,7 +157,7 @@ const resources = ({ i18n }) => {
         />
       </Card>
       <Card title={i18n.chatRooms}>
-        <LinkGroup
+        <ButtonGroup
           items={[
             { text: 'Discord', link: 'https://discord.gg/bMGuZsA' },
             {
@@ -170,7 +170,7 @@ const resources = ({ i18n }) => {
             }
           ]}
         />
-        <LinkGroup
+        <ButtonGroup
           title={i18n.telegram}
           items={[
             { text: 'ETC Arabic', link: 'https://t.me/EtherClassic_Ar' },
@@ -194,7 +194,7 @@ const resources = ({ i18n }) => {
       </Card>
       <Card title={i18n.wallets}>
         {i18n.waleltsText}
-        <LinkGroup
+        <ButtonGroup
           title={i18n.webWallets}
           items={[
             {
@@ -212,7 +212,7 @@ const resources = ({ i18n }) => {
             }
           ]}
         />
-        <LinkGroup
+        <ButtonGroup
           title={i18n.hardwareOffline}
           items={[
             {
@@ -222,7 +222,7 @@ const resources = ({ i18n }) => {
             { text: 'Trezor', link: 'https://trezor.io/' }
           ]}
         />
-        <LinkGroup
+        <ButtonGroup
           title={i18n.desktop}
           items={[
             {
@@ -237,7 +237,7 @@ const resources = ({ i18n }) => {
             }
           ]}
         />
-        <LinkGroup
+        <ButtonGroup
           title={i18n.mobile}
           items={[
             { text: 'Atomic Wallet', link: 'https://atomicwallet.io/' },
@@ -254,7 +254,7 @@ const resources = ({ i18n }) => {
       </Card>
       <Card title={i18n.exchanges}>
         {i18n.exchangesText}
-        <LinkGroup
+        <ButtonGroup
           title={i18n.traditionalExchangess}
           items={[
             { text: 'Binance', link: 'https://www.binance.com/' },
@@ -277,11 +277,11 @@ const resources = ({ i18n }) => {
             }
           ]}
         />
-        <LinkGroup
+        <ButtonGroup
           title={i18n.decentralizedExchanges}
           items={[{ text: 'Saturn Network', link: 'https://www.saturn.network' }]}
         />
-        <LinkGroup
+        <ButtonGroup
           title={i18n.instantSwaps}
           items={[
             {
@@ -291,7 +291,7 @@ const resources = ({ i18n }) => {
             { text: 'Shapeshift', link: 'https://shapeshift.io/' }
           ]}
         />
-        <LinkGroup
+        <ButtonGroup
           title={i18n.paymentProcessors}
           items={[
             { text: 'CoinGate', link: 'https://coingate.com/' },
@@ -303,7 +303,7 @@ const resources = ({ i18n }) => {
       </Card>
       <Card title={i18n.miningPools}>
         {i18n.miningPoolsText}
-        <LinkGroup
+        <ButtonGroup
           items={[
             {
               text: '2miners',

@@ -17,9 +17,13 @@ const PageLayout = ({ children, i18n, link, wide }) => {
         <Header link={link} />
         <div className="layout-container">
           <div className="layout-content">
-            <LayoutHeader i18n={i18n} />
+            <section>
+              <LayoutHeader i18n={i18n} />
+            </section>
             {children}
-            <LayoutFooter i18n={i18n} />
+            <section>
+              <LayoutFooter i18n={i18n} />
+            </section>
           </div>
         </div>
         <Footer />

@@ -1,7 +1,23 @@
 title: Exchanges
 contribute: true
 disclaimer: true
-instantTitle: | 
+intro: | 
+  # Exchanges
+
+  This page contains a list of services that allow you to purchase or trade ETC.
+exchangesIntro: |
+  ## Notable Exchanges
+
+  Exchanges are separated into 3 categories; centralized, decentralized, and instant.
+centralizedExchanges: |
+  > ### Centralized Exchanges (Inclusive List)
+decentralizedExchanges: |
+  > ### Decentralized Exchanges
+instantExchanges: | 
   ### Instant Exchanges
   
   *Note:* Instant Exchanges typically offer worse rates than Centralized Exchanges.
+paymentProcessors: |
+  > ## Payment Processors
+etcPriceSources: |
+  > ## ETC Price Sources
