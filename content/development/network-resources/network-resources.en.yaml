@@ -19,7 +19,7 @@ chainID: Chain ID
 clients: | 
   ## Clients
 
-  For more information on the various ETC clients, check out the [clients](/ecosystem/clients) page.
+  For more information on the various ETC clients, check out the [clients](/development/clients) page.
 chainsTitle: |
   > ## ETC Virtual Machine Chains
 explorersTitle: | 
@@ -32,10 +32,6 @@ faucetsTitle: |
   ## Faucets
 
   Services that allow you to get small amounts of free testnet ETC to make test transactions.
-publicEndpointsTitle: | 
-  ## Public Endpoints
-
-  You can use these services to connect to ETC via JSON-RPC.
 gasFeeTitle: | 
   ## Gas Fee Estimators
 

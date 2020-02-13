@@ -29,19 +29,6 @@ const Teams = ({ pageContext: { i18n } }) => {
       <ItemTable
         hideHead
         sortedBy="name"
-        header={html(i18n.publicEndpointsTitle)}
-        items={i18n.yaml.publicEndpoints}
-        columns={[
-          { key: 'name' },
-          { text: i18n.mainnet, type: 'button', key: 'etc' },
-          { text: i18n.kotti, type: 'button', key: 'kotti' },
-          { text: i18n.mordor, type: 'button', key: 'mordor' },
-          { text: i18n.astor, type: 'button', key: 'astor' }
-        ]}
-      />
-      <ItemTable
-        hideHead
-        sortedBy="name"
         header={html(i18n.explorersTitle)}
         items={i18n.yaml.explorers}
         columns={[

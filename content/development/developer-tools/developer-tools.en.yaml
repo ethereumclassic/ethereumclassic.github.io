@@ -4,7 +4,7 @@ contribute: true
 clients: | 
   ## Clients
 
-  For more information on the various ETC clients, check out the [clients](/ecosystem/clients) page.
+  For more information on the various ETC clients, check out the [clients](/development/clients) page.
 tooling: | 
   ## Development Tooling
 
@@ -13,7 +13,3 @@ paymentProcessors: |
   ## Payment Processors
 
   These APIs can be used to accept ETC payments in your website or application.
-deploymentTools: | 
-  ## Node Deployment Tools
-
-  Description goes here...

@@ -1,6 +1,9 @@
 - key: get-started
   text: get-started
   link: /development/get-started
+- key: clients
+  text: clients
+  link: /development/clients
 - key: developer-tools
   text: developer-tools
   link: /development/developer-tools
