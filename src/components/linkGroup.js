@@ -5,10 +5,10 @@ const ButtonGroup = ({ items, header }) => {
   return (
     <div className="link-group">
       {header}
-      {items.map(({ name, key, link, text }) => (
+      {items.map(({ name, key, link, title, text }) => (
         <div key={key} className="link-item">
           <h4>
-            <Link text={name} to={link} />
+            <Link text={name || title} to={link} />
           </h4>
           {text && <p>{text}</p>}
         </div>

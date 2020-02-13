@@ -619,21 +619,6 @@
   link: https://coingate.com/
   type: processors
 - 
-  key: CoinPayments
-  text: CoinPayments
-  link: https://www.coinpayments.net/
-  type: processors
-- 
-  key: NOWPayments
-  text: NOWPayments
-  link: https://nowpayments.io/
-  type: processors
-- 
-  key: Utrust
-  text: Utrust
-  link: https://utrust.com/
-  type: processors
-- 
   key: CoinGecko
   name: CoinGecko
   type: price

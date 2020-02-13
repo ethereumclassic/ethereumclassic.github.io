@@ -16,3 +16,10 @@ export function groupTypes(items, iterator) {
     {}
   );
 }
+
+export function sortBy(key, items) {
+  if (!key) {
+    return items;
+  }
+  return items.sort((a, b) => a[key].toLowerCase().localeCompare(b[key].toLowerCase()));
+}

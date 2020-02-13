@@ -1,0 +1,10 @@
+title: Clients
+contribute: true
+intro: | 
+  # Clients
+
+  Clients are used to sync with the Etheruem Classic network and verify blocks. Most users won't need to run a full node, but they allow those who do to trustlessly interact with the network.
+
+  If you are deploying nodes in production, consider checking out a [node deployment tool](/development/developer-tools).
+releases: Releases
+homepage: Homepage

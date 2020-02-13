@@ -15,7 +15,6 @@ const Exchanges = ({ pageContext: { i18n } }) => {
       <ButtonGroup header={html(i18n.centralizedExchanges)} items={items.centralized} />
       <ButtonGroup header={html(i18n.decentralizedExchanges)} items={items.decentralized} />
       <ButtonGroup header={html(i18n.instantExchanges)} items={items.instant} />
-      <ButtonGroup header={html(i18n.paymentProcessors)} items={items.processors} />
       <ButtonGroup header={html(i18n.etcPriceSources)} items={items.price} />
     </SubPageLayout>
   );

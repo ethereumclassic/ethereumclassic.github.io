@@ -1,5 +1,6 @@
 title: Mining Resources
 contribute: true
+disclaimer: true
 softwareTitle: |
   ## Miner Software
 
@@ -14,3 +15,9 @@ detailedPools: |
 
   All the pulbicly known ETC mining pools
 
+
+name: Name
+windowsAmd: Windows AMD
+windowsNvidia: Windows Nvidia
+linuxAmd: Linux AMD
+linuxNvidia: Linux Nvidia

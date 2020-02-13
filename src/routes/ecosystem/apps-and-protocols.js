@@ -1,12 +1,12 @@
 import React from 'react';
 
+import { sortBy } from '../../utils';
+
 import SubPageLayout from '~components/subPageLayout';
 import ColorGrid from '~components/colorGrid';
 
 const Apps = ({ pageContext: { i18n } }) => {
-  const items = i18n.yaml.items.sort(({ name: a }, { name: b }) =>
-    a.toLowerCase().localeCompare(b.toLowerCase())
-  );
+  const items = sortBy('name', i18n.yaml.items);
   return (
     <SubPageLayout wide i18n={i18n}>
       <section>

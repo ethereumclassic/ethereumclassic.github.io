@@ -1,7 +1,7 @@
 -
   key: Astor Explorer
   name: Astor Explorer
-  etc: https://explore.astor.host/
+  astor: https://explore.astor.host/
 -
   key: BlockScout
   name: BlockScout
@@ -12,7 +12,7 @@
 -
   key: Emerald Receipt
   name: Emerald Receipt
-  etc: https://receipt.emeraldpay.io/)
+  etc: https://receipt.emeraldpay.io/
 -
   key: ETCBlockExplorer
   name: ETCBlockExplorer
@@ -39,10 +39,10 @@
 -
   key: Tokenview
   name: Tokenview
-  etc: https://etc.tokenview.com/)
+  etc: https://etc.tokenview.com/
 -
   key: Expedition
   name: Expedition
   etc: https://expedition.dev/?network=mainnet
-  kotti: https://expedition.dev/?network=kotti)
-  mordor: https://expedition.dev/?network=mordor)
+  kotti: https://expedition.dev/?network=kotti
+  mordor: https://expedition.dev/?network=mordor

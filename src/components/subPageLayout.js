@@ -24,7 +24,7 @@ const SubPageLayout = ({ children, ...props }) => {
   );
   return (
     <PageLayout {...props} link={layoutLink}>
-      {wide ? <section>{backLink}</section> : backLink}
+      {/* {wide ? <section>{backLink}</section> : backLink} */}
       {children}
       {wide ? <section>{footer}</section> : footer}
     </PageLayout>

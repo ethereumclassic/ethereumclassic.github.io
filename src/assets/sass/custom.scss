@@ -2,7 +2,7 @@
 // TODO refactor
 
 $softShadow: 0 0.5rem 1rem rgba(0, 0, 0, .1);
-$solidBottom: 2px solid rgba(0, 0, 0, .2);
+$solidBottom: 2px solid rgba(0, 0, 0, .1);
 
 $maxPageWidth: 55rem;
 $maxWideSectionWidth: $maxPageWidth+30rem;
@@ -1176,4 +1176,25 @@ body.hanzi {
   h5 {
     margin-top: 0;
   }
+}
+
+.info-buttons-group {
+  .item {
+    border-bottom: $solidBottom;
+    margin-bottom: $smallPadding;
+  }
+  .item:last-child {
+    border-bottom: none;
+  }
+
+  .right-buttons {
+    float: right;
+  }
+}
+
+table ul.icons {
+  margin: 0;
+}
+table tr.faded {
+  background: rgba(255, 27, 27, 0.1) !important;
 }

@@ -17,7 +17,5 @@ instantExchanges: |
   ### Instant Exchanges
   
   *Note:* Instant Exchanges typically offer worse rates than Centralized Exchanges.
-paymentProcessors: |
-  > ## Payment Processors
 etcPriceSources: |
   > ## ETC Price Sources

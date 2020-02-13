@@ -2,7 +2,7 @@
   key: Ethereum Foundation
   year: 2015
   name: Ethereum Foundation
-  status: Active
+  status: active
   link: https://ethereum.org/
   twitter: ethereum
   github: ethereum/
@@ -10,14 +10,14 @@
   key: ETC Consortium
   year: 2016
   name: ETC Consortium
-  status: Active
+  status: active
   link: https://etcconsortium.org/
   twitter: ETCConsortium
 -
   key: ETCDEV
   year: 2016
   name: ETCDEV
-  status: Active
+  status: active
   link: https://etcdevteam.com/
   twitter: getemerald
   github: ETCDEVTeam/
@@ -25,7 +25,7 @@
   key: Grothendieck
   year: 2016
   name: IOHK (Grothendieck)
-  status: Inactive
+  status: inactive
   link: https://iohk.io/projects/ethereum-classic/
   twitter: InputOutputHK
   github: input-output-hk/mantis
@@ -33,7 +33,7 @@
   key: Parity Technologies
   year: 2016
   name: Parity Technologies
-  status: Active
+  status: active
   link: https://parity.io/
   twitter: ParityTech
   github: paritytech
@@ -41,7 +41,7 @@
   key: ETC Cooperative
   year: 2017
   name: ETC Cooperative
-  status: Active
+  status: active
   link: https://etccooperative.org/
   twitter: ETCCooperative
   github: ETCCooperative
@@ -49,7 +49,7 @@
   key: Ethereum Commonwealth
   year: 2017
   name: Ethereum Commonwealth
-  status: Inactive
+  status: inactive
   link: https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/
   twitter: Dexaran
   github: EthereumCommonwealth
@@ -57,7 +57,7 @@
   key: commonwealth.gg
   year: 2018
   name: Commonwealth.gg
-  status: Active
+  status: active
   link: https://commonwealth.gg
   twitter: commonwealthgg
   github: p3c-bot
@@ -65,7 +65,7 @@
   key: ETC Labs
   year: 2018
   name: ETC Labs
-  status: Active
+  status: active
   link: https://etclabs.org/
   twitter: etclabs
   github: etclabscore
@@ -73,7 +73,7 @@
   key: POA Network
   year: 2018
   name: POA Network
-  status: Active
+  status: active
   link: https://www.poa.network/
   twitter: poanetwork
   github: poanetwork
@@ -81,7 +81,7 @@
   key: ChainSafe
   year: 2019
   name: ChainSafe
-  status: Active
+  status: active
   link: https://chainsafe.io/
   twitter: ChainSafeth
   github: ChainSafe
@@ -89,7 +89,7 @@
   key: ETC Core
   year: 2019
   name: ETC Core
-  status: Active
+  status: active
   link: https://etccore.io/
   twitter: etc_core
   github: etclabscore
@@ -97,7 +97,7 @@
   key: PegaSys
   year: 2019
   name: PegaSys
-  status: Active
+  status: active
   link: https://pegasys.tech/
   twitter: PegaSysEng
   github: hyperledger/besu
@@ -105,7 +105,7 @@
   key: Second State
   year: 2019
   name: Second State
-  status: Active
+  status: active
   link: https://www.secondstate.io/
   twitter: secondstateinc
   github: second-state
