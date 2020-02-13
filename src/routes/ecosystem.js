@@ -13,12 +13,12 @@ const Ecosystem = ({ pageContext: { i18n } }) => {
     <PageLayout wide i18n={i18n}>
       <section>
         <SubMenu i18n={i18n} />
-        TODO: move this stuff to the individual pages
+        TODO
       </section>
-      <section>{html(i18n.intro)}</section>
-      <MajorProjects i18n={i18n} />
+      {/* <section>{html(i18n.intro)}</section> */}
+      {/* <MajorProjects i18n={i18n} />
       <Dapps i18n={i18n} dapps={i18n.yaml.dapps} />
-      <Resources i18n={i18n} />
+      <Resources i18n={i18n} /> */}
     </PageLayout>
   );
 };
