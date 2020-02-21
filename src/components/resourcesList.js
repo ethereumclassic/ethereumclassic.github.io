@@ -290,6 +290,7 @@ const resources = ({ i18n }) => {
             },
             { text: 'ChangeNOW', link: 'https://changenow.io/' },
             { text: 'Shapeshift', link: 'https://shapeshift.io/' }
+            { text: 'Swapzone', link: 'https://swapzone.io/' }
           ]}
         />
         <LinkGroup
