@@ -13,12 +13,22 @@
   text: Altilly
   link: https://www.altilly.com/market/ETC_USDT
   type: centralized
-- 
+-
+  key: BaseFEX
+  name: BaseFEX 
+  link: https://www.basefex.com/trade/ETCUSDT
+  type: centralized
+-
   key: BCEX
   text: BCEX
   link: https://www.bcex.ca/trade/etc_usdt
   type: centralized
-- 
+-
+  key: Bequant
+  name: Bequant 
+  link: https://bequant.io/exchange/ETC-to-USDT
+  type: centralized
+-
   key: BHEX
   text: BHEX
   link: https://www.bhex.com/exchange/301/etc/usdt
@@ -58,7 +68,12 @@
   text: Bitbns
   link: https://bitbns.com/trade/#/etc
   type: centralized
-- 
+-
+  key: Bitcoin IRA
+  name: Bitcoin IRA 
+  link: https://bitcoinira.com/resources/bitcoin-ethereum-price-charts
+  type: centralized
+-
   key: Bitfinex
   text: Bitfinex
   link: https://www.bitfinex.com/t/ETC:USD
@@ -93,7 +108,12 @@
   text: Bitnaru
   link: https://www.bitnaru.com/exchange
   type: centralized
-- 
+-
+  key: Bitpanda
+  name: Bitpanda 
+  link: https://www.bitpanda.com/en/prices/ethereum-classic
+  type: centralized
+-
   key: BitRabbit
   text: BitRabbit
   link: https://bitrabbit.com/markets/etc_btc
@@ -224,11 +244,6 @@
   link: https://coinut.com/spot/ETCUSDT
   type: centralized
 - 
-  key: CoinZest
-  text: CoinZest
-  link: https://kr.coinzest.com/coin-trade
-  type: centralized
-- 
   key: CPDAX
   text: CPDAX
   link: https://www.cpdax.com/trade/ETC-BTC
@@ -238,7 +253,12 @@
   text: Crex24
   link: https://crex24.com/exchange/ETC-BTC
   type: centralized
-- 
+-
+  key: Crypcore
+  name: Crypcore 
+  link: https://crypcore.com
+  type: centralized
+-
   key: DCoin
   text: DCoin
   link: https://www.dcoin.com/currencyTrading/ETC_USDT
@@ -258,7 +278,12 @@
   text: eToro
   link: https://www.etoro.com/markets/etc/chart
   type: centralized
-- 
+-
+  key: eToroX
+  name: eToroX 
+  link: https://www.etorox.com/exchange/etc/
+  type: centralized
+-
   key: EXMO
   text: EXMO
   link: https://exmo.com/en/trade/ETC_USD
@@ -279,11 +304,6 @@
   link: https://www.fatbtc.com/trading?currency=ETC%2FUSDT&freetab=2
   type: centralized
 - 
-  key: FCoin
-  text: FCoin
-  link: https://exchange.fcoin.com/ex/spot/main/etc/usdt
-  type: centralized
-- 
   key: Folgory
   text: Folgory
   link: https://folgory.com/trade-crypto/ETC_USDT
@@ -293,17 +313,22 @@
   text: FTX
   link: https://ftx.com/trade/ETC-PERP
   type: centralized
-- 
-  key: gate.io
-  text: gate.io
+-
+  key: Gate
+  name: Gate 
   link: https://www.gate.io/trade/etc_usdt
   type: centralized
-- 
+-
   key: HitBTC
   text: HitBTC
   link: https://hitbtc.com/ETC-to-USDT
   type: centralized
-- 
+-
+  key: Hoo
+  name: Hoo 
+  link: https://hoo.com/trade/etc-usdt
+  type: centralized
+-
   key: HotBit
   text: HotBit
   link: https://www.hotbit.io/exchange?symbol=ETC_USDT
@@ -327,11 +352,6 @@
   key: Huobi Russia
   text: Huobi Russia
   link: https://www.huobi.com.ru/exchange/#s=etc_usdt
-  type: centralized
-- 
-  key: IDAX
-  text: IDAX
-  link: https://www.idax.pro/exchange?pairname=ETC_USDT
   type: centralized
 - 
   key: Independent Reserve
@@ -493,25 +513,15 @@
   text: ABRA
   link: https://www.abra.com/
   type: instant
-- 
-  key: AnyCoinDirect
-  text: AnyCoinDirect
-  link: https://anycoindirect.eu/en/buy-ethereum-classic
+-
+  key: ALFACashier
+  name: ALFACashier 
+  link: https://www.alfacashier.com/
   type: instant
-- 
+-
   key: AtomicWallet
   text: AtomicWallet
   link: https://atomicwallet.io
-  type: instant
-- 
-  key: Bit4Sale
-  text: Bit4Sale
-  link: https://bit4.sale/
-  type: instant
-- 
-  key: Bitladon
-  text: Bitladon
-  link: https://www.bitladon.com/ethereum-classic
   type: instant
 - 
   key: ChangeAngel
@@ -529,16 +539,6 @@
   link: https://changenow.io/
   type: instant
 - 
-  key: CoinDirect
-  text: CoinDirect
-  link: https://www.coindirect.com/
-  type: instant
-- 
-  key: Coinmerce
-  text: Coinmerce
-  link: https://coinmerce.io/
-  type: instant
-- 
   key: CoinSwitch
   text: CoinSwitch
   link: https://coinswitch.co/
@@ -548,17 +548,12 @@
   text: Coinveer
   link: https://coinveer.com/
   type: instant
-- 
-  key: Cryptomate
-  text: Cryptomate
-  link: https://cryptomate.co.uk/buy-ethereum-classic/
+-
+  key: Edge
+  name: Edge 
+  link: https://edge.app/
   type: instant
-- 
-  key: Cryptonator Converter
-  text: Cryptonator Converter
-  link: https://www.cryptonator.com/converter/
-  type: instant
-- 
+-
   key: Exodus
   text: Exodus
   link: https://www.exodus.io/
@@ -568,12 +563,12 @@
   text: Exolix
   link: https://exolix.com/
   type: instant
-- 
-  key: Fud Desk
-  text: Fud Desk
-  link: https://fuddesk.com/buy-crypto
+-
+  key: FixedFloat
+  name: FixedFloat 
+  link: https://fixedfloat.com/
   type: instant
-- 
+-
   key: GoDex
   text: GoDex
   link: https://godex.io/
@@ -589,47 +584,45 @@
   link: https://instaex.io/
   type: instant
 - 
-  key: LiteBit
-  text: LiteBit
-  link: https://www.litebit.eu/en/buy/ethereumclassic#rate-tile-ethereumclassic
-  type: instant
-- 
-  key: Paxful
-  text: Paxful
-  link: https://paxful.com/sell-bitcoin/ethereum-classic-etc
-  type: instant
-- 
-  key: RoundlyX
-  text: RoundlyX
-  link: https://www.roundlyx.com/
-  type: instant
-- 
   key: SimpleSwap
   text: SimpleSwap
   link: https://simpleswap.io/coins/ethereum-classic
   type: instant
+-
+  key: StealthEx
+  name: StealthEx 
+  link: https://stealthex.io/
+  type: instant
 - 
+  key: Swapzone
+  name: Swapzone 
+  link: https://swapzone.io/?to=btc&from=etc
+  type: instant
+-
   key: Switchain
   text: Switchain
   link: https://www.switchain.com
   type: instant
+-
+  key: Voyager
+  name: Voyager 
+  link: https://www.investvoyager.com/blog/how-to-buy-ethereum-classic/
+  type: instant
 - 
-  key: CoinGate
-  text: CoinGate
-  link: https://coingate.com/
-  type: processors
-- 
+  key: XChange
+  name: XChange 
+  link: https://www.xchange.me/
+  type: instant
+-
   key: CoinGecko
   name: CoinGecko
   type: price
   link: https://www.coingecko.com/en/coins/ethereum-classic
-
 - 
   key: Messari
   name: Messari
   type: price
   link: https://messari.io/asset/ethereum-classic
-
 - 
   key: TradingView
   name: TradingView

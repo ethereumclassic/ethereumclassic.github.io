@@ -4,6 +4,11 @@
   link: https://discordapp.com/invite/HW4GckH
   type: chat
 -
+  key: chat Facebook
+  name: Facebook
+  link: https://www.facebook.com/EthereumClassicETC/
+  type: chat
+-
   key: chat Kakao (Korea)
   name: Kakao (Korea)
   link: https://open.kakao.com/o/gi4uNJ1
@@ -39,12 +44,12 @@
   link: https://t.me/etczh
   type: telegram
 -
-  key: telegram English
+  key: telegram English 1
   name: English
   link: https://telegram.me/ethclassic
   type: telegram
 -
-  key: telegram English
+  key: telegram English 2
   name: English
   link: https://t.me/etcchat
   type: telegram
@@ -64,13 +69,13 @@
   link: https://t.me/ETC_Italia
   type: telegram
 -
-  key: telegram Russia
-  name: Russia
+  key: telegram Russia 1
+  name: Russia 1
   link: https://telegram.me/etcrussia
   type: telegram
 -
-  key: telegram Russia
-  name: Russia
+  key: telegram Russia 2
+  name: Russia 2
   link: https://telegram.me/etcru
   type: telegram
 -
@@ -94,6 +99,16 @@
   link: https://bitcointalk.org/index.php?topic=1559630.0
   type: forum
 -
+  key: media EVM61
+  name: EVM61
+  link: https://www.youtube.com/playlist?list=PLiW3acHwcR6LAa_WS5sFWf1S_GquYVeJb
+  type: media
+-
+  key: media Explore The Chain
+  name: Explore The Chain
+  link: https://www.youtube.com/playlist?list=PL8fotqNQa4-UGxH8rCqeHAtOG56OyhZGf
+  type: media
+-
   key: media Let's Talk ETC!
   name: Let's Talk ETC!
   link: https://www.youtube.com/playlist?list=PLKO8sMfwkZQqGH3Ny2OJ_SRcAvSf_0gx5
@@ -104,22 +119,27 @@
   link: https://github.com/ethereumclassic
   type: repository
 -
-  key: twitter China
+  key: repository ETC Awesome List
+  name: ETC Awesome List
+  link: https://github.com/ethereumclassic/Awesome-ETC
+  type: repository
+-
+  key: twitter China 1
   name: China
   link: https://twitter.com/EthereumChina
   type: twitter
 -
-  key: twitter China
+  key: twitter China 2
   name: China
   link: https://twitter.com/ETCChina
   type: twitter
 -
-  key: twitter English
+  key: twitter English 1
   name: English
   link: https://twitter.com/EthereumClassic
   type: twitter
 -
-  key: twitter English
+  key: twitter English 2
   name: English
   link: https://twitter.com/eth_classic
   type: twitter
@@ -149,12 +169,12 @@
   link: https://twitter.com/ETCJapan
   type: twitter
 -
-  key: twitter Korea
+  key: twitter Korea 1
   name: Korea
   link: https://twitter.com/etckorea1
   type: twitter
 -
-  key: twitter Korea
+  key: twitter Korea 2
   name: Korea
   link: https://twitter.com/ethclassic_kor
   type: twitter
@@ -172,6 +192,11 @@
   key: twitter Sri Lanka
   name: Sri Lanka
   link: https://twitter.com/etcSriLanka
+  type: twitter
+-
+  key: twitter Turkey
+  name: Turkey
+  link: https://twitter.com/EtcTurkiye
   type: twitter
 -
   key: twitter Viet Nam
