@@ -1201,3 +1201,10 @@ table ul.icons {
 table tr.faded {
   background: rgba(255, 27, 27, 0.1) !important;
 }
+
+.showcase {
+  background: #eee;
+  box-shadow: 0 $tinyPadding $smallPadding rgba(0,0,0,.2);
+  padding: $smallPadding;
+  border-radius: $smallPadding;
+}
