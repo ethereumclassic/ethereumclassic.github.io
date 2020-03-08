@@ -4,45 +4,6 @@
 - [Build logs](https://app.netlify.com/sites/ethereumclassic/deploys)
 - [Current restructure preview](https://restructure--ethereumclassic.netlify.com/)
 
-## Restructure Branch: TODOs
-
-- Copy content
-- Redirect blog -> news
-- Redirect summit -> press/summit
-- Update timeline
-- Update ecosystem / dapps
-- Update locales
-
-### New Structure
-
-- Landing Page
-- Knowledge
-  - **MD** What is Ethereum Classic?
-  - **MD** What is Ether (ETC)?
-  - **MD** Learn about Ethereum Classic
-  - **JS** Historic Timeline & Roadmap
-  - **MD** User Guides & Resources
-  - **MD** Community Channels
-- Ecosystem
-  - **JS** Dapps & Protocols
-  - **MD** Exchanges
-  - **MD** Wallets
-- Development
-  - **MD** Get Started
-  - **MD** Developer Tools
-  - **MD** Mining Resources
-  - **MD** Network Resources
-  - **MD** Development Teams
-- News
-  - **JS** All News
-  - **JS** Blog Articles
-  - **JS** Media Links
-- Press
-  - **MD** ETC Explainers
-  - **MD** Conferences
-  - **MD** Development Press
-  - **MD** Press Kit
-
 ## Content
 
 If you'd like to contribute content or translations, please contact the [discord #ethereumclassicwebsite](https://discord.gg/DwQjJ8) channel for further instructions and access rights.
