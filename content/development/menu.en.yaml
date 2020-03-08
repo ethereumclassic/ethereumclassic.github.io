@@ -1,6 +1,6 @@
-- key: tutorials
-  text: Get Started (tutorials)
-  link: /development/tutorials
+- key: guides
+  text: guides
+  link: /development/guides
 - key: clients
   text: clients
   link: /development/clients

@@ -1,15 +1,15 @@
-- key: learn-about-ethereum-classic
-  text: learn-about-ethereum-classic
-  link: /knowledge/learn-about-ethereum-classic
-- key: user-guides-and-resources
-  text: user-guides-and-resources
-  link: /knowledge/user-guides-and-resources
-- key: what-is-ether
-  text: what-is-ether
-  link: /knowledge/what-is-ether
-- key: what-is-ethereum-classic
-  text: what-is-ethereum-classic
-  link: /knowledge/what-is-ethereum-classic
+- key: what-is-etc
+  text: what-is-etc
+  link: /knowledge/what-is-etc
+- key: faqs
+  text: faqs
+  link: /knowledge/faqs
+- key: guides
+  text: guides
+  link: /knowledge/guides
+- key: theory
+  text: theory
+  link: /knowledge/theory
 - key: roadmap
   text: roadmap
   link: /knowledge/roadmap

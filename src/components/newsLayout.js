@@ -14,6 +14,7 @@ const menu = [
 ];
 
 const NewsLayout = ({ i18n, globals, rssLink, currentPage, children, hasItems }) => {
+  const thisItem = menu.find(i => i.key === currentPage);
   return (
     <PageLayout i18n={i18n}>
       <SubMenu items={menu} selected={currentPage} />
@@ -30,7 +31,12 @@ const NewsLayout = ({ i18n, globals, rssLink, currentPage, children, hasItems })
       )}
       <hr />
       <LocaleVisibility hide={['en']}>
-        <ButtonLink notLocalized to="/blog" text={i18n.englishItems} style={{ float: 'right' }} />
+        <ButtonLink
+          notLocalized
+          to={thisItem.to}
+          text={i18n.englishItems}
+          style={{ float: 'right' }}
+        />
       </LocaleVisibility>
       <h2>{hasItems ? i18n.latestItems : globals.noPosts}</h2>
       {children}
