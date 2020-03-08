@@ -83,3 +83,7 @@ werden, die eindeutig der Dezentralisierung zugute kommen oder die drei Schlüss
 Blockchain stärken. Die Blockchain-Revolution wird nicht zentralisiert. Lassen Sie uns dafür sorgen!
 
 **Weiter.**
+
+---
+
+Quelle: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede#.2m5ro5rr9

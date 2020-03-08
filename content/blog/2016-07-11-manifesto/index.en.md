@@ -56,3 +56,7 @@ introduce new centralization risks or strengthen existing ones should be fought.
 The blockchain revolution won’t be centralized. Let’s make sure of it.
 
 **Onward.**
+
+---
+
+Source: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede#.2m5ro5rr9
