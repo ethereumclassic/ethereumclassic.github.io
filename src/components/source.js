@@ -7,7 +7,7 @@ const Source = ({ to, text }) => {
     <span className="source">
       <Translate text="source" />
       {': '}
-      <Link to={to} text={text} />
+      <Link to={to} text={text || to} />
     </span>
   );
 };

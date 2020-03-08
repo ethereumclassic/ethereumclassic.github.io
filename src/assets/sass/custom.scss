@@ -412,6 +412,7 @@ section>p:last-child {
 .external-icon {
   margin-right: 0;
   margin-left: $microPadding;
+  display: inherit;
 }
 
 // grids
@@ -1183,6 +1184,7 @@ body.hanzi {
     border-bottom: $solidBottom;
     margin-bottom: $smallPadding;
   }
+
   .item:last-child {
     border-bottom: none;
   }
@@ -1195,6 +1197,7 @@ body.hanzi {
 table ul.icons {
   margin: 0;
 }
+
 table tr.faded {
   background: rgba(255, 27, 27, 0.1) !important;
 }

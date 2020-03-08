@@ -23,10 +23,18 @@ const Teams = ({ pageContext: { i18n } }) => {
             render: (n, { github, twitter }) => (
               <ul className="icons">
                 {twitter && (
-                  <SocialIcon to={twitter} icon="twitter" text={<Translate text="twitter" />} />
+                  <SocialIcon
+                    to={`https://twitters.com/${twitter}`}
+                    icon="twitter"
+                    text={<Translate text="twitter" />}
+                  />
                 )}
                 {github && (
-                  <SocialIcon to={github} icon="github" text={<Translate text="github" />} />
+                  <SocialIcon
+                    to={`https://github.com/${github}`}
+                    icon="github"
+                    text={<Translate text="github" />}
+                  />
                 )}
               </ul>
             )

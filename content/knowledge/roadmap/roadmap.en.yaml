@@ -1,3 +1,4 @@
+contribute: true
 title: Roadmap
 description: Project Progression
 intro: >
@@ -9,15 +10,15 @@ timeline: |
   ## ETC Timeline
 
   A brief history of the events that created and defined Ethereum Classic.
-developmentPlans: >
-  ## Development Plans for 2019-2020
+ecipsTitle: >
+  ## Final ECIPs
 
-
-  Ethereum Classic (ETC) is a blockchain and Cryptocurrency that takes digitized value further. Rather than just allowing people to send value to each other ETC allows them to create more complex contracts between each other that operate autonomously.
-
-
-  The goal of ETC contributors is to make ETC ubiquitous across the world with developers integrating ETC blockchain wherever they need. This will ultimately allow users to effortlessly experience blockchain’s benefits.
-
-
-  Please be advised that following plan is subject to change. This plan is preliminary and reflects only major steps, during the year unexpected challenges may surface, or it may pivot to a more optimal direction. Minor releases, maintenance, and experimental projects are not reflected below
+  These ECIPs (Ethereum Classic Improvement Proposals) have been accepted and have or will be implemented soon.
 helperText: Drag to progress (or hold shift and wheel)!
+name: Title
+number: Number
+author: Authors
+roadmapTitle: >
+  ## Future Roadmap 2020
+  
+  Under construction!

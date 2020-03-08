@@ -241,9 +241,9 @@
   text: A team of 7 full-time developers, committed by IOHK, starts working for
     Ethereum Classic
 - key: etcDiehardUpgrade
-  className: green
+  className: blue
   link: https://www.reddit.com/r/EthereumClassic/comments/5nt4qm/diehard_etc_protocol_upgrade_successful_nethash/
-  icon: far fa-calendar-plus
+  icon: fas fa-angle-double-up
   date: Block 3000000
   title: ETC Diehard Upgrade
   text: ETC goes through a non-contentious network upgrade, resolving critical
@@ -280,7 +280,111 @@
   text: ETC Cooperative legal entity was created Sep 2017 as LLC. Application for
     non-profit status was made May 2018 and approved Nov 2018, retroactive to
     the date of application
-- key: toBeContinued
+- 
+  key: hksummit
+  date: Nov 12 2017
+  title: ETC 2017 Summit 
+  text: Held in Hong Kong
+  icon: fas fa-users
+  className: purple
+  link: https://etcsummit.com/
+- 
+  key: era2
+  date: Block 5,000,000
+  title: Era 2 Arrives
+  text: On Dec 11 2017, ECIP-1017's 2nd Era kicked in, reducing emission by 20%
+  icon: far fa-clock
+  className: orange
+- 
+  key: ECIP1041
+  date: May 19 2018
+  title: ECIP 1041 Network Upgrade
+  text: ETC safely disabled the difficulty bomb that was put in place to switch the original Ethereum project to PoS. Ethereum Classic commits itself to PoW as it's consensus mechanism.
+  icon: fas fa-angle-double-up 
+  className: blue
+- 
+  key: etclabs
+  date: Jun 2018 
+  title: Birth of ETC Labs
+  text: ETC Labs provides funding, industry connections, and office space to burgeoning ETC projects; with office space in San Francisco and Singapore.
+  icon: fas fa-user-ninja
+  className: white
+  link: https://etclabs.org/
+- 
+  key: kotti
+  date: Sept 8 2018
+  title: Birth of the Kotti Testnet
+  text: A Proof-of-Authority (Clique) testnet constructed to provide interoperability testing with sister-chain ETH's Görli Testnet. POA becomes the preferred testnet environment for dapp development testing.
+  icon: fas fa-code-branch
+  className: blue
+- 
+  key: seoulsummit
+  date: Sept 12 2018
+  title: ETC Summit 2018 
+  text: Held in in Seoul, South Korea
+  icon: fas fa-users
+  className: purple
+  link: https://etcsummit.com/
+- 
+  key: coinbase
+  date: Oct 1 2018
+  title: Coinbase Lists Ethereum Classic
+  text: The largest cryptocurrency exchange in the USA signals long-term support for Ethereum Classic.
+  icon: fas fa-chart-line
+  className: green
+- 
+  key: etclabsincubator
+  date: Oct 25 2018
+  title: ETC Labs Incubator Program
+  text: The company’s incubator program will work with as many as 24 Ethereum Classic based startups each year
+  icon: fas fa-user-ninja
+  className: white
+- 
+  key: 51attack
+  date: Jan 2019
+  title: 51% Attack
+  link: https://medium.com/@slowmist/the-analysis-of-etc-51-attack-from-slowmist-team-728596d76ead
+  text: The Chinese blockchain security firm SlowMist sent out an alert, that the Ethereum Classic network might have been targeted by hashpower consolidation (chain reorganization).
+  icon: fas fa-unlink
+  className: red
+- 
+  key: atlantis
+  date: Sept 30 2019
+  title: Atlantis Upgrade
+  text: ECIP-1054 was implemented to enable the outstanding Ethereum Foundation Spurious Dragon and Byzantium network protocol upgrades.
+  icon: fas fa-angle-double-up 
+  className: blue
+- 
+  key: vancouversummit
+  date: Oct 3 2019
+  title: ETC Summit 2019
+  text: Held in Vancouver, Canada
+  icon: fas fa-users
+  className: purple
+  link: https://etcsummit.com/
+- 
+  key: mordor
+  date: Oct 3 2190
+  title: The birth of Mordor PoW Testnet
+  text: The retiring of old PoW testnets to clean up pre-chain split baggage.
+  icon: fas fa-code-branch
+  className: blue
+- 
+  key: agharta
+  date: Jan 12 2020
+  title: Agharta Upgrade
+  text: ECIP-1056 was implement to enable the outstanding Ethereum Foundation Constaninople and Petersburg network protocol upgrades.
+  icon: fas fa-angle-double-up 
+  className: blue
+- 
+  key: era3
+  date: Block 10,000,000
+  title: Era 3 Arrives
+  text: In March 2020, ECIP-1017's 3rd Era will kick in, reducing emission by 20%
+  icon: far fa-clock
+  className: orange
+- 
+  key: toBeContinued
   title: To Be Continued
   text: As Ethereum Classic community and its two independent dev teams start to
     focus efforts on development and applications, we look forward to ETC

@@ -1,10 +1,4 @@
 - 
-  key: Alien Farm
-  name: Alien Farm
-  link: https://alienfarm.highlander.network/
-  text: "Idle Alien Farm is the #1 Alien farming simulator and idle game on the blockchain. The more Alien you have, the more eggs they lay (each Alien lays at a rate of 1 per day). Hatch more Alien with your eggs to multiply your production, or cash them out for ETC!"
-  type: game
-- 
   key: Arena Racing
   name: Arena Racing
   link: https://arena.highlander.network/
@@ -68,7 +62,7 @@
   key: ePOC
   name: ePOC
   link: https://etc.poc35.co/
-  text: Proof-of-Stake Token on Ethereum Classic Network. This is an alternative method to the more widely known process used by bitcoin; Proof of Work (POW).
+  text: ePoC is based on a ETC smart contract run on the ethereum blockchain. It’s modeled after Powh3D
   type: finance
 - 
   key: GitCoin
@@ -93,4 +87,10 @@
   name: Portal.Network
   link: https://www.portal.network/
   text: Blockchain Name Service enables connections with IPFS hash, smart contract, and wallet address.
+  type: other
+-
+  key: XAR Network
+  title: XAR Network
+  link: https://xar.network/
+  text: Xar Network was created from a need of corporate and central banks to use blockchain technology in a private, permissioned space. As our feature set grew we noticed consistent cross-over with the decentralized finance ecosystem, so eventually the Xar toolkit grew to a full-fledged decentralized finance toolbox. Xar Network offers access to advantages of both purely traditional banking systems and blockchain systems - using blockchain based or decentralized finance (DeFi).
   type: other
