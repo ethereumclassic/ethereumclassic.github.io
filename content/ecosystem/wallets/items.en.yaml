@@ -8,7 +8,6 @@
   name: MyEtherWallet
   link: https://www.myetherwallet.com
   type: interactive
-
 - 
   key: Portis
   name: Portis
@@ -19,7 +18,6 @@
   name: Squarelink
   link: https://squarelink.com/
   type: standalone
-
 - 
   key: MetaMask
   name: MetaMask
@@ -40,11 +38,31 @@
   name: Saturn Wallet
   link: https://www.saturn.network/blog/saturn-wallet-user-manual/
   type: extension
+-
+  key: BC Vault
+  name: BC Vault
+  link: https://bc-vault.com/
+  type: software
+-
+  key: BitBox02 Multi Edition
+  name: BitBox02 Multi Edition
+  link: https://shiftcrypto.ch/bitbox02/
+  type: software
 - 
   key: Bitski
   name: Bitski
   link: https://www.bitski.com/
   type: hardware
+-
+  key: CoolWallet
+  name: CoolWallet
+  link: https://www.coolwallet.io/
+  type: software
+-
+  key: Ellipal
+  name: Ellipal
+  link: https://www.ellipal.com/
+  type: software
 - 
   key: Ledger
   name: Ledger
@@ -60,6 +78,11 @@
   name: Trezor
   link: https://trezor.io/
   type: hardware
+-
+  key: ABRA
+  name: ABRA
+  link: https://www.abra.com/
+  type: software
 - 
   key: AToken
   name: AToken
@@ -74,6 +97,11 @@
   key: Atomic Wallet
   name: Atomic Wallet
   link: https://atomicwallet.io/
+  type: software
+-
+  key: BTCPOP
+  name: BTCPOP
+  link: https://btcpop.co/
   type: software
 - 
   key: Button Wallet
@@ -120,6 +148,11 @@
   name: Ethos
   link: https://www.ethos.io/universal-wallet/
   type: software
+-
+  key: eToro Wallet
+  name: eToro Wallet
+  link: https://www.etorox.com/crypto-wallet/
+  type: software
 - 
   key: Exodus
   name: Exodus
@@ -129,6 +162,11 @@
   key: Guarda
   name: Guarda
   link: https://guarda.co/
+  type: software
+-
+  key: HubrisOne
+  name: HubrisOne
+  link: https://www.hubrisone.com/
   type: software
 - 
   key: Infinito Wallet
@@ -140,6 +178,11 @@
   name: Jaxx
   link: https://jaxx.io/
   type: software
+-
+  key: Midas Protocol
+  name: Midas Protocol
+  link: https://midasprotocol.io/
+  type: software
 - 
   key: Ownbit
   name: Ownbit
@@ -149,6 +192,11 @@
   key: Trust Wallet
   name: Trust Wallet
   link: https://trustwallet.com/
+  type: software
+-
+  key: ZenGo
+  name: ZenGo
+  link: https://zengo.com/
   type: software
 - 
   key: Zelcore Wallet
