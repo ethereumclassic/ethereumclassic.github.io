@@ -381,6 +381,12 @@ section>p:last-child {
   background: rgba(0, 0, 0, .05);
   border-bottom: 2px solid rgba(0, 0, 0, 0.1);
 
+  i.left {
+    margin-left: 0;
+  }
+  i.right {
+    margin-right: 0;
+  }
   &:hover {
     background: rgba(255, 255, 255, .3);
   }

@@ -13,8 +13,8 @@ const Clients = ({ pageContext: { i18n } }) => {
       <MultiLinkGroup
         items={i18n.yaml.items}
         buttons={[
-          { text: i18n.homepage, key: 'link' },
-          { text: i18n.releases, key: 'releaseLink' }
+          { text: i18n.homepage, key: 'link', icon: 'home' },
+          { text: i18n.releases, key: 'releaseLink', icon: 'code-branch' }
         ]}
       />
       <ButtonGroup header={html(i18n.publicEndpointsTitle)} items={i18n.yaml.publicEndpoints} />

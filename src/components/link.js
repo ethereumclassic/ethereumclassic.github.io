@@ -18,7 +18,7 @@ const Link = ({ to, text, children, icon, fullIcon, ...props }) => {
   const content = (
     <>
       {text || children}
-      {iconText && <i className={iconText} />}
+      {iconText && <i className={`${iconText} right`} />}
     </>
   );
   if (isHash(to)) {

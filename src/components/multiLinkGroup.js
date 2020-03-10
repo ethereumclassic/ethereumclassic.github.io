@@ -10,7 +10,8 @@ const MultiLinkGroup = ({ items, header, buttons }) => {
         <div key={item.key} className="item">
           <div className="right-buttons">
             {buttons.map(
-              ({ text, key }) => item[key] && <ButtonLink key={key} text={text} to={item[key]} />
+              ({ text, key, icon }) =>
+                item[key] && <ButtonLink key={key} text={text} to={item[key]} icon={icon} />
             )}
           </div>
           <h3>{item.name}</h3>
