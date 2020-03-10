@@ -1,7 +1,10 @@
 title: Apps and Protocols
 contribute: true
 disclaimer: true
-# types
+intro: |
+  # Apps and Protocols
+
+  Text here
 game: Game
 identity: Identity
 interoperabiltiy: Interoperability

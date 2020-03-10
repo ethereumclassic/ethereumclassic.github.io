@@ -11,7 +11,6 @@ const Exchanges = ({ pageContext: { i18n } }) => {
   const items = groupItems(i18n.yaml.items);
   return (
     <SubPageLayout i18n={i18n}>
-      {html(i18n.intro)}
       {html(i18n.browserWallets)}
       <ButtonGroup header={html(i18n.interactiveWallets)} items={items.interactive} />
       <ButtonGroup header={html(i18n.standaloneWallets)} items={items.standalone} />

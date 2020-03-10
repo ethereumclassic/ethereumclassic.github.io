@@ -4,10 +4,18 @@ import BackButton from './backButton';
 import PageLayout from './pageLayout';
 import SubMenu from './subMenu';
 
+import html from '../i18n/html';
+
+function contain(element, wide) {
+  return wide ? <section>{element}</section> : element;
+}
+
 const SubPageLayout = ({ children, ...props }) => {
-  const {
-    i18n: { menu, globals = {} }
-  } = props;
+  const { i18n } = props;
+  const { yaml = {} } = i18n;
+  const isParent = yaml.menu;
+  const menu = i18n.menu || yaml.menu;
+  const globals = i18n.globals || yaml.globals;
   const { backLinkTo, sectionTitle, backLinkText } = globals;
   const { wide } = props;
   const layoutLink = backLinkTo && {
@@ -15,18 +23,19 @@ const SubPageLayout = ({ children, ...props }) => {
     text: sectionTitle
   };
   const backLink = backLinkTo && <BackButton text={backLinkText || sectionTitle} to={backLinkTo} />;
-  const footer = (
-    <>
-      {(menu || backLinkTo) && <hr />}
-      {menu && <SubMenu items={menu} />}
-      {backLink}
-    </>
-  );
   return (
     <PageLayout {...props} link={layoutLink}>
-      {/* {wide ? <section>{backLink}</section> : backLink} */}
+      {isParent ? 'TOP' : 'SUB'}
+      {i18n.intro && contain(html(i18n.intro), wide)}
       {children}
-      {wide ? <section>{footer}</section> : footer}
+      {contain(
+        <>
+          {!isParent && (menu || backLinkTo) && <hr />}
+          {menu && <SubMenu items={menu} />}
+          {!isParent && backLink}
+        </>,
+        wide
+      )}
     </PageLayout>
   );
 };

@@ -9,9 +9,6 @@ const Apps = ({ pageContext: { i18n } }) => {
   const items = sortBy('name', i18n.yaml.items);
   return (
     <SubPageLayout wide i18n={i18n}>
-      <section>
-        <h1>{i18n.title}</h1>
-      </section>
       <ColorGrid i18n={i18n} items={items} />
     </SubPageLayout>
   );

@@ -9,7 +9,6 @@ import Translate from '~components/translate';
 const Teams = ({ pageContext: { i18n } }) => {
   return (
     <SubPageLayout i18n={i18n}>
-      {html(i18n.intro)}
       <ItemTable
         header={html(i18n.teamsTitle)}
         items={i18n.yaml.items}

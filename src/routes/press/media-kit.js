@@ -9,7 +9,6 @@ import ButtonLink from '~components/buttonLink';
 const Roadmap = ({ pageContext: { i18n } }) => {
   return (
     <SubPageLayout i18n={i18n}>
-      {html(i18n.intro)}
       <ButtonLink
         to="https://github.com/ethereumclassic/Media_Kit#media-kit"
         icon="pencil-alt"

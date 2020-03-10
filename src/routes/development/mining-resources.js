@@ -7,11 +7,10 @@ import Source from '~components/source';
 import ButtonGroup from '~components/buttonGroup';
 import ItemTable from '~components/itemTable';
 
-const Teams = ({ pageContext: { i18n } }) => {
+const MiningResources = ({ pageContext: { i18n } }) => {
   const top5 = i18n.yaml.pools.filter(p => p.rank).sort((a, b) => a.rank - b.rank);
   return (
     <SubPageLayout i18n={i18n}>
-      <h1>{i18n.title}</h1>
       <ItemTable
         header={html(i18n.softwareTitle)}
         items={i18n.yaml.software}
@@ -31,4 +30,4 @@ const Teams = ({ pageContext: { i18n } }) => {
   );
 };
 
-export default Teams;
+export default MiningResources;

@@ -13,10 +13,7 @@ import Link from '~components/link';
 const Roadmap = ({ pageContext: { i18n } }) => {
   return (
     <SubPageLayout i18n={i18n} wide>
-      <section>
-        {html(i18n.intro)}
-        {html(i18n.timeline)}
-      </section>
+      <section>{html(i18n.timeline)}</section>
       <Timeline i18n={i18n} items={i18n.yaml.timeline} />
       <section>
         <ItemTable

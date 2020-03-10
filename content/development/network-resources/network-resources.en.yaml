@@ -16,6 +16,10 @@ miningAlgorithm: Mining Algorithm
 conensusAlgorithm: Conensus Algorithm
 networkID: Network ID
 chainID: Chain ID
+intro: |
+  # Network Resources
+  
+  TODO text
 clients: | 
   ## Clients
 

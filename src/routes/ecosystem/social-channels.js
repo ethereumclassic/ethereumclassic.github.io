@@ -10,7 +10,6 @@ const SocialChannels = ({ pageContext: { i18n } }) => {
   const items = groupItems(i18n.yaml.items);
   return (
     <SubPageLayout i18n={i18n}>
-      {html(i18n.intro)}
       <ButtonGroup header={html(i18n.chatIntro)} items={items.chat} />
       <ButtonGroup header={html(i18n.telegramIntro)} items={items.telegram} />
       <ButtonGroup header={html(i18n.forumIntro)} items={items.forum} />

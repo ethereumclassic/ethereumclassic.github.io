@@ -7,10 +7,9 @@ import Source from '~components/source';
 import ItemTable from '~components/itemTable';
 import ButtonGroup from '~components/buttonGroup';
 
-const Teams = ({ pageContext: { i18n } }) => {
+const NetworkResources = ({ pageContext: { i18n } }) => {
   return (
     <SubPageLayout i18n={i18n}>
-      <h1>{i18n.title}</h1>
       {html(i18n.clients)}
       <ItemTable
         header={html(i18n.chainsTitle)}
@@ -68,4 +67,4 @@ const Teams = ({ pageContext: { i18n } }) => {
   );
 };
 
-export default Teams;
+export default NetworkResources;
