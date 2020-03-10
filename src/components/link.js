@@ -17,7 +17,7 @@ const Link = ({ to, text, children, icon, fullIcon, ...props }) => {
   const iconText = fullIcon || (icon ? `fas fa-${icon}` : null);
   const content = (
     <>
-      {text || children}
+      {text || children || to}
       {iconText && <i className={`${iconText} right`} />}
     </>
   );

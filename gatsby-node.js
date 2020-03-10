@@ -14,6 +14,10 @@ const defaultTemplate = require.resolve('./src/layouts/defaultItem.js');
 
 const rootContent = '/';
 
+function isLink(str) {
+  return str.startsWith('http://') || str.startsWith('https://');
+}
+
 async function processYamlMarkdown(obj) {
   // handle arrays
   if (Array.isArray(obj)) {
@@ -22,8 +26,8 @@ async function processYamlMarkdown(obj) {
   const transformed = {};
   await Promise.all(
     Object.keys(obj).map(async key => {
-      // only transform strings
-      if (typeof obj[key] !== 'string') {
+      // only transform strings that are not links
+      if (typeof obj[key] !== 'string' || key === 'link' || isLink(obj[key])) {
         transformed[key] = obj[key];
         return;
       }
