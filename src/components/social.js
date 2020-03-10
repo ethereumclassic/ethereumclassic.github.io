@@ -9,6 +9,7 @@ const Social = () => {
         <>
           <h3>{t.socialTitle}</h3>
           <ul className="icons">
+            <SocialIcon to="https://github.com/ethereumclassic/" icon="github" text={t.github} />
             <SocialIcon
               to="https://discordapp.com/invite/HW4GckH"
               icon="discord"

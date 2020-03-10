@@ -4,7 +4,7 @@ date: 2017-12-20
 author: Christian Seberino
 ---
 
-![](./0*S4o61tqy6dzM-ntU.png)
+![](./0S4o61tqy6dzM-ntU.png)
 
 A talented developer referred to as Dexaran funded and formed the Ethereum
 Commonwealth, the third Ethereum Classic (ETC) development team. Dexaran has
@@ -140,11 +140,11 @@ need an ICO to fund my own team?
 
 You can contact me by clicking any of these icons:
 
-![](./0*eoFC6QOWZ--bCngK.png)
+![](./0eoFC6QOWZ--bCngK.png)
 
-![](./0*i3CwTFEKUnKYHMf0.png)
+![](./0i3CwTFEKUnKYHMf0.png)
 
-![](./0*HQj6HSHxE7pkIBjk.png)
+![](./0HQj6HSHxE7pkIBjk.png)
 
 ## Acknowledgements
 
@@ -152,7 +152,7 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 ## License
 
-![](./0*hocpUZXBcjzNJeQ2.png)
+![](./0hocpUZXBcjzNJeQ2.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0
 International License.

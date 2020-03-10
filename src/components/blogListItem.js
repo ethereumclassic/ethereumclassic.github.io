@@ -8,7 +8,7 @@ const BlogListItem = ({ post, i18n }) => {
     <div key={`${post.frontmatter.title}-${post.fields.locale}`} className="blog-item">
       <h4>
         <Translate date={post.frontmatter.date} />
-        <small>{` ${post.frontmatter.author}`}</small>
+        <small>{` ${post.frontmatter.author || ''}`}</small>
       </h4>
       <h3>
         <Link to={`/${post.parent.relativeDirectory}`}>{post.frontmatter.title}</Link>

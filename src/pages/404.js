@@ -60,13 +60,15 @@ const NotFound = () => {
               .split('/')
               .slice(0, -1)
               .join('/');
+            const title = `404 ${globals.notFound} - ${globals.title}`;
 
             return (
               <>
-                <SEO title={globals.notFound} />
+                <SEO title={title} />
                 <Redirect to={parentPath} />
                 <div className="four-oh-four">
                   <img src={logo} alt={globals.title} />
+                  <h2>404</h2>
                   <h1>{globals.notFoundText}</h1>
                   <BackButton text={globals.goBack} automatic />
                   <ButtonLink to={homePath} text={globals.navHome} />

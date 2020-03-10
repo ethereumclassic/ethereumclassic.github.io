@@ -1,0 +1,38 @@
+title: Network Resources
+description: TODO
+license: CC-BY
+contribute: true
+mainnet: Mainnet
+testnet: Testnet
+experimental: Experimental
+kotti: Kotti
+mordor: Mordor
+astor: Astor
+pow: Proof of Work (PoW)
+poa: Proof of Authority (PoA)
+name: Name
+type: Type
+miningAlgorithm: Mining Algorithm
+conensusAlgorithm: Conensus Algorithm
+networkID: Network ID
+chainID: Chain ID
+clients: | 
+  ## Clients
+
+  For more information on the various ETC clients, check out the [clients](/development/clients) page.
+chainsTitle: |
+  > ## ETC Virtual Machine Chains
+explorersTitle: | 
+  ## Blockchain Explorers
+
+  Decription goes here
+monitorsTitle: | 
+  > ## Network Monitors
+faucetsTitle: | 
+  ## Faucets
+
+  Services that allow you to get small amounts of free testnet ETC to make test transactions.
+gasFeeTitle: | 
+  ## Gas Fee Estimators
+
+  These services help you find out the best gas price to ensure your transactions get mined quickly and cheaply.

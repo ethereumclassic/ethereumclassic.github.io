@@ -29,7 +29,7 @@ const SEO = ({ title, description, article, image }) => {
               const { globals } = React.useContext(LocaleContext);
               // prevent 404 from erroring
               if (!globals) {
-                return null;
+                return <Helmet title={title} />;
               }
               // resolved SEO params
               const seo = {

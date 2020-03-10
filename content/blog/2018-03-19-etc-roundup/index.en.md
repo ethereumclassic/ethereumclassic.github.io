@@ -6,7 +6,7 @@ author: Anthony Lusardi (pyskell)
 
 [Read this article on Medium (looks nicer)](https://medium.com/@pyskell/etc-roundup-what-happened-last-week-3-19-18-d49b6ef1add0)
 
-![](./1*2URMYC6d8bxqecXeIdAO1Q.png)
+![](./12URMYC6d8bxqecXeIdAO1Q.png)
 <span class="figcaption_hack">[via
 Reddit](https://www.reddit.com/r/EthereumClassic/comments/85avyn/metallic_butts_presents_its_showtime_you_love/)</span>
 

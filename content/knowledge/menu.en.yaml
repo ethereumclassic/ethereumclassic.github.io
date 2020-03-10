@@ -1,0 +1,15 @@
+- key: what-is-etc
+  text: what-is-etc
+  link: /knowledge/what-is-etc
+- key: faqs
+  text: faqs
+  link: /knowledge/faqs
+- key: guides
+  text: guides
+  link: /knowledge/guides
+- key: theory
+  text: theory
+  link: /knowledge/theory
+- key: roadmap
+  text: roadmap
+  link: /knowledge/roadmap

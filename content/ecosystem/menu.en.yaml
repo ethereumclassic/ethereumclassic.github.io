@@ -1,0 +1,12 @@
+- key: apps-and-protocols
+  text: apps-and-protocols
+  link: /ecosystem/apps-and-protocols
+- key: exchanges
+  text: exchanges
+  link: /ecosystem/exchanges
+- key: wallets
+  text: wallets
+  link: /ecosystem/wallets
+- key: social
+  text: social-channels
+  link: /ecosystem/social-channels

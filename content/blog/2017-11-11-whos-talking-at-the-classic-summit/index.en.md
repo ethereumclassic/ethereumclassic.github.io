@@ -4,7 +4,7 @@ date: 2017-11-11
 author: pyskell (Anthony)
 ---
 
-![](./1*3vCbXK5glCCkbEM0_XDfog.png)
+![](./13vCbXK5glCCkbEM0_XDfog.png)
 
 First, a disclaimer, despite what you may think I have no inside information,
 and honestly prefer the lack of hype to major hype. Major hype is unstable. So

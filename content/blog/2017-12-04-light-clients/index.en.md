@@ -4,7 +4,7 @@ date: 2017-12-04
 author: Christian Seberino
 ---
 
-![](./1*bBFtK4oTT_hW4aHVgagEFA.jpeg)
+![](./1bBFtK4oTT_hW4aHVgagEFA.jpeg)
 
 Ethereum Classic (ETC) light clients are clients that do not maintain a copy of
 the entire ETC blockchain. I will explain how they can nevertheless *securely*
@@ -12,7 +12,7 @@ operate.
 
 ### Honest Nodes
 
-![](./1*jtSm5pPSu1JNtsx92ifafA.jpeg)
+![](./1jtSm5pPSu1JNtsx92ifafA.jpeg)
 
 Light clients obtain blockchain information by communicating with network nodes.
 It is possible that malicious network nodes may censor blocks on the longest
@@ -44,7 +44,7 @@ connect to. (This list can also be found
 
 ### Block Headers
 
-![](./1*2n8q1uCK49r8m3EhPIwzJA.png)
+![](./12n8q1uCK49r8m3EhPIwzJA.png)
 
 Hashes are fixed length strings that can *guarantee* the integrity of all
 information. Merkle trees are trees of hashes that can minimize the necessary
@@ -57,7 +57,7 @@ the block headers of the blockchain.
 
 ### Hash Checks
 
-![](./1*tbkDlJPinMH82TWcOduFrg.jpeg)
+![](./1tbkDlJPinMH82TWcOduFrg.jpeg)
 
 To be sure a light client is connected to the ETC network, confirm the first
 block (genesis block) of the blockchain is associated with the following hash:
@@ -73,7 +73,7 @@ blockchain.
 
 ### Node Incentives
 
-![](./1*L4dVB-TkxXZVoaBmJjq7mQ.jpeg)
+![](./1L4dVB-TkxXZVoaBmJjq7mQ.jpeg)
 
 Some think the need for light clients to request state and transaction
 information from network nodes might be a vulnerability. The concern is that
@@ -85,7 +85,7 @@ support light clients to increase the number of potential customers.
 
 ### Conclusion
 
-![](./1*zSexw_YUBD4lBYjBm0GYbA.jpeg)
+![](./1zSexw_YUBD4lBYjBm0GYbA.jpeg)
 
 It is amazing that a protocol exists for even tiny embedded devices to securely
 utilize the ETC system. By connecting to honest nodes, only storing block
@@ -96,11 +96,11 @@ the ETC world computer.
 
 You can contact me by clicking any of these icons:
 
-![](./0*eoFC6QOWZ--bCngK.png)
+![](./0eoFC6QOWZ--bCngK.png)
 
-![](./0*i3CwTFEKUnKYHMf0.png)
+![](./0i3CwTFEKUnKYHMf0.png)
 
-![](./0*HQj6HSHxE7pkIBjk.png)
+![](./0HQj6HSHxE7pkIBjk.png)
 
 ## Acknowledgements
 
@@ -108,7 +108,7 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 ## License
 
-![](./0*hocpUZXBcjzNJeQ2.png)
+![](./0hocpUZXBcjzNJeQ2.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0
 International License.

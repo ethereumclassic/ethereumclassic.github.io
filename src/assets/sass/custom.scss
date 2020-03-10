@@ -2,7 +2,7 @@
 // TODO refactor
 
 $softShadow: 0 0.5rem 1rem rgba(0, 0, 0, .1);
-$solidBottom: 2px solid rgba(0, 0, 0, .2);
+$solidBottom: 2px solid rgba(0, 0, 0, .1);
 
 $maxPageWidth: 55rem;
 $maxWideSectionWidth: $maxPageWidth+30rem;
@@ -13,6 +13,12 @@ $smallPadding: $largePadding / 2;
 $tinyPadding: $smallPadding / 2;
 $microPadding: $tinyPadding / 2;
 $nanoPadding: $microPadding / 2;
+
+$grid-color-1:#1BE7FF;
+$grid-color-2:#6EEB83;
+$grid-color-3:#E4FF1A;
+$grid-color-4:#E8AA14;
+$grid-color-5:#FF5714;
 
 /* GLOBAL STYLES */
 
@@ -403,6 +409,12 @@ section>p:last-child {
   }
 }
 
+.external-icon {
+  margin-right: 0;
+  margin-left: $microPadding;
+  display: inherit;
+}
+
 // grids
 
 .grid {
@@ -479,6 +491,26 @@ section>p:last-child {
     background: _palette(red-col);
   }
 
+  &.grid-color-1 h4 {
+    background: $grid-color-1;
+  }
+
+  &.grid-color-2 h4 {
+    background: $grid-color-2;
+  }
+
+  &.grid-color-3 h4 {
+    background: $grid-color-3;
+  }
+
+  &.grid-color-4 h4 {
+    background: $grid-color-4;
+  }
+
+  &.grid-color-5 h4 {
+    background: $grid-color-5;
+  }
+
   .content {
     padding: 0 $smallPadding;
   }
@@ -502,6 +534,26 @@ a.card {
 
   &.red:hover {
     background: _palette(red-col);
+  }
+
+  &.grid-color-1:hover {
+    background: $grid-color-1;
+  }
+
+  &.grid-color-2:hover {
+    background: $grid-color-2;
+  }
+
+  &.grid-color-3:hover {
+    background: $grid-color-3;
+  }
+
+  &.grid-color-4:hover {
+    background: $grid-color-4;
+  }
+
+  &.grid-color-5:hover {
+    background: $grid-color-5;
   }
 }
 
@@ -729,6 +781,28 @@ a.card {
     &.red {
       background: _palette(red-col);
     }
+
+    &.grid-color-1 {
+      background: $grid-color-1;
+    }
+
+    &.grid-color-2 {
+      background: $grid-color-2;
+    }
+
+    &.grid-color-3 {
+      background: $grid-color-3;
+    }
+
+    &.grid-color-4 {
+      background: $grid-color-4;
+    }
+
+    &.grid-color-5 {
+      background: $grid-color-5;
+    }
+
+
   }
 }
 
@@ -775,9 +849,13 @@ a.card {
     padding: $tinyPadding;
     display: block;
     border-bottom: none;
-    p { margin: 0; }
+
+    p {
+      margin: 0;
+    }
+
     &:hover {
-      background: rgba(0,0,0,0.05);
+      background: rgba(0, 0, 0, 0.05);
     }
   }
 }
@@ -1085,9 +1163,12 @@ body.hanzi {
 
   img {
     max-width: 3rem;
-    margin: $smallPadding;
+    margin: $tinyPadding;
   }
 
+  h2 {
+    margin: $tinyPadding;
+  }
 }
 
 .link-group {
@@ -1096,4 +1177,34 @@ body.hanzi {
   h5 {
     margin-top: 0;
   }
+}
+
+.info-buttons-group {
+  .item {
+    border-bottom: $solidBottom;
+    margin-bottom: $smallPadding;
+  }
+
+  .item:last-child {
+    border-bottom: none;
+  }
+
+  .right-buttons {
+    float: right;
+  }
+}
+
+table ul.icons {
+  margin: 0;
+}
+
+table tr.faded {
+  background: rgba(255, 27, 27, 0.1) !important;
+}
+
+.showcase {
+  background: #eee;
+  box-shadow: 0 $tinyPadding $smallPadding rgba(0,0,0,.2);
+  padding: $smallPadding;
+  border-radius: $smallPadding;
 }

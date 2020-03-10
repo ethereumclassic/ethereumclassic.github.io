@@ -6,7 +6,7 @@ author: Christian Seberino
 
 *In a parallel universe near you…*
 
-![](./1*-P6CLWuMfa0W6Evt0CZt8w.png)
+![](./1-P6CLWuMfa0W6Evt0CZt8w.png)
 
 “IT’S JUST NOT FAIR!” shouted Gully Bull into his microphone so loud his voice
 thundered over the audience. Bull is the car delivery business owner and
@@ -72,11 +72,11 @@ THE HYPE!
 
 You can contact me by clicking any of these icons:
 
-![](./0*eoFC6QOWZ--bCngK.png)
+![](./0eoFC6QOWZ--bCngK.png)
 
-![](./0*i3CwTFEKUnKYHMf0.png)
+![](./0i3CwTFEKUnKYHMf0.png)
 
-![](./0*HQj6HSHxE7pkIBjk.png)
+![](./0HQj6HSHxE7pkIBjk.png)
 
 ## Acknowledgements
 
@@ -84,7 +84,7 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 ## License
 
-![](./0*hocpUZXBcjzNJeQ2.png)
+![](./0hocpUZXBcjzNJeQ2.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0
 International License. 

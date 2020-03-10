@@ -4,7 +4,7 @@ date: 2018-02-14
 author: Christian Seberino
 ---
 
-![](./1*CYyZuQxE6Lr-ZAy38ko4_A.png)
+![](./1CYyZuQxE6Lr-ZAy38ko4_A.png)
 
 Multisig smart contracts will likely be the dominant smart contract type in the
 future. The security and other benefits are that compelling. I will describe
@@ -12,7 +12,7 @@ these smart contract types and scenarios where they are useful.
 
 ### Introduction
 
-![](./1*oX0q7vbNdxXGyEyI0yZXnA.png)
+![](./1oX0q7vbNdxXGyEyI0yZXnA.png)
 
 Malware, keyboard loggers and “man in the middle attacks” are just some of the
 ways passwords can be stolen. Therefore, many use multifactor authentication to
@@ -27,7 +27,7 @@ contracts.
 
 ### 2 Of 3 Applications
 
-![](./1*yHIqkLGQ-dazb0CY4r7ZtA.jpeg)
+![](./1yHIqkLGQ-dazb0CY4r7ZtA.jpeg)
 
 One of the most common types of multisig smart contracts requires digital
 signatures from any two of three accounts. Here are some applications where this
@@ -55,7 +55,7 @@ third associated account in a secured paper wallet.
 
 ### Additional Applications
 
-![](./1*uqNXB8gnOh2aaiBjJeCAtg.jpeg)
+![](./1uqNXB8gnOh2aaiBjJeCAtg.jpeg)
 
 Here are two more multisig smart contract types and applications:
 
@@ -69,7 +69,7 @@ accounts. This would implement a unanimity rule arrangement.
 
 ### Standardization
 
-![](./1*84KMpEfHWiGPjtjENCEPbw.jpeg)
+![](./184KMpEfHWiGPjtjENCEPbw.jpeg)
 
 There are currently no ETC multisig smart contract standards. However, open
 source templates are available such as from the
@@ -77,7 +77,7 @@ source templates are available such as from the
 
 ### Conclusion
 
-![](./1*iVpjxgqhApIAgG9FuVUD5Q.jpeg)
+![](./1iVpjxgqhApIAgG9FuVUD5Q.jpeg)
 
 There are several common scenarios where multisig smart contracts are useful and
 significantly increase security. Therefore, it is likely they will take over ETC
@@ -87,11 +87,11 @@ and the world.
 
 You can contact me by clicking any of these icons:
 
-![](./0*eoFC6QOWZ--bCngK.png)
+![](./0eoFC6QOWZ--bCngK.png)
 
-![](./0*i3CwTFEKUnKYHMf0.png)
+![](./0i3CwTFEKUnKYHMf0.png)
 
-![](./0*HQj6HSHxE7pkIBjk.png)
+![](./0HQj6HSHxE7pkIBjk.png)
 
 ### Acknowledgements
 
@@ -99,7 +99,7 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 ### License
 
-![](./0*hocpUZXBcjzNJeQ2.png)
+![](./0hocpUZXBcjzNJeQ2.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0<br/>
 International License.

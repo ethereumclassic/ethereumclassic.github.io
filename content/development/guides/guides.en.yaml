@@ -1,0 +1,17 @@
+title: Development Guides
+contribute: true
+disclaimer: true
+description: Get started with Ethereum Classic development by following development tutorials
+intro: |
+  # Development Guides
+
+  This section section a selection of tutorials and explainers for both beginners and advanced developers.
+
+tutorialsIntro: |
+  ## Getting Started
+
+  Here is a non-exhaustive list of some helpful tutorials and walkthroughs to get your starting with Ethereum Classic development.
+advancedIntro: |
+  ## Advanced Concepts
+
+  Blah blah blah
