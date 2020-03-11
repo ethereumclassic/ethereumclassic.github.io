@@ -7,14 +7,15 @@ import PageLayout from '~components/pageLayout';
 import SubMenu from '~components/subMenu';
 
 // TODO convert to i18n and use currentpage
-const menu = [
+const tempMenu = [
   { key: 'news', to: '/news', text: 'All News' },
   { key: 'blog', to: '/blog', text: 'Blog Articles' },
   { key: 'media', to: '/news/media', text: 'Meida Links' }
 ];
 
 const NewsLayout = ({ i18n, globals, rssLink, currentPage, children, hasItems }) => {
-  const thisItem = menu.find(i => i.key === currentPage);
+  const menu = tempMenu.map(i => ({ ...i, selected: i.key === currentPage }));
+  const thisItem = menu.find(i => i.selected);
   return (
     <PageLayout i18n={i18n}>
       <SubMenu items={menu} selected={currentPage} />

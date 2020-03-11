@@ -82,7 +82,7 @@ function parsePath(str) {
   const i18nKey = tree.slice(0, -1).join('/') || rootContent;
   const isGlobal = tree[0] === 'globals';
   const localSlug = localizePath(locale, i18nKey);
-  return {
+  const info = {
     i18nKey,
     localSlug,
     relativePath,
@@ -96,6 +96,7 @@ function parsePath(str) {
     ext,
     parent
   };
+  return info;
 }
 
 function mergeTranslations(defaults = {}, translation = {}) {
@@ -234,12 +235,11 @@ function getChildLocales(name, locale, parent, tree) {
   const defaultLocales = parentLocales[defaultLocale] || {};
   const merged = mergeTranslations(defaultLocales.yaml, myLocale.yaml);
   return {
-    menu: merged.menu,
+    menu: merged.menu && merged.menu.map((n, i) => ({ ...n, i, selected: name === n.key })),
     globals: merged.globals,
     [name]: merged[name]
   };
 }
-
 function getGlobals(locale, tree) {
   const myLocale = tree[rootContent][locale] || { yaml: { globals: {} } };
   return {
@@ -299,6 +299,7 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
               parent
               i18nKey
               localSlug
+              slug
               name
             }
             fileAbsolutePath
@@ -372,7 +373,7 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
   );
   // generated sub-pages (markdown files like blog)
   children.edges.forEach(({ node: post }) => {
-    const { name, locale, parent, localSlug } = post.fields;
+    const { locale, parent, localSlug, slug } = post.fields;
     // use this parent template if it exists, otherwise fallback to parent template
     const templatePath = path.resolve(`./src/layouts/${parent}Item.js`);
     const component = fs.existsSync(templatePath) ? require.resolve(templatePath) : defaultTemplate;
@@ -381,7 +382,7 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
       component,
       context: {
         locale,
-        i18n: getChildLocales(name, locale, parent, translationsTree),
+        i18n: getChildLocales(slug, locale, parent, translationsTree),
         globals: getGlobals(locale, translationsTree),
         parent,
         title: post.frontmatter.title

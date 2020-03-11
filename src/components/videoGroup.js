@@ -10,8 +10,8 @@ const VideoGroup = ({ title, items, header }) => {
     <div className="video-group">
       {title && <h3>{title}</h3>}
       {header}
-      {items.map(({ name, text, link, youtube, timestamp }) => (
-        <div className="video-item">
+      {items.map(({ key, name, text, link, youtube, timestamp }) => (
+        <div key={key} className="video-item">
           <h4>{name}</h4>
           {text && <p>{html(text)}</p>}
           <VideoFrame title={name} youtube={youtube} timestamp={timestamp} />

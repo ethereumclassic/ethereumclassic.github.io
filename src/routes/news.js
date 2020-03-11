@@ -24,7 +24,7 @@ const News = ({ data: { allMdx }, pageContext: { i18n, globals } }) => {
         i.isBlog ? (
           <BlogListItem i18n={globals} post={i.node} key={i.node.parent.relativeDirectory} />
         ) : (
-          <MediaListItem {...i} />
+          <MediaListItem {...i} key={i.key} />
         )
       )}
     </NewsLayout>
