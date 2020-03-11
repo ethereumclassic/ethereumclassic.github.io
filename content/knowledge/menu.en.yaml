@@ -1,15 +1,30 @@
 - key: what-is-etc
-  text: what-is-etc
+  name: What is ETC?
   link: /knowledge/what-is-etc
+  shortText: The basics of Ethereum Classic
+  text: If you are new to Ethereum Classic, and/or blockhains in general, this beginner's introduction will help you get up to speed.
 - key: faqs
-  text: faqs
+  name: FAQs
   link: /knowledge/faqs
+  shortText: Frequently Asked Questions
+  text: This section covers common questions about Ethereum Classic with answers and video explainers.
 - key: guides
-  text: guides
+  name: Guides
+  shortText: User Guides and Tutorials
+  text: Want to learn how to use a Wallet, Set up a Node, or make transactions with ETC? Here is the place to go.
   link: /knowledge/guides
 - key: theory
-  text: theory
+  name: Theory
+  shortText: Principles and Philosophy
+  text: If you want to understand the motivations behind ETC, this section contains resources that will help you understand what ETC is all about.
   link: /knowledge/theory
 - key: roadmap
-  text: roadmap
+  name: Roadmap
+  shortText: History and Future Development
+  text: This section documents Ethereum Classic's colourful history and takes a look at the next stages of it's development.
   link: /knowledge/roadmap
+-
+  key: ecosystem
+  name: Ecosystem
+  link: /ecosystem
+  hidden: true

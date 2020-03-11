@@ -1,6 +1,6 @@
 - key: conferences
-  text: Conferences
+  name: Conferences
   link: /press/conferences
 - key: media-kit
-  text: media-kit
+  name: media-kit
   link: /press/media-kit

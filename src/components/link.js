@@ -13,7 +13,7 @@ function isInternal(str) {
 // list of classes that never show the external link icon
 const externalIconBlacklist = ['gatsby-resp-image-link', 'card', 'button-link'];
 
-const Link = ({ to, text, children, icon, next, back, fullIcon, ...props }) => {
+const Link = ({ to, text, children, icon, next, back, fullIcon, as, ...props }) => {
   const actualIcon = icon || (back && 'angle-left') || (next && 'angle-right');
   const iconText = fullIcon || (actualIcon ? `fas fa-${actualIcon}` : null);
   const content = (

@@ -1,12 +1,29 @@
-- key: apps-and-protocols
-  text: apps-and-protocols
+- 
+  key: apps-and-protocols
+  name: Apps and Protocols
+  shortText: State of the ETC Dapps
+  text: Browse some of the decentralised applications launched on Ethereum Classic
   link: /ecosystem/apps-and-protocols
-- key: exchanges
-  text: exchanges
+- 
+  key: exchanges
+  name: Exchanges
+  shortText: Where to buy and trade
+  text: ETC is one of the most widely available cryptocurrencies and it's highly liquid. Buy a piece of the future today on one of the many marketplaces listed here.
   link: /ecosystem/exchanges
-- key: wallets
-  text: wallets
+- 
+  key: wallets
+  name: Wallets
+  shortText: Keep your ETC safe
+  text: Once you've got some ETC, it's a good idea to move it off an exchange and keep it in a wallet that you control. This page contains a selection of supported wallets.
   link: /ecosystem/wallets
-- key: social-channels
-  text: social-channels
+- 
+  key: social-channels
+  name: Social Channels
+  shortText: Meet fellow participants
+  text: As there's nothing official in ETC land, individuals regularly communicate through a variety of different channels to discuss everything related to ETC. Join us!
   link: /ecosystem/social-channels
+-
+  key: development
+  name: Development
+  link: /development
+  hidden: true

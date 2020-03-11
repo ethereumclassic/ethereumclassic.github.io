@@ -14,8 +14,11 @@ const Roadmap = ({ pageContext: { i18n } }) => {
         icon="pencil-alt"
         text={i18n.mediaKit}
       />
-      {html(i18n.svgsIntro)}
-      <Logos />
+      <hr />
+      <section>
+        {html(i18n.svgsIntro)}
+        <Logos />
+      </section>
     </SubPageLayout>
   );
 };

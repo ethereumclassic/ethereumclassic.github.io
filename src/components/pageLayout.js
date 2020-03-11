@@ -18,14 +18,14 @@ const PageLayout = ({ children, footer, header, i18n, link, wide }) => {
         <div className="layout-container">
           <div className="layout-content">
             {(i18n.disclaimer || header) && (
-              <section className="contained">
+              <section className="layout-header">
                 {header}
                 <LayoutHeader i18n={i18n} />
               </section>
             )}
             {children}
             {(footer || i18n.license || i18n.contribute) && (
-              <section className="contained">
+              <section className="layout-footer">
                 <LayoutFooter i18n={i18n} />
                 {footer}
               </section>

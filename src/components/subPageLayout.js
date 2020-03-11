@@ -7,6 +7,26 @@ import SubMenu from './subMenu';
 import html from '../i18n/html';
 import ButtonLink from './buttonLink';
 import Grid from './grid';
+import Translate from './translate';
+
+// TODO seriously refactor this
+
+function renderPagination({ previousLink, nextLink, nextText, className }) {
+  return (
+    <Grid className={`pagination ${className || ''}`}>
+      <div>{previousLink}</div>
+      <div className="text-right">
+        {nextLink && nextText && (
+          <small>
+            <Translate text="continueReading" />
+            {': '}
+          </small>
+        )}
+        {nextLink}
+      </div>
+    </Grid>
+  );
+}
 
 const SubPageLayout = ({ children, ...props }) => {
   const { i18n } = props;
@@ -19,33 +39,40 @@ const SubPageLayout = ({ children, ...props }) => {
     to: backLinkTo,
     text: sectionTitle
   };
+  const showPagination = !globals.hideNavigation && !isParent;
   const selectedItem = menu.find(i => i.selected);
   const nextItem = selectedItem ? menu[selectedItem.i + 1] : menu[0];
   const previousItem = selectedItem && menu[selectedItem.i - 1];
-  const nextLink = nextItem && <ButtonLink to={nextItem.link} text={nextItem.text} next />;
+  const nextLink = nextItem && <ButtonLink to={nextItem.link} text={nextItem.name} next />;
   const previousLink = previousItem && (
-    <ButtonLink to={previousItem.link} text={previousItem.text} back />
+    <ButtonLink to={previousItem.link} text={previousItem.name} back />
   );
-  const backLink = backLinkTo && <BackButton text={backLinkText || sectionTitle} to={backLinkTo} />;
-  const paginationMenu = !globals.hideNavigation && !isParent && (previousLink || nextLink) && (
-    <div>
-      <Grid>
-        <div>{previousLink}</div>
-        <div className="text-right">{nextLink}</div>
-      </Grid>
-    </div>
+  const backLink = backLinkTo && (
+    <BackButton text={backLinkText || sectionTitle} to={backLinkTo} icon="home" />
   );
   const footerMenu = menu && (
-    <div>
-      {!isParent && (menu || backLinkTo) && <hr />}
-      {paginationMenu}
-      {menu && <SubMenu items={menu} />}
+    <>
+      {!isParent && <hr />}
+      {showPagination && renderPagination({ previousLink, nextLink, nextText: true })}
+      {!isParent && (
+        <h2>
+          <Translate text="learnMore" />
+          {': '}
+          <small>{sectionTitle}</small>
+        </h2>
+      )}
+      {menu && <SubMenu items={menu} expanded={isParent} />}
       {!isParent && backLink}
-    </div>
+    </>
   );
   return (
-    <PageLayout {...props} link={layoutLink} header={paginationMenu} footer={footerMenu}>
-      {i18n.intro && <section className="intro contained">{html(i18n.intro)}</section>}
+    <PageLayout
+      {...props}
+      link={layoutLink}
+      header={showPagination && renderPagination({ previousLink, nextLink })}
+      footer={footerMenu}
+    >
+      {i18n.intro && <section className="intro">{html(i18n.intro)}</section>}
       {children}
     </PageLayout>
   );
