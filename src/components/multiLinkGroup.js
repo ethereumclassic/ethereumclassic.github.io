@@ -1,6 +1,7 @@
 import React from 'react';
 
 import ButtonLink from '~components/buttonLink';
+import Link from '~components/link';
 
 const MultiLinkGroup = ({ items, header, buttons }) => {
   return (
@@ -10,11 +11,13 @@ const MultiLinkGroup = ({ items, header, buttons }) => {
         <div key={item.key} className="item">
           <div className="right-buttons">
             {buttons.map(
-              ({ text, key, icon }) =>
-                item[key] && <ButtonLink key={key} text={text} to={item[key]} icon={icon} />
+              b =>
+                item[b.key] && (
+                  <ButtonLink {...b} to={item[b.key]} fullIcon={item[b.fullIcon] || b.fullIcon} />
+                )
             )}
           </div>
-          <h3>{item.name}</h3>
+          <h3>{item.link ? <Link to={item.link} text={item.name} /> : item.name}</h3>
           <p>{`${item.text} `}</p>
         </div>
       ))}
