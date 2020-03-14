@@ -29,12 +29,6 @@
   text: If you're interested in mining ETC, this page contains a bunch of resources to get started. Humanity needs your digital pickaxe!
   link: /development/mining-resources
 - 
-  key: teams
-  name: Teams
-  shortText: Who is working on Classic
-  text: There's a misconception going around that says that ETC has no developers. Well, not only are there many individuals, but there are teams, too!
-  link: /development/teams
-- 
   key: contribute
   name: Contribute
   shortText: Become part of Classic history 😉

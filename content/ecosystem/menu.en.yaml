@@ -17,6 +17,12 @@
   text: Once you've got some ETC, it's a good idea to move it off an exchange and keep it in a wallet that you control. This page contains a selection of supported wallets.
   link: /ecosystem/wallets
 - 
+  key: teams
+  name: Teams
+  shortText: Who is working on Classic
+  text: There's a misconception going around that says that ETC has no developers. Well, not only are there many individuals, but there are teams, too!
+  link: /ecosystem/teams
+- 
   key: social-channels
   name: Social Channels
   shortText: Meet fellow participants
