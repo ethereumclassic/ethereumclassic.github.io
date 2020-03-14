@@ -31,3 +31,5 @@ Discussion Participants: According the ECIP process, when moving ECIPs forward, 
 * Fork the repository by clicking "Fork" in the top right.
 * Add your ECIP to your fork of the repository. There is a ECIP markdown template.
 * Submit a Pull Request to Ethereum Classic's ECIPs repository.
+
+ECIPs Website: https://ecips.ethereumclassic.org/
