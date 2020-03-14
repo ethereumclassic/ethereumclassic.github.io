@@ -772,12 +772,18 @@ a.card {
 
 .legend {
   margin-bottom: $smallPadding;
-
+  &.has-selected {
+    .key { 
+      opacity: .4;
+    }
+  }
   .key {
+    user-select: none;
     white-space: nowrap;
     display: inline-block;
     margin: 0 $microPadding $microPadding 0;
     padding: 0 $microPadding;
+    cursor: pointer;
 
     &.green {
       background: _palette(accent);
@@ -810,8 +816,13 @@ a.card {
     &.grid-color-5 {
       background: $grid-color-5;
     }
-
-
+    &.selected {
+      opacity: 1;
+    }
+    &.grid-color-all {
+      background: #eee;
+      opacity: 1;
+    }
   }
 }
 
@@ -1091,6 +1102,10 @@ a.card {
     // background: blue;
     padding-bottom: $tinyPadding;
 
+    &.blue .date {
+      border-bottom: $lineThickness solid blue;
+    }
+
     &:nth-child(odd) {
       text-align: right;
 
@@ -1189,18 +1204,20 @@ body.hanzi {
 }
 
 .info-buttons-group {
-  box-shadow: 0 $microPadding $smallPadding rgba(0,0,0,.15);
-  background: rgba(0,0,0,.05);
+  box-shadow: 0 $microPadding $smallPadding rgba(0, 0, 0, .15);
+  background: rgba(0, 0, 0, .05);
   border-radius: $microPadding;
   border: $solidBottom;
 
   .item {
     border-bottom: $solidBottom;
     padding: $smallPadding;
+
     p {
       margin: 0;
     }
   }
+
   margin: $largePadding 0;
 
   .item:last-child {
@@ -1275,7 +1292,7 @@ table tr.faded {
   border-radius: $tinyPadding;
   margin-bottom: $tinyPadding;
   font-size: 0.9rem;
-  color: rgba(0,0,0,.8)
+  color: rgba(0, 0, 0, .8)
 }
 
 #wrapper .copyright a.button-link {
