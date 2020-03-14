@@ -34,7 +34,6 @@ const Roadmap = ({ pageContext: { i18n } }) => {
         <Source to="https://ecips.ethereumclassic.org" />
         {html(i18n.roadmapTitle)}
         <Road items={i18n.yaml.road} />
-        <Source to="https://medium.com/etc-core/etc-core-2020-roadmap-announcement-c2166cdbc53d" />
       </section>
     </SubPageLayout>
   );
