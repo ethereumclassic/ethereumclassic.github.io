@@ -18,7 +18,7 @@ helperText: Drag to progress (or hold shift and wheel)!
 name: Title
 number: Number
 author: Authors
-roadmapTitle: >
-  ## Future Roadmap 2020
-  
-  Under construction!
+roadmapTitle: |
+  ## Protocol Development Roadmap 2020
+
+  An outline of what is planned for protocol development from [Ethereum Classic Labs](https://etclabs.org/).

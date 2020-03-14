@@ -1,25 +1,150 @@
--
-  key: test
-  date: Q1 2020
-  title: Something
-  text: TO DO!
--
-  key: test2
-  date: Q2 2020
-  title: Something Else
-  text: TO DO TOO!
--
-  key: test3
-  date: TBD 2020
-  title: Network upgrade
-  text: Istanbul parity
--
-  key: test33
-  title: Mining Algorithm Debate
-  text: Multiple ECIPs to discuss including no action.
--
-  key: test34
-  title: Account Versioning to ensure Backward Compatibility
--
-  key: test36
-  title: Gas Limit Debate
+- 
+  type: protocol
+  date: Q1
+  text: "> https://core-geth.org/ is born!"
+  key: "https://core"
+- 
+  type: protocol
+  date: Q1
+  text: "Test network (Mordor, Kotti) management and maintenance."
+  key: "Test network (Mordor"
+- 
+  type: protocol
+  date: Q1
+  text: "eth/64 ETC protocol specification anticipated to reach `Final` status"
+  key: "eth/64 ETC"
+- 
+  type: protocol
+  date: Q1
+  text: "eth/65 protocol to be implemented by etclabscore/core-geth enabling lower-bandwidth transaction pool messaging"
+  key: "eth/65 protocol"
+- 
+  type: protocol
+  date: Q1
+  text: "ECIP1043 DAG Limit implementation and possible push for Acceptance"
+  key: "ECIP1043 DAG Limit"
+- 
+  type: protocol
+  date: Q1
+  text: "ETC Discv4 DNS Discovery mechanisms (infrastructure: schedule and maintain automatic DNS records via crawler, docs: provide automatically updated node lists reflecting the DNS records)"
+  key: "ETC Discv4 DNS"
+- 
+  type: protocol
+  date: Q1 - Q2
+  text: "SOLL and Vyper compiler integration"
+  key: "SOLL and Vyper"
+- 
+  type: protocol
+  date: Q1 - Q2
+  text: "Implementation: Global stack allocation and performance optimizations"
+  key: "Implementation: Global"
+- 
+  type: protocol
+  date: Q1 - Q3
+  text: "Ethereum Protocol Provider Chain Configuration Standard and translational tooling"
+  key: "Ethereum Protocol Provider"
+- 
+  type: protocol
+  date: Q1 - Q3
+  text: "etclabscore/core-geth Chain Configuration JSON-RPC API"
+  key: "etclabscore/core-geth"
+- 
+  type: protocol
+  date: Q1 - Q3
+  text: "etclabscore/core-geth Infrastructure and CI integrations: Docker images and releases at least"
+  key: "etclabscore/core-geth"
+- 
+  type: protocol
+  date: Q1 - Q3
+  text: "etclabscore/core-geth discv4 DNS Discovery lists (infrastructure) and provider support"
+  key: "etclabscore/core-geth"
+- 
+  type: protocol
+  date: Q1 - Q3
+  text: "SHA3 consensus algo research review"
+  key: "SHA3 consensus algo"
+- 
+  type: protocol
+  date: Q1 - Q3
+  text: "Move ETC discv4 DNS records from blockd.info -> etcdisco.net"
+  key: "Move ETC discv4"
+- 
+  type: evm
+  date: Q1 - Q4
+  text: "LLVM 1.0 Candidate"
+  key: "1.0 Candidat"
+- 
+  type: evm
+  date: Q1 - Q4
+  text: "Continuous community development, new language support"
+  key: "Continuous community development"
+- 
+  type: evm
+  date: Q1 - Q4
+  text: "Continuous EVM runtime support"
+  key: "Continuous EVM runtime"
+- 
+  type: evm
+  date: Q1 - Q4
+  text: "Second State, Vyperlang, and other teams are implementing or experimenting in bringing LLVM infrastructure to the EthereumStack."
+  key: "Second State,"
+- 
+  type: protocol
+  date: Q1 - Q4
+  text: "Readable documentation and code design is an ongoing and pervasive attitude and priority."
+  key: "Readable documentation and"
+- 
+  type: evm
+  date: Q2 - Q3
+  text: "Community-driven new smart contract language support and integration"
+  key: "(Community-driven"
+- 
+  type: evm
+  date: Q2 - Q3
+  text: "LLVM Instruction scheduler and performance optimizations"
+  key: "Implementation: Instruction"
+- 
+  type: protocol
+  date: Q2 - Q3
+  text: "ETL: cross-chain transform tranfer"
+  key: "ETL: x"
+- 
+  type: protocol
+  date: Q2 - Q3
+  text: "JSON-RPC devp2p Wire protocol specification and reference implementation research and possible design"
+  key: "JSON-RPC devp2p"
+- 
+  type: protocol
+  date: Q2 - Q4
+  text: "Pluggable chain database support, with potential interfaces to include message-brokered databases (eg. Kafka) as well as standard static remotes and local options."
+  key: "Pluggable chain database"
+- 
+  type: protocol
+  date: Q2 - Q4
+  text: "Buildtime/Runtime JSON-RPC API discovery for ethereum/go-ethereum/rpc, enabling code -> descriptive document generation (supplementing the existing opposite pattern)."
+  key: "Buildtime/Runtime JSON"
+- 
+  type: protocol
+  date: Q2 - Q4
+  text: "EVM Account Versioning; Versionless EVM and Ungas research and implementations."
+  key: "EVM Account Versioning"
+- 
+  type: evm
+  date: Q3 - Q4
+  text: "LLVM Official beta release"
+  key: "Official beta releas"
+- 
+  type: evm
+  date: Q3 - Q4
+  text: "(Community-driven) new smart contract language support and integrations"
+  key: "(Community-driven"
+- 
+  type: evm
+  date: Q3 - Q4
+  text: "Implementation: Embedded assembly and exception handling"
+  key: "Implementation: Embedded"
+- 
+  type: protocol
+  date: Q3 - Q4
+  text: "ETL Tooling patterns and research into providing support for cross-chain transaction transforms"
+  key: "ETL Tooling patterns"
