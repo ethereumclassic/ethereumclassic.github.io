@@ -38,6 +38,14 @@
   twitter: ParityTech
   github: paritytech
 -
+  key: Core Paper
+  year: 2017
+  name: Core Paper
+  status: active
+  link: https://corepaper.org/
+  twitter: corepaper
+  github: corepaper
+-
   key: ETC Cooperative
   year: 2017
   name: ETC Cooperative
