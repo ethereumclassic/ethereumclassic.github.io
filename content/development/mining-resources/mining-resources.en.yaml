@@ -4,7 +4,7 @@ disclaimer: true
 intro: |
   # Mining Resources
 
-  Text here
+  Below is a non-exhaustive collection of mining resources developed for Ethereum Classic. If you have questions, there is an active #Mining channel in the [Ethereum Classic Discord](/ecosystem/social-channels).
 softwareTitle: |
   ## Miner Software
 
@@ -18,8 +18,6 @@ detailedPools: |
   ## Detailed Miner Pool List
 
   All the pulbicly known ETC mining pools
-
-
 name: Name
 windowsAmd: Windows AMD
 windowsNvidia: Windows Nvidia

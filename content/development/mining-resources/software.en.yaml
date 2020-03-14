@@ -21,7 +21,14 @@
   windowsNvidia: true
   linuxAmd: true
   linuxNvidia: true
-- key: Phoenix
+- 
+  key: Minergate xFast
+  name: Minergate xFast
+  link: https://minergate.com/downloads
+  windowsAmd: true
+  linuxAmd: true
+- 
+  key: Phoenix
   name: Phoenix
   link: https://bitcointalk.org/index.php?topic=2647654.0
   windowsAmd: true

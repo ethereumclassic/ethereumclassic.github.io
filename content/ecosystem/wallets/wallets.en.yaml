@@ -5,34 +5,23 @@ intro: |
   # Wallets
 
   There are many different options of wallets to choose from to secure and use ETC. Each option gives a different balance between security and convenience. Please research the best option depending on your requirements.
-browserWallets: | 
-  ## Browser Wallets
+webWallets: | 
+  ### Web Wallets
 
-  Wallets that can be accessed using a Web Browser. They shouldn't be used to secure large amounts, but are useful for interacting with ETC.
-
-  There are 3 main types of browser wallet; Interactive, Standalone and Extension.
-interactiveWallets: |
-  ### Interactive
-
-  Interactive Browser Wallets can be used as stand-alone wallets and as interfaces to connect through a web3 wallet or hardware wallet. Keystores & Paper Wallets can be generated from these interfaces, but this is not recommended for large amounts.
-
-standaloneWallets: |
-  ### Standalone
-  Stand-alone Browser Wallets are dedicated browser wallet with no downloads designed for desktop or mobile use.
-
+  These wallets can be accessed using a web page. They shouldn't be used to secure large amounts, but allow you to easily interacting with ETC without downloads.
 extensionWallets: | 
-  ### Extensions
+  ### Extensions / Dapp Browsers
   
-  These wallets are browser extensions for interacting with DApps built on Ethereum based networks (EVMs).
+  These wallets are installed up within a web browser. Typically, they inject websites with your account information in order to allow you to interact with Ethereum Classic dapps on the web.
 hardwareWallets: |
   ### Hardware Wallets 
    
-  *Hardware wallets are secure wallets designed for long term storage.*  
+  Hardware wallets are secure wallets designed for long term storage.
 softwareWallets: |
   ### Software Wallets
 
-  *Software wallets are Desktop or Mobile devices designed for short-term storage.*
+  Software wallets are Desktop or Mobile devices designed for short-term storage.
 otherWallets: |
   ### Other Wallet Products
  
-  Some description here
+  These products are complimentary to crypto wallets; e.g. recovery seed storage

@@ -6,13 +6,17 @@ intro: |
 
   This page contains a list of services that allow you to purchase or trade ETC.
 exchangesIntro: |
-  ## Notable Exchanges
+  ## Non-exhaustive List of Exchanges
 
-  Exchanges are separated into 3 categories; centralized, decentralized, and instant.
+  The following exchanges all support Ethereum Classic. They are separated into 3 categories; centralized, trust minimizing, and instant. 
+  
+  **Please do your own research on the exchange you choose to source Ethereum Classic. Being listed on this site does not constitute an endorsement of the exchange's services by the Ethereum Classic project.**
 centralizedExchanges: |
-  > ### Centralized Exchanges (Inclusive List)
+  > ### Centralized Exchanges
 decentralizedExchanges: |
-  > ### Trust Minimizing Exchanges
+  ### Trust-Minimizing Exchanges
+
+  Decentralization is a spectrum, and whilst the following "DEXs" are not necessary *fully* decentralized exchanges, they are designed to requires less custodial risk than the above.
 instantExchanges: | 
   ### Instant Exchanges
   
