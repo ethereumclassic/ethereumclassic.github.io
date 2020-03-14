@@ -14,11 +14,6 @@
   link: https://open.kakao.com/o/gi4uNJ1
   type: chat
 -
-  key: chat Matrix Dev Chat
-  name: Matrix Dev Chat
-  link: https://riot.im/app/#/room/#ecips:matrix.org
-  type: chat
--
   key: chat Ethereum Classic Slack
   name: Ethereum Classic Slack
   link: https://ethereumclassic.herokuapp.com/
@@ -212,20 +207,119 @@
   key: website EthereumClassicAsia
   name: EthereumClassicAsia
   link: http://ethereumclassicasia.org/
-  type: website
+  type: regionalWebsite
 -
   key: website EtheruemClassic.cn
   name: EtheruemClassic.cn
   link: http://ethereumclassic.cn/
-  type: website
+  type: regionalWebsite
 -
   key: website ETCKorea
   name: ETCKorea
   link: https://etckorea.modoo.at/
-  type: website
+  type: regionalWebsite
 -
   key: website EthereumClassicKorea.com
   name: EthereumClassicKorea.com
   link: https://www.ethereumclassickorea.com/
-  type: website
-
+  type: regionalWebsite
+-
+  key: Commonwealth.gg dev
+  name: Commonwealth.gg
+  link: https://discord.gg/crjsdJr
+  type: development
+  fullIcon: fab fa-discord
+-
+  key: Core Paper dev
+  name: Core Paper
+  link: https://discord.io/ethereumclassic
+  type: development
+  fullIcon: fab fa-discord
+-
+  key: ETC Core dev
+  name: ETC Core
+  link: https://discord.gg/5KwEAdZ
+  type: development
+  fullIcon: fab fa-discord
+-
+  key: OpenEthereum dev
+  name: OpenEthereum
+  link: http://discord.io/openethereum
+  type: development
+  fullIcon: fab fa-discord
+-
+  key: PAO Network dev
+  name: PAO Network
+  link: https://discord.gg/mPJ9zkq
+  type: development
+  fullIcon: fab fa-discord
+-
+  key: Core Geth dev
+  name: Core Geth
+  link: https://gitter.im/core-geth/community
+  type: development
+  fullIcon: fab fa-gitter
+-
+  key: Multi-Geth dev
+  name: Multi-Geth
+  link: https://gitter.im/multi-geth/community
+  type: development
+  fullIcon: fab fa-gitter
+-
+  key: Open-RPC dev
+  name: Open-RPC
+  link: https://gitter.im/open-rpc/community
+  type: development
+  fullIcon: fab fa-gitter
+-
+  key: POA Network dev
+  name: POA Network
+  link: https://gitter.im/poanetwork/
+  type: development
+  fullIcon: fab fa-gitter
+-
+  key: ECIPs dev
+  name: ECIPs (Matrix)
+  link: https://riot.im/app/#/room/#ecips:matrix.org
+  type: development
+-
+  key: Parity Tech dev
+  name: Parity Tech (Matrix)
+  link: https://riot.im/app/#/room/#watercooler:matrix.parity.io
+  type: development
+-
+  key: Hyperledger Besu dev
+  name: Hyperledger Besu
+  link: https://chat.hyperledger.org/
+  type: development
+  fullIcon: fab fa-rocketchat
+-
+  key: ETCDEV dev
+  name: ETCDEV
+  link: https://t.me/GetEmerald
+  type: development
+  fullIcon: fab fa-telegram-plane
+-
+  key: ETC Labs dev
+  name: ETC Labs
+  link: https://t.me/etclabs
+  type: development
+  fullIcon: fab fa-telegram-plane
+-
+  key: Parity Tech dev telegram
+  name: Parity Tech
+  link: https://t.me/parity_technologies
+  type: development
+  fullIcon: fab fa-telegram-plane
+-
+  key: POA Network dev
+  name: POA Network
+  link: https://t.me/poa_network
+  type: development
+  fullIcon: fab fa-telegram-plane
+-
+  key: Gödel Labs dev
+  name: Gödel Labs
+  link: https://weibo.com/godellabs
+  type: development
+  fullIcon: fab fa-weibo

@@ -12,7 +12,7 @@ const Footer = () => {
       <section className="footer">
         <header>
           <h2>
-            <Translate text="getInvolved" />
+            <Translate text="participants" />
           </h2>
         </header>
         <div className="content">
@@ -25,6 +25,7 @@ const Footer = () => {
       </section>
       <div className="copyright">
         <ButtonLink to="/sitemap" text={<Translate text="sitemap" />} icon={'sitemap'} />
+        <ButtonLink to="rss.xml" text={<Translate text="rssFeed" />} icon={'rss'} />
         <br />
         <br />
         <Translate text="footerText" />

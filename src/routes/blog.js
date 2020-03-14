@@ -10,7 +10,7 @@ const Blog = ({ data: { allMdx }, pageContext: { i18n, globals } }) => {
       i18n={i18n}
       globals={globals}
       currentPage="blog"
-      rssLink={'https://ethereumclassic.org/rss.xml'}
+      rssLink={'rss.xml'}
       hasItems={allMdx.edges.length > 0}
     >
       {allMdx.edges.map(({ node: post }) => (

@@ -13,28 +13,44 @@ function isInternal(str) {
 // list of classes that never show the external link icon
 const externalIconBlacklist = ['gatsby-resp-image-link', 'card', 'button-link'];
 
-const Link = ({ to, text, children, icon, next, back, fullIcon, as, ...props }) => {
+const Link = ({
+  to: _to,
+  text,
+  name,
+  link,
+  children,
+  icon,
+  next,
+  back,
+  fullIcon,
+  as,
+  _localized,
+  className,
+  ...props
+}) => {
+  const to = _to || link;
+  const passedProps = { className };
   const actualIcon = icon || (back && 'angle-left') || (next && 'angle-right');
   const iconText = fullIcon || (actualIcon ? `fas fa-${actualIcon}` : null);
   const content = (
     <>
       {back && iconText && <i className={`${iconText} left`} />}
-      {text || children || to}
+      {text || name || children || to}
       {!back && iconText && <i className={`${iconText} right`} />}
     </>
   );
   if (isHash(to)) {
     return (
-      <a {...props} href={to}>
+      <a {...passedProps} href={to}>
         {content}
       </a>
     );
   }
   if (!isInternal(to) || to.indexOf('/static/') === 0 || to.endsWith('.pdf')) {
-    const showIcon = !externalIconBlacklist.find(s => `${props.className}`.indexOf(s) > -1);
+    const showIcon = !externalIconBlacklist.find(s => `${className}`.indexOf(s) > -1);
     return (
       <a
-        {...props}
+        {...passedProps}
         href={to || '#'}
         target="_blank"
         rel="noopener noreferrer"
@@ -52,7 +68,7 @@ const Link = ({ to, text, children, icon, next, back, fullIcon, as, ...props }) 
     );
   }
   return (
-    <LocalizedLink {...props} to={to}>
+    <LocalizedLink {...passedProps} to={to}>
       {content}
     </LocalizedLink>
   );

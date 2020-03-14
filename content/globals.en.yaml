@@ -56,17 +56,20 @@ rssFeed: RSS Feed
 #
 discordText: "**ETC participants** are most active on **discord**."
 discordJoin: Join ETC on Discord
-getInvolved: Get Involved
+participants: Participants
+regionalSites: Regions
+teams: Teams
 #  ### Community
 #
-communityTitle: Groups
-etcDev: ETCDEV
-iohk: IOHK
+etcAsia: Asia
+etcKorea: Korea
+etcChina: China
+allChannels: More Channels
 etcCooperative: ETC Cooperative
 etcLabs: ETC Labs
-etcAsia: ETC Asia
-etcKorea: ETC Korea
-etcChina: ETC China
+etcCore: ETC Core
+etcConsortium: ETC Consortium
+godel: Gödel Labs
 #  ### Social
 #
 socialTitle: Social

@@ -1,7 +1,6 @@
 import React from 'react';
 
 import Link from '~components/link';
-import ButtonLink from '~components/buttonLink';
 
 const SubMenu = ({ items, expanded, tabs }) => {
   const ContainerEl = expanded || tabs ? 'div' : 'ul';
@@ -21,20 +20,20 @@ const SubMenu = ({ items, expanded, tabs }) => {
         );
         if (expanded) {
           return (
-            <>
+            <div key={i.key}>
               <h3>
                 {link}
                 {i.shortText && <small>{` ${i.shortText}`}</small>}
               </h3>
               <p>{i.text}</p>
-            </>
+            </div>
           );
         }
         if (tabs) {
           return link;
         }
         return (
-          <li>
+          <li key={i.key}>
             <b>{link}</b>
             {i.shortText && <small>{` ${i.shortText}`}</small>}
           </li>
