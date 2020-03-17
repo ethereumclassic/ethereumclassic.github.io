@@ -1244,6 +1244,10 @@ table tr.faded {
   border-radius: $smallPadding;
 }
 
+.video-group {
+  margin: $largePadding 0;
+}
+
 .video-frame {
   width: 100%;
   height: 45vh;

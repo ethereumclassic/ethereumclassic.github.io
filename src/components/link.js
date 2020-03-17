@@ -1,5 +1,6 @@
 import React from 'react';
 
+import { navigate } from '@reach/router';
 import LocalizedLink from './localizedLink';
 
 function isHash(str) {
@@ -42,7 +43,14 @@ const Link = ({
   );
   if (isHash(to)) {
     return (
-      <a {...passedProps} href={to}>
+      <a
+        {...passedProps}
+        href={to}
+        onClick={e => {
+          e.preventDefault();
+          navigate(to);
+        }}
+      >
         {content}
       </a>
     );

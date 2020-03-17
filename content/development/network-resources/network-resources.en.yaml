@@ -1,5 +1,4 @@
 title: Network Resources
-description: TODO
 license: CC-BY
 contribute: true
 disclaimer: true
@@ -20,7 +19,7 @@ chainID: Chain ID
 intro: |
   # Network Resources
   
-  TODO text
+  Need to find out the state of the Ethereum Classic network? You're in the right place. Here are a selection of tools that can help you get to know the chain, including faucets, explorers and monitors.
 clients: | 
   ## Clients
 

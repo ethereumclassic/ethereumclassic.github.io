@@ -1,6 +1,10 @@
 - key: conferences
   name: Conferences
   link: /press/conferences
+  shortText: Ethereum Classic Summit
+  text: Ethereum Classic conferences have been organized yearly since it's inception. This section contains event links and video presentations.
 - key: media-kit
-  name: media-kit
+  name: Media Kit
   link: /press/media-kit
+  shortText: Logos and Graphics
+  text: Need graphics and artwork related to Ethereum Classic? Look no further than the Media Kit section.
