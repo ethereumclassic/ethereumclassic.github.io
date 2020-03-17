@@ -288,6 +288,7 @@ const resources = ({ i18n }) => {
               text: 'Changelly',
               link: 'https://changelly.com/exchange/BTC/ETC/1'
             },
+            { text: 'ChangeNOW', link: 'https://changenow.io/' },
             { text: 'Shapeshift', link: 'https://shapeshift.io/' }
           ]}
         />
@@ -296,6 +297,7 @@ const resources = ({ i18n }) => {
           items={[
             { text: 'CoinGate', link: 'https://coingate.com/' },
             { text: 'CoinPayments', link: 'https://www.coinpayments.net/' },
+            { text: 'NOWPayments', link: 'https://nowpayments.io/' },
             { text: 'PayBear', link: 'https://www.paybear.io/' },
             { text: 'UTRUST', link: 'https://utrust.io/' }
           ]}
