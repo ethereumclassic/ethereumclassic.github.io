@@ -884,9 +884,9 @@ a.card {
   margin-bottom: $smallPadding;
 }
 
+
 .link-section {
   margin-top: $smallPadding;
-
   img {
     float: left;
     width: 100px;
@@ -1198,9 +1198,9 @@ body.hanzi {
 .link-group {
   margin-top: $tinyPadding;
 
-  h5 {
-    margin-top: 0;
-  }
+}
+.link-item {
+  margin-bottom: $largePadding;
 }
 
 .info-buttons-group {

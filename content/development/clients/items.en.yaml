@@ -29,5 +29,6 @@
   releaseLink: https://github.com/paritytech/parity-ethereum/releases
   supportLink: http://discord.io/openethereum
   supportIcon: fab fa-discord
-  text: The fastest and most advanced Ethereum client.
+  text: The fast, light, and robust client for Ethereum-like networks.
+
 

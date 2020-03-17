@@ -24,12 +24,13 @@ const Link = ({
   back,
   fullIcon,
   as,
+  style,
   _localized,
   className,
   ...props
 }) => {
   const to = _to || link;
-  const passedProps = { className };
+  const passedProps = { className, style };
   const actualIcon = icon || (back && 'angle-left') || (next && 'angle-right');
   const iconText = fullIcon || (actualIcon ? `fas fa-${actualIcon}` : null);
   const content = (

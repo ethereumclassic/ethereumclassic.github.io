@@ -3,9 +3,15 @@ title: What is ETC?
 description: Demistifying Ethereum Classic Terminology
 ---
 
-TODO: summarize or link to https://ethereum.org/what-is-ethereum/
+## What is Ethereum Classic (ETC)?
 
-**ETC** aka **Ethereum Classic** has a number of meanings depending on usage:
+Ethereum Classic is a decentralized blockchain platform that lets anyone build and use decentralized applications that run on blockchain technology. Like Bitcoin, no one controls or owns Ethereum Classic – it is an open-source project built by people around the world. Unlike the Bitcoin protocol, Ethereum Classic was designed to be adaptable and flexible. It is easy to create new applications on the Ethereum Classic platform.
+
+In 2014, Ethereum founders Vitalik Buterin, Gavin Wood and Jeffrey Wilcke began work on a next-generation blockchain that had the ambitions to implement a general, fully trustless smart contract platform. [What is Ethereum?](https://ethereum.org/what-is-ethereum/)
+
+In 2016, after a [controversial hard fork](/knowledge/roadmap), Ethereum mainline spawned a new network with new consensus rules. Ethereum Classic continued following the original network rules and has maintained the original Ethereum vision ever since.
+
+Ethereum Classic aka **ETC** aka has a number of meanings depending on usage:
 
 - Broadly, ETC refers to the Ethereum Classic Network, including the blockchain itself and the wider ecosystem and community
 - ETC also refers to the *native currency*, or *base token* of the Ethereum Classic Blockchain, commonly traded under the ETC ticker symbol on exchanges

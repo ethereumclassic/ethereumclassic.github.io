@@ -20,7 +20,7 @@ const SubMenu = ({ items, expanded, tabs }) => {
         );
         if (expanded) {
           return (
-            <div key={i.key}>
+            <div className="link-item" key={i.key}>
               <h3>
                 {link}
                 {i.shortText && <small>{` ${i.shortText}`}</small>}
