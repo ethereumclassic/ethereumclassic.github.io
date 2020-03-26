@@ -499,14 +499,9 @@
   link: https://bisq.network/markets/?currency=etc_btc
   type: decentralized
 - 
-  key: EXNCE
-  text: EXNCE
-  link: https://exnce.com/
-  type: decentralized
-- 
   key: Saturn Network
   text: Saturn Network
-  link: https://www.saturn.network/
+  link: https://www.saturn.network/exchange/ethereum-classic
   type: decentralized
 - 
   key: ABRA
