@@ -84,6 +84,11 @@
   link: https://www.reddit.com/r/EthereumClassic/
   type: forum
 -
+  key: forum forum.ethereumclassic.org
+  name: EthereumClassic.org Forum
+  link: https://forum.ethereumclassic.org/
+  type: forum
+-
   key: forum BitcoinTalk
   name: BitcoinTalk
   link: https://bitcointalk.org/index.php?topic=5134923
