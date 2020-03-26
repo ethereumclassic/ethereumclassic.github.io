@@ -5,19 +5,19 @@
 -
   key: "Cancel Aztlan."
   date: Q1
-  text: "Cancel Aztlan. Respec Phoenix Upgrade. Same block for ETH Istanbul Parity goal."
+  text: "Review and address Aztlan Upgrade's testnet discoveries. Reflect and review technical specifications for Istanbul ETH parity project under ECIP-1088 with new codename Phoenix. Keep mainnet activation timeline at block 10,500,839."
 -
   key: "5M20 Era 3"
   date: Q1
-  text: "5M20 Era 3 Block Reward reduction."
+  text: "Monetary Policy Event: 5M20 Era3 block reward reduction from 4 to 3.2 ETC on March 17, 2020."
 -
   key: "Clients Implement Phoenix"
   date: Q1
-  text: "Clients Implement Phoenix Upgrade at hard Date listed below."
+  text: "Kotti and Mordor testnet implementation for Phoenix Upgrade in Core-Geth, Hyperledger Besu, Multi-Geth, and Open-Ethereum network clients."
 -
   key: "March: Phoenix"
   date: Q1 March
-  text: "Phoenix Live on Testnets. Testing begins. Several Known Issues to Solve. A complex upgrade, so development teams are allocating resources to deep testing. Always a potential for a delay with a complex upgrade. ETC will never rush to upgrade the mainnet, security is priority over speed."
+  text: "Phoenix testing begins on the Kotti and Mordor testnets. Core development teams have signaled that this is a complex upgrade. Testing may uncover issues that delay this network upgrade, but Ethereum Classic will never rush to upgrade the mainnet. Network security is priority over development speed and arbitary timelines."
 -
   key: "Status Codes:"
   date: Q1
@@ -25,10 +25,10 @@
 -
   key: "Website 2020 Upgrade"
   date: Q1
-  text: "Website 2020 Upgrade by hitchcott"
+  text: "The 2020 EthereumClassic.org Website Modernization project goes live with a goal of providing accurate ETC content and automated information dissemination lines for the great cryptocurrency ecosystem."
 - 
   date: Q1
-  text: "Test network (Mordor, Kotti) management and maintenance."
+  text: "Testnet management and maintenance for Kotti and Mordor networks."
   key: "Test network (Mordor"
 - 
   date: Q1
@@ -57,7 +57,7 @@
 -
   key: "Establish Systemic,"
   date: Q2
-  text: "Establish Systemic, Automated Communication Lines to the General Public. Outlets: News Aggregators, Twitter Posts, Mining Pools. Need clear protocol lines of communication for network security. Not for promotional material."
+  text: "Automated communication Lines to the General Public and ETC Participants via RSS feeds."
 -
   key: "Improve Documentation"
   date: Q2
