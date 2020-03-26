@@ -10,7 +10,7 @@ const Community = () => {
           {t.teams}
           :
           <ButtonLink to="https://www.etclabs.org/" text={t.etcLabs} />
-          <ButtonLink to="https://www.etccore.io/" text={t.etcCore} />
+          <ButtonLink to="https://etccore.io/" text={t.etcCore} />
           <ButtonLink to="https://etccooperative.org" text={t.etcCooperative} />
           <ButtonLink to="https://etcconsortium.org/" text={t.etcConsortium} />
           <ButtonLink to="https://www.godel.ai/" text={t.godel} />
