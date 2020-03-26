@@ -8,25 +8,25 @@
   key: exchanges
   name: Exchanges
   shortText: Where to buy and trade
-  text: ETC is one of the most widely available cryptocurrencies and it's highly liquid. Buy a piece of the future today on one of the many marketplaces listed here.
+  text: Ethereum Classic's native currency ETC is one of the most widely available cryptocurrencies. Here is a non-exhaustive list of marketplaces and exchanges where you can source ETC to add to your crypto portfolio.
   link: /ecosystem/exchanges
 - 
   key: wallets
   name: Wallets
   shortText: Keep your ETC safe
-  text: Once you've got some ETC, it's a good idea to move it off an exchange and keep it in a wallet that you control. This page contains a selection of supported wallets.
+  text: Once you acquire ETC, it's a good idea to move it off an exchange and store it in a wallet that you control. This page contains a selection of wallets that support Ethereum Classic.
   link: /ecosystem/wallets
 - 
   key: teams
   name: Teams
   shortText: Who is working on Classic
-  text: There's a misconception going around that says that ETC has no developers. Well, not only are there many individuals, but there are teams, too!
+  text: Ethereum Classic is a permissionless, open-source project. Similar to the Bitcoin protocol, there is no centralized leadership or foundation in the Ethereum Classic development process. The page lists individuals and teams that have contributed to the Ethereum Classic protocol.
   link: /ecosystem/teams
 - 
   key: social-channels
   name: Social Channels
   shortText: Meet fellow participants
-  text: As there's nothing official in ETC land, individuals regularly communicate through a variety of different channels to discuss everything related to ETC. Join us!
+  text: There is NO OFFICIAL ANYTHING. Ethereum Classic is an open-source, decentralized project with a global permissionless ecosystem. Ethereum Classic's history is checkered with attempts at social attacks on the Ethereum Classic network and it's assets or commons (e.g.; code repository, website, brand, network history). We see similar social engineering in the Bitcoin ecosystem. It's a negative externality that comes with a truly decentralized project. As there's no official channels, you'll notice Ethereum Classic has a variety of different channels to discuss everything related to ETC. These channels are maintained by ETC participants and usually focus on a specific region or topic. Search the list and join the Ethereum Classic social channels that interest you!
   link: /ecosystem/social-channels
 -
   key: development
