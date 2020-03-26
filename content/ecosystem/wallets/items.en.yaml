@@ -69,14 +69,14 @@
   link: https://www.abra.com/
   type: software
 - 
-  key: AToken
-  name: AToken
-  link: https://www.atoken.com/
-  type: software
-- 
   key: Alpha Wallet
   name: Alpha Wallet
   link: https://alphawallet.com/
+  type: software
+- 
+  key: AToken
+  name: AToken
+  link: https://www.atoken.com/
   type: software
 - 
   key: Atomic Wallet
