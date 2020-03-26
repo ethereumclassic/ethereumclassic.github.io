@@ -1,8 +1,8 @@
 const defaultLocale = 'en';
 const locales = {
-  en: { flag: '🇬🇧', enabled: true },
+  en: { flag: '🇬🇧', enabled: true }
   // zh: { flag: '🇨🇳', enabled: false },
-  de: { flag: '🇩🇪', enabled: true }
+  // de: { flag: '🇩🇪', enabled: true }
   // ru: { flag: '🇷🇺', enabled: false },
   // tr: { flag: '🇹🇷', enabled: false },
   // ko: { flag: '🇰🇷', enabled: false },
