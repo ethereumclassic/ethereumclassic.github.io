@@ -1,4 +1,10 @@
 -
+  key: AnyBlock
+  name: AnyBlock
+  etc: https://explorer.anyblock.tools/ethereum/classic/mainnet/
+  kotti: https://explorer.anyblock.tools/ethereum/classic/kotti/
+  mordor: https://explorer.anyblock.tools/ethereum/classic/mordor/
+-
   key: Astor Explorer
   name: Astor Explorer
   astor: https://explore.astor.host/
