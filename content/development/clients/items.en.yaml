@@ -1,11 +1,11 @@
 -
   key: Core-Geth
   name: Core-Geth
-  link: https://multi-geth.org/
+  link: https://core-geth.org/
   releaseLink: https://github.com/etclabscore/multi-geth/releases/
   supportLink: https://gitter.im/core-geth/community
   supportIcon: fab fa-gitter
-  text: A "swiss army knife" distribution of go-ethereum, with support for many species of Ethereum networks.
+  text: Core-Geth is a distribution of go-etheruem with many flavors.
 -
   key: Hyperledger Besu
   name: Hyperledger Besu
@@ -21,14 +21,14 @@
   releaseLink: https://github.com/multi-geth/multi-geth/releases
   supportLink: https://gitter.im/multi-geth/community
   supportIcon: fab fa-gitter
-  text: A distribution of go-ethereum supporting multiple blockchains.
+  text: A "swiss army knife" distribution of go-ethereum, with support for many species of Ethereum networks.
 -
   key: Parity-Ethereum
   name: OpenEthereum
   link: https://github.com/openethereum
-  releaseLink: https://github.com/paritytech/parity-ethereum/releases
+  releaseLink: https://github.com/openethereum/openethereum/releases
   supportLink: http://discord.io/openethereum
   supportIcon: fab fa-discord
-  text: The fast, light, and robust client for Ethereum-like networks.
+  text: Fast and feature-rich multi-network Ethereum client.
 
 
