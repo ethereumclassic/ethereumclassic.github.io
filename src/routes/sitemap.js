@@ -25,7 +25,7 @@ const Sitemap = ({
   });
   return (
     <PageLayout i18n={i18n}>
-      <ButtonLink to={'sitemap.xml'} text={i18n.xml} icon="code" style={{ float: 'right' }} />
+      <ButtonLink to={'/sitemap.xml'} text={i18n.xml} icon="code" style={{ float: 'right' }} />
       {html(i18n.intro)}
       <ItemTable
         hideHead

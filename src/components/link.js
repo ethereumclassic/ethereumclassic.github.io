@@ -55,7 +55,12 @@ const Link = ({
       </a>
     );
   }
-  if (!isInternal(to) || to.indexOf('/static/') === 0 || to.endsWith('.pdf')) {
+  if (
+    !isInternal(to) ||
+    to.indexOf('/static/') === 0 ||
+    to.endsWith('.pdf') ||
+    to.endsWith('.xml')
+  ) {
     const showIcon = !externalIconBlacklist.find(s => `${className}`.indexOf(s) > -1);
     return (
       <a

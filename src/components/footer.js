@@ -25,7 +25,7 @@ const Footer = () => {
       </section>
       <div className="copyright">
         <ButtonLink to="/sitemap" text={<Translate text="sitemap" />} icon={'sitemap'} />
-        <ButtonLink to="rss.xml" text={<Translate text="rssFeed" />} icon={'rss'} />
+        <ButtonLink to="/rss.xml" text={<Translate text="rssFeed" />} icon={'rss'} />
         <br />
         <br />
         <Translate text="footerText" />
