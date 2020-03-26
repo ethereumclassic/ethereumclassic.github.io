@@ -11,12 +11,6 @@
   shortText: Frequently Asked Questions
   text: This section covers common questions about Ethereum Classic with answers and video explainers.
 - 
-  key: guides
-  name: Guides
-  shortText: User Guides and Tutorials
-  text: Want to learn how to use a wallet, set up an Ethereum Classic node, or make transactions with ETC? This curated list of Ethereum Classic guides is the place to go.
-  link: /knowledge/guides
-- 
   key: theory
   name: Theory
   shortText: Principles and Philosophy
