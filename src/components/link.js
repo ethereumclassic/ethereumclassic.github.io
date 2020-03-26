@@ -28,10 +28,11 @@ const Link = ({
   style,
   _localized,
   className,
+  notLocalized,
   ...props
 }) => {
   const to = _to || link;
-  const passedProps = { className, style };
+  const passedProps = { notLocalized, className, style };
   const actualIcon = icon || (back && 'angle-left') || (next && 'angle-right');
   const iconText = fullIcon || (actualIcon ? `fas fa-${actualIcon}` : null);
   const content = (
