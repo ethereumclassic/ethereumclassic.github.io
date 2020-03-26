@@ -29,16 +29,18 @@ const NewsLayout = ({ i18n, globals, rssLink, currentPage, children, hasItems })
       </div>
       {html(i18n.intro)}
       <SubMenu items={menu} selected={currentPage} tabs />
-      <LocaleVisibility hide={['en']}>
-        <ButtonLink
-          notLocalized
-          to={thisItem.to}
-          text={i18n.englishItems}
-          style={{ float: 'right' }}
-        />
-      </LocaleVisibility>
-      <h2>{hasItems ? i18n.latestItems : globals.noPosts}</h2>
-      {children}
+      <div className="tabs-child">
+        <LocaleVisibility hide={['en']}>
+          <ButtonLink
+            notLocalized
+            to={thisItem.to}
+            text={i18n.englishItems}
+            style={{ float: 'right' }}
+          />
+        </LocaleVisibility>
+        <h2>{hasItems ? i18n.latestItems : globals.noPosts}</h2>
+        {children}
+      </div>
     </PageLayout>
   );
 };
