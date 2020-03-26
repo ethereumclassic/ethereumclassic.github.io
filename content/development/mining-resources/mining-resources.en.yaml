@@ -23,3 +23,5 @@ windowsAmd: Windows AMD
 windowsNvidia: Windows Nvidia
 linuxAmd: Linux AMD
 linuxNvidia: Linux Nvidia
+guide: Guide
+tutorial: Tutorial

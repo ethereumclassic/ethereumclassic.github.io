@@ -32,10 +32,12 @@ const ItemTable = ({ items, columns, header, hideHead, sortedBy, rowClass }) => 
                     }
                     const link = item[(col.text ? col.key : col.linkKey) || 'link'];
                     if (col.type === 'link') {
-                      return link && <Link {...col} text={item[col.key]} to={link} />;
+                      return link && <Link {...col} text={col.text || item[col.key]} to={link} />;
                     }
                     if (col.type === 'button') {
-                      return link && <ButtonLink {...col} text={col.text} to={link} />;
+                      return (
+                        link && <ButtonLink {...col} text={col.text || item[col.key]} to={link} />
+                      );
                     }
                     return item[col.key];
                   })()}
