@@ -1374,7 +1374,10 @@ table tr.faded {
   }
   a { 
     line-height: 1.6rem;
-    display: block; border: 0; padding: $microPadding; 
+    display: block; border: 0; padding: $tinyPadding; 
+  }
+  a:nth-child(odd) {
+    background: rgba(0,0,0,.04);
   }
   a:hover {
     background: #eee;

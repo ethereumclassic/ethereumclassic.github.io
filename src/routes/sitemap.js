@@ -15,7 +15,6 @@ const Sitemap = ({
 }) => {
   const blogs = [];
   const rest = [];
-  // todo less indents if not default
   edges.forEach(({ node: { path, context } }) => {
     const item = {
       link: path,
@@ -45,14 +44,6 @@ const Sitemap = ({
           </Link>
         ))}
       </div>
-      {/* <ItemTable
-        hideHead
-        items={[...rest, ...blogs]}
-        columns={[
-          { key: 'name', type: 'link', notLocalized: true },
-          { key: 'link', type: 'link', notLocalized: true }
-        ]}
-      /> */}
     </PageLayout>
   );
 };
