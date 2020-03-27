@@ -30,7 +30,6 @@ const MiningResources = ({ pageContext: { i18n } }) => {
           { key: 'linuxNvidia', name: i18n.linuxNvidia, type: 'check' }
         ]}
       />
-      {html(i18n.softwareFooter)}
       <ButtonGroup header={html(i18n.top5Pools)} items={top5} />
       <ButtonGroup header={html(i18n.detailedPools)} items={i18n.yaml.pools} />
       <Source to="https://miningpoolstats.stream/ethereumclassic" text="MiningPoolStats.stream" />

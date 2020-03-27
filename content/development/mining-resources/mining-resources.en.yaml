@@ -9,7 +9,6 @@ softwareTitle: |
   ## Miner Software
 
   *Mining Algorithm: Ethash*
-softwareFooter: "Optimization: [minerOS Miner Butler](http://www.mineros.cn/#/home)"
 top5Pools: |
   ## Top 5 Mining Pools
 
@@ -17,7 +16,7 @@ top5Pools: |
 detailedPools: |
   ## Detailed Miner Pool List
 
-  All the pulbicly known ETC mining pools
+  All the publicly known ETC mining pools
 name: Name
 windowsAmd: Windows AMD
 windowsNvidia: Windows Nvidia
