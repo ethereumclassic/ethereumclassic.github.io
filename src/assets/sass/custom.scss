@@ -1367,3 +1367,20 @@ table tr.faded {
 .button-group {
   margin: $largePadding 0;
 }
+.sitemap {
+  small {
+    font-size: 0.8rem;
+    white-space: nowrap;
+  }
+  a { 
+    line-height: 1.6rem;
+    display: block; border: 0; padding: $microPadding; 
+  }
+  a:hover {
+    background: #eee;
+  }
+  .text {
+    font-size: 0.8rem;
+    line-height: 1rem;
+  }
+}

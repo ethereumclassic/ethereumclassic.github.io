@@ -5,36 +5,54 @@ import { graphql } from 'gatsby';
 import html from '../i18n/html';
 import PageLayout from '~components/pageLayout';
 import ButtonLink from '~components/buttonLink';
-import ItemTable from '~components/itemTable';
+import Link from '~components/link';
 
 const Sitemap = ({
-  pageContext: { i18n, globals },
+  pageContext: { i18n, globals, defaultLocale },
   data: {
     allSitePage: { edges }
   }
 }) => {
   const blogs = [];
   const rest = [];
+  // todo less indents if not default
   edges.forEach(({ node: { path, context } }) => {
-    const item = { link: path, name: context.title || context.i18n.title || globals.navHome };
+    const item = {
+      link: path,
+      indent: path.split('/').length - (defaultLocale ? 1 : 2),
+      name: context.title || context.i18n.title || globals.navHome,
+      description: context.description || context.i18n.description
+    };
     if (item.link.indexOf('/blog/') >= 0) {
       blogs.push(item);
     } else {
       rest.push(item);
     }
   });
+  const sorted = [...rest, ...blogs];
   return (
     <PageLayout i18n={i18n}>
       <ButtonLink to={'/sitemap.xml'} text={i18n.xml} icon="code" style={{ float: 'right' }} />
       {html(i18n.intro)}
-      <ItemTable
+      <div className="sitemap">
+        {sorted.map(i => (
+          <Link to={i.link} notLocalized style={{ paddingLeft: `${i.indent}rem` }}>
+            <div className="title">
+              <b>{`${i.name} `}</b>
+              <small>{i.link}</small>
+            </div>
+            <div className="text">{i.description}</div>
+          </Link>
+        ))}
+      </div>
+      {/* <ItemTable
         hideHead
         items={[...rest, ...blogs]}
         columns={[
           { key: 'name', type: 'link', notLocalized: true },
           { key: 'link', type: 'link', notLocalized: true }
         ]}
-      />
+      /> */}
     </PageLayout>
   );
 };
@@ -53,6 +71,7 @@ export const query = graphql`
             title
             i18n {
               title
+              description
             }
           }
           path

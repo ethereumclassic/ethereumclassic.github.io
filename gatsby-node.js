@@ -52,9 +52,12 @@ async function processYamlMarkdown(obj) {
   );
   return transformed;
 }
+function isDefaultLocale(locale) {
+  return locale === defaultLocale;
+}
 
 function localizePath(locale, name) {
-  const isDefault = locale === defaultLocale;
+  const isDefault = isDefaultLocale(locale);
   let slug = isDefault ? `/${name}/` : `/${locale}/${name}/`;
   if (name === 'index') {
     slug = isDefault ? '/' : `/${locale}/`;
@@ -356,6 +359,7 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
           component: data.node.absolutePath,
           context: {
             locale,
+            defaultLocale: isDefaultLocale(locale),
             globals: getGlobals(locale, translationsTree),
             i18n: {
               ...main,
@@ -382,6 +386,7 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
       component,
       context: {
         locale,
+        defaultLocale: isDefaultLocale(locale),
         i18n: getChildLocales(slug, locale, parent, translationsTree),
         globals: getGlobals(locale, translationsTree),
         parent,
