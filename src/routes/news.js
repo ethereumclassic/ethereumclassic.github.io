@@ -36,7 +36,10 @@ export default News;
 export const query = graphql`
   query News($locale: String!) {
     allMdx(
-      filter: { fields: { locale: { eq: $locale }, parent: { eq: "blog" } } }
+      filter: {
+        fields: { locale: { eq: $locale }, parent: { eq: "blog" } }
+        frontmatter: { unlisted: { ne: true } }
+      }
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
       edges {
