@@ -1,6 +1,6 @@
 ---
 title: Contribute
-description: DESCRIPTION HERE
+description: A summary of the Ethereum Classic Improvement Proposal (ECIP) process
 license: CC-BY
 contribute: true
 ---

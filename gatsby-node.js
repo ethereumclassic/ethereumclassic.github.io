@@ -294,7 +294,7 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
           }
         }
       }
-      children: allMdx(filter: { fields: { hasParent: { eq: true } } }) {
+      mdxPages: allMdx(filter: { fields: { hasParent: { eq: true } } }) {
         edges {
           node {
             fields {
@@ -308,6 +308,7 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
             fileAbsolutePath
             frontmatter {
               title
+              description
             }
           }
         }
@@ -315,7 +316,7 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
     }
   `);
 
-  const { routes, children, mdxTranslations, yamlTranslations } = result.data;
+  const { routes, mdxPages, mdxTranslations, yamlTranslations } = result.data;
 
   // create a tree of the translations to be injected into the pages
   const translationsTree = {};
@@ -376,7 +377,7 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
     })
   );
   // generated sub-pages (markdown files like blog)
-  children.edges.forEach(({ node: post }) => {
+  mdxPages.edges.forEach(({ node: post }) => {
     const { locale, parent, localSlug, slug } = post.fields;
     // use this parent template if it exists, otherwise fallback to parent template
     const templatePath = path.resolve(`./src/layouts/${parent}Item.js`);
@@ -387,10 +388,13 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
       context: {
         locale,
         defaultLocale: isDefaultLocale(locale),
-        i18n: getChildLocales(slug, locale, parent, translationsTree),
+        i18n: {
+          ...getChildLocales(slug, locale, parent, translationsTree),
+          ...post.frontmatter
+        },
         globals: getGlobals(locale, translationsTree),
-        parent,
-        title: post.frontmatter.title
+        title: post.frontmatter.title,
+        parent
       }
     });
   });

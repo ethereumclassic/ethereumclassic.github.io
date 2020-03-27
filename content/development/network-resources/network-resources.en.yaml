@@ -1,6 +1,7 @@
 title: Network Resources
 license: CC-BY
 contribute: true
+description: EVM references, gas fee estimators, monitors and faucets for Ethereum Classic mainnet and testnet
 disclaimer: true
 mainnet: Mainnet
 testnet: Testnet

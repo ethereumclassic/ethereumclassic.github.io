@@ -1,6 +1,7 @@
 ---
 title: What is Ethereum Classic?
-description: Demistifying Ethereum Classic Terminology
+description: A beginner's guide to Ethereum Classic (ETC); what it is and how to get it
+license: CC-BY
 ---
 
 Ethereum Classic is a decentralized blockchain platform that lets anyone build and use decentralized applications that run on blockchain technology. Like Bitcoin, no one controls or owns Ethereum Classic – it is an open-source project built by people around the world. Unlike the Bitcoin protocol, Ethereum Classic was designed to be adaptable and flexible. It is easy to create new applications on the Ethereum Classic platform.
