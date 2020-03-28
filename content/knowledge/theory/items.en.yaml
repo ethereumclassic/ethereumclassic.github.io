@@ -82,9 +82,9 @@
   link: https://eprint.iacr.org/2016/633.pdf
   text: Smart contract security attacks.
 - 
-  key: Ethereum Classic (ETC) Wiki Philosophy
-  name: Ethereum Classic (ETC) Wiki Philosophy
-  link: https://github.com/ethereumclassic/wiki/Philosophy
+  key: Ethereum Classic (ETC) Wiki
+  name: Ethereum Classic (ETC) Wiki
+  link: https://github.com/ethereumclassic/wiki/wiki
   text: Some of the core philosophies of Ethereum's ETC chain.
 - 
   key: Ethereum Classic (ETC) Improvement Proposals
@@ -92,9 +92,9 @@
   link: https://ecips.ethereumclassic.org/
   text: Standards for the Ethereum's ETC platform, including core protocol specifications, client APIs, and contract standards (ECIPs).
 - 
-  key: Ethereum (ETH) Wiki Philosophy
-  name: Ethereum (ETH) Wiki Philosophy
-  link: https://github.com/ethereum/wiki/Philosophy
+  key: Ethereum (ETH) Wiki
+  name: Ethereum (ETH) Wiki
+  link: https://github.com/ethereum/wiki/wiki
   text: Some of the core philosophies of Ethereum's ETH chain.
 - 
   key: Ethereum Improvement Proposals
