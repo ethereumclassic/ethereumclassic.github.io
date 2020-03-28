@@ -1,39 +1,22 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 
-import html from '../i18n/html';
-import ButtonLink from '~components/buttonLink';
 import BlogListItem from '~components/blogListItem';
-import LocaleVisibility from '~components/localeVisibility';
-import PageLayout from '~components/pageLayout';
+import NewsLayout from '~components/newsLayout';
 
 const Blog = ({ data: { allMdx }, pageContext: { i18n, globals } }) => {
-  const hasPosts = allMdx.edges.length !== 0;
   return (
-    <PageLayout seo={i18n}>
-      {html(i18n.intro)}
-      <ButtonLink
-        text={globals.submitArticle}
-        to="https://github.com/ethereumclassic/ethereumclassic.github.io"
-        icon="angle-right"
-      />
-      <hr />
-      <LocaleVisibility hide={['en']}>
-        <ButtonLink
-          notLocalized
-          to="/blog"
-          text={globals.englishPosts}
-          style={{ float: 'right' }}
-        />
-      </LocaleVisibility>
-      <h2>{hasPosts ? globals.latestArticles : globals.noPosts}</h2>
-      <div className="blog-list">
-        {hasPosts &&
-          allMdx.edges.map(({ node: post }) => (
-            <BlogListItem i18n={globals} post={post} key={post.parent.relativeDirectory} />
-          ))}
-      </div>
-    </PageLayout>
+    <NewsLayout
+      i18n={i18n}
+      globals={globals}
+      currentPage="blog"
+      rssLink={'/rss.xml'}
+      hasItems={allMdx.edges.length > 0}
+    >
+      {allMdx.edges.map(({ node: post }) => (
+        <BlogListItem i18n={globals} post={post} key={post.parent.relativeDirectory} />
+      ))}
+    </NewsLayout>
   );
 };
 
@@ -42,7 +25,10 @@ export default Blog;
 export const query = graphql`
   query Blog($locale: String!) {
     allMdx(
-      filter: { fields: { locale: { eq: $locale }, parent: { eq: "blog" } } }
+      filter: {
+        fields: { locale: { eq: $locale }, parent: { eq: "blog" } }
+        frontmatter: { unlisted: { ne: true } }
+      }
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
       edges {

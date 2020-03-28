@@ -4,7 +4,7 @@ date: 2017-06-17
 author: Christian Seberino
 ---
 
-![oops](./1*D_rCrZS3BZb4vPF2r3hRaQ.png)
+![oops](./1D_rCrZS3BZb4vPF2r3hRaQ.png)
 
 People often ask the Ethereum Classic (ETC) developers to return their lost
 funds. Typically, *no one* can steal or return lost funds. This is because of
@@ -12,7 +12,7 @@ funds. Typically, *no one* can steal or return lost funds. This is because of
 
 ## Private Key Basics
 
-![key](./1*MKS_Yyj9oGVGFYoYK6EKqQ.png)
+![key](./1MKS_Yyj9oGVGFYoYK6EKqQ.png)
 
 Private keys are just random numbers. All ETC user accounts are associated with
 unique private keys. These are needed to do nearly everything. ETC clients
@@ -23,7 +23,7 @@ paper I show how to derive ETC public keys and addresses from private keys.
 
 ## Private Key Security
 
-![universe](./1*wF5wYQjafGGRiEvbFTocYw.jpeg)
+![universe](./1wF5wYQjafGGRiEvbFTocYw.jpeg)
 
 If private keys are truly random, and kept private, they simply cannot be
 determined. Notice cryptographically secure random number generators are
@@ -34,7 +34,7 @@ age of the universe!
 
 ## Private Key Possibilities
 
-![road](./1*slIgdgc7pSXILDaByrj_ew.jpeg)
+![road](./1slIgdgc7pSXILDaByrj_ew.jpeg)
 
 Future mathematical breakthroughs and quantum computers could conceivably
 jeopardize ETC private keys. However, after decades of work, these breakthroughs
@@ -42,7 +42,7 @@ are still elusive.
 
 ## Conclusion
 
-![impossible](./1*QRW0f5TpBjs-PSAFX9xJ-g.jpeg)
+![impossible](./1QRW0f5TpBjs-PSAFX9xJ-g.jpeg)
 
 The ETC system was designed to give *users* control over their funds. Therefore,
 typically no one can steal or return lost funds. So please do not ask the ETC
@@ -52,11 +52,11 @@ developers to do the impossible!
 
 You can contact me by clicking any of these icons:
 
-![Twitter](./0*VNfbQ4-lZRlG0Ceo.png)
+![Twitter](./0VNfbQ4-lZRlG0Ceo.png)
 
-![Facebook](./0*5G_wXtuVcwvOt43p.png)
+![Facebook](./05G_wXtuVcwvOt43p.png)
 
-![LinkedIn](./0*KKl9FVWVJHutgm6l.png)
+![LinkedIn](./0KKl9FVWVJHutgm6l.png)
 
 ## Acknowledgements
 
@@ -64,7 +64,7 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 ## License
 
-![](./0*hhXr4l9ZB32NzvK1.png)
+![](./0hhXr4l9ZB32NzvK1.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0
 International License.

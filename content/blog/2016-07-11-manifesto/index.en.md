@@ -2,6 +2,7 @@
 title: A Crypto-Decentralist Manifesto
 date: 2016-07-11
 author: Arvicco
+linkImage: ./1gMu8qJtr2NeEuuGzvsfcnw.png
 ---
 
 
@@ -15,7 +16,7 @@ author: Arvicco
 ---
 
 
-![Decentralize!](./1*gMu8qJtr2NeEuuGzvsfcnw.png)
+![Decentralize!](./1gMu8qJtr2NeEuuGzvsfcnw.png)
 
 Blockchains are going to rule the world, providing a mechanism for scaling
 social and economic cooperation to an unprecedented level — a truly global
@@ -55,3 +56,7 @@ introduce new centralization risks or strengthen existing ones should be fought.
 The blockchain revolution won’t be centralized. Let’s make sure of it.
 
 **Onward.**
+
+---
+
+Source: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede#.2m5ro5rr9

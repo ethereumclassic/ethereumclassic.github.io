@@ -1,64 +1,8 @@
 title: Ecosystem
-description: Projects and resources on Ethereum Classic
-intro: >
+description: Ethereum Classic projects, applications, protocol, wallets, exchanges, social media, and more
+intro: |
   # Ecosystem
 
+  Ethereum Classic operates with a vibrant ecosystem of individuals and groups who maintain many different kinds of applications. This section highlights some of the various participants on the Ethereum Classic network.
 
-  This page contains a list of community-sourced projects that are working for, with or on top of Ethereum Classic.
-# projects section
-clients: Clients
-projectsTitle: Major Projects
-# dapps section
-dapps: >
-  ## Apps Powered by Etc
-
-  A selection of (decentralized) applications that are built on top of Ethereum Classic.
-
-
-  **⚠️ Whilst malicious links are removed as they are discovered, operating with the sprit of permissionless means that there is no guarantee all links are legitimate. Please use with caution and verify for yourself.**
-legend: Legend
-production: Production
-demo: Demo
-development: Development
-# resources
-resources: >
-  ## Resources
-
-
-  A small selection of resources such as explorers, chat rooms, exchanges and mining pools.  
-
-  **Use at your own risk.**
-moreResources: More Resources
-# resources items
-nodesAndNetworkInfo: Nodes
-nodesAndNetworkInfoText: Run an ETC node and help support the network by using the software below.
-nodes: Nodes
-networkInfo: Network Info
-blockExplorers: Block Explorers
-blockExplorersText: Check on the status of transactions with these handy websites.
-mainnet: Mainnet
-testnets: Testnets
-networkApis: Network APIs + Info
-networkApisText: Use JSONRPC to communicate with ETC.
-publicApis: Public APIs
-privateDeployments: Private Deployments
-githubRepos: Github Repos
-twitter: Twitter
-chatRooms: Chat Rooms
-telegram: Telegram
-wallets: Wallets
-walletsText: Store and send your ETC using one of the wallets below. Hardware wallets are
-  the most secure; please use them.
-webWallets: Web Wallets
-hardwareOffline: Hardware / Offline
-desktop: Desktop
-mobile: Mobile
-exchanges: Exchanges
-exchangesText: Get ETC by trading for it at one of the exchanges below. We’re listed on all
-  of your favorite exchanges.
-traditionalExchanges: Traditional Exchanges
-decentralizedExchanges: Decentralized Exchanges
-instantSwaps: Instant Swaps
-paymentProcessors: Payment Processors
-miningPools: Mining Pools
-miningPoolsText: Mine ETC by joining one of the pools below.
+  If you have a project that utilizes the Ethereum Classic network, you can suggest an addition to this section by [creating an issue on github](https://github.com/ethereumclassic/ethereumclassic.github.io).

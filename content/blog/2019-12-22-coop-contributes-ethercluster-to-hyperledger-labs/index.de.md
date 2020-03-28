@@ -2,6 +2,7 @@
 title: "ETC Cooperative unterstützt Hyperledger Labs mit Ethercluster"
 date: 2019-12-23
 author: Bob Summerwill
+unlisted: true
 description: Die ETC Cooperative gab heute bekannt, dass sie Ethercluster zu Hyperledger Labs beigetragen haben
 linkImage: ./ethercluster.png
 ---

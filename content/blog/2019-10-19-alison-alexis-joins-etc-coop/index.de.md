@@ -1,6 +1,7 @@
 ---
 title: "Alison Alexis CPA wird Finanzkontrolleurin bei ETC Cooperative"
 date: 2019-10-19
+unlisted: true
 author: Bob Summerwill
 ---
 ** 19 Oktober 2019 - Vancouver, Kanada ** - Die [ETC Cooperative](https://etccooperative.org) gab heute bekannt, dass [Alison Alexis CPA](https://www.linkedin.com/in/alison-alexis-ca/) der ETC-Cooperative als Wirtschaftsprüferin im Rahmen eines einjährigen Teilzeitvertrages beigetreten ist.

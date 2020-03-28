@@ -4,6 +4,7 @@ date: 2019-10-19
 author: ボブ・サマーウィル
 description: ETC協同組合は本日、事務局長のボブ・サマーウィルがグローバルデジタルアセット(バンクーバー)サミット2019で講演することを発表しました。
 linkImage: ./gdasummit_bob.jpeg
+unlisted: true
 ---
 ** 2019年10月19日–カナダ、バンクーバー** – [ETC Cooperative](https://etccooperative.org)は本日、そのエグゼクティブディレクターである[Bob Summerwill](https://twitter.com/bobsummerwill)が、 「Global Digital Assets(Vancouver)Summit 2019」(https://gdasummit.com)で、2019年10月27日(日)に「* What's Happening with Ethereum Classic？*」
 

@@ -1,0 +1,24 @@
+contribute: true
+title: Roadmap
+description: An overview of Ethereum Classic's origins, history and future development roadmap
+intro: >
+  # Roadmap
+
+
+  This page outlines the history of Ethereum Classic and it's future development goals.
+timeline: |
+  ## ETC Timeline
+
+  A historical account of the events that created and defined Ethereum Classic.
+ecipsTitle: >
+  ## Final ECIPs
+
+  These ECIPs (Ethereum Classic Improvement Proposals) have been accepted and have or will be implemented soon.
+helperText: Drag to progress (or hold shift and wheel)!
+name: Title
+number: Number
+author: Authors
+roadmapTitle: |
+  ## Development Roadmap 2020
+
+  An outline of important protocol development milestones for the year of 2020, including highlights from the [ETC Core 2020 Roadmap](https://medium.com/etc-core/etc-core-2020-roadmap-announcement-c2166cdbc53d).

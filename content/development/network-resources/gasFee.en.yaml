@@ -1,0 +1,16 @@
+- 
+  key: ETCGas
+  name: ETCGas
+  link: http://etcgas.net
+- 
+  key: EtherGas
+  name: EtherGas
+  link: http://etc.ethergas.net
+- 
+  key: Expedition
+  name: Expedition
+  link: https://expedition.dev/?network=mainnet
+- 
+  key: GasGauge
+  name: GasGauge
+  link: http://etc.gasgauge.org

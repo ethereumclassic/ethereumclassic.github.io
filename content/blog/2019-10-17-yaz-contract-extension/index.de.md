@@ -2,6 +2,7 @@
 title: "ETC Cooperative verlängert den Vertrag von Yaz Khoury"
 date: 2019-10-17
 author: Bob Summerwill
+unlisted: true
 ---
 ** 17 Oktober 2019 - Vancouver, Kanada ** - Die [ETC Cooperative](https://etccooperative.org) gab heute bekannt, dass sie den Vertrag von [Yaz Khoury](https://twitter.com/Yazanator) um ein weiteres Jahr verlängert hat. Yaz ist der ETC Cooperative  im Oktober 2018 beigetreten und leistet seitdem immer wieder hervorragende Arbeit:
 

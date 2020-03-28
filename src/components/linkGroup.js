@@ -1,18 +1,22 @@
 import React from 'react';
-import ButtonLink from './buttonLink';
+import Link from './link';
 
-const LinkGroup = ({ title, items }) => {
+import renderHtml from '../i18n/html';
+
+const ButtonGroup = ({ items, header }) => {
   return (
     <div className="link-group">
-      {title && <h5>{title}</h5>}
-      {items.map(({ link, text }) => (
-        <ButtonLink to={link} key={link}>
-          {/* {icon && } */}
-          {text}
-        </ButtonLink>
+      {header}
+      {items.map(({ name, key, link, title, text, html }) => (
+        <div key={key} className="link-item">
+          <h3>
+            <Link text={name || title} to={link} />
+          </h3>
+          {text && <p>{html ? renderHtml(text) : text}</p>}
+        </div>
       ))}
     </div>
   );
 };
 
-export default LinkGroup;
+export default ButtonGroup;

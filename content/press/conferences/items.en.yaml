@@ -1,0 +1,264 @@
+-
+  key:  ETC Summit 2017
+  name: Full Livestream - November, 2017
+  link: https://www.youtube.com/watch?v=vYvbzjETbxI&list=PL20HSZ6AK2yOrde28Pi_XCoaDWbahIhi0
+  youtube: vYvbzjETbxI
+  type: "2017"
+-
+  key:  ETC Summit 2018
+  name: Full Livestream - September 12, 2018
+  link: https://youtu.be/81EjJ5-sTRg
+  youtube: 81EjJ5-sTRg
+  type: "2018"
+-
+  key:  ETC Summit 2019
+  name: Full Day 1 - October 3rd, 2019
+  link: https://www.youtube.com/watch?v=Msi6EItbslk&list=PL20HSZ6AK2yOSOhBGFtLj6zPLkJEm_3FF&index=6
+  youtube: Msi6EItbslk
+  type: 2019-1
+-
+  key:  Opening Address
+  name: Opening Address
+  link: https://youtu.be/Msi6EItbslk?t=1655
+  youtube: Msi6EItbslk
+  timestamp: 1655
+  text: Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Executive Director of [ETC Cooperative](https://etccooperative.org/).
+  type: 2019-1
+-
+  key:  The State of Ethereum Classic
+  name: The State of Ethereum Classic
+  link: https://youtu.be/Msi6EItbslk?t=3205
+  youtube: Msi6EItbslk
+  timestamp: 3205
+  text: Anthony Lusardi [@pyskell](https://twitter.com/pyskell), Former Executive Director of [ETC Cooperative](https://etccooperative.org/).
+  type: 2019-1
+-
+  key:  Ethereum Classic Principles, Vision and Opportunity
+  name: Ethereum Classic Principles, Vision and Opportunity
+  link: https://youtu.be/Msi6EItbslk?t=3790
+  youtube: Msi6EItbslk
+  timestamp: 3790
+  text: Donald McIntyre [@MyEtherPlan](https://twitter.com/MyEtherplan), Researcher, Writer, and Podcaster [Etherplan](https://etherplan.com/).
+  type: 2019-1
+-
+  key:  Atlantis Protocol Upgrade and The ETC Roadmap
+  name: Atlantis Protocol Upgrade and The ETC Roadmap
+  link: https://youtu.be/Msi6EItbslk?t=5375
+  youtube: Msi6EItbslk
+  timestamp: 5375
+  text: Afri Schoeden [@a4fri](https://twitter.com/a4fri), [Ethereum Classic](https://ethereumclassic.org/) Core Developer.
+  type: 2019-1
+-
+  key:  The Future of JSON-RPC Tooling
+  name: The Future of JSON-RPC Tooling
+  link: https://youtu.be/Msi6EItbslk?t=8290
+  youtube: Msi6EItbslk
+  timestamp: 8290
+  text: Shane Jonas [@shanejonas](https://twitter.com/shanejonas), Co-Lead Tooling Developer at [ETC Core](https://etccore.io/).
+  type: 2019-1
+-
+  key:  Bridging the Decentralized Services Gap
+  name: Bridging the Decentralized Services Gap
+  link: https://youtu.be/Msi6EItbslk?t=8795
+  youtube: Msi6EItbslk
+  timestamp: 8795
+  text: Zane Starr [@zanecstarr](https://twitter.com/zanecstarr), Tooling Developer at [ETC Core](https://etccore.io/).
+  type: 2019-1
+-
+  key:  Adding Merkle-Mountain-Ranges and Fly-Proofs to ETC
+  name: Adding Merkle-Mountain-Ranges and Fly-Proofs to ETC
+  link: https://youtu.be/Msi6EItbslk?t=9431
+  youtube: Msi6EItbslk
+  timestamp: 9431
+  text: Zac Mitton [@VoltzRoad](https://twitter.com/VoltzRoad), Open Source Software Engineer at [Voltz Road](https://voltzroad.com/).
+  type: 2019-1
+-
+  key:  "Ethereum Classic's ECIP-1050: One Byte of Context"
+  name: "Ethereum Classic's ECIP-1050: One Byte of Context"
+  link: https://youtu.be/Msi6EItbslk?t=11350
+  youtube: Msi6EItbslk
+  timestamp: 11350
+  text: Brooklyn Zelenka [@expede](https://twitter.com/expede), Co-Founder/CTO of [FISSION](https://fission.codes/).
+  type: 2019-1
+-
+  key:  The Year Ahead for Ethereum Classic Labs
+  name: The Year Ahead for Ethereum Classic Labs
+  link: https://youtu.be/Msi6EItbslk?t=15290
+  youtube: Msi6EItbslk
+  timestamp: 15290
+  text: Terry Culver [@realetclassic](https://twitter.com/realetclassic), CEO of [Ethereum Classic Labs](https://etclabs.org/) and [ETC Core](https://etccore.io/).
+  type: 2019-1
+-
+  key:  Infrastructure for Decentralizing Distributed Networks
+  name: Infrastructure for Decentralizing Distributed Networks
+  link: https://youtu.be/Msi6EItbslk?t=16455
+  youtube: Msi6EItbslk
+  timestamp: 16455
+  text: Aaron Lowry [@Aaron_Lowry](https://twitter.com/Aaron_Lowry), Co-Founder/CEO of [Ethernode](https://ethernode.io/).
+  type: 2019-1
+-
+  key:  "Radical Ideals: Experiments in Sustaining Open Source Software"
+  name: "Radical Ideals: Experiments in Sustaining Open Source Software"
+  link: https://youtu.be/Msi6EItbslk?t=18250
+  youtube: Msi6EItbslk
+  timestamp: 18250
+  text: Scott Moore [@notscottmoore](https://twitter.com/notscottmoore), Developer Relations Lead at [GitCoin](https://gitcoin.co/).
+  type: 2019-1
+-
+  key:  "POA Network: Development Tools in the ETC Ecosystem"
+  name: "POA Network: Development Tools in the ETC Ecosystem"
+  link: https://youtu.be/Msi6EItbslk?t=21060
+  youtube: Msi6EItbslk
+  timestamp: 21060
+  text: Andrew Gross [@poanetwork](https://twitter.com/poanetwork), Technical Writer for [POA Network](https://www.poa.network/).
+  type: 2019-1
+-
+  key:  State of the Ethereum Classic Testnets
+  name: State of the Ethereum Classic Testnets
+  link: https://youtu.be/Msi6EItbslk?t=23515
+  youtube: Msi6EItbslk
+  timestamp: 23515
+  text: Afri Schoeden [@a4fri](https://twitter.com/a4fri), [Ethereum Classic](https://ethereumclassic.org/) Core Developer.
+  type: 2019-1
+-
+  key: "Metronome - First Cross-Chain Cryptocurrency: Chain Hop From ETH to ETC"
+  name: "Metronome - First Cross-Chain Cryptocurrency: Chain Hop From ETH to ETC"
+  link: https://youtu.be/Msi6EItbslk?t=25170
+  youtube: Msi6EItbslk
+  timestamp: 25170
+  text: Manoj Patidar [@manojpatidarr](https://twitter.com/manojpatidarr), Principal Engineer at [Bloq](https://www.bloq.com/).
+  type: 2019-1
+-
+  key:  "Fireside Chat: Improving Investor Access to Ethereum Classic"
+  name: "Fireside Chat: Improving Investor Access to Ethereum Classic"
+  link: https://youtu.be/Msi6EItbslk?t=26080
+  youtube: Msi6EItbslk
+  timestamp: 26080
+  text: Michael Sonnenshein [@Sonnenshein](https://twitter.com/Sonnenshein), Managing Director of [Grayscale](https://grayscale.co/).
+  type: 2019-1
+-
+  key:  The Need for Cross Chain Collaboration
+  name: The Need for Cross Chain Collaboration
+  link: https://youtu.be/Msi6EItbslk?t=27755
+  youtube: Msi6EItbslk
+  timestamp: 27755
+  text: Aidan Hyman [@Aidan_IH](https://twitter.com/Aidan_IH), Co-Founder/CEO of [ChainSafe](https://chainsafe.io/).
+  type: 2019-1
+-
+  key:  Developer Relations in Ethereum Classic
+  name: Developer Relations in Ethereum Classic
+  link: https://youtu.be/Msi6EItbslk?t=29190
+  youtube: Msi6EItbslk
+  timestamp: 29190
+  text: Yaz Khoury [@Yazanator](https://twitter.com/Yazanator), Director of Developer Relations at [ETC Cooperative](https://etccooperative.org/).
+  type: 2019-1
+-
+  key:  Full Day 2 - October 4th, 2019
+  name: Full Day 2 - October 4th, 2019
+  link: https://www.youtube.com/watch?v=TNsWR7jXllQ&list=PL20HSZ6AK2yOSOhBGFtLj6zPLkJEm_3FF&index=7
+  youtube: TNsWR7jXllQ
+  type: 2019-2
+-
+  key:  A New Open Source Deal for Web3
+  name: A New Open Source Deal for Web3
+  link: https://youtu.be/TNsWR7jXllQ?t=3240
+  timestamp: 3240
+  youtube: TNsWR7jXllQ
+  text: Boris Mann [@bmann](https://twitter.com/bmann), Co-Founder of [FISSION](https://fission.codes/).
+  type: 2019-2
+-
+  key:  Positive Sum Games Between Ethereum and Ethereum Classic
+  name: Positive Sum Games Between Ethereum and Ethereum Classic
+  link: https://youtu.be/TNsWR7jXllQ?t=5945
+  timestamp: 5945
+  youtube: TNsWR7jXllQ
+  text: Virgil Griffith [@virgilgr](https://twitter.com/virgilgr), Special Projects at the [Ethereum Foundation](https://ethereum.org/).
+  type: 2019-2
+-
+  key:  A Peripheral Observer and Fan's View of Ethereum Classic
+  name: A Peripheral Observer and Fan's View of Ethereum Classic
+  timestamp: 5945
+  youtube: TNsWR7jXllQ
+  link: https://youtu.be/TNsWR7jXllQ?t=8195
+  text: Sunny Aggarwal [@sunnya97](https://twitter.com/sunnya97), Researcher and Core Dev at [Tendermint](https://tendermint.com/) and [Cosmos](https://cosmos.network/).
+  type: 2019-2
+-
+  key:  Is Open Source Software Immortal?
+  name: Is Open Source Software Immortal?
+  link: https://youtu.be/TNsWR7jXllQ?t=9560
+  timestamp: 9560
+  youtube: TNsWR7jXllQ
+  text: Zachary Belford [@belfordz](https://twitter.com/belfordz), Co-Lead Tooling Developer at [ETC Core](https://etccore.io/).
+  type: 2019-2
+-
+  key:  "Merging Blockchains: A Technical Perspective"
+  name: "Merging Blockchains: A Technical Perspective"
+  link: https://youtu.be/TNsWR7jXllQ?t=11350
+  timestamp: 11350
+  youtube: TNsWR7jXllQ
+  text: Wei Tang [@sorpaas](https://twitter.com/sorpaas), Core Developer at [Parity](https://www.parity.io/).
+  type: 2019-2
+-
+  key:  Ethereum Classic's EVM LLVM Project
+  name: Ethereum Classic's EVM LLVM Project
+  link: https://youtu.be/TNsWR7jXllQ?t=12685
+  timestamp: 12685
+  youtube: TNsWR7jXllQ
+  text: Alan Li [@etc_core](https://twitter.com/etc_core), Lead Compiler Engineer at [ETC Core](https://etccore.io/).
+  type: 2019-2
+-
+  key:  "ECIP-1049: Why Ethereum Classic Should Adopt SHA3 Proof of Work"
+  name: "ECIP-1049: Why Ethereum Classic Should Adopt SHA3 Proof of Work"
+  link: https://youtu.be/TNsWR7jXllQ?t=15310
+  timestamp: 15310
+  youtube: TNsWR7jXllQ
+  text: Alex Tsankov [@antsankov](https://twitter.com/antsankov), Open Source Developer at [Block Reaction](https://blockreaction.nyc/).
+  type: 2019-2
+-
+  key:  Building Trust as a Miner or Miner-Maker
+  name: Building Trust as a Miner or Miner-Maker
+  link: https://youtu.be/TNsWR7jXllQ?t=17315
+  timestamp: 17315
+  youtube: TNsWR7jXllQ
+  text: Nishant Sharma [@nishantsharma87](https://twitter.com/nishantsharma87), PR and Community Relations at [Bitmain](https://www.bitmain.com/).
+  type: 2019-2
+-
+  key:  Ethereum Classic Ethash ASICs
+  name: Ethereum Classic Ethash ASICs
+  link: https://youtu.be/TNsWR7jXllQ?t=18440
+  timestamp: 18440
+  youtube: TNsWR7jXllQ
+  text: Werner Almesberger [@LinzhiCorp](https://twitter.com/LinzhiCorp), System Architect at [Linzhi](https://linzhi.io/).
+  type: 2019-2
+-
+  key:  "ETC Summit Platform Panel: Afri Schoedon, Shane Jonas, Wei Tang, Zachary Belford, Zachary Mitton"
+  name: "ETC Summit Platform Panel: Afri Schoedon, Shane Jonas, Wei Tang, Zachary Belford, Zachary Mitton"
+  link: https://youtu.be/TNsWR7jXllQ?t=23810
+  timestamp: 23810
+  youtube: TNsWR7jXllQ
+  text: Yaz Khoury [@Yazanator](https://twitter.com/Yazanator), Director of Developer Relations at [ETC Cooperative](https://etccooperative.org/).
+  type: 2019-2
+-
+  key:  "ETC Summit Community Panel: Chelsea Palmer, Donald McIntyre, Kevin Lord, Terry Culver, Yaz Khoury"
+  name: "ETC Summit Community Panel: Chelsea Palmer, Donald McIntyre, Kevin Lord, Terry Culver, Yaz Khoury"
+  link: https://youtu.be/TNsWR7jXllQ?t=25530
+  timestamp: 25530
+  youtube: TNsWR7jXllQ
+  text: Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Executive Director of [ETC Cooperative](https://etccooperative.org/).
+  type: 2019-2
+-
+  key: '"Capture" Was Already Always Happening: The Complexity of Power in Blockchain Ecosystems'
+  name: '"Capture" Was Already Always Happening: The Complexity of Power in Blockchain Ecosystems'
+  link: https://youtu.be/TNsWR7jXllQ?t=27480
+  timestamp: 27480
+  youtube: TNsWR7jXllQ
+  text: Chelsea Palmer [@chiselinc](https://twitter.com/chiselinc), Organizer of [DogeCon](http://www.dogecon.lol/).
+  type: 2019-2
+-
+  key:  "ETC Summit 2019: Closing Keynote"
+  name: "ETC Summit 2019: Closing Keynote"
+  link: https://youtu.be/TNsWR7jXllQ?t=29745
+  timestamp: 29745
+  youtube: TNsWR7jXllQ
+  text: Charles Hoskinson [@IOHK_Charles](https://twitter.com/IOHK_Charles), Co-Founder/CEO of [IOHK](https://iohk.io/) and Co-Founder of the Ethereum Project.
+  type: 2019-2

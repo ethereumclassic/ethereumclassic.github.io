@@ -2,15 +2,21 @@ import React from 'react';
 import { graphql } from 'gatsby';
 import Mdx from '~components/mdx';
 
-import PageLayout from '~components/pageLayout';
+import SubPageLayout from '~components/subPageLayout';
 
-const DefaultItem = ({ data: { mdx } }) => (
-  <PageLayout seo={{ title: mdx.frontmatter.title, description: mdx.frontmatter.description }}>
-    <h1>{mdx.frontmatter.title}</h1>
-    <Mdx code={mdx.body} />
-  </PageLayout>
-);
-
+const DefaultItem = ({ pageContext: { i18n }, data: { mdx } }) => {
+  return (
+    <SubPageLayout
+      i18n={{
+        ...i18n,
+        ...mdx.frontmatter
+      }}
+    >
+      <h1>{mdx.frontmatter.title}</h1>
+      <Mdx code={mdx.body} />
+    </SubPageLayout>
+  );
+};
 export default DefaultItem;
 
 export const query = graphql`
@@ -23,6 +29,8 @@ export const query = graphql`
       frontmatter {
         title
         description
+        license
+        contribute
       }
     }
   }

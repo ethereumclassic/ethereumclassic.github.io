@@ -1,0 +1,34 @@
+-
+  key: Ethereum Classic 
+  name: Ethereum Classic 
+  chainId: 61 
+  type: mainnet
+  networkId: 1
+  link: https://ethereumclassic.org
+  consensusAlgo: pow
+  miningAlgo: Ethash
+-
+  key: Testnet Kotti 
+  name: Kotti
+  chainId: 6 
+  type: testnet
+  networkId: 6
+  link: https://github.com/goerli/testnet
+  consensusAlgo: poa
+  miningAlgo: Clique
+-
+  key: Testnet Mordor
+  name: Mordor
+  chainId: 63 
+  type: testnet
+  networkId: 7
+  link: https://github.com/eth-classic/mordor
+  consensusAlgo: pow
+  miningAlgo: Ethash
+-
+  key: Testnet Astor 
+  name: Astor
+  type: experimental
+  link: https://astor.host/
+  consensusAlgo: pow
+  miningAlgo: Keccak256

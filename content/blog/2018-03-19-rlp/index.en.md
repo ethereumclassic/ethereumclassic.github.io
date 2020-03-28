@@ -10,7 +10,7 @@ Ethereum Classic (ETC) uses Recursive Length Prefix (RLP) encoding to store and 
 
 ## Introduction
 
-![](./1*_y8SOO9LmGSUWnSGG1vidg.png)
+![](./1_y8SOO9LmGSUWnSGG1vidg.png)
 
 Serialization is the process of encoding data structures into byte sequences. It is also referred to as marshalling and pickling. Serialization is necessary when storing and sending data structures.
 
@@ -154,11 +154,11 @@ RLP is an elegant and approachable serialization format used extensively by ETC.
 
 You can contact me by clicking any of these icons:
 
-![](./0*eoFC6QOWZ--bCngK.png)
+![](./0eoFC6QOWZ--bCngK.png)
 
-![](./0*i3CwTFEKUnKYHMf0.png)
+![](./0i3CwTFEKUnKYHMf0.png)
 
-![](./0*HQj6HSHxE7pkIBjk.png)
+![](./0HQj6HSHxE7pkIBjk.png)
 
 ## Acknowledgements
 
@@ -166,6 +166,6 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 ## License
 
-![](./0*hocpUZXBcjzNJeQ2.png)
+![](./0hocpUZXBcjzNJeQ2.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0 International License.

@@ -1,0 +1,108 @@
+- 
+  key: Arena Racing
+  name: Arena Racing
+  link: https://arena.highlander.network/
+  text: Up to 5 players enter the stage to race to the finish. Every player pays 0.1 ETC to race. 1 player in the Arena loses the race but receives dividends from P3C which is bought every round and is locked up in the contract.
+  type: game
+- 
+  key: ETCOdyssey
+  name: ETCOdyssey
+  link: https://etcodyssey.com/
+  text: Upgrade your ships to avoid raiders looking to steal your Dark Matter & Star Dust. Fuse in game StarDust for a percentage of the pot or convert your StarDust for ONEX Network tokens sent with 1 transaction to your wallet.
+  type: game
+- 
+  key: Luckygames
+  name: Luckygames
+  link: https://luckygames.cc/
+  text: Ethereum Classic Dice and Gambling site.
+  type: game
+- 
+  key: Aqua Bank
+  name: Aqua Bank
+  type: game
+  link: https://aqua.xenobank.com/
+  text: In this game you take care about whale. Fish lives in a protected area with other endangered species. Player is supposed to feed the whale using plankton in order to let it grow. Whale also produces oil as it consumes plankton. Oil and whale meat slices are requested at the Port, where they also supply plankton for feeding. Relax by watching fish in the aquarium grow
+- 
+  key: Commonwealth Country
+  name: Commonwealth Country
+  type: game
+  link: https://commonwealth.gg/country.html
+  text: Generate an immutable new Country based on your ETC Address.
+- 
+  key: OriginalMy
+  name: OriginalMy
+  link: https://originalmy.com/
+  text: "Building trust in corporate governance. Seamlessly authenticating: identities, authorisation signatures, and digital content. A global public utility for self-sovereign identity."
+  type: identity
+- 
+  key: Stampery
+  name: Stampery
+  link: https://stampery.com/
+  text: We leverage blockchain technology to ensure the existence, integrity and attribution of communications, processes and data important for your organization.
+  type: identity
+- 
+  key: BTC-to-wBTC
+  name: BTC-to-wBTC
+  link: https://wbtc.network/
+  text: Wrapped Bitcoin delivers the power of Bitcoin with the flexibility of an ERC20 token. Bitcoin tokenized on EVMs.
+  type: interoperabiltiy
+- 
+  key: ETC-to-wETC
+  name: ETC-to-wETC
+  link: https://wetc.app/
+  text: The Ethereum Classic Bridge connects ETC-to-ETH, where ETC is available as wETC on the Ethereum (ETH) chain.
+  type: interoperabiltiy
+- 
+  key: EVM-to-BNC Bridge
+  name: EVM-to-BNC Bridge
+  link: https://docs.tokenbridge.net/eth-bnc-bridge/about-eth-bnc-bridge
+  text: The EVM-to-BNC bridge combines the TokenBridge approach with a TSS to approve relay operations and facilitate asset transfer between an EVM chain and the Binance chain.
+  type: interoperabiltiy
+- 
+  key: Token Bridge
+  name: Token Bridge
+  link: https://docs.tokenbridge.net/
+  text: The TokenBridge allows users to transfer data (e.g. digital asset ownership information) between two chains in the Ethereum ecosystem. Cross-chain bridges provide fast and secure connections between blockchains, creating scalability and connection - interoperability - between Ethereum EVM networks.
+  type: interoperabiltiy
+- 
+  key: Commonwealth
+  name: Commonwealth
+  link: https://commonwealth.gg
+  text: The World’s Savings Fund. Immutable. Built 2018.
+  type: finance
+- 
+  key: ePOC
+  name: ePOC
+  link: https://etc.poc35.co/
+  text: ePoC is based on a ETC smart contract run on the ethereum blockchain. It’s modeled after Powh3D
+  type: finance
+- 
+  key: GitCoin
+  name: GitCoin
+  link: https://gitcoin.co/
+  text: Crowdfunding and Freelance Developers for Open Source Software Projects.
+  type: finance
+- 
+  key: ONEX Network
+  name: ONEX Network
+  link: https://onex.network/
+  text: Proof-of-Stake Token on Ethereum Classic Network. This is an alternative method to the more widely known process used by bitcoin; Proof of Work (POW).
+  type: finance
+- 
+  key: Grayscale® Ethereum Classic Trust
+  name: Grayscale® Ethereum Classic Trust
+  link: https://grayscale.co/ethereum-classic-trust/
+  text: Grayscale Ethereum Classic Trust enables investors to gain exposure to the price movement of ETC through a traditional investment vehicle, without the challenges of buying, storing, and safekeeping ETC.
+  type: other
+- 
+  key: Portal.Network
+  name: Portal.Network
+  link: https://www.portal.network/
+  text: Blockchain Name Service enables connections with IPFS hash, smart contract, and wallet address.
+  type: other
+-
+  key: XAR Network
+  name: XAR Network
+  link: https://xar.network/
+  text: Xar Network was created from a need of corporate and central banks to use blockchain technology in a private, permissioned space. As our feature set grew we noticed consistent cross-over with the decentralized finance ecosystem, so eventually the Xar toolkit grew to a full-fledged decentralized finance toolbox. Xar Network offers access to advantages of both purely traditional banking systems and blockchain systems - using blockchain based or decentralized finance (DeFi).
+  type: other

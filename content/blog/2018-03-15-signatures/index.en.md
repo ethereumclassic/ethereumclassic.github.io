@@ -4,12 +4,12 @@ date: 2018-03-15
 author: Christian Seberino
 ---
 
-![](./1*badmg3GLTFGGKsRdqeySTg.png)
+![](./1badmg3GLTFGGKsRdqeySTg.png)
 
 Ethereum Classic (ETC) digital signatures secure transactions.  These involve elliptic curve cryptography and the Elliptic Curve Digital Signature Algorithm (ECDSA).  I will describe ETC digital signatures *without* these topics using only small Python functions.
 
 ### Basics
-<br/>![](./1*yw1934-mAqp5DM4FWgbNqQ.jpeg)
+<br/>![](./1yw1934-mAqp5DM4FWgbNqQ.jpeg)
 
 Signing and verifying will be implemented using the following four constants and three functions:
 ```
@@ -79,7 +79,7 @@ def multiply(number, pair):
 [82708077205483544970470074583740846828577431856187364454411787387343982212318, 30836796656275663256542662990890163662171092281704208118107591167423888588304]
 ```
 ### Private & Public Keys
-<br/>![](./1*0Y8TNbhhEQytGNYJH5uPTg.jpeg)
+<br/>![](./10Y8TNbhhEQytGNYJH5uPTg.jpeg)
 
 Private keys are any nonzero numbers less than the constant *N*.  Public keys are the products of these private keys and the pair (*Gx*, *Gy* ). For example:
 ```
@@ -92,7 +92,7 @@ Private keys are any nonzero numbers less than the constant *N*.  Public keys ar
 
 ### Signing
 
-![](./1*na0d3BXnFL-nSj5mNOsE2g.jpeg)
+![](./1na0d3BXnFL-nSj5mNOsE2g.jpeg)
 Signing transactions involves an operation on the Keccak 256 hashes of the transactions and private keys. The following function implements this operation:
 ```
 import random
@@ -127,7 +127,7 @@ def sign(hash, priv_key):
 
 ### Verifying
 
-![](./1*mU-RpvD9LL_3ej7FC7nNsg.jpeg)
+![](./1mU-RpvD9LL_3ej7FC7nNsg.jpeg)
 
 Verifying digital signatures involves confirming certain properties with regards to the Keccak 256 hashes and public keys. The following function implements these checks:
 ```
@@ -171,7 +171,7 @@ True
 <br/>Strictly speaking, ETC digital signatures include additional small numbers referred to as *recovery identifiers*.  These allow public keys to be determined solely from the signed transactions.
 
 ### Conclusion
-<br/>![](./1*c2zDUxyTF1IidCj15Xa4yg.jpeg)
+<br/>![](./1c2zDUxyTF1IidCj15Xa4yg.jpeg)
 
 I have explained ETC digital signatures using code rather than mathematics. Hopefully seeing how signing and verifying can be implemented with these tiny functions has been useful.
 
@@ -179,11 +179,11 @@ I have explained ETC digital signatures using code rather than mathematics. Hope
 
 You can contact me by clicking any of these icons:
 
-![](./0*eoFC6QOWZ--bCngK.png)
+![](./0eoFC6QOWZ--bCngK.png)
 
-![](./0*i3CwTFEKUnKYHMf0.png)
+![](./0i3CwTFEKUnKYHMf0.png)
 
-![](./0*HQj6HSHxE7pkIBjk.png)
+![](./0HQj6HSHxE7pkIBjk.png)
 
 ### Acknowledgements
 
@@ -191,7 +191,7 @@ I would like to thank IOHK (Input Output Hong Kong) for funding this effort.
 
 ### License
 
-![](./0*hocpUZXBcjzNJeQ2.png)
+![](./0hocpUZXBcjzNJeQ2.png)
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0
 International License.

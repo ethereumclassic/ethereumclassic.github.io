@@ -1,0 +1,18 @@
+title: Clients
+description: Download links for various Ethereum Classic clients and deployment tools
+contribute: true
+disclaimer: true
+intro: | 
+  # Clients
+
+  Clients are used to sync with the Etheruem Classic network and verify blocks. Most users won't need to run a full node, but they allow those who do to trustlessly interact with the network.
+releases: Releases
+support: Support
+publicEndpointsTitle: | 
+  ## Public Endpoints
+
+  You can use these services to connect to ETC via JSON-RPC.
+deploymentTools: | 
+  ## Node Deployment Tools
+
+  These tools make it easy to spin up a node or cluster of nodes for production deployments.
