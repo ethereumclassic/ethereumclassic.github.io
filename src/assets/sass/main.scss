@@ -4,8 +4,7 @@
 @import 'libs/vendor';
 @import 'libs/breakpoints';
 @import 'libs/html-grid';
-@import '../css/fontawesome-all.min.css';
-// @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600,700,300i,600i,700i|Raleway:600,800');
+@import '../css/fontawesome-all.css';
 
 /*
 	Paradigm Shift by HTML5 UP
@@ -54,3 +53,7 @@
 // custom
 
 	@import './custom';
+
+// TODO phoenix theme
+
+	// @import './phoenix'
