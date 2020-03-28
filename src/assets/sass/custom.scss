@@ -436,12 +436,16 @@ section>p:last-child {
 .pagination {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  margin-bottom: $smallPadding;
-  margin-top: $smallPadding;
-}
-
-.wide .pagination {
+  margin-bottom: $smallPadding; 
   margin-top: 0;
+}
+@include breakpoint('<=small') {
+  .pagination {
+    margin-top: $smallPadding;
+  }
+  .wide .pagination {
+    margin-top: 0;
+  }
 }
 
 .grid {
