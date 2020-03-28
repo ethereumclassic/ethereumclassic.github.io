@@ -1,10 +1,10 @@
 tasks:
   - init: npm install
     command: npm start
-  - command: echo "Try running `npm run create:blog`"
+  - command: echo "To create a new blog, type; npm run create:blog"
 ports:
   - port: 8000
-    onOpen: open-browser
+    onOpen: open-preview
 github:
   prebuilds:
     master: true
