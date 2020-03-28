@@ -4,3 +4,7 @@ tasks:
 ports:
   - port: 8000
     onOpen: open-browser
+github:
+  prebuilds:
+    master: true
+    branches: true
