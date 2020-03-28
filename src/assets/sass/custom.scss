@@ -376,6 +376,7 @@ section>p:last-child {
 .read-more {
   display: inline-block;
   white-space: nowrap;
+
   i {
     margin-right: 0;
   }
@@ -432,6 +433,16 @@ section>p:last-child {
 }
 
 // grids
+.pagination {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-bottom: $smallPadding;
+  margin-top: $smallPadding;
+}
+
+.wide .pagination {
+  margin-top: 0;
+}
 
 .grid {
   display: grid;
@@ -1239,6 +1250,13 @@ body.hanzi {
 
   .right-buttons {
     float: right;
+    margin-bottom: $tinyPadding;
+
+    @include breakpoint('<=small') {
+      float: none;
+      text-align: right;
+    }
+
   }
 }
 
@@ -1319,6 +1337,7 @@ table tr.faded {
 .tabs {
   border-bottom: $solidBottom;
   padding: 0;
+  white-space: nowrap;
 
   a {
     display: inline-block;
@@ -1367,23 +1386,35 @@ table tr.faded {
 .button-group {
   margin: $largePadding 0;
 }
+
 .sitemap {
   small {
     font-size: 0.8rem;
     white-space: nowrap;
   }
-  a { 
+
+  a {
     line-height: 1.6rem;
-    display: block; border: 0; padding: $tinyPadding; 
+    display: block;
+    border: 0;
+    padding: $tinyPadding;
   }
+
   a:nth-child(odd) {
-    background: rgba(0,0,0,.04);
+    background: rgba(0, 0, 0, .04);
   }
+
   a:hover {
     background: #eee;
   }
+
   .text {
     font-size: 0.8rem;
     line-height: 1rem;
   }
+}
+
+.item-table .table {
+  overflow: scroll;
+  margin-bottom: $smallPadding;
 }

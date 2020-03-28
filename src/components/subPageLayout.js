@@ -6,14 +6,14 @@ import SubMenu from './subMenu';
 
 import html from '../i18n/html';
 import ButtonLink from './buttonLink';
-import Grid from './grid';
+// import Grid from './grid';
 import Translate from './translate';
 
 // TODO seriously refactor this
 
 function renderPagination({ previousLink, nextLink, nextText, className }) {
   return (
-    <Grid className={`pagination ${className || ''}`}>
+    <div className={`pagination ${className || ''}`}>
       <div>{previousLink}</div>
       <div className="text-right">
         {nextLink && nextText && (
@@ -24,7 +24,7 @@ function renderPagination({ previousLink, nextLink, nextText, className }) {
         )}
         {nextLink}
       </div>
-    </Grid>
+    </div>
   );
 }
 
