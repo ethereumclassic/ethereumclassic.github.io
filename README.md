@@ -2,7 +2,6 @@
 
 - [Main site](https://ethereumclassic.org/)
 - [Build logs](https://app.netlify.com/sites/ethereumclassic/deploys)
-- [Current restructure preview](https://restructure--ethereumclassic.netlify.com/)
 
 ## Content
 
