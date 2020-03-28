@@ -12,6 +12,7 @@
     "serve-build": "npm run build && npm run serve",
     "serve": "GATSBY_TELEMETRY_DISABLED=1 gatsby serve",
     "start": "npm run develop",
+    "create:blog": "node ./scripts/create-blog",
     "lint": "eslint ."
   },
   "dependencies": {
@@ -45,12 +46,14 @@
     "js-yaml": "^3.13.1",
     "node-sass": "^4.13.1",
     "prettier": "^1.18.2",
+    "prompts": "^2.3.2",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-helmet": "^5.2.1",
     "rehype-stringify": "^6.0.1",
     "remark": "^11.0.2",
     "remark-parse": "^7.0.2",
-    "remark-rehype": "^5.0.0"
+    "remark-rehype": "^5.0.0",
+    "slugify": "^1.4.0"
   }
 }
