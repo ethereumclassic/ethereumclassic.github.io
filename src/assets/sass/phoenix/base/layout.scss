@@ -1,0 +1,219 @@
+#wrapper.page {
+  .layout-container {
+    background: white;
+  }
+
+  .layout-content {
+    margin: auto;
+    max-width: $maxPageWidth;
+    padding: $largePadding;
+
+    @include breakpoint('<=small') {
+      padding: $smallPadding;
+    }
+  }
+
+  &.wide .layout-content {
+    max-width: none;
+    margin: 0;
+    padding: $largePadding 0;
+
+    >section {
+      max-width: $maxPageWidth;
+      padding: 0 $largePadding;
+
+      @include breakpoint('<=small') {
+        padding: 0 $smallPadding;
+      }
+
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+    }
+  }
+}
+
+section>p:last-child {
+  margin-bottom: 0;
+}
+
+
+#page-header {
+  background: _palette(accent);
+
+  header {
+    max-width: $maxPageWidth;
+    padding: $tinyPadding $largePadding;
+    margin: auto;
+
+    @include breakpoint('<=small') {
+      padding: $tinyPadding $smallPadding;
+    }
+  }
+
+  img {
+    max-width: 30px;
+
+    @include breakpoint('<=small') {
+      max-width: 20px;
+    }
+
+    margin-right: $tinyPadding;
+    display: inline;
+  }
+
+  a {
+    border-bottom: none;
+
+    &:hover {
+      color: white;
+    }
+  }
+
+  h1 {
+    margin: 0;
+    display: inline;
+    font-size: 2.5rem;
+
+    @include breakpoint('<=small') {
+      font-size: $smallPadding;
+    }
+
+    small {
+      font-size: 1rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05rem;
+      padding-left: 0.2rem;
+    }
+  }
+}
+
+
+#wrapper section.wide-header {
+  >header {
+    width: auto;
+
+    p,
+    h2,
+    h3 {
+      max-width: none;
+    }
+  }
+
+  >.content,
+  >header {
+    padding-bottom: $largePadding;
+  }
+}
+
+.wide-section {
+  background: white;
+  position: relative;
+  padding: $largePadding;
+
+  @include breakpoint('<=small') {
+    padding: $largePadding $smallPadding;
+  }
+
+  .container {
+    max-width: $maxPageWidth;
+    margin: auto;
+
+    &.full {
+      max-width: none;
+    }
+  }
+
+  &.shaded {
+    background: #f5f5f5;
+  }
+}
+
+.dark {
+  background: _palette(accent-dark);
+
+  &,
+  h1,
+  h2,
+  h3,
+  h4,
+  p,
+  a {
+    color: white;
+  }
+
+  .button-link {
+    background: rgba(255, 255, 255, .2);
+    box-shadow: $softShadow;
+
+    &:hover {
+      background: rgba(255, 255, 255, .1);
+    }
+  }
+}
+
+
+#wrapper.page {
+
+  .grid.wide,
+  .grid.semi {
+    margin-bottom: $largePadding;
+  }
+}
+
+
+
+.grid {
+  display: grid;
+  max-width: 100%;
+  grid-gap: $smallPadding;
+  margin-bottom: $smallPadding;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+
+  @include breakpoint('<=small') {
+    grid-template-columns: 1fr !important;
+  }
+
+  &.wide,
+  &.semi {
+    padding: 0 $smallPadding;
+  }
+
+  &.semi {
+    max-width: $maxWideSectionWidth;
+    margin: auto;
+  }
+}
+
+
+
+.disclaimer,
+.license,
+.contribute {
+  background: rgba(0, 230, 150, 0.1);
+  padding: $microPadding $tinyPadding;
+  border-radius: $tinyPadding;
+  margin-bottom: $tinyPadding;
+  font-size: 0.9rem;
+  color: rgba(0, 0, 0, .8)
+}
+
+#wrapper .copyright a.button-link {
+  color: initial;
+}
+
+
+#wrapper .layout-content section {
+  display: block;
+  margin-top: 0;
+  margin-bottom: $smallPadding;
+}
+
+#wrapper section.layout-header {
+  margin-top: -$smallPadding;
+}
+
+.layout-footer {
+  padding-top: $tinyPadding;
+}

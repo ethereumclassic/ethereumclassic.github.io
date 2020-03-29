@@ -1,0 +1,169 @@
+// fork timeline
+
+.fork-timeline {
+  margin-bottom: $smallPadding;
+
+  .items {
+    background: #eee;
+    white-space: nowrap;
+    overflow-x: auto;
+  }
+
+  .scroll-info {
+    opacity: 0.5;
+  }
+
+  .items,
+  .scroll-info {
+    padding: 0 $largePadding;
+
+    @include breakpoint('<=small') {
+      padding: 0 $smallPadding;
+    }
+  }
+
+  .item:first-child .date {
+    border-radius: 1rem 0 0 1rem;
+  }
+
+  .item:last-child .date {
+    border-radius: 0 1rem 1rem 0;
+  }
+
+  .item {
+    $iconSize: 4rem;
+    margin: $smallPadding 0;
+    $stickHeight: 1rem;
+    text-align: center;
+    vertical-align: top;
+    display: inline-block;
+    width: 16rem;
+    white-space: normal;
+
+    .date,
+    .icon {
+      color: white;
+      background: grey;
+    }
+
+    .date {
+      margin-bottom: $stickHeight;
+      text-transform: uppercase;
+      font-size: 0.8rem;
+      font-weight: bold;
+      letter-spacing: 0.1rem;
+    }
+
+    .icon {
+      margin-top: $stickHeight;
+      width: $iconSize;
+      height: $iconSize;
+      line-height: $iconSize;
+      margin: auto;
+      font-size: $iconSize - 2rem;
+      border-radius: 100%;
+      display: block;
+
+      &::after {
+        content: '';
+        width: 1rem;
+        height: $stickHeight + 0.5rem;
+        background: grey;
+        display: block;
+        margin: auto;
+        margin-top: (-$stickHeight) + (-$iconSize);
+      }
+    }
+
+    .date,
+    .icon,
+    .icon::after {
+      background: #797979;
+    }
+
+    &.red {
+
+      .date,
+      .icon,
+      .icon::after {
+        background: _palette(dark-red-col);
+      }
+    }
+
+    &.green {
+
+      .date,
+      .icon,
+      .icon::after {
+        background: _palette(accent);
+        color: inherit;
+      }
+    }
+
+    &.purple {
+
+      .date,
+      .icon,
+      .icon::after {
+        background: _palette(dark-purple-col);
+      }
+    }
+
+    &.orange {
+
+      .date,
+      .icon,
+      .icon::after {
+        background: _palette(dark-orange-col)
+      }
+    }
+
+    &.blue {
+
+      .date,
+      .icon,
+      .icon::after {
+        background: _palette(dark-blue-col);
+      }
+    }
+
+    &.white {
+
+      .date,
+      .icon,
+      .icon::after {
+        color: inherit;
+        background: #fff;
+      }
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    p {
+      margin: 0;
+    }
+
+    h3 {
+      margin-top: $stickHeight;
+      font-size: 1.1rem;
+      line-height: 1.4rem;
+      margin-bottom: 0.6rem;
+    }
+
+    .content {
+      margin: 0 $tinyPadding;
+    }
+
+    .text {
+      font-size: 0.9rem;
+      line-height: 1.2rem;
+    }
+
+    a {
+      border: none;
+    }
+  }
+}

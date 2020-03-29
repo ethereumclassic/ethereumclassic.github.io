@@ -1,0 +1,96 @@
+// buttons
+.read-more {
+  display: inline-block;
+  white-space: nowrap;
+
+  i {
+    margin-right: 0;
+  }
+}
+
+.button-link {
+  margin: 0.2rem;
+  padding: 0 0.6rem;
+  display: inline-block;
+  white-space: nowrap;
+  background: rgba(0, 0, 0, .05);
+  border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+
+  i.left {
+    margin-left: 0;
+  }
+
+  i.right {
+    margin-right: 0;
+  }
+
+  &:hover {
+    background: rgba(255, 255, 255, .3);
+  }
+
+  &.big {
+    padding: 0.2em 1rem;
+    font-size: 1.2rem;
+  }
+
+  &.massive {
+    font-size: 1.5rem;
+    font-weight: bold;
+    border-bottom: 3px solid rgba(0, 0, 0, .3);
+  }
+
+  &.blue {
+    background: rgba(0, 0, 100, .3);
+
+    &:hover {
+      background: rgba(0, 0, 150, .4);
+    }
+
+    box-shadow: $softShadow;
+    color: white;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, .5);
+  }
+}
+
+.external-icon {
+  margin-right: 0;
+  margin-left: $microPadding;
+  display: inherit;
+}
+
+.info-buttons-group {
+  box-shadow: 0 $microPadding $smallPadding rgba(0, 0, 0, .15);
+  background: rgba(0, 0, 0, .05);
+  border-radius: $microPadding;
+  border: $solidBottom;
+
+  .item {
+    border-bottom: $solidBottom;
+    padding: $smallPadding;
+
+    p {
+      margin: 0;
+    }
+  }
+
+  margin: $largePadding 0;
+
+  .item:last-child {
+    border-bottom: none;
+  }
+
+  .right-buttons {
+    float: right;
+    margin-bottom: $tinyPadding;
+
+    @include breakpoint('<=small') {
+      float: none;
+      text-align: right;
+    }
+
+  }
+}
+
+.button-group {
+  margin: $largePadding 0;
+}

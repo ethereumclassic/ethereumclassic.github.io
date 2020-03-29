@@ -1,0 +1,171 @@
+// main menu
+#menu {
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 10;
+  user-select: none;
+
+  >div,
+  >nav {
+    display: inline-block;
+  }
+
+  label {
+    background: rgba(0, 0, 0, 0.1);
+  }
+
+  a {
+    border-bottom: 0;
+  }
+}
+
+// language selection
+
+.select-language a {
+  line-height: 1rem;
+  padding: 0.2rem;
+  margin: 0;
+  vertical-align: middle;
+}
+
+/* RE-USED ELEMENTS */
+
+// hamburger menus
+
+.hamburger {
+  $buttonSize: 2.5rem;
+  $dropdownPadding: 10px;
+
+  input+label {
+    &::before {
+      display: none;
+    }
+
+    display: inline-block;
+    cursor: pointer;
+    user-select: none;
+    line-height: $buttonSize;
+    min-width: $buttonSize;
+    height: $buttonSize;
+    padding: 0 $tinyPadding;
+    text-align: center;
+    text-transform: none;
+    letter-spacing: inherit;
+    font-weight: 100;
+    margin-bottom: $dropdownPadding;
+  }
+
+  .buttons {
+    display: none;
+    position: absolute;
+    margin-right: $dropdownPadding;
+    right: 0;
+    background: white;
+    padding: 0;
+    max-height: 50vh;
+    overflow-y: auto;
+    box-shadow: $softShadow;
+  }
+
+  a {
+    display: block;
+    cursor: pointer;
+  }
+
+  input:checked+label {
+    background-color: black !important;
+    color: white;
+  }
+
+  input:checked~.buttons {
+    display: block;
+  }
+}
+
+
+.pagination {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-bottom: $smallPadding;
+  margin-top: 0;
+}
+
+// grids
+@include breakpoint('<=small') {
+  .pagination {
+    margin-top: $smallPadding;
+  }
+
+  .wide .pagination {
+    margin-top: 0;
+  }
+}
+
+.sub-menu li.selected {
+  font-weight: bold;
+}
+
+
+.sitemap {
+  small {
+    font-size: 0.8rem;
+    white-space: nowrap;
+  }
+
+  a {
+    line-height: 1.6rem;
+    display: block;
+    border: 0;
+    padding: $tinyPadding;
+  }
+
+  a:nth-child(odd) {
+    background: rgba(0, 0, 0, .04);
+  }
+
+  a:hover {
+    background: #eee;
+  }
+
+  .text {
+    font-size: 0.8rem;
+    line-height: 1rem;
+  }
+}
+
+
+.tabs {
+  border-bottom: $solidBottom;
+  padding: 0;
+  white-space: nowrap;
+
+  a {
+    display: inline-block;
+    border: none;
+    background: #ddd;
+    opacity: 0.7;
+    padding: $nanoPadding $tinyPadding;
+    margin-left: $microPadding;
+    border-top-left-radius: $microPadding;
+    border-top-right-radius: $microPadding;
+    border: 2px solid #ddd;
+    margin-bottom: -2px;
+
+    &:hover {
+      opacity: 0.9;
+    }
+
+    &.selected {
+      opacity: 1;
+      border-bottom: 2px solid white;
+      background: white;
+    }
+  }
+}
+
+.tabs-child {
+  border: 2px solid #ddd;
+  padding: $smallPadding;
+  border-top: 0;
+}

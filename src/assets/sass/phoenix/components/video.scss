@@ -1,0 +1,38 @@
+.video-frame {
+  width: 100%;
+  height: 45vh;
+  background: #f5f5f5;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  i {
+    font-size: 2em;
+    margin: $tinyPadding;
+  }
+
+  &.not-playing {
+    cursor: pointer;
+
+    &:hover {
+      background: #ddd;
+    }
+  }
+}
+
+.video-item {
+  margin-bottom: $hugePadding;
+
+  &:last-of-type {
+    margin-bottom: 0;
+  }
+}
+
+iframe.video {
+  margin: $smallPadding 0;
+}
+
+.video-group {
+  margin: $largePadding 0;
+}

@@ -1,0 +1,38 @@
+.blog-item {
+  margin: $largePadding 0;
+
+  h3 {
+    margin-bottom: $tinyPadding;
+
+    a {
+      border: 0;
+    }
+  }
+
+  h4 {
+    margin: 0
+  }
+}
+
+.latest-blog-posts {
+
+  h4,
+  h3 {
+    margin: 0;
+  }
+
+  a.item {
+    margin: 0 (-$tinyPadding);
+    padding: $tinyPadding;
+    display: block;
+    border-bottom: none;
+
+    p {
+      margin: 0;
+    }
+
+    &:hover {
+      background: rgba(0, 0, 0, 0.05);
+    }
+  }
+}

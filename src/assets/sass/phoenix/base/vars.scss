@@ -1,0 +1,18 @@
+$softShadow: 0 0.5rem 1rem rgba(0, 0, 0, .1);
+$solidBottom: 2px solid rgba(0, 0, 0, .1);
+
+$maxPageWidth: 55rem;
+$maxWideSectionWidth: $maxPageWidth+30rem;
+
+$largePadding: 4rem;
+$hugePadding: $largePadding * 2;
+$smallPadding: $largePadding / 2;
+$tinyPadding: $smallPadding / 2;
+$microPadding: $tinyPadding / 2;
+$nanoPadding: $microPadding / 2;
+
+$grid-color-1:#1BE7FF;
+$grid-color-2:#6EEB83;
+$grid-color-3:#E4FF1A;
+$grid-color-4:#E8AA14;
+$grid-color-5:#FF5714;
