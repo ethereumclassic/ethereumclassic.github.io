@@ -3,9 +3,9 @@ import React from 'react';
 import Link from './link';
 import Translate from './translate';
 
-const BlogListItem = ({ key, date, title, author, source, link, text }) => {
+const MediaListItem = ({ date, title, author, source, link, text }) => {
   return (
-    <div key={key} className="blog-item">
+    <div className="blog-item">
       <h4>
         <Translate date={date} />
         <small>{` ${author || ''}${author && source ? ',' : ''} ${source || ''}`}</small>
@@ -19,4 +19,4 @@ const BlogListItem = ({ key, date, title, author, source, link, text }) => {
   );
 };
 
-export default BlogListItem;
+export default MediaListItem;

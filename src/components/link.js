@@ -1,5 +1,6 @@
 import React from 'react';
 
+import { navigate } from '@reach/router';
 import LocalizedLink from './localizedLink';
 
 function isHash(str) {
@@ -13,26 +14,58 @@ function isInternal(str) {
 // list of classes that never show the external link icon
 const externalIconBlacklist = ['gatsby-resp-image-link', 'card', 'button-link'];
 
-const Link = ({ to, text, children, icon, fullIcon, ...props }) => {
-  const iconText = fullIcon || (icon ? `fas fa-${icon}` : null);
+const Link = ({
+  to: _to,
+  text,
+  name,
+  link,
+  children,
+  icon,
+  next,
+  back,
+  fullIcon,
+  as,
+  style,
+  _localized,
+  className,
+  notLocalized,
+  ...props
+}) => {
+  const to = _to || link;
+  const passedProps = { notLocalized, className, style };
+  const actualIcon = icon || (back && 'angle-left') || (next && 'angle-right');
+  const iconText = fullIcon || (actualIcon ? `fas fa-${actualIcon}` : null);
   const content = (
     <>
-      {text || children}
-      {iconText && <i className={iconText} />}
+      {back && iconText && <i className={`${iconText} left`} />}
+      {text || name || children || to}
+      {!back && iconText && <i className={`${iconText} right`} />}
     </>
   );
   if (isHash(to)) {
     return (
-      <a {...props} href={to}>
+      <a
+        {...passedProps}
+        href={to}
+        onClick={e => {
+          e.preventDefault();
+          navigate(to);
+        }}
+      >
         {content}
       </a>
     );
   }
-  if (!isInternal(to) || to.indexOf('/static/') === 0 || to.endsWith('.pdf')) {
-    const showIcon = !externalIconBlacklist.find(s => `${props.className}`.indexOf(s) > -1);
+  if (
+    !isInternal(to) ||
+    to.indexOf('/static/') === 0 ||
+    to.endsWith('.pdf') ||
+    to.endsWith('.xml')
+  ) {
+    const showIcon = !externalIconBlacklist.find(s => `${className}`.indexOf(s) > -1);
     return (
       <a
-        {...props}
+        {...passedProps}
         href={to || '#'}
         target="_blank"
         rel="noopener noreferrer"
@@ -50,7 +83,7 @@ const Link = ({ to, text, children, icon, fullIcon, ...props }) => {
     );
   }
   return (
-    <LocalizedLink {...props} to={to}>
+    <LocalizedLink {...passedProps} to={to}>
       {content}
     </LocalizedLink>
   );

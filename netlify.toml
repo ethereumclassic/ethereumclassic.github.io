@@ -1,3 +1,6 @@
 [[redirects]]
   from = "/wiki"
   to = "https://github.com/ethereumclassic/wiki/wiki"
+[[redirects]]
+  from = "/summit/2019"
+  to = "/press/conferences"

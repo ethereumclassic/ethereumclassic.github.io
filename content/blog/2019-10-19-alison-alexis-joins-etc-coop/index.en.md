@@ -2,6 +2,7 @@
 title: "Alison Alexis CPA joins ETC Cooperative as Financial Controller"
 date: 2019-10-19
 author: Bob Summerwill
+unlisted: true
 ---
 
 **19th October 2019 – Vancouver, Canada** – The [ETC Cooperative](https://etccooperative.org) today announced that [Alison Alexis CPA](https://www.linkedin.com/in/alison-alexis-ca/) has joined the ETC Cooperative as its Financial Controller on a one-year, part-time contract.

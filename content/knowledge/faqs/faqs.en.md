@@ -1,6 +1,6 @@
 ---
 title: FAQs
-description: Frequently Asked Questions
+description: Frequently Asked Questions about Ethereum Classic
 ---
 
 This page contains a collection of frequently asked questions, answered along with video explainers to help you get up to speed with Ethereum Classic.

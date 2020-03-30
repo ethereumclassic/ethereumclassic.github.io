@@ -1,6 +1,5 @@
 import React from 'react';
 
-import html from '../../i18n/html';
 import SubPageLayout from '~components/subPageLayout';
 import ItemTable from '~components/itemTable';
 import SocialIcon from '~components/socialIcon';
@@ -9,9 +8,7 @@ import Translate from '~components/translate';
 const Teams = ({ pageContext: { i18n } }) => {
   return (
     <SubPageLayout i18n={i18n}>
-      {html(i18n.intro)}
       <ItemTable
-        header={html(i18n.teamsTitle)}
         items={i18n.yaml.items}
         rowClass={({ status }) => (status === 'inactive' ? 'faded' : '')}
         columns={[
@@ -24,7 +21,7 @@ const Teams = ({ pageContext: { i18n } }) => {
               <ul className="icons">
                 {twitter && (
                   <SocialIcon
-                    to={`https://twitters.com/${twitter}`}
+                    to={`https://twitter.com/${twitter}`}
                     icon="twitter"
                     text={<Translate text="twitter" />}
                   />

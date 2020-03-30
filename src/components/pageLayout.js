@@ -8,7 +8,7 @@ import Navigation from './navigation';
 import LayoutFooter from './layoutFooter';
 import LayoutHeader from './layoutHeader';
 
-const PageLayout = ({ children, i18n, link, wide }) => {
+const PageLayout = ({ children, footer, header, i18n, link, wide }) => {
   return (
     <GlobalLayout>
       <SEO {...i18n} />
@@ -17,13 +17,19 @@ const PageLayout = ({ children, i18n, link, wide }) => {
         <Header link={link} />
         <div className="layout-container">
           <div className="layout-content">
-            <section>
-              <LayoutHeader i18n={i18n} />
-            </section>
+            {(i18n.disclaimer || header) && (
+              <section className="layout-header">
+                {header}
+                <LayoutHeader i18n={i18n} />
+              </section>
+            )}
             {children}
-            <section>
-              <LayoutFooter i18n={i18n} />
-            </section>
+            {(footer || i18n.license || i18n.contribute) && (
+              <section className="layout-footer">
+                <LayoutFooter i18n={i18n} />
+                {footer}
+              </section>
+            )}
           </div>
         </div>
         <Footer />

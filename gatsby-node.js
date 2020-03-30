@@ -14,6 +14,10 @@ const defaultTemplate = require.resolve('./src/layouts/defaultItem.js');
 
 const rootContent = '/';
 
+function isLink(str) {
+  return str.startsWith('http://') || str.startsWith('https://');
+}
+
 async function processYamlMarkdown(obj) {
   // handle arrays
   if (Array.isArray(obj)) {
@@ -22,8 +26,8 @@ async function processYamlMarkdown(obj) {
   const transformed = {};
   await Promise.all(
     Object.keys(obj).map(async key => {
-      // only transform strings
-      if (typeof obj[key] !== 'string') {
+      // only transform strings that are not links
+      if (typeof obj[key] !== 'string' || key === 'link' || isLink(obj[key])) {
         transformed[key] = obj[key];
         return;
       }
@@ -48,9 +52,12 @@ async function processYamlMarkdown(obj) {
   );
   return transformed;
 }
+function isDefaultLocale(locale) {
+  return locale === defaultLocale;
+}
 
 function localizePath(locale, name) {
-  const isDefault = locale === defaultLocale;
+  const isDefault = isDefaultLocale(locale);
   let slug = isDefault ? `/${name}/` : `/${locale}/${name}/`;
   if (name === 'index') {
     slug = isDefault ? '/' : `/${locale}/`;
@@ -78,7 +85,7 @@ function parsePath(str) {
   const i18nKey = tree.slice(0, -1).join('/') || rootContent;
   const isGlobal = tree[0] === 'globals';
   const localSlug = localizePath(locale, i18nKey);
-  return {
+  const info = {
     i18nKey,
     localSlug,
     relativePath,
@@ -92,6 +99,7 @@ function parsePath(str) {
     ext,
     parent
   };
+  return info;
 }
 
 function mergeTranslations(defaults = {}, translation = {}) {
@@ -230,12 +238,11 @@ function getChildLocales(name, locale, parent, tree) {
   const defaultLocales = parentLocales[defaultLocale] || {};
   const merged = mergeTranslations(defaultLocales.yaml, myLocale.yaml);
   return {
-    menu: merged.menu,
+    menu: merged.menu && merged.menu.map((n, i) => ({ ...n, i, selected: name === n.key })),
     globals: merged.globals,
     [name]: merged[name]
   };
 }
-
 function getGlobals(locale, tree) {
   const myLocale = tree[rootContent][locale] || { yaml: { globals: {} } };
   return {
@@ -287,7 +294,7 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
           }
         }
       }
-      children: allMdx(filter: { fields: { hasParent: { eq: true } } }) {
+      mdxPages: allMdx(filter: { fields: { hasParent: { eq: true } } }) {
         edges {
           node {
             fields {
@@ -295,11 +302,13 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
               parent
               i18nKey
               localSlug
+              slug
               name
             }
             fileAbsolutePath
             frontmatter {
               title
+              description
             }
           }
         }
@@ -307,7 +316,7 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
     }
   `);
 
-  const { routes, children, mdxTranslations, yamlTranslations } = result.data;
+  const { routes, mdxPages, mdxTranslations, yamlTranslations } = result.data;
 
   // create a tree of the translations to be injected into the pages
   const translationsTree = {};
@@ -351,6 +360,7 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
           component: data.node.absolutePath,
           context: {
             locale,
+            defaultLocale: isDefaultLocale(locale),
             globals: getGlobals(locale, translationsTree),
             i18n: {
               ...main,
@@ -367,8 +377,8 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
     })
   );
   // generated sub-pages (markdown files like blog)
-  children.edges.forEach(({ node: post }) => {
-    const { name, locale, parent, localSlug } = post.fields;
+  mdxPages.edges.forEach(({ node: post }) => {
+    const { locale, parent, localSlug, slug } = post.fields;
     // use this parent template if it exists, otherwise fallback to parent template
     const templatePath = path.resolve(`./src/layouts/${parent}Item.js`);
     const component = fs.existsSync(templatePath) ? require.resolve(templatePath) : defaultTemplate;
@@ -377,10 +387,14 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
       component,
       context: {
         locale,
-        i18n: getChildLocales(name, locale, parent, translationsTree),
+        defaultLocale: isDefaultLocale(locale),
+        i18n: {
+          ...getChildLocales(slug, locale, parent, translationsTree),
+          ...post.frontmatter
+        },
         globals: getGlobals(locale, translationsTree),
-        parent,
-        title: post.frontmatter.title
+        title: post.frontmatter.title,
+        parent
       }
     });
   });

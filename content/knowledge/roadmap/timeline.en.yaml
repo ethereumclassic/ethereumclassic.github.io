@@ -364,7 +364,7 @@
   link: https://etcsummit.com/
 - 
   key: mordor
-  date: Oct 3 2190
+  date: Oct 3 2019
   title: The birth of Mordor PoW Testnet
   text: The retiring of old PoW testnets to clean up pre-chain split baggage.
   icon: fas fa-code-branch
@@ -379,8 +379,8 @@
 - 
   key: era3
   date: Block 10,000,000
-  title: Era 3 Arrives
-  text: In March 2020, ECIP-1017's 3rd Era will kick in, reducing emission by 20%
+  title: 5M20 Era 3 Arrives
+  text: On March 17, 2020, Ethereum Classic's 5M20 monetary policy moved to Era3. The emission schedule, outlined in ECIP1017, reduced the block reward by 20%, from 4 to 3.2 ETC, on block 10 million.
   icon: far fa-clock
   className: orange
 - 

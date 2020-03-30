@@ -6,10 +6,9 @@ import SubPageLayout from '~components/subPageLayout';
 import ButtonGroup from '~components/buttonGroup';
 import LinkGroup from '~components/linkGroup';
 
-const Teams = ({ pageContext: { i18n } }) => {
+const DeveloperTools = ({ pageContext: { i18n } }) => {
   return (
     <SubPageLayout i18n={i18n}>
-      <h1>{i18n.title}</h1>
       {html(i18n.clients)}
       <ButtonGroup header={html(i18n.paymentProcessors)} items={i18n.yaml.processors} />
       <LinkGroup header={html(i18n.tooling)} items={i18n.yaml.tools} />
@@ -17,4 +16,4 @@ const Teams = ({ pageContext: { i18n } }) => {
   );
 };
 
-export default Teams;
+export default DeveloperTools;

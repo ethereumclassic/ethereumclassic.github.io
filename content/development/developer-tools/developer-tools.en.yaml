@@ -1,6 +1,11 @@
 title: Developer Tools
+description: A collection of tools to enhance the Ethereum Classic application development experience
 disclaimer: true
 contribute: true
+intro: |
+  # Developer Tools
+
+  Good tools make a skilled craftsman better. This section contains a suite of excellent tools that can level up your development experience.
 clients: | 
   ## Clients
 

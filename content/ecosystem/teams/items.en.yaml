@@ -38,6 +38,14 @@
   twitter: ParityTech
   github: paritytech
 -
+  key: Core Paper
+  year: 2017
+  name: Core Paper
+  status: active
+  link: https://corepaper.org/
+  twitter: corepaper
+  github: corepaper
+-
   key: ETC Cooperative
   year: 2017
   name: ETC Cooperative
@@ -86,6 +94,14 @@
   twitter: ChainSafeth
   github: ChainSafe
 -
+  key: Code Shelter
+  year: 2019
+  name: Code Shelter
+  status: active
+  link: https://www.codeshelter.co
+  twitter: code_shelter
+  github: multi-geth/multi-geth
+-
   key: ETC Core
   year: 2019
   name: ETC Core
@@ -111,8 +127,9 @@
   github: second-state
 -
   key: Gödel Labs
-  year: 2019
-  name: Gödel Labs
+  year: 2020
+  name: Gödel Labs 哥德尔实验室
   status: active
   link: https://www.godel.ai/
   twitter: Goedellabs
+  github: multi-geth/multi-geth

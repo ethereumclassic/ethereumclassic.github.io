@@ -2,17 +2,44 @@ import React from 'react';
 
 import Link from '~components/link';
 
-const SubMenu = ({ items, i18n, selected }) => {
-  const menu = items || i18n.yaml.menu;
+const SubMenu = ({ items, expanded, tabs }) => {
+  const ContainerEl = expanded || tabs ? 'div' : 'ul';
   return (
-    <ul>
-      {menu.map(i => (
-        <li key={i.key || `${i.text}${i.link || i.to}`}>
-          {selected === i.key && '➡️'}
-          <Link to={i.link || i.to} text={i.text} />
-        </li>
-      ))}
-    </ul>
+    <ContainerEl className={`sub-menu ${tabs ? 'tabs' : ''}`}>
+      {items.map(i => {
+        if (i.hidden) {
+          return null;
+        }
+        const link = (
+          <Link
+            key={i.key || `${i.text}${i.link || i.to}`}
+            className={`${i.selected ? 'selected' : ''}`}
+            to={i.link || i.to}
+            text={i.name || i.text}
+          />
+        );
+        if (expanded) {
+          return (
+            <div className="link-item" key={i.key}>
+              <h3>
+                {link}
+                {i.shortText && <small>{` ${i.shortText}`}</small>}
+              </h3>
+              <p>{i.text}</p>
+            </div>
+          );
+        }
+        if (tabs) {
+          return link;
+        }
+        return (
+          <li key={i.key}>
+            <b>{link}</b>
+            {i.shortText && <small>{` ${i.shortText}`}</small>}
+          </li>
+        );
+      })}
+    </ContainerEl>
   );
 };
 

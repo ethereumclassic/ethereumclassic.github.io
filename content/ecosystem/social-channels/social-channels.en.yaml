@@ -1,14 +1,17 @@
 title: Social Channels
+description: A collection of Ethereum Classic chat rooms, twitter accounts, discussion groups, forums, podcasts, repositories and regional websites
 contribute: true
 disclaimer: true
 intro: |
  # Social Channels
 
- This page contains a list of active ETC discussion groups and channels
+ The following is a non-exhaustive list of active Ethereum Classic discussion channels and groups.
 chatIntro: | 
   > ## Chat Rooms
 telegramIntro: | 
   > ## Telegram Groups
+developmentIntro: | 
+  > ## Development Chat
 forumIntro: | 
   > ## Forums
 mediaIntro: | 
@@ -19,3 +22,5 @@ twitterIntro: |
   > ## Twitter Accounts
 websiteIntro: | 
   > ## Websites
+regionalWebsiteIntro: | 
+  > ## Regional Websites

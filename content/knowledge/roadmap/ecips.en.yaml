@@ -18,6 +18,14 @@
   key: Remove Difficulty Bomb  
   name: Remove Difficulty Bomb
   author: Igor Artamonov
+- number: 1048
+  key:  Clique proof-of-authority consensus protocol
+  name:  Clique proof-of-authority consensus protocol
+  author:  Péter Szilágyi
+- number: 1050
+  key:  Status Codes
+  name:  Status Codes
+  author:  Brooklyn Zelenka, Boris Mann
 - number: 1054
   key: Atlantis EVM and Protocol Upgrades  
   name: Atlantis EVM and Protocol Upgrades

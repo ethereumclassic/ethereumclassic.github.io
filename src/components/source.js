@@ -4,11 +4,11 @@ import Link from './link';
 
 const Source = ({ to, text }) => {
   return (
-    <span className="source">
+    <p className="source">
       <Translate text="source" />
       {': '}
       <Link to={to} text={text || to} />
-    </span>
+    </p>
   );
 };
 

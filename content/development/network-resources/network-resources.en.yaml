@@ -1,7 +1,8 @@
 title: Network Resources
-description: TODO
 license: CC-BY
 contribute: true
+description: EVM references, gas fee estimators, monitors and faucets for Ethereum Classic mainnet and testnet
+disclaimer: true
 mainnet: Mainnet
 testnet: Testnet
 experimental: Experimental
@@ -16,6 +17,10 @@ miningAlgorithm: Mining Algorithm
 conensusAlgorithm: Conensus Algorithm
 networkID: Network ID
 chainID: Chain ID
+intro: |
+  # Network Resources
+  
+  Need to find out the state of the Ethereum Classic network? You're in the right place. Here are a selection of tools that can help you get to know the chain, including faucets, explorers and monitors.
 clients: | 
   ## Clients
 

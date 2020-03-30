@@ -1,6 +1,6 @@
 contribute: true
 title: Roadmap
-description: Project Progression
+description: An overview of Ethereum Classic's origins, history and future development roadmap
 intro: >
   # Roadmap
 
@@ -9,7 +9,7 @@ intro: >
 timeline: |
   ## ETC Timeline
 
-  A brief history of the events that created and defined Ethereum Classic.
+  A historical account of the events that created and defined Ethereum Classic.
 ecipsTitle: >
   ## Final ECIPs
 
@@ -18,7 +18,7 @@ helperText: Drag to progress (or hold shift and wheel)!
 name: Title
 number: Number
 author: Authors
-roadmapTitle: >
-  ## Future Roadmap 2020
-  
-  Under construction!
+roadmapTitle: |
+  ## Development Roadmap 2020
+
+  An outline of important protocol development milestones for the year of 2020, including highlights from the [ETC Core 2020 Roadmap](https://medium.com/etc-core/etc-core-2020-roadmap-announcement-c2166cdbc53d).

@@ -24,7 +24,7 @@ const News = ({ data: { allMdx }, pageContext: { i18n, globals } }) => {
         i.isBlog ? (
           <BlogListItem i18n={globals} post={i.node} key={i.node.parent.relativeDirectory} />
         ) : (
-          <MediaListItem {...i} />
+          <MediaListItem {...i} key={i.key} />
         )
       )}
     </NewsLayout>
@@ -36,7 +36,10 @@ export default News;
 export const query = graphql`
   query News($locale: String!) {
     allMdx(
-      filter: { fields: { locale: { eq: $locale }, parent: { eq: "blog" } } }
+      filter: {
+        fields: { locale: { eq: $locale }, parent: { eq: "blog" } }
+        frontmatter: { unlisted: { ne: true } }
+      }
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
       edges {

@@ -2,6 +2,7 @@
 title: "ETC Cooperative tritt der Enterprise Ethereum Alliance bei"
 date: 2019-10-18
 author: Bob Summerwill
+unlisted: true
 ---
 ** 18 Oktober 2019 - Vancouver, Kanada ** - Die [ETC Cooperative](https://etccooperative.org) gab heute bekannt, dass sie der [Enterprise Ethereum Alliance (EEA)](https://entethalliance.org), beigetreten ist, einer Organisation für Enterprise Blockchain - eine, die von der größten Entwickler-Community der Welt und einer weltweiten Mitgliederbasis unterstützt wird.
 

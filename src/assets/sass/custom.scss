@@ -107,17 +107,18 @@ section>p:last-child {
   &.wide .layout-content {
     max-width: none;
     margin: 0;
-    padding: $smallPadding 0;
+    padding: $largePadding 0;
 
     >section {
       max-width: $maxPageWidth;
-      padding: $smallPadding $largePadding;
+      padding: 0 $largePadding;
 
       @include breakpoint('<=small') {
         padding: 0 $smallPadding;
       }
 
-      margin: auto;
+      margin-left: auto;
+      margin-right: auto;
       display: block;
     }
   }
@@ -372,6 +373,14 @@ section>p:last-child {
 }
 
 // buttons
+.read-more {
+  display: inline-block;
+  white-space: nowrap;
+
+  i {
+    margin-right: 0;
+  }
+}
 
 .button-link {
   margin: 0.2rem;
@@ -380,6 +389,14 @@ section>p:last-child {
   white-space: nowrap;
   background: rgba(0, 0, 0, .05);
   border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+
+  i.left {
+    margin-left: 0;
+  }
+
+  i.right {
+    margin-right: 0;
+  }
 
   &:hover {
     background: rgba(255, 255, 255, .3);
@@ -416,6 +433,20 @@ section>p:last-child {
 }
 
 // grids
+.pagination {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-bottom: $smallPadding; 
+  margin-top: 0;
+}
+@include breakpoint('<=small') {
+  .pagination {
+    margin-top: $smallPadding;
+  }
+  .wide .pagination {
+    margin-top: 0;
+  }
+}
 
 .grid {
   display: grid;
@@ -764,11 +795,19 @@ a.card {
 .legend {
   margin-bottom: $smallPadding;
 
+  &.has-selected {
+    .key {
+      opacity: .4;
+    }
+  }
+
   .key {
+    user-select: none;
     white-space: nowrap;
     display: inline-block;
     margin: 0 $microPadding $microPadding 0;
     padding: 0 $microPadding;
+    cursor: pointer;
 
     &.green {
       background: _palette(accent);
@@ -802,7 +841,14 @@ a.card {
       background: $grid-color-5;
     }
 
+    &.selected {
+      opacity: 1;
+    }
 
+    &.grid-color-all {
+      background: #eee;
+      opacity: 1;
+    }
   }
 }
 
@@ -863,6 +909,7 @@ a.card {
 .community {
   margin-bottom: $smallPadding;
 }
+
 
 .link-section {
   margin-top: $smallPadding;
@@ -1082,6 +1129,10 @@ a.card {
     // background: blue;
     padding-bottom: $tinyPadding;
 
+    &.blue .date {
+      border-bottom: $lineThickness solid blue;
+    }
+
     &:nth-child(odd) {
       text-align: right;
 
@@ -1174,16 +1225,28 @@ body.hanzi {
 .link-group {
   margin-top: $tinyPadding;
 
-  h5 {
-    margin-top: 0;
-  }
+}
+
+.link-item {
+  margin-bottom: $largePadding;
 }
 
 .info-buttons-group {
+  box-shadow: 0 $microPadding $smallPadding rgba(0, 0, 0, .15);
+  background: rgba(0, 0, 0, .05);
+  border-radius: $microPadding;
+  border: $solidBottom;
+
   .item {
     border-bottom: $solidBottom;
-    margin-bottom: $smallPadding;
+    padding: $smallPadding;
+
+    p {
+      margin: 0;
+    }
   }
+
+  margin: $largePadding 0;
 
   .item:last-child {
     border-bottom: none;
@@ -1191,6 +1254,13 @@ body.hanzi {
 
   .right-buttons {
     float: right;
+    margin-bottom: $tinyPadding;
+
+    @include breakpoint('<=small') {
+      float: none;
+      text-align: right;
+    }
+
   }
 }
 
@@ -1204,7 +1274,151 @@ table tr.faded {
 
 .showcase {
   background: #eee;
-  box-shadow: 0 $tinyPadding $smallPadding rgba(0,0,0,.2);
+  box-shadow: 0 $tinyPadding $smallPadding rgba(0, 0, 0, .2);
   padding: $smallPadding;
   border-radius: $smallPadding;
+}
+
+.video-group {
+  margin: $largePadding 0;
+}
+
+.video-frame {
+  width: 100%;
+  height: 45vh;
+  background: #f5f5f5;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  i {
+    font-size: 2em;
+    margin: $tinyPadding;
+  }
+
+  &.not-playing {
+    cursor: pointer;
+
+    &:hover {
+      background: #ddd;
+    }
+  }
+
+}
+
+.video-item {
+  margin-bottom: $hugePadding;
+
+  &:last-of-type {
+    margin-bottom: 0;
+  }
+}
+
+.text-right {
+  text-align: right;
+}
+
+.sub-menu li.selected {
+  font-weight: bold;
+}
+
+.disclaimer,
+.license,
+.contribute {
+  background: rgba(0, 230, 150, 0.1);
+  padding: $microPadding $tinyPadding;
+  border-radius: $tinyPadding;
+  margin-bottom: $tinyPadding;
+  font-size: 0.9rem;
+  color: rgba(0, 0, 0, .8)
+}
+
+#wrapper .copyright a.button-link {
+  color: initial;
+}
+
+.tabs {
+  border-bottom: $solidBottom;
+  padding: 0;
+  white-space: nowrap;
+
+  a {
+    display: inline-block;
+    border: none;
+    background: #ddd;
+    opacity: 0.7;
+    padding: $nanoPadding $tinyPadding;
+    margin-left: $microPadding;
+    border-top-left-radius: $microPadding;
+    border-top-right-radius: $microPadding;
+    border: 2px solid #ddd;
+    margin-bottom: -2px;
+
+    &:hover {
+      opacity: 0.9;
+    }
+
+    &.selected {
+      opacity: 1;
+      border-bottom: 2px solid white;
+      background: white;
+    }
+  }
+}
+
+.tabs-child {
+  border: 2px solid #ddd;
+  padding: $smallPadding;
+  border-top: 0;
+}
+
+#wrapper .layout-content section {
+  display: block;
+  margin-top: 0;
+  margin-bottom: $smallPadding;
+}
+
+#wrapper section.layout-header {
+  margin-top: -$smallPadding;
+}
+
+.layout-footer {
+  padding-top: $tinyPadding;
+}
+
+.button-group {
+  margin: $largePadding 0;
+}
+
+.sitemap {
+  small {
+    font-size: 0.8rem;
+    white-space: nowrap;
+  }
+
+  a {
+    line-height: 1.6rem;
+    display: block;
+    border: 0;
+    padding: $tinyPadding;
+  }
+
+  a:nth-child(odd) {
+    background: rgba(0, 0, 0, .04);
+  }
+
+  a:hover {
+    background: #eee;
+  }
+
+  .text {
+    font-size: 0.8rem;
+    line-height: 1rem;
+  }
+}
+
+.item-table .table {
+  overflow: scroll;
+  margin-bottom: $smallPadding;
 }

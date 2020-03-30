@@ -2,6 +2,7 @@
 title: "Proposing an explicit social contract in support of POW mining"
 date: 2019-10-06
 author: Bob Summerwill
+unlisted: true
 ---
 
 ## Introduction

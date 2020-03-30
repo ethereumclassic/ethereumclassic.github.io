@@ -264,6 +264,10 @@
   name: XZRM
   link: https://xzrm.com/pool?coin=etc
 - 
+  key: Zergpool
+  name: Zergpool
+  link: http://zergpool.com/site/mining?algo=ethash
+- 
   key: ŻET
   name: ŻET
   link: https://etc.zet-tech.eu/
