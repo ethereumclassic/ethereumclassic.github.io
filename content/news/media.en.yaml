@@ -89,6 +89,18 @@
   source: Daniel Phillips (Decrypt)
   title: "Ethereum Classic price goes ballistic, racks up 30% gains"
 -
+  key: 2019-12-17-CryptoDaily
+  date: 2019-12-17
+  link: https://cryptodaily.co.uk/2019/12/ethereum-classic-teams-rebrand-for-clarity
+  source: Adrian Barkley (CryptoDaily)
+  title: "Ethereum Classic Teams Rebrand For Clarity"
+-
+  key: 2019-11-11-CryptoDaily
+  date: 2019-11-11
+  link: https://cryptodaily.co.uk/2019/11/did-you-miss-these-important-ethereum-classic-and-litecoin-updates
+  source: Adrian Barkley (CryptoDaily)
+  title: "Did You Miss These Important Ethereum Classic And Litecoin Updates?"
+-
   key: 2019-10-12-Decrypt
   date: 2019-10-12
   link: https://decrypt.co/10290/ethereum-classics-plan-to-seduce-ethereums-miners
@@ -100,6 +112,12 @@
   link: https://decrypt.co/9372/progpow-advocate-uninvited-ethereum-summit-over-links-craig-wright
   source: Jeff Benson (Decrypt)
   title: "ProgPow advocate uninvited to Ethereum Classic Summit over links to Craig Wright"
+-
+  key: 2019-09-13-CryptoDaily
+  date: 2019-09-13
+  link: https://cryptodaily.co.uk/2019/09/atlantis-hard-fork-sees-end-ehtereum-classic-network
+  source: Adrian Barkley (CryptoDaily)
+  title: "Atlantis Hard Fork Finally Sees An End On Ethereum Classic Network"
 -
   key: 2019-09-12-Decrypt
   date: 2019-09-12
@@ -113,24 +131,132 @@
   source: Tim Copeland (Decrypt)
   title: "Binance adds margin trading for Litecoin, USDC and Ethereum Classic"
 -
+  key: 2019-06-11-CryptoDaily
+  date: 2019-06-11
+  link: https://cryptodaily.co.uk/2019/06/ethereum-classic-atlantis-upgrade-to-start-testing-this-month
+  source: Robert Johnson (CryptoDaily)
+  title: "Ethereum Classic’s Atlantis Upgrade To Start Testing This Month"
+-
+  key: 2019-04-25-CryptoDaily
+  date: 2019-04-25
+  link: https://cryptodaily.co.uk/2019/04/updates-ethereum-classic-network-developer
+  source: Robert Johnson (CryptoDaily)
+  title: "Updates On Ethereum Classic Network Revealed By Developer"
+-
+  key: 2019-01-29-CryptoDaily
+  date: 2019-01-29
+  link: https://cryptodaily.co.uk/2019/01/ethereum-classic-cooperative-welcomes-summerwill
+  source: Anthony Lusardi (CryptoDaily)
+  title: "Ethereum Classic Cooperative Welcomes Bob Summerwill"
+-
+  key: 2019-01-27-CryptoDaily
+  date: 2019-01-27
+  link: https://cryptodaily.co.uk/2019/01/etc-51-attack-a-call-for-security-models
+  source: Robert Johnson (CryptoDaily)
+  title: "Is The ETC 51% Attack A Call For New Security Models"
+-
+  key: 2019-01-16-CryptoDaily
+  date: 2019-01-16
+  link: https://cryptodaily.co.uk/2019/01/cryptocurrency-cant-be-51-attacked
+  source: Kyle Torpey (CryptoDaily)
+  title: "If A Cryptocurrency Can’t Be 51% Attacked, Then It Isn’t Decentralized"
+-
+  key: 2019-01-14-CryptoDaily
+  date: 2019-01-14
+  link: https://cryptodaily.co.uk/2019/01/100k-of-etc-hack-returned-to-exchange
+  source: Adrian Barkley (CryptoDaily)
+  title: "$100k Of ETC 51 Percent Hack Returned To Exchange"
+-
+  key: 2019-01-10-CryptoDaily
+  date: 2019-01-10
+  link: https://cryptodaily.co.uk/2019/01/truth-about-ethereum-classic-hack
+  source: Mark Nezvisky (CryptoDaily)
+  title: "The Truth About The Ethereum Classic Hack"
+-
   key: 2019-01-08-Decrypt
   date: 2019-01-08
   link: https://decrypt.co/4399/51-percent-attack-cripples-ethereum-classic
   source: Ben Munster (Decrypt)
   title: "51 percent attack cripples Ethereum classic"
 -
-
-
-
-
-
+  key: 2019-01-08-CryptoDaily
+  date: 2019-01-08
+  link: https://cryptodaily.co.uk/2019/01/attack-on-ethereum-classic-network
+  source: Robert Johnson (CryptoDaily)
+  title: "Shock Attack On Ethereum Classic Network"
 -
-  key: 2018-04-18-CryptoDaily
-  date: 2018-04-18
-  link: https://cryptodaily.co.uk/2018/03/grayscale-adds-ripple-xrp-litecoin-ethereum-bch-to-its-investment-trust
+  key: 2018-12-04-CryptoDaily
+  date: 2018-12-04
+  link: https://cryptodaily.co.uk/2018/12/ethereum-classic-hits-a-bump
+  source: Adrian Barkley (CryptoDaily)
+  title: "Ethereum Classic Hits A Bump In The Road"
+-
+  key: 2018-11-30-CryptoDaily
+  date: 2018-11-30
+  link: https://cryptodaily.co.uk/2018/11/the-sturdiness-of-ethereum-classic
+  source: Adrian Barkley (CryptoDaily)
+  title: "The Sturdiness Of Ethereum Classic"
+-
+  key: 2018-11-21-CryptoDaily
+  date: 2018-11-21
+  link: https://cryptodaily.co.uk/2018/11/What-is-Ethereum-Classics-Project-Goerli
+  source: Adrian Barkley (CryptoDaily)
+  title: "What Is Ethereum Classics Project Goerli?"
+-
+  key: 2018-10-31-CryptoDaily
+  date: 2018-10-31
+  link: https://cryptodaily.co.uk/2018/10/ethereum-offers-ethereum-classic-a-helping-hand
+  source: Mark Nezvisky (CryptoDaily)
+  title: "Ethereum Offers Ethereum Classic A Helping Hand"
+-
+  key: 2018-08-20-CryptoDaily
+  date: 2018-08-20
+  link: https://cryptodaily.co.uk/2018/08/bittrex-set-to-add-usd-trading-pairs-for-xrp-and-etc
+  source: Nathan Bentley (CryptoDaily)
+  title: "Bittrex Set To Add USD Trading Pairs For XRP And ETC"
+-
+  key: 2018-08-07-CryptoDaily
+  date: 2018-08-07
+  link: https://cryptodaily.co.uk/2018/08/ethereum-classic-achieves-new-listing
+  source: Robert Johnson (CryptoDaily)
+  title: "Ethereum Classic Achieves New Listing"
+-
+  key: 2018-06-18-CryptoDaily
+  date: 2018-06-18
+  link: https://cryptodaily.co.uk/2018/06/ethereum-classic-etcs-coinbase-listing-signals-mass-adoption-binance-lists-etc-usdt-and-etc-bnb-pairs
+  source: Jefe Caan (CryptoDaily)
+  title: "Ethereum Classic (ETC)’S Coinbase Listing Signals Mass Adoption, Binance Lists ETC/USDT And ETC/BNB Pairs"
+-
+  key: 2018-06-14-CryptoDaily
+  date: 2018-06-14
+  link: https://cryptodaily.co.uk/2018/06/ripple-stellar-and-ethereum-classic-all-approved
+  source: Nathan Bentley (CryptoDaily)
+  title: "Ripple, Stellar And Ethereum Classic All Approved"
+-
+  key: 2018-06-12-CryptoDaily
+  date: 2018-06-12
+  link: https://cryptodaily.co.uk/2018/06/ethereum-classic-skyrockets-with-new-coinbase-listing
+  source: Jefe Caan (CryptoDaily)
+  title: "Ethereum Classic Skyrockets With New Coinbase Listing"
+-
+  key: 2018-05-30-CryptoDaily2
+  date: 2018-05-30
+  link: https://cryptodaily.co.uk/2018/05/ethereum-classic-hard-fork-proves-lifesaver
   source: Thomas Ramsay (CryptoDaily)
-  title: "Grayscale Adds Ripple XRP, Litecoin, Ethereum, & BCH To Its Investment Trust"
--    
+  title: "Ethereum Classic Hard Fork Proves To Be A Lifesaver"
+-
+  key: 2018-05-30-CryptoDaily
+  date: 2018-05-30
+  link: https://cryptodaily.co.uk/2018/05/ethereum-classic-etc-new-institutional-favorite-bitcoin-btc-eos-eos
+  source: Jefe Caan (CryptoDaily)
+  title: "Ethereum Classic (ETC) Is The New Institutional Favorite After Bitcoin (BTC) And EOS (EOS)"
+-
+  key: 2018-04-27-CryptoDaily
+  date: 2018-04-27
+  link: https://cryptodaily.co.uk/2018/04/war-asics-might-not-solution
+  source: Crypto IQ (CryptoDaily)
+  title: "War On ASICs Might Not Be The Solution"
+-
   key: 2018-04-05-CryptoDaily
   date: 2018-04-05
   link: https://cryptodaily.co.uk/2018/04/ethereum-classic-etc-forgotten-twin-brother-ethereum-eth
@@ -143,30 +269,6 @@
   source: Thomas Ramsay (CryptoDaily)
   title: "Grayscale Adds Ripple XRP, Litecoin, Ethereum, & BCH To Its Investment Trust"
 -
-  key: 2018-03-08-CCN
-  date: 2018-03-08
-  link: https://www.ccn.com/circles-coinbase-like-cryptocurrency-investing-app-enters-closed-beta/
-  source: Josiah Wilmoth (CCN)
-  title: "Circle Invest supports ETC/USD trading pairs"
--
-  key: 2018-03-08-CCN
-  date: 2018-03-08
-  link: https://www.ccn.com/circles-coinbase-like-cryptocurrency-investing-app-enters-closed-beta/
-  source: Josiah Wilmoth (CCN)
-  title: "Circle Invest supports ETC/USD trading pairs"
--
-
-
-
-
-
-
-
-
-
-
-
-
   key: 2018-03-08-CCN
   date: 2018-03-08
   link: https://www.ccn.com/circles-coinbase-like-cryptocurrency-investing-app-enters-closed-beta/
