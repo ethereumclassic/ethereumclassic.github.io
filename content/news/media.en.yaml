@@ -6,20 +6,6 @@
   source:
   title: ""
 -
-  key: 2020-0--
-  date: 2020-0-
-  link:
-  author: ETC Core
-  source: ETC Core
-  title: ""
--
-  key: 2020-0--
-  date: 2020-0-
-  link:
-  author: ETC Core
-  source: ETC Core
-  title: ""
--
 
 
 
@@ -124,6 +110,13 @@
   source: EtherPlan
   title: "The Ethereum Classic Security Model Explained"
 -
+  key: 2020-03-10-EVM61
+  date: 2020-03-10
+  link: https://youtu.be/dpukKtSOmWI
+  author: EVM61 Podcast
+  source: ETC Core
+  title: "EVM61 #3 ETC Updates"
+-
   key: 2020-03-10-Decrypt
   date: 2020-03-10
   link: https://decrypt.co/21569/crypto-traders-hot-on-eth-classic-cold-on-eos-reveals-stocktwits-data
@@ -166,6 +159,13 @@
   source: Ethereum Classic Labs
   title: "Oracles with Ethereum Classic and Chainlink"
 -
+  key: 2020-02-26-EVM61
+  date: 2020-02-26
+  link: https://youtu.be/Rk7ZifoVTcA
+  author: EVM61 Podcast
+  source: ETC Core
+  title: "EVM61 #2 - James Wo"
+-
   key: 2020-02-26-EtherPlan
   date: 2020-02-26
   link: https://etherplan.com/2020/02/26/ethereum-classic-phoenix-upgrade-set-for-block-10500839-estimated-on-june-10th-2020/10191/
@@ -186,6 +186,13 @@
   author: Donald McIntyre
   source: EtherPlan
   title: "The Ethereum Classic Monetary Policy Explained"
+-
+  key: 2020-02-21-EVM61
+  date: 2020-02-21
+  link: https://youtu.be/r1-SKPurPsA
+  author: EVM61 Podcast
+  source: ETC Core
+  title: "EVM61 #1 ETC Updates"
 -
   key: 2020-02-21-ETC-Core
   date: 2020-02-21
