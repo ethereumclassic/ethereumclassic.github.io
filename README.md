@@ -61,10 +61,6 @@ All other branches will be automatically built and deployed via netlify.
 
 For example the `develop` branch can be previewed at https://develop--ethereumclassic.netlify.com/
 
-<div>
-  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Button_Powered_by_ETC/powered_by_etc_button_white.png" alt="Powered by ETC Button" width="250"/>
-  </div>
-
 ## Development
 
 This project uses [gatsby](https://www.gatsbyjs.org/) and a custom i18n content management system. More documentation to come.
@@ -75,6 +71,10 @@ See `package.json` for scripts scripts.
 
 Issues and pull requests are welcome. You can also get an overview of issues on the [project kanban](https://github.com/ethereumclassic/ethereumclassic.github.io/projects/1).
 
+<div>
+  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Button_Powered_by_ETC/powered_by_etc_button_white.png" alt="Powered by ETC Button" width="250"/>
+  </div>
+  
 ## Old Version
 
 An archived version of the old website can be found at https://github.com/ethereumclassic/ethereumclassic.github.io-v1
