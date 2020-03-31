@@ -1,23 +1,24 @@
 -
-  key: 2020-0--
-  date: 2020-0-
-  link:
-  author:
-  source:
-  title: ""
--
-
-
-
-
-
--
   key: 2020-03-30-ETC-Core
   date: 2020-03-30
   link: https://medium.com/etc-core/how-to-contribute-to-mordor-testnet-ethereum-classic-881490bdd121
   author: Stevan Lohja
   source: ETC Core
   title: "How to contribute to Mordor testnet — Ethereum Classic"
+-
+  key: 2020-03-27-CA
+  date: 2020-03-27
+  link: https://thecurrencyanalytics.com/12847/ethereum-classic-etc-with-new-policies-and-procedures-based-on-core-principles/
+  author: Steven Anderson
+  source: The Currency Analytics
+  title: "Ethereum Classic (ETC) With New Policies and Procedures Based on Core Principles"
+-
+  key: 2020-03-25-ETC-Today
+  date: 2020-03-25
+  link: https://u.today/ethereum-classic-etc-mining-emergency-firmware-released-what-does-this-mean
+  author: Vladislav Sopov
+  source: U.Today
+  title: "Ethereum Classic (ETC) Mining Emergency Firmware Released. What Does This Mean?"
 -
   key: 2020-03-25-Decrypt
   date: 2020-03-25
@@ -26,12 +27,26 @@
   source: Decrypt
   title: "Ethereum Classic steady after block reward reduction"
 -
+  key: 2020-03-24-CoinCodex
+  date: 2020-03-24
+  link: https://coincodex.com/article/7481/how-to-trade-ethereum-classic-on-bittrex/
+  author: Aaron Watts
+  source: CoinCodex
+  title: "How to Trade Ethereum Classic on Bittrex? Bittrex Trading Guide"
+-
   key: 2020-03-23-ETC-Labs
   date: 2020-03-23
   link: https://medium.com/ethereum-classic-labs/etc-labs-expands-team-to-further-advancements-of-ethereum-classic-technology-and-ecosystem-11426f1c300
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "ETC Labs Expands Team To Further Advancements of Ethereum Classic Technology and Ecosystem"
+-
+  key: 2020-03-22-FXStreet
+  date: 2020-03-22
+  link: https://www.fxstreet.com/cryptocurrencies/news/ethereum-classic-partners-up-with-chainlink-202003022254
+  author: Rajarshi Mitra
+  source: FX Street
+  title: "Ethereum Classic partners up with Chainlink"
 -
   key: 2020-03-20-Gitcoin
   date: 2020-03-20
@@ -67,6 +82,13 @@
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Announcing Christian Xu, our new Asia Community Manager"
+-
+  key: 2020-03-17-CNZ
+  date: 2020-03-17
+  link: https://www.cryptonewsz.com/etc-cooperative-welcomes-elaine-ou-craig-salm-roy-zou-as-board-of-directors/
+  author: David Cox
+  source: CryptoNewZ
+  title: "ETC Cooperative Welcomes Elaine Ou, Craig Salm, Roy Zou As Board of Directors"
 -
   key: 2020-03-17-ETC-Labs
   date: 2020-03-17
@@ -208,12 +230,26 @@
   source: ETC Core
   title: "EVM61 #1 ETC Updates"
 -
+  key: 2020-02-21-EF
+  date: 2020-02-21
+  link: https://youtu.be/zSRzlC_dCx8
+  author: Zachary Belford
+  source: Ethereum Foundation
+  title: "OpenRPC Talk at Ethereum Core Devs Meeting #81 [2020-2-21]"
+-
   key: 2020-02-21-ETC-Core
   date: 2020-02-21
   link: https://medium.com/etc-core/evm61-an-etc-podcast-e534a9009a22
   author: Stevan Lohja
   source: ETC Core
   title: "EVM61 — An ETC Podcast"
+-
+  key: 2020-02-16-ETC-Core
+  date: 2020-02-16
+  link: https://youtu.be/46nJ4AWHmvw
+  author: Zachary Belford
+  source: ETC Core
+  title: "ETHDenver Hackathon Winner: MetaMask Snaps + OpenRPC = Love"
 -
   key: 2020-02-14-Decryptco
   date: 2020-02-14
@@ -222,12 +258,26 @@
   source: Decrypt
   title: "Altcoins are racing past Bitcoin ahead of its halvening"
 -
+  key: 2020-02-14-Sludge-Feed
+  date: 2020-02-14
+  link: https://sludgefeed.com/ethereum-classic-labs-partners-with-fantom-foundation/
+  author: Craig Russo
+  source: Sludge Feed
+  title: "Ethereum Classic Labs Partners With Fantom Foundation to Bring ETC to DeFi"
+-
   key: 2020-02-14-Decrypt
   date: 2020-02-14
   link: https://decrypt.co/19529/future-defi-ethereum-classic-makes-its-case-at-ethdenver
   author: Jeff Benson
   source: Decrypt
   title: "The future of DeFi: Ethereum Classic makes its case at ETHDenver"
+-
+  key: 2020-02-13-ETC-Labs
+  date: 2020-02-13
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-announces-the-evm-llvm-alpha-release-cff36d96beef
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "Ethereum Classic Labs Announces the EVM-LLVM Alpha Release"
 -
   key: 2020-02-10-ETC-Labs
   date: 2020-02-10
@@ -243,6 +293,13 @@
   source: ETC Core
   title: "Announcing EVM-LLVM Alpha release — The next level in smart contract evolution!"
 -
+  key: 2020-02-10-CN
+  date: 2020-02-10
+  link: https://www.cryptoninjas.net/2020/02/10/ethereum-classic-labs-teams-with-fantom-and-xar-network-to-bring-defi-to-etc/
+  author: Associated Press
+  source: Crypto Ninjas
+  title: "Ethereum Classic Labs teams with Fantom and Xar Network to bring DeFi to ETC"
+-
   key: 2020-02-07-Decrypt
   date: 2020-02-07
   link: https://decrypt.co/18677/ethereum-booms-while-ethereum-classic-busts-in-new-market-rally
@@ -256,6 +313,13 @@
   author: Donald McIntyre
   source: EtherPlan
   title: "Ethereum Classic Money, Property, & Agreements Explained"
+-
+  key: 2020-02-05-Parity
+  date: 2020-02-05
+  link: https://www.parity.io/contributors-join-openethereum/
+  author: Phil Lucsok
+  source: Parity Technologies
+  title: "Contributors Join OpenEthereum"
 -
   key: 2020-02-05-EtherPlan
   date: 2020-02-05
@@ -271,6 +335,20 @@
   source: EtherPlan
   title: "The Ethereum Classic Trinity Explained"
 -
+  key: 2020-02-04-WCC
+  date: 2020-02-04
+  link: https://youtu.be/ENGk0pb8SJA
+  author: World Crypto Conference
+  source: World Crypto Conference
+  title: "Do NOT miss what James Wo of ETC Labs has to share about crypto!"
+-
+  key: 2020-02-03-ETC-Labs
+  date: 2020-02-03
+  link: https://www.svin.biz/etc-labs-cohort-2
+  author: ETC Labs
+  source: Silicon Valley Insider
+  title: "ETHEREUM CLASSIC LABS ACCELERATOR - COHORT 2"
+-
   key: 2020-02-01-Grayscale
   date: 2020-02-01
   link: https://grayscale.co/insights/an-introduction-to-ethereum-classic/
@@ -284,6 +362,13 @@
   author: Donald McIntyre
   source: EtherPlan
   title: "Ethereum Classic Developer Call – About the Next Aztlán & Phoenix Upgrades – Feb 5, 2019"
+-
+  key: 2020-01-30-DFG
+  date: 2020-01-30
+  link: https://digitalchamber.org/digital-finance-group-executive-committee/
+  author: Marie Knowles
+  source: Chamber of Digital Commerce
+  title: "Digital Finance Group Joins Chamber of Digital Commerce Executive Committee"
 -
   key: 2020-01-28-Decrypt
   date: 2020-01-28
@@ -306,6 +391,21 @@
   source: Decrypt
   title: "Ethereum Classic pumps 11%, knocks out Monero and DASH"
 -
+  key: 2020-01-24-ETC-Labs
+  date: 2020-01-24
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-is-a-meta-sponsor-at-eth-denver-2020-etc-developers-supporting-interaction-dc579ae5b860
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "Ethereum Classic Labs is a Meta Sponsor at ETHDenver 2020:
+ETC Developers supporting interaction and mentoring the #BUIDL community"
+-
+  key: 2020-01-24-EtherPlan
+  date: 2020-01-24
+  link: https://etherplan.com/2019/01/24/the-meaning-of-immutability-in-ethereum-classic-etc/7381/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "The Meaning of Immutability in Ethereum Classic (ETC)"
+-
   key: 2020-01-23-Decrypt2
   date: 2020-01-23
   link: https://decrypt.co/17544/ethereum-classic-price-comes-tumbling-down
@@ -327,6 +427,13 @@
   source: Decrypt
   title: "Ethereum Classic Labs invests $1 million in UNICEF startups"
 -
+  key: 2020-01-22-Forbes
+  date: 2020-01-22
+  link: https://www.forbes.com/sites/unicefusa/2020/01/22/unicef-steps-up-blockchain-investments-for-children/#71a9c5d5218f
+  author: Maryanne Murray Buechner
+  source: Forbes
+  title: "UNICEF Steps Up Blockchain Investments for Children with Ethereum Classic Labs"
+-
   key: 2020-01-22-Decrypt
   date: 2020-01-22
   link: https://decrypt.co/17413/grayscale-investments-sees-a-future-in-ethereum-classic
@@ -340,6 +447,13 @@
   author: Yilun Cheng
   source: The Block
   title: "Grayscale extends support to the Ethereum Classic Cooperative"
+-
+  key: 2020-01-21-ETC-Core
+  date: 2020-01-21
+  link: https://medium.com/etc-core/etc-core-quarterly-development-review-q4-2019-553bd2e0e1ad
+  author: Stevan Lohja
+  source: ETC Core
+  title: "ETC Core — Quarterly Development Review Q4, 2019"
 -
   key: 2020-01-21-Decrypt
   date: 2020-01-21
@@ -362,12 +476,26 @@
   source: Decrypt
   title: "Ethereum Classic jumps more than eight percent following dismal weekend"
 -
+  key: 2020-01-17-Cheddar
+  date: 2020-01-17
+  link: https://cheddar.com/media/ethereum-classic-labs-donates-million-to-unicef-for-blockchain-initiatives
+  author: Kirsten Scholer & Tim Stenovec
+  source: Cheddar
+  title: "Ethereum Classic Labs Donates $1 Million to UNICEF for Blockchain Initiatives"
+-
   key: 2020-01-17-Decrypt
   date: 2020-01-17
   link: https://decrypt.co/16913/ethereum-classic-price-goes-ballistic-racks-up-30-gains
   author: Daniel Phillips
   source: Decrypt
   title: "Ethereum Classic price goes ballistic, racks up 30% gains"
+-
+  key: 2020-01-14-OriginalMy
+  date: 2020-01-14
+  link: https://www.nasdaq.com/articles/regtech-is-ready-for-a-breakthrough-in-latin-america-2020-01-14
+  author: OriginalMy
+  source: Nasdaq
+  title: "Regtech is Ready for a Breakthrough in Latin America"
 -
   key: 2020-01-14-EtherPlan
   date: 2020-01-14
@@ -376,12 +504,54 @@
   source: EtherPlan
   title: "The Logic of why Ethereum Classic will Rise 1000x in the Medium to Long Term"
 -
+  key: 2020-01-13-ICO-Insider
+  date: 2020-01-13
+  link: https://icoinsider.net/ethereum-classic-cooperative-warns-public-against-apparent-hard-fork-scam/
+  author: ETC Cooperative
+  source: ICO Insider
+  title: "Ethereum Classic Cooperative Warns Public Against Apparent Hard Fork Scam"
+-
+  key: 2020-01-13-ETC-Core
+  date: 2020-01-13
+  link: https://medium.com/etc-core/agharta-hard-fork-is-successfully-activated-on-ethereum-classic-10a9bb62624e
+  author: Stevan Lohja
+  source: ETC Core
+  title: "Agharta hard-fork is successfully activated on Ethereum Classic"
+-
+  key: 2020-01-12-AZCoin-News
+  date: 2020-01-12
+  link: https://azcoinnews.com/ethereum-classics-agharta-upgrade-completed.html
+  author: AymT
+  source: AZCoin News
+  title: "Ethereum Classic’s Agharta Upgrade Completed"
+-
   key: 2020-01-12-ETC-Core
   date: 2020-01-12
   link: https://youtu.be/2lYP1EOdGEQ
   author: ETC Core
   source: ETC Core
   title: "Agharta Hard-Fork Countdown [01-12-2020]"
+-
+  key: 2019-12-26-CoinTelegraph
+  date: 2019-12-26
+  link: https://cointelegraph.com/news/agharta-hard-fork-to-bring-full-compatibility-between-etc-and-eth
+  author: Joeri Cant
+  source: Coin Telegraph
+  title: "Agharta Hard Fork to bring Full Compatibility Between ETC and ETH"
+-
+  key: 2019-12-26-AMB-Crypto
+  date: 2019-12-26
+  link: https://eng.ambcrypto.com/ethereum-classics-agharta-hard-fork-to-signal-compatibility-with-ethereum/
+  author: Sahana Kiran
+  source: AMB Crypto
+  title: "Ethereum Classic’s Agharta hardfork to signal compatibility with Ethereum"
+-
+  key: 2019-12-23-Constant
+  date: 2019-12-23
+  link: https://medium.com/@constantp2p/constant-etc-ama-recap-94095ff87f07
+  author: Constant
+  source: Constant P2P
+  title: "Constant & ETC AMA Recap"
 -
   key: 2019-12-17-CryptoDaily
   date: 2019-12-17
@@ -390,12 +560,40 @@
   source: Crypto Daily
   title: "Ethereum Classic Teams Rebrand For Clarity"
 -
+  key: 2019-12-12-ETC-Core
+  date: 2019-12-12
+  link: https://medium.com/etc-core/ethereum-classic-agharta-hard-fork-finalization-c4298b4d5603
+  author: Stevan Lohja
+  source: ETC Core
+  title: "Ethereum Classic Agharta hard-fork finalization"
+-
   key: 2019-12-09-ETC-Labs
   date: 2019-12-09
   link: https://medium.com/ethereum-classic-labs/highlights-from-ethereum-classic-labs-keynote-and-accelerator-updates-5aecd7a5d9b4
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Highlights from Ethereum Classic Labs Keynote and Accelerator Updates"
+-
+  key: 2019-11-28-ETC-Labs
+  date: 2019-11-28
+  link: https://www.youtube.com/watch?v=7mmQHtUxdqU
+  author: James Wo
+  source: Crypto Coin Show
+  title: "Blockchain Interviews - James Wo, Founder & Chairman of ETC Labs"
+-
+  key: 2019-11-26-ETC-Core
+  date: 2019-11-26
+  link: https://youtu.be/sPa6XcuYdIw
+  author: ETC Core
+  source: ETC Core
+  title: "Ethereum Classic Core Devs Meeting - Changing the mining algorithm [2019-11-21]"
+-
+  key: 2019-11-26-ETC-Core
+  date: 2019-11-26
+  link: https://medium.com/etc-core/progpow-sha-3-dag-oh-my-changing-the-ethereum-classic-pow-algorithm-abcb457d4530
+  author: Stevan Lohja
+  source: ETC Core
+  title: "ProgPoW, Sha-3, Dag, Oh My! — Changing the Ethereum Classic PoW Algorithm"
 -
   key: 2019-11-12-ETC-Core
   date: 2019-11-12
@@ -411,12 +609,54 @@
   source: Crypto Daily
   title: "Did You Miss These Important Ethereum Classic And Litecoin Updates?"
 -
+  key: 2019-11-09-CNZ
+  date: 2019-11-09
+  link: https://www.cryptonewsz.com/ethereum-classic-reveals-results-of-use-satisfaction-survey-of-november-2019/51332/
+  author: Roxanne Williams
+  source: CryptoNewZ
+  title: "Ethereum Classic Reveals Results of Use Satisfaction Survey"
+-
+  key: 2019-11-06-ETC-Core
+  date: 2019-11-06
+  link: https://medium.com/etc-core/ethereum-classic-use-satisfaction-results-november-2019-d8857b4e172b
+  author: Stevan Lohja
+  source: ETC Core
+  title: "Ethereum Classic Use Satisfaction Results — November 2019"
+-
   key: 2019-11-04-ETC-Core
   date: 2019-11-04
   link: https://youtu.be/XO5e-_QyoZI
   author: ETC Core
   source: ETC Core
   title: "Jade Explorer v1.5.0  -  Current state of features."
+-
+  key: 2019-10-30-ETC-Core
+  date: 2019-10-30
+  link: https://medium.com/etc-core/ethereum-classic-agharta-hard-fork-proposal-proceeds-to-last-call-e17e4b545ac8
+  author: Stevan Lohja
+  source: ETC Core
+  title: "Ethereum Classic Agharta hard-fork proposal proceeds to Last Call"
+-
+  key: 2019-10-30-ETC-Core
+  date: 2019-10-30
+  link: https://medium.com/etc-core/1500-ethereum-classic-gitcoin-bounties-cd83f9566b12
+  author: Stevan Lohja
+  source: ETC Core
+  title: "$1500 Ethereum Classic Gitcoin Bounties"
+-
+  key: 2019-10-28-ETC-Labs
+  date: 2019-10-28
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-presents-os-city-bd86e43a5fac
+  author: Hiccups
+  source: Ethereum Classic Labs
+  title: "Ethereum Classic Labs Presents: OS City"
+-
+  key: 2019-10-27-ETC-Labs
+  date: 2019-10-27
+  link: https://www.youtube.com/watch?v=yAI3MVaLxaw
+  author: James Wo & Terry Culver
+  source: This Week in Crypto
+  title: "ETC Labs Accelerate Program with Founder James Wo & CEO Terry Culver"
 -
   key: 2019-10-26-EtherPlan
   date: 2019-10-26
@@ -432,6 +672,27 @@
   source: EtherPlan
   title: "The Ethereum Classic Dilemma: Ethereum Parity vs Backward Compatibility"
 -
+  key: 2019-10-24-Devcon
+  date: 2019-10-24
+  link: https://medium.com/@michaelyuan_88928/ethereum-devcon5-recap-b065310d7eb1
+  author: Michael Yuan
+  source: Devcon5
+  title: "Ethereum Devcon5 Recap: Reconciliation with ETC"
+-
+  key: 2019-10-21-ETC-Labs
+  date: 2019-10-21
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-presents-w3-engineers-6d938469fac7
+  author: Hiccups
+  source: Ethereum Classic Labs
+  title: "Ethereum Classic Labs Presents: W3 Engineers"
+-
+  key: 2019-10-17-The-Capital
+  date: 2019-10-17
+  link: https://medium.com/the-capital/code-is-law-is-competent-blockchain-design-not-an-ideology-661d3c36c14c
+  author: Stevan Lohja
+  source: The Capital
+  title: "Code Is Law — Competent Blockchain Design, Not An Ideology."
+-
   key: 2019-10-15-EtherPlan
   date: 2019-10-15
   link: https://etherplan.com/2019/10/15/in-banking-wealth-is-controlled-by-providers-in-blockchain-wealth-is-controlled-by-owners/9302/
@@ -445,6 +706,20 @@
   author: Ben Munster
   source: Decrypt
   title: "Ethereum Classic's plan to seduce Ethereum’s miners"
+-
+  key: 2019-10-10-Bloq
+  date: 2019-10-10
+  link: https://sync.bloq.com/bloq-and-etc-labs-supporting-communities-building-ecosystems/
+  author: Jeff Garzik
+  source: Bloq
+  title: "Bloq and ETC Labs: Supporting Communities, Building Ecosystems"
+-
+  key: 2019-10-09-ETC-Labs
+  date: 2019-10-09
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-partners-with-bloq-live-from-devcon-8807946df864
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "Ethereum Classic Labs Partners with Bloq, Live From Devcon!"
 -
   key: 2019-10-07-EtherPlan
   date: 2019-10-07
@@ -502,6 +777,13 @@
   source: Ethereum Classic Labs
   title: "Ethereum Classic Labs Partners with the Nasdaq Entrepreneurial Center and Lehigh University"
 -
+  key: 2019-07-23-EtherPlan
+  date: 2019-07-23
+  link: https://etherplan.com/2019/07/23/ethereum-classic-vs-ethereum-2-0-what-is-the-difference/8425/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "Ethereum Classic vs Ethereum 2.0, What is the Difference?"
+-
   key: 2019-06-17-ETC-Labs
   date: 2019-06-17
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-sees-unprecedented-momentum-and-growth-358600d7272a
@@ -529,6 +811,13 @@
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Ethereum Classic Atlantis Upgrade on Schedule"
+-
+  key: 2019-05-17-EtherPlan
+  date: 2019-05-17
+  link: https://etherplan.com/2019/05/17/why-there-will-only-be-3-or-4-surviving-blockchains-in-the-future/7603/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "Why There Will Only Be 3 or 4 Surviving Blockchains in the Future"
 -
   key: 2019-05-06-ETC-Labs
   date: 2019-05-06
@@ -585,6 +874,13 @@
   author: McDappas
   source: Ethereum Classic Labs
   title: "ETC Labs Presents: Cryzen"
+-
+  key: 2019-03-06-POA
+  date: 2019-03-06
+  link: https://forum.poa.network/t/introducing-etc-bridge-and-wrapped-ethereum-classic-wetc/2207
+  author: Ziggy
+  source: POA Forum
+  title: "Introducing ETC Bridge and wrapped Ethereum Classic (WETC)"
 -
   key: 2019-03-04-ETC-Labs
   date: 2019-03-04
