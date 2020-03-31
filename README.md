@@ -13,7 +13,7 @@ Become a contributor to the [ethereumclassic.org](https://ethereumclassic.org/) 
 
 ### Media Page - Third-Party Article Submission
 
-If you're writing Ethereum Classic content, the [Media Kit](https://github.com/ethereumclassic/Media_Kit) repository holds an abundance of Ethereum Classic brand assets for content creators. Please pretty up those ETC articles with Ethereum Classic specific images, a lot of work went into all those graphics. Also, if you're a graphic designer, please contribute to our branding by submitting content to the [Media Kit](https://github.com/ethereumclassic/Media_Kit) repository.
+If you're writing Ethereum Classic content, the [Media Kit](https://github.com/ethereumclassic/Media_Kit) repository holds an abundance of Ethereum Classic brand assets for content creators. Please pretty up those ETC articles with Ethereum Classic specific images, a lot of work went into all those graphics. If you're a graphic designer, please consider contributing to our branding by submitting content to the [Media Kit](https://github.com/ethereumclassic/Media_Kit) repository.
 
 If you'd like to submit an Ethereum Classic related article to the website's Media section, please follow the instructions below. Please do not submit speculative articles like weekly price projections and such. This isn't a place for click bait marketing, but rather reliable articles related to developments in the Ethereum Classic ecosystem. Thank you.
 
@@ -32,7 +32,7 @@ Too tough?
 If you're not familiar with GitHub and all of this is too complicated, then you can simply paste your article into a `New Issue` and another contributor can make a PR for you. Also, you can reach out for help from other contributors in the [discord #ethereumclassicwebsite](https://discord.gg/DwQjJ8) channel.
 
 <div>
-  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC_Chinese/chinese_text_etc_logo_green.png" alt="ETC Chinese Logo" width="250"/>
+  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC_Chinese/chinese_text_etc_logo_green.png" alt="ETC Chinese Logo" width="100"/>
   </div>
 
 ### Translation Contributions
@@ -44,15 +44,15 @@ If you'd like to contribute translations, please contact the [discord #ethereumc
 If you would like to suggest new content for the website, please create a `New Issue` in this repository. A contributor will review the issue and reach out to you. For a timely response, please consider joining [discord #ethereumclassicwebsite](https://discord.gg/DwQjJ8) channel.
 
 <div>
-  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_Phoenix/PNG/NO-BG/Phoenix-Green-Partial.png" alt="ETC Phoenix Logo" width="250"/>
+  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_Phoenix/PNG/NO-BG/Phoenix-Green-Partial.png" alt="ETC Phoenix Logo"/>
   </div>
 
-### 2020 Website Modernization Project
+### 2020 Phoenix Website Modernization Project
 
 The website is currently going through a modernization project. The overall structure and content is currently being finalized in this repo's [wiki](https://github.com/ethereumclassic/ethereumclassic.github.io/wiki). If you'd like to join our efforts in modernizing the website, please consider joining our active discussion in the [discord #ethereumclassicwebsite](https://discord.gg/DwQjJ8) channel.
 
 <div>
-  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC_Fractal/etc_logo_fractal_green.png" alt="ETC Fractal Logo" width="250"/>
+  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC_Fractal/etc_logo_fractal_green.png" alt="ETC Fractal Logo"/>
   </div>
 
 ## Deployment
