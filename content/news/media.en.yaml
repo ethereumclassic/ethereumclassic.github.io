@@ -1,4 +1,11 @@
 -
+  key: 2020-03-30-ETC-Core
+  date: 2020-03-30
+  link: https://medium.com/etc-core/how-to-contribute-to-mordor-testnet-ethereum-classic-881490bdd121
+  author: Stevan Lohja
+  source: ETC Core
+  title: "How to contribute to Mordor testnet — Ethereum Classic"
+-
   key: 2020-03-25-Decrypt
   date: 2020-03-25
   link: https://decrypt.co/23588/ethereum-classic-steady-block-reward-reduction
@@ -19,6 +26,13 @@
   author: Donald McIntyre
   source: EtherPlan
   title: "Ethereum Classic Ungovernance Explained"
+-
+  key: 2020-03-19-ETC-Core
+  date: 2020-03-19
+  link: https://medium.com/etc-core/install-core-geth-on-linux-425f14f20e7b
+  author: Stevan Lohja
+  source: ETC Core
+  title: "Install Core-geth on Linux"
 -
   key: 2020-03-15-EtherPlan
   date: 2020-03-15
@@ -48,6 +62,20 @@
   source: Decrypt
   title: "Buying and selling the dreaded CoronaToken"
 -
+  key: 2020-03-05-ETC-Core
+  date: 2020-03-05
+  link: https://medium.com/etc-core/core-geth-a-distribution-of-go-ethereum-with-many-flavors-a80fc29ca17a
+  author: Stevan Lohja
+  source: ETC Core
+  title: "Core-Geth, a distribution of go-ethereum with many flavors"
+-
+  key: 2020-03-02-ETC-Core
+  date: 2020-03-02
+  link: https://medium.com/etc-core/etc-core-2020-roadmap-announcement-c2166cdbc53d
+  author: Stevan Lohja
+  source: ETC Core
+  title: "ETC Core 2020 Roadmap Announcement"
+-
   key: 2020-02-26-EtherPlan
   date: 2020-02-26
   link: https://etherplan.com/2020/02/26/ethereum-classic-phoenix-upgrade-set-for-block-10500839-estimated-on-june-10th-2020/10191/
@@ -62,6 +90,13 @@
   source: EtherPlan
   title: "The Ethereum Classic Monetary Policy Explained"
 -
+  key: 2020-02-21-ETC-Core
+  date: 2020-02-21
+  link: https://medium.com/etc-core/evm61-an-etc-podcast-e534a9009a22
+  author: Stevan Lohja
+  source: ETC Core
+  title: "EVM61 — An ETC Podcast"
+-
   key: 2020-02-14-Decryptco
   date: 2020-02-14
   link: https://decrypt.co/19328/altcoins-are-racing-past-bitcoin-ahead-of-its-halvening
@@ -75,6 +110,13 @@
   author: Jeff Benson
   source: Decrypt
   title: "The future of DeFi: Ethereum Classic makes its case at ETHDenver"
+-
+  key: 2020-02-10-ETC-Core
+  date: 2020-02-10
+  link: https://medium.com/etc-core/announcing-evm-llvm-alpha-release-the-next-level-in-smart-contract-evolution-91a2119bd442
+  author: Stevan Lohja
+  source: ETC Core
+  title: "Announcing EVM-LLVM Alpha release — The next level in smart contract evolution!"
 -
   key: 2020-02-07-Decrypt
   date: 2020-02-07
@@ -132,12 +174,19 @@
   source: Decrypt
   title: "Ethereum Classic pumps 11%, knocks out Monero and DASH"
 -
-  key: 2020-01-23-Decrypt
+  key: 2020-01-23-Decrypt2
   date: 2020-01-23
   link: https://decrypt.co/17544/ethereum-classic-price-comes-tumbling-down
   author: Nicholas Marinoff
   source: Decrypt
   title: "Ethereum Classic price comes tumbling down"
+-
+  key: 2020-01-23-ETC-Core
+  date: 2020-01-23
+  link: https://medium.com/etc-core/expedition-an-open-source-explorer-for-ethereum-classic-and-ethereum-3d99452bb46
+  author: Stevan Lohja
+  source: ETC Core
+  title: "Expedition, an open-source explorer for Ethereum Classic and Ethereum"
 -
   key: 2020-01-23-Decrypt
   date: 2020-01-23
