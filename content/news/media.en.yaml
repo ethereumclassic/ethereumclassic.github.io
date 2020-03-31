@@ -181,6 +181,13 @@
   source: ETC Core
   title: "ETC Core 2020 Roadmap Announcement"
 -
+  key: 2020-02-28-Second-State
+  date: 2020-02-28
+  link: https://medium.com/second-state/second-state-awarded-a-grant-to-bring-next-gen-ethereum-infrastructure-to-polkadot-ecosystem-6545fb2267fc
+  author: Vivian Hu
+  source: Second State
+  title: "Second State awarded a grant to bring next-gen Ethereum infrastructure to Polkadot ecosystem"
+-
   key: 2020-02-27-ETC-Labs
   date: 2020-02-27
   link: https://medium.com/ethereum-classic-labs/oracles-with-ethereum-classic-and-chainlink-15e4d1750d49
@@ -271,6 +278,13 @@
   author: Jeff Benson
   source: Decrypt
   title: "The future of DeFi: Ethereum Classic makes its case at ETHDenver"
+-
+  key: 2020-02-13-Second-State
+  date: 2020-02-13
+  link: https://medium.com/second-state/second-state-receives-another-grant-award-for-the-soll-compiler-491af2639223
+  author: Vivian Hu
+  source: Second State
+  title: "Second State receives another grant award for the SOLL compiler"
 -
   key: 2020-02-13-ETC-Labs
   date: 2020-02-13
