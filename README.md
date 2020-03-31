@@ -33,7 +33,7 @@ If you'd like to submit an Ethereum Classic related article to the website's Med
 7. Celebrate. You just contributed to an open source, decentralized blockchain project!
 
 <div>
-  <img src="https://github.com/ethereumclassic/Graphic_Design/ETC_Vintage/ethereum-classic-wallpaper---crypto-paper-wallet_37892998024_o.png" alt="ETC Article"/>
+  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Graphic_Design/ETC_Vintage/ethereum-classic-wallpaper---crypto-paper-wallet_37892998024_o.png" alt="ETC Article"/>
   </div>
 
 ### Too complicated to contribute?
