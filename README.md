@@ -32,7 +32,11 @@ If you'd like to submit an Ethereum Classic related article to the website's Med
     * Instructions: [Creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 7. Celebrate. You just contributed to an open source, decentralized blockchain project!
 
-#### Too complicated to contribute?
+<div>
+  <img src="https://github.com/ethereumclassic/Graphic_Design/ETC_Vintage/ethereum-classic-wallpaper---crypto-paper-wallet_37892998024_o.png" alt="ETC Article"/>
+  </div>
+
+### Too complicated to contribute?
 
 If you're not familiar with GitHub and all of this is too complicated, then you can simply paste your article into a `New Issue` and another contributor can make a PR for you. Also, you can reach out for help from other contributors in the [discord #ethereumclassicwebsite](https://discord.gg/DwQjJ8) channel.
 
