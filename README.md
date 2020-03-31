@@ -41,19 +41,23 @@ If you'd like to submit an Ethereum Classic related article to the website's Med
 If you're not familiar with GitHub and all of this is too complicated, then you can simply paste your article into a `New Issue` and another contributor can make a PR for you. Also, you can reach out for help from other contributors in the [discord #ethereumclassicwebsite](https://discord.gg/DwQjJ8) channel.
 
 <div>
-  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Graphic_Design/ETC_Community/etc-wallpaper---pop-band-ii_24739619758_o.png" alt="ETC Community"/>
+  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Graphic_Design/ETC_Community/etc-wallpaper---pop-band-ii_24739619758_o.png" alt="Contribute to ETC"/>
   </div>
 
 ### Contribute Translations
 
 Ethereum Classic is a global, decentralized project. We need translators for every language. If you'd like to contribute content translations to the project, please join the [discord #ethereumclassicwebsite](https://discord.gg/DwQjJ8) channel.
 
+<div>
+  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Graphic_Design/ETC_Community/ethereum-classic-wallpaper---etc-community_37892660764_o.png" alt="ETC Translators"/>
+  </div>
+
 ### Suggesting New Content
 
 If you would like to suggest new content for the website, please create a `New Issue` in this repository. A contributor will review the issue. if there are no issues with the contribution, it will b added to the website in a timely manner. For a timely dialog related to new content, please consider joining the [discord #ethereumclassicwebsite](https://discord.gg/DwQjJ8) channel.
 
 <div>
-  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Graphic_Design/ETC_Animals/etc-logo-design---sweet-little-cat_38555637946_o.png" alt="ETC Kitten Translator"/>
+  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Graphic_Design/ETC_Animals/etc-logo-design---sweet-little-cat_38555637946_o.png" alt="ETC Kitten Contributor"/>
   </div>
 
 ### 2020 Phoenix Website Modernization Project
@@ -61,7 +65,7 @@ If you would like to suggest new content for the website, please create a `New I
 The website is currently going through a modernization project to bring it up to 2020 standards. The overall structure and content is currently being finalized in this repo's [wiki](https://github.com/ethereumclassic/ethereumclassic.github.io/wiki). If you'd like to join our efforts in modernizing the website, please consider joining our active discussion in the [discord #ethereumclassicwebsite](https://discord.gg/DwQjJ8) channel. We can always use more hands.
 
 <div>
-  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Graphic_Design/ETC_City/etc-wallpaper---banner-glue_37892023154_o.png" alt="ETC Banner"/>
+  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Graphic_Design/ETC_City/etc-wallpaper---banner-glue_37892023154_o.png" alt="ETC Street Art"/>
   </div>
 
 ## Deployment
@@ -71,6 +75,10 @@ Updates to the `master` branch are automatically built and deployed to [https://
 All other branches will be automatically built and deployed via `netlify`.
 
 For example the `develop` branch can be previewed at https://develop--ethereumclassic.netlify.com/
+
+<div>
+  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Graphic_Design/ETC_Electronics/ethereum-classic-wallpaper---news-and-laptop_38579206002_o.png" alt="Ethereum Classic Developer"/>
+  </div>
 
 ## Development
 
@@ -83,7 +91,7 @@ See `package.json` for scripts scripts.
 Issues and pull requests are welcome. You can also get an overview of issues on the [project kanban](https://github.com/ethereumclassic/ethereumclassic.github.io/projects/1).
 
 <div>
-  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Graphic_Design/ETC_Animals/ethereum-classic-wallpaper---dog-hodl-faithful_37721284945_o.png" alt="Puppy Contributing to ETC"/>
+  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Graphic_Design/ETC_Animals/ethereum-classic-wallpaper---dog-hodl-faithful_37721284945_o.png" alt="Puppy ETC Contributor"/>
   </div>
 
 ## Old Version
@@ -91,5 +99,5 @@ Issues and pull requests are welcome. You can also get an overview of issues on 
 An archived version of the old website can be found at https://github.com/ethereumclassic/ethereumclassic.github.io-v1
 
 <div>
-  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Graphic_Design/ETC_Anonymous/ethereum-classic-wallpaper---from-dusk-til-dawn-love_37893186634_o.png" alt="ETC Love"/>
+  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Graphic_Design/ETC_Anonymous/ethereum-classic-wallpaper---from-dusk-til-dawn-love_37893186634_o.png" alt="Ethereum Classic Love"/>
   </div>
