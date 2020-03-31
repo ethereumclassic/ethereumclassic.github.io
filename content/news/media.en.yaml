@@ -1,760 +1,1382 @@
 -
-  key: 2018-03-08-ircle
+  key: 2020-03-30-ETC-Core
+  date: 2020-03-30
+  link: https://medium.com/etc-core/how-to-contribute-to-mordor-testnet-ethereum-classic-881490bdd121
+  author: Stevan Lohja
+  source: ETC Core
+  title: "How to contribute to Mordor testnet — Ethereum Classic"
+-
+  key: 2020-03-25-Decrypt
+  date: 2020-03-25
+  link: https://decrypt.co/23588/ethereum-classic-steady-block-reward-reduction
+  author: Nicholas Marinoff
+  source: Decrypt
+  title: "Ethereum Classic steady after block reward reduction"
+-
+  key: 2020-03-23-ETC-Labs
+  date: 2020-03-23
+  link: https://medium.com/ethereum-classic-labs/etc-labs-expands-team-to-further-advancements-of-ethereum-classic-technology-and-ecosystem-11426f1c300
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "ETC Labs Expands Team To Further Advancements of Ethereum Classic Technology and Ecosystem"
+-
+  key: 2020-03-20-Decrypt
+  date: 2020-03-20
+  link: https://decrypt.co/23160/ethereum-classic-director-rebuts-mismanagement-claims-2
+  author: Mathew Di Salvo
+  source: Decrypt
+  title: "Ethereum Classic Cooperative director rebuts mismanagement claims"
+-
+  key: 2020-03-19-EtherPlan
+  date: 2020-03-19
+  link: https://etherplan.com/2020/03/19/ethereum-classic-ungovernance-explained/10522/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "Ethereum Classic Ungovernance Explained"
+-
+  key: 2020-03-19-ETC-Core
+  date: 2020-03-19
+  link: https://medium.com/etc-core/install-core-geth-on-linux-425f14f20e7b
+  author: Stevan Lohja
+  source: ETC Core
+  title: "Install Core-geth on Linux"
+-
+  key: 2020-03-18-ETC-Labs
+  date: 2020-03-18
+  link: https://medium.com/ethereum-classic-labs/announcing-christian-xu-our-new-asia-community-manager-33aea54a8567
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "Announcing Christian Xu, our new Asia Community Manager"
+-
+  key: 2020-03-17-ETC-Labs
+  date: 2020-03-17
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-partners-with-gitcoin-to-enable-gitcoin-bounty-posting-using-etc-5865c5eb82ae
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "Ethereum Classic Labs Partners with Gitcoin To Enable Gitcoin Bounty Posting Using ETC"
+-
+  key: 2020-03-15-EtherPlan
+  date: 2020-03-15
+  link: https://etherplan.com/2020/03/15/ethereum-classic-brand-promise-positioning-personality-and-communications/10479/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "Ethereum Classic Brand Promise, Positioning, Personality, and Communications"
+-
+  key: 2020-03-11-EtherPlan
+  date: 2020-03-11
+  link: https://etherplan.com/2020/03/11/the-ethereum-classic-security-model-explained/10348/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "The Ethereum Classic Security Model Explained"
+-
+  key: 2020-03-10-Decrypt
+  date: 2020-03-10
+  link: https://decrypt.co/21569/crypto-traders-hot-on-eth-classic-cold-on-eos-reveals-stocktwits-data
+  author: Daniel Phillips
+  source: Decrypt
+  title: "Crypto traders hot on Eth Classic, cold on EOS reveals Stocktwits data"
+-
+  key: 2020-03-06-Decrypt
+  date: 2020-03-06
+  link: https://decrypt.co/21542/buying-and-selling-the-dreaded-coronatoken
+  author: Colin Platt
+  source: Decrypt
+  title: "Buying and selling the dreaded CoronaToken"
+-
+  key: 2020-03-05-ETC-Core
+  date: 2020-03-05
+  link: https://medium.com/etc-core/core-geth-a-distribution-of-go-ethereum-with-many-flavors-a80fc29ca17a
+  author: Stevan Lohja
+  source: ETC Core
+  title: "Core-Geth, a distribution of go-ethereum with many flavors"
+-
+  key: 2020-03-02-ETC-Core
+  date: 2020-03-02
+  link: https://medium.com/etc-core/etc-core-2020-roadmap-announcement-c2166cdbc53d
+  author: Stevan Lohja
+  source: ETC Core
+  title: "ETC Core 2020 Roadmap Announcement"
+-
+  key: 2020-02-27-ETC-Labs
+  date: 2020-02-27
+  link: https://medium.com/ethereum-classic-labs/oracles-with-ethereum-classic-and-chainlink-15e4d1750d49
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "Oracles with Ethereum Classic and Chainlink"
+-
+  key: 2020-02-26-EtherPlan
+  date: 2020-02-26
+  link: https://etherplan.com/2020/02/26/ethereum-classic-phoenix-upgrade-set-for-block-10500839-estimated-on-june-10th-2020/10191/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "Ethereum Classic Phoenix Upgrade set for Block 10,500,839 Estimated on June 10th, 2020"
+-
+  key: 2020-02-25-ETC-Labs
+  date: 2020-02-25
+  link: https://medium.com/ethereum-classic-labs/advisory-to-reject-ecip-1061-aztlan-and-ecip-1078-phoenixfix-for-ethereum-classic-28df21a206c
+  author: Stevan Lohja
+  source: Ethereum Classic Labs
+  title: "Advisory to reject ECIP-1061 Aztlan and ECIP-1078 PhoenixFix for Ethereum Classic"
+-
+  key: 2020-02-25-EtherPlan
+  date: 2020-02-25
+  link: https://etherplan.com/2020/02/25/the-ethereum-classic-monetary-policy-explained/10025/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "The Ethereum Classic Monetary Policy Explained"
+-
+  key: 2020-02-21-ETC-Core
+  date: 2020-02-21
+  link: https://medium.com/etc-core/evm61-an-etc-podcast-e534a9009a22
+  author: Stevan Lohja
+  source: ETC Core
+  title: "EVM61 — An ETC Podcast"
+-
+  key: 2020-02-14-Decryptco
+  date: 2020-02-14
+  link: https://decrypt.co/19328/altcoins-are-racing-past-bitcoin-ahead-of-its-halvening
+  author: Daniel Phillips
+  source: Decrypt
+  title: "Altcoins are racing past Bitcoin ahead of its halvening"
+-
+  key: 2020-02-14-Decrypt
+  date: 2020-02-14
+  link: https://decrypt.co/19529/future-defi-ethereum-classic-makes-its-case-at-ethdenver
+  author: Jeff Benson
+  source: Decrypt
+  title: "The future of DeFi: Ethereum Classic makes its case at ETHDenver"
+-
+  key: 2020-02-10-ETC-Labs
+  date: 2020-02-10
+  link: https://medium.com/ethereum-classic-labs/etc-labs-announces-collaboration-with-fantom-xar-network-fefe5d9bd1c5
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "ETC Labs Announces Collaboration with Fantom & Xar Network"
+-
+  key: 2020-02-10-ETC-Core
+  date: 2020-02-10
+  link: https://medium.com/etc-core/announcing-evm-llvm-alpha-release-the-next-level-in-smart-contract-evolution-91a2119bd442
+  author: Stevan Lohja
+  source: ETC Core
+  title: "Announcing EVM-LLVM Alpha release — The next level in smart contract evolution!"
+-
+  key: 2020-02-07-Decrypt
+  date: 2020-02-07
+  link: https://decrypt.co/18677/ethereum-booms-while-ethereum-classic-busts-in-new-market-rally
+  author: Daniel Phillips
+  source: Decrypt
+  title: "Ethereum booms while Ethereum Classic busts in new market rally"
+-
+  key: 2020-02-06-EtherPlan
+  date: 2020-02-06
+  link: https://etherplan.com/2020/02/06/ethereum-classic-money-property-agreements-explained/9965/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "Ethereum Classic Money, Property, & Agreements Explained"
+-
+  key: 2020-02-05-EtherPlan
+  date: 2020-02-05
+  link: https://etherplan.com/2020/02/05/ethereum-classic-aztlan-phoenix-upgrades-set-to-activate-on-block-10500839-estimated-on-june-10th-2020/9901/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "Ethereum Classic Aztlán & Phoenix Upgrades set to Activate on Block 10,500,839 Estimated on June 10th, 2020"
+-
+  key: 2020-02-04-EtherPlan
+  date: 2020-02-04
+  link: https://etherplan.com/2020/02/04/the-ethereum-classic-trinity-explained/9845/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "The Ethereum Classic Trinity Explained"
+-
+  key: 2020-01-31-EtherPlan
+  date: 2020-01-31
+  link: https://etherplan.com/2020/01/31/ethereum-classic-developer-call-about-the-next-aztlan-phoenix-upgrades-feb-5-2019/9796/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "Ethereum Classic Developer Call – About the Next Aztlán & Phoenix Upgrades – Feb 5, 2019"
+-
+  key: 2020-01-28-Decrypt
+  date: 2020-01-28
+  link: https://decrypt.co/17894/ethereum-classic-price-is-the-highest-its-been-in-over-a-year
+  author: Nicholas Marinoff
+  source: Decrypt
+  title: "Ethereum Classic price is the highest it’s been in over a year"
+-
+  key: 2020-01-28-EtherPlan
+  date: 2020-01-28
+  link: https://etherplan.com/2020/01/28/the-ethereum-classic-ecosystem-explained/9680/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "The Ethereum Classic Ecosystem Explained"
+-
+  key: 2020-01-27-Decrypt
+  date: 2020-01-27
+  link: https://decrypt.co/17745/ethereum-classic-pumps-11-knocks-out-monero-and-dash
+  author: Daniel Phillips
+  source: Decrypt
+  title: "Ethereum Classic pumps 11%, knocks out Monero and DASH"
+-
+  key: 2020-01-23-Decrypt2
+  date: 2020-01-23
+  link: https://decrypt.co/17544/ethereum-classic-price-comes-tumbling-down
+  author: Nicholas Marinoff
+  source: Decrypt
+  title: "Ethereum Classic price comes tumbling down"
+-
+  key: 2020-01-23-ETC-Core
+  date: 2020-01-23
+  link: https://medium.com/etc-core/expedition-an-open-source-explorer-for-ethereum-classic-and-ethereum-3d99452bb46
+  author: Stevan Lohja
+  source: ETC Core
+  title: "Expedition, an open-source explorer for Ethereum Classic and Ethereum"
+-
+  key: 2020-01-23-Decrypt
+  date: 2020-01-23
+  link: https://decrypt.co/17437/ethereum-classic-labs-invests-1-million-in-unicef-startups
+  author: Robert Stevens
+  source: Decrypt
+  title: "Ethereum Classic Labs invests $1 million in UNICEF startups"
+-
+  key: 2020-01-22-Decrypt
+  date: 2020-01-22
+  link: https://decrypt.co/17413/grayscale-investments-sees-a-future-in-ethereum-classic
+  author: Nicholas Marinoff
+  source: Decrypt
+  title: "Grayscale Investments sees a future in Ethereum Classic"
+-
+  key: 2020-01-21-Decrypt
+  date: 2020-01-21
+  link: https://decrypt.co/resources/what-is-ethereum-classic-explained-guide-cryptocurrency
+  author: Ki Chong Tran
+  source: Decrypt
+  title: "What is Ethereum Classic?"
+-
+  key: 2020-01-20-ETC-Labs
+  date: 2020-01-20
+  link: https://medium.com/ethereum-classic-labs/the-evolution-of-investment-in-etc-and-the-need-for-secure-crypto-custody-343b55f8d2cf
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "The Evolution of investment in ETC and the need for secure Crypto Custody"
+-
+  key: 2020-01-20-Decrypt
+  date: 2020-01-20
+  link: https://decrypt.co/17159/ethereum-classic-jumps-more-than-eight-percent-following-dismal-weekend
+  author: Nicholas Marinoff
+  source: Decrypt
+  title: "Ethereum Classic jumps more than eight percent following dismal weekend"
+-
+  key: 2020-01-17-Decrypt
+  date: 2020-01-17
+  link: https://decrypt.co/16913/ethereum-classic-price-goes-ballistic-racks-up-30-gains
+  author: Daniel Phillips
+  source: Decrypt
+  title: "Ethereum Classic price goes ballistic, racks up 30% gains"
+-
+  key: 2020-01-14-EtherPlan
+  date: 2020-01-14
+  link: https://etherplan.com/2020/01/14/the-logic-of-why-ethereum-classic-will-rise-1000x-in-the-medium-to-long-term/9639/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "The Logic of why Ethereum Classic will Rise 1000x in the Medium to Long Term"
+-
+  key: 2019-12-17-CryptoDaily
+  date: 2019-12-17
+  link: https://cryptodaily.co.uk/2019/12/ethereum-classic-teams-rebrand-for-clarity
+  author: Adrian Barkley
+  source: Crypto Daily
+  title: "Ethereum Classic Teams Rebrand For Clarity"
+-
+  key: 2019-12-09-ETC-Labs
+  date: 2019-12-09
+  link: https://medium.com/ethereum-classic-labs/highlights-from-ethereum-classic-labs-keynote-and-accelerator-updates-5aecd7a5d9b4
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "Highlights from Ethereum Classic Labs Keynote and Accelerator Updates"
+-
+  key: 2019-11-11-CryptoDaily
+  date: 2019-11-11
+  link: https://cryptodaily.co.uk/2019/11/did-you-miss-these-important-ethereum-classic-and-litecoin-updates
+  author: Adrian Barkley
+  source: Crypto Daily
+  title: "Did You Miss These Important Ethereum Classic And Litecoin Updates?"
+-
+  key: 2019-10-26-EtherPlan
+  date: 2019-10-26
+  link: https://etherplan.com/2019/10/26/backward-compatibility-what-is-account-versioning-in-ethereum-classic/9440/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "Backward Compatibility: What is Account Versioning in Ethereum Classic?"
+-
+  key: 2019-10-24-EtherPlan
+  date: 2019-10-24
+  link: https://etherplan.com/2019/10/24/the-ethereum-classic-dilemma-ethereum-parity-vs-backward-compatibility/9373/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "The Ethereum Classic Dilemma: Ethereum Parity vs Backward Compatibility"
+-
+  key: 2019-10-15-EtherPlan
+  date: 2019-10-15
+  link: https://etherplan.com/2019/10/15/in-banking-wealth-is-controlled-by-providers-in-blockchain-wealth-is-controlled-by-owners/9302/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "In Banking Wealth is Controlled by Providers, in Blockchain Wealth is Controlled by Owners"
+-
+  key: 2019-10-12-Decrypt
+  date: 2019-10-12
+  link: https://decrypt.co/10290/ethereum-classics-plan-to-seduce-ethereums-miners
+  author: Ben Munster
+  source: Decrypt
+  title: "Ethereum Classic's plan to seduce Ethereum’s miners"
+-
+  key: 2019-10-07-EtherPlan
+  date: 2019-10-07
+  link: https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "Why Proof of Stake is Less Secure Than Proof of Work"
+-
+  key: 2019-09-18-Decrypt
+  date: 2019-09-18
+  link: https://decrypt.co/9372/progpow-advocate-uninvited-ethereum-summit-over-links-craig-wright
+  author: Jeff Benson
+  source: Decrypt
+  title: "ProgPow advocate uninvited to Ethereum Classic Summit over links to Craig Wright"
+-
+  key: 2019-09-13-CryptoDaily
+  date: 2019-09-13
+  link: https://cryptodaily.co.uk/2019/09/atlantis-hard-fork-sees-end-ehtereum-classic-network
+  author: Adrian Barkley
+  source: Crypto Daily
+  title: "Atlantis Hard Fork Finally Sees An End On Ethereum Classic Network"
+-
+  key: 2019-09-12-Decrypt
+  date: 2019-09-12
+  link: https://decrypt.co/9206/ethereum-classic-atlantis-upgrade-makes-etc-more-like-eth
+  author: Jeff Benson
+  source: Decrypt
+  title: "Ethereum Classic Atlantis upgrade makes ETC more like ETH"
+-
+  key: 2019-08-23-ETC-Labs
+  date: 2019-08-23
+  link: https://medium.com/ethereum-classic-labs/ethermine-announces-full-support-for-ethereum-classic-atlantis-hard-fork-5231d3c70d58
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "Ethermine Announces Full Support for Ethereum Classic Atlantis Hard Fork"
+-
+  key: 2019-08-09-Decrypt
+  date: 2019-08-09
+  link: https://decrypt.co/8301/binance-adds-margin-trading-litecoin
+  author: Tim Copeland
+  source: Decrypt
+  title: "Binance adds margin trading for Litecoin, USDC and Ethereum Classic"
+-
+  key: 2019-08-08-ETC-Labs
+  date: 2019-08-08
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-announces-studio-a-comprehensive-program-to-launch-new-projects-on-44db3da59064
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "Ethereum Classic Labs Announces Studio — A Comprehensive Program to Launch New Projects on Ethereum Classic"
+-
+  key: 2019-08-08-ETC-Labs
+  date: 2019-08-08
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-partners-with-the-nasdaq-entrepreneurial-center-and-lehigh-university-55e7bc2c1fed
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "Ethereum Classic Labs Partners with the Nasdaq Entrepreneurial Center and Lehigh University"
+-
+  key: 2019-06-17-ETC-Labs
+  date: 2019-06-17
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-sees-unprecedented-momentum-and-growth-358600d7272a
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "Ethereum Classic sees Unprecedented Momentum and Growth"
+-
+  key: 2019-06-11-ETC-Labs
+  date: 2019-06-11
+  link: https://medium.com/ethereum-classic-labs/announcement-on-the-etc-atlantis-hard-fork-3742974f5363
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "Announcement on the ETC Atlantis Hard Fork"
+-
+  key: 2019-06-11-CryptoDaily
+  date: 2019-06-11
+  link: https://cryptodaily.co.uk/2019/06/ethereum-classic-atlantis-upgrade-to-start-testing-this-month
+  author: Robert Johnson
+  source: Crypto Daily
+  title: "Ethereum Classic’s Atlantis Upgrade To Start Testing This Month"
+-
+  key: 2019-06-10-ETC-Labs
+  date: 2019-06-10
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-atlantis-upgrade-on-schedule-55d28463976b
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "Ethereum Classic Atlantis Upgrade on Schedule"
+-
+  key: 2019-05-06-ETC-Labs
+  date: 2019-05-06
+  link: https://medium.com/ethereum-classic-labs/summer-in-the-labs-1-48a27506c21c
+  author: Hiccups
+  source: Ethereum Classic Labs
+  title: "Summer in the Labs — #1"
+-
+  key: 2019-04-25-CryptoDaily
+  date: 2019-04-25
+  link: https://cryptodaily.co.uk/2019/04/updates-ethereum-classic-network-developer
+  author: Robert Johnson
+  source: Crypto Daily
+  title: "Updates On Ethereum Classic Network Revealed By Developer"
+-
+  key: 2019-04-15-ETC-Labs
+  date: 2019-04-15
+  link: https://medium.com/ethereum-classic-labs/this-week-in-the-labs-april-15th-47c242531ea7
+  author: Hiccups
+  source: Ethereum Classic Labs
+  title: "This Week in the Labs: April 15th"
+-
+  key: 2019-04-08-ETC-Labs
+  date: 2019-04-08
+  link: https://medium.com/ethereum-classic-labs/the-emerald-city-of-changsha-42f6ccdb0c52
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "The Emerald City of Changsha"
+-
+  key: 2019-03-29-ETC-Labs
+  date: 2019-03-29
+  link: https://medium.com/ethereum-classic-labs/etc-labs-presents-anylog-ea47050d04fe
+  author: McDappas
+  source: Ethereum Classic Labs
+  title: "ETC Labs Presents: AnyLog"
+-
+  key: 2019-03-22-ETC-Labs
+  date: 2019-03-22
+  link: https://medium.com/ethereum-classic-labs/etc-labs-presents-ethernode-9ef7f737431d
+  author: McDappas
+  source: Ethereum Classic Labs
+  title: "ETC Labs Presents: Ethernode"
+-
+  key: 2019-03-15-ETC-Labs
+  date: 2019-03-15
+  link: https://medium.com/ethereum-classic-labs/etc-labs-presents-button-wallet-8029c27bc38c
+  author: McDappas
+  source: Ethereum Classic Labs
+  title: "ETC Labs Presents: Button Wallet"
+-
+  key: 2019-03-08-ETC-Labs
+  date: 2019-03-08
+  link: https://medium.com/ethereum-classic-labs/etc-labs-presents-cryzen-db8770d98b35
+  author: McDappas
+  source: Ethereum Classic Labs
+  title: "ETC Labs Presents: Cryzen"
+-
+  key: 2019-03-04-ETC-Labs
+  date: 2019-03-04
+  link: https://medium.com/ethereum-classic-labs/this-week-in-the-labs-march-4th-2c9de4d8ca2
+  author: Hiccups
+  source: Ethereum Classic Labs
+  title: "This Week in the Labs: March 4th"
+-
+  key: 2019-03-01-ETC-Labs
+  date: 2019-03-01
+  link: https://medium.com/ethereum-classic-labs/etc-labs-presents-vrex-labs-993e9d0476d4
+  author: McDappas
+  source: Ethereum Classic Labs
+  title: "ETC Labs Presents: VREX Lab"
+-
+  key: 2019-02-22-ETC-Labs
+  date: 2019-02-22
+  link: https://medium.com/ethereum-classic-labs/etc-labs-presents-statwig-49d3dd50c201
+  author: McDappas
+  source: Ethereum Classic Labs
+  title: "ETC Labs Presents: StaTwig"
+-
+  key: 2019-02-18-ETC-Labs
+  date: 2019-02-18
+  link: https://medium.com/ethereum-classic-labs/this-week-in-the-labs-february-18th-1bcb0c8255f1
+  author: Hiccups
+  source: Ethereum Classic Labs
+  title: "This Week in the Labs: February 18th"
+-
+  key: 2019-02-15-ETC-Labs
+  date: 2019-02-15
+  link: https://medium.com/ethereum-classic-labs/etc-labs-presents-slips-51d98bc7f568
+  author: McDappas
+  source: Ethereum Classic Labs
+  title: "ETC Labs Presents: Slips"
+-
+  key: 2019-01-29-CryptoDaily
+  date: 2019-01-29
+  link: https://cryptodaily.co.uk/2019/01/ethereum-classic-cooperative-welcomes-summerwill
+  author: Anthony Lusardi
+  source: Crypto Daily
+  title: "Ethereum Classic Cooperative Welcomes Bob Summerwill"
+-
+  key: 2019-01-27-CryptoDaily
+  date: 2019-01-27
+  link: https://cryptodaily.co.uk/2019/01/etc-51-attack-a-call-for-security-models
+  author: Robert Johnson
+  source: Crypto Daily
+  title: "Is The ETC 51% Attack A Call For New Security Models"
+-
+  key: 2019-01-16-CryptoDaily
+  date: 2019-01-16
+  link: https://cryptodaily.co.uk/2019/01/cryptocurrency-cant-be-51-attacked
+  author: Kyle Torpey
+  source: Crypto Daily
+  title: "If A Cryptocurrency Can’t Be 51% Attacked, Then It Isn’t Decentralized"
+-
+  key: 2019-01-14-CryptoDaily
+  date: 2019-01-14
+  link: https://cryptodaily.co.uk/2019/01/100k-of-etc-hack-returned-to-exchange
+  author: Adrian Barkley
+  source: Crypto Daily
+  title: "$100k Of ETC 51 Percent Hack Returned To Exchange"
+-
+  key: 2019-01-10-CryptoDaily
+  date: 2019-01-10
+  link: https://cryptodaily.co.uk/2019/01/truth-about-ethereum-classic-hack
+  author: Mark Nezvisky
+  source: Crypto Daily
+  title: "The Truth About The Ethereum Classic Hack"
+-
+  key: 2019-01-08-Decrypt
+  date: 2019-01-08
+  link: https://decrypt.co/4399/51-percent-attack-cripples-ethereum-classic
+  author: Ben Munster
+  source: Decrypt
+  title: "51 percent attack cripples Ethereum classic"
+-
+  key: 2019-01-08-CryptoDaily
+  date: 2019-01-08
+  link: https://cryptodaily.co.uk/2019/01/attack-on-ethereum-classic-network
+  author: Robert Johnson
+  source: Crypto Daily
+  title: "Shock Attack On Ethereum Classic Network"
+-
+  key: 2018-12-04-CryptoDaily
+  date: 2018-12-04
+  link: https://cryptodaily.co.uk/2018/12/ethereum-classic-hits-a-bump
+  author: Adrian Barkley
+  source: Crypto Daily
+  title: "Ethereum Classic Hits A Bump In The Road"
+-
+  key: 2018-11-30-CryptoDaily
+  date: 2018-11-30
+  link: https://cryptodaily.co.uk/2018/11/the-sturdiness-of-ethereum-classic
+  author: Adrian Barkley
+  source: Crypto Daily
+  title: "The Sturdiness Of Ethereum Classic"
+-
+  key: 2018-11-21-CryptoDaily
+  date: 2018-11-21
+  link: https://cryptodaily.co.uk/2018/11/What-is-Ethereum-Classics-Project-Goerli
+  author: Adrian Barkley
+  source: Crypto Daily
+  title: "What Is Ethereum Classics Project Goerli?"
+-
+  key: 2018-11-01-ETC-Labs
+  date: 2018-11-01
+  link: https://medium.com/ethereum-classic-labs/etc-labs-developer-bootcamp-promotes-dapp-development-on-etc-59b8364da626
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "ETC Labs Developer Bootcamp Promotes DApp Development on ETC"
+-
+  key: 2018-10-31-CryptoDaily
+  date: 2018-10-31
+  link: https://cryptodaily.co.uk/2018/10/ethereum-offers-ethereum-classic-a-helping-hand
+  author: Mark Nezvisky
+  source: Crypto Daily
+  title: "Ethereum Offers Ethereum Classic A Helping Hand"
+-
+  key: 2018-10-30-ETC-Labs
+  date: 2018-10-30
+  link: https://medium.com/ethereum-classic-labs/etc-labs-launch-event-a-huge-success-5bab8d8a3903
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "ETC Labs Launch Event a Huge Success"
+-
+  key: 2018-08-20-CryptoDaily
+  date: 2018-08-20
+  link: https://cryptodaily.co.uk/2018/08/bittrex-set-to-add-usd-trading-pairs-for-xrp-and-etc
+  author: Nathan Bentley
+  source: Crypto Daily
+  title: "Bittrex Set To Add USD Trading Pairs For XRP And ETC"
+-
+  key: 2018-08-07-CryptoDaily
+  date: 2018-08-07
+  link: https://cryptodaily.co.uk/2018/08/ethereum-classic-achieves-new-listing
+  author: Robert Johnson
+  source: Crypto Daily
+  title: "Ethereum Classic Achieves New Listing"
+-
+  key: 2018-06-18-CryptoDaily
+  date: 2018-06-18
+  link: https://cryptodaily.co.uk/2018/06/ethereum-classic-etcs-coinbase-listing-signals-mass-adoption-binance-lists-etc-usdt-and-etc-bnb-pairs
+  author: Jefe Caan
+  source: Crypto Daily
+  title: "Ethereum Classic (ETC)’S Coinbase Listing Signals Mass Adoption, Binance Lists ETC/USDT And ETC/BNB Pairs"
+-
+  key: 2018-06-14-CryptoDaily
+  date: 2018-06-14
+  link: https://cryptodaily.co.uk/2018/06/ripple-stellar-and-ethereum-classic-all-approved
+  author: Nathan Bentley
+  source: Crypto Daily
+  title: "Ripple, Stellar And Ethereum Classic All Approved"
+-
+  key: 2018-06-12-CryptoDaily
+  date: 2018-06-12
+  link: https://cryptodaily.co.uk/2018/06/ethereum-classic-skyrockets-with-new-coinbase-listing
+  author: Jefe Caan
+  source: Crypto Daily
+  title: "Ethereum Classic Skyrockets With New Coinbase Listing"
+-
+  key: 2018-05-30-CryptoDaily2
+  date: 2018-05-30
+  link: https://cryptodaily.co.uk/2018/05/ethereum-classic-hard-fork-proves-lifesaver
+  author: Thomas Ramsay
+  source: Crypto Daily
+  title: "Ethereum Classic Hard Fork Proves To Be A Lifesaver"
+-
+  key: 2018-05-30-CryptoDaily
+  date: 2018-05-30
+  link: https://cryptodaily.co.uk/2018/05/ethereum-classic-etc-new-institutional-favorite-bitcoin-btc-eos-eos
+  author: Jefe Caan
+  source: Crypto Daily
+  title: "Ethereum Classic (ETC) Is The New Institutional Favorite After Bitcoin (BTC) And EOS (EOS)"
+-
+  key: 2018-04-27-CryptoDaily
+  date: 2018-04-27
+  link: https://cryptodaily.co.uk/2018/04/war-asics-might-not-solution
+  author: Crypto IQ
+  source: Crypto Daily
+  title: "War On ASICs Might Not Be The Solution"
+-
+  key: 2018-04-05-CryptoDaily
+  date: 2018-04-05
+  link: https://cryptodaily.co.uk/2018/04/ethereum-classic-etc-forgotten-twin-brother-ethereum-eth
+  author: Jefe Caan
+  source: Crypto Daily
+  title: "Ethereum Classic (ETC): The Forgotten Twin Brother Of Ethereum (ETH)"
+-
+  key: 2018-03-09-CryptoDaily
+  date: 2018-03-09
+  link: https://cryptodaily.co.uk/2018/03/grayscale-adds-ripple-xrp-litecoin-ethereum-bch-to-its-investment-trust
+  author: Thomas Ramsay
+  source: Crypto Daily
+  title: "Grayscale Adds Ripple XRP, Litecoin, Ethereum, & BCH To Its Investment Trust"
+-
+  key: 2018-03-08-CCN
   date: 2018-03-08
   link: https://www.ccn.com/circles-coinbase-like-cryptocurrency-investing-app-enters-closed-beta/
-  source: Josiah Wilmoth (CCN)
+  author: Josiah Wilmoth
+  source: Crypto Coins News
   title: "Circle Invest supports ETC/USD trading pairs"
 -
   key: 2017-11-12-PR
   date: 2017-11-12
   link: https://www.prnewswire.com/news-releases/grayscale-investments-commences-process-to-secure-public-quotation-for-ethereum-classic-investment-trust-shares-on-otcqx-300553756.html
-  author: Grayscale Investments, LLC
-  source: "PR Newswire"
-  title: "Grayscale Investments Commences Process to Secure Public Quotation for Ethereum Classic Investment Trust Shares on OTCQX®" 
+  author: Grayscale Investments
+  source: PR Newswire
+  title: "Grayscale Investments Commences Process to Secure Public Quotation for Ethereum Classic Investment Trust Shares on OTCQX®"
 -
-  key: 2017-09-07-CrowdFund
+  key: 2017-09-07-CF
   date: 2017-09-07
   link: https://www.crowdfundinsider.com/2017/09/121557-bitcoin-ira-unveils-litecoin-ethereum-classic-bitcoin-cash-retirement-investments/
   author: Samantha Hurst
-  source: "CrowdFund Insider"
-  title: "Bitcoin IRA Unveils Litecoin, Ethereum Classic, and Bitcoin Cash for Retirement Investments" 
+  source: Crowd Fund Insider
+  title: "Bitcoin IRA Unveils Litecoin, Ethereum Classic, and Bitcoin Cash for Retirement Investments"
 -
-  key: 2017-09-01-CryptoCoins
+  key: 2017-09-01-CCN
   date: 2017-09-01
   link: https://www.cryptocoinsnews.com/ethereum-classic-price-jumps-past-20-during-23-climb/
   author: Josiah Wilmoth
-  source: "CryptoCoins News"
-  title: "Ethereum Classic Price Jumps Past $20 During 23% Climb" 
+  source: Crypto Coins News
+  title: "Ethereum Classic Price Jumps Past $20 During 23% Climb"
 -
   key: 2017-08-16-Forbes
   date: 2017-08-16
   link: https://www.forbes.com/sites/jonathanchester/2017/08/16/your-guide-on-how-to-run-an-ico-for-better-or-worse/#53e272b83c58
   author: Jonathan Chester
-  source: "Forbes"
-  title: "Your Guide To Running An Initial Coin Offering, For Better Or Worse" 
+  source: Forbes
+  title: "Your Guide To Running An Initial Coin Offering, For Better Or Worse"
 -
   key: 2017-08-11-Nasdaq
   date: 2017-08-11
   link: http://www.nasdaq.com/article/ethereum-classic-forges-its-own-identity-with-new-mantis-client-cm831098
   author: Amy Castor
-  source: "Nasdaq"
-  title: "Ethereum Classic Forges Its Own Identity With New Mantis Client" 
+  source: Nasdaq
+  title: "Ethereum Classic Forges Its Own Identity With New Mantis Client"
 -
-  key: 2017-08-09-The
+  key: 2017-08-09-CT
   date: 2017-08-09
   link: https://cointelegraph.com/news/ethereum-classic-begins-to-differentiate-itself-from-ethereum-with-release-of-new-mantis-client
   author: David Dinkins
-  source: "The Coin Telegraph"
-  title: "Ethereum Classic Begins to Differentiate Itself from Ethereum With Release of New Mantis Client" 
+  source: Coin Telegraph
+  title: "Ethereum Classic Begins to Differentiate Itself from Ethereum With Release of New Mantis Client"
 -
   key: 2017-07-27-Ars
   date: 2017-07-27
   link: https://arstechnica.com/tech-policy/2017/07/using-a-blockchain-doesnt-exempt-you-from-securities-regulations/
   author: Timothy B. Lee
-  source: "Ars Technica"
-  title: "Using a blockchain doesn’t exempt you from securities regulations" 
+  source: Ars Technica
+  title: "Using a blockchain doesn’t exempt you from securities regulations"
 -
-  key: 2017-07-23-Coin
+  key: 2017-07-23-CT
   date: 2017-07-23
   link: https://cointelegraph.com/news/coinbase-clarifies-no-plans-to-integrate-ethereum-classic-yet
   author: Joseph Young
-  source: "Coin Telegraph"
-  title: "Coinbase Clarifies, No Plans to Integrate Ethereum Classic Yet" 
+  source: Coin Telegraph
+  title: "Coinbase Clarifies, No Plans to Integrate Ethereum Classic Yet"
 -
-  key: 2017-07-17-Crypto
+  key: 2017-07-17-CN
   date: 2017-07-17
   link: https://www.cryptoninjas.net/2017/07/17/alfacashier-adds-support-ethereum-classic-etc/
-  source: "Crypto Ninjas"
-  title: "ALFAcashier adds support for Ethereum Classic (ETC)" 
+  source: Crypto Ninjas
+  title: "ALFAcashier adds support for Ethereum Classic (ETC)"
 -
-  key: 2017-07-16-Crypto
+  key: 2017-07-16-CN
   date: 2017-07-16
   link: https://www.cryptoninjas.net/2017/07/16/crypto-exchange-alfacashier-adds-thailand-banking-support/
-  source: "Crypto Ninjas"
-  title: "Crypto exchange ALFAcashier adds Thailand banking support" 
+  source: Crypto Ninjas
+  title: "Crypto exchange ALFAcashier adds Thailand banking support"
 -
-  key: 2017-07-16-Crypto
-  date: 2017-07-16
-  link: https://cryptoinsider.com/bitconnect-coin-price-reaches-time-high-june-briefly-surpasses-growth-rate-ethereum/
-  source: "Crypto Insider"
-  title: "Bitconnect Coin Price Reaches All-Time High in June, Briefly Surpasses Growth Rate of Ethereum" 
--
-  key: 2017-07-15-The
+  key: 2017-07-15-TM
   date: 2017-07-15
   link: https://themerkle.com/litecoin-and-ethereum-classic-almost-match-trading-volume/
   author: JP Buntix
-  source: "The Merkle"
-  title: "Litecoin and Ethereum Classic Almost Match Trading Volume" 
+  source: The Merkle
+  title: "Litecoin and Ethereum Classic Almost Match Trading Volume"
 -
-  key: 2017-07-15-Crypto
+  key: 2017-07-15-CCN
   date: 2017-07-15
   link: https://www.cryptocoinsnews.com/ethereum-classic-leads-the-top-10-cryptos-for-the-week/
   author: Lester Coleman
-  source: "Crypto Coins News"
-  title: "Ethereum Classic Leads The Top 10 Cryptos For The Week" 
+  source: Crypto Coins News
+  title: "Ethereum Classic Leads The Top 10 Cryptos For The Week"
 -
-  key: 2017-07-14-Value
+  key: 2017-07-14-VW
   date: 2017-07-14
   link: http://www.valuewalk.com/2017/07/ethereum-vs-ethereum-classic/
   author: Steve Prentice
-  source: "Value Walk"
-  title: "Ethereum vs. Ethereum Classic: Same Great Taste, Half the Calories" 
+  source: Value Walk
+  title: "Ethereum vs. Ethereum Classic: Same Great Taste, Half the Calories"
 -
-  key: 2017-07-14-Coin
+  key: 2017-07-14-CT
   date: 2017-07-14
   link: https://cointelegraph.com/news/ethereum-classic-comes-big-to-china-becomes-best-performing-crypto-on-friday
   author: William Suberg
-  source: "Coin Telegraph"
-  title: "Ethereum Classic Comes Big To China, Becomes Best Performing Crypto On Friday" 
+  source: Coin Telegraph
+  title: "Ethereum Classic Comes Big To China, Becomes Best Performing Crypto On Friday"
 -
-  key: 2017-07-12-Coin
+  key: 2017-07-12-CT
   date: 2017-07-12
   link: https://cointelegraph.com/news/ethereum-classic-makes-its-way-onto-chinese-exchange-huobi
   author: Alexander Geralis
-  source: "Coin Telegraph"
-  title: "Ethereum Classic Makes Its Way Onto Chinese Exchange Huobi" 
+  source: Coin Telegraph
+  title: "Ethereum Classic Makes Its Way Onto Chinese Exchange Huobi"
 -
-  key: 2017-07-12-Crypto
+  key: 2017-07-12-CCN
   date: 2017-07-12
   link: https://www.cryptocoinsnews.com/ethereum-classic-jumps-ahead-of-the-pack/
   author: Lester Coleman
-  source: "Crypto Coins News"
-  title: "Ethereum Classic Jumps Ahead Of The Pack" 
+  source: Crypto Coins News
+  title: "Ethereum Classic Jumps Ahead Of The Pack"
 -
-  key: 2017-07-12-Crypto
+  key: 2017-07-12-CN
   date: 2017-07-12
   link: https://www.cryptoninjas.net/2017/07/12/okcoin-intl-launch-ethereum-classic-etc-support-july-15th/
-  source: "Crypto Ninjas"
-  title: "OKCoin Intl to launch Ethereum Classic (ETC) support on July 15th" 
+  source: Crypto Ninjas
+  title: "OKCoin Intl to launch Ethereum Classic (ETC) support on July 15th"
 -
-  key: 2017-07-11-Finance
+  key: 2017-07-11-FM
   date: 2017-07-11
   link: https://www.financemagnates.com/cryptocurrency/trading/dash-litecoin-ripples-xrp-ethereum-classic-added-etoros-cryptofund/
   author: Avi Mizrahi
-  source: "Finance Magnates"
-  title: "Dash, Litecoin, Ripple’s XRP and Ethereum Classic Added to eToro’s CryptoFund" 
+  source: Finance Magnates
+  title: "Dash, Litecoin, Ripple’s XRP and Ethereum Classic Added to eToro’s CryptoFund"
 -
-  key: 2017-07-11-The
+  key: 2017-07-11-TM
   date: 2017-07-11
   link: https://themerkle.com/4-ethereum-classic-icos-you-didnt-know-existed/
   author: JP Buntinx
-  source: "The Merkle"
-  title: "4 Ethereum Classic ICOs You Didn’t Know Existed" 
+  source: The Merkle
+  title: "4 Ethereum Classic ICOs You Didn’t Know Existed"
 -
-  key: 2017-06-30-The
+  key: 2017-06-30-TM
   date: 2017-06-30
   link: https://themerkle.com/what-is-ethereum-classics-ecip-1025/
   author: JP Buntinx
-  source: "The Merkle"
-  title: "What is Ethereum Classic’s ECIP-1025" 
+  source: The Merkle
+  title: "What is Ethereum Classic’s ECIP-1025"
 -
-  key: 2017-06-29-The
+  key: 2017-06-29-TM
   date: 2017-06-29
   link: https://themerkle.com/inpay-introduces-first-dual-blockchain-project-for-ethereum-classic-and-waves/
   author: Mark
-  source: "The Merkle"
-  title: "InPay Introduces First Dual Blockchain Project For Ethereum Classic and Waves" 
+  source: The Merkle
+  title: "InPay Introduces First Dual Blockchain Project For Ethereum Classic and Waves"
 -
-  key: 2017-06-25-Bitcoinist
+  key: 2017-06-25-B
   date: 2017-06-25
-  link: http://bitcoinist.com/ethereum-wars-classic-posts-gains-congestion-plagues-eth/ 
+  link: http://bitcoinist.com/ethereum-wars-classic-posts-gains-congestion-plagues-eth/
   author: Wilma Woo
-  source: "Bitcoinist"
-  title: "Ethereum Wars: Classic Posts Only Gains, Surfs All-Time Highs As Congestion Plagues ETH" 
+  source: Bitcoinist
+  title: "Ethereum Wars: Classic Posts Only Gains, Surfs All-Time Highs As Congestion Plagues ETH"
 -
-  key: 2017-06-25-Cryptocoins
+  key: 2017-06-25-CCN
   date: 2017-06-25
-  link: https://www.cryptocoinsnews.com/ethereum-struggling-scaling-despite-lack-actual-user-base/ 
+  link: https://www.cryptocoinsnews.com/ethereum-struggling-scaling-despite-lack-actual-user-base/
   author: Joseph Young
-  source: "Cryptocoins News"
-  title: "Ethereum is Struggling With Scaling, Despite Lack of Actual User Base" 
+  source: Crypto Coins News
+  title: "Ethereum is Struggling With Scaling, Despite Lack of Actual User Base"
 -
-  key: 2017-06-25-Ibtimes
+  key: 2017-06-25-IBT
   date: 2017-06-25
-  link: http://www.ibtimes.co.uk/cryptocurrency-exchange-btcc-dax-launches-ethereum-classic-1627718 
+  link: http://www.ibtimes.co.uk/cryptocurrency-exchange-btcc-dax-launches-ethereum-classic-1627718
   author: Ian Allison
-  source: "Ibtimes"
-  title: "Cryptocurrency exchange BTCC DAX launches with Ethereum Classic" 
+  source: IB Times
+  title: "Cryptocurrency exchange BTCC DAX launches with Ethereum Classic"
 -
-  key: 2017-06-24-Cryptocoins
+  key: 2017-06-24-CCN
   date: 2017-06-24
-  link: https://www.cryptocoinsnews.com/ethereum-congested-time-start-looking-ico-platforms/ 
+  link: https://www.cryptocoinsnews.com/ethereum-congested-time-start-looking-ico-platforms/
   author: P. H. Madore
-  source: "Cryptocoins News"
-  title: "Ethereum Congested: Time to Start Looking at Other ICO Platforms?" 
+  source: Crypto Coins News
+  title: "Ethereum Congested: Time to Start Looking at Other ICO Platforms?"
 -
-  key: 2017-06-23-ETH
-  date: 2017-06-23
-  link: https://www.ethnews.com/led-by-john-mcafee-mgt-capital-invests-in-ethereum-mining-capability 
-  author: Matthew De Silva
-  source: "ETH News"
-  title: "Led By John McAfee, MGT Capital Invests In Ethereum Mining Capability" 
--
-  key: 2017-06-19-Finance
+  key: 2017-06-19-FM
   date: 2017-06-19
-  link: https://www.financemagnates.com/cryptocurrency/trading/litecoin-ethereum-classic-now-worth-2-billion/ 
+  link: https://www.financemagnates.com/cryptocurrency/trading/litecoin-ethereum-classic-now-worth-2-billion/
   author: Avi Mizrahi
-  source: "Finance Magnates"
-  title: "Litecoin and Ethereum Classic Now Worth Over $2 Billion Each" 
+  source: Finance Magnates
+  title: "Litecoin and Ethereum Classic Now Worth Over $2 Billion Each"
 -
-  key: 2017-06-18-Coin
+  key: 2017-06-18-CT
   date: 2017-06-18
-  link: https://cointelegraph.com/news/ethereum-classic-used-to-fight-ticket-touts 
+  link: https://cointelegraph.com/news/ethereum-classic-used-to-fight-ticket-touts
   author: Lisa Froelings
-  source: "Coin Telegraph"
-  title: "Ethereum Classic Used To Fight Ticket Touts" 
+  source: Coin Telegraph
+  title: "Ethereum Classic Used To Fight Ticket Touts"
 -
-  key: 2017-06-18-Inside
+  key: 2017-06-18-IB
   date: 2017-06-18
-  link: http://insidebitcoins.com/news/ethereum-classic-steadily-rises-to-surprise-top-ten-crypto-markets/58162 
-  author: Wilma Woo  
-  source: "Inside Bitcoins"
-  title: "Ethereum Classic Steadily Rises To Surprise Top Ten Crypto Markets" 
+  link: http://insidebitcoins.com/news/ethereum-classic-steadily-rises-to-surprise-top-ten-crypto-markets/58162
+  author: Willma Woo
+  source: Inside Bitcoins
+  title: "Ethereum Classic Steadily Rises To Surprise Top Ten Crypto Markets"
 -
-  key: 2017-06-17-CryptoCoins
+  key: 2017-06-17-CCN
   date: 2017-06-17
-  link: https://www.cryptocoinsnews.com/agrello-cto-cant-assume-blockchain-orgs-choose-ethereum/ 
-  author: Justin OConnell  
-  source: "CryptoCoins News"
-  title: "Can't Infer Every Organization Will Use Ethereum Blockchain: Agrello Chief Scientist" 
+  link: https://www.cryptocoinsnews.com/agrello-cto-cant-assume-blockchain-orgs-choose-ethereum/
+  author: Justin OConnell
+  source: Crypto Coins News
+  title: "Can't Infer Every Organization Will Use Ethereum Blockchain: Agrello Chief Scientist"
 -
-  key: 2017-06-16-Inside
+  key: 2017-06-16-IB
   date: 2017-06-16
-  link: http://insidebitcoins.com/news/is-ethereum-classic-etc-a-good-investment/57698 
-  author: Alexander Lielacher  
-  source: "Inside Bitcoins"
-  title: "Is Ethereum Classic (ETC) a Good Investment?" 
+  link: http://insidebitcoins.com/news/is-ethereum-classic-etc-a-good-investment/57698
+  author: Alexander Lielacher
+  source: Inside Bitcoins
+  title: "Is Ethereum Classic (ETC) a Good Investment?"
 -
-  key: 2017-06-16-The
+  key: 2017-06-16-TM
   date: 2017-06-16
-  link: https://themerkle.com/top-5-ethereum-classic-wallets/ 
-  author: JP Buntinx 
-  source: "The Merkle"
-  title: "Top 5 Ethereum Classic Wallets" 
+  link: https://themerkle.com/top-5-ethereum-classic-wallets/
+  author: JP Buntinx
+  source: The Merkle
+  title: "Top 5 Ethereum Classic Wallets"
 -
-  key: 2017-06-15-CoinTelegraph
+  key: 2017-06-15-CT
   date: 2017-06-15
-  link: https://cointelegraph.com/news/ethereum-classic-becomes-first-crypto-research-on-bloomberg-terminals 
-  author:  William Suberg  
-  source: "CoinTelegraph"
-  title: "Ethereum Classic Becomes First Crypto Research On Bloomberg Terminals" 
+  link: https://cointelegraph.com/news/ethereum-classic-becomes-first-crypto-research-on-bloomberg-terminals
+  author:  William Suberg
+  source: Coin Telegraph
+  title: "Ethereum Classic Becomes First Crypto Research On Bloomberg Terminals"
 -
-  key: 2017-06-14-The
+  key: 2017-06-14-TM
   date: 2017-06-14
-  link: https://themerkle.com/ethereum-classic-climbs-the-ranks-to-become-fourth-largest-cryptocurrency-by-market-cap/ 
-  author: JP Buntinx 
-  source: "The Merkle"
-  title: "Ethereum Classic Climbs the Ranks to Become Fourth Largest Cryptocurrency by Market Cap" 
+  link: https://themerkle.com/ethereum-classic-climbs-the-ranks-to-become-fourth-largest-cryptocurrency-by-market-cap/
+  author: JP Buntinx
+  source: The Merkle
+  title: "Ethereum Classic Climbs the Ranks to Become Fourth Largest Cryptocurrency by Market Cap"
 -
-  key: 2017-06-10-CryptoCoins
+  key: 2017-06-10-CCN
   date: 2017-06-10
   link: https://www.cryptocoinsnews.com/ethereum-classic-no-bailouts-etc-icos/
-  author: P. H. Madore 
-  source: "CryptoCoins News"
-  title: "Ethereum Classic: 'No Bailouts' in ETC ICOs" 
+  author: P. H. Madore
+  source: Crypto Coins News
+  title: "Ethereum Classic: 'No Bailouts' in ETC ICOs"
 -
-  key: 2017-06-09-Rogue
+  key: 2017-06-09-RM
   date: 2017-06-09
-  link: http://roguemoney.net/2017/06/09/cryptocurrency-in-the-world-of-finance/ 
-  author: Digicrypt 
-  source: "Rogue Money"
-  title: "Cryptocurrency In The World Of Finance" 
+  link: http://roguemoney.net/2017/06/09/cryptocurrency-in-the-world-of-finance/
+  author: Digicrypt
+  source: Rogue Money
+  title: "Cryptocurrency In The World Of Finance"
 -
   key: 2017-06-08-Nasdaq
   date: 2017-06-08
-  link: http://www.nasdaq.com/article/interview-vitalik-buterin-on-scaling-ethereum-its-popularity-in-asia-and-icos-cm800834 
-  author: Joseph Young 
-  source: "Nasdaq"
-  title: "Interview: Vitalik Buterin on Scaling Ethereum, Its Popularity in Asia and ICOs" 
+  link: http://www.nasdaq.com/article/interview-vitalik-buterin-on-scaling-ethereum-its-popularity-in-asia-and-icos-cm800834
+  author: Joseph Young
+  source: Nasdaq
+  title: "Interview: Vitalik Buterin on Scaling Ethereum, Its Popularity in Asia and ICOs"
 -
-  key: 2017-06-07-CryptoNinjas
+  key: 2017-06-07-CN
   date: 2017-06-07
-  link: https://www.cryptoninjas.net/2017/06/07/hitbtc-goes-live-ethereum-classic-etc-trading/?utm_content=buffercf2b5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer   
-  source: "CryptoNinjas"
-  title: "HitBTC goes live with Ethereum Classic (ETC) trading" 
+  link: https://www.cryptoninjas.net/2017/06/07/hitbtc-goes-live-ethereum-classic-etc-trading/?utm_content=buffercf2b5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+  author: Associated Press
+  source: Crypto Ninjas
+  title: "HitBTC goes live with Ethereum Classic (ETC) trading"
 -
-  key: 2017-06-07-CoinTelegraph
+  key: 2017-06-07-CT
   date: 2017-06-07
-  link: https://cointelegraph.com/news/etoro-adds-ethereum-classic-advertises-crypto-in-london  
-  author: William Suberg 
-  source: "CoinTelegraph"
-  title: "eToro Adds Ethereum Classic, Advertises Crypto In London" 
+  link: https://cointelegraph.com/news/etoro-adds-ethereum-classic-advertises-crypto-in-london
+  author: William Suberg
+  source: Coin Telegraph
+  title: "eToro Adds Ethereum Classic, Advertises Crypto In London"
 -
-  key: 2017-05-29-CryptoNinjas
+  key: 2017-05-29-CN
   date: 2017-05-29
-  link: https://www.cryptoninjas.net/2017/05/29/bobby-lees-twitter-contest-brings-ethereum-classic-btcc/   
-  source: "CryptoNinjas"
-  title: "Bobby Lee's Twitter contest brings Ethereum Classic to BTCC" 
+  link: https://www.cryptoninjas.net/2017/05/29/bobby-lees-twitter-contest-brings-ethereum-classic-btcc/
+  source: Crypto Ninjas
+  title: "Bobby Lee's Twitter contest brings Ethereum Classic to BTCC"
 -
-  key: 2017-05-27-AltcoinToday
-  date: 2017-05-27
-  author: http://www.altcointoday.com/ethereum-classic-becomes-fifth-largest-cryptocurrency-briefly-beats-nem-litecoin/   
-  source: "AltcoinToday"
-  title: "Ethereum Classic Becomes Fifth Largest Cryptocurrency, Briefly Beats NEM, Litecoin" 
--
-  key: 2017-05-26-CoinTelegraph
+  key: 2017-05-26-CT
   date: 2017-05-26
-  link: https://cointelegraph.com/news/ethereum-classic-becomes-fifth-largest-cryptocurrency-briefly-beats-nem-litecoin  
-  author: Joseph Young 
-  source: "CoinTelegraph"
-  title: "Ethereum Classic Becomes Fifth Largest Cryptocurrency, Briefly Beats NEM, Litecoin" 
+  link: https://cointelegraph.com/news/ethereum-classic-becomes-fifth-largest-cryptocurrency-briefly-beats-nem-litecoin
+  author: Joseph Young
+  source: Coin Telegraph
+  title: "Ethereum Classic Becomes Fifth Largest Cryptocurrency, Briefly Beats NEM, Litecoin"
 -
-  key: 2017-05-26-LiveBitcoinNews
+  key: 2017-05-26-LBN
   date: 2017-05-26
-  link: http://www.livebitcoinnews.com/ratio-etc-eth-slowly-shrinking/  
+  link: http://www.livebitcoinnews.com/ratio-etc-eth-slowly-shrinking/
   author: JP Buntix
-  source: "LiveBitcoinNews"
-  title: "Ratio Between ETC and ETH Is Slowly Shrinking" 
+  source: Live Bitcoin News
+  title: "Ratio Between ETC and ETH Is Slowly Shrinking"
 -
-  key: 2017-05-25-CryptoCoinsNews
+  key: 2017-05-25-CCN
   date: 2017-05-25
   link: https://www.cryptocoinsnews.com/ethereum-classic-leaps-litecoin-to-become-5th-largest-cryptocurrency/
   author: Frisco d'Anconia
-  source: "CryptoCoinsNews"
-  title: "Ethereum Classic Leaps Litecoin to Become 5th Largest Cryptocurrency" 
+  source: Crypto Coins News
+  title: "Ethereum Classic Leaps Litecoin to Become 5th Largest Cryptocurrency"
 -
-  key: 2017-05-24-CoinTelegraph
+  key: 2017-05-24-CT
   date: 2017-05-24
   link: https://cointelegraph.com/news/ethereum-classic-hits-13-billion-market-cap-boosted-by-consensus-silbert
   author: Frisco d'Anconia
-  source: "CoinTelegraph"
-  title: "Ethereum Classic Hits $1.3 Billion Market Cap, Boosted By Consensus, Silbert" 
+  source: Coin Telegraph
+  title: "Ethereum Classic Hits $1.3 Billion Market Cap, Boosted By Consensus, Silbert"
 -
-  key: 2017-05-24-AllCoinsNews
+  key: 2017-05-24-ACN
   date: 2017-05-24
   link: http://allcoinsnews.com/2017/05/24/ethereum-classic-market-report-etcbtc-hits-all-time-high/
   author: KittyBitcoin
-  source: "AllCoinsNews"
-  title: "Ethereum Classic Market Report: ETC/BTC Hits All Time High" 
+  source: All Coins News
+  title: "Ethereum Classic Market Report: ETC/BTC Hits All Time High"
 -
-  key: 2017-05-22-CoinTelegraph
+  key: 2017-05-22-CT
   date: 2017-05-22
   link: https://cointelegraph.com/news/ethereum-classic-soars-along-with-bytecoin-pulled-by-ethereum-price
   author: Frisco d'Anconia
-  source: "CoinTelegraph"
-  title: "Ethereum Classic Soars Along With ByteCoin, Pulled By Ethereum Price" 
+  source: Coin Telegraph
+  title: "Ethereum Classic Soars Along With ByteCoin, Pulled By Ethereum Price"
 -
-  key: 2017-05-21-CryptoCoinsNews
+  key: 2017-05-21-CCN
   date: 2017-05-21
   link: https://www.cryptocoinsnews.com/bitticket-uses-ethereum-classic-to-book-tickets-on-a-blockchain/
   author: Rebeca Campbell
-  source: "CryptoCoinsNews"
-  title: "BitTicket Uses Ethereum Classic to Book Tickets on a Blockchain" 
+  source: Crypto Coins News
+  title: "BitTicket Uses Ethereum Classic to Book Tickets on a Blockchain"
 -
-  key: 2017-05-09-CoinTelegraph
+  key: 2017-05-09-CT
   date: 2017-05-09
   link: https://cointelegraph.com/news/force-behind-ethereum-classic-price-wave-community
   author: Frisco d'Anconia
-  source: "CoinTelegraph"
-  title: "Force Behind Ethereum Classic Price Wave: Community" 
+  source: Coin Telegraph
+  title: "Force Behind Ethereum Classic Price Wave: Community"
 -
-  key: 2017-05-08-CryptoNinjas
+  key: 2017-05-08-CN
   date: 2017-05-08
   link: https://www.cryptoninjas.net/2017/05/08/korean-exchange-bithumb-announces-support-ethereum-classic-etc/
-  source: "CryptoNinjas"
-  title: "Korean exchange Bithumb announces support for Ethereum Classic ETC" 
+  author: Associated Press
+  source: Crypto Ninjas
+  title: "Korean exchange Bithumb announces support for Ethereum Classic ETC"
 -
-  key: 2017-05-06-InsideBitcoins
+  key: 2017-05-06-IB
   date: 2017-05-06
   link: http://insidebitcoins.com/news/ethereum-classic-challenges-dash-as-silbert-support-gains-momentum/47194
   author: Wilma Woo
-  source: "InsideBitcoins"
-  title: "Ethereum Classic Challenges Dash As Silbert Support Gains Momentum" 
+  source: Inside Bitcoins
+  title: "Ethereum Classic Challenges Dash As Silbert Support Gains Momentum"
 -
-  key: 2017-05-04-HuffingtonPost
+  key: 2017-05-04-HP
   date: 2017-05-04
   link: http://www.huffingtonpost.com/entry/rise-of-ethereum-a-new-blockchain-juggernaut_us_590b1229e4b05279d4edc304
   author: Ameer Rosic
-  source: "HuffingtonPost"
-  title: "Rise of Ethereum: A New Blockchain Juggernaut" 
+  source: Huffington Post
+  title: "Rise of Ethereum: A New Blockchain Juggernaut"
 -
-  key: 2017-04-27-CoinTelegraph
+  key: 2017-04-27-CT
   date: 2017-04-27
   link: https://cointelegraph.com/news/ethereum-classic-fund-goes-live-ethereum-etf-launch-edges-closer
   author: Alexander Geralis
-  source: "CoinTelegraph"
-  title: "Ethereum Classic Fund Goes Live, Ethereum ETF Launch Edges Closer" 
+  source: Coin Telegraph
+  title: "Ethereum Classic Fund Goes Live, Ethereum ETF Launch Edges Closer"
 -
-  key: 2017-04-25-What
+  key: 2017-04-25-CB
   date: 2017-04-25
   link: http://www.coindesk.com/whats-driving-ether-classic-to-all-time-highs/
   author: Charles Bovaird
   title: "What's Driving Ether Classic to All-Time Highs?"
 -
-  key: 2017-04-24-Stage
+  key: 2017-04-24-ENU
   date: 2017-04-24
   link: https://medium.com/@classicether/stage-is-set-for-initial-coin-offerings-on-ethereum-classic-blockchain-a364a849681f
   source: ETC News Updates
   title: "Stage is set for initial coin offerings on Ethereum Classic blockchain"
 -
-  key: 2017-04-19-Who
+  key: 2017-04-19-PM
   date: 2017-04-19
   link: https://hbr.org/2017/04/who-controls-the-blockchain
   author: Patrick Murck
   title: "Who Controls the Blockchain?"
 -
-  key: 2017-04-10-TradeBlock’s
+  key: 2017-04-10-TB
   date: 2017-04-10
   link: https://tradeblock.com/blog/tradeblocks-ecx-index-for-ethereum-classic-now-publicly-available
-  source: TradeBlock
+  author: Associated Press
+  source: Trade Block
   title: "TradeBlock’s ECX Index for Ethereum Classic now Publicly Available"
 -
-  key: 2017-04-10-Stampery
-  date: 2017-04-10
-  author: Jamie Redman
-  source: Microsoft
-  link: https://www.microsoft.com/reallifecode/2017/04/10/stampery-blockchain-add-microsoft-office/
-  title: "Stampery Add-in to Microsoft Office uses ETC"
--
-  key: 2017-04-9-White
+  key: 2017-04-9-BC
   date: 2017-04-9
   author: Ville Rantala, Michael Platt
+  source: Bitcoin.com
   link: https://news.bitcoin.com/white-hacker-groupl-claim-4-4-million-controversial-dao-refund/
   title: "White Hacker Group to Claim $4.4 Million in Controversial DAO Refund"
 -
-  key: 2017-03-26-Now
+  key: 2017-03-26-CT
   date: 2017-03-26
   link: https://cointelegraph.com/news/now-an-ethereum-classic-private-fund-on-the-horizon
   author: Shivdeep Dhaliwal
+  source: Coin Telegraph
   title: "Now an Ethereum Classic Private Fund on the Horizon"
 -
-  key: 2017-03-17-How
+  key: 2017-03-17-B
   date: 2017-03-17
   link: http://bitcoinist.com/prepare-bitcoin-hard-fork/
   author: Antonio Madeira
+  source: Bitcoinist
   title: "How to prepare for Bitcoin fork: lessons from ETC/ETH split"
 -
-  key: 2017-03-13-How
+  key: 2017-03-13-SI
   date: 2017-03-13
   link: https://steemit.com/etc/@cseberino/etcplanet-org-how-to-create-your-own-ethereum-classic-blockchain-explorer-for-learning-and-fun
   author: Christian Seberino
+  source: Steem It
   title: "How To Create Your Own Ethereum Classic Blockchain Explorer For Learning (& Fun)"
 -
-  key: 2017-03-13-Investments
+  key: 2017-03-13-CJ
   date: 2017-03-13
   link: http://coinjournal.net/grayscale-investments-report-outlines-centralization-risks-in-ethereum/
   author: Kyle Torpey
+  source: Coin Journal
   title: "Investments Report Outlines Centralization Risks in Ethereum"
 -
-  key: 2017-03-10-Grayscale
+  key: 2017-03-10-BM
   date: 2017-03-10
   link: https://btcmanager.com/grayscale-investments-plans-to-launch-private-ethereum-classic-fund/
   author: Alexander Lielacher
+  source: BTC Manager
   title: "Grayscale Investments Plans To Launch Private Ethereum Classic Fund"
 -
-  key: 2017-03-8-Hard
+  key: 2017-03-8-CT
   date: 2017-03-8
   link: https://cointelegraph.com/news/hard-soft-friendly-zooko-wilcox-talks-bitcoin-ethereum-zcash-hard-forks
   author: Joseph Young
+  source: Coin Telegram
   title: "Hard, Soft, Friendly? Zooko Wilcox on Hard Forks"
 -
-  key: 2017-03-08-Bitcoin
+  key: 2017-03-08-B
   date: 2017-03-08
   link: https://www.bloomberg.com/news/articles/2017-03-09/bitcoin-trust-s-silbert-to-launch-classic-ether-fund-this-month
+  author: Olga Kharif
   source: Bloomberg
   title: "Bitcoin Trust's Silbert to Launch Classic Ether Fund This Month"
 -
-  key: 2017-03-06-The
+  key: 2017-03-06-SA
   date: 2017-03-06
   link: http://seekingalpha.com/article/4052276-cryptocurrency-funds-arrived-bringing-wall-street-money
+  author: Kevin Gao
   source: Seeking Alpha
   title: "The Cryptocurrency Funds Have Arrived, And They're Bringing Wall Street Money"
 -
-  key: 2017-02-19-LiveBitcoinNews
+  key: 2017-02-19-LBN
   date: 2017-02-19
   link: http://www.livebitcoinnews.com/project-xbtc-greeted-lot-skepticism-bitcoin-core-supporters/
   author: JP Buntix
-  source: "LiveBitcoinNews"
-  title: "Project XBTC Greeted With A Lot of Skepticism By Bitcoin Core Supporters" 
+  source: Live Bitcoin News
+  title: "Project XBTC Greeted With A Lot of Skepticism By Bitcoin Core Supporters"
 -
-  key: 2017-02-15-CoinJournal
+  key: 2017-02-15-CJ
   date: 2017-02-15
   link: http://coinjournal.net/upcoming-ethereum-classic-hackathon-aims-foster-blockchain-development-china/
   author: Diana Ngo
-  source: "CoinJournal"
-  title: "Upcoming Ethereum Classic Hackathon Aims to Foster Blockchain Development in China" 
+  source: Coin Journal
+  title: "Upcoming Ethereum Classic Hackathon Aims to Foster Blockchain Development in China"
 -
-  key: 2017-02-13-CoinTelegraph
+  key: 2017-02-13-CT
   date: 2017-02-13
   link: https://cointelegraph.com/news/epic-battle-of-dash-vs-ethereum-classic-not-over-yet-charles-hoskinson
   author: Frisco d'Anconia
-  source: "CoinTelegraph"
-  title: "Epic Battle of Dash vs. Ethereum Classic Not Over Yet: Charles Hoskinson" 
+  source: Coin Telegraph
+  title: "Epic Battle of Dash vs. Ethereum Classic Not Over Yet: Charles Hoskinson"
 -
-  key: 2017-02-07-NewsBTC
+  key: 2017-02-07-NB
   date: 2017-02-07
   link: http://www.newsbtc.com/2017/02/07/bitcoin-unlimited-mining-pool-ico-accepts-etc-investments/
   author: JP Buntix
-  source: "NewsBTC"
-  title: "Bitcoin Unlimited Mining Pool ICO Only Accepts ETC Investments" 
+  source: News BTC
+  title: "Bitcoin Unlimited Mining Pool ICO Only Accepts ETC Investments"
 -
-  key: 2017-02-03-Bitcoin
+  key: 2017-02-03-BM
   date: 2017-02-03
   link: https://bitcoinmagazine.com/articles/op-ed-why-ethereums-hard-fork-will-cause-problems-coming-year/
   author: Kathleen Breitman
-  source: "Bitcoin Magazine"
-  title: "Op Ed: Why Ethereum's Hard Fork Will Cause Problems in the Coming Year" 
+  source: Bitcoin Magazine
+  title: "Op Ed: Why Ethereum's Hard Fork Will Cause Problems in the Coming Year"
 -
-  key: 2017-01-23-Bitcoin
+  key: 2017-01-23-BC
   date: 2017-01-23
   link: https://news.bitcoin.com/grayscale-to-launch-ethereum-classic-trust-modeled-bitcoin-investment-trust/
   author: Kevin Helms
-  source: "Bitcoin.com"
-  title: "Grayscale to Launch Ethereum Classic Trust, Modeled After Bitcoin Investment Trust" 
+  source: Bitcoin.com
+  title: "Grayscale to Launch Ethereum Classic Trust, Modeled After Bitcoin Investment Trust"
 -
   key: 2017-01-13-Nasdaq
   date: 2017-01-13
   link: http://www.nasdaq.com/article/ethereum-classic-hard-forks-diffuses-difficulty-bomb-cm733563
   author: Aaron van Wirdum, Bitcoin Magazine
-  source: "Nasdaq"
-  title: "Ethereum Classic Hard Forks; Diffuses 'Difficulty Bomb'" 
+  source: Nasdaq
+  title: "Ethereum Classic Hard Forks; Diffuses 'Difficulty Bomb'"
 -
-  key: 2017-01-13-CoinDesk
+  key: 2017-01-13-CD
   date: 2017-01-13
   link: http://www.coindesk.com/ethereum-classic-diehard-fork/
   author: Alyssa Hertig
-  source: "CoinDesk"
-  title: "Ethereum Classic Freezes 'Difficulty Bomb' With 'Diehard' Fork" 
+  source: Coin Desk
+  title: "Ethereum Classic Freezes 'Difficulty Bomb' With 'Diehard' Fork"
 -
-  key: 2017-01-09-Bitcoin
+  key: 2017-01-09-BM
   date: 2017-01-09
   link: https://bitcoinmagazine.com/articles/barry-silbert-shares-digital-currency-group-s-perspective-on-ethereum-announces-etherscan-investment-1483989140
   author: Kyle Torpey
-  source: "Bitcoin Magazine"
-  title: "Barry Silbert Shares Digital Currency Group's Perspective on Ethereum; Announces Etherscan Investment" 
+  source: Bitcoin Magazine
+  title: "Barry Silbert Shares Digital Currency Group's Perspective on Ethereum; Announces Etherscan Investment"
 -
-  key: 2017-01-06-The
+  key: 2017-01-06-CT
   date: 2017-01-06
   link: https://cointelegraph.com/news/2017-the-year-bitcoin-finally-breaks-free
   author: Iyke Aru
-  source: "The CoinTelegraph"
-  title: "2017 - The Year Bitcoin Finally Breaks Free" 
+  source: Coin Telegraph
+  title: "2017 - The Year Bitcoin Finally Breaks Free"
 -
-  key: 2017-01-01-The
+  key: 2017-01-01-CT
   date: 2017-01-01
   link: https://cointelegraph.com/news/microsoft-to-add-extensive-support-for-bitcoin-describes-it-as-currency
   author: Joseph Young
-  source: "The CoinTelegraph"
-  title: "Microsoft to Add Extensive Support For Bitcoin, Describes it as Currency" 
+  source: Coin Telegraph
+  title: "Microsoft to Add Extensive Support For Bitcoin, Describes it as Currency"
 -
-  key: 2016-12-31-CoinDesk
+  key: 2016-12-31-CD
   date: 2016-12-31
   link: http://www.coindesk.com/not-just-bitcoin-the-top-7-cryptocurrencies-all-gained-in-2016/
   author: Frederick Reese
-  source: "CoinDesk"
-  title: "Not Just Bitcoin: The Top 7 Cryptocurrencies All Gained in 2016" 
+  source: Coin Desk
+  title: "Not Just Bitcoin: The Top 7 Cryptocurrencies All Gained in 2016"
 -
-  key: 2016-12-30-CoinDesk
+  key: 2016-12-30-CD
   date: 2016-12-30
   link: http://www.coindesk.com/ether-classic-surges-4-month-high/
   author: Charles Bovaird
-  source: "CoinDesk"
-  title: "Ether Classic Surges to More Than 4-Month High" 
+  source: Coin Desk
+  title: "Ether Classic Surges to More Than 4-Month High"
 -
-  key: 2016-12-19-CriptoNoticias
-  date: 2016-12-19
-  link: https://translate.google.com/translate?sl=es&tl=en&js=y&prev=_t&hl=en-US&ie=UTF-8&u=https%3A%2F%2Fcriptonoticias.com%2Faplicaciones%2Fethereum-classic-reformas-monetarias-precio-aumenta%2F%23axzz4TJXjQUqv&edit-text=&act=url
-  author: Diana Aguilar
-  source: "CriptoNoticias"
-  title: "Ethereum Classic bets on monetary reforms as its price increases" 
--
-  key: 2016-12-17-CoinDesk
+  key: 2016-12-17-CD
   date: 2016-12-17
   link: http://www.coindesk.com/ethereum-classic-price-surges-by-over-30/
   author: Charles Bovaird
-  source: "CoinDesk"
-  title: "Ethereum Classic Price Surges By Over 30%" 
+  source: Coin Desk
+  title: "Ethereum Classic Price Surges By Over 30%"
 -
-  key: 2016-12-16-CryptoCoinsNews
+  key: 2016-12-16-CCN
   date: 2016-12-16
   link: https://www.cryptocoinsnews.com/ethereum-austrian-kin/
   author: Justin OConnell
-  source: "CryptoCoinsNews"
-  title: "How Classic is Ethereum’s Austrian Kin" 
+  source: Crypto Coins News
+  title: "How Classic is Ethereum’s Austrian Kin"
 -
-  key: 2016-12-14-Ethereum
+  key: 2016-12-14-BM
   date: 2016-12-14
   link: http://btcmanager.com/news/ethereum-classic-considers-bitcoin-esque-monetary-policy/
   author: Jamie Holmes
+  source: BTC Manager
   title: "Ethereum Classic Considers Bitcoin-esque Monetary Policy"
 -
-  key: 2016-12-14-Ethereum
+  key: 2016-12-14-SI
   date: 2016-12-14
   link: https://steemit.com/ethereum/@finpunk/ethereum-classic-gets-more-interesting-more-developers-and-a-new-monetary-policy
   author: Rob Viglione
+  source: Steem It
   title: "Ethereum Classic Gets More Interesting"
 -
-  key: 2016-12-13-Ethereum
+  key: 2016-12-13-BM
   date: 2016-12-13
   link: https://bitcoinmagazine.com/articles/ethereum-classic-forges-new-path-revamped-monetary-policy-could-be-next-1481656302
   author: Aaron van Wirdum
+  source: Bitcoin Magazine
   title: "Ethereum Classic Forges New Path; Revamped Monetary Policy Could Be Next"
 -
-  key: 2016-12-01-Ethereum
-  date: 2016-12-01
-  link: http://www.ethnews.com/ethereum-classic-announces-updates-and-new-monetary-policy
-  author: Los Silva
-  title: "Ethereum Classic Announces Updates and New Monetary Policy"
--
-  key: 2016-11-04-Ethereum
+  key: 2016-11-04-CH
   date: 2016-11-04
   link: http://cryptohustle.com/Ethereum-Classic-Fundamentals
   author: Rocky
+  source: Crypto Hustle
   title: "Ethereum Classic Fundamentals"
 -
-  key: 2016-10-30-Cryptoholics
-  date: 2016-10-30
-  link: https://soundcloud.com/cryptoholics/cryptoholics-ep01
-  author: Charles Hoskinson
-  source: "Cryptoholics Podcast"
-  title: "Ethereum Classic Plans and Ambitions with Charles Hoskinson" 
--
-  key: 2016-10-27-CoinDesk
+  key: 2016-10-27-CD
   date: 2016-10-27
   link: http://www.coindesk.com/dao-attack-hacker-trades-funds-bitcoin/
   author: Alyssa Hertig
-  source: "CoinDesk"
-  title: "The Plot Thickens As DAO Attacker Trades Stolen Funds for Bitcoin" 
+  source: Coin Desk
+  title: "The Plot Thickens As DAO Attacker Trades Stolen Funds for Bitcoin"
 -
-  key: 2016-10-25-Ethereum
-  date: 2016-10-25
-  link: http://ethnews.com/ethereum-classic-successfully-hard-forks-to-fix-security-flaw
-  source: Jim Manning
-  title: "Ethereum Classic Successfully Hard Forks To Fix Security Flaw"
--
-  key: 2016-10-25-CoinDesk
+  key: 2016-10-25-CD
   date: 2016-10-25
   link: http://www.coindesk.com/ethereum-classic-blockchain-fork-ddos-attacks/
   author: Alyssa Hertig
-  source: "CoinDesk"
-  title: "The Blockchain Created By Ethereum's Fork is Forking Now" 
+  source: Coin Desk
+  title: "The Blockchain Created By Ethereum's Fork is Forking Now"
 -
-  key: 2016-10-25-Hard
+  key: 2016-10-25-SI
   date: 2016-10-25
   link: https://steemit.com/etc/@cseberino/why-another-hard-fork-to-deal-with-the-recent-denial-of-service-attack-spam-shouldn-t-be-controversial
   author: Christian Seberino
+  source: Steem It
   title: "Hard Fork To Deal With The Recent DoS Attack Spam Shouldn't Be Controversial"
 -
-  key: 2016-10-20-Ethereum
+  key: 2016-10-20-SI
   date: 2016-10-20
   link: https://steemit.com/etc/@cseberino/ethereum-classic-denial-of-service-attacks-and-the-estonian-cyberwar
   author: Christian Seberino
+  source: Steem It
   title: "Ethereum Classic Denial Of Service Attacks & The Estonian Cyberwar"
 -
-  key: 2016-10-18-Immutability
+  key: 2016-10-18-CH
   date: 2016-10-18
   link: http://cryptohustle.com/immutability-doesnt-mean-being-against-hard-forks
   author: Rocky
+  source: Crypto Hustle
   title: "Immutability doesn't mean being against hard forks"
 -
-  key: 2016-10-18-Hopes
+  key: 2016-10-18-CD
   date: 2016-10-18
   link: http://www.coindesk.com/october-ethereum-hard-fork-network-spam-attacks/
   author: Pete Rizzo
+  source: Coin Desk
   title: "Hopes Are High Tomorrow's Ethereum Fork Won't Be Like the Last"
 -
-  key: 2016-10-17-Ethereum
-  date: 2016-10-17
-  link: http://btcmanager.com/news/tech/imminent-hard-fork-aligns-with-ethereum-classic-principles/
-  author: Amy Castor
-  title: "Ethereum's Hard Fork Drags Classic Along with it"
--
-  key: 2016-10-13-CoinJournal
+  key: 2016-10-13-CJ
   date: 2016-10-13
   link: http://coinjournal.net/decentralized-crowdfunding-platform-fundonomy-alpha/
   author: Diana Ngo
-  source: "CoinJournal"
-  title: "Decentralized Crowdfunding Platform Fundonomy Set to Launch in Alpha in Mid-October" 
+  source: Coin Journal
+  title: "Decentralized Crowdfunding Platform Fundonomy Set to Launch in Alpha in Mid-October"
 -
-  key: 2016-10-12-Tuur
+  key: 2016-10-12-BN
   date: 2016-10-12
   link: http://www.youtube.com/watch?v=ipFDT-Wcb5U
   source: Bitcoin News
   title: "Tuur Demeester discusses Ethereum, ETC and recent DoS attacks"
 -
-  key: 2016-10-11-Coindesk
+  key: 2016-10-11-CD
   date: 2016-10-11
   link: http://www.coindesk.com/so-it-looks-like-ethereum-is-going-to-have-to-fork-again/
   author: Alyssa Hertig
-  source: "Coindesk"
-  title: "So, It Looks Like Ethereum is Going to Have to Fork Again..." 
+  source: Coin Desk
+  title: "So, It Looks Like Ethereum is Going to Have to Fork Again..."
 -
-  key: 2016-09-27-Bitcoin
+  key: 2016-09-27-BC
   date: 2016-09-27
   link: https://news.bitcoin.com/microsoft-looks-rebel-ethereum-classic/
   author: Jamie Redman
-  source: "Bitcoin.com"
-  title: "A Victorious Rebellion? Microsoft Investigates Ethereum Classic's Potential" 
+  source: Bitcoin.com
+  title: "A Victorious Rebellion? Microsoft Investigates Ethereum Classic's Potential"
 -
-  key: 2016-09-27-CoinTelegraph
+  key: 2016-09-27-CT
   date: 2016-09-27
   link: https://cointelegraph.com/news/microsoft-supports-ethereum-classic-hosts-meetup-with-charles-hoskinson
   author: Joseph Young
-  source: "CoinTelegraph"
-  title: "Microsoft Supports Ethereum Classic, Hosts Meetup with Charles Hoskinson" 
+  source: Coin Telegraph
+  title: "Microsoft Supports Ethereum Classic, Hosts Meetup with Charles Hoskinson"
 -
-  key: 2016-09-24-NewsBTC
+  key: 2016-09-24-NB
   date: 2016-09-24
   link: http://www.newsbtc.com/2016/09/24/jaxx-litecoin-ethereum-classic-support/
   author: Gautham
-  source: "NewsBTC"
-  title: "Jaxx Blockchain Wallet Now Supports LiteCoin and Ethereum Classic" 
+  source: News BTC
+  title: "Jaxx Blockchain Wallet Now Supports LiteCoin and Ethereum Classic"
 -
-  key: 2016-09-23-Motherboard
+  key: 2016-09-23-MB
   date: 2016-09-23
   link: http://motherboard.vice.com/read/apples-rules-for-virtual-currencies-are-vague-ethereum-classic-jaxx-dash-app-store
   author: Jordan Pearson
-  source: "Motherboard"
-  title: "Apple's Rules for Virtual Currencies Are Interminably Vague" 
+  source: Motherboard
+  title: "Apple's Rules for Virtual Currencies Are Interminably Vague"
 -
-  key: 2016-09-22-The
+  key: 2016-09-22-CT
   date: 2016-09-22
   link: https://cointelegraph.com/news/roger-ver-on-bitcoin-scalability-two-bitcoins-are-better-than-one
   author: Rank Rearden
-  source: "The CoinTelegraph"
-  title: "Roger Ver on Bitcoin Scalability: Two Bitcoins Are Better Than One" 
+  source: Coin Telegraph
+  title: "Roger Ver on Bitcoin Scalability: Two Bitcoins Are Better Than One"
 -
-  key: 2016-09-19-Bitcoinist
+  key: 2016-09-19-BC
   date: 2016-09-19
   link: http://bitcoinist.net/ethereum-nodes-crashing-attack/
   author: Jon Southurst
-  source: "Bitcoinist"
-  title: "Ethereum Nodes Crashing, Under Possible Attack" 
+  source: Bitcoinist
+  title: "Ethereum Nodes Crashing, Under Possible Attack"
 -
-  key: 2016-09-19-CriptoNoticias
-  date: 2016-09-19
-  link: https://translate.google.com.br/translate?sl=es&tl=en&js=y&prev=_t&hl=en-US&ie=UTF-8&u=https%3A%2F%2Fcriptonoticias.com%2Fcasas-de-cambio%2Fbitfinex-detalles-fichas-bfx%2F%23axzz4KkNzdYzJ&edit-text=&act=url
-  author: Ivan Gomez
-  source: "CriptoNoticias"
-  title: "Bitfinex reveals new details for the conversion of the BFX chips" 
--
-  key: 2016-09-14-CoinJournal
+  key: 2016-09-14-CJ
   date: 2016-09-14
   link: http://coinjournal.net/guo-and-ethereum-classic/
   author: Ian Demartino
-  source: "CoinJournal"
-  title: "Chandler Guo: Vitalik Made 'Huge Mistake' In Changing Ethereum Blockchain" 
+  source: Coin Journal
+  title: "Chandler Guo: Vitalik Made 'Huge Mistake' In Changing Ethereum Blockchain"
 -
-  key: 2016-09-13-Investopedia
+  key: 2016-09-13-IV
   date: 2016-09-13
   link: http://www.investopedia.com/news/dao-hacker-donates-stolen-funds-ethereum-classic-dev-team/
   author: Adam Hayes, CFA
-  source: "Investopedia"
-  title: "DAO Hacker Donates Stolen Funds to Ethereum Classic Dev Team" 
+  source: Investopedia
+  title: "DAO Hacker Donates Stolen Funds to Ethereum Classic Dev Team"
 -
-  key: 2016-09-09-Ethereum
+  key: 2016-09-09-SI
   date: 2016-09-09
   link: http://steemit.com/ethereum/@charleshosk/ethereum-classic-an-update
   author: Charles Hoskinson
-  title: "Ethereum Classic: An Update" 
+  source: Steem It
+  title: "Ethereum Classic: An Update"
 -
-  key: 2016-09-08-iPhone7
+  key: 2016-09-08-CT
   date: 2016-09-08
   link: http://cointelegraph.com/news/iphone7-enables-bitcoin-payments-ethereum-classic-might-be-next
   source: Coin Telegraph
   title: "iPhone7 Enables Bitcoin Payments, Ethereum Classic Might be Next"
 -
-  key: 2016-09-07-Jaxx
+  key: 2016-09-07-BM
   date: 2016-09-07
   link: http://bitcoinmagazine.com/articles/jaxx-aims-to-be-blockchain-agnostic-with-more-new-coin-integrations-1473282178
   source: Bitcoin Magazine
@@ -763,249 +1385,237 @@
   key: 2016-09-07-Jaxx
   date: 2016-09-07
   link: http://www.youtube.com/watch?v=ypeSa9PwLas
-  author: Jaxx Wallet
+  author: Anthony Di Iorio
+  source: Jaxx Wallet
   title: "Jaxx Blockchain Wallet Now Supports Ethereum Classic!"
 -
-  key: 2016-09-04-The
+  key: 2016-09-04-F
   date: 2016-09-04
   link: http://fortune.com/2016/09/04/ethereum-fall-out/
+  author: David Z. Morris
   source: Fortune
   title: "The Bizarre Fallout of Ethereum’s Epic Fail"
 -
-  key: 2016-09-01-Ethereum
-  date: 2016-09-01
-  link: http://cointimes.tech/2016/09/ethereum-classic-a-masterpiece-in-the-making/
-  author: CoinTimes
-  title: "Ethereum Classic: A Masterpiece in the Making" 
--
-  key: 2016-08-31-Who
-  date: 2016-08-31
-  link: http://ethnews.com/who-is-ethereum-classic
-  source: ETHNews
-  title: "Who is Ethereum Classic?"
--
-  key: 2016-08-31-Jaxx
-  date: 2016-08-31
-  link: http://decentral.ca/new-major-release-way-will-include-ethereum-classic-etc-integration/
-  source: Anthony Di Iorio
-  title: "Jaxx will include full Ethereum Classic (ETC) integration"
--
-  key: 2016-08-21-Can
+  key: 2016-08-21-CD
   date: 2016-08-21
   link: http://www.coindesk.com/can-two-ethereum-markets-co-exist/
-  source: CoinDesk
+  author: Charles Bovaird
+  source: Coin Desk
   title: "Can Two Ethereum Markets Co-Exist?"
 -
-  key: 2016-08-20-Code
+  key: 2016-08-20-SI
   date: 2016-08-20
   link: http://steemit.com/ethereum/@charleshosk/code-is-law-and-old-testament-gods/
-  source: Charles Hoskinson
+  author: Charles Hoskinson
+  source: Steem It
   title: "Code is Law and Old Testament Gods"
 -
-  key: 2016-08-19-Ethereum
+  key: 2016-08-19-CD
   date: 2016-08-19
   link: http://www.coindesk.com/ethereum-classic-london-meetup/
-  source: CoinDesk
+  author: Pete Rizzo
+  source: Coin Desk
   title: "Ethereum Classic is Starting to Mobilize"
 -
-  key: 2016-08-19-Ethereum
+  key: 2016-08-19-BM
   date: 2016-08-19
   link: http://bitcoinmagazine.com/articles/ethereum-classic-community-navigates-a-distinct-path-to-the-future-1471620464
+  author: Aaron Van Wirdum
   source: Bitcoin Magazine
   title: "Ethereum Classic Community Navigates a Distinct Path to the Future"
 -
-  key: 2016-08-18-Samson
+  key: 2016-08-18-TM
   date: 2016-08-18
   link: http://themerkle.com/samson-mow-hints-at-ethereum-classic-mining-pool-plans/
+  author: JP Buntinx
   source: The Merkle
   title: "Samson Mow Hints At Ethereum Classic Mining Pool Plans"
 -
-  key: 2016-08-17-Thoughts
+  key: 2016-08-17-SI
   date: 2016-08-17
   link: http://steemit.com/ethereum/@charleshosk/thoughts-on-an-ethereum-classic-roadmap
-  source: Charles Hoskinson
+  author: Charles Hoskinson
+  source: Steem It
   title: "Thoughts on an Ethereum Classic Roadmap"
 -
-  key: 2016-08-16-The
+  key: 2016-08-16-EP
   date: 2016-08-16
   link: http://www.youtube.com/watch?v=5040I0PW7rc
+  author: Charles Hoskinson & Alex Chepurnoy
   source: Epicenter Bitcoin
   title: "The Case For Ethereum Classic"
 -
-  key: 2016-08-16-Charles
-  date: 2016-08-16
-  link: http://www.ethnews.com/charles-hoskinson-tells-us-why-he-is-100-etc
-  author: ETHNews
-  source: "Charles Hoskinson"
-  title: "Why I'm 100% ETC" 
--
-  key: 2016-08-13-Ethereum
+  key: 2016-08-13-NB
   date: 2016-08-13
   link: http://www.newsbtc.com/2016/08/13/ethereum-classics-proclaimation-of-independence-from-censorship-and-interference/
-  source: NewsBTC
+  author: Gautham
+  source: News BTC
   title: "Ethereum Classic’s Proclamation of Independence from Censorship and Interference"
 -
-  key: 2016-08-12-White
+  key: 2016-08-12-TM
   date: 2016-08-12
   link: http://themerkle.com/white-hat-hackers-caught-red-handed-during-attempted-etc-sell-off/
-  source: TheMerkle
+  author: JP Buntinx
+  source: The Merkle
   title: "White Hat Hackers Caught Red-handed During Attempted ETC Sell-off"
 -
-  key: 2016-08-12-Ethereum
-  date: 2016-08-12
-  link: http://www.ethnews.com/ethereum-classic-declares-their-independence-from-the-foundation
-  source: EthNews
-  title: "Ethereum Classic Declares Their Independence From the Foundation"
--
-  key: 2016-08-12-ETC
-  date: 2016-08-12
-  link: http://cointimes.tech/2016/08/12/etcdao-stolen-coins-frozen-by-exchanges-was-sent-by-ethereum-foundation-developers/
-  source: CoinTimes
-  title: "ETC/DAO stolen coins frozen by exchanges was sent by Ethereum Foundation Developers"
--
-  key: 2016-08-11-Korea
+  key: 2016-08-11-CT
   date: 2016-08-11
   link: https://cointelegraph.com/news/koreas-largest-bitcoin-exchange-supports-ethereum-classic-eliminates-all-fees
-  source: CoinTelegraph
+  author: Joseph Young
+  source: Coin Telegraph
   title: "Korea's Largest Bitcoin Exchange Supports Ethereum Classic, Eliminates All Fees"
 -
-  key: 2016-08-11-White
+  key: 2016-08-11-NB
   date: 2016-08-11
   link: http://www.newsbtc.com/2016/08/11/white-hat-hackers-could-have-crashed-ethereum-classic/
-  source: NewsBtc
+  author:
+  source: News BTC
   title: "White Hat Hackers Could Have Crashed Ethereum Classic"
 -
-  key: 2016-08-08-The
+  key: 2016-08-08-CD
   date: 2016-08-08
   link: http://www.coindesk.com/ethereum-dao-hacker-getting-away-classic/
-  source: CoinDesk
+  author: Michael del Castillo
+  source: Coin Desk
   title: "The DAO Hacker is Getting Away"
 -
-  key: 2016-08-07-Roger
+  key: 2016-08-07-CT
   date: 2016-08-07
   link: https://cointelegraph.com/news/roger-ver-market-viewed-ethereum-fork-as-good
-  author: CoinTelegraph
-  source: "Roger Ver"
-  title: "Market Viewed Ethereum Fork As Good" 
+  author: Joël Valenzuela
+  source: Coin Telegraph
+  title: "Market Viewed Ethereum Fork As Good"
 -
-  key: 2016-08-05-Why
+  key: 2016-08-05-IV
   date: 2016-08-05
   link: http://www.investopedia.com/articles/investing/080516/why-are-there-now-two-ethereums.asp
+  author: Adam Hayes
   source: Investopedia
   title: "Why are There Now Two Ethereums?"
 -
-  key: 2016-08-04-Will
+  key: 2016-08-04-TM
   date: 2016-08-04
   link: http://themerkle.com/will-coinbase-have-enough-of-an-etc-supply-to-honor-its-promise/
-  source: TheMerkle
+  author: JP Buntinx
+  source: The Merkle
   title: "Will Coinbase Have Enough of an ETC Supply To Honor Its Promise?"
 -
-  key: 2016-08-04-Ethereum
+  key: 2016-08-04-CCN
   date: 2016-08-04
   link: https://www.cryptocoinsnews.com/ethereum-classic-credits-will-soon-available-coinbase/
-  source: CryptoCoinsNews
+  author: Rebecca Campbell
+  source: Crypto Coins News
   title: "Ethereum Classic Credits Will Soon Be Available on Coinbase"
 -
-  key: 2016-08-02-Ethereum
+  key: 2016-08-02-LBN
   date: 2016-08-02
   link: http://www.livebitcoinnews.com/ethereum-classic-overtakes-ripple-and-steem/
-  source: LiveBitcoinNews
+  author: Joseph Young
+  source: Live Bitcoin News
   title: "Ethereum Classic Overtakes Ripple and Steem"
 -
   key: 2016-08-02-Major
   date: 2016-08-02
   link: https://www.cryptocoinsnews.com/chbtc-ethereum-classic/
-  source: CryptoCoinsNews
+  author: Lester Coleman
+  source: Crypto Coins News
   title: "Major ETH Exchange CHBTC U-Turns, Will List Ethereum Classic In Response To Demand"
 -
-  key: 2016-08-02-Ethereum
+  key: 2016-08-02-ET
   date: 2016-08-02
   link: http://www.econotimes.com/Ethereum-Classic-becomes-third-largest-cryptocurrency-by-market-cap-243276
+  author: Associated Press
   source: EconoTimes
   title: "Ethereum Classic becomes third largest cryptocurrency by market cap"
 -
-  key: 2016-08-01-The
+  key: 2016-08-01-WSJ
   date: 2016-08-01
   link: http://blogs.wsj.com/moneybeat/2016/08/01/the-great-digital-currency-debate-new-ethereum-vs-ethereum-classic/
-  author: The Wall Street Journal
-  source: "The Great Digital-Currency Debate"
-  title: "‘New’ Ethereum Vs. Ethereum ‘Classic’" 
+  author: Paul Vigna
+  source: The Wall Street Journal
+  title: "‘New’ Ethereum Vs. Ethereum ‘Classic’"
 -
-  key: 2016-08-01-The
+  key: 2016-08-01-EO
   date: 2016-08-01
   link: http://elaineou.com/2016/08/01/the-value-of-settlement-finality
-  source: Elaine Ou
+  author: Elaine Ou
+  source: ElaineOu.com
   title: "The Value of Settlement Finality"
 -
-  key: 2016-07-31-51Pool
+  key: 2016-07-31-NB
   date: 2016-07-31
   link: http://www.newsbtc.com/2016/07/31/51pool-attack-plans-51-network-attack-ethereum-classic/
-  source: Newsbtc
+  author Associated Press
+  source: News BTC
   title: "51Pool Attack Plans 51% Network Attack Against Ethereum Classic"
 -
-  key: 2016-07-31-The
+  key: 2016-07-31-CD
   date: 2016-07-31
   link: http://www.coindesk.com/three-value-propositions-ethereum-classic/
-  source: Coindesk
+  author: Michael del Castillo
+  source: Coin Desk
   title: "The Three Value Propositions of Ethereum Classic"
 -
-  key: 2016-07-31-Ethereum
+  key: 2016-07-31-BNC
   date: 2016-07-31
   link: http://bravenewcoin.com/news/ethereum-analysis-eth-vs-etc-potential-parity/
-  author: Brave New Coin
-  source: "Ethereum Analysis"
-  title: "ETH vs ETC potential parity" 
+  author: Nathaniel Freire
+  source: Brave New Coin
+  title: "ETH vs ETC potential parity"
 -
-  key: 2016-07-30-How
+  key: 2016-07-30-BM
   date: 2016-07-30
   link: https://bitcoinmagazine.com/articles/how-the-great-ethereum-schism-can-end-well-for-ethereum-classic-part-of-1469905980
-  source: BitcoinMagazine
+  author: Aaron Van Wirdum
+  source: Bitcoin Magazine
   title: "How the Great Schism Can End Well for Ethereum Classic"
 -
-  key: 2016-07-30-Mainstream
+  key: 2016-07-30-CT
   date: 2016-07-30
   link: https://cointelegraph.com/news/mainstream-medias-irrational-criticism-towards-ethereum-classic-and-bitcoin
-  source: Cointelegrap
+  author: Joseph Young
+  source: Coin Telegraph
   title: "Mainstream Media's Irrational Criticism Towards Ethereum Classic and Bitcoin"
 -
-  key: 2016-07-29-Ethereum
-  date: 2016-07-29
-  link: http://www.wallstreettechnologist.com/2016/07/29/ethereum-a-hard-fork-lesson-for-bitcoin/
-  source: Wall Street Technologist
-  title: "Ethereum: A Hard Fork Lesson for Bitcoin"
--
-  key: 2016-07-29-Rise
+  key: 2016-07-29-CD
   date: 2016-07-29
   link: http://www.coindesk.com/rise-replay-attacks-ethereum-divide/
-  source: Coindesk
+  author: Alyssa Hertig
+  source: Coin Desk
   title: "Rise of Replay Attacks Intensifies Ethereum Divide"
 -
-  key: 2016-07-28-Ethereum
+  key: 2016-07-28-F
   date: 2016-07-28
   link: http://www.forbes.com/sites/francescoppola/2016/07/28/ethereum-the-battle-of-the-chains/#2dcf22714a80
+  author: Frances Coppola
   source: Forbes
   title: "Ethereum: The Battle Of The Chains"
 -
-  key: 2016-07-28-Ethereum
+  key: 2016-07-28-CD
   date: 2016-07-28
   link: http://www.coindesk.com/ethereum-classic-explained-blockchain/
-  source: Coindesk
+  author: Alyssa Hertig
+  source: Coin Desk
   title: "Ethereum's Two Ethereums Explained"
 -
-  key: 2016-07-26-Ethereum
+  key: 2016-07-26-F
   date: 2016-07-26
   link: http://www.forbes.com/sites/francescoppola/2016/07/26/ethereum-and-the-old-catholics/
+  author: Frances Coppola
   source: Forbes
   title: "Ethereum And The Old Catholics"
 -
-  key: 2016-07-24-Ethereum
+  key: 2016-07-24-CD
   date: 2016-07-24
   link: http://www.coindesk.com/ethereum-hard-fork-creates-competing-currencies-support-ethereum-classic-rises/
-  source: Coindesk
+  author: Pete Rizzo
+  source: Coin Desk
   title: "Ethereum Hard Fork Creates Competing Currencies as Support for Ethereum Classic Rises"
 -
   key: 2016-07-20-Ethereum
   date: 2016-07-20
   link: http://bitcoinmagazine.com/articles/rejecting-today-s-hard-fork-the-ethereum-classic-project-continues-on-the-original-chain-here-s-why-1469038808
+  author: Aaron Van Wirdum
   source: Bitcoin Magazine
   title: "Here's Why Ethereum Classic Project Continues on the Original Chain"
