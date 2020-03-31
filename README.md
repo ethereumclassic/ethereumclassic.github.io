@@ -12,7 +12,7 @@
 Become a contributor to the [ethereumclassic.org](https://ethereumclassic.org/) website!
 
 <div>
-  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/ETC_Animals/ethereum-classic-wallpaper---cryptokitties-dream_37892378074_o.png" alt="Kitten ETC Contibutor">
+  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Graphic_Design/ETC_Community/etc---decentralized-development_38612869451_o.png" alt="ETC Decentralized Development">
   </div>
 
 ### Media Page - Third-Party Article Submission
@@ -37,7 +37,7 @@ If you'd like to submit an Ethereum Classic related article to the website's Med
 If you're not familiar with GitHub and all of this is too complicated, then you can simply paste your article into a `New Issue` and another contributor can make a PR for you. Also, you can reach out for help from other contributors in the [discord #ethereumclassicwebsite](https://discord.gg/DwQjJ8) channel.
 
 <div>
-  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Graphic_Design/ETC_Animals/etc-logo-design---sweet-little-cat_38555637946_o.png" alt="ETC Kitten Translator"/>
+  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Graphic_Design/ETC_Community/etc-wallpaper---pop-band-ii_24739619758_o.png" alt="ETC Community"/>
   </div>
 
 ### Contribute Translations
@@ -87,5 +87,5 @@ Issues and pull requests are welcome. You can also get an overview of issues on 
 An archived version of the old website can be found at https://github.com/ethereumclassic/ethereumclassic.github.io-v1
 
 <div>
-  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Graphic_Design/ETC_Animals/ethereum-classic-wallpaper---future-cat_38578131102_o.png" alt="ETC Cat Eyes"/>
+  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Graphic_Design/ETC_Anonymous/ethereum-classic-wallpaper---from-dusk-til-dawn-love_37893186634_o.png" alt="ETC Love"/>
   </div>
