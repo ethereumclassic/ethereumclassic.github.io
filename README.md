@@ -11,6 +11,10 @@
 
 Become a contributor to the [ethereumclassic.org](https://ethereumclassic.org/) website!
 
+<div>
+  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC_Matte/etc_matte_logo_circle.png" alt="ETC Matte Logo" width="250">
+  </div>
+
 ### Media Page - Third-Party Article Submission
 
 If you're writing Ethereum Classic content, the [Media Kit](https://github.com/ethereumclassic/Media_Kit) repository holds an abundance of Ethereum Classic brand assets for content creators. Please pretty up those ETC articles with Ethereum Classic specific images, a lot of work went into all those graphics. If you're a graphic designer, please consider contributing to our branding by submitting content to the [Media Kit](https://github.com/ethereumclassic/Media_Kit) repository.
