@@ -57,7 +57,7 @@ If you would like to suggest new content for the website, please create a `New I
 The website is currently going through a modernization project to bring it up to 2020 standards. The overall structure and content is currently being finalized in this repo's [wiki](https://github.com/ethereumclassic/ethereumclassic.github.io/wiki). If you'd like to join our efforts in modernizing the website, please consider joining our active discussion in the [discord #ethereumclassicwebsite](https://discord.gg/DwQjJ8) channel. We can always use more hands.
 
 <div>
-  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Graphic_Design/ETC_Development/ethereum-classic-wallpaper---paper--mobile-wallet_38553734746_o.png" alt="ETC Stationary"/>
+  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Graphic_Design/ETC_City/etc-wallpaper---banner-glue_37892023154_o.png" alt="ETC Banner"/>
   </div>
 
 ## Deployment
