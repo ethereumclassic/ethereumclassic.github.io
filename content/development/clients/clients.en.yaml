@@ -5,7 +5,7 @@ disclaimer: true
 intro: | 
   # Clients
 
-  Clients are used to sync with the Etheruem Classic network and verify blocks. Most users won't need to run a full node, but they allow those who do to trustlessly interact with the network.
+  Clients are used to sync with the Ethereum Classic network and verify blocks. Most users won't need to run a full node, but they allow those who do to trustlessly interact with the network.
 releases: Releases
 support: Support
 publicEndpointsTitle: | 
