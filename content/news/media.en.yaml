@@ -2281,14 +2281,14 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: Coin Desk
   title: "Ethereum's Two Ethereums Explained"
 -
-  key: 2016-07-26-F
+  key: 2016-07-26-Forbes
   date: 2016-07-26
   link: http://www.forbes.com/sites/francescoppola/2016/07/26/ethereum-and-the-old-catholics/
   author: Frances Coppola
   source: Forbes
   title: "Ethereum And The Old Catholics"
 -
-  key: 2016-07-26-EF
+  key: 2016-07-26-Ethereum-Foundation
   date: 2016-07-26
   link: https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/
   author: Vitalik Buterin
@@ -2302,16 +2302,198 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: Coin Desk
   title: "Ethereum Hard Fork Creates Competing Currencies as Support for Ethereum Classic Rises"
 -
-  key: 2016-07-20-BM
+  key: 2016-07-22-Ethereum-Foundation
+  date: 2016-07-22
+  link: https://blog.ethereum.org/2016/07/22/hive-strived-clean-fork/
+  author: Péter Szilágyi
+  source: Ethereum Foundation
+  title: "Hive: How we strived for a clean fork"
+-
+  key: 2016-07-20-Bitcoin-Magazine
   date: 2016-07-20
   link: http://bitcoinmagazine.com/articles/rejecting-today-s-hard-fork-the-ethereum-classic-project-continues-on-the-original-chain-here-s-why-1469038808
   author: Aaron Van Wirdum
   source: Bitcoin Magazine
   title: "Here's Why Ethereum Classic Project Continues on the Original Chain"
 -
-  key: 2016-07-20-EF
+  key: 2016-07-20-Ethereum-Foundation
   date: 2016-07-20
   link: https://blog.ethereum.org/2016/07/20/hard-fork-completed/
   author: Vitalik Buterin
   source: Ethereum Foundation
   title: "Hard Fork Completed"
+-
+  key: 2016-07-15-Ethereum-Foundation
+  date: 2016-07-15
+  link: https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork/
+  author: Jeffrey Wilcke
+  source: Ethereum Foundation
+  title: "To fork or not to fork"
+-
+  key: 2016-07-08-Ethereum-Foundation
+  date: 2016-07-08
+  link: https://blog.ethereum.org/2016/07/08/c-dev-update-summer-edition/
+  author: Christian Reitwiessner
+  source: Ethereum Foundation
+  title: "C++ DEV Update – July edition"
+-
+  key: 2016-06-28-Ethereum-Foundation
+  date: 2016-06-28
+  link: https://blog.ethereum.org/2016/06/28/security-alert-dos-vulnerability-in-the-soft-fork/
+  author: Felix Lange
+  source: Ethereum Foundation
+  title: "Security Alert – DoS Vulnerability in the Soft Fork"
+-
+  key: 2016-06-24-Ethereum-Foundation
+  date: 2016-06-24
+  link: https://blog.ethereum.org/2016/06/24/dao-wars-youre-voice-soft-fork-dilemma/
+  author: Péter Szilágyi
+  source: Ethereum Foundation
+  title: "DAO Wars: Your voice on the soft-fork dilemma"
+-
+  key: 2016-06-17-Ethereum-Foundation
+  date: 2016-06-17
+  link: https://blog.ethereum.org/2016/06/17/critical-update-re-dao-vulnerability/
+  author: Vitalik Buterin
+  source: Ethereum Foundation
+  title: "CRITICAL UPDATE Re: DAO Vulnerability"
+-
+  key: 2016-06-02-Ethereum-Foundation
+  date: 2016-06-02
+  link: https://blog.ethereum.org/2016/06/02/go-ethereums-jit-evm/
+  author: Jeffrey Wilcke
+  source: Ethereum Foundation
+  title: "Go Ethereum’s JIT-EVM"
+-
+  key: 2016-05-04-Ethereum-Foundation
+  date: 2016-05-04
+  link: https://blog.ethereum.org/2016/05/04/c-dev-update-announcing-remix/
+  author: Christian Reitwiessner
+  source: Ethereum Foundation
+  title: "C++ DEV Update: Announcing Remix"
+-
+  key: 2016-02-29-Ethereum-Foundation
+  date: 2016-02-29
+  link: https://blog.ethereum.org/2016/02/29/homestead-release/
+  author: Jeffrey Wilcke
+  source: Ethereum Foundation
+  title: "Homestead Release"
+-
+  key: 2016-02-12-Ethereum-Foundation
+  date: 2016-02-12
+  link: https://blog.ethereum.org/2016/02/12/ethereum-dev-update-c-roadmap/
+  author: Christian Reitwiessner
+  source: Ethereum Foundation
+  title: "Ethereum DEV Update: C++ Roadmap"
+-
+  key: 2016-01-07-Ethereum-Foundation
+  date: 2016-01-07
+  link: https://blog.ethereum.org/2016/01/07/2394/
+  author: Vitalik Buterin
+  source: Ethereum Foundation
+  title: "Ethereum Foundation Internal Update"
+-
+  key: 2015-11-02-Ethereum-Foundation
+  date: 2015-11-02
+  link: https://blog.ethereum.org/2015/11/02/ethereum-dev-update-2015-week-44/
+  author: Vitalik Buterin
+  source: Ethereum Foundation
+  title: "Ethereum Dev Update 2015 / Week 44"
+-
+  key: 2015-10-18-Ethereum-Foundation
+  date: 2015-10-18
+  link: https://blog.ethereum.org/2015/10/18/vitaliks-research-and-ecosystem-update/
+  author: Vitalik Buterin
+  source: Ethereum Foundation
+  title: "Vitalik’s Research and Ecosystem Update"
+-
+  key: 2015-10-13-Ethereum-Foundation
+  date: 2015-10-13
+  link: https://blog.ethereum.org/2015/10/13/ethereum-dev-update-2015-week-41/
+  author: Vitalik Buterin
+  source: Ethereum Foundation
+  title: "Ethereum Dev Update 2015 / Week 41"
+-
+  key: 2015-09-28-Ethereum-Foundation
+  date: 2015-09-28
+  link: https://blog.ethereum.org/2015/09/28/the-evolution-of-ethereum/
+  author: Vitalik Buterin
+  source: Ethereum Foundation
+  title: "The Evolution of Ethereum"
+-
+  key: 2015-09-25-Ethereum-Foundation
+  date: 2015-09-25
+  link: https://blog.ethereum.org/2015/09/25/more-uncle-statistics/
+  author: Vitalik Buterin
+  source: Ethereum Foundation
+  title: "More uncle statistics"
+-
+  key: 2015-09-16-Ethereum-Foundation
+  date: 2015-09-16
+  link: https://blog.ethereum.org/2015/09/16/ethereum-wallet-developer-preview/
+  author: Fabian Vogelsteller
+  source: Ethereum Foundation
+  title: "Ethereum Wallet – Developer Preview"
+-
+  key: 2015-08-20-Ethereum-Foundation
+  date: 2015-08-20
+  link: https://blog.ethereum.org/2015/08/20/security-alert-consensus-issue/
+  author: Jutta Steiner
+  source: Ethereum Foundation
+  title: "Security alert [consensus issue]"
+-
+  key: 2015-08-20-Ethereum-Foundation
+  date: 2015-08-20
+  link: https://blog.ethereum.org/2015/08/20/security-alert-consensus-issue/
+  author: Jutta Steiner
+  source: Ethereum Foundation
+  title: "Security alert [consensus issue]"
+-
+  key: 2015-08-18-Ethereum-Foundation
+  date: 2015-08-18
+  link: https://blog.ethereum.org/2015/08/18/frontier-first-100k-blocks/
+  author: Gustav Simonsson
+  source: Ethereum Foundation
+  title: "An Analysis of the First 100000 Blocks"
+-
+  key: 2015-08-04-Ethereum-Foundation
+  date: 2015-08-04
+  link: https://blog.ethereum.org/2015/08/04/ethereum-protocol-update-1/
+  author: Stephan Tual
+  source: Ethereum Foundation
+  title: "Ethereum Protocol Update 1"
+-
+  key: 2015-08-04-Ethereum-Foundation
+  date: 2015-08-04
+  link: https://blog.ethereum.org/2015/08/04/the-thawing-frontier/
+  author: Stephan Tual
+  source: Ethereum Foundation
+  title: "The Thawing Frontier"
+-
+  key: 2015-07-30-Ethereum-Foundation
+  date: 2015-07-30
+  link: https://blog.ethereum.org/2015/07/30/ethereum-launches/
+  author: Stephan Tual
+  source: Ethereum Foundation
+  title: "Ethereum Launches"
+-
+  key: 2015-07-30-Ethereum-Foundation
+  date: 2015-07-30
+  link: https://blog.ethereum.org/2015/07/30/a-few-last-minute-notes/
+  author: Stephan Tual
+  source: Ethereum Foundation
+  title: "A few last minute notes…"
+-
+  key: 2015-07-27-Ethereum-Foundation
+  date: 2015-07-27
+  link: https://blog.ethereum.org/2015/07/27/final-steps/
+  author: Stephan Tual
+  source: Ethereum Foundation
+  title: "Final Steps"
+-
+  key: 2015-07-22-Ethereum-Foundation
+  date: 2015-07-22
+  link: https://blog.ethereum.org/2015/07/22/frontier-is-coming-what-to-expect-and-how-to-prepare/
+  author: Stephan Tual
+  source: Ethereum Foundation
+  title: "Frontier is coming – what to expect, and how to prepare"
