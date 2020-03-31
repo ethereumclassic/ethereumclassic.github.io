@@ -1,6 +1,7 @@
 <div>
   <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC_Network_Documentation/etc_network_logo_white_documentation.png" alt="Ethereum Classic Documentation" width="750"/>
   </div>
+
  # Ethereum Classic Website
 
 - [Main site](https://ethereumclassic.org/)
@@ -8,20 +9,19 @@
 
 ## Content
 
-Become a contributor to the EthereumClassic.org website!
+Become a contributor to the [ethereumclassic.org](https://ethereumclassic.org/) website!
 
 ### Media Page - Third-Party Article Submission
 
 If you'd like to submit an Ethereum Classic related article to the website's Media section, please follow the instructions below.
-For simple content updates such as editing a blog article, checkout a new branch from `master`, add your content, and create a PR back into `master`.
 
 1. Fork this repository to your personal GitHub account.
-(optional: Clone locally)
+* Optional: Clone locally on your machine.
 2. Navigate to the file `..\ethereumclassic.github.io\content\news\media.en.yaml`
 3. Open `media.en.yaml` to edit
 4. Review the existing format of the articles in the file.
-5. Add your article to the file.
-Note: The articles are listed in reverse chronological order with the most recent articles at the top of the document. Please add your article in-line with this order the correct order.
+5. Add your article to the file. Save your changes.
+* Note: The articles are listed in reverse chronological order with the most recent articles at the top of the document. Please add your article in-line with this order the correct order.
 6. Make a Pull Request from the active branch in your repo to the `ethereumclassic:develop` branch using the big green button.
 Instructions: [Creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 7. Celebrate. You just contributed to an open source, decentralized blockchain project!
