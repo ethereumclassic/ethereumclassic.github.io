@@ -13,7 +13,7 @@ Become a contributor to the [ethereumclassic.org](https://ethereumclassic.org/) 
 
 ### Media Page - Third-Party Article Submission
 
-If you'd like to submit an Ethereum Classic related article to the website's Media section, please follow the instructions below.
+If you'd like to submit an Ethereum Classic related article to the website's Media section, please follow the instructions below. Please do not submit speculative articles like weekly price projections and such. This isn't a place for click bait marketing, but rather reliable articles related to developments in the Ethereum Classic ecosystem. Thank you.
 
 1. Fork this repository to your personal GitHub account.
 * Optional: Clone locally on your machine.
@@ -74,7 +74,7 @@ Issues and pull requests are welcome. You can also get an overview of issues on 
 <div>
   <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Button_Powered_by_ETC/powered_by_etc_button_white.png" alt="Powered by ETC Button" width="250"/>
   </div>
-  
+
 ## Old Version
 
 An archived version of the old website can be found at https://github.com/ethereumclassic/ethereumclassic.github.io-v1
