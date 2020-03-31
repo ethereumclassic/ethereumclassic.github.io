@@ -18,9 +18,7 @@ const Index = ({ pageContext: { i18n }, data: { file, allMdx: blogArticles } }) 
     <Navigation />
     <div id="wrapper">
       <Banner i18n={i18n} image={file.childImageSharp.fluid} />
-      <Section className="wide-header" subSection={() => html(i18n.whatIsClassic)}>
-        {html(i18n.whatIsBlockchain)}
-      </Section>
+      <Section subSection={() => html(i18n.whatIsClassic)}>{html(i18n.whatIsBlockchain)}</Section>
       <WideSection className="shaded">
         <IconGrid
           icons={[

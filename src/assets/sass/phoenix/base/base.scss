@@ -21,46 +21,12 @@ img {
   max-width: 100%;
 }
 
-small {
-  opacity: 0.7;
-}
-
 a {
   overflow-wrap: break-word;
-}
-
-a i {
-  margin: 0 0.7rem;
-}
-
-a.anchor {
-  visibility: hidden;
-}
-
-h1 {
-  font-size: 3rem;
-}
-
-h3 {
-  font-size: 1.2rem;
-}
-
-h3,
-h5 {
-  text-transform: none;
-  letter-spacing: inherit;
-}
-
-h4 small {
-  text-transform: none;
-}
-
-
-body.hanzi {
-  #wrapper>section.intro header p {
-    font-size: 1.5rem;
+  i {
+    margin: 0 0.7rem;
+  }
+  &.anchor {
+    visibility: hidden;
   }
 }
-
-
-/* This shouldn't really be here, refactor it */

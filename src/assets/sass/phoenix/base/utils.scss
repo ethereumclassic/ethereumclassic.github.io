@@ -9,7 +9,33 @@
   text-align: right;
 }
 
-
 .spacer {
   margin-top: 3rem;
+}
+
+.dark {
+  background: _palette(accent-dark);
+  * { 
+    color: $white; 
+  }
+  .button-link {
+    background: rgba(255, 255, 255, .2);
+    box-shadow: $softShadow;
+    &:hover {
+      background: rgba(255, 255, 255, .1);
+    }
+  }
+}
+
+.tip {
+  background: rgba(0, 230, 150, 0.1);
+  padding: $microPadding $tinyPadding;
+  border-radius: $tinyPadding;
+  margin-bottom: $tinyPadding;
+  font-size: 0.9rem;
+  color: rgba(0, 0, 0, .8)
+}
+
+.shaded {
+  background: #f5f5f5;
 }
