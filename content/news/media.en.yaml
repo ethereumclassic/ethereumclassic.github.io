@@ -1,4 +1,31 @@
 -
+  key: 2020-0--
+  date: 2020-0-
+  link:
+  author:
+  source:
+  title: ""
+-
+  key: 2020-0--
+  date: 2020-0-
+  link:
+  author: ETC Core
+  source: ETC Core
+  title: ""
+-
+  key: 2020-0--
+  date: 2020-0-
+  link:
+  author: ETC Core
+  source: ETC Core
+  title: ""
+-
+
+
+
+
+
+-
   key: 2020-03-30-ETC-Core
   date: 2020-03-30
   link: https://medium.com/etc-core/how-to-contribute-to-mordor-testnet-ethereum-classic-881490bdd121
@@ -19,6 +46,13 @@
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "ETC Labs Expands Team To Further Advancements of Ethereum Classic Technology and Ecosystem"
+-
+  key: 2020-03-20-Gitcoin
+  date: 2020-03-20
+  link: https://www.youtube.com/watch?v=3ONSiJdGGtU
+  author: ETC Labs
+  source: Gitcoin
+  title: "ETC Labs Workshop: Funding The Future"
 -
   key: 2020-03-20-Decrypt
   date: 2020-03-20
@@ -55,12 +89,33 @@
   source: Ethereum Classic Labs
   title: "Ethereum Classic Labs Partners with Gitcoin To Enable Gitcoin Bounty Posting Using ETC"
 -
+  key: 2020-03-16-Gitcoin
+  date: 2020-03-16
+  link: https://hackathons.gitcoin.co/funding-the-future
+  author: ETC Labs
+  source: Gitcoin
+  title: "Hackathon Event: Funding The Future sponsored by Ethereum Classic Labs"
+-
+  key: 2020-03-16-CoinTelegraph
+  date: 2020-03-16
+  link: https://cointelegraph.com/news/gitcoin-teams-up-with-etclabs-for-crypto-bounty-payments-in-etc/amp
+  author: Benjamin Pirus
+  source: Coin Telegraph
+  title: "Gitcoin Teams Up With ETCLabs for Crypto Bounty Payments in ETC"
+-
   key: 2020-03-15-EtherPlan
   date: 2020-03-15
   link: https://etherplan.com/2020/03/15/ethereum-classic-brand-promise-positioning-personality-and-communications/10479/
   author: Donald McIntyre
   source: EtherPlan
   title: "Ethereum Classic Brand Promise, Positioning, Personality, and Communications"
+-
+  key: 2020-03-12-DFG
+  date: 2020-03-12
+  link: https://www.youtube.com/watch?v=Yadq-0kuxa4
+  author: Digital Finance Group
+  source: Bloomberg
+  title: "Bloomberg Radio Interview Hosted by Carol Massar and Jason Kelly with special guest James Wo"
 -
   key: 2020-03-11-EtherPlan
   date: 2020-03-11
@@ -75,6 +130,13 @@
   author: Daniel Phillips
   source: Decrypt
   title: "Crypto traders hot on Eth Classic, cold on EOS reveals Stocktwits data"
+-
+  key: 2020-03-10-CCS
+  date: 2020-03-10
+  link: https://www.youtube.com/watch?v=ZbpElXDBP4k&feature=youtu.be
+  author: ETC Labs
+  source: Crypto Coin Show
+  title: "Blockchain Interviews - Terry Culver CEO, DFG & ETC Labs"
 -
   key: 2020-03-06-Decrypt
   date: 2020-03-06
@@ -188,6 +250,13 @@
   source: EtherPlan
   title: "The Ethereum Classic Trinity Explained"
 -
+  key: 2020-02-01-Grayscale
+  date: 2020-02-01
+  link: https://grayscale.co/insights/an-introduction-to-ethereum-classic/
+  author: Grayscale
+  source: Grayscale Investments LLC
+  title: "An Introduction to Ethereum Classic"
+-
   key: 2020-01-31-EtherPlan
   date: 2020-01-31
   link: https://etherplan.com/2020/01/31/ethereum-classic-developer-call-about-the-next-aztlan-phoenix-upgrades-feb-5-2019/9796/
@@ -243,6 +312,13 @@
   author: Nicholas Marinoff
   source: Decrypt
   title: "Grayscale Investments sees a future in Ethereum Classic"
+-
+  key: 2020-01-22-TheBlock
+  date: 2020-01-22
+  link: https://www.theblockcrypto.com/linked/53754/grayscale-commits-two-more-years-of-funding-to-the-ethereum-classic-cooperative
+  author: Yilun Cheng
+  source: The Block
+  title: "Grayscale extends support to the Ethereum Classic Cooperative"
 -
   key: 2020-01-21-Decrypt
   date: 2020-01-21
@@ -531,6 +607,13 @@
   source: Crypto Daily
   title: "$100k Of ETC 51 Percent Hack Returned To Exchange"
 -
+  key: 2019-01-11-CoinDesk
+  date: 2019-01-11
+  link: https://www.coindesk.com/grayscale-ethereum-classic-investment-trust-51-percent-attack-etc-etcg
+  author: Marc Hochstein
+  source: Coin Desk
+  title: "Grayscale Assures Investors: Ethereum Classic Trust Funds Not at ‘Direct Risk’"
+-
   key: 2019-01-10-CryptoDaily
   date: 2019-01-10
   link: https://cryptodaily.co.uk/2019/01/truth-about-ethereum-classic-hack
@@ -643,6 +726,20 @@
   source: Crypto Daily
   title: "Ethereum Classic (ETC) Is The New Institutional Favorite After Bitcoin (BTC) And EOS (EOS)"
 -
+  key: 2018-05-12-TheMerkle
+  date: 2018-05-12
+  link: https://themerkle.com/grayscales-ethereum-classic-investment-fund-can-now-be-traded-on-otcqx/
+  author: JP Buntinx
+  source: The Merkle
+  title: "Grayscale’s Ethereum Classic Investment Fund Can Now Be Traded on OTCQX"
+-
+  key: 2018-05-10-CCN
+  date: 2018-05-10
+  link: https://www.ccn.com/retail-investors-can-now-buy-the-ethereum-classic-investment-trust/
+  author: Josiah Wilmoth
+  source: CCN
+  title: "Retail Investors Can Now Buy the Ethereum Classic Investment Trust"
+-
   key: 2018-04-27-CryptoDaily
   date: 2018-04-27
   link: https://cryptodaily.co.uk/2018/04/war-asics-might-not-solution
@@ -656,6 +753,13 @@
   author: Jefe Caan
   source: Crypto Daily
   title: "Ethereum Classic (ETC): The Forgotten Twin Brother Of Ethereum (ETH)"
+-
+  key: 2018-03-13-CCN
+  date: 2018-03-13
+  link: https://www.ccn.com/grayscale-files-list-ethereum-classic-trust-publicly-quoted-otc-market/
+  author: Josiah Wilmoth
+  source: CCN
+  title: "Grayscale Files to List Ethereum Classic Trust on Publicly-Quoted OTC Market"
 -
   key: 2018-03-09-CryptoDaily
   date: 2018-03-09
@@ -1017,6 +1121,13 @@
   source: Huffington Post
   title: "Rise of Ethereum: A New Blockchain Juggernaut"
 -
+  key: 2017-04-28-BitcoinMagazine
+  date: 2017-04-28
+  link: https://bitcoinmagazine.com/articles/grayscale-investments-launches-10-million-ethereum-classic-private-fund
+  author: Alex Lielacher
+  source: Bitcoin Magazine
+  title: "Grayscale Investments Launches $10 Million Ethereum Classic Private Fund"
+-
   key: 2017-04-27-CT
   date: 2017-04-27
   link: https://cointelegraph.com/news/ethereum-classic-fund-goes-live-ethereum-etf-launch-edges-closer
@@ -1024,15 +1135,31 @@
   source: Coin Telegraph
   title: "Ethereum Classic Fund Goes Live, Ethereum ETF Launch Edges Closer"
 -
-  key: 2017-04-25-CB
+  key: 2017-04-27-CoinDesk
+  date: 2017-04-27
+  link: https://www.coindesk.com/grayscale-ethereum-classic-vehicle
+  author: Stan Higgins
+  source: Coin Desk
+  title: "Grayscale Opens Ethereum Classic Vehicle to Accredited Investors"
+-
+  key: 2017-04-26-MarketWatch
+  date: 2017-04-26
+  link: https://www.marketwatch.com/story/grayscale-launches-ethereum-classic-investment-trust-2017-04-26
+  author: Joseph Adinolfi
+  source: Market Watch
+  title: "Exclusive: Grayscale launches digital-currency fund backed by Silver Lake’s co-founder Hutchins"
+-
+  key: 2017-04-25-CD
   date: 2017-04-25
   link: http://www.coindesk.com/whats-driving-ether-classic-to-all-time-highs/
   author: Charles Bovaird
+  source: Coin Desk
   title: "What's Driving Ether Classic to All-Time Highs?"
 -
   key: 2017-04-24-ENU
   date: 2017-04-24
   link: https://medium.com/@classicether/stage-is-set-for-initial-coin-offerings-on-ethereum-classic-blockchain-a364a849681f
+  author: Classic Ether
   source: ETC News Updates
   title: "Stage is set for initial coin offerings on Ethereum Classic blockchain"
 -
@@ -1050,7 +1177,7 @@
   title: "TradeBlock’s ECX Index for Ethereum Classic now Publicly Available"
 -
   key: 2017-04-9-BC
-  date: 2017-04-9
+  date: 2017-04-09
   author: Ville Rantala, Michael Platt
   source: Bitcoin.com
   link: https://news.bitcoin.com/white-hacker-groupl-claim-4-4-million-controversial-dao-refund/
