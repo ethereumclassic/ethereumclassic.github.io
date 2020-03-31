@@ -12,7 +12,7 @@
 Become a contributor to the [ethereumclassic.org](https://ethereumclassic.org/) website!
 
 <div>
-  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC_Matte/etc_matte_logo_circle.png" alt="ETC Matte Logo" width="250">
+  <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Logo_ETC_Matte/etc_matte_logo_circle.png" alt="ETC Matte Logo">
   </div>
 
 ### Media Page - Third-Party Article Submission
