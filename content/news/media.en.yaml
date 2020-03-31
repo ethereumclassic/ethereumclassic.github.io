@@ -13,6 +13,27 @@
   source: Decrypt
   title: "Ethereum Classic Cooperative director rebuts mismanagement claims"
 -
+  key: 2020-03-19-EtherPlan
+  date: 2020-03-19
+  link: https://etherplan.com/2020/03/19/ethereum-classic-ungovernance-explained/10522/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "Ethereum Classic Ungovernance Explained"
+-
+  key: 2020-03-15-EtherPlan
+  date: 2020-03-15
+  link: https://etherplan.com/2020/03/15/ethereum-classic-brand-promise-positioning-personality-and-communications/10479/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "Ethereum Classic Brand Promise, Positioning, Personality, and Communications"
+-
+  key: 2020-03-11-EtherPlan
+  date: 2020-03-11
+  link: https://etherplan.com/2020/03/11/the-ethereum-classic-security-model-explained/10348/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "The Ethereum Classic Security Model Explained"
+-
   key: 2020-03-10-Decrypt
   date: 2020-03-10
   link: https://decrypt.co/21569/crypto-traders-hot-on-eth-classic-cold-on-eos-reveals-stocktwits-data
@@ -26,6 +47,20 @@
   author: Colin Platt
   source: Decrypt
   title: "Buying and selling the dreaded CoronaToken"
+-
+  key: 2020-02-26-EtherPlan
+  date: 2020-02-26
+  link: https://etherplan.com/2020/02/26/ethereum-classic-phoenix-upgrade-set-for-block-10500839-estimated-on-june-10th-2020/10191/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "Ethereum Classic Phoenix Upgrade set for Block 10,500,839 Estimated on June 10th, 2020"
+-
+  key: 2020-02-25-EtherPlan
+  date: 2020-02-25
+  link: https://etherplan.com/2020/02/25/the-ethereum-classic-monetary-policy-explained/10025/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "The Ethereum Classic Monetary Policy Explained"
 -
   key: 2020-02-14-Decryptco
   date: 2020-02-14
@@ -48,12 +83,47 @@
   source: Decrypt
   title: "Ethereum booms while Ethereum Classic busts in new market rally"
 -
+  key: 2020-02-06-EtherPlan
+  date: 2020-02-06
+  link: https://etherplan.com/2020/02/06/ethereum-classic-money-property-agreements-explained/9965/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "Ethereum Classic Money, Property, & Agreements Explained"
+-
+  key: 2020-02-05-EtherPlan
+  date: 2020-02-05
+  link: https://etherplan.com/2020/02/05/ethereum-classic-aztlan-phoenix-upgrades-set-to-activate-on-block-10500839-estimated-on-june-10th-2020/9901/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "Ethereum Classic Aztlán & Phoenix Upgrades set to Activate on Block 10,500,839 Estimated on June 10th, 2020"
+-
+  key: 2020-02-04-EtherPlan
+  date: 2020-02-04
+  link: https://etherplan.com/2020/02/04/the-ethereum-classic-trinity-explained/9845/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "The Ethereum Classic Trinity Explained"
+-
+  key: 2020-01-31-EtherPlan
+  date: 2020-01-31
+  link: https://etherplan.com/2020/01/31/ethereum-classic-developer-call-about-the-next-aztlan-phoenix-upgrades-feb-5-2019/9796/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "Ethereum Classic Developer Call – About the Next Aztlán & Phoenix Upgrades – Feb 5, 2019"
+-
   key: 2020-01-28-Decrypt
   date: 2020-01-28
   link: https://decrypt.co/17894/ethereum-classic-price-is-the-highest-its-been-in-over-a-year
   author: Nicholas Marinoff
   source: Decrypt
   title: "Ethereum Classic price is the highest it’s been in over a year"
+-
+  key: 2020-01-28-EtherPlan
+  date: 2020-01-28
+  link: https://etherplan.com/2020/01/28/the-ethereum-classic-ecosystem-explained/9680/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "The Ethereum Classic Ecosystem Explained"
 -
   key: 2020-01-27-Decrypt
   date: 2020-01-27
@@ -111,6 +181,13 @@
   source: Crypto Daily
   title: "Ethereum Classic Teams Rebrand For Clarity"
 -
+  key: 2020-01-14-EtherPlan
+  date: 2020-01-14
+  link: https://etherplan.com/2020/01/14/the-logic-of-why-ethereum-classic-will-rise-1000x-in-the-medium-to-long-term/9639/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "The Logic of why Ethereum Classic will Rise 1000x in the Medium to Long Term"
+-
   key: 2019-11-11-CryptoDaily
   date: 2019-11-11
   link: https://cryptodaily.co.uk/2019/11/did-you-miss-these-important-ethereum-classic-and-litecoin-updates
@@ -118,12 +195,40 @@
   source: Crypto Daily
   title: "Did You Miss These Important Ethereum Classic And Litecoin Updates?"
 -
+  key: 2019-10-26-EtherPlan
+  date: 2019-10-26
+  link: https://etherplan.com/2019/10/26/backward-compatibility-what-is-account-versioning-in-ethereum-classic/9440/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "Backward Compatibility: What is Account Versioning in Ethereum Classic?"
+-
+  key: 2019-10-24-EtherPlan
+  date: 2019-10-24
+  link: https://etherplan.com/2019/10/24/the-ethereum-classic-dilemma-ethereum-parity-vs-backward-compatibility/9373/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "The Ethereum Classic Dilemma: Ethereum Parity vs Backward Compatibility"
+-
+  key: 2019-10-15-EtherPlan
+  date: 2019-10-15
+  link: https://etherplan.com/2019/10/15/in-banking-wealth-is-controlled-by-providers-in-blockchain-wealth-is-controlled-by-owners/9302/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "In Banking Wealth is Controlled by Providers, in Blockchain Wealth is Controlled by Owners"
+-
   key: 2019-10-12-Decrypt
   date: 2019-10-12
   link: https://decrypt.co/10290/ethereum-classics-plan-to-seduce-ethereums-miners
   author: Ben Munster
   source: Decrypt
   title: "Ethereum Classic's plan to seduce Ethereum’s miners"
+-
+  key: 2019-10-07-EtherPlan
+  date: 2019-10-07
+  link: https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "Why Proof of Stake is Less Secure Than Proof of Work"
 -
   key: 2019-09-18-Decrypt
   date: 2019-09-18
