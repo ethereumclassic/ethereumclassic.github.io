@@ -13,15 +13,17 @@ Become a contributor to the [ethereumclassic.org](https://ethereumclassic.org/) 
 
 ### Media Page - Third-Party Article Submission
 
+If you're writing Ethereum Classic content, the [Media Kit](https://github.com/ethereumclassic/Media_Kit) repository holds an abundance of Ethereum Classic brand assets for content creators. Please pretty up those ETC articles with Ethereum Classic specific images, a lot of work went into all those graphics. Also, if you're a graphic designer, please contribute to our branding by submitting content to the [Media Kit](https://github.com/ethereumclassic/Media_Kit) repository.
+
 If you'd like to submit an Ethereum Classic related article to the website's Media section, please follow the instructions below. Please do not submit speculative articles like weekly price projections and such. This isn't a place for click bait marketing, but rather reliable articles related to developments in the Ethereum Classic ecosystem. Thank you.
 
 1. Fork this repository to your personal GitHub account.
-* Optional: Clone locally on your machine.
+    * Optional: Clone locally on your machine.
 2. Navigate to the file `..\ethereumclassic.github.io\content\news\media.en.yaml`
 3. Open `media.en.yaml` to edit
 4. Review the existing format of the articles in the file.
 5. Add your article to the file. Save your changes.
-* Note: The articles are listed in reverse chronological order with the most recent articles at the top of the document. Please add your article in-line with this order the correct order.
+    * Note: The articles are listed in reverse chronological order with the most recent articles at the top of the document. Please add your article in-line with this order the correct order.
 6. Make a Pull Request from the active branch in your repo to the `ethereumclassic:develop` branch using the big green button.
 Instructions: [Creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 7. Celebrate. You just contributed to an open source, decentralized blockchain project!
