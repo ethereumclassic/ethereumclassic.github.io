@@ -1,27 +1,10 @@
 -
-  key: 2020-0--
-  date: 2020-0-
-  link:
-  author:
-  source:
-  title: ""
--
-  key: 2019-0--
-  date: 2019-0-
-  link:
-  author:
-  source:
-  title: ""
-
-
-
-
-
-
-
-
-
-
+  key: 2020-03-30-CN
+  date: 2020-03-30
+  link: https://www.cryptoninjas.net/2020/03/30/hyperledger-besu-graduates-to-active-project-status/
+  author: Associated Press
+  source: Crypto Ninjas
+  title: "Hyperledger Besu graduates to active project status"
 -
   key: 2020-03-30-ETC-Core
   date: 2020-03-30
@@ -107,6 +90,13 @@
   source: Ethereum Classic Labs
   title: "Announcing Christian Xu, our new Asia Community Manager"
 -
+  key: 2020-03-17-The-Block
+  date: 2020-03-17
+  link: https://www.theblockcrypto.com/post/58953/ethereum-classic-collective-board-member-resigns-withdraws-funding-support
+  author: Celia Wan
+  source: The Block
+  title: "Ethereum Classic Collective board member resigns, withdraws funding support"
+-
   key: 2020-03-17-CNZ
   date: 2020-03-17
   link: https://www.cryptonewsz.com/etc-cooperative-welcomes-elaine-ou-craig-salm-roy-zou-as-board-of-directors/
@@ -155,6 +145,13 @@
   author: Donald McIntyre
   source: EtherPlan
   title: "The Ethereum Classic Security Model Explained"
+-
+  key: 2020-03-11-CA
+  date: 2020-03-11
+  link: https://thecurrencyanalytics.com/12358/ethereum-classic-etc-sustains-the-original-censorship-resistant-blockchain/
+  author: Steven Anderson
+  source: The Currency Analytics
+  title: "Ethereum Classic (ETC) Sustains the Original Censorship Resistant Blockchain"
 -
   key: 2020-03-10-EVM61
   date: 2020-03-10
@@ -205,6 +202,13 @@
   source: ETC Core
   title: "ETC Core 2020 Roadmap Announcement"
 -
+  key: 2020-02-29-TWJ
+  date: 2020-02-29
+  link: https://www.tronweekly.com/etc-labs-teams-up-with-chainlink-with-oracle-technology-usage-in-sight/
+  author: Ketaki Dixit
+  source: Tron Weekly
+  title: "ETC Labs Teams Up With Chainlink With Oracle Technology Usage In Sight"
+-
   key: 2020-02-28-Second-State
   date: 2020-02-28
   link: https://medium.com/second-state/second-state-awarded-a-grant-to-bring-next-gen-ethereum-infrastructure-to-polkadot-ecosystem-6545fb2267fc
@@ -218,6 +222,13 @@
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Oracles with Ethereum Classic and Chainlink"
+-
+  key: 2020-02-27-CNZ
+  date: 2020-02-27
+  link: https://www.cryptonewsz.com/godel-labs-lends-support-to-ongoing-multi-geth-project-development-team-creation/
+  author: David Cox
+  source: CryptoNewZ
+  title: "Gödel Labs Lends Support to Ongoing Multi-Geth Project & Development Team Creation"
 -
   key: 2020-02-26-EVM61
   date: 2020-02-26
@@ -317,6 +328,13 @@
   source: Ethereum Classic Labs
   title: "Ethereum Classic Labs Announces the EVM-LLVM Alpha Release"
 -
+  key: 2020-02-12-CNF
+  date: 2020-02-12
+  link https://www.crypto-news-flash.com/ethereum-classic-proposes-change-in-pow-and-records-an-increase-in-active-addresses/
+  author: Reynaldo
+  source: Crypto News Flash
+  title: "ETC Cooperative proposes change in PoW and records an increase in active addresses"
+-
   key: 2020-02-10-ETC-Labs
   date: 2020-02-10
   link: https://medium.com/ethereum-classic-labs/etc-labs-announces-collaboration-with-fantom-xar-network-fefe5d9bd1c5
@@ -337,6 +355,13 @@
   author: Associated Press
   source: Crypto Ninjas
   title: "Ethereum Classic Labs teams with Fantom and Xar Network to bring DeFi to ETC"
+-
+  key: 2020-02-08-CR
+  date: 2020-02-08
+  link: https://www.thecoinrepublic.com/2020/02/08/etc-upgrade-aztlan-is-now-in-integration-with-hyperledger-besu/
+  author: Ritka Sharma
+  source: The Coin Republic
+  title: "ETC Upgrade Aztlan Is Now In Integration With Hyperledger Besu"
 -
   key: 2020-02-07-Decrypt
   date: 2020-02-07
@@ -428,6 +453,20 @@
   author: Daniel Phillips
   source: Decrypt
   title: "Ethereum Classic pumps 11%, knocks out Monero and DASH"
+-
+  key: 2020-01-26-CNF
+  date: 2020-01-26
+  link https://www.crypto-news-flash.com/ethereum-classic-can-profit-from-ethereums-dapp-compatibility/
+  author: Reynaldo
+  source: Crypto News Flash
+  title: "Ethereum Classic can profit from Ethereum’s DApp compatibility"
+-
+  key: 2020-01-25-AMB
+  date: 2020-01-25
+  link: https://eng.ambcrypto.com/ethereum-classic-a-better-platform-than-eth-for-defi-projects/
+  author: Jude Lopez
+  source: AMB Crypto
+  title: "Ethereum Classic a better platform than ETH for DeFi projects"
 -
   key: 2020-01-24-ETC-Labs
   date: 2020-01-24
@@ -528,6 +567,20 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: Decrypt
   title: "Ethereum Classic price goes ballistic, racks up 30% gains"
 -
+  key: 2020-01-15-The-Street
+  date: 2020-01-15
+  link: https://www.thestreet.com/investing/cryptocurrency/cryptocurrency-in-focus-ethereum-classic-arms-itself-with-hard-fork
+  author: Flipside Crypto
+  source: The Street
+  title: "Cryptocurrency in Focus: Ethereum Classic Moves Closer to Sister Blockchain"
+-
+  key: 2020-01-14-FR
+  date: 2020-01-14
+  link: https://financialreport24.com/2707/why-did-ethereum-classic-cooperative-warn-the-public-about-the-possible-hard-fork-scam/
+  author: Rob Logan
+  source: Financial Report 24
+  title: "Why Did Ethereum Classic Cooperative Warn the Public About the Possible Hard Fork Scam?"
+-
   key: 2020-01-14-OriginalMy
   date: 2020-01-14
   link: https://www.nasdaq.com/articles/regtech-is-ready-for-a-breakthrough-in-latin-america-2020-01-14
@@ -570,6 +623,20 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: ETC Core
   title: "Agharta Hard-Fork Countdown [01-12-2020]"
 -
+  key: 2019-12-31-CG
+  date: 2019-12-31
+  link: https://www.cryptoglobe.com/latest/2019/12/ethereum-nodes-randomly-stop-syncing-as-parity-warns-of-potential-attack/
+  author: Francisco Memoria
+  source: Crypto Globe
+  title: "Some Parity Ethereum Nodes Not Syncing, Parity Suspects an Attack"
+-
+  key: 2019-12-26-CoinDesk
+  date: 2019-12-26
+  link: https://www.coindesk.com/the-ethereum-community-is-no-longer-fighting-with-itself
+  author: Bob Summerwill
+  source: Coin Desk
+  title: "The Ethereum Community Is No Longer Fighting With Itself"
+-
   key: 2019-12-26-CoinTelegraph
   date: 2019-12-26
   link: https://cointelegraph.com/news/agharta-hard-fork-to-bring-full-compatibility-between-etc-and-eth
@@ -591,6 +658,13 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: Constant P2P
   title: "Constant & ETC AMA Recap"
 -
+  key: 2019-12-20-CB
+  date: 2019-12-20
+  link: https://cryptobriefing.com/parity-confirms-departure-ethereum-move-dao/
+  author: Liam Kelly
+  source: Crypto Briefing
+  title: "Parity Confirms Departure from Ethereum Following Move to DAO"
+-
   key: 2019-12-17-CryptoDaily
   date: 2019-12-17
   link: https://cryptodaily.co.uk/2019/12/ethereum-classic-teams-rebrand-for-clarity
@@ -611,6 +685,13 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Highlights from Ethereum Classic Labs Keynote and Accelerator Updates"
+-
+  key: 2019-11-30-NCN
+  date: 2019-11-30
+  link: https://www.namecoinnews.com/p3c-io-set-to-be-renamed-to-commonwealth-gg-by-next-year/
+  author: Sara Gillard
+  source: Namecoin News
+  title: "P3C.io Set to Be Renamed to Commonwealth.gg by Next Year"
 -
   key: 2019-11-28-ETC-Labs
   date: 2019-11-28
@@ -752,6 +833,13 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: Bloq
   title: "Bloq and ETC Labs: Supporting Communities, Building Ecosystems"
 -
+  key: 2019-10-09-ECT-Labs
+  date: 2019-10-09
+  link: https://xangle.io/project/ETC/blog/5e1c1575c1409f3b716f474d
+  author: Ethereum Classic Labs
+  source: Xangle
+  title: "Ethereum Classic Labs Partners with Pulse Agent"
+-
   key: 2019-10-09-POA
   date: 2019-10-09
   link: https://medium.com/poa-network/poa-network-launches-the-first-full-featured-open-source-ethereum-explorer-blockscout-2612f065716f
@@ -773,6 +861,20 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: EtherPlan
   title: "Why Proof of Stake is Less Secure Than Proof of Work"
 -
+  key: 2019-09-27-ETC-Labs
+  date: 2019-09-27
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-presents-second-state-947d85ca31ee
+  author: Hiccups
+  source: Ethereum Classic Labs
+  title: "Ethereum Classic Labs Presents: Second State"
+-
+  key: 2019-09-24-
+  date: 2019-09-24
+  link: https://www.prweb.com/releases/second_state_launches_buidl_ide_for_ethereum_classic/prweb16593043.htm
+  author: Miley Fu
+  source: Second State
+  title: "Second State launches BUIDL IDE for Ethereum Classic"
+-
   key: 2019-09-18-Decrypt
   date: 2019-09-18
   link: https://decrypt.co/9372/progpow-advocate-uninvited-ethereum-summit-over-links-craig-wright
@@ -793,6 +895,27 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Jeff Benson
   source: Decrypt
   title: "Ethereum Classic Atlantis upgrade makes ETC more like ETH"
+-
+  key: 2019-09-10-ETC-Coop
+  date: 2019-09-10
+  link: https://medium.com/ethereum-classic/etc-support-in-hyperledger-besu-d70551830a24
+  author: Bob Summerwill
+  source: Ethereum Classic Cooperative
+  title: "ETC support in Hyperledger Besu"
+-
+  key: 2019-09-04-CoinTelegraph
+  date: 2019-09-04
+  link: https://cointelegraph.com/news/ethereum-classic-partners-with-blockchain-developer-and-media-dapp
+  author: Joeri Cant
+  source: Coin Telegraph
+  title: "Ethereum Classic Labs Partners With Blockchain Developer and Media DApp"
+-
+  key: 2019-09-01-Second-State
+  date: 2019-09-01
+  link: https://blog.secondstate.io/post/20190901-etc-partners-with-secondstate/
+  author: Second State
+  source: Second State
+  title: "Ethereum Classic partners with Second State to build the next generation Ethereum infrastructure"
 -
   key: 2019-08-23-ETC-Labs
   date: 2019-08-23
@@ -828,6 +951,20 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Donald McIntyre
   source: EtherPlan
   title: "Ethereum Classic vs Ethereum 2.0, What is the Difference?"
+-
+  key: 2019-06-28-CoinTelegraph
+  date: 2019-06-28
+  link: https://finance.yahoo.com/news/discovering-atlantis-ethereum-classic-hard-193700431.html
+  author: Valeria Beasrow
+  source: Coin Telegraph
+  title: "Discovering Atlantis: Ethereum Classic Hard Fork and What Will Change"
+-
+  key: 2019-06-20-CoinDesk
+  date: 2019-06-20
+  link: https://www.coindesk.com/ethereum-classics-next-crypto-code-upgrade-is-back-on-for-september
+  author: Christine Kim
+  source: Coin Desk
+  title: "Ethereum Classic’s Next Crypto Code Upgrade Set for September"
 -
   key: 2019-06-17-ETC-Labs
   date: 2019-06-17
@@ -969,6 +1106,13 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: Crypto Daily
   title: "Ethereum Classic Cooperative Welcomes Bob Summerwill"
 -
+  key: 2019-01-29-CB
+  date: 2019-01-29
+  link: https://cryptobriefing.com/ethereum-51-percent-attack-myth/
+  author: Clark Thompson
+  source: Crypto Briefing
+  title: "Ethereum Myth Busted: Apples To Oranges On 51 Percent Attacks"
+-
   key: 2019-01-27-CryptoDaily
   date: 2019-01-27
   link: https://cryptodaily.co.uk/2019/01/etc-51-attack-a-call-for-security-models
@@ -982,6 +1126,13 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Kyle Torpey
   source: Crypto Daily
   title: "If A Cryptocurrency Can’t Be 51% Attacked, Then It Isn’t Decentralized"
+-
+  key: 2019-01-14-CoindDesk
+  date: 2019-01-14
+  link: https://www.coindesk.com/the-ethereum-classic-attacker-has-sent-a-bigger-message
+  author: Micheal J. Casey
+  source: Coin Desk
+  title: "The Ethereum Classic Attacker Has Sent a Bigger Message"
 -
   key: 2019-01-14-CryptoDaily
   date: 2019-01-14
@@ -1031,6 +1182,13 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Adrian Barkley
   source: Crypto Daily
   title: "The Sturdiness Of Ethereum Classic"
+-
+  key: 2018-11-26-POA
+  date: 2018-11-26
+  link: https://www.cryptoninjas.net/2018/11/26/poa-network-releases-tokenbridge-for-easy-erc20-to-erc20-exchanges/
+  author: Associated Press
+  source: Crypto Ninjas
+  title: "POA Network releases TokenBridge for easy ERC20 to ERC20 exchanges"
 -
   key: 2018-11-21-CryptoDaily
   date: 2018-11-21
@@ -2116,16 +2274,30 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: Forbes
   title: "Ethereum And The Old Catholics"
 -
-  key: 2016-07-24-CD
+  key: 2016-07-26-EF
+  date: 2016-07-26
+  link: https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/
+  author: Vitalik Buterin
+  source: Ethereum Foundation
+  title: "Onward from the Hard Fork"
+-
+  key: 2016-07-24-CoinDesk
   date: 2016-07-24
   link: http://www.coindesk.com/ethereum-hard-fork-creates-competing-currencies-support-ethereum-classic-rises/
   author: Pete Rizzo
   source: Coin Desk
   title: "Ethereum Hard Fork Creates Competing Currencies as Support for Ethereum Classic Rises"
 -
-  key: 2016-07-20-Ethereum
+  key: 2016-07-20-BM
   date: 2016-07-20
   link: http://bitcoinmagazine.com/articles/rejecting-today-s-hard-fork-the-ethereum-classic-project-continues-on-the-original-chain-here-s-why-1469038808
   author: Aaron Van Wirdum
   source: Bitcoin Magazine
   title: "Here's Why Ethereum Classic Project Continues on the Original Chain"
+-
+  key: 2016-07-20-EF
+  date: 2016-07-20
+  link: https://blog.ethereum.org/2016/07/20/hard-fork-completed/
+  author: Vitalik Buterin
+  source: Ethereum Foundation
+  title: "Hard Fork Completed"
