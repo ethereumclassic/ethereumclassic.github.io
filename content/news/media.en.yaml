@@ -1,4 +1,28 @@
 -
+  key: 2020-0--
+  date: 2020-0-
+  link:
+  author:
+  source:
+  title: ""
+-
+  key: 2019-0--
+  date: 2019-0-
+  link:
+  author:
+  source:
+  title: ""
+
+
+
+
+
+
+
+
+
+
+-
   key: 2020-03-30-ETC-Core
   date: 2020-03-30
   link: https://medium.com/etc-core/how-to-contribute-to-mordor-testnet-ethereum-classic-881490bdd121
@@ -727,6 +751,13 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Jeff Garzik
   source: Bloq
   title: "Bloq and ETC Labs: Supporting Communities, Building Ecosystems"
+-
+  key: 2019-10-09-POA
+  date: 2019-10-09
+  link: https://medium.com/poa-network/poa-network-launches-the-first-full-featured-open-source-ethereum-explorer-blockscout-2612f065716f
+  author: POA Network
+  source: POA Network
+  title: "POA Network Launches the First Full Featured Open-Source Ethereum Explorer BlockScout"
 -
   key: 2019-10-09-ETC-Labs
   date: 2019-10-09
