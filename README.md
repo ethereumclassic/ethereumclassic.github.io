@@ -6,14 +6,24 @@
 
 - [Main site](https://ethereumclassic.org/)
 - [Build logs](https://app.netlify.com/sites/ethereumclassic/deploys)
+- [Edit on GitPod](https://gitpod.io/#https://github.com/ethereumclassic/ethereumclassic.github.io)
 
-## Content
+## Contribute
 
 Become a contributor to the [ethereumclassic.org](https://ethereumclassic.org/) website!
 
 <div>
   <img src="https://github.com/ethereumclassic/Media_Kit/blob/master/Graphic_Design/ETC_Community/etc---decentralized-development_38612869451_o.png" alt="ETC Decentralized Development">
   </div>
+
+### General Instructions
+
+If you want to modify content or add blog articles, you can do so in a number of ways:
+
+- Clone this repository your self, and run using `npm start` (requires Linux/Mac, Node JS installed)
+- [Edit on GitPod](https://gitpod.io/#https://github.com/ethereumclassic/ethereumclassic.github.io) and submit a PR
+- Create an issue with suggested changes (a maintainer will implement the changes)
+- Edit directly on github, for example:
 
 ### Media Page - Third-Party Article Submission
 
@@ -26,9 +36,9 @@ If you'd like to submit an Ethereum Classic related article to the website's Med
 2. Navigate to the file `..\ethereumclassic.github.io\content\news\media.en.yaml`
 3. Open `media.en.yaml` to edit
 4. Review the existing format of the articles in the file.
-5. Add your article to the file. Save your changes.
+5. Add your article to the file. Ensure the formatting is correct. Save your changes.
     * Note: The articles are listed in reverse chronological order with the most recent articles at the top of the document. Please add your article in-line with this order.
-6. Make a Pull Request from the active branch in your repo to the `ethereumclassic:develop` branch using the big green button.
+6. Make a Pull Request from the active branch in your repo to the `ethereumclassic:master` branch using the big green button.
     * Instructions: [Creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 7. Celebrate. You just contributed to an open source, decentralized blockchain project!
 
