@@ -1,5 +1,5 @@
 tasks:
-  - init: npm install
+  - init: npm install && npm run build
     command: npm start
   - command: echo "To create a new blog, type; npm run create:blog"
 ports:
