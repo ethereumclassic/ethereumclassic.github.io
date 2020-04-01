@@ -5,7 +5,7 @@
   releaseLink: https://github.com/etclabscore/multi-geth/releases/
   supportLink: https://gitter.im/core-geth/community
   supportIcon: fab fa-gitter
-  text: Core-Geth is a distribution of go-etheruem with many flavors.
+  text: Core-Geth is a distribution of go-ethereum with many flavors.
 -
   key: Hyperledger Besu
   name: Hyperledger Besu
