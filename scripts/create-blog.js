@@ -61,8 +61,8 @@ Happy authoring!
   const filePath = `${folder}/${fileName}`;
   const fullPath = path.resolve(filePath);
 
-  await fs.mkdirSync(folder);
-  await fs.writeFileSync(fullPath, content);
+  fs.mkdirSync(folder);
+  fs.writeFileSync(fullPath, content);
 
-  console.log(`👉 ${filePath}`);
+  console.log(`👉  ${filePath}`);
 })();
