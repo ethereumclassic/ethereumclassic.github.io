@@ -27,7 +27,6 @@ export const query = graphql`
     allMdx(
       filter: {
         fields: { locale: { eq: $locale }, parent: { eq: "blog" } }
-        frontmatter: { unlisted: { ne: true } }
       }
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
