@@ -337,7 +337,7 @@
 -
   key: 2020-02-12-CNF
   date: 2020-02-12
-  link https://www.crypto-news-flash.com/ethereum-classic-proposes-change-in-pow-and-records-an-increase-in-active-addresses/
+  link: https://www.crypto-news-flash.com/ethereum-classic-proposes-change-in-pow-and-records-an-increase-in-active-addresses/
   author: Reynaldo
   source: Crypto News Flash
   title: "ETC Cooperative proposes change in PoW and records an increase in active addresses"
@@ -463,7 +463,7 @@
 -
   key: 2020-01-26-CNF
   date: 2020-01-26
-  link https://www.crypto-news-flash.com/ethereum-classic-can-profit-from-ethereums-dapp-compatibility/
+  link: https://www.crypto-news-flash.com/ethereum-classic-can-profit-from-ethereums-dapp-compatibility/
   author: Reynaldo
   source: Crypto News Flash
   title: "Ethereum Classic can profit from Ethereum’s DApp compatibility"
@@ -2151,7 +2151,6 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   key: 2016-08-11-NB
   date: 2016-08-11
   link: http://www.newsbtc.com/2016/08/11/white-hat-hackers-could-have-crashed-ethereum-classic/
-  author:
   source: News BTC
   title: "White Hat Hackers Could Have Crashed Ethereum Classic"
 -
@@ -2228,7 +2227,7 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   key: 2016-07-31-NB
   date: 2016-07-31
   link: http://www.newsbtc.com/2016/07/31/51pool-attack-plans-51-network-attack-ethereum-classic/
-  author Associated Press
+  author: Associated Press
   source: News BTC
   title: "51Pool Attack Plans 51% Network Attack Against Ethereum Classic"
 -
