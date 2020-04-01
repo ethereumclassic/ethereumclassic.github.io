@@ -16,10 +16,14 @@ Become a contributor to the [ethereumclassic.org](https://ethereumclassic.org/) 
 
 If you want to modify content or add blog articles, you can do so in a number of ways:
 
-- Clone this repository your self, and run using `npm start` and `npm run create:blog` (requires Linux/Mac, Node JS installed)
-- [Edit on GitPod](https://gitpod.io/#https://github.com/ethereumclassic/ethereumclassic.github.io) and submit a PR
+- Clone this repository yourself, and run using `npm start` (requires Linux/Mac & Node JS installed)
+- [Edit on GitPod](https://gitpod.io/#https://github.com/ethereumclassic/ethereumclassic.github.io)
 - Create an issue with suggested changes (a maintainer will implement the changes)
-- Edit directly on github, for example:
+- Edit directly on github
+
+See `package.json` for a list of scripts that can be run to automate content creation. E.g. `npm run create:blog`.
+
+You can also manually edit content by modifying files in the `content` directory.
 
 ### Media Page - Third-Party Article Submission
 
@@ -29,34 +33,26 @@ If you'd like to submit an Ethereum Classic related article to the website's Med
 
 1. Fork this repository to your personal GitHub account.
     - Optional: Clone locally on your machine.
-2. Navigate to the file `..\ethereumclassic.github.io\content\news\media.en.yaml`
+2. Navigate to the file `content/news/media.en.yaml`
 3. Open `media.en.yaml` to edit
 4. Review the existing format of the articles in the file.
 5. Add your article to the file. Ensure the formatting is correct. Save your changes.
     - Note: The articles are listed in reverse chronological order with the most recent articles at the top of the document. Please add your article in-line with this order.
 6. Make a Pull Request from the active branch in your repo to the `ethereumclassic:master` branch using the big green button.
     - Instructions: [Creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
-7. Celebrate. You just contributed to an open source, decentralized blockchain project!
+7. Celebrate. You just contributed to an open source, decentralized blockchain project! 🎉
 
 ### Too complicated to contribute?
 
-If you're not familiar with GitHub and all of this is too complicated, then you can simply paste your article into a `New Issue` and another contributor can make a PR for you. Also, you can reach out for help from other contributors in the [discord #ethereumclassicwebsite](https://discord.gg/DwQjJ8) channel.
+If you're not familiar with GitHub and all of this is too complicated, then you can simply input your content suggestion or new article into a [New Issue](https://github.com/ethereumclassic/ethereumclassic.github.io/issues/new/choose) and another contributor can make a PR for you. Also, you can reach out for help from other contributors in the [discord #ethereumclassicwebsite](https://discord.gg/DwQjJ8) channel.
 
 ### Contribute Translations
 
 Ethereum Classic is a global, decentralized project. We need translators for every language. If you'd like to contribute content translations to the project, please join the [discord #ethereumclassicwebsite](https://discord.gg/DwQjJ8) channel.
 
-### Suggesting New Content
-
-If you would like to suggest new content for the website, please create a `New Issue` in this repository. A contributor will review the issue. if there are no issues with the contribution, it will b added to the website in a timely manner. For a timely dialog related to new content, please consider joining the [discord #ethereumclassicwebsite](https://discord.gg/DwQjJ8) channel.
-
-### 2020 Phoenix Website Modernization Project
-
-The website is currently going through a modernization project to bring it up to 2020 standards. The overall structure and content is currently being finalized in this repo's [wiki](https://github.com/ethereumclassic/ethereumclassic.github.io/wiki). If you'd like to join our efforts in modernizing the website, please consider joining our active discussion in the [discord #ethereumclassicwebsite](https://discord.gg/DwQjJ8) channel. We can always use more hands.
-
 ## Deployment
 
-Updates to the `master` branch are automatically built and deployed to [https://ethereumclassic.org/](https://ethereumclassic.org/] via `netlify`. The `master` branch is protected; pull requests must be made against it and approved by 3 contributors.
+Updates to the `master` branch are automatically built and deployed to [https://ethereumclassic.org/](https://ethereumclassic.org/) via `netlify`. The `master` branch is protected; pull requests must be made against it and approved by 3 contributors.
 
 All other branches will be automatically built and deployed via `netlify`.
 
@@ -68,7 +64,7 @@ This project uses [gatsby](https://www.gatsbyjs.org/) and a custom i18n content 
 
 To run the development mode, clone this repo, run `npm install` followed by `npm start`.
 
-See `package.json` for scripts scripts.
+See `package.json` for scripts.
 
 Issues and pull requests are welcome. You can also get an overview of issues on the [project kanban](https://github.com/ethereumclassic/ethereumclassic.github.io/projects/1).
 
