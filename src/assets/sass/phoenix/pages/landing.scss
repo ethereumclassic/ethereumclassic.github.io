@@ -13,7 +13,7 @@
       margin-top: -$headerMargin;
     }
     p.tagline {
-      font-size: 0.9rem !important;
+      font-size: 1rem !important;
       font-weight: 200;
     }
     h1 {
@@ -21,7 +21,9 @@
     }
 
     @include breakpoint('<=medium') {
-
+      h1 {
+        margin-bottom: 0;
+      }
       h1,
       p {
         padding-left: $headerMargin;

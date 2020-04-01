@@ -117,6 +117,7 @@
   font-size: 1.4rem;
 }
 
+// top header banner on pages
 #page-header {
   background: _palette(accent);
 
@@ -173,6 +174,31 @@
 
       &:hover {
         color: $white;
+      }
+    }
+  }
+}
+
+// hacky paradigm-shift override
+
+#wrapper > section {
+  $width: 40rem;
+  >.content {
+    max-width: $width;
+  }
+  >header {
+    p, h2 {
+      max-width: $width;
+    }
+  }
+  >header, >.content {
+    > * {
+      max-width: none;
+    }
+    @include breakpoint('<=medium') {
+      max-width: none;
+      p, h2 {
+        max-width: none;
       }
     }
   }
