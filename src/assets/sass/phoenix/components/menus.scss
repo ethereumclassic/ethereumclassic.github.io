@@ -86,20 +86,13 @@
 
 .pagination {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 2fr;
+  margin: 0;
+  margin-top: -$smallPadding;
   margin-bottom: $smallPadding;
-  margin-top: 0;
 }
-
-// grids
-@include breakpoint('<=small') {
-  .pagination {
-    margin-top: $smallPadding;
-  }
-
-  .wide .pagination {
-    margin-top: 0;
-  }
+.layout-header .pagination {
+  margin-bottom: 0;
 }
 
 .sub-menu li.selected {
@@ -167,5 +160,6 @@
 .tabs-child {
   border: 2px solid #ddd;
   padding: $smallPadding;
+  padding-bottom: 0;
   border-top: 0;
 }

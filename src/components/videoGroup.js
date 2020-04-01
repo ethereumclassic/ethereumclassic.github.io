@@ -15,7 +15,7 @@ const VideoGroup = ({ title, items, header }) => {
           <h4>{name}</h4>
           {text && <p>{html(text)}</p>}
           <VideoFrame title={name} youtube={youtube} timestamp={timestamp} />
-          <Link to={link} />
+          <Link to={link} className="video-link" />
         </div>
       ))}
     </div>

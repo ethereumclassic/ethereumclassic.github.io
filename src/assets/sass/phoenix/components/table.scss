@@ -6,3 +6,7 @@ table ul.icons {
   overflow: scroll;
   margin-bottom: $smallPadding;
 }
+
+table tr.faded {
+  opacity: 0.5;
+}

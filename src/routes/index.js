@@ -77,10 +77,8 @@ export const query = graphql`
       }
     }
     allMdx(
-      filter: {
-        fields: { locale: { eq: $locale }, parent: { eq: "blog" } }
-      }
-      limit: 3
+      filter: { fields: { locale: { eq: $locale }, parent: { eq: "blog" } } }
+      limit: 5
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
       edges {

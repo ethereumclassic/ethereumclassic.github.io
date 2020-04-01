@@ -1,8 +1,6 @@
 // buttons
 .read-more {
-  display: inline-block;
   white-space: nowrap;
-
   i {
     margin-right: 0;
   }
@@ -26,11 +24,14 @@
 
   &:hover {
     background: rgba(255, 255, 255, .3);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.05);
   }
 
   &.big {
     padding: 0.2em 1rem;
     font-size: 1.2rem;
+    font-family: '_HeaderFont';
+    text-transform: uppercase;
   }
 
   &.massive {

@@ -15,5 +15,8 @@
     width: $bgSize;
     line-height: $bgSize;
     margin-bottom: $tinyPadding;
+    p {
+      margin-bottom: 0;
+    }
   }
 }

@@ -55,7 +55,7 @@ const SubPageLayout = ({ children, ...props }) => {
       {!isParent && <hr />}
       {showPagination && renderPagination({ previousLink, nextLink, nextText: true })}
       {!isParent && (
-        <h2>
+        <h2 className="learn-more">
           <Translate text="learnMore" />
           {': '}
           <small>{sectionTitle}</small>

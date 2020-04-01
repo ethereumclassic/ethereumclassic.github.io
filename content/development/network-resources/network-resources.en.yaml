@@ -28,9 +28,7 @@ clients: |
 chainsTitle: |
   > ## ETC Virtual Machine Chains
 explorersTitle: | 
-  ## Blockchain Explorers
-
-  Decription goes here
+  > ## Blockchain Explorers
 monitorsTitle: | 
   > ## Network Monitors
 faucetsTitle: | 

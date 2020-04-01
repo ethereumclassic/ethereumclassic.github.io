@@ -6,7 +6,7 @@
 
 // Duration.
 	$duration: (
-		transition:					0.25s,
+		transition:					0.15s,
 		gallery-lightbox-fadein:	0.5s
 	);
 
@@ -25,17 +25,17 @@
 
 // Font.
 	$font: (
-		family:					('Source Sans Pro', Helvetica, sans-serif),
+		family:					('_BodyFont', sans-serif),
 		family-fixed:			('Courier New', monospace),
-		family-heading:			('Raleway', Helvetica, sans-serif),
-		weight:					300,
+		family-heading:			('_HeaderFont', sans-serif),
+		weight:					200,
 		weight-bold:			600,
-		weight-extrabold:		700,
-		weight-heading:			800,
-		weight-heading-light:	600,
+		weight-extrabold:		600,
+		weight-heading:			400,
+		weight-heading-light:	400,
 		kerning:				0.0375em,
 		kerning-heading:		0.175em,
-		kerning-heading-alt:	-0.05em
+		kerning-heading-alt:	0em
 	);
 
 // Palette.

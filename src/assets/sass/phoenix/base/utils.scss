@@ -28,14 +28,16 @@
 }
 
 .tip {
-  background: rgba(0, 230, 150, 0.1);
+  background: _palette('accent-bg');
   padding: $microPadding $tinyPadding;
   border-radius: $tinyPadding;
-  margin-bottom: $tinyPadding;
-  font-size: 0.9rem;
-  color: rgba(0, 0, 0, .8)
+  margin: $microPadding 0;
 }
 
 .shaded {
   background: #f5f5f5;
+}
+
+.link-item {
+  margin: $largePadding 0;
 }

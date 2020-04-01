@@ -1,36 +1,71 @@
 #wrapper {
-  .copyright a.button-link {
-    color: initial;
-  }
   .layout-content section {
     display: block;
   }
+
+  section {
+    margin-bottom: $smallPadding;
+  }
+
   &.page {
     .layout-container {
       background: white;
+      padding: $tinyPadding 0;
+
+      section {
+        margin: 0;
+      }
+
+      .layout-header {
+        margin-bottom: $smallPadding;
+      }
+
+      .layout-footer {
+        margin-top: $smallPadding;
+      }
+
+      .layout-content {
+        margin-bottom: $smallPadding;
+        margin-top: $smallPadding;
+      }
     }
-    .layout-content {
-      margin: auto;
+
+    &.thin .layout-content,
+    &.wide .layout-content>section {
+      margin-left: auto;
+      margin-right: auto;
       max-width: $maxPageWidth;
-      padding: $largePadding;
+      padding: 0 $largePadding;
 
       @include breakpoint('<=small') {
-        padding: $smallPadding;
+        padding: 0 $smallPadding;
       }
     }
-    &.wide .layout-content {
-      max-width: none;
-      margin: 0;
-      padding: $largePadding 0;
-      > section {
-        margin-left: auto;
-        margin-right: auto;
-        max-width: $maxPageWidth;
-        padding: 0 $largePadding;
-        @include breakpoint('<=small') {
-          padding: 0 $smallPadding;
+  }
+
+  .footer {
+    h4 {
+      // background: red;
+      margin-top: $smallPadding;
+      margin-bottom: $microPadding;
+    }
+
+    ul.icons {
+      li {
+        margin-right: $microPadding;
+
+        a {
+          background: _palette('accent-bg');
         }
       }
+    }
+  }
+
+  .copyright {
+    color: inherit;
+    .sign-off {
+      opacity: 0.4;
+      margin-top: $smallPadding;
     }
   }
 }
@@ -39,12 +74,15 @@
   background: white;
   position: relative;
   padding: $largePadding;
+
   @include breakpoint('<=small') {
     padding: $largePadding $smallPadding;
   }
+
   .container {
     max-width: $maxPageWidth;
     margin: auto;
+
     &.full {
       max-width: none;
     }
@@ -58,56 +96,84 @@
   margin-bottom: $smallPadding;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: auto;
+
   @include breakpoint('<=small') {
     grid-template-columns: 1fr !important;
   }
+
   &.wide,
   &.semi {
     padding: 0 $smallPadding;
   }
+
   &.semi {
     max-width: $maxWideSectionWidth;
     margin: auto;
   }
 }
 
+.learn-more {
+  font-weight: 400;
+  font-size: 1.4rem;
+}
+
 #page-header {
   background: _palette(accent);
+
   header {
     max-width: $maxPageWidth;
     padding: $tinyPadding $largePadding;
     margin: auto;
+
     @include breakpoint('<=small') {
       padding: $tinyPadding $smallPadding;
     }
   }
-  img {
-    max-width: 30px;
-    @include breakpoint('<=small') {
-      max-width: 20px;
-    }
-    margin-right: $tinyPadding;
-    display: inline;
-  }
-  a {
-    border-bottom: none;
-    &:hover {
-      color: $white;
-    }
-  }
+
   h1 {
+    $size: 2.5rem;
+    $smallSize: 2rem;
+    $tinySize: 1.5rem;
     margin: 0;
-    display: inline;
-    font-size: 2.5rem;
-    @include breakpoint('<=small') {
-      font-size: $smallPadding;
+    font-size: $size;
+    vertical-align: middle;
+
+    img {
+      height: $size;
+      margin-right: 0.8rem;
+      float: left;
     }
+
+    @include breakpoint('<=small') {
+      font-size: $smallSize;
+
+      img {
+        height: $smallSize;
+      }
+    }
+
+    @include breakpoint('<=xsmall') {
+      font-size: $tinySize;
+
+      img {
+        height: $tinySize;
+      }
+    }
+
     small {
       font-size: 1rem;
       text-transform: uppercase;
       white-space: nowrap;
       letter-spacing: 0.05rem;
       padding-left: 0.2rem;
+    }
+
+    a {
+      border-bottom: none;
+
+      &:hover {
+        color: $white;
+      }
     }
   }
 }

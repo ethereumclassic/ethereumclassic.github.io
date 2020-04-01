@@ -12,6 +12,13 @@
       margin-right: -$logoSize;
       margin-top: -$headerMargin;
     }
+    p.tagline {
+      font-size: 0.9rem !important;
+      font-weight: 200;
+    }
+    h1 {
+      font-size: 3.5rem;
+    }
 
     @include breakpoint('<=medium') {
 

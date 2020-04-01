@@ -26,7 +26,7 @@
     padding: $microPadding $smallPadding;
   }
 
-  h4,
+  h5,
   p {
     margin-left: $smallPadding;
   }
@@ -42,7 +42,7 @@
     &:nth-child(odd) {
       text-align: right;
 
-      h4,
+      h5,
       p {
         margin-right: $smallPadding;
         margin-left: 0;
@@ -67,7 +67,7 @@
 
     .item:nth-child(odd) {
 
-      h4,
+      h5,
       p {
         margin-right: 0;
         margin-left: $smallPadding;
