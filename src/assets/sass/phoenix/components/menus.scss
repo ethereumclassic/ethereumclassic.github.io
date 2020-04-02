@@ -35,7 +35,7 @@
 
 .hamburger {
   $buttonSize: 2.5rem;
-  $dropdownPadding: 10px;
+  $spacing: $nanoPadding;
 
   input+label {
     &::before {
@@ -53,24 +53,31 @@
     text-transform: none;
     letter-spacing: inherit;
     font-weight: 100;
-    margin-bottom: $dropdownPadding;
+    margin-bottom: $spacing;
   }
 
   .buttons {
+    font-family: '_HeaderFont';
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-right: $spacing;
     display: none;
     position: absolute;
-    margin-right: $dropdownPadding;
     right: 0;
-    background: _palette(bg);
     padding: 0;
-    max-height: 50vh;
-    overflow-y: auto;
-    box-shadow: $softShadow;
   }
 
   a {
     display: block;
     cursor: pointer;
+    padding: $nanoPadding $microPadding;
+    margin-bottom: $nanoPadding;
+    background: _palette(bright);
+    // box-shadow: $tightShadow;
+    &:hover {
+      background:_palette(t-black-80);
+      color: _palette(bg);
+    }
   }
 
   input:checked+label {
