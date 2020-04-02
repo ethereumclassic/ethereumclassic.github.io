@@ -5,19 +5,37 @@
   text-align: center;
   display: flex;
   align-items: center;
-  justify-content: center;
-
   i {
     font-size: 2em;
-    margin: $tinyPadding;
+    margin: auto;
+    // margin: $tinyPadding;
   }
 
   &.not-playing {
     cursor: pointer;
-
     &:hover {
-      background: _palette(grey-20);
+      background: _palette(fg);
+      color: _palette(bg);
+      .preview {
+        opacity: 0.8;
+      }
     }
+  }
+  position: relative;
+  .play { 
+    width: 100%;
+    z-index: 1;
+  }
+  .preview {
+    position: absolute;
+    opacity: 0.5;
+    top: 0;
+    left:0;
+    bottom:0;
+    right:0;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;  
   }
 }
 
