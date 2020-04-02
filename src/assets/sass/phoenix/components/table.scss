@@ -1,12 +1,29 @@
+.table {
+  background: _palette(bright);
+  box-shadow: $softShadow;
+  padding: $smallPadding $microPadding;
+  border-radius: $roundedTight;
+  table {
+    margin: 0;
+  }
+}
 table ul.icons {
   margin: 0;
 }
 
 .item-table .table {
-  overflow: scroll;
+  overflow-x: scroll;
   margin-bottom: $smallPadding;
 }
 
 table tr.faded {
   opacity: 0.5;
+}
+
+table i.check {
+  color: _palette(t-black-20);
+  // text-shadow: $textShadow;
+  &.success {
+    color: _palette(dark-green-col);
+  }
 }

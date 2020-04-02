@@ -14,7 +14,7 @@
   background: _palette(t-black-10);
   border-bottom: 2px solid _palette(t-black-20);
   box-shadow: $buttonShadow;
-  border-radius: 0.3rem;
+  border-radius: $roundedTight;
 
   i.left {
     margin-left: 0;
@@ -64,7 +64,7 @@
 
 .info-buttons-group {
   background: _palette(bright);
-  border-radius: $microPadding;
+  border-radius: $roundedTight;
   border: $solidDarkLine;
   box-shadow: $softerShadow;
 

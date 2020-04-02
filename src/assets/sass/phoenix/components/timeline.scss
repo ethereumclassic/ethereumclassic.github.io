@@ -23,11 +23,11 @@
   }
 
   .item:first-child .date {
-    border-radius: 1rem 0 0 1rem;
+    border-radius: $roundedTight 0 0 $roundedTight;
   }
 
   .item:last-child .date {
-    border-radius: 0 1rem 1rem 0;
+    border-radius: 0 $roundedTight $roundedTight 0;
   }
 
   .item {

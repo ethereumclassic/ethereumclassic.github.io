@@ -127,36 +127,31 @@
 $tabBg: _palette(bright);
 
 .tabs {
-  // border-bottom: $solidDarkLine;
   padding: 0;
   white-space: nowrap;
-
   a {
     display: inline-block;
-    border: none;
     background: _palette(t-black-10);
     opacity: 0.7;
     padding: $nanoPadding $tinyPadding;
-    margin-left: $microPadding;
-    border-top-left-radius: $microPadding;
-    border-top-right-radius: $microPadding;
+    margin-left: $roundedTight;
+    border-top-left-radius: $roundedTight;
+    border-top-right-radius: $roundedTight;
     border: $solidDarkLine;
-    // margin-bottom: -2px;
-
+    border-bottom: 0;
     &:hover {
       opacity: 0.9;
     }
 
     &.selected {
       opacity: 1;
-      border-bottom: $darkLineWeight solid $tabBg;
       background: $tabBg;
     }
   }
 }
 
 .tabs-child {
-  border-radius: $microPadding;
+  border-radius: $roundedTight;
   background: $tabBg;
   border: $solidDarkLine;
   padding: $smallPadding;

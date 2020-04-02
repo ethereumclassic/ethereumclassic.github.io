@@ -9,7 +9,7 @@ $grid-color-5:_palette(orange-col);
   background: _palette(bg);
   box-shadow: $softShadow;
   $radius: $microPadding;
-  border-radius: $radius;
+  border-radius: $roundedTight;
   
   h4 {
     background: _palette(accent);
@@ -110,7 +110,7 @@ a.card {
     display: inline-block;
     margin: 0 $microPadding $microPadding 0;
     padding: $nanoPadding $tinyPadding;
-    border-radius: $microPadding;
+    border-radius: $roundedTight;
     border-bottom: $solidDarkLine;
 
     cursor: pointer;

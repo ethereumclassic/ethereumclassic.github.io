@@ -1,4 +1,9 @@
-// Phoenix colors are imported in to paradigm-shift
+$largePadding: 4rem;
+$hugePadding: $largePadding * 2;
+$smallPadding: $largePadding / 2;
+$tinyPadding: $smallPadding / 2;
+$microPadding: $tinyPadding / 2;
+$nanoPadding: $microPadding / 2;
 
 $white: #f5f5f6;
 $black: #131313;
@@ -24,9 +29,5 @@ $solidDarkLine: $darkLineWeight solid $darkLineCol;
 $maxPageWidth: 55rem;
 $maxWideSectionWidth: $maxPageWidth + 30rem;
 
-$largePadding: 4rem;
-$hugePadding: $largePadding * 2;
-$smallPadding: $largePadding / 2;
-$tinyPadding: $smallPadding / 2;
-$microPadding: $tinyPadding / 2;
-$nanoPadding: $microPadding / 2;
+$roundedTight: $microPadding;
+$roundedLoose: $microPadding;

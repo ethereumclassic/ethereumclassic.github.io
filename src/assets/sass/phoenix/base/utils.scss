@@ -2,7 +2,11 @@
   background: _palette(grey-10);
   box-shadow: 0 $tinyPadding $smallPadding _palette(t-black-20);
   padding: $smallPadding;
-  border-radius: $smallPadding;
+  border-radius: $roundedTight;
+}
+
+.text-center {
+  text-align: center;
 }
 
 .text-right {
@@ -30,7 +34,7 @@
 .tip {
   background: _palette('accent-bg');
   padding: $microPadding $tinyPadding;
-  border-radius: $tinyPadding;
+  border-radius: $roundedTight;
   margin: $microPadding 0;
 }
 

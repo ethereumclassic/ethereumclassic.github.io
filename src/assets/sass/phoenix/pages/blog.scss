@@ -32,6 +32,7 @@
 }
 
 .latest-blog-posts .blog-items {
+  border-radius: $roundedTight;
   height: 25rem;
   overflow-y: scroll;
   border: $solidDarkLine;
