@@ -12,7 +12,7 @@
   }
 
   label {
-    background: rgba(0, 0, 0, 0.1);
+    background: _palette(t-black-10);
   }
 
   a {
@@ -61,7 +61,7 @@
     position: absolute;
     margin-right: $dropdownPadding;
     right: 0;
-    background: white;
+    background: _palette(bg);
     padding: 0;
     max-height: 50vh;
     overflow-y: auto;
@@ -74,8 +74,8 @@
   }
 
   input:checked+label {
-    background-color: black !important;
-    color: $white;
+    background-color: _palette(fg) !important;
+    color: _palette(bg);
   }
 
   input:checked~.buttons {
@@ -90,9 +90,6 @@
   margin: 0;
   margin-top: -$smallPadding;
   margin-bottom: $smallPadding;
-}
-.layout-header .pagination {
-  margin-bottom: 0;
 }
 
 .sub-menu li.selected {
@@ -114,11 +111,11 @@
   }
 
   a:nth-child(odd) {
-    background: rgba(0, 0, 0, .04);
+    background: _palette(t-black-10);
   }
 
   a:hover {
-    background: #eee;
+    background: _palette(grey-10);
   }
 
   .text {
@@ -127,23 +124,24 @@
   }
 }
 
+$tabBg: _palette(bright);
 
 .tabs {
-  border-bottom: $solidBottom;
+  // border-bottom: $solidDarkLine;
   padding: 0;
   white-space: nowrap;
 
   a {
     display: inline-block;
     border: none;
-    background: #ddd;
+    background: _palette(t-black-10);
     opacity: 0.7;
     padding: $nanoPadding $tinyPadding;
     margin-left: $microPadding;
     border-top-left-radius: $microPadding;
     border-top-right-radius: $microPadding;
-    border: 2px solid #ddd;
-    margin-bottom: -2px;
+    border: $solidDarkLine;
+    // margin-bottom: -2px;
 
     &:hover {
       opacity: 0.9;
@@ -151,15 +149,18 @@
 
     &.selected {
       opacity: 1;
-      border-bottom: 2px solid white;
-      background: white;
+      border-bottom: $darkLineWeight solid $tabBg;
+      background: $tabBg;
     }
   }
 }
 
 .tabs-child {
-  border: 2px solid #ddd;
+  border-radius: $microPadding;
+  background: $tabBg;
+  border: $solidDarkLine;
   padding: $smallPadding;
   padding-bottom: 0;
   border-top: 0;
+  box-shadow: $softShadow;
 }

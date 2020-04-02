@@ -32,12 +32,7 @@
   }
 
   .item {
-    // background: blue;
     padding-bottom: $tinyPadding;
-
-    &.blue .date {
-      border-bottom: $lineThickness solid blue;
-    }
 
     &:nth-child(odd) {
       text-align: right;

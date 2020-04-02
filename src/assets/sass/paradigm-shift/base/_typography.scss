@@ -44,11 +44,11 @@
 		@include vendor('transition', 'border-bottom-color #{_duration(transition)} ease-in-out');
 		text-decoration: none;
 		color: _palette(fg-bold);
-		border-bottom: dashed 1px rgba(0,0,0,.4);
+		border-bottom: dashed 1px _palette(t-black-30);
 
 		&:hover {
 			text-decoration: none;
-			border-bottom: dashed 1px rgba(0,0,0,.1);
+			border-bottom: dashed 1px _palette(t-black-10);
 		}
 	}
 

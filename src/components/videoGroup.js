@@ -14,8 +14,10 @@ const VideoGroup = ({ title, items, header }) => {
         <div key={key} className="video-item">
           <h4>{name}</h4>
           {text && <p>{html(text)}</p>}
-          <VideoFrame title={name} youtube={youtube} timestamp={timestamp} />
-          <Link to={link} className="video-link" />
+          <div className="video-container">
+            <VideoFrame title={name} youtube={youtube} timestamp={timestamp} link={link} />
+            <Link to={link} className="video-link" />
+          </div>
         </div>
       ))}
     </div>

@@ -1,3 +1,6 @@
+body {
+  background: _palette(bright);
+}
 #wrapper {
   .layout-content section {
     display: block;
@@ -9,8 +12,8 @@
 
   &.page {
     .layout-container {
-      background: white;
-      padding: $tinyPadding 0;
+      background: _palette(bg);
+      padding: $smallPadding 0;
 
       section {
         margin: 0;
@@ -55,7 +58,13 @@
         margin-right: $microPadding;
 
         a {
-          background: _palette('accent-bg');
+          box-shadow: $tightShadow;
+          background: _palette(green-col);
+          &:hover {
+            box-shadow: $softShadow;
+            color: _palette(t-black-40);
+            background: _palette(light-green-col);
+          }
         }
       }
     }
@@ -71,7 +80,7 @@
 }
 
 .wide-section {
-  background: white;
+  background: _palette(bg);
   position: relative;
   padding: $largePadding;
 
@@ -120,7 +129,10 @@
 // top header banner on pages
 #page-header {
   background: _palette(accent);
-
+  border-bottom: 1px solid transparentize(_palette(bright), 0.30);
+  box-shadow: $softerShadow;
+  z-index: 1;
+  position: relative;
   header {
     max-width: $maxPageWidth;
     padding: $tinyPadding $largePadding;
@@ -173,7 +185,7 @@
       border-bottom: none;
 
       &:hover {
-        color: $white;
+        color: _palette(bg);
       }
     }
   }

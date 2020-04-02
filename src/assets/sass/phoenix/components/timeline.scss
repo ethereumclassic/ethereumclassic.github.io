@@ -4,7 +4,7 @@
   margin-bottom: $smallPadding;
 
   .items {
-    background: #eee;
+    background: _palette(grey-10);
     white-space: nowrap;
     overflow-x: auto;
   }
@@ -42,8 +42,7 @@
 
     .date,
     .icon {
-      color: $white;
-      background: grey;
+      color: _palette(bg);
     }
 
     .date {
@@ -78,7 +77,7 @@
     .date,
     .icon,
     .icon::after {
-      background: #797979;
+      background: _palette(dark-grey-30);
     }
 
     &.red {
@@ -86,7 +85,7 @@
       .date,
       .icon,
       .icon::after {
-        background: _palette(dark-red-col);
+        background: _palette(red-col);
       }
     }
 
@@ -105,7 +104,7 @@
       .date,
       .icon,
       .icon::after {
-        background: _palette(dark-purple-col);
+        background: _palette(purple-col);
       }
     }
 
@@ -114,7 +113,8 @@
       .date,
       .icon,
       .icon::after {
-        background: _palette(dark-orange-col)
+        color: inherit;
+        background: _palette(light-orange-col)
       }
     }
 
@@ -123,7 +123,8 @@
       .date,
       .icon,
       .icon::after {
-        background: _palette(dark-blue-col);
+        color: inherit;
+        background: _palette(blue-col);
       }
     }
 
@@ -133,7 +134,7 @@
       .icon,
       .icon::after {
         color: inherit;
-        background: #fff;
+        background: _palette(bg);
       }
     }
 

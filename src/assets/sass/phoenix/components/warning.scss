@@ -15,36 +15,32 @@
   }
 
   .warning-overlay {
-    * {
-      color: $white;
-    }
-
     pointer-events: auto;
     position: relative;
-    background: rgba(255, 27, 27, 0.9);
-    box-shadow: $softShadow;
-    width: 30rem;
+    background: transparentize(_palette(red-col), 0.10);
+    box-shadow: $hardShadow;
+    text-shadow: $textShadow;
+    width: 40rem;
     max-width: 80%;
     margin: auto;
-    margin-top: 10px;
-    border-radius: 10px;
-    padding: 10px 20px;
-    font-size: 0.8rem;
+    margin-top: 1rem;
+    border-radius: $microPadding;
+    padding: 1rem 1.4rem;
 
     .close-button {
       position: absolute;
       top: 0;
       right: 0;
-      width: 30px;
-      height: 30px;
+      width: 2rem;
+      height: 2rem;
       cursor: pointer;
       text-align: center;
     }
 
     h3,
     p {
-      line-height: 1.2rem;
-      margin: 0.2rem 0;
+      line-height: 1.4rem;
+      margin: 0.5rem 0;
     }
 
     .action {

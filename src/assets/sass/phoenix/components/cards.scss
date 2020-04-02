@@ -1,11 +1,20 @@
+$grid-color-1:_palette(green-col);
+$grid-color-2:_palette(blue-col);
+$grid-color-3:_palette(light-red-col);
+$grid-color-4:_palette(light-purple-col);
+$grid-color-5:_palette(orange-col);
+
 .card {
   padding-bottom: $smallPadding;
-  background: white;
+  background: _palette(bg);
   box-shadow: $softShadow;
-
+  $radius: $microPadding;
+  border-radius: $radius;
+  
   h4 {
     background: _palette(accent);
     padding: $tinyPadding;
+    border-radius: $radius $radius 0 0;
     text-align: center;
   }
 
@@ -85,7 +94,10 @@ a.card {
 
 .legend {
   margin-bottom: $smallPadding;
-
+  .info {
+    font-weight: bold;
+    margin-bottom: $tinyPadding;
+  }
   &.has-selected {
     .key {
       opacity: .4;
@@ -97,8 +109,12 @@ a.card {
     white-space: nowrap;
     display: inline-block;
     margin: 0 $microPadding $microPadding 0;
-    padding: 0 $microPadding;
+    padding: $nanoPadding $tinyPadding;
+    border-radius: $microPadding;
+    border-bottom: $solidDarkLine;
+
     cursor: pointer;
+    box-shadow: $softerShadow;
 
     &.green {
       background: _palette(accent);
@@ -134,10 +150,11 @@ a.card {
 
     &.selected {
       opacity: 1;
+      box-shadow: $tightShadow;
     }
 
     &.grid-color-all {
-      background: #eee;
+      background: _palette(grey-10);
       opacity: 1;
     }
   }
@@ -146,7 +163,7 @@ a.card {
 // the dapps list
 
 .dapps-list {
-  background: #efefef;
+  background: _palette(grey-10);
   padding: $smallPadding !important;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 

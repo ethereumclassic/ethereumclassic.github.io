@@ -4,12 +4,12 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  background: black;
+  background: _palette(fg);
 }
 
 body {
   ::-webkit-scrollbar-thumb {
-    background: rgba(0, 0, 0, .3);
+    background: _palette(t-black-30);
   }
 }
 

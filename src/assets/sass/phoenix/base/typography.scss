@@ -31,6 +31,12 @@ h1,h2,h3,h4,h5 {
   }
 }
 
+.layout-content { 
+  h1, h2 {
+    text-shadow: $headerShadow;
+  }
+}
+
 .layout-content h1, h2, h3, h4 {
   font-family: '_HeaderFont';
   text-transform: uppercase;

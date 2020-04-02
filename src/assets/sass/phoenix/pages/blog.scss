@@ -22,9 +22,9 @@
   margin-left: -$smallPadding;
   margin-right: -$smallPadding;
   padding: $tinyPadding $smallPadding;
-  border-top: $solidBottom;
+  border-top: $solidDarkLine;
   &:hover {
-    background: rgba(0,0,0,.03);
+    background: _palette(t-black-10);
   }
   .excerpt {
     margin: 0;
@@ -34,7 +34,7 @@
 .latest-blog-posts .blog-items {
   height: 25rem;
   overflow-y: scroll;
-  border: $solidBottom;
+  border: $solidDarkLine;
   margin-left: -$smallPadding;
   margin-right: -$smallPadding;
   margin-bottom: $tinyPadding;
