@@ -1,8 +1,37 @@
 -
-  key:  ETC Summit 2017
-  name: Full Livestream - November, 2017
-  link: https://www.youtube.com/watch?v=vYvbzjETbxI&list=PL20HSZ6AK2yOrde28Pi_XCoaDWbahIhi0
+  key:  IOHK - ETC Hong Kong Summit
+  name: IOHK - ETC Hong Kong Summit
+  link: https://youtu.be/UFxlBg3UCpU
+  youtube: UFxlBg3UCpU
+  text: Promotional video from IOHK for ETC Summit 2017.
+  type: "2017"
+-
+  key:  Making Ethereum Classic a Utilitarian Platform
+  name: Making Ethereum Classic a Utilitarian Platform
+  link: https://youtu.be/vYvbzjETbxI
   youtube: vYvbzjETbxI
+  text: Charles Hoskinson [@IOHK_Charles](https://twitter.com/IOHK_Charles), Co-Founder/CEO of [IOHK](https://iohk.io/) and Co-Founder of the Ethereum Project.
+  type: "2017"
+-
+  key:  Since the Hard Fork
+  name: Since the Hard Fork
+  link: https://youtu.be/-LKJuVB2XuE
+  youtube: -LKJuVB2XuE
+  text: Alan Verbner [@alanverbner](https://twitter.com/alanverbner), Ethereum Classic Developer, Team Grothendieck, [IOHK](https://iohk.io/).  [SLIDES](https://etcsummit.com/wp-content/uploads/2017/11/ETC-Alan_V.pptx)
+  type: "2017"
+-
+  key:  The Road Ahead
+  name: The Road Ahead
+  link: https://youtu.be/Lvsi5KlWt_c
+  youtube: Lvsi5KlWt_c
+  text: Alan McSherry, Ethereum Classic Developer | Team Grothendieck Manager, [IOHK](https://iohk.io/).
+  type: "2017"
+-
+  key:  From Sand to Granite - How to Make Your House Endure
+  name: From Sand to Granite - How to Make Your House Endure
+  link: https://youtu.be/aipGCSGV8ZA
+  youtube: aipGCSGV8ZA
+  text: Meredith Patterson [@maradydd](https://twitter.com/maradydd), Co-Founder | LANGSEC; CTO | Mautinoa Technologies.  [SLIDES](https://etcsummit.com/wp-content/uploads/2017/11/Patterson.pdf)
   type: "2017"
 -
   key:  ETC Summit 2018
