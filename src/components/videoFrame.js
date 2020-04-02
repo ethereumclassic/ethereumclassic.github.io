@@ -17,10 +17,13 @@ class VideoFrame extends React.Component {
         </div>
       );
     }
-    const { title, src, youtube } = this.props;
+    const { title, src, youtube, timestamp } = this.props;
     let link = src;
     if (youtube) {
       link = `https://www.youtube.com/embed/${youtube}?autoplay=1`;
+    }
+    if (timestamp) {
+      link = `${link}&start=${timestamp}`;
     }
     return (
       <iframe
