@@ -12,12 +12,14 @@ import WideSection from '~components/wideSection';
 import IconGrid from '~components/iconGrid';
 import ButtonLink from '~components/buttonLink';
 import LatestBlogPosts from '~components/latestBlogPosts';
+import Phoenix from '~components/phoenix';
 
 const Index = ({ pageContext: { i18n }, data: { file, allMdx: blogArticles } }) => (
   <GlobalLayout>
     <Navigation />
     <div id="wrapper">
       <Banner i18n={i18n} image={file.childImageSharp.fluid} />
+      <Phoenix />
       <Section subSection={() => html(i18n.whatIsClassic)}>{html(i18n.whatIsBlockchain)}</Section>
       <WideSection className="shaded">
         <IconGrid
