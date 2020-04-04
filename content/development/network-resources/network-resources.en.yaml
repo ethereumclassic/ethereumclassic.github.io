@@ -19,25 +19,27 @@ networkID: Network ID
 chainID: Chain ID
 intro: |
   # Network Resources
-  
+
   Need to find out the state of the Ethereum Classic network? You're in the right place. Here are a selection of tools that can help you get to know the chain, including faucets, explorers and monitors.
-clients: | 
+clients: |
   ## Clients
 
-  For more information on the various ETC clients, check out the [clients](/development/clients) page.
+  For more information on the various Ethereum Classic clients, check out the [clients](/development/clients) page.
 chainsTitle: |
   > ## ETC Virtual Machine Chains
-explorersTitle: | 
+explorersTitle: |
   ## Blockchain Explorers
 
-  Decription goes here
-monitorsTitle: | 
-  > ## Network Monitors
-faucetsTitle: | 
+  A blockchain explorer is a browser for the blockchain, similar to how we have browsers like Brave Browser and FireFox for internet web pages. All cryptocurrency users rely on blockchain explorers to track their transactions. Browse the list of Ethereum Classic block explorers to find one that you like and add it to your bookmarks.
+monitorsTitle: |
+  ## Network Monitors
+
+  Network monitors provide insights into the network's health like providing analysis on miners, nodes, network performance, user activity. Additionally, these tools alert to network attacks like a 51% attack.
+faucetsTitle: |
   ## Faucets
 
-  Services that allow you to get small amounts of free testnet ETC to make test transactions.
-gasFeeTitle: | 
+  Faucets are Ethereum Classic public services that allow you to obtain small amounts of testnet ETC for deploying contracts and testing transactions in a sandbox environment. If you're a developer, please consider contributing to these testnets by running nodes and mining on the networks. It's a selfless and charitable act for the greater Ethereum Classic ecosystem.
+gasFeeTitle: |
   ## Gas Fee Estimators
 
-  These services help you find out the best gas price to ensure your transactions get mined quickly and cheaply.
+  These services help users optimize gas prices to ensure your transactions process efficiently and timely. To prevent fee front running and negative feedback loops of gas estimators, it's best to program conservative gas prices into wallets and dapps.
