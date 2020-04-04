@@ -554,6 +554,11 @@
   link: https://edge.app/
   type: instant
 -
+  key: Evercoin
+  text: Evercoin
+  link: https://evercoin.com
+  type: instant
+-
   key: Exodus
   text: Exodus
   link: https://www.exodus.io/
