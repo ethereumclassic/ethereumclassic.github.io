@@ -4,8 +4,6 @@ date: 2015-07-30
 author: Stephan Tual
 ---
 
-<img src="./ethereum-icon-black.6b935ac0.png" alt="Ethereum Logo" width="150"/>
-
 A few minutes ago, many of you generated and loaded the Ethereum Genesis block, marking the inception of Frontier, the first Live release of the Ethereum project.
 
 The [Dev team](https://ethdev.com/) joins me in thanking each and everyone of you for your support during the past year and half. It’s incredible to see the progress that has taken place since that humble [first commit](https://github.com/ethereum/cpp-ethereum/commit/85aaddc694adc23ee56fce3d83a92a943a54b100) on Christmas Eve 2013. The vision of a censorship-proof ‘world computer’ that anyone can program, paying exclusively for what they use and nothing more, is now a reality.
