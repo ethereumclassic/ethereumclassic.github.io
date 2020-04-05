@@ -4,6 +4,8 @@ date: 2016-07-20
 author: Vitalik Buterin
 ---
 
+Attribution: [https://blog.ethereum.org/2016/07/20/hard-fork-completed/](https://blog.ethereum.org/2016/07/20/hard-fork-completed/)
+
 We would like to congratulate the Ethereum community on a successfully completed hard fork. [Block 1920000](http://etherscan.io/block/1920000) contained the execution of an irregular state change which transferred ~12 million ETH from the “Dark DAO” and “Whitehat DAO” contracts into the [WithdrawDAO recovery contract](https://etherscan.io/address/0xbf4ed7b27f1d666546e30d74d50d173d20bca754). The fork itself took place smoothly, with roughly 85% of miners mining on the fork:
 
 <img src="./the-moment-ethereum-historically-hardforked.jpg" alt="DAO fork"/>

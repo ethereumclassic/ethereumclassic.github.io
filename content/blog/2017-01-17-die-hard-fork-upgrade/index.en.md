@@ -1,11 +1,11 @@
 ---
-title: "ETC Weekly Newsletter : Die Hard Hard Fork Update Successful!"
+title: "ETC Weekly Newsletter : Die Hard Fork Update Successful!"
 date: 2017-01-17
 author: Carlo V
 
 ---
 
-![Die Hard Hard Fork Update](./hardfork_difficulty_bomb.jpg)
+![Die Hard Fork Update](./hardfork_difficulty_bomb.jpg)
 
 ## **Links To Our Community**
 

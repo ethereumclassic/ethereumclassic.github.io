@@ -56,6 +56,7 @@ block_diff = parent_diff
 
 For most of peer implementations it’s a trivial modification and can be done through configuration without changing actual code.
 
-References
-[ECIP-1010 Delay Difficulty Bomb Explosion](https://ecips.ethereumclassic.org/ECIPs/eip-1010)
-[EIP-2 Homestead Hard-fork Changes](https://eips.ethereum.org/EIPS/eip-2)
+## References
+
+* [ECIP-1010 Delay Difficulty Bomb Explosion](https://ecips.ethereumclassic.org/ECIPs/eip-1010)
+* [EIP-2 Homestead Hard-fork Changes](https://eips.ethereum.org/EIPS/eip-2)

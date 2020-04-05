@@ -19,11 +19,11 @@ Enable the outstanding Ethereum Foundation *Istanbul* network protocol upgrades 
 Add support for a subset of protocol-impacting changes introduced in the Ethereum Foundation (ETH) network via the *Istanbul* hardforks. The proposed changes for Ethereum Classic’s *Phoenix* upgrade include:
 
 * Add Blake2 compression function `F` precompile
-* Reduce alt_bn128 precompile gas costs
-* Add ChainID opcode
+* Reduce `alt_bn128` precompile gas costs
+* Add `ChainID` opcode
 * Repricing for trie-size-dependent opcodes
 * Calldata gas cost reduction
-* Rebalance net-metered SSTORE gas cost with consideration of SLOAD gas cost change
+* Rebalance net-metered `SSTORE` gas cost with consideration of `SLOAD` gas cost change
 
 This document proposes the following blocks at which to implement these changes in the Classic networks:
 
@@ -42,11 +42,11 @@ To enhance the Ethereum Virtual Machine’s (EVM) capabilities, various opcodes 
 Technical specifications for each EIP can be found at those documents respectively:
 
 * [EIP-152](https://eips.ethereum.org/EIPS/eip-152): Add Blake2 compression function `F` precompile
-* [EIP-1108](https://eips.ethereum.org/EIPS/eip-1108): Reduce alt_bn128 precompile gas costs
-* [EIP-1344](https://eips.ethereum.org/EIPS/eip-1344): Add ChainID opcode
+* [EIP-1108](https://eips.ethereum.org/EIPS/eip-1108): Reduce `alt_bn128` precompile gas costs
+* [EIP-1344](https://eips.ethereum.org/EIPS/eip-1344): Add `ChainID` opcode
 * [EIP-1884](https://eips.ethereum.org/EIPS/eip-1884): Repricing for trie-size-dependent opcodes
 * [EIP-2028](https://eips.ethereum.org/EIPS/eip-2028): Calldata gas cost reduction
-* [EIP-2200](https://eips.ethereum.org/EIPS/eip-2200): Rebalance net-metered SSTORE gas cost with consideration of SLOAD gas cost change
+* [EIP-2200](https://eips.ethereum.org/EIPS/eip-2200): Rebalance net-metered `SSTORE` gas cost with consideration of `SLOAD` gas cost change
 
 ## Rationale
 
@@ -67,7 +67,7 @@ The following clients with Ethereum Classic support implement the *Istanbul* fea
 
 ## Final Note
 
-Both, the Geth Classic client and the Morden testnet will no longer be supported by the community and not recieve the *Phoenix* ugrades.
+Both, the Geth Classic client and the Morden testnet will no longer be supported by the community and not receive the *Phoenix* ugrades.
 
 * Users of the Geth Classic client are urged to migrate their services to Parity Ethereum, Multi-Geth, or Hyperledger Besu. It is no longer recommended to run Geth Classic in production.
 * Users of the Morden Classic testnet are urged to migrate their applications to the Kotti Classic or Morder Classic testnets.

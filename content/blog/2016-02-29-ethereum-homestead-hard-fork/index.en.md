@@ -4,6 +4,8 @@ date: 2016-02-29
 author: Jeffrey Wilcke
 ---
 
+Attribution: [https://blog.ethereum.org/2016/02/29/homestead-release/](https://blog.ethereum.org/2016/02/29/homestead-release/)
+
 Development of Ethereum started in December 2013 when two developers and a college dropout researcher decided to put their heads together and develop this amazing piece of technology. We were later [joined](https://www.youtube.com/watch?v=GA8z7f7a2Pk) by many like-minded individuals. Our first Proof of Concept (PoC) came on February 1, 2014. By the time we started our crowdsale on July 23, we were up to PoC 5 with a protocol that was almost finished, and had achieved compatibility between multiple clients. The team was psyched when we got our first million and our second and our third and so on. It was crazy! Believing that we could deliver the Ethereum platform was one thing, but seeing others believe and want to participate it was incredibly inspiring.
 
 Somewhat later in October of 2014, Gav and I were sitting on the train to the Zurich airport when we figured that an Ethereum conference would be absolutely awesome, and settled on doing it in November that same year. It was a bit hectic for those who organised it (thanks Aeron, Christian & Jason!), but we managed to pull it off as we were determined to host our first internal developers conference, [DEVcon0](https://www.youtube.com/playlist?list=PLJqWcTqh_zKEjpSej3ddtDOKPRGl_7MhS).

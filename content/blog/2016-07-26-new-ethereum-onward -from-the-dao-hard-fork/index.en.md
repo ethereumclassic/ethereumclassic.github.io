@@ -4,6 +4,8 @@ date: 2016-07-26
 author: Vitalik Buterin
 ---
 
+Attribution: [https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/](https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/)
+
 The foundation has committed to support the community consensus on the admittedly difficult hard fork decision. Seeing the results of various metrics, including carbonvote, dapp and ecosystem infrastructure adoption, this means that we will focus our resources and attention on the chain which is now called ETH (ie. the fork chain). That said, we recognize that the Ethereum code can be used to instantiate other blockchains with the same consensus rules, including testnets, consortium and private chains, clones and spinoffs, and have [never been opposed](https://github.com/ethereum/wiki/wiki/Consortium-Chain-Development) to such instantiations.
 
 All users who had ETH before block 1920000 now have both ETH (the fork chain) and ETC (the community effort to continue the no-fork chain). Users are generally advised that most Ethereum client defaults, including clients developed by the Foundation and by third parties (eg. Parity), will select the ETH chain; if you are offered a choice on a fork in the Mist interface, then selecting “Yes” on this choice will direct you to this chain.
