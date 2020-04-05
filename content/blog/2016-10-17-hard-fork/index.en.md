@@ -1,5 +1,5 @@
 ---
-title: Gas Reprice Hard Fork on ETC block 2500000 (October 25)
+title: Gas Reprice Hard Fork on ETC block 2,500,000 (October 25)
 date: 2016-10-17
 author: Arvicco
 ---

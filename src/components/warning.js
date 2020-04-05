@@ -8,7 +8,7 @@ import ButtonLink from './buttonLink';
 import Translate from './translate';
 
 // toggle this to enable or disable globally
-const enabled = false;
+const enabled = true;
 
 export default class Warning extends React.Component {
   constructor(props) {
