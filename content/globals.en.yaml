@@ -4,10 +4,10 @@
 # ### Data about the page used by search engines, etc.
 #
 # This title appears in browser tab / window
-title: Ethereum Classic
+title: Ethereum Classic | The original Ethereum vision
 #  A short description that appears in google searches
 description: >
-  A decentralized platform that runs smart contracts: applications that run
+  A decentralized computing platform that runs smart contracts: applications that run
   exactly as programmed without downtime, censorship or third party interference
 #  Date format used to display dates globally
 dateFormat: YYYY.MM.DD
@@ -36,9 +36,9 @@ goBack: Go Back
 #
 warningTitle: Hard Fork Alert
 warningText:
-  Ethereum Classic is undergoing a planned upgrade "Agharta" on block 9.573M,
-  around 12 Jan 2020. If you run an ETC node please upgrade as soon as possible.
-warningButton: Upgrade
+  Ethereum Classic's Phoenix upgrade is planned for June, 2020 on block
+  10,500,839. If you run an ETC node, please update to a compatible client.
+warningButton: Update
 #  ## Latest Blog Posts
 # Appears on landing page and blog section
 #
@@ -82,7 +82,7 @@ github: GitHub
 footerText: Made with `<3` for the original Ethereum vision
 #  ### Misc
 #
-disclaimer: The links on this page are community contributions and are not guaranteed to be safe; use them at your own risk! Please do your own research before using any of resources below. 
+disclaimer: The links on this page are community contributions and are not guaranteed to be safe; use them at your own risk! Please do your own research before using any of the resources listed on this site.
 contribute: "If you feel there is incorrect or missing content on this page, please reach out via the [Ethereum Classic Discord](https://discordapp.com/invite/HW4GckH) or create an issue on [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io)."
 license: The content on this page made available under the license
 source: Source
@@ -90,8 +90,8 @@ legend: Legend (click to filter)
 sitemap: Sitemap
 learnMore: Learn More
 all: All
-#  ### Blog 
-#  
+#  ### Blog
+#
 blogNavAll: All News
-blogNavBlog: Blog Articles 
+blogNavBlog: Blog Articles
 blogNavMedia: Media Links
