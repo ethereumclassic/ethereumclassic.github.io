@@ -4,7 +4,7 @@ date: 2015-07-30
 author: Stephan Tual
 ---
 
-![Ethereum Logo](./ethereum-icon-black.6b935ac0.png)
+<img src="./ethereum-icon-black.6b935ac0.png" alt="Ethereum Logo" width="150"/>
 
 A few minutes ago, many of you generated and loaded the Ethereum Genesis block, marking the inception of Frontier, the first Live release of the Ethereum project.
 

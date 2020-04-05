@@ -4,13 +4,13 @@ date: 2015-08-04
 author: Stephan Tual
 ---
 
-![Ethereum Logo](./ethereum-icon-black.6b935ac0.png)
+<img src="./ethereum-icon-black.6b935ac0.png" alt="Ethereum Logo" width="150"/>
 
 Here comes the first Frontier patch, and this is a big one!
 
 Before you go further, if your keys date back from Go 1.0 rc or C++ 0.9.36, note that you should regenerate all of your keys NOW. Though some releases of the pre-alpha and alpha clients are secure, this depends on which codebase and which version. You should assume that all keys generated prior to these clients are insecure and compromised. This, note, does not affect the pre-sale wallets.
 
-![Ethereum Thawing](./687474703a2f2f692e696d6775722e636f6d2f344f686877776f2e6a7067.jpeg)
+<img src="./687474703a2f2f692e696d6775722e636f6d2f344f686877776f2e6a7067.jpeg" alt="Ethereum Thawing"/>
 
 ## Thawing
 

@@ -4,7 +4,7 @@ date: 2016-07-26
 author: Vitalik Buterin
 ---
 
-![Ethereum Logo](./ethereum-icon-black.6b935ac0.png)
+<img src="./ethereum-icon-black.6b935ac0.png" alt="Ethereum Logo" width="150"/>
 
 The foundation has committed to support the community consensus on the admittedly difficult hard fork decision. Seeing the results of various metrics, including carbonvote, dapp and ecosystem infrastructure adoption, this means that we will focus our resources and attention on the chain which is now called ETH (ie. the fork chain). That said, we recognize that the Ethereum code can be used to instantiate other blockchains with the same consensus rules, including testnets, consortium and private chains, clones and spinoffs, and have [never been opposed](https://github.com/ethereum/wiki/wiki/Consortium-Chain-Development) to such instantiations.
 
