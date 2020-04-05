@@ -1,12 +1,13 @@
 ---
-title: "ETC Weekly Newsletter : Protocol Update Successful!"
+title: "ETC Weekly Newsletter : Die Hard Fork Update Successful!"
 date: 2017-01-17
 author: Carlo V
 
 ---
 
+![Die Hard Fork Update](./hardfork_difficulty_bomb.jpg)
 
-## **Links To Our Community** 
+## **Links To Our Community**
 
 [ETC Website](https://ethereumclassic.github.io/)
 
@@ -37,7 +38,7 @@ The other stories featured in this newsletter are listed below:
 * [New mining video from Epool.](https://www.youtube.com/watch?v=WmhpYrmTav8)
 * [ETF potential for ETC.](https://bitcoinmagazine.com/articles/barry-silbert-shares-digital-currency-group-s-perspective-on-ethereum-announces-etherscan-investment-1483989140/)
 * [New](https://steemit.com/etc/@cseberino/hashes-an-introduction-and-why-they-are-foundational-to-the-internet-and-blockchains) [articles](https://steemit.com/etc/@cseberino/why-bloom-filters-are-so-cool-useful-for-blockchains-and-beyond-an-introduction) by Dr. Seberino.
-* [ETC blog by community member "Jerry".](https://medium.com/@classicether) 
+* [ETC blog by community member "Jerry".](https://medium.com/@classicether)
 * [Article from TechCrunch.](https://techcrunch.com/2017/01/08/the-future-is-a-decentralized-internet/)
 * [Check out ETC.today!](http://etc.today/)
 * [Let's talk ETC! Tuesdays at 7:30pm EST.](https://www.youtube.com/user/chrisseberino)
@@ -114,17 +115,17 @@ Every Tuesday at 7:30pm EST we will be discussing what's going on in the ETC com
 
 * https://www.youtube.com/user/chrisseberino
 
-## **ETC Monetary Policy** 
+## **ETC Monetary Policy**
 
 ETC Monetary Policy Proposal by @snaproll is now officially out as ECIP-1017
 
-"This ECIP proposes a solution to the Ethereum Classic Monetary Policy to adjust, with finality, the current emission schedule implementation of 14.0625ETC per block in perpetuity. The solution proposed introduces a theoretical upper bound on the maximum absolute number of ETC and introduces a method of degraded emission over time. In addition, this ECIP describes the requirements associated with maintaining this emission schedule through a potential change of the network’s consensus algorithm, from its current Ethash based Proof of Work to a possible POS or POW/POS hybrid model." Please see the full post from github and reddit at the links below. 
+"This ECIP proposes a solution to the Ethereum Classic Monetary Policy to adjust, with finality, the current emission schedule implementation of 14.0625ETC per block in perpetuity. The solution proposed introduces a theoretical upper bound on the maximum absolute number of ETC and introduces a method of degraded emission over time. In addition, this ECIP describes the requirements associated with maintaining this emission schedule through a potential change of the network’s consensus algorithm, from its current Ethash based Proof of Work to a possible POS or POW/POS hybrid model." Please see the full post from github and reddit at the links below.
 
 * https://github.com/ethereumproject/ECIPs/pull/20/files
 * https://www.reddit.com/r/EthereumClassic/comments/5cm582/monetary_policy_update/
 
-Monetary policy discussions are still in progress on many platforms. However, most of the conversation seems to be taking place on the #monetary_policy channel on slack. 
-Please join us on Slack using the following link. 
+Monetary policy discussions are still in progress on many platforms. However, most of the conversation seems to be taking place on the #monetary_policy channel on slack.
+Please join us on Slack using the following link.
 
 * https://ethereumclassic.herokuapp.com/
 
@@ -139,12 +140,12 @@ Igor aka Splix is looking for talented Rust and JS developers. Full time, remote
 * https://www.linkedin.com/pulse/rust-js-developers-ethereum-classic-igor-artamonov
 
 
-## **"Call To Action" still in effect. Looking for community contributions for the ETC Wikipedia page.** 
+## **"Call To Action" still in effect. Looking for community contributions for the ETC Wikipedia page.**
 Reddit user "bitp" has brought it to the communities attention that the "Ethereum Classic" Wikipedia link currently redirects to "Ethereum". ETC community member /u/FaceDeer was previously a Wikipedia editor and has provided some insight on what should be done moving forward. One of his recommendations is that we start the process by adding to the Ethereum Classic section that is currently on the Ethereum Wikipedia page. ETC can then be given its own page after volunteers have submitted enough info. Please see his full post in the reddit thread linked below.
 
 * [reddit.com](https://www.reddit.com/r/EthereumClassic/comments/5bsj3c/ethereum_classic_redirects_to_ethereum_on/)
 
-## **Community Metrics** 
+## **Community Metrics**
 
 * Twitter - 33bK followers.
 * Reddit /r/EthereumClassic - 2,978 subscribers.
@@ -153,7 +154,7 @@ Reddit user "bitp" has brought it to the communities attention that the "Ethereu
 * WeChat - 472 users.
 * [Miners - 876.08 Total GH/s](https://gastracker.io/stats/miners)
 
-## **[Top 5 miners](https://gastracker.io/stats/miners) by average hashrate from the previous 7 days.** 
+## **[Top 5 miners](https://gastracker.io/stats/miners) by average hashrate from the previous 7 days.**
 
 * EtherMine 187.64 GH/s
 * NanoPool 154.21 GH/s

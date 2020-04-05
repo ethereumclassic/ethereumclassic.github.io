@@ -2,7 +2,7 @@
   key: Core-Geth
   name: Core-Geth
   link: https://core-geth.org/
-  releaseLink: https://github.com/etclabscore/multi-geth/releases/
+  releaseLink: https://github.com/etclabscore/core-geth/releases
   supportLink: https://gitter.im/core-geth/community
   supportIcon: fab fa-gitter
   text: Core-Geth is a distribution of go-ethereum with many flavors.
@@ -23,12 +23,10 @@
   supportIcon: fab fa-gitter
   text: A "swiss army knife" distribution of go-ethereum, with support for many species of Ethereum networks.
 -
-  key: Parity-Ethereum
+  key: OpenEthereum
   name: OpenEthereum
   link: https://github.com/openethereum
   releaseLink: https://github.com/openethereum/openethereum/releases
   supportLink: http://discord.io/openethereum
   supportIcon: fab fa-discord
   text: Fast and feature-rich multi-network Ethereum client.
-
-
