@@ -53,12 +53,5 @@ There are a massive number of Ethereum Classic testnets.
     * Supported by all clients
     * No Premine, No Presale, Fair launch!
 
-The Summit will be held at the Vancouver Convention Centre right in the heart of downtown Vancouver.
 
-## Why Attend
-
-We are a community, and platform that takes cryptocurrency further; allowing for limitless smart contracts that operate autonomously and resist censorship.
-
-Come join our yearly summit to learn about and connect with all things ETC.
-
-[https://youtu.be/sURnZEeIqBU](https://youtu.be/sURnZEeIqBU)
+[Mordor Testnet Launch Video](https://youtu.be/sURnZEeIqBU)
