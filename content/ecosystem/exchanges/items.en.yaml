@@ -524,6 +524,11 @@
   link: https://atomicwallet.io
   type: instant
 -
+  key: BitTorro
+  text: BitTorro
+  link: https://bittorro.io/
+  type: instant
+-
   key: ChangeAngel
   text: ChangeAngel
   link: https://www.changeangel.io/
