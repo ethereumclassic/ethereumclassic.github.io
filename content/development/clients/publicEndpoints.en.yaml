@@ -2,14 +2,10 @@
   key: BlockScout
   name: BlockScout
   link: https://blockscout.com/etc/mainnet/api_docs
-- 
+-
   key: Ethercluster
   name: Ethercluster
   link: https://www.ethercluster.com/etc
--
-  key: Ethercluster (Astor)
-  name: Ethercluster (Astor)
-  link: https://www.ethercluster.com/astor
 -
   key: Ethercluster (Kotti)
   name: Ethercluster (Kotti)

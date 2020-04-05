@@ -8,7 +8,7 @@ import ButtonLink from './buttonLink';
 import Translate from './translate';
 
 // toggle this to enable or disable globally
-const enabled = false;
+const enabled = true;
 
 export default class Warning extends React.Component {
   constructor(props) {
@@ -46,7 +46,7 @@ export default class Warning extends React.Component {
           <div className="action">
             <ButtonLink
               text={<Translate text="warningButton" />}
-              to="https://ethereum-classic-fjkashlf.ethernodes.org/agharta"
+              to="https://ethereumclassic.org/development/clients"
               icon="angle-right"
             />
           </div>

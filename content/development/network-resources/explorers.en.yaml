@@ -12,7 +12,6 @@
   key: BlockScout
   name: BlockScout
   etc: https://blockscout.com/etc/mainnet/
-  astor: https://blockscout.com/etc/astor/
   kotti: https://blockscout.com/etc/kotti/
   mordor: https://blockscout.com/etc/mordor/
 -
@@ -31,7 +30,6 @@
   key: EthereumMain.net
   name: EthereumMain.net
   etc: http://ethereummain.net/
-  astor: http://astor.ethereumtest.net 
   mordor: http://mordor.ethereumtest.net
   kotti: http://kotti.ethereumtest.net
 -
