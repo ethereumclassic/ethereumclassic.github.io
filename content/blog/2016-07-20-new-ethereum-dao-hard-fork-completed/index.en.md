@@ -1,5 +1,5 @@
 ---
-title: Hard Fork Completed
+title: The DAO Hard Fork Completed
 date: 2016-07-20
 author: Vitalik Buterin
 ---

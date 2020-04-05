@@ -4,7 +4,7 @@ date: 2016-10-17
 author: Arvicco
 ---
 
-![Hard fork imminent](./Screen-Shot-2015-07-06-at-2.54.56-PM.png)
+![Gas Reprice Hard fork imminent](./hardfork_etc.png)
 
 During the last week, both Ethereum and Ethereum Classic were hit by a series of attacks that took advantage of inadequately low gas cost for certain computational operations. The effect of this attack was effectively making both networks hardly usable: blockchain sync becoming extremely slow and halting unpredictably, valid transactions taking extremely long time to make it into a block, and full nodes (both parity and geth) crashing due to difficulties processing spam transactions bloat.
 
@@ -19,6 +19,8 @@ It is important to note that ETH team chose another timeframe for hard fork impl
 **All ETC full node users and miners are advised to upgrade to either [Classic version of geth](https://github.com/ethereumproject/go-ethereum/releases) or [Parity](https://github.com/ethcore/parity/releases/) full node (which implements ETC hard fork properly) as soon as possible.**
 
 Users of the light ETC wallets (such as [Jaxx](https://jaxx.io/)), [web wallet](http://classicetherwallet.com/) or [Chrome extension](https://chrome.google.com/webstore/detail/classicetherwallet-cx/opggclcfcbfbchcienjdaohghcamjfhf) should not be affected. Your ETC located in the exchange accounts also should be safe through a hard fork transition. Mist or EthereumWallet users should use Parity or Classic geth as a backend, as explained [here](https://www.youtube.com/watch?v=peAnJ3rRn04).
+
+![Gas Reprice Hard fork imminent](./logo_etc8.jpg)
 
 ### UPDATE: ETC community successfully implemented GasReprice hard fork
 

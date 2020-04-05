@@ -65,9 +65,9 @@ The proposed mining rewards on the Ethereum Classic Network are as follows:
     * All rewards will be reduced at a constant rate of 20% upon entering a new Era.
     * Every Era will last for 5,000,000 blocks.
 
-## Rationale
-
 ![Gotham Hard Fork Upgrade - 5M20 Era2](./etc-miner.png)
+
+## Rationale
 
 Why this 5M20 model:
 

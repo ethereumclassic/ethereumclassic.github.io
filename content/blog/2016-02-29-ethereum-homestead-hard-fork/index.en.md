@@ -1,5 +1,5 @@
 ---
-title: Homestead Release
+title: Homestead Release - Protocol Upgrade
 date: 2016-02-29
 author: Jeffrey Wilcke
 ---

@@ -1,5 +1,5 @@
 ---
-title: Onward from the Hard Fork
+title: Onward from the DAO Hard Fork
 date: 2016-07-26
 author: Vitalik Buterin
 ---

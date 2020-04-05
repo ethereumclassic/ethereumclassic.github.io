@@ -1,5 +1,5 @@
 ---
-title: Ethereum Protocol Update 1
+title: Ethereum Protocol Update 1 - Ice Age Upgrade
 date: 2015-08-04
 author: Stephan Tual
 ---

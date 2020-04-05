@@ -8,7 +8,7 @@ author: /raw PONG _GHMoaCXLT
 
 [https://ecips.ethereumclassic.org/ECIPs/ecip-1088](https://ecips.ethereumclassic.org/ECIPs/ecip-1088)
 
-![Phoenix Hard Fork Upgrade](./pheonix_fire.gif)
+![Phoenix Hard Fork Upgrade](./BG-Phoenix-Green-Partial.png)
 
 ## Simple Summary
 

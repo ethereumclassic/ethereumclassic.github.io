@@ -1,6 +1,6 @@
 ---
 title: Gotham Hard Fork Upgrade - 5M20 Era3
-date: 2017-12-11
+date: 2020-03-17
 author: Matthew Mazur
 ---
 
@@ -65,9 +65,9 @@ The proposed mining rewards on the Ethereum Classic Network are as follows:
     * All rewards will be reduced at a constant rate of 20% upon entering a new Era.
     * Every Era will last for 5,000,000 blocks.
 
-## Rationale
-
 ![Gotham Hard Fork Upgrade - 5M20 Era3](./etc-miner.png)
+
+## Rationale
 
 Why this 5M20 model:
 
