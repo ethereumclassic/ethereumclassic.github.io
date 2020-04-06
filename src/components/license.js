@@ -15,7 +15,7 @@ const License = ({ license }) => {
     return null;
   }
   return (
-    <div className="license">
+    <div className="license tip">
       <Translate text="license" />{' '}
       {licenses[license] ? <Link to={licenses[license]} text={license} /> : license}
     </div>

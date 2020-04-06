@@ -44,11 +44,11 @@
 		@include vendor('transition', 'border-bottom-color #{_duration(transition)} ease-in-out');
 		text-decoration: none;
 		color: _palette(fg-bold);
-		border-bottom: dotted 1px;
+		border-bottom: dashed 1px _palette(t-black-30);
 
 		&:hover {
 			text-decoration: none;
-			border-bottom-color: transparent;
+			border-bottom: dashed 1px _palette(t-black-10);
 		}
 	}
 
@@ -82,7 +82,7 @@
 
 	h1 {
 		font-family: _font(family);
-		font-size: 5rem;
+		font-size: 2.5rem;
 		font-weight: _font(weight-extrabold);
 		letter-spacing: _font(kerning-heading-alt);
 		line-height: 1.1;
@@ -91,21 +91,28 @@
 	}
 
 	h2 {
-		font-size: 1.25rem;
+		font-size: 1.75rem;
 		font-weight: _font(weight-heading);
 		margin: 0 0 _size(element-margin) 0;
 	}
+	h2,h3,h4,h5 {
+		line-height: 2rem;
+	}
+
+	h2 {
+		font-size: 1.725rem;
+	}
 
 	h3 {
-		font-size: 0.875rem;
+		font-size: 1.4rem;
 	}
 
 	h4 {
-		font-size: 0.875rem;
+		font-size: 1.2rem;
 	}
 
 	h5 {
-		font-size: 0.75rem;
+		font-size: 1rem;
 	}
 
 	h6 {
@@ -114,21 +121,20 @@
 
 	@include breakpoint('<=small') {
 		h1 {
-			font-size: 4.5rem;
+			font-size: 2.5rem;
 			line-height: 1.1;
 		}
 
 		h2 {
-			font-size: 1.25rem;
-			line-height: 1.7;
+			font-size: 1.725rem;
 		}
 
 		h3 {
-			font-size: 0.9rem;
+			font-size: 1.4rem;
 		}
 
 		h4 {
-			font-size: 0.75rem;
+			font-size: 1.2rem;
 		}
 
 		h5 {
@@ -138,19 +144,19 @@
 
 	@include breakpoint('<=xxsmall') {
 		h1 {
-			font-size: 3.75rem;
+			font-size: 2rem;
 		}
 
 		h2 {
-			font-size: 1.125rem;
+			font-size: 1.725rem;
 		}
 
 		h3 {
-			font-size: 0.8rem;
+			font-size: 1.4rem;
 		}
 
 		h4 {
-			font-size: 0.675rem;
+			font-size: 1.2rem;
 		}
 
 		h5 {

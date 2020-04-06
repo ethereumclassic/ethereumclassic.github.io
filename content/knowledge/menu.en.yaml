@@ -1,4 +1,9 @@
 - 
+  key: knowledge
+  name: Knowledge Base
+  link: /knowledge
+  hidden: true
+- 
   key: what-is-etc
   name: What is ETC?
   link: /knowledge/what-is-etc

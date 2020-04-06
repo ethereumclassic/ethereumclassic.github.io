@@ -7,7 +7,7 @@ const Disclaimer = ({ disclaimer }) => {
     return null;
   }
   return (
-    <div className="disclaimer">
+    <div className="disclaimer tip">
       <span role="img">⚠️ </span>
       <Translate text="disclaimer" />
     </div>

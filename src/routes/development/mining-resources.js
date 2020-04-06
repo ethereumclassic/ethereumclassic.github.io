@@ -24,10 +24,15 @@ const MiningResources = ({ pageContext: { i18n } }) => {
             type: 'button',
             icon: 'book'
           },
-          { key: 'windowsAmd', name: i18n.windowsAmd, type: 'check' },
-          { key: 'windowsNvidia', name: i18n.windowsNvidia, type: 'check' },
-          { key: 'linuxAmd', name: i18n.linuxAmd, type: 'check' },
-          { key: 'linuxNvidia', name: i18n.linuxNvidia, type: 'check' }
+          { key: 'windowsAmd', name: i18n.windowsAmd, type: 'check', className: 'text-center' },
+          {
+            key: 'windowsNvidia',
+            name: i18n.windowsNvidia,
+            type: 'check',
+            className: 'text-center'
+          },
+          { key: 'linuxAmd', name: i18n.linuxAmd, type: 'check', className: 'text-center' },
+          { key: 'linuxNvidia', name: i18n.linuxNvidia, type: 'check', className: 'text-center' }
         ]}
       />
       <ButtonGroup header={html(i18n.top5Pools)} items={top5} />

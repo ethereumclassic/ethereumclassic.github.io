@@ -1,0 +1,62 @@
+@font-face {
+  font-family: '_HeaderFont';
+  src: url("../webfonts/Oswald-VariableFont_wght.ttf");
+  font-weight: 1 999;
+}
+
+@font-face {
+  // weight < 500 
+  font-family: '_BodyFont';
+  src: url("../webfonts/Yantramanav-Light.ttf");
+}
+
+@font-face {
+  // weight > 500
+  font-family: '_BodyFont';
+  src: url("../webfonts/Yantramanav-Bold.ttf");
+  font-weight: bold; 
+}
+
+h1 {
+  font-family: '_BodyFont';
+  small {
+    font-family: '_HeaderFont';
+    font-weight: normal;
+  }
+}
+
+h1,h2,h3,h4,h5 {
+  small { 
+    opacity: 0.8;
+  }
+}
+
+.layout-content { 
+  h1, h2 {
+    text-shadow: $headerShadow;
+  }
+}
+
+.layout-content h1, h2, h3, h4 {
+  font-family: '_HeaderFont';
+  text-transform: uppercase;
+  small {
+    font-family: '_BodyFont';
+    text-transform: initial;
+    font-weight: normal;
+    font-size: inherit;
+    letter-spacing: 0.05rem;
+  }
+}
+
+.layout-content {
+  h1 {
+    letter-spacing: 0.1rem;
+  }
+  h3, h4 {
+    letter-spacing: initial;
+    font-weight: bold;
+    font-family: inherit;
+    text-transform: initial;
+  }
+}

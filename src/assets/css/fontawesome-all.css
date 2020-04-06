@@ -418,7 +418,7 @@ readers do not read off random characters that represent icons */
 .fa-chart-bar:before { content: "\f080"; }
 .fa-chart-line:before { content: "\f201"; }
 .fa-chart-pie:before { content: "\f200"; }
-/* .fa-check:before { content: "\f00c"; } */
+.fa-check:before { content: "\f00c"; }
 /* .fa-check-circle:before { content: "\f058"; } */
 /* .fa-check-double:before { content: "\f560"; } */
 /* .fa-check-square:before { content: "\f14a"; } */
@@ -1448,7 +1448,7 @@ readers do not read off random characters that represent icons */
 .fa-thumbs-up:before { content: "\f164"; }
 /* .fa-thumbtack:before { content: "\f08d"; } */
 /* .fa-ticket-alt:before { content: "\f3ff"; } */
-/* .fa-times:before { content: "\f00d"; } */
+.fa-times:before { content: "\f00d"; }
 .fa-times-circle:before { content: "\f057"; }
 /* .fa-tint:before { content: "\f043"; } */
 /* .fa-tint-slash:before { content: "\f5c7"; } */

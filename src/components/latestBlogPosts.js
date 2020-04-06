@@ -1,7 +1,7 @@
 import React from 'react';
 
 import ButtonLink from './buttonLink';
-import LatestBlogPostsItem from './latestBlogPostsItem';
+import BlogListItem from './blogListItem';
 import Translate from './translate';
 
 const LatestBlogPosts = ({ articles: { edges } }) => {
@@ -26,9 +26,9 @@ const LatestBlogPosts = ({ articles: { edges } }) => {
         </>
       ) : (
         <>
-          <div className="items">
+          <div className="blog-items">
             {edges.map(edge => (
-              <LatestBlogPostsItem data={edge.node} key={edge.node.frontmatter.title} />
+              <BlogListItem post={edge.node} key={edge.node.frontmatter.title} />
             ))}
           </div>
           <ButtonLink to="/blog" text={<Translate text="allBlogPosts" />} icon="angle-right" />

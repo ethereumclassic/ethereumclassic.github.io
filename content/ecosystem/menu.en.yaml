@@ -1,4 +1,9 @@
 - 
+  key: ecosystem
+  name: Ecosystem
+  link: /ecosystem
+  hidden: true
+- 
   key: apps-and-protocols
   name: Apps and Protocols
   shortText: State of the ETC Dapps
