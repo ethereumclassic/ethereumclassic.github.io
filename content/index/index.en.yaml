@@ -2,43 +2,43 @@ logoTitle: Ethereum Classic
 logoSubtitle: Build **Unstoppable** Applications
 overlayTitle: Ethereum Classic Summit
 overlaySubtitle: |
-  October 3rd & 4th, 2019  
+  October 3rd & 4th, 2019
   Vancouver Convention Centre
 overlayButton: View Presentations
 
-whatIsClassic: | 
+whatIsClassic: |
   ## What is Ethereum Classic?
 
-  Ethereum Classic is a decentralized platform that runs smart contracts: applications that can be run exactly as programmed without any possibility of downtime, censorship, or third party interference.
+  Ethereum Classic is a decentralized computing platform that executes smart contracts. Applications are ran exactly as programmed without the possibility of censorship, downtime, or third-party interference.
 
-  Ethereum Classic consists of a cryptocurrency (ETC), a blockchain ledger, and an [ecosystem](/ecosystem) of applications and services that run on top of it.
+  Ethereum Classic is a distributed network consisting of a blockchain ledger, native cryptocurrency (ETC) and robust [ecosystem](/ecosystem) of on-chain applications and services.
 
 whatIsBlockchain: |
-  Put simply, Ethereum Classic provides a way to manage digital assets without the need for intermediaries, such as banks and other financial institutions.
+  Put simply, Ethereum Classic provides a permissionless way to manage digital assets without the need for intermediaries, such as banks and other institutions.
 
-  ETC allows uncensorable smart contracts to be written, deployed and executed; it enables truly unstoppable programmable money.
+  ETC allows uncensorable smart contracts to be written, deployed and executed; Ethereum Classic enables truly unstoppable programmable money.
 
-  Ethereum Classic is the continuation of the *original* non-forked Ethereum (ETH) chain and exists to preserve the principle of "code is law".
+  Ethereum Classic is the continuation of the *original* non-forked Ethereum chain and exists to preserve the principle of **[code is law](https://ethereumclassic.org/blog/2016-09-09-code-is-law)**.
 
-  To find out more about ETC's history and where it's going, check out the [Ethereum Classic roadmap](/knowledge/roadmap).
+  To learn more about Ethereum Classic's formative history and promising future, check out the ETC project's [roadmap](/knowledge/roadmap).
 
 decentralized: Decentralized
-decentralizedText: Open and welcoming grassroots community
+decentralizedText: Active and permissionless ecosystem
 immutable: Immutable
-immutableText: Ledger remains untampered since it's 2015 inception
+immutableText: Untampered ledger since ETC's 2015 genesis block
 unstoppable: Unstoppable
-unstoppableText: Neutral platform where contracts are honored forever
+unstoppableText: Censorship resistant network that executes contracts exactly as programmed
 
 getStarted: |
   ## Get Started with Ethereum Classic
 
-  Ethereum Classic is one of the purest projects in the crypto space. To really understand why ETC exists and why it's got so much potential, you'll need to know understand where it came from.
+  Ethereum Classic is one of the purest decentralized projects in the cryptocurrency space. To understand the technical merits of ETC and how the project is positioning itself for the decentralized future, you'll need to understand Ethereum Classic's origin story.
 
-  Whether you're a researcher, developer, investor, or just someone that's interested in finding out more, the best place to start is Ethereum Classic's Knowledge Base.
+  Whether you're a developer, investor, journalist or market researcher, the best place to learn about Ethereum Classic is the Knowledge Base.
 knowledgeBase: Knowledge Base
 
 stayCurrent: |
   ## Stay Current
 
-  The Ethereum Classic community has been publishing informative articles since it's inception. We always welcome and appreciate new contributions!
+  Ethereum Classic content is produced by decentralized participants from around the world. The permisisonless ecosystem welcomes and appreciates new contributions from people like you!
 contributeArticles: Contribute Blog Articles
