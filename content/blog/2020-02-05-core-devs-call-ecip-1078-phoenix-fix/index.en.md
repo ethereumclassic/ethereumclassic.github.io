@@ -14,20 +14,22 @@ ref [#217](https://github.com/ethereumclassic/ECIPs/issues/217) [#226](https://g
 
 ref [ECIP-1078](https://ecips.ethereumclassic.org/ECIPs/ecip-1078) [ECIP-1079](https://ecips.ethereumclassic.org/ECIPs/ecip-1079) [ECIP-1080](https://ecips.ethereumclassic.org/ECIPs/ecip-1080)
 
-ETC Core Devs Call - ECIP-1078 Phoenix Finalization
-When: Wednesday, February 05, 2020, 4pm UTC, 60 minutes max.
+## ETC Core Devs Call - ECIP-1078 Phoenix Finalization
 
-Where: Ethereum Classic [Discord](https://discord.gg/dwxb6nf) `#ecips` channel. Will use/create a voice channel ad hoc.
+* When: Wednesday, February 05, 2020, 4pm UTC, 60 minutes max.
+* Where: Ethereum Classic [Discord](https://discord.gg/dwxb6nf) `#ecips` channel. Will use/create a voice channel *ad hoc*.
 
 ## Agenda
 
-Quick client teams check-in
+### Quick client teams check-in
+
 * Parity Tech
 * ETC Core
 * ChainSafe
 * Multi-Geth
 
-Aztlán needs to be fixed, options are:
+### Aztlán needs to be fixed, options are:
+
 * patch ECIP-1061 with EIP-1884 [#280](https://github.com/ethereumclassic/ECIPs/pull/280) - very unlikely
     * because ecip-1061 already released in parity and multi-geth
     * because ecip-1061 already activated on mordor testnet
@@ -38,19 +40,20 @@ Aztlán needs to be fixed, options are:
     * because ECIP-{1078,1080} can be distinct fork "Phoenix"
     * because ECIP-{1078,1080} can be activated on different testnet blocks but same mainnet block
 
-Phoenix (ECIP-1078) needs to be either accepted or updated (or rejected)
+### Phoenix (ECIP-1078) needs to be either accepted or updated (or rejected)
+
 * discuss included ECIP-1080 without gas repricing
 * discuss swap of EIP-2200 for EIP-1706 (1283 fix)
 * discuss a timeline for the protocol upgrade
     * Mordor Classic and Kotti Classic testnet (March?)
     * Ethereum Classic mainnet (June?)
 
-Anything else related to Aztlán and Phoenix
+### Anything else related to Aztlán and Phoenix
 
-Going through the pending ECIP PRs together
-
-Please comment to add items to the agenda.
+### Going through the pending ECIP PRs together
 
 ![Core Devs Call: ECIP-1078 Phoenix Upgrade](./phoenix_etc.jpg)
+
+### Please comment to add items to the agenda.
 
 [https://github.com/ethereumclassic/ECIPs/issues/284](https://github.com/ethereumclassic/ECIPs/issues/284)
