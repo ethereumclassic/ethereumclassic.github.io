@@ -59,11 +59,11 @@ body {
 
         a {
           box-shadow: $tightShadow;
-          background: _palette(green-col);
+          background: _palette(bg);
+          color: _palette(fg);
           &:hover {
             box-shadow: $softShadow;
-            color: _palette(t-black-40);
-            background: _palette(light-green-col);
+            background: _palette(accent);
           }
         }
       }

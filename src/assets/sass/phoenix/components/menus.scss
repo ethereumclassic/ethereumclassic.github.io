@@ -1,3 +1,12 @@
+// language selection
+
+.select-language a {
+  line-height: 1rem;
+  padding: 0.2rem;
+  margin: 0;
+  vertical-align: middle;
+}
+
 // main menu
 #menu {
   position: fixed;
@@ -12,24 +21,13 @@
   }
 
   label {
-    background: _palette(t-black-10);
+    background: _palette(t-black-20);
   }
 
   a {
     border-bottom: 0;
   }
 }
-
-// language selection
-
-.select-language a {
-  line-height: 1rem;
-  padding: 0.2rem;
-  margin: 0;
-  vertical-align: middle;
-}
-
-/* RE-USED ELEMENTS */
 
 // hamburger menus
 
@@ -87,7 +85,7 @@
     // box-shadow: $tightShadow;
     &:hover {
       background:_palette(t-black-80);
-      color: _palette(bg);
+      color: _palette(accent);
     }
   }
 
@@ -149,14 +147,13 @@ $tabBg: _palette(bright);
   white-space: nowrap;
   a {
     display: inline-block;
-    background: _palette(t-black-10);
-    opacity: 0.7;
+    $unselectedBg: _palette(grey-10);
+    background: $unselectedBg;
     padding: $nanoPadding $tinyPadding;
     margin-left: $roundedTight;
     border-top-left-radius: $roundedTight;
     border-top-right-radius: $roundedTight;
-    border: $solidDarkLine;
-    border-bottom: 0;
+    border: 0;
     &:hover {
       opacity: 0.9;
     }

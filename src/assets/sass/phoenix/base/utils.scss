@@ -46,7 +46,36 @@
 }
 
 .shaded {
-  background: _palette(grey-10);
+  $baseCol: _palette(grey-10);
+  background: linear-gradient(180deg, $baseCol, darken($baseCol, 15%));
+  text-shadow: 0px 1px 1px _palette(t-white-80);
+  >.container {
+    z-index: 1;
+    position: relative;
+  }
+  &::before {
+    z-index: 0;
+    content: '';
+    position: absolute;
+    display: block;
+    top: 0;
+    right: 0;
+    bottom:0;
+    left: 0;
+    background-image: url('../images/fractal.svg');
+    background-repeat: no-repeat;
+    opacity: 0.03;
+    // background-position: auto 300%;
+    background-size: auto 200%;
+    background-position: 70% 20%;
+    @include breakpoint('<=medium'){ 
+      background-size: 70% auto;
+      background-position: 90% 20%;
+    }
+    @include breakpoint('<=small'){ 
+      background-size: auto 200%;
+    }
+  }
 }
 
 .bright {
