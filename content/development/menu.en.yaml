@@ -1,4 +1,9 @@
 - 
+  key: development
+  name: Development
+  link: /development
+  hidden: true
+- 
   key: guides
   name: Guides
   shortText: Tutorials and Walkthroughs

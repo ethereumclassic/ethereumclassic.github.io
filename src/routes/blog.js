@@ -25,9 +25,7 @@ export default Blog;
 export const query = graphql`
   query Blog($locale: String!) {
     allMdx(
-      filter: {
-        fields: { locale: { eq: $locale }, parent: { eq: "blog" } }
-      }
+      filter: { fields: { locale: { eq: $locale }, parent: { eq: "blog" } } }
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
       edges {

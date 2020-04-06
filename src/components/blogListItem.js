@@ -3,23 +3,25 @@ import React from 'react';
 import Link from './link';
 import Translate from './translate';
 
-const BlogListItem = ({ post, i18n }) => {
+const BlogListItem = ({ post, i18n = {} }) => {
   return (
     <div className="blog-item">
-      <h4>
+      <div className="meta">
         <Translate date={post.frontmatter.date} />
         <small>{` ${post.frontmatter.author || ''}`}</small>
-      </h4>
-      <h3>
+      </div>
+      <h3 className="title">
         <Link to={`/${post.parent.relativeDirectory}`}>{post.frontmatter.title}</Link>
         <br />
       </h3>
-      <div>
+      <div className="excerpt">
         {`${post.excerpt} `}
-        <Link to={`/${post.parent.relativeDirectory}`} className="read-more">
-          {i18n.continueReading}
-          <i className="fas fa-angle-right" />
-        </Link>
+        {i18n.continueReading && (
+          <Link to={`/${post.parent.relativeDirectory}`} className="read-more">
+            {i18n.continueReading}
+            <i className="fas fa-angle-right" />
+          </Link>
+        )}
       </div>
     </div>
   );

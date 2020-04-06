@@ -7,9 +7,9 @@ const Header = ({ link }) => {
   return (
     <div id="page-header">
       <header>
-        <img src={logo} alt="Ethereum Classic Logo" />
         <h1>
           <Link to="/">
+            <img src={logo} alt="Ethereum Classic Logo" />
             <Translate text="title" />
           </Link>
           {link && (

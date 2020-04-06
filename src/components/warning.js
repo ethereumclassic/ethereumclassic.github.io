@@ -32,13 +32,13 @@ export default class Warning extends React.Component {
     const { showing } = this.state;
     return (
       <div className={`warning-container ${!showing ? 'hidden' : ''}`}>
-        <div className="warning-overlay">
+        <div className="warning-overlay dark">
           <div
             className="close-button"
             onClick={() => this.setState({ showing: false })}
             role="button"
           >
-            ╳
+            <i className="fa fa-times" />
           </div>
           <h3>
             <Translate text="warningTitle" />

@@ -8,16 +8,18 @@ class VideoFrame extends React.Component {
 
   render() {
     const { play } = this.state;
+    const { title, src, youtube, timestamp } = this.props;
+    const thumb = `https://img.youtube.com/vi/${youtube}/hqdefault.jpg`;
     if (!play) {
       return (
         <div className="video-frame not-playing" onClick={() => this.setState({ play: true })}>
-          <div>
+          <div className="play">
             <i className="fas fa-play" />
           </div>
+          <div className="preview" style={{ backgroundImage: `url("${thumb}")` }} />
         </div>
       );
     }
-    const { title, src, youtube, timestamp } = this.props;
     let link = src;
     if (youtube) {
       link = `https://www.youtube.com/embed/${youtube}?autoplay=1`;

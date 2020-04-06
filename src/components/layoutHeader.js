@@ -7,9 +7,9 @@ const LayoutHeader = ({ i18n: { disclaimer } }) => {
     return null;
   }
   return (
-    <div className="layout-header">
+    <>
       <Disclaimer disclaimer={disclaimer} />
-    </div>
+    </>
   );
 };
 
