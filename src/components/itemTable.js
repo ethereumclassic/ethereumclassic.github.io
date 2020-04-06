@@ -13,8 +13,10 @@ const ItemTable = ({ items, columns, header, hideHead, sortedBy, rowClass }) => 
           {!hideHead && (
             <thead>
               <tr>
-                {columns.map(({ name, key }) => (
-                  <th key={key}>{name}</th>
+                {columns.map(({ name, key, className }) => (
+                  <th key={key} className={className}>
+                    {name}
+                  </th>
                 ))}
               </tr>
             </thead>
@@ -23,13 +25,17 @@ const ItemTable = ({ items, columns, header, hideHead, sortedBy, rowClass }) => 
             {sorted.map(item => (
               <tr key={item.key} className={rowClass && rowClass(item)}>
                 {columns.map(col => (
-                  <td key={col.key}>
+                  <td key={col.key} className={`${col.className || ''}`}>
                     {(() => {
                       if (col.render) {
                         return col.render(item[col.key], item);
                       }
                       if (col.type === 'check') {
-                        return item[col.key] ? '✅' : '❌';
+                        return item[col.key] ? (
+                          <i className="fas fa-check success check" />
+                        ) : (
+                          <i className="fas fa-times check" />
+                        );
                       }
                       const link = item[(col.text ? col.key : col.linkKey) || 'link'];
                       if (col.type === 'link') {

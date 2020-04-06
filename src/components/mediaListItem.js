@@ -6,15 +6,14 @@ import Translate from './translate';
 const MediaListItem = ({ date, title, author, source, link, text }) => {
   return (
     <div className="blog-item">
-      <h4>
+      <div className="meta">
         <Translate date={date} />
         <small>{` ${author || ''}${author && source ? ',' : ''} ${source || ''}`}</small>
-      </h4>
-      <h3>
+      </div>
+      <h3 className="title">
         <Link to={link} text={title} />
-        <br />
       </h3>
-      <div>{text}</div>
+      {text && <div className="excerpt">{text}</div>}
     </div>
   );
 };

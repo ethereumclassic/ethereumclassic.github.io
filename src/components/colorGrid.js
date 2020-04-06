@@ -27,10 +27,9 @@ class ColorGrid extends React.Component {
       <>
         <section>
           <div className={`legend ${selected != null ? 'has-selected' : ''}`}>
-            <b>
+            <div className="info">
               <Translate text="legend" />
-            </b>
-            <br />
+            </div>
             {Object.values(types).map(({ type, text, i }) => (
               <span
                 onClick={() => this.handleSelected(type)}

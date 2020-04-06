@@ -13,7 +13,7 @@ const PageLayout = ({ children, footer, header, i18n, link, wide }) => {
     <GlobalLayout>
       <SEO {...i18n} />
       <Navigation />
-      <div id="wrapper" className={`page ${wide ? 'wide' : ''}`}>
+      <div id="wrapper" className={`page ${wide ? 'wide' : 'thin'}`}>
         <Header link={link} />
         <div className="layout-container">
           <div className="layout-content">

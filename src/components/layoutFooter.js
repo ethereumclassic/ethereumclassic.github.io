@@ -8,10 +8,10 @@ const LayoutFooter = ({ i18n: { license, contribute } }) => {
     return null;
   }
   return (
-    <div className="layout-footer">
+    <>
       <License license={license} />
       <Contribute contribute={contribute} />
-    </div>
+    </>
   );
 };
 
