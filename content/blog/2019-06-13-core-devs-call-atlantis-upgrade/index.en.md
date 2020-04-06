@@ -34,4 +34,6 @@ ECIP-1054 needs to be either accepted or updated (or rejected)
 
 ideally, we agree on how (and when) we accept Atlantis in this call
 
+![ETC Core Devs Call - Atlantis Finalization](./atlantis-banner.jpg)
+
 [https://github.com/ethereumclassic/ECIPs/issues/79](https://github.com/ethereumclassic/ECIPs/issues/79)

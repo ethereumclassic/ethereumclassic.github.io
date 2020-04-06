@@ -17,7 +17,7 @@ ref [ECIP-1078](https://ecips.ethereumclassic.org/ECIPs/ecip-1078) [ECIP-1079](h
 ETC Core Devs Call - ECIP-1078 Phoenix Finalization
 When: Wednesday, February 05, 2020, 4pm UTC, 60 minutes max.
 
-Where: Ethereum Classic [Discord](https://discord.gg/dwxb6nf) #ecips channel. Will use/create a voice channel ad hoc.
+Where: Ethereum Classic [Discord](https://discord.gg/dwxb6nf) `#ecips` channel. Will use/create a voice channel ad hoc.
 
 ## Agenda
 
@@ -28,7 +28,7 @@ Quick client teams check-in
 * Multi-Geth
 
 Aztlán needs to be fixed, options are:
-* patch ECIP-1061 with EIP-1884 #280 - very unlikely
+* patch ECIP-1061 with EIP-1884 [#280](https://github.com/ethereumclassic/ECIPs/pull/280) - very unlikely
     * because ecip-1061 already released in parity and multi-geth
     * because ecip-1061 already activated on mordor testnet
 * replace ECIP-1061 with ECIP-1079 - unlikely
@@ -42,15 +42,15 @@ Phoenix (ECIP-1078) needs to be either accepted or updated (or rejected)
 * discuss included ECIP-1080 without gas repricing
 * discuss swap of EIP-2200 for EIP-1706 (1283 fix)
 * discuss a timeline for the protocol upgrade
-
-Mordor Classic and Kotti Classic testnet (March?)
-
-Ethereum Classic mainnet (June?)
+    * Mordor Classic and Kotti Classic testnet (March?)
+    * Ethereum Classic mainnet (June?)
 
 Anything else related to Aztlán and Phoenix
 
 Going through the pending ECIP PRs together
 
 Please comment to add items to the agenda.
+
+![Core Devs Call: ECIP-1078 Phoenix Upgrade](./phoenix_etc.jpg)
 
 [https://github.com/ethereumclassic/ECIPs/issues/284](https://github.com/ethereumclassic/ECIPs/issues/284)

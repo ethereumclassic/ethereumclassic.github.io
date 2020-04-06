@@ -40,4 +40,6 @@ Outlook: Astor SHA3 testnet if time permits
 
 Please comment to add items to the agenda
 
+![ETC Core Devs Call - Atlantis Finalization](./atlantis-banner.jpg)
+
 [https://github.com/ethereumclassic/ECIPs/issues/78](https://github.com/ethereumclassic/ECIPs/issues/78)
