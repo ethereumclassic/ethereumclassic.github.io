@@ -54,6 +54,7 @@
     letter-spacing: inherit;
     font-weight: 100;
     margin-bottom: $spacing;
+    z-index: 1;
   }
 
   .buttons {
@@ -65,8 +66,18 @@
     position: absolute;
     right: 0;
     padding: 0;
+    z-index: 1;
   }
-
+  .overlay {
+    background: _palette(t-black-20);
+    backdrop-filter: blur(7px) grayscale(50%);
+    position: fixed;
+    display: none;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+  }
   a {
     display: block;
     cursor: pointer;
@@ -85,7 +96,7 @@
     color: _palette(bg);
   }
 
-  input:checked~.buttons {
+  input:checked~.buttons, input:checked~.overlay {
     display: block;
   }
 }

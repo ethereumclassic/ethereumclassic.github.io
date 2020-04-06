@@ -33,6 +33,7 @@ class Hamburger extends React.Component {
         <div className="buttons" onClick={this.onClick}>
           {children}
         </div>
+        <div className="overlay" onClick={this.onClick} />
       </div>
     );
   }
