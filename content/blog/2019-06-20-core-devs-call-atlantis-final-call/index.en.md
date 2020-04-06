@@ -10,26 +10,30 @@ author: sorpaas
 
 ![Final of the Final Call: ECIP-1054 Atlantis Upgrade](./ethereum_classic_ecip_wallpaper.png)
 
-ETC Core Devs Call - Finalization of the Atlantis Finalization
-When: Thursday, June 20, 2019, 3pm UTC.
+## ETC Core Devs Call - Finalization of the Atlantis Finalization
 
-Where: Ethereum Classic Discord `#ecips` channel.
+* When: Thursday, June 20, 2019, 3pm UTC.
+* Where: Ethereum Classic Discord `#ecips` channel.
 
 ## Agenda
 
-Quick client teams check-in
+3## Quick client teams check-in
+
 * Multi-Geth
 * Parity Ethereum
 * IOHK Mantis
 * Classic Geth
 
-Testnet status
+### Testnet status
+
 * Kensington
 * Kotti Hardfork
 * Morden Outlook
 
-Discussion about the hard fork block
+### Discussion about the hard fork block
 
-![Final of the Final Call: ECIP-1054 Atlantis Upgrade](./atlantis-banner.jpg)
+### Please comment to add items to the agenda
 
 [https://github.com/ethereumclassic/ECIPs/issues/83](https://github.com/ethereumclassic/ECIPs/issues/83)
+
+![Final of the Final Call: ECIP-1054 Atlantis Upgrade](./atlantis-banner.jpg)
