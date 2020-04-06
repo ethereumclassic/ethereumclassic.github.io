@@ -10,36 +10,37 @@ author: soc1c
 
 ![ETC Core Devs Call - Atlantis Finalization](./ethereum_classic_ecip_wallpaper.png)
 
-When: Thursday, May 30, 2019, 3pm UTC, 60 minutes max.
+## Core Devs Call: ECIP-1054 Atlantis Upgrade
 
-Where: Ethereum Classic [Discord](https://discord.gg/dwxb6nf) #ecips channel. Will use/create a voice channel ad hoc.
+* When: Thursday, May 30, 2019, 3pm UTC, 60 minutes max.
+* Where: Ethereum Classic [Discord](https://discord.gg/dwxb6nf) #ecips channel. Will use/create a voice channel ad hoc.
 
 ## Agenda
 
-Quick client teams check-in
+### Quick client teams check-in
+
 * Geth / Multi-Geth
 * Parity Ethereum
 * IOHK Mantis
 
-Atlantis (ECIP-1054) is in "last call" state
+### Atlantis (ECIP-1054) is in "last call" state
 
-ECIP-1054 needs to be either accepted or updated (or rejected)
+### ECIP-1054 needs to be either accepted or updated (or rejected)
+
 * discuss whether EIP-161 should be included or not @meowsbits @sorpaas
 * discuss any other EIP that might cause uncertainty
 * discuss timeline for the protocol upgrade
+    * Morden Classic and Kotti Classic testnet (August?)
+    * Ethereum Classic mainnet (September?)
 
-Morden Classic and Kotti Classic testnet (August?)
+### Anything else related to Atlantis
 
-Ethereum Classic mainnet (September?)
+### Outlook: Agharta (ECIP-1056) if time permits
 
-Anything else related to Atlantis
+### Outlook: Astor SHA3 testnet if time permits
 
-Outlook: Agharta (ECIP-1056) if time permits
-
-Outlook: Astor SHA3 testnet if time permits
-
-Please comment to add items to the agenda
-
-![ETC Core Devs Call - Atlantis Finalization](./atlantis-banner.jpg)
+### Please comment to add items to the agenda
 
 [https://github.com/ethereumclassic/ECIPs/issues/78](https://github.com/ethereumclassic/ECIPs/issues/78)
+
+![ETC Core Devs Call - Atlantis Finalization](./atlantis-banner.jpg)
