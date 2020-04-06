@@ -54,4 +54,8 @@ ref [ECIP-1061](https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip
 
 [https://github.com/ethereumclassic/ECIPs/issues/298](https://github.com/ethereumclassic/ECIPs/issues/298)
 
+### Recording of Core Devs Call
+
+[Core Devs Call: Phoenix Upgrade from Scratch](https://www.youtube.com/watch?v=HzcJL3rVbpU&t=1416s)
+
 ![ETC Core Devs Call - Phoenix Upgrade from Scratch](./phoenix_etc.jpg)
