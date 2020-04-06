@@ -5,6 +5,13 @@
   border-radius: $roundedTight;
 }
 
+.trim {
+  @include breakpoint('<=xlarge') {
+    padding-left: $tinyPadding;
+    padding-right: $tinyPadding;
+  }
+}
+
 .text-center {
   text-align: center;
 }

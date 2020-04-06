@@ -1,7 +1,6 @@
 import React from 'react';
 import Social from './social';
 import Community from './community';
-import Discord from './discord';
 import Translate from './translate';
 import Link from './link';
 import ButtonLink from './buttonLink';
