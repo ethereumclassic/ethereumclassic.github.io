@@ -16,6 +16,8 @@ Become a contributor to the [ethereumclassic.org](https://ethereumclassic.org/) 
 
 If you want to modify content or add blog articles, you can do so in a number of ways:
 
+New GitHub contributors can follow this [contribution guide](https://guides.github.com/activities/forking/) to contribute to repositories.
+
 - Clone this repository yourself, and run using `npm start` (requires Linux/Mac & Node JS installed)
 - [Edit on GitPod](https://gitpod.io/#https://github.com/ethereumclassic/ethereumclassic.github.io)
 - Create an issue with suggested changes (a maintainer will implement the changes)
@@ -31,6 +33,8 @@ If you're writing Ethereum Classic content, the [Media Kit](https://github.com/e
 
 If you'd like to submit an Ethereum Classic related article to the website's Media section, please follow the instructions below. Please do not submit speculative articles like weekly price projections and such. This isn't a place for click bait marketing, but rather reliable articles related to developments in the Ethereum Classic ecosystem. Thank you.
 
+New GitHub contributors can follow this [contribution guide](https://guides.github.com/activities/forking/) to contribute to repositories.
+
 1. Fork this repository to your personal GitHub account.
     - Optional: Clone locally on your machine.
 2. Navigate to the file `content/news/media.en.yaml`
@@ -42,9 +46,9 @@ If you'd like to submit an Ethereum Classic related article to the website's Med
     - Instructions: [Creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 7. Celebrate. You just contributed to an open source, decentralized blockchain project! 🎉
 
-### Too complicated to contribute?
+### Too complicated to contribute directly?
 
-If you're not familiar with GitHub and all of this is too complicated, then you can simply input your content suggestion or new article into a [New Issue](https://github.com/ethereumclassic/ethereumclassic.github.io/issues/new/choose) and another contributor can make a PR for you. Also, you can reach out for help from other contributors in the [discord #ethereumclassicwebsite](https://discord.gg/DwQjJ8) channel.
+If you're not familiar with GitHub and all of this is too complicated, then you can simply input your content suggestion or news article into a [New Issue](https://github.com/ethereumclassic/ethereumclassic.github.io/issues/new/choose) and another contributor can make a PR for you. Also, you can reach out for help from other contributors in the [discord #ethereumclassicwebsite](https://discord.gg/DwQjJ8) channel.
 
 ### Contribute Translations
 
