@@ -28,11 +28,20 @@ ref [ECIP-1061](https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip
 * ChainSafe
 * Multi-Geth
 
-### Aztlán needs to be rejected as it's having multiple issues [#217](https://github.com/ethereumclassic/ECIPs/issues/217) [#226](https://github.com/ethereumclassic/ECIPs/issues/226) [#227](https://github.com/ethereumclassic/ECIPs/issues/227)
+### Aztlán needs to be rejected as it's having multiple issues:
 
-### Phoenix needs to be rejected as it's not of a sufficient patch especially with the context of the broken testnet activations [#262](https://github.com/ethereumclassic/ECIPs/issues/262)
+* [#217](https://github.com/ethereumclassic/ECIPs/issues/217)
+* [#226](https://github.com/ethereumclassic/ECIPs/issues/226)
+* [#227](https://github.com/ethereumclassic/ECIPs/issues/227)
 
-### Testnet patch should be rejected to favor a clean new hardfork meta [#293](https://github.com/ethereumclassic/ECIPs/pull/293) [#297](https://github.com/ethereumclassic/ECIPs/pull/297)
+### Phoenix needs to be rejected as it's not of a sufficient patch especially with the context of the broken testnet activations:
+
+* [#262](https://github.com/ethereumclassic/ECIPs/issues/262)
+
+### Testnet patch should be rejected to favor a clean new hardfork meta:
+
+* [#293](https://github.com/ethereumclassic/ECIPs/pull/293)
+* [#297](https://github.com/ethereumclassic/ECIPs/pull/297)
 
 ### It's still possible to do Phoenix on the same block number if we agree to activate one of the following options (ECIPs pending):
 
@@ -41,8 +50,8 @@ ref [ECIP-1061](https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip
 
 ### Anything else related to Aztlán and Phoenix
 
-![ETC Core Devs Call - Phoenix Upgrade from Scratch](./phoenix_etc.jpg)
-
 ### Please comment to add items to the agenda.
 
 [https://github.com/ethereumclassic/ECIPs/issues/298](https://github.com/ethereumclassic/ECIPs/issues/298)
+
+![ETC Core Devs Call - Phoenix Upgrade from Scratch](./phoenix_etc.jpg)

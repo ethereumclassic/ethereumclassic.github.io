@@ -52,8 +52,8 @@ ref [ECIP-1078](https://ecips.ethereumclassic.org/ECIPs/ecip-1078) [ECIP-1079](h
 
 ### Going through the pending ECIP PRs together
 
-![Core Devs Call: ECIP-1078 Phoenix Upgrade](./phoenix_etc.jpg)
-
 ### Please comment to add items to the agenda.
 
 [https://github.com/ethereumclassic/ECIPs/issues/284](https://github.com/ethereumclassic/ECIPs/issues/284)
+
+![Core Devs Call: ECIP-1078 Phoenix Upgrade](./phoenix_etc.jpg)
