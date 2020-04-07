@@ -17,7 +17,7 @@ author: sorpaas
 
 ## Agenda
 
-3## Quick client teams check-in
+### Quick client teams check-in
 
 * Multi-Geth
 * Parity Ethereum
