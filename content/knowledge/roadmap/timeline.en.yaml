@@ -1,40 +1,48 @@
-- key: ethereumLaunches
-  className: purple
+-
+  key: frontier
+  className: blue
   link: https://blog.ethereum.org/2015/07/30/ethereum-launches/
   icon: fab fa-ethereum
-  date: July 30 2015
-  title: Frontier Launch
+  date: Jul 30 2015
+  title: Ethereum Launches
   text: Vitalik Buterin and The Ethereum Foundation create the first
-    blockchain-based turing-complete smart contract platform
-- key: IceAge
-  className: purple
+    blockchain-based turing-complete smart contract platform with the Frontier release.
+-
+  key: iceage
+  className: blue
   link: https://blog.ethereum.org/2015/08/04/ethereum-protocol-update-1/
   icon: fab fa-ethereum
-  date: September 08 2015
+  date: Sept 08 2015
   title: Ice Age Upgrade
-  text:  The network implements an ‘Ice Age’ at block 200,000 to introduce PoS.
-- key: Homestead
-  className: purple
+  text:  The network implements an ‘Ice Age’ at block 200,000 to introduce the difficulty bomb as a mechanism to move the network to Proof-of-Stake.
+-
+  key: homestead
+  className: blue
   link: https://blog.ethereum.org/2016/02/29/homestead-release/
   icon: fab fa-ethereum
-  date: March 15 2016
+  date: Mar 15 2016
   title: Homestead Upgrade
   text:  Homestead is the second major version release of the Ethereum platform.
-- key: slockItCreatesTheDAO
+-
+  key: slockItCreatesTheDAO
+  className: white
   link: https://blog.slock.it/deja-vu-dao-smart-contracts-audit-results-d26bc088e32e
   icon: far fa-file-code
-  date: April 5 2016
+  date: Apr 5 2016
   title: Slock.it Creates TheDAO
   text: Slock.it construct TheDAO Ethereum Contract; a security audit is completed
     by Dejavu
-- key: theDAOCrowdsaleBegins
+-
+  key: theDAOCrowdsaleBegins
   link: https://blog.slock.it/the-dao-creation-is-now-live-2270fd23affc
+  className: white
   icon: fas fa-bullhorn
-  date: April 30 2016
+  date: Apr 30 2016
   title: TheDAO Crowdsale Begins
   text: TheDAO smart contract is deployed; members of the public send it value in
     return for DAO tokens
-- key: securityProposal
+-
+  key: securityProposal
   className: orange
   link: https://blog.slock.it/dao-security-a-proposal-to-guarantee-the-integrity-of-the-dao-3473899ace9d
   icon: far fa-keyboard
@@ -42,7 +50,8 @@
   title: Security Proposal
   text: Slock.it announce a $1.5 Million USD proposal, paid in Ether by the
     crowdfund, 'to guarantee the integrity of The DAO'
-- key: moratoriumCalled
+-
+  key: moratoriumCalled
   className: orange
   link: http://hackingdistributed.com/2016/05/27/dao-call-for-moratorium/
   icon: fas fa-crosshairs
@@ -50,14 +59,17 @@
   title: Moratorium Called
   text: On the last day of the crowdsale, DAO curator Vlad Zamfir calls for a
     moratorium on TheDAO, citing many game-theoretical security issues
-- key: theDAOCrowdsaleEnds
+-
+  key: theDAOCrowdsaleEnds
+  className: white
   link: http://slacknation.github.io/medium/8/8.html
   icon: fas fa-funnel-dollar
   date: May 27 2016
   title: TheDAO Crowdsale Ends
   text: The crowdsale completes to become the world's largest and raising an
     incredible $150 Million USD
-- key: recursiveCallBugDiscovered
+-
+  key: recursiveCallBugDiscovered
   className: orange
   link: http://vessenes.com/more-ethereum-attacks-race-to-empty-is-the-real-deal/
   icon: fas fa-bug
@@ -65,14 +77,17 @@
   title: Recursive Call Bug Discovered
   text: Peter Vessenes publicly discloses the existence of a critical security
     vulnerability overlooked in many Solidiy contracts
-- key: noFundsAtRisk
+-
+  key: noFundsAtRisk
+  className: white
   link: https://blog.slock.it/no-dao-funds-at-risk-following-the-ethereum-smart-contract-recursive-call-bug-discovery-29f482d348b
   icon: fas fa-thumbs-up
   date: Jun 12 2016
   title: No Funds at Risk
   text: Stephan Tual publicly claims that TheDAO funds are safe despite the
     newly-discovered critical security flaw
-- key: theDAOIsHacked
+-
+  key: theDAOIsHacked
   className: red
   link: http://slacknation.github.io/medium/10/10.html
   icon: fas fa-times-circle
@@ -80,7 +95,8 @@
   title: TheDAO is Hacked
   text: Ether is slowly and silently drained from TheDAO as the re-entry bug is
     applied
-- key: panicHitsTheMarkets
+-
+  key: panicHitsTheMarkets
   className: red
   link: https://cointelegraph.com/news/dao-potentially-hacked-millions-of-ether-may-be-stolen-griff-green-says
   icon: fas fa-chart-area
@@ -88,7 +104,8 @@
   title: Panic Hits the Markets
   text: The price of Ether is slashed in half as Griff Green announces that TheDAO
     has been hacked
-- key: theCountdownBeings
+-
+  key: theCountdownBeings
   className: blue
   link: https://blog.ethereum.org/2016/06/17/critical-update-re-dao-vulnerability/
   icon: fas fa-hourglass-start
@@ -97,7 +114,8 @@
   text: TheDAO's splitting mechanism gives around a month for a solution to be found
     that recovers the funds; Foundation and community developers race to
     implement a soft fork
-- key: robinHoodGroupAnnounced
+-
+  key: robinHoodGroupAnnounced
   className: white
   link: https://www.reddit.com/r/ethereum/comments/4p7mhc/update_on_the_white_hat_attack/
   icon: fas fa-user-secret
@@ -105,7 +123,8 @@
   title: Robin Hood Group Announced
   text: A group of 'white-hat' hackers secure 70% of TheDAO funds but protocol-level
     action is required to save the remaining 30% split by the hacker
-- key: DAO
+-
+  key: DAO
   className: blue
   link: https://blog.ethereum.org/2016/06/24/dao-wars-youre-voice-soft-fork-dilemma/
   icon: fas fa-wrench
@@ -113,7 +132,8 @@
   title: "DAO Wars: Soft Fork Vote"
   text: The Ethereum Foundation releases a 'Soft Fork' client to censor transactions
     coming from the hacker; mining pools vote to enable it by lowering gas limit
-- key: softForkVulnerability
+-
+  key: softForkVulnerability
   className: red
   link: https://blog.ethereum.org/2016/06/28/security-alert-dos-vulnerability-in-the-soft-fork/
   icon: far fa-calendar-times
@@ -121,13 +141,16 @@
   title: Soft Fork Vulnerability
   text: Critical Denial of Service flaws are found in the Soft Fork implementation,
     miners quickly decide not to use it
-- key: hardForkDebate
+-
+  key: hardForkDebate
+  className: orange
   icon: fas fa-comment
   date: Jun 28 - Jul 15
   title: Hard Fork Debate
   text: Many days of intense arguing goes on in the Ethereum community about the
     pros and cons of implementing a Hard Fork
-- key: hardForkSpecAnnounced
+-
+  key: hardForkSpecAnnounced
   className: blue
   link: https://blog.slock.it/hard-fork-specification-24b889e70703
   icon: fas fa-exclamation-triangle
@@ -135,7 +158,8 @@
   title: Hard Fork Spec Announced
   text: The only remaining option is a controversial Hard Fork. A Specification is
     determined and announced by Slock.it and Ethereum Foundation members
-- key: lastMinuteCarbonvote
+-
+  key: lastMinuteCarbonvote
   className: orange
   link: https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork/
   icon: far fa-clock
@@ -144,33 +168,37 @@
   text: With 12 hours notice, The Ethereum Foundation use a controversial third
     party 'coin vote' to determine that the Hard Fork should be turned on by
     default; consensus is declared and an updated client is released
-- key: dAOBailoutHardFork
+-
+  key: dAOBailoutHardFork
   className: blue
   link: https://blog.ethereum.org/2016/07/20/hard-fork-completed/
   icon: fas fa-code-branch
   date: Jul 20 2016
   title: DAO Bailout Hard Fork
   text: With around 80% of nodes updating to the new client, the community nervously
-    await the arrival of the Hard Fork activation block 1920000
-- key: missionAccomplished
+    await the arrival of the Hard Fork activation block 1,920,000
+-
+  key: missionAccomplished
   className: purple
   link: https://twitter.com/initc3org/status/758000698881613824
   icon: fas fa-cocktail
-  date: Block 1920000
+  date: Block 1,920,000
   title: Mission Accomplished!
   text: The community lets out a sigh of relief as the Hard Fork code is succesfully
     implemented with no obvious flaws; champagne corks are popped all over the
     globe
-- key: ethereumClassicIsBorn
+-
+  key: ethereumClassicIsBorn
   className: green
-  link: https://gastracker.io/block/0x94365e3a8c0b35089c1d1195081fe7489b528a84b22199c916180db8b28ade7f
+  link: https://expedition.dev/block/0xab7668dfd3bedcf9da505d69306e8fd12ad78116429cf8880a9942c6f0605b60?network=mainnet
   icon: fas fa-rocket
   date: Block 1920001
   title: Ethereum Classic is Born
   text: With predictions of the original non-forked chain to disappear within hours,
     many are surprised to find that miners continue mining blocks and OTC
     trading of the original chain tokens gives them value
-- key: poloniexListsETC
+-
+  key: poloniexListsETC
   className: green
   link: https://twitter.com/poloniex/status/757068619234803712
   icon: fas fa-chart-line
@@ -178,7 +206,9 @@
   title: Poloniex Lists ETC
   text: The largest Ethereum exchange lists 'ETC' - Ethereum Classic; many exchanges
     quickly follow suit, ETC price peaks to 1/3 of ETH's
-- key: communityInDisarray
+-
+  key: communityInDisarray
+  link: https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/
   className: red
   icon: far fa-frown
   date: Jul 23 Onwards
@@ -186,8 +216,9 @@
   text: Flame wars begin in the once peaceful /r/Ethereum and /r/ethtrader
     subreddits and economically-charged vitriolic spats begin to take hold of
     the community as it comes to terms with the split
-- key: ethereumClassicCommunity
-  className: green
+-
+  key: ethereumClassicCommunity
+  className: white
   link: https://www.reddit.com/r/EthereumClassic/
   icon: fas fa-users
   date: Jul 24 2016
@@ -195,32 +226,45 @@
   text: The Ethereum Classic community begins to branch off from the forked-chain
     subreddits and form its own communication channels, including
     /r/EthereumClassic, Slack and Telegram
-- key: rHGStrikesBack
-  className: white
-  link: https://www.reddit.com/r/EthereumClassic/comments/4x1157/from_whitehat_to_poloniex/
+-
+  key: 51attack
+  date: Jul 31 2016
+  title: 51% Attack
+  link: http://www.newsbtc.com/2016/07/31/51pool-attack-plans-51-network-attack-ethereum-classic/
+  text: Although some earlier attempts remained nothing but speculation, 51Pool is forging ahead with its plans to destroy the ETC network. This goes to show how some people in the Ethereum community respond when the going gets tough.
+  icon: fas fa-unlink
+  className: red
+-
+  key: rHGStrikesBack
+  className: red
+  link: http://themerkle.com/white-hat-hackers-caught-red-handed-during-attempted-etc-sell-off/
   icon: fas fa-dumpster-fire
   date: Aug 10 2016
   title: RHG Strikes Back
   text: The Robin Hood Group attempts to dump a large quantity of stolen ETC on the
     market. Poloniex freezes the funds. Uncertainty reaches an all time high
-- key: classicDeclaresIndependence
-  className: green
+-
+  key: classicDeclaresIndependence
+  className: yellow
   icon: fas fa-flag
   link: /blog/2016-08-13-declaration-of-independence
   date: Block 2050000
   title: Classic Declares Independence
   text: Declaration of Independence on the ETC website is published stating ETC no
     longer wants to be in association with the Foundation
-- key: classicRebuilds
-  className: green
+-
+  key: classicRebuilds
+  link: https://ethereumclassic.netlify.com/blog/2016-08-18-meetup
+  className: white
   icon: fas fa-cubes
-  date: Aug 15 2016
+  date: Aug 18 2016
   title: Classic Rebuilds
   text: The Ethereum Classic community begins to rally behind a stabilizing ETC
     price by rebuilding on the Classic network; this website is created, groups
     are formed, new ideas begin to surface
-- key: dAOETCUnlocked
-  className: white
+-
+  key: dAOETCUnlocked
+  className: orange
   link: https://bitcoinmagazine.com/articles/millions-of-dollars-worth-of-etc-may-soon-be-dumped-on-the-market-1472567361
   icon: fas fa-chart-area
   date: Aug 31 2016
@@ -228,16 +272,26 @@
   text: Millions of previously locked or frozen ETC become available to DAO token
     holders and DAO attacker. Despite predictions of doom and gloom, ETC price
     holds remarkably well in face of huge dumps
-- key: attacksAndUpgrades
+-
+  key: codeislaw
+  className: white
+  link: https://ethereumclassic.org/blog/2016-09-09-code-is-law
+  icon: far fa-file-code
+  date: Sept 09 2016
+  title: Code is Law
+  text: People keep repeating the phrase "Code is Law" without clear understanding of what it's supposed to mean. Ethereum Classic principles explained.
+-
+  key: gasreprice
   className: red
-  link: https://www.reddit.com/r/EthereumClassic/comments/599kmf/etc_community_successfully_implemented_gasreprice/
+  link: https://ethereumclassic.org/blog/2016-10-17-gas-reprice-hard-fork
   icon: fas fa-exclamation-circle
-  date: Oct 25 2016
-  title: Attacks and Upgrades
+  date: Oct 24 2016
+  title: Gas Reprice Upgrade
   text: Both Ethereums are hit with non-stop network attacks; ETC devs quickly
     ensure smooth and uncontentious network upgrade to patch exploited
     vulnerabilities
-- key: etcMonetaryPolicy
+-
+  key: etcMonetaryPolicy
   className: green
   link: https://www.reddit.com/r/EthereumClassic/comments/5cm582/monetary_policy_update/
   icon: fas fa-coins
@@ -246,7 +300,8 @@
   text: Classic community starts debating ETC monetary policy and emission schedule,
     as a way to align interests of platform users, miners, investors and
     developers
-- key: grothendieckTeam
+-
+  key: grothendieckTeam
   className: white
   link: https://ethereumclassic.github.io/blog/2016-12-12-TeamGrothendieck/
   icon: fas fa-user-ninja
@@ -254,30 +309,33 @@
   title: Grothendieck team
   text: A team of 7 full-time developers, committed by IOHK, starts working for
     Ethereum Classic
-- key: etcDiehardUpgrade
+-
+  key: diehard
   className: blue
   link: https://www.reddit.com/r/EthereumClassic/comments/5nt4qm/diehard_etc_protocol_upgrade_successful_nethash/
-  icon: fas fa-angle-double-up
-  date: Block 3000000
-  title: ETC Diehard Upgrade
-  text: ETC goes through a non-contentious network upgrade, resolving critical
-    issues such as difficulty bomb and replay attacks
-- key: etcDEVTeamAnnouncement
+  icon: fas fa-bomb
+  date: Jan 13 2017
+  title: Die Hard Upgrade
+  text: ETC goes through a non-contentious network upgrade, addressing replay attacks and delaying the difficulty bomb
+  -
+  key: etcDEVTeamAnnouncement
   className: white
   link: https://www.etcdevteam.com/
   icon: fas fa-user-ninja
   date: Feb 20 2017
   title: ETCDEV Team Announcement
   text: A team of long-term ETC contributors and volunteers rebrands as a ETCDEV team
-- key: monetaryPolicyAdopted
+-
+  key: monetaryPolicyAdopted
   className: green
   link: https://www.etcdevteam.com/blog/articles/a-joint-statement-ecip1017.html
   icon: fas fa-hand-holding-usd
-  date: March 1 2017
-  title: Monetary Policy Adopted
+  date: Mar 1 2017
+  title: 5M20 Monetary Policy Adopted
   text: Ethereum Classic community adopts a fixed-cap monetary policy with a
     Bitcoin-like limited emission schedule
-- key: etcInvestmentFund
+-
+  key: etcInvestmentFund
   className: green
   link: https://grayscale.co/ethereum-classic-investment-thesis-march-2017/
   icon: fas fa-user-tie
@@ -285,9 +343,18 @@
   title: ETC Investment Fund
   text: Grayscale circulates investment thesis for 'Ethereum (ETC) Investment
     Trust', first non-bitcoin crypto fund targeted at traditional investors
-- key: etcCoop
+-
+  key: commonwealth
   icon: fas fa-child
-  className: green
+  className: white
+  link: https://ethereumclassic.org/blog/2017-07-23-development-boost/
+  date: Jul 22 2017
+  title: ETC Commonwealth Team Formed
+  text: A development team called Ethereum Commonwealth forms to help build Ethereum Classic
+-
+  key: etcCoop
+  icon: fas fa-child
+  className: white
   link: https://etccooperative.org/
   date: Sept 2017
   title: Birth of ETC Cooperative
@@ -301,18 +368,20 @@
   text: Held in Hong Kong
   icon: fas fa-users
   className: purple
-  link: https://etcsummit.com/
+  link: https://ethereumclassic.org/blog/2017-11-11-whos-talking-at-the-classic-summit
 -
-  key: era2
-  date: Block 5,000,000
-  title: Era 2 Arrives
-  text: On Dec 11 2017, ECIP-1017's 2nd Era kicked in, reducing emission by 20%
-  icon: far fa-clock
-  className: orange
+  key: gotham5m20era2
+  link: https://ethereumclassic.org/blog/2017-12-11-gotham-hard-fork-upgrade-5m20-era2
+  date: Dec 11 2017
+  title: Gotham Upgrade 5m20 Era 2
+  text: On Dec 11 2017, ECIP-1017's 5M20 Era block reward reduced emission by 20% to 4 ETC per block.
+  icon: fas fa-coins
+  className: green
 -
-  key: ECIP1041
-  date: May 19 2018
-  title: ECIP 1041 Network Upgrade
+  key: defusedifficultybomb
+  link: https://ethereumclassic.org/blog/2018-05-29-defuse-difficulty-bomb-hard-fork-upgrade
+  date: May 30 2018
+  title: Defuse Difficulty Bomb
   text: ETC safely disabled the difficulty bomb that was put in place to switch the original Ethereum project to PoS. Ethereum Classic commits itself to PoW as it's consensus mechanism.
   icon: fas fa-angle-double-up
   className: blue
@@ -326,6 +395,7 @@
   link: https://etclabs.org/
 -
   key: kotti
+  link: https://cryptodaily.co.uk/2018/11/What-is-Ethereum-Classics-Project-Goerli
   date: Sept 8 2018
   title: Birth of the Kotti Testnet
   text: A Proof-of-Authority (Clique) testnet constructed to provide interoperability testing with sister-chain ETH's Görli Testnet. POA becomes the preferred testnet environment for dapp development testing.
@@ -354,8 +424,8 @@
   icon: fas fa-user-ninja
   className: white
 -
-  key: 51attack
-  date: Jan 2019
+  key: 51attack2
+  date: Jan 8 2019
   title: 51% Attack
   link: https://medium.com/@slowmist/the-analysis-of-etc-51-attack-from-slowmist-team-728596d76ead
   text: The Chinese blockchain security firm SlowMist sent out an alert, that the Ethereum Classic network might have been targeted by hashpower consolidation (chain reorganization).
@@ -363,7 +433,8 @@
   className: red
 -
   key: atlantis
-  date: Sept 30 2019
+  link: https://ecips.ethereumclassic.org/ECIPs/ecip-1054
+  date: Sept 12 2019
   title: Atlantis Upgrade
   text: ECIP-1054 was implemented to enable the outstanding Ethereum Foundation Spurious Dragon and Byzantium network protocol upgrades.
   icon: fas fa-angle-double-up
@@ -378,6 +449,7 @@
   link: https://etcsummit.com/
 -
   key: mordor
+  link: https://ethereumclassic.org/blog/2019-10-04-mordor-testnet-launch/
   date: Oct 3 2019
   title: The birth of Mordor PoW Testnet
   text: The retiring of old PoW testnets to clean up pre-chain split baggage.
@@ -385,21 +457,29 @@
   className: blue
 -
   key: agharta
+  link: https://ecips.ethereumclassic.org/ECIPs/ecip-1056
   date: Jan 12 2020
   title: Agharta Upgrade
   text: ECIP-1056 was implement to enable the outstanding Ethereum Foundation Constaninople and Petersburg network protocol upgrades.
   icon: fas fa-angle-double-up
   className: blue
 -
-  key: era3
-  date: Block 10,000,000
+  key: 5m20era3
+  link: https://ecips.ethereumclassic.org/ECIPs/ecip-1017
+  date: Mar 17 2020
   title: 5M20 Era 3 Arrives
-  text: On March 17, 2020, Ethereum Classic's 5M20 monetary policy moved to Era3. The emission schedule, outlined in ECIP1017, reduced the block reward by 20%, from 4 to 3.2 ETC, on block 10 million.
-  icon: far fa-clock
-  className: orange
+  text: On March 17, 2020, Ethereum Classic's 5M20 monetary policy moved to Era3. The emission schedule reduced the block reward from 4 to 3.2 ETC on block 10 million.
+  icon: fas fa-coins
+  className: green
+-
+  key: phoenix
+  link: https://ecips.ethereumclassic.org/ECIPs/ecip-1088
+  date: June 10 2020
+  title: Phoenix Upgrade
+  text: ECIP-1088 is planned for June, 2020 on block 10,500,839 to enable the outstanding Ethereum Foundation Istanbul network protocol upgrade.
+  icon: fas fa-angle-double-up
+  className: blue
 -
   key: toBeContinued
   title: To Be Continued
-  text: As Ethereum Classic community and its two independent dev teams start to
-    focus efforts on development and applications, we look forward to ETC
-    becoming a decentralized immutable public infrastructure of the future...
+  text: As Ethereum Classic ecosystem and its independent development teams start to focus efforts on development and applications, we look forward to ETC becoming a decentralized immutable public infrastructure of the future...

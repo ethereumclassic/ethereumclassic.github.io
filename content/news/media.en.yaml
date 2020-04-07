@@ -6,13 +6,6 @@
   source: ETC Core
   title: "Phoenix Ethereum Classic Network Upgrade Proceeds to Accepted Status and on Schedule"
 -
-  key: 2020-03-30-MinerUpdate
-  date: 2020-03-30
-  link: https://www.minerupdate.com/news/miner-insights/bitmain-antminer-e3-ethereum-dag-size
-  author: Miner Update
-  source: Miner Update
-  title: "Bitmain’s Antminer E3 Firmware Update"
--
   key: 2020-03-30-Bitmain
   date: 2020-03-30
   link: https://blog.bitmain.com/en/bitmains-antminer-e3-firmware-update/
@@ -76,13 +69,6 @@
   source: Gitcoin
   title: "ETC Labs Workshop: Funding The Future"
 -
-  key: 2020-03-20-Decrypt
-  date: 2020-03-20
-  link: https://decrypt.co/23160/ethereum-classic-director-rebuts-mismanagement-claims-2
-  author: Mathew Di Salvo
-  source: Decrypt
-  title: "Ethereum Classic Cooperative director rebuts mismanagement claims"
--
   key: 2020-03-19-EtherPlan
   date: 2020-03-19
   link: https://etherplan.com/2020/03/19/ethereum-classic-ungovernance-explained/10522/
@@ -104,13 +90,6 @@
   source: Ethereum Classic Labs
   title: "Announcing Christian Xu, our new Asia Community Manager"
 -
-  key: 2020-03-17-The-Block
-  date: 2020-03-17
-  link: https://www.theblockcrypto.com/post/58953/ethereum-classic-collective-board-member-resigns-withdraws-funding-support
-  author: Celia Wan
-  source: The Block
-  title: "Ethereum Classic Collective board member resigns, withdraws funding support"
--
   key: 2020-03-17-Portal-Network
   date: 2020-03-17
   link: https://medium.com/portalnetworkofficial/integration-kaizen-x-the-graph-1a01bfe42f7c
@@ -124,27 +103,6 @@
   author: David Cox
   source: CryptoNewZ
   title: "ETC Cooperative Welcomes Elaine Ou, Craig Salm, Roy Zou As Board of Directors"
--
-  key: 2020-03-17-Gitcoin
-  date: 2020-03-17
-  link: https://gitcoin.co/issue/etclabscore/Bounty-Share-the-love-of-ETC/1/100020677
-  author: Ethereum Classic Labs
-  source: Gitcoin
-  title: "ETC Gitcoin Bounty: Design Competition For Ethereum Classic $300 Bounty"
--
-  key: 2020-03-17-Gitcoin
-  date: 2020-03-17
-  link: https://gitcoin.co/issue/etclabscore/Bounty-DIY-hardware-wallet/1/100020676
-  author: Ethereum Classic Labs
-  source: Gitcoin
-  title: "ETC Gitcoin Bounty: Create A DIY Hardware Wallet Using Signatory $500 Bounty"
--
-  key: 2020-03-17-Gitcoin
-  date: 2020-03-17
-  link: https://gitcoin.co/issue/etclabscore/evm_llvm/48/100020678
-  author: Ethereum Classic Labs
-  source: Gitcoin
-  title: "ETC Gitcoin Bounty: EVM LLVM Implement Instruction Scheduler $1500 Bounty"
 -
   key: 2020-03-17-ETC-Labs
   date: 2020-03-17
@@ -251,19 +209,12 @@
   source: Ethereum Classic Core
   title: "Run Core-geth with Docker"
 -
-  key: 2020-03-06-Decrypt
-  date: 2020-03-06
-  link: https://decrypt.co/21542/buying-and-selling-the-dreaded-coronatoken
-  author: Colin Platt
-  source: Decrypt
-  title: "Buying and selling the dreaded CoronaToken"
--
   key: 2020-03-05-Binance
   date: 2020-03-05
   link: https://binance.zendesk.com/hc/en-us/articles/360040120772
   author: Binance
   source: Binance
-  title: "Instantly buy ETC, BCH, DASH, XTZ, ZEC & more with Visa Card"
+  title: "Instantly buy ETC, BCH, DASH, XTZ, ZEC and more with Visa Card"
 -
   key: 2020-03-05-ETC-Core
   date: 2020-03-05
@@ -496,13 +447,6 @@
   source: The Coin Republic
   title: "ETC Upgrade Aztlan Is Now In Integration With Hyperledger Besu"
 -
-  key: 2020-02-07-Decrypt
-  date: 2020-02-07
-  link: https://decrypt.co/18677/ethereum-booms-while-ethereum-classic-busts-in-new-market-rally
-  author: Daniel Phillips
-  source: Decrypt
-  title: "Ethereum booms while Ethereum Classic busts in new market rally"
--
   key: 2020-02-06-EtherPlan
   date: 2020-02-06
   link: https://etherplan.com/2020/02/06/ethereum-classic-money-property-agreements-explained/9965/
@@ -571,7 +515,7 @@
   link: https://etherplan.com/2020/01/31/ethereum-classic-developer-call-about-the-next-aztlan-phoenix-upgrades-feb-5-2019/9796/
   author: Donald McIntyre
   source: EtherPlan
-  title: "Ethereum Classic Developer Call – About the Next Aztlán & Phoenix Upgrades – Feb 5, 2019"
+  title: "Ethereum Classic Developer Call – About the Next Aztlán and Phoenix Upgrades – Feb 5, 2019"
 -
   key: 2020-01-30-DFG
   date: 2020-01-30
@@ -579,13 +523,6 @@
   author: Marie Knowles
   source: Chamber of Digital Commerce
   title: "Digital Finance Group Joins Chamber of Digital Commerce Executive Committee"
--
-  key: 2020-01-28-Decrypt
-  date: 2020-01-28
-  link: https://decrypt.co/17894/ethereum-classic-price-is-the-highest-its-been-in-over-a-year
-  author: Nicholas Marinoff
-  source: Decrypt
-  title: "Ethereum Classic price is the highest it’s been in over a year"
 -
   key: 2020-01-28-EtherPlan
   date: 2020-01-28
@@ -622,13 +559,6 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Donald McIntyre
   source: EtherPlan
   title: "The Meaning of Immutability in Ethereum Classic (ETC)"
--
-  key: 2020-01-23-Decrypt2
-  date: 2020-01-23
-  link: https://decrypt.co/17544/ethereum-classic-price-comes-tumbling-down
-  author: Nicholas Marinoff
-  source: Decrypt
-  title: "Ethereum Classic price comes tumbling down"
 -
   key: 2020-01-23-ETC-Core
   date: 2020-01-23
