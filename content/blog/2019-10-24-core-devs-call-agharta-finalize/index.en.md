@@ -6,9 +6,9 @@ author: soc1c
 
 # ETC Core Devs Call - Agharta Finalization
 
-[https://ecips.ethereumclassic.org/ECIPs/ecip-1054](https://ecips.ethereumclassic.org/ECIPs/ecip-1054)
+[https://ecips.ethereumclassic.org/ECIPs/ecip-1056](https://ecips.ethereumclassic.org/ECIPs/ecip-1056)
 
-![Final of the Final Call: ECIP-1054 Atlantis Upgrade](./ethereum_classic_ecip_wallpaper.png)
+![ETC Core Devs Call - Agharta Finalization](./ethereum_classic_ecip_wallpaper.png)
 
 Ref [#131](https://github.com/ethereumclassic/ECIPs/issues/131) [ECIP-1056](https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1056.md)
 
@@ -48,4 +48,4 @@ Ref [#131](https://github.com/ethereumclassic/ECIPs/issues/131) [ECIP-1056](http
 
 [https://github.com/ethereumclassic/ECIPs/issues/135](https://github.com/ethereumclassic/ECIPs/issues/135)
 
-![Final of the Final Call: ECIP-1054 Atlantis Upgrade](./agharta-banner.jpg)
+![ETC Core Devs Call - Agharta Finalization](./agharta-banner.jpg)
