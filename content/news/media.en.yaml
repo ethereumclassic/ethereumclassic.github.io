@@ -188,13 +188,6 @@
   source: ETC Core
   title: "EVM61 #3 ETC Updates"
 -
-  key: 2020-03-10-Decrypt
-  date: 2020-03-10
-  link: https://decrypt.co/21569/crypto-traders-hot-on-eth-classic-cold-on-eos-reveals-stocktwits-data
-  author: Daniel Phillips
-  source: Decrypt
-  title: "Crypto traders hot on Eth Classic, cold on EOS reveals Stocktwits data"
--
   key: 2020-03-10-CCS
   date: 2020-03-10
   link: https://www.youtube.com/watch?v=ZbpElXDBP4k&feature=youtu.be
@@ -223,13 +216,6 @@
   source: ETC Core
   title: "Core-Geth, a distribution of go-ethereum with many flavors"
 -
-  key: 2020-03-04-Brave-New-Coin
-  date: 2020-03-04
-  link: https://bravenewcoin.com/insights/polkadot-and-ethereum-classic-integrate-chainlink
-  author: Alex Lielacher
-  source: Brave New Coin
-  title: "Polkadot and Ethereum Classic integrate Chainlink"
--
   key: 2020-03-03-Digital-Asset
   date: 2020-03-03
   link: https://hub.digitalasset.com/press-release/ethereum-compatible-hyperledger-besu-now-has-enterprise-grade-daml-smart-contracts
@@ -243,13 +229,6 @@
   author: Stevan Lohja
   source: ETC Core
   title: "ETC Core 2020 Roadmap Announcement"
--
-  key: 2020-02-29-TWJ
-  date: 2020-02-29
-  link: https://www.tronweekly.com/etc-labs-teams-up-with-chainlink-with-oracle-technology-usage-in-sight/
-  author: Ketaki Dixit
-  source: Tron Weekly
-  title: "ETC Labs Teams Up With Chainlink With Oracle Technology Usage In Sight"
 -
   key: 2020-02-28-Second-State
   date: 2020-02-28
@@ -356,26 +335,12 @@
   source: Coin Central
   title: "What Is Ethereum Classic (ETC)? - A Guide to the Original Ethereum Blockchain"
 -
-  key: 2020-02-17-Herald-Sheets
-  date: 2020-02-17
-  link: https://heraldsheets.com/2020/02/17/basefex-launches-ethereum-classic-etc-against-tether-usdt-perpetual-contract/
-  author: Tobi Loba
-  source: Herald Sheets
-  title: "BaseFEX Launches Ethereum Classic (ETC) against Tether (USDT) Perpetual Contract"
--
   key: 2020-02-16-ETC-Core
   date: 2020-02-16
   link: https://youtu.be/46nJ4AWHmvw
   author: Zachary Belford
   source: ETC Core
   title: "ETHDenver Hackathon Winner: MetaMask Snaps + OpenRPC = Love"
--
-  key: 2020-02-14-Decryptco
-  date: 2020-02-14
-  link: https://decrypt.co/19328/altcoins-are-racing-past-bitcoin-ahead-of-its-halvening
-  author: Daniel Phillips
-  source: Decrypt
-  title: "Altcoins are racing past Bitcoin ahead of its halvening"
 -
   key: 2020-02-14-Sludge-Feed
   date: 2020-02-14
@@ -419,26 +384,12 @@
   source: Ethereum Classic Labs
   title: "ETC Labs Announces Collaboration with Fantom and Xar Network"
 -
-  key: 2020-02-10-CoinTelegraph
-  date: 2020-02-10
-  link: https://medium.com/ethereum-classic-labs/etc-labs-announces-collaboration-with-fantom-xar-network-fefe5d9bd1c5
-  author: Andrey Shevchenko
-  source: Coin Telegraph
-  title: "Ethereum Classic Jumps Into DeFi With Fantom Partnership, But Only as Collateral"
--
   key: 2020-02-10-ETC-Core
   date: 2020-02-10
   link: https://medium.com/etc-core/announcing-evm-llvm-alpha-release-the-next-level-in-smart-contract-evolution-91a2119bd442
   author: Stevan Lohja
   source: ETC Core
   title: "Announcing EVM-LLVM Alpha release — The next level in smart contract evolution!"
--
-  key: 2020-02-10-CN
-  date: 2020-02-10
-  link: https://www.cryptoninjas.net/2020/02/10/ethereum-classic-labs-teams-with-fantom-and-xar-network-to-bring-defi-to-etc/
-  author: Associated Press
-  source: Crypto Ninjas
-  title: "Ethereum Classic Labs teams with Fantom and Xar Network to bring DeFi to ETC"
 -
   key: 2020-02-08-CR
   date: 2020-02-08
@@ -651,13 +602,6 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: EtherPlan
   title: "The Logic of why Ethereum Classic will Rise 1000x in the Medium to Long Term"
 -
-  key: 2020-01-13-ICO-Insider
-  date: 2020-01-13
-  link: https://icoinsider.net/ethereum-classic-cooperative-warns-public-against-apparent-hard-fork-scam/
-  author: ETC Cooperative
-  source: ICO Insider
-  title: "Ethereum Classic Cooperative Warns Public Against Apparent Hard Fork Scam"
--
   key: 2020-01-13-ETC-Core
   date: 2020-01-13
   link: https://medium.com/etc-core/agharta-hard-fork-is-successfully-activated-on-ethereum-classic-10a9bb62624e
@@ -719,7 +663,7 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   link: https://medium.com/@constantp2p/constant-etc-ama-recap-94095ff87f07
   author: Constant P2P
   source: Ethereum Classic Labs
-  title: "Constant and ETC Labs AMA Recap"
+  title: "Constant P2P and ETC Labs AMA Recap"
 -
   key: 2019-12-20-CB
   date: 2019-12-20
@@ -733,7 +677,7 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   link: https://cryptodaily.co.uk/2019/12/ethereum-classic-teams-rebrand-for-clarity
   author: Adrian Barkley
   source: Crypto Daily
-  title: "Ethereum Classic Teams Rebrand For Clarity"
+  title: "Ethereum Classic Labs Core Team Rebrands to ETC Core For Clarity"
 -
   key: 2019-12-12-ETC-Core
   date: 2019-12-12
@@ -1652,13 +1596,6 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: Crowd Fund Insider
   title: "Bitcoin IRA Unveils Litecoin, Ethereum Classic, and Bitcoin Cash for Retirement Investments"
 -
-  key: 2017-09-01-CCN
-  date: 2017-09-01
-  link: https://www.cryptocoinsnews.com/ethereum-classic-price-jumps-past-20-during-23-climb/
-  author: Josiah Wilmoth
-  source: Crypto Coins News
-  title: "Ethereum Classic Price Jumps Past $20 During 23% Climb"
--
   key: 2017-08-16-Forbes
   date: 2017-08-16
   link: https://www.forbes.com/sites/jonathanchester/2017/08/16/your-guide-on-how-to-run-an-ico-for-better-or-worse/#53e272b83c58
@@ -1714,13 +1651,6 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: Crypto Ninjas
   title: "Crypto exchange ALFAcashier adds Thailand banking support"
 -
-  key: 2017-07-15-TM
-  date: 2017-07-15
-  link: https://themerkle.com/litecoin-and-ethereum-classic-almost-match-trading-volume/
-  author: JP Buntix
-  source: The Merkle
-  title: "Litecoin and Ethereum Classic Almost Match Trading Volume"
--
   key: 2017-07-15-CCN
   date: 2017-07-15
   link: https://www.cryptocoinsnews.com/ethereum-classic-leads-the-top-10-cryptos-for-the-week/
@@ -1748,13 +1678,6 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Alexander Geralis
   source: Coin Telegraph
   title: "Ethereum Classic Makes Its Way Onto Chinese Exchange Huobi"
--
-  key: 2017-07-12-CCN
-  date: 2017-07-12
-  link: https://www.cryptocoinsnews.com/ethereum-classic-jumps-ahead-of-the-pack/
-  author: Lester Coleman
-  source: Crypto Coins News
-  title: "Ethereum Classic Jumps Ahead Of The Pack"
 -
   key: 2017-07-12-CN
   date: 2017-07-12
@@ -1818,26 +1741,12 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: Crypto Coins News
   title: "Ethereum Congested: Time to Start Looking at Other ICO Platforms?"
 -
-  key: 2017-06-19-FM
-  date: 2017-06-19
-  link: https://www.financemagnates.com/cryptocurrency/trading/litecoin-ethereum-classic-now-worth-2-billion/
-  author: Avi Mizrahi
-  source: Finance Magnates
-  title: "Litecoin and Ethereum Classic Now Worth Over $2 Billion Each"
--
   key: 2017-06-18-CT
   date: 2017-06-18
   link: https://cointelegraph.com/news/ethereum-classic-used-to-fight-ticket-touts
   author: Lisa Froelings
   source: Coin Telegraph
   title: "Ethereum Classic Used To Fight Ticket Touts"
--
-  key: 2017-06-18-IB
-  date: 2017-06-18
-  link: http://insidebitcoins.com/news/ethereum-classic-steadily-rises-to-surprise-top-ten-crypto-markets/58162
-  author: Willma Woo
-  source: Inside Bitcoins
-  title: "Ethereum Classic Steadily Rises To Surprise Top Ten Crypto Markets"
 -
   key: 2017-06-17-CCN
   date: 2017-06-17
@@ -1943,20 +1852,6 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: Coin Telegraph
   title: "Ethereum Classic Hits $1.3 Billion Market Cap, Boosted By Consensus, Silbert"
 -
-  key: 2017-05-24-ACN
-  date: 2017-05-24
-  link: http://allcoinsnews.com/2017/05/24/ethereum-classic-market-report-etcbtc-hits-all-time-high/
-  author: KittyBitcoin
-  source: All Coins News
-  title: "Ethereum Classic Market Report: ETC/BTC Hits All Time High"
--
-  key: 2017-05-22-CT
-  date: 2017-05-22
-  link: https://cointelegraph.com/news/ethereum-classic-soars-along-with-bytecoin-pulled-by-ethereum-price
-  author: Frisco d'Anconia
-  source: Coin Telegraph
-  title: "Ethereum Classic Soars Along With ByteCoin, Pulled By Ethereum Price"
--
   key: 2017-05-21-CCN
   date: 2017-05-21
   link: https://www.cryptocoinsnews.com/bitticket-uses-ethereum-classic-to-book-tickets-on-a-blockchain/
@@ -1964,26 +1859,12 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: Crypto Coins News
   title: "BitTicket Uses Ethereum Classic to Book Tickets on a Blockchain"
 -
-  key: 2017-05-09-CT
-  date: 2017-05-09
-  link: https://cointelegraph.com/news/force-behind-ethereum-classic-price-wave-community
-  author: Frisco d'Anconia
-  source: Coin Telegraph
-  title: "Force Behind Ethereum Classic Price Wave: Community"
--
   key: 2017-05-08-CN
   date: 2017-05-08
   link: https://www.cryptoninjas.net/2017/05/08/korean-exchange-bithumb-announces-support-ethereum-classic-etc/
   author: Associated Press
   source: Crypto Ninjas
   title: "Korean exchange Bithumb announces support for Ethereum Classic ETC"
--
-  key: 2017-05-06-IB
-  date: 2017-05-06
-  link: http://insidebitcoins.com/news/ethereum-classic-challenges-dash-as-silbert-support-gains-momentum/47194
-  author: Wilma Woo
-  source: Inside Bitcoins
-  title: "Ethereum Classic Challenges Dash As Silbert Support Gains Momentum"
 -
   key: 2017-05-04-HP
   date: 2017-05-04
@@ -2019,13 +1900,6 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Joseph Adinolfi
   source: Market Watch
   title: "Exclusive: Grayscale launches digital-currency fund backed by Silver Lake’s co-founder Hutchins"
--
-  key: 2017-04-25-CD
-  date: 2017-04-25
-  link: http://www.coindesk.com/whats-driving-ether-classic-to-all-time-highs/
-  author: Charles Bovaird
-  source: Coin Desk
-  title: "What's Driving Ether Classic to All-Time Highs?"
 -
   key: 2017-04-24-ENU
   date: 2017-04-24
@@ -2117,26 +1991,12 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: Seeking Alpha
   title: "The Cryptocurrency Funds Have Arrived, And They're Bringing Wall Street Money"
 -
-  key: 2017-02-19-LBN
-  date: 2017-02-19
-  link: http://www.livebitcoinnews.com/project-xbtc-greeted-lot-skepticism-bitcoin-core-supporters/
-  author: JP Buntix
-  source: Live Bitcoin News
-  title: "Project XBTC Greeted With A Lot of Skepticism By Bitcoin Core Supporters"
--
   key: 2017-02-15-CJ
   date: 2017-02-15
   link: http://coinjournal.net/upcoming-ethereum-classic-hackathon-aims-foster-blockchain-development-china/
   author: Diana Ngo
   source: Coin Journal
   title: "Upcoming Ethereum Classic Hackathon Aims to Foster Blockchain Development in China"
--
-  key: 2017-02-13-CT
-  date: 2017-02-13
-  link: https://cointelegraph.com/news/epic-battle-of-dash-vs-ethereum-classic-not-over-yet-charles-hoskinson
-  author: Frisco d'Anconia
-  source: Coin Telegraph
-  title: "Epic Battle of Dash vs. Ethereum Classic Not Over Yet: Charles Hoskinson"
 -
   key: 2017-02-07-NB
   date: 2017-02-07
@@ -2193,27 +2053,6 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Joseph Young
   source: Coin Telegraph
   title: "Microsoft to Add Extensive Support For Bitcoin, Describes it as Currency"
--
-  key: 2016-12-31-CD
-  date: 2016-12-31
-  link: http://www.coindesk.com/not-just-bitcoin-the-top-7-cryptocurrencies-all-gained-in-2016/
-  author: Frederick Reese
-  source: Coin Desk
-  title: "Not Just Bitcoin: The Top 7 Cryptocurrencies All Gained in 2016"
--
-  key: 2016-12-30-CD
-  date: 2016-12-30
-  link: http://www.coindesk.com/ether-classic-surges-4-month-high/
-  author: Charles Bovaird
-  source: Coin Desk
-  title: "Ether Classic Surges to More Than 4-Month High"
--
-  key: 2016-12-17-CD
-  date: 2016-12-17
-  link: http://www.coindesk.com/ethereum-classic-price-surges-by-over-30/
-  author: Charles Bovaird
-  source: Coin Desk
-  title: "Ethereum Classic Price Surges By Over 30%"
 -
   key: 2016-12-16-CCN
   date: 2016-12-16
@@ -2339,13 +2178,6 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Jordan Pearson
   source: Motherboard
   title: "Apple's Rules for Virtual Currencies Are Interminably Vague"
--
-  key: 2016-09-22-CT
-  date: 2016-09-22
-  link: https://cointelegraph.com/news/roger-ver-on-bitcoin-scalability-two-bitcoins-are-better-than-one
-  author: Rank Rearden
-  source: Coin Telegraph
-  title: "Roger Ver on Bitcoin Scalability: Two Bitcoins Are Better Than One"
 -
   key: 2016-09-19-BC
   date: 2016-09-19
