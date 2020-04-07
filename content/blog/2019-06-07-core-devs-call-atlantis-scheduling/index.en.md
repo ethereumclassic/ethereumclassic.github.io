@@ -1,10 +1,8 @@
 ---
-title: "Core Devs Call: ECIP-1054 Atlantis Scheduling"
+title: "Core Devs Call: ECIP-1054 Atlantis Scheduling Call"
 date: 2019-06-07
 author: soc1c
 ---
-
-# Intermediate Atlantis Upgrade Scheduling Call
 
 [https://ecips.ethereumclassic.org/ECIPs/ecip-1054](https://ecips.ethereumclassic.org/ECIPs/ecip-1054)
 
@@ -14,7 +12,7 @@ It became apparent that certain parts of the Ethereum Classic community are appr
 
 ref [#79](https://github.com/ethereumclassic/ECIPs/issues/79)
 
-## Core Devs Call: ECIP-1054 Atlantis Scheduling
+## Intermediate Atlantis Upgrade Scheduling Call
 
 * When: Friday, June 07, 2019, 1pm UTC, 30 minutes max.
 * Where: Youtube Livestream [https://www.youtube.com/watch?v=hDVrKDSOCWA&feature=youtu.be](https://www.youtube.com/watch?v=hDVrKDSOCWA&feature=youtu.be)

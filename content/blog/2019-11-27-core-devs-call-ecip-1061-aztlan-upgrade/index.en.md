@@ -1,10 +1,8 @@
 ---
-title: "Core Devs Call: ECIP-1061 Aztlán Upgrade"
+title: "Core Devs Call: ECIP-1061 Aztlán Finalization"
 date: 2019-11-27
 author: soc1c
 ---
-
-# ETC Core Devs Call - ECIP-1061 Aztlán Finalization
 
 [https://ecips.ethereumclassic.org/ECIPs/ecip-1061](https://ecips.ethereumclassic.org/ECIPs/ecip-1061)
 

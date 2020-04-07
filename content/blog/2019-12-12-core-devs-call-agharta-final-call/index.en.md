@@ -1,10 +1,8 @@
 ---
-title: "Core Devs Call: ECIP-1056 Agharta Upgrade"
+title: "Core Devs Call: ECIP-1056 Agharta Final Finalization"
 date: 2019-12-12
 author: soc1c
 ---
-
-# ETC Core Devs Call - Agharta Finalization
 
 [https://ecips.ethereumclassic.org/ECIPs/ecip-1056](https://ecips.ethereumclassic.org/ECIPs/ecip-1056)
 

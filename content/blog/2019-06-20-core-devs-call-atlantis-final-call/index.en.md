@@ -1,10 +1,8 @@
 ---
-title: "Core Devs Call: ECIP-1054 Atlantis Final Call"
+title: "Core Devs Call: ECIP-1054 Atlantis Finalization of the Atlantis Finalization"
 date: 2019-06-20
 author: sorpaas
 ---
-
-# Final of the Final Call: ECIP-1054 Atlantis Upgrade
 
 [https://ecips.ethereumclassic.org/ECIPs/ecip-1054](https://ecips.ethereumclassic.org/ECIPs/ecip-1054)
 

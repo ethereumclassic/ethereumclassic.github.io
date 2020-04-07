@@ -4,8 +4,6 @@ date: 2019-12-05
 author: Bob Summerwill
 ---
 
-# Core Devs Call: Confirm consensus for Aztlán Upgrade (Yingchun Edition)
-
 [https://ecips.ethereumclassic.org/ECIPs/ecip-1061](https://ecips.ethereumclassic.org/ECIPs/ecip-1061)
 
 ![Core Devs Call: Confirm consensus for Aztlán Upgrade (Yingchun Edition)](./ethereum_classic_ecip_wallpaper.png)

@@ -4,8 +4,6 @@ date: 2020-02-26
 author: soc1c
 ---
 
-# Core Devs Call: Phoenix Upgrade from Scratch
-
 [https://ecips.ethereumclassic.org/ECIPs/ecip-1088](https://ecips.ethereumclassic.org/ECIPs/ecip-1088)
 
 ![ETC Core Devs Call - Phoenix Upgrade from Scratch](./ethereum_classic_ecip_wallpaper.png)

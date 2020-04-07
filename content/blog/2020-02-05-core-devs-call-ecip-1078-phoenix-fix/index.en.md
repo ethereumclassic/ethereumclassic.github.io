@@ -1,14 +1,12 @@
 ---
-title: "Core Devs Call: ECIP-1078 Phoenix Upgrade"
+title: "Core Devs Call: ECIP-1078 Phoenix Finalization"
 date: 2020-02-05
 author: soc1c
 ---
 
-# ETC Core Devs Call - ECIP-1078 Phoenix Finalization
-
 [https://ecips.ethereumclassic.org/ECIPs/ecip-1078](https://ecips.ethereumclassic.org/ECIPs/ecip-1078)
 
-![Core Devs Call: ECIP-1078 Phoenix Upgrade](./ethereum_classic_ecip_wallpaper.png)
+![ETC Core Devs Call - ECIP-1078 Phoenix Finalization](./ethereum_classic_ecip_wallpaper.png)
 
 ref [#217](https://github.com/ethereumclassic/ECIPs/issues/217) [#226](https://github.com/ethereumclassic/ECIPs/issues/226) [#227](https://github.com/ethereumclassic/ECIPs/issues/227) [#262](https://github.com/ethereumclassic/ECIPs/issues/262)
 
@@ -56,4 +54,4 @@ ref [ECIP-1078](https://ecips.ethereumclassic.org/ECIPs/ecip-1078) [ECIP-1079](h
 
 [https://github.com/ethereumclassic/ECIPs/issues/284](https://github.com/ethereumclassic/ECIPs/issues/284)
 
-![Core Devs Call: ECIP-1078 Phoenix Upgrade](./phoenix_etc.jpg)
+![ETC Core Devs Call - ECIP-1078 Phoenix Finalization](./phoenix_etc.jpg)

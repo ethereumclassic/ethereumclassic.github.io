@@ -1,16 +1,14 @@
 ---
-title: "Core Devs Call: ECIP-1054 Atlantis Upgrade"
+title: "Core Devs Call: ECIP-1054 Atlantis Finalization"
 date: 2019-05-30
 author: soc1c
 ---
-
-# ETC Core Devs Call - Atlantis Finalization
 
 [https://ecips.ethereumclassic.org/ECIPs/ecip-1054](https://ecips.ethereumclassic.org/ECIPs/ecip-1054)
 
 ![ETC Core Devs Call - Atlantis Finalization](./ethereum_classic_ecip_wallpaper.png)
 
-## Core Devs Call: ECIP-1054 Atlantis Upgrade
+## ETC Core Devs Call - Atlantis Finalization
 
 * When: Thursday, May 30, 2019, 3pm UTC, 60 minutes max.
 * Where: Ethereum Classic [Discord](https://discord.gg/dwxb6nf) #ecips channel. Will use/create a voice channel ad hoc.
