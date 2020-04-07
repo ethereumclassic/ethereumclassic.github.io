@@ -16,14 +16,6 @@ const MiningResources = ({ pageContext: { i18n } }) => {
         items={i18n.yaml.software}
         columns={[
           { key: 'name', name: i18n.name, type: 'link' },
-          {
-            key: 'guide',
-            linkKey: 'guide',
-            name: i18n.tutorial,
-            text: i18n.guide,
-            type: 'button',
-            icon: 'book'
-          },
           { key: 'windowsAmd', name: i18n.windowsAmd, type: 'check', className: 'text-center' },
           {
             key: 'windowsNvidia',
@@ -32,7 +24,15 @@ const MiningResources = ({ pageContext: { i18n } }) => {
             className: 'text-center'
           },
           { key: 'linuxAmd', name: i18n.linuxAmd, type: 'check', className: 'text-center' },
-          { key: 'linuxNvidia', name: i18n.linuxNvidia, type: 'check', className: 'text-center' }
+          { key: 'linuxNvidia', name: i18n.linuxNvidia, type: 'check', className: 'text-center' },
+          {
+            key: 'guide',
+            linkKey: 'guide',
+            name: i18n.tutorial,
+            text: i18n.guide,
+            type: 'button',
+            icon: 'book'
+          }
         ]}
       />
       <ButtonGroup header={html(i18n.top5Pools)} items={top5} />
