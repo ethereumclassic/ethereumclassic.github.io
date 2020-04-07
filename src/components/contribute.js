@@ -7,7 +7,7 @@ const Contribute = ({ contribute }) => {
     return null;
   }
   return (
-    <div className="contribute">
+    <div className="contribute tip">
       <Translate text="contribute" />
     </div>
   );

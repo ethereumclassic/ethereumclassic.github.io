@@ -7,7 +7,7 @@ const IconGrid = ({ icons }) => {
       {icons.map(({ icon, text, title }) => (
         <div className="item" key={`${title || text}-${icon}`}>
           <div className={`icon-item ${icon}`} />
-          {title && <h4>{title}</h4>}
+          {title && <h3>{title}</h3>}
           {text && <p>{text}</p>}
         </div>
       ))}

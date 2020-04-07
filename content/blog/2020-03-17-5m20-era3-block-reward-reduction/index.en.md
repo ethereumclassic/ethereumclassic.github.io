@@ -1,5 +1,5 @@
 ---
-title: Gotham Hard Fork Upgrade - 5M20 Era3
+title: ETC's 5M20 Era3 - Block Reward Reduction
 date: 2020-03-17
 author: Matthew Mazur
 ---
@@ -8,7 +8,7 @@ author: Matthew Mazur
 
 [https://ecips.ethereumclassic.org/ECIPs/ecip-1017](https://ecips.ethereumclassic.org/ECIPs/ecip-1017)
 
-![Gotham Hard Fork Upgrade - 5M20 Era3](./monetary_policy_etc2.jpg)
+![ETC's 5M20 Era3 - Block Reward Reduction](./monetary_policy_etc2.jpg)
 
 ## Abstract
 

@@ -12,16 +12,16 @@ import WideSection from '~components/wideSection';
 import IconGrid from '~components/iconGrid';
 import ButtonLink from '~components/buttonLink';
 import LatestBlogPosts from '~components/latestBlogPosts';
+import Phoenix from '~components/phoenix';
 
 const Index = ({ pageContext: { i18n }, data: { file, allMdx: blogArticles } }) => (
   <GlobalLayout>
     <Navigation />
     <div id="wrapper">
       <Banner i18n={i18n} image={file.childImageSharp.fluid} />
-      <Section className="wide-header" subSection={() => html(i18n.whatIsClassic)}>
-        {html(i18n.whatIsBlockchain)}
-      </Section>
-      <WideSection className="shaded">
+      <Phoenix />
+      <Section subSection={() => html(i18n.whatIsClassic)}>{html(i18n.whatIsBlockchain)}</Section>
+      <WideSection className="shaded trim">
         <IconGrid
           icons={[
             {
@@ -79,10 +79,8 @@ export const query = graphql`
       }
     }
     allMdx(
-      filter: {
-        fields: { locale: { eq: $locale }, parent: { eq: "blog" } }
-      }
-      limit: 3
+      filter: { fields: { locale: { eq: $locale }, parent: { eq: "blog" } } }
+      limit: 5
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
       edges {

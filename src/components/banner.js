@@ -13,7 +13,7 @@ const Banner = ({ image, i18n }) => {
           <img className="logo" src={logo} alt="Ethereum Classic Logo" />
           {i18n.logoTitle}
         </h1>
-        <p>{html(i18n.logoSubtitle)}</p>
+        <p className="tagline">{html(i18n.logoSubtitle)}</p>
       </header>
       <div className="content">
         <div className="overlay dark">

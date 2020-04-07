@@ -1,0 +1,174 @@
+$grid-color-1:_palette(green-col);
+$grid-color-2:_palette(blue-col);
+$grid-color-3:_palette(light-red-col);
+$grid-color-4:_palette(light-purple-col);
+$grid-color-5:_palette(orange-col);
+
+.card {
+  padding-bottom: $smallPadding;
+  background: _palette(bg);
+  box-shadow: $softShadow;
+  $radius: $microPadding;
+  border-radius: $roundedTight;
+  
+  h4 {
+    background: _palette(accent);
+    padding: $tinyPadding;
+    border-radius: $radius $radius 0 0;
+    text-align: center;
+  }
+
+  &.orange h4 {
+    background: _palette(orange-col);
+  }
+
+  &.red h4 {
+    background: _palette(red-col);
+  }
+
+  &.grid-color-1 h4 {
+    background: $grid-color-1;
+  }
+
+  &.grid-color-2 h4 {
+    background: $grid-color-2;
+  }
+
+  &.grid-color-3 h4 {
+    background: $grid-color-3;
+  }
+
+  &.grid-color-4 h4 {
+    background: $grid-color-4;
+  }
+
+  &.grid-color-5 h4 {
+    background: $grid-color-5;
+  }
+
+  .content {
+    padding: 0 $smallPadding;
+  }
+
+  h5 {
+    margin-bottom: $microPadding;
+    margin-top: $tinyPadding;
+  }
+}
+
+a.card {
+  border-bottom: none;
+
+  &:hover {
+    background: _palette(accent);
+  }
+
+  &.orange:hover {
+    background: _palette(orange-col);
+  }
+
+  &.red:hover {
+    background: _palette(red-col);
+  }
+
+  &.grid-color-1:hover {
+    background: $grid-color-1;
+  }
+
+  &.grid-color-2:hover {
+    background: $grid-color-2;
+  }
+
+  &.grid-color-3:hover {
+    background: $grid-color-3;
+  }
+
+  &.grid-color-4:hover {
+    background: $grid-color-4;
+  }
+
+  &.grid-color-5:hover {
+    background: $grid-color-5;
+  }
+}
+
+.legend {
+  margin-bottom: $smallPadding;
+  .info {
+    font-weight: bold;
+    margin-bottom: $tinyPadding;
+  }
+  &.has-selected {
+    .key {
+      opacity: .4;
+    }
+  }
+
+  .key {
+    user-select: none;
+    white-space: nowrap;
+    display: inline-block;
+    margin: 0 $microPadding $microPadding 0;
+    padding: $nanoPadding $tinyPadding;
+    border-radius: $roundedTight;
+    border-bottom: $solidDarkLine;
+
+    cursor: pointer;
+    box-shadow: $softerShadow;
+
+    &.green {
+      background: _palette(accent);
+    }
+
+    &.orange {
+      background: _palette(orange-col);
+    }
+
+    &.red {
+      background: _palette(red-col);
+    }
+
+    &.grid-color-1 {
+      background: $grid-color-1;
+    }
+
+    &.grid-color-2 {
+      background: $grid-color-2;
+    }
+
+    &.grid-color-3 {
+      background: $grid-color-3;
+    }
+
+    &.grid-color-4 {
+      background: $grid-color-4;
+    }
+
+    &.grid-color-5 {
+      background: $grid-color-5;
+    }
+
+    &.selected {
+      opacity: 1;
+      box-shadow: $tightShadow;
+    }
+
+    &.grid-color-all {
+      background: _palette(grey-10);
+      opacity: 1;
+    }
+  }
+}
+
+// the dapps list
+
+.dapps-list {
+  background: _palette(grey-10);
+  padding: $smallPadding !important;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+
+  .card .content {
+    max-height: 10rem;
+    overflow-y: auto;
+  }
+}
