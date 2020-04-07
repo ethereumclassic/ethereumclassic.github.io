@@ -383,7 +383,7 @@
   date: May 30 2018
   title: Defuse Difficulty Bomb
   text: ETC safely disabled the difficulty bomb that was put in place to switch the original Ethereum project to PoS. Ethereum Classic commits itself to PoW as it's consensus mechanism.
-  icon: fas fa-angle-double-up
+  icon: fas fa-bomb
   className: blue
 -
   key: etclabs
