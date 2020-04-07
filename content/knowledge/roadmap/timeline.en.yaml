@@ -261,14 +261,14 @@
   key: classicDeclaresIndependence
   className: green
   icon: fas fa-flag
-  link: https://ethereumclassic.org/blog/2016-08-13-declaration-of-independence
+  link: /blog/2016-08-13-declaration-of-independence
   date: Block 2,050,000
   title: Classic Declares Independence
   text: Declaration of Independence on the ETC website is published stating ETC no
     longer wants to be in association with the Foundation
 -
   key: classicRebuilds
-  link: https://ethereumclassic.org/blog/2016-08-18-meetup
+  link: /blog/2016-08-18-meetup
   className: white
   icon: fas fa-cubes
   date: Aug 18 2016
@@ -289,7 +289,7 @@
 -
   key: codeislaw
   className: white
-  link: https://ethereumclassic.org/blog/2016-09-09-code-is-law
+  link: /blog/2016-09-09-code-is-law
   icon: far fa-file-code
   date: Sept 09 2016
   title: Code is Law
@@ -297,7 +297,7 @@
 -
   key: gasReprice
   className: blue
-  link: https://ethereumclassic.org/blog/2016-10-17-gas-reprice-hard-fork
+  link: /blog/2016-10-17-gas-reprice-hard-fork
   icon: fas fa-code-branch
   date: Oct 24 2016
   title: Gas Reprice Upgrade
@@ -361,7 +361,7 @@
   key: commonwealth
   icon: fas fa-user-ninja
   className: white
-  link: https://ethereumclassic.org/blog/2017-07-23-development-boost/
+  link: /blog/2017-07-23-development-boost/
   date: Jul 22 2017
   title: ETC Commonwealth Team Formed
   text: A development team called Ethereum Commonwealth forms to help build Ethereum Classic
@@ -381,11 +381,11 @@
   title: ETC Summit 2017
   icon: fas fa-users
   className: purple
-  link: https://ethereumclassic.org/blog/2017-11-11-whos-talking-at-the-classic-summit
+  link: /blog/2017-11-11-whos-talking-at-the-classic-summit
   text: The first annual Ethereum Classic conference is held in Hong Kong.
 -
   key: gotham
-  link: https://ethereumclassic.org/blog/2017-12-11-gotham-hard-fork-upgrade-5m20-era2
+  link: /blog/2017-12-11-gotham-hard-fork-upgrade-5m20-era2
   date: Dec 11 2017
   title: Gotham Upgrade
   icon: fas fa-btc
@@ -394,7 +394,7 @@
     schedule inspired by Bitcoin. 5M20: the block reward will reduce by 20% every 5M blocks.
 -
   key: 5m20era2
-  link: https://ethereumclassic.org/blog/2017-12-11-gotham-hard-fork-upgrade-5m20-era2
+  link: /blog/2017-12-11-gotham-hard-fork-upgrade-5m20-era2
   date: Dec 11 2017
   title: 5M20 Era 2
   icon: fas fa-coins
@@ -402,7 +402,7 @@
   text:  ECIP-1017's 5M20 Era 2 block reward reduced emission by 20% to 4 ETC per block.
 -
   key: defusedifficultybomb
-  link: https://ethereumclassic.org/blog/2018-05-29-defuse-difficulty-bomb-hard-fork-upgrade
+  link: /blog/2018-05-29-defuse-difficulty-bomb-hard-fork-upgrade
   date: May 30 2018
   title: Defuse Difficulty Bomb
   icon: fas fa-bomb
@@ -480,7 +480,7 @@
   text: The third annual Ethereum Classic conference is held in Vancouver, Canada
 -
   key: mordor
-  link: https://ethereumclassic.org/blog/2019-10-04-mordor-testnet-launch/
+  link: /blog/2019-10-04-mordor-testnet-launch/
   date: Oct 4 2019
   title: Mordor PoW Testnet Launches
   icon: fas fa-rocket

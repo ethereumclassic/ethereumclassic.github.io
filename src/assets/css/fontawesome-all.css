@@ -247,7 +247,7 @@ readers do not read off random characters that represent icons */
 /* .fa-arrow-alt-circle-up:before { content: "\f35b"; } */
 /* .fa-arrow-circle-down:before { content: "\f0ab"; } */
 /* .fa-arrow-circle-left:before { content: "\f0a8"; } */
-/* .fa-arrow-circle-right:before { content: "\f0a9"; } */
+.fa-arrow-circle-right:before { content: "\f0a9"; }
 /* .fa-arrow-circle-up:before { content: "\f0aa"; } */
 /* .fa-arrow-down:before { content: "\f063"; } */
 /* .fa-arrow-left:before { content: "\f060"; } */
