@@ -5,7 +5,7 @@
   releaseLink: https://github.com/etclabscore/core-geth/releases
   supportLink: https://gitter.im/core-geth/community
   supportIcon: fab fa-gitter
-  text: Core-Geth is a distribution of go-ethereum with many flavors.
+  text: Core-Geth is a distribution of go-ethereum with many flavors. For Phoenix upgrade support, please use version v1.11.0 or later.
 -
   key: Hyperledger Besu
   name: Hyperledger Besu
@@ -13,7 +13,7 @@
   releaseLink: https://github.com/hyperledger/besu/releases
   supportLink: https://chat.hyperledger.org/
   supportIcon: fab fa-rocketchat
-  text: Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases.
+  text: Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. For Phoenix upgrade support, please use version v1.4.1 or later.
 -
   key: Multi-Geth
   name: Multi-Geth
