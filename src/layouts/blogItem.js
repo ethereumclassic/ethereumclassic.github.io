@@ -17,7 +17,7 @@ const BlogItem = ({
     link={{ to: globals.backLinkTo, text: globals.sectionTitle }}
     i18n={{
       title: mdx.frontmatter.title,
-      description: mdx.frontmatter.description,
+      description: mdx.frontmatter.description || mdx.excerpt,
       image: mdx.frontmatter.linkImage && mdx.frontmatter.linkImage.childImageSharp.fixed.src,
       article: true
     }}
@@ -41,6 +41,7 @@ export const query = graphql`
   query BlogItem($locale: String!, $title: String!) {
     mdx(frontmatter: { title: { eq: $title } }, fields: { locale: { eq: $locale } }) {
       body
+      excerpt
       frontmatter {
         title
         date

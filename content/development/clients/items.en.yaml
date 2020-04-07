@@ -2,6 +2,7 @@
   key: Core-Geth
   name: Core-Geth
   link: https://core-geth.org/
+  guideLink: https://core-geth.org/install
   releaseLink: https://github.com/etclabscore/core-geth/releases
   supportLink: https://gitter.im/core-geth/community
   supportIcon: fab fa-gitter

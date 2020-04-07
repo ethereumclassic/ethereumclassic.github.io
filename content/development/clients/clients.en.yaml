@@ -8,6 +8,7 @@ intro: |
   Clients are used to sync with the Ethereum Classic network and verify blocks. Most users won't need to run a full node, but they allow those who do to trustlessly interact with the network.
 releases: Releases
 support: Support
+guide: Guide
 publicEndpointsTitle: | 
   ## Public Endpoints
 
