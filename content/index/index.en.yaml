@@ -16,25 +16,25 @@ whatIsClassic: |
 whatIsBlockchain: |
   Put simply, Ethereum Classic provides a permissionless way to manage digital assets without the need for intermediaries, such as banks and other institutions.
 
-  ETC allows uncensorable smart contracts to be written, deployed and executed; Ethereum Classic enables truly unstoppable programmable money.
+  Ethereum Classic allows uncensorable smart contracts to be written, deployed and executed; ETC enables truly unstoppable programmable money.
 
-  Ethereum Classic is the continuation of the *original* non-forked Ethereum chain and exists to preserve the principle of **[code is law](https://ethereumclassic.org/blog/2016-09-09-code-is-law)**.
+  Ethereum Classic is the continuation of **the original non-forked Ethereum chain**. The ETC network exists to preserve the principle of **[code is law](https://ethereumclassic.org/blog/2016-09-09-code-is-law)**.
 
-  To learn more about Ethereum Classic's formative history and promising future, check out the ETC project's [roadmap](/knowledge/roadmap).
+  To learn more about Ethereum Classic's formative history and ETC's promising future, check out the project's [roadmap](/knowledge/roadmap).
 
 decentralized: Decentralized
-decentralizedText: Active and permissionless ecosystem
+decentralizedText: Active and permissionless global ecosystem
 immutable: Immutable
 immutableText: Untampered ledger since ETC's 2015 genesis block
 unstoppable: Unstoppable
-unstoppableText: Censorship resistant network that executes contracts exactly as programmed
+unstoppableText: Censorship resistant network executing contracts exactly as programmed
 
 getStarted: |
   ## Get Started with Ethereum Classic
 
-  Ethereum Classic is one of the purest decentralized projects in the cryptocurrency space. To understand the technical merits of ETC and how the project is positioning itself for the decentralized future, you'll need to understand Ethereum Classic's origin story.
-
   Whether you're a developer, investor, journalist or market researcher, the best place to learn about Ethereum Classic is the Knowledge Base.
+
+  Ethereum Classic is one of the purest decentralized projects in the cryptocurrency space. To understand the technical merits of ETC and how the project is positioning itself for the decentralized future, you'll need to understand Ethereum Classic's origin story.
 knowledgeBase: Knowledge Base
 
 stayCurrent: |
