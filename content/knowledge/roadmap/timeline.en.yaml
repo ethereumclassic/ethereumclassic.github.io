@@ -1,25 +1,24 @@
-- key: ethereumLaunches
-  className: purple
+- key: frontierRelease
+  title: Ethereum Launches
+  date: Jul 30 2015
+  className: blue
+  icon: fas fa-rocket
   link: https://blog.ethereum.org/2015/07/30/ethereum-launches/
-  icon: fab fa-ethereum
-  date: July 30 2015
-  title: Frontier Launch
-  text: Vitalik Buterin and The Ethereum Foundation create the first
-    blockchain-based turing-complete smart contract platform
-- key: IceAge
-  className: purple
-  link: https://blog.ethereum.org/2015/08/04/ethereum-protocol-update-1/
-  icon: fab fa-ethereum
-  date: September 08 2015
+  text: Vitalik Buterin and The Ethereum Foundation create the first blockchain-based turing-complete smart contract platform with the Frontier release
+- key: iceAgeUpgrade
   title: Ice Age Upgrade
-  text:  The network implements an ‘Ice Age’ at block 200,000 to introduce PoS.
-- key: Homestead
-  className: purple
-  link: https://blog.ethereum.org/2016/02/29/homestead-release/
-  icon: fab fa-ethereum
-  date: March 15 2016
+  date: Sept 08 2015
+  className: blue
+  icon: fas fa-snowflake
+  link: https://blog.ethereum.org/2015/08/04/ethereum-protocol-update-1/
+  text:  The network implements an ‘Ice Age’ at block 200,000 to introduce the difficulty bomb as a mechanism to move the network to Proof-of-Stake
+- key: homesteadUpgrade
   title: Homestead Upgrade
-  text:  Homestead is the second major version release of the Ethereum platform.
+  date: Mar 15 2016
+  className: blue
+  icon: fas fa-home
+  link: https://blog.ethereum.org/2016/02/29/homestead-release/
+  text:  Homestead is the second major version release of the Ethereum platform
 - key: slockItCreatesTheDAO
   link: https://blog.slock.it/deja-vu-dao-smart-contracts-audit-results-d26bc088e32e
   icon: far fa-file-code
