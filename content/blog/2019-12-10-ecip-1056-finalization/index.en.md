@@ -33,6 +33,6 @@ The reference to the issue discussion is found [here](https://github.com/ethereu
 
 So please join us on this important call so we can finalize Agharta and get ready for some amazing changes to be added to ETC!
 
-An ics file has been made so you can save the event on your calendar. [file:invite.ics]
+An [ics file](./invite.ics) has been made so you can save the event on your calendar.
 
 Looking forward to seeing you all there!
