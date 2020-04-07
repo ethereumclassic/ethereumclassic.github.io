@@ -217,13 +217,13 @@
     subreddits and economically-charged vitriolic spats begin to take hold of
     the community as it comes to terms with the split
 -
-  key: ethereumClassicCommunity
+  key: ethereumClassicsupporters
   className: white
   link: https://www.reddit.com/r/EthereumClassic/
   icon: fas fa-users
   date: Jul 24 2016
-  title: Ethereum Classic Community
-  text: The Ethereum Classic community begins to branch off from the forked-chain
+  title: Ethereum Classic Supporters
+  text: The Ethereum Classic supporters begins to branch off from the forked-chain
     subreddits and form its own communication channels, including
     /r/EthereumClassic, Slack and Telegram
 -
