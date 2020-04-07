@@ -50,14 +50,14 @@ There are a massive number of Ethereum Classic testnets.
 
 ## Remove ETC Testnet Redundancies
 
+[Mordor Testnet Launch Video](https://youtu.be/sURnZEeIqBU)
+
 ### --mordor
 
-    * 2019 Genesis
-    * Ethash Proof-of-Work
-    * Replaces Morden, Kensington, Nazgul
-    * Supported by all clients
-    * No Premine, No Presale, Fair launch!
-
-[Mordor Testnet Launch Video](https://youtu.be/sURnZEeIqBU)
+* 2019 Genesis
+* Ethash Proof-of-Work
+* Replaces Morden, Kensington, Nazgul
+* Supported by all clients
+* No Premine, No Presale, Fair launch!
 
 ![Mordor Testnet Launch](./mordor_wallpaper.png)
