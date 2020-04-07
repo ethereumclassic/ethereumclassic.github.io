@@ -11,7 +11,7 @@
   title: Ice Age Upgrade
   date: Sept 08 2015
   className: blue
-  icon: fab fa-snowflake
+  icon: fas fa-snowflake
   link: https://blog.ethereum.org/2015/08/04/ethereum-protocol-update-1/
   text:  The network implements an ‘Ice Age’ at block 200,000 to introduce the difficulty bomb as a mechanism to move the network to Proof-of-Stake
 -
@@ -19,7 +19,7 @@
   title: Homestead Upgrade
   date: Mar 15 2016
   className: blue
-  icon: fab fa-home
+  icon: fas fa-home
   link: https://blog.ethereum.org/2016/02/29/homestead-release/
   text:  Homestead is the second major version release of the Ethereum platform
 -
@@ -249,7 +249,7 @@
   title: Code is Law
   date: Sept 09 2016
   className: white
-  icon: far fa-file-code
+  icon: fas fa-file-code
   link: /blog/2016-09-09-code-is-law
   text: People keep repeating the phrase "Code is Law" without clear understanding of what it's supposed to mean. Ethereum Classic principles explained.
 -
@@ -456,6 +456,5 @@
   date: Future
   icon: fas fa-arrow-circle-right
   className: green
-  icon: fas fa-arrow-circle-right
+  icon: far fa-arrow-circle-right
   text: As the ecosystem continues to organically grow, the independent development teams are guided by principles that make Ethereum Classic such a unique network. The network truly is decentralized, immutable, and unstoppable. Review the roadmap to learn about the promising future of Ethereum Classic, the original Ethereum chain...
-  
