@@ -19,138 +19,139 @@
   icon: fas fa-home
   link: https://blog.ethereum.org/2016/02/29/homestead-release/
   text:  Homestead is the second major version release of the Ethereum platform
-- key: slockItCreatesTheDAO
-  link: https://blog.slock.it/deja-vu-dao-smart-contracts-audit-results-d26bc088e32e
-  icon: far fa-file-code
-  date: April 5 2016
+- key: slockItCreatesTheDao
   title: Slock.it Creates TheDAO
-  text: Slock.it construct TheDAO Ethereum Contract; a security audit is completed
-    by Dejavu
-- key: theDAOCrowdsaleBegins
-  link: https://blog.slock.it/the-dao-creation-is-now-live-2270fd23affc
-  icon: fas fa-bullhorn
-  date: April 30 2016
-  title: TheDAO Crowdsale Begins
-  text: TheDAO smart contract is deployed; members of the public send it value in
-    return for DAO tokens
-- key: securityProposal
-  className: orange
-  link: https://blog.slock.it/dao-security-a-proposal-to-guarantee-the-integrity-of-the-dao-3473899ace9d
-  icon: far fa-keyboard
-  date: May 26 2016
-  title: Security Proposal
-  text: Slock.it announce a $1.5 Million USD proposal, paid in Ether by the
-    crowdfund, 'to guarantee the integrity of The DAO'
-- key: moratoriumCalled
-  className: orange
-  link: http://hackingdistributed.com/2016/05/27/dao-call-for-moratorium/
-  icon: fas fa-crosshairs
-  date: May 27 2016
-  title: Moratorium Called
-  text: On the last day of the crowdsale, DAO curator Vlad Zamfir calls for a
-    moratorium on TheDAO, citing many game-theoretical security issues
-- key: theDAOCrowdsaleEnds
-  link: http://slacknation.github.io/medium/8/8.html
-  icon: fas fa-funnel-dollar
-  date: May 27 2016
-  title: TheDAO Crowdsale Ends
-  text: The crowdsale completes to become the world's largest and raising an
-    incredible $150 Million USD
-- key: recursiveCallBugDiscovered
-  className: orange
-  link: http://vessenes.com/more-ethereum-attacks-race-to-empty-is-the-real-deal/
-  icon: fas fa-bug
-  date: Jun 9 2016
-  title: Recursive Call Bug Discovered
-  text: Peter Vessenes publicly discloses the existence of a critical security
-    vulnerability overlooked in many Solidiy contracts
-- key: noFundsAtRisk
-  link: https://blog.slock.it/no-dao-funds-at-risk-following-the-ethereum-smart-contract-recursive-call-bug-discovery-29f482d348b
-  icon: fas fa-thumbs-up
-  date: Jun 12 2016
-  title: No Funds at Risk
-  text: Stephan Tual publicly claims that TheDAO funds are safe despite the
-    newly-discovered critical security flaw
-- key: theDAOIsHacked
-  className: red
-  link: http://slacknation.github.io/medium/10/10.html
-  icon: fas fa-times-circle
-  date: Jun 17 2016
-  title: TheDAO is Hacked
-  text: Ether is slowly and silently drained from TheDAO as the re-entry bug is
-    applied
-- key: panicHitsTheMarkets
-  className: red
-  link: https://cointelegraph.com/news/dao-potentially-hacked-millions-of-ether-may-be-stolen-griff-green-says
-  icon: fas fa-chart-area
-  date: Jun 17 2016
-  title: Panic Hits the Markets
-  text: The price of Ether is slashed in half as Griff Green announces that TheDAO
-    has been hacked
-- key: theCountdownBeings
-  className: blue
-  link: https://blog.ethereum.org/2016/06/17/critical-update-re-dao-vulnerability/
-  icon: fas fa-hourglass-start
-  date: Jun 17 2016
-  title: The Countdown Beings
-  text: TheDAO's splitting mechanism gives around a month for a solution to be found
-    that recovers the funds; Foundation and community developers race to
-    implement a soft fork
-- key: robinHoodGroupAnnounced
+  date: Apr 5 2016
   className: white
-  link: https://www.reddit.com/r/ethereum/comments/4p7mhc/update_on_the_white_hat_attack/
-  icon: fas fa-user-secret
-  date: Jun 21 2016
-  title: Robin Hood Group Announced
-  text: A group of 'white-hat' hackers secure 70% of TheDAO funds but protocol-level
-    action is required to save the remaining 30% split by the hacker
-- key: DAO
-  className: blue
-  link: https://blog.ethereum.org/2016/06/24/dao-wars-youre-voice-soft-fork-dilemma/
-  icon: fas fa-wrench
-  date: Jun 24 2016
-  title: "DAO Wars: Soft Fork Vote"
-  text: The Ethereum Foundation releases a 'Soft Fork' client to censor transactions
-    coming from the hacker; mining pools vote to enable it by lowering gas limit
-- key: softForkVulnerability
-  className: red
-  link: https://blog.ethereum.org/2016/06/28/security-alert-dos-vulnerability-in-the-soft-fork/
-  icon: far fa-calendar-times
-  date: Jun 28 2016
-  title: Soft Fork Vulnerability
-  text: Critical Denial of Service flaws are found in the Soft Fork implementation,
-    miners quickly decide not to use it
-- key: hardForkDebate
-  icon: fas fa-comment
-  date: Jun 28 - Jul 15
-  title: Hard Fork Debate
-  text: Many days of intense arguing goes on in the Ethereum community about the
-    pros and cons of implementing a Hard Fork
-- key: hardForkSpecAnnounced
-  className: blue
-  link: https://blog.slock.it/hard-fork-specification-24b889e70703
-  icon: fas fa-exclamation-triangle
-  date: Jul 15 2016
-  title: Hard Fork Spec Announced
-  text: The only remaining option is a controversial Hard Fork. A Specification is
-    determined and announced by Slock.it and Ethereum Foundation members
-- key: lastMinuteCarbonvote
+  icon: far fa-file-code
+  link: https://blog.slock.it/deja-vu-dao-smart-contracts-audit-results-d26bc088e32e
+  text: Slock.it construct TheDAO Ethereum Contract; a security audit is completed by Dejavu
+- key: theDaoCrowdsaleBegins
+  title: TheDAO Crowdsale Begins
+  date: Apr 30 2016
+  className: white
+  icon: fas fa-bullhorn
+  link: https://blog.slock.it/the-dao-creation-is-now-live-2270fd23affc
+  text: TheDAO smart contract is deployed; members of the public send it value in return for DAO tokens
+- key: securityProposal
+  title: Security Proposal
+  date: May 26 2016
   className: orange
-  link: https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork/
-  icon: far fa-clock
-  date: Jul 15 2016
-  title: Last Minute Carbonvote
-  text: With 12 hours notice, The Ethereum Foundation use a controversial third
-    party 'coin vote' to determine that the Hard Fork should be turned on by
-    default; consensus is declared and an updated client is released
-- key: dAOBailoutHardFork
+  icon: far fa-keyboard
+  link: https://blog.slock.it/dao-security-a-proposal-to-guarantee-the-integrity-of-the-dao-3473899ace9d
+  text: Slock.it announce a $1.5 Million USD proposal, paid in Ether by the crowdfund, 'to guarantee the integrity of The DAO'
+- key: moratoriumCalled
+  title: Moratorium Called
+  date: May 27 2016
+  className: orange
+  icon: fas fa-crosshairs
+  link: http://hackingdistributed.com/2016/05/27/dao-call-for-moratorium/
+  text: On the last day of the crowdsale, DAO curator Vlad Zamfir calls for a moratorium on TheDAO, citing many game-theoretical security issues
+- key: theDaoCrowdsaleEnds
+  title: TheDAO Crowdsale Ends
+  date: May 27 2016
+  className: white
+  icon: fas fa-funnel-dollar
+  link: http://slacknation.github.io/medium/8/8.html
+  text: The crowdsale completes to become the world's largest and raising an incredible $150 Million USD
+- key: recursiveCallBugDiscovered
+  title: Recursive Call Bug Discovered
+  date: Jun 9 2016
+  className: orange
+  icon: fas fa-bug
+  link: http://vessenes.com/more-ethereum-attacks-race-to-empty-is-the-real-deal/
+  text: Peter Vessenes publicly discloses the existence of a critical security vulnerability overlooked in many Solidiy contracts
+- key: noFundsAtRisk
+  title: No Funds at Risk
+  date: Jun 12 2016
+  className: white
+  icon: fas fa-thumbs-up
+  link: https://blog.slock.it/no-dao-funds-at-risk-following-the-ethereum-smart-contract-recursive-call-bug-discovery-29f482d348b
+  text: Stephan Tual publicly claims that TheDAO funds are safe despite the newly-discovered critical security flaw
+- key: theDAOIsHacked
+  title: TheDAO is Hacked
+  date: Jun 17 2016
+  className: red
+  icon: fas fa-times-circle
+  link: http://slacknation.github.io/medium/10/10.html
+  text: Ether is slowly and silently drained from TheDAO as the re-entry bug is applied
+- key: panicHitsTheMarkets
+  title: Panic Hits the Markets
+  date: Jun 17 2016
+  className: red
+  icon: fas fa-chart-area
+  link: https://cointelegraph.com/news/dao-potentially-hacked-millions-of-ether-may-be-stolen-griff-green-says
+  text: The price of Ether is slashed in half as Griff Green announces that TheDAO has been hacked
+- key: theCountdownBeings
+  title: The Countdown Beings
+  date: Jun 17 2016
   className: blue
-  link: https://blog.ethereum.org/2016/07/20/hard-fork-completed/
-  icon: fas fa-code-branch
-  date: Jul 20 2016
+  icon: fas fa-hourglass-start
+  link: https://blog.ethereum.org/2016/06/17/critical-update-re-dao-vulnerability/
+  text: TheDAO's splitting mechanism gives around a month for a solution to be found that recovers the funds; Foundation and community developers race to implement a soft fork
+- key: robinHoodGroupAnnounced
+  title: Robin Hood Group Announced
+  date: Jun 21 2016
+  className: white
+  icon: fas fa-user-secret
+  link: https://www.reddit.com/r/ethereum/comments/4p7mhc/update_on_the_white_hat_attack/
+  text: A group of 'white-hat' hackers secure 70% of TheDAO funds but protocol-level action is required to save the remaining 30% split by the hacker
+- key: softForkTheDao
+  title: "DAO Wars: Soft Fork Vote"
+  date: Jun 24 2016
+  className: blue
+  icon: fas fa-wrench
+  link: https://blog.ethereum.org/2016/06/24/dao-wars-youre-voice-soft-fork-dilemma/
+  text: The Ethereum Foundation releases a 'Soft Fork' client to censor transactions coming from the hacker; mining pools vote to enable it by lowering gas limit
+- key: softForkVulnerability
+  title: Soft Fork Vulnerability
+  date: Jun 28 2016
+  className: red
+  icon: far fa-calendar-times
+  link: https://blog.ethereum.org/2016/06/28/security-alert-dos-vulnerability-in-the-soft-fork/
+  text: Critical Denial of Service flaws are found in the Soft Fork implementation, miners quickly decide NOT to use it
+- key: hardForkDebate
+  title: Hard Fork Debate
+  date: Jun 28 2016
+  className: orange
+  icon: far fa-calendar-times
+  link: https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork/
+  text: Many days of intense arguing goes on in the Ethereum community about the pros and cons of implementing a Hard Fork
+- key: hardForkSpecAnnounced
+  title: Hard Fork Spec Announced
+  date: Jul 15 2016
+  className: blue
+  icon: fas fa-exclamation-triangle
+  link: https://blog.slock.it/hard-fork-specification-24b889e70703
+  text: The only remaining option is a controversial Hard Fork. A Specification is determined and announced by Slock.it and Ethereum Foundation members
+- key: lastMinuteCarbonvote
+  title: Last Minute Carbonvote
+  date: Jul 15 2016
+  className: orange
+  icon: far fa-clock
+  link: https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork/
+  text: With 12 hours notice, The Ethereum Foundation use a controversial third party 'coin vote' to determine that the Hard Fork should be turned on by default; consensus is declared and an updated client is released
+- key: daoBailoutHardFork
   title: DAO Bailout Hard Fork
-  text: With around 80% of nodes updating to the new client, the community nervously
-    await the arrival of the Hard Fork activation block 1920000
+  date: Jul 20 2016
+  className: blue
+  icon: fas fa-code-branch
+  link: https://blog.ethereum.org/2016/07/20/hard-fork-completed/
+  text: With around 80% of nodes updating to the new client, the community nervously await the arrival of the DAO Bailout fork activation block 1,920,000
+- key: newEthereumIsBorn
+  title: New Fork Chain named Ethereum
+  date: Block 1,920,001
+  className: purple
+  icon: fas fa-rocket
+  link: https://etherscan.io/block/1920001
+  text: An unnamed `fork chain` is born! The Ethereum Foundation creates an altered version of Ethereum on July 20, 2016 to reverse the DAO theft. As trademark rights holders, the Ethereum Foundation applies the Ethereum (ETH) brand to the new chain
+- key: ethereumRenamedToClassic
+  title: Original Chain renamed to Ethereum Classic
+  date: Block 1,920,001
+  className: green
+  icon: fas fa-rocket
+  link: https://expedition.dev/block/0xab7668dfd3bedcf9da505d69306e8fd12ad78116429cf8880a9942c6f0605b60?network=mainnet
+  text: With predictions of the original `non-forked chain` to disappear within hours, many are surprised to find that miners continue mining blocks and OTC trading of the original chain tokens gives them value. The public begins calling this chain `Ethereum Classic`. Orderbooks adopt the `ETC` ticker for this chain
 - key: missionAccomplished
   className: purple
   link: https://twitter.com/initc3org/status/758000698881613824
