@@ -1,7 +1,7 @@
 ---
 title: "Phoenix Hard Fork Upgrade"
 date: 2020-06-10
-author: /raw PONG _GHMoaCXLT
+author: Raw Pong Ghmoa
 ---
 
 # ECIP 1088: Phoenix EVM and Protocol Upgrades

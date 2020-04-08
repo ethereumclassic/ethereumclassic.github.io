@@ -33,9 +33,10 @@ module.exports = {
       resolve: 'gatsby-plugin-mdx',
       options: {
         extensions: ['.mdx', '.md'],
-        // https://github.com/gatsbyjs/gatsby/issues/15486#issuecomment-510153237
-        plugins: ['gatsby-remark-images'],
         gatsbyRemarkPlugins: [
+          {
+            resolve: 'gatsby-remark-copy-linked-files'
+          },
           {
             resolve: 'gatsby-remark-images',
             options: {
