@@ -247,7 +247,7 @@ readers do not read off random characters that represent icons */
 /* .fa-arrow-alt-circle-up:before { content: "\f35b"; } */
 /* .fa-arrow-circle-down:before { content: "\f0ab"; } */
 /* .fa-arrow-circle-left:before { content: "\f0a8"; } */
-/* .fa-arrow-circle-right:before { content: "\f0a9"; } */
+.fa-arrow-circle-right:before { content: "\f0a9"; }
 /* .fa-arrow-circle-up:before { content: "\f0aa"; } */
 /* .fa-arrow-down:before { content: "\f063"; } */
 /* .fa-arrow-left:before { content: "\f060"; } */
@@ -323,7 +323,7 @@ readers do not read off random characters that represent icons */
 /* .fa-bluetooth-b:before { content: "\f294"; } */
 /* .fa-bold:before { content: "\f032"; } */
 /* .fa-bolt:before { content: "\f0e7"; } */
-/* .fa-bomb:before { content: "\f1e2"; } */
+.fa-bomb:before { content: "\f1e2"; }
 /* .fa-bone:before { content: "\f5d7"; } */
 /* .fa-bong:before { content: "\f55c"; } */
 .fa-book:before { content: "\f02d"; }
@@ -349,7 +349,7 @@ readers do not read off random characters that represent icons */
 /* .fa-broadcast-tower:before { content: "\f519"; } */
 /* .fa-broom:before { content: "\f51a"; } */
 /* .fa-brush:before { content: "\f55d"; } */
-/* .fa-btc:before { content: "\f15a"; } */
+.fa-btc:before { content: "\f15a"; }
 /* .fa-buffer:before { content: "\f837"; } */
 .fa-bug:before { content: "\f188"; }
 /* .fa-building:before { content: "\f1ad"; } */
@@ -1065,7 +1065,7 @@ readers do not read off random characters that represent icons */
 /* .fa-npm:before { content: "\f3d4"; } */
 /* .fa-ns8:before { content: "\f3d5"; } */
 /* .fa-nutritionix:before { content: "\f3d6"; } */
-/* .fa-object-group:before { content: "\f247"; } */
+.fa-object-group:before { content: "\f247"; }
 /* .fa-object-ungroup:before { content: "\f248"; } */
 /* .fa-odnoklassniki:before { content: "\f263"; } */
 /* .fa-odnoklassniki-square:before { content: "\f264"; } */
@@ -1314,7 +1314,7 @@ readers do not read off random characters that represent icons */
 /* .fa-snapchat-ghost:before { content: "\f2ac"; } */
 /* .fa-snapchat-square:before { content: "\f2ad"; } */
 /* .fa-snowboarding:before { content: "\f7ce"; } */
-/* .fa-snowflake:before { content: "\f2dc"; } */
+.fa-snowflake:before { content: "\f2dc"; }
 /* .fa-snowman:before { content: "\f7d0"; } */
 /* .fa-snowplow:before { content: "\f7d2"; } */
 /* .fa-soap:before { content: "\f96e"; } */

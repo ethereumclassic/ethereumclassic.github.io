@@ -8,7 +8,7 @@ author: Afri Schoedon
 
 [https://youtu.be/sURnZEeIqBU](https://youtu.be/sURnZEeIqBU)
 
-![Mordor Testnet Launch](./mordor_wallpaper.png)
+![Mordor Testnet Launch](./logo_etc11.jpg)
 
 ## State of the Ethereum Classic Testnets Summary
 
@@ -45,13 +45,19 @@ There are a massive number of Ethereum Classic testnets.
     * Ethash Proof-of-Work
     * Görli Testnet Initiative & Whiteblock
     * Stress-testing of `Atlantis`
-    * Temporary testnet    
-* --mordor
-    * 2019 Genesis
-    * Ethash Proof-of-Work
-    * Replaces Morden, Kensington, Nazgul
-    * Supported by all clients
-    * No Premine, No Presale, Fair launch!
+    * Temporary testnet
 
+
+## Remove ETC Testnet Redundancies
 
 [Mordor Testnet Launch Video](https://youtu.be/sURnZEeIqBU)
+
+### --mordor
+
+* 2019 Genesis
+* Ethash Proof-of-Work
+* Replaces Morden, Kensington, Nazgul
+* Supported by all clients
+* No Premine, No Presale, Fair launch!
+
+![Mordor Testnet Launch](./mordor_wallpaper.png)

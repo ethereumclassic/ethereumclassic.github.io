@@ -6,7 +6,7 @@
 -
   key: chat Facebook
   name: Facebook
-  link: https://www.facebook.com/EthereumClassicETC/
+  link: https://www.facebook.com/groups/ethereum.hongkong/
   type: chat
 -
   key: chat Kakao (Korea)
@@ -40,12 +40,12 @@
   type: telegram
 -
   key: telegram English 1
-  name: English
+  name: English 1
   link: https://telegram.me/ethclassic
   type: telegram
 -
   key: telegram English 2
-  name: English
+  name: English 2
   link: https://t.me/etcchat
   type: telegram
 -

@@ -8,7 +8,7 @@ author: ETC Summit
 
 [https://etcsummit.com/](https://etcsummit.com/)
 
-![ETC Summit 2019](./ETC_Summit_Logo_Black_LrgText-1.svg)
+![ETC Summit 2019](./ethereum_classic_banner_wallpaper.JPG)
 
 ## Join the Ethereum Classic Summit
 
