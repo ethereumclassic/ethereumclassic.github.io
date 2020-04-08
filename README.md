@@ -18,10 +18,10 @@ If you want to modify content or add blog articles, you can do so in a number of
 
 New GitHub contributors can follow this [contribution guide](https://guides.github.com/activities/forking/) to contribute to repositories.
 
-- Clone this repository yourself, and run using `npm start` (requires Linux/Mac & Node JS installed)
-- [Edit on GitPod](https://gitpod.io/#https://github.com/ethereumclassic/ethereumclassic.github.io)
 - Create an issue with suggested changes (a maintainer will implement the changes)
-- Edit directly on github
+- Edit directly via the github UI
+- [Edit on GitPod](https://gitpod.io/#https://github.com/ethereumclassic/ethereumclassic.github.io) ([instructions](https://www.gitpod.io/docs/pull-requests/))
+- Clone this repository yourself, and run using `npm start` (requires Linux/Mac & Node JS installed)
 
 See `package.json` for a list of scripts that can be run to automate content creation. E.g. `npm run create:blog`.
 

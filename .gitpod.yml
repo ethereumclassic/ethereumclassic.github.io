@@ -9,3 +9,5 @@ github:
   prebuilds:
     master: true
     branches: true
+    pullRequestsFromForks: true
+    addComment: true
