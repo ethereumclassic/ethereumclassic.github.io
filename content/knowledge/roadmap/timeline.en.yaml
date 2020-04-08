@@ -107,7 +107,7 @@
   title: Soft Fork Vulnerability
   date: Jun 28 2016
   className: red
-  icon: far fa-bug
+  icon: fas fa-bug
   link: https://blog.ethereum.org/2016/06/28/security-alert-dos-vulnerability-in-the-soft-fork/
   text: Critical Denial of Service flaws are found in the Soft Fork implementation, miners quickly decide NOT to use it
 - key: hardForkDebate
@@ -146,7 +146,7 @@
   link: https://etherscan.io/block/1920001
   text: An unnamed chain is born! The Ethereum Foundation creates an altered version of Ethereum on July 20, 2016 to reverse the DAO theft. As trademark rights holders, the Ethereum Foundation applies the Ethereum (ETH) brand to the new fork chain
 - key: ethereumRenamedToClassic
-  title: Old Non-Fork Chain
+  title: Original Non-Fork Chain
   date: Block 1,920,001
   className: green
   icon: fas fa-rocket
@@ -165,7 +165,7 @@
   className: green
   icon: fas fa-chart-line
   link: https://twitter.com/poloniex/status/757068619234803712
-  text: The largest Ethereum exchange signals long-term support for Ethereum Classic the original chain. Poloniex lists 'ETC', many exchanges quickly follow suit. ETC price peaks to 1/3 of ETH's
+  text: The largest Ethereum exchange signals long-term support for Ethereum Classic the original chain. Poloniex lists ETC, many exchanges quickly follow suit. ETC price peaks to 1/3 of ETH's
 - key: etheriansInDisarray
   title: Etherians in Disarray
   date: Jul 23 Onwards
@@ -181,7 +181,7 @@
   link: https://www.reddit.com/r/EthereumClassic/
   text: The Ethereum Classic supporters begins to branch off from the forked-chain subreddits and form its own communication channels, including /r/EthereumClassic, Slack and Telegram
 - key: attack51Pool
-  title: ETH Proponets 51% Attack ETC
+  title: ETH 51% Attacks ETC
   date: Jul 31 2016
   className: red
   icon: fas fa-unlink
@@ -221,21 +221,21 @@
   className: white
   icon: fas fa-file-code
   link: /blog/2016-09-09-code-is-law
-  text: People keep repeating the phrase "Code is Law" without clear understanding of what it's supposed to mean. Ethereum Classic principles explained.
+  text: People keep repeating the phrase "Code is Law" without clear understanding of what it's supposed to mean. Ethereum Classic clarifies principles
 - key: gasReprice
   title: Gas Reprice Upgrade
   date: Oct 24 2016
   className: blue
   icon: fas fa-code-branch
   link: /blog/2016-10-17-gas-reprice-hard-fork
-  text: Both Ethereums are hit with non-stop network attacks; ETC devs quickly ensure smooth and uncontentious network upgrade to patch exploited vulnerabilities
+  text: Both Ethereum networks are hit with attacks; ETC devs quickly ensure smooth and uncontentious network upgrade to patch exploited vulnerabilities
 - key: etcMonetaryPolicy
   title: ETC Monetary Policy
   date: Nov 1 2016
   className: green
   icon: fas fa-hand-holding-usd
   link: https://www.reddit.com/r/EthereumClassic/comments/5cm582/monetary_policy_update/
-  text: Classic community starts debating ETC monetary policy and emission schedule, as a way to align interests of platform users, miners, investors and developers
+  text: Ethereum Classic begins debating ETC monetary policy and emission schedule, as a way to align interests of platform users, miners, investors and developers
 - key: grothendieckTeam
   title: Grothendieck team
   date: Dec 11 2016
@@ -278,112 +278,135 @@
   icon: fas fa-user-ninja
   link: /blog/2017-07-23-development-boost/
   text: A development team forms under the Ethereum Commonwealth name
--
-  key: hksummit
+- key: etcCoop
+  title: Birth of ETC Cooperative
+  date: Sept 2017
+  className: white
+  icon: fas fa-user-ninja
+  link: https://etccooperative.org/
+  text: ETC Cooperative legal entity was created Sep 2017 as LLC. Application for non-profit status was made May 2018 and approved Nov 2018, retroactive to the date of application
+- key: etcSummitHK
+  title: ETC Summit 2017
   date: Nov 12 2017
-  title: ETC 2017 Summit
-  text: Held in Hong Kong
-  icon: fas fa-users
   className: purple
-  link: https://etcsummit.com/
--
-  key: era2
-  date: Block 5,000,000
-  title: Era 2 Arrives
-  text: On Dec 11 2017, ECIP-1017's 2nd Era kicked in, reducing emission by 20%
-  icon: far fa-clock
-  className: orange
--
-  key: ECIP1041
-  date: May 19 2018
-  title: ECIP 1041 Network Upgrade
-  text: ETC safely disabled the difficulty bomb that was put in place to switch the original Ethereum project to PoS. Ethereum Classic commits itself to PoW as it's consensus mechanism.
-  icon: fas fa-angle-double-up
-  className: blue
--
-  key: etclabs
-  date: Jun 2018
-  title: Birth of ETC Labs
-  text: ETC Labs provides funding, industry connections, and office space to burgeoning ETC projects; with office space in San Francisco and Singapore.
-  icon: fas fa-user-ninja
-  className: white
-  link: https://etclabs.org/
--
-  key: kotti
-  date: Sept 8 2018
-  title: Birth of the Kotti Testnet
-  text: A Proof-of-Authority (Clique) testnet constructed to provide interoperability testing with sister-chain ETH's Görli Testnet. POA becomes the preferred testnet environment for dapp development testing.
-  icon: fas fa-code-branch
-  className: blue
--
-  key: seoulsummit
-  date: Sept 12 2018
-  title: ETC Summit 2018
-  text: Held in in Seoul, South Korea
   icon: fas fa-users
-  className: purple
-  link: https://etcsummit.com/
--
-  key: coinbase
-  date: Oct 1 2018
-  title: Coinbase Lists Ethereum Classic
-  text: The largest cryptocurrency exchange in the USA signals long-term support for Ethereum Classic.
-  icon: fas fa-chart-line
+  link: /blog/2017-11-11-whos-talking-at-the-classic-summit
+  text: The first annual Ethereum Classic conference is held in Hong Kong
+- key: gothamUpgrade
+  title: Gotham Upgrade
+  date: Dec 11 2017
+  className: blue
+  icon: fas fa-btc
+  link: /blog/2017-12-11-gotham-hard-fork-upgrade-5m20-era2
+  text: The Gotham upgrade established a predictable monetary policy and emission schedule inspired by Bitcoin. 5M20: the block reward will reduce by 20% every 5M blocks
+- key: era2
+  title: 5M20 Era 2
+  date: Dec 11 2017
   className: green
--
-  key: etclabsincubator
-  date: Oct 25 2018
-  title: ETC Labs Incubator Program
-  text: The company’s incubator program will work with as many as 24 Ethereum Classic based startups each year
-  icon: fas fa-user-ninja
-  className: white
--
-  key: 51attack
-  date: Jan 2019
-  title: 51% Attack
-  link: https://medium.com/@slowmist/the-analysis-of-etc-51-attack-from-slowmist-team-728596d76ead
-  text: The Chinese blockchain security firm SlowMist sent out an alert, that the Ethereum Classic network might have been targeted by hashpower consolidation (chain reorganization).
-  icon: fas fa-unlink
-  className: red
--
-  key: atlantis
-  date: Sept 30 2019
-  title: Atlantis Upgrade
-  text: ECIP-1054 was implemented to enable the outstanding Ethereum Foundation Spurious Dragon and Byzantium network protocol upgrades.
-  icon: fas fa-angle-double-up
+  icon: fas fa-coins
+  link: /blog/2017-12-11-gotham-hard-fork-upgrade-5m20-era2
+  text:  ECIP-1017's 5M20 Era 2 block reward reduced emission by 20% to 4 ETC per block
+- key: defuseDifficultyBomb
+  title: Defuse Difficulty Bomb
+  date: May 30 2018
   className: blue
--
-  key: vancouversummit
+  icon: fas fa-bomb
+  link: /blog/2018-05-29-defuse-difficulty-bomb-hard-fork-upgrade
+  text: ETC safely disabled the difficulty bomb that was put in place to switch the original Ethereum project to PoS. Ethereum Classic commits itself to PoW as it's consensus mechanism
+- key: etclabs
+  title: Birth of ETC Labs
+  date: Jun 2018
+  className: white
+  icon: fas fa-user-ninja
+  link: https://etclabs.org/
+  text: ETC Labs provides funding, industry connections, and office space to burgeoning ETC projects; with office space in San Francisco and Singapore
+  text: A development team forms under the Ethereum Commonwealth name
+- key: kotti
+  title: Kotti PoA Testnet Launches
+  date: Sept 8 2018
+  className: blue
+  icon: fas fa-rocket
+  link: https://cryptodaily.co.uk/2018/11/What-is-Ethereum-Classics-Project-Goerli
+  text: A PoA testnet constructed to provide interoperability testing with sister-chain ETH's Görli Testnet. PoA becomes the preferred testnet environment for dapp development testing.
+- key: etcSummitSeoul
+  title: ETC Summit 2018
+  date: Sept 12 2018
+  className: purple
+  icon: fas fa-users
+  link: https://etcsummit.com/
+  text: The second annual Ethereum Classic conference is held in Seoul, South Korea
+- key: coinbas
+  title: Coinbase Lists ETC
+  date: Oct 1 2018
+  className: green
+  icon: fas fa-chart-line
+  text: The largest cryptocurrency exchange in the USA signals long-term support for the original Ethereum chain; Ethereum Classic
+- key: etcLabsIncubator
+  title: ETC Labs Incubator Program
+  date: Oct 25 2018
+  className: white
+  icon: fas fa-user-ninja
+  link: https://etclabs.org/
+  text: The company’s incubator program will work with as many as 24 Ethereum Classic based startups each year
+-   key: second51Attack
+  title: Second 51% Attack
+  date: Jan 8 2019
+  icon: fas fa-unlink
+  link: https://medium.com/@slowmist/the-analysis-of-etc-51-attack-from-slowmist-team-728596d76ead
+  text: The Chinese blockchain security firm SlowMist sent out an alert, that the Ethereum Classic network might have been targeted by hashpower consolidation, a chain reorganization
+- key: atlantisUpgrade
+  title: Atlantis Upgrade
+  date: Sept 12 2019
+  className: blue
+  icon: fas fa-angle-double-up
+  link: /blog/2019-07-29-atlantis-hard-fork-upgrade/
+  text: ECIP-1054 was implemented to enable the outstanding Ethereum Foundation Spurious Dragon and Byzantium network protocol upgrades
+- key: etcSummitVancouver
   date: Oct 3 2019
   title: ETC Summit 2019
-  text: Held in Vancouver, Canada
-  icon: fas fa-users
   className: purple
+  icon: fas fa-users
   link: https://etcsummit.com/
--
-  key: mordor
-  date: Oct 3 2019
-  title: The birth of Mordor PoW Testnet
-  text: The retiring of old PoW testnets to clean up pre-chain split baggage.
-  icon: fas fa-code-branch
+  text: The third annual Ethereum Classic conference is held in Vancouver, Canada
+- key: mordorLaunch
+  title: Mordor PoW Testnet Launches
+  date: Oct 4 2019
   className: blue
--
-  key: agharta
-  date: Jan 12 2020
+  icon: fas fa-rocket
+  link: /blog/2019-10-04-mordor-testnet-launch/
+  text: Removed redundancy by replacing Kensington, Morden, and Nazgul networks with Mordor, an ethash PoW testnet
+- key: aghartaUpgrade
   title: Agharta Upgrade
-  text: ECIP-1056 was implement to enable the outstanding Ethereum Foundation Constaninople and Petersburg network protocol upgrades.
-  icon: fas fa-angle-double-up
+  date: Jan 12 2020
   className: blue
--
-  key: era3
-  date: Block 10,000,000
-  title: 5M20 Era 3 Arrives
-  text: On March 17, 2020, Ethereum Classic's 5M20 monetary policy moved to Era3. The emission schedule, outlined in ECIP1017, reduced the block reward by 20%, from 4 to 3.2 ETC, on block 10 million.
-  icon: far fa-clock
-  className: orange
--
-  key: toBeContinued
-  title: To Be Continued
-  text: As Ethereum Classic community and its two independent dev teams start to
-    focus efforts on development and applications, we look forward to ETC
-    becoming a decentralized immutable public infrastructure of the future...
+  icon: fas fa-angle-double-up
+  link: /blog/2020-01-11-agharta-hard-fork-upgrade/
+  text: ECIP-1056 was implement to enable the outstanding Ethereum Foundation Constaninople and Petersburg network protocol upgrades
+- key: 5m20era3
+  title: 5M20 Era 3
+  date: Mar 17 2020
+  className: green
+  icon: fas fa-coins
+  link: /blog/2020-03-17-5m20-era3-block-reward-reduction/
+  text: ECIP-1017's 5M20 Era 3 block reward reduced emission by 20% to 3.2 ETC per block
+- key: era3
+  title: 5M20 Era 3
+  date: Mar 17 2020
+  className: green
+  icon: fas fa-coins
+  link: /blog/2020-03-17-5m20-era3-block-reward-reduction/
+  text: ECIP-1017's 5M20 Era 3 block reward reduced emission by 20% to 3.2 ETC per block
+- key: phoenixUpgrade
+  title: Phoenix Upgrade
+  date: June 10 2020
+  className: blue
+  icon: fas fa-angle-double-up
+  link: /blog/2020-06-10-phoenix-hard-fork-upgrade/
+  text: ECIP-1088 is planned for June, 2020 on block 10,500,839 to enable the outstanding Ethereum Foundation Istanbul network protocol upgrade
+- key: aBrightFuture
+  title: A Bright Future
+  date: Future
+  className: green
+  icon: far fa-arrow-circle-right
+  link: /knowledge/roadmap
+  text: As the ecosystem continues to organically grow, the independent development teams are guided by principles that make Ethereum Classic such a unique network. The network truly is decentralized, immutable, and unstoppable. Review the roadmap to learn about the promising future of Ethereum Classic, the original Ethereum chain...
