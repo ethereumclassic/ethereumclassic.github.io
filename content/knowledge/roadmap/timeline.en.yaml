@@ -298,7 +298,7 @@
   className: blue
   icon: fas fa-btc
   link: /blog/2017-12-11-gotham-hard-fork-upgrade-5m20-era2
-  text: The Gotham upgrade established a predictable monetary policy and emission schedule inspired by Bitcoin. 5M20: the block reward will reduce by 20% every 5M blocks
+  text: The Gotham upgrade established a predictable monetary policy and emission schedule inspired by Bitcoin. 5M20, the block reward will reduce by 20% every 5M blocks
 - key: era2
   title: 5M20 Era 2
   date: Dec 11 2017
