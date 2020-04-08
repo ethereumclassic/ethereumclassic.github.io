@@ -1065,7 +1065,7 @@ readers do not read off random characters that represent icons */
 /* .fa-npm:before { content: "\f3d4"; } */
 /* .fa-ns8:before { content: "\f3d5"; } */
 /* .fa-nutritionix:before { content: "\f3d6"; } */
-/* .fa-object-group:before { content: "\f247"; } */
+.fa-object-group:before { content: "\f247"; }
 /* .fa-object-ungroup:before { content: "\f248"; } */
 /* .fa-odnoklassniki:before { content: "\f263"; } */
 /* .fa-odnoklassniki-square:before { content: "\f264"; } */
