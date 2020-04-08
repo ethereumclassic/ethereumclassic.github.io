@@ -22,7 +22,7 @@
   releaseLink: https://github.com/multi-geth/multi-geth/releases
   supportLink: https://gitter.im/multi-geth/community
   supportIcon: fab fa-gitter
-  text: A "swiss army knife" distribution of go-ethereum, with support for many species of Ethereum networks.
+  text: A "swiss army knife" distribution of go-ethereum, with support for many species of Ethereum networks. For Phoenix upgrade support, please use version v1.9.14 or later.
 -
   key: OpenEthereum
   name: OpenEthereum
@@ -30,4 +30,4 @@
   releaseLink: https://github.com/openethereum/openethereum/releases
   supportLink: http://discord.io/openethereum
   supportIcon: fab fa-discord
-  text: Fast and feature-rich multi-network Ethereum client.
+  text: Fast and feature-rich multi-network Ethereum client. OpenEthereum has not released a version with Phoenix upgrade support yet.
