@@ -320,7 +320,6 @@
   icon: fas fa-user-ninja
   link: https://etclabs.org/
   text: ETC Labs provides funding, industry connections, and office space to burgeoning ETC projects; with office space in San Francisco and Singapore
-  text: A development team forms under the Ethereum Commonwealth name
 - key: kotti
   title: Kotti PoA Testnet Launches
   date: Sept 8 2018
@@ -335,7 +334,7 @@
   icon: fas fa-users
   link: https://etcsummit.com/
   text: The second annual Ethereum Classic conference is held in Seoul, South Korea
-- key: coinbas
+- key: coinbase
   title: Coinbase Lists ETC
   date: Oct 1 2018
   className: green
@@ -348,8 +347,8 @@
   icon: fas fa-user-ninja
   link: https://etclabs.org/
   text: The company’s incubator program will work with as many as 24 Ethereum Classic based startups each year
--   key: second51Attack
-  title: Second 51% Attack
+- key: second51Attack
+  title: Second 51 Attack
   date: Jan 8 2019
   icon: fas fa-unlink
   link: https://medium.com/@slowmist/the-analysis-of-etc-51-attack-from-slowmist-team-728596d76ead
