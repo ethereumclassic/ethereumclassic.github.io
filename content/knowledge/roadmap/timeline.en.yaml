@@ -151,7 +151,7 @@
   className: green
   icon: fas fa-rocket
   link: https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/
-  text: With predictions of the original non-forked chain to disappear within hours, many are surprised to find that miners continue mining blocks and OTC trading of the original chain tokens gives them value. The public begins calling this chain Ethereum Classic. Orderbooks adopt the ETC ticker for this chain
+  text: With predictions of the original non-forked chain to disappear within hours, many are surprised to find that miners continue to support the original chain. Bisq and OTC desks give these tokens a price discovery orderbook. The markets participants rebrand this non-forked chain Ethereum Classic (ETC)
 - key: missionAccomplished
   title: Mission Accomplished!
   date: Jul 20 2016
@@ -172,7 +172,7 @@
   className: red
   icon: far fa-frown
   link: https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/
-  text: The Flame Wars begin in subreddits. An economically-charged vitriolic spats begin to take hold of the participants as it comes to terms with the reality of the split
+  text: The Flame Wars begin in subreddits. As economically-charged vitriolic spats begin to take hold of the participants as it comes to terms with the reality of the split
 - key: ethereumClassicsupporters
   title: Ethereum Classic Supporters
   date: Jul 24 2016
@@ -226,7 +226,7 @@
   title: Gas Reprice Upgrade
   date: Oct 24 2016
   className: blue
-  icon: fas fa-code-branch
+  icon: fas fa-angle-double-up
   link: /blog/2016-10-17-gas-reprice-hard-fork
   text: Both Ethereum networks are attacked due to vulnerabilities in the tech stack. ETC devs quickly ensure a smooth and uncontentious network upgrade to patch exploited vulnerabilities
 - key: etcMonetaryPolicy
@@ -258,7 +258,7 @@
   link: https://www.etcdevteam.com/
   text: A team of long-term ETC contributors and volunteers rebrands as a ETCDEV team
 - key: monetaryPolicyAdopted
-  title: Monetary Policy Adopted
+  title: Monetary Policy Consensus
   date: Mar 1 2017
   className: green
   icon: fas fa-hand-holding-usd
@@ -270,7 +270,7 @@
   className: green
   icon: fas fa-user-tie
   link: https://grayscale.co/ethereum-classic-investment-thesis-march-2017/
-  text: Grayscale circulates investment thesis for 'Ethereum (ETC) Investment Trust'. The first non-bitcoin crypto fund targeted at traditional market investors. ETC investors can now hold ETC in their portfolio with the tax benefits of a traditional asset
+  text: Grayscale launches the first non-bitcoin crypto fund enabling traditional investors to add ETC to their portfolio with the all the tax benefits of a traditional investment asset
 - key: etcCommonwealth
   title: Commonwealth Team
   date: Jul 22 2017
@@ -296,7 +296,7 @@
   title: Gotham Upgrade
   date: Dec 11 2017
   className: blue
-  icon: fa fa-btc
+  icon: fas fa-angle-double-up
   link: /blog/2017-12-11-gotham-hard-fork-upgrade-5m20-era2
   text: The Gotham upgrade established a predictable monetary policy and emission schedule inspired by Bitcoin. 5M20, the block reward will reduce by 20% every 5M blocks
 - key: era2
@@ -358,7 +358,7 @@
   title: Atlantis Upgrade
   date: Sept 12 2019
   className: blue
-  icon: fas fa-object-group
+  icon: fas fa-angle-double-up
   link: /blog/2019-07-29-atlantis-hard-fork-upgrade/
   text: Ethereum Classic core developers implement ETH's Spurious Dragon and Byzantium network protocol upgrades to maintain operation parity with its sister chain
 - key: etcSummitVancouver
@@ -369,7 +369,7 @@
   link: https://etcsummit.com/
   text: The third annual Ethereum Classic conference is held in Vancouver, Canada
 - key: mordorLaunch
-  title: Mordor PoW Testnet Launches
+  title: Mordor Launches
   date: Oct 4 2019
   className: blue
   icon: fas fa-rocket
@@ -379,7 +379,7 @@
   title: Agharta Upgrade
   date: Jan 12 2020
   className: blue
-  icon: fas fa-object-group
+  icon: fas fa-angle-double-up
   link: /blog/2020-01-11-agharta-hard-fork-upgrade/
   text: Ethereum Classic core developers implement ETH's Constaninople and Petersburg network protocol upgrades to maintain operation parity with its sister chain
 - key: 5m20era3
