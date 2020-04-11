@@ -5,4 +5,4 @@ contribute: true
 intro: |
   # Porting
 
-  There are a few of Ethereum Classic specific tools that are useful to know about if you are porting your ETH application over.
+  There are a few Ethereum Classic specific tools that are useful to know about if you are porting your ETH application over. All Web3.js frontend code is compatible with ETC as longs as the provider RPC node being pointed to is an ETC instance. No changes are necessary.
