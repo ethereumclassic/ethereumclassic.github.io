@@ -16,6 +16,12 @@
   text: This page goes over the various clients available for Ethereum Classic and provides links of where to download them.
   link: /development/clients
 - 
+  key: porting
+  name: Porting
+  shortText: Port your dApp over to ETC
+  text: All of the resources necessary for a developer who has a currently running dApp on ETH and would like to port it over to ETC.
+  link: /development/porting
+- 
   key: developer-tools
   name: Tools
   shortText: Enhance your Developer Experience 
