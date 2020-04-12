@@ -25,7 +25,7 @@
   type: extension
 -
   key: Nifty Wallet
-  name: Nifty Wallet
+  name: Nifty Wallet (supports ETC dApps)
   link: https://github.com/poanetwork/nifty-wallet
   type: extension
 -
@@ -35,7 +35,7 @@
   type: extension
 -
   key: Saturn Wallet
-  name: Saturn Wallet
+  name: Saturn Wallet (supports ETC dApps)
   link: https://www.saturn.network/blog/saturn-wallet-user-manual/
   type: extension
 -
@@ -180,9 +180,9 @@
   type: software
 -
   key: Trust Wallet
-  name: Trust Wallet
+  name: Trust Wallet (supports ETC dApps)
   link: https://trustwallet.com/
-  type: software
+  type: extension
 -
   key: ZenGo
   name: ZenGo
