@@ -289,8 +289,8 @@
   key: 2020-02-26-ETC-Core
   date: 2020-02-26
   link: https://youtu.be/HzcJL3rVbpU
-  author: ETC Core
-  source: Ethereum Classic Core
+  author: Ethereum Classic Core Developers Call
+  source: ETC Core
   title: "Core Devs Call: Phoenix Upgrade from Scratch"
 -
   key: 2020-02-25-Ethereum-Classic
@@ -439,6 +439,13 @@
   author: Donald McIntyre
   source: EtherPlan
   title: "Ethereum Classic Aztlán and PhoenixFix Upgrades set to Activate on Block 10,500,839 Estimated on June 10th, 2020"
+-
+  key: 2020-02-05-ETC-Core
+  date: 2020-02-05
+  link: https://youtu.be/kqhr378Kmz8
+  author: Ethereum Classic Core Developers Call
+  source: ETC Core
+  title: "Ethereum Classic Core Devs Meeting - ECIP-1078 Phoenix Finalization"
 -
   key: 2020-02-04-EtherPlan
   date: 2020-02-04
@@ -658,6 +665,13 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: Crypto Globe
   title: "Some Parity Ethereum Nodes Not Syncing, Parity Suspects an Attack"
 -
+  key: 2019-12-27-ETC-Core
+  date: 2019-12-27
+  link: https://youtu.be/Svp-eWnqf_g
+  author: Ethereum Classic Core Developers Call
+  source: ETC Core
+  title: "Ethereum Classic Core Devs Meeting - Gas Limit Reduction"
+-
   key: 2019-12-26-CoinDesk
   date: 2019-12-26
   link: https://www.coindesk.com/the-ethereum-community-is-no-longer-fighting-with-itself
@@ -699,6 +713,13 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Adrian Barkley
   source: Crypto Daily
   title: "Ethereum Classic Labs Core Team Rebrands to ETC Core For Clarity"
+-
+  key: 2019-12-12-ETC-Core
+  date: 2019-12-12
+  link: https://youtu.be/vipvH21tXgc
+  author: Ethereum Classic Core Developers Call
+  source: ETC Core
+  title: "Ethereum Classic Core Devs Meeting - Agharta hard fork finalization"
 -
   key: 2019-12-12-ETC-Core
   date: 2019-12-12
@@ -755,6 +776,13 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Stevan Lohja
   source: ETC Core
   title: "ProgPoW, Sha-3, Dag, Oh My! — Changing the Ethereum Classic PoW Algorithm"
+-
+  key: 2019-11-21-ETC-Core
+  date: 2019-11-21
+  link: https://youtu.be/sPa6XcuYdIw
+  author: Ethereum Classic Core Developers Call
+  source: ETC Core
+  title: "Ethereum Classic Core Devs Meeting - Changing the mining algorithm"
 -
   key: 2019-11-16-CoinTelegraph
   date: 2019-11-16
