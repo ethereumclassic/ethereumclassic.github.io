@@ -16,6 +16,12 @@
   text: Ethereum Classic's native currency ETC is one of the most widely available cryptocurrencies. Here is a non-exhaustive list of marketplaces and exchanges where you can source ETC to add to your crypto portfolio.
   link: /ecosystem/exchanges
 - 
+  key: investor
+  name: Investor Information
+  shortText: Resources for investors looking to learn more about Ethereum Classic
+  text: Documents discussing key theses and relevant information for investors. Useful for those who are looking better to understand upside potential and the value proposition of ETC.
+  link: /ecosystem/investor
+- 
   key: wallets
   name: Wallets
   shortText: Keep your ETC safe
