@@ -4,18 +4,23 @@
   link: https://discordapp.com/invite/HW4GckH
   type: chat
 -
-  key: chat Facebook
-  name: Facebook
+  key: chat Facebook English
+  name: Facebook English
   link: https://www.facebook.com/groups/ethereum.hongkong/
   type: chat
 -
-  key: chat Kakao (Korea)
-  name: Kakao (Korea)
+  key: chat Facebook Vietnam
+  name: Facebook Vietnam
+  link: http://facebook.com/EthereumClassicVietnam/
+  type: chat
+-
+  key: chat Kakao Korea
+  name: Kakao Korea
   link: https://open.kakao.com/o/gi4uNJ1
   type: chat
 -
-  key: chat Ethereum Classic Slack
-  name: Ethereum Classic Slack
+  key: chat Slack
+  name: Slack
   link: https://ethereumclassic.herokuapp.com/
   type: chat
 -
@@ -40,12 +45,12 @@
   type: telegram
 -
   key: telegram English 1
-  name: English 1
+  name: English
   link: https://telegram.me/ethclassic
   type: telegram
 -
   key: telegram English 2
-  name: English 2
+  name: English
   link: https://t.me/etcchat
   type: telegram
 -
@@ -64,13 +69,18 @@
   link: https://t.me/ETC_Italia
   type: telegram
 -
+  key: telegram Japan
+  name: Japan
+  link: https://t.me/etcjapan
+  type: telegram
+-
   key: telegram Russia 1
-  name: Russia 1
+  name: Russia
   link: https://telegram.me/etcrussia
   type: telegram
 -
   key: telegram Russia 2
-  name: Russia 2
+  name: Russia
   link: https://telegram.me/etcru
   type: telegram
 -
@@ -136,12 +146,12 @@
 -
   key: twitter English 1
   name: English
-  link: https://twitter.com/EthereumClassic
+  link: https://twitter.com/eth_classic
   type: twitter
 -
   key: twitter English 2
   name: English
-  link: https://twitter.com/eth_classic
+  link: https://twitter.com/EthereumClassic
   type: twitter
 -
   key: twitter Español
@@ -171,12 +181,12 @@
 -
   key: twitter Korea 1
   name: Korea
-  link: https://twitter.com/etckorea1
+  link: https://twitter.com/ethclassic_kor
   type: twitter
 -
   key: twitter Korea 2
   name: Korea
-  link: https://twitter.com/ethclassic_kor
+  link: https://twitter.com/etckorea1
   type: twitter
 -
   key: twitter Netherlands
