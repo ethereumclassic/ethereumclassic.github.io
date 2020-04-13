@@ -2,7 +2,7 @@ import React from 'react';
 
 import { graphql } from 'gatsby';
 
-import html from '../i18n/html';
+import renderMarkdown from '~components/renderMarkdown';
 import PageLayout from '~components/pageLayout';
 import ButtonLink from '~components/buttonLink';
 import Link from '~components/link';
@@ -32,7 +32,7 @@ const Sitemap = ({
   return (
     <PageLayout i18n={i18n}>
       <ButtonLink to={'/sitemap.xml'} text={i18n.xml} icon="code" style={{ float: 'right' }} />
-      {html(i18n.intro)}
+      {renderMarkdown(i18n.intro)}
       <div className="sitemap">
         {sorted.map(i => (
           <Link to={i.link} notLocalized style={{ paddingLeft: `${i.indent}rem` }}>

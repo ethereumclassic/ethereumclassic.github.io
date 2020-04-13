@@ -1,6 +1,6 @@
 import React from 'react';
 
-import html from '../i18n/html';
+import renderMarkdown from '~components/renderMarkdown';
 import ButtonLink from '~components/buttonLink';
 import LocaleVisibility from '~components/localeVisibility';
 import PageLayout from '~components/pageLayout';
@@ -27,7 +27,7 @@ const NewsLayout = ({ i18n, globals, rssLink, currentPage, children, hasItems })
           </LocaleVisibility>
         )}
       </div>
-      {html(i18n.intro)}
+      {renderMarkdown(i18n.intro)}
       <SubMenu items={menu} selected={currentPage} tabs />
       <div className="tabs-child">
         <LocaleVisibility hide={['en']}>

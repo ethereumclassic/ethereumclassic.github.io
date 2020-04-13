@@ -1,7 +1,7 @@
 import React from 'react';
 // import ButtonLink from './buttonLink';
 import Link from './link';
-import html from '../i18n/html';
+import renderMarkdown from './renderMarkdown';
 
 import VideoFrame from './videoFrame';
 
@@ -13,7 +13,7 @@ const VideoGroup = ({ title, items, header }) => {
       {items.map(({ key, name, text, link, youtube, timestamp }) => (
         <div key={key} className="video-item">
           <h4>{name}</h4>
-          {text && <p>{html(text)}</p>}
+          {renderMarkdown(text)}
           <div className="video-container">
             <VideoFrame title={name} youtube={youtube} timestamp={timestamp} link={link} />
             <Link to={link} className="video-link" />

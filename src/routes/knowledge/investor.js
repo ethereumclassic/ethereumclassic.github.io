@@ -1,6 +1,6 @@
 import React from 'react';
 
-import html from '../../i18n/html';
+import renderMarkdown from '~components/renderMarkdown';
 
 import SubPageLayout from '~components/subPageLayout';
 import LinkGroup from '~components/linkGroup';

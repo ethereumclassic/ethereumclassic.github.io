@@ -1,6 +1,6 @@
 import React from 'react';
 
-import html from '../../i18n/html';
+import renderMarkdown from '~components/renderMarkdown';
 
 import SubPageLayout from '~components/subPageLayout';
 import Logos from '~components/logos';
@@ -16,7 +16,7 @@ const Roadmap = ({ pageContext: { i18n } }) => {
       />
       <hr />
       <section>
-        {html(i18n.svgsIntro)}
+        {renderMarkdown(i18n.svgsIntro)}
         <Logos />
       </section>
     </SubPageLayout>
