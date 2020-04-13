@@ -54,4 +54,8 @@ ref [ECIP-1078](https://ecips.ethereumclassic.org/ECIPs/ecip-1078) [ECIP-1079](h
 
 [https://github.com/ethereumclassic/ECIPs/issues/284](https://github.com/ethereumclassic/ECIPs/issues/284)
 
+### Recording of Core Devs Call
+
+[Core Devs Call:  ECIP-1078 Phoenix Finalization](https://youtu.be/kqhr378Kmz8)
+
 ![ETC Core Devs Call - ECIP-1078 Phoenix Finalization](./phoenix_etc.jpg)

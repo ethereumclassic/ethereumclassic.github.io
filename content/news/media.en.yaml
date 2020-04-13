@@ -1,4 +1,18 @@
 -
+  key: 2020-04-09-EVM61
+  date: 2020-04-09
+  link: https://youtu.be/OK5tVQXWmqc
+  author: EVM61 Podcast
+  source: ETC Core
+  title: "EVM61 #5 Chuy Cepeda"
+-
+  key: 2020-04-07-EVM61
+  date: 2020-04-07
+  link: https://youtu.be/EGQ4d7IkDxY
+  author: EVM61 Podcast
+  source: ETC Core
+  title: "EVM61 #4 Christian Xu"
+-
   key: 2020-04-06-ETC-Core
   date: 2020-04-06
   link: https://medium.com/etc-core/phoenix-ethereum-classic-network-upgrade-proceeds-to-accepted-status-and-on-schedule-c53c1b9027ff
@@ -193,7 +207,7 @@
   link: https://www.youtube.com/watch?v=ZbpElXDBP4k&feature=youtu.be
   author: ETC Labs
   source: Crypto Coin Show
-  title: "Blockchain Interviews - Terry Culver CEO, DFG & ETC Labs"
+  title: "Blockchain Interviews - Terry Culver CEO, DFG and ETC Labs"
 -
   key: 2020-03-06-ETC-Core
   date: 2020-03-06
@@ -249,7 +263,7 @@
   link: https://www.cryptonewsz.com/godel-labs-lends-support-to-ongoing-multi-geth-project-development-team-creation/
   author: David Cox
   source: CryptoNewZ
-  title: "Gödel Labs Lends Support to Ongoing Multi-Geth Project & Development Team Creation"
+  title: "Gödel Labs Lends Support to Ongoing Multi-Geth Project and Development Team Creation"
 -
   key: 2020-02-26-Decrypt
   date: 2020-02-26
@@ -275,8 +289,8 @@
   key: 2020-02-26-ETC-Core
   date: 2020-02-26
   link: https://youtu.be/HzcJL3rVbpU
-  author: ETC Core
-  source: Ethereum Classic Core
+  author: Ethereum Classic Core Developers Call
+  source: ETC Core
   title: "Core Devs Call: Phoenix Upgrade from Scratch"
 -
   key: 2020-02-25-Ethereum-Classic
@@ -426,6 +440,13 @@
   source: EtherPlan
   title: "Ethereum Classic Aztlán and PhoenixFix Upgrades set to Activate on Block 10,500,839 Estimated on June 10th, 2020"
 -
+  key: 2020-02-05-ETC-Core
+  date: 2020-02-05
+  link: https://youtu.be/kqhr378Kmz8
+  author: Ethereum Classic Core Developers Call
+  source: ETC Core
+  title: "Ethereum Classic Core Devs Meeting - ECIP-1078 Phoenix Finalization"
+-
   key: 2020-02-04-EtherPlan
   date: 2020-02-04
   link: https://etherplan.com/2020/02/04/the-ethereum-classic-trinity-explained/9845/
@@ -570,7 +591,7 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   key: 2020-01-17-Cheddar
   date: 2020-01-17
   link: https://cheddar.com/media/ethereum-classic-labs-donates-million-to-unicef-for-blockchain-initiatives
-  author: Kirsten Scholer & Tim Stenovec
+  author: Kirsten Scholer and Tim Stenovec
   source: Cheddar
   title: "Ethereum Classic Labs Donates $1 Million to UNICEF for Blockchain Initiatives"
 -
@@ -623,6 +644,13 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: Ethereum Classic Core
   title: "Agharta Hard-Fork Countdown [01-12-2020]"
 -
+  key: 2020-01-10-ETC-Coop
+  date: 2020-01-10
+  link: https://medium.com/ethereum-classic/vyper-and-brownie-contract-development-on-evm-chains-85ba7fa2feef
+  author: Yaz Khoury
+  source: Ethereum Classic Cooperative
+  title: "Vyper and Brownie Contract Development on EVM Chains"
+-
   key: 2020-01-02-CaptainAltcoin
   date: 2020-01-02
   link: https://captainaltcoin.com/best-ethereum-classic-etc-wallets/
@@ -636,6 +664,13 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Francisco Memoria
   source: Crypto Globe
   title: "Some Parity Ethereum Nodes Not Syncing, Parity Suspects an Attack"
+-
+  key: 2019-12-27-ETC-Core
+  date: 2019-12-27
+  link: https://youtu.be/Svp-eWnqf_g
+  author: Ethereum Classic Core Developers Call
+  source: ETC Core
+  title: "Ethereum Classic Core Devs Meeting - Gas Limit Reduction"
 -
   key: 2019-12-26-CoinDesk
   date: 2019-12-26
@@ -681,6 +716,13 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
 -
   key: 2019-12-12-ETC-Core
   date: 2019-12-12
+  link: https://youtu.be/vipvH21tXgc
+  author: Ethereum Classic Core Developers Call
+  source: ETC Core
+  title: "Ethereum Classic Core Devs Meeting - Agharta hard fork finalization"
+-
+  key: 2019-12-12-ETC-Core
+  date: 2019-12-12
   link: https://medium.com/etc-core/ethereum-classic-agharta-hard-fork-finalization-c4298b4d5603
   author: Stevan Lohja
   source: ETC Core
@@ -699,6 +741,13 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Sam
   source: Saturn Network
   title: "What is a full node?"
+-
+  key: 2019-12-04-Classic-Is-Coming
+  date: 2019-12-04
+  link: https://medium.com/classic-is-coming/psa-etc-core-dev-call-short-reconfirm-or-establish-new-rough-consensus-on-aztl%C3%A1n-proposal-ffad28b2cde8
+  author: Classic Is Coming
+  source: Classic Is Coming
+  title: "PSA- ETC Core Dev Call - Confirm New Consensus for Aztlán Network Upgrade ECIP-1061"
 -
   key: 2019-11-30-NCN
   date: 2019-11-30
@@ -734,6 +783,13 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Stevan Lohja
   source: ETC Core
   title: "ProgPoW, Sha-3, Dag, Oh My! — Changing the Ethereum Classic PoW Algorithm"
+-
+  key: 2019-11-21-ETC-Core
+  date: 2019-11-21
+  link: https://youtu.be/sPa6XcuYdIw
+  author: Ethereum Classic Core Developers Call
+  source: ETC Core
+  title: "Ethereum Classic Core Devs Meeting - Changing the mining algorithm"
 -
   key: 2019-11-16-CoinTelegraph
   date: 2019-11-16
@@ -861,6 +917,13 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: The Capital
   title: "Code Is Law — Competent Blockchain Design, Not An Ideology."
 -
+  key: 2019-10-16-ETC-Core
+  date: 2019-10-16
+  link: https://medium.com/etclabscore/ethereum-classic-labs-core-quarterly-development-review-q3-2019-15ba09570975
+  author: Stevan Lohja
+  source: ETC Core
+  title: "Ethereum Classic Labs Core — Quarterly Development Review Q3, 2019"
+-
   key: 2019-10-15-EtherPlan
   date: 2019-10-15
   link: https://etherplan.com/2019/10/15/in-banking-wealth-is-controlled-by-providers-in-blockchain-wealth-is-controlled-by-owners/9302/
@@ -931,12 +994,26 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: Coin Telegraph
   title: "Chainalysis Adds ERC-20 Toeksn to Its On-Demand Compliance Service"
 -
+  key: 2019-10-02-ETC-Coop
+  date: 2019-10-02
+  link: https://medium.com/ethereum-classic/etc-summit-2019-photos-from-the-venue-ccd494ef6bda
+  author: Bob Summerwill
+  source: Ethereum Classic Cooperative
+  title: "ETC Summit 2019 — Photos from the venue"
+-
   key: 2019-09-27-ETC-Labs
   date: 2019-09-27
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-presents-second-state-947d85ca31ee
   author: Hiccups
   source: Ethereum Classic Labs
   title: "Ethereum Classic Labs Presents: Second State"
+-
+  key: 2019-09-27-ETC-Coop
+  date: 2019-09-27
+  link: https://medium.com/ethereum-classic/etc-summit-moved-to-vancouver-convention-centre-4ab569065656
+  author: Bob Summerwill
+  source: Ethereum Classic Cooperative
+  title: "ETC Summit moved to Vancouver Convention Centre"
 -
   key: 2019-09-24-Second-State
   date: 2019-09-24
@@ -959,12 +1036,26 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: Decrypt
   title: "ProgPow advocate uninvited to Ethereum Classic Summit over links to Craig Wright"
 -
+  key: 2019-09-18-ETC-Core
+  date: 2019-09-18
+  link: https://medium.com/etclabscore/jade-explorer-a-minimal-block-explorer-for-the-ethereum-stack-a0df1aecdc38
+  author: Stevan Lohja
+  source: ETC Core
+  title: "Jade Explorer, A Minimal Block Explorer for the Ethereum Stack"
+-
   key: 2019-09-13-CryptoDaily
   date: 2019-09-13
   link: https://cryptodaily.co.uk/2019/09/atlantis-hard-fork-sees-end-ehtereum-classic-network
   author: Adrian Barkley
   source: Crypto Daily
   title: "Atlantis Hard Fork Finally Sees An End On Ethereum Classic Network"
+-
+  key: 2019-09-12-ETC-Coop
+  date: 2019-09-12
+  link: https://medium.com/ethereum-classic/etc-cooperative-applying-to-join-eea-3f89bb3c71d4
+  author: Bob Summerwill
+  source: Ethereum Classic Cooperative
+  title: "ETC Cooperative applying to join EEA"
 -
   key: 2019-09-12-Decrypt
   date: 2019-09-12
@@ -980,6 +1071,20 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: Ethereum Classic Cooperative
   title: "ETC support in Hyperledger Besu"
 -
+  key: 2019-09-10-ETC-Core
+  date: 2019-09-10
+  link: https://medium.com/etclabscore/ethereum-classic-community-is-ready-for-the-atlantis-hard-fork-22f3b3417811
+  author: Stevan Lohja
+  source: ETC Core
+  title: "Ethereum Classic Community is Ready for the Atlantis Hard Fork"
+-
+  key: 2019-09-09-ETC-Coop
+  date: 2019-09-09
+  link: https://medium.com/ethereum-classic/etc-summit-2019-agenda-announced-e3e8c1b09ab0
+  author: Bob Summerwill
+  source: Ethereum Classic Cooperative
+  title: "ETC Summit 2019 Agenda Announced"
+-
   key: 2019-09-04-CoinTelegraph
   date: 2019-09-04
   link: https://cointelegraph.com/news/ethereum-classic-partners-with-blockchain-developer-and-media-dapp
@@ -994,6 +1099,13 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: Second State
   title: "Ethereum Classic partners with Second State to build the next generation Ethereum infrastructure"
 -
+  key: 2019-08-28-ETC-Core
+  date: 2019-08-28
+  link: https://medium.com/etclabscore/the-evm-llvm-is-coming-to-ethereum-classic-what-you-need-to-know-c13962f25571
+  author: Stevan Lohja
+  source: ETC Core
+  title: "The EVM-LLVM is coming to Ethereum Classic! What you need to know."
+-
   key: 2019-08-23-ETC-Labs
   date: 2019-08-23
   link: https://medium.com/ethereum-classic-labs/ethermine-announces-full-support-for-ethereum-classic-atlantis-hard-fork-5231d3c70d58
@@ -1007,6 +1119,13 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Adrian Zmudzinski
   source: Coin Telegraph
   title: "Ethereum Name Service Adds Multicoin Support"
+-
+  key: 2019-08-19-ETC-Core
+  date: 2019-08-19
+  link: https://medium.com/etclabscore/dear-ethereum-classic-crypto-exchanges-miners-wallets-dapps-and-other-users-8f5d3d50a93b
+  author: Stevan Lohja
+  source: ETC Core
+  title: "Dear Ethereum Classic Crypto Exchanges, Miners, Wallets, Dapps, and other Users."
 -
   key: 2019-08-09-Decrypt
   date: 2019-08-09
@@ -1182,6 +1301,13 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: McDappas
   source: Ethereum Classic Labs
   title: "ETC Labs Presents: Ethernode"
+-
+  key: 2019-03-22-ETC-Coop
+  date: 2019-03-22
+  link: https://medium.com/ethereum-classic/kotti-solidity-etc-oh-my-2ae36926454d
+  author: Yaz Khoury
+  source: Ethereum Classic Cooperative
+  title: "Kotti, Solidity, ETC, Oh My!"
 -
   key: 2019-03-15-ETC-Labs
   date: 2019-03-15
@@ -1456,6 +1582,13 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: Crypto Daily
   title: "Ethereum Classic Achieves New Listing"
 -
+  key: 2018-08-01-Classic-Is-Coming
+  date: 2018-08-01
+  link: https://medium.com/classic-is-coming/etcgame-the-leading-platform-for-predictions-2bcb8a171afd
+  author: Classic Is Coming
+  source: Classic Is Coming
+  title: "ETCGame - The Leading Platform for Predictions"
+-
   key: 2018-07-19-CryptoGlobe
   date: 2018-07-19
   link: https://www.cryptoglobe.com/latest/2018/07/barry-silberts-digital-currency-group-only-cryptocurrencies-we-like-are-bitcoin-btc-ethereum-classic-etc-zcash-zec-zencash-zen-and-decentraland-mana/
@@ -1566,7 +1699,7 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   link: https://cryptodaily.co.uk/2018/03/grayscale-adds-ripple-xrp-litecoin-ethereum-bch-to-its-investment-trust
   author: Thomas Ramsay
   source: Crypto Daily
-  title: "Grayscale Adds Ripple XRP, Litecoin, Ethereum, & BCH To Its Investment Trust"
+  title: "Grayscale Adds Ripple XRP, Litecoin, Ethereum, and BCH To Its Investment Trust"
 -
   key: 2018-03-08-CCN
   date: 2018-03-08
@@ -1575,12 +1708,26 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: Crypto Coins News
   title: "Circle Invest supports ETC/USD trading pairs"
 -
+  key: 2017-12-31-Classic-Is-Coming
+  date: 2017-12-31
+  link: https://medium.com/classic-is-coming/the-emerald-platform-ethereum-classic-395996b4e40b
+  author: Classic Is Coming
+  source: Classic Is Coming
+  title: "The Emerald Platform - Ethereum Classic"
+-
   key: 2017-12-17-Bits-Online
   date: 2017-12-17
   link: https://bitsonline.com/coinbase-support-bch-etc/
   author: Jon Southurst
   source: Bits Online
   title: "Coinbase Busy Adding Bitcoin Cash and Ethereum Classic Support?"
+-
+  key: 2017-12-16-Classic-Is-Coming
+  date: 2017-12-16
+  link: https://medium.com/classic-is-coming/8btc-etcdev-team-ask-me-anything-9993b152b6f0
+  author: Classic Is Coming
+  source: Classic Is Coming
+  title: "ETCDEV Team Ask Me Anything - Classic is Coming"
 -
   key: 2017-11-12-PR
   date: 2017-11-12
@@ -2115,7 +2262,7 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   link: https://steemit.com/etc/@cseberino/ethereum-classic-denial-of-service-attacks-and-the-estonian-cyberwar
   author: Christian Seberino
   source: Steem It
-  title: "Ethereum Classic Denial Of Service Attacks & The Estonian Cyberwar"
+  title: "Ethereum Classic Denial Of Service Attacks and The Estonian Cyberwar"
 -
   key: 2016-10-18-CH
   date: 2016-10-18
@@ -2278,7 +2425,7 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   key: 2016-08-16-EP
   date: 2016-08-16
   link: http://www.youtube.com/watch?v=5040I0PW7rc
-  author: Charles Hoskinson & Alex Chepurnoy
+  author: Charles Hoskinson and Alex Chepurnoy
   source: Epicenter Bitcoin
   title: "The Case For Ethereum Classic"
 -

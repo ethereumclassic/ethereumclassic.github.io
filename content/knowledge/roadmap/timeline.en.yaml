@@ -180,13 +180,20 @@
   icon: fas fa-users
   link: https://www.reddit.com/r/EthereumClassic/
   text: The Ethereum Classic supporters branch off from the forked-chain subreddits and form its own socisl channels
-- key: attack51Pool
-  title: ETH 51% Attacks ETC
+- key: 51Pool
+  title: 51% Attack Threat
   date: Jul 31 2016
   className: red
-  icon: fas fa-unlink
+  icon: fas fas fa-exclamation-triangle
   link: http://www.newsbtc.com/2016/07/31/51pool-attack-plans-51-network-attack-ethereum-classic/
-  text: ETH supporters form a mining pool called 51Pool with plans to destroy the ETC network by orchestrating a 51% attack
+  text: ETH supporters form a mining pool called 51Pool.org with plans to destroy the ETC network by orchestrating a 51% attack
+- key: minerSupport
+  title: Miners Support ETC
+  date: Aug 01 2016
+  className: white
+  icon: fas fa-cubes
+  link: https://coinjournal.net/miner-attack-ethereum-classic-now-supporting/
+  text: After the ETC network grew to a point where they could no longer attack it, ETH miners publicly declare not to attack ETC. To prevent hurting innocent Ethereum Classic holders, ETH miners commit resources to mining ETC.
 - key: attackRhg
   title: RHG Attacks ETC
   date: Aug 10 2016
@@ -205,7 +212,7 @@
   title: Battle Tested and Resilient
   date: Aug 18 2016
   className: white
-  icon: fas fa-cubes
+  icon: fas fa-users
   link: /blog/2016-08-18-meetup
   text: Ethereum Classic proves its resilience to the markets as ETC emerges from the ETH attacks with a stabalizing price. The networks core principles are galvanized during the DAO Bailout. Supporters begin rebuilding from the ashes
 - key: unlockedDaoFunds
@@ -347,13 +354,20 @@
   icon: fas fa-user-ninja
   link: https://etclabs.org/
   text: The company’s incubator program will work with as many as 24 Ethereum Classic based startups each year
-- key: second51Attack
-  title: Second 51% Attack
+- key: 51Attack
+  title: 51% Attack
   date: Jan 8 2019
   className: red
   icon: fas fa-unlink
   link: https://medium.com/@slowmist/the-analysis-of-etc-51-attack-from-slowmist-team-728596d76ead
-  text: Ethereum Classic experiences its second chain reorganization. Exchanges increase their confirmations times to unreasonable levels to protect them from attacks
+  text: Ethereum Classic experiences the first successful chain reorganization attack on its network. The resilient ETC rises from the ashes.
+- key: 51AttackReturn
+  title: Whitehat Attacker
+  date: Jan 13 2019
+  className: white
+  icon: fas fa-user-secret
+  link: https://www.cryptoglobe.com/latest/2019/01/ethereum-classic-51-attackers-return-100000-to-crypto-exchange-gate-io/
+  text: The 51% attacker appears to be a whitehat hacker and returns stolen funds to a compromised exchange. Exchanges tighten 51% attack monitoring on PoW coins 
 - key: atlantisUpgrade
   title: Atlantis Upgrade
   date: Sept 12 2019
