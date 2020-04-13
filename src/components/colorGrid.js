@@ -4,7 +4,6 @@ import { groupTypes } from '../utils';
 import Grid from './grid';
 import Card from './card';
 import Translate from './translate';
-import html from '../i18n/html';
 
 class ColorGrid extends React.Component {
   constructor(props) {
@@ -56,7 +55,7 @@ class ColorGrid extends React.Component {
               key={key}
               className={`grid-color-${types[type].i + 1}`}
               title={name}
-              text={html(text)}
+              text={text}
               to={link}
             />
           ))}

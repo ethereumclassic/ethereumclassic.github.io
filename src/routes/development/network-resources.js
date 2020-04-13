@@ -1,7 +1,5 @@
 import React from 'react';
 
-import html from '../../i18n/html';
-
 import SubPageLayout from '~components/subPageLayout';
 import Source from '~components/source';
 import ItemTable from '~components/itemTable';
@@ -10,9 +8,8 @@ import ButtonGroup from '~components/buttonGroup';
 const NetworkResources = ({ pageContext: { i18n } }) => {
   return (
     <SubPageLayout i18n={i18n}>
-      {html(i18n.clients)}
       <ItemTable
-        header={html(i18n.chainsTitle)}
+        header={i18n.chainsTitle}
         items={i18n.yaml.chains}
         columns={[
           { key: 'name', name: i18n.name, type: 'link' },
@@ -24,11 +21,11 @@ const NetworkResources = ({ pageContext: { i18n } }) => {
         ]}
       />
       <Source to="https://EthereumVM.net" text="EthereumVM.net" />
-      <ButtonGroup header={html(i18n.gasFeeTitle)} items={i18n.yaml.gasFee} />
+      <ButtonGroup header={i18n.gasFeeTitle} items={i18n.yaml.gasFee} />
       <ItemTable
         hideHead
         sortedBy="name"
-        header={html(i18n.explorersTitle)}
+        header={i18n.explorersTitle}
         items={i18n.yaml.explorers}
         columns={[
           { key: 'name' },
@@ -41,7 +38,7 @@ const NetworkResources = ({ pageContext: { i18n } }) => {
       <ItemTable
         hideHead
         sortedBy="name"
-        header={html(i18n.monitorsTitle)}
+        header={i18n.monitorsTitle}
         items={i18n.yaml.monitors}
         columns={[
           { key: 'name' },
@@ -54,7 +51,7 @@ const NetworkResources = ({ pageContext: { i18n } }) => {
       <ItemTable
         hideHead
         sortedBy="name"
-        header={html(i18n.faucetsTitle)}
+        header={i18n.faucetsTitle}
         items={i18n.yaml.faucets}
         columns={[
           { key: 'name' },

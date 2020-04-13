@@ -1,13 +1,14 @@
 import React from 'react';
 import Link from './link';
 import ButtonLink from './buttonLink';
+import renderMarkdown from './renderMarkdown';
 import { sortBy } from '../utils';
 
 const ItemTable = ({ items, columns, header, hideHead, sortedBy, rowClass }) => {
   const sorted = sortBy(sortedBy, items);
   return (
     <div className="item-table">
-      {header}
+      {renderMarkdown(header)}
       <div className="table">
         <table>
           {!hideHead && (

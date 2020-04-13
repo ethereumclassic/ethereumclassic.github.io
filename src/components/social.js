@@ -1,6 +1,6 @@
 import React from 'react';
-import html from '../i18n/html';
 
+import renderMarkdown from './renderMarkdown';
 import SocialIcon from './socialIcon';
 import Translate from './translate';
 import ButtonLink from './buttonLink';
@@ -27,7 +27,7 @@ const Social = () => {
             <SocialIcon to="https://twitter.com/eth_classic" icon="twitter" text={t.twitter} />
           </ul>
           <p>
-            {html(t.discordText)}
+            {renderMarkdown(t.discordText)}
             <br />
             <ButtonLink
               className="massive blue"

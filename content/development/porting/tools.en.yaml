@@ -17,7 +17,6 @@
   key: Ether Cluster
   title: Ether Cluster (similar to Infura)
   link: https://www.ethercluster.com/
-  html: true
   text: A freely available ETC Node endpoint. Accessible as a Web3 RPC provider at `https://www.ethercluster.com/etc`
 - 
   key: DappDirect.net
