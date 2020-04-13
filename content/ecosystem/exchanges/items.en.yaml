@@ -624,17 +624,132 @@
   link: https://www.xchange.me/
   type: instant
 -
+  key: BeInCrypto
+  name: Be In Crypto
+  type: price
+  link: https://beincrypto.com/price/ethereum-classic/
+-
+  key: BitInfoCharts
+  name: Bit Info Charts
+  type: price
+  link: https://bitinfocharts.com/ethereum%20classic/
+-
+  key: BusinessInsider
+  name: Business Insider
+  type: price
+  link: https://markets.businessinsider.com/currencies/etc-usd
+-
+  key: Coin360
+  name: Coin360
+  type: price
+  link: https://coin360.com/coin/ethereum-classic-etc
+-
+  key: Coinbase
+  name: Coinbase
+  type: price
+  link: https://www.coinbase.com/price/ethereum-classic
+-
+  key: CoinCentral
+  name: Coin Central
+  type: price
+  link: https://coincentral.com/currencies/ethereum-classic/
+-
+  key: CoinCheckup
+  name: Coin Checkup
+  type: price
+  link: https://coincheckup.com/coins/ethereum-classic/
+-
+  key: CoinCodex
+  name: Coin Codex
+  type: price
+  link: https://coincodex.com/crypto/ethereum-classic/
+-
+  key: CoinCurrencyChart
+  name: Coin Currency Chart
+  type: price
+  link: https://www.cryptocurrencychart.com/coin/ETC
+-
+  key: CoinDesk
+  name: Coin Desk
+  type: price
+  link: https://www.coindesk.com/price/ethereum-classic
+-
   key: CoinGecko
   name: CoinGecko
   type: price
   link: https://www.coingecko.com/en/coins/ethereum-classic
+-
+  key: CoinLib
+  name: Coin Lib
+  type: price
+  link: https://coinlib.io/coin/ETC/Ethereum+Classic
+-
+  key: CoinMarketCap
+  name: Coin Market Cap
+  type: price
+  link: https://coinmarketcap.com/currencies/ethereum-classic/
+-
+  key: CoinRanking
+  name: Coin Ranking
+  type: price
+  link: https://coinranking.com/coin/hnfQfsYfeIGUQ+ethereumclassic-etc
+-
+  key: CoinStats
+  name: Coin Stats
+  type: price
+  link: https://coinstats.app/en/coins/ethereum-classic
+-
+  key: CoinTelegraph
+  name: Coin Telegraph
+  type: price
+  link: https://cointelegraph.com/etc-price-index
+-
+  key: CryptoCompare
+  name: Crypto Compare
+  type: price
+  link: https://www.cryptocompare.com/coins/etc/overview/USD
+-
+  key: CryptoSlate
+  name: Crypto Slate
+  type: price
+  link: https://cryptoslate.com/coins/ethereum-classic/
+-
+  key: CryptoWatch
+  name: Crypto Watch
+  type: price
+  link: https://cryptowat.ch/assets/etc
+-
+  key: LiveCoinWatch
+  name: Live Coin Watch
+  type: price
+  link: https://www.livecoinwatch.com/price/EthereumClassic-ETC
 -
   key: Messari
   name: Messari
   type: price
   link: https://messari.io/asset/ethereum-classic
 -
+  key: Nomics
+  name: Nomics
+  type: price
+  link: https://nomics.com/assets/etc-ethereum-classic
+-
+  key: OnChainFX
+  name: OnChainFX
+  type: price
+  link: https://onchainfx.com/price/ethereum-classic
+-
   key: TradingView
-  name: TradingView
+  name: Trading View
   type: price
   link: https://www.tradingview.com/symbols/ETCUSD/
+-
+  key: WorldCoinIndex
+  name: World Coin Index
+  type: price
+  link: https://www.worldcoinindex.com/coin/ethereumclassic
+-
+  key: YahooFinance
+  name: Yahoo Finance
+  type: price
+  link: https://finance.yahoo.com/quote/ETC-USD
