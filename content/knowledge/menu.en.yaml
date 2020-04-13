@@ -30,8 +30,8 @@
 -
   key: investor
   name: Investor Resources
-  shortText: Resources for investors looking to learn more about ETC
-  text: Documents discussing key theses and relevant information for investors. Useful for those who are looking to understand the upside potential and value proposition of ETC.
+  shortText: Documents for investors looking to learn more about ETC
+  text: Resources discussing key theses and relevant information for investors. Useful for those who are looking to understand the value proposition and upside potential of ETC.
   link: /knowledge/investor
 - 
   key: ecosystem
