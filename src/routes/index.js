@@ -1,7 +1,7 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 
-import html from '../i18n/html';
+import renderMarkdown from '~components/renderMarkdown';
 
 import GlobalLayout from '~components/globalLayout';
 import Navigation from '~components/navigation';
@@ -20,7 +20,9 @@ const Index = ({ pageContext: { i18n }, data: { file, allMdx: blogArticles } }) 
     <div id="wrapper">
       <Banner i18n={i18n} image={file.childImageSharp.fluid} />
       <Phoenix />
-      <Section subSection={() => html(i18n.whatIsClassic)}>{html(i18n.whatIsBlockchain)}</Section>
+      <Section subSection={() => renderMarkdown(i18n.whatIsClassic)}>
+        {renderMarkdown(i18n.whatIsBlockchain)}
+      </Section>
       <WideSection className="shaded trim">
         <IconGrid
           icons={[
@@ -43,14 +45,14 @@ const Index = ({ pageContext: { i18n }, data: { file, allMdx: blogArticles } }) 
         />
       </WideSection>
       <WideSection className="dark">
-        {html(i18n.getStarted)}
+        {renderMarkdown(i18n.getStarted)}
         <ButtonLink text={i18n.knowledgeBase} to="/knowledge" className="big" icon="angle-right" />
       </WideSection>
       <Section
         subSection={() => {
           return (
             <>
-              {html(i18n.stayCurrent)}
+              {renderMarkdown(i18n.stayCurrent)}
               <ButtonLink
                 text={i18n.contributeArticles}
                 to="https://github.com/ethereumclassic/ethereumclassic.github.io"

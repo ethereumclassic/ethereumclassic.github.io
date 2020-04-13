@@ -1,25 +1,27 @@
 import React from 'react';
 
-import html from '../i18n/html';
+import renderMarkdown from './renderMarkdown';
 
 const classes = {
   // evm: 'blue',
   // protocol: 'purple'
 };
 
-const Road = ({ items }) => {
+const Road = ({ items, header }) => {
   return (
-    <div className="road">
-      {items.map(({ key, date, text, type }) => {
-        return (
-          <div className={`item ${classes[type] || ''}`} key={key}>
-            <h4 className="date">{`${date}`}</h4>
-            {/* <h4>{title || type}</h4> */}
-            <p>{html(text)}</p>
-          </div>
-        );
-      })}
-    </div>
+    <>
+      {renderMarkdown(header)}
+      <div className="road">
+        {items.map(({ key, date, text, type }) => {
+          return (
+            <div className={`item ${classes[type] || ''}`} key={key}>
+              <h4 className="date">{`${date}`}</h4>
+              <p>{renderMarkdown(text)}</p>
+            </div>
+          );
+        })}
+      </div>
+    </>
   );
 };
 

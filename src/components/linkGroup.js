@@ -1,18 +1,18 @@
 import React from 'react';
 import Link from './link';
 
-import renderHtml from '../i18n/html';
+import renderMarkdown from './renderMarkdown';
 
 const ButtonGroup = ({ items, header }) => {
   return (
     <div className="link-group">
-      {header}
-      {items.map(({ name, key, link, title, text, html }) => (
+      {renderMarkdown(header)}
+      {items.map(({ name, key, link, title, text }) => (
         <div key={key} className="link-item">
           <h3>
             <Link text={name || title} to={link} />
           </h3>
-          {text && <p>{html ? renderHtml(text) : text}</p>}
+          {renderMarkdown(text, { unwrap: false })}
         </div>
       ))}
     </div>

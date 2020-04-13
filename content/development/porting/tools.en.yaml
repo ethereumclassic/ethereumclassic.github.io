@@ -7,7 +7,7 @@
   key: Saturn Wallet
   title: Saturn Wallet (similar to Metamask)
   link: https://addons.mozilla.org/en-US/firefox/addon/saturn-wallet/
-  text: Similar to Nifty Wallet, but closed source. Works on Chrome and Firefox. Make sure Metamask is disabled in when Saturn Wallet is in use.
+  text: Similar to Nifty Wallet, but closed source. Works on Chrome and Firefox. Make sure Metamask is disabled when Saturn Wallet is in use.
 - 
   key: Trust Wallet
   title: Trust Wallet (Mobile dApp Browser)
@@ -17,7 +17,6 @@
   key: Ether Cluster
   title: Ether Cluster (similar to Infura)
   link: https://www.ethercluster.com/
-  html: true
   text: A freely available ETC Node endpoint. Accessible as a Web3 RPC provider at `https://www.ethercluster.com/etc`
 - 
   key: DappDirect.net

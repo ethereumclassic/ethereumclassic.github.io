@@ -6,14 +6,13 @@ intro: |
   # Exchanges
 
   This page contains a list of services that allow you to purchase or trade ETC.
-exchangesIntro: |
+
   ## Non-exhaustive List of Exchanges
 
   The following exchanges all support Ethereum Classic. They are separated into 3 categories; centralized, trust minimizing, and instant. 
   
   **Please do your own research on the exchange you choose to source Ethereum Classic. Being listed on this site does not constitute an endorsement of the exchange's services by the Ethereum Classic project.**
-centralizedExchanges: |
-  > ### Centralized Exchanges
+centralizedExchanges: "### Centralized Exchanges"
 decentralizedExchanges: |
   ### Trust-Minimizing Exchanges
 
@@ -22,5 +21,4 @@ instantExchanges: |
   ### Instant Exchanges
   
   *Note:* Instant Exchanges typically offer worse rates than Centralized Exchanges.
-etcPriceSources: |
-  > ## ETC Price Sources
+etcPriceSources: "## ETC Price Sources"

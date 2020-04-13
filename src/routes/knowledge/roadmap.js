@@ -1,7 +1,7 @@
 // TODO replace with i18n
 import React from 'react';
 
-import html from '../../i18n/html';
+import renderMarkdown from '~components/renderMarkdown';
 
 import Road from '~components/road';
 import Timeline from '~components/timeline';
@@ -13,11 +13,10 @@ import Link from '~components/link';
 const Roadmap = ({ pageContext: { i18n } }) => {
   return (
     <SubPageLayout i18n={i18n} wide>
-      <section>{html(i18n.timeline)}</section>
       <Timeline i18n={i18n} items={i18n.yaml.timeline} />
       <section>
         <ItemTable
-          header={html(i18n.ecipsTitle)}
+          header={i18n.ecipsTitle}
           items={i18n.yaml.ecips}
           columns={[
             {
@@ -32,8 +31,7 @@ const Roadmap = ({ pageContext: { i18n } }) => {
           ]}
         />
         <Source to="https://ecips.ethereumclassic.org" />
-        {html(i18n.roadmapTitle)}
-        <Road items={i18n.yaml.road} />
+        <Road header={i18n.roadmapTitle} items={i18n.yaml.road} />
       </section>
     </SubPageLayout>
   );
