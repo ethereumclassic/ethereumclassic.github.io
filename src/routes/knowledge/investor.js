@@ -1,7 +1,5 @@
 import React from 'react';
 
-import html from '../../i18n/html';
-
 import SubPageLayout from '~components/subPageLayout';
 import LinkGroup from '~components/linkGroup';
 

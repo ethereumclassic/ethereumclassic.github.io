@@ -1,7 +1,5 @@
 import React from 'react';
 
-import html from '../../i18n/html';
-
 import SubPageLayout from '~components/subPageLayout';
 import MultiLinkGroup from '~components/multiLinkGroup';
 import LinkGroup from '~components/linkGroup';
@@ -18,8 +16,8 @@ const Clients = ({ pageContext: { i18n } }) => {
           { text: i18n.support, key: 'supportLink', fullIcon: 'supportIcon' }
         ]}
       />
-      <ButtonGroup header={html(i18n.publicEndpointsTitle)} items={i18n.yaml.publicEndpoints} />
-      <LinkGroup header={html(i18n.deploymentTools)} items={i18n.yaml.deployment} />
+      <ButtonGroup header={i18n.publicEndpointsTitle} items={i18n.yaml.publicEndpoints} />
+      <LinkGroup header={i18n.deploymentTools} items={i18n.yaml.deployment} />
     </SubPageLayout>
   );
 };

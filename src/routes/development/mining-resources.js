@@ -1,7 +1,5 @@
 import React from 'react';
 
-import html from '../../i18n/html';
-
 import SubPageLayout from '~components/subPageLayout';
 import Source from '~components/source';
 import ButtonGroup from '~components/buttonGroup';
@@ -12,7 +10,7 @@ const MiningResources = ({ pageContext: { i18n } }) => {
   return (
     <SubPageLayout i18n={i18n}>
       <ItemTable
-        header={html(i18n.softwareTitle)}
+        header={i18n.softwareTitle}
         items={i18n.yaml.software}
         columns={[
           { key: 'name', name: i18n.name, type: 'link' },
@@ -35,8 +33,8 @@ const MiningResources = ({ pageContext: { i18n } }) => {
           }
         ]}
       />
-      <ButtonGroup header={html(i18n.top5Pools)} items={top5} />
-      <ButtonGroup header={html(i18n.detailedPools)} items={i18n.yaml.pools} />
+      <ButtonGroup header={i18n.top5Pools} items={top5} />
+      <ButtonGroup header={i18n.detailedPools} items={i18n.yaml.pools} />
       <Source to="https://miningpoolstats.stream/ethereumclassic" text="MiningPoolStats.stream" />
     </SubPageLayout>
   );

@@ -1,5 +1,5 @@
 import React from 'react';
-import html from '../i18n/html';
+import renderMarkdown from './renderMarkdown';
 import LocaleContext from '../i18n/localeContext';
 import { formatDate } from '../utils';
 
@@ -9,7 +9,7 @@ const Translate = ({ text, all, date }) => {
     return formatDate(date, globals.dateFormat);
   }
   if (text) {
-    return html(globals[text] || `__${text}__`);
+    return renderMarkdown(globals[text] || `__${text}__`);
   }
   if (all) {
     return all(globals);

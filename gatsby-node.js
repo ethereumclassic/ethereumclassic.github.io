@@ -3,10 +3,6 @@
 const path = require('path');
 const fs = require('fs');
 const jsYaml = require('js-yaml');
-const remark = require('remark');
-const markdown = require('remark-parse');
-const remark2rehype = require('remark-rehype');
-const html = require('rehype-stringify');
 
 const { defaultLocale, locales } = require('./src/i18n/config');
 
@@ -14,44 +10,6 @@ const defaultTemplate = require.resolve('./src/layouts/defaultItem.js');
 
 const rootContent = '/';
 
-function isLink(str) {
-  return str.startsWith('http://') || str.startsWith('https://');
-}
-
-async function processYamlMarkdown(obj) {
-  // handle arrays
-  if (Array.isArray(obj)) {
-    return Promise.all(obj.map(processYamlMarkdown));
-  }
-  const transformed = {};
-  await Promise.all(
-    Object.keys(obj).map(async key => {
-      // only transform strings that are not links
-      if (typeof obj[key] !== 'string' || key === 'link' || isLink(obj[key])) {
-        transformed[key] = obj[key];
-        return;
-      }
-      const { contents } = await remark()
-        .use(markdown, { sanitize: true })
-        .use(remark2rehype)
-        // strip <p> and <a> tags if there's only one line (use `>` to bring back)
-        .use(() => tree => {
-          if (tree.children.length === 1 && tree.children[0].children) {
-            // eslint-disable-next-line no-param-reassign
-            tree.children = tree.children[0].children;
-            if (tree.children[0].tagName && tree.children[0].tagName === 'a') {
-              // eslint-disable-next-line no-param-reassign
-              tree.children = tree.children[0].children;
-            }
-          }
-        })
-        .use(html)
-        .process(obj[key]);
-      transformed[key] = contents;
-    })
-  );
-  return transformed;
-}
 function isDefaultLocale(locale) {
   return locale === defaultLocale;
 }
@@ -212,7 +170,7 @@ exports.onCreateNode = async ({ node, loadNodeContent, actions: { createNodeFiel
         name: 'ext',
         value: 'yaml'
       });
-      const parsedYaml = await processYamlMarkdown(jsYaml.load(await loadNodeContent(node)));
+      const parsedYaml = jsYaml.load(await loadNodeContent(node));
       createNodeField({
         node,
         name: 'body',
