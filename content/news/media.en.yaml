@@ -1,4 +1,11 @@
 -
+  key: 2020-04-09-EtherPlan
+  date: 2020-04-09
+  link: https://etherplan.com/2020/04/09/why-does-ethereum-classic-have-value/10916/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "Why Does Ethereum Classic Have Value?"
+-
   key: 2020-04-09-EVM61
   date: 2020-04-09
   link: https://youtu.be/OK5tVQXWmqc
@@ -19,6 +26,13 @@
   author: Stevan Lohja
   source: ETC Core
   title: "Phoenix Ethereum Classic Network Upgrade Proceeds to Accepted Status and on Schedule"
+  -
+  key: 2020-04-05-EtherPlan
+  date: 2020-04-05
+  link: https://etherplan.com/2020/04/05/the-bitcoin-security-model-explained/10862/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "The Bitcoin Security Model Explained"
 -
   key: 2020-03-30-Bitmain
   date: 2020-03-30
@@ -41,27 +55,6 @@
   source: ETC Core
   title: "How to contribute to Mordor testnet — Ethereum Classic"
 -
-  key: 2020-03-27-CA
-  date: 2020-03-27
-  link: https://thecurrencyanalytics.com/12847/ethereum-classic-etc-with-new-policies-and-procedures-based-on-core-principles/
-  author: Steven Anderson
-  source: The Currency Analytics
-  title: "Ethereum Classic (ETC) With New Policies and Procedures Based on Core Principles"
--
-  key: 2020-03-25-ETC-Today
-  date: 2020-03-25
-  link: https://u.today/ethereum-classic-etc-mining-emergency-firmware-released-what-does-this-mean
-  author: Vladislav Sopov
-  source: U.Today
-  title: "Ethereum Classic (ETC) Mining Emergency Firmware Released. What Does This Mean?"
--
-  key: 2020-03-25-Decrypt
-  date: 2020-03-25
-  link: https://decrypt.co/23588/ethereum-classic-steady-block-reward-reduction
-  author: Nicholas Marinoff
-  source: Decrypt
-  title: "Ethereum Classic steady after block reward reduction"
--
   key: 2020-03-24-CoinCodex
   date: 2020-03-24
   link: https://coincodex.com/article/7481/how-to-trade-ethereum-classic-on-bittrex/
@@ -75,6 +68,13 @@
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "ETC Labs Expands Team To Further Advancements of Ethereum Classic Technology and Ecosystem"
+-
+  key: 2020-03-21-EtherPlan
+  date: 2020-03-21
+  link: https://etherplan.com/2020/03/21/why-proof-of-work-based-nakamoto-consensus-is-secure-and-complete/10509/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "Why Proof of Work Based Nakamoto Consensus is Secure and Complete"
 -
   key: 2020-03-20-Gitcoin
   date: 2020-03-20
@@ -216,13 +216,6 @@
   source: Ethereum Classic Core
   title: "Run Core-geth with Docker"
 -
-  key: 2020-03-05-Binance
-  date: 2020-03-05
-  link: https://binance.zendesk.com/hc/en-us/articles/360040120772
-  author: Binance
-  source: Binance
-  title: "Instantly buy ETC, BCH, DASH, XTZ, ZEC and more with Visa Card"
--
   key: 2020-03-05-ETC-Core
   date: 2020-03-05
   link: https://medium.com/etc-core/core-geth-a-distribution-of-go-ethereum-with-many-flavors-a80fc29ca17a
@@ -293,13 +286,6 @@
   source: ETC Core
   title: "Core Devs Call: Phoenix Upgrade from Scratch"
 -
-  key: 2020-02-25-Ethereum-Classic
-  date: 2020-02-25
-  link: https://youtu.be/ju25cWHNbWA
-  author: FINANCIALFREEDOMCJ
-  source: Ethereum Classic's ECIP1017 - 5M20
-  title: "Ethereum Classic (ETC) Block Reward reduction happening soon!! Are you ready??"
--
   key: 2020-02-25-ETC-Labs
   date: 2020-02-25
   link: https://medium.com/ethereum-classic-labs/advisory-to-reject-ecip-1061-aztlan-and-ecip-1078-phoenixfix-for-ethereum-classic-28df21a206c
@@ -313,13 +299,6 @@
   author: Donald McIntyre
   source: EtherPlan
   title: "The Ethereum Classic Monetary Policy Explained"
--
-  key: 2020-02-24-2Miners
-  date: 2020-02-24
-  link: https://2miners.com/blog/antminer-e3-stops-mining-ethereum-classic-just-over-a-month-remaining-for-ethereum/
-  author: Gleb Shirshov
-  source: 2 Miners
-  title: "Antminer E3 Stops Mining Ethereum Classic, Just Over a Month Remaining for Ethereum"
 -
   key: 2020-02-21-EVM61
   date: 2020-02-21
@@ -1127,13 +1106,6 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: ETC Core
   title: "Dear Ethereum Classic Crypto Exchanges, Miners, Wallets, Dapps, and other Users."
 -
-  key: 2019-08-09-Decrypt
-  date: 2019-08-09
-  link: https://decrypt.co/8301/binance-adds-margin-trading-litecoin
-  author: Tim Copeland
-  source: Decrypt
-  title: "Binance adds margin trading for Litecoin, USDC and Ethereum Classic"
--
   key: 2019-08-08-ETC-Labs
   date: 2019-08-08
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-announces-studio-a-comprehensive-program-to-launch-new-projects-on-44db3da59064
@@ -1498,13 +1470,6 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: Crypto Daily
   title: "The Sturdiness Of Ethereum Classic"
 -
-  key: 2018-11-27-CoinTelegraph
-  date: 2018-11-27
-  link: https://cointelegraph.com/news/coinbase-wallet-adds-support-for-ethereum-classic
-  author: Marie Huillet
-  source: Coin Telegraph
-  title: "Coinbase Wallet Adds Support for Ethereum Classic"
--
   key: 2018-11-26-POA
   date: 2018-11-26
   link: https://www.cryptoninjas.net/2018/11/26/poa-network-releases-tokenbridge-for-easy-erc20-to-erc20-exchanges/
@@ -1553,13 +1518,6 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Sead Fadilpasic
   source: Crypto News
   title: "Turn Your Old Smartphone into Ethereum Hardware Wallet"
--
-  key: 2018-08-20-CryptoDaily
-  date: 2018-08-20
-  link: https://cryptodaily.co.uk/2018/08/bittrex-set-to-add-usd-trading-pairs-for-xrp-and-etc
-  author: Nathan Bentley
-  source: Crypto Daily
-  title: "Bittrex Set To Add USD Trading Pairs For XRP And ETC"
 -
   key: 2018-08-16-TechCrunch
   date: 2018-08-16
@@ -1771,26 +1729,12 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: Ars Technica
   title: "Using a blockchain doesn’t exempt you from securities regulations"
 -
-  key: 2017-07-23-CT
-  date: 2017-07-23
-  link: https://cointelegraph.com/news/coinbase-clarifies-no-plans-to-integrate-ethereum-classic-yet
-  author: Joseph Young
-  source: Coin Telegraph
-  title: "Coinbase Clarifies, No Plans to Integrate Ethereum Classic Yet"
--
   key: 2017-07-17-The-Merkle
   date: 2017-07-17
   link: https://themerkle.com/6-ethereum-classic-mining-pools-worth-checking-out/
   author: JP Buntinx
   source: The Merkle
   title: "6 Ethereum Classic Mining Pools Worth Checking Out"
--
-  key: 2017-07-17-Crypto-Ninjas
-  date: 2017-07-17
-  link: https://www.cryptoninjas.net/2017/07/17/alfacashier-adds-support-ethereum-classic-etc/
-  author: Associated Press
-  source: Crypto Ninjas
-  title: "ALFAcashier adds support for Ethereum Classic (ETC)"
 -
   key: 2017-07-16-CN
   date: 2017-07-16
@@ -1825,19 +1769,6 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Alexander Geralis
   source: Coin Telegraph
   title: "Ethereum Classic Makes Its Way Onto Chinese Exchange Huobi"
--
-  key: 2017-07-12-CN
-  date: 2017-07-12
-  link: https://www.cryptoninjas.net/2017/07/12/okcoin-intl-launch-ethereum-classic-etc-support-july-15th/
-  source: Crypto Ninjas
-  title: "OKCoin Intl to launch Ethereum Classic (ETC) support on July 15th"
--
-  key: 2017-07-11-FM
-  date: 2017-07-11
-  link: https://www.financemagnates.com/cryptocurrency/trading/dash-litecoin-ripples-xrp-ethereum-classic-added-etoros-cryptofund/
-  author: Avi Mizrahi
-  source: Finance Magnates
-  title: "Dash, Litecoin, Ripple’s XRP and Ethereum Classic Added to eToro’s CryptoFund"
 -
   key: 2017-07-11-TM
   date: 2017-07-11
@@ -1950,33 +1881,6 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Joseph Young
   source: Nasdaq
   title: "Interview: Vitalik Buterin on Scaling Ethereum, Its Popularity in Asia and ICOs"
--
-  key: 2017-06-07-CN
-  date: 2017-06-07
-  link: https://www.cryptoninjas.net/2017/06/07/hitbtc-goes-live-ethereum-classic-etc-trading/?utm_content=buffercf2b5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-  author: Associated Press
-  source: Crypto Ninjas
-  title: "HitBTC goes live with Ethereum Classic (ETC) trading"
--
-  key: 2017-06-07-CT
-  date: 2017-06-07
-  link: https://cointelegraph.com/news/etoro-adds-ethereum-classic-advertises-crypto-in-london
-  author: William Suberg
-  source: Coin Telegraph
-  title: "eToro Adds Ethereum Classic, Advertises Crypto In London"
--
-  key: 2017-05-29-CN
-  date: 2017-05-29
-  link: https://www.cryptoninjas.net/2017/05/29/bobby-lees-twitter-contest-brings-ethereum-classic-btcc/
-  source: Crypto Ninjas
-  title: "Bobby Lee's Twitter contest brings Ethereum Classic to BTCC"
--
-  key: 2017-05-26-CT
-  date: 2017-05-26
-  link: https://cointelegraph.com/news/ethereum-classic-becomes-fifth-largest-cryptocurrency-briefly-beats-nem-litecoin
-  author: Joseph Young
-  source: Coin Telegraph
-  title: "Ethereum Classic Becomes Fifth Largest Cryptocurrency, Briefly Beats NEM, Litecoin"
 -
   key: 2017-05-26-LBN
   date: 2017-05-26
@@ -2477,26 +2381,12 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: Investopedia
   title: "Why are There Now Two Ethereums?"
 -
-  key: 2016-08-04-TM
-  date: 2016-08-04
-  link: http://themerkle.com/will-coinbase-have-enough-of-an-etc-supply-to-honor-its-promise/
-  author: JP Buntinx
-  source: The Merkle
-  title: "Will Coinbase Have Enough of an ETC Supply To Honor Its Promise?"
--
   key: 2016-08-04-CCN
   date: 2016-08-04
   link: https://www.cryptocoinsnews.com/ethereum-classic-credits-will-soon-available-coinbase/
   author: Rebecca Campbell
   source: Crypto Coins News
   title: "Ethereum Classic Credits Will Soon Be Available on Coinbase"
--
-  key: 2016-08-02-LBN
-  date: 2016-08-02
-  link: http://www.livebitcoinnews.com/ethereum-classic-overtakes-ripple-and-steem/
-  author: Joseph Young
-  source: Live Bitcoin News
-  title: "Ethereum Classic Overtakes Ripple and Steem"
 -
   key: 2016-08-02-Major
   date: 2016-08-02
