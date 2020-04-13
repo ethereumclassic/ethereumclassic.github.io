@@ -28,6 +28,12 @@
   text: This section documents Ethereum Classic's colourful history and takes a look at the next stages of it's development.
   link: /knowledge/roadmap
 -
+  key: investor
+  name: Investor Resources
+  shortText: Documents for investors looking to learn more about ETC
+  text: Resources discussing key theses and relevant information for investors. Useful for those who are looking to understand the value proposition and upside potential of ETC.
+  link: /knowledge/investor
+- 
   key: ecosystem
   name: Ecosystem
   link: /ecosystem
