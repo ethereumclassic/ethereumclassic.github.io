@@ -1,8 +1,9 @@
 // TODO refactor this & turn into a plugin
-
+const crypto = require('crypto');
 const path = require('path');
 const fs = require('fs');
 const jsYaml = require('js-yaml');
+const merge = require('deepmerge');
 
 const { defaultLocale, locales } = require('./src/i18n/config');
 
@@ -29,7 +30,17 @@ function parsePath(str) {
   const isContent = fullTree[1] === 'content';
   const tree = fullTree.slice(isContent ? 2 : 3);
   const fileName = tree[tree.length - 1];
-  const [name, locale, ext] = fileName.split('.');
+  const fileNameFragments = fileName.split('.');
+  let name;
+  let isObject;
+  let locale;
+  let ext;
+  if (fileNameFragments[1] === 'objects') {
+    [name, , locale, ext] = fileNameFragments;
+    isObject = true;
+  } else {
+    [name, locale, ext] = fileNameFragments;
+  }
   tree[tree.length - 1] = name;
   const slug = tree[tree.length - 2];
   // this is a route, no need to parse much more
@@ -55,7 +66,8 @@ function parsePath(str) {
     name,
     locale,
     ext,
-    parent
+    parent,
+    isObject
   };
   return info;
 }
@@ -102,18 +114,50 @@ exports.onCreateWebpackConfig = ({ actions }) => {
 };
 
 // custom method to get stuff from content folder and register it
-exports.onCreateNode = async ({ node, loadNodeContent, actions: { createNodeField } }) => {
+exports.onCreateNode = async ({
+  node,
+  loadNodeContent,
+  actions: { createNode, createNodeField }
+}) => {
   // Check for "Mdx" type so that other files (e.g. images) are excluded
   if (node.internal.mediaType === 'text/yaml' || node.internal.type === 'Mdx') {
+    // TODO refactor this bigtime....
     // Use path.basename
-    const { slug, locale, parent, name, isGlobal, localSlug, i18nKey } = parsePath(
+    const { slug, locale, parent, name, isGlobal, localSlug, i18nKey, isObject } = parsePath(
       node.absolutePath || node.fileAbsolutePath
     );
     // ignore locales that are not enabled
     if (!locales[locale] || !locales[locale].enabled) {
       return;
     }
-
+    // handle `item.object.locale.yaml` files
+    if (isObject) {
+      const parsedYaml = jsYaml.load(await loadNodeContent(node));
+      parsedYaml.forEach((item, index) => {
+        const content = JSON.stringify(item);
+        const { date, tags } = item;
+        const nodeData = {
+          content,
+          index,
+          date,
+          tags,
+          locale,
+          name,
+          route: i18nKey,
+          id: `CustomObject-${locale}-${name}-${index}`,
+          isObject: true,
+          internal: {
+            type: 'CustomObject',
+            contentDigest: crypto
+              .createHash('md5')
+              .update(content)
+              .digest('hex')
+          }
+        };
+        createNode(nodeData);
+      });
+      return;
+    }
     // add the following tags to allow easy querying later on...
     createNodeField({
       node,
@@ -255,6 +299,9 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
       mdxPages: allMdx(filter: { fields: { hasParent: { eq: true } } }) {
         edges {
           node {
+            id
+            excerpt
+            fileAbsolutePath
             fields {
               locale
               parent
@@ -263,19 +310,68 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
               slug
               name
             }
-            fileAbsolutePath
             frontmatter {
               title
               description
+              author
+              tags
+              date
             }
+          }
+        }
+      }
+      objects: allCustomObject {
+        edges {
+          node {
+            id
+            content
+            tags
+            route
+            locale
           }
         }
       }
     }
   `);
 
-  const { routes, mdxPages, mdxTranslations, yamlTranslations } = result.data;
+  const { routes, mdxPages, mdxTranslations, yamlTranslations, objects } = result.data;
 
+  const paginationTree = {};
+  objects.edges.forEach(({ node: obj }) => {
+    const parent = paginationTree[obj.route] || {};
+    paginationTree[obj.route] = {
+      ...parent,
+      [obj.locale]: {
+        ...parent[obj.locale],
+        [obj.id]: {
+          ...JSON.parse(obj.content),
+          isObject: true,
+          key: obj.id
+        }
+      }
+    };
+  });
+  mdxPages.edges.forEach(({ node: mdx }) => {
+    const parent = paginationTree[mdx.fields.parent] || {};
+    paginationTree[mdx.fields.parent] = {
+      ...parent,
+      [mdx.fields.locale]: {
+        ...parent[mdx.fields.locale],
+        [mdx.fields.slug]: {
+          key: mdx.fields.slug,
+          isMdx: true,
+          excerpt: mdx.excerpt,
+          title: mdx.frontmatter.title,
+          link: mdx.fields.slug,
+          date: mdx.frontmatter.date,
+          tags: mdx.frontmatter.tags,
+          author: mdx.frontmatter.author
+        }
+      }
+    };
+  });
+  // just for `/news/`, let's merge `media` and `blog`
+  paginationTree.news = merge(paginationTree.blog, paginationTree['news/media']);
   // create a tree of the translations to be injected into the pages
   const translationsTree = {};
   mdxTranslations.edges.concat(yamlTranslations.edges).forEach(data => {
@@ -312,8 +408,10 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
         const main = yaml[name];
         // remove them from the child yaml object
         delete yaml[name];
+        // TODO pagination....
+        // objects.edges;
         // create the page
-        createPage({
+        const pageData = {
           path: localizePath(locale, i18nKey),
           component: data.node.absolutePath,
           context: {
@@ -330,7 +428,44 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
               }
             }
           }
-        });
+        };
+        // TODO now we're gonna do some paginations....
+        if (['blog', 'news', 'news/media'].indexOf(i18nKey) > -1) {
+          const itemsPerPage = 20;
+          // URL will be : /blog/tag/page/#/
+          // TODO ways to sort:
+          // cateogires
+          // option to show all
+          const paginationItems = Object.values(paginationTree[i18nKey][locale]).sort(
+            (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+          );
+          const pages = Math.floor(paginationItems.length / itemsPerPage) + 1;
+          [...Array(pages).keys()].forEach(i => {
+            const page = i + 1;
+            const firstPage = page === 1;
+            const thisPage = firstPage ? pageData.path : `${pageData.path}page/${page}/`;
+            const items = paginationItems.slice(i * itemsPerPage, page * itemsPerPage);
+            const paginatedPageData = {
+              ...pageData,
+              path: thisPage,
+              firstPage,
+              context: {
+                ...pageData.context,
+                pagination: {
+                  items,
+                  page,
+                  basePath: pageData.path,
+                  pages,
+                  itemsPerPage,
+                  total: paginationItems.length
+                }
+              }
+            };
+            createPage(paginatedPageData);
+          });
+        } else {
+          createPage(pageData);
+        }
       });
     })
   );

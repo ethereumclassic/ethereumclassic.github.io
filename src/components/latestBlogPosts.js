@@ -27,8 +27,13 @@ const LatestBlogPosts = ({ articles: { edges } }) => {
       ) : (
         <>
           <div className="blog-items">
-            {edges.map(edge => (
-              <BlogListItem post={edge.node} key={edge.node.frontmatter.title} />
+            {edges.map(({ node: post }) => (
+              <BlogListItem
+                {...post.frontmatter}
+                excerpt={post.excerpt}
+                link={`/${post.parent.relativeDirectory}`}
+                key={post.frontmatter.title}
+              />
             ))}
           </div>
           <ButtonLink to="/blog" text={<Translate text="allBlogPosts" />} icon="angle-right" />

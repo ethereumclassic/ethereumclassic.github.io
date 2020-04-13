@@ -95,3 +95,5 @@ all: All
 blogNavAll: All News
 blogNavBlog: Blog Articles
 blogNavMedia: Media Links
+nextPage: Next Page
+previousPage: Previous Page

@@ -5,14 +5,18 @@ import ButtonLink from '~components/buttonLink';
 import LocaleVisibility from '~components/localeVisibility';
 import PageLayout from '~components/pageLayout';
 import SubMenu from '~components/subMenu';
+import BlogListItem from '~components/blogListItem';
+import BlogPagination from '~components/blogPagination';
+import MediaListItem from '~components/mediaListItem';
 
-const NewsLayout = ({ i18n, globals, rssLink, currentPage, children, hasItems }) => {
+const NewsLayout = ({ i18n, globals, rssLink, currentPage, pagination }) => {
   const menu = [
     { key: 'news', to: '/news', name: globals.blogNavAll },
     { key: 'blog', to: '/blog', name: globals.blogNavBlog },
     { key: 'media', to: '/news/media', name: globals.blogNavMedia }
   ].map(i => ({ ...i, selected: i.key === currentPage }));
   const thisItem = menu.find(i => i.selected);
+  const { items = [], type } = pagination;
   return (
     <PageLayout i18n={i18n}>
       <div style={{ float: 'right' }}>
@@ -38,8 +42,12 @@ const NewsLayout = ({ i18n, globals, rssLink, currentPage, children, hasItems })
             style={{ float: 'right' }}
           />
         </LocaleVisibility>
-        <h2>{hasItems ? i18n.latestItems : globals.noPosts}</h2>
-        {children}
+        <h2>{items.length ? i18n.latestItems : globals.noPosts}</h2>
+        <BlogPagination i18n={globals} pagination={pagination} />
+        {items.map(i =>
+          i.isMdx ? <BlogListItem {...i} i18n={globals} /> : <MediaListItem {...i} />
+        )}
+        <BlogPagination i18n={globals} pagination={pagination} />
       </div>
     </PageLayout>
   );
