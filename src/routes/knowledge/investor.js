@@ -1,7 +1,5 @@
 import React from 'react';
 
-import renderMarkdown from '~components/renderMarkdown';
-
 import SubPageLayout from '~components/subPageLayout';
 import LinkGroup from '~components/linkGroup';
 

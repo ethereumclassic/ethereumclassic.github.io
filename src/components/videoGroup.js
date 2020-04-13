@@ -13,7 +13,7 @@ const VideoGroup = ({ title, items, header }) => {
       {items.map(({ key, name, text, link, youtube, timestamp }) => (
         <div key={key} className="video-item">
           <h4>{name}</h4>
-          {renderMarkdown(text)}
+          {renderMarkdown(text, { unwrap: false })}
           <div className="video-container">
             <VideoFrame title={name} youtube={youtube} timestamp={timestamp} link={link} />
             <Link to={link} className="video-link" />
