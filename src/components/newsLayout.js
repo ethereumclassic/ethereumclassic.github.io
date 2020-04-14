@@ -43,7 +43,7 @@ const NewsLayout = ({ i18n, globals, rssLink, currentPage, pagination }) => {
           />
         </LocaleVisibility>
         <h2>{items.length ? i18n.latestItems : globals.noPosts}</h2>
-        <BlogPagination i18n={globals} pagination={pagination} noScroll />
+        <BlogPagination i18n={globals} pagination={pagination} noScroll expanded />
         {items.map(i =>
           i.isMdx ? <BlogListItem {...i} i18n={globals} /> : <MediaListItem {...i} />
         )}

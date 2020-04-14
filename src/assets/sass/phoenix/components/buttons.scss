@@ -16,6 +16,14 @@
   box-shadow: $buttonShadow;
   border-radius: $roundedTight;
 
+  &.selected {
+    background: _palette(t-black-80);
+    color: _palette(bg);
+    &:hover {
+      background: _palette(t-black-60)
+    }
+  }
+
   i.left {
     margin-left: 0;
   }

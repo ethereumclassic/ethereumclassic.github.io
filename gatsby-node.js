@@ -302,6 +302,11 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
             id
             excerpt
             fileAbsolutePath
+            parent {
+              ... on File {
+                relativeDirectory
+              }
+            }
             fields {
               locale
               parent
@@ -362,7 +367,7 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
           isMdx: true,
           excerpt: mdx.excerpt,
           title: mdx.frontmatter.title,
-          link: mdx.fields.slug,
+          link: mdx.parent.relativeDirectory,
           date: mdx.frontmatter.date,
           tags: mdx.frontmatter.tags,
           author: mdx.frontmatter.author
@@ -429,32 +434,78 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
             }
           }
         };
-        // TODO now we're gonna do some paginations....
-        if (['blog', 'news', 'news/media'].indexOf(i18nKey) > -1) {
-          const itemsPerPage = 20;
-          // URL will be : /blog/tag/page/#/
-          // TODO ways to sort:
-          // cateogires
-          // option to show all
-          const paginationItems = Object.values(paginationTree[i18nKey][locale]).sort(
-            (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
-          );
+        // if this page should not be paginated..
+        if (['blog', 'news', 'news/media'].indexOf(i18nKey) === -1) {
+          createPage(pageData);
+          return;
+        }
+        const myItems = Object.values(paginationTree[i18nKey][locale] || {}).sort(
+          (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+        );
+        // if there is no content to paginate
+        if (myItems.length === 0) {
+          createPage(pageData);
+          return;
+        }
+        // create categories
+        const tags = {};
+        const years = {};
+        myItems.forEach(item => {
+          (item.tags || []).forEach(tag => {
+            tags[tag] = (tags[tag] || []).concat([item]);
+          });
+          if (item.date) {
+            const year = new Date(item.date).getUTCFullYear();
+            years[year] = (years[year] || []).concat([item]);
+          }
+        });
+        const itemsPerPage = 25;
+
+        const basePath = pageData.path;
+
+        const filters = [
+          // all items
+          { filterPath: basePath, items: myItems, type: 'all' }
+        ];
+        Object.keys(tags).forEach(t =>
+          filters.push({
+            filterPath: `${basePath}tag/${t}/`,
+            items: tags[t],
+            type: 'filter',
+            filter: t
+          })
+        );
+        Object.keys(years).forEach(t =>
+          filters.push({
+            filterPath: `${basePath}year/${t}/`,
+            items: years[t],
+            type: 'year',
+            filter: t
+          })
+        );
+        filters.forEach(({ filterPath, items: paginationItems, type, filter }) => {
+          // option to show all ?
           const pages = Math.floor(paginationItems.length / itemsPerPage) + 1;
           [...Array(pages).keys()].forEach(i => {
             const page = i + 1;
             const firstPage = page === 1;
-            const thisPage = firstPage ? pageData.path : `${pageData.path}page/${page}/`;
+            const thisPath = firstPage ? filterPath : `${filterPath}page/${page}/`;
             const items = paginationItems.slice(i * itemsPerPage, page * itemsPerPage);
             const paginatedPageData = {
               ...pageData,
-              path: thisPage,
+              path: thisPath,
               firstPage,
               context: {
                 ...pageData.context,
                 pagination: {
                   items,
+                  tags: Object.keys(tags),
+                  years: Object.keys(years),
                   page,
-                  basePath: pageData.path,
+                  type,
+                  filter,
+                  firstPage: filterPath,
+                  basePath,
                   pages,
                   itemsPerPage,
                   total: paginationItems.length
@@ -463,9 +514,7 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
             };
             createPage(paginatedPageData);
           });
-        } else {
-          createPage(pageData);
-        }
+        });
       });
     })
   );

@@ -31,7 +31,7 @@ const LatestBlogPosts = ({ articles: { edges } }) => {
               <BlogListItem
                 {...post.frontmatter}
                 excerpt={post.excerpt}
-                link={`/${post.parent.relativeDirectory}`}
+                link={post.parent.relativeDirectory}
                 key={post.frontmatter.title}
               />
             ))}
