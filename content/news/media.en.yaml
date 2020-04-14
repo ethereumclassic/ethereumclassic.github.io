@@ -6,6 +6,13 @@
   source: ETC Core
   title: "EVM61 #5 Chuy Cepeda"
 -
+  key: 2020-04-09-EtherPlan
+  date: 2020-04-09
+  link: https://etherplan.com/2020/04/09/why-does-ethereum-classic-have-value/10916/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "Why Does Ethereum Classic Have Value?"
+-
   key: 2020-04-07-EVM61
   date: 2020-04-07
   link: https://youtu.be/EGQ4d7IkDxY
@@ -19,6 +26,13 @@
   author: Stevan Lohja
   source: ETC Core
   title: "Phoenix Ethereum Classic Network Upgrade Proceeds to Accepted Status and on Schedule"
+  -
+  key: 2020-04-05-EtherPlan
+  date: 2020-04-05
+  link: https://etherplan.com/2020/04/05/the-bitcoin-security-model-explained/10862/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "The Bitcoin Security Model Explained"
 -
   key: 2020-03-30-Bitmain
   date: 2020-03-30
@@ -75,6 +89,13 @@
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "ETC Labs Expands Team To Further Advancements of Ethereum Classic Technology and Ecosystem"
+-
+  key: 2020-03-21-EtherPlan
+  date: 2020-03-21
+  link: https://etherplan.com/2020/03/21/why-proof-of-work-based-nakamoto-consensus-is-secure-and-complete/10509/
+  author: Donald McIntyre
+  source: EtherPlan
+  title: "Why Proof of Work Based Nakamoto Consensus is Secure and Complete"
 -
   key: 2020-03-20-Gitcoin
   date: 2020-03-20
@@ -1985,14 +2006,7 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   source: Live Bitcoin News
   title: "Ratio Between ETC and ETH Is Slowly Shrinking"
 -
-  key: 2017-05-25-CCN
-  date: 2017-05-25
-  link: https://www.cryptocoinsnews.com/ethereum-classic-leaps-litecoin-to-become-5th-largest-cryptocurrency/
-  author: Frisco d'Anconia
-  source: Crypto Coins News
-  title: "Ethereum Classic Leaps Litecoin to Become 5th Largest Cryptocurrency"
--
-  key: 2017-05-24-CT
+  key: 2017-05-24-CoinTelegraph
   date: 2017-05-24
   link: https://cointelegraph.com/news/ethereum-classic-hits-13-billion-market-cap-boosted-by-consensus-silbert
   author: Frisco d'Anconia
@@ -2490,13 +2504,6 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Rebecca Campbell
   source: Crypto Coins News
   title: "Ethereum Classic Credits Will Soon Be Available on Coinbase"
--
-  key: 2016-08-02-LBN
-  date: 2016-08-02
-  link: http://www.livebitcoinnews.com/ethereum-classic-overtakes-ripple-and-steem/
-  author: Joseph Young
-  source: Live Bitcoin News
-  title: "Ethereum Classic Overtakes Ripple and Steem"
 -
   key: 2016-08-02-Major
   date: 2016-08-02
