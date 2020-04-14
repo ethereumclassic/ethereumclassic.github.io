@@ -28,11 +28,12 @@ const Link = ({
   style,
   _localized,
   className,
+  noScroll,
   notLocalized,
   ...props
 }) => {
   const to = _to || link;
-  const passedProps = { notLocalized, className, style };
+  const passedProps = { className, style };
   const actualIcon = icon || (back && 'angle-left') || (next && 'angle-right');
   const iconText = fullIcon || (actualIcon ? `fas fa-${actualIcon}` : null);
   const content = (
@@ -82,8 +83,11 @@ const Link = ({
       </a>
     );
   }
+  if (noScroll) {
+    passedProps.state = { noScroll: true };
+  }
   return (
-    <LocalizedLink {...passedProps} to={to}>
+    <LocalizedLink {...passedProps} notLocalized={notLocalized} to={to}>
       {content}
     </LocalizedLink>
   );
