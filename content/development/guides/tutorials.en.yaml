@@ -44,17 +44,17 @@
   link: https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e
   text: Create a gambling DApp using Metamask, Truffle, Remix, React and IPFS.
 -
-  key: Kotti, Solidity, ETC, Oh My
+  key: Kotti Solidity ETC Oh My
   title: Kotti, Solidity, ETC, Oh My!
   link: https://medium.com/ethereum-classic/kotti-solidity-etc-oh-my-2ae36926454d
-  text: This guide illustrates an initital configure for Ethereum Classic's Kotti testnet and a specifc version of Solidity for ETC<>ETH compatibility daap development. Note: Kotti is the recommended testnet for dapp developers. Mordor is recommended for protocol level testing.
+  text: This guide illustrates an initital configure for Ethereum Classic's Kotti testnet and a specifc version of Solidity for ETC<>ETH compatible daap development. Note: Kotti is the recommended testnet for dapp developers. Mordor is recommended for protocol level testing.
 - 
   key: How to contribute to Mordor Testnet
   title: How to contribute to Mordor Testnet
   link: https://core-geth.org/contribute-to-mordor-testnet
   text: This guide will teach you how to mine testnet ETC (mETC) and run your own local block explorer with Expedition. Note: Kotti is the recommended testnet for dapp developers. Mordor is recommended for protocol level testing. 
 - 
-  key: Ethercluster, An Open-Source Alternative to Infura
+  key: Ethercluster An Open-Source Alternative to Infura
   title: Ethercluster, An Open-Source Alternative to Infura
   link: https://docs.ethercluster.com/
   text: A guide to building your own scalable Ethereum-based RPC infrastructure.
