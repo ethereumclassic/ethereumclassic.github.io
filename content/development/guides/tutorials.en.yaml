@@ -14,7 +14,7 @@
   link: https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4
   text: Smart contract tutorial with a focus on building up understanding before code.
 - 
-  key: Parity DApp Tutorial
+  key: Parity Tutorial
   title: Parity DApp Tutorial
   link: https://wiki.parity.io/Dapp-Tutorial
   text: 10 part tutorial on how to write DApps.
@@ -47,7 +47,7 @@
   key: Kotti Solidity ETC Oh My
   title: Kotti, Solidity, ETC, Oh My!
   link: https://medium.com/ethereum-classic/kotti-solidity-etc-oh-my-2ae36926454d
-  text: This guide illustrates an initital configure for Ethereum Classic's Kotti testnet and a specifc version of Solidity for ETC<>ETH compatible daap development. Kotti is the recommended testnet for dapp developers. Mordor is recommended for protocol level testing.
+  text: This guide illustrates an initital configure for Ethereum Classic's Kotti testnet and a specifc version of Solidity for ETC<>ETH compatible dapp development. Kotti is the recommended testnet for dapp developers. Mordor is recommended for protocol level testing.
 - 
   key: How to contribute to Mordor Testnet
   title: How to contribute to Mordor Testnet
