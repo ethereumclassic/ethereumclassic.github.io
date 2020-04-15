@@ -6,14 +6,15 @@
   "version": "0.1.0",
   "scripts": {
     "build": "GATSBY_TELEMETRY_DISABLED=1 gatsby build",
-    "develop": "SHOW_ALL_LOCALES=1 GATSBY_TELEMETRY_DISABLED=1 gatsby develop",
+    "clean": "GATSBY_TELEMETRY_DISABLED=1 gatsby clean",
+    "create:blog": "node ./scripts/create-blog",
     "develop-fast": "NO_BLOG=1 npm run develop",
     "develop-lan": "SHOW_ALL_LOCALES=1 GATSBY_TELEMETRY_DISABLED=1 gatsby develop --host=0.0.0.0",
+    "develop": "SHOW_ALL_LOCALES=1 GATSBY_TELEMETRY_DISABLED=1 gatsby develop",
+    "lint": "eslint .",
     "serve-build": "npm run build && npm run serve",
     "serve": "GATSBY_TELEMETRY_DISABLED=1 gatsby serve",
-    "start": "npm run develop",
-    "create:blog": "node ./scripts/create-blog",
-    "lint": "eslint ."
+    "start": "npm run develop"
   },
   "dependencies": {
     "@mdx-js/mdx": "^1.5.8",
