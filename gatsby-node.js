@@ -471,7 +471,7 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
           filters.push({
             filterPath: `${basePath}tag/${t}/`,
             items: tags[t],
-            type: 'filter',
+            type: 'tag',
             filter: t
           })
         );

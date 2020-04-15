@@ -1,12 +1,12 @@
 import React from 'react';
 
 import ButtonLink from './buttonLink';
-import BlogListItem from './blogListItem';
+import NewsListItem from './newsListItem';
 import Translate from './translate';
 
 const LatestBlogPosts = ({ articles: { edges } }) => {
   return (
-    <div className="latest-blog-posts">
+    <>
       <h2>
         <Translate text="latestArticles" />
       </h2>
@@ -26,9 +26,9 @@ const LatestBlogPosts = ({ articles: { edges } }) => {
         </>
       ) : (
         <>
-          <div className="blog-items">
+          <div className="blog-container mini">
             {edges.map(({ node: post }) => (
-              <BlogListItem
+              <NewsListItem
                 {...post.frontmatter}
                 excerpt={post.excerpt}
                 link={post.parent.relativeDirectory}
@@ -39,7 +39,7 @@ const LatestBlogPosts = ({ articles: { edges } }) => {
           <ButtonLink to="/blog" text={<Translate text="allBlogPosts" />} icon="angle-right" />
         </>
       )}
-    </div>
+    </>
   );
 };
 

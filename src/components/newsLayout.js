@@ -4,21 +4,28 @@ import renderMarkdown from '~components/renderMarkdown';
 import ButtonLink from '~components/buttonLink';
 import LocaleVisibility from '~components/localeVisibility';
 import PageLayout from '~components/pageLayout';
-import SubMenu from '~components/subMenu';
-import BlogListItem from '~components/blogListItem';
-import BlogPagination from '~components/blogPagination';
+
+import NewsListItem from '~components/newsListItem';
+import NewsPagination from '~components/newsPagination';
+import NewsTagsFilter from '~components/newsTagsFilter';
+import NewsYearsFilter from '~components/newsYearsFilter';
 import MediaListItem from '~components/mediaListItem';
 
-const NewsLayout = ({ i18n, globals, rssLink, currentPage, pagination }) => {
+const NewsLayout = ({ i18n, globals, rssLink, currentPage, pagination = {} }) => {
   const menu = [
     { key: 'news', to: '/news', name: globals.blogNavAll },
     { key: 'blog', to: '/blog', name: globals.blogNavBlog },
     { key: 'media', to: '/news/media', name: globals.blogNavMedia }
   ].map(i => ({ ...i, selected: i.key === currentPage }));
   const thisItem = menu.find(i => i.selected);
-  const { items = [], type } = pagination;
+  const { items = [] } = pagination;
   return (
     <PageLayout i18n={i18n}>
+      <div className="nudge-up spacer merged-buttons">
+        {menu.map(item => (
+          <ButtonLink text={item.name} to={item.to} className={`${item.selected && 'selected'}`} />
+        ))}
+      </div>
       <div style={{ float: 'right' }}>
         <ButtonLink
           text={i18n.submit}
@@ -32,23 +39,32 @@ const NewsLayout = ({ i18n, globals, rssLink, currentPage, pagination }) => {
         )}
       </div>
       {renderMarkdown(i18n.intro)}
-      <SubMenu items={menu} selected={currentPage} tabs />
-      <div className="tabs-child">
-        <LocaleVisibility hide={['en']}>
-          <ButtonLink
-            notLocalized
-            to={thisItem.to}
-            text={i18n.englishItems}
-            style={{ float: 'right' }}
-          />
-        </LocaleVisibility>
-        <h2>{items.length ? i18n.latestItems : globals.noPosts}</h2>
-        <BlogPagination i18n={globals} pagination={pagination} noScroll expanded />
-        {items.map(i =>
-          i.isMdx ? <BlogListItem {...i} i18n={globals} /> : <MediaListItem {...i} />
-        )}
-        <BlogPagination i18n={globals} pagination={pagination} />
+      <LocaleVisibility hide={['en']}>
+        <ButtonLink
+          notLocalized
+          to={thisItem.to}
+          text={i18n.englishItems}
+          style={{ float: 'right' }}
+        />
+      </LocaleVisibility>
+      <div>
+        <NewsYearsFilter i18n={globals} pagination={pagination} />
+        <NewsTagsFilter i18n={globals} pagination={pagination} />
+        <div className="clear" />
       </div>
+      {items.length ? (
+        <div>
+          <NewsPagination i18n={globals} pagination={pagination} noScroll expanded />
+          <div className="blog-container">
+            {items.map(i =>
+              i.isMdx ? <NewsListItem {...i} i18n={globals} /> : <MediaListItem {...i} />
+            )}
+          </div>
+          <NewsPagination i18n={globals} pagination={pagination} />
+        </div>
+      ) : (
+        <h2>{globals.noPosts}</h2>
+      )}
     </PageLayout>
   );
 };

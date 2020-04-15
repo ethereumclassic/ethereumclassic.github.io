@@ -95,5 +95,22 @@ all: All
 blogNavAll: All News
 blogNavBlog: Blog Articles
 blogNavMedia: Media Links
-nextPage: Next Page
-previousPage: Previous Page
+nextPage: Next
+previousPage: Previous
+filterTag: Filter Tag
+# tags
+tag-announcement: Announcements
+tag-application: Applications
+tag-development: Development
+tag-education: Education
+tag-event: Events
+tag-exchange: Exchanges
+tag-guide: Guides
+tag-hardfork: Hard Forks
+tag-media: Media
+tag-mining: Mining
+tag-podcast: Podcasts
+tag-teams: Teams
+tag-tech: Technology
+tag-trading: Trading
+tag-wallet: Wallets

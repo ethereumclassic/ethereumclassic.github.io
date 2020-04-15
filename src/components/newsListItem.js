@@ -3,7 +3,7 @@ import React from 'react';
 import Link from './link';
 import Translate from './translate';
 
-const BlogListItem = ({ date, author, title, link, excerpt, i18n = {} }) => {
+const newsListItem = ({ date, author, title, link, excerpt, i18n = {} }) => {
   const relLink = `/${link}`;
   return (
     <div className="blog-item">
@@ -28,4 +28,4 @@ const BlogListItem = ({ date, author, title, link, excerpt, i18n = {} }) => {
   );
 };
 
-export default BlogListItem;
+export default newsListItem;

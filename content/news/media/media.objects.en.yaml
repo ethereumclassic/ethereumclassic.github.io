@@ -4,42 +4,50 @@
   author: EVM61 Podcast
   source: ETC Core
   title: "EVM61 #5 Chuy Cepeda"
+  tags: ["media", "podcast"]
 -
   date: 2020-04-07
   link: https://youtu.be/EGQ4d7IkDxY
   author: EVM61 Podcast
   source: ETC Core
   title: "EVM61 #4 Christian Xu"
+  tags: ["media", "podcast"]
 -
   date: 2020-04-06
   link: https://medium.com/etc-core/phoenix-ethereum-classic-network-upgrade-proceeds-to-accepted-status-and-on-schedule-c53c1b9027ff
   author: Stevan Lohja
   source: ETC Core
   title: "Phoenix Ethereum Classic Network Upgrade Proceeds to Accepted Status and on Schedule"
+  tags: ["hardfork"]
 -
   date: 2020-03-30
   link: https://blog.bitmain.com/en/bitmains-antminer-e3-firmware-update/
   author: Bitmain
   source: Bitmain
   title: "Bitmain’s Antminer E3 Firmware Update"
+  tags: ["tech", "mining"]
 -
   date: 2020-03-30
   link: https://www.cryptoninjas.net/2020/03/30/hyperledger-besu-graduates-to-active-project-status/
   author: Associated Press
   source: Crypto Ninjas
   title: "Hyperledger Besu graduates to active project status"
+  tags: ["teams", "tech", "development"]
 -
   date: 2020-03-30
   link: https://medium.com/etc-core/how-to-contribute-to-mordor-testnet-ethereum-classic-881490bdd121
   author: Stevan Lohja
   source: ETC Core
   title: "How to contribute to Mordor testnet — Ethereum Classic"
+  tags: ["guide"]
 -
   date: 2020-03-27
   link: https://thecurrencyanalytics.com/12847/ethereum-classic-etc-with-new-policies-and-procedures-based-on-core-principles/
   author: Steven Anderson
   source: The Currency Analytics
   title: "Ethereum Classic (ETC) With New Policies and Procedures Based on Core Principles"
+  tags: ["education"]
+
 -
   date: 2020-03-25
   link: https://u.today/ethereum-classic-etc-mining-emergency-firmware-released-what-does-this-mean
@@ -58,6 +66,7 @@
   author: Aaron Watts
   source: CoinCodex
   title: "How to Trade Ethereum Classic on Bittrex? Bittrex Trading Guide"
+  tags: ["trading"]
 -
   date: 2020-03-23
   link: https://medium.com/ethereum-classic-labs/etc-labs-expands-team-to-further-advancements-of-ethereum-classic-technology-and-ecosystem-11426f1c300
@@ -88,6 +97,7 @@
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Announcing Christian Xu, our new Asia Community Manager"
+  tags: ["announcement"]
 -
   date: 2020-03-17
   link: https://medium.com/portalnetworkofficial/integration-kaizen-x-the-graph-1a01bfe42f7c
@@ -124,6 +134,7 @@
   author: Benjamin Pirus
   source: Coin Telegraph
   title: "Gitcoin Teams Up With ETCLabs for Crypto Bounty Payments in ETC"
+  tags: ["application"]
 -
   date: 2020-03-16
   link: https://coincodex.com/article/7338/how-to-trade-ethereum-classic-on-etoro/
@@ -136,12 +147,14 @@
   author: LiteLiger
   source: Commonwealth.gg
   title: "Commonwealth Dapp Review"
+  tags: ["application"]
 -
   date: 2020-03-15
   link: https://etherplan.com/2020/03/15/ethereum-classic-brand-promise-positioning-personality-and-communications/10479/
   author: Donald McIntyre
   source: EtherPlan
   title: "Ethereum Classic Brand Promise, Positioning, Personality, and Communications"
+  tags: ["education"]
 -
   date: 2020-03-13
   link: https://messari.io/article/ethereum-classic-to-undergo-block-reward-reduction-amid-market-uncertainty
@@ -563,6 +576,7 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Phillipp Traugott
   source: Captain Altcoin
   title: "Best Ethereum Classic Wallets 2020 – What ETC Wallet To Choose?"
+  tags: ["wallet"]
 -
   date: 2019-12-31
   link: https://www.cryptoglobe.com/latest/2019/12/ethereum-nodes-randomly-stop-syncing-as-parity-warns-of-potential-attack/
@@ -857,6 +871,7 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Bob Summerwill
   source: Ethereum Classic Cooperative
   title: "ETC Summit 2019 — Photos from the venue"
+  tags: ["event"]
 -
   date: 2019-09-27
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-presents-second-state-947d85ca31ee
@@ -1391,6 +1406,7 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Jefe Caan
   source: Crypto Daily
   title: "Ethereum Classic (ETC)’S Coinbase Listing Signals Mass Adoption, Binance Lists ETC/USDT And ETC/BNB Pairs"
+  tags: ["exchange"]
 -
   date: 2018-06-14
   link: https://cryptodaily.co.uk/2018/06/ripple-stellar-and-ethereum-classic-all-approved
@@ -2193,6 +2209,7 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Joseph Young
   source: Coin Telegraph
   title: "Mainstream Media's Irrational Criticism Towards Ethereum Classic and Bitcoin"
+  tag: ["media"]
 -
   date: 2016-07-29
   link: http://www.coindesk.com/rise-replay-attacks-ethereum-divide/

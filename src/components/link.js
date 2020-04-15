@@ -30,13 +30,17 @@ const Link = ({
   className,
   noScroll,
   notLocalized,
+  title,
+  onlyIcon,
   ...props
 }) => {
   const to = _to || link;
-  const passedProps = { className, style };
+  const passedProps = { title, className, style };
   const actualIcon = icon || (back && 'angle-left') || (next && 'angle-right');
   const iconText = fullIcon || (actualIcon ? `fas fa-${actualIcon}` : null);
-  const content = (
+  const content = onlyIcon ? (
+    <i className={`${iconText} left right`} />
+  ) : (
     <>
       {back && iconText && <i className={`${iconText} left`} />}
       {text || name || children || to}

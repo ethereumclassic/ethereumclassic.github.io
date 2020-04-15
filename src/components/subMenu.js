@@ -2,10 +2,10 @@ import React from 'react';
 
 import Link from '~components/link';
 
-const SubMenu = ({ items, expanded, tabs }) => {
+const SubMenu = ({ items, expanded, tabs, className }) => {
   const ContainerEl = expanded || tabs ? 'div' : 'ul';
   return (
-    <ContainerEl className={`sub-menu ${tabs ? 'tabs' : ''}`}>
+    <ContainerEl className={`sub-menu ${className || ''} ${tabs ? 'tabs' : ''}`}>
       {items.map(i => {
         if (i.hidden) {
           return null;
