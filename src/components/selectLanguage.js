@@ -22,7 +22,7 @@ const SelectLanguage = () => {
               link = `/${key}${link}`;
             }
             return (
-              <Link key={key} to={link} hrefLang={key} state={{ languageChange: true }}>
+              <Link key={key} to={link} hrefLang={key} state={{ noScroll: true }}>
                 {locales[key].flag}
               </Link>
             );
