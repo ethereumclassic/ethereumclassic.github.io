@@ -66,25 +66,28 @@
     padding: 0;
     z-index: 1;
   }
+
   .overlay {
     background: _palette(t-black-20);
     backdrop-filter: blur(7px) grayscale(50%);
     position: fixed;
     display: none;
-    left:0;
-    right:0;
-    top:0;
-    bottom:0;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
   }
+
   a {
     display: block;
     cursor: pointer;
     padding: $nanoPadding $microPadding;
     margin-bottom: $nanoPadding;
     background: _palette(bright);
+
     // box-shadow: $tightShadow;
     &:hover {
-      background:_palette(t-black-80);
+      background: _palette(t-black-80);
       color: _palette(accent);
     }
   }
@@ -94,11 +97,11 @@
     color: _palette(bg);
   }
 
-  input:checked~.buttons, input:checked~.overlay {
+  input:checked~.buttons,
+  input:checked~.overlay {
     display: block;
   }
 }
-
 
 .pagination {
   display: grid;
@@ -145,6 +148,7 @@ $tabBg: _palette(bright);
 .tabs {
   padding: 0;
   white-space: nowrap;
+
   a {
     display: inline-block;
     $unselectedBg: _palette(grey-10);
@@ -154,11 +158,12 @@ $tabBg: _palette(bright);
     border-top-left-radius: $roundedTight;
     border-top-right-radius: $roundedTight;
     border: 0;
+
     &:hover {
       opacity: 0.9;
     }
 
-    &.selected {
+  &.selected {
       opacity: 1;
       background: $tabBg;
     }
@@ -169,8 +174,18 @@ $tabBg: _palette(bright);
   border-radius: $roundedTight;
   background: $tabBg;
   border: $solidDarkLine;
-  padding: $smallPadding;
+  padding: 0 $smallPadding;
   padding-bottom: 0;
   border-top: 0;
   box-shadow: $softShadow;
+
+  @include breakpoint('<=medium') {
+    margin-left: -$smallPadding;
+    margin-right: -$smallPadding;
+  }
+
+  @include breakpoint('<=small') {
+    margin-left: -$tinyPadding;
+    margin-right: -$tinyPadding;
+  }
 }
