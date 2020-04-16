@@ -37,7 +37,7 @@ New GitHub contributors can follow this [contribution guide](https://guides.gith
 
 1. Fork this repository to your personal GitHub account.
     - Optional: Clone locally on your machine.
-2. Navigate to the file `content/news/media.en.yaml`
+2. Navigate to the file `content/news/media/media.objects.en.yaml`
 3. Open `media.en.yaml` to edit
 4. Review the existing format of the articles in the file.
 5. Add your article to the file. Ensure the formatting is correct. Save your changes.
