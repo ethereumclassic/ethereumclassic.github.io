@@ -11,6 +11,7 @@
   key: Hyperledger Besu
   name: Hyperledger Besu
   link: https://besu.hyperledger.org/
+  guideLink: https://besu.hyperledger.org/en/stable/HowTo/Get-Started/Install-Binaries/
   releaseLink: https://github.com/hyperledger/besu/releases
   supportLink: https://chat.hyperledger.org/
   supportIcon: fab fa-rocketchat

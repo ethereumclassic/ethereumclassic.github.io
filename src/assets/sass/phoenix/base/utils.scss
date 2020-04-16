@@ -21,9 +21,11 @@
 }
 
 .spacer {
-  margin-top: 3rem;
+  margin-top: $smallPadding;
 }
-
+.nudge {
+  margin-top: $tinyPadding;
+}
 .dark {
   background: _palette(accent-dark);
   * { 

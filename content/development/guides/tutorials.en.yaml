@@ -14,7 +14,7 @@
   link: https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4
   text: Smart contract tutorial with a focus on building up understanding before code.
 - 
-  key: Parity DApp Tutorial
+  key: Parity Tutorial
   title: Parity DApp Tutorial
   link: https://wiki.parity.io/Dapp-Tutorial
   text: 10 part tutorial on how to write DApps.
@@ -48,6 +48,61 @@
   title: Vyper and Brownie Contract Development on EVM Chains
   link: https://medium.com/ethereum-classic/vyper-and-brownie-contract-development-on-evm-chains-85ba7fa2feef
   text: To celebrate integration of ETC with Vyper, we decided to build a smart contract for Vyper to deploy to ETC.
+-
+  key: Adventures in Classical Ether
+  title: Adventures in Classical Ether
+  link: https://medium.com/ethereum-classic/adventures-in-classical-ether-38d576a9bdff
+  text: Build your first smart contract for ETC.
+-
+  key: Kotti Solidity ETC Oh My
+  title: Kotti, Solidity, ETC, Oh My!
+  link: https://medium.com/ethereum-classic/kotti-solidity-etc-oh-my-2ae36926454d
+  text: This guide illustrates an initital configure for Ethereum Classic's Kotti testnet and a specifc version of Solidity for ETC<>ETH compatible dapp development. Kotti is the recommended testnet for dapp developers. Mordor is recommended for protocol level testing.
+- 
+  key: How to contribute to Mordor Testnet
+  title: How to contribute to Mordor Testnet
+  link: https://core-geth.org/contribute-to-mordor-testnet
+  text: This guide will teach you how to mine testnet ETC and run your own local block explorer with Expedition. Kotti is the recommended testnet for dapp developers. Mordor is recommended for protocol level testing. 
+- 
+  key: Ethereum Classic on Raspberry Pi
+  title: Ethereum Classic on Raspberry Pi
+  link: https://medium.com/ethereum-classic/ethereum-classic-on-raspberry-pi-a3be200cdca0
+  text: This guide will be split into several parts and will document my explorations of IoT, ETC, and all things Raspberries.
+-
+  key: Ethercluster An Open-Source Alternative to Infura
+  title: Ethercluster, An Open-Source Alternative to Infura
+  link: https://docs.ethercluster.com/
+  text: A guide to building your own scalable Ethereum-based RPC infrastructure.
+-
+  key: Analyzing Ethereum Classic with Google BigQuery
+  title: Analyzing Ethereum Classic with Google BigQuery
+  link: https://medium.com/ethereum-classic/analyzing-ethereum-classic-with-google-bigquery-df55822ec6a6
+  text: A guide to using BigQuery to analyze Ethereum Classic. The guide uses the example of quantifying decentralization in Ethereum Classic. 
+-
+  key: Continuity for an Augmented world
+  title: Continuity for an Augmented world
+  link: https://medium.com/@DontPanicBurns/continuity-for-an-augmented-world-1ec16d48ac9c
+  text: A guide to building a decentralized advertisement system with Ethereum Classic. 
+-
+  key: Deployment Automation for Goerli testnet in 10 minutes
+  title: Deployment Automation for Goerli testnet in 10 minutes
+  link: https://medium.com/chainsafe-systems/deployment-automation-for-goerli-testnet-in-10-minutes-5212cef5542a
+  text: A short tutorial to quickly deploy the new Goerli Proof-of-Authority cross-client test network. This guide can be applied to Ethereum Classic's Kotti testnet.
+-
+  key: Using OpenRPC Mock Server to test against an Ethereum JSON-RPC API
+  title: Using OpenRPC Mock Server to test against an Ethereum JSON-RPC API
+  link: https://medium.com/etclabscore/using-openrpc-mock-server-to-test-against-an-ethereum-json-rpc-api-50b86b6d02d6
+  text: The open-rpc-mock-server allows developers to run and test against their APIs in a local and lightweight environment.
+-
+  key: Introduction to Pristine An open standard and template for open-source projects
+  title: Introduction to Pristine — An open standard and template for open-source projects.
+  link: https://medium.com/etclabscore/using-openrpc-mock-server-to-test-against-an-ethereum-json-rpc-api-50b86b6d02d6
+  text: Pristine is a repository within itself that contains conventions and specifications for a project to communicate the problem you are solving, ease onboarding, build and use composable tools, promote open source contribution and engagement, and promote the issue and feature discussion on Github itself.
+-
+  key: Jade Suite Overview and Workshop
+  title: Jade Suite Overview and Workshop
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-devs4devs-jade-suite-overview-and-workshop-143825355
+  text: Make development and configuring of Ethereum Classic apps easy and fast using the Jade Suite of Tools
 - 
   key: Various Ethereum Solidity Tutorials
   title: Various Ethereum and Solidity Tutorials

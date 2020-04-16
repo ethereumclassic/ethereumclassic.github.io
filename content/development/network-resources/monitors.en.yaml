@@ -62,6 +62,12 @@
   kotti: https://expedition.dev/?network=kotti
   mordor: https://expedition.dev/?network=mordor
 -
+  key: PhoenixUpgrade
+  name: Phoenix Update - 1088
+  etc: https://phoenix.fault.dev/
+  kotti: https://kotti.etcnodes.org/phoenix
+  mordor: https://expedition.dev/stats/miners?network=mordor
+-
   key: TokenView
   name: TokenView
   etc: https://etc.tokenview.com/en/charts

@@ -1,0 +1,35 @@
+- 
+  key: Nifty Wallet
+  title: Nifty Wallet (similar to Metamask)
+  link: https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid?hl=en
+  text: An open source fork of Metamask that allows usage of the ETC Network. Make sure Metamask is disabled in Chrome when Nifty is in use. Can be used along with Remix IDE to quickly deploy contracts to ETC.
+- 
+  key: Saturn Wallet
+  title: Saturn Wallet (similar to Metamask)
+  link: https://addons.mozilla.org/en-US/firefox/addon/saturn-wallet/
+  text: Similar to Nifty Wallet, but closed source. Works on Chrome and Firefox. Make sure Metamask is disabled when Saturn Wallet is in use.
+- 
+  key: Trust Wallet
+  title: Trust Wallet (Mobile dApp Browser)
+  link: https://trustwallet.com/
+  text: An open source, multi-currency, Web3 mobile wallet. Has been tested and confirmed to work properly with ETC dApps.
+- 
+  key: Ether Cluster
+  title: Ether Cluster (similar to Infura)
+  link: https://www.ethercluster.com/
+  text: A freely available ETC Node endpoint. Accessible as a Web3 RPC provider at `https://www.ethercluster.com/etc`
+- 
+  key: DappDirect.net
+  title: DappDirect.net (similar to DappRadar)
+  link: https://dappdirect.net
+  text: A dApp aggregator that is free to submit to and allows users/develoeprs to discover and track key metrics of mainnet ETC dApps.
+- 
+  key: Saturn.network
+  title: Saturn.network (similar to Forkdelta)
+  link: https://saturn.network/
+  text: A completely decentralized token exchange (DEX), useful for listing ERC20 or ERC223 tokens for sale on the ETC network.
+- 
+  key: Commonwealth.gg
+  title: Commonwealth.gg
+  link: https://commonwealth.gg/
+  text: An open source Hourglass contract similar to original P3D built on Ethereum Classic. Can be leveraged with applications that incentivize user participation.

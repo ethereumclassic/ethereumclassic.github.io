@@ -39,4 +39,8 @@ Ref [ECIP-1056](https://ecips.ethereumclassic.org/ECIPs/ecip-1056) [#75](https:/
 
 [https://github.com/ethereumclassic/ECIPs/issues/175](https://github.com/ethereumclassic/ECIPs/issues/175)
 
+### Recording of Core Devs Call
+
+[Core Devs Call:  Agharta hard fork finalization](https://youtu.be/vipvH21tXgc)
+
 ![ETC Core Devs Call - Agharta Final Finalization](./hardfork_agharta.png)

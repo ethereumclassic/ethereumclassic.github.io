@@ -4,9 +4,8 @@ import BackButton from './backButton';
 import PageLayout from './pageLayout';
 import SubMenu from './subMenu';
 
-import html from '../i18n/html';
+import renderMarkdown from './renderMarkdown';
 import ButtonLink from './buttonLink';
-// import Grid from './grid';
 import Translate from './translate';
 
 // TODO seriously refactor this
@@ -72,7 +71,7 @@ const SubPageLayout = ({ children, ...props }) => {
       header={showPagination && renderPagination({ previousLink, nextLink })}
       footer={footerMenu}
     >
-      {i18n.intro && <section className="intro">{html(i18n.intro)}</section>}
+      {i18n.intro && <section className="intro">{renderMarkdown(i18n.intro)}</section>}
       {children}
     </PageLayout>
   );
