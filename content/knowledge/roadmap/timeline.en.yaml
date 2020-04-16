@@ -11,7 +11,7 @@
   className: blue
   icon: fas fa-snowflake
   link: https://blog.ethereum.org/2015/08/04/ethereum-protocol-update-1/
-  text:  The network implements an ‘Ice Age’ at block 200,000 to introduce the difficulty bomb as a mechanism to move the network to Proof-of-Stake
+  text:  The network implements an ‘Ice Age’ at block 200,000 introducing the Difficulty Bomb, a mechanism designed to move the network's consensus mechanism away from Proof-of-Work to Proof-of-Stake
 - key: homesteadUpgrade
   title: Homestead Upgrade
   date: Mar 15 2016
@@ -326,7 +326,7 @@
   className: blue
   icon: fas fa-rocket
   link: https://cryptodaily.co.uk/2018/11/What-is-Ethereum-Classics-Project-Goerli
-  text: A PoA testnet constructed to provide interoperability testing with sister-chain ETH's Görli Testnet. PoA becomes the preferred testnet environment for dapp development testing.
+  text: ETC Cooperative funds the development of the Kotti testnet, a Proof-of-Authority testnet constructed to provide interoperability testing with sister-chain ETH's Görli Testnet. PoA becomes the preferred testnet environment for dapp development testing
 - key: etcSummitSeoul
   title: ETC Summit 2018
   date: Sept 12 2018
@@ -341,12 +341,12 @@
   icon: fas fa-chart-line
   text: The largest cryptocurrency exchange in the USA signals long-term support for the original Ethereum chain; Ethereum Classic
 - key: etcLabsIncubator
-  title: Incubator Program
+  title: Incubator Program Launch
   date: Oct 25 2018
   className: white
   icon: fas fa-user-ninja
   link: https://etclabs.org/
-  text: The company’s incubator program will work with as many as 24 Ethereum Classic based startups each year
+  text: Ethereum Classic Labs launches an incubator program. ETC Labs commits to work with as many as 24 Ethereum Classic based startups each year
 - key: second51Attack
   title: Second 51% Attack
   date: Jan 8 2019
@@ -360,7 +360,7 @@
   className: blue
   icon: fas fa-angle-double-up
   link: /blog/2019-07-29-atlantis-hard-fork-upgrade/
-  text: Ethereum Classic core developers implement ETH's Spurious Dragon and Byzantium network protocol upgrades to maintain operation parity with its sister chain
+  text: Ethereum Classic core developers implement ETH's Spurious Dragon and Byzantium network protocol upgrades to maintain operational parity with its sister chain
 - key: etcSummitVancouver
   date: Oct 3 2019
   title: ETC Summit 2019
@@ -374,35 +374,28 @@
   className: blue
   icon: fas fa-rocket
   link: /blog/2019-10-04-mordor-testnet-launch/
-  text: Removed redundancy by replacing Kensington, Morden, and Nazgul networks with Mordor, an ethash PoW testnet
+  text: Core developers removed testnet redundancy by replacing Kensington, Morden, and Nazgul test networks with Mordor, an Ethash PoW testnet for protocol level testing
 - key: aghartaUpgrade
   title: Agharta Upgrade
   date: Jan 12 2020
   className: blue
   icon: fas fa-angle-double-up
   link: /blog/2020-01-11-agharta-hard-fork-upgrade/
-  text: Ethereum Classic core developers implement ETH's Constaninople and Petersburg network protocol upgrades to maintain operation parity with its sister chain
-- key: 5m20era3
-  title: 5M20 Era 3
-  date: Mar 17 2020
-  className: green
-  icon: fas fa-coins
-  link: /blog/2020-03-17-5m20-era3-block-reward-reduction/
-  text: ECIP-1017's 5M20 Era 3 block reward reduced emission by 20% to 3.2 ETC per block
+  text: Ethereum Classic core developers implement ETH's Constaninople and Petersburg network protocol upgrades to maintain operational parity with its sister chain
 - key: era3
   title: 5M20 Era 3
   date: Block 10,000,000
   className: green
   icon: fas fa-coins
   link: /blog/2020-03-17-5m20-era3-block-reward-reduction/
-  text: Ethereum Classic's 5M20 emission schedule enters Era 3. Block rewards are reduced by 20% to 3.2 ETC per block
+  text: On March 17 2020, Ethereum Classic's block rewards are reduced by 20% to 3.2 ETC per block per the bitcoin-inspired 5M20 emission schedule
 - key: phoenixUpgrade
   title: Phoenix Upgrade
   date: Block 10,500,839
   className: blue
   icon: fas fa-angle-double-up
   link: /blog/2020-06-10-phoenix-hard-fork-upgrade/
-  text: Ethereum Classic core developers implement ETH's Istanbul network protocol upgrades to maintain operation parity with its sister chain
+  text: Ethereum Classic core developers implement ETH's Istanbul network protocol upgrades to maintain operational parity with its sister chain
 - key: aBrightFuture
   title: A Bright Future
   date: Future
