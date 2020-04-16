@@ -1,7 +1,7 @@
 -
   date: Q1
   key: "parityRoughConsensus"
-  text: "Ethereum Classic core developers maintain rough consensus for the collaborative effort of achieving operational parity with sister chain ETH."
+  text: "Ethereum Classic core developers maintain rough consensus for the collaborative effort of achieving operational parity with sister chain Ethereum (ETH)."
 -
   date: 2020-01-10
   key: "vyperlang-ETC"
@@ -77,11 +77,11 @@
 -
   date: Q2
   key: "improve-Documentation"
-  text: "Improve ETC specific documentation and ad them to the website for end user consumption. https://ethereumclassic.org/development/guides"
+  text: "Improve ETC specific documentation and add to the website for end user consumption. https://ethereumclassic.org/development/guides"
 -
-  date: Q3
-  key: "astor-Testing"
-  text: "Astor experimental testnet SHA3 consensus algo research review"
+  date: Q2
+  key: "website-internationalization"
+  text: "Reach out to the non-english ETC social channels to translate the English version of https://ethereumclassic.org/"
 -
   date: Q3
   key: "Implementation: Instruction"
@@ -106,7 +106,11 @@
   date: Q3
   key: "Gas Range Discussion"
   text: "Gas Range Discussion: Upper and Lower Bounds"
-- 
+-
+  date: Q4
+  key: "astor-Testing"
+  text: "Astor experimental testnet SHA3 consensus algo research review"
+-
   date: Q4
   key: "Official beta releas"
   text: "EVM-LLVM Official beta release"

@@ -228,7 +228,7 @@
   className: white
   icon: fas fa-file-code
   link: /blog/2016-09-09-code-is-law
-  text: During the ETH attacks, many battle cries come out of Ethereum Classic supports. They begin to clarify their core principles and why the ETC network exists
+  text: During the ETH attacks, many battle cries come out of Ethereum Classic supporters. They begin to clarify their core principles and validate the ETC network existance to the general public
 - key: gasReprice
   title: Gas Reprice Upgrade
   date: Block 2,500,000
@@ -321,7 +321,7 @@
   link: /blog/2018-05-29-defuse-difficulty-bomb-hard-fork-upgrade
   text: May 29 2018, ETC safely disables the difficulty bomb to switch the original Ethereum project to PoS. Ethereum Classic signals long-term commitment to PoW as a network consensus mechanism
 - key: etclabs
-  title: ETC Labs
+  title: ETC Labs Team
   date: Jun 2018
   className: white
   icon: fas fa-user-ninja
@@ -445,6 +445,13 @@
   icon: fas fa-bug
   link: https://gist.github.com/meowsbits/ddf54e7cb225e7f89b3ed0b7d92b8a37
   text: During Aztlán testnet implementations, Ethereum Classic core developers discover complications with ECIP 1061 and 1078 specs to add ETH's Istanbul network protocol upgrade. Meowbits of ETC Core documents the findings. As intended, the ETC testnets catch the issues and core developers go back to the drawing board
+- key: aztlanRejected
+  title: Aztlán Rejected
+  date: Feb 26 2020
+  className: orange
+  icon: fas fa-times-circle
+  link: https://github.com/ethereumclassic/ECIPs/pull/297
+  text: Due to the multiple issues disclosed with aztlan and phoenix not being a sufficient fix and both testnets being broken, this pull request proposes to reject ecips-1061, 1078, 1086 due to security and stability concerns and to move on with writing a phoenix proposal from scratch
 - key: phoenixConsensus
   title: Phoenix Rough Consensus
   date: Feb 26 2020
