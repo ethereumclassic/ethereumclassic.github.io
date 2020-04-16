@@ -130,7 +130,7 @@ exports.onCreateNode = async ({
     if (!locales[locale] || !locales[locale].enabled) {
       return;
     }
-    // handle `item.object.locale.yaml` files
+    // handle `item.objects.locale.yaml` files
     if (isObject) {
       const parsedYaml = jsYaml.load(await loadNodeContent(node));
       parsedYaml.forEach((item, index) => {
