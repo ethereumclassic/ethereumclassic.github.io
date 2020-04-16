@@ -44,6 +44,11 @@
   link: https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e
   text: Create a gambling DApp using Metamask, Truffle, Remix, React and IPFS.
 - 
+  key: Vyper and Brownie Contract Development on EVM Chains
+  title: Vyper and Brownie Contract Development on EVM Chains
+  link: https://medium.com/ethereum-classic/vyper-and-brownie-contract-development-on-evm-chains-85ba7fa2feef
+  text: To celebrate integration of ETC with Vyper, we decided to build a smart contract for Vyper to deploy to ETC.
+- 
   key: Various Ethereum Solidity Tutorials
   title: Various Ethereum and Solidity Tutorials
   link: https://www.codementor.io/learn/blockchain/solidity-tutorials

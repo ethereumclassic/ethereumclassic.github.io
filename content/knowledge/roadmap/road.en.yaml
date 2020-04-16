@@ -1,144 +1,136 @@
-- 
-  date: Q1
-  text: "> https://core-geth.org/ is born!"
-  key: "https://core"
 -
-  key: "Cancel Aztlan."
   date: Q1
-  text: "Review and address Aztlan Upgrade's testnet discoveries. Reflect and review technical specifications for Istanbul ETH parity project under ECIP-1088 with new codename Phoenix. Keep mainnet activation timeline at block 10,500,839."
+  key: "parityRoughConsensus"
+  text: "Ethereum Classic core developers maintain rough consensus for the collaborative effort of achieving operational parity with sister chain ETH."
 -
-  key: "5M20 Era 3"
-  date: Q1
-  text: "Monetary Policy Event: 5M20 Era3 block reward reduction from 4 to 3.2 ETC on March 17, 2020."
+  date: 2020-01-10
+  key: "vyperlang-ETC"
+  text: "The ETC Cooperative to help contribute to the codebase of Vyper in collaboration with Ben Hauser who implemented the changes necessary into Vyper in order to allow us to target multiple versions of the EVM in order to have it working with ETC."
 -
-  key: "Clients Implement Phoenix"
-  date: Q1
-  text: "Kotti and Mordor testnet implementation for Phoenix Upgrade in Core-Geth, Hyperledger Besu, Multi-Geth, and Open-Ethereum network clients."
+  date: 2020-01-11
+  key: "agharta-Mainnet"
+  text: "Ethereum Classic core developers implement ETH's Constaninople and Petersburg network protocol upgrades to maintain operational parity with its sister chain."
 -
-  key: "March: Phoenix"
-  date: Q1 March
-  text: "Phoenix testing begins on the Kotti and Mordor testnets. Core development teams have signaled that this is a complex upgrade. Testing may uncover issues that delay this network upgrade, but Ethereum Classic will never rush to upgrade the mainnet. Network security is priority over development speed and arbitary timelines."
+  date: 2020-01-31
+  key: "evm-llvm-Alpha"
+  text: "Second State, Vyperlang, and other teams are implementing or experimenting in bringing LLVM infrastructure to the EthereumStack. This is an alpha version of the EVM LLVM. It includes the complete, working LLVM backend pipeline for generating EVM binaries. Optimizations are limited. https://github.com/etclabscore/evm_llvm/releases/tag/v0.5_alpha"
 -
-  key: "Status Codes:"
-  date: Q1
-  text: "Status Codes: ECIP-1050 moves to Final status."
+  date: 2020-02-04
+  key: "coreGeth-Launch"
+  text: "CoreGeth: An Ethereum Protocol Provider. Priority is given to reducing opinions around chain configuration, IP-based feature implementations, and API predictability. Upstream development from ethereum/go-ethereum is merged to this repository regularly, usually at every upstream tagged release. Every effort is made to maintain seamless compatibility with upstream source, including compatible RPC, JS, and CLI APIs, data storage locations and schemas, and, of course, interoperable node protocols. Applicable bug reports, bug fixes, features, and proposals should be made upstream whenever possible."
 -
-  key: "Website 2020 Upgrade"
-  date: Q1
-  text: "The 2020 EthereumClassic.org Website Modernization project goes live with a goal of providing accurate ETC content and automated information dissemination lines for the great cryptocurrency ecosystem."
-- 
-  date: Q1
-  text: "Testnet management and maintenance for Kotti and Mordor networks."
-  key: "Test network (Mordor"
-- 
-  date: Q1
-  text: "eth/65 protocol to be implemented by etclabscore/core-geth enabling lower-bandwidth transaction pool messaging"
-  key: "eth/65 protocol"
-- 
-  date: Q1 - Q2
-  text: "SOLL and Vyper compiler integration"
-  key: "SOLL and Vyper"
-- 
-  date: Q1 - Q3
-  text: "Ethereum Protocol Provider Chain Configuration Standard and translational tooling"
-  key: "Ethereum Protocol Provider"
-- 
-  date: Q1 - Q3
-  text: "SHA3 consensus algo research review"
-  key: "SHA3 consensus algo"
-- 
-  date: Q1 - Q4
-  text: "LLVM 1.0 Candidate"
-  key: "1.0 Candidat"
-- 
-  date: Q1 - Q4
-  text: "Second State, Vyperlang, and other teams are implementing or experimenting in bringing LLVM infrastructure to the EthereumStack."
-  key: "Second State,"
+  date: 2020-02-12
+  key: "ecip-1050"
+  text: "ECIP 1050: Status Codes moves to Final status. This standard outlines a common set of Status Codes in the same vein as HTTP statuses. This provides a shared set of signals to allow smart contracts to react to situations autonomously, expose localized error messages to users, and so on. https://ecips.ethereumclassic.org/ECIPs/ecip-1050"
 -
-  key: "Establish Systemic,"
+  date: 2020-02-20
+  key: "aztlan-Testnets"
+  text: "During Aztlán testnet implementations, Ethereum Classic core developers discover complications with ECIP 1061 and 1078 specs to add ETH's Istanbul network protocol upgrade. Meowbits of ETC Core documents the findings. As intended, the ETC testnets catch the issues and core developers go back to the drawing board."
+-
+  date: 2020-02-26
+  key: "phoenix-ReSpec"
+  text: "Ethereum Classic core developers reach rough consensus on ECIP-1088 in an effort to implement ETH's Istanbul network protocol upgrade. Testnet implementations revealed issues with prior attempts in specs ECIP-1061 and ECIP-1078."
+-
+  date: 2020-03-04
+  key: "coreGeth-Phoenix"
+  text: "Core-Geth implements block activation values for ECIP1088, Ethereum Classic's planned Phoenix hard fork upgrade. Please upgrade to version v1.11.0 or later for Phoenix support for ETC. https://github.com/etclabscore/core-geth/releases"
+-
+  date: 2020-03-09
+  key: "phoenix-Mordor-testnet"
+  text: "Phoenix testing begins on the Mordor PoW testnet on block 999,983. Core development teams have signaled that this is a complex implementation. Testing may uncover issues that delay this network upgrade, but Ethereum Classic will never rush to upgrade the mainnet. Network security is priority over development speed and arbitary timelines. https://expedition.dev/?network=mordor"
+-
+  date: 2020-03-12
+  key: "besu-Phoenix"
+  text: "Hyperledger Besu implemented ECIP-1088: Phoenix EVM and Protocol upgrades. Please upgrade to version v1.4.1 or later for Phoenix support for ETC. https://github.com/hyperledger/besu/releases"
+-
+  date: 2020-03-14
+  key: "gitcoin-ETC"
+  text: "Developer bounty platform Gitcoin has partnered with Ethereum Classic Labs to offer bounties in ETC."
+-
+  date: 2020-03-17
+  key: "5m20-Era3-Mainnet"
+  text: "March 17 2020, Ethereum Classic's block rewards are reduced by 20% to 3.2 ETC per block per the bitcoin-inspired 5M20 emission schedule."
+-
+  date: 2020-03-20
+  key: "phoenix-Kotti-recover"
+  text: "The Kotti PoA testnet is successfully recovered after Aztlán implementations. The signers coordinate and regain consensus in anticipation for a successful Phoenix implementation. https://expedition.dev/?network=kotti"
+-
+  date: 2020-03-31
+  key: "Website-2020-Content"
+  text: "EthereumClassic.org website modernization project goes live with updated 2020 content. https://ethereumclassic.org/blog"
+-
   date: Q2
-  text: "Automated communication Lines to the General Public and ETC Participants via RSS feeds."
+  key: "rss-Feeds"
+  text: "EthereumClassic.org website modernization project goes live with a goal of providing accurate ETC content and automated information dissemination lines to the greater cryptocurrency ecosystem. https://ethereumclassic.org/rss.xml"
 -
-  key: "Improve Documentation"
+  date: 2020-04-03
+  key: "Website-2020-Phoenix"
+  text: "EthereumClassic.org website modernization project goes live with the Phoenix theme. https://ethereumclassic.org"
+-
+  date: 2020-04-05
+  key: "multigeth-Phoenix"
+  text: "Multi-Geth implements support for the Phoenix hard fork on Ethereum Classic mainnet, at block 10,500,839, scheduled around the beginning of June, 2020. Please upgrade to version v1.9.14 or later for Phoenix support for ETC. https://github.com/multi-geth/multi-geth/releases"
+-
+  date: 2020-04-15
+  key: "phoenix-Kotti-testnet"
+  text: "Phoenix testing begins on the Kotti PoA testnet on block 2,200,013. Core development teams have signaled that this is a complex implementation. Testing may uncover issues that delay this network upgrade, but Ethereum Classic will never rush to upgrade the mainnet. Network security is priority over development speed and arbitary timelines. https://expedition.dev/?network=mordor"
+-
   date: Q2
-  text: "Improve Documentation"
+  key: "improve-Documentation"
+  text: "Improve ETC specific documentation and ad them to the website for end user consumption. https://ethereumclassic.org/development/guides"
 -
-  key: "Build ETC Specific"
-  date: Q2
-  text: "Build ETC Specific Guides."
--
-  key: "Phoenix Upgrade Backward"
-  date: Q2
-  text: "Phoenix Upgrade Backward Compatibility Testing."
--
-  key: "Phoenix Upgrade Gas"
-  date: Q2
-  text: "Phoenix Upgrade Gas Vulnerability Testing"
--
-  key: "Account Versioning Review"
-  date: Q2
-  text: "Account Versioning Review. Potential"
--
-  key: "GitCoin Crowdfunding Native"
-  date: Q2
-  text: "GitCoin Crowdfunding Native ETC"
-- 
-  date: Q2 - Q3
-  text: "LLVM Instruction scheduler and performance optimizations"
-  key: "Implementation: Instruction"
-- 
-  date: Q2 - Q3
-  text: "JSON-RPC devp2p Wire protocol specification and reference implementation research and possible design"
-  key: "JSON-RPC devp2p"
-- 
-  date: Q2 - Q4
-  text: "EVM Account Versioning; Versionless EVM and Ungas research and implementations."
-  key: "EVM Account Versioning"
--
-  key: "Long-term Development Resources"
   date: Q3
+  key: "astor-Testing"
+  text: "Astor experimental testnet SHA3 consensus algo research review"
+-
+  date: Q3
+  key: "Implementation: Instruction"
+  text: "LLVM Instruction scheduler and performance optimizations"
+- 
+  date: Q3
+  key: "JSON-RPC devp2p"
+  text: "JSON-RPC devp2p Wire protocol specification and reference implementation research and possible design"
+-
+  date: Q3
+  key: "Long-term Development Resources"
   text: "Long-term Development Resources Discussion: Public Good Network Protocols, Fund Disbursement Methods, DAO fund allocation."
 -
-  key: "Updates to ECIP"
   date: Q3
+  key: "Updates to ECIP"
   text: "Updates to ECIP process via ECIP-0001"
 -
-  key: "Account Versioning"
   date: Q3
-  text: "Account Versioning"
+  key: "ethereum-Berlin"
+  text: "Review Ethereum Berlin for operational parity with Ethereum Classic."
 -
-  key: "Astor Testnet tests"
   date: Q3
-  text: "Astor Testnet tests/results"
--
   key: "Gas Range Discussion"
-  date: Q3
   text: "Gas Range Discussion: Upper and Lower Bounds"
 - 
-  date: Q3 - Q4
-  text: "LLVM Official beta release"
-  key: "Official beta releas"
-- 
-  date: Q3 - Q4
-  text: "LLVM Implementation: Embedded assembly and exception handling"
-  key: "Implementation: Embedded"
-- 
-  date: Q3 - Q4
-  text: "ETL Tooling patterns and research into providing support for cross-chain transaction transforms"
-  key: "ETL Tooling patterns"
--
-  key: "Mining Algorithm Discussion"
   date: Q4
+  key: "Official beta releas"
+  text: "EVM-LLVM Official beta release"
+- 
+  date: Q4
+  key: "Implementation: Embedded"
+  text: "EVM-LLVM Implementation: Embedded assembly and exception handling"
+- 
+  date: Q4
+  key: "ETL Tooling patterns"
+  text: "ETL Tooling patterns and research into providing support for cross-chain transaction transforms"
+-
+  date: Q4
+  key: "Mining Algorithm Discussion"
   text: "Mining Algorithm Discussion: Astor SHA3 Change, DAG reduction, No Change,"
 -
-  key: "Interoperability Projects:"
   date: Q4
+  key: "Interoperability Projects"
   text: "Interoperability Projects: Port over ETH network protocols. Build ETH<>ETC bridges."
 -
-  key: "FlyClients Discussion"
   date: Q4
+  key: "FlyClients Discussion"
   text: "FlyClients Discussion"
 -
-  key: "Interoperability Market Capture"
   date: Q4
-  text: "Interoperability Market Capture. ETC added to more products increase access/utility for ETC."
+  key: "Interoperability Market Capture"
+  text: "Interoperability Market Capture. ETC added to more products increase access/utility for ETC. Onboard stabelcoins and dapps. Build the foundation for DeFi on hard-money ETC."
