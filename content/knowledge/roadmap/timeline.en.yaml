@@ -137,7 +137,7 @@
   className: blue
   icon: fas fa-code-branch
   link: https://blog.ethereum.org/2016/07/20/hard-fork-completed/
-  text: July 10 2016, with around 80% of nodes updating to the new client, the community nervously await the arrival of the DAO Bailout fork activation block 1,920,000
+  text: July 20 2016, with around 80% of nodes updating to the new client, the community nervously await the arrival of the DAO Bailout fork activation block 1,920,000
 - key: newEthereumIsBorn
   title: New Fork Chain
   date: Block 1,920,001
@@ -179,7 +179,7 @@
   className: white
   icon: fas fa-users
   link: https://www.reddit.com/r/EthereumClassic/
-  text: The Ethereum Classic supporters branch off from the forked-chain subreddits and form its own socisl channels
+  text: The Ethereum Classic supporters branch off from Ethereum subreddits and form their own social channels
 - key: 51Pool
   title: 51% Attack Threat
   date: Jul 31 2016
@@ -221,7 +221,7 @@
   className: red
   icon: fas fa-chart-area
   link: https://bitcoinmagazine.com/articles/millions-of-dollars-worth-of-etc-may-soon-be-dumped-on-the-market-1472567361
-  text: Millions of previously locked or frozen ETC become available to DAO token holders and the DAO hacker. ETC's price holds remarkably well in face of huge dumps
+  text: Millions of previously locked or frozen ETC become available to DAO token holders and the DAO hacker. ETC's price holds remarkably well in face of huge market dumps
 - key: codeIsLaw
   title: Code is Law
   date: Sept 09 2016
@@ -291,7 +291,7 @@
   className: white
   icon: fas fa-user-ninja
   link: https://etccooperative.org/
-  text: ETC Cooperative legal entity was created Sep 2017 as LLC. Application for non-profit status was made May 2018 and approved Nov 2018, retroactive to the date of application
+  text: Grayscale signals long-term support for Ethereum Classic protocol development by sponsoring the ETC Cooperative team with a portion of their ETCG management fees. Donations to the non-profit are tax-deductable
 - key: etcSummitHK
   title: ETC Summit 2017
   date: Nov 12 2017
@@ -451,7 +451,7 @@
   className: orange
   icon: fas fa-times-circle
   link: https://github.com/ethereumclassic/ECIPs/pull/297
-  text: Due to the multiple issues disclosed with aztlan and phoenix not being a sufficient fix and both testnets being broken, this pull request proposes to reject ecips-1061, 1078, 1086 due to security and stability concerns and to move on with writing a phoenix proposal from scratch
+  text: Based on the issues discovered during Aztlán testnet implementation, Phoenix Fix being found to not be a sufficient fix and both testnets breaking; the Core developers proposes to reject ecips-1061, 1078, 1086 due to security and stability concerns and to move on with writing a new proposal from scratch
 - key: phoenixConsensus
   title: Phoenix Rough Consensus
   date: Feb 26 2020

@@ -1,12 +1,12 @@
 -
-  key: Core-Geth
-  name: Core-Geth
+  key: CoreGeth
+  name: CoreGeth
   link: https://core-geth.org/
   guideLink: https://core-geth.org/install
   releaseLink: https://github.com/etclabscore/core-geth/releases
   supportLink: https://gitter.im/core-geth/community
   supportIcon: fab fa-gitter
-  text: Core-Geth is a distribution of go-ethereum with many flavors. For Phoenix upgrade support, please use version v1.11.0 or later.
+  text: CoreGeth is a distribution of go-ethereum with many flavors. For Phoenix upgrade support, please use version v1.11.0 or later.
 -
   key: Hyperledger Besu
   name: Hyperledger Besu
