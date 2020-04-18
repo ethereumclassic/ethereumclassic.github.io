@@ -11,6 +11,7 @@
   author: Donald McIntyre
   source: EtherPlan
   title: "Why Does Ethereum Classic Have Value?"
+  tags: ["education"]
 -
   date: 2020-04-07
   link: https://youtu.be/EGQ4d7IkDxY
@@ -31,6 +32,7 @@
   author: Donald McIntyre
   source: EtherPlan
   title: "The Bitcoin Security Model Explained"
+  tags: ["education"]
 -
   date: 2020-03-30
   link: https://blog.bitmain.com/en/bitmains-antminer-e3-firmware-update/
@@ -90,6 +92,7 @@
   author: Donald McIntyre
   source: EtherPlan
   title: "Why Proof of Work Based Nakamoto Consensus is Secure and Complete"
+  tags: ["education"]
 -
   date: 2020-03-20
   link: https://www.youtube.com/watch?v=3ONSiJdGGtU
@@ -102,6 +105,7 @@
   author: Donald McIntyre
   source: EtherPlan
   title: "Ethereum Classic Ungovernance Explained"
+  tags: ["education"]
 -
   date: 2020-03-19
   link: https://medium.com/etc-core/install-core-geth-on-linux-425f14f20e7b
@@ -172,6 +176,7 @@
   author: Donald McIntyre
   source: EtherPlan
   title: "Ethereum Classic Brand Promise, Positioning, Personality, and Communications"
+  tags: ["education"]
 -
   date: 2020-03-13
   link: https://messari.io/article/ethereum-classic-to-undergo-block-reward-reduction-amid-market-uncertainty
@@ -275,6 +280,7 @@
   author: Donald McIntyre
   source: EtherPlan
   title: "Ethereum Classic Phoenix Upgrade set for Block 10,500,839 Estimated on June 10th, 2020"
+  tags: ["education"]
 -
   date: 2020-02-26
   link: https://youtu.be/HzcJL3rVbpU
@@ -299,6 +305,7 @@
   author: Donald McIntyre
   source: EtherPlan
   title: "The Ethereum Classic Monetary Policy Explained"
+  tags: ["education"]
 -
   date: 2020-02-24
   link: https://2miners.com/blog/antminer-e3-stops-mining-ethereum-classic-just-over-a-month-remaining-for-ethereum/
@@ -389,6 +396,7 @@
   author: Donald McIntyre
   source: EtherPlan
   title: "Ethereum Classic Money, Property, and Agreements Explained"
+  tags: ["education"]
 -
   date: 2020-02-06
   link: https://heraldsheets.com/2020/02/06/ethereum-classic-etc-to-soon-have-multi-signature-support-on-guarda-wallet/
@@ -407,6 +415,7 @@
   author: Donald McIntyre
   source: EtherPlan
   title: "Ethereum Classic Aztlán and PhoenixFix Upgrades set to Activate on Block 10,500,839 Estimated on June 10th, 2020"
+  tags: ["education"]
 -
   date: 2020-02-05
   link: https://youtu.be/kqhr378Kmz8
@@ -419,6 +428,7 @@
   author: Donald McIntyre
   source: EtherPlan
   title: "The Ethereum Classic Trinity Explained"
+  tags: ["education"]
 -
   date: 2020-02-04
   link: https://youtu.be/ENGk0pb8SJA
@@ -449,6 +459,7 @@
   author: Donald McIntyre
   source: EtherPlan
   title: "Ethereum Classic Developer Call – About the Next Aztlán and Phoenix Upgrades – Feb 5, 2019"
+  tags: ["education"]
 -
   date: 2020-01-30
   link: https://digitalchamber.org/digital-finance-group-executive-committee/
@@ -461,6 +472,7 @@
   author: Donald McIntyre
   source: EtherPlan
   title: "The Ethereum Classic Ecosystem Explained"
+  tags: ["education"]
 -
   date: 2020-01-26
   link: https://www.crypto-news-flash.com/ethereum-classic-can-profit-from-ethereums-dapp-compatibility/
@@ -486,6 +498,7 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Donald McIntyre
   source: EtherPlan
   title: "The Meaning of Immutability in Ethereum Classic (ETC)"
+  tags: ["education"]
 -
   date: 2020-01-23
   link: https://medium.com/etc-core/expedition-an-open-source-explorer-for-ethereum-classic-and-ethereum-3d99452bb46
@@ -564,6 +577,7 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Donald McIntyre
   source: EtherPlan
   title: "The Logic of why Ethereum Classic will Rise 1000x in the Medium to Long Term"
+  tags: ["education"]
 -
   date: 2020-01-13
   link: https://medium.com/etc-core/agharta-hard-fork-is-successfully-activated-on-ethereum-classic-10a9bb62624e
@@ -811,12 +825,14 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Donald McIntyre
   source: EtherPlan
   title: "Backward Compatibility: What is Account Versioning in Ethereum Classic?"
+  tags: ["education"]
 -
   date: 2019-10-24
   link: https://etherplan.com/2019/10/24/the-ethereum-classic-dilemma-ethereum-parity-vs-backward-compatibility/9373/
   author: Donald McIntyre
   source: EtherPlan
   title: "The Ethereum Classic Dilemma: Ethereum Parity vs Backward Compatibility"
+  tags: ["education"]
 -
   date: 2019-10-24
   link: https://medium.com/@michaelyuan_88928/ethereum-devcon5-recap-b065310d7eb1
@@ -853,6 +869,7 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Donald McIntyre
   source: EtherPlan
   title: "In Banking Wealth is Controlled by Providers, in Blockchain Wealth is Controlled by Owners"
+  tags: ["education"]
 -
   date: 2019-10-12
   link: https://decrypt.co/10290/ethereum-classics-plan-to-seduce-ethereums-miners
@@ -901,6 +918,7 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Donald McIntyre
   source: EtherPlan
   title: "Why Proof of Stake is Less Secure Than Proof of Work"
+  tags: ["education"]
 -
   date: 2019-10-07
   link: https://coincodex.com/article/5353/top-5-coins-similar-to-ethereum/
@@ -1106,6 +1124,7 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Donald McIntyre
   source: EtherPlan
   title: "Ethereum Classic vs Ethereum 2.0, What is the Difference?"
+  tags: ["education"]
 -
   date: 2019-07-16
   link: https://medium.com/etclabscore/whats-in-atlantis-ain-t-no-code-like-an-opcode-ce557cba1cc4
@@ -1238,6 +1257,7 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Donald McIntyre
   source: EtherPlan
   title: "Why There Will Only Be 3 or 4 Surviving Blockchains in the Future"
+  tags: ["education"]
 -
   date: 2019-05-08
   link: https://usethebitcoin.com/best-ethereum-classic-wallets/
