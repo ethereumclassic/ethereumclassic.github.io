@@ -173,13 +173,6 @@
   icon: far fa-frown
   link: https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/
   text: The Flame Wars begin in subreddits. As economically-charged vitriolic spats begin to take hold of the participants as it comes to terms with the reality of the split
-- key: geth-ETC-Support
-  title: Geth Supports Ethereum Classic
-  date: Jul 27 2016
-  className: blue
-  icon: fas fa-code-branch
-  link: https://github.com/ethereumproject/go-ethereum/releases/tag/6aaf5f3
-  text: Geth releases support for Ethereum Classic network. This node has all the DAO code removed from the client and requires no additional flags to use the Ethereum classic network
 - key: ethereumClassicsupporters
   title: Ethereum Classic Supporters
   date: Jul 24 2016
@@ -187,6 +180,13 @@
   icon: fas fa-users
   link: https://www.reddit.com/r/EthereumClassic/
   text: The Ethereum Classic supporters branch off from Ethereum subreddits and form their own social channels
+- key: geth-ETC-Support
+  title: Geth Supports Ethereum Classic
+  date: Jul 27 2016
+  className: blue
+  icon: fas fa-code-branch
+  link: https://github.com/ethereumproject/go-ethereum/releases/tag/6aaf5f3
+  text: Geth releases support for Ethereum Classic network. This node has all the DAO code removed from the client and requires no additional flags to use the Ethereum classic network
 - key: parity-ETC-Support
   title: Parity Supports Ethereum Classic
   date: Jul 31 2016
