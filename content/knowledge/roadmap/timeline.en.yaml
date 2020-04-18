@@ -180,6 +180,13 @@
   icon: fas fa-users
   link: https://www.reddit.com/r/EthereumClassic/
   text: The Ethereum Classic supporters branch off from Ethereum subreddits and form their own social channels
+- key: parity-ETC-Support
+  title: Parity Supports Ethereum Classic
+  date: Jul 31 2016
+  className: blue
+  icon: fas fa-code-branch
+  link: https://github.com/openethereum/openethereum/releases/tag/v1.2.3
+  text: Parity signals long term support for Etheruem Classic with 1.2.3 release that addresses network stability issues for both Ethereum HF and Ethereum classic chains and brings a few changes to the transaction tracing API
 - key: 51Pool
   title: 51% Attack Threat
   date: Jul 31 2016
@@ -285,6 +292,13 @@
   icon: fas fa-user-ninja
   link: /blog/2017-07-23-development-boost/
   text: A development team forms under the Ethereum Commonwealth name
+- key: mantis-Launch
+  title: Mantis Launch
+  date: Aug 8 2017
+  className: blue
+  icon: fas fa-code-branch
+  link: https://iohk.io/en/blog/posts/2017/08/08/mantis-ethereum-classic-beta-release/
+  text: The release of this beta client, Mantis, will take place today and is the culmination of seven months of work by the Grothendieck Team, the IOHK developers dedicated to Ethereum Classic
 - key: etcCoop
   title: ETC Cooperative Team
   date: Sept 2017
@@ -313,6 +327,13 @@
   icon: fas fa-coins
   link: /blog/2017-12-11-gotham-hard-fork-upgrade-5m20-era2
   text:  Ethereum Classic's 5M20 emission schedule enters Era 2. Block rewards are reduced by 20% to 4 ETC per block
+- key: multi-Geth-Launch
+  title: Multi-Geth Launch
+  date: Apr 8 2018
+  className: blue
+  icon: fas fa-code-branch
+  link: https://www.reddit.com/r/EthereumClassic/comments/88y77k/multigeth_a_goethereum_client_with_support_of/
+  text: The Multi-Geth client project launches. This is a go-ethereum client forked from Ethereum Foundation's version, aimed to follow closely for upstream changes, and support multiple Ethereum networks. We have just added alpha support for Ethereum Classic network. And we're grateful if the Ethereum Classic community is interested in testing it out
 - key: defuseDifficultyBomb
   title: Defuse Difficulty Bomb
   date: Block 5,900,000
@@ -396,6 +417,13 @@
   icon: fas fa-rocket
   link: /blog/2019-10-04-mordor-testnet-launch/
   text: Core developers removed testnet redundancy by replacing Kensington, Morden, and Nazgul test networks with Mordor, an Ethash PoW testnet for protocol level testing
+- key: besu-ETC-Support
+  title: Besu Supports Ethereum Classic
+  date: Nov 12 2019
+  className: blue
+  icon: fas fa-code-branch
+  link: https://github.com/hyperledger/besu/pull/177
+  text: Hyperledger Besu adds Ethereum Classic support to their Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases
 - key: aztlanConsensus
   title: Aztlán Rough Consensus
   date: Dec 5 2019
@@ -417,13 +445,13 @@
   icon: fas fa-angle-double-up
   link: /blog/2020-01-11-agharta-hard-fork-upgrade/
   text: Jan 11 2020, Ethereum Classic core developers implement ETH's Constaninople and Petersburg network protocol upgrades to maintain operational parity with its sister chain
-- key: coreGeth
-  title: CoreGeth Launch
+- key: core-Geth-Launch
+  title: Core-Geth Launch
   date: Feb 3 2020
   className: blue
   icon: fas fa-code-branch
   link: https://github.com/etclabscore/core-geth/releases
-  text: The ETC Core team forks away from the Multi-Geth client project. The project is named CoreGeth, an ethereum/go-ethereum downstream effort to make the Ethereum Protocol accessible and extensible for a diverse ecosystem
+  text: The ETC Core team forks away from the Multi-Geth client project. The project is named Core-Geth, an ethereum/go-ethereum downstream effort to make the Ethereum Protocol accessible and extensible for a diverse ecosystem
 - key: phoenixFixConsensus
   title: Phoenix Fix Rough Consensus
   date: Feb 5 2020
