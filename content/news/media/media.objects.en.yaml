@@ -208,6 +208,7 @@
   author: EVM61 Podcast
   source: ETC Core
   title: "EVM61 #3 ETC Updates"
+  tags: ["media", "podcast"]
 -
   date: 2020-03-10
   link: https://www.youtube.com/watch?v=ZbpElXDBP4k&feature=youtu.be
@@ -274,6 +275,7 @@
   author: EVM61 Podcast
   source: ETC Core
   title: "EVM61 #2 - James Wo"
+  tags: ["media", "podcast"]
 -
   date: 2020-02-26
   link: https://etherplan.com/2020/02/26/ethereum-classic-phoenix-upgrade-set-for-block-10500839-estimated-on-june-10th-2020/10191/
@@ -318,6 +320,7 @@
   author: EVM61 Podcast
   source: ETC Core
   title: "EVM61 #1 ETC Updates"
+  tags: ["media", "podcast"]
 -
   date: 2020-02-21
   link: https://youtu.be/zSRzlC_dCx8
@@ -330,6 +333,7 @@
   author: Stevan Lohja
   source: ETC Core
   title: "EVM61 — An ETC Podcast"
+  tags: ["media", "podcast"]
 -
   date: 2020-02-20
   link: https://coincentral.com/ethereum-classic-beginners-guide/
