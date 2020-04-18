@@ -5,7 +5,7 @@ disclaimer: true
 intro: | 
   # Clients
 
-  Clients are used to sync with the Ethereum Classic network and verify blocks. Most users won't need to run a full node, but they allow those who do to trustlessly interact with the network. [Ethereum Classic Client Upgrade Instructions](https://hackmd.io/IPA7zPwpQDy-1U0reeppcQ)
+  Clients are used to sync with the Ethereum Classic network and verify blocks. Most users won't need to run a full node, but they allow those who do to trustlessly interact with the network. Ethereum Classic is scheduled for a network update in June, 2020. Here are [Ethereum Classic Client Upgrade Instructions](https://hackmd.io/IPA7zPwpQDy-1U0reeppcQ).
 releases: Releases
 support: Support
 guide: Guide
