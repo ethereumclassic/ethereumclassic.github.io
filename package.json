@@ -6,20 +6,22 @@
   "version": "0.1.0",
   "scripts": {
     "build": "GATSBY_TELEMETRY_DISABLED=1 gatsby build",
-    "develop": "SHOW_ALL_LOCALES=1 GATSBY_TELEMETRY_DISABLED=1 gatsby develop",
+    "clean": "GATSBY_TELEMETRY_DISABLED=1 gatsby clean",
+    "create:blog": "node ./scripts/create-blog",
     "develop-fast": "NO_BLOG=1 npm run develop",
     "develop-lan": "SHOW_ALL_LOCALES=1 GATSBY_TELEMETRY_DISABLED=1 gatsby develop --host=0.0.0.0",
+    "develop": "SHOW_ALL_LOCALES=1 GATSBY_TELEMETRY_DISABLED=1 gatsby develop",
+    "lint": "eslint .",
     "serve-build": "npm run build && npm run serve",
     "serve": "GATSBY_TELEMETRY_DISABLED=1 gatsby serve",
-    "start": "npm run develop",
-    "create:blog": "node ./scripts/create-blog",
-    "lint": "eslint ."
+    "start": "npm run develop"
   },
   "dependencies": {
     "@mdx-js/mdx": "^1.5.8",
     "@mdx-js/react": "^1.5.8",
     "@mdx-js/tag": "^0.20.3",
     "@reach/router": "^1.3.3",
+    "deepmerge": "^4.2.2",
     "eslint": "^6.8.0",
     "eslint-config-airbnb": "^18.1.0",
     "eslint-config-prettier": "^6.10.1",

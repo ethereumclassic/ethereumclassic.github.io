@@ -7,6 +7,7 @@
 }
 
 .button-link {
+  cursor: pointer;
   margin: 0.3rem;
   padding: 0.1rem 0.8rem;
   display: inline-block;
@@ -15,6 +16,14 @@
   border-bottom: 2px solid _palette(t-black-20);
   box-shadow: $buttonShadow;
   border-radius: $roundedTight;
+
+  &.selected {
+    background: _palette(t-black-80);
+    color: _palette(bg);
+    &:hover {
+      background: _palette(t-black-60)
+    }
+  }
 
   i.left {
     margin-left: 0;
@@ -54,12 +63,31 @@
       background: transparentize($discord, 0.60);
     }
   }
+  &.header {
+    font-weight: 400;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    font-family: '_HeaderFont';
+  }
 }
 
 .external-icon {
   margin-right: 0;
   margin-left: $microPadding;
   display: inherit;
+}
+.float-right {
+  float: right;
+}
+.float-left {
+  float: left;
+}
+.clear {
+  clear: both;
+}
+.nudge-up{
+  margin-top: -$smallPadding;
+  margin-bottom: $smallPadding;
 }
 
 .info-buttons-group {
@@ -97,4 +125,23 @@
 
 .button-group {
   margin: $largePadding 0;
+}
+
+.merged-buttons {
+  white-space: nowrap;
+  .button-link {
+    border-radius: 0;
+    margin-left: 0;
+    margin-right: 0;
+    border-right: 1px solid _palette(t-black-10);
+  }
+  .button-link:first-child {
+    border-top-left-radius: $roundedTight;
+    border-bottom-left-radius: $roundedTight;
+  }
+  .button-link:last-child {
+    border-right: 0;
+    border-top-right-radius: $roundedTight;
+    border-bottom-right-radius: $roundedTight;
+  }
 }
