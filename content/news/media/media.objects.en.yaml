@@ -4,14 +4,14 @@
   author: Stevan Lohja
   source: ETC Core
   title: "ETC TestNets Successfully Activate Phoenix, Prepare for MainNet!"
-  tags: ["announcement", "development", "team", "hardfork"]
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2020-04-13
   link: https://etccooperative.org/posts/2020-04-13-etc-cooperative-2019-retrospective-released
   author: ETC Coop
   source: Ethereum Classic Cooperative
   title: "ETC Cooperative 2019 Retrospective released"
-  tags: ["announcement", "team"]
+  tags: ["announcement", "teams"]
 -
   date: 2020-04-09
   link: https://youtu.be/OK5tVQXWmqc
@@ -39,7 +39,7 @@
   author: Stevan Lohja
   source: ETC Core
   title: "Phoenix Ethereum Classic Network Upgrade Proceeds to Accepted Status and on Schedule"
-  tags: ["announcement", "development", "team", "hardfork"]
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2020-04-05
   link: https://etherplan.com/2020/04/05/the-bitcoin-security-model-explained/10862/
@@ -67,7 +67,7 @@
   author: Associated Press
   source: Crypto Ninjas
   title: "Hyperledger Besu graduates to active project status"
-  tags: ["announcement", "development", "team"]
+  tags: ["announcement", "development", "teams"]
 -
   date: 2020-03-30
   link: https://medium.com/etc-core/how-to-contribute-to-mordor-testnet-ethereum-classic-881490bdd121
@@ -116,7 +116,7 @@
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "ETC Labs Expands Team To Further Advancements of Ethereum Classic Technology and Ecosystem"
-  tags: ["team", "annoucement"]
+  tags: ["teams", "annoucement"]
 -
   date: 2020-03-21
   link: https://etherplan.com/2020/03/21/why-proof-of-work-based-nakamoto-consensus-is-secure-and-complete/10509/
@@ -151,7 +151,7 @@
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Announcing Christian Xu, our new Asia Community Manager"
-  tags: ["announcement", "team"]
+  tags: ["announcement", "teams"]
 -
   date: 2020-03-17
   link: https://medium.com/portalnetworkofficial/integration-kaizen-x-the-graph-1a01bfe42f7c
@@ -165,7 +165,7 @@
   author: David Cox
   source: CryptoNewZ
   title: "ETC Cooperative Welcomes Elaine Ou, Craig Salm, Roy Zou As Board of Directors"
-  tags: ["announcement", "team"]
+  tags: ["announcement", "teams"]
 -
   date: 2020-03-17
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-partners-with-gitcoin-to-enable-gitcoin-bounty-posting-using-etc-5865c5eb82ae
@@ -193,7 +193,7 @@
   author: Benjamin Pirus
   source: Coin Telegraph
   title: "Gitcoin Teams Up With ETCLabs for Crypto Bounty Payments in ETC"
-  tags: ["announcement", "development", "team", "application"]
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2020-03-16
   link: https://coincodex.com/article/7338/how-to-trade-ethereum-classic-on-etoro/
@@ -228,7 +228,7 @@
   author: Digital Finance Group
   source: Bloomberg
   title: "Bloomberg Radio Interview Hosted by Carol Massar and Jason Kelly with special guest James Wo"
-  tags: ["media", "podcast", "team"]
+  tags: ["media", "podcast", "teams"]
 -
   date: 2020-03-11
   link: https://etherplan.com/2020/03/11/the-ethereum-classic-security-model-explained/10348/
@@ -256,7 +256,7 @@
   author: ETC Labs
   source: Crypto Coin Show
   title: "Blockchain Interviews - Terry Culver CEO, DFG and ETC Labs"
-  tags: ["media", "podcast", "team"]
+  tags: ["media", "podcast", "teams"]
 -
   date: 2020-03-06
   link: https://youtu.be/nZrwy5fYyVs
@@ -277,42 +277,42 @@
   author: Stevan Lohja
   source: ETC Core
   title: "Core-Geth, a distribution of go-ethereum with many flavors"
-  tags: ["announcement", "development", "team"]
+  tags: ["announcement", "development", "teams"]
 -
   date: 2020-03-03
   link: https://hub.digitalasset.com/press-release/ethereum-compatible-hyperledger-besu-now-has-enterprise-grade-daml-smart-contracts
   author: Digital Asset
   source: Hyperledger
   title: "Hyperledger Besu now has DAML Smart Contracts"
-  tags: ["announcement", "development", "team"]
+  tags: ["announcement", "development", "teams"]
 -
   date: 2020-03-02
   link: https://medium.com/etc-core/etc-core-2020-roadmap-announcement-c2166cdbc53d
   author: Stevan Lohja
   source: ETC Core
   title: "ETC Core 2020 Roadmap Announcement"
-  tags: ["announcement", "development", "team"]
+  tags: ["announcement", "development", "teams"]
 -
   date: 2020-02-28
   link: https://medium.com/second-state/second-state-awarded-a-grant-to-bring-next-gen-ethereum-infrastructure-to-polkadot-ecosystem-6545fb2267fc
   author: Vivian Hu
   source: Second State
   title: "Second State awarded a grant to bring next-gen Ethereum infrastructure to Polkadot ecosystem"
-  tags: ["announcement", "development", "team"]
+  tags: ["announcement", "development", "teams"]
 -
   date: 2020-02-27
   link: https://medium.com/ethereum-classic-labs/oracles-with-ethereum-classic-and-chainlink-15e4d1750d49
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Oracles with Ethereum Classic and Chainlink"
-  tags: ["announcement", "development", "team"]
+  tags: ["announcement", "development", "teams"]
 -
   date: 2020-02-27
   link: https://www.cryptonewsz.com/godel-labs-lends-support-to-ongoing-multi-geth-project-development-team-creation/
   author: David Cox
   source: CryptoNewZ
   title: "Gödel Labs Lends Support to Ongoing Multi-Geth Project and Development Team Creation"
-  tags: ["announcement", "development", "team"]
+  tags: ["announcement", "development", "teams"]
 -
   date: 2020-02-26
   link: https://decrypt.co/20592/coinbase-wallet-adds-support-for-ethereum-names
@@ -340,7 +340,7 @@
   author: Ethereum Classic Core Developers Call
   source: ETC Core
   title: "Core Devs Call: Phoenix Upgrade from Scratch"
-  tags: ["announcement", "development", "team", "hardfork"]
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2020-02-25
   link: https://youtu.be/ju25cWHNbWA
@@ -354,7 +354,7 @@
   author: Stevan Lohja
   source: Ethereum Classic Labs
   title: "Advisory to reject ECIP-1061 Aztlan and ECIP-1078 PhoenixFix for Ethereum Classic"
-  tags: ["announcement", "development", "team", "hardfork"]
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2020-02-25
   link: https://etherplan.com/2020/02/25/the-ethereum-classic-monetary-policy-explained/10025/
@@ -403,56 +403,56 @@
   author: Zachary Belford
   source: ETC Core
   title: "ETHDenver Hackathon Winner: MetaMask Snaps + OpenRPC = Love"
-  tags: ["team", "education", "guide", "development", "application"]
+  tags: ["teams", "education", "guide", "development", "application"]
 -
   date: 2020-02-14
   link: https://sludgefeed.com/ethereum-classic-labs-partners-with-fantom-foundation/
   author: Craig Russo
   source: Sludge Feed
   title: "Ethereum Classic Labs Partners With Fantom Foundation to Bring ETC to DeFi"
-  tags: ["announcement", "team", "development", "application"]
+  tags: ["announcement", "teams", "development", "application"]
 -
   date: 2020-02-14
   link: https://decrypt.co/19529/future-defi-ethereum-classic-makes-its-case-at-ethdenver
   author: Jeff Benson
   source: Decrypt
   title: "The future of DeFi: Ethereum Classic makes its case at ETHDenver"
-  tags: ["announcement", "team", "development", "application"]
+  tags: ["announcement", "teams", "development", "application"]
 -
   date: 2020-02-13
   link: https://medium.com/second-state/second-state-receives-another-grant-award-for-the-soll-compiler-491af2639223
   author: Vivian Hu
   source: Second State
   title: "Second State receives another grant award for the SOLL compiler"
-  tags: ["announcement", "team", "development", "application"]
+  tags: ["announcement", "teams", "development", "application"]
 -
   date: 2020-02-13
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-announces-the-evm-llvm-alpha-release-cff36d96beef
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Ethereum Classic Labs Announces the EVM-LLVM Alpha Release"
-  tags: ["announcement", "team", "development", "application"]
+  tags: ["announcement", "teams", "development", "application"]
 -
   date: 2020-02-12
   link: https://www.crypto-news-flash.com/ethereum-classic-proposes-change-in-pow-and-records-an-increase-in-active-addresses/
   author: Reynaldo
   source: Crypto News Flash
   title: "ETC Cooperative proposes change in PoW and records an increase in active addresses"
-  tags: ["announcement", "team", "development", "mining"]
+  tags: ["announcement", "teams", "development", "mining"]
 -
   date: 2020-02-10
   link: https://medium.com/ethereum-classic-labs/etc-labs-announces-collaboration-with-fantom-xar-network-fefe5d9bd1c5
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "ETC Labs Announces Collaboration with Fantom and Xar Network"
-  tags: ["announcement", "team", "development", "application"]
+  tags: ["announcement", "teams", "development", "application"]
 -
   date: 2020-02-10
   link: https://medium.com/etc-core/announcing-evm-llvm-alpha-release-the-next-level-in-smart-contract-evolution-91a2119bd442
   author: Stevan Lohja
   source: ETC Core
   title: "Announcing EVM-LLVM Alpha release — The next level in smart contract evolution!"
-  tags: ["announcement", "team", "development", "application"]
+  tags: ["announcement", "teams", "development", "application"]
 -
   date: 2020-02-08
   link: https://www.thecoinrepublic.com/2020/02/08/etc-upgrade-aztlan-is-now-in-integration-with-hyperledger-besu/
@@ -479,7 +479,7 @@
   author: Phil Lucsok
   source: Parity Technologies
   title: "Contributors Join OpenEthereum"
-  tags: ["announcement", "team", "development", "application"]
+  tags: ["announcement", "teams", "development", "application"]
 -
   date: 2020-02-05
   link: https://etherplan.com/2020/02/05/ethereum-classic-aztlan-phoenix-upgrades-set-to-activate-on-block-10500839-estimated-on-june-10th-2020/9901/
@@ -493,7 +493,7 @@
   author: Ethereum Classic Core Developers Call
   source: ETC Core
   title: "Ethereum Classic Core Devs Meeting - ECIP-1078 Phoenix Finalization"
-  tags: ["announcement", "team", "development", "hardfork"]
+  tags: ["announcement", "teams", "development", "hardfork"]
 -
   date: 2020-02-04
   link: https://etherplan.com/2020/02/04/the-ethereum-classic-trinity-explained/9845/
@@ -507,14 +507,14 @@
   author: World Crypto Conference
   source: World Crypto Conference
   title: "Do NOT miss what James Wo of ETC Labs has to share about crypto!"
-  tags: ["media", "team", "podcast"]
+  tags: ["media", "teams", "podcast"]
 -
   date: 2020-02-03
   link: https://www.svin.biz/etc-labs-cohort-2
   author: ETC Labs
   source: Silicon Valley Insider
   title: "Ethereum Classic Labs Accelerator - Cohort 2"
-  tags: ["announcement", "team", "development", "application"]
+  tags: ["announcement", "teams", "development", "application"]
 -
   date: 2020-02-02
   link: https://www.thecoinrepublic.com/2020/02/02/new-and-upcoming-updates-of-ethereum-classic-have-been-announced/
@@ -568,8 +568,8 @@
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-is-a-meta-sponsor-at-eth-denver-2020-etc-developers-supporting-interaction-dc579ae5b860
   author: ETC Labs
   source: Ethereum Classic Labs
-  title: "Ethereum Classic Labs is a Meta Sponsor at ETHDenver 2020: ETC Developers supporting interaction and mentoring the #BUIDL community"
-  tags: ["announcement", "team"]
+  title: "Ethereum Classic Labs is a Meta Sponsor at ETHDenver 2020- ETC Developers supporting interaction and mentoring the BUIDL community"
+  tags: ["announcement", "teams"]
 -
   date: 2020-01-24
   link: https://etherplan.com/2019/01/24/the-meaning-of-immutability-in-ethereum-classic-etc/7381/
@@ -583,35 +583,35 @@
   author: Stevan Lohja
   source: ETC Core
   title: "Expedition, an open-source explorer for Ethereum Classic and Ethereum"
-  tags: ["announcement", "team", "development", "application"]
+  tags: ["announcement", "teams", "development", "application"]
 -
   date: 2020-01-22
   link: https://www.forbes.com/sites/unicefusa/2020/01/22/unicef-steps-up-blockchain-investments-for-children/#71a9c5d5218f
   author: Maryanne Murray Buechner
   source: Forbes
   title: "UNICEF Steps Up Blockchain Investments for Children with Ethereum Classic Labs"
-  tags: ["announcement", "team"]
+  tags: ["announcement", "teams"]
 -
   date: 2020-01-22
   link: https://decrypt.co/17413/grayscale-investments-sees-a-future-in-ethereum-classic
   author: Nicholas Marinoff
   source: Decrypt
   title: "Grayscale Investments sees a future in Ethereum Classic"
-  tags: ["announcement", "team"]
+  tags: ["announcement", "teams"]
 -
   date: 2020-01-22
   link: https://www.theblockcrypto.com/linked/53754/grayscale-commits-two-more-years-of-funding-to-the-ethereum-classic-cooperative
   author: Yilun Cheng
   source: The Block
   title: "Grayscale extends support to the Ethereum Classic Cooperative"
-  tags: ["announcement", "team"]
+  tags: ["announcement", "teams"]
 -
   date: 2020-01-21
   link: https://medium.com/etc-core/etc-core-quarterly-development-review-q4-2019-553bd2e0e1ad
   author: Stevan Lohja
   source: ETC Core
   title: "ETC Core — Quarterly Development Review Q4, 2019"
-  tags: ["announcement", "team", "development", "application"]
+  tags: ["announcement", "teams", "development", "application"]
 -
   date: 2020-01-21
   link: https://decrypt.co/resources/what-is-ethereum-classic-explained-guide-cryptocurrency
@@ -625,14 +625,14 @@
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "The Evolution of investment in ETC and the need for secure Crypto Custody"
-  tags: ["announcement", "team"]
+  tags: ["announcement", "teams"]
 -
   date: 2020-01-17
   link: https://cheddar.com/media/ethereum-classic-labs-donates-million-to-unicef-for-blockchain-initiatives
   author: Kirsten Scholer and Tim Stenovec
   source: Cheddar
   title: "Ethereum Classic Labs Donates $1 Million to UNICEF for Blockchain Initiatives"
-  tags: ["announcement", "team"]
+  tags: ["announcement", "teams"]
 -
   date: 2020-01-15
   link: https://www.thestreet.com/investing/cryptocurrency/cryptocurrency-in-focus-ethereum-classic-arms-itself-with-hard-fork
@@ -646,7 +646,7 @@
   author: Rob Logan
   source: Financial Report 24
   title: "Why Did Ethereum Classic Cooperative Warn the Public About the Possible Hard Fork Scam?"
-  tags: ["education", "team"]
+  tags: ["education", "teams"]
 -
   date: 2020-01-14
   link: https://www.nasdaq.com/articles/regtech-is-ready-for-a-breakthrough-in-latin-america-2020-01-14
@@ -667,7 +667,7 @@
   author: Stevan Lohja
   source: ETC Core
   title: "Agharta hard-fork is successfully activated on Ethereum Classic"
-  tags: ["hardfork", "annoucement", "development", ""team"]
+  tags: ["hardfork", "annoucement", "development", ""teams"]
 -
   date: 2020-01-12
   link: https://youtu.be/2lYP1EOdGEQ
@@ -681,7 +681,7 @@
   author: Yaz Khoury
   source: Ethereum Classic Cooperative
   title: "Vyper and Brownie Contract Development on EVM Chains"
-  tags: ["education", "guide", "team"]
+  tags: ["education", "guide", "teams"]
 -
   date: 2020-01-02
   link: https://captainaltcoin.com/best-ethereum-classic-etc-wallets/
