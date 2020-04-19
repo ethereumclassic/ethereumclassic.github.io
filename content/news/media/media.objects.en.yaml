@@ -347,7 +347,7 @@
   author: FINANCIALFREEDOMCJ
   source: Ethereum Classic's ECIP1017 - 5M20
   title: "Ethereum Classic (ETC) Block Reward reduction happening soon!! Are you ready??"
-   tags: ["announcement", "mining", "education"] 
+  tags: ["announcement", "mining", "education"] 
 -
   date: 2020-02-25
   link: https://medium.com/ethereum-classic-labs/advisory-to-reject-ecip-1061-aztlan-and-ecip-1078-phoenixfix-for-ethereum-classic-28df21a206c
@@ -667,14 +667,14 @@
   author: Stevan Lohja
   source: ETC Core
   title: "Agharta hard-fork is successfully activated on Ethereum Classic"
-  tags: ["hardfork", "annoucement", "development", ""teams"]
+  tags: ["hardfork", "annoucement", "development", "teams"]
 -
   date: 2020-01-12
   link: https://youtu.be/2lYP1EOdGEQ
   author: ETC Core
   source: Ethereum Classic Core
   title: "Agharta Hard-Fork Countdown [01-12-2020]"
-  tags: ["hardfork", "annoucement", ""development"]
+  tags: ["hardfork", "annoucement", "development"]
 -
   date: 2020-01-10
   link: https://medium.com/ethereum-classic/vyper-and-brownie-contract-development-on-evm-chains-85ba7fa2feef
