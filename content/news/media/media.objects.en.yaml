@@ -1,4 +1,18 @@
 -
+  date: 2020-04-15
+  link: https://medium.com/etc-core/etc-testnets-successfully-activate-phoenix-prepare-for-mainnet-4aee3818d8d7
+  author: Stevan Lohja
+  source: ETC Core
+  title: "ETC TestNets Successfully Activate Phoenix, Prepare for MainNet!"
+  tags: ["announcement", "development", "teams", "hardfork"]
+-
+  date: 2020-04-13
+  link: https://etccooperative.org/posts/2020-04-13-etc-cooperative-2019-retrospective-released
+  author: ETC Coop
+  source: Ethereum Classic Cooperative
+  title: "ETC Cooperative 2019 Retrospective released"
+  tags: ["announcement", "teams"]
+-
   date: 2020-04-09
   link: https://youtu.be/OK5tVQXWmqc
   author: EVM61 Podcast
@@ -31,6 +45,13 @@
   author: Donald McIntyre
   source: EtherPlan
   title: "The Bitcoin Security Model Explained"
+-
+  date: 2020-03-31
+  link: https://www.financemagnates.com/cryptocurrency/exchange/bitstamp-explores-support-for-seven-more-cryptocurrencies/
+  author: Aziz Abdel-Qader
+  source: Finance Magnates
+  title: "Bitstamp Explores Support for Seven More Cryptocurrencies"
+  tags: ["announcement", "application"]
 -
   date: 2020-03-30
   link: https://blog.bitmain.com/en/bitmains-antminer-e3-firmware-update/
@@ -71,6 +92,13 @@
   author: Nicholas Marinoff
   source: Decrypt
   title: "Ethereum Classic steady after block reward reduction"
+-
+  date: 2020-03-25
+  link: https://research.binance.com/projects/ethereum-classic
+  author: Binance Research
+  source: Binance
+  title: "Ethereum Classic (ETC): A Next-Generation Smart Contract and Decentralized Application Platform."
+  tags: ["education"]
 -
   date: 2020-03-24
   link: https://coincodex.com/article/7481/how-to-trade-ethereum-classic-on-bittrex/
@@ -478,8 +506,7 @@
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-is-a-meta-sponsor-at-eth-denver-2020-etc-developers-supporting-interaction-dc579ae5b860
   author: ETC Labs
   source: Ethereum Classic Labs
-  title: "Ethereum Classic Labs is a Meta Sponsor at ETHDenver 2020:
-ETC Developers supporting interaction and mentoring the #BUIDL community"
+  title: "Ethereum Classic Labs is a Meta Sponsor at ETHDenver 2020- ETC Developers supporting interaction and mentoring the BUIDL community"
 -
   date: 2020-01-24
   link: https://etherplan.com/2019/01/24/the-meaning-of-immutability-in-ethereum-classic-etc/7381/
@@ -570,12 +597,6 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Stevan Lohja
   source: ETC Core
   title: "Agharta hard-fork is successfully activated on Ethereum Classic"
--
-  date: 2020-01-12
-  link: https://azcoinnews.com/ethereum-classics-agharta-upgrade-completed.html
-  author: AymT
-  source: AZCoin News
-  title: "Ethereum Classic’s Agharta Upgrade Completed"
 -
   date: 2020-01-12
   link: https://youtu.be/2lYP1EOdGEQ
@@ -2645,6 +2666,13 @@ ETC Developers supporting interaction and mentoring the #BUIDL community"
   author: Kevin Gao
   source: Seeking Alpha
   title: "The Cryptocurrency Funds Have Arrived, And They're Bringing Wall Street Money"
+-
+  date: 2017-03-03
+  link: https://www.coindesk.com/beyond-immutability-ethereum-classic-maps-way-forward?utm_source=dlvr.it&utm_medium=twitter
+  author: Alyssa Hertig
+  source: CoinDesk
+  title: "Beyond Immutability: Ethereum Classic Maps a Way Forward"
+  tags: ["education"]
 -
   date: 2017-02-15
   link: http://coinjournal.net/upcoming-ethereum-classic-hackathon-aims-foster-blockchain-development-china/
