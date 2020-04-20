@@ -3456,40 +3456,46 @@
   author: Gustav Simonsson
   source: Ethereum Foundation
   title: "An Analysis of the First 100000 Blocks"
+  tags: ["education"]
 -
   date: 2015-08-04
   link: https://blog.ethereum.org/2015/08/04/ethereum-protocol-update-1/
   author: Stephan Tual
   source: Ethereum Foundation
   title: "Ethereum Protocol Update 1"
+  tags: ["announcement", "development", "teams", "education", "mining", "hardfork"]
 -
   date: 2015-08-04
   link: https://blog.ethereum.org/2015/08/04/the-thawing-frontier/
   author: Stephan Tual
   source: Ethereum Foundation
   title: "The Thawing Frontier"
+  tags: ["development", "teams", "education", "mining", "hardfork"]
 -
   date: 2015-07-30
   link: https://blog.ethereum.org/2015/07/30/ethereum-launches/
   author: Stephan Tual
   source: Ethereum Foundation
   title: "Ethereum Launches"
+  tags: ["announcement", "development", "teams", "education", "mining", "hardfork"]
 -
   date: 2015-07-30
   link: https://blog.ethereum.org/2015/07/30/a-few-last-minute-notes/
   author: Stephan Tual
   source: Ethereum Foundation
   title: "A few last minute notes…"
+  tags: ["development", "teams", "education", "mining"]
 -
   date: 2015-07-27
   link: https://blog.ethereum.org/2015/07/27/final-steps/
   author: Stephan Tual
   source: Ethereum Foundation
   title: "Final Steps"
+  tags: ["development", "teams", "education", "mining"]
 -
   date: 2015-07-22
   link: https://blog.ethereum.org/2015/07/22/frontier-is-coming-what-to-expect-and-how-to-prepare/
   author: Stephan Tual
   source: Ethereum Foundation
   title: "Frontier is coming – what to expect, and how to prepare"
-  tags: ["development"]
+  tags: ["announcement", "development", "teams", "education", "mining"]
