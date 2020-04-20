@@ -1418,18 +1418,21 @@
   author: Stevan Lohja
   source: ETC Core
   title: "What’s in Atlantis? EIP-161 (State-trie clearing ) — A simplified explanation."
+  tags: ["education", "hardfork"]
 -
   date: 2019-05-21
   link: https://medium.com/@pyskell/understanding-and-mitigating-re-orgs-921c7768fa18
   author: Anthony Lusardi
   source: Medium
   title: "Understanding (and Mitigating) Re-Orgs"
+  tags: ["education"]
 -
   date: 2019-05-20
   link: https://medium.com/@antsankov/the-what-why-and-how-of-astor-testnet-e7366ba2a730
   author: Alexander Tsankov
   source: Medium
   title: "The What, Why, and How, of Astor Testnet"
+  tags: ["announcement", "development", "education", "mining"]
 -
   date: 2019-05-17
   link: https://etherplan.com/2019/05/17/why-there-will-only-be-3-or-4-surviving-blockchains-in-the-future/7603/
@@ -1443,24 +1446,28 @@
   author: Cole Meiterman
   source: Use The Bitocin
   title: "Best Ethereum Classic (ETC) Wallets Of 2019 - What Are The Safest Wallets To Store ETC"
+  tags: ["education", "application"]
 -
   date: 2019-05-06
   link: https://medium.com/ethereum-classic-labs/summer-in-the-labs-1-48a27506c21c
   author: Hiccups
   source: Ethereum Classic Labs
   title: "Summer in the Labs — #1"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-05-06
   link: https://medium.com/ethereum-classic/quantifying-immutability-e8f2b1bb9301
   author: Yaz Khoury
   source: Ethereum Classic Cooperative
   title: "Quantifying Immutability"
+  tags: ["education"]
 -
   date: 2019-04-25
   link: https://cryptodaily.co.uk/2019/04/updates-ethereum-classic-network-developer
   author: Robert Johnson
   source: Crypto Daily
   title: "Updates On Ethereum Classic Network Revealed By Developer"
+  tags: ["hardfork", "development", "teams", "application"]
 -
   date: 2019-04-23
   link: https://medium.com/etclabscore/monthly-dev-update-3-q1-core-development-review-862e285599bd
