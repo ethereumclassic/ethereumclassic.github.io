@@ -1467,43 +1467,49 @@
   author: Robert Johnson
   source: Crypto Daily
   title: "Updates On Ethereum Classic Network Revealed By Developer"
-  tags: ["hardfork", "development", "teams", "application"]
+  tags: ["hardfork", "development"]
 -
   date: 2019-04-23
   link: https://medium.com/etclabscore/monthly-dev-update-3-q1-core-development-review-862e285599bd
   author: Stevan Lohja
   source: ETC Core
   title: "Monthly Dev Update #3 | Q1 Core Development Review"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-04-17
   link: https://www.cryptoninjas.net/2019/04/17/paybito-cryptocurrency-exchange-adds-ethereum-classic-etc/
   author: Associated Press
   source: Crypto Ninjas
   title: "PayBito cryptocurrency exchange adds Ethereum Classic (ETC)"
+  tags: ["announcement", "application"]
 -
   date: 2019-04-15
   link: https://medium.com/ethereum-classic-labs/debunking-blockchain-security-an-etc-labs-event-a1aca156c179
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Debunking Blockchain Security — an ETC Labs Event"
+  tags: ["education"]
 -
   date: 2019-04-15
   link: https://medium.com/ethereum-classic-labs/this-week-in-the-labs-april-15th-47c242531ea7
   author: Hiccups
   source: Ethereum Classic Labs
   title: "This Week in the Labs: April 15th"
+  tags: ["development", "teams", "application"]
 -
   date: 2019-04-11
   link: https://medium.com/ethereum-classic/etc-wanted-dev-or-alive-2581a5079aa1
   author: Yaz Khoury
   source: Ethereum Classic Cooperative
   title: "ETC: Wanted, Dev or Alive"
+  tags: ["teams"]
 -
   date: 2019-04-08
   link: https://medium.com/ethereum-classic-labs/the-emerald-city-of-changsha-42f6ccdb0c52
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "The Emerald City of Changsha"
+  tags: ["announcement", "teams"]
 -
   date: 2019-03-29
   link: https://medium.com/ethereum-classic-labs/etc-labs-presents-anylog-ea47050d04fe
