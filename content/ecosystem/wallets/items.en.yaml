@@ -184,14 +184,14 @@
   link: https://trustwallet.com/
   type: extension
 -
-  key: ZenGo
-  name: ZenGo
-  link: https://zengo.com/
-  type: software
--
   key: Zelcore Wallet
   name: Zelcore Wallet
   link: https://zel.network/project/zelcore/
+  type: software
+-
+  key: ZenGo
+  name: ZenGo
+  link: https://zengo.com/
   type: software
 -
   key: BillFodl
