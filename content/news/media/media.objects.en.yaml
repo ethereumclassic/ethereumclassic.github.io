@@ -1264,18 +1264,21 @@
   author: Stevan Lohja
   source: ETC Core
   title: "Ethereum Classic Labs Core — Quarterly Development Review Q2, 2019"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-07-25
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-devs4devs-jade-suite-overview-and-workshop-143825355
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Ethereum Classic Labs Devs4Devs: Jade Suite Overview and Workshop"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-07-23
   link: https://medium.com/etclabscore/ethereum-classic-introduction-to-pristine-an-open-standard-and-template-for-open-source-6c0afa757c98
   author: Stevan Lohja
   source: ETC Core
   title: "Ethereum Classic: Introduction to Pristine — An open standard and template for open-source projects."
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-07-23
   link: https://etherplan.com/2019/07/23/ethereum-classic-vs-ethereum-2-0-what-is-the-difference/8425/
@@ -1289,24 +1292,28 @@
   author: Stevan Lohja
   source: ETC Core
   title: "What’s in the Ethereum Classic Atlantis Hard Fork? Ain’t no code like an opcode"
+  tags: ["hardfork", "education"]
 -
   date: 2019-07-09
   link: https://medium.com/etclabscore/ethereum-classic-jade-suite-are-enabling-truly-p2p-decentralized-applications-b4c9cbcdb91
   author: Stevan Lohja
   source: ETC Core
   title: "Ethereum Classic and Jade Suite are Enabling Truly P2P Decentralized Applications"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-07-01
   link: https://medium.com/ethereum-classic/ethercluster-an-open-source-alternative-to-infura-b8799b2122d3
   author: Yaz Khoury
   source: Ethercluster
   title: "Ethercluster: An Open-Source Alternative to Infura"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-06-28
   link: https://finance.yahoo.com/news/discovering-atlantis-ethereum-classic-hard-193700431.html
   author: Valeria Beasrow
   source: Coin Telegraph
   title: "Discovering Atlantis: Ethereum Classic Hard Fork and What Will Change"
+  tags: ["education", "hardfork"]
 -
   date: 2019-06-27
   link: https://blockchainreporter.net/2019/06/27/ethereum-news-opera-ios/
