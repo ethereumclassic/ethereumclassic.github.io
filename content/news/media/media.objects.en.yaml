@@ -340,7 +340,7 @@
   author: Ethereum Classic Core Developers Call
   source: ETC Core
   title: "Core Devs Call: Phoenix Upgrade from Scratch"
-  tags: ["announcement", "development", "teams", "hardfork"]
+  tags: ["announcement", "development", "teams", "hardfork", "media"]
 -
   date: 2020-02-25
   link: https://youtu.be/ju25cWHNbWA
@@ -459,6 +459,7 @@
   author: Ritka Sharma
   source: The Coin Republic
   title: "ETC Upgrade Aztlan Is Now In Integration With Hyperledger Besu"
+  tags: ["announcement", "teams", "development", "hardfork"]
 -
   date: 2020-02-06
   link: https://etherplan.com/2020/02/06/ethereum-classic-money-property-agreements-explained/9965/
@@ -542,6 +543,7 @@
   author: Marie Knowles
   source: Chamber of Digital Commerce
   title: "Digital Finance Group Joins Chamber of Digital Commerce Executive Committee"
+  tags: ["announcement", "teams"]
 -
   date: 2020-01-28
   link: https://etherplan.com/2020/01/28/the-ethereum-classic-ecosystem-explained/9680/
@@ -667,14 +669,14 @@
   author: Stevan Lohja
   source: ETC Core
   title: "Agharta hard-fork is successfully activated on Ethereum Classic"
-  tags: ["hardfork", "announcement", "development", "teams"]
+  tags: ["announcement", "teams", "development", "hardfork"]
 -
   date: 2020-01-12
   link: https://youtu.be/2lYP1EOdGEQ
   author: ETC Core
   source: Ethereum Classic Core
   title: "Agharta Hard-Fork Countdown [01-12-2020]"
-  tags: ["hardfork", "announcement", "development"]
+  tags: ["announcement", "teams", "development"]
 -
   date: 2020-01-10
   link: https://medium.com/ethereum-classic/vyper-and-brownie-contract-development-on-evm-chains-85ba7fa2feef
@@ -694,110 +696,127 @@
   link: https://www.cryptoglobe.com/latest/2019/12/ethereum-nodes-randomly-stop-syncing-as-parity-warns-of-potential-attack/
   author: Francisco Memoria
   source: Crypto Globe
-  title: "Some Parity Ethereum Nodes Not Syncing, Parity Suspects an Attack"
+  title: "Some ParityEthereum Nodes Not Syncing, Parity Suspects an Attack"
+  tags: ["announcement", "teams", "development"]
 -
   date: 2019-12-27
   link: https://youtu.be/Svp-eWnqf_g
   author: Ethereum Classic Core Developers Call
   source: ETC Core
   title: "Ethereum Classic Core Devs Meeting - Gas Limit Reduction"
+  tags: ["announcement", "teams", "development", "media"]
 -
   date: 2019-12-26
   link: https://www.coindesk.com/the-ethereum-community-is-no-longer-fighting-with-itself
   author: Bob Summerwill
   source: Coin Desk
   title: "The Ethereum Community Is No Longer Fighting With Itself"
+  tags: ["announcement", teams"]
 -
   date: 2019-12-26
   link: https://cointelegraph.com/news/agharta-hard-fork-to-bring-full-compatibility-between-etc-and-eth
   author: Joeri Cant
   source: Coin Telegraph
   title: "Agharta Hard Fork to bring Full Compatibility Between ETC and ETH"
-  tags: ["hardfork", "announcement"]
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2019-12-26
   link: https://eng.ambcrypto.com/ethereum-classics-agharta-hard-fork-to-signal-compatibility-with-ethereum/
   author: Sahana Kiran
   source: AMB Crypto
   title: "Ethereum Classic’s Agharta hardfork to signal compatibility with Ethereum"
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2019-12-23
   link: https://medium.com/@constantp2p/constant-etc-ama-recap-94095ff87f07
   author: Constant P2P
   source: Ethereum Classic Labs
   title: "Constant P2P and ETC Labs AMA Recap"
+  tags: ["teams"]
 -
   date: 2019-12-20
   link: https://cryptobriefing.com/parity-confirms-departure-ethereum-move-dao/
   author: Liam Kelly
   source: Crypto Briefing
   title: "Parity Confirms Departure from Ethereum Following Move to DAO"
+  tags: ["announcement", "development", "teams"]
 -
   date: 2019-12-17
   link: https://cryptodaily.co.uk/2019/12/ethereum-classic-teams-rebrand-for-clarity
   author: Adrian Barkley
   source: Crypto Daily
   title: "Ethereum Classic Labs Core Team Rebrands to ETC Core For Clarity"
+  tags: ["announcement", "development", "teams"]
 -
   date: 2019-12-12
   link: https://youtu.be/vipvH21tXgc
   author: Ethereum Classic Core Developers Call
   source: ETC Core
   title: "Ethereum Classic Core Devs Meeting - Agharta hard fork finalization"
+  tags: ["announcement", "development", "teams", "hardfork", "media"]
 -
   date: 2019-12-12
   link: https://medium.com/@ETCConsortium/etc-consortium-huobi-etc-airdrop-for-etc-community-only-d4f08ace3120
   author: ETCC
   source: Ethereum Classic Consortium
   title: "ETC Consortium and Huobi: ETC giveaway for ETC Community ONLY!"
+  tags: ["announcement", "teams"]
 -
   date: 2019-12-12
   link: https://medium.com/etc-core/ethereum-classic-agharta-hard-fork-finalization-c4298b4d5603
   author: Stevan Lohja
   source: ETC Core
   title: "Ethereum Classic Agharta hard-fork finalization"
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2019-12-10
   link: https://medium.com/@yazanator/agharta-finalization-core-devs-call-a058d008a743
   author: Yaz Khoury
   source: Ethereum Classic Cooperative
   title: "Agharta Finalization Core Devs Call"
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2019-12-09
   link: https://medium.com/ethereum-classic-labs/highlights-from-ethereum-classic-labs-keynote-and-accelerator-updates-5aecd7a5d9b4
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Highlights from Ethereum Classic Labs Keynote and Accelerator Updates"
+  tags: ["announcement", "teams"]
 -
   date: 2019-12-04
   link: https://www.saturn.network/blog/what-is-a-full-node/
   author: Sam
   source: Saturn Network
   title: "What is a full node?"
+  tags: ["education"]
 -
   date: 2019-12-04
   link: https://medium.com/classic-is-coming/psa-etc-core-dev-call-short-reconfirm-or-establish-new-rough-consensus-on-aztl%C3%A1n-proposal-ffad28b2cde8
   author: Classic Is Coming
   source: Classic Is Coming
   title: "PSA- ETC Core Dev Call - Confirm New Consensus for Aztlán Network Upgrade ECIP-1061"
+  tags: ["announcement", "development", "teams", "hardfork", "media"]
 -
   date: 2019-11-30
   link: https://www.namecoinnews.com/p3c-io-set-to-be-renamed-to-commonwealth-gg-by-next-year/
   author: Sara Gillard
   source: Namecoin News
   title: "P3C.io Set to Be Renamed to Commonwealth.gg by Next Year"
+  tags: ["announcement", "teams"]
 -
   date: 2019-11-28
   link: https://www.youtube.com/watch?v=7mmQHtUxdqU
   author: James Wo
   source: Crypto Coin Show
   title: "Blockchain Interviews - James Wo, Founder and Chairman of ETC Labs"
+  tags: ["teams", "media"]
 -
   date: 2019-11-27
   link: https://www.newsbtc.com/2019/11/27/another-ewallet-adds-further-crypto-support-but-are-efforts-like-skrills-missing-the-point/
   author: Rick Delafont
   source: News BTC
   title: "Another eWallet Adds Further Crypto Support, But Are Efforts Like Skrill’s Missing the Point?"
+  tags: ["announcement", "development", "application"]
 -
   date: 2019-11-26
   link: https://youtu.be/sPa6XcuYdIw
