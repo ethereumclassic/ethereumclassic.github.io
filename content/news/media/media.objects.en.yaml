@@ -3408,48 +3408,56 @@
   author: Parity Tech
   source: Parity Technologies
   title: "Performance Analysis"
+  tags: ["development", "teams", "application", "education"]
 -
   date: 2016-01-07
   link: https://blog.ethereum.org/2016/01/07/2394/
   author: Vitalik Buterin
   source: Ethereum Foundation
   title: "Ethereum Foundation Internal Update"
+  tags: ["development", "teams", "education"]
 -
   date: 2015-11-02
   link: https://blog.ethereum.org/2015/11/02/ethereum-dev-update-2015-week-44/
   author: Vitalik Buterin
   source: Ethereum Foundation
   title: "Ethereum Dev Update 2015 / Week 44"
+  tags: ["development", "teams", "education"]
 -
   date: 2015-10-18
   link: https://blog.ethereum.org/2015/10/18/vitaliks-research-and-ecosystem-update/
   author: Vitalik Buterin
   source: Ethereum Foundation
   title: "Vitalik’s Research and Ecosystem Update"
+  tags: ["development", "teams", "education"]
 -
   date: 2015-10-13
   link: https://blog.ethereum.org/2015/10/13/ethereum-dev-update-2015-week-41/
   author: Vitalik Buterin
   source: Ethereum Foundation
   title: "Ethereum Dev Update 2015 / Week 41"
+  tags: ["development", "teams", "application", "education"]
 -
   date: 2015-09-28
   link: https://blog.ethereum.org/2015/09/28/the-evolution-of-ethereum/
   author: Vitalik Buterin
   source: Ethereum Foundation
   title: "The Evolution of Ethereum"
+  tags: ["education"]
 -
   date: 2015-09-25
   link: https://blog.ethereum.org/2015/09/25/more-uncle-statistics/
   author: Vitalik Buterin
   source: Ethereum Foundation
   title: "More uncle statistics"
+  tags: ["education"]
 -
   date: 2015-09-16
   link: https://blog.ethereum.org/2015/09/16/ethereum-wallet-developer-preview/
   author: Fabian Vogelsteller
   source: Ethereum Foundation
   title: "Ethereum Wallet – Developer Preview"
+  tags: ["announcement", "development", "teams", "education", "application", "mining"]
 -
   date: 2015-08-18
   link: https://blog.ethereum.org/2015/08/18/frontier-first-100k-blocks/
