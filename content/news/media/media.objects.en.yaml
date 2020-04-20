@@ -1320,84 +1320,98 @@
   author: Ogwu Emmanuel
   source: Blockchain Reporter
   title: "Ethereum News: Opera Brings Built In Wallet in Browser to iOS"
+  tags: ["announcement", "application"]
 -
   date: 2019-06-25
   link: https://www.investopedia.com/news/4-blockchain-contenders-competition-ethereum/
   author: Joe Liebkind
   source: Investopedia
   title: "4 Blockchain Contenders in Competition with Ethereum"
+  tags: ["education"]
 -
   date: 2019-06-26
   link: https://www.businesswire.com/news/home/20190626005869/en/Metronome-Delivers-World%E2%80%99s-Cross-Blockchain-Transfer-Capability
   author: Metronome
   source: Business Wire
   title: "Metronome Delivers World’s First Cross-Blockchain Transfer Capability"
+  tags: ["announcement", "application"]
 -
   date: 2019-06-20
   link: https://medium.com/ethereum-classic-labs/jade-service-runner-f63e14c1b81b
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Jade Service Runner: A Bridge for Decentralized Service Development"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-06-20
   link: https://www.coindesk.com/ethereum-classics-next-crypto-code-upgrade-is-back-on-for-september
   author: Christine Kim
   source: Coin Desk
   title: "Ethereum Classic’s Next Crypto Code Upgrade Set for September"
+  tags: ["announcement", "development", "hardfork"]
 -
   date: 2019-06-18
   link: https://medium.com/etclabscore/whats-in-atlantis-eip196-eip197-precompiled-contracts-and-zksnark-8c1cfec7d3f9
   author: Stevan Lohja
   source: ETC Core
   title: "What’s in Atlantis? EIP196/EIP197 (Precompiled contracts and zkSNARK)"
+  tags: ["education", "hardfork"]
 -
   date: 2019-06-17
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-sees-unprecedented-momentum-and-growth-358600d7272a
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Ethereum Classic sees Unprecedented Momentum and Growth"
+  tags: ["teams"]
 -
   date: 2019-06-15
   link: https://medium.com/@antsankov/pt-3-ecip-1049-mining-your-internet-connection-why-ethereum-classic-should-adopt-sha3-71ac74a94868
   author: Alexander Tsankov
   source: Medium
   title: "(pt. 3) ECIP-1049: Mining Your Internet Connection. Why Ethereum Classic should Adopt SHA3."
+  tags: ["education", "development", "mining"]
 -
   date: 2019-06-11
   link: https://medium.com/ethereum-classic-labs/announcement-on-the-etc-atlantis-hard-fork-3742974f5363
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Announcement on the ETC Atlantis Hard Fork"
+  tags: ["announcement", "development", "teams", "mining"]
 -
   date: 2019-06-11
   link: https://medium.com/etclabscore/using-openrpc-mock-server-to-test-against-an-ethereum-json-rpc-api-50b86b6d02d6
   author: Stevan Lohja
   source: ETC Core
   title: "Using OpenRPC Mock Server to test against an Ethereum JSON-RPC API"
+  tags: ["education", "guide", "application"]
 -
   date: 2019-06-11
   link: https://cryptodaily.co.uk/2019/06/ethereum-classic-atlantis-upgrade-to-start-testing-this-month
   author: Robert Johnson
   source: Crypto Daily
   title: "Ethereum Classic’s Atlantis Upgrade To Start Testing This Month"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-06-10
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-atlantis-upgrade-on-schedule-55d28463976b
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Ethereum Classic Atlantis Upgrade on Schedule"
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2019-06-05
   link: https://medium.com/etclabscore/whats-in-atlantis-eip-170-contract-code-size-limit-af9858b6ed66
   author: Stevan Lohja
   source: ETC Core
   title: "What’s in Atlantis? EIP-170 (Contract Code Size Limit)"
+  tags: ["education", "hardfork"]
 -
   date: 2019-06-03
   link: https://medium.com/ethereum-classic-labs/etc-labs-upgrades-ethereum-classic-to-expand-functionality-and-improve-compatability-with-ethereum-e2ac7d9aad93
   author: ETC Labs
   source: Ethereum Classic Labs
-  title: "ETHEREUM CLASSIC TO EXPAND FUNCTIONALITY AND IMPROVE COMPATIBILITY WITH ETHEREUM"
+  title: "Ethereum Classic to Expand Functionality and Improve Compatibility with Ethereum"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-05-31
   link: https://medium.com/etclabscore/eip-161-state-trie-clearing-a-simplified-explanation-c1aca3e18000
