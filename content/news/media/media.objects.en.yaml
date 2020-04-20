@@ -1761,126 +1761,147 @@
   author: Bob Summerwill
   source: Ethereum Classic Cooperative
   title: "AMA with Bob Summerwill and the ETC Cooperative"
+  tags: ["teams"]
 -
   date: 2019-01-29
   link: https://medium.com/ethereum-classic/welcome-bob-summerwill-to-the-etc-cooperative-baf16c85203
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "Welcome Bob Summerwill to the ETC Cooperative"
+  tags: ["announcement", "teams"]
 -
   date: 2019-01-29
   link: https://cryptobriefing.com/ethereum-51-percent-attack-myth/
   author: Clark Thompson
   source: Crypto Briefing
   title: "Ethereum Myth Busted: Apples To Oranges On 51 Percent Attacks"
+  tags: ["mining", "education"]
 -
   date: 2019-01-27
   link: https://cryptodaily.co.uk/2019/01/etc-51-attack-a-call-for-security-models
   author: Robert Johnson
   source: Crypto Daily
   title: "Is The ETC 51% Attack A Call For New Security Models"
+  tags: ["education", "mining"]
 -
   date: 2019-01-25
   link: https://medium.com/@gtrphyro/making-51-attacks-harder-a192be3be1c1
   author: Phyro
   source: Medium
   title: "Making 51% attacks harder"
+  tags: ["education", "mining"]
 -
   date: 2019-01-16
   link: https://cryptodaily.co.uk/2019/01/cryptocurrency-cant-be-51-attacked
   author: Kyle Torpey
   source: Crypto Daily
   title: "If A Cryptocurrency Can’t Be 51% Attacked, Then It Isn’t Decentralized"
+  tags: ["mining", "education"]
 -
   date: 2019-01-14
   link: https://www.coindesk.com/the-ethereum-classic-attacker-has-sent-a-bigger-message
   author: Micheal J. Casey
   source: Coin Desk
   title: "The Ethereum Classic Attacker Has Sent a Bigger Message"
+  tags: ["education", "mining"]
 -
   date: 2019-01-14
   link: https://cryptodaily.co.uk/2019/01/100k-of-etc-hack-returned-to-exchange
   author: Adrian Barkley
   source: Crypto Daily
   title: "$100k Of ETC 51 Percent Hack Returned To Exchange"
+  tags: ["education", "mining"]
 -
   date: 2019-01-14
   link: https://medium.com/etclabscore/introducing-etc-labs-core-an-etc-core-development-team-c46413c1ab50
   author: Stevan Lohja
   source: ETC Core
   title: "Introducing ETC Labs Core — An ETC Core Development Team"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-01-12
   link: https://medium.com/@Linzhi/asics-and-51-achieving-mining-dominance-how-cost-advantage-drives-centralisation-cf28166d3d2a
   author: Linzhi Shenzhen
   source: Linzhi Corp
   title: "ASICs and 51% — Achieving Mining Dominance. How cost advantage drives centralisation."
+  tags: ["education", "development", "mining"]
 -
   date: 2019-01-11
   link: https://www.coindesk.com/grayscale-ethereum-classic-investment-trust-51-percent-attack-etc-etcg
   author: Marc Hochstein
   source: Coin Desk
   title: "Grayscale Assures Investors: Ethereum Classic Trust Funds Not at ‘Direct Risk’"
+  tags: ["announcement", "teams", "education", "mining"]
 -
   date: 2019-01-11
   link: https://medium.com/ethereum-classic/51-attacks-arent-a-network-failure-81a7e197bfd9
   author: Phyro
   source: Medium
   title: "51% attacks aren’t a network failure"
+  tags: ["education", "mining"]
 -
   date: 2020-01-10
   link: https://medium.com/ethereum-classic/ethereum-classic-on-raspberry-pi-a3be200cdca0
   author: Yaz Khoury
   source: Ethereum Classic Cooperative
   title: "Ethereum Classic on Raspberry Pi"
+  tags: ["education", "guide"]
 -
   date: 2019-01-10
   link: https://cryptodaily.co.uk/2019/01/truth-about-ethereum-classic-hack
   author: Mark Nezvisky
   source: Crypto Daily
   title: "The Truth About The Ethereum Classic Hack"
+  tags: ["education", "mining"]
 -
   date: 2019-01-10
   link: https://www.benzinga.com/money/how-to-buy-ethereum-in-nigeria/
   author: Jay Hawk
   source: Benzinga
   title: "How to Buy Ethereum Classic in Nigeria"
+  tags: ["application"]
 -
   date: 2019-01-09
   link: https://medium.com/@antsankov/ecip-1049-why-ethereum-classic-should-adopt-keccak256-for-its-proof-of-work-algorithm-e45aee32d8a9
   author: Alexander Tsankov
   source: Medium
   title: "ECIP-1049: Why Ethereum Classic should Adopt Keccak256 for its Proof of Work Algorithm."
+  tags: ["mining", "development", "education"]
 -
   date: 2019-01-08
   link: https://decrypt.co/4399/51-percent-attack-cripples-ethereum-classic
   author: Ben Munster
   source: Decrypt
   title: "51 percent attack cripples Ethereum classic"
+  tags: ["mining", "announcement", "education"]
 -
   date: 2019-01-08
   link: https://cryptodaily.co.uk/2019/01/attack-on-ethereum-classic-network
   author: Robert Johnson
   source: Crypto Daily
   title: "Shock Attack On Ethereum Classic Network"
+  tags: ["mining", "announcement", "education"]
 -
   date: 2019-01-08
   link: https://medium.com/chainsafe-systems/deployment-automation-for-goerli-testnet-in-10-minutes-5212cef5542a
   author: Priom Chowdhury
   source: ChainSafe
   title: "Deployment Automation for Goerli testnet in 10 minutes"
+  tags: ["education", "guide"]
 -
   date: 2018-12-19
   link: https://medium.com/@etclabsnews/introducing-the-first-cohort-at-etc-labs-47ef2c34d354
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Introducing The First Cohort at ETC Labs"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2018-12-17
   link: https://medium.com/@pyskell/your-exchange-needs-more-confirmations-the-bitconf-measure-872b69babc8f
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "Your Exchange Needs More Confirmations: The BitConf Measure"
+  tags: ["education"]
 -
   date: 2018-12-14
   link: https://medium.com/@DontPanicBurns/on-recent-event-in-the-ethereum-classic-1e76e6e0bc38
