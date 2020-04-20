@@ -1516,126 +1516,147 @@
   author: McDappas
   source: Ethereum Classic Labs
   title: "ETC Labs Presents: AnyLog"
+  tags: ["announcement", "teams", "application"]
 -
   date: 2019-03-29
   link: https://medium.com/@Linzhi/eip-1057-progpow-open-chip-design-for-only-1-cost-power-increase-eip-1057-progpow-d106d9baa6eb
   author: Linzhi Shenzhen
   source: Linzhi Corp
   title: "EIP 1057 (ProgPoW): Open Chip Design for 1% cost/power increase"
+  tags: ["development", "teams", "mining"]
 -
   date: 2019-03-28
   link: https://medium.com/@stevan.blog/immutability-ethereum-classic-d59dd7724d95
   author: Stevan Lohja
   source: ETC Core
   title: "Immutability — Ethereum Classic"
+  tags: ["eduction"]
 -
   date: 2019-03-25
   link: https://medium.com/ethereum-classic/etc-summit-2019-call-for-speakers-6e60c40f0c7b
   author: Bob Summerwill
   source: Ethereum Classic Cooperative
   title: "ETC Summit 2019 Call for Speakers"
+  tags: ["teams"]
 -
   date: 2019-03-22
   link: https://medium.com/ethereum-classic-labs/etc-labs-presents-ethernode-9ef7f737431d
   author: McDappas
   source: Ethereum Classic Labs
   title: "ETC Labs Presents: Ethernode"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-03-22
   link: https://medium.com/ethereum-classic/kotti-solidity-etc-oh-my-2ae36926454d
   author: Yaz Khoury
   source: Ethereum Classic Cooperative
   title: "Kotti, Solidity, ETC, Oh My!"
+  tags: ["education", "development", "guide", "application"]
 -
   date: 2019-03-21
   link: https://medium.com/@stevan.blog/proof-of-stake-is-meh-37b23b5e18dc
   author: Stevan Lohja
   source: ETC Core
   title: "Proof of Stake is Meh"
+  tags: ["education"]
 -
   date: 2019-03-19
   link: https://medium.com/ethereum-classic-labs/gaming-on-the-blockchain-an-etc-labs-event-bd1a493674b1
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Gaming on the Blockchain — an ETC Labs Event"
+  tags: ["announcement", "teams", "application"]
 -
   date: 2019-03-18
   link: https://medium.com/@pyskell/im-resigning-from-the-etc-cooperative-but-not-etc-8c4d01ef2f6
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "I’m Resigning from the ETC Cooperative; but not ETC."
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-03-15
   link: https://medium.com/ethereum-classic-labs/etc-labs-presents-button-wallet-8029c27bc38c
   author: McDappas
   source: Ethereum Classic Labs
   title: "ETC Labs Presents: Button Wallet"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-03-14
   link: https://cointelegraph.com/news/as-progpow-aimed-at-stopping-asic-mining-gets-supporting-votes-new-conspiracies-and-debates-appear
   author: Julia Magas
   source: Coin Telegraph
   title: "A ProgPoW Aimed at Stopping ASIC Mining Gets Supporting Votes, New Conspiracies and Debates Appear"
+  tags: ["education", "development", "mining"]
 -
   date: 2019-03-11
   link: https://medium.com/@Linzhi/studying-the-feasibility-of-an-asic-82634ac77d61
   author: Chen Min
   source: Linzhi Shenzhen
   title: "Studying the Feasibility of an ASIC"
+  tags: ["education", "development", "mining"]
 -
   date: 2019-03-11
   link: https://cryptobriefing.com/myetherwallet-adds-block-explorer/
   author: Paddy Baker
   source: Crypto briefing
   title: "MyEtherWallet Adds Block Explorer To Its Repertoire"
+  tags: ["announcement", "application"]
 -
   date: 2019-03-10
   link: https://medium.com/@antsankov/pt-2-ecip-1049-why-ethereum-classic-should-adopt-keccak256-for-its-proof-of-work-algorithm-24052ea6eed1
   author: Alexander Tsankov
   source: Medium
   title: "(pt. 2) ECIP-1049: Why Ethereum Classic should Adopt Keccak256 for its Proof of Work Algorithm."
+  tags: ["mining", "development", "education"]
 -
   date: 2019-03-09
   link: https://medium.com/@Linzhi/ecip-1043-revisited-cd2e500b8550
   author: Linzhi Shenzhen
   source: Linzhi Corp
   title: "ECIP 1043 Revisited"
+  tags: ["mining", "development", "education"]
 -
   date: 2019-03-08
   link: https://www.cryptonewsz.com/mining-ethereum-eth-which-software-stands-out-as-a-winner/
   author: Scott Cook
   source: CryptoNewZ
   title: "Mining Ethereum - Which Software Stands Out as a Winner?"
+  tags: ["education", "mining", "application"]
 -
   date: 2019-03-08
   link: https://medium.com/ethereum-classic-labs/etc-labs-presents-cryzen-db8770d98b35
   author: McDappas
   source: Ethereum Classic Labs
   title: "ETC Labs Presents: Cryzen"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-03-06
   link: https://forum.poa.network/t/introducing-etc-bridge-and-wrapped-ethereum-classic-wetc/2207
   author: Ziggy
   source: POA Forum
   title: "Introducing ETC Bridge and wrapped Ethereum Classic (WETC)"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-03-06
   link: https://medium.com/ethereum-classic/eth-to-be-tokenized-on-ethereum-classics-blockchain-2dd566889735
   author: Stevan Lohja
   source: ETC Core
   title: "ETH to be Tokenized on Ethereum Classic’s Blockchain"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-03-04
   link: https://medium.com/ethereum-classic-labs/this-week-in-the-labs-march-4th-2c9de4d8ca2
   author: Hiccups
   source: Ethereum Classic Labs
   title: "This Week in the Labs: March 4th"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-03-01
   link: https://medium.com/ethereum-classic-labs/etc-labs-presents-vrex-labs-993e9d0476d4
   author: McDappas
   source: Ethereum Classic Labs
   title: "ETC Labs Presents: VREX Lab"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-02-26
   link: https://medium.com/ethereum-classic/ethereum-classic-proposals-for-decentralized-governance-in-a-centralized-world-464299e70a41
