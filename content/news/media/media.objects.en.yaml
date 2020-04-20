@@ -823,78 +823,91 @@
   author: ETC Core
   source: Ethereum Classic Core
   title: "Ethereum Classic Core Devs Meeting - Changing the mining algorithm [2019-11-21]"
+  tags: ["announcement", "development", "teams", "hardfork", "media"]
 -
   date: 2019-11-26
   link: https://medium.com/etc-core/progpow-sha-3-dag-oh-my-changing-the-ethereum-classic-pow-algorithm-abcb457d4530
   author: Stevan Lohja
   source: ETC Core
   title: "ProgPoW, Sha-3, Dag, Oh My! — Changing the Ethereum Classic PoW Algorithm"
+  tags: ["announcement", "development", "teams"]
 -
   date: 2019-11-24
   link: https://medium.com/@antsankov/pt-4-a-compromise-on-ecip-1049-preserving-the-consensus-while-adopting-keccak256-via-soft-fork-ffd12beb9a76
   author: Alexander Tsankov
   source: Medium
   title: "(pt. 4) A Compromise on ECIP-1049: Preserving the Consensus while adopting Keccak256 via Soft Fork."
+  tags: ["announcement", "development"]
 -
   date: 2019-11-21
   link: https://youtu.be/sPa6XcuYdIw
   author: Ethereum Classic Core Developers Call
   source: ETC Core
   title: "Ethereum Classic Core Devs Meeting - Changing the mining algorithm"
+  tags: ["announcement", "development", "teams", "hardfork", "media"]
 -
   date: 2019-11-16
   link: https://cointelegraph.com/news/the-abey-foundation-introduces-new-crypto-enabled-credit-card-technology
   author: Cassio Gusson
   source: Coin Telegraph
   title: "The aBey Foundation Introduces new Crypto-Enabled Credit Card Technology"
+  tags: ["announcement", "application"]
 -
   date: 2019-11-15
   link: https://www.saturn.network/blog/saturn-dapps-are-number-one-on-ethereum-classic/
   author: Sam
   source: Saturn Network
   title: "Saturn dApps are Number One on Ethereum Classic"
+  tags: ["announcement", "development", "application"]
 -
   date: 2019-11-13
   link: https://99bitcoins.com/buy-ethereum-classic-etc/
   author: Ofir Beigel
   source: 99 Bitcoins
   title: "How to Buy Ethereum Classic (ETC) – A Beginner’s Guide"
+  tags: ["education", "guide"]
 -
   date: 2019-11-12
   link: https://youtu.be/RRUPx7ctGCI
   author: ETC Core
   source: Ethereum Classic Core
   title: "Jade Service Runner UI Demo"
+  tags: ["education", "guide", "application", "media"]
 -
   date: 2019-11-11
   link: https://cryptodaily.co.uk/2019/11/did-you-miss-these-important-ethereum-classic-and-litecoin-updates
   author: Adrian Barkley
   source: Crypto Daily
   title: "Did You Miss These Important Ethereum Classic And Litecoin Updates?"
+  tags: ["education"]
 -
   date: 2019-11-09
   link: https://coinrivet.com/is-it-worth-joining-an-ethereum-mining-pool/
   author: Emily Perryman
   source: Coin Rivet
   title: "Is it worth joining an Ethereum mining pool?"
+  tags: ["education", "mining"]
 -
   date: 2019-11-09
   link: https://www.cryptonewsz.com/ethereum-classic-reveals-results-of-use-satisfaction-survey-of-november-2019/51332/
   author: Roxanne Williams
   source: CryptoNewZ
   title: "Ethereum Classic Reveals Results of Use Satisfaction Survey"
+  tags: ["announcement"]
 -
   date: 2019-11-06
   link: https://medium.com/etc-core/ethereum-classic-use-satisfaction-results-november-2019-d8857b4e172b
   author: Stevan Lohja
   source: ETC Core
   title: "Ethereum Classic Use Satisfaction Results — November 2019"
+  tags: ["announcement"]
 -
   date: 2019-11-04
   link: https://youtu.be/XO5e-_QyoZI
   author: ETC Core
   source: Ethereum Classic Core
   title: "Jade Explorer v1.5.0  -  Current state of features."
+  tags: ["announcement", "development", "teams", "education", "media", "application"]
 -
   date: 2019-10-30
   link: https://medium.com/etc-core/ethereum-classic-agharta-hard-fork-proposal-proceeds-to-last-call-e17e4b545ac8
