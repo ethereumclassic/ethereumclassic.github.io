@@ -347,7 +347,7 @@
   author: FINANCIALFREEDOMCJ
   source: Ethereum Classic's ECIP1017 - 5M20
   title: "Ethereum Classic (ETC) Block Reward reduction happening soon!! Are you ready??"
-  tags: ["announcement", "mining", "education"] 
+  tags: ["announcement", "mining", "education", "media"] 
 -
   date: 2020-02-25
   link: https://medium.com/ethereum-classic-labs/advisory-to-reject-ecip-1061-aztlan-and-ecip-1078-phoenixfix-for-ethereum-classic-28df21a206c
@@ -382,7 +382,7 @@
   author: Zachary Belford
   source: Ethereum Foundation
   title: "OpenRPC Talk at Ethereum Core Devs Meeting #81 [2020-2-21]"
-  tags: ["education", "guide", "development", "application"]
+  tags: ["education", "guide", "development", "application", "media"]
 -
   date: 2020-02-21
   link: https://medium.com/etc-core/evm61-an-etc-podcast-e534a9009a22
@@ -403,7 +403,7 @@
   author: Zachary Belford
   source: ETC Core
   title: "ETHDenver Hackathon Winner: MetaMask Snaps + OpenRPC = Love"
-  tags: ["teams", "education", "guide", "development", "application"]
+  tags: ["teams", "education", "guide", "development", "application", "media"]
 -
   date: 2020-02-14
   link: https://sludgefeed.com/ethereum-classic-labs-partners-with-fantom-foundation/
@@ -494,7 +494,7 @@
   author: Ethereum Classic Core Developers Call
   source: ETC Core
   title: "Ethereum Classic Core Devs Meeting - ECIP-1078 Phoenix Finalization"
-  tags: ["announcement", "teams", "development", "hardfork"]
+  tags: ["announcement", "teams", "development", "hardfork", "media"]
 -
   date: 2020-02-04
   link: https://etherplan.com/2020/02/04/the-ethereum-classic-trinity-explained/9845/
@@ -676,7 +676,7 @@
   author: ETC Core
   source: Ethereum Classic Core
   title: "Agharta Hard-Fork Countdown [01-12-2020]"
-  tags: ["announcement", "teams", "development"]
+  tags: ["announcement", "teams", "development", "media"]
 -
   date: 2020-01-10
   link: https://medium.com/ethereum-classic/vyper-and-brownie-contract-development-on-evm-chains-85ba7fa2feef
@@ -711,7 +711,7 @@
   author: Bob Summerwill
   source: Coin Desk
   title: "The Ethereum Community Is No Longer Fighting With Itself"
-  tags: ["announcement", teams"]
+  tags: ["announcement", "teams"]
 -
   date: 2019-12-26
   link: https://cointelegraph.com/news/agharta-hard-fork-to-bring-full-compatibility-between-etc-and-eth
@@ -1530,7 +1530,7 @@
   author: Stevan Lohja
   source: ETC Core
   title: "Immutability — Ethereum Classic"
-  tags: ["eduction"]
+  tags: ["education"]
 -
   date: 2019-03-25
   link: https://medium.com/ethereum-classic/etc-summit-2019-call-for-speakers-6e60c40f0c7b
