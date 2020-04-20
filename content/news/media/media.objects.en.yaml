@@ -1089,102 +1089,119 @@
   author: Bob Summerwill
   source: Ethereum Classic Cooperative
   title: "ETC Summit moved to Vancouver Convention Centre"
+  tags: ["announcement", "teams"]
 -
   date: 2019-09-24
   link: https://www.prweb.com/releases/second_state_launches_buidl_ide_for_ethereum_classic/prweb16593043.htm
   author: Miley Fu
   source: Second State
   title: "Second State launches BUIDL IDE for Ethereum Classic"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-09-24
   link: https://www.businesswire.com/news/home/20190923005559/en/bitFlyer-Europe-USA-Announce-New-Altcoins-BuySell/?feedref=Zd8jjkgYuzBwDixoAdXmJgT1albrG1Eq4mAeVP39213KnM-ix4Zs-fBR3j-f4cSPevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxZPUiTxYBhnnPCI-oruMGokuLAuCkn8FS6sh-I3dfDZEg==
   author: BitFlyer
   source: Business Wire
   title: "bitFlyer Europe and USA Announce New Altcoins Available on Buy/Sell Platform"
+  tags: ["announcement", "application"]
 -
   date: 2019-09-21
   link: https://medium.com/@Linzhi/on-whistleblowing-56132c069aa3
   author: Linzhi Shenzhen
   source: Linzhi Corp
   title: "On Whistleblowing- ProgPoW"
+  tags: ["mining", "education"]
 -
   date: 2019-09-18
   link: https://decrypt.co/9372/progpow-advocate-uninvited-ethereum-summit-over-links-craig-wright
   author: Jeff Benson
   source: Decrypt
   title: "ProgPow advocate uninvited to Ethereum Classic Summit over links to Craig Wright"
+  tags: ["announcement", "mining", "teams"]
 -
   date: 2019-09-18
   link: https://medium.com/etclabscore/jade-explorer-a-minimal-block-explorer-for-the-ethereum-stack-a0df1aecdc38
   author: Stevan Lohja
   source: ETC Core
   title: "Jade Explorer, A Minimal Block Explorer for the Ethereum Stack"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-09-13
   link: https://cryptodaily.co.uk/2019/09/atlantis-hard-fork-sees-end-ehtereum-classic-network
   author: Adrian Barkley
   source: Crypto Daily
   title: "Atlantis Hard Fork Finally Sees An End On Ethereum Classic Network"
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2019-09-12
   link: https://medium.com/ethereum-classic/etc-cooperative-applying-to-join-eea-3f89bb3c71d4
   author: Bob Summerwill
   source: Ethereum Classic Cooperative
   title: "ETC Cooperative applying to join EEA"
+  tags: ["announcement", "teams"]
 -
   date: 2019-09-12
   link: https://decrypt.co/9206/ethereum-classic-atlantis-upgrade-makes-etc-more-like-eth
   author: Jeff Benson
   source: Decrypt
   title: "Ethereum Classic Atlantis upgrade makes ETC more like ETH"
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2019-09-10
   link: https://medium.com/ethereum-classic/etc-support-in-hyperledger-besu-d70551830a24
   author: Bob Summerwill
   source: Ethereum Classic Cooperative
   title: "ETC support in Hyperledger Besu"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-09-10
   link: https://medium.com/@Linzhi/linzhi-e1400-tapeout-1688df3bb5d
   author: Linzhi Shenzhen
   source: Linzhi Corp
   title: "Linzhi E1400 Ethash ASIC Tapeout"
+  tags: ["announcement", "development", "teams", "mining"]
 -
   date: 2019-09-10
   link: https://medium.com/etclabscore/ethereum-classic-community-is-ready-for-the-atlantis-hard-fork-22f3b3417811
   author: Stevan Lohja
   source: ETC Core
   title: "Ethereum Classic Community is Ready for the Atlantis Hard Fork"
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2019-09-09
   link: https://medium.com/ethereum-classic/etc-summit-2019-agenda-announced-e3e8c1b09ab0
   author: Bob Summerwill
   source: Ethereum Classic Cooperative
   title: "ETC Summit 2019 Agenda Announced"
+  tags: ["announcement", "teams"]
 -
   date: 2019-09-04
   link: https://cointelegraph.com/news/ethereum-classic-partners-with-blockchain-developer-and-media-dapp
   author: Joeri Cant
   source: Coin Telegraph
   title: "Ethereum Classic Labs Partners With Blockchain Developer and Media DApp"
+  tags: ["announcement", "teams", "application"]
 -
   date: 2019-09-01
   link: https://blog.secondstate.io/post/20190901-etc-partners-with-secondstate/
   author: Second State
   source: Second State
   title: "Ethereum Classic partners with Second State to build the next generation Ethereum infrastructure"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-08-28
   link: https://medium.com/etclabscore/the-evm-llvm-is-coming-to-ethereum-classic-what-you-need-to-know-c13962f25571
   author: Stevan Lohja
   source: ETC Core
   title: "The EVM-LLVM is coming to Ethereum Classic! What you need to know."
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-08-26
   link: https://medium.com/@bobsummerwill/important-about-etc-atlantis-upgrade-6db8427e626
   author: Bob Summerwill
   source: Ethereum Classic Cooperative
   title: "IMPORTANT: About ETC “Atlantis” upgrade"
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2019-08-23
   link: https://medium.com/ethereum-classic-labs/ethermine-announces-full-support-for-ethereum-classic-atlantis-hard-fork-5231d3c70d58
