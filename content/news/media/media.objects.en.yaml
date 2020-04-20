@@ -23,7 +23,7 @@
   date: 2020-04-09
   link: https://etherplan.com/2020/04/09/why-does-ethereum-classic-have-value/10916/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "Why Does Ethereum Classic Have Value?"
   tags: ["education"]
 -
@@ -44,7 +44,7 @@
   date: 2020-04-05
   link: https://etherplan.com/2020/04/05/the-bitcoin-security-model-explained/10862/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "The Bitcoin Security Model Explained"
   tags: ["education"]
 -
@@ -121,7 +121,7 @@
   date: 2020-03-21
   link: https://etherplan.com/2020/03/21/why-proof-of-work-based-nakamoto-consensus-is-secure-and-complete/10509/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "Why Proof of Work Based Nakamoto Consensus is Secure and Complete"
   tags: ["education"]
 -
@@ -135,7 +135,7 @@
   date: 2020-03-19
   link: https://etherplan.com/2020/03/19/ethereum-classic-ungovernance-explained/10522/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "Ethereum Classic Ungovernance Explained"
   tags: ["education"]
 -
@@ -212,7 +212,7 @@
   date: 2020-03-15
   link: https://etherplan.com/2020/03/15/ethereum-classic-brand-promise-positioning-personality-and-communications/10479/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "Ethereum Classic Brand Promise, Positioning, Personality, and Communications"
   tags: ["education"]
 -
@@ -233,7 +233,7 @@
   date: 2020-03-11
   link: https://etherplan.com/2020/03/11/the-ethereum-classic-security-model-explained/10348/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "The Ethereum Classic Security Model Explained"
   tags: ["education"]
 -
@@ -331,7 +331,7 @@
   date: 2020-02-26
   link: https://etherplan.com/2020/02/26/ethereum-classic-phoenix-upgrade-set-for-block-10500839-estimated-on-june-10th-2020/10191/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "Ethereum Classic Phoenix Upgrade set for Block 10,500,839 Estimated on June 10th, 2020"
   tags: ["education"]
 -
@@ -359,7 +359,7 @@
   date: 2020-02-25
   link: https://etherplan.com/2020/02/25/the-ethereum-classic-monetary-policy-explained/10025/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "The Ethereum Classic Monetary Policy Explained"
   tags: ["education"]
 -
@@ -464,7 +464,7 @@
   date: 2020-02-06
   link: https://etherplan.com/2020/02/06/ethereum-classic-money-property-agreements-explained/9965/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "Ethereum Classic Money, Property, and Agreements Explained"
   tags: ["education"]
 -
@@ -485,7 +485,7 @@
   date: 2020-02-05
   link: https://etherplan.com/2020/02/05/ethereum-classic-aztlan-phoenix-upgrades-set-to-activate-on-block-10500839-estimated-on-june-10th-2020/9901/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "Ethereum Classic Aztlán and PhoenixFix Upgrades set to Activate on Block 10,500,839 Estimated on June 10th, 2020"
   tags: ["education"]
 -
@@ -499,7 +499,7 @@
   date: 2020-02-04
   link: https://etherplan.com/2020/02/04/the-ethereum-classic-trinity-explained/9845/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "The Ethereum Classic Trinity Explained"
   tags: ["education"]
 -
@@ -534,7 +534,7 @@
   date: 2020-01-31
   link: https://etherplan.com/2020/01/31/ethereum-classic-developer-call-about-the-next-aztlan-phoenix-upgrades-feb-5-2019/9796/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "Ethereum Classic Developer Call – About the Next Aztlán and Phoenix Upgrades – Feb 5, 2019"
   tags: ["education"]
 -
@@ -548,7 +548,7 @@
   date: 2020-01-28
   link: https://etherplan.com/2020/01/28/the-ethereum-classic-ecosystem-explained/9680/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "The Ethereum Classic Ecosystem Explained"
   tags: ["education"]
 -
@@ -576,7 +576,7 @@
   date: 2020-01-24
   link: https://etherplan.com/2019/01/24/the-meaning-of-immutability-in-ethereum-classic-etc/7381/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "The Meaning of Immutability in Ethereum Classic (ETC)"
   tags: ["education"]
 -
@@ -660,7 +660,7 @@
   date: 2020-01-14
   link: https://etherplan.com/2020/01/14/the-logic-of-why-ethereum-classic-will-rise-1000x-in-the-medium-to-long-term/9639/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "The Logic of why Ethereum Classic will Rise 1000x in the Medium to Long Term"
   tags: ["education"]
 -
@@ -704,7 +704,7 @@
   author: Ethereum Classic Core Developers Call
   source: ETC Core
   title: "Ethereum Classic Core Devs Meeting - Gas Limit Reduction"
-  tags: ["announcement", "teams", "development", "media"]
+  tags: ["announcement", "mining", "development", "media", "teams"]
 -
   date: 2019-12-26
   link: https://www.coindesk.com/the-ethereum-community-is-no-longer-fighting-with-itself
@@ -830,14 +830,14 @@
   author: Stevan Lohja
   source: ETC Core
   title: "ProgPoW, Sha-3, Dag, Oh My! — Changing the Ethereum Classic PoW Algorithm"
-  tags: ["announcement", "development", "teams"]
+  tags: ["announcement", "development", "mining"]
 -
   date: 2019-11-24
   link: https://medium.com/@antsankov/pt-4-a-compromise-on-ecip-1049-preserving-the-consensus-while-adopting-keccak256-via-soft-fork-ffd12beb9a76
   author: Alexander Tsankov
   source: Medium
   title: "(pt. 4) A Compromise on ECIP-1049: Preserving the Consensus while adopting Keccak256 via Soft Fork."
-  tags: ["announcement", "development"]
+  tags: ["announcement", "development", "mining"]
 -
   date: 2019-11-21
   link: https://youtu.be/sPa6XcuYdIw
@@ -914,36 +914,40 @@
   author: Stevan Lohja
   source: ETC Core
   title: "Ethereum Classic Agharta hard-fork proposal proceeds to Last Call"
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2019-10-30
   link: https://medium.com/etc-core/1500-ethereum-classic-gitcoin-bounties-cd83f9566b12
   author: Stevan Lohja
   source: ETC Core
   title: "$1500 Ethereum Classic Gitcoin Bounties"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-10-28
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-presents-os-city-bd86e43a5fac
   author: Hiccups
   source: Ethereum Classic Labs
   title: "Ethereum Classic Labs Presents: OS City"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-10-27
   link: https://www.youtube.com/watch?v=yAI3MVaLxaw
   author: Ethereum Classic Labs
   source: This Week in Crypto
   title: "ETC Labs Accelerate Program with Founder James Wo and CEO Terry Culver"
+  tags: ["announcement", "teams", "media"]
 -
   date: 2019-10-26
   link: https://etherplan.com/2019/10/26/backward-compatibility-what-is-account-versioning-in-ethereum-classic/9440/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "Backward Compatibility: What is Account Versioning in Ethereum Classic?"
   tags: ["education"]
 -
   date: 2019-10-24
   link: https://etherplan.com/2019/10/24/the-ethereum-classic-dilemma-ethereum-parity-vs-backward-compatibility/9373/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "The Ethereum Classic Dilemma: Ethereum Parity vs Backward Compatibility"
   tags: ["education"]
 -
@@ -952,35 +956,40 @@
   author: Michael Yuan
   source: Devcon5
   title: "Ethereum Devcon5 Recap: Reconciliation with ETC"
+  tags: ["announcement", "development", "teams"]
 -
   date: 2019-10-23
   link: https://medium.com/@antsankov/cn-why-etc-should-adopt-sha3-proof-of-work-426b7aad64b1
   author: Alexander Tsankov
   source: Medium
   title: "(CN)Why ETC Should adopt SHA3 Proof of Work"
+  tags: ["announcement", "development", "mining"]
 -
   date: 2019-10-21
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-presents-w3-engineers-6d938469fac7
   author: Hiccups
   source: Ethereum Classic Labs
   title: "Ethereum Classic Labs Presents: W3 Engineers"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-10-17
   link: https://medium.com/the-capital/code-is-law-is-competent-blockchain-design-not-an-ideology-661d3c36c14c
   author: Stevan Lohja
   source: The Capital
   title: "Code Is Law — Competent Blockchain Design, Not An Ideology."
+  tags: ["education"]
 -
   date: 2019-10-16
   link: https://medium.com/etclabscore/ethereum-classic-labs-core-quarterly-development-review-q3-2019-15ba09570975
   author: Stevan Lohja
   source: ETC Core
   title: "Ethereum Classic Labs Core — Quarterly Development Review Q3, 2019"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-10-15
   link: https://etherplan.com/2019/10/15/in-banking-wealth-is-controlled-by-providers-in-blockchain-wealth-is-controlled-by-owners/9302/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "In Banking Wealth is Controlled by Providers, in Blockchain Wealth is Controlled by Owners"
   tags: ["education"]
 -
@@ -989,47 +998,54 @@
   author: Ben Munster
   source: Decrypt
   title: "Ethereum Classic's plan to seduce Ethereum’s miners"
+  tags: ["mining"]
 -
   date: 2019-10-10
   link: https://sync.bloq.com/bloq-and-etc-labs-supporting-communities-building-ecosystems/
   author: Jeff Garzik
   source: Bloq
   title: "Bloq and ETC Labs: Supporting Communities, Building Ecosystems"
+  tags: ["announcement", "development", "teams", "application", "mining"]
 -
   date: 2019-10-09
   link: https://xangle.io/project/ETC/blog/5e1c1575c1409f3b716f474d
   author: Ethereum Classic Labs
   source: Xangle
   title: "Ethereum Classic Labs Partners with Pulse Agent"
+  tags: ["announcement", "teams"]
 -
   date: 2019-10-09
   link: https://medium.com/poa-network/poa-network-launches-the-first-full-featured-open-source-ethereum-explorer-blockscout-2612f065716f
   author: POA Network
   source: POA Network
   title: "POA Network Launches the First Full Featured Open-Source Ethereum Explorer BlockScout"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-10-09
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-partners-with-bloq-live-from-devcon-8807946df864
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Ethereum Classic Labs Partners with Bloq, Live From Devcon!"
+  tags: ["announcement", "development", "teams", "application", "mining"]
 -
   date: 2019-10-08
   link: https://messari.io/article/messari-announces-6-new-participants-for-its-disclosure-registry
   author: Messari
   source: Messari
   title: "Messari announces 6 new participants for its disclosure registry"
+  tags: ["announcement", "teams"]
 -
   date: 2019-10-07
   link: https://medium.com/@Linzhi/linzhi-e1400-architecture-overview-6fed5a19ef70
   author: Linzhi Shenzhen
   source: Linzhi Corp
   title: "Linzhi E1400 — Architecture Overview"
+  tags: ["announcement", "mining", "education"]
 -
   date: 2019-10-07
   link: https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "Why Proof of Stake is Less Secure Than Proof of Work"
   tags: ["education"]
 -
@@ -1038,31 +1054,35 @@
   author: Ross Pieli
   source: Coin Codex
   title: "Top 5 Coins Similar to Ethereum"
+  tags: ["education"]
 -
   date: 2019-10-05
   link: https://cointelegraph.com/news/chainalysis-adds-erc-20-tokens-to-its-on-demand-compliance-service
   author: Adrian Zmunzinski
   source: Coin Telegraph
   title: "Chainalysis Adds ERC-20 Toeksn to Its On-Demand Compliance Service"
+  tags: ["announcement", "application"]
 -
   date: 2019-10-04
   link: https://medium.com/@Linzhi/what-is-memory-hard-45a363b59dfe
   author: Linzhi Shenzhen
   source: Linzhi Corp
   title: "What Is Memory-Hard?"
+  tags: ["education", "mining"]
 -
   date: 2019-10-02
   link: https://medium.com/ethereum-classic/etc-summit-2019-photos-from-the-venue-ccd494ef6bda
   author: Bob Summerwill
   source: Ethereum Classic Cooperative
   title: "ETC Summit 2019 — Photos from the venue"
-  tags: ["event"]
+  tags: ["announcement", "teams"]
 -
   date: 2019-09-27
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-presents-second-state-947d85ca31ee
   author: Hiccups
   source: Ethereum Classic Labs
   title: "Ethereum Classic Labs Presents: Second State"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-09-27
   link: https://medium.com/ethereum-classic/etc-summit-moved-to-vancouver-convention-centre-4ab569065656
@@ -1235,7 +1255,7 @@
   date: 2019-07-23
   link: https://etherplan.com/2019/07/23/ethereum-classic-vs-ethereum-2-0-what-is-the-difference/8425/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "Ethereum Classic vs Ethereum 2.0, What is the Difference?"
   tags: ["education"]
 -
@@ -1368,7 +1388,7 @@
   date: 2019-05-17
   link: https://etherplan.com/2019/05/17/why-there-will-only-be-3-or-4-surviving-blockchains-in-the-future/7603/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "Why There Will Only Be 3 or 4 Surviving Blockchains in the Future"
   tags: ["education"]
 -
