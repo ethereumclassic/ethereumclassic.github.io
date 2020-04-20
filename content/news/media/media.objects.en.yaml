@@ -1208,48 +1208,56 @@
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Ethermine Announces Full Support for Ethereum Classic Atlantis Hard Fork"
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2019-08-20
   link: https://cointelegraph.com/news/ethereum-name-service-adds-multicoin-support
   author: Adrian Zmudzinski
   source: Coin Telegraph
   title: "Ethereum Name Service Adds Multicoin Support"
+  tags: ["announcement", "application"]
 -
   date: 2019-08-19
   link: https://medium.com/etclabscore/dear-ethereum-classic-crypto-exchanges-miners-wallets-dapps-and-other-users-8f5d3d50a93b
   author: Stevan Lohja
   source: ETC Core
   title: "Dear Ethereum Classic Crypto Exchanges, Miners, Wallets, Dapps, and other Users."
+  tags: ["announcement", "development", "teams", "application", "hardfork"]
 -
   date: 2019-08-09
   link: https://decrypt.co/8301/binance-adds-margin-trading-litecoin
   author: Tim Copeland
   source: Decrypt
   title: "Binance adds margin trading for Litecoin, USDC and Ethereum Classic"
+  tags: ["announcement", "application"]
 -
   date: 2019-08-09
   link: https://medium.com/etclabscore/whats-in-atlantis-eip100-more-efficient-difficulty-computations-b3749eb9788d
   author: Stevan Lohja
   source: ETC Core
   title: "What’s in Atlantis? EIP100 (More efficient difficulty computations)"
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2019-08-08
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-announces-studio-a-comprehensive-program-to-launch-new-projects-on-44db3da59064
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Ethereum Classic Labs Announces Studio — A Comprehensive Program to Launch New Projects on Ethereum Classic"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-08-08
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-partners-with-the-nasdaq-entrepreneurial-center-and-lehigh-university-55e7bc2c1fed
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Ethereum Classic Labs Partners with the Nasdaq Entrepreneurial Center and Lehigh University"
+  tags: ["announcement", "teams"]
 -
   date: 2019-08-08
   link: https://cointelegraph.com/news/etc-labs-launches-studio-program-to-support-developing-etc-projects
   author: Helen Partz
   source: Coin Telegraph
   title: "ETC Labs Launches Studio Program to Support Developing ETC Projects"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-07-30
   link: https://medium.com/etclabscore/ethereum-classic-labs-core-quarterly-development-review-q2-2019-969137ea3d95
