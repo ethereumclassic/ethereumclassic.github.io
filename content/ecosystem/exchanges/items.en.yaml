@@ -274,6 +274,11 @@
   link: https://www.digifinex.com/en-ww/trade/USDT/ETC
   type: centralized
 -
+  key: EREX
+  text: EREX
+  link: https://erex.io/exchange/ETC/USDT/
+  type: centralized
+-
   key: eToro
   text: eToro
   link: https://www.etoro.com/markets/etc/chart
