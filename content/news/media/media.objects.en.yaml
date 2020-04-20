@@ -1663,84 +1663,98 @@
   author: Frosku
   source: Medium
   title: "Ethereum Classic: A Clarion Call"
+  tags: ["education"]
 -
   date: 2019-02-22
   link: https://medium.com/ethereum-classic-labs/etc-labs-presents-statwig-49d3dd50c201
   author: McDappas
   source: Ethereum Classic Labs
   title: "ETC Labs Presents: StaTwig"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-02-18
   link: https://medium.com/ethereum-classic-labs/this-week-in-the-labs-february-18th-1bcb0c8255f1
   author: Hiccups
   source: Ethereum Classic Labs
   title: "This Week in the Labs: February 18th"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-02-16
   link: https://medium.com/ethereum-classic/different-kinds-of-51-attacks-d345ebc01526
   author: Phyro
   source: Medium
   title: "Different kinds of 51% attacks"
+  tags: ["education", "mining"]
 -
   date: 2019-02-15
   link: https://medium.com/ethereum-classic-labs/etc-labs-presents-slips-51d98bc7f568
   author: McDappas
   source: Ethereum Classic Labs
   title: "ETC Labs Presents: Slips"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-02-13
   link: https://medium.com/paritytech/new-parity-ethereum-update-fixes-several-rpc-vulnerabilities-fe030e6f489f
   author: Parity Tech
   source: Parity Technologies
-  title: "New Parity Ethereum update fixes several vulnerabilities"
+  title: "New ParityEthereum update fixes several vulnerabilities"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-02-11
   link: https://medium.com/ethereum-classic/little-jimmy-an-ethereum-classic-story-c4badf13d972
   author: Stevan Lohja
   source: ETC Core
   title: "Little Jimmy, an Ethereum Classic Story"
+  tags: ["education"]
 -
   date: 2019-02-08
   link: https://medium.com/ethereum-classic/etc-cooperative-ama-recap-75167abcaac7
   author: Bob Summerwill
   source: Ethereum Classic Cooperative
   title: "ETC Cooperative AMA — Recap"
+  tags: ["teams"]
 -
   date: 2019-02-08
   link: https://medium.com/ethereum-classic-labs/etc-labs-presents-scanta-7b92f385623a
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "ETC Labs Presents: Scanta"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-02-06
   link: https://medium.com/ethereum-classic/analyzing-ethereum-classic-with-google-bigquery-df55822ec6a6
   author: Yaz Khoury
   source: Ethereum Classic Cooperative
   title: "Analyzing Ethereum Classic with Google BigQuery"
+  tags: ["education", "guide"]
 -
   date: 2019-02-04
   link: https://medium.com/etclabscore/monthly-dev-update-1-january-2019-core-development-update-3cc0ef09920f
   author: Stevan Lohja
   source: ETC Core
   title: "Monthly Dev. Update #1 | January 2019 Core Development Update"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-02-03
   link: https://medium.com/@Linzhi/bridging-the-hardware-software-divide-4-more-claims-5b520ae00c0c
   author: Linzhi Shenzhen
   source: Linzhi Corp
   title: "Bridging the Hardware-Software Divide: 4 More Claims."
+  tags: ["education", "development", "mining"]
 -
   date: 2019-02-03
   link: https://medium.com/paritytech/security-alert-update-parity-ethereum-nodes-when-new-releases-are-out-node-attack-vector-b72e3259634e
   author: Parity Tech
   source: Parity Technologies
-  title: "Security Alert: Update Parity Ethereum nodes ASAP; node attack vector discovered"
+  title: "Security Alert: Update ParityEthereum nodes ASAP; node attack vector discovered"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-02-01
   link: https://medium.com/@Linzhi/our-telegram-january-7-to-29-2019-lessons-learned-cb5a1fc0f039
   author: Linzhi Shenzhen
   source: Linzhi Corp
   title: "ProgPoW- Our Telegram, January 7 to 29, 2019 — Lessons Learned"
+  tags: ["mining", "development", "education"]
 -
   date: 2019-01-30
   link: https://medium.com/ethereum-classic/ama-with-bob-summerwill-and-the-etc-cooperative-dfcf594144ac
