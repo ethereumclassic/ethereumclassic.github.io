@@ -2,6 +2,7 @@
 title: "Mordor Testnet Launch"
 date: 2019-10-04
 author: Afri Schoedon
+tags: ["announcement", "teams", "education", "development"]
 ---
 
 # Mordor Testnet Launch

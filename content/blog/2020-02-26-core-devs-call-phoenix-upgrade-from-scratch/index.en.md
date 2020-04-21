@@ -2,6 +2,7 @@
 title: "Core Devs Call: Phoenix Upgrade from Scratch"
 date: 2020-02-26
 author: soc1c
+tags: ["announcement", "development", "education", "teams", "hardfork"]
 ---
 
 [https://ecips.ethereumclassic.org/ECIPs/ecip-1088](https://ecips.ethereumclassic.org/ECIPs/ecip-1088)

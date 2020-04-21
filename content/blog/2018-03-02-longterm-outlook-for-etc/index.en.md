@@ -2,6 +2,7 @@
 title: Long Term Outlook for Ethereum Classic
 date: 2018-03-02
 author: pyskell (Anthony)
+tags: ["application", "development", "education"]
 ---
 
 [Read this article on Medium (looks nicer)](https://medium.com/@pyskell/long-term-outlook-for-ethereum-classic-b6f1643f8f70)

@@ -2,6 +2,7 @@
 title: "The Rise and Rise of Social Coins"
 date: 2017-08-27
 author: Prophet Daniel, Tyler West
+tags: ["education"]
 ---
 
 ![Imgur](./Jqu5BV6.png)

@@ -2,6 +2,7 @@
 title: "The Ethereum Classic World Computer Accounts & States Explained"
 date: 2017-03-30
 author: Christian Seberino
+tags: ["application", "development", "education"]
 ---
 
 ![computer](./be9c74a342.jpg)

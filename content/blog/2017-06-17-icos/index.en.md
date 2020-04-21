@@ -2,6 +2,7 @@
 title: "ICOs & Custom Cryptocurrencies On Ethereum Classic"
 date: 2017-06-17
 author: Christian Seberino
+tags: ["application", "development", "education"]
 ---
 
 ![fund raising](./1f33c159a2.jpg)

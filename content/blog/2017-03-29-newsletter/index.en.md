@@ -2,7 +2,7 @@
 title: "ETC Weekly Newsletter: Dev Update + News from Bitkio."
 date: 2017-03-29
 author: Carlo V
-
+tags: ["announcement", "development", "education"]
 ---
 
 

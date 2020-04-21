@@ -2,6 +2,7 @@
 title: The Summary of the Gas-Limit Configuration Call from 12/27/2019
 date: 2019-12-27
 author: ETC Discord
+tags: ["announcement", "development", "education", "teams", "mining", "hardfork"]
 description: There was a call on discord discussing limiting ETC's block gas limit
 linkImage: ./call.jpg
 ---

@@ -2,6 +2,7 @@
 title: "Phoenix Hard Fork Upgrade"
 date: 2020-06-10
 author: Raw Pong Ghmoa
+tags: ["announcement", "development", "education", "teams", "hardfork"]
 ---
 
 # ECIP 1088: Phoenix EVM and Protocol Upgrades

@@ -2,6 +2,7 @@
 title: "社会币的崛起"
 date: 2017-08-27
 author: Prophet Daniel, Tyler West
+tags: ["education"]
 ---
 
 ![Imgur](./Jqu5BV6.png)
