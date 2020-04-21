@@ -483,6 +483,13 @@
   tags: ["announcement", "teams", "development", "application"]
 -
   date: 2020-02-13
+  link: https://youtu.be/Eh7otmaUJgg
+  author: ETC Cooperative
+  source: Red Panda Mining
+  title: "Ethereum Classic SHA3 Is Getting SERIOUS!"
+  tags: ["education", "podcast", "teams", "media", "development", "mining"]
+-
+  date: 2020-02-13
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-announces-the-evm-llvm-alpha-release-cff36d96beef
   author: ETC Labs
   source: Ethereum Classic Labs
@@ -1035,6 +1042,13 @@
   title: "Ethereum Classic Labs Presents: W3 Engineers"
   tags: ["announcement", "development", "teams", "application"]
 -
+  date: 2019-10-10
+  link: https://youtu.be/lPrrcZFKA_4
+  author: Charles Hoskinso
+  source: Ethereum Classic Labs
+  title: "ETC Summit Speaker Spotlight: Charles Hoskinson"
+  tags: ["development", "teams", "media", "education", "podcast"]
+-
   date: 2019-09-21
   link: https://youtu.be/qMY-KsMHpMw
   author: Bob Summerwill
@@ -1350,6 +1364,13 @@
   title: "Ethereum Classic Labs Devs4Devs: Jade Suite Overview and Workshop"
   tags: ["announcement", "development", "teams", "application"]
 -
+  date: 2019-07-24
+  link: https://youtu.be/vdNJp2_gvTM
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "Generate Pristine based Projects with the Pristine-CLI"
+  tags: ["development", "teams", "media", "education", "podcast", "application", "guide"]
+-
   date: 2019-07-23
   link: https://medium.com/etclabscore/ethereum-classic-introduction-to-pristine-an-open-standard-and-template-for-open-source-6c0afa757c98
   author: Stevan Lohja
@@ -1363,6 +1384,13 @@
   source: Etherplan
   title: "Ethereum Classic vs Ethereum 2.0, What is the Difference?"
   tags: ["education"]
+-
+  date: 2019-07-20
+  link: https://youtu.be/Y-Wdg1hgMls
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "Jade Service Runner Workshop"
+  tags: ["development", "teams", "media", "education", "podcast", "application", "guide"]
 -
   date: 2019-07-16
   link: https://medium.com/etclabscore/whats-in-atlantis-ain-t-no-code-like-an-opcode-ce557cba1cc4
@@ -1582,11 +1610,25 @@
   tags: ["development", "teams", "application"]
 -
   date: 2019-04-11
+  link: https://youtu.be/aXHu23q2PrY
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "AMA #2 - Elizabeth Kukka"
+  tags: ["development", "teams", "media", "education", "podcast", "application"]
+-
+  date: 2019-04-11
   link: https://medium.com/ethereum-classic/etc-wanted-dev-or-alive-2581a5079aa1
   author: Yaz Khoury
   source: Ethereum Classic Cooperative
   title: "ETC: Wanted, Dev or Alive"
   tags: ["teams"]
+-
+  date: 2019-04-09
+  link: https://youtu.be/g7Kzh-OyyNs
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "ETC Labs Demo Day"
+  tags: ["development", "teams", "media", "education", "podcast", "application"]
 -
   date: 2019-04-08
   link: https://medium.com/ethereum-classic-labs/the-emerald-city-of-changsha-42f6ccdb0c52
@@ -1980,6 +2022,13 @@
   title: "Deployment Automation for Goerli testnet in 10 minutes"
   tags: ["education", "guide"]
 -
+  date: 2019-01-07
+  link: https://youtu.be/y4D6KXJMqk4
+  author: Ethereum Classic
+  source: Nugget's News
+  title: "Ethereum Classic 51% Attack!"
+  tags: ["development", "teams", "media", "education", "podcast"]
+-
   date: 2018-12-19
   link: https://medium.com/@etclabsnews/introducing-the-first-cohort-at-etc-labs-47ef2c34d354
   author: ETC Labs
@@ -2007,6 +2056,13 @@
   source: Ethereum Clssic Labs
   title: "Clarification: Reasons for Our Actions"
   tags: ["education", "teams"]
+-
+  date: 2018-12-12
+  link: https://youtu.be/OoxIslpOiOg
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "Hashing Mining Event!"
+  tags: ["development", "teams", "media", "education", "podcast", "mining"]
 -
   date: 2018-12-11
   link: https://medium.com/@ETCConsortium/an-open-letter-to-ethereum-classic-community-7a4b0eac8132
@@ -2161,6 +2217,13 @@
   source: Ethereum Foundation
   title: "Ethereum Special Projects announces 15,000 ETC donation to Ethereum Classic Cooperative"
   tags: ["announcement", "teams"]
+-
+  date: 2018-10-29
+  link: https://youtu.be/8GEQhv9l8ls
+  author: Ethereum Classic Cooperative
+  source: 51percent Crypto Research
+  title: "Anthony Lusardi: Ethereum Classic, Dead or Alive?"
+  tags: ["development", "teams", "media", "education", "podcast", "mining"]
 -
   date: 2018-10-24
   link: https://medium.com/ethereum-classic-labs/etc-labs-pilot-program-off-to-a-great-start-90af9f48c750
@@ -2378,6 +2441,13 @@
   source: Crypto Globe
   title: "Barry Silbert’s Digital Currency Group: Only Cryptocurrencies We Like Are Bitcoin (BTC), Ethereum Classic (ETC), Zcash (ZEC), ZenCash(ZEN), and Decentraland (MANA)"
   tags: ["announcement", "application", "teams"]
+-
+  date: 2018-07-17
+  link: https://youtu.be/rA3jCNcPm3I
+  author: Ethereum Classic Cooperative
+  source: Epicenter Podcast
+  title: "Anthony Lusardi: Accelerating the Growth of ETC"
+  tags: ["development", "teams", "media", "education", "podcast"]
 -
   date: 2018-07-14
   link: https://cointelegraph.com/news/coinbase-announces-five-possible-new-assets-makes-no-guarantees-for-trade-listing
@@ -3020,7 +3090,7 @@
   author: Joseph Young
   source: Nasdaq
   title: "Interview: Vitalik Buterin on Scaling Ethereum, Its Popularity in Asia and ICOs"
-  tags: ["teams", "develpment", "application", "education"]
+  tags: ["teams", "development", "application", "education"]
 -
   date: 2017-06-07
   link: https://www.cryptoninjas.net/2017/06/07/hitbtc-goes-live-ethereum-classic-etc-trading/?utm_content=buffercf2b5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
@@ -3491,7 +3561,7 @@
   author: Charles Hoskinson and Alex Chepurnoy
   source: Epicenter Bitcoin
   title: "The Case For Ethereum Classic"
-  tags: ["education"]
+  tags: ["education", "podcast", "teams", "media", "development"]
 -
   date: 2016-08-13
   link: http://www.newsbtc.com/2016/08/13/ethereum-classics-proclaimation-of-independence-from-censorship-and-interference/
