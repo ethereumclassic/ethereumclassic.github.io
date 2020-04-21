@@ -2622,416 +2622,431 @@
   author: Cody Burns
   source: ETC Dev
   title: "A Brief Introduction to Blockchain Stargates"
+  tags: ["education"]
 -
   date: 2017-11-27
   link: https://medium.com/@pyskell/some-changes-to-ethereum-classic-7a97c993a06c
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "Some Changes to Ethereum Classic"
+  tags: ["education", "teams"]
 -
   date: 2017-11-22
   link: https://medium.com/@DontPanicBurns/a-simple-hash-locked-contract-part-1-28d7c6065417
   author: Cody Burns
   source: ETC Dev
   title: "Simple Locking Contracts: Part 1"
+  tags: ["education", "guide", "application", "teams"]
 -
   date: 2017-11-12
   link: https://www.prnewswire.com/news-releases/grayscale-investments-commences-process-to-secure-public-quotation-for-ethereum-classic-investment-trust-shares-on-otcqx-300553756.html
   author: Grayscale Investments
   source: PR Newswire
   title: "Grayscale Investments Commences Process to Secure Public Quotation for Ethereum Classic Investment Trust Shares on OTCQX"
+  tags: ["announcement", "application", "teams"]
 -
   date: 2017-11-10
   link: https://medium.com/@pyskell/whos-talking-at-the-classic-summit-d813e6ba7082
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "Who’s Talking at the Ethereum Classic Summit 2017"
+  tags: ["announcement", "teams"]
 -
   date: 2017-10-25
   link: https://medium.com/@DontPanicBurns/ethereum-cross-chain-atomic-swaps-5a91adca4f43
   author: Cody Burns
   source: ETC Dev
   title: "Ethereum Cross Chain Atomic Swaps"
+  tags: ["education", "application", "teams"]
 -
   date: 2017-10-25
   link: https://medium.com/@pyskell/all-thats-new-in-classic-october-edition-16afa986eaa5
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "All that’s new in Classic — October Edition"
+  tags: ["announcement", "application", "development", "teams"]
 -
   date: 2017-10-04
   link: https://medium.com/@pyskell/making-a-mascot-d28eb3c2e560
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "Making a Mascot for Classic"
+  tags: ["announcement", "teams"]
 -
   date: 2017-09-07
   link: https://medium.com/@pyskell/ethereum-and-classic-e0102dead543
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "Ethereum and Ethereum Classic: What’s the difference?"
+  tags: ["education"]
 -
   date: 2017-09-07
   link: https://www.crowdfundinsider.com/2017/09/121557-bitcoin-ira-unveils-litecoin-ethereum-classic-bitcoin-cash-retirement-investments/
   author: Samantha Hurst
   source: Crowd Fund Insider
   title: "Bitcoin IRA Unveils Litecoin, Ethereum Classic, and Bitcoin Cash for Retirement Investments"
+  tags: ["education"]
 -
   date: 2017-09-01
   link: https://medium.com/@pyskell/all-thats-new-in-classic-dd2749be5aec
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "All that’s new in Classic"
+  tags: ["announcement", "application", "development", "teams"]
 -
   date: 2017-08-23
   link: https://medium.com/@pyskell/phoenix-mascot-redesign-mockups-55e9af1c1547
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "Phoenix Mascot Redesign — Mockups"
+  tags: ["announcement", "application", "teams"]
 -
   date: 2017-08-16
   link: https://www.forbes.com/sites/jonathanchester/2017/08/16/your-guide-on-how-to-run-an-ico-for-better-or-worse/#53e272b83c58
   author: Jonathan Chester
   source: Forbes
   title: "Your Guide To Running An Initial Coin Offering, For Better Or Worse"
+  tags: ["education", "guide"]
 -
   date: 2017-08-11
   link: http://www.nasdaq.com/article/ethereum-classic-forges-its-own-identity-with-new-mantis-client-cm831098
   author: Amy Castor
   source: Nasdaq
   title: "Ethereum Classic Forges Its Own Identity With New Mantis Client"
+  tags: ["announcement", "application", "development", "teams"]
 -
   date: 2017-08-11
   link: https://medium.com/@pyskell/phoenix-mascot-redesign-3d196d55b7d4
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "Phoenix Mascot Redesign"
+  tags: ["announcement", "application", "teams"]
 -
   date: 2017-08-09
   link: https://cointelegraph.com/news/ethereum-classic-begins-to-differentiate-itself-from-ethereum-with-release-of-new-mantis-client
   author: David Dinkins
   source: Coin Telegraph
   title: "Ethereum Classic Begins to Differentiate Itself from Ethereum With Release of New Mantis Client"
+  tags: ["announcement", "education", "development", "teams"]
 -
   date: 2017-07-27
   link: https://arstechnica.com/tech-policy/2017/07/using-a-blockchain-doesnt-exempt-you-from-securities-regulations/
   author: Timothy B. Lee
   source: Ars Technica
   title: "Using a blockchain doesn’t exempt you from securities regulations"
--
-  date: 2017-07-23
-  link: https://cointelegraph.com/news/coinbase-clarifies-no-plans-to-integrate-ethereum-classic-yet
-  author: Joseph Young
-  source: Coin Telegraph
-  title: "Coinbase Clarifies, No Plans to Integrate Ethereum Classic Yet"
+  tags: ["education"]
 -
   date: 2017-07-17
   link: https://themerkle.com/6-ethereum-classic-mining-pools-worth-checking-out/
   author: JP Buntinx
   source: The Merkle
   title: "6 Ethereum Classic Mining Pools Worth Checking Out"
+  tags: ["mining", "education"]
 -
   date: 2017-07-17
   link: https://www.cryptoninjas.net/2017/07/17/alfacashier-adds-support-ethereum-classic-etc/
   author: Associated Press
   source: Crypto Ninjas
   title: "ALFAcashier adds support for Ethereum Classic (ETC)"
--
-  date: 2017-07-16
-  link: https://www.cryptoninjas.net/2017/07/16/crypto-exchange-alfacashier-adds-thailand-banking-support/
-  source: Crypto Ninjas
-  title: "Crypto exchange ALFAcashier adds Thailand banking support"
--
-  date: 2017-07-15
-  link: https://www.cryptocoinsnews.com/ethereum-classic-leads-the-top-10-cryptos-for-the-week/
-  author: Lester Coleman
-  source: Crypto Coins News
-  title: "Ethereum Classic Leads The Top 10 Cryptos For The Week"
+  tags: ["announcement", "application"]
 -
   date: 2017-07-14
   link: http://www.valuewalk.com/2017/07/ethereum-vs-ethereum-classic/
   author: Steve Prentice
   source: Value Walk
   title: "Ethereum vs. Ethereum Classic: Same Great Taste, Half the Calories"
+  tags: ["education"]
 -
   date: 2017-07-14
   link: https://cointelegraph.com/news/ethereum-classic-comes-big-to-china-becomes-best-performing-crypto-on-friday
   author: William Suberg
   source: Coin Telegraph
   title: "Ethereum Classic Comes Big To China, Becomes Best Performing Crypto On Friday"
+  tags: ["announcement", "application"]
 -
   date: 2017-07-12
   link: https://cointelegraph.com/news/ethereum-classic-makes-its-way-onto-chinese-exchange-huobi
   author: Alexander Geralis
   source: Coin Telegraph
   title: "Ethereum Classic Makes Its Way Onto Chinese Exchange Huobi"
+  tags: ["announcement", "application"]
 -
   date: 2017-07-12
   link: https://www.cryptoninjas.net/2017/07/12/okcoin-intl-launch-ethereum-classic-etc-support-july-15th/
   source: Crypto Ninjas
   title: "OKCoin Intl to launch Ethereum Classic (ETC) support on July 15th"
+  tags: ["announcement", "application"]
 -
   date: 2017-07-11
   link: https://www.financemagnates.com/cryptocurrency/trading/dash-litecoin-ripples-xrp-ethereum-classic-added-etoros-cryptofund/
   author: Avi Mizrahi
   source: Finance Magnates
   title: "Dash, Litecoin, Ripple’s XRP and Ethereum Classic Added to eToro’s CryptoFund"
+  tags: ["announcement", "application"]
 -
   date: 2017-07-11
   link: https://themerkle.com/4-ethereum-classic-icos-you-didnt-know-existed/
   author: JP Buntinx
   source: The Merkle
   title: "4 Ethereum Classic ICOs You Didn’t Know Existed"
+  tags: ["announcement", "application"]
 -
   date: 2017-06-30
   link: https://themerkle.com/what-is-ethereum-classics-ecip-1025/
   author: JP Buntinx
   source: The Merkle
   title: "What is Ethereum Classic’s ECIP-1025"
+  tags: ["education", "development"]
 -
   date: 2017-06-29
   link: https://themerkle.com/inpay-introduces-first-dual-blockchain-project-for-ethereum-classic-and-waves/
   author: Mark
   source: The Merkle
   title: "InPay Introduces First Dual Blockchain Project For Ethereum Classic and Waves"
--
-  date: 2017-06-25
-  link: http://bitcoinist.com/ethereum-wars-classic-posts-gains-congestion-plagues-eth/
-  author: Wilma Woo
-  source: Bitcoinist
-  title: "Ethereum Wars: Classic Posts Only Gains, Surfs All-Time Highs As Congestion Plagues ETH"
+  tags: ["announcement", "application"]
 -
   date: 2017-06-25
   link: https://www.cryptocoinsnews.com/ethereum-struggling-scaling-despite-lack-actual-user-base/
   author: Joseph Young
   source: Crypto Coins News
   title: "Ethereum is Struggling With Scaling, Despite Lack of Actual User Base"
+  tags: ["education"]
 -
   date: 2017-06-25
   link: http://www.ibtimes.co.uk/cryptocurrency-exchange-btcc-dax-launches-ethereum-classic-1627718
   author: Ian Allison
   source: IB Times
   title: "Cryptocurrency exchange BTCC DAX launches with Ethereum Classic"
+  tags: ["announcement", "application"]
 -
   date: 2017-06-24
   link: https://www.cryptocoinsnews.com/ethereum-congested-time-start-looking-ico-platforms/
   author: P. H. Madore
   source: Crypto Coins News
   title: "Ethereum Congested: Time to Start Looking at Other ICO Platforms?"
+  tags: ["announcement", "application"]
 -
   date: 2017-06-18
   link: https://cointelegraph.com/news/ethereum-classic-used-to-fight-ticket-touts
   author: Lisa Froelings
   source: Coin Telegraph
   title: "Ethereum Classic Used To Fight Ticket Touts"
+  tags: ["announcement", "application"]
 -
   date: 2017-06-17
   link: https://www.cryptocoinsnews.com/agrello-cto-cant-assume-blockchain-orgs-choose-ethereum/
   author: Justin OConnell
   source: Crypto Coins News
   title: "Can't Infer Every Organization Will Use Ethereum Blockchain: Agrello Chief Scientist"
+  tags: ["announcement", "application"]
 -
   date: 2017-06-16
   link: http://insidebitcoins.com/news/is-ethereum-classic-etc-a-good-investment/57698
   author: Alexander Lielacher
   source: Inside Bitcoins
   title: "Is Ethereum Classic (ETC) a Good Investment?"
+  tags: ["education"]
 -
   date: 2017-06-16
   link: https://themerkle.com/top-5-ethereum-classic-wallets/
   author: JP Buntinx
   source: The Merkle
   title: "Top 5 Ethereum Classic Wallets"
+  tags: ["education", "application"]
 -
   date: 2017-06-15
   link: https://cointelegraph.com/news/ethereum-classic-becomes-first-crypto-research-on-bloomberg-terminals
   author:  William Suberg
   source: Coin Telegraph
   title: "Ethereum Classic Becomes First Crypto Research On Bloomberg Terminals"
--
-  date: 2017-06-14
-  link: https://themerkle.com/ethereum-classic-climbs-the-ranks-to-become-fourth-largest-cryptocurrency-by-market-cap/
-  author: JP Buntinx
-  source: The Merkle
-  title: "Ethereum Classic Climbs the Ranks to Become Fourth Largest Cryptocurrency by Market Cap"
+  tags: ["announcement", "application"]
 -
   date: 2017-06-10
   link: https://www.cryptocoinsnews.com/ethereum-classic-no-bailouts-etc-icos/
   author: P. H. Madore
   source: Crypto Coins News
   title: "Ethereum Classic: 'No Bailouts' in ETC ICOs"
+  tags: ["announcement", "education"]
 -
   date: 2017-06-09
   link: http://roguemoney.net/2017/06/09/cryptocurrency-in-the-world-of-finance/
   author: Digicrypt
   source: Rogue Money
   title: "Cryptocurrency In The World Of Finance"
+  tags: ["education"]
 -
   date: 2017-06-08
   link: http://www.nasdaq.com/article/interview-vitalik-buterin-on-scaling-ethereum-its-popularity-in-asia-and-icos-cm800834
   author: Joseph Young
   source: Nasdaq
   title: "Interview: Vitalik Buterin on Scaling Ethereum, Its Popularity in Asia and ICOs"
+  tags: ["teams", "develpment", "application", "education"]
 -
   date: 2017-06-07
   link: https://www.cryptoninjas.net/2017/06/07/hitbtc-goes-live-ethereum-classic-etc-trading/?utm_content=buffercf2b5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
   author: Associated Press
   source: Crypto Ninjas
   title: "HitBTC goes live with Ethereum Classic (ETC) trading"
+  tags: ["announcement", "application"]
 -
   date: 2017-06-07
   link: https://cointelegraph.com/news/etoro-adds-ethereum-classic-advertises-crypto-in-london
   author: William Suberg
   source: Coin Telegraph
   title: "eToro Adds Ethereum Classic, Advertises Crypto In London"
+  tags: ["announcement", "application"]
 -
   date: 2017-05-29
   link: https://www.cryptoninjas.net/2017/05/29/bobby-lees-twitter-contest-brings-ethereum-classic-btcc/
   source: Crypto Ninjas
   title: "Bobby Lee's Twitter contest brings Ethereum Classic to BTCC"
--
-  date: 2017-05-26
-  link: https://cointelegraph.com/news/ethereum-classic-becomes-fifth-largest-cryptocurrency-briefly-beats-nem-litecoin
-  author: Joseph Young
-  source: Coin Telegraph
-  title: "Ethereum Classic Becomes Fifth Largest Cryptocurrency, Briefly Beats NEM, Litecoin"
--
-  date: 2017-05-26
-  link: http://www.livebitcoinnews.com/ratio-etc-eth-slowly-shrinking/
-  author: JP Buntix
-  source: Live Bitcoin News
-  title: "Ratio Between ETC and ETH Is Slowly Shrinking"
--
-  date: 2017-05-24
-  link: https://cointelegraph.com/news/ethereum-classic-hits-13-billion-market-cap-boosted-by-consensus-silbert
-  author: Frisco d'Anconia
-  source: Coin Telegraph
-  title: "Ethereum Classic Hits $1.3 Billion Market Cap, Boosted By Consensus, Silbert"
+  tags: ["announcement", "application"]
 -
   date: 2017-05-21
   link: https://www.cryptocoinsnews.com/bitticket-uses-ethereum-classic-to-book-tickets-on-a-blockchain/
   author: Rebeca Campbell
   source: Crypto Coins News
   title: "BitTicket Uses Ethereum Classic to Book Tickets on a Blockchain"
+  tags: ["announcement", "application"]
 -
   date: 2017-05-08
   link: https://www.cryptoninjas.net/2017/05/08/korean-exchange-bithumb-announces-support-ethereum-classic-etc/
   author: Associated Press
   source: Crypto Ninjas
   title: "Korean exchange Bithumb announces support for Ethereum Classic ETC"
+  tags: ["announcement", "application"]
 -
   date: 2017-05-04
   link: http://www.huffingtonpost.com/entry/rise-of-ethereum-a-new-blockchain-juggernaut_us_590b1229e4b05279d4edc304
   author: Ameer Rosic
   source: Huffington Post
   title: "Rise of Ethereum: A New Blockchain Juggernaut"
+  tags: ["announcement", "education"]
 -
   date: 2017-04-28
   link: https://bitcoinmagazine.com/articles/grayscale-investments-launches-10-million-ethereum-classic-private-fund
   author: Alex Lielacher
   source: Bitcoin Magazine
   title: "Grayscale Investments Launches $10 Million Ethereum Classic Private Fund"
+  tags: ["announcement", "application", "teams", "education"]
 -
   date: 2017-04-27
   link: https://cointelegraph.com/news/ethereum-classic-fund-goes-live-ethereum-etf-launch-edges-closer
   author: Alexander Geralis
   source: Coin Telegraph
   title: "Ethereum Classic Fund Goes Live, Ethereum ETF Launch Edges Closer"
+  tags: ["announcement", "application", "teams", "education"]
 -
   date: 2017-04-27
   link: https://www.coindesk.com/grayscale-ethereum-classic-vehicle
   author: Stan Higgins
   source: Coin Desk
   title: "Grayscale Opens Ethereum Classic Vehicle to Accredited Investors"
+  tags: ["announcement", "application", "teams", "education"]
 -
   date: 2017-04-26
   link: https://www.marketwatch.com/story/grayscale-launches-ethereum-classic-investment-trust-2017-04-26
   author: Joseph Adinolfi
   source: Market Watch
   title: "Exclusive: Grayscale launches digital-currency fund backed by Silver Lake’s co-founder Hutchins"
+  tags: ["announcement", "application", "teams", "education"]
 -
   date: 2017-04-24
   link: https://medium.com/@classicether/stage-is-set-for-initial-coin-offerings-on-ethereum-classic-blockchain-a364a849681f
   author: Classic Ether
   source: ETC News Updates
   title: "Stage is set for initial coin offerings on Ethereum Classic blockchain"
+  tags: ["announcement", "application"]
 -
   date: 2017-04-19
   link: https://hbr.org/2017/04/who-controls-the-blockchain
   author: Patrick Murck
   title: "Who Controls the Blockchain?"
+  tags: ["education"]
 -
   date: 2017-04-10
   link: https://tradeblock.com/blog/tradeblocks-ecx-index-for-ethereum-classic-now-publicly-available
   author: Associated Press
   source: Trade Block
   title: "TradeBlock’s ECX Index for Ethereum Classic now Publicly Available"
+  tags: ["announcement", "application"]
 -
   date: 2017-04-09
   author: Ville Rantala, Michael Platt
   source: Bitcoin.com
   link: https://news.bitcoin.com/white-hacker-groupl-claim-4-4-million-controversial-dao-refund/
   title: "White Hacker Group to Claim $4.4 Million in Controversial DAO Refund"
+  tags: ["announcement", "education"]
 -
   date: 2017-03-30
   link: https://www.coindesk.com/learn/ethereum-101/ethereum-mining-works
   author: Ethereum 101
   source: Coin Desk
   title: "How Ethereum Mining Works"
+  tags: ["mining", "education"]
 -
   date: 2017-03-26
   link: https://cointelegraph.com/news/now-an-ethereum-classic-private-fund-on-the-horizon
   author: Shivdeep Dhaliwal
   source: Coin Telegraph
   title: "Now an Ethereum Classic Private Fund on the Horizon"
+  tags: ["announcement", "application", "teams"]
 -
   date: 2017-03-17
   link: http://bitcoinist.com/prepare-bitcoin-hard-fork/
   author: Antonio Madeira
   source: Bitcoinist
   title: "How to prepare for Bitcoin fork: lessons from ETC/ETH split"
+  tags: ["hardfork", "education"]
 -
   date: 2017-03-13
   link: https://steemit.com/etc/@cseberino/etcplanet-org-how-to-create-your-own-ethereum-classic-blockchain-explorer-for-learning-and-fun
   author: Christian Seberino
   source: Steem It
   title: "How To Create Your Own Ethereum Classic Blockchain Explorer For Learning and Fun"
+  tags: ["guide", "education"]
 -
   date: 2017-03-13
   link: http://coinjournal.net/grayscale-investments-report-outlines-centralization-risks-in-ethereum/
   author: Kyle Torpey
   source: Coin Journal
   title: "Investments Report Outlines Centralization Risks in Ethereum"
+  tags: ["education"]
 -
   date: 2017-03-12
   link: https://medium.com/@ETCConsortium/monetarypolicy-3d66ca5fd896
   author: ETCC
   source: Ethereum Classic Consortium
   title: "ETC货币政策共同声明"
+  tags: ["announcement", "application", "development", "teams", "education"]
 -
   date: 2017-03-12
   link: https://medium.com/@ETCConsortium/monetarypolicy-1b9c73568081
   author: ETCC
   source: Ethereum Classic Consortium
   title: "A Joint Statement on Ethereum Classic’s Monetary Policy"
+  tags: ["announcement", "application", "development", "teams", "education"]
 -
   date: 2017-03-10
   link: https://btcmanager.com/grayscale-investments-plans-to-launch-private-ethereum-classic-fund/
   author: Alexander Lielacher
   source: BTC Manager
   title: "Grayscale Investments Plans To Launch Private Ethereum Classic Fund"
+  tags: ["announcement", "application", "development", "teams"]
 -
   date: 2017-03-8
   link: https://cointelegraph.com/news/hard-soft-friendly-zooko-wilcox-talks-bitcoin-ethereum-zcash-hard-forks
   author: Joseph Young
   source: Coin Telegram
   title: "Hard, Soft, Friendly? Zooko Wilcox on Hard Forks"
+  tags: ["hardfork", "education"]
 -
   date: 2017-03-08
   link: https://www.bloomberg.com/news/articles/2017-03-09/bitcoin-trust-s-silbert-to-launch-classic-ether-fund-this-month
   author: Olga Kharif
   source: Bloomberg
   title: "Bitcoin Trust's Silbert to Launch Classic Ether Fund This Month"
+  tags: ["announcement", "application", "development", "teams", "education"]
 -
   date: 2017-03-03
   link: https://www.coindesk.com/beyond-immutability-ethereum-classic-maps-way-forward?utm_source=dlvr.it&utm_medium=twitter
@@ -3045,48 +3060,56 @@
   author: Kevin Gao
   source: Seeking Alpha
   title: "The Cryptocurrency Funds Have Arrived, And They're Bringing Wall Street Money"
+  tags: ["announcement", "application"]
 -
   date: 2017-02-15
   link: http://coinjournal.net/upcoming-ethereum-classic-hackathon-aims-foster-blockchain-development-china/
   author: Diana Ngo
   source: Coin Journal
   title: "Upcoming Ethereum Classic Hackathon Aims to Foster Blockchain Development in China"
+  tags: ["announcement", "application", "development", "teams"]
 -
   date: 2017-02-07
   link: http://www.newsbtc.com/2017/02/07/bitcoin-unlimited-mining-pool-ico-accepts-etc-investments/
   author: JP Buntix
   source: News BTC
   title: "Bitcoin Unlimited Mining Pool ICO Only Accepts ETC Investments"
+  tags: ["announcement", "mining", "application"]
 -
   date: 2017-02-03
   link: https://bitcoinmagazine.com/articles/op-ed-why-ethereums-hard-fork-will-cause-problems-coming-year/
   author: Kathleen Breitman
   source: Bitcoin Magazine
   title: "Op Ed: Why Ethereum's Hard Fork Will Cause Problems in the Coming Year"
+  tags: ["hardfork", "education"]
 -
   date: 2017-01-23
   link: https://news.bitcoin.com/grayscale-to-launch-ethereum-classic-trust-modeled-bitcoin-investment-trust/
   author: Kevin Helms
   source: Bitcoin.com
   title: "Grayscale to Launch Ethereum Classic Trust, Modeled After Bitcoin Investment Trust"
+  tags: ["announcement", "application", "development", "teams", "education"]
 -
   date: 2017-01-13
   link: http://www.nasdaq.com/article/ethereum-classic-hard-forks-diffuses-difficulty-bomb-cm733563
   author: Aaron van Wirdum, Bitcoin Magazine
   source: Nasdaq
   title: "Ethereum Classic Hard Forks; Diffuses 'Difficulty Bomb'"
+  tags: ["announcement", "hardfork", "development", "teams"]
 -
   date: 2017-01-13
   link: http://www.coindesk.com/ethereum-classic-diehard-fork/
   author: Alyssa Hertig
   source: Coin Desk
   title: "Ethereum Classic Freezes 'Difficulty Bomb' With 'Diehard' Fork"
+  tags: ["announcement", "hardfork", "development", "teams"]
 -
   date: 2017-01-09
   link: https://bitcoinmagazine.com/articles/barry-silbert-shares-digital-currency-group-s-perspective-on-ethereum-announces-etherscan-investment-1483989140
   author: Kyle Torpey
   source: Bitcoin Magazine
   title: "Barry Silbert Shares Digital Currency Group's Perspective on Ethereum; Announces Etherscan Investment"
+  tags: ["announcement", "application", "development", "teams"]
 -
   date: 2017-01-06
   link: https://cointelegraph.com/news/2017-the-year-bitcoin-finally-breaks-free
