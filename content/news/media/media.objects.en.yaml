@@ -1,4 +1,32 @@
 -
+  date: 2020-04-21
+  link: https://thecurrencyanalytics.com/13720/ethereum-classic-etc-beyond-the-fork-drama-on-blockchain-being-trustless-is-the-ultimate-mission/
+  author: Steven Anderson
+  source: The Currency Analytics
+  title: "Ethereum Classic (ETC) Beyond the Fork Drama on Blockchain Being Trustless is the Ultimate Mission"
+  tags: ["education", "hardfork"]
+-
+  date: 2020-04-20
+  link: https://www.saturn.network/blog/the-final-hodl-prometheus/
+  author: Neuron
+  source: Saturn Network
+  title: "The Final HODL: Prometheus"
+  tags: ["announcement", "development", "application"]
+-
+  date: 2020-04-17
+  link: https://medium.com/ethereum-classic-labs/announcing-our-gitcoins-funding-the-future-hackathon-winners-3385fc9147d8
+  author: Stevan Lohja
+  source: Ethereum Classic Labs
+  title: "Announcing our Gitcoin’s Funding the Future Hackathon Winners"
+  tags: ["announcement", "development", "application", "teams"]
+-
+  date: 2020-04-16
+  link: https://grayscale.co/insights/grayscale-q1-2020-digital-asset-investment-report/
+  author: Grayscale
+  source: Grayscale Investments LLC
+  title: "Digital Asset Investment Report 2020 Q1: Strongest Quarter with $500 million raised"
+  tags: ["announcement", "education", "application", "teams"]
+-
   date: 2020-04-15
   link: https://medium.com/etc-core/etc-testnets-successfully-activate-phoenix-prepare-for-mainnet-4aee3818d8d7
   author: Stevan Lohja
@@ -179,7 +207,7 @@
   author: Grayscale
   source: Grayscale Investments LLC
   title: "Building Blocks: Get to Know the Assets behind Grayscale’s Family of Products"
-  tags: ["education"]
+  tags: ["education", "teams"]
 -
   date: 2020-03-16
   link: https://hackathons.gitcoin.co/funding-the-future
@@ -529,7 +557,7 @@
   author: Grayscale
   source: Grayscale Investments LLC
   title: "An Introduction to Ethereum Classic"
-  tags: ["education"]
+  tags: ["education", "teams"]
 -
   date: 2020-01-31
   link: https://etherplan.com/2020/01/31/ethereum-classic-developer-call-about-the-next-aztlan-phoenix-upgrades-feb-5-2019/9796/
@@ -1908,589 +1936,686 @@
   author: Cody Burns
   source: ETC Dev
   title: "On Recent Event in the Ethereum Classic"
+  tags: ["education", "teams"]
 -
   date: 2018-12-13
   link: https://medium.com/@etclabsnews/clarification-reasons-for-our-actions-3d19228d94eb
   author: ETC Labs
   source: Ethereum Clssic Labs
   title: "Clarification: Reasons for Our Actions"
+  tags: ["education", "teams"]
 -
   date: 2018-12-11
   link: https://medium.com/@ETCConsortium/an-open-letter-to-ethereum-classic-community-7a4b0eac8132
   author: ETCC
   source: Ethereum Classic Consortium
   title: "An Open letter to Ethereum Classic community"
+  tags: ["education", "teams"]
 -
   date: 2018-12-05
   link: https://medium.com/ethereum-classic/the-history-of-etc-c6ded29e5831
   author: Phyro
   source: Ethereum Classic
   title: "The history of ETC"
+  tags: ["education"]
 -
   date: 2018-12-04
   link: https://medium.com/ethereum-classic/open-letter-to-etcdev-their-role-in-our-lasting-community-dba530b6b203
   author: Yaz Khoury
   source: Ethereum Classic Cooperative
   title: "Open Letter to ETCDEV: Their Role In Our Lasting Community"
+  tags: ["education", "teams"]
 -
   date: 2018-12-04
   link: https://medium.com/@stevan.blog/etcdev-fiasco-faq-99aabfb9f52
   author: Stevan Lohja
   source: ETC Dev
   title: "ETCDEV Fiasco FAQ"
+  tags: ["education", "teams"]
 -
   date: 2018-12-04
   link: https://cryptodaily.co.uk/2018/12/ethereum-classic-hits-a-bump
   author: Adrian Barkley
   source: Crypto Daily
   title: "Ethereum Classic Hits A Bump In The Road"
+  tags: ["education"]
 -
   date: 2018-12-03
   link: https://medium.com/akomba/peacebridge-update-dec-2018-b4a27bbdb208
   author: Ying Tong
   source: peaceBridge
   title: "peaceBridge update (Dec 2018)"
+  tags: ["development", "application"]
 -
   date: 2018-12-03
   link: https://medium.com/ethereum-classic-labs/button-wallet-releases-lightysig-for-easy-dapp-development-b05fc437e2e3
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Button Wallet Releases LightySig for Easy DApp Development"
+  tags: ["development", "application", "teams"]
 -
   date: 2018-11-30
   link: https://cryptodaily.co.uk/2018/11/the-sturdiness-of-ethereum-classic
   author: Adrian Barkley
   source: Crypto Daily
   title: "The Sturdiness Of Ethereum Classic"
+  tags: ["education"]
 -
   date: 2018-11-28
   link: https://medium.com/ethereum-classic/a-case-study-in-rebranding-of-etc-815f67c5d42
   author: Yaz Khoury
   source: Ethereum Classic Cooperative
   title: "A Case Study in Rebranding of ETC"
+  tags: ["education"]
 -
   date: 2018-11-27
   link: https://medium.com/@stevan.blog/ethereum-classic-timeline-the-events-that-created-and-defined-etc-29b6b10d16e1
   author: Stevan Lohja
   source: ETC Dev
   title: "Ethereum Classic Timeline: The Events that Created and Defined ETC"
+  tags: ["education"]
 -
   date: 2018-11-27
   link: https://cointelegraph.com/news/coinbase-wallet-adds-support-for-ethereum-classic
   author: Marie Huillet
   source: Coin Telegraph
   title: "Coinbase Wallet Adds Support for Ethereum Classic"
+  tags: ["application", "announcement"]
 -
   date: 2018-11-26
   link: https://www.cryptoninjas.net/2018/11/26/poa-network-releases-tokenbridge-for-easy-erc20-to-erc20-exchanges/
   author: Associated Press
   source: Crypto Ninjas
   title: "POA Network releases TokenBridge for easy ERC20 to ERC20 exchanges"
+  tags: ["application", "announcement", "development", "teams"]
 -
   date: 2018-11-26
   link: https://medium.com/@stevan.blog/introduction-to-emerald-sdk-e213a1b2b3d
   author: Stevan Lohja
   source: ETC Dev
   title: "Introduction to Emerald SDK"
+  tags: ["application", "announcement", "development", "teams"]
 -
   date: 2018-11-21
   link: https://cryptodaily.co.uk/2018/11/What-is-Ethereum-Classics-Project-Goerli
   author: Adrian Barkley
   source: Crypto Daily
   title: "What Is Ethereum Classics Project Goerli?"
+  tags: ["application", "announcement", "development", "teams"]
 -
   date: 2018-11-20
   link: https://medium.com/ethereum-classic/building-a-better-unified-testnet-3f48490cd4e1
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "Building a Better, Unified, Testnet"
+  tags: ["application", "announcement", "development", "teams"]
 -
   date: 2018-11-05
   link: https://blog.goodaudience.com/blockchain-is-about-not-being-important-a39860f25008
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "Blockchain is About Not Being Important: Distributing our Community"
+  tags: ["education"]
 -
   date: 2018-11-01
   link: https://medium.com/ethereum-classic-labs/etc-labs-developer-bootcamp-promotes-dapp-development-on-etc-59b8364da626
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "ETC Labs Developer Bootcamp Promotes DApp Development on ETC"
+  tags: ["application", "announcement", "development", "teams"]
 -
   date: 2018-10-31
   link: https://medium.com/@stevan.blog/october-2018-monthly-dev-update-5b9f732c7389
   author: Stevan Lohja
   source: ETC Dev
   title: "October 2018 | Monthly Dev Update"
+  tags: ["application", "announcement", "development", "teams"]
 -
   date: 2018-10-31
   link: https://medium.com/ethereum-classic/the-etc-phoenix-rises-in-san-francisco-5a16bb92c3ca
   author: Yaz Khoury
   source: Ethereum Classic Cooperative
   title: "The ETC Phoenix Rises in San Francisco"
+  tags: ["announcement", "teams"]
 -
   date: 2018-10-31
   link: https://cryptodaily.co.uk/2018/10/ethereum-offers-ethereum-classic-a-helping-hand
   author: Mark Nezvisky
   source: Crypto Daily
   title: "Ethereum Offers Ethereum Classic A Helping Hand"
+  tags: ["announcement", "teams"]
 -
   date: 2018-10-30
   link: https://medium.com/ethereum-classic-labs/etc-labs-launch-event-a-huge-success-5bab8d8a3903
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "ETC Labs Launch Event a Huge Success"
+  tags: ["announcement", "teams"]
 -
   date: 2018-10-30
   link: https://medium.com/@virgilgr/special-projects-announces-donation-to-ethereum-classic-cooperative-e3bc28c95d0
   author: Virgil Griffith
   source: Ethereum Foundation
   title: "Ethereum Special Projects announces 15,000 ETC donation to Ethereum Classic Cooperative"
+  tags: ["announcement", "teams"]
 -
   date: 2018-10-24
   link: https://medium.com/ethereum-classic-labs/etc-labs-pilot-program-off-to-a-great-start-90af9f48c750
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "ETC Labs’ Pilot Program off to a Great Start"
+  tags: ["announcement", "teams", "development", "application"]
 -
   date: 2018-10-22
   link: https://medium.com/@stevan.blog/democracy-and-decentralization-the-uncomfortable-truth-76f5d203aa69
   author: Stevan Lohja
   source: ETC Dev
   title: "Democracy and Decentralization — The Uncomfortable Truth"
+  tags: ["education"]
 -
   date: 2018-10-17
   link: https://medium.com/the-capital/why-is-the-ethereum-blockchain-known-as-ethereum-classic-a96671d0744e
   author: Stevan Lohja
   source: ETC Dev
   title: "Why is “The Ethereum” blockchain known as Ethereum Classic"
+  tags: ["education"]
 -
   date: 2018-10-15
   link: https://medium.com/ethereum-classic/yaz-khoury-joins-etc-cooperative-as-director-of-developer-advocacy-d1724f1f10af
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "Yaz Khoury Joins ETC Cooperative As Director of Developer Advocacy"
+  tags: ["announcement", "teams"]
 -
   date: 2018-10-11
   link: https://medium.com/ethereum-classic-labs/an-interview-with-elizabeth-kukka-b44d45d86b9f
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "An Interview with Elizabeth Kukka"
+  tags: ["announcement", "teams"]
 -
   date: 2018-10-05
   link: https://medium.com/@stevan.blog/september-2018-monthly-dev-update-7ebe33a9c167
   author: Stevan Lohja
   source: ETC Dev
   title: "September 2018 | Monthly Dev Update"
+  tags: ["announcement", "teams", "development", "application"]
 -
   date: 2018-10-05
   link: https://medium.com/@pyskell/a-response-to-blockchain-interventionism-fd0885646e8d
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "A Response To Blockchain Interventionism"
+  tags: ["education"]
 -
   date: 2018-10-03
   link: https://cryptonews.com/news/turn-your-old-smartphone-into-ethereum-wallet-4787.htm
   author: Sead Fadilpasic
   source: Crypto News
   title: "Turn Your Old Smartphone into Ethereum Hardware Wallet"
+  tags: ["education"]
 -
   date: 2018-10-02
   link: https://medium.com/@stevan.blog/the-emerald-platform-build-dapps-on-etc-404d2a9a967c
   author: Stevan Lohja
   source: ETC Dev
   title: "The Emerald Platform | Build DApps on ETC"
+  tags: ["education", "guide", "application", "development"]
 -
   date: 2018-10-01
   link: https://medium.com/ethereum-classic/adventures-in-classical-ether-38d576a9bdff
   author: Yaz Khoury
   source: Ethereum Classic Cooperative
   title: "Adventures in Classical Ether"
+  tags: ["education", "guide", "application", "development"]
 -
   date: 2018-09-28
   link: https://medium.com/ethereum-classic-labs/etc-labs-at-consensus-singapore-bd6ff9ba26f
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "ETC Labs at Consensus: Singapore"
+  tags: ["announcement", "teams"]
 -
   date: 2018-09-28
   link: https://medium.com/@stevan.blog/moving-from-myetherwallet-to-emerald-wallet-6f63465d26a2
   author: Stevan Lohja
   source: ETC Dev
   title: "Moving From MyEtherWallet to Emerald Wallet"
+  tags: ["education", "guide"]
 -
   date: 2018-09-14
   link: https://medium.com/ethereum-classic-labs/etc-labs-at-the-etc-summit-in-seoul-a8c30d01c2ac
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "ETC Labs at the ETC Summit 2018 in Seoul"
+  tags: ["announcement", "teams"]
 -
   date: 2018-09-13
   link: https://medium.com/chainsafe-systems/chainsafe-systems-g%C3%B6rlitestnet-2583fa13107e
   author: Aidan Hyman
   source: ChainSafe
   title: "ChainSafe@Systems:~$ ./görliTestnet.sh"
+  tags: ["announcement", "teams", "development", "application", "education"]
 -
   date: 2018-09-12
   link: https://medium.com/chainsafe-systems/chainsafe-systems-startdenode-sh-77eafb78aeb7
   author: Aidan Hyman
   source: ChainSafe
   title: "ChainSafe@Systems:~$ ./startDenode.sh"
+  tags: ["announcement", "teams", "development", "application", "education"]
 -
   date: 2018-09-08
   link: https://medium.com/@DontPanicBurns/an-introduction-to-stateful-blockchains-dcdccae660be
   author: Cody Burns
   source: ETC Dev
   title: "An Introduction to Stateful Blockchains"
+  tags: ["education"]
 -
   date: 2018-09-03
   link: https://medium.com/@stevan.blog/august-2018-monthly-dev-update-4f84f9a59760
   author: Stevan Lohja
   source: ETC Dev
   title: "August 2018 | Monthly Dev Update"
+  tags: ["announcement", "teams", "development", "application"]
 -
   date: 2018-08-20
   link: https://cryptodaily.co.uk/2018/08/bittrex-set-to-add-usd-trading-pairs-for-xrp-and-etc
   author: Nathan Bentley
   source: Crypto Daily
   title: "Bittrex Set To Add USD Trading Pairs For XRP And ETC"
+  tags: ["announcement", "application"]
 -
   date: 2018-08-16
   link: https://techcrunch.com/2018/08/16/coinbase-adds-ethereum-classic/
   author: Jon Russell
   source: Tech Crunch
   title: "Coinbase now supports buying and selling Ethereum Classic"
+  tags: ["announcement", "application"]
 -
   date: 2018-08-10
   link: https://coingape.com/ethereum-classic-grayscale-second-highest-portfolio/
   author: Nilesh Maurya
   source: Coin Gape
   title: "Ethereum Classic, Grayscale’s Second Highest Portfolio Holding with Net Assets of USD 70.5mn"
+  tags: ["announcement", "application", "teams"]
 -
   date: 2018-08-08
   link: https://medium.com/ethereum-classic/why-social-rules-in-blockchains-matter-efebb907c0cd
   author: Phyro
   source: Medium
   title: "Why social rules in Blockchains matter"
+  tags: ["education"]
 -
   date: 2018-08-07
   link: https://cryptodaily.co.uk/2018/08/ethereum-classic-achieves-new-listing
   author: Robert Johnson
   source: Crypto Daily
   title: "Ethereum Classic Achieves New Listing"
+  tags: ["announcement", "application"]
 -
   date: 2018-08-03
   link: https://medium.com/@stevan.blog/july-2018-monthly-dev-update-343d2586e4ca
   author: Stevan Lohja
   source: ETC Dev
   title: "July 2018 | Monthly Dev Update"
+  tags: ["announcement", "teams", "development", "application"]
 -
   date: 2018-08-01
   link: https://medium.com/classic-is-coming/etcgame-the-leading-platform-for-predictions-2bcb8a171afd
   author: Classic Is Coming
   source: Classic Is Coming
   title: "ETCGame - The Leading Platform for Predictions"
+  tags: ["announcement", "application", "teams"]
 -
   date: 2018-07-25
   link: https://medium.com/ethereum-classic-labs/an-interview-terry-culver-and-igor-artamonov-on-ethereum-classic-labs-6192ab0ef772
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "An Interview- Terry Culver and Igor Artamonov on Ethereum Classic Labs"
+  tags: ["announcement", "teams"]
 -
   date: 2018-07-19
   link: https://medium.com/ethereum-classic-labs/a-new-look-for-etc-labs-6921ff2a5e80
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "A New Look for ETC Labs"
+  tags: ["announcement", "teams"]
 -
   date: 2018-07-19
   link: https://www.cryptoglobe.com/latest/2018/07/barry-silberts-digital-currency-group-only-cryptocurrencies-we-like-are-bitcoin-btc-ethereum-classic-etc-zcash-zec-zencash-zen-and-decentraland-mana/
   author: Siamak Masnavi
   source: Crypto Globe
   title: "Barry Silbert’s Digital Currency Group: Only Cryptocurrencies We Like Are Bitcoin (BTC), Ethereum Classic (ETC), Zcash (ZEC), ZenCash(ZEN), and Decentraland (MANA)"
+  tags: ["announcement", "application", "teams"]
 -
   date: 2018-07-14
   link: https://cointelegraph.com/news/coinbase-announces-five-possible-new-assets-makes-no-guarantees-for-trade-listing
   author: Ana Alexandre
   source: Coin Telegraph
   title: "Coinbase Announces Five Possible New Assets, Makes No Guarantees For Trade Listing"
+  tags: ["announcement", "application"]
 -
   date: 2018-07-09
   link: https://medium.com/chainsafe-systems/chainsafe-systems-opensource-sh-9b64fc3fb5cc
   author: Aidan Hyman
   source: ChainSafe
   title: "ChainSafe@Systems:~$ ./openSource.sh"
+  tags: ["announcement", "teams", "development", "application"]
 -
   date: 2018-07-03
   link: https://medium.com/@stevan.blog/june-2018-monthly-dev-update-f2c1db85101b
   author: Stevan Lohja
   source: ETC Dev
   title: "June 2018 | Monthly Dev Update"
+  tags: ["announcement", "teams", "development", "application"]
 -
   date: 2018-06-25
   link: https://medium.com/@stevan.blog/emerald-wallet-v1-0-0-emerald-platform-update-82a7ba5392fe
   author: Stevan Lohja
   source: ETC Dev
   title: "Emerald Wallet — v1.0.0 | Emerald Platform Update"
+  tags: ["announcement", "teams", "development", "application"]
 -
   date: 2018-06-23
   link: https://cointelegraph.com/press-releases/saturn-network-launch-first-decentralized-exchange-on-etc
   author: Saturn Network
   source: Coin Telegraph
   title: "Saturn Network Launch First Decentralized Exchange On ETC"
+  tags: ["announcement", "teams", "development", "application"]
 -
   date: 2018-06-22
   link: https://ethereumworldnews.com/saturn-wallet-the-solution-for-accessing-dapps-on-eth-and-etc/
   author: Adrian Mathieu
   source: Ethereum World News
-  title: "SATURN WALLET – ACCESS DAPPS ON ETH AND ETC"
+  title: "Saturn Wallet – Access Dapps on ETH and ETC"
+  tags: ["announcement", "teams", "development", "application"]
 -
   date: 2018-06-22
   link: https://medium.com/ethereum-classic-labs/an-introduction-to-ethereum-classic-labs-dc52912e3056
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "An Introduction to Ethereum Classic Labs"
+  tags: ["announcement", "teams"]
 -
   date: 2018-06-18
   link: https://cryptodaily.co.uk/2018/06/ethereum-classic-etcs-coinbase-listing-signals-mass-adoption-binance-lists-etc-usdt-and-etc-bnb-pairs
   author: Jefe Caan
   source: Crypto Daily
   title: "Ethereum Classic (ETC)’S Coinbase Listing Signals Mass Adoption, Binance Lists ETC/USDT And ETC/BNB Pairs"
-  tags: ["exchange"]
+  tags: ["announcement", "application"]
 -
   date: 2018-06-14
   link: https://cryptodaily.co.uk/2018/06/ripple-stellar-and-ethereum-classic-all-approved
   author: Nathan Bentley
   source: Crypto Daily
   title: "Ripple, Stellar And Ethereum Classic All Approved"
+  tags: ["application"]
 -
   date: 2018-06-13
   link: https://medium.com/ethereum-classic/why-did-coinbase-list-etc-2c6078149c18
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "Why Did Coinbase List ETC?"
+  tags: ["application"]
 -
   date: 2018-06-12
   link: https://cryptodaily.co.uk/2018/06/ethereum-classic-skyrockets-with-new-coinbase-listing
   author: Jefe Caan
   source: Crypto Daily
   title: "Ethereum Classic Skyrockets With New Coinbase Listing"
+  tags: ["application"]
 -
   date: 2018-06-11
   link: https://medium.com/@stevan.blog/may-2018-monthly-dev-update-71c16d5ad30a
   author: Stevan Lohja
   source: ETC Dev
   title: "May 2018 | Monthly Dev Update"
+  tags: ["announcement", "teams", "development", "application"]
 -
   date: 2018-05-30
   link: https://ethereumworldnews.com/ethereum-classic-hard-fork-defuses-difficulty-bomb/
   author: Conor Maloney
   source: Ethereum World News
-  title: "ETHEREUM CLASSIC [ETC] HARD FORK DEFUSES DIFFICULTY BOMB"
+  title: "Ethereum Classic [ETC] Hard Fork Defuses Difficulty Bomb"
+  tags: ["announcement", "development", "hardfork"]
 -
   date: 2018-05-30
   link: https://cryptodaily.co.uk/2018/05/ethereum-classic-hard-fork-proves-lifesaver
   author: Thomas Ramsay
   source: Crypto Daily
   title: "Ethereum Classic Hard Fork Proves To Be A Lifesaver"
+  tags: ["announcement", "development", "hardfork"]
 -
   date: 2018-05-30
   link: https://cryptodaily.co.uk/2018/05/ethereum-classic-etc-new-institutional-favorite-bitcoin-btc-eos-eos
   author: Jefe Caan
   source: Crypto Daily
   title: "Ethereum Classic (ETC) Is The New Institutional Favorite After Bitcoin (BTC) And EOS (EOS)"
+  tags: ["announcement"]
 -
   date: 2018-05-15
   link: https://medium.com/@stevan.blog/ethereum-classic-geth-v5-3-0-geth-update-7e7e81588b75
   author: Stevan Lohja
   source: ETC Dev
   title: "Ethereum Classic Geth — v5.3.0 | Geth Update"
+  tags: ["announcement", "development", "application", "teams"]
 -
   date: 2018-05-14
   link: https://medium.com/@stevan.blog/getting-started-with-emerald-wallet-ethereum-classic-wallet-6629b87c0ce6
   author: Stevan Lohja
   source: ETC Dev
   title: "Getting Started with Emerald Wallet — Ethereum Classic Wallet"
+  tags: ["education", "application", "development"]
 -
   date: 2018-05-13
   link: https://medium.com/coinmonks/the-dao-is-history-or-is-it-47a6f457338a
   author: Phyro
   source: Medium
   title: "The DAO is History… or is it?"
+  tags: ["education"]
 -
   date: 2018-05-12
   link: https://themerkle.com/grayscales-ethereum-classic-investment-fund-can-now-be-traded-on-otcqx/
   author: JP Buntinx
   source: The Merkle
   title: "Grayscale’s Ethereum Classic Investment Fund Can Now Be Traded on OTCQX"
+  tags: ["announcement", "application", "teams"]
 -
   date: 2018-05-11
   link: https://medium.com/ethereum-classic/etc-went-to-edcon-203b58efa53b
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "ETC Went to EDCON"
+  tags: ["announcement", "teams"]
 -
   date: 2018-05-10
   link: https://www.ccn.com/retail-investors-can-now-buy-the-ethereum-classic-investment-trust/
   author: Josiah Wilmoth
   source: CCN
   title: "Retail Investors Can Now Buy the Ethereum Classic Investment Trust"
+  tags: ["announcement", "application", "teams"]
 -
   date: 2018-05-09
   link: https://medium.com/@stevan.blog/ethereum-classic-geth-v5-2-1-geth-update-93a426fe56b4
   author: Stevan Lohja
   source: ETC Dev
   title: "Ethereum Classic Geth — v5.2.1 | Geth Update"
+  tags: ["announcement", "development", "application", "teams"]
 -
   date: 2018-05-08
   link: https://medium.com/@stevan.blog/emerald-wallet-v0-10-0-rc-4-emerald-platform-update-537fad8bfa1d
   author: Stevan Lohja
   source: ETC Dev
   title: "Emerald Wallet — v0.10.0 RC 4 | Emerald Platform Update"
+  tags: ["announcement", "development", "application", "teams"]
 -
   date: 2018-05-05
   link: https://medium.com/@DontPanicBurns/continuity-for-an-augmented-world-1ec16d48ac9c
   author: Cody Burns
   source: ETC Dev
   title: "Continuity for an Augmented world"
+  tags: ["education", "development", "application", "guide", "teams"]
 -
   date: 2018-05-04
   link: https://medium.com/@stevan.blog/ethereum-classic-hard-fork-difficulty-bomb-defusal-450a18b6f931
   author: Stevan Lohja
   source: ETC Dev
   title: "Ethereum Classic Hard Fork | Difficulty Bomb Defusal"
+  tags: ["announcement", "development", "hardfork", "teams"]
 -
   date: 2018-05-02
   link: https://medium.com/@stevan.blog/april-2018-monthly-dev-update-8b54297c5a11
   author: Stevan Lohja
   source: ETC Dev
   title: "April 2018 | Monthly Dev Update"
+  tags: ["announcement", "development", "application", "teams"]
 -
   date: 2018-05-01
   link: https://medium.com/@isaac_/exploring-minimum-viable-sidechains-on-etc-3f4b06246aaf
   author: Isaac A
   source: ETC Dev
   title: "Exploring Minimum-Viable Sidechains on ETC"
+  tags: ["education", "development", "application", "teams"]
 -
   date: 2018-04-30
   link: https://medium.com/@etcdev/etcdev-team-principles-and-vision-c224ae36b6a6
   author: ETCDev
   source: Ethereum Classic Development Team
   title: "ETCDEV Team Principles and Vision"
+  tags: ["education"]
 -
   date: 2018-04-30
   link: https://medium.com/@etcdev/a-joint-statement-on-ethereum-classics-monetary-policy-920c3af82eef
   author: ETCDev
   source: Ethereum Classic Dev
   title: "A Joint Statement on Ethereum Classic’s Monetary Policy"
+  tags: ["mining", "development", "hardfork", "teams"]
 -
   date: 2018-04-27
   link: https://cryptodaily.co.uk/2018/04/war-asics-might-not-solution
   author: Crypto IQ
   source: Crypto Daily
   title: "War On ASICs Might Not Be The Solution"
+  tags: ["mining", "education"]
 -
   date: 2018-04-18
   link: https://medium.com/@isaac_/geth-classic-v5-2-introducing-geth-getaddresstransactions-133c76fa82d1
   author: Isaac A
   source: ETC Dev
   title: "Geth Classic v5.2: Introducing geth_getAddressTransactions."
+  tags: ["announcement", "development", "application", "teams"]
 -
   date: 2018-04-06
   link: https://medium.com/@DontPanicBurns/etc-in-a-post-asic-resistant-world-63263faa1de1
   author: Cody Burns
   source: ETC Dev
   title: "ETC in a Post-ASIC resistant world"
+  tags: ["mining", "education"]
 -
   date: 2018-04-05
   link: https://cryptodaily.co.uk/2018/04/ethereum-classic-etc-forgotten-twin-brother-ethereum-eth
   author: Jefe Caan
   source: Crypto Daily
   title: "Ethereum Classic (ETC): The Forgotten Twin Brother Of Ethereum (ETH)"
+  tags: ["education"]
 -
   date: 2018-04-03
   link: https://medium.com/ethereum-classic/etc-community-update-funding-messaging-and-new-web-wallet-c9cde6e1de5f
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "ETC Community Update — Funding, Messaging, and New Web Wallet"
+  tags: ["announcement", "development", "application", "teams"]
 -
   date: 2018-03-26
   link: https://medium.com/@pyskell/etc-roundup-etcdev-hires-and-software-updates-81464cd1cb02
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "ETC Roundup — ETCDEV Hires and Software Updates"
+  tags: ["announcement", "development", "application", "teams"]
 -
   date: 2018-03-19
   link: https://medium.com/@pyskell/etc-roundup-what-happened-last-week-3-19-18-d49b6ef1add0
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "ETC Roundup — What happened last week (3/19/18)"
+  tags: ["announcement", "development", "application", "teams"]
 -
   date: 2018-03-13
   link: https://www.ccn.com/grayscale-files-list-ethereum-classic-trust-publicly-quoted-otc-market/
   author: Josiah Wilmoth
   source: CCN
   title: "Grayscale Files to List Ethereum Classic Trust on Publicly-Quoted OTC Market"
+  tags: ["announcement", "development", "application", "teams"]
 -
   date: 2018-03-12
   link: https://medium.com/@pyskell/etc-roundup-whats-new-this-week-3-12-18-5eabdf954a49
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "ETC Roundup— What’s new this week (3/12/18)"
+  tags: ["announcement", "development", "application", "teams"]
 -
   date: 2018-03-09
   link: https://cryptodaily.co.uk/2018/03/grayscale-adds-ripple-xrp-litecoin-ethereum-bch-to-its-investment-trust
   author: Thomas Ramsay
   source: Crypto Daily
   title: "Grayscale Adds Ripple XRP, Litecoin, Ethereum, and BCH To Its Investment Trust"
+  tags: ["announcement", "teams"]
 -
   date: 2018-03-08
   link: https://www.ccn.com/circles-coinbase-like-cryptocurrency-investing-app-enters-closed-beta/
   author: Josiah Wilmoth
   source: Crypto Coins News
   title: "Circle Invest supports ETC/USD trading pairs"
+  tags: ["announcement", "application"]
 -
   date: 2018-03-06
   link: https://medium.com/@pyskell/etc-rundown-whats-new-this-week-e92eddc9d149
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "ETC Rundown — What’s new this week (3/6/18)!"
+  tags: ["announcement", "development", "application", "teams"]
 -
   date: 2018-02-17
   link: https://medium.com/ethereum-classic/long-term-outlook-for-ethereum-classic-b6f1643f8f70
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "Long Term Outlook for Ethereum Classic"
+  tags: ["announcement", "development", "application", "teams"]
 -
   date: 2018-02-07
   link: https://medium.com/ethereum-classic/beyond-the-decentralized-chain-9154361c89a7
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "Beyond the Decentralized Chain"
+  tags: ["education"]
 -
   date: 2018-01-12
   link: https://medium.com/@DontPanicBurns/simple-locking-contracts-part-2-23afb841120f
   author: Cody Burns
   source: ETC Dev
   title: "Simple Locking Contracts: Part 2"
+  tags: ["education", "guide", "application", "teams"]
 -
   date: 2017-12-31
   link: https://medium.com/classic-is-coming/the-emerald-platform-ethereum-classic-395996b4e40b
   author: Classic Is Coming
   source: Classic Is Coming
   title: "The Emerald Platform - Ethereum Classic"
+  tags: ["development", "application", "teams"]
 -
   date: 2017-12-17
   link: https://bitsonline.com/coinbase-support-bch-etc/
   author: Jon Southurst
   source: Bits Online
   title: "Coinbase Busy Adding Bitcoin Cash and Ethereum Classic Support?"
+  tags: ["application"]
 -
   date: 2017-12-16
   link: https://medium.com/classic-is-coming/8btc-etcdev-team-ask-me-anything-9993b152b6f0
   author: Classic Is Coming
   source: Classic Is Coming
   title: "ETCDEV Team Ask Me Anything - Classic is Coming"
+  tags: ["announcement", "teams"]
 -
   date: 2017-12-04
   link: https://medium.com/@DontPanicBurns/the-blockchain-stargate-366a7a72822e
