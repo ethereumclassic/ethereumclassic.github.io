@@ -2,7 +2,7 @@
 title: "Core Devs Call: ECIP-1078 Phoenix Finalization"
 date: 2020-02-05
 author: soc1c
-tags: ["announcement", "development", "education", "teams", "hardfork"]
+tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ---
 
 [https://ecips.ethereumclassic.org/ECIPs/ecip-1078](https://ecips.ethereumclassic.org/ECIPs/ecip-1078)
