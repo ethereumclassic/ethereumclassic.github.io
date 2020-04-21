@@ -2,6 +2,7 @@
 title: Getting things done in a decentralized way
 date: 2016-07-27
 author: Arvicco
+tags: ["announcement", "development", "teams", "hardfork", "education"]
 ---
 ![Getting things done](./Dollarphotoclub_39093955.jpg)
 

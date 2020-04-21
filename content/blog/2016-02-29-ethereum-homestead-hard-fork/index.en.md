@@ -2,6 +2,7 @@
 title: Homestead Release - Protocol Upgrade
 date: 2016-02-29
 author: Jeffrey Wilcke
+tags: ["announcement", "development", "teams", "hardfork"]
 ---
 
 Attribution: [https://blog.ethereum.org/2016/02/29/homestead-release/](https://blog.ethereum.org/2016/02/29/homestead-release/)

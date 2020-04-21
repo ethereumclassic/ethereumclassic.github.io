@@ -1,5 +1,12 @@
 -
   date: 2020-04-21
+  link: https://www.saturn.network/blog/cross-chain-atomic-swaps/
+  author: Neuron
+  source: Saturn Network
+  title: "Roadmap: Cross Chain Atomic Swaps - Decentralized Trading between ETH/ETC via Saturn Protocol"
+  tags: ["announcement", "development", "application"]
+-
+  date: 2020-04-21
   link: https://thecurrencyanalytics.com/13720/ethereum-classic-etc-beyond-the-fork-drama-on-blockchain-being-trustless-is-the-ultimate-mission/
   author: Steven Anderson
   source: The Currency Analytics
@@ -10,7 +17,7 @@
   link: https://www.saturn.network/blog/the-final-hodl-prometheus/
   author: Neuron
   source: Saturn Network
-  title: "The Final HODL: Prometheus"
+  title: "The Final HODL: Prometheus - Saturn Protocol v2"
   tags: ["announcement", "development", "application"]
 -
   date: 2020-04-17

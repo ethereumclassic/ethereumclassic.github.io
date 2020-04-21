@@ -2,7 +2,7 @@
 title: "ETC Weekly Newsletter : In Case You Missed It"
 date: 2016-12-20
 author: Carlo V
-
+tags: ["announcement", "development", "education"]
 ---
 
 

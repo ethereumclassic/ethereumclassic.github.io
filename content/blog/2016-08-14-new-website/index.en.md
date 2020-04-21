@@ -2,6 +2,7 @@
 title: New Website Created
 date: 2016-08-14
 author: DaxClassix
+tags: ["announcement", "development", "teams", "hardfork", "education"]
 ---
 
 Hello, Classic Fans!

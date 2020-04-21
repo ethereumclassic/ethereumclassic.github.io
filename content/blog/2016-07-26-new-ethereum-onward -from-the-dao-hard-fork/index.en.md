@@ -2,6 +2,7 @@
 title: Onward from the DAO Hard Fork
 date: 2016-07-26
 author: Vitalik Buterin
+tags: ["announcement", "development", "teams", "hardfork", "education"]
 ---
 
 Attribution: [https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/](https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/)

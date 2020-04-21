@@ -2,6 +2,7 @@
 title: "ETC Newsletter"
 date: 2016-11-15
 author: Carlo Vicari
+tags: ["announcement", "development", "teams", "education"]
 ---
                 
 ## Links To Our Community
