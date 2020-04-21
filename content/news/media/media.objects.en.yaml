@@ -48,6 +48,13 @@
   title: "ETC Cooperative 2019 Retrospective released"
   tags: ["announcement", "teams"]
 -
+  date: 2020-04-10
+  link: https://youtu.be/lXLFU4NKQac
+  author: UnknownCrypto
+  source: UnknownCrypto
+  title: "How To Mine Ethereum Classic"
+  tags: ["media", "education", "podcast", "mining", "development"]
+-
   date: 2020-04-09
   link: https://youtu.be/OK5tVQXWmqc
   author: EVM61 Podcast
@@ -637,6 +644,13 @@
   tags: ["announcement", "teams"]
 -
   date: 2020-01-24
+  link: https://youtu.be/2ea9UZyvkZo
+  author: The Cryptoviser
+  source: The Cryptoviser
+  title: "Grayscale + Ethereum Classic; Institutional Exchange ErisX Big Partnership; Robots in Walmart"
+  tags: ["media", "education", "podcast"]
+-
+  date: 2020-01-24
   link: https://etherplan.com/2019/01/24/the-meaning-of-immutability-in-ethereum-classic-etc/7381/
   author: Donald McIntyre
   source: Etherplan
@@ -748,6 +762,13 @@
   title: "Vyper and Brownie Contract Development on EVM Chains"
   tags: ["education", "guide", "teams"]
 -
+  date: 2020-01-03
+  link: https://youtu.be/uCS1FPthu78
+  author: Btc Newz
+  source: Btc Newz
+  title: "Ethereum Classic: Latest ETC Introduction (Beginner guide)"
+  tags: ["media", "education", "podcast", "guide"]
+-
   date: 2020-01-02
   link: https://captainaltcoin.com/best-ethereum-classic-etc-wallets/
   author: Phillipp Traugott
@@ -789,6 +810,13 @@
   source: AMB Crypto
   title: "Ethereum Classic’s Agharta hardfork to signal compatibility with Ethereum"
   tags: ["announcement", "development", "teams", "hardfork"]
+-
+  date: 2019-12-23
+  link: https://youtu.be/RaD0x33PP0I
+  author: Atlas
+  source: Atlas
+  title: "What is Ethereum Classic (ETC) - Explained"
+  tags: ["media", "education", "podcast"]
 -
   date: 2019-12-23
   link: https://medium.com/@constantp2p/constant-etc-ama-recap-94095ff87f07
@@ -903,6 +931,13 @@
   tags: ["announcement", "development", "mining"]
 -
   date: 2019-11-24
+  link: https://youtu.be/pMzi3KBuEtk
+  author: Red Panda Mining
+  source: Red Panda Mining
+  title: "Ethereum Classic REJECTS ProgPoW..."
+  tags: ["media", "education", "podcast", "mining"]
+-
+  date: 2019-11-24
   link: https://medium.com/@antsankov/pt-4-a-compromise-on-ecip-1049-preserving-the-consensus-while-adopting-keccak256-via-soft-fork-ffd12beb9a76
   author: Alexander Tsankov
   source: Medium
@@ -964,6 +999,13 @@
   source: CryptoNewZ
   title: "Ethereum Classic Reveals Results of Use Satisfaction Survey"
   tags: ["announcement"]
+-
+  date: 2019-11-08
+  link: https://youtu.be/dSGtELxoEKc
+  author: Red Panda Mining
+  source: Red Panda Mining
+  title: "Ethereum Classic Mining ALGORITHM Discussion!"
+  tags: ["media", "education", "podcast", "mining"]
 -
   date: 2019-11-06
   link: https://medium.com/etc-core/ethereum-classic-use-satisfaction-results-november-2019-d8857b4e172b
@@ -1069,6 +1111,13 @@
   source: ETC Core
   title: "Ethereum Classic Labs Core — Quarterly Development Review Q3, 2019"
   tags: ["announcement", "development", "teams", "application"]
+-
+  date: 2019-10-15
+  link: https://youtu.be/xRIX5mpVntk
+  author: Red Panda Mining
+  source: Red Panda Mining
+  title: "Can't Mine Ethereum Classic On 4GB Cards In Windows?"
+  tags: ["media", "education", "podcast", "mining"]
 -
   date: 2019-10-15
   link: https://etherplan.com/2019/10/15/in-banking-wealth-is-controlled-by-providers-in-blockchain-wealth-is-controlled-by-owners/9302/
@@ -1246,6 +1295,13 @@
   tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-09-10
+  link: https://youtu.be/sOkhGSk1Up8
+  author: SavageMine
+  source: SavageMine
+  title: "Ethereum Classic Atlantis Hard Fork"
+  tags: ["media", "education", "podcast", "hardfork", "mining"]
+-
+  date: 2019-09-10
   link: https://medium.com/@Linzhi/linzhi-e1400-tapeout-1688df3bb5d
   author: Linzhi Shenzhen
   source: Linzhi Corp
@@ -1273,6 +1329,13 @@
   title: "Ethereum Classic Labs Partners With Blockchain Developer and Media DApp"
   tags: ["announcement", "teams", "application"]
 -
+  date: 2019-09-04
+  link: https://youtu.be/WelYtUvEWas
+  author: SavageMine
+  source: SavageMine
+  title: "How to Mine Ethereum Classic (ETC) - Hive OS"
+  tags: ["media", "education", "podcast", "guide", "mining"]
+-
   date: 2019-09-01
   link: https://blog.secondstate.io/post/20190901-etc-partners-with-secondstate/
   author: Second State
@@ -1293,6 +1356,13 @@
   source: Ethereum Classic Cooperative
   title: "IMPORTANT: About ETC “Atlantis” upgrade"
   tags: ["announcement", "development", "teams", "hardfork"]
+-
+  date: 2019-08-23
+  link: https://youtu.be/LPbIvBHJewE
+  author: Bytwork, Криптовалюты, Блокчейн и Майнинг
+  source: Bytwork, Криптовалюты, Блокчейн и Майнинг
+  title: "Хардфорк Ethereum Classic (ETC): Майнинг и изменения Atlantis"
+  tags: ["media", "education", "podcast", "hardfork"]
 -
   date: 2019-08-23
   link: https://medium.com/ethereum-classic-labs/ethermine-announces-full-support-for-ethereum-classic-atlantis-hard-fork-5231d3c70d58
@@ -1350,6 +1420,13 @@
   title: "ETC Labs Launches Studio Program to Support Developing ETC Projects"
   tags: ["announcement", "development", "teams", "application"]
 -
+  date: 2019-08-06
+  link: https://youtu.be/xRIX5mpVntk
+  author: Digital Fortress
+  source: Digital Fortress
+  title: "Alex Tsankov on Ethereum Classic, the SHA3 Mining Algorithm, and the Astor Test Net"
+  tags: ["media", "education", "podcast", "mining"]
+-
   date: 2019-07-30
   link: https://medium.com/etclabscore/ethereum-classic-labs-core-quarterly-development-review-q2-2019-969137ea3d95
   author: Stevan Lohja
@@ -1405,6 +1482,13 @@
   source: ETC Core
   title: "Ethereum Classic and Jade Suite are Enabling Truly P2P Decentralized Applications"
   tags: ["announcement", "development", "teams", "application"]
+-
+  date: 2019-07-02
+  link: https://youtu.be/XAoz2voThOM
+  author: 2Miners
+  source: 2Miners
+  title: "How to Mine Ethereum Classic - ETC Mining Pool Setup"
+  tags: ["media", "education", "podcast", "mining"]
 -
   date: 2019-07-01
   link: https://medium.com/ethereum-classic/ethercluster-an-open-source-alternative-to-infura-b8799b2122d3
@@ -1475,6 +1559,13 @@
   source: Medium
   title: "(pt. 3) ECIP-1049: Mining Your Internet Connection. Why Ethereum Classic should Adopt SHA3."
   tags: ["education", "development", "mining"]
+-
+  date: 2019-06-13
+  link: https://youtu.be/a0ZBiQu5DKY
+  author: Altcoin Daily
+  source: Altcoin Daily
+  title: "Ethereum Classic (ETC): A Brief History"
+  tags: ["media", "education", "podcast"]
 -
   date: 2019-06-11
   link: https://medium.com/ethereum-classic-labs/announcement-on-the-etc-atlantis-hard-fork-3742974f5363
@@ -1574,12 +1665,26 @@
   title: "Quantifying Immutability"
   tags: ["education"]
 -
+  date: 2019-05-01
+  link: https://youtu.be/ErUxqLLtIj4
+  author: The Cryptocurrency Portal
+  source: The Cryptocurrency Portal
+  title: "Ethereum vs. Ethereum Classic-What is the difference?"
+  tags: ["media", "education", "podcast"]
+-
   date: 2019-04-25
   link: https://cryptodaily.co.uk/2019/04/updates-ethereum-classic-network-developer
   author: Robert Johnson
   source: Crypto Daily
   title: "Updates On Ethereum Classic Network Revealed By Developer"
   tags: ["hardfork", "development"]
+-
+  date: 2019-04-25
+  link: https://youtu.be/iRv0Sc51e4Y
+  author: Red Panda Mining
+  source: Red Panda Mining
+  title: "Ethereum Classic Algorithm Change?"
+  tags: ["media", "education", "podcast", "mining"]
 -
   date: 2019-04-23
   link: https://medium.com/etclabscore/monthly-dev-update-3-q1-core-development-review-862e285599bd
@@ -1650,6 +1755,13 @@
   source: Linzhi Corp
   title: "EIP 1057 (ProgPoW): Open Chip Design for 1% cost/power increase"
   tags: ["development", "teams", "mining"]
+-
+  date: 2019-03-29
+  link: https://youtu.be/dSGtELxoEKc
+  author: Stevan Lohja
+  source: The Crypto Lark
+  title: "Ethereum Classic - Challenges of Building Good Tech"
+  tags: ["media", "education", "podcast", "mining"]
 -
   date: 2019-03-28
   link: https://medium.com/@stevan.blog/immutability-ethereum-classic-d59dd7724d95
@@ -1750,11 +1862,25 @@
   tags: ["education", "mining", "application"]
 -
   date: 2019-03-08
+  link: https://youtu.be/JO7Xrik9dtI
+  author: SavageMine
+  source: SavageMine
+  title: "How to Mine Ethereum Classic (ETC) - Ethash"
+  tags: ["media", "education", "podcast", "guide", "mining"]
+-
+  date: 2019-03-08
   link: https://medium.com/ethereum-classic-labs/etc-labs-presents-cryzen-db8770d98b35
   author: McDappas
   source: Ethereum Classic Labs
   title: "ETC Labs Presents: Cryzen"
   tags: ["announcement", "development", "teams", "application"]
+-
+  date: 2019-03-07
+  link: https://youtu.be/8o7Ty8Bz9h8
+  author: Red Panda Mining
+  source: Red Panda Mining
+  title: "Reset the DAG Size on Ethereum Classic?"
+  tags: ["media", "education", "podcast", "mining"]
 -
   date: 2019-03-06
   link: https://forum.poa.network/t/introducing-etc-bridge-and-wrapped-ethereum-classic-wetc/2207
@@ -1776,6 +1902,13 @@
   source: Ethereum Classic Labs
   title: "This Week in the Labs: March 4th"
   tags: ["announcement", "development", "teams", "application"]
+-
+  date: 2019-03-01
+  link: https://youtu.be/CwiDLVm7dgs
+  author: TABConf 2019
+  source: The Atlanta Blockchain
+  title: "Ethereum vs Ethereum Classic (ETH vs ETC)"
+  tags: ["media", "education", "podcast"]
 -
   date: 2019-03-01
   link: https://medium.com/ethereum-classic-labs/etc-labs-presents-vrex-labs-993e9d0476d4
@@ -1993,6 +2126,13 @@
   source: Benzinga
   title: "How to Buy Ethereum Classic in Nigeria"
   tags: ["application"]
+-
+  date: 2019-01-09
+  link: https://youtu.be/uoPryKN7Imo
+  author: Cryptocurrency Australia
+  source: Cryptocurrency Australia
+  title: "The Real Implications of the Ethereum Classic Hack"
+  tags: ["media", "education", "podcast", "mining"]
 -
   date: 2019-01-09
   link: https://medium.com/@antsankov/ecip-1049-why-ethereum-classic-should-adopt-keccak256-for-its-proof-of-work-algorithm-e45aee32d8a9
@@ -2246,6 +2386,13 @@
   title: "Why is “The Ethereum” blockchain known as Ethereum Classic"
   tags: ["education"]
 -
+  date: 2018-10-16
+  link: https://youtu.be/99tI14jTRPM
+  author: Clockwise Crypto
+  source: Clockwise Crypto
+  title: "Why I Have Ethereum Classic - ETH vs. Ethereum Classic - Immutability - DAO HACK"
+  tags: ["media", "education", "podcast"]
+-
   date: 2018-10-15
   link: https://medium.com/ethereum-classic/yaz-khoury-joins-etc-cooperative-as-director-of-developer-advocacy-d1724f1f10af
   author: Anthony Lusardi
@@ -2259,6 +2406,13 @@
   source: Ethereum Classic Labs
   title: "An Interview with Elizabeth Kukka"
   tags: ["announcement", "teams"]
+-
+  date: 2018-10-11
+  link: https://youtu.be/_u7HjH87cME
+  author: Dionysis Zindros
+  source: IOHK
+  title: "Ethereum Classic Summit - Dionysis Zindros - Sidechains"
+  tags: ["development", "teams", "media", "education", "podcast"]
 -
   date: 2018-10-08
   link: https://youtu.be/kyh7VWFRIM0
@@ -2287,6 +2441,13 @@
   source: Crypto News
   title: "Turn Your Old Smartphone into Ethereum Hardware Wallet"
   tags: ["education"]
+-
+  date: 2018-10-03
+  link: https://youtu.be/q-00TQKwKds
+  author: Alan Verbner 
+  source: IOHK
+  title: "Ethereum Classic Summit Alan Verbner Interview & Workshop"
+  tags: ["development", "teams", "media", "education", "podcast", "guide"]
 -
   date: 2018-10-02
   link: https://medium.com/@stevan.blog/the-emerald-platform-build-dapps-on-etc-404d2a9a967c
@@ -2322,6 +2483,13 @@
   source: Ethereum Classic Labs
   title: "ETC Labs at the ETC Summit 2018 in Seoul"
   tags: ["announcement", "teams"]
+-
+  date: 2018-09-13
+  link: https://youtu.be/DH3xmSa-JZA
+  author: Charles Hoskinson
+  source: IOHK
+  title: "Ethereum Classic Summit in Seoul 2018 - Charles Hoskinson"
+  tags: ["development", "teams", "media", "education", "podcast", "guide", "application"]
 -
   date: 2018-09-13
   link: https://medium.com/chainsafe-systems/chainsafe-systems-g%C3%B6rlitestnet-2583fa13107e
@@ -2386,6 +2554,13 @@
   title: "Coinbase now supports buying and selling Ethereum Classic"
   tags: ["announcement", "application"]
 -
+  date: 2018-08-13
+  link: https://youtu.be/rIT3ON4Rkb4
+  author: Bitcoin for Beginners
+  source: Bitcoin for Beginners
+  title: "Real Talk: Ethereum Classic $ETC! The GOOD & The BAD. No Shilling. No FUD."
+  tags: ["media", "education", "podcast"]
+-
   date: 2018-08-10
   link: https://coingape.com/ethereum-classic-grayscale-second-highest-portfolio/
   author: Nilesh Maurya
@@ -2399,6 +2574,13 @@
   source: Medium
   title: "Why social rules in Blockchains matter"
   tags: ["education"]
+-
+  date: 2018-08-07
+  link: https://youtu.be/BUWHFFWUHYY
+  author: Fast Money
+  source: CNBC Television
+  title: "Ethereum classic takes the spotlight, and here's what's behind all the hype"
+  tags: ["media", "education", "podcast", "application"]
 -
   date: 2018-08-07
   link: https://cryptodaily.co.uk/2018/08/ethereum-classic-achieves-new-listing
@@ -2420,6 +2602,13 @@
   source: Classic Is Coming
   title: "ETCGame - The Leading Platform for Predictions"
   tags: ["announcement", "application", "teams"]
+-
+  date: 2018-07-28
+  link: https://youtu.be/44IYVOkJ9TE
+  author: Anthony Lusardi
+  source: Learn Crypto / Wyckoff SMI
+  title: "Ethereum Classic Interview With ETC Cooperative! What is the Future of $ETC?"
+  tags: ["media", "education", "podcast", "teams"]
 -
   date: 2018-07-25
   link: https://medium.com/ethereum-classic-labs/an-interview-terry-culver-and-igor-artamonov-on-ethereum-classic-labs-6192ab0ef772
@@ -2701,12 +2890,26 @@
   title: "Ethereum Classic (ETC): The Forgotten Twin Brother Of Ethereum (ETH)"
   tags: ["education"]
 -
+  date: 2018-04-04
+  link: https://youtu.be/dH-Ai2Hsky8
+  author: Crypto Investing
+  source: Crypto Investing
+  title: "Ethereum Classic What Is It? - How Ethereum Classic Works? - ЕTC Review"
+  tags: ["media", "education", "podcast"]
+-
   date: 2018-04-03
   link: https://medium.com/ethereum-classic/etc-community-update-funding-messaging-and-new-web-wallet-c9cde6e1de5f
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "ETC Community Update — Funding, Messaging, and New Web Wallet"
   tags: ["announcement", "development", "application", "teams"]
+-
+  date: 2018-04-02
+  link: https://youtu.be/DYpJTRKbCsI
+  author: eToro
+  source: eToro
+  title: "Ethereum Classic, the original Ethereum blockchain"
+  tags: ["media", "education", "podcast"]
 -
   date: 2018-03-26
   link: https://medium.com/@pyskell/etc-roundup-etcdev-hires-and-software-updates-81464cd1cb02
@@ -2834,6 +3037,13 @@
   title: "Some Changes to Ethereum Classic"
   tags: ["education", "teams"]
 -
+  date: 2017-11-19
+  link: https://youtu.be/pz_CoLY-r3c
+  author: Bitcoin Benny
+  source: Bitcoin Benny
+  title: "Ethereum Classic Review"
+  tags: ["media", "education", "podcast"]
+-
   date: 2017-11-22
   link: https://medium.com/@DontPanicBurns/a-simple-hash-locked-contract-part-1-28d7c6065417
   author: Cody Burns
@@ -2939,6 +3149,13 @@
   title: "Ethereum Classic Begins to Differentiate Itself from Ethereum With Release of New Mantis Client"
   tags: ["announcement", "education", "development", "teams"]
 -
+  date: 2017-08-07
+  link: https://youtu.be/VVaVPp-05tc
+  author: Louis Thomas
+  source: Louis Thomas
+  title: "Ethereum Classic (ETC) Cryptocurrency Review"
+  tags: ["media", "education", "podcast"]
+-
   date: 2017-07-27
   link: https://arstechnica.com/tech-policy/2017/07/using-a-blockchain-doesnt-exempt-you-from-securities-regulations/
   author: Timothy B. Lee
@@ -3036,6 +3253,13 @@
   title: "Ethereum Congested: Time to Start Looking at Other ICO Platforms?"
   tags: ["announcement", "application"]
 -
+  date: 2017-06-22
+  link: https://youtu.be/VU-QO5cLFPE
+  author: IMineBlocks
+  source: IMineBlocks
+  title: "How To Create Ethereum Classic Wallet Address and Send / Receive ETC"
+  tags: ["media", "education", "podcast", "guide"]
+-
   date: 2017-06-18
   link: https://cointelegraph.com/news/ethereum-classic-used-to-fight-ticket-touts
   author: Lisa Froelings
@@ -3106,11 +3330,25 @@
   title: "eToro Adds Ethereum Classic, Advertises Crypto In London"
   tags: ["announcement", "application"]
 -
+  date: 2017-06-01
+  link: https://youtu.be/XmN3gbPA4NE
+  author: Louie's Tutorials
+  source: Louie's Tutorials
+  title: "How to Create an Ethereum and Ethereum Classic Wallet"
+  tags: ["media", "education", "podcast", "guide"]
+-
   date: 2017-05-29
   link: https://www.cryptoninjas.net/2017/05/29/bobby-lees-twitter-contest-brings-ethereum-classic-btcc/
   source: Crypto Ninjas
   title: "Bobby Lee's Twitter contest brings Ethereum Classic to BTCC"
   tags: ["announcement", "application"]
+-
+  date: 2017-05-23
+  link: https://youtu.be/NEn1ayFOD28
+  author: Charles Hoskinson
+  source: Crypt0
+  title: "Charles Hoskinson (IOHK CEO / Ethereum Classic Leader) - BIG Things For ETC P. 1"
+  tags: ["media", "education", "podcast", "teams", "development"]
 -
   date: 2017-05-21
   link: https://www.cryptocoinsnews.com/bitticket-uses-ethereum-classic-to-book-tickets-on-a-blockchain/
@@ -3160,6 +3398,13 @@
   source: Market Watch
   title: "Exclusive: Grayscale launches digital-currency fund backed by Silver Lake’s co-founder Hutchins"
   tags: ["announcement", "application", "teams", "education"]
+-
+  date: 2017-04-24
+  link: https://youtu.be/evv2X8m-YFg
+  author: ChampagneCrypto
+  source: ChampagneCrypto
+  title: "Ethereum vs. Ethereum Classic: Explained"
+  tags: ["media", "education", "podcast"]
 -
   date: 2017-04-24
   link: https://medium.com/@classicether/stage-is-set-for-initial-coin-offerings-on-ethereum-classic-blockchain-a364a849681f
@@ -3292,6 +3537,13 @@
   source: Bitcoin Magazine
   title: "Op Ed: Why Ethereum's Hard Fork Will Cause Problems in the Coming Year"
   tags: ["hardfork", "education"]
+-
+  date: 2017-01-25
+  link: https://youtu.be/jgfsIxAiiHY
+  author: IMineBlocks
+  source: IMineBlocks
+  title: "How To Mine Ethereum Classic ETC On Windows"
+  tags: ["media", "education", "podcast", "mining", "guide"]
 -
   date: 2017-01-23
   link: https://news.bitcoin.com/grayscale-to-launch-ethereum-classic-trust-modeled-bitcoin-investment-trust/
@@ -3513,6 +3765,13 @@
   source: Fortune
   title: "The Bizarre Fallout of Ethereum’s Epic Fail"
   tags: ["education"]
+-
+  date: 2016-08-26
+  link: https://youtu.be/6xgRtSH8sY8
+  author: BuriedONE
+  source: BuriedONE
+  title: "Mining Ethereum Classic (ETC) For 24 Hours!"
+  tags: ["education", "podcast", "guide", "media", "mining"]
 -
   date: 2016-08-21
   link: http://www.coindesk.com/can-two-ethereum-markets-co-exist/
