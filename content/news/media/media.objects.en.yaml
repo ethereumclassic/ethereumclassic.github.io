@@ -154,6 +154,13 @@
   tags: ["education"]
 -
   date: 2020-03-20
+  link: https://youtu.be/yWX-GZAQxYA
+  author: Bob Summerwill
+  source: ETHDenver
+  title: "What's Happening with ETC? - Ethereum Classic Cooperative"
+  tags: ["development", "teams", "media", "education", "podcast"]
+-
+  date: 2020-03-20
   link: https://www.youtube.com/watch?v=3ONSiJdGGtU
   author: ETC Labs
   source: Gitcoin
@@ -187,6 +194,13 @@
   source: Portal Network
   title: "ETC Integration- KAIZEN x The Graph"
   tags: ["announcement", "application"]
+-
+  date: 2020-03-17
+  link: https://youtu.be/Y903ptmymWg
+  author: Bob Summerwill
+  source: Ethereum Classic Cooperative
+  title: "Ethereum Public and Enterprise Specifications"
+  tags: ["development", "teams", "media", "education"]
 -
   date: 2020-03-17
   link: https://www.cryptonewsz.com/etc-cooperative-welcomes-elaine-ou-craig-salm-roy-zou-as-board-of-directors/
@@ -299,6 +313,13 @@
   source: Binance
   title: "Instantly buy ETC, BCH, DASH, XTZ, ZEC and more with Visa Card"
   tags: ["announcement", "application"]
+-
+  date: 2020-03-05
+  link: https://youtu.be/XSO67rCCDew
+  author: Bob Summerwill
+  source: Ethereum Community Conference
+  title: "A Call for an End to Tribalism in Ethereum, 2 Years Later - ETC Cooperative"
+  tags: ["development", "teams", "media", "education", "podcast"]
 -
   date: 2020-03-05
   link: https://medium.com/etc-core/core-geth-a-distribution-of-go-ethereum-with-many-flavors-a80fc29ca17a
@@ -811,6 +832,13 @@
   title: "Highlights from Ethereum Classic Labs Keynote and Accelerator Updates"
   tags: ["announcement", "teams"]
 -
+  date: 2019-12-08
+  link: https://youtu.be/CLjNItU3yXU
+  author: Bob Summerwill
+  source: Ethereum Classic Cooperative
+  title: "What is happening with Ethereum Classic? (Devcon5)"
+  tags: ["development", "teams", "media", "education"]
+-
   date: 2019-12-04
   link: https://www.saturn.network/blog/what-is-a-full-node/
   author: Sam
@@ -1000,6 +1028,13 @@
   title: "Ethereum Classic Labs Presents: W3 Engineers"
   tags: ["announcement", "development", "teams", "application"]
 -
+  date: 2019-09-21
+  link: https://youtu.be/qMY-KsMHpMw
+  author: Bob Summerwill
+  source: Guarda Wallet
+  title: "AMA session with ETC Cooperative"
+  tags: ["development", "teams", "media", "education", "podcast"]
+-
   date: 2019-10-17
   link: https://medium.com/the-capital/code-is-law-is-competent-blockchain-design-not-an-ideology-661d3c36c14c
   author: Stevan Lohja
@@ -1097,6 +1132,13 @@
   source: Linzhi Corp
   title: "What Is Memory-Hard?"
   tags: ["education", "mining"]
+-
+  date: 2019-10-03
+  link: https://www.youtube.com/watch?v=7smKT5mZ9MI&list=PL20HSZ6AK2yOSOhBGFtLj6zPLkJEm_3FF
+  author: ETC Summit 2019
+  source: Ethereum Classic Cooperative
+  title: "ETC Summit 2019 - All Videos"
+  tags: ["development", "teams", "media", "education", "podcast"]
 -
   date: 2019-10-02
   link: https://medium.com/ethereum-classic/etc-summit-2019-photos-from-the-venue-ccd494ef6bda
@@ -1441,6 +1483,13 @@
   title: "Ethereum Classic to Expand Functionality and Improve Compatibility with Ethereum"
   tags: ["announcement", "development", "teams", "application"]
 -
+  date: 2019-06-02
+  link: https://youtu.be/pwLZMxF2r20
+  author: Bob Summerwill
+  source: Cryptorado Community
+  title: "Ethereum Classic Cooperative - interview w/ Bob Summerwill [ETHDenver 2019]"
+  tags: ["development", "teams", "media", "education", "podcast"]
+-
   date: 2019-05-31
   link: https://medium.com/etclabscore/eip-161-state-trie-clearing-a-simplified-explanation-c1aca3e18000
   author: Stevan Lohja
@@ -1713,6 +1762,13 @@
   source: Medium
   title: "Different kinds of 51% attacks"
   tags: ["education", "mining"]
+-
+  date: 2019-02-16
+  link: https://youtu.be/l3ucRZivks0
+  author: Bob Summerwill
+  source: ETHDenver
+  title: "What is Ethereum? Ethereum Classic Cooperative"
+  tags: ["development", "teams", "media", "education", "podcast"]
 -
   date: 2019-02-15
   link: https://medium.com/ethereum-classic-labs/etc-labs-presents-slips-51d98bc7f568
@@ -2134,6 +2190,13 @@
   title: "An Interview with Elizabeth Kukka"
   tags: ["announcement", "teams"]
 -
+  date: 2018-10-08
+  link: https://youtu.be/kyh7VWFRIM0
+  author: Bob Summerwill
+  source: Alamo City Ethereum Meetup
+  title: "End to Tribalism"
+  tags: ["development", "teams", "media", "education", "podcast"]
+-
   date: 2018-10-05
   link: https://medium.com/@stevan.blog/september-2018-monthly-dev-update-7ebe33a9c167
   author: Stevan Lohja
@@ -2198,6 +2261,13 @@
   tags: ["announcement", "teams", "development", "application", "education"]
 -
   date: 2018-09-12
+  link: https://www.youtube.com/watch?v=FZ2poxSjYrM&list=PL20HSZ6AK2yMBVTKQvEQX5Zj61_jDkKIW
+  author: ETC Summit 2018
+  source: Ethereum Classic Cooperative
+  title: "ETC Summit 2018 - All Videos"
+  tags: ["development", "teams", "media", "education", "podcast"]
+-
+  date: 2018-09-12
   link: https://medium.com/chainsafe-systems/chainsafe-systems-startdenode-sh-77eafb78aeb7
   author: Aidan Hyman
   source: ChainSafe
@@ -2218,12 +2288,26 @@
   title: "August 2018 | Monthly Dev Update"
   tags: ["announcement", "teams", "development", "application"]
 -
+  date: 2018-09-01
+  link: https://youtu.be/_WaamOS63bg
+  author: Bob Summerwill
+  source: ADI Vancouver Blockchain Summit
+  title: "Speaking at ADI Vancouver Blockchain Summit - Varro Technologies"
+  tags: ["development", "teams", "media", "education", "podcast"]
+-
   date: 2018-08-20
   link: https://cryptodaily.co.uk/2018/08/bittrex-set-to-add-usd-trading-pairs-for-xrp-and-etc
   author: Nathan Bentley
   source: Crypto Daily
   title: "Bittrex Set To Add USD Trading Pairs For XRP And ETC"
   tags: ["announcement", "application"]
+-
+  date: 2018-08-17
+  link: https://youtu.be/N3nwFhLpdE4
+  author: Bob Summerwill
+  source: NEWSBTC
+  title: "Live Stream Interview With Bob Summerwill On Ethereum's Future"
+  tags: ["development", "teams", "media", "education", "podcast"]
 -
   date: 2018-08-16
   link: https://techcrunch.com/2018/08/16/coinbase-adds-ethereum-classic/
@@ -2372,6 +2456,20 @@
   title: "May 2018 | Monthly Dev Update"
   tags: ["announcement", "teams", "development", "application"]
 -
+  date: 2018-06-04
+  link: https://youtu.be/Jij1teieHo8
+  author: Bob Summerwill
+  source: EDCON 2018
+  title: "Cryptocurrency and the Future of Securities - Ethereum Classic Cooperative"
+  tags: ["development", "teams", "media", "education", "podcast"]
+-
+  date: 2018-05-31
+  link: https://youtu.be/IRcsTvMvz4Y
+  author: Bob Summerwill
+  source: ChronoLogic
+  title: "Scaling the Heart of the Ethereum Community"
+  tags: ["development", "teams", "media", "education", "podcast"]
+-
   date: 2018-05-30
   link: https://ethereumworldnews.com/ethereum-classic-hard-fork-defuses-difficulty-bomb/
   author: Conor Maloney
@@ -2505,6 +2603,13 @@
   title: "Geth Classic v5.2: Introducing geth_getAddressTransactions."
   tags: ["announcement", "development", "application", "teams"]
 -
+  date: 2018-04-17
+  link: https://youtu.be/1OlgIZaknQA
+  author: Bob Summerwill
+  source: ChronoLogic
+  title: "Ethereum Supply Chains and Potential for Scheduling Transactions"
+  tags: ["development", "teams", "media", "education", "podcast"]
+-
   date: 2018-04-06
   link: https://medium.com/@DontPanicBurns/etc-in-a-post-asic-resistant-world-63263faa1de1
   author: Cody Burns
@@ -2540,6 +2645,20 @@
   title: "ETC Roundup — What happened last week (3/19/18)"
   tags: ["announcement", "development", "application", "teams"]
 -
+  date: 2018-03-17
+  link: https://youtu.be/i4UDUqXtjMM
+  author: Bob Summerwill
+  source: Epicenter Podcast
+  title: "Sweetbridge – Rewriting the Operating System for the World Economy"
+  tags: ["development", "teams", "media", "education", "podcast"]
+-
+  date: 2018-03-14
+  link: https://youtu.be/848Uz4ht4KU
+  author: Bob Summerwill
+  source: Analysis In Chains
+  title: "Interview with Bob Summerwill from Sweetbridge"
+  tags: ["development", "teams", "media", "education", "podcast"]
+-
   date: 2018-03-13
   link: https://www.ccn.com/grayscale-files-list-ethereum-classic-trust-publicly-quoted-otc-market/
   author: Josiah Wilmoth
@@ -2560,6 +2679,13 @@
   source: Crypto Daily
   title: "Grayscale Adds Ripple XRP, Litecoin, Ethereum, and BCH To Its Investment Trust"
   tags: ["announcement", "teams"]
+-
+  date: 2018-03-08
+  link: https://youtu.be/HRK1nEBn1WU
+  author: Bob Summerwill
+  source: Ethereum Community Coference
+  title: "A Call for an End to Tribalism in Ethereum"
+  tags: ["development", "teams", "media", "education", "podcast"]
 -
   date: 2018-03-08
   link: https://www.ccn.com/circles-coinbase-like-cryptocurrency-investing-app-enters-closed-beta/
@@ -2637,6 +2763,13 @@
   source: ETC Dev
   title: "Simple Locking Contracts: Part 1"
   tags: ["education", "guide", "application", "teams"]
+-
+  date: 2017-11-12
+  link: https://www.youtube.com/watch?v=vYvbzjETbxI&list=PL20HSZ6AK2yOrde28Pi_XCoaDWbahIhi0
+  author: ETC Summit 2017
+  source: Ethereum Classic Cooperative
+  title: "ETC Summit 2017 - All Videos"
+  tags: ["development", "teams", "media", "education", "podcast"]
 -
   date: 2017-11-12
   link: https://www.prnewswire.com/news-releases/grayscale-investments-commences-process-to-secure-public-quotation-for-ethereum-classic-investment-trust-shares-on-otcqx-300553756.html
@@ -3242,6 +3375,13 @@
   source: Motherboard
   title: "Apple's Rules for Virtual Currencies Are Interminably Vague"
   tags: ["education"]
+-
+  date: 2016-09-21
+  link: https://youtu.be/S7jT7IWRVlw
+  author: Bob Summerwill
+  source: Ethereum Foundation
+  title: "Ethereum for Resource Limited Devices (Devcon Two)"
+  tags: ["development", "teams", "media", "education", "podcast"]
 -
   date: 2016-09-19
   link: http://bitcoinist.net/ethereum-nodes-crashing-attack/
