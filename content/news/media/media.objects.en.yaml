@@ -23,7 +23,7 @@
   date: 2020-04-09
   link: https://etherplan.com/2020/04/09/why-does-ethereum-classic-have-value/10916/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "Why Does Ethereum Classic Have Value?"
   tags: ["education"]
 -
@@ -44,7 +44,7 @@
   date: 2020-04-05
   link: https://etherplan.com/2020/04/05/the-bitcoin-security-model-explained/10862/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "The Bitcoin Security Model Explained"
   tags: ["education"]
 -
@@ -121,7 +121,7 @@
   date: 2020-03-21
   link: https://etherplan.com/2020/03/21/why-proof-of-work-based-nakamoto-consensus-is-secure-and-complete/10509/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "Why Proof of Work Based Nakamoto Consensus is Secure and Complete"
   tags: ["education"]
 -
@@ -135,7 +135,7 @@
   date: 2020-03-19
   link: https://etherplan.com/2020/03/19/ethereum-classic-ungovernance-explained/10522/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "Ethereum Classic Ungovernance Explained"
   tags: ["education"]
 -
@@ -212,7 +212,7 @@
   date: 2020-03-15
   link: https://etherplan.com/2020/03/15/ethereum-classic-brand-promise-positioning-personality-and-communications/10479/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "Ethereum Classic Brand Promise, Positioning, Personality, and Communications"
   tags: ["education"]
 -
@@ -233,7 +233,7 @@
   date: 2020-03-11
   link: https://etherplan.com/2020/03/11/the-ethereum-classic-security-model-explained/10348/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "The Ethereum Classic Security Model Explained"
   tags: ["education"]
 -
@@ -331,7 +331,7 @@
   date: 2020-02-26
   link: https://etherplan.com/2020/02/26/ethereum-classic-phoenix-upgrade-set-for-block-10500839-estimated-on-june-10th-2020/10191/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "Ethereum Classic Phoenix Upgrade set for Block 10,500,839 Estimated on June 10th, 2020"
   tags: ["education"]
 -
@@ -340,14 +340,14 @@
   author: Ethereum Classic Core Developers Call
   source: ETC Core
   title: "Core Devs Call: Phoenix Upgrade from Scratch"
-  tags: ["announcement", "development", "teams", "hardfork"]
+  tags: ["announcement", "development", "teams", "hardfork", "media"]
 -
   date: 2020-02-25
   link: https://youtu.be/ju25cWHNbWA
   author: FINANCIALFREEDOMCJ
   source: Ethereum Classic's ECIP1017 - 5M20
   title: "Ethereum Classic (ETC) Block Reward reduction happening soon!! Are you ready??"
-  tags: ["announcement", "mining", "education"] 
+  tags: ["announcement", "mining", "education", "media"] 
 -
   date: 2020-02-25
   link: https://medium.com/ethereum-classic-labs/advisory-to-reject-ecip-1061-aztlan-and-ecip-1078-phoenixfix-for-ethereum-classic-28df21a206c
@@ -359,7 +359,7 @@
   date: 2020-02-25
   link: https://etherplan.com/2020/02/25/the-ethereum-classic-monetary-policy-explained/10025/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "The Ethereum Classic Monetary Policy Explained"
   tags: ["education"]
 -
@@ -382,7 +382,7 @@
   author: Zachary Belford
   source: Ethereum Foundation
   title: "OpenRPC Talk at Ethereum Core Devs Meeting #81 [2020-2-21]"
-  tags: ["education", "guide", "development", "application"]
+  tags: ["education", "guide", "development", "application", "media"]
 -
   date: 2020-02-21
   link: https://medium.com/etc-core/evm61-an-etc-podcast-e534a9009a22
@@ -403,7 +403,7 @@
   author: Zachary Belford
   source: ETC Core
   title: "ETHDenver Hackathon Winner: MetaMask Snaps + OpenRPC = Love"
-  tags: ["teams", "education", "guide", "development", "application"]
+  tags: ["teams", "education", "guide", "development", "application", "media"]
 -
   date: 2020-02-14
   link: https://sludgefeed.com/ethereum-classic-labs-partners-with-fantom-foundation/
@@ -459,11 +459,12 @@
   author: Ritka Sharma
   source: The Coin Republic
   title: "ETC Upgrade Aztlan Is Now In Integration With Hyperledger Besu"
+  tags: ["announcement", "teams", "development", "hardfork"]
 -
   date: 2020-02-06
   link: https://etherplan.com/2020/02/06/ethereum-classic-money-property-agreements-explained/9965/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "Ethereum Classic Money, Property, and Agreements Explained"
   tags: ["education"]
 -
@@ -484,7 +485,7 @@
   date: 2020-02-05
   link: https://etherplan.com/2020/02/05/ethereum-classic-aztlan-phoenix-upgrades-set-to-activate-on-block-10500839-estimated-on-june-10th-2020/9901/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "Ethereum Classic Aztlán and PhoenixFix Upgrades set to Activate on Block 10,500,839 Estimated on June 10th, 2020"
   tags: ["education"]
 -
@@ -493,12 +494,12 @@
   author: Ethereum Classic Core Developers Call
   source: ETC Core
   title: "Ethereum Classic Core Devs Meeting - ECIP-1078 Phoenix Finalization"
-  tags: ["announcement", "teams", "development", "hardfork"]
+  tags: ["announcement", "teams", "development", "hardfork", "media"]
 -
   date: 2020-02-04
   link: https://etherplan.com/2020/02/04/the-ethereum-classic-trinity-explained/9845/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "The Ethereum Classic Trinity Explained"
   tags: ["education"]
 -
@@ -533,7 +534,7 @@
   date: 2020-01-31
   link: https://etherplan.com/2020/01/31/ethereum-classic-developer-call-about-the-next-aztlan-phoenix-upgrades-feb-5-2019/9796/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "Ethereum Classic Developer Call – About the Next Aztlán and Phoenix Upgrades – Feb 5, 2019"
   tags: ["education"]
 -
@@ -542,11 +543,12 @@
   author: Marie Knowles
   source: Chamber of Digital Commerce
   title: "Digital Finance Group Joins Chamber of Digital Commerce Executive Committee"
+  tags: ["announcement", "teams"]
 -
   date: 2020-01-28
   link: https://etherplan.com/2020/01/28/the-ethereum-classic-ecosystem-explained/9680/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "The Ethereum Classic Ecosystem Explained"
   tags: ["education"]
 -
@@ -574,7 +576,7 @@
   date: 2020-01-24
   link: https://etherplan.com/2019/01/24/the-meaning-of-immutability-in-ethereum-classic-etc/7381/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "The Meaning of Immutability in Ethereum Classic (ETC)"
   tags: ["education"]
 -
@@ -658,7 +660,7 @@
   date: 2020-01-14
   link: https://etherplan.com/2020/01/14/the-logic-of-why-ethereum-classic-will-rise-1000x-in-the-medium-to-long-term/9639/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "The Logic of why Ethereum Classic will Rise 1000x in the Medium to Long Term"
   tags: ["education"]
 -
@@ -667,14 +669,14 @@
   author: Stevan Lohja
   source: ETC Core
   title: "Agharta hard-fork is successfully activated on Ethereum Classic"
-  tags: ["hardfork", "announcement", "development", "teams"]
+  tags: ["announcement", "teams", "development", "hardfork"]
 -
   date: 2020-01-12
   link: https://youtu.be/2lYP1EOdGEQ
   author: ETC Core
   source: Ethereum Classic Core
   title: "Agharta Hard-Fork Countdown [01-12-2020]"
-  tags: ["hardfork", "announcement", "development"]
+  tags: ["announcement", "teams", "development", "media"]
 -
   date: 2020-01-10
   link: https://medium.com/ethereum-classic/vyper-and-brownie-contract-development-on-evm-chains-85ba7fa2feef
@@ -694,224 +696,258 @@
   link: https://www.cryptoglobe.com/latest/2019/12/ethereum-nodes-randomly-stop-syncing-as-parity-warns-of-potential-attack/
   author: Francisco Memoria
   source: Crypto Globe
-  title: "Some Parity Ethereum Nodes Not Syncing, Parity Suspects an Attack"
+  title: "Some ParityEthereum Nodes Not Syncing, Parity Suspects an Attack"
+  tags: ["announcement", "teams", "development"]
 -
   date: 2019-12-27
   link: https://youtu.be/Svp-eWnqf_g
   author: Ethereum Classic Core Developers Call
   source: ETC Core
   title: "Ethereum Classic Core Devs Meeting - Gas Limit Reduction"
+  tags: ["announcement", "mining", "development", "media", "teams"]
 -
   date: 2019-12-26
   link: https://www.coindesk.com/the-ethereum-community-is-no-longer-fighting-with-itself
   author: Bob Summerwill
   source: Coin Desk
   title: "The Ethereum Community Is No Longer Fighting With Itself"
+  tags: ["announcement", "teams"]
 -
   date: 2019-12-26
   link: https://cointelegraph.com/news/agharta-hard-fork-to-bring-full-compatibility-between-etc-and-eth
   author: Joeri Cant
   source: Coin Telegraph
   title: "Agharta Hard Fork to bring Full Compatibility Between ETC and ETH"
-  tags: ["hardfork", "announcement"]
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2019-12-26
   link: https://eng.ambcrypto.com/ethereum-classics-agharta-hard-fork-to-signal-compatibility-with-ethereum/
   author: Sahana Kiran
   source: AMB Crypto
   title: "Ethereum Classic’s Agharta hardfork to signal compatibility with Ethereum"
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2019-12-23
   link: https://medium.com/@constantp2p/constant-etc-ama-recap-94095ff87f07
   author: Constant P2P
   source: Ethereum Classic Labs
   title: "Constant P2P and ETC Labs AMA Recap"
+  tags: ["teams"]
 -
   date: 2019-12-20
   link: https://cryptobriefing.com/parity-confirms-departure-ethereum-move-dao/
   author: Liam Kelly
   source: Crypto Briefing
   title: "Parity Confirms Departure from Ethereum Following Move to DAO"
+  tags: ["announcement", "development", "teams"]
 -
   date: 2019-12-17
   link: https://cryptodaily.co.uk/2019/12/ethereum-classic-teams-rebrand-for-clarity
   author: Adrian Barkley
   source: Crypto Daily
   title: "Ethereum Classic Labs Core Team Rebrands to ETC Core For Clarity"
+  tags: ["announcement", "development", "teams"]
 -
   date: 2019-12-12
   link: https://youtu.be/vipvH21tXgc
   author: Ethereum Classic Core Developers Call
   source: ETC Core
   title: "Ethereum Classic Core Devs Meeting - Agharta hard fork finalization"
+  tags: ["announcement", "development", "teams", "hardfork", "media"]
 -
   date: 2019-12-12
   link: https://medium.com/@ETCConsortium/etc-consortium-huobi-etc-airdrop-for-etc-community-only-d4f08ace3120
   author: ETCC
   source: Ethereum Classic Consortium
   title: "ETC Consortium and Huobi: ETC giveaway for ETC Community ONLY!"
+  tags: ["announcement", "teams"]
 -
   date: 2019-12-12
   link: https://medium.com/etc-core/ethereum-classic-agharta-hard-fork-finalization-c4298b4d5603
   author: Stevan Lohja
   source: ETC Core
   title: "Ethereum Classic Agharta hard-fork finalization"
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2019-12-10
   link: https://medium.com/@yazanator/agharta-finalization-core-devs-call-a058d008a743
   author: Yaz Khoury
   source: Ethereum Classic Cooperative
   title: "Agharta Finalization Core Devs Call"
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2019-12-09
   link: https://medium.com/ethereum-classic-labs/highlights-from-ethereum-classic-labs-keynote-and-accelerator-updates-5aecd7a5d9b4
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Highlights from Ethereum Classic Labs Keynote and Accelerator Updates"
+  tags: ["announcement", "teams"]
 -
   date: 2019-12-04
   link: https://www.saturn.network/blog/what-is-a-full-node/
   author: Sam
   source: Saturn Network
   title: "What is a full node?"
+  tags: ["education"]
 -
   date: 2019-12-04
   link: https://medium.com/classic-is-coming/psa-etc-core-dev-call-short-reconfirm-or-establish-new-rough-consensus-on-aztl%C3%A1n-proposal-ffad28b2cde8
   author: Classic Is Coming
   source: Classic Is Coming
   title: "PSA- ETC Core Dev Call - Confirm New Consensus for Aztlán Network Upgrade ECIP-1061"
+  tags: ["announcement", "development", "teams", "hardfork", "media"]
 -
   date: 2019-11-30
   link: https://www.namecoinnews.com/p3c-io-set-to-be-renamed-to-commonwealth-gg-by-next-year/
   author: Sara Gillard
   source: Namecoin News
   title: "P3C.io Set to Be Renamed to Commonwealth.gg by Next Year"
+  tags: ["announcement", "teams"]
 -
   date: 2019-11-28
   link: https://www.youtube.com/watch?v=7mmQHtUxdqU
   author: James Wo
   source: Crypto Coin Show
   title: "Blockchain Interviews - James Wo, Founder and Chairman of ETC Labs"
+  tags: ["teams", "media"]
 -
   date: 2019-11-27
   link: https://www.newsbtc.com/2019/11/27/another-ewallet-adds-further-crypto-support-but-are-efforts-like-skrills-missing-the-point/
   author: Rick Delafont
   source: News BTC
   title: "Another eWallet Adds Further Crypto Support, But Are Efforts Like Skrill’s Missing the Point?"
+  tags: ["announcement", "development", "application"]
 -
   date: 2019-11-26
   link: https://youtu.be/sPa6XcuYdIw
   author: ETC Core
   source: Ethereum Classic Core
   title: "Ethereum Classic Core Devs Meeting - Changing the mining algorithm [2019-11-21]"
+  tags: ["announcement", "development", "teams", "hardfork", "media"]
 -
   date: 2019-11-26
   link: https://medium.com/etc-core/progpow-sha-3-dag-oh-my-changing-the-ethereum-classic-pow-algorithm-abcb457d4530
   author: Stevan Lohja
   source: ETC Core
   title: "ProgPoW, Sha-3, Dag, Oh My! — Changing the Ethereum Classic PoW Algorithm"
+  tags: ["announcement", "development", "mining"]
 -
   date: 2019-11-24
   link: https://medium.com/@antsankov/pt-4-a-compromise-on-ecip-1049-preserving-the-consensus-while-adopting-keccak256-via-soft-fork-ffd12beb9a76
   author: Alexander Tsankov
   source: Medium
   title: "(pt. 4) A Compromise on ECIP-1049: Preserving the Consensus while adopting Keccak256 via Soft Fork."
+  tags: ["announcement", "development", "mining"]
 -
   date: 2019-11-21
   link: https://youtu.be/sPa6XcuYdIw
   author: Ethereum Classic Core Developers Call
   source: ETC Core
   title: "Ethereum Classic Core Devs Meeting - Changing the mining algorithm"
+  tags: ["announcement", "development", "teams", "hardfork", "media"]
 -
   date: 2019-11-16
   link: https://cointelegraph.com/news/the-abey-foundation-introduces-new-crypto-enabled-credit-card-technology
   author: Cassio Gusson
   source: Coin Telegraph
   title: "The aBey Foundation Introduces new Crypto-Enabled Credit Card Technology"
+  tags: ["announcement", "application"]
 -
   date: 2019-11-15
   link: https://www.saturn.network/blog/saturn-dapps-are-number-one-on-ethereum-classic/
   author: Sam
   source: Saturn Network
   title: "Saturn dApps are Number One on Ethereum Classic"
+  tags: ["announcement", "development", "application"]
 -
   date: 2019-11-13
   link: https://99bitcoins.com/buy-ethereum-classic-etc/
   author: Ofir Beigel
   source: 99 Bitcoins
   title: "How to Buy Ethereum Classic (ETC) – A Beginner’s Guide"
+  tags: ["education", "guide"]
 -
   date: 2019-11-12
   link: https://youtu.be/RRUPx7ctGCI
   author: ETC Core
   source: Ethereum Classic Core
   title: "Jade Service Runner UI Demo"
+  tags: ["education", "guide", "application", "media"]
 -
   date: 2019-11-11
   link: https://cryptodaily.co.uk/2019/11/did-you-miss-these-important-ethereum-classic-and-litecoin-updates
   author: Adrian Barkley
   source: Crypto Daily
   title: "Did You Miss These Important Ethereum Classic And Litecoin Updates?"
+  tags: ["education"]
 -
   date: 2019-11-09
   link: https://coinrivet.com/is-it-worth-joining-an-ethereum-mining-pool/
   author: Emily Perryman
   source: Coin Rivet
   title: "Is it worth joining an Ethereum mining pool?"
+  tags: ["education", "mining"]
 -
   date: 2019-11-09
   link: https://www.cryptonewsz.com/ethereum-classic-reveals-results-of-use-satisfaction-survey-of-november-2019/51332/
   author: Roxanne Williams
   source: CryptoNewZ
   title: "Ethereum Classic Reveals Results of Use Satisfaction Survey"
+  tags: ["announcement"]
 -
   date: 2019-11-06
   link: https://medium.com/etc-core/ethereum-classic-use-satisfaction-results-november-2019-d8857b4e172b
   author: Stevan Lohja
   source: ETC Core
   title: "Ethereum Classic Use Satisfaction Results — November 2019"
+  tags: ["announcement"]
 -
   date: 2019-11-04
   link: https://youtu.be/XO5e-_QyoZI
   author: ETC Core
   source: Ethereum Classic Core
   title: "Jade Explorer v1.5.0  -  Current state of features."
+  tags: ["announcement", "development", "teams", "education", "media", "application"]
 -
   date: 2019-10-30
   link: https://medium.com/etc-core/ethereum-classic-agharta-hard-fork-proposal-proceeds-to-last-call-e17e4b545ac8
   author: Stevan Lohja
   source: ETC Core
   title: "Ethereum Classic Agharta hard-fork proposal proceeds to Last Call"
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2019-10-30
   link: https://medium.com/etc-core/1500-ethereum-classic-gitcoin-bounties-cd83f9566b12
   author: Stevan Lohja
   source: ETC Core
   title: "$1500 Ethereum Classic Gitcoin Bounties"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-10-28
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-presents-os-city-bd86e43a5fac
   author: Hiccups
   source: Ethereum Classic Labs
   title: "Ethereum Classic Labs Presents: OS City"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-10-27
   link: https://www.youtube.com/watch?v=yAI3MVaLxaw
   author: Ethereum Classic Labs
   source: This Week in Crypto
   title: "ETC Labs Accelerate Program with Founder James Wo and CEO Terry Culver"
+  tags: ["announcement", "teams", "media"]
 -
   date: 2019-10-26
   link: https://etherplan.com/2019/10/26/backward-compatibility-what-is-account-versioning-in-ethereum-classic/9440/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "Backward Compatibility: What is Account Versioning in Ethereum Classic?"
   tags: ["education"]
 -
   date: 2019-10-24
   link: https://etherplan.com/2019/10/24/the-ethereum-classic-dilemma-ethereum-parity-vs-backward-compatibility/9373/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "The Ethereum Classic Dilemma: Ethereum Parity vs Backward Compatibility"
   tags: ["education"]
 -
@@ -920,35 +956,40 @@
   author: Michael Yuan
   source: Devcon5
   title: "Ethereum Devcon5 Recap: Reconciliation with ETC"
+  tags: ["announcement", "development", "teams"]
 -
   date: 2019-10-23
   link: https://medium.com/@antsankov/cn-why-etc-should-adopt-sha3-proof-of-work-426b7aad64b1
   author: Alexander Tsankov
   source: Medium
   title: "(CN)Why ETC Should adopt SHA3 Proof of Work"
+  tags: ["announcement", "development", "mining"]
 -
   date: 2019-10-21
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-presents-w3-engineers-6d938469fac7
   author: Hiccups
   source: Ethereum Classic Labs
   title: "Ethereum Classic Labs Presents: W3 Engineers"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-10-17
   link: https://medium.com/the-capital/code-is-law-is-competent-blockchain-design-not-an-ideology-661d3c36c14c
   author: Stevan Lohja
   source: The Capital
   title: "Code Is Law — Competent Blockchain Design, Not An Ideology."
+  tags: ["education"]
 -
   date: 2019-10-16
   link: https://medium.com/etclabscore/ethereum-classic-labs-core-quarterly-development-review-q3-2019-15ba09570975
   author: Stevan Lohja
   source: ETC Core
   title: "Ethereum Classic Labs Core — Quarterly Development Review Q3, 2019"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-10-15
   link: https://etherplan.com/2019/10/15/in-banking-wealth-is-controlled-by-providers-in-blockchain-wealth-is-controlled-by-owners/9302/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "In Banking Wealth is Controlled by Providers, in Blockchain Wealth is Controlled by Owners"
   tags: ["education"]
 -
@@ -957,47 +998,54 @@
   author: Ben Munster
   source: Decrypt
   title: "Ethereum Classic's plan to seduce Ethereum’s miners"
+  tags: ["mining"]
 -
   date: 2019-10-10
   link: https://sync.bloq.com/bloq-and-etc-labs-supporting-communities-building-ecosystems/
   author: Jeff Garzik
   source: Bloq
   title: "Bloq and ETC Labs: Supporting Communities, Building Ecosystems"
+  tags: ["announcement", "development", "teams", "application", "mining"]
 -
   date: 2019-10-09
   link: https://xangle.io/project/ETC/blog/5e1c1575c1409f3b716f474d
   author: Ethereum Classic Labs
   source: Xangle
   title: "Ethereum Classic Labs Partners with Pulse Agent"
+  tags: ["announcement", "teams"]
 -
   date: 2019-10-09
   link: https://medium.com/poa-network/poa-network-launches-the-first-full-featured-open-source-ethereum-explorer-blockscout-2612f065716f
   author: POA Network
   source: POA Network
   title: "POA Network Launches the First Full Featured Open-Source Ethereum Explorer BlockScout"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-10-09
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-partners-with-bloq-live-from-devcon-8807946df864
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Ethereum Classic Labs Partners with Bloq, Live From Devcon!"
+  tags: ["announcement", "development", "teams", "application", "mining"]
 -
   date: 2019-10-08
   link: https://messari.io/article/messari-announces-6-new-participants-for-its-disclosure-registry
   author: Messari
   source: Messari
   title: "Messari announces 6 new participants for its disclosure registry"
+  tags: ["announcement", "teams"]
 -
   date: 2019-10-07
   link: https://medium.com/@Linzhi/linzhi-e1400-architecture-overview-6fed5a19ef70
   author: Linzhi Shenzhen
   source: Linzhi Corp
   title: "Linzhi E1400 — Architecture Overview"
+  tags: ["announcement", "mining", "education"]
 -
   date: 2019-10-07
   link: https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "Why Proof of Stake is Less Secure Than Proof of Work"
   tags: ["education"]
 -
@@ -1006,204 +1054,236 @@
   author: Ross Pieli
   source: Coin Codex
   title: "Top 5 Coins Similar to Ethereum"
+  tags: ["education"]
 -
   date: 2019-10-05
   link: https://cointelegraph.com/news/chainalysis-adds-erc-20-tokens-to-its-on-demand-compliance-service
   author: Adrian Zmunzinski
   source: Coin Telegraph
   title: "Chainalysis Adds ERC-20 Toeksn to Its On-Demand Compliance Service"
+  tags: ["announcement", "application"]
 -
   date: 2019-10-04
   link: https://medium.com/@Linzhi/what-is-memory-hard-45a363b59dfe
   author: Linzhi Shenzhen
   source: Linzhi Corp
   title: "What Is Memory-Hard?"
+  tags: ["education", "mining"]
 -
   date: 2019-10-02
   link: https://medium.com/ethereum-classic/etc-summit-2019-photos-from-the-venue-ccd494ef6bda
   author: Bob Summerwill
   source: Ethereum Classic Cooperative
   title: "ETC Summit 2019 — Photos from the venue"
-  tags: ["event"]
+  tags: ["announcement", "teams"]
 -
   date: 2019-09-27
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-presents-second-state-947d85ca31ee
   author: Hiccups
   source: Ethereum Classic Labs
   title: "Ethereum Classic Labs Presents: Second State"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-09-27
   link: https://medium.com/ethereum-classic/etc-summit-moved-to-vancouver-convention-centre-4ab569065656
   author: Bob Summerwill
   source: Ethereum Classic Cooperative
   title: "ETC Summit moved to Vancouver Convention Centre"
+  tags: ["announcement", "teams"]
 -
   date: 2019-09-24
   link: https://www.prweb.com/releases/second_state_launches_buidl_ide_for_ethereum_classic/prweb16593043.htm
   author: Miley Fu
   source: Second State
   title: "Second State launches BUIDL IDE for Ethereum Classic"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-09-24
   link: https://www.businesswire.com/news/home/20190923005559/en/bitFlyer-Europe-USA-Announce-New-Altcoins-BuySell/?feedref=Zd8jjkgYuzBwDixoAdXmJgT1albrG1Eq4mAeVP39213KnM-ix4Zs-fBR3j-f4cSPevRMp3sIgu8q3wq1OF24lT93qbEzrwa15HGbLqMObxZPUiTxYBhnnPCI-oruMGokuLAuCkn8FS6sh-I3dfDZEg==
   author: BitFlyer
   source: Business Wire
   title: "bitFlyer Europe and USA Announce New Altcoins Available on Buy/Sell Platform"
+  tags: ["announcement", "application"]
 -
   date: 2019-09-21
   link: https://medium.com/@Linzhi/on-whistleblowing-56132c069aa3
   author: Linzhi Shenzhen
   source: Linzhi Corp
   title: "On Whistleblowing- ProgPoW"
+  tags: ["mining", "education"]
 -
   date: 2019-09-18
   link: https://decrypt.co/9372/progpow-advocate-uninvited-ethereum-summit-over-links-craig-wright
   author: Jeff Benson
   source: Decrypt
   title: "ProgPow advocate uninvited to Ethereum Classic Summit over links to Craig Wright"
+  tags: ["announcement", "mining", "teams"]
 -
   date: 2019-09-18
   link: https://medium.com/etclabscore/jade-explorer-a-minimal-block-explorer-for-the-ethereum-stack-a0df1aecdc38
   author: Stevan Lohja
   source: ETC Core
   title: "Jade Explorer, A Minimal Block Explorer for the Ethereum Stack"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-09-13
   link: https://cryptodaily.co.uk/2019/09/atlantis-hard-fork-sees-end-ehtereum-classic-network
   author: Adrian Barkley
   source: Crypto Daily
   title: "Atlantis Hard Fork Finally Sees An End On Ethereum Classic Network"
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2019-09-12
   link: https://medium.com/ethereum-classic/etc-cooperative-applying-to-join-eea-3f89bb3c71d4
   author: Bob Summerwill
   source: Ethereum Classic Cooperative
   title: "ETC Cooperative applying to join EEA"
+  tags: ["announcement", "teams"]
 -
   date: 2019-09-12
   link: https://decrypt.co/9206/ethereum-classic-atlantis-upgrade-makes-etc-more-like-eth
   author: Jeff Benson
   source: Decrypt
   title: "Ethereum Classic Atlantis upgrade makes ETC more like ETH"
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2019-09-10
   link: https://medium.com/ethereum-classic/etc-support-in-hyperledger-besu-d70551830a24
   author: Bob Summerwill
   source: Ethereum Classic Cooperative
   title: "ETC support in Hyperledger Besu"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-09-10
   link: https://medium.com/@Linzhi/linzhi-e1400-tapeout-1688df3bb5d
   author: Linzhi Shenzhen
   source: Linzhi Corp
   title: "Linzhi E1400 Ethash ASIC Tapeout"
+  tags: ["announcement", "development", "teams", "mining"]
 -
   date: 2019-09-10
   link: https://medium.com/etclabscore/ethereum-classic-community-is-ready-for-the-atlantis-hard-fork-22f3b3417811
   author: Stevan Lohja
   source: ETC Core
   title: "Ethereum Classic Community is Ready for the Atlantis Hard Fork"
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2019-09-09
   link: https://medium.com/ethereum-classic/etc-summit-2019-agenda-announced-e3e8c1b09ab0
   author: Bob Summerwill
   source: Ethereum Classic Cooperative
   title: "ETC Summit 2019 Agenda Announced"
+  tags: ["announcement", "teams"]
 -
   date: 2019-09-04
   link: https://cointelegraph.com/news/ethereum-classic-partners-with-blockchain-developer-and-media-dapp
   author: Joeri Cant
   source: Coin Telegraph
   title: "Ethereum Classic Labs Partners With Blockchain Developer and Media DApp"
+  tags: ["announcement", "teams", "application"]
 -
   date: 2019-09-01
   link: https://blog.secondstate.io/post/20190901-etc-partners-with-secondstate/
   author: Second State
   source: Second State
   title: "Ethereum Classic partners with Second State to build the next generation Ethereum infrastructure"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-08-28
   link: https://medium.com/etclabscore/the-evm-llvm-is-coming-to-ethereum-classic-what-you-need-to-know-c13962f25571
   author: Stevan Lohja
   source: ETC Core
   title: "The EVM-LLVM is coming to Ethereum Classic! What you need to know."
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-08-26
   link: https://medium.com/@bobsummerwill/important-about-etc-atlantis-upgrade-6db8427e626
   author: Bob Summerwill
   source: Ethereum Classic Cooperative
   title: "IMPORTANT: About ETC “Atlantis” upgrade"
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2019-08-23
   link: https://medium.com/ethereum-classic-labs/ethermine-announces-full-support-for-ethereum-classic-atlantis-hard-fork-5231d3c70d58
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Ethermine Announces Full Support for Ethereum Classic Atlantis Hard Fork"
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2019-08-20
   link: https://cointelegraph.com/news/ethereum-name-service-adds-multicoin-support
   author: Adrian Zmudzinski
   source: Coin Telegraph
   title: "Ethereum Name Service Adds Multicoin Support"
+  tags: ["announcement", "application"]
 -
   date: 2019-08-19
   link: https://medium.com/etclabscore/dear-ethereum-classic-crypto-exchanges-miners-wallets-dapps-and-other-users-8f5d3d50a93b
   author: Stevan Lohja
   source: ETC Core
   title: "Dear Ethereum Classic Crypto Exchanges, Miners, Wallets, Dapps, and other Users."
+  tags: ["announcement", "development", "teams", "application", "hardfork"]
 -
   date: 2019-08-09
   link: https://decrypt.co/8301/binance-adds-margin-trading-litecoin
   author: Tim Copeland
   source: Decrypt
   title: "Binance adds margin trading for Litecoin, USDC and Ethereum Classic"
+  tags: ["announcement", "application"]
 -
   date: 2019-08-09
   link: https://medium.com/etclabscore/whats-in-atlantis-eip100-more-efficient-difficulty-computations-b3749eb9788d
   author: Stevan Lohja
   source: ETC Core
   title: "What’s in Atlantis? EIP100 (More efficient difficulty computations)"
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2019-08-08
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-announces-studio-a-comprehensive-program-to-launch-new-projects-on-44db3da59064
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Ethereum Classic Labs Announces Studio — A Comprehensive Program to Launch New Projects on Ethereum Classic"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-08-08
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-partners-with-the-nasdaq-entrepreneurial-center-and-lehigh-university-55e7bc2c1fed
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Ethereum Classic Labs Partners with the Nasdaq Entrepreneurial Center and Lehigh University"
+  tags: ["announcement", "teams"]
 -
   date: 2019-08-08
   link: https://cointelegraph.com/news/etc-labs-launches-studio-program-to-support-developing-etc-projects
   author: Helen Partz
   source: Coin Telegraph
   title: "ETC Labs Launches Studio Program to Support Developing ETC Projects"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-07-30
   link: https://medium.com/etclabscore/ethereum-classic-labs-core-quarterly-development-review-q2-2019-969137ea3d95
   author: Stevan Lohja
   source: ETC Core
   title: "Ethereum Classic Labs Core — Quarterly Development Review Q2, 2019"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-07-25
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-devs4devs-jade-suite-overview-and-workshop-143825355
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Ethereum Classic Labs Devs4Devs: Jade Suite Overview and Workshop"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-07-23
   link: https://medium.com/etclabscore/ethereum-classic-introduction-to-pristine-an-open-standard-and-template-for-open-source-6c0afa757c98
   author: Stevan Lohja
   source: ETC Core
   title: "Ethereum Classic: Introduction to Pristine — An open standard and template for open-source projects."
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-07-23
   link: https://etherplan.com/2019/07/23/ethereum-classic-vs-ethereum-2-0-what-is-the-difference/8425/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "Ethereum Classic vs Ethereum 2.0, What is the Difference?"
   tags: ["education"]
 -
@@ -1212,131 +1292,152 @@
   author: Stevan Lohja
   source: ETC Core
   title: "What’s in the Ethereum Classic Atlantis Hard Fork? Ain’t no code like an opcode"
+  tags: ["hardfork", "education"]
 -
   date: 2019-07-09
   link: https://medium.com/etclabscore/ethereum-classic-jade-suite-are-enabling-truly-p2p-decentralized-applications-b4c9cbcdb91
   author: Stevan Lohja
   source: ETC Core
   title: "Ethereum Classic and Jade Suite are Enabling Truly P2P Decentralized Applications"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-07-01
   link: https://medium.com/ethereum-classic/ethercluster-an-open-source-alternative-to-infura-b8799b2122d3
   author: Yaz Khoury
   source: Ethercluster
   title: "Ethercluster: An Open-Source Alternative to Infura"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-06-28
   link: https://finance.yahoo.com/news/discovering-atlantis-ethereum-classic-hard-193700431.html
   author: Valeria Beasrow
   source: Coin Telegraph
   title: "Discovering Atlantis: Ethereum Classic Hard Fork and What Will Change"
+  tags: ["education", "hardfork"]
 -
   date: 2019-06-27
   link: https://blockchainreporter.net/2019/06/27/ethereum-news-opera-ios/
   author: Ogwu Emmanuel
   source: Blockchain Reporter
   title: "Ethereum News: Opera Brings Built In Wallet in Browser to iOS"
+  tags: ["announcement", "application"]
 -
   date: 2019-06-25
   link: https://www.investopedia.com/news/4-blockchain-contenders-competition-ethereum/
   author: Joe Liebkind
   source: Investopedia
   title: "4 Blockchain Contenders in Competition with Ethereum"
+  tags: ["education"]
 -
   date: 2019-06-26
   link: https://www.businesswire.com/news/home/20190626005869/en/Metronome-Delivers-World%E2%80%99s-Cross-Blockchain-Transfer-Capability
   author: Metronome
   source: Business Wire
   title: "Metronome Delivers World’s First Cross-Blockchain Transfer Capability"
+  tags: ["announcement", "application"]
 -
   date: 2019-06-20
   link: https://medium.com/ethereum-classic-labs/jade-service-runner-f63e14c1b81b
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Jade Service Runner: A Bridge for Decentralized Service Development"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-06-20
   link: https://www.coindesk.com/ethereum-classics-next-crypto-code-upgrade-is-back-on-for-september
   author: Christine Kim
   source: Coin Desk
   title: "Ethereum Classic’s Next Crypto Code Upgrade Set for September"
+  tags: ["announcement", "development", "hardfork"]
 -
   date: 2019-06-18
   link: https://medium.com/etclabscore/whats-in-atlantis-eip196-eip197-precompiled-contracts-and-zksnark-8c1cfec7d3f9
   author: Stevan Lohja
   source: ETC Core
   title: "What’s in Atlantis? EIP196/EIP197 (Precompiled contracts and zkSNARK)"
+  tags: ["education", "hardfork"]
 -
   date: 2019-06-17
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-sees-unprecedented-momentum-and-growth-358600d7272a
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Ethereum Classic sees Unprecedented Momentum and Growth"
+  tags: ["teams"]
 -
   date: 2019-06-15
   link: https://medium.com/@antsankov/pt-3-ecip-1049-mining-your-internet-connection-why-ethereum-classic-should-adopt-sha3-71ac74a94868
   author: Alexander Tsankov
   source: Medium
   title: "(pt. 3) ECIP-1049: Mining Your Internet Connection. Why Ethereum Classic should Adopt SHA3."
+  tags: ["education", "development", "mining"]
 -
   date: 2019-06-11
   link: https://medium.com/ethereum-classic-labs/announcement-on-the-etc-atlantis-hard-fork-3742974f5363
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Announcement on the ETC Atlantis Hard Fork"
+  tags: ["announcement", "development", "teams", "mining"]
 -
   date: 2019-06-11
   link: https://medium.com/etclabscore/using-openrpc-mock-server-to-test-against-an-ethereum-json-rpc-api-50b86b6d02d6
   author: Stevan Lohja
   source: ETC Core
   title: "Using OpenRPC Mock Server to test against an Ethereum JSON-RPC API"
+  tags: ["education", "guide", "application"]
 -
   date: 2019-06-11
   link: https://cryptodaily.co.uk/2019/06/ethereum-classic-atlantis-upgrade-to-start-testing-this-month
   author: Robert Johnson
   source: Crypto Daily
   title: "Ethereum Classic’s Atlantis Upgrade To Start Testing This Month"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-06-10
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-atlantis-upgrade-on-schedule-55d28463976b
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Ethereum Classic Atlantis Upgrade on Schedule"
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2019-06-05
   link: https://medium.com/etclabscore/whats-in-atlantis-eip-170-contract-code-size-limit-af9858b6ed66
   author: Stevan Lohja
   source: ETC Core
   title: "What’s in Atlantis? EIP-170 (Contract Code Size Limit)"
+  tags: ["education", "hardfork"]
 -
   date: 2019-06-03
   link: https://medium.com/ethereum-classic-labs/etc-labs-upgrades-ethereum-classic-to-expand-functionality-and-improve-compatability-with-ethereum-e2ac7d9aad93
   author: ETC Labs
   source: Ethereum Classic Labs
-  title: "ETHEREUM CLASSIC TO EXPAND FUNCTIONALITY AND IMPROVE COMPATIBILITY WITH ETHEREUM"
+  title: "Ethereum Classic to Expand Functionality and Improve Compatibility with Ethereum"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-05-31
   link: https://medium.com/etclabscore/eip-161-state-trie-clearing-a-simplified-explanation-c1aca3e18000
   author: Stevan Lohja
   source: ETC Core
   title: "What’s in Atlantis? EIP-161 (State-trie clearing ) — A simplified explanation."
+  tags: ["education", "hardfork"]
 -
   date: 2019-05-21
   link: https://medium.com/@pyskell/understanding-and-mitigating-re-orgs-921c7768fa18
   author: Anthony Lusardi
   source: Medium
   title: "Understanding (and Mitigating) Re-Orgs"
+  tags: ["education"]
 -
   date: 2019-05-20
   link: https://medium.com/@antsankov/the-what-why-and-how-of-astor-testnet-e7366ba2a730
   author: Alexander Tsankov
   source: Medium
   title: "The What, Why, and How, of Astor Testnet"
+  tags: ["announcement", "development", "education", "mining"]
 -
   date: 2019-05-17
   link: https://etherplan.com/2019/05/17/why-there-will-only-be-3-or-4-surviving-blockchains-in-the-future/7603/
   author: Donald McIntyre
-  source: EtherPlan
+  source: Etherplan
   title: "Why There Will Only Be 3 or 4 Surviving Blockchains in the Future"
   tags: ["education"]
 -
@@ -1345,396 +1446,462 @@
   author: Cole Meiterman
   source: Use The Bitocin
   title: "Best Ethereum Classic (ETC) Wallets Of 2019 - What Are The Safest Wallets To Store ETC"
+  tags: ["education", "application"]
 -
   date: 2019-05-06
   link: https://medium.com/ethereum-classic-labs/summer-in-the-labs-1-48a27506c21c
   author: Hiccups
   source: Ethereum Classic Labs
   title: "Summer in the Labs — #1"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-05-06
   link: https://medium.com/ethereum-classic/quantifying-immutability-e8f2b1bb9301
   author: Yaz Khoury
   source: Ethereum Classic Cooperative
   title: "Quantifying Immutability"
+  tags: ["education"]
 -
   date: 2019-04-25
   link: https://cryptodaily.co.uk/2019/04/updates-ethereum-classic-network-developer
   author: Robert Johnson
   source: Crypto Daily
   title: "Updates On Ethereum Classic Network Revealed By Developer"
+  tags: ["hardfork", "development"]
 -
   date: 2019-04-23
   link: https://medium.com/etclabscore/monthly-dev-update-3-q1-core-development-review-862e285599bd
   author: Stevan Lohja
   source: ETC Core
   title: "Monthly Dev Update #3 | Q1 Core Development Review"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-04-17
   link: https://www.cryptoninjas.net/2019/04/17/paybito-cryptocurrency-exchange-adds-ethereum-classic-etc/
   author: Associated Press
   source: Crypto Ninjas
   title: "PayBito cryptocurrency exchange adds Ethereum Classic (ETC)"
+  tags: ["announcement", "application"]
 -
   date: 2019-04-15
   link: https://medium.com/ethereum-classic-labs/debunking-blockchain-security-an-etc-labs-event-a1aca156c179
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Debunking Blockchain Security — an ETC Labs Event"
+  tags: ["education"]
 -
   date: 2019-04-15
   link: https://medium.com/ethereum-classic-labs/this-week-in-the-labs-april-15th-47c242531ea7
   author: Hiccups
   source: Ethereum Classic Labs
   title: "This Week in the Labs: April 15th"
+  tags: ["development", "teams", "application"]
 -
   date: 2019-04-11
   link: https://medium.com/ethereum-classic/etc-wanted-dev-or-alive-2581a5079aa1
   author: Yaz Khoury
   source: Ethereum Classic Cooperative
   title: "ETC: Wanted, Dev or Alive"
+  tags: ["teams"]
 -
   date: 2019-04-08
   link: https://medium.com/ethereum-classic-labs/the-emerald-city-of-changsha-42f6ccdb0c52
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "The Emerald City of Changsha"
+  tags: ["announcement", "teams"]
 -
   date: 2019-03-29
   link: https://medium.com/ethereum-classic-labs/etc-labs-presents-anylog-ea47050d04fe
   author: McDappas
   source: Ethereum Classic Labs
   title: "ETC Labs Presents: AnyLog"
+  tags: ["announcement", "teams", "application"]
 -
   date: 2019-03-29
   link: https://medium.com/@Linzhi/eip-1057-progpow-open-chip-design-for-only-1-cost-power-increase-eip-1057-progpow-d106d9baa6eb
   author: Linzhi Shenzhen
   source: Linzhi Corp
   title: "EIP 1057 (ProgPoW): Open Chip Design for 1% cost/power increase"
+  tags: ["development", "teams", "mining"]
 -
   date: 2019-03-28
   link: https://medium.com/@stevan.blog/immutability-ethereum-classic-d59dd7724d95
   author: Stevan Lohja
   source: ETC Core
   title: "Immutability — Ethereum Classic"
+  tags: ["education"]
 -
   date: 2019-03-25
   link: https://medium.com/ethereum-classic/etc-summit-2019-call-for-speakers-6e60c40f0c7b
   author: Bob Summerwill
   source: Ethereum Classic Cooperative
   title: "ETC Summit 2019 Call for Speakers"
+  tags: ["teams"]
 -
   date: 2019-03-22
   link: https://medium.com/ethereum-classic-labs/etc-labs-presents-ethernode-9ef7f737431d
   author: McDappas
   source: Ethereum Classic Labs
   title: "ETC Labs Presents: Ethernode"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-03-22
   link: https://medium.com/ethereum-classic/kotti-solidity-etc-oh-my-2ae36926454d
   author: Yaz Khoury
   source: Ethereum Classic Cooperative
   title: "Kotti, Solidity, ETC, Oh My!"
+  tags: ["education", "development", "guide", "application"]
 -
   date: 2019-03-21
   link: https://medium.com/@stevan.blog/proof-of-stake-is-meh-37b23b5e18dc
   author: Stevan Lohja
   source: ETC Core
   title: "Proof of Stake is Meh"
+  tags: ["education"]
 -
   date: 2019-03-19
   link: https://medium.com/ethereum-classic-labs/gaming-on-the-blockchain-an-etc-labs-event-bd1a493674b1
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Gaming on the Blockchain — an ETC Labs Event"
+  tags: ["announcement", "teams", "application"]
 -
   date: 2019-03-18
   link: https://medium.com/@pyskell/im-resigning-from-the-etc-cooperative-but-not-etc-8c4d01ef2f6
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "I’m Resigning from the ETC Cooperative; but not ETC."
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-03-15
   link: https://medium.com/ethereum-classic-labs/etc-labs-presents-button-wallet-8029c27bc38c
   author: McDappas
   source: Ethereum Classic Labs
   title: "ETC Labs Presents: Button Wallet"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-03-14
   link: https://cointelegraph.com/news/as-progpow-aimed-at-stopping-asic-mining-gets-supporting-votes-new-conspiracies-and-debates-appear
   author: Julia Magas
   source: Coin Telegraph
   title: "A ProgPoW Aimed at Stopping ASIC Mining Gets Supporting Votes, New Conspiracies and Debates Appear"
+  tags: ["education", "development", "mining"]
 -
   date: 2019-03-11
   link: https://medium.com/@Linzhi/studying-the-feasibility-of-an-asic-82634ac77d61
   author: Chen Min
   source: Linzhi Shenzhen
   title: "Studying the Feasibility of an ASIC"
+  tags: ["education", "development", "mining"]
 -
   date: 2019-03-11
   link: https://cryptobriefing.com/myetherwallet-adds-block-explorer/
   author: Paddy Baker
   source: Crypto briefing
   title: "MyEtherWallet Adds Block Explorer To Its Repertoire"
+  tags: ["announcement", "application"]
 -
   date: 2019-03-10
   link: https://medium.com/@antsankov/pt-2-ecip-1049-why-ethereum-classic-should-adopt-keccak256-for-its-proof-of-work-algorithm-24052ea6eed1
   author: Alexander Tsankov
   source: Medium
   title: "(pt. 2) ECIP-1049: Why Ethereum Classic should Adopt Keccak256 for its Proof of Work Algorithm."
+  tags: ["mining", "development", "education"]
 -
   date: 2019-03-09
   link: https://medium.com/@Linzhi/ecip-1043-revisited-cd2e500b8550
   author: Linzhi Shenzhen
   source: Linzhi Corp
   title: "ECIP 1043 Revisited"
+  tags: ["mining", "development", "education"]
 -
   date: 2019-03-08
   link: https://www.cryptonewsz.com/mining-ethereum-eth-which-software-stands-out-as-a-winner/
   author: Scott Cook
   source: CryptoNewZ
   title: "Mining Ethereum - Which Software Stands Out as a Winner?"
+  tags: ["education", "mining", "application"]
 -
   date: 2019-03-08
   link: https://medium.com/ethereum-classic-labs/etc-labs-presents-cryzen-db8770d98b35
   author: McDappas
   source: Ethereum Classic Labs
   title: "ETC Labs Presents: Cryzen"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-03-06
   link: https://forum.poa.network/t/introducing-etc-bridge-and-wrapped-ethereum-classic-wetc/2207
   author: Ziggy
   source: POA Forum
   title: "Introducing ETC Bridge and wrapped Ethereum Classic (WETC)"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-03-06
   link: https://medium.com/ethereum-classic/eth-to-be-tokenized-on-ethereum-classics-blockchain-2dd566889735
   author: Stevan Lohja
   source: ETC Core
   title: "ETH to be Tokenized on Ethereum Classic’s Blockchain"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-03-04
   link: https://medium.com/ethereum-classic-labs/this-week-in-the-labs-march-4th-2c9de4d8ca2
   author: Hiccups
   source: Ethereum Classic Labs
   title: "This Week in the Labs: March 4th"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-03-01
   link: https://medium.com/ethereum-classic-labs/etc-labs-presents-vrex-labs-993e9d0476d4
   author: McDappas
   source: Ethereum Classic Labs
   title: "ETC Labs Presents: VREX Lab"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-02-26
   link: https://medium.com/ethereum-classic/ethereum-classic-proposals-for-decentralized-governance-in-a-centralized-world-464299e70a41
   author: Frosku
   source: Medium
   title: "Ethereum Classic: A Clarion Call"
+  tags: ["education"]
 -
   date: 2019-02-22
   link: https://medium.com/ethereum-classic-labs/etc-labs-presents-statwig-49d3dd50c201
   author: McDappas
   source: Ethereum Classic Labs
   title: "ETC Labs Presents: StaTwig"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-02-18
   link: https://medium.com/ethereum-classic-labs/this-week-in-the-labs-february-18th-1bcb0c8255f1
   author: Hiccups
   source: Ethereum Classic Labs
   title: "This Week in the Labs: February 18th"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-02-16
   link: https://medium.com/ethereum-classic/different-kinds-of-51-attacks-d345ebc01526
   author: Phyro
   source: Medium
   title: "Different kinds of 51% attacks"
+  tags: ["education", "mining"]
 -
   date: 2019-02-15
   link: https://medium.com/ethereum-classic-labs/etc-labs-presents-slips-51d98bc7f568
   author: McDappas
   source: Ethereum Classic Labs
   title: "ETC Labs Presents: Slips"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-02-13
   link: https://medium.com/paritytech/new-parity-ethereum-update-fixes-several-rpc-vulnerabilities-fe030e6f489f
   author: Parity Tech
   source: Parity Technologies
-  title: "New Parity Ethereum update fixes several vulnerabilities"
+  title: "New ParityEthereum update fixes several vulnerabilities"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-02-11
   link: https://medium.com/ethereum-classic/little-jimmy-an-ethereum-classic-story-c4badf13d972
   author: Stevan Lohja
   source: ETC Core
   title: "Little Jimmy, an Ethereum Classic Story"
+  tags: ["education"]
 -
   date: 2019-02-08
   link: https://medium.com/ethereum-classic/etc-cooperative-ama-recap-75167abcaac7
   author: Bob Summerwill
   source: Ethereum Classic Cooperative
   title: "ETC Cooperative AMA — Recap"
+  tags: ["teams"]
 -
   date: 2019-02-08
   link: https://medium.com/ethereum-classic-labs/etc-labs-presents-scanta-7b92f385623a
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "ETC Labs Presents: Scanta"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-02-06
   link: https://medium.com/ethereum-classic/analyzing-ethereum-classic-with-google-bigquery-df55822ec6a6
   author: Yaz Khoury
   source: Ethereum Classic Cooperative
   title: "Analyzing Ethereum Classic with Google BigQuery"
+  tags: ["education", "guide"]
 -
   date: 2019-02-04
   link: https://medium.com/etclabscore/monthly-dev-update-1-january-2019-core-development-update-3cc0ef09920f
   author: Stevan Lohja
   source: ETC Core
   title: "Monthly Dev. Update #1 | January 2019 Core Development Update"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-02-03
   link: https://medium.com/@Linzhi/bridging-the-hardware-software-divide-4-more-claims-5b520ae00c0c
   author: Linzhi Shenzhen
   source: Linzhi Corp
   title: "Bridging the Hardware-Software Divide: 4 More Claims."
+  tags: ["education", "development", "mining"]
 -
   date: 2019-02-03
   link: https://medium.com/paritytech/security-alert-update-parity-ethereum-nodes-when-new-releases-are-out-node-attack-vector-b72e3259634e
   author: Parity Tech
   source: Parity Technologies
-  title: "Security Alert: Update Parity Ethereum nodes ASAP; node attack vector discovered"
+  title: "Security Alert: Update ParityEthereum nodes ASAP; node attack vector discovered"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-02-01
   link: https://medium.com/@Linzhi/our-telegram-january-7-to-29-2019-lessons-learned-cb5a1fc0f039
   author: Linzhi Shenzhen
   source: Linzhi Corp
   title: "ProgPoW- Our Telegram, January 7 to 29, 2019 — Lessons Learned"
+  tags: ["mining", "development", "education"]
 -
   date: 2019-01-30
   link: https://medium.com/ethereum-classic/ama-with-bob-summerwill-and-the-etc-cooperative-dfcf594144ac
   author: Bob Summerwill
   source: Ethereum Classic Cooperative
   title: "AMA with Bob Summerwill and the ETC Cooperative"
+  tags: ["teams"]
 -
   date: 2019-01-29
   link: https://medium.com/ethereum-classic/welcome-bob-summerwill-to-the-etc-cooperative-baf16c85203
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "Welcome Bob Summerwill to the ETC Cooperative"
+  tags: ["announcement", "teams"]
 -
   date: 2019-01-29
   link: https://cryptobriefing.com/ethereum-51-percent-attack-myth/
   author: Clark Thompson
   source: Crypto Briefing
   title: "Ethereum Myth Busted: Apples To Oranges On 51 Percent Attacks"
+  tags: ["mining", "education"]
 -
   date: 2019-01-27
   link: https://cryptodaily.co.uk/2019/01/etc-51-attack-a-call-for-security-models
   author: Robert Johnson
   source: Crypto Daily
   title: "Is The ETC 51% Attack A Call For New Security Models"
+  tags: ["education", "mining"]
 -
   date: 2019-01-25
   link: https://medium.com/@gtrphyro/making-51-attacks-harder-a192be3be1c1
   author: Phyro
   source: Medium
   title: "Making 51% attacks harder"
+  tags: ["education", "mining"]
 -
   date: 2019-01-16
   link: https://cryptodaily.co.uk/2019/01/cryptocurrency-cant-be-51-attacked
   author: Kyle Torpey
   source: Crypto Daily
   title: "If A Cryptocurrency Can’t Be 51% Attacked, Then It Isn’t Decentralized"
+  tags: ["mining", "education"]
 -
   date: 2019-01-14
   link: https://www.coindesk.com/the-ethereum-classic-attacker-has-sent-a-bigger-message
   author: Micheal J. Casey
   source: Coin Desk
   title: "The Ethereum Classic Attacker Has Sent a Bigger Message"
+  tags: ["education", "mining"]
 -
   date: 2019-01-14
   link: https://cryptodaily.co.uk/2019/01/100k-of-etc-hack-returned-to-exchange
   author: Adrian Barkley
   source: Crypto Daily
   title: "$100k Of ETC 51 Percent Hack Returned To Exchange"
+  tags: ["education", "mining"]
 -
   date: 2019-01-14
   link: https://medium.com/etclabscore/introducing-etc-labs-core-an-etc-core-development-team-c46413c1ab50
   author: Stevan Lohja
   source: ETC Core
   title: "Introducing ETC Labs Core — An ETC Core Development Team"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-01-12
   link: https://medium.com/@Linzhi/asics-and-51-achieving-mining-dominance-how-cost-advantage-drives-centralisation-cf28166d3d2a
   author: Linzhi Shenzhen
   source: Linzhi Corp
   title: "ASICs and 51% — Achieving Mining Dominance. How cost advantage drives centralisation."
+  tags: ["education", "development", "mining"]
 -
   date: 2019-01-11
   link: https://www.coindesk.com/grayscale-ethereum-classic-investment-trust-51-percent-attack-etc-etcg
   author: Marc Hochstein
   source: Coin Desk
   title: "Grayscale Assures Investors: Ethereum Classic Trust Funds Not at ‘Direct Risk’"
+  tags: ["announcement", "teams", "education", "mining"]
 -
   date: 2019-01-11
   link: https://medium.com/ethereum-classic/51-attacks-arent-a-network-failure-81a7e197bfd9
   author: Phyro
   source: Medium
   title: "51% attacks aren’t a network failure"
+  tags: ["education", "mining"]
 -
   date: 2020-01-10
   link: https://medium.com/ethereum-classic/ethereum-classic-on-raspberry-pi-a3be200cdca0
   author: Yaz Khoury
   source: Ethereum Classic Cooperative
   title: "Ethereum Classic on Raspberry Pi"
+  tags: ["education", "guide"]
 -
   date: 2019-01-10
   link: https://cryptodaily.co.uk/2019/01/truth-about-ethereum-classic-hack
   author: Mark Nezvisky
   source: Crypto Daily
   title: "The Truth About The Ethereum Classic Hack"
+  tags: ["education", "mining"]
 -
   date: 2019-01-10
   link: https://www.benzinga.com/money/how-to-buy-ethereum-in-nigeria/
   author: Jay Hawk
   source: Benzinga
   title: "How to Buy Ethereum Classic in Nigeria"
+  tags: ["application"]
 -
   date: 2019-01-09
   link: https://medium.com/@antsankov/ecip-1049-why-ethereum-classic-should-adopt-keccak256-for-its-proof-of-work-algorithm-e45aee32d8a9
   author: Alexander Tsankov
   source: Medium
   title: "ECIP-1049: Why Ethereum Classic should Adopt Keccak256 for its Proof of Work Algorithm."
+  tags: ["mining", "development", "education"]
 -
   date: 2019-01-08
   link: https://decrypt.co/4399/51-percent-attack-cripples-ethereum-classic
   author: Ben Munster
   source: Decrypt
   title: "51 percent attack cripples Ethereum classic"
+  tags: ["mining", "announcement", "education"]
 -
   date: 2019-01-08
   link: https://cryptodaily.co.uk/2019/01/attack-on-ethereum-classic-network
   author: Robert Johnson
   source: Crypto Daily
   title: "Shock Attack On Ethereum Classic Network"
+  tags: ["mining", "announcement", "education"]
 -
   date: 2019-01-08
   link: https://medium.com/chainsafe-systems/deployment-automation-for-goerli-testnet-in-10-minutes-5212cef5542a
   author: Priom Chowdhury
   source: ChainSafe
   title: "Deployment Automation for Goerli testnet in 10 minutes"
+  tags: ["education", "guide"]
 -
   date: 2018-12-19
   link: https://medium.com/@etclabsnews/introducing-the-first-cohort-at-etc-labs-47ef2c34d354
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Introducing The First Cohort at ETC Labs"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2018-12-17
   link: https://medium.com/@pyskell/your-exchange-needs-more-confirmations-the-bitconf-measure-872b69babc8f
   author: Anthony Lusardi
   source: Ethereum Classic Cooperative
   title: "Your Exchange Needs More Confirmations: The BitConf Measure"
+  tags: ["education"]
 -
   date: 2018-12-14
   link: https://medium.com/@DontPanicBurns/on-recent-event-in-the-ethereum-classic-1e76e6e0bc38
@@ -2744,7 +2911,7 @@
   date: 2017-03-03
   link: https://www.coindesk.com/beyond-immutability-ethereum-classic-maps-way-forward?utm_source=dlvr.it&utm_medium=twitter
   author: Alyssa Hertig
-  source: CoinDesk
+  source: Coin Desk
   title: "Beyond Immutability: Ethereum Classic Maps a Way Forward"
   tags: ["education"]
 -
@@ -2801,528 +2968,609 @@
   author: Iyke Aru
   source: Coin Telegraph
   title: "2017 - The Year Bitcoin Finally Breaks Free"
+  tags: ["education"]
 -
   date: 2017-01-01
   link: https://cointelegraph.com/news/microsoft-to-add-extensive-support-for-bitcoin-describes-it-as-currency
   author: Joseph Young
   source: Coin Telegraph
   title: "Microsoft to Add Extensive Support For Bitcoin, Describes it as Currency"
+  tags: ["education"]
 -
   date: 2016-12-16
   link: https://www.cryptocoinsnews.com/ethereum-austrian-kin/
   author: Justin OConnell
   source: Crypto Coins News
   title: "How Classic is Ethereum’s Austrian Kin"
+  tags: ["education"]
 -
   date: 2016-12-14
   link: http://btcmanager.com/news/ethereum-classic-considers-bitcoin-esque-monetary-policy/
   author: Jamie Holmes
   source: BTC Manager
   title: "Ethereum Classic Considers Bitcoin-esque Monetary Policy"
+  tags: ["education", "development", "hardfork"]
 -
   date: 2016-12-14
   link: https://steemit.com/ethereum/@finpunk/ethereum-classic-gets-more-interesting-more-developers-and-a-new-monetary-policy
   author: Rob Viglione
   source: Steem It
   title: "Ethereum Classic Gets More Interesting"
+  tags: ["education", "development", "hardfork"]
 -
   date: 2016-12-13
   link: https://bitcoinmagazine.com/articles/ethereum-classic-forges-new-path-revamped-monetary-policy-could-be-next-1481656302
   author: Aaron van Wirdum
   source: Bitcoin Magazine
   title: "Ethereum Classic Forges New Path; Revamped Monetary Policy Could Be Next"
+  tags: ["education", "development", "hardfork"]
 -
   date: 2016-11-04
   link: http://cryptohustle.com/Ethereum-Classic-Fundamentals
   author: Rocky
   source: Crypto Hustle
   title: "Ethereum Classic Fundamentals"
+  tags: ["education"]
 -
   date: 2016-10-27
   link: http://www.coindesk.com/dao-attack-hacker-trades-funds-bitcoin/
   author: Alyssa Hertig
   source: Coin Desk
   title: "The Plot Thickens As DAO Attacker Trades Stolen Funds for Bitcoin"
+  tags: ["education"]
 -
   date: 2016-10-25
   link: http://www.coindesk.com/ethereum-classic-blockchain-fork-ddos-attacks/
   author: Alyssa Hertig
   source: Coin Desk
   title: "The Blockchain Created By Ethereum's Fork is Forking Now"
+  tags: ["education", "development", "hardfork"]
 -
   date: 2016-10-25
   link: https://steemit.com/etc/@cseberino/why-another-hard-fork-to-deal-with-the-recent-denial-of-service-attack-spam-shouldn-t-be-controversial
   author: Christian Seberino
   source: Steem It
   title: "Hard Fork To Deal With The Recent DoS Attack Spam Shouldn't Be Controversial"
+  tags: ["education", "development", "hardfork"]
 -
   date: 2016-10-20
   link: https://steemit.com/etc/@cseberino/ethereum-classic-denial-of-service-attacks-and-the-estonian-cyberwar
   author: Christian Seberino
   source: Steem It
   title: "Ethereum Classic Denial Of Service Attacks and The Estonian Cyberwar"
+  tags: ["education", "development", "hardfork"]
 -
   date: 2016-10-18
   link: http://cryptohustle.com/immutability-doesnt-mean-being-against-hard-forks
   author: Rocky
   source: Crypto Hustle
   title: "Immutability doesn't mean being against hard forks"
+  tags: ["education", "hardfork"]
 -
   date: 2016-10-18
   link: http://www.coindesk.com/october-ethereum-hard-fork-network-spam-attacks/
   author: Pete Rizzo
   source: Coin Desk
   title: "Hopes Are High Tomorrow's Ethereum Fork Won't Be Like the Last"
+  tags: ["announcement", "development", "hardfork"]
 -
   date: 2016-10-13
   link: http://coinjournal.net/decentralized-crowdfunding-platform-fundonomy-alpha/
   author: Diana Ngo
   source: Coin Journal
   title: "Decentralized Crowdfunding Platform Fundonomy Set to Launch in Alpha in Mid-October"
+  tags: ["announcement", "application"]
 -
   date: 2016-10-12
   link: http://www.youtube.com/watch?v=ipFDT-Wcb5U
   source: Bitcoin News
   title: "Tuur Demeester discusses Ethereum, ETC and recent DoS attacks"
+  tags: ["education", "podcast", "media"]
 -
   date: 2016-10-11
   link: http://www.coindesk.com/so-it-looks-like-ethereum-is-going-to-have-to-fork-again/
   author: Alyssa Hertig
   source: Coin Desk
   title: "So, It Looks Like Ethereum is Going to Have to Fork Again..."
+  tags: ["education", "development", "hardfork", "announcement"]
 -
   date: 2016-09-27
   link: https://news.bitcoin.com/microsoft-looks-rebel-ethereum-classic/
   author: Jamie Redman
   source: Bitcoin.com
   title: "A Victorious Rebellion? Microsoft Investigates Ethereum Classic's Potential"
+  tags: ["education"]
 -
   date: 2016-09-27
   link: https://cointelegraph.com/news/microsoft-supports-ethereum-classic-hosts-meetup-with-charles-hoskinson
   author: Joseph Young
   source: Coin Telegraph
   title: "Microsoft Supports Ethereum Classic, Hosts Meetup with Charles Hoskinson"
--
-  date: 2016-09-24
-  link: http://www.newsbtc.com/2016/09/24/jaxx-litecoin-ethereum-classic-support/
-  author: Gautham
-  source: News BTC
-  title: "Jaxx Blockchain Wallet Now Supports LiteCoin and Ethereum Classic"
+  tags: ["announcement", "development", "teams"]
 -
   date: 2016-09-23
   link: http://motherboard.vice.com/read/apples-rules-for-virtual-currencies-are-vague-ethereum-classic-jaxx-dash-app-store
   author: Jordan Pearson
   source: Motherboard
   title: "Apple's Rules for Virtual Currencies Are Interminably Vague"
+  tags: ["education"]
 -
   date: 2016-09-19
   link: http://bitcoinist.net/ethereum-nodes-crashing-attack/
   author: Jon Southurst
   source: Bitcoinist
   title: "Ethereum Nodes Crashing, Under Possible Attack"
+  tags: ["announcement", "development", "education"]
 -
   date: 2016-09-14
   link: http://coinjournal.net/guo-and-ethereum-classic/
   author: Ian Demartino
   source: Coin Journal
   title: "Chandler Guo: Vitalik Made 'Huge Mistake' In Changing Ethereum Blockchain"
+  tags: ["education"]
 -
   date: 2016-09-13
   link: http://www.investopedia.com/news/dao-hacker-donates-stolen-funds-ethereum-classic-dev-team/
   author: Adam Hayes, CFA
   source: Investopedia
   title: "DAO Hacker Donates Stolen Funds to Ethereum Classic Dev Team"
+  tags: ["announcement", "development", "teams"]
 -
   date: 2016-09-09
   link: http://steemit.com/ethereum/@charleshosk/ethereum-classic-an-update
   author: Charles Hoskinson
   source: Steem It
   title: "Ethereum Classic: An Update"
+  tags: ["announcement", "teams", "development"]
 -
   date: 2016-09-08
   link: http://cointelegraph.com/news/iphone7-enables-bitcoin-payments-ethereum-classic-might-be-next
   source: Coin Telegraph
   title: "iPhone7 Enables Bitcoin Payments, Ethereum Classic Might be Next"
+  tags: ["announcement", "application"]
 -
   date: 2016-09-07
   link: http://bitcoinmagazine.com/articles/jaxx-aims-to-be-blockchain-agnostic-with-more-new-coin-integrations-1473282178
   source: Bitcoin Magazine
   title: "Jaxx Aims to Be Blockchain Agnostic With ETC Integration"
+  tags: ["application"]
 -
   date: 2016-09-07
   link: http://www.youtube.com/watch?v=ypeSa9PwLas
   author: Anthony Di Iorio
   source: Jaxx Wallet
   title: "Jaxx Blockchain Wallet Now Supports Ethereum Classic!"
+  tags: ["announcement", "application"]
 -
   date: 2016-09-04
   link: http://fortune.com/2016/09/04/ethereum-fall-out/
   author: David Z. Morris
   source: Fortune
   title: "The Bizarre Fallout of Ethereum’s Epic Fail"
+  tags: ["education"]
 -
   date: 2016-08-21
   link: http://www.coindesk.com/can-two-ethereum-markets-co-exist/
   author: Charles Bovaird
   source: Coin Desk
   title: "Can Two Ethereum Markets Co-Exist?"
+  tags: ["education"]
 -
   date: 2016-08-20
   link: http://steemit.com/ethereum/@charleshosk/code-is-law-and-old-testament-gods/
   author: Charles Hoskinson
   source: Steem It
   title: "Code is Law and Old Testament Gods"
+  tags: ["education"]
 -
   date: 2016-08-19
   link: http://www.coindesk.com/ethereum-classic-london-meetup/
   author: Pete Rizzo
   source: Coin Desk
   title: "Ethereum Classic is Starting to Mobilize"
+  tags: ["education"]
 -
   date: 2016-08-19
   link: http://bitcoinmagazine.com/articles/ethereum-classic-community-navigates-a-distinct-path-to-the-future-1471620464
   author: Aaron Van Wirdum
   source: Bitcoin Magazine
   title: "Ethereum Classic Community Navigates a Distinct Path to the Future"
+  tags: ["education"]
 -
   date: 2016-08-18
   link: http://themerkle.com/samson-mow-hints-at-ethereum-classic-mining-pool-plans/
   author: JP Buntinx
   source: The Merkle
   title: "Samson Mow Hints At Ethereum Classic Mining Pool Plans"
+  tags: ["announcement", "mining", "development"]
 -
   date: 2016-08-17
   link: http://steemit.com/ethereum/@charleshosk/thoughts-on-an-ethereum-classic-roadmap
   author: Charles Hoskinson
   source: Steem It
   title: "Thoughts on an Ethereum Classic Roadmap"
+  tags: ["education", "teams", "development", "announcement"]
 -
   date: 2016-08-16
   link: http://www.youtube.com/watch?v=5040I0PW7rc
   author: Charles Hoskinson and Alex Chepurnoy
   source: Epicenter Bitcoin
   title: "The Case For Ethereum Classic"
+  tags: ["education"]
 -
   date: 2016-08-13
   link: http://www.newsbtc.com/2016/08/13/ethereum-classics-proclaimation-of-independence-from-censorship-and-interference/
   author: Gautham
   source: News BTC
   title: "Ethereum Classic’s Proclamation of Independence from Censorship and Interference"
+  tags: ["education"]
 -
   date: 2016-08-12
   link: http://themerkle.com/white-hat-hackers-caught-red-handed-during-attempted-etc-sell-off/
   author: JP Buntinx
   source: The Merkle
   title: "White Hat Hackers Caught Red-handed During Attempted ETC Sell-off"
+  tags: ["education"]
 -
   date: 2016-08-11
   link: https://cointelegraph.com/news/koreas-largest-bitcoin-exchange-supports-ethereum-classic-eliminates-all-fees
   author: Joseph Young
   source: Coin Telegraph
   title: "Korea's Largest Bitcoin Exchange Supports Ethereum Classic, Eliminates All Fees"
+  tags: ["announcement", "application"]
 -
   date: 2016-08-11
   link: http://www.newsbtc.com/2016/08/11/white-hat-hackers-could-have-crashed-ethereum-classic/
   source: News BTC
   title: "White Hat Hackers Could Have Crashed Ethereum Classic"
+  tags: ["education"]
 -
   date: 2016-08-08
   link: http://www.coindesk.com/ethereum-dao-hacker-getting-away-classic/
   author: Michael del Castillo
   source: Coin Desk
   title: "The DAO Hacker is Getting Away"
+  tags: ["announcement", "education"]
 -
   date: 2016-08-07
   link: https://cointelegraph.com/news/roger-ver-market-viewed-ethereum-fork-as-good
   author: Joël Valenzuela
   source: Coin Telegraph
   title: "Market Viewed Ethereum Fork As Good"
+  tags: ["education"]
 -
   date: 2016-08-05
   link: http://www.investopedia.com/articles/investing/080516/why-are-there-now-two-ethereums.asp
   author: Adam Hayes
   source: Investopedia
   title: "Why are There Now Two Ethereums?"
+  tags: ["education"]
 -
   date: 2016-08-04
   link: http://themerkle.com/will-coinbase-have-enough-of-an-etc-supply-to-honor-its-promise/
   author: JP Buntinx
   source: The Merkle
   title: "Will Coinbase Have Enough of an ETC Supply To Honor Its Promise?"
+  tags: ["application"]
 -
   date: 2016-08-04
   link: https://www.cryptocoinsnews.com/ethereum-classic-credits-will-soon-available-coinbase/
   author: Rebecca Campbell
   source: Crypto Coins News
   title: "Ethereum Classic Credits Will Soon Be Available on Coinbase"
+  tags: ["announcement", "application"]
 -
   date: 2016-08-02
   link: https://www.cryptocoinsnews.com/chbtc-ethereum-classic/
   author: Lester Coleman
   source: Crypto Coins News
   title: "Major ETH Exchange CHBTC U-Turns, Will List Ethereum Classic In Response To Demand"
+  tags: ["announcement", "application"]
 -
   date: 2016-08-02
   link: http://www.econotimes.com/Ethereum-Classic-becomes-third-largest-cryptocurrency-by-market-cap-243276
   author: Associated Press
   source: EconoTimes
   title: "Ethereum Classic becomes third largest cryptocurrency by market cap"
+  tags: ["education", "application"]
 -
   date: 2016-08-01
   link: http://blogs.wsj.com/moneybeat/2016/08/01/the-great-digital-currency-debate-new-ethereum-vs-ethereum-classic/
   author: Paul Vigna
   source: The Wall Street Journal
   title: "‘New’ Ethereum Vs. Ethereum ‘Classic’"
+  tags: ["education", "hardfork"]
 -
   date: 2016-08-01
   link: http://elaineou.com/2016/08/01/the-value-of-settlement-finality
   author: Elaine Ou
   source: ElaineOu.com
   title: "The Value of Settlement Finality"
+  tags: ["education"]
 -
   date: 2016-07-31
   link: http://www.newsbtc.com/2016/07/31/51pool-attack-plans-51-network-attack-ethereum-classic/
   author: Associated Press
   source: News BTC
   title: "51Pool Attack Plans 51% Network Attack Against Ethereum Classic"
+  tags: ["education", "mining", "announcement"]
 -
   date: 2016-07-31
   link: http://www.coindesk.com/three-value-propositions-ethereum-classic/
   author: Michael del Castillo
   source: Coin Desk
   title: "The Three Value Propositions of Ethereum Classic"
+  tags: ["education"]
 -
   date: 2016-07-31
   link: http://bravenewcoin.com/news/ethereum-analysis-eth-vs-etc-potential-parity/
   author: Nathaniel Freire
   source: Brave New Coin
   title: "ETH vs ETC potential parity"
+  tags: ["education"]
 -
   date: 2016-07-30
   link: https://bitcoinmagazine.com/articles/how-the-great-ethereum-schism-can-end-well-for-ethereum-classic-part-of-1469905980
   author: Aaron Van Wirdum
   source: Bitcoin Magazine
   title: "How the Great Schism Can End Well for Ethereum Classic"
+  tags: ["education"]
 -
   date: 2016-07-30
   link: https://cointelegraph.com/news/mainstream-medias-irrational-criticism-towards-ethereum-classic-and-bitcoin
   author: Joseph Young
   source: Coin Telegraph
   title: "Mainstream Media's Irrational Criticism Towards Ethereum Classic and Bitcoin"
+  tags: ["education"]
 -
   date: 2016-07-29
   link: http://www.coindesk.com/rise-replay-attacks-ethereum-divide/
   author: Alyssa Hertig
   source: Coin Desk
   title: "Rise of Replay Attacks Intensifies Ethereum Divide"
+  tags: ["education", "hardfork", "announcement"]
 -
   date: 2016-07-28
   link: http://www.forbes.com/sites/francescoppola/2016/07/28/ethereum-the-battle-of-the-chains/#2dcf22714a80
   author: Frances Coppola
   source: Forbes
   title: "Ethereum: The Battle Of The Chains"
+  tags: ["education"]
 -
   date: 2016-07-28
   link: http://www.coindesk.com/ethereum-classic-explained-blockchain/
   author: Alyssa Hertig
   source: Coin Desk
   title: "Ethereum's Two Ethereums Explained"
+  tags: ["education"]
 -
   date: 2016-07-26
   link: http://www.forbes.com/sites/francescoppola/2016/07/26/ethereum-and-the-old-catholics/
   author: Frances Coppola
   source: Forbes
   title: "Ethereum And The Old Catholics"
+  tags: ["education"]
 -
   date: 2016-07-26
   link: https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/
   author: Vitalik Buterin
   source: Ethereum Foundation
   title: "Onward from the Hard Fork"
+  tags: ["announcement", "development", "teams", "education", "hardfork"]
 -
   date: 2016-07-24
   link: http://www.coindesk.com/ethereum-hard-fork-creates-competing-currencies-support-ethereum-classic-rises/
   author: Pete Rizzo
   source: Coin Desk
   title: "Ethereum Hard Fork Creates Competing Currencies as Support for Ethereum Classic Rises"
+  tags: ["education", "hardfork"]
 -
   date: 2016-07-22
   link: https://blog.ethereum.org/2016/07/22/hive-strived-clean-fork/
   author: Péter Szilágyi
   source: Ethereum Foundation
   title: "Hive: How we strived for a clean fork"
+  tags: ["education", "hardfork"]
 -
   date: 2016-07-20
   link: http://bitcoinmagazine.com/articles/rejecting-today-s-hard-fork-the-ethereum-classic-project-continues-on-the-original-chain-here-s-why-1469038808
   author: Aaron Van Wirdum
   source: Bitcoin Magazine
   title: "Here's Why Ethereum Classic Project Continues on the Original Chain"
+  tags: ["education", "hardfork"]
 -
   date: 2016-07-20
   link: https://blog.ethereum.org/2016/07/20/hard-fork-completed/
   author: Vitalik Buterin
   source: Ethereum Foundation
   title: "Hard Fork Completed"
+  tags: ["announcement", "development", "teams", "education", "hardfork"]
 -
   date: 2016-07-16
   link: https://medium.com/@bit_novosti/ethereum-classic-keep-censorship-resistant-ethereum-going-9caab2d0e255
   author: Bit Novosti
   source: Medium
   title: "Ethereum Classic: keep censorship-resistant Ethereum going"
+  tags: ["announcement", "education", "hardfork"]
 -
   date: 2016-07-15
   link: https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork/
   author: Jeffrey Wilcke
   source: Ethereum Foundation
   title: "To fork or not to fork"
+  tags: ["announcement", "development", "teams", "application", "education", "hardfork"]
 -
   date: 2016-07-11
   link: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede
   author: Bit Novosti
   source: Medium
   title: "A Crypto-Decentralist Manifesto"
+  tags: ["education"]
 -
   date: 2016-07-08
   link: https://blog.ethereum.org/2016/07/08/c-dev-update-summer-edition/
   author: Christian Reitwiessner
   source: Ethereum Foundation
   title: "C++ DEV Update – July edition"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2016-06-28
   link: https://blog.ethereum.org/2016/06/28/security-alert-dos-vulnerability-in-the-soft-fork/
   author: Felix Lange
   source: Ethereum Foundation
   title: "Security Alert – DoS Vulnerability in the Soft Fork"
+  tags: ["announcement", "development", "teams", "application", "education", "hardfork"]
 -
   date: 2016-06-24
   link: https://blog.ethereum.org/2016/06/24/dao-wars-youre-voice-soft-fork-dilemma/
   author: Péter Szilágyi
   source: Ethereum Foundation
   title: "DAO Wars: Your voice on the soft-fork dilemma"
+  tags: ["announcement", "development", "teams", "application", "education", "hardfork"]
 -
   date: 2016-06-17
   link: https://blog.ethereum.org/2016/06/17/critical-update-re-dao-vulnerability/
   author: Vitalik Buterin
   source: Ethereum Foundation
   title: "CRITICAL UPDATE Re: DAO Vulnerability"
+  tags: ["announcement", "development", "teams", "application", "education", "hardfork"]
 -
   date: 2016-06-02
   link: https://blog.ethereum.org/2016/06/02/go-ethereums-jit-evm/
   author: Jeffrey Wilcke
   source: Ethereum Foundation
   title: "Go Ethereum’s JIT-EVM"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2016-05-04
   link: https://blog.ethereum.org/2016/05/04/c-dev-update-announcing-remix/
   author: Christian Reitwiessner
   source: Ethereum Foundation
   title: "C++ DEV Update: Announcing Remix"
+  tags: ["announcement", "development", "teams", "application"]
 -
   date: 2016-03-24
   link: https://medium.com/paritytech/parity-1-0-is-here-41498a06f90b
   author: Parity Tech
   source: Parity Technologies
   title: "Parity 1.0 is here!"
+  tags: ["announcement", "development", "teams", "application", "mining"]
 -
   date: 2016-02-29
   link: https://blog.ethereum.org/2016/02/29/homestead-release/
   author: Jeffrey Wilcke
   source: Ethereum Foundation
   title: "Homestead Release"
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2016-02-12
   link: https://blog.ethereum.org/2016/02/12/ethereum-dev-update-c-roadmap/
   author: Christian Reitwiessner
   source: Ethereum Foundation
   title: "Ethereum DEV Update: C++ Roadmap"
+  tags: ["development", "teams", "application", "application"]
 -
   date: 2016-02-02
   link: https://medium.com/paritytech/performance-analysis-c391daf96a09
   author: Parity Tech
   source: Parity Technologies
   title: "Performance Analysis"
+  tags: ["development", "teams", "application", "education"]
 -
   date: 2016-01-07
   link: https://blog.ethereum.org/2016/01/07/2394/
   author: Vitalik Buterin
   source: Ethereum Foundation
   title: "Ethereum Foundation Internal Update"
+  tags: ["development", "teams", "education"]
 -
   date: 2015-11-02
   link: https://blog.ethereum.org/2015/11/02/ethereum-dev-update-2015-week-44/
   author: Vitalik Buterin
   source: Ethereum Foundation
   title: "Ethereum Dev Update 2015 / Week 44"
+  tags: ["development", "teams", "education"]
 -
   date: 2015-10-18
   link: https://blog.ethereum.org/2015/10/18/vitaliks-research-and-ecosystem-update/
   author: Vitalik Buterin
   source: Ethereum Foundation
   title: "Vitalik’s Research and Ecosystem Update"
+  tags: ["development", "teams", "education"]
 -
   date: 2015-10-13
   link: https://blog.ethereum.org/2015/10/13/ethereum-dev-update-2015-week-41/
   author: Vitalik Buterin
   source: Ethereum Foundation
   title: "Ethereum Dev Update 2015 / Week 41"
+  tags: ["development", "teams", "application", "education"]
 -
   date: 2015-09-28
   link: https://blog.ethereum.org/2015/09/28/the-evolution-of-ethereum/
   author: Vitalik Buterin
   source: Ethereum Foundation
   title: "The Evolution of Ethereum"
+  tags: ["education"]
 -
   date: 2015-09-25
   link: https://blog.ethereum.org/2015/09/25/more-uncle-statistics/
   author: Vitalik Buterin
   source: Ethereum Foundation
   title: "More uncle statistics"
+  tags: ["education"]
 -
   date: 2015-09-16
   link: https://blog.ethereum.org/2015/09/16/ethereum-wallet-developer-preview/
   author: Fabian Vogelsteller
   source: Ethereum Foundation
   title: "Ethereum Wallet – Developer Preview"
+  tags: ["announcement", "development", "teams", "education", "application", "mining"]
 -
   date: 2015-08-18
   link: https://blog.ethereum.org/2015/08/18/frontier-first-100k-blocks/
   author: Gustav Simonsson
   source: Ethereum Foundation
   title: "An Analysis of the First 100000 Blocks"
+  tags: ["education"]
 -
   date: 2015-08-04
   link: https://blog.ethereum.org/2015/08/04/ethereum-protocol-update-1/
   author: Stephan Tual
   source: Ethereum Foundation
   title: "Ethereum Protocol Update 1"
+  tags: ["announcement", "development", "teams", "hardfork"]
 -
   date: 2015-08-04
   link: https://blog.ethereum.org/2015/08/04/the-thawing-frontier/
   author: Stephan Tual
   source: Ethereum Foundation
   title: "The Thawing Frontier"
+  tags: ["development", "teams", "education", "mining", "hardfork"]
 -
   date: 2015-07-30
   link: https://blog.ethereum.org/2015/07/30/ethereum-launches/
   author: Stephan Tual
   source: Ethereum Foundation
   title: "Ethereum Launches"
+  tags: ["announcement", "development", "teams", "education", "mining", "hardfork"]
 -
   date: 2015-07-30
   link: https://blog.ethereum.org/2015/07/30/a-few-last-minute-notes/
   author: Stephan Tual
   source: Ethereum Foundation
   title: "A few last minute notes…"
+  tags: ["development", "teams", "education", "mining"]
 -
   date: 2015-07-27
   link: https://blog.ethereum.org/2015/07/27/final-steps/
   author: Stephan Tual
   source: Ethereum Foundation
   title: "Final Steps"
+  tags: ["development", "teams", "education", "mining"]
 -
   date: 2015-07-22
   link: https://blog.ethereum.org/2015/07/22/frontier-is-coming-what-to-expect-and-how-to-prepare/
   author: Stephan Tual
   source: Ethereum Foundation
   title: "Frontier is coming – what to expect, and how to prepare"
-  tags: ["development"]
+  tags: ["announcement", "development", "teams", "education", "mining"]
