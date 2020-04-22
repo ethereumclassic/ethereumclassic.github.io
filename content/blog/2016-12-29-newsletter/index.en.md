@@ -2,7 +2,7 @@
 title: "ETC Weekly Newsletter : End Of 2016!"
 date: 2016-12-29
 author: Carlo V
-
+tags: ["announcement", "development", "education"]
 ---
 
 

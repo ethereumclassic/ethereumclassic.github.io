@@ -2,6 +2,7 @@
 title: "An Interview With The Anonymous Individual That Started Ethereum Classic"
 date: 2017-02-28
 author: Christian Seberino
+tags: ["education"]
 ---
 
 ![interview](./dce8d1cb45.jpg)

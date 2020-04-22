@@ -2,6 +2,7 @@
 title: "Ethereum Classic Recursive Length Prefix Encoding"
 date: 2018-03-19
 author: Christian Seberino
+tags: ["application", "development", "education"]
 ---
 
 ![](./QShEODs.png)

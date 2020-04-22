@@ -54,6 +54,13 @@
   twitter: Dexaran
   github: EthereumCommonwealth
 -
+  key: Grayscale
+  year: 2017
+  name: Grayscale
+  status: active
+  link: https://grayscale.co/ethereum-classic-trust/
+  twitter: GrayscaleInvest
+-
   key: commonwealth.gg
   year: 2018
   name: Commonwealth.gg

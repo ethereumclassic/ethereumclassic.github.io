@@ -2,6 +2,7 @@
 title: Sustainable Development Goals
 date: 2017-01-06
 author: Prophet Daniel
+tags: ["announcement", "development", "education"]
 ---
 
 ![Sustainable Development Goals!](./KZNeqAF.jpg)

@@ -2,6 +2,7 @@
 title: "Defuse Difficulty Bomb Hard Fork Upgrade"
 date: 2018-05-29
 author: Igor Artamonov
+tags: ["announcement", "development", "education", "teams", "hardfork"]
 ---
 
 # ECIP 1041 - Remove Difficulty Bomb

@@ -2,6 +2,7 @@
 title: "Web 3.0 And Ethereum Classic"
 date: 2017-07-28
 author: Christian Seberino
+tags: ["education"]
 ---
 
 ![](./1gqnXt9Isyq8V4h4AmrCe_w.png)

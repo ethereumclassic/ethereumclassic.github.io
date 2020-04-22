@@ -2,6 +2,7 @@
 title: "Development forces arriving"
 date: 2017-07-23
 author: Prophet Daniel
+tags: ["teams", "development", "education"]
 ---
 
 ## Ethereum Classic welcomes Ethereum Commonwealth

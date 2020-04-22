@@ -2,6 +2,7 @@
 title: "Why Multisig Smart Contracts Will Likely Take Over Ethereum Classic & The World"
 date: 2018-02-14
 author: Christian Seberino
+tags: ["application", "development", "education"]
 ---
 
 ![](./1CYyZuQxE6Lr-ZAy38ko4_A.png)

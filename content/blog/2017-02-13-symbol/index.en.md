@@ -2,6 +2,7 @@
 title: "Should We Make ⟠ The Ethereum Classic Currency Symbol?"
 author: Christian Seberino
 date: 2017-02-13
+tags: ["education"]
 ---
 
 ## Question

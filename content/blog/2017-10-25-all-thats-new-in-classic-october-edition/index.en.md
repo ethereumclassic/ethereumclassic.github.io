@@ -2,6 +2,7 @@
 title: All that's new in Classic - October Edition
 date: 2017-10-25
 author: pyskell (Anthony)
+tags: ["application", "development", "education"]
 ---
 
 Gather ‘round boys and girls, it’s time for an update on where Ethereum Classic

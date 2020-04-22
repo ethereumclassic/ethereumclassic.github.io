@@ -2,6 +2,7 @@
 title: "Stand up from the crowd"
 date: 2017-05-19
 author: Prophet Daniel
+tags: ["education"]
 ---
 
 ## A take on radicalism and diplomacy

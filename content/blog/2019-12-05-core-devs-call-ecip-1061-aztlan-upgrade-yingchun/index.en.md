@@ -2,6 +2,7 @@
 title: "Core Devs Call: ECIP-1061 Aztlán Upgrade (Yingchun Edition)"
 date: 2019-12-05
 author: Bob Summerwill
+tags: ["announcement", "development", "education", "teams", "hardfork"]
 ---
 
 [https://ecips.ethereumclassic.org/ECIPs/ecip-1061](https://ecips.ethereumclassic.org/ECIPs/ecip-1061)

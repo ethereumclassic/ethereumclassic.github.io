@@ -2,7 +2,7 @@
 title: "ETC Weekly Newsletter : The Grothendieck Team "
 date: 2016-12-06
 author: Carlo V
-
+tags: ["announcement", "development", "teams", "education"]
 ---
 
 
