@@ -322,6 +322,13 @@
   tags: ["education", "guide"]
 -
   date: 2020-03-05
+  link: https://youtu.be/Mj6pbqkEn5Q
+  author: Red Panda Mining
+  source: Red Panda Mining
+  title: "Ethereum Classic The FIFTHENING... Not Halving!"
+  tags: ["education", "podcast", "media", "development", "mining"]
+-
+  date: 2020-03-05
   link: https://binance.zendesk.com/hc/en-us/articles/360040120772
   author: Binance
   source: Binance
@@ -3113,6 +3120,13 @@
   source: Ethereum Classic Cooperative
   title: "All that’s new in Classic"
   tags: ["announcement", "application", "development", "teams"]
+-
+  date: 2017-08-30
+  link: https://youtu.be/dSGtELxoEKc
+  author: Gary Palmer Jr
+  source: The Minting Coins Show
+  title: "Ethereum Classic Summit, ETC Deflation & IOT Tech"
+  tags: ["media", "education", "podcast"]
 -
   date: 2017-08-23
   link: https://medium.com/@pyskell/phoenix-mascot-redesign-mockups-55e9af1c1547
