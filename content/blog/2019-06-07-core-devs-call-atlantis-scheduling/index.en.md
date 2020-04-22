@@ -2,6 +2,7 @@
 title: "Core Devs Call: ECIP-1054 Atlantis Scheduling Call"
 date: 2019-06-07
 author: soc1c
+tags: ["announcement", "development", "education", "teams", "hardfork"]
 ---
 
 [https://ecips.ethereumclassic.org/ECIPs/ecip-1054](https://ecips.ethereumclassic.org/ECIPs/ecip-1054)

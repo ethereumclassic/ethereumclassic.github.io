@@ -2,6 +2,7 @@
 title: "The Bare Basics Of Money And Monetary Policy WITH A FEW WORDS FROM SATOSHI NAKAMOTO"
 date: 2016-11-15
 author: Christian Seberino
+tags: ["announcement", "development", "teams", "education"]
 ---
 
 I will discuss money and monetary policy as well as give details regarding cryptocurrencies.

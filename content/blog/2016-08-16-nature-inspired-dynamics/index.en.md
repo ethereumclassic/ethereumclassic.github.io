@@ -2,6 +2,7 @@
 title: Nature Inspired Ethereum Classic Community Dynamics Proposal
 date: 2016-08-16
 author: ProphetDaniel
+tags: ["announcement", "development", "teams", "education"]
 ---
 
 ![](./kCoQR5q.jpg)

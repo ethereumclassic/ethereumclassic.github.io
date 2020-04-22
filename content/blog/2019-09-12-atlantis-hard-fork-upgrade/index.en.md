@@ -2,6 +2,7 @@
 title: "Atlantis Hard Fork Upgrade"
 date: 2019-09-12
 author: Isaac Ardis
+tags: ["announcement", "development", "education", "teams", "hardfork"]
 ---
 
 # ECIP 1054: Atlantis EVM and Protocol Upgrades

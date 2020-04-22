@@ -2,7 +2,7 @@
 title: "ETC Weekly Newsletter: New all time highs as ETC surges!"
 date: 2017-04-19
 author: Carlo V
-
+tags: ["announcement", "development", "education"]
 ---
 
 

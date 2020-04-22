@@ -2,6 +2,7 @@
 title: Ethereum Classic Kickoff (London)
 date: 2016-08-18
 author: Arvicco
+tags: ["announcement", "development", "teams", "education"]
 ---
 
 Congrats to Dr. Avtar Sehra, Dr. Vic Arulchandran and other organizers on a very

@@ -109,6 +109,16 @@
   link: https://bitcointalk.org/index.php?topic=1559630.0
   type: forum
 -
+  key: media ETCfInv
+  name: Ethereum Cassic (ETC) for Investors
+  link: https://www.youtube.com/playlist?list=PLMBYy3lWO3DkegQkvL23AMnm_JnX-LXW3
+  type: media
+-
+  key: media Etherplan
+  name: Etherplan
+  link: https://www.youtube.com/channel/UC4--zHROGkRT1MadPM4EASA/playlists
+  type: media
+-
   key: media EVM61
   name: EVM61
   link: https://www.youtube.com/playlist?list=PLiW3acHwcR6LAa_WS5sFWf1S_GquYVeJb

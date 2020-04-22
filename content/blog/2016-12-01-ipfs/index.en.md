@@ -2,6 +2,7 @@
 title: "Why InterPlanetary File System & Its Ilk Are A Big Deal For Blockchains & Beyond"
 date: 2016-12-01
 author: Christian Seberino
+tags: ["development", "education"]
 ---
 
 ## Introduction
