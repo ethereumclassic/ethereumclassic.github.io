@@ -126,7 +126,7 @@
   guide: https://www.cruxpool.com/help/how-to-mine-with-nicehash-guide-2019/
 -
   key: "Awesome Miner"
-  name: "MinerOS: Awesome Miner"
+  name: "Miner OS: Awesome Miner"
   link: https://www.awesomeminer.com/download
   guide: https://bitcointalk.org/index.php?topic=676942.0
   windowsAmd: true
@@ -142,21 +142,21 @@
   linuxNvidia: true
 -
   key: "Miner Babe"
-  name: "MinerOS: Miner Babe"
+  name: "Miner OS: Miner Babe"
   link: https://minerbabe.com/
   guide: http://support.minerbabe.com/archives/category/tutorial
   linuxAmd: true
   linuxNvidia: true
 -
   key: "Miner Butler"
-  name: "MinerOS: Miner Butler"
+  name: "Miner OS: Miner Butler"
   link: https://mineros.cn/
   guide: https://mineros.cn/index.php/zh/course
   linuxAmd: true
   linuxNvidia: true
 -
   key: "MinerStat"
-  name: "MinerOS: MinerStat"
+  name: "Miner OS: MinerStat"
   link: https://minerstat.com/
   guide: https://minerstat.com/coin/ETC
   windowsAmd: true
@@ -165,7 +165,7 @@
   linuxNvidia: true
 -
   key: "MMP OS"
-  name: "MinerOS: MMP OS"
+  name: "Miner OS: MMP OS"
   link: https://app.mmpos.eu/
   guide: https://bitcointalk.org/index.php?topic=5088988.0
   windowsAmd: true
@@ -174,7 +174,7 @@
   linuxNvidia: true
 -
   key: "SimpleMining"
-  name: "MinerOS: SimpleMining"
+  name: "Miner OS: SimpleMining"
   link: https://simplemining.net/
   guide: https://simplemining.net/page/download
   linuxAmd: true
