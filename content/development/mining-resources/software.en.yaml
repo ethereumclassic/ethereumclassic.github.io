@@ -8,6 +8,10 @@
   name: "Awesome Miner"
   link: https://www.awesomeminer.com/download
   guide: https://bitcointalk.org/index.php?topic=676942.0
+  windowsAmd: true
+  windowsNvidia: true
+  linuxAmd: true
+  linuxNvidia: true
 -
   key: "Bminer"
   name: "Bminer"
@@ -102,11 +106,19 @@
   name: "MinerStat"
   link: https://minerstat.com/
   guide: https://minerstat.com/coin/ETC
+  windowsAmd: true
+  windowsNvidia: true
+  linuxAmd: true
+  linuxNvidia: true
 -
   key: "MMP OS"
   name: "MMP OS"
   link: https://app.mmpos.eu/
   guide: https://bitcointalk.org/index.php?topic=5088988.0
+  windowsAmd: true
+  windowsNvidia: true
+  linuxAmd: true
+  linuxNvidia: true
 -
   key: "Nanominer"
   name: "Nanominer"
@@ -143,7 +155,9 @@
   key: "SimpleMining"
   name: "SimpleMining"
   link: https://simplemining.net/
-  guide: https://bitcointalk.org/index.php?topic=1541084.0
+  guide: https://simplemining.net/page/download
+  linuxAmd: true
+  linuxNvidia: true
 -
   key: "TeamRedMiner"
   name: "TeamRedMiner"
