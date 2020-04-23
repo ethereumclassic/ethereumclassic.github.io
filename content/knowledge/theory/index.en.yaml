@@ -2,8 +2,6 @@ title: Theory
 description: Links to articles covering a range of Ethereum Classic economics and philosophy topics
 contribute: true
 intro: |
-  # Theory
-
   Ethereum Classic maintains the original, unaltered history of the Ethereum network. The Ethereum project's mainnet initially released via Frontier on 30 July 2015. However, due to a hack of a third-party project, the Ethereum Foundation created a new version of the Ethereum mainnet on 20 July 2016 with an irregular state change implemented that erased The DAO theft from the Ethereum blockchain history. The Ethereum Foundation applied their trademark to the new, altered version of the Ethereum blockchain; Ethereum (ticker: ETH). The older, unaltered version of Ethereum was renamed and continued on as Ethereum Classic (ticker: ETC).
 
   This section of the Ethereum Classic website contains articles focused on the philosophy that keeps the immutable, original version of the Ethereum network running.

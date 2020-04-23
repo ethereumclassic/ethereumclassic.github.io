@@ -1,0 +1,54 @@
+contribute: true
+disclaimer: true
+title: Clients
+description: Download links for various Ethereum Classic clients and deployment tools
+intro: Clients are used to sync with the Ethereum Classic network and verify blocks. Most users won't need to run a full node, but they allow those who do to trustlessly interact with the network. Ethereum Classic is scheduled for a network update in June, 2020. Here are [Ethereum Classic Client Upgrade Instructions](https://hackmd.io/IPA7zPwpQDy-1U0reeppcQ).
+content:
+  -
+    configRef: clients
+  -
+    type: buttons
+    title: Public Endpoints
+    description: You can use these services to connect to ETC via JSON-RPC.
+    items:
+      -
+        key: BlockScout
+        to: https://blockscou.com/etc/mainnet/api_docs
+        name: BlockScout
+      -
+        key: Ethercluster
+        to: https://www.ethercluster.com/etc
+        name: Ethercluster
+      -
+        key: Ethercluster (Kotti)
+        to: https://www.ethercluster.com/kotti
+        name: Ethercluster (Kotti)
+      -
+        key: Ethercluster (Mordor)
+        to: https://www.ethercluster.com/mordor
+        name: Ethercluster (Mordor)
+  -
+    type: links
+    title: Node Deployment Tools
+    description: These tools make it easy to spin up a node or cluster of nodes for production deployments.
+    items:
+      - 
+        key: Bloq Cloud
+        name: Bloq Cloud
+        to: https://bloq.cloud/
+        description: BloqCloud delivers highly-optimized, always available access to blockchain networks. Connect quickly and scale easily based on your needs -- without having to worry about managing infrastructure.
+      - 
+        key: DappNode
+        to: https://dappnode.io/
+        name: DappNode
+        description: DAppNode facilitates running nodes, DApps and hosting P2P networks and economies.
+      - 
+        key: Ethercluster
+        to: https://www.ethercluster.com/
+        name: Ethercluster
+        description: Ethercluster is an open-sourced Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) providing Ethereum Classic (ETC) and Kotti endpoints for free.
+      - 
+        key: QuikNode
+        to: https://quiknode.io/
+        name: QuikNode
+        description: QuikNodes are easy, always on, with a fast internet connection for quick blockchain sync, and you never have to worry about running out of disk space.

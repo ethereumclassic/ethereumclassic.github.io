@@ -1,23 +1,12 @@
-title: Social Channels
-description: A collection of Ethereum Classic chat rooms, twitter accounts, discussion groups, forums, podcasts, repositories and regional websites
 contribute: true
 disclaimer: true
-intro: |
- # Social Channels
-
- The following is a non-exhaustive list of active Ethereum Classic discussion channels and groups.
-chatIntro: "## Chat Rooms"
-telegramIntro: "## Telegram Groups"
-developmentIntro: "## Development Chat"
-forumIntro: "## Forums"
-mediaIntro: "## Media"
-repositoryIntro: "## Code Repositories"
-twitterIntro: "## Twitter Accounts"
-websiteIntro: "## Websites"
-regionalWebsiteIntro: "## Regional Websites"
+title: Social Channels
+description: A collection of Ethereum Classic chat rooms, twitter accounts, discussion groups, forums, podcasts, repositories and regional websites
+intro: The following is a non-exhaustive list of active Ethereum Classic discussion channels and groups.
 content:
   -
-    intro: "## Chat Rooms"
+    key: Chat Rooms
+    title: Chat Rooms
     type: buttons
     items:
     -
@@ -49,7 +38,8 @@ content:
       to: https://bobsummerwill.files.wordpress.com/2019/10/screen-shot-2020-01-31-at-11.40.10-pm.png?w=230&h=300
       name: WeChat
   -
-    intro: "## Development Chat"
+    key: Development Chat
+    title: Development Chat
     type: buttons
     items:
     -
@@ -136,7 +126,8 @@ content:
       name: Gödel Labs
       icon: fab fa-weibo
   -
-    intro: "## Telegram Groups"
+    key: Telegram Groups
+    title: Telegram Groups
     type: buttons
     items:
     -
@@ -184,7 +175,8 @@ content:
       to: https://t.me/ETCVietnam
       name: Viet Nam
   -
-    intro: "## Forums"
+    key: Forums
+    title: Forums
     type: buttons
     items:
     -
@@ -204,7 +196,8 @@ content:
       to: https://bitcointalk.org/index.php?topic=1559630.0
       name: Archived BitcoinTalk
   -
-    intro: "## Media"
+    key: Media
+    title: Media
     type: buttons
     items:
     -
@@ -220,7 +213,8 @@ content:
       to: https://www.youtube.com/playlist?list=PLKO8sMfwkZQqGH3Ny2OJ_SRcAvSf_0gx5
       name: Let's Talk ETC!
   -
-    intro: "## Code Repositories"
+    key: Code Repositories
+    title: Code Repositories
     type: buttons
     items:
     -
@@ -232,7 +226,8 @@ content:
       to: https://github.com/ethereumclassic/Awesome-ETC
       name: ETC Awesome List
   -
-    intro: "## Twitter Accounts"
+    key: Twitter Accounts
+    title: Twitter Accounts
     type: buttons
     items:
     -
@@ -300,7 +295,8 @@ content:
       to: https://twitter.com/ETCVietNam
       name: Viet Nam
   -
-    intro: "## Regional Website"
+    key: Regional Website
+    title: Regional Website
     type: buttons
     items:
     -

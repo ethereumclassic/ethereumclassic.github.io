@@ -3,8 +3,6 @@ description: A list of centralized and trust-minimized exchanges, DEXs, and paym
 contribute: true
 disclaimer: true
 intro: | 
-  # Exchanges
-
   This page contains a list of services that allow you to purchase or trade ETC.
 
   ## Non-exhaustive List of Exchanges
@@ -15,7 +13,7 @@ intro: |
 content: 
   -
     type: buttons
-    intro: "### Centralized Exchanges"
+    title: "Centralized Exchanges"
     items: 
     -
       key: ABCC
@@ -423,10 +421,8 @@ content:
       name: ZBG
   -
     type: buttons
-    intro: |
-      ### Trust-Minimizing Exchanges
-
-      Decentralization is a spectrum, and whilst the following "DEXs" are not necessary *fully* decentralized exchanges, they are designed to requires less custodial risk than the above.
+    title: Trust-Minimizing Exchange
+    description: Decentralization is a spectrum, and whilst the following "DEXs" are not necessary *fully* decentralized exchanges, they are designed to requires less custodial risk than the above.
     items: 
     -
       key: Bisq
@@ -438,10 +434,8 @@ content:
       name: Saturn Network
   -
     type: buttons
-    intro: |
-      ### Instant Exchanges
-  
-      *Note:* Instant Exchanges typically offer worse rates than Centralized Exchanges.
+    title: Instant Exchanges
+    description: "*Note:* Instant Exchanges typically offer worse rates than Centralized Exchanges."
     items:
     -
       key: ABRA

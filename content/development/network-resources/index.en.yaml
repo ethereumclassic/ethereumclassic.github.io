@@ -7,8 +7,6 @@ kotti: Kotti
 mordor: Mordor
 astor: Astor
 intro: |
-  # Network Resources
-
   Need to find out the state of the Ethereum Classic network? You're in the right place. Here are a selection of tools that can help you get to know the chain, including faucets, explorers and monitors.
 
   ## Clients
@@ -39,17 +37,12 @@ networkTableConfig:
       text: Astor
 content:
   - 
-    key: chains
     configRef: chains
   - 
-    key: gas
     configRef: gas
   - 
-    key: explorers
     configRef: explorers
   - 
-    key: monitors
     configRef: monitors
   - 
-    key: faucets
     configRef: faucets

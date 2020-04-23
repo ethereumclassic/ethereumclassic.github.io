@@ -25,3 +25,6 @@ linuxAmd: Linux AMD
 linuxNvidia: Linux Nvidia
 guide: Guide
 tutorial: Tutorial
+content:
+  -
+    configRef: software

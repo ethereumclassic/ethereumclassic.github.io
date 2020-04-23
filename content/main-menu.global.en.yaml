@@ -18,10 +18,10 @@
   to: /development
   name: Development
 - 
-  key: news
-  to: /news
-  name: News
-- 
   key: press
   to: /press
   name: Press
+- 
+  key: news
+  to: /news
+  name: News

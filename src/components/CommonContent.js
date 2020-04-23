@@ -3,12 +3,14 @@ import React from 'react';
 import LinksList from './LinksList';
 import ButtonsGroup from './ButtonsGroup';
 import DynamicTable from './DynamicTable';
+import InfoGroup from './InfoGroup';
 import Json from './Json';
 
 const components = {
   buttons: ButtonsGroup,
   links: LinksList,
   table: DynamicTable,
+  info: InfoGroup,
   json: Json
 };
 
@@ -38,9 +40,12 @@ const CommonContent = ({ content, refs }) => {
       {(Array.isArray(content) ? content : [content]).map(_contentItem => {
         const contentItem = resolveRefs(_contentItem, refs);
         const Component = components[contentItem.type] || Json;
+        const { title, description } = contentItem;
         return (
           <React.Fragment key={contentItem.key}>
-            {contentItem.intro && <p>{contentItem.intro}</p>}
+            {(contentItem.intro || contentItem.header) && '!!!!!'}
+            {title && <h2>{title}</h2>}
+            {description && <p>{description}</p>}
             <Component {...contentItem} />
           </React.Fragment>
         );

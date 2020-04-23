@@ -4,14 +4,14 @@ import Link from './Link';
 const LinksList = ({ items }) => {
   return (
     <>
-      {items.map(({ to, name, tip, description }) => (
-        <>
+      {items.map(({ key, to, name, tip, description }) => (
+        <React.Fragment key={key}>
           <h3>
             <Link to={to}>{name}</Link>
             {tip && <small>{` ${tip}`}</small>}
           </h3>
           {description && <p>{description}</p>}
-        </>
+        </React.Fragment>
       ))}
     </>
   );

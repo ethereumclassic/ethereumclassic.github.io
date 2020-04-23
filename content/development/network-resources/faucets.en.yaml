@@ -1,9 +1,7 @@
 configRef: networkTableConfig
 key: explorers
-intro: |
-  ## Faucets
-
-  Faucets are Ethereum Classic public services that allow you to obtain small amounts of testnet ETC for deploying contracts and testing transactions in a sandbox environment. If you're a developer, please consider contributing to these testnets by running nodes and mining on the networks. It's a selfless and charitable act for the greater Ethereum Classic ecosystem.
+title: Faucets
+description: Faucets are Ethereum Classic public services that allow you to obtain small amounts of testnet ETC for deploying contracts and testing transactions in a sandbox environment. If you're a developer, please consider contributing to these testnets by running nodes and mining on the networks. It's a selfless and charitable act for the greater Ethereum Classic ecosystem.
 items: 
   -
     key: EtherDrip

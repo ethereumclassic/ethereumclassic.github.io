@@ -1,19 +1,14 @@
-title: Wallets
-description: A source of web wallets, extensions, software wallets, hardware wallets, and other ways to secure ETC
 contribute: true
 disclaimer: true
-intro: | 
-  # Wallets
-
-  There are many different options of wallets to choose from to secure and use ETC. Each option gives a different balance between security and convenience. Please research the best option depending on your requirements.
+title: Wallets
+description: A source of web wallets, extensions, software wallets, hardware wallets, and other ways to secure ETC
+intro: There are many different options of wallets to choose from to secure and use ETC. Each option gives a different balance between security and convenience. Please research the best option depending on your requirements.
 content:
   -
     key: web
     type: buttons
-    intro: | 
-      ### Web Wallets
-
-      These wallets can be accessed using a web page. They shouldn't be used to secure large amounts, but allow you to easily interacting with ETC without downloads.
+    title: Web Wallets
+    description: These wallets can be accessed using a web page. They shouldn't be used to secure large amounts, but allow you to easily interacting with ETC without downloads.
     items:
       -
         key: MyCrypto
@@ -34,10 +29,8 @@ content:
   -
     key: extension
     type: buttons
-    intro: | 
-      ### Extensions / Dapp Browsers
-      
-      These wallets are installed up within a web browser. Typically, they inject websites with your account information in order to allow you to interact with Ethereum Classic dapps on the web.
+    title: Extensions / Dapp Browsers
+    description: These wallets are installed up within a web browser. Typically, they inject websites with your account information in order to allow you to interact with Ethereum Classic dapps on the web.
     items:
       -
         key: MetaMask
@@ -58,10 +51,8 @@ content:
   -
     key: hardware
     type: buttons
-    intro: |
-      ### Hardware Wallets 
-      
-      Hardware wallets are secure wallets designed for long term storage.
+    title: Hardware Wallets 
+    description: Hardware wallets are secure wallets designed for long term storage.
     items:
     -
       key: Bitski
@@ -87,10 +78,8 @@ content:
   -
     key: software
     type: buttons
-    intro: |
-      ### Software Wallets
-
-      Software wallets are Desktop or Mobile devices designed for short-term storage.
+    title: Software Wallets
+    description: Software wallets are Desktop or Mobile devices designed for short-term storage.
     items: 
       -
         key: ABRA
