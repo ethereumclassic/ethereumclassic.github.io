@@ -1,0 +1,321 @@
+title: Social Channels
+description: A collection of Ethereum Classic chat rooms, twitter accounts, discussion groups, forums, podcasts, repositories and regional websites
+contribute: true
+disclaimer: true
+intro: |
+ # Social Channels
+
+ The following is a non-exhaustive list of active Ethereum Classic discussion channels and groups.
+chatIntro: "## Chat Rooms"
+telegramIntro: "## Telegram Groups"
+developmentIntro: "## Development Chat"
+forumIntro: "## Forums"
+mediaIntro: "## Media"
+repositoryIntro: "## Code Repositories"
+twitterIntro: "## Twitter Accounts"
+websiteIntro: "## Websites"
+regionalWebsiteIntro: "## Regional Websites"
+content:
+  -
+    intro: "## Chat Rooms"
+    type: buttons
+    items:
+    -
+      key: chat Discord
+      to: https://discordapp.com/invite/HW4GckH
+      name: Discord
+    -
+      key: chat Facebook English
+      to: https://www.facebook.com/groups/ethereum.hongkong/
+      name: Facebook English
+    -
+      key: chat Facebook Vietnam
+      to: http://facebook.com/EthereumClassicVietnam/
+      name: Facebook Vietnam
+    -
+      key: chat Kakao Korea
+      to: https://open.kakao.com/o/gi4uNJ1
+      name: Kakao Korea
+    -
+      key: chat Slack
+      to: https://ethereumclassic.herokuapp.com/
+      name: Slack
+    -
+      key: chat Tencent QQ
+      name: Tencent QQ
+      alert: ETC Asia-769408114
+    -
+      key: chat WeChat
+      to: https://bobsummerwill.files.wordpress.com/2019/10/screen-shot-2020-01-31-at-11.40.10-pm.png?w=230&h=300
+      name: WeChat
+  -
+    intro: "## Development Chat"
+    type: buttons
+    items:
+    -
+      key: Commonwealth.gg dev
+      to: https://discord.gg/crjsdJr
+      name: Commonwealth.gg
+      fullIcon: fab fa-discord
+    -
+      key: Core Paper dev
+      to: https://discord.io/ethereumclassic
+      name: Core Paper
+      fullIcon: fab fa-discord
+    -
+      key: ETC Core dev
+      to: https://discord.gg/5KwEAdZ
+      name: ETC Core
+      fullIcon: fab fa-discord
+    -
+      key: OpenEthereum dev
+      to: http://discord.io/openethereum
+      name: OpenEthereum
+      fullIcon: fab fa-discord
+    -
+      key: PAO Network dev
+      to: https://discord.gg/mPJ9zkq
+      name: PAO Network
+      fullIcon: fab fa-discord
+    -
+      key: Core Geth dev
+      to: https://gitter.im/core-geth/community
+      name: Core Geth
+      fullIcon: fab fa-gitter
+    -
+      key: Multi-Geth dev
+      to: https://gitter.im/multi-geth/community
+      name: Multi-Geth
+      fullIcon: fab fa-gitter
+    -
+      key: Open-RPC dev
+      to: https://gitter.im/open-rpc/community
+      name: Open-RPC
+      fullIcon: fab fa-gitter
+    -
+      key: POA Network dev
+      to: https://gitter.im/poanetwork/
+      name: POA Network
+      fullIcon: fab fa-gitter
+    -
+      key: ECIPs dev
+      to: https://riot.im/app/#/room/#ecips:matrix.org
+      name: ECIPs (Matrix)
+    -
+      key: Parity Tech dev
+      to: https://riot.im/app/#/room/#watercooler:matrix.parity.io
+      name: Parity Tech (Matrix)
+    -
+      key: Hyperledger Besu dev
+      to: https://chat.hyperledger.org/
+      name: Hyperledger Besu
+      fullIcon: fab fa-rocketchat
+    -
+      key: ETCDEV dev
+      to: https://t.me/GetEmerald
+      name: ETCDEV
+      fullIcon: fab fa-telegram-plane
+    -
+      key: ETC Labs dev
+      to: https://t.me/etclabs
+      name: ETC Labs
+      fullIcon: fab fa-telegram-plane
+    -
+      key: Parity Tech dev telegram
+      to: https://t.me/parity_technologies
+      name: Parity Tech
+      fullIcon: fab fa-telegram-plane
+    -
+      key: POA Network dev
+      to: https://t.me/poa_network
+      name: POA Network
+      fullIcon: fab fa-telegram-plane
+    -
+      key: Gödel Labs dev
+      to: https://weibo.com/godellabs
+      name: Gödel Labs
+      fullIcon: fab fa-weibo
+  -
+    intro: "## Telegram Groups"
+    type: buttons
+    items:
+    -
+      key: telegram Arabic
+      to: https://t.me/EtherClassic_Ar
+      name: Arabic
+    -
+      key: telegram China
+      to: https://t.me/etczh
+      name: China
+    -
+      key: telegram English 1
+      to: https://telegram.me/ethclassic
+      name: English
+    -
+      key: telegram English 2
+      to: https://t.me/etcchat
+      name: English
+    -
+      key: telegram Español
+      to: https://t.me/ethclassicesp
+      name: Español
+    -
+      key: telegram German
+      to: https://t.me/EtherCalssic_de
+      name: German
+    -
+      key: telegram Italia
+      to: https://t.me/ETC_Italia
+      name: Italia
+    -
+      key: telegram Japan
+      to: https://t.me/etcjapan
+      name: Japan
+    -
+      key: telegram Russia 1
+      to: https://telegram.me/etcrussia
+      name: Russia
+    -
+      key: telegram Russia 2
+      to: https://telegram.me/etcru
+      name: Russia
+    -
+      key: telegram Viet Nam
+      to: https://t.me/ETCVietnam
+      name: Viet Nam
+  -
+    intro: "## Forums"
+    type: buttons
+    items:
+    -
+      key: forum Reddit r/EthereumClassic
+      to: https://www.reddit.com/r/EthereumClassic/
+      name: Reddit r/EthereumClassic
+    -
+      key: forum forum.ethereumclassic.org
+      to: https://forum.ethereumclassic.org/
+      name: EthereumClassic.org Forum
+    -
+      key: forum BitcoinTalk
+      to: https://bitcointalk.org/index.php?topic=5134923
+      name: BitcoinTalk
+    -
+      key: forum Archived BitcoinTalk
+      to: https://bitcointalk.org/index.php?topic=1559630.0
+      name: Archived BitcoinTalk
+  -
+    intro: "## Media"
+    type: buttons
+    items:
+    -
+      key: media EVM61
+      to: https://www.youtube.com/playlist?list=PLiW3acHwcR6LAa_WS5sFWf1S_GquYVeJb
+      name: EVM61
+    -
+      key: media Explore The Chain
+      to: https://www.youtube.com/playlist?list=PL8fotqNQa4-UGxH8rCqeHAtOG56OyhZGf
+      name: Explore The Chain
+    -
+      key: media Let's Talk ETC!
+      to: https://www.youtube.com/playlist?list=PLKO8sMfwkZQqGH3Ny2OJ_SRcAvSf_0gx5
+      name: Let's Talk ETC!
+  -
+    intro: "## Code Repositories"
+    type: buttons
+    items:
+    -
+      key: repository ETC Github
+      to: https://github.com/ethereumclassic
+      name: ETC Github
+    -
+      key: repository ETC Awesome List
+      to: https://github.com/ethereumclassic/Awesome-ETC
+      name: ETC Awesome List
+  -
+    intro: "## Twitter Accounts"
+    type: buttons
+    items:
+    -
+      key: twitter China 1
+      to: https://twitter.com/EthereumChina
+      name: China
+    -
+      key: twitter China 2
+      to: https://twitter.com/ETCChina
+      name: China
+    -
+      key: twitter English 1
+      to: https://twitter.com/eth_classic
+      name: English
+    -
+      key: twitter English 2
+      to: https://twitter.com/EthereumClassic
+      name: English
+    -
+      key: twitter Español
+      to: https://twitter.com/ethclassicesp
+      name: Español
+    -
+      key: twitter France
+      to: https://twitter.com/ETC_France
+      name: France
+    -
+      key: twitter Germany
+      to: https://twitter.com/GermanyEtc
+      name: Germany
+    -
+      key: twitter Italia
+      to: https://twitter.com/etcitalia
+      name: Italia
+    -
+      key: twitter Japan
+      to: https://twitter.com/ETCJapan
+      name: Japan
+    -
+      key: twitter Korea 1
+      to: https://twitter.com/ethclassic_kor
+      name: Korea
+    -
+      key: twitter Korea 2
+      to: https://twitter.com/etckorea1
+      name: Korea
+    -
+      key: twitter Netherlands
+      to: https://twitter.com/etcnetherlands
+      name: Netherlands
+    -
+      key: twitter Philippines
+      to: https://twitter.com/ETC_Philippines
+      name: Philippines
+    -
+      key: twitter Sri Lanka
+      to: https://twitter.com/etcSriLanka
+      name: Sri Lanka
+    -
+      key: twitter Turkey
+      to: https://twitter.com/EtcTurkiye
+      name: Turkey
+    -
+      key: twitter Viet Nam
+      to: https://twitter.com/ETCVietNam
+      name: Viet Nam
+  -
+    intro: "## Regional Website"
+    type: buttons
+    items:
+    -
+      key: website EthereumClassicAsia
+      to: http://ethereumclassicasia.org/
+      name: EthereumClassicAsia
+    -
+      key: website EthereumClassic.cn
+      to: http://ethereumclassic.cn/
+      name: EthereumClassic.cn
+    -
+      key: website ETCKorea
+      to: https://etckorea.modoo.at/
+      name: ETCKorea
+    -
+      key: website EthereumClassicKorea.com
+      to: https://www.ethereumclassickorea.com/
+      name: EthereumClassicKorea.com

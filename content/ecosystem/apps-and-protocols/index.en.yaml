@@ -1,0 +1,17 @@
+title: Apps and Protocols
+contribute: true
+description: A collection of dapps, applications and protocols built on top of Ethereum Classic
+disclaimer: true
+intro: |
+  # Apps and Protocols
+  
+  TODO leverage collection
+
+  Ethereum Classic hosts a growing collection of decentralized applications and protocols. This page is an overview of the state of the ETC network development.
+
+  In 2020 ETC achieved network parity with ETH, which allows development teams to easily add Ethereum Classic to their projects. We expect this list to grow in the coming years as development teams learn about Ethereum Classic's unique properties like: ETC's deflationary monetary policy, the network's commitment to backwards compatibility for mainnet contracts, and a predictable emission schedule for miners.
+game: Game
+identity: Identity
+interoperabiltiy: Interoperability
+finance: Finance
+other: Other
