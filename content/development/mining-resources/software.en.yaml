@@ -1,18 +1,4 @@
 -
-  key: "Antminer E3"
-  name: "Antminer E3"
-  link: https://service.bitmain.com/support/download?product=Antminer%20E3
-  guide: https://antpool.kf5.com/hc/kb/article/1281448/
--
-  key: "Awesome Miner"
-  name: "Awesome Miner"
-  link: https://www.awesomeminer.com/download
-  guide: https://bitcointalk.org/index.php?topic=676942.0
-  windowsAmd: true
-  windowsNvidia: true
-  linuxAmd: true
-  linuxNvidia: true
--
   key: "Bminer"
   name: "Bminer"
   link: https://www.bminer.me/releases/
@@ -68,53 +54,9 @@
   linuxAmd: true
   linuxNvidia: true
 -
-  key: "HiveOS"
-  name: "HiveOS"
-  link: https://hiveos.farm/
-  guide: https://www.cruxpool.com/help/how-to-setup-hive-os/
-  linuxAmd: true
-  linuxNvidia: true
--
-  key: "Innosilicon A10 ETHMaster"
-  name: "Innosilicon A10 ETHMaster"
-  link: https://innosilicon.com/html/a10-miner/index.html
-  guide: http://www.innosilicon.com.cn/api/download.php?url=A10-ETH-Manual-en.pdf
--
   key: "Minergate xFast"
   name: "Minergate xFast"
   link: https://minergate.com/downloads
-  windowsAmd: true
-  windowsNvidia: true
-  linuxAmd: true
-  linuxNvidia: true
--
-  key: "MinerOS: Miner Babe"
-  name: "MinerOS: Miner Babe"
-  link: https://minerbabe.com/
-  guide: http://support.minerbabe.com/archives/category/tutorial
-  linuxAmd: true
-  linuxNvidia: true
--
-  key: "MinerOS: Miner Butler"
-  name: "MinerOS: Miner Butler"
-  link: https://mineros.cn/
-  guide: https://mineros.cn/index.php/zh/course
-  linuxAmd: true
-  linuxNvidia: true
--
-  key: "MinerStat"
-  name: "MinerStat"
-  link: https://minerstat.com/
-  guide: https://minerstat.com/coin/ETC
-  windowsAmd: true
-  windowsNvidia: true
-  linuxAmd: true
-  linuxNvidia: true
--
-  key: "MMP OS"
-  name: "MMP OS"
-  link: https://app.mmpos.eu/
-  guide: https://bitcointalk.org/index.php?topic=5088988.0
   windowsAmd: true
   windowsNvidia: true
   linuxAmd: true
@@ -128,11 +70,6 @@
   windowsNvidia: true
   linuxAmd: true
   linuxNvidia: true
--
-  key: "NiceHash"
-  name: "NiceHash"
-  link: https://www.nicehash.com/
-  guide: https://www.cruxpool.com/help/how-to-mine-with-nicehash-guide-2019/
 -
   key: "NBMiner"
   name: "NBMiner"
@@ -152,13 +89,6 @@
   linuxAmd: true
   linuxNvidia: true
 -
-  key: "SimpleMining"
-  name: "SimpleMining"
-  link: https://simplemining.net/
-  guide: https://simplemining.net/page/download
-  linuxAmd: true
-  linuxNvidia: true
--
   key: "TeamRedMiner"
   name: "TeamRedMiner"
   link: https://github.com/todxx/teamredminer/releases
@@ -174,3 +104,79 @@
   windowsNvidia: true
   linuxAmd: true
   linuxNvidia: true
+-
+  key: "Innosilicon A10 ETHMaster"
+  name: "ASIC: A10 ETHMaster"
+  link: https://innosilicon.com/html/a10-miner/index.html
+  guide: http://www.innosilicon.com.cn/api/download.php?url=A10-ETH-Manual-en.pdf
+-
+  key: "Antminer E3"
+  name: "ASIC: Antminer E3"
+  link: https://service.bitmain.com/support/download?product=Antminer%20E3
+  guide: https://antpool.kf5.com/hc/kb/article/1281448/
+-
+  key: "Linzhi E1400"
+  name: "ASIC: Linzhi E1400"
+  link: https://linzhi.io/
+  guide: https://linzhi.io/docs/LWP16-E1400-Architecture-Overview.pdf
+-
+  key: "NiceHash"
+  name: "Cloud: NiceHash"
+  link: https://www.nicehash.com/
+  guide: https://www.cruxpool.com/help/how-to-mine-with-nicehash-guide-2019/
+-
+  key: "Awesome Miner"
+  name: "MinerOS: Awesome Miner"
+  link: https://www.awesomeminer.com/download
+  guide: https://bitcointalk.org/index.php?topic=676942.0
+  windowsAmd: true
+  windowsNvidia: true
+  linuxAmd: true
+  linuxNvidia: true
+-
+  key: "HiveOS"
+  name: "Miner OS: HiveOS"
+  link: https://hiveos.farm/
+  guide: https://www.cruxpool.com/help/how-to-setup-hive-os/
+  linuxAmd: true
+  linuxNvidia: true
+-
+  key: "Miner Babe"
+  name: "MinerOS: Miner Babe"
+  link: https://minerbabe.com/
+  guide: http://support.minerbabe.com/archives/category/tutorial
+  linuxAmd: true
+  linuxNvidia: true
+-
+  key: "Miner Butler"
+  name: "MinerOS: Miner Butler"
+  link: https://mineros.cn/
+  guide: https://mineros.cn/index.php/zh/course
+  linuxAmd: true
+  linuxNvidia: true
+-
+  key: "MinerStat"
+  name: "MinerOS: MinerStat"
+  link: https://minerstat.com/
+  guide: https://minerstat.com/coin/ETC
+  windowsAmd: true
+  windowsNvidia: true
+  linuxAmd: true
+  linuxNvidia: true
+-
+  key: "MMP OS"
+  name: "MinerOS: MMP OS"
+  link: https://app.mmpos.eu/
+  guide: https://bitcointalk.org/index.php?topic=5088988.0
+  windowsAmd: true
+  windowsNvidia: true
+  linuxAmd: true
+  linuxNvidia: true
+-
+  key: "SimpleMining"
+  name: "MinerOS: SimpleMining"
+  link: https://simplemining.net/
+  guide: https://simplemining.net/page/download
+  linuxAmd: true
+  linuxNvidia: true
+-
