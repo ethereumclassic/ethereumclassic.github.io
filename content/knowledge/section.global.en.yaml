@@ -5,29 +5,29 @@ menu:
     key: what-is-etc
     to: /knowledge/what-is-etc
     name: What is ETC?
-    text: The basics of Ethereum Classic
+    tip: The basics of Ethereum Classic
     description: This beginner's introduction section will get you up to speed if you are new to Ethereum Classic and blockchain technology.
   -
     key: faqs
     to: /knowledge/faqs
     name: FAQs
-    text: Frequently Asked Questions
+    tip: Frequently Asked Questions
     description: This section covers common questions about Ethereum Classic with answers and video explainers.
   -
     key: theory
     to: /knowledge/theory
     name: Theory
-    text: Principles and Philosophy
+    tip: Principles and Philosophy
     description: If you want to understand the motivations behind Ethereum Classic, this section contains resources that will help you understand what ETC is all about.
   -
     key: roadmap
     to: /knowledge/roadmap
     name: Roadmap
-    text: History and Future Development
+    tip: History and Future Development
     description: This section documents Ethereum Classic's colourful history and takes a look at the next stages of it's development.
   -
     key: investor
     to: /knowledge/investor
     name: Investor Resources
-    text: Documents for investors looking to learn more about ETC
+    tip: Documents for investors looking to learn more about ETC
     description: Resources discussing key theses and relevant information for investors. Useful for those who are looking to understand the value proposition and upside potential of ETC.

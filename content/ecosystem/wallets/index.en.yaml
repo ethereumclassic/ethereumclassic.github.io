@@ -1,0 +1,238 @@
+title: Wallets
+description: A source of web wallets, extensions, software wallets, hardware wallets, and other ways to secure ETC
+contribute: true
+disclaimer: true
+intro: | 
+  # Wallets
+
+  There are many different options of wallets to choose from to secure and use ETC. Each option gives a different balance between security and convenience. Please research the best option depending on your requirements.
+content:
+  -
+    key: web
+    type: buttons
+    intro: | 
+      ### Web Wallets
+
+      These wallets can be accessed using a web page. They shouldn't be used to secure large amounts, but allow you to easily interacting with ETC without downloads.
+    items:
+      -
+        key: MyCrypto
+        to: https://www.mycrypto.com
+        name: MyCrypto
+      -
+        key: MyEtherWallet
+        to: https://www.myetherwallet.com
+        name: MyEtherWallet
+      -
+        key: Portis
+        to: https://www.portis.io/
+        name: Portis
+      -
+        key: Squarelink
+        to: https://squarelink.com/
+        name: Squarelink
+  -
+    key: extension
+    type: buttons
+    intro: | 
+      ### Extensions / Dapp Browsers
+      
+      These wallets are installed up within a web browser. Typically, they inject websites with your account information in order to allow you to interact with Ethereum Classic dapps on the web.
+    items:
+      -
+        key: MetaMask
+        to: https://metamask.io/
+        name: MetaMask
+      -
+        key: Nifty Wallet
+        to: https://github.com/poanetwork/nifty-wallet
+        name: Nifty Wallet (supports ETC dApps)
+      -
+        key: Opera
+        to: https://www.opera.com/crypto
+        name: Opera
+      -
+        key: Saturn Wallet
+        to: https://www.saturn.network/blog/saturn-wallet-user-manual/
+        name: Saturn Wallet (supports ETC dApps)
+  -
+    key: hardware
+    type: buttons
+    intro: |
+      ### Hardware Wallets 
+      
+      Hardware wallets are secure wallets designed for long term storage.
+    items:
+    -
+      key: Bitski
+      to: https://www.bitski.com/
+      name: Bitski
+    -
+      key: Ellipal
+      to: https://www.ellipal.com/
+      name: Ellipal
+    -
+      key: Ledger
+      to: https://shop.ledger.com/
+      name: Ledger
+    -
+      key: SafePal
+      to: https://www.safepal.io/
+      name: SafePal
+    -
+      key: Trezor
+      to: https://trezor.io/
+      name: Trezor
+
+  -
+    key: software
+    type: buttons
+    intro: |
+      ### Software Wallets
+
+      Software wallets are Desktop or Mobile devices designed for short-term storage.
+    items: 
+      -
+        key: ABRA
+        to: https://www.abra.com/
+        name: ABRA
+      -
+        key: Alpha Wallet
+        to: https://alphawallet.com/
+        name: Alpha Wallet
+      -
+        key: AToken
+        to: https://www.atoken.com/
+        name: AToken
+      -
+        key: Atomic Wallet
+        to: https://atomicwallet.io/
+        name: Atomic Wallet
+      -
+        key: BTCPOP
+        to: https://btcpop.co/
+        name: BTCPOP
+      -
+        key: Button Wallet
+        to: https://buttonwallet.com/
+        name: Button Wallet
+      -
+        key: Citowise
+        to: https://citowise.com/
+        name: Citowise
+      -
+        key: Cobo
+        to: https://cobo.com/
+        name: Cobo
+      -
+        key: Coinbase Wallet
+        to: https://wallet.coinbase.com/
+        name: Coinbase Wallet
+      -
+        key: Coinomi
+        to: https://www.coinomi.com/
+        name: Coinomi
+      -
+        key: Cryptonator
+        to: https://www.cryptonator.com/
+        name: Cryptonator
+      -
+        key: Edge
+        to: https://edge.app/
+        name: Edge
+      -
+        key: Emerald Wallet
+        to: https://emeraldpay.io/
+        name: Emerald Wallet
+      -
+        key: Ethos
+        to: https://www.ethos.io/universal-wallet/
+        name: Ethos
+      -
+        key: eToro Wallet
+        to: https://www.etorox.com/crypto-wallet/
+        name: eToro Wallet
+      -
+        key: Evercoin
+        to: https://evercoin.com
+        name: Evercoin
+      -
+        key: Exodus
+        to: https://www.exodus.io/
+        name: Exodus
+      -
+        key: Guarda
+        to: https://guarda.co/
+        name: Guarda
+      -
+        key: HubrisOne
+        to: https://www.hubrisone.com/
+        name: HubrisOne
+      -
+        key: Infinito Wallet
+        to: https://www.infinitowallet.io/
+        name: Infinito Wallet
+      -
+        key: Jaxx
+        to: https://jaxx.io/
+        name: Jaxx
+      -
+        key: Midas Protocol
+        to: https://midasprotocol.io/
+        name: Midas Protocol
+      -
+        key: Ownbit
+        to: https://ownbit.io/
+        name: Ownbit
+      -
+        key: Trust Wallet
+        to: https://trustwallet.com/
+        name: Trust Wallet (supports ETC dApps)
+      -
+        key: Zelcore Wallet
+        to: https://zel.network/project/zelcore/
+        name: Zelcore Wallet
+      -
+        key: ZenGo
+        to: https://zengo.com/
+        name: ZenGo
+  -
+    key: other
+    type: buttons
+    intro: |
+      ### Other Wallet Products
+    
+      These products are complimentary to crypto wallets; e.g. recovery seed storage
+    items:
+      -
+        key: BillFodl
+        to: https://billfodl.com/
+        name: BillFodl
+      -
+        key: Blockplate
+        to: https://www.blockplate.com/
+        name: Blockplate
+      -
+        key: ColdTi
+        to: https://coldti.com/
+        name: ColdTi
+      -
+        key: Crypto Key Stack
+        to: https://cryptokeystack.com/
+        name: Crypto Key Stack
+      -
+        key: CryptoSteel
+        to: https://cryptosteel.com/
+        name: CryptoSteel
+      -
+        key: CRYPTOTAG
+        to: https://cryptotag.io/
+        name: CRYPTOTAG
+      -
+        key: Hodlinox
+        to: https://hodlinox.com/
+        name: Hodlinox
+      -
+        key: Steely
+        to: https://thesteely.com/
+        name: Steely

@@ -56,47 +56,47 @@ content:
       key: Commonwealth.gg dev
       to: https://discord.gg/crjsdJr
       name: Commonwealth.gg
-      fullIcon: fab fa-discord
+      icon: fab fa-discord
     -
       key: Core Paper dev
       to: https://discord.io/ethereumclassic
       name: Core Paper
-      fullIcon: fab fa-discord
+      icon: fab fa-discord
     -
       key: ETC Core dev
       to: https://discord.gg/5KwEAdZ
       name: ETC Core
-      fullIcon: fab fa-discord
+      icon: fab fa-discord
     -
       key: OpenEthereum dev
       to: http://discord.io/openethereum
       name: OpenEthereum
-      fullIcon: fab fa-discord
+      icon: fab fa-discord
     -
       key: PAO Network dev
       to: https://discord.gg/mPJ9zkq
       name: PAO Network
-      fullIcon: fab fa-discord
+      icon: fab fa-discord
     -
       key: Core Geth dev
       to: https://gitter.im/core-geth/community
       name: Core Geth
-      fullIcon: fab fa-gitter
+      icon: fab fa-gitter
     -
       key: Multi-Geth dev
       to: https://gitter.im/multi-geth/community
       name: Multi-Geth
-      fullIcon: fab fa-gitter
+      icon: fab fa-gitter
     -
       key: Open-RPC dev
       to: https://gitter.im/open-rpc/community
       name: Open-RPC
-      fullIcon: fab fa-gitter
+      icon: fab fa-gitter
     -
       key: POA Network dev
       to: https://gitter.im/poanetwork/
       name: POA Network
-      fullIcon: fab fa-gitter
+      icon: fab fa-gitter
     -
       key: ECIPs dev
       to: https://riot.im/app/#/room/#ecips:matrix.org
@@ -109,32 +109,32 @@ content:
       key: Hyperledger Besu dev
       to: https://chat.hyperledger.org/
       name: Hyperledger Besu
-      fullIcon: fab fa-rocketchat
+      icon: fab fa-rocketchat
     -
       key: ETCDEV dev
       to: https://t.me/GetEmerald
       name: ETCDEV
-      fullIcon: fab fa-telegram-plane
+      icon: fab fa-telegram-plane
     -
       key: ETC Labs dev
       to: https://t.me/etclabs
       name: ETC Labs
-      fullIcon: fab fa-telegram-plane
+      icon: fab fa-telegram-plane
     -
       key: Parity Tech dev telegram
       to: https://t.me/parity_technologies
       name: Parity Tech
-      fullIcon: fab fa-telegram-plane
+      icon: fab fa-telegram-plane
     -
       key: POA Network dev
       to: https://t.me/poa_network
       name: POA Network
-      fullIcon: fab fa-telegram-plane
+      icon: fab fa-telegram-plane
     -
       key: Gödel Labs dev
       to: https://weibo.com/godellabs
       name: Gödel Labs
-      fullIcon: fab fa-weibo
+      icon: fab fa-weibo
   -
     intro: "## Telegram Groups"
     type: buttons

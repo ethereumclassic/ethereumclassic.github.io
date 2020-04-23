@@ -1,0 +1,45 @@
+title: Development
+root: /development
+menu:
+  - 
+    key: guides
+    to: /development/guides
+    name: Guides
+    tip: Tutorials and Walkthroughs
+    description: The best way to get started with Ethereum Classic development is to follow a development tutorial. This section has a selection of excellent starting points.
+  - 
+    key: clients
+    to: /development/clients
+    name: Clients
+    tip: Run your own ETC Node
+    description: This page goes over the various clients available for Ethereum Classic and provides links of where to download them.
+  - 
+    key: porting
+    to: /development/porting
+    name: Porting
+    tip: Port your dApp over to ETC
+    description: All of the resources necessary for a developer who has a currently running dApp on ETH and would like to port it over to ETC.
+  - 
+    key: developer-tools
+    to: /development/developer-tools
+    name: Tools
+    tip: Enhance your Developer Experience 
+    description: If you want to be leet developer, you need to use the right tools for the job! Take a look at some suggestions here.
+  - 
+    key: network-resources
+    to: /development/network-resources
+    name: Network Resources
+    tip: Keep track of the ETC blockchain
+    description: This page contains information about testnets, faucets, and tools for monitoring and exploring the Ethereum Classic blockchain.
+  - 
+    key: mining-resources
+    to: /development/mining-resources
+    name: Mining Resources
+    tip: Get hashing on ETC's PoW Algorithm
+    description: If you're interested in mining ETC, this page contains a bunch of resources to get started. Humanity needs your digital pickaxe!
+  - 
+    key: contribute
+    to: /development/contribute
+    name: Contribute
+    tip: Become part of Classic history 😉
+    description: The Ethereum Classic Improvement Proposal (ECIP) process allows anyone to contribute ideas and have a lasting impact on the future of this promising technology.

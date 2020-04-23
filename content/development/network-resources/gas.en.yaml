@@ -1,0 +1,22 @@
+type: buttons
+intro: |
+  ## Gas Fee Estimators
+
+  These services help users optimize gas prices to ensure your transactions process efficiently and timely. To prevent fee front running and negative feedback loops of gas estimators, it's best to program conservative gas prices into wallets and dapps.
+items:
+  -
+    key: ETCGas
+    name: ETCGas
+    to: http://etcgas.net
+  - 
+    key: EtherGas
+    name: EtherGas
+    to: http://etc.ethergas.net
+  - 
+    key: Expedition
+    name: Expedition
+    to: https://expedition.dev/?network=mainnet
+  - 
+    key: GasGauge
+    name: GasGauge
+    to: http://etc.gasgauge.org

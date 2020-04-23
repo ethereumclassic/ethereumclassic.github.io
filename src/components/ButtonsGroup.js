@@ -4,11 +4,13 @@ import Link from './Link';
 const ButtonsGroup = ({ items }) => {
   return (
     <>
-      {items.map(({ to, name }) => (
-        <>
-          <Link to={to}>{name}</Link>
-{' '}
-        </>
+      {items.map(({ key, to, name }) => (
+        <React.Fragment key={key}>
+          <Link key={key} to={to}>
+            {name}
+          </Link>
+          {'  '}
+        </React.Fragment>
       ))}
     </>
   );
