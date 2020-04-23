@@ -4,6 +4,11 @@
   link: https://service.bitmain.com/support/download?product=Antminer%20E3
   guide: https://antpool.kf5.com/hc/kb/article/1281448/
 -
+  key: "Awesome Miner"
+  name: "Awesome Miner"
+  link: https://www.awesomeminer.com/download
+  guide: https://bitcointalk.org/index.php?topic=676942.0
+-
   key: "Bminer"
   name: "Bminer"
   link: https://www.bminer.me/releases/
@@ -27,6 +32,13 @@
   windowsAmd: true
   windowsNvidia: true
 -
+  key: "DamoMiner"
+  name: "DamoMiner"
+  link: https://github.com/damominer/damominer/releases
+  guide: https://github.com/damominer/damominer
+  windowsNvidia: true
+  linuxNvidia: true
+-
   key: "Easy Miner"
   name: "Easy Miner"
   link: http://www.qskg.top/
@@ -43,12 +55,26 @@
   linuxAmd: true
   linuxNvidia: true
 -
+  key: "GMiner"
+  name: "GMiner"
+  link: https://github.com/develsoftware/GMinerRelease/releases
+  guide: https://minerstat.com/help/how-to-set-up-gminer
+  windowsAmd: true
+  windowsNvidia: true
+  linuxAmd: true
+  linuxNvidia: true
+-
   key: "HiveOS"
   name: "HiveOS"
   link: https://hiveos.farm/
   guide: https://www.cruxpool.com/help/how-to-setup-hive-os/
   linuxAmd: true
   linuxNvidia: true
+-
+  key: "Innosilicon A10 ETHMaster"
+  name: "Innosilicon A10 ETHMaster"
+  link: https://innosilicon.com/html/a10-miner/index.html
+  guide: http://www.innosilicon.com.cn/api/download.php?url=A10-ETH-Manual-en.pdf
 -
   key: "Minergate xFast"
   name: "Minergate xFast"
@@ -72,6 +98,16 @@
   linuxAmd: true
   linuxNvidia: true
 -
+  key: "MinerStat"
+  name: "MinerStat"
+  link: https://minerstat.com/
+  guide: https://minerstat.com/coin/ETC
+-
+  key: "MMP OS"
+  name: "MMP OS"
+  link: https://app.mmpos.eu/
+  guide: https://bitcointalk.org/index.php?topic=5088988.0
+-
   key: "Nanominer"
   name: "Nanominer"
   link: https://github.com/nanopool/nanominer/releases
@@ -86,10 +122,40 @@
   link: https://www.nicehash.com/
   guide: https://www.cruxpool.com/help/how-to-mine-with-nicehash-guide-2019/
 -
+  key: "NBMiner"
+  name: "NBMiner"
+  link: https://github.com/NebuTech/NBMiner/releases
+  guide: https://github.com/NebuTech/NBMiner
+  windowsAmd: true
+  windowsNvidia: true
+  linuxAmd: true
+  linuxNvidia: true
+-
   key: "Phoenix Miner"
   name: "Phoenix Miner"
   link: https://bitcointalk.org/index.php?topic=2647654.0
   guide: https://www.cruxpool.com/help/how-to-mine-with-phoenix-miner/
+  windowsAmd: true
+  windowsNvidia: true
+  linuxAmd: true
+  linuxNvidia: true
+-
+  key: "SimpleMining"
+  name: "SimpleMining"
+  link: https://simplemining.net/
+  guide: https://bitcointalk.org/index.php?topic=1541084.0
+-
+  key: "TeamRedMiner"
+  name: "TeamRedMiner"
+  link: https://github.com/todxx/teamredminer/releases
+  guide: https://github.com/todxx/teamredminer
+  windowsAmd: true
+  linuxAmd: true
+-
+  key: "TT-Miner"
+  name: "TT-Miner"
+  link: https://bitcointalk.org/index.php?topic=5025783.0
+  guide: https://bitcointalk.org/index.php?topic=5025783.0
   windowsAmd: true
   windowsNvidia: true
   linuxAmd: true
