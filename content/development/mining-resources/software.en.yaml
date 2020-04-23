@@ -45,6 +45,13 @@
   linuxAmd: true
   linuxNvidia: true
 -
+  key: "Genoil"
+  name: "Genoil"
+  link: https://github.com/nanopool/genoil-ethereum/releases
+  guide: https://bitcointalk.org/index.php?topic=1368785.0
+  windowsAmd: true
+  windowsNvidia: true
+-
   key: "GMiner"
   name: "GMiner"
   link: https://github.com/develsoftware/GMinerRelease/releases
@@ -57,6 +64,7 @@
   key: "Minergate xFast"
   name: "Minergate xFast"
   link: https://minergate.com/downloads
+  guide: https://minergate.com/faq/gui-miner-guide-windows
   windowsAmd: true
   windowsNvidia: true
   linuxAmd: true
@@ -105,7 +113,7 @@
   linuxAmd: true
   linuxNvidia: true
 -
-  key: "Innosilicon A10 ETHMaster"
+  key: "A10 ETHMaster"
   name: "ASIC: A10 ETHMaster"
   link: https://innosilicon.com/html/a10-miner/index.html
   guide: http://www.innosilicon.com.cn/api/download.php?url=A10-ETH-Manual-en.pdf
@@ -126,7 +134,7 @@
   guide: https://www.cruxpool.com/help/how-to-mine-with-nicehash-guide-2019/
 -
   key: "Awesome Miner"
-  name: "Miner OS: Awesome Miner"
+  name: "OS: Awesome Miner"
   link: https://www.awesomeminer.com/download
   guide: https://bitcointalk.org/index.php?topic=676942.0
   windowsAmd: true
@@ -135,28 +143,28 @@
   linuxNvidia: true
 -
   key: "HiveOS"
-  name: "Miner OS: HiveOS"
+  name: "OS: HiveOS"
   link: https://hiveos.farm/
   guide: https://www.cruxpool.com/help/how-to-setup-hive-os/
   linuxAmd: true
   linuxNvidia: true
 -
   key: "Miner Babe"
-  name: "Miner OS: Miner Babe"
+  name: "OS: Miner Babe"
   link: https://minerbabe.com/
   guide: http://support.minerbabe.com/archives/category/tutorial
   linuxAmd: true
   linuxNvidia: true
 -
   key: "Miner Butler"
-  name: "Miner OS: Miner Butler"
+  name: "OS: Miner Butler"
   link: https://mineros.cn/
   guide: https://mineros.cn/index.php/zh/course
   linuxAmd: true
   linuxNvidia: true
 -
   key: "MinerStat"
-  name: "Miner OS: MinerStat"
+  name: "OS: Miner Stat"
   link: https://minerstat.com/
   guide: https://minerstat.com/coin/ETC
   windowsAmd: true
@@ -165,7 +173,7 @@
   linuxNvidia: true
 -
   key: "MMP OS"
-  name: "Miner OS: MMP OS"
+  name: "OS: MMP OS"
   link: https://app.mmpos.eu/
   guide: https://bitcointalk.org/index.php?topic=5088988.0
   windowsAmd: true
@@ -174,7 +182,7 @@
   linuxNvidia: true
 -
   key: "SimpleMining"
-  name: "Miner OS: SimpleMining"
+  name: "OS: Simple Mining"
   link: https://simplemining.net/
   guide: https://simplemining.net/page/download
   linuxAmd: true
