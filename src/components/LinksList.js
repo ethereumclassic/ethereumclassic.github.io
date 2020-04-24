@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from './Link';
 
-const LinksList = ({ items }) => {
+const LinksList = ({ data: { items } }) => {
   return (
     <>
       {items.map(({ key, to, name, tip, description }) => (

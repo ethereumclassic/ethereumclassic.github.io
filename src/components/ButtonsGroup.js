@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from './Link';
 
-const ButtonsGroup = ({ items }) => {
+const ButtonsGroup = ({ data: { items } }) => {
   return (
     <>
       {items.map(({ key, to, name }) => (

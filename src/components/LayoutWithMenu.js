@@ -6,16 +6,11 @@ import Json from './Json';
 import SectionMenu from './SectionMenu';
 
 const LayoutWithMenu = props => {
-  const {
-    children,
-    data,
-    pageContext,
-    pageContext: { i18n }
-  } = props;
+  const { children, data, pageContext } = props;
   return (
     <LayoutGlobal {...props}>
-      <SectionMenu i18n={i18n} />
-      <MainMenu i18n={i18n} />
+      <SectionMenu {...pageContext} />
+      <MainMenu {...pageContext} />
       <hr />
       {children}
       <hr />

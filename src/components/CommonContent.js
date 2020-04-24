@@ -5,6 +5,7 @@ import ButtonsGroup from './ButtonsGroup';
 import DynamicTable from './DynamicTable';
 import InfoGroup from './InfoGroup';
 import Json from './Json';
+import ContentItemWrapper from './ContentItemWrapper';
 
 const components = {
   buttons: ButtonsGroup,
@@ -37,17 +38,13 @@ const CommonContent = ({ content, refs }) => {
   }
   return (
     <>
-      {(Array.isArray(content) ? content : [content]).map(_contentItem => {
-        const contentItem = resolveRefs(_contentItem, refs);
-        const Component = components[contentItem.type] || Json;
-        const { title, description } = contentItem;
+      {(Array.isArray(content) ? content : [content]).map((_item, i) => {
+        const item = resolveRefs(_item, refs);
+        const Component = components[item.type] || Json;
         return (
-          <React.Fragment key={contentItem.key}>
-            {(contentItem.intro || contentItem.header) && '!!!!!'}
-            {title && <h2>{title}</h2>}
-            {description && <p>{description}</p>}
-            <Component {...contentItem} />
-          </React.Fragment>
+          <ContentItemWrapper data={item} key={item.key || `${content.key}-${i}`}>
+            <Component data={item} />
+          </ContentItemWrapper>
         );
       })}
     </>

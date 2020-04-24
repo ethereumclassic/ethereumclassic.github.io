@@ -116,7 +116,7 @@ content:
       name: Parity Tech
       icon: fab fa-telegram-plane
     -
-      key: POA Network dev
+      key: POA Network telegram
       to: https://t.me/poa_network
       name: POA Network
       icon: fab fa-telegram-plane

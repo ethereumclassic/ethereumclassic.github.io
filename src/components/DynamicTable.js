@@ -6,7 +6,13 @@ function renderContent({ item, column, i18n }) {
   let inner = item[column.key];
   if (column.icons) {
     return column.icons.map(({ key, linkRef }) => {
-      return item[linkRef] && <Link to={item[linkRef]}>{key}</Link>;
+      return (
+        item[linkRef] && (
+          <Link key={key} to={item[linkRef]}>
+            {key}
+          </Link>
+        )
+      );
     });
   }
   if (inner && column.text) {
@@ -18,13 +24,16 @@ function renderContent({ item, column, i18n }) {
   if (column.checkRef) {
     inner = item[column.checkRef] ? 'O' : 'X';
   }
-  if (column.linkRef && item[column.linkRef]) {
-    return <Link to={item[column.linkRef]}>{inner}</Link>;
+  const link =
+    (column.linkPrefix && `${column.linkPrefix}${inner}`) ||
+    (column.linkRef && item[column.linkRef]);
+  if (link) {
+    return <Link to={link}>{inner}</Link>;
   }
   return inner;
 }
 
-const DynamicTable = ({ items, columns, hideHead, i18n }) => {
+const DynamicTable = ({ data: { items, columns, hideHead, i18n } }) => {
   return (
     <>
       <table>

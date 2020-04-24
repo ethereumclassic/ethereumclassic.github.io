@@ -14,14 +14,14 @@ function renderButton({ button, item }) {
   );
 }
 
-const InfoGroup = content => {
+const InfoGroup = ({ data: { items, buttons } }) => {
   return (
     <div>
-      {content.items.map(item => (
+      {items.map(item => (
         <div key={item.key}>
-          {content.buttons && (
+          {buttons && (
             <div style={{ float: 'right' }}>
-              {content.buttons.map(button => renderButton({ button, item, content }))}
+              {buttons.map(button => renderButton({ button, item }))}
             </div>
           )}
           <h3>
