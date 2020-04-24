@@ -1,0 +1,30 @@
+allBlogPosts: All Blog Posts
+submitArticle: Submit your Article
+latestArticles: Latest Articles
+noPosts: No posts in your selected language 😢
+englishPosts: English Posts
+continueReading: Continue Reading
+rssFeed: RSS Feed
+allnews: All News
+blogArticles: Blog Articles
+mediaLinks: Media Links
+next: Next
+previous: Previous
+filterTag: Filter Tag
+# tags
+tags:
+  announcement: Announcements
+  application: Applications
+  development: Development
+  education: Education
+  event: Events
+  exchange: Exchanges
+  guide: Guides
+  hardfork: Hard Forks
+  media: Media
+  mining: Mining
+  podcast: Podcasts
+  teams: Teams
+  tech: Technology
+  trading: Trading
+  wallet: Wallets
