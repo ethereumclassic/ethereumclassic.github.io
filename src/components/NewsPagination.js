@@ -1,19 +1,20 @@
 import React from 'react';
 
 import Link from './Link';
-import Json from './Json';
 
 const NewsPagination = ({ filterBase: firstPage, numPages, currentPage }) => {
-  // const { page, pages, firstPage } = pagination;
+  if (numPages === 1) {
+    return null;
+  }
   let prevPage = currentPage === 2 ? firstPage : `${firstPage}/page/${currentPage - 1}/`;
   if (currentPage === 1) {
     prevPage = null;
   }
-  const nextPage = currentPage === numPages ? null : `${firstPage}/page/${currentPage + 1}/`;
-  const lastPage = `${firstPage}/page/${numPages}/`;
+  const nextPage = currentPage !== numPages && `${firstPage}/page/${currentPage + 1}/`;
+  const lastPage = numPages !== 1 && numPages !== currentPage && `${firstPage}/page/${numPages}/`;
   return (
     <>
-      {firstPage && <Link to={firstPage}>First</Link>}
+      {prevPage && firstPage && <Link to={firstPage}>First</Link>}
       {'  '}
       {prevPage && <Link to={prevPage}>Previous</Link>}
       {' | '}

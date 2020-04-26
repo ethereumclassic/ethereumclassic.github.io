@@ -64,9 +64,8 @@ exports.onCreatePage = async ({ page, actions: { createPage, deletePage } }) => 
     blog: ['blog'],
     news: ['blog', 'news'],
     'news/media': ['news']
-  })[relativePath].forEach(p => {
+  }[relativePath].forEach(p => {
     const match = (filters[locale] || {})[p] || {};
-    console.log(page.path, p, match);
     total += match.total;
     Object.keys(match.years || {}).forEach(k => {
       years[k] = years[k] ? years[k] + match.years[k] : match.years[k];
@@ -76,9 +75,10 @@ exports.onCreatePage = async ({ page, actions: { createPage, deletePage } }) => 
     });
   }));
   const allTags = Object.keys(tags);
+  const allYears = Object.keys(years);
   const pageGroups = [{ path: page.path, items: total }];
   const defaultTagQuery = [null, ...allTags];
-  Object.keys(years).forEach(year => {
+  allYears.forEach(year => {
     pageGroups.push({
       path: `${page.path}/year/${year}`,
       items: years[year],
@@ -111,6 +111,8 @@ exports.onCreatePage = async ({ page, actions: { createPage, deletePage } }) => 
           currentPage,
           limit: itemsPerPage,
           skip: i * itemsPerPage,
+          allYears,
+          allTags,
           filter,
           filterType,
           yearQuery: filterType === 'year' ? `${filter}-*` : '*',

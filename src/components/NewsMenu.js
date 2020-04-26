@@ -1,14 +1,16 @@
 import React from 'react';
 
-import Json from './Json';
 import NewsFilters from './NewsFilters';
 import NewsPagination from './NewsPagination';
 import Menu from './Menu';
 
 const NewsMenu = props => {
   return (
-    <div>
-      {/* <Json {...rest} /> */}
+    <>
+      <div style={{ float: 'right' }}>
+        <NewsFilters {...props} />
+        <NewsPagination {...props} />
+      </div>
       <Menu
         items={[
           { key: 'news', to: '/news', name: 'News' },
@@ -16,9 +18,7 @@ const NewsMenu = props => {
           { key: 'media', to: '/news/media', name: 'Media' }
         ]}
       />
-      <NewsFilters />
-      <NewsPagination {...props} />
-    </div>
+    </>
   );
 };
 

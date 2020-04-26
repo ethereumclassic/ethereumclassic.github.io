@@ -1,12 +1,20 @@
 import React from 'react';
 
-import Json from './Json';
+import Menu from './Menu';
 
-const NewsFilters = ({ i18n, ...rest }) => {
+const NewsFilters = ({
+  allTags,
+  allYears,
+  relativePath,
+  i18n: {
+    globals: { news }
+  }
+}) => {
   return (
-    <div>
-      <Json {...rest} />
-    </div>
+    <>
+      <Menu items={allTags.map(t => ({ to: `/${relativePath}/tag/${t}`, name: news.tags[t] }))} />
+      <Menu items={allYears.map(y => ({ to: `/${relativePath}/year/${y}`, name: y }))} />
+    </>
   );
 };
 
