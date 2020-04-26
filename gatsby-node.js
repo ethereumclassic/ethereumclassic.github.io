@@ -58,9 +58,15 @@ exports.onCreatePage = async ({ page, actions: { createPage, deletePage } }) => 
   const tags = {};
   const years = {};
   let total = 0;
-  // add up combinging news and medai
-  relativePath.split('/').forEach(p => {
+
+  // search for correct parent directory
+  ({
+    blog: ['blog'],
+    news: ['blog', 'news'],
+    'news/media': ['news']
+  })[relativePath].forEach(p => {
     const match = (filters[locale] || {})[p] || {};
+    console.log(page.path, p, match);
     total += match.total;
     Object.keys(match.years || {}).forEach(k => {
       years[k] = years[k] ? years[k] + match.years[k] : match.years[k];
@@ -68,7 +74,7 @@ exports.onCreatePage = async ({ page, actions: { createPage, deletePage } }) => 
     Object.keys(match.tags || {}).forEach(k => {
       tags[k] = tags[k] ? tags[k] + match.tags[k] : match.tags[k];
     });
-  });
+  }));
   const allTags = Object.keys(tags);
   const pageGroups = [{ path: page.path, items: total }];
   const defaultTagQuery = [null, ...allTags];
@@ -100,6 +106,7 @@ exports.onCreatePage = async ({ page, actions: { createPage, deletePage } }) => 
         context: {
           ...page.context,
           numPages,
+          filterBase: path,
           numItems: items,
           currentPage,
           limit: itemsPerPage,
