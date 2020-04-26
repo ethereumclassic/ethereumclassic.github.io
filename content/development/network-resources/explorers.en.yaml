@@ -9,6 +9,10 @@
   name: Astor Explorer
   astor: https://explore.astor.host/
 -
+  key: Bitquery
+  name: Bitquery
+  etc: https://explorer.bitquery.io/ethclassic/
+-
   key: BlockScout
   name: BlockScout
   etc: https://blockscout.com/etc/mainnet/
