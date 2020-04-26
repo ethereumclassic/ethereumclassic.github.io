@@ -7,8 +7,8 @@ const AppsTemplate = props => {
     pageContext: { i18n }
   } = props;
   return (
-    <LayoutPage {...props}>
-      <ColorGrid data={{ i18n, items: i18n.apps }} />
+    <LayoutPage {...props} className="wide">
+      <ColorGrid data={i18n.apps} />
     </LayoutPage>
   );
 };

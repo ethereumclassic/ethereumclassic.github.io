@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Menu from './Menu';
+import ButtonsGroup from './ButtonsGroup';
 
 const NewsFilters = ({
   allTags,
@@ -12,8 +12,10 @@ const NewsFilters = ({
 }) => {
   return (
     <>
-      <Menu items={allTags.map(t => ({ to: `/${relativePath}/tag/${t}`, name: news.tags[t] }))} />
-      <Menu items={allYears.map(y => ({ to: `/${relativePath}/year/${y}`, name: y }))} />
+      <ButtonsGroup
+        items={allTags.map(t => ({ to: `/${relativePath}/tag/${t}`, name: news.tags[t] }))}
+      />
+      <ButtonsGroup items={allYears.map(y => ({ to: `/${relativePath}/year/${y}`, name: y }))} />
     </>
   );
 };

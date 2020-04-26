@@ -11,7 +11,7 @@ module.exports = {
     // 'gatsby-plugin-layout',
     // 'gatsby-plugin-sharp',
     // 'gatsby-plugin-react-helmet',
-    // 'gatsby-plugin-sass',
+    'gatsby-plugin-sass',
     // 'gatsby-plugin-sitemap',
     // 'gatsby-plugin-remove-generator',
     // 'gatsby-plugin-netlify',

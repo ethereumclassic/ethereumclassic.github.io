@@ -4,9 +4,14 @@ import ContentItemWrapper from './ContentItemWrapper';
 const Roadmap = ({ data }) => {
   return (
     <ContentItemWrapper data={data}>
-      {data.items.map(item => (
-        <pre key={item.key}>{JSON.stringify(item)}</pre>
-      ))}
+      <div className="roadmap">
+        {data.items.map(({ date, key, text }) => (
+          <div key={key} className="item">
+            <h4>{date}</h4>
+            <p>{text}</p>
+          </div>
+        ))}
+      </div>
     </ContentItemWrapper>
   );
 };

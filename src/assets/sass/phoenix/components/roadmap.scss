@@ -1,79 +1,28 @@
-.road {
-  // background: orange;
-  $lineThickness: $nanoPadding;
-  $lineColor: _palette(accent);
+.roadmap {
+  $border: $nanoPadding solid _palette(accent);
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  margin-bottom: $smallPadding;
-  grid-column-gap: $lineThickness;
-  position: relative;
-
-  &::before {
-    content: '';
-    display: 'block';
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 50%;
-    margin-left: -$lineThickness/2;
-    width: $lineThickness;
-    background: $lineColor;
-  }
-
-  .date {
-    border-bottom: $lineThickness solid $lineColor;
+  grid-template-columns: 50% 50%;
+  h4 {
+    border-bottom: $border;
     display: inline-block;
+  }
+  h4, p {
     padding: $microPadding $smallPadding;
   }
-
-  h5,
-  p {
-    margin-left: $smallPadding;
-  }
-
   .item {
-    padding-bottom: $tinyPadding;
-
-    &:nth-child(odd) {
-      text-align: right;
-
-      h5,
-      p {
-        margin-right: $smallPadding;
-        margin-left: 0;
-      }
-    }
-
-    &:nth-child(even) {
-      margin-top: $tinyPadding;
-    }
+    border-right: $border;
   }
-
+  .item:nth-child(odd) {
+    text-align:right;
+  }
+  .item:nth-child(even) {
+    margin-top: $smallPadding;
+    border-right: none;
+  }
   @include breakpoint('<=small') {
-    display: block;
-
-    &::before {
-      left: 0;
-    }
-
+    grid-template-columns: 100%;
     .item {
-      padding-bottom: $smallPadding;
-    }
-
-    .item:nth-child(odd) {
-
-      h5,
-      p {
-        margin-right: 0;
-        margin-left: $smallPadding;
-      }
-
-      text-align: left;
-    }
-
-    .item:nth-child(even) {
-      margin-top: 0;
+      border-right: none;
     }
   }
-
 }

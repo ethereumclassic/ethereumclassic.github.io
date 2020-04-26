@@ -3,6 +3,7 @@ import React from 'react';
 import LayoutPage from './LayoutPage';
 import Json from './Json';
 import NewsMenu from './NewsMenu.js';
+import NewsItems from './NewsItems';
 
 const LayoutMarkdown = props => {
   const {
@@ -13,8 +14,7 @@ const LayoutMarkdown = props => {
   return (
     <LayoutPage {...props}>
       <NewsMenu {...pageContext} />
-      {JSON.stringify(rest)}
-      <Json {...data} />
+      <NewsItems items={data.items.nodes} />
     </LayoutPage>
   );
 };

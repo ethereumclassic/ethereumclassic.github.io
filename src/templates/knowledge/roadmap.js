@@ -9,7 +9,7 @@ const RoadmapTemplate = props => {
     pageContext: { i18n }
   } = props;
   return (
-    <LayoutPage {...props}>
+    <LayoutPage {...props} className="wide">
       <Timeline data={i18n.timeline} />
       <CommonContent content={[i18n.ecips]} />
       <Roadmap data={i18n.roadmap} />

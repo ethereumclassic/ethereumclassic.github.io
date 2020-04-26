@@ -1,17 +1,30 @@
 import React from 'react';
 
 import LayoutWithMenu from './LayoutWithMenu';
+import SectionMenu from './SectionMenu';
+import PageHeader from './PageHeader';
 
 const LayoutPage = props => {
   const {
     children,
-    pageContext: { i18n }
+    pageContext,
+    pageContext: { i18n },
+    className
   } = props;
   return (
-    <LayoutWithMenu {...props}>
-      <h1>{i18n.title}</h1>
-      <p>{i18n.intro}</p>
-      {children}
+    <LayoutWithMenu {...props} className={`page ${className || ''}`}>
+      <PageHeader {...pageContext} />
+      <div className="content">
+        <div className="contained">
+          <SectionMenu {...pageContext} slim />
+          <div className="intro">
+            <h1>{i18n.title}</h1>
+            <p>{i18n.intro}</p>
+          </div>
+          {children}
+          <SectionMenu {...pageContext} />
+        </div>
+      </div>
     </LayoutWithMenu>
   );
 };

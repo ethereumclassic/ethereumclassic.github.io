@@ -1,14 +1,16 @@
 import React from 'react';
 
+import Link from './Link';
 import Menu from './Menu';
 
 const SectionMenu = ({
   relativePath,
   i18n: {
     globals: { section, mainMenu }
-  }
+  },
+  slim
 }) => {
-  if (!section || !section.menu) {
+  if (!section || !section.menu || relativePath.split('/').length === 1) {
     return null;
   }
   let next;
@@ -30,12 +32,15 @@ const SectionMenu = ({
     }
   });
   return (
-    <div style={{ float: 'right' }}>
-      <Menu items={section.menu} />
-      ---
-      <br />
-      {prev && next && <Menu items={[prev, next]} />}
-      <br />
+    <div className="section-menu">
+      {(prev || next) && (
+        <div className="fast-nav grid">
+          <div>{prev && <Link to={prev.to}>{prev.name}</Link>}</div>
+          <div className="text-right">{next && <Link to={next.to}>{next.name}</Link>}</div>
+        </div>
+      )}
+      <div className="clear" />
+      {!slim && <Menu items={section.menu} />}
     </div>
   );
 };

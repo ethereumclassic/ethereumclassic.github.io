@@ -2,16 +2,15 @@ import React from 'react';
 
 import LayoutGlobal from './LayoutGlobal';
 import MainMenu from './MainMenu';
-import SectionMenu from './SectionMenu';
 
 const LayoutWithMenu = props => {
-  const { children, pageContext } = props;
+  const { children, pageContext, className } = props;
   return (
     <LayoutGlobal {...props}>
-      <SectionMenu {...pageContext} />
-      <MainMenu {...pageContext} />
-      <hr />
-      {children}
+      <div id="wrapper" className={className}>
+        <MainMenu {...pageContext} />
+        {children}
+      </div>
     </LayoutGlobal>
   );
 };

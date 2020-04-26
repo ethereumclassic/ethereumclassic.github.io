@@ -9,7 +9,7 @@ const MainMenu = ({
 }) => {
   return (
     <div>
-      <Menu items={mainMenu} />
+      <Menu items={mainMenu} className="main" />
     </div>
   );
 };
