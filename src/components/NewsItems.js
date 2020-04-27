@@ -1,12 +1,12 @@
 import React from 'react';
 import Link from './Link';
 
-const NewsItems = ({ items }) => {
+const NewsItems = ({ items, className }) => {
   return (
-    <div className="news-items">
+    <div className={`cells news-items ${className || ''}`}>
       {items.map(({ id, parent, data, relativeDirectory }) => {
         return (
-          <div key={id} className="news-item">
+          <div key={id} className="cell news-item">
             <div>
               <span className="date">{data.date}</span>
               <span className="author">

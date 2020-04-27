@@ -36,12 +36,6 @@ body {
   }
 }
 
-.menu.main {
-  position: fixed;
-  right: 0;
-  background: white;
-}
-
 .button {
   cursor: pointer;
   margin: 0.3rem;
@@ -85,4 +79,24 @@ body {
 
 .fast-nav {
   margin-bottom: $smallPadding;
+}
+
+.cells {
+  background: _palette(bright);
+  border-radius: $roundedLoose;
+  box-shadow: $softShadow;
+  .cell {
+    border-bottom: $solidDarkLine;
+    padding: $smallPadding $smallPadding;
+    > * { margin-bottom: 0; }
+  }
+  .cell:last-child {
+    border-bottom: none;
+  }
+}
+
+.scrolly {
+  max-height: 50vh;
+  overflow: hidden;
+  overflow-y: scroll;
 }

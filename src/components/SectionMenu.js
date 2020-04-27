@@ -6,7 +6,7 @@ import Menu from './Menu';
 const SectionMenu = ({
   relativePath,
   i18n: {
-    globals: { section, mainMenu }
+    globals: { section, mainMenu, ui }
   },
   slim
 }) => {
@@ -35,8 +35,23 @@ const SectionMenu = ({
     <div className="section-menu">
       {(prev || next) && (
         <div className="fast-nav grid">
-          <div>{prev && <Link to={prev.to}>{prev.name}</Link>}</div>
-          <div className="text-right">{next && <Link to={next.to}>{next.name}</Link>}</div>
+          <div>
+            {prev && (
+              <Link className="button" to={prev.to}>
+                {prev.name}
+              </Link>
+            )}
+          </div>
+          <div className="text-right">
+            {next && (
+              <>
+                {!slim && `${ui.continueReading}: `}
+                <Link className="button" to={next.to}>
+                  {next.name}
+                </Link>
+              </>
+            )}
+          </div>
         </div>
       )}
       <div className="clear" />

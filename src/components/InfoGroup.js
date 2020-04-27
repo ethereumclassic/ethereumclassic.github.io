@@ -8,7 +8,9 @@ function renderButton({ button, item }) {
   }
   return (
     <React.Fragment key={button.key}>
-      <Link to={link}>{button.name}</Link>
+      <Link className="button" to={link}>
+        {button.name}
+      </Link>
       {'  '}
     </React.Fragment>
   );
@@ -16,9 +18,9 @@ function renderButton({ button, item }) {
 
 const InfoGroup = ({ data: { items, buttons } }) => {
   return (
-    <div>
+    <div className="cells">
       {items.map(item => (
-        <div key={item.key}>
+        <div key={item.key} className="cell">
           {buttons && (
             <div style={{ float: 'right' }}>
               {buttons.map(button => renderButton({ button, item }))}

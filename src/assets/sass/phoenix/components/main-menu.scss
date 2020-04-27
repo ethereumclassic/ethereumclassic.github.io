@@ -1,0 +1,43 @@
+.main-menu {
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 1;
+  background: white;
+  user-select: none;
+  $hamburgerSize: 2.5rem;
+  .overlay {
+    background: _palette(t-black-20);
+    backdrop-filter: blur(7px) grayscale(50%);
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+  }
+  .hidden {
+    visibility: hidden;
+  }
+  .hamburger {
+    z-index: 2;
+    font-size: $hamburgerSize / 3;
+    text-align: center;
+    width: $hamburgerSize;
+    line-height: $hamburgerSize;
+    height: $hamburgerSize;
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: _palette(t-white-20)
+  }
+  .menu {
+    top: $hamburgerSize;
+    font-family: '_HeaderFont';
+    font-weight: 400;
+    text-transform: uppercase;
+    position: absolute;
+    right: 0;
+  }
+}

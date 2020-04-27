@@ -1,4 +1,5 @@
 import React from 'react';
+import { graphql } from 'gatsby';
 
 import LayoutWithMenu from '../components/LayoutWithMenu';
 
@@ -18,16 +19,50 @@ const components = {
 
 const IndexTemplate = props => {
   const {
+    data: { news },
     pageContext: { i18n }
   } = props;
   return (
     <LayoutWithMenu {...props}>
       {i18n.content.map(item => {
         const Component = components[item.type];
-        return <Component key={item.key} data={item} i18n={i18n} />;
+        return <Component key={item.key} data={item} i18n={i18n} news={news} />;
       })}
     </LayoutWithMenu>
   );
 };
 
 export default IndexTemplate;
+
+export const query = graphql`
+  query($locale: String!) {
+    news: allYamlI18N(
+      filter: {
+        locale: { eq: $locale }
+        type: { in: ["collection", "markdown"] }
+        parentDirectory: { in: ["blog", "news"] }
+      }
+      sort: { fields: data___date, order: DESC }
+      limit: 5
+    ) {
+      nodes {
+        id
+        relativeDirectory
+        type
+        data {
+          link
+          tags
+          title
+          author
+          source
+          date
+        }
+        parent {
+          ... on Mdx {
+            excerpt
+          }
+        }
+      }
+    }
+  }
+`;
