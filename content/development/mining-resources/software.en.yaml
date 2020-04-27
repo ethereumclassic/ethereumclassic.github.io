@@ -128,11 +128,6 @@
   link: https://linzhi.io/
   guide: https://linzhi.io/docs/LWP16-E1400-Architecture-Overview.pdf
 -
-  key: "NiceHash"
-  name: "Cloud: NiceHash"
-  link: https://www.nicehash.com/
-  guide: https://www.cruxpool.com/help/how-to-mine-with-nicehash-guide-2019/
--
   key: "Awesome Miner"
   name: "OS: Awesome Miner"
   link: https://www.awesomeminer.com/download
@@ -180,6 +175,11 @@
   windowsNvidia: true
   linuxAmd: true
   linuxNvidia: true
+-
+  key: "NiceHash"
+  name: "OS: NiceHash OS"
+  link: https://www.nicehash.com/nhos-mining
+  guide: https://www.nicehash.com/support/mining-help/nicehash-os/what-is-nicehash-os
 -
   key: "SimpleMining"
   name: "OS: Simple Mining"
