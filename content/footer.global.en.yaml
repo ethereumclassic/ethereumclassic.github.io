@@ -1,0 +1,83 @@
+participants: Participants
+teams: 
+  title: Teams
+  items:
+    -
+      key: ETC Cooperative
+      link: /
+      name: ETC Cooperative
+    -
+      key: ETC Labs
+      link: /
+      name: ETC Labs
+    -
+      key: ETC Core
+      link: /
+      name: ETC Core
+    -
+      key: ETC Consortium
+      link: /
+      name: ETC Consortium
+    -
+      key: Gödel Labs
+      link: /
+      name: Gödel Labs
+regions:
+  title: Regions
+  items: 
+    -
+      key: Asia
+      name: Asia
+      link: /test
+    -
+      key: Korea
+      name: Korea
+      link: /test
+    -
+      key: China
+      name: China
+      link: /test
+social:
+  title: Social
+  items: 
+    -
+      key: Social
+      link: /testing
+      name: Social
+    -
+      key: Discord
+      link: /testing
+      name: Discord
+    -
+      key: Telegram
+      link: /testing
+      name: Telegram
+    -
+      key: Reddit
+      link: /testing
+      name: Reddit
+    -
+      key: Twitter
+      link: /testing
+      name: Twitter
+    -
+      key: GitHub
+      link: /testing
+      name: GitHub
+discordTip: "**ETC participants** are most active on **discord**."
+discord: 
+  icon: discord
+  name: Join ETC on Discord
+  to: https://discordapp.com/invite/HW4GckH
+moreChannels: More Social Channels
+buttons:
+  -
+    key: sitemap
+    to: /sitemap
+    name: Sitemap
+  -
+    key: rss
+    to: /blog
+    name: RSS Feeds
+signOff: Made with `<3` for the original Ethereum vision
+html5Up: Template derived from HTML5UP

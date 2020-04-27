@@ -8,7 +8,12 @@ module.exports = {
   },
   plugins: [
     // 'gatsby-transformer-sharp',
-    // 'gatsby-plugin-layout',
+    {
+      resolve: 'gatsby-plugin-layout',
+      options: {
+        component: require.resolve('./src/components/LayoutGlobal')
+      }
+    },
     // 'gatsby-plugin-sharp',
     // 'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',

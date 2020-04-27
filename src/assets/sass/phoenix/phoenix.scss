@@ -37,7 +37,9 @@ body {
 }
 
 .menu.main {
-  position: absolute;
+  position: fixed;
+  right: 0;
+  background: white;
 }
 
 .button {

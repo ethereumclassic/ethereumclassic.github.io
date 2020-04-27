@@ -33,45 +33,7 @@ warningText:
 warningButton: Update
 #  ## Latest Blog Posts
 # Appears on landing page and blog section
-#
-#  ## Footer
-# This section appears at the bottom of every page
-#
-# ### Discord Invite
-#
-discordText: "**ETC participants** are most active on **discord**."
-discordJoin: Join ETC on Discord
-participants: Participants
-regionalSites: Regions
-teams: Teams
-#  ### Community
-# TODO convert into things
-etcAsia: Asia
-etcKorea: Korea
-etcChina: China
-allChannels: More Social Channels
-etcCooperative: ETC Cooperative
-etcLabs: ETC Labs
-etcCore: ETC Core
-etcConsortium: ETC Consortium
-godel: Gödel Labs
-#  ### Social
-#
-socialTitle: Social
-discord: Discord
-telegram: Telegram
-reddit: Reddit
-twitter: Twitter
-github: GitHub
-#  Footer sign off text, right at the bottom. Make sure to include the `<3` heart!
-footerText: Made with `<3` for the original Ethereum vision
-#  ### Misc UI elements
-#
-disclaimer: The links on this page are contributions by ETC participants and are not guaranteed to be safe; use them at your own risk! Please do your own research before using any of resources on this site.
+#disclaimer: The links on this page are contributions by ETC participants and are not guaranteed to be safe; use them at your own risk! Please do your own research before using any of resources on this site.
 contribute: "If you feel there is incorrect or missing content on this page, please reach out via the [Ethereum Classic Discord](https://discordapp.com/invite/HW4GckH) or create an issue on [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io)."
 license: The content on this page made available under the license
-source: Source
-legend: Legend (click to filter)
-sitemap: Sitemap
 learnMore: Learn More
-all: All

@@ -2,5 +2,7 @@ title: Press
 description: Information and resources related to the promotion of Ethereum Classic
 intro: This page contains miscellaneous links and resources related to the promotion of Ethereum Classic.
 content: 
-  type: links
-  itemsRef: globals.section.menu
+  -
+    key: links
+    type: links
+    itemsRef: globals.section.menu

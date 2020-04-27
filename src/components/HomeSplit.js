@@ -1,10 +1,11 @@
 import React from 'react';
 
-const HomeSplit = ({ data }) => {
+const HomeSplit = ({ data: i18n }) => {
   return (
-    <div key={data.key}>
-      <pre>{JSON.stringify(data)}</pre>
-    </div>
+    <section>
+      <header>{i18n.left}</header>
+      <div className="content">{i18n.right}</div>
+    </section>
   );
 };
 

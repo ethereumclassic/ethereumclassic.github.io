@@ -2,5 +2,7 @@ title: Development
 description: Technical resources for Ethereum Classic covering development, mining and network status
 intro: If you are interested in the more technical aspects of Ethereum classic, this section is for you! Here you can find out about network monitoring, mining software and becoming proficient at building applications on ETC.
 content: 
-  type: links
-  itemsRef: globals.section.menu
+  -
+    key: links
+    type: links
+    itemsRef: globals.section.menu

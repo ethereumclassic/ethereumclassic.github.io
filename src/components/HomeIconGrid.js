@@ -2,9 +2,15 @@ import React from 'react';
 
 const HomeIconGrid = ({ data }) => {
   return (
-    <div key={data.key}>
-      <pre>{JSON.stringify(data)}</pre>
-    </div>
+    <section className="icon-grid">
+      {data.items.map(({ key, icon, title, description }) => (
+        <div className="item" key={key}>
+          <div className={`icon ${icon}`} />
+          {title && <h3>{title}</h3>}
+          {description && <p>{description}</p>}
+        </div>
+      ))}
+    </section>
   );
 };
 

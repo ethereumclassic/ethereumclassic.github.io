@@ -5,5 +5,7 @@ intro: |
 
   If you have a project that utilizes the Ethereum Classic network, you can suggest an addition to this section by [creating an issue on github](https://github.com/ethereumclassic/ethereumclassic.github.io).
 content: 
-  type: links
-  itemsRef: globals.section.menu
+  -
+    key: links
+    type: links
+    itemsRef: globals.section.menu
