@@ -8,6 +8,8 @@ import image from '../assets/images/banner.jpg';
 
 import Link from './Link';
 
+import Md from './Markdown';
+
 const HomeBanner = ({ data: i18n }) => {
   return (
     <section className="intro">
@@ -16,13 +18,13 @@ const HomeBanner = ({ data: i18n }) => {
           <img className="logo" src={logo} alt="Ethereum Classic Logo" />
           {i18n.title}
         </h1>
-        <p className="tagline">{i18n.subtitle}</p>
+        <Md>{i18n.subtitle}</Md>
       </header>
       <div className="content">
         <div className="overlay dark">
           <h3>{i18n.bannerTitle}</h3>
-          <p>{i18n.bannerText}</p>
-          <Link className="button" to={i18n.button.to}>
+          <Md>{i18n.bannerText}</Md>
+          <Link button to={i18n.button.to}>
             {i18n.button.text}
           </Link>
         </div>

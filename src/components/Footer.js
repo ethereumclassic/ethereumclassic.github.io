@@ -1,6 +1,9 @@
 import React from 'react';
 import Link from './Link';
 import ButtonsGroup from './ButtonsGroup';
+import Icons from './Icons';
+
+import Md from './Markdown';
 
 const Footer = ({
   i18n: {
@@ -15,14 +18,16 @@ const Footer = ({
         </header>
         <div className="content">
           <h3>{i18n.social.title}</h3>
-          <ButtonsGroup items={i18n.social.items} />
-          <div>
-            <p>{i18n.discordTip}</p>
-            <Link className="button" to={i18n.discord.to}>
+          <Icons items={i18n.social.items} />
+          <div className="spaced">
+            <div className="tip">
+              <Md unwrap>{i18n.discordTip}</Md>
+            </div>
+            <Link button to={i18n.discord.to} className="blue massive" brand="discord">
               {i18n.discord.name}
             </Link>
-            <br />
-            <Link className="button" to="/ecosystem/social-channels">
+            <div className="spaced" />
+            <Link button next to="/ecosystem/social-channels">
               {i18n.moreChannels}
             </Link>
           </div>
@@ -30,6 +35,7 @@ const Footer = ({
         <footer>
           <h3>{i18n.teams.title}</h3>
           <ButtonsGroup items={i18n.teams.items} />
+          <div className="spaced" />
           <h3>{i18n.regions.title}</h3>
           <ButtonsGroup items={i18n.regions.items} />
         </footer>
@@ -37,7 +43,7 @@ const Footer = ({
       <div className="copyright">
         <ButtonsGroup items={i18n.buttons} />
         <div className="sign-off">
-          {i18n.signOff}
+          <Md unwrap>{i18n.signOff}</Md>
           <br />
           <Link to="https://html5up.net/license">{i18n.html5Up}</Link>
         </div>

@@ -1,11 +1,3 @@
-// buttons
-.read-more {
-  white-space: nowrap;
-  i {
-    margin-right: 0;
-  }
-}
-
 .button-link {
   cursor: pointer;
   margin: 0.3rem;
@@ -24,15 +16,6 @@
       background: _palette(t-black-60)
     }
   }
-
-  i.left {
-    margin-left: 0;
-  }
-
-  i.right {
-    margin-right: 0;
-  }
-
   &:hover {
     box-shadow: $tightShadow;
     background: _palette(t-white-50);
@@ -69,62 +52,6 @@
     text-transform: uppercase;
     font-family: '_HeaderFont';
   }
-}
-
-.external-icon {
-  margin-right: 0;
-  margin-left: $microPadding;
-  display: inherit;
-}
-.float-right {
-  float: right;
-}
-.float-left {
-  float: left;
-}
-.clear {
-  clear: both;
-}
-.nudge-up{
-  margin-top: -$smallPadding;
-  margin-bottom: $smallPadding;
-}
-
-.info-buttons-group {
-  background: _palette(bright);
-  border-radius: $roundedTight;
-  border: $solidDarkLine;
-  box-shadow: $softerShadow;
-
-  .item {
-    border-bottom: $solidDarkLine;
-    padding: $smallPadding;
-
-    p {
-      margin: 0;
-    }
-  }
-
-  margin: $largePadding 0;
-
-  .item:last-child {
-    border-bottom: none;
-  }
-
-  .right-buttons {
-    float: right;
-    margin-bottom: $tinyPadding;
-
-    @include breakpoint('<=small') {
-      float: none;
-      text-align: right;
-    }
-
-  }
-}
-
-.button-group {
-  margin: $largePadding 0;
 }
 
 .merged-buttons {

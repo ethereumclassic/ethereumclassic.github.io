@@ -2,6 +2,8 @@ import React from 'react';
 import Link from './Link';
 import NewsItems from './NewsItems';
 
+import Md from './Markdown';
+
 const HomeStayCurrent = ({
   data: i18n,
   news: items,
@@ -12,10 +14,9 @@ const HomeStayCurrent = ({
   return (
     <section>
       <header>
-        {i18n.text}
-        <br />
+        <Md>{i18n.text}</Md>
         {i18n.button && (
-          <Link to={i18n.button.to} className="button">
+          <Link to={i18n.button.to} button>
             {i18n.button.text}
           </Link>
         )}
@@ -23,7 +24,7 @@ const HomeStayCurrent = ({
       <div className="content">
         <h3>{news.latestArticles}</h3>
         <NewsItems items={items.nodes} className="scrolly" />
-        <Link to="/blog" className="button">
+        <Link to="/blog" button>
           {news.allNews}
         </Link>
       </div>

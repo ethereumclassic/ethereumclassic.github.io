@@ -8,7 +8,7 @@ const PageHeader = ({
 }) => {
   return (
     <div className="header">
-      <div className="contained">
+      <header className="contained">
         <h1>
           <Link to="/">{ui.title}</Link>
           {section.title && (
@@ -20,7 +20,7 @@ const PageHeader = ({
             </>
           )}
         </h1>
-      </div>
+      </header>
     </div>
   );
 };

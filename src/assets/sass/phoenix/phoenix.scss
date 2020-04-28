@@ -1,40 +1,4 @@
-body {
-  background: _palette(bright);
-}
 
-.page > .content {
-  background: _palette(bg);
-  padding: $smallPadding 0; 
-}
-
-.header {
-  background: _palette(accent);
-  h1, small {
-    display: inline-block;
-  }
-}
-.contained {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: $maxPageWidth;
-  section {
-    display: block;
-  }
-}
-.content-item {
-  margin-bottom: $largePadding;
-}
-.wide .content .contained {
-  max-width: none;
-  > div {
-    margin-left: auto;
-    margin-right: auto;  
-    max-width: $maxPageWidth;
-    &.wide {
-      max-width: none;
-    }
-  }
-}
 
 .button {
   cursor: pointer;
@@ -73,7 +37,6 @@ body {
 }
 .grid {
   display: grid;
-  grid-auto-columns: 1fr;
   grid-auto-flow: column;
 }
 
@@ -85,6 +48,8 @@ body {
   background: _palette(bright);
   border-radius: $roundedLoose;
   box-shadow: $softShadow;
+  margin-bottom: $smallPadding;
+  border: $solidDarkLine;
   .cell {
     border-bottom: $solidDarkLine;
     padding: $smallPadding $smallPadding;
@@ -96,7 +61,89 @@ body {
 }
 
 .scrolly {
-  max-height: 50vh;
+  max-height: 20rem;
   overflow: hidden;
   overflow-y: scroll;
+}
+
+a.icon {
+  @include vendor('transition', 'background #{_duration(transition)} ease-in-out');
+  border:none;
+  box-shadow: $tightShadow;
+  background: _palette(bg);
+  color: _palette(fg);
+  border-radius: 100%;
+  display: inline-block;
+  text-align: center;
+  font-size: 1.3rem;
+  width: 2.2rem;
+  height: 2.2rem;
+  margin-right: $tinyPadding;
+  &:hover {
+    box-shadow: $softShadow;
+    background: _palette(accent);
+  }
+  i {
+    margin: 0;
+  }
+}
+
+.spaced {
+  margin: $smallPadding 0;
+}
+
+a {
+  i {
+    margin: 0 $microPadding;
+    display: inherit !important;
+  }
+  i.left {
+    margin-left: 0;
+  }
+
+  i.right {
+    margin-right: 0;
+  }
+}
+
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: _palette(fg);
+}
+
+body {
+  ::-webkit-scrollbar-thumb {
+    background: _palette(t-black-30);
+  }
+}
+
+iframe {
+  max-width: 100%;
+}
+
+img {
+  max-width: 100%;
+}
+
+a, .button-link {
+  overflow-wrap: break-word;
+  i {
+    margin: 0 0.7rem;
+  }
+  &.anchor {
+    visibility: hidden;
+  }
+}
+
+#wrapper .copyright {
+  color: inherit;
+  .sign-off {
+    opacity: 0.4;
+    margin-top: $smallPadding;
+  }
 }

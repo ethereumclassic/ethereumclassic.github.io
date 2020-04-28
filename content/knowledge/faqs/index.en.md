@@ -82,7 +82,7 @@ To create a dapp for Ethereum Classic you must program one in a smart contract p
 
 ### How do I purchase ether for an account?
 
-You can purchase ether on several [*exchanges*](https://ethereumclassic.org/exchanges). You can also [*mine*](https://ethereumclassic.org/mining) for ether.
+You can purchase ether on several [exchanges](/ecosystem/exchanges). You can also [mine](/development/mining-resources) for ether.
 
 ### What smart contract programming languages are there?
 

@@ -8,7 +8,7 @@ function renderButton({ button, item }) {
   }
   return (
     <React.Fragment key={button.key}>
-      <Link className="button" to={link}>
+      <Link button to={link}>
         {button.name}
       </Link>
       {'  '}

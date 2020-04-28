@@ -23,7 +23,7 @@ const IndexTemplate = props => {
     pageContext: { i18n }
   } = props;
   return (
-    <LayoutWithMenu {...props}>
+    <LayoutWithMenu {...props} className="landing">
       {i18n.content.map(item => {
         const Component = components[item.type];
         return <Component key={item.key} data={item} i18n={i18n} news={news} />;

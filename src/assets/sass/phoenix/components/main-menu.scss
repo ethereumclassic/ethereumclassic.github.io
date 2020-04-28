@@ -2,8 +2,8 @@
   position: fixed;
   right: 0;
   top: 0;
-  z-index: 1;
-  background: white;
+  z-index: 10;
+  background: _palette(bright);
   user-select: none;
   $hamburgerSize: 2.5rem;
   .overlay {
@@ -20,6 +20,11 @@
     visibility: hidden;
   }
   .hamburger {
+    background: _palette(t-black-20);
+    &.selected {
+      color: _palette(bright);
+      background: _palette(t-black-60);
+    }
     z-index: 2;
     font-size: $hamburgerSize / 3;
     text-align: center;
@@ -30,14 +35,26 @@
     position: absolute;
     top: 0;
     right: 0;
-    background: _palette(t-white-20)
   }
   .menu {
-    top: $hamburgerSize;
+    top: $hamburgerSize + $nanoPadding;
     font-family: '_HeaderFont';
     font-weight: 400;
     text-transform: uppercase;
     position: absolute;
-    right: 0;
+    right: $nanoPadding;
+  }
+  a {
+    display: block;
+    background: _palette(bright);
+    border: none;
+    margin-bottom: $nanoPadding;
+    font-size: 1.2rem;
+    line-height: 1rem;
+    padding: 0.9rem 0.7rem;
+    &:hover{
+      color: _palette(accent);
+      background: _palette(fg)
+    }
   }
 }

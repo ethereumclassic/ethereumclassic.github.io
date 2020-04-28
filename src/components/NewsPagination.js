@@ -16,12 +16,12 @@ const NewsPagination = ({ filterBase: firstPage, numPages, currentPage }) => {
     <div className="grid">
       <div>
         {prevPage && firstPage && (
-          <Link className="button" to={firstPage}>
+          <Link button to={firstPage}>
             First
           </Link>
         )}
         {prevPage && (
-          <Link className="button" to={prevPage}>
+          <Link button to={prevPage}>
             Previous
           </Link>
         )}
@@ -29,12 +29,12 @@ const NewsPagination = ({ filterBase: firstPage, numPages, currentPage }) => {
       <div className="text-center">{`Page ${currentPage} of ${numPages}`}</div>
       <div className="text-right">
         {nextPage && (
-          <Link className="button" to={nextPage}>
+          <Link button to={nextPage}>
             Next
           </Link>
         )}
         {lastPage && (
-          <Link className="button" to={lastPage}>
+          <Link button to={lastPage}>
             Last
           </Link>
         )}

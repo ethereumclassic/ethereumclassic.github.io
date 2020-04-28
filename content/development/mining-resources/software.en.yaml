@@ -24,6 +24,7 @@ columns:
     key: guide
     text: Guide
     linkRef: guide
+    icon: book
 items:
   -
     key: "Antminer E3"

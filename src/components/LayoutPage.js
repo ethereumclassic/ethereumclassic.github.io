@@ -4,6 +4,8 @@ import LayoutWithMenu from './LayoutWithMenu';
 import SectionMenu from './SectionMenu';
 import PageHeader from './PageHeader';
 
+import Md from './Markdown';
+
 const LayoutPage = props => {
   const {
     children,
@@ -14,12 +16,12 @@ const LayoutPage = props => {
   return (
     <LayoutWithMenu {...props} className={`page ${className || ''}`}>
       <PageHeader {...pageContext} />
-      <div className="content">
+      <div className="contents">
         <div className="contained">
           <SectionMenu {...pageContext} slim />
           <div className="intro">
             <h1>{i18n.title}</h1>
-            <p>{i18n.intro}</p>
+            <Md>{i18n.intro}</Md>
           </div>
           {children}
           <SectionMenu {...pageContext} />

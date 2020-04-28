@@ -18,7 +18,7 @@ const MainMenu = ({
       <div className={`overlay ${hidden ? 'hidden' : ''}`} onClick={toggle}>
         <Menu items={mainMenu} onClick={toggle} />
       </div>
-      <div className="hamburger" onClick={toggle}>
+      <div className={`hamburger ${!hidden ? 'selected' : ''}`} onClick={toggle}>
         <i className="fas fa-bars" />
       </div>
     </div>

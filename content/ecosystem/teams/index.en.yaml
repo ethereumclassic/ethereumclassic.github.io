@@ -9,12 +9,13 @@ content:
   type: table
   columns: 
     -
+      key: year
+      name: Year
+    -
       key: name
       linkRef: to
       name: Team Name
-    -
-      key: year
-      name: Year
+
     -
       key: social
       name: Social
@@ -22,9 +23,11 @@ content:
         -
           key: github
           linkRef: github
+          brand: github
         -
           key: twitter
           linkRef: twitter
+          brand: twitter
     - 
       key: active
       name: Active

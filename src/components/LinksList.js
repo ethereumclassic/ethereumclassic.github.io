@@ -1,6 +1,8 @@
 import React from 'react';
 import Link from './Link';
 
+import Md from './Markdown';
+
 const LinksList = ({ data: { items } }) => {
   return (
     <>
@@ -10,7 +12,7 @@ const LinksList = ({ data: { items } }) => {
             <Link to={to}>{name}</Link>
             {tip && <small>{` ${tip}`}</small>}
           </h3>
-          {description && <p>{description}</p>}
+          <Md>{description}</Md>
         </React.Fragment>
       ))}
     </>

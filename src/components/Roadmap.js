@@ -1,6 +1,8 @@
 import React from 'react';
 import ContentItemWrapper from './ContentItemWrapper';
 
+import Md from './Markdown';
+
 const Roadmap = ({ data }) => {
   return (
     <ContentItemWrapper data={data}>
@@ -8,7 +10,7 @@ const Roadmap = ({ data }) => {
         {data.items.map(({ date, key, text }) => (
           <div key={key} className="item">
             <h4>{date}</h4>
-            <p>{text}</p>
+            <Md>{text}</Md>
           </div>
         ))}
       </div>

@@ -32,12 +32,13 @@ const SectionMenu = ({
     }
   });
   return (
-    <div className="section-menu">
+    <div className={`section-menu ${!slim && 'expanded'}`}>
+      {!slim && <hr />}
       {(prev || next) && (
         <div className="fast-nav grid">
           <div>
             {prev && (
-              <Link className="button" to={prev.to}>
+              <Link button back to={prev.to}>
                 {prev.name}
               </Link>
             )}
@@ -45,8 +46,8 @@ const SectionMenu = ({
           <div className="text-right">
             {next && (
               <>
-                {!slim && `${ui.continueReading}: `}
-                <Link className="button" to={next.to}>
+                {!slim && <small>{`${ui.continueReading}: `}</small>}
+                <Link button next to={next.to}>
                   {next.name}
                 </Link>
               </>
@@ -54,8 +55,15 @@ const SectionMenu = ({
           </div>
         </div>
       )}
-      <div className="clear" />
-      {!slim && <Menu items={section.menu} />}
+      {!slim && (
+        <div className="learn-more">
+          <h2>
+            {`${ui.learnMore}: `}
+            <small>{section.title}</small>
+          </h2>
+          <Menu list items={section.menu} />
+        </div>
+      )}
     </div>
   );
 };

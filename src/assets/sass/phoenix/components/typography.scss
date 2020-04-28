@@ -31,13 +31,7 @@ h1,h2,h3,h4,h5 {
   }
 }
 
-.layout-content { 
-  h1, h2 {
-    text-shadow: $headerShadow;
-  }
-}
-
-.layout-content h1, h2, h3, h4 {
+.page .contents h1, h2, h3, h4 {
   font-family: '_HeaderFont';
   text-transform: uppercase;
   small {
@@ -48,18 +42,51 @@ h1,h2,h3,h4,h5 {
     letter-spacing: 0.05rem;
   }
 }
+
 small {
   font-size: 0.9rem;
   opacity: 0.7;
 }
-.layout-content {
+
+// inside normal pages
+.page .contents {
+  p {
+    margin-bottom: $tinyPadding;
+  }
   h1 {
+    margin-top: $smallPadding;
     letter-spacing: 0.1rem;
+  }
+  h2, h3, h4, h5 {
+    margin-top: $largePadding;
+  }
+  h1, h2 {
+    text-shadow: $headerShadow;
   }
   h3, h4 {
     letter-spacing: initial;
     font-weight: bold;
     font-family: inherit;
     text-transform: initial;
+  }
+}
+
+.section-menu {
+  &.expanded {
+    margin-top: $largePadding;
+  }
+  .learn-more {
+    h2 { 
+      font-size: 1.3rem; 
+    }
+    a {
+      font-weight: bold;
+    }
+    ul {
+      font-size: 1.2rem;
+      small {
+        font-size: 1.1rem;
+      }
+    }
   }
 }

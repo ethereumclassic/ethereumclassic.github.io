@@ -41,29 +41,30 @@ social:
   title: Social
   items: 
     -
-      key: Social
+      key: gitHub
+      brand: github
       link: /testing
-      name: Social
+      name: GitHub
     -
-      key: Discord
+      key: discord
+      brand: discord
       link: /testing
       name: Discord
     -
-      key: Telegram
+      key: telegram
+      brand: telegram
       link: /testing
       name: Telegram
     -
-      key: Reddit
+      key: reddit
+      brand: reddit
       link: /testing
       name: Reddit
     -
-      key: Twitter
+      key: twitter
+      brand: twitter
       link: /testing
       name: Twitter
-    -
-      key: GitHub
-      link: /testing
-      name: GitHub
 discordTip: "**ETC participants** are most active on **discord**."
 discord: 
   icon: discord
@@ -75,9 +76,11 @@ buttons:
     key: sitemap
     to: /sitemap
     name: Sitemap
+    icon: sitemap
   -
     key: rss
     to: /blog
     name: RSS Feeds
+    icon: rss
 signOff: Made with `<3` for the original Ethereum vision
 html5Up: Template derived from HTML5UP

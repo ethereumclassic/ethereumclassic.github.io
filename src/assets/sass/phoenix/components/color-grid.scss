@@ -6,61 +6,9 @@ $grid-color-3:_palette(light-red-col);
 $grid-color-4:_palette(light-purple-col);
 $grid-color-5:_palette(orange-col);
 
-.card {
-  padding-bottom: $smallPadding;
-  background: _palette(bg);
-  box-shadow: $softShadow;
-  $radius: $microPadding;
-  border-radius: $roundedTight;
-  
-  h4 {
-    background: _palette(accent);
-    padding: $tinyPadding;
-    border-radius: $radius $radius 0 0;
-    text-align: center;
-  }
-
-  &.orange h4 {
-    background: _palette(orange-col);
-  }
-
-  &.red h4 {
-    background: _palette(red-col);
-  }
-
-  &.grid-color-1 h4 {
-    background: $grid-color-1;
-  }
-
-  &.grid-color-2 h4 {
-    background: $grid-color-2;
-  }
-
-  &.grid-color-3 h4 {
-    background: $grid-color-3;
-  }
-
-  &.grid-color-4 h4 {
-    background: $grid-color-4;
-  }
-
-  &.grid-color-5 h4 {
-    background: $grid-color-5;
-  }
-
-  .content {
-    padding: 0 $smallPadding;
-  }
-
-  h5 {
-    margin-bottom: $microPadding;
-    margin-top: $tinyPadding;
-  }
-}
 
 a.card {
   border-bottom: none;
-
   &:hover {
     background: _palette(accent);
   }
@@ -96,15 +44,18 @@ a.card {
 
 .legend {
   margin-bottom: $smallPadding;
+
   .info {
     font-weight: bold;
     margin-bottom: $tinyPadding;
   }
+
   &.has-selected {
     .key {
       opacity: .4;
     }
   }
+
   .key {
     user-select: none;
     white-space: nowrap;
@@ -165,11 +116,57 @@ a.card {
   display: grid;
   background: _palette(grey-10);
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  padding: $smallPadding;
+  margin-bottom: $largePadding;
   .card {
     margin: $microPadding;
-  }
-  .card .content {
-    max-height: 10rem;
-    overflow-y: auto;
+    background: _palette(bright);
+    box-shadow: $softShadow;
+    $radius: $microPadding;
+    border-radius: $roundedTight;
+    overflow: hidden;
+    .content {
+      line-height: 1.4rem;
+      max-height: 12rem;
+      overflow-y: auto;
+      padding: $tinyPadding $smallPadding;
+      mask-image: linear-gradient(to bottom, black 80%, transparent 100%);    
+    }
+    h4 {
+      background: _palette(accent);
+      padding: $tinyPadding;
+      border-radius: $radius $radius 0 0;
+      margin-top: 0;
+      margin-bottom: 0;
+      text-align: center;
+    }
+
+    &.orange h4 {
+      background: _palette(orange-col);
+    }
+
+    &.red h4 {
+      background: _palette(red-col);
+    }
+
+    &.grid-color-1 h4 {
+      background: $grid-color-1;
+    }
+
+    &.grid-color-2 h4 {
+      background: $grid-color-2;
+    }
+
+    &.grid-color-3 h4 {
+      background: $grid-color-3;
+    }
+
+    &.grid-color-4 h4 {
+      background: $grid-color-4;
+    }
+
+    &.grid-color-5 h4 {
+      background: $grid-color-5;
+    }
   }
 }
