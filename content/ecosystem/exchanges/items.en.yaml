@@ -609,6 +609,11 @@
   link: https://stealthex.io/
   type: instant
 -
+  key: SwapSpace
+  name: SwapSpace
+  link: https://swapspace.co/?from=etc&to=btc&amount=1
+  type: instant
+-
   key: Swapzone
   name: Swapzone
   link: https://swapzone.io/?to=btc&from=etc
