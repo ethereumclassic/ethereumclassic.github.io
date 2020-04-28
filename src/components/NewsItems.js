@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from './Link';
+import DateFormatter from './DateFormatter';
 
 const NewsItems = ({ items, className }) => {
   return (
@@ -7,11 +8,13 @@ const NewsItems = ({ items, className }) => {
       {items.map(({ id, parent, data, relativeDirectory }) => {
         return (
           <div key={id} className="cell news-item">
-            <div>
-              <span className="date">{data.date}</span>
-              <span className="author">
-                {` ${data.author}${data.source ? `, ${data.source}` : ''}`}
+            <div className="meta">
+              <span className="date">
+                <DateFormatter>{data.date}</DateFormatter>
               </span>
+              <small className="author">
+                {` ${data.author}${data.source ? `, ${data.source}` : ''}`}
+              </small>
             </div>
             <h3>
               <Link to={data.link || `/${relativeDirectory}`}>{data.title}</Link>

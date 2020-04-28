@@ -2,7 +2,7 @@ import React from 'react';
 
 import Link from './Link';
 
-const NewsPagination = ({ filterBase: firstPage, numPages, currentPage }) => {
+const NewsPagination = ({ filterBase: firstPage, numPages, currentPage, noScroll }) => {
   if (numPages === 1) {
     return null;
   }
@@ -13,31 +13,25 @@ const NewsPagination = ({ filterBase: firstPage, numPages, currentPage }) => {
   const nextPage = currentPage !== numPages && `${firstPage}/page/${currentPage + 1}/`;
   const lastPage = numPages !== 1 && numPages !== currentPage && `${firstPage}/page/${numPages}/`;
   return (
-    <div className="grid">
-      <div>
+    <div className="news-pagination">
+      <div className="merged">
         {prevPage && firstPage && (
-          <Link button to={firstPage}>
-            First
-          </Link>
+          <Link button to={firstPage} noScroll={noScroll} icon="angle-double-left" />
         )}
         {prevPage && (
-          <Link button to={prevPage}>
+          <Link button back to={prevPage} noScroll={noScroll}>
             Previous
           </Link>
         )}
       </div>
-      <div className="text-center">{`Page ${currentPage} of ${numPages}`}</div>
-      <div className="text-right">
+      <small className="text-center">{`Page ${currentPage} of ${numPages}`}</small>
+      <div className="text-right merged">
         {nextPage && (
-          <Link button to={nextPage}>
+          <Link button next to={nextPage} noScroll={noScroll}>
             Next
           </Link>
         )}
-        {lastPage && (
-          <Link button to={lastPage}>
-            Last
-          </Link>
-        )}
+        {lastPage && <Link button to={lastPage} noScroll={noScroll} icon="angle-double-right" />}
       </div>
     </div>
   );

@@ -11,7 +11,8 @@ const LayoutPage = props => {
     children,
     pageContext,
     pageContext: { i18n },
-    className
+    className,
+    noIntro
   } = props;
   return (
     <LayoutWithMenu {...props} className={`page ${className || ''}`}>
@@ -19,10 +20,12 @@ const LayoutPage = props => {
       <div className="contents">
         <div className="contained">
           <SectionMenu {...pageContext} slim />
-          <div className="intro">
-            <h1>{i18n.title}</h1>
-            <Md>{i18n.intro}</Md>
-          </div>
+          {!noIntro && (i18n.title || i18n.intro) && (
+            <div className="intro">
+              <h1>{i18n.title}</h1>
+              <Md>{i18n.intro}</Md>
+            </div>
+          )}
           {children}
           <SectionMenu {...pageContext} />
         </div>

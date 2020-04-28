@@ -6,6 +6,7 @@ const NewsFilters = ({
   allTags,
   allYears,
   relativePath,
+  filter,
   i18n: {
     globals: { news }
   }
@@ -13,9 +14,20 @@ const NewsFilters = ({
   return (
     <>
       <ButtonsGroup
-        items={allTags.map(t => ({ to: `/${relativePath}/tag/${t}`, name: news.tags[t] }))}
+        items={allTags.map(t => ({
+          to: `/${relativePath}/tag/${t}`,
+          name: news.tags[t],
+          className: t === filter && 'selected'
+        }))}
       />
-      <ButtonsGroup items={allYears.map(y => ({ to: `/${relativePath}/year/${y}`, name: y }))} />
+      <ButtonsGroup
+        items={allYears.map(y => ({
+          to: `/${relativePath}/year/${y}`,
+          name: y,
+          className: y === filter && 'selected'
+        }))}
+        className="merged"
+      />
     </>
   );
 };

@@ -34,17 +34,17 @@ content:
     items: 
       -
         key: decentralized
-        icon: users
+        icon: fas fa-users
         title: Decentralized
         description: Active ecosystem of participants in a global, permissionless network
       -
         key: immutable
-        icon: users
+        icon: fas fa-link
         title: Immutable
         description: Untampered ledger since the 2015 Ethereum Classic genesis block
       -
         key: unstoppable
-        icon: users
+        icon: far fa-hourglass
         title: Unstoppable
         description: Censorship resistant network executing contracts exactly as programmed
   -

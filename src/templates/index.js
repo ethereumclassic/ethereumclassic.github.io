@@ -59,7 +59,7 @@ export const query = graphql`
         }
         parent {
           ... on Mdx {
-            excerpt
+            excerpt(pruneLength: 100)
           }
         }
       }

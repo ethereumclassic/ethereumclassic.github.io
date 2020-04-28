@@ -1,0 +1,153 @@
+#wrapper.landing {
+
+  // paradigm-shift landing page widths override
+  >section {
+    $width: 40rem;
+    >.content {
+      max-width: $width;
+    }
+
+    >header {
+      p,
+      h2 {
+        max-width: $width;
+      }
+    }
+
+    >header,
+    >.content {
+      padding-bottom: $largePadding;
+      >* {
+        max-width: none;
+      }
+
+      @include breakpoint('<=medium') {
+        max-width: none;
+
+        p,
+        h2 {
+          max-width: none;
+        }
+      }
+    }
+  }
+  // END width overrides
+
+  section.full {
+    display: block;
+    margin: 0;
+    padding: $largePadding $largePadding;
+    @include breakpoint('<=small') {
+      padding: $largePadding $smallPadding;
+    }
+    .container {
+      max-width: $maxPageWidth;
+      margin: auto;
+    }
+  }
+
+  // START INTRO
+  .intro {
+    position: relative;
+    $logoSize: 70px;
+    $logoSizeSmall: 40px;
+    $headerMargin: $logoSize + 30px;
+    margin-top: 0;
+
+    .content {
+      max-width: none;
+    }
+
+    header {
+      img.logo {
+        float: right;
+        max-width: $logoSize;
+        margin-right: -$logoSize;
+        margin-top: -$headerMargin;
+      }
+
+      p.tagline {
+        font-size: 1rem !important;
+        font-weight: 200;
+      }
+
+      h1 {
+        font-size: 3.2rem;
+      }
+
+      @include breakpoint('<=medium') {
+        h1 {
+          margin-bottom: 0;
+        }
+
+        h1,
+        p {
+          padding-left: $headerMargin;
+        }
+
+        img.logo {
+          float: left;
+          margin-left: -$headerMargin;
+          margin-top: 0;
+        }
+      }
+
+      @include breakpoint('<=small') {
+        h1 {
+          font-size: 3.5rem;
+          padding-top: $smallPadding;
+        }
+
+        h1,
+        p {
+          padding-left: $logoSize;
+        }
+
+        img.logo {
+          max-width: $logoSizeSmall;
+          margin-left: -$logoSize;
+        }
+
+        b {
+          display: block;
+        }
+      }
+    }
+
+    .overlay {
+      position: absolute;
+      z-index: 1;
+      left: 0;
+      right: 0;
+      margin-top: $largePadding;
+      padding: $smallPadding $largePadding;
+      text-shadow: 0 1px 2px _palette(t-black-40);
+      background: linear-gradient(45deg, _palette(t-black-60), transparent);
+
+      @include breakpoint('<=medium') {
+        margin-top: -$smallPadding;
+        padding: $tinyPadding $hugePadding;
+      }
+
+      @include breakpoint('<=small') {
+        margin-top: 0;
+        padding: $smallPadding;
+      }
+
+      h3 {
+        font-size: 1.5rem;
+        margin: 0;
+      }
+
+      p {
+        margin: $tinyPadding 0;
+      }
+    }
+
+    .gatsby-image-wrapper {
+      background: _palette(accent-border);
+    }
+  }
+  // END INTRO
+  
+}

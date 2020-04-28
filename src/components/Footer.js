@@ -20,7 +20,7 @@ const Footer = ({
           <h3>{i18n.social.title}</h3>
           <Icons items={i18n.social.items} />
           <div className="spaced">
-            <div className="tip">
+            <div>
               <Md unwrap>{i18n.discordTip}</Md>
             </div>
             <Link button to={i18n.discord.to} className="blue massive" brand="discord">

@@ -22,9 +22,9 @@ const HomeStayCurrent = ({
         )}
       </header>
       <div className="content">
-        <h3>{news.latestArticles}</h3>
-        <NewsItems items={items.nodes} className="scrolly" />
-        <Link to="/blog" button>
+        <h3>{news.latestNews}</h3>
+        <NewsItems items={items.nodes} className="widen scrolly" />
+        <Link to="/news" next button>
           {news.allNews}
         </Link>
       </div>

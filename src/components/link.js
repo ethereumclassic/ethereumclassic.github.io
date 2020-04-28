@@ -54,14 +54,15 @@ const Link = ({
   ...props
 }) => {
   const iconText = getIconText({ brand, back, next, icon });
-  const className = `${button ? 'button-link ' : ''}${!children ? 'icon' : ''}${_c || ''}`;
+  const className = `${button ? 'button-link ' : ''}${!button && !children ? 'icon' : ''}${_c ||
+    ''}`;
   const to = _to || link;
   const passedProps = { title, className, style };
   const content = (
     <>
       {back && iconText && <i className={`${iconText} left`} />}
       {children || (iconText && name && <span className="label">{name}</span>)}
-      {!back && iconText && <i className={`${iconText} right`} />}
+      {!back && iconText && <i className={`${iconText} right ${!children && 'left'}`} />}
     </>
   );
   if (isHash(to)) {

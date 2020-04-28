@@ -46,7 +46,7 @@
       background: transparentize($discord, 0.60);
     }
   }
-  &.header {
+  &.header-button {
     font-weight: 400;
     font-size: 1.2em;
     text-transform: uppercase;
@@ -54,7 +54,7 @@
   }
 }
 
-.merged-buttons {
+.merged {
   white-space: nowrap;
   .button-link {
     border-radius: 0;

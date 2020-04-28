@@ -66,7 +66,7 @@ exports.onCreatePage = async ({ page, actions: { createPage, deletePage } }) => 
     'news/media': ['news']
   }[relativePath].forEach(p => {
     const match = (filters[locale] || {})[p] || {};
-    total += match.total;
+    total += match.total || 0;
     Object.keys(match.years || {}).forEach(k => {
       years[k] = years[k] ? years[k] + match.years[k] : match.years[k];
     });
@@ -96,7 +96,7 @@ exports.onCreatePage = async ({ page, actions: { createPage, deletePage } }) => 
     });
   });
   pageGroups.forEach(({ path, items, type: filterType, filter, tagFilter }) => {
-    const numPages = Math.ceil(items / itemsPerPage);
+    const numPages = Math.floor(items / itemsPerPage) + 1;
     Array.from({ length: numPages }).forEach((_, i) => {
       const currentPage = i + 1;
       const isFirst = currentPage === 1;

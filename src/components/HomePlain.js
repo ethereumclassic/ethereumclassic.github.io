@@ -4,11 +4,11 @@ import Md from './Markdown';
 
 const HomePlain = ({ data: i18n }) => {
   return (
-    <section key={i18n.key} className="wide dark">
-      <div>
+    <section key={i18n.key} className="dark full">
+      <div className="container">
         <Md>{i18n.text}</Md>
         {i18n.button && (
-          <Link button to={i18n.button.to}>
+          <Link button next to={i18n.button.to}>
             {i18n.button.text}
           </Link>
         )}
