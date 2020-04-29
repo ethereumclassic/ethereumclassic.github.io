@@ -3,14 +3,13 @@
   box-shadow: $softShadow;
   padding: $smallPadding $microPadding;
   border-radius: $roundedTight;
-  margin: $largePadding 0;
+  margin: $smallPadding 0;
   overflow-x: scroll;
   margin-bottom: $smallPadding;
   table {
     margin: 0;
   }
 }
-
 
 table tr.faded {
   opacity: 0.5;

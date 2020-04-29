@@ -2,36 +2,14 @@ body {
   background: _palette(bright);
 }
 
-a.icon {
-  @include vendor('transition', 'background #{_duration(transition)} ease-in-out');
-  border:none;
-  box-shadow: $tightShadow;
-  background: _palette(bg);
-  color: _palette(fg);
-  border-radius: 100%;
-  display: inline-block;
-  text-align: center;
-  font-size: 1.3rem;
-  width: 2.2rem;
-  height: 2.2rem;
-  margin-right: $tinyPadding;
-  &:hover {
-    box-shadow: $softShadow;
-    background: _palette(accent);
-  }
-  i {
-    margin: 0;
-  }
+#wrapper a i {
+  display: inline;
 }
 
 a, .button-link {
   overflow-wrap: break-word;
-  &.anchor {
-    visibility: hidden;
-  }
   i {
-    margin: 0 0.7rem;
-    display: inherit !important;
+    margin: 0 0.5rem;
   }
   i.left {
     margin-left: 0;
@@ -40,8 +18,31 @@ a, .button-link {
   i.right {
     margin-right: 0;
   }
+  &.anchor {
+    visibility: hidden;
+  }
+  &.icon {
+    @include vendor('transition', 'background #{_duration(transition)} ease-in-out');
+    border:none;
+    box-shadow: $tightShadow;
+    background: _palette(bg);
+    color: _palette(fg);
+    border-radius: 100%;
+    display: inline-block;
+    text-align: center;
+    font-size: 1.3rem;
+    width: 2.2rem;
+    height: 2.2rem;
+    margin-right: $tinyPadding;
+    &:hover {
+      box-shadow: $softShadow;
+      background: _palette(accent);
+    }
+    i {
+      margin: 0;
+    }
+  }
 }
-
 
 ::-webkit-scrollbar {
   width: 6px;

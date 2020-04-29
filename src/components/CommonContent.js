@@ -3,6 +3,7 @@ import React from 'react';
 import LinksList from './LinksList';
 import ButtonsGroup from './ButtonsGroup';
 import DynamicTable from './DynamicTable';
+import VideoGroup from './VideoGroup';
 import InfoGroup from './InfoGroup';
 import Json from './Json';
 import ContentItemWrapper from './ContentItemWrapper';
@@ -11,6 +12,7 @@ const components = {
   buttons: ButtonsGroup,
   links: LinksList,
   table: DynamicTable,
+  videos: VideoGroup,
   info: InfoGroup,
   json: Json
 };

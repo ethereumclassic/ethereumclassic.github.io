@@ -29,7 +29,7 @@ class ColorGrid extends React.Component {
     return (
       <>
         <ContentItemWrapper data={i18n}>
-          <div className={`legend ${selected != null ? 'has-selected' : ''}`}>
+          <div className={`color-grid-legend ${selected != null ? 'has-selected' : ''}`}>
             <div className="info">{i18n.legend}</div>
             {Object.values(types).map(({ type, text, i }) => (
               <span

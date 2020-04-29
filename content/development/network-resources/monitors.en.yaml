@@ -1,9 +1,7 @@
 configRef: networkTableConfig
 key: monitors
-intro: |
-  ## Network Monitors
-
-  Network monitors provide insights into the network's health like providing analysis on miners, nodes, network performance, user activity. Additionally, these tools alert to network attacks like a 51% attack.
+title: Network Monitors
+description: Network monitors provide insights into the network's health like providing analysis on miners, nodes, network performance, user activity. Additionally, these tools alert to network attacks like a 51% attack.
 items:
   -
     key: PhoenixUpgrade

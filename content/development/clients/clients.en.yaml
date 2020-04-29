@@ -3,12 +3,15 @@ buttons:
   -
     key: guide
     name: Guide
+    icon: book
   -
     key: release
     name: Releases
+    icon: code
   -
     key: support
     name: Support
+    iconRef: supportIcon
 items:
   -
     key: Core-Geth

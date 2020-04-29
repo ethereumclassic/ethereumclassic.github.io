@@ -54,6 +54,7 @@ const Link = ({
   ...props
 }) => {
   const iconText = getIconText({ brand, back, next, icon });
+  console.log(icon, iconText);
   const className = `${button ? 'button-link ' : ''}${!button && !children ? 'icon' : ''}${_c ||
     ''}`;
   const to = _to || link;

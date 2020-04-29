@@ -1,3 +1,5 @@
+import slugify from 'slugify';
+
 export function groupItems(items) {
   return items.reduce((o, i) => ({ ...o, [i.type]: (o[i.type] || []).concat([i]) }), {});
 }
@@ -15,6 +17,13 @@ export function groupTypes(items, iterator) {
     }),
     {}
   );
+}
+
+export function textToKey(str) {
+  if (!str) {
+    return null;
+  }
+  return slugify(str, { lower: true, strict: true });
 }
 
 export function sortBy(key, items) {

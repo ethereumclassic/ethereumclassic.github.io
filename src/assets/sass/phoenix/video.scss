@@ -57,17 +57,14 @@ iframe.video {
 .video-container {
   box-shadow: $softShadow;
 }
-.video-link {
+a.video-link {
   background: _palette(grey-20);
   margin:0;
-  display:block;
+  display: block;
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
   padding: 0 $tinyPadding;
-  i {
-    display: inline;
-  }
   font-size: 0.8rem;
   color: _palette(t-black-50);
   text-align: center;
