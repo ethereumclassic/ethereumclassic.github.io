@@ -1,4 +1,11 @@
 -
+  date: 2020-04-28
+  link: https://medium.com/etc-core/creating-your-own-smart-contract-languages-using-llvm-a83a9aa1e0c1
+  author: Alan Li
+  source: ETC Core
+  title: "Creating Your Own Smart Contract Languages Using LLVM"
+  tags: ["education", "development", "application", "teams"]
+-
   date: 2020-04-27
   link: https://thecurrencyanalytics.com/13913/ethereum-classic-etc-know-about-uncle-blocks-rates-rewards-and-discounts/
   author: Maheen Hernandez
