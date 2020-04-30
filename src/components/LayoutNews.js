@@ -6,41 +6,41 @@ import NewsYears from './NewsYears';
 import ButtonsGroup from './ButtonsGroup';
 import NewsItems from './NewsItems';
 import NewsPagination from './NewsPagination';
+import Link from './Link';
 
-const menu = [
-  { key: 'news', to: '/news' },
-  { key: 'blog', to: '/blog' },
-  { key: 'media', to: '/news/media' }
-];
-
-function getKey(relativePath) {
-  return relativePath.split('/').pop();
-}
-const LayoutMarkdown = props => {
+const LayoutNews = props => {
   const {
     data,
-    pageContext: _pc,
+    pageContext,
     pageContext: {
       relativePath,
-      i18n: _i18n,
+      i18n,
       i18n: {
         globals: { news }
       }
     }
   } = props;
-  const key = getKey(relativePath);
-  const i18n = { ..._i18n, ...news[key] };
-  const pageContext = { ..._pc, i18n };
+  const key = relativePath.split('/').pop();
   return (
-    <LayoutPage {...props} pageContext={pageContext} noIntro>
+    <LayoutPage {...props} noIntro>
+      <Link button className="float-right" to="/rss.xml" icon="rss">
+        {news.rssFeed}
+      </Link>
       <ButtonsGroup
         className="merged"
-        items={menu.map(i => ({
+        items={news.menu.map(i => ({
           ...i,
-          name: news[i.key].button,
           className: i.key === key && 'selected'
         }))}
       />
+      <Link
+        button
+        next
+        className="float-right"
+        to="https://github.com/ethereumclassic/ethereumclassic.github.io"
+      >
+        {i18n.submit}
+      </Link>
       <h1>{i18n.title}</h1>
       <p>{i18n.description}</p>
       <div className="news-filters">
@@ -56,4 +56,4 @@ const LayoutMarkdown = props => {
   );
 };
 
-export default LayoutMarkdown;
+export default LayoutNews;

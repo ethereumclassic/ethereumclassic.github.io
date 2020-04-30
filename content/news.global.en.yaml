@@ -1,15 +1,16 @@
-news: 
-  button: All News
-  title: News
-  description: Ethereum Classic Blog and Links from all over the internet
-blog: 
-  button: Blog Articles
-  title: Blog
-  description: Articles on a range of topics contributed by various ETC participants
-media: 
-  button: Media Links
-  title: Media
-  description: Technical Ethereum Classic news and media from all over the internet.
+menu:
+  -
+    key: news
+    name: All News
+    to: /news
+  - 
+    key: blog
+    name: Blog Articles
+    to: /blog
+  -
+    key: media
+    name: Media Links
+    to: /news/media
 submitArticle: Submit Content
 noPosts: No posts in your selected language 😢
 englishPosts: English Posts
