@@ -1,6 +1,7 @@
 @font-face {
   font-family: '_HeaderFont';
   src: url("../webfonts/Oswald-VariableFont_wght.ttf");
+  font-display: swap;
   font-weight: 1 999;
 }
 
@@ -8,19 +9,21 @@
   // weight < 500 
   font-family: '_BodyFont';
   src: url("../webfonts/Yantramanav-Light.ttf");
+  font-display: swap;
 }
 
 @font-face {
   // weight > 500
   font-family: '_BodyFont';
   src: url("../webfonts/Yantramanav-Bold.ttf");
+  font-display: swap;
   font-weight: bold; 
 }
 
 h1 {
-  font-family: '_BodyFont';
+  font-family: _font('family');
   small {
-    font-family: '_HeaderFont';
+    font-family: _font('family-heading');
     font-weight: normal;
   }
 }
@@ -32,10 +35,10 @@ h1,h2,h3,h4,h5 {
 }
 
 .page .contents h1, h2, h3, h4 {
-  font-family: '_HeaderFont';
+  font-family: _font('family-heading');
   text-transform: uppercase;
   small {
-    font-family: '_BodyFont';
+    font-family: _font('family');
     text-transform: initial;
     font-weight: normal;
     font-size: inherit;

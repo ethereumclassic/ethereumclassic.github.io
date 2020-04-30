@@ -22,13 +22,6 @@
     border-bottom: 2px solid _palette(t-black-10);
   }
 
-  &.big {
-    padding: 0.2em 1rem;
-    font-size: 1.2rem;
-    font-family: '_HeaderFont';
-    text-transform: uppercase;
-  }
-
   &.massive {
     font-size: 1.5rem;
     font-weight: bold;
@@ -45,12 +38,6 @@
       box-shadow: $tightShadow;
       background: transparentize($discord, 0.60);
     }
-  }
-  &.header-button {
-    font-weight: 400;
-    font-size: 1.2em;
-    text-transform: uppercase;
-    font-family: '_HeaderFont';
   }
 }
 

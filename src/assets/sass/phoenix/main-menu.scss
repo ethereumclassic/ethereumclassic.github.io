@@ -38,7 +38,7 @@
   }
   .menu {
     top: $hamburgerSize + $nanoPadding;
-    font-family: '_HeaderFont';
+    font-family: _font('family-heading');
     font-weight: 400;
     text-transform: uppercase;
     position: absolute;
