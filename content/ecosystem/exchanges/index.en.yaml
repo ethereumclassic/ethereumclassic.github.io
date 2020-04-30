@@ -13,7 +13,7 @@ intro: |
 content: 
   -
     type: buttons
-    title: "Centralized Exchanges"
+    title: Centralized Exchanges
     items: 
     -
       key: ABCC
@@ -531,7 +531,7 @@ content:
       name: XChange
   -
     type: buttons
-    intro: "### ETC Price Sources"
+    title: ETC Price Sources
     items: 
     -
       key: BeInCrypto
