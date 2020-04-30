@@ -39,7 +39,7 @@
   border: $solidDarkLine;
   .cell {
     border-bottom: $solidDarkLine;
-    padding: $smallPadding $smallPadding;
+    padding: $smallPadding;
     > * { margin: 0; }
   }
   .cell:last-child {
@@ -47,6 +47,9 @@
   }
   .buttons {
     margin-bottom: $tinyPadding;
+  }
+  &.slim .cell {
+    padding: $tinyPadding;
   }
 }
 
