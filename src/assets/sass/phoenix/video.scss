@@ -7,6 +7,7 @@
   text-align: center;
   display: flex;
   align-items: center;
+
   i {
     font-size: 2em;
     margin: auto;
@@ -15,33 +16,39 @@
 
   &.not-playing {
     cursor: pointer;
+
     &:hover {
       color: _palette(bg);
+
       .preview {
         opacity: 0.9;
       }
     }
   }
+
   position: relative;
-  .play { 
+
+  .play {
     width: 100%;
     z-index: 1;
   }
+
   .preview {
     position: absolute;
     opacity: 0.7;
     top: 0;
-    left:0;
-    bottom:0;
-    right:0;
+    left: 0;
+    bottom: 0;
+    right: 0;
     justify-content: center;
     background-size: cover;
-    background-position: center;  
+    background-position: center;
   }
 }
 
 .video-item {
   margin-bottom: $hugePadding;
+
   &:last-of-type {
     margin-bottom: 0;
   }
@@ -54,12 +61,14 @@ iframe.video {
 .video-group {
   margin: $largePadding 0;
 }
+
 .video-container {
   box-shadow: $softShadow;
 }
+
 a.video-link {
   background: _palette(grey-20);
-  margin:0;
+  margin: 0;
   display: block;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -68,9 +77,12 @@ a.video-link {
   font-size: 0.8rem;
   color: _palette(t-black-50);
   text-align: center;
-  &, &:hover {
-    border:0;
+
+  &,
+  &:hover {
+    border: 0;
   }
+
   &:hover {
     background: _palette(dark-grey-30);
     color: _palette(bg);

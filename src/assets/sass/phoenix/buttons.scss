@@ -12,10 +12,12 @@
   &.selected {
     background: _palette(t-black-80);
     color: _palette(bg);
+
     &:hover {
       background: _palette(t-black-60)
     }
   }
+
   &:hover {
     box-shadow: $tightShadow;
     background: _palette(t-white-50);
@@ -34,6 +36,7 @@
     text-shadow: $textShadow;
     box-shadow: $softShadow;
     color: _palette(bg);
+
     &:hover {
       box-shadow: $tightShadow;
       background: transparentize($discord, 0.60);
@@ -43,16 +46,19 @@
 
 .merged {
   white-space: nowrap;
+
   .button-link {
     border-radius: 0;
     margin-left: 0;
     margin-right: 0;
     border-right: 1px solid _palette(t-black-10);
   }
+
   .button-link:first-child {
     border-top-left-radius: $roundedTight;
     border-bottom-left-radius: $roundedTight;
   }
+
   .button-link:last-child {
     border-right: 0;
     border-top-right-radius: $roundedTight;

@@ -1,34 +1,50 @@
 .float-right {
   float: right;
 }
+
 .float-left {
   float: left;
 }
+
 .clear {
   clear: both;
 }
+
 .text-center {
   text-align: center;
 }
+
 .text-right {
   text-align: right;
 }
+
 .text-left {
   text-align: left;
 }
-.nudge-up{
+
+.nudge-up {
   margin-top: -$smallPadding;
   margin-bottom: $smallPadding;
 }
+
+.flex {
+  display: flex;
+  flex-flow: wrap;
+  gap: $tinyPadding;
+
+  >* {
+    flex: 1;
+  }
+}
+
 .grid {
   display: grid;
   grid-auto-flow: column;
+  gap: $tinyPadding;
+
   @include breakpoint('<=small') {
-    grid-template-columns: 1fr;
+    grid-auto-flow: none;
   }
-}
-.showcase.grid {
-  column-gap: $tinyPadding;
 }
 
 #wrapper .cells {
@@ -37,20 +53,33 @@
   box-shadow: $softShadow;
   margin: $smallPadding 0;
   border: $solidDarkLine;
+
   .cell {
     border-bottom: $solidDarkLine;
     padding: $smallPadding;
-    > * { margin: 0; }
+
+    >* {
+      margin: 0;
+    }
   }
+
   .cell:last-child {
     border-bottom: none;
   }
+
   .buttons {
     margin-bottom: $tinyPadding;
   }
+
   &.slim .cell {
     padding: $tinyPadding;
   }
+
+  &.widen {
+    margin-left: -$smallPadding;
+    margin-right: -$smallPadding;
+  }
+
 }
 
 .scrolly {
@@ -65,12 +94,15 @@
 
 .dark {
   background: _palette(accent-dark);
-  * { 
-    color:_palette(bg); 
+
+  * {
+    color: _palette(bg);
   }
+
   .button-link {
     background: _palette(t-white-20);
     box-shadow: $softShadow;
+
     &:hover {
       background: _palette(t-white-10);
     }
@@ -85,6 +117,7 @@
   line-height: 1.5rem;
   margin: $microPadding 0;
   color: _palette(accent-dark);
+
   i.info {
     color: _palette(accent-border);
     margin-right: $microPadding;
@@ -95,10 +128,12 @@
   $baseCol: _palette(grey-10);
   background: linear-gradient(180deg, $baseCol, darken($baseCol, 15%));
   text-shadow: 0px 1px 1px _palette(t-white-80);
+
   >.container {
     z-index: 1;
     position: relative;
   }
+
   &::before {
     z-index: 0;
     content: '';
@@ -106,26 +141,23 @@
     display: block;
     top: 0;
     right: 0;
-    bottom:0;
+    bottom: 0;
     left: 0;
     background-image: url('../images/fractal.svg');
     background-repeat: no-repeat;
     opacity: 0.03;
     background-size: auto 200%;
     background-position: 70% 20%;
-    @include breakpoint('<=medium'){ 
+
+    @include breakpoint('<=medium') {
       background-size: 70% auto;
       background-position: 90% 20%;
     }
-    @include breakpoint('<=small'){ 
+
+    @include breakpoint('<=small') {
       background-size: auto 200%;
     }
   }
-}
-
-.widen {
-  margin-left: -$smallPadding;
-  margin-right: -$smallPadding;
 }
 
 .showcase {

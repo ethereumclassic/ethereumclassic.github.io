@@ -13,6 +13,7 @@
       display: inline-block;
       vertical-align: middle;
       margin: 0;
+
       img {
         height: 2.5rem;
         margin-right: 0.8rem;
@@ -21,6 +22,7 @@
 
       @include breakpoint('<=small') {
         font-size: 2rem;
+
         img {
           height: 2rem;
         }
@@ -28,6 +30,7 @@
 
       @include breakpoint('<=xsmall') {
         font-size: 1.5rem;
+
         img {
           height: 1.5rem;
         }
@@ -43,6 +46,7 @@
 
       a {
         border-bottom: none;
+
         &:hover {
           color: _palette(bg);
         }
@@ -51,7 +55,7 @@
 
   }
 
-  > .contents {
+  >.contents {
     background: _palette(bg);
     padding: $smallPadding 0;
     padding-bottom: $largePadding;

@@ -3,11 +3,13 @@
   // paradigm-shift landing page widths override
   >section {
     $width: 40rem;
+
     >.content {
       max-width: $width;
     }
 
     >header {
+
       p,
       h2 {
         max-width: $width;
@@ -17,6 +19,7 @@
     >header,
     >.content {
       padding-bottom: $largePadding;
+
       >* {
         max-width: none;
       }
@@ -31,15 +34,18 @@
       }
     }
   }
+
   // END width overrides
 
   section.full {
     display: block;
     margin: 0;
     padding: $largePadding $largePadding;
+
     @include breakpoint('<=small') {
       padding: $largePadding $smallPadding;
     }
+
     .container {
       max-width: $maxPageWidth;
       margin: auto;
@@ -66,8 +72,9 @@
         margin-top: -$headerMargin;
       }
 
-      p.tagline {
-        font-size: 1rem !important;
+      p {
+        font-size: 1.05rem;
+        line-height: 1.5rem;
         font-weight: 200;
       }
 
@@ -148,6 +155,7 @@
       background: _palette(accent-border);
     }
   }
+
   // END INTRO
-  
+
 }

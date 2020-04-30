@@ -23,24 +23,20 @@ const LayoutNews = props => {
   const key = relativePath.split('/').pop();
   return (
     <LayoutPage {...props} noIntro>
-      <Link button className="float-right" to={i18n.rss.to} icon="rss">
-        {i18n.rss.text}
-      </Link>
-      <ButtonsGroup
-        className="merged"
-        items={news.menu.map(i => ({
-          ...i,
-          className: i.key === key && 'selected'
-        }))}
-      />
-      <Link
-        button
-        next
-        className="float-right"
-        to="https://github.com/ethereumclassic/ethereumclassic.github.io"
-      >
-        {i18n.submit}
-      </Link>
+      <div className="flex">
+        <ButtonsGroup
+          className="merged"
+          items={news.menu.map(i => ({
+            ...i,
+            className: i.key === key && 'selected'
+          }))}
+        />
+        <div className="text-right">
+          <Link button to={i18n.rss.to} icon="rss">
+            {i18n.rss.text}
+          </Link>
+        </div>
+      </div>
       <h1>{i18n.title}</h1>
       <p>{i18n.description}</p>
       <div className="news-filters">

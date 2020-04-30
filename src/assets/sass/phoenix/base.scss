@@ -6,11 +6,14 @@ body {
   display: inline;
 }
 
-a, .button-link {
+a,
+.button-link {
   overflow-wrap: break-word;
+
   i {
     margin: 0 0.5rem;
   }
+
   i.left {
     margin-left: 0;
   }
@@ -18,12 +21,14 @@ a, .button-link {
   i.right {
     margin-right: 0;
   }
+
   &.anchor {
     visibility: hidden;
   }
+
   &.icon {
     @include vendor('transition', 'background #{_duration(transition)} ease-in-out');
-    border:none;
+    border: none;
     box-shadow: $tightShadow;
     background: _palette(bg);
     color: _palette(fg);
@@ -34,10 +39,12 @@ a, .button-link {
     width: 2.2rem;
     height: 2.2rem;
     margin-right: $tinyPadding;
+
     &:hover {
       box-shadow: $softShadow;
       background: _palette(accent);
     }
+
     i {
       margin: 0;
     }
@@ -69,6 +76,7 @@ img {
 
 #wrapper .copyright {
   color: inherit;
+
   .sign-off {
     opacity: 0.4;
     margin-top: $smallPadding;

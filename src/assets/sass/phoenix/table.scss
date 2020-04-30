@@ -6,6 +6,7 @@
   margin: $smallPadding 0;
   overflow-x: scroll;
   margin-bottom: $smallPadding;
+
   table {
     margin: 0;
   }
@@ -17,14 +18,18 @@ table tr.faded {
 
 table i.check {
   color: _palette(t-black-20);
+
   &.success {
     color: _palette(dark-green-col);
   }
+
   &::-webkit-scrollbar-thumb {
     border-radius: 8px;
-    border: 2px solid white; /* should match background, can't be transparent */
+    border: 2px solid white;
+    /* should match background, can't be transparent */
     background-color: rgba(0, 0, 0, .5);
   }
+
   &::-webkit-scrollbar {
     -webkit-appearance: show;
   }

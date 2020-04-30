@@ -35,7 +35,7 @@ const SectionMenu = ({
     <div className={`section-menu ${!slim && 'expanded'}`}>
       {!slim && <hr />}
       {(prev || next) && (
-        <div className="fast-nav grid">
+        <div className="fast-nav flex">
           <div>
             {prev && (
               <Link button back to={prev.to}>

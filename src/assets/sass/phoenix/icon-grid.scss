@@ -1,14 +1,17 @@
 .icon-grid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  @include breakpoint('<=small'){
+
+  @include breakpoint('<=small') {
     grid-template-columns: 1fr;
   }
+
   column-gap: $smallPadding;
   text-align: center;
   margin: $smallPadding;
   $bgSize: 8rem;
   $iconSize: 4rem;
+
   .item-icon {
     background: _palette(accent);
     color: _palette(fg);
@@ -19,6 +22,7 @@
     width: $bgSize;
     line-height: $bgSize;
     margin-bottom: $tinyPadding;
+
     p {
       margin-bottom: 0;
     }

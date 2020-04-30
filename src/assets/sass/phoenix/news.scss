@@ -4,13 +4,16 @@
   margin: $tinyPadding 0;
   align-items: center;
 }
-.news-filters{
+
+.news-filters {
   margin: $tinyPadding 0;
 }
+
 .news-tags {
   .tags {
     margin-top: $tinyPadding;
   }
+
   .hidden {
     visibility: hidden;
     height: 0;
@@ -26,19 +29,25 @@
     text-transform: initial;
     margin-top: 0;
   }
+
   p {
-    margin:0;
+    margin: 0;
     margin-top: $tinyPadding;
   }
+
   .meta {
     font-family: _font('family-heading');
     font-weight: 400;
     margin-top: -0.3rem;
     line-height: 1.5rem;
+
+    .date {
+      margin-right: 0.3rem;
+    }
+
     small {
       font-family: _font('family');
       font-size: 1.2rem;
-      margin-left: 0.3rem;
     }
   }
 }
