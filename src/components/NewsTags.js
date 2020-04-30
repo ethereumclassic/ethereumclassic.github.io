@@ -24,6 +24,7 @@ const NewsTags = ({
       <div className={`tags ${!showing && 'hidden'}`}>
         <ButtonsGroup
           items={allTags.map(t => ({
+            key: t,
             to: `/${relativePath}/tag/${t}`,
             name: news.tags[t],
             className: t === filter && 'selected'

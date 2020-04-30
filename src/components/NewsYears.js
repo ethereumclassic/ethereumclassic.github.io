@@ -6,6 +6,7 @@ const NewsYears = ({ allYears, relativePath, filter }) => {
   return (
     <ButtonsGroup
       items={allYears.map(y => ({
+        key: y,
         to: `/${relativePath}/year/${y}`,
         name: y,
         className: y === filter && 'selected'

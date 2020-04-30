@@ -14,7 +14,7 @@ const MediaKitTemplate = props => {
       <Menu
         list
         items={i18n.content.map(i => ({
-          key: i.key,
+          key: `${i.title}, ${i.subtitle}`,
           name: `${i.title}, ${i.subtitle}`,
           to: `#${textToKey(i.title)}`
         }))}
