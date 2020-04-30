@@ -3,40 +3,40 @@ teams:
   title: Teams
   items:
     -
-      key: ETC Cooperative
-      link: /
-      name: ETC Cooperative
-    -
-      key: ETC Labs
-      link: /
-      name: ETC Labs
-    -
-      key: ETC Core
-      link: /
-      name: ETC Core
-    -
       key: ETC Consortium
-      link: /
+      link: https://etcconsortium.org/
       name: ETC Consortium
     -
+      key: ETC Cooperative
+      link: https://etccooperative.org/
+      name: ETC Cooperative
+    -
+      key: ETC Core
+      link: https://etccore.io/
+      name: ETC Core
+    -
+      key: ETC Labs
+      link: https://etclabs.org/
+      name: ETC Labs
+    -
       key: Gödel Labs
-      link: /
+      link: https://www.godel.ai/
       name: Gödel Labs
 regions:
   title: Regions
   items: 
     -
       key: Asia
+      link: http://ethereumclassicasia.org/
       name: Asia
-      link: /test
     -
       key: Korea
+      link: http://ethereumclassic.cn/
       name: Korea
-      link: /test
     -
       key: China
+      link: https://www.ethereumclassickorea.com/
       name: China
-      link: /test
 social:
   title: Social
   items: 

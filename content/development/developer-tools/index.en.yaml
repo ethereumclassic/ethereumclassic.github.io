@@ -8,10 +8,6 @@ intro: |
   ## Clients
 
   For more information on the various ETC clients, check out the [clients](/development/clients) page.
-tooling: | 
-  ## Development Tooling
-
-  A non-exhaustive selection of tools  that can aid development of Ethereum Classic applications.
 content:
   - 
     key: processors
