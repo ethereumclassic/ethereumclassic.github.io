@@ -11,7 +11,7 @@ const LayoutGlobal = ({ children, pageContext, pageContext: { i18n } }) => {
   return (
     <>
       <Seo {...pageContext} />
-      <Warning i18n={i18n.globals.ui.warning} />
+      {i18n && <Warning i18n={i18n.globals.ui.warning} />}
       {children}
     </>
   );

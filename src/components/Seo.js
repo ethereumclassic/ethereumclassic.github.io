@@ -16,12 +16,11 @@ const query = graphql`
 `;
 
 const Seo = props => {
-  const { i18n, data = {} } = props;
-  const {
-    title,
-    description,
-    globals: { ui }
-  } = i18n;
+  const { i18n = {}, data = {} } = props;
+  const { title, description, globals: { ui } = {} } = i18n;
+  if (!ui) {
+    return <Helmet title="404 - Page not Found" />;
+  }
   return (
     <Location>
       {({ location: { pathname } }) => (
