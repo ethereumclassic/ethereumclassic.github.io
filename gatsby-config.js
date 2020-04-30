@@ -3,8 +3,6 @@ const image = '/etc-social-card.png';
 
 const rssFeeds = require('./rss-feeds')({ siteUrl, image });
 
-// console.log('hi', rssFeeds);
-
 module.exports = {
   siteMetadata: {
     siteUrl,
@@ -71,16 +69,12 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-yaml-i18n',
       options: {
-        // defaultLocale: 'en', // optional, defaults to first locale
-        locales: ['en'], // required
-        // generateMissing: ['section'] // optional, defaults to false
-        generateMissing: true
-        // generateMissing: ['.md', '.yaml']
+        locales: ['en']
       }
+    },
+    {
+      resolve: 'gatsby-plugin-feed',
+      options: rssFeeds
     }
-    // {
-    //   resolve: 'gatsby-plugin-feed',
-    //   options: rssFeeds
-    // }
   ]
 };

@@ -16,7 +16,7 @@ const HomeStayCurrent = ({
       <header>
         <Md>{i18n.text}</Md>
         {i18n.button && (
-          <Link to={i18n.button.to} button>
+          <Link next to={i18n.button.to} button>
             {i18n.button.text}
           </Link>
         )}

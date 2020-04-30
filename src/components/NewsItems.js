@@ -12,8 +12,9 @@ const NewsItems = ({ items, className }) => {
               <span className="date">
                 <DateFormatter>{data.date}</DateFormatter>
               </span>
+              {'  '}
               <small className="author">
-                {` ${data.author}${data.source ? `, ${data.source}` : ''}`}
+                {[data.author, data.source].filter(i => i).join(', ')}
               </small>
             </div>
             <h3>

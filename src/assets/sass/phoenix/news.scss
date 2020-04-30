@@ -31,12 +31,14 @@
     margin-top: $tinyPadding;
   }
   .meta {
-    font-family: _font('family-header');
+    font-family: _font('family-heading');
     font-weight: 400;
+    margin-top: -0.3rem;
+    line-height: 1.5rem;
     small {
       font-family: _font('family');
-      margin-left: 0.2rem;
       font-size: 1.2rem;
+      margin-left: 0.3rem;
     }
   }
 }

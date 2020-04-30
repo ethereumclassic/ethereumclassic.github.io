@@ -23,8 +23,8 @@ const LayoutNews = props => {
   const key = relativePath.split('/').pop();
   return (
     <LayoutPage {...props} noIntro>
-      <Link button className="float-right" to="/rss.xml" icon="rss">
-        {news.rssFeed}
+      <Link button className="float-right" to={i18n.rss.to} icon="rss">
+        {i18n.rss.text}
       </Link>
       <ButtonsGroup
         className="merged"
