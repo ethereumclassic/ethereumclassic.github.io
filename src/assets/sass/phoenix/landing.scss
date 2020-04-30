@@ -74,7 +74,7 @@
 
       p {
         font-size: 1.05rem;
-        line-height: 1.5rem;
+        line-height: 1.7rem;
         font-weight: 200;
       }
 
@@ -103,6 +103,8 @@
         h1 {
           font-size: 3.5rem;
           padding-top: $smallPadding;
+          line-height: 3.3rem;
+          margin-bottom: 0.5rem;
         }
 
         h1,
@@ -114,8 +116,9 @@
           max-width: $logoSizeSmall;
           margin-left: -$logoSize;
         }
-
-        b {
+      }
+      @include breakpoint('<=xsmall'){
+        p strong {
           display: block;
         }
       }
