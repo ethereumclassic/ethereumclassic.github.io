@@ -55,7 +55,7 @@ content:
 
       Ethereum Classic is one of the purest decentralized projects in the cryptocurrency space. To understand the technical merits of ETC and how the project is positioning itself for the decentralized future, you'll need to understand Ethereum Classic's origin story. Whether you're a developer, investor, journalist or market researcher, the best place to learn about Ethereum Classic is the Knowledge Base.
     button:
-      link: /
+      link: /knowledge
       text: Knowledge Base
   -
     key: stay-current
@@ -66,4 +66,4 @@ content:
       Ethereum Classic content is produced by decentralized participants from around the world. The permisisonless ecosystem welcomes and appreciates new contributions from people like you!
     button:
       text: Contribute Blog Articles
-      link: https://github.com/ethereumclassic
+      link: https://github.com/ethereumclassic/ethereumclassic.github.io
