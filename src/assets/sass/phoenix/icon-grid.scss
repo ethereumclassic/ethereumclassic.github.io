@@ -4,6 +4,7 @@
   @include breakpoint('<=small'){
     grid-template-columns: 1fr;
   }
+  column-gap: $smallPadding;
   text-align: center;
   margin: $smallPadding;
   $bgSize: 8rem;

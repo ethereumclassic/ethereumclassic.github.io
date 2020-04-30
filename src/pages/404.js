@@ -1,5 +1,5 @@
 import React from 'react';
 
-const Default = () => <div>404 page</div>;
+const Default = () => <div>Page not found</div>;
 
 export default Default;

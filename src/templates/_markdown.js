@@ -9,6 +9,11 @@ export const query = graphql`
     markdown: mdx(id: { eq: $mdxId }) {
       body
       excerpt
+      frontmatter {
+        linkImage {
+          publicURL
+        }
+      }
     }
   }
 `;

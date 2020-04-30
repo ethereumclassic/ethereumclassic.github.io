@@ -9,10 +9,8 @@ const formats = {
 };
 
 const DateFormatter = ({ children } = {}) => {
-  // console.log('data', data);
   const { locale } = React.useContext(i18nContext);
   const dateFormat = formats[locale] || formats.default;
-  console.log(dateFormat);
   return formatDate(children, dateFormat);
 };
 

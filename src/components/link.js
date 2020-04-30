@@ -51,14 +51,14 @@ const Link = ({
   noScroll,
   title,
   onlyIcon,
+  onClick,
   ...props
 }) => {
   const iconText = getIconText({ brand, back, next, icon });
-  console.log(icon, iconText);
   const className = `${button ? 'button-link ' : ''}${!button && !children ? 'icon' : ''}${_c ||
     ''}`;
   const to = _to || link;
-  const passedProps = { title, className, style };
+  const passedProps = { title, className, style, onClick };
   const content = (
     <>
       {back && iconText && <i className={`${iconText} left`} />}

@@ -2,6 +2,7 @@ import React from 'react';
 
 import Img from 'gatsby-image';
 
+import { StaticQuery, graphql } from 'gatsby';
 import logo from '../assets/images/etc-black.svg';
 // TODO make this responsive
 import image from '../assets/images/banner.jpg';
@@ -29,11 +30,26 @@ const HomeBanner = ({ data: i18n }) => {
           </Link>
         </div>
         <span className="image fill" data-position="center">
-          <Img
-            fadeIn={false}
-            loading="eager"
-            fluid={image}
-            style={{ position: 'initial', height: '100%' }}
+          <StaticQuery
+            query={graphql`
+              query BannerImage {
+                file(relativePath: { eq: "banner.jpg" }) {
+                  childImageSharp {
+                    fluid(maxWidth: 1200, quality: 80) {
+                      ...GatsbyImageSharpFluid_noBase64
+                    }
+                  }
+                }
+              }
+            `}
+            render={({ file }) => (
+              <Img
+                fadeIn={false}
+                loading="eager"
+                fluid={file.childImageSharp.fluid}
+                style={{ position: 'initial', height: '100%' }}
+              />
+            )}
           />
         </span>
       </div>

@@ -23,14 +23,6 @@ bodyClass: default
 notFound: Page not found
 notFoundText: Sorry, this page doesn't exist
 goBack: Go Back
-#  ## Warning Banner
-# Red pop up, used for hard fork warnings and such
-#
-warningTitle: Hard Fork Alert
-warningText:
-  Ethereum Classic's Phoenix upgrade is planned for June, 2020 on block
-  10,500,839. If you run an ETC node, please update to a compatible client.
-warningButton: Update
 #  ## Latest Blog Posts
 # Appears on landing page and blog section
 #disclaimer: The links on this page are contributions by ETC participants and are not guaranteed to be safe; use them at your own risk! Please do your own research before using any of resources on this site.
@@ -38,3 +30,12 @@ contribute: "If you feel there is incorrect or missing content on this page, ple
 license: The content on this page made available under the license
 learnMore: Learn More
 continueReading: Continue Reading
+## pop up
+warning:
+  enabled: true
+  title: Hard Fork Alert
+  description: Ethereum Classic's Phoenix upgrade is planned for June, 2020 on block 10,500,839. If you run an ETC node, please update to a compatible client.
+  button: 
+    to: /development/clients
+    text: Update
+
