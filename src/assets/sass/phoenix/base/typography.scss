@@ -2,19 +2,22 @@
   font-family: '_HeaderFont';
   src: url("../webfonts/Oswald-VariableFont_wght.ttf");
   font-weight: 1 999;
+  font-display: swap;
 }
 
 @font-face {
   // weight < 500 
   font-family: '_BodyFont';
   src: url("../webfonts/Yantramanav-Light.ttf");
+  font-display: swap;
 }
 
 @font-face {
   // weight > 500
   font-family: '_BodyFont';
   src: url("../webfonts/Yantramanav-Bold.ttf");
-  font-weight: bold; 
+  font-weight: bold;
+  font-display: swap;
 }
 
 h1 {
