@@ -20,13 +20,13 @@ const SectionMenu = ({
     .split('/')
     .slice(0, -1)
     .join('/');
-  mainMenu.forEach(({ to }, i) => {
-    if (to === `/${homeMatch}`) {
+  mainMenu.forEach(({ link }, i) => {
+    if (link === `/${homeMatch}`) {
       home = i;
     }
   });
-  section.menu.forEach(({ to }, i) => {
-    if (to === `/${relativePath}`) {
+  section.menu.forEach(({ link }, i) => {
+    if (link === `/${relativePath}`) {
       prev = section.menu[i - 1] || mainMenu[home];
       next = section.menu[i + 1] || mainMenu[home + 1];
     }
@@ -38,7 +38,7 @@ const SectionMenu = ({
         <div className="fast-nav flex">
           <div>
             {prev && (
-              <Link button back to={prev.to}>
+              <Link button back to={prev.link}>
                 {prev.name}
               </Link>
             )}
@@ -47,7 +47,7 @@ const SectionMenu = ({
             {next && (
               <>
                 {!slim && <small>{`${ui.continueReading}: `}</small>}
-                <Link button next to={next.to}>
+                <Link button next to={next.link}>
                   {next.name}
                 </Link>
               </>

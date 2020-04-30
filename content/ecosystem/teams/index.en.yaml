@@ -39,7 +39,7 @@ content:
         year: 2015
         name: Ethereum Foundation
         active: true
-        to: https://ethereum.org/
+        link: https://ethereum.org/
         twitter: https://twitter.com/ethereum
         github: https://github.com/ethereum/
       -
@@ -47,7 +47,7 @@ content:
         year: 2016
         name: Parity Technologies
         active: true
-        to: https://parity.io/
+        link: https://parity.io/
         twitter: https://twitter.com/ParityTech
         github: https://github.com/paritytech
       -
@@ -55,14 +55,14 @@ content:
         year: 2016
         name: ETC Consortium
         active: true
-        to: https://etcconsortium.org/
+        link: https://etcconsortium.org/
         twitter: https://twitter.com/ETCConsortium
       -
         key: ETCDEV
         year: 2016
         name: ETCDEV
         active: true
-        to: https://etcdevteam.com/
+        link: https://etcdevteam.com/
         twitter: https://twitter.com/getemerald
         github: https://github.com/ETCDEVTeam/
       -
@@ -70,7 +70,7 @@ content:
         year: 2016
         name: IOHK (Grothendieck)
         className: faded
-        to: https://iohk.io/projects/ethereum-classic/
+        link: https://iohk.io/projects/ethereum-classic/
         twitter: https://twitter.com/InputOutputHK
         github: https://github.com/input-output-hk/mantis
       -
@@ -78,7 +78,7 @@ content:
         year: 2017
         name: ETC Cooperative
         active: true
-        to: https://etccooperative.org/
+        link: https://etccooperative.org/
         twitter: https://twitter.com/ETCCooperative
         github: https://github.com/ETCCooperative
       -
@@ -86,15 +86,22 @@ content:
         year: 2017
         name: Ethereum Commonwealth
         className: faded
-        to: https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/
+        link: https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/
         twitter: https://twitter.com/Dexaran
         github: https://github.com/EthereumCommonwealth
+      -
+        key: Grayscale
+        year: 2017
+        name: Grayscale
+        status: active
+        link: https://grayscale.co/ethereum-classic-trust/
+        twitter: https://twitter.com/GrayscaleInvest
       -
         key: commonwealth.gg
         year: 2018
         name: Commonwealth.gg
         active: true
-        to: https://commonwealth.gg
+        link: https://commonwealth.gg
         twitter: https://twitter.com/commonwealthgg
         github: https://github.com/p3c-bot
       -
@@ -102,7 +109,7 @@ content:
         year: 2018
         name: ETC Labs
         active: true
-        to: https://etclabs.org/
+        link: https://etclabs.org/
         twitter: https://twitter.com/etclabs
         github: https://github.com/etclabscore
       -
@@ -110,7 +117,7 @@ content:
         year: 2018
         name: POA Network
         active: true
-        to: https://www.poa.network/
+        link: https://www.poa.network/
         twitter: https://twitter.com/poanetwork
         github: https://github.com/poanetwork
       -
@@ -118,7 +125,7 @@ content:
         year: 2019
         name: ETC Core
         active: true
-        to: https://etccore.io/
+        link: https://etccore.io/
         twitter: https://twitter.com/etc_core
         github: https://github.com/etclabscore
       -
@@ -126,7 +133,7 @@ content:
         year: 2019
         name: ChainSafe
         active: true
-        to: https://chainsafe.io/
+        link: https://chainsafe.io/
         twitter: https://twitter.com/ChainSafeth
         github: https://github.com/ChainSafe
       -
@@ -134,7 +141,7 @@ content:
         year: 2019
         name: Core Paper
         active: true
-        to: https://corepaper.org/
+        link: https://corepaper.org/
         twitter: https://twitter.com/corepaper
         github: https://github.com/corepaper
       -
@@ -142,7 +149,7 @@ content:
         year: 2019
         name: Second State
         active: true
-        to: https://www.secondstate.io/
+        link: https://www.secondstate.io/
         twitter: https://twitter.com/secondstateinc
         github: https://github.com/second-state
       -
@@ -150,7 +157,7 @@ content:
         year: 2019
         name: PegaSys
         active: true
-        to: https://pegasys.tech/
+        link: https://pegasys.tech/
         twitter: https://twitter.com/PegaSysEng
         github: https://github.com/hyperledger/besu
       -
@@ -158,6 +165,6 @@ content:
         year: 2020
         name: Gödel Labs 哥德尔实验室
         active: true
-        to: https://www.godel.ai/
+        link: https://www.godel.ai/
         twitter: https://twitter.com/Goedellabs
         github: https://github.com/multi-geth/multi-geth

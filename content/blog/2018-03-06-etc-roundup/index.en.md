@@ -2,6 +2,7 @@
 title: ETC Rundown — What’s new this week (3/6/18)!
 date: 2018-03-06
 author: Anthony (pyskell)
+tags: ["announcement", "development", "education"]
 ---
 
 [Read this article on Medium (looks nicer)](https://medium.com/@pyskell/etc-rundown-whats-new-this-week-e92eddc9d149)

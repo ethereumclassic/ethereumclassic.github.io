@@ -5,4 +5,4 @@ englishItems: English Links
 intro: Technical Ethereum Classic news and media from all over the internet.
 rss: 
   text: Links RSS Feed
-  to: /rss-links.xml
+  link: /rss-links.xml

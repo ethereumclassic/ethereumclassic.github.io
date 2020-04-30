@@ -32,7 +32,7 @@ const LayoutNews = props => {
           }))}
         />
         <div className="text-right">
-          <Link button to={i18n.rss.to} icon="rss">
+          <Link button to={i18n.rss.link} icon="rss">
             {i18n.rss.text}
           </Link>
         </div>

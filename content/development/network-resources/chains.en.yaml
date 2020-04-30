@@ -35,7 +35,7 @@ items:
     chainId: 61 
     type: mainnet
     networkId: 1
-    to: https://ethereumclassic.org
+    link: https://ethereumclassic.org
     consensusAlgo: pow
     miningAlgo: Ethash
   -
@@ -44,7 +44,7 @@ items:
     chainId: 6 
     type: testnet
     networkId: 6
-    to: https://github.com/goerli/testnet
+    link: https://github.com/goerli/testnet
     consensusAlgo: poa
     miningAlgo: Clique
   -
@@ -53,13 +53,13 @@ items:
     chainId: 63 
     type: testnet
     networkId: 7
-    to: https://github.com/eth-classic/mordor
+    link: https://github.com/eth-classic/mordor
     consensusAlgo: pow
     miningAlgo: Ethash
   -
     key: Testnet Astor 
     name: Astor
     type: experimental
-    to: https://astor.host/
+    link: https://astor.host/
     consensusAlgo: pow
     miningAlgo: Keccak256

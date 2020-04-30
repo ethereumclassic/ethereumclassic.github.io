@@ -5,4 +5,4 @@ englishItems: English News
 intro: Ethereum Classic Blog and Links from all over the internet
 rss: 
   text: News RSS Feed
-  to: /rss.xml
+  link: /rss.xml

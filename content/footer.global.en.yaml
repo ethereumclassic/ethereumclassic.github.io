@@ -69,17 +69,17 @@ discordTip: "**ETC participants** are most active on **discord**."
 discord: 
   icon: discord
   name: Join ETC on Discord
-  to: https://discordapp.com/invite/HW4GckH
+  link: https://discordapp.com/invite/HW4GckH
 moreChannels: More Social Channels
 buttons:
   -
     key: sitemap
-    to: /sitemap
+    link: /sitemap
     name: Sitemap
     icon: sitemap
   -
     key: rss
-    to: /news
+    link: /news
     name: RSS Feeds
     icon: rss
 signOff: Made with `<3` for the original Ethereum vision

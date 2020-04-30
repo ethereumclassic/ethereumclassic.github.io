@@ -2,15 +2,15 @@ menu:
   -
     key: news
     name: All News
-    to: /news
+    link: /news
   - 
     key: blog
     name: Blog Articles
-    to: /blog
+    link: /blog
   -
     key: media
     name: Media Links
-    to: /news/media
+    link: /news/media
 submitArticle: Submit Content
 noPosts: No posts in your selected language 😢
 englishPosts: English Posts

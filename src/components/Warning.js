@@ -21,7 +21,7 @@ const Warning = ({ i18n }) => {
         </div>
         <h3>{i18n.title}</h3>
         <div className="action">
-          <Link next button to={i18n.button.to} onClick={() => setShowing(false)}>
+          <Link next button to={i18n.button.link} onClick={() => setShowing(false)}>
             {i18n.button.text}
           </Link>
         </div>

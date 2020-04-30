@@ -16,7 +16,7 @@ items:
   -
     key: Core-Geth
     name: Core-Geth
-    to: https://core-geth.org/
+    link: https://core-geth.org/
     description: Core-Geth is a distribution of go-ethereum with many flavors. For Phoenix upgrade support, please use version v1.11.0 or later. Upgrade considerations, client configurations and APIs between Multi-Geth and Core-Geth might differ in details.
     guide: https://core-geth.org/install
     release: https://github.com/etclabscore/core-geth/releases
@@ -25,7 +25,7 @@ items:
   -
     key: Hyperledger Besu
     name: Hyperledger Besu
-    to: https://besu.hyperledger.org/
+    link: https://besu.hyperledger.org/
     description: Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. For Phoenix upgrade support, please use version v1.4.1 or later. Upgrade considerations, APIs between ParityEthereum and Besu significantly differ. Mining is not very well supported in Besu.
     guide: https://besu.hyperledger.org/en/stable/HowTo/Get-Started/Install-Binaries/
     release: https://github.com/hyperledger/besu/releases
@@ -34,7 +34,7 @@ items:
   -
     key: Multi-Geth
     name: Multi-Geth
-    to: https://github.com/multi-geth
+    link: https://github.com/multi-geth
     description: A swiss army knife distribution of go-ethereum, with support for many species of Ethereum networks. For Phoenix upgrade support, please use version v1.9.14 or later. Upgrade considerations, a majority of the Multi-Geth maintainers forked to the Core-Geth client.
     guide: https://hackmd.io/IPA7zPwpQDy-1U0reeppcQ#Multi-Geth
     release: https://github.com/multi-geth/multi-geth/releases
@@ -43,7 +43,7 @@ items:
   -
     key: OpenEthereum
     name: OpenEthereum
-    to: https://github.com/openethereum
+    link: https://github.com/openethereum
     description: Fast and feature-rich multi-network Ethereum client. For Phoenix upgrade support, please use version v3.0.0 or later. Currntly, there is not a release for OpenEthereum, please read the Guide's FAQ section to learn how to upgrade for Phoenix. Upgrade considerations, ParityEthereum is no longer being maintained by Parity Technologies and was handed over to Gnosis as the OpenEthereum project.
     guide: https://hackmd.io/IPA7zPwpQDy-1U0reeppcQ#How-to-run-Open-Ethereum-with-Phoenix-upgrade-support-before-any-official-release
     release: https://github.com/openethereum/openethereum/releases

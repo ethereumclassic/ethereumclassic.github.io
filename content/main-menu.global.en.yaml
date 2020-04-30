@@ -3,25 +3,25 @@
 #
 - 
   key: home
-  to: /
+  link: /
   name: Home
 - 
   key: knowledge
-  to: /knowledge
+  link: /knowledge
   name: Knowledge
 - 
   key: ecosystem
-  to: /ecosystem
+  link: /ecosystem
   name: Ecosystem
 - 
   key: development
-  to: /development
+  link: /development
   name: Development
 - 
   key: press
-  to: /press
+  link: /press
   name: Press
 - 
   key: news
-  to: /news
+  link: /news
   name: News

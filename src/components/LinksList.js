@@ -6,10 +6,10 @@ import Md from './Markdown';
 const LinksList = ({ data: { items } }) => {
   return (
     <>
-      {items.map(({ key, to, name, tip, description }) => (
+      {items.map(({ key, link, name, tip, description }) => (
         <React.Fragment key={key}>
           <h3>
-            <Link to={to}>{name}</Link>
+            <Link to={link}>{name}</Link>
             {tip && (
               <>
                 {'  '}

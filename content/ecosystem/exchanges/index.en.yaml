@@ -17,407 +17,407 @@ content:
     items: 
     -
       key: ABCC
-      to: https://abcc.com/en/markets/etcusdt
+      link: https://abcc.com/en/markets/etcusdt
       name: ABCC
     -
       key: ACX
-      to: https://acx.io/markets/etcaud
+      link: https://acx.io/markets/etcaud
       name: ACX
     -
       key: Altilly
-      to: https://www.altilly.com/market/ETC_USDT
+      link: https://www.altilly.com/market/ETC_USDT
       name: Altilly
     -
       key: BaseFEX
-      to: https://www.basefex.com/trade/ETCUSDT
+      link: https://www.basefex.com/trade/ETCUSDT
       name: BaseFEX
     -
       key: BCEX
-      to: https://www.bcex.ca/trade/etc_usdt
+      link: https://www.bcex.ca/trade/etc_usdt
       name: BCEX
     -
       key: Bequant
-      to: https://bequant.io/exchange/ETC-to-USDT
+      link: https://bequant.io/exchange/ETC-to-USDT
       name: Bequant
     -
       key: BHEX
-      to: https://www.bhex.com/exchange/301/etc/usdt
+      link: https://www.bhex.com/exchange/301/etc/usdt
       name: BHEX
     -
       key: Bibox
-      to: https://www.bibox.com/exchange?coinPair=ETC_USDT
+      link: https://www.bibox.com/exchange?coinPair=ETC_USDT
       name: Bibox
     -
       key: BigONE
-      to: https://big.one/trade/ETC-USDT
+      link: https://big.one/trade/ETC-USDT
       name: BigONE
     -
       key: BiKi
-      to: https://www.biki.com/zh_CN/trade/ETC_USDT
+      link: https://www.biki.com/zh_CN/trade/ETC_USDT
       name: BiKi
     -
       key: Binance
-      to: https://www.binance.com/en/trade/ETC_USDT
+      link: https://www.binance.com/en/trade/ETC_USDT
       name: Binance
     -
       key: Binance US
-      to: https://www.binance.us/en/trade/ETC_USDT
+      link: https://www.binance.us/en/trade/ETC_USDT
       name: Binance US
     -
       key: BitAsset
-      to: https://www.bitasset.com/ktrade/ETC-USDT
+      link: https://www.bitasset.com/ktrade/ETC-USDT
       name: BitAsset
     -
       key: Bitbns
-      to: https://bitbns.com/trade/#/etc
+      link: https://bitbns.com/trade/#/etc
       name: Bitbns
     -
       key: Bitcoin IRA
-      to: https://bitcoinira.com/resources/bitcoin-ethereum-price-charts
+      link: https://bitcoinira.com/resources/bitcoin-ethereum-price-charts
       name: Bitcoin IRA
     -
       key: Bitfinex
-      to: https://www.bitfinex.com/t/ETC:USD
+      link: https://www.bitfinex.com/t/ETC:USD
       name: Bitfinex
     -
       key: BitForex
-      to: https://www.bitforex.com/en/spot/etc_usdt
+      link: https://www.bitforex.com/en/spot/etc_usdt
       name: BitForex
     -
       key: Bithumb
-      to: https://www.bithumb.com/trade/order/ETC_KRW
+      link: https://www.bithumb.com/trade/order/ETC_KRW
       name: Bithumb
     -
       key: Bithumb Singapore
-      to: https://www.bithumbsg.com/exchange/etc-tusd
+      link: https://www.bithumbsg.com/exchange/etc-tusd
       name: Bithumb Singapore
     -
       key: BitMart
-      to: https://www.bitmart.com/trade?symbol=ETC_USDT
+      link: https://www.bitmart.com/trade?symbol=ETC_USDT
       name: BitMart
     -
       key: BitMax
-      to: https://bitmax.io/#/trade/usdt/etc
+      link: https://bitmax.io/#/trade/usdt/etc
       name: BitMax
     -
       key: Bitnaru
-      to: https://www.bitnaru.com/exchange
+      link: https://www.bitnaru.com/exchange
       name: Bitnaru
     -
       key: Bitpanda
-      to: https://www.bitpanda.com/en/prices/ethereum-classic
+      link: https://www.bitpanda.com/en/prices/ethereum-classic
       name: Bitpanda
     -
       key: BitRabbit
-      to: https://bitrabbit.com/markets/etc_btc
+      link: https://bitrabbit.com/markets/etc_btc
       name: BitRabbit
     -
       key: Bitrue
-      to: https://www.bitrue.com/trade/etc_usdt
+      link: https://www.bitrue.com/trade/etc_usdt
       name: Bitrue
     -
       key: Bitsonic
-      to: https://bitsonic.co.kr/front/exchange/etc-krw
+      link: https://bitsonic.co.kr/front/exchange/etc-krw
       name: Bitsonic
     -
       key: Bittrex
-      to: https://bittrex.com/Market/Index?MarketName=USDT-ETC
+      link: https://bittrex.com/Market/Index?MarketName=USDT-ETC
       name: Bittrex
     -
       key: Bittrex Global
-      to: https://global.bittrex.com/Market/Index?MarketName=USDT-ETC
+      link: https://global.bittrex.com/Market/Index?MarketName=USDT-ETC
       name: Bittrex Global
     -
       key: Bitvavo
-      to: https://account.bitvavo.com/markets/ETC-EUR
+      link: https://account.bitvavo.com/markets/ETC-EUR
       name: Bitvavo
     -
       key: BitZ
-      to: https://www.bit-z.com/exchange/etc_usdt
+      link: https://www.bit-z.com/exchange/etc_usdt
       name: BitZ
     -
       key: BKEX
-      to: https://www.bkex.com/trade/ETC_USDT
+      link: https://www.bkex.com/trade/ETC_USDT
       name: BKEX
     -
       key: BTC Markets
-      to: https://www.btcmarkets.net/buy-sell
+      link: https://www.btcmarkets.net/buy-sell
       name: BTC Markets
     -
       key: BTC Trade UA
-      to: https://btc-trade.com.ua/stock/ETC_UAH
+      link: https://btc-trade.com.ua/stock/ETC_UAH
       name: BTC Trade UA
     -
       key: BTC Alpha
-      to: https://btc-alpha.com/en/exchange/ETC_BTC/
+      link: https://btc-alpha.com/en/exchange/ETC_BTC/
       name: BTC Alpha
     -
       key: Baobi
-      to: https://www.baobi.com/trade?c=ETC%2FUSDT
+      link: https://www.baobi.com/trade?c=ETC%2FUSDT
       name: Baobi
     -
       key: BW
-      to: https://www.bw.com/trade/etc_usdt
+      link: https://www.bw.com/trade/etc_usdt
       name: BW
     -
       key: C2CX
-      to: https://www.c2cx.com/in/trade_usdt_etc
+      link: https://www.c2cx.com/in/trade_usdt_etc
       name: C2CX
     -
       key: CAT.EX
-      to: https://www.catex.io/trading/ETC/USDT
+      link: https://www.catex.io/trading/ETC/USDT
       name: CAT.EX
     -
       key: Coinbase Pro
-      to: https://pro.coinbase.com/trade/ETC-USD
+      link: https://pro.coinbase.com/trade/ETC-USD
       name: Coinbase Pro
     -
       key: Coinbene
-      to: https://www.coinbene.com/exchange/en_US/ETCUSDT
+      link: https://www.coinbene.com/exchange/en_US/ETCUSDT
       name: Coinbene
     -
       key: Coinbit
-      to: https://www.coinbit.co.kr/exchange/%C2%B7ETC-KRW
+      link: https://www.coinbit.co.kr/exchange/%C2%B7ETC-KRW
       name: Coinbit
     -
       key: Coindeal
-      to: https://frontend.coindeal.com/market/ETC-BTC/
+      link: https://frontend.coindeal.com/market/ETC-BTC/
       name: Coindeal
     -
       key: Coineal
-      to: https://hk.coineal.com/trade_center.html?s=etc-btc#en_US
+      link: https://hk.coineal.com/trade_center.html?s=etc-btc#en_US
       name: Coineal
     -
       key: CoinEgg
-      to: https://trade.coinegg.com/trade/etc_usdt
+      link: https://trade.coinegg.com/trade/etc_usdt
       name: CoinEgg
     -
       key: CoinEx
-      to: https://www.coinex.com/exchange?currency=usdt&dest=etc
+      link: https://www.coinex.com/exchange?currency=usdt&dest=etc
       name: CoinEx
     -
       key: Coinone
-      to: https://coinone.co.kr/exchange/trade/etc/krw
+      link: https://coinone.co.kr/exchange/trade/etc/krw
       name: Coinone
     -
       key: Coinsbit
-      to: https://coinsbit.io/trade/ETC_USD
+      link: https://coinsbit.io/trade/ETC_USD
       name: Coinsbit
     -
       key: CoinTiger
-      to: https://www.cointiger.com/en-us/#/trade_pro?coin=etc_usdt
+      link: https://www.cointiger.com/en-us/#/trade_pro?coin=etc_usdt
       name: CoinTiger
     -
       key: Coinut
-      to: https://coinut.com/spot/ETCUSDT
+      link: https://coinut.com/spot/ETCUSDT
       name: Coinut
     -
       key: CPDAX
-      to: https://www.cpdax.com/trade/ETC-BTC
+      link: https://www.cpdax.com/trade/ETC-BTC
       name: CPDAX
     -
       key: Crex24
-      to: https://crex24.com/exchange/ETC-BTC
+      link: https://crex24.com/exchange/ETC-BTC
       name: Crex24
     -
       key: Crypcore
-      to: https://crypcore.com
+      link: https://crypcore.com
       name: Crypcore
     -
       key: DCoin
-      to: https://www.dcoin.com/currencyTrading/ETC_USDT
+      link: https://www.dcoin.com/currencyTrading/ETC_USDT
       name: DCoin
     -
       key: DEX-Trade
-      to: https://dex-trade.com/trading/ETCUSDT
+      link: https://dex-trade.com/trading/ETCUSDT
       name: DEX-Trade
     -
       key: DigiFinex
-      to: https://www.digifinex.com/en-ww/trade/USDT/ETC
+      link: https://www.digifinex.com/en-ww/trade/USDT/ETC
       name: DigiFinex
     -
       key: EREX
-      to: https://erex.io/exchange/ETC/USDT/
+      link: https://erex.io/exchange/ETC/USDT/
       name: EREX
     -
       key: eToro
-      to: https://www.etoro.com/markets/etc/chart
+      link: https://www.etoro.com/markets/etc/chart
       name: eToro
     -
       key: eToroX
-      to: https://www.etorox.com/exchange/etc/
+      link: https://www.etorox.com/exchange/etc/
       name: eToroX
     -
       key: EXMO
-      to: https://exmo.com/en/trade/ETC_USD
+      link: https://exmo.com/en/trade/ETC_USD
       name: EXMO
     -
       key: Exrates
-      to: https://exrates.me/trading/ETCUSDT
+      link: https://exrates.me/trading/ETCUSDT
       name: Exrates
     -
       key: EXX
-      to: https://www.exx.com/tradeCoding/eth_usdt
+      link: https://www.exx.com/tradeCoding/eth_usdt
       name: EXX
     -
       key: FatBTC
-      to: https://www.fatbtc.com/trading?currency=ETC%2FUSDT&freetab=2
+      link: https://www.fatbtc.com/trading?currency=ETC%2FUSDT&freetab=2
       name: FatBTC
     -
       key: Folgory
-      to: https://folgory.com/trade-crypto/ETC_USDT
+      link: https://folgory.com/trade-crypto/ETC_USDT
       name: Folgory
     -
       key: FTX
-      to: https://ftx.com/trade/ETC-PERP
+      link: https://ftx.com/trade/ETC-PERP
       name: FTX
     -
       key: Gate
-      to: https://www.gate.io/trade/etc_usdt
+      link: https://www.gate.io/trade/etc_usdt
       name: Gate
     -
       key: HitBTC
-      to: https://hitbtc.com/ETC-to-USDT
+      link: https://hitbtc.com/ETC-to-USDT
       name: HitBTC
     -
       key: Hoo
-      to: https://hoo.com/trade/etc-usdt
+      link: https://hoo.com/trade/etc-usdt
       name: Hoo
     -
       key: HotBit
-      to: https://www.hotbit.io/exchange?symbol=ETC_USDT
+      link: https://www.hotbit.io/exchange?symbol=ETC_USDT
       name: HotBit
     -
       key: Huobi Global
-      to: https://www.huobi.com/en-us/exchange/etc_usdt/
+      link: https://www.huobi.com/en-us/exchange/etc_usdt/
       name: Huobi Global
     -
       key: Huobi Indonesia
-      to: https://www.huobi.com.co/exchange/#s=etc_usdt
+      link: https://www.huobi.com.co/exchange/#s=etc_usdt
       name: Huobi Indonesia
     -
       key: Huobi Korea
-      to: https://www.huobi.co.kr/en-us/exchange/etc_usdt/
+      link: https://www.huobi.co.kr/en-us/exchange/etc_usdt/
       name: Huobi Korea
     -
       key: Huobi Russia
-      to: https://www.huobi.com.ru/exchange/#s=etc_usdt
+      link: https://www.huobi.com.ru/exchange/#s=etc_usdt
       name: Huobi Russia
     -
       key: Independent Reserve
-      to: https://www.independentreserve.com/market/etc
+      link: https://www.independentreserve.com/market/etc
       name: Independent Reserve
     -
       key: Koineks
-      to: https://koineks.com/demo/ETCTRY
+      link: https://koineks.com/demo/ETCTRY
       name: Koineks
     -
       key: Korbit
-      to: https://www.korbit.co.kr/markets/?market=etc-krw
+      link: https://www.korbit.co.kr/markets/?market=etc-krw
       name: Korbit
     -
       key: Kraken
-      to: https://trade.kraken.com/markets/kraken/etc/usd
+      link: https://trade.kraken.com/markets/kraken/etc/usd
       name: Kraken
     -
       key: Kucoin
-      to: https://trade.kucoin.com/spot/ETC-USDT
+      link: https://trade.kucoin.com/spot/ETC-USDT
       name: Kucoin
     -
       key: LiveCoin
-      to: https://www.livecoin.net/en/trading/ETC_BTC
+      link: https://www.livecoin.net/en/trading/ETC_BTC
       name: LiveCoin
     -
       key: MXC
-      to: https://www.mxc.com/trade/easy#ETC_USDT
+      link: https://www.mxc.com/trade/easy#ETC_USDT
       name: MXC
     -
       key: OceanEx
-      to: https://oceanex.pro/en/trades/etcusdt
+      link: https://oceanex.pro/en/trades/etcusdt
       name: OceanEx
     -
       key: OKCoin
-      to: https://www.okcoin.com/spot/trade#product=etc_usd
+      link: https://www.okcoin.com/spot/trade#product=etc_usd
       name: OKCoin
     -
       key: OKex
-      to: https://www.okex.com/market?product=etc_usdt
+      link: https://www.okex.com/market?product=etc_usdt
       name: OKex
     -
       key: OKex Korea
-      to: https://okex.co.kr/kr/view/trade/order
+      link: https://okex.co.kr/kr/view/trade/order
       name: OKex Korea
     -
       key: Ovis
-      to: https://www.ovis.com.tr/
+      link: https://www.ovis.com.tr/
       name: Ovis
     -
       key: P2PB2B
-      to: https://p2pb2b.io/trade/ETC_USDT
+      link: https://p2pb2b.io/trade/ETC_USDT
       name: P2PB2B
     -
       key: Paybito
-      to: https://dashboard.paybito.com/view-exchange.html?pair=etc-usd
+      link: https://dashboard.paybito.com/view-exchange.html?pair=etc-usd
       name: Paybito
     -
       key: Poloniex
-      to: https://poloniex.com/exchange#usdt_etc
+      link: https://poloniex.com/exchange#usdt_etc
       name: Poloniex
     -
       key: ProBit
-      to: https://www.probit.com/app/exchange/ETC-USDT
+      link: https://www.probit.com/app/exchange/ETC-USDT
       name: ProBit
     -
       key: SimpleFX
-      to: https://app.simplefx.com/
+      link: https://app.simplefx.com/
       name: SimpleFX
     -
       key: SouthXchange
-      to: https://www.probit.com/app/exchange/ETC-USDT
+      link: https://www.probit.com/app/exchange/ETC-USDT
       name: SouthXchange
     -
       key: STEX
-      to: https://app.stex.com/en/basic-trade/pair/BTC/ETC/1D
+      link: https://app.stex.com/en/basic-trade/pair/BTC/ETC/1D
       name: STEX
     -
       key: Tokenomy
-      to: https://exchange.tokenomy.com/market/ETCBTC
+      link: https://exchange.tokenomy.com/market/ETCBTC
       name: Tokenomy
     -
       key: TOKOK
-      to: https://www.tokok.com/market?symbol=ETC_USDT
+      link: https://www.tokok.com/market?symbol=ETC_USDT
       name: TOKOK
     -
       key: Upbit
-      to: https://upbit.com/exchange?code=CRIX.UPBIT.USDT-ETC
+      link: https://upbit.com/exchange?code=CRIX.UPBIT.USDT-ETC
       name: Upbit
     -
       key: VCC Exchange
-      to: https://vcc.exchange/exchange/basic?currency=btc&coin=etc
+      link: https://vcc.exchange/exchange/basic?currency=btc&coin=etc
       name: VCC Exchange
     -
       key: WazirX
-      to: https://wazirx.com/exchange/ETC-USDT
+      link: https://wazirx.com/exchange/ETC-USDT
       name: WazirX
     -
       key: WhiteBIT
-      to: https://whitebit.com/trade/ETC_BTC
+      link: https://whitebit.com/trade/ETC_BTC
       name: WhiteBIT
     -
       key: YoBit
-      to: https://yobit.net/en/trade/ETC/USD
+      link: https://yobit.net/en/trade/ETC/USD
       name: YoBit
     -
       key: YunEx
-      to: https://yunex.io/trade/etc_usdt
+      link: https://yunex.io/trade/etc_usdt
       name: YunEx
     -
       key: ZB
-      to: https://trans.zb.com/etcusdt
+      link: https://trans.zb.com/etcusdt
       name: ZB
     -
       key: ZBG
-      to: https://www.zbg.com/trade/etc_usdt
+      link: https://www.zbg.com/trade/etc_usdt
       name: ZBG
   -
     type: buttons
@@ -426,11 +426,11 @@ content:
     items: 
     -
       key: Bisq
-      to: https://bisq.network/markets/?currency=etc_btc
+      link: https://bisq.network/markets/?currency=etc_btc
       name: Bisq
     -
       key: Saturn Network
-      to: https://www.saturn.network/exchange/ethereum-classic
+      link: https://www.saturn.network/exchange/ethereum-classic
       name: Saturn Network
   -
     type: buttons
@@ -439,95 +439,99 @@ content:
     items:
     -
       key: ABRA
-      to: https://www.abra.com/
+      link: https://www.abra.com/
       name: ABRA
     -
       key: ALFACashier
-      to: https://www.alfacashier.com/
+      link: https://www.alfacashier.com/
       name: ALFACashier
     -
       key: AtomicWallet
-      to: https://atomicwallet.io
+      link: https://atomicwallet.io
       name: AtomicWallet
     -
       key: BitTorro
-      to: https://bittorro.io/
+      link: https://bittorro.io/
       name: BitTorro
     -
       key: ChangeAngel
-      to: https://www.changeangel.io/
+      link: https://www.changeangel.io/
       name: ChangeAngel
     -
       key: Changelly
-      to: https://changelly.com/
+      link: https://changelly.com/
       name: Changelly
     -
       key: ChangeNOW
-      to: https://changenow.io/
+      link: https://changenow.io/
       name: ChangeNOW
     -
       key: CoinSwitch
-      to: https://coinswitch.co/
+      link: https://coinswitch.co/
       name: CoinSwitch
     -
       key: Coinveer
-      to: https://coinveer.com/
+      link: https://coinveer.com/
       name: Coinveer
     -
       key: Edge
-      to: https://edge.app/
+      link: https://edge.app/
       name: Edge
     -
       key: Evercoin
-      to: https://evercoin.com
+      link: https://evercoin.com
       name: Evercoin
     -
       key: Exodus
-      to: https://www.exodus.io/
+      link: https://www.exodus.io/
       name: Exodus
     -
       key: Exolix
-      to: https://exolix.com/
+      link: https://exolix.com/
       name: Exolix
     -
       key: FixedFloat
-      to: https://fixedfloat.com/
+      link: https://fixedfloat.com/
       name: FixedFloat
     -
       key: GoDex
-      to: https://godex.io/
+      link: https://godex.io/
       name: GoDex
     -
       key: Infinito Wallet
-      to: https://www.infinitowallet.io/
+      link: https://www.infinitowallet.io/
       name: Infinito Wallet
     -
       key: InstaEx
-      to: https://instaex.io/
+      link: https://instaex.io/
       name: InstaEx
     -
       key: SimpleSwap
-      to: https://simpleswap.io/coins/ethereum-classic
+      link: https://simpleswap.io/coins/ethereum-classic
       name: SimpleSwap
     -
       key: StealthEx
-      to: https://stealthex.io/
+      link: https://stealthex.io/
       name: StealthEx
     -
+      key: SwapSpace
+      name: SwapSpace
+      link: https://swapspace.co/?from=etc&to=btc&amount=1
+    -
       key: Swapzone
-      to: https://swapzone.io/?to=btc&from=etc
+      link: https://swapzone.io/?to=btc&from=etc
       name: Swapzone
     -
       key: Switchain
-      to: https://www.switchain.com
+      link: https://www.switchain.com
       name: Switchain
     -
       key: Voyager
-      to: https://www.investvoyager.com/blog/how-to-buy-ethereum-classic/
+      link: https://www.investvoyager.com/blog/how-to-buy-ethereum-classic/
       name: Voyager
     -
       key: XChange
-      to: https://www.xchange.me/
+      link: https://www.xchange.me/
       name: XChange
   -
     type: buttons
@@ -535,106 +539,106 @@ content:
     items: 
     -
       key: BeInCrypto
-      to: https://beincrypto.com/price/ethereum-classic/
+      link: https://beincrypto.com/price/ethereum-classic/
       name: Be In Crypto
     -
       key: BitInfoCharts
-      to: https://bitinfocharts.com/ethereum%20classic/
+      link: https://bitinfocharts.com/ethereum%20classic/
       name: Bit Info Charts
     -
       key: BusinessInsider
-      to: https://markets.businessinsider.com/currencies/etc-usd
+      link: https://markets.businessinsider.com/currencies/etc-usd
       name: Business Insider
     -
       key: Coin360
-      to: https://coin360.com/coin/ethereum-classic-etc
+      link: https://coin360.com/coin/ethereum-classic-etc
       name: Coin360
     -
       key: Coinbase
-      to: https://www.coinbase.com/price/ethereum-classic
+      link: https://www.coinbase.com/price/ethereum-classic
       name: Coinbase
     -
       key: CoinCentral
-      to: https://coincentral.com/currencies/ethereum-classic/
+      link: https://coincentral.com/currencies/ethereum-classic/
       name: Coin Central
     -
       key: CoinCheckup
-      to: https://coincheckup.com/coins/ethereum-classic/
+      link: https://coincheckup.com/coins/ethereum-classic/
       name: Coin Checkup
     -
       key: CoinCodex
-      to: https://coincodex.com/crypto/ethereum-classic/
+      link: https://coincodex.com/crypto/ethereum-classic/
       name: Coin Codex
     -
       key: CoinCurrencyChart
-      to: https://www.cryptocurrencychart.com/coin/ETC
+      link: https://www.cryptocurrencychart.com/coin/ETC
       name: Coin Currency Chart
     -
       key: CoinDesk
-      to: https://www.coindesk.com/price/ethereum-classic
+      link: https://www.coindesk.com/price/ethereum-classic
       name: Coin Desk
     -
       key: CoinGecko
-      to: https://www.coingecko.com/en/coins/ethereum-classic
+      link: https://www.coingecko.com/en/coins/ethereum-classic
       name: CoinGecko
     -
       key: CoinLib
-      to: https://coinlib.io/coin/ETC/Ethereum+Classic
+      link: https://coinlib.io/coin/ETC/Ethereum+Classic
       name: Coin Lib
     -
       key: CoinMarketCap
-      to: https://coinmarketcap.com/currencies/ethereum-classic/
+      link: https://coinmarketcap.com/currencies/ethereum-classic/
       name: Coin Market Cap
     -
       key: CoinRanking
-      to: https://coinranking.com/coin/hnfQfsYfeIGUQ+ethereumclassic-etc
+      link: https://coinranking.com/coin/hnfQfsYfeIGUQ+ethereumclassic-etc
       name: Coin Ranking
     -
       key: CoinStats
-      to: https://coinstats.app/en/coins/ethereum-classic
+      link: https://coinstats.app/en/coins/ethereum-classic
       name: Coin Stats
     -
       key: CoinTelegraph
-      to: https://cointelegraph.com/etc-price-index
+      link: https://cointelegraph.com/etc-price-index
       name: Coin Telegraph
     -
       key: CryptoCompare
-      to: https://www.cryptocompare.com/coins/etc/overview/USD
+      link: https://www.cryptocompare.com/coins/etc/overview/USD
       name: Crypto Compare
     -
       key: CryptoSlate
-      to: https://cryptoslate.com/coins/ethereum-classic/
+      link: https://cryptoslate.com/coins/ethereum-classic/
       name: Crypto Slate
     -
       key: CryptoWatch
-      to: https://cryptowat.ch/assets/etc
+      link: https://cryptowat.ch/assets/etc
       name: Crypto Watch
     -
       key: LiveCoinWatch
-      to: https://www.livecoinwatch.com/price/EthereumClassic-ETC
+      link: https://www.livecoinwatch.com/price/EthereumClassic-ETC
       name: Live Coin Watch
     -
       key: Messari
-      to: https://messari.io/asset/ethereum-classic
+      link: https://messari.io/asset/ethereum-classic
       name: Messari
     -
       key: Nomics
-      to: https://nomics.com/assets/etc-ethereum-classic
+      link: https://nomics.com/assets/etc-ethereum-classic
       name: Nomics
     -
       key: OnChainFX
-      to: https://onchainfx.com/price/ethereum-classic
+      link: https://onchainfx.com/price/ethereum-classic
       name: OnChainFX
     -
       key: TradingView
-      to: https://www.tradingview.com/symbols/ETCUSD/
+      link: https://www.tradingview.com/symbols/ETCUSD/
       name: Trading View
     -
       key: WorldCoinIndex
-      to: https://www.worldcoinindex.com/coin/ethereumclassic
+      link: https://www.worldcoinindex.com/coin/ethereumclassic
       name: World Coin Index
     -
       key: YahooFinance
-      to: https://finance.yahoo.com/quote/ETC-USD
+      link: https://finance.yahoo.com/quote/ETC-USD
       name: Yahoo Finance
     

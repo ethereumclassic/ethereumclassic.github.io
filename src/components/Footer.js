@@ -23,7 +23,7 @@ const Footer = ({
             <div>
               <Md unwrap>{i18n.discordTip}</Md>
             </div>
-            <Link button to={i18n.discord.to} className="blue massive" brand="discord">
+            <Link button to={i18n.discord.link} className="blue massive" brand="discord">
               {i18n.discord.name}
             </Link>
             <div className="spaced" />

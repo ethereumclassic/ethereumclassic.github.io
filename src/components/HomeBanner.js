@@ -26,7 +26,7 @@ const HomeBanner = ({ data: i18n }) => {
           <div className="overlay dark">
             <h3>{i18n.bannerTitle}</h3>
             <Md>{i18n.bannerText}</Md>
-            <Link next button to={i18n.button.to}>
+            <Link next button to={i18n.button.link}>
               {i18n.button.text}
             </Link>
           </div>

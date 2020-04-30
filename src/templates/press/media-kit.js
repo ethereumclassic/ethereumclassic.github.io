@@ -10,7 +10,7 @@ const MediaKitTemplate = props => {
   } = props;
   return (
     <LayoutPage {...props}>
-      <Link button to={i18n.button.to} icon="pencil-alt">
+      <Link button to={i18n.button.link} icon="pencil-alt">
         {i18n.button.name}
       </Link>
       <Md>{i18n.svgsIntro}</Md>

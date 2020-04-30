@@ -2,6 +2,7 @@
 title: Ethereum Protocol Update 1 - Ice Age Upgrade
 date: 2015-08-04
 author: Stephan Tual
+tags: ["announcement", "development", "teams", "hardfork"]
 ---
 
 Attribution: [https://blog.ethereum.org/2015/08/04/ethereum-protocol-update-1/](https://blog.ethereum.org/2015/08/04/ethereum-protocol-update-1/)

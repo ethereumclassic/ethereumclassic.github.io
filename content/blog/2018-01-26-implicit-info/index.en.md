@@ -2,6 +2,7 @@
 title: "Implicit Ethereum Classic Blockchain Information"
 date: 2018-01-26
 author: Christian Seberino
+tags: ["application", "development", "education"]
 ---
 
 ![](./1NO9OzqP7jGt-lMgxqzPTkw.jpeg)

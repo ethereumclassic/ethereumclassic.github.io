@@ -6,14 +6,14 @@ import VideoFrame from './VideoFrame';
 const VideoGroup = ({ data: { items } }) => {
   return (
     <div className="video-group">
-      {items.map(({ key, title, to, description, link, youtube, timestamp }) => (
+      {items.map(({ key, title, description, link, youtube, timestamp }) => (
         <div key={key} className="video-item">
           <h4>{title}</h4>
           <Md>{description}</Md>
           <div className="video-container">
-            <VideoFrame title={title} youtube={youtube} timestamp={timestamp} link={link} />
-            <Link to={to} className="video-link">
-              {to}
+            <VideoFrame title={title} youtube={youtube} timestamp={timestamp} />
+            <Link to={link} className="video-link">
+              {link}
             </Link>
           </div>
         </div>

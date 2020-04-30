@@ -13,19 +13,19 @@ content:
     items:
       -
         key: BlockScout
-        to: https://blockscou.com/etc/mainnet/api_docs
+        link: https://blockscou.com/etc/mainnet/api_docs
         name: BlockScout
       -
         key: Ethercluster
-        to: https://www.ethercluster.com/etc
+        link: https://www.ethercluster.com/etc
         name: Ethercluster
       -
         key: Ethercluster (Kotti)
-        to: https://www.ethercluster.com/kotti
+        link: https://www.ethercluster.com/kotti
         name: Ethercluster (Kotti)
       -
         key: Ethercluster (Mordor)
-        to: https://www.ethercluster.com/mordor
+        link: https://www.ethercluster.com/mordor
         name: Ethercluster (Mordor)
   -
     type: links
@@ -35,20 +35,20 @@ content:
       - 
         key: Bloq Cloud
         name: Bloq Cloud
-        to: https://bloq.cloud/
+        link: https://bloq.cloud/
         description: BloqCloud delivers highly-optimized, always available access to blockchain networks. Connect quickly and scale easily based on your needs -- without having to worry about managing infrastructure.
       - 
         key: DappNode
-        to: https://dappnode.io/
+        link: https://dappnode.io/
         name: DappNode
         description: DAppNode facilitates running nodes, DApps and hosting P2P networks and economies.
       - 
         key: Ethercluster
-        to: https://www.ethercluster.com/
+        link: https://www.ethercluster.com/
         name: Ethercluster
         description: Ethercluster is an open-sourced Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) providing Ethereum Classic (ETC) and Kotti endpoints for free.
       - 
         key: QuikNode
-        to: https://quiknode.io/
+        link: https://quiknode.io/
         name: QuikNode
         description: QuikNodes are easy, always on, with a fast internet connection for quick blockchain sync, and you never have to worry about running out of disk space.

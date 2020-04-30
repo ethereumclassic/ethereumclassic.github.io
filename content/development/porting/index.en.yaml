@@ -10,35 +10,35 @@ content:
       - 
         key: Nifty Wallet
         name: Nifty Wallet (similar to Metamask)
-        to: https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid?hl=en
+        link: https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid?hl=en
         description: An open source fork of Metamask that allows usage of the ETC Network. Make sure Metamask is disabled in Chrome when Nifty is in use. Can be used along with Remix IDE to quickly deploy contracts to ETC.
       - 
         key: Saturn Wallet
         name: Saturn Wallet (similar to Metamask)
-        to: https://addons.mozilla.org/en-US/firefox/addon/saturn-wallet/
+        link: https://addons.mozilla.org/en-US/firefox/addon/saturn-wallet/
         description: Similar to Nifty Wallet, but closed source. Works on Chrome and Firefox. Make sure Metamask is disabled when Saturn Wallet is in use.
       - 
         key: Trust Wallet
         name: Trust Wallet (Mobile dApp Browser)
-        to: https://trustwallet.com/
+        link: https://trustwallet.com/
         description: An open source, multi-currency, Web3 mobile wallet. Has been tested and confirmed to work properly with ETC dApps.
       - 
         key: Ether Cluster
         name: Ether Cluster (similar to Infura)
-        to: https://www.ethercluster.com/
+        link: https://www.ethercluster.com/
         description: A freely available ETC Node endpoint. Accessible as a Web3 RPC provider at `https://www.ethercluster.com/etc`
       - 
         key: DappDirect.net
         name: DappDirect.net (similar to DappRadar)
-        to: https://dappdirect.net
+        link: https://dappdirect.net
         description: A dApp aggregator that is free to submit to and allows users/develoeprs to discover and track key metrics of mainnet ETC dApps.
       - 
         key: Saturn.network
         name: Saturn.network (similar to Forkdelta)
-        to: https://saturn.network/
+        link: https://saturn.network/
         description: A completely decentralized token exchange (DEX), useful for listing ERC20 or ERC223 tokens for sale on the ETC network.
       - 
         key: Commonwealth.gg
         name: Commonwealth.gg
-        to: https://commonwealth.gg/
+        link: https://commonwealth.gg/
         description: An open source Hourglass contract similar to original P3D built on Ethereum Classic. Can be leveraged with applications that incentivize user participation.

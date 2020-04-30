@@ -2,7 +2,7 @@
 title: Ethereum Launches - Frontier Release
 date: 2015-07-30
 author: Stephan Tual
-tags: ["development"]
+tags: ["announcement", "development", "teams"]
 ---
 
 Attribution: [https://blog.ethereum.org/2015/07/30/ethereum-launches/](https://blog.ethereum.org/2015/07/30/ethereum-launches/)

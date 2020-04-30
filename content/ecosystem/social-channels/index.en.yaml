@@ -11,23 +11,23 @@ content:
     items:
     -
       key: chat Discord
-      to: https://discordapp.com/invite/HW4GckH
+      link: https://discordapp.com/invite/HW4GckH
       name: Discord
     -
       key: chat Facebook English
-      to: https://www.facebook.com/groups/ethereum.hongkong/
+      link: https://www.facebook.com/groups/ethereum.hongkong/
       name: Facebook English
     -
       key: chat Facebook Vietnam
-      to: http://facebook.com/EthereumClassicVietnam/
+      link: http://facebook.com/EthereumClassicVietnam/
       name: Facebook Vietnam
     -
       key: chat Kakao Korea
-      to: https://open.kakao.com/o/gi4uNJ1
+      link: https://open.kakao.com/o/gi4uNJ1
       name: Kakao Korea
     -
       key: chat Slack
-      to: https://ethereumclassic.herokuapp.com/
+      link: https://ethereumclassic.herokuapp.com/
       name: Slack
     -
       key: chat Tencent QQ
@@ -35,7 +35,7 @@ content:
       alert: ETC Asia-769408114
     -
       key: chat WeChat
-      to: https://bobsummerwill.files.wordpress.com/2019/10/screen-shot-2020-01-31-at-11.40.10-pm.png?w=230&h=300
+      link: https://bobsummerwill.files.wordpress.com/2019/10/screen-shot-2020-01-31-at-11.40.10-pm.png?w=230&h=300
       name: WeChat
   -
     key: Development Chat
@@ -44,85 +44,85 @@ content:
     items:
     -
       key: Commonwealth.gg dev
-      to: https://discord.gg/crjsdJr
+      link: https://discord.gg/crjsdJr
       name: Commonwealth.gg
       brand: discord
     -
       key: Core Paper dev
-      to: https://discord.io/ethereumclassic
+      link: https://discord.io/ethereumclassic
       name: Core Paper
       brand: discord
     -
       key: ETC Core dev
-      to: https://discord.gg/5KwEAdZ
+      link: https://discord.gg/5KwEAdZ
       name: ETC Core
       brand: discord
     -
       key: OpenEthereum dev
-      to: http://discord.io/openethereum
+      link: http://discord.io/openethereum
       name: OpenEthereum
       brand: discord
     -
       key: PAO Network dev
-      to: https://discord.gg/mPJ9zkq
+      link: https://discord.gg/mPJ9zkq
       name: PAO Network
       brand: discord
     -
       key: Core Geth dev
-      to: https://gitter.im/core-geth/community
+      link: https://gitter.im/core-geth/community
       name: Core Geth
       brand: gitter
     -
       key: Multi-Geth dev
-      to: https://gitter.im/multi-geth/community
+      link: https://gitter.im/multi-geth/community
       name: Multi-Geth
       brand: gitter
     -
       key: Open-RPC dev
-      to: https://gitter.im/open-rpc/community
+      link: https://gitter.im/open-rpc/community
       name: Open-RPC
       brand: gitter
     -
       key: POA Network dev
-      to: https://gitter.im/poanetwork/
+      link: https://gitter.im/poanetwork/
       name: POA Network
       brand: gitter
     -
       key: ECIPs dev
-      to: https://riot.im/app/#/room/#ecips:matrix.org
+      link: https://riot.im/app/#/room/#ecips:matrix.org
       name: ECIPs (Matrix)
     -
       key: Parity Tech dev
-      to: https://riot.im/app/#/room/#watercooler:matrix.parity.io
+      link: https://riot.im/app/#/room/#watercooler:matrix.parity.io
       name: Parity Tech (Matrix)
     -
       key: Hyperledger Besu dev
-      to: https://chat.hyperledger.org/
+      link: https://chat.hyperledger.org/
       name: Hyperledger Besu
       brand: rocketchat
     -
       key: ETCDEV dev
-      to: https://t.me/GetEmerald
+      link: https://t.me/GetEmerald
       name: ETCDEV
       brand: telegram-plane
     -
       key: ETC Labs dev
-      to: https://t.me/etclabs
+      link: https://t.me/etclabs
       name: ETC Labs
       brand: telegram-plane
     -
       key: Parity Tech dev telegram
-      to: https://t.me/parity_technologies
+      link: https://t.me/parity_technologies
       name: Parity Tech
       brand: telegram-plane
     -
       key: POA Network telegram
-      to: https://t.me/poa_network
+      link: https://t.me/poa_network
       name: POA Network
       brand: telegram-plane
     -
       key: Gödel Labs dev
-      to: https://weibo.com/godellabs
+      link: https://weibo.com/godellabs
       name: Gödel Labs
       brand: weibo
   -
@@ -132,47 +132,47 @@ content:
     items:
     -
       key: telegram Arabic
-      to: https://t.me/EtherClassic_Ar
+      link: https://t.me/EtherClassic_Ar
       name: Arabic
     -
       key: telegram China
-      to: https://t.me/etczh
+      link: https://t.me/etczh
       name: China
     -
       key: telegram English 1
-      to: https://telegram.me/ethclassic
+      link: https://telegram.me/ethclassic
       name: English
     -
       key: telegram English 2
-      to: https://t.me/etcchat
+      link: https://t.me/etcchat
       name: English
     -
       key: telegram Español
-      to: https://t.me/ethclassicesp
+      link: https://t.me/ethclassicesp
       name: Español
     -
       key: telegram German
-      to: https://t.me/EtherCalssic_de
+      link: https://t.me/EtherCalssic_de
       name: German
     -
       key: telegram Italia
-      to: https://t.me/ETC_Italia
+      link: https://t.me/ETC_Italia
       name: Italia
     -
       key: telegram Japan
-      to: https://t.me/etcjapan
+      link: https://t.me/etcjapan
       name: Japan
     -
       key: telegram Russia 1
-      to: https://telegram.me/etcrussia
+      link: https://telegram.me/etcrussia
       name: Russia
     -
       key: telegram Russia 2
-      to: https://telegram.me/etcru
+      link: https://telegram.me/etcru
       name: Russia
     -
       key: telegram Viet Nam
-      to: https://t.me/ETCVietnam
+      link: https://t.me/ETCVietnam
       name: Viet Nam
   -
     key: Forums
@@ -181,19 +181,19 @@ content:
     items:
     -
       key: forum Reddit r/EthereumClassic
-      to: https://www.reddit.com/r/EthereumClassic/
+      link: https://www.reddit.com/r/EthereumClassic/
       name: Reddit r/EthereumClassic
     -
       key: forum forum.ethereumclassic.org
-      to: https://forum.ethereumclassic.org/
+      link: https://forum.ethereumclassic.org/
       name: EthereumClassic.org Forum
     -
       key: forum BitcoinTalk
-      to: https://bitcointalk.org/index.php?topic=5134923
+      link: https://bitcointalk.org/index.php?topic=5134923
       name: BitcoinTalk
     -
       key: forum Archived BitcoinTalk
-      to: https://bitcointalk.org/index.php?topic=1559630.0
+      link: https://bitcointalk.org/index.php?topic=1559630.0
       name: Archived BitcoinTalk
   -
     key: Media
@@ -201,16 +201,24 @@ content:
     type: buttons
     items:
     -
+      key: media ETCfInv
+      name: Ethereum Cassic (ETC) for Investors
+      link: https://www.youtube.com/playlist?list=PLMBYy3lWO3DkegQkvL23AMnm_JnX-LXW3
+    -
+      key: media Etherplan
+      name: Etherplan
+      link: https://www.youtube.com/channel/UC4--zHROGkRT1MadPM4EASA/playlists
+    -
       key: media EVM61
-      to: https://www.youtube.com/playlist?list=PLiW3acHwcR6LAa_WS5sFWf1S_GquYVeJb
+      link: https://www.youtube.com/playlist?list=PLiW3acHwcR6LAa_WS5sFWf1S_GquYVeJb
       name: EVM61
     -
       key: media Explore The Chain
-      to: https://www.youtube.com/playlist?list=PL8fotqNQa4-UGxH8rCqeHAtOG56OyhZGf
+      link: https://www.youtube.com/playlist?list=PL8fotqNQa4-UGxH8rCqeHAtOG56OyhZGf
       name: Explore The Chain
     -
       key: media Let's Talk ETC!
-      to: https://www.youtube.com/playlist?list=PLKO8sMfwkZQqGH3Ny2OJ_SRcAvSf_0gx5
+      link: https://www.youtube.com/playlist?list=PLKO8sMfwkZQqGH3Ny2OJ_SRcAvSf_0gx5
       name: Let's Talk ETC!
   -
     key: Code Repositories
@@ -219,11 +227,11 @@ content:
     items:
     -
       key: repository ETC Github
-      to: https://github.com/ethereumclassic
+      link: https://github.com/ethereumclassic
       name: ETC Github
     -
       key: repository ETC Awesome List
-      to: https://github.com/ethereumclassic/Awesome-ETC
+      link: https://github.com/ethereumclassic/Awesome-ETC
       name: ETC Awesome List
   -
     key: Twitter Accounts
@@ -232,67 +240,67 @@ content:
     items:
     -
       key: twitter China 1
-      to: https://twitter.com/EthereumChina
+      link: https://twitter.com/EthereumChina
       name: China
     -
       key: twitter China 2
-      to: https://twitter.com/ETCChina
+      link: https://twitter.com/ETCChina
       name: China
     -
       key: twitter English 1
-      to: https://twitter.com/eth_classic
+      link: https://twitter.com/eth_classic
       name: English
     -
       key: twitter English 2
-      to: https://twitter.com/EthereumClassic
+      link: https://twitter.com/EthereumClassic
       name: English
     -
       key: twitter Español
-      to: https://twitter.com/ethclassicesp
+      link: https://twitter.com/ethclassicesp
       name: Español
     -
       key: twitter France
-      to: https://twitter.com/ETC_France
+      link: https://twitter.com/ETC_France
       name: France
     -
       key: twitter Germany
-      to: https://twitter.com/GermanyEtc
+      link: https://twitter.com/GermanyEtc
       name: Germany
     -
       key: twitter Italia
-      to: https://twitter.com/etcitalia
+      link: https://twitter.com/etcitalia
       name: Italia
     -
       key: twitter Japan
-      to: https://twitter.com/ETCJapan
+      link: https://twitter.com/ETCJapan
       name: Japan
     -
       key: twitter Korea 1
-      to: https://twitter.com/ethclassic_kor
+      link: https://twitter.com/ethclassic_kor
       name: Korea
     -
       key: twitter Korea 2
-      to: https://twitter.com/etckorea1
+      link: https://twitter.com/etckorea1
       name: Korea
     -
       key: twitter Netherlands
-      to: https://twitter.com/etcnetherlands
+      link: https://twitter.com/etcnetherlands
       name: Netherlands
     -
       key: twitter Philippines
-      to: https://twitter.com/ETC_Philippines
+      link: https://twitter.com/ETC_Philippines
       name: Philippines
     -
       key: twitter Sri Lanka
-      to: https://twitter.com/etcSriLanka
+      link: https://twitter.com/etcSriLanka
       name: Sri Lanka
     -
       key: twitter Turkey
-      to: https://twitter.com/EtcTurkiye
+      link: https://twitter.com/EtcTurkiye
       name: Turkey
     -
       key: twitter Viet Nam
-      to: https://twitter.com/ETCVietNam
+      link: https://twitter.com/ETCVietNam
       name: Viet Nam
   -
     key: Regional Website
@@ -301,17 +309,17 @@ content:
     items:
     -
       key: website EthereumClassicAsia
-      to: http://ethereumclassicasia.org/
+      link: http://ethereumclassicasia.org/
       name: EthereumClassicAsia
     -
       key: website EthereumClassic.cn
-      to: http://ethereumclassic.cn/
+      link: http://ethereumclassic.cn/
       name: EthereumClassic.cn
     -
       key: website ETCKorea
-      to: https://etckorea.modoo.at/
+      link: https://etckorea.modoo.at/
       name: ETCKorea
     -
       key: website EthereumClassicKorea.com
-      to: https://www.ethereumclassickorea.com/
+      link: https://www.ethereumclassickorea.com/
       name: EthereumClassicKorea.com

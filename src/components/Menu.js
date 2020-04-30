@@ -9,7 +9,7 @@ const Menu = ({ items, list, className, onClick }) => {
     <Wrapper className={`menu ${className || ''}`}>
       {items.map(i => (
         <Item key={i.key}>
-          <Link to={i.to} onClick={onClick}>
+          <Link to={i.link} onClick={onClick}>
             {i.name}
           </Link>
           {i.tip && (

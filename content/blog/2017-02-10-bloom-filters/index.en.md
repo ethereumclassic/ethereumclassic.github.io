@@ -2,6 +2,7 @@
 title: "Why Bloom Filters Are So Cool (+ Useful!) For Blockchains & Beyond: An Introduction"
 date: 2017-02-10
 author: Christian Seberino
+tags: ["application", "development", "education"]
 ---
 
 ## The Problem

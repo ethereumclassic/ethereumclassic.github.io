@@ -2,7 +2,7 @@
 title: "ETC Weekly Newsletter : Treasury Proposal"
 date: 2017-02-20
 author: Carlo V
-
+tags: ["announcement", "development", "education"]
 ---
 
 

@@ -5,7 +5,7 @@ description: A collection graphics that can be used to promote Ethereum Classic
 intro: As Ethereum Classic is permissionless, there are no *official* brand guidelines for Ethereum Classic. A vibrant collection of graphics has been contributed by various participants and gathered in the Media Kit repository.
 button: 
   name: Go to Media Kit Repository
-  to: https://github.com/ethereumclassic/Media_Kit
+  link: https://github.com/ethereumclassic/Media_Kit
 svgsIntro: >
   ## SVG Logos
 

@@ -36,6 +36,6 @@ warning:
   title: Hard Fork Alert
   description: Ethereum Classic's Phoenix upgrade is planned for June, 2020 on block 10,500,839. If you run an ETC node, please update to a compatible client.
   button: 
-    to: /development/clients
+    link: /development/clients
     text: Update
 

@@ -2,6 +2,7 @@
 title: "ETC Newsletter : 2016-10-24 - 2016-11-01"
 date: 2016-11-01
 author: Carlo Vicari
+tags: ["announcement", "development", "teams", "education"]
 ---
 
 ## Links

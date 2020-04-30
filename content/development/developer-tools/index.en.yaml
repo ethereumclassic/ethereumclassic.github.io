@@ -22,67 +22,67 @@ content:
       - 
         key: AnyCoinDirect
         name: AnyCoinDirect 
-        to: https://anycoindirect.eu/en/buy-ethereum-classic
+        link: https://anycoindirect.eu/en/buy-ethereum-classic
       - 
         key: Bit4Sale
         name: Bit4Sale 
-        to: https://bit4.sale/
+        link: https://bit4.sale/
       - 
         key: Bitladon
         name: Bitladon 
-        to: https://www.bitladon.com/ethereum-classic
+        link: https://www.bitladon.com/ethereum-classic
       - 
         key: CoinsBee
         name: CoinsBee 
-        to: https://www.coinsbee.com/
+        link: https://www.coinsbee.com/
       - 
         key: CoinDirect
         name: CoinDirect 
-        to: https://www.coindirect.com/
+        link: https://www.coindirect.com/
       - 
         key: CoinGate
         name: CoinGate 
-        to: https://coingate.com/
+        link: https://coingate.com/
       - 
         key: Coinmerce
         name: Coinmerce 
-        to: https://coinmerce.io/
+        link: https://coinmerce.io/
       - 
         key: CoinPayments
         name: CoinPayments 
-        to: https://www.coinpayments.net/
+        link: https://www.coinpayments.net/
       - 
         key: Cryptomate
         name: Cryptomate 
-        to: https://cryptomate.co.uk/buy-ethereum-classic/
+        link: https://cryptomate.co.uk/buy-ethereum-classic/
       - 
         key: Cryptonator Merchant
         name: Cryptonator Merchant 
-        to: https://www.cryptonator.com/merchant/
+        link: https://www.cryptonator.com/merchant/
       - 
         key: Fud Desk
         name: Fud Desk 
-        to: https://fuddesk.com/buy-crypto
+        link: https://fuddesk.com/buy-crypto
       - 
         key: LiteBit
         name: LiteBit 
-        to: https://www.litebit.eu/en/buy/ethereumclassic#rate-tile-ethereumclassic
+        link: https://www.litebit.eu/en/buy/ethereumclassic#rate-tile-ethereumclassic
       - 
         key: NOWPayments
         name: NOWPayments 
-        to: https://nowpayments.io/
+        link: https://nowpayments.io/
       - 
         key: Paxful
         name: Paxful 
-        to: https://paxful.com/sell-bitcoin/ethereum-classic-etc
+        link: https://paxful.com/sell-bitcoin/ethereum-classic-etc
       - 
         key: RoundlyX
         name: RoundlyX 
-        to: https://www.roundlyx.com/
+        link: https://www.roundlyx.com/
       - 
         key: Utrust
         name: Utrust 
-        to: https://utrust.com/
+        link: https://utrust.com/
   -
     key: tooling
     type: links
@@ -92,95 +92,95 @@ content:
       - 
         key: BUIDL IDE
         name: BUIDL IDE
-        to: https://buidl.secondstate.io/etc
+        link: https://buidl.secondstate.io/etc
         description: Second State BUIDL IDE is a web-based IDE that requires no software download or install. It provides a one-stop development and deployment environment for smart contract and dapp developers.
       - 
         key: Dappkit
         name: Dappkit
-        to: https://dappkit.io/
+        link: https://dappkit.io/
         description: A ledger-agnostic, high-performance infrastructure and libraries for developers to build and scale decentralized applications. In short, collaborative Firebase for Dapps.
       - 
         key: Embark Framework
         name: Embark Framework
-        to: https://framework.embarklabs.io/
+        link: https://framework.embarklabs.io/
         description: Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
       - 
         key: Emerald Platform
         name: Emerald Platform
-        to: https://github.com/ETCDEVTeam/emerald-platform
+        link: https://github.com/ETCDEVTeam/emerald-platform
         description: Platform for building Dapps for ETC blockchain.
       - 
         key: ESerialize
         name: ESerialize
-        to: https://eserialize.com/?input=string&output=hex
+        link: https://eserialize.com/?input=string&output=hex
         description: The goal of this module is to provide easy functions to serialize and deserialize data for the Ethereum Stack.
       - 
         key: Ethereum JSON-RPC API
         name: Ethereum JSON-RPC API
-        to: https://github.com/etclabscore/ethereum-json-rpc-specification
+        link: https://github.com/etclabscore/ethereum-json-rpc-specification
         description: A specification of JSON-RPC methods that an EVM-based blockchain client must implement.
       - 
         key: Eth Fiddle
         name: Eth Fiddle
-        to: https://ethfiddle.com/
+        link: https://ethfiddle.com/
         description: Online editor for smart contracts.
       - 
         key: EVM-LLVM
         name: EVM-LLVM
-        to: https://github.com/etclabscore/evm_llvm
+        link: https://github.com/etclabscore/evm_llvm
         description: Not only can developers use a large scope of programming languages (Rust for smart contracts!) other than Solidity to target the Ethereum Virtual Machine (EVM), they can also immediately benefit from various development tools built around LLVM infrastructure.
       - 
         key: Ganache
         name: Ganache
-        to: https://www.trufflesuite.com/ganache
+        link: https://www.trufflesuite.com/ganache
         description: Personal Ethereum blockchain to run tests.
       - 
         key: Jade Suite
         name: Jade Suite
-        to: https://jade.builders/
+        link: https://jade.builders/
         description: The Jade suite of tools empowers developers to create peer-to-peer decentralized applications on top of EVM-based blockchains like Ethereum Classic.
       - 
         key: Mythx
         name: Mythx
-        to: https://mythx.io/
+        link: https://mythx.io/
         description: MythX is the premier security analysis service for Ethereum smart contracts. Our mission is to ensure development teams avoid costly errors and make Ethereum a more secure and trustworthy platform.
       - 
         key: Open-RPC
         name: Open-RPC
-        to: https://open-rpc.org/
+        link: https://open-rpc.org/
         description: The OpenRPC Specification defines a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs.
       - 
         key: OpenZeppelin
         name: OpenZeppelin
-        to: https://openzeppelin.org/
+        link: https://openzeppelin.org/
         description: Battle-tested framework of secure, reusable smart contracts.
       - 
         key: Quorum
         name: Quorum
-        to: https://www.goquorum.com/
+        link: https://www.goquorum.com/
         description: Quorum is an open source blockchain platform that combines the innovation of the public Ethereum community with enhancements to support enterprise needs.
       - 
         key: Remix Online IDE
         name: Remix Online IDE
-        to: https://remix.ethereum.org/
+        link: https://remix.ethereum.org/
         description: A useful in-browser IDE that can compile and publish smart contracts to various Ethereum networks. Includes a linter.
       - 
         key: Signatory
         name: Signatory
-        to: https://signatory.dev/
+        link: https://signatory.dev/
         description: An offline transaction and message signer for the Ethereum Stack.
       - 
         key: SOLL
         name: SOLL
-        to: https://github.com/second-state/soll
+        link: https://github.com/second-state/soll
         description: The LLVM compiler is finally coming to Solidity. With it, we can easily create smart contracts across multiple blockchain VMs. The EVM on Ethereum Classic and ETH 2.0's eWASM are among the first we support.
       - 
         key: Sputnikvm
         name: Sputnikvm
-        to: https://github.com/ETCDEVTeam/sputnikvm
+        link: https://github.com/ETCDEVTeam/sputnikvm
         description: SputnikVM is an open source standalone implementation of Ethereum Virtual Machine (EVM). It aims to be an efficient, pluggable virtual machine for different Ethereum-based blockchains.
       - 
         key: Truffle Suite
         name: Truffle Suite
-        to: https://www.trufflesuite.com/
+        link: https://www.trufflesuite.com/
         description: A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.

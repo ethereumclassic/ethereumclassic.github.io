@@ -2,6 +2,7 @@
 title: ETC's 5M20 Era3 - Block Reward Reduction
 date: 2020-03-17
 author: Matthew Mazur
+tags: ["announcement", "development", "education", "teams", "hardfork"]
 ---
 
 # ECIP 1017: Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule

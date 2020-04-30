@@ -25,7 +25,7 @@ const InfoGroup = ({ data: { items, buttons } }) => {
             </div>
           )}
           <h3>
-            <Link to={item.to}>{item.name}</Link>
+            <Link to={item.link}>{item.name}</Link>
           </h3>
           <div className="clear" />
           {item.description && <p>{item.description}</p>}

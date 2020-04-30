@@ -8,7 +8,7 @@ const HomePlain = ({ data: i18n }) => {
       <div className="container">
         <Md>{i18n.text}</Md>
         {i18n.button && (
-          <Link button next to={i18n.button.to}>
+          <Link button next to={i18n.button.link}>
             {i18n.button.text}
           </Link>
         )}

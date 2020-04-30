@@ -2,6 +2,7 @@
 title: Couple Values That Forked Ethereum Broke
 date: 2016-08-10
 author: ProphetDaniel
+tags: ["announcement", "development", "teams", "hardfork", "education"]
 ---
 
 ![Ethereum Classic's vision](./ZUUnHcH.png "Gandalf at Ethereum Classic")
@@ -16,8 +17,8 @@ ___________________________
 
 As a consequence of that decision we ([Ethereum Classic](https://ethereumclassic.org)), as a community, organized a movement to protect what is important for the future of society.
 
-This movement gained [increadible traction](http://www.livebitcoinnews.com/ethereum-classic-overtakes-ripple-and-steem/) due to the philosophic allignment of many people with our [values proposition](https://github.com/ethereumclassic/README/issues/33).
+This movement gained [incredible traction](http://www.livebitcoinnews.com/ethereum-classic-overtakes-ripple-and-steem/) due to the philosophic alignment of many people with our [values proposition](https://github.com/ethereumclassic/README/issues/33).
 
-The community formed around these core values is so vibrating and captivating that investors were attracted as light to a nearby black hole resulting in one of the most proeminent blockchains in market capitalization and daily trade volume.
+The community formed around these core values is so vibrating and captivating that investors were attracted as light to a nearby black hole resulting in one of the most prominent blockchains in market capitalization and daily trade volume.
 
 History will tell why these values are so important for an organization.

@@ -5,16 +5,16 @@ items:
   -
     key: ETCGas
     name: ETCGas
-    to: http://etcgas.net
+    link: http://etcgas.net
   - 
     key: EtherGas
     name: EtherGas
-    to: http://etc.ethergas.net
+    link: http://etc.ethergas.net
   - 
     key: Expedition
     name: Expedition
-    to: https://expedition.dev/?network=mainnet
+    link: https://expedition.dev/?network=mainnet
   - 
     key: GasGauge
     name: GasGauge
-    to: http://etc.gasgauge.org
+    link: http://etc.gasgauge.org
