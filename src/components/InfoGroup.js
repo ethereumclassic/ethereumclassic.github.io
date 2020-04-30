@@ -8,12 +8,9 @@ function renderButton({ button, item }) {
     return null;
   }
   return (
-    <React.Fragment key={button.key}>
-      <Link button to={link} icon={icon}>
-        {button.name}
-      </Link>
-      {'  '}
-    </React.Fragment>
+    <Link button to={link} icon={icon} key={button.key}>
+      {button.name}
+    </Link>
   );
 }
 
@@ -23,7 +20,7 @@ const InfoGroup = ({ data: { items, buttons } }) => {
       {items.map(item => (
         <div key={item.key} className="cell">
           {buttons && (
-            <div className="buttons float-right">
+            <div className="buttons merged float-right">
               {buttons.map(button => renderButton({ button, item }))}
             </div>
           )}

@@ -1,3 +1,5 @@
+title: Miner Software
+description: "*Mining Algorithm: Ethash*"
 type: table
 columns:
   -
@@ -14,11 +16,11 @@ columns:
     checkRef: windowsNvidia
   - 
     key: linuxAmd
-    name: Linus AMD
+    name: Linux AMD
     checkRef: linuxAmd
   - 
     key: linuxNvidia
-    name: Linus Nvidia
+    name: Linux Nvidia
     checkRef: linuxNvidia
   -
     key: guide

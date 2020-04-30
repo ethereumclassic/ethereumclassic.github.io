@@ -30,7 +30,13 @@ export function sortBy(key, items) {
   if (!key) {
     return items;
   }
-  return items.sort((a, b) => a[key].toLowerCase().localeCompare(b[key].toLowerCase()));
+  return items.sort((a, b) => `${a[key]}`.toLowerCase().localeCompare(`${b[key]}`.toLowerCase()));
+}
+
+export function filterAndSortItems(items, { filter, sort }) {
+  const filtered = filter ? items.filter(i => i[filter]) : items;
+  const sorted = sort ? sortBy(sort, filtered) : filtered;
+  return sorted;
 }
 
 export function pad(num, width, z = '0') {
