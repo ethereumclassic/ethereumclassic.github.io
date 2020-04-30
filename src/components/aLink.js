@@ -16,7 +16,6 @@ function isExternal(str) {
   );
 }
 
-// list of classes that never show the external link icon
 const externalIconBlacklist = ['gatsby-resp-image-link', 'card', 'button-link'];
 
 function getIconText({ back, next, icon, brand }) {
