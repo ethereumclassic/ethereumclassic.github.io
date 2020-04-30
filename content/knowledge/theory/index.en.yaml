@@ -6,107 +6,108 @@ intro: |
 
   This section of the Ethereum Classic website contains articles focused on the philosophy that keeps the immutable, original version of the Ethereum network running.
 content:
-  type: links
-  items:
-    - 
-      key: Declaration of Independence
-      name: Declaration of Independence
-      to: /blog/2016-08-13-declaration-of-independence
-      description: One of Ethereum Classic's early founding documents. A statement of it's cause, a list of grievances, and a description of it's principles and goals.
-    - 
-      key: A Crypto-Decentralist Manifesto
-      name: A Crypto-Decentralist Manifesto
-      to: /blog/2016-07-11-manifesto
-      description: Another influential document from Ethereum Classic's early days. It outlines the core values of decentralization.
-    - 
-      key: Ethereum Classic Vision
-      name: Ethereum Classic Vision
-      to: https://etherplan.com/2019/08/14/ethereum-classic-vision/8595/
-      description: How Ethereum Classic will be a successful computing platform and why ETC is an excellent store of value.
-    - 
-      key: Ethereum Classic vs. Ethereum 2.0, What is the Difference?
-      name: Ethereum Classic vs. Ethereum 2.0, What is the Difference?
-      to: https://etherplan.com/2019/07/23/ethereum-classic-vs-ethereum-2-0-what-is-the-difference/8425/
-      description: It can be said that Ethereum Classic is a conservatively run system, focused on security, and the upcoming Ethereum 2.0 is a progressively run system, focused on performance.
-    - 
-      key: Phyro's Recap of ETC History
-      name: Phyro's Recap of ETC History
-      to: https://phyro.github.io/etc-history/
-      description: | 
-        A detailed overview of the story behind ETC by a long term ETCer.
-        *You can also read more about ETC history on the [roadmap](/knowledge/roadmap).*
-    - 
-      key: /blog/2016-12-06-why/
-      name: Why Would I Choose To Run My Application On Ethereum / Classic Instead Of The World Wide Web?
-      description: Benefits over the World Wide Web
-      to: /blog/2016-12-06-why/
-    - 
-      key: Into the Ether with Ethereum Classic
-      name: Into the Ether with Ethereum Classic
-      to: https://grayscale.co/insights/into-the-ether-with-ethereum-classic/
-      description: The Store of Value Commodity to Power the Internet of Things
-    -  
-      key: Ethereum Classic Principles  
-      name: Ethereum Classic Principles
-      to: https://etherplan.com/2019/08/14/ethereum-classic-principles/8575/
-      description: A high level overview of the foundational principles of ETC
-    - 
-      key: Ethereum Classic Opportunities
-      name: Ethereum Classic Opportunities
-      to: https://etherplan.com/2019/08/14/ethereum-classic-opportunities/8614/
-      description: An overview of the wild potential of Ethereum Classic
-    - 
-      key: How to Have a Vision for Ethereum Classic Without Creating a Governance Orgy
-      name: How to Have a Vision for Ethereum Classic Without Creating a Governance Orgy
-      to: https://etherplan.com/2019/07/22/how-to-have-a-vision-for-ethereum-classic-without-creating-a-governance-orgy/8359/
-      description: An approach to maintaining progress whilst avoiding the problems of blockchain governance
-    - 
-      key: The Ethereum Classic vs Ethereum 1.x Dichotomy
-      name: The Ethereum Classic vs Ethereum 1.x Dichotomy
-      to: https://etherplan.com/2019/09/18/the-ethereum-classic-vs-ethereum-1-x-dichotomy/8752/
-      description: What will be ETC's relationship with ETH 1.X when Ethereum moves to Proof of Stake?
-    - 
-      key: The Ethereum Classic Monetary Policy Explained
-      name: The Ethereum Classic Monetary Policy Explained
-      to: https://etherplan.com/2020/02/25/the-ethereum-classic-monetary-policy-explained/10025/
-      description: The current Ethereum Classic (ETC) monetary policy seeks the same goals as Bitcoin of being mechanical, algorithmic, and capped, thus sound and trust minimized.
-    -
-      key: Why Proof of Stake is Less Secure Than Proof of Work
-      name: Why Proof of Stake is Less Secure Than Proof of Work
-      to: https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/
-      description: By anchoring to a proof of work physical base, the subjective layer acquires orders of magnitude more objectivity, thus security.
-    - 
-      key: The idea of Smart Contracts
-      name: The idea of Smart Contracts
-      to: https://web.archive.org/web/20020316215014/http://szabo.best.vwh.net/idea.html
-      description: Nick Szabo's idea of smart contracts post from 1997.
-    - 
-      key: "Bitcoin: A Peer-to-Peer Electronic Cash System"
-      name: "Bitcoin: A Peer-to-Peer Electronic Cash System"
-      to: https://bitcoin.org/en/bitcoin-paper
-      description: Satoshi Nakamoto's original paper is still recommended reading for anyone studying how Bitcoin works.
-    - 
-      key: Making Smart Contracts Smarter
-      name: Making Smart Contracts Smarter
-      to: https://eprint.iacr.org/2016/633.pdf
-      description: Smart contract security attacks.
-    - 
-      key: Ethereum Classic (ETC) Wiki
-      name: Ethereum Classic (ETC) Wiki
-      to: https://github.com/ethereumclassic/wiki/wiki
-      description: Some of the core philosophies of Ethereum's ETC chain.
-    - 
-      key: Ethereum Classic (ETC) Improvement Proposals
-      name: Ethereum Classic (ETC) Improvement Proposals
-      to: https://ecips.ethereumclassic.org/
-      description: Standards for the Ethereum's ETC platform, including core protocol specifications, client APIs, and contract standards (ECIPs).
-    - 
-      key: Ethereum (ETH) Wiki
-      name: Ethereum (ETH) Wiki
-      to: https://github.com/ethereum/wiki/wiki
-      description: Some of the core philosophies of Ethereum's ETH chain.
-    - 
-      key: Ethereum Improvement Proposals
-      name: Ethereum (ETH) Improvement Proposals
-      to: https://eips.ethereum.org/
-      description: Standards for Ethereum's ETH platform, including core protocol specifications, client APIs, and contract standards (EIPS).
+  -
+    type: links
+    items:
+      - 
+        key: Declaration of Independence
+        name: Declaration of Independence
+        to: /blog/2016-08-13-declaration-of-independence
+        description: One of Ethereum Classic's early founding documents. A statement of it's cause, a list of grievances, and a description of it's principles and goals.
+      - 
+        key: A Crypto-Decentralist Manifesto
+        name: A Crypto-Decentralist Manifesto
+        to: /blog/2016-07-11-manifesto
+        description: Another influential document from Ethereum Classic's early days. It outlines the core values of decentralization.
+      - 
+        key: Ethereum Classic Vision
+        name: Ethereum Classic Vision
+        to: https://etherplan.com/2019/08/14/ethereum-classic-vision/8595/
+        description: How Ethereum Classic will be a successful computing platform and why ETC is an excellent store of value.
+      - 
+        key: Ethereum Classic vs. Ethereum 2.0, What is the Difference?
+        name: Ethereum Classic vs. Ethereum 2.0, What is the Difference?
+        to: https://etherplan.com/2019/07/23/ethereum-classic-vs-ethereum-2-0-what-is-the-difference/8425/
+        description: It can be said that Ethereum Classic is a conservatively run system, focused on security, and the upcoming Ethereum 2.0 is a progressively run system, focused on performance.
+      - 
+        key: Phyro's Recap of ETC History
+        name: Phyro's Recap of ETC History
+        to: https://phyro.github.io/etc-history/
+        description: | 
+          A detailed overview of the story behind ETC by a long term ETCer.
+          *You can also read more about ETC history on the [roadmap](/knowledge/roadmap).*
+      - 
+        key: /blog/2016-12-06-why/
+        name: Why Would I Choose To Run My Application On Ethereum / Classic Instead Of The World Wide Web?
+        description: Benefits over the World Wide Web
+        to: /blog/2016-12-06-why/
+      - 
+        key: Into the Ether with Ethereum Classic
+        name: Into the Ether with Ethereum Classic
+        to: https://grayscale.co/insights/into-the-ether-with-ethereum-classic/
+        description: The Store of Value Commodity to Power the Internet of Things
+      -  
+        key: Ethereum Classic Principles  
+        name: Ethereum Classic Principles
+        to: https://etherplan.com/2019/08/14/ethereum-classic-principles/8575/
+        description: A high level overview of the foundational principles of ETC
+      - 
+        key: Ethereum Classic Opportunities
+        name: Ethereum Classic Opportunities
+        to: https://etherplan.com/2019/08/14/ethereum-classic-opportunities/8614/
+        description: An overview of the wild potential of Ethereum Classic
+      - 
+        key: How to Have a Vision for Ethereum Classic Without Creating a Governance Orgy
+        name: How to Have a Vision for Ethereum Classic Without Creating a Governance Orgy
+        to: https://etherplan.com/2019/07/22/how-to-have-a-vision-for-ethereum-classic-without-creating-a-governance-orgy/8359/
+        description: An approach to maintaining progress whilst avoiding the problems of blockchain governance
+      - 
+        key: The Ethereum Classic vs Ethereum 1.x Dichotomy
+        name: The Ethereum Classic vs Ethereum 1.x Dichotomy
+        to: https://etherplan.com/2019/09/18/the-ethereum-classic-vs-ethereum-1-x-dichotomy/8752/
+        description: What will be ETC's relationship with ETH 1.X when Ethereum moves to Proof of Stake?
+      - 
+        key: The Ethereum Classic Monetary Policy Explained
+        name: The Ethereum Classic Monetary Policy Explained
+        to: https://etherplan.com/2020/02/25/the-ethereum-classic-monetary-policy-explained/10025/
+        description: The current Ethereum Classic (ETC) monetary policy seeks the same goals as Bitcoin of being mechanical, algorithmic, and capped, thus sound and trust minimized.
+      -
+        key: Why Proof of Stake is Less Secure Than Proof of Work
+        name: Why Proof of Stake is Less Secure Than Proof of Work
+        to: https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/
+        description: By anchoring to a proof of work physical base, the subjective layer acquires orders of magnitude more objectivity, thus security.
+      - 
+        key: The idea of Smart Contracts
+        name: The idea of Smart Contracts
+        to: https://web.archive.org/web/20020316215014/http://szabo.best.vwh.net/idea.html
+        description: Nick Szabo's idea of smart contracts post from 1997.
+      - 
+        key: "Bitcoin: A Peer-to-Peer Electronic Cash System"
+        name: "Bitcoin: A Peer-to-Peer Electronic Cash System"
+        to: https://bitcoin.org/en/bitcoin-paper
+        description: Satoshi Nakamoto's original paper is still recommended reading for anyone studying how Bitcoin works.
+      - 
+        key: Making Smart Contracts Smarter
+        name: Making Smart Contracts Smarter
+        to: https://eprint.iacr.org/2016/633.pdf
+        description: Smart contract security attacks.
+      - 
+        key: Ethereum Classic (ETC) Wiki
+        name: Ethereum Classic (ETC) Wiki
+        to: https://github.com/ethereumclassic/wiki/wiki
+        description: Some of the core philosophies of Ethereum's ETC chain.
+      - 
+        key: Ethereum Classic (ETC) Improvement Proposals
+        name: Ethereum Classic (ETC) Improvement Proposals
+        to: https://ecips.ethereumclassic.org/
+        description: Standards for the Ethereum's ETC platform, including core protocol specifications, client APIs, and contract standards (ECIPs).
+      - 
+        key: Ethereum (ETH) Wiki
+        name: Ethereum (ETH) Wiki
+        to: https://github.com/ethereum/wiki/wiki
+        description: Some of the core philosophies of Ethereum's ETH chain.
+      - 
+        key: Ethereum Improvement Proposals
+        name: Ethereum (ETH) Improvement Proposals
+        to: https://eips.ethereum.org/
+        description: Standards for Ethereum's ETH platform, including core protocol specifications, client APIs, and contract standards (EIPS).
