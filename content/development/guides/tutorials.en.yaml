@@ -78,6 +78,11 @@
   title: Analyzing Ethereum Classic with Google BigQuery
   link: https://medium.com/ethereum-classic/analyzing-ethereum-classic-with-google-bigquery-df55822ec6a6
   text: A guide to using BigQuery to analyze Ethereum Classic. The guide uses the example of quantifying decentralization in Ethereum Classic. 
+- 
+  key: Creating Your Own Smart Contract Languages Using LLVM
+  title: Creating Your Own Smart Contract Languages Using LLVM
+  link: https://medium.com/etc-core/creating-your-own-smart-contract-languages-using-llvm-a83a9aa1e0c1
+  text: This article shows how we can use EVM-LLVM to make the Kaleidoscope toy language to generate blockchain-deployable smart contracts.
 -
   key: Continuity for an Augmented world
   title: Continuity for an Augmented world

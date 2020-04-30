@@ -9,11 +9,19 @@
   name: Astor Explorer
   astor: https://explore.astor.host/
 -
+  key: Bitquery
+  name: Bitquery
+  etc: https://explorer.bitquery.io/ethclassic/
+-
   key: BlockScout
   name: BlockScout
   etc: https://blockscout.com/etc/mainnet/
   kotti: https://blockscout.com/etc/kotti/
   mordor: https://blockscout.com/etc/mordor/
+-
+  key: BridgetteBot
+  name: Bridgette Bot
+  etc: https://discordapp.com/invite/HW4GckH
 -
   key: Emerald Receipt
   name: Emerald Receipt
