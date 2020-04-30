@@ -135,3 +135,19 @@
   border-radius: $roundedTight;
 }
 
+
+.page-missing {
+  max-width: 30rem;
+  margin: auto;
+  text-align: center;
+  padding: $hugePadding $smallPadding;
+
+  img {
+    max-width: 3rem;
+    margin: $tinyPadding;
+  }
+
+  h2 {
+    margin: $tinyPadding;
+  }
+}
