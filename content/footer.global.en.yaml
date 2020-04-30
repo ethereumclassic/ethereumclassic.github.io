@@ -79,7 +79,7 @@ buttons:
     icon: sitemap
   -
     key: rss
-    to: /blog
+    to: /news
     name: RSS Feeds
     icon: rss
 signOff: Made with `<3` for the original Ethereum vision

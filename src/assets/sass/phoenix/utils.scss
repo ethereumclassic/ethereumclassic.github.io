@@ -75,10 +75,17 @@
 }
 
 .tip {
-  background: _palette('accent-bg');
+  background: _palette(accent-bg);
   padding: $microPadding $tinyPadding;
   border-radius: $roundedTight;
+  font-size: 0.9rem;
+  line-height: 1.5rem;
   margin: $microPadding 0;
+  color: _palette(accent-dark);
+  i.info {
+    color: _palette(accent-border);
+    margin-right: $microPadding;
+  }
 }
 
 .shaded {

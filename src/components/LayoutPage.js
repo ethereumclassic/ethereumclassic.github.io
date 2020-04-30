@@ -5,6 +5,7 @@ import SectionMenu from './SectionMenu';
 import PageHeader from './PageHeader';
 
 import Md from './Markdown';
+import LicenseTip from './LicenseTip';
 
 const LayoutPage = props => {
   const {
@@ -19,7 +20,16 @@ const LayoutPage = props => {
       <PageHeader {...pageContext} />
       <div className="contents">
         <div className="contained">
-          <SectionMenu {...pageContext} slim />
+          <div className="content-header">
+            <SectionMenu {...pageContext} slim />
+            {i18n.disclaimer && (
+              <div className="tip">
+                <i className="info fas fa-exclamation-triangle" />
+                {'  '}
+                {i18n.globals.ui.disclaimer}
+              </div>
+            )}
+          </div>
           {!noIntro && (i18n.title || i18n.intro) && (
             <div className="intro">
               <h1>{i18n.title}</h1>
@@ -27,7 +37,15 @@ const LayoutPage = props => {
             </div>
           )}
           {children}
-          <SectionMenu {...pageContext} />
+          <div className="content-footer">
+            {i18n.contribute && (
+              <div className="tip">
+                <Md unwrap>{i18n.globals.ui.contribute}</Md>
+              </div>
+            )}
+            <LicenseTip i18n={i18n} />
+            <SectionMenu {...pageContext} />
+          </div>
         </div>
       </div>
     </LayoutWithMenu>
