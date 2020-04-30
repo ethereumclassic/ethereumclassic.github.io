@@ -12,7 +12,12 @@ const Menu = ({ items, list, className, onClick }) => {
           <Link to={i.to} onClick={onClick}>
             {i.name}
           </Link>
-          {i.tip && <small>{` ${i.tip}`}</small>}
+          {i.tip && (
+            <>
+              {'  '}
+              <small>{i.tip}</small>
+            </>
+          )}
         </Item>
       ))}
     </Wrapper>

@@ -19,19 +19,20 @@ function isExternal(str) {
 const externalIconBlacklist = ['gatsby-resp-image-link', 'card', 'button-link'];
 
 function getIconText({ back, next, icon, brand }) {
+  const icons = {};
   if (back) {
-    return 'fas fa-angle-left';
+    icons.leftIcon = 'fas fa-angle-left';
   }
   if (next) {
-    return 'fas fa-angle-right';
+    icons.rightIcon = 'fas fa-angle-right';
   }
   if (brand) {
-    return `fab fa-${brand}`;
+    icons.rightIcon = `fab fa-${brand}`;
   }
   if (icon) {
-    return icon.includes(' ') ? icon : `fas fa-${icon}`;
+    icons.rightIcon = icon.includes(' ') ? icon : `fas fa-${icon}`;
   }
-  return null;
+  return icons;
 }
 
 const Link = ({
@@ -53,16 +54,16 @@ const Link = ({
   onClick,
   ...props
 }) => {
-  const iconText = getIconText({ brand, back, next, icon });
+  const { leftIcon, rightIcon } = getIconText({ brand, back, next, icon });
   const className = `${button ? 'button-link ' : ''}${!button && !children ? 'icon' : ''}${_c ||
     ''}`;
   const to = _to || link;
   const passedProps = { title, className, style, onClick };
   const content = (
     <>
-      {back && iconText && <i className={`${iconText} left`} />}
-      {children || (iconText && name && <span className="label">{name}</span>)}
-      {!back && iconText && <i className={`${iconText} right ${!children && 'left'}`} />}
+      {leftIcon && <i className={`${leftIcon} left`} />}
+      {children || (rightIcon && name && <span className="label">{name}</span>)}
+      {rightIcon && <i className={`${rightIcon} right ${!children && 'left'}`} />}
     </>
   );
   if (isHash(to)) {

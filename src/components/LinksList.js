@@ -10,7 +10,12 @@ const LinksList = ({ data: { items } }) => {
         <React.Fragment key={key}>
           <h3>
             <Link to={to}>{name}</Link>
-            {tip && <small>{` ${tip}`}</small>}
+            {tip && (
+              <>
+                {'  '}
+                <small>{tip}</small>
+              </>
+            )}
           </h3>
           <Md>{description}</Md>
         </React.Fragment>
