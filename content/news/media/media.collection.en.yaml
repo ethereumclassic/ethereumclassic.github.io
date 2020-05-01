@@ -7,11 +7,32 @@
   tags: ["announcement", "development", "hardfork", "mining"]
 -
   date: 2020-04-30
+  link: https://etccooperative.org/posts/2020-04-30-etc-cooperative-q1-2020-transparency-report
+  author: ETC Coop
+  source: Ethereum Classic Cooperative
+  title: "ETC Cooperative Q1 2020 Transparency Report"
+  tags: ["announcement", "teams"]
+-
+  date: 2020-04-30
   link: https://medium.com/@masterhax/introducing-commonwealth-tribes-5d206890e6a6
   author: Commonwealth
   source: Commonwealth.gg
   title: "Introducing Commonwealth Tribes"
   tags: ["announcement", "application"]
+-
+  date: 2020-04-30
+  link: https://medium.com/@nesterenkoi565/how-to-recover-ethereum-classic-sent-to-ethereum-address-691aca046f3e
+  author: Nesterenkoi Tedhin
+  source: Medium
+  title: "How to Recover Ethereum Classic sent to Ethereum address"
+  tags: ["education", "guide"]
+-
+  date: 2020-04-30
+  link: https://medium.com/@nesterenkoi565/how-to-recover-ethereum-sent-to-an-ethereum-classic-address-832d56a7d6d9
+  author: Nesterenkoi Tedhin
+  source: Medium
+  title: "How to Recover Ethereum Sent to an Ethereum Classic Address"
+  tags: ["education", "guide"]
 -
   date: 2020-04-28
   link: https://medium.com/etc-core/creating-your-own-smart-contract-languages-using-llvm-a83a9aa1e0c1
