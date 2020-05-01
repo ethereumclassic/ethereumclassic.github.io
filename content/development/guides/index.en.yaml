@@ -56,6 +56,21 @@ content:
         link: https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e
         description: Create a gambling DApp using Metamask, Truffle, Remix, React and IPFS.
       - 
+        key: How to write secure smart contracts
+        name: How to write secure smart contracts
+        link: https://www.saturn.network/blog/how-to-write-secure-smart-contracts/
+        description: A review of programming languages and best practises to help you write secure smart contracts.
+      - 
+        key: How to create a token and ICO on Ethereum Classic
+        name: How to create a token and ICO on Ethereum Classic
+        link: https://forum.saturn.network/t/how-to-create-a-token-and-ico-on-ethereum-classic/1307
+        description: After you go through this guide, you will learn how to create an ERC223 token on Ethereum Classic blockchain and an ICO for this token.
+      - 
+        key: How to use Brave Browser with Ethereum dApps
+        name: How to use Brave Browser with Ethereum dApps
+        link: https://www.saturn.network/blog/how-to-use-brave-browser-with-ethereum-dapps/
+        description: Brave Browser is the most simple and secure way to access DApps on Ethereum blockchain. Web 3.0 is finally accessible for everybody!
+      - 
         key: Vyper and Brownie Contract Development on EVM Chains
         name: Vyper and Brownie Contract Development on EVM Chains
         link: https://medium.com/ethereum-classic/vyper-and-brownie-contract-development-on-evm-chains-85ba7fa2feef
@@ -95,6 +110,11 @@ content:
         name: Creating Your Own Smart Contract Languages Using LLVM
         link: https://medium.com/etc-core/creating-your-own-smart-contract-languages-using-llvm-a83a9aa1e0c1
         description: This article shows how we can use EVM-LLVM to make the Kaleidoscope toy language to generate blockchain-deployable smart contracts.
+      -
+        key: ERC20 to ERC223 upgrade path
+        name: ERC20 to ERC223 upgrade path
+        link: https://www.saturn.network/blog/erc20-erc223-upgrade-path/
+        description: ERC223 is a modern token standard that has cheaper fees and protects investors from losing tokens. Team Saturn shows how to upgrade existing ERC20 tokens.
       -
         key: Continuity for an Augmented world
         name: Continuity for an Augmented world
