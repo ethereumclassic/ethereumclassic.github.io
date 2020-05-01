@@ -25,6 +25,7 @@ Also, it is important to be familiar with the strong objections described in the
 - [The History & Future Of Ethereum Classic - By Charles Hoskinson](https://youtu.be/SQZB3pAhjP4)
 - [Gavin Wood presentation hack of the DAO smart contract and options Ethereum community](https://youtu.be/KaOGtH7J0WE)
 - [Gavin Wood on how $60M hack of DAO happened and what to do next](https://youtu.be/JzCGRtGyxvY)
+- [Understanding smart contracts & The DAO hack in detail](https://youtu.be/AfyB1VlnLNU)
 - [How to Recover Ethereum Classic sent to Ethereum address](https://medium.com/@nesterenkoi565/how-to-recover-ethereum-classic-sent-to-ethereum-address-691aca046f3e)
 - [How to Recover Ethereum Sent to an Ethereum Classic Address](https://medium.com/@nesterenkoi565/how-to-recover-ethereum-sent-to-an-ethereum-classic-address-832d56a7d6d9)
 
