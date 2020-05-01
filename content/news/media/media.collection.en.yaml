@@ -942,7 +942,7 @@
   author: Commonwealth
   source: Commonwealth.gg
   title: "Big News: P3C.io is now Rebranding to Commonwealth.gg"
-  tags: ["announcement", "development", "application"]
+  tags: ["announcement", "application"]
 -
   date: 2019-11-28
   link: https://www.youtube.com/watch?v=7mmQHtUxdqU
@@ -1126,21 +1126,7 @@
   title: "Ethereum Classic Labs Presents: W3 Engineers"
   tags: ["announcement", "development", "teams", "application"]
 -
-  date: 2019-10-14
-  link: https://medium.com/@masterhax/how-do-referral-links-work-in-p3c-13c8242fd9d9
-  author: Commonwealth
-  source: Commonwealth.gg
-  title: "How do Referral Links Work in Commonwealth?"
-  tags: ["education", "guide", "application"]
--
-  date: 2019-10-10
-  link: https://youtu.be/lPrrcZFKA_4
-  author: Charles Hoskinso
-  source: Ethereum Classic Labs
-  title: "ETC Summit Speaker Spotlight: Charles Hoskinson"
-  tags: ["development", "teams", "media", "education", "podcast"]
--
-  date: 2019-09-21
+  date: 2019-10-21
   link: https://youtu.be/qMY-KsMHpMw
   author: Bob Summerwill
   source: Guarda Wallet
@@ -1175,12 +1161,26 @@
   title: "In Banking Wealth is Controlled by Providers, in Blockchain Wealth is Controlled by Owners"
   tags: ["education"]
 -
+  date: 2019-10-14
+  link: https://medium.com/@masterhax/how-do-referral-links-work-in-p3c-13c8242fd9d9
+  author: Commonwealth
+  source: Commonwealth.gg
+  title: "How do Referral Links Work in Commonwealth?"
+  tags: ["education", "guide", "application"]
+-
   date: 2019-10-12
   link: https://decrypt.co/10290/ethereum-classics-plan-to-seduce-ethereums-miners
   author: Ben Munster
   source: Decrypt
   title: "Ethereum Classic's plan to seduce Ethereum’s miners"
   tags: ["mining"]
+-
+  date: 2019-10-10
+  link: https://youtu.be/lPrrcZFKA_4
+  author: Charles Hoskinso
+  source: Ethereum Classic Labs
+  title: "ETC Summit Speaker Spotlight: Charles Hoskinson"
+  tags: ["development", "teams", "media", "education", "podcast"]
 -
   date: 2019-10-10
   link: https://sync.bloq.com/bloq-and-etc-labs-supporting-communities-building-ecosystems/
