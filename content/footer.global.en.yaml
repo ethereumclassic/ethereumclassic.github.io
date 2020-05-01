@@ -43,27 +43,27 @@ social:
     -
       key: gitHub
       brand: github
-      link: /testing
+      link: https://github.com/ethereumclassic/
       name: GitHub
     -
       key: discord
       brand: discord
-      link: /testing
+      link: https://discordapp.com/invite/HW4GckH
       name: Discord
     -
       key: telegram
       brand: telegram
-      link: /testing
+      link: https://telegram.me/ethclassic
       name: Telegram
     -
       key: reddit
       brand: reddit
-      link: /testing
+      link: https://www.reddit.com/r/EthereumClassic/
       name: Reddit
     -
       key: twitter
       brand: twitter
-      link: /testing
+      link: https://twitter.com/eth_classic
       name: Twitter
 discordTip: "**ETC participants** are most active on **discord**."
 discord: 
