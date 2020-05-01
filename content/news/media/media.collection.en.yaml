@@ -1,10 +1,17 @@
 -
+  date: 2020-04-30
+  link: https://medium.com/@masterhax/introducing-commonwealth-tribes-5d206890e6a6
+  author: Commonwealth
+  source: Commonwealth.gg
+  title: "Introducing Commonwealth Tribes"
+  tags: ["announcement", "application"]
+-
   date: 2020-04-28
   link: https://medium.com/etc-core/creating-your-own-smart-contract-languages-using-llvm-a83a9aa1e0c1
   author: Alan Li
   source: ETC Core
   title: "Creating Your Own Smart Contract Languages Using LLVM"
-  tags: ["education", "development", "application", "teams"]
+  tags: ["education", "development", "application", "teams", "guide"]
 -
   date: 2020-04-27
   link: https://thecurrencyanalytics.com/13913/ethereum-classic-etc-know-about-uncle-blocks-rates-rewards-and-discounts/
@@ -18,7 +25,7 @@
   author: Neuron
   source: Saturn Network
   title: "Roadmap: Cross Chain Atomic Swaps - Decentralized Trading between ETH/ETC via Saturn Protocol"
-  tags: ["announcement", "development", "application"]
+  tags: ["announcement", "development", "application", "education"]
 -
   date: 2020-04-21
   link: https://thecurrencyanalytics.com/13720/ethereum-classic-etc-beyond-the-fork-drama-on-blockchain-being-trustless-is-the-ultimate-mission/
@@ -552,6 +559,13 @@
   title: "ETC Upgrade Aztlan Is Now In Integration With Hyperledger Besu"
   tags: ["announcement", "teams", "development", "hardfork"]
 -
+  date: 2020-02-08
+  link: https://medium.com/@masterhax/how-to-become-a-commonwealth-airdropper-2c5d42681e5e
+  author: Commonwealth
+  source: Commonwealth.gg
+  title: "How to become a Commonwealth Airdropper"
+  tags: ["education", "guide", "application"]
+-
   date: 2020-02-06
   link: https://etherplan.com/2020/02/06/ethereum-classic-money-property-agreements-explained/9965/
   author: Donald McIntyre
@@ -923,6 +937,13 @@
   title: "P3C.io Set to Be Renamed to Commonwealth.gg by Next Year"
   tags: ["announcement", "teams"]
 -
+  date: 2019-11-29
+  link: https://medium.com/@masterhax/big-news-p3c-io-is-now-rebranding-to-commonwealth-gg-8a3c7c149815
+  author: Commonwealth
+  source: Commonwealth.gg
+  title: "Big News: P3C.io is now Rebranding to Commonwealth.gg"
+  tags: ["announcement", "development", "application"]
+-
   date: 2019-11-28
   link: https://www.youtube.com/watch?v=7mmQHtUxdqU
   author: James Wo
@@ -1104,6 +1125,13 @@
   source: Ethereum Classic Labs
   title: "Ethereum Classic Labs Presents: W3 Engineers"
   tags: ["announcement", "development", "teams", "application"]
+-
+  date: 2019-10-14
+  link: https://medium.com/@masterhax/how-do-referral-links-work-in-p3c-13c8242fd9d9
+  author: Commonwealth
+  source: Commonwealth.gg
+  title: "How do Referral Links Work in Commonwealth?"
+  tags: ["education", "guide", "application"]
 -
   date: 2019-10-10
   link: https://youtu.be/lPrrcZFKA_4
@@ -1448,6 +1476,13 @@
   title: "Alex Tsankov on Ethereum Classic, the SHA3 Mining Algorithm, and the Astor Test Net"
   tags: ["media", "education", "podcast", "mining"]
 -
+  date: 2019-08-02
+  link: https://medium.com/@masterhax/p3c-io-partnership-and-airdrop-of-ebomb-ether-classic-token-ad895f72b810
+  author: Commonwealth
+  source: Commonwealth.gg
+  title: "P3C.io Partnership and Airdrop of eBomb Ether Classic Token!"
+  tags: ["announcement", "application"]
+-
   date: 2019-07-30
   link: https://medium.com/etclabscore/ethereum-classic-labs-core-quarterly-development-review-q2-2019-969137ea3d95
   author: Stevan Lohja
@@ -1503,6 +1538,13 @@
   source: ETC Core
   title: "Ethereum Classic and Jade Suite are Enabling Truly P2P Decentralized Applications"
   tags: ["announcement", "development", "teams", "application"]
+-
+  date: 2019-07-06
+  link: https://medium.com/@masterhax/how-to-interact-with-p3c-via-web3-js-556e7101d8cc
+  author: Commonwealth
+  source: Commonwealth.gg
+  title: "How to Interact with the Commonwealth Farm/Crop via Web3.js"
+  tags: ["education", "guide", "application"]
 -
   date: 2019-07-02
   link: https://youtu.be/XAoz2voThOM
@@ -1644,6 +1686,13 @@
   title: "What’s in Atlantis? EIP-161 (State-trie clearing ) — A simplified explanation."
   tags: ["education", "hardfork"]
 -
+  date: 2019-05-23
+  link: https://medium.com/@masterhax/official-launch-of-p3c-tv-5623cceec915
+  author: Commonwealth
+  source: Commonwealth.gg
+  title: "Official Launch of P3C.tv"
+  tags: ["announcement", "application"]
+-
   date: 2019-05-21
   link: https://medium.com/@pyskell/understanding-and-mitigating-re-orgs-921c7768fa18
   author: Anthony Lusardi
@@ -1665,12 +1714,26 @@
   title: "Why There Will Only Be 3 or 4 Surviving Blockchains in the Future"
   tags: ["education"]
 -
+  date: 2019-05-12
+  link: https://medium.com/@masterhax/p3c-1-0-0-kujira-wallet-released-feature-notes-be6959a755f4
+  author: Commonwealth
+  source: Commonwealth.gg
+  title: "P3C 1.0 Kujira Wallet Released — Built for Maximal Decentralization"
+  tags: ["announcement", "application"]
+-
   date: 2019-05-08
   link: https://usethebitcoin.com/best-ethereum-classic-wallets/
   author: Cole Meiterman
   source: Use The Bitocin
   title: "Best Ethereum Classic (ETC) Wallets Of 2019 - What Are The Safest Wallets To Store ETC"
   tags: ["education", "application"]
+-
+  date: 2019-05-08
+  link: https://medium.com/@masterhax/p3c-exchange-information-17ed5d31339e
+  author: Commonwealth
+  source: Commonwealth.gg
+  title: "P3C Official Exchange Information"
+  tags: ["application"]
 -
   date: 2019-05-06
   link: https://medium.com/ethereum-classic-labs/summer-in-the-labs-1-48a27506c21c
@@ -1680,11 +1743,25 @@
   tags: ["announcement", "development", "teams", "application"]
 -
   date: 2019-05-06
+  link: https://medium.com/@masterhax/introducing-p3c-pure-a-ui-for-exchanges-merchants-and-devs-4e150093b2d0
+  author: Commonwealth
+  source: Commonwealth.gg
+  title: "Introducing P3C Pure — A UI for Exchanges, Merchants, and Devs."
+  tags: ["announcement", "application"]
+-
+  date: 2019-05-06
   link: https://medium.com/ethereum-classic/quantifying-immutability-e8f2b1bb9301
   author: Yaz Khoury
   source: Ethereum Classic Cooperative
   title: "Quantifying Immutability"
   tags: ["education"]
+-
+  date: 2019-05-02
+  link: https://medium.com/@masterhax/what-is-the-rainmaker-contract-bb0a77bc3b91
+  author: Commonwealth
+  source: Commonwealth.gg
+  title: "What is the Rainmaker Contract?"
+  tags: ["education", "application"]
 -
   date: 2019-05-01
   link: https://youtu.be/ErUxqLLtIj4
@@ -2211,6 +2288,13 @@
   title: "On Recent Event in the Ethereum Classic"
   tags: ["education", "teams"]
 -
+  date: 2018-12-14
+  link: https://medium.com/@masterhax/announcement-all-p3c-ad-revenue-now-goes-to-support-gastracker-6d7112db29bf
+  author: Commonwealth
+  source: Commonwealth.gg
+  title: "Announcement: All P3C Ad Revenue now goes to support Gastracker."
+  tags: ["announcement", "application"]
+-
   date: 2018-12-13
   link: https://medium.com/@etclabsnews/clarification-reasons-for-our-actions-3d19228d94eb
   author: ETC Labs
@@ -2231,6 +2315,13 @@
   source: Ethereum Classic Consortium
   title: "An Open letter to Ethereum Classic community"
   tags: ["education", "teams"]
+-
+  date: 2018-12-11
+  link: https://medium.com/@masterhax/how-to-save-p3c-in-cold-storage-with-a-paper-wallet-37f0eaf737ff
+  author: Commonwealth
+  source: Commonwealth.gg
+  title: "How to save P3C in Cold Storage with a Paper Wallet"
+  tags: ["education", "application", "guide"]
 -
   date: 2018-12-05
   link: https://medium.com/ethereum-classic/the-history-of-etc-c6ded29e5831
@@ -2266,6 +2357,13 @@
   source: peaceBridge
   title: "peaceBridge update (Dec 2018)"
   tags: ["development", "application"]
+-
+  date: 2018-12-03
+  link: https://medium.com/@masterhax/p3c-io-is-upgrading-whats-new-e4bc6c54f6c4
+  author: Commonwealth
+  source: Commonwealth.gg
+  title: "P3C.io is Upgrading! What’s new?"
+  tags: ["announcement", "application"]
 -
   date: 2018-12-03
   link: https://medium.com/ethereum-classic-labs/button-wallet-releases-lightysig-for-easy-dapp-development-b05fc437e2e3
