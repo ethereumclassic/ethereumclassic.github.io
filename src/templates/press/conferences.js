@@ -16,7 +16,7 @@ const MediaKitTemplate = props => {
         items={i18n.content.map(i => ({
           key: `${i.title}, ${i.subtitle}`,
           name: `${i.title}, ${i.subtitle}`,
-          to: `#${textToKey(i.title)}`
+          link: `#${textToKey(i.title)}`
         }))}
       />
       <CommonContent content={i18n.content} />

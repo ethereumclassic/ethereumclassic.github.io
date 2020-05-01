@@ -93,7 +93,7 @@ content:
         key: Grayscale
         year: 2017
         name: Grayscale
-        status: active
+        active: true
         link: https://grayscale.co/ethereum-classic-trust/
         twitter: https://twitter.com/GrayscaleInvest
       -
