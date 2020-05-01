@@ -2764,6 +2764,13 @@
   title: "An Interview- Terry Culver and Igor Artamonov on Ethereum Classic Labs"
   tags: ["announcement", "teams"]
 -
+  date: 2018-07-20
+  link: https://www.saturn.network/blog/how-to-write-secure-smart-contracts/
+  author: Saturn
+  source: Saturn Network
+  title: "How to write secure smart contracts?"
+  tags: ["education", "development"]
+-
   date: 2018-07-19
   link: https://medium.com/ethereum-classic-labs/a-new-look-for-etc-labs-6921ff2a5e80
   author: ETC Labs
@@ -2791,6 +2798,13 @@
   source: Coin Telegraph
   title: "Coinbase Announces Five Possible New Assets, Makes No Guarantees For Trade Listing"
   tags: ["announcement", "application"]
+-
+  date: 2018-07-11
+  link: https://www.saturn.network/blog/advantages-of-erc223-tokens/
+  author: Neuron
+  source: Saturn Network
+  title: "Advantages of ERC223 tokens"
+  tags: ["education", "development"]
 -
   date: 2018-07-09
   link: https://medium.com/chainsafe-systems/chainsafe-systems-opensource-sh-9b64fc3fb5cc
@@ -2980,6 +2994,13 @@
   source: ETC Dev
   title: "April 2018 | Monthly Dev Update"
   tags: ["announcement", "development", "application", "teams"]
+-
+  date: 2018-05-01
+  link: https://www.saturn.network/blog/announcing-radex-decentralized-erc223-exchange/
+  author: Saturn
+  source: Saturn Network
+  title: "Announcing Radex: Decentralized ERC223 Exchange"
+  tags: ["announcement", "development", "application"]
 -
   date: 2018-05-01
   link: https://medium.com/@isaac_/exploring-minimum-viable-sidechains-on-etc-3f4b06246aaf
