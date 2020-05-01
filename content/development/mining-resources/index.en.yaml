@@ -1,0 +1,20 @@
+title: Mining Resources
+description: A selection of Ethereum Classic compatible mining software and mining pools
+contribute: true
+disclaimer: true
+intro: Below is a non-exhaustive collection of mining resources developed for Ethereum Classic. If you have questions, there is an active #Mining channel in the [Ethereum Classic Discord](/ecosystem/social-channels). Here is a plentiful [Video BIOS Collection](https://www.techpowerup.com/vgabios/) by TechPowerUp.
+content:
+  -
+    configRef: software
+  -
+    type: buttons
+    title: Top 5 Mining Pools
+    description: Top 5 Mining Pools by Hashrate at the time of writing.
+    filter: rank
+    sort: rank
+    itemsRef: pools
+  -
+    type: buttons
+    title: Detailed Miner Pool List
+    description: All the publicly known ETC mining pools
+    itemsRef: pools

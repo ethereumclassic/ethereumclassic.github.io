@@ -1,0 +1,118 @@
+@font-face {
+  font-family: '_HeaderFont';
+  src: url("../webfonts/Oswald-VariableFont_wght.ttf");
+  font-display: swap;
+  font-weight: 1 999;
+}
+
+@font-face {
+  // weight < 500 
+  font-family: '_BodyFont';
+  src: url("../webfonts/Yantramanav-Light.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  // weight > 500
+  font-family: '_BodyFont';
+  src: url("../webfonts/Yantramanav-Bold.ttf");
+  font-display: swap;
+  font-weight: bold;
+}
+
+h1 {
+  font-family: _font('family');
+
+  small {
+    font-family: _font('family-heading');
+    font-weight: normal;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  small {
+    opacity: 0.8;
+  }
+}
+
+.page .contents h1,
+h2,
+h3,
+h4 {
+  font-family: _font('family-heading');
+  text-transform: uppercase;
+
+  small {
+    font-family: _font('family');
+    text-transform: initial;
+    font-weight: normal;
+    font-size: inherit;
+    letter-spacing: 0.05rem;
+  }
+}
+
+small {
+  font-size: 0.9rem;
+  opacity: 0.7;
+  display: inline-block;
+}
+
+// inside normal pages
+.page .contents {
+  p {
+    margin-bottom: $tinyPadding;
+  }
+
+  h1 {
+    margin-top: $smallPadding;
+    letter-spacing: 0.1rem;
+  }
+
+  h2,
+  h3,
+  h4,
+  h5 {
+    margin-top: $largePadding;
+  }
+
+  h1,
+  h2 {
+    text-shadow: $headerShadow;
+  }
+
+  h3,
+  h4 {
+    letter-spacing: initial;
+    font-weight: bold;
+    font-family: inherit;
+    text-transform: initial;
+  }
+}
+
+.section-menu {
+  &.expanded {
+    margin-top: $largePadding;
+  }
+
+  .learn-more {
+    h2 {
+      font-size: 1.3rem;
+    }
+
+    a {
+      font-weight: bold;
+    }
+
+    ul {
+      font-size: 1.2rem;
+
+      small {
+        font-size: 1.1rem;
+      }
+    }
+  }
+}

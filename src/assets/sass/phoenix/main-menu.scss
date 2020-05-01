@@ -1,0 +1,68 @@
+.main-menu {
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 10;
+  background: _palette(bright);
+  user-select: none;
+  $hamburgerSize: 3rem;
+
+  .overlay {
+    background: _palette(t-black-20);
+    backdrop-filter: blur(7px) grayscale(50%);
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+  }
+
+  .hidden {
+    visibility: hidden;
+  }
+
+  .hamburger {
+    background: _palette(t-black-20);
+
+    &.selected {
+      color: _palette(bright);
+      background: _palette(t-black-60);
+    }
+
+    z-index: 2;
+    font-size: $hamburgerSize / 3;
+    text-align: center;
+    width: $hamburgerSize;
+    line-height: $hamburgerSize;
+    height: $hamburgerSize;
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+
+  .menu {
+    top: $hamburgerSize + $nanoPadding;
+    font-family: _font('family-heading');
+    font-weight: 400;
+    text-transform: uppercase;
+    position: absolute;
+    right: $nanoPadding;
+  }
+
+  a {
+    display: block;
+    background: _palette(bright);
+    border: none;
+    margin-bottom: $nanoPadding;
+    font-size: 1.2rem;
+    line-height: 1rem;
+    padding: 0.9rem 0.7rem;
+
+    &:hover {
+      color: _palette(accent);
+      background: _palette(fg)
+    }
+  }
+}

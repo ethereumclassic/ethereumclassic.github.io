@@ -1,0 +1,67 @@
+.button-link {
+  cursor: pointer;
+  margin: 0.3rem;
+  padding: 0.1rem 0.8rem;
+  display: inline-block;
+  white-space: nowrap;
+  background: _palette(t-black-10);
+  border-bottom: 2px solid _palette(t-black-20);
+  box-shadow: $buttonShadow;
+  border-radius: $roundedTight;
+
+  &.selected {
+    background: _palette(t-black-80);
+    color: _palette(bg);
+
+    &:hover {
+      background: _palette(t-black-60)
+    }
+  }
+
+  &:hover {
+    box-shadow: $tightShadow;
+    background: _palette(t-white-50);
+    border-bottom: 2px solid _palette(t-black-10);
+  }
+
+  &.massive {
+    font-size: 1.5rem;
+    font-weight: bold;
+    border-bottom: 3px solid _palette(t-black-30);
+  }
+
+  &.blue {
+    $discord: #8EA0F8;
+    background: $discord;
+    text-shadow: $textShadow;
+    box-shadow: $softShadow;
+    color: _palette(bg);
+
+    &:hover {
+      box-shadow: $tightShadow;
+      background: transparentize($discord, 0.60);
+    }
+  }
+}
+
+.merged {
+  white-space: nowrap;
+
+  .button-link {
+    border-radius: 0;
+    margin-left: 0;
+    margin-right: 0;
+    border-right: 1px solid _palette(t-black-10);
+  }
+
+  .button-link:first-child {
+    border-top-left-radius: $roundedTight;
+    border-bottom-left-radius: $roundedTight;
+  }
+
+  .button-link:last-child {
+    border-right: 0;
+    border-top-right-radius: $roundedTight;
+    border-bottom-right-radius: $roundedTight;
+  }
+}

@@ -27,8 +27,7 @@
   key: Beepool
   name: Beepool
   link: https://beepool.org/coindetail/etc
-  rank: 5
-- 
+-
   key: BoomPool
   name: BoomPool
   link: http://etc.boompool.ru/
@@ -231,6 +230,7 @@
   key: SoloPool
   name: SoloPool
   link: https://etc.solopool.org/
+  rank: 5
 - 
   key: Spritzee
   name: Spritzee

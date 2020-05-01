@@ -1,0 +1,27 @@
+
+#  ## Main Menu
+#
+- 
+  key: home
+  link: /
+  name: Home
+- 
+  key: knowledge
+  link: /knowledge
+  name: Knowledge
+- 
+  key: ecosystem
+  link: /ecosystem
+  name: Ecosystem
+- 
+  key: development
+  link: /development
+  name: Development
+- 
+  key: press
+  link: /press
+  name: Press
+- 
+  key: news
+  link: /news
+  name: News
