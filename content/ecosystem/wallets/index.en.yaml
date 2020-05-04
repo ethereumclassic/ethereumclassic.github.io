@@ -8,7 +8,7 @@ content:
     key: web
     type: buttons
     title: Web Wallets
-    description: These wallets can be accessed using a web page. They shouldn't be used to secure large amounts, but allow you to easily interacting with ETC without downloads.
+    description: These Web3 wallets can be accessed using a web page. They shouldn't be used to secure large amounts, but allow you to easily interacting with ETC without downloads.
     items:
       -
         key: MyCrypto
@@ -27,10 +27,10 @@ content:
         link: https://squarelink.com/
         name: Squarelink
   -
-    key: extension
+    key: browsers
     type: buttons
-    title: Extensions / Dapp Browsers
-    description: These wallets are installed up within a web browser. Typically, they inject websites with your account information in order to allow you to interact with Ethereum Classic dapps on the web.
+    title: Browser Integrated Wallets
+    description: These Web3 wallets are integrated in web browsers. Typically, they inject websites with your account information in order to allow you to seemlesssly interact with Ethereum Classic dapps in your broswer.
     items:
       -
         key: Brave
@@ -43,7 +43,7 @@ content:
       -
         key: Nifty Wallet
         link: https://github.com/poanetwork/nifty-wallet
-        name: Nifty Wallet (supports ETC dApps)
+        name: Nifty Wallet
       -
         key: Opera
         link: https://www.opera.com/crypto
@@ -51,7 +51,7 @@ content:
       -
         key: Saturn Wallet
         link: https://www.saturn.network/blog/saturn-wallet-user-manual/
-        name: Saturn Wallet (supports ETC dApps)
+        name: Saturn Wallet
   -
     key: hardware
     type: buttons
@@ -70,6 +70,10 @@ content:
       key: Ellipal
       link: https://www.ellipal.com/
       name: Ellipal
+    -
+      key: HTC Exodus
+      link: https://www.htcexodus.com/
+      name: HTC Exodus
     -
       key: Ledger
       link: https://shop.ledger.com/
@@ -169,9 +173,9 @@ content:
         link: https://www.infinitowallet.io/
         name: Infinito Wallet
       -
-        key: Jaxx
+        key: Jaxx Liberty
         link: https://jaxx.io/
-        name: Jaxx
+        name: Jaxx Liberty
       -
         key: Midas Protocol
         link: https://midasprotocol.io/
@@ -183,7 +187,7 @@ content:
       -
         key: Trust Wallet
         link: https://trustwallet.com/
-        name: Trust Wallet (supports ETC dApps)
+        name: Trust Wallet
       -
         key: Zelcore Wallet
         link: https://zel.network/project/zelcore/
