@@ -64,7 +64,7 @@ items:
   -
     date: Q2
     key: "rss-Feeds"
-    text: "EthereumClassic.org website modernization project goes live with a goal of providing accurate ETC content and automated information dissemination lines to the greater cryptocurrency ecosystem. https://ethereumclassic.org/rss.xml"
+    text: "EthereumClassic.org website modernization project goes live with a goal of providing accurate ETC content and automated information dissemination lines to the greater cryptocurrency ecosystem. https://ethereumclassic.org/news"
   -
     date: April 3
     key: "Website-2020-Phoenix"
@@ -97,10 +97,18 @@ items:
     date: Q3
     key: "Implementation: Instruction"
     text: "LLVM Instruction scheduler and performance optimizations"
+  -
+    date: Q3
+    key: "Connext State Channels"
+    text: "Add Connext state channels support. The goal is to have Connext ETC channels live in 2020."
   - 
     date: Q3
     key: "JSON-RPC devp2p"
     text: "JSON-RPC devp2p Wire protocol specification and reference implementation research and possible design"
+  - 
+    date: Q3
+    key: "Network Monitors"
+    text: "Add fork monitor and ethstats dashboards to EthereumClassic.org"
   -
     date: Q3
     key: "Long-term Development Resources"
@@ -108,7 +116,11 @@ items:
   -
     date: Q3
     key: "Updates to ECIP"
-    text: "Updates to ECIP process via ECIP-0001"
+    text: "Updates to ECIP process via ECIP-1000 discussion"
+  -
+    date: Q3
+    key: "Developer Marketing"
+    text: "Work on 1-2 major technical projects that use ETC as a part of developer marketing"
   -
     date: Q3
     key: "ethereum-Berlin"
@@ -123,7 +135,7 @@ items:
     text: "Astor experimental testnet SHA3 consensus algo research review"
   -
     date: Q4
-    key: "Official beta releas"
+    key: "EVM LLVM beta"
     text: "EVM-LLVM Official beta release"
   - 
     date: Q4
@@ -131,16 +143,24 @@ items:
     text: "EVM-LLVM Implementation: Embedded assembly and exception handling"
   - 
     date: Q4
+    key: "Feature Complete Upgrade"
+    text: "Successful upgrade of the ETC network to a further hardfork in Q4 2020 (unless delayed) which will address the remaining blockers to ETC being considered feature complete"
+  - 
+    date: Q4
     key: "ETL Tooling patterns"
     text: "ETL Tooling patterns and research into providing support for cross-chain transaction transforms"
+  - 
+    date: Q4
+    key: "Anchor Projects"
+    text: "Attract 5 prestige anchor tenant projects from the Ethereum ecosystem. Note that attendence at conferences will level off after Q1 due to Coronavirus"
   -
     date: Q4
     key: "Mining Algorithm Discussion"
-    text: "Mining Algorithm Discussion: Astor SHA3 Change, DAG reduction, No Change,"
+    text: "Mining Algorithm Discussion: Astor SHA3 Change, DAG reduction, No Change"
   -
     date: Q4
     key: "Interoperability Projects"
-    text: "Interoperability Projects: Port over ETH network protocols. Build ETH<>ETC bridges."
+    text: "Interoperability Projects: Port over ETH network protocols. Build ETH<>ETC bridges"
   -
     date: Q4
     key: "FlyClients Discussion"
@@ -148,4 +168,16 @@ items:
   -
     date: Q4
     key: "Interoperability Market Capture"
-    text: "Interoperability Market Capture. ETC added to more products increase access/utility for ETC. Onboard stabelcoins and dapps. Build the foundation for DeFi on hard-money ETC."
+    text: "Interoperability Market Capture. ETC added to more products increase access/utility for ETC. Onboard stabelcoins and dapps. Build the foundation for DeFi on hard-money ETC"
+  -
+    date: Q4
+    key: "Interoperability Orgs"
+    text: "Establish a Specifications Ring within Ethereum Magicians and to gather stakeholders from ETH, ETC and EEA there"
+  -
+    date: Q4
+    key: "Interoperability Orgs"
+    text: "Deliver a modular specification for Ethereum by the end of 2020 (probably via the EEA with input from Ethereum Magicians group) which spans ETH, ETC and EEA requirements"
+  -
+    date: Q4
+    key: "ETC Cooperative Grant Program"
+    text: "Implement a grant program with documentation, standards, and reporting requirements"

@@ -28,6 +28,7 @@ Also, it is important to be familiar with the strong objections described in the
 - [Understanding smart contracts & The DAO hack in detail](https://youtu.be/AfyB1VlnLNU)
 - [How to Recover Ethereum Classic sent to Ethereum address](https://medium.com/@nesterenkoi565/how-to-recover-ethereum-classic-sent-to-ethereum-address-691aca046f3e)
 - [How to Recover Ethereum Sent to an Ethereum Classic Address](https://medium.com/@nesterenkoi565/how-to-recover-ethereum-sent-to-an-ethereum-classic-address-832d56a7d6d9)
+- [Zero to Crypto: Buy ETH](https://www.mewtopia.com/zerotocrypto-buy-eth/)
 
 ### How is Ethereum Classic related to Bitcoin?
 

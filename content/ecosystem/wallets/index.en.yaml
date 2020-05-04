@@ -30,7 +30,7 @@ content:
     key: browsers
     type: buttons
     title: Browser Integrated Wallets
-    description: These Web3 wallets are integrated in web browsers. Typically, they inject websites with your account information in order to allow you to seemlesssly interact with Ethereum Classic dapps in your broswer.
+    description: These Web3 wallets are integrated in web browsers. Typically, they inject websites with your account information in order to allow you to seemlessly interact with Ethereum Classic dapps in your broswer.
     items:
       -
         key: Brave
@@ -200,7 +200,7 @@ content:
     key: other
     type: buttons
     title: Other Wallet Products
-    description: These products are complimentary to crytpo wallets like recovery seed storage.
+    description: These products are complimentary to crypto wallets like recovery seed storage.
     items:
       -
         key: BillFodl

@@ -429,6 +429,10 @@ content:
       link: https://bisq.network/markets/?currency=etc_btc
       name: Bisq
     -
+      key: Remitano
+      link: https://remitano.com/invest/eu
+      name: Remitano
+    -
       key: Saturn Network
       link: https://www.saturn.network/exchange/ethereum-classic
       name: Saturn Network
