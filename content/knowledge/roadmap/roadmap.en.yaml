@@ -82,6 +82,14 @@ items:
     key: "improve-Documentation"
     text: "Improve ETC specific documentation and add to the website for end user consumption. https://ethereumclassic.org/development/guides"
   -
+    date: May
+    key: "phoenix-awareness"
+    text: "Core development teams have signaled that this upgrade has successfully passed testing analysis on the Mordor and Kotti testnets. Ethereum Classic will never rush to upgrade the mainnet. Network security is priority over development speed and arbitary timelines. The ETC miners, wallets, exchanges, payment processors begin updated their clients for the Phoenix Upgrade. https://medium.com/etc-core/top-miners-confirmed-to-support-phoenix-ethereum-classic-hard-fork-phoenix-status-update-bc8964424fd4"
+  -
+    date: June 3
+    key: "phoenix-mainnet"
+    text: "Phoenix activates on Ethereum Classic mainnet on block 10,500,839. Core development teams have signaled that this upgrade has successfully passed testing analysis on the Mordor and Kotti testnets. https://blockscout.com/etc/mainnet"
+  -
     date: Q2
     key: "website-internationalization"
     text: "Reach out to the non-english ETC social channels to translate the English version of https://ethereumclassic.org/"

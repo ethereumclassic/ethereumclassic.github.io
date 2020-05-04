@@ -33,6 +33,10 @@ content:
     description: These wallets are installed up within a web browser. Typically, they inject websites with your account information in order to allow you to interact with Ethereum Classic dapps on the web.
     items:
       -
+        key: Brave
+        link: https://brave.com/
+        name: Brave
+      -
         key: MetaMask
         link: https://metamask.io/
         name: MetaMask
