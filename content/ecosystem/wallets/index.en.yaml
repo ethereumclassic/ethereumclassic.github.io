@@ -63,6 +63,10 @@ content:
       link: https://www.bitski.com/
       name: Bitski
     -
+      key: CoolBitX
+      link: https://www.coolwallet.io/
+      name: CoolBitX
+    -
       key: Ellipal
       link: https://www.ellipal.com/
       name: Ellipal
@@ -78,7 +82,6 @@ content:
       key: Trezor
       link: https://trezor.io/
       name: Trezor
-
   -
     key: software
     type: buttons
@@ -192,10 +195,8 @@ content:
   -
     key: other
     type: buttons
-    intro: |
-      ### Other Wallet Products
-    
-      These products are complimentary to crypto wallets; e.g. recovery seed storage
+    title: Other Wallet Products
+    description: These products are complimentary to crytpo wallets like recovery seed storage.
     items:
       -
         key: BillFodl
