@@ -429,6 +429,10 @@ content:
       link: https://bisq.network/markets/?currency=etc_btc
       name: Bisq
     -
+      key: EXNCE
+      link: https://www.exnce.com/market/ETC-ETH
+      name: EXNCE
+    -
       key: Remitano
       link: https://remitano.com/invest/eu
       name: Remitano
