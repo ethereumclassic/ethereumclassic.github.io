@@ -167,6 +167,15 @@ items:
     linuxAmd: true
     linuxNvidia: true
   -
+    key: "Cudo Miner"
+    name: "OS: Cudo Miner"
+    link: https://www.cudominer.com/
+    guide: https://www.cudominer.com/questions/
+    windowsAmd: true
+    windowsNvidia: true
+    linuxAmd: true
+    linuxNvidia: true
+  -
     key: "HiveOS"
     name: "OS: HiveOS"
     link: https://hiveos.farm/

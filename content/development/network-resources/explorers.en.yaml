@@ -50,10 +50,6 @@ items:
     name: MinerGate
     etc: https://minergate.com/blockchain/etc/blocks
   -
-    key: TheMinersPond
-    name: TheMinersPond
-    etc: https://theminerspond.com/ethereumclassic/explorer/home
-  -
     key: Tokenview
     name: Tokenview
     etc: https://etc.tokenview.com/
