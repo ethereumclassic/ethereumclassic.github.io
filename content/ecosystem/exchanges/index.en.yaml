@@ -40,10 +40,6 @@ content:
       link: https://bequant.io/exchange/ETC-to-USDT
       name: Bequant
     -
-      key: BHEX
-      link: https://www.bhex.com/exchange/301/etc/usdt
-      name: BHEX
-    -
       key: Bibox
       link: https://www.bibox.com/exchange?coinPair=ETC_USDT
       name: Bibox
@@ -133,7 +129,7 @@ content:
       name: Bitvavo
     -
       key: BitZ
-      link: https://www.bit-z.com/exchange/etc_usdt
+      link: https://www.bitz.cm/exchange/etc_usdt
       name: BitZ
     -
       key: BKEX
@@ -257,7 +253,7 @@ content:
       name: Exrates
     -
       key: EXX
-      link: https://www.exx.com/tradeCoding/eth_usdt
+      link: https://www.exx.com/tradeCoding/etc_usdt
       name: EXX
     -
       key: FatBTC
@@ -275,6 +271,10 @@ content:
       key: Gate
       link: https://www.gate.io/trade/etc_usdt
       name: Gate
+    -
+      key: HBTC
+      link: https://www.hbtc.com/exchange/ETC/USDT
+      name: HBTC
     -
       key: HitBTC
       link: https://hitbtc.com/ETC-to-USDT
