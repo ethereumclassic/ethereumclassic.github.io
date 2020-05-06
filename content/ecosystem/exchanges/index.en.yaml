@@ -232,6 +232,10 @@ content:
       link: https://www.digifinex.com/en-ww/trade/USDT/ETC
       name: DigiFinex
     -
+      key: DragonEx
+      link: https://dragonex.io/en-us/trade/index/etc-usdt
+      name: DragonEx
+    -
       key: EREX
       link: https://erex.io/exchange/ETC/USDT/
       name: EREX
@@ -324,6 +328,10 @@ content:
       link: https://trade.kucoin.com/spot/ETC-USDT
       name: Kucoin
     -
+      key: LBank
+      link: https://www.lbank.info/exchange.html#/etc/usdt
+      name: LBank
+    -
       key: LiveCoin
       link: https://www.livecoin.net/en/trading/ETC_BTC
       name: LiveCoin
@@ -367,6 +375,10 @@ content:
       key: ProBit
       link: https://www.probit.com/app/exchange/ETC-USDT
       name: ProBit
+    -
+      key: Ronance
+      link: https://www.ronance.com/trade/etc_usdt
+      name: Ronance
     -
       key: SimpleFX
       link: https://app.simplefx.com/
@@ -465,6 +477,10 @@ content:
       key: ChangeAngel
       link: https://www.changeangel.io/
       name: ChangeAngel
+    -
+      key: ChangeHero
+      link: https://changehero.io/
+      name: ChangeHero
     -
       key: Changelly
       link: https://changelly.com/
