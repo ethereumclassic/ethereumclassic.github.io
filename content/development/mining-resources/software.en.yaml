@@ -5,7 +5,7 @@ columns:
   -
     key: name
     name: Name
-    linkRef: to
+    linkRef: link
   - 
     key: windowsAmd
     name: Windows AMD
