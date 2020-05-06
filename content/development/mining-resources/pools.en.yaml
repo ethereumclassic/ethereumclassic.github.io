@@ -133,10 +133,6 @@
   name: HashCity
   link: https://hashcity.org/
 - 
-  key: HashOn
-  name: HashOn
-  link: https://hashon.me/etc/home
-- 
   key: Hellominer
   name: Hellominer
   link: https://hellominer.com/ETC/EtcHome.aspx
@@ -205,7 +201,7 @@
 - 
   key: Okex
   name: Okex
-  link: https://www.okex.me/pool
+  link: https://www.okex.com/pool
 - 
   key: Prohashing
   name: Prohashing
@@ -219,22 +215,10 @@
   name: SaturnPool
   link: https://etc.saturnpool.com/
 - 
-  key: Smartpool
-  name: Smartpool
-  link: https://smartpool.by/etc
-- 
-  key: SoloMine
-  name: SoloMine
-  link: http://etc.solomine.org/
-- 
   key: SoloPool
   name: SoloPool
   link: https://etc.solopool.org/
   rank: 5
-- 
-  key: Spritzee
-  name: Spritzee
-  link: http://spritzee.ru/
 - 
   key: TheMinersPond
   name: TheMinersPond
