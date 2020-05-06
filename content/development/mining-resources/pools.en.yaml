@@ -161,6 +161,10 @@
   name: MaxHash
   link: https://etcpool.maxhash.org/
 - 
+  key: MinedMap
+  name: MinedMap
+  link: http://minedmap.com/
+- 
   key: Minerall
   name: Minerall
   link: https://minerall.io/ethereum-classic
