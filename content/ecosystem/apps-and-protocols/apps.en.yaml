@@ -92,6 +92,18 @@ items:
   text: Proof-of-Stake Token on Ethereum Classic Network. This is an alternative method to the more widely known process used by bitcoin; Proof of Work (POW).
   type: finance
 - 
+  key: Cryptwerk
+  name: Cryptwerk
+  link: https://cryptwerk.com/pay-with/etc/
+  text: Pay with Ethereum Classic. Companies and stores accepting ETC. Spend your crypto.
+  type: other
+- 
+  key: Dapp Direct
+  name: Dapp Direct
+  link: https://dappdirect.net/
+  text: Live stats and rankings of ETC applications.
+  type: other
+- 
   key: Grayscale® Ethereum Classic Trust
   name: Grayscale® Ethereum Classic Trust
   link: https://grayscale.co/ethereum-classic-trust/
