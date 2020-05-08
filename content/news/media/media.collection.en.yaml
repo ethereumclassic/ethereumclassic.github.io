@@ -1,4 +1,25 @@
 -
+  date: 2020-05-06
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-presents-5-bounties-as-part-of-gitcoins-virtual-hackathon-for-new-york-f68686b92654
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "Ethereum Classic Labs Presents 5 Bounties as Part of Gitcoin’s Virtual Hackathon for New York Blockchain Week"
+  tags: ["announcement", "development", "application"]
+-
+  date: 2020-05-04
+  link: https://thebitcoinnews.com/remitano-officially-lists-5-new-invest-altcoins/
+  author: Remitano
+  source: The Bitcoin News
+  title: "Remitano Officially Lists 5 New Invest Altcoins"
+  tags: ["announcement", "application"]
+-
+  date: 2020-05-02
+  link: https://en.ethereumworldnews.com/ethereum-classic-etc-is-looking-for-stablecoin-projects-to-support/
+  author: John P Njui
+  source: Ethereum World News
+  title: "Ethereum Classic (ETC) is Looking for Stablecoin Projects to Support"
+  tags: ["announcement", "development", "application"]
+-
   date: 2020-04-30
   link: https://medium.com/etc-core/top-miners-confirmed-to-support-phoenix-ethereum-classic-hard-fork-phoenix-status-update-bc8964424fd4
   author: Stevan Lohja
@@ -131,6 +152,13 @@
   source: ETC Core
   title: "Phoenix Ethereum Classic Network Upgrade Proceeds to Accepted Status and on Schedule"
   tags: ["announcement", "development", "teams", "hardfork"]
+-
+  date: 2020-04-05
+  link: https://medium.com/sunnya97/war-on-different-scales-addendum-the-etc-midgame-b15be99b3775
+  author: Sunny Aggarwal
+  source: Medium
+  title: "War on Different Scales Addendum — The ETC Midgame"
+  tags: ["education"]
 -
   date: 2020-04-05
   link: https://etherplan.com/2020/04/05/the-bitcoin-security-model-explained/10862/
@@ -1734,6 +1762,13 @@
   source: Medium
   title: "The What, Why, and How, of Astor Testnet"
   tags: ["announcement", "development", "education", "mining"]
+-
+  date: 2019-05-17
+  link: https://etherplan.com/2019/05/17/why-ethereum-classic-needs-a-single-and-unified-improvement-proposal-process/7574/
+  author: Donald McIntyre
+  source: Etherplan
+  title: "Why Ethereum Classic Needs a Single and Unified Improvement Proposal Process"
+  tags: ["education"]
 -
   date: 2019-05-17
   link: https://etherplan.com/2019/05/17/why-there-will-only-be-3-or-4-surviving-blockchains-in-the-future/7603/

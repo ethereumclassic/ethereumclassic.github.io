@@ -167,6 +167,15 @@ items:
     linuxAmd: true
     linuxNvidia: true
   -
+    key: "Cudo Miner"
+    name: "OS: Cudo Miner"
+    link: https://www.cudominer.com/
+    guide: https://www.cudominer.com/questions/
+    windowsAmd: true
+    windowsNvidia: true
+    linuxAmd: true
+    linuxNvidia: true
+  -
     key: "HiveOS"
     name: "OS: HiveOS"
     link: https://hiveos.farm/
@@ -210,6 +219,10 @@ items:
     name: "OS: NiceHash OS"
     link: https://www.nicehash.com/nhos-mining
     guide: https://www.nicehash.com/support/mining-help/nicehash-os/what-is-nicehash-os
+    windowsAmd: true
+    windowsNvidia: true
+    linuxAmd: true
+    linuxNvidia: true
   -
     key: "SimpleMining"
     name: "OS: Simple Mining"
@@ -217,3 +230,7 @@ items:
     guide: https://simplemining.net/page/download
     linuxAmd: true
     linuxNvidia: true
+  -
+    key: "CheckPool"
+    name: "Tool: CheckPool"
+    link: https://play.google.com/store/apps/details?id=com.alexdib.miningpoolmonitor

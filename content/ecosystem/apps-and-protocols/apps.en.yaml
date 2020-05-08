@@ -34,7 +34,7 @@ items:
 - 
   key: Luckygames
   name: Luckygames
-  link: https://luckygames.cc/
+  link: https://luckygames.io/
   text: Ethereum Classic Dice and Gambling site.
   type: game
 -
@@ -80,12 +80,6 @@ items:
   text: The World’s Savings Fund. Immutable. Built 2018.
   type: finance
 - 
-  key: ePOC
-  name: ePOC
-  link: https://etc.poc35.co/
-  text: ePoC is based on a ETC smart contract run on the ethereum blockchain. It’s modeled after Powh3D
-  type: finance
-- 
   key: GitCoin
   name: GitCoin
   link: https://gitcoin.co/
@@ -97,6 +91,18 @@ items:
   link: https://onex.network/
   text: Proof-of-Stake Token on Ethereum Classic Network. This is an alternative method to the more widely known process used by bitcoin; Proof of Work (POW).
   type: finance
+- 
+  key: Cryptwerk
+  name: Cryptwerk
+  link: https://cryptwerk.com/pay-with/etc/
+  text: Pay with Ethereum Classic. Companies and stores accepting ETC. Spend your crypto.
+  type: other
+- 
+  key: Dapp Direct
+  name: Dapp Direct
+  link: https://dappdirect.net/
+  text: Live stats and rankings of ETC applications.
+  type: other
 - 
   key: Grayscale® Ethereum Classic Trust
   name: Grayscale® Ethereum Classic Trust

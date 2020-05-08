@@ -525,7 +525,7 @@ items:
     className: blue
     icon: fas fa-angle-double-up
     link: /blog/2020-06-10-phoenix-hard-fork-upgrade/
-    text: June 10 2020, Ethereum Classic core developers implement ETH's Istanbul network protocol upgrades to maintain operational parity with its sister chain
+    text: June 3 2020, Ethereum Classic core developers implement ETH's Istanbul network protocol upgrades to maintain operational parity with its sister chain
   - key: aBrightFuture
     title: A Bright Future
     date: Future
