@@ -9,7 +9,7 @@ type: table
 columns: 
   -
     key: name
-    linkRef: to
+    linkRef: link
     name: Name
   -
     key: type
