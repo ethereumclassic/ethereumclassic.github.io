@@ -26,6 +26,11 @@ content:
         link: https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4
         description: Smart contract tutorial with a focus on building up understanding before code.
       - 
+        key: Setup MetaMask for Ethereum Classic
+        name: Setup MetaMask for Ethereum Classic
+        link: https://youtu.be/BhVWWcwKKME
+        description: How To Setup Ethereum Classic Support on MetaMask With Ethercluster
+      - 
         key: Parity Tutorial
         name: Parity DApp Tutorial
         link: https://wiki.parity.io/Dapp-Tutorial

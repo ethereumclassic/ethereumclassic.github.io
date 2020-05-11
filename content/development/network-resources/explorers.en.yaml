@@ -1,7 +1,7 @@
 configRef: networkTableConfig
 key: explorers
 title: Blockchain Explorers
-description: A blockchain explorer is a browser for the blockchain, similar to how we have browsers like Brave Browser and FireFox for internet web pages. All cryptocurrency users rely on blockchain explorers to track their transactions. Browse the list of Ethereum Classic block explorers to find one that you like and add it to your bookmarks.
+description: A blockchain explorer is a browser for the blockchain, similar to how we have browsers like Brave Browser and FireFox for internet web pages. All cryptocurrency users rely on blockchain explorers to track their transactions. Browse the list of Ethereum Classic explorers to find an interface that you like and add it to your bookmarks.
 items:
   -
     key: AnyBlock
@@ -49,10 +49,6 @@ items:
     key: MinerGate
     name: MinerGate
     etc: https://minergate.com/blockchain/etc/blocks
-  -
-    key: TheMinersPond
-    name: TheMinersPond
-    etc: https://theminerspond.com/ethereumclassic/explorer/home
   -
     key: Tokenview
     name: Tokenview

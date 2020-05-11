@@ -40,10 +40,6 @@ content:
       link: https://bequant.io/exchange/ETC-to-USDT
       name: Bequant
     -
-      key: BHEX
-      link: https://www.bhex.com/exchange/301/etc/usdt
-      name: BHEX
-    -
       key: Bibox
       link: https://www.bibox.com/exchange?coinPair=ETC_USDT
       name: Bibox
@@ -133,7 +129,7 @@ content:
       name: Bitvavo
     -
       key: BitZ
-      link: https://www.bit-z.com/exchange/etc_usdt
+      link: https://www.bitz.cm/exchange/etc_usdt
       name: BitZ
     -
       key: BKEX
@@ -236,6 +232,10 @@ content:
       link: https://www.digifinex.com/en-ww/trade/USDT/ETC
       name: DigiFinex
     -
+      key: DragonEx
+      link: https://dragonex.io/en-us/trade/index/etc-usdt
+      name: DragonEx
+    -
       key: EREX
       link: https://erex.io/exchange/ETC/USDT/
       name: EREX
@@ -257,7 +257,7 @@ content:
       name: Exrates
     -
       key: EXX
-      link: https://www.exx.com/tradeCoding/eth_usdt
+      link: https://www.exx.com/tradeCoding/etc_usdt
       name: EXX
     -
       key: FatBTC
@@ -275,6 +275,10 @@ content:
       key: Gate
       link: https://www.gate.io/trade/etc_usdt
       name: Gate
+    -
+      key: HBTC
+      link: https://www.hbtc.com/exchange/ETC/USDT
+      name: HBTC
     -
       key: HitBTC
       link: https://hitbtc.com/ETC-to-USDT
@@ -324,6 +328,10 @@ content:
       link: https://trade.kucoin.com/spot/ETC-USDT
       name: Kucoin
     -
+      key: LBank
+      link: https://www.lbank.info/exchange.html#/etc/usdt
+      name: LBank
+    -
       key: LiveCoin
       link: https://www.livecoin.net/en/trading/ETC_BTC
       name: LiveCoin
@@ -367,6 +375,10 @@ content:
       key: ProBit
       link: https://www.probit.com/app/exchange/ETC-USDT
       name: ProBit
+    -
+      key: Ronance
+      link: https://www.ronance.com/trade/etc_usdt
+      name: Ronance
     -
       key: SimpleFX
       link: https://app.simplefx.com/
@@ -429,6 +441,14 @@ content:
       link: https://bisq.network/markets/?currency=etc_btc
       name: Bisq
     -
+      key: EXNCE
+      link: https://www.exnce.com/market/ETC-ETH
+      name: EXNCE
+    -
+      key: Remitano
+      link: https://remitano.com/invest/eu
+      name: Remitano
+    -
       key: Saturn Network
       link: https://www.saturn.network/exchange/ethereum-classic
       name: Saturn Network
@@ -457,6 +477,10 @@ content:
       key: ChangeAngel
       link: https://www.changeangel.io/
       name: ChangeAngel
+    -
+      key: ChangeHero
+      link: https://changehero.io/
+      name: ChangeHero
     -
       key: Changelly
       link: https://changelly.com/
