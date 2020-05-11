@@ -17,7 +17,7 @@ items:
     key: Core-Geth
     name: Core-Geth
     link: https://core-geth.org/
-    description: Core-Geth is a distribution of go-ethereum with many flavors. For Phoenix upgrade support, please use version v1.11.0 or later. Upgrade considerations, client configurations and APIs between Multi-Geth and Core-Geth might differ in details.
+    description: Core-Geth is a distribution of go-ethereum with many flavors. For Phoenix upgrade support, please use version v1.11.0 or later. Upgrade considerations, client configurations and APIs between Multi-Geth and Core-Geth might differ in details. This client is supported by the ETC Core team with funding from Ethereum Classic Labs.
     guide: https://core-geth.org/install
     release: https://github.com/etclabscore/core-geth/releases
     support: https://gitter.im/core-geth/community
@@ -26,7 +26,7 @@ items:
     key: Hyperledger Besu
     name: Hyperledger Besu
     link: https://besu.hyperledger.org/
-    description: Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. For Phoenix upgrade support, please use version v1.4.1 or later. Upgrade considerations, APIs between ParityEthereum and Besu significantly differ. Mining is not very well supported in Besu.
+    description: Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. For Phoenix upgrade support, please use version v1.4.1 or later. Upgrade considerations, APIs between ParityEthereum and Besu significantly differ. Mining is not very well supported in Besu. This client is supported by the ChainSafe, ETC Cooperative, and PegaSys teams as part of the Hyperledger project with funding from Grayscale's Ethereum Classic Trust.
     guide: https://besu.hyperledger.org/en/stable/HowTo/Get-Started/Install-Binaries/
     release: https://github.com/hyperledger/besu/releases
     support: https://chat.hyperledger.org/
@@ -35,8 +35,8 @@ items:
     key: Multi-Geth
     name: Multi-Geth
     link: https://github.com/multi-geth
-    description: A swiss army knife distribution of go-ethereum, with support for many species of Ethereum networks. For Phoenix upgrade support, please use version v1.9.14 or later. Upgrade considerations, a majority of the Multi-Geth maintainers forked to the Core-Geth client.
-    guide: https://hackmd.io/IPA7zPwpQDy-1U0reeppcQ#Multi-Geth
+    description: A swiss army knife distribution of go-ethereum, with support for many species of Ethereum networks. For Phoenix upgrade support, please use version v1.9.14 or later. Upgrade considerations, a majority of the Multi-Geth maintainers forked to the Core-Geth client. This client is community maintained and supported by the CorePaper and Gödel Labs teams.
+    guide: https://github.com/multi-geth/multi-geth/
     release: https://github.com/multi-geth/multi-geth/releases
     support: https://gitter.im/multi-geth/community
     supportIcon: fab fa-gitter
@@ -44,8 +44,8 @@ items:
     key: OpenEthereum
     name: OpenEthereum
     link: https://github.com/openethereum
-    description: Fast and feature-rich multi-network Ethereum client. For Phoenix upgrade support, please use version v3.0.0 or later. Currntly, there is not a release for OpenEthereum, please read the Guide's FAQ section to learn how to upgrade for Phoenix. Upgrade considerations, ParityEthereum is no longer being maintained by Parity Technologies and was handed over to Gnosis as the OpenEthereum project.
-    guide: https://hackmd.io/IPA7zPwpQDy-1U0reeppcQ#How-to-run-Open-Ethereum-with-Phoenix-upgrade-support-before-any-official-release
+    description: Fast and feature-rich multi-network Ethereum client. For Phoenix upgrade support, please use version v3.0.0 or later. Upgrade considerations, ParityEthereum is no longer being maintained by Parity Technologies and was handed over to Gnosis as the OpenEthereum project. This client is supported by the Gnosis team with funding from the Ethereum Foundation.
+    guide: https://github.com/openethereum/openethereum
     release: https://github.com/openethereum/openethereum/releases
     support: http://discord.io/openethereum
     supportIcon: fab fa-discord
