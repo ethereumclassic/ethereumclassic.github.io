@@ -86,8 +86,8 @@ items:
     icon: fas fa-chart-area
     link: https://cointelegraph.com/news/dao-potentially-hacked-millions-of-ether-may-be-stolen-griff-green-says
     text: The price of Ether is slashed in half as Griff Green announces that TheDAO has been hacked
-  - key: theCountdownBeings
-    title: The Countdown Beings
+  - key: theCountdownBegins
+    title: The Countdown Begins
     date: Jun 17 2016
     className: orange
     icon: fas fa-hourglass-start
