@@ -1,10 +1,31 @@
 -
+  date: 2020-05-13
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-announces-support-of-chainsafe-in-the-development-of-chainbridge-927ac1d83900
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "Ethereum Classic Labs Announces Support of ChainSafe in the Development of ChainBridge"
+  tags: ["announcement", "development", "application", "teams"]
+-
+  date: 2020-05-13
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-announces-support-of-chainsafe-in-the-development-of-chainbridge-927ac1d83900
+  author: Colin Schwartz
+  source: ChainSafe
+  title: "ChainSafe Building ChainBridge — A Multi-Chain Arbitrary Message Passing Standard"
+  tags: ["announcement", "development", "application", "teams"]
+-
+  date: 2020-05-08
+  link: https://medium.com/ethereum-classic-labs/gasless-experiences-on-ethereum-classic-ethereum-classic-labs-partners-with-opengsn-82fa61e306fe
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "Gasless Experiences on Ethereum Classic — Ethereum Classic Labs partners with OpenGSN"
+  tags: ["announcement", "development", "application", "teams"]
+-
   date: 2020-05-06
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-presents-5-bounties-as-part-of-gitcoins-virtual-hackathon-for-new-york-f68686b92654
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Ethereum Classic Labs Presents 5 Bounties as Part of Gitcoin’s Virtual Hackathon for New York Blockchain Week"
-  tags: ["announcement", "development", "application"]
+  tags: ["announcement", "development", "application", "teams"]
 -
   date: 2020-05-04
   link: https://thebitcoinnews.com/remitano-officially-lists-5-new-invest-altcoins/
@@ -971,6 +992,13 @@
   source: Ethereum Classic Cooperative
   title: "What is happening with Ethereum Classic? (Devcon5)"
   tags: ["development", "teams", "media", "education"]
+-
+  date: 2019-12-05
+  link: https://exscudo.com/blog/blockchain/etc-vs-eth/
+  author: Ivan Skladchikov
+  source: Exscudo
+  title: "ETC vs. ETH: What Is Ethereum Classic?"
+  tags: ["education"]
 -
   date: 2019-12-04
   link: https://www.saturn.network/blog/what-is-a-full-node/
