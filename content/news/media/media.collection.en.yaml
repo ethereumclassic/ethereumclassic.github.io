@@ -230,6 +230,13 @@
   title: "Bitstamp Explores Support for Seven More Cryptocurrencies"
   tags: ["announcement", "application"]
 -
+  date: 2020-03-31
+  link: https://youtu.be/g6LZ1osKw8k
+  author: Vb Streetz
+  source: ETC Core
+  title: "Signatory Client - a Do It Yourself hardware wallet that can be installed on a single-board computer, like Raspberry PI."
+  tags: ["teams", "media", "education", "guide"]
+-
   date: 2020-03-30
   link: https://blog.bitmain.com/en/bitmains-antminer-e3-firmware-update/
   author: Bitmain

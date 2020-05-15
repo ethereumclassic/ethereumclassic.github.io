@@ -16,6 +16,11 @@ content:
         link: https://youtu.be/KnmIlUumMDo
         description: Up and Running Kotti TestNet in 1 minute with Jade Desktop
       - 
+        key: Signatory Client
+        name: Signatory Client
+        link: https://vbstreetz.github.io/signatory-client/
+        description: Video Demo describes Signatory Client - a Do It Yourself hardware wallet that can be installed on a single-board computer, like Raspberry PI.
+      - 
         key: CryptoZombies
         name: CryptoZombies
         link: https://cryptozombies.io/

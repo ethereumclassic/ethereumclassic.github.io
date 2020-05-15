@@ -87,6 +87,10 @@ content:
       link: https://www.safepal.io/
       name: SafePal
     -
+      key: Signatory Client
+      link: https://vbstreetz.github.io/signatory-client/
+      name: Signatory Client
+    -
       key: Trezor
       link: https://trezor.io/
       name: Trezor
