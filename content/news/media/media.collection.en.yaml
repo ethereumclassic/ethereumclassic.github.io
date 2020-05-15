@@ -1,5 +1,19 @@
 -
   date: 2020-05-13
+  link: https://sunriseread.com/hard-fork-ethereum-classic-phoenix-supported-by-88-of-miners/94522/
+  author: Sam Conley
+  source: Sunrise Read
+  title: "Hard fork Ethereum Classic Phoenix supported by 88% of miners"
+  tags: ["announcement", "development", "hardfork", "mining"]
+-
+  date: 2020-05-13
+  link: https://youtu.be/l1FpoyYcuac
+  author: Bob Summerwill
+  source: Epicenter Podcast
+  title: "EthCC: Tribalism in the Crypto Space"
+  tags: ["teams", "media", "education", "podcast"]
+-
+  date: 2020-05-13
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-announces-support-of-chainsafe-in-the-development-of-chainbridge-927ac1d83900
   author: ETC Labs
   source: Ethereum Classic Labs
@@ -40,6 +54,13 @@
   source: Ethereum World News
   title: "Ethereum Classic (ETC) is Looking for Stablecoin Projects to Support"
   tags: ["announcement", "development", "application"]
+-
+  date: 2020-05-01
+  link: https://youtu.be/rpNe1qkjnz4?t=6354
+  author: Charles Hoskinson
+  source: IOHK
+  title: "Charles Hoskinson on Ethereum Classic from IOHK perspective"
+  tags: ["teams", "media", "education", "podcast"]
 -
   date: 2020-04-30
   link: https://medium.com/etc-core/top-miners-confirmed-to-support-phoenix-ethereum-classic-hard-fork-phoenix-status-update-bc8964424fd4
