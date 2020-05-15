@@ -27,12 +27,26 @@
   title: "ChainSafe Building ChainBridge — A Multi-Chain Arbitrary Message Passing Standard"
   tags: ["announcement", "development", "application", "teams"]
 -
+  date: 2020-05-11
+  link: https://youtu.be/dvcwWAMMx4c
+  author: Ethereum Classic Labs
+  source: Gitcoin Media
+  title: "ETC Labs Workshop: New York Blockchain Week Hackathon"
+  tags: ["teams", "media", "education", "guide"]
+-
   date: 2020-05-08
   link: https://medium.com/ethereum-classic-labs/gasless-experiences-on-ethereum-classic-ethereum-classic-labs-partners-with-opengsn-82fa61e306fe
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Gasless Experiences on Ethereum Classic — Ethereum Classic Labs partners with OpenGSN"
   tags: ["announcement", "development", "application", "teams"]
+-
+  date: 2020-05-07
+  link: https://youtu.be/KnmIlUumMDo
+  author: ETC Core
+  source: Ethereum Classic Core
+  title: "Up and Running Kotti TestNet in 1 minute with Jade Desktop"
+  tags: ["teams", "media", "education", "guide"]
 -
   date: 2020-05-06
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-presents-5-bounties-as-part-of-gitcoins-virtual-hackathon-for-new-york-f68686b92654

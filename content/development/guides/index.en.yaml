@@ -11,6 +11,11 @@ content:
     description: Here is a non-exhaustive list of some helpful tutorials and walkthroughs to get your starting with Ethereum Classic development.
     items:
       - 
+        key: Kotti Testnet Setup Guide
+        name: Kotti Testnet Setup Guide
+        link: https://youtu.be/KnmIlUumMDo
+        description: Up and Running Kotti TestNet in 1 minute with Jade Desktop
+      - 
         key: CryptoZombies
         name: CryptoZombies
         link: https://cryptozombies.io/
