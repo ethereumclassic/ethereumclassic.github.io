@@ -1,12 +1,5 @@
 -
   date: 2020-05-13
-  link: https://sunriseread.com/hard-fork-ethereum-classic-phoenix-supported-by-88-of-miners/94522/
-  author: Sam Conley
-  source: Sunrise Read
-  title: "Hard fork Ethereum Classic Phoenix supported by 88% of miners"
-  tags: ["announcement", "development", "hardfork", "mining"]
--
-  date: 2020-05-13
   link: https://youtu.be/l1FpoyYcuac
   author: Bob Summerwill
   source: Epicenter Podcast
@@ -26,6 +19,13 @@
   source: ChainSafe
   title: "ChainSafe Building ChainBridge — A Multi-Chain Arbitrary Message Passing Standard"
   tags: ["announcement", "development", "application", "teams"]
+-
+  date: 2020-05-12
+  link: https://medium.com/etc-core/top-miners-confirmed-to-support-phoenix-ethereum-classic-hard-fork-phoenix-status-update-bc8964424fd4
+  author: Stevan Lohja
+  source: ETC Core
+  title: "88% of the hash-rate is now confirmed to support Phoenix."
+  tags: ["announcement", "development", "hardfork", "mining"]
 -
   date: 2020-05-11
   link: https://youtu.be/dvcwWAMMx4c
@@ -75,13 +75,6 @@
   source: IOHK
   title: "Charles Hoskinson on Ethereum Classic from IOHK perspective"
   tags: ["teams", "media", "education", "podcast"]
--
-  date: 2020-04-30
-  link: https://medium.com/etc-core/top-miners-confirmed-to-support-phoenix-ethereum-classic-hard-fork-phoenix-status-update-bc8964424fd4
-  author: Stevan Lohja
-  source: ETC Core
-  title: "Top Miners Confirmed to Support Phoenix Ethereum Classic Hard-Fork— Phoenix Status Update"
-  tags: ["announcement", "development", "hardfork", "mining"]
 -
   date: 2020-04-30
   link: https://etccooperative.org/posts/2020-04-30-etc-cooperative-q1-2020-transparency-report
