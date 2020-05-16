@@ -337,7 +337,7 @@ items:
     className: green
     icon: fas fa-coins
     link: /blog/2017-12-11-gotham-hard-fork-upgrade-5m20-era2
-    text:  Dec 11 2017, Ethereum Classic's 5M20 emission schedule enters Era 2. Block rewards are reduced by 20% to 4 ETC per block
+    text:  December 11 2017, Ethereum Classic's 5M20 emission schedule enters Era 2. Block rewards are reduced by 20% to 4 ETC per block
   - key: multi-Geth-Launch
     title: Multi-Geth Launch
     date: Apr 08 2018
