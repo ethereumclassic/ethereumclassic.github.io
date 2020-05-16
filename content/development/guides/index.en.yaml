@@ -76,6 +76,11 @@ content:
         link: https://www.saturn.network/blog/how-to-write-secure-smart-contracts/
         description: A review of programming languages and best practises to help you write secure smart contracts.
       - 
+        key: Programming Decentralized Money
+        name: Programming Decentralized Money
+        link: https://medium.com/@austin_48503/programming-decentralized-money-300bacec3a4f
+        description: A straightforward guide to building smart contract applications.
+      - 
         key: How to create a token and ICO on Ethereum Classic
         name: How to create a token and ICO on Ethereum Classic
         link: https://forum.saturn.network/t/how-to-create-a-token-and-ico-on-ethereum-classic/1307
