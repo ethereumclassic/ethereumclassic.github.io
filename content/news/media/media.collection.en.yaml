@@ -1,10 +1,59 @@
 -
+  date: 2020-05-13
+  link: https://youtu.be/l1FpoyYcuac
+  author: Bob Summerwill
+  source: Epicenter Podcast
+  title: "EthCC: Tribalism in the Crypto Space"
+  tags: ["teams", "media", "education", "podcast"]
+-
+  date: 2020-05-13
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-announces-support-of-chainsafe-in-the-development-of-chainbridge-927ac1d83900
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "Ethereum Classic Labs Announces Support of ChainSafe in the Development of ChainBridge"
+  tags: ["announcement", "development", "application", "teams"]
+-
+  date: 2020-05-13
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-announces-support-of-chainsafe-in-the-development-of-chainbridge-927ac1d83900
+  author: Colin Schwartz
+  source: ChainSafe
+  title: "ChainSafe Building ChainBridge — A Multi-Chain Arbitrary Message Passing Standard"
+  tags: ["announcement", "development", "application", "teams"]
+-
+  date: 2020-05-12
+  link: https://medium.com/etc-core/top-miners-confirmed-to-support-phoenix-ethereum-classic-hard-fork-phoenix-status-update-bc8964424fd4
+  author: Stevan Lohja
+  source: ETC Core
+  title: "88% of the hash-rate is now confirmed to support Phoenix."
+  tags: ["announcement", "development", "hardfork", "mining"]
+-
+  date: 2020-05-11
+  link: https://youtu.be/dvcwWAMMx4c
+  author: Ethereum Classic Labs
+  source: Gitcoin Media
+  title: "ETC Labs Workshop: New York Blockchain Week Hackathon"
+  tags: ["teams", "media", "education", "guide"]
+-
+  date: 2020-05-08
+  link: https://medium.com/ethereum-classic-labs/gasless-experiences-on-ethereum-classic-ethereum-classic-labs-partners-with-opengsn-82fa61e306fe
+  author: ETC Labs
+  source: Ethereum Classic Labs
+  title: "Gasless Experiences on Ethereum Classic — Ethereum Classic Labs partners with OpenGSN"
+  tags: ["announcement", "development", "application", "teams"]
+-
+  date: 2020-05-07
+  link: https://youtu.be/KnmIlUumMDo
+  author: ETC Core
+  source: Ethereum Classic Core
+  title: "Up and Running Kotti TestNet in 1 minute with Jade Desktop"
+  tags: ["teams", "media", "education", "guide"]
+-
   date: 2020-05-06
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-presents-5-bounties-as-part-of-gitcoins-virtual-hackathon-for-new-york-f68686b92654
   author: ETC Labs
   source: Ethereum Classic Labs
   title: "Ethereum Classic Labs Presents 5 Bounties as Part of Gitcoin’s Virtual Hackathon for New York Blockchain Week"
-  tags: ["announcement", "development", "application"]
+  tags: ["announcement", "development", "application", "teams"]
 -
   date: 2020-05-04
   link: https://thebitcoinnews.com/remitano-officially-lists-5-new-invest-altcoins/
@@ -20,12 +69,12 @@
   title: "Ethereum Classic (ETC) is Looking for Stablecoin Projects to Support"
   tags: ["announcement", "development", "application"]
 -
-  date: 2020-04-30
-  link: https://medium.com/etc-core/top-miners-confirmed-to-support-phoenix-ethereum-classic-hard-fork-phoenix-status-update-bc8964424fd4
-  author: Stevan Lohja
-  source: ETC Core
-  title: "Top Miners Confirmed to Support Phoenix Ethereum Classic Hard-Fork— Phoenix Status Update"
-  tags: ["announcement", "development", "hardfork", "mining"]
+  date: 2020-05-01
+  link: https://youtu.be/rpNe1qkjnz4?t=6354
+  author: Charles Hoskinson
+  source: IOHK
+  title: "Charles Hoskinson on Ethereum Classic from IOHK perspective"
+  tags: ["teams", "media", "education", "podcast"]
 -
   date: 2020-04-30
   link: https://etccooperative.org/posts/2020-04-30-etc-cooperative-q1-2020-transparency-report
@@ -173,6 +222,13 @@
   source: Finance Magnates
   title: "Bitstamp Explores Support for Seven More Cryptocurrencies"
   tags: ["announcement", "application"]
+-
+  date: 2020-03-31
+  link: https://youtu.be/g6LZ1osKw8k
+  author: Vb Streetz
+  source: ETC Core
+  title: "Signatory Client - a Do It Yourself hardware wallet that can be installed on a single-board computer, like Raspberry PI."
+  tags: ["teams", "media", "education", "guide"]
 -
   date: 2020-03-30
   link: https://blog.bitmain.com/en/bitmains-antminer-e3-firmware-update/
@@ -971,6 +1027,13 @@
   source: Ethereum Classic Cooperative
   title: "What is happening with Ethereum Classic? (Devcon5)"
   tags: ["development", "teams", "media", "education"]
+-
+  date: 2019-12-05
+  link: https://exscudo.com/blog/blockchain/etc-vs-eth/
+  author: Ivan Skladchikov
+  source: Exscudo
+  title: "ETC vs. ETH: What Is Ethereum Classic?"
+  tags: ["education"]
 -
   date: 2019-12-04
   link: https://www.saturn.network/blog/what-is-a-full-node/

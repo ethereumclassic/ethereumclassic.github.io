@@ -308,17 +308,21 @@ content:
     type: buttons
     items:
     -
+      key: website ETC Hub
+      link: https://etchub.io/
+      name: ETCHub.io
+    -
       key: website EthereumClassicAsia
       link: http://ethereumclassicasia.org/
-      name: EthereumClassicAsia
+      name: EthereumClassicAsia.org
     -
       key: website EthereumClassic.cn
       link: http://ethereumclassic.cn/
       name: EthereumClassic.cn
     -
-      key: website ETCKorea
+      key: website ETC Korea
       link: https://etckorea.modoo.at/
-      name: ETCKorea
+      name: ETC Korea
     -
       key: website EthereumClassicKorea.com
       link: https://www.ethereumclassickorea.com/
