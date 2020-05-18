@@ -79,9 +79,17 @@ content:
       link: https://shop.ledger.com/
       name: Ledger
     -
+      key: Parity Signer
+      link: https://www.parity.io/signer/
+      name: Parity Signer
+    -
       key: SafePal
       link: https://www.safepal.io/
       name: SafePal
+    -
+      key: Signatory Client
+      link: https://vbstreetz.github.io/signatory-client/
+      name: Signatory Client
     -
       key: Trezor
       link: https://trezor.io/
