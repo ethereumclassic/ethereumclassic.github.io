@@ -29,21 +29,15 @@ items:
     etc: https://etcnodes.org/
     kotti: https://kotti.etcnodes.org/
   -
-    key: ETCStats
-    name: ETCStats
-    etc: http://etcstats.org
-    mordor: http://mordor.etcstats.org
-    kotti: http://kotti.etcstats.org
-  -
     key: ETCStatus
     name: ETCStatus
     etc: https://etcstatus.live/
   -
-    key: EtherStats
-    name: EtherStats
-    etc: http://etc.etherstats.net
-    mordor: http://mordor.etherstats.net
-    kotti: http://kotti.etherstats.net
+    key: Expedition
+    name: Expedition
+    etc: https://expedition.dev/?network=mainnet
+    kotti: https://expedition.dev/?network=kotti
+    mordor: https://expedition.dev/?network=mordor
   -
     key: MiningPoolStats
     name: MiningPoolStats
@@ -52,6 +46,10 @@ items:
     key: Nanopool
     name: Nanopool
     etc: https://etc.nanopool.org/stats
+  -
+    key: TokenView
+    name: TokenView
+    etc: https://etc.tokenview.com/en/charts
   -
     key: WhatToMine
     name: WhatToMine
@@ -64,13 +62,3 @@ items:
     key: Kotti Stats
     name: Kotti Stats
     kotti: http://stats.kotti.goerli.net/
-  -
-    key: Expedition
-    name: Expedition
-    etc: https://expedition.dev/?network=mainnet
-    kotti: https://expedition.dev/?network=kotti
-    mordor: https://expedition.dev/?network=mordor
-  -
-    key: TokenView
-    name: TokenView
-    etc: https://etc.tokenview.com/en/charts
