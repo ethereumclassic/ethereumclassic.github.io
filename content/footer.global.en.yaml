@@ -31,11 +31,11 @@ regions:
       name: Asia
     -
       key: Korea
-      link: http://ethereumclassic.cn/
+      link: https://www.ethereumclassickorea.com/
       name: Korea
     -
       key: China
-      link: https://www.ethereumclassickorea.com/
+      link: http://ethereumclassic.cn/
       name: China
 social:
   title: Social
