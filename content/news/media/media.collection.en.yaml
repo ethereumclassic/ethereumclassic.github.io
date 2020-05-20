@@ -42,6 +42,13 @@
   tags: ["announcement", "development", "application", "teams"]
 -
   date: 2020-05-07
+  link: https://youtu.be/VdtBY6PEeks
+  author: ETC Core
+  source: OpenRPC
+  title: "Introduction - OpenRPC Webinar"
+  tags: ["teams", "media", "education", "guide"]
+-
+  date: 2020-05-07
   link: https://youtu.be/KnmIlUumMDo
   author: ETC Core
   source: Ethereum Classic Core
