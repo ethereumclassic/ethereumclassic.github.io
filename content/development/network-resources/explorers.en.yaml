@@ -40,11 +40,11 @@ items:
     name: ETCPlanet
     etc: https://etcplanet.org/
   -
-    key: EthereumMain.net
-    name: EthereumMain.net
-    etc: http://ethereummain.net/
-    mordor: http://mordor.ethereumtest.net
-    kotti: http://kotti.ethereumtest.net
+    key: Expedition
+    name: Expedition
+    etc: https://expedition.dev/?network=mainnet
+    kotti: https://expedition.dev/?network=kotti
+    mordor: https://expedition.dev/?network=mordor
   -
     key: MinerGate
     name: MinerGate
@@ -53,9 +53,3 @@ items:
     key: Tokenview
     name: Tokenview
     etc: https://etc.tokenview.com/
-  -
-    key: Expedition
-    name: Expedition
-    etc: https://expedition.dev/?network=mainnet
-    kotti: https://expedition.dev/?network=kotti
-    mordor: https://expedition.dev/?network=mordor

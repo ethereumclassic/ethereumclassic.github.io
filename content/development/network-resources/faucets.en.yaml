@@ -8,11 +8,6 @@ items:
     name: Bridgette Bot
     kotti: https://discordapp.com/invite/HW4GckH
   -
-    key: EtherDrip
-    name: EtherDrip
-    kotti: http://kotti.etherdrip.net
-    mordor: http://mordor.etherdrip.net
-  -
     key: Astor.Host
     name: Faucet.Astor.Host
     astor: https://faucet.astor.host
