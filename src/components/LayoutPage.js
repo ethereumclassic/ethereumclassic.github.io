@@ -30,8 +30,8 @@ const LayoutPage = props => {
             {i18n.disclaimer && (
               <div className="tip">
                 <i className="info fas fa-exclamation-triangle" />
-                {'  '}
-                {ui.disclaimer}
+                {"  "}
+                {ui.disclaimerInfo}
               </div>
             )}
           </div>
@@ -46,7 +46,7 @@ const LayoutPage = props => {
             <LicenseTip i18n={i18n} />
             {i18n.contribute && (
               <div className="tip">
-                <Md unwrap>{ui.contribute}</Md>
+                <Md unwrap>{ui.contributeInfo}</Md>
               </div>
             )}
             <SectionMenu {...pageContext} />

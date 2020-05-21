@@ -1,0 +1,23 @@
+defaultLocale: en
+contentDir: content
+managementDir: i18n-management
+filterKeys:
+  - link
+  - className
+  - date
+  - type
+  - itemsRef
+  - iconRef
+  - icon
+  - configRef
+  - linkRef
+  - checkRef
+  - contribute
+  - disclaimer
+  - license
+  - dateFormat
+  - metaLocale
+  - htmlLang
+  - bodyClass
+  - tags
+  - youtube
