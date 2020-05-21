@@ -7,6 +7,7 @@ intro: |
 content: 
   -
     type: videos
+    key: ETC Summit 2017
     title: ETC Summit 2017
     subtitle: Hong Kong
     items: 
@@ -36,6 +37,7 @@ content:
         description: Alan McSherry, Ethereum Classic Developer | Team Grothendieck Manager, [IOHK](https://iohk.io/).
   -
     type: videos
+    key: ETC Summit 2018
     title: ETC Summit 2018
     subtitle: Seoul, South Korea
     items:
@@ -191,6 +193,7 @@ content:
         description: "Charles Hoskinson [@IOHK_Charles](https://twitter.com/IOHK_Charles), Co-Founder/CEO of [IOHK](https://iohk.io/)"
   -
     type: videos
+    key: ETC Summit 2019 - Day 1
     title: ETC Summit 2019 - Day 1
     subtitle: Vancouver, Canada
     items: 
@@ -309,6 +312,7 @@ content:
         description: Yaz Khoury [@Yazanator](https://twitter.com/Yazanator), Director of Developer Relations at [ETC Cooperative](https://etccooperative.org/).
   -
     type: videos
+    key: ETC Summit 2019 - Day 2
     title: ETC Summit 2019 - Day 2
     subtitle: Vancouver, Canada
     items:

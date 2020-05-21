@@ -9,6 +9,7 @@ content:
   -
     type: buttons
     title: Top 5 Mining Pools
+    key: Top 5 Mining Pools
     description: Top 5 Mining Pools by Hashrate at the time of writing.
     filter: rank
     sort: rank
@@ -16,5 +17,6 @@ content:
   -
     type: buttons
     title: Detailed Miner Pool List
+    key: Detailed Miner Pool List
     description: All the publicly known ETC mining pools
     itemsRef: pools

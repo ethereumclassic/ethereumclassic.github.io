@@ -9,6 +9,7 @@ content:
   -
     type: buttons
     title: Public Endpoints
+    key: Public Endpoints
     description: You can use these services to connect to ETC via JSON-RPC.
     items:
       -
@@ -30,6 +31,7 @@ content:
   -
     type: links
     title: Node Tools
+    key: Node Tools
     description: These tools make it easy to spin up a cluster of nodes for production deployments or perform data science with public datasets.
     items:
       - 

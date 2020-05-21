@@ -69,7 +69,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-yaml-i18n',
       options: {
-        locales: ['en']
+        locales: ['en', 'ja'],
+        generateMissing: false
       }
     },
     {

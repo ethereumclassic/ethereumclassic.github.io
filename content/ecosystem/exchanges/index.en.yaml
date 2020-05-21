@@ -13,6 +13,7 @@ intro: |
 content: 
   -
     type: buttons
+    key: centralized
     title: Centralized Exchanges
     items: 
     -
@@ -433,6 +434,7 @@ content:
       name: ZBG
   -
     type: buttons
+    key: trust-minimizing
     title: Trust-Minimizing Exchange
     description: Decentralization is a spectrum, and whilst the following "DEXs" are not necessary *fully* decentralized exchanges, they are designed to requires less custodial risk than the above.
     items: 
@@ -455,6 +457,7 @@ content:
   -
     type: buttons
     title: Instant Exchanges
+    key: instant
     description: "*Note:* Instant Exchanges typically offer worse rates than Centralized Exchanges."
     items:
     -
@@ -559,6 +562,7 @@ content:
       name: XChange
   -
     type: buttons
+    key: ETC Price Sources
     title: ETC Price Sources
     items: 
     -

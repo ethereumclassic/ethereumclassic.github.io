@@ -21,3 +21,5 @@ filterKeys:
   - bodyClass
   - tags
   - youtube
+  - brand
+  - supportIcon
