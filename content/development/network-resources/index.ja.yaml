@@ -15,7 +15,6 @@ intro: >
 networkTableConfig:
   intro: テスト
   columns:
-    - null
     - key: etc
       text: メインネット
     - key: kotti
