@@ -1,0 +1,43 @@
+title: クライアント
+description: さまざまなEthereum Classicクライアントと展開ツールのリンクをダウンロード
+intro: クライアントは、Ethereum
+  Classicネットワークと同期し、ブロックを検証するために使用されます。ほとんどのユーザーはノード全体を実行する必要はありませんが、ネットワークを信頼せずに操作することができます。
+  Ethereum Classicは、2020年6月にネットワークアップデートが予定されています。[Ethereum Classic Client
+  Upgrade Instructions](https://hackmd.io/IPA7zPwpQDy-1U0reeppcQ)をご覧ください。
+content:
+  -
+    title: パブリックエンドポイント
+    key: Public Endpoints
+    description: これらのサービスを使用して、JSON-RPC経由でETCに接続できます。
+    items:
+      - key: BlockScout
+        name: BlockScout
+      - key: Ethercluster
+        name: Ethercluster
+      - key: Ethercluster (Kotti)
+        name: Ethercluster(コッティ)
+      - key: Ethercluster (Mordor)
+        name: Ethercluster(Mordor)
+  -
+    title: ノードツール
+    key: Node Tools
+    description: これらのツールを使用すると、本番環境にデプロイするためにノードのクラスターを簡単に起動したり、パブリックデータセットを使用してデータサイエンスを実行したりできます。
+    items:
+      - key: Bloq Cloud
+        name: Bloqクラウド
+        description: BloqCloudは、高度に最適化された、常に利用可能なブロックチェーンネットワークへのアクセスを提供します。インフラストラクチャの管理を気にすることなく、迅速に接続し、ニーズに基づいて簡単に拡張できます。
+      - key: DappNode
+        name: DappNode
+        description: DAppNodeは、ノード、DAppの実行、P2Pネットワークとエコノミーのホスティングを容易にします。
+      - key: Ethercluster
+        name: Ethercluster
+        description: EtherclusterはオープンソースのEthereum Virtual
+          Machine(EVM)リモートプロシージャコール(RPC)であり、Ethereum
+          Classic(ETC)およびKottiエンドポイントを無料で提供します。
+      - key: Google BigQuery
+        name: Google BigQuery
+        description: Google
+          Cloudは、イーサリアムクラシックのブロックチェーントランザクション履歴で構成されるデータセットをリリースしました。これは、暗号通貨の理解を深めるのに役立ちます。また、すべてのブロックチェーンデータセットを複式簿記データ構造にマップするクエリとビューのセットが含まれ、マルチチェーンメタ分析や、従来の財務記録処理システムとの統合が可能です。
+      - key: QuikNode
+        name: QuikNode
+        description: QuikNodeは簡単で、常にオンであり、高速インターネット接続で迅速なブロックチェーン同期が可能で、ディスク容量の不足を心配する必要はありません。

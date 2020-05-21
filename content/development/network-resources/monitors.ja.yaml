@@ -1,0 +1,31 @@
+title: ネットワークモニター
+description: ネットワークモニターは、マイナー、ノード、ネットワークパフォーマンス、ユーザーアクティビティの分析など、ネットワークの状態に関する洞察を提供します。さらに、これらのツールは、51％攻撃のようなネットワーク攻撃を警告します。
+items:
+  - key: PhoenixUpgrade
+    name: フェニックスハードフォークカウントダウン
+  - key: 2Miners
+    name: 2Miners
+  - key: CoinMetrics
+    name: CoinMetrics
+  - key: CoinWarz
+    name: コインワルツ
+  - key: Emerald Insights
+    name: エメラルドインサイト
+  - key: ETCNodes
+    name: ETCNodes
+  - key: ETCStatus
+    name: ETCStatus
+  - key: Expedition
+    name: 遠征
+  - key: MiningPoolStats
+    name: MiningPoolStats
+  - key: Nanopool
+    name: ナノプール
+  - key: TokenView
+    name: TokenView
+  - key: WhatToMine
+    name: WhatToMine
+  - key: Astor Stats
+    name: アスター統計
+  - key: Kotti Stats
+    name: コッティ統計

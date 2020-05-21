@@ -1,0 +1,23 @@
+title: 知識ベース
+root: /知識
+menu:
+  - key: what-is-etc
+    name: ETCとは何ですか？
+    tip: イーサリアムクラシックの基本
+    description: この初心者向けの紹介セクションでは、Ethereum Classicとブロックチェーンテクノロジーに慣れていない場合に、すぐに慣れることができます。
+  - key: faqs
+    name: よくある質問
+    tip: よくある質問
+    description: このセクションでは、Ethereum Classicに関する一般的な質問と回答およびビデオの説明について説明します。
+  - key: theory
+    name: 理論
+    tip: 原則と哲学
+    description: Ethereum Classicの背後にある動機を理解したい場合は、このセクションに、ETCの概要を理解するのに役立つリソースが含まれています。
+  - key: roadmap
+    name: ロードマップ
+    tip: 歴史と今後の展開
+    description: このセクションでは、Ethereum Classicの多彩な歴史を文書化し、その開発の次の段階を見ていきます。
+  - key: investor
+    name: 投資家リソース
+    tip: ETC投資分析のリソース
+    description: 投資家向けの主要な論文と関連情報を議論するリソース。 ETCの価値命題とアップサイドの可能性を理解したいと考えている人に役立ちます。

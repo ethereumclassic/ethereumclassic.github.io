@@ -1,0 +1,12 @@
+title: 蛇口
+description: 蛇口はEthereum
+  Classicパブリックサービスであり、サンドボックス環境での契約の展開とトランザクションのテストのために少量のテストネットETCを取得できます。あなたが開発者であれば、ネットワーク上でノードを実行してマイニングすることにより、これらのテストネットに貢献することを検討してください。これは、より大きなイーサリアムクラシックエコシステムのための無私の慈善行為です。
+items:
+  - key: BridgetteBot
+    name: ブリジットボット
+  - key: Astor.Host
+    name: Faucet.Astor.Host
+  - key: KottiFaucet.me
+    name: KottiFaucet.me
+  - key: Mordor.Canhaz.net
+    name: Mordor.Canhaz.net

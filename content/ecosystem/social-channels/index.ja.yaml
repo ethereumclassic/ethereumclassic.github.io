@@ -1,0 +1,163 @@
+title: ソーシャルチャネル
+description: イーサリアムクラシックチャットルーム、ツイッターアカウント、ディスカッショングループ、フォーラム、ポッドキャスト、リポジトリ、地域のWebサイトのコレクション
+intro: 以下は、アクティブなEthereum Classicディスカッションチャネルおよびグループの完全ではないリストです。
+content:
+  - key: Chat Rooms
+    title: チャットルーム
+    items:
+      - key: chat Discord
+        name: 不和
+      - key: chat Facebook English
+        name: Facebook英語
+      - key: chat Facebook Vietnam
+        name: Facebookベトナム
+      - key: chat Kakao Korea
+        name: カカオ韓国
+      - key: chat Slack
+        name: スラック
+      - key: chat Tencent QQ
+        name: Tencent QQ
+        alert: ETC Asia-769408114
+      - key: chat WeChat
+        name: WeChat
+  - key: Development Chat
+    title: 開発チャット
+    items:
+      - key: Commonwealth.gg dev
+        name: Commonwealth.gg
+      - key: Core Paper dev
+        name: コアペーパー
+      - key: ETC Core dev
+        name: ETCコア
+      - key: OpenEthereum dev
+        name: OpenEthereum
+      - key: PAO Network dev
+        name: PAOネットワーク
+      - key: Core Geth dev
+        name: コアゲス
+      - key: Multi-Geth dev
+        name: マルチ歯
+      - key: Open-RPC dev
+        name: Open-RPC
+      - key: POA Network dev
+        name: POAネットワーク
+      - key: ECIPs dev
+        name: ECIP(マトリックス)
+      - key: Parity Tech dev
+        name: パリティ技術(マトリックス)
+      - key: Hyperledger Besu dev
+        name: ハイパーレジャーベス
+      - key: ETCDEV dev
+        name: ETCDEV
+      - key: ETC Labs dev
+        name: ETCラボ
+      - key: Parity Tech dev telegram
+        name: パリティテック
+      - key: POA Network telegram
+        name: POAネットワーク
+      - key: Gödel Labs dev
+        name: ゲーデル研究所
+  - key: Telegram Groups
+    title: 電報グループ
+    items:
+      - key: telegram Arabic
+        name: アラビア語
+      - key: telegram China
+        name: 中国
+      - key: telegram English 1
+        name: 英語
+      - key: telegram English 2
+        name: 英語
+      - key: telegram Español
+        name: スペイン語
+      - key: telegram German
+        name: ドイツ人
+      - key: telegram Italia
+        name: イタリア
+      - key: telegram Japan
+        name: 日本
+      - key: telegram Russia 1
+        name: ロシア
+      - key: telegram Russia 2
+        name: ロシア
+      - key: telegram Viet Nam
+        name: ベトナム
+  - key: Forums
+    title: フォーラム
+    items:
+      - key: forum Reddit r/EthereumClassic
+        name: Reddit r/EthereumClassic
+      - key: forum forum.ethereumclassic.org
+        name: EthereumClassic.orgフォーラム
+      - key: forum BitcoinTalk
+        name: BitcoinTalk
+      - key: forum Archived BitcoinTalk
+        name: アーカイブされたBitcoinTalk
+  - key: Media
+    title: メディア
+    items:
+      - key: media ETCfInv
+        name: 投資家向けのEthereum Cassic(ETC)
+      - key: media Etherplan
+        name: Etherplan
+      - key: media EVM61
+        name: EVM61
+      - key: media Explore The Chain
+        name: チェーンを探索する
+      - key: media Let's Talk ETC!
+        name: ETCで話そう!
+  - key: Code Repositories
+    title: コードリポジトリ
+    items:
+      - key: repository ETC Github
+        name: ETC Github
+      - key: repository ETC Awesome List
+        name: ETC Awesomeリスト
+  - key: Twitter Accounts
+    title: Twitterアカウント
+    items:
+      - key: twitter China 1
+        name: 中国
+      - key: twitter China 2
+        name: 中国
+      - key: twitter English 1
+        name: 英語
+      - key: twitter English 2
+        name: 英語
+      - key: twitter Español
+        name: スペイン語
+      - key: twitter France
+        name: フランス
+      - key: twitter Germany
+        name: ドイツ
+      - key: twitter Italia
+        name: イタリア
+      - key: twitter Japan
+        name: 日本
+      - key: twitter Korea 1
+        name: 韓国
+      - key: twitter Korea 2
+        name: 韓国
+      - key: twitter Netherlands
+        name: オランダ
+      - key: twitter Philippines
+        name: フィリピン
+      - key: twitter Sri Lanka
+        name: スリランカ
+      - key: twitter Turkey
+        name: 七面鳥
+      - key: twitter Viet Nam
+        name: ベトナム
+  - key: Regional Website
+    title: 地域のウェブサイト
+    items:
+      - key: website ETC Hub
+        name: ETCHub.io
+      - key: website EthereumClassicAsia
+        name: EthereumClassicAsia.org
+      - key: website EthereumClassic.cn
+        name: EthereumClassic.cn
+      - key: website ETC Korea
+        name: ETC韓国
+      - key: website EthereumClassicKorea.com
+        name: EthereumClassicKorea.com

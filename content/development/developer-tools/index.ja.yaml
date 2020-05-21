@@ -1,0 +1,114 @@
+title: 開発者ツール
+description: Ethereum Classicアプリケーション開発エクスペリエンスを強化するツールのコレクション
+intro: |
+  良い道具は熟練した職人をより良くする。このセクションには、開発経験をレベルアップできる優れたツールのスイートが含まれています。
+
+  ##クライアント
+
+  さまざまなETCクライアントの詳細については、[クライアント](/development/clients)ページをご覧ください。
+content:
+  - key: processors
+    title: 支払い処理業者
+    description: これらのAPIを使用して、WebサイトまたはアプリケーションでETC支払いを受け入れることができます。
+    items:
+      - key: AnyCoinDirect
+        name: AnyCoinDirect
+      - key: Bit4Sale
+        name: Bit4Sale
+      - key: Bitladon
+        name: ビトラドン
+      - key: CoinsBee
+        name: コインビー
+      - key: CoinDirect
+        name: CoinDirect
+      - key: CoinGate
+        name: CoinGate
+      - key: Coinmerce
+        name: コインメルス
+      - key: CoinPayments
+        name: CoinPayments
+      - key: Cryptomate
+        name: 暗号
+      - key: Cryptonator Merchant
+        name: クリプトネーター商人
+      - key: Cryptwerk
+        name: クリプトワーク
+      - key: Fud Desk
+        name: ファッドデスク
+      - key: LiteBit
+        name: LiteBit
+      - key: NOWPayments
+        name: NOWPayments
+      - key: Paxful
+        name: パックスフル
+      - key: RoundlyX
+        name: RoundlyX
+      - key: Utrust
+        name: Utrust
+  - key: tooling
+    title: 開発ツール
+    description: Ethereum Classicアプリケーションの開発を支援できるツールの非網羅的な選択。
+    items:
+      - key: BUIDL IDE
+        name: ビルドIDE
+        description: Second State BUIDL
+          IDEは、ソフトウェアのダウンロードやインストールを必要としないWebベースのIDEです。スマートコントラクトおよびdapp開発者にワンストップの開発および展開環境を提供します。
+      - key: Dappkit
+        name: ダップキット
+        description: 元帳にとらわれない、高性能なインフラストラクチャとライブラリであり、開発者は分散型アプリケーションを構築および拡張できます。要するに、Dappsのための共同Firebaseです。
+      - key: Embark Framework
+        name: Embarkフレームワーク
+        description: Ethereum、IPFS、その他のプラットフォームを使用したサーバーレス分散アプリケーションのフレームワーク。
+      - key: Emerald Platform
+        name: エメラルドプラットフォーム
+        description: ETCブロックチェーン用のDappsを構築するためのプラットフォーム。
+      - key: ESerialize
+        name: ESシリアライズ
+        description: このモジュールの目標は、イーサリアムスタックのデータをシリアル化および逆シリアル化する簡単な機能を提供することです。
+      - key: Ethereum JSON-RPC API
+        name: Ethereum JSON-RPC API
+        description: EVMベースのブロックチェーンクライアントが実装する必要があるJSON-RPCメソッドの仕様。
+      - key: Eth Fiddle
+        name: エスフィドル
+        description: スマートコントラクトのオンラインエディター。
+      - key: EVM-LLVM
+        name: EVM-LLVM
+        description: 開発者は、Solidity以外の広範なプログラミング言語(Rust for smart
+          Contracts!)を使用してEthereum Virtual
+          Machine(EVM)をターゲットにするだけでなく、LLVMインフラストラクチャを中心に構築されたさまざまな開発ツールからすぐにメリットを得ることができます。
+      - key: Ganache
+        name: ガナッシュ
+        description: テストを実行するためのパーソナルEthereumブロックチェーン。
+      - key: Jade Suite
+        name: ジェイドスイート
+        description: Jadeツールスイートにより、開発者は、Ethereum
+          ClassicのようなEVMベースのブロックチェーンの上にピアツーピアの分散型アプリケーションを作成できます。
+      - key: Mythx
+        name: 神話
+        description: MythXは、Ethereumスマートコントラクトの最高のセキュリティ分析サービスです。私たちの使命は、開発チームがコストのかかるエラーを回避し、イーサリアムをより安全で信頼できるプラットフォームにすることです。
+      - key: Open-RPC
+        name: Open-RPC
+        description: OpenRPC仕様は、JSON-RPC 2.0 APIの標準のプログラミング言語に依存しないインターフェース記述を定義しています。
+      - key: OpenZeppelin
+        name: OpenZeppelin
+        description: 安全で再利用可能なスマートコントラクトの、テスト済みのフレームワーク。
+      - key: Quorum
+        name: 定足数
+        description: Quorumは、パブリックEthereumコミュニティのイノベーションと企業のニーズをサポートする拡張機能を組み合わせたオープンソースのブロックチェーンプラットフォームです。
+      - key: Remix Online IDE
+        name: オンラインIDEのリミックス
+        description: スマートコントラクトをコンパイルしてさまざまなEthereumネットワークに公開できる、ブラウザー内の便利なIDE。リンターが含まれています。
+      - key: Signatory
+        name: 署名者
+        description: イーサリアムスタックのオフライントランザクションおよびメッセージ署名者。
+      - key: SOLL
+        name: SOLL
+        description: LLVMコンパイラがついにSolidityに登場します。これにより、複数のブロックチェーンVM間でスマートコントラクトを簡単に作成できます。
+          Ethereum ClassicのEVMとETH 2.0のeWASMは、私たちがサポートする最初のものです。
+      - key: Sputnikvm
+        name: Sputnikvm
+        description: SputnikVMは、Ethereum Virtual
+          Machine(EVM)のオープンソーススタンドアロン実装です。これは、さまざまなEthereumベースのブロックチェーン用の効率的でプラグ可能な仮想マシンになることを目的としています。
+      - key: Truffle Suite
+        name: トリュフスイート
+        description: イーサリアム仮想マシン(EVM)を使用したブロックチェーン用の世界クラスの開発環境、テストフレームワーク、およびアセットパイプライン。開発者としての生活を容易にすることを目的としています。

@@ -1,0 +1,72 @@
+legend: 伝説
+all: すべて
+legends:
+  game: ゲーム
+  identity: 身元
+  interoperabiltiy: 相互運用性
+  finance: ファイナンス
+  other: その他の
+items:
+  - key: Arena Racing
+    name: アリーナレーシング
+    text: 最大5人のプレイヤーがステージに参加し、フィニッシュまでレースを行います。すべてのプレイヤーはレースに0.1
+      ETCを支払います。アリーナの1人のプレーヤーがレースに負けますが、P3Cから配当を受け取ります。P3Cは毎ラウンド購入され、契約に拘束されます。
+  - key: Aqua Bank
+    name: アクアバンク
+    text: このゲームでは、クジラの世話をします。魚は他の絶滅危惧種とともに保護地域に住んでいます。プレイヤーはクジラを成長させるためにプランクトンを使って餌を与えることになっています。クジラは、プランクトンを消費するため、石油も生産します。油とクジラの肉のスライスは港で要求され、そこではプランクトンに餌を与えることもできます。水族館の魚の成長を見ながらリラックス
+  - key: Commonwealth Tribes
+    name: 連邦部族
+    text: 部族の目的は、連邦への投資におけるリスクを軽減することです。部族として投資してください!
+  - key: ETCOdyssey
+    name: ETCOdyssey
+    text: ダークマターとスターダストを盗もうとするレイダーを避けるために、船をアップグレードしてください。ポットの一定の割合でゲームStarDustを融合するか、1トランザクションでウォレットに送信されたONEXネットワークトークン用にStarDustを変換します。
+  - key: Luckygames
+    name: ラッキーゲーム
+    text: イーサリアムクラシックサイコロとギャンブルのサイト。
+  - key: OriginalMy
+    name: OriginalMy
+    text: コーポレートガバナンスへの信頼の構築。シームレスな認証：ID、承認署名、デジタルコンテンツ。セルフソブリンアイデンティティのためのグローバルな公益事業。
+  - key: Stampery
+    name: スタンパリー
+    text: 私たちはブロックチェーン技術を活用して、組織にとって重要な通信、プロセス、データの存在、整合性、属性を保証します。
+  - key: BTC-to-wBTC
+    name: BTC-to-wBTC
+    text: ラップされたビットコインは、ERC20トークンの柔軟性を備えたビットコインのパワーを提供します。 EVMでトークン化されたビットコイン。
+  - key: ETC-to-wETC
+    name: ETC-to-wETC
+    text: Ethereum Classic
+      Bridgeは、ETCとETHを接続します。ETCは、Ethereum(ETH)チェーン上のwETCとして利用できます。
+  - key: EVM-to-BNC Bridge
+    name: EVMからBNCへのブリッジ
+    text: EVMからBNCへのブリッジは、TokenBridgeアプローチとTSSを組み合わせて、リレー操作を承認し、EVMチェーンとBinanceチェーン間のアセット転送を容易にします。
+  - key: Token Bridge
+    name: トークンブリッジ
+    text: TokenBridgeを使用すると、Ethereumエコシステムの2つのチェーン間でデータ(デジタル資産の所有権情報など)を転送できます。クロスチェーンブリッジは、ブロックチェーン間に高速で安全な接続を提供し、Ethereum
+      EVMネットワーク間にスケーラビリティと接続-相互運用性-を作成します。
+  - key: Commonwealth
+    name: 連邦
+    text: 世界の貯蓄基金。不変。 2018年に建てられました。
+  - key: GitCoin
+    name: GitCoin
+    text: オープンソースソフトウェアプロジェクトのクラウドファンディングおよびフリーランスの開発者。
+  - key: ONEX Network
+    name: ONEXネットワーク
+    text: イーサリアムクラシックネットワークの証拠金トークン。これは、ビットコインで使用されるより広く知られているプロセスの代替方法です。作業証明(POW)。
+  - key: Cryptwerk
+    name: クリプトワーク
+    text: イーサリアムクラシックで支払います。 ETCを受け入れる企業と店舗。あなたの暗号を使う。
+  - key: Dapp Direct
+    name: Dapp Direct
+    text: ETCアプリケーションのライブ統計とランキング。
+  - key: Grayscale® Ethereum Classic Trust
+    name: Grayscale®Ethereum Classic Trust
+    text: グレースケールイーサリアムクラシックトラストにより、投資家は、ETCの購入、保管、保管の問題なしに、従来の投資手段を通じてETCの価格変動に触れることができます。
+  - key: Portal.Network
+    name: Portal.Network
+    text: ブロックチェーンネームサービスは、IPFSハッシュ、スマートコントラクト、ウォレットアドレスとの接続を可能にします。
+  - key: XAR Network
+    name: XARネットワーク
+    text: Xar
+      Networkは、企業や中央銀行がブロックチェーンテクノロジーをプライベートな許可されたスペースで使用する必要性から生まれました。私たちの機能セットが成長するにつれて、分散型ファイナンスエコシステムとの一貫したクロスオーバーに気づき、最終的にXarツールキットは本格的な分散型ファイナンスツールボックスに成長しました。
+      Xar
+      Networkは、ブロックチェーンベースまたは分散型ファイナンス(DeFi)を使用して、純粋に従来の銀行システムとブロックチェーンシステムの両方の利点へのアクセスを提供します。

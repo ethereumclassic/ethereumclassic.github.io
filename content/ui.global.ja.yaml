@@ -1,0 +1,17 @@
+title: イーサリアムクラシック
+description: スマートコントラクトを実行する分散コンピューティングプラットフォーム：ダウンタイム、検閲、またはサードパーティの干渉なしにプログラムどおりに実行されるアプリケーション
+notFound: ページが見つかりません
+notFoundText: このページは存在しません
+goBack: 戻る
+disclaimerInfo: このページのリンクはETC参加者による寄稿であり、安全であるとは限りません。自己責任で使用してください!このサイトのリソースを使用する前に、独自の調査を行ってください。
+contributeInfo: このページのコンテンツが正しくないか不足していると思われる場合は、[Ethereum Classic
+  Discord](https://discordapp.com/invite/HW4GckH)から連絡するか、[GitHub](https：//github)で問題を作成してください.com/ethereumclassic/ethereumclassic.github.io)。
+licenseInfo: このページのコンテンツはライセンスに基づいて提供されています
+learnMore: もっと詳しく知る
+continueReading: 読み続けて
+warning:
+  title: ハードフォークアラート
+  description: イーサリアムクラシックのフェニックスアップグレードは、2020年6月にブロック10,500,839で計画されています。
+    ETCノードを実行している場合は、互換性のあるクライアントに更新してください。
+  button:
+    text: 更新

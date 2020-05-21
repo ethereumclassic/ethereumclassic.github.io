@@ -1,0 +1,288 @@
+title: イーサリアムクラシックサミット
+description: イーサリアムクラシックサミット2017、2018、2019の動画
+intro: >
+  このページには、[Ethereum Classic
+  Summit](https://etcsummit.com/)に関連するリンクとビデオプレゼンテーションが含まれています。
+
+
+  これまでに、Ethereum Classic Summitは3つの場所で開催されています。
+content:
+  - key: ETC Summit 2017
+    title: 2017年ETCサミット
+    subtitle: 香港
+    items:
+      - key: IOHK - ETC Hong Kong Summit
+        title: IOHK-ETC香港サミット
+        description: ETCサミット2017のIOHKからのプロモーションビデオ。
+      - key: Making Ethereum Classic a Utilitarian Platform
+        title: イーサリアムクラシックを実用的なプラットフォームにする
+        description: Charles Hoskinson
+          [@IOHK_Charles](https://twitter.com/IOHK_Charles)、[IOHK](https://iohk.io/)の共同創設者/CEO、およびEthereumプロジェクトの共同創設者。
+      - key: Since the Hard Fork
+        title: ハードフォーク以来
+        description: Alan Verbner
+          [@alanverbner](https://twitter.com/alanverbner)、Ethereum Classic
+          Developer、Team Grothendieck、[IOHK](https://iohk.io/)。
+          [スライド](https://etcsummit.com/wp-content/uploads/2017/11/ETC-Alan_V.pptx)
+      - key: The Road Ahead
+        title: 前方の道路
+        description: Alan McSherry、Ethereum
+          Classic開発者|チームGrothendieckマネージャー、[IOHK](https://iohk.io/)。
+  - key: ETC Summit 2018
+    title: 2018年ETCサミット
+    subtitle: ソウル、韓国
+    items:
+      - key: State of ETC
+        title: ETCの状態
+        description: Anthony Lusardi [@pyskell](https://twitter.com/pyskell)、[ETC
+          Cooperative](https://etccooperative.org/)の米国ディレクター、
+      - key: ETCDEVs Past Present and Future
+        title: ETCDEVの現在と未来
+        description: Darcy Reno、プログラムマネージャー、[ETCDEV](https://twitter.com/etcdev)。
+      - key: Ethereum Classic Development IOHK Team Grothendieck
+        title: Ethereum Classic開発IOHKチームGrothendieck
+        description: トムフリン、[IOHK](https://iohk.io/)。
+      - key: Building the ETC Ecosystem
+        title: ETCエコシステムの構築
+        description: Terry Culver
+          [@realetclassic](https://twitter.com/realetclassic)、[Ethereum Classic
+          Labs](https://etclabs.org/)のCEO。
+      - key: Towards a Multichain Future
+        title: マルチチェーンの未来に向けて
+        description: Bob Summerwill
+          [@BobSummerwill](https://twitter.com/BobSummerwill)、Varro
+          Technologies。
+      - key: The Enhancement of ETC's Ecosystem
+        title: ETCのエコシステムの強化
+        description: ジウォン・ジョン
+      - key: Interoperable Cross Chain Transfers on ETC to Other Blockchains
+        title: ETC上の他のブロックチェーンへの相互運用可能なクロスチェーン転送
+        description: Dionysis Zindros
+          [@dionyziz](https://twitter.com/dionyziz)、[IOHK](https://iohk.io/)。
+      - key: IoT Live Demonstration
+        title: IoTライブデモンストレーション
+        description: Cody Burns
+          [@dontpanicburns](https://twitter.com/dontpanicburns)、[Accenture](https://www.accenture.com/)のブロックチェーンアーキテクト。
+      - key: From SNARKs to Sidechains Synergies and Opportunities
+        title: SNARKからサイドチェーンの相乗効果と機会へ
+        description: Rob Viglione [@robviglione](https://twitter.com/robviglione)、CEO
+          [Horizen Labs](https://twitter.com/horizenlabs)。
+      - key: ETCDEV’s Emerald Platform Build DApps on ETC
+        title: ETCDEVのエメラルドプラットフォームがETCでDAppを構築
+        description: シェーンジョナス[@shanejonas](https://twitter.com/shanejonas)およびザカリーベルフォード[@belfordz](https://twitter.com/belfordz)、[ETCDEV](https://twitter.com/etcdev)
+          。
+      - key: Forkonomy, Blockchains and Time Travel Possible Futures for ETC
+        title: 経済、ブロックチェーン、およびタイムトラベルETCの将来の可能性
+        description: ワッシムアルシンディ[@WassimAlsindi](https://twitter.com/WassimAlsindi)
+      - key: ETCDEV’s Solution for Scaling ETC
+        title: ETCのスケーリングに関するETCDEVのソリューション
+        description: Igor Artamanov
+          [@splix](https://twitter.com/splix)、CEO、[ETCDEV](https://twitter.com/etcdev)。
+      - key: ETC in The Korean Community
+        title: 韓国人コミュニティのETC
+        description: キム・ギョンソプ
+      - key: BlockScout - An Opensource EVM Blockchain Explorer
+        title: BlockScout-オープンソースのEVMブロックチェーンエクスプローラー
+        description: イゴールバリノフ[@barinov](https://twitter.com/barinov)、CEO、[POA.network](https://www.poa.network/)
+      - key: ASICs - A Manufacturer's Perspective
+        title: ASIC-メーカーの視点
+        description: チェンミン、CEO、[Linzhi](https://linzhi.io/)
+      - key: Global Liquidity and Market Dynamics
+        title: グローバルな流動性と市場のダイナミクス
+        description: マットベック、トムリー、マイクモロ、ジャックリュー
+      - key: Cryptocurrency vs Traditional Financial Industry
+        title: 暗号通貨と従来の金融業界
+        description: James Wo [@realjameswo](https://twitter.com/realjameswo)、[Ethereum
+          Classic Labs](https://etclabs.org/)の創設者
+      - key: The Dynamics of the Cryptocurrency Market in Korea
+        title: 韓国の暗号通貨市場のダイナミクス
+        description: ナム・セヨン
+      - key: Immutability and Censorship Resistance Panel
+        title: 不変性と検閲抵抗パネル
+        description: アンソニールサルディ、アリソンアレクシス、ワッシムアルシンディ、コングガオ、バージルグリフィス
+      - key: How Millennials are Powering Wall Street’s Interest in Crypto
+        title: ミレニアル世代がウォールストリートの暗号への関心をどのように高めているか
+        description: "[トムリー](https://twitter.com/fundstrat)、[ファンドストラット](https://www.fun\
+          dstrat.com/)"
+      - key: Avoiding Contentious Changes How ETC's Community Does it Differently
+        title: ETCのコミュニティが異なる方法で行う方法
+        description: Kevin Lord
+          [@IOHK_Kevin](https://twitter.com/IOHK_Kevin)、[IOHK](https://iohk.io/)
+      - key: Positive Sum Games Between ETC and ETH
+        title: ETCとETH間の正の和ゲーム
+        description: ヴァージルグリフィス[@virgilgr](https://twitter.com/virgilgr)、[Ethereum
+          Foundation](https://ethereum.org/)の特別プロジェクト
+      - key: Institutional Adoption of Cryptoassets
+        title: 暗号資産の制度的採用
+        description: ケイボンピレスターニ
+      - key: ETC in The East
+        title: 東のETC
+        description: クリスチャン徐[@CRSXu](https://twitter.com/CRSXu)
+      - key: The Road Ahead - ETC Summit 2018
+        title: 今後の道-ETCサミット2018
+        description: Charles Hoskinson
+          [@IOHK_Charles](https://twitter.com/IOHK_Charles)、[IOHK](https://iohk.io/)の共同創設者/CEO
+  - key: ETC Summit 2019 - Day 1
+    title: 2019年ETCサミット-1日目
+    subtitle: カナダ、バンクーバー
+    items:
+      - key: ETC Summit 2019
+        title: 終日1-2019年10月3日
+      - key: Opening Address - Day 1
+        title: 開会挨拶-1日目
+        description: Bob Summerwill
+          [@BobSummerwill](https://twitter.com/BobSummerwill)、[ETC
+          Cooperative](https://etccooperative.org/)のエグゼクティブディレクター。
+      - key: The State of Ethereum Classic
+        title: イーサリアムクラシックの状態
+        description: Anthony Lusardi [@pyskell](https://twitter.com/pyskell)、元米国[ETC
+          Cooperative](https://etccooperative.org/)のディレクター。
+      - key: Ethereum Classic Principles, Vision and Opportunity
+        title: イーサリアムクラシックの原則、ビジョン、機会
+        description: ドナルドマッキンタイア[@MyEtherPlan](https://twitter.com/MyEtherplan)、研究者、ライター、ポッドキャスター[Etherplan](https://etherplan.com/)。
+      - key: Atlantis Protocol Upgrade and The ETC Roadmap
+        title: アトランティスプロトコルのアップグレードとETCロードマップ
+        description: Afri Schoeden [@ a4fri](https://twitter.com/a4fri)、[Ethereum
+          Classic](https://ethereumclassic.org/)コア開発者。
+      - key: The Future of JSON-RPC Tooling
+        title: JSON-RPCツールの未来
+        description: Shane Jonas [@shanejonas](https://twitter.com/shanejonas)、[ETC
+          Core](https://etccore.io/)の共同リードツール開発者。
+      - key: Bridging the Decentralized Services Gap
+        title: 分散型サービスのギャップを埋める
+        description: Zane Starr [@zanecstarr](https://twitter.com/zanecstarr)、[ETC
+          Core](https://etccore.io/)のツール開発者。
+      - key: Adding Merkle-Mountain-Ranges and Fly-Proofs to ETC
+        title: マークル山範囲とフライプルーフをETCに追加する
+        description: Zac Mitton [@VoltzRoad](https://twitter.com/VoltzRoad)、[Voltz
+          Road](https://voltzroad.com/)のオープンソースソフトウェアエンジニア。
+      - key: "Ethereum Classic's ECIP-1050: One Byte of Context"
+        title: Ethereum ClassicのECIP-1050：1バイトのコンテキスト
+        description: Brooklyn Zelenka
+          [@expede](https://twitter.com/expede)、[FISSION](https://fission.codes/)の共同創設者/CTO。
+      - key: The Year Ahead for Ethereum Classic Labs
+        title: イーサリアムクラシックラボの1年
+        description: Terry Culver
+          [@realetclassic](https://twitter.com/realetclassic)、[Ethereum Classic
+          Labs](https://etclabs.org/)および[ETC Core](https://etccore.io/)のCEO 。
+      - key: Infrastructure for Decentralizing Distributed Networks
+        title: 分散ネットワークを分散するためのインフラストラクチャ
+        description: アーロン・ローリー[@Aaron_Lowry](https://twitter.com/Aaron_Lowry)、[Ethernode](https://ethernode.io/)の共同創設者/CEO。
+      - key: "Radical Ideals: Experiments in Sustaining Open Source Software"
+        title: 根本的な理想：オープンソースソフトウェアを維持する実験
+        description: スコットムーア[@notscottmoore](https://twitter.com/notscottmoore)、[Gitcoin](https://gitcoin.co/)の開発者責任者リーダー。
+      - key: "POA Network: Development Tools in the ETC Ecosystem"
+        title: POAネットワーク：ETCエコシステムの開発ツール
+        description: Andrew Gross [@poanetwork](https://twitter.com/poanetwork)、[POA
+          Network](https://www.poa.network/)のテクニカルライター。
+      - key: Collaborative Machine Learning on Ethereum Classic
+        title: Ethereum Classicでの協調機械学習
+        description: Cody Burns
+          [@dontpanicburns](https://twitter.com/dontpanicburns)、[Accenture](https://www.accenture.com/)のブロックチェーンアーキテクト。
+      - key: State of the Ethereum Classic Testnets
+        title: イーサリアムクラシックテストネットの状態
+        description: Afri Schoeden [@ a4fri](https://twitter.com/a4fri)、[Ethereum
+          Classic](https://ethereumclassic.org/)コア開発者。
+      - key: "Metronome - First Cross-Chain Cryptocurrency: Chain Hop From ETH to ETC"
+        title: メトロノーム-最初のクロスチェーン暗号通貨：ETHからETCへのチェーンホップ
+        description: Manoj Patidar
+          [@manojpatidarr](https://twitter.com/manojpatidarr)、[Bloq](https://www.bloq.com/)の主任エンジニア。
+      - key: "Fireside Chat: Improving Investor Access to Ethereum Classic"
+        title: Fireside Chat：投資家によるEthereum Classicへのアクセスの改善
+        description: Michael Sonnenshein
+          [@Sonnenshein](https://twitter.com/Sonnenshein)、[Grayscale](https://grayscale.co/)の代表取締役。
+      - key: The Need for Cross Chain Collaboration
+        title: クロスチェーンコラボレーションの必要性
+        description: Aidan Hyman
+          [@Aidan_IH](https://twitter.com/Aidan_IH)、[ChainSafe](https://chainsafe.io/)の共同創設者/CEO。
+      - key: Developer Relations in Ethereum Classic
+        title: Ethereum Classicの開発者関係
+        description: Yaz Khoury [@Yazanator](https://twitter.com/Yazanator)、[ETC
+          Cooperative](https://etccooperative.org/)のデベロッパーリレーションズディレクター。
+  - key: ETC Summit 2019 - Day 2
+    title: ETCサミット2019-2日目
+    subtitle: カナダ、バンクーバー
+    items:
+      - key: Full Day 2 - October 4th, 2019
+        title: 終日2-2019年10月4日
+      - key: Opening Address - Day 2
+        title: 開会の辞-2日目
+        description: Bob Summerwill
+          [@BobSummerwill](https://twitter.com/BobSummerwill)、[ETC
+          Cooperative](https://etccooperative.org/)のエグゼクティブディレクター。
+      - key: A New Open Source Deal for Web3
+        title: Web3の新しいオープンソース契約
+        description: Boris Mann
+          [@bmann](https://twitter.com/bmann)、[FISSION](https://fission.codes/)の共同創設者。
+      - key: Thanks to Terry
+        title: テリーに感謝
+        description: Bob Summerwill
+          [@BobSummerwill](https://twitter.com/BobSummerwill)、[ETC
+          Cooperative](https://etccooperative.org/)のエグゼクティブディレクター。
+      - key: Positive Sum Games Between Ethereum and Ethereum Classic
+        title: イーサリアムとイーサリアムクラシックの正和ゲーム
+        description: ヴァージルグリフィス[@virgilgr](https://twitter.com/virgilgr)、[Ethereum
+          Foundation](https://ethereum.org/)の特別プロジェクト
+      - key: A Peripheral Observer and Fan's View of Ethereum Classic
+        title: イーサリアムクラシックに対するペリフェラルオブザーバーとファンの見方
+        description: Sunny Aggarwal [@
+          sunnya97](https://twitter.com/sunnya97)、[Tendermint](https://tendermint.com/)および[Cosmos](https://cosmos.network/)の研究者およびコア開発者。
+      - key: Is Open Source Software Immortal?
+        title: オープンソースソフトウェアは不滅ですか？
+        description: Zachary Belford [@belfordz](https://twitter.com/belfordz)、[ETC
+          Core](https://etccore.io/)の共同リードツール開発者。
+      - key: "Merging Blockchains: A Technical Perspective"
+        title: ブロックチェーンのマージ：技術的展望
+        description: Wei Tang
+          [@sorpaas](https://twitter.com/sorpaas)、[Parity](https://www.parity.io/)のコア開発者。
+      - key: Ethereum Classic's EVM LLVM Project
+        title: Ethereum ClassicのEVM LLVMプロジェクト
+        description: Alan Li [@etc_core](https://twitter.com/etc_core)、[ETC
+          Core](https://etccore.io/)のリードコンパイラエンジニア。
+      - key: "ECIP-1049: Why Ethereum Classic Should Adopt SHA3 Proof of Work"
+        title: ECIP-1049：Ethereum ClassicがSHA3作業証明を採用する理由
+        description: Alex Tsankov [@antsankov](https://twitter.com/antsankov)、[Block
+          Reaction](https://blockreaction.nyc/)のオープンソース開発者。
+      - key: Building Trust as a Miner or Miner-Maker
+        title: 採掘者または採掘者としての信頼の構築
+        description: Nishant Sharma [@
+          nishantsharma87](https://twitter.com/nishantsharma87)、[Bitmain](https://www.bitmain.com/)の広報およびコミュニティ関係。
+      - key: Ethereum Classic Ethash ASICs
+        title: Ethereum Classic Ethash ASIC
+        description: Werner Almesberger
+          [@LinzhiCorp](https://twitter.com/LinzhiCorp)、[Linzhi](https://linzhi.io/)のシステムアーキテクト。
+      - key: "ETC Summit Mining Panel: Alex Tsankov, Nishant Sharma, Werner Almesberger,
+          Henry Quan"
+        title: ETCサミットマイニングパネル：Alex Tsankov、Nishant Sharma、Werner Almesberger、Henry Quan
+        description: Bob Summerwill
+          [@BobSummerwill](https://twitter.com/BobSummerwill)、[ETC
+          Cooperative](https://etccooperative.org/)のエグゼクティブディレクター。
+      - key: "ETC Summit Platform Panel: Afri Schoedon, Shane Jonas, Wei Tang, Zachary
+          Belford, Zachary Mitton"
+        title: ETCサミットプラットフォームパネル：Afri Schoedon、Shane Jonas、Wei Tang、Zachary
+          Belford、Zachary Mitton
+        description: Yaz Khoury [@Yazanator](https://twitter.com/Yazanator)、[ETC
+          Cooperative](https://etccooperative.org/)のデベロッパーリレーションズディレクター。
+      - key: "ETC Summit Community Panel: Chelsea Palmer, Donald McIntyre, Kevin Lord,
+          Terry Culver, Yaz Khoury"
+        title: ETCサミットコミュニティパネル：チェルシーパーマー、ドナルドマッキンタイア、ケビンロード、テリーカルバー、ヤズコーリー
+        description: Bob Summerwill
+          [@BobSummerwill](https://twitter.com/BobSummerwill)、[ETC
+          Cooperative](https://etccooperative.org/)のエグゼクティブディレクター。
+      - key: '"Capture" Was Already Always Happening: The Complexity of Power in
+          Blockchain Ecosystems'
+        title: 「捕獲」はすでに常に起こっていました：ブロックチェーン生態系における力の複雑さ
+        description: Chelsea Palmer
+          [@chiselinc](https://twitter.com/chiselinc)、[DogeCon](http://www.dogecon.lol/)の主催者。
+      - key: Redefining Governments Through Trusted Blockchain Applications
+        title: 信頼できるブロックチェーンアプリケーションによる政府の再定義
+        description: エディルソンオソリオジュニア-[@eddieoz](https://twitter.com/eddieoz)、[OriginalMy](https://originalmy.com/)の創設者。
+      - key: "ETC Summit 2019: Closing Keynote"
+        title: ETCサミット2019：閉会基調講演
+        description: Charles Hoskinson
+          [@IOHK_Charles](https://twitter.com/IOHK_Charles)、[IOHK](https://iohk.io/)の共同創設者/CEO、およびEthereumプロジェクトの共同創設者。
+      - key: Closing Statements - Day 2
+        title: クロージングステートメント-2日目
+        description: Bob Summerwill
+          [@BobSummerwill](https://twitter.com/BobSummerwill)、[ETC
+          Cooperative](https://etccooperative.org/)のエグゼクティブディレクター。

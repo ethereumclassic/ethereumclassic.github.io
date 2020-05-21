@@ -1,0 +1,133 @@
+title: 開発ロードマップ2020
+description: "[ETC Core 2020
+  Roadmap](https://medium.com/etc-core/etc-core-2020-roadmap-announcement-c2166\
+  cdbc53d)のハイライトを含む、2020年の重要なプロトコル開発マイルストーンの概要。"
+items:
+  - key: parityRoughConsensus
+    text: イーサリアムクラシックのコア開発者は、姉妹チェーンのイーサリアム(ETH)との運用上の同等性を達成するための共同作業について大まかなコンセンサスを維持しています。
+  - key: vyperlang-ETC
+    text: ETC Cooperativeは、Vyperに必要な変更を実装したBen
+      Hauserと協力してVyperのコードベースに貢献し、ETCで動作させるためにEVMの複数のバージョンを対象とすることを可能にします。
+  - key: agharta-Mainnet
+    text: Ethereum
+      Classicコア開発者は、ETHのConstaninopleおよびPetersburgネットワークプロトコルのアップグレードを実装して、姉妹チェーンとの運用上の同等性を維持しています。
+  - key: evm-llvm-Alpha
+    text: Second
+      State、Vyperlang、およびその他のチームは、LLVMインフラストラクチャをEthereumStackに導入するための実装または実験を行っています。これはEVM
+      LLVMのアルファ版です。これには、EVMバイナリを生成するための完全に機能するLLVMバックエンドパイプラインが含まれています。最適化には制限があります。
+      https://github.com/etclabscore/evm_llvm/releases/tag/v0.5_alpha
+  - key: coreGeth-Launch
+    text: CoreGeth：イーサリアムプロトコルプロバイダー。チェーン構成、IPベースの機能の実装、およびAPIの予測可能性に関する意見を減らすことを優先します。
+      ethereum/go-ethereumからのアップストリーム開発は、通常はアップストリームのタグ付けされたリリースごとに定期的にこのリポジトリにマージされます。互換性のあるRPC、JS、CLI
+      API、データストレージの場所とスキーマ、そしてもちろん相互運用可能なノードプロトコルなど、アップストリームソースとのシームレスな互換性を維持するためにあらゆる努力が払われています。該当するバグレポート、バグ修正、機能、提案は、可能な限り上流で行う必要があります。
+  - key: ecip-1050
+    text: ECIP
+      1050：ステータスコードは最終ステータスに移動します。この標準は、HTTPステータスと同じように、一般的なステータスコードのセットを概説しています。これにより、スマートコントラクトが状況に自律的に対応したり、ローカライズされたエラーメッセージをユーザーに公開したりできるようにする信号の共有セットが提供されます。
+      https://ecips.ethereumclassic.org/ECIPs/ecip-1050
+  - key: aztlan-Testnets
+    text: Aztlántestnetの実装中に、Ethereum
+      Classicコア開発者は、ETHのイスタンブールネットワークプロトコルアップグレードを追加するために、ECIP
+      1061および1078仕様の複雑さを発見します。 ETC
+      CoreのMeowbitsが調査結果を文書化しています。意図したとおり、ETCテストネットが問題をキャッチし、コア開発者は設計図に戻ります。
+  - key: phoenix-ReSpec
+    text: Ethereum
+      Classicコア開発者は、ETHのイスタンブールネットワークプロトコルアップグレードを実装する取り組みにおいて、ECIP-1088で大まかなコンセンサスに達します。
+      Testnetの実装により、仕様ECIP-1061およびECIP-1078で以前に試みられた問題が明らかになりました。
+  - key: coreGeth-Phoenix
+    text: Core-Gethは、Ethereum
+      Classicの計画されたPhoenixハードフォークアップグレードであるECIP1088のブロックアクティベーション値を実装します。
+      PhoenixがETCをサポートするには、バージョンv1.11.0以降にアップグレードしてください。
+      https://github.com/etclabscore/core-geth/releases
+  - key: phoenix-Mordor-testnet
+    text: フェニックスのテストは、ブロック999,983のMordor
+      PoWテストネットで始まります。コア開発チームは、これが複雑な実装であることを知らせています。テストでは、このネットワークのアップグレードを遅らせる問題が明らかになる可能性がありますが、Ethereum
+      Classicがメインネットのアップグレードを急いで行うことは決してありません。ネットワークセキュリティは、開発速度と任意のタイムラインよりも優先されます。
+      https://expedition.dev/?network=mordor
+  - key: besu-Phoenix
+    text: Hyperledger BesuはECIP-1088を実装しました：Phoenix EVMとプロトコルのアップグレード。
+      PhoenixがETCをサポートするには、バージョンv1.4.1以降にアップグレードしてください。
+      https://github.com/hyperledger/besu/releases
+  - key: gitcoin-ETC
+    text: 開発者バウンティプラットフォームGitcoinは、Ethereum Classic Labsと提携して、ETCでバウンティを提供しています。
+  - key: 5m20-Era3-Mainnet
+    text: 2020年3月17日、Ethereum
+      Classicのブロック報酬は、ビットコインに触発された5M20排出スケジュールごとに、ブロックごとに20％減少して3.2 ETCになります。
+  - key: phoenix-Kotti-recover
+    text: Kotti
+      PoAテストネットは、Aztlánの実装後に正常に回復しました。署名者は、フェニックスの実装が成功することを期待して、合意を調整して取り戻します。
+      https://expedition.dev/?network=kotti
+  - key: Website-2020-Content
+    text: EthereumClassic.orgのWebサイト近代化プロジェクトは、2020年のコンテンツを更新して公開されます。
+      https://ethereumclassic.org/blog
+  - key: rss-Feeds
+    text: EthereumClassic.org
+      Webサイトの近代化プロジェクトは、正確なETCコンテンツと自動化された情報配布ラインをより大きな暗号通貨エコシステムに提供することを目標にして稼働します。
+      https://ethereumclassic.org/news
+  - key: Website-2020-Phoenix
+    text: EthereumClassic.orgのWebサイト近代化プロジェクトは、フェニックスをテーマに公開されます。
+      https://ethereumclassic.org
+  - key: multigeth-Phoenix
+    text: Multi-Gethは、2020年6月の初め頃に予定されているブロック10,500,839で、Ethereum
+      Classicメインネット上のフェニックスハードフォークのサポートを実装します。ETCのフェニックスサポートについては、バージョンv1.9.14以降にアップグレードしてください。
+      https://github.com/multi-geth/multi-geth/releases
+  - key: phoenix-Kotti-testnet
+    text: フェニックスのテストは、ブロック2,200,013のKotti
+      PoAテストネットで始まります。コア開発チームは、これが複雑な実装であることを知らせています。テストでは、このネットワークのアップグレードを遅らせる問題が明らかになる可能性がありますが、Ethereum
+      Classicがメインネットのアップグレードを急いで行うことは決してありません。ネットワークセキュリティは、開発速度と任意のタイムラインよりも優先されます。
+      https://expedition.dev/?network=mordor
+  - key: improve-Documentation
+    text: ETC固有のドキュメントを改善し、エンドユーザーが使用できるようにWebサイトに追加します。
+      https://ethereumclassic.org/development/guides
+  - key: phoenix-awareness
+    text: コア開発チームは、このアップグレードがMordorおよびKottiテストネットのテスト分析に合格したことを示しています。イーサリアムクラシックは、メインネットのアップグレードを急いでは決してしません。ネットワークセキュリティは、開発速度と任意のタイムラインよりも優先されます。
+      ETCマイナー、ウォレット、取引所、支払い処理業者は、Phoenix Upgradeのクライアントを更新し始めました。
+      https://medium.com/etc-core/top-miners-confirmed-to-support-phoenix-ethereum-classic-hard-fork-phoenix-status-update-bc8964424fd4
+  - key: phoenix-mainnet
+    text: フェニックスは、ブロック10,500,839のイーサリアムクラシックメインネットでアクティブ化します。コア開発チームは、このアップグレードがMordorおよびKottiテストネットのテスト分析に合格したことを示しています。
+      https://blockscout.com/etc/mainnet
+  - key: website-internationalization
+    text: 英語以外のETCソーシャルチャネルに連絡して、https：//ethereumclassic.org/の英語版を翻訳してください
+  - key: "Implementation: Instruction"
+    text: LLVM命令スケジューラとパフォーマンスの最適化
+  - key: Connext State Channels
+    text: Connext状態チャネルのサポートを追加します。目標は、2020年にConnext ETCチャネルをライブ配信することです。
+  - key: JSON-RPC devp2p
+    text: JSON-RPC devp2pワイヤープロトコルの仕様とリファレンス実装の研究および可能な設計
+  - key: Network Monitors
+    text: フォークモニターとethstatsダッシュボードをEthereumClassic.orgに追加する
+  - key: Long-term Development Resources
+    text: 長期的な開発リソースディスカッション：パブリックグッドネットワークプロトコル、資金支払い方法、DAO資金配分。
+  - key: Updates to ECIP
+    text: ECIP-1000ディスカッションによるECIPプロセスの更新
+  - key: Developer Marketing
+    text: 開発者マーケティングの一環としてETCを使用する1〜2の主要な技術プロジェクトに取り組む
+  - key: ethereum-Berlin
+    text: イーサリアムクラシックとの運用上の同等性については、イーサリアムベルリンを確認してください。
+  - key: Gas Range Discussion
+    text: ガスレンジのディスカッション：上限と下限
+  - key: astor-Testing
+    text: Astor実験的テストネットSHA3コンセンサスアルゴリサーチレビュー
+  - key: EVM LLVM beta
+    text: EVM-LLVM公式ベータリリース
+  - key: "Implementation: Embedded"
+    text: EVM-LLVM実装：組み込みアセンブリと例外処理
+  - key: Feature Complete Upgrade
+    text: ETCネットワークの2020年第4四半期のハードフォークへのアップグレードの成功(遅延がない限り)
+  - key: ETL Tooling patterns
+    text: ETLツールパターンとクロスチェーントランザクショントランスフォームのサポートの提供に関する調査
+  - key: Anchor Projects
+    text: イーサリアムエコシステムから5つの名声アンカーテナントプロジェクトを引き付けます。コロナウイルスにより、会議への参加は第1四半期以降は横ばいになることに注意してください
+  - key: Mining Algorithm Discussion
+    text: マイニングアルゴリズムディスカッション：Astor SHA3の変更、DAGの削減、変更なし
+  - key: Interoperability Projects
+    text: 相互運用プロジェクト：ETHネットワークプロトコル上のポート。 ETH <> ETCブリッジを構築する
+  - key: FlyClients Discussion
+    text: FlyClientsディスカッション
+  - key: Interoperability Market Capture
+    text: 相互運用性市場キャプチャ。より多くの製品にETCを追加すると、ETCのアクセス/ユーティリティが増加します。オンボードstabelcoinsとdapps。ハードマネーETCでDeFiの基盤を構築する
+  - key: Interoperability Orgs
+    text: イーサリアムマジシャン内に仕様リングを確立し、ETH、ETC、EEAから関係者を集める
+  - key: Interoperability Orgs
+    text: イーサリアムマジシャン内に仕様リングを確立し、ETH、ETC、EEAから関係者を集める
+  - key: ETC Cooperative Grant Program
+    text: ドキュメント、標準、および報告要件を備えた助成プログラムを実施する

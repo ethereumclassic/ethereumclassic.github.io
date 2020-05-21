@@ -1,0 +1,33 @@
+title: 開発
+root: /開発
+menu:
+  - key: guides
+    name: ガイド
+    tip: チュートリアルとウォークスルー
+    description: Ethereum Classic開発を開始する最良の方法は、開発チュートリアルに従うことです。このセクションには、優れた出発点がいくつかあります。
+  - key: clients
+    name: クライアント
+    tip: 独自のETCノードを実行する
+    description: このページでは、Ethereum Classicで使用できるさまざまなクライアントについて説明し、ダウンロード先のリンクを提供します。
+  - key: porting
+    name: 移植
+    tip: dAppをETCに移植する
+    description: 現在ETHでdAppを実行していて、それをETCに移植したい開発者に必要なすべてのリソース。
+  - key: developer-tools
+    name: ツール
+    tip: 開発者エクスペリエンスを強化する
+    description: リートな開発者になりたい場合は、仕事に適したツールを使用する必要があります。ここでいくつかの提案を見てください。
+  - key: network-resources
+    name: ネットワークリソース
+    tip: ETCブロックチェーンを追跡する
+    description: このページには、Ethereum
+      Classicブロックチェーンを監視および探索するためのテストネット、蛇口、およびツールに関する情報が含まれています。
+  - key: mining-resources
+    name: 鉱業リソース
+    tip: ETCのPoWアルゴリズムでハッシュを取得する
+    description: ETCのマイニングに興味がある場合、このページには、始めるためのリソースがたくさん含まれています。人類はあなたのデジタルつるはしを必要としています!
+  - key: contribute
+    name: 助ける
+    tip: クラシックの歴史の一部になる😉
+    description: Ethereum Classic Improvement
+      Proposal(ECIP)プロセスにより、だれでもアイデアを提供し、この有望なテクノロジーの将来に永続的な影響を与えることができます。

@@ -1,0 +1,26 @@
+title: ブロックチェーンエクスプローラー
+description: ブロックチェーンエクスプローラーは、ブレーブブラウザーやインターネットWebページ用のFireFoxなどのブラウザーと同じように、ブロックチェーン用のブラウザーです。すべての暗号通貨ユーザーは、トランザクションの追跡をブロックチェーンエクスプローラーに依存しています。
+  Ethereum Classicエクスプローラーのリストを参照して、気に入ったインターフェイスを見つけ、ブックマークに追加します。
+items:
+  - key: AnyBlock
+    name: AnyBlock
+  - key: Astor Explorer
+    name: アスターエクスプローラー
+  - key: Bitquery
+    name: ビットクエリ
+  - key: BlockScout
+    name: BlockScout
+  - key: BridgetteBot
+    name: ブリジットボット
+  - key: Emerald Receipt
+    name: エメラルドレシート
+  - key: ETCBlockExplorer
+    name: ETCBlockExplorer
+  - key: ETCPlanet
+    name: ETCPlanet
+  - key: Expedition
+    name: 遠征
+  - key: MinerGate
+    name: MinerGate
+  - key: Tokenview
+    name: Tokenview

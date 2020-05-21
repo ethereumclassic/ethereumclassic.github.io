@@ -1,0 +1,26 @@
+title: ネットワークリソース
+description: EVMリファレンス、ガス料金の見積もり、Ethereum Classicメインネットとテストネットのモニターと蛇口
+kotti: コッティ
+mordor: モルドール
+astor: アスター
+intro: >
+  Ethereum
+  Classicネットワークの状態を確認する必要がありますか？あなたは正しい場所にいます。蛇口、エクスプローラー、モニターなど、チェーンを知るのに役立つツールをいくつか紹介します。
+
+
+  ##クライアント
+
+
+  さまざまなEthereum Classicクライアントの詳細については、[クライアント](/development/clients)ページをご覧ください。
+networkTableConfig:
+  intro: テスト
+  columns:
+    - null
+    - key: etc
+      text: メインネット
+    - key: kotti
+      text: コッティ
+    - key: mordor
+      text: モルドール
+    - key: astor
+      text: アスター

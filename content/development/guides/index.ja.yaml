@@ -1,0 +1,149 @@
+title: 開発ガイド
+description: 開発チュートリアルに従って、Ethereum Classic開発を始めましょう
+intro: このセクションでは、初心者と上級開発者の両方のためのチュートリアルと説明のセレクションを紹介します。
+content:
+  - key: tutorials
+    title: 入門
+    description: 以下は、Ethereum Classic開発を始めるための役立つチュートリアルとウォークスルーの完全ではないリストです。
+    items:
+      - key: Kotti Testnet Setup Guide
+        name: Kotti Testnetセットアップガイド
+        description: Jade Desktopを使用して1分でKotti TestNetを稼働
+      - key: Signatory Client
+        name: 署名クライアント
+        description: ビデオデモは、Raspberry PIなどのシングルボードコンピューターにインストールできる、署名者クライアント-Do It
+          Yourselfハードウェアウォレットについて説明しています。
+      - key: CryptoZombies
+        name: CryptoZombies
+        description: 独自のゲームを構築して、Ethereum DAppのコーディングを学びます。
+      - key: Hitchhikers Guide to Smart Contracts
+        name: ヒッチハイカー向けスマートコントラクトガイド
+        description: Truffle、testrpc、Solidityを使用して、Ethereumでスマートコントラクトを構築します。
+      - key: A 101 Noob Intro to Programming Smart Contracts on Ethereum
+        name: イーサリアムでスマートコントラクトをプログラミングする101 Noobの紹介
+        description: コードの前に理解を深めることに重点を置いたスマートコントラクトチュートリアル。
+      - key: Setup MetaMask for Ethereum Classic
+        name: イーサリアムクラシックのメタマスクのセットアップ
+        description: Etherclusterを使用してMetaMaskでEthereum Classicサポートをセットアップする方法
+      - key: Parity Tutorial
+        name: パリティDAppチュートリアル
+        description: DAppの作成方法に関する10部のチュートリアル。
+      - key: Start Ethereum DApp Development Career
+        name: Ethereum DApp開発キャリアを開始する
+        description: DAppの開発を開始するための非公式のガイド。
+      - key: Full Stack DApp Tutorial Series
+        name: フルスタックDAppチュートリアルシリーズ
+        description: さまざまなフレームワークを使用するフルスタックDApp。
+      - key: Ethereum Builders Guide
+        name: Ethereumビルダーガイド
+        description: 技術的機能の理解を深めるイーサリアムを構築するためのGitbook。
+      - key: Introduction to OpenRPC Webinar
+        name: OpenRPCウェビナーの概要
+        description: このビデオでは、JSON-RPCとOpenRPCの基礎を学びます。
+      - key: Learning Solidity Tutorial Series
+        name: Solidityチュートリアルシリーズの学習
+        description: MetamaskとRemix IDEでスマートコントラクトを構築する。
+      - key: End to End DApp Tutorial
+        name: エンドツーエンドのDAppチュートリアル
+        description: Metamask、Truffle、Remix、React、IPFSを使用してギャンブルDAppを作成します。
+      - key: How to write secure smart contracts
+        name: 安全なスマートコントラクトの記述方法
+        description: 安全なスマートコントラクトの記述に役立つプログラミング言語とベストプラクティスのレビュー。
+      - key: Programming Decentralized Money
+        name: 分散マネーのプログラミング
+        description: スマートコントラクトアプリケーションを構築するための簡単なガイド。
+      - key: How to create a token and ICO on Ethereum Classic
+        name: Ethereum ClassicでトークンとICOを作成する方法
+        description: このガイドを読み終えると、Ethereum
+          ClassicブロックチェーンにERC223トークンを作成する方法と、このトークン用のICOを学習します。
+      - key: How to use Brave Browser with Ethereum dApps
+        name: Ethereum dAppsでBrave Browserを使用する方法
+        description: Brave Browserは、Ethereumブロックチェーン上のDAppにアクセスする最も簡単で安全な方法です。ついに誰もがWeb
+          3.0にアクセスできるようになります
+      - key: Vyper and Brownie Contract Development on EVM Chains
+        name: EVMチェーンでのVyperとBrownieの契約開発
+        description: ETCとVyperの統合を祝して、VyperがETCに展開するスマートコントラクトを構築することを決定しました。
+      - key: Adventures in Classical Ether
+        name: クラシカルエーテルの冒険
+        description: ETCの最初のスマートコントラクトを作成します。
+      - key: Kotti Solidity ETC Oh My
+        name: Kotti、Solidity、ETC、Oh My!
+        description: このガイドでは、Ethereum ClassicのKottiテストネットの初期設定と、ETC <>
+          ETH互換のdapp開発用の特定バージョンのSolidityについて説明します。 Kottiは、dapp開発者に推奨されるテストネットです。
+          Mordorは、プロトコルレベルのテストに推奨されます。
+      - key: How to contribute to Mordor Testnet
+        name: Mordor Testnetに貢献する方法
+        description: このガイドでは、testnet
+          ETCをマイニングし、Expeditionで独自のローカルブロックエクスプローラーを実行する方法について説明します。
+          Kottiは、dapp開発者に推奨されるテストネットです。 Mordorは、プロトコルレベルのテストに推奨されます。
+      - key: Ethereum Classic on Raspberry Pi
+        name: Raspberry PiのEthereum Classic
+        description: このガイドはいくつかの部分に分かれており、IoT、ETC、およびすべてのものラズベリーの私の探求を文書化します。
+      - key: Ethercluster An Open-Source Alternative to Infura
+        name: Ethercluster、Infuraの代替となるオープンソース
+        description: 独自のスケーラブルなEthereumベースのRPCインフラストラクチャを構築するためのガイド。
+      - key: Analyzing Ethereum Classic with Google BigQuery
+        name: Google BigQueryを使用したEthereum Classicの分析
+        description: BigQueryを使用してEthereum Classicを分析するためのガイド。このガイドでは、Ethereum
+          Classicの分散化を定量化する例を使用しています。
+      - key: Creating Your Own Smart Contract Languages Using LLVM
+        name: LLVMを使用して独自のスマートコントラクト言語を作成する
+        description: この記事では、EVM-LLVMを使用してカレイドスコープのおもちゃ言語を作成し、ブロックチェーンで展開可能なスマートコントラクトを生成する方法を示します。
+      - key: ERC20 to ERC223 upgrade path
+        name: ERC20からERC223へのアップグレードパス
+        description: ERC223は、手数料が安く、トークンを失うことから投資家を保護する最新のトークン標準です。チームサターンは、既存のERC20トークンをアップグレードする方法を示します。
+      - key: Continuity for an Augmented world
+        name: 拡張世界の継続性
+        description: Ethereum Classicで分散型広告システムを構築するためのガイド。
+      - key: Deployment Automation for Goerli testnet in 10 minutes
+        name: Goerliテストネットの導入自動化を10分で
+        description: 新しいGoerli
+          Proof-of-Authorityクロスクライアントテストネットワークをすばやくデプロイするための短いチュートリアル。このガイドは、Ethereum
+          ClassicのKottiテストネットに適用できます。
+      - key: Using OpenRPC Mock Server to test against an Ethereum JSON-RPC API
+        name: OpenRPC Mock Serverを使用してEthereum JSON-RPC APIに対してテストする
+        description: open-rpc-mock-serverを使用すると、開発者はローカルの軽量環境でAPIを実行およびテストできます。
+      - key: Introduction to Pristine An open standard and template for open-source
+          projects
+        name: Pristineの概要—オープンソースプロジェクトのオープンスタンダードとテンプレート。
+        description: Pristineは、解決する問題を伝達し、オンボーディングを容易にし、構成可能なツールを構築して使用し、オープンソースへの貢献と関与を促進し、Github自体で問題と機能のディスカッションを促進するためのプロジェクトの規則と仕様を含むそれ自体のリポジトリです。
+      - key: Jade Suite Overview and Workshop
+        name: Jade Suiteの概要とワークショップ
+        description: Jade Suite of Toolsを使用して、Ethereum Classicアプリの開発と構成を簡単かつ高速に
+      - key: Various Ethereum Solidity Tutorials
+        name: さまざまなEthereumおよびSolidityチュートリアル
+        description: スマートコントラクトの作成方法、独自のDAppの展開方法、トークンの作成方法など、初心者から中級者向けのトピックまで。
+  - key: advanced
+    title: 高度な概念
+    description: ブロックチェーンの背後にあるテクノロジーは深く、多くのドメインに及んでいます。ここでは、ウサギの穴を旅するのに役立つ記事をいくつか紹介します。
+    items:
+      - key: /blog/2018-03-15-signatures/
+        name: Ethereum Classicデジタル署名コードのウォークスルー
+        description: デジタル署名はトランザクションを保護します。これらには、楕円曲線暗号と楕円曲線デジタル署名アルゴリズム(ECDSA)が含まれます。
+      - key: /blog/2018-03-19-rlp/
+        name: 再帰的な長さのプレフィックスエンコーディング
+        description: Ethereum Classic(ETC)は、Recursive Length
+          Prefix(RLP)エンコーディングを使用してデータ構造を保存および送信します。
+      - key: /blog/2018-01-31-difficulty/
+        name: イーサリアムクラシックマイニングの難易度パラメーターの簡単な解釈
+        description: マイニングの難易度パラメーターは、一部の人にとって不思議に思えるかもしれません。この記事は、理解しやすい美しい解釈があることを示しています。
+      - key: /blog/2018-01-26-implicit-info/
+        name: 暗黙的なEthereum Classicブロックチェーン情報
+        description: 初心者には、Ethereum
+          Classic(ETC)ブロックチェーンから必要な情報が不足しているように見えることがあります。この情報は暗黙的にブロックチェーンに含まれており、混乱を招く可能性があります。
+      - key: /blog/2017-12-04-light-clients/
+        name: Ethereum Classic Lightクライアントが安全に動作する方法
+        description: Ethereum Classic(ETC)ライトクライアントは、ETCブロックチェーン全体のコピーを維持しないクライアントです。
+      - key: /blog/2017-04-28-blocks/
+        name: ETCブロックの説明：3つのカテゴリ
+        description: ブロックは、ヘッダー、トランザクションリスト、おじのヘッダーリストに分割できます。
+      - key: /blog/2017-04-18-keys/
+        name: 公開鍵と秘密鍵：小さな啓蒙
+        description: 秘密鍵は、資金の移動、プログラムのインストール、およびプログラムの実行に使用されます。
+      - key: /blog/2017-03-30-accounts-and-states/
+        name: アカウントと州の説明
+        description: Ethereum
+          Classic(ETC)ブロックチェーンは、止められない、信頼できる、監査可能な、信頼できない、安全な世界のコンピューターを可能にします。このシステムを理解するには、アカウントと状態を理解することが重要です。
+      - key: /blog/2017-02-10-hashes/
+        name: ハッシュ：紹介と、なぜインターネットとブロックチェーンの基盤となるのか
+        description: 「一方向ハッシュ関数」というフレーズは難解でマニアックに聞こえるかもしれませんが、ハッシュ関数は現代の暗号化の主力です

@@ -1,0 +1,44 @@
+title: 最終ECIP
+description: これらのECIP(Ethereum Classic Improvement Proposals)は受け入れられており、まもなく実装されます。
+columns:
+  - key: number
+    name: 数
+  - key: title
+    name: 題名
+  - key: author
+    name: 著者
+number: 数
+author: 著者
+items:
+  - key: Delay Difficulty Bomb Explosion
+    title: 難易度爆弾の爆発を遅らせる
+    author: イゴール・アルタモノフ
+  - key: Long-term gas cost changes for IO-heavy operations to mitigate transaction
+      spam attacks
+    title: トランザクションスパム攻撃を軽減するためのIO負荷の高い操作の長期的なガスコストの変更
+    author: コーディWバーンズ
+  - key: Monetary Policy and Final Modification to the Ethereum Classic Emission
+      Schedule
+    title: 金融政策とイーサリアムクラシック排出スケジュールの最終修正
+    author: マシュー・マズール
+  - key: Monetary policy rounding specification
+    title: 金融政策丸め仕様
+    author: アイザックアルディス
+  - key: Remove Difficulty Bomb
+    title: 難易度の爆弾を削除
+    author: イゴール・アルタモノフ
+  - key: Clique proof-of-authority consensus protocol
+    title: クリーク証明証明コンセンサスプロトコル
+    author: ペテルシラジ
+  - key: Status Codes
+    title: ステータスコード
+    author: ブルックリン・ゼレンカ、ボリス・マン
+  - key: Atlantis EVM and Protocol Upgrades
+    title: Atlantis EVMおよびプロトコルのアップグレード
+    author: アイザックアルディス
+  - key: Agharta EVM and Protocol Upgrades
+    title: Agharta EVMおよびプロトコルのアップグレード
+    author: アイザックアルディス、魏唐
+  - key: Phoenix EVM and Protocol Upgrades
+    title: フェニックスEVMおよびプロトコルのアップグレード
+    author: Raw Pong Ghmoa

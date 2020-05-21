@@ -1,0 +1,55 @@
+title: 開発チーム
+description: 以前または現在イーサリアムクラシックに貢献している主要な組織のリスト
+intro: >
+  イーサリアムクラシックは分散型開発エコシステムです。つまり、「公式」のチームや正式な階層はありません。このグローバルな開発コミュニティは、誰もが参加できる無許可の「do-ocracy」です。個人とチームが自分でタスクを選択して実行します。
+  [Ethereum Classic Improvement
+  Proposal(ECIP)](https://ecips.ethereumclassic.org/)プロセスを通じて[ラフコンセンサス](https://en.wikipedia.org/wiki/Rough_consensus)を集合的に確立します。
+
+
+  これは、2015年7月30日のプロジェクトのジェネシスブロック以降、Ethereum Classicに貢献した著名なチームのリストです。EthereumClassicエコシステムは、個人、ボランティア、チームによるすべてのプロトコルレベルの開発努力に感謝しています。
+content:
+  - key: table
+    columns:
+      - key: year
+        name: 年
+      - key: name
+        name: チームの名前
+      - key: social
+        name: ソーシャル
+      - key: active
+        name: アクティブ
+    items:
+      - key: Ethereum Foundation
+        name: イーサリアム財団
+      - key: Parity Technologies
+        name: パリティテクノロジー
+      - key: ETC Consortium
+        name: ETCコンソーシアム
+      - key: ETCDEV
+        name: ETCDEV
+      - key: Grothendieck
+        name: IOHK(グロセンディーク)
+      - key: ETC Cooperative
+        name: ETC協同組合
+      - key: Ethereum Commonwealth
+        name: イーサリアム連邦
+      - key: Grayscale
+        name: グレースケール
+      - key: commonwealth.gg
+        name: Commonwealth.gg
+      - key: ETC Labs
+        name: ETCラボ
+      - key: POA Network
+        name: POAネットワーク
+      - key: ETC Core
+        name: ETCコア
+      - key: ChainSafe
+        name: チェーンセーフ
+      - key: Core Paper
+        name: コアペーパー
+      - key: Second State
+        name: セカンドステート
+      - key: PegaSys
+        name: ペガシス
+      - key: Gödel Labs
+        name: GödelLabs哥德尔功验室

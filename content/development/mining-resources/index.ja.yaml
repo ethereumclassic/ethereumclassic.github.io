@@ -1,0 +1,14 @@
+title: 鉱業リソース
+description: Ethereum Classic互換のマイニングソフトウェアとマイニングプールの選択
+intro: 以下は、Ethereum Classic用に開発されたマイニングリソースの非網羅的なコレクションです。質問がある場合は、アクティブな
+content:
+  -
+    title: 上位5つのマイニングプール
+    key: Top 5 Mining Pools
+    description: 執筆時点でのHashrateによる上位5つのマイニングプール。
+    filter: ランク
+    sort: ランク
+  -
+    title: 詳細なマイナープールリスト
+    key: Detailed Miner Pool List
+    description: 既知のすべてのETCマイニングプール
