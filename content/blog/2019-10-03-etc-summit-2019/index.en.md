@@ -2,6 +2,7 @@
 title: "ETC Summit 2019"
 date: 2019-10-03
 author: ETC Summit
+tags: ["announcement", "teams", "education", "development"]
 ---
 
 # ETC Summit 2019

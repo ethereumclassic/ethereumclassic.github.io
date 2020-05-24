@@ -2,6 +2,7 @@
 title: "ETC End of Year and Monetary Policy Event: London, December 13th"
 date: 2016-12-04
 author: Arvicco
+tags: ["announcement", "development", "teams", "hardfork", "education"]
 ---
 ![ETC End of Year and Monetary Policy Event](./tbyEkyS.png)
 ## Please join us!

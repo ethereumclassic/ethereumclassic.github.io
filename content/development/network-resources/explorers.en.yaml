@@ -1,52 +1,55 @@
--
-  key: AnyBlock
-  name: AnyBlock
-  etc: https://explorer.anyblock.tools/ethereum/classic/mainnet/
-  kotti: https://explorer.anyblock.tools/ethereum/classic/kotti/
-  mordor: https://explorer.anyblock.tools/ethereum/classic/mordor/
--
-  key: Astor Explorer
-  name: Astor Explorer
-  astor: https://explore.astor.host/
--
-  key: BlockScout
-  name: BlockScout
-  etc: https://blockscout.com/etc/mainnet/
-  kotti: https://blockscout.com/etc/kotti/
-  mordor: https://blockscout.com/etc/mordor/
--
-  key: Emerald Receipt
-  name: Emerald Receipt
-  etc: https://receipt.emeraldpay.io/
--
-  key: ETCBlockExplorer
-  name: ETCBlockExplorer
-  etc: https://etcblockexplorer.com/
--
-  key: ETCPlanet
-  name: ETCPlanet
-  etc: https://etcplanet.org/
--
-  key: EthereumMain.net
-  name: EthereumMain.net
-  etc: http://ethereummain.net/
-  mordor: http://mordor.ethereumtest.net
-  kotti: http://kotti.ethereumtest.net
--
-  key: MinerGate
-  name: MinerGate
-  etc: https://minergate.com/blockchain/etc/blocks
--
-  key: TheMinersPond
-  name: TheMinersPond
-  etc: https://theminerspond.com/ethereumclassic/explorer/home
--
-  key: Tokenview
-  name: Tokenview
-  etc: https://etc.tokenview.com/
--
-  key: Expedition
-  name: Expedition
-  etc: https://expedition.dev/?network=mainnet
-  kotti: https://expedition.dev/?network=kotti
-  mordor: https://expedition.dev/?network=mordor
+configRef: networkTableConfig
+key: explorers
+title: Blockchain Explorers
+description: A blockchain explorer is a browser for the blockchain, similar to how we have browsers like Brave Browser and FireFox for internet web pages. All cryptocurrency users rely on blockchain explorers to track their transactions. Browse the list of Ethereum Classic explorers to find an interface that you like and add it to your bookmarks.
+items:
+  -
+    key: AnyBlock
+    name: AnyBlock
+    etc: https://explorer.anyblock.tools/ethereum/classic/mainnet/
+    kotti: https://explorer.anyblock.tools/ethereum/classic/kotti/
+    mordor: https://explorer.anyblock.tools/ethereum/classic/mordor/
+  -
+    key: Astor Explorer
+    name: Astor Explorer
+    astor: https://explore.astor.host/
+  -
+    key: Bitquery
+    name: Bitquery
+    etc: https://explorer.bitquery.io/ethclassic/
+  -
+    key: BlockScout
+    name: BlockScout
+    etc: https://blockscout.com/etc/mainnet/
+    kotti: https://blockscout.com/etc/kotti/
+    mordor: https://blockscout.com/etc/mordor/
+  -
+    key: BridgetteBot
+    name: Bridgette Bot
+    etc: https://discordapp.com/invite/HW4GckH
+  -
+    key: Emerald Receipt
+    name: Emerald Receipt
+    etc: https://receipt.emeraldpay.io/
+  -
+    key: ETCBlockExplorer
+    name: ETCBlockExplorer
+    etc: https://etcblockexplorer.com/
+  -
+    key: ETCPlanet
+    name: ETCPlanet
+    etc: https://etcplanet.org/
+  -
+    key: Expedition
+    name: Expedition
+    etc: https://expedition.dev/?network=mainnet
+    kotti: https://expedition.dev/?network=kotti
+    mordor: https://expedition.dev/?network=mordor
+  -
+    key: MinerGate
+    name: MinerGate
+    etc: https://minergate.com/blockchain/etc/blocks
+  -
+    key: Tokenview
+    name: Tokenview
+    etc: https://etc.tokenview.com/

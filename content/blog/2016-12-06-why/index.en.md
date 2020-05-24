@@ -2,6 +2,7 @@
 title: "Why Would I Choose To Run My Application On Ethereum / Classic Instead Of The World Wide Web?"
 date: 2016-12-06
 author: Christian Seberino
+tags: ["application", "development", "education"]
 ---
 
 ## Benefits Over The World Wide Web

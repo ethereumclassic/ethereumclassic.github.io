@@ -2,6 +2,7 @@
 title: "Navajo Indians Help Explain Ethereum / Classic Replay Attacks"
 date: 2016-10-11
 author: Christian Seberino
+tags: ["announcement", "development", "teams", "hardfork", "education"]
 ---
 
 I will explain replay attacks in general and how to protect yourself.  I will give specifics regarding the Ethereum and Ethereum Classic replay attacks.  

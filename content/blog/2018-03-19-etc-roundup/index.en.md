@@ -2,6 +2,7 @@
 title: ETC Roundup — What’s happened last week (3/19/18)!
 date: 2018-03-19
 author: Anthony Lusardi (pyskell)
+tags: ["announcement", "development", "education"]
 ---
 
 [Read this article on Medium (looks nicer)](https://medium.com/@pyskell/etc-roundup-what-happened-last-week-3-19-18-d49b6ef1add0)

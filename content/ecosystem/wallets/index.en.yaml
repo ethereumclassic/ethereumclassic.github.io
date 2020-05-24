@@ -1,0 +1,248 @@
+contribute: true
+disclaimer: true
+title: Wallets
+description: A source of web wallets, extensions, software wallets, hardware wallets, and other ways to secure ETC
+intro: There are many different options of wallets to choose from to secure and use ETC. Each option gives a different balance between security and convenience. Please research the best option depending on your requirements.
+content:
+  -
+    key: web
+    type: buttons
+    title: Web Wallets
+    description: These Web3 wallets can be accessed using a web page. They shouldn't be used to secure large amounts, but allow you to easily interacting with ETC without downloads.
+    items:
+      -
+        key: MyCrypto
+        link: https://www.mycrypto.com
+        name: MyCrypto
+      -
+        key: MyEtherWallet
+        link: https://www.myetherwallet.com
+        name: MyEtherWallet
+      -
+        key: Portis
+        link: https://www.portis.io/
+        name: Portis
+      -
+        key: Squarelink
+        link: https://squarelink.com/
+        name: Squarelink
+  -
+    key: browsers
+    type: buttons
+    title: Browser Integrated Wallets
+    description: These Web3 wallets are integrated in web browsers. Typically, they inject websites with your account information in order to allow you to seemlessly interact with Ethereum Classic dapps in your broswer.
+    items:
+      -
+        key: Brave
+        link: https://brave.com/
+        name: Brave
+      -
+        key: MetaMask
+        link: https://metamask.io/
+        name: MetaMask
+      -
+        key: Nifty Wallet
+        link: https://github.com/poanetwork/nifty-wallet
+        name: Nifty Wallet
+      -
+        key: Opera
+        link: https://www.opera.com/crypto
+        name: Opera
+      -
+        key: Saturn Wallet
+        link: https://www.saturn.network/blog/saturn-wallet-user-manual/
+        name: Saturn Wallet
+  -
+    key: hardware
+    type: buttons
+    title: Hardware Wallets 
+    description: Hardware wallets are secure wallets designed for long term storage.
+    items:
+    -
+      key: Bitski
+      link: https://www.bitski.com/
+      name: Bitski
+    -
+      key: CoolBitX
+      link: https://www.coolwallet.io/
+      name: CoolBitX
+    -
+      key: Ellipal
+      link: https://www.ellipal.com/
+      name: Ellipal
+    -
+      key: HTC Exodus
+      link: https://www.htcexodus.com/
+      name: HTC Exodus
+    -
+      key: Ledger
+      link: https://shop.ledger.com/
+      name: Ledger
+    -
+      key: Parity Signer
+      link: https://www.parity.io/signer/
+      name: Parity Signer
+    -
+      key: SafePal
+      link: https://www.safepal.io/
+      name: SafePal
+    -
+      key: Signatory Client
+      link: https://vbstreetz.github.io/signatory-client/
+      name: Signatory Client
+    -
+      key: Trezor
+      link: https://trezor.io/
+      name: Trezor
+  -
+    key: software
+    type: buttons
+    title: Software Wallets
+    description: Software wallets are Desktop or Mobile devices designed for short-term storage.
+    items: 
+      -
+        key: ABRA
+        link: https://www.abra.com/
+        name: ABRA
+      -
+        key: Alpha Wallet
+        link: https://alphawallet.com/
+        name: Alpha Wallet
+      -
+        key: AToken
+        link: https://www.atoken.com/
+        name: AToken
+      -
+        key: Atomic Wallet
+        link: https://atomicwallet.io/
+        name: Atomic Wallet
+      -
+        key: BTCPOP
+        link: https://btcpop.co/
+        name: BTCPOP
+      -
+        key: Button Wallet
+        link: https://buttonwallet.com/
+        name: Button Wallet
+      -
+        key: Citowise
+        link: https://citowise.com/
+        name: Citowise
+      -
+        key: Cobo
+        link: https://cobo.com/
+        name: Cobo
+      -
+        key: Coinbase Wallet
+        link: https://wallet.coinbase.com/
+        name: Coinbase Wallet
+      -
+        key: Coinomi
+        link: https://www.coinomi.com/
+        name: Coinomi
+      -
+        key: Cryptonator
+        link: https://www.cryptonator.com/
+        name: Cryptonator
+      -
+        key: Edge
+        link: https://edge.app/
+        name: Edge
+      -
+        key: Emerald Wallet
+        link: https://emeraldpay.io/
+        name: Emerald Wallet
+      -
+        key: Ethos
+        link: https://www.ethos.io/universal-wallet/
+        name: Ethos
+      -
+        key: eToro Wallet
+        link: https://www.etorox.com/crypto-wallet/
+        name: eToro Wallet
+      -
+        key: Evercoin
+        link: https://evercoin.com
+        name: Evercoin
+      -
+        key: Exodus
+        link: https://www.exodus.io/
+        name: Exodus
+      -
+        key: Guarda
+        link: https://guarda.co/
+        name: Guarda
+      -
+        key: HubrisOne
+        link: https://www.hubrisone.com/
+        name: HubrisOne
+      -
+        key: Huobi Wallet
+        link: https://www.huobiwallet.com/
+        name: Huobi Wallet
+      -
+        key: Infinito Wallet
+        link: https://www.infinitowallet.io/
+        name: Infinito Wallet
+      -
+        key: Jaxx Liberty
+        link: https://jaxx.io/
+        name: Jaxx Liberty
+      -
+        key: Midas Protocol
+        link: https://midasprotocol.io/
+        name: Midas Protocol
+      -
+        key: Ownbit
+        link: https://ownbit.io/
+        name: Ownbit
+      -
+        key: Trust Wallet
+        link: https://trustwallet.com/
+        name: Trust Wallet
+      -
+        key: Zelcore Wallet
+        link: https://zel.network/project/zelcore/
+        name: Zelcore Wallet
+      -
+        key: ZenGo
+        link: https://zengo.com/
+        name: ZenGo
+  -
+    key: other
+    type: buttons
+    title: Other Wallet Products
+    description: These products are complimentary to crypto wallets like recovery seed storage.
+    items:
+      -
+        key: BillFodl
+        link: https://billfodl.com/
+        name: BillFodl
+      -
+        key: Blockplate
+        link: https://www.blockplate.com/
+        name: Blockplate
+      -
+        key: ColdTi
+        link: https://coldti.com/
+        name: ColdTi
+      -
+        key: Crypto Key Stack
+        link: https://cryptokeystack.com/
+        name: Crypto Key Stack
+      -
+        key: CryptoSteel
+        link: https://cryptosteel.com/
+        name: CryptoSteel
+      -
+        key: CRYPTOTAG
+        link: https://cryptotag.io/
+        name: CRYPTOTAG
+      -
+        key: Hodlinox
+        link: https://hodlinox.com/
+        name: Hodlinox
+      -
+        key: Steely
+        link: https://thesteely.com/
+        name: Steely

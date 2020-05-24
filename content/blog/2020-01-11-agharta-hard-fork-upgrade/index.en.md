@@ -2,6 +2,7 @@
 title: "Agharta Hard Fork Upgrade"
 date: 2020-01-11
 author: Isaac Ardis, Wei Tang
+tags: ["announcement", "development", "education", "teams", "hardfork"]
 ---
 
 # ECIP 1056: Agharta EVM and Protocol Upgrades

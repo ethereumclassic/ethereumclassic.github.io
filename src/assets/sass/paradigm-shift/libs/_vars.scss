@@ -25,9 +25,9 @@
 
 // Font.
 	$font: (
-		family:					('_BodyFont', sans-serif),
+		family:					('_BodyFont', 'Helvetica', sans-serif),
 		family-fixed:			('Courier New', monospace),
-		family-heading:			('_HeaderFont', sans-serif),
+		family-heading:			('_HeaderFont', 'Impact', sans-serif),
 		weight:					200,
 		weight-bold:			600,
 		weight-extrabold:		600,

@@ -2,6 +2,7 @@
 title: "The Mining Game: Explaining Blockchains"
 date: 2017-11-05
 author: Christian Seberino
+tags: ["mining", "development", "education"]
 ---
 
 To help people understand blockchains, I have created a blockchain game

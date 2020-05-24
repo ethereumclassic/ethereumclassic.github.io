@@ -1,0 +1,146 @@
+title: Development Teams
+contribute: true
+description: A list of major organizations that previously or are currently contributing to Ethereum Classic
+intro: |
+  Ethereum Classic is a decentralized development ecosystem which means there is no 'official' team or formal hierarchy. This global development community is a permissionless 'do-ocracy', where anyone can participate. Individuals and teams choose tasks for themselves and execute them. We collectively establish [rough consensus](https://en.wikipedia.org/wiki/Rough_consensus) through the [Ethereum Classic Improvement Proposal (ECIP)](https://ecips.ethereumclassic.org/) process.
+
+  This is a list of prominent teams that have contributed to Ethereum Classic since the project's genesis block on July 30, 2015. The Ethereum Classic ecosystem is appreciative of all protocol level development efforts by individuals, volunteers, and teams.
+content:
+  - type: table
+    columns:
+      - key: year
+        name: Year
+      - key: name
+        linkRef: link
+        name: Team Name
+
+      - key: social
+        name: Social
+        icons:
+          - key: github
+            linkRef: github
+            brand: github
+          - key: twitter
+            linkRef: twitter
+            brand: twitter
+      - key: active
+        name: Active
+        checkRef: active
+    items:
+      - key: Ethereum Foundation
+        year: 2015
+        name: Ethereum Foundation
+        active: true
+        link: https://ethereum.org/
+        twitter: https://twitter.com/ethereum
+        github: https://github.com/ethereum/
+      - key: Parity Technologies
+        year: 2016
+        name: Parity Technologies
+        active: true
+        link: https://parity.io/
+        twitter: https://twitter.com/ParityTech
+        github: https://github.com/paritytech
+      - key: ETC Consortium
+        year: 2016
+        name: ETC Consortium
+        active: true
+        link: https://etcconsortium.org/
+        twitter: https://twitter.com/ETCConsortium
+      - key: ETCDEV
+        year: 2016
+        name: ETCDEV
+        active: true
+        link: https://etcdevteam.com/
+        twitter: https://twitter.com/getemerald
+        github: https://github.com/ETCDEVTeam/
+      - key: Grothendieck
+        year: 2016
+        name: IOHK (Grothendieck)
+        className: faded
+        link: https://iohk.io/projects/ethereum-classic/
+        twitter: https://twitter.com/InputOutputHK
+        github: https://github.com/input-output-hk/mantis
+      - key: ETC Cooperative
+        year: 2017
+        name: ETC Cooperative
+        active: true
+        link: https://etccooperative.org/
+        twitter: https://twitter.com/ETCCooperative
+        github: https://github.com/ETCCooperative
+      - key: Ethereum Commonwealth
+        year: 2017
+        name: Ethereum Commonwealth
+        className: faded
+        link: https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/
+        twitter: https://twitter.com/Dexaran
+        github: https://github.com/EthereumCommonwealth
+      - key: Grayscale
+        year: 2017
+        name: Grayscale
+        active: true
+        link: https://grayscale.co/ethereum-classic-trust/
+        twitter: https://twitter.com/GrayscaleInvest
+      - key: commonwealth.gg
+        year: 2018
+        name: Commonwealth.gg
+        active: true
+        link: https://commonwealth.gg
+        twitter: https://twitter.com/commonwealthgg
+        github: https://github.com/p3c-bot
+      - key: ETC Labs
+        year: 2018
+        name: ETC Labs
+        active: true
+        link: https://etclabs.org/
+        twitter: https://twitter.com/etclabs
+        github: https://github.com/etclabscore
+      - key: POA Network
+        year: 2018
+        name: POA Network
+        active: true
+        link: https://www.poa.network/
+        twitter: https://twitter.com/poanetwork
+        github: https://github.com/poanetwork
+      - key: ETC Core
+        year: 2019
+        name: ETC Core
+        active: true
+        link: https://etccore.io/
+        twitter: https://twitter.com/etc_core
+        github: https://github.com/etclabscore
+      - key: ChainSafe
+        year: 2019
+        name: ChainSafe
+        active: true
+        link: https://chainsafe.io/
+        twitter: https://twitter.com/ChainSafeth
+        github: https://github.com/ChainSafe
+      - key: Core Paper
+        year: 2019
+        name: Core Paper
+        active: true
+        link: https://corepaper.org/
+        twitter: https://twitter.com/corepaper
+        github: https://github.com/corepaper
+      - key: Second State
+        year: 2019
+        name: Second State
+        active: true
+        link: https://www.secondstate.io/
+        twitter: https://twitter.com/secondstateinc
+        github: https://github.com/second-state
+      - key: PegaSys
+        year: 2019
+        name: PegaSys
+        active: true
+        link: https://pegasys.tech/
+        twitter: https://twitter.com/PegaSysEng
+        github: https://github.com/hyperledger/besu
+      - key: Gödel Labs
+        year: 2020
+        name: Gödel Labs 哥德尔实验室
+        active: true
+        link: https://www.godel.ai/
+        twitter: https://twitter.com/Goedellabs
+        github: https://github.com/multi-geth/multi-geth

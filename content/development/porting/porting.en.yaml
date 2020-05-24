@@ -1,8 +1,0 @@
-title: Porting
-description: Useful tools for developers who have a currently running dApp on ETH or another chain to deploy on ETC.
-disclaimer: true
-contribute: true
-intro: |
-  # Porting
-
-  There are a few Ethereum Classic specific tools that are useful to know about if you are porting your ETH application over. All Web3.js frontend code is compatible with ETC as long as the provider RPC node being pointed to is an ETC instance. No changes to Solidity (.sol) code is necessary, ETH contracts run out of the box on ETC.

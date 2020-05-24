@@ -2,6 +2,7 @@
 title: Instead of The Halvening, A Tithing for ETC
 date: 2016-10-31
 author: Carlos Graterol
+tags: ["announcement", "development", "teams", "hardfork", "education"]
 ---
 
 ![Monetary policy](./monetary.jpg)

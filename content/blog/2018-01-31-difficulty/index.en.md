@@ -2,6 +2,7 @@
 title: "A Simple Interpretation Of The Ethereum Classic Mining Difficulty Parameter"
 date: 2018-01-31
 author: Christian Seberino
+tags: ["mining", "development", "education"]
 ---
 
 ![](./15E7COYLIHDF04peIBUgxiA.png)

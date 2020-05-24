@@ -2,6 +2,7 @@
 title: The DAO Hard Fork Completed
 date: 2016-07-20
 author: Vitalik Buterin
+tags: ["announcement", "development", "teams", "hardfork", "education"]
 ---
 
 Attribution: [https://blog.ethereum.org/2016/07/20/hard-fork-completed/](https://blog.ethereum.org/2016/07/20/hard-fork-completed/)

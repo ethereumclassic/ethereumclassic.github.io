@@ -2,6 +2,7 @@
 title: "Cuban Piracy & Why Merkle Trees Are So Awesome For Blockchains"
 date: 2016-10-12
 author: Christian Seberino
+tags: ["announcement", "development", "education"]
 ---
 
 I will explain Merkle trees and why they are so important for blockchain systems.

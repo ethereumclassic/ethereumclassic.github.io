@@ -1,0 +1,86 @@
+participants: Participants
+teams: 
+  title: Teams
+  items:
+    -
+      key: ETC Consortium
+      link: https://etcconsortium.org/
+      name: ETC Consortium
+    -
+      key: ETC Cooperative
+      link: https://etccooperative.org/
+      name: ETC Cooperative
+    -
+      key: ETC Core
+      link: https://etccore.io/
+      name: ETC Core
+    -
+      key: ETC Labs
+      link: https://etclabs.org/
+      name: ETC Labs
+    -
+      key: Gödel Labs
+      link: https://www.godel.ai/
+      name: Gödel Labs
+regions:
+  title: Regions
+  items: 
+    -
+      key: Asia
+      link: http://ethereumclassicasia.org/
+      name: Asia
+    -
+      key: China
+      link: http://ethereumclassic.cn/
+      name: China
+    -
+      key: Korea
+      link: https://www.ethereumclassickorea.com/
+      name: Korea
+social:
+  title: Social
+  items: 
+    -
+      key: gitHub
+      brand: github
+      link: https://github.com/ethereumclassic/
+      name: GitHub
+    -
+      key: discord
+      brand: discord
+      link: https://discordapp.com/invite/HW4GckH
+      name: Discord
+    -
+      key: telegram
+      brand: telegram
+      link: https://telegram.me/ethclassic
+      name: Telegram
+    -
+      key: reddit
+      brand: reddit
+      link: https://www.reddit.com/r/EthereumClassic/
+      name: Reddit
+    -
+      key: twitter
+      brand: twitter
+      link: https://twitter.com/eth_classic
+      name: Twitter
+discordTip: "**ETC participants** are most active on **discord**."
+discord: 
+  icon: discord
+  name: Join ETC on Discord
+  link: https://discordapp.com/invite/HW4GckH
+moreChannels: More Social Channels
+buttons:
+  -
+    key: sitemap
+    link: /sitemap
+    name: Sitemap
+    icon: sitemap
+  -
+    key: rss
+    link: /news
+    name: RSS Feeds
+    icon: rss
+signOff: Made with `<3` for the original Ethereum vision
+html5Up: Template derived from HTML5UP

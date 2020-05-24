@@ -2,7 +2,7 @@
 title: "ETC Weekly Newsletter : Another Great Month Ahead"
 date: 2017-02-01
 author: Carlo V
-
+tags: ["announcement", "development", "education"]
 ---
 
 

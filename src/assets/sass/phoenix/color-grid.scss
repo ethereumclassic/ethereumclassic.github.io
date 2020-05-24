@@ -1,0 +1,111 @@
+$grid-color-1:_palette(green-col);
+$grid-color-2:_palette(blue-col);
+$grid-color-3:_palette(light-red-col);
+$grid-color-4:_palette(light-purple-col);
+$grid-color-5:_palette(orange-col);
+
+// deep override
+#wrapper {
+
+  .color-grid-legend {
+    margin-bottom: $smallPadding;
+
+    .info {
+      font-weight: bold;
+      margin-bottom: $tinyPadding;
+    }
+
+    &.has-selected {
+      .key {
+        opacity: .4;
+      }
+    }
+
+    .key {
+      user-select: none;
+      white-space: nowrap;
+      display: inline-block;
+      margin: 0 $microPadding $microPadding 0;
+      padding: $nanoPadding $tinyPadding;
+      border-radius: $roundedTight;
+      border-bottom: $solidDarkLine;
+
+      cursor: pointer;
+      box-shadow: $softerShadow;
+
+      &.selected {
+        opacity: 1;
+        box-shadow: $tightShadow;
+      }
+
+      &.grid-color-all {
+        background: _palette(grey-10);
+        opacity: 1;
+      }
+    }
+  }
+
+  .color-grid-items {
+    display: grid;
+    background: _palette(grey-10);
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    padding: $smallPadding;
+    margin-bottom: $largePadding;
+
+    .card {
+      margin: $microPadding;
+      background: _palette(bright);
+      box-shadow: $softShadow;
+      border-bottom: none;
+      $radius: $microPadding;
+      border-radius: $roundedTight;
+      overflow: hidden;
+
+      .content {
+        line-height: 1.4rem;
+        max-height: 12rem;
+        overflow-y: auto;
+        padding: $tinyPadding $smallPadding;
+        mask-image: linear-gradient(to bottom, black 80%, transparent 100%);
+      }
+
+      h4 {
+        padding: $tinyPadding;
+        border-radius: $radius $radius 0 0;
+        margin-top: 0;
+        margin-bottom: 0;
+        text-align: center;
+      }
+    }
+  }
+
+  .color-grid-legend .key.grid-color-1,
+  .color-grid-items .card.grid-color-1:hover,
+  .color-grid-items .card.grid-color-1 h4 {
+    background: $grid-color-1;
+  }
+
+  .color-grid-legend .key.grid-color-2,
+  .color-grid-items .card.grid-color-2:hover,
+  .color-grid-items .card.grid-color-2 h4 {
+    background: $grid-color-2;
+  }
+
+  .color-grid-legend .key.grid-color-3,
+  .color-grid-items .card.grid-color-3:hover,
+  .color-grid-items .card.grid-color-3 h4 {
+    background: $grid-color-3;
+  }
+
+  .color-grid-legend .key.grid-color-4,
+  .color-grid-items .card.grid-color-4:hover,
+  .color-grid-items .card.grid-color-4 h4 {
+    background: $grid-color-4;
+  }
+
+  .color-grid-legend .key.grid-color-5,
+  .color-grid-items .card.grid-color-5:hover,
+  .color-grid-items .card.grid-color-5 h4 {
+    background: $grid-color-5;
+  }
+}

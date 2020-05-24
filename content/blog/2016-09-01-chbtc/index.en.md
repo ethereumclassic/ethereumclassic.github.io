@@ -2,6 +2,7 @@
 title: CHBTC contributes funds to foster growth of Ethereum Classic
 date: 2016-09-01
 author: Ethereum Classic
+tags: ["announcement", "development", "teams", "education"]
 ---
 
 One of the largest crypto-currency exchanges in China, [CHBTC](http://www.chbtc.com/), has [announced a series of donations](http://www.chbtc.com/news/show-1374-proclamation) to the Ethereum Classic (ETC) project. The donations will provide support to current and future development efforts, as well as kickstart various community building proposals. Today’s announcement by CHBTC, follows through on [discussions that took place early August](http://www.chbtc.com/news/show-1370-proclamation).
