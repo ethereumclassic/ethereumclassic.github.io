@@ -4,12 +4,14 @@ import ButtonsGroup from './ButtonsGroup';
 import Icons from './Icons';
 
 import Md from './Markdown';
+import LangueMenu from './LanguageMenu';
 
-const Footer = ({
-  i18n: {
-    globals: { footer: i18n }
-  }
-}) => {
+const Footer = pageContext => {
+  const {
+    i18n: {
+      globals: { footer: i18n }
+    }
+  } = pageContext;
   return (
     <>
       <section className="footer">
@@ -30,6 +32,8 @@ const Footer = ({
             <Link button next to="/ecosystem/social-channels">
               {i18n.moreChannels}
             </Link>
+            <div className="spaced" />
+            <LangueMenu className="languages" {...pageContext} />
           </div>
         </div>
         <footer>

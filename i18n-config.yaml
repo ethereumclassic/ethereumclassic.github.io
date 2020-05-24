@@ -4,11 +4,19 @@ contentDir: content
 yamlDir: _i18n
 locales:
   - ja
+  - tr
+  - ru
+  - ko
+  - fr
+  - vi
+  - el
+  - es
+  - hr
   - de
   - zh
+  - zh-TW
 filterMarkdown:
   - blog/
-# csvDir: csv
 filterKeys:
   - link
   - className
@@ -27,6 +35,7 @@ filterKeys:
   - metaLocale
   - htmlLang
   - bodyClass
+  - localized
   - tags
   - youtube
   - brand

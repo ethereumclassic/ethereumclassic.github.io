@@ -7,9 +7,9 @@ const Roadmap = ({ data }) => {
   return (
     <ContentItemWrapper data={data}>
       <div className="roadmap">
-        {data.items.map(({ date, key, text }) => (
+        {data.items.map(({ dateString, key, text }) => (
           <div key={key} className="item">
-            <h4>{date}</h4>
+            <h4>{dateString}</h4>
             <Md>{text}</Md>
           </div>
         ))}

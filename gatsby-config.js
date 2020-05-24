@@ -1,6 +1,8 @@
 const siteUrl = 'https://ethereumclassic.org';
 const image = '/etc-social-card.png';
 
+const locales = ['en', 'ja', 'tr', 'ru', 'ko', 'fr', 'vi', 'el', 'es', 'hr', 'de', 'zh', 'zh-TW'];
+
 const rssFeeds = require('./rss-feeds')({ siteUrl, image });
 
 module.exports = {
@@ -67,15 +69,15 @@ module.exports = {
       }
     },
     {
-      resolve: 'gatsby-plugin-yaml-i18n',
-      options: {
-        locales: ['en', 'ja'],
-        generateMissing: ['development', 'ecosystem', 'knowledge']
-      }
-    },
-    {
       resolve: 'gatsby-plugin-feed',
       options: rssFeeds
+    },
+    {
+      resolve: 'gatsby-plugin-yaml-i18n',
+      options: {
+        locales,
+        generateMissing: ['development', 'ecosystem', 'knowledge', '.yaml']
+      }
     }
   ]
 };

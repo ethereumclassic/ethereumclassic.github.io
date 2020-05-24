@@ -1,6 +1,7 @@
 import React from 'react';
 
 import { navigate } from '@reach/router';
+import { Link as GLink } from 'gatsby';
 import { I18nLink } from 'gatsby-plugin-yaml-i18n';
 
 function isHash(str) {
@@ -47,6 +48,7 @@ const Link = ({
   style,
   button,
   name,
+  localized,
   className: _c,
   noScroll,
   title,
@@ -107,6 +109,13 @@ const Link = ({
   }
   if (noScroll) {
     passedProps.state = { noScroll: true };
+  }
+  if (localized) {
+    return (
+      <GLink {...passedProps} to={to}>
+        {content}
+      </GLink>
+    );
   }
   return (
     <I18nLink {...passedProps} to={to}>

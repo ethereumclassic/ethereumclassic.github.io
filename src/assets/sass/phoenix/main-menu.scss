@@ -42,27 +42,57 @@
     right: 0;
   }
 
-  .menu {
-    top: $hamburgerSize + $nanoPadding;
+  .main {
     font-family: _font('family-heading');
     font-weight: 400;
     text-transform: uppercase;
     position: absolute;
+    top: $hamburgerSize + $nanoPadding;
     right: $nanoPadding;
+
+    a {
+      display: block;
+      background: _palette(bright);
+      border: none;
+      margin-bottom: $nanoPadding;
+      font-size: 1.2rem;
+      line-height: 1rem;
+      padding: 0.9rem 0.7rem;
+
+      &:hover {
+        color: _palette(accent);
+        background: _palette(fg)
+      }
+    }
+
   }
 
-  a {
-    display: block;
-    background: _palette(bright);
-    border: none;
-    margin-bottom: $nanoPadding;
-    font-size: 1.2rem;
+  .languages {
+    position: absolute;
+    bottom: $nanoPadding;
+    left: $nanoPadding;
+    right: $nanoPadding;
     line-height: 1rem;
-    padding: 0.9rem 0.7rem;
+    font-size: 0.8rem;
 
-    &:hover {
-      color: _palette(accent);
-      background: _palette(fg)
+    >div {
+      display: inline-block;
+    }
+
+    a {
+      background: _palette(t-black-80);
+      display: inline-block;
+      padding: $microPadding;
+      border: none;
+      color: _palette(grey-20);
+      margin: 0 $nanoPadding $nanoPadding 0;
+
+      &.active,
+      &:hover {
+        color: _palette(fg);
+        background: _palette(t-white-80)
+      }
     }
   }
+
 }

@@ -8,9 +8,9 @@ const Timeline = ({ data }) => {
     <ContentItemWrapper data={data} wide>
       <div className="fork-timeline">
         <div className="items">
-          {items.map(({ key, className, date, icon, link, text, title }) => (
+          {items.map(({ key, className, dateString, icon, link, text, title }) => (
             <div key={key} className={`item ${className || ''}`}>
-              <div className="date">{date || ' '}</div>
+              <div className="date">{dateString || ' '}</div>
               <div className="icon">
                 <i className={icon || 'fas fa-ellipsis-h'} />
               </div>

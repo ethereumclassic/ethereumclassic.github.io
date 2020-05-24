@@ -3,12 +3,14 @@
 import React, { useState } from 'react';
 
 import Menu from './Menu';
+import LangueMenu from './LanguageMenu';
 
-const MainMenu = ({
-  i18n: {
-    globals: { mainMenu }
-  }
-}) => {
+const MainMenu = pageContext => {
+  const {
+    i18n: {
+      globals: { mainMenu }
+    }
+  } = pageContext;
   const [hidden, setHidden] = useState(true);
   function toggle() {
     setHidden(!hidden);
@@ -16,7 +18,8 @@ const MainMenu = ({
   return (
     <div className="main-menu">
       <div className={`overlay ${hidden ? 'hidden' : ''}`} onClick={toggle}>
-        <Menu items={mainMenu} onClick={toggle} />
+        <Menu className="main" items={mainMenu} onClick={toggle} />
+        <LangueMenu {...pageContext} onClick={toggle} />
       </div>
       <div className={`hamburger ${!hidden ? 'selected' : ''}`} onClick={toggle}>
         <i className="fas fa-bars" />

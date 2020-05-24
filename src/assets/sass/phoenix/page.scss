@@ -94,3 +94,11 @@
 .content-footer {
   margin-top: $largePadding;
 }
+
+.footer .languages {
+  >div {
+    white-space: nowrap;
+    display: inline;
+    margin-right: $tinyPadding;
+  }
+}
