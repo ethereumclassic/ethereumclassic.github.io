@@ -70,7 +70,7 @@ module.exports = {
       resolve: 'gatsby-plugin-yaml-i18n',
       options: {
         locales: ['en', 'ja'],
-        generateMissing: false
+        generateMissing: ['development', 'ecosystem', 'knowledge']
       }
     },
     {

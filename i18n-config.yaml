@@ -1,6 +1,14 @@
+# config for yaml-i18n-manager
 defaultLocale: en
 contentDir: content
-managementDir: i18n-management
+yamlDir: _i18n
+locales:
+  - ja
+  - de
+  - zh
+filterMarkdown:
+  - blog/
+# csvDir: csv
 filterKeys:
   - link
   - className
