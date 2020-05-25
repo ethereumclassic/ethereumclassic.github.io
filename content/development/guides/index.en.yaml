@@ -61,6 +61,11 @@ content:
         link: https://ethereumbuilders.gitbooks.io/guide/content/en/index.html
         description: Gitbook for building on Ethereum that goes deeper into understanding technical functionality.
       - 
+        key: Introduction to OpenRPC Webinar
+        name: Introduction to OpenRPC Webinar
+        link: https://youtu.be/VdtBY6PEeks
+        description: In this video you will learn the fundamentals of JSON-RPC and OpenRPC.
+      - 
         key: Learning Solidity Tutorial Series
         name: Learning Solidity Tutorial Series
         link: https://karl.tech/learning-solidity-part-1-deploy-a-contract/
