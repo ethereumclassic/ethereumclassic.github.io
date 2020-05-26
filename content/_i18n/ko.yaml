@@ -1487,9 +1487,13 @@ development/network-resources/monitors/items__Emerald Insights__name: |-
 development/network-resources/monitors/items__ETCNodes__name: |-
   ETC 노드
 
-# ETCStatus
-development/network-resources/monitors/items__ETCStatus__name: |-
-  ETC 상태
+# ETCStatus Phoenix HardFork
+development/network-resources/monitors/items__ETCStatus Phoenix HardFork__name: |-
+  ETCStatus 피닉스 하드 포크
+
+# ETCStatus Phoenix HardFork (connection of different set of nodes)
+development/network-resources/monitors/items__ETCStatus Phoenix HardFork (connection of different set of nodes)__name: |-
+  ETCStatus Phoenix HardFork (다른 노드 세트의 연결)
 
 # Expedition
 development/network-resources/monitors/items__Expedition__name: |-

@@ -1487,9 +1487,13 @@ development/network-resources/monitors/items__Emerald Insights__name: |-
 development/network-resources/monitors/items__ETCNodes__name: |-
   ETCNodes
 
-# ETCStatus
-development/network-resources/monitors/items__ETCStatus__name: |-
-  ETCStatus
+# ETCStatus Phoenix HardFork
+development/network-resources/monitors/items__ETCStatus Phoenix HardFork__name: |-
+  ETCStatus Phoenix HardFork
+
+# ETCStatus Phoenix HardFork (connection of different set of nodes)
+development/network-resources/monitors/items__ETCStatus Phoenix HardFork (connection of different set of nodes)__name: |-
+  ETCStatus Phoenix HardFork (подключение различного набора узлов)
 
 # Expedition
 development/network-resources/monitors/items__Expedition__name: |-
