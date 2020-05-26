@@ -29,9 +29,13 @@ items:
     etc: https://etcnodes.org/
     kotti: https://kotti.etcnodes.org/
   -
-    key: ETCStatus
-    name: ETCStatus
-    etc: https://etcstatus.live/
+    key: ETCStatus Phoenix HardFork
+    name: ETCStatus Phoenix HardFork
+    etc:  https://phoenix.fault.dev/
+  -
+    key: ETCStatus Phoenix HardFork (connection of different set of nodes)
+    name: ETCStatus Phoenix HardFork (connection of different set of nodes)
+    etc: https://ph03n1x.fault.dev/   
   -
     key: Expedition
     name: Expedition
