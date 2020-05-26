@@ -13,6 +13,9 @@ const NewsTags = ({
     globals: { news }
   }
 }) => {
+  if (!allTags.length) {
+    return null;
+  }
   const [showing, setShowing] = useState(false);
   const selected = filterType === 'tag';
   return (

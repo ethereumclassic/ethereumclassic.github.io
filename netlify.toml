@@ -2,6 +2,8 @@
   publish = "public"
 [[plugins]]
   package = "netlify-plugin-gatsby-cache"
+[[plugins]]
+  package = "netlify-plugin-checklinks"
 [[redirects]]
   from = "/wiki"
   to = "https://github.com/ethereumclassic/wiki/wiki"
