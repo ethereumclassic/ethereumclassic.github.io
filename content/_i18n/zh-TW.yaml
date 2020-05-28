@@ -79,9 +79,9 @@ development/clients/index/title: |-
 development/clients/index/description: |-
   下載各種以太坊經典客戶端和部署工具的鏈接
 
-# Clients are used to sync with the Ethereum Classic network and verify blocks. Most users won't need to run a full node, but they allow those who do to trustlessly interact with the network. Ethereum Classic is scheduled for a network update in June, 2020. Here are [Ethereum Classic Client Upgrade Instructions](https://hackmd.io/IPA7zPwpQDy-1U0reeppcQ).
+# Clients are used to sync with the Ethereum Classic network and verify blocks. Most users won't need to run a full node, but they allow those who do to trustlessly interact with the network. Ethereum Classic is scheduled for a network update in June, 2020. Here are detailed Ethereum Classic client [upgrade instructions](https://etccooperative.org/posts/2020-05-20-phoenix-hardfork).
 development/clients/index/intro: |-
-  客戶端用於與以太坊經典網絡同步並驗證區塊。大多數用戶不需要運行完整的節點，但是他們允許那些這樣做的用戶與網絡進行不信任的交互。以太坊經典計劃於2020年6月進行網絡更新。以下是[以太坊經典客戶端升級說明](https://hackmd.io/IPA7zPwpQDy-1U0reeppcQ)。
+  客戶端用於與以太坊經典網絡同步並驗證區塊。大多數用戶不需要運行完整的節點，但是他們允許那些這樣做的用戶與網絡進行不信任的交互。以太坊經典計劃於2020年6月進行網絡更新。以下是詳細的以太坊經典客戶端[升級說明](https://etccooperative.org/posts/2020-05-20-phoenix-hardfork)。
 
 # Public Endpoints
 development/clients/index/content__Public Endpoints__title: |-

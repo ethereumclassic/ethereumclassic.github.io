@@ -79,9 +79,9 @@ development/clients/index/title: |-
 development/clients/index/description: |-
   Çeşitli Ethereum Classic istemcileri ve dağıtım araçları için bağlantıları indirin
 
-# Clients are used to sync with the Ethereum Classic network and verify blocks. Most users won't need to run a full node, but they allow those who do to trustlessly interact with the network. Ethereum Classic is scheduled for a network update in June, 2020. Here are [Ethereum Classic Client Upgrade Instructions](https://hackmd.io/IPA7zPwpQDy-1U0reeppcQ).
+# Clients are used to sync with the Ethereum Classic network and verify blocks. Most users won't need to run a full node, but they allow those who do to trustlessly interact with the network. Ethereum Classic is scheduled for a network update in June, 2020. Here are detailed Ethereum Classic client [upgrade instructions](https://etccooperative.org/posts/2020-05-20-phoenix-hardfork).
 development/clients/index/intro: |-
-  İstemciler Ethereum Classic ağıyla senkronize etmek ve blokları doğrulamak için kullanılır. Çoğu kullanıcının tam bir düğüm çalıştırması gerekmez, ancak yapanların ağ ile güvenli bir şekilde etkileşime girmesine izin verir. Ethereum Classic, Haziran 2020'de bir ağ güncellemesi için planlanıyor. İşte [Ethereum Klasik İstemci Yükseltme Talimatları](https://hackmd.io/IPA7zPwpQDy-1U0reeppcQ).
+  İstemciler Ethereum Classic ağıyla senkronize etmek ve blokları doğrulamak için kullanılır. Çoğu kullanıcının tam bir düğüm çalıştırması gerekmez, ancak yapanların ağ ile güvenli bir şekilde etkileşime girmesine izin verir. Ethereum Classic, Haziran 2020'de bir ağ güncellemesi için planlanıyor. Ayrıntılı Ethereum Classic istemcisi [yükseltme talimatları](https://etccooperative.org/posts/2020-05-20-phoenix-hardfork).
 
 # Public Endpoints
 development/clients/index/content__Public Endpoints__title: |-

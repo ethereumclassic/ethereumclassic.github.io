@@ -79,9 +79,9 @@ development/clients/index/title: |-
 development/clients/index/description: |-
   Laden Sie Links für verschiedene Ethereum Classic-Clients und Bereitstellungstools herunter
 
-# Clients are used to sync with the Ethereum Classic network and verify blocks. Most users won't need to run a full node, but they allow those who do to trustlessly interact with the network. Ethereum Classic is scheduled for a network update in June, 2020. Here are [Ethereum Classic Client Upgrade Instructions](https://hackmd.io/IPA7zPwpQDy-1U0reeppcQ).
+# Clients are used to sync with the Ethereum Classic network and verify blocks. Most users won't need to run a full node, but they allow those who do to trustlessly interact with the network. Ethereum Classic is scheduled for a network update in June, 2020. Here are detailed Ethereum Classic client [upgrade instructions](https://etccooperative.org/posts/2020-05-20-phoenix-hardfork).
 development/clients/index/intro: |-
-  Clients werden verwendet, um mit dem Ethereum Classic-Netzwerk zu synchronisieren und Blöcke zu überprüfen. Die meisten Benutzer müssen keinen vollständigen Knoten ausführen, ermöglichen jedoch denjenigen, die dies tun, eine vertrauenslose Interaktion mit dem Netzwerk. Ethereum Classic ist für ein Netzwerk-Update im Juni 2020 geplant. Hier finden Sie [Anweisungen zum Upgrade des Ethereum Classic-Clients](https://hackmd.io/IPA7zPwpQDy-1U0reeppcQ).
+  Clients werden verwendet, um mit dem Ethereum Classic-Netzwerk zu synchronisieren und Blöcke zu überprüfen. Die meisten Benutzer müssen keinen vollständigen Knoten ausführen, ermöglichen jedoch denjenigen, die dies tun, eine vertrauenslose Interaktion mit dem Netzwerk. Ethereum Classic ist für ein Netzwerk-Update im Juni 2020 geplant. Hier finden Sie detaillierte Ethereum Classic-Clients [Upgrade-Anweisungen](https://etccooperative.org/posts/2020-05-20-phoenix-hardfork).
 
 # Public Endpoints
 development/clients/index/content__Public Endpoints__title: |-
