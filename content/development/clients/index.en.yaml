@@ -13,7 +13,7 @@ content:
     items:
       -
         key: BlockScout
-        link: https://blockscou.com/etc/mainnet/api_docs
+        link: https://blockscout.com/etc/mainnet/api_docs
         name: BlockScout
       -
         key: Ethercluster
