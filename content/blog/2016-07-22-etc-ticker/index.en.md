@@ -2,6 +2,7 @@
 title: ETC - new Ethereum Classic ticker symbol
 date: 2016-07-22
 author: Arvicco
+tags: ["announcement", "development", "teams", "hardfork", "education"]
 ---
 
 Now that we moved through the most difficult part of the post-fork transition and ensured our chain survival, we may focus on other things. Like branding, for example. Some people have noticed that I've started to use ETC ticker for Ethereum Classic instead of ETH-C. Why? Here is the rationale.

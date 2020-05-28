@@ -12,6 +12,19 @@
 
 Become a contributor to the [ethereumclassic.org](https://ethereumclassic.org/) website!
 
+### Translations 🌐
+
+A version of the website with auto-translated languages is [available here](https://babel--ethereumclassic.netlify.app/). We need your help to ensure that these translations make sense to native readers.
+
+If you can help correct these auto-translated items, please submit a pull request!
+
+- Fork this repository
+- Check out the `babel` branch
+- Open `content/_i18n/[name].yaml`
+- Correct the strings (make sure you keep the indentation)
+- Submit a Pull Request back into the `babel` branch
+- If you need support, or wish to add a language that is not listed, feel free to reach out in discord
+
 ### General Instructions
 
 If you want to modify content or add blog articles, you can do so in a number of ways:
@@ -37,7 +50,7 @@ New GitHub contributors can follow this [contribution guide](https://guides.gith
 
 1. Fork this repository to your personal GitHub account.
     - Optional: Clone locally on your machine.
-2. Navigate to the file `content/news/media.en.yaml`
+2. Navigate to the file `content/news/media/media.objects.en.yaml`
 3. Open `media.en.yaml` to edit
 4. Review the existing format of the articles in the file.
 5. Add your article to the file. Ensure the formatting is correct. Save your changes.

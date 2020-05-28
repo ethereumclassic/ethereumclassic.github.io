@@ -2,6 +2,7 @@
 title: "A Walk Through Ethereum Classic Digital Signature Code"
 date: 2018-03-15
 author: Christian Seberino
+tags: ["application", "development", "education"]
 ---
 
 ![](./1badmg3GLTFGGKsRdqeySTg.png)

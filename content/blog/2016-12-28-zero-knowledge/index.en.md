@@ -2,6 +2,7 @@
 title: "Zero Knowledge Proofs For Dummies"
 date: 2016-12-28
 author: Christian Seberino
+tags: ["development", "education"]
 ---
 
 ## Basic Definition

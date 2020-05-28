@@ -2,6 +2,7 @@
 title: "Toll Equality"
 date: 2017-12-13
 author: Christian Seberino
+tags: ["application", "development", "education"]
 ---
 
 *In a parallel universe near you…*

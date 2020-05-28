@@ -284,7 +284,7 @@ readers do not read off random characters that represent icons */
 /* .fa-band-aid:before { content: "\f462"; } */
 /* .fa-bandcamp:before { content: "\f2d5"; } */
 /* .fa-barcode:before { content: "\f02a"; } */
-/* .fa-bars:before { content: "\f0c9"; } */
+.fa-bars:before { content: "\f0c9"; }
 /* .fa-baseball-ball:before { content: "\f433"; } */
 /* .fa-basketball-ball:before { content: "\f434"; } */
 /* .fa-bath:before { content: "\f2cd"; } */

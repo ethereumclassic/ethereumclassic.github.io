@@ -1,359 +1,125 @@
-// TODO refactor this & turn into a plugin
+// PAGINATION
+const itemsPerPage = 30;
 
-const path = require('path');
-const fs = require('fs');
-const jsYaml = require('js-yaml');
+let filters;
 
-const { defaultLocale, locales } = require('./src/i18n/config');
-
-const defaultTemplate = require.resolve('./src/layouts/defaultItem.js');
-
-const rootContent = '/';
-
-function isDefaultLocale(locale) {
-  return locale === defaultLocale;
-}
-
-function localizePath(locale, name) {
-  const isDefault = isDefaultLocale(locale);
-  let slug = isDefault ? `/${name}/` : `/${locale}/${name}/`;
-  if (name === 'index') {
-    slug = isDefault ? '/' : `/${locale}/`;
-  }
-  return slug;
-}
-
-function parsePath(str) {
-  const relativePath = str.replace(__dirname, '');
-  const fullTree = relativePath.split('/');
-  const isContent = fullTree[1] === 'content';
-  const tree = fullTree.slice(isContent ? 2 : 3);
-  const fileName = tree[tree.length - 1];
-  const [name, locale, ext] = fileName.split('.');
-  tree[tree.length - 1] = name;
-  const slug = tree[tree.length - 2];
-  // this is a route, no need to parse much more
-  const hasParent = tree.length >= 2;
-  const parent = hasParent && tree[0];
-
-  if (!isContent) {
-    return { name, hasParent, parent, i18nKey: tree.join('/') };
-  }
-  // this is a content item...
-  const i18nKey = tree.slice(0, -1).join('/') || rootContent;
-  const isGlobal = tree[0] === 'globals';
-  const localSlug = localizePath(locale, i18nKey);
-  const info = {
-    i18nKey,
-    localSlug,
-    relativePath,
-    hasParent,
-    isContent,
-    isGlobal,
-    fileName,
-    slug,
-    name,
-    locale,
-    ext,
-    parent
-  };
-  return info;
-}
-
-function mergeTranslations(defaults = {}, translation = {}) {
-  const result = {
-    ...translation
-  };
-  Object.keys(defaults).forEach(k => {
-    // handle arrays
-    if (Array.isArray(defaults[k])) {
-      const mapping = {};
-      const mappedResults = (result[k] || []).map(r => ({ ...r, _localized: true }));
-      defaults[k].concat(mappedResults).forEach(item => {
-        if (item.key === undefined) {
-          throw new Error('Array items must have unqiue `key` fields', item);
+exports.createPages = async ({ graphql }) => {
+  const {
+    data: {
+      items: { nodes }
+    }
+  } = await graphql(`
+    query {
+      items: allYamlI18N(
+        filter: {
+          type: { in: ["collection", "markdown"] }
+          parentDirectory: { in: ["blog", "news"] }
         }
-        mapping[item.key] = {
-          ...mapping[item.key],
-          ...item
-        };
-      }, []);
-      result[k] = Object.keys(mapping).map(key => mapping[key]);
-    } else {
-      // merge objects
-      result[k] = {
-        ...defaults[k],
-        ...result[k]
-      };
-    }
-  });
-  return result;
-}
-
-// https://github.com/ChristopherBiscardi/gatsby-mdx/issues/176
-exports.onCreateWebpackConfig = ({ actions }) => {
-  actions.setWebpackConfig({
-    resolve: {
-      alias: {
-        '~components': path.resolve(__dirname, 'src/components')
-      }
-    }
-  });
-};
-
-// custom method to get stuff from content folder and register it
-exports.onCreateNode = async ({ node, loadNodeContent, actions: { createNodeField } }) => {
-  // Check for "Mdx" type so that other files (e.g. images) are excluded
-  if (node.internal.mediaType === 'text/yaml' || node.internal.type === 'Mdx') {
-    // Use path.basename
-    const { slug, locale, parent, name, isGlobal, localSlug, i18nKey } = parsePath(
-      node.absolutePath || node.fileAbsolutePath
-    );
-    // ignore locales that are not enabled
-    if (!locales[locale] || !locales[locale].enabled) {
-      return;
-    }
-
-    // add the following tags to allow easy querying later on...
-    createNodeField({
-      node,
-      name: 'isGlobal',
-      value: isGlobal
-    });
-    createNodeField({
-      node,
-      name: 'translation',
-      value: true
-    });
-    createNodeField({
-      node,
-      name: 'name',
-      value: name
-    });
-    createNodeField({
-      node,
-      name: 'slug',
-      value: slug
-    });
-    createNodeField({
-      node,
-      name: 'locale',
-      value: locale
-    });
-    createNodeField({
-      node,
-      name: 'i18nKey',
-      value: i18nKey
-    });
-    // TODO rename hasParent this to 'generated'
-    // add the special tag for blog articles etc.
-    createNodeField({
-      node,
-      name: 'hasParent',
-      value: !!parent
-    });
-    if (parent) {
-      createNodeField({
-        node,
-        name: 'parent',
-        value: parent
-      });
-      createNodeField({
-        node,
-        name: 'localSlug',
-        value: localSlug
-      });
-    }
-    if (node.internal.mediaType === 'text/yaml') {
-      createNodeField({
-        node,
-        name: 'ext',
-        value: 'yaml'
-      });
-      const parsedYaml = jsYaml.load(await loadNodeContent(node));
-      createNodeField({
-        node,
-        name: 'body',
-        value: JSON.stringify(parsedYaml)
-      });
-    } else {
-      // for md(x) files
-      createNodeField({
-        node,
-        name: 'ext',
-        value: 'mdx'
-      });
-    }
-  }
-};
-
-function getChildLocales(name, locale, parent, tree) {
-  if (!parent) {
-    return {};
-  }
-  const parentLocales = tree[parent] || {};
-  const myLocale = parentLocales[locale] || {};
-  const defaultLocales = parentLocales[defaultLocale] || {};
-  const merged = mergeTranslations(defaultLocales.yaml, myLocale.yaml);
-  return {
-    menu: merged.menu && merged.menu.map((n, i) => ({ ...n, i, selected: name === n.key })),
-    globals: merged.globals,
-    [name]: merged[name]
-  };
-}
-function getGlobals(locale, tree) {
-  const myLocale = tree[rootContent][locale] || { yaml: { globals: {} } };
-  return {
-    ...tree[rootContent][defaultLocale].yaml.globals,
-    ...myLocale.yaml.globals
-  };
-}
-
-// This hook uses the `routes` folder to generate pages
-// It uses src/i18n/config to generate a page for each language
-exports.createPages = async ({ graphql, actions: { createPage } }) => {
-  // query all the nodes we need for generating translations
-  const result = await graphql(`
-    {
-      routes: allFile(filter: { sourceInstanceName: { eq: "routes" } }) {
-        edges {
-          node {
-            absolutePath
+        sort: { fields: data___date, order: ASC }
+      ) {
+        nodes {
+          parentDirectory
+          data {
+            date
+            tags
           }
-        }
-      }
-      mdxTranslations: allMdx(filter: { fields: { translation: { eq: true } } }) {
-        edges {
-          node {
-            absolutePath: fileAbsolutePath
-            body
-            fields {
-              locale
-              slug
-              ext
-              name
-              i18nKey
-            }
-          }
-        }
-      }
-      yamlTranslations: allFile(filter: { fields: { translation: { eq: true } } }) {
-        edges {
-          node {
-            absolutePath
-            fields {
-              locale
-              ext
-              slug
-              name
-              body
-              i18nKey
-            }
-          }
-        }
-      }
-      mdxPages: allMdx(filter: { fields: { hasParent: { eq: true } } }) {
-        edges {
-          node {
-            fields {
-              locale
-              parent
-              i18nKey
-              localSlug
-              slug
-              name
-            }
-            fileAbsolutePath
-            frontmatter {
-              title
-              description
-            }
-          }
+          locale
         }
       }
     }
   `);
-
-  const { routes, mdxPages, mdxTranslations, yamlTranslations } = result.data;
-
-  // create a tree of the translations to be injected into the pages
-  const translationsTree = {};
-  mdxTranslations.edges.concat(yamlTranslations.edges).forEach(data => {
-    const { ext, name, locale, i18nKey, body } = data.node.fields;
-    // add to the tree
-    translationsTree[i18nKey] = {
-      ...translationsTree[i18nKey],
-      [locale]: {
-        ...(translationsTree[i18nKey] || {})[locale],
-        [ext]: {
-          ...((translationsTree[i18nKey] || {})[locale] || {})[ext],
-          // parse the data if it's not mdx
-          [name]: data.node.body || JSON.parse(body)
-        }
-      }
+  filters = {};
+  nodes.forEach(({ parentDirectory, locale, data: { tags, date } }) => {
+    filters[locale] = filters[locale] || {};
+    filters[locale][parentDirectory] = filters[locale][parentDirectory] || {
+      years: {},
+      tags: {},
+      total: 0
     };
+    const branch = filters[locale][parentDirectory];
+    branch.total += 1;
+    if (date) {
+      const year = date.split('-')[0];
+      branch.years[year] = branch.years[year] ? branch.years[year] + 1 : 1;
+    }
+    (tags || []).forEach(tag => {
+      branch.tags[tag] = branch.tags[tag] ? branch.tags[tag] + 1 : 1;
+    });
   });
+};
 
-  // generate main routes and inject their translations
-  await Promise.all(
-    routes.edges.map(async data => {
-      const { i18nKey, name, parent } = parsePath(data.node.absolutePath);
-      const routeLocales = translationsTree[i18nKey] || {};
-      const routeDefaultLocales = routeLocales[defaultLocale] || {};
-      // for each of the i18n configs, create a page...
-      Object.keys(locales).forEach(locale => {
-        // only create pages for enabled locales
-        if (!locales[locale].enabled) {
-          return;
+exports.onCreatePage = async ({ page, actions: { createPage, deletePage } }) => {
+  const { relativePath, locale } = page.context;
+
+  if (['blog', 'news', 'news/media'].indexOf(relativePath) === -1) {
+    return;
+  }
+  deletePage(page);
+  const tags = {};
+  const years = {};
+  let total = 0;
+
+  // search for correct parent directory
+  ({
+    blog: ['blog'],
+    news: ['blog', 'news'],
+    'news/media': ['news']
+  }[relativePath].forEach(p => {
+    const match = (filters[locale] || {})[p] || {};
+    total += match.total || 0;
+    Object.keys(match.years || {}).forEach(k => {
+      years[k] = years[k] ? years[k] + match.years[k] : match.years[k];
+    });
+    Object.keys(match.tags || {}).forEach(k => {
+      tags[k] = tags[k] ? tags[k] + match.tags[k] : match.tags[k];
+    });
+  }));
+  const allTags = Object.keys(tags);
+  const allYears = Object.keys(years);
+  const pageGroups = [{ path: page.path, items: total }];
+  const defaultTagQuery = [null, ...allTags];
+  allYears.forEach(year => {
+    pageGroups.push({
+      path: `${page.path}/year/${year}`,
+      items: years[year],
+      filter: year,
+      type: 'year'
+    });
+  });
+  allTags.forEach(tag => {
+    pageGroups.push({
+      path: `${page.path}/tag/${tag}`,
+      items: tags[tag],
+      filter: tag,
+      type: 'tag',
+      tagFilter: [tag]
+    });
+  });
+  pageGroups.forEach(({ path, items, type: filterType, filter, tagFilter }) => {
+    const numPages = Math.floor(items / itemsPerPage) + 1;
+    Array.from({ length: numPages }).forEach((_, i) => {
+      const currentPage = i + 1;
+      const isFirst = currentPage === 1;
+      const pageData = {
+        ...page,
+        path: isFirst ? path : `${path}/page/${currentPage}`,
+        context: {
+          ...page.context,
+          numPages,
+          filterBase: path,
+          numItems: items,
+          currentPage,
+          limit: itemsPerPage,
+          skip: i * itemsPerPage,
+          allYears,
+          allTags,
+          filter,
+          filterType,
+          yearQuery: filterType === 'year' ? `${filter}-*` : '*',
+          tagQuery: tagFilter || defaultTagQuery
         }
-        const thisLocale = routeLocales[locale] || {};
-        const yaml = mergeTranslations(routeDefaultLocales.yaml, thisLocale.yaml);
-        // move translations with the same key into the main i18n object
-        const main = yaml[name];
-        // remove them from the child yaml object
-        delete yaml[name];
-        // create the page
-        createPage({
-          path: localizePath(locale, i18nKey),
-          component: data.node.absolutePath,
-          context: {
-            locale,
-            defaultLocale: isDefaultLocale(locale),
-            globals: getGlobals(locale, translationsTree),
-            i18n: {
-              ...main,
-              ...getChildLocales(name, locale, parent, translationsTree),
-              yaml,
-              mdx: {
-                ...routeDefaultLocales.mdx,
-                ...thisLocale.mdx
-              }
-            }
-          }
-        });
-      });
-    })
-  );
-  // generated sub-pages (markdown files like blog)
-  mdxPages.edges.forEach(({ node: post }) => {
-    const { locale, parent, localSlug, slug } = post.fields;
-    // use this parent template if it exists, otherwise fallback to parent template
-    const templatePath = path.resolve(`./src/layouts/${parent}Item.js`);
-    const component = fs.existsSync(templatePath) ? require.resolve(templatePath) : defaultTemplate;
-    createPage({
-      path: localSlug,
-      component,
-      context: {
-        locale,
-        defaultLocale: isDefaultLocale(locale),
-        i18n: {
-          ...getChildLocales(slug, locale, parent, translationsTree),
-          ...post.frontmatter
-        },
-        globals: getGlobals(locale, translationsTree),
-        title: post.frontmatter.title,
-        parent
-      }
+      };
+      createPage(pageData);
     });
   });
 };

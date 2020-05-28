@@ -2,7 +2,7 @@
 title: "ETC Weekly Newsletter: New devs on ETCdev Team."
 date: 2017-04-13
 author: Carlo V
-
+tags: ["announcement", "development", "education"]
 ---
 
 

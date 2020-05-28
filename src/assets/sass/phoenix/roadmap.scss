@@ -1,0 +1,36 @@
+.roadmap {
+  $border: $nanoPadding solid _palette(accent);
+  display: grid;
+  grid-template-columns: 50% 50%;
+
+  h4 {
+    border-bottom: $border;
+    display: inline-block;
+  }
+
+  h4,
+  p {
+    padding: $microPadding $smallPadding;
+  }
+
+  .item {
+    border-right: $border;
+  }
+
+  .item:nth-child(odd) {
+    text-align: right;
+  }
+
+  .item:nth-child(even) {
+    margin-top: $smallPadding;
+    border-right: none;
+  }
+
+  @include breakpoint('<=small') {
+    grid-template-columns: 100%;
+
+    .item {
+      border-right: none;
+    }
+  }
+}

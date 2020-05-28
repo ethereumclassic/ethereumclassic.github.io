@@ -1,3 +1,5 @@
+import slugify from 'slugify';
+
 export function groupItems(items) {
   return items.reduce((o, i) => ({ ...o, [i.type]: (o[i.type] || []).concat([i]) }), {});
 }
@@ -17,11 +19,24 @@ export function groupTypes(items, iterator) {
   );
 }
 
+export function textToKey(str) {
+  if (!str) {
+    return null;
+  }
+  return slugify(str, { lower: true, strict: true });
+}
+
 export function sortBy(key, items) {
   if (!key) {
     return items;
   }
-  return items.sort((a, b) => a[key].toLowerCase().localeCompare(b[key].toLowerCase()));
+  return items.sort((a, b) => `${a[key]}`.toLowerCase().localeCompare(`${b[key]}`.toLowerCase()));
+}
+
+export function filterAndSortItems(items, { filter, sort }) {
+  const filtered = filter ? items.filter(i => i[filter]) : items;
+  const sorted = sort ? sortBy(sort, filtered) : filtered;
+  return sorted;
 }
 
 export function pad(num, width, z = '0') {

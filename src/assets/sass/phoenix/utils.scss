@@ -1,0 +1,185 @@
+.float-right {
+  float: right;
+}
+
+.float-left {
+  float: left;
+}
+
+.clear {
+  clear: both;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.nudge-up {
+  margin-top: -$smallPadding;
+  margin-bottom: $smallPadding;
+}
+
+.flex {
+  display: flex;
+  flex-flow: wrap;
+  gap: $tinyPadding;
+
+  >* {
+    flex: 1;
+  }
+}
+
+.grid {
+  display: grid;
+  grid-auto-flow: column;
+  gap: $tinyPadding;
+
+  @include breakpoint('<=small') {
+    grid-auto-flow: none;
+  }
+}
+
+#wrapper .cells {
+  background: _palette(bright);
+  border-radius: $roundedLoose;
+  box-shadow: $softShadow;
+  margin: $smallPadding 0;
+  border: $solidDarkLine;
+
+  .cell {
+    border-bottom: $solidDarkLine;
+    padding: $smallPadding;
+
+    >* {
+      margin: 0;
+    }
+  }
+
+  .cell:last-child {
+    border-bottom: none;
+  }
+
+  .buttons {
+    margin-bottom: $tinyPadding;
+  }
+
+  &.slim .cell {
+    padding: $tinyPadding;
+  }
+
+  &.widen {
+    margin-left: -$smallPadding;
+    margin-right: -$smallPadding;
+  }
+
+}
+
+.scrolly {
+  max-height: 20rem;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.spaced {
+  margin: $smallPadding 0;
+}
+
+.dark {
+  background: _palette(accent-dark);
+
+  * {
+    color: _palette(bg);
+  }
+
+  .button-link {
+    background: _palette(t-white-20);
+    box-shadow: $softShadow;
+
+    &:hover {
+      background: _palette(t-white-10);
+    }
+  }
+}
+
+.tip {
+  background: _palette(accent-bg);
+  padding: $microPadding $tinyPadding;
+  border-radius: $roundedTight;
+  font-size: 0.9rem;
+  line-height: 1.5rem;
+  margin: $microPadding 0;
+  color: _palette(accent-dark);
+
+  i.info {
+    color: _palette(accent-border);
+    margin-right: $microPadding;
+  }
+}
+
+.shaded {
+  $baseCol: _palette(grey-10);
+  background: linear-gradient(180deg, $baseCol, darken($baseCol, 15%));
+  text-shadow: 0px 1px 1px _palette(t-white-80);
+
+  >.container {
+    z-index: 1;
+    position: relative;
+  }
+
+  &::before {
+    z-index: 0;
+    content: '';
+    position: absolute;
+    display: block;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: url('../images/fractal.svg');
+    background-repeat: no-repeat;
+    opacity: 0.03;
+    background-size: auto 200%;
+    background-position: 70% 20%;
+
+    @include breakpoint('<=medium') {
+      background-size: 70% auto;
+      background-position: 90% 20%;
+    }
+
+    @include breakpoint('<=small') {
+      background-size: auto 200%;
+    }
+  }
+}
+
+.showcase {
+  background: _palette(grey-10);
+  box-shadow: 0 $tinyPadding $smallPadding _palette(t-black-20);
+  padding: $smallPadding;
+  border-radius: $roundedTight;
+}
+
+
+.page-missing {
+  max-width: 30rem;
+  margin: auto;
+  text-align: center;
+  padding: $hugePadding $smallPadding;
+
+  img {
+    max-width: 3rem;
+    margin: $tinyPadding;
+  }
+
+  h2 {
+    margin: $tinyPadding;
+  }
+}

@@ -1,0 +1,8 @@
+title: Knowledge Base
+description: General information and explainers about various Ethereum Classic history and concepts
+intro: Whether you are just getting started or are a blockchain veteran, this section contains a wealth of resources to help you understand the why and how of Ethereum Classic. 
+content: 
+  -
+    key: links
+    type: links
+    itemsRef: globals.section.menu

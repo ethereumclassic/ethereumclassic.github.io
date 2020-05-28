@@ -2,6 +2,7 @@
 title: Let's keep the original censorship-resistant Ethereum going!
 date: 2016-07-15
 author: Arvicco
+tags: ["announcement", "development", "teams", "hardfork"]
 ---
 
 ![Ethereum Classic Logo](./1nIUazw_u3KChCX89fLgLDg.png)

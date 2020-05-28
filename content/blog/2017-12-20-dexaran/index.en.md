@@ -2,6 +2,7 @@
 title: "The Dexaran Interview"
 date: 2017-12-20
 author: Christian Seberino
+tags: ["application", "development", "education", "teams"]
 ---
 
 ![](./0S4o61tqy6dzM-ntU.png)

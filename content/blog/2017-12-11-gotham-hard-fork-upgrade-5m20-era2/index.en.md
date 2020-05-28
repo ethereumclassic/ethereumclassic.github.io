@@ -2,6 +2,7 @@
 title: Gotham Hard Fork Upgrade - 5M20 Era2
 date: 2017-12-11
 author: Matthew Mazur
+tags: ["announcement", "development", "education", "teams", "hardfork"]
 ---
 
 # ECIP 1017: Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule

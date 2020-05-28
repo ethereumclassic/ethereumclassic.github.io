@@ -2,6 +2,7 @@
 title: The Ethereum Classic Declaration of Independence
 date: 2016-08-13
 author: Ethereum Classic
+tags: ["announcement", "development", "teams", "hardfork", "education"]
 ---
 
 <b>PDF Version:</b>

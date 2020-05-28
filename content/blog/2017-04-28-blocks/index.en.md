@@ -2,6 +2,7 @@
 title: "Ethereum Classic Blocks Explained: The Three Categories"
 date: 2017-04-28
 author: Christian Seberino
+tags: ["application", "development", "education"]
 ---
 
 ![](./0pydf21vjXWl8xH12.jpg)
