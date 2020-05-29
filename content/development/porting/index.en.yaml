@@ -11,7 +11,7 @@ content:
         key: Remix IDE
         name: Remix IDE
         link: http://remix.ethereum.org/
-        description: Remix IDE is a development environment for deploying smart contracts to ETC and ETH. It includes Solidity compiler, debugger, and smart contract deployer. Use with an active ETC browser wallet like Saturn to deploy your contracts to mainnet!
+        description: Remix IDE is a development environment for deploying smart contracts to ETC and ETH. It includes a Solidity compiler, debugger, and smart contract deployer. Use with an active browser wallet like Saturn to deploy your contracts to ETC mainnet!
       - 
         key: Nifty Wallet
         name: Nifty Wallet (similar to Metamask)
