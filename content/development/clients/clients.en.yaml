@@ -44,7 +44,7 @@ items:
     key: OpenEthereum
     name: OpenEthereum
     link: https://github.com/openethereum
-    description: Fast and feature-rich multi-network Ethereum client. For Phoenix upgrade support, please use version v3.0.0 or later. Upgrade considerations, ParityEthereum is no longer being maintained by Parity Technologies and was handed over to Gnosis as the OpenEthereum project. This client is supported by the Gnosis team with funding from the Ethereum Foundation.
+    description: Fast and feature-rich multi-network Ethereum client. For Phoenix upgrade support, please use version v3.0.1 or later. Upgrade considerations, ParityEthereum is no longer being maintained by Parity Technologies and was handed over to Gnosis as the OpenEthereum project. This client is supported by the Gnosis team with funding from the Ethereum Foundation.
     guide: https://github.com/openethereum/openethereum
     release: https://github.com/openethereum/openethereum/releases
     support: http://discord.io/openethereum
