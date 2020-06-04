@@ -26,7 +26,7 @@ content:
         key: Metamask
         name: Metamask (possible with some modifications)
         link: https://forum.saturn.network/t/how-to-add-ethereum-classic-network-to-metamask/4000
-        description: It is possible to connect Metamask to the ETC as a "Custom Network" with the fields **Custom URL**: `https://www.ethercluster.com/etc` and **Chain ID**:`61`.
+        description: It is possible to connect Metamask to the ETC as a "Custom Network" with the fields **Custom URL** set to`https://www.ethercluster.com/etc` and **Chain ID** set to`61`.
       - 
         key: Trust Wallet
         name: Trust Wallet (Mobile dApp Browser)
