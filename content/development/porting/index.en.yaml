@@ -11,7 +11,7 @@ content:
         key: Remix IDE
         name: Remix IDE
         link: http://remix.ethereum.org/
-        description: Remix IDE is a development environment for deploying smart contracts to ETC and ETH. It includes a Solidity compiler, debugger, and smart contract deployer. Use with an active browser wallet like Saturn to deploy your contracts to ETC mainnet!
+        description: Remix IDE is a development environment for deploying smart contracts to ETC and ETH. It includes a Solidity compiler, debugger, and smart contract deployer. Use with an active browser wallet like Saturn to deploy your contracts to ETC mainnet.
       - 
         key: Nifty Wallet
         name: Nifty Wallet (similar to Metamask)
@@ -22,6 +22,11 @@ content:
         name: Saturn Wallet (similar to Metamask)
         link: https://addons.mozilla.org/en-US/firefox/addon/saturn-wallet/
         description: Similar to Nifty Wallet, but closed source. Works on Chrome and Firefox. Make sure Metamask is disabled when Saturn Wallet is in use.
+      -
+        key: Metamask
+        name: Metamask (possible with some modifications)
+        link: https://forum.saturn.network/t/how-to-add-ethereum-classic-network-to-metamask/4000
+        description: It is possible to connect Metamask to the ETC as a "Custom Network" with the fields **Custom URL**: `https://www.ethercluster.com/etc` and **Chain ID**:`61`.
       - 
         key: Trust Wallet
         name: Trust Wallet (Mobile dApp Browser)
