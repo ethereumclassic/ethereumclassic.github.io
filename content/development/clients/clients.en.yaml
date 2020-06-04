@@ -26,7 +26,7 @@ items:
     key: Hyperledger Besu
     name: Hyperledger Besu
     link: https://besu.hyperledger.org/
-    description: Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. For Phoenix upgrade support, please use version v1.4.1 or later. Upgrade considerations, APIs between ParityEthereum and Besu significantly differ. Mining is not very well supported in Besu. This client is supported by the ChainSafe, ETC Cooperative, and PegaSys teams as part of the Hyperledger project with funding from Grayscale's Ethereum Classic Trust.
+    description: Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. For Phoenix upgrade support, please use version 1.4.6-RC2 or later. Upgrade considerations, APIs between ParityEthereum and Besu significantly differ. Mining is not very well supported in Besu. This client is supported by the ChainSafe, ETC Cooperative, and PegaSys teams as part of the Hyperledger project with funding from Grayscale's Ethereum Classic Trust.
     guide: https://besu.hyperledger.org/en/stable/HowTo/Get-Started/Install-Binaries/
     release: https://github.com/hyperledger/besu/releases
     support: https://chat.hyperledger.org/
