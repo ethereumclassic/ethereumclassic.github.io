@@ -1,6 +1,6 @@
 ---
 title: "Phoenix Hard Fork Upgrade"
-date: 2020-06-10
+date: 2020-06-01
 author: Raw Pong Ghmoa
 tags: ["announcement", "development", "education", "teams", "hardfork"]
 ---
