@@ -2,11 +2,16 @@ disclaimer: true
 contribute: true
 title: Porting
 description: Useful tools for developers who have a currently running dApp on ETH or another chain to deploy on ETC.
-intro: There are a few Ethereum Classic specific tools that are useful to know about if you are porting your ETH application over. All Web3.js frontend code is compatible with ETC as long as the provider RPC node being pointed to is an ETC instance. No changes to Solidity (.sol) code is necessary, ETH contracts run out of the box on ETC.
+intro: There are a few Ethereum Classic specific tools that are useful to know about if you are porting your ETH application over. All Web3.js frontend code is compatible with ETC as long as the provider RPC node being pointed to is an ETC instance. No changes to Solidity (.sol) code is necessary, ETH contracts run out of the box on ETC! Development tools like Remix and Truffle also work natively.
 content:
   -
     type: links
     items:
+      - 
+        key: Remix IDE
+        name: Remix IDE
+        link: http://remix.ethereum.org/
+        description: Remix IDE is a development environment for deploying smart contracts to ETC and ETH. It includes a Solidity compiler, debugger, and smart contract deployer. Use with an active browser wallet like Saturn to deploy your contracts to ETC mainnet.
       - 
         key: Nifty Wallet
         name: Nifty Wallet (similar to Metamask)
@@ -17,6 +22,11 @@ content:
         name: Saturn Wallet (similar to Metamask)
         link: https://addons.mozilla.org/en-US/firefox/addon/saturn-wallet/
         description: Similar to Nifty Wallet, but closed source. Works on Chrome and Firefox. Make sure Metamask is disabled when Saturn Wallet is in use.
+      -
+        key: Metamask
+        name: Metamask (possible with some modifications)
+        link: https://forum.saturn.network/t/how-to-add-ethereum-classic-network-to-metamask/4000
+        description: It is possible to connect Metamask to the ETC as a "Custom Network" with the fields **Custom URL** set to`https://www.ethercluster.com/etc` and **Chain ID** set to`61`.
       - 
         key: Trust Wallet
         name: Trust Wallet (Mobile dApp Browser)
@@ -41,4 +51,4 @@ content:
         key: Commonwealth.gg
         name: Commonwealth.gg
         link: https://commonwealth.gg/
-        description: An open source Hourglass contract similar to original P3D built on Ethereum Classic. Can be leveraged with applications that incentivize user participation.
+        description: An open source Hourglass contract similar to original P3D built on Ethereum Classic. Can be leveraged with applications that incentivize user participation via dividends.
