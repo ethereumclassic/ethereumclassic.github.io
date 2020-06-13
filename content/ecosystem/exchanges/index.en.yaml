@@ -470,6 +470,10 @@ content:
       link: https://atomicwallet.io
       name: AtomicWallet
     -
+      key: Bitni
+      link: https://bitni.com/
+      name: Bitni
+    -
       key: BitTorro
       link: https://bittorro.io/
       name: BitTorro
