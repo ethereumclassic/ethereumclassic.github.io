@@ -119,7 +119,7 @@ content:
       - key: Core Paper
         year: 2019
         name: Core Paper
-        active: true
+        className: faded
         link: https://corepaper.org/
         twitter: https://twitter.com/corepaper
         github: https://github.com/corepaper
