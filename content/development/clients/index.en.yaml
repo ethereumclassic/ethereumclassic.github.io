@@ -12,9 +12,9 @@ content:
     description: You can use these services to connect to ETC via JSON-RPC.
     items:
       -
-        key: BlockScout
+        key: BlockScout API
         link: https://blockscout.com/etc/mainnet/api_docs
-        name: BlockScout
+        name: BlockScout API
       -
         key: Ethercluster
         link: https://www.ethercluster.com/etc
@@ -27,6 +27,11 @@ content:
         key: Ethercluster (Mordor)
         link: https://www.ethercluster.com/mordor
         name: Ethercluster (Mordor)
+      -
+        key: TokenView API
+        link: https://services.tokenview.com
+        name: TokenView API
+      -
   -
     type: links
     title: Node Tools
