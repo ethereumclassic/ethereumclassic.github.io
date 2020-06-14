@@ -197,6 +197,10 @@ content:
         link: https://ownbit.io/
         name: Ownbit
       -
+        key: Tokenview
+        link: https://tokenview.com/cn/download
+        name: Tokenview
+      -
         key: Trust Wallet
         link: https://trustwallet.com/
         name: Trust Wallet
