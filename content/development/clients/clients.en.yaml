@@ -35,7 +35,7 @@ items:
     key: Multi-Geth
     name: Multi-Geth
     link: https://github.com/multi-geth
-    description: A swiss army knife distribution of go-ethereum, with support for many species of Ethereum networks. For Phoenix upgrade support, please use version v1.9.14 or later. Upgrade considerations, a majority of the Multi-Geth maintainers forked to the Core-Geth client. This client is community maintained and supported by the CorePaper and Gödel Labs teams.
+    description: A swiss army knife distribution of go-ethereum, with support for many species of Ethereum networks. For Phoenix upgrade support, please use version v1.9.14 or later. Upgrade considerations, a majority of the Multi-Geth maintainers forked to the Core-Geth client. This client is community maintained and supported by the Core Paper and Gödel Labs teams.
     guide: https://github.com/multi-geth/multi-geth/
     release: https://github.com/multi-geth/multi-geth/releases
     support: https://gitter.im/multi-geth/community
