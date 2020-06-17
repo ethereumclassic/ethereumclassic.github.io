@@ -31,7 +31,6 @@ content:
         key: TokenView API
         link: https://services.tokenview.com
         name: TokenView API
-      -
   -
     type: links
     title: Node Tools
