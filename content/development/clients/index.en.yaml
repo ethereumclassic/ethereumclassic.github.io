@@ -12,9 +12,9 @@ content:
     description: You can use these services to connect to ETC via JSON-RPC.
     items:
       -
-        key: BlockScout
+        key: BlockScout API
         link: https://blockscout.com/etc/mainnet/api_docs
-        name: BlockScout
+        name: BlockScout API
       -
         key: Ethercluster
         link: https://www.ethercluster.com/etc
@@ -27,6 +27,10 @@ content:
         key: Ethercluster (Mordor)
         link: https://www.ethercluster.com/mordor
         name: Ethercluster (Mordor)
+      -
+        key: TokenView API
+        link: https://services.tokenview.com
+        name: TokenView API
   -
     type: links
     title: Node Tools
@@ -52,6 +56,11 @@ content:
         name: Google BigQuery
         link: https://console.cloud.google.com/marketplace/details/ethereum-classic/crypto-ethereum-classic?filter=solution-type:dataset&q=ethereum%20classic&id=babd6e83-ec5f-4b0a-b44f-64d37710a71d
         description:  Google Cloud released datasets consisting of the blockchain transaction history for Ethereum Classic, to help you better understand cryptocurrency. Also included a set of queries and views that map all blockchain datasets to a double-entry book data structure that enables multi-chain meta-analyses, as well as integration with conventional financial record processing systems.
+      - 
+        key: Raspberry Pi Node
+        link: https://core-geth.org/setup-on-raspberry-pi
+        name: Raspberry Pi Node
+        description: A detailed guide for how to setup an Ethereum Classic node on a Raspberry Pi.
       - 
         key: QuikNode
         link: https://quiknode.io/

@@ -1,4 +1,18 @@
 -
+  date: 2020-06-10
+  link: https://core-geth.org/setup-on-raspberry-pi
+  author: ETC Core
+  source: Core-Geth
+  title: "How to setup an Ethereum node on Raspberry Pi"
+  tags: ["teams", "media", "education", "guide", "mining"]
+-
+  date: 2020-06-04
+  link: https://medium.com/ethereum-classic-labs/announcing-the-new-york-blockchain-week-hackathon-winners-6ca9b075aaff
+  author: Stevan Lohja
+  source: Ethereum Classic Labs
+  title: "Announcing Gitcoin’s New York Blockchain Week Virtual Hackathon Winners"
+  tags: ["announcement", "development", "application", "teams"]
+-
   date: 2020-06-03
   link: https://medium.com/etc-core/ethereum-classic-post-fork-turbulence-debrief-b92601c89d2d
   author: IA
