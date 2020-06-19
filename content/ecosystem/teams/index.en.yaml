@@ -130,13 +130,6 @@ content:
         link: https://www.secondstate.io/
         twitter: https://twitter.com/secondstateinc
         github: https://github.com/second-state
-      - key: PegaSys
-        year: 2019
-        name: PegaSys
-        active: true
-        link: https://pegasys.tech/
-        twitter: https://twitter.com/PegaSysEng
-        github: https://github.com/hyperledger/besu
       - key: Gödel Labs
         year: 2020
         name: Gödel Labs 哥德尔实验室
