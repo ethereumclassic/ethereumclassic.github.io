@@ -74,6 +74,12 @@ items:
   text: The TokenBridge allows users to transfer data (e.g. digital asset ownership information) between two chains in the Ethereum ecosystem. Cross-chain bridges provide fast and secure connections between blockchains, creating scalability and connection - interoperability - between Ethereum EVM networks.
   type: interoperabiltiy
 - 
+  key: Celsius Network
+  name: Celsius Network
+  link: https://celsius.network/
+  text: Celsius Network, the industry-leading cryptocurrency interest-earning platform, allows ETC holders deposit their digital assets into the Celsius wallet and earn. APY in weekly compounded interest rewards.
+  type: finance
+- 
   key: Commonwealth
   name: Commonwealth
   link: https://commonwealth.gg
