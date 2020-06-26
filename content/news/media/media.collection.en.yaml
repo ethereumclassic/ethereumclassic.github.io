@@ -1,4 +1,11 @@
 -
+  date: 2020-06-24
+  link: https://medium.com/ethereum-classic-labs/accessing-your-etc-endpoint-with-rivet-74e8a3aa338f
+  author: Greg Lang
+  source: Ethereum Classic Labs
+  title: "Accessing Your ETC Endpoint with Rivet"
+  tags: ["teams", "media", "guide", "development", "application"]
+-
   date: 2020-06-10
   link: https://core-geth.org/setup-on-raspberry-pi
   author: ETC Core
