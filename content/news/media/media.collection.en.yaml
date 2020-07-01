@@ -1,4 +1,18 @@
 -
+  date: 2020-06-29
+  link: https://thecurrencyanalytics.com/16283/ethereum-classic-etc-on-chainsafe-in-developing-the-chainbridge/
+  author: Maheen Hernandez
+  source: The Currency Analytics
+  title: "Ethereum Classic (ETC) on ChainSafe in developing the ChainBridge"
+  tags: ["education", "development"]
+-
+  date: 2020-06-24
+  link: https://thecurrencyanalytics.com/16136/ethereum-classic-etc-pioneering-financial-inclusion-and-improved-interest-rate-on-celsius-network/
+  author: Maheen Hernandez
+  source: The Currency Analytics
+  title: "Ethereum Classic (ETC) Pioneering Financial Inclusion and Improved Interest Rate on Celsius Network"
+  tags: ["education", "announcements"]
+-
   date: 2020-06-24
   link: https://medium.com/ethereum-classic-labs/accessing-your-etc-endpoint-with-rivet-74e8a3aa338f
   author: Greg Lang
@@ -6,12 +20,33 @@
   title: "Accessing Your ETC Endpoint with Rivet"
   tags: ["teams", "media", "guide", "development", "application"]
 -
+  date: 2020-06-20
+  link: https://thecurrencyanalytics.com/15983/ethereum-classic-etc-brand-and-the-call-to-action-by-ecosystem-participants/
+  author: Maheen Hernandez
+  source: The Currency Analytics
+  title: "Ethereum Classic (ETC) Brand and the Call to Action by Ecosystem Participants"
+  tags: ["education", "applications"]  
+-
   date: 2020-06-10
   link: https://core-geth.org/setup-on-raspberry-pi
   author: ETC Core
   source: Core-Geth
   title: "How to setup an Ethereum node on Raspberry Pi"
   tags: ["teams", "media", "education", "guide", "mining"]
+-
+  date: 2020-06-07
+  link: https://thecurrencyanalytics.com/15983/ethereum-classic-etc-brand-and-the-call-to-action-by-ecosystem-participants/
+  author: Dan Saada
+  source: The Currency Analytics
+  title: "Ethereum Classic (ETC) Sustaining the Basic Qualities of the Blockchain Technology"
+  tags: ["education"]
+-
+  date: 2020-06-04
+  link: https://thecurrencyanalytics.com/15409/ethereum-classic-etc-continues-to-be-buy-worthy-facilitating-inter-compatibility/
+  author: Maheen Hernandez
+  source: The Currency Analytics
+  title: "Ethereum Classic (ETC) Continues to be Buy Worthy Facilitating Inter Compatibility"
+  tags: ["education", "hard forks", "development"]  
 -
   date: 2020-06-04
   link: https://medium.com/ethereum-classic-labs/announcing-the-new-york-blockchain-week-hackathon-winners-6ca9b075aaff
@@ -34,12 +69,26 @@
   title: "Phoenix hard-fork successfully activates on Ethereum Classic"
   tags: ["announcement", "development", "hardfork", "mining"]
 -
+  date: 2020-05-29
+  link: https://thecurrencyanalytics.com/15194/ethereum-classic-etc-phoenix-is-getting-ready-what-should-holders-do/
+  author: Maheen Hernandez
+  source: The Currency Analytics
+  title: "Ethereum Classic (ETC) Phoenix is Getting Ready What Should Holders Do"
+  tags: ["education", "hard forks", "development"]  
+-
   date: 2020-05-28
   link: https://medium.com/etc-core/update-your-etc-nodes-in-the-next-72-hours-ce42ac87b637
   author: Stevan Lohja
   source: Ethereum Classic Core
   title: "Update your ETC nodes within the next 72 hours"
   tags: ["announcement", "development", "hardfork", "mining"]
+-
+  date: 2020-05-25
+  link: https://thecurrencyanalytics.com/15194/ethereum-classic-etc-phoenix-is-getting-ready-what-should-holders-do/
+  author: Steven Anderson
+  source: The Currency Analytics
+  title: "Ethereum Classic (ETC) Financial Independence Calculator on the DApps Ecosystem"
+  tags: ["education", "announcements"] 
 -
   date: 2020-05-22
   link: https://etccooperative.org/posts/2020-05-22-etc-cooperative-april-2020-report
@@ -55,12 +104,26 @@
   title: "Migrating from Parity to Core-Geth"
   tags: ["announcement", "development", "hardfork", "mining"]
 -
+  date: 2020-05-29
+  link: https://thecurrencyanalytics.com/14859/ethereum-classic-etc-to-show-1000x-rise-logic-explained-by-donald-mcintyre/
+  author: Steven Anderson
+  source: The Currency Analytics
+  title: "Ethereum Classic (ETC) To Show 1000x Rise Logic Explained By Donald McIntyre"
+  tags: ["education", "hard forks", "development"] 
+-
   date: 2020-05-20
   link: https://etccooperative.org/posts/2020-05-20-phoenix-hardfork
   author: ETC Coop
   source: Ethereum Classic Cooperative
   title: "ETC Phoenix client upgrade instructions"
   tags: ["announcement", "development", "hardfork", "mining"]
+-
+  date: 2020-05-17
+  link: https://thecurrencyanalytics.com/14732/ethereum-classic-etc-phoenix-hard-fork-set-june-2020/
+  author: Maheen Hernandez
+  source: The Currency Analytics
+  title: "Ethereum Classic (ETC) Phoenix Hard Fork Set June 2020"
+  tags: ["education", "hard forks", "development"]
 -
   date: 2020-05-13
   link: https://youtu.be/l1FpoyYcuac
@@ -125,12 +188,26 @@
   title: "Ethereum Classic Labs Presents 5 Bounties as Part of Gitcoin’s Virtual Hackathon for New York Blockchain Week"
   tags: ["announcement", "development", "application", "teams"]
 -
+  date: 2020-05-06
+  link: https://thecurrencyanalytics.com/14323/ethereum-classic-etc-is-programmable-gold-with-more-accounts-than-ltc-btc-ada-dash-zcash-and-tezos/
+  author: Steven Anderson
+  source: The Currency Analytics
+  title: "Ethereum Classic (ETC) Is Programmable Gold with more accounts than LTC BTC ADA Dash ZCash and Tezos"
+  tags: ["education", "announcements", "development"]  
+-
   date: 2020-05-04
   link: https://thebitcoinnews.com/remitano-officially-lists-5-new-invest-altcoins/
   author: Remitano
   source: The Bitcoin News
   title: "Remitano Officially Lists 5 New Invest Altcoins"
   tags: ["announcement", "application"]
+-
+  date: 2020-05-03
+  link: https://thecurrencyanalytics.com/14172/ethereum-classic-etc-phoenix-hard-fork-saturn-protocol-and-the-etc-people-page/
+  author: Maheen Hernandez
+  source: The Currency Analytics
+  title: "Ethereum Classic (ETC) Phoenix Hard Fork Saturn Protocol and the ETC People Page"
+  tags: ["education", "announcements", "hard forks", "development"]  
 -
   date: 2020-05-02
   link: https://en.ethereumworldnews.com/ethereum-classic-etc-is-looking-for-stablecoin-projects-to-support/
@@ -285,6 +362,13 @@
   source: Etherplan
   title: "The Bitcoin Security Model Explained"
   tags: ["education"]
+-
+  date: 2020-04-02
+  link: https://thecurrencyanalytics.com/13084/ethereum-classic-etc-lead-alerts-on-money-printing-will-people-bother-to-escape-from-fiat-to-cryptocurrency/
+  author: Steven Anderson
+  source: The Currency Analytics
+  title: "Ethereum Classic (ETC) Lead Alerts on Money Printing Will People Bother To Escape From Fiat to Cryptocurrency"
+  tags: ["education", "applications", "teams"]  
 -
   date: 2020-03-31
   link: https://www.financemagnates.com/cryptocurrency/exchange/bitstamp-explores-support-for-seven-more-cryptocurrencies/
