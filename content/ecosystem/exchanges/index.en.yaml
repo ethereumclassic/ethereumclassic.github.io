@@ -550,6 +550,10 @@ content:
       link: https://swapzone.io/?to=btc&from=etc
       name: Swapzone
     -
+      key: SwapSwop
+      link: https://swapswop.io/
+      name: SwapSwop
+    -
       key: Switchain
       link: https://www.switchain.com
       name: Switchain
