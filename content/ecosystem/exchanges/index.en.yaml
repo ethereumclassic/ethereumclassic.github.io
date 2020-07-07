@@ -546,6 +546,10 @@ content:
       name: SwapSpace
       link: https://swapspace.co/?from=etc&to=btc&amount=1
     -
+      key: SwapSwop
+      link: https://swapswop.io/
+      name: SwapSwop
+    -
       key: Swapzone
       link: https://swapzone.io/?to=btc&from=etc
       name: Swapzone
