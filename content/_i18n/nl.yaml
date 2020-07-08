@@ -5,7 +5,7 @@ blog/index/title: |-
 
 # Latest Ethereum Classic news articles and announcements
 blog/index/description: |-
-  Laatste Ethereum Classic nieuwsartikelen en aankondigingen
+  Laatste Ethereum Classic nieuwsartikels en aankondigingen
 
 # Submit Article
 blog/index/submit: |-
@@ -13,11 +13,11 @@ blog/index/submit: |-
 
 # English Articles
 blog/index/englishItems: |-
-  Engelse artikelen
+  Engelstalige artikelen
 
 # Articles on a range of topics contributed by various ETC participants
 blog/index/intro: |-
-  Artikelen over een reeks onderwerpen bijgedragen door verschillende ETC-deelnemers
+  Artikels over een reeks onderwerpen bijgedragen door verschillende ETC-deelnemers
 
 # Blog RSS Feed
 blog/index/rss__text: |-
