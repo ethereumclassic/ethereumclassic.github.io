@@ -51,7 +51,7 @@ development/clients/clients/items__Core-Geth__description: |-
 development/clients/clients/items__Hyperledger Besu__name: |-
   하이퍼 레저 베수
 
-# Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. For Phoenix upgrade support, please use version v1.4.1 or later. Upgrade considerations, APIs between ParityEthereum and Besu significantly differ. Mining is not very well supported in Besu. This client is supported by the ChainSafe, ETC Cooperative, and PegaSys teams as part of the Hyperledger project with funding from Grayscale's Ethereum Classic Trust.
+# Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. For Phoenix upgrade support, please use version 1.4.6-RC2 or later. Upgrade considerations, APIs between ParityEthereum and Besu significantly differ. Mining is not very well supported in Besu. This client is supported by the ChainSafe and ETC Cooperative teams as part of the Hyperledger project with funding from Grayscale's Ethereum Classic Trust.
 development/clients/clients/items__Hyperledger Besu__description: |-
   Hyperledger Besu는 퍼블릭 및 프라이빗 허가 네트워크 사용 사례 모두에 대해 엔터프라이즈 친화적으로 설계된 이더 리움 클라이언트입니다. Phoenix 업그레이드 지원을 위해서는 버전 v1.4.1 이상을 사용하십시오. 업그레이드 고려 사항, ParityEthereum과 Besu 간의 API는 크게 다릅니다. Besu에서는 마이닝이 잘 지원되지 않습니다. 이 고객은 Hyperscaler 프로젝트의 일환으로 ChainSafe, ETC Cooperative 및 PegaSys 팀이 그레이 스케일의 Ethereum Classic Trust의 자금을 지원합니다.
 
@@ -59,7 +59,7 @@ development/clients/clients/items__Hyperledger Besu__description: |-
 development/clients/clients/items__Multi-Geth__name: |-
   멀티-게스
 
-# A swiss army knife distribution of go-ethereum, with support for many species of Ethereum networks. For Phoenix upgrade support, please use version v1.9.14 or later. Upgrade considerations, a majority of the Multi-Geth maintainers forked to the Core-Geth client. This client is community maintained and supported by the CorePaper and Gödel Labs teams.
+# A swiss army knife distribution of go-ethereum, with support for many species of Ethereum networks. For Phoenix upgrade support, please use version v1.9.14 or later. Upgrade considerations, a majority of the Multi-Geth maintainers forked to the Core-Geth client. This client is community maintained and supported by the Core Paper and Gödel Labs teams.
 development/clients/clients/items__Multi-Geth__description: |-
   많은 종류의 이더 리움 네트워크를 지원하는 go-ethereum의 스위스 군용 칼 배포판. Phoenix 업그레이드 지원을 위해서는 버전 v1.9.14 이상을 사용하십시오. 업그레이드 고려 사항, 대부분의 Multi-Geth 관리자는 Core-Geth 고객에게 분기했습니다. 이 고객은 CorePaper 및 Gödel Labs 팀에서 커뮤니티를 유지 관리하고 지원합니다.
 
@@ -67,7 +67,7 @@ development/clients/clients/items__Multi-Geth__description: |-
 development/clients/clients/items__OpenEthereum__name: |-
   이더 리움 열기
 
-# Fast and feature-rich multi-network Ethereum client. For Phoenix upgrade support, please use version v3.0.0 or later. Upgrade considerations, ParityEthereum is no longer being maintained by Parity Technologies and was handed over to Gnosis as the OpenEthereum project. This client is supported by the Gnosis team with funding from the Ethereum Foundation.
+# Fast and feature-rich multi-network Ethereum client. For Phoenix upgrade support, please use version v3.0.1 or later. Upgrade considerations, ParityEthereum is no longer being maintained by Parity Technologies and was handed over to Gnosis as the OpenEthereum project. This client is supported by the Gnosis team with funding from the Ethereum Foundation.
 development/clients/clients/items__OpenEthereum__description: |-
   빠르고 기능이 풍부한 다중 네트워크 이더 리움 클라이언트. Phoenix 업그레이드 지원을 위해서는 버전 v3.0.0 이상을 사용하십시오. 업그레이드 고려 사항, ParityEthereum은 더 이상 Parity Technologies에서 유지 관리하지 않으며 OpenEthereum 프로젝트로 Gnosis에 넘겨졌습니다. 이 고객은 이더 리움 재단의 자금으로 Gnosis 팀의 지원을받습니다.
 
@@ -79,7 +79,7 @@ development/clients/index/title: |-
 development/clients/index/description: |-
   다양한 Ethereum Classic 클라이언트 및 배포 도구에 대한 링크 다운로드
 
-# Clients are used to sync with the Ethereum Classic network and verify blocks. Most users won't need to run a full node, but they allow those who do to trustlessly interact with the network. Ethereum Classic is scheduled for a network update in June, 2020. Here are detailed Ethereum Classic client [upgrade instructions](https://etccooperative.org/posts/2020-05-20-phoenix-hardfork).
+# Clients are used to sync with the Ethereum Classic network and verify blocks. Most users won't need to run a full node, but they allow those who do to trustlessly interact with the network. Ethereum Classic completed a network upgrade on June 1, 2020. Please update your node if you have not done so already. [Client Update Instructions](https://etccooperative.org/posts/2020-05-20-phoenix-hardfork).
 development/clients/index/intro: |-
   클라이언트는 Ethereum Classic 네트워크와 동기화하고 블록을 확인하는 데 사용됩니다. 대부분의 사용자는 전체 노드를 실행할 필요는 없지만 네트워크를 신뢰할 수있는 사용자와 상호 작용할 수 있습니다. Ethereum Classic은 2020 년 6 월에 네트워크 업데이트가 예정되어 있습니다. 자세한 Ethereum Classic 클라이언트 [업그레이드 지침](https://etccooperative.org/posts/2020-05-20-phoenix-hardfork).
 
@@ -91,9 +91,9 @@ development/clients/index/content__Public Endpoints__title: |-
 development/clients/index/content__Public Endpoints__description: |-
   이러한 서비스를 사용하여 JSON-RPC를 통해 ETC에 연결할 수 있습니다.
 
-# BlockScout
-development/clients/index/content__Public Endpoints__items__BlockScout__name: |-
-  블록 스카우트
+# BlockScout API
+development/clients/index/content__Public Endpoints__items__BlockScout API__name: |-
+  BlockScout API
 
 # Ethercluster
 development/clients/index/content__Public Endpoints__items__Ethercluster__name: |-
@@ -106,6 +106,10 @@ development/clients/index/content__Public Endpoints__items__Ethercluster (Kotti)
 # Ethercluster (Mordor)
 development/clients/index/content__Public Endpoints__items__Ethercluster (Mordor)__name: |-
   이더 클러스터 (Mordor)
+
+# TokenView API
+development/clients/index/content__Public Endpoints__items__TokenView API__name: |-
+  TokenView API
 
 # Node Tools
 development/clients/index/content__Node Tools__title: |-
@@ -146,6 +150,14 @@ development/clients/index/content__Node Tools__items__Google BigQuery__name: |-
 # Google Cloud released datasets consisting of the blockchain transaction history for Ethereum Classic, to help you better understand cryptocurrency. Also included a set of queries and views that map all blockchain datasets to a double-entry book data structure that enables multi-chain meta-analyses, as well as integration with conventional financial record processing systems.
 development/clients/index/content__Node Tools__items__Google BigQuery__description: |-
   Google Cloud는 이더 리움 클래식의 블록 체인 거래 내역으로 구성된 데이터 세트를 출시하여 암호 화폐를 더 잘 이해하도록 도와줍니다. 또한 모든 블록 체인 데이터 세트를 다중 체인 메타 분석이 가능하고 기존 재무 기록 처리 시스템과의 통합을 가능하게하는 이중 입력 책 데이터 구조에 매핑하는 쿼리 및 뷰 세트도 포함되었습니다.
+
+# Raspberry Pi Node
+development/clients/index/content__Node Tools__items__Raspberry Pi Node__name: |-
+  라즈베리 파이 노드
+
+# A detailed guide for how to setup an Ethereum Classic node on a Raspberry Pi.
+development/clients/index/content__Node Tools__items__Raspberry Pi Node__description: |-
+  Raspberry Pi에서 Ethereum Classic 노드를 설정하는 방법에 대한 자세한 안내서입니다.
 
 # QuikNode
 development/clients/index/content__Node Tools__items__QuikNode__name: |-
@@ -255,7 +267,7 @@ development/developer-tools/index/content__processors__items__Utrust__name: |-
 development/developer-tools/index/content__tooling__title: |-
   개발 툴링
 
-# A non-exhaustive selection of tools  that can aid development of Ethereum Classic applications.
+# A non-exhaustive selection of tools that can aid development of Ethereum Classic applications.
 development/developer-tools/index/content__tooling__description: |-
   Ethereum Classic 응용 프로그램 개발을 지원할 수있는 포괄적 인 도구 선택.
 
@@ -446,6 +458,14 @@ development/guides/index/content__tutorials__items__Signatory Client__name: |-
 # Video Demo describes Signatory Client - a Do It Yourself hardware wallet that can be installed on a single-board computer, like Raspberry PI.
 development/guides/index/content__tutorials__items__Signatory Client__description: |-
   비디오 데모는 Raspberry PI와 같은 단일 보드 컴퓨터에 설치할 수있는 Signatory Client-스스로 할 수있는 하드웨어 지갑입니다.
+
+# Raspberry Pi Node Setup Guide
+development/guides/index/content__tutorials__items__Raspberry Pi Node Setup Guide__name: |-
+  라즈베리 파이 노드 설정 가이드
+
+# A detailed guide on how to setup an Ethereum node on a Raspberry Pi
+development/guides/index/content__tutorials__items__Raspberry Pi Node Setup Guide__description: |-
+  Raspberry Pi에서 Ethereum 노드를 설정하는 방법에 대한 자세한 안내서
 
 # CryptoZombies
 development/guides/index/content__tutorials__items__CryptoZombies__name: |-
@@ -951,6 +971,10 @@ development/mining-resources/pools/HashCity__name: |-
 development/mining-resources/pools/Hellominer__name: |-
   헬로 마이너
 
+# Hiveon
+development/mining-resources/pools/Hiveon__name: |-
+  하이브 온
+
 # HuobiPool
 development/mining-resources/pools/HuobiPool__name: |-
   후 오비 풀
@@ -1018,6 +1042,10 @@ development/mining-resources/pools/NLpool__name: |-
 # Okex
 development/mining-resources/pools/Okex__name: |-
   Okex
+
+# Pool-Node
+development/mining-resources/pools/Pool-Node__name: |-
+  풀 노드
 
 # Prohashing
 development/mining-resources/pools/Prohashing__name: |-
@@ -1531,25 +1559,105 @@ development/porting/index/title: |-
 development/porting/index/description: |-
   현재 ETH 또는 다른 체인에서 dApp을 실행중인 개발자가 ETC에 배포하는 데 유용한 도구입니다.
 
-# There are a few Ethereum Classic specific tools that are useful to know about if you are porting your ETH application over. All Web3.js frontend code is compatible with ETC as long as the provider RPC node being pointed to is an ETC instance. No changes to Solidity (.sol) code is necessary, ETH contracts run out of the box on ETC.
+# There are a few Ethereum Classic specific tools that are useful to know about if you are porting your ETH application over. All Web3.js frontend code is compatible with ETC as long as the provider RPC node being pointed to is an ETC instance. No changes to Solidity (.sol) code is necessary, ETH contracts run out of the box on ETC! Development tools like Remix and Truffle also work natively.
 development/porting/index/intro: |-
   ETH 응용 프로그램을 이식 할 경우 알아야 할 몇 가지 Ethereum Classic 관련 도구가 있습니다. 제공하는 제공자 RPC 노드가 ETC 인스턴스 인 한 모든 Web3.js 프론트 엔드 코드는 ETC와 호환됩니다. Solidity (.sol) 코드를 변경할 필요가 없으며 ETH 계약은 ETC에서 즉시 실행됩니다.
 
-# Nifty Wallet (similar to Metamask)
+# BUIDL IDE
+development/porting/index/content__links__items__BUIDL IDE__name: |-
+  빌드 IDE
+
+# Second State BUIDL IDE is a web-based IDE that requires no software download or install. It provides a one-stop development and deployment environment for smart contract and dapp developers.
+development/porting/index/content__links__items__BUIDL IDE__description: |-
+  Second State BUIDL IDE는 소프트웨어를 다운로드하거나 설치할 필요가없는 웹 기반 IDE입니다. 스마트 계약 및 Dapp 개발자를위한 원 스톱 개발 및 배포 환경을 제공합니다.
+
+# Commonwealth.gg
+development/porting/index/content__links__items__Commonwealth.gg__name: |-
+  Commonwealth.gg
+
+# An open source Hourglass contract similar to original P3D built on Ethereum Classic. Can be leveraged with applications that incentivize user participation via dividends.
+development/porting/index/content__links__items__Commonwealth.gg__description: |-
+  Ethereum Classic에 구축 된 원본 P3D와 유사한 오픈 소스 모래 시계 계약. 사용자 참여를 장려하는 응용 프로그램을 활용할 수 있습니다.
+
+# DappDirect.net
+development/porting/index/content__links__items__DappDirect.net__name: |-
+  DappDirect.net (DappRadar와 유사)
+
+# A dApp aggregator that is free to submit to and allows users/developers to discover and track key metrics of mainnet Ethereu Classic dApps.
+development/porting/index/content__links__items__DappDirect.net__description: |-
+  자유롭게 제출할 수 있고 사용자/개발자는 메인 넷 ETC dApp의 주요 메트릭을 발견하고 추적 할 수있는 dApp 수집기입니다.
+
+# Ethercluster
+development/porting/index/content__links__items__Ethercluster__name: |-
+  이더 클러스터
+
+# A freely available Ethereum Classic node endpoint. Ethercluster is an open-source alternative to Infura. Accessible as a Web3 RPC provider at `https://www.ethercluster.com/etc`
+development/porting/index/content__links__items__Ethercluster__description: |-
+  무료로 사용 가능한 Ethereum Classic 노드 엔드 포인트. Ethercluster는 Infura의 오픈 소스 대안입니다. `https ://www.ethercluster.com/etc`에서 Web3 RPC 공급자로 액세스 가능
+
+# EVM-LLVM
+development/porting/index/content__links__items__EVM-LLVM__name: |-
+  EVM-LLVM
+
+# Not only can developers use a large scope of programming languages (Rust for smart contracts!) other than Solidity to target the Ethereum Virtual Machine (EVM), they can also immediately benefit from various development tools built around LLVM infrastructure.
+development/porting/index/content__links__items__EVM-LLVM__description: |-
+  개발자는 Ethereum Virtual Machine (EVM)을 대상으로 Solidity 이외의 광범위한 프로그래밍 언어 (스마트 컨트랙트 용)를 사용할 수있을뿐만 아니라 LLVM 인프라를 기반으로 구축 된 다양한 개발 도구를 즉시 활용할 수 있습니다.
+
+# Jade Suite
+development/porting/index/content__links__items__Jade Suite__name: |-
+  제이드 스위트
+
+# The Jade suite of tools empowers developers to create peer-to-peer decentralized applications on top of EVM-based blockchains like Ethereum Classic.
+development/porting/index/content__links__items__Jade Suite__description: |-
+  Jade 도구 모음을 사용하면 개발자가 Ethereum Classic과 같은 EVM 기반 블록 체인에서 P2P 분산 응용 프로그램을 만들 수 있습니다.
+
+# Nifty Wallet
 development/porting/index/content__links__items__Nifty Wallet__name: |-
   멋진 지갑 (메타 마스크와 유사)
 
-# An open source fork of Metamask that allows usage of the ETC Network. Make sure Metamask is disabled in Chrome when Nifty is in use. Can be used along with Remix IDE to quickly deploy contracts to ETC.
+# An open-source web3 wallet that allows usage of the Ethereum classic network. Make sure Metamask is disabled in Chrome when Nifty is in use. Nifty is compatible with most Ethereum IDEs.
 development/porting/index/content__links__items__Nifty Wallet__description: |-
   ETC 네트워크의 사용을 허용하는 메타 마스크의 오픈 소스 포크. Nifty를 사용중인 경우 Chrome에서 메타 마스크를 사용 중지해야합니다. Remix IDE와 함께 사용하여 계약을 ETC에 신속하게 배포 할 수 있습니다.
+
+# Metamask
+development/porting/index/content__links__items__Metamask__name: |-
+  메타 마스크
+
+# The most popular web3 wallet. It is possible to configure Metamask for the Ethereum Classic network with the "Custom Network" fields set to **Custom URL** set to`https://www.ethercluster.com/etc` and **Chain ID** set to`61`.
+development/porting/index/content__links__items__Metamask__description: |-
+  가장 인기있는 web3 지갑. "사용자 정의 네트워크"필드가 ** 사용자 정의 URL **을`https ://www.ethercluster.com/etc`로 설정하고 ** 체인 ID **를 다음과 같이 설정하여 Ethereum Classic 네트워크에 대한 메타 마스크를 구성 할 수 있습니다. `61`.
+
+# Remix IDE
+development/porting/index/content__links__items__Remix IDE__name: |-
+  리믹스 IDE
+
+# Remix IDE is a development environment for deploying smart contracts to ETC and ETH. It includes a Solidity compiler, debugger, and smart contract deployer. Use with an active browser wallet to deploy your contracts to ETC mainnet.
+development/porting/index/content__links__items__Remix IDE__description: |-
+  Remix IDE는 스마트 계약을 ETC 및 ETH에 배포하기위한 개발 환경입니다. Solidity 컴파일러, 디버거 및 스마트 계약 배포자가 포함되어 있습니다. 활성 브라우저 지갑과 함께 사용하여 계약을 ETC 메인 넷에 배포하십시오.
+
+# Saturn.network
+development/porting/index/content__links__items__Saturn.network__name: |-
+  Saturn.network (Forkdelta와 유사)
+
+# A decentralized exchange (DEX), useful for listing ERC20 or ERC223 tokens for sale on the Ethereum Classic network.
+development/porting/index/content__links__items__Saturn.network__description: |-
+  ETC 네트워크에서 판매 할 ERC20 또는 ERC223 토큰을 나열하는 데 유용한 완전 분산 형 토큰 교환 (DEX).
 
 # Saturn Wallet (similar to Metamask)
 development/porting/index/content__links__items__Saturn Wallet__name: |-
   토성 지갑 (메타 마스크와 유사)
 
-# Similar to Nifty Wallet, but closed source. Works on Chrome and Firefox. Make sure Metamask is disabled when Saturn Wallet is in use.
+# A closed-source web3 wallet. Works on Chrome and Firefox. Make sure other web3 wallets like Nifty or MetMask are disabled when Saturn Wallet is in use.
 development/porting/index/content__links__items__Saturn Wallet__description: |-
   Nifty Wallet과 유사하지만 비공개 소스입니다. Chrome 및 Firefox에서 작동합니다. Saturn Wallet을 사용할 때 메타 마스크가 비활성화되어 있는지 확인하십시오.
+
+# SOLL
+development/porting/index/content__links__items__SOLL__name: |-
+  매수
+
+# The LLVM compiler is finally coming to Solidity. With it, we can easily create smart contracts across multiple blockchain VMs. The EVM on Ethereum Classic and ETH 2.0's eWASM are among the first we support.
+development/porting/index/content__links__items__SOLL__description: |-
+  LLVM 컴파일러는 마침내 Solidity에 왔습니다. 이를 통해 여러 블록 체인 VM에서 스마트 계약을 쉽게 만들 수 있습니다. Ethereum Classic의 EVM과 ETH 2.0의 eWASM은 우리가 지원하는 첫 번째 제품 중 하나입니다.
 
 # Trust Wallet (Mobile dApp Browser)
 development/porting/index/content__links__items__Trust Wallet__name: |-
@@ -1558,38 +1666,6 @@ development/porting/index/content__links__items__Trust Wallet__name: |-
 # An open source, multi-currency, Web3 mobile wallet. Has been tested and confirmed to work properly with ETC dApps.
 development/porting/index/content__links__items__Trust Wallet__description: |-
   오픈 소스, 다중 통화, Web3 모바일 지갑. 테스트를 거쳐 ETC dApp과 제대로 작동하는 것으로 확인되었습니다.
-
-# Ether Cluster (similar to Infura)
-development/porting/index/content__links__items__Ether Cluster__name: |-
-  에테르 클러스터 (Infura와 유사)
-
-# A freely available ETC Node endpoint. Accessible as a Web3 RPC provider at `https://www.ethercluster.com/etc`
-development/porting/index/content__links__items__Ether Cluster__description: |-
-  자유롭게 사용 가능한 ETC 노드 엔드 포인트. `https ://www.ethercluster.com/etc`에서 Web3 RPC 공급자로 액세스 가능
-
-# DappDirect.net (similar to DappRadar)
-development/porting/index/content__links__items__DappDirect.net__name: |-
-  DappDirect.net (DappRadar와 유사)
-
-# A dApp aggregator that is free to submit to and allows users/develoeprs to discover and track key metrics of mainnet ETC dApps.
-development/porting/index/content__links__items__DappDirect.net__description: |-
-  자유롭게 제출할 수 있고 사용자/개발자는 메인 넷 ETC dApp의 주요 메트릭을 발견하고 추적 할 수있는 dApp 수집기입니다.
-
-# Saturn.network (similar to Forkdelta)
-development/porting/index/content__links__items__Saturn.network__name: |-
-  Saturn.network (Forkdelta와 유사)
-
-# A completely decentralized token exchange (DEX), useful for listing ERC20 or ERC223 tokens for sale on the ETC network.
-development/porting/index/content__links__items__Saturn.network__description: |-
-  ETC 네트워크에서 판매 할 ERC20 또는 ERC223 토큰을 나열하는 데 유용한 완전 분산 형 토큰 교환 (DEX).
-
-# Commonwealth.gg
-development/porting/index/content__links__items__Commonwealth.gg__name: |-
-  Commonwealth.gg
-
-# An open source Hourglass contract similar to original P3D built on Ethereum Classic. Can be leveraged with applications that incentivize user participation.
-development/porting/index/content__links__items__Commonwealth.gg__description: |-
-  Ethereum Classic에 구축 된 원본 P3D와 유사한 오픈 소스 모래 시계 계약. 사용자 참여를 장려하는 응용 프로그램을 활용할 수 있습니다.
 
 # Development
 development/section.global/title: |-
@@ -1794,6 +1870,14 @@ ecosystem/apps-and-protocols/apps/items__Token Bridge__name: |-
 # The TokenBridge allows users to transfer data (e.g. digital asset ownership information) between two chains in the Ethereum ecosystem. Cross-chain bridges provide fast and secure connections between blockchains, creating scalability and connection - interoperability - between Ethereum EVM networks.
 ecosystem/apps-and-protocols/apps/items__Token Bridge__text: |-
   TokenBridge를 통해 사용자는 이더 리움 에코 시스템의 두 체인간에 데이터 (예 : 디지털 자산 소유권 정보)를 전송할 수 있습니다. 크로스 체인 브리지는 블록 체인간에 빠르고 안전한 연결을 제공하여 Ethereum EVM 네트워크간에 확장 성과 연결 (상호 운용성)을 제공합니다.
+
+# Celsius Network
+ecosystem/apps-and-protocols/apps/items__Celsius Network__name: |-
+  섭씨 네트워크
+
+# Celsius Network, the industry-leading cryptocurrency interest-earning platform, allows ETC holders to deposit their digital assets into the Celsius wallet and earn interests.
+ecosystem/apps-and-protocols/apps/items__Celsius Network__text: |-
+  업계 최고의 암호 화폐이자 수익 플랫폼 인 Celsius Network를 통해 ETC 보유자는 디지털 자산을 Celsius 지갑에 입금하고이자를 얻을 수 있습니다.
 
 # Commonwealth
 ecosystem/apps-and-protocols/apps/items__Commonwealth__name: |-
@@ -2363,6 +2447,10 @@ ecosystem/exchanges/index/content__instant__items__ALFACashier__name: |-
 ecosystem/exchanges/index/content__instant__items__AtomicWallet__name: |-
   원자 월렛
 
+# Bitni
+ecosystem/exchanges/index/content__instant__items__Bitni__name: |-
+  비니
+
 # BitTorro
 ecosystem/exchanges/index/content__instant__items__BitTorro__name: |-
   비트 토로
@@ -2434,6 +2522,10 @@ ecosystem/exchanges/index/content__instant__items__StealthEx__name: |-
 # SwapSpace
 ecosystem/exchanges/index/content__instant__items__SwapSpace__name: |-
   스왑 스페이스
+
+# SwapSwop
+ecosystem/exchanges/index/content__instant__items__SwapSwop__name: |-
+  스왑 스왑
 
 # Swapzone
 ecosystem/exchanges/index/content__instant__items__Swapzone__name: |-
@@ -3047,10 +3139,6 @@ ecosystem/teams/index/content__table__items__Core Paper__name: |-
 ecosystem/teams/index/content__table__items__Second State__name: |-
   두 번째 상태
 
-# PegaSys
-ecosystem/teams/index/content__table__items__PegaSys__name: |-
-  페가시스
-
 # Gödel Labs 哥德尔实验室
 ecosystem/teams/index/content__table__items__Gödel Labs__name: |-
   괴델 연구소 哥德尔 实验室
@@ -3266,6 +3354,10 @@ ecosystem/wallets/index/content__software__items__Midas Protocol__name: |-
 # Ownbit
 ecosystem/wallets/index/content__software__items__Ownbit__name: |-
   자신의 비트
+
+# Tokenview
+ecosystem/wallets/index/content__software__items__Tokenview__name: |-
+  토큰 뷰
 
 # Trust Wallet
 ecosystem/wallets/index/content__software__items__Trust Wallet__name: |-
@@ -3709,353 +3801,177 @@ knowledge/roadmap/roadmap/title: |-
 knowledge/roadmap/roadmap/description: |-
   [ETC Core 2020 Roadmap](https://medium.com/etc-core/etc-core-2020-roadmap-announcement-c2166cdbc53d)의 주요 내용을 포함하여 2020 년 동안 중요한 프로토콜 개발 이정표에 대한 개요.
 
-# Q1
-knowledge/roadmap/roadmap/items__parityRoughConsensus__dateString: |-
-  Q1
-
 # Ethereum Classic core developers maintain rough consensus for the collaborative effort of achieving operational parity with sister chain Ethereum (ETH).
 knowledge/roadmap/roadmap/items__parityRoughConsensus__text: |-
   Ethereum Classic 핵심 개발자는 자매 체인 Ethereum (ETH)과 운영 패리티를 달성하려는 공동 노력에 대해 대략적인 합의를 유지합니다.
-
-# January 10
-knowledge/roadmap/roadmap/items__vyperlang-ETC__dateString: |-
-  1 월 10 일
 
 # The ETC Cooperative to help contribute to the codebase of Vyper in collaboration with Ben Hauser who implemented the changes necessary into Vyper in order to allow us to target multiple versions of the EVM in order to have it working with ETC.
 knowledge/roadmap/roadmap/items__vyperlang-ETC__text: |-
   ETC Cooperative는 Vyper에 필요한 변경 사항을 구현 한 Ben Hauser와 공동으로 Vyper의 코드베이스에 기여하여 ETC와 함께 작동하도록 여러 버전의 EVM을 대상으로 할 수 있도록 도와줍니다.
 
-# January 11
-knowledge/roadmap/roadmap/items__agharta-Mainnet__dateString: |-
-  1 월 11 일
-
 # Ethereum Classic core developers implement ETH's Constaninople and Petersburg network protocol upgrades to maintain operational parity with its sister chain.
 knowledge/roadmap/roadmap/items__agharta-Mainnet__text: |-
   Ethereum Classic 핵심 개발자는 자매 체인과 운영 패리티를 유지하기 위해 ETH의 Constaninople 및 Petersburg 네트워크 프로토콜 업그레이드를 구현합니다.
-
-# January 31
-knowledge/roadmap/roadmap/items__evm-llvm-Alpha__dateString: |-
-  1 월 31 일
 
 # Second State, Vyperlang, and other teams are implementing or experimenting in bringing LLVM infrastructure to the EthereumStack. This is an alpha version of the EVM LLVM. It includes the complete, working LLVM backend pipeline for generating EVM binaries. Optimizations are limited. https://github.com/etclabscore/evm_llvm/releases/tag/v0.5_alpha
 knowledge/roadmap/roadmap/items__evm-llvm-Alpha__text: |-
   Second State, Vyperlang 및 기타 팀은 LLVM 인프라를 EthereumStack에 구현하는 것을 구현하거나 실험하고 있습니다. 이것은 EVM LLVM의 알파 버전입니다. 여기에는 EVM 바이너리 생성을위한 완벽하게 작동하는 LLVM 백엔드 파이프 라인이 포함됩니다. 최적화가 제한됩니다. https://github.com/etclabscore/evm_llvm/releases/tag/v0.5_alpha
 
-# February 4
-knowledge/roadmap/roadmap/items__coreGeth-Launch__dateString: |-
-  2 월 4 일
-
 # CoreGeth: An Ethereum Protocol Provider. Priority is given to reducing opinions around chain configuration, IP-based feature implementations, and API predictability. Upstream development from ethereum/go-ethereum is merged to this repository regularly, usually at every upstream tagged release. Every effort is made to maintain seamless compatibility with upstream source, including compatible RPC, JS, and CLI APIs, data storage locations and schemas, and, of course, interoperable node protocols. Applicable bug reports, bug fixes, features, and proposals should be made upstream whenever possible.
 knowledge/roadmap/roadmap/items__coreGeth-Launch__text: |-
   CoreGeth : 이더 리움 프로토콜 제공 업체. 체인 구성, IP 기반 기능 구현 및 API 예측 가능성에 대한 의견을 줄이는 것이 우선 순위입니다. ethereum/go-ethereum의 업스트림 개발은 일반적으로 업스트림 태그가 지정된 모든 릴리스에서이 저장소로 정기적으로 병합됩니다. 호환 가능한 RPC, JS 및 CLI API, 데이터 저장 위치 및 스키마, 상호 운용 가능한 노드 프로토콜을 포함하여 업스트림 소스와의 완벽한 호환성을 유지하기 위해 모든 노력을 기울입니다. 해당 버그 보고서, 버그 수정, 기능 및 제안은 가능하면 업스트림에 작성해야합니다.
-
-# February 12
-knowledge/roadmap/roadmap/items__ecip-1050__dateString: |-
-  2 월 12 일
 
 # ECIP 1050: Status Codes moves to Final status. This standard outlines a common set of Status Codes in the same vein as HTTP statuses. This provides a shared set of signals to allow smart contracts to react to situations autonomously, expose localized error messages to users, and so on. https://ecips.ethereumclassic.org/ECIPs/ecip-1050
 knowledge/roadmap/roadmap/items__ecip-1050__text: |-
   ECIP 1050 : 상태 코드가 최종 상태로 이동합니다. 이 표준은 HTTP 상태와 동일한 맥락에서 일반적인 상태 코드 세트를 설명합니다. 이를 통해 스마트 컨트랙트가 상황에 자동으로 반응하고 현지화 된 오류 메시지를 사용자에게 노출시키는 등의 공유 신호 세트를 제공합니다. https://ecips.ethereumclassic.org/ECIPs/ecip-1050
 
-# February 20
-knowledge/roadmap/roadmap/items__aztlan-Testnets__dateString: |-
-  2 월 20 일
-
 # During Aztlán testnet implementations, Ethereum Classic core developers discover complications with ECIP 1061 and 1078 specs to add ETH's Istanbul network protocol upgrade. Meowbits of ETC Core documents the findings. As intended, the ETC testnets catch the issues and core developers go back to the drawing board.
 knowledge/roadmap/roadmap/items__aztlan-Testnets__text: |-
   Aztlán 테스트 넷 구현 과정에서 Ethereum Classic 핵심 개발자는 ECTH 1061 및 1078 사양과의 합병증을 발견하여 ETH의 이스탄불 네트워크 프로토콜 업그레이드를 추가했습니다. ETC Core의 Meowbits가 그 결과를 문서화합니다. 의도 한대로 ETC 테스트 넷은 문제를 포착하고 핵심 개발자는 드로잉 보드로 돌아갑니다.
-
-# February 26
-knowledge/roadmap/roadmap/items__phoenix-ReSpec__dateString: |-
-  2 월 26 일
 
 # Ethereum Classic core developers reach rough consensus on ECIP-1088 in an effort to implement ETH's Istanbul network protocol upgrade. Testnet implementations revealed issues with prior attempts in specs ECIP-1061 and ECIP-1078.
 knowledge/roadmap/roadmap/items__phoenix-ReSpec__text: |-
   Ethereum Classic 핵심 개발자는 ETH의 이스탄불 네트워크 프로토콜 업그레이드를 구현하기 위해 ECIP-1088에 대한 대략적인 합의에 도달했습니다. Testnet 구현에서는 ECIP-1061 및 ECIP-1078 사양의 이전 시도와 관련된 문제가 밝혀졌습니다.
 
-# March 4
-knowledge/roadmap/roadmap/items__coreGeth-Phoenix__dateString: |-
-  3 월 4 일
-
 # Core-Geth implements block activation values for ECIP1088, Ethereum Classic's planned Phoenix hard fork upgrade. Please upgrade to version v1.11.0 or later for Phoenix support for ETC. https://github.com/etclabscore/core-geth/releases
 knowledge/roadmap/roadmap/items__coreGeth-Phoenix__text: |-
   Core-Geth는 Ethereum Classic의 계획된 Phoenix 하드 포크 업그레이드 인 ECIP1088에 대한 블록 활성화 값을 구현합니다. ETC에 대한 Phoenix 지원을 위해 버전 v1.11.0 이상으로 업그레이드하십시오. https://github.com/etclabscore/core-geth/releases
-
-# March 9
-knowledge/roadmap/roadmap/items__phoenix-Mordor-testnet__dateString: |-
-  3 월 9 일
 
 # Phoenix testing begins on the Mordor PoW testnet on block 999,983. Core development teams have signaled that this is a complex implementation. Testing may uncover issues that delay this network upgrade, but Ethereum Classic will never rush to upgrade the mainnet. Network security is priority over development speed and arbitary timelines. https://expedition.dev/?network=mordor
 knowledge/roadmap/roadmap/items__phoenix-Mordor-testnet__text: |-
   피닉스 테스트는 블록 999,983의 Mordor PoW 테스트 넷에서 시작됩니다. 핵심 개발 팀은 이것이 복잡한 구현이라는 신호를 보냈습니다. 테스트를 통해이 네트워크 업그레이드를 지연시키는 문제가 발견 될 수 있지만 Ethereum Classic은 메인 넷 업그레이드를 서두르지 않습니다. 네트워크 보안은 개발 속도 및 임의의 타임 라인보다 우선합니다. https://expedition.dev/?network=mordor
 
-# March 12
-knowledge/roadmap/roadmap/items__besu-Phoenix__dateString: |-
-  3 월 12 일
-
 # Hyperledger Besu implemented ECIP-1088: Phoenix EVM and Protocol upgrades. Please upgrade to version v1.4.1 or later for Phoenix support for ETC. https://github.com/hyperledger/besu/releases
 knowledge/roadmap/roadmap/items__besu-Phoenix__text: |-
   Hyperledger Besu는 ECIP-1088 : Phoenix EVM 및 프로토콜 업그레이드를 구현했습니다. ETC에 대한 Phoenix 지원을 위해 버전 v1.4.1 이상으로 업그레이드하십시오. https://github.com/hyperledger/besu/releases
-
-# March 14
-knowledge/roadmap/roadmap/items__gitcoin-ETC__dateString: |-
-  3 월 14 일
 
 # Developer bounty platform Gitcoin has partnered with Ethereum Classic Labs to offer bounties in ETC.
 knowledge/roadmap/roadmap/items__gitcoin-ETC__text: |-
   개발자 바운티 플랫폼 Gitcoin은 Ethereum Classic Labs와 제휴하여 ETC에 바운티를 제공합니다.
 
-# March 17
-knowledge/roadmap/roadmap/items__5m20-Era3-Mainnet__dateString: |-
-  3 월 17 일
-
 # March 17 2020, Ethereum Classic's block rewards are reduced by 20% to 3.2 ETC per block per the bitcoin-inspired 5M20 emission schedule.
 knowledge/roadmap/roadmap/items__5m20-Era3-Mainnet__text: |-
   2020 년 3 월 17 일, 이더 리움 클래식의 블록 보상은 비트 코인에서 영감을 얻은 5M20 방출 스케줄에 따라 블록 당 3.2 ETC로 20 % 감소합니다.
-
-# March 20
-knowledge/roadmap/roadmap/items__phoenix-Kotti-recover__dateString: |-
-  3 월 20 일
 
 # The Kotti PoA testnet is successfully recovered after Aztlán implementations. The signers coordinate and regain consensus in anticipation for a successful Phoenix implementation. https://expedition.dev/?network=kotti
 knowledge/roadmap/roadmap/items__phoenix-Kotti-recover__text: |-
   Kotti PoA 테스트 넷은 Aztlán 구현 후 성공적으로 복구됩니다. 서명자는 성공적인 Phoenix 구현을 기대하면서 합의를 조정하고 다시 합의합니다. https://expedition.dev/?network=kotti
 
-# March 31
-knowledge/roadmap/roadmap/items__Website-2020-Content__dateString: |-
-  3 월 31 일
-
 # EthereumClassic.org website modernization project goes live with updated 2020 content. https://ethereumclassic.org/blog
 knowledge/roadmap/roadmap/items__Website-2020-Content__text: |-
   EthereumClassic.org 웹 사이트 현대화 프로젝트는 업데이트 된 2020 년 컨텐츠로 시작됩니다. https://ethereumclassic.org/blog
-
-# Q2
-knowledge/roadmap/roadmap/items__rss-Feeds__dateString: |-
-  2 분기
 
 # EthereumClassic.org website modernization project goes live with a goal of providing accurate ETC content and automated information dissemination lines to the greater cryptocurrency ecosystem. https://ethereumclassic.org/news
 knowledge/roadmap/roadmap/items__rss-Feeds__text: |-
   EthereumClassic.org 웹 사이트 현대화 프로젝트는 더 큰 cryptocurrency 생태계에 정확한 ETC 내용과 자동화 된 정보 보급 라인을 제공한다는 목표로 시작되었습니다. https://ethereumclassic.org/news
 
-# April 3
-knowledge/roadmap/roadmap/items__Website-2020-Phoenix__dateString: |-
-  4 월 3 일
-
 # EthereumClassic.org website modernization project goes live with the Phoenix theme. https://ethereumclassic.org
 knowledge/roadmap/roadmap/items__Website-2020-Phoenix__text: |-
   EthereumClassic.org 웹 사이트 현대화 프로젝트는 Phoenix 테마와 함께 진행됩니다. https://ethereumclassic.org
-
-# April 5
-knowledge/roadmap/roadmap/items__multigeth-Phoenix__dateString: |-
-  4 월 5 일
 
 # Multi-Geth implements support for the Phoenix hard fork on Ethereum Classic mainnet, at block 10,500,839, scheduled around the beginning of June, 2020. Please upgrade to version v1.9.14 or later for Phoenix support for ETC. https://github.com/multi-geth/multi-geth/releases
 knowledge/roadmap/roadmap/items__multigeth-Phoenix__text: |-
   Multi-Geth는 2020 년 6 월 초에 예정된 10,500,839 블록의 Ethereum Classic 메인 넷에서 Phoenix 하드 포크에 대한 지원을 구현합니다. ETC에 대한 Phoenix 지원을 위해 버전 v1.9.14 이상으로 업그레이드하십시오. https://github.com/multi-geth/multi-geth/releases
 
-# April 15
-knowledge/roadmap/roadmap/items__phoenix-Kotti-testnet__dateString: |-
-  4 월 15 일
-
 # Phoenix testing begins on the Kotti PoA testnet on block 2,200,013. Core development teams have signaled that this is a complex implementation. Testing may uncover issues that delay this network upgrade, but Ethereum Classic will never rush to upgrade the mainnet. Network security is priority over development speed and arbitary timelines. https://expedition.dev/?network=mordor
 knowledge/roadmap/roadmap/items__phoenix-Kotti-testnet__text: |-
   피닉스 테스트는 2,200,013 블록의 Kotti PoA 테스트 넷에서 시작됩니다. 핵심 개발 팀은 이것이 복잡한 구현이라는 신호를 보냈습니다. 테스트를 통해이 네트워크 업그레이드를 지연시키는 문제가 발견 될 수 있지만 Ethereum Classic은 메인 넷 업그레이드를 서두르지 않습니다. 네트워크 보안은 개발 속도 및 임의의 타임 라인보다 우선합니다. https://expedition.dev/?network=mordor
-
-# Q2
-knowledge/roadmap/roadmap/items__improve-Documentation__dateString: |-
-  2 분기
 
 # Improve ETC specific documentation and add to the website for end user consumption. https://ethereumclassic.org/development/guides
 knowledge/roadmap/roadmap/items__improve-Documentation__text: |-
   ETC 관련 문서를 개선하고 최종 사용자 소비를 위해 웹 사이트에 추가하십시오. https://ethereumclassic.org/development/guides
 
-# May
-knowledge/roadmap/roadmap/items__phoenix-awareness__dateString: |-
-  할 수있다
-
 # Core development teams have signaled that this upgrade has successfully passed testing analysis on the Mordor and Kotti testnets. Ethereum Classic will never rush to upgrade the mainnet. Network security is priority over development speed and arbitary timelines. The ETC miners, wallets, exchanges, payment processors begin updated their clients for the Phoenix Upgrade. https://medium.com/etc-core/top-miners-confirmed-to-support-phoenix-ethereum-classic-hard-fork-phoenix-status-update-bc8964424fd4
 knowledge/roadmap/roadmap/items__phoenix-awareness__text: |-
   핵심 개발 팀은이 업그레이드가 Mordor 및 Kotti 테스트 넷에 대한 테스트 분석을 성공적으로 통과했음을 시사했습니다. 이더 리움 클래식은 메인 넷 업그레이드를 서두르지 않을 것입니다. 네트워크 보안은 개발 속도 및 임의의 타임 라인보다 우선합니다. ETC 광부, 지갑, 거래소, 지불 프로세서가 피닉스 업그레이드를 위해 고객을 업데이트하기 시작합니다. https://medium.com/etc-core/top-miners-confirmed-to-support-phoenix-ethereum-classic-hard-fork-phoenix-status-update-bc8964424fd4
 
-# June 3
-knowledge/roadmap/roadmap/items__phoenix-mainnet__dateString: |-
-  6 월 3 일
-
-# Phoenix activates on Ethereum Classic mainnet on block 10,500,839. Core development teams have signaled that this upgrade has successfully passed testing analysis on the Mordor and Kotti testnets. https://blockscout.com/etc/mainnet
+# Phoenix activates on Ethereum Classic mainnet on block 10,500,839. Core development teams have signaled that this upgrade has successfully passed testing analysis on the Mordor and Kotti testnets. https://ethereumclassic.org/blog/2020-06-01-phoenix-hard-fork-upgrade/
 knowledge/roadmap/roadmap/items__phoenix-mainnet__text: |-
   Phoenix는 블록 10,500,839에서 Ethereum Classic 메인 넷에서 활성화됩니다. 핵심 개발 팀은이 업그레이드가 Mordor 및 Kotti 테스트 넷에 대한 테스트 분석을 성공적으로 통과했음을 시사했습니다. https://blockscout.com/etc/mainnet
-
-# Q2
-knowledge/roadmap/roadmap/items__website-internationalization__dateString: |-
-  2 분기
 
 # Reach out to the non-english ETC social channels to translate the English version of https://ethereumclassic.org/
 knowledge/roadmap/roadmap/items__website-internationalization__text: |-
   영어가 아닌 ETC 소셜 채널에 접속하여 영어 버전의 https://ethereumclassic.org/를 번역하십시오.
 
-# Q3
-"knowledge/roadmap/roadmap/items__Implementation: Instruction__dateString": |-
-  Q3
-
 # LLVM Instruction scheduler and performance optimizations
 "knowledge/roadmap/roadmap/items__Implementation: Instruction__text": |-
   LLVM 명령어 스케줄러 및 성능 최적화
-
-# Q3
-knowledge/roadmap/roadmap/items__Connext State Channels__dateString: |-
-  Q3
 
 # Add Connext state channels support. The goal is to have Connext ETC channels live in 2020.
 knowledge/roadmap/roadmap/items__Connext State Channels__text: |-
   Connext 상태 채널 지원을 추가하십시오. 목표는 2020 년에 Connext ETC 채널을 활성화하는 것입니다.
 
-# Q3
-knowledge/roadmap/roadmap/items__JSON-RPC devp2p__dateString: |-
-  Q3
-
 # JSON-RPC devp2p Wire protocol specification and reference implementation research and possible design
 knowledge/roadmap/roadmap/items__JSON-RPC devp2p__text: |-
   JSON-RPC devp2p Wire 프로토콜 사양 및 참조 구현 연구 및 가능한 설계
-
-# Q3
-knowledge/roadmap/roadmap/items__Network Monitors__dateString: |-
-  Q3
 
 # Add fork monitor and ethstats dashboards to EthereumClassic.org
 knowledge/roadmap/roadmap/items__Network Monitors__text: |-
   EthereumClassic.org에 포크 모니터 및 ethstats 대시 보드 추가
 
-# Q3
-knowledge/roadmap/roadmap/items__Long-term Development Resources__dateString: |-
-  Q3
-
 # Long-term Development Resources Discussion: Public Good Network Protocols, Fund Disbursement Methods, DAO fund allocation.
 knowledge/roadmap/roadmap/items__Long-term Development Resources__text: |-
   장기 개발 리소스 토론 : 공공 재정 네트워크 프로토콜, 자금 지급 방법, DAO 자금 할당.
-
-# Q3
-knowledge/roadmap/roadmap/items__Updates to ECIP__dateString: |-
-  Q3
 
 # Updates to ECIP process via ECIP-1000 discussion
 knowledge/roadmap/roadmap/items__Updates to ECIP__text: |-
   ECIP-1000 토론을 통한 ECIP 프로세스 업데이트
 
-# Q3
-knowledge/roadmap/roadmap/items__Developer Marketing__dateString: |-
-  Q3
-
 # Work on 1-2 major technical projects that use ETC as a part of developer marketing
 knowledge/roadmap/roadmap/items__Developer Marketing__text: |-
   개발자 마케팅의 일부로 ETC를 사용하는 1-2 개의 주요 기술 프로젝트에 참여
-
-# Q3
-knowledge/roadmap/roadmap/items__ethereum-Berlin__dateString: |-
-  Q3
 
 # Review Ethereum Berlin for operational parity with Ethereum Classic.
 knowledge/roadmap/roadmap/items__ethereum-Berlin__text: |-
   Ethereum Classic과의 운영 패리티에 대해서는 Ethereum Berlin을 검토하십시오.
 
-# Q3
-knowledge/roadmap/roadmap/items__Gas Range Discussion__dateString: |-
-  Q3
-
 # Gas Range Discussion: Upper and Lower Bounds
 knowledge/roadmap/roadmap/items__Gas Range Discussion__text: |-
   가스 범위 토론 : 상한 및 하한
-
-# Q4
-knowledge/roadmap/roadmap/items__astor-Testing__dateString: |-
-  Q4
 
 # Astor experimental testnet SHA3 consensus algo research review
 knowledge/roadmap/roadmap/items__astor-Testing__text: |-
   Astor 실험용 테스트 넷 SHA3 합의 알고리즘 연구 검토
 
-# Q4
-knowledge/roadmap/roadmap/items__EVM LLVM beta__dateString: |-
-  Q4
-
 # EVM-LLVM Official beta release
 knowledge/roadmap/roadmap/items__EVM LLVM beta__text: |-
   EVM-LLVM 공식 베타 출시
-
-# Q4
-"knowledge/roadmap/roadmap/items__Implementation: Embedded__dateString": |-
-  Q4
 
 # EVM-LLVM Implementation: Embedded assembly and exception handling
 "knowledge/roadmap/roadmap/items__Implementation: Embedded__text": |-
   EVM-LLVM 구현 : 임베디드 어셈블리 및 예외 처리
 
-# Q4
-knowledge/roadmap/roadmap/items__Feature Complete Upgrade__dateString: |-
-  Q4
-
 # Successful upgrade of the ETC network to a further hardfork in Q4 2020 (unless delayed) which will address the remaining blockers to ETC being considered feature complete
 knowledge/roadmap/roadmap/items__Feature Complete Upgrade__text: |-
   2020 년 4 분기에 ETC 네트워크를 추가 하드 포크로 성공적으로 업그레이드 (지연되지 않는 한) 나머지 블록 커가 기능 완료로 간주되는 ETC로 해결
-
-# Q4
-knowledge/roadmap/roadmap/items__ETL Tooling patterns__dateString: |-
-  Q4
 
 # ETL Tooling patterns and research into providing support for cross-chain transaction transforms
 knowledge/roadmap/roadmap/items__ETL Tooling patterns__text: |-
   교차 체인 트랜잭션 변환을 지원하기위한 ETL 툴링 패턴 및 연구
 
-# Q4
-knowledge/roadmap/roadmap/items__Anchor Projects__dateString: |-
-  Q4
-
 # Attract 5 prestige anchor tenant projects from the Ethereum ecosystem. Note that attendence at conferences will level off after Q1 due to Coronavirus
 knowledge/roadmap/roadmap/items__Anchor Projects__text: |-
   이더 리움 생태계에서 5 개의 명성이있는 앵커 테넌트 프로젝트를 유치하십시오. 코로나 바이러스로 인해 1 분기 이후 컨퍼런스 참석 수준이 낮아질 수 있습니다.
-
-# Q4
-knowledge/roadmap/roadmap/items__Mining Algorithm Discussion__dateString: |-
-  Q4
 
 # Mining Algorithm Discussion: Astor SHA3 Change, DAG reduction, No Change
 knowledge/roadmap/roadmap/items__Mining Algorithm Discussion__text: |-
   마이닝 알고리즘 토론 : Astor SHA3 변경, DAG 감소, 변경 없음
 
-# Q4
-knowledge/roadmap/roadmap/items__Interoperability Projects__dateString: |-
-  Q4
-
 # Interoperability Projects: Port over ETH network protocols. Build ETH<>ETC bridges
 knowledge/roadmap/roadmap/items__Interoperability Projects__text: |-
   상호 운용성 프로젝트 : ETH 네트워크 프로토콜을 통한 포트. ETH <> ETC 교량 건설
-
-# Q4
-knowledge/roadmap/roadmap/items__FlyClients Discussion__dateString: |-
-  Q4
 
 # FlyClients Discussion
 knowledge/roadmap/roadmap/items__FlyClients Discussion__text: |-
   FlyClients 토론
 
-# Q4
-knowledge/roadmap/roadmap/items__Interoperability Market Capture__dateString: |-
-  Q4
-
 # Interoperability Market Capture. ETC added to more products increase access/utility for ETC. Onboard stabelcoins and dapps. Build the foundation for DeFi on hard-money ETC
 knowledge/roadmap/roadmap/items__Interoperability Market Capture__text: |-
   상호 운용성 시장 포착. 더 많은 제품에 추가 된 ETC는 ETC에 대한 액세스/유틸리티를 증가시킵니다. 온보드 stabelcoins 및 dapps. 하드 머니 ETC에 DeFi를위한 기반 구축
 
-# Q4
-knowledge/roadmap/roadmap/items__Interoperability Orgs__dateString: |-
-  Q4
-
 # Deliver a modular specification for Ethereum by the end of 2020 (probably via the EEA with input from Ethereum Magicians group) which spans ETH, ETC and EEA requirements
 knowledge/roadmap/roadmap/items__Interoperability Orgs__text: |-
   ETH, ETC 및 EEA 요구 사항을 포괄하는 2020 년 말까지 (이더 리움 Magicians 그룹의 입력으로 EEA를 통해) 이더 리움에 대한 모듈 사양을 제공합니다.
-
-# Q4
-knowledge/roadmap/roadmap/items__ETC Cooperative Grant Program__dateString: |-
-  Q4
 
 # Implement a grant program with documentation, standards, and reporting requirements
 knowledge/roadmap/roadmap/items__ETC Cooperative Grant Program__text: |-
@@ -4969,7 +4885,7 @@ knowledge/roadmap/timeline/items__phoenixUpgrade__title: |-
 knowledge/roadmap/timeline/items__phoenixUpgrade__dateString: |-
   블록 10,500,839
 
-# June 03 2020, Ethereum Classic core developers implement ETH's Istanbul network protocol upgrades to maintain operational parity with its sister chain
+# June 01 2020, Ethereum Classic core developers implement ETH's Istanbul network protocol upgrades to maintain operational parity with its sister chain
 knowledge/roadmap/timeline/items__phoenixUpgrade__text: |-
   2020 년 6 월 3 일, Ethereum Classic 핵심 개발자는 자매 체인과 운영 패리티를 유지하기 위해 ETH의 이스탄불 네트워크 프로토콜 업그레이드를 구현합니다.
 
@@ -6077,18 +5993,6 @@ ui.global/notFoundText: |-
 ui.global/goBack: |-
   돌아 가기
 
-# The links on this page are contributions by ETC participants and are not guaranteed to be safe; use them at your own risk! Please do your own research before using any of resources on this site.
-ui.global/disclaimerInfo: |-
-  이 페이지의 링크는 ETC 참가자가 제공 한 것으로 안전하지 않을 수 있습니다. 자신의 책임하에 사용하십시오! 이 사이트의 리소스를 사용하기 전에 직접 조사하십시오.
-
-# If you feel there is incorrect or missing content on this page, please reach out via the [Ethereum Classic Discord](https://discordapp.com/invite/HW4GckH) or create an issue on [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io).
-ui.global/contributeInfo: |-
-  이 페이지에 내용이 잘못되었거나 누락되었다고 생각되면 [Ethereum Classic Discord](https://discordapp.com/invite/HW4GckH)를 통해 문의하거나 [GitHub](https ://github)에 문제를 만드십시오. .com/ethereumclassic/ethereumclassic.github.io).
-
-# The content on this page is made available under the license
-ui.global/licenseInfo: |-
-  이 페이지의 내용은 라이센스에 따라 제공됩니다
-
 # Learn More
 ui.global/learnMore: |-
   더 알아보기
@@ -6101,7 +6005,7 @@ ui.global/continueReading: |-
 ui.global/warning__title: |-
   하드 포크 경고
 
-# Ethereum Classic's Phoenix upgrade is planned for June, 2020 on block 10,500,839. If you run an ETC node, please update to a compatible client.
+# June 1, 2020 - Ethereum Classic successfully implemented the Phoenix upgrade on block 10,500,839. If you run an ETC node, please update to a compatible client.
 ui.global/warning__description: |-
   이더 리움 클래식의 피닉스 업그레이드는 2020 년 6 월 10,500,839 블록에 계획되어 있습니다. ETC 노드를 실행하는 경우 호환 가능한 클라이언트로 업데이트하십시오.
 
