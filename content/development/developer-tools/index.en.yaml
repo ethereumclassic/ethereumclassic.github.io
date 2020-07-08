@@ -87,7 +87,7 @@ content:
     key: tooling
     type: links
     title: Development Tooling
-    description: A non-exhaustive selection of tools  that can aid development of Ethereum Classic applications.
+    description: A non-exhaustive selection of tools that can aid development of Ethereum Classic applications.
     items:
       - 
         key: BUIDL IDE
