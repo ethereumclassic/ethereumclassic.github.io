@@ -5,11 +5,11 @@ blog/index/title: |-
 
 # Latest Ethereum Classic news articles and announcements
 blog/index/description: |-
-  Neueste Artikel und Ankündigungen zu Ethereum Classic
+  Die neuesten Artikeln und Ankündigungen zu Ethereum Classic
 
 # Submit Article
 blog/index/submit: |-
-  Artikel einreichen
+  Einen Artikel einreichen
 
 # English Articles
 blog/index/englishItems: |-
@@ -29,7 +29,7 @@ blog/section.global/title: |-
 
 # Guide
 development/clients/clients/buttons__guide__name: |-
-  Leiten
+  Leitfaden
 
 # Releases
 development/clients/clients/buttons__release__name: |-
@@ -45,7 +45,7 @@ development/clients/clients/items__Core-Geth__name: |-
 
 # Core-Geth is a distribution of go-ethereum with many flavors. For Phoenix upgrade support, please use version v1.11.0 or later. Upgrade considerations, client configurations and APIs between Multi-Geth and Core-Geth might differ in details. This client is supported by the ETC Core team with funding from Ethereum Classic Labs.
 development/clients/clients/items__Core-Geth__description: |-
-  Core-Geth ist eine Distribution von Go-Ethereum mit vielen Geschmacksrichtungen. Verwenden Sie für die Unterstützung von Phoenix-Upgrades Version v1.11.0 oder höher. Upgrade-Überlegungen, Client-Konfigurationen und APIs zwischen Multi-Geth und Core-Geth können sich in Details unterscheiden. Dieser Kunde wird vom ETC Core-Team mit Mitteln von Ethereum Classic Labs unterstützt.
+  Core-Geth ist eine Distribution von Go-Ethereum mit vielen Geschmacksrichtungen. Für die Unterstützung von Phoenix-Upgrade verwende bitte die Version v1.11.0 oder höher. Die Upgrade-Beabsichtigungen, Client-Konfigurationen und APIs zwischen Multi-Geth und Core-Geth können sich in Details unterscheiden. Dieser Client wird vom ETC Core-Team mit Mitteln von Ethereum Classic Labs unterstützt.
 
 # Hyperledger Besu
 development/clients/clients/items__Hyperledger Besu__name: |-
@@ -53,7 +53,7 @@ development/clients/clients/items__Hyperledger Besu__name: |-
 
 # Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. For Phoenix upgrade support, please use version 1.4.6-RC2 or later. Upgrade considerations, APIs between ParityEthereum and Besu significantly differ. Mining is not very well supported in Besu. This client is supported by the ChainSafe and ETC Cooperative teams as part of the Hyperledger project with funding from Grayscale's Ethereum Classic Trust.
 development/clients/clients/items__Hyperledger Besu__description: |-
-  Hyperledger Besu ist ein Ethereum-Client, der sowohl für öffentliche als auch für private genehmigte Netzwerkanwendungsfälle unternehmensfreundlich ist. Verwenden Sie für die Unterstützung von Phoenix-Upgrades Version 1.4.1 oder höher. Überlegungen zum Upgrade, APIs zwischen ParityEthereum und Besu unterscheiden sich erheblich. Der Bergbau wird in Besu nicht sehr gut unterstützt. Dieser Kunde wird von den Teams ChainSafe, ETC Cooperative und PegaSys im Rahmen des Hyperledger-Projekts mit Mitteln des Ethereum Classic Trust von Grayscale unterstützt.
+  Hyperledger Besu ist ein Ethereum-Client, der sowohl für öffentlich als auch privat genehmigte Netzwerkanwendungsfälle unternehmensfreundlich geplant ist. Für die Unterstützung von Phoenix-Upgrade verwende bitte die Version 1.4.1 oder höher. Die Upgrade-Beabsichtigungen und APIs zwischen ParityEthereum und Besu unterscheiden sich erheblich. Das Mining wird in Besu nicht sehr gut unterstützt. Dieser Client wird von den Teams ChainSafe, ETC Cooperative und PegaSys im Rahmen des Hyperledger-Projektes mit Mitteln des Ethereum Classic Trust von Grayscale unterstützt.
 
 # Multi-Geth
 development/clients/clients/items__Multi-Geth__name: |-
@@ -61,7 +61,7 @@ development/clients/clients/items__Multi-Geth__name: |-
 
 # A swiss army knife distribution of go-ethereum, with support for many species of Ethereum networks. For Phoenix upgrade support, please use version v1.9.14 or later. Upgrade considerations, a majority of the Multi-Geth maintainers forked to the Core-Geth client. This client is community maintained and supported by the Core Paper and Gödel Labs teams.
 development/clients/clients/items__Multi-Geth__description: |-
-  Eine Schweizer Taschenmesserverteilung von Go-Ethereum mit Unterstützung für viele Arten von Ethereum-Netzwerken. Verwenden Sie für die Unterstützung von Phoenix-Upgrades Version 1.9.14 oder höher. Überlegungen zum Upgrade: Ein Großteil der Multi-Geth-Betreuer hat sich an den Core-Geth-Client gewandt. Dieser Client wird von den Teams CorePaper und Gödel Labs von der Community gepflegt und unterstützt.
+  Eine schweizer Taschenmesserdistribution von Go-Ethereum mit Unterstützung für viele Arten von Ethereum-Netzwerken. Für die Unterstützung von Phoenix-Upgrade verwende bitte die Version 1.9.14 oder höher. Die Upgrade-Beabsichtigungen; Ein Großteil der Multi-Geth-Betreuer haben zum Core-Geth-Client gewechselt. Dieser Client wird von der Gemeinschaft betreut und unterstüzt von den Teams der CorePaper und Gödel Labs.
 
 # OpenEthereum
 development/clients/clients/items__OpenEthereum__name: |-
@@ -69,19 +69,19 @@ development/clients/clients/items__OpenEthereum__name: |-
 
 # Fast and feature-rich multi-network Ethereum client. For Phoenix upgrade support, please use version v3.0.1 or later. Upgrade considerations, ParityEthereum is no longer being maintained by Parity Technologies and was handed over to Gnosis as the OpenEthereum project. This client is supported by the Gnosis team with funding from the Ethereum Foundation.
 development/clients/clients/items__OpenEthereum__description: |-
-  Schneller und funktionsreicher Ethereum-Client mit mehreren Netzwerken. Verwenden Sie für die Unterstützung von Phoenix-Upgrades die Version v3.0.0 oder höher. Überlegungen zum Upgrade: ParityEthereum wird von Parity Technologies nicht mehr gewartet und als OpenEthereum-Projekt an Gnosis übergeben. Dieser Kunde wird vom Gnosis-Team mit Mitteln der Ethereum Foundation unterstützt.
+  Ein schneller und funktionsreicher Ethereum-Client mit mehreren Netzwerken. Für die Unterstützung von Phoenix-Upgrade verwende bitte die Version v3.0.0 oder höher. Die Upgrade-Beabsichtigungen; Das ParityEthereum wird von Parity Technologies nicht mehr gewartet und wurde als OpenEthereum-Projekt an Gnosis übergeben. Dieser Client wird vom Gnosis-Team mit Mitteln der Ethereum Foundation unterstützt.
 
 # Clients
 development/clients/index/title: |-
-  Kunden
+  Clients
 
 # Download links for various Ethereum Classic clients and deployment tools
 development/clients/index/description: |-
-  Laden Sie Links für verschiedene Ethereum Classic-Clients und Bereitstellungstools herunter
+  Download-Links für verschiedene Ethereum Classic-Clients und Deployment-Werkzeuge
 
 # Clients are used to sync with the Ethereum Classic network and verify blocks. Most users won't need to run a full node, but they allow those who do to trustlessly interact with the network. Ethereum Classic completed a network upgrade on June 1, 2020. Please update your node if you have not done so already. [Client Update Instructions](https://etccooperative.org/posts/2020-05-20-phoenix-hardfork).
 development/clients/index/intro: |-
-  Clients werden verwendet, um mit dem Ethereum Classic-Netzwerk zu synchronisieren und Blöcke zu überprüfen. Die meisten Benutzer müssen keinen vollständigen Knoten ausführen, ermöglichen jedoch denjenigen, die dies tun, eine vertrauenslose Interaktion mit dem Netzwerk. Ethereum Classic ist für ein Netzwerk-Update im Juni 2020 geplant. Hier finden Sie detaillierte Ethereum Classic-Clients [Upgrade-Anweisungen](https://etccooperative.org/posts/2020-05-20-phoenix-hardfork).
+  Clients werden verwendet, um mit dem Ethereum Classic-Netzwerk zu synchronisieren und Blöcke zu überprüfen. Die meisten Benutzer brauchen keinen vollständigen Knoten ausführen, ermöglichen jedoch denjenigen, die dies tun, vertrauensfrei mit dem Netzwerk zu interagieren. Ethereum Classic ist für ein Netzwerk-Update im Juni 2020 geplant. Hier sind detaillierte Ethereum Classic-Clients [Upgrade-Anweisungen](https://etccooperative.org/posts/2020-05-20-phoenix-hardfork).
 
 # Public Endpoints
 development/clients/index/content__Public Endpoints__title: |-
