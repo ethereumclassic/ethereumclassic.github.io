@@ -13,7 +13,7 @@ blog/index/submit: |-
 
 # English Articles
 blog/index/englishItems: |-
-  Engelstalige artikelen
+  Engelstalige artikels
 
 # Articles on a range of topics contributed by various ETC participants
 blog/index/intro: |-
@@ -29,11 +29,11 @@ blog/section.global/title: |-
 
 # Guide
 development/clients/clients/buttons__guide__name: |-
-  Gids
+  Handleiding
 
 # Releases
 development/clients/clients/buttons__release__name: |-
-  Releases
+  Vrijgave
 
 # Support
 development/clients/clients/buttons__support__name: |-
@@ -45,7 +45,7 @@ development/clients/clients/items__Core-Geth__name: |-
 
 # Core-Geth is a distribution of go-ethereum with many flavors. For Phoenix upgrade support, please use version v1.11.0 or later. Upgrade considerations, client configurations and APIs between Multi-Geth and Core-Geth might differ in details. This client is supported by the ETC Core team with funding from Ethereum Classic Labs.
 development/clients/clients/items__Core-Geth__description: |-
-  Core-Geth is een distributie van go-ethereum met veel smaken. Gebruik voor versie-ondersteuning voor Phoenix versie v1.11.0 of hoger. Overwegingen bij upgrades, clientconfiguraties en API's tussen Multi-Geth en Core-Geth kunnen in details verschillen. Deze klant wordt ondersteund door het ETC Core-team met financiering van Ethereum Classic Labs.
+  Core-Geth is een distributie van go-ethereum met verschillende smaken. Voor Phoenix update ondersteuning gelieve versie v1.11.0 of hoger te gebruiken. Overwegingen bij upgrades, clientconfiguraties en API's tussen Multi-Geth en Core-Geth kunnen in details verschillen. Deze client wordt ondersteund door het ETC Core-team met financiering van Ethereum Classic Labs.
 
 # Hyperledger Besu
 development/clients/clients/items__Hyperledger Besu__name: |-
@@ -53,7 +53,7 @@ development/clients/clients/items__Hyperledger Besu__name: |-
 
 # Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. For Phoenix upgrade support, please use version 1.4.6-RC2 or later. Upgrade considerations, APIs between ParityEthereum and Besu significantly differ. Mining is not very well supported in Besu. This client is supported by the ChainSafe and ETC Cooperative teams as part of the Hyperledger project with funding from Grayscale's Ethereum Classic Trust.
 development/clients/clients/items__Hyperledger Besu__description: |-
-  Hyperledger Besu is een Ethereum-client die is ontworpen om bedrijfsvriendelijk te zijn voor zowel openbare als particuliere netwerkgebruikszaken. Gebruik voor versie-ondersteuning voor Phoenix versie v1.4.1 of hoger. Overwegingen bij het upgraden, API's tussen ParityEthereum en Besu verschillen aanzienlijk. Mijnbouw wordt niet erg goed ondersteund in Besu. Deze klant wordt ondersteund door de teams ChainSafe, ETC Cooperative en PegaSys als onderdeel van het Hyperledger-project met financiering van Grayscale's Ethereum Classic Trust.
+  Hyperledger Besu is een Ethereum-client die is ontworpen om bedrijfsvriendelijk te zijn voor zowel openbare als particuliere goedgekeurde netwerk toepassingen. Voor Phoenix update gelieve versie v1.4.6-RC2 of hoger te gebruiken. Overwegingen bij het upgraden, API's tussen ParityEthereum en Besu verschillen aanzienlijk. Mijnen wordt niet erg goed ondersteund in Besu. Deze client wordt ondersteund door de teams ChainSafe en ETC Cooperative als onderdeel van het Hyperledger-project met financiering van Grayscale's Ethereum Classic Trust.
 
 # Multi-Geth
 development/clients/clients/items__Multi-Geth__name: |-
@@ -61,7 +61,7 @@ development/clients/clients/items__Multi-Geth__name: |-
 
 # A swiss army knife distribution of go-ethereum, with support for many species of Ethereum networks. For Phoenix upgrade support, please use version v1.9.14 or later. Upgrade considerations, a majority of the Multi-Geth maintainers forked to the Core-Geth client. This client is community maintained and supported by the Core Paper and Gödel Labs teams.
 development/clients/clients/items__Multi-Geth__description: |-
-  Een Zwitserse zakmesdistributie van go-ethereum, met ondersteuning voor vele soorten Ethereum-netwerken. Gebruik voor versie-ondersteuning voor Phoenix versie v1.9.14 of hoger. Upgradeoverwegingen, een meerderheid van de Multi-Geth-beheerders vertrok naar de Core-Geth-client. Deze klant wordt door de gemeenschap onderhouden en ondersteund door de teams CorePaper en Gödel Labs.
+  Een Zwitsers zakmesdistributie van go-ethereum, met ondersteuning voor vele soorten Ethereum-netwerken. Voor Phoenix upgrade ondersteuning gelieve versie v1.9.14 of hoger te gebruiken. Upgradeoverwegingen, een meerderheid van de Multi-Geth beheerders zijn gevorkt naar de Core-Geth client. Deze client wordt door de gemeenschap onderhouden en ondersteund door de teams Core Paper en Gödel Labs.
 
 # OpenEthereum
 development/clients/clients/items__OpenEthereum__name: |-
@@ -69,19 +69,19 @@ development/clients/clients/items__OpenEthereum__name: |-
 
 # Fast and feature-rich multi-network Ethereum client. For Phoenix upgrade support, please use version v3.0.1 or later. Upgrade considerations, ParityEthereum is no longer being maintained by Parity Technologies and was handed over to Gnosis as the OpenEthereum project. This client is supported by the Gnosis team with funding from the Ethereum Foundation.
 development/clients/clients/items__OpenEthereum__description: |-
-  Snelle en veelzijdige Ethereum-client met meerdere netwerken. Gebruik voor versie-ondersteuning voor Phoenix versie v3.0.0 of hoger. Upgradeoverwegingen, ParityEthereum wordt niet langer onderhouden door Parity Technologies en werd overgedragen aan Gnosis als het OpenEthereum-project. Deze klant wordt ondersteund door het Gnosis-team met financiering van de Ethereum Foundation.
+  Snelle en veelzijdige Ethereum-client met meerdere netwerken. Voor Phoenix upgrade ondersteuning gelieve versie v3.0.1 of hoger te gebruiken. Upgradeoverwegingen, ParityEthereum wordt niet langer onderhouden door Parity Technologies en werd overgedragen aan Gnosis als het OpenEthereum project. Deze client wordt ondersteund door het Gnosis team met financiering van de Ethereum Foundation.
 
 # Clients
 development/clients/index/title: |-
-  Klanten
+  Clients
 
 # Download links for various Ethereum Classic clients and deployment tools
 development/clients/index/description: |-
-  Download links voor verschillende Ethereum Classic-clients en implementatietools
+  Download links voor verscheidene Ethereum Classic clients en implementatie tools
 
 # Clients are used to sync with the Ethereum Classic network and verify blocks. Most users won't need to run a full node, but they allow those who do to trustlessly interact with the network. Ethereum Classic completed a network upgrade on June 1, 2020. Please update your node if you have not done so already. [Client Update Instructions](https://etccooperative.org/posts/2020-05-20-phoenix-hardfork).
 development/clients/index/intro: |-
-  Clients worden gebruikt om te synchroniseren met het Ethereum Classic-netwerk en blokken te verifiëren. De meeste gebruikers hoeven niet een volledig knooppunt te gebruiken, maar ze staan degenen die dat wel doen toe om zonder vertrouwen met het netwerk te communiceren. Ethereum Classic is gepland voor een netwerkupdate in juni 2020. Hier zijn gedetailleerde Ethereum Classic-client [upgrade-instructies](https://etccooperative.org/posts/2020-05-20-phoenix-hardfork).
+  Clients worden gebruikt om te synchroniseren met het Ethereum Classic-netwerk en blokken te verifiëren. De meeste gebruikers hoeven niet een volledige node te gebruiken, maar ze staan degenen die dat wel doen toe om vertrouwensloos met het netwerk te communiceren. Ethereum Classic heeft een netwerkupgrade ondergaan op 1 juni 2020. Gelieve je node te updaten indien dit nog niet gebeurd is [update-instructies](https://etccooperative.org/posts/2020-05-20-phoenix-hardfork).
 
 # Public Endpoints
 development/clients/index/content__Public Endpoints__title: |-
@@ -89,7 +89,7 @@ development/clients/index/content__Public Endpoints__title: |-
 
 # You can use these services to connect to ETC via JSON-RPC.
 development/clients/index/content__Public Endpoints__description: |-
-  U kunt deze services gebruiken om verbinding te maken met ETC via JSON-RPC.
+  U kunt deze services gebruiken om te verbinden met ETC via JSON-RPC.
 
 # BlockScout API
 development/clients/index/content__Public Endpoints__items__BlockScout API__name: |-
@@ -113,11 +113,11 @@ development/clients/index/content__Public Endpoints__items__TokenView API__name:
 
 # Node Tools
 development/clients/index/content__Node Tools__title: |-
-  Knooppunt-tools
+  Node tools
 
 # These tools make it easy to spin up a cluster of nodes for production deployments or perform data science with public datasets.
 development/clients/index/content__Node Tools__description: |-
-  Deze tools maken het gemakkelijk om een cluster van knooppunten op te draaien voor productie-implementaties of om data science uit te voeren met openbare datasets.
+  Deze tools maken het gemakkelijk om op een cluster nodes te draaien voor productie implementaties of om data-science uit te voeren met openbare datasets.
 
 # Bloq Cloud
 development/clients/index/content__Node Tools__items__Bloq Cloud__name: |-
@@ -125,7 +125,7 @@ development/clients/index/content__Node Tools__items__Bloq Cloud__name: |-
 
 # BloqCloud delivers highly-optimized, always available access to blockchain networks. Connect quickly and scale easily based on your needs -- without having to worry about managing infrastructure.
 development/clients/index/content__Node Tools__items__Bloq Cloud__description: |-
-  BloqCloud biedt sterk geoptimaliseerde, altijd beschikbare toegang tot blockchain-netwerken. Maak snel verbinding en schaal eenvoudig op basis van uw behoeften, zonder dat u zich zorgen hoeft te maken over het beheer van de infrastructuur.
+  BloqCloud biedt sterk geoptimaliseerde, altijd beschikbare toegang tot blockchain netwerken. Maak snel verbinding en schaal eenvoudig op basis van uw behoeften, zonder dat u zich zorgen hoeft te maken over het beheer van de infrastructuur.
 
 # DappNode
 development/clients/index/content__Node Tools__items__DappNode__name: |-
@@ -141,7 +141,7 @@ development/clients/index/content__Node Tools__items__Ethercluster__name: |-
 
 # Ethercluster is an open-sourced Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) providing Ethereum Classic (ETC) and Kotti endpoints for free.
 development/clients/index/content__Node Tools__items__Ethercluster__description: |-
-  Ethercluster is een open source Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) die Ethereum Classic (ETC) en Kotti-eindpunten gratis biedt.
+  Ethercluster is een open source Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) die Ethereum Classic (ETC) en Kotti-eindpunten gratis aanbiedt.
 
 # Google BigQuery
 development/clients/index/content__Node Tools__items__Google BigQuery__name: |-
@@ -153,11 +153,11 @@ development/clients/index/content__Node Tools__items__Google BigQuery__descripti
 
 # Raspberry Pi Node
 development/clients/index/content__Node Tools__items__Raspberry Pi Node__name: |-
-  Raspberry Pi-knooppunt
+  Raspberry Pi node
 
 # A detailed guide for how to setup an Ethereum Classic node on a Raspberry Pi.
 development/clients/index/content__Node Tools__items__Raspberry Pi Node__description: |-
-  Een gedetailleerde handleiding voor het instellen van een Ethereum Classic-knooppunt op een Raspberry Pi.
+  Een gedetailleerde handleiding voor het instellen van een Ethereum Classic node op een Raspberry Pi.
 
 # QuikNode
 development/clients/index/content__Node Tools__items__QuikNode__name: |-
@@ -165,7 +165,7 @@ development/clients/index/content__Node Tools__items__QuikNode__name: |-
 
 # QuikNodes are easy, always on, with a fast internet connection for quick blockchain sync, and you never have to worry about running out of disk space.
 development/clients/index/content__Node Tools__items__QuikNode__description: |-
-  QuikNodes zijn eenvoudig, altijd aan, met een snelle internetverbinding voor snelle blockchain-synchronisatie, en u hoeft zich nooit zorgen te maken dat u onvoldoende schijfruimte heeft.
+  QuikNodes zijn eenvoudig, altijd ingeschakeld, met een snelle internetverbinding voor snelle blockchain synchronisatie en u hoeft zich nooit zorgen te maken dat u schijfruimte tekort komt.
 
 # Developer Tools
 development/developer-tools/index/title: |-
@@ -173,7 +173,7 @@ development/developer-tools/index/title: |-
 
 # A collection of tools to enhance the Ethereum Classic application development experience
 development/developer-tools/index/description: |-
-  Een verzameling tools om de ervaring met het ontwikkelen van Ethereum Classic-applicaties te verbeteren
+  Een verzameling tools om de ervaring met het ontwikkelen van Ethereum Classic applicaties te verbeteren.
 
 # Good tools make a skilled craftsman better. This section contains a suite of excellent tools that can level up your development experience.
 # 
@@ -183,9 +183,9 @@ development/developer-tools/index/description: |-
 development/developer-tools/index/intro: |
   Goed gereedschap maakt een vakman beter. Deze sectie bevat een reeks uitstekende tools die uw ontwikkelingservaring naar een hoger niveau kunnen tillen.
 
-  ## Klanten
+  ## Clients
 
-  Voor meer informatie over de verschillende ETC-clients, kijk op de [clients](/development/clients) pagina.
+  Voor meer informatie over de verscheidene ETC clients, kijk op de [clients](/development/clients) pagina.
 
 # Payment Processors
 development/developer-tools/index/content__processors__title: |-
@@ -193,7 +193,7 @@ development/developer-tools/index/content__processors__title: |-
 
 # These APIs can be used to accept ETC payments in your website or application.
 development/developer-tools/index/content__processors__description: |-
-  Deze API's kunnen worden gebruikt om ETC-betalingen in uw website of applicatie te accepteren.
+  Deze API's kunnen worden gebruikt om ETC betalingen in uw website of applicatie te accepteren.
 
 # AnyCoinDirect
 development/developer-tools/index/content__processors__items__AnyCoinDirect__name: |-
@@ -209,7 +209,7 @@ development/developer-tools/index/content__processors__items__Bitladon__name: |-
 
 # CoinsBee
 development/developer-tools/index/content__processors__items__CoinsBee__name: |-
-  MuntenBee
+  CoinsBee
 
 # CoinDirect
 development/developer-tools/index/content__processors__items__CoinDirect__name: |-
@@ -233,7 +233,7 @@ development/developer-tools/index/content__processors__items__Cryptomate__name: 
 
 # Cryptonator Merchant
 development/developer-tools/index/content__processors__items__Cryptonator Merchant__name: |-
-  Cryptonator-handelaar
+  Cryptonator Merchant
 
 # Cryptwerk
 development/developer-tools/index/content__processors__items__Cryptwerk__name: |-
@@ -249,7 +249,7 @@ development/developer-tools/index/content__processors__items__LiteBit__name: |-
 
 # NOWPayments
 development/developer-tools/index/content__processors__items__NOWPayments__name: |-
-  NU Betalingen
+  NOWPayments
 
 # Paxful
 development/developer-tools/index/content__processors__items__Paxful__name: |-
@@ -265,11 +265,11 @@ development/developer-tools/index/content__processors__items__Utrust__name: |-
 
 # Development Tooling
 development/developer-tools/index/content__tooling__title: |-
-  Ontwikkelingstooling
+  Ontwikkelingstools
 
 # A non-exhaustive selection of tools that can aid development of Ethereum Classic applications.
 development/developer-tools/index/content__tooling__description: |-
-  Een niet-uitputtende selectie van tools die de ontwikkeling van Ethereum Classic-applicaties kunnen helpen.
+  Een niet-uitputtende waaier van tools die de ontwikkeling van Ethereum Classic applicaties kunnen helpen.
 
 # BUIDL IDE
 development/developer-tools/index/content__tooling__items__BUIDL IDE__name: |-
@@ -277,7 +277,7 @@ development/developer-tools/index/content__tooling__items__BUIDL IDE__name: |-
 
 # Second State BUIDL IDE is a web-based IDE that requires no software download or install. It provides a one-stop development and deployment environment for smart contract and dapp developers.
 development/developer-tools/index/content__tooling__items__BUIDL IDE__description: |-
-  Second State BUIDL IDE is een webgebaseerde IDE waarvoor geen software hoeft te worden gedownload of geïnstalleerd. Het biedt een one-stop-ontwikkel- en implementatieomgeving voor slimme contract- en dapp-ontwikkelaars.
+  Second State BUIDL IDE is een webgebaseerde IDE waarvoor geen software hoeft te worden gedownload of geïnstalleerd. Het biedt een one-stop omgeving om slimme contracten en dapps te ontwikkelen en te implementeren.
 
 # Dappkit
 development/developer-tools/index/content__tooling__items__Dappkit__name: |-
@@ -285,11 +285,11 @@ development/developer-tools/index/content__tooling__items__Dappkit__name: |-
 
 # A ledger-agnostic, high-performance infrastructure and libraries for developers to build and scale decentralized applications. In short, collaborative Firebase for Dapps.
 development/developer-tools/index/content__tooling__items__Dappkit__description: |-
-  Een grootboekonafhankelijke, hoogwaardige infrastructuur en bibliotheken voor ontwikkelaars om gedecentraliseerde applicaties te bouwen en te schalen. Kortom, collaboratieve Firebase voor Dapps.
+  Een ledger-onafhankelijke, hoogwaardige infrastructuur en bibliotheken voor ontwikkelaars om gedecentraliseerde applicaties te ontwikkelen en te schalen. Kortom, collaboratieve Firebase voor Dapps.
 
 # Embark Framework
 development/developer-tools/index/content__tooling__items__Embark Framework__name: |-
-  Inschepkader
+  Embark Framework
 
 # Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
 development/developer-tools/index/content__tooling__items__Embark Framework__description: |-
@@ -301,15 +301,15 @@ development/developer-tools/index/content__tooling__items__Emerald Platform__nam
 
 # Platform for building Dapps for ETC blockchain.
 development/developer-tools/index/content__tooling__items__Emerald Platform__description: |-
-  Platform voor het bouwen van Dapps voor ETC-blockchain.
+  Platform voor het bouwen van Dapps voor de ETC blockchain.
 
 # ESerialize
 development/developer-tools/index/content__tooling__items__ESerialize__name: |-
-  ESerialiseren
+  E-Serialisatie
 
 # The goal of this module is to provide easy functions to serialize and deserialize data for the Ethereum Stack.
 development/developer-tools/index/content__tooling__items__ESerialize__description: |-
-  Het doel van deze module is om eenvoudige functies te bieden om gegevens voor de Ethereum Stack te serialiseren en deserialiseren.
+  Het doel van deze module is om eenvoudige functies aan te bieden voor het serialiseren en deserialiseren van gegevens voor de Ethereum Stack.
 
 # Ethereum JSON-RPC API
 development/developer-tools/index/content__tooling__items__Ethereum JSON-RPC API__name: |-
@@ -317,7 +317,7 @@ development/developer-tools/index/content__tooling__items__Ethereum JSON-RPC API
 
 # A specification of JSON-RPC methods that an EVM-based blockchain client must implement.
 development/developer-tools/index/content__tooling__items__Ethereum JSON-RPC API__description: |-
-  Een specificatie van JSON-RPC-methoden die een op EVM gebaseerde blockchain-client moet implementeren.
+  Een specificatie van JSON-RPC methodes die een, op EVM gebaseerde, blockchain-client dient te implementeren.
 
 # Eth Fiddle
 development/developer-tools/index/content__tooling__items__Eth Fiddle__name: |-
@@ -333,7 +333,7 @@ development/developer-tools/index/content__tooling__items__EVM-LLVM__name: |-
 
 # Not only can developers use a large scope of programming languages (Rust for smart contracts!) other than Solidity to target the Ethereum Virtual Machine (EVM), they can also immediately benefit from various development tools built around LLVM infrastructure.
 development/developer-tools/index/content__tooling__items__EVM-LLVM__description: |-
-  Ontwikkelaars kunnen niet alleen een groot aantal andere programmeertalen (Rust voor slimme contracten!) Dan Solidity gebruiken om de Ethereum Virtual Machine (EVM) te targeten, ze kunnen ook onmiddellijk profiteren van verschillende ontwikkeltools die zijn gebouwd rond de LLVM-infrastructuur.
+  Ontwikkelaars kunnen niet alleen een groot aantal andere programmeertalen (Rust voor slimme contracten!) dan Solidity raadplegen om als doel de Ethereum Virtual Machine (EVM) te gebruiken, ze kunnen ook onmiddellijk profiteren van verschillende ontwikkelingstools die zijn gebouwd rond de LLVM infrastructuur.
 
 # Ganache
 development/developer-tools/index/content__tooling__items__Ganache__name: |-
@@ -341,7 +341,7 @@ development/developer-tools/index/content__tooling__items__Ganache__name: |-
 
 # Personal Ethereum blockchain to run tests.
 development/developer-tools/index/content__tooling__items__Ganache__description: |-
-  Persoonlijke Ethereum-blockchain om tests uit te voeren.
+  Persoonlijke Ethereum blockchain om tests uit te voeren.
 
 # Jade Suite
 development/developer-tools/index/content__tooling__items__Jade Suite__name: |-
@@ -349,7 +349,7 @@ development/developer-tools/index/content__tooling__items__Jade Suite__name: |-
 
 # The Jade suite of tools empowers developers to create peer-to-peer decentralized applications on top of EVM-based blockchains like Ethereum Classic.
 development/developer-tools/index/content__tooling__items__Jade Suite__description: |-
-  De Jade-suite van tools stelt ontwikkelaars in staat om peer-to-peer gedecentraliseerde applicaties te creëren bovenop EVM-gebaseerde blockchains zoals Ethereum Classic.
+  De Jade-suite tools stelt ontwikkelaars in staat om peer-to-peer gedecentraliseerde applicaties te ontwikkelen bovenop de EVM-gebaseerde Ethereum Classic blockchain.
 
 # Mythx
 development/developer-tools/index/content__tooling__items__Mythx__name: |-
@@ -357,7 +357,7 @@ development/developer-tools/index/content__tooling__items__Mythx__name: |-
 
 # MythX is the premier security analysis service for Ethereum smart contracts. Our mission is to ensure development teams avoid costly errors and make Ethereum a more secure and trustworthy platform.
 development/developer-tools/index/content__tooling__items__Mythx__description: |-
-  MythX is de belangrijkste beveiligingsanalyseservice voor slimme contracten van Ethereum. Onze missie is ervoor te zorgen dat ontwikkelteams kostbare fouten vermijden en Ethereum een veiliger en betrouwbaarder platform maken.
+  MythX is de belangrijkste beveiligingsanalyse dienst voor slimme contracten van Ethereum. Onze missie is ervoor te zorgen dat ontwikkelingsteams kostbare fouten vermijden en Ethereum Classic een veiliger en betrouwbaarder platform maken.
 
 # Open-RPC
 development/developer-tools/index/content__tooling__items__Open-RPC__name: |-
@@ -365,7 +365,7 @@ development/developer-tools/index/content__tooling__items__Open-RPC__name: |-
 
 # The OpenRPC Specification defines a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs.
 development/developer-tools/index/content__tooling__items__Open-RPC__description: |-
-  De OpenRPC-specificatie definieert een standaard programmeertaal-agnostische interfacebeschrijving voor JSON-RPC 2.0 API's.
+  De OpenRPC specificatie definieert een standaard programmeertaal onafhankelijke interfacebeschrijving voor JSON-RPC 2.0 API's.
 
 # OpenZeppelin
 development/developer-tools/index/content__tooling__items__OpenZeppelin__name: |-
@@ -373,7 +373,7 @@ development/developer-tools/index/content__tooling__items__OpenZeppelin__name: |
 
 # Battle-tested framework of secure, reusable smart contracts.
 development/developer-tools/index/content__tooling__items__OpenZeppelin__description: |-
-  Gevecht getest raamwerk van veilige, herbruikbare slimme contracten.
+  Battle-tested framework van veilige, herbruikbare slimme contracten.
 
 # Quorum
 development/developer-tools/index/content__tooling__items__Quorum__name: |-
@@ -381,7 +381,7 @@ development/developer-tools/index/content__tooling__items__Quorum__name: |-
 
 # Quorum is an open source blockchain platform that combines the innovation of the public Ethereum community with enhancements to support enterprise needs.
 development/developer-tools/index/content__tooling__items__Quorum__description: |-
-  Quorum is een open source blockchain-platform dat de innovatie van de openbare Ethereum-gemeenschap combineert met verbeteringen om de bedrijfsbehoeften te ondersteunen.
+  Quorum is een open source blockchain platform dat de innovatie van de openbare Ethereum gemeenschap combineert met verbeteringen om de bedrijfsbehoeften te ondersteunen.
 
 # Remix Online IDE
 development/developer-tools/index/content__tooling__items__Remix Online IDE__name: |-
@@ -389,7 +389,7 @@ development/developer-tools/index/content__tooling__items__Remix Online IDE__nam
 
 # A useful in-browser IDE that can compile and publish smart contracts to various Ethereum networks. Includes a linter.
 development/developer-tools/index/content__tooling__items__Remix Online IDE__description: |-
-  Een handige in-browser IDE die slimme contracten kan samenstellen en publiceren naar verschillende Ethereum-netwerken. Bevat een linter.
+  Een handige in-browser IDE die slimme contracten kan compileren en publiceren naar verschillende Ethereum netwerken. (Bevat linter)
 
 # Signatory
 development/developer-tools/index/content__tooling__items__Signatory__name: |-
@@ -397,7 +397,7 @@ development/developer-tools/index/content__tooling__items__Signatory__name: |-
 
 # An offline transaction and message signer for the Ethereum Stack.
 development/developer-tools/index/content__tooling__items__Signatory__description: |-
-  Een offline transactie en berichtondertekenaar voor de Ethereum Stack.
+  Een offline transactie- en berichtondertekenaar voor de Ethereum Stack.
 
 # SOLL
 development/developer-tools/index/content__tooling__items__SOLL__name: |-
@@ -405,51 +405,51 @@ development/developer-tools/index/content__tooling__items__SOLL__name: |-
 
 # The LLVM compiler is finally coming to Solidity. With it, we can easily create smart contracts across multiple blockchain VMs. The EVM on Ethereum Classic and ETH 2.0's eWASM are among the first we support.
 development/developer-tools/index/content__tooling__items__SOLL__description: |-
-  De LLVM-compiler komt eindelijk naar Solidity. Hiermee kunnen we eenvoudig slimme contracten maken voor meerdere blockchain-VM's. De EVM op Ethereum Classic en de eWASM van ETH 2.0 behoren tot de eerste die we ondersteunen.
+  De LLVM compiler komt eindelijk naar Solidity. Hiermee kunnen we eenvoudig slimme contracten maken voor meerdere blockchain VM's. De EVM op Ethereum Classic en de eWASM van ETH 2.0 behoren tot de eerste die we ondersteunen.
 
 # Sputnikvm
 development/developer-tools/index/content__tooling__items__Sputnikvm__name: |-
-  Sputnikvm
+  SputnikVM
 
 # SputnikVM is an open source standalone implementation of Ethereum Virtual Machine (EVM). It aims to be an efficient, pluggable virtual machine for different Ethereum-based blockchains.
 development/developer-tools/index/content__tooling__items__Sputnikvm__description: |-
-  SputnikVM is een open source standalone implementatie van Ethereum Virtual Machine (EVM). Het wil een efficiënte, inplugbare virtuele machine zijn voor verschillende op Ethereum gebaseerde blockchains.
+  SputnikVM is een open source standalone implementatie van Ethereum Virtual Machine (EVM). Het wil een efficiënte, inplugbare virtuele machine zijn voor verschillende, op Ethereum gebaseerde, blockchains.
 
 # Truffle Suite
 development/developer-tools/index/content__tooling__items__Truffle Suite__name: |-
-  Truffelsuite
+  Truffle Suite
 
 # A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
 development/developer-tools/index/content__tooling__items__Truffle Suite__description: |-
-  Een ontwikkelomgeving van wereldklasse, testraamwerk en activapijplijn voor blockchains met behulp van de Ethereum Virtual Machine (EVM), met als doel het leven als ontwikkelaar gemakkelijker te maken.
+  Een ontwikkelingsomgeving van wereldklasseformaat, test framework en activa-pijplijn voor blockchains met behulp van de Ethereum Virtual Machine (EVM), met als doel het leven als ontwikkelaar gemakkelijker te maken.
 
 # Development Guides
 development/guides/index/title: |-
-  Ontwikkelingsgidsen
+  Ontwikkelingshandleidingen
 
 # Get started with Ethereum Classic development by following development tutorials
 development/guides/index/description: |-
-  Ga aan de slag met Ethereum Classic-ontwikkeling door ontwikkelingshandleidingen te volgen
+  Ga aan de slag met Ethereum Classic door de ontwikkelingshandleidingen te volgen
 
 # This section section a selection of tutorials and explainers for both beginners and advanced developers.
 development/guides/index/intro: |-
-  Deze sectie sectie een selectie van tutorials en uitleggers voor zowel beginners als gevorderde ontwikkelaars.
+  Deze sectie is een selectie van handleidingen en uitleg voor zowel beginners- als gevorderde ontwikkelaars.
 
 # Getting Started
 development/guides/index/content__tutorials__title: |-
-  Beginnen
+  Ga aan de slag
 
 # Here is a non-exhaustive list of some helpful tutorials and walkthroughs to get your starting with Ethereum Classic development.
 development/guides/index/content__tutorials__description: |-
-  Hier is een niet-uitputtende lijst van enkele handige tutorials en walkthroughs om je op weg te helpen met Ethereum Classic ontwikkeling.
+  Hier is een niet-uitputtende lijst van enkele handige handleidingen om je op weg te helpen met Ethereum Classic ontwikkeling.
 
 # Kotti Testnet Setup Guide
 development/guides/index/content__tutorials__items__Kotti Testnet Setup Guide__name: |-
-  Installatiehandleiding voor Kotti Testnet
+  Installatiehandleiding voor het Kotti Testnet
 
 # Up and Running Kotti TestNet in 1 minute with Jade Desktop
 development/guides/index/content__tutorials__items__Kotti Testnet Setup Guide__description: |-
-  Binnen 1 minuut Kotti TestNet aan de praat met Jade Desktop
+  Binnen 1 minuut met het Kotti TestNet aan de slag dankzij Jade Desktop
 
 # Signatory Client
 development/guides/index/content__tutorials__items__Signatory Client__name: |-
@@ -457,15 +457,15 @@ development/guides/index/content__tutorials__items__Signatory Client__name: |-
 
 # Video Demo describes Signatory Client - a Do It Yourself hardware wallet that can be installed on a single-board computer, like Raspberry PI.
 development/guides/index/content__tutorials__items__Signatory Client__description: |-
-  Video Demo beschrijft Signatory Client - een Do It Yourself-hardwareportefeuille die kan worden geïnstalleerd op een single-board computer, zoals Raspberry PI.
+  Video Demo beschrijft Signatory Client - een DIY hardwareportefeuille die kan worden geïnstalleerd op een single-board computer zoals bijvoorbeeld Raspberry PI.
 
 # Raspberry Pi Node Setup Guide
 development/guides/index/content__tutorials__items__Raspberry Pi Node Setup Guide__name: |-
-  Installatiehandleiding voor Raspberry Pi-knooppunt
+  Installatiehandleiding voor Raspberry Pi node
 
 # A detailed guide on how to setup an Ethereum node on a Raspberry Pi
 development/guides/index/content__tutorials__items__Raspberry Pi Node Setup Guide__description: |-
-  Een gedetailleerde gids over het instellen van een Ethereum-knooppunt op een Raspberry Pi
+  Een gedetailleerde handleiding over hoe een Ethereum node in te stellen op een Raspberry Pi.
 
 # CryptoZombies
 development/guides/index/content__tutorials__items__CryptoZombies__name: |-
@@ -473,23 +473,23 @@ development/guides/index/content__tutorials__items__CryptoZombies__name: |-
 
 # Learn to Code Ethereum DApps By Building Your Own Game.
 development/guides/index/content__tutorials__items__CryptoZombies__description: |-
-  Leer Ethereum DApps te coderen door je eigen spel te bouwen.
+  Leer Ethereum DApps te coderen in de vorm van je eigen spel.
 
 # Hitchhikers Guide to Smart Contracts
 development/guides/index/content__tutorials__items__Hitchhikers Guide to Smart Contracts__name: |-
-  Liftersgids voor slimme contracten
+  Handleiding voor slimme contracten
 
 # Build smart contracts on Ethereum using Truffle, testrpc and Solidity.
 development/guides/index/content__tutorials__items__Hitchhikers Guide to Smart Contracts__description: |-
-  Bouw slimme contracten op Ethereum met Truffle, testrpc en Solidity.
+  Bouw slimme contracten op Ethereum met Truffle, testRPC en Solidity.
 
 # A 101 Noob Intro to Programming Smart Contracts on Ethereum
 development/guides/index/content__tutorials__items__A 101 Noob Intro to Programming Smart Contracts on Ethereum__name: |-
-  Een 101 Noob Inleiding tot het programmeren van slimme contracten op Ethereum
+  Een 101 beginners inleiding voor het programmeren van slimme contracten op Ethereum
 
 # Smart contract tutorial with a focus on building up understanding before code.
 development/guides/index/content__tutorials__items__A 101 Noob Intro to Programming Smart Contracts on Ethereum__description: |-
-  Slimme contract-tutorial met een focus op het opbouwen van begrip voor code.
+  Slim contract handleiding met een focus op het opbouwen van begrip alvorens de code.
 
 # Setup MetaMask for Ethereum Classic
 development/guides/index/content__tutorials__items__Setup MetaMask for Ethereum Classic__name: |-
@@ -497,7 +497,7 @@ development/guides/index/content__tutorials__items__Setup MetaMask for Ethereum 
 
 # How To Setup Ethereum Classic Support on MetaMask With Ethercluster
 development/guides/index/content__tutorials__items__Setup MetaMask for Ethereum Classic__description: |-
-  Hoe Ethereum Classic-ondersteuning op MetaMask met Ethercluster in te stellen
+  Hoe Ethereum Classic ondersteuning op MetaMask in te stellen met Ethercluster.
 
 # Parity DApp Tutorial
 development/guides/index/content__tutorials__items__Parity Tutorial__name: |-
