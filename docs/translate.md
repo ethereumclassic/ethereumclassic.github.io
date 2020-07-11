@@ -10,7 +10,7 @@ You need a github account to be able to submit translations.
 
 **Step 1** Fork the repository
 
-Go to https://github.com/ethereumclassic/ethereumclassic.github.io and click the "Fork" button in the top right corner
+Go to https://github.com/ethereumclassic/ethereumclassic.github.io and click the "Fork" button in the top right corner. If you already have an old repo of the same name on your account, delete it and try again.
 
 ![Fork](./t_0.png)
 
