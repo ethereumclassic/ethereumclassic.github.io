@@ -2,7 +2,7 @@
 
 This walkthrough will show you how to contribute translations via Github.
 
-## Prerequisites
+## Prerequisites
 
 You need a github account to be able to submit translations.
 
