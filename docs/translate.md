@@ -66,6 +66,6 @@ Create the pull request.
 
 ---
 
-From here, repository maintainers will review your pull reuqest and merge your changes.
+From here, repository maintainers will review your pull request and merge your changes.
 
 Thank you!
