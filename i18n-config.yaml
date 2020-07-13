@@ -15,6 +15,7 @@ locales:
   - de
   - zh
   - zh-TW
+  - nl
 filterMarkdown:
   - blog/
 filterKeys:

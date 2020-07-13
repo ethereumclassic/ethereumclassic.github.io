@@ -1,7 +1,22 @@
 const siteUrl = 'https://ethereumclassic.org';
 const image = '/etc-social-card.png';
 
-const locales = ['en', 'ja', 'tr', 'ru', 'ko', 'fr', 'vi', 'el', 'es', 'hr', 'de', 'zh', 'zh-TW'];
+const locales = [
+  'en',
+  'ja',
+  'tr',
+  'ru',
+  'ko',
+  'fr',
+  'vi',
+  'el',
+  'es',
+  'hr',
+  'de',
+  'zh',
+  'zh-TW',
+  'nl'
+];
 
 const rssFeeds = require('./rss-feeds')({ siteUrl, image });
 

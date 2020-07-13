@@ -51,7 +51,7 @@ development/clients/clients/items__Core-Geth__description: |-
 development/clients/clients/items__Hyperledger Besu__name: |-
   Hyperledger Besu
 
-# Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. For Phoenix upgrade support, please use version v1.4.1 or later. Upgrade considerations, APIs between ParityEthereum and Besu significantly differ. Mining is not very well supported in Besu. This client is supported by the ChainSafe, ETC Cooperative, and PegaSys teams as part of the Hyperledger project with funding from Grayscale's Ethereum Classic Trust.
+# Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. For Phoenix upgrade support, please use version 1.4.6-RC2 or later. Upgrade considerations, APIs between ParityEthereum and Besu significantly differ. Mining is not very well supported in Besu. This client is supported by the ChainSafe and ETC Cooperative teams as part of the Hyperledger project with funding from Grayscale's Ethereum Classic Trust.
 development/clients/clients/items__Hyperledger Besu__description: |-
   Hyperledger Besu est un client Ethereum conçu pour être convivial pour les cas d'utilisation de réseaux autorisés publics et privés. Pour la prise en charge de la mise à niveau Phoenix, veuillez utiliser la version v1.4.1 ou ultérieure. Considérations de mise à niveau, les API entre ParityEthereum et Besu diffèrent considérablement. L'exploitation minière n'est pas très bien supportée à Besu. Ce client est pris en charge par les équipes ChainSafe, ETC Cooperative et PegaSys dans le cadre du projet Hyperledger avec un financement de l'Ethereum Classic Trust de Grayscale.
 
@@ -59,7 +59,7 @@ development/clients/clients/items__Hyperledger Besu__description: |-
 development/clients/clients/items__Multi-Geth__name: |-
   Multi-Geth
 
-# A swiss army knife distribution of go-ethereum, with support for many species of Ethereum networks. For Phoenix upgrade support, please use version v1.9.14 or later. Upgrade considerations, a majority of the Multi-Geth maintainers forked to the Core-Geth client. This client is community maintained and supported by the CorePaper and Gödel Labs teams.
+# A swiss army knife distribution of go-ethereum, with support for many species of Ethereum networks. For Phoenix upgrade support, please use version v1.9.14 or later. Upgrade considerations, a majority of the Multi-Geth maintainers forked to the Core-Geth client. This client is community maintained and supported by the Core Paper and Gödel Labs teams.
 development/clients/clients/items__Multi-Geth__description: |-
   Une distribution au couteau suisse de go-ethereum, avec le soutien de nombreuses espèces de réseaux Ethereum. Pour la prise en charge de la mise à niveau Phoenix, veuillez utiliser la version v1.9.14 ou ultérieure. Considérations de mise à niveau, une majorité des mainteneurs Multi-Geth branchés au client Core-Geth. Ce client est géré par la communauté et pris en charge par les équipes CorePaper et Gödel Labs.
 
@@ -67,7 +67,7 @@ development/clients/clients/items__Multi-Geth__description: |-
 development/clients/clients/items__OpenEthereum__name: |-
   OpenEthereum
 
-# Fast and feature-rich multi-network Ethereum client. For Phoenix upgrade support, please use version v3.0.0 or later. Upgrade considerations, ParityEthereum is no longer being maintained by Parity Technologies and was handed over to Gnosis as the OpenEthereum project. This client is supported by the Gnosis team with funding from the Ethereum Foundation.
+# Fast and feature-rich multi-network Ethereum client. For Phoenix upgrade support, please use version v3.0.1 or later. Upgrade considerations, ParityEthereum is no longer being maintained by Parity Technologies and was handed over to Gnosis as the OpenEthereum project. This client is supported by the Gnosis team with funding from the Ethereum Foundation.
 development/clients/clients/items__OpenEthereum__description: |-
   Client Ethereum multi-réseaux rapide et riche en fonctionnalités. Pour la prise en charge de la mise à niveau Phoenix, veuillez utiliser la version v3.0.0 ou ultérieure. Considérations de mise à niveau, ParityEthereum n'est plus maintenu par Parity Technologies et a été remis à Gnosis en tant que projet OpenEthereum. Ce client est soutenu par l'équipe Gnosis avec un financement de la Fondation Ethereum.
 
@@ -79,7 +79,7 @@ development/clients/index/title: |-
 development/clients/index/description: |-
   Liens de téléchargement pour divers clients Ethereum Classic et outils de déploiement
 
-# Clients are used to sync with the Ethereum Classic network and verify blocks. Most users won't need to run a full node, but they allow those who do to trustlessly interact with the network. Ethereum Classic is scheduled for a network update in June, 2020. Here are detailed Ethereum Classic client [upgrade instructions](https://etccooperative.org/posts/2020-05-20-phoenix-hardfork).
+# Clients are used to sync with the Ethereum Classic network and verify blocks. Most users won't need to run a full node, but they allow those who do to trustlessly interact with the network. Ethereum Classic completed a network upgrade on June 1, 2020. Please update your node if you have not done so already. [Client Update Instructions](https://etccooperative.org/posts/2020-05-20-phoenix-hardfork).
 development/clients/index/intro: |-
   Les clients sont utilisés pour se synchroniser avec le réseau Ethereum Classic et vérifier les blocs. La plupart des utilisateurs n'auront pas besoin d'exécuter un nœud complet, mais ils permettent à ceux qui le font d'interagir en toute confiance avec le réseau. Ethereum Classic est prévu pour une mise à jour du réseau en juin 2020. Voici le client Ethereum Classic détaillé [instructions de mise à niveau](https://etccooperative.org/posts/2020-05-20-phoenix-hardfork).
 
@@ -91,9 +91,9 @@ development/clients/index/content__Public Endpoints__title: |-
 development/clients/index/content__Public Endpoints__description: |-
   Vous pouvez utiliser ces services pour vous connecter à ETC via JSON-RPC.
 
-# BlockScout
-development/clients/index/content__Public Endpoints__items__BlockScout__name: |-
-  BlockScout
+# BlockScout API
+development/clients/index/content__Public Endpoints__items__BlockScout API__name: |-
+  API BlockScout
 
 # Ethercluster
 development/clients/index/content__Public Endpoints__items__Ethercluster__name: |-
@@ -106,6 +106,10 @@ development/clients/index/content__Public Endpoints__items__Ethercluster (Kotti)
 # Ethercluster (Mordor)
 development/clients/index/content__Public Endpoints__items__Ethercluster (Mordor)__name: |-
   Ethercluster (Mordor)
+
+# TokenView API
+development/clients/index/content__Public Endpoints__items__TokenView API__name: |-
+  API TokenView
 
 # Node Tools
 development/clients/index/content__Node Tools__title: |-
@@ -146,6 +150,14 @@ development/clients/index/content__Node Tools__items__Google BigQuery__name: |-
 # Google Cloud released datasets consisting of the blockchain transaction history for Ethereum Classic, to help you better understand cryptocurrency. Also included a set of queries and views that map all blockchain datasets to a double-entry book data structure that enables multi-chain meta-analyses, as well as integration with conventional financial record processing systems.
 development/clients/index/content__Node Tools__items__Google BigQuery__description: |-
   Google Cloud a publié des ensembles de données comprenant l'historique des transactions de la chaîne de blocs pour Ethereum Classic, pour vous aider à mieux comprendre la crypto-monnaie. Également inclus un ensemble de requêtes et de vues qui mappent tous les ensembles de données de la chaîne de blocs à une structure de données de livre à double entrée qui permet des méta-analyses à chaînes multiples, ainsi que l'intégration avec les systèmes de traitement des dossiers financiers conventionnels.
+
+# Raspberry Pi Node
+development/clients/index/content__Node Tools__items__Raspberry Pi Node__name: |-
+  Noeud Raspberry Pi
+
+# A detailed guide for how to setup an Ethereum Classic node on a Raspberry Pi.
+development/clients/index/content__Node Tools__items__Raspberry Pi Node__description: |-
+  Un guide détaillé sur la configuration d'un nœud Ethereum Classic sur un Raspberry Pi.
 
 # QuikNode
 development/clients/index/content__Node Tools__items__QuikNode__name: |-
@@ -255,7 +267,7 @@ development/developer-tools/index/content__processors__items__Utrust__name: |-
 development/developer-tools/index/content__tooling__title: |-
   Outils de développement
 
-# A non-exhaustive selection of tools  that can aid development of Ethereum Classic applications.
+# A non-exhaustive selection of tools that can aid development of Ethereum Classic applications.
 development/developer-tools/index/content__tooling__description: |-
   Une sélection non exhaustive d'outils pouvant faciliter le développement d'applications Ethereum Classic.
 
@@ -446,6 +458,14 @@ development/guides/index/content__tutorials__items__Signatory Client__name: |-
 # Video Demo describes Signatory Client - a Do It Yourself hardware wallet that can be installed on a single-board computer, like Raspberry PI.
 development/guides/index/content__tutorials__items__Signatory Client__description: |-
   La vidéo de démonstration décrit Signatory Client - un portefeuille matériel Do It Yourself qui peut être installé sur un ordinateur à carte unique, comme Raspberry PI.
+
+# Raspberry Pi Node Setup Guide
+development/guides/index/content__tutorials__items__Raspberry Pi Node Setup Guide__name: |-
+  Guide de configuration du nœud Raspberry Pi
+
+# A detailed guide on how to setup an Ethereum node on a Raspberry Pi
+development/guides/index/content__tutorials__items__Raspberry Pi Node Setup Guide__description: |-
+  Un guide détaillé sur la configuration d'un nœud Ethereum sur un Raspberry Pi
 
 # CryptoZombies
 development/guides/index/content__tutorials__items__CryptoZombies__name: |-
@@ -951,6 +971,10 @@ development/mining-resources/pools/HashCity__name: |-
 development/mining-resources/pools/Hellominer__name: |-
   Hellominer
 
+# Hiveon
+development/mining-resources/pools/Hiveon__name: |-
+  Hiveon
+
 # HuobiPool
 development/mining-resources/pools/HuobiPool__name: |-
   HuobiPool
@@ -1018,6 +1042,10 @@ development/mining-resources/pools/NLpool__name: |-
 # Okex
 development/mining-resources/pools/Okex__name: |-
   Okex
+
+# Pool-Node
+development/mining-resources/pools/Pool-Node__name: |-
+  Pool-Node
 
 # Prohashing
 development/mining-resources/pools/Prohashing__name: |-
@@ -1531,25 +1559,105 @@ development/porting/index/title: |-
 development/porting/index/description: |-
   Outils utiles pour les développeurs qui ont une dApp en cours d'exécution sur ETH ou une autre chaîne à déployer sur ETC.
 
-# There are a few Ethereum Classic specific tools that are useful to know about if you are porting your ETH application over. All Web3.js frontend code is compatible with ETC as long as the provider RPC node being pointed to is an ETC instance. No changes to Solidity (.sol) code is necessary, ETH contracts run out of the box on ETC.
+# There are a few Ethereum Classic specific tools that are useful to know about if you are porting your ETH application over. All Web3.js frontend code is compatible with ETC as long as the provider RPC node being pointed to is an ETC instance. No changes to Solidity (.sol) code is necessary, ETH contracts run out of the box on ETC! Development tools like Remix and Truffle also work natively.
 development/porting/index/intro: |-
   Il existe quelques outils spécifiques à Ethereum Classic qui sont utiles pour savoir si vous portez votre application ETH. Tout le code frontal Web3.js est compatible avec ETC tant que le nœud RPC fournisseur pointé vers est une instance ETC. Aucune modification du code Solidity (.sol) n'est nécessaire, les contrats ETH sont prêts à l'emploi sur ETC.
 
-# Nifty Wallet (similar to Metamask)
+# BUIDL IDE
+development/porting/index/content__links__items__BUIDL IDE__name: |-
+  BUIDL IDE
+
+# Second State BUIDL IDE is a web-based IDE that requires no software download or install. It provides a one-stop development and deployment environment for smart contract and dapp developers.
+development/porting/index/content__links__items__BUIDL IDE__description: |-
+  Second State BUIDL IDE est un IDE basé sur le Web qui ne nécessite aucun téléchargement ni installation de logiciel. Il fournit un environnement de développement et de déploiement à guichet unique pour les développeurs de contrats intelligents et dapp.
+
+# Commonwealth.gg
+development/porting/index/content__links__items__Commonwealth.gg__name: |-
+  Commonwealth.gg
+
+# An open source Hourglass contract similar to original P3D built on Ethereum Classic. Can be leveraged with applications that incentivize user participation via dividends.
+development/porting/index/content__links__items__Commonwealth.gg__description: |-
+  Un contrat de sablier open source similaire au P3D original construit sur Ethereum Classic. Peut être exploité avec des applications qui encouragent la participation des utilisateurs.
+
+# DappDirect.net
+development/porting/index/content__links__items__DappDirect.net__name: |-
+  DappDirect.net (similaire à DappRadar)
+
+# A dApp aggregator that is free to submit to and allows users/developers to discover and track key metrics of mainnet Ethereu Classic dApps.
+development/porting/index/content__links__items__DappDirect.net__description: |-
+  Un agrégateur de dApp qui est libre de soumettre à et permet aux utilisateurs/développeurs de découvrir et de suivre les mesures clés des dApps ETC mainnet.
+
+# Ethercluster
+development/porting/index/content__links__items__Ethercluster__name: |-
+  Ethercluster
+
+# A freely available Ethereum Classic node endpoint. Ethercluster is an open-source alternative to Infura. Accessible as a Web3 RPC provider at `https://www.ethercluster.com/etc`
+development/porting/index/content__links__items__Ethercluster__description: |-
+  Un noeud final de nœud Ethereum Classic disponible gratuitement. Ethercluster est une alternative open source à Infura. Accessible en tant que fournisseur Web3 RPC sur `https://www.ethercluster.com/etc`
+
+# EVM-LLVM
+development/porting/index/content__links__items__EVM-LLVM__name: |-
+  EVM-LLVM
+
+# Not only can developers use a large scope of programming languages (Rust for smart contracts!) other than Solidity to target the Ethereum Virtual Machine (EVM), they can also immediately benefit from various development tools built around LLVM infrastructure.
+development/porting/index/content__links__items__EVM-LLVM__description: |-
+  Les développeurs peuvent non seulement utiliser un large éventail de langages de programmation (Rust pour les contrats intelligents!) Autres que Solidity pour cibler la machine virtuelle Ethereum (EVM), mais ils peuvent également bénéficier immédiatement de divers outils de développement construits autour de l'infrastructure LLVM.
+
+# Jade Suite
+development/porting/index/content__links__items__Jade Suite__name: |-
+  Suite Jade
+
+# The Jade suite of tools empowers developers to create peer-to-peer decentralized applications on top of EVM-based blockchains like Ethereum Classic.
+development/porting/index/content__links__items__Jade Suite__description: |-
+  La suite d'outils Jade permet aux développeurs de créer des applications décentralisées peer-to-peer sur des chaînes de blocs basées sur EVM comme Ethereum Classic.
+
+# Nifty Wallet
 development/porting/index/content__links__items__Nifty Wallet__name: |-
   Portefeuille Nifty (similaire à Metamask)
 
-# An open source fork of Metamask that allows usage of the ETC Network. Make sure Metamask is disabled in Chrome when Nifty is in use. Can be used along with Remix IDE to quickly deploy contracts to ETC.
+# An open-source web3 wallet that allows usage of the Ethereum classic network. Make sure Metamask is disabled in Chrome when Nifty is in use. Nifty is compatible with most Ethereum IDEs.
 development/porting/index/content__links__items__Nifty Wallet__description: |-
   Un fork open source de Metamask qui permet l'utilisation du réseau ETC. Assurez-vous que Metamask est désactivé dans Chrome lorsque Nifty est en cours d'utilisation. Peut être utilisé avec Remix IDE pour déployer rapidement des contrats sur ETC.
+
+# Metamask
+development/porting/index/content__links__items__Metamask__name: |-
+  Métamask
+
+# The most popular web3 wallet. It is possible to configure Metamask for the Ethereum Classic network with the "Custom Network" fields set to **Custom URL** set to`https://www.ethercluster.com/etc` and **Chain ID** set to`61`.
+development/porting/index/content__links__items__Metamask__description: |-
+  Le portefeuille Web3 le plus populaire. Il est possible de configurer Metamask pour le réseau Ethereum Classic avec les champs "Custom Network" définis sur ** Custom URL ** défini sur`https://www.ethercluster.com/etc` et ** Chain ID ** défini sur «61».
+
+# Remix IDE
+development/porting/index/content__links__items__Remix IDE__name: |-
+  Remix IDE
+
+# Remix IDE is a development environment for deploying smart contracts to ETC and ETH. It includes a Solidity compiler, debugger, and smart contract deployer. Use with an active browser wallet to deploy your contracts to ETC mainnet.
+development/porting/index/content__links__items__Remix IDE__description: |-
+  Remix IDE est un environnement de développement pour le déploiement de contrats intelligents sur ETC et ETH. Il comprend un compilateur Solidity, un débogueur et un déployeur de contrat intelligent. À utiliser avec un portefeuille de navigateur actif pour déployer vos contrats sur le réseau principal ETC.
+
+# Saturn.network
+development/porting/index/content__links__items__Saturn.network__name: |-
+  Saturn.network (similaire à Forkdelta)
+
+# A decentralized exchange (DEX), useful for listing ERC20 or ERC223 tokens for sale on the Ethereum Classic network.
+development/porting/index/content__links__items__Saturn.network__description: |-
+  Un échange de jetons complètement décentralisé (DEX), utile pour répertorier les jetons ERC20 ou ERC223 à vendre sur le réseau ETC.
 
 # Saturn Wallet (similar to Metamask)
 development/porting/index/content__links__items__Saturn Wallet__name: |-
   Portefeuille Saturn (similaire à Metamask)
 
-# Similar to Nifty Wallet, but closed source. Works on Chrome and Firefox. Make sure Metamask is disabled when Saturn Wallet is in use.
+# A closed-source web3 wallet. Works on Chrome and Firefox. Make sure other web3 wallets like Nifty or MetMask are disabled when Saturn Wallet is in use.
 development/porting/index/content__links__items__Saturn Wallet__description: |-
   Similaire à Nifty Wallet, mais à source fermée. Fonctionne sur Chrome et Firefox. Assurez-vous que le métamask est désactivé lorsque le portefeuille Saturn est utilisé.
+
+# SOLL
+development/porting/index/content__links__items__SOLL__name: |-
+  SOLL
+
+# The LLVM compiler is finally coming to Solidity. With it, we can easily create smart contracts across multiple blockchain VMs. The EVM on Ethereum Classic and ETH 2.0's eWASM are among the first we support.
+development/porting/index/content__links__items__SOLL__description: |-
+  Le compilateur LLVM arrive enfin sur Solidity. Avec lui, nous pouvons facilement créer des contrats intelligents sur plusieurs machines virtuelles blockchain. L'EVM sur Ethereum Classic et l'eWASM d'ETH 2.0 sont parmi les premiers que nous prenons en charge.
 
 # Trust Wallet (Mobile dApp Browser)
 development/porting/index/content__links__items__Trust Wallet__name: |-
@@ -1558,38 +1666,6 @@ development/porting/index/content__links__items__Trust Wallet__name: |-
 # An open source, multi-currency, Web3 mobile wallet. Has been tested and confirmed to work properly with ETC dApps.
 development/porting/index/content__links__items__Trust Wallet__description: |-
   Un portefeuille mobile Web3 multi-devises open source. A été testé et confirmé pour fonctionner correctement avec les dApps ETC.
-
-# Ether Cluster (similar to Infura)
-development/porting/index/content__links__items__Ether Cluster__name: |-
-  Ether Cluster (similaire à Infura)
-
-# A freely available ETC Node endpoint. Accessible as a Web3 RPC provider at `https://www.ethercluster.com/etc`
-development/porting/index/content__links__items__Ether Cluster__description: |-
-  Un noeud final ETC Node disponible gratuitement. Accessible en tant que fournisseur Web3 RPC sur `https://www.ethercluster.com/etc`
-
-# DappDirect.net (similar to DappRadar)
-development/porting/index/content__links__items__DappDirect.net__name: |-
-  DappDirect.net (similaire à DappRadar)
-
-# A dApp aggregator that is free to submit to and allows users/develoeprs to discover and track key metrics of mainnet ETC dApps.
-development/porting/index/content__links__items__DappDirect.net__description: |-
-  Un agrégateur de dApp qui est libre de soumettre à et permet aux utilisateurs/développeurs de découvrir et de suivre les mesures clés des dApps ETC mainnet.
-
-# Saturn.network (similar to Forkdelta)
-development/porting/index/content__links__items__Saturn.network__name: |-
-  Saturn.network (similaire à Forkdelta)
-
-# A completely decentralized token exchange (DEX), useful for listing ERC20 or ERC223 tokens for sale on the ETC network.
-development/porting/index/content__links__items__Saturn.network__description: |-
-  Un échange de jetons complètement décentralisé (DEX), utile pour répertorier les jetons ERC20 ou ERC223 à vendre sur le réseau ETC.
-
-# Commonwealth.gg
-development/porting/index/content__links__items__Commonwealth.gg__name: |-
-  Commonwealth.gg
-
-# An open source Hourglass contract similar to original P3D built on Ethereum Classic. Can be leveraged with applications that incentivize user participation.
-development/porting/index/content__links__items__Commonwealth.gg__description: |-
-  Un contrat de sablier open source similaire au P3D original construit sur Ethereum Classic. Peut être exploité avec des applications qui encouragent la participation des utilisateurs.
 
 # Development
 development/section.global/title: |-
@@ -1794,6 +1870,14 @@ ecosystem/apps-and-protocols/apps/items__Token Bridge__name: |-
 # The TokenBridge allows users to transfer data (e.g. digital asset ownership information) between two chains in the Ethereum ecosystem. Cross-chain bridges provide fast and secure connections between blockchains, creating scalability and connection - interoperability - between Ethereum EVM networks.
 ecosystem/apps-and-protocols/apps/items__Token Bridge__text: |-
   Le TokenBridge permet aux utilisateurs de transférer des données (par exemple des informations sur la propriété des actifs numériques) entre deux chaînes de l'écosystème Ethereum. Les ponts inter-chaînes fournissent des connexions rapides et sécurisées entre les chaînes de blocs, créant une évolutivité et une connexion - interopérabilité - entre les réseaux Ethereum EVM.
+
+# Celsius Network
+ecosystem/apps-and-protocols/apps/items__Celsius Network__name: |-
+  Réseau Celsius
+
+# Celsius Network, the industry-leading cryptocurrency interest-earning platform, allows ETC holders to deposit their digital assets into the Celsius wallet and earn interests.
+ecosystem/apps-and-protocols/apps/items__Celsius Network__text: |-
+  Celsius Network, la plate-forme de premier plan rémunératrice de crypto-monnaie, permet aux détenteurs de CTE de déposer leurs actifs numériques dans le portefeuille Celsius et de gagner des intérêts.
 
 # Commonwealth
 ecosystem/apps-and-protocols/apps/items__Commonwealth__name: |-
@@ -2363,6 +2447,10 @@ ecosystem/exchanges/index/content__instant__items__ALFACashier__name: |-
 ecosystem/exchanges/index/content__instant__items__AtomicWallet__name: |-
   AtomicWallet
 
+# Bitni
+ecosystem/exchanges/index/content__instant__items__Bitni__name: |-
+  Bitni
+
 # BitTorro
 ecosystem/exchanges/index/content__instant__items__BitTorro__name: |-
   BitTorro
@@ -2434,6 +2522,10 @@ ecosystem/exchanges/index/content__instant__items__StealthEx__name: |-
 # SwapSpace
 ecosystem/exchanges/index/content__instant__items__SwapSpace__name: |-
   SwapSpace
+
+# SwapSwop
+ecosystem/exchanges/index/content__instant__items__SwapSwop__name: |-
+  SwapSwop
 
 # Swapzone
 ecosystem/exchanges/index/content__instant__items__Swapzone__name: |-
@@ -3047,10 +3139,6 @@ ecosystem/teams/index/content__table__items__Core Paper__name: |-
 ecosystem/teams/index/content__table__items__Second State__name: |-
   Deuxième état
 
-# PegaSys
-ecosystem/teams/index/content__table__items__PegaSys__name: |-
-  PegaSys
-
 # Gödel Labs 哥德尔实验室
 ecosystem/teams/index/content__table__items__Gödel Labs__name: |-
   Gödel Labs 哥德尔 实验室
@@ -3266,6 +3354,10 @@ ecosystem/wallets/index/content__software__items__Midas Protocol__name: |-
 # Ownbit
 ecosystem/wallets/index/content__software__items__Ownbit__name: |-
   Ownbit
+
+# Tokenview
+ecosystem/wallets/index/content__software__items__Tokenview__name: |-
+  Tokenview
 
 # Trust Wallet
 ecosystem/wallets/index/content__software__items__Trust Wallet__name: |-
@@ -3709,353 +3801,177 @@ knowledge/roadmap/roadmap/title: |-
 knowledge/roadmap/roadmap/description: |-
   Un aperçu des étapes importantes du développement du protocole pour l'année 2020, y compris les faits saillants de la [Feuille de route ETC Core 2020](https://medium.com/etc-core/etc-core-2020-roadmap-announcement-c2166cdbc53d).
 
-# Q1
-knowledge/roadmap/roadmap/items__parityRoughConsensus__dateString: |-
-  Q1
-
 # Ethereum Classic core developers maintain rough consensus for the collaborative effort of achieving operational parity with sister chain Ethereum (ETH).
 knowledge/roadmap/roadmap/items__parityRoughConsensus__text: |-
   Les développeurs principaux d'Ethereum Classic maintiennent un consensus approximatif pour l'effort de collaboration visant à atteindre la parité opérationnelle avec la chaîne sœur Ethereum (ETH).
-
-# January 10
-knowledge/roadmap/roadmap/items__vyperlang-ETC__dateString: |-
-  10 janvier
 
 # The ETC Cooperative to help contribute to the codebase of Vyper in collaboration with Ben Hauser who implemented the changes necessary into Vyper in order to allow us to target multiple versions of the EVM in order to have it working with ETC.
 knowledge/roadmap/roadmap/items__vyperlang-ETC__text: |-
   La coopérative ETC pour contribuer à la base de code de Vyper en collaboration avec Ben Hauser qui a mis en œuvre les modifications nécessaires dans Vyper afin de nous permettre de cibler plusieurs versions de l'EVM afin de le faire fonctionner avec ETC.
 
-# January 11
-knowledge/roadmap/roadmap/items__agharta-Mainnet__dateString: |-
-  11 janvier
-
 # Ethereum Classic core developers implement ETH's Constaninople and Petersburg network protocol upgrades to maintain operational parity with its sister chain.
 knowledge/roadmap/roadmap/items__agharta-Mainnet__text: |-
   Les développeurs principaux d'Ethereum Classic mettent en œuvre les mises à niveau du protocole de réseau d'ETH Constaninople et Petersburg pour maintenir la parité opérationnelle avec sa chaîne sœur.
-
-# January 31
-knowledge/roadmap/roadmap/items__evm-llvm-Alpha__dateString: |-
-  31 janvier
 
 # Second State, Vyperlang, and other teams are implementing or experimenting in bringing LLVM infrastructure to the EthereumStack. This is an alpha version of the EVM LLVM. It includes the complete, working LLVM backend pipeline for generating EVM binaries. Optimizations are limited. https://github.com/etclabscore/evm_llvm/releases/tag/v0.5_alpha
 knowledge/roadmap/roadmap/items__evm-llvm-Alpha__text: |-
   Second State, Vyperlang et d'autres équipes implémentent ou expérimentent pour apporter une infrastructure LLVM à EthereumStack. Il s'agit d'une version alpha de l'EVM LLVM. Il comprend le pipeline backend LLVM complet et fonctionnel pour générer des binaires EVM. Les optimisations sont limitées. https://github.com/etclabscore/evm_llvm/releases/tag/v0.5_alpha
 
-# February 4
-knowledge/roadmap/roadmap/items__coreGeth-Launch__dateString: |-
-  4 février
-
 # CoreGeth: An Ethereum Protocol Provider. Priority is given to reducing opinions around chain configuration, IP-based feature implementations, and API predictability. Upstream development from ethereum/go-ethereum is merged to this repository regularly, usually at every upstream tagged release. Every effort is made to maintain seamless compatibility with upstream source, including compatible RPC, JS, and CLI APIs, data storage locations and schemas, and, of course, interoperable node protocols. Applicable bug reports, bug fixes, features, and proposals should be made upstream whenever possible.
 knowledge/roadmap/roadmap/items__coreGeth-Launch__text: |-
   CoreGeth: un fournisseur de protocole Ethereum. La priorité est donnée à la réduction des opinions sur la configuration de la chaîne, les implémentations de fonctionnalités basées sur IP et la prévisibilité des API. Le développement en amont depuis ethereum/go-ethereum est régulièrement fusionné avec ce référentiel, généralement à chaque libération en amont étiquetée. Tous les efforts sont faits pour maintenir une compatibilité transparente avec la source en amont, y compris les API RPC, JS et CLI compatibles, les emplacements et les schémas de stockage de données et, bien sûr, les protocoles de nœuds interopérables. Les rapports de bogues, les corrections de bogues, les fonctionnalités et les propositions applicables doivent être faits en amont chaque fois que possible.
-
-# February 12
-knowledge/roadmap/roadmap/items__ecip-1050__dateString: |-
-  12 février
 
 # ECIP 1050: Status Codes moves to Final status. This standard outlines a common set of Status Codes in the same vein as HTTP statuses. This provides a shared set of signals to allow smart contracts to react to situations autonomously, expose localized error messages to users, and so on. https://ecips.ethereumclassic.org/ECIPs/ecip-1050
 knowledge/roadmap/roadmap/items__ecip-1050__text: |-
   ECIP 1050: les codes d'état passent à l'état final. Cette norme décrit un ensemble commun de codes d'état dans la même veine que les états HTTP. Cela fournit un ensemble partagé de signaux pour permettre aux contrats intelligents de réagir aux situations de manière autonome, d'exposer des messages d'erreur localisés aux utilisateurs, etc. https://ecips.ethereumclassic.org/ECIPs/ecip-1050
 
-# February 20
-knowledge/roadmap/roadmap/items__aztlan-Testnets__dateString: |-
-  20 février
-
 # During Aztlán testnet implementations, Ethereum Classic core developers discover complications with ECIP 1061 and 1078 specs to add ETH's Istanbul network protocol upgrade. Meowbits of ETC Core documents the findings. As intended, the ETC testnets catch the issues and core developers go back to the drawing board.
 knowledge/roadmap/roadmap/items__aztlan-Testnets__text: |-
   Pendant les implémentations de testnet Aztlán, les développeurs du noyau Ethereum Classic découvrent des complications avec les spécifications ECIP 1061 et 1078 pour ajouter la mise à niveau du protocole de réseau ETH d'Istanbul. Meowbits d'ETC Core documente les résultats. Comme prévu, les réseaux de test ETC détectent les problèmes et les développeurs principaux retournent à la planche à dessin.
-
-# February 26
-knowledge/roadmap/roadmap/items__phoenix-ReSpec__dateString: |-
-  26 février
 
 # Ethereum Classic core developers reach rough consensus on ECIP-1088 in an effort to implement ETH's Istanbul network protocol upgrade. Testnet implementations revealed issues with prior attempts in specs ECIP-1061 and ECIP-1078.
 knowledge/roadmap/roadmap/items__phoenix-ReSpec__text: |-
   Les développeurs principaux d'Ethereum Classic parviennent à un consensus approximatif sur ECIP-1088 dans le but de mettre en œuvre la mise à niveau du protocole de réseau ETH d'Istanbul. Les implémentations de Testnet ont révélé des problèmes avec des tentatives antérieures dans les spécifications ECIP-1061 et ECIP-1078.
 
-# March 4
-knowledge/roadmap/roadmap/items__coreGeth-Phoenix__dateString: |-
-  4 mars
-
 # Core-Geth implements block activation values for ECIP1088, Ethereum Classic's planned Phoenix hard fork upgrade. Please upgrade to version v1.11.0 or later for Phoenix support for ETC. https://github.com/etclabscore/core-geth/releases
 knowledge/roadmap/roadmap/items__coreGeth-Phoenix__text: |-
   Core-Geth implémente des valeurs d'activation de bloc pour ECIP1088, la mise à niveau prévue de la fourche dure Phoenix d'Ethereum Classic. Veuillez mettre à niveau vers la version v1.11.0 ou ultérieure pour la prise en charge de Phoenix pour ETC. https://github.com/etclabscore/core-geth/releases
-
-# March 9
-knowledge/roadmap/roadmap/items__phoenix-Mordor-testnet__dateString: |-
-  9 mars
 
 # Phoenix testing begins on the Mordor PoW testnet on block 999,983. Core development teams have signaled that this is a complex implementation. Testing may uncover issues that delay this network upgrade, but Ethereum Classic will never rush to upgrade the mainnet. Network security is priority over development speed and arbitary timelines. https://expedition.dev/?network=mordor
 knowledge/roadmap/roadmap/items__phoenix-Mordor-testnet__text: |-
   Les tests de Phoenix commencent sur le réseau de test Mordor PoW sur le bloc 999,983. Les équipes de développement de base ont signalé qu'il s'agit d'une mise en œuvre complexe. Les tests peuvent révéler des problèmes qui retardent cette mise à niveau du réseau, mais Ethereum Classic ne se précipitera jamais pour mettre à niveau le réseau principal. La sécurité du réseau est prioritaire sur la vitesse de développement et les délais arbitraires. https://expedition.dev/?network=mordor
 
-# March 12
-knowledge/roadmap/roadmap/items__besu-Phoenix__dateString: |-
-  12 mars
-
 # Hyperledger Besu implemented ECIP-1088: Phoenix EVM and Protocol upgrades. Please upgrade to version v1.4.1 or later for Phoenix support for ETC. https://github.com/hyperledger/besu/releases
 knowledge/roadmap/roadmap/items__besu-Phoenix__text: |-
   Hyperledger Besu a implémenté ECIP-1088: Mises à jour Phoenix EVM et Protocol. Veuillez mettre à niveau vers la version v1.4.1 ou ultérieure pour la prise en charge de Phoenix pour ETC. https://github.com/hyperledger/besu/releases
-
-# March 14
-knowledge/roadmap/roadmap/items__gitcoin-ETC__dateString: |-
-  14 mars
 
 # Developer bounty platform Gitcoin has partnered with Ethereum Classic Labs to offer bounties in ETC.
 knowledge/roadmap/roadmap/items__gitcoin-ETC__text: |-
   La plateforme de primes pour développeurs Gitcoin s'est associée à Ethereum Classic Labs pour offrir des primes dans ETC.
 
-# March 17
-knowledge/roadmap/roadmap/items__5m20-Era3-Mainnet__dateString: |-
-  le 17 mars
-
 # March 17 2020, Ethereum Classic's block rewards are reduced by 20% to 3.2 ETC per block per the bitcoin-inspired 5M20 emission schedule.
 knowledge/roadmap/roadmap/items__5m20-Era3-Mainnet__text: |-
   Le 17 mars 2020, les récompenses de bloc d'Ethereum Classic sont réduites de 20% à 3,2 ETC par bloc selon le calendrier d'émission 5M20 inspiré du bitcoin.
-
-# March 20
-knowledge/roadmap/roadmap/items__phoenix-Kotti-recover__dateString: |-
-  le 20 mars
 
 # The Kotti PoA testnet is successfully recovered after Aztlán implementations. The signers coordinate and regain consensus in anticipation for a successful Phoenix implementation. https://expedition.dev/?network=kotti
 knowledge/roadmap/roadmap/items__phoenix-Kotti-recover__text: |-
   Le testnet Kotti PoA est récupéré avec succès après les implémentations d'Aztlán. Les signataires coordonnent et retrouvent un consensus en prévision d'une mise en œuvre réussie de Phoenix. https://expedition.dev/?network=kotti
 
-# March 31
-knowledge/roadmap/roadmap/items__Website-2020-Content__dateString: |-
-  31 mars
-
 # EthereumClassic.org website modernization project goes live with updated 2020 content. https://ethereumclassic.org/blog
 knowledge/roadmap/roadmap/items__Website-2020-Content__text: |-
   Le projet de modernisation du site Web EthereumClassic.org est mis en ligne avec un contenu 2020 mis à jour. https://ethereumclassic.org/blog
-
-# Q2
-knowledge/roadmap/roadmap/items__rss-Feeds__dateString: |-
-  Q2
 
 # EthereumClassic.org website modernization project goes live with a goal of providing accurate ETC content and automated information dissemination lines to the greater cryptocurrency ecosystem. https://ethereumclassic.org/news
 knowledge/roadmap/roadmap/items__rss-Feeds__text: |-
   Le projet de modernisation du site Web EthereumClassic.org est mis en ligne dans le but de fournir un contenu ETC précis et des lignes de diffusion d'informations automatisées à l'écosystème de la crypto-monnaie. https://ethereumclassic.org/news
 
-# April 3
-knowledge/roadmap/roadmap/items__Website-2020-Phoenix__dateString: |-
-  3 avril
-
 # EthereumClassic.org website modernization project goes live with the Phoenix theme. https://ethereumclassic.org
 knowledge/roadmap/roadmap/items__Website-2020-Phoenix__text: |-
   Le projet de modernisation du site Web EthereumClassic.org est mis en ligne avec le thème Phoenix. https://ethereumclassic.org
-
-# April 5
-knowledge/roadmap/roadmap/items__multigeth-Phoenix__dateString: |-
-  5 avril
 
 # Multi-Geth implements support for the Phoenix hard fork on Ethereum Classic mainnet, at block 10,500,839, scheduled around the beginning of June, 2020. Please upgrade to version v1.9.14 or later for Phoenix support for ETC. https://github.com/multi-geth/multi-geth/releases
 knowledge/roadmap/roadmap/items__multigeth-Phoenix__text: |-
   Multi-Geth implémente la prise en charge de la fourche dure Phoenix sur le réseau principal Ethereum Classic, au bloc 10 500 839, prévue vers le début de juin 2020. Veuillez mettre à niveau vers la version v1.9.14 ou ultérieure pour la prise en charge de Phoenix pour ETC. https://github.com/multi-geth/multi-geth/releases
 
-# April 15
-knowledge/roadmap/roadmap/items__phoenix-Kotti-testnet__dateString: |-
-  15 avril
-
 # Phoenix testing begins on the Kotti PoA testnet on block 2,200,013. Core development teams have signaled that this is a complex implementation. Testing may uncover issues that delay this network upgrade, but Ethereum Classic will never rush to upgrade the mainnet. Network security is priority over development speed and arbitary timelines. https://expedition.dev/?network=mordor
 knowledge/roadmap/roadmap/items__phoenix-Kotti-testnet__text: |-
   Les tests de Phoenix commencent sur le réseau de test Kotti PoA sur le bloc 2 200 013. Les équipes de développement de base ont signalé qu'il s'agit d'une mise en œuvre complexe. Les tests peuvent révéler des problèmes qui retardent cette mise à niveau du réseau, mais Ethereum Classic ne se précipitera jamais pour mettre à niveau le réseau principal. La sécurité du réseau est prioritaire sur la vitesse de développement et les délais arbitraires. https://expedition.dev/?network=mordor
-
-# Q2
-knowledge/roadmap/roadmap/items__improve-Documentation__dateString: |-
-  Q2
 
 # Improve ETC specific documentation and add to the website for end user consumption. https://ethereumclassic.org/development/guides
 knowledge/roadmap/roadmap/items__improve-Documentation__text: |-
   Améliorez la documentation spécifique à ETC et ajoutez-la au site Web pour la consommation de l'utilisateur final. https://ethereumclassic.org/development/guides
 
-# May
-knowledge/roadmap/roadmap/items__phoenix-awareness__dateString: |-
-  Mai
-
 # Core development teams have signaled that this upgrade has successfully passed testing analysis on the Mordor and Kotti testnets. Ethereum Classic will never rush to upgrade the mainnet. Network security is priority over development speed and arbitary timelines. The ETC miners, wallets, exchanges, payment processors begin updated their clients for the Phoenix Upgrade. https://medium.com/etc-core/top-miners-confirmed-to-support-phoenix-ethereum-classic-hard-fork-phoenix-status-update-bc8964424fd4
 knowledge/roadmap/roadmap/items__phoenix-awareness__text: |-
   Les équipes de développement principales ont signalé que cette mise à niveau avait réussi les analyses de test sur les réseaux de test Mordor et Kotti. Ethereum Classic ne se précipitera jamais pour mettre à niveau le réseau principal. La sécurité du réseau est prioritaire sur la vitesse de développement et les délais arbitraires. Les mineurs ETC, les portefeuilles, les échanges, les processeurs de paiement commencent à mettre à jour leurs clients pour la mise à niveau Phoenix. https://medium.com/etc-core/top-miners-confirmed-to-support-phoenix-ethereum-classic-hard-fork-phoenix-status-update-bc8964424fd4
 
-# June 3
-knowledge/roadmap/roadmap/items__phoenix-mainnet__dateString: |-
-  3 juin
-
-# Phoenix activates on Ethereum Classic mainnet on block 10,500,839. Core development teams have signaled that this upgrade has successfully passed testing analysis on the Mordor and Kotti testnets. https://blockscout.com/etc/mainnet
+# Phoenix activates on Ethereum Classic mainnet on block 10,500,839. Core development teams have signaled that this upgrade has successfully passed testing analysis on the Mordor and Kotti testnets. https://ethereumclassic.org/blog/2020-06-01-phoenix-hard-fork-upgrade/
 knowledge/roadmap/roadmap/items__phoenix-mainnet__text: |-
   Phoenix s'active sur le réseau principal Ethereum Classic sur le bloc 10,500,839. Les équipes de développement principales ont signalé que cette mise à niveau avait réussi les analyses de test sur les réseaux de test Mordor et Kotti. https://blockscout.com/etc/mainnet
-
-# Q2
-knowledge/roadmap/roadmap/items__website-internationalization__dateString: |-
-  Q2
 
 # Reach out to the non-english ETC social channels to translate the English version of https://ethereumclassic.org/
 knowledge/roadmap/roadmap/items__website-internationalization__text: |-
   Contactez les canaux sociaux ETC non anglais pour traduire la version anglaise de https://ethereumclassic.org/
 
-# Q3
-"knowledge/roadmap/roadmap/items__Implementation: Instruction__dateString": |-
-  Q3
-
 # LLVM Instruction scheduler and performance optimizations
 "knowledge/roadmap/roadmap/items__Implementation: Instruction__text": |-
   Planificateur d'instructions LLVM et optimisations des performances
-
-# Q3
-knowledge/roadmap/roadmap/items__Connext State Channels__dateString: |-
-  Q3
 
 # Add Connext state channels support. The goal is to have Connext ETC channels live in 2020.
 knowledge/roadmap/roadmap/items__Connext State Channels__text: |-
   Ajout de la prise en charge des canaux d'état Connext. L'objectif est d'avoir des chaînes ETC Connext en direct en 2020.
 
-# Q3
-knowledge/roadmap/roadmap/items__JSON-RPC devp2p__dateString: |-
-  Q3
-
 # JSON-RPC devp2p Wire protocol specification and reference implementation research and possible design
 knowledge/roadmap/roadmap/items__JSON-RPC devp2p__text: |-
   JSON-RPC devp2p Spécification du protocole filaire et recherche d'implémentation de référence et conception possible
-
-# Q3
-knowledge/roadmap/roadmap/items__Network Monitors__dateString: |-
-  Q3
 
 # Add fork monitor and ethstats dashboards to EthereumClassic.org
 knowledge/roadmap/roadmap/items__Network Monitors__text: |-
   Ajouter des tableaux de bord Fork Monitor et Ethstats à EthereumClassic.org
 
-# Q3
-knowledge/roadmap/roadmap/items__Long-term Development Resources__dateString: |-
-  Q3
-
 # Long-term Development Resources Discussion: Public Good Network Protocols, Fund Disbursement Methods, DAO fund allocation.
 knowledge/roadmap/roadmap/items__Long-term Development Resources__text: |-
   Discussion sur les ressources de développement à long terme: protocoles de réseaux de biens publics, méthodes de décaissement des fonds, allocation des fonds DAO.
-
-# Q3
-knowledge/roadmap/roadmap/items__Updates to ECIP__dateString: |-
-  Q3
 
 # Updates to ECIP process via ECIP-1000 discussion
 knowledge/roadmap/roadmap/items__Updates to ECIP__text: |-
   Mises à jour du processus ECIP via la discussion ECIP-1000
 
-# Q3
-knowledge/roadmap/roadmap/items__Developer Marketing__dateString: |-
-  Q3
-
 # Work on 1-2 major technical projects that use ETC as a part of developer marketing
 knowledge/roadmap/roadmap/items__Developer Marketing__text: |-
   Travailler sur 1 à 2 grands projets techniques utilisant l'ETC dans le cadre du marketing développeur
-
-# Q3
-knowledge/roadmap/roadmap/items__ethereum-Berlin__dateString: |-
-  Q3
 
 # Review Ethereum Berlin for operational parity with Ethereum Classic.
 knowledge/roadmap/roadmap/items__ethereum-Berlin__text: |-
   Passez en revue Ethereum Berlin pour la parité opérationnelle avec Ethereum Classic.
 
-# Q3
-knowledge/roadmap/roadmap/items__Gas Range Discussion__dateString: |-
-  Q3
-
 # Gas Range Discussion: Upper and Lower Bounds
 knowledge/roadmap/roadmap/items__Gas Range Discussion__text: |-
   Discussion sur la gamme de gaz: limites supérieure et inférieure
-
-# Q4
-knowledge/roadmap/roadmap/items__astor-Testing__dateString: |-
-  Q4
 
 # Astor experimental testnet SHA3 consensus algo research review
 knowledge/roadmap/roadmap/items__astor-Testing__text: |-
   Astor expérimental testnet SHA3 consensus algo recherche examen
 
-# Q4
-knowledge/roadmap/roadmap/items__EVM LLVM beta__dateString: |-
-  Q4
-
 # EVM-LLVM Official beta release
 knowledge/roadmap/roadmap/items__EVM LLVM beta__text: |-
   EVM-LLVM Version bêta officielle
-
-# Q4
-"knowledge/roadmap/roadmap/items__Implementation: Embedded__dateString": |-
-  Q4
 
 # EVM-LLVM Implementation: Embedded assembly and exception handling
 "knowledge/roadmap/roadmap/items__Implementation: Embedded__text": |-
   Implémentation EVM-LLVM: assemblage intégré et gestion des exceptions
 
-# Q4
-knowledge/roadmap/roadmap/items__Feature Complete Upgrade__dateString: |-
-  Q4
-
 # Successful upgrade of the ETC network to a further hardfork in Q4 2020 (unless delayed) which will address the remaining blockers to ETC being considered feature complete
 knowledge/roadmap/roadmap/items__Feature Complete Upgrade__text: |-
   Mise à niveau réussie du réseau ETC vers une autre hardfork au quatrième trimestre 2020 (sauf retard) qui adressera les bloqueurs restants à ETC étant considéré comme une fonctionnalité terminée
-
-# Q4
-knowledge/roadmap/roadmap/items__ETL Tooling patterns__dateString: |-
-  Q4
 
 # ETL Tooling patterns and research into providing support for cross-chain transaction transforms
 knowledge/roadmap/roadmap/items__ETL Tooling patterns__text: |-
   ETL Tooling patterns et recherche sur la prise en charge des transformations de transactions entre chaînes
 
-# Q4
-knowledge/roadmap/roadmap/items__Anchor Projects__dateString: |-
-  Q4
-
 # Attract 5 prestige anchor tenant projects from the Ethereum ecosystem. Note that attendence at conferences will level off after Q1 due to Coronavirus
 knowledge/roadmap/roadmap/items__Anchor Projects__text: |-
   Attirez 5 projets de locataires d'ancrage de prestige de l'écosystème Ethereum. Notez que la participation aux conférences se stabilisera après le premier trimestre en raison du coronavirus
-
-# Q4
-knowledge/roadmap/roadmap/items__Mining Algorithm Discussion__dateString: |-
-  Q4
 
 # Mining Algorithm Discussion: Astor SHA3 Change, DAG reduction, No Change
 knowledge/roadmap/roadmap/items__Mining Algorithm Discussion__text: |-
   Discussion sur l'algorithme minier: changement Astor SHA3, réduction DAG, pas de changement
 
-# Q4
-knowledge/roadmap/roadmap/items__Interoperability Projects__dateString: |-
-  Q4
-
 # Interoperability Projects: Port over ETH network protocols. Build ETH<>ETC bridges
 knowledge/roadmap/roadmap/items__Interoperability Projects__text: |-
   Projets d'interopérabilité: Port sur les protocoles réseau ETH. Construire des ponts ETH <> ETC
-
-# Q4
-knowledge/roadmap/roadmap/items__FlyClients Discussion__dateString: |-
-  Q4
 
 # FlyClients Discussion
 knowledge/roadmap/roadmap/items__FlyClients Discussion__text: |-
   Discussion FlyClients
 
-# Q4
-knowledge/roadmap/roadmap/items__Interoperability Market Capture__dateString: |-
-  Q4
-
 # Interoperability Market Capture. ETC added to more products increase access/utility for ETC. Onboard stabelcoins and dapps. Build the foundation for DeFi on hard-money ETC
 knowledge/roadmap/roadmap/items__Interoperability Market Capture__text: |-
   Capture de marché d'interopérabilité. ETC ajouté à plus de produits augmente l'accès/l'utilité pour ETC. Stabelcoins et dapps à bord. Jeter les bases de DeFi sur l'ETC à argent dur
 
-# Q4
-knowledge/roadmap/roadmap/items__Interoperability Orgs__dateString: |-
-  Q4
-
 # Deliver a modular specification for Ethereum by the end of 2020 (probably via the EEA with input from Ethereum Magicians group) which spans ETH, ETC and EEA requirements
 knowledge/roadmap/roadmap/items__Interoperability Orgs__text: |-
   Fournir une spécification modulaire pour Ethereum d'ici la fin de 2020 (probablement via l'EEA avec la contribution du groupe Ethereum Magicians) qui couvre les exigences ETH, ETC et EEA
-
-# Q4
-knowledge/roadmap/roadmap/items__ETC Cooperative Grant Program__dateString: |-
-  Q4
 
 # Implement a grant program with documentation, standards, and reporting requirements
 knowledge/roadmap/roadmap/items__ETC Cooperative Grant Program__text: |-
@@ -4969,7 +4885,7 @@ knowledge/roadmap/timeline/items__phoenixUpgrade__title: |-
 knowledge/roadmap/timeline/items__phoenixUpgrade__dateString: |-
   Bloc 10 500 839
 
-# June 03 2020, Ethereum Classic core developers implement ETH's Istanbul network protocol upgrades to maintain operational parity with its sister chain
+# June 01 2020, Ethereum Classic core developers implement ETH's Istanbul network protocol upgrades to maintain operational parity with its sister chain
 knowledge/roadmap/timeline/items__phoenixUpgrade__text: |-
   03 juin 2020, les développeurs principaux d'Ethereum Classic mettent en œuvre les mises à niveau du protocole de réseau ETH d'Istanbul pour maintenir la parité opérationnelle avec sa chaîne sœur
 
@@ -6077,18 +5993,6 @@ ui.global/notFoundText: |-
 ui.global/goBack: |-
   Retourner
 
-# The links on this page are contributions by ETC participants and are not guaranteed to be safe; use them at your own risk! Please do your own research before using any of resources on this site.
-ui.global/disclaimerInfo: |-
-  Les liens sur cette page sont des contributions des participants ETC et ne sont pas garantis en toute sécurité; Utilisez-les à vos risques et périls! Veuillez faire vos propres recherches avant d'utiliser l'une des ressources de ce site.
-
-# If you feel there is incorrect or missing content on this page, please reach out via the [Ethereum Classic Discord](https://discordapp.com/invite/HW4GckH) or create an issue on [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io).
-ui.global/contributeInfo: |-
-  Si vous pensez qu'il y a du contenu incorrect ou manquant sur cette page, veuillez nous contacter via [Ethereum Classic Discord](https://discordapp.com/invite/HW4GckH) ou créer un problème sur [GitHub](https://github .com/ethereumclassic/ethereumclassic.github.io).
-
-# The content on this page is made available under the license
-ui.global/licenseInfo: |-
-  Le contenu de cette page est disponible sous licence
-
 # Learn More
 ui.global/learnMore: |-
   Apprendre encore plus
@@ -6101,7 +6005,7 @@ ui.global/continueReading: |-
 ui.global/warning__title: |-
   Alerte de fourche dure
 
-# Ethereum Classic's Phoenix upgrade is planned for June, 2020 on block 10,500,839. If you run an ETC node, please update to a compatible client.
+# June 1, 2020 - Ethereum Classic successfully implemented the Phoenix upgrade on block 10,500,839. If you run an ETC node, please update to a compatible client.
 ui.global/warning__description: |-
   La mise à niveau Phoenix d'Ethereum Classic est prévue pour juin 2020 sur le bloc 10,500,839. Si vous exécutez un nœud ETC, veuillez mettre à jour vers un client compatible.
 

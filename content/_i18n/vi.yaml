@@ -51,7 +51,7 @@ development/clients/clients/items__Core-Geth__description: |-
 development/clients/clients/items__Hyperledger Besu__name: |-
   Besledger Besu
 
-# Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. For Phoenix upgrade support, please use version v1.4.1 or later. Upgrade considerations, APIs between ParityEthereum and Besu significantly differ. Mining is not very well supported in Besu. This client is supported by the ChainSafe, ETC Cooperative, and PegaSys teams as part of the Hyperledger project with funding from Grayscale's Ethereum Classic Trust.
+# Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. For Phoenix upgrade support, please use version 1.4.6-RC2 or later. Upgrade considerations, APIs between ParityEthereum and Besu significantly differ. Mining is not very well supported in Besu. This client is supported by the ChainSafe and ETC Cooperative teams as part of the Hyperledger project with funding from Grayscale's Ethereum Classic Trust.
 development/clients/clients/items__Hyperledger Besu__description: |-
   Hyperledger Besu là một ứng dụng khách Ethereum được thiết kế thân thiện với doanh nghiệp cho cả các trường hợp sử dụng mạng được phép công khai và riêng tư. Để được hỗ trợ nâng cấp Phoenix, vui lòng sử dụng phiên bản v1.4.1 trở lên. Nâng cấp cân nhắc, API giữa ParityEthereum và Besu khác nhau đáng kể. Khai thác không được hỗ trợ tốt trong Besu. Khách hàng này được hỗ trợ bởi các nhóm ChainSafe, Hợp tác xã ETC và PegaSys như một phần của dự án Hyperledger với sự tài trợ từ Ethereum Classic Trust của Grayscale.
 
@@ -59,7 +59,7 @@ development/clients/clients/items__Hyperledger Besu__description: |-
 development/clients/clients/items__Multi-Geth__name: |-
   Đa năng
 
-# A swiss army knife distribution of go-ethereum, with support for many species of Ethereum networks. For Phoenix upgrade support, please use version v1.9.14 or later. Upgrade considerations, a majority of the Multi-Geth maintainers forked to the Core-Geth client. This client is community maintained and supported by the CorePaper and Gödel Labs teams.
+# A swiss army knife distribution of go-ethereum, with support for many species of Ethereum networks. For Phoenix upgrade support, please use version v1.9.14 or later. Upgrade considerations, a majority of the Multi-Geth maintainers forked to the Core-Geth client. This client is community maintained and supported by the Core Paper and Gödel Labs teams.
 development/clients/clients/items__Multi-Geth__description: |-
   Một phân phối dao của quân đội Thụy Sĩ của go-ethereum, với sự hỗ trợ cho nhiều loại mạng Ethereum. Để được hỗ trợ nâng cấp Phoenix, vui lòng sử dụng phiên bản v1.9.14 trở lên. Nâng cấp cân nhắc, phần lớn các nhà bảo trì Multi-Geth đã chuyển sang ứng dụng khách Core-Geth. Khách hàng này được cộng đồng duy trì và hỗ trợ bởi các nhóm CorePaper và Gödel Labs.
 
@@ -67,7 +67,7 @@ development/clients/clients/items__Multi-Geth__description: |-
 development/clients/clients/items__OpenEthereum__name: |-
   OpenEthereum
 
-# Fast and feature-rich multi-network Ethereum client. For Phoenix upgrade support, please use version v3.0.0 or later. Upgrade considerations, ParityEthereum is no longer being maintained by Parity Technologies and was handed over to Gnosis as the OpenEthereum project. This client is supported by the Gnosis team with funding from the Ethereum Foundation.
+# Fast and feature-rich multi-network Ethereum client. For Phoenix upgrade support, please use version v3.0.1 or later. Upgrade considerations, ParityEthereum is no longer being maintained by Parity Technologies and was handed over to Gnosis as the OpenEthereum project. This client is supported by the Gnosis team with funding from the Ethereum Foundation.
 development/clients/clients/items__OpenEthereum__description: |-
   Máy khách Ethereum đa mạng nhanh và giàu tính năng. Để được hỗ trợ nâng cấp Phoenix, vui lòng sử dụng phiên bản v3.0.0 trở lên. Cân nhắc nâng cấp, ParityEthereum không còn được Parity Technologies duy trì và được bàn giao cho Gnosis như dự án OpenEthereum. Khách hàng này được hỗ trợ bởi nhóm Gnosis với sự tài trợ từ Ethereum Foundation.
 
@@ -79,7 +79,7 @@ development/clients/index/title: |-
 development/clients/index/description: |-
   Tải xuống các liên kết cho các khách hàng và công cụ triển khai Ethereum Classic khác nhau
 
-# Clients are used to sync with the Ethereum Classic network and verify blocks. Most users won't need to run a full node, but they allow those who do to trustlessly interact with the network. Ethereum Classic is scheduled for a network update in June, 2020. Here are detailed Ethereum Classic client [upgrade instructions](https://etccooperative.org/posts/2020-05-20-phoenix-hardfork).
+# Clients are used to sync with the Ethereum Classic network and verify blocks. Most users won't need to run a full node, but they allow those who do to trustlessly interact with the network. Ethereum Classic completed a network upgrade on June 1, 2020. Please update your node if you have not done so already. [Client Update Instructions](https://etccooperative.org/posts/2020-05-20-phoenix-hardfork).
 development/clients/index/intro: |-
   Khách hàng được sử dụng để đồng bộ hóa với mạng Ethereum Classic và xác minh các khối. Hầu hết người dùng sẽ không cần phải chạy một nút đầy đủ, nhưng họ cho phép những người thực hiện tương tác với mạng một cách tin cậy. Ethereum Classic được lên kế hoạch cập nhật mạng vào tháng 6 năm 2020. Dưới đây là chi tiết về ứng dụng khách Ethereum Classic [hướng dẫn nâng cấp](https://etccooperative.org/posts/2020-05-20-phoenix-hardfork).
 
@@ -91,9 +91,9 @@ development/clients/index/content__Public Endpoints__title: |-
 development/clients/index/content__Public Endpoints__description: |-
   Bạn có thể sử dụng các dịch vụ này để kết nối với ETC thông qua JSON-RPC.
 
-# BlockScout
-development/clients/index/content__Public Endpoints__items__BlockScout__name: |-
-  BlockScout
+# BlockScout API
+development/clients/index/content__Public Endpoints__items__BlockScout API__name: |-
+  API chặn
 
 # Ethercluster
 development/clients/index/content__Public Endpoints__items__Ethercluster__name: |-
@@ -106,6 +106,10 @@ development/clients/index/content__Public Endpoints__items__Ethercluster (Kotti)
 # Ethercluster (Mordor)
 development/clients/index/content__Public Endpoints__items__Ethercluster (Mordor)__name: |-
   Ethercluster (Mordor)
+
+# TokenView API
+development/clients/index/content__Public Endpoints__items__TokenView API__name: |-
+  API mã thông báo
 
 # Node Tools
 development/clients/index/content__Node Tools__title: |-
@@ -146,6 +150,14 @@ development/clients/index/content__Node Tools__items__Google BigQuery__name: |-
 # Google Cloud released datasets consisting of the blockchain transaction history for Ethereum Classic, to help you better understand cryptocurrency. Also included a set of queries and views that map all blockchain datasets to a double-entry book data structure that enables multi-chain meta-analyses, as well as integration with conventional financial record processing systems.
 development/clients/index/content__Node Tools__items__Google BigQuery__description: |-
   Google Cloud đã phát hành bộ dữ liệu bao gồm lịch sử giao dịch blockchain cho Ethereum Classic, để giúp bạn hiểu rõ hơn về tiền điện tử. Cũng bao gồm một tập hợp các truy vấn và chế độ xem ánh xạ tất cả các bộ dữ liệu blockchain sang cấu trúc dữ liệu sách nhập kép cho phép phân tích meta đa chuỗi, cũng như tích hợp với các hệ thống xử lý hồ sơ tài chính thông thường.
+
+# Raspberry Pi Node
+development/clients/index/content__Node Tools__items__Raspberry Pi Node__name: |-
+  Raspberry Pi Node
+
+# A detailed guide for how to setup an Ethereum Classic node on a Raspberry Pi.
+development/clients/index/content__Node Tools__items__Raspberry Pi Node__description: |-
+  Hướng dẫn chi tiết về cách thiết lập nút Ethereum Classic trên Raspberry Pi.
 
 # QuikNode
 development/clients/index/content__Node Tools__items__QuikNode__name: |-
@@ -255,7 +267,7 @@ development/developer-tools/index/content__processors__items__Utrust__name: |-
 development/developer-tools/index/content__tooling__title: |-
   Công cụ phát triển
 
-# A non-exhaustive selection of tools  that can aid development of Ethereum Classic applications.
+# A non-exhaustive selection of tools that can aid development of Ethereum Classic applications.
 development/developer-tools/index/content__tooling__description: |-
   Một lựa chọn không đầy đủ các công cụ có thể hỗ trợ phát triển các ứng dụng Ethereum Classic.
 
@@ -446,6 +458,14 @@ development/guides/index/content__tutorials__items__Signatory Client__name: |-
 # Video Demo describes Signatory Client - a Do It Yourself hardware wallet that can be installed on a single-board computer, like Raspberry PI.
 development/guides/index/content__tutorials__items__Signatory Client__description: |-
   Video Demo mô tả Máy khách có chữ ký - ví phần cứng Do It Yourself có thể được cài đặt trên máy tính một bảng, như Raspberry PI.
+
+# Raspberry Pi Node Setup Guide
+development/guides/index/content__tutorials__items__Raspberry Pi Node Setup Guide__name: |-
+  Hướng dẫn cài đặt Raspberry Pi Node
+
+# A detailed guide on how to setup an Ethereum node on a Raspberry Pi
+development/guides/index/content__tutorials__items__Raspberry Pi Node Setup Guide__description: |-
+  Hướng dẫn chi tiết về cách thiết lập nút Ethereum trên Raspberry Pi
 
 # CryptoZombies
 development/guides/index/content__tutorials__items__CryptoZombies__name: |-
@@ -951,6 +971,10 @@ development/mining-resources/pools/HashCity__name: |-
 development/mining-resources/pools/Hellominer__name: |-
   Địa ngục
 
+# Hiveon
+development/mining-resources/pools/Hiveon__name: |-
+  Hiveon
+
 # HuobiPool
 development/mining-resources/pools/HuobiPool__name: |-
   HuobiPool
@@ -1018,6 +1042,10 @@ development/mining-resources/pools/NLpool__name: |-
 # Okex
 development/mining-resources/pools/Okex__name: |-
   Okex
+
+# Pool-Node
+development/mining-resources/pools/Pool-Node__name: |-
+  Nút bể bơi
 
 # Prohashing
 development/mining-resources/pools/Prohashing__name: |-
@@ -1531,25 +1559,105 @@ development/porting/index/title: |-
 development/porting/index/description: |-
   Các công cụ hữu ích cho các nhà phát triển có dApp hiện đang chạy trên ETH hoặc chuỗi khác để triển khai trên ETC.
 
-# There are a few Ethereum Classic specific tools that are useful to know about if you are porting your ETH application over. All Web3.js frontend code is compatible with ETC as long as the provider RPC node being pointed to is an ETC instance. No changes to Solidity (.sol) code is necessary, ETH contracts run out of the box on ETC.
+# There are a few Ethereum Classic specific tools that are useful to know about if you are porting your ETH application over. All Web3.js frontend code is compatible with ETC as long as the provider RPC node being pointed to is an ETC instance. No changes to Solidity (.sol) code is necessary, ETH contracts run out of the box on ETC! Development tools like Remix and Truffle also work natively.
 development/porting/index/intro: |-
   Có một vài công cụ cụ thể của Ethereum Classic rất hữu ích để biết nếu bạn chuyển ứng dụng ETH của mình. Tất cả mã giao diện Web3.js tương thích với ETC miễn là nút RPC của nhà cung cấp được trỏ đến là một phiên bản ETC. Không cần thay đổi mã Solidity (.sol), các hợp đồng ETH hết hạn trên ETC.
 
-# Nifty Wallet (similar to Metamask)
+# BUIDL IDE
+development/porting/index/content__links__items__BUIDL IDE__name: |-
+  Ý tưởng BUIDL
+
+# Second State BUIDL IDE is a web-based IDE that requires no software download or install. It provides a one-stop development and deployment environment for smart contract and dapp developers.
+development/porting/index/content__links__items__BUIDL IDE__description: |-
+  IDE trạng thái thứ hai BUIDL IDE là một IDE dựa trên web không yêu cầu tải xuống hoặc cài đặt phần mềm. Nó cung cấp một môi trường phát triển và triển khai một cửa cho các nhà phát triển hợp đồng và dapp thông minh.
+
+# Commonwealth.gg
+development/porting/index/content__links__items__Commonwealth.gg__name: |-
+  Khối thịnh vượng chung
+
+# An open source Hourglass contract similar to original P3D built on Ethereum Classic. Can be leveraged with applications that incentivize user participation via dividends.
+development/porting/index/content__links__items__Commonwealth.gg__description: |-
+  Hợp đồng đồng hồ cát nguồn mở tương tự như P3D gốc được xây dựng trên Ethereum Classic. Có thể được tận dụng với các ứng dụng khuyến khích sự tham gia của người dùng.
+
+# DappDirect.net
+development/porting/index/content__links__items__DappDirect.net__name: |-
+  DappDirect.net (tương tự DappRadar)
+
+# A dApp aggregator that is free to submit to and allows users/developers to discover and track key metrics of mainnet Ethereu Classic dApps.
+development/porting/index/content__links__items__DappDirect.net__description: |-
+  Trình tổng hợp dApp miễn phí để gửi và cho phép người dùng/develoeprs khám phá và theo dõi các số liệu chính của các ứng dụng ETC của mainnet.
+
+# Ethercluster
+development/porting/index/content__links__items__Ethercluster__name: |-
+  Ethercluster
+
+# A freely available Ethereum Classic node endpoint. Ethercluster is an open-source alternative to Infura. Accessible as a Web3 RPC provider at `https://www.ethercluster.com/etc`
+development/porting/index/content__links__items__Ethercluster__description: |-
+  Một điểm cuối nút Ethereum Classic có sẵn miễn phí. Ethercluster là một sự thay thế nguồn mở cho Infura. Có thể truy cập với tư cách là nhà cung cấp RPC Web3 tại `https://www.ethercluster.com/etc`
+
+# EVM-LLVM
+development/porting/index/content__links__items__EVM-LLVM__name: |-
+  EVM-LLVM
+
+# Not only can developers use a large scope of programming languages (Rust for smart contracts!) other than Solidity to target the Ethereum Virtual Machine (EVM), they can also immediately benefit from various development tools built around LLVM infrastructure.
+development/porting/index/content__links__items__EVM-LLVM__description: |-
+  Các nhà phát triển không chỉ có thể sử dụng một phạm vi lớn các ngôn ngữ lập trình (Rust cho hợp đồng thông minh!) Ngoài Solidity để nhắm mục tiêu Máy ảo Ethereum (EVM), họ còn có thể hưởng lợi ngay lập tức từ các công cụ phát triển khác nhau được xây dựng trên cơ sở hạ tầng LLVM.
+
+# Jade Suite
+development/porting/index/content__links__items__Jade Suite__name: |-
+  Ngọc bích
+
+# The Jade suite of tools empowers developers to create peer-to-peer decentralized applications on top of EVM-based blockchains like Ethereum Classic.
+development/porting/index/content__links__items__Jade Suite__description: |-
+  Bộ công cụ Jade trao quyền cho các nhà phát triển tạo ra các ứng dụng phi tập trung ngang hàng trên các blockchain dựa trên EVM như Ethereum Classic.
+
+# Nifty Wallet
 development/porting/index/content__links__items__Nifty Wallet__name: |-
   Ví tiện lợi (tương tự Metamask)
 
-# An open source fork of Metamask that allows usage of the ETC Network. Make sure Metamask is disabled in Chrome when Nifty is in use. Can be used along with Remix IDE to quickly deploy contracts to ETC.
+# An open-source web3 wallet that allows usage of the Ethereum classic network. Make sure Metamask is disabled in Chrome when Nifty is in use. Nifty is compatible with most Ethereum IDEs.
 development/porting/index/content__links__items__Nifty Wallet__description: |-
   Một ngã ba mã nguồn mở của Metamask cho phép sử dụng Mạng ETC. Đảm bảo Metamask bị vô hiệu hóa trong Chrome khi sử dụng Nifty. Có thể được sử dụng cùng với Remix IDE để nhanh chóng triển khai hợp đồng lên ETC.
+
+# Metamask
+development/porting/index/content__links__items__Metamask__name: |-
+  Siêu xe
+
+# The most popular web3 wallet. It is possible to configure Metamask for the Ethereum Classic network with the "Custom Network" fields set to **Custom URL** set to`https://www.ethercluster.com/etc` and **Chain ID** set to`61`.
+development/porting/index/content__links__items__Metamask__description: |-
+  Ví web3 phổ biến nhất. Có thể định cấu hình Metamask cho mạng Ethereum Classic với các trường "Mạng tùy chỉnh" được đặt thành ** URL tùy chỉnh ** được đặt thành`https://www.ethercluster.com/etc` và ** ID chuỗi ** được đặt thành `61`.
+
+# Remix IDE
+development/porting/index/content__links__items__Remix IDE__name: |-
+  Phối lại IDE
+
+# Remix IDE is a development environment for deploying smart contracts to ETC and ETH. It includes a Solidity compiler, debugger, and smart contract deployer. Use with an active browser wallet to deploy your contracts to ETC mainnet.
+development/porting/index/content__links__items__Remix IDE__description: |-
+  Remix IDE là một môi trường phát triển để triển khai các hợp đồng thông minh cho ETC và ETH. Nó bao gồm trình biên dịch Solidity, trình gỡ lỗi và trình triển khai hợp đồng thông minh. Sử dụng với ví trình duyệt đang hoạt động để triển khai hợp đồng của bạn lên mạng chính ETC.
+
+# Saturn.network
+development/porting/index/content__links__items__Saturn.network__name: |-
+  Saturn.network (tương tự Forkdelta)
+
+# A decentralized exchange (DEX), useful for listing ERC20 or ERC223 tokens for sale on the Ethereum Classic network.
+development/porting/index/content__links__items__Saturn.network__description: |-
+  Một trao đổi mã thông báo phi tập trung hoàn toàn (DEX), hữu ích để liệt kê các mã thông báo ERC20 hoặc ERC223 để bán trên mạng ETC.
 
 # Saturn Wallet (similar to Metamask)
 development/porting/index/content__links__items__Saturn Wallet__name: |-
   Ví Saturn (tương tự Metamask)
 
-# Similar to Nifty Wallet, but closed source. Works on Chrome and Firefox. Make sure Metamask is disabled when Saturn Wallet is in use.
+# A closed-source web3 wallet. Works on Chrome and Firefox. Make sure other web3 wallets like Nifty or MetMask are disabled when Saturn Wallet is in use.
 development/porting/index/content__links__items__Saturn Wallet__description: |-
   Tương tự như Ví tiện lợi, nhưng nguồn đóng. Hoạt động trên Chrome và Firefox. Đảm bảo Metamask bị vô hiệu hóa khi Saturn Wallet được sử dụng.
+
+# SOLL
+development/porting/index/content__links__items__SOLL__name: |-
+  SOLL
+
+# The LLVM compiler is finally coming to Solidity. With it, we can easily create smart contracts across multiple blockchain VMs. The EVM on Ethereum Classic and ETH 2.0's eWASM are among the first we support.
+development/porting/index/content__links__items__SOLL__description: |-
+  Trình biên dịch LLVM cuối cùng cũng đến với Solidity. Với nó, chúng ta có thể dễ dàng tạo các hợp đồng thông minh trên nhiều máy ảo blockchain. EVM trên Ethereum Classic và eTHAS của ETH 2.0 là một trong những sản phẩm đầu tiên chúng tôi hỗ trợ.
 
 # Trust Wallet (Mobile dApp Browser)
 development/porting/index/content__links__items__Trust Wallet__name: |-
@@ -1558,38 +1666,6 @@ development/porting/index/content__links__items__Trust Wallet__name: |-
 # An open source, multi-currency, Web3 mobile wallet. Has been tested and confirmed to work properly with ETC dApps.
 development/porting/index/content__links__items__Trust Wallet__description: |-
   Một ví di động Web3 mã nguồn mở, đa tiền tệ. Đã được thử nghiệm và xác nhận để hoạt động đúng với ETC dApps.
-
-# Ether Cluster (similar to Infura)
-development/porting/index/content__links__items__Ether Cluster__name: |-
-  Cụm Ether (tương tự Infura)
-
-# A freely available ETC Node endpoint. Accessible as a Web3 RPC provider at `https://www.ethercluster.com/etc`
-development/porting/index/content__links__items__Ether Cluster__description: |-
-  Một điểm cuối ETC Node có sẵn miễn phí. Có thể truy cập với tư cách là nhà cung cấp RPC Web3 tại `https://www.ethercluster.com/etc`
-
-# DappDirect.net (similar to DappRadar)
-development/porting/index/content__links__items__DappDirect.net__name: |-
-  DappDirect.net (tương tự DappRadar)
-
-# A dApp aggregator that is free to submit to and allows users/develoeprs to discover and track key metrics of mainnet ETC dApps.
-development/porting/index/content__links__items__DappDirect.net__description: |-
-  Trình tổng hợp dApp miễn phí để gửi và cho phép người dùng/develoeprs khám phá và theo dõi các số liệu chính của các ứng dụng ETC của mainnet.
-
-# Saturn.network (similar to Forkdelta)
-development/porting/index/content__links__items__Saturn.network__name: |-
-  Saturn.network (tương tự Forkdelta)
-
-# A completely decentralized token exchange (DEX), useful for listing ERC20 or ERC223 tokens for sale on the ETC network.
-development/porting/index/content__links__items__Saturn.network__description: |-
-  Một trao đổi mã thông báo phi tập trung hoàn toàn (DEX), hữu ích để liệt kê các mã thông báo ERC20 hoặc ERC223 để bán trên mạng ETC.
-
-# Commonwealth.gg
-development/porting/index/content__links__items__Commonwealth.gg__name: |-
-  Khối thịnh vượng chung
-
-# An open source Hourglass contract similar to original P3D built on Ethereum Classic. Can be leveraged with applications that incentivize user participation.
-development/porting/index/content__links__items__Commonwealth.gg__description: |-
-  Hợp đồng đồng hồ cát nguồn mở tương tự như P3D gốc được xây dựng trên Ethereum Classic. Có thể được tận dụng với các ứng dụng khuyến khích sự tham gia của người dùng.
 
 # Development
 development/section.global/title: |-
@@ -1794,6 +1870,14 @@ ecosystem/apps-and-protocols/apps/items__Token Bridge__name: |-
 # The TokenBridge allows users to transfer data (e.g. digital asset ownership information) between two chains in the Ethereum ecosystem. Cross-chain bridges provide fast and secure connections between blockchains, creating scalability and connection - interoperability - between Ethereum EVM networks.
 ecosystem/apps-and-protocols/apps/items__Token Bridge__text: |-
   TokenBridge cho phép người dùng chuyển dữ liệu (ví dụ: thông tin sở hữu tài sản kỹ thuật số) giữa hai chuỗi trong hệ sinh thái Ethereum. Cầu nối chéo cung cấp các kết nối nhanh và an toàn giữa các blockchain, tạo khả năng mở rộng và kết nối - khả năng tương tác - giữa các mạng Ethereum EVM.
+
+# Celsius Network
+ecosystem/apps-and-protocols/apps/items__Celsius Network__name: |-
+  Mạng Celsius
+
+# Celsius Network, the industry-leading cryptocurrency interest-earning platform, allows ETC holders to deposit their digital assets into the Celsius wallet and earn interests.
+ecosystem/apps-and-protocols/apps/items__Celsius Network__text: |-
+  Celsius Network, nền tảng kiếm tiền lãi tiền điện tử hàng đầu trong ngành, cho phép chủ sở hữu ETC gửi tài sản kỹ thuật số của họ vào ví Celsius và kiếm tiền lãi.
 
 # Commonwealth
 ecosystem/apps-and-protocols/apps/items__Commonwealth__name: |-
@@ -2363,6 +2447,10 @@ ecosystem/exchanges/index/content__instant__items__ALFACashier__name: |-
 ecosystem/exchanges/index/content__instant__items__AtomicWallet__name: |-
   Nguyên tử
 
+# Bitni
+ecosystem/exchanges/index/content__instant__items__Bitni__name: |-
+  Bitni
+
 # BitTorro
 ecosystem/exchanges/index/content__instant__items__BitTorro__name: |-
   BitTorro
@@ -2433,6 +2521,10 @@ ecosystem/exchanges/index/content__instant__items__StealthEx__name: |-
 
 # SwapSpace
 ecosystem/exchanges/index/content__instant__items__SwapSpace__name: |-
+  Hoán đổi
+
+# SwapSwop
+ecosystem/exchanges/index/content__instant__items__SwapSwop__name: |-
   Hoán đổi
 
 # Swapzone
@@ -3047,10 +3139,6 @@ ecosystem/teams/index/content__table__items__Core Paper__name: |-
 ecosystem/teams/index/content__table__items__Second State__name: |-
   Nhà nước thứ hai
 
-# PegaSys
-ecosystem/teams/index/content__table__items__PegaSys__name: |-
-  PegaSys
-
 # Gödel Labs 哥德尔实验室
 ecosystem/teams/index/content__table__items__Gödel Labs__name: |-
   Phòng thí nghiệm của Godel 哥德尔 实验室
@@ -3266,6 +3354,10 @@ ecosystem/wallets/index/content__software__items__Midas Protocol__name: |-
 # Ownbit
 ecosystem/wallets/index/content__software__items__Ownbit__name: |-
   Sở hữu
+
+# Tokenview
+ecosystem/wallets/index/content__software__items__Tokenview__name: |-
+  Tokenview
 
 # Trust Wallet
 ecosystem/wallets/index/content__software__items__Trust Wallet__name: |-
@@ -3709,353 +3801,177 @@ knowledge/roadmap/roadmap/title: |-
 knowledge/roadmap/roadmap/description: |-
   Một phác thảo về các mốc phát triển giao thức quan trọng cho năm 2020, bao gồm các điểm nổi bật từ [Lộ trình ETC Core 2020](https://medium.com/etc-core/etc-core-2020-roadmap-announcement-c2166cdbc53d).
 
-# Q1
-knowledge/roadmap/roadmap/items__parityRoughConsensus__dateString: |-
-  Q1
-
 # Ethereum Classic core developers maintain rough consensus for the collaborative effort of achieving operational parity with sister chain Ethereum (ETH).
 knowledge/roadmap/roadmap/items__parityRoughConsensus__text: |-
   Các nhà phát triển cốt lõi Ethereum Classic duy trì sự đồng thuận thô bạo cho nỗ lực hợp tác để đạt được sự tương đương hoạt động với chuỗi chị em Ethereum (ETH).
-
-# January 10
-knowledge/roadmap/roadmap/items__vyperlang-ETC__dateString: |-
-  Ngày 10 tháng 1
 
 # The ETC Cooperative to help contribute to the codebase of Vyper in collaboration with Ben Hauser who implemented the changes necessary into Vyper in order to allow us to target multiple versions of the EVM in order to have it working with ETC.
 knowledge/roadmap/roadmap/items__vyperlang-ETC__text: |-
   Hợp tác xã ETC để giúp đóng góp cho cơ sở mã của Vyper phối hợp với Ben Hauser, người đã thực hiện các thay đổi cần thiết cho Vyper để cho phép chúng tôi nhắm mục tiêu nhiều phiên bản EVM để nó hoạt động với ETC.
 
-# January 11
-knowledge/roadmap/roadmap/items__agharta-Mainnet__dateString: |-
-  Ngày 11 tháng 1
-
 # Ethereum Classic core developers implement ETH's Constaninople and Petersburg network protocol upgrades to maintain operational parity with its sister chain.
 knowledge/roadmap/roadmap/items__agharta-Mainnet__text: |-
   Các nhà phát triển cốt lõi Ethereum Classic thực hiện nâng cấp giao thức mạng Conctinople và Petersburg của ETH để duy trì ngang giá hoạt động với chuỗi chị em của nó.
-
-# January 31
-knowledge/roadmap/roadmap/items__evm-llvm-Alpha__dateString: |-
-  Ngày 31 tháng 1
 
 # Second State, Vyperlang, and other teams are implementing or experimenting in bringing LLVM infrastructure to the EthereumStack. This is an alpha version of the EVM LLVM. It includes the complete, working LLVM backend pipeline for generating EVM binaries. Optimizations are limited. https://github.com/etclabscore/evm_llvm/releases/tag/v0.5_alpha
 knowledge/roadmap/roadmap/items__evm-llvm-Alpha__text: |-
   Bang thứ hai, Vyperlang và các nhóm khác đang triển khai hoặc thử nghiệm trong việc đưa cơ sở hạ tầng LLVM lên EthereumStack. Đây là phiên bản alpha của EVM LLVM. Nó bao gồm đường dẫn phụ trợ LLVM hoàn chỉnh, hoạt động để tạo các nhị phân EVM. Tối ưu hóa có hạn. https://github.com/etclabscore/evm_llvm/release/tag/v0.5_alpha
 
-# February 4
-knowledge/roadmap/roadmap/items__coreGeth-Launch__dateString: |-
-  Ngày 4 tháng 2
-
 # CoreGeth: An Ethereum Protocol Provider. Priority is given to reducing opinions around chain configuration, IP-based feature implementations, and API predictability. Upstream development from ethereum/go-ethereum is merged to this repository regularly, usually at every upstream tagged release. Every effort is made to maintain seamless compatibility with upstream source, including compatible RPC, JS, and CLI APIs, data storage locations and schemas, and, of course, interoperable node protocols. Applicable bug reports, bug fixes, features, and proposals should be made upstream whenever possible.
 knowledge/roadmap/roadmap/items__coreGeth-Launch__text: |-
   CoreGeth: Nhà cung cấp giao thức Ethereum. Ưu tiên giảm các ý kiến xung quanh cấu hình chuỗi, triển khai tính năng dựa trên IP và dự đoán API. Phát triển ngược dòng từ ethereum/go-ethereum được sáp nhập vào kho lưu trữ này thường xuyên, thường là ở mỗi bản phát hành được gắn thẻ ngược dòng. Mọi nỗ lực được thực hiện để duy trì khả năng tương thích liền mạch với nguồn ngược dòng, bao gồm API RPC, JS và CLI tương thích, vị trí lưu trữ dữ liệu và lược đồ, và, tất nhiên, các giao thức nút có thể tương tác. Báo cáo lỗi áp dụng, sửa lỗi, tính năng và đề xuất nên được thực hiện ngược dòng bất cứ khi nào có thể.
-
-# February 12
-knowledge/roadmap/roadmap/items__ecip-1050__dateString: |-
-  Ngày 12 tháng 2
 
 # ECIP 1050: Status Codes moves to Final status. This standard outlines a common set of Status Codes in the same vein as HTTP statuses. This provides a shared set of signals to allow smart contracts to react to situations autonomously, expose localized error messages to users, and so on. https://ecips.ethereumclassic.org/ECIPs/ecip-1050
 knowledge/roadmap/roadmap/items__ecip-1050__text: |-
   ECIP 1050: Mã trạng thái chuyển sang trạng thái Cuối cùng. Tiêu chuẩn này phác thảo một bộ Mã trạng thái phổ biến trong cùng một trạng thái với các trạng thái HTTP. Điều này cung cấp một bộ tín hiệu được chia sẻ để cho phép các hợp đồng thông minh phản ứng với các tình huống một cách tự động, phơi bày các thông báo lỗi cục bộ cho người dùng, v.v. https://ecips.ethereum classic.org/ECIPs/ecip-1050
 
-# February 20
-knowledge/roadmap/roadmap/items__aztlan-Testnets__dateString: |-
-  Ngày 20 tháng 2
-
 # During Aztlán testnet implementations, Ethereum Classic core developers discover complications with ECIP 1061 and 1078 specs to add ETH's Istanbul network protocol upgrade. Meowbits of ETC Core documents the findings. As intended, the ETC testnets catch the issues and core developers go back to the drawing board.
 knowledge/roadmap/roadmap/items__aztlan-Testnets__text: |-
   Trong quá trình triển khai testnet của Aztlán, các nhà phát triển lõi Ethereum Classic phát hiện ra các sự phức tạp với thông số kỹ thuật ECIP 1061 và 1078 để thêm nâng cấp giao thức mạng Istanbul của ETH. Meowbits của ETC Core ghi lại các phát hiện. Theo dự định, các thử nghiệm ETC nắm bắt được các vấn đề và các nhà phát triển cốt lõi quay lại bảng vẽ.
-
-# February 26
-knowledge/roadmap/roadmap/items__phoenix-ReSpec__dateString: |-
-  26 tháng 2
 
 # Ethereum Classic core developers reach rough consensus on ECIP-1088 in an effort to implement ETH's Istanbul network protocol upgrade. Testnet implementations revealed issues with prior attempts in specs ECIP-1061 and ECIP-1078.
 knowledge/roadmap/roadmap/items__phoenix-ReSpec__text: |-
   Các nhà phát triển cốt lõi Ethereum Classic đạt được sự đồng thuận mạnh mẽ về ECIP-1088 trong nỗ lực triển khai nâng cấp giao thức mạng Istanbul của ETH. Việc triển khai Testnet đã tiết lộ các vấn đề với các lần thử trước trong thông số kỹ thuật ECIP-1061 và ECIP-1078.
 
-# March 4
-knowledge/roadmap/roadmap/items__coreGeth-Phoenix__dateString: |-
-  mùng 4 tháng Ba
-
 # Core-Geth implements block activation values for ECIP1088, Ethereum Classic's planned Phoenix hard fork upgrade. Please upgrade to version v1.11.0 or later for Phoenix support for ETC. https://github.com/etclabscore/core-geth/releases
 knowledge/roadmap/roadmap/items__coreGeth-Phoenix__text: |-
   Core-Geth thực hiện các giá trị kích hoạt khối cho ECIP1088, nâng cấp hard fork Phoenix theo kế hoạch của Ethereum Classic. Vui lòng nâng cấp lên phiên bản v1.11.0 trở lên để được Phoenix hỗ trợ cho ETC. https://github.com/etclabscore/core-geth/release
-
-# March 9
-knowledge/roadmap/roadmap/items__phoenix-Mordor-testnet__dateString: |-
-  Ngày 9 tháng 3
 
 # Phoenix testing begins on the Mordor PoW testnet on block 999,983. Core development teams have signaled that this is a complex implementation. Testing may uncover issues that delay this network upgrade, but Ethereum Classic will never rush to upgrade the mainnet. Network security is priority over development speed and arbitary timelines. https://expedition.dev/?network=mordor
 knowledge/roadmap/roadmap/items__phoenix-Mordor-testnet__text: |-
   Thử nghiệm Phoenix bắt đầu trên testnet Mordor PoW trên khối 999.983. Các nhóm phát triển cốt lõi đã báo hiệu rằng đây là một triển khai phức tạp. Việc thử nghiệm có thể phát hiện ra các vấn đề làm trì hoãn việc nâng cấp mạng này, nhưng Ethereum Classic sẽ không bao giờ vội vàng nâng cấp mainnet. An ninh mạng được ưu tiên hơn tốc độ phát triển và các mốc thời gian tùy ý. https://expedition.dev/?network=mordor
 
-# March 12
-knowledge/roadmap/roadmap/items__besu-Phoenix__dateString: |-
-  ngày 12 tháng 3
-
 # Hyperledger Besu implemented ECIP-1088: Phoenix EVM and Protocol upgrades. Please upgrade to version v1.4.1 or later for Phoenix support for ETC. https://github.com/hyperledger/besu/releases
 knowledge/roadmap/roadmap/items__besu-Phoenix__text: |-
   Hyperledger Besu đã triển khai ECIP-1088: Phoenix EVM và nâng cấp Giao thức. Vui lòng nâng cấp lên phiên bản v1.4.1 trở lên để được Phoenix hỗ trợ cho ETC. https://github.com/hyperledger/besu/release
-
-# March 14
-knowledge/roadmap/roadmap/items__gitcoin-ETC__dateString: |-
-  ngày 14 tháng 3
 
 # Developer bounty platform Gitcoin has partnered with Ethereum Classic Labs to offer bounties in ETC.
 knowledge/roadmap/roadmap/items__gitcoin-ETC__text: |-
   Nền tảng tiền thưởng dành cho nhà phát triển Gitcoin đã hợp tác với Ethereum Classic Labs để cung cấp tiền thưởng trong ETC.
 
-# March 17
-knowledge/roadmap/roadmap/items__5m20-Era3-Mainnet__dateString: |-
-  17 tháng 3
-
 # March 17 2020, Ethereum Classic's block rewards are reduced by 20% to 3.2 ETC per block per the bitcoin-inspired 5M20 emission schedule.
 knowledge/roadmap/roadmap/items__5m20-Era3-Mainnet__text: |-
   Ngày 17 tháng 3 năm 2020, phần thưởng khối của Ethereum Classic đã giảm 20% xuống còn 3,2 ETC mỗi khối trên lịch phát thải 5M20 lấy cảm hứng từ bitcoin.
-
-# March 20
-knowledge/roadmap/roadmap/items__phoenix-Kotti-recover__dateString: |-
-  Tháng Ba ngày 20
 
 # The Kotti PoA testnet is successfully recovered after Aztlán implementations. The signers coordinate and regain consensus in anticipation for a successful Phoenix implementation. https://expedition.dev/?network=kotti
 knowledge/roadmap/roadmap/items__phoenix-Kotti-recover__text: |-
   Testnet Kotti PoA được phục hồi thành công sau khi triển khai Aztlán. Những người ký kết phối hợp và lấy lại sự đồng thuận trong dự đoán cho việc thực hiện Phoenix thành công. https://expedition.dev/?network=kotti
 
-# March 31
-knowledge/roadmap/roadmap/items__Website-2020-Content__dateString: |-
-  31 tháng Ba
-
 # EthereumClassic.org website modernization project goes live with updated 2020 content. https://ethereumclassic.org/blog
 knowledge/roadmap/roadmap/items__Website-2020-Content__text: |-
   Dự án hiện đại hóa trang web EthereumClassic.org đi vào hoạt động với nội dung được cập nhật năm 2020. https://Ethereum classic.org/blog
-
-# Q2
-knowledge/roadmap/roadmap/items__rss-Feeds__dateString: |-
-  Quý 2
 
 # EthereumClassic.org website modernization project goes live with a goal of providing accurate ETC content and automated information dissemination lines to the greater cryptocurrency ecosystem. https://ethereumclassic.org/news
 knowledge/roadmap/roadmap/items__rss-Feeds__text: |-
   Dự án hiện đại hóa trang web EthereumClassic.org đi vào hoạt động với mục tiêu cung cấp nội dung ETC chính xác và các dòng phổ biến thông tin tự động cho hệ sinh thái tiền điện tử lớn hơn. https://Ethereum classic.org/news
 
-# April 3
-knowledge/roadmap/roadmap/items__Website-2020-Phoenix__dateString: |-
-  3 tháng 4
-
 # EthereumClassic.org website modernization project goes live with the Phoenix theme. https://ethereumclassic.org
 knowledge/roadmap/roadmap/items__Website-2020-Phoenix__text: |-
   Dự án hiện đại hóa trang web EthereumClassic.org đi vào hoạt động với chủ đề Phoenix. https://Ethereum classic.org
-
-# April 5
-knowledge/roadmap/roadmap/items__multigeth-Phoenix__dateString: |-
-  5 tháng Tư
 
 # Multi-Geth implements support for the Phoenix hard fork on Ethereum Classic mainnet, at block 10,500,839, scheduled around the beginning of June, 2020. Please upgrade to version v1.9.14 or later for Phoenix support for ETC. https://github.com/multi-geth/multi-geth/releases
 knowledge/roadmap/roadmap/items__multigeth-Phoenix__text: |-
   Multi-Geth triển khai hỗ trợ cho hard fork Phoenix trên mạng chính Ethereum Classic, tại khối 10.500.839, được lên kế hoạch vào đầu tháng 6 năm 2020. Vui lòng nâng cấp lên phiên bản v1.9.14 trở lên để hỗ trợ Phoenix cho ETC. https://github.com/multi-geth/multi-geth/release
 
-# April 15
-knowledge/roadmap/roadmap/items__phoenix-Kotti-testnet__dateString: |-
-  15 tháng Tư
-
 # Phoenix testing begins on the Kotti PoA testnet on block 2,200,013. Core development teams have signaled that this is a complex implementation. Testing may uncover issues that delay this network upgrade, but Ethereum Classic will never rush to upgrade the mainnet. Network security is priority over development speed and arbitary timelines. https://expedition.dev/?network=mordor
 knowledge/roadmap/roadmap/items__phoenix-Kotti-testnet__text: |-
   Thử nghiệm Phoenix bắt đầu trên testnet Kotti PoA trên khối 2.200.013. Các nhóm phát triển cốt lõi đã báo hiệu rằng đây là một triển khai phức tạp. Việc thử nghiệm có thể phát hiện ra các vấn đề làm trì hoãn việc nâng cấp mạng này, nhưng Ethereum Classic sẽ không bao giờ vội vàng nâng cấp mainnet. An ninh mạng được ưu tiên hơn tốc độ phát triển và các mốc thời gian tùy ý. https://expedition.dev/?network=mordor
-
-# Q2
-knowledge/roadmap/roadmap/items__improve-Documentation__dateString: |-
-  Quý 2
 
 # Improve ETC specific documentation and add to the website for end user consumption. https://ethereumclassic.org/development/guides
 knowledge/roadmap/roadmap/items__improve-Documentation__text: |-
   Cải thiện tài liệu cụ thể ETC và thêm vào trang web cho người dùng cuối. https://Ethereum classic.org/development/guides
 
-# May
-knowledge/roadmap/roadmap/items__phoenix-awareness__dateString: |-
-  có thể
-
 # Core development teams have signaled that this upgrade has successfully passed testing analysis on the Mordor and Kotti testnets. Ethereum Classic will never rush to upgrade the mainnet. Network security is priority over development speed and arbitary timelines. The ETC miners, wallets, exchanges, payment processors begin updated their clients for the Phoenix Upgrade. https://medium.com/etc-core/top-miners-confirmed-to-support-phoenix-ethereum-classic-hard-fork-phoenix-status-update-bc8964424fd4
 knowledge/roadmap/roadmap/items__phoenix-awareness__text: |-
   Các nhóm phát triển cốt lõi đã báo hiệu rằng bản nâng cấp này đã vượt qua thành công phân tích thử nghiệm trên các bản thử nghiệm Mordor và Kotti. Ethereum Classic sẽ không bao giờ vội vàng nâng cấp mainnet. An ninh mạng được ưu tiên hơn tốc độ phát triển và các mốc thời gian tùy ý. Các công cụ khai thác, ví, trao đổi, xử lý thanh toán ETC bắt đầu cập nhật ứng dụng khách của họ cho Nâng cấp Phoenix. https://medium.com/etc-core/top-miners-confirmed-to-support-phoenix-ethereum-classic-hard-fork-phoenix-status-update-bc8964424fd4
 
-# June 3
-knowledge/roadmap/roadmap/items__phoenix-mainnet__dateString: |-
-  Ngày 3 tháng 6
-
-# Phoenix activates on Ethereum Classic mainnet on block 10,500,839. Core development teams have signaled that this upgrade has successfully passed testing analysis on the Mordor and Kotti testnets. https://blockscout.com/etc/mainnet
+# Phoenix activates on Ethereum Classic mainnet on block 10,500,839. Core development teams have signaled that this upgrade has successfully passed testing analysis on the Mordor and Kotti testnets. https://ethereumclassic.org/blog/2020-06-01-phoenix-hard-fork-upgrade/
 knowledge/roadmap/roadmap/items__phoenix-mainnet__text: |-
   Phoenix kích hoạt trên mạng chính Ethereum Classic trên khối 10.500.839. Các nhóm phát triển cốt lõi đã báo hiệu rằng bản nâng cấp này đã vượt qua thành công phân tích thử nghiệm trên các bản thử nghiệm Mordor và Kotti. https://blockscout.com/etc/mainnet
-
-# Q2
-knowledge/roadmap/roadmap/items__website-internationalization__dateString: |-
-  Quý 2
 
 # Reach out to the non-english ETC social channels to translate the English version of https://ethereumclassic.org/
 knowledge/roadmap/roadmap/items__website-internationalization__text: |-
   Tiếp cận với các kênh xã hội ETC không phải tiếng Anh để dịch phiên bản tiếng Anh của https://ethereumclassic.org/
 
-# Q3
-"knowledge/roadmap/roadmap/items__Implementation: Instruction__dateString": |-
-  Quý 3
-
 # LLVM Instruction scheduler and performance optimizations
 "knowledge/roadmap/roadmap/items__Implementation: Instruction__text": |-
   LLVM Lập lịch trình và tối ưu hóa hiệu suất
-
-# Q3
-knowledge/roadmap/roadmap/items__Connext State Channels__dateString: |-
-  Quý 3
 
 # Add Connext state channels support. The goal is to have Connext ETC channels live in 2020.
 knowledge/roadmap/roadmap/items__Connext State Channels__text: |-
   Thêm hỗ trợ kênh trạng thái Connext. Mục tiêu là để các kênh ETC Connext tồn tại vào năm 2020.
 
-# Q3
-knowledge/roadmap/roadmap/items__JSON-RPC devp2p__dateString: |-
-  Quý 3
-
 # JSON-RPC devp2p Wire protocol specification and reference implementation research and possible design
 knowledge/roadmap/roadmap/items__JSON-RPC devp2p__text: |-
   JSON-RPC devp2p Đặc tả giao thức dây và nghiên cứu triển khai tham chiếu và thiết kế có thể
-
-# Q3
-knowledge/roadmap/roadmap/items__Network Monitors__dateString: |-
-  Quý 3
 
 # Add fork monitor and ethstats dashboards to EthereumClassic.org
 knowledge/roadmap/roadmap/items__Network Monitors__text: |-
   Thêm màn hình ngã ba và bảng điều khiển ethstats vào EthereumClassic.org
 
-# Q3
-knowledge/roadmap/roadmap/items__Long-term Development Resources__dateString: |-
-  Quý 3
-
 # Long-term Development Resources Discussion: Public Good Network Protocols, Fund Disbursement Methods, DAO fund allocation.
 knowledge/roadmap/roadmap/items__Long-term Development Resources__text: |-
   Thảo luận về nguồn lực phát triển dài hạn: Các giao thức mạng tốt công cộng, Phương thức giải ngân quỹ, phân bổ quỹ DAO.
-
-# Q3
-knowledge/roadmap/roadmap/items__Updates to ECIP__dateString: |-
-  Quý 3
 
 # Updates to ECIP process via ECIP-1000 discussion
 knowledge/roadmap/roadmap/items__Updates to ECIP__text: |-
   Cập nhật quy trình ECIP thông qua thảo luận ECIP-1000
 
-# Q3
-knowledge/roadmap/roadmap/items__Developer Marketing__dateString: |-
-  Quý 3
-
 # Work on 1-2 major technical projects that use ETC as a part of developer marketing
 knowledge/roadmap/roadmap/items__Developer Marketing__text: |-
   Làm việc trên 1-2 dự án kỹ thuật lớn sử dụng ETC như một phần của tiếp thị dành cho nhà phát triển
-
-# Q3
-knowledge/roadmap/roadmap/items__ethereum-Berlin__dateString: |-
-  Quý 3
 
 # Review Ethereum Berlin for operational parity with Ethereum Classic.
 knowledge/roadmap/roadmap/items__ethereum-Berlin__text: |-
   Đánh giá Ethereum Berlin về tính tương đương hoạt động với Ethereum Classic.
 
-# Q3
-knowledge/roadmap/roadmap/items__Gas Range Discussion__dateString: |-
-  Quý 3
-
 # Gas Range Discussion: Upper and Lower Bounds
 knowledge/roadmap/roadmap/items__Gas Range Discussion__text: |-
   Thảo luận về phạm vi khí: Giới hạn trên và dưới
-
-# Q4
-knowledge/roadmap/roadmap/items__astor-Testing__dateString: |-
-  Quý 4
 
 # Astor experimental testnet SHA3 consensus algo research review
 knowledge/roadmap/roadmap/items__astor-Testing__text: |-
   Astor testnet thử nghiệm đồng thuận SHA3 algo xem xét nghiên cứu
 
-# Q4
-knowledge/roadmap/roadmap/items__EVM LLVM beta__dateString: |-
-  Quý 4
-
 # EVM-LLVM Official beta release
 knowledge/roadmap/roadmap/items__EVM LLVM beta__text: |-
   EVM-LLVM Bản phát hành beta chính thức
-
-# Q4
-"knowledge/roadmap/roadmap/items__Implementation: Embedded__dateString": |-
-  Quý 4
 
 # EVM-LLVM Implementation: Embedded assembly and exception handling
 "knowledge/roadmap/roadmap/items__Implementation: Embedded__text": |-
   Triển khai EVM-LLVM: Lắp ráp nhúng và xử lý ngoại lệ
 
-# Q4
-knowledge/roadmap/roadmap/items__Feature Complete Upgrade__dateString: |-
-  Quý 4
-
 # Successful upgrade of the ETC network to a further hardfork in Q4 2020 (unless delayed) which will address the remaining blockers to ETC being considered feature complete
 knowledge/roadmap/roadmap/items__Feature Complete Upgrade__text: |-
   Nâng cấp thành công mạng ETC lên một hardfork tiếp theo vào quý 4 năm 2020 (trừ khi bị trì hoãn) sẽ giải quyết các trình chặn còn lại để ETC được coi là hoàn thành tính năng
-
-# Q4
-knowledge/roadmap/roadmap/items__ETL Tooling patterns__dateString: |-
-  Quý 4
 
 # ETL Tooling patterns and research into providing support for cross-chain transaction transforms
 knowledge/roadmap/roadmap/items__ETL Tooling patterns__text: |-
   Các mô hình công cụ ETL và nghiên cứu cung cấp hỗ trợ cho các chuyển đổi giao dịch chuỗi chéo
 
-# Q4
-knowledge/roadmap/roadmap/items__Anchor Projects__dateString: |-
-  Quý 4
-
 # Attract 5 prestige anchor tenant projects from the Ethereum ecosystem. Note that attendence at conferences will level off after Q1 due to Coronavirus
 knowledge/roadmap/roadmap/items__Anchor Projects__text: |-
   Thu hút 5 dự án người thuê mỏ neo uy tín từ hệ sinh thái Ethereum. Lưu ý rằng sự tham dự tại các hội nghị sẽ chững lại sau Q1 do coronavirus
-
-# Q4
-knowledge/roadmap/roadmap/items__Mining Algorithm Discussion__dateString: |-
-  Quý 4
 
 # Mining Algorithm Discussion: Astor SHA3 Change, DAG reduction, No Change
 knowledge/roadmap/roadmap/items__Mining Algorithm Discussion__text: |-
   Thảo luận về thuật toán khai thác: Thay đổi Astor SHA3, giảm DAG, không thay đổi
 
-# Q4
-knowledge/roadmap/roadmap/items__Interoperability Projects__dateString: |-
-  Quý 4
-
 # Interoperability Projects: Port over ETH network protocols. Build ETH<>ETC bridges
 knowledge/roadmap/roadmap/items__Interoperability Projects__text: |-
   Dự án tương tác: Chuyển qua giao thức mạng ETH. Xây dựng cầu ETH <> ETC
-
-# Q4
-knowledge/roadmap/roadmap/items__FlyClients Discussion__dateString: |-
-  Quý 4
 
 # FlyClients Discussion
 knowledge/roadmap/roadmap/items__FlyClients Discussion__text: |-
   Thảo luận về khách hàng
 
-# Q4
-knowledge/roadmap/roadmap/items__Interoperability Market Capture__dateString: |-
-  Quý 4
-
 # Interoperability Market Capture. ETC added to more products increase access/utility for ETC. Onboard stabelcoins and dapps. Build the foundation for DeFi on hard-money ETC
 knowledge/roadmap/roadmap/items__Interoperability Market Capture__text: |-
   Khả năng tương tác nắm bắt thị trường. ETC được thêm vào nhiều sản phẩm tăng quyền truy cập/tiện ích cho ETC. Trên tàu stabelcoins và dapps. Xây dựng nền tảng cho DeFi trên ETC kiếm tiền
 
-# Q4
-knowledge/roadmap/roadmap/items__Interoperability Orgs__dateString: |-
-  Quý 4
-
 # Deliver a modular specification for Ethereum by the end of 2020 (probably via the EEA with input from Ethereum Magicians group) which spans ETH, ETC and EEA requirements
 knowledge/roadmap/roadmap/items__Interoperability Orgs__text: |-
   Cung cấp một đặc tả mô-đun cho Ethereum vào cuối năm 2020 (có thể thông qua EEA với đầu vào từ nhóm Ethereum Magicians) bao gồm các yêu cầu ETH, ETC và EEA
-
-# Q4
-knowledge/roadmap/roadmap/items__ETC Cooperative Grant Program__dateString: |-
-  Quý 4
 
 # Implement a grant program with documentation, standards, and reporting requirements
 knowledge/roadmap/roadmap/items__ETC Cooperative Grant Program__text: |-
@@ -4969,7 +4885,7 @@ knowledge/roadmap/timeline/items__phoenixUpgrade__title: |-
 knowledge/roadmap/timeline/items__phoenixUpgrade__dateString: |-
   Khối 10.500.839
 
-# June 03 2020, Ethereum Classic core developers implement ETH's Istanbul network protocol upgrades to maintain operational parity with its sister chain
+# June 01 2020, Ethereum Classic core developers implement ETH's Istanbul network protocol upgrades to maintain operational parity with its sister chain
 knowledge/roadmap/timeline/items__phoenixUpgrade__text: |-
   Ngày 03 tháng 6 năm 2020, các nhà phát triển lõi Ethereum Classic thực hiện nâng cấp giao thức mạng Istanbul của ETH để duy trì ngang giá hoạt động với chuỗi chị em của nó
 
@@ -6077,18 +5993,6 @@ ui.global/notFoundText: |-
 ui.global/goBack: |-
   Quay lại
 
-# The links on this page are contributions by ETC participants and are not guaranteed to be safe; use them at your own risk! Please do your own research before using any of resources on this site.
-ui.global/disclaimerInfo: |-
-  Các liên kết trên trang này là sự đóng góp của những người tham gia ETC và không được đảm bảo an toàn; sử dụng chúng có nguy cơ của riêng bạn! Vui lòng tự nghiên cứu trước khi sử dụng bất kỳ tài nguyên nào trên trang web này.
-
-# If you feel there is incorrect or missing content on this page, please reach out via the [Ethereum Classic Discord](https://discordapp.com/invite/HW4GckH) or create an issue on [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io).
-ui.global/contributeInfo: |-
-  Nếu bạn cảm thấy có nội dung không chính xác hoặc bị thiếu trên trang này, vui lòng liên hệ qua [Ethereum Classic Discord](https://discordapp.com/invite/HW4GckH) hoặc tạo sự cố trên [GitHub](https://github .com/ethereum classic/ethereumgroupic.github.io).
-
-# The content on this page is made available under the license
-ui.global/licenseInfo: |-
-  Nội dung trên trang này được cung cấp theo giấy phép
-
 # Learn More
 ui.global/learnMore: |-
   Tìm hiểu thêm
@@ -6101,7 +6005,7 @@ ui.global/continueReading: |-
 ui.global/warning__title: |-
   Cảnh báo Hard Fork
 
-# Ethereum Classic's Phoenix upgrade is planned for June, 2020 on block 10,500,839. If you run an ETC node, please update to a compatible client.
+# June 1, 2020 - Ethereum Classic successfully implemented the Phoenix upgrade on block 10,500,839. If you run an ETC node, please update to a compatible client.
 ui.global/warning__description: |-
   Nâng cấp Phoenix của Ethereum Classic được lên kế hoạch vào tháng 6 năm 2020 trên khối 10.500.839. Nếu bạn chạy một nút ETC, vui lòng cập nhật lên máy khách tương thích.
 

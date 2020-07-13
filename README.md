@@ -18,12 +18,7 @@ A version of the website with auto-translated languages is [available here](http
 
 If you can help correct these auto-translated items, please submit a pull request!
 
-- Fork this repository
-- Check out the `babel` branch
-- Open `content/_i18n/[name].yaml`
-- Correct the strings (make sure you keep the indentation)
-- Submit a Pull Request back into the `babel` branch
-- If you need support, or wish to add a language that is not listed, feel free to reach out in discord
+--> [Instrucitons for contributing translations](/docs/translate.md) <--
 
 ### General Instructions
 
@@ -49,14 +44,14 @@ If you'd like to submit an Ethereum Classic related article to the website's Med
 New GitHub contributors can follow this [contribution guide](https://guides.github.com/activities/forking/) to contribute to repositories.
 
 1. Fork this repository to your personal GitHub account.
-    - Optional: Clone locally on your machine.
+   - Optional: Clone locally on your machine.
 2. Navigate to the file `content/news/media/media.objects.en.yaml`
 3. Open `media.en.yaml` to edit
 4. Review the existing format of the articles in the file.
 5. Add your article to the file. Ensure the formatting is correct. Save your changes.
-    - Note: The articles are listed in reverse chronological order with the most recent articles at the top of the document. Please add your article in-line with this order.
+   - Note: The articles are listed in reverse chronological order with the most recent articles at the top of the document. Please add your article in-line with this order.
 6. Make a Pull Request from the active branch in your repo to the `ethereumclassic:master` branch using the big green button.
-    - Instructions: [Creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+   - Instructions: [Creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 7. Celebrate. You just contributed to an open source, decentralized blockchain project! 🎉
 
 ### Too complicated to contribute directly?
