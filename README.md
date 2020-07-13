@@ -14,7 +14,7 @@ Become a contributor to the [ethereumclassic.org](https://ethereumclassic.org/) 
 
 ### Translations 🌐
 
-A version of the website with auto-translated languages is [available here](https://babel--ethereumclassic.netlify.app/). We need your help to ensure that these translations make sense to native readers.
+A version of the website with auto-translated languages is available [here](https://babel--ethereumclassic.netlify.app/). We need your help to ensure that these translations make sense to native readers.
 
 If you can help correct these auto-translated items, please submit a pull request!
 
