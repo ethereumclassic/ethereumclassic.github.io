@@ -32,20 +32,11 @@ items:
     support: https://chat.hyperledger.org/
     supportIcon: fab fa-rocketchat
   -
-    key: Multi-Geth
-    name: Multi-Geth
-    link: https://github.com/multi-geth
-    description: Please migrate to Besu or Core-Geth clients. The maintainer of this client announced intent to deprecate support for the ETC network. A swiss army knife distribution of go-ethereum, with support for many species of Ethereum networks. For Phoenix upgrade support, please use version v1.9.14 or later. Upgrade considerations, a majority of the Multi-Geth maintainers forked to the Core-Geth client. Sorpaas, of Core Paper, is the down-stream maintainer for this client.
-    guide: https://github.com/multi-geth/multi-geth/
-    release: https://github.com/multi-geth/multi-geth/releases
-    support: https://gitter.im/multi-geth/community
-    supportIcon: fab fa-gitter
-  -
-    key: OpenEthereum
-    name: OpenEthereum
-    link: https://github.com/openethereum
-    description: Please migrate to Besu or Core-Geth clients. The maintainers of this client announced intent to deprecate support for the ETC network. Fast and feature-rich multi-network Ethereum client. For Phoenix upgrade support, please use version v3.0.1 or later. Upgrade considerations, ParityEthereum is no longer being maintained by Parity Technologies and was handed over to Gnosis as the OpenEthereum project. This client is supported by the Gnosis team with funding from the Ethereum Foundation.
-    guide: https://github.com/openethereum/openethereum
-    release: https://github.com/openethereum/openethereum/releases
-    support: http://discord.io/openethereum
+    key: OpenETC
+    name: OpenETC
+    link: https://github.com/openetc
+    description: Fast and feature-rich multi-network Ethereum client. For Phoenix upgrade support, please use version v3.0.1 or later. Upgrade considerations, ParityEthereum is no longer being maintained by Parity Technologies and was handed over to Gnosis as the OpenEthereum project. Shortly later the OpenEthereum project announced intent to deprecate ETC support and an ETC participant forked the OpenEthereum repository to OpenETC. This client is community maintained.
+    guide: https://github.com/openetc/openetc
+    release: https://github.com/openetc/openetc/releases
+    support: https://discordapp.com/invite/HW4GckH
     supportIcon: fab fa-discord
