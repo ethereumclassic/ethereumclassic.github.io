@@ -6,6 +6,13 @@
   title: "ETC Labs Announces Cohort III, Blockchain for Impact Startups"
   tags: ["announcement", "teams, "development"]
 -
+  date: 2020-07-17
+  link: https://etccooperative.org/posts/2020-07-17-etc-connext-state-channels
+  author: Ethereum Classic Cooperative
+  source: Ethereum Classic Cooperative
+  title: "Connext State Channels on ETC"
+  tags: ["announcement", "teams, "development"]  
+-
   date: 2020-07-09
   link: https://medium.com/etc-core/etc-core-quarterly-development-review-q1-q2-2020-ecebcfb02b2e
   author: Stevan Lohja
@@ -106,7 +113,7 @@
 -
   date: 2020-05-22
   link: https://etccooperative.org/posts/2020-05-22-etc-cooperative-april-2020-report
-  author: ETC Coop
+  author: Ethereum Classic Cooperative
   source: Ethereum Classic Cooperative
   title: "ETC Cooperative April 2020 report"
   tags: ["announcement", "teams"]
@@ -127,7 +134,7 @@
 -
   date: 2020-05-20
   link: https://etccooperative.org/posts/2020-05-20-phoenix-hardfork
-  author: ETC Coop
+  author: Ethereum Classic Cooperative
   source: Ethereum Classic Cooperative
   title: "ETC Phoenix client upgrade instructions"
   tags: ["announcement", "development", "hardfork", "mining"]
@@ -239,7 +246,7 @@
 -
   date: 2020-04-30
   link: https://etccooperative.org/posts/2020-04-30-etc-cooperative-q1-2020-transparency-report
-  author: ETC Coop
+  author: Ethereum Classic Cooperative
   source: Ethereum Classic Cooperative
   title: "ETC Cooperative Q1 2020 Transparency Report"
   tags: ["announcement", "teams"]
@@ -323,7 +330,7 @@
 -
   date: 2020-04-13
   link: https://etccooperative.org/posts/2020-04-13-etc-cooperative-2019-retrospective-released
-  author: ETC Coop
+  author: Ethereum Classic Cooperative
   source: Ethereum Classic Cooperative
   title: "ETC Cooperative 2019 Retrospective released"
   tags: ["announcement", "teams"]
@@ -799,7 +806,7 @@
 -
   date: 2020-02-13
   link: https://youtu.be/Eh7otmaUJgg
-  author: ETC Cooperative
+  author: Red Panda Mining
   source: Red Panda Mining
   title: "Ethereum Classic SHA3 Is Getting SERIOUS!"
   tags: ["education", "podcast", "teams", "media", "development", "mining"]
