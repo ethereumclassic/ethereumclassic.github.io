@@ -190,14 +190,14 @@ items:
     className: blue
     icon: fas fa-code-branch
     link: https://github.com/ethereumproject/go-ethereum/releases/tag/6aaf5f3
-    text: Geth releases support for Ethereum Classic network. This node has all the DAO code removed from the client and requires no additional flags to use the Ethereum classic network
+    text: Geth releases support for Ethereum Classic network. This node has all the DAO code removed from the client and requires no additional flags to use the Ethereum Classic network
   - key: parity-ETC-Support
     title: Parity Supports Ethereum Classic
     date: Jul 31 2016
     className: blue
     icon: fas fa-code-branch
     link: https://github.com/openethereum/openethereum/releases/tag/v1.2.3
-    text: Parity signals long term support for Etheruem Classic with 1.2.3 release that addresses network stability issues for both Ethereum HF and Ethereum classic chains and brings a few changes to the transaction tracing API
+    text: Parity signals long term support for Ethereum Classic with 1.2.3 release that addresses network stability issues for both Ethereum HF and Ethereum Classic chains and brings a few changes to the transaction tracing API
   - key: 51Pool
     title: 51% Attack Threat
     date: Jul 31 2016
@@ -211,7 +211,7 @@ items:
     className: white
     icon: fas fa-cubes
     link: https://coinjournal.net/miner-attack-ethereum-classic-now-supporting/
-    text: After the ETC network grew to a point where they could no longer attack it, ETH miners publicly declare not to attack ETC. To prevent hurting innocent Ethereum Classic holders, ETH miners commit resources to mining ETC.
+    text: After the ETC network grew to a point where they could no longer attack it, ETH miners publicly declare not to attack ETC. To prevent hurting innocent Ethereum Classic holders, Ethash miners commit resources to mining ETC.
   - key: attackRhg
     title: RHG Attacks ETC
     date: Aug 10 2016
