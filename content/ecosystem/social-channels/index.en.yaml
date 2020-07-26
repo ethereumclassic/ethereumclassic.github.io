@@ -80,7 +80,7 @@ content:
     -
       key: Multi-Geth dev (deprecated)
       link: https://gitter.im/multi-geth/community
-      name: Multi-Geth
+      name: Multi-Geth (deprecated)
       brand: gitter
     -
       key: Open-RPC dev
