@@ -12,31 +12,38 @@ content:
     -
       key: chat Discord
       link: https://discordapp.com/invite/HW4GckH
-      name: Discord
+      name: Discord (Global)
+      brand: discord
     -
       key: chat Facebook English
       link: https://www.facebook.com/groups/ethereum.hongkong/
-      name: Facebook English
+      name: Facebook (English)
+      brand: facebook
     -
       key: chat Facebook Vietnam
       link: http://facebook.com/EthereumClassicVietnam/
-      name: Facebook Vietnam
+      name: Facebook (Vietnamese)
+      brand: facebook
     -
       key: chat Kakao Korea
       link: https://open.kakao.com/o/gi4uNJ1
-      name: Kakao Korea
+      name: Kakao (Korean)
+      brand: kakao
     -
       key: chat Slack
       link: https://ethereumclassic.herokuapp.com/
       name: Slack
+      brand: slack
     -
       key: chat Tencent QQ
-      name: Tencent QQ
+      name: QQ (Asian)
       alert: ETC Asia-769408114
+      brand: qq
     -
       key: chat WeChat
       link: https://bobsummerwill.files.wordpress.com/2019/10/screen-shot-2020-01-31-at-11.40.10-pm.png?w=230&h=300
-      name: WeChat
+      name: WeChat (Chinese)
+      brand: wechat
   -
     key: Development Chat
     title: Development Chat
