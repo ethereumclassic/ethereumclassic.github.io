@@ -1,35 +1,98 @@
 .main-menu {
+
   position: fixed;
   right: 0;
   top: 0;
   z-index: 10;
-  background: _palette(bright);
   user-select: none;
   $hamburgerSize: 3rem;
+
+  input#menu-input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+  }
+
+  .toggle {
+    position: absolute;
+    cursor: pointer;
+    position: fixed;
+    z-index: 3;
+    top: 0;
+    right: 0;
+    width: $hamburgerSize;
+    height: $hamburgerSize;
+  }
 
   .overlay {
     background: _palette(t-black-20);
     backdrop-filter: blur(7px) grayscale(50%);
     position: fixed;
+    z-index: 1;
+    visibility: hidden;
     left: 0;
     right: 0;
     top: 0;
     bottom: 0;
-    z-index: 1;
   }
 
-  .hidden {
-    visibility: hidden;
+  .menu {
+    top: $hamburgerSize + $nanoPadding;
+    font-family: _font('family-heading');
+    font-weight: 400;
+    text-transform: uppercase;
+    position: absolute;
+    right: $nanoPadding;
+    height: 0;
+    opacity: 0;
+    z-index: 3;
+
+    a {
+      display: block;
+      background: _palette(bright);
+      border: none;
+      margin-bottom: $nanoPadding;
+      font-size: 1.2rem;
+      line-height: 1rem;
+      padding: 0.9rem 0.7rem;
+
+      &:hover {
+        color: _palette(accent);
+        background: _palette(fg)
+      }
+    }
+  }
+
+  .menu:focus,
+  .menu:focus-within,
+  #menu-toggle:checked {
+
+    &.menu,
+    &~.menu,
+    &~.overlay {
+      height: auto;
+      opacity: 1;
+      visibility: visible;
+    }
+
+    &~.toggle {
+      left: 0;
+      bottom: 0;
+      width: auto;
+      z-index: 2;
+      height: auto;
+    }
+
+    &~.hamburger {
+      color: _palette(bright);
+      background: _palette(t-black-60);
+    }
   }
 
   .hamburger {
     background: _palette(t-black-20);
-
-    &.selected {
-      color: _palette(bright);
-      background: _palette(t-black-60);
-    }
-
     z-index: 2;
     font-size: $hamburgerSize / 3;
     text-align: center;
@@ -42,27 +105,4 @@
     right: 0;
   }
 
-  .menu {
-    top: $hamburgerSize + $nanoPadding;
-    font-family: _font('family-heading');
-    font-weight: 400;
-    text-transform: uppercase;
-    position: absolute;
-    right: $nanoPadding;
-  }
-
-  a {
-    display: block;
-    background: _palette(bright);
-    border: none;
-    margin-bottom: $nanoPadding;
-    font-size: 1.2rem;
-    line-height: 1rem;
-    padding: 0.9rem 0.7rem;
-
-    &:hover {
-      color: _palette(accent);
-      background: _palette(fg)
-    }
-  }
 }
