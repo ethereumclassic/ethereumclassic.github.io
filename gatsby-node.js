@@ -1,3 +1,17 @@
+// ensure the date gets cast to a string for querying
+exports.createSchemaCustomization = ({ actions }) => {
+  const { createTypes } = actions;
+  const typeDefs = `
+    type yamlI18n implements Node {
+      data: Data
+    }
+    type Data {
+      date: String
+    }
+  `;
+  createTypes(typeDefs);
+};
+
 // PAGINATION
 const itemsPerPage = 30;
 
