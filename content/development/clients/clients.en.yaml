@@ -17,7 +17,7 @@ items:
     key: Core-Geth
     name: Core-Geth
     link: https://core-geth.org/
-    description: Core-Geth is a distribution of go-ethereum with many flavors. For Phoenix upgrade support, please use version v1.11.0 or later. Upgrade considerations, you can use your existing data directories and do not need to resync for migration to Core-Geth from the deprecated Multi-Geth client. This client is Long Term Supported by the ETC Core development team with stable funding from Ethereum Classic Labs. This is a recommended client from a well-known transparent team.
+    description: Core-Geth is a distribution of go-ethereum with many flavors. For Phoenix upgrade support, please use version v1.11.0 or later. Upgrade considerations, users can use their existing data directories and do not need to resync for migration to Core-Geth from the deprecated Multi-Geth client. This client is Long Term Supported by the ETC Core development team with stable funding from Ethereum Classic Labs. This is a recommended client from a well-known transparent team.
     guide: https://core-geth.org/install
     release: https://github.com/etclabscore/core-geth/releases
     support: https://gitter.im/core-geth/community
@@ -35,7 +35,7 @@ items:
     key: OpenETC
     name: OpenETC
     link: https://github.com/openetc
-    description: OpenETC is a fast and feature-rich multi-network Ethereum client. For Phoenix upgrade support, please use version 3.0.1 or later. Upgrade considerations, OpenETC is a branch of the deprecated ParityEthereum project. Users you can use your existing data directories and do not need to resync for migration to OpenETC from the deprecated ParityEthereum v2.7.2 client. OpenETC is an open source, community maintained branch of the ParityEthereum client. Note this client project is marked as an experimental client due to its infancy. The open development team lacks a known track record of development due to their anonymous nature. Please do your own research if you intend to use this client.
+    description: OpenETC is a fast and feature-rich multi-network Ethereum client. For Phoenix upgrade support, please use version 3.0.1 or later. Upgrade considerations, OpenETC is a branch of the deprecated ParityEthereum project. Users can use their existing data directories and do not need to resync for migration to OpenETC from the deprecated ParityEthereum v2.7.2 client. OpenETC is an open source, community maintained branch of the ParityEthereum client. Note this client project is marked as an experimental client due to its infancy. The open development team lacks a known track record of development due to their anonymous nature. Please do your own research if you intend to use this client.
     guide: https://github.com/openetc/openetc
     release: https://github.com/openetc/openetc/releases
     support: https://discordapp.com/invite/HW4GckH
