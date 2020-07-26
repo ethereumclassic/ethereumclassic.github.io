@@ -57,10 +57,15 @@ content:
       link: https://discord.gg/5KwEAdZ
       name: ETC Core
       brand: discord
+      -
+      key: OpenETC dev
+      link: https://discord.gg/4PyGtp7
+      name: OpenETC
+      brand: discord
     -
-      key: OpenEthereum dev
-      link: http://discord.io/openethereum
-      name: OpenEthereum
+      key: OpenEthereum dev (support discontinued)
+      link: https://discord.gg/4PyGtp7
+      name: OpenEthereum (deprecated)
       brand: discord
     -
       key: PAO Network dev
@@ -73,7 +78,7 @@ content:
       name: Core Geth
       brand: gitter
     -
-      key: Multi-Geth dev
+      key: Multi-Geth dev (support discontinued)
       link: https://gitter.im/multi-geth/community
       name: Multi-Geth
       brand: gitter
