@@ -526,6 +526,20 @@ items:
     icon: fas fa-angle-double-up
     link: /blog/2020-06-01-phoenix-hard-fork-upgrade/
     text: June 01 2020, Ethereum Classic core developers implement ETH's Istanbul network protocol upgrades to maintain operational parity with its sister chain
+  - key: client-Deprecation-Attacks
+    title: Client Deprecation Attacks
+    date: Jul 20 2020
+    className: red
+    icon: fas fas fa-exclamation-triangle
+    link: https://coinfomania.com/ethereum-classic-openetc-client-openethereum/
+    text: On the 4th anniversary of the DAO Hardfork bailout, ETH focused client maintainers orchestrate a social attack on Ethereum Classic. The client maintainers annouced deprecation of Ethereum Classic support in a GitHub pull request, then executed a misinformation marketing campaign citing the ETC network would lose 70% of the hashrate
+  - key: openETC-Launch
+    title: OpenETC Launch
+    date: Jul 20 2020
+    className: blue
+    icon: fas fa-code-branch
+    link: https://github.com/openetc/openetc/releases
+    text: In response to the Client Deprecation Attacks, an anonymous long-term ETC participant launched the OpenETC client. Ethereum Classic proved its resilience in the face of another ETH development community attack. The network continues to grow stronger with more open-source, decentralized development of infrastructure tools
   - key: aBrightFuture
     title: A Bright Future
     date: Future
