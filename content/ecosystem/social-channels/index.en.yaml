@@ -208,18 +208,22 @@ content:
       key: forum Reddit r/EthereumClassic
       link: https://www.reddit.com/r/EthereumClassic/
       name: Reddit r/EthereumClassic
+      brand: reddit
     -
       key: forum forum.ethereumclassic.org
       link: https://forum.ethereumclassic.org/
       name: EthereumClassic.org Forum
+      brand: etc
     -
       key: forum BitcoinTalk
       link: https://bitcointalk.org/index.php?topic=5134923
       name: BitcoinTalk
+      brand: bitcointalk
     -
       key: forum Archived BitcoinTalk
       link: https://bitcointalk.org/index.php?topic=1559630.0
       name: Archived BitcoinTalk
+      brand: bitcointalk
   -
     key: Media
     title: Media
