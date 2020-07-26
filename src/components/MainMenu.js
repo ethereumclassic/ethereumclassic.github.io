@@ -1,6 +1,5 @@
-/* eslint-disable jsx-a11y/click-events-have-key-events */
-/* eslint-disable jsx-a11y/no-static-element-interactions */
-import React, { useState } from 'react';
+/* eslint-disable jsx-a11y/label-has-associated-control */
+import React from 'react';
 
 import Menu from './Menu';
 
@@ -9,18 +8,15 @@ const MainMenu = ({
     globals: { mainMenu }
   }
 }) => {
-  const [hidden, setHidden] = useState(true);
-  function toggle() {
-    setHidden(!hidden);
-  }
   return (
     <div className="main-menu">
-      <div className={`overlay ${hidden ? 'hidden' : ''}`} onClick={toggle}>
-        <Menu items={mainMenu} onClick={toggle} />
-      </div>
-      <div className={`hamburger ${!hidden ? 'selected' : ''}`} onClick={toggle}>
+      <input id="menu-toggle" type="checkbox" />
+      <Menu items={mainMenu} />
+      <div className="hamburger">
         <i className="fas fa-bars" />
       </div>
+      <label htmlFor="menu-toggle" className="toggle" />
+      <div className="overlay" />
     </div>
   );
 };
