@@ -30,15 +30,15 @@ content:
       name: Kakao (Korean)
       brand: kakao
     -
-      key: chat Slack
-      link: https://ethereumclassic.herokuapp.com/
-      name: Slack
-      brand: slack
-    -
       key: chat Tencent QQ
       name: QQ (Asian)
       alert: ETC Asia-769408114
       brand: qq
+    -
+      key: chat Slack
+      link: https://ethereumclassic.herokuapp.com/
+      name: Slack
+      brand: slack
     -
       key: chat WeChat
       link: https://bobsummerwill.files.wordpress.com/2019/10/screen-shot-2020-01-31-at-11.40.10-pm.png?w=230&h=300
@@ -363,11 +363,6 @@ content:
       key: website ETC Hub
       link: https://etchub.io/
       name: ETCHub.io
-      brand: etc
-    -
-      key: website EthereumClassicAsia
-      link: http://ethereumclassicasia.org/
-      name: EthereumClassicAsia.org
       brand: etc
     -
       key: website EthereumClassic.cn
