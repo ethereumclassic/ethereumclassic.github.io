@@ -141,46 +141,57 @@ content:
       key: telegram Arabic
       link: https://t.me/EtherClassic_Ar
       name: Arabic
+      brand: telegram-plane
     -
       key: telegram China
       link: https://t.me/etczh
       name: China
+      brand: telegram-plane
     -
       key: telegram English 1
       link: https://telegram.me/ethclassic
       name: English
+      brand: telegram-plane
     -
       key: telegram English 2
       link: https://t.me/etcchat
       name: English
+      brand: telegram-plane
     -
       key: telegram Español
       link: https://t.me/ethclassicesp
       name: Español
+      brand: telegram-plane
     -
       key: telegram German
       link: https://t.me/EtherCalssic_de
       name: German
+      brand: telegram-plane
     -
       key: telegram Italia
       link: https://t.me/ETC_Italia
       name: Italia
+      brand: telegram-plane
     -
       key: telegram Japan
       link: https://t.me/etcjapan
       name: Japan
+      brand: telegram-plane
     -
       key: telegram Russia 1
       link: https://telegram.me/etcrussia
       name: Russia
+      brand: telegram-plane
     -
       key: telegram Russia 2
       link: https://telegram.me/etcru
       name: Russia
+      brand: telegram-plane
     -
       key: telegram Viet Nam
       link: https://t.me/ETCVietnam
       name: Viet Nam
+      brand: telegram-plane
   -
     key: Forums
     title: Forums
