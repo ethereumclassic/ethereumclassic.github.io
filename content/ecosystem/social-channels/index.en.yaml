@@ -278,66 +278,82 @@ content:
       key: twitter China 1
       link: https://twitter.com/EthereumChina
       name: China
+      brand: twitter
     -
       key: twitter China 2
       link: https://twitter.com/ETCChina
       name: China
+      brand: twitter
     -
       key: twitter English 1
       link: https://twitter.com/eth_classic
       name: English
+      brand: twitter
     -
       key: twitter English 2
       link: https://twitter.com/EthereumClassic
       name: English
+      brand: twitter
     -
       key: twitter Español
       link: https://twitter.com/ethclassicesp
       name: Español
+      brand: twitter
     -
       key: twitter France
       link: https://twitter.com/ETC_France
       name: France
+      brand: twitter
     -
       key: twitter Germany
       link: https://twitter.com/GermanyEtc
       name: Germany
+      brand: twitter
     -
       key: twitter Italia
       link: https://twitter.com/etcitalia
       name: Italia
+      brand: twitter
     -
       key: twitter Japan
       link: https://twitter.com/ETCJapan
       name: Japan
+      brand: twitter
     -
       key: twitter Korea 1
       link: https://twitter.com/ethclassic_kor
       name: Korea
+      brand: twitter
     -
       key: twitter Korea 2
       link: https://twitter.com/etckorea1
       name: Korea
+      brand: twitter
     -
       key: twitter Netherlands
       link: https://twitter.com/etcnetherlands
       name: Netherlands
+      brand: twitter
     -
       key: twitter Philippines
       link: https://twitter.com/ETC_Philippines
       name: Philippines
+      brand: twitter
     -
       key: twitter Sri Lanka
       link: https://twitter.com/etcSriLanka
       name: Sri Lanka
+      brand: twitter
     -
       key: twitter Turkey
       link: https://twitter.com/EtcTurkiye
       name: Turkey
+      brand: twitter
     -
       key: twitter Viet Nam
       link: https://twitter.com/ETCVietNam
       name: Viet Nam
+      brand: twitter
   -
     key: Regional Website
     title: Regional Website
@@ -347,19 +363,24 @@ content:
       key: website ETC Hub
       link: https://etchub.io/
       name: ETCHub.io
+      brand: etc
     -
       key: website EthereumClassicAsia
       link: http://ethereumclassicasia.org/
       name: EthereumClassicAsia.org
+      brand: etc
     -
       key: website EthereumClassic.cn
       link: http://ethereumclassic.cn/
       name: EthereumClassic.cn
+      brand: etc
     -
       key: website ETC Korea
       link: https://etckorea.modoo.at/
       name: ETC Korea
+      brand: etc
     -
       key: website EthereumClassicKorea.com
       link: https://www.ethereumclassickorea.com/
       name: EthereumClassicKorea.com
+      brand: etc
