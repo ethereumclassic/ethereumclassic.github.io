@@ -60,7 +60,8 @@ content:
     -
       key: ECIPs dev
       link: https://riot.im/app/#/room/#ecips:matrix.org
-      name: ECIPs (Matrix)
+      name: ECIPs
+      brand: matrix
     -
       key: ETC Core dev
       link: https://discord.gg/5KwEAdZ
@@ -124,7 +125,8 @@ content:
     -
       key: Parity Tech dev
       link: https://riot.im/app/#/room/#watercooler:matrix.parity.io
-      name: Parity Tech (Matrix)
+      name: Parity Tech
+      brand: matrix
     -
       key: Parity Tech dev telegram
       link: https://t.me/parity_technologies
