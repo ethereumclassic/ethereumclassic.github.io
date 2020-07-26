@@ -1,7 +1,7 @@
 {
   "name": "etc-web-2",
   "description": "Ethereum Classic Website",
-  "author": "Chris Hitchcott + ETC Participants",
+  "author": "ETC Participants",
   "version": "1.0.0",
   "scripts": {
     "build": "GATSBY_TELEMETRY_DISABLED=1 gatsby build",
@@ -30,7 +30,7 @@
     "gatsby-plugin-sass": "^2.2.4",
     "gatsby-plugin-sharp": "^2.6.0",
     "gatsby-plugin-sitemap": "^2.4.0",
-    "gatsby-plugin-yaml-i18n": "^0.1.4",
+    "gatsby-plugin-yaml-i18n": "^0.2.1",
     "gatsby-remark-copy-linked-files": "^2.3.1",
     "gatsby-remark-images": "^3.3.0",
     "gatsby-source-filesystem": "^2.2.2",
@@ -48,7 +48,7 @@
     "eslint-config-prettier": "^6.10.1",
     "eslint-import-resolver-alias": "^1.1.2",
     "eslint-plugin-prettier": "^3.1.3",
-    "prompts": "^2.3.2",
-    "prettier": "^1.18.2"
+    "prettier": "^1.18.2",
+    "prompts": "^2.3.2"
   }
 }
