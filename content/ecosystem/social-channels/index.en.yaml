@@ -263,10 +263,12 @@ content:
       key: repository ETC Github
       link: https://github.com/ethereumclassic
       name: ETC Github
+      brand: github
     -
       key: repository ETC Awesome List
       link: https://github.com/ethereumclassic/Awesome-ETC
       name: ETC Awesome List
+      brand: github
   -
     key: Twitter Accounts
     title: Twitter Accounts
