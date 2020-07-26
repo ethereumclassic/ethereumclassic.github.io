@@ -48,63 +48,24 @@ content:
       name: Commonwealth.gg
       brand: discord
     -
+      key: Core-Geth dev
+      link: https://gitter.im/core-geth/community
+      name: Core-Geth
+      brand: gitter
+    -
       key: Core Paper dev
       link: https://discord.io/ethereumclassic
       name: Core Paper
       brand: discord
     -
-      key: ETC Core dev
-      link: https://discord.gg/5KwEAdZ
-      name: ETC Core
-      brand: discord
-    -
-      key: OpenETC dev
-      link: https://discord.gg/4PyGtp7
-      name: OpenETC
-      brand: discord
-    -
-      key: OpenEthereum dev deprecated
-      link: http://discord.io/openethereum
-      name: OpenEthereum (deprecated)
-      brand: discord
-    -
-      key: PAO Network dev
-      link: https://discord.gg/mPJ9zkq
-      name: PAO Network
-      brand: discord
-    -
-      key: Core Geth dev
-      link: https://gitter.im/core-geth/community
-      name: Core Geth
-      brand: gitter
-    -
-      key: Multi-Geth dev deprecated
-      link: https://gitter.im/multi-geth/community
-      name: Multi-Geth (deprecated)
-      brand: gitter
-    -
-      key: Open-RPC dev
-      link: https://gitter.im/open-rpc/community
-      name: Open-RPC
-      brand: gitter
-    -
-      key: POA Network dev
-      link: https://gitter.im/poanetwork/
-      name: POA Network
-      brand: gitter
-    -
       key: ECIPs dev
       link: https://riot.im/app/#/room/#ecips:matrix.org
       name: ECIPs (Matrix)
     -
-      key: Parity Tech dev
-      link: https://riot.im/app/#/room/#watercooler:matrix.parity.io
-      name: Parity Tech (Matrix)
-    -
-      key: Hyperledger Besu dev
-      link: https://chat.hyperledger.org/
-      name: Hyperledger Besu
-      brand: rocketchat
+      key: ETC Core dev
+      link: https://discord.gg/5KwEAdZ
+      name: ETC Core
+      brand: discord
     -
       key: ETCDEV dev
       link: https://t.me/GetEmerald
@@ -116,20 +77,59 @@ content:
       name: ETC Labs
       brand: telegram-plane
     -
-      key: Parity Tech dev telegram
-      link: https://t.me/parity_technologies
-      name: Parity Tech
-      brand: telegram-plane
+      key: Gödel Labs dev
+      link: https://weibo.com/godellabs
+      name: Gödel Labs
+      brand: weibo
+    -
+      key: Hyperledger Besu dev
+      link: https://chat.hyperledger.org/
+      name: Hyperledger Besu
+      brand: rocketchat
+    -
+      key: Multi-Geth dev deprecated
+      link: https://gitter.im/multi-geth/community
+      name: Multi-Geth (deprecated)
+      brand: gitter
+    -
+      key: OpenETC dev
+      link: https://discord.gg/4PyGtp7
+      name: OpenETC
+      brand: discord
+    -
+      key: OpenEthereum dev deprecated
+      link: http://discord.io/openethereum
+      name: OpenEthereum (deprecated)
+      brand: discord
+    -
+      key: Open-RPC dev
+      link: https://gitter.im/open-rpc/community
+      name: Open-RPC
+      brand: gitter
+    -
+      key: PAO Network dev
+      link: https://discord.gg/mPJ9zkq
+      name: PAO Network
+      brand: discord
+    -
+      key: POA Network dev
+      link: https://gitter.im/poanetwork/
+      name: POA Network
+      brand: gitter
     -
       key: POA Network telegram
       link: https://t.me/poa_network
       name: POA Network
       brand: telegram-plane
     -
-      key: Gödel Labs dev
-      link: https://weibo.com/godellabs
-      name: Gödel Labs
-      brand: weibo
+      key: Parity Tech dev
+      link: https://riot.im/app/#/room/#watercooler:matrix.parity.io
+      name: Parity Tech (Matrix)
+    -
+      key: Parity Tech dev telegram
+      link: https://t.me/parity_technologies
+      name: Parity Tech
+      brand: telegram-plane
   -
     key: Telegram Groups
     title: Telegram Groups
