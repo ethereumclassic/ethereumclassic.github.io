@@ -15,11 +15,8 @@ metaLocale: en_US
 htmlLang: en
 #  Do not edit this!
 bodyClass: default
-#  ## Main Menu
-#
-#  ## 404 Page
-# Page displayed when link is broken or missing
-#
+#  ## Misc
+search: Search
 notFound: Page not found
 notFoundText: Sorry, this page doesn't exist
 goBack: Go Back
@@ -35,6 +32,6 @@ warning:
   enabled: true
   title: Hard Fork Alert
   description: June 1, 2020 - Ethereum Classic successfully implemented the Phoenix upgrade on block 10,500,839. If you run an ETC node, please update to a compatible client.
-  button: 
+  button:
     link: /development/clients
     text: Update

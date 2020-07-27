@@ -26,6 +26,14 @@
     height: $hamburgerSize;
   }
 
+  .search {
+    visibility: hidden;
+    position: fixed;
+    top: $tinyPadding;
+    left: $tinyPadding;
+    max-width: 70%;
+  }
+
   .overlay {
     background: _palette(t-black-20);
     backdrop-filter: blur(7px) grayscale(50%);
@@ -38,6 +46,20 @@
     bottom: 0;
   }
 
+  .hamburger {
+    background: _palette(t-black-20);
+    z-index: 3;
+    font-size: $hamburgerSize / 3;
+    text-align: center;
+    width: $hamburgerSize;
+    line-height: $hamburgerSize;
+    height: $hamburgerSize;
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+
   .menu {
     top: $hamburgerSize + $nanoPadding;
     font-family: _font('family-heading');
@@ -46,8 +68,9 @@
     position: absolute;
     right: $nanoPadding;
     height: 0;
+    overflow: hidden;
     opacity: 0;
-    z-index: 3;
+    z-index: 5;
 
     a {
       display: block;
@@ -71,6 +94,7 @@
 
     &.menu,
     &~.menu,
+    &~.search,
     &~.overlay {
       height: auto;
       opacity: 1;
@@ -91,18 +115,5 @@
     }
   }
 
-  .hamburger {
-    background: _palette(t-black-20);
-    z-index: 2;
-    font-size: $hamburgerSize / 3;
-    text-align: center;
-    width: $hamburgerSize;
-    line-height: $hamburgerSize;
-    height: $hamburgerSize;
-    cursor: pointer;
-    position: absolute;
-    top: 0;
-    right: 0;
-  }
 
 }

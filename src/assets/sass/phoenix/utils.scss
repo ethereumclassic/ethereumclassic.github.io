@@ -47,7 +47,7 @@
   }
 }
 
-#wrapper .cells {
+.cells {
   background: _palette(bright);
   border-radius: $roundedLoose;
   box-shadow: $softShadow;
@@ -58,8 +58,9 @@
     border-bottom: $solidDarkLine;
     padding: $smallPadding;
 
-    >* {
-      margin: 0;
+    h3,
+    h4 {
+      margin: 0 !important;
     }
   }
 
@@ -183,6 +184,48 @@
     margin: $tinyPadding;
   }
 }
+
+.search {
+  z-index: 5;
+
+  input::placeholder {
+    font-family: "Font Awesome 5 Free", _font('family');
+    font-weight: 900;
+  }
+
+  .results {
+    margin-top: $tinyPadding;
+    max-height: 15rem;
+
+    .cell {
+      display: block;
+      padding: $tinyPadding;
+      line-height: 1.3rem;
+
+      span {
+        font-weight: bold;
+        margin-right: $microPadding;
+      }
+
+      &:hover {
+        background: _palette(accent-bg);
+      }
+    }
+
+    // .cell {
+    //   a {
+    //     font-weight: bold;
+    //     margin-right: $microPadding;
+    //     border-bottom: none;
+    //   }
+
+    //   line-height: 1.3rem;
+    //   padding: $tinyPadding;
+    // }
+  }
+}
+
+
 
 // custom etc icon
 
