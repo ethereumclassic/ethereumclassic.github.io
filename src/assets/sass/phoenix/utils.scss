@@ -183,3 +183,13 @@
     margin: $tinyPadding;
   }
 }
+
+// custom etc icon
+
+.fa-etc {
+  padding: 0.4rem;
+  background-image: url('../images/etc-black.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 90% auto;
+}
