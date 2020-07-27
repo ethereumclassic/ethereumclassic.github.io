@@ -58,7 +58,7 @@
     border-bottom: $solidDarkLine;
     padding: $smallPadding;
 
-    >* {
+    h3 {
       margin: 0;
     }
   }
@@ -121,6 +121,15 @@
   i.info {
     color: _palette(accent-border);
     margin-right: $microPadding;
+  }
+
+  &.warning {
+    background: _palette(lighter-red-col);
+    color: _palette(dark-red-col);
+
+    i.info {
+      color: _palette(red-col);
+    }
   }
 }
 
