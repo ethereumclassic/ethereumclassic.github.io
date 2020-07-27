@@ -28,6 +28,12 @@ const InfoGroup = ({ data: { items, buttons } }) => {
             <Link to={item.link}>{item.name}</Link>
           </h3>
           <div className="clear" />
+          {item.warning && (
+            <div className="tip warning">
+              <i className="info fas fa-exclamation-triangle" />
+              {item.warning}
+            </div>
+          )}
           {item.description && <p>{item.description}</p>}
           {'  '}
         </div>
