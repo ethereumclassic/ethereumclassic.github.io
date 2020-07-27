@@ -1248,7 +1248,7 @@ readers do not read off random characters that represent icons */
 /* .fa-scribd:before { content: "\f28a"; } */
 /* .fa-scroll:before { content: "\f70e"; } */
 /* .fa-sd-card:before { content: "\f7c2"; } */
-/* .fa-search:before { content: "\f002"; } */
+.fa-search:before { content: "\f002"; }
 /* .fa-search-dollar:before { content: "\f688"; } */
 /* .fa-search-location:before { content: "\f689"; } */
 /* .fa-search-minus:before { content: "\f010"; } */

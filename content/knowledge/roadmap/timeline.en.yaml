@@ -1,6 +1,7 @@
 title: ETC Timeline
 description: A historical account of the formative events that created and defined Ethereum Classic.
 helper: Drag to progress (or hold shift and wheel)!
+latest: Latest
 items:
   - key: frontierRelease
     title: Ethereum Launches

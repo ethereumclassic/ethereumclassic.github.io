@@ -1,5 +1,4 @@
 .main-menu {
-
   position: fixed;
   right: 0;
   top: 0;
@@ -26,6 +25,14 @@
     height: $hamburgerSize;
   }
 
+  .search {
+    visibility: hidden;
+    position: fixed;
+    top: $tinyPadding;
+    left: $tinyPadding;
+    max-width: 70%;
+  }
+
   .overlay {
     background: _palette(t-black-20);
     backdrop-filter: blur(7px) grayscale(50%);
@@ -38,16 +45,31 @@
     bottom: 0;
   }
 
+  .hamburger {
+    background: _palette(t-black-20);
+    z-index: 3;
+    font-size: $hamburgerSize / 3;
+    text-align: center;
+    width: $hamburgerSize;
+    line-height: $hamburgerSize;
+    height: $hamburgerSize;
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+
   .menu {
     top: $hamburgerSize + $nanoPadding;
-    font-family: _font('family-heading');
+    font-family: _font("family-heading");
     font-weight: 400;
     text-transform: uppercase;
     position: absolute;
     right: $nanoPadding;
     height: 0;
+    overflow: hidden;
     opacity: 0;
-    z-index: 3;
+    z-index: 5;
 
     a {
       display: block;
@@ -60,49 +82,41 @@
 
       &:hover {
         color: _palette(accent);
-        background: _palette(fg)
+        background: _palette(fg);
       }
     }
   }
 
-  .menu:focus,
-  .menu:focus-within,
-  #menu-toggle:checked {
-
+  @mixin when-selected {
     &.menu,
-    &~.menu,
-    &~.overlay {
+    & ~ .menu,
+    & ~ .search,
+    & ~ .overlay {
       height: auto;
       opacity: 1;
+      overflow: auto;
       visibility: visible;
     }
-
-    &~.toggle {
+    & ~ .toggle {
       left: 0;
       bottom: 0;
       width: auto;
       z-index: 2;
       height: auto;
     }
-
-    &~.hamburger {
+    & ~ .hamburger {
       color: _palette(bright);
       background: _palette(t-black-60);
     }
   }
 
-  .hamburger {
-    background: _palette(t-black-20);
-    z-index: 2;
-    font-size: $hamburgerSize / 3;
-    text-align: center;
-    width: $hamburgerSize;
-    line-height: $hamburgerSize;
-    height: $hamburgerSize;
-    cursor: pointer;
-    position: absolute;
-    top: 0;
-    right: 0;
-  }
+  // have to split these to fix ie11
 
+  .menu:focus,
+  #menu-toggle:checked {
+    @include when-selected;
+  }
+  .menu:focus-within {
+    @include when-selected;
+  }
 }
