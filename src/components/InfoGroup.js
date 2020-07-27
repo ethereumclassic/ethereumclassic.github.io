@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from './Link';
+import Md from './Markdown';
 
 function renderButton({ button, item }) {
   const link = item[button.key];
@@ -34,7 +35,7 @@ const InfoGroup = ({ data: { items, buttons } }) => {
               {item.warning}
             </div>
           )}
-          {item.description && <p>{item.description}</p>}
+          {item.description && <Md>{item.description}</Md>}
           {'  '}
         </div>
       ))}
