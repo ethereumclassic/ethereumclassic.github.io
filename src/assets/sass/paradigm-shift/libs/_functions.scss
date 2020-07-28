@@ -7,15 +7,18 @@
 
 	$result: null;
 
-	@if type-of($index) != number {
+	@if type-of($index) !=number {
 		@warn "$index: #{quote($index)} is not a number for `remove-nth`.";
 	}
-	@else if $index == 0 {
+
+	@else if $index==0 {
 		@warn "List index 0 must be a non-zero integer for `remove-nth`.";
 	}
-	@else if abs($index) > length($list) {
+
+	@else if abs($index)>length($list) {
 		@warn "List index is #{$index} but list is only #{length($list)} item long for `remove-nth`.";
 	}
+
 	@else {
 
 		$result: ();
@@ -23,7 +26,7 @@
 
 		@for $i from 1 through length($list) {
 
-			@if $i != $index {
+			@if $i !=$index {
 				$result: append($result, nth($list, $i));
 			}
 
@@ -42,7 +45,7 @@
 /// @return {string} Value.
 @function val($map, $keys...) {
 
-	@if nth($keys, 1) == null {
+	@if nth($keys, 1)==null {
 		$keys: remove-nth($keys, 1);
 	}
 
@@ -79,6 +82,8 @@
 /// @param {string} $keys Key(s).
 /// @return {string} Value.
 @function _palette($keys...) {
+
+
 	@return val($palette, $keys...);
 }
 
@@ -87,4 +92,33 @@
 /// @return {string} Value.
 @function _size($keys...) {
 	@return val($size, $keys...);
+}
+
+@function _themed($key) {
+	@return map-get($theme-map, $key);
+}
+
+@function _fromTheme($theme, $key, $themes: $themes) {
+	@return map-get(map-get($themes, $theme), '#{$key}');
+}
+
+@mixin themify($themes: $themes) {
+
+	@each $theme,
+	$map in $themes {
+
+		.theme-#{$theme} & {
+			$theme-map: () !global;
+
+			@each $key,
+			$submap in $map {
+				$value: map-get(map-get($themes, $theme), '#{$key}');
+				$theme-map: map-merge($theme-map, ($key: $value)) !global;
+			}
+
+			@content;
+			$theme-map: null !global;
+		}
+
+	}
 }

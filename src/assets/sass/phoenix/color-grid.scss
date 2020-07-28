@@ -1,9 +1,3 @@
-$grid-color-1:_palette(green-col);
-$grid-color-2:_palette(blue-col);
-$grid-color-3:_palette(light-red-col);
-$grid-color-4:_palette(light-purple-col);
-$grid-color-5:_palette(orange-col);
-
 // deep override
 #wrapper {
 
@@ -39,7 +33,10 @@ $grid-color-5:_palette(orange-col);
       }
 
       &.grid-color-all {
-        background: _palette(grey-10);
+        @include themify() {
+          background: _themed(grey-10);
+        }
+
         opacity: 1;
       }
     }
@@ -47,14 +44,12 @@ $grid-color-5:_palette(orange-col);
 
   .color-grid-items {
     display: grid;
-    background: _palette(grey-10);
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     padding: $smallPadding;
     margin-bottom: $largePadding;
 
     .card {
       margin: $microPadding;
-      background: _palette(bright);
       box-shadow: $softShadow;
       border-bottom: none;
       $radius: $microPadding;
@@ -77,35 +72,44 @@ $grid-color-5:_palette(orange-col);
         text-align: center;
       }
     }
-  }
 
-  .color-grid-legend .key.grid-color-1,
-  .color-grid-items .card.grid-color-1:hover,
-  .color-grid-items .card.grid-color-1 h4 {
-    background: $grid-color-1;
-  }
+    @include themify() {
+      background: _themed(grey-10);
 
-  .color-grid-legend .key.grid-color-2,
-  .color-grid-items .card.grid-color-2:hover,
-  .color-grid-items .card.grid-color-2 h4 {
-    background: $grid-color-2;
-  }
+      .card {
+        background: _themed(bright);
+      }
 
-  .color-grid-legend .key.grid-color-3,
-  .color-grid-items .card.grid-color-3:hover,
-  .color-grid-items .card.grid-color-3 h4 {
-    background: $grid-color-3;
-  }
 
-  .color-grid-legend .key.grid-color-4,
-  .color-grid-items .card.grid-color-4:hover,
-  .color-grid-items .card.grid-color-4 h4 {
-    background: $grid-color-4;
-  }
+      .color-grid-legend .key.grid-color-1,
+      .color-grid-items .card.grid-color-1:hover,
+      .color-grid-items .card.grid-color-1 h4 {
+        background: _themed(green-col);
+      }
 
-  .color-grid-legend .key.grid-color-5,
-  .color-grid-items .card.grid-color-5:hover,
-  .color-grid-items .card.grid-color-5 h4 {
-    background: $grid-color-5;
+      .color-grid-legend .key.grid-color-2,
+      .color-grid-items .card.grid-color-2:hover,
+      .color-grid-items .card.grid-color-2 h4 {
+        background: _themed(blue-col);
+      }
+
+      .color-grid-legend .key.grid-color-3,
+      .color-grid-items .card.grid-color-3:hover,
+      .color-grid-items .card.grid-color-3 h4 {
+        background: _themed(light-red-col);
+      }
+
+      .color-grid-legend .key.grid-color-4,
+      .color-grid-items .card.grid-color-4:hover,
+      .color-grid-items .card.grid-color-4 h4 {
+        background: _themed(light-purple-col);
+      }
+
+      .color-grid-legend .key.grid-color-5,
+      .color-grid-items .card.grid-color-5:hover,
+      .color-grid-items .card.grid-color-5 h4 {
+        background: _themed(orange-col);
+      }
+    }
   }
 }

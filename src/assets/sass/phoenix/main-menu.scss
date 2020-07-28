@@ -35,7 +35,10 @@ $hamburgerSize: 3rem;
   }
 
   .overlay {
-    background: _palette(t-black-20);
+    @include themify() {
+      background: _themed(t-black-20);
+    }
+
     backdrop-filter: blur(7px) grayscale(50%);
     position: fixed;
     z-index: 1;
@@ -47,7 +50,10 @@ $hamburgerSize: 3rem;
   }
 
   .hamburger {
-    background: _palette(t-black-20);
+    @include themify() {
+      background: _themed(t-black-20);
+    }
+
     z-index: 3;
     font-size: $hamburgerSize / 3;
     text-align: center;
@@ -74,7 +80,11 @@ $hamburgerSize: 3rem;
 
     a {
       display: block;
-      background: _palette(bright);
+
+      @include themify() {
+        background: _themed(bright);
+      }
+
       border: none;
       margin-bottom: $nanoPadding;
       font-size: 1.2rem;
@@ -82,8 +92,10 @@ $hamburgerSize: 3rem;
       padding: 0.9rem 0.7rem;
 
       &:hover {
-        color: _palette(accent);
-        background: _palette(fg);
+        @include themify() {
+          color: _themed(accent);
+          background: _themed(fg);
+        }
       }
     }
   }
@@ -109,8 +121,10 @@ $hamburgerSize: 3rem;
     }
 
     &~.hamburger {
-      color: _palette(bright);
-      background: _palette(t-black-60);
+      @include themify() {
+        color: _themed(bright);
+        background: _themed(t-black-60);
+      }
     }
   }
 

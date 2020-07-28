@@ -17,7 +17,7 @@ const DarkMode = ({ i18n }) => {
   return (
     <>
       <Helmet>
-        <body className={`${on ? 'dark-theme' : 'light-theme'} ${i18n.bodyClass || ''}`} />
+        <body className={`${on ? 'theme-dark' : 'theme-light'} ${i18n.bodyClass || ''}`} />
       </Helmet>
       <div className="dark-mode" onClick={toggle}>
         <i className={`fas fa-${on ? 'moon' : 'sun'}`} />

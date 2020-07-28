@@ -29,10 +29,16 @@
 	body {
 		background-color: _palette(bg);
 		color: _palette(fg);
+		&.theme-dark {
+			background-color: _fromTheme('dark', bg);
+			color: _fromTheme('dark', fg);
+		}
 	}
 
 	body, input, select, textarea {
-		color: _palette(fg-bold);
+		@include themify() {
+			color: _themed(fg-bold);
+		}
 		font-family: _font(family);
 		font-size: 1rem;
 		font-weight: _font(weight);
@@ -43,18 +49,24 @@
 	a {
 		@include vendor('transition', 'border-bottom-color #{_duration(transition)} ease-in-out');
 		text-decoration: none;
-		color: _palette(fg-bold);
-		border-bottom: dashed 1px _palette(t-black-30);
+		@include themify() {
+			color: _themed(fg-bold);
+			border-bottom: dashed 1px _themed(t-black-30);
+		}
 
 		&:hover {
 			text-decoration: none;
-			border-bottom: dashed 1px _palette(t-black-10);
+			@include themify() {
+				border-bottom: dashed 1px _themed(t-black-10);
+			}
 		}
 	}
 
 	strong, b {
 		font-weight: _font(weight-bold);
-		color: _palette(fg-bold);
+		@include themify() {
+			color: _themed(fg-bold);
+		}
 	}
 
 	em, i {
@@ -66,7 +78,9 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: _palette(fg-bold);
+		@include themify() {
+			color: _themed(fg-bold);
+		}
 		font-family: _font(family-heading);
 		font-weight: _font(weight-heading-light);
 		letter-spacing: _font(kerning-heading);
@@ -177,14 +191,18 @@
 	}
 
 	blockquote {
-		border-left: solid 0.5rem _palette(border);
+		@include themify() {
+			border-left: solid 0.5rem _themed(border);
+		}
 		font-style: italic;
 		margin: 0 0 _size(element-margin) 0;
 		padding: (_size(element-margin) * 0.5) 0 (_size(element-margin) * 0.5) _size(element-margin);
 	}
 
 	code {
-		background: _palette(border-bg);
+		@include themify() {
+			background: _themed(border-bg);
+		}
 		border-radius: _size(border-radius);
 		font-family: _font(family-fixed);
 		font-size: 0.9rem;
@@ -209,7 +227,9 @@
 
 	hr {
 		border: 0;
-		border-bottom: solid 2px _palette(border);
+		@include themify() {
+			border-bottom: solid 2px _themed(border);
+		}
 		margin: (_size(element-margin) * 1.5) 0;
 
 		&.major {

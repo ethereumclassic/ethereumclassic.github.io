@@ -1,10 +1,13 @@
 .roadmap {
-  $border: $nanoPadding solid _palette(accent);
+
   display: grid;
   grid-template-columns: 50% 50%;
 
   h4 {
-    border-bottom: $border;
+    @include themify() {
+      border-bottom: $nanoPadding solid _themed(accent);
+    }
+
     display: inline-block;
   }
 
@@ -14,7 +17,9 @@
   }
 
   .item {
-    border-right: $border;
+    @include themify() {
+      border-right: $nanoPadding solid _themed(accent);
+    }
   }
 
   .item:nth-child(odd) {

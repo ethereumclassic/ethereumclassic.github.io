@@ -17,7 +17,11 @@
   .warning-overlay {
     pointer-events: auto;
     position: relative;
-    background: transparentize(_palette(red-col), 0.10);
+
+    @include themify() {
+      background: transparentize(_themed(red-col), 0.10);
+    }
+
     box-shadow: $hardShadow;
     text-shadow: $textShadow;
     width: 40rem;

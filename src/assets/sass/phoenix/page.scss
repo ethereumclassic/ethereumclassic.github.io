@@ -1,8 +1,11 @@
 // non-front page pages
 .page {
   .header {
-    background: _palette(accent);
-    border-bottom: 1px solid transparentize(_palette(bright), 0.30);
+    @include themify() {
+      background: _themed(accent);
+      border-bottom: 1px solid transparentize(_themed(bright), 0.30);
+    }
+
     box-shadow: $softerShadow;
     z-index: 1;
     position: relative;
@@ -48,7 +51,9 @@
         border-bottom: none;
 
         &:hover {
-          color: _palette(bg);
+          @include themify() {
+            color: _themed(bg);
+          }
         }
       }
     }
@@ -56,7 +61,10 @@
   }
 
   >.contents {
-    background: _palette(bg);
+    @include themify() {
+      background: _themed(bg);
+    }
+
     padding: $smallPadding 0;
     padding-bottom: $largePadding;
   }

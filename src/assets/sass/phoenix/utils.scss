@@ -48,7 +48,10 @@
 }
 
 .cells {
-  background: _palette(bright);
+  @include themify() {
+    background: _themed(bright);
+  }
+
   border-radius: $roundedLoose;
   box-shadow: $softShadow;
   margin: $smallPadding 0;
@@ -94,50 +97,68 @@
 }
 
 .dark {
-  background: _palette(accent-dark);
-
-  * {
-    color: _palette(bg);
+  .button-link {
+    box-shadow: $softShadow;
   }
 
-  .button-link {
-    background: _palette(t-white-20);
-    box-shadow: $softShadow;
+  @include themify() {
+    background: _themed(accent-dark);
 
-    &:hover {
-      background: _palette(t-white-10);
+    * {
+      color: _themed(bg);
+    }
+
+    .button-link {
+      background: _themed(t-white-20);
+
+      &:hover {
+        background: _themed(t-white-10);
+      }
     }
   }
 }
 
 .tip {
-  background: _palette(accent-bg);
   padding: $microPadding $tinyPadding;
   border-radius: $roundedTight;
   font-size: 0.9rem;
   line-height: 1.5rem;
   margin: $microPadding 0;
-  color: _palette(accent-dark);
 
   i.info {
-    color: _palette(accent-border);
     margin-right: $microPadding;
   }
 
-  &.warning {
-    background: _palette(lighter-red-col);
-    color: _palette(dark-red-col);
+  @include themify() {
+    background: _themed(accent-bg);
+    color: _themed(accent-dark);
+
+    a {
+      color: _themed(accent-dark);
+    }
 
     i.info {
-      color: _palette(red-col);
+      color: _themed(accent-border);
+    }
+
+    &.warning {
+      background: _themed(lighter-red-col);
+      color: _themed(dark-red-col);
+
+      i.info {
+        color: _themed(red-col);
+      }
     }
   }
 }
 
 .shaded {
-  $baseCol: _palette(grey-10);
-  background: linear-gradient(180deg, $baseCol, darken($baseCol, 15%));
-  text-shadow: 0px 1px 1px _palette(t-white-80);
+  @include themify() {
+    $baseCol: _themed(grey-10);
+    background: linear-gradient(180deg, $baseCol, darken($baseCol, 15%));
+    text-shadow: 0px 1px 1px _themed(t-white-80);
+  }
+
 
   >.container {
     z-index: 1;
@@ -171,8 +192,11 @@
 }
 
 .showcase {
-  background: _palette(grey-10);
-  box-shadow: 0 $tinyPadding $smallPadding _palette(t-black-20);
+  @include themify() {
+    background: _themed(grey-10);
+    box-shadow: 0 $tinyPadding $smallPadding _themed(t-black-20);
+  }
+
   padding: $smallPadding;
   border-radius: $roundedTight;
 }
@@ -217,20 +241,11 @@
       }
 
       &:hover {
-        background: _palette(accent-bg);
+        @include themify() {
+          background: _themed(accent-bg);
+        }
       }
     }
-
-    // .cell {
-    //   a {
-    //     font-weight: bold;
-    //     margin-right: $microPadding;
-    //     border-bottom: none;
-    //   }
-
-    //   line-height: 1.3rem;
-    //   padding: $tinyPadding;
-    // }
   }
 }
 
@@ -240,8 +255,12 @@
 
 .fa-etc {
   padding: 0.4rem;
-  background-image: url('../images/etc-black.svg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: 90% auto;
+  background-image: url('../images/etc-black.svg');
+}
+
+body.theme-dark .fa-etc {
+  background-image: url('../images/etc-white.svg');
 }
