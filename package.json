@@ -12,7 +12,7 @@
     "develop": "SHOW_ALL_LOCALES=1 GATSBY_TELEMETRY_DISABLED=1 gatsby develop",
     "lint": "eslint .",
     "serve-build": "npm run build && npm run serve",
-    "serve": "GATSBY_TELEMETRY_DISABLED=1 gatsby serve",
+    "serve": "GATSBY_TELEMETRY_DISABLED=1 gatsby serve --host=0.0.0.0",
     "start": "npm run develop"
   },
   "dependencies": {
@@ -24,6 +24,7 @@
     "gatsby-plugin-favicon": "^3.1.6",
     "gatsby-plugin-feed": "^2.5.0",
     "gatsby-plugin-layout": "^1.2.4",
+    "gatsby-plugin-lunr": "^1.5.2",
     "gatsby-plugin-mdx": "^1.1.7",
     "gatsby-plugin-react-helmet": "^3.3.0",
     "gatsby-plugin-remove-generator": "^1.0.4",

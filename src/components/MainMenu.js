@@ -2,16 +2,18 @@
 import React from 'react';
 
 import Menu from './Menu';
+import Search from './Search';
 
 const MainMenu = ({
   i18n: {
-    globals: { mainMenu }
+    globals: { mainMenu, ui }
   }
 }) => {
   return (
     <div className="main-menu">
       <input id="menu-toggle" type="checkbox" />
       <Menu items={mainMenu} />
+      <Search i18n={ui} />
       <div className="hamburger">
         <i className="fas fa-bars" />
       </div>

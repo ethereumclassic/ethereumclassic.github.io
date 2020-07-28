@@ -4,10 +4,11 @@ import ButtonsGroup from './ButtonsGroup';
 import Icons from './Icons';
 
 import Md from './Markdown';
+import Search from './Search';
 
 const Footer = ({
   i18n: {
-    globals: { footer: i18n }
+    globals: { footer: i18n, ui }
   }
 }) => {
   return (
@@ -30,6 +31,8 @@ const Footer = ({
             <Link button next to="/ecosystem/social-channels">
               {i18n.moreChannels}
             </Link>
+            <div className="spaced" />
+            <Search i18n={ui} />
           </div>
         </div>
         <footer>
