@@ -37,7 +37,7 @@ content:
     -
       key: chat Slack
       link: https://ethereumclassic.herokuapp.com/
-      name: Slack
+      name: Slack (English)
       brand: slack
     -
       key: chat WeChat
@@ -61,7 +61,7 @@ content:
       brand: gitter
     -
       key: Core Paper dev
-      link: https://discord.io/ethereumclassic
+      link: https://discord.com/invite/BdRSvJD
       name: Core Paper
       brand: discord
     -
