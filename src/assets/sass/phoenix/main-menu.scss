@@ -1,7 +1,6 @@
 $hamburgerSize: 3rem;
 
 .main-menu {
-
   position: fixed;
   right: 0;
   top: 0;
@@ -63,7 +62,7 @@ $hamburgerSize: 3rem;
 
   .menu {
     top: $hamburgerSize + $nanoPadding;
-    font-family: _font('family-heading');
+    font-family: _font("family-heading");
     font-weight: 400;
     text-transform: uppercase;
     position: absolute;
@@ -84,14 +83,12 @@ $hamburgerSize: 3rem;
 
       &:hover {
         color: _palette(accent);
-        background: _palette(fg)
+        background: _palette(fg);
       }
     }
   }
 
-  .menu:focus,
-  .menu:focus-within,
-  #menu-toggle:checked {
+  @mixin when-selected {
 
     &.menu,
     &~.menu,
@@ -99,6 +96,7 @@ $hamburgerSize: 3rem;
     &~.overlay {
       height: auto;
       opacity: 1;
+      overflow: auto;
       visibility: visible;
     }
 
@@ -116,10 +114,20 @@ $hamburgerSize: 3rem;
     }
   }
 
+  // have to split these to fix ie11
+
+  .menu:focus,
+  #menu-toggle:checked {
+    @include when-selected;
+  }
+
+  .menu:focus-within {
+    @include when-selected;
+  }
 }
 
 .dark-mode {
-  position: absolute;
+  position: fixed; // TODO absolute
   top: 0;
   cursor: pointer;
   opacity: 0.3;
