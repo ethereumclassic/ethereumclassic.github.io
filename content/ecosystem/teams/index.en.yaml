@@ -119,7 +119,7 @@ content:
       - key: Core Paper
         year: 2019
         name: Core Paper
-        active: true
+        className: faded
         link: https://corepaper.org/
         twitter: https://twitter.com/corepaper
         github: https://github.com/corepaper
@@ -137,3 +137,10 @@ content:
         link: https://www.godel.ai/
         twitter: https://twitter.com/Goedellabs
         github: https://github.com/multi-geth/multi-geth
+      - key: OpenETC
+        year: 2020
+        name: OpenETC
+        active: true
+        link: https://openetc.org/
+        twitter: https://twitter.com/cryptoasuka
+        github: https://github.com/openetc/openetc
