@@ -86,22 +86,26 @@ items:
     key: "phoenix-awareness"
     text: "Core development teams have signaled that this upgrade has successfully passed testing analysis on the Mordor and Kotti testnets. Ethereum Classic will never rush to upgrade the mainnet. Network security is priority over development speed and arbitary timelines. The ETC miners, wallets, exchanges, payment processors begin updated their clients for the Phoenix Upgrade. https://medium.com/etc-core/top-miners-confirmed-to-support-phoenix-ethereum-classic-hard-fork-phoenix-status-update-bc8964424fd4"
   -
+    date: June
+    key: "website-internationalization"
+    text: "Reach out to the non-english ETC social channels to translate the English version of the Ethereum Classic website. https://github.com/ethereumclassic/ethereumclassic.github.io"
+  -
     date: June 1
     key: "phoenix-mainnet"
     text: "Phoenix activates on Ethereum Classic mainnet on block 10,500,839. Core development teams have signaled that this upgrade has successfully passed testing analysis on the Mordor and Kotti testnets. https://ethereumclassic.org/blog/2020-06-01-phoenix-hard-fork-upgrade/"
   -
-    date: Q2
-    key: "website-internationalization"
-    text: "Reach out to the non-english ETC social channels to translate the English version of https://ethereumclassic.org/"
+    date: July 17
+    key: "Connext State Channels"
+    text: "Add Connext state channels support. The goal is to have Connext ETC channels live in 2020. https://etccooperative.org/posts/2020-07-17-etc-connext-state-channels"
   -
+    date: July 20
+    key: "OpenETH"
+    text: "An ETC client is launched to fill the need as Parity deprecates their ParityEthereum project. https://github.com/openetc/openetc/releases"
+  - 
     date: Q3
     key: "Implementation: Instruction"
     text: "LLVM Instruction scheduler and performance optimizations"
   -
-    date: Q3
-    key: "Connext State Channels"
-    text: "Add Connext state channels support. The goal is to have Connext ETC channels live in 2020."
-  - 
     date: Q3
     key: "JSON-RPC devp2p"
     text: "JSON-RPC devp2p Wire protocol specification and reference implementation research and possible design"
@@ -171,7 +175,7 @@ items:
     text: "Interoperability Market Capture. ETC added to more products increase access/utility for ETC. Onboard stabelcoins and dapps. Build the foundation for DeFi on hard-money ETC"
   -
     date: Q4
-    key: "Interoperability Orgs"
+    key: "Ethereum Magicians"
     text: "Establish a Specifications Ring within Ethereum Magicians and to gather stakeholders from ETH, ETC and EEA there"
   -
     date: Q4

@@ -1,6 +1,7 @@
 title: ETC Timeline
 description: A historical account of the formative events that created and defined Ethereum Classic.
 helper: Drag to progress (or hold shift and wheel)!
+latest: Latest
 items:
   - key: frontierRelease
     title: Ethereum Launches
@@ -526,6 +527,20 @@ items:
     icon: fas fa-angle-double-up
     link: /blog/2020-06-01-phoenix-hard-fork-upgrade/
     text: June 01 2020, Ethereum Classic core developers implement ETH's Istanbul network protocol upgrades to maintain operational parity with its sister chain
+  - key: client-Deprecation-Attacks
+    title: Client Deprecation Attacks
+    date: Jul 20 2020
+    className: red
+    icon: fas fas fa-exclamation-triangle
+    link: https://coinfomania.com/ethereum-classic-openetc-client-openethereum/
+    text: On the 4th anniversary of the DAO Bailout Hard Fork, ETH-centric client maintainers orchestrate a social attack on Ethereum Classic. The client maintainers annouce deprecation of Ethereum Classic support, then execute a misinformation marketing campaign citing the ETC network would lose 70% of the hashrate among other mistruths
+  - key: openETC-Launch
+    title: OpenETC Launch
+    date: Jul 20 2020
+    className: blue
+    icon: fas fa-code-branch
+    link: https://github.com/openetc/openetc/releases
+    text: In response to the Client Deprecation Attacks, ETC participants launch the OpenETC client. Ethereum Classic proves its resilience in the face of another ETH development community attack. The network continues to grow stronger with more open-source, decentralized development of infrastructure tools
   - key: aBrightFuture
     title: A Bright Future
     date: Future
