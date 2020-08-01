@@ -31,13 +31,3 @@ items:
     release: https://github.com/hyperledger/besu/releases
     support: https://chat.hyperledger.org/
     supportIcon: fab fa-rocketchat
-  -
-    key: OpenETC
-    name: OpenETC
-    link: https://github.com/openetc
-    warning: OpenETC is a new, experimental community project. Use it at your own risk.
-    description: OpenETC is a branch of the deprecated ParityEthereum project, fast and feature-rich multi-network Ethereum client. For Phoenix upgrade support, please use version 3.0.1 or later. Users can use their existing data directories and do not need to resync for migration to OpenETC from the deprecated ParityEthereum v2.7.2 client. OpenETC is an open source, community maintained branch of the ParityEthereum client. Note this client project is marked as an experimental client due to its infancy and whilst open source, the anonymous development team lacks a known track record. **Please do your own research if you intend to use this client.**
-    guide: https://github.com/openetc/openetc
-    release: https://github.com/openetc/openetc/releases
-    support: https://discord.gg/4PyGtp7
-    supportIcon: fab fa-discord
