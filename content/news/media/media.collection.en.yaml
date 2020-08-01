@@ -1,4 +1,18 @@
 -
+  date: 2020-08-01
+  link: https://hackmd.io/@cUBb4hAvQciAEPoU2yfrzQ/Skd4X6MZw
+  author: Yaz Khoury, Sam Johnson, Austin Roberts
+  source: Ethereum Classic Cooperative, RIVET
+  title: "ETC Chain Split Diagnosis. The issue occured on the Ethereum Classic blockchain several hours ago"
+  tags: ["announcement", "teams", "development", "mining"]
+-
+  date: 2020-07-30
+  link: https://medium.com/ethereum-classic-labs/bloq-launches-managed-api-service-for-ethereum-and-ethereum-classic-f1f6f41932b8
+  author: Ethereum Classic Labs
+  source: Ethereum Classic Labs
+  title: "Bloq Launches Managed API Service for Ethereum and Ethereum Classic"
+  tags: ["announcement", "teams", "development"]
+-
   date: 2020-07-21
   link: https://medium.com/openetc/introducing-openetc-a-etc-branch-of-parityethereum-openethereum-project-36bb1bc699a6
   author: Jongchan J.
