@@ -1,4 +1,18 @@
 -
+  date: 2020-08-01
+  link: https://hackmd.io/@cUBb4hAvQciAEPoU2yfrzQ/Skd4X6MZw
+  author: Yaz Khoury, Sam Johnson, Austin Roberts
+  source: Ethereum Classic Cooperative, RIVET
+  title: "ETC Chain Split Diagnosis. The issue occured on the Ethereum Classic blockchain several hours ago"
+  tags: ["announcement", "teams", "development", "mining"]
+-
+  date: 2020-07-30
+  link: https://medium.com/ethereum-classic-labs/bloq-launches-managed-api-service-for-ethereum-and-ethereum-classic-f1f6f41932b8
+  author: Ethereum Classic Labs
+  source: Ethereum Classic Labs
+  title: "Bloq Launches Managed API Service for Ethereum and Ethereum Classic"
+  tags: ["announcement", "teams", "development"]
+-
   date: 2020-07-21
   link: https://medium.com/openetc/introducing-openetc-a-etc-branch-of-parityethereum-openethereum-project-36bb1bc699a6
   author: Jongchan J.
@@ -13,12 +27,26 @@
   title: "ETC Labs Announces Cohort III, Blockchain for Impact Startups"
   tags: ["announcement", "teams", "development"]
 -
+  date: 2020-07-20
+  link: https://www.coindesk.com/openethereum-supported-50-of-ethereum-classic-now-its-leaving-the-project
+  author: William Foxley
+  source: CoinDesk
+  title: "OpenEthereum Supported 50% of Ethereum Classic Nodes. Now It’s Leaving the Project"
+  tags: ["announcement", "teams", "development"]
+-
   date: 2020-07-17
   link: https://etccooperative.org/posts/2020-07-17-etc-connext-state-channels
   author: Ethereum Classic Cooperative
   source: Ethereum Classic Cooperative
   title: "Connext State Channels on ETC"
-  tags: ["announcement", "teams", "development"]  
+  tags: ["announcement", "teams", "development", "application"]  
+-
+  date: 2020-07-14
+  link: https://www.publish0x.com/xqanxxx/changenow-ama-recap-with-5-ethereum-classic-devs-xkkdejr
+  author: xqanxxx
+  source: Publish0x
+  title: "ChangeNOW AMA Recap With 5 Ethereum Classic Devs"
+  tags: ["announcement", "teams", "education"]  
 -
   date: 2020-07-09
   link: https://medium.com/etc-core/etc-core-quarterly-development-review-q1-q2-2020-ecebcfb02b2e
@@ -3944,7 +3972,7 @@
   title: "Grayscale Investments Plans To Launch Private Ethereum Classic Fund"
   tags: ["announcement", "application", "development", "teams"]
 -
-  date: 2017-03-8
+  date: 2017-03-08
   link: https://cointelegraph.com/news/hard-soft-friendly-zooko-wilcox-talks-bitcoin-ethereum-zcash-hard-forks
   author: Joseph Young
   source: Coin Telegram
@@ -4271,11 +4299,25 @@
   tags: ["education", "teams", "development", "announcement"]
 -
   date: 2016-08-16
+  link: https://medium.com/@WhalePanda/ethereum-chain-of-liars-thieves-b04aaa0762cb
+  author: WhalePanda
+  source: Medium
+  title: "Ethereum: Chain of liars and thieves"
+  tags: ["education"]
+-
+  date: 2016-08-16
   link: http://www.youtube.com/watch?v=5040I0PW7rc
   author: Charles Hoskinson and Alex Chepurnoy
   source: Epicenter Bitcoin
   title: "The Case For Ethereum Classic"
   tags: ["education", "podcast", "teams", "media", "development"]
+-
+  date: 2016-08-15
+  link: https://medium.com/@jackfru1t/the-robin-hood-group-and-etc-bdc6a0c111c3
+  author: Jack Sparrow
+  source: Medium
+  title: "The Robin Hood Group and ETC"
+  tags: ["education"]
 -
   date: 2016-08-13
   link: http://www.newsbtc.com/2016/08/13/ethereum-classics-proclaimation-of-independence-from-censorship-and-interference/
