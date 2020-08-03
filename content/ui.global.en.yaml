@@ -30,13 +30,8 @@ continueReading: Continue Reading
 ## pop up
 warning:
   enabled: true
-  title: Reorg Alert 
-  description: - Aug 31, 2020 - Ethereum Classic experiences the second successful chain reorganization attack on its network.
-  button:
-    link: https://ethereumclassic.org/news
-    text: Developer Analyzes
-  title: Hard Fork Alert
-  description: - June 1, 2020 - Ethereum Classic successfully implemented the Phoenix upgrade on block 10,500,839. If you run an ETC node, please update to a compatible client.
+  title: Update Clients
+  description: Jul 31, 2020 - Ethereum Classic experienced the second successful chain reorganization attack on the network. The network has stablized. Please migrate away from deprecated OpenEthereum to a recommended client.
   button:
     link: /development/clients
     text: Update
