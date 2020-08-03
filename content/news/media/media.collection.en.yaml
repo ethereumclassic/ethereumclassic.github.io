@@ -3,7 +3,7 @@
   link: https://blog.bitquery.io/ethereum-classic-51-chain-attack-july-31-2020
   author: Aleksey Studnev
   source: BitQuery
-  title: "Ethereum Classic Blockchain Split – 3000 Blocks Got Orphaned"
+  title: "Ethereum Classic 51% Chain Attack July 31, 2020"
   tags: ["announcement", "teams", "development", "mining"]
 -
   date: 2020-08-01
@@ -32,13 +32,6 @@
   author: Ethereum Classic Labs
   source: Ethereum Classic Labs
   title: "Bloq Launches Managed API Service for Ethereum and Ethereum Classic"
-  tags: ["announcement", "teams", "development"]
--
-  date: 2020-07-21
-  link: https://medium.com/openetc/introducing-openetc-a-etc-branch-of-parityethereum-openethereum-project-36bb1bc699a6
-  author: Jongchan J.
-  source: OpenETC
-  title: "Introducing OpenETC, a ETC branch of ParityEthereum (OpenEthereum) project"
   tags: ["announcement", "teams", "development"]
 -
   date: 2020-07-20
