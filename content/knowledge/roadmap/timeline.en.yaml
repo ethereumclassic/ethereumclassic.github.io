@@ -534,12 +534,13 @@ items:
     icon: fas fas fa-exclamation-triangle
     link: https://coinfomania.com/ethereum-classic-openetc-client-openethereum/
     text: On the 4th anniversary of the DAO Bailout Hard Fork, ETH-centric client maintainers orchestrate a social attack on Ethereum Classic. The client maintainers annouce deprecation of Ethereum Classic support, then execute a misinformation marketing campaign citing the ETC network would lose 70% of the hashrate among other mistruths
-  - key: openETC-Launch
-    title: OpenETC Launch (unexpected project drop)
-    date: Jul 20 2020
-    className: blue
-    icon: fas fa-code-branch
-    text: In response to the Client Deprecation Attacks, ETC participants launch the OpenETC client. Ethereum Classic proves its resilience in the face of another ETH development community attack. The network continues to grow stronger with more open-source, decentralized development of infrastructure tools
+  - key: 51Attack2
+    title: 51% Attack 2
+    date: Jul 31 2020
+    className: red
+    icon: fas fa-unlink
+    link: https://blog.bitquery.io/ethereum-classic-51-chain-attack-july-31-2020
+    text: On the 5th anniversay of the Ethereum Classic launch, the network experiences a large 3500 block chain reorganization on its network. The event caused a chain split due to faulty consensus logic in OpenEthereum's code. Miners that were using the OpenEthereum client were found to be mining the wrong chain. Miners migrated to the recommend Core-Geth client and the network stabilized
   - key: aBrightFuture
     title: A Bright Future
     date: Future
