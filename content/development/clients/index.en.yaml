@@ -52,6 +52,11 @@ content:
         name: Ethercluster
         description: Ethercluster is an open-sourced Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) providing Ethereum Classic (ETC) and Kotti endpoints for free.
       - 
+        key: GetBlock
+        name: GetBlock
+        link: https://getblock.io
+        description: GetBlock is a service that provides connection for the major cryptocurrencies’ nodes. They support such tools like JSON-RPC, REST, and WebSockets, which facilitates direct synchronization with the blockchain. There is no need to run a node yourself, the platform allows its customers to connect to a blockchain via a full node without having to pay a fee.
+      - 
         key: Google BigQuery
         name: Google BigQuery
         link: https://console.cloud.google.com/marketplace/details/ethereum-classic/crypto-ethereum-classic?filter=solution-type:dataset&q=ethereum%20classic&id=babd6e83-ec5f-4b0a-b44f-64d37710a71d
