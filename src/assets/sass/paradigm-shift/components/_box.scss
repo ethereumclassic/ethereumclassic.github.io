@@ -7,7 +7,9 @@
 /* Box */
 
 	.box {
-		border: solid 2px _palette(border);
+		@include themify() {
+			border: solid 2px _themed(border);
+		}
 		border-radius: _size(border-radius);
 		margin-bottom: _size(element-margin);
 		padding: 1.5rem;

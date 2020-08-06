@@ -5,6 +5,8 @@ $tinyPadding: $smallPadding / 2;
 $microPadding: $tinyPadding / 2;
 $nanoPadding: $microPadding / 2;
 
+$full-white: #fff;
+$full-black: #000;
 $white: #f5f5f6;
 $black: #131313;
 $green: #33ff99;
@@ -13,6 +15,8 @@ $red: #fd025d;
 $blue: #33fff4;
 $orange: #ff9900;
 $purple: #c702fd;
+$mint: #49fcd4;
+$discord: #8EA0F8;
 
 $softShadow: 0 0.5rem 1rem transparentize($black, 0.90);
 $softerShadow: 0 0.3rem 1rem transparentize($black, 0.95);
@@ -20,7 +24,7 @@ $buttonShadow: 0 0.2rem 0.8rem transparentize($black, 0.92);
 $hardShadow: 0 0.3rem 2rem transparentize($black, 0.6);
 $tightShadow: 0 0.2rem 0.7rem transparentize($black, 0.85);
 $textShadow: 0 0.05rem 0.2rem transparentize($black, 0.7); 
-$headerShadow: 0px -1px 2px rgba(255,255,255,.8), $textShadow;
+$headerShadow: 0px -1px 2px rgba(255,255,255,.6), $textShadow;
 
 $darkLineWeight: 1px;
 $darkLineCol: transparentize($black, 0.90);
