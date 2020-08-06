@@ -32,7 +32,9 @@
 				}
 
 				&:hover {
-					background-color: _palette(border-bg);
+					@include themify() {
+						background-color: _themed(border-bg);
+					}
 				}
 			}
 		}

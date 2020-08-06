@@ -13,8 +13,11 @@
   $iconSize: 4rem;
 
   .item-icon {
-    background: _palette(accent);
-    color: _palette(fg);
+    @include themify() {
+      background: _themed(main-header);
+      color: _themed(accent);
+    }
+
     border-radius: 100%;
     vertical-align: middle;
     font-size: $iconSize;
