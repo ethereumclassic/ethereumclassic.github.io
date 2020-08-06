@@ -57,6 +57,8 @@
     position: relative;
     $logoSize: 70px;
     $logoSizeSmall: 40px;
+    $logoHeight: $logoSize * 1.7;
+    $logoHeightSmall: $logoSizeSmall * 1.7;
     $headerMargin: $logoSize + 30px;
     margin-top: 0;
 
@@ -65,11 +67,26 @@
     }
 
     header {
-      img.logo {
+
+      @include themify() {
+        h1 {
+          color: _themed(dark);
+        }
+
+        &,
+        strong {
+          color: _themed(main-header);
+        }
+      }
+
+
+      .logo {
         float: right;
         max-width: $logoSize;
         margin-right: -$logoSize;
         margin-top: -$headerMargin;
+        width: $logoSize;
+        height: $logoHeight;
       }
 
       p {
@@ -92,10 +109,10 @@
           padding-left: $headerMargin;
         }
 
-        img.logo {
+        .logo {
           float: left;
           margin-left: -$headerMargin;
-          margin-top: 0;
+          margin-top: -$logoSize / 4;
         }
       }
 
@@ -112,8 +129,9 @@
           padding-left: $logoSize;
         }
 
-        img.logo {
+        .logo {
           max-width: $logoSizeSmall;
+          height: $logoHeightSmall;
           margin-left: -$logoSize;
         }
       }
@@ -151,6 +169,10 @@
       h3 {
         font-size: 1.5rem;
         margin: 0;
+      }
+
+      .logo {
+        margin-top: 0;
       }
 
       p {

@@ -85,6 +85,7 @@
       .icon,
       .icon::after {
         background: _themed(dark-grey-30);
+        color: _themed(grey-20);
       }
 
       &.red {
@@ -93,6 +94,7 @@
         .icon,
         .icon::after {
           background: _themed(red-col);
+          color: _themed(darker-red-col);
         }
       }
 
@@ -101,8 +103,8 @@
         .date,
         .icon,
         .icon::after {
-          background: _themed(accent);
-          color: inherit;
+          background: _themed(green-col);
+          color: _themed(darker-green-col);
         }
       }
 
@@ -112,6 +114,7 @@
         .icon,
         .icon::after {
           background: _themed(purple-col);
+          color: _themed(darker-purple-col);
         }
       }
 
@@ -120,8 +123,8 @@
         .date,
         .icon,
         .icon::after {
-          color: inherit;
-          background: _themed(light-orange-col)
+          background: _themed(light-orange-col);
+          color: _themed(darker-orange-col);
         }
       }
 
@@ -130,8 +133,8 @@
         .date,
         .icon,
         .icon::after {
-          color: inherit;
           background: _themed(blue-col);
+          color: _themed(darker-blue-col);
         }
       }
 
@@ -140,8 +143,8 @@
         .date,
         .icon,
         .icon::after {
-          color: inherit;
-          background: _themed(bg);
+          background: _themed(white-col);
+          color: _themed(black-col);
         }
       }
     }

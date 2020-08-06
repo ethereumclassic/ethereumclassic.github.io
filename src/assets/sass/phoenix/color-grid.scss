@@ -22,7 +22,6 @@
       margin: 0 $microPadding $microPadding 0;
       padding: $nanoPadding $tinyPadding;
       border-radius: $roundedTight;
-      border-bottom: $solidDarkLine;
 
       cursor: pointer;
       box-shadow: $softerShadow;
@@ -72,44 +71,50 @@
         text-align: center;
       }
     }
+  }
 
-    @include themify() {
+  @include themify() {
+    .color-grid-items {
       background: _themed(grey-10);
+    }
 
-      .card {
-        background: _themed(bright);
-      }
+    .card {
+      background: _themed(bright);
+    }
 
+    .color-grid-legend .key.grid-color-1,
+    .color-grid-items .card.grid-color-1:hover,
+    .color-grid-items .card.grid-color-1 h4 {
+      background: _themed(green-col);
+      color: _themed(darker-green-col);
+    }
 
-      .color-grid-legend .key.grid-color-1,
-      .color-grid-items .card.grid-color-1:hover,
-      .color-grid-items .card.grid-color-1 h4 {
-        background: _themed(green-col);
-      }
+    .color-grid-legend .key.grid-color-2,
+    .color-grid-items .card.grid-color-2:hover,
+    .color-grid-items .card.grid-color-2 h4 {
+      background: _themed(blue-col);
+      color: _themed(darker-blue-col);
+    }
 
-      .color-grid-legend .key.grid-color-2,
-      .color-grid-items .card.grid-color-2:hover,
-      .color-grid-items .card.grid-color-2 h4 {
-        background: _themed(blue-col);
-      }
+    .color-grid-legend .key.grid-color-3,
+    .color-grid-items .card.grid-color-3:hover,
+    .color-grid-items .card.grid-color-3 h4 {
+      background: _themed(light-red-col);
+      color: _themed(dark-red-col);
+    }
 
-      .color-grid-legend .key.grid-color-3,
-      .color-grid-items .card.grid-color-3:hover,
-      .color-grid-items .card.grid-color-3 h4 {
-        background: _themed(light-red-col);
-      }
+    .color-grid-legend .key.grid-color-4,
+    .color-grid-items .card.grid-color-4:hover,
+    .color-grid-items .card.grid-color-4 h4 {
+      background: _themed(light-purple-col);
+      color: _themed(dark-purple-col);
+    }
 
-      .color-grid-legend .key.grid-color-4,
-      .color-grid-items .card.grid-color-4:hover,
-      .color-grid-items .card.grid-color-4 h4 {
-        background: _themed(light-purple-col);
-      }
-
-      .color-grid-legend .key.grid-color-5,
-      .color-grid-items .card.grid-color-5:hover,
-      .color-grid-items .card.grid-color-5 h4 {
-        background: _themed(orange-col);
-      }
+    .color-grid-legend .key.grid-color-5,
+    .color-grid-items .card.grid-color-5:hover,
+    .color-grid-items .card.grid-color-5 h4 {
+      background: _themed(orange-col);
+      color: _themed(dark-orange-col);
     }
   }
 }

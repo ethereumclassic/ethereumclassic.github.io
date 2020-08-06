@@ -5,7 +5,7 @@
 
   h4 {
     @include themify() {
-      border-bottom: $nanoPadding solid _themed(accent);
+      border-bottom: $nanoPadding solid _themed(green-col);
     }
 
     display: inline-block;
@@ -18,7 +18,7 @@
 
   .item {
     @include themify() {
-      border-right: $nanoPadding solid _themed(accent);
+      border-right: $nanoPadding solid _themed(green-col);
     }
   }
 

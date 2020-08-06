@@ -57,6 +57,7 @@
 		&:hover {
 			text-decoration: none;
 			@include themify() {
+				color: _themed(header-hover);
 				border-bottom: dashed 1px _themed(t-black-10);
 			}
 		}

@@ -17,8 +17,9 @@
       vertical-align: middle;
       margin: 0;
 
-      img {
+      .logo {
         height: 2.5rem;
+        width: 1.5rem;
         margin-right: 0.8rem;
         float: left;
       }
@@ -26,16 +27,19 @@
       @include breakpoint('<=small') {
         font-size: 2rem;
 
-        img {
-          height: 2rem;
+        .logo {
+          margin-top: -0.15rem;
+          height: 2.2rem;
+          width: 1.2rem;
         }
       }
 
       @include breakpoint('<=xsmall') {
         font-size: 1.5rem;
 
-        img {
+        .logo {
           height: 1.5rem;
+          width: 1.2rem;
         }
       }
 
@@ -52,7 +56,7 @@
 
         &:hover {
           @include themify() {
-            color: _themed(bg);
+            color: _themed(header-hover);
           }
         }
       }

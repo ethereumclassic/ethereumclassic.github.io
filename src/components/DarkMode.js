@@ -9,9 +9,12 @@ const DarkMode = ({ i18n }) => {
   // return [on, setOn];
   function toggle() {
     setOn(!on);
+    localStorage.setItem('etc-website-darkmode', !on ? 'true' : 'false');
   }
   useEffect(() => {
-    console.log(window.matchMedia('(prefers-color-scheme: dark)').matches);
+    if (localStorage.getItem('etc-website-darkmode') === 'true') {
+      setOn(true);
+    }
   }, []);
 
   return (

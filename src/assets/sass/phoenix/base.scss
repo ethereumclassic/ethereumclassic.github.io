@@ -9,8 +9,11 @@ body {
 
 body,
 #wrapper,
-.contents {
-  transition: background 0.6s ease;
+#wrapper:before,
+header,
+.contents,
+section {
+  transition: background-color 0.6s ease;
 }
 
 #wrapper a i {
@@ -62,7 +65,8 @@ a,
       color: _themed(fg);
 
       &:hover {
-        background: _themed(accent);
+        color: _themed(black-col);
+        background: _themed(green-col);
       }
     }
   }

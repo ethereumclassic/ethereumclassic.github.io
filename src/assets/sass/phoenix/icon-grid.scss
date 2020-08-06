@@ -14,8 +14,8 @@
 
   .item-icon {
     @include themify() {
-      background: _themed(accent);
-      color: _themed(fg);
+      background: _themed(main-header);
+      color: _themed(accent);
     }
 
     border-radius: 100%;

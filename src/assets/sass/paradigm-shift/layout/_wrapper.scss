@@ -614,7 +614,7 @@
 
 			// Background.
 				&:before {
-					transition: opacity 1s ease;
+					// transition: opacity 1s ease;
 
 					body.is-preload & {
 						opacity: 0;
@@ -626,15 +626,15 @@
 
 					// Intro.
 						&.intro {
-							transition: opacity 1s ease;
+							// transition: opacity 1s ease;
 							opacity: 1;
 
 							> header {
-								transition: transform 1s ease;
+								// transition: transform 1s ease;
 							}
 
 							> .content {
-								transition: transform 1s ease;
+								// transition: transform 1s ease;
 							}
 
 							body.is-preload & {
@@ -652,7 +652,7 @@
 							@include breakpoint('<=large') {
 								> header {
 									> * {
-										transition: transform 1s ease, opacity 1s ease;
+										// transition: transform 1s ease, opacity 1s ease;
 									}
 								}
 
