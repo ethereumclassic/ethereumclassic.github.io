@@ -1,6 +1,5 @@
 import React from 'react';
 import Link from './Link';
-import logo from '../assets/images/etc-black.svg';
 
 const PageHeader = ({
   relativePath,
@@ -14,7 +13,7 @@ const PageHeader = ({
     <div className="header">
       <header className="contained">
         <h1>
-          <img src={logo} alt={ui.title} />
+          <div className="logo" />
           <Link to="/">{ui.title}</Link>
           {link.root && (
             <>

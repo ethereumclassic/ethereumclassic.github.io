@@ -48,14 +48,23 @@
 }
 
 .cells {
-  background: _palette(bright);
+  @include themify() {
+    background: _themed(bright);
+  }
+
   border-radius: $roundedLoose;
   box-shadow: $softShadow;
   margin: $smallPadding 0;
-  border: $solidDarkLine;
+
+  @include themify() {
+    border: 1px solid _themed(t-black-20);
+  }
 
   .cell {
-    border-bottom: $solidDarkLine;
+    @include themify() {
+      border-bottom: 1px solid _themed(t-black-20);
+    }
+
     padding: $smallPadding;
 
     h3,
@@ -94,50 +103,68 @@
 }
 
 .dark {
-  background: _palette(accent-dark);
-
-  * {
-    color: _palette(bg);
+  .button-link {
+    box-shadow: $softShadow;
   }
 
-  .button-link {
-    background: _palette(t-white-20);
-    box-shadow: $softShadow;
+  @include themify() {
+    background: _themed(accent-dark);
 
-    &:hover {
-      background: _palette(t-white-10);
+    * {
+      color: _themed(bg);
+    }
+
+    .button-link {
+      background: _themed(t-white-20);
+
+      &:hover {
+        color: _themed(bg);
+        background: _themed(t-white-30);
+      }
     }
   }
 }
 
 .tip {
-  background: _palette(accent-bg);
   padding: $microPadding $tinyPadding;
   border-radius: $roundedTight;
   font-size: 0.9rem;
   line-height: 1.5rem;
   margin: $microPadding 0;
-  color: _palette(accent-dark);
 
   i.info {
-    color: _palette(accent-border);
     margin-right: $microPadding;
   }
 
-  &.warning {
-    background: _palette(lighter-red-col);
-    color: _palette(dark-red-col);
+  @include themify() {
+    background: _themed(accent-bg);
+    color: _themed(accent-dark);
+
+    a {
+      color: _themed(accent-dark);
+    }
 
     i.info {
-      color: _palette(red-col);
+      color: _themed(accent-border);
+    }
+
+    &.warning {
+      background: _themed(lighter-red-col);
+      color: _themed(dark-red-col);
+
+      i.info {
+        color: _themed(red-col);
+      }
     }
   }
 }
 
 .shaded {
-  $baseCol: _palette(grey-10);
-  background: linear-gradient(180deg, $baseCol, darken($baseCol, 15%));
-  text-shadow: 0px 1px 1px _palette(t-white-80);
+  @include themify() {
+    background: linear-gradient(180deg, _themed(grey-10), _themed(grey-30));
+    text-shadow: 0px 1px 1px _themed(t-white-80);
+  }
+
 
   >.container {
     z-index: 1;
@@ -153,9 +180,13 @@
     right: 0;
     bottom: 0;
     left: 0;
-    background-image: url('../images/fractal.svg');
+
+    @include themify() {
+      background-image: svg-url('<svg xmlns="http://www.w3.org/2000/svg" width="226" height="356"><path fill="none" pointer-events="none" d="M0 0h226v356H0z"/><switch transform="matrix(2.37116 0 0 2.37116 194.015 -3.996)"><g><path d="M11.053 76.928l-72.1-28.1 15.5-25z" class="st0" fill="none" stroke="#{_themed(dark)}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/><path d="M-35.447 33.228l1.7-28.5-11.8 19.1zM-8.247 69.428l-7.4 50.6s13.6-22 13.8-22.2-6.4-28.4-6.4-28.4zM-8.247 69.428l-27.4 16.8-.9-27.8z" class="st0" fill="none" stroke="#{_themed(dark)}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/><path d="M-8.247 69.428l-54.3 33.2 15.5 25.1zM-15.647 120.028l-7.9-27.6 15.3-23zM-15.647 120.028l-18.1 29.2-13.3-21.5z" class="st0" fill="none" stroke="#{_themed(dark)}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/><path d="M-36.047 74.028l-42.4 2.9 15.9 25.7zM-36.047 74.028l.4 12.2-26.9 16.4zM-36.047 74.028l-25-25.2-17.4 28.1z" class="st0" fill="none" stroke="#{_themed(dark)}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/><path d="M-36.047 74.028l-25-25.2 24.5 9.6zM11.053 76.928l-12.9 20.9-6.4-28.4zM-15.647 120.028l-7.9-27.6-23.5 35.3zM11.053 76.928l-44.8-72.2 18.1 47.2z" class="st0" fill="none" stroke="#{_themed(dark)}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/><path d="M-15.647 51.928l-18.1-47.2-1.7 28.5z" class="st0" fill="none" stroke="#{_themed(dark)}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/></g></switch></svg>');
+    }
+
     background-repeat: no-repeat;
-    opacity: 0.03;
+    opacity: 0.07;
     background-size: auto 200%;
     background-position: 70% 20%;
 
@@ -171,8 +202,11 @@
 }
 
 .showcase {
-  background: _palette(grey-10);
-  box-shadow: 0 $tinyPadding $smallPadding _palette(t-black-20);
+  @include themify() {
+    background: _themed(grey-10);
+    box-shadow: 0 $tinyPadding $smallPadding _themed(t-black-20);
+  }
+
   padding: $smallPadding;
   border-radius: $roundedTight;
 }
@@ -217,20 +251,11 @@
       }
 
       &:hover {
-        background: _palette(accent-bg);
+        @include themify() {
+          background: _themed(accent-bg);
+        }
       }
     }
-
-    // .cell {
-    //   a {
-    //     font-weight: bold;
-    //     margin-right: $microPadding;
-    //     border-bottom: none;
-    //   }
-
-    //   line-height: 1.3rem;
-    //   padding: $tinyPadding;
-    // }
   }
 }
 
@@ -240,8 +265,24 @@
 
 .fa-etc {
   padding: 0.4rem;
-  background-image: url('../images/etc-black.svg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: 90% auto;
+  background-image: url('../images/etc-black.svg');
+}
+
+.logo {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center center;
+  background-image: url('../images/etc-black.svg');
+}
+
+body.theme-dark .fa-etc {
+  background-image: url('../images/etc-white.svg');
+}
+
+body.theme-dark .logo {
+  background-image: url('../images/etc-emerald.svg');
 }
