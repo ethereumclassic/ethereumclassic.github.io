@@ -17,12 +17,14 @@
 
 		tbody {
 			tr {
-				border: solid 1px _palette(border);
 				border-left: 0;
 				border-right: 0;
-
-				&:nth-child(2n + 1) {
-					background-color: _palette(border-bg);
+				@include themify() {
+					border: solid 1px _themed(border);
+					
+					&:nth-child(2n + 1) {
+						background-color: _themed(border-bg);
+					}
 				}
 			}
 		}
@@ -32,19 +34,22 @@
 		}
 
 		th {
-			color: _palette(fg-bold);
+			@include themify() {
+				color: _themed(fg-bold);
+			}
 			font-size: 0.9rem;
 			font-weight: _font(weight-bold);
 			padding: 0 0.75rem 0.75rem 0.75rem;
 			text-align: left;
 		}
+		@include themify() {
+			thead {
+				border-bottom: solid 2px _themed(border);
+			}
 
-		thead {
-			border-bottom: solid 2px _palette(border);
-		}
-
-		tfoot {
-			border-top: solid 2px _palette(border);
+			tfoot {
+				border-top: solid 2px _themed(border);
+			}
 		}
 
 		&.alt {
@@ -53,7 +58,9 @@
 			tbody {
 				tr {
 					td {
-						border: solid 1px _palette(border);
+						@include themify() {
+							border: solid 1px _themed(border);
+						}
 						border-left-width: 0;
 						border-top-width: 0;
 

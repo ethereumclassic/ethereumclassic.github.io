@@ -30,7 +30,9 @@
 			padding-left: 0;
 
 			> li {
-				border-top: solid 1px _palette(border);
+				@include themify() {
+					border-top: solid 1px _themed(border);
+				}
 				padding: 0.75rem 0;
 
 				&:first-child {
