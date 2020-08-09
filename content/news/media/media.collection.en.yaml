@@ -6,6 +6,20 @@
   title: "Ethereum Classic Attack, 8 August: Catch me if you can"
   tags: ["announcement", "mining"]
 -
+  date: 2020-08-07
+  link: https://www.businesswire.com/news/home/20200807005118/en/Ethereum-Classic-Labs-Kobre-Kim-CipherTrace-Pursue
+  author: Ethereum Classic Labs
+  source: Business Wire
+  title: "Ethereum Classic Labs, Kobre & Kim, and CipherTrace to Pursue Investigation and Criminal Charges Against Perpetrators of Recent Attacks on The Ethereum Classic Blockchain"
+  tags: ["announcement", "teams", "mining"]
+-
+  date: 2020-08-06
+  link: https://www.forbes.com/sites/michaeldelcastillo/2020/08/06/valuable-sec-data-on-20-institutional-bitcoin-investors-could-soon-disappear/
+  author: Michael del Castillo
+  source: Forbes
+  title: "20 Institutional Bitcoin Investors Revealed, But Soon The List May Vanish"
+  tags: ["announcement", "teams"]
+-
   date: 2020-08-05
   link: https://blog.bitquery.io/attacker-stole-807k-etc-in-ethereum-classic-51-attack
   author: Aleksey Studnev
