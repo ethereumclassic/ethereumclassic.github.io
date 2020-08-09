@@ -82,7 +82,10 @@
 	textarea {
 		@include vendor('appearance', 'none');
 		border-radius: _size(border-radius);
-		border: solid 2px _palette(border);
+		@include themify() {
+			border: solid 2px _themed(border);
+			background: _themed(bg);
+		}
 		color: inherit;
 		display: block;
 		outline: 0;
@@ -95,12 +98,16 @@
 		}
 
 		&:focus {
-			border-color: _palette(accent-alt);
+			@include themify() {
+				border-color: _themed(accent-alt);
+			}
 		}
 	}
 
 	label {
-		color: _palette(fg-bold);
+		@include themify() {
+			color: _themed(fg-bold);
+		}
 		display: block;
 		font-family: _font(family-heading);
 		font-size: 0.75rem;
@@ -121,7 +128,9 @@
 	}
 
 	select {
-		background-image: svg-url("<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40' preserveAspectRatio='none' viewBox='0 0 40 40'><path d='M9.4,12.3l10.4,10.4l10.4-10.4c0.2-0.2,0.5-0.4,0.9-0.4c0.3,0,0.6,0.1,0.9,0.4l3.3,3.3c0.2,0.2,0.4,0.5,0.4,0.9 c0,0.4-0.1,0.6-0.4,0.9L20.7,31.9c-0.2,0.2-0.5,0.4-0.9,0.4c-0.3,0-0.6-0.1-0.9-0.4L4.3,17.3c-0.2-0.2-0.4-0.5-0.4-0.9 c0-0.4,0.1-0.6,0.4-0.9l3.3-3.3c0.2-0.2,0.5-0.4,0.9-0.4S9.1,12.1,9.4,12.3z' fill='#{_palette(border)}' /></svg>");
+		@include themify() {
+			background-image: svg-url("<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40' preserveAspectRatio='none' viewBox='0 0 40 40'><path d='M9.4,12.3l10.4,10.4l10.4-10.4c0.2-0.2,0.5-0.4,0.9-0.4c0.3,0,0.6,0.1,0.9,0.4l3.3,3.3c0.2,0.2,0.4,0.5,0.4,0.9 c0,0.4-0.1,0.6-0.4,0.9L20.7,31.9c-0.2,0.2-0.5,0.4-0.9,0.4c-0.3,0-0.6-0.1-0.9-0.4L4.3,17.3c-0.2-0.2-0.4-0.5-0.4-0.9 c0-0.4,0.1-0.6,0.4-0.9l3.3-3.3c0.2-0.2,0.5-0.4,0.9-0.4S9.1,12.1,9.4,12.3z' fill='#{_themed(border)}' /></svg>");
+		}
 		background-position: calc(100% - 1rem) center;
 		background-repeat: no-repeat;
 		background-size: 1.25rem;
@@ -130,8 +139,10 @@
 		text-overflow: ellipsis;
 
 		option {
-			background-color: _palette(bg);
-			color: _palette(fg);
+			@include themify() {
+				background-color: _themed(bg);
+				color: _themed(fg);
+			}
 		}
 
 		&:focus {
@@ -150,7 +161,7 @@
 	}
 
 	input[type="checkbox"],
-	input[type="radio"], {
+	input[type="radio"] {
 		@include vendor('appearance', 'none');
 		display: block;
 		float: left;
@@ -161,7 +172,9 @@
 
 		& + label {
 			@include icon(false, solid);
-			color: _palette(fg);
+			@include themify() {
+				color: _themed(fg);
+			}
 			cursor: pointer;
 			display: inline-block;
 			font-family: _font(family);
@@ -175,7 +188,9 @@
 
 			&:before {
 				border-radius: _size(border-radius);
-				border: solid 2px _palette(border);
+				@include themify() {
+					border: solid 2px _themed(border);
+				}
 				content: '';
 				display: inline-block;
 				font-size: 0.8rem;
@@ -192,16 +207,20 @@
 		&:checked + label {
 			&:before {
 				content: '\f00c';
-				background-color: _palette(accent);
-				border-color: _palette(accent);
-				color: _palette(bg);
+				@include themify() {
+					background-color: _themed(accent);
+					border-color: _themed(accent);
+					color: _themed(bg);
+				}
 			}
 		}
 
 		&:focus + label {
 			&:before {
-				border-color: _palette(accent);
-				box-shadow: 0 0 0 1px _palette(accent);
+				@include themify() {
+					border-color: _themed(accent);
+					box-shadow: 0 0 0 1px _themed(accent);
+				}
 			}
 		}
 	}
@@ -221,25 +240,28 @@
 			}
 		}
 	}
+	body {
+		@include themify() {
+			::-webkit-input-placeholder {
+				opacity: 1.0;
+				color: _themed(fg-light) !important;
+			}
 
-	::-webkit-input-placeholder {
-		opacity: 1.0;
-		color: _palette(fg-light) !important;
-	}
+			:-moz-placeholder {
+				opacity: 1.0;
+				color: _themed(fg-light) !important;
+			}
 
-	:-moz-placeholder {
-		opacity: 1.0;
-		color: _palette(fg-light) !important;
-	}
+			::-moz-placeholder {
+				opacity: 1.0;
+				color: _themed(fg-light) !important;
+			}
 
-	::-moz-placeholder {
-		opacity: 1.0;
-		color: _palette(fg-light) !important;
-	}
-
-	:-ms-input-placeholder {
-		opacity: 1.0;
-		color: _palette(fg-light) !important;
+			:-ms-input-placeholder {
+				opacity: 1.0;
+				color: _themed(fg-light) !important;
+			}
+		}
 	}
 
 	@include breakpoint('<=small') {

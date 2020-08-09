@@ -1,10 +1,11 @@
+$hamburgerSize: 3rem;
+
 .main-menu {
   position: fixed;
   right: 0;
   top: 0;
   z-index: 10;
   user-select: none;
-  $hamburgerSize: 3rem;
 
   input#menu-input {
     position: absolute;
@@ -34,7 +35,10 @@
   }
 
   .overlay {
-    background: _palette(t-black-20);
+    @include themify() {
+      background: _themed(t-black-20);
+    }
+
     backdrop-filter: blur(7px) grayscale(50%);
     position: fixed;
     z-index: 1;
@@ -46,7 +50,10 @@
   }
 
   .hamburger {
-    background: _palette(t-black-20);
+    @include themify() {
+      background: _themed(t-black-20);
+    }
+
     z-index: 3;
     font-size: $hamburgerSize / 3;
     text-align: center;
@@ -73,7 +80,11 @@
 
     a {
       display: block;
-      background: _palette(bright);
+
+      @include themify() {
+        background: _themed(bright);
+      }
+
       border: none;
       margin-bottom: $nanoPadding;
       font-size: 1.2rem;
@@ -81,32 +92,39 @@
       padding: 0.9rem 0.7rem;
 
       &:hover {
-        color: _palette(accent);
-        background: _palette(fg);
+        @include themify() {
+          color: _themed(accent);
+          background: _themed(fg);
+        }
       }
     }
   }
 
   @mixin when-selected {
+
     &.menu,
-    & ~ .menu,
-    & ~ .search,
-    & ~ .overlay {
+    &~.menu,
+    &~.search,
+    &~.overlay {
       height: auto;
       opacity: 1;
       overflow: auto;
       visibility: visible;
     }
-    & ~ .toggle {
+
+    &~.toggle {
       left: 0;
       bottom: 0;
       width: auto;
       z-index: 2;
       height: auto;
     }
-    & ~ .hamburger {
-      color: _palette(bright);
-      background: _palette(t-black-60);
+
+    &~.hamburger {
+      @include themify() {
+        color: _themed(bright);
+        background: _themed(t-black-60);
+      }
     }
   }
 
@@ -116,7 +134,22 @@
   #menu-toggle:checked {
     @include when-selected;
   }
+
   .menu:focus-within {
     @include when-selected;
+  }
+}
+
+.dark-mode {
+  position: fixed; // TODO absolute
+  top: 0;
+  cursor: pointer;
+  opacity: 0.3;
+  right: $hamburgerSize + $microPadding;
+  padding: $microPadding;
+  z-index: 5;
+
+  &:hover {
+    opacity: 1;
   }
 }

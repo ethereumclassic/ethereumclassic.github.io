@@ -1,45 +1,87 @@
 -
+  date: 2020-08-08
+  link: https://news.bitcoin.com/new-york-regulator-fast-tracks-10-cryptocurrencies/
+  author: Kevin Helms
+  source: Bitcoin.com
+  title: "New York Regulator Fast-Tracks 10 Cryptocurrencies"
+  tags: ["announcement"]
+-
+  date: 2020-08-07
+  link: https://blog.bitquery.io/ethereum-classic-attack-8-august-catch-me-if-you-can
+  author: Aleksey Studnev
+  source: BitQuery
+  title: "Ethereum Classic Attack, 8 August: Catch me if you can"
+  tags: ["announcement", "mining"]
+-
+  date: 2020-08-07
+  link: https://www.businesswire.com/news/home/20200807005118/en/Ethereum-Classic-Labs-Kobre-Kim-CipherTrace-Pursue
+  author: Ethereum Classic Labs
+  source: Business Wire
+  title: "Ethereum Classic Labs, Kobre & Kim, and CipherTrace to Pursue Investigation and Criminal Charges Against Perpetrators of Recent Attacks on The Ethereum Classic Blockchain"
+  tags: ["announcement", "teams", "mining"]
+-
+  date: 2020-08-06
+  link: https://www.forbes.com/sites/michaeldelcastillo/2020/08/06/valuable-sec-data-on-20-institutional-bitcoin-investors-could-soon-disappear/
+  author: Michael del Castillo
+  source: Forbes
+  title: "20 Institutional Bitcoin Investors Revealed, But Soon The List May Vanish"
+  tags: ["announcement", "teams"]
+-
+  date: 2020-08-05
+  link: https://blog.bitquery.io/attacker-stole-807k-etc-in-ethereum-classic-51-attack
+  author: Aleksey Studnev
+  source: BitQuery
+  title: "Attacker Stole 807K ETC in Ethereum Classic 51% Attack"
+  tags: ["announcement", "mining"]
+-
+  date: 2020-08-04
+  link: https://www.newsanyway.com/2020/08/04/getblock-io-launches-a-service-that-provides-fast-and-secure-access-to-blockchain-nodes/
+  author: Catherine
+  source: News Anyway
+  title: "GetBlock.io Launches a Service That Provides Fast and Secure Access to Blockchain Nodes"
+  tags: ["announcement", "teams", "development", "application"]
+-
   date: 2020-08-02
   link: https://blog.bitquery.io/ethereum-classic-51-chain-attack-july-31-2020
   author: Aleksey Studnev
   source: BitQuery
   title: "Ethereum Classic 51% Chain Attack July 31, 2020"
-  tags: ["announcement", "teams", "development", "mining"]
+  tags: ["announcement", "mining"]
 -
   date: 2020-08-01
   link: https://2miners.com/blog/ethereum-classic-blockchain-split-3000-blocks-got-orphaned/
   author: Darek Piotrowski
   source: 2Miners
   title: "Ethereum Classic Blockchain Split – 3000 Blocks Got Orphaned"
-  tags: ["announcement", "teams", "development", "mining"]
+  tags: ["announcement", "mining"]
 -
   date: 2020-08-01
   link: https://medium.com/etc-core/statement-regarding-the-recent-ethereum-classic-chain-reorganization-4704701e0c37
   author: Stevan Lohja
   source: Ethereum Classic Labs
   title: "Statement regarding the recent Ethereum Classic chain reorganization"
-  tags: ["announcement", "teams", "development", "mining"]
+  tags: ["announcement", "teams", "mining"]
 -
   date: 2020-08-01
   link: https://hackmd.io/@cUBb4hAvQciAEPoU2yfrzQ/Skd4X6MZw
   author: Yaz Khoury, Sam Johnson, Austin Roberts
   source: Ethereum Classic Cooperative, RIVET
   title: "ETC Chain Split Diagnosis. The issue occured on the Ethereum Classic blockchain several hours ago"
-  tags: ["announcement", "teams", "development", "mining"]
+  tags: ["announcement", "teams", "mining"]
 -
   date: 2020-07-30
   link: https://medium.com/ethereum-classic-labs/bloq-launches-managed-api-service-for-ethereum-and-ethereum-classic-f1f6f41932b8
   author: Ethereum Classic Labs
   source: Ethereum Classic Labs
   title: "Bloq Launches Managed API Service for Ethereum and Ethereum Classic"
-  tags: ["announcement", "teams", "development"]
+  tags: ["announcement", "teams", "development", "application"]
 -
   date: 2020-07-20
   link: https://medium.com/ethereum-classic-labs/etc-labs-announces-cohort-iii-blockchain-for-impact-startups-4b689a7f1c33
   author: Elizabeth Traver Kukka
   source: Ethereum Classic Labs
   title: "ETC Labs Announces Cohort III, Blockchain for Impact Startups"
-  tags: ["announcement", "teams", "development"]
+  tags: ["announcement", "teams", "development", "application"]
 -
   date: 2020-07-20
   link: https://www.coindesk.com/openethereum-supported-50-of-ethereum-classic-now-its-leaving-the-project
