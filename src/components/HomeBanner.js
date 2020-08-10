@@ -3,7 +3,6 @@ import React from 'react';
 import Img from 'gatsby-image';
 
 import { StaticQuery, graphql } from 'gatsby';
-import logo from '../assets/images/etc-black.svg';
 // TODO make this responsive
 
 import Link from './Link';
@@ -17,7 +16,7 @@ const HomeBanner = ({ data: i18n }) => {
       <section className="intro">
         <header>
           <h1>
-            <img className="logo" src={logo} alt="Ethereum Classic Logo" />
+            <div className="logo" />
             {i18n.title}
           </h1>
           <Md>{i18n.subtitle}</Md>

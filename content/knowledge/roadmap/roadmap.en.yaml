@@ -97,10 +97,6 @@ items:
     date: July 17
     key: "Connext State Channels"
     text: "Add Connext state channels support. The goal is to have Connext ETC channels live in 2020. https://etccooperative.org/posts/2020-07-17-etc-connext-state-channels"
-  -
-    date: July 20
-    key: "OpenETH"
-    text: "An ETC client is launched to fill the need as Parity deprecates their ParityEthereum project. https://github.com/openetc/openetc/releases"
   - 
     date: Q3
     key: "Implementation: Instruction"
