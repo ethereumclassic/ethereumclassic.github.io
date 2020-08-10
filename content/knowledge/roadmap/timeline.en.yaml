@@ -541,6 +541,13 @@ items:
     icon: fas fa-unlink
     link: https://blog.bitquery.io/ethereum-classic-51-chain-attack-july-31-2020
     text: Ethereum Classic experiences the second successful chain reorganization attack on its network.
+  - key: 51Attack
+    title: 51% Attack
+    date: Aug 06 2020
+    className: red
+    icon: fas fa-unlink
+    link: https://blog.bitquery.io/ethereum-classic-attack-8-august-catch-me-if-you-can
+    text: Ethereum Classic experiences the third successful chain reorganization attack on its network.
   - key: aBrightFuture
     title: A Bright Future
     date: Future
