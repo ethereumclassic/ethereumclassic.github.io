@@ -5,7 +5,7 @@ author: YazzyYaz
 tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ---
 
-[A Proposal for An Ethereum Classic Treasury System](https://iohk.io/en/research/library/papers/a-proposal-for-an-ethereum-classic-treasury-system/)
+PDF: [A Proposal for An Ethereum Classic Treasury System](./A-proposal-for-an-Ethereum-Classic-treasury-system.pdf)
 
 ![ETC Core Devs Call - Treasury Roadmap Initial Discussions](./ethereum_classic_ecip_wallpaper.png)
 
