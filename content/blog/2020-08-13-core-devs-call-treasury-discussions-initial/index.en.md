@@ -12,7 +12,7 @@ tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 Topic discussion references:
 
 * [A Proposal for An Ethereum Classic Treasury System](https://iohk.io/en/research/library/papers/a-proposal-for-an-ethereum-classic-treasury-system/) - IOHK
-* [ECIP 1051: Ethereum Classic Treasury system](https://ecips.ethereumclassic.org/ECIPs/ecip-10519) - Dexaran
+* [ECIP 1051: Ethereum Classic Treasury system](https://ecips.ethereumclassic.org/ECIPs/ecip-1051) - Dexaran
 * [ECIP-1051: Reject Ethereum Classic Treasury system](https://github.com/ethereumclassic/ECIPs/pull/229)
 * [ETC at Crossroads](https://youtu.be/oHUQuXOwYeU)
 * [A brief history of GnuPG: vital to online security but free and underfunded](https://theconversation.com/a-brief-history-of-gnupg-vital-to-online-security-but-free-and-underfunded-80800)
