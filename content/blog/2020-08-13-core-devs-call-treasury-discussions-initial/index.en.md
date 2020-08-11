@@ -13,6 +13,7 @@ Topic discussion references:
 
 * 2017: [A Proposal for An Ethereum Classic Treasury System](https://iohk.io/en/research/library/papers/a-proposal-for-an-ethereum-classic-treasury-system/) - IOHK Proposal
 * 2017: [Let's Talk ETC! (Ethereum Classic) #10 - Charles Hoskinson & Roman Oliynykov - Treasury Proposal](https://www.youtube.com/watch?v=zxZoSjnHN84) - IOHK Proposal
+* 2017: [ETC Community Fund](https://medium.com/@pyskell/some-changes-to-ethereum-classic-7a97c993a06c)
 * 2018: [ECIP 1051: Ethereum Classic Treasury system](https://ecips.ethereumclassic.org/ECIPs/ecip-1051) - Dexaran Proposal
 * 2018: [ECIP 1051 Dicussion: Ethereum Classic Treasury system](https://github.com/ethereumclassic/ECIPs/issues/4) - Dexaran Proposal
 * 2019: [ECIP-1051: Reject Ethereum Classic Treasury system](https://github.com/ethereumclassic/ECIPs/pull/229) - Dexaran Proposal
