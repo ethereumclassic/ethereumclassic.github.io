@@ -25,6 +25,7 @@ Topic discussion references:
 * Example: [A brief history of GnuPG: vital to online security but free and underfunded](https://theconversation.com/a-brief-history-of-gnupg-vital-to-online-security-but-free-and-underfunded-80800) - Tragedy of the Commons example
 * 2020: [ETC at Crossroads Follow Up - Bailout?](https://youtu.be/Cspqt-nZqsc) - IOHK Follow up
 * 2020: [EDCON 2020 | Ethereum Classic Resilience by Terry Culver, CEO of ETC Labs](https://www.youtube.com/watch?v=c3pndGPYYLs) - ETC Labs Current Climate Input
+* 2020: [Ethereum Classic Ungovernance Explained](https://etherplan.com/2020/03/19/ethereum-classic-ungovernance-explained/10522/) -  Donald's Opposition to a Treasury System
 * 2020: [Ethereum Classic Treasury Roadmap Call: Initial Discussions](https://github.com/ethereumclassic/ECIPs/issues/332)
 
 ## ETC Core Devs Call - Treasury Roadmap Initial Discussions
