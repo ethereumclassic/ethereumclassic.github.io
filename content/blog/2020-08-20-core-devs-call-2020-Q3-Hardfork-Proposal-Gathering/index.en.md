@@ -5,7 +5,7 @@ author: YazzyYaz
 tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ---
 
-[A Proposal for An Ethereum Classic Treasury System.pdf](./A-proposal-for-an-Ethereum-Classic-treasury-system.pdf)
+PDF: [A Proposal for An Ethereum Classic Treasury System](./A-proposal-for-an-Ethereum-Classic-treasury-system.pdf)
 
 ![ETC Core Devs Call - Treasury Roadmap Initial Discussions](./ethereum_classic_ecip_wallpaper.png)
 
@@ -20,7 +20,7 @@ Topic discussion references:
 * 2018: [ECIP 1052 Dicussion: Smart-contract Security Auditing core](https://github.com/ethereumclassic/ECIPs/issues/5) - Dexaran Proposal
 * 2019: [ECIP-1051: Reject Ethereum Classic Treasury system](https://github.com/ethereumclassic/ECIPs/pull/229) - ETC Coop
 * 2019: [ECIP-1052: Reject Smart-contract Security Auditing core](https://github.com/ethereumclassic/ECIPs/pull/231) - ETC Coop
-* 2020: [Securing Proof-of-Work Ledgers via Checkpointing](https://iohk.io/en/research/library/papers/securing-proof-of-work-ledgers-via-checkpointing/) - IOHK Research [Securing Proof-of-Work Ledgers via Checkpointing.pdf](./Securing Proof-of-Work_Ledgers_via_Checkpointing.pdf)
+* 2020: [Securing Proof-of-Work Ledgers via Checkpointing](https://iohk.io/en/research/library/papers/securing-proof-of-work-ledgers-via-checkpointing/) - IOHK Research
 * 2020: [ETC at Crossroads](https://youtu.be/oHUQuXOwYeU) - IOHK Renewed Proposal
 * Example: [A brief history of GnuPG: vital to online security but free and underfunded](https://theconversation.com/a-brief-history-of-gnupg-vital-to-online-security-but-free-and-underfunded-80800) - Tragedy of the Commons example
 * 2020: [ETC at Crossroads Follow Up - Bailout?](https://youtu.be/Cspqt-nZqsc) - IOHK Follow up
