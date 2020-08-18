@@ -1,24 +1,38 @@
 - 
+  date: 2020-08-11
+  link: https://www.youtube.com/watch?v=c3pndGPYYLs
+  author: Terry Culver
+  source: Ethereum Classic Labs
+  title: "EDCON 2020 | Ethereum Classic Resilience by Terry Culver, CEO of ETC Labs"
+  tags: ["announcement", "teams", "mining", "development", "media", "education"]
+- 
+  date: 2020-08-10
+  link: https://www.youtube.com/watch?v=Cspqt-nZqsc&feature=youtu.be
+  author: Charles Hoskinson
+  source: Input Output Hong Kong
+  title: "ETC at Crossroads Follow Up - Bailout?"
+  tags: ["announcement", "teams", "mining", "development", "media", "education"]
+-
   date: 2020-08-10
   link: https://medium.com/ethereum-classic-labs/edcon-2020-ethereum-classic-resilience-734ff9c3c499
   author: Terry Culver
   source: Ethereum Classic Labs
   title: "EDCON 2020 Ethereum Classic Resilience"
-  tags: ["announcement", "teams", "mining", "development"]
+  tags: ["announcement", "teams", "mining", "development", "education"]
 - 
   date: 2020-08-09
   link: https://www.youtube.com/watch?v=oHUQuXOwYeU&feature=youtu.be
   author: Charles Hoskinson
   source: Input Output Hong Kong
   title: "ETC at Crossroads"
-  tags: ["announcement"]
+  tags: ["announcement", "teams", "mining", "development", "media", "education"]
 -
   date: 2020-08-08
   link: https://news.bitcoin.com/new-york-regulator-fast-tracks-10-cryptocurrencies/
   author: Kevin Helms
   source: Bitcoin.com
   title: "New York Regulator Fast-Tracks 10 Cryptocurrencies"
-  tags: ["announcement"]
+  tags: ["announcement", "education"]
 -
   date: 2020-08-07
   link: https://blog.bitquery.io/ethereum-classic-attack-8-august-catch-me-if-you-can
@@ -3715,6 +3729,13 @@
   source: Ars Technica
   title: "Using a blockchain doesn’t exempt you from securities regulations"
   tags: ["education"]
+-
+  date: 2017-07-17
+  link: https://theconversation.com/a-brief-history-of-gnupg-vital-to-online-security-but-free-and-underfunded-80800
+  author: Ralph Holz
+  source: The Conversation
+  title: "A brief history of GnuPG: vital to online security but free and underfunded"
+  tags: ["education", "development"]
 -
   date: 2017-07-17
   link: https://themerkle.com/6-ethereum-classic-mining-pools-worth-checking-out/
