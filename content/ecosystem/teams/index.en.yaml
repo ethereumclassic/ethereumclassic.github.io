@@ -50,7 +50,7 @@ content:
       - key: ETCDEV
         year: 2016
         name: ETCDEV
-        active: true
+        className: faded
         link: https://etcdevteam.com/
         twitter: https://twitter.com/getemerald
         github: https://github.com/ETCDEVTeam/
