@@ -43,6 +43,10 @@ items:
     kotti: https://expedition.dev/?network=kotti
     mordor: https://expedition.dev/?network=mordor
   -
+    key: ForkWatch
+    name: ForkWatch
+    etc: https://www.forkwatch.io/
+  -
     key: MiningPoolStats
     name: MiningPoolStats
     etc: https://miningpoolstats.stream/ethereumclassic
