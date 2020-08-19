@@ -60,6 +60,6 @@ Topic discussion references:
 
 ### Recording of Core Devs Call
 
-* Link to be added after call.
+* [https://www.youtube.com/watch?v=8EOz79tU_xo](https://www.youtube.com/watch?v=8EOz79tU_xo)
 
 ![ETC Core Devs Call - Treasury Roadmap Initial Discussions](./hardware_etc1.jpg)

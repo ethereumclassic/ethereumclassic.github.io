@@ -43,6 +43,10 @@ items:
     kotti: https://expedition.dev/?network=kotti
     mordor: https://expedition.dev/?network=mordor
   -
+    key: ForkWatch
+    name: Fork Watch
+    etc: https://www.forkwatch.io/
+  -
     key: MiningPoolStats
     name: MiningPoolStats
     etc: https://miningpoolstats.stream/ethereumclassic
@@ -50,6 +54,10 @@ items:
     key: Nanopool
     name: Nanopool
     etc: https://etc.nanopool.org/stats
+  -
+    key: PoolDetective
+    name: Pool Detective
+    etc: https://pooldetective.org/
   -
     key: TokenView
     name: TokenView
