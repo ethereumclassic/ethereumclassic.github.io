@@ -156,6 +156,11 @@ content:
         link: https://medium.com/chainsafe-systems/deployment-automation-for-goerli-testnet-in-10-minutes-5212cef5542a
         description: A short tutorial to quickly deploy the new Goerli Proof-of-Authority cross-client test network. This guide can be applied to Ethereum Classic's Kotti testnet.
       -
+        key: Monitoring in PegaSys Plus
+        name: Monitoring in PegaSys Plus
+        link: https://www.youtube.com/watch?v=7BuutRe0I28
+        description: A short tutorial to setup a network monitoring dashboard by PegaSys.
+      -
         key: Using OpenRPC Mock Server to test against an Ethereum JSON-RPC API
         name: Using OpenRPC Mock Server to test against an Ethereum JSON-RPC API
         link: https://medium.com/etclabscore/using-openrpc-mock-server-to-test-against-an-ethereum-json-rpc-api-50b86b6d02d6
