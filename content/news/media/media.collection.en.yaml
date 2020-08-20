@@ -1,10 +1,24 @@
 -
+  date: 2020-08-20
+  link: https://www.youtube.com/watch?v=F0lR_u7BVho
+  author: Charles Hoskinson
+  source: Input Output Global
+  title: "Process for Decision Making and Innovation for ETC"
+  tags: ["announcement", "teams", "mining", "development", "media", "education", "hardfork"]
+-
+  date: 2020-08-20
+  link: https://www.youtube.com/watch?v=aasUIB1W81E
+  author: Dimitris Karakostas and Aggelos Kiayias
+  source: Input Output Global
+  title: "Securing Proof of Work Ledgers via Checkpointing"
+  tags: ["announcement", "teams", "mining", "development", "media", "education", "hardfork"]
+-
   date: 2020-08-19
   link: https://medium.com/ethereum-classic-labs/etc-network-security-plan-fed70402b727
   author: Bob Summerwill, Afri Schoedon and Terry Culver
   source: Ethereum Classic Labs
   title: "ETC Network Security Plan"
-  tags: ["announcement", "teams", "mining", "development", "education"]
+  tags: ["announcement", "teams", "mining", "development", "education", "hardfork"]
 - 
   date: 2020-08-19
   link: https://etherplan.com/2020/08/19/ethereum-classic-simplicity/12470/
@@ -18,28 +32,28 @@
   author: Charles Hoskinson
   source: Input Output Global
   title: "More on ETC's Treasury Idea"
-  tags: ["announcement", "teams", "mining", "development", "media", "education"]
+  tags: ["announcement", "teams", "mining", "development", "media", "education", "hardfork"]
 -
   date: 2020-08-17
   link: https://www.youtube.com/watch?v=fyBCReAl4Os
   author: Alex Tsankov
   source: Commonwealth.gg
   title: "ETC Treasury Solidity Walkthrough (August 2020)"
-  tags: ["announcement", "teams", "mining", "development", "media", "education"]
+  tags: ["announcement", "teams", "mining", "development", "media", "education", "hardfork"]
 -
   date: 2020-08-14
   link: https://etherplan.com/2020/08/14/why-ethereum-classic-should-not-create-a-treasury/12384/
   author: Donald McIntyre
   source: Etherplan
   title: "Why Ethereum Classic Should Not Create a Treasury"
-  tags: ["mining", "development", "education"]
+  tags: ["mining", "development", "education", "hardfork"]
 -
   date: 2020-08-12
   link: https://medium.com/ethereum-classic-labs/treasury-proposal-for-ethereum-classic-conscientious-concerns-79cc6834da2d
   author: Terry Culver
   source: Ethereum Classic Labs
   title: "Treasury Proposal for Ethereum Classic: Conscientious Concerns"
-  tags: ["announcement", "teams", "mining", "development", "education"]
+  tags: ["announcement", "teams", "mining", "development", "education", "hardfork"]
 - 
   date: 2020-08-11
   link: https://www.youtube.com/watch?v=c3pndGPYYLs
@@ -53,7 +67,7 @@
   author: Charles Hoskinson
   source: Input Output Global
   title: "ETC at Crossroads Follow Up - Bailout?"
-  tags: ["announcement", "teams", "mining", "development", "media", "education"]
+  tags: ["announcement", "teams", "mining", "development", "media", "education", "hardfork"]
 -
   date: 2020-08-10
   link: https://medium.com/ethereum-classic-labs/edcon-2020-ethereum-classic-resilience-734ff9c3c499
@@ -67,7 +81,7 @@
   author: Charles Hoskinson
   source: Input Output Global
   title: "ETC at Crossroads"
-  tags: ["announcement", "teams", "mining", "development", "media", "education"]
+  tags: ["announcement", "teams", "mining", "development", "media", "education", "hardfork"]
 -
   date: 2020-08-08
   link: https://news.bitcoin.com/new-york-regulator-fast-tracks-10-cryptocurrencies/
@@ -447,6 +461,13 @@
   title: "Ethereum Classic (ETC) Know about Uncle Blocks Rates Rewards and Discounts"
   tags: ["education", "mining"]
 -
+  date: 2020-04-23
+  link: https://modernconsensus.com/technology/report-ethereum-hyperledger-fabric-multichain-flunk-u-s-security-standards/
+  author: C Sephton
+  source: Modern Consensus
+  title: "Report: Ethereum, Hyperledger Fabric, MultiChain flunk U.S. security standards – Updated"
+  tags: ["announcement", "development", "application", "education"]
+-
   date: 2020-04-21
   link: https://www.saturn.network/blog/cross-chain-atomic-swaps/
   author: Neuron
@@ -495,6 +516,13 @@
   source: Ethereum Classic Cooperative
   title: "ETC Cooperative 2019 Retrospective released"
   tags: ["announcement", "teams"]
+-
+  date: 2020-04-10
+  link: https://whiteblock.io/besu-keccak256/
+  author: Whiteblock
+  source: Whiteblock
+  title: "Hyperledger Besu and Keccak256 Proof of Work"
+  tags: ["announcement", "hardfork", "development", "mining", "education"]
 -
   date: 2020-04-10
   link: https://youtu.be/lXLFU4NKQac
@@ -987,6 +1015,13 @@
   tags: ["announcement", "teams", "development", "mining"]
 -
   date: 2020-02-10
+  link: https://medium.com/@Henry_ePIC/navigating-mining-options-for-the-ethereum-classic-sha-3-fork-1614e99c3e4a
+  author: Henry Quan
+  source: ePIC Blockchain
+  title: "Navigating mining options for the Ethereum Classic SHA-3 fork"
+  tags: ["hardfork", "development", "mining", "education"]
+-
+  date: 2020-02-10
   link: https://medium.com/ethereum-classic-labs/etc-labs-announces-collaboration-with-fantom-xar-network-fefe5d9bd1c5
   author: ETC Labs
   source: Ethereum Classic Labs
@@ -1097,6 +1132,13 @@
   source: Chamber of Digital Commerce
   title: "Digital Finance Group Joins Chamber of Digital Commerce Executive Committee"
   tags: ["announcement", "teams"]
+-
+  date: 2020-01-28
+  link: https://github.com/epicblockchain/whitepapers/blob/master/ETC/SHA3/SHA-3_Transition_Whitepaper_Impact_on_Ethereum_Classic_Mining_Hardware_and_Network_Security.md
+  author: Henry Quan
+  source: ePIC Blockchain
+  title: "SHA-3 Transition Whitepaper: Impact on Ethereum Classic Mining Hardware and Network Security"
+  tags: ["hardfork", "development", "mining", "education"]
 -
   date: 2020-01-28
   link: https://etherplan.com/2020/01/28/the-ethereum-classic-ecosystem-explained/9680/
