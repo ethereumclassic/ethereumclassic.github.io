@@ -19,15 +19,15 @@ Everyone's time is valuable and no one likes to feel like they wasted their reso
 
 In an effort to steer the dialogue down a constructive path, please engage in the technical threads related to the proposals. The following is not an exhaustive list, due to the volume of new proposals, but this article will be updated as proposals formalize to the ECIP process.
 
-### Algorithm Agnostic Solutions to PoW Security
+### Algorithm-Agnostic Proposals to PoW Security
 
 * [ECIP 1092 "Pirlguard"](https://ecips.ethereumclassic.org/ECIPs/ecip-51attack-solution) - Technical [Discussion](https://github.com/ethereumclassic/ECIPs/issues/327)
 * [ECIP 1094 "VeriBlock"](https://github.com/ethereumclassic/ECIPs/pull/340)
 * [ECIP xxxx "Checkpointing and Timestamping"](https://www.youtube.com/watch?v=aasUIB1W81E) - [Video](https://www.youtube.com/watch?v=aasUIB1W81E), [Whitepaper](https://eprint.iacr.org/2020/173.pdf)
 
-### Algorithm Solutions to PoW Security
+### Algorithm Proposals to PoW Security
 
-* Do Nothing. Stay with Ethash.
+* Do Nothing. Stay with Ethash, unaltered.
 * [ECIP 1043 "Fixed DAG"](https://ecips.ethereumclassic.org/ECIPs/ecip-1043) - Technical [Discussion](https://github.com/ethereumclassic/ECIPs/issues/11)
 * [ECIP 1049 "Keccak256"](https://ecips.ethereumclassic.org/ECIPs/ecip-1049) - Technical [Discussion](https://github.com/ethereumclassic/ECIPs/issues/13)
 * [ECIP 1093 "RandomX"](https://ecips.ethereumclassic.org/ECIPs/ecip-randomX)  - Technical [Discussion](https://github.com/ethereumclassic/ECIPs/issues/329)
@@ -48,7 +48,7 @@ In an effort to steer the dialogue down a constructive path, please engage in th
 
 The development proposals are where technical discussions occur. To stay current on Ethereum Classic development, please read and participate in the [ECIP repo](https://github.com/ethereumclassic/ECIPs/issues).
 
-### Documentation of August 20, 20202 Core Devs Call
+### Documentation of August 20, 2020 Core Devs Call
 
 * [Action Items: ETC Q3 Hard Fork Draft 1](https://docs.google.com/document/d/1f0a0sqb0OW3n4ki6nM3q9hvJ91HeZoj9Rpjp2fDCZIQ)
 * Input Output Global CDC Feedback: [Process for Decision Making and Innovation for ETC](https://www.youtube.com/watch?v=F0lR_u7BVho)
