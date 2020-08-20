@@ -25,7 +25,7 @@ In an effort to steer the dialogue down a constructive path, please engage in th
 * [ECIP 1094 "VeriBlock"](https://github.com/ethereumclassic/ECIPs/pull/340)
 * [ECIP xxxx "Checkpointing and Timestamping"](https://www.youtube.com/watch?v=aasUIB1W81E) - [Video](https://www.youtube.com/watch?v=aasUIB1W81E), [Whitepaper](https://eprint.iacr.org/2020/173.pdf)
 
-### Algorithm Proposals to PoW Security
+### Change the Algorithm Proposals
 
 * Do Nothing. Stay with Ethash, unaltered.
 * [ECIP 1043 "Fixed DAG"](https://ecips.ethereumclassic.org/ECIPs/ecip-1043) - Technical [Discussion](https://github.com/ethereumclassic/ECIPs/issues/11)
