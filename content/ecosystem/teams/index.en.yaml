@@ -30,14 +30,14 @@ content:
       - key: Ethereum Foundation
         year: 2015
         name: Ethereum Foundation
-        active: true
+        className: faded
         link: https://ethereum.org/
         twitter: https://twitter.com/ethereum
         github: https://github.com/ethereum/
       - key: Parity Technologies
         year: 2016
         name: Parity Technologies
-        active: true
+        className: faded
         link: https://parity.io/
         twitter: https://twitter.com/ParityTech
         github: https://github.com/paritytech
@@ -50,14 +50,14 @@ content:
       - key: ETCDEV
         year: 2016
         name: ETCDEV
-        active: true
+        className: faded
         link: https://etcdevteam.com/
         twitter: https://twitter.com/getemerald
         github: https://github.com/ETCDEVTeam/
       - key: Grothendieck
         year: 2016
         name: IOHK (Grothendieck)
-        className: faded
+        active: true
         link: https://iohk.io/projects/ethereum-classic/
         twitter: https://twitter.com/InputOutputHK
         github: https://github.com/input-output-hk/mantis
@@ -71,7 +71,7 @@ content:
       - key: Ethereum Commonwealth
         year: 2017
         name: Ethereum Commonwealth
-        className: faded
+        active: true
         link: https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/
         twitter: https://twitter.com/Dexaran
         github: https://github.com/EthereumCommonwealth

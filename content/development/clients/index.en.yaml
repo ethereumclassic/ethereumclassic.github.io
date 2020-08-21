@@ -28,6 +28,10 @@ content:
         link: https://www.ethercluster.com/mordor
         name: Ethercluster (Mordor)
       -
+        key: RIVET API
+        link: https://rivet.cloud/
+        name: RIVET
+      -
         key: TokenView API
         link: https://services.tokenview.com
         name: TokenView API
@@ -66,6 +70,11 @@ content:
         link: https://core-geth.org/setup-on-raspberry-pi
         name: Raspberry Pi Node
         description: A detailed guide for how to setup an Ethereum Classic node on a Raspberry Pi.
+      - 
+        key: Rivet Cloud
+        link: https://rivet.cloud/
+        name: RIVET
+        description: Infinitely-scalable, highly-available Ethereum and Ethereum Classic endpoints that truly just work.
       - 
         key: QuikNode
         link: https://quiknode.io/
