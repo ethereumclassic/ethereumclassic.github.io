@@ -34,8 +34,9 @@ Topic discussion references:
 
 [https://github.com/ethereumclassic/ECIPs/issues/333](https://github.com/ethereumclassic/ECIPs/issues/333)
 
-### Recording of Core Devs Call
+### Documentation of Core Devs Call
 
-* Link to be added after call.
+* [Action Items: ETC Q3 Hard Fork Draft 1](https://docs.google.com/document/d/1f0a0sqb0OW3n4ki6nM3q9hvJ91HeZoj9Rpjp2fDCZIQ)
+* IOHK CDC Feedback: [Process for Decision Making and Innovation for ETC](https://www.youtube.com/watch?v=F0lR_u7BVho)
 
 ![ETC Core Devs Call - 2020 Q3 Hard Fork Proposal Gathering](./hardfork_etc.png)
