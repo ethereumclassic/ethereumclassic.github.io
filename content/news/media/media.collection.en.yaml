@@ -1,17 +1,24 @@
 -
+  date: 2020-08-21
+  link: https://blog.coinbase.com/coinbases-perspective-on-the-recent-ethereum-classic-etc-double-spend-incidents-1fd19ef215f3
+  author: Don Yu
+  source: Coinbase
+  title: "Coinbase’s perspective on the recent Ethereum Classic (ETC) double spend incidents"
+  tags: ["mining", "education"]
+-
   date: 2020-08-20
   link: https://www.youtube.com/watch?v=F0lR_u7BVho
   author: Charles Hoskinson
   source: Input Output Global
   title: "Process for Decision Making and Innovation for ETC"
-  tags: ["announcement", "teams", "mining", "development", "media", "education", "hardfork"]
+  tags: ["teams", "development", "media", "education"]
 -
   date: 2020-08-20
   link: https://www.youtube.com/watch?v=aasUIB1W81E
   author: Dimitris Karakostas and Aggelos Kiayias
   source: Input Output Global
   title: "Securing Proof of Work Ledgers via Checkpointing"
-  tags: ["announcement", "teams", "mining", "development", "media", "education", "hardfork"]
+  tags: ["teams", "development", "media", "education"]
 -
   date: 2020-08-19
   link: https://medium.com/ethereum-classic-labs/etc-network-security-plan-fed70402b727
@@ -25,28 +32,28 @@
   author: Donald McIntyre
   source: Etherplan
   title: "Ethereum Classic Simplicity"
-  tags: ["mining", "development", "education"]
+  tags: ["development", "education"]
 -
   date: 2020-08-18
   link: https://www.youtube.com/watch?v=47DhB1obZNs
   author: Charles Hoskinson
   source: Input Output Global
   title: "More on ETC's Treasury Idea"
-  tags: ["announcement", "teams", "mining", "development", "media", "education", "hardfork"]
+  tags: ["teams", "development", "media", "education"]
 -
   date: 2020-08-17
   link: https://www.youtube.com/watch?v=fyBCReAl4Os
   author: Alex Tsankov
   source: Commonwealth.gg
   title: "ETC Treasury Solidity Walkthrough (August 2020)"
-  tags: ["announcement", "teams", "mining", "development", "media", "education", "hardfork"]
+  tags: ["teams", "development", "media", "education"]
 -
   date: 2020-08-14
   link: https://etherplan.com/2020/08/14/why-ethereum-classic-should-not-create-a-treasury/12384/
   author: Donald McIntyre
   source: Etherplan
   title: "Why Ethereum Classic Should Not Create a Treasury"
-  tags: ["mining", "development", "education", "hardfork"]
+  tags: ["mining", "development", "education"]
 -
   date: 2020-08-12
   link: https://medium.com/ethereum-classic-labs/treasury-proposal-for-ethereum-classic-conscientious-concerns-79cc6834da2d
@@ -60,28 +67,28 @@
   author: Terry Culver
   source: Ethereum Classic Labs
   title: "EDCON 2020 | Ethereum Classic Resilience by Terry Culver, CEO of ETC Labs"
-  tags: ["announcement", "teams", "mining", "development", "media", "education"]
+  tags: ["teams", "mining", "development", "media", "education"]
 - 
   date: 2020-08-10
   link: https://www.youtube.com/watch?v=Cspqt-nZqsc
   author: Charles Hoskinson
   source: Input Output Global
   title: "ETC at Crossroads Follow Up - Bailout?"
-  tags: ["announcement", "teams", "mining", "development", "media", "education", "hardfork"]
+  tags: ["teams", "development", "media", "education"]
 -
   date: 2020-08-10
   link: https://medium.com/ethereum-classic-labs/edcon-2020-ethereum-classic-resilience-734ff9c3c499
   author: Terry Culver
   source: Ethereum Classic Labs
   title: "EDCON 2020 Ethereum Classic Resilience"
-  tags: ["announcement", "teams", "mining", "development", "education"]
+  tags: ["teams", "mining", "development", "education"]
 - 
   date: 2020-08-09
   link: https://www.youtube.com/watch?v=oHUQuXOwYeU
   author: Charles Hoskinson
   source: Input Output Global
   title: "ETC at Crossroads"
-  tags: ["announcement", "teams", "mining", "development", "media", "education", "hardfork"]
+  tags: ["teams", "development", "media", "education"]
 -
   date: 2020-08-08
   link: https://news.bitcoin.com/new-york-regulator-fast-tracks-10-cryptocurrencies/
@@ -95,7 +102,7 @@
   author: Aleksey Studnev
   source: BitQuery
   title: "Ethereum Classic Attack, 8 August: Catch me if you can"
-  tags: ["announcement", "mining"]
+  tags: ["mining", "education"]
 -
   date: 2020-08-07
   link: https://www.businesswire.com/news/home/20200807005118/en/Ethereum-Classic-Labs-Kobre-Kim-CipherTrace-Pursue
@@ -116,7 +123,7 @@
   author: Aleksey Studnev
   source: BitQuery
   title: "Attacker Stole 807K ETC in Ethereum Classic 51% Attack"
-  tags: ["announcement", "mining"]
+  tags: ["mining", "education"]
 -
   date: 2020-08-04
   link: https://www.newsanyway.com/2020/08/04/getblock-io-launches-a-service-that-provides-fast-and-secure-access-to-blockchain-nodes/
