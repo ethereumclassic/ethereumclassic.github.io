@@ -1,5 +1,12 @@
 -
   date: 2020-08-21
+  link: https://www.pscp.tv/w/1BRJjYWyLeRGw
+  author: Charles Hoskinson
+  source: Input Output Global
+  title: "Quick Update on 51% Attack Video"
+  tags: ["teams", "development", "media", "education"]
+-
+  date: 2020-08-21
   link: https://blog.coinbase.com/coinbases-perspective-on-the-recent-ethereum-classic-etc-double-spend-incidents-1fd19ef215f3
   author: Don Yu
   source: Coinbase
@@ -47,6 +54,13 @@
   source: Commonwealth.gg
   title: "ETC Treasury Solidity Walkthrough (August 2020)"
   tags: ["teams", "development", "media", "education"]
+-
+  date: 2020-08-14
+  link: https://www.youtube.com/watch?v=WRiGYwZ6qxQ
+  author: EVM61 Podcast
+  source: Ethereum Classic Core
+  title: "EVM61 #7 OpenRelay"
+  tags: ["media", "podcast"]
 -
   date: 2020-08-14
   link: https://etherplan.com/2020/08/14/why-ethereum-classic-should-not-create-a-treasury/12384/
@@ -110,6 +124,13 @@
   source: Business Wire
   title: "Ethereum Classic Labs, Kobre & Kim, and CipherTrace to Pursue Investigation and Criminal Charges Against Perpetrators of Recent Attacks on The Ethereum Classic Blockchain"
   tags: ["announcement", "teams", "mining"]
+-
+  date: 2020-08-07
+  link: https://www.youtube.com/watch?v=TMHCmxDLraM
+  author: EVM61 Podcast
+  source: Ethereum Classic Core
+  title: "EVM61 #6 Viktor Tron"
+  tags: ["media", "podcast"]
 -
   date: 2020-08-06
   link: https://www.forbes.com/sites/michaeldelcastillo/2020/08/06/valuable-sec-data-on-20-institutional-bitcoin-investors-could-soon-disappear/
