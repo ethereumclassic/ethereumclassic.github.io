@@ -1,5 +1,5 @@
 participants: Participants
-teams: 
+teams:
   title: Teams
   items:
     -
@@ -24,7 +24,7 @@ teams:
       name: Gödel Labs
 regions:
   title: Regions
-  items: 
+  items:
     -
       key: Asia
       link: http://ethereumclassicasia.org/
@@ -39,7 +39,7 @@ regions:
       name: Korea
 social:
   title: Social
-  items: 
+  items:
     -
       key: gitHub
       brand: github
@@ -48,7 +48,7 @@ social:
     -
       key: discord
       brand: discord
-      link: https://discordapp.com/invite/HW4GckH
+      link: https://discord.gg/hQs894U
       name: Discord
     -
       key: telegram
@@ -66,10 +66,10 @@ social:
       link: https://twitter.com/eth_classic
       name: Twitter
 discordTip: "**ETC participants** are most active on **discord**."
-discord: 
+discord:
   icon: discord
   name: Join ETC on Discord
-  link: https://discordapp.com/invite/HW4GckH
+  link: https://discord.gg/hQs894U
 moreChannels: More Social Channels
 buttons:
   -
