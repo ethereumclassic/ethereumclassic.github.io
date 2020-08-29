@@ -33,6 +33,6 @@ Topic discussion references:
 
 ### Recording of Core Devs Call
 
-* [https://youtu.be/4W1l5krLPqI](https://youtu.be/4W1l5krLPqI)
+* [https://www.youtube.com/watch?v=4W1l5krLPqI](https://www.youtube.com/watch?v=4W1l5krLPqI)
 
 ![ETC Core Devs Call - 2020 Q3 Hard Fork Proposal Evaluation and Consensus Finding](./hardfork_etc.png)
