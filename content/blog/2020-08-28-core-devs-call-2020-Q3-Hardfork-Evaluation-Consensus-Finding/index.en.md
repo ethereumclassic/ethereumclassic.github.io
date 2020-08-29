@@ -13,11 +13,17 @@ Topic discussion references:
 ## ETC Core Devs Call - 2020 Q3 Hard Fork Proposal Evaluation and Consensus Finding
 
 * When: Friday, August 28, 2020, 4pm UTC, 60 minutes max.
-* Where: Ethereum Classic [Discord](https://discord.gg/dwxb6nf) `#ecips` channel. Will use/create a voice channel *ad hoc*.
+* Where: Ethereum Classic [Discord](https://discord.gg/hQs894U) `#ecips` channel. Will use/create a voice channel *ad hoc*.
 
 ## Agenda
 
-* To be determined: August 20, 2020 [Core Devs Call: 2020 Q3 Hard Fork Proposal Gathering](https://ethereumclassic.org/blog/2020-08-20-core-devs-call-2020-Q3-Hardfork-Proposal-Gathering)
+### Change the Algorithm Proposals
+
+* Do Nothing. Stay with Ethash, unaltered.
+* [ECIP 1043 "Fixed DAG"](https://ecips.ethereumclassic.org/ECIPs/ecip-1043) - Technical [Discussion](https://github.com/ethereumclassic/ECIPs/issues/11)
+* [ECIP 1049 "Keccak256"](https://ecips.ethereumclassic.org/ECIPs/ecip-1049) - Technical [Discussion](https://github.com/ethereumclassic/ECIPs/issues/13)
+* [ECIP 1093 "RandomX"](https://ecips.ethereumclassic.org/ECIPs/ecip-1093)  - Technical [Discussion](https://github.com/ethereumclassic/ECIPs/issues/329)
+* [ECIP 1095 "SHA3"](https://ecips.ethereumclassic.org/ECIPs/ecip-1095) - Technical [Discussion](https://github.com/ethereumclassic/ECIPs/issues/342)
 
 ### Anything else related to an Ethereum Classic Hard Fork
 
@@ -27,6 +33,6 @@ Topic discussion references:
 
 ### Recording of Core Devs Call
 
-* Link to be added after call.
+* [https://www.youtube.com/watch?v=4W1l5krLPqI](https://www.youtube.com/watch?v=4W1l5krLPqI)
 
 ![ETC Core Devs Call - 2020 Q3 Hard Fork Proposal Evaluation and Consensus Finding](./hardfork_etc.png)

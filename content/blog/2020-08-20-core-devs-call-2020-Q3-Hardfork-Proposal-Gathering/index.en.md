@@ -13,7 +13,7 @@ Topic discussion references:
 ## ETC Core Devs Call - 2020 Q3 Hard Fork Proposal Gathering
 
 * When: Thursday, August 20, 2020, 12pm UTC, 60 minutes max.
-* Where: Ethereum Classic [Discord](https://discord.gg/dwxb6nf) `#ecips` channel. Will use/create a voice channel *ad hoc*.
+* Where: Ethereum Classic [Discord](https://discord.gg/hQs894U) `#ecips` channel. Will use/create a voice channel *ad hoc*.
 
 ## Agenda
 

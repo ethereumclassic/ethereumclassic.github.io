@@ -16,7 +16,7 @@ ref [ECIP-1061](https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip
 ## ETC Core Devs Call - Phoenix Upgrade from Scratch
 
 * When: Wednesday, February 26, 2019, 1pm UTC, 60 minutes max.
-* Where: Ethereum Classic [Discord](https://discord.gg/dwxb6nf) `#ecips` channel. Will use/create a voice channel *ad hoc*.
+* Where: Ethereum Classic [Discord](https://discord.gg/hQs894U) `#ecips` channel. Will use/create a voice channel *ad hoc*.
 
 ## Agenda
 
