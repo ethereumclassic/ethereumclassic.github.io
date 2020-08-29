@@ -1,4 +1,53 @@
 -
+  date: 2020-08-28
+  link: https://www.youtube.com/watch?v=ojLCSaxfGgw
+  author: Charles Hoskinson
+  source: Input Output Global
+  title: "ETC ECIP Meetings Next Week"
+  tags: ["announcement", "teams", "development", "media", "education"]
+-
+  date: 2020-08-28
+  link: https://www.youtube.com/watch?v=55Quk7MDvXA
+  author: Brian McKenna
+  source: Input Output Global
+  title: "Proto-Treasury System for Ethereum Classic"
+  tags: ["announcement", "teams", "development", "media", "education"]
+-
+  date: 2020-08-28
+  link: https://www.youtube.com/watch?v=4W1l5krLPqI
+  author: ETC Core Dev Meeting
+  source: Ethereum Classic Cooperative
+  title: "ETC Core Dev Meeting | Q3 2020 Hard Fork"
+  tags: ["announcement", "teams", "development"]
+- 
+  date: 2020-08-26
+  link: https://medium.com/ethereum-classic-labs/swarm-and-ethereum-classic-labs-announce-collaboration-to-support-the-swarm-alpha-and-beta-release-17590951abb3
+  author: Ethereum Classic Labs
+  source: Ethereum Classic Labs
+  title: "Swarm and Ethereum Classic Labs Announce Collaboration to Support the Swarm Alpha and Beta Release"
+  tags: ["announcement", "teams", "development", "application"]
+-
+  date: 2020-08-25
+  link: https://www.youtube.com/watch?v=1JeL4pAjmXM
+  author: Brian Mckenna, Radek Tkacyzk, and Charles Morgan
+  source: Input Output Global
+  title: "Securing Ethereum Classic via Checkpointing"
+  tags: ["announcement", "teams", "development", "media", "education"]
+-
+  date: 2020-08-25
+  link: https://2miners.com/blog/ethereum-classic-future-discussing-etc-network-current-state-and-security-plan/
+  author: Darek Piotrowski
+  source: 2Miners
+  title: "Ethereum Classic Future – Discussing ETC Network Current State and Security Plan"
+  tags: ["teams", "development", "media", "education"]
+-
+  date: 2020-08-22
+  link: https://www.youtube.com/watch?v=aO1S6MOrZcE
+  author: Charles Hoskinson
+  source: Input Output Global
+  title: "The Future of ETC"
+  tags: ["teams", "development", "media", "education"]
+-
   date: 2020-08-21
   link: https://www.pscp.tv/w/1BRJjYWyLeRGw
   author: Charles Hoskinson
@@ -33,6 +82,13 @@
   source: Ethereum Classic Labs
   title: "ETC Network Security Plan"
   tags: ["announcement", "teams", "mining", "development", "education", "hardfork"]
+-
+  date: 2020-08-19
+  link: https://etccooperative.org/posts/2020-08-19-etc-network-security-plan
+  author: ETC Cooperative
+  source: Ethereum Classic Cooperative
+  title: "ETC Network Security Plan"
+  tags: ["announcement", "teams", "mining", "development", "education", "hardfork"]
 - 
   date: 2020-08-19
   link: https://etherplan.com/2020/08/19/ethereum-classic-simplicity/12470/
@@ -49,11 +105,25 @@
   tags: ["teams", "development", "media", "education"]
 -
   date: 2020-08-17
+  link: https://theforkwatch.substack.com/p/coming-soon
+  author: Yaz Khoury
+  source: Ethereum Classic Cooperative
+  title: "Introducing ForkWatch"
+  tags: ["announcement", "teams", "development", "application"]
+- 
+  date: 2020-08-17
   link: https://www.youtube.com/watch?v=fyBCReAl4Os
   author: Alex Tsankov
   source: Commonwealth.gg
   title: "ETC Treasury Solidity Walkthrough (August 2020)"
   tags: ["teams", "development", "media", "education"]
+-
+  date: 2020-08-17
+  link: https://gist.github.com/Dexaran/b7c23ec264019665cffd35d35bc26ee9
+  author: Dexaran
+  source: Ethereum Commonwealth
+  title: "Ultimate solution to 51% attacks- amend the Nakamoto consensus"
+  tags: ["teams", "development", "education"]
 -
   date: 2020-08-14
   link: https://www.youtube.com/watch?v=WRiGYwZ6qxQ

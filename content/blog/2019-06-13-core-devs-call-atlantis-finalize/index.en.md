@@ -14,7 +14,7 @@ ref [etclabscore/ECIPs#25](https://github.com/etclabscore/ECIPs/issues/25)
 ## ETC Core Devs Call - Atlantis Finalization
 
 * When: Thursday, June 13, 2019, 3pm UTC, 60 minutes max.
-* Where: Ethereum Classic Discord `#ecips` channel. Will use/create a voice channel *ad hoc*. Ask for invite here if you are not on that discord.
+* Where: Ethereum Classic [Discord](https://discord.gg/hQs894U) `#ecips` channel. Will use/create a voice channel *ad hoc*. Ask for invite here if you are not on that discord.
 
 ## Agenda
 
