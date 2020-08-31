@@ -22,6 +22,12 @@ teams:
       key: Gödel Labs
       link: https://www.godel.ai/
       name: Gödel Labs
+    -
+      key: Chippr Robotics
+      link: https://www.chipprbots.com/
+      name: Chippr Robotics
+     
+      
 regions:
   title: Regions
   items:
