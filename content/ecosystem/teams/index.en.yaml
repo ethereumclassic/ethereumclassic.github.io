@@ -102,6 +102,13 @@ content:
         link: https://www.poa.network/
         twitter: https://twitter.com/poanetwork
         github: https://github.com/poanetwork
+      - key: Chippr Robotics
+        year: 2019
+        name: Chippr Robotics
+        active: true 
+        link: https://chipprbots.com/
+        twitter: https://twitter.com/BotBridgette
+        github: https://github.com/chippr-robootics/
       - key: ETC Core
         year: 2019
         name: ETC Core
@@ -137,3 +144,4 @@ content:
         link: https://www.godel.ai/
         twitter: https://twitter.com/Goedellabs
         github: https://github.com/multi-geth/multi-geth
+      
