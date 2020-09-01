@@ -26,6 +26,10 @@ teams:
       key: Chippr Robotics
       link: https://www.chipprbots.com/
       name: Chippr Robotics
+    -
+      key: Byzantine Fault
+      link: https://byzantine.fault.dev/
+      name: Byzantine Fault
      
       
 regions:
