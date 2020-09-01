@@ -7,25 +7,37 @@ teams:
       link: https://etcconsortium.org/
       name: ETC Consortium
     -
+      key: IOHK
+      link: https://iohk.io/projects/ethereum-classic/
+      name: IOHK
+    -
       key: ETC Cooperative
       link: https://etccooperative.org/
       name: ETC Cooperative
+    -
+      key: Ethereum Commonwealth
+      link: https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/
+      name: Ethereum Commonwealth
+    -
+      key: Commonwealth.gg
+      link: https://commonwealth.gg/
+      name: Commonwealth.gg
+    -
+      key: Chippr Robotics
+      link: https://www.chipprbots.com/
+      name: Chippr Robotics
     -
       key: ETC Core
       link: https://etccore.io/
       name: ETC Core
     -
-      key: ETC Labs
-      link: https://etclabs.org/
-      name: ETC Labs
+      key: Byzantine Fault
+      link: https://byzantine.fault.dev/
+      name: Byzantine Fault
     -
       key: Gödel Labs
       link: https://www.godel.ai/
       name: Gödel Labs
-    -
-      key: Chippr Robotics
-      link: https://www.chipprbots.com/
-      name: Chippr Robotics
      
       
 regions:
