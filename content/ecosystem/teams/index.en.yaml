@@ -137,13 +137,6 @@ content:
         link: https://www.secondstate.io/
         twitter: https://twitter.com/secondstateinc
         github: https://github.com/second-state
-      - key: Gödel Labs
-        year: 2020
-        name: Gödel Labs 哥德尔实验室
-        active: true
-        link: https://www.godel.ai/
-        twitter: https://twitter.com/Goedellabs
-        github: https://github.com/multi-geth/multi-geth
       - key: Byzantine Fault
         year: 2020
         name: Byzantine Fault
@@ -151,4 +144,11 @@ content:
         link: https://byzantine.fault.dev/
         twitter: https://twitter.com/byzantine_fault
         github: https://github.com/byz-f
+      - key: Gödel Labs
+        year: 2020
+        name: Gödel Labs 哥德尔实验室
+        active: true
+        link: https://www.godel.ai/
+        twitter: https://twitter.com/Goedellabs
+        github: https://github.com/multi-geth/multi-geth
       
