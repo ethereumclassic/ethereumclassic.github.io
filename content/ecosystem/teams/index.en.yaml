@@ -144,4 +144,11 @@ content:
         link: https://www.godel.ai/
         twitter: https://twitter.com/Goedellabs
         github: https://github.com/multi-geth/multi-geth
+      - key: Byzantine Fault
+        year: 2020
+        name: Byzantine Fault
+        active: true
+        link: https://byzantine.fault.dev/
+        twitter: https://twitter.com/byzantine_fault
+        github: https://github.com/byz-f
       
