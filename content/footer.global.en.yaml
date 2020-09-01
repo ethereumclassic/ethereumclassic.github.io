@@ -37,9 +37,7 @@ teams:
     -
       key: Gödel Labs
       link: https://www.godel.ai/
-      name: Gödel Labs
-     
-      
+      name: Gödel Labs  
 regions:
   title: Regions
   items:
