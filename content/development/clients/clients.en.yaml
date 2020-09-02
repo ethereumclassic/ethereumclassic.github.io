@@ -17,7 +17,7 @@ items:
     key: Core-Geth
     name: Core-Geth
     link: https://core-geth.org/
-    description: Core-Geth is a distribution of go-ethereum with many flavors. For Phoenix upgrade support, please use version v1.11.0 or later. Upgrade considerations, users can use their existing data directories and do not need to resync for migration to Core-Geth from the deprecated Multi-Geth client. This client is Long Term Supported by the ETC Core development team with stable funding from Ethereum Classic Labs. This is a recommended client from a well-known transparent team.
+    description: Core-Geth is a distribution of go-ethereum with many flavors. For Phoenix upgrade support, please use version v1.11.11 or later. Upgrade considerations, users can use their existing data directories and do not need to resync for migration to Core-Geth from the deprecated Multi-Geth client. This client is Long Term Supported by the ETC Core development team with stable funding from Ethereum Classic Labs. This is a recommended client from a well-known transparent team.
     guide: https://core-geth.org/install
     release: https://github.com/etclabscore/core-geth/releases
     support: https://gitter.im/core-geth/community
