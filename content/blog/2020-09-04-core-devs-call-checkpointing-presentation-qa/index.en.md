@@ -9,8 +9,8 @@ tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 
 ## ETC Core Devs Call - IOHK Checkpointing Presentation and Q&A
 
-* When: Friday, September 04, 2020. (Likely Friday) TBD; 30 minute presentation followed by Q&A
-* Where: Crowdcast (Link TBD)
+* When: Friday, September 04, 2020. 14:00 UTC; 30 minute presentation followed by Q&A
+* Where: Crowdcast [https://www.crowdcast.io/e/9epmnuoc](https://www.crowdcast.io/e/9epmnuoc)
 
 Please follow the meeting discussion here as they finalize the variables in real-time:
 
@@ -35,6 +35,6 @@ Questions will be submitted directly in the Crowdcast meeting (Link will be post
 
 ### Recording of Core Devs Call
 
-* Link To Be Added After Call
+* Crowdcast [https://www.crowdcast.io/e/9epmnuoc](https://www.crowdcast.io/e/9epmnuoc)
 
 ![ETC Core Devs Call - IOHK Checkpointing Presentation and Q&A](./hardfork_etc.png)
