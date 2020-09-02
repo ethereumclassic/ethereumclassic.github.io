@@ -1,6 +1,6 @@
 ---
 title: "Core Devs Call: IOHK Checkpointing Presentation and Q&A"
-date: 2020-09-02
+date: 2020-09-04
 author: developerkevin
 tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ---
@@ -9,7 +9,7 @@ tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 
 ## ETC Core Devs Call - IOHK Checkpointing Presentation and Q&A
 
-* When: Friday, September 02, 2020. (Likely Friday) TBD; 30 minute presentation followed by Q&A
+* When: Friday, September 04, 2020. (Likely Friday) TBD; 30 minute presentation followed by Q&A
 * Where: Crowdcast (Link TBD)
 
 Checkpointing Presentation
