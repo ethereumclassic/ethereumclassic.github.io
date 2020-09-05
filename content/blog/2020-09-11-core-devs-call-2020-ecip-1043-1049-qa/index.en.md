@@ -16,7 +16,7 @@ tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ## Agenda
 
 * ECIP 1043 Fixed Dag Size Restriction (Last Call)
-* ECIP 1049 SHA3 (& ECIP 1095, both Last Call)
+* ECIP 1049 SHA3 (& ECIP 1095, both Last Call) - Detailed Q&A with Team
 
 ### Please comment to add items to the agenda.
 
