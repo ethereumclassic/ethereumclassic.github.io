@@ -64,6 +64,13 @@ items:
     consensusAlgo: pow
     miningAlgo: Keccak256
   -
+    key: Testnet Helmsdeep
+    name: Helmsdeep
+    type: experimental
+    link: https://github.com/chippr-robotics/chippr-bots/tree/staging/packages/testnets/helmsdeep
+    consensusAlgo: pow
+    miningAlgo: Ethash
+  -
     key: Testnet Keccak Besu 
     name: Keccak Besu 
     type: experimental
