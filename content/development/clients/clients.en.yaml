@@ -17,7 +17,7 @@ items:
     key: Core-Geth
     name: Core-Geth
     link: https://core-geth.org/
-    description: Core-Geth is a distribution of go-ethereum with many flavors. For Phoenix upgrade support, please use version v1.11.0 or later. Upgrade considerations, users can use their existing data directories and do not need to resync for migration to Core-Geth from the deprecated Multi-Geth client. This client is Long Term Supported by the ETC Core development team with stable funding from Ethereum Classic Labs. This is a recommended client from a well-known transparent team.
+    description: Core-Geth is a distribution of go-ethereum with many flavors. For Phoenix upgrade support, please use version v1.11.11 or later. Upgrade considerations, users can use their existing data directories and do not need to resync for migration to Core-Geth from the deprecated Multi-Geth client. This client is Long Term Supported by the ETC Core development team with stable funding from Ethereum Classic Labs. This is a recommended client from a well-known transparent team.
     guide: https://core-geth.org/install
     release: https://github.com/etclabscore/core-geth/releases
     support: https://gitter.im/core-geth/community
@@ -31,3 +31,12 @@ items:
     release: https://github.com/hyperledger/besu/releases
     support: https://chat.hyperledger.org/
     supportIcon: fab fa-rocketchat
+  -
+    key: Mantis
+    name: Mantis
+    link: https://github.com/input-output-hk/mantis
+    description: Input Output Global announced intent to update and release Mantis for the Ethereum Classic network by November, 2020. Mantis is a Scala based client written for Ethereum Classic from the ground up by the Grothendieck Team of Input Output Global (formerly IOHK). Mantis features a GUI and puts the Luna wallet management software into the hands of Ethereum Classic users, giving them a safe way to create, manage and backup their wallets.
+    guide: https://github.com/input-output-hk/mantis
+    release: https://github.com/input-output-hk/mantis/releases
+    support: https://github.com/input-output-hk/mantis/issues
+    supportIcon: fab fa-github
