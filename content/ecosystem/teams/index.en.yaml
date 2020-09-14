@@ -146,9 +146,16 @@ content:
         github: https://github.com/byz-f
       - key: Gödel Labs
         year: 2020
-        name: Gödel Labs 哥德尔实验室
+        name: Gödel Labs
         active: true
         link: https://www.godel.ai/
         twitter: https://twitter.com/Goedellabs
         github: https://github.com/multi-geth/multi-geth
+      - key: Storj Labs
+        year: 2020
+        name: Storj Labs
+        active: true
+        link: https://storj.io/
+        twitter: https://twitter.com/storjproject
+        github: https://github.com/Storj/
       
