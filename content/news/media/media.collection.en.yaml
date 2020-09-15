@@ -1,3 +1,38 @@
+-
+  date: 2020-09-10
+  link: https://storj.io/blog/2020/09/using-tardigrade-and-the-decentralized-cloud-to-speed-up-sync-times-for-geth
+  author: Kevin Leffew
+  source: Storj Labs
+  title: "Using Tardigrade and the Decentralized Cloud to Speed Up Sync Times for GETH"
+  tags: ["announcement", "teams", "development"]
+-
+  date: 2020-09-10
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-joins-forces-with-storj-labs-947726b3ecdd
+  author: Ethereum Classic Labs
+  source: Ethereum Classic Labs
+  title: "Ethereum Classic Labs Joins Forces with Storj Labs"
+  tags: ["announcement", "teams", "development"]
+-
+  date: 2020-09-09
+  link: https://thecurrencyanalytics.com/18911/ethereum-classic-labs-doing-their-best-to-provide-a-secure-platform-for-etc-community/
+  author: Steven Anderson
+  source: The Currency Analytics
+  title: "Ethereum Classic Labs Doing Their Best To Provide a Secure Platform for ETC Community"
+  tags: ["education", "development"]
+-
+  date: 2020-09-09
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-partners-with-chainalysis-374e2ab97384
+  author: Ethereum Classic Labs
+  source: Ethereum Classic Labs
+  title: "Ethereum Classic Labs Partners with Chainalysis"
+  tags: ["announcement", "teams", "development"]
+-
+  date: 2020-09-05
+  link: https://thecurrencyanalytics.com/18698/ethereum-classic-etc-sustaining-their-immutability-promise-while-contemplating-checkpointing/
+  author: Steven Anderson
+  source: The Currency Analytics
+  title: "Ethereum Classic (ETC) Sustaining it's Immutability Promise While Contemplating Checkpointing"
+  tags: ["education", "development"]
 - 
   date: 2020-08-31
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-to-pursue-enforcement-and-regulation-of-hash-rental-platforms-cfbe90b62a2a
