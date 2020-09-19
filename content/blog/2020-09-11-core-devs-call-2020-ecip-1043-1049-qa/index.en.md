@@ -24,6 +24,6 @@ tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 
 ### Recording of Core Devs Call
 
-* To be added post-meeting.
+https://www.youtube.com/watch?v=9r_q_z81eh4
 
 ![ETC Core Devs Call - ECIP-1043 and ECIP-1049 Detailed Q&A](./hardfork_etc.png)
