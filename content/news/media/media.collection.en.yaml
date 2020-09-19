@@ -1,4 +1,25 @@
 -
+  date: 2020-09-18
+  link: https://medium.com/etc-core/agreeing-to-disagree-proposing-a-weakly-subjective-finality-solution-for-ethereum-classic-7daad47efc0e
+  author: Ethereum Classic Labs, Ethereum Classic Core
+  source: Ethereum Classic Core
+  title: "Agreeing To Disagree: Proposing a Weakly-Subjective Finality Solution for Ethereum Classic"
+  tags: ["announcement", "teams", "development"]
+-
+  date: 2020-09-16
+  link: https://etccooperative.org/posts/2020-09-16-staffing-changes
+  author: Ethereum Classic Cooperative
+  source: Ethereum Classic Cooperative
+  title: "Staffing Changes"
+  tags: ["announcement", "teams", "development"]
+-
+  date: 2020-09-15
+  link: https://medium.com/etc-core/ethereum-classic-labs-teams-up-with-openrelay-and-chainsafe-8248d1182612
+  author: Ethereum Classic Labs, Ethereum Classic Core
+  source: Ethereum Classic Core
+  title: "Ethereum Classic Labs Teams Up with OpenRelay and ChainSafe"
+  tags: ["announcement", "teams", "development"]
+-
   date: 2020-09-10
   link: https://storj.io/blog/2020/09/using-tardigrade-and-the-decentralized-cloud-to-speed-up-sync-times-for-geth
   author: Kevin Leffew
