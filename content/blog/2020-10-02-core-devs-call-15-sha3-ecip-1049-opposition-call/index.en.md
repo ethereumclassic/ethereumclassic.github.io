@@ -16,15 +16,15 @@ tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ## Agenda
 
 * Review opposition comments.
-* Give the authors a chance to discuss the opposition concerns on video.
+* Give the authors a chance to discuss the opposition concerns on voice recording.
 * Goal: Work at finding consensus as suggested by the [ECIP process](https://github.com/ethereumclassic/ECIPs#avoiding-network-splits).
 
 ### Please review the issue thread to find the most up to date information.
 
-[https://github.com/ethereumclassic/ECIPs/issues/382](https://github.com/ethereumclassic/ECIPs/issues/382)
+* [https://github.com/ethereumclassic/ECIPs/issues/382](https://github.com/ethereumclassic/ECIPs/issues/382)
 
 ### Recording of Core Devs Call 15
 
-* To be added post-meeting.
+* To be added after the meeting.
 
 ![ETC Core Devs Call 15 - ECIP-1049 SHA3 Opposition Call](./etc_cdc.png)
