@@ -1,16 +1,16 @@
 ---
-title: "Core Devs Call 15: ECIP-1049 SHA3 Opposition Call"
+title: "Core Devs Call 15: ECIP-1049 Keccak/SHA3 Opposition Call"
 date: 2020-10-02
 author: r0n1n
 tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ---
 
-![ETC Core Devs Call 15 - ECIP-1049 SHA3 Opposition Call](./ethereum_classic_ecip_wallpaper.png)
+![ETC Core Devs Call 15 - ECIP-1049 Keccak/SHA3 Opposition Call](./ethereum_classic_ecip_wallpaper.png)
 
-## ETC Core Devs Call 15 - ECIP-1049 SHA3 Opposition Call
+## ETC Core Devs Call 15 - ECIP-1049 Keccak/SHA3 Opposition Call
 
 * When: Friday, October 2nd, 2020, 4pm UTC, 120 minutes max.
-* Where: [Discord](https://discord.gg/hQs894U) or Crowdcast
+* Where: [Discord](https://discord.gg/3ZbKvb)
 * Focus: SHA3-256/Keccak256 Mining Algorithm Change Opposition Formal Conversation
 
 ## Agenda
@@ -27,4 +27,4 @@ tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 
 * To be added after the meeting.
 
-![ETC Core Devs Call 15 - ECIP-1049 SHA3 Opposition Call](./etc_cdc.png)
+![ETC Core Devs Call 15 - ECIP-1049 Keccak/SHA3 Opposition Call](./etc_cdc.png)
