@@ -10,13 +10,18 @@ tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ## ETC Core Devs Call - ECIP-1092 and ECIP-1097 51% Attack Solutions
 
 * When: Friday, September 25, 2020, 4pm UTC, 90 minutes max.
-* Where: Jitsi link will be published ahead of the call.
-* Focus: 51% Attack Solutions
+* Where: [Discord](https://discord.gg/hQs894U)
+* Focus: Mining Algorithm, Last-Call Proposals, and other 51%-Attack Solutions.
 
 ## Agenda
 
+51% Proposals
 * ECIP 1092 PIRLGUARD (Draft)
-* ECIP 1097 Ouroboros BFT Checkpointing (Draft)
+* ECIP 1100 Modified Exponential Subjective Scoring (Draft)
+
+Last-Call Proposals
+* ECIP 1049 KECCAK256 (Last Call)
+* ECIP 1099 Calibrate Epoch Duration (Last Call)
 
 ### Please comment to add items to the agenda.
 
@@ -26,4 +31,4 @@ tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 
 * To be added post-meeting.
 
-![ETC Core Devs Call - ECIP-1092 and ECIP-1097 51 Attack Solutions](./hardfork_etc.png)
+![ETC Core Devs Call - ECIP-1092 and ECIP-1097 51 Attack Solutions](./etc_cdc.png)

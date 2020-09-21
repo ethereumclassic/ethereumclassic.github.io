@@ -1,16 +1,16 @@
 ---
-title: "Core Devs Call: 2020 Q3 Hard Fork Proposal Gathering"
+title: "Core Devs Call: Proposal Gathering"
 date: 2020-08-20
 author: q9f
 tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ---
 
-![ETC Core Devs Call - 2020 Q3 Hard Fork Proposal Gathering](./ethereum_classic_ecip_wallpaper.png)
+![ETC Core Devs Call - Proposal Gathering](./ethereum_classic_ecip_wallpaper.png)
 
 Topic discussion references:
 * proposal gathering and discussion only
 
-## ETC Core Devs Call - 2020 Q3 Hard Fork Proposal Gathering
+## ETC Core Devs Call - Proposal Gathering
 
 * When: Thursday, August 20, 2020, 12pm UTC, 60 minutes max.
 * Where: Ethereum Classic [Discord](https://discord.gg/hQs894U) `#ecips` channel. Will use/create a voice channel *ad hoc*.
@@ -39,4 +39,4 @@ Topic discussion references:
 * [Action Items: ETC Q3 Hard Fork Draft 1](https://docs.google.com/document/d/1f0a0sqb0OW3n4ki6nM3q9hvJ91HeZoj9Rpjp2fDCZIQ)
 * IOHK CDC Feedback: [Process for Decision Making and Innovation for ETC](https://www.youtube.com/watch?v=F0lR_u7BVho)
 
-![ETC Core Devs Call - 2020 Q3 Hard Fork Proposal Gathering](./hardfork_etc.png)
+![ETC Core Devs Call - Proposal Gathering](./etc_cdc.png)

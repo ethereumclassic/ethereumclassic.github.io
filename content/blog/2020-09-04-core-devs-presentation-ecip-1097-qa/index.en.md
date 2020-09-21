@@ -37,4 +37,4 @@ Questions will be submitted directly in the Crowdcast meeting (Link will be post
 
 * Crowdcast [https://www.crowdcast.io/e/9epmnuoc](https://www.crowdcast.io/e/9epmnuoc)
 
-![ETC Core Devs Call - IOHK Checkpointing Presentation and Q&A](./hardfork_etc.png)
+![ETC Core Devs Call - IOHK Checkpointing Presentation and Q&A](./etc_presentation.png)

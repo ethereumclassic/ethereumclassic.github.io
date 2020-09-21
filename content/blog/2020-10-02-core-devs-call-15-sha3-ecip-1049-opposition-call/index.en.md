@@ -10,21 +10,21 @@ tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ## ETC Core Devs Call 15 - ECIP-1049 SHA3 Opposition Call
 
 * When: Friday, October 2nd, 2020, 4pm UTC, 120 minutes max.
-* Where: Discord/Crowdcast (Some teams have cited censorship in the ETC Discord as an issue, so Crowdcast will be looked at)
+* Where: [Discord](https://discord.gg/hQs894U) or Crowdcast
 * Focus: SHA3-256/Keccak256 Mining Algorithm Change Opposition Formal Conversation
 
 ## Agenda
 
 * Review opposition comments.
 * Give the authors a chance to discuss the opposition concerns on video.
-* Goal: work at finding consensus as suggested by the ECIP process.
+* Goal: Work at finding consensus as suggested by the [ECIP process](https://github.com/ethereumclassic/ECIPs#avoiding-network-splits).
 
 ### Please review the issue thread to find the most up to date information.
 
 [https://github.com/ethereumclassic/ECIPs/issues/382](https://github.com/ethereumclassic/ECIPs/issues/382)
 
-### Recording of Core Devs Call
+### Recording of Core Devs Call 15
 
 * To be added post-meeting.
 
-![ETC Core Devs Call 15 - ECIP-1049 SHA3 Opposition Call](./hardfork_etc.png)
+![ETC Core Devs Call 15 - ECIP-1049 SHA3 Opposition Call](./etc_cdc.png)

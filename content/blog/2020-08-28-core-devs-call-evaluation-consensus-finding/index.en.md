@@ -1,16 +1,16 @@
 ---
-title: "Core Devs Call: 2020 Q3 Hard Fork Proposal Evaluation and Consensus Finding"
+title: "Core Devs Call: Evaluation and Consensus Finding"
 date: 2020-08-28
 author: q9f
 tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ---
 
-![ETC Core Devs Call - 2020 Q3 Hard Fork Proposal Evaluation and Consensus Finding](./ethereum_classic_ecip_wallpaper.png)
+![ETC Core Devs Call - Evaluation and Consensus Finding](./ethereum_classic_ecip_wallpaper.png)
 
 Topic discussion references:
 * proposal gathering and discussion only
 
-## ETC Core Devs Call - 2020 Q3 Hard Fork Proposal Evaluation and Consensus Finding
+## ETC Core Devs Call - Evaluation and Consensus Finding
 
 * When: Friday, August 28, 2020, 4pm UTC, 60 minutes max.
 * Where: Ethereum Classic [Discord](https://discord.gg/hQs894U) `#ecips` channel. Will use/create a voice channel *ad hoc*.
@@ -35,4 +35,4 @@ Topic discussion references:
 
 * [https://www.youtube.com/watch?v=4W1l5krLPqI](https://www.youtube.com/watch?v=4W1l5krLPqI)
 
-![ETC Core Devs Call - 2020 Q3 Hard Fork Proposal Evaluation and Consensus Finding](./hardfork_etc.png)
+![ETC Core Devs Call - Evaluation and Consensus Finding](./etc_cdc.png)
