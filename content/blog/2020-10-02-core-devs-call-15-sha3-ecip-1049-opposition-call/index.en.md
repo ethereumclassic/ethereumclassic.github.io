@@ -25,6 +25,6 @@ tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 
 ### Recording of Core Devs Call 15
 
-* To be added after the meeting.
+* To be added after the meeting. Recorded with [OBS](https://obsproject.com/)
 
 ![ETC Core Devs Call 15 - ECIP-1049 Keccak/SHA3 Opposition Call](./etc_cdc.png)
