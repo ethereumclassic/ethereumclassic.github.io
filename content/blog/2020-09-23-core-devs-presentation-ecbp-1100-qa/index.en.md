@@ -10,7 +10,7 @@ tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ## ETC Core Devs Presentation - ECBP-1100 Modified Exponential Subjective Scoring Presentation and Q&A
 
 * When: Wednesday, September 23, 2020. 14:00 UTC; 30 minute presentation followed by Q&A
-* Where: Crowdcast (Link TBA)
+* Where: https://www.crowdcast.io/e/mess-classic-ecbp-1100
 
 Please follow the meeting discussion here as they finalize the variables in real-time:
 
@@ -41,6 +41,6 @@ Questions must be submitted to this [issue comment thread](https://github.com/et
 
 ### Recording of the Core Devs Presentation
 
-* To be Added After Presentation
+* https://www.crowdcast.io/e/mess-classic-ecbp-1100
 
 ![ETC Core Devs Presentation - ECBP-1100 Modified Exponential Subjective Scoring Presentation and Q&A](./etc_presentation.png)
