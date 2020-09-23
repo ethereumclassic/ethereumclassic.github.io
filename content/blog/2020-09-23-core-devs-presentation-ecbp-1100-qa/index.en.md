@@ -25,9 +25,8 @@ ETC Labs Core, in consultancy with OpenRelay and ChainSafe, develop and propose 
 * LIVE Demo on the MESS testnet using Geth
 * Community Q&A session
 
-### Goals
-
-Following the recommendations of representatives of other teams (mostly IOHK) and requests from community members, we decided to organize a live Q&A session. The goal of this call is to get contributors, community members, stakeholders and other teams who have created similar proposals to ask questions as needed to properly understand this proposal.
+### Motivation
+A low hashrate has caused Ethereum Classic's consensus algorithms to yield inconvenient and undesirable finality rates. ECIP-1100 "MESS" offers a way to increase the finality rate without tampering with existing "hard" chain consensus functions or characteristics, and to do so with minimal negative side effects.
 
 ### Q&A
 
@@ -35,7 +34,10 @@ Questions must be submitted to this [issue comment thread](https://github.com/et
 
 ### References
 
-* [ECBP-1100](https://github.com/ethereumclassic/ECIPs/issues/374)
+* Proposal: [ECIP 1100](https://ecips.ethereumclassic.org/ECIPs/ecip-1100): MESS (Modified Exponential Subjective Scoring)
+* Read more: [Agreeing To Disagree: Proposing a Weakly-Subjective Finality Solution for Ethereum Classic](https://medium.com/etc-core/agreeing-to-disagree-proposing-a-weakly-subjective-finality-solution-for-ethereum-classic-7daad47efc0e)
+* Discussion: [374](https://github.com/ethereumclassic/ECIPs/issues/374)
+* Bonus: [MESSnet TV](https://mess.canhaz.net/) - Visualization of an ad-hoc Classic testnet implementing MESS.
 
 ### Recording of the Core Devs Presentation
 
