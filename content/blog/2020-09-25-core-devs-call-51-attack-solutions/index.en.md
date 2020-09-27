@@ -15,13 +15,13 @@ tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 
 ## Agenda
 
-51% Proposals
-* [ECIP 1092](https://ecips.ethereumclassic.org/ECIPs/ecip-1092) 51-percent attack solution PirlGuard by Callisto (Draft)
-* [ECIP 1094](https://ecips.ethereumclassic.org/ECIPs/ecip-1094) VeriBlock Proof-of-Proof 51%-Attack Prevention (Draft)
-* [ECIP 1096](https://ecips.ethereumclassic.org/ECIPs/ecip-1096) 51% Attack protection system based on Bitcoin Merged Mining (Draft)
-* [ECIP 1097](https://ecips.ethereumclassic.org/ECIPs/ecip-1097) Checkpointing based 51% attack resistance (Draft)
-* [ECIP 1099](https://ecips.ethereumclassic.org/ECIPs/ecip-1099) Calibrate Epoch Duration (Last Call)
-* [ECBP 1100](https://ecips.ethereumclassic.org/ECIPs/ecip-1100) Modified Exponential Subjective Scoring (Draft)
+51% Attack Proposals
+* [ECIP 1092](https://ecips.ethereumclassic.org/ECIPs/ecip-1092) 51-percent attack solution PirlGuard by Callisto (Draft) - was skipped, nobody spoke in favor of it.
+* [ECIP 1094](https://ecips.ethereumclassic.org/ECIPs/ecip-1094) VeriBlock Proof-of-Proof 51%-Attack Prevention (Draft) - was skipped, there will be a presentation by max next week.
+* [ECIP 1096](https://ecips.ethereumclassic.org/ECIPs/ecip-1096) 51% Attack protection system based on Bitcoin Merged Mining (Draft) - was discussed.
+* [ECIP 1097](https://ecips.ethereumclassic.org/ECIPs/ecip-1097) Checkpointing based 51% attack resistance (Draft) - was discussed, requires either a hardfork or optinally a soft fork, we would have to chose trusted parties for committee.
+* [ECIP 1099](https://ecips.ethereumclassic.org/ECIPs/ecip-1099) Calibrate Epoch Duration (Last Call) - ECIP 1099 remains in "last call" but new block numbers (pushed back to allow besu to implement it), this will move to "accepted" next friday unless you raise your concerns, core developers start working on implementations and preparing releases.
+* [ECBP 1100](https://ecips.ethereumclassic.org/ECIPs/ecip-1100) Modified Exponential Subjective Scoring (Draft) - ECBP 1100 was demonstrated on the "messnet" testnet, it moves to "active" with a mordor block number for testing, mainnet decision depends on testnet progress, no mainnet block number yet.
 
 ### Please comment to add items to the agenda.
 
@@ -29,6 +29,6 @@ tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 
 ### Recording of Core Devs Call 14
 
-* To be added post-meeting.
+* https://youtu.be/_VChbJd87WM
 
 ![ETC Core Devs Call - 51% Attack Solutions0](./etc_cdc.png)
