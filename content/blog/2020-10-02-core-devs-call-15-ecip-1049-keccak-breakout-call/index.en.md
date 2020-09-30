@@ -1,13 +1,13 @@
 ---
-title: "Core Devs Call 15: ECIP-1049 Keccak/SHA3 Opposition Call"
+title: "ETC Core Devs Call 15: ECIP-1049 Keccak Breakout Call"
 date: 2020-10-02
 author: r0n1n
 tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ---
 
-![ETC Core Devs Call 15 - ECIP-1049 Keccak/SHA3 Opposition Call](./ethereum_classic_ecip_wallpaper.png)
+![ETC Core Devs Call 15 - ECIP-1049 Keccak Breakout Call](./ethereum_classic_ecip_wallpaper.png)
 
-## ETC Core Devs Call 15 - ECIP-1049 Keccak/SHA3 Opposition Call
+## ETC Core Devs Call 15 - ECIP-1049 Keccak Breakout Call
 
 * When: Friday, October 2nd, 2020, 4pm UTC, 120 minutes max.
 * Where: [Discord](https://discord.gg/3ZbKvb)
@@ -25,6 +25,6 @@ tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 
 ### Recording of Core Devs Call 15
 
-* To be added after the meeting. Recorded with [OBS](https://obsproject.com/)
+* To be added after the meeting.
 
-![ETC Core Devs Call 15 - ECIP-1049 Keccak/SHA3 Opposition Call](./etc_cdc.png)
+![ETC Core Devs Call 15 - ECIP-1049 Keccak Breakout Call](./etc_cdc.png)
