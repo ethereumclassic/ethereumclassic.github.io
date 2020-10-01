@@ -1,11 +1,11 @@
 ---
-title: "Core Devs Call: 2020 Q3 Hard Fork Process Feedback"
+title: "Core Devs Call: Process Feedback"
 date: 2020-08-21
 author: r0n1n
 tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ---
 
-![Core Devs Call: 2020 Q3 Hard Fork Process Feedback](./ethereum_classic_ecip_wallpaper.png)
+![Core Devs Call: Process Feedback](./ethereum_classic_ecip_wallpaper.png)
 
 Preface: Ethereum Classic suffered a second round of 51% attacks. As a result of the attacks, the development ecosystem around Ethereum Classic has seen a surge in activity via proposed solutions to safeguard the network.
 
@@ -53,4 +53,4 @@ The development proposals are where technical discussions occur. To stay current
 * [Action Items: ETC Q3 Hard Fork Draft 1](https://docs.google.com/document/d/1f0a0sqb0OW3n4ki6nM3q9hvJ91HeZoj9Rpjp2fDCZIQ)
 * Input Output Global CDC Feedback: [Process for Decision Making and Innovation for ETC](https://www.youtube.com/watch?v=F0lR_u7BVho)
 
-![Core Devs Call: 2020 Q3 Hard Fork Process Feedback](./etc_community.png)
+![Core Devs Call: Process Feedback](./etc_community.png)
