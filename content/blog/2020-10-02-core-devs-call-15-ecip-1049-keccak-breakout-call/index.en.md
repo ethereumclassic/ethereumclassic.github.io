@@ -25,6 +25,6 @@ tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 
 ### Recording of Core Devs Call 15
 
-* To be added after the meeting.
+* https://vimeo.com/464336957
 
 ![ETC Core Devs Call 15 - ECIP-1049 Keccak Breakout Call](./etc_cdc.png)
