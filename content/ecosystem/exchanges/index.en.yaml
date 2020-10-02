@@ -332,6 +332,10 @@ content:
       link: https://www.lbank.info/exchange.html#/etc/usdt
       name: LBank
     -
+      key: LiteBit
+      link: https://www.litebit.eu/en/buy/ethereumclassic
+      name: LiteBit
+    -
       key: LiveCoin
       link: https://www.livecoin.net/en/trading/ETC_BTC
       name: LiveCoin
