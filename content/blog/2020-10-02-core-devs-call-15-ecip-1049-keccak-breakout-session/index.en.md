@@ -29,9 +29,9 @@ tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 
 ### Conclusion
 
-* Keep ECIP 1049 in `Last Call` status for a few more months while [ECIP-1099](https://github.com/ethereumclassic/ECIPs/issues/368) and [MESS](https://github.com/ethereumclassic/ECIPs/issues/374)'s impacts are observed on the network.
-* ECIP 1049 authors to clarify the proposal specs/motives to a more solidified draft before being considered for `Accepted` or `Rejected` status.
-* Review ECIP-1049 in the future if necessary and applicable to the network's needs.
+* At this moment, Consensus did not appear to be present for ECIP-1049 due to many unanswered questions. 
+* Recommendation from the collective call was to keep ECIP 01049 in `Last Call`, while the network analyzes the impacts of other `Accepted` proposals like [ECIP-1099](https://github.com/ethereumclassic/ECIPs/issues/368) and [MESS](https://github.com/ethereumclassic/ECIPs/issues/374).
+* It was recommended the ECIP-1049 authors work to clarify the proposal's specs/motives to draft a more solidified version of the proposal before being considered for `Accepted` or `Rejected` status.
 
 Please direct future commentary to the ECIP 1049 discussion thread:
 
