@@ -31,7 +31,7 @@ continueReading: Continue Reading
 warning:
   enabled: true
   title: Update Clients
-  description: Aug 29, 2020 - Ethereum Classic experienced the fourth successful chain reorganization attack on the network. The network has stablized. Please use one of the current clients. 
+  description: There was a consensus for the Ethereum Classic Best Practise proposal "M.E.S.S." (Modified Exponential Subjective Scoring) in regards of large network reorganziations. The Core-Geth client is ready. Besu follows. The activation block height is 11_380_000 (estimation date 10th of Oct).
   button:
     link: /development/clients
     text: Clients
