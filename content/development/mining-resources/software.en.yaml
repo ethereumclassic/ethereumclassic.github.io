@@ -91,6 +91,15 @@ items:
     linuxAmd: true
     linuxNvidia: true
   -
+    key: "lolMiner"
+    name: "lolMiner"
+    link: https://github.com/Lolliedieb/lolMiner-releases/releases
+    guide: https://bitcointalk.org/index.php?topic=4724735.0
+    windowsAmd: true
+    windowsNvidia: true
+    linuxAmd: true
+    linuxNvidia: true
+  -
     key: "Minergate xFast"
     name: "Minergate xFast"
     link: https://minergate.com/downloads
