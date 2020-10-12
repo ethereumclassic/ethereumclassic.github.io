@@ -137,6 +137,10 @@
   name: Hellominer
   link: https://hellominer.com/ETC/EtcHome.aspx
 - 
+  key: HeroMiners
+  name: HeroMiners
+  link: https://etc.herominers.com/
+- 
   key: Hiveon
   name: Hiveon
   link: https://hiveon.net/  
@@ -267,7 +271,3 @@
   key: ŻET
   name: ŻET
   link: https://etc.zet-tech.eu/
-- 
-  key: HeroMiners
-  name: HeroMiners
-  link: https://etc.herominers.com/
