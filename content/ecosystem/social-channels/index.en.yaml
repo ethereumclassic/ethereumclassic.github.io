@@ -100,11 +100,6 @@ content:
       name: Multi-Geth (deprecated)
       brand: gitter
     -
-      key: OpenETC dev
-      link: https://discord.gg/4PyGtp7
-      name: OpenETC
-      brand: discord
-    -
       key: OpenEthereum dev deprecated
       link: http://discord.io/openethereum
       name: OpenEthereum (deprecated)
