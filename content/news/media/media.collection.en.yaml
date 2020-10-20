@@ -1,4 +1,11 @@
 -
+  date: 2020-10-21
+  link: https://static.iohk.io/docs/etc/ecip-comparison-for-51-attack-resistance.pdf
+  author: Kostis Karantias
+  source: IOHK
+  title: "ECIP Comparison for 51% attack Resistance"
+  tags: ["mining", "development"]
+-
   date: 2020-10-17
   link: https://2miners.com/blog/how-to-mine-ethereum-and-ethereum-classic-on-4gb-gpus/
   author: Darek Piotrowski
