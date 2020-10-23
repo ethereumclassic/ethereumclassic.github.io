@@ -17,7 +17,7 @@ items:
     key: Core-Geth
     name: Core-Geth
     link: https://core-geth.org/
-    description: Core-Geth is a distribution of go-ethereum with many flavors. For Phoenix upgrade support, please use version v1.11.11 or later. Upgrade considerations, users can use their existing data directories and do not need to resync for migration to Core-Geth from the deprecated Multi-Geth client. This client is Long Term Supported by the ETC Core development team with stable funding from Ethereum Classic Labs. This is a recommended client from a well-known transparent team.
+    description: Core-Geth is a distribution of go-ethereum with many flavors. For Phoenix upgrade support, please use version v1.11.15 or later. Upgrade considerations, users can use their existing data directories and do not need to resync for migration to Core-Geth from the deprecated Multi-Geth client. This client is Long Term Supported by the ETC Core development team with stable funding from Ethereum Classic Labs. This is a recommended client from a well-known transparent team.
     guide: https://core-geth.org/install
     release: https://github.com/etclabscore/core-geth/releases
     support: https://gitter.im/core-geth/community
@@ -26,7 +26,7 @@ items:
     key: Hyperledger Besu
     name: Hyperledger Besu
     link: https://besu.hyperledger.org/
-    description: Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. For Phoenix upgrade support, please use version 1.4.6-RC2 or later. Upgrade considerations, APIs between ParityEthereum and Besu significantly differ and mining is not very well supported in Besu at this moment. This client is Long Term Supported by the ChainSafe and ETC Cooperative teams as part of the Hyperledger project with stable funding from Grayscale's Ethereum Classic Trust. This is a recommended client from a well-known transparent team.
+    description: Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. For Phoenix upgrade support, please use version 20.10.0-RC1 or later. Upgrade considerations, APIs between ParityEthereum and Besu significantly differ and mining is not very well supported in Besu at this moment. This client is Long Term Supported by the ChainSafe and ETC Cooperative teams as part of the Hyperledger project with stable funding from Grayscale's Ethereum Classic Trust. This is a recommended client from a well-known transparent team.
     guide: https://besu.hyperledger.org/en/stable/HowTo/Get-Started/Install-Binaries/
     release: https://github.com/hyperledger/besu/releases
     support: https://chat.hyperledger.org/
