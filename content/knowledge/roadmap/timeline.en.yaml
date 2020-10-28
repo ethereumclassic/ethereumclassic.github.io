@@ -555,6 +555,20 @@ items:
     icon: fas fa-unlink
     link: https://twitter.com/etherchain_org/status/1299822510607917056
     text: Ethereum Classic experiences the fourth successful chain reorganization attack on its network.
+  - key: messClientUpgrade
+    title: M.E.S.S. Client Upgrade
+    date: Block 11,380,000
+    className: blue
+    icon: fas fa-angle-double-up
+    link: /blog/2020-10-10-mess-client-upgrade
+    text: October 10 2020, the Core-Geth client implements the flags to apply the optional MESS functionality as a response to the networks 51% attacks.
+  - key: thanosUpgrade
+    title: Thanos Upgrade
+    date: Block 11,700,000
+    className: blue
+    icon: fas fa-angle-double-up
+    link: /blog/2020-11-27-thanos-hard-fork-upgrade/
+    text: November 27 2020, Ethereum Classic implements the Thanos Upgrade to recalibrate the epoch length used in DAG calculations.
   - key: aBrightFuture
     title: A Bright Future
     date: Future
