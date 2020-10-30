@@ -30,8 +30,8 @@ continueReading: Continue Reading
 ## pop up
 warning:
   enabled: true
-  title: Update Clients
-  description: Consensus has been gathered regarding the Ethereum Classic Best Practice proposal "M.E.S.S." (Modified Exponential Subjective Scoring). The Core-Geth client is ready. The activation block height is 11_380_000 (estimation date 10th of Oct). The clients Besu & Core-Geth support also the ECIP 1099 - DAG tweak for mining starting from 3GB vid cards.
+  title: Update ETC Clients for Thanos Upgrade!
+  description: The Thanos upgrade (ECIP 1099) is scheduled for late November/early December of 2020 on block 11,700,000. Please update your clients to the recommended versions. Additionally if you would like to apply the optional "M.E.S.S." (Modified Exponential Subjective Scoring) functionality in your client, the Core-Geth client has implemented the flags to apply this feature. In October 2020, MESS was activated in Core-Geth on block 11,380,000.
   button:
     link: /development/clients
-    text: Clients
+    text: Update Clients
