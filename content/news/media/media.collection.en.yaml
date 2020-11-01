@@ -1,4 +1,11 @@
 -
+  date: 2020-11-01
+  link: https://2miners.com/blog/ethereum-classic-will-not-be-supported-by-asics-and-nicehash/
+  author: John Smith
+  source: 2Miners
+  title: "Ethereum Classic Will Not Be Supported by ASICs and Nicehash"
+  tags: ["mining", "education", "development"]
+-
   date: 2020-10-20
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-announces-chasing-the-ghost-network-security-hackathon-nov-2-2020-jan-aabfa597aeb6
   author: Ethereum Classic Labs
@@ -18,7 +25,7 @@
   author: Darek Piotrowski
   source: 2Miners
   title: "How to Mine Ethereum and Ethereum Classic on 4GB GPUs"
-  tags: ["mining", "development"]
+  tags: ["mining", "education", "development"]
 -
   date: 2020-10-09
   link: https://thecurrencyanalytics.com/19976/ethereum-classic-etc-very-positive-about-filecoin-lotus-api-using-openrpc/
@@ -186,7 +193,7 @@
   author: Darek Piotrowski
   source: 2Miners
   title: "Ethereum Classic Future – Discussing ETC Network Current State and Security Plan"
-  tags: ["teams", "development", "media", "education"]
+  tags: ["development", "media", "education"]
 -
   date: 2020-08-22
   link: https://www.youtube.com/watch?v=aO1S6MOrZcE
