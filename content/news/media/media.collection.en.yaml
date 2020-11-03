@@ -1,4 +1,46 @@
 -
+  date: 2020-11-03
+  link: https://medium.com/ethereum-classic-labs/using-blockchain-to-build-a-self-sovereign-financial-identity-c4c98ec4d080
+  author: Brendan Playford
+  source: Ethereum Classic Labs
+  title: "Using blockchain to build a self-sovereign financial identity"
+  tags: ["announcement", "teams", "development"]
+-
+  date: 2020-11-03
+  link: https://medium.com/etccooperative/etc-weekly-2-reduced-confirmations-chainbridge-hackathon-6f64c2cd2dbf
+  author: Ethereum Classic Cooperative
+  source: Ethereum Classic Cooperative
+  title: "ETC Weekly #2 | Reduced confirmations, Chainbridge, Hackathon"
+  tags: ["announcement", "teams", "development"]
+-
+  date: 2020-11-03
+  link: https://youtu.be/fctzBejhUY4
+  author: Davind Sedgwick, Nicolas Taller, Konrad Staniec, Andrzej Kopac
+  source: Input Output Hong Kong
+  title: "Ethereum Classic - Mantis: IOHK Weekly Development Update #5 29 October 2020"
+  tags: ["announcement", "teams", "development", "media"]
+-
+  date: 2020-11-01
+  link: https://2miners.com/blog/ethereum-classic-will-not-be-supported-by-asics-and-nicehash/
+  author: John Smith
+  source: 2Miners
+  title: "Ethereum Classic Will Not Be Supported by ASICs and Nicehash"
+  tags: ["mining", "education", "development"]
+-
+  date: 2020-10-26
+  link: https://medium.com/etccooperative/etc-weekly-01-79cbf7d4bad7
+  author: Ethereum Classic Cooperative
+  source: Ethereum Classic Cooperative
+  title: "ETC Weekly #1 | Network security, Thanos hard-fork, ECIP comparison"
+  tags: ["announcement", "teams", "development"]
+-
+  date: 2020-10-26
+  link: https://youtu.be/h-4t1VbG46M
+  author: Davind Sedgwick, Julian Mendiola, Nicolas Taller, Konrad Staniec, Andrzej Kopac, Serhii Shymkiv 
+  source: Input Output Hong Kong
+  title: "Ethereum Classic - Mantis: IOHK Weekly Development Update #4 22 October 2020"
+  tags: ["announcement", "teams", "development", "media"]  
+-
   date: 2020-10-20
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-announces-chasing-the-ghost-network-security-hackathon-nov-2-2020-jan-aabfa597aeb6
   author: Ethereum Classic Labs
@@ -18,7 +60,14 @@
   author: Darek Piotrowski
   source: 2Miners
   title: "How to Mine Ethereum and Ethereum Classic on 4GB GPUs"
-  tags: ["mining", "development"]
+  tags: ["mining", "education", "development"]
+-
+  date: 2020-10-15
+  link: https://youtu.be/xXmsuljQkL8
+  author: Davind Sedgwick, Nicolas Taller, Konrad Staniec, Andrzej Kopac, Serhii Shymkiv 
+  source: Input Output Hong Kong
+  title: "Ethereum Classic - Mantis: IOHK Weekly Development Update #3 15 October 2020"
+  tags: ["announcement", "teams", "development", "media"]  
 -
   date: 2020-10-09
   link: https://thecurrencyanalytics.com/19976/ethereum-classic-etc-very-positive-about-filecoin-lotus-api-using-openrpc/
@@ -26,6 +75,13 @@
   source: The Currency Analytics
   title: "Ethereum Classic (ETC) Very Positive about Filecoin Lotus API using OpenRPC"
   tags: ["education", "development"]
+-
+  date: 2020-10-08
+  link: https://youtu.be/JTi4of-o6lY
+  author: Davind Sedgwick, Nicolas Taller, Mirko Alic, Konrad Staniec, Andrzej Kopac, Serhii Shymkiv 
+  source: Input Output Hong Kong
+  title: "Ethereum Classic - Mantis: IOHK Weekly Development Update #2 15 October 2020"
+  tags: ["announcement", "teams", "development", "media"]  
 -
   date: 2020-10-02
   link: https://medium.com/etc-core/ethereum-classic-stakeholders-critical-security-release-to-prevent-51-attacks-aa83596a0903
@@ -43,10 +99,10 @@
 -
   date: 2020-10-01
   link: https://youtu.be/ep6GMMZw8sE
-  author: Davind Sedgwick, Julian Mendiola, Nicolas Taller, Konrad Staniec, Andrzej Kopac, Serhii Shymkiv, 
+  author: Davind Sedgwick, Julian Mendiola, Nicolas Taller, Konrad Staniec, Andrzej Kopac, Serhii Shymkiv 
   source: Input Output Hong Kong
   title: "Ethereum Classic - Mantis: IOHK Weekly Development Update #1 28 September 2020"
-  tags: ["announcement", "teams", "development"]
+  tags: ["announcement", "teams", "development", "media"]
 -
   date: 2020-09-30
   link: https://etherplan.com/2020/09/30/final-comments-on-the-implementation-of-mess-on-ethereum-classic/12842/
@@ -186,7 +242,7 @@
   author: Darek Piotrowski
   source: 2Miners
   title: "Ethereum Classic Future – Discussing ETC Network Current State and Security Plan"
-  tags: ["teams", "development", "media", "education"]
+  tags: ["development", "media", "education"]
 -
   date: 2020-08-22
   link: https://www.youtube.com/watch?v=aO1S6MOrZcE
