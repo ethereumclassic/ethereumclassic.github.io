@@ -30,8 +30,8 @@ continueReading: Continue Reading
 ## pop up
 warning:
   enabled: true
-  title: Update ETC Clients for Thanos Upgrade!
-  description: The Thanos upgrade (ECIP 1099) is scheduled for late November/early December of 2020 on block 11,700,000. Please update your clients to the recommended versions. Additionally if you would like to apply the optional "M.E.S.S." (Modified Exponential Subjective Scoring) functionality in your client, the Core-Geth client has implemented the flags to apply this feature. In October 2020, MESS was activated in Core-Geth on block 11,380,000.
+  title: Urgent - Update ETC Clients
+  description: An Ethash library [bug](https://2miners.com/blog/ethereum-classic-bits-of-the-epoch-potential-network-instability-due-to-a-severe-ethash-library-bug/) was disclosed, please update your client to the most recent release version. Additionally, client software will be compatible with the Thanos upgrade (ECIP 1099) scheduled for block 11_700_000 in December 2020.
   button:
     link: /development/clients
     text: Update Clients
