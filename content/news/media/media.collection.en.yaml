@@ -1,4 +1,11 @@
 -
+  date: 2020-11-06
+  link: https://2miners.com/blog/ethereum-classic-bits-of-the-epoch-potential-network-instability-due-to-a-severe-ethash-library-bug/
+  author: John Smith
+  source: 2Miners
+  title: "Ethereum Classic: Bits of the Epoch. Potential Network Instability Due to a Severe Ethash Library Bug"
+  tags: ["announcement", "mining", "development"]
+-
   date: 2020-11-03
   link: https://medium.com/ethereum-classic-labs/using-blockchain-to-build-a-self-sovereign-financial-identity-c4c98ec4d080
   author: Brendan Playford
