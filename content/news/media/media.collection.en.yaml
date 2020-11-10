@@ -11,7 +11,14 @@
   author: McDappas
   source: Ethereum Classic Labs
   title: "Ethereum Classic Prepares for the Thanos Hard Fork Upgrade"
-  tags: ["announcement", "teams", "mining", "development"]
+  tags: ["announcement", "teams", "hardfork", "development"]
+-
+  date: 2020-11-09
+  link: https://medium.com/etccooperative/etc-prepares-for-thanos-upgrade-b598d08b5e13
+  author: Ethereum Classic Cooperative
+  source: Ethereum Classic Cooperative
+  title: "ETC Prepares for Thanos"
+  tags: ["announcement", "teams", "hardfork", "development"]
 -
   date: 2020-11-06
   link: https://2miners.com/blog/ethereum-classic-bits-of-the-epoch-potential-network-instability-due-to-a-severe-ethash-library-bug/
