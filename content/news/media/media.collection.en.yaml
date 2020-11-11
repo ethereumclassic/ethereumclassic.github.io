@@ -1,4 +1,11 @@
 -
+  date: 2020-03-10
+  link: https://youtu.be/n_W-KfAH45s
+  author: Red Panda Mining
+  source: Red Panda Mining
+  title: "ETHEREUM CLASSIC NEW ALGORITHM ETCHASH?"
+  tags: ["education", "podcast", "media", "development", "mining"]
+-
   date: 2020-11-09
   link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-announces-e1548e950524
   author: Ethereum Classic Labs
@@ -82,6 +89,13 @@
   source: IOHK
   title: "ECIP Comparison for 51% attack Resistance"
   tags: ["mining", "development"]
+-
+  date: 2020-10-20
+  link: https://youtu.be/K65fP1epqAc
+  author: Red Panda Mining
+  source: Red Panda Mining
+  title: "Ethereum Classic CONFIRMATION Times Are Low Again!"
+  tags: ["education", "podcast", "media", "development", "mining"]
 -
   date: 2020-10-17
   link: https://2miners.com/blog/how-to-mine-ethereum-and-ethereum-classic-on-4gb-gpus/
@@ -229,6 +243,13 @@
   source: Ethereum Classic Labs
   title: "Ethereum Classic Labs to Pursue Enforcement and Regulation of Hash Rental Platforms"
   tags: ["announcement", "teams", "development", "mining"]
+-
+  date: 2020-08-30
+  link: https://youtu.be/O1ikjBfA-WE
+  author: Red Panda Mining
+  source: Red Panda Mining
+  title: "Ethereum Classic Is Moving to SHA3"
+  tags: ["education", "podcast", "media", "development", "mining"]
 -
   date: 2020-08-28
   link: https://www.youtube.com/watch?v=ojLCSaxfGgw
@@ -383,6 +404,13 @@
   source: Ethereum Classic Labs
   title: "EDCON 2020 | Ethereum Classic Resilience by Terry Culver, CEO of ETC Labs"
   tags: ["teams", "mining", "development", "media", "education"]
+-
+  date: 2020-08-11
+  link: https://youtu.be/_71n_dC3IGg
+  author: Red Panda Mining
+  source: Red Panda Mining
+  title: "Poor Ethereum Classic... 😞"
+  tags: ["education", "podcast", "media", "development", "mining"]
 - 
   date: 2020-08-10
   link: https://www.youtube.com/watch?v=Cspqt-nZqsc
