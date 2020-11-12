@@ -340,6 +340,10 @@ content:
       link: https://www.livecoin.net/en/trading/ETC_BTC
       name: LiveCoin
     -
+      key: Mandala
+      link: https://trade.mandala.exchange/
+      name: Mandala
+    -
       key: MXC
       link: https://www.mxc.com/trade/easy#ETC_USDT
       name: MXC
