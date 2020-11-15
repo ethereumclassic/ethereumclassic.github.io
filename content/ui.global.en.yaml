@@ -30,8 +30,8 @@ continueReading: Continue Reading
 ## pop up
 warning:
   enabled: true
-  title: Urgent - Update ETC Clients
-  description: An Ethash library [bug](https://2miners.com/blog/ethereum-classic-bits-of-the-epoch-potential-network-instability-due-to-a-severe-ethash-library-bug/) was disclosed, please update your client to the most recent release version. Additionally, client software will be compatible with the Thanos upgrade (ECIP 1099) scheduled for block 11_700_000 in December 2020.
+  title: "Urgent: Update ETC Clients"
+  description: "Please update your ETC clients to the newest release, critical bugs have been indentified and patched. The client software will be compatible with the Thanos upgrade (ECIP 1099) scheduled for block 11_700_000 in December 2020."
   button:
     link: /development/clients
     text: Update Clients

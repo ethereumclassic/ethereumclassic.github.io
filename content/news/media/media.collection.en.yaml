@@ -1,4 +1,39 @@
 -
+  date: 2020-11-10
+  link: Ethereum Classic Gets Closer to Thanos Hard Fork Update
+  author: Atiq Ur Rehman
+  source: Crypto Economy
+  title: "Ethereum Classic Gets Closer to Thanos Hard Fork Update"
+  tags: ["media", "education", "mining","hardfork", "development"]
+-
+  date: 2020-11-10
+  link: https://youtu.be/n_W-KfAH45s
+  author: Red Panda Mining
+  source: Red Panda Mining
+  title: "ETHEREUM CLASSIC NEW ALGORITHM ETCHASH?"
+  tags: ["education", "podcast", "media", "development", "mining"]
+-
+  date: 2020-11-09
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-announces-e1548e950524
+  author: Ethereum Classic Labs
+  source: Ethereum Classic Labs
+  title: "Call for Proposals in DeFi, Digital Sovereignty or Financial Inclusion"
+  tags: ["announcement", "teams", "development"]
+-
+  date: 2020-11-09
+  link: https://medium.com/etc-core/ethereum-classic-prepares-for-the-thanos-hard-fork-upgrade-2e1e52633cc
+  author: McDappas
+  source: Ethereum Classic Labs
+  title: "Ethereum Classic Prepares for the Thanos Hard Fork Upgrade"
+  tags: ["announcement", "teams", "hardfork", "development"]
+-
+  date: 2020-11-09
+  link: https://medium.com/etccooperative/etc-prepares-for-thanos-upgrade-b598d08b5e13
+  author: Ethereum Classic Cooperative
+  source: Ethereum Classic Cooperative
+  title: "ETC Prepares for Thanos"
+  tags: ["announcement", "teams", "hardfork", "development"]
+-
   date: 2020-11-06
   link: https://2miners.com/blog/ethereum-classic-bits-of-the-epoch-potential-network-instability-due-to-a-severe-ethash-library-bug/
   author: John Smith
@@ -61,6 +96,13 @@
   source: IOHK
   title: "ECIP Comparison for 51% attack Resistance"
   tags: ["mining", "development"]
+-
+  date: 2020-10-20
+  link: https://youtu.be/K65fP1epqAc
+  author: Red Panda Mining
+  source: Red Panda Mining
+  title: "Ethereum Classic CONFIRMATION Times Are Low Again!"
+  tags: ["education", "podcast", "media", "development", "mining"]
 -
   date: 2020-10-17
   link: https://2miners.com/blog/how-to-mine-ethereum-and-ethereum-classic-on-4gb-gpus/
@@ -208,6 +250,13 @@
   source: Ethereum Classic Labs
   title: "Ethereum Classic Labs to Pursue Enforcement and Regulation of Hash Rental Platforms"
   tags: ["announcement", "teams", "development", "mining"]
+-
+  date: 2020-08-30
+  link: https://youtu.be/O1ikjBfA-WE
+  author: Red Panda Mining
+  source: Red Panda Mining
+  title: "Ethereum Classic Is Moving to SHA3"
+  tags: ["education", "podcast", "media", "development", "mining"]
 -
   date: 2020-08-28
   link: https://www.youtube.com/watch?v=ojLCSaxfGgw
@@ -362,6 +411,13 @@
   source: Ethereum Classic Labs
   title: "EDCON 2020 | Ethereum Classic Resilience by Terry Culver, CEO of ETC Labs"
   tags: ["teams", "mining", "development", "media", "education"]
+-
+  date: 2020-08-11
+  link: https://youtu.be/_71n_dC3IGg
+  author: Red Panda Mining
+  source: Red Panda Mining
+  title: "Poor Ethereum Classic... 😞"
+  tags: ["education", "podcast", "media", "development", "mining"]
 - 
   date: 2020-08-10
   link: https://www.youtube.com/watch?v=Cspqt-nZqsc
