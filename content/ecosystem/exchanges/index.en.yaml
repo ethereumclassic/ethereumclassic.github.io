@@ -16,6 +16,10 @@ content:
     title: Centralized Exchanges
     items: 
     -
+      key: Altilly
+      link: https://www.altilly.com/market/ETC_USDT
+      name: Altilly
+    -
       key: Bequant
       link: https://bequant.io/exchange/ETC-to-USDT
       name: Bequant
@@ -51,6 +55,10 @@ content:
       key: Bitfinex
       link: https://www.bitfinex.com/t/ETC:USD
       name: Bitfinex
+    -
+      key: Bitsonic
+      link: https://bitsonic.co.kr/front/en/exchange/etc-krw
+      name: Bitsonic
     -
       key: Bithumb
       link: https://www.bithumb.com/trade/order/ETC_KRW
@@ -92,6 +100,14 @@ content:
       link: https://www.bkex.com/trade/ETC_USDT
       name: BKEX
     -
+      key: BTC Markets
+      link: https://app.btcmarkets.net/buy-sell?market=ETC-AUD
+      name: BTC Markets
+    -
+      key: C2CX
+      link: https://www.c2cx.com/trade/USDT_ETC
+      name: C2CX
+    -
       key: CAT.EX
       link: https://www.catex.io/trading/ETC/USDT
       name: CAT.EX
@@ -132,6 +148,10 @@ content:
       link: https://coinut.com/spot/ETCUSDT
       name: Coinut
     -
+      key: Crex24
+      link: https://crex24.com/exchange/ETC-BTC
+      name: Crex24
+    -
       key: DCoin
       link: https://www.dcoin.com/currencyTrading/ETC_USDT
       name: DCoin
@@ -159,6 +179,10 @@ content:
       key: EXMO
       link: https://exmo.com/en/trade/ETC_USD
       name: EXMO
+    -
+      key: EXX
+      link: https://www.exx.com/tradeCoding/etc_usdt
+      name: EXX
     -
       key: FatBTC
       link: https://www.fatbtc.com/trading?currency=ETC%2FUSDT&freetab=2
@@ -252,6 +276,10 @@ content:
       link: https://www.okex.com/market?product=etc_usdt
       name: OKex
     -
+      key: OKex Korea
+      link: https://okex.co.kr/kr/view/exchange?coin=ETC&market=BTC
+      name: OKex Korea
+    -
       key: P2PB2B
       link: https://p2pb2b.io/trade/ETC_USDT
       name: P2PB2B
@@ -263,6 +291,10 @@ content:
       key: ProBit
       link: https://www.probit.com/app/exchange/ETC-USDT
       name: ProBit
+    -
+      key: SouthXchange
+      link: https://main.southxchange.com/Market/Book/ETC/USD
+      name: SouthXchange
     -
       key: STEX
       link: https://app.stex.com/en/basic-trade/pair/BTC/ETC/1D
