@@ -306,7 +306,7 @@ content:
   -
     type: buttons
     title: Trust-Minimizing Exchange
-    description: Decentralization is a spectrum, and whilst the following "DEXs" are not necessary *fully* decentralized exchanges, they are designed to requires less custodial risk than the above.
+    description: The following "DEXs" may not be *fully* decentralized exchanges, but offer a less centralization than the list above.
     items: 
     -
       key: Bisq
