@@ -312,6 +312,10 @@ content:
       link: https://upbit.com/exchange?code=CRIX.UPBIT.USDT-ETC
       name: Upbit
     -
+      key: VCC Exchange
+      link: https://vcc.exchange/exchange/basic?currency=usdt&coin=etc
+      name: VCC Exchange
+    -
       key: WazirX
       link: https://wazirx.com/exchange/ETC-USDT
       name: WazirX
@@ -365,6 +369,10 @@ content:
       key: Bitni
       link: https://bitni.com/
       name: Bitni
+    -
+      key: BitTorro
+      link: https://bittorro.io/
+      name: BitTorro
     -
       key: ChangeAngel
       link: https://www.changeangel.io/
