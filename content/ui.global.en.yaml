@@ -31,7 +31,7 @@ continueReading: Continue Reading
 warning:
   enabled: true
   title: Urgent - Update ETC Clients
-  description: The newest Core-Geth, v1.11.18 (13th of Nov 2020) is built with Go v1.15.5 & fixes the CVE-2020-28362, which has a critical impact. The previous Ethash library [bug](https://2miners.com/blog/ethereum-classic-bits-of-the-epoch-potential-network-instability-due-to-a-severe-ethash-library-bug/) is also covered with it. Additionally, client software will be compatible with the Thanos upgrade (ECIP 1099) scheduled for block 11_700_000 in end of November/early December 2020.
+  description: The newest Core-Geth release on 13th of Nov 2020 is built with the Go v1_15_5 and fixes the CVE_2020_28362, which has a critical impact. The previous Ethash library [bug](https://2miners.com/blog/ethereum-classic-bits-of-the-epoch-potential-network-instability-due-to-a-severe-ethash-library-bug/) is also covered with it. The client software will be compatible with the Thanos upgrade (ECIP 1099) scheduled for block 11_700_000 in end of November/early December 2020.
   button:
     link: /development/clients
     text: Update Clients
