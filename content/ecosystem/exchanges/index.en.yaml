@@ -306,7 +306,7 @@ content:
   -
     type: buttons
     title: Trust-Minimizing Exchange
-    description: The following "DEXs" may not be *fully* decentralized exchanges, but offer a less centralization than the list above.
+    description: The following exchanges may not be *fully* decentralized exchanges, but operate in a less centralization manner than the list above.
     items: 
     -
       key: Bisq
