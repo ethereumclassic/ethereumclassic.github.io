@@ -56,10 +56,6 @@ content:
       link: https://www.bitfinex.com/t/ETC:USD
       name: Bitfinex
     -
-      key: Bitsonic
-      link: https://bitsonic.co.kr/front/en/exchange/etc-krw
-      name: Bitsonic
-    -
       key: Bithumb
       link: https://www.bithumb.com/trade/order/ETC_KRW
       name: Bithumb
@@ -75,6 +71,10 @@ content:
       key: Bitpanda
       link: https://www.bitpanda.com/en/prices/ethereum-classic
       name: Bitpanda
+    -
+      key: Bitsonic
+      link: https://bitsonic.co.kr/front/en/exchange/etc-krw
+      name: Bitsonic
     -
       key: Bitrue
       link: https://www.bitrue.com/trade/etc_usdt
