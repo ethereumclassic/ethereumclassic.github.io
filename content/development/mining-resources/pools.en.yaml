@@ -6,7 +6,7 @@
   key: 2Miners
   name: 2Miners
   link: https://2miners.com/etc-mining-pool
-  rank: 4
+  rank: 1
 - 
   key: AltPool
   name: AltPool
@@ -16,10 +16,6 @@
   name: AntPool
   link: https://antpool.com/
 - 
-  key: ANYHASH
-  name: ANYHASH
-  link: https://anyhash.net/
-- 
   key: BaikalMine
   name: BaikalMine
   link: https://baikalmine.com/en/pplns/etc/
@@ -27,11 +23,8 @@
   key: Beepool
   name: Beepool
   link: https://beepool.org/coindetail/etc
+  rank: 4
 -
-  key: BoomPool
-  name: BoomPool
-  link: http://etc.boompool.ru/
-- 
   key: BTC.com
   name: BTC.com
   link: https://pool.btc.com/
@@ -39,10 +32,6 @@
   key: BWPool
   name: BWPool
   link: https://etc.bwpool.net/pool/i
-- 
-  key: CCMPool
-  name: CCMPool
-  link: http://ccmpool.ro/
 - 
   key: Clona
   name: Clona
@@ -52,17 +41,9 @@
   name: CoinMine
   link: https://www2.coinmine.pl/etc/
 - 
-  key: CoinMiner
-  name: CoinMiner
-  link: http://etc.coinminer.space/
-- 
   key: Coinotron
   name: Coinotron
   link: https://www.coinotron.com/
-- 
-  key: CoolPool
-  name: CoolPool
-  link: https://coolpool.top/pool?coin=etc&type=pplns
 - 
   key: Cominers
   name: Cominers
@@ -71,6 +52,10 @@
   key: Comining
   name: Comining
   link: https://comining.io/
+- 
+  key: CoolPool
+  name: CoolPool
+  link: https://coolpool.top/
 - 
   key: CrazyPool
   name: CrazyPool
@@ -88,6 +73,14 @@
   name: DigiPools
   link: https://etc.digipools.org/
 - 
+  key: E4Pool
+  name: E4Pool
+  link: https://e4pool.com/
+- 
+  key: EMCD
+  name: EMCD
+  link: https://pool.emcd.io/
+- 
   key: ETCTurk
   name: ETCTurk
   link: http://etcturk.sytes.net/
@@ -96,22 +89,14 @@
   name: Ethashpool
   link: https://ethashpool.com/etc
 - 
-  key: EtherDig
-  name: EtherDig
-  link: https://etherdig.ru/
-- 
   key: Ethermine
   name: Ethermine
   link: https://etc.ethermine.org/
-  rank: 1
+  rank: 2
 - 
-  key: EtherTrench
-  name: EtherTrench
-  link: http://etc.ethertrench.com/
-- 
-  key: EqualHash
-  name: EqualHash
-  link: https://equalhash.pt/
+  key: EZil
+  name: EZil
+  link: https://ezil.me/
 - 
   key: f2pool
   name: f2pool
@@ -121,13 +106,13 @@
   name: FairPool
   link: https://etc.fairpool.xyz/
 - 
-  key: FarMine
-  name: FarMine
-  link: http://etc.farmine.net/
-- 
   key: FirePool
   name: FirePool
   link: https://firepool.com/
+- 
+  key: HashExpress
+  name: Hash Express
+  link: https://hash.express/
 - 
   key: HashCity
   name: HashCity
@@ -149,46 +134,25 @@
   name: HuobiPool
   link: https://www.hpt.com/
 - 
-  key: HVPPS
-  name: HVPPS
-  link: http://etc.hvpps.net/
-- 
   key: ICanMining
   name: ICanMining
   link: https://icanmining.ru/?l=en&d=pool&pool=etc
+- 
+  key: K1Pool
+  name: K1Pool
+  link: https://k1pool.com/
 - 
   key: KDV-Mining
   name: KDV-Mining
   link: http://etc.kdv-mining.com/#/
 - 
-  key: MATPool
-  name: MATPool
-  link: https://matpool.io/
-- 
   key: MaxHash
   name: MaxHash
   link: https://etcpool.maxhash.org/
-- 
-  key: MinedMap
-  name: MinedMap
-  link: http://minedmap.com/
-- 
-  key: Minerall
-  name: Minerall
-  link: https://minerall.io/ethereum-classic
-- 
+-
   key: MinerGate
   name: MinerGate
   link: https://minergate.com/etc-mining-pool
-- 
-  key: MiningFrance
-  name: MiningFrance
-  link: https://etc.miningfrance.io/
-- 
-  key: MiningPoolHub
-  name: MiningPoolHub
-  link: https://ethereum-classic.miningpoolhub.com/
-  rank: 3
 - 
   key: Mole Pool
   name: Mole Pool
@@ -198,22 +162,15 @@
   name: MyMiners
   link: https://etc.myminers.org/
 - 
-  key: MyPool
-  name: MyPool
-  link: https://etc.mypool.online/#/
-- 
   key: Nanopool
   name: Nanopool
   link: https://etc.nanopool.org/
-  rank: 2
+  rank: 3
 - 
-  key: NLpool
-  name: NLpool
-  link: http://etc.nlpool.nl/
-- 
-  key: Okex
-  name: Okex
-  link: https://www.okex.com/pool
+  key: Open ETC Pool
+  name: Open ETC Pool
+  link: https://github.com/etclabscore/open-etc-pool
+  rank: 5
 - 
   key: Pool-Node
   name: Pool-Node
@@ -223,9 +180,13 @@
   name: Prohashing
   link: https://prohashing.com/
 - 
-  key: ProtonMine
-  name: ProtonMine
-  link: https://etc.protonmine.com/
+  key: RociMining
+  name: Roci Mining
+  link: http://rocimining.co.uk/
+- 
+  key: RuPool
+  name: RuPool
+  link: https://rupool.pro/
 - 
   key: SaturnPool
   name: SaturnPool
@@ -234,15 +195,14 @@
   key: SoloPool
   name: SoloPool
   link: https://etc.solopool.org/
-  rank: 5
 - 
-  key: TheMinersPond
-  name: TheMinersPond
-  link: https://theminerspond.com/ethereumclassic/
+  key: StartMining
+  name: Start Mining
+  link: https://startmining.pl
 - 
   key: uuPool
   name: uuPool
-  link: https://uupool.cn/
+  link: https://uupool.cn/etc/
 - 
   key: ViaBTC
   name: ViaBTC
@@ -256,13 +216,13 @@
   name: Whalesburg
   link: https://whalesburg.com/
 - 
-  key: XNPOOL
-  name: XNPOOL
-  link: https://www.xnpool.com/
+  key: WoolyPooly
+  name: WoolyPooly
+  link: https://woolypooly.com/#/coin/etc
 - 
-  key: XZRM
-  name: XZRM
-  link: https://xzrm.com/pool?coin=etc
+  key: XnPool
+  name: XnPool
+  link: https://www.xnpool.com/
 - 
   key: Zergpool
   name: Zergpool
