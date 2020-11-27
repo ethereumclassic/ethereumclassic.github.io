@@ -65,3 +65,8 @@ items:
     key: Phoenix EVM and Protocol Upgrades
     title: Phoenix EVM and Protocol Upgrades
     author: Raw Pong Ghmoa
+  - 
+    number: 1099
+    key: Calibrate Epoch Duration
+    title: Calibrate Epoch Duration
+    author: Luke Williams
