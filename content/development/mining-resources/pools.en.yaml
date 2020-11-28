@@ -84,6 +84,10 @@
   key: ETCTurk
   name: ETCTurk
   link: http://etcturk.sytes.net/
+-
+  key: ETC365
+  name: ETC365
+  link: https://etc365.org/
 - 
   key: Ethashpool
   name: Ethashpool
