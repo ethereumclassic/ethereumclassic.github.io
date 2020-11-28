@@ -132,7 +132,7 @@ items:
   -
     date: November 9
     key: "ECIP 1099"
-    text: "The Ethereum Classic development community begins work on Etchash and the Thanos network upgrade which have properties that are benefiscial to 51% attack mitigation. https://medium.com/etc-core/ethereum-classic-prepares-for-the-thanos-hard-fork-upgrade-2e1e52633cc"
+    text: "The Ethereum Classic development community begins work on Etchash and the Thanos network upgrade which have properties that are beneficial to 51% attack mitigation. https://medium.com/etc-core/ethereum-classic-prepares-for-the-thanos-hard-fork-upgrade-2e1e52633cc"
   -
     date: Q4
     key: "Client Vulnerabilities"
@@ -144,7 +144,7 @@ items:
   -
     date: November 27
     key: "Thanos Network Upgrade"
-    text: "Ethereum Classic's Thanos upgrate releses on mainnet. https://ethereumclassic.org/blog/2020-11-27-thanos-hard-fork-upgrade"
+    text: "Ethereum Classic's Thanos upgrade releases to mainnet. https://ethereumclassic.org/blog/2020-11-27-thanos-hard-fork-upgrade"
   - 
     date: Q4
     key: "Resume Treasury Discussions"
