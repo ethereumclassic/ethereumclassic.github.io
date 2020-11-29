@@ -109,6 +109,13 @@ items:
     linuxAmd: true
     linuxNvidia: true
   -
+    key: "AwesomeMiner"
+    name: "OS: Awesome Miner"
+    link: https://hiveos.farm/
+    guide: https://www.cruxpool.com/help/how-to-setup-hive-os/
+    linuxAmd: true
+    linuxNvidia: true
+  -
     key: "HiveOS"
     name: "OS: HiveOS"
     link: https://hiveos.farm/
@@ -140,6 +147,20 @@ items:
     guide: https://www.nicehash.com/support/mining-help/nicehash-os/what-is-nicehash-os
     windowsAmd: true
     windowsNvidia: true
+    linuxAmd: true
+    linuxNvidia: true
+  -
+    key: "PiMPOS"
+    name: "OS: PiMP OS"
+    link: https://getpimp.org/
+    guide: https://forum.getpimp.org/category/5/getting-started
+    linuxAmd: true
+    linuxNvidia: true
+  -
+    key: "RaveOS"
+    name: "OS: RaveOS"
+    link: https://raveos.com/
+    guide: https://raveos.com/help.html
     linuxAmd: true
     linuxNvidia: true
   -
