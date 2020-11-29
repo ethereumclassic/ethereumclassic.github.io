@@ -80,6 +80,10 @@
   key: EMCD
   name: EMCD
   link: https://pool.emcd.io/
+-
+  key: ETC365 
+  name: ETC365 
+  link: https://etc365.org/
 - 
   key: ETCTurk
   name: ETCTurk
