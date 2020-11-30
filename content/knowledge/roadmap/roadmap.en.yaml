@@ -99,85 +99,53 @@ items:
     text: "Add Connext state channels support. The goal is to have Connext ETC channels live in 2020. https://etccooperative.org/posts/2020-07-17-etc-connext-state-channels"
   - 
     date: Q3
-    key: "Implementation: Instruction"
-    text: "LLVM Instruction scheduler and performance optimizations"
+    key: "Explore 51% Attack Mitigation"
+    text: "After a successful reorganization of the Ethereum Classic network, the development evaluates possible solutions to addressing future 51% attcks. https://2miners.com/blog/ethereum-classic-blockchain-split-3000-blocks-got-orphaned/"
   -
-    date: Q3
-    key: "JSON-RPC devp2p"
-    text: "JSON-RPC devp2p Wire protocol specification and reference implementation research and possible design"
+    date: August 12
+    key: "Initial Treasury Discussions"
+    text: "The Ethereum Classic prticipants discuss the potential viability for a treasury system. https://ethereumclassic.org/blog/2020-08-13-core-devs-call-treasury-discussions-initial"
   - 
-    date: Q3
-    key: "Network Monitors"
-    text: "Add fork monitor and ethstats dashboards to EthereumClassic.org"
+    date: August 16
+    key: "Nicehash Monitor"
+    text: "ForkWatch, a proof-of-work monitoring and alerting tool for the NiceHash hash market.. https://theforkwatch.substack.com/p/coming-soon"
   -
     date: Q3
-    key: "Long-term Development Resources"
-    text: "Long-term Development Resources Discussion: Public Good Network Protocols, Fund Disbursement Methods, DAO fund allocation."
+    key: "Input Output Global"
+    text: "Charles Hoskinson and Input Output Global rejoin the Etherum Classic development ecosystem with a commitment to revive their Mantis client. https://www.youtube.com/watch?v=aO1S6MOrZcE"
   -
-    date: Q3
-    key: "Updates to ECIP"
-    text: "Updates to ECIP process via ECIP-1000 discussion"
+    date: August 25
+    key: "Swarm and Ethereum Classic"
+    text: "Swarm and Ethereum Classic Labs Announce Collaboration to Support the Swarm Alpha and Beta Release. https://medium.com/ethereum-classic-labs/swarm-and-ethereum-classic-labs-announce-collaboration-to-support-the-swarm-alpha-and-beta-release-17590951abb3"
   -
-    date: Q3
-    key: "Developer Marketing"
-    text: "Work on 1-2 major technical projects that use ETC as a part of developer marketing"
+    date: September 9
+    key: "Storj and Ethereum Classic"
+    text: "Ethereum Classic Labs Joins Forces with Storj Labs. https://medium.com/ethereum-classic-labs/ethereum-classic-labs-joins-forces-with-storj-labs-947726b3ecdd"
   -
-    date: Q3
-    key: "ethereum-Berlin"
-    text: "Review Ethereum Berlin for operational parity with Ethereum Classic."
-  -
-    date: Q3
-    key: "Gas Range Discussion"
-    text: "Gas Range Discussion: Upper and Lower Bounds"
+    date: September 28
+    key: "Mantis Development"
+    text: "Mantis development team begins the process of updating mantis to work on the Ethereum Classic network as Input Output Global rejoins the Ethereum Classic development ecosystem. https://youtu.be/ep6GMMZw8sE"
   -
     date: Q4
-    key: "astor-Testing"
-    text: "Astor experimental testnet SHA3 consensus algo research review"
+    key: "MESS Client Upgrade"
+    text: "MESS Client Upgrade. https://ethereumclassic.org/blog/2020-10-10-mess-client-upgrade"
+  -
+    date: November 9
+    key: "ECIP 1099"
+    text: "The Ethereum Classic development community begins work on Etchash and the Thanos network upgrade which have properties that are beneficial to 51% attack mitigation. https://medium.com/etc-core/ethereum-classic-prepares-for-the-thanos-hard-fork-upgrade-2e1e52633cc"
   -
     date: Q4
-    key: "EVM LLVM beta"
-    text: "EVM-LLVM Official beta release"
+    key: "Client Vulnerabilities"
+    text: "Critical vulnerabilities are discovered in upstream Go and Geth clients. Patches are released in anticipation for the Ethereum Classic Thanos network upgrade. https://github.com/etclabscore/core-geth/releases"
   - 
-    date: Q4
-    key: "Implementation: Embedded"
-    text: "EVM-LLVM Implementation: Embedded assembly and exception handling"
-  - 
-    date: Q4
-    key: "Feature Complete Upgrade"
-    text: "Successful upgrade of the ETC network to a further hardfork in Q4 2020 (unless delayed) which will address the remaining blockers to ETC being considered feature complete"
-  - 
-    date: Q4
-    key: "ETL Tooling patterns"
-    text: "ETL Tooling patterns and research into providing support for cross-chain transaction transforms"
+    date: November 21
+    key: "WETC"
+    text: "Ethereum Classic can be wrapped to interact with the ETH network's DeFi ecosystem. https://beincrypto.com/ethereum-classic-users-to-access-ethereum-with-wetc/"
+  -
+    date: November 27
+    key: "Thanos Network Upgrade"
+    text: "Ethereum Classic's Thanos upgrade releases to mainnet. https://ethereumclassic.org/blog/2020-11-27-thanos-hard-fork-upgrade"
   - 
     date: Q4
-    key: "Anchor Projects"
-    text: "Attract 5 prestige anchor tenant projects from the Ethereum ecosystem. Note that attendence at conferences will level off after Q1 due to Coronavirus"
-  -
-    date: Q4
-    key: "Mining Algorithm Discussion"
-    text: "Mining Algorithm Discussion: Astor SHA3 Change, DAG reduction, No Change"
-  -
-    date: Q4
-    key: "Interoperability Projects"
-    text: "Interoperability Projects: Port over ETH network protocols. Build ETH<>ETC bridges"
-  -
-    date: Q4
-    key: "FlyClients Discussion"
-    text: "FlyClients Discussion"
-  -
-    date: Q4
-    key: "Interoperability Market Capture"
-    text: "Interoperability Market Capture. ETC added to more products increase access/utility for ETC. Onboard stabelcoins and dapps. Build the foundation for DeFi on hard-money ETC"
-  -
-    date: Q4
-    key: "Ethereum Magicians"
-    text: "Establish a Specifications Ring within Ethereum Magicians and to gather stakeholders from ETH, ETC and EEA there"
-  -
-    date: Q4
-    key: "Interoperability Orgs"
-    text: "Deliver a modular specification for Ethereum by the end of 2020 (probably via the EEA with input from Ethereum Magicians group) which spans ETH, ETC and EEA requirements"
-  -
-    date: Q4
-    key: "ETC Cooperative Grant Program"
-    text: "Implement a grant program with documentation, standards, and reporting requirements"
+    key: "Resume Treasury Discussions"
+    text: "With the capture of a healthy, decentralized mining community to mitigate 51% attacks, the development and mining communities engage in a deep discussion about Ethereum Classic's risk to self-sovereignty in the development wing of the project. Treasury proposals are drafted and discussed while the Ethereum Classic project moves into 2021."

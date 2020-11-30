@@ -37,7 +37,7 @@ items:
     networkId: 1
     link: https://ethereumclassic.org
     consensusAlgo: pow
-    miningAlgo: Ethash
+    miningAlgo: Etchash
   -
     key: Testnet Kotti 
     name: Kotti
@@ -55,7 +55,7 @@ items:
     networkId: 7
     link: https://github.com/eth-classic/mordor
     consensusAlgo: pow
-    miningAlgo: Ethash
+    miningAlgo: Etchash
   -
     key: Testnet Astor 
     name: Astor
@@ -69,7 +69,7 @@ items:
     type: experimental
     link: https://github.com/chippr-robotics/chippr-bots/tree/staging/packages/testnets/helmsdeep
     consensusAlgo: pow
-    miningAlgo: Ethash
+    miningAlgo: Etchash
   -
     key: Testnet Keccak Besu 
     name: Keccak Besu 
