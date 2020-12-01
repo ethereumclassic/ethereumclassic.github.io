@@ -7,13 +7,15 @@ tags: ["announcement", "development", "education", "teams", "hardfork"]
 
 # ECIP 1099: Calibrate Epoch Duration
 
-[https://ecips.ethereumclassic.org/ECIPs/ecip-1099](https://ecips.ethereumclassic.org/ECIPs/ecip-1099)
+[https://ecips.ethereumclassic.org/ECIPs/ecip-1099](https://ecips.ethereumclassic.org/ECIPs/ecip-1099) by [Luke Williams](https://github.com/iquidus)
 
-![Thanos Hard Fork Upgrade](./etc-monitor.png)
+![Thanos Hard Fork Upgrade](./ethereum-classic-thanos.jpg)
 
 ## Abstract
 
 The purpose of this ECIP is to calibrate the epoch length used in DAG calculations.
+
+Inspiration: [ECIP 1043: Fixed DAG limit restriction](https://ecips.ethereumclassic.org/ECIPs/ecip-1043) by [Cody Burns](cody.w.burns@gmail.com), [Wolf Spraul](wolf@linzhi.io)
 
 ## Motivation
 
