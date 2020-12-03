@@ -1,5 +1,5 @@
 title: Miner Software
-description: "*Mining Algorithm: Etchash*"
+description: "The Proof-of-Work mining algorithm for the Ethereum Classic network is [Etchash](https://github.com/eth-classic/etchash)."
 type: table
 columns:
   -
