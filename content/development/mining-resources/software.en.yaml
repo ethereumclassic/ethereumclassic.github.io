@@ -50,7 +50,18 @@ items:
     link: https://github.com/Lolliedieb/lolMiner-releases/releases
     guide: https://bitcointalk.org/index.php?topic=4724735.0
     windowsAmd: true
+    windowsNvidia: true
     linuxAmd: true
+    linuxNvidia: true
+  -
+    key: "Nanominer"
+    name: "Nanominer"
+    link: https://nanominer.org/
+    guide: https://github.com/nanopool/nanominer/blob/master/README.md
+    windowsAmd: true
+    windowsNvidia: true
+    linuxAmd: true
+    linuxNvidia: true
   -
     key: "NBMiner"
     name: "NBMiner"
@@ -79,23 +90,23 @@ items:
     linuxAmd: true
     linuxNvidia: true
   -
-    key: "SRBMiner"
-    name: "SRBMiner"
-    link: https://github.com/doktor83/SRBMiner-Multi/releases
+    key: "SRBMiner-Multi"
+    name: "SRBMiner-Multi"
+    link: https://www.srbminer.com/
     guide: https://github.com/doktor83/SRBMiner-Multi
     windowsAmd: true
     linuxAmd: true
   -
     key: "T-Rex Miner"
     name: "T-Rex Miner"
-    link: https://github.com/trexminer/T-Rex/releases
+    link: https://bitcointalk.org/index.php?topic=4432704.0
     guide: https://github.com/trexminer/T-Rex
     windowsNvidia: true
     linuxNvidia: true
   -
     key: "TeamRedMiner"
     name: "Team Red Miner"
-    link: https://github.com/todxx/teamredminer/releases
+    link: https://bitcointalk.org/index.php?topic=5059817.0
     guide: https://github.com/todxx/teamredminer
     windowsAmd: true
     linuxAmd: true
@@ -168,5 +179,12 @@ items:
     name: "OS: Simple Mining"
     link: https://simplemining.net/
     guide: https://simplemining.net/page/download
+    linuxAmd: true
+    linuxNvidia: true
+  -
+    key: "Stratums"
+    name: "Tool: Stratums"
+    link: https://stratu.ms/
+    guide: https://stratu.ms/help/switch-stratum
     linuxAmd: true
     linuxNvidia: true
