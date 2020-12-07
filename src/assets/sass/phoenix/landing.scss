@@ -150,10 +150,13 @@
       right: 0;
       margin-top: $largePadding;
       padding: $smallPadding $largePadding;
+      * { 
+        color: _fromTheme("light", "bright");
+      }
 
       @include themify() {
-        text-shadow: 0 1px 2px _themed(t-black-40);
-        background: linear-gradient(45deg, _themed(t-black-60), transparent);
+        text-shadow: 0 1px 2px _fromTheme("light", "t-black-40");
+        background: linear-gradient(45deg, _fromTheme("light", "t-black-60"), transparent);
       }
 
       @include breakpoint('<=medium') {
@@ -177,6 +180,19 @@
 
       p {
         margin: $tinyPadding 0;
+      }
+      .cells {
+        background: _fromTheme("light", "t-black-80");
+        border: 0;
+        .cell {
+          border-bottom: 1px solid _fromTheme("light", "t-white-10");
+        }
+        a { 
+          border: 0; 
+          &:hover {
+            color: _fromTheme("light", "accent");
+          }
+        }
       }
     }
 
