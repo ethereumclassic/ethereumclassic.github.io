@@ -44,6 +44,14 @@ const HomeBanner = ({
             <Link to="/news" next button>
               {news.allNews}
             </Link>
+            <Link
+              to="https://github.com/ethereumclassic/ethereumclassic.github.io#general-instructions"
+              className="float-right"
+              icon="pencil-alt"
+              button
+            >
+              {news.submitNews}
+            </Link>
           </div>
           <span className="image fill" data-position="center">
             <StaticQuery
