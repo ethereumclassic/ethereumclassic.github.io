@@ -57,13 +57,3 @@ content:
     button:
       link: /knowledge
       text: Knowledge Base
-  -
-    key: stay-current
-    type: stayCurrent
-    text: |
-      ## Stay Current
-
-      Ethereum Classic content is produced by volunteers and participants from around the world. The permisisonless ecosystem welcomes and appreciates new contributions from people like you!
-    button:
-      text: Contribute Blog Articles
-      link: https://github.com/ethereumclassic/ethereumclassic.github.io
