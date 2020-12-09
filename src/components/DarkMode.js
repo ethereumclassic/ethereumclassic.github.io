@@ -12,8 +12,12 @@ const DarkMode = ({ i18n }) => {
     localStorage.setItem('etc-website-darkmode', !on ? 'true' : 'false');
   }
   useEffect(() => {
-    if (localStorage.getItem('etc-website-darkmode') === 'true') {
-      setOn(true);
+    try {
+      if (localStorage.getItem('etc-website-darkmode') === 'true') {
+        setOn(true);
+      }
+    } catch (e) {
+      console.log(e);
     }
   }, []);
 
