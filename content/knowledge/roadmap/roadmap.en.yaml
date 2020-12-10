@@ -128,7 +128,7 @@ items:
   -
     date: Q4
     key: "MESS Client Upgrade"
-    text: "MESS Client Upgrade. https://ethereumclassic.org/blog/2020-10-10-mess-client-upgrade"
+    text: "MESS Client Upgrade via ECBP-1100. https://ethereumclassic.org/blog/2020-10-10-mess-client-upgrade"
   -
     date: November 9
     key: "ECIP 1099"
@@ -142,10 +142,14 @@ items:
     key: "WETC"
     text: "Ethereum Classic can be wrapped to interact with the ETH network's DeFi ecosystem. https://beincrypto.com/ethereum-classic-users-to-access-ethereum-with-wetc/"
   -
-    date: November 27
-    key: "Thanos Network Upgrade"
-    text: "Ethereum Classic's Thanos upgrade releases to mainnet. https://ethereumclassic.org/blog/2020-11-27-thanos-hard-fork-upgrade"
+    date: November 28
+    key: "Thanos Update: ECIP-1099"
+    text: "Ethereum Classic's Thanos upgrade releases to mainnet. The purpose of this update is to calibrate the epoch length used in DAG calculations. https://ethereumclassic.org/blog/2020-11-27-thanos-hard-fork-upgrade"
+  -
+    date: November 28
+    key: "Thanos Update: Etchash"
+    text: "Ethereum Classic's Thanos upgrade releases to mainnet. Etchash is the modified dagger hashimoto used by Ethereum Classic. It is comparable in it's behaviour to Ethereum Foundation's Ethash but allows for a long-term viability of GPU-Mining with cards that have low memory (3gb, 4gb, 6gb) available. https://github.com/eth-classic/etchash"
   - 
-    date: Q4
-    key: "Resume Treasury Discussions"
-    text: "With the capture of a healthy, decentralized mining community to mitigate 51% attacks, the development and mining communities engage in a deep discussion about Ethereum Classic's risk to self-sovereignty in the development wing of the project. Treasury proposals are drafted and discussed while the Ethereum Classic project moves into 2021."
+    date: 2021
+    key: "Treasury Discussions"
+    text: "With the long-term capture of healthy, decentralized hashrate via the Thanos update, the risk of 51% attacks is mitigated. The ETC participants shifts focus on network adoption. The development and mining communities engage in a thoughtful discussions about Ethereum Classic's risk to self-sovereignty via the development wing of the project. Various treasury proposals are drafted and discussed while the Ethereum Classic project moves into 2021."
