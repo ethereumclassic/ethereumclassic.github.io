@@ -34,9 +34,9 @@ items:
   -
     key: Mantis
     name: Mantis
-    link: https://github.com/input-output-hk/mantis
-    description: Input Output Global announced intent to update and release Mantis for the Ethereum Classic network by November, 2020. Mantis is a Scala based client written for Ethereum Classic from the ground up by the Grothendieck Team of Input Output Global (formerly IOHK). Mantis features a GUI and puts the Luna wallet management software into the hands of Ethereum Classic users, giving them a safe way to create, manage and backup their wallets.
-    guide: https://github.com/input-output-hk/mantis
+    link: https://mantisclient.io/
+    description: Mantis is a fully featured client and wallet UI, developed from the ground up and written in Scala for the Ethereum Classic network (ETC). Created by IOHK to add robustness and variety to the ETC's client share, it includes optimizations and network upgrades that improve network security, sustainability, and performance in the long term. For Thanos upgrade support, please use version 3.2.1 or later. Upgrade considerations, Mantis should be considered as Beta software with the December 9 2020 relaunch. This client is Long Term Supported by the Grothendieck team with stable funding from Input Output Global. This is a recommended client from a well-known transparent team.
+    guide: https://docs.mantisclient.io/install/install-client
     release: https://github.com/input-output-hk/mantis/releases
-    support: https://github.com/input-output-hk/mantis/issues
+    support: https://docs.mantisclient.io/resources/faq
     supportIcon: fab fa-github

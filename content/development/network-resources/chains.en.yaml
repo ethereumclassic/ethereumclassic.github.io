@@ -77,3 +77,10 @@ items:
     link: https://github.com/whiteblock/keccak-besu-testnet
     consensusAlgo: pow
     miningAlgo: Keccak256
+  -
+    key: Testnet Sagano 
+    name: Sagano 
+    type: experimental
+    link: https://docs.mantisclient.io/first-steps/client-quickstart
+    consensusAlgo: pow
+    miningAlgo: Etchash
