@@ -1,6 +1,28 @@
+[build]
+  publish = "public"
+[[plugins]]
+  package = "netlify-plugin-gatsby-cache"
 [[redirects]]
   from = "/wiki"
   to = "https://github.com/ethereumclassic/wiki/wiki"
 [[redirects]]
+  from = "/teams"
+  to = "/ecosystem/teams"
+[[redirects]]
+  from = "/roadmap"
+  to = "/knowledge/roadmap"
+[[redirects]]
   from = "/summit/2019"
   to = "/press/conferences"
+[[redirects]]
+  from = "/blog/2016-07-11-manifesto"
+  to = "/blog/2016-07-11-crypto-decentralist-manifesto"
+[[redirects]]
+  from = "/blog/2016-07-15-start-project"
+  to = "/blog/2016-07-15-start-ethereum-classic-project"
+[[redirects]]
+  from = "/blog/2016-10-17-hard-fork"
+  to = "/blog/2016-10-17-gas-reprice-hard-fork"
+[[redirects]]
+  from = "/blog/2017-01-17-newsletter"
+  to = "/blog/2017-01-17-die-hard-fork-upgrade"

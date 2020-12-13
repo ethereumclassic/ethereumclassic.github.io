@@ -2,6 +2,7 @@
 title: "Ethereum / Classic Denial Of Service Attacks & The Estonian Cyberwar"
 date: 2016-10-13
 author: Christian Seberino
+tags: ["announcement", "development", "teams", "hardfork", "education"]
 ---
 
 I will discuss denial of service (DOS) attacks in general and give details regarding the

@@ -2,6 +2,7 @@
 title: "Let's Admit Blockchains Are Weird: An Introduction To The Strangeness"
 date: 2016-11-04
 author: Christian Seberino
+tags: ["development", "education"]
 ---
 
 I will explain the basics, and weirdness, of blockchains.

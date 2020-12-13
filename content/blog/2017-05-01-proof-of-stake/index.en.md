@@ -2,6 +2,7 @@
 title: "Why You Should LOVE Proof Of Stake Systems — Hybrids!"
 date: 2017-05-01
 author: Christian Seberino
+tags: ["application", "development", "education", "mining"]
 ---
 
 ![](./0TCSJ3Q0BMHx5tF8E.jpg)

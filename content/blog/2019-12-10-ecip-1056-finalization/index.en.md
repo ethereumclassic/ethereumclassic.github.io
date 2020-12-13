@@ -2,7 +2,8 @@
 title: "Agharta Finalization Core Devs Call"
 date: 2019-12-10
 author: Yaz Khoury
-description: On Thursday, December 12, 2019, 1pm UTC, an Ethereum Classic Core Devs call will be held to determine the final block selection for Agharta. 
+tags: ["announcement", "development", "education", "teams", "hardfork"]
+description: On Thursday, December 12, 2019, 1pm UTC, an Ethereum Classic Core Devs call will be held to determine the final block selection for Agharta.
 linkImage: ./agharta.png
 ---
 
@@ -16,11 +17,12 @@ Ask one of our moderators or community organizers to be granted the right permis
 
 The agenda for the call is the following:
 
-We will first have a client check-in with represenatives of the 4 clients for ETC:
-1) Parity
-2) Hyperledger Best
-3) MultiGeth
-4) Classic Geth
+We will first have a client check-in with representatives of the 4 clients for ETC:
+
+* 1) Parity-Ethereum
+* 2) Hyperledger Best
+* 3) Multi-Geth
+* 4) Classic Geth
 
 Currently, the Agharta Hardfork is scheduled for mid-January 2020 and is currently in last call.
 
@@ -32,6 +34,6 @@ The reference to the issue discussion is found [here](https://github.com/ethereu
 
 So please join us on this important call so we can finalize Agharta and get ready for some amazing changes to be added to ETC!
 
-An ics file has been made so you can save the event on your calendar. [file:invite.ics]
+An [ics file](./invite.ics) has been made so you can save the event on your calendar.
 
 Looking forward to seeing you all there!

@@ -1,0 +1,102 @@
+participants: Participants
+teams:
+  title: Teams
+  items:
+    -
+      key: ETC Consortium
+      link: https://etcconsortium.org/
+      name: ETC Consortium
+    -
+      key: IOHK
+      link: https://iohk.io/projects/ethereum-classic/
+      name: IOHK
+    -
+      key: ETC Cooperative
+      link: https://etccooperative.org/
+      name: ETC Cooperative
+    -
+      key: Ethereum Commonwealth
+      link: https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/
+      name: Ethereum Commonwealth
+    -
+      key: Commonwealth.gg
+      link: https://commonwealth.gg/
+      name: Commonwealth.gg
+    -
+      key: Chippr Robotics
+      link: https://www.chipprbots.com/
+      name: Chippr Robotics
+    -
+      key: ETC Core
+      link: https://etccore.io/
+      name: ETC Core
+    -
+      key: Byzantine Fault
+      link: https://byzantine.fault.dev/
+      name: Byzantine Fault
+    -
+      key: Gödel Labs
+      link: https://www.godel.ai/
+      name: Gödel Labs  
+regions:
+  title: Regions
+  items:
+    -
+      key: Asia
+      link: http://ethereumclassicasia.org/
+      name: Asia
+    -
+      key: China
+      link: http://ethereumclassic.cn/
+      name: China
+    -
+      key: Korea
+      link: https://www.ethereumclassickorea.com/
+      name: Korea
+social:
+  title: Social
+  items:
+    -
+      key: gitHub
+      brand: github
+      link: https://github.com/ethereumclassic/
+      name: GitHub
+    -
+      key: discord
+      brand: discord
+      link: https://discord.gg/hQs894U
+      name: Discord
+    -
+      key: telegram
+      brand: telegram
+      link: https://telegram.me/ethclassic
+      name: Telegram
+    -
+      key: reddit
+      brand: reddit
+      link: https://www.reddit.com/r/EthereumClassic/
+      name: Reddit
+    -
+      key: twitter
+      brand: twitter
+      link: https://twitter.com/eth_classic
+      name: Twitter
+discordTip: "**ETC participants** are most active on **discord**."
+discord:
+  icon: discord
+  name: Join ETC on Discord
+  link: https://discord.gg/hQs894U
+moreChannels: More Social Channels
+buttons:
+  -
+    key: sitemap
+    link: /sitemap
+    name: Sitemap
+    icon: sitemap
+  -
+    key: rss
+    link: /news
+    name: RSS Feeds
+    icon: rss
+signOff: Made with `<3` for the original Ethereum vision
+html5Up: Template derived from HTML5UP

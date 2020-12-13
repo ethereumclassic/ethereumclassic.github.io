@@ -1,0 +1,37 @@
+#  This file contains words that are used on every page (such as menu and footer).
+#
+# ## Metadata
+# ### Data about the page used by search engines, etc.
+#
+# This title appears in browser tab / window
+title: Ethereum Classic
+#  A short description that appears in google searches
+description: "A decentralized computing platform that runs smart contracts: applications that run exactly as programmed without downtime, censorship or third party interference"
+#  Date format used to display dates globally
+dateFormat: YYYY.MM.DD
+#  Used by og:locale meta tag [info](https://kb.yoast.com/kb/changing-the-og-locale-output/)
+metaLocale: en_US
+#  Used in the <html> tag [info](https://www.w3schools.com/tags/att_lang.asp)
+htmlLang: en
+#  Do not edit this!
+bodyClass: default
+#  ## Misc
+search: Search
+notFound: Page not found
+notFoundText: Sorry, this page doesn't exist
+goBack: Go Back
+#  ## Latest Blog Posts
+# Appears on landing page and blog section
+disclaimer: The links on this page are contributions by ETC participants and are not guaranteed to be safe; use them at your own risk! Please do your own research before using any of resources on this site.
+contribute: "If you feel there is incorrect or missing content on this page, please reach out via the [Ethereum Classic Discord](https://discord.gg/hQs894U) or create an issue on [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io)."
+license: The content on this page is made available under the license
+learnMore: Learn More
+continueReading: Continue Reading
+## pop up
+warning:
+  enabled: true
+  title: "Urgent: Update ETC Clients"
+  description: "Please update your ETC clients to the newest release, critical bugs have been indentified and patched. The client software will be compatible with the Thanos upgrade (ECIP 1099) scheduled for block 11_700_000 in December 2020."
+  button:
+    link: /development/clients
+    text: Update Clients

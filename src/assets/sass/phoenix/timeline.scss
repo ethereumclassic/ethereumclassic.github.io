@@ -1,0 +1,181 @@
+// fork timeline
+
+.fork-timeline {
+  margin-bottom: $smallPadding;
+
+  .items {
+    @include themify() {
+      background: _themed(grey-10);
+    }
+
+    white-space: nowrap;
+    overflow-x: auto;
+  }
+
+  .scroll-info .helper {
+    opacity: 0.5;
+  }
+
+  .items,
+  .scroll-info {
+    padding: 0 $largePadding;
+
+    @include breakpoint('<=small') {
+      padding: 0 $smallPadding;
+    }
+  }
+
+  .item:first-child .date {
+    border-radius: $roundedTight 0 0 $roundedTight;
+  }
+
+  .item:last-child .date {
+    border-radius: 0 $roundedTight $roundedTight 0;
+  }
+
+  .item {
+    $iconSize: 4rem;
+    margin: $smallPadding 0;
+    $stickHeight: 1rem;
+    text-align: center;
+    vertical-align: top;
+    display: inline-block;
+    width: 16rem;
+    white-space: normal;
+
+    .date,
+    .icon {
+      @include themify() {
+        color: _themed(bg);
+      }
+    }
+
+    .date {
+      margin-bottom: $stickHeight;
+      text-transform: uppercase;
+      font-size: 0.8rem;
+      font-weight: bold;
+      letter-spacing: 0.1rem;
+    }
+
+    .icon {
+      margin-top: $stickHeight;
+      width: $iconSize;
+      height: $iconSize;
+      line-height: $iconSize;
+      margin: auto;
+      font-size: $iconSize - 2rem;
+      border-radius: 100%;
+      display: block;
+
+      &::after {
+        content: '';
+        width: 1rem;
+        height: $stickHeight + 0.5rem;
+        background: grey;
+        display: block;
+        margin: auto;
+        margin-top: (-$stickHeight) + (-$iconSize);
+      }
+    }
+
+    @include themify() {
+
+      .date,
+      .icon,
+      .icon::after {
+        background: _themed(dark-grey-30);
+        color: _themed(grey-20);
+      }
+
+      &.red {
+
+        .date,
+        .icon,
+        .icon::after {
+          background: _themed(red-col);
+          color: _themed(darker-red-col);
+        }
+      }
+
+      &.green {
+
+        .date,
+        .icon,
+        .icon::after {
+          background: _themed(green-col);
+          color: _themed(darker-green-col);
+        }
+      }
+
+      &.purple {
+
+        .date,
+        .icon,
+        .icon::after {
+          background: _themed(purple-col);
+          color: _themed(darker-purple-col);
+        }
+      }
+
+      &.orange {
+
+        .date,
+        .icon,
+        .icon::after {
+          background: _themed(light-orange-col);
+          color: _themed(darker-orange-col);
+        }
+      }
+
+      &.blue {
+
+        .date,
+        .icon,
+        .icon::after {
+          background: _themed(blue-col);
+          color: _themed(darker-blue-col);
+        }
+      }
+
+      &.white {
+
+        .date,
+        .icon,
+        .icon::after {
+          background: _themed(white-col);
+          color: _themed(black-col);
+        }
+      }
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    p {
+      margin: 0;
+    }
+
+    h3 {
+      margin-top: $stickHeight;
+      font-size: 1.1rem;
+      line-height: 1.4rem;
+      margin-bottom: 0.6rem;
+    }
+
+    .content {
+      margin: 0 $tinyPadding;
+    }
+
+    .text {
+      font-size: 0.9rem;
+      line-height: 1.2rem;
+    }
+
+    a {
+      border: none;
+    }
+  }
+}

@@ -1,66 +1,67 @@
--
-  key: 2Miners 
-  name: 2Miners
-  etc: https://2miners.com/etc-stats/
--
-  key: CoinMetrics 
-  name: CoinMetrics
-  etc: https://coinmetrics.io/charts/#assets=etc
--
-  key: CoinWarz 
-  name: CoinWarz
-  etc: https://www.coinwarz.com/mining/ethereum-classic
--
-  key: Emerald Insights 
-  name: Emerald Insights
-  etc: https://insights.emeraldpay.io/
--
-  key: ETCNodes 
-  name: ETCNodes
-  etc: https://etcnodes.org/
-  kotti: https://kotti.etcnodes.org/
--
-  key: ETCStats 
-  name: ETCStats
-  etc: http://etcstats.org
-  mordor: http://mordor.etcstats.org
--
-  key: ETCStatus 
-  name: ETCStatus
-  etc: https://etcstatus.live/
--
-  key: EtherStats 
-  name: EtherStats
-  etc: http://etc.etherstats.net
-  mordor: http://mordor.etherstats.net
-  kotti: http://kotti.etherstats.net
--
-  key: MiningPoolStats 
-  name: MiningPoolStats
-  etc: https://miningpoolstats.stream/ethereumclassic
--
-  key: Nanopool 
-  name: Nanopool
-  etc: https://etc.nanopool.org/stats
--
-  key: WhatToMine 
-  name: WhatToMine
-  etc: https://whattomine.com/coins/162-etc-ethash
--
-  key: Astor Stats 
-  name: Astor Stats
-  astor: https://stats.astor.host/
--
-  key: ETCStats 
-  name: ETCStats
-  astor: http://astor.etcstats.org
-  kotti: http://kotti.etcstats.org
--
-  key: Kotti Stats 
-  name: Kotti Stats
-  kotti: http://stats.kotti.goerli.net/
--
-  key: Expedition 
-  name: Expedition
-  kotti: https://expedition.dev/?network=kotti 
-  mordor: https://expedition.dev/?network=mordor 
+configRef: networkTableConfig
+key: monitors
+title: Network Monitors
+description: Network monitors provide insights into the network's health like providing analysis on miners, nodes, network performance, user activity. Additionally, these tools alert to network attacks like a 51% attack.
+items:
+  -
+    key: ThanosUpgrade
+    name: Thanos Hard Fork Monitor
+    etc: https://etcnodes.org/thanos
+  -
+    key: 2Miners
+    name: 2Miners
+    etc: https://2miners.com/etc-stats/
+  -
+    key: CoinMetrics
+    name: CoinMetrics
+    etc: https://coinmetrics.io/charts/#assets=etc
+  -
+    key: CoinWarz
+    name: CoinWarz
+    etc: https://www.coinwarz.com/mining/ethereum-classic
+  -
+    key: Emerald Insights
+    name: Emerald Insights
+    etc: https://insights.emeraldpay.io/
+  -
+    key: ETCNetStats
+    name: ETC Net Stats
+    etc: https://etcnetstats.com/
+  -
+    key: ETCNodes
+    name: ETCNodes
+    etc: https://etcnodes.org/
+  -
+    key: Expedition
+    name: Expedition
+    etc: https://expedition.dev/?network=mainnet
+    kotti: https://expedition.dev/?network=kotti
+    mordor: https://expedition.dev/?network=mordor
+  -
+    key: ForkWatch
+    name: Fork Watch
+    etc: https://www.forkwatch.io/
+  -
+    key: MiningPoolStats
+    name: MiningPoolStats
+    etc: https://miningpoolstats.stream/ethereumclassic
+  -
+    key: Nanopool
+    name: Nanopool
+    etc: https://etc.nanopool.org/stats
+  -
+    key: PoolDetective
+    name: Pool Detective
+    etc: https://pooldetective.org/
+  -
+    key: TokenView
+    name: TokenView
+    etc: https://etc.tokenview.com/en/charts
+  -
+    key: WhatToMine
+    name: WhatToMine
+    etc: https://whattomine.com/coins/162-etc-ethash
+  -
+    key: Kotti Stats
+    name: Kotti Stats
+    kotti: http://stats.kotti.goerli.net/

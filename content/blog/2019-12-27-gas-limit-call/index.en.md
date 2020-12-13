@@ -2,6 +2,7 @@
 title: The Summary of the Gas-Limit Configuration Call from 12/27/2019
 date: 2019-12-27
 author: ETC Discord
+tags: ["announcement", "development", "education", "teams", "mining", "hardfork", "media"]
 description: There was a call on discord discussing limiting ETC's block gas limit
 linkImage: ./call.jpg
 ---
@@ -10,7 +11,9 @@ linkImage: ./call.jpg
 
 There was an ETC Devs / Miners / Community Call a day ago to talk about options to manage rampant chain bloat, which is on the ETC mainnet at the moment and is being caused by [GasToken](https://gastoken.io), with most blocks being filled with garbage, adding gigabytes to the state every day. This will compromise decentralization in short order and is an existential threat to the health of the network.
 
-[Here is a copy of the recording of the call.](https://bobsummerwill.files.wordpress.com/2019/12/192712-etc_gas-limit-configuration-call_discord.mp3)  Thanks to [a.s.](https://twitter.com/asis_slm) for that.
+### Recording of Core Devs Call
+
+[Core Devs Call:  Gas Limit Reduction](https://youtu.be/Svp-eWnqf_g)
 
 Bob S.’s suggested **action items**:
 

@@ -1,0 +1,39 @@
+menu:
+  -
+    key: news
+    name: All News
+    link: /news
+  - 
+    key: blog
+    name: Blog Articles
+    link: /blog
+  -
+    key: media
+    name: Media Links
+    link: /news/media
+submitArticle: Submit Content
+noPosts: No posts in your selected language 😢
+englishPosts: English Posts
+allNews: All News
+submitNews: Submit News
+latestNews: Latest News
+next: Next
+previous: Previous
+filterTag: Filter Tag
+# tags
+tags:
+  announcement: Announcements
+  application: Applications
+  development: Development
+  education: Education
+  event: Events
+  exchange: Exchanges
+  guide: Guides
+  hardfork: Hard Forks
+  media: Media
+  mining: Mining
+  podcast: Podcasts
+  teams: Teams
+  tech: Technology
+  trading: Trading
+  wallet: Wallets

@@ -1,0 +1,33 @@
+.icon-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+
+  @include breakpoint('<=small') {
+    grid-template-columns: 1fr;
+  }
+
+  column-gap: $smallPadding;
+  text-align: center;
+  margin: $smallPadding;
+  $bgSize: 8rem;
+  $iconSize: 4rem;
+
+  .item-icon {
+    @include themify() {
+      background: _themed(main-header);
+      color: _themed(accent);
+    }
+
+    border-radius: 100%;
+    vertical-align: middle;
+    font-size: $iconSize;
+    height: $bgSize;
+    width: $bgSize;
+    line-height: $bgSize;
+    margin-bottom: $tinyPadding;
+
+    p {
+      margin-bottom: 0;
+    }
+  }
+}

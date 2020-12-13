@@ -1,0 +1,155 @@
+$hamburgerSize: 3rem;
+
+.main-menu {
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 10;
+  user-select: none;
+
+  input#menu-input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+  }
+
+  .toggle {
+    position: absolute;
+    cursor: pointer;
+    position: fixed;
+    z-index: 3;
+    top: 0;
+    right: 0;
+    width: $hamburgerSize;
+    height: $hamburgerSize;
+  }
+
+  .search {
+    visibility: hidden;
+    position: fixed;
+    top: $tinyPadding;
+    left: $tinyPadding;
+    max-width: 70%;
+  }
+
+  .overlay {
+    @include themify() {
+      background: _themed(t-black-20);
+    }
+
+    backdrop-filter: blur(7px) grayscale(50%);
+    position: fixed;
+    z-index: 1;
+    visibility: hidden;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+  }
+
+  .hamburger {
+    @include themify() {
+      background: _themed(t-black-20);
+    }
+
+    z-index: 3;
+    font-size: $hamburgerSize / 3;
+    text-align: center;
+    width: $hamburgerSize;
+    line-height: $hamburgerSize;
+    height: $hamburgerSize;
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+
+  .menu {
+    top: $hamburgerSize + $nanoPadding;
+    font-family: _font("family-heading");
+    font-weight: 400;
+    text-transform: uppercase;
+    position: absolute;
+    right: $nanoPadding;
+    height: 0;
+    overflow: hidden;
+    opacity: 0;
+    z-index: 5;
+
+    a {
+      display: block;
+
+      @include themify() {
+        background: _themed(bright);
+      }
+
+      border: none;
+      margin-bottom: $nanoPadding;
+      font-size: 1.2rem;
+      line-height: 1rem;
+      padding: 0.9rem 0.7rem;
+
+      &:hover {
+        @include themify() {
+          color: _themed(accent);
+          background: _themed(fg);
+        }
+      }
+    }
+  }
+
+  @mixin when-selected {
+
+    &.menu,
+    &~.menu,
+    &~.search,
+    &~.overlay {
+      height: auto;
+      opacity: 1;
+      overflow: auto;
+      visibility: visible;
+    }
+
+    &~.toggle {
+      left: 0;
+      bottom: 0;
+      width: auto;
+      z-index: 2;
+      height: auto;
+    }
+
+    &~.hamburger {
+      @include themify() {
+        color: _themed(bright);
+        background: _themed(t-black-60);
+      }
+    }
+  }
+
+  // have to split these to fix ie11
+
+  .menu:focus,
+  #menu-toggle:checked {
+    @include when-selected;
+  }
+
+  .menu:focus-within {
+    @include when-selected;
+  }
+}
+
+.dark-mode {
+  position: fixed; // TODO absolute
+  top: 0;
+  cursor: pointer;
+  opacity: 0.3;
+  right: $hamburgerSize + $microPadding;
+  padding: $microPadding;
+  z-index: 5;
+
+  &:hover {
+    opacity: 1;
+  }
+}

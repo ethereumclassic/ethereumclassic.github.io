@@ -1,0 +1,288 @@
+.float-right {
+  float: right;
+}
+
+.float-left {
+  float: left;
+}
+
+.clear {
+  clear: both;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.nudge-up {
+  margin-top: -$smallPadding;
+  margin-bottom: $smallPadding;
+}
+
+.flex {
+  display: flex;
+  flex-flow: wrap;
+  gap: $tinyPadding;
+
+  >* {
+    flex: 1;
+  }
+}
+
+.grid {
+  display: grid;
+  grid-auto-flow: column;
+  gap: $tinyPadding;
+
+  @include breakpoint('<=small') {
+    grid-auto-flow: none;
+  }
+}
+
+.cells {
+  @include themify() {
+    background: _themed(bright);
+  }
+
+  border-radius: $roundedLoose;
+  box-shadow: $softShadow;
+  margin: $smallPadding 0;
+
+  @include themify() {
+    border: 1px solid _themed(t-black-20);
+  }
+
+  .cell {
+    @include themify() {
+      border-bottom: 1px solid _themed(t-black-20);
+    }
+
+    padding: $smallPadding;
+
+    h3,
+    h4 {
+      margin: 0 !important;
+    }
+  }
+
+  .cell:last-child {
+    border-bottom: none;
+  }
+
+  .buttons {
+    margin-bottom: $tinyPadding;
+  }
+
+  &.slim .cell {
+    padding: $tinyPadding;
+  }
+
+  &.widen {
+    margin-left: -$smallPadding;
+    margin-right: -$smallPadding;
+  }
+
+}
+
+.scrolly {
+  max-height: 20rem;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.spaced {
+  margin: $smallPadding 0;
+}
+
+.dark {
+  .button-link {
+    box-shadow: $softShadow;
+  }
+
+  @include themify() {
+    background: _themed(accent-dark);
+
+    * {
+      color: _themed(bg);
+    }
+
+    .button-link {
+      background: _themed(t-white-20);
+
+      &:hover {
+        color: _themed(bg);
+        background: _themed(t-white-30);
+      }
+    }
+  }
+}
+
+.tip {
+  padding: $microPadding $tinyPadding;
+  border-radius: $roundedTight;
+  font-size: 0.9rem;
+  line-height: 1.5rem;
+  margin: $microPadding 0;
+
+  i.info {
+    margin-right: $microPadding;
+  }
+
+  @include themify() {
+    background: _themed(accent-bg);
+    color: _themed(accent-dark);
+
+    a {
+      color: _themed(accent-dark);
+    }
+
+    i.info {
+      color: _themed(accent-border);
+    }
+
+    &.warning {
+      background: _themed(lighter-red-col);
+      color: _themed(dark-red-col);
+
+      i.info {
+        color: _themed(red-col);
+      }
+    }
+  }
+}
+
+.shaded {
+  @include themify() {
+    background: linear-gradient(180deg, _themed(grey-10), _themed(grey-30));
+    text-shadow: 0px 1px 1px _themed(t-white-80);
+  }
+
+
+  >.container {
+    z-index: 1;
+    position: relative;
+  }
+
+  &::before {
+    z-index: 0;
+    content: '';
+    position: absolute;
+    display: block;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+    @include themify() {
+      background-image: svg-url('<svg xmlns="http://www.w3.org/2000/svg" width="226" height="356"><path fill="none" pointer-events="none" d="M0 0h226v356H0z"/><switch transform="matrix(2.37116 0 0 2.37116 194.015 -3.996)"><g><path d="M11.053 76.928l-72.1-28.1 15.5-25z" class="st0" fill="none" stroke="#{_themed(dark)}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/><path d="M-35.447 33.228l1.7-28.5-11.8 19.1zM-8.247 69.428l-7.4 50.6s13.6-22 13.8-22.2-6.4-28.4-6.4-28.4zM-8.247 69.428l-27.4 16.8-.9-27.8z" class="st0" fill="none" stroke="#{_themed(dark)}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/><path d="M-8.247 69.428l-54.3 33.2 15.5 25.1zM-15.647 120.028l-7.9-27.6 15.3-23zM-15.647 120.028l-18.1 29.2-13.3-21.5z" class="st0" fill="none" stroke="#{_themed(dark)}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/><path d="M-36.047 74.028l-42.4 2.9 15.9 25.7zM-36.047 74.028l.4 12.2-26.9 16.4zM-36.047 74.028l-25-25.2-17.4 28.1z" class="st0" fill="none" stroke="#{_themed(dark)}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/><path d="M-36.047 74.028l-25-25.2 24.5 9.6zM11.053 76.928l-12.9 20.9-6.4-28.4zM-15.647 120.028l-7.9-27.6-23.5 35.3zM11.053 76.928l-44.8-72.2 18.1 47.2z" class="st0" fill="none" stroke="#{_themed(dark)}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/><path d="M-15.647 51.928l-18.1-47.2-1.7 28.5z" class="st0" fill="none" stroke="#{_themed(dark)}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/></g></switch></svg>');
+    }
+
+    background-repeat: no-repeat;
+    opacity: 0.07;
+    background-size: auto 200%;
+    background-position: 70% 20%;
+
+    @include breakpoint('<=medium') {
+      background-size: 70% auto;
+      background-position: 90% 20%;
+    }
+
+    @include breakpoint('<=small') {
+      background-size: auto 200%;
+    }
+  }
+}
+
+.showcase {
+  @include themify() {
+    background: _themed(grey-10);
+    box-shadow: 0 $tinyPadding $smallPadding _themed(t-black-20);
+  }
+
+  padding: $smallPadding;
+  border-radius: $roundedTight;
+}
+
+
+.page-missing {
+  max-width: 30rem;
+  margin: auto;
+  text-align: center;
+  padding: $hugePadding $smallPadding;
+
+  img {
+    max-width: 3rem;
+    margin: $tinyPadding;
+  }
+
+  h2 {
+    margin: $tinyPadding;
+  }
+}
+
+.search {
+  z-index: 5;
+
+  input::placeholder {
+    font-family: "Font Awesome 5 Free", _font('family');
+    font-weight: 900;
+  }
+
+  .results {
+    margin-top: $tinyPadding;
+    max-height: 15rem;
+
+    .cell {
+      display: block;
+      padding: $tinyPadding;
+      line-height: 1.3rem;
+
+      span {
+        font-weight: bold;
+        margin-right: $microPadding;
+      }
+
+      &:hover {
+        @include themify() {
+          background: _themed(accent-bg);
+        }
+      }
+    }
+  }
+}
+
+
+
+// custom etc icon
+
+.fa-etc {
+  padding: 0.4rem;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 90% auto;
+  background-image: url('../images/etc-black.svg');
+}
+
+.logo {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center center;
+  background-image: url('../images/etc-black.svg');
+}
+
+body.theme-dark .fa-etc {
+  background-image: url('../images/etc-white.svg');
+}
+
+body.theme-dark .logo {
+  background-image: url('../images/etc-emerald.svg');
+}

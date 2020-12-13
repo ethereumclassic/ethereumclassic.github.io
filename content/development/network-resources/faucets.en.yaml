@@ -1,18 +1,17 @@
-- 
-  key: EtherDrip
-  name: EtherDrip
-  astor: http://astor.etherdrip.net
-  kotti: http://kotti.etherdrip.net
-  mordor: http://mordor.etherdrip.net
--
-  key: astor.host
-  name: astor.host
-  astor: https://faucet.astor.host
--
-  key: KottiFaucet.me
-  name: KottiFaucet.me
-  kotti: http://kottifaucet.me/
--
-  key: mordor.canhaz.net
-  name: mordor.canhaz.net
-  mordor: http://mordor.canhaz.net/
+configRef: networkTableConfig
+key: faucets
+title: Faucets
+description: Faucets are Ethereum Classic public services that allow you to obtain small amounts of testnet ETC for deploying contracts and testing transactions in a sandbox environment. If you're a developer, please consider contributing to these testnets by running nodes and mining on the networks. It's a selfless and charitable act for the greater Ethereum Classic ecosystem.
+items:
+  -
+    key: CoreGethMordor
+    name: Core-Geth Mordor
+    mordor: http://core-geth.org/contribute-to-mordor
+  -
+    key: KottiFaucet.me
+    name: KottiFaucet.me
+    kotti: http://kottifaucet.me/
+  -
+    key: MineETC
+    name: Mine ETC
+    etc: https://ethereumclassic.org/development/mining-resources

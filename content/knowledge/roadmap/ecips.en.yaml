@@ -1,36 +1,72 @@
-- number: 1010
-  key: Delay Difficulty Bomb Explosion  
-  name: Delay Difficulty Bomb Explosion
-  author: Igor Artamonov
-- number: 1015
-  key: Long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks  
-  name: Long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks
-  author: Cody W Burns
-- number: 1017
-  key: Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule  
-  name: Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule
-  author: Matthew Mazur
-- number: 1039
-  key: Monetary policy rounding specification  
-  name: Monetary policy rounding specification
-  author: Isaac Ardis
-- number: 1041
-  key: Remove Difficulty Bomb  
-  name: Remove Difficulty Bomb
-  author: Igor Artamonov
-- number: 1048
-  key:  Clique proof-of-authority consensus protocol
-  name:  Clique proof-of-authority consensus protocol
-  author:  Péter Szilágyi
-- number: 1050
-  key:  Status Codes
-  name:  Status Codes
-  author:  Brooklyn Zelenka, Boris Mann
-- number: 1054
-  key: Atlantis EVM and Protocol Upgrades  
-  name: Atlantis EVM and Protocol Upgrades
-  author: Isaac Ardis
-- number: 1056
-  key: Agharta EVM and Protocol Upgrades  
-  name: Agharta EVM and Protocol Upgrades
-  author: Isaac Ardis, Wei Tang
+type: table
+title: Final ECIPs
+description: These ECIPs (Ethereum Classic Improvement Proposals) have been accepted and have or will be implemented soon.
+columns: 
+  -
+    key: number
+    name: Number
+    linkPrefix: https://ecips.ethereumclassic.org/ECIPs/ecip-
+  -
+    key: title
+    name: Title
+  -
+    key: author
+    name: Authors
+number: Number
+author: Authors
+items: 
+  - 
+    number: 1010
+    key: Delay Difficulty Bomb Explosion
+    title: Delay Difficulty Bomb Explosion
+    author: Igor Artamonov
+  - 
+    number: 1015
+    key: Long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks
+    title: Long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks
+    author: Cody W Burns
+  - 
+    number: 1017
+    key: Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule
+    title: Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule
+    author: Matthew Mazur
+  - 
+    number: 1039
+    key: Monetary policy rounding specification
+    title: Monetary policy rounding specification
+    author: Isaac Ardis
+  - 
+    number: 1041
+    key: Remove Difficulty Bomb
+    title: Remove Difficulty Bomb
+    author: Igor Artamonov
+  - 
+    number: 1048
+    key:  Clique proof-of-authority consensus protocol
+    title:  Clique proof-of-authority consensus protocol
+    author:  Péter Szilágyi
+  - 
+    number: 1050
+    key:  Status Codes
+    title:  Status Codes
+    author:  Brooklyn Zelenka, Boris Mann
+  - 
+    number: 1054
+    key: Atlantis EVM and Protocol Upgrades
+    title: Atlantis EVM and Protocol Upgrades
+    author: Isaac Ardis
+  - 
+    number: 1056
+    key: Agharta EVM and Protocol Upgrades
+    title: Agharta EVM and Protocol Upgrades
+    author: Isaac Ardis, Wei Tang
+  - 
+    number: 1088
+    key: Phoenix EVM and Protocol Upgrades
+    title: Phoenix EVM and Protocol Upgrades
+    author: Raw Pong Ghmoa
+  - 
+    number: 1099
+    key: Calibrate Epoch Duration
+    title: Calibrate Epoch Duration
+    author: Luke Williams
