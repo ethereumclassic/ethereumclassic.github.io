@@ -121,6 +121,11 @@ content:
         link: https://core-geth.org/contribute-to-mordor-testnet
         description: This guide will teach you how to mine testnet ETC and run your own local block explorer with Expedition. Kotti is the recommended testnet for dapp developers. Mordor is recommended for protocol level testing. 
       - 
+        key: Migrate to Hyperledger Besu - Switch from OpenEthereum or Multi-Geth
+        name: Migrate to Hyperledger Besu - Switch from OpenEthereum or Multi-Geth
+        link: https://medium.com/etccooperative/migrate-to-hyperledger-besu-8867e5ad37f8
+        description: This guide should help you with the migration from the OpenEthereum or the Multi-Geth clients to Hyperledger Besu client.
+      - 
         key: Ethereum Classic on Raspberry Pi
         name: Ethereum Classic on Raspberry Pi
         link: https://medium.com/ethereum-classic/ethereum-classic-on-raspberry-pi-a3be200cdca0

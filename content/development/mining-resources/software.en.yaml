@@ -1,5 +1,5 @@
 title: Miner Software
-description: "*Mining Algorithm: Ethash*"
+description: "The Proof-of-Work mining algorithm for the Ethereum Classic network is [Etchash](https://github.com/eth-classic/etchash) since 28th of November 2020."
 type: table
 columns:
   -
@@ -29,56 +29,10 @@ columns:
     icon: book
 items:
   -
-    key: "Bminer"
-    name: "Bminer"
-    link: https://www.bminer.me/releases/
-    guide: https://www.bminer.me/examples/#mining-ethereum-ethereum-classic
-    windowsAmd: true
-    linuxAmd: true
-  -
-    key: "Claymore Miner"
-    name: "Claymore Miner"
-    link: https://bitcointalk.org/index.php?topic=1433925.0
-    guide: https://www.cruxpool.com/help/how-to-mine-with-claymore/
-    windowsAmd: true
-    windowsNvidia: true
-    linuxAmd: true
-    linuxNvidia: true
-  -
     key: "Cruxminer"
     name: "Cruxminer"
     link: https://cruxpool.com/cruxminer
     guide: https://cruxpool.com/cruxminer
-    windowsAmd: true
-    windowsNvidia: true
-  -
-    key: "DamoMiner"
-    name: "DamoMiner"
-    link: https://github.com/damominer/damominer/releases
-    guide: https://github.com/damominer/damominer
-    windowsNvidia: true
-    linuxNvidia: true
-  -
-    key: "Easy Miner"
-    name: "Easy Miner"
-    link: http://www.qskg.top/
-    guide: http://www.qskg.top/eth.html
-    windowsAmd: true
-    windowsNvidia: true
-  -
-    key: "Ethminer"
-    name: "Ethminer"
-    link: https://github.com/ethereum-mining/ethminer/releases
-    guide: https://www.cruxpool.com/help/how-to-mine-with-ethminer/
-    windowsAmd: true
-    windowsNvidia: true
-    linuxAmd: true
-    linuxNvidia: true
-  -
-    key: "Genoil"
-    name: "Genoil"
-    link: https://github.com/nanopool/genoil-ethereum/releases
-    guide: https://bitcointalk.org/index.php?topic=1368785.0
     windowsAmd: true
     windowsNvidia: true
   -
@@ -91,10 +45,10 @@ items:
     linuxAmd: true
     linuxNvidia: true
   -
-    key: "Minergate xFast"
-    name: "Minergate xFast"
-    link: https://minergate.com/downloads
-    guide: https://minergate.com/faq/gui-miner-guide-windows
+    key: "lolMiner"
+    name: "lolMiner"
+    link: https://github.com/Lolliedieb/lolMiner-releases/releases
+    guide: https://bitcointalk.org/index.php?topic=4724735.0
     windowsAmd: true
     windowsNvidia: true
     linuxAmd: true
@@ -102,8 +56,8 @@ items:
   -
     key: "Nanominer"
     name: "Nanominer"
-    link: https://github.com/nanopool/nanominer/releases
-    guide: https://help.nanopool.org/article/48-help
+    link: https://nanominer.org/
+    guide: https://github.com/nanopool/nanominer/blob/master/README.md
     windowsAmd: true
     windowsNvidia: true
     linuxAmd: true
@@ -118,6 +72,15 @@ items:
     linuxAmd: true
     linuxNvidia: true
   -
+    key: "OpenETC Pool"
+    name: "OpenETC Pool"
+    link: https://github.com/etclabscore/open-etc-pool/releases
+    guide: https://github.com/etclabscore/open-etc-pool/
+    windowsAmd: true
+    windowsNvidia: true
+    linuxAmd: true
+    linuxNvidia: true
+  -
     key: "Phoenix Miner"
     name: "Phoenix Miner"
     link: https://bitcointalk.org/index.php?topic=2647654.0
@@ -127,9 +90,23 @@ items:
     linuxAmd: true
     linuxNvidia: true
   -
+    key: "SRBMiner-Multi"
+    name: "SRBMiner-Multi"
+    link: https://www.srbminer.com/
+    guide: https://github.com/doktor83/SRBMiner-Multi
+    windowsAmd: true
+    linuxAmd: true
+  -
+    key: "T-Rex Miner"
+    name: "T-Rex Miner"
+    link: https://bitcointalk.org/index.php?topic=4432704.0
+    guide: https://github.com/trexminer/T-Rex
+    windowsNvidia: true
+    linuxNvidia: true
+  -
     key: "TeamRedMiner"
-    name: "TeamRedMiner"
-    link: https://github.com/todxx/teamredminer/releases
+    name: "Team Red Miner"
+    link: https://bitcointalk.org/index.php?topic=5059817.0
     guide: https://github.com/todxx/teamredminer
     windowsAmd: true
     linuxAmd: true
@@ -143,36 +120,10 @@ items:
     linuxAmd: true
     linuxNvidia: true
   -
-    key: "A10 ETHMaster"
-    name: "ASIC: A10 ETHMaster"
-    link: https://innosilicon.com/html/a10-miner/index.html
-    guide: http://www.innosilicon.com.cn/api/download.php?url=A10-ETH-Manual-en.pdf
-  -
-    key: "Antminer E3"
-    name: "ASIC: Antminer E3"
-    link: https://service.bitmain.com/support/download?product=Antminer%20E3
-    guide: https://antpool.kf5.com/hc/kb/article/1281448/
-  -
-    key: "Linzhi E1400"
-    name: "ASIC: Linzhi E1400"
-    link: https://linzhi.io/
-    guide: https://linzhi.io/docs/LWP16-E1400-Architecture-Overview.pdf
-  -
-    key: "Awesome Miner"
+    key: "AwesomeMiner"
     name: "OS: Awesome Miner"
-    link: https://www.awesomeminer.com/download
-    guide: https://bitcointalk.org/index.php?topic=676942.0
-    windowsAmd: true
-    windowsNvidia: true
-    linuxAmd: true
-    linuxNvidia: true
-  -
-    key: "Cudo Miner"
-    name: "OS: Cudo Miner"
-    link: https://www.cudominer.com/
-    guide: https://www.cudominer.com/questions/
-    windowsAmd: true
-    windowsNvidia: true
+    link: https://hiveos.farm/
+    guide: https://www.cruxpool.com/help/how-to-setup-hive-os/
     linuxAmd: true
     linuxNvidia: true
   -
@@ -180,20 +131,6 @@ items:
     name: "OS: HiveOS"
     link: https://hiveos.farm/
     guide: https://www.cruxpool.com/help/how-to-setup-hive-os/
-    linuxAmd: true
-    linuxNvidia: true
-  -
-    key: "Miner Babe"
-    name: "OS: Miner Babe"
-    link: https://minerbabe.com/
-    guide: http://support.minerbabe.com/archives/category/tutorial
-    linuxAmd: true
-    linuxNvidia: true
-  -
-    key: "Miner Butler"
-    name: "OS: Miner Butler"
-    link: https://mineros.cn/
-    guide: https://mineros.cn/index.php/zh/course
     linuxAmd: true
     linuxNvidia: true
   -
@@ -224,6 +161,20 @@ items:
     linuxAmd: true
     linuxNvidia: true
   -
+    key: "PiMPOS"
+    name: "OS: PiMP OS"
+    link: https://getpimp.org/
+    guide: https://forum.getpimp.org/category/5/getting-started
+    linuxAmd: true
+    linuxNvidia: true
+  -
+    key: "RaveOS"
+    name: "OS: RaveOS"
+    link: https://raveos.com/
+    guide: https://raveos.com/help.html
+    linuxAmd: true
+    linuxNvidia: true
+  -
     key: "SimpleMining"
     name: "OS: Simple Mining"
     link: https://simplemining.net/
@@ -231,6 +182,9 @@ items:
     linuxAmd: true
     linuxNvidia: true
   -
-    key: "CheckPool"
-    name: "Tool: CheckPool"
-    link: https://play.google.com/store/apps/details?id=com.alexdib.miningpoolmonitor
+    key: "Stratums"
+    name: "Tool: Stratums"
+    link: https://stratu.ms/
+    guide: https://stratu.ms/help/switch-stratum
+    linuxAmd: true
+    linuxNvidia: true

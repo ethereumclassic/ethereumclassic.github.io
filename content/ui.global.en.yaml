@@ -30,8 +30,8 @@ continueReading: Continue Reading
 ## pop up
 warning:
   enabled: true
-  title: Update Clients
-  description: Jul 31, 2020 - Ethereum Classic experienced the second successful chain reorganization attack on the network. The network has stablized. Please migrate away from deprecated OpenEthereum to a recommended client.
+  title: "Urgent: Update ETC Clients"
+  description: "Please update your ETC clients to the newest release, critical bugs have been indentified and patched. The client software will be compatible with the Thanos upgrade (ECIP 1099) scheduled for block 11_700_000 in December 2020."
   button:
     link: /development/clients
-    text: Update
+    text: Update Clients

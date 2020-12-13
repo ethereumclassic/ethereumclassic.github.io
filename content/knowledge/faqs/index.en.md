@@ -29,7 +29,7 @@ Also, it is important to be familiar with the strong objections described in the
 - [How to Recover Ethereum Classic sent to Ethereum address](https://medium.com/@nesterenkoi565/how-to-recover-ethereum-classic-sent-to-ethereum-address-691aca046f3e)
 - [How to Recover Ethereum Sent to an Ethereum Classic Address](https://medium.com/@nesterenkoi565/how-to-recover-ethereum-sent-to-an-ethereum-classic-address-832d56a7d6d9)
 - [Zero to Crypto: Buy ETH](https://www.mewtopia.com/zerotocrypto-buy-eth/)
-- [How to Setup MetaMask with ETC](https://youtu.be/BhVWWcwKKME)
+- [How to Setup MetaMask with ETC using Ethercluster](https://www.reddit.com/r/EthereumClassic/comments/eqaokd/sendreceive_etc_transactions_on_metamask_with/)
 
 ### How is Ethereum Classic related to Bitcoin?
 

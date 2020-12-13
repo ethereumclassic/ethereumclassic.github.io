@@ -1,4 +1,361 @@
 -
+  date: 2020-12-09
+  link: https://www.crowdcast.io/e/mantis
+  author: Input Output Hong Kong
+  source: Input Output Global
+  title: "Introducing the updated Mantis client & all-new wallet"
+  tags: ["announcement", "teams", "development", "mining", "education", "podcast", "media"]
+-
+  date: 2020-12-08
+  link: https://iohk.io/en/blog/posts/2020/12/09/the-new-mantis-bringing-security-and-stability-to-the-ethereum-classic-ecosystem-1/
+  author: Niamh Ahern
+  source: Input Output Hong Kong
+  title: "The new Mantis: Bringing security and stability to the Ethereum Classic ecosystem"
+  tags: ["announcement", "teams", "development", "mining", "education"]
+-
+  date: 2020-12-01
+  link: https://www.youtube.com/watch?v=FzkuwY9OE_U
+  author: Red Panda Mining
+  source: Red Panda Mining
+  title: "ETHEREUM CLASSIC THANOS AFTERMATH!"
+  tags: ["education", "podcast", "media", "development", "mining"]
+-
+  date: 2020-11-28
+  link: https://www.youtube.com/watch?v=o3MI2qH2rAU
+  author: Rabid Mining
+  source: Rabid Mining
+  title: "ETC HardFork Is Live Welcome Back 3gb and 4GB Cards To The Mining Space Ethereum Classic Mining"
+  tags: ["education", "podcast", "media", "development", "mining"]
+-
+  date: 2020-11-28
+  link: https://www.youtube.com/watch?v=7Gv8GgSNkmc
+  author: Savage Mine
+  source: Savage Mine
+  title: "ETHEREUM Classic Hard Fork LIVE!"
+  tags: ["education", "podcast", "media", "development", "mining"]
+-
+  date: 2020-11-25
+  link: https://www.youtube.com/watch?v=_fvJSBiBink
+  author: Felipe Faraggi, Nicolas Taller, Konrad Staniec, Andrzej Kopac, Serhii Shymkiv 
+  source: Input Output Hong Kong
+  title: "Ethereum Classic - Mantis: IOHK Weekly Development Update #7"
+  tags: ["announcement", "teams", "development", "media"]
+-
+  date: 2020-11-24
+  link: https://medium.com/etccooperative/thanos-hard-fork-d3cda8b47e97
+  author: Ethereum Classic Cooperative
+  source: Ethereum Classic Cooperative
+  title: "Thanos Hard Fork"
+  tags: ["announcement", "teams", "education", "mining", "hardfork", "development"]
+-
+  date: 2020-11-23
+  link: https://medium.com/etccooperative/etc-cooperative-q3-2020-transparency-report-d5158f7ded52
+  author: Ethereum Classic Cooperative
+  source: Ethereum Classic Cooperative
+  title: "Q3-2020 Transparency Report"
+  tags: ["teams"]
+-
+  date: 2020-11-21
+  link: https://2miners.com/blog/ethereum-classic-hard-fork-to-change-cryptocurrency-mining-algorithm-how-to-keep-mining-etc/
+  author: Darek Piotrowski
+  source: 2Miners
+  title: "Ethereum Classic Hard Fork to Change Cryptocurrency Mining Algorithm. How to Keep Mining ETC?"
+  tags: ["education", "mining", "hardfork"]
+-
+  date: 2020-11-21
+  link: https://thecurrencyanalytics.com/21557/ethereum-classic-etc-awaits-thanos-upgrade-a-step-closer-to-mining-decentralization-and-green-footprint/?utm_campaign=twitter&utm_medium=twitter&utm_source=twitter
+  author: Ayobami Abiola
+  source: The Currency Analytics
+  title: "Ethereum Classic (ETC) awaits Thanos Upgrade - A Step Closer to Mining Decentralization and Green Footprint"
+  tags: ["education", "mining", "hardfork"]
+-
+  date: 2020-11-18
+  link: https://decrypt.co/48689/ethereum-classic-access-13b-defi-market?utm_source=twitter&utm_medium=social&utm_campaign=auto
+  author: Noah Zuss
+  source: Decrypt
+  title: "Ethereum Classic Users Have a New Way to Access $13B DeFi Market"
+  tags: ["announcement", "education"]
+-
+  date: 2020-11-17
+  link: https://youtu.be/Yo1zLzhYzv8
+  author: Bits Be Trippin'
+  source: Bits Be Trippin'
+  title: "Ethereum Classic Hard Fork - Thanos - Important for Miners"
+  tags: ["education", "podcast", "media", "development", "hardfork", "mining"]
+-
+  date: 2020-11-16
+  link: https://youtu.be/lThEZdaJygw
+  author: Felipe Faraggi, Nicolas Taller, Konrad Staniec, Andrzej Kopac, Serhii Shymkiv 
+  source: Input Output Hong Kong
+  title: "Ethereum Classic - Mantis: IOHK Weekly Development Update #6 12 November 2020"
+  tags: ["announcement", "teams", "development", "media"]
+-
+  date: 2020-11-10
+  link: Ethereum Classic Gets Closer to Thanos Hard Fork Update
+  author: Atiq Ur Rehman
+  source: Crypto Economy
+  title: "Ethereum Classic Gets Closer to Thanos Hard Fork Update"
+  tags: ["media", "education", "mining", "hardfork", "development"]
+-
+  date: 2020-11-10
+  link: https://youtu.be/n_W-KfAH45s
+  author: Red Panda Mining
+  source: Red Panda Mining
+  title: "ETHEREUM CLASSIC NEW ALGORITHM ETCHASH?"
+  tags: ["education", "podcast", "media", "development", "mining"]
+-
+  date: 2020-11-09
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-announces-e1548e950524
+  author: Ethereum Classic Labs
+  source: Ethereum Classic Labs
+  title: "Call for Proposals in DeFi, Digital Sovereignty or Financial Inclusion"
+  tags: ["announcement", "teams", "development"]
+-
+  date: 2020-11-09
+  link: https://medium.com/etc-core/ethereum-classic-prepares-for-the-thanos-hard-fork-upgrade-2e1e52633cc
+  author: McDappas
+  source: Ethereum Classic Labs
+  title: "Ethereum Classic Prepares for the Thanos Hard Fork Upgrade"
+  tags: ["announcement", "teams", "hardfork", "development"]
+-
+  date: 2020-11-09
+  link: https://medium.com/etccooperative/etc-prepares-for-thanos-upgrade-b598d08b5e13
+  author: Ethereum Classic Cooperative
+  source: Ethereum Classic Cooperative
+  title: "ETC Prepares for Thanos"
+  tags: ["announcement", "teams", "hardfork", "development"]
+-
+  date: 2020-11-06
+  link: https://2miners.com/blog/ethereum-classic-bits-of-the-epoch-potential-network-instability-due-to-a-severe-ethash-library-bug/
+  author: John Smith
+  source: 2Miners
+  title: "Ethereum Classic: Bits of the Epoch. Potential Network Instability Due to a Severe Ethash Library Bug"
+  tags: ["announcement", "mining", "development"]
+-
+  date: 2020-11-03
+  link: https://medium.com/ethereum-classic-labs/using-blockchain-to-build-a-self-sovereign-financial-identity-c4c98ec4d080
+  author: Brendan Playford
+  source: Ethereum Classic Labs
+  title: "Using blockchain to build a self-sovereign financial identity"
+  tags: ["announcement", "teams", "development"]
+-
+  date: 2020-11-03
+  link: https://medium.com/etccooperative/etc-weekly-2-reduced-confirmations-chainbridge-hackathon-6f64c2cd2dbf
+  author: Ethereum Classic Cooperative
+  source: Ethereum Classic Cooperative
+  title: "ETC Weekly #2 | Reduced confirmations, Chainbridge, Hackathon"
+  tags: ["announcement", "teams", "development"]
+-
+  date: 2020-11-03
+  link: https://youtu.be/fctzBejhUY4
+  author: Davind Sedgwick, Nicolas Taller, Konrad Staniec, Andrzej Kopac
+  source: Input Output Hong Kong
+  title: "Ethereum Classic - Mantis: IOHK Weekly Development Update #5 29 October 2020"
+  tags: ["announcement", "teams", "development", "media"]
+-
+  date: 2020-11-01
+  link: https://medium.com/minerstat/etchash-etc-fork-at-block-11-700-000-dag-size-decrease-5083d97a1d46
+  author: Miner Stat
+  source: Miner Stat
+  title: "Etchash: ETC fork at block #11,700,000 - DAG size decrease"
+  tags: ["mining", "education", "development"]
+-
+  date: 2020-11-01
+  link: https://2miners.com/blog/ethereum-classic-will-not-be-supported-by-asics-and-nicehash/
+  author: John Smith
+  source: 2Miners
+  title: "Ethereum Classic Will Not Be Supported by ASICs and Nicehash"
+  tags: ["mining", "education", "development"]
+-
+  date: 2020-10-26
+  link: https://medium.com/etccooperative/etc-weekly-01-79cbf7d4bad7
+  author: Ethereum Classic Cooperative
+  source: Ethereum Classic Cooperative
+  title: "ETC Weekly #1 | Network security, Thanos hard-fork, ECIP comparison"
+  tags: ["announcement", "teams", "development"]
+-
+  date: 2020-10-26
+  link: https://youtu.be/h-4t1VbG46M
+  author: Davind Sedgwick, Julian Mendiola, Nicolas Taller, Konrad Staniec, Andrzej Kopac, Serhii Shymkiv 
+  source: Input Output Hong Kong
+  title: "Ethereum Classic - Mantis: IOHK Weekly Development Update #4 22 October 2020"
+  tags: ["announcement", "teams", "development", "media"]  
+-
+  date: 2020-10-20
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-announces-chasing-the-ghost-network-security-hackathon-nov-2-2020-jan-aabfa597aeb6
+  author: Ethereum Classic Labs
+  source: Ethereum Classic Labs
+  title: "Ethereum Classic Labs Announces Chasing the GHOST: Network Security Hackathon, Nov 2, 2020 — Jan 11, 2021"
+  tags: ["announcement", "teams", "development", "mining"]
+-
+  date: 2020-10-21
+  link: https://static.iohk.io/docs/etc/ecip-comparison-for-51-attack-resistance.pdf
+  author: Kostis Karantias
+  source: IOHK
+  title: "ECIP Comparison for 51% attack Resistance"
+  tags: ["mining", "development"]
+-
+  date: 2020-10-20
+  link: https://youtu.be/K65fP1epqAc
+  author: Red Panda Mining
+  source: Red Panda Mining
+  title: "Ethereum Classic CONFIRMATION Times Are Low Again!"
+  tags: ["education", "podcast", "media", "development", "mining"]
+-
+  date: 2020-10-17
+  link: https://2miners.com/blog/how-to-mine-ethereum-and-ethereum-classic-on-4gb-gpus/
+  author: Darek Piotrowski
+  source: 2Miners
+  title: "How to Mine Ethereum and Ethereum Classic on 4GB GPUs"
+  tags: ["mining", "education", "development"]
+-
+  date: 2020-10-15
+  link: https://youtu.be/xXmsuljQkL8
+  author: Davind Sedgwick, Nicolas Taller, Konrad Staniec, Andrzej Kopac, Serhii Shymkiv 
+  source: Input Output Hong Kong
+  title: "Ethereum Classic - Mantis: IOHK Weekly Development Update #3 15 October 2020"
+  tags: ["announcement", "teams", "development", "media"]  
+-
+  date: 2020-10-09
+  link: https://thecurrencyanalytics.com/19976/ethereum-classic-etc-very-positive-about-filecoin-lotus-api-using-openrpc/
+  author: Steven Anderson
+  source: The Currency Analytics
+  title: "Ethereum Classic (ETC) Very Positive about Filecoin Lotus API using OpenRPC"
+  tags: ["education", "development"]
+-
+  date: 2020-10-08
+  link: https://youtu.be/JTi4of-o6lY
+  author: Davind Sedgwick, Nicolas Taller, Mirko Alic, Konrad Staniec, Andrzej Kopac, Serhii Shymkiv 
+  source: Input Output Hong Kong
+  title: "Ethereum Classic - Mantis: IOHK Weekly Development Update #2 15 October 2020"
+  tags: ["announcement", "teams", "development", "media"]  
+-
+  date: 2020-10-02
+  link: https://medium.com/etc-core/ethereum-classic-stakeholders-critical-security-release-to-prevent-51-attacks-aa83596a0903
+  author: Ethereum Classic Labs, Ethereum Classic Core
+  source: Ethereum Classic Core
+  title: "Ethereum Classic Stakeholders — Critical Security Release to Prevent 51% Attacks"
+  tags: ["announcement", "teams", "development", "mining"]
+-
+  date: 2020-10-01
+  link: https://etclabs.org/wp-content/uploads/2020/09/September-Insights-v4.pdf?utm_content=141347304&utm_medium=social&utm_source=twitter&hss_channel=tw-999916823964368896
+  author: Ethereum Classic Labs 
+  source: Ethereum Classic Labs
+  title: "ETC INSIGHTS SEPTEMBER 2020"
+  tags: ["announcement", "teams", "development"]
+-
+  date: 2020-10-01
+  link: https://youtu.be/ep6GMMZw8sE
+  author: Davind Sedgwick, Julian Mendiola, Nicolas Taller, Konrad Staniec, Andrzej Kopac, Serhii Shymkiv 
+  source: Input Output Hong Kong
+  title: "Ethereum Classic - Mantis: IOHK Weekly Development Update #1 28 September 2020"
+  tags: ["announcement", "teams", "development", "media"]
+-
+  date: 2020-09-30
+  link: https://etherplan.com/2020/09/30/final-comments-on-the-implementation-of-mess-on-ethereum-classic/12842/
+  author: Donald McIntyre
+  source: Etherplan
+  title: "Final Comments on the Implementation of MESS on Ethereum Classic"
+  tags: ["education"]
+-
+  date: 2020-09-27
+  link: https://etherplan.com/2020/09/27/ethereum-classic-protocol-compact-2020/12822/
+  author: Donald McIntyre
+  source: Etherplan
+  title: "Ethereum Classic Protocol Compact 2020"
+  tags: ["education"]
+-
+  date: 2020-09-26
+  link: https://etherplan.com/2020/09/26/why-ethereum-classic-should-not-adopt-modified-exponential-subjective-scoring-mess/12792/
+  author: Donald McIntyre
+  source: Etherplan
+  title: "Why Ethereum Classic Should not Adopt Modified Exponential Subjective Scoring (MESS)"
+  tags: ["education"]
+-
+  date: 2020-09-24
+  link: https://etherplan.com/2020/09/24/proof-of-work-in-nature/12718/
+  author: Donald McIntyre
+  source: Etherplan
+  title: "Proof of Work in Nature"
+  tags: ["education"]
+-
+  date: 2020-09-23
+  link: https://etherplan.com/2020/09/23/ethereum-classic-principles-to-not-have-principles/12679/
+  author: Donald McIntyre
+  source: Etherplan
+  title: "Ethereum Classic Principles: To not Have Principles"
+  tags: ["education"]
+-
+  date: 2020-09-18
+  link: https://medium.com/etc-core/agreeing-to-disagree-proposing-a-weakly-subjective-finality-solution-for-ethereum-classic-7daad47efc0e
+  author: Isaac A.
+  source: Ethereum Classic Core
+  title: "Agreeing To Disagree: Proposing a Weakly-Subjective Finality Solution for Ethereum Classic"
+  tags: ["announcement", "teams", "development"]
+-
+  date: 2020-09-16
+  link: https://etccooperative.org/posts/2020-09-16-staffing-changes
+  author: Ethereum Classic Cooperative
+  source: Ethereum Classic Cooperative
+  title: "Staffing Changes"
+  tags: ["announcement", "teams", "development"]
+-
+  date: 2020-09-15
+  link: https://medium.com/etc-core/ethereum-classic-labs-teams-up-with-openrelay-and-chainsafe-8248d1182612
+  author: Ethereum Classic Labs, Ethereum Classic Core
+  source: Ethereum Classic Core
+  title: "Ethereum Classic Labs Teams Up with OpenRelay and ChainSafe"
+  tags: ["announcement", "teams", "development"]
+-
+  date: 2020-09-10
+  link: https://storj.io/blog/2020/09/using-tardigrade-and-the-decentralized-cloud-to-speed-up-sync-times-for-geth
+  author: Kevin Leffew
+  source: Storj Labs
+  title: "Using Tardigrade and the Decentralized Cloud to Speed Up Sync Times for GETH"
+  tags: ["announcement", "teams", "development"]
+-
+  date: 2020-09-10
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-joins-forces-with-storj-labs-947726b3ecdd
+  author: Ethereum Classic Labs
+  source: Ethereum Classic Labs
+  title: "Ethereum Classic Labs Joins Forces with Storj Labs"
+  tags: ["announcement", "teams", "development"]
+-
+  date: 2020-09-09
+  link: https://thecurrencyanalytics.com/18911/ethereum-classic-labs-doing-their-best-to-provide-a-secure-platform-for-etc-community/
+  author: Steven Anderson
+  source: The Currency Analytics
+  title: "Ethereum Classic Labs Doing Their Best To Provide a Secure Platform for ETC Community"
+  tags: ["education", "development"]
+-
+  date: 2020-09-09
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-partners-with-chainalysis-374e2ab97384
+  author: Ethereum Classic Labs
+  source: Ethereum Classic Labs
+  title: "Ethereum Classic Labs Partners with Chainalysis"
+  tags: ["announcement", "teams", "development"]
+-
+  date: 2020-09-05
+  link: https://thecurrencyanalytics.com/18698/ethereum-classic-etc-sustaining-their-immutability-promise-while-contemplating-checkpointing/
+  author: Steven Anderson
+  source: The Currency Analytics
+  title: "Ethereum Classic (ETC) Sustaining it's Immutability Promise While Contemplating Checkpointing"
+  tags: ["education", "development"]
+- 
+  date: 2020-08-31
+  link: https://medium.com/ethereum-classic-labs/ethereum-classic-labs-to-pursue-enforcement-and-regulation-of-hash-rental-platforms-cfbe90b62a2a
+  author: Ethereum Classic Labs
+  source: Ethereum Classic Labs
+  title: "Ethereum Classic Labs to Pursue Enforcement and Regulation of Hash Rental Platforms"
+  tags: ["announcement", "teams", "development", "mining"]
+-
+  date: 2020-08-30
+  link: https://youtu.be/O1ikjBfA-WE
+  author: Red Panda Mining
+  source: Red Panda Mining
+  title: "Ethereum Classic Is Considering Moving to SHA3 from GPU"
+  tags: ["education", "podcast", "media", "development", "mining"]
+-
   date: 2020-08-28
   link: https://www.youtube.com/watch?v=ojLCSaxfGgw
   author: Charles Hoskinson
@@ -39,7 +396,7 @@
   author: Darek Piotrowski
   source: 2Miners
   title: "Ethereum Classic Future – Discussing ETC Network Current State and Security Plan"
-  tags: ["teams", "development", "media", "education"]
+  tags: ["development", "media", "education"]
 -
   date: 2020-08-22
   link: https://www.youtube.com/watch?v=aO1S6MOrZcE
@@ -152,6 +509,13 @@
   source: Ethereum Classic Labs
   title: "EDCON 2020 | Ethereum Classic Resilience by Terry Culver, CEO of ETC Labs"
   tags: ["teams", "mining", "development", "media", "education"]
+-
+  date: 2020-08-11
+  link: https://youtu.be/_71n_dC3IGg
+  author: Red Panda Mining
+  source: Red Panda Mining
+  title: "Poor Ethereum Classic... 😞"
+  tags: ["education", "podcast", "media", "development", "mining"]
 - 
   date: 2020-08-10
   link: https://www.youtube.com/watch?v=Cspqt-nZqsc

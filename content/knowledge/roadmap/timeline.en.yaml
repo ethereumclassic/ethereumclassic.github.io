@@ -181,7 +181,7 @@ items:
   - key: ethereumClassicsupporters
     title: Ethereum Classic Supporters
     date: Jul 24 2016
-    className: white
+    className: green
     icon: fas fa-users
     link: https://www.reddit.com/r/EthereumClassic/
     text: The Ethereum Classic supporters branch off from Ethereum subreddits and form their own social channels
@@ -209,7 +209,7 @@ items:
   - key: minerSupport
     title: Miners Support ETC
     date: Aug 01 2016
-    className: white
+    className: green
     icon: fas fa-cubes
     link: https://coinjournal.net/miner-attack-ethereum-classic-now-supporting/
     text: After the ETC network grew to a point where they could no longer attack it, ETH miners publicly declare not to attack ETC. To prevent hurting innocent Ethereum Classic holders, Ethash miners commit resources to mining ETC.
@@ -534,20 +534,62 @@ items:
     icon: fas fas fa-exclamation-triangle
     link: https://www.coindesk.com/openethereum-supported-50-of-ethereum-classic-now-its-leaving-the-project
     text: On the 4th anniversary of the DAO Bailout Hard Fork, ETH-centric client maintainers orchestrate a social attack on Ethereum Classic. The client maintainers annouce deprecation of Ethereum Classic support, then execute a misinformation marketing campaign citing the ETC network would lose 70% of the hashrate among other mistruths
-  - key: 51Attack
+  - key: 51Attack2
     title: 51% Attack
     date: Jul 31 2020
     className: red
     icon: fas fa-unlink
     link: https://blog.bitquery.io/ethereum-classic-51-chain-attack-july-31-2020
     text: Ethereum Classic experiences the second successful chain reorganization attack on its network.
-  - key: 51Attack
+  - key: 51Attack3
     title: 51% Attack
     date: Aug 06 2020
     className: red
     icon: fas fa-unlink
     link: https://blog.bitquery.io/ethereum-classic-attack-8-august-catch-me-if-you-can
     text: Ethereum Classic experiences the third successful chain reorganization attack on its network.
+  - key: 51Attack4
+    title: 51% Attack
+    date: Aug 29 2020
+    className: red
+    icon: fas fa-unlink
+    link: https://twitter.com/etherchain_org/status/1299822510607917056
+    text: Ethereum Classic experiences the fourth successful chain reorganization attack on its network.
+  - key: messClientFunctionality
+    title: M.E.S.S. Client Functionality
+    date: Block 11,380,000
+    className: blue
+    icon: fas fa-angle-double-up
+    link: /blog/2020-10-10-mess-client-upgrade
+    text: October 10 2020, the Core-Geth client implements the flags to apply the optional M.E.S.S. functionality as a response to the networks 51% attacks.
+  - key: thanosMordor
+    title: Thanos Mordor Testing
+    date: Oct 19 2020
+    className: white
+    icon: fas fa-code-branch
+    link: https://expedition.dev/?network=mordor
+    text: Thanos testing begins on the Mordor PoW testnet on block 2,520,000.
+  - key: thanosUpgrade
+    title: Thanos Upgrade
+    date: Block 11,700,000
+    className: blue
+    icon: fas fa-angle-double-up
+    link: /blog/2020-11-27-thanos-hard-fork-upgrade/
+    text: November 28 2020, Ethereum Classic implements the Thanos Upgrade to recalibrate the epoch length used in DAG calculations.
+  - key: etchash
+    title: Etchash
+    date: Block 11,700,000
+    className: green
+    icon: fas fa-cubes
+    link: /blog/2020-11-27-thanos-hard-fork-upgrade/
+    text: November 28 2020, Ethereum Classic implements the Thanos Upgrade to adjust the mining algorithm from Ethash to Etchash
+  - key: mantis-ETC-Support
+    title: Mantis ETC Client Revival
+    date: Dec 09 2020
+    className: blue
+    icon: fas fa-code-branch
+    link: https://github.com/input-output-hk/mantis/releases
+    text: Input Output Global signals support for the Ethereum Classic network with the revival of the Mantis client and GUI.
   - key: aBrightFuture
     title: A Bright Future
     date: Future
