@@ -2,20 +2,16 @@ configRef: networkTableConfig
 key: faucets
 title: Faucets
 description: Faucets are Ethereum Classic public services that allow you to obtain small amounts of testnet ETC for deploying contracts and testing transactions in a sandbox environment. If you're a developer, please consider contributing to these testnets by running nodes and mining on the networks. It's a selfless and charitable act for the greater Ethereum Classic ecosystem.
-items: 
+items:
   -
-    key: BridgetteBot
-    name: Bridgette Bot
-    kotti: https://discordapp.com/invite/HW4GckH
-  -
-    key: Astor.Host
-    name: Faucet.Astor.Host
-    astor: https://faucet.astor.host
+    key: CoreGethMordor
+    name: Core-Geth Mordor
+    mordor: http://core-geth.org/contribute-to-mordor
   -
     key: KottiFaucet.me
     name: KottiFaucet.me
     kotti: http://kottifaucet.me/
   -
-    key: Mordor.Canhaz.net
-    name: Mordor.Canhaz.net
-    mordor: http://mordor.canhaz.net/
+    key: MineETC
+    name: Mine ETC
+    etc: https://ethereumclassic.org/development/mining-resources

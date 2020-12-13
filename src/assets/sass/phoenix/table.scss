@@ -1,5 +1,8 @@
 .table {
-  background: _palette(bright);
+  @include themify() {
+    background: _themed(bright);
+  }
+
   box-shadow: $softShadow;
   padding: $smallPadding $microPadding;
   border-radius: $roundedTight;
@@ -17,10 +20,12 @@ table tr.faded {
 }
 
 table i.check {
-  color: _palette(t-black-20);
+  @include themify() {
+    color: _themed(t-black-20);
 
-  &.success {
-    color: _palette(dark-green-col);
+    &.success {
+      color: _themed(dark-green-col);
+    }
   }
 
   &::-webkit-scrollbar-thumb {

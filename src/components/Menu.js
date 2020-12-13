@@ -2,11 +2,11 @@ import React from 'react';
 
 import Link from './Link';
 
-const Menu = ({ items, list, className, onClick }) => {
+const Menu = ({ items, list, className, onClick, ...props }) => {
   const Wrapper = list ? 'ul' : 'div';
   const Item = list ? 'li' : 'div';
   return (
-    <Wrapper className={`menu ${className || ''}`}>
+    <Wrapper className={`menu ${className || ''}`} {...props}>
       {items.map(i => (
         <Item key={i.key}>
           <Link

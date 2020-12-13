@@ -1043,7 +1043,7 @@ readers do not read off random characters that represent icons */
 /* .fa-money-check:before { content: "\f53c"; } */
 /* .fa-money-check-alt:before { content: "\f53d"; } */
 /* .fa-monument:before { content: "\f5a6"; } */
-/* .fa-moon:before { content: "\f186"; } */
+.fa-moon:before { content: "\f186"; }
 /* .fa-mortar-pestle:before { content: "\f5a7"; } */
 /* .fa-mosque:before { content: "\f678"; } */
 /* .fa-motorcycle:before { content: "\f21c"; } */
@@ -1248,7 +1248,7 @@ readers do not read off random characters that represent icons */
 /* .fa-scribd:before { content: "\f28a"; } */
 /* .fa-scroll:before { content: "\f70e"; } */
 /* .fa-sd-card:before { content: "\f7c2"; } */
-/* .fa-search:before { content: "\f002"; } */
+.fa-search:before { content: "\f002"; }
 /* .fa-search-dollar:before { content: "\f688"; } */
 /* .fa-search-location:before { content: "\f689"; } */
 /* .fa-search-minus:before { content: "\f010"; } */
@@ -1392,7 +1392,7 @@ readers do not read off random characters that represent icons */
 /* .fa-subway:before { content: "\f239"; } */
 /* .fa-suitcase:before { content: "\f0f2"; } */
 /* .fa-suitcase-rolling:before { content: "\f5c1"; } */
-/* .fa-sun:before { content: "\f185"; } */
+.fa-sun:before { content: "\f185"; }
 /* .fa-superpowers:before { content: "\f2dd"; } */
 /* .fa-superscript:before { content: "\f12b"; } */
 /* .fa-supple:before { content: "\f3f9"; } */

@@ -31,14 +31,14 @@ content:
       - key: Ethereum Foundation
         year: 2015
         name: Ethereum Foundation
-        active: true
+        className: faded
         link: https://ethereum.org/
         twitter: https://twitter.com/ethereum
         github: https://github.com/ethereum/
       - key: Parity Technologies
         year: 2016
         name: Parity Technologies
-        active: true
+        className: faded
         link: https://parity.io/
         twitter: https://twitter.com/ParityTech
         github: https://github.com/paritytech
@@ -51,14 +51,14 @@ content:
       - key: ETCDEV
         year: 2016
         name: ETCDEV
-        active: true
+        className: faded
         link: https://etcdevteam.com/
         twitter: https://twitter.com/getemerald
         github: https://github.com/ETCDEVTeam/
       - key: Grothendieck
         year: 2016
         name: IOHK (Grothendieck)
-        className: faded
+        active: true
         link: https://iohk.io/projects/ethereum-classic/
         twitter: https://twitter.com/InputOutputHK
         github: https://github.com/input-output-hk/mantis
@@ -72,7 +72,7 @@ content:
       - key: Ethereum Commonwealth
         year: 2017
         name: Ethereum Commonwealth
-        className: faded
+        active: true
         link: https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/
         twitter: https://twitter.com/Dexaran
         github: https://github.com/EthereumCommonwealth
@@ -103,6 +103,13 @@ content:
         link: https://www.poa.network/
         twitter: https://twitter.com/poanetwork
         github: https://github.com/poanetwork
+      - key: Chippr Robotics
+        year: 2019
+        name: Chippr Robotics
+        active: true 
+        link: https://chipprbots.com/
+        twitter: https://twitter.com/BotBridgette
+        github: https://github.com/chippr-robootics/
       - key: ETC Core
         year: 2019
         name: ETC Core
@@ -120,7 +127,7 @@ content:
       - key: Core Paper
         year: 2019
         name: Core Paper
-        active: true
+        className: faded
         link: https://corepaper.org/
         twitter: https://twitter.com/corepaper
         github: https://github.com/corepaper
@@ -131,10 +138,25 @@ content:
         link: https://www.secondstate.io/
         twitter: https://twitter.com/secondstateinc
         github: https://github.com/second-state
+      - key: Byzantine Fault
+        year: 2020
+        name: Byzantine Fault
+        active: true
+        link: https://byzantine.fault.dev/
+        twitter: https://twitter.com/byzantine_fault
+        github: https://github.com/byz-f
       - key: Gödel Labs
         year: 2020
-        name: Gödel Labs 哥德尔实验室
+        name: Gödel Labs
         active: true
         link: https://www.godel.ai/
         twitter: https://twitter.com/Goedellabs
         github: https://github.com/multi-geth/multi-geth
+      - key: Storj Labs
+        year: 2020
+        name: Storj Labs
+        active: true
+        link: https://storj.io/
+        twitter: https://twitter.com/storjproject
+        github: https://github.com/Storj/
+      

@@ -17,7 +17,7 @@ content:
         key: Commonwealth.gg
         name: Commonwealth.gg
         link: https://commonwealth.gg/
-        description: An open source Hourglass contract similar to original P3D built on Ethereum Classic. Can be leveraged with applications that incentivize user participation via dividends.
+        description: An open source Hourglass contract evolved from P3D/FOMO3D built on Ethereum Classic. Can be leveraged with applications that incentivize user participation via ETC dividends.
       - 
         key: DappDirect.net
         name: DappDirect.net
@@ -69,7 +69,7 @@ content:
         link: https://github.com/second-state/soll
         description: The LLVM compiler is finally coming to Solidity. With it, we can easily create smart contracts across multiple blockchain VMs. The EVM on Ethereum Classic and ETH 2.0's eWASM are among the first we support.
       - 
-        key: Trust Wallet
-        name: Trust Wallet (Mobile dApp Browser)
-        link: https://trustwallet.com/
-        description: An open source, multi-currency, Web3 mobile wallet. Has been tested and confirmed to work properly with ETC dApps.
+        key: Alpha Wallet
+        name: Alpha Wallet (Mobile dApp Browser)
+        link: https://alphawallet.com/
+        description: An open source, multi-currency, Web3 mobile wallet. Has been tested and confirmed to work properly with ETC dApps on Android and iOS

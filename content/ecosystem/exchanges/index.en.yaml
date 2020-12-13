@@ -17,33 +17,13 @@ content:
     title: Centralized Exchanges
     items: 
     -
-      key: ABCC
-      link: https://abcc.com/en/markets/etcusdt
-      name: ABCC
-    -
-      key: ACX
-      link: https://acx.io/markets/etcaud
-      name: ACX
-    -
       key: Altilly
       link: https://www.altilly.com/market/ETC_USDT
       name: Altilly
     -
-      key: BaseFEX
-      link: https://www.basefex.com/trade/ETCUSDT
-      name: BaseFEX
-    -
-      key: BCEX
-      link: https://www.bcex.ca/trade/etc_usdt
-      name: BCEX
-    -
       key: Bequant
       link: https://bequant.io/exchange/ETC-to-USDT
       name: Bequant
-    -
-      key: Bibox
-      link: https://www.bibox.com/exchange?coinPair=ETC_USDT
-      name: Bibox
     -
       key: BigONE
       link: https://big.one/trade/ETC-USDT
@@ -77,45 +57,29 @@ content:
       link: https://www.bitfinex.com/t/ETC:USD
       name: Bitfinex
     -
-      key: BitForex
-      link: https://www.bitforex.com/en/spot/etc_usdt
-      name: BitForex
-    -
       key: Bithumb
       link: https://www.bithumb.com/trade/order/ETC_KRW
       name: Bithumb
     -
-      key: Bithumb Singapore
-      link: https://www.bithumbsg.com/exchange/etc-tusd
-      name: Bithumb Singapore
-    -
       key: BitMart
-      link: https://www.bitmart.com/trade?symbol=ETC_USDT
+      link: https://www.bitmart.com/trade/en?symbol=ETC_USDT
       name: BitMart
     -
       key: BitMax
-      link: https://bitmax.io/#/trade/usdt/etc
+      link: https://bitmax.io/en/cashtrade-spottrading/usdt/etc
       name: BitMax
-    -
-      key: Bitnaru
-      link: https://www.bitnaru.com/exchange
-      name: Bitnaru
     -
       key: Bitpanda
       link: https://www.bitpanda.com/en/prices/ethereum-classic
       name: Bitpanda
     -
-      key: BitRabbit
-      link: https://bitrabbit.com/markets/etc_btc
-      name: BitRabbit
+      key: Bitsonic
+      link: https://bitsonic.co.kr/front/en/exchange/etc-krw
+      name: Bitsonic
     -
       key: Bitrue
       link: https://www.bitrue.com/trade/etc_usdt
       name: Bitrue
-    -
-      key: Bitsonic
-      link: https://bitsonic.co.kr/front/exchange/etc-krw
-      name: Bitsonic
     -
       key: Bittrex
       link: https://bittrex.com/Market/Index?MarketName=USDT-ETC
@@ -138,27 +102,11 @@ content:
       name: BKEX
     -
       key: BTC Markets
-      link: https://www.btcmarkets.net/buy-sell
+      link: https://app.btcmarkets.net/buy-sell?market=ETC-AUD
       name: BTC Markets
     -
-      key: BTC Trade UA
-      link: https://btc-trade.com.ua/stock/ETC_UAH
-      name: BTC Trade UA
-    -
-      key: BTC Alpha
-      link: https://btc-alpha.com/en/exchange/ETC_BTC/
-      name: BTC Alpha
-    -
-      key: Baobi
-      link: https://www.baobi.com/trade?c=ETC%2FUSDT
-      name: Baobi
-    -
-      key: BW
-      link: https://www.bw.com/trade/etc_usdt
-      name: BW
-    -
       key: C2CX
-      link: https://www.c2cx.com/in/trade_usdt_etc
+      link: https://www.c2cx.com/trade/USDT_ETC
       name: C2CX
     -
       key: CAT.EX
@@ -170,19 +118,15 @@ content:
       name: Coinbase Pro
     -
       key: Coinbene
-      link: https://www.coinbene.com/exchange/en_US/ETCUSDT
+      link: https://www.coinbene.com/spot/exchange/ETC_USDT
       name: Coinbene
     -
       key: Coinbit
       link: https://www.coinbit.co.kr/exchange/%C2%B7ETC-KRW
       name: Coinbit
     -
-      key: Coindeal
-      link: https://frontend.coindeal.com/market/ETC-BTC/
-      name: Coindeal
-    -
       key: Coineal
-      link: https://hk.coineal.com/trade_center.html?s=etc-btc#en_US
+      link: https://hk.coineal.com/trade/ETC-USDT
       name: Coineal
     -
       key: CoinEgg
@@ -192,10 +136,6 @@ content:
       key: CoinEx
       link: https://www.coinex.com/exchange?currency=usdt&dest=etc
       name: CoinEx
-    -
-      key: Coinone
-      link: https://coinone.co.kr/exchange/trade/etc/krw
-      name: Coinone
     -
       key: Coinsbit
       link: https://coinsbit.io/trade/ETC_USD
@@ -209,24 +149,16 @@ content:
       link: https://coinut.com/spot/ETCUSDT
       name: Coinut
     -
-      key: CPDAX
-      link: https://www.cpdax.com/trade/ETC-BTC
-      name: CPDAX
-    -
       key: Crex24
       link: https://crex24.com/exchange/ETC-BTC
       name: Crex24
-    -
-      key: Crypcore
-      link: https://crypcore.com
-      name: Crypcore
     -
       key: DCoin
       link: https://www.dcoin.com/currencyTrading/ETC_USDT
       name: DCoin
     -
       key: DEX-Trade
-      link: https://dex-trade.com/trading/ETCUSDT
+      link: https://dex-trade.com/spot/trading/ETCUSDT
       name: DEX-Trade
     -
       key: DigiFinex
@@ -236,10 +168,6 @@ content:
       key: DragonEx
       link: https://dragonex.io/en-us/trade/index/etc-usdt
       name: DragonEx
-    -
-      key: EREX
-      link: https://erex.io/exchange/ETC/USDT/
-      name: EREX
     -
       key: eToro
       link: https://www.etoro.com/markets/etc/chart
@@ -252,10 +180,6 @@ content:
       key: EXMO
       link: https://exmo.com/en/trade/ETC_USD
       name: EXMO
-    -
-      key: Exrates
-      link: https://exrates.me/trading/ETCUSDT
-      name: Exrates
     -
       key: EXX
       link: https://www.exx.com/tradeCoding/etc_usdt
@@ -286,7 +210,7 @@ content:
       name: HitBTC
     -
       key: Hoo
-      link: https://hoo.com/trade/etc-usdt
+      link: https://hoo.com/spot/etc-usdt
       name: Hoo
     -
       key: HotBit
@@ -313,10 +237,6 @@ content:
       link: https://www.independentreserve.com/market/etc
       name: Independent Reserve
     -
-      key: Koineks
-      link: https://koineks.com/demo/ETCTRY
-      name: Koineks
-    -
       key: Korbit
       link: https://www.korbit.co.kr/markets/?market=etc-krw
       name: Korbit
@@ -333,9 +253,13 @@ content:
       link: https://www.lbank.info/exchange.html#/etc/usdt
       name: LBank
     -
-      key: LiveCoin
-      link: https://www.livecoin.net/en/trading/ETC_BTC
-      name: LiveCoin
+      key: LiteBit
+      link: https://www.litebit.eu/en/buy/ethereumclassic
+      name: LiteBit
+    -
+      key: Mandala
+      link: https://trade.mandala.exchange/trade/ETC_USDT
+      name: Mandala
     -
       key: MXC
       link: https://www.mxc.com/trade/easy#ETC_USDT
@@ -354,20 +278,12 @@ content:
       name: OKex
     -
       key: OKex Korea
-      link: https://okex.co.kr/kr/view/trade/order
+      link: https://okex.co.kr/kr/view/exchange?coin=ETC&market=BTC
       name: OKex Korea
-    -
-      key: Ovis
-      link: https://www.ovis.com.tr/
-      name: Ovis
     -
       key: P2PB2B
       link: https://p2pb2b.io/trade/ETC_USDT
       name: P2PB2B
-    -
-      key: Paybito
-      link: https://dashboard.paybito.com/view-exchange.html?pair=etc-usd
-      name: Paybito
     -
       key: Poloniex
       link: https://poloniex.com/exchange#usdt_etc
@@ -377,25 +293,17 @@ content:
       link: https://www.probit.com/app/exchange/ETC-USDT
       name: ProBit
     -
-      key: Ronance
-      link: https://www.ronance.com/trade/etc_usdt
-      name: Ronance
-    -
-      key: SimpleFX
-      link: https://app.simplefx.com/
-      name: SimpleFX
-    -
       key: SouthXchange
-      link: https://www.probit.com/app/exchange/ETC-USDT
+      link: https://main.southxchange.com/Market/Book/ETC/USD
       name: SouthXchange
     -
       key: STEX
       link: https://app.stex.com/en/basic-trade/pair/BTC/ETC/1D
       name: STEX
     -
-      key: Tokenomy
-      link: https://exchange.tokenomy.com/market/ETCBTC
-      name: Tokenomy
+      key: Thodex
+      link: https://www.thodex.com/tr/market/ETC-TRY
+      name: Thodex
     -
       key: TOKOK
       link: https://www.tokok.com/market?symbol=ETC_USDT
@@ -406,7 +314,7 @@ content:
       name: Upbit
     -
       key: VCC Exchange
-      link: https://vcc.exchange/exchange/basic?currency=btc&coin=etc
+      link: https://vcc.exchange/exchange/basic?currency=usdt&coin=etc
       name: VCC Exchange
     -
       key: WazirX
@@ -414,7 +322,7 @@ content:
       name: WazirX
     -
       key: WhiteBIT
-      link: https://whitebit.com/trade/ETC_BTC
+      link: https://whitebit.com/trade/ETC_USDT
       name: WhiteBIT
     -
       key: YoBit
@@ -426,7 +334,7 @@ content:
       name: YunEx
     -
       key: ZB
-      link: https://trans.zb.com/etcusdt
+      link: https://www.zb.com/en/kline/etc_usdt
       name: ZB
     -
       key: ZBG
@@ -436,20 +344,12 @@ content:
     type: buttons
     key: trust-minimizing
     title: Trust-Minimizing Exchange
-    description: Decentralization is a spectrum, and whilst the following "DEXs" are not necessary *fully* decentralized exchanges, they are designed to requires less custodial risk than the above.
+    description: The following exchanges may not be *fully* decentralized exchanges, but operate in a less centralization manner than the list above.
     items: 
     -
       key: Bisq
       link: https://bisq.network/markets/?currency=etc_btc
       name: Bisq
-    -
-      key: EXNCE
-      link: https://www.exnce.com/market/ETC-ETH
-      name: EXNCE
-    -
-      key: Remitano
-      link: https://remitano.com/invest/eu
-      name: Remitano
     -
       key: Saturn Network
       link: https://www.saturn.network/exchange/ethereum-classic
@@ -464,10 +364,6 @@ content:
       key: ABRA
       link: https://www.abra.com/
       name: ABRA
-    -
-      key: ALFACashier
-      link: https://www.alfacashier.com/
-      name: ALFACashier
     -
       key: AtomicWallet
       link: https://atomicwallet.io
@@ -485,29 +381,13 @@ content:
       link: https://www.changeangel.io/
       name: ChangeAngel
     -
-      key: ChangeHero
-      link: https://changehero.io/
-      name: ChangeHero
-    -
-      key: Changelly
-      link: https://changelly.com/
-      name: Changelly
-    -
       key: ChangeNOW
       link: https://changenow.io/
       name: ChangeNOW
     -
-      key: CoinSwitch
-      link: https://coinswitch.co/
-      name: CoinSwitch
-    -
       key: Coinveer
       link: https://coinveer.com/
       name: Coinveer
-    -
-      key: Edge
-      link: https://edge.app/
-      name: Edge
     -
       key: Evercoin
       link: https://evercoin.com
@@ -524,18 +404,6 @@ content:
       key: FixedFloat
       link: https://fixedfloat.com/
       name: FixedFloat
-    -
-      key: GoDex
-      link: https://godex.io/
-      name: GoDex
-    -
-      key: Infinito Wallet
-      link: https://www.infinitowallet.io/
-      name: Infinito Wallet
-    -
-      key: InstaEx
-      link: https://instaex.io/
-      name: InstaEx
     -
       key: SimpleSwap
       link: https://simpleswap.io/coins/ethereum-classic
@@ -593,10 +461,6 @@ content:
       key: Coinbase
       link: https://www.coinbase.com/price/ethereum-classic
       name: Coinbase
-    -
-      key: CoinCentral
-      link: https://coincentral.com/currencies/ethereum-classic/
-      name: Coin Central
     -
       key: CoinCheckup
       link: https://coincheckup.com/coins/ethereum-classic/

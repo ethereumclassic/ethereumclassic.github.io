@@ -16,7 +16,7 @@ ref [ECIP-1078](https://ecips.ethereumclassic.org/ECIPs/ecip-1078) [ECIP-1079](h
 ## ETC Core Devs Call - ECIP-1078 Phoenix Finalization
 
 * When: Wednesday, February 05, 2020, 4pm UTC, 60 minutes max.
-* Where: Ethereum Classic [Discord](https://discord.gg/dwxb6nf) `#ecips` channel. Will use/create a voice channel *ad hoc*.
+* Where: Ethereum Classic [Discord](https://discord.gg/hQs894U) `#ecips` channel. Will use/create a voice channel *ad hoc*.
 
 ## Agenda
 

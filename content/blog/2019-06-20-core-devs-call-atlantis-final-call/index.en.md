@@ -12,7 +12,7 @@ tags: ["announcement", "development", "education", "teams", "hardfork"]
 ## ETC Core Devs Call - Finalization of the Atlantis Finalization
 
 * When: Thursday, June 20, 2019, 3pm UTC.
-* Where: Ethereum Classic Discord `#ecips` channel.
+* Where: Ethereum Classic [Discord](https://discord.gg/hQs894U) `#ecips` channel.
 
 ## Agenda
 
