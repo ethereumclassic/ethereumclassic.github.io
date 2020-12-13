@@ -1,9 +1,24 @@
 const siteUrl = 'https://ethereumclassic.org';
 const image = '/etc-social-card.png';
 
-const rssFeeds = require('./rss-feeds')({ siteUrl, image });
+const locales = [
+  'en',
+  'ja',
+  'tr',
+  'ru',
+  'ko',
+  'fr',
+  'vi',
+  'el',
+  'es',
+  'hr',
+  'de',
+  'zh',
+  'zh-TW',
+  'nl'
+];
 
-const search = require('./search');
+const rssFeeds = require('./rss-feeds')({ siteUrl, image });
 
 module.exports = {
   siteMetadata: {
@@ -69,18 +84,15 @@ module.exports = {
       }
     },
     {
-      resolve: 'gatsby-plugin-yaml-i18n',
-      options: {
-        locales: ['en']
-      }
-    },
-    {
       resolve: 'gatsby-plugin-feed',
       options: rssFeeds
     },
     {
-      resolve: 'gatsby-plugin-lunr',
-      options: search
+      resolve: 'gatsby-plugin-yaml-i18n',
+      options: {
+        locales,
+        generateMissing: ['development', 'ecosystem', 'knowledge', '.yaml']
+      }
     }
   ]
 };

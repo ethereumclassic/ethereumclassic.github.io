@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/click-events-have-key-events */
 /* eslint-disable jsx-a11y/no-static-element-interactions */
-import React from 'react';
+import React, { useState } from 'react';
 
 import ButtonsGroup from './ButtonsGroup';
 
@@ -13,14 +13,18 @@ const NewsTags = ({
     globals: { news }
   }
 }) => {
+  if (!allTags.length) {
+    return null;
+  }
+  const [showing, setShowing] = useState(false);
   const selected = filterType === 'tag';
   return (
     <div className="news-tags">
-      <div tabIndex="0" className={`button-link ${selected && 'selected'}`}>
+      <div className={`button-link ${selected && 'selected'}`} onClick={() => setShowing(!showing)}>
         {selected && filter ? news.tags[filter] || filter : news.filterTag}
         <i className="fas fa-angle-down right" />
       </div>
-      <div className={'tags'}>
+      <div className={`tags ${!showing && 'hidden'}`}>
         <ButtonsGroup
           items={allTags.map(t => ({
             key: t,

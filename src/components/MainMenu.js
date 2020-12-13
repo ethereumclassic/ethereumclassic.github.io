@@ -1,24 +1,29 @@
-/* eslint-disable jsx-a11y/label-has-associated-control */
-import React from 'react';
+/* eslint-disable jsx-a11y/click-events-have-key-events */
+/* eslint-disable jsx-a11y/no-static-element-interactions */
+import React, { useState } from 'react';
 
 import Menu from './Menu';
-import Search from './Search';
+import LangueMenu from './LanguageMenu';
 
-const MainMenu = ({
-  i18n: {
-    globals: { mainMenu, ui }
+const MainMenu = pageContext => {
+  const {
+    i18n: {
+      globals: { mainMenu }
+    }
+  } = pageContext;
+  const [hidden, setHidden] = useState(true);
+  function toggle() {
+    setHidden(!hidden);
   }
-}) => {
   return (
     <div className="main-menu">
-      <input id="menu-toggle" type="checkbox" />
-      <Menu items={mainMenu} />
-      <Search i18n={ui} />
-      <div className="hamburger">
+      <div className={`overlay ${hidden ? 'hidden' : ''}`} onClick={toggle}>
+        <Menu className="main" items={mainMenu} onClick={toggle} />
+        <LangueMenu {...pageContext} onClick={toggle} />
+      </div>
+      <div className={`hamburger ${!hidden ? 'selected' : ''}`} onClick={toggle}>
         <i className="fas fa-bars" />
       </div>
-      <label htmlFor="menu-toggle" className="toggle" />
-      <div className="overlay" />
     </div>
   );
 };
