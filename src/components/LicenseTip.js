@@ -14,8 +14,8 @@ const LicenseTip = ({ i18n }) => {
   }
   return (
     <div className="tip">
-      {i18n.globals.ui.license}
-      {'  '}
+      {i18n.globals.ui.licenseInfo}
+      {"  "}
       {licenses[i18n.license] ? (
         <Link to={licenses[i18n.license]}>{i18n.license}</Link>
       ) : (

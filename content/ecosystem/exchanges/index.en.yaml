@@ -13,6 +13,7 @@ intro: |
 content: 
   -
     type: buttons
+    key: centralized
     title: Centralized Exchanges
     items: 
     -
@@ -341,6 +342,7 @@ content:
       name: ZBG
   -
     type: buttons
+    key: trust-minimizing
     title: Trust-Minimizing Exchange
     description: The following exchanges may not be *fully* decentralized exchanges, but operate in a less centralization manner than the list above.
     items: 
@@ -355,6 +357,7 @@ content:
   -
     type: buttons
     title: Instant Exchanges
+    key: instant
     description: "*Note:* Instant Exchanges typically offer worse rates than Centralized Exchanges."
     items:
     -
@@ -435,6 +438,7 @@ content:
       name: XChange
   -
     type: buttons
+    key: ETC Price Sources
     title: ETC Price Sources
     items: 
     -

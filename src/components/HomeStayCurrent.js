@@ -23,10 +23,12 @@ const HomeStayCurrent = ({
       </header>
       <div className="content">
         <h3>{news.latestNews}</h3>
-        <NewsItems items={items.nodes} className="widen scrolly" />
-        <Link to="/news" next button>
-          {news.allNews}
-        </Link>
+        <NewsItems items={items.nodes} className="widen scrolly" i18n={news} />
+        {!!items.nodes.length && (
+          <Link to="/news" next button>
+            {news.allNews}
+          </Link>
+        )}
       </div>
     </section>
   );

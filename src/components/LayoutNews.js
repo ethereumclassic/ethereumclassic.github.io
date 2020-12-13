@@ -46,7 +46,7 @@ const LayoutNews = props => {
         <NewsTags {...pageContext} />
       </div>
       <NewsPagination {...pageContext} noScroll />
-      <NewsItems items={data.items.nodes} />
+      <NewsItems items={data.items.nodes} i18n={news} />
       <NewsPagination {...pageContext} />
     </LayoutPage>
   );
