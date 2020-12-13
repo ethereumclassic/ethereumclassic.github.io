@@ -2,7 +2,17 @@ import React from 'react';
 import Link from './Link';
 import DateFormatter from './DateFormatter';
 
-const NewsItems = ({ items, className }) => {
+const NewsItems = ({ items, className, i18n }) => {
+  if (!items.length) {
+    return (
+      <>
+        <p>{i18n.noPosts}</p>
+        <Link to={'/news'} button localized next>
+          {i18n.englishPosts}
+        </Link>
+      </>
+    );
+  }
   return (
     <div className={`cells news-items ${className || ''}`}>
       {items.map(({ id, parent, data, relativeDirectory }) => {

@@ -9,7 +9,13 @@ const Menu = ({ items, list, className, onClick, ...props }) => {
     <Wrapper className={`menu ${className || ''}`} {...props}>
       {items.map(i => (
         <Item key={i.key}>
-          <Link to={i.link} onClick={onClick}>
+          <Link
+            to={i.link}
+            noScroll={i.noScroll}
+            localized={i.localized}
+            className={i.className}
+            onClick={onClick}
+          >
             {i.name}
           </Link>
           {i.tip && (

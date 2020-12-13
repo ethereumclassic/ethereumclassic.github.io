@@ -8,6 +8,7 @@ intro: |
 content:
   -
     type: links
+    key: links
     items:
       - 
         key: Declaration of Independence
@@ -37,7 +38,7 @@ content:
           A detailed overview of the story behind ETC by a long term ETCer.
           *You can also read more about ETC history on the [roadmap](/knowledge/roadmap).*
       - 
-        key: /blog/2016-12-06-why/
+        key: 2016-12-06-why
         name: Why Would I Choose To Run My Application On Ethereum / Classic Instead Of The World Wide Web?
         description: Benefits over the World Wide Web
         link: /blog/2016-12-06-why/

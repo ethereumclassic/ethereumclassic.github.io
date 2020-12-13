@@ -88,6 +88,11 @@
   &.widen {
     margin-left: -$smallPadding;
     margin-right: -$smallPadding;
+
+    @include breakpoint('<=small') {
+      margin-left: -$tinyPadding;
+      margin-right: -$tinyPadding;
+    }
   }
 
 }

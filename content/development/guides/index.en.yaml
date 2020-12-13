@@ -33,7 +33,7 @@ content:
       - 
         key: Hitchhikers Guide to Smart Contracts
         name: Hitchhikers Guide to Smart Contracts
-        link: https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05
+        link: https:/zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f0
         description: Build smart contracts on Ethereum using Truffle, testrpc and Solidity.
       - 
         key: A 101 Noob Intro to Programming Smart Contracts on Ethereum
@@ -83,7 +83,7 @@ content:
       - 
         key: How to write secure smart contracts
         name: How to write secure smart contracts
-        link: https://www.saturn.network/blog/how-to-write-secure-smart-contracts/
+        link: https://www.saturn.how-to-write-secure-smart-contracts
         description: A review of programming languages and best practises to help you write secure smart contracts.
       - 
         key: Programming Decentralized Money
@@ -98,7 +98,7 @@ content:
       - 
         key: How to use Brave Browser with Ethereum dApps
         name: How to use Brave Browser with Ethereum dApps
-        link: https://www.saturn.network/blog/how-to-use-brave-browser-with-ethereum-dapps/
+        link: https://www.saturn.how-to-use-brave-browser-with-ethereum-dapps
         description: Brave Browser is the most simple and secure way to access DApps on Ethereum blockchain. Web 3.0 is finally accessible for everybody!
       - 
         key: Vyper and Brownie Contract Development on EVM Chains
@@ -148,7 +148,7 @@ content:
       -
         key: ERC20 to ERC223 upgrade path
         name: ERC20 to ERC223 upgrade path
-        link: https://www.saturn.network/blog/erc20-erc223-upgrade-path/
+        link: https://www.saturn.erc20-erc223-upgrade-path
         description: ERC223 is a modern token standard that has cheaper fees and protects investors from losing tokens. Team Saturn shows how to upgrade existing ERC20 tokens.
       -
         key: Continuity for an Augmented world
@@ -192,47 +192,47 @@ content:
     description: The technology behind blockchain is deep and reaches into many domains. Here is a small selection of articles to help you begin your journey down the rabbit hole.
     items:
     - 
-      key: /blog/2018-03-15-signatures/
+      key: 2018-03-15-signatures
       name: A Walk Through Ethereum Classic Digital Signature Code
-      link: /blog/2018-03-15-signatures/
+      link: 2018-03-15-signatures
       description: Digital signatures secure transactions. These involve elliptic curve cryptography and the Elliptic Curve Digital Signature Algorithm (ECDSA).
     - 
-      key: /blog/2018-03-19-rlp/
-      link: /blog/2018-03-19-rlp/
+      key: 2018-03-19-rlp
+      link: 2018-03-19-rlp
       name: Recursive Length Prefix Encoding
       description: Ethereum Classic (ETC) uses Recursive Length Prefix (RLP) encoding to store and send data structures.
     - 
-      key: /blog/2018-01-31-difficulty/
+      key: 2018-01-31-difficulty
       name: A Simple Interpretation Of The Ethereum Classic Mining Difficulty Parameter
       description: Mining difficulty parameter may seem mysterious to some. This article shows it has a beautiful easy to understand interpretation.
-      link: /blog/2018-01-31-difficulty/
+      link: 2018-01-31-difficulty
     - 
-      key: /blog/2018-01-26-implicit-info/
-      link: /blog/2018-01-26-implicit-info/
+      key: 2018-01-26-implicit-info
+      link: 2018-01-26-implicit-info
       name: Implicit Ethereum Classic Blockchain Information
       description: To the beginner, some necessary information may appear to be missing from the Ethereum Classic (ETC) blockchain. This information is implicitly contained in the blockchain which may lead to confusion.
     - 
-      key: /blog/2017-12-04-light-clients/
-      link: /blog/2017-12-04-light-clients/
+      key: 2017-12-04-light-clients
+      link: 2017-12-04-light-clients
       name: How Ethereum Classic Light Clients Can SECURELY Operate
       description: Ethereum Classic (ETC) light clients are clients that do not maintain a copy of the entire ETC blockchain.
     - 
-      key: /blog/2017-04-28-blocks/
+      key: 2017-04-28-blocks
       name: "ETC Blocks Explained: The Three Categories"
-      link: /blog/2017-04-28-blocks/
+      link: 2017-04-28-blocks
       description: Blocks can be divided into headers, transaction lists, and, uncle header lists.
     - 
-      key: /blog/2017-04-18-keys/
-      link: /blog/2017-04-18-keys/
+      key: 2017-04-18-keys
+      link: 2017-04-18-keys
       name: "Public And Private Keys: A Little Enlightenment"
       description: Private keys are used to transfer funds, install programs, and, run programs.
     - 
-      key: /blog/2017-03-30-accounts-and-states/
-      link: /blog/2017-03-30-accounts-and-states/
+      key: 2017-03-30-accounts-and-states
+      link: 2017-03-30-accounts-and-states
       name: Accounts And States Explained
       description: The Ethereum Classic (ETC) blockchain makes possible an unstoppable, reliable, auditable, trustless and secure world computer. To understand this system, it is important to understand accounts and states.
     - 
-      key: /blog/2017-02-10-hashes/
+      key: 2017-02-10-hashes
       name: "Hashes: An Introduction And Why They Are Foundational To The Internet And Blockchains"
-      link: /blog/2017-02-10-hashes/
+      link: 2017-02-10-hashes
       description: The phrase 'one-way hash function' might sound arcane and geeky, but hash functions are the workhorses of modern cryptography

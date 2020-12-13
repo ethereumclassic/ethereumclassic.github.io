@@ -1,0 +1,44 @@
+# config for yaml-i18n-manager
+defaultLocale: en
+contentDir: content
+yamlDir: _i18n
+locales:
+  - ja
+  - tr
+  - ru
+  - ko
+  - fr
+  - vi
+  - el
+  - es
+  - hr
+  - de
+  - zh
+  - zh-TW
+  - nl
+filterMarkdown:
+  - blog/
+filterKeys:
+  - link
+  - className
+  - date
+  - type
+  - itemsRef
+  - iconRef
+  - icon
+  - configRef
+  - linkRef
+  - checkRef
+  - contribute
+  - disclaimer
+  - license
+  - dateFormat
+  - metaLocale
+  - htmlLang
+  - bodyClass
+  - localized
+  - tags
+  - youtube
+  - brand
+  - supportIcon
+  - root
