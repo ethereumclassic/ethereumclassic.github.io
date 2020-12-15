@@ -3,6 +3,7 @@
   "description": "Ethereum Classic Website",
   "author": "ETC Participants",
   "version": "1.0.0",
+  "license": "MIT, CC0",
   "scripts": {
     "build": "GATSBY_TELEMETRY_DISABLED=1 gatsby build",
     "clean": "GATSBY_TELEMETRY_DISABLED=1 gatsby clean",

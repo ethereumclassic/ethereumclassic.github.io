@@ -43,7 +43,7 @@ export const query = graphql`
         parentDirectory: { in: ["blog", "news"] }
       }
       sort: { fields: data___date, order: DESC }
-      limit: 5
+      limit: 10
     ) {
       nodes {
         id

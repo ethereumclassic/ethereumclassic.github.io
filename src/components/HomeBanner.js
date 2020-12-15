@@ -9,8 +9,15 @@ import Link from './Link';
 import Phoenix from './Phoenix';
 
 import Md from './Markdown';
+import NewsItems from './NewsItems';
 
-const HomeBanner = ({ data: i18n }) => {
+const HomeBanner = ({
+  data: i18n,
+  news: items,
+  i18n: {
+    globals: { news }
+  }
+}) => {
   return (
     <>
       <section className="intro">
@@ -22,11 +29,28 @@ const HomeBanner = ({ data: i18n }) => {
           <Md>{i18n.subtitle}</Md>
         </header>
         <div className="content">
+          {/* 
           <div className="overlay dark">
             <h3>{i18n.bannerTitle}</h3>
             <Md>{i18n.bannerText}</Md>
             <Link next button to={i18n.button.link}>
               {i18n.button.text}
+            </Link>
+          </div> 
+          */}
+          <div className="overlay dark">
+            <h3>{news.latestNews}</h3>
+            <NewsItems items={items.nodes} className="widen scrolly" />
+            <Link to="/news" next button>
+              {news.allNews}
+            </Link>
+            <Link
+              to="https://github.com/ethereumclassic/ethereumclassic.github.io#general-instructions"
+              className="float-right"
+              icon="pencil-alt"
+              button
+            >
+              {news.submitNews}
             </Link>
           </div>
           <span className="image fill" data-position="center">

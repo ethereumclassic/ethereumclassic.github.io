@@ -2,9 +2,10 @@ import React from 'react';
 import Link from './Link';
 import ButtonsGroup from './ButtonsGroup';
 import Icons from './Icons';
-
 import Md from './Markdown';
 import Search from './Search';
+
+import netlify from '../assets/images/netlify-color-accent.svg';
 
 const Footer = ({
   i18n: {
@@ -49,7 +50,12 @@ const Footer = ({
           <Md unwrap>{i18n.signOff}</Md>
           <br />
           <Link to="https://html5up.net/license">{i18n.html5Up}</Link>
+          <br />
         </div>
+        <br />
+        <a href="https://www.netlify.com" style={{ border: 0 }}>
+          <img src={netlify} alt="Deploys by Netlify" />
+        </a>
       </div>
     </>
   );
