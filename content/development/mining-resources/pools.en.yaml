@@ -85,6 +85,10 @@
   name: ETC365 
   link: https://etc365.org/
 - 
+  key: ETCPool
+  name: ETCPool
+  link: https://ethereumclassicpool.com/
+- 
   key: ETCTurk
   name: ETCTurk
   link: http://etcturk.sytes.net/
