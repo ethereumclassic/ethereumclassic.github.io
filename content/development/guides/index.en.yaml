@@ -235,4 +235,4 @@ content:
       key: /blog/2017-02-10-hashes/
       name: "Hashes: An Introduction And Why They Are Foundational To The Internet And Blockchains"
       link: /blog/2017-02-10-hashes/
-      description: The phrase 'one-way hash function' might sound arcane and geeky, but hash functions are the workhorses of modern cryptography
+      description: The phrase 'one-way hash function' might sound arcane and geeky, but hash functions are the workhorses of modern cryptography.
