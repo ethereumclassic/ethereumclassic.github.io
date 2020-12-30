@@ -21,6 +21,11 @@ content:
         link: https://vbstreetz.github.io/signatory-client/
         description: Video Demo describes Signatory Client - a Do It Yourself hardware wallet that can be installed on a single-board computer, like Raspberry PI.
       - 
+        key: Besu Client Setup Guide
+        name: Besu Client Setup Guide
+        link: https://youtu.be/b1NJQkexJ2c
+        description: Get started using Hyperledger Besu.
+      - 
         key: Raspberry Pi Node Setup Guide
         name: Raspberry Pi Node Setup Guide
         link: https://core-geth.org/setup-on-raspberry-pi
