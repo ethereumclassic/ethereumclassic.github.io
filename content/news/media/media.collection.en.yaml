@@ -1,4 +1,18 @@
 -
+  date: 2020-12-16
+  link: https://youtu.be/zX9YXPA-0ok
+  author: Ethereum Classic Labs
+  source: Ethereum Classic Labs
+  title: "The Ethereum Classic Show #19, Interview with Edilson Osorio Jr, CEO of OriginalMy"
+  tags: ["announcement", "teams", "development", "education", "media"]
+-
+  date: 2020-12-15
+  link: https://medium.com/ethereum-classic-labs/when-ethereum-classic-makes-social-impact-beyond-the-currency-3689b99c49c
+  author: Ethereum Classic Labs
+  source: Ethereum Classic Labs
+  title: "When Ethereum Classic Makes Social Impact Beyond the Currency"
+  tags: ["announcement", "teams"]
+-
   date: 2020-12-09
   link: https://www.crowdcast.io/e/mantis
   author: Input Output Hong Kong
@@ -12,6 +26,13 @@
   source: Input Output Hong Kong
   title: "The new Mantis: Bringing security and stability to the Ethereum Classic ecosystem"
   tags: ["announcement", "teams", "development", "mining", "education"]
+-
+  date: 2020-12-04
+  link: https://medium.com/etccooperative/why-change-the-proof-of-work-algorithm-to-keccak-256-sha3-e327b8313824
+  author: Ethereum Classic Cooperative
+  source: Ethereum Classic Cooperative
+  title: "Why Change The Ethereum Classic Proof of Work Algorithm to Keccak-256 (SHA3)"
+  tags: ["teams", "education", "mining", "hardfork", "development"]
 -
   date: 2020-12-01
   link: https://www.youtube.com/watch?v=FzkuwY9OE_U
