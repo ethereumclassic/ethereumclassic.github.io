@@ -184,6 +184,10 @@
   name: Pearpool
   link: https://etc.pearpool.com/
 - 
+  key: PhoenixMax
+  name: PhoenixMax
+  link: https://etcpool.phoenixmax.org/
+- 
   key: Pool-Node
   name: Pool-Node
   link: https://pool-node.com/
