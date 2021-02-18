@@ -1,11 +1,59 @@
 -
   date: 2021-02-15
   link: https://youtu.be/NzrMhR9S4Pc
-  author: David Rosales,Dominic Zakowski
+  author: Tim Harrison, David Rosales,Dominic Zakowski
   source: Input Output Hong Kong
   title: "Ethereum Classic - Mantis: IOHK Weekly Development Update #10 - February 2021"
   tags: ["announcement", "teams", "development", "media"]
-
+-
+  date: 2021-02-07
+  link: https://etherplan.com/2021/02/07/the-problem-of-voting-in-public-blockchains/15410/
+  author: Donald McIntyre
+  source: Etherplan
+  title: "The Problem of Voting in Public Blockchains"
+  tags: ["education"]
+-
+  date: 2021-02-10
+  link: https://etherplan.com/2021/02/10/ethereum-classics-inexorable-split/15434/
+  author: Donald McIntyre
+  source: Etherplan
+  title: "Ethereum Classic’s Inexorable Split"
+  tags: ["development", "teams"]
+-
+  date: 2021-01-09
+  link: https://etherplan.com/2021/01/09/the-logic-of-culture/14929/
+  author: Donald McIntyre
+  source: Etherplan
+  title: "The Logic of Culture"
+  tags: ["education"]
+-
+  date: 2021-02-04
+  link: https://etherplan.com/2021/02/04/the-etherplan-consensus-engine-dapp-explained/15371/
+  author: Donald McIntyre
+  source: Etherplan
+  title: "The Etherplan Consensus Engine Dapp Explained"
+  tags: ["teams", "education"]
+-
+  date: 2021-02-03
+  link: https://etherplan.com/2021/02/03/proposal-for-ethereum-classic-to-use-the-etherplan-consensus-engine/15362/
+  author: Donald McIntyre
+  source: Etherplan
+  title: "Proposal for Ethereum Classic to Use The Etherplan Consensus Engine"
+  tags: ["teams", "education"]
+-
+  date: 2021-02-02
+  link: https://etherplan.com/2021/02/02/the-etherplan-consensus-engine/14989/
+  author: Donald McIntyre
+  source: Etherplan
+  title: "The Etherplan Consensus Engine"
+  tags: ["teams", "education"]
+-
+  date: 2021-01-09
+  link: https://etherplan.com/2021/01/09/the-logic-of-culture/14929/
+  author: Donald McIntyre
+  source: Etherplan
+  title: "The Logic of Culture"
+  tags: ["education"]
 -
   date: 2020-12-16
   link: https://youtu.be/zX9YXPA-0ok
