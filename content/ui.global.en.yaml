@@ -30,8 +30,9 @@ continueReading: Continue Reading
 ## pop up
 warning:
   enabled: true
-  title: "Urgent: Update ETC Clients"
-  description: "Please update your ETC clients to the newest release, critical bugs have been indentified and patched. The client software will be compatible with the Thanos upgrade (ECIP 1099) scheduled for block 11_700_000 in December 2020."
+  type: notice
+  title: "Update ETC Clients"
+  description: "Make sure your ETC clients are in the newest release. The new clients are compatible with the latest Thanos upgrade (ECIP 1099) performed on block 11_700_000 in December 2020."
   button:
     link: /development/clients
     text: Update Clients

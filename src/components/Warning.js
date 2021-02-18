@@ -14,8 +14,8 @@ const Warning = ({ i18n }) => {
     setTimeout(() => setShowing(true), 1000 * 2);
   }, []);
   return (
-    <div className={`warning-container ${!showing ? 'hidden' : ''}`}>
-      <div className="warning-overlay dark">
+    <div className={`${!i18n.type ? 'warning' : i18n.type}-container ${!showing ? 'hidden' : ''}`}>
+      <div className={`${!i18n.type ? 'warning' : i18n.type}-overlay dark`}>
         <div className="close-button" onClick={() => setShowing(false)} role="button">
           <i className="fa fa-times" />
         </div>
