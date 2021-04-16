@@ -189,6 +189,10 @@ content:
         link: https://jaxx.io/
         name: Jaxx Liberty
       -
+        key: Mantis Wallet
+        link: https://mantisclient.io/#wallet
+        name: Mantis Wallet
+      -
         key: Midas Protocol
         link: https://midasprotocol.io/
         name: Midas Protocol
