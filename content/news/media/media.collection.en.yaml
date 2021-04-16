@@ -1,4 +1,4 @@
--
+-  
   date: 2021-03-15
   link: https://youtu.be/wUjtRvj83SI
   author: Tim Harrison, David Rosales,Dominic Zakowski
@@ -19,6 +19,13 @@
   source: Etherplan
   title: "The Ethereum Classic SHA 3 Coalition and Upgrade With Alex Tsankov"
   tags: ["teams", "development", "media"]
+-
+  date: 2021-02-19
+  link: https://etccooperative.org/ETC-Cooperative-Retrospective-2020.pdf
+  author: Ethereum Classic Cooperative
+  source: Ethereum Classic Cooperative
+  title: "ETC Cooperative - 2020 Retrospective"
+  tags: ["teams", "media"]
 -
   date: 2021-02-15
   link: https://youtu.be/NzrMhR9S4Pc
