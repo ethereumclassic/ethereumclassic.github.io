@@ -41,19 +41,11 @@ teams:
 regions:
   title: Regions
   items:
-    -
-      key: Asia
-      link: http://ethereumclassicasia.org/
-      name: Asia
-    -
+      -
       key: China
       link: http://ethereumclassic.cn/
       name: China
-    -
-      key: Korea
-      link: https://www.ethereumclassickorea.com/
-      name: Korea
-social:
+   social:
   title: Social
   items:
     -
