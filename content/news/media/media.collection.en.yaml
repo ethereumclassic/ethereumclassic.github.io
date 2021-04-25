@@ -1,10 +1,37 @@
 -  
+  date: 2021-04-22
+  link: https://youtu.be/Cnhle3zmbpY
+  author: David Rosales, Dominic ZaJkowski, Jaap van der Plas, ALex Stojanovic
+  source: Input Output Hong Kong
+  title: "Ethereum Classic - Mantis: IOHK Development Update - April 2021"
+  tags: ["announcement", "teams", "development", "media"]
+-  
+  date: 2021-04-19
+  link: https://etherplan.com/2021/04/19/ethereum-classic-history-and-recovery/15700/
+  author: Donald McIntyre
+  source: Etherplan
+  title: "Ethereum Classic History and Recovery"
+  tags: ["education", "media"]
+-  
   date: 2021-03-15
   link: https://youtu.be/wUjtRvj83SI
-  author: Tim Harrison, David Rosales,Dominic Zakowski
+  author: Tim Harrison, David Rosales, Dominic Zajkowski
   source: Input Output Hong Kong
   title: "Ethereum Classic - Mantis: IOHK Development Update #11 - March 2021"
   tags: ["announcement", "teams", "development", "media"]
+-  
+  date: 2021-03-02
+  link: https://etherplan.com/2021/03/02/how-to-connect-metamask-to-ethereum-classic/15512/
+  author: Donald McIntyre
+  source: Etherplan
+  title: "How to Connect MetaMask to Ethereum Classic"
+  tags: ["education", "media"]
+-  
+  date: 2021-03-01
+  link: https://etherplan.com/2021/03/01/ethereum-classic-parametric-insurance/15500/
+  author: Donald McIntyre
+  source: Etherplan
+  tags: ["education", "media"]
 -  
   date: 2021-02-26
   link: https://medium.com/etccooperative/etc-weekly-9-mantis-update-saturn-protocol-v2-magneto-etc-hard-fork-keccak-256-846259e75295
@@ -18,7 +45,7 @@
   author: Donald McIntyre
   source: Etherplan
   title: "The Ethereum Classic SHA 3 Coalition and Upgrade With Alex Tsankov"
-  tags: ["teams", "development", "media"]
+  tags: ["development", "media"]
 -
   date: 2021-02-19
   link: https://etccooperative.org/ETC-Cooperative-Retrospective-2020.pdf
@@ -29,7 +56,7 @@
 -
   date: 2021-02-15
   link: https://youtu.be/NzrMhR9S4Pc
-  author: Tim Harrison, David Rosales,Dominic Zakowski
+  author: Tim Harrison, David Rosales,Dominic Zajkowski
   source: Input Output Hong Kong
   title: "Ethereum Classic - Mantis: IOHK Weekly Development Update #10 - February 2021"
   tags: ["announcement", "teams", "development", "media"]
