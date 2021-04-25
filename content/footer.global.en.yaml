@@ -41,11 +41,11 @@ teams:
 regions:
   title: Regions
   items:
-      -
+    -
       key: China
       link: http://ethereumclassic.cn/
       name: China
-   social:
+ social:
   title: Social
   items:
     -
