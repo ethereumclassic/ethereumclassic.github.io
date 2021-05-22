@@ -151,5 +151,5 @@ items:
     text: "Ethereum Classic's Thanos upgrade releases to mainnet. Etchash is the modified dagger hashimoto used by Ethereum Classic. It is comparable in it's behaviour to Ethereum Foundation's Ethash but allows for a long-term viability of GPU-Mining with cards that have low memory (3gb, 4gb, 6gb) available. https://github.com/eth-classic/etchash"
   - 
     date: 2021
-    key: "Treasury, Keccak256, Checkpointing, Discussions"
+    key: "Treasury, Keccak256, Checkpointing, Veriblock, Bitcoin-merged-Mining Discussions"
     text: "With the long-term capture of healthy, decentralized hashrate via the Thanos update, the risk of 51% attacks is mitigated. The ETC participants shifts focus on network adoption. The development and mining communities engage in a thoughtful discussions about Ethereum Classic's risk to self-sovereignty via the development wing of the project. Various proposals are drafted by teams and discussed in the ecosystem while the Ethereum Classic project moves into 2021."
