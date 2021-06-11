@@ -31,8 +31,8 @@ continueReading: Continue Reading
 warning:
   enabled: true
   type: notice
-  title: "Update ETC Clients"
-  description: "Make sure your ETC clients are in the newest release. The new clients are compatible with the latest Thanos upgrade (ECIP 1099) performed on block 11_700_000 in December 2020."
+  title: "Note"
+  description: "The network will undergo an Magneto-upgrade around 21th of July 2021. More to read on https://ecips.ethereumclassic.org/ECIPs/ecip-1103"
   button:
     link: /development/clients
-    text: Update Clients
+    text: Upgrade Clients
