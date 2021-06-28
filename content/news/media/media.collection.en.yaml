@@ -1,4 +1,25 @@
 -  
+  date: 2021-06-18
+  link: https://youtu.be/Han8aVqSGzs
+  author: David Rosales, Stevan Lohja, Krysztof Paliga
+  source: Input Output Hong Kong
+  title: "Ethereum Classic - Mantis: IOHK Development Update - June 2021"
+  tags: ["announcement", "teams", "development", "media"]
+-  
+  date: 2021-06-11
+  link: https://medium.com/@stevan.blog/ethereum-classic-magneto-upgrade-announcement-aa48d9606b71
+  author: Stevan Lohja
+  source: Medium
+  title: "Ethereum Classic Magneto Upgrade Announcement"
+  tags: ["announcement","development","media","hardfork"]
+-  
+  date: 2021-06-04
+  link: https://youtu.be/Wj_hXI8wMh4
+  author: Selorm Dzaka
+  source: Patient Money
+  title: "Ethereum Classic SHA3 Implementation update with Alex Tsankov"
+  tags: ["education", "development", "media", "hardfork"]
+-  
   date: 2021-05-21
   link: https://github.com/ethereumclassic/ECIPs/issues/424
   author: Afr Schoe
@@ -10,7 +31,7 @@
   link: https://youtu.be/AoFfEXual5s
   author: Selorm Dzaka
   source: Patient Money
-  title: "Ethereum Classic ETC history"
+  title: "Ethereum Classic ETC history with Donald McIntyre"
   tags: ["education","development", "media"]
 -  
   date: 2021-05-12
@@ -29,7 +50,7 @@
 -  
   date: 2021-04-22
   link: https://youtu.be/Cnhle3zmbpY
-  author: David Rosales, Dominic ZaJkowski, Jaap van der Plas, ALex Stojanovic
+  author: David Rosales, Dominic ZaJkowski, Jaap van der Plas, Alex Stojanovic
   source: Input Output Hong Kong
   title: "Ethereum Classic - Mantis: IOHK Development Update - April 2021"
   tags: ["announcement", "teams", "development", "media"]
