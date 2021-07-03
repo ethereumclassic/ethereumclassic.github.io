@@ -7,9 +7,9 @@ teams:
       link: https://etcconsortium.org/
       name: ETC Consortium
     -
-      key: IOHK
-      link: https://iohk.io/projects/ethereum-classic/
-      name: IOHK
+      key: IOHK Mantis
+      link: https://mantisclient.io/
+      name: IOHK Mantis
     -
       key: ETC Cooperative
       link: https://etccooperative.org/
