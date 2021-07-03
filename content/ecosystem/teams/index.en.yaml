@@ -56,10 +56,10 @@ content:
         github: https://github.com/ETCDEVTeam/
       - key: Grothendieck
         year: 2016
-        name: IOHK (Grothendieck)
+        name: IOHK Mantis
         active: true
-        link: https://iohk.io/projects/ethereum-classic/
-        twitter: https://twitter.com/InputOutputHK
+        link: https://mantisclient.io/
+        twitter: https://twitter.com/Mantis_IO
         github: https://github.com/input-output-hk/mantis
       - key: ETC Cooperative
         year: 2017
