@@ -65,7 +65,7 @@ If you're not familiar with GitHub and all of this is too complicated, then you 
 
 ### Contribute Translations
 
-Ethereum Classic is a global, decentralized project. We need translators for every language. If you'd like to contribute content translations to the project, please join the [discord #dev-website](https://discord.gg/JnmAqGS5sT) channel.
+Ethereum Classic is a global, decentralized project. We need translators for every language. If you'd like to contribute content translations to the project, please join the [discord #ethereumclassicwebsite](https://discord.gg/DwQjJ8) channel.
 
 ## Deployment
 
