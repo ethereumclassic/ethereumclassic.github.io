@@ -4,12 +4,15 @@
   margin-bottom: $smallPadding;
 
   .items {
-    background: _palette(grey-10);
+    @include themify() {
+      background: _themed(grey-10);
+    }
+
     white-space: nowrap;
     overflow-x: auto;
   }
 
-  .scroll-info {
+  .scroll-info .helper {
     opacity: 0.5;
   }
 
@@ -42,7 +45,9 @@
 
     .date,
     .icon {
-      color: _palette(bg);
+      @include themify() {
+        color: _themed(bg);
+      }
     }
 
     .date {
@@ -74,67 +79,73 @@
       }
     }
 
-    .date,
-    .icon,
-    .icon::after {
-      background: _palette(dark-grey-30);
-    }
-
-    &.red {
+    @include themify() {
 
       .date,
       .icon,
       .icon::after {
-        background: _palette(red-col);
+        background: _themed(dark-grey-30);
+        color: _themed(grey-20);
       }
-    }
 
-    &.green {
+      &.red {
 
-      .date,
-      .icon,
-      .icon::after {
-        background: _palette(accent);
-        color: inherit;
+        .date,
+        .icon,
+        .icon::after {
+          background: _themed(red-col);
+          color: _themed(darker-red-col);
+        }
       }
-    }
 
-    &.purple {
+      &.green {
 
-      .date,
-      .icon,
-      .icon::after {
-        background: _palette(purple-col);
+        .date,
+        .icon,
+        .icon::after {
+          background: _themed(green-col);
+          color: _themed(darker-green-col);
+        }
       }
-    }
 
-    &.orange {
+      &.purple {
 
-      .date,
-      .icon,
-      .icon::after {
-        color: inherit;
-        background: _palette(light-orange-col)
+        .date,
+        .icon,
+        .icon::after {
+          background: _themed(purple-col);
+          color: _themed(darker-purple-col);
+        }
       }
-    }
 
-    &.blue {
+      &.orange {
 
-      .date,
-      .icon,
-      .icon::after {
-        color: inherit;
-        background: _palette(blue-col);
+        .date,
+        .icon,
+        .icon::after {
+          background: _themed(light-orange-col);
+          color: _themed(darker-orange-col);
+        }
       }
-    }
 
-    &.white {
+      &.blue {
 
-      .date,
-      .icon,
-      .icon::after {
-        color: inherit;
-        background: _palette(bg);
+        .date,
+        .icon,
+        .icon::after {
+          background: _themed(blue-col);
+          color: _themed(darker-blue-col);
+        }
+      }
+
+      &.white {
+
+        .date,
+        .icon,
+        .icon::after {
+          background: _themed(white-col);
+          color: _themed(black-col);
+        }
       }
     }
 

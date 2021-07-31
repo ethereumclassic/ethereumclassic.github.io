@@ -21,6 +21,11 @@ content:
         link: https://vbstreetz.github.io/signatory-client/
         description: Video Demo describes Signatory Client - a Do It Yourself hardware wallet that can be installed on a single-board computer, like Raspberry PI.
       - 
+        key: Besu Client Setup Guide
+        name: Besu Client Setup Guide
+        link: https://youtu.be/b1NJQkexJ2c
+        description: Get started using Hyperledger Besu.
+      - 
         key: Raspberry Pi Node Setup Guide
         name: Raspberry Pi Node Setup Guide
         link: https://core-geth.org/setup-on-raspberry-pi
@@ -121,6 +126,11 @@ content:
         link: https://core-geth.org/contribute-to-mordor-testnet
         description: This guide will teach you how to mine testnet ETC and run your own local block explorer with Expedition. Kotti is the recommended testnet for dapp developers. Mordor is recommended for protocol level testing. 
       - 
+        key: Migrate to Hyperledger Besu - Switch from OpenEthereum or Multi-Geth
+        name: Migrate to Hyperledger Besu - Switch from OpenEthereum or Multi-Geth
+        link: https://medium.com/etccooperative/migrate-to-hyperledger-besu-8867e5ad37f8
+        description: This guide should help you with the migration from the OpenEthereum or the Multi-Geth clients to Hyperledger Besu client.
+      - 
         key: Ethereum Classic on Raspberry Pi
         name: Ethereum Classic on Raspberry Pi
         link: https://medium.com/ethereum-classic/ethereum-classic-on-raspberry-pi-a3be200cdca0
@@ -155,6 +165,11 @@ content:
         name: Deployment Automation for Goerli testnet in 10 minutes
         link: https://medium.com/chainsafe-systems/deployment-automation-for-goerli-testnet-in-10-minutes-5212cef5542a
         description: A short tutorial to quickly deploy the new Goerli Proof-of-Authority cross-client test network. This guide can be applied to Ethereum Classic's Kotti testnet.
+      -
+        key: Monitoring in PegaSys Plus
+        name: Monitoring in PegaSys Plus
+        link: https://www.youtube.com/watch?v=7BuutRe0I28
+        description: A short tutorial to setup a network monitoring dashboard by PegaSys.
       -
         key: Using OpenRPC Mock Server to test against an Ethereum JSON-RPC API
         name: Using OpenRPC Mock Server to test against an Ethereum JSON-RPC API
@@ -225,4 +240,4 @@ content:
       key: /blog/2017-02-10-hashes/
       name: "Hashes: An Introduction And Why They Are Foundational To The Internet And Blockchains"
       link: /blog/2017-02-10-hashes/
-      description: The phrase 'one-way hash function' might sound arcane and geeky, but hash functions are the workhorses of modern cryptography
+      description: The phrase 'one-way hash function' might sound arcane and geeky, but hash functions are the workhorses of modern cryptography.

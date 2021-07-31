@@ -12,12 +12,17 @@
 .news-tags {
   .tags {
     margin-top: $tinyPadding;
-  }
-
-  .hidden {
     visibility: hidden;
     height: 0;
   }
+
+  &:focus-within {
+    .tags {
+      visibility: visible;
+      height: auto;
+    }
+  }
+
 }
 
 #wrapper .news-item {

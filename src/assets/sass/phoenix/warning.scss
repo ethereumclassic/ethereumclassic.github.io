@@ -1,7 +1,7 @@
 .warning-container {
   position: fixed;
   width: 100%;
-  z-index: 20;
+  z-index: 3;
   transition: opacity .5s ease-in-out;
   pointer-events: none;
 
@@ -17,7 +17,11 @@
   .warning-overlay {
     pointer-events: auto;
     position: relative;
-    background: transparentize(_palette(red-col), 0.10);
+
+    @include themify() {
+      background: transparentize(_themed(red-col), 0.10);
+    }
+
     box-shadow: $hardShadow;
     text-shadow: $textShadow;
     width: 40rem;

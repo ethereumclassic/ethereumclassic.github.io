@@ -1,8 +1,9 @@
 {
   "name": "etc-web-2",
   "description": "Ethereum Classic Website",
-  "author": "Chris Hitchcott + ETC Participants",
+  "author": "ETC Participants",
   "version": "1.0.0",
+  "license": "MIT, CC0",
   "scripts": {
     "build": "GATSBY_TELEMETRY_DISABLED=1 gatsby build",
     "clean": "GATSBY_TELEMETRY_DISABLED=1 gatsby clean",
@@ -12,7 +13,7 @@
     "develop": "SHOW_ALL_LOCALES=1 GATSBY_TELEMETRY_DISABLED=1 gatsby develop",
     "lint": "eslint .",
     "serve-build": "npm run build && npm run serve",
-    "serve": "GATSBY_TELEMETRY_DISABLED=1 gatsby serve",
+    "serve": "GATSBY_TELEMETRY_DISABLED=1 gatsby serve --host=0.0.0.0",
     "start": "npm run develop"
   },
   "dependencies": {
@@ -24,13 +25,14 @@
     "gatsby-plugin-favicon": "^3.1.6",
     "gatsby-plugin-feed": "^2.5.0",
     "gatsby-plugin-layout": "^1.2.4",
+    "gatsby-plugin-lunr": "^1.5.2",
     "gatsby-plugin-mdx": "^1.1.7",
     "gatsby-plugin-react-helmet": "^3.3.0",
     "gatsby-plugin-remove-generator": "^1.0.4",
     "gatsby-plugin-sass": "^2.2.4",
     "gatsby-plugin-sharp": "^2.6.0",
     "gatsby-plugin-sitemap": "^2.4.0",
-    "gatsby-plugin-yaml-i18n": "^0.1.4",
+    "gatsby-plugin-yaml-i18n": "^0.2.1",
     "gatsby-remark-copy-linked-files": "^2.3.1",
     "gatsby-remark-images": "^3.3.0",
     "gatsby-source-filesystem": "^2.2.2",
@@ -48,7 +50,7 @@
     "eslint-config-prettier": "^6.10.1",
     "eslint-import-resolver-alias": "^1.1.2",
     "eslint-plugin-prettier": "^3.1.3",
-    "prompts": "^2.3.2",
-    "prettier": "^1.18.2"
+    "prettier": "^1.18.2",
+    "prompts": "^2.3.2"
   }
 }

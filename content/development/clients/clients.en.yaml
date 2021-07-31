@@ -17,7 +17,7 @@ items:
     key: Core-Geth
     name: Core-Geth
     link: https://core-geth.org/
-    description: Core-Geth is a distribution of go-ethereum with many flavors. For Phoenix upgrade support, please use version v1.11.0 or later. Upgrade considerations, client configurations and APIs between Multi-Geth and Core-Geth might differ in details. This client is supported by the ETC Core team with funding from Ethereum Classic Labs.
+    description: Core-Geth is a distribution of go-ethereum with many flavors. For Thanos upgrade support, please use version v1.11.18 or later. Upgrade considerations, users can use their existing data directories and do not need to resync for migration to Core-Geth from the deprecated Multi-Geth client. This client is Long Term Supported by the ETC Core development team with stable funding from Ethereum Classic Labs. This is a recommended client from a well-known transparent team.
     guide: https://core-geth.org/install
     release: https://github.com/etclabscore/core-geth/releases
     support: https://gitter.im/core-geth/community
@@ -26,26 +26,17 @@ items:
     key: Hyperledger Besu
     name: Hyperledger Besu
     link: https://besu.hyperledger.org/
-    description: Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. For Phoenix upgrade support, please use version 1.4.6-RC2 or later. Upgrade considerations, APIs between ParityEthereum and Besu significantly differ. Mining is not very well supported in Besu. This client is supported by the ChainSafe and ETC Cooperative teams as part of the Hyperledger project with funding from Grayscale's Ethereum Classic Trust.
+    description: Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. For Thanos upgrade support, please use version 20.10.0 or later. Upgrade considerations, APIs between ParityEthereum and Besu significantly differ and mining is not very well supported in Besu at this moment. This client is Long Term Supported by the ChainSafe and ETC Cooperative teams as part of the Hyperledger project with stable funding from Grayscale's Ethereum Classic Trust. This is a recommended client from a well-known transparent team.
     guide: https://besu.hyperledger.org/en/stable/HowTo/Get-Started/Install-Binaries/
     release: https://github.com/hyperledger/besu/releases
     support: https://chat.hyperledger.org/
     supportIcon: fab fa-rocketchat
   -
-    key: Multi-Geth
-    name: Multi-Geth
-    link: https://github.com/multi-geth
-    description: A swiss army knife distribution of go-ethereum, with support for many species of Ethereum networks. For Phoenix upgrade support, please use version v1.9.14 or later. Upgrade considerations, a majority of the Multi-Geth maintainers forked to the Core-Geth client. This client is community maintained and supported by the Core Paper and Gödel Labs teams.
-    guide: https://github.com/multi-geth/multi-geth/
-    release: https://github.com/multi-geth/multi-geth/releases
-    support: https://gitter.im/multi-geth/community
-    supportIcon: fab fa-gitter
-  -
-    key: OpenEthereum
-    name: OpenEthereum
-    link: https://github.com/openethereum
-    description: Fast and feature-rich multi-network Ethereum client. For Phoenix upgrade support, please use version v3.0.1 or later. Upgrade considerations, ParityEthereum is no longer being maintained by Parity Technologies and was handed over to Gnosis as the OpenEthereum project. This client is supported by the Gnosis team with funding from the Ethereum Foundation.
-    guide: https://github.com/openethereum/openethereum
-    release: https://github.com/openethereum/openethereum/releases
-    support: http://discord.io/openethereum
-    supportIcon: fab fa-discord
+    key: Mantis
+    name: Mantis
+    link: https://mantisclient.io/
+    description: Mantis is a fully featured client and wallet UI, developed from the ground up and written in Scala for the Ethereum Classic network (ETC). Created by IOHK to add robustness and variety to the ETC's client share, it includes optimizations and network upgrades that improve network security, sustainability, and performance in the long term. For Thanos upgrade support, please use version 3.2.1 or later. Upgrade considerations, Mantis should be considered as Beta software with the December 9 2020 relaunch. This client is Long Term Supported by the Grothendieck team with stable funding from Input Output Global. This is a recommended client from a well-known transparent team.
+    guide: https://docs.mantisclient.io/install/install-client
+    release: https://github.com/input-output-hk/mantis/releases
+    support: https://docs.mantisclient.io/resources/faq
+    supportIcon: fab fa-github

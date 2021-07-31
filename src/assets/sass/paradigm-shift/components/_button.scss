@@ -20,8 +20,10 @@
 		background-color: transparent;
 		border-radius: _size(border-radius);
 		border: 0;
-		box-shadow: inset 0 0 0 2px _palette(border);
-		color: _palette(fg-bold) !important;
+		@include themify() {
+			box-shadow: inset 0 0 0 2px _themed(border);
+			color: _themed(fg-bold) !important;
+		}
 		cursor: pointer;
 		display: inline-block;
 		font-family: _font(family-heading);
@@ -37,14 +39,18 @@
 		white-space: nowrap;
 
 		&:hover {
-			box-shadow: inset 0 0 0 2px _palette(accent-alt);
-			color: _palette(accent-alt) !important;
+			@include themify() {
+				box-shadow: inset 0 0 0 2px _themed(accent-alt);
+				color: _themed(accent-alt) !important;
+			}
 		}
 
 		&:active {
-			background-color: _palette(accent-bg);
-			box-shadow: inset 0 0 0 2px _palette(accent-alt);
-			color: _palette(accent-alt) !important;
+			@include themify() {
+				background-color: _themed(accent-bg);
+				box-shadow: inset 0 0 0 2px _themed(accent-alt);
+				color: _themed(accent-alt) !important;
+			}
 		}
 
 		&.small {
@@ -82,16 +88,18 @@
 		}
 
 		&.primary {
-			background-color: _palette(accent);
 			box-shadow: none;
-			color: _palette(fg-bold) !important;
+			@include themify() {
+				background-color: _themed(accent);
+				color: _themed(fg-bold) !important;
 
-			&:hover {
-				background-color: saturate(lighten(_palette(accent), 15), 10);
-			}
+				&:hover {
+					background-color: saturate(lighten(_themed(accent), 15), 10);
+				}
 
-			&:active {
-				background-color: desaturate(darken(_palette(accent), 3), 10);
+				&:active {
+					background-color: desaturate(darken(_themed(accent), 3), 10);
+				}
 			}
 		}
 

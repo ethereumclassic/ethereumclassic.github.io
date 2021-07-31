@@ -3,6 +3,8 @@ const image = '/etc-social-card.png';
 
 const rssFeeds = require('./rss-feeds')({ siteUrl, image });
 
+const search = require('./search');
+
 module.exports = {
   siteMetadata: {
     siteUrl,
@@ -75,6 +77,10 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-feed',
       options: rssFeeds
+    },
+    {
+      resolve: 'gatsby-plugin-lunr',
+      options: search
     }
   ]
 };

@@ -16,7 +16,7 @@ Ref [ECIP-1056](https://ecips.ethereumclassic.org/ECIPs/ecip-1056) [#75](https:/
 ## ETC Core Devs Call - Agharta Final Finalization
 
 * When: Thursday, December 12, 2019, 1pm UTC, 60 minutes max.
-* Where: Ethereum Classic [Discord](https://discord.gg/dwxb6nf) `#ecips` channel. Will use/create a voice channel *ad hoc*.
+* Where: Ethereum Classic [Discord](https://discord.gg/hQs894U) `#ecips` channel. Will use/create a voice channel *ad hoc*.
 
 ## Agenda
 

@@ -4,9 +4,9 @@ title: Network Monitors
 description: Network monitors provide insights into the network's health like providing analysis on miners, nodes, network performance, user activity. Additionally, these tools alert to network attacks like a 51% attack.
 items:
   -
-    key: PhoenixUpgrade
-    name: Phoenix Hard Fork Countdown
-    etc: https://etcnodes.org/phoenix
+    key: ThanosUpgrade
+    name: Thanos Hard Fork Monitor
+    etc: https://etcnodes.org/thanos
   -
     key: 2Miners
     name: 2Miners
@@ -24,24 +24,23 @@ items:
     name: Emerald Insights
     etc: https://insights.emeraldpay.io/
   -
+    key: ETCNetStats
+    name: ETC Net Stats
+    etc: https://etcnetstats.com/
+  -
     key: ETCNodes
     name: ETCNodes
     etc: https://etcnodes.org/
-    kotti: https://kotti.etcnodes.org/
-  -
-    key: ETCStatus Phoenix HardFork
-    name: ETCStatus Phoenix HardFork
-    etc:  https://phoenix.fault.dev/
-  -
-    key: ETCStatus Phoenix HardFork (connection of different set of nodes)
-    name: ETCStatus Phoenix HardFork (connection of different set of nodes)
-    etc: https://ph03n1x.fault.dev/   
   -
     key: Expedition
     name: Expedition
     etc: https://expedition.dev/?network=mainnet
     kotti: https://expedition.dev/?network=kotti
     mordor: https://expedition.dev/?network=mordor
+  -
+    key: ForkWatch
+    name: Fork Watch
+    etc: https://www.forkwatch.io/
   -
     key: MiningPoolStats
     name: MiningPoolStats
@@ -51,6 +50,10 @@ items:
     name: Nanopool
     etc: https://etc.nanopool.org/stats
   -
+    key: PoolDetective
+    name: Pool Detective
+    etc: https://pooldetective.org/
+  -
     key: TokenView
     name: TokenView
     etc: https://etc.tokenview.com/en/charts
@@ -58,10 +61,6 @@ items:
     key: WhatToMine
     name: WhatToMine
     etc: https://whattomine.com/coins/162-etc-ethash
-  -
-    key: Astor Stats
-    name: Astor Stats
-    astor: https://stats.astor.host/
   -
     key: Kotti Stats
     name: Kotti Stats

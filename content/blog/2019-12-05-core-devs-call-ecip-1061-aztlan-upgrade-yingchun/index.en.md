@@ -12,7 +12,7 @@ tags: ["announcement", "development", "education", "teams", "hardfork"]
 ## ETC Core Devs Call - Confirm consensus for Aztlán Upgrade (Yingchun Edition)
 
 * When: Thursday, December 5, 2019, 1pm UTC, 60 minutes max.
-* Where: Ethereum Classic [Discord](https://discord.gg/dwxb6nf) `#ecips` channel. Will use/create a voice channel *ad hoc*.
+* Where: Ethereum Classic [Discord](https://discord.gg/hQs894U) `#ecips` channel. Will use/create a voice channel *ad hoc*.
 
 Meeting Coordinator: @developerkevin.
 

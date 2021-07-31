@@ -88,3 +88,7 @@ Issues and pull requests are welcome. You can also get an overview of issues on 
 ## Old Version
 
 An archived version of the old website can be found at https://github.com/ethereumclassic/ethereumclassic.github.io-v1
+
+## Licenses
+
+Unless otherwise specificed, the content within this repository is CC0 (public domain). Code is MIT.

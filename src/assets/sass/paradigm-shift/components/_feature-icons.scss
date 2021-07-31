@@ -24,11 +24,13 @@
 			width: 50%;
 
 			&:before {
-				background-image: svg-url('<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 512 512"><path d="M256,0l221.7,128v256L256,512L34.3,384V128L256,0z" fill="#{_palette(border-bg)}" /></svg>');
+				@include themify() {
+					background-image: svg-url('<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 512 512"><path d="M256,0l221.7,128v256L256,512L34.3,384V128L256,0z" fill="#{_themed(border-bg)}" /></svg>');
+					color: _themed(fg-bold);
+				}
 				background-position: center;
 				background-repeat: no-repeat;
 				background-size: contain;
-				color: _palette(fg-bold);
 				display: block;
 				font-size: 1.25rem;
 				height: 3.25rem;
