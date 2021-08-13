@@ -209,6 +209,10 @@ content:
         link: https://trustwallet.com/
         name: Trust Wallet
       -
+        key: Trustee Wallet
+        link: https://trusteeglobal.com/
+        name: Trustee Wallet
+      -
         key: Zelcore Wallet
         link: https://zel.network/project/zelcore/
         name: Zelcore Wallet
