@@ -35,7 +35,7 @@ items:
     key: Mantis
     name: Mantis
     link: https://mantisclient.io/
-    description: Mantis is a fully featured client and wallet UI, developed from the ground up and written in Scala for the Ethereum Classic network (ETC). Created by IOHK to add robustness and variety to the ETC's client share, it includes optimizations and network upgrades that improve network security, sustainability, and performance in the long term. For Thanos upgrade support, please use version 3.2.1 or later. Upgrade considerations, Mantis should be considered as Beta software with the December 9 2020 relaunch. This client is Long Term Supported by the Grothendieck team with stable funding from Input Output Global. This is a recommended client from a well-known transparent team.
+    description: Mantis will be a fully featured client and wallet UI, developed from the ground up and written in Scala for the Ethereum Classic network (ETC). Created by IOHK to add robustness and variety to the ETC's client share, it includes optimizations and network upgrades that improve network security, sustainability, and performance in the long term. Mantis should be considered as Beta software and is not compatible with mainnet or any testnet besides Sagano.
     guide: https://docs.mantisclient.io/install/install-client
     release: https://github.com/input-output-hk/mantis/releases
     support: https://docs.mantisclient.io/resources/faq
