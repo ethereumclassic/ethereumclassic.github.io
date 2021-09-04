@@ -32,7 +32,7 @@ warning:
   enabled: true
   type: notice
   title: "Note"
-  description: "The network will undergo an Magneto-upgrade around 21th of July 2021. More to read on https://ecips.ethereumclassic.org/ECIPs/ecip-1103"
+  description: "Please update your CoreGeth client to the v1.12.1. The Geth exploit, that split the Ethereum mainnet, now splits the Ethereum Classic mainnet. It is only specific to CoreGeth. More on: https://medium.com/@stevan.blog/ethereum-classic-chain-split-announcement-sept-03-2021-e5168e752305"
   button:
     link: /development/clients
-    text: Upgrade Clients
+    text: Update Client
