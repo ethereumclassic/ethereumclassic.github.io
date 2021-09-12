@@ -6,6 +6,20 @@
   title: "Ethereum Classic Chain Split Announcement — Sept 03 2021"
   tags: ["announcement","development", "mining"]
 -  
+  date: 2021-09-04
+  link: https://www.ethereumclassicclassic.org/
+  author: hitchcott
+  source: self-created website
+  title: "Let's keep Ethereum Classic Classic"
+  tags: ["education"]
+-  
+  date: 2021-08-22
+  link: https://youtu.be/qHJY5kK_Nbo
+  author: Antoine Toulme
+  source: Youtube
+  title: "ETC Core Devs Call 18"
+  tags: ["announcement", "teams", "development", "media"]
+-  
   date: 2021-06-18
   link: https://youtu.be/Han8aVqSGzs
   author: David Rosales, Stevan Lohja, Krysztof Paliga
@@ -31,7 +45,7 @@
   link: https://github.com/ethereumclassic/ECIPs/issues/424
   author: Afr Schoe
   source: Github
-  title: "ETC Core Call 17: Magneto Upgrade"
+  title: "ETC Cor: Magneto Upgrade"
   tags: ["teams", "development"]
 -  
   date: 2021-05-17
