@@ -95,6 +95,11 @@ content:
       name: Hyperledger Besu
       brand: rocketchat
     -
+      key: Mantis Client & Wallet
+      link: https://discord.gg/r65wH2E3
+      name: Mantis
+      brand: discord
+    -
       key: Multi-Geth dev deprecated
       link: https://gitter.im/multi-geth/community
       name: Multi-Geth (deprecated)
