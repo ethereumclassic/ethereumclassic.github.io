@@ -57,7 +57,8 @@ content:
       - key: Grothendieck
         year: 2016
         name: IOHK Mantis
-        active: true
+        className: faded
+        active: false
         link: https://mantisclient.io/
         twitter: https://twitter.com/Mantis_IO
         github: https://github.com/input-output-hk/mantis
