@@ -1,11 +1,4 @@
 -  
-  date: 2021-09-24
-  link: hhttps://github.com/ethereumclassic/ECIPs/issues/441
-  author: Antoine Toulme
-  source: github
-  title: "ETC Core Devs Call 19 - media recording(s) see in the comment(s)"
-  tags: ["announcement", "teams", "development", "media"]
--  
   date: 2021-09-23
   link: https://etccooperative.org/posts/2019-09-23-july-august-board-package/
   author: ETC Cooperative
@@ -49,6 +42,13 @@
   tags: ["education"]
 -  
   date: 2021-08-22
+  link: hhttps://github.com/ethereumclassic/ECIPs/issues/441
+  author: Antoine Toulme
+  source: github
+  title: "ETC Core Devs Call 19 - media recording(s) see in the comment(s)"
+  tags: ["announcement", "teams", "development", "media"]
+-  
+  date: 2021-08-11
   link: https://github.com/ethereumclassic/ECIPs/issues/434
   author: Antoine Toulme
   source: github
