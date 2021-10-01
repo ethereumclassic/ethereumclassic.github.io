@@ -1,10 +1,31 @@
 -  
+  date: 2021-09-23
+  link: https://etccooperative.org/posts/2019-09-23-july-august-board-package/
+  author: ETC Cooperative
+  source: ETC Cooperative
+  title: "ETC Cooperative July/August Board Package"
+  tags: ["announcement", "development", "teams"]
+-  
   date: 2021-09-22
   link: https://medium.com/@karabhai/etcpunks-the-cryptopunks-of-ethereum-classic-c6ef510f5a6a
   author: Kara Bhai
   source: Medium
   title: "ETCPunks: The First NFTs on Ethereum Classic"
-  tags: ["announcement", "development"]
+  tags: ["announcement", "development", "applications"]
+-  
+  date: 2021-09-20
+  link: https://etccooperative.org/posts/2021-09-20-withdraws-support-for-ecip-1098/
+  author: ETC Cooperative
+  source: ETC Cooperative
+  title: "ETC Cooperative withdraws support for ECIP-1098"
+  tags: ["announcement", "development", "teams"]
+-  
+  date: 2021-09-08
+  link: https://etccooperative.org/posts/2021-09-08-welcome-diego/
+  author: ETC Cooperative
+  source: ETC Cooperative
+  title: "Welcome, Diego López León!"
+  tags: ["announcement", "development", "teams"]
 -  
   date: 2021-09-04
   link: https://medium.com/@stevan.blog/ethereum-classic-chain-split-announcement-sept-03-2021-e5168e752305
