@@ -15,12 +15,6 @@ items:
   text: ETCPunks are inspired collectibles, the first NFT porject on Ethereum Classic! Only 10,000 made, all with unique features. Collect them, buy one as a gift for someone or trade them on the marketplace!
   type: nft
 - 
-  key: Arena Racing
-  name: Arena Racing
-  link: https://arena.highlander.network/
-  text: Up to 5 players enter the stage to race to the finish. Every player pays 0.1 ETC to race. 1 player in the Arena loses the race but receives dividends from P3C which is bought every round and is locked up in the contract.
-  type: game
-- 
   key: Aqua Bank
   name: Aqua Bank
   type: game
@@ -32,18 +26,6 @@ items:
   type: game
   link: https://commonwealth.gg/tribes.html
   text: The purpose of Tribes is to reduce risk in investing in Commonwealth. Invest as a tribe!
-- 
-  key: ETCOdyssey
-  name: ETCOdyssey
-  link: https://etcodyssey.com/
-  text: Upgrade your ships to avoid raiders looking to steal your Dark Matter & Star Dust. Fuse in game StarDust for a percentage of the pot or convert your StarDust for ONEX Network tokens sent with 1 transaction to your wallet.
-  type: game
-- 
-  key: Luckygames
-  name: Luckygames
-  link: https://luckygames.io/
-  text: Ethereum Classic Dice and Gambling site.
-  type: game
 -
   key: OriginalMy
   name: OriginalMy
@@ -99,22 +81,10 @@ items:
   text: Crowdfunding and Freelance Developers for Open Source Software Projects.
   type: finance
 - 
-  key: ONEX Network
-  name: ONEX Network
-  link: https://onex.network/
-  text: Proof-of-Stake Token on Ethereum Classic Network. This is an alternative method to the more widely known process used by bitcoin; Proof of Work (POW).
-  type: finance
-- 
   key: Cryptwerk
   name: Cryptwerk
   link: https://cryptwerk.com/pay-with/etc/
   text: Pay with Ethereum Classic. Companies and stores accepting ETC. Spend your crypto.
-  type: other
-- 
-  key: Dapp Direct
-  name: Dapp Direct
-  link: https://dappdirect.net/
-  text: Live stats and rankings of ETC applications.
   type: other
 - 
   key: Grayscale® Ethereum Classic Trust
