@@ -220,6 +220,10 @@
   name: uuPool
   link: https://uupool.cn/etc/
 - 
+  key: ua-mining
+  name: ua-mining
+  link: https://etc.ua-mining.com
+- 
   key: ViaBTC
   name: ViaBTC
   link: https://www.viabtc.com/
