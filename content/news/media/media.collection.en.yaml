@@ -42,10 +42,17 @@
   tags: ["education"]
 -  
   date: 2021-08-22
-  link: https://youtu.be/qHJY5kK_Nbo
+  link: https://github.com/ethereumclassic/ECIPs/issues/441
   author: Antoine Toulme
-  source: Youtube
-  title: "ETC Core Devs Call 18"
+  source: github
+  title: "ETC Core Devs Call 19 - media recording(s) see in the comment(s)"
+  tags: ["announcement", "teams", "development", "media"]
+-  
+  date: 2021-08-11
+  link: https://github.com/ethereumclassic/ECIPs/issues/434
+  author: Antoine Toulme
+  source: github
+  title: "ETC Core Devs Call 18 - media recording(s) see in the comment(s)"
   tags: ["announcement", "teams", "development", "media"]
 -  
   date: 2021-06-18
