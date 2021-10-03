@@ -216,6 +216,10 @@
   name: Start Mining
   link: https://startmining.pl
 - 
+  key: ua-mining
+  name: ua-mining
+  link: https://etc.ua-mining.com
+- 
   key: uuPool
   name: uuPool
   link: https://uupool.cn/etc/
