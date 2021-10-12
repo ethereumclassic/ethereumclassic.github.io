@@ -35,7 +35,7 @@ items:
     key: Mantis
     name: Mantis
     link: https://mantisclient.io/
-    description: Mantis comes in two versions, a fully-featured client and a desktop wallet. Mantis has been developed from the ground up and written in Scala for the Ethereum Classic (ETC) network. Created by IOHK to add robustness and variety to the ETC client range, Mantis includes optimizations and upgrades that improve network security, sustainability, and performance in the long term.
+    description: Mantis comes in two versions, a fully-featured client and a desktop wallet. Mantis has been developed from the ground up and written in Scala for the Ethereum Classic (ETC) network. Created by IOHK to add robustness and variety to the ETC client range, Mantis includes optimizations and upgrades that improve network security, sustainability, and performance in the long term. v3.3.0 is the last Mantis release supported by IOHK which implements the Magneto hard-fork as per ECIP-1103.
     guide: https://docs.mantisclient.io/first-steps/getting-started
     release: https://github.com/input-output-hk/mantis/releases
     support: https://docs.mantisclient.io/resources/faq
