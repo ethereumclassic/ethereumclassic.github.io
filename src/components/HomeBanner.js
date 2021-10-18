@@ -40,6 +40,9 @@ const HomeBanner = ({
           */}
           <div className="overlay dark">
             <h3>{news.latestNews}</h3>
+            <small>
+              <Md unwrap>{news.notOfficial}</Md>
+            </small>
             <NewsItems items={items.nodes} className="widen scrolly" />
             <Link to="/news" next button>
               {news.allNews}
