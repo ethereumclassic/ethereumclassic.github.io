@@ -21,10 +21,12 @@ const components = {
 };
 
 export default function Generic({ i18n }) {
-  if (!i18n) {
-    return null;
-  }
-  const content = i18n.content || i18n.contentItems || i18n.items;
+  // if (!i18n) {
+  //   return null;
+  // }
+  const content = i18n.content ||
+    i18n.contentItems ||
+    i18n.items || [{ TODO: i18n }];
   return (
     <>
       <GenericHeader {...i18n} H="h1" />

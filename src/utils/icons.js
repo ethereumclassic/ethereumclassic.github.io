@@ -14,6 +14,8 @@ export const etc = ({ color = "currentColor", ...props }) => (
   </svg>
 );
 
+// TODO use fontawesome for everything...
+
 // use these primarily; https://heroicons.com/
 export {
   MenuIcon as menu,
@@ -24,12 +26,14 @@ export {
   VideoCameraIcon as video,
   ScaleIcon as law,
   UserGroupIcon as users,
-  GlobeIcon as globe,
+  // GlobeIcon as globe,
   CalendarIcon as calendar,
   TagIcon as tag,
   MoonIcon as moon,
   SunIcon as sun,
-} from "@heroicons/react/outline";
+  ChartSquareBarIcon as chart,
+  CursorClickIcon as cursor,
+} from "@heroicons/react/solid";
 
 // for brands, if needed; https://simpleicons.org/
 export {
@@ -42,11 +46,14 @@ export {
 
 // use fontawesome for fallback; https://fontawesome.com/v6.0/icons?s=solid,brands
 export {
-  faUserAstronaut as test,
   faCoffee as coffee,
   faCoins as coins,
   faBolt as lightning,
   faAlignRight as contents,
+  faFan as fan,
+  faNetworkWired as network,
+  faGraduationCap as hat,
+  faGlobeAmericas as globe,
 } from "@fortawesome/free-solid-svg-icons";
 
 // flags, used via locale key; https://github.com/lipis/flag-icons/blob/main/country.json
