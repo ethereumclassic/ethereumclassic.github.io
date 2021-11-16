@@ -1,86 +1,66 @@
-const siteUrl = 'https://ethereumclassic.org';
-const image = '/etc-social-card.png';
+const siteUrl = "https://ethereumclassic.org";
 
-const rssFeeds = require('./rss-feeds')({ siteUrl, image });
-
-const search = require('./search');
+const locales = require("./configs/locales");
 
 module.exports = {
   siteMetadata: {
     siteUrl,
-    image
+    socialImage: "/etc-social-card.png",
   },
   plugins: [
-    'gatsby-transformer-sharp',
-    'gatsby-plugin-sharp',
-    'gatsby-plugin-react-helmet',
-    'gatsby-plugin-sass',
-    'gatsby-plugin-sitemap',
-    'gatsby-plugin-remove-generator',
+    "gatsby-plugin-image",
+    "gatsby-transformer-sharp",
+    "gatsby-plugin-sharp",
+    "gatsby-plugin-react-helmet",
+    "gatsby-plugin-emotion",
+    `gatsby-remark-images`,
     {
-      resolve: 'gatsby-plugin-layout',
-      options: {
-        component: require.resolve('./src/components/LayoutGlobal')
-      }
+      resolve: "gatsby-plugin-sitemap",
+      options: require("./configs/sitemap")({ siteUrl }),
     },
     {
-      resolve: 'gatsby-plugin-favicon',
-      options: {
-        logo: './src/assets/favicon.png'
-      }
+      resolve: "gatsby-plugin-feed",
+      options: require("./configs/rss")({ locales }),
     },
     {
-      resolve: 'gatsby-plugin-mdx',
+      resolve: "gatsby-source-filesystem",
       options: {
-        extensions: ['.mdx', '.md'],
+        name: "images",
+        path: "./src/images/",
+      },
+      __key: "images",
+    },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "content",
+        path: "./content/",
+      },
+      __key: "content",
+    },
+    {
+      resolve: `gatsby-plugin-mdx`,
+      options: {
+        extensions: [".md"],
         gatsbyRemarkPlugins: [
           {
-            resolve: 'gatsby-remark-copy-linked-files'
+            resolve: "gatsby-remark-copy-linked-files",
           },
           {
-            resolve: 'gatsby-remark-images',
+            resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 900,
-              linkImagesToOriginal: true
-            }
-          }
-        ]
-      }
+              maxWidth: 720,
+            },
+          },
+        ],
+      },
     },
     {
-      resolve: 'gatsby-source-filesystem',
+      resolve: "translations-plugin",
       options: {
-        path: `${__dirname}/src/assets/images`,
-        name: 'images'
-      }
+        // TODO
+        locales,
+      },
     },
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        path: `${__dirname}/content`,
-        name: 'yaml-i18n-content'
-      }
-    },
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        path: `${__dirname}/src/templates`,
-        name: 'yaml-i18n-templates'
-      }
-    },
-    {
-      resolve: 'gatsby-plugin-yaml-i18n',
-      options: {
-        locales: ['en']
-      }
-    },
-    {
-      resolve: 'gatsby-plugin-feed',
-      options: rssFeeds
-    },
-    {
-      resolve: 'gatsby-plugin-lunr',
-      options: search
-    }
-  ]
+  ],
 };

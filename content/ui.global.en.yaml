@@ -1,3 +1,4 @@
+# todo clean this file up
 #  This file contains words that are used on every page (such as menu and footer).
 #
 # ## Metadata
@@ -36,3 +37,24 @@ warning:
   button:
     link: /development/clients
     text: Update Client
+socialItems:
+  github:
+    __link: "#"
+    __icon: github
+    name: Github
+  discord:
+    __link: "#"
+    __icon: discord
+    name: Discord
+  telegram:
+    __link: "#"
+    __icon: telegram
+    name: Telegram
+  reddit:
+    __link: "#"
+    __icon: reddit
+    name: Reddit
+  twitter:
+    __link: https://twitter.com/etheruemclassic
+    __icon: twitter
+    name: Twitter

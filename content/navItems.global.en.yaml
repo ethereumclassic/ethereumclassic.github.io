@@ -1,0 +1,175 @@
+learn:
+  __link: /learn
+  name: Learn
+  navItems:
+    why:
+      __link: /learn/why-classic
+      __icon: etc
+      name: Why Classic?
+      description: "ETH vs ETC: An Introduction"
+      navItems:
+        codeIsLaw:
+          __link: /learn/why-classic/code-is-law
+          __icon: law
+          name: Code is Law
+        decentralization:
+          __link: /learn/why-classic/proof-of-work
+          __icon: lightning
+          name: Decentralization
+        noLeaders:
+          __link: /learn/why-classic/no-leaders
+          __icon: users
+          name: Meatspace Capture
+        soundMoney:
+          __link: /learn/why-classic/sound-money
+          __icon: coins
+          name: Sound Money
+        proofOfWork:
+          __link: /learn/why-classic/proof-of-work
+          __icon: lightning
+          name: Proof of Work
+    rational:
+      __link: /learn/rationale
+      __icon: book
+      name: Rationale
+      description: Theory and history
+    resources:
+      __link: /learn/resources
+      __icon: briefcase
+      name: Investor Resource
+      description: Blah blah s, (Include Teams, Roadmap)
+    media:
+      __link: /learn/media
+      __icon: video
+      name: Media
+      description: Podcasts and Videos
+    development:
+      __link: /learn/development
+      __icon: code
+      name: Development
+      description: Clients, Nodes,
+play:
+  __link: /play
+  name: Play
+  navItems:
+    why:
+      __link: /learn/why-classic
+      __icon: test
+      name: Why Classic?
+      description: "ETH vs ETC: An Introduction"
+    rational:
+      __link: /learn/rationale
+      __icon: someIcon
+      name: Rationale
+      description: Theory and history
+    resources:
+      __link: /learn/resources
+      __icon: someIcon
+      name: Investor Resources, (Include Teams, Roadmap)
+      description: Blah blah blah
+    media:
+      __link: /learn/media
+      __icon: someIcon
+      name: Media
+      description: Podcasts and Videos
+    development:
+      __link: /learn/development
+      __icon: someIcon
+      name: Developmenz
+      description: Clients, Nodes,
+news:
+  __link: /news
+  name: News
+extra:
+  __hidden: true
+  name: Extras
+  navItems:
+    news:
+      __link: /news
+      name: News
+    blog:
+      __link: /news/tag/blog
+      name: ETC Blog
+    siteMap:
+      __link: /sitemap
+      name: Site Map
+    rss:
+      __link: /rss.xml
+      name: RSS Feed
+old:
+  name: old
+  link: /old
+  navItems:
+    development:
+      name: development
+      link: /old/development
+      navItems:
+        clients:
+          name: clients
+          link: /old/development/clients
+        contribute:
+          name: contribute
+          link: /old/development/contribute
+        Developer Tools:
+          name: Developer Tools
+          link: /old/development/developer-tools
+        Guides:
+          name: Guides
+          link: /old/development/guides
+        Mining Resources:
+          name: Mining Resources
+          link: /old/development/mining-resources
+        Network Resources:
+          name: Network Resources
+          link: /old/development/network-resources
+        porting:
+          name: porting
+          link: /old/development/porting
+    ecosystem:
+      name: ecosystem
+      link: /old/ecosystem
+      navItems:
+        apps-and-protocols:
+          name: apps-and-protocols
+          link: /old/ecosystem/apps-and-protocols
+        exchanges:
+          name: exchanges
+          link: /old/ecosystem/exchanges
+        social-channels:
+          name: social-channels
+          link: /old/ecosystem/social-channels
+        teams:
+          name: teams
+          link: /old/ecosystem/teams
+        wallets:
+          name: wallets
+          link: /old/ecosystem/wallets
+    knowledge:
+      name: knowledge
+      link: /old/knowledge
+      navItems:
+        faqs:
+          name: faqs
+          link: /old/knowledge/faqs
+        investor:
+          name: investor
+          link: /old/knowledge/investor
+        roadmap:
+          name: roadmap
+          link: /old/knowledge/roadmap
+        theory:
+          name: theory
+          link: /old/knowledge/theory
+        what-is-etc:
+          name: what-is-etc
+          link: /old/knowledge/what-is-etc
+    press:
+      name: press
+      link: /old/press
+      navItems:
+        conferences:
+          name: conferences
+          link: /old/press/conferences
+        kit:
+          name: kit
+          link: /old/press/media-kit

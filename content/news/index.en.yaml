@@ -6,3 +6,23 @@ intro: Ethereum Classic Blog and Links from all over the internet
 rss: 
   text: News RSS Feed
   link: /rss.xml
+filters: Filters
+years: Years
+tags: Tags
+tagNames:
+  blog: ETC Blog
+  announcement: Announcements
+  application: Applications
+  development: Development
+  education: Education
+  event: Events
+  exchange: Exchanges
+  guide: Guides
+  hardfork: Hard Forks
+  media: Media
+  mining: Mining
+  podcast: Podcasts
+  teams: Teams
+  tech: Technology
+  trading: Trading
+  wallet: Wallets

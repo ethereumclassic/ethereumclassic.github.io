@@ -1,59 +1,33 @@
-content:
-  -
-    key: banner
-    type: banner
-    title: Ethereum Classic
-    subtitle: Build **Unstoppable** Applications
-    bannerTitle: Ethereum Classic Summit
-    bannerText: |
-      October 3rd & 4th, 2019  
-      Vancouver Convention Centre
-    button: 
-      link: /press/conferences
-      text: View Presentations
-  -
-    key: welcome
-    type: split
-    left: |
-      ## What is Ethereum Classic?
-
-      Ethereum Classic is a decentralized computing platform that executes smart contracts. Applications are ran exactly as programmed without the possibility of censorship, downtime, or third-party interference.
-
-      Ethereum Classic is a distributed network consisting of a blockchain ledger, native cryptocurrency (ETC) and robust [ecosystem](/ecosystem) of on-chain applications and services.
-    right: |
-      Ethereum Classic provides a permissionless way to manage digital assets without the need for intermediaries, such as banks and other institutions.
-
-      Ethereum Classic allows uncensorable smart contracts to be written, deployed and executed; ETC enables truly unstoppable programmable money.
-
-      Ethereum Classic is the continuation of *the unaltered history* of **the original Ethereum chain**. The ETC network exists to preserve the principle of "[Code is Law](/blog/2016-09-09-code-is-law)".
-
-      To learn more about Ethereum Classic's formative history and ETC's promising future, check out the project's [roadmap](/knowledge/roadmap).
-  -
-    key: icons
-    type: iconGrid
-    items: 
-      -
-        key: decentralized
-        icon: fas fa-users
-        title: Decentralized
-        description: Active ecosystem of participants in a global, permissionless network
-      -
-        key: immutable
-        icon: fas fa-link
-        title: Immutable
-        description: Untampered ledger since the 2015 Ethereum Classic genesis block
-      -
-        key: unstoppable
-        icon: far fa-hourglass
-        title: Unstoppable
-        description: Censorship resistant network executing contracts exactly as programmed
-  -
-    key: get-started
-    type: plain 
-    text: |
-      ## Get Started with Ethereum Classic
-
-      Ethereum Classic is one of the purest decentralized projects in the cryptocurrency space. To understand the technical merits of ETC and how the project is positioning itself for the decentralized future, you'll need to understand Ethereum Classic's origin story. Whether you're a developer, investor, journalist or market researcher, the best place to learn about Ethereum Classic is the Knowledge Base.
-    button:
-      link: /knowledge
-      text: Knowledge Base
+billboard:
+  text: The %word% Ethereum
+  randomWords:
+    Decentralized: "Decentralized"
+    Real: "Real"
+    Original: "Original"
+    Faithful: "Faithful"
+    Veracious: "Veracious"
+    Authentic: "Authentic"
+    Righteous: "Righteous"
+    Honest: "Honest"
+    Upstanding: "Upstanding"
+    Untainted: "Untainted"
+    Uncensored: "Uncensored"
+    Untampered: "Untampered"
+    Immutable: "Immutable"
+    Sound Money: "Sound Money"
+    Uncaptured: "Uncaptured"
+    Sovereign: "Sovereign"
+    Principled: "Principled"
+    Unstoppable: "Unstoppable"
+    Proof of Work: "Proof of Work"
+    Cypherpunk: "Cypherpunk"
+    Leaderless: "Leaderless"
+    Scupulous: "Scupulous"
+    Judicious: "Judicious"
+    Sagacious: "Sagacious"
+    Pragmatic: "Pragmatic"
+    Enlightened: "Enlightened"
+    Antifragile: "Antifragile"
+    Code is Law: "Code is Law"
+    Mature: "Mature"
+    Best: "Best"

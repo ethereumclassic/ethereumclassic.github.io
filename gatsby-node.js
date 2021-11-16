@@ -1,139 +1,171 @@
-// ensure the date gets cast to a string for querying
-exports.createSchemaCustomization = ({ actions }) => {
-  const { createTypes } = actions;
-  const typeDefs = `
-    type yamlI18n implements Node {
-      data: Data
-    }
-    type Data {
-      date: String
-    }
-  `;
-  createTypes(typeDefs);
-};
+// This script sets up the news items
 
 // PAGINATION
-const itemsPerPage = 30;
+const rowsPerPage = 16;
+const itemsPerPage = rowsPerPage * 3;
+
+// combine blog and newslinks into single queriable NewsItem type
+
+// TODO move these to their own plugins for readability and reusability
+
+exports.onCreateNode = async ({
+  node,
+  actions: { createNode, createParentChildLink },
+  createNodeId,
+  getNode,
+  createContentDigest,
+}) => {
+  // if (node.internal.type === `Mdx`) {
+  //   console.log("lets check for images", node);
+  // }
+  if (
+    !(
+      node.internal.type === `NewsLinksCollection` ||
+      node.internal.type === `Mdx`
+    )
+  ) {
+    return;
+  }
+  if (
+    node.internal.type === `Mdx` &&
+    !node.fileAbsolutePath.includes("/content/blog/")
+  ) {
+    return;
+  }
+
+  function createNewsItem(obj) {
+    const newsItem = {
+      ...obj,
+      id: createNodeId(`${node.id} >>> NEWS ITEM`),
+      children: [],
+      parent: node.id,
+      internal: {
+        contentDigest: createContentDigest(obj),
+        type: "NewsItem",
+      },
+    };
+    if (obj.date) {
+      newsItem.date = new Date(obj.date); // normalize the date
+      newsItem.year = newsItem.date.getUTCFullYear(); // for easy filtering
+    }
+    createNode(newsItem);
+    createParentChildLink({ parent: node, child: newsItem });
+  }
+
+  if (node.internal.type === `Mdx`) {
+    const parentNode = getNode(node.parent);
+    createNewsItem({
+      ...node.frontmatter,
+      locale: parentNode.absolutePath.split(".").slice(-2)[0],
+      blog: true,
+      link: `/${parentNode.relativeDirectory}`,
+      tags: ["blog"].concat(node.frontmatter?.tags || []),
+    });
+  } else {
+    createNewsItem({ ...node, blog: false });
+  }
+};
 
 let filters;
 
 exports.createPages = async ({ graphql }) => {
   const {
     data: {
-      items: { nodes }
-    }
+      items: { edges },
+    },
   } = await graphql(`
-    query {
-      items: allYamlI18N(
-        filter: {
-          type: { in: ["collection", "markdown"] }
-          parentDirectory: { in: ["blog", "news"] }
-        }
-        sort: { fields: data___date, order: ASC }
-      ) {
-        nodes {
-          parentDirectory
-          data {
-            date
+    query TagsYearsQuery {
+      items: allNewsItem {
+        edges {
+          node {
+            locale
             tags
+            date(formatString: "YYYY")
           }
-          locale
         }
       }
     }
   `);
-  filters = {};
-  nodes.forEach(({ parentDirectory, locale, data: { tags, date } }) => {
-    filters[locale] = filters[locale] || {};
-    filters[locale][parentDirectory] = filters[locale][parentDirectory] || {
-      years: {},
-      tags: {},
-      total: 0
+  filters = edges.reduce((o, { node: { locale, tags, date } }) => {
+    return {
+      ...o,
+      [locale]: {
+        total: (o[locale]?.total ?? 0) + 1,
+        years: {
+          ...(o[locale] || {}).years,
+          [date]: (o[locale]?.years?.[date] ?? 0) + 1,
+        },
+        tags: {
+          ...(o[locale] || {}).tags,
+          ...(tags || []).reduce(
+            (o2, t) => ({ ...o2, [t]: (o[locale]?.tags?.[t] ?? 0) + 1 }),
+            {}
+          ),
+        },
+      },
     };
-    const branch = filters[locale][parentDirectory];
-    branch.total += 1;
-    if (date) {
-      const year = date.split('-')[0];
-      branch.years[year] = branch.years[year] ? branch.years[year] + 1 : 1;
-    }
-    (tags || []).forEach(tag => {
-      branch.tags[tag] = branch.tags[tag] ? branch.tags[tag] + 1 : 1;
-    });
-  });
+  }, {});
 };
 
-exports.onCreatePage = async ({ page, actions: { createPage, deletePage } }) => {
-  const { relativePath, locale } = page.context;
-
-  if (['blog', 'news', 'news/media'].indexOf(relativePath) === -1) {
+exports.onCreatePage = async ({
+  page,
+  actions: { createPage, deletePage },
+}) => {
+  const { basePath, locale } = page.context;
+  if (basePath !== "news") {
     return;
   }
   deletePage(page);
-  const tags = {};
-  const years = {};
-  let total = 0;
-
-  // search for correct parent directory
-  ({
-    blog: ['blog'],
-    news: ['blog', 'news'],
-    'news/media': ['news']
-  }[relativePath].forEach(p => {
-    const match = (filters[locale] || {})[p] || {};
-    total += match.total || 0;
-    Object.keys(match.years || {}).forEach(k => {
-      years[k] = years[k] ? years[k] + match.years[k] : match.years[k];
-    });
-    Object.keys(match.tags || {}).forEach(k => {
-      tags[k] = tags[k] ? tags[k] + match.tags[k] : match.tags[k];
-    });
-  }));
+  const { years, tags, total } = filters[locale];
   const allTags = Object.keys(tags);
   const allYears = Object.keys(years);
   const pageGroups = [{ path: page.path, items: total }];
-  const defaultTagQuery = [null, ...allTags];
-  allYears.forEach(year => {
+  allYears.forEach((year) => {
     pageGroups.push({
       path: `${page.path}/year/${year}`,
       items: years[year],
-      filter: year,
-      type: 'year'
+      yearFilter: parseInt(year, 10),
+      type: "year",
     });
   });
-  allTags.forEach(tag => {
+  allTags.forEach((tag) => {
     pageGroups.push({
       path: `${page.path}/tag/${tag}`,
       items: tags[tag],
-      filter: tag,
-      type: 'tag',
-      tagFilter: [tag]
+      tagFilter: tag,
+      type: "tag",
     });
   });
-  pageGroups.forEach(({ path, items, type: filterType, filter, tagFilter }) => {
-    const numPages = Math.floor(items / itemsPerPage) + 1;
-    Array.from({ length: numPages }).forEach((_, i) => {
-      const currentPage = i + 1;
-      const isFirst = currentPage === 1;
-      const pageData = {
-        ...page,
-        path: isFirst ? path : `${path}/page/${currentPage}`,
-        context: {
-          ...page.context,
-          numPages,
-          filterBase: path,
-          numItems: items,
-          currentPage,
-          limit: itemsPerPage,
-          skip: i * itemsPerPage,
-          allYears,
-          allTags,
-          filter,
-          filterType,
-          yearQuery: filterType === 'year' ? `${filter}-*` : '*',
-          tagQuery: tagFilter || defaultTagQuery
-        }
-      };
-      createPage(pageData);
-    });
-  });
+  pageGroups.forEach(
+    ({ path, items, type: filterType, tagFilter, yearFilter }) => {
+      const numPages = Math.floor(items / itemsPerPage) + 1;
+      Array.from({ length: numPages }).forEach((_, i) => {
+        const currentPage = i + 1;
+        const isFirst = currentPage === 1;
+        const filterQuery = {
+          locale: { eq: locale },
+          ...(tagFilter && { tags: { in: tagFilter } }),
+          ...(yearFilter && { year: { eq: yearFilter } }),
+        };
+        createPage({
+          ...page,
+          path: isFirst ? path : `${path}/page/${currentPage}`,
+          context: {
+            ...page.context,
+            numPages,
+            filterBase: path,
+            numItems: items,
+            currentPage,
+            limit: itemsPerPage,
+            skip: i * itemsPerPage,
+            allYears,
+            allTags,
+            filter: tagFilter || yearFilter,
+            filterType,
+            filterQuery,
+          },
+        });
+      });
+    }
+  );
 };

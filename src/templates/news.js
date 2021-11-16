@@ -1,37 +1,37 @@
-import { graphql } from 'gatsby';
+import { graphql } from "gatsby";
 
-import LayoutNews from '../components/LayoutNews';
+import GlobalLayout from "../components/globalLayout";
+import News from "../components/news";
 
-export default LayoutNews;
+export default function NewsTempalte(props) {
+  return (
+    <GlobalLayout {...props}>
+      <News {...props} />
+    </GlobalLayout>
+  );
+}
 
-export const query = graphql`
-  query($locale: String!, $skip: Int!, $limit: Int!, $yearQuery: String!, $tagQuery: [String]) {
-    items: allYamlI18N(
-      filter: {
-        locale: { eq: $locale }
-        type: { in: ["collection", "markdown"] }
-        parentDirectory: { in: ["blog", "news"] }
-        data: { tags: { in: $tagQuery }, date: { glob: $yearQuery } }
-      }
-      sort: { fields: data___date, order: DESC }
+export const pageQuery = graphql`
+  query ($skip: Int!, $limit: Int!, $filterQuery: NewsItemFilterInput!) {
+    items: allNewsItem(
+      filter: $filterQuery
+      sort: { fields: date, order: DESC }
       skip: $skip
       limit: $limit
     ) {
-      nodes {
-        id
-        relativeDirectory
-        type
-        data {
-          link
-          tags
-          title
+      edges {
+        node {
+          id
+          date
           author
           source
-          date
-        }
-        parent {
-          ... on Mdx {
-            excerpt(pruneLength: 180)
+          link
+          title
+          blog
+          parent {
+            ... on Mdx {
+              excerpt(pruneLength: 400)
+            }
           }
         }
       }
