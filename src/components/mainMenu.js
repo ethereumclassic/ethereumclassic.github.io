@@ -10,7 +10,7 @@ export default function MainMenu() {
   return (
     <Popover.Group as="nav" tw="hidden md:flex space-x-6">
       {main
-        .filter(({ hidden }) => !hidden)
+        .filter(({ hideTop }) => !hideTop)
         .map((item) => (
           <MainMenuItem key={item.key} item={item} />
         ))}

@@ -34,10 +34,10 @@ learn:
           __link: /learn/philosophy/history
           __icon: code
           name: History
-        foundingDocuments:
-          __link: /learn/philosophy/founding-documents
+        doctrine:
+          __link: /learn/philosophy/doctrine
           __icon: code
-          name: Founding Documents
+          name: Doctrine
         principles:
           __link: /learn/philosophy/principles
           __icon: code
@@ -97,28 +97,6 @@ play:
   __link: /play
   name: Play
   navItems:
-    community:
-      __link: /play/community
-      __icon: users
-      name: Community
-      description: TODO
-      navItems:
-        social:
-          __link: /play/community/social
-          __icon: code
-          name: Social
-        teams:
-          __link: /play/community/teams
-          __icon: code
-          name: Teams
-        bounties:
-          __link: /play/community/bounties
-          __icon: code
-          name: Bounties
-        dao:
-          __link: /play/community/daos
-          __icon: code
-          name: DAOs
     services:
       __link: /play/services
       __icon: cursor
@@ -137,6 +115,32 @@ play:
           __link: /play/services/apps
           __icon: code
           name: Apps
+    community:
+      __link: /play/community
+      __icon: users
+      name: Community
+      description: TODO
+      navItems:
+        channels:
+          __link: /play/community/channels
+          __icon: code
+          name: Channels
+        teams:
+          __link: /play/community/teams
+          __icon: code
+          name: Teams
+        promoters:
+          __link: /play/community/promoters
+          __icon: code
+          name: Promoters
+        bounties:
+          __link: /play/community/bounties
+          __icon: code
+          name: Bounties
+        dao:
+          __link: /play/community/daos
+          __icon: code
+          name: DAOs
     network:
       __link: /play/network
       __icon: network
@@ -203,8 +207,8 @@ news:
   __link: /news
   name: News
 extra:
-  __hidden: true
-  name: Extras
+  __hideTop: true
+  name: Extra
   navItems:
     news:
       __link: /news
@@ -212,86 +216,12 @@ extra:
     blog:
       __link: /news/tag/blog
       name: ETC Blog
-    siteMap:
-      __link: /sitemap
-      name: Site Map
+    media:
+      __link: /extras/media-kit
+      name: Media Kit
     rss:
       __link: /rss.xml
       name: RSS Feed
-old:
-  name: old
-  link: /old
-  navItems:
-    development:
-      name: development
-      link: /old/development
-      navItems:
-        clients:
-          name: clients
-          link: /old/development/clients
-        contribute:
-          name: contribute
-          link: /old/development/contribute
-        Developer Tools:
-          name: Developer Tools
-          link: /old/development/developer-tools
-        Guides:
-          name: Guides
-          link: /old/development/guides
-        Mining Resources:
-          name: Mining Resources
-          link: /old/development/mining-resources
-        Network Resources:
-          name: Network Resources
-          link: /old/development/network-resources
-        porting:
-          name: porting
-          link: /old/development/porting
-    ecosystem:
-      name: ecosystem
-      link: /old/ecosystem
-      navItems:
-        apps-and-protocols:
-          name: apps-and-protocols
-          link: /old/ecosystem/apps-and-protocols
-        exchanges:
-          name: exchanges
-          link: /old/ecosystem/exchanges
-        social-channels:
-          name: social-channels
-          link: /old/ecosystem/social-channels
-        teams:
-          name: teams
-          link: /old/ecosystem/teams
-        wallets:
-          name: wallets
-          link: /old/ecosystem/wallets
-    knowledge:
-      name: knowledge
-      link: /old/knowledge
-      navItems:
-        faqs:
-          name: faqs
-          link: /old/knowledge/faqs
-        investor:
-          name: investor
-          link: /old/knowledge/investor
-        roadmap:
-          name: roadmap
-          link: /old/knowledge/roadmap
-        theory:
-          name: theory
-          link: /old/knowledge/theory
-        what-is-etc:
-          name: what-is-etc
-          link: /old/knowledge/what-is-etc
-    press:
-      name: press
-      link: /old/press
-      navItems:
-        conferences:
-          name: conferences
-          link: /old/press/conferences
-        kit:
-          name: kit
-          link: /old/press/media-kit
+    siteMap:
+      __link: /sitemap
+      name: Site Map
