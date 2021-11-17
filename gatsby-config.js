@@ -18,10 +18,11 @@ module.exports = {
       resolve: "gatsby-plugin-sitemap",
       options: require("./configs/sitemap")({ siteUrl }),
     },
-    {
-      resolve: "gatsby-plugin-feed",
-      options: require("./configs/rss")({ locales }),
-    },
+    // TODO FIXME
+    // {
+    //   resolve: "gatsby-plugin-feed",
+    //   options: require("./configs/rss")({ locales, siteUrl }),
+    // },
     {
       resolve: "gatsby-source-filesystem",
       options: {

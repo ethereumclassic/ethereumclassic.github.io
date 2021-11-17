@@ -2,9 +2,6 @@
   "name": "etc3022",
   "version": "1.0.0",
   "private": true,
-  "eslintConfig": {
-    "extends": "react-app"
-  },
   "twin": {
     "preset": "emotion"
   },
@@ -22,6 +19,7 @@
     "@mdx-js/mdx": "^1.6.22",
     "@mdx-js/react": "^1.6.22",
     "@tailwindcss/typography": "^0.4.1",
+    "algoliasearch": "^4.11.0",
     "autoprefixer": "^10.4.0",
     "flag-icon-css": "^4.1.5",
     "gatsby": "^4.1.4",
@@ -38,15 +36,18 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-helmet": "^6.1.0",
+    "react-instantsearch-dom": "^6.15.0",
     "react-markdown": "^7.1.0",
     "rehype-autolink-headings": "^6.1.0",
     "rehype-slug": "^5.0.0",
+    "rooks": "^5.8.0",
     "simple-icons": "^5.22.0",
     "tailwindcss": "^2.2.19"
   },
   "devDependencies": {
     "@emotion/react": "^11.5.0",
     "@emotion/styled": "^11.3.0",
+    "eslint-config-react-app": "^6.0.0",
     "gatsby-plugin-emotion": "^7.1.0",
     "twin.macro": "^2.8.1"
   }

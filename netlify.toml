@@ -1,7 +1,5 @@
 [build]
   publish = "public"
-[[plugins]]
-  package = "netlify-plugin-gatsby-cache"
 [[redirects]]
   from = "/wiki"
   to = "https://github.com/ethereumclassic/wiki/wiki"

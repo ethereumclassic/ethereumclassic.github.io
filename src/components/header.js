@@ -5,7 +5,7 @@ import { Popover } from "@headlessui/react";
 import { MenuIcon } from "@heroicons/react/outline";
 
 import Logo from "./logo";
-import Search from "./search";
+import SearchAlgolia from "./searchAlgolia";
 import MainMenu from "./mainMenu";
 import MobileMenu from "./mobileMenu";
 import LocaleSelector from "./localeSelector";
@@ -27,7 +27,7 @@ export default function Header() {
           </div>
           <MainMenu />
           <div tw="hidden md:block w-36 lg:w-48">
-            <Search />
+            <SearchAlgolia />
           </div>
           <DarkModeSwitcher />
           <LocaleSelector />

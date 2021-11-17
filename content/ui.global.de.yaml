@@ -1,1 +1,5 @@
 title: GERMAN CLASSIC
+#  Used by og:locale meta tag [info](https://kb.yoast.com/kb/changing-the-og-locale-output/)
+metaLocale: de_de
+#  Used in the <html> tag [info](https://www.w3schools.com/tags/att_lang.asp)
+htmlLang: de
