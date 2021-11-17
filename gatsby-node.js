@@ -15,9 +15,6 @@ exports.onCreateNode = async ({
   getNode,
   createContentDigest,
 }) => {
-  // if (node.internal.type === `Mdx`) {
-  //   console.log("lets check for images", node);
-  // }
   if (
     !(
       node.internal.type === `NewsLinksCollection` ||

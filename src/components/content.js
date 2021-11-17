@@ -12,8 +12,6 @@ import MarkdownStatic from "./markdownStatic";
 // TODO potentially split this into two separate templates for better tree shaking
 
 export default function Content({ data: { mdx }, i18n }) {
-  // console.log(data);
-  // return null;
   return (
     <div tw="py-10">
       <div tw="max-w-3xl mx-auto sm:px-6 lg:max-w-7xl lg:px-8 lg:grid lg:grid-cols-12 lg:gap-8">

@@ -20,7 +20,6 @@ function NavigationProvider({ children, pageContext: { basePath } }) {
     const items = levels[i].navItems;
     const linkMatch = `/${baseFragments.slice(0, i + 1).join("/")}`;
     const j = items.findIndex(({ link }) => link === linkMatch);
-    console.log({ levels, baseFragments, linkMatch, basePath });
     if (j > -1) {
       // set `current ` styling
       items[j].current = true;

@@ -26,3 +26,7 @@
 [[redirects]]
   from = "/blog/2017-01-17-newsletter"
   to = "/blog/2017-01-17-die-hard-fork-upgrade"
+[[plugins]]
+  package = "@algolia/netlify-plugin-crawler"
+    [plugins.inputs]
+    branches = ['3022']

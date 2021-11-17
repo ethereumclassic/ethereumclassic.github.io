@@ -1,4 +1,4 @@
-const siteUrl = "https://ethereumclassic.org";
+const siteUrl = "https://etc3022.netlify.app";
 
 const locales = require("./configs/locales");
 

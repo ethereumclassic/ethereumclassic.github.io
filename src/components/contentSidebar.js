@@ -52,7 +52,6 @@ function SideBarSubItem({ item: { name, key, link, current } }) {
 
 export default function Sidebar() {
   const { sub } = useNavigation();
-  console.log({ sub });
   if (!sub?.navItems) {
     return null;
   }
