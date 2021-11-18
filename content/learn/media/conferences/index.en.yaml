@@ -1,427 +1,360 @@
 title: Ethereum Classic Summit
-description: Videos from the Ethereum Classic summits 2017, 2018 and 2019
-intro: |
+meta: Videos from the Ethereum Classic summits 2017, 2018 and 2019
+description: |
   This page contains links and video presentations related to [Ethereum Classic Summit](https://etcsummit.com/).
 
-  To date, Ethereum Classic Summit has been held in 3 locations: 
-content: 
-  -
-    type: videos
+  To date, Ethereum Classic Summit has been held in 3 locations:
+items:
+  hongKong:
+    __type: videos
     title: ETC Summit 2017
     subtitle: Hong Kong
-    items: 
-      -
-        key:  IOHK - ETC Hong Kong Summit
+    items:
+      UFxlBg3UCpU:
         title: IOHK - ETC Hong Kong Summit
-        link: https://youtu.be/UFxlBg3UCpU
-        youtube: UFxlBg3UCpU
+        __link: https://youtu.be/UFxlBg3UCpU
+        __youtube: UFxlBg3UCpU
         description: Promotional video from IOHK for ETC Summit 2017.
-      -
-        key:  Making Ethereum Classic a Utilitarian Platform
+      vYvbzjETbxI:
         title: Making Ethereum Classic a Utilitarian Platform
-        link: https://youtu.be/vYvbzjETbxI
-        youtube: vYvbzjETbxI
+        __link: https://youtu.be/vYvbzjETbxI
+        __youtube: vYvbzjETbxI
         description: Charles Hoskinson [@IOHK_Charles](https://twitter.com/IOHK_Charles), Co-Founder/CEO of [IOHK](https://iohk.io/) and Co-Founder of the Ethereum Project.
-      -
-        key:  Since the Hard Fork
+      -LKJuVB2XuE:
         title: Since the Hard Fork
-        link: https://youtu.be/-LKJuVB2XuE
-        youtube: -LKJuVB2XuE
+        __link: https://youtu.be/-LKJuVB2XuE
+        __youtube: -LKJuVB2XuE
         description: Alan Verbner [@alanverbner](https://twitter.com/alanverbner), Ethereum Classic Developer, Team Grothendieck, [IOHK](https://iohk.io/).  [SLIDES](https://etcsummit.com/wp-content/uploads/2017/11/ETC-Alan_V.pptx)
-      -
-        key:  The Road Ahead
+      Lvsi5KlWt_c:
         title: The Road Ahead
-        link: https://youtu.be/Lvsi5KlWt_c
-        youtube: Lvsi5KlWt_c
+        __link: https://youtu.be/Lvsi5KlWt_c
+        __youtube: Lvsi5KlWt_c
         description: Alan McSherry, Ethereum Classic Developer | Team Grothendieck Manager, [IOHK](https://iohk.io/).
-  -
-    type: videos
+  seoul:
+    __type: videos
     title: ETC Summit 2018
     subtitle: Seoul, South Korea
     items:
-      -
-        key:  "State of ETC"
-        link: https://youtu.be/FZ2poxSjYrM
+      FZ2poxSjYrM:
+        __link: https://youtu.be/FZ2poxSjYrM
         title: "State of ETC"
-        youtube: FZ2poxSjYrM
+        __youtube: FZ2poxSjYrM
         description: Anthony Lusardi [@pyskell](https://twitter.com/pyskell), Director, USA of [ETC Cooperative](https://etccooperative.org/).
-      -
-        key:  "ETCDEVs Past Present and Future"
-        link: https://youtu.be/41Hv6QlXB50
+      41Hv6QlXB50:
+        __link: https://youtu.be/41Hv6QlXB50
         title: "ETCDEVs Past Present and Future"
-        youtube: 41Hv6QlXB50
+        __youtube: 41Hv6QlXB50
         description: Darcy Reno, Program Manager, [ETCDEV](https://twitter.com/etcdev).
-      -
-        key:  "Ethereum Classic Development IOHK Team Grothendieck"
-        link: https://youtu.be/R2zyWXXPdfo
+      R2zyWXXPdfo:
+        __link: https://youtu.be/R2zyWXXPdfo
         title: "Ethereum Classic Development IOHK Team Grothendieck"
-        youtube: R2zyWXXPdfo
+        __youtube: R2zyWXXPdfo
         description: Tom Flynn, [IOHK](https://iohk.io/).
-      -
-        key:  "Building the ETC Ecosystem"
-        link: https://youtu.be/TCLLMnafJKE
+      TCLLMnafJKE:
+        __link: https://youtu.be/TCLLMnafJKE
         title: "Building the ETC Ecosystem"
-        youtube: TCLLMnafJKE
+        __youtube: TCLLMnafJKE
         description: Terry Culver [@realetclassic](https://twitter.com/realetclassic), CEO of [Ethereum Classic Labs](https://etclabs.org/).
-      -
-        key:  "Towards a Multichain Future"
-        link: https://youtu.be/F_RqL1vyT9s
+      F_RqL1vyT9s:
+        __link: https://youtu.be/F_RqL1vyT9s
         title: "Towards a Multichain Future"
-        youtube: F_RqL1vyT9s
+        __youtube: F_RqL1vyT9s
         description: Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Varro Technologies.
-      -
-        key:  "The Enhancement of ETC's Ecosystem"
-        link: https://youtu.be/IJlilbdf8bI
+      IJlilbdf8bI:
+        __link: https://youtu.be/IJlilbdf8bI
         title: "The Enhancement of ETC's Ecosystem"
-        youtube: IJlilbdf8bI
+        __youtube: IJlilbdf8bI
         description: Jiwon Joung
-      -
-        key:  "Interoperable Cross Chain Transfers on ETC to Other Blockchains"
-        link: https://youtu.be/7xs-4mF0CLE
+      7xs-4mF0CLE:
+        __link: https://youtu.be/7xs-4mF0CLE
         title: "Interoperable Cross Chain Transfers on ETC to Other Blockchains"
-        youtube: 7xs-4mF0CLE
+        __youtube: 7xs-4mF0CLE
         description: Dionysis Zindros [@dionyziz](https://twitter.com/dionyziz), [IOHK](https://iohk.io/).
-      -
-        key:  "IoT Live Demonstration"
-        link: https://youtu.be/ZF1n5sx3b-g
+      ZF1n5sx3b-g:
+        __link: https://youtu.be/ZF1n5sx3b-g
         title: "IoT Live Demonstration"
-        youtube: ZF1n5sx3b-g
+        __youtube: ZF1n5sx3b-g
         description: Cody Burns [@dontpanicburns](https://twitter.com/dontpanicburns), Blockchain Architect for [Accenture](https://www.accenture.com/).
-      -
-        key:  "From SNARKs to Sidechains Synergies and Opportunities"
-        link: https://youtu.be/BibyW8y3Ht0
+      BibyW8y3Ht0:
+        __link: https://youtu.be/BibyW8y3Ht0
         title: "From SNARKs to Sidechains Synergies and Opportunities"
-        youtube: BibyW8y3Ht0
+        __youtube: BibyW8y3Ht0
         description: Rob Viglione [@robviglione](https://twitter.com/robviglione), CEO [Horizen Labs](https://twitter.com/horizenlabs).
-      -
-        key:  "ETCDEV’s Emerald Platform Build DApps on ETC"
-        link: https://youtu.be/vAzYCLMnAe0
+      vAzYCLMnAe0:
+        __link: https://youtu.be/vAzYCLMnAe0
         title: "ETCDEV’s Emerald Platform Build DApps on ETC"
-        youtube: vAzYCLMnAe0
+        __youtube: vAzYCLMnAe0
         description: Shane Jonas [@shanejonas](https://twitter.com/shanejonas) and Zachary Belford [@belfordz](https://twitter.com/belfordz), [ETCDEV](https://twitter.com/etcdev).
-      -
-        key:  "Forkonomy, Blockchains and Time Travel Possible Futures for ETC"
-        link: https://youtu.be/0KRDIDtEyFc
+      0KRDIDtEyFc:
+        __link: https://youtu.be/0KRDIDtEyFc
         title: "Forkonomy, Blockchains and Time Travel Possible Futures for ETC"
-        youtube: 0KRDIDtEyFc
+        __youtube: 0KRDIDtEyFc
         description: Wassim Alsindi [@WassimAlsindi](https://twitter.com/WassimAlsindi)
-      -
-        key:  "ETCDEV’s Solution for Scaling ETC"
-        link: https://youtu.be/fOnaShsesGc
+      fOnaShsesGc:
+        __link: https://youtu.be/fOnaShsesGc
         title: "ETCDEV’s Solution for Scaling ETC"
-        youtube: fOnaShsesGc
+        __youtube: fOnaShsesGc
         description: Igor Artamanov [@splix](https://twitter.com/splix), CEO, [ETCDEV](https://twitter.com/etcdev).
-      -
-        key:  "ETC in The Korean Community"
-        link: https://youtu.be/vW62mqglz3s
+      vW62mqglz3s:
+        __link: https://youtu.be/vW62mqglz3s
         title: "ETC in The Korean Community"
-        youtube: vW62mqglz3s
+        __youtube: vW62mqglz3s
         description: Kim Gyung Seop
-      -
-        key:  "BlockScout - An Opensource EVM Blockchain Explorer"
-        link: https://youtu.be/BmmTWf_CHho
+      BmmTWf_CHho:
+        __link: https://youtu.be/BmmTWf_CHho
         title: "BlockScout - An Opensource EVM Blockchain Explorer"
-        youtube: BmmTWf_CHho
+        __youtube: BmmTWf_CHho
         description: Igor Barinov [@barinov](https://twitter.com/barinov), CEO, [POA.network](https://www.poa.network/)
-      -
-        key:  "ASICs - A Manufacturer's Perspective"
-        link: https://youtu.be/QrhpmpIREHU
+      QrhpmpIREHU:
+        __link: https://youtu.be/QrhpmpIREHU
         title: "ASICs - A Manufacturer's Perspective"
-        youtube: QrhpmpIREHU
+        __youtube: QrhpmpIREHU
         description: Chen Min, CEO, [Linzhi](https://linzhi.io/)
-      -
-        key:  "Global Liquidity and Market Dynamics"
-        link: hhttps://youtu.be/O0Mw8AaidoQ
+      O0Mw8AaidoQ:
+        __link: hhttps://youtu.be/O0Mw8AaidoQ
         title: "Global Liquidity and Market Dynamics"
-        youtube: O0Mw8AaidoQ
+        __youtube: O0Mw8AaidoQ
         description: Matt Beck, Tom Lee, Mike Moro, and Jack Liu
-      -
-        key:  "Cryptocurrency vs Traditional Financial Industry"
-        link: https://youtu.be/SjBUUV4hnzE
+      SjBUUV4hnzE:
+        __link: https://youtu.be/SjBUUV4hnzE
         title: "Cryptocurrency vs Traditional Financial Industry"
-        youtube: SjBUUV4hnzE
+        __youtube: SjBUUV4hnzE
         description: James Wo [@realjameswo](https://twitter.com/realjameswo), Founder of [Ethereum Classic Labs](https://etclabs.org/)
-      -
-        key:  "The Dynamics of the Cryptocurrency Market in Korea"
-        link: https://youtu.be/H3ug8JM6GkY
+      H3ug8JM6GkY:
+        __link: https://youtu.be/H3ug8JM6GkY
         title: "The Dynamics of the Cryptocurrency Market in Korea"
-        youtube: H3ug8JM6GkY
+        __youtube: H3ug8JM6GkY
         description: Seyoung Nam
-      -
-        key:  "Immutability and Censorship Resistance Panel"
-        link: https://youtu.be/afUZK2lzpag
+      afUZK2lzpag:
+        __link: https://youtu.be/afUZK2lzpag
         title: "Immutability and Censorship Resistance Panel"
-        youtube: afUZK2lzpag
+        __youtube: afUZK2lzpag
         description: "Anthony Lusardi, Alison Alexis, Wassim Alsindi, Kong Gao, and Virgil Griffith"
-      -
-        key:  "How Millennials are Powering Wall Street’s Interest in Crypto"
-        link: https://youtu.be/_9EvliyakZ8
+      _9EvliyakZ8:
+        __link: https://youtu.be/_9EvliyakZ8
         title: "How Millennials are Powering Wall Street’s Interest in Crypto"
-        youtube: _9EvliyakZ8
+        __youtube: _9EvliyakZ8
         description: "[Tom Lee](https://twitter.com/fundstrat), [Fundstrat](https://www.fundstrat.com/)"
-      -
-        key:  "Avoiding Contentious Changes How ETC's Community Does it Differently"
-        link: hhttps://youtu.be/WVvR57EImzo
+      WVvR57EImzo:
+        __link: hhttps://youtu.be/WVvR57EImzo
         title: "Avoiding Contentious Changes How ETC's Community Does it Differently"
-        youtube: WVvR57EImzo
+        __youtube: WVvR57EImzo
         description: "Kevin Lord [@IOHK_Kevin](https://twitter.com/IOHK_Kevin), [IOHK](https://iohk.io/)"
-      -
-        key:  "Positive Sum Games Between ETC and ETH"
-        link: https://youtu.be/99AXeF9za48
+      99AXeF9za48:
+        __link: https://youtu.be/99AXeF9za48
         title: "Positive Sum Games Between ETC and ETH"
-        youtube: 99AXeF9za48
+        __youtube: 99AXeF9za48
         description: Virgil Griffith [@virgilgr](https://twitter.com/virgilgr), Special Projects at the [Ethereum Foundation](https://ethereum.org/).
-      -
-        key:  "Institutional Adoption of Cryptoassets"
-        link: https://youtu.be/30bwKABXECM
+      30bwKABXECM:
+        __link: https://youtu.be/30bwKABXECM
         title: "Institutional Adoption of Cryptoassets"
-        youtube: 30bwKABXECM
+        __youtube: 30bwKABXECM
         description: Kayvon Pirestani
-      -
-        key:  "ETC in The East"
-        link: https://youtu.be/Gas_aRSVzcs
+      Gas_aRSVzcs:
+        __link: https://youtu.be/Gas_aRSVzcs
         title: "ETC in The East"
-        youtube: Gas_aRSVzcs
+        __youtube: Gas_aRSVzcs
         description: Christian Xu [@CRSXu](https://twitter.com/CRSXu)
-      -
-        key:  "The Road Ahead - ETC Summit 2018"
-        link: https://youtu.be/Rt-IebzAbJU
+      Rt-IebzAbJU:
+        __link: https://youtu.be/Rt-IebzAbJU
         title: "The Road Ahead - ETC Summit 2018"
-        youtube: Rt-IebzAbJU
+        __youtube: Rt-IebzAbJU
         description: "Charles Hoskinson [@IOHK_Charles](https://twitter.com/IOHK_Charles), Co-Founder/CEO of [IOHK](https://iohk.io/)"
-  -
-    type: videos
+  vancouver1:
+    __type: videos
     title: ETC Summit 2019 - Day 1
     subtitle: Vancouver, Canada
-    items: 
-      -
-        key:  ETC Summit 2019
-        link: https://youtu.be/Msi6EItbslk
+    items:
+      Msi6EItbslk:
+        __link: https://youtu.be/Msi6EItbslk
         title: Full Day 1 - October 3rd, 2019
-        youtube: Msi6EItbslk
-      -
-        key:  Opening Address - Day 1
-        link: https://youtu.be/a-kgpkelvWE
+        __youtube: Msi6EItbslk
+      a-kgpkelvWE:
+        __link: https://youtu.be/a-kgpkelvWE
         title: Opening Address - Day 1
-        youtube: a-kgpkelvWE
+        __youtube: a-kgpkelvWE
         description: Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Executive Director of [ETC Cooperative](https://etccooperative.org/).
-      -
-        key:  The State of Ethereum Classic
-        link: https://youtu.be/jS_y7J0cCDo
+      jS_y7J0cCDo:
+        __link: https://youtu.be/jS_y7J0cCDo
         title: The State of Ethereum Classic
-        youtube: jS_y7J0cCDo
+        __youtube: jS_y7J0cCDo
         description: Anthony Lusardi [@pyskell](https://twitter.com/pyskell), Former Director, USA of [ETC Cooperative](https://etccooperative.org/).
-      -
-        key:  Ethereum Classic Principles, Vision and Opportunity
-        link: https://youtu.be/b8XlpTPD_9k
+      b8XlpTPD_9k:
+        __link: https://youtu.be/b8XlpTPD_9k
         title: Ethereum Classic Principles, Vision and Opportunity
-        youtube: b8XlpTPD_9k
+        __youtube: b8XlpTPD_9k
         description: Donald McIntyre [@MyEtherPlan](https://twitter.com/MyEtherplan), Researcher, Writer, and Podcaster [Etherplan](https://etherplan.com/).
-      -
-        key:  Atlantis Protocol Upgrade and The ETC Roadmap
-        link: https://youtu.be/q4x-7zm2eeg
+      q4x-7zm2eeg:
+        __link: https://youtu.be/q4x-7zm2eeg
         title: Atlantis Protocol Upgrade and The ETC Roadmap
-        youtube: q4x-7zm2eeg
+        __youtube: q4x-7zm2eeg
         description: Afri Schoeden [@a4fri](https://twitter.com/a4fri), [Ethereum Classic](https://ethereumclassic.org/) Core Developer.
-      -
-        key:  The Future of JSON-RPC Tooling
-        link: https://youtu.be/stK9-cGsGJM
+      stK9-cGsGJM:
+        __link: https://youtu.be/stK9-cGsGJM
         title: The Future of JSON-RPC Tooling
-        youtube: stK9-cGsGJM
+        __youtube: stK9-cGsGJM
         description: Shane Jonas [@shanejonas](https://twitter.com/shanejonas), Co-Lead Tooling Developer at [ETC Core](https://etccore.io/).
-      -
-        key:  Bridging the Decentralized Services Gap
-        link: hhttps://youtu.be/0mmJ0zmWDVA
+      0mmJ0zmWDVA:
+        __link: hhttps://youtu.be/0mmJ0zmWDVA
         title: Bridging the Decentralized Services Gap
-        youtube: 0mmJ0zmWDVA
+        __youtube: 0mmJ0zmWDVA
         description: Zane Starr [@zanecstarr](https://twitter.com/zanecstarr), Tooling Developer at [ETC Core](https://etccore.io/).
-      -
-        key:  Adding Merkle-Mountain-Ranges and Fly-Proofs to ETC
-        link: https://youtu.be/uA1dw1qDytM
+      uA1dw1qDytM:
+        __link: https://youtu.be/uA1dw1qDytM
         title: Adding Merkle-Mountain-Ranges and Fly-Proofs to ETC
-        youtube: uA1dw1qDytM
+        __youtube: uA1dw1qDytM
         description: Zac Mitton [@VoltzRoad](https://twitter.com/VoltzRoad), Open Source Software Engineer at [Voltz Road](https://voltzroad.com/).
-      -
-        key:  "Ethereum Classic's ECIP-1050: One Byte of Context"
-        link: https://youtu.be/L4IDAwoJF9c
+      L4IDAwoJF9c:
+        __link: https://youtu.be/L4IDAwoJF9c
         title: "Ethereum Classic's ECIP-1050: One Byte of Context"
-        youtube: L4IDAwoJF9c
+        __youtube: L4IDAwoJF9c
         description: Brooklyn Zelenka [@expede](https://twitter.com/expede), Co-Founder/CTO of [FISSION](https://fission.codes/).
-      -
-        key:  The Year Ahead for Ethereum Classic Labs
-        link: https://youtu.be/rbHbWliIx9Q
+      rbHbWliIx9Q:
+        __link: https://youtu.be/rbHbWliIx9Q
         title: The Year Ahead for Ethereum Classic Labs
-        youtube: rbHbWliIx9Q
+        __youtube: rbHbWliIx9Q
         description: Terry Culver [@realetclassic](https://twitter.com/realetclassic), CEO of [Ethereum Classic Labs](https://etclabs.org/) and [ETC Core](https://etccore.io/).
-      -
-        key:  Infrastructure for Decentralizing Distributed Networks
-        link: https://youtu.be/P0dKybSjeMg
+      P0dKybSjeMg:
+        __link: https://youtu.be/P0dKybSjeMg
         title: Infrastructure for Decentralizing Distributed Networks
-        youtube: P0dKybSjeMg
+        __youtube: P0dKybSjeMg
         description: Aaron Lowry [@Aaron_Lowry](https://twitter.com/Aaron_Lowry), Co-Founder/CEO of [Ethernode](https://ethernode.io/).
-      -
-        key:  "Radical Ideals: Experiments in Sustaining Open Source Software"
-        link: https://youtu.be/ikkiWdsvHb0
+      ikkiWdsvHb0:
+        __link: https://youtu.be/ikkiWdsvHb0
         title: "Radical Ideals: Experiments in Sustaining Open Source Software"
-        youtube: ikkiWdsvHb0
+        __youtube: ikkiWdsvHb0
         description: Scott Moore [@notscottmoore](https://twitter.com/notscottmoore), Developer Relations Lead at [Gitcoin](https://gitcoin.co/).
-      -
-        key:  "POA Network: Development Tools in the ETC Ecosystem"
-        link: https://youtu.be/qqDhMXJHIxM
+      qqDhMXJHIxM:
+        __link: https://youtu.be/qqDhMXJHIxM
         title: "POA Network: Development Tools in the ETC Ecosystem"
-        youtube: qqDhMXJHIxM
+        __youtube: qqDhMXJHIxM
         description: Andrew Gross [@poanetwork](https://twitter.com/poanetwork), Technical Writer for [POA Network](https://www.poa.network/).
-      -
-        key:  "Collaborative Machine Learning on Ethereum Classic"
-        link: https://youtu.be/nuHffCjDC3Y
+      nuHffCjDC3Y:
+        __link: https://youtu.be/nuHffCjDC3Y
         title: "Collaborative Machine Learning on Ethereum Classic"
-        youtube: nuHffCjDC3Y
+        __youtube: nuHffCjDC3Y
         description: Cody Burns [@dontpanicburns](https://twitter.com/dontpanicburns), Blockchain Architect for [Accenture](https://www.accenture.com/).
-      -
-        key:  State of the Ethereum Classic Testnets
-        link: https://youtu.be/sURnZEeIqBU
+      sURnZEeIqBU:
+        __link: https://youtu.be/sURnZEeIqBU
         title: State of the Ethereum Classic Testnets
-        youtube: sURnZEeIqBU
+        __youtube: sURnZEeIqBU
         description: Afri Schoeden [@a4fri](https://twitter.com/a4fri), [Ethereum Classic](https://ethereumclassic.org/) Core Developer.
-      -
-        key: "Metronome - First Cross-Chain Cryptocurrency: Chain Hop From ETH to ETC"
-        link: https://youtu.be/EQTxaWmP3zA
+      EQTxaWmP3zA:
+        __link: https://youtu.be/EQTxaWmP3zA
         title: "Metronome - First Cross-Chain Cryptocurrency: Chain Hop From ETH to ETC"
-        youtube: EQTxaWmP3zA
+        __youtube: EQTxaWmP3zA
         description: Manoj Patidar [@manojpatidarr](https://twitter.com/manojpatidarr), Principal Engineer at [Bloq](https://www.bloq.com/).
-      -
-        key:  "Fireside Chat: Improving Investor Access to Ethereum Classic"
-        link: https://youtu.be/3OVswN5CjqA
+      3OVswN5CjqA:
+        __link: https://youtu.be/3OVswN5CjqA
         title: "Fireside Chat: Improving Investor Access to Ethereum Classic"
-        youtube: 3OVswN5CjqA
+        __youtube: 3OVswN5CjqA
         description: Michael Sonnenshein [@Sonnenshein](https://twitter.com/Sonnenshein), Managing Director of [Grayscale](https://grayscale.co/).
-      -
-        key:  The Need for Cross Chain Collaboration
-        link: https://youtu.be/c_ts4qw0EEc
+      c_ts4qw0EEc:
+        __link: https://youtu.be/c_ts4qw0EEc
         title: The Need for Cross Chain Collaboration
-        youtube: c_ts4qw0EEc
+        __youtube: c_ts4qw0EEc
         description: Aidan Hyman [@Aidan_IH](https://twitter.com/Aidan_IH), Co-Founder/CEO of [ChainSafe](https://chainsafe.io/).
-      -
-        key:  Developer Relations in Ethereum Classic
-        link: https://youtu.be/4V3_u-fW7A4
+      4V3_u-fW7A4:
+        __link: https://youtu.be/4V3_u-fW7A4
         title: Developer Relations in Ethereum Classic
-        youtube: 4V3_u-fW7A4
+        __youtube: 4V3_u-fW7A4
         description: Yaz Khoury [@Yazanator](https://twitter.com/Yazanator), Director of Developer Relations at [ETC Cooperative](https://etccooperative.org/).
-  -
-    type: videos
+  vancouver2:
+    __type: videos
     title: ETC Summit 2019 - Day 2
     subtitle: Vancouver, Canada
     items:
-      -
-        key:  Full Day 2 - October 4th, 2019
-        link: https://youtu.be/TNsWR7jXllQ
+      TNsWR7jXllQ:
+        __link: https://youtu.be/TNsWR7jXllQ
         title: Full Day 2 - October 4th, 2019
-        youtube: TNsWR7jXllQ
-      -
-        key:  Opening Address - Day 2
-        link: https://youtu.be/sUWrlzY_sTQ
+        __youtube: TNsWR7jXllQ
+      sUWrlzY_sTQ:
+        __link: https://youtu.be/sUWrlzY_sTQ
         title: Opening Address - Day 2
-        youtube: sUWrlzY_sTQ
+        __youtube: sUWrlzY_sTQ
         description: Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Executive Director of [ETC Cooperative](https://etccooperative.org/).
-      -
-        key:  A New Open Source Deal for Web3
-        link: https://youtu.be/t4EboVi03Yc
+      t4EboVi03Yc:
+        __link: https://youtu.be/t4EboVi03Yc
         title: A New Open Source Deal for Web3
-        youtube: t4EboVi03Yc
+        __youtube: t4EboVi03Yc
         description: Boris Mann [@bmann](https://twitter.com/bmann), Co-Founder of [FISSION](https://fission.codes/).
-      -
-        key:  Thanks to Terry
-        link: https://youtu.be/7bit7p3ZqRI
+      7bit7p3ZqRI:
+        __link: https://youtu.be/7bit7p3ZqRI
         title: Thanks to Terry
-        youtube: 7bit7p3ZqRI
+        __youtube: 7bit7p3ZqRI
         description: Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Executive Director of [ETC Cooperative](https://etccooperative.org/).
-      -
-        key:  Positive Sum Games Between Ethereum and Ethereum Classic
-        link: https://youtu.be/BG69gdPvxH4
+      BG69gdPvxH4:
+        __link: https://youtu.be/BG69gdPvxH4
         title: Positive Sum Games Between Ethereum and Ethereum Classic
-        youtube: BG69gdPvxH4
+        __youtube: BG69gdPvxH4
         description: Virgil Griffith [@virgilgr](https://twitter.com/virgilgr), Special Projects at the [Ethereum Foundation](https://ethereum.org/).
-      -
-        key:  A Peripheral Observer and Fan's View of Ethereum Classic
-        link: https://youtu.be/BwnQIlehGyw
+      BwnQIlehGyw:
+        __link: https://youtu.be/BwnQIlehGyw
         title: A Peripheral Observer and Fan's View of Ethereum Classic
-        youtube: BwnQIlehGyw
+        __youtube: BwnQIlehGyw
         description: Sunny Aggarwal [@sunnya97](https://twitter.com/sunnya97), Researcher and Core Dev at [Tendermint](https://tendermint.com/) and [Cosmos](https://cosmos.network/).
-      -
-        key:  Is Open Source Software Immortal?
-        link: https://youtu.be/OYXowtoGq2g
+      OYXowtoGq2g:
+        __link: https://youtu.be/OYXowtoGq2g
         title: Is Open Source Software Immortal?
-        youtube: OYXowtoGq2g
+        __youtube: OYXowtoGq2g
         description: Zachary Belford [@belfordz](https://twitter.com/belfordz), Co-Lead Tooling Developer at [ETC Core](https://etccore.io/).
-      -
-        key:  "Merging Blockchains: A Technical Perspective"
-        link: https://youtu.be/UhkEYWdI44w
+      UhkEYWdI44w:
+        __link: https://youtu.be/UhkEYWdI44w
         title: "Merging Blockchains: A Technical Perspective"
-        youtube: UhkEYWdI44w
+        __youtube: UhkEYWdI44w
         description: Wei Tang [@sorpaas](https://twitter.com/sorpaas), Core Developer at [Parity](https://www.parity.io/).
-      -
-        key:  Ethereum Classic's EVM LLVM Project
-        link: https://youtu.be/11puWcx6Zf4
+      11puWcx6Zf4:
+        __link: https://youtu.be/11puWcx6Zf4
         title: Ethereum Classic's EVM LLVM Project
-        youtube: 11puWcx6Zf4
+        __youtube: 11puWcx6Zf4
         description: Alan Li [@etc_core](https://twitter.com/etc_core), Lead Compiler Engineer at [ETC Core](https://etccore.io/).
-      -
-        key:  "ECIP-1049: Why Ethereum Classic Should Adopt SHA3 Proof of Work"
-        link: https://youtu.be/qgEkMlqYvuU
+      qgEkMlqYvuU:
+        __link: https://youtu.be/qgEkMlqYvuU
         title: "ECIP-1049: Why Ethereum Classic Should Adopt SHA3 Proof of Work"
-        youtube: qgEkMlqYvuU
+        __youtube: qgEkMlqYvuU
         description: Alex Tsankov [@antsankov](https://twitter.com/antsankov), Open Source Developer at [Block Reaction](https://blockreaction.nyc/).
-      -
-        key:  Building Trust as a Miner or Miner-Maker
-        link: https://youtu.be/07Bbkzh2s8c
+      07Bbkzh2s8c:
+        __link: https://youtu.be/07Bbkzh2s8c
         title: Building Trust as a Miner or Miner-Maker
-        youtube: 07Bbkzh2s8c
+        __youtube: 07Bbkzh2s8c
         description: Nishant Sharma [@nishantsharma87](https://twitter.com/nishantsharma87), PR and Community Relations at [Bitmain](https://www.bitmain.com/).
-      -
-        key:  Ethereum Classic Ethash ASICs
-        link: https://youtu.be/ao6pDv_UvTs
+      ao6pDv_UvTs:
+        __link: https://youtu.be/ao6pDv_UvTs
         title: Ethereum Classic Ethash ASICs
-        youtube: ao6pDv_UvTs
+        __youtube: ao6pDv_UvTs
         description: Werner Almesberger [@LinzhiCorp](https://twitter.com/LinzhiCorp), System Architect at [Linzhi](https://linzhi.io/).
-      -
-        key:  "ETC Summit Mining Panel: Alex Tsankov, Nishant Sharma, Werner Almesberger, Henry Quan"
-        link: https://youtu.be/tCSSC24KeQA
+      tCSSC24KeQA:
+        __link: https://youtu.be/tCSSC24KeQA
         title: "ETC Summit Mining Panel: Alex Tsankov, Nishant Sharma, Werner Almesberger, Henry Quan"
-        youtube: tCSSC24KeQA
+        __youtube: tCSSC24KeQA
         description: Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Executive Director of [ETC Cooperative](https://etccooperative.org/).
-      -
-        key:  "ETC Summit Platform Panel: Afri Schoedon, Shane Jonas, Wei Tang, Zachary Belford, Zachary Mitton"
-        link: hhttps://youtu.be/4GQ5HAosBPs
+      4GQ5HAosBPs:
+        __link: hhttps://youtu.be/4GQ5HAosBPs
         title: "ETC Summit Platform Panel: Afri Schoedon, Shane Jonas, Wei Tang, Zachary Belford, Zachary Mitton"
-        youtube: 4GQ5HAosBPs
+        __youtube: 4GQ5HAosBPs
         description: Yaz Khoury [@Yazanator](https://twitter.com/Yazanator), Director of Developer Relations at [ETC Cooperative](https://etccooperative.org/).
-      -
-        key:  "ETC Summit Community Panel: Chelsea Palmer, Donald McIntyre, Kevin Lord, Terry Culver, Yaz Khoury"
-        link: https://youtu.be/w0K53USTxXk
+      w0K53USTxXk:
+        __link: https://youtu.be/w0K53USTxXk
         title: "ETC Summit Community Panel: Chelsea Palmer, Donald McIntyre, Kevin Lord, Terry Culver, Yaz Khoury"
-        youtube: w0K53USTxXk
+        __youtube: w0K53USTxXk
         description: Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Executive Director of [ETC Cooperative](https://etccooperative.org/).
-      -
-        key: '"Capture" Was Already Always Happening: The Complexity of Power in Blockchain Ecosystems'
-        link: https://youtu.be/Z3QFiknPAQ8
+      Z3QFiknPAQ8:
+        __link: https://youtu.be/Z3QFiknPAQ8
         title: '"Capture" Was Already Always Happening: The Complexity of Power in Blockchain Ecosystems'
-        youtube: Z3QFiknPAQ8
+        __youtube: Z3QFiknPAQ8
         description: Chelsea Palmer [@chiselinc](https://twitter.com/chiselinc), Organizer of [DogeCon](http://www.dogecon.lol/).
-      -
-        key: 'Redefining Governments Through Trusted Blockchain Applications'
-        link: https://youtu.be/_Wh8LXZ_3sc
-        title: 'Redefining Governments Through Trusted Blockchain Applications'
-        youtube: _Wh8LXZ_3sc
+      _Wh8LXZ_3sc:
+        __link: https://youtu.be/_Wh8LXZ_3sc
+        title: "Redefining Governments Through Trusted Blockchain Applications"
+        __youtube: _Wh8LXZ_3sc
         description: Edilson Osorio Junior - [@eddieoz](https://twitter.com/eddieoz), Founder of [OriginalMy](https://originalmy.com/).
-      -
-        key:  "ETC Summit 2019: Closing Keynote"
-        link: https://youtu.be/QgRyZ3GI9FM
+      QgRyZ3GI9FM:
+        __link: https://youtu.be/QgRyZ3GI9FM
         title: "ETC Summit 2019: Closing Keynote"
-        youtube: QgRyZ3GI9FM
+        __youtube: QgRyZ3GI9FM
         description: Charles Hoskinson [@IOHK_Charles](https://twitter.com/IOHK_Charles), Co-Founder/CEO of [IOHK](https://iohk.io/) and Co-Founder of the Ethereum Project.
-      -
-        key:  Closing Statements - Day 2
-        link: https://youtu.be/qYSjHeX-E98
+      qYSjHeX-E98:
+        __link: https://youtu.be/qYSjHeX-E98
         title: Closing Statements - Day 2
-        youtube: qYSjHeX-E98
+        __youtube: qYSjHeX-E98
         description: Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Executive Director of [ETC Cooperative](https://etccooperative.org/).

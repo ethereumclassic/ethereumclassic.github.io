@@ -20,7 +20,7 @@ const customStyles = css`
 
   body {
     -webkit-tap-highlight-color: ${theme`colors.purple.500`};
-    ${tw`bg-primary text-primary transition-colors duration-200 antialiased`}
+    ${tw`bg-primary text-primary`}
   }
 
   html {

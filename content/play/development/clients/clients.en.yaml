@@ -1,42 +1,36 @@
 type: info
-buttons: 
-  -
-    key: guide
+buttonItems:
+  guide:
+    __icon: book
     name: Guide
-    icon: book
-  -
-    key: release
+  release:
+    __icon: code
     name: Releases
-    icon: code
-  -
-    key: support
+  support:
+    __iconRef: supportIcon
     name: Support
-    iconRef: supportIcon
 items:
-  -
-    key: Core-Geth
+  Core-Geth:
+    __link: https://core-geth.org/
+    __guide: https://core-geth.org/install
+    __release: https://github.com/etclabscore/core-geth/releases
+    __support: https://gitter.im/core-geth/community
+    __supportIcon: fab fa-gitter
     name: Core-Geth
-    link: https://core-geth.org/
     description: Core-Geth is a distribution of go-ethereum with many flavors. For Thanos upgrade support, please use version v1.11.18 or later. Upgrade considerations, users can use their existing data directories and do not need to resync for migration to Core-Geth from the deprecated Multi-Geth client. This client is Long Term Supported by the ETC Core development team with stable funding from Ethereum Classic Labs. This is a recommended client from a well-known transparent team.
-    guide: https://core-geth.org/install
-    release: https://github.com/etclabscore/core-geth/releases
-    support: https://gitter.im/core-geth/community
-    supportIcon: fab fa-gitter
-  -
-    key: Hyperledger Besu
+  Hyperledger Besu:
+    __link: https://besu.hyperledger.org/
+    __guide: https://besu.hyperledger.org/en/stable/HowTo/Get-Started/Install-Binaries/
+    __release: https://github.com/hyperledger/besu/releases
+    __support: https://chat.hyperledger.org/
+    __supportIcon: fab fa-rocketchat
     name: Hyperledger Besu
-    link: https://besu.hyperledger.org/
     description: Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. For Thanos upgrade support, please use version 20.10.0 or later. Upgrade considerations, APIs between ParityEthereum and Besu significantly differ and mining is not very well supported in Besu at this moment. This client is Long Term Supported by the ChainSafe and ETC Cooperative teams as part of the Hyperledger project with stable funding from Grayscale's Ethereum Classic Trust. This is a recommended client from a well-known transparent team.
-    guide: https://besu.hyperledger.org/en/stable/HowTo/Get-Started/Install-Binaries/
-    release: https://github.com/hyperledger/besu/releases
-    support: https://chat.hyperledger.org/
-    supportIcon: fab fa-rocketchat
-  -
-    key: Mantis
+  Mantis:
+    __link: https://mantisclient.io/
+    __guide: https://docs.mantisclient.io/first-steps/getting-started
+    __release: https://github.com/input-output-hk/mantis/releases
+    __support: https://docs.mantisclient.io/resources/faq
+    __supportIcon: fab fa-github
     name: Mantis
-    link: https://mantisclient.io/
     description: Mantis comes in two versions, a fully-featured client and a desktop wallet. Mantis has been developed from the ground up and written in Scala for the Ethereum Classic (ETC) network. Created by IOHK to add robustness and variety to the ETC client range, Mantis includes optimizations and upgrades that improve network security, sustainability, and performance in the long term. v3.3.0 is the last Mantis release supported by IOHK which implements the Magneto hard-fork as per ECIP-1103.
-    guide: https://docs.mantisclient.io/first-steps/getting-started
-    release: https://github.com/input-output-hk/mantis/releases
-    support: https://docs.mantisclient.io/resources/faq
-    supportIcon: fab fa-github

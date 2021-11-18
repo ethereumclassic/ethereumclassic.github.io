@@ -1,72 +1,58 @@
-type: table
+__type: table
 title: Final ECIPs
 description: These ECIPs (Ethereum Classic Improvement Proposals) have been accepted and have or will be implemented soon.
-columns: 
-  -
-    key: number
-    name: Number
-    linkPrefix: https://ecips.ethereumclassic.org/ECIPs/ecip-
-  -
-    key: title
-    name: Title
-  -
-    key: author
-    name: Authors
 number: Number
 author: Authors
-items: 
-  - 
+columnItems:
+  number:
+    name: Number
+    __linkPrefix: https://ecips.ethereumclassic.org/ECIPs/ecip-
+  title:
+    name: Title
+  author:
+    name: Authors
+items:
+  Delay Difficulty Bomb Explosion:
     number: 1010
-    key: Delay Difficulty Bomb Explosion
     title: Delay Difficulty Bomb Explosion
     author: Igor Artamonov
-  - 
+  Long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks:
     number: 1015
-    key: Long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks
     title: Long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks
     author: Cody W Burns
-  - 
+  Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule:
     number: 1017
-    key: Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule
     title: Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule
     author: Matthew Mazur
-  - 
+  Monetary policy rounding specification:
     number: 1039
-    key: Monetary policy rounding specification
     title: Monetary policy rounding specification
     author: Isaac Ardis
-  - 
+  Remove Difficulty Bomb:
     number: 1041
-    key: Remove Difficulty Bomb
     title: Remove Difficulty Bomb
     author: Igor Artamonov
-  - 
+  Clique proof-of-authority consensus protocol:
     number: 1048
-    key:  Clique proof-of-authority consensus protocol
-    title:  Clique proof-of-authority consensus protocol
-    author:  Péter Szilágyi
-  - 
+    title: Clique proof-of-authority consensus protocol
+    author: Péter Szilágyi
+  Status Codes:
     number: 1050
-    key:  Status Codes
-    title:  Status Codes
-    author:  Brooklyn Zelenka, Boris Mann
-  - 
+    title: Status Codes
+    author: Brooklyn Zelenka, Boris Mann
+  Atlantis EVM and Protocol Upgrades:
     number: 1054
-    key: Atlantis EVM and Protocol Upgrades
     title: Atlantis EVM and Protocol Upgrades
     author: Isaac Ardis
-  - 
+  Agharta EVM and Protocol Upgrades:
     number: 1056
-    key: Agharta EVM and Protocol Upgrades
     title: Agharta EVM and Protocol Upgrades
     author: Isaac Ardis, Wei Tang
-  - 
+  Phoenix EVM and Protocol Upgrades:
     number: 1088
-    key: Phoenix EVM and Protocol Upgrades
     title: Phoenix EVM and Protocol Upgrades
     author: Raw Pong Ghmoa
-  - 
+  Calibrate Epoch Duration:
     number: 1099
-    key: Calibrate Epoch Duration
     title: Calibrate Epoch Duration
     author: Luke Williams

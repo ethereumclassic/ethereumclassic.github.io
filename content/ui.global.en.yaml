@@ -17,26 +17,26 @@ htmlLang: en
 #  Do not edit this!
 __bodyClass: default
 #  ## Misc
-search: Search
-notFound: Page not found
-notFoundText: Sorry, this page doesn't exist
-goBack: Go Back
-#  ## Latest Blog Posts
-# Appears on landing page and blog section
-disclaimer: The links on this page are contributions by ETC participants and are not guaranteed to be safe; use them at your own risk! Please do your own research before using any of resources on this site.
-contribute: "If you feel there is incorrect or missing content on this page, please reach out via the [Ethereum Classic Discord](https://discord.gg/hQs894U) or create an issue on [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io)."
-license: The content on this page is made available under the license
-learnMore: Learn More
-continueReading: Continue Reading
+# search: Search
+# notFound: Page not found
+# notFoundText: Sorry, this page doesn't exist
+# goBack: Go Back
+# #  ## Latest Blog Posts
+# # Appears on landing page and blog section
+# disclaimer: The links on this page are contributions by ETC participants and are not guaranteed to be safe; use them at your own risk! Please do your own research before using any of resources on this site.
+# contribute: "If you feel there is incorrect or missing content on this page, please reach out via the [Ethereum Classic Discord](https://discord.gg/hQs894U) or create an issue on [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io)."
+# license: The content on this page is made available under the license
+# learnMore: Learn More
+# continueReading: Continue Reading
 ## pop up
-warning:
-  enabled: true
-  type: notice
-  title: "Note"
-  description: "Please update your CoreGeth client to the v1.12.1. The Geth exploit, that split the Ethereum mainnet, now splits the Ethereum Classic mainnet. It is only specific to CoreGeth. More on: https://medium.com/@stevan.blog/ethereum-classic-chain-split-announcement-sept-03-2021-e5168e752305"
-  button:
-    link: /development/clients
-    text: Update Client
+# warning:
+#   enabled: true
+#   type: notice
+#   title: "Note"
+#   description: "Please update your CoreGeth client to the v1.12.1. The Geth exploit, that split the Ethereum mainnet, now splits the Ethereum Classic mainnet. It is only specific to CoreGeth. More on: https://medium.com/@stevan.blog/ethereum-classic-chain-split-announcement-sept-03-2021-e5168e752305"
+#   button:
+#     link: /development/clients
+#     text: Update Client
 socialItems:
   github:
     __link: "#"

@@ -1,186 +1,148 @@
+__disclaimer: true
+__contribute: true
 title: Developer Tools
-description: A collection of tools to enhance the Ethereum Classic application development experience
-disclaimer: true
-contribute: true
-intro: |
+meta: A collection of tools to enhance the Ethereum Classic application development experience
+description: |
   Good tools make a skilled craftsman better. This section contains a suite of excellent tools that can level up your development experience.
 
   ## Clients
 
   For more information on the various ETC clients, check out the [clients](/development/clients) page.
-content:
-  - 
-    key: processors
-    type: buttons
+items:
+  processors:
+    __type: buttons
     title: Payment Processors
     description: These APIs can be used to accept ETC payments in your website or application.
     items:
-      - 
-        key: AnyCoinDirect
-        name: AnyCoinDirect 
-        link: https://anycoindirect.eu/en/buy-ethereum-classic
-      - 
-        key: Bit4Sale
-        name: Bit4Sale 
-        link: https://bit4.sale/
-      - 
-        key: Bitladon
-        name: Bitladon 
-        link: https://www.bitladon.com/ethereum-classic
-      - 
-        key: CoinsBee
-        name: CoinsBee 
-        link: https://www.coinsbee.com/
-      - 
-        key: CoinDirect
-        name: CoinDirect 
-        link: https://www.coindirect.com/
-      - 
-        key: CoinGate
-        name: CoinGate 
-        link: https://coingate.com/
-      - 
-        key: Coinmerce
-        name: Coinmerce 
-        link: https://coinmerce.io/
-      - 
-        key: CoinPayments
-        name: CoinPayments 
-        link: https://www.coinpayments.net/
-      - 
-        key: Cryptomate
-        name: Cryptomate 
-        link: https://cryptomate.co.uk/buy-ethereum-classic/
-      - 
-        key: Cryptonator Merchant
-        name: Cryptonator Merchant 
-        link: https://www.cryptonator.com/merchant/
-      - 
-        key: Cryptwerk
-        name: Cryptwerk 
-        link: https://cryptwerk.com/pay-with/etc/
-      - 
-        key: Fud Desk
-        name: Fud Desk 
-        link: https://fuddesk.com/buy-crypto
-      - 
-        key: LiteBit
-        name: LiteBit 
-        link: https://www.litebit.eu/en/buy/ethereumclassic#rate-tile-ethereumclassic
-      - 
-        key: NOWPayments
-        name: NOWPayments 
-        link: https://nowpayments.io/
-      - 
-        key: Paxful
-        name: Paxful 
-        link: https://paxful.com/sell-bitcoin/ethereum-classic-etc
-      - 
-        key: RoundlyX
-        name: RoundlyX 
-        link: https://www.roundlyx.com/
-      - 
-        key: Utrust
-        name: Utrust 
-        link: https://utrust.com/
-  -
-    key: tooling
-    type: links
+      AnyCoinDirect:
+        __link: https://anycoindirect.eu/en/buy-ethereum-classic
+        name: AnyCoinDirect
+      Bit4Sale:
+        __link: https://bit4.sale/
+        name: Bit4Sale
+      Bitladon:
+        __link: https://www.bitladon.com/ethereum-classic
+        name: Bitladon
+      CoinsBee:
+        __link: https://www.coinsbee.com/
+        name: CoinsBee
+      CoinDirect:
+        __link: https://www.coindirect.com/
+        name: CoinDirect
+      CoinGate:
+        __link: https://coingate.com/
+        name: CoinGate
+      Coinmerce:
+        __link: https://coinmerce.io/
+        name: Coinmerce
+      CoinPayments:
+        __link: https://www.coinpayments.net/
+        name: CoinPayments
+      Cryptomate:
+        __link: https://cryptomate.co.uk/buy-ethereum-classic/
+        name: Cryptomate
+      Cryptonator Merchant:
+        __link: https://www.cryptonator.com/merchant/
+        name: Cryptonator Merchant
+      Cryptwerk:
+        __link: https://cryptwerk.com/pay-with/etc/
+        name: Cryptwerk
+      Fud Desk:
+        __link: https://fuddesk.com/buy-crypto
+        name: Fud Desk
+      LiteBit:
+        __link: https://www.litebit.eu/en/buy/ethereumclassic#rate-tile-ethereumclassic
+        name: LiteBit
+      NOWPayments:
+        __link: https://nowpayments.io/
+        name: NOWPayments
+      Paxful:
+        __link: https://paxful.com/sell-bitcoin/ethereum-classic-etc
+        name: Paxful
+      RoundlyX:
+        __link: https://www.roundlyx.com/
+        name: RoundlyX
+      Utrust:
+        __link: https://utrust.com/
+        name: Utrust
+  tooling:
+    __type: links
     title: Development Tooling
     description: A non-exhaustive selection of tools that can aid development of Ethereum Classic applications.
     items:
-      - 
-        key: BUIDL IDE
+      BUIDL IDE:
+        __link: https://buidl.secondstate.io/etc
         name: BUIDL IDE
-        link: https://buidl.secondstate.io/etc
         description: Second State BUIDL IDE is a web-based IDE that requires no software download or install. It provides a one-stop development and deployment environment for smart contract and dapp developers.
-      - 
-        key: Dappkit
+      Dappkit:
+        __link: https://dappkit.io/
         name: Dappkit
-        link: https://dappkit.io/
         description: A ledger-agnostic, high-performance infrastructure and libraries for developers to build and scale decentralized applications. In short, collaborative Firebase for Dapps.
-      - 
-        key: Embark Framework
+      Embark Framework:
+        __link: https://framework.embarklabs.io/
         name: Embark Framework
-        link: https://framework.embarklabs.io/
         description: Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
-      - 
-        key: Emerald Platform
+      Emerald Platform:
+        __link: https://github.com/ETCDEVTeam/emerald-platform
         name: Emerald Platform
-        link: https://github.com/ETCDEVTeam/emerald-platform
         description: Platform for building Dapps for ETC blockchain.
-      - 
-        key: ESerialize
+      ESerialize:
+        __link: https://eserialize.com/?input=string&output=hex
         name: ESerialize
-        link: https://eserialize.com/?input=string&output=hex
         description: The goal of this module is to provide easy functions to serialize and deserialize data for the Ethereum Stack.
-      - 
-        key: Ethereum JSON-RPC API
+      Ethereum JSON-RPC API:
+        __link: https://github.com/etclabscore/ethereum-json-rpc-specification
         name: Ethereum JSON-RPC API
-        link: https://github.com/etclabscore/ethereum-json-rpc-specification
         description: A specification of JSON-RPC methods that an EVM-based blockchain client must implement.
-      - 
-        key: Eth Fiddle
+      Eth Fiddle:
+        __link: https://ethfiddle.com/
         name: Eth Fiddle
-        link: https://ethfiddle.com/
         description: Online editor for smart contracts.
-      - 
-        key: EVM-LLVM
+      EVM-LLVM:
+        __link: https://github.com/etclabscore/evm_llvm
         name: EVM-LLVM
-        link: https://github.com/etclabscore/evm_llvm
         description: Not only can developers use a large scope of programming languages (Rust for smart contracts!) other than Solidity to target the Ethereum Virtual Machine (EVM), they can also immediately benefit from various development tools built around LLVM infrastructure.
-      - 
-        key: Ganache
+      Ganache:
+        __link: https://www.trufflesuite.com/ganache
         name: Ganache
-        link: https://www.trufflesuite.com/ganache
         description: Personal Ethereum blockchain to run tests.
-      - 
-        key: Jade Suite
+      Jade Suite:
+        __link: https://jade.builders/
         name: Jade Suite
-        link: https://jade.builders/
         description: The Jade suite of tools empowers developers to create peer-to-peer decentralized applications on top of EVM-based blockchains like Ethereum Classic.
-      - 
-        key: Mythx
+      Mythx:
+        __link: https://mythx.io/
         name: Mythx
-        link: https://mythx.io/
         description: MythX is the premier security analysis service for Ethereum smart contracts. Our mission is to ensure development teams avoid costly errors and make Ethereum a more secure and trustworthy platform.
-      - 
-        key: Open-RPC
+      Open-RPC:
+        __link: https://open-rpc.org/
         name: Open-RPC
-        link: https://open-rpc.org/
         description: The OpenRPC Specification defines a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs.
-      - 
-        key: OpenZeppelin
+      OpenZeppelin:
+        __link: https://openzeppelin.org/
         name: OpenZeppelin
-        link: https://openzeppelin.org/
         description: Battle-tested framework of secure, reusable smart contracts.
-      - 
-        key: Quorum
+      Quorum:
+        __link: https://www.goquorum.com/
         name: Quorum
-        link: https://www.goquorum.com/
         description: Quorum is an open source blockchain platform that combines the innovation of the public Ethereum community with enhancements to support enterprise needs.
-      - 
-        key: Remix Online IDE
+      Remix Online IDE:
+        __link: https://remix.ethereum.org/
         name: Remix Online IDE
-        link: https://remix.ethereum.org/
         description: A useful in-browser IDE that can compile and publish smart contracts to various Ethereum networks. Includes a linter.
-      - 
-        key: Signatory
+      Signatory:
+        __link: https://signatory.dev/
         name: Signatory
-        link: https://signatory.dev/
         description: An offline transaction and message signer for the Ethereum Stack.
-      - 
-        key: SOLL
+      SOLL:
+        __link: https://github.com/second-state/soll
         name: SOLL
-        link: https://github.com/second-state/soll
         description: The LLVM compiler is finally coming to Solidity. With it, we can easily create smart contracts across multiple blockchain VMs. The EVM on Ethereum Classic and ETH 2.0's eWASM are among the first we support.
-      - 
-        key: Sputnikvm
+      Sputnikvm:
+        __link: https://github.com/ETCDEVTeam/sputnikvm
         name: Sputnikvm
-        link: https://github.com/ETCDEVTeam/sputnikvm
         description: SputnikVM is an open source standalone implementation of Ethereum Virtual Machine (EVM). It aims to be an efficient, pluggable virtual machine for different Ethereum-based blockchains.
-      - 
-        key: Truffle Suite
+      Truffle Suite:
+        __link: https://www.trufflesuite.com/
         name: Truffle Suite
-        link: https://www.trufflesuite.com/
         description: A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.

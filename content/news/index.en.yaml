@@ -3,9 +3,9 @@ description: Blog articles and news links from all over the internet pertaining 
 submit: Submit Links or Articles
 englishItems: English News
 intro: Ethereum Classic Blog and Links from all over the internet
-rss: 
+rss:
   text: News RSS Feed
-  link: /rss.xml
+  __link: /rss.xml
 filters: Filters
 years: Years
 tags: Tags

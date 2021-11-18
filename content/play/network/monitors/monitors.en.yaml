@@ -1,67 +1,51 @@
-configRef: networkTableConfig
-key: monitors
+__configRef: networkTableConfig
 title: Network Monitors
 description: Network monitors provide insights into the network's health like providing analysis on miners, nodes, network performance, user activity. Additionally, these tools alert to network attacks like a 51% attack.
 items:
-  -
-    key: ThanosUpgrade
+  ThanosUpgrade:
     name: Thanos Hard Fork Monitor
-    etc: https://etcnodes.org/thanos
-  -
-    key: 2Miners
+    __etc: https://etcnodes.org/thanos
+  2Miners:
     name: 2Miners
-    etc: https://2miners.com/etc-stats/
-  -
-    key: CoinMetrics
+    __etc: https://2miners.com/etc-stats/
+  CoinMetrics:
     name: CoinMetrics
-    etc: https://coinmetrics.io/charts/#assets=etc
-  -
-    key: CoinWarz
+    __etc: https://coinmetrics.io/charts/#assets=etc
+  CoinWarz:
     name: CoinWarz
-    etc: https://www.coinwarz.com/mining/ethereum-classic
-  -
-    key: Emerald Insights
+    __etc: https://www.coinwarz.com/mining/ethereum-classic
+  Emerald Insights:
     name: Emerald Insights
-    etc: https://insights.emeraldpay.io/
-  -
-    key: ETCNetStats
+    __etc: https://insights.emeraldpay.io/
+  ETCNetStats:
     name: ETC Net Stats
-    etc: https://etcnetstats.com/
-  -
-    key: ETCNodes
+    __etc: https://etcnetstats.com/
+  ETCNodes:
     name: ETCNodes
-    etc: https://etcnodes.org/
-  -
-    key: Expedition
+    __etc: https://etcnodes.org/
+  Expedition:
     name: Expedition
-    etc: https://expedition.dev/?network=mainnet
-    kotti: https://expedition.dev/?network=kotti
-    mordor: https://expedition.dev/?network=mordor
-  -
-    key: ForkWatch
+    __etc: https://expedition.dev/?network=mainnet
+    __kotti: https://expedition.dev/?network=kotti
+    __mordor: https://expedition.dev/?network=mordor
+  ForkWatch:
     name: Fork Watch
-    etc: https://www.forkwatch.io/
-  -
-    key: MiningPoolStats
+    __etc: https://www.forkwatch.io/
+  MiningPoolStats:
     name: MiningPoolStats
-    etc: https://miningpoolstats.stream/ethereumclassic
-  -
-    key: Nanopool
+    __etc: https://miningpoolstats.stream/ethereumclassic
+  Nanopool:
     name: Nanopool
-    etc: https://etc.nanopool.org/stats
-  -
-    key: PoolDetective
+    __etc: https://etc.nanopool.org/stats
+  PoolDetective:
     name: Pool Detective
-    etc: https://pooldetective.org/
-  -
-    key: TokenView
+    __etc: https://pooldetective.org/
+  TokenView:
     name: TokenView
-    etc: https://etc.tokenview.com/en/charts
-  -
-    key: WhatToMine
+    __etc: https://etc.tokenview.com/en/charts
+  WhatToMine:
     name: WhatToMine
-    etc: https://whattomine.com/coins/162-etc-ethash
-  -
-    key: Kotti Stats
+    __etc: https://whattomine.com/coins/162-etc-ethash
+  Kotti Stats:
     name: Kotti Stats
-    kotti: http://stats.kotti.goerli.net/
+    __kotti: http://stats.kotti.goerli.net/

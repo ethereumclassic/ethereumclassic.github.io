@@ -4,7 +4,7 @@ import "twin.macro";
 import Link from "./link";
 import Md from "./markdownDynamic";
 
-export default function ContentItemLinks({ items = [] }) {
+export default function ContentItemLinks({ items }) {
   return (
     <>
       {items.map(({ key, link, name, tip, description }) => (

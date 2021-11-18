@@ -3,8 +3,6 @@ import React from "react";
 import Md from "./markdownDynamic";
 import * as linkedHeaders from "./linkedHeaders";
 
-// TODO make headers show link for cliking
-
 export default function GenericHeader({
   title,
   description,

@@ -1,82 +1,68 @@
-contribute: true
-disclaimer: true
+__contribute: true
+__disclaimer: true
 title: Clients
-description: Download links for various Ethereum Classic clients and deployment tools
-intro: Clients are the protocol providing software of the Ethereum Classic protocol. Clients allow you to run a mainnet or testnet node, validate blocks through mining, and interface with the network through API.
-content:
-  -
+meta: Download links for various Ethereum Classic clients and deployment tools
+description: Clients are the protocol providing software of the Ethereum Classic protocol. Clients allow you to run a mainnet or testnet node, validate blocks through mining, and interface with the network through API.
+items:
+  clients:
     configRef: clients
-  -
-    type: buttons
+  endpoints:
+    __type: buttons
     title: Public Endpoints
     description: You can use these services to connect to ETC via JSON-RPC.
     items:
-      -
-        key: BlockScout API
-        link: https://blockscout.com/etc/mainnet/api_docs
+      BlockScout API:
+        __link: https://blockscout.com/etc/mainnet/api_docs
         name: BlockScout API
-      -
-        key: Ethercluster
-        link: https://www.ethercluster.com/etc
+      Ethercluster:
+        __link: https://www.ethercluster.com/etc
         name: Ethercluster
-      -
-        key: Ethercluster (Kotti)
-        link: https://www.ethercluster.com/kotti
+      Ethercluster (Kotti):
+        __link: https://www.ethercluster.com/kotti
         name: Ethercluster (Kotti)
-      -
-        key: Ethercluster (Mordor)
-        link: https://www.ethercluster.com/mordor
+      Ethercluster (Mordor):
+        __link: https://www.ethercluster.com/mordor
         name: Ethercluster (Mordor)
-      -
-        key: RIVET API
-        link: https://rivet.cloud/
+      RIVET API:
+        __link: https://rivet.cloud/
         name: RIVET
-      -
-        key: TokenView API
-        link: https://services.tokenview.com
+      TokenView API:
+        __link: https://services.tokenview.com
         name: TokenView API
-  -
-    type: links
+  tools:
+    __type: links
     title: Node Tools
     description: These tools make it easy to spin up a cluster of nodes for production deployments or perform data science with public datasets.
     items:
-      - 
-        key: Bloq Cloud
+      Bloq Cloud:
         name: Bloq Cloud
-        link: https://bloq.cloud/
+        __link: https://bloq.cloud/
         description: BloqCloud delivers highly-optimized, always available access to blockchain networks. Connect quickly and scale easily based on your needs -- without having to worry about managing infrastructure.
-      - 
-        key: DappNode
-        link: https://dappnode.io/
+      DappNode:
+        __link: https://dappnode.io/
         name: DappNode
         description: DAppNode facilitates running nodes, DApps and hosting P2P networks and economies.
-      - 
-        key: Ethercluster
-        link: https://www.ethercluster.com/
+      Ethercluster:
+        __link: https://www.ethercluster.com/
         name: Ethercluster
         description: Ethercluster is an open-sourced Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) providing Ethereum Classic (ETC) and Kotti endpoints for free.
-      - 
-        key: GetBlock
+      GetBlock:
         name: GetBlock
-        link: https://getblock.io
+        __link: https://getblock.io
         description: GetBlock is a service that provides connection for the major cryptocurrencies’ nodes. They support such tools like JSON-RPC, REST, and WebSockets, which facilitates direct synchronization with the blockchain. There is no need to run a node yourself, the platform allows its customers to connect to a blockchain via a full node without having to pay a fee.
-      - 
-        key: Google BigQuery
+      Google BigQuery:
         name: Google BigQuery
-        link: https://console.cloud.google.com/marketplace/details/ethereum-classic/crypto-ethereum-classic?filter=solution-type:dataset&q=ethereum%20classic&id=babd6e83-ec5f-4b0a-b44f-64d37710a71d
-        description:  Google Cloud released datasets consisting of the blockchain transaction history for Ethereum Classic, to help you better understand cryptocurrency. Also included a set of queries and views that map all blockchain datasets to a double-entry book data structure that enables multi-chain meta-analyses, as well as integration with conventional financial record processing systems.
-      - 
-        key: Raspberry Pi Node
-        link: https://core-geth.org/setup-on-raspberry-pi
+        __link: https://console.cloud.google.com/marketplace/details/ethereum-classic/crypto-ethereum-classic?filter=solution-type:dataset&q=ethereum%20classic&id=babd6e83-ec5f-4b0a-b44f-64d37710a71d
+        description: Google Cloud released datasets consisting of the blockchain transaction history for Ethereum Classic, to help you better understand cryptocurrency. Also included a set of queries and views that map all blockchain datasets to a double-entry book data structure that enables multi-chain meta-analyses, as well as integration with conventional financial record processing systems.
+      Raspberry Pi Node:
+        __link: https://core-geth.org/setup-on-raspberry-pi
         name: Raspberry Pi Node
         description: A detailed guide for how to setup an Ethereum Classic node on a Raspberry Pi.
-      - 
-        key: Rivet Cloud
-        link: https://rivet.cloud/
+      Rivet Cloud:
+        __link: https://rivet.cloud/
         name: RIVET
         description: Infinitely-scalable, highly-available Ethereum and Ethereum Classic endpoints that truly just work.
-      - 
-        key: QuikNode
-        link: https://quiknode.io/
+      QuikNode:
+        __link: https://quiknode.io/
         name: QuikNode
         description: QuikNodes are easy, always on, with a fast internet connection for quick blockchain sync, and you never have to worry about running out of disk space.

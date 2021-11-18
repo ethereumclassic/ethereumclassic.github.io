@@ -15,14 +15,14 @@ function CellButton({ button, item }) {
   );
 }
 
-export default function ContentItemCells({ items, buttons }) {
+export default function ContentItemCells({ items, buttonItems }) {
   return (
-    <div className="cells">
+    <>
       {items.map((item) => (
         <div key={item.key} className="cell">
-          {buttons && (
-            <div className="buttons merged float-right">
-              {buttons.map((button) => (
+          {buttonItems && (
+            <div className="buttonItems merged float-right">
+              {buttonItems.map((button) => (
                 <CellButton key={button.key} button={button} item={item} />
               ))}
             </div>
@@ -41,6 +41,6 @@ export default function ContentItemCells({ items, buttons }) {
           {"  "}
         </div>
       ))}
-    </div>
+    </>
   );
 }

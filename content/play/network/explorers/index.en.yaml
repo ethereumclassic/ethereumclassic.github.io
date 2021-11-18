@@ -1,0 +1,39 @@
+__contribute: true
+__disclaimer: true
+__license: CC-BY
+title: Explorers
+meta: EVM references, gas fee estimators, monitors and faucets for Ethereum Classic mainnet and testnet
+# kotti: Kotti
+# mordor: Mordor
+# astor: Astor
+description: |
+  Need to find out the state of the Ethereum Classic network? You're in the right place. Here are a selection of tools that can help you get to know the chain, including faucets, explorers and monitors.
+
+  ## Clients
+
+  For more information on the various Ethereum Classic clients, check out the [clients](/development/clients) page.
+
+# networkTableConfig:
+#   type: table
+#   intro: testing
+#   hideHeader: true
+#   columns:
+#     name: {}
+#     etc:
+#     __linkRef: etc
+#       text: Mainnet
+#     kotti:
+#     __linkRef: kotti
+#       text: Kotti
+#     mordor:
+#     __linkRef: mordor
+#       text: Mordor
+#     astor:
+#     __linkRef: astor
+# #       text: Astor
+# # content:
+# #   - configRef: chains
+# #   - configRef: gas
+# #   - configRef: explorers
+# #   - configRef: monitors
+# #   - configRef: faucets

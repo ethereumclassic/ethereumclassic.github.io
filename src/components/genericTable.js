@@ -4,10 +4,10 @@ import Link from "./link";
 
 function CellContent({ item, column, i18n }) {
   let inner = item[column.key];
-  if (column.icons) {
+  if (column.iconItems) {
     return (
-      <div className="icons">
-        {column.icons.map(({ key, linkRef, icon, brand }) => {
+      <div>
+        {column.iconItems.map(({ key, linkRef, icon, brand }) => {
           return (
             item[linkRef] && (
               <Link key={key} to={item[linkRef]} icon={icon} brand={brand} />
@@ -46,7 +46,7 @@ function CellContent({ item, column, i18n }) {
   return inner || null;
 }
 
-export default function GenericTable({ items, columns, hideHead, i18n }) {
+export default function GenericTable({ items, columnItems, hideHead, i18n }) {
   return (
     <div className="table">
       <div className="table-inner">
@@ -54,7 +54,7 @@ export default function GenericTable({ items, columns, hideHead, i18n }) {
           {!hideHead && (
             <thead>
               <tr>
-                {columns.map(({ name, key, className }) => (
+                {columnItems.map(({ name, key, className }) => (
                   <th key={key} className={className}>
                     {name}
                   </th>
@@ -65,7 +65,7 @@ export default function GenericTable({ items, columns, hideHead, i18n }) {
           <tbody>
             {items.map((item) => (
               <tr key={item.key} className={item.className}>
-                {columns.map((column) => (
+                {columnItems.map((column) => (
                   <td key={column.key} className={column.className}>
                     <CellContent {...{ item, column, i18n }} />
                   </td>
