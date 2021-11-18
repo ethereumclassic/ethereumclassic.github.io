@@ -12,11 +12,9 @@ export default function ContentItemButtons({ items }) {
   return (
     <>
       {items.map(({ key, name, link }) => (
-        <Fragment key={key}>
-          <Link to={link} button tw="whitespace-nowrap">
-            {name}
-          </Link>{" "}
-        </Fragment>
+        <Link key={key} to={link} button>
+          {name}
+        </Link>
       ))}
     </>
   );

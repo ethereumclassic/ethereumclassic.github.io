@@ -72,7 +72,7 @@ function resolveRefs(_obj, refs) {
     return resolveRefs({ ...ref, ...obj }, refs);
   }
   if (itemsRef) {
-    const items = getDescendantProp(refs, itemsRef);
+    const { items } = getDescendantProp(refs, itemsRef);
     return { ...obj, items };
   }
   return obj;

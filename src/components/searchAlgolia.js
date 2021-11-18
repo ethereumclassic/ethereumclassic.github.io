@@ -19,7 +19,6 @@ let firstLoad = true;
 // hack to prevent it calling algolia each page load
 const searchClient = {
   search(requests) {
-    console.log("requested", requests[0].params.query);
     if (firstLoad === true) {
       firstLoad = false;
       return;

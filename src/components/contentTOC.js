@@ -33,11 +33,11 @@ function LinkItems({ items, depth = 0 }) {
 function generateToc(_item, i18n) {
   // TODO resolve refs higher up else to keep it dry?
   const item = resolveRefs(_item, i18n);
-  const content = item.content || item.contentItems || item.items || [];
+  const items = item.items || [];
   if (item.title) {
     return {
       title: item.title,
-      items: content.map((i) => generateToc(i, i18n)).filter((i) => i),
+      items: items.map((i) => generateToc(i, i18n)).filter((i) => i),
     };
   }
   return null;

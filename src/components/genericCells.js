@@ -1,4 +1,6 @@
 import React from "react";
+import "twin.macro";
+
 import Link from "./link";
 import Md from "./markdownDynamic";
 
@@ -15,34 +17,29 @@ function CellButton({ button, item }) {
   );
 }
 
-export default function ContentItemCells({ items, buttonItems }) {
+export default function GenericCells({ items, buttonItems = [], cells }) {
   return (
-    <>
-      {items.map((item) => (
-        <div key={item.key} className="cell">
-          {buttonItems && (
-            <div className="buttonItems merged float-right">
-              {buttonItems.map((button) => (
-                <CellButton key={button.key} button={button} item={item} />
-              ))}
+    <div tw="bg-white shadow sm:rounded-md divide-y divide-gray-200">
+      {items.map((item) => {
+        const { key, link, name, description } = item;
+        return (
+          <div tw="p-4" key={key}>
+            <div tw="flex">
+              <h3 tw="!mt-2 flex-auto">
+                <Link to={link} showExternal>
+                  {name}
+                </Link>
+              </h3>
+              <div>
+                {buttonItems.map((button) => (
+                  <CellButton key={button.key} button={button} item={item} />
+                ))}
+              </div>
             </div>
-          )}
-          <h3>
-            <Link to={item.link} showExternal>
-              {item.name}
-            </Link>
-          </h3>
-          <div className="clear" />
-          {item.warning && (
-            <div className="tip warning">
-              <i className="info fas fa-exclamation-triangle" />
-              {item.warning}
-            </div>
-          )}
-          {item.description && <Md>{item.description}</Md>}
-          {"  "}
-        </div>
-      ))}
-    </>
+            <Md>{description}</Md>
+          </div>
+        );
+      })}
+    </div>
   );
 }

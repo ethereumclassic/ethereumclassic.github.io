@@ -1,4 +1,5 @@
-type: info
+type: cells
+cells: true
 buttonItems:
   guide:
     __icon: book

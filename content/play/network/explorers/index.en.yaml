@@ -1,39 +1,52 @@
-__contribute: true
-__disclaimer: true
-__license: CC-BY
-title: Explorers
-meta: EVM references, gas fee estimators, monitors and faucets for Ethereum Classic mainnet and testnet
-# kotti: Kotti
-# mordor: Mordor
-# astor: Astor
-description: |
-  Need to find out the state of the Ethereum Classic network? You're in the right place. Here are a selection of tools that can help you get to know the chain, including faucets, explorers and monitors.
-
-  ## Clients
-
-  For more information on the various Ethereum Classic clients, check out the [clients](/development/clients) page.
-
-# networkTableConfig:
-#   type: table
-#   intro: testing
-#   hideHeader: true
-#   columns:
-#     name: {}
-#     etc:
-#     __linkRef: etc
-#       text: Mainnet
-#     kotti:
-#     __linkRef: kotti
-#       text: Kotti
-#     mordor:
-#     __linkRef: mordor
-#       text: Mordor
-#     astor:
-#     __linkRef: astor
-# #       text: Astor
-# # content:
-# #   - configRef: chains
-# #   - configRef: gas
-# #   - configRef: explorers
-# #   - configRef: monitors
-# #   - configRef: faucets
+title: Blockchain Explorers
+description: A blockchain explorer is a browser for the blockchain, similar to how we have browsers like Brave Browser and FireFox for internet web pages. All cryptocurrency users rely on blockchain explorers to track their transactions. Browse the list of Ethereum Classic explorers to find an interface that you like and add it to your bookmarks.
+items:
+  explorers:
+    type: table
+    intro: testing
+    hideHeader: true
+    columnItems:
+      name: {}
+      etc:
+        __linkRef: etc
+        text: Mainnet
+      kotti:
+        __linkRef: kotti
+        text: Kotti
+      mordor:
+        __linkRef: mordor
+        text: Mordor
+    items:
+      AnyBlock:
+        name: AnyBlock
+        __etc: https://explorer.anyblock.tools/ethereum/classic/mainnet/
+        __kotti: https://explorer.anyblock.tools/ethereum/classic/kotti/
+        __mordor: https://explorer.anyblock.tools/ethereum/classic/mordor/
+      Bitquery:
+        name: Bitquery
+        __etc: https://explorer.bitquery.io/ethclassic/
+      BlockScout:
+        name: BlockScout
+        __etc: https://blockscout.com/etc/mainnet/
+        __kotti: https://blockscout.com/etc/kotti/
+        __mordor: https://blockscout.com/etc/mordor/
+      Emerald Receipt:
+        name: Emerald Receipt
+        __etc: https://receipt.emeraldpay.io/
+      ETCBlockExplorer:
+        name: ETCBlockExplorer
+        __etc: https://etcblockexplorer.com/
+      Expedition:
+        name: Expedition
+        __etc: https://expedition.dev/?network=mainnet
+        __kotti: https://expedition.dev/?network=kotti
+        __mordor: https://expedition.dev/?network=mordor
+      MinerGate:
+        name: MinerGate
+        __etc: https://minergate.com/blockchain/etc/blocks
+      OKLink:
+        name: OKLink
+        __etc: https://www.oklink.com/etc
+      Tokenview:
+        name: Tokenview
+        __etc: https://etc.tokenview.com/

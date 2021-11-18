@@ -6,29 +6,6 @@ description: Clients are the protocol providing software of the Ethereum Classic
 items:
   clients:
     configRef: clients
-  endpoints:
-    __type: buttons
-    title: Public Endpoints
-    description: You can use these services to connect to ETC via JSON-RPC.
-    items:
-      BlockScout API:
-        __link: https://blockscout.com/etc/mainnet/api_docs
-        name: BlockScout API
-      Ethercluster:
-        __link: https://www.ethercluster.com/etc
-        name: Ethercluster
-      Ethercluster (Kotti):
-        __link: https://www.ethercluster.com/kotti
-        name: Ethercluster (Kotti)
-      Ethercluster (Mordor):
-        __link: https://www.ethercluster.com/mordor
-        name: Ethercluster (Mordor)
-      RIVET API:
-        __link: https://rivet.cloud/
-        name: RIVET
-      TokenView API:
-        __link: https://services.tokenview.com
-        name: TokenView API
   tools:
     __type: links
     title: Node Tools
