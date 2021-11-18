@@ -2,7 +2,7 @@ import React from "react";
 import ReactMarkdown from "react-markdown";
 import "twin.macro";
 
-import LocalizedLink from "../../plugins/translations-plugin/src/components/localizedLink";
+import Link from "./link";
 
 function unwrapParagraphs(props) {
   const { children } = props;
@@ -12,16 +12,14 @@ function unwrapParagraphs(props) {
   return children;
 }
 
-function localizeLinks(props) {
-  const { children, href } = props;
-  return <LocalizedLink to={href}>{children}</LocalizedLink>;
-}
-
 export default function Markdown({ children, unwrap }) {
   if (children === undefined) {
     return null;
   }
-  const components = { link: localizeLinks };
+  const components = {
+    // link: localizeLinks,
+    a: (props) => <Link {...props} showExternal />,
+  };
   if (unwrap) {
     components.root = unwrapParagraphs;
   }

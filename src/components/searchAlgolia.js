@@ -2,10 +2,10 @@ import React, { useState } from "react";
 import tw from "twin.macro";
 import algoliasearch from "algoliasearch/lite";
 import { InstantSearch, connectSearchBox } from "react-instantsearch-dom";
-import { SearchIcon } from "@heroicons/react/outline";
 
 import Results from "./searchAlgoliaResults";
 import { useDebounce } from "rooks";
+import Icon from "./icon";
 
 // TODO move to config
 const APP_ID = "X8T4AMEJOW";
@@ -70,7 +70,7 @@ export default function SearchAgolia() {
         </label>
         <div tw="relative">
           <div tw="pointer-events-none absolute inset-y-0 left-0 pl-3 flex items-center">
-            <SearchIcon tw="h-5 w-5 text-gray-400" aria-hidden="true" />
+            <Icon icon="search" tw="h-5 w-5 text-gray-400" aria-hidden="true" />
           </div>
           <ConnectedSearchBox />
           <div tw="absolute mt-3 w-screen max-w-md right-0">

@@ -28,7 +28,9 @@ export default function ContentItemCells({ items, buttonItems }) {
             </div>
           )}
           <h3>
-            <Link to={item.link}>{item.name}</Link>
+            <Link to={item.link} showExternal>
+              {item.name}
+            </Link>
           </h3>
           <div className="clear" />
           {item.warning && (

@@ -2,7 +2,6 @@
 import React from "react";
 import "twin.macro";
 import { Popover } from "@headlessui/react";
-import { MenuIcon } from "@heroicons/react/outline";
 
 import Logo from "./logo";
 import SearchAlgolia from "./searchAlgolia";
@@ -10,6 +9,7 @@ import MainMenu from "./mainMenu";
 import MobileMenu from "./mobileMenu";
 import LocaleSelector from "./localeSelector";
 import DarkModeSwitcher from "./darkModeSwitcher";
+import Icon from "./icon";
 
 export default function Header() {
   return (
@@ -22,7 +22,7 @@ export default function Header() {
           <div tw="-mr-2 -my-2 md:hidden">
             <Popover.Button tw="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
               <span tw="sr-only">Open menu</span>
-              <MenuIcon tw="h-6 w-6" aria-hidden="true" />
+              <Icon icon="menu" tw="h-6 w-6" aria-hidden="true" />
             </Popover.Button>
           </div>
           <MainMenu />

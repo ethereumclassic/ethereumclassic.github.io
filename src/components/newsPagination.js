@@ -1,14 +1,8 @@
 import React from "react";
 import "twin.macro";
 
-import {
-  ChevronDoubleLeftIcon,
-  ChevronLeftIcon,
-  ChevronDoubleRightIcon,
-  ChevronRightIcon,
-} from "@heroicons/react/solid";
-
 import LocalizedLink from "../../plugins/translations-plugin/src/components/localizedLink";
+import Icon from "./icon";
 
 export default function NewsPagination({ pageContext }) {
   // TODO i18n
@@ -22,7 +16,8 @@ export default function NewsPagination({ pageContext }) {
               to={filterBase}
               tw="border-b-2 border-transparent pb-4 pr-1 inline-flex items-center text-sm font-medium text-gray-500 hover:text-gray-700 hover:border-gray-300"
             >
-              <ChevronDoubleLeftIcon
+              <Icon
+                icon="leftDouble"
                 tw="mr-3 h-5 w-5 text-gray-400"
                 aria-hidden="true"
               />
@@ -35,7 +30,8 @@ export default function NewsPagination({ pageContext }) {
               }
               tw="border-b-2 border-transparent pb-4 pr-1 inline-flex items-center text-sm font-medium text-gray-500 hover:text-gray-700 hover:border-gray-300"
             >
-              <ChevronLeftIcon
+              <Icon
+                icon="left"
                 tw="mr-3 h-5 w-5 text-gray-400"
                 aria-hidden="true"
               />
@@ -57,7 +53,8 @@ export default function NewsPagination({ pageContext }) {
               tw="border-b-2 border-transparent pb-4 pl-1 inline-flex items-center text-sm font-medium text-gray-500 hover:text-gray-700 hover:border-gray-300"
             >
               Next
-              <ChevronRightIcon
+              <Icon
+                icon="right"
                 tw="ml-3 h-5 w-5 text-gray-400"
                 aria-hidden="true"
               />
@@ -66,7 +63,8 @@ export default function NewsPagination({ pageContext }) {
               to={`${filterBase}/page/${numPages}`}
               tw="border-b-2 border-transparent pb-4 pl-1 inline-flex items-center text-sm font-medium text-gray-500 hover:text-gray-700 hover:border-gray-300"
             >
-              <ChevronDoubleRightIcon
+              <Icon
+                icon="rightDouble"
                 tw="ml-3 h-5 w-5 text-gray-400"
                 aria-hidden="true"
               />

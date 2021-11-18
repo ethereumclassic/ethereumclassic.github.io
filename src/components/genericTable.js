@@ -37,7 +37,7 @@ function CellContent({ item, column, i18n }) {
 
   if (link) {
     return (
-      <Link icon={column.icon} brand={column.brand} to={link}>
+      <Link showExternal icon={column.icon} brand={column.brand} to={link}>
         {inner}
       </Link>
     );

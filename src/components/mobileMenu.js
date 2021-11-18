@@ -2,28 +2,8 @@
 import React, { Fragment } from "react";
 import "twin.macro";
 import { Popover, Transition } from "@headlessui/react";
-import {
-  BookmarkAltIcon,
-  CalendarIcon,
-  ChartBarIcon,
-  CursorClickIcon,
-  MenuIcon,
-  PhoneIcon,
-  PlayIcon,
-  RefreshIcon,
-  SearchIcon,
-  ShieldCheckIcon,
-  SupportIcon,
-  ViewGridIcon,
-  XIcon,
-} from "@heroicons/react/outline";
 
-import { ChevronDownIcon } from "@heroicons/react/solid";
-import tw from "twin.macro";
-import { ClassNames } from "@emotion/react";
-// import Logo from "../header/logo";
-// import Search from "./search";
-// import MenuHorizontal from "./mainMenu";
+import Icon from "./icon";
 
 const solutions = [
   {
@@ -31,37 +11,32 @@ const solutions = [
     description:
       "Get a better understanding of where your traffic is coming from.",
     href: "#",
-    icon: ChartBarIcon,
   },
   {
     name: "Engagement",
     description: "Speak directly to your customers in a more meaningful way.",
     href: "#",
-    icon: CursorClickIcon,
   },
   {
     name: "Security",
     description: "Your customers' data will be safe and secure.",
     href: "#",
-    icon: ShieldCheckIcon,
   },
   {
     name: "Integrations",
     description: "Connect with third-party tools that you're already using.",
     href: "#",
-    icon: ViewGridIcon,
   },
   {
     name: "Automations",
     description:
       "Build strategic funnels that will drive your customers to convert",
     href: "#",
-    icon: RefreshIcon,
   },
 ];
 const callsToAction = [
-  { name: "Watch Demo", href: "#", icon: PlayIcon },
-  { name: "Contact Sales", href: "#", icon: PhoneIcon },
+  { name: "Watch Demo", href: "#" },
+  { name: "Contact Sales", href: "#" },
 ];
 const resources = [
   {
@@ -69,27 +44,23 @@ const resources = [
     description:
       "Get all of your questions answered in our forums or contact support.",
     href: "#",
-    icon: SupportIcon,
   },
   {
     name: "Guides",
     description:
       "Learn how to maximize our platform to get the most out of it.",
     href: "#",
-    icon: BookmarkAltIcon,
   },
   {
     name: "Events",
     description:
       "See what meet-ups and other events we might be planning near you.",
     href: "#",
-    icon: CalendarIcon,
   },
   {
     name: "Security",
     description: "Understand how we take your privacy seriously.",
     href: "#",
-    icon: ShieldCheckIcon,
   },
 ];
 const recentPosts = [
@@ -130,7 +101,7 @@ export default function MobileMenu() {
               <div tw="-mr-2">
                 <Popover.Button tw="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
                   <span tw="sr-only">Close menu</span>
-                  <XIcon tw="h-6 w-6" aria-hidden="true" />
+                  <Icon icon="times" tw="h-6 w-6" aria-hidden="true" />
                 </Popover.Button>
               </div>
             </div>
@@ -142,7 +113,8 @@ export default function MobileMenu() {
                     href={item.href}
                     tw="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50"
                   >
-                    <item.icon
+                    <Icon
+                      icon="menu"
                       tw="flex-shrink-0 h-6 w-6 text-indigo-600"
                       aria-hidden="true"
                     />

@@ -10,7 +10,9 @@ export default function ContentItemLinks({ items }) {
       {items.map(({ key, link, name, tip, description }) => (
         <Fragment key={key}>
           <h3>
-            <Link to={link}>{name}</Link>
+            <Link to={link} showExternal>
+              {name}
+            </Link>
             {tip && (
               <>
                 {"  "}

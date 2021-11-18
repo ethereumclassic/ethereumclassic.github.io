@@ -1,12 +1,12 @@
 import React from "react";
 import "twin.macro";
 import { Popover } from "@headlessui/react";
-import { ChevronDownIcon } from "@heroicons/react/solid";
 import tw from "twin.macro";
 
 import LocalizedLink from "../../plugins/translations-plugin/src/components/localizedLink";
 
 import MainMenuSubMenu from "./mainMenuSubMenu";
+import Icon from "./icon";
 
 export default function MainMenuItem({ item }) {
   // No MainMenuSubMenu
@@ -33,7 +33,8 @@ export default function MainMenuItem({ item }) {
             ]}
           >
             <span>{item.name}</span>
-            <ChevronDownIcon
+            <Icon
+              icon="down"
               css={[
                 tw`ml-2 h-5 w-5 group-hover:text-gray-500`,
                 open ? tw`text-gray-600` : tw`text-gray-400`,

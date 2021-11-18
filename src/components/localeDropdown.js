@@ -1,6 +1,5 @@
 import React, { Fragment } from "react";
 import { Listbox, Transition } from "@headlessui/react";
-import { CheckIcon, SelectorIcon } from "@heroicons/react/solid";
 import tw from "twin.macro";
 import { navigate } from "gatsby-link";
 
@@ -73,7 +72,11 @@ export default function LocaleDropdown() {
                               active ? tw`text-white` : tw`text-indigo-600`,
                             ]}
                           >
-                            <CheckIcon tw="h-5 w-5" aria-hidden="true" />
+                            <Icon
+                              icon="check"
+                              tw="h-5 w-5"
+                              aria-hidden="true"
+                            />
                           </span>
                         ) : null}
                       </li>
@@ -92,7 +95,11 @@ export default function LocaleDropdown() {
                 <span tw="ml-3 block truncate">{current.name}</span>
               </span>
               <span tw="ml-3 absolute inset-y-0 right-0 flex items-center pr-2 pointer-events-none">
-                <SelectorIcon tw="h-5 w-5 text-gray-400" aria-hidden="true" />
+                <Icon
+                  icon={"up"}
+                  tw="h-5 w-5 text-gray-400"
+                  aria-hidden="true"
+                />
               </span>
             </Listbox.Button>
           </div>
