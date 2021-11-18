@@ -5,7 +5,7 @@ number: Number
 author: Authors
 columnItems:
   number:
-    name: Number
+    name: "ECIP #"
     __linkPrefix: https://ecips.ethereumclassic.org/ECIPs/ecip-
   title:
     name: Title

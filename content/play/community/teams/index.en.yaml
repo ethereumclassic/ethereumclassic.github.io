@@ -16,13 +16,13 @@ items:
         name: Team Name
       social:
         name: Social
-        iconsItems:
+        iconItems:
           github:
             __linkRef: github
-            brand: github
-          __twitter:
+            __icon: github
+          twitter:
             __linkRef: twitter
-            brand: twitter
+            __icon: twitter
       active:
         __checkRef: active
         name: Active

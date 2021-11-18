@@ -18,7 +18,7 @@ export default function NewsPagination({ pageContext }) {
             >
               <Icon
                 icon="leftDouble"
-                tw="mr-3 h-5 w-5 text-gray-400"
+                tw="mr-3 h-4 text-gray-400"
                 aria-hidden="true"
               />
             </LocalizedLink>
@@ -32,7 +32,7 @@ export default function NewsPagination({ pageContext }) {
             >
               <Icon
                 icon="left"
-                tw="mr-3 h-5 w-5 text-gray-400"
+                tw="mr-3 h-4 text-gray-400"
                 aria-hidden="true"
               />
               Previous
@@ -55,7 +55,7 @@ export default function NewsPagination({ pageContext }) {
               Next
               <Icon
                 icon="right"
-                tw="ml-3 h-5 w-5 text-gray-400"
+                tw="ml-3 h-4 text-gray-400"
                 aria-hidden="true"
               />
             </LocalizedLink>
@@ -65,7 +65,7 @@ export default function NewsPagination({ pageContext }) {
             >
               <Icon
                 icon="rightDouble"
-                tw="ml-3 h-5 w-5 text-gray-400"
+                tw="ml-3 h-4 text-gray-400"
                 aria-hidden="true"
               />
             </LocalizedLink>

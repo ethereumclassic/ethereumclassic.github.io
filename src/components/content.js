@@ -32,7 +32,10 @@ export default function Content({ data: { mdx }, i18n }) {
           <ContentPrevNext />
         </main>
         <aside tw="hidden xl:block xl:col-span-3">
-          <div tw="sticky top-24 space-y-4">
+          <div
+            tw="sticky top-24 space-y-4 max-h-screen overflow-y-auto"
+            css={{ maxHeight: "70vh" }}
+          >
             <ContentTOC mdx={mdx} i18n={i18n} />
           </div>
         </aside>

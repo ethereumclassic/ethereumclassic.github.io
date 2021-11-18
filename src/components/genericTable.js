@@ -1,4 +1,6 @@
 import React from "react";
+import "twin.macro";
+import Icon from "./icon";
 
 import Link from "./link";
 
@@ -6,15 +8,15 @@ function CellContent({ item, column, i18n }) {
   let inner = item[column.key];
   if (column.iconItems) {
     return (
-      <div>
-        {column.iconItems.map(({ key, linkRef, icon, brand }) => {
+      <>
+        {column.iconItems.map(({ key, linkRef, icon }) => {
           return (
             item[linkRef] && (
-              <Link key={key} to={item[linkRef]} icon={icon} brand={brand} />
+              <Link big round button key={key} to={item[linkRef]} icon={icon} />
             )
           );
         })}
-      </div>
+      </>
     );
   }
   if (inner && column.text) {
@@ -25,9 +27,9 @@ function CellContent({ item, column, i18n }) {
   }
   if (column.checkRef) {
     inner = item[column.checkRef] ? (
-      <i className="fas fa-check check success" />
+      <Icon icon="check" tw="h-4 text-green-500" />
     ) : (
-      <i className="fas fa-times check" />
+      <Icon icon="times" tw="h-4 text-gray-300" />
     );
   }
 
@@ -37,7 +39,13 @@ function CellContent({ item, column, i18n }) {
 
   if (link) {
     return (
-      <Link showExternal icon={column.icon} brand={column.brand} to={link}>
+      <Link
+        button={column.button}
+        showExternal
+        icon={column.icon}
+        brand={column.brand}
+        to={link}
+      >
         {inner}
       </Link>
     );
@@ -47,34 +55,40 @@ function CellContent({ item, column, i18n }) {
 }
 
 export default function GenericTable({ items, columnItems, hideHead, i18n }) {
+  // TODO order items
+  // TODO overflow scroll
   return (
-    <div className="table">
-      <div className="table-inner">
-        <table>
-          {!hideHead && (
-            <thead>
-              <tr>
-                {columnItems.map(({ name, key, className }) => (
-                  <th key={key} className={className}>
-                    {name}
-                  </th>
-                ))}
-              </tr>
-            </thead>
-          )}
-          <tbody>
-            {items.map((item) => (
-              <tr key={item.key} className={item.className}>
-                {columnItems.map((column) => (
-                  <td key={column.key} className={column.className}>
-                    <CellContent {...{ item, column, i18n }} />
-                  </td>
-                ))}
-              </tr>
+    <table>
+      {!hideHead && (
+        <thead>
+          <tr>
+            {columnItems.map(({ name, key }) => (
+              <th key={key}>{name}</th>
             ))}
-          </tbody>
-        </table>
-      </div>
-    </div>
+          </tr>
+        </thead>
+      )}
+      <tbody>
+        {items.map((item) => (
+          <tr key={item.key}>
+            {columnItems.map((column) => (
+              <td key={column.key} tw="!align-middle">
+                {(column.items || [column]).map((col, i) => (
+                  <CellContent
+                    key={`${item.key}${col.key}`}
+                    {...{
+                      item,
+                      column: col,
+                      i18n,
+                      first: i === 0,
+                    }}
+                  />
+                ))}
+              </td>
+            ))}
+          </tr>
+        ))}
+      </tbody>
+    </table>
   );
 }

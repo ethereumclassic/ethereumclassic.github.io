@@ -51,7 +51,7 @@ export default function TableOfContents({ mdx, i18n }) {
   return (
     <div tw="text-sm border-gray-300 border-l space-y-3 pl-6">
       <div tw="mb-4 flex items-center space-x-2 uppercase tracking-widest text-gray-400 select-none">
-        <Icon icon="contents" tw="h-3 w-3" />
+        <Icon icon="contents" tw="h-3" />
         <span>Contents</span>
       </div>
       <LinkItems items={items} />

@@ -13,7 +13,7 @@ export default function SocialIcons() {
       {socialItems.map(({ key, name, icon, link }) => (
         <a key={key} href={link} tw="text-gray-400 hover:text-gray-500">
           <span tw="sr-only">{name}</span>
-          <Icon icon={icon} tw="h-6 w-6" aria-hidden="true" />
+          <Icon icon={icon} tw="h-6" aria-hidden="true" />
         </a>
       ))}
     </div>

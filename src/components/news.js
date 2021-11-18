@@ -29,7 +29,7 @@ export default function News(pageData) {
                 tw="col-span-3 border-2 border-dashed border-gray-400 hover:bg-gray-200 flex items-center justify-center space-x-4 p-2"
                 to="https://github.com/ethereumclassic.github.io"
               >
-                <Icon icon="plus" tw="h-5 w-5" />
+                <Icon icon="plus" tw="h-5" />
                 <div>Earn ETC by submitting your own links!</div>
               </Link>
             )}

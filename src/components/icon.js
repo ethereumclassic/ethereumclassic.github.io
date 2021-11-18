@@ -31,6 +31,5 @@ export default function Icon({ icon, ...rest }) {
     );
   }
   // React Icon, like ETC logo
-  console.log(rest);
   return <I {...rest} />;
 }

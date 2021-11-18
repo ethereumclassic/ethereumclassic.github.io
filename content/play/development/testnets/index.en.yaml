@@ -1,0 +1,74 @@
+title: Testnets
+items:
+  testnets:
+    __type: table
+    title: ETC Virtual Machine Chains
+    i18n:
+      pow: Proof of Work
+      poa: Proof of Authority
+      testnet: Testnet
+      experimental: Experimental
+      faucet: Faucet
+    columnItems:
+      name:
+        name: Name
+        __linkRef: link
+      faucet:
+        __linkRef: faucet
+        text: Faucet
+        icon: coins
+      type:
+        name: Type
+        __textRef: type
+      miningAlgo:
+        name: Mining Algorithm
+      consensusAlgo:
+        __textRef: consensusAlgo
+        name: Consensus Algorithm
+      networkId:
+        name: Network Id
+      chainId:
+        name: Chain ID
+    items:
+      Testnet Kotti:
+        name: Kotti
+        __chainId: 6
+        __type: testnet
+        __networkId: 6
+        __link: https://github.com/goerli/testnet
+        __faucet: http://kottifaucet.me/
+        __consensusAlgo: poa
+        __miningAlgo: Clique
+      Testnet Mordor:
+        name: Mordor
+        __chainId: 63
+        __type: testnet
+        __networkId: 7
+        __link: https://github.com/eth-classic/mordor
+        __faucet: http://core-geth.org/contribute-to-mordor
+        __consensusAlgo: pow
+        __miningAlgo: Etchash
+      Testnet Astor:
+        name: Astor
+        __type: experimental
+        __link: https://astor.host/
+        __consensusAlgo: pow
+        __miningAlgo: Keccak256
+      Testnet Helmsdeep:
+        name: Helmsdeep
+        __type: experimental
+        __link: https://github.com/chippr-robotics/chippr-bots/tree/staging/packages/testnets/helmsdeep
+        __consensusAlgo: pow
+        __miningAlgo: Etchash
+      Testnet Keccak Besu:
+        name: Keccak Besu
+        __type: experimental
+        __link: https://github.com/whiteblock/keccak-besu-testnet
+        __consensusAlgo: pow
+        __miningAlgo: Keccak256
+      Testnet Sagano:
+        name: Sagano
+        __type: experimental
+        __link: https://docs.mantisclient.io/first-steps/client-quickstart
+        __consensusAlgo: pow
+        __miningAlgo: Etchash

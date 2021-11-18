@@ -70,7 +70,7 @@ export default function SearchAgolia() {
         </label>
         <div tw="relative">
           <div tw="pointer-events-none absolute inset-y-0 left-0 pl-3 flex items-center">
-            <Icon icon="search" tw="h-5 w-5 text-gray-400" aria-hidden="true" />
+            <Icon icon="search" tw="h-5 text-gray-400" aria-hidden="true" />
           </div>
           <ConnectedSearchBox />
           <div tw="absolute mt-3 w-screen max-w-md right-0">

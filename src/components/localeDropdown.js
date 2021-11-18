@@ -51,7 +51,7 @@ export default function LocaleDropdown() {
                           <Icon
                             icon={key}
                             alt={name}
-                            tw="flex-shrink-0 h-6 w-6 rounded-full"
+                            tw="flex-shrink-0 h-5 rounded-full"
                           />
                           <span
                             css={[
@@ -72,11 +72,7 @@ export default function LocaleDropdown() {
                               active ? tw`text-white` : tw`text-indigo-600`,
                             ]}
                           >
-                            <Icon
-                              icon="check"
-                              tw="h-5 w-5"
-                              aria-hidden="true"
-                            />
+                            <Icon icon="check" tw="h-5" aria-hidden="true" />
                           </span>
                         ) : null}
                       </li>
