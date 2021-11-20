@@ -7,10 +7,11 @@ import { ThemeProvider } from "../utils/themeProvider";
 
 import Footer from "./footer";
 import Header from "./header";
+import Json from "./json";
 import Seo from "./seo";
+import Warning from "./warning";
 
 export default function GlobalLayout({ children, ...props }) {
-  // TODO deal with SEO
   return (
     <ThemeProvider>
       <NavigationProvider {...props}>
@@ -19,7 +20,11 @@ export default function GlobalLayout({ children, ...props }) {
         <div tw="h-screen flex flex-col">
           <Header />
           <main tw="flex-1">
-            <div tw="pt-16">{children}</div>
+            <div tw="pt-16">
+              <Warning />
+              {children}
+              {/* <Json {...props} /> */}
+            </div>
           </main>
           <Footer />
         </div>

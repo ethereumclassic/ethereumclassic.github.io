@@ -114,7 +114,7 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
     const dirs = [""].concat(dir.split("/"));
     const globals = dirs
       .map((_str, i) => {
-        const subFolder = dirs.slice(0, dirs.length - i).join("/");
+        const subFolder = dirs.slice(1, dirs.length - i).join("/");
         return (groupedFiles[subFolder] || []).filter(
           (file) =>
             file.includes(`.global.`) &&

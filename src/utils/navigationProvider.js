@@ -8,7 +8,7 @@ function useNavigation() {
 }
 
 function NavigationProvider({ children, pageContext: { basePath } }) {
-  const { navItems } = useGlobals();
+  const { navItems, sidebar } = useGlobals();
   // add current, next and prev bools to each item
   const baseFragments = basePath.split("/");
   const levels = [{ navItems }];
@@ -54,7 +54,7 @@ function NavigationProvider({ children, pageContext: { basePath } }) {
   });
   const [{ navItems: main }, sub] = levels;
   return (
-    <NavigationContext.Provider value={{ main, sub, prev, next }}>
+    <NavigationContext.Provider value={{ main, sidebar, sub, prev, next }}>
       {children}
     </NavigationContext.Provider>
   );

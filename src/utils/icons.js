@@ -78,6 +78,7 @@ export {
   faUnlink as unlink,
   faSortAmountDown as sortUp,
   faSortAmountDownAlt as sortDown,
+  faExclamationCircle as warning,
 } from "@fortawesome/free-solid-svg-icons";
 
 export {

@@ -1,15 +1,15 @@
 /* This Sidebar requires Tailwind CSS v2.0+ */
 import React from "react";
 import tw from "twin.macro";
-
-import LocalizedLink from "../../plugins/translations-plugin/src/components/localizedLink";
+import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
 
 import { useNavigation } from "../utils/navigationProvider";
 import Icon from "./icon";
+import Link from "./link";
 
 function SidebarItem({ item: { name, link, icon, current } }) {
   return (
-    <LocalizedLink
+    <Link
       to={link}
       className="group"
       css={[
@@ -31,13 +31,13 @@ function SidebarItem({ item: { name, link, icon, current } }) {
         aria-hidden="true"
       />
       <span tw="truncate">{name}</span>
-    </LocalizedLink>
+    </Link>
   );
 }
 
 function SideBarSubItem({ item: { name, key, link, current } }) {
   return (
-    <LocalizedLink
+    <Link
       to={link}
       className="group"
       css={[
@@ -46,34 +46,59 @@ function SideBarSubItem({ item: { name, key, link, current } }) {
       ]}
     >
       <span tw="truncate">{name}</span>
-    </LocalizedLink>
+    </Link>
+  );
+}
+
+function SubNavItems({ items }) {
+  return (
+    <div tw="space-y-1">
+      {items.map((item) => (
+        <div key={item.key}>
+          <SidebarItem item={item} />
+          {item.navItems && item.current && (
+            <div
+              tw="ml-3 mb-2 border-l-2 border-gray-300"
+              aria-labelledby="projects-headline"
+            >
+              {item.navItems.map((subItem) => (
+                <SideBarSubItem key={subItem.key} item={subItem} />
+              ))}
+            </div>
+          )}
+        </div>
+      ))}
+    </div>
+  );
+}
+
+function CustomSidebar({ backButton, shareLinks }) {
+  return (
+    <div tw="space-y-2">
+      {backButton && (
+        <div>
+          <Link button iconLeft="left" to={backButton.link}>
+            {backButton.text}
+          </Link>
+        </div>
+      )}
+      <div>TODO social links</div>
+    </div>
   );
 }
 
 export default function Sidebar() {
-  const { sub } = useNavigation();
-  if (!sub?.navItems) {
+  const { sub, sidebar } = useNavigation();
+  if (!sub?.navItems && !sidebar) {
     return null;
   }
   return (
     <nav aria-label="Sidebar">
-      <div tw="space-y-1">
-        {sub.navItems.map((item) => (
-          <div key={item.key}>
-            <SidebarItem item={item} />
-            {item.navItems && item.current && (
-              <div
-                tw="ml-3 mb-2 border-l-2 border-gray-300"
-                aria-labelledby="projects-headline"
-              >
-                {item.navItems.map((subItem) => (
-                  <SideBarSubItem key={subItem.key} item={subItem} />
-                ))}
-              </div>
-            )}
-          </div>
-        ))}
-      </div>
+      {sidebar ? (
+        <CustomSidebar {...sidebar} />
+      ) : (
+        <SubNavItems items={sub.navItems} />
+      )}
     </nav>
   );
 }

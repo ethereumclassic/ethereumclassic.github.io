@@ -17,11 +17,17 @@ export const pageQuery = graphql`
       body
       toc: tableOfContents
       excerpt(pruneLength: 199, truncate: false)
+      headings(depth: h1) {
+        value
+      }
       meta: frontmatter {
         title
         license
         description
         contribute
+        date
+        author
+        contributors
       }
     }
   }

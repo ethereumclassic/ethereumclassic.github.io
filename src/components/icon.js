@@ -26,10 +26,11 @@ export default function Icon({ icon, ...rest }) {
       <IconComp
         path={I.icon[4]}
         viewBox={`0 0 ${I.icon[0]} ${I.icon[1]}`}
+        aria-hidden="true"
         {...rest}
       />
     );
   }
   // React Icon, like ETC logo
-  return <I {...rest} />;
+  return <I aria-hidden="true" {...rest} />;
 }

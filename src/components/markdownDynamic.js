@@ -12,7 +12,7 @@ function unwrapParagraphs(props) {
   return children;
 }
 
-export default function Markdown({ children, unwrap }) {
+export default function Markdown({ children, unwrap, ...props }) {
   if (children === undefined) {
     return null;
   }
@@ -23,5 +23,7 @@ export default function Markdown({ children, unwrap }) {
   if (unwrap) {
     components.root = unwrapParagraphs;
   }
-  return <ReactMarkdown children={children} components={components} />;
+  return (
+    <ReactMarkdown children={children} components={components} {...props} />
+  );
 }

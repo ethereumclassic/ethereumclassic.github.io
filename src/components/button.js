@@ -1,4 +1,5 @@
 import tw from "twin.macro";
+
 import LinkIcon from "./linkIcon";
 
 // TODO combine with link
@@ -10,7 +11,7 @@ export default function Button({
   children,
   big,
   round,
-  to,
+  iconLeft,
   ...props
 }) {
   const Comp = as || "button";
@@ -30,8 +31,9 @@ export default function Button({
         round ? tw`rounded-full` : tw`rounded-md`,
       ]}
     >
+      <LinkIcon sibling={children} icon={iconLeft} left />
       {children}
-      <LinkIcon sibling={children} icon={icon} big={big} />
+      <LinkIcon sibling={children} icon={icon} />
     </Comp>
   );
 }
