@@ -26,9 +26,9 @@ items:
         __textRef: consensusAlgo
         name: Consensus Algorithm
       networkId:
-        name: Network Id
+        name: NetworkID
       chainId:
-        name: Chain ID
+        name: ChainID
     items:
       Testnet Kotti:
         name: Kotti

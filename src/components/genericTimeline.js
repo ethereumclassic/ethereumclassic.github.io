@@ -1,12 +1,12 @@
 import React, { Fragment, useState } from "react";
 import tw from "twin.macro";
-import Json from "./json";
 
 import Button from "./button";
 import Icon from "./icon";
 import Link from "./link";
 
 import { h4 as H4 } from "./linkedHeaders";
+import FormattedDate from "./formattedDate";
 
 const colors = {
   blue: tw`bg-blue-600`,
@@ -17,7 +17,16 @@ const colors = {
   green: tw`bg-green-600`,
 };
 
-function GenericTimelineItem({ title, date, color, icon, link, text, last }) {
+function GenericTimelineItem({
+  title,
+  date,
+  color,
+  icon,
+  link,
+  text,
+  last,
+  dateFormat,
+}) {
   return (
     <div>
       <div tw="relative pb-8">
@@ -41,14 +50,18 @@ function GenericTimelineItem({ title, date, color, icon, link, text, last }) {
           <div tw="min-w-0 flex-1 pt-1.5 flex justify-between space-x-4">
             <div>
               <H4 tw="!mt-0">
-                <Link to={link} showExternal>
-                  {title}
-                </Link>
+                {link ? (
+                  <Link to={link} showExternal>
+                    {title}
+                  </Link>
+                ) : (
+                  title
+                )}
               </H4>
               <p tw="text-sm text-gray-500">{text}</p>
             </div>
             <div tw="text-right text-sm whitespace-nowrap text-gray-500">
-              <time dateTime={date}>{date}</time>
+              <FormattedDate date={date} />
             </div>
           </div>
         </div>
@@ -65,11 +78,13 @@ export default function GenericTimeline({ items }) {
       <div tw="text-right">
         <Button
           primary
+          big
+          icon={reversed ? "sortUp" : "sortDown"}
           onClick={() => {
             setReversed(!reversed);
           }}
         >
-          {!reversed ? "Oldest First" : "Newst First"}
+          {reversed ? "Reversed" : "Chronological"}
         </Button>
       </div>
       <div tw="p-10 bg-white rounded-md shadow">

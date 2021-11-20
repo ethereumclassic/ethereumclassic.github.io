@@ -76,6 +76,8 @@ export {
   faBomb as bomb,
   faUserTie as userTie,
   faUnlink as unlink,
+  faSortAmountDown as sortUp,
+  faSortAmountDownAlt as sortDown,
 } from "@fortawesome/free-solid-svg-icons";
 
 export {

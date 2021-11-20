@@ -3,6 +3,7 @@ import tw from "twin.macro";
 
 import LocalizedLink from "../../plugins/translations-plugin/src/components/localizedLink";
 import { dedupeStrings } from "../utils/helpers";
+import FormattedDate from "./formattedDate";
 
 export default function NewsItem({ date, author, link, title, source, blog }) {
   return (
@@ -14,7 +15,7 @@ export default function NewsItem({ date, author, link, title, source, blog }) {
       ]}
     >
       <div tw="text-gray-400">
-        {date}
+        <FormattedDate date={date} />
         <div>{dedupeStrings(author, source)}</div>
       </div>
       {title}

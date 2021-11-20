@@ -1,6 +1,5 @@
 import tw from "twin.macro";
-
-import Icon from "./icon";
+import LinkIcon from "./linkIcon";
 
 // TODO combine with link
 export default function Button({
@@ -32,13 +31,7 @@ export default function Button({
       ]}
     >
       {children}
-      {icon && (
-        <Icon
-          icon={icon}
-          css={[tw`inline`, children && tw`ml-1`, big ? tw`h-5` : tw`h-3`]}
-          aria-hidden="true"
-        />
-      )}
+      <LinkIcon sibling={children} icon={icon} big={big} />
     </Comp>
   );
 }

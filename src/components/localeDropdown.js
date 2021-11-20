@@ -27,6 +27,23 @@ export default function LocaleDropdown() {
       {({ open }) => (
         <>
           <div tw="mt-1 relative">
+            <Listbox.Button tw="relative bg-white border border-gray-300 rounded-md shadow-sm pl-3 pr-10 py-2 text-left cursor-default focus:outline-none focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm">
+              <span tw="flex items-center">
+                <Icon
+                  icon={current.key}
+                  alt=""
+                  tw="flex-shrink-0 h-6 w-6 rounded-full"
+                />
+                <span tw="ml-3 block truncate">{current.name}</span>
+              </span>
+              <span tw="ml-3 absolute inset-y-0 right-0 flex items-center pr-2 pointer-events-none">
+                <Icon
+                  icon={"down"}
+                  tw="h-5 w-5 text-gray-400"
+                  aria-hidden="true"
+                />
+              </span>
+            </Listbox.Button>
             <Transition
               show={open}
               as={Fragment}
@@ -34,7 +51,7 @@ export default function LocaleDropdown() {
               leaveFrom="opacity-100"
               leaveTo="opacity-0"
             >
-              <Listbox.Options tw="absolute bottom-0 z-10 mb-11 bg-white shadow-lg max-h-72 rounded-md py-1 text-base ring-1 ring-black ring-opacity-5 overflow-auto focus:outline-none sm:text-sm">
+              <Listbox.Options tw="absolute top-11 z-10 bg-white shadow-lg max-h-72 rounded-md py-1 text-base ring-1 ring-black ring-opacity-5 overflow-auto focus:outline-none sm:text-sm">
                 {localeItems.map(({ key, name, enabled }) => (
                   <Listbox.Option key={key} value={key} as={Fragment}>
                     {({ active }) => (
@@ -81,23 +98,6 @@ export default function LocaleDropdown() {
                 ))}
               </Listbox.Options>
             </Transition>
-            <Listbox.Button tw="relative bg-white border border-gray-300 rounded-md shadow-sm pl-3 pr-10 py-2 text-left cursor-default focus:outline-none focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm">
-              <span tw="flex items-center">
-                <Icon
-                  icon={current.key}
-                  alt=""
-                  tw="flex-shrink-0 h-6 w-6 rounded-full"
-                />
-                <span tw="ml-3 block truncate">{current.name}</span>
-              </span>
-              <span tw="ml-3 absolute inset-y-0 right-0 flex items-center pr-2 pointer-events-none">
-                <Icon
-                  icon={"up"}
-                  tw="h-5 w-5 text-gray-400"
-                  aria-hidden="true"
-                />
-              </span>
-            </Listbox.Button>
           </div>
         </>
       )}

@@ -5,6 +5,7 @@ import { useGlobals } from "../../plugins/translations-plugin/src/components/loc
 import FooterColumn from "./footerColumn";
 import LocaleDropdown from "./localeDropdown";
 import SocialIcons from "./socialIcons";
+import Sponsors from "./sponsors";
 
 export default function Footer() {
   const { navItems } = useGlobals();
@@ -16,13 +17,12 @@ export default function Footer() {
       <div tw="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
         <div tw="xl:grid xl:grid-cols-3 xl:gap-8">
           <div tw="space-y-8 xl:col-span-1">
-            <div>TODO some sign off image</div>
-            <p tw="text-gray-500 text-base">
-              Making the world a better place through constructing elegant
-              hierarchies.
-            </p>
-            <SocialIcons />
             <LocaleDropdown />
+            <SocialIcons />
+            <p tw="text-gray-500 text-base">TODO some interesting text.</p>
+            <div>
+              <Sponsors />
+            </div>
           </div>
           <div tw="mt-12 grid grid-cols-3 gap-4 xl:mt-0 xl:col-span-2">
             {navItems

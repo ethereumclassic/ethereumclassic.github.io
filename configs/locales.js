@@ -1,12 +1,16 @@
+// TODO add config to import date localization modules
+
 const locales = {
   en: {
     name: "English",
     enabled: true,
     default: true,
+    dayJsImport: "en",
   },
   de: {
     name: "Deutsch",
     enabled: true,
+    dayJsImport: "de",
   },
   es: {
     name: "Español",
