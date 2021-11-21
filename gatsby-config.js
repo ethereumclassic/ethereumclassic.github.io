@@ -67,5 +67,11 @@ module.exports = {
         noFallbackDirs: ["blog"],
       },
     },
+    {
+      resolve: "news-plugin",
+    },
+    {
+      resolve: "contributor-avatars-plugin",
+    },
   ],
 };

@@ -20,6 +20,9 @@ export const pageQuery = graphql`
       headings(depth: h1) {
         value
       }
+      contributors: childrenContributorAvatar {
+        githubId
+      }
       meta: frontmatter {
         title
         license

@@ -23,3 +23,16 @@ billboard:
     Code is Law: "Code is Law"
     Undervalued: "Undervalued"
     Classic: "Classic"
+intro:
+  title: The Original Ethereum Vision
+  content: |
+    Welcome, and thank you for taking a closer look at Ethereum Classsic, the understated yet sagacious elder sister of the Ethereum family. 
+
+    If you are here, you are probably already somewhat familiar with the wildly popular Smart Contract platform known as [Ethereum](https://ethereum.org), but did you know that ETC has been been faithfully operating for over a year longer than ETH?
+
+    Today, for those that understand why, Ethereum Classic represents important project in the crowded Cryptocurrency space; it is one of the preciously scarse *maxmilally decentralized* projects, making it uniquley fit to serve the future of humanity in an uncorruptable, neutral and censorship resitant way. 
+
+    Etheereum Classic has a future potential that is far beyond most relatively centralized cryptocurrency projects, and will outlive and outshine in time. This website aims to help you, dear reader, to really understand the signficance and importance of ETC and how enables the reality-mending elixer of **code is law**.
+  button:
+    __link: /learn
+    text: Let's Go

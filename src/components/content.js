@@ -15,12 +15,12 @@ export default function Content({ data: { mdx }, i18n }) {
   return (
     <div tw="py-10">
       <div tw="max-w-3xl mx-auto sm:px-6 lg:max-w-7xl lg:px-8 lg:grid lg:grid-cols-12 lg:gap-8">
-        <div tw="hidden lg:block lg:col-span-3 xl:col-span-2">
+        <div tw="hidden lg:block lg:col-span-2">
           <nav tw="sticky top-24 divide-y divide-gray-300">
             <ContentSidebar />
           </nav>
         </div>
-        <main tw="lg:col-span-9 xl:col-span-7">
+        <main tw="lg:col-span-7">
           <article tw="prose dark:prose-light max-w-none">
             {mdx ? (
               <MarkdownStatic mdx={mdx} i18n={i18n} />
@@ -31,7 +31,7 @@ export default function Content({ data: { mdx }, i18n }) {
           {/* <Json data={{ mdx, i18n }} /> */}
           <ContentPrevNext />
         </main>
-        <aside tw="hidden xl:block xl:col-span-3">
+        <aside tw="hidden lg:block lg:col-span-3">
           <div
             tw="sticky top-24 space-y-4 max-h-screen overflow-y-auto"
             css={{ maxHeight: "70vh" }}
