@@ -12,16 +12,13 @@ export default function DefaultTempalte(props) {
 }
 
 export const pageQuery = graphql`
-  query MDXQuery($mdxSlug: String) {
+  query MDXQuery($basePath: String!, $mdxSlug: String) {
     mdx(slug: { eq: $mdxSlug }) {
       body
       toc: tableOfContents
       excerpt(pruneLength: 199, truncate: false)
       headings(depth: h1) {
         value
-      }
-      contributors: childrenContributorAvatar {
-        githubId
       }
       meta: frontmatter {
         title
@@ -31,6 +28,23 @@ export const pageQuery = graphql`
         date
         author
         contributors
+      }
+    }
+    contributors: allContributorAvatar(filter: { page: { eq: $basePath } }) {
+      edges {
+        node {
+          githubId
+          locale
+          localImage {
+            childImageSharp {
+              gatsbyImageData(
+                width: 40
+                placeholder: BLURRED
+                formats: [AUTO, WEBP, AVIF]
+              )
+            }
+          }
+        }
       }
     }
   }

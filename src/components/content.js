@@ -4,6 +4,7 @@ import "twin.macro";
 import ContentPrevNext from "./contentPrevNext";
 import ContentSidebar from "./contentSidebar";
 import ContentTOC from "./contentTOC";
+import Contributors from "./contributors";
 
 import Generic from "./generic";
 import Json from "./json";
@@ -11,7 +12,7 @@ import MarkdownStatic from "./markdownStatic";
 
 // TODO potentially split this into two separate templates for better tree shaking
 
-export default function Content({ data: { mdx }, i18n }) {
+export default function Content({ data: { mdx, contributors }, i18n }) {
   return (
     <div tw="py-10">
       <div tw="max-w-3xl mx-auto sm:px-6 lg:max-w-7xl lg:px-8 lg:grid lg:grid-cols-12 lg:gap-8">
@@ -29,6 +30,7 @@ export default function Content({ data: { mdx }, i18n }) {
             )}
           </article>
           {/* <Json data={{ mdx, i18n }} /> */}
+          <Contributors contributors={contributors} />
           <ContentPrevNext />
         </main>
         <aside tw="hidden lg:block lg:col-span-3">

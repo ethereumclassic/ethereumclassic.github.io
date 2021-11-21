@@ -1,27 +1,56 @@
 // check all markdown for "contributor" fields, then upsert the avatar
+const instanceType = "content";
+const jsYaml = require(`js-yaml`);
+
 exports.onCreateNode = async ({
   node,
-  actions: { createNode, createParentChildLink },
+  actions: { createNode },
   createNodeId,
+  loadNodeContent,
   getNode,
   createContentDigest,
 }) => {
+  // TODO config limit by collection type
+  function registerContributor({ page, githubId, locale }) {
+    createNode({
+      id: createNodeId(`${node.id} >>> CONTRIBUTOR ${githubId}`),
+      githubId,
+      locale,
+      page,
+      internal: {
+        contentDigest: createContentDigest({ locale, page, githubId }),
+        type: "ContributorAvatar",
+      },
+    });
+  }
+
+  if (
+    node.sourceInstanceName === instanceType &&
+    node.internal.mediaType === `text/yaml` &&
+    node.base.startsWith(`index.`)
+  ) {
+    const content = await loadNodeContent(node);
+    const yaml = jsYaml.load(content) || {};
+    const contributors = yaml.__contributors || yaml.contributors;
+    if (contributors?.length) {
+      contributors.forEach((githubId) =>
+        registerContributor({
+          githubId,
+          page: node.relativeDirectory,
+          locale: node.absolutePath.split(".").slice(-2)[0],
+        })
+      );
+    }
+  }
+
   if (node.internal.type === `Mdx` && node.frontmatter?.contributors?.length) {
+    const parentNode = getNode(node.parent);
     node.frontmatter.contributors.forEach((githubId) => {
-      const avatarUrl = `https://avatars.githubusercontent.com/${githubId}`;
-      const contributorNode = {
+      registerContributor({
         githubId,
-        avatarUrl,
-        id: createNodeId(`${node.id} >>> CONTRIBUTOR ${githubId}`),
-        children: [],
-        parent: node.id,
-        internal: {
-          contentDigest: createContentDigest(avatarUrl),
-          type: "ContributorAvatar",
-        },
-      };
-      createNode(contributorNode);
-      createParentChildLink({ parent: node, child: contributorNode });
+        page: parentNode.relativeDirectory,
+        locale: node.fileAbsolutePath.split(".").slice(-2)[0],
+      });
     });
   }
 };

@@ -73,5 +73,13 @@ module.exports = {
     {
       resolve: "contributor-avatars-plugin",
     },
+    {
+      resolve: `gatsby-plugin-remote-images`,
+      options: {
+        nodeType: "ContributorAvatar",
+        imagePath: "githubId",
+        prepareUrl: (id) => `https://avatars.githubusercontent.com/${id}`,
+      },
+    },
   ],
 };

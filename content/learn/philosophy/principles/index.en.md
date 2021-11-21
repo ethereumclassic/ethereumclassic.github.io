@@ -1,6 +1,6 @@
 ---
 title: Principles
-contributors: ["IstoraMandiri"]
+contributors: ["IstoraMandiri", "gitr0n1n", "TheEnthusiasticAs"]
 ---
 
 This is todo...

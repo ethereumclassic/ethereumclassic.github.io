@@ -173,7 +173,6 @@ exports.createPages = async (
             defaultLocale,
             defaultLocaleImports,
             dayJsImport,
-            isTranslated,
             noFallback,
             localeImports: !isDefaultLocale && localeImports,
             mdxSlug: localeMdx || defaultLocaleMdx || null,
