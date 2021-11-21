@@ -14,7 +14,7 @@ import Icon from "./icon";
 export default function Header() {
   return (
     <Popover tw="bg-white z-20 fixed inset-0 bottom-auto shadow-md dark:bg-black transition-colors">
-      <div tw="max-w-7xl mx-auto px-4 sm:px-6">
+      <div tw="max-w-7xl mx-auto px-8">
         <div tw="flex items-center justify-center h-16 space-x-6">
           <div tw="flex-1 flex">
             <Logo />

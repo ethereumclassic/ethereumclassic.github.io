@@ -13,7 +13,7 @@ const locales = {
   },
   es: {
     name: "Español",
-    enabled: true,
+    enabled: false,
     dayJsImport: "es",
   },
   fr: {
@@ -27,6 +27,8 @@ const locales = {
   },
   ja: {
     name: "日本語",
+    enabled: true,
+    dayJsImport: "ja",
   },
   ko: {
     name: "한국어",

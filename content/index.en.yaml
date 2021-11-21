@@ -1,15 +1,12 @@
 billboard:
-  text: The %word% Ethereum
+  text: The %%$$%% Ethereum
   randomWords:
     Decentralized: "Decentralized"
-    Real: "Real"
     Original: "Original"
     Faithful: "Faithful"
     Veracious: "Veracious"
     Authentic: "Authentic"
     Righteous: "Righteous"
-    Honest: "Honest"
-    Upstanding: "Upstanding"
     Untainted: "Untainted"
     Uncensored: "Uncensored"
     Untampered: "Untampered"
@@ -22,12 +19,7 @@ billboard:
     Proof of Work: "Proof of Work"
     Cypherpunk: "Cypherpunk"
     Leaderless: "Leaderless"
-    Scupulous: "Scupulous"
-    Judicious: "Judicious"
-    Sagacious: "Sagacious"
-    Pragmatic: "Pragmatic"
-    Enlightened: "Enlightened"
     Antifragile: "Antifragile"
     Code is Law: "Code is Law"
-    Mature: "Mature"
-    Best: "Best"
+    Undervalued: "Undervalued"
+    Classic: "Classic"
