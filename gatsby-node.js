@@ -113,7 +113,7 @@ exports.onCreatePage = async ({
     return;
   }
   deletePage(page);
-  const { years, tags, total } = filters[locale];
+  const { years = {}, tags = {}, total = 0 } = filters[locale] || {};
   const allTags = Object.keys(tags);
   const allYears = Object.keys(years);
   const pageGroups = [{ path: page.path, items: total }];

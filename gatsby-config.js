@@ -1,6 +1,6 @@
 const siteUrl = "https://etc3022.netlify.app";
 
-const locales = require("./configs/locales");
+const { locales, defaultLocale } = require("./configs/locales");
 
 module.exports = {
   siteMetadata: {
@@ -59,8 +59,12 @@ module.exports = {
     {
       resolve: "translations-plugin",
       options: {
-        // TODO
         locales,
+        defaultLocale,
+        instanceType: "content",
+        templatesDir: `${process.env.PWD}/src/templates/`,
+        collectionKey: "collection",
+        noFallbackDirs: ["blog"],
       },
     },
   ],

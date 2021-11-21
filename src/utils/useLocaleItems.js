@@ -2,11 +2,17 @@ import localesConfig from "../../configs/locales";
 import { useLocalization } from "../../plugins/translations-plugin/src/components/localizationProvider";
 
 export default function useLocaleItems() {
-  const { locale, defaultLocale, basePath } = useLocalization();
+  const { locale, basePath, defaultLocale } = useLocalization();
 
-  const { list: localeItems, ...locales } = localesConfig;
+  const { locales } = localesConfig;
 
-  const current = localeItems.find(({ key }) => key === locale);
+  // TODO this elsewhere, with static query?
+  const localeItems = Object.keys(locales).map((key) => ({
+    ...locales[key],
+    key,
+  }));
+
+  const current = { ...locales[locale], key: locale };
 
   return { localeItems, locales, current, defaultLocale, basePath, locale };
 }

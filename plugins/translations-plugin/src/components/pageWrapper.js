@@ -61,6 +61,10 @@ function getTranslations(pageContext) {
   if (!pageContext.defaultLocaleImports) {
     return {};
   }
+  // require dayJs localization
+  if (pageContext.dayJsImport) {
+    require(`dayjs/locale/${pageContext.dayJsImport}`);
+  }
   // import and merge
   const merged = mergeWith(
     importTranslations(pageContext.defaultLocaleImports),

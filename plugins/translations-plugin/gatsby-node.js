@@ -1,21 +1,17 @@
-const instanceType = "content";
-const defaultLocale = "en";
-const locales = ["en", "de"];
-const templatesDir = "../../src/templates/";
-const collectionKey = "collection";
-const noFallbackDirs = ["blog"];
-
 const jsYaml = require(`js-yaml`);
 const _ = require(`lodash`);
 
 // register collections
-exports.onCreateNode = async ({
-  node,
-  actions: { createNode, createParentChildLink },
-  loadNodeContent,
-  createNodeId,
-  createContentDigest,
-}) => {
+exports.onCreateNode = async (
+  {
+    node,
+    actions: { createNode, createParentChildLink },
+    loadNodeContent,
+    createNodeId,
+    createContentDigest,
+  },
+  { instanceType, collectionKey }
+) => {
   // we only care about collection yaml files
   if (
     node.sourceInstanceName !== instanceType ||
@@ -66,7 +62,17 @@ exports.onCreateNode = async ({
   });
 };
 
-exports.createPages = async ({ graphql, actions: { createPage } }) => {
+exports.createPages = async (
+  { graphql, actions: { createPage } },
+  {
+    locales,
+    instanceType,
+    collectionKey,
+    templatesDir,
+    defaultLocale,
+    noFallbackDirs,
+  }
+) => {
   const {
     data: {
       files: { edges: files },
@@ -144,31 +150,35 @@ exports.createPages = async ({ graphql, actions: { createPage } }) => {
     const defaultLocaleImports = getImports(dir, defaultLocale);
     const defaultLocaleMdx = getMdx(dir, defaultLocale);
     // for each locale, create the page
-    locales.forEach((locale) => {
-      const localeImports = getImports(dir, locale);
-      const localeMdx = getMdx(dir, locale);
-      const isDefaultLocale = locale === defaultLocale;
-      // DO NOT MAKE THE PAGE IF: we are in noFallbackDirs and the local is not translated...
-      const isTranslated = localeImports.locals.length > 0 || localeMdx;
-      const noFallback = noFallbackDirs.find((fb) => dir.startsWith(`${fb}`));
-      if (!isTranslated && noFallback) {
-        return;
-      }
-      createPage({
-        path: isDefaultLocale ? `/${dir}` : `/${locale}/${dir}`,
-        component: resolveTemplate(dir),
-        context: {
-          locale,
-          basePath: dir,
-          isDefaultLocale,
-          defaultLocale,
-          defaultLocaleImports,
-          isTranslated,
-          noFallback,
-          localeImports: !isDefaultLocale && localeImports,
-          mdxSlug: localeMdx || defaultLocaleMdx || null,
-        },
+    Object.keys(locales)
+      .map((key) => ({ ...locales[key], key }))
+      .filter(({ enabled }) => enabled)
+      .forEach(({ key: locale, dayJsImport }) => {
+        const localeImports = getImports(dir, locale);
+        const localeMdx = getMdx(dir, locale);
+        const isDefaultLocale = locale === defaultLocale;
+        // DO NOT MAKE THE PAGE IF: we are in noFallbackDirs and the local is not translated...
+        const isTranslated = localeImports.locals.length > 0 || localeMdx;
+        const noFallback = noFallbackDirs.find((fb) => dir.startsWith(`${fb}`));
+        if (!isTranslated && noFallback) {
+          return;
+        }
+        createPage({
+          path: isDefaultLocale ? `/${dir}` : `/${locale}/${dir}`,
+          component: resolveTemplate(dir),
+          context: {
+            locale,
+            basePath: dir,
+            isDefaultLocale,
+            defaultLocale,
+            defaultLocaleImports,
+            dayJsImport,
+            isTranslated,
+            noFallback,
+            localeImports: !isDefaultLocale && localeImports,
+            mdxSlug: localeMdx || defaultLocaleMdx || null,
+          },
+        });
       });
-    });
   });
 };

@@ -13,11 +13,24 @@ function useGlobals() {
 function LocalizationProvider({
   children,
   globals,
-  pageContext: { locale, defaultLocale, isDefaultLocale, basePath },
+  pageContext: {
+    locale,
+    defaultLocale,
+    isDefaultLocale,
+    basePath,
+    dayJsImport,
+  },
 }) {
   return (
     <LocaleContext.Provider
-      value={{ locale, defaultLocale, isDefaultLocale, basePath, globals }}
+      value={{
+        locale,
+        defaultLocale,
+        isDefaultLocale,
+        basePath,
+        globals,
+        dayJsImport,
+      }}
     >
       {children}
     </LocaleContext.Provider>
