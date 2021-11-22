@@ -17,5 +17,9 @@ export default function FormattedDate({ date, ...rest }) {
   const formattedDate = dayJsImport
     ? day.locale(dayJsImport).format("LL")
     : day.format("YYYY.MM.DD");
-  return <time dateTime={day.format()}>{formattedDate}</time>;
+  return (
+    <time dateTime={day.format()} {...rest}>
+      {formattedDate}
+    </time>
+  );
 }

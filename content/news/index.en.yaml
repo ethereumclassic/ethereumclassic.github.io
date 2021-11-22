@@ -1,12 +1,8 @@
-title: News
-description: Blog articles and news links from all over the internet pertaining to Ethereum Classic
-submit: Submit Links or Articles
-englishItems: English News
-intro: Ethereum Classic Blog and Links from all over the internet
-rss:
-  text: News RSS Feed
-  __link: /rss.xml
-filters: Filters
+title: Etheruem Classic News
+description: ETC Blog articles and relevant links from all over the internet
+submit: Earn rewards by submitting your own links!
+# englishItems: English News
+rss: News RSS Feed
 years: Years
 tags: Tags
 tagNames:

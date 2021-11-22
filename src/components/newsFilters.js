@@ -12,7 +12,7 @@ function NewsFilterBlock({ items, title, icon }) {
         <Icon icon={icon} tw="h-3" />
         <span>{title}</span>
       </div>
-      <div tw="space-y-2">
+      <div tw="leading-relaxed">
         {items.map(({ key, link, name, selected }) => (
           <React.Fragment key={key}>
             <LocalizedLink
@@ -20,7 +20,7 @@ function NewsFilterBlock({ items, title, icon }) {
               to={link}
               css={[
                 tw`hocus:text-gray-800 text-gray-500  whitespace-nowrap mr-2`,
-                selected ? tw`font-bold bg-blue-200` : tw`font-normal`,
+                selected ? tw`font-bold text-gray-800` : tw`font-normal`,
               ]}
             >
               {name}

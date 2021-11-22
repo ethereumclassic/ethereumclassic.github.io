@@ -72,18 +72,14 @@ function SubNavItems({ items }) {
   );
 }
 
-function CustomSidebar({ backButton, shareLinks }) {
+function CustomSidebar({ backButton }) {
+  if (!backButton) {
+    return null;
+  }
   return (
-    <div tw="space-y-2">
-      {backButton && (
-        <div>
-          <Link button iconLeft="left" to={backButton.link}>
-            {backButton.text}
-          </Link>
-        </div>
-      )}
-      <div>TODO social links</div>
-    </div>
+    <Link button iconLeft="left" to={backButton.link}>
+      {backButton.text}
+    </Link>
   );
 }
 

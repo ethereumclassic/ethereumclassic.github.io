@@ -17,6 +17,9 @@ htmlLang: en
 #  Do not edit this!
 __bodyClass: default
 ## pop up
+disclaimer:
+  title: Don't Trust, Verify.
+  text: External links are community sourced, not official endorsements.
 warning:
   __enabled: true
   __icon: warning
