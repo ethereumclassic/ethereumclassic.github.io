@@ -1,3 +1,4 @@
+// TODO add docs and break out into it's own plugin
 // Wrap each page with imported translations and add react context
 
 import React from "react";
@@ -27,21 +28,37 @@ function importTranslations(imports) {
   };
 }
 
-function transformTranslations(obj) {
+function transformTranslations(obj, rootObj = obj) {
   return transform(obj, (result, value, key) => {
     // skip previously nullified fields
     if (value === null) {
       return;
     }
-    const valIsObj = isObject(value);
     // remove trailing double underscores, signifying unlocalizable
-    const newKey = (`${key}`.startsWith("__") && key.slice(2)) || key;
+    let newKey = (`${key}`.startsWith("__") && key.slice(2)) || key;
     let newValue = value;
-    // recursively transform
-    if (valIsObj) {
-      newValue = transformTranslations(value);
+
+    // replace `configRef` with parent object of given key
+    if (newKey === "configRef") {
+      const kF = newValue.split(".");
+      // prepend "locals" to search fragments if not globals
+      const sF = kF[0] !== "globals" ? ["locals"].concat(kF) : kF;
+      const res = transformTranslations(
+        sF.reduce((acc, part) => acc && acc[part], rootObj),
+        rootObj
+      );
+      // apply to result
+      Object.keys(res).forEach((k) => (result[k] = res[k]));
+      return;
     }
-    // transform `xItems` and `items` to array
+
+    // transform recursively...
+    const valIsObj = isObject(newValue);
+
+    if (valIsObj) {
+      newValue = transformTranslations(newValue, rootObj);
+    }
+
     if (
       valIsObj &&
       (`${newKey}`.endsWith("Items") ||
@@ -82,6 +99,7 @@ function getTranslations(pageContext) {
 
 export default function PageWrapper({ element, props }) {
   // here we both pass the translations to page data and pass globals to context
+  // TODO can we memoize this for better perofrmance?
   const { globals, locals: i18n } = getTranslations(props.pageContext);
   return (
     <LocalizationProvider {...props} globals={globals}>

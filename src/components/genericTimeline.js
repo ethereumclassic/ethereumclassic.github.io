@@ -17,16 +17,7 @@ const colors = {
   green: tw`bg-green-600`,
 };
 
-function GenericTimelineItem({
-  title,
-  date,
-  color,
-  icon,
-  link,
-  text,
-  last,
-  dateFormat,
-}) {
+function GenericTimelineItem({ title, date, color, icon, link, text, last }) {
   return (
     <div>
       <div tw="relative pb-8">

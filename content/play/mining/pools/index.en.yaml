@@ -9,7 +9,7 @@ items:
       2Miners:
         name: 2Miners
         __link: https://2miners.com/etc-mining-pool
-        __rank: 1
+        __primary: true
       AltPool:
         name: AltPool
         __link: http://etc.altpool.pro/
@@ -22,7 +22,7 @@ items:
       Beepool:
         name: Beepool
         __link: https://beepool.org/coindetail/etc
-        __rank: 4
+        __primary: true
       BTC.com:
         name: BTC.com
         __link: https://pool.btc.com/
@@ -80,7 +80,7 @@ items:
       Ethermine:
         name: Ethermine
         __link: https://etc.ethermine.org/
-        __rank: 2
+        __primary: true
       EZil:
         name: EZil
         __link: https://ezil.me/
@@ -135,11 +135,11 @@ items:
       Nanopool:
         name: Nanopool
         __link: https://etc.nanopool.org/
-        __rank: 3
+        __primary: true
       Open ETC Pool:
         name: Open ETC Pool
         __link: https://github.com/etclabscore/open-etc-pool
-        __rank: 5
+        __primary: true
       Pearpool:
         name: Pearpool
         __link: https://etc.pearpool.com/

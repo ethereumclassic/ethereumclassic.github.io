@@ -1,7 +1,7 @@
-const { dedupeStrings } = require("../src/utils/helpers");
-
 // return news items
 // TODO add all categories etc? https://www.npmjs.com/package/rss#itemoptions
+
+const dedupeStrings = require("../src/utils/dedupeStrings");
 
 module.exports = ({ locales, siteUrl }) => ({
   feeds: locales.list

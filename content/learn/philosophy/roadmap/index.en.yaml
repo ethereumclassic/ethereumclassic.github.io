@@ -1,7 +1,7 @@
-contribute: true
+__contribute: true
 title: Roadmap
 meta: An overview of Ethereum Classic's origins, history and future development roadmap
 description: This page outlines the history of Ethereum Classic and it's future development goals.
 items:
   roadmap:
-    configRef: roadmap
+    __configRef: roadmap

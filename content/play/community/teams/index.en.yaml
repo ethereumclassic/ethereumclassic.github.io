@@ -8,6 +8,7 @@ description: |
 items:
   teams:
     __type: table
+    __sort: false
     columnItems:
       year:
         name: Year

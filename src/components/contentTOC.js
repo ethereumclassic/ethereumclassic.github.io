@@ -3,7 +3,6 @@ import { kebabCase } from "lodash";
 import tw from "twin.macro";
 
 import Icon from "./icon";
-import { resolveRefs } from "../utils/helpers";
 
 // TODO automatically detect active state when scrolling
 
@@ -30,9 +29,8 @@ function LinkItems({ items, depth = 0 }) {
   );
 }
 
-function generateToc(_item, i18n) {
+function generateToc(item, i18n) {
   // TODO resolve refs higher up else to keep it dry?
-  const item = resolveRefs(_item, i18n);
   if (item.title) {
     return {
       title: item.title,
@@ -45,8 +43,6 @@ function generateToc(_item, i18n) {
 }
 
 export default function TableOfContents({ mdx, i18n }) {
-  // resolveRefs needs to be here??
-  // add title if it exists
   const items =
     mdx?.toc?.items ?? [generateToc(i18n, i18n)].filter((i) => i)[0]?.items;
   if (!items?.length) {

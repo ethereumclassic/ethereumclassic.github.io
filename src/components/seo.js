@@ -6,7 +6,7 @@ import "twin.macro";
 import { theme } from "twin.macro";
 
 import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
-import { dedupeStrings } from "../utils/helpers";
+import dedupeStrings from "../utils/dedupeStrings";
 import { etc as EtcLogo } from "../utils/icons";
 import { useTheme } from "../utils/themeProvider";
 import useSiteMetadata from "../utils/useSiteMetadata";

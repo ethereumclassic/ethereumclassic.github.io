@@ -11,8 +11,8 @@ export default function ContentItemButtons({ items }) {
   // const items = filterAndSortItems(_i || _i2 || [], { filter, sort });
   return (
     <>
-      {items.map(({ key, name, link }) => (
-        <Link key={key} to={link} button>
+      {items.map(({ key, name, link, primary, secondary }) => (
+        <Link key={key} to={link} button {...{ primary, secondary }}>
           {name}
         </Link>
       ))}

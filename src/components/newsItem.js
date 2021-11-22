@@ -2,7 +2,7 @@ import React from "react";
 import tw from "twin.macro";
 
 import LocalizedLink from "../../plugins/translations-plugin/src/components/localizedLink";
-import { dedupeStrings } from "../utils/helpers";
+import dedupeStrings from "../utils/dedupeStrings";
 import FormattedDate from "./formattedDate";
 
 export default function NewsItem({ date, author, link, title, source, blog }) {
