@@ -1,3 +1,4 @@
+import { graphql } from "gatsby";
 import React from "react";
 
 import GlobalLayout from "../components/globalLayout";
@@ -10,3 +11,21 @@ export default function LayoutLanding(props) {
     </GlobalLayout>
   );
 }
+
+export const pageQuery = graphql`
+  query {
+    newsItems: allNewsItem(limit: 5, sort: { fields: date, order: DESC }) {
+      edges {
+        node {
+          id
+          date
+          author
+          source
+          link
+          title
+          blog
+        }
+      }
+    }
+  }
+`;

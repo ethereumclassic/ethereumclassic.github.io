@@ -23,7 +23,8 @@ export default function Generic({ i18n }) {
   const items = i18n.items || [{ TODO: i18n }];
   return (
     <>
-      <GenericHeader {...i18n} H="h1" />
+      {/* title is rendered in contentHeader */}
+      <GenericHeader {...i18n} title={false} />
       {items &&
         (Array.isArray(items) ? items : [items]).map((item, i) => {
           const Component = generics[item.type] || generics.json;

@@ -31,9 +31,9 @@ export default function Button({
         round ? tw`rounded-full` : tw`rounded-md`,
       ]}
     >
-      <LinkIcon sibling={children} icon={iconLeft} left />
+      <LinkIcon big={big} sibling={children} icon={iconLeft} left />
       {children}
-      <LinkIcon sibling={children} icon={icon} />
+      <LinkIcon big={big} sibling={children} icon={icon} />
     </Comp>
   );
 }

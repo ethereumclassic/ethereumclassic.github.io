@@ -10,7 +10,7 @@ import Sponsors from "./sponsors";
 export default function Footer() {
   const { navItems } = useGlobals();
   return (
-    <footer tw="bg-white" aria-labelledby="footer-heading">
+    <footer tw="bg-white mt-16" aria-labelledby="footer-heading">
       <h2 id="footer-heading" tw="sr-only">
         Footer
       </h2>

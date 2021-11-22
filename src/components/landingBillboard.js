@@ -30,7 +30,7 @@ function Lass() {
         src="../images/lass3.png"
         alt="lass"
         placeholder="tracedSVG"
-        tracedSVGOptions={{ color: "rgb(5, 150, 105)" }}
+        tracedSVGOptions={{ color: "#333" }}
       />
     </div>
   );

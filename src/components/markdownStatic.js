@@ -9,14 +9,10 @@ import * as linkedHeaders from "./linkedHeaders";
 import Link from "./link";
 
 import * as generics from "./genericAll";
-import FormattedDate from "./formattedDate";
 
 export default function MarkdownStatic({ mdx, i18n }) {
   return (
     <>
-      {mdx.meta.title && <linkedHeaders.h1>{mdx.meta.title}</linkedHeaders.h1>}
-      {mdx.meta.date && <FormattedDate date={mdx.meta.date} />}
-      {mdx.meta.author && <div>{mdx.meta.author}</div>}
       <MDXProvider
         components={{
           // pass generic components so they can be used in markdown
@@ -29,6 +25,8 @@ export default function MarkdownStatic({ mdx, i18n }) {
           }, {}),
           a: (props) => <Link {...props} showExternal />,
           ...linkedHeaders,
+          // dont render h1 as we query it and render elsewhere in header
+          h1: () => null,
         }}
       >
         <MDXRenderer>{mdx.body}</MDXRenderer>

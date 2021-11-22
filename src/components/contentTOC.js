@@ -29,7 +29,7 @@ function LinkItems({ items, depth = 0 }) {
   );
 }
 
-function generateToc(item, i18n) {
+function generateToc(item, i18n = item) {
   // TODO resolve refs higher up else to keep it dry?
   if (item.title) {
     return {
@@ -43,8 +43,11 @@ function generateToc(item, i18n) {
 }
 
 export default function TableOfContents({ mdx, i18n }) {
-  const items =
-    mdx?.toc?.items ?? [generateToc(i18n, i18n)].filter((i) => i)[0]?.items;
+  // if H1 is queried, we skip one
+  const items = mdx?.headings[0]
+    ? mdx.toc.items[0].items
+    : mdx?.toc?.items ?? [generateToc(i18n)].filter((i) => i)[0]?.items;
+
   if (!items?.length) {
     return null;
   }

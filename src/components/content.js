@@ -1,10 +1,12 @@
 import React from "react";
 import "twin.macro";
+import ContentHeader from "./contentHeader";
 
 import ContentPrevNext from "./contentPrevNext";
 import ContentSidebar from "./contentSidebar";
 import ContentTOC from "./contentTOC";
 import Contributors from "./contributors";
+import Divider from "./divider";
 
 import Generic from "./generic";
 import Json from "./json";
@@ -22,13 +24,15 @@ export default function Content({ data: { mdx, contributors }, i18n }) {
         </div>
         <main tw="lg:col-span-7">
           <article tw="prose dark:prose-light max-w-none">
+            <ContentHeader {...{ mdx, i18n }} />
             {mdx ? (
-              <MarkdownStatic mdx={mdx} i18n={i18n} />
+              <MarkdownStatic {...{ mdx, i18n }} />
             ) : (
-              <Generic i18n={i18n} />
+              <Generic {...{ i18n }} />
             )}
           </article>
           {/* <Json data={{ mdx, i18n }} /> */}
+          <Divider />
           <Contributors contributors={contributors} />
           <ContentPrevNext />
         </main>
@@ -37,7 +41,7 @@ export default function Content({ data: { mdx, contributors }, i18n }) {
             tw="sticky top-24 space-y-4 max-h-screen overflow-y-auto"
             css={{ maxHeight: "70vh" }}
           >
-            <ContentTOC mdx={mdx} i18n={i18n} />
+            <ContentTOC {...{ mdx, i18n }} />
           </div>
         </aside>
       </div>

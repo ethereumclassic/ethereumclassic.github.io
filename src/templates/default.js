@@ -24,10 +24,11 @@ export const pageQuery = graphql`
         title
         license
         description
-        contribute
         date
         author
+        contribute
         contributors
+        updated
       }
     }
     contributors: allContributorAvatar(filter: { page: { eq: $basePath } }) {

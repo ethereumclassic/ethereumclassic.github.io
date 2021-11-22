@@ -32,9 +32,9 @@ export default function Link({
       as={button ? LinkCompBase : null}
       css={[nowrap ? tw`whitespace-nowrap` : tw`break-words`]}
     >
-      <LinkIcon sibling={children} icon={iconLeft} left />
+      <LinkIcon big={props.big} sibling={children} icon={iconLeft} left />
       {children}
-      <LinkIcon sibling={children} icon={iconName} />
+      <LinkIcon big={props.big} sibling={children} icon={iconName} />
     </LinkComp>
   );
 }
