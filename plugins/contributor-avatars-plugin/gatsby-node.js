@@ -4,7 +4,7 @@ const jsYaml = require(`js-yaml`);
 
 exports.onCreateNode = async ({
   node,
-  actions: { createNode },
+  actions: { createNode, createParentChildLink },
   createNodeId,
   loadNodeContent,
   getNode,
@@ -12,7 +12,7 @@ exports.onCreateNode = async ({
 }) => {
   // TODO config limit by collection type
   function registerContributor({ page, githubId, locale }) {
-    createNode({
+    const newNode = {
       id: createNodeId(`${node.id} >>> CONTRIBUTOR ${githubId}`),
       githubId,
       locale,
@@ -21,7 +21,9 @@ exports.onCreateNode = async ({
         contentDigest: createContentDigest({ locale, page, githubId }),
         type: "ContributorAvatar",
       },
-    });
+    };
+    createNode(newNode);
+    createParentChildLink({ parent: node, child: newNode });
   }
 
   if (
