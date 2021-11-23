@@ -5,14 +5,28 @@ import LocalizedLink from "../../plugins/translations-plugin/src/components/loca
 
 import Icon from "./icon";
 
-function NewsFilterBlock({ items, title, icon }) {
+function NewsFilterBlock({ items, title, icon, inline }) {
   return (
-    <div tw="text-sm border-gray-300 border-l space-y-3 pl-6">
-      <div tw="mb-4 flex items-center space-x-2 uppercase tracking-widest text-gray-400 select-none">
-        <Icon icon={icon} tw="h-3" />
-        <span>{title}</span>
+    <div
+      css={[
+        tw`text-sm`,
+        inline
+          ? tw`flex items-start space-x-4`
+          : tw`border-gray-300 border-l space-y-3 pl-6`,
+      ]}
+    >
+      <div>
+        <div
+          css={[
+            tw`flex text-sm items-center space-x-2 uppercase tracking-widest text-gray-400 select-none`,
+            inline && tw`w-16`,
+          ]}
+        >
+          <Icon icon={icon} tw="h-3" />
+          <span>{title}</span>
+        </div>
       </div>
-      <div tw="leading-relaxed">
+      <div tw="leading-relaxed flex-shrink">
         {items.map(({ key, link, name, selected }) => (
           <React.Fragment key={key}>
             <LocalizedLink
@@ -32,11 +46,12 @@ function NewsFilterBlock({ items, title, icon }) {
   );
 }
 
-export default function NewsFilters({ i18n, pageContext }) {
+export default function NewsFilters({ i18n, pageContext, inline }) {
   const { allYears, allTags, basePath, filter } = pageContext;
   return (
-    <div tw="space-y-6">
+    <>
       <NewsFilterBlock
+        inline={inline}
         icon="calendar"
         title={i18n.years}
         items={allYears.map((year) => ({
@@ -47,6 +62,7 @@ export default function NewsFilters({ i18n, pageContext }) {
         }))}
       />
       <NewsFilterBlock
+        inline={inline}
         icon="tag"
         title={i18n.tags}
         items={allTags.map((tag) => ({
@@ -56,6 +72,6 @@ export default function NewsFilters({ i18n, pageContext }) {
           selected: filter === tag,
         }))}
       />
-    </div>
+    </>
   );
 }

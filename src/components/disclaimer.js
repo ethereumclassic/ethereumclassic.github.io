@@ -3,7 +3,7 @@ import tw from "twin.macro";
 import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
 import Icon from "./icon";
 
-export default function Disclaimer({ inline, gray }) {
+export default function Disclaimer({ inline, gray, ...rest }) {
   const {
     ui: {
       disclaimer: { title, text },
@@ -14,8 +14,9 @@ export default function Disclaimer({ inline, gray }) {
       css={[
         tw`rounded-md relative overflow-hidden shadow-sm`,
         gray ? tw`bg-gray-50` : tw`bg-yellow-50`,
-        inline ? tw`p-2 pr-10 -mt-0.5` : tw`p-3 -mt-2 pr-16 max-w-sm`,
+        inline ? tw`p-2 pr-10 -mt-0.5` : tw`p-3 -mt-2 pr-14 max-w-xs`,
       ]}
+      {...rest}
     >
       <div
         css={[

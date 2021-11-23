@@ -6,6 +6,7 @@ import Icon from "./icon";
 import Link from "./link";
 
 import Md from "./markdownDynamic";
+import TwContainer from "./twContainer";
 
 export default function Warning() {
   const {
@@ -13,8 +14,8 @@ export default function Warning() {
   } = useGlobals();
   // hide if hidden
   return (
-    <div tw="bg-green-600">
-      <div tw="max-w-7xl mx-auto py-3 px-3 sm:px-6 lg:px-8">
+    <div tw="bg-green-600 z-20 relative">
+      <TwContainer tw="py-2">
         <div tw="flex items-center justify-between flex-wrap">
           <div tw="w-0 flex-1 flex items-center">
             <span tw="flex p-2 rounded-lg bg-green-800">
@@ -49,7 +50,7 @@ export default function Warning() {
             </button>
           </div> */}
         </div>
-      </div>
+      </TwContainer>
     </div>
   );
 }

@@ -14,12 +14,14 @@ export default function NewsItem({
   source,
   blog,
   lines = 2,
+  ...rest
 }) {
   return (
     <Link
       notLocalized
       to={link}
-      tw="relative transition-colors bg-white shadow-md rounded-md overflow-hidden text-gray-800 hover:text-black hover:bg-green-50"
+      tw="relative transition-colors bg-white shadow-sm rounded-md overflow-hidden text-gray-800 hover:text-black hover:bg-green-50"
+      {...rest}
     >
       {blog && (
         <div tw="absolute top-2 right-2 z-10 select-none">

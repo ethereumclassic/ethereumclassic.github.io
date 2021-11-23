@@ -10,11 +10,12 @@ import MobileMenu from "./mobileMenu";
 import LocaleSelector from "./localeSelector";
 import DarkModeSwitcher from "./darkModeSwitcher";
 import Icon from "./icon";
+import TwContainer from "./twContainer";
 
 export default function Header() {
   return (
     <Popover tw="bg-white z-30 fixed inset-0 bottom-auto shadow-md dark:bg-black transition-colors">
-      <div tw="max-w-7xl mx-auto px-8">
+      <TwContainer>
         <div tw="flex items-center justify-center h-16 space-x-6">
           <div tw="flex-1 flex">
             <Logo />
@@ -32,7 +33,7 @@ export default function Header() {
           <DarkModeSwitcher />
           <LocaleSelector />
         </div>
-      </div>
+      </TwContainer>
       <MobileMenu />
     </Popover>
   );

@@ -56,3 +56,14 @@ exports.onCreateNode = async ({
     });
   }
 };
+
+exports.createSchemaCustomization = ({ actions: { createTypes } }) => {
+  createTypes(`
+    type ContributorAvatar implements Node {
+      id: ID!
+      githubId: String!
+      page: String!
+      locale: String!
+    }  
+  `);
+};

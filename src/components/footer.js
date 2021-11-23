@@ -6,15 +6,13 @@ import FooterColumn from "./footerColumn";
 import LocaleDropdown from "./localeDropdown";
 import SocialIcons from "./socialIcons";
 import Sponsors from "./sponsors";
+import TwContainer from "./twContainer";
 
 export default function Footer() {
   const { navItems } = useGlobals();
   return (
     <footer tw="bg-white mt-16" aria-labelledby="footer-heading">
-      <h2 id="footer-heading" tw="sr-only">
-        Footer
-      </h2>
-      <div tw="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
+      <TwContainer tw="py-16">
         <div tw="xl:grid xl:grid-cols-3 xl:gap-8">
           <div tw="space-y-8 xl:col-span-1">
             <LocaleDropdown />
@@ -37,7 +35,7 @@ export default function Footer() {
             Made with <code>{`<3`}</code> for the original Ethereum vision
           </p>
         </div>
-      </div>
+      </TwContainer>
     </footer>
   );
 }
