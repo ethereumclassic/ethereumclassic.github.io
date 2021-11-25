@@ -12,7 +12,7 @@ export default function NewsReel({ items }) {
         <div tw="flex-auto flex-row flex space-x-6">
           <h3 tw="text-2xl font-bold text-gray-800">Latest News</h3>
           <div tw="hidden lg:block">
-            <Disclaimer inline gray />
+            <Disclaimer inline color="gray" />
           </div>
         </div>
         <div>
@@ -22,7 +22,7 @@ export default function NewsReel({ items }) {
         </div>
       </div>
       <div tw="lg:hidden">
-        <Disclaimer inline gray />
+        <Disclaimer inline color="gray" />
       </div>
       <div tw="grid grid-cols-1 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
         {items.edges.map(({ node }, i) => (

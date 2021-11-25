@@ -1,14 +1,12 @@
 import React from "react";
 import "twin.macro";
-import ContentHeader from "./contentHeader";
 
-import ContentPrevNext from "./contentPrevNext";
+import ContentFooter from "./contentFooter";
+import ContentHeader from "./contentHeader";
 import ContentSidebar from "./contentSidebar";
 import ContentTOC from "./contentTOC";
-import Contributors from "./contributors";
-import Divider from "./divider";
 import Generic from "./generic";
-import Json from "./json";
+
 import MarkdownStatic from "./markdownStatic";
 import TwContainer from "./twContainer";
 
@@ -29,10 +27,7 @@ export default function Content({ data: { mdx, contributors }, i18n }) {
             <Generic {...{ i18n }} />
           )}
         </article>
-        {/* <Json data={{ mdx, i18n }} /> */}
-        <Divider />
-        <Contributors contributors={contributors} />
-        <ContentPrevNext />
+        <ContentFooter {...{ mdx, i18n, contributors }} />
       </main>
       <aside tw="hidden lg:block lg:col-span-3 mt-10">
         <div tw="sticky top-24 space-y-4 ">

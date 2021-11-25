@@ -1,16 +1,18 @@
 import React from "react";
 import { GatsbyImage, getImage } from "gatsby-plugin-image";
 import "twin.macro";
-import Json from "./json";
+
 import Link from "./link";
+import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
 
 export default function Contributors({ contributors }) {
-  if (!contributors) {
+  const { ui } = useGlobals();
+  if (!contributors.edges.length) {
     return null;
   }
   return (
-    <div tw="space-y-6">
-      <div>Contributors: todo, add a message about becoming a contributor</div>
+    <div tw="space-y-4">
+      <div tw="text-gray-500 text-sm">{ui.contributors}</div>
       <div tw="flex -space-x-2">
         {contributors.edges.map(
           ({ node: { githubId, localImage, locale } }) => (

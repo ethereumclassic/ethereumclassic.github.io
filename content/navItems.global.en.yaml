@@ -1,4 +1,5 @@
 learn:
+  __showNextNav: true
   __link: /learn
   name: Learn
   navItems:
@@ -10,19 +11,15 @@ learn:
       navItems:
         genesis:
           __link: /learn/why-classic/genesis
-          __icon: code
           name: Genesis
         codeIsLaw:
           __link: /learn/why-classic/code-is-law
-          __icon: code
           name: Code is Law
         decentralization:
           __link: /learn/why-classic/decentralization
-          __icon: code
           name: Decentralization
         soundMoney:
           __link: /learn/why-classic/sound-money
-          __icon: code
           name: Sound Money
     philosophy:
       __link: /learn/philosophy
@@ -32,23 +29,18 @@ learn:
       navItems:
         history:
           __link: /learn/philosophy/history
-          __icon: code
           name: History
         doctrine:
           __link: /learn/philosophy/doctrine
-          __icon: code
           name: Doctrine
         principles:
           __link: /learn/philosophy/principles
-          __icon: code
           name: Principles
         research:
           __link: /learn/philosophy/research
-          __icon: code
           name: Research
         roadmap:
           __link: /learn/philosophy/roadmap
-          __icon: code
           name: Roadmap
     guides:
       __link: /learn/guides
@@ -58,19 +50,15 @@ learn:
       navItems:
         basics:
           __link: /learn/guides/basics
-          __icon: code
           name: Basics
         metamask:
           __link: /learn/guides/metamask
-          __icon: code
           name: Metamask
         etc:
           __link: /learn/guides/etc
-          __icon: code
           name: Etcetera...
         development:
           __link: /learn/guides/development
-          __icon: code
           name: Development
     media:
       __link: /learn/media
@@ -80,17 +68,14 @@ learn:
       navItems:
         explainers:
           __link: /learn/media/explainers
-          __icon: code
           name: Explainers
           description: TODO
         discussions:
           __link: /learn/media/discussions
-          __icon: code
           name: Discussions
           description: TODO
         conferences:
           __link: /learn/media/conferences
-          __icon: code
           name: conferences
           description: TODO
 play:
@@ -105,15 +90,12 @@ play:
       navItems:
         wallets:
           __link: /play/services/wallets
-          __icon: code
           name: Wallets
         exchanges:
           __link: /play/services/exchanges
-          __icon: code
           name: Exchanges
         apps:
           __link: /play/services/apps
-          __icon: code
           name: Apps
     community:
       __link: /play/community
@@ -123,23 +105,18 @@ play:
       navItems:
         channels:
           __link: /play/community/channels
-          __icon: code
           name: Channels
         teams:
           __link: /play/community/teams
-          __icon: code
           name: Teams
         promoters:
           __link: /play/community/promoters
-          __icon: code
           name: Promoters
         bounties:
           __link: /play/community/bounties
-          __icon: code
           name: Bounties
         dao:
           __link: /play/community/daos
-          __icon: code
           name: DAOs
     network:
       __link: /play/network
@@ -149,19 +126,15 @@ play:
       navItems:
         endpoints:
           __link: /play/network/endpoints
-          __icon: code
           name: Endpoints
         explorers:
           __link: /play/network/explorers
-          __icon: code
           name: Explorers
         monitors:
           __link: /play/network/monitors
-          __icon: code
           name: Monitors
         statistics:
           __link: /play/network/statistics
-          __icon: code
           name: Statistics
     mining:
       __link: /play/mining
@@ -171,15 +144,12 @@ play:
       navItems:
         hardware:
           __link: /play/mining/hardware
-          __icon: code
           name: Hardware
         software:
           __link: /play/mining/software
-          __icon: code
           name: Software
         pools:
           __link: /play/mining/pools
-          __icon: code
           name: Pools
     develop:
       __link: /play/development
@@ -189,19 +159,15 @@ play:
       navItems:
         clients:
           __link: /play/development/clients
-          __icon: code
           name: Clients
         testnets:
           __link: /play/development/testnets
-          __icon: code
           name: Testnets
         tooling:
           __link: /play/development/tooling
-          __icon: code
           name: Tooling
         ecips:
           __link: /play/development/ecips
-          __icon: code
           name: ECIPs
 news:
   __link: /news

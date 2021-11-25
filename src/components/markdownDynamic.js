@@ -12,13 +12,18 @@ function unwrapParagraphs(props) {
   return children;
 }
 
-export default function Markdown({ children, unwrap, ...props }) {
+export default function Markdown({
+  children,
+  components: comps,
+  unwrap,
+  linkProps,
+  ...props
+}) {
   if (children === undefined) {
     return null;
   }
   const components = {
-    // link: localizeLinks,
-    a: (props) => <Link {...props} showExternal />,
+    a: (myProps) => <Link {...myProps} {...linkProps} showExternal />,
   };
   if (unwrap) {
     components.root = unwrapParagraphs;

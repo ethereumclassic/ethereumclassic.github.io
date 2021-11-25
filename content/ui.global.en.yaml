@@ -28,6 +28,13 @@ disclaimer:
   title: Don't Trust, Verify.
   text: External links are unofficial community submissions.
 ## Banner at the top of the page for warnings / upgrade messages
+## prev next
+next: Continue Reading
+prev: Previous Article
+##
+contribute: If you would like to contribute by adding or correcting information to this page, please drop us a message on [Discord](https://discord.com/invite/dwxb6nf) or create an issue on [Github](https://github.com/ethereumclassic/ethereumclassic.github.io)
+contributors: "This page exists in part thanks to the following contributors:"
+##
 warning:
   __enabled: true
   __icon: warning
@@ -35,7 +42,9 @@ warning:
   button:
     __link: /development/clients
     text: Update Client
-## Footer links
+## Footer
+signOff: Made with `<3` for the Original Ethereum Vision
+socialHilight: The ETC community is active on Discord
 socialItems:
   github:
     __link: "#"
@@ -44,6 +53,7 @@ socialItems:
   discord:
     __link: "#"
     __icon: discord
+    __hilight: true
     name: Discord
   telegram:
     __link: "#"

@@ -37,14 +37,10 @@ export default function LocaleDropdown() {
                 <span tw="ml-3 block truncate">{current.name}</span>
               </span>
               <span tw="ml-3 absolute inset-y-0 right-0 flex items-center pr-2 pointer-events-none">
-                <Icon
-                  icon={"down"}
-                  tw="h-5 w-5 text-gray-400"
-                  aria-hidden="true"
-                />
+                <Icon icon="up" tw="h-5 w-5 text-gray-400" aria-hidden="true" />
               </span>
             </Listbox.Button>
-            <Listbox.Options tw="absolute top-11 z-10 bg-white shadow-lg max-h-72 rounded-md py-1 text-base ring-1 ring-black ring-opacity-5 overflow-auto focus:outline-none sm:text-sm">
+            <Listbox.Options tw="absolute left-0 bottom-11 z-10 bg-white shadow-lg max-h-72 rounded-md py-1 text-base ring-1 ring-black ring-opacity-5 overflow-auto focus:outline-none sm:text-sm">
               {localeItems.map(({ key, name, enabled }) => (
                 <Listbox.Option key={key} value={key} as={Fragment}>
                   {({ active }) => (

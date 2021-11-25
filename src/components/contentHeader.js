@@ -40,7 +40,7 @@ export default function ContentHeader({ mdx, i18n }) {
         </div>
         {showDisclaimer && (
           <div>
-            <Disclaimer inline mini />
+            <Disclaimer inline micro />
           </div>
         )}
       </div>

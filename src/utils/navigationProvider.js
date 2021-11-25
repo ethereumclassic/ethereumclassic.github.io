@@ -23,6 +23,7 @@ function NavigationProvider({ children, pageContext: { basePath } }) {
     if (j > -1) {
       // set `current ` styling
       items[j].current = true;
+      // calcualte prev and next items
       // only calculate on the final fragment
       if (i === baseFragments.length - 1) {
         if (items[j - 1]) {

@@ -7,22 +7,29 @@ import LocaleDropdown from "./localeDropdown";
 import SocialIcons from "./socialIcons";
 import Sponsors from "./sponsors";
 import TwContainer from "./twContainer";
+import Md from "./markdownDynamic";
 
 export default function Footer() {
-  const { navItems } = useGlobals();
+  const {
+    navItems,
+    ui: { signOff },
+  } = useGlobals();
   return (
-    <footer tw="bg-white mt-16" aria-labelledby="footer-heading">
-      <TwContainer tw="py-16">
-        <div tw="xl:grid xl:grid-cols-3 xl:gap-8">
-          <div tw="space-y-8 xl:col-span-1">
-            <LocaleDropdown />
-            <SocialIcons />
-            <p tw="text-gray-500 text-base">TODO some interesting text.</p>
+    <footer tw="bg-white mt-16 py-16" aria-labelledby="footer-heading">
+      <TwContainer>
+        <div tw="grid grid-cols-12 gap-4 gap-y-16">
+          <div tw="col-span-full md:col-span-4 space-y-10 flex flex-col items-center md:items-start">
+            <div>
+              <LocaleDropdown />
+            </div>
+            <div>
+              <SocialIcons />
+            </div>
             <div>
               <Sponsors />
             </div>
           </div>
-          <div tw="mt-12 grid grid-cols-3 gap-4 xl:mt-0 xl:col-span-2">
+          <div tw="grid grid-cols-3 gap-4 row-start-1 col-span-full text-center md:text-left md:col-span-8 md:row-start-auto">
             {navItems
               .filter((i) => i.navItems)
               .map((item) => (
@@ -30,10 +37,8 @@ export default function Footer() {
               ))}
           </div>
         </div>
-        <div tw="mt-12 border-t border-gray-200 pt-8">
-          <p tw="text-base text-gray-400 xl:text-center">
-            Made with <code>{`<3`}</code> for the original Ethereum vision
-          </p>
+        <div tw="col-span-full border-t border-gray-200 pt-8 mt-16">
+          <Md tw="text-base text-gray-400 text-center">{signOff}</Md>
         </div>
       </TwContainer>
     </footer>

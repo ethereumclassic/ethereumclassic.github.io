@@ -48,6 +48,7 @@ export {
   faPlusCircle as plus,
   faExternalLinkAlt as external,
   faRss as feed,
+  faHandsHelping as contribute,
   // in timeline
   faRocket as rocket,
   faSnowflake as snowflake,
