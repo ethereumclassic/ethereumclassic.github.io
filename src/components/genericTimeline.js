@@ -7,6 +7,7 @@ import Link from "./link";
 
 import { h4 as H4 } from "./linkedHeaders";
 import FormattedDate from "./formattedDate";
+import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
 
 const colors = {
   blue: tw`bg-blue-600`,
@@ -62,23 +63,25 @@ function GenericTimelineItem({ title, date, color, icon, link, text, last }) {
 }
 
 export default function GenericTimeline({ items }) {
+  const {
+    ui: { timeline },
+  } = useGlobals();
   const [reversed, setReversed] = useState(false);
   const ordered = !reversed ? items : [...items].reverse();
   return (
     <>
-      <div tw="text-right">
-        <Button
-          primary
-          big
-          icon={reversed ? "sortUp" : "sortDown"}
-          onClick={() => {
-            setReversed(!reversed);
-          }}
-        >
-          {reversed ? "Reversed" : "Chronological"}
-        </Button>
-      </div>
-      <div tw="p-10 bg-white rounded-md shadow">
+      <div tw="p-6 bg-white rounded-md relative shadow">
+        <div tw="absolute right-0 -top-12">
+          <Button
+            primary
+            icon={reversed ? "sortUp" : "sortDown"}
+            onClick={() => {
+              setReversed(!reversed);
+            }}
+          >
+            {reversed ? timeline.reversed : timeline.chronological}
+          </Button>
+        </div>
         <div tw="flow-root">
           {ordered.map((item, i) => (
             <GenericTimelineItem

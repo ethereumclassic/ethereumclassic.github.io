@@ -16,10 +16,18 @@ metaLocale: en_US
 htmlLang: en
 #  Do not edit this!
 __bodyClass: default
-## pop up
+##
+## ## General UI
+##
+updated: Last updated
+timeline:
+  chronological: Chronological
+  reversed: Reversed
+## disclaimer on pages with extenral links
 disclaimer:
   title: Don't Trust, Verify.
   text: External links are unofficial community submissions.
+## Banner at the top of the page for warnings / upgrade messages
 warning:
   __enabled: true
   __icon: warning
@@ -27,6 +35,7 @@ warning:
   button:
     __link: /development/clients
     text: Update Client
+## Footer links
 socialItems:
   github:
     __link: "#"

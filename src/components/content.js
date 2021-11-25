@@ -7,14 +7,12 @@ import ContentSidebar from "./contentSidebar";
 import ContentTOC from "./contentTOC";
 import Contributors from "./contributors";
 import Divider from "./divider";
-
 import Generic from "./generic";
 import Json from "./json";
 import MarkdownStatic from "./markdownStatic";
 import TwContainer from "./twContainer";
 
 export default function Content({ data: { mdx, contributors }, i18n }) {
-  // if we have content, resolve refs
   return (
     <TwContainer grid>
       <div tw="hidden md:block md:col-span-3 lg:col-span-2">

@@ -24,7 +24,7 @@ function generateHeader(HX) {
     return (
       <HX {...props} id={id}>
         {/* don't wrap in a link if the child is a link */}
-        {children?.props?.href ? (
+        {children?.props?.href || children?.props?.to ? (
           children
         ) : (
           <a href={`#${id}`} tw="!no-underline hover:!underline">
