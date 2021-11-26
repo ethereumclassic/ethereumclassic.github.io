@@ -25,11 +25,13 @@ export default function News({ pageContext, data, i18n }) {
           <div tw="hidden lg:block">
             <Disclaimer mini />
           </div>
+          <div tw="lg:hidden">
+            <Disclaimer inline micro />
+          </div>
         </div>
-        <div tw="md:hidden space-y-3 mt-6">
+        <div tw="md:hidden space-y-1 sm:space-y-3 mt-4">
           <NewsFilters {...{ pageContext, i18n }} inline />
         </div>
-        <Disclaimer inline tw="lg:hidden mt-6" color="gray" />
         <div tw="sticky z-20 top-16 bg-gray-100 pt-6 mb-6 -mx-4 px-4">
           <NewsPagination {...{ pageContext }} />
         </div>

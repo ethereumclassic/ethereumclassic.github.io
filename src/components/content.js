@@ -14,11 +14,12 @@ export default function Content({ data: { mdx, contributors }, i18n }) {
   return (
     <TwContainer grid>
       <div tw="hidden md:block md:col-span-3 lg:col-span-2">
-        <nav tw="sticky top-24 divide-y divide-gray-300 mt-10">
+        <nav tw="sticky top-24 mt-10">
           <ContentSidebar />
         </nav>
       </div>
       <main tw="col-span-full md:col-span-9 lg:col-span-7 mt-10">
+        <ContentSidebar inline tw="sticky top-16 md:hidden z-40" />
         <article tw="prose dark:prose-light max-w-none">
           <ContentHeader {...{ mdx, i18n }} />
           {mdx ? (

@@ -179,7 +179,7 @@ items:
       forum Archived BitcoinTalk:
         __link: https://bitcointalk.org/index.php?topic=1559630.0
         __brand: bitcointalk
-      name: Archived BitcoinTalk
+        name: Archived BitcoinTalk
   Media:
     __type: buttons
     title: Media

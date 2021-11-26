@@ -69,7 +69,10 @@ function MainBox({
       <div css={[tw`z-10 relative`]}>
         {title && (
           <div
-            css={[tw`text-sm font-medium inline mr-2`, colConf.textSecondary]}
+            css={[
+              tw`text-sm font-medium inline mr-2 whitespace-nowrap`,
+              colConf.textSecondary,
+            ]}
           >
             {title}
           </div>
@@ -112,7 +115,7 @@ export default function InfoBox(props) {
     return <MainBox {...{ bgConf, textConf, colConf, ...props }} />;
   }
   return (
-    <Popover tw="relative" {...rest}>
+    <Popover tw="relative z-30" {...rest}>
       {({ open }) => (
         <>
           <MainBox

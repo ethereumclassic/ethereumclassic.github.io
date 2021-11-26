@@ -14,15 +14,15 @@ export default function NewsReel({ items }) {
           <div tw="hidden lg:block">
             <Disclaimer inline color="gray" />
           </div>
+          <div tw="lg:hidden">
+            <Disclaimer micro inline color="gray" />
+          </div>
         </div>
         <div>
           <Link button secondary icon="right" to="/news">
             All News
           </Link>
         </div>
-      </div>
-      <div tw="lg:hidden">
-        <Disclaimer inline color="gray" />
       </div>
       <div tw="grid grid-cols-1 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
         {items.edges.map(({ node }, i) => (

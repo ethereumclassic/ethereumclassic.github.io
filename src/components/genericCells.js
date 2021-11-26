@@ -11,7 +11,7 @@ function CellButton({ button, item }) {
     return null;
   }
   return (
-    <Link button to={link} icon={icon} key={button.key}>
+    <Link secondary button to={link} icon={icon} key={button.key}>
       {button.name}
     </Link>
   );

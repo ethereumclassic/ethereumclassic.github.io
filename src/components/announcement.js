@@ -30,14 +30,14 @@ export default function Announcement() {
             </Md>
           </div>
           {announcement.button && (
-            <div tw="w-auto">
+            <div tw="w-auto pl-2">
               <Link
                 icon="right"
                 to={announcement.button.link}
                 // button TODO this is annoying
-                tw="flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-green-600 bg-white hover:bg-green-50"
+                tw="flex items-center justify-center px-2 pr-3 sm:pr-2 sm:px-4 py-2 border border-transparent rounded-md shadow-sm sm:text-sm font-medium text-green-600 bg-white hover:bg-green-50"
               >
-                {announcement.button.text}
+                <span tw="hidden sm:inline">{announcement.button.text}</span>
               </Link>
             </div>
           )}

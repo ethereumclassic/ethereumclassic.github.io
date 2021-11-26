@@ -26,7 +26,7 @@ function NewsFilterBlock({ items, title, icon, inline }) {
           <span>{title}</span>
         </div>
       </div>
-      <div tw="leading-relaxed flex-shrink">
+      <div tw="md:leading-relaxed flex-shrink">
         {items.map(({ key, link, name, selected }) => (
           <React.Fragment key={key}>
             <LocalizedLink

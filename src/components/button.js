@@ -25,7 +25,7 @@ export default function Button({
         secondary &&
           tw`!text-indigo-700 bg-indigo-100 hover:bg-indigo-200 focus:ring-indigo-500`,
         big && tw`!text-lg m-1 shadow-lg hover:scale-110`,
-        round ? tw`rounded-full` : tw`rounded-md`,
+        round ? tw`rounded-full p-2` : tw`rounded-md`,
       ]}
       {...props}
     >
