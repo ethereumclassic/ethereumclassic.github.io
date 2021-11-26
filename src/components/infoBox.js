@@ -1,9 +1,9 @@
-import { ClassNames } from "@emotion/react";
-import { Popover, Transition } from "@headlessui/react";
-import React, { Fragment } from "react";
+import React from "react";
 import tw from "twin.macro";
 import Icon from "./icon";
 import Md from "./markdownDynamic";
+import Fader from "./fader";
+import { Popover } from "@headlessui/react";
 
 const palette = {
   yellow: {
@@ -119,29 +119,17 @@ export default function InfoBox(props) {
             As={Popover.Button}
             {...{ bgConf, textConf, colConf, open, ...props }}
           />
-          <ClassNames>
-            {({ css }) => (
-              <Transition
-                as={Fragment}
-                enter={css(tw`transition ease-out duration-200`)}
-                enterFrom={css(tw`opacity-0 translate-y-1`)}
-                enterTo={css(tw`opacity-100 translate-y-0`)}
-                leave={css(tw`transition ease-in duration-150`)}
-                leaveFrom={css(tw`opacity-100 translate-y-0`)}
-                leaveTo={css(tw`opacity-0 translate-y-1`)}
-              >
-                <Popover.Panel
-                  css={[
-                    ...bgConf,
-                    colConf.bgActive,
-                    tw`absolute z-10 right-0 top-9 pt-0 rounded-tr-none pr-2`,
-                  ]}
-                >
-                  <p css={[...textConf, tw`inline`]}>{text}</p>
-                </Popover.Panel>
-              </Transition>
-            )}
-          </ClassNames>
+          <Fader>
+            <Popover.Panel
+              css={[
+                ...bgConf,
+                colConf.bgActive,
+                tw`absolute z-10 right-0 top-9 pt-0 rounded-tr-none pr-2`,
+              ]}
+            >
+              <p css={[...textConf, tw`inline`]}>{text}</p>
+            </Popover.Panel>
+          </Fader>
         </>
       )}
     </Popover>

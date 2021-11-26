@@ -49,6 +49,10 @@ export {
   faExternalLinkAlt as external,
   faRss as feed,
   faHandsHelping as contribute,
+  faNewspaper as news,
+  faSitemap as sitemap,
+  faComment as blog,
+  faIcons as icons,
   // in timeline
   faRocket as rocket,
   faSnowflake as snowflake,

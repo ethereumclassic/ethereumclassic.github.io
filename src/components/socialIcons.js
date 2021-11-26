@@ -24,7 +24,12 @@ export default function SocialIcons() {
           >
             <span tw="sr-only">{name}</span>
             <div tw="relative">
-              {hilight && <Icon icon="down" tw="absolute h-4 w-full -top-3" />}
+              {hilight && (
+                <Icon
+                  icon="down"
+                  tw="absolute h-4 w-full -top-3 animate-bounce"
+                />
+              )}
               <Icon icon={icon} tw="h-6" />
             </div>
           </a>

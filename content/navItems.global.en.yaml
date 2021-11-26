@@ -170,6 +170,7 @@ play:
           __link: /play/development/ecips
           name: ECIPs
 news:
+  __hideMobile: true
   __link: /news
   name: News
 extra:
@@ -178,16 +179,21 @@ extra:
   navItems:
     news:
       __link: /news
+      __icon: news
       name: News
     blog:
       __link: /news/tag/blog
+      __icon: blog
       name: ETC Blog
     media:
       __link: /extras/media-kit
+      __icon: icons
       name: Media Kit
     rss:
       __link: /rss.xml
+      __icon: feed
       name: RSS Feed
     siteMap:
       __link: /sitemap
+      __icon: sitemap
       name: Site Map

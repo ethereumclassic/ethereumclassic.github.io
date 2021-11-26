@@ -82,7 +82,7 @@ export default function GenericTimeline({ items }) {
             {reversed ? timeline.reversed : timeline.chronological}
           </Button>
         </div>
-        <div tw="flow-root">
+        <div tw="flow-root overflow-hidden">
           {ordered.map((item, i) => (
             <GenericTimelineItem
               key={item.key}

@@ -12,7 +12,7 @@ function RandomWords({ words }) {
     setState({ arr, i: i === arr.length - 1 ? 0 : i + 1 });
   }, 800);
   return (
-    <span tw="font-extrabold text-6xl whitespace-nowrap tracking-tight">
+    <span tw="font-extrabold text-4xl md:text-5xl lg:text-6xl whitespace-nowrap tracking-tight">
       {arr[i]}{" "}
     </span>
   );
@@ -43,10 +43,10 @@ export default function LandingBillboard({ text, randomWords }) {
       css={{ height: `70vh` }}
     >
       <div tw="max-w-7xl mx-auto h-full px-6 grid grid-cols-12 items-center">
-        <div tw="h-full overflow-hidden col-span-7 text-green-200">
+        <div tw="h-full col-span-full px-8 sm:px-0 sm:col-span-7 text-green-200 sm:overflow-hidden">
           <Lass />
         </div>
-        <div tw="flex flex-col text-5xl uppercase font-light text-green-50 leading-tight tracking-widest -ml-6">
+        <div tw="flex flex-col text-3xl lg:text-5xl uppercase font-light text-green-50 leading-tight tracking-widest sm:-ml-6 col-span-full text-center row-start-1 pt-10 sm:text-left sm:pt-0 sm:col-span-5 sm:row-start-auto">
           {text.split("%%").map((str) =>
             str === "$$" ? (
               <RandomWords key={str} words={Object.values(randomWords)} />

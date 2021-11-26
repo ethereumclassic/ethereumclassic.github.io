@@ -20,7 +20,7 @@ export default function NewsItem({
     <Link
       notLocalized
       to={link}
-      tw="relative transition-colors bg-white shadow-sm rounded-md overflow-hidden text-gray-800 hover:text-black hover:bg-green-50"
+      tw="relative bg-white shadow-sm rounded-sm overflow-hidden text-gray-800 hover:text-black hover:bg-green-50"
       {...rest}
     >
       {blog && (
