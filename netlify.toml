@@ -1,5 +1,12 @@
 [build]
   publish = "public"
+# TODO use gatsby plugin algolia instead, so we can index content types better
+[[plugins]]
+  package = "@algolia/netlify-plugin-crawler"
+    [plugins.inputs]
+    branches = ['3022']
+# These redirects will be used by Netlify as well as the client to replace link addresses
+# 2019 Redirects
 [[redirects]]
   from = "/wiki"
   to = "https://github.com/ethereumclassic/wiki/wiki"
@@ -24,7 +31,7 @@
 [[redirects]]
   from = "/blog/2017-01-17-newsletter"
   to = "/blog/2017-01-17-die-hard-fork-upgrade"
-[[plugins]]
-  package = "@algolia/netlify-plugin-crawler"
-    [plugins.inputs]
-    branches = ['3022']
+# 2021 Redirects
+[[redirects]]
+  from = "/ecosystem/exchanges"
+  to = "/services/exchanges"

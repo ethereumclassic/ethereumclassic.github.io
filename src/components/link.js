@@ -4,6 +4,7 @@ import { isString } from "lodash";
 import LocalizedLink from "../../plugins/translations-plugin/src/components/localizedLink";
 import Button from "./button";
 import LinkIcon from "./linkIcon";
+import { useRedirectedUrl } from "../utils/redirectsProvider";
 
 const isHash = (str) => /^#/.test(str);
 const isInternal = (to) => /^\/(?!\/)/.test(to);
@@ -19,7 +20,7 @@ export default function Link({
   iconLeft,
   ...props
 }) {
-  const url = href || to;
+  const url = useRedirectedUrl(href || to);
   const isExternal = isHash(url) || !isInternal(url);
   const LinkCompBase = isExternal ? "a" : LocalizedLink;
   const LinkComp = button ? Button : LinkCompBase;

@@ -50,6 +50,7 @@
   "devDependencies": {
     "@emotion/react": "^11.5.0",
     "@emotion/styled": "^11.3.0",
+    "@ltd/j-toml": "^1.24.0",
     "eslint-config-react-app": "^6.0.0",
     "gatsby-plugin-emotion": "^7.1.0",
     "twin.macro": "^2.8.1"

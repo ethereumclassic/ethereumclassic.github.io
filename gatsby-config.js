@@ -1,11 +1,13 @@
 const siteUrl = "https://etc3022.netlify.app";
 
 const { locales, defaultLocale } = require("./configs/locales");
+const redirects = require("./configs/redirects");
 
 module.exports = {
   siteMetadata: {
     siteUrl,
     socialImage: "/etc-social-card.png",
+    redirects,
   },
   plugins: [
     "gatsby-plugin-image",

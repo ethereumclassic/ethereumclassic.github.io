@@ -3,6 +3,7 @@ import "twin.macro";
 
 import GlobalStyles from "../utils/globalStyles";
 import { NavigationProvider } from "../utils/navigationProvider";
+import { RedirectsProvider } from "../utils/redirectsProvider";
 import { ThemeProvider } from "../utils/themeProvider";
 
 import Footer from "./footer";
@@ -13,22 +14,24 @@ import Announcement from "./announcement";
 
 export default function GlobalLayout({ children, ...props }) {
   return (
-    <ThemeProvider>
+    <RedirectsProvider>
       <NavigationProvider {...props}>
-        <Seo {...props} />
-        <GlobalStyles />
-        <div tw="h-screen flex flex-col">
-          <Header />
-          <main tw="flex-1">
-            <div tw="pt-16">
-              <Announcement />
-              {children}
-              {/* <Json {...props} /> */}
-            </div>
-          </main>
-          <Footer />
-        </div>
+        <ThemeProvider>
+          <Seo {...props} />
+          <GlobalStyles />
+          <div tw="h-screen flex flex-col">
+            <Header />
+            <main tw="flex-1">
+              <div tw="pt-16">
+                <Announcement />
+                {children}
+                {/* <Json {...props} /> */}
+              </div>
+            </main>
+            <Footer />
+          </div>
+        </ThemeProvider>
       </NavigationProvider>
-    </ThemeProvider>
+    </RedirectsProvider>
   );
 }
