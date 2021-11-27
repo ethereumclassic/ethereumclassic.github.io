@@ -19,7 +19,9 @@ __bodyClass: default
 ##
 ## ## General UI
 ##
+published: Published
 updated: Last updated
+author: Author
 timeline:
   chronological: Chronological
   reversed: Reversed

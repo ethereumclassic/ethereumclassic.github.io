@@ -1,8 +1,9 @@
 title: Testnets
+description: Hello, TODO some text here
 items:
   testnets:
     __type: table
-    title: ETC Virtual Machine Chains
+    __sort: false
     i18n:
       pow: Proof of Work
       poa: Proof of Authority

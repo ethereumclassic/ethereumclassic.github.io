@@ -4,7 +4,6 @@ import "twin.macro";
 import { Popover } from "@headlessui/react";
 import Icon from "./icon";
 import Fader from "./fader";
-import Link from "./link";
 import MobileMenuItems from "./mobileMenuItems";
 
 export default function MobileMenu() {

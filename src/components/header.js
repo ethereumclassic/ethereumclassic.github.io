@@ -1,7 +1,6 @@
 /* This Header requires Tailwind CSS v2.0+ */
 import React from "react";
 import "twin.macro";
-import { Popover } from "@headlessui/react";
 
 import Logo from "./logo";
 import SearchAlgolia from "./searchAlgolia";
@@ -9,7 +8,6 @@ import MainMenu from "./mainMenu";
 import MobileMenu from "./mobileMenu";
 import LocaleSelector from "./localeSelector";
 import DarkModeSwitcher from "./darkModeSwitcher";
-import Icon from "./icon";
 import TwContainer from "./twContainer";
 
 export default function Header() {

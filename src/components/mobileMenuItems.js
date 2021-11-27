@@ -4,7 +4,6 @@ import "twin.macro";
 import { useNavigation } from "../utils/navigationProvider";
 import Icon from "./icon";
 import Link from "./link";
-import Json from "./json";
 
 function MenuItem({ name, description, link, icon }) {
   return (

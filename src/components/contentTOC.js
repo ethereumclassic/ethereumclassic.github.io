@@ -15,7 +15,8 @@ function LinkItems({ items, depth = 0 }) {
             <a
               css={[
                 tw`hocus:text-gray-800 text-gray-500 font-bold block`,
-                [tw`pl-2`, tw`pl-4`, tw`pl-6`, tw`pl-8`][depth] || tw`pl-8`,
+                [tw`pl-0`, tw`pl-2`, tw`pl-4`, tw`pl-6`, tw`pl-8`][depth] ||
+                  tw`pl-8`,
               ]}
               href={`#${kebabCase(title.toLowerCase())}`}
             >
@@ -29,36 +30,15 @@ function LinkItems({ items, depth = 0 }) {
   );
 }
 
-function generateToc(item, i18n = item) {
-  // TODO resolve refs higher up else to keep it dry?
-  if (item.title) {
-    return {
-      title: item.title,
-      items: (item.items || [])
-        .map((i) => generateToc(i, i18n))
-        .filter((i) => i),
-    };
-  }
-  return null;
-}
-
-export default function TableOfContents({ mdx, i18n }) {
-  // if H1 is queried, we skip one
-  const items = mdx?.headings[0]
-    ? mdx.toc.items[0].items
-    : mdx?.toc?.items ?? [generateToc(i18n)].filter((i) => i)[0]?.items;
-
-  if (!items?.length) {
-    return null;
-  }
+export default function TableOfContents({ items }) {
   return (
-    <div tw="text-sm border-gray-300 border-l space-y-3 pl-6">
+    <div tw="text-sm border-gray-300 border-l space-y-3 -mr-3 pl-5">
       <div tw="flex items-center space-x-3 uppercase tracking-widest text-gray-400 select-none">
         <Icon icon="contents" tw="h-3" />
         <span>Contents</span>
       </div>
       <div
-        tw="max-h-screen overflow-y-auto space-y-1.5"
+        tw="max-h-screen overflow-y-auto space-y-3 tracking-tight leading-tight"
         css={{ maxHeight: "70vh" }}
       >
         <LinkItems items={items} />

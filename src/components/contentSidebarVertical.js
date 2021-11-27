@@ -50,7 +50,7 @@ function SubItem({ item: { name, key, link, current } }) {
 
 export default function ContentSidebarVertical({ items }) {
   return (
-    <div css={[tw`space-y-1`]}>
+    <div css={[tw`space-y-1 -ml-1`]}>
       {items.map((item) => (
         <div key={item.key}>
           <Item item={item} />

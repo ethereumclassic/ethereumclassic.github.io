@@ -58,37 +58,39 @@ export default function GenericTable({ items, columnItems, hideHead, i18n }) {
   // TODO order items
   // TODO overflow scroll
   return (
-    <table>
-      {!hideHead && (
-        <thead>
-          <tr>
-            {columnItems.map(({ name, key }) => (
-              <th key={key}>{name}</th>
-            ))}
-          </tr>
-        </thead>
-      )}
-      <tbody>
-        {items.map((item) => (
-          <tr key={item.key}>
-            {columnItems.map((column) => (
-              <td key={column.key} tw="!align-middle">
-                {(column.items || [column]).map((col, i) => (
-                  <CellContent
-                    key={`${item.key}${col.key}`}
-                    {...{
-                      item,
-                      column: col,
-                      i18n,
-                      first: i === 0,
-                    }}
-                  />
-                ))}
-              </td>
-            ))}
-          </tr>
-        ))}
-      </tbody>
-    </table>
+    <div tw="max-w-full overflow-x-auto">
+      <table>
+        {!hideHead && (
+          <thead>
+            <tr>
+              {columnItems.map(({ name, key }) => (
+                <th key={key}>{name}</th>
+              ))}
+            </tr>
+          </thead>
+        )}
+        <tbody>
+          {items.map((item) => (
+            <tr key={item.key}>
+              {columnItems.map((column) => (
+                <td key={column.key} tw="!align-middle">
+                  {(column.items || [column]).map((col, i) => (
+                    <CellContent
+                      key={`${item.key}${col.key}`}
+                      {...{
+                        item,
+                        column: col,
+                        i18n,
+                        first: i === 0,
+                      }}
+                    />
+                  ))}
+                </td>
+              ))}
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
   );
 }

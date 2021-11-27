@@ -53,6 +53,8 @@ export {
   faSitemap as sitemap,
   faComment as blog,
   faIcons as icons,
+  faPen as pen,
+  faHistory as update,
   // in timeline
   faRocket as rocket,
   faSnowflake as snowflake,
