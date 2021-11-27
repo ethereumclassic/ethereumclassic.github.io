@@ -36,10 +36,10 @@ export default function News({ pageContext, data, i18n }) {
           <NewsPagination {...{ pageContext }} />
         </div>
         {/* main content */}
-        <div tw="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 md:gap-4">
+        <div tw="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 md:gap-3">
           {pageContext.currentPage === 1 && (
             <Link
-              tw="col-span-full border-2 border-dashed border-gray-400 hover:bg-gray-200 flex items-center justify-center space-x-4 p-2"
+              tw="col-span-full border-2 rounded-lg border-dashed bg-gray-50 border-gray-400 hover:bg-white flex items-center justify-center space-x-4 p-3"
               to="https://github.com/ethereumclassic.github.io"
             >
               <Icon icon="plus" tw="h-5" />

@@ -15,8 +15,12 @@ function LinkItems({ items, depth = 0 }) {
             <a
               css={[
                 tw`hocus:text-gray-800 text-gray-500 font-bold block`,
-                [tw`pl-0`, tw`pl-2`, tw`pl-4`, tw`pl-6`, tw`pl-8`][depth] ||
-                  tw`pl-8`,
+                [
+                  tw`lg:pl-0 xl:pl-0`,
+                  tw`lg:pl-1 xl:pl-2`,
+                  tw`lg:pl-2 xl:pl-4`,
+                  tw`lg:pl-3 xl:pl-6`,
+                ][depth] || tw`lg:pl-4 xl:pl-8`,
               ]}
               href={`#${kebabCase(title.toLowerCase())}`}
             >

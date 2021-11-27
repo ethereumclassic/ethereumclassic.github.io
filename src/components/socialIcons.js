@@ -9,7 +9,7 @@ export default function SocialIcons() {
     ui: { socialItems, socialHilight },
   } = useGlobals();
   return (
-    <div tw="space-y-3">
+    <div tw="space-y-4">
       <div tw="text-xs font-bold text-indigo-400">{socialHilight}</div>
       <div tw="flex space-x-6">
         {socialItems.map(({ key, name, icon, link, hilight }) => (

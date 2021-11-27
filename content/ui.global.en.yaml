@@ -35,7 +35,9 @@ next: Continue Reading
 prev: Previous Article
 ##
 contribute: If you would like to contribute by adding or correcting information to this page, please drop us a message on [Discord](https://discord.com/invite/dwxb6nf) or create an issue on [Github](https://github.com/ethereumclassic/ethereumclassic.github.io)
-contributors: "This page exists in part thanks to the following contributors:"
+contributors: "This page exists thanks in part to the following contributors:"
+##
+allLanguages: All Languages
 ##
 announcement:
   __enabled: true
