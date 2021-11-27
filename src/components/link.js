@@ -15,6 +15,7 @@ export default function Link({
   href,
   to,
   showExternal,
+  notLocalized,
   iconLeft,
   ...props
 }) {
@@ -22,9 +23,11 @@ export default function Link({
   const isExternal = isHash(url) || !isInternal(url);
   const LinkCompBase = isExternal ? "a" : LocalizedLink;
   const LinkComp = button ? Button : LinkCompBase;
-  const linkProps = isExternal ? { href: url, target: "_blank" } : { to: url };
   const iconName = icon || (showExternal && isExternal && "external");
   const nowrap = isString(children) && children.length < 20;
+  const linkProps = isExternal
+    ? { href: url, target: "_blank" }
+    : { to: url, notLocalized };
   return (
     <LinkComp
       {...props}

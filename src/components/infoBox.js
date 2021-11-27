@@ -38,6 +38,7 @@ function MainBox({
   open,
   inline,
   gray,
+  micro,
   textConf,
   bgConf,
   title,

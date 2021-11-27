@@ -17,6 +17,7 @@ export default function Contributors({ contributors }) {
         {contributors.edges.map(
           ({ node: { githubId, localImage, locale } }) => (
             <Link
+              key={githubId}
               className="group"
               tw="flex items-center text-gray-800 font-bold"
               to={`https://github.com/ethereumclassic/ethereumclassic.github.io/commits?author=${githubId}`}

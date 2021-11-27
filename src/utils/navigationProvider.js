@@ -8,54 +8,45 @@ function useNavigation() {
 }
 
 function NavigationProvider({ children, pageContext: { basePath } }) {
-  const { navItems, sidebar } = useGlobals();
-  // add current, next and prev bools to each item
-  const baseFragments = basePath.split("/");
+  const { navItems } = useGlobals();
+  const pagePath = `/${basePath}`;
+  // recursively find submenus from basePath
   const levels = [{ navItems }];
-  let next, prev;
-  baseFragments.forEach((_, i) => {
-    if (!levels[i] || !levels[i].navItems) {
+  function getLevels(d = 0) {
+    const level = levels[d];
+    if (!level || !level.navItems) {
       return;
     }
-    const items = levels[i].navItems;
-    const linkMatch = `/${baseFragments.slice(0, i + 1).join("/")}`;
-    const j = items.findIndex(({ link }) => link === linkMatch);
-    if (j > -1) {
-      // set `current ` styling
-      items[j].current = true;
-      // calcualte prev and next items
-      // only calculate on the final fragment
-      if (i === baseFragments.length - 1) {
-        if (items[j - 1]) {
-          // prev sibling last child if there is one
-          if (items[j - 1].navItems) {
-            prev = items[j - 1].navItems[items[j - 1].navItems.length - 1];
-          } else {
-            prev = items[j - 1];
-          }
-          // prev sibling if there is one
-        } else if (levels[i]) {
-          // parent if there is one
-          prev = levels[i];
-        }
-        if (items[j].navItems) {
-          // child layer if there is one
-          next = items[j].navItems[0];
-        } else if (items[j + 1]) {
-          // next sibling if there is one
-          next = items[j + 1];
-        } else if (levels[i - 1]) {
-          // parent's sibling if there is one
-          const pI = levels[i - 1].navItems.findIndex(({ current }) => current);
-          next = levels[i - 1].navItems[pI + 1];
-        }
-      }
+    // find the child level
+    const nextLevel = level.navItems.find(
+      (l1) =>
+        pagePath.startsWith(l1.link) ||
+        l1.navItems?.find((l2) => pagePath.startsWith(l2.link))
+    );
+
+    if (nextLevel) {
+      // add "current" flag
+      nextLevel.current = true;
+      levels.push(nextLevel);
+      getLevels(d + 1);
     }
-    levels.push(items[j]);
-  });
-  const [{ navItems: main }, sub] = levels;
+  }
+  getLevels();
+
+  const next =
+    (levels[levels.length - 1].navItems &&
+      levels[levels.length - 1].navItems[0]) ||
+    levels[levels.length - 2]?.navItems[
+      levels[levels.length - 2].navItems.findIndex(({ current }) => current) + 1
+    ] ||
+    levels[levels.length - 3]?.navItems[
+      levels[levels.length - 3].navItems.findIndex(({ current }) => current) + 1
+    ];
+
+  const [{ navItems: main }, _sub] = levels;
+  const sub = _sub && !_sub.hideTop ? _sub : null;
   return (
-    <NavigationContext.Provider value={{ main, sidebar, sub, prev, next }}>
+    <NavigationContext.Provider value={{ main, sub, next }}>
       {children}
     </NavigationContext.Provider>
   );

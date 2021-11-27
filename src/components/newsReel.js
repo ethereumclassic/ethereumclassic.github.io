@@ -28,6 +28,7 @@ export default function NewsReel({ items }) {
         {items.edges.map(({ node }, i) => (
           <NewsItem
             {...node}
+            key={node.id}
             css={[
               tw`hidden`,
               i <= 2 && tw`block`,
