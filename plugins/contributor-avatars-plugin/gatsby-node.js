@@ -17,6 +17,7 @@ exports.onCreateNode = async ({
       githubId,
       locale,
       page,
+      parent: node.id,
       internal: {
         contentDigest: createContentDigest({ locale, page, githubId }),
         type: "ContributorAvatar",
