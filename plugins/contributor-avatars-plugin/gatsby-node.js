@@ -1,15 +1,17 @@
 // check all markdown for "contributor" fields, then upsert the avatar
-const instanceType = "content";
 const jsYaml = require(`js-yaml`);
 
-exports.onCreateNode = async ({
-  node,
-  actions: { createNode, createParentChildLink },
-  createNodeId,
-  loadNodeContent,
-  getNode,
-  createContentDigest,
-}) => {
+exports.onCreateNode = async (
+  {
+    node,
+    actions: { createNode, createParentChildLink },
+    createNodeId,
+    loadNodeContent,
+    getNode,
+    createContentDigest,
+  },
+  { instanceType }
+) => {
   // TODO config limit by collection type
   function registerContributor({ page, githubId, locale }) {
     const newNode = {
@@ -46,7 +48,11 @@ exports.onCreateNode = async ({
     }
   }
 
-  if (node.internal.type === `Mdx` && node.frontmatter?.contributors?.length) {
+  if (
+    node.sourceInstanceName === instanceType &&
+    node.internal.type === `Mdx` &&
+    node.frontmatter?.contributors?.length
+  ) {
     const parentNode = getNode(node.parent);
     node.frontmatter.contributors.forEach((githubId) => {
       registerContributor({

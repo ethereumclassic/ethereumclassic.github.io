@@ -72,7 +72,7 @@ export default function SearchAgolia() {
             <Icon icon="search" tw="h-5 text-gray-400" aria-hidden="true" />
           </div>
           <ConnectedSearchBox />
-          <div tw="absolute mt-3 w-screen max-w-md right-0">
+          <div tw="absolute mt-1 w-screen max-w-md md:max-w-lg right-0">
             <Results hidden={!focused || !query} />
           </div>
         </div>

@@ -39,13 +39,18 @@ contributors: "This page exists thanks in part to the following contributors:"
 ##
 allLanguages: All Languages
 ##
+noResults: No Results
+##
 announcement:
+  __color: green
   __enabled: true
-  __icon: warning
-  text: "Please update your CoreGeth client to v1.12.1."
+  __landingOnly: true
+  __icon: wrench
+  text: |
+    This website is currently under construction and subject to change. Your feedback is welcome.
   button:
-    __link: /development/clients
-    text: Update Client
+    __link: https://github.com/IstoraMandiri/etheruemclassic.github.io
+    text: Feedback
 ## Footer
 signOff: Made with `<3` for the Original Ethereum Vision
 socialHilight: The ETC community is active on Discord

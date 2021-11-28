@@ -1,6 +1,15 @@
 module.exports = {
   purge: [],
   darkMode: "class",
+  plugins: [
+    require("@tailwindcss/typography"),
+    require("@tailwindcss/line-clamp"),
+  ],
+  variants: {
+    extend: {
+      typography: ["dark"],
+    },
+  },
   theme: {
     // actual colors defined in globalStyles.js
     extend: {
@@ -15,6 +24,7 @@ module.exports = {
         tertiary: "var(--color-primary)",
       },
       // TODO: reference globalStyles
+      // used by typography plugin to generate dark mode prose
       typography: (theme) => ({
         light: {
           css: [
@@ -80,13 +90,4 @@ module.exports = {
       }),
     },
   },
-  variants: {
-    extend: {
-      typography: ["dark"],
-    },
-  },
-  plugins: [
-    require("@tailwindcss/typography"),
-    require("@tailwindcss/line-clamp"),
-  ],
 };

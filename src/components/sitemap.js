@@ -34,7 +34,9 @@ function Branch({
   if (root && selected && selected !== locale) {
     return null;
   }
-
+  const sortedChildren = isPage
+    ? children.sort(({ name: a }, { name: b }) => parseInt(a) - parseInt(b))
+    : children || [];
   return (
     <div css={[parentRoot && tw`flex-auto`]}>
       <div
@@ -43,7 +45,7 @@ function Branch({
           root &&
             tw`flex flex-wrap bg-gray-200 p-6 pl-2 mb-2 rounded-3xl space-x-4 space-y-4`,
           parentRoot &&
-            tw`bg-white shadow-md rounded-lg max-h-80 overflow-x-auto text-sm py-2`,
+            tw`bg-white shadow-md rounded-lg max-h-80 overflow-y-auto overflow-x-hidden text-sm py-2`,
         ]}
       >
         {root ? (
@@ -53,32 +55,31 @@ function Branch({
         ) : (
           <div css={!parentPage ? tw`px-2 py-1` : tw`px-0.5 py-1`}>
             {links[fullPath] ? (
-              <Link tw="text-green-700" to={fullPath}>
+              <Link tw="text-gray-800" to={fullPath}>
                 {text}
               </Link>
             ) : (
-              <span>{text}</span>
+              <span tw="text-gray-500">{text}</span>
             )}
           </div>
         )}
-        {children &&
-          children.map((item) => {
-            return (
-              <Branch
-                {...{
-                  ...item,
-                  key: item.name,
-                  parentPage: isPage,
-                  parentRoot: root,
-                  path: `${path}${name}${isDefaultRoot ? "" : "/"}`,
-                  links,
-                  pageLocale,
-                  localeItems,
-                  selected,
-                }}
-              />
-            );
-          })}
+        {sortedChildren.map((item) => {
+          return (
+            <Branch
+              {...{
+                ...item,
+                key: item.name,
+                parentPage: isPage,
+                parentRoot: root,
+                path: `${path}${name}${isDefaultRoot ? "" : "/"}`,
+                links,
+                pageLocale,
+                localeItems,
+                selected,
+              }}
+            />
+          );
+        })}
       </div>
     </div>
   );

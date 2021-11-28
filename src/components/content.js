@@ -71,7 +71,8 @@ export default function Content({ data: { mdx, contributors }, i18n }) {
         <aside
           css={[
             tw`hidden lg:block lg:col-span-2 xl:col-span-3 mt-10`,
-            !showLeft && tw`lg:col-span-3 xl:col-span-4`,
+            !showLeft && tw`lg:col-span-3`,
+            // !showLeft && !showRight tw``,
           ]}
         >
           <div tw="sticky top-24 space-y-4 ">

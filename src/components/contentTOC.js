@@ -41,10 +41,7 @@ export default function TableOfContents({ items }) {
         <Icon icon="contents" tw="h-3" />
         <span>Contents</span>
       </div>
-      <div
-        tw="max-h-screen overflow-y-auto space-y-3 tracking-tight leading-tight"
-        css={{ maxHeight: "70vh" }}
-      >
+      <div tw="overflow-y-auto space-y-3 tracking-tight leading-tight max-h-[70vh]">
         <LinkItems items={items} />
       </div>
     </div>

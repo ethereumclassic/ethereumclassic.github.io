@@ -38,10 +38,7 @@ function Lass() {
 
 export default function LandingBillboard({ text, randomWords }) {
   return (
-    <div
-      tw="bg-gradient-to-r from-green-300 to-green-600 overflow-hidden dark:from-green-700 dark:to-gray-900 select-none"
-      css={{ height: `70vh` }}
-    >
+    <div tw="bg-gradient-to-r from-green-300 to-green-600 overflow-hidden dark:from-green-700 dark:to-gray-900 select-none h-[40rem] sm:h-[30rem] md:h-[40rem] lg:h-[70vh]">
       <div tw="max-w-7xl mx-auto h-full px-6 grid grid-cols-12 items-center">
         <div tw="h-full col-span-full px-8 sm:px-0 sm:col-span-7 text-green-200 sm:overflow-hidden">
           <Lass />

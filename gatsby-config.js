@@ -71,9 +71,15 @@ module.exports = {
     },
     {
       resolve: "news-plugin",
+      options: {
+        // TODO
+      },
     },
     {
       resolve: "contributor-avatars-plugin",
+      options: {
+        instanceType: "content",
+      },
     },
     {
       resolve: `gatsby-plugin-remote-images`,

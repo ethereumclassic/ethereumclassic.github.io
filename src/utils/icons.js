@@ -55,6 +55,7 @@ export {
   faIcons as icons,
   faPen as pen,
   faHistory as update,
+  faWrench as wrench,
   // in timeline
   faRocket as rocket,
   faSnowflake as snowflake,
