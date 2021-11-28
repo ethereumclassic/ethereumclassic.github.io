@@ -12,7 +12,7 @@ export default function Logo() {
   return (
     <LocalizedLink
       to="/"
-      tw="inline-block text-green-900 dark:text-white hover:text-green-600 dark:hover:text-red-500"
+      tw="inline-block text-primary-darkest hover:text-primary-dark"
     >
       <div tw="flex items-center">
         <Icon tw="h-6 w-auto sm:h-10" icon="etc" />

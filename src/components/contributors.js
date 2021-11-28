@@ -12,20 +12,20 @@ export default function Contributors({ contributors }) {
   }
   return (
     <div tw="space-y-4">
-      <div tw="text-gray-500 text-sm">{ui.contributors}</div>
+      <div tw="text-shade-neutral text-sm">{ui.contributors}</div>
       <div tw="flex -space-x-2">
         {contributors.edges.map(
           ({ node: { githubId, localImage, locale } }) => (
             <Link
               key={githubId}
               className="group"
-              tw="flex items-center text-gray-800 font-bold"
+              tw="flex items-center text-shade-darker font-bold"
               to={`https://github.com/ethereumclassic/ethereumclassic.github.io/commits?author=${githubId}`}
             >
               <GatsbyImage
                 key={githubId}
                 image={getImage(localImage)}
-                tw="h-10 w-10 rounded-full ring-2 ring-gray-100 transition-all group-hover:ring-gray-800"
+                tw="h-10 w-10 rounded-full ring-2 ring-shade-lightest transition-all group-hover:ring-shade-darker"
                 alt={githubId}
               />
               <div tw="whitespace-nowrap overflow-ellipsis overflow-hidden transition-all max-w-0 opacity-0 group-hover:opacity-100 group-hover:max-w-xs">

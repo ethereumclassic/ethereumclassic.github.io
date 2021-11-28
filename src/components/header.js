@@ -12,7 +12,7 @@ import TwContainer from "./twContainer";
 
 export default function Header() {
   return (
-    <div tw="bg-white z-50 fixed inset-0 bottom-auto shadow-md dark:bg-black transition-colors">
+    <div tw="bg-backdrop-light z-50 fixed inset-0 bottom-auto shadow-md transition-colors">
       <TwContainer>
         <div tw="flex items-center justify-center h-16 space-x-6">
           <div tw="flex-1 flex">

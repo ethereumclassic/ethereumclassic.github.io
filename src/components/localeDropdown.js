@@ -28,7 +28,7 @@ export default function LocaleDropdown() {
       {({ open }) => (
         <>
           <div tw="mt-1 relative">
-            <Listbox.Button tw="relative bg-white border border-gray-300 rounded-md shadow-sm pl-3 pr-10 py-2 text-left cursor-default focus:outline-none focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm">
+            <Listbox.Button tw="relative bg-backdrop-light border border-shade-light rounded-md shadow-sm pl-3 pr-10 py-2 text-left cursor-default focus:outline-none focus:ring-1 focus:ring-secondary-neutral focus:border-secondary-neutral sm:text-sm">
               <span tw="flex items-center">
                 <Icon
                   icon={current.key}
@@ -40,13 +40,13 @@ export default function LocaleDropdown() {
               <span tw="ml-3 absolute inset-y-0 right-0 flex items-center pr-2 pointer-events-none">
                 <Icon
                   icon="down"
-                  tw="h-5 w-5 text-gray-400"
+                  tw="h-5 w-5 text-shade-light"
                   aria-hidden="true"
                 />
               </span>
             </Listbox.Button>
             <Fader>
-              <Listbox.Options tw="absolute left-0 top-11 z-10 bg-white shadow-lg max-h-52 rounded-md py-1 text-base ring-1 ring-black ring-opacity-5 overflow-auto focus:outline-none sm:text-sm">
+              <Listbox.Options tw="absolute left-0 top-11 z-10 bg-backdrop-light shadow-lg max-h-52 rounded-md py-1 text-base ring-1 ring-shade-darkest ring-opacity-5 overflow-auto focus:outline-none sm:text-sm">
                 {localeItems.map(({ key, name, enabled }) => (
                   <Listbox.Option key={key} value={key} as={Fragment}>
                     {({ active }) => (
@@ -54,8 +54,8 @@ export default function LocaleDropdown() {
                         css={[
                           tw`cursor-default select-none relative py-2 pl-3 pr-10`,
                           active
-                            ? tw`text-white bg-indigo-600`
-                            : tw`text-gray-900`,
+                            ? tw`text-shade-lightest bg-secondary-dark`
+                            : tw`text-shade-darkest`,
                           !enabled && tw`opacity-50 cursor-not-allowed`,
                         ]}
                       >
@@ -81,7 +81,9 @@ export default function LocaleDropdown() {
                           <span
                             css={[
                               tw`absolute inset-y-0 right-0 flex items-center pr-3`,
-                              active ? tw`text-white` : tw`text-indigo-600`,
+                              active
+                                ? tw`text-shade-lightest`
+                                : tw`text-secondary-dark`,
                             ]}
                           >
                             <Icon icon="check" tw="h-5" aria-hidden="true" />

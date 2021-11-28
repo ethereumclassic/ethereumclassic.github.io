@@ -5,84 +5,104 @@ module.exports = {
     require("@tailwindcss/typography"),
     require("@tailwindcss/line-clamp"),
   ],
-  variants: {
-    extend: {
-      typography: ["dark"],
-    },
-  },
   theme: {
     // actual colors defined in globalStyles.js
     extend: {
-      backgroundColor: {
-        primary: "var(--bg-primary)",
-        secondary: "var(--bg-secondary)",
-        tertiary: "var(--color-primary)",
+      colors: {
+        gray: { 950: "#0b101a" },
+        shade: {
+          darkest: "var(--shade-darkest)",
+          darker: "var(--shade-darker)",
+          dark: "var(--shade-dark)",
+          neutral: "var(--shade-neutral)",
+          light: "var(--shade-light)",
+          lighter: "var(--shade-lighter)",
+          lightest: "var(--shade-lightest)",
+        },
+        primary: {
+          darkest: "var(--primary-darkest)",
+          darker: "var(--primary-darker)",
+          dark: "var(--primary-dark)",
+          neutral: "var(--primary-neutral)",
+          light: "var(--primary-light)",
+          lighter: "var(--primary-lighter)",
+          lightest: "var(--primary-lightest)",
+        },
+        secondary: {
+          darkest: "var(--secondary-darkest)",
+          darker: "var(--secondary-darker)",
+          dark: "var(--secondary-dark)",
+          neutral: "var(--secondary-neutral)",
+          light: "var(--secondary-light)",
+          lighter: "var(--secondary-lighter)",
+          lightest: "var(--secondary-lightest)",
+        },
+        backdrop: {
+          dark: "var(--backdrop-dark)",
+          light: "var(--backdrop-light)",
+        },
       },
-      textColor: {
-        primary: "var(--text-primary)",
-        secondary: "var(--text-secondary)",
-        tertiary: "var(--color-primary)",
-      },
-      // TODO: reference globalStyles
-      // used by typography plugin to generate dark mode prose
-      typography: (theme) => ({
-        light: {
+      typography: () => ({
+        DEFAULT: {
           css: [
             {
-              color: theme("colors.gray.400"),
+              color: "var(--shade-neutral)",
               '[class~="lead"]': {
-                color: theme("colors.gray.300"),
+                color: "var(--shade-light)",
               },
               a: {
-                color: theme("colors.white"),
+                color: "var(--shade-darkest)",
               },
               strong: {
-                color: theme("colors.white"),
+                color: "var(--shade-darkest)",
               },
               "ol > li::before": {
-                color: theme("colors.gray.400"),
+                color: "var(--shade-neutral)",
               },
               "ul > li::before": {
-                backgroundColor: theme("colors.gray.600"),
+                backgroundColor: "var(--shade-dark)",
               },
               hr: {
-                borderColor: theme("colors.gray.200"),
+                borderColor: "var(--shade-ligher)",
               },
               blockquote: {
-                color: theme("colors.gray.200"),
-                borderLeftColor: theme("colors.gray.600"),
+                color: "var(--shade-ligher)",
+                borderLeftColor: "var(--shade-dark)",
               },
               h1: {
-                color: theme("colors.white"),
+                color: "var(--shade-darkest)",
               },
               h2: {
-                color: theme("colors.white"),
+                color: "var(--shade-darkest)",
               },
               h3: {
-                color: theme("colors.white"),
+                color: "var(--shade-darkest)",
               },
               h4: {
-                color: theme("colors.white"),
+                color: "var(--shade-darkest)",
               },
               "figure figcaption": {
-                color: theme("colors.gray.400"),
+                color: "var(--shade-neutral)",
               },
               code: {
-                color: theme("colors.white"),
+                color: "var(--shade-lightest)",
               },
               "a code": {
-                color: theme("colors.white"),
+                color: "var(--shade-lightest)",
+              },
+              "pre code": {
+                color: "var(--shade-lightest)",
               },
               pre: {
-                color: theme("colors.gray.200"),
-                backgroundColor: theme("colors.gray.800"),
+                color: "var(--shade-lightest)",
+                backgroundColor: "var(--shade-darker)",
               },
               thead: {
-                color: theme("colors.white"),
-                borderBottomColor: theme("colors.gray.400"),
+                color: "var(--shade-darkest)",
+                borderBottomColor: "var(--shade-lighter)",
               },
               "tbody tr": {
-                borderBottomColor: theme("colors.gray.600"),
+                borderBottomColor: "var(--shade-lightest)",
               },
             },
           ],

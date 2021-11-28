@@ -13,8 +13,8 @@ function Item({ item: { name, link, icon, current } }) {
       css={[
         tw`flex items-center px-3 py-2 text-sm font-medium rounded-md`,
         current
-          ? tw`bg-gray-100 text-gray-900`
-          : tw`text-gray-500 hover:bg-gray-50 hover:text-gray-900`,
+          ? tw`bg-shade-lightest text-shade-darkest`
+          : tw`text-shade-neutral hover:bg-shade-lightest hover:text-shade-darkest`,
       ]}
       aria-current={current ? "page" : undefined}
     >
@@ -23,8 +23,8 @@ function Item({ item: { name, link, icon, current } }) {
         css={[
           tw`flex-shrink-0 -ml-1 mr-2 h-4`,
           current
-            ? tw`text-gray-500`
-            : tw`text-gray-400 group-hover:text-gray-500`,
+            ? tw`text-shade-neutral`
+            : tw`text-shade-light group-hover:text-shade-neutral`,
         ]}
         aria-hidden="true"
       />
@@ -39,8 +39,10 @@ function SubItem({ item: { name, key, link, current } }) {
       to={link}
       className="group"
       css={[
-        tw`flex items-center px-3 py-2 text-sm font-light text-gray-600 hover:text-gray-900 hover:bg-gray-50`,
-        current ? tw`text-gray-800 font-bold` : tw`text-gray-600 font-light`,
+        tw`flex items-center px-3 py-2 text-sm font-light text-shade-neutral hover:text-shade-darkest hover:bg-shade-lightest`,
+        current
+          ? tw`text-shade-darker font-bold`
+          : tw`text-shade-neutral font-light`,
       ]}
     >
       <span tw="truncate">{name}</span>
@@ -56,7 +58,7 @@ export default function ContentSidebarVertical({ items }) {
           <Item item={item} />
           {item.navItems && item.current && (
             <div
-              tw="ml-3 mb-2 border-l-2 border-gray-300"
+              tw="ml-3 mb-2 border-l-2 border-shade-lighter"
               aria-labelledby="projects-headline"
             >
               {item.navItems.map((subItem) => (

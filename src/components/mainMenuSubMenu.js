@@ -10,16 +10,16 @@ const SubMenuItem = ({ item: { name, icon, link, description } }) => {
   return (
     <LocalizedLink
       to={link}
-      tw="-m-3 p-3 flex items-start rounded-lg hover:bg-gray-50"
+      tw="-m-3 p-3 flex items-start rounded-lg hover:bg-shade-lightest"
     >
       <Icon
         icon={icon}
-        tw="flex-shrink-0 h-6 w-6 text-indigo-600"
+        tw="flex-shrink-0 h-6 w-6 text-secondary-dark"
         aria-hidden="true"
       />
       <div tw="ml-4">
-        <p tw="text-base font-medium text-gray-900">{name}</p>
-        <p tw="mt-1 text-sm text-gray-500">{description}</p>
+        <p tw="text-base font-medium text-shade-darkest">{name}</p>
+        <p tw="mt-1 text-sm text-shade-neutral">{description}</p>
       </div>
     </LocalizedLink>
   );

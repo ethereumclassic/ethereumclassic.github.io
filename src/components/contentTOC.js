@@ -14,7 +14,7 @@ function LinkItems({ items, depth = 0 }) {
           {title && (
             <a
               css={[
-                tw`hocus:text-gray-800 text-gray-500 font-bold block`,
+                tw`hocus:text-shade-darker text-shade-neutral font-bold block`,
                 [
                   tw`lg:pl-0 xl:pl-0`,
                   tw`lg:pl-1 xl:pl-2`,
@@ -36,8 +36,8 @@ function LinkItems({ items, depth = 0 }) {
 
 export default function TableOfContents({ items }) {
   return (
-    <div tw="text-sm border-gray-300 border-l space-y-3 -mr-3 pl-5">
-      <div tw="flex items-center space-x-3 uppercase tracking-widest text-gray-400 select-none">
+    <div tw="text-sm border-shade-lighter border-l space-y-3 -mr-3 pl-5">
+      <div tw="flex items-center space-x-3 uppercase tracking-widest text-shade-light select-none">
         <Icon icon="contents" tw="h-3" />
         <span>Contents</span>
       </div>

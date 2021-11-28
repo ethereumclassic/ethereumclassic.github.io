@@ -43,9 +43,9 @@ function Branch({
         css={[
           isPage && tw`flex`,
           root &&
-            tw`flex flex-wrap bg-gray-200 p-6 pl-2 mb-2 rounded-3xl space-x-4 space-y-4`,
+            tw`flex flex-wrap bg-shade-lighter p-6 pl-2 mb-2 rounded-3xl space-x-4 space-y-4`,
           parentRoot &&
-            tw`bg-white shadow-md rounded-lg max-h-80 overflow-y-auto overflow-x-hidden text-sm py-2`,
+            tw`bg-backdrop-light shadow-md rounded-lg max-h-80 overflow-y-auto overflow-x-hidden text-sm py-2`,
         ]}
       >
         {root ? (
@@ -55,11 +55,11 @@ function Branch({
         ) : (
           <div css={!parentPage ? tw`px-2 py-1` : tw`px-0.5 py-1`}>
             {links[fullPath] ? (
-              <Link tw="text-gray-800" to={fullPath}>
+              <Link tw="text-shade-darker" to={fullPath}>
                 {text}
               </Link>
             ) : (
-              <span tw="text-gray-500">{text}</span>
+              <span tw="text-shade-neutral">{text}</span>
             )}
           </div>
         )}

@@ -15,7 +15,7 @@ function Box({ item, prev, i18n, alone }) {
     <Link
       to={item.link}
       css={[
-        tw`flex-1 space-y-2 px-4 py-3 shadow-md bg-white text-right`,
+        tw`flex-1 space-y-2 px-4 py-3 shadow-md bg-backdrop-light text-right`,
         prev && tw`text-left`,
         alone && tw`flex items-center space-y-0`,
       ]}

@@ -38,7 +38,7 @@ const SearchBox = ({ refine }) => {
       aria-label="Search"
       type="search"
       css={[
-        tw`block w-full bg-white border pl-10 border-gray-300 rounded-md py-2 pr-3 text-sm placeholder-gray-500 focus:outline-none focus:text-gray-900 focus:placeholder-gray-400 focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm`,
+        tw`block w-full bg-backdrop-light border pl-10 border-shade-light rounded-md py-2 pr-3 text-sm placeholder-shade-neutral focus:outline-none focus:text-shade-darkest focus:placeholder-shade-light focus:ring-1 focus:ring-secondary-neutral focus:border-secondary-neutral sm:text-sm`,
         // hasFocus ? tw`pl-3` : tw`pl-10`,
       ]}
       onChange={(e) => {
@@ -69,7 +69,7 @@ export default function SearchAgolia() {
         </label>
         <div tw="relative">
           <div tw="pointer-events-none absolute inset-y-0 left-0 pl-3 flex items-center">
-            <Icon icon="search" tw="h-5 text-gray-400" aria-hidden="true" />
+            <Icon icon="search" tw="h-5 text-shade-light" aria-hidden="true" />
           </div>
           <ConnectedSearchBox />
           <div tw="absolute mt-1 w-screen max-w-md md:max-w-lg right-0">

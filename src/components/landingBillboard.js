@@ -30,7 +30,7 @@ function Lass() {
         src="../images/lass3.png"
         alt="lass"
         placeholder="tracedSVG"
-        tracedSVGOptions={{ color: "#333" }}
+        tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
       />
     </div>
   );
@@ -38,12 +38,12 @@ function Lass() {
 
 export default function LandingBillboard({ text, randomWords }) {
   return (
-    <div tw="bg-gradient-to-r from-green-300 to-green-600 overflow-hidden dark:from-green-700 dark:to-gray-900 select-none h-[40rem] sm:h-[30rem] md:h-[40rem] lg:h-[70vh]">
+    <div tw="bg-gradient-to-r overflow-hidden select-none h-[40rem] sm:h-[30rem] md:h-[40rem] lg:h-[50rem] xl:h-[70vh] from-primary-light to-primary-dark">
       <div tw="max-w-7xl mx-auto h-full px-6 grid grid-cols-12 items-center">
-        <div tw="h-full col-span-full px-8 sm:px-0 sm:col-span-7 text-green-200 sm:overflow-hidden">
+        <div tw="h-full col-span-full px-8 sm:px-0 sm:col-span-7 text-primary-lighter sm:overflow-hidden">
           <Lass />
         </div>
-        <div tw="flex flex-col text-3xl lg:text-5xl uppercase font-light text-green-50 leading-tight tracking-widest sm:-ml-6 col-span-full text-center row-start-1 pt-10 sm:text-left sm:pt-0 sm:col-span-5 sm:row-start-auto">
+        <div tw="flex flex-col text-3xl lg:text-5xl uppercase font-light text-primary-lightest leading-tight tracking-widest sm:-ml-6 col-span-full text-center row-start-1 pt-10 sm:text-left sm:pt-0 sm:col-span-5 sm:row-start-auto">
           {text.split("%%").map((str) =>
             str === "$$" ? (
               <RandomWords key={str} words={Object.values(randomWords)} />

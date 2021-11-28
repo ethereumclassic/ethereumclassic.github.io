@@ -11,12 +11,12 @@ export default function ContentSidebarInline({ items }) {
     return null;
   }
   return (
-    <div tw="bg-gray-100 -mx-2 px-2 -mt-8 mb-8">
-      <div tw="border-b border-gray-300 pt-3">
+    <div tw="bg-backdrop-dark -mx-2 px-2 -mt-8 mb-8">
+      <div tw="border-b border-shade-light pt-3">
         <div tw="-mb-px space-y-1">
           <Link
             to={item.link}
-            tw="flex items-center space-x-2 pl-2 font-bold hover:text-gray-800"
+            tw="flex items-center space-x-2 pl-2 font-bold hover:text-shade-darker"
           >
             <Icon icon={item.icon} tw="h-4" />
             <div>{item.name}</div>
@@ -29,8 +29,8 @@ export default function ContentSidebarInline({ items }) {
                 css={[
                   tw`p-2 border-b-2 border-transparent`,
                   current
-                    ? tw` border-green-500 text-green-600`
-                    : tw`hover:text-gray-800 hover:border-gray-500`,
+                    ? tw` border-primary-neutral text-primary-dark`
+                    : tw`hover:text-shade-darker hover:border-shade-neutral`,
                 ]}
               >
                 {name}

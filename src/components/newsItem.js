@@ -20,20 +20,20 @@ export default function NewsItem({
     <Link
       notLocalized
       to={link}
-      tw="relative bg-white shadow-sm rounded-sm overflow-hidden text-gray-800 hover:text-black hover:bg-green-50"
+      tw="relative bg-backdrop-light shadow-sm rounded-sm overflow-hidden text-shade-darker hover:text-shade-darkest hover:bg-primary-lightest"
       {...rest}
     >
-      {blog && (
-        <div tw="absolute top-2 right-2 z-10 select-none">
-          <Icon icon="etc" color="white" tw="opacity-50 h-6" />
-        </div>
-      )}
       <div
         css={[
-          tw`text-green-900 bg-green-100 px-3 py-2 text-sm`,
-          blog && tw`bg-green-700 text-white`,
+          tw`text-primary-darkest bg-primary-lighter px-3 py-2 text-sm`,
+          blog && tw`bg-primary-darker text-shade-lightest`,
         ]}
       >
+        {blog && (
+          <div tw="absolute top-2 right-2 z-10 select-none">
+            <Icon icon="etc" tw="opacity-50 h-6" />
+          </div>
+        )}
         <FormattedDate
           tw="overflow-ellipsis overflow-hidden whitespace-nowrap w-full"
           date={date}

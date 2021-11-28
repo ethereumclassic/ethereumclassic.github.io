@@ -10,7 +10,7 @@ export default function NewsReel({ items }) {
     <div tw="space-y-4">
       <div tw="flex space-x-6">
         <div tw="flex-auto flex-row flex space-x-6">
-          <h3 tw="text-2xl font-bold text-gray-800">Latest News</h3>
+          <h3 tw="text-2xl font-bold text-shade-darkest">Latest News!</h3>
           <div tw="hidden lg:block">
             <Disclaimer inline color="gray" />
           </div>

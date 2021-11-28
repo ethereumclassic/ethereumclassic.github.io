@@ -12,13 +12,13 @@ function NewsFilterBlock({ items, title, icon, inline }) {
         tw`text-sm`,
         inline
           ? tw`flex items-start space-x-4`
-          : tw`border-gray-300 border-l space-y-3 pl-6`,
+          : tw`border-shade-light border-l space-y-3 pl-6`,
       ]}
     >
       <div>
         <div
           css={[
-            tw`flex text-sm items-center space-x-2 uppercase tracking-widest text-gray-400 select-none`,
+            tw`flex text-sm items-center space-x-2 uppercase tracking-widest text-shade-light select-none`,
             inline && tw`w-16`,
           ]}
         >
@@ -33,8 +33,8 @@ function NewsFilterBlock({ items, title, icon, inline }) {
               key={key}
               to={link}
               css={[
-                tw`hocus:text-gray-800 text-gray-500  whitespace-nowrap mr-2`,
-                selected ? tw`font-bold text-gray-800` : tw`font-normal`,
+                tw`hocus:text-shade-darker text-shade-neutral  whitespace-nowrap mr-2`,
+                selected ? tw`font-bold text-shade-darker` : tw`font-normal`,
               ]}
             >
               {name}

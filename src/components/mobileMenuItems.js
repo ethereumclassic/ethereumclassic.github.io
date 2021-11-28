@@ -13,7 +13,7 @@ function MenuItem({ name, description, link, icon }) {
         <div>{name}</div>
       </div>
       {description && (
-        <div tw="line-clamp-1 sm:line-clamp-2 text-sm text-gray-400">
+        <div tw="line-clamp-1 sm:line-clamp-2 text-sm text-shade-light">
           {description}
         </div>
       )}
@@ -24,12 +24,12 @@ function MenuItem({ name, description, link, icon }) {
 export default function MobileMenuItems() {
   const { main } = useNavigation();
   return (
-    <div tw="p-4 pt-0 space-y-3 sm:space-y-6 divide-y divide-gray-200 divide-solid">
+    <div tw="p-4 pt-0 space-y-3 sm:space-y-6 divide-y divide-shade-lighter divide-solid">
       {main
         .filter(({ hideMobile }) => !hideMobile)
         .map(({ key, name, navItems = [] }) => (
           <div key={key} tw="space-y-2 sm:space-y-4 pt-4">
-            <div tw="text-sm font-semibold text-gray-400 tracking-wider uppercase">
+            <div tw="text-sm font-semibold text-shade-light tracking-wider uppercase">
               {name}
             </div>
             <div tw="grid grid-cols-2 sm:grid-cols-3 gap-3">

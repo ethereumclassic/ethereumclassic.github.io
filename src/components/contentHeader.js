@@ -9,7 +9,7 @@ import Link from "./link";
 
 function SubItem({ children, icon, ...rest }) {
   return (
-    <div tw="text-gray-400 flex items-center" {...rest}>
+    <div tw="text-shade-light flex items-center" {...rest}>
       {icon && <Icon icon={icon} tw="h-3 mr-1" />}
       {children}
     </div>
@@ -28,14 +28,14 @@ export default function ContentHeader({ mdx, i18n, ...rest }) {
         <div tw="space-y-2">
           {section?.header && (
             <Link
-              tw="!text-green-600 !no-underline text-xl leading-6 font-semibold tracking-wide uppercase"
+              tw="!text-primary-dark !no-underline text-xl leading-6 font-semibold tracking-wide uppercase"
               to={section.header.link}
             >
               {section.header.title}
             </Link>
           )}
           {header && (
-            <h1 tw="!mb-2 text-2xl font-bold text-gray-900 leading-tight sm:text-3xl ">
+            <h1 tw="!mb-2 text-2xl font-bold text-shade-darkest leading-tight sm:text-3xl ">
               {header}
             </h1>
           )}

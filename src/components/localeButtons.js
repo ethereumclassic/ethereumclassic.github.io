@@ -17,7 +17,7 @@ export default function LocaleButtons() {
             (key === defaultLocale ? `/${basePath}` : `/${key}/${basePath}`)
           }
           css={[
-            tw`px-3 py-3 hover:bg-gray-100 flex items-center space-x-2`,
+            tw`px-3 py-3 hover:bg-shade-lightest flex items-center space-x-2`,
             locale === key ? tw`font-bold` : tw`font-normal`,
             !enabled && tw`opacity-50 cursor-not-allowed`,
           ]}

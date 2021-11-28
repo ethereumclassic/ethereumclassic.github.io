@@ -4,23 +4,65 @@ import tw, { theme, GlobalStyles as BaseStyles } from "twin.macro";
 
 const customStyles = css`
   .light {
-    --bg-primary: ${theme`colors.gray.100`};
-    --bg-secondary: #f1f5f9;
-    --text-primary: #475569;
-    --text-secondary: #1e293b;
-    --color-primary: #e11d48;
+    --primary-darkest: ${theme`colors.green.900`};
+    --primary-darker: ${theme`colors.green.800`};
+    --primary-dark: ${theme`colors.green.700`};
+    --primary-neutral: ${theme`colors.green.400`};
+    --primary-light: ${theme`colors.green.300`};
+    --primary-lighter: ${theme`colors.green.100`};
+    --primary-lightest: ${theme`colors.green.50`};
+
+    --secondary-darkest: ${theme`colors.indigo.900`};
+    --secondary-darker: ${theme`colors.indigo.800`};
+    --secondary-dark: ${theme`colors.indigo.700`};
+    --secondary-neutral: ${theme`colors.indigo.400`};
+    --secondary-light: ${theme`colors.indigo.300`};
+    --secondary-lighter: ${theme`colors.indigo.100`};
+    --secondary-lightest: ${theme`colors.indigo.50`};
+
+    --shade-darkest: ${theme`colors.gray.950`};
+    --shade-darker: ${theme`colors.gray.900`};
+    --shade-dark: ${theme`colors.gray.800`};
+    --shade-neutral: ${theme`colors.gray.700`};
+    --shade-light: ${theme`colors.gray.400`};
+    --shade-lighter: ${theme`colors.gray.300`};
+    --shade-lightest: ${theme`colors.gray.200`};
+
+    --backdrop-dark: ${theme`colors.gray.100`};
+    --backdrop-light: ${theme`colors.white`};
   }
   .dark {
-    --bg-primary: ${theme`colors.gray.900`};
-    --bg-secondary: #1e293b;
-    --text-primary: #cbd5e1;
-    --text-secondary: #ffffff;
-    --color-primary: #2563eb;
+    --primary-darkest: ${theme`colors.green.50`};
+    --primary-darker: ${theme`colors.green.100`};
+    --primary-dark: ${theme`colors.green.200`};
+    --primary-neutral: ${theme`colors.green.300`};
+    --primary-light: ${theme`colors.green.600`};
+    --primary-lighter: ${theme`colors.green.700`};
+    --primary-lightest: ${theme`colors.green.900`};
+
+    --secondary-darkest: ${theme`colors.indigo.50`};
+    --secondary-darker: ${theme`colors.indigo.100`};
+    --secondary-dark: ${theme`colors.indigo.200`};
+    --secondary-neutral: ${theme`colors.indigo.300`};
+    --secondary-light: ${theme`colors.indigo.600`};
+    --secondary-lighter: ${theme`colors.indigo.700`};
+    --secondary-lightest: ${theme`colors.indigo.900`};
+
+    --shade-darkest: ${theme`colors.gray.50`};
+    --shade-darker: ${theme`colors.gray.100`};
+    --shade-dark: ${theme`colors.gray.200`};
+    --shade-neutral: ${theme`colors.gray.400`};
+    --shade-light: ${theme`colors.gray.600`};
+    --shade-lighter: ${theme`colors.gray.700`};
+    --shade-lightest: ${theme`colors.gray.800`};
+
+    --backdrop-dark: ${theme`colors.gray.900`};
+    --backdrop-light: ${theme`colors.gray.950`};
   }
 
   body {
-    -webkit-tap-highlight-color: ${theme`colors.purple.500`};
-    ${tw`bg-primary text-primary`}
+    ${tw`bg-backdrop-dark text-shade-darkest`}
+    -webkit-tap-highlight-color: var(--primary-light);
   }
 
   html {

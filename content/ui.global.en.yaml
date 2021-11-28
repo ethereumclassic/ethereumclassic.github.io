@@ -49,8 +49,8 @@ announcement:
   text: |
     This website is currently under construction and subject to change. Your feedback is welcome.
   button:
-    __link: https://github.com/IstoraMandiri/etheruemclassic.github.io
-    text: Feedback
+    __link: https://discord.com/channels/223674353001168906/387418935722508290
+    text: "Discord"
 ## Footer
 signOff: Made with `<3` for the Original Ethereum Vision
 socialHilight: The ETC community is active on Discord

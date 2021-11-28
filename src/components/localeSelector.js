@@ -16,15 +16,15 @@ export default function LocaleSelector() {
               <Popover.Button
                 className="group"
                 css={[
-                  tw`bg-white rounded-md inline-flex items-center text-base font-medium hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500`,
-                  open ? tw`text-gray-900` : tw`text-gray-500`,
+                  tw`bg-backdrop-light rounded-md inline-flex items-center text-base font-medium hover:text-shade-darkest focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-secondary-neutral`,
+                  open ? tw`text-shade-darkest` : tw`text-shade-neutral`,
                 ]}
               >
                 <Icon
                   icon="globe"
                   css={[
-                    tw`h-6 w-6 group-hover:text-gray-500`,
-                    open ? tw`text-gray-600` : tw`text-gray-400`,
+                    tw`h-6 w-6 group-hover:text-shade-neutral`,
+                    open ? tw`text-shade-neutral` : tw`text-shade-light`,
                   ]}
                   aria-hidden="true"
                 />
@@ -35,11 +35,11 @@ export default function LocaleSelector() {
               cta={
                 <a
                   href="#"
-                  tw="-m-3 p-3 px-5 flex items-center rounded-md text-base font-medium text-gray-900 hover:bg-gray-100"
+                  tw="-m-3 p-3 px-5 flex items-center rounded-md text-base font-medium text-shade-darkest hover:bg-shade-lightest"
                 >
                   <Icon
                     icon="coins"
-                    tw="flex-shrink-0 h-6 w-6 text-gray-400"
+                    tw="flex-shrink-0 h-6 w-6 text-shade-light"
                     aria-hidden="true"
                   />
                   <span tw="ml-3">

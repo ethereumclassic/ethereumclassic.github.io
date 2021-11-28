@@ -11,11 +11,11 @@ import { useGlobals } from "../../plugins/translations-plugin/src/components/loc
 
 const colors = {
   blue: tw`bg-blue-600`,
-  white: tw`bg-gray-600`,
+  white: tw`bg-shade-neutral`,
   orange: tw`bg-yellow-600`,
   red: tw`bg-red-600`,
   purple: tw`bg-purple-600`,
-  green: tw`bg-green-600`,
+  green: tw`bg-primary-dark`,
 };
 
 function GenericTimelineItem({ title, date, color, icon, link, text, last }) {
@@ -24,7 +24,7 @@ function GenericTimelineItem({ title, date, color, icon, link, text, last }) {
       <div tw="relative pb-8">
         {!last ? (
           <span
-            tw="absolute top-4 left-4 -ml-px h-full w-0.5 bg-gray-200"
+            tw="absolute top-4 left-4 -ml-px h-full w-0.5 bg-shade-lighter"
             aria-hidden="true"
           />
         ) : null}
@@ -32,11 +32,15 @@ function GenericTimelineItem({ title, date, color, icon, link, text, last }) {
           <div>
             <span
               css={[
-                tw`h-8 w-8 rounded-full flex items-center justify-center ring-8 ring-white bg-indigo-600`,
+                tw`h-8 w-8 rounded-full flex items-center justify-center ring-8 ring-backdrop-light bg-secondary-dark`,
                 colors[color],
               ]}
             >
-              <Icon tw="h-5 w-5 text-white" icon={icon} aria-hidden="true" />
+              <Icon
+                tw="h-5 w-5 text-shade-lightest"
+                icon={icon}
+                aria-hidden="true"
+              />
             </span>
           </div>
           <div tw="min-w-0 flex-1 pt-1.5 flex justify-between space-x-4">
@@ -50,9 +54,9 @@ function GenericTimelineItem({ title, date, color, icon, link, text, last }) {
                   title
                 )}
               </H4>
-              <p tw="text-sm text-gray-500">{text}</p>
+              <p tw="text-sm text-shade-neutral">{text}</p>
             </div>
-            <div tw="text-right text-sm whitespace-nowrap text-gray-500">
+            <div tw="text-right text-sm whitespace-nowrap text-shade-neutral">
               <FormattedDate date={date} />
             </div>
           </div>
@@ -70,7 +74,7 @@ export default function GenericTimeline({ items }) {
   const ordered = !reversed ? items : [...items].reverse();
   return (
     <>
-      <div tw="p-6 bg-white rounded-md relative shadow">
+      <div tw="p-6 bg-backdrop-light rounded-md relative shadow">
         <div tw="absolute right-0 -top-12">
           <Button
             primary

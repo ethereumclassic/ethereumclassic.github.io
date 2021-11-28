@@ -17,9 +17,9 @@ const CustomPoweredBy = connectPoweredBy(PoweredBy);
 
 function Wrapper({ children }) {
   return (
-    <div tw="bg-white shadow-lg rounded-md text-base ring-1 ring-black ring-opacity-5 mr-auto overflow-hidden">
+    <div tw="bg-backdrop-light shadow-lg rounded-md text-base ring-1 ring-shade-darkest ring-opacity-5 mr-auto overflow-hidden">
       {children}
-      <div tw="text-right text-sm text-gray-400 bg-gray-100 pr-4">
+      <div tw="text-right text-sm text-shade-light bg-shade-lightest pr-4">
         <CustomPoweredBy />
       </div>
     </div>
@@ -42,12 +42,12 @@ export default connectStateResults((props) => {
   }
   return (
     <Wrapper>
-      <div tw="overflow-y-scroll divide-y divide-solid divide-gray-100 max-h-[70vh]">
+      <div tw="overflow-y-scroll divide-y divide-solid divide-shade-lightest max-h-[70vh]">
         {searchResults.hits.map((hit) => (
           <Link
             to={hit.url}
             key={hit.objectID}
-            tw="block hover:text-gray-800 hover:bg-green-50 px-4 py-2"
+            tw="block hover:text-shade-darker hover:bg-primary-lightest px-4 py-2"
           >
             <div tw="font-bold">
               {/* TODO refile search results */}

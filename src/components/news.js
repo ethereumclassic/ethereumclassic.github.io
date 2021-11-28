@@ -19,8 +19,8 @@ export default function News({ pageContext, data, i18n }) {
       <main tw="col-span-full md:col-span-9 relative mt-10">
         <div tw="flex space-x-2">
           <div tw="flex-auto space-y-1">
-            <h1 tw="text-2xl font-bold text-gray-800">{i18n.title}</h1>
-            <p tw="text-sm text-gray-500">{i18n.description}</p>
+            <h1 tw="text-2xl font-bold text-shade-darker">{i18n.title}</h1>
+            <p tw="text-sm text-shade-neutral">{i18n.description}</p>
           </div>
           <div tw="hidden lg:block">
             <Disclaimer mini />
@@ -32,14 +32,14 @@ export default function News({ pageContext, data, i18n }) {
         <div tw="md:hidden space-y-1 sm:space-y-3 mt-4">
           <NewsFilters {...{ pageContext, i18n }} inline />
         </div>
-        <div tw="sticky z-20 top-16 bg-gray-100 pt-6 mb-6 -mx-4 px-4">
+        <div tw="sticky z-20 top-16 bg-backdrop-dark pt-6 mb-6 -mx-4 px-4">
           <NewsPagination {...{ pageContext }} />
         </div>
         {/* main content */}
         <div tw="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 md:gap-3">
           {pageContext.currentPage === 1 && (
             <Link
-              tw="col-span-full border-2 rounded-lg border-dashed bg-gray-50 border-gray-400 hover:bg-white flex items-center justify-center space-x-4 p-3"
+              tw="col-span-full border-2 rounded-lg border-dashed bg-shade-lightest border-shade-light hover:bg-backdrop-light flex items-center justify-center space-x-4 p-3"
               to="https://github.com/ethereumclassic.github.io"
             >
               <Icon icon="plus" tw="h-5" />

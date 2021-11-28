@@ -1,4 +1,5 @@
 import React from "react";
+// TODO replace with pre-rendered string
 import { renderToString } from "react-dom/server";
 
 import { Helmet } from "react-helmet";

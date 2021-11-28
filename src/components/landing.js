@@ -23,7 +23,7 @@ export default function Landing({
             <Md>{intro.content}</Md>
           </div>
           <div tw="space-y-8 text-center">
-            <div tw="flex w-full h-72 bg-gray-500 text-white justify-center items-center rounded-lg shadow-2xl">
+            <div tw="flex w-full h-72 bg-shade-neutral text-shade-lightest justify-center items-center rounded-lg shadow-2xl">
               Image Placeholder
             </div>
             {intro.button && (

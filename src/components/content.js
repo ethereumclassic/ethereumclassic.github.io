@@ -57,7 +57,7 @@ export default function Content({ data: { mdx, contributors }, i18n }) {
             <ContentSidebarInline items={sub.navItems} />
           </nav>
         )}
-        <article tw="prose dark:prose-light max-w-none">
+        <article tw="prose max-w-none">
           <ContentHeader {...{ mdx, i18n }} />
           {mdx ? (
             <MarkdownStatic {...{ mdx, i18n }} />

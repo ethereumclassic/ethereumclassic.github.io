@@ -19,7 +19,7 @@ function CellButton({ button, item }) {
 
 export default function GenericCells({ items, buttonItems = [], cells }) {
   return (
-    <div tw="bg-white shadow sm:rounded-md divide-y divide-gray-200">
+    <div tw="bg-backdrop-light shadow sm:rounded-md divide-y divide-shade-lighter">
       {items.map((item) => {
         const { key, link, name, description } = item;
         return (

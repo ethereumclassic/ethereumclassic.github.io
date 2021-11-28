@@ -15,7 +15,7 @@ export default function Footer() {
     ui: { signOff },
   } = useGlobals();
   return (
-    <footer tw="bg-white mt-16 py-16" aria-labelledby="footer-heading">
+    <footer tw="bg-backdrop-light mt-16 py-16" aria-labelledby="footer-heading">
       <TwContainer>
         <div tw="grid grid-cols-12 gap-4 gap-y-16">
           <div tw="col-span-full md:col-span-4 space-y-10 flex flex-col items-center md:items-start">
@@ -37,8 +37,8 @@ export default function Footer() {
               ))}
           </div>
         </div>
-        <div tw="col-span-full border-t border-gray-200 pt-8 mt-16">
-          <Md tw="text-base text-gray-400 text-center">{signOff}</Md>
+        <div tw="col-span-full border-t border-shade-lighter pt-8 mt-16">
+          <Md tw="text-base text-shade-light text-center">{signOff}</Md>
         </div>
       </TwContainer>
     </footer>

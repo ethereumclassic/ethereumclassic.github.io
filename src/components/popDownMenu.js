@@ -16,12 +16,12 @@ export default function PopDownMenu({ children, left, cta }) {
             : tw`left-1/2 transform -translate-x-1/2`,
         ]}
       >
-        <div tw="rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 overflow-hidden">
-          <div tw="relative grid gap-6 bg-white px-5 py-6 sm:gap-8 sm:p-8">
+        <div tw="rounded-lg shadow-lg ring-1 ring-shade-darkest ring-opacity-5 overflow-hidden">
+          <div tw="relative grid gap-6 bg-backdrop-light px-5 py-6 sm:gap-8 sm:p-8">
             {children}
           </div>
           {cta && (
-            <div tw="px-5 py-5 bg-gray-50 space-y-6 sm:flex sm:space-y-0 sm:space-x-10 sm:px-8">
+            <div tw="px-5 py-5 bg-shade-lightest space-y-6 sm:flex sm:space-y-0 sm:space-x-10 sm:px-8">
               <div tw="flow-root">{cta}</div>
             </div>
           )}

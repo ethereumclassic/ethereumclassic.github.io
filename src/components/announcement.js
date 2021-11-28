@@ -16,14 +16,14 @@ const palette = {
     link: tw`text-yellow-600 hover:bg-yellow-50`,
   },
   green: {
-    bg: tw`bg-green-600`,
-    icon: tw`bg-green-800`,
-    link: tw`text-green-600 hover:bg-green-50`,
+    bg: tw`bg-primary-dark`,
+    icon: tw`bg-primary-darkest`,
+    link: tw`text-primary-dark hover:bg-primary-lightest`,
   },
   indigo: {
-    bg: tw`bg-indigo-600`,
-    icon: tw`bg-indigo-800`,
-    link: tw`text-indigo-600 hover:bg-indigo-50`,
+    bg: tw`bg-secondary-dark`,
+    icon: tw`bg-secondary-darkest`,
+    link: tw`text-secondary-dark hover:bg-secondary-lightest`,
   },
   red: {
     bg: tw`bg-red-600`,
@@ -52,11 +52,11 @@ export default function Announcement() {
             <span css={[tw`flex p-2 rounded-lg`, col.icon]}>
               <Icon
                 icon={announcement.icon}
-                tw="h-6 text-white"
+                tw="h-6 text-shade-lightest"
                 aria-hidden="true"
               />
             </span>
-            <Md tw="ml-3 text-sm font-medium text-white line-clamp-2">
+            <Md tw="ml-3 text-sm font-medium text-shade-lightest line-clamp-2">
               {announcement.text}
             </Md>
           </div>
@@ -67,7 +67,7 @@ export default function Announcement() {
                 to={announcement.button.link}
                 // button TODO this is annoying
                 css={[
-                  tw`flex items-center justify-center px-2 pr-3 sm:pr-2 sm:px-4 py-2 border border-transparent rounded-md shadow-sm sm:text-sm font-medium bg-white`,
+                  tw`flex items-center justify-center px-2 pr-3 sm:pr-2 sm:px-4 py-2 border border-transparent rounded-md shadow-sm sm:text-sm font-medium bg-backdrop-light`,
                   col.link,
                 ]}
               >
