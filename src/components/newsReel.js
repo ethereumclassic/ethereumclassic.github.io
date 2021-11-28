@@ -24,7 +24,7 @@ export default function NewsReel({ items }) {
           </Link>
         </div>
       </div>
-      <div tw="grid grid-cols-1 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
+      <div tw="grid grid-cols-1 gap-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
         {items.edges.map(({ node }, i) => (
           <NewsItem
             {...node}

@@ -10,7 +10,7 @@ export default function SocialIcons() {
   } = useGlobals();
   return (
     <div tw="space-y-4">
-      <div tw="text-xs font-bold text-secondary-light">{socialHilight}</div>
+      <div tw="text-xs font-bold text-secondary-neutral">{socialHilight}</div>
       <div tw="flex space-x-6">
         {socialItems.map(({ key, name, icon, link, hilight }) => (
           <a
@@ -18,7 +18,7 @@ export default function SocialIcons() {
             href={link}
             css={[
               hilight
-                ? tw`text-secondary-light hover:text-secondary-neutral`
+                ? tw`text-secondary-neutral hover:text-secondary-dark`
                 : tw`text-shade-light hover:text-shade-neutral`,
             ]}
           >

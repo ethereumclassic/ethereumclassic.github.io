@@ -85,17 +85,18 @@ module.exports = {
                 color: "var(--shade-neutral)",
               },
               code: {
-                color: "var(--shade-lightest)",
+                color: "var(--shade-darkest)",
+                backgroundColor: "var(--shade-lighter)",
               },
               "a code": {
-                color: "var(--shade-lightest)",
+                color: "var(--shade-darkest)",
               },
               "pre code": {
-                color: "var(--shade-lightest)",
+                color: "var(--shade-darkest)",
               },
               pre: {
-                color: "var(--shade-lightest)",
-                backgroundColor: "var(--shade-darker)",
+                color: "var(--shade-darkest)",
+                backgroundColor: "var(--shade-lighter)",
               },
               thead: {
                 color: "var(--shade-darkest)",

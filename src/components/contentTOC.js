@@ -14,7 +14,7 @@ function LinkItems({ items, depth = 0 }) {
           {title && (
             <a
               css={[
-                tw`hocus:text-shade-darker text-shade-neutral font-bold block`,
+                tw`hocus:text-shade-darker text-shade-neutral font-bold block overflow-ellipsis overflow-hidden max-w-full`,
                 [
                   tw`lg:pl-0 xl:pl-0`,
                   tw`lg:pl-1 xl:pl-2`,
@@ -41,7 +41,7 @@ export default function TableOfContents({ items }) {
         <Icon icon="contents" tw="h-3" />
         <span>Contents</span>
       </div>
-      <div tw="overflow-y-auto space-y-3 tracking-tight leading-tight max-h-[70vh]">
+      <div tw="overflow-y-auto overflow-x-hidden space-y-3 tracking-tight leading-tight max-h-[70vh]">
         <LinkItems items={items} />
       </div>
     </div>

@@ -37,8 +37,10 @@ export default function Footer() {
               ))}
           </div>
         </div>
-        <div tw="col-span-full border-t border-shade-lighter pt-8 mt-16">
-          <Md tw="text-base text-shade-light text-center">{signOff}</Md>
+        <div tw="col-span-full border-t border-shade-lightest pt-8 mt-16">
+          <Md tw="text-sm font-medium text-shade-light text-center">
+            {signOff}
+          </Md>
         </div>
       </TwContainer>
     </footer>

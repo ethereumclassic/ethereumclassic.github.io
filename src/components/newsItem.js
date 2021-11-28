@@ -25,13 +25,13 @@ export default function NewsItem({
     >
       <div
         css={[
-          tw`text-primary-darkest bg-primary-lighter px-3 py-2 text-sm`,
-          blog && tw`bg-primary-darker text-shade-lightest`,
+          tw`text-primary-darkest bg-primary-lightest px-3 py-2 text-sm`,
+          blog && tw`bg-primary-lighter`,
         ]}
       >
         {blog && (
           <div tw="absolute top-2 right-2 z-10 select-none">
-            <Icon icon="etc" tw="opacity-50 h-6" />
+            <Icon icon="etc" tw="opacity-30 h-5" />
           </div>
         )}
         <FormattedDate

@@ -3,6 +3,7 @@ import React from "react";
 import "twin.macro";
 import tw from "twin.macro";
 import Fader from "./fader";
+import PopOverContainer from "./popOverContainer";
 // TODO keep this DRY
 
 export default function PopDownMenu({ children, left, cta }) {
@@ -16,7 +17,7 @@ export default function PopDownMenu({ children, left, cta }) {
             : tw`left-1/2 transform -translate-x-1/2`,
         ]}
       >
-        <div tw="rounded-lg shadow-lg ring-1 ring-shade-darkest ring-opacity-5 overflow-hidden">
+        <PopOverContainer>
           <div tw="relative grid gap-6 bg-backdrop-light px-5 py-6 sm:gap-8 sm:p-8">
             {children}
           </div>
@@ -25,7 +26,7 @@ export default function PopDownMenu({ children, left, cta }) {
               <div tw="flow-root">{cta}</div>
             </div>
           )}
-        </div>
+        </PopOverContainer>
       </Popover.Panel>
     </Fader>
   );

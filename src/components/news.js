@@ -39,7 +39,7 @@ export default function News({ pageContext, data, i18n }) {
         <div tw="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 md:gap-3">
           {pageContext.currentPage === 1 && (
             <Link
-              tw="col-span-full border-2 rounded-lg border-dashed bg-shade-lightest border-shade-light hover:bg-backdrop-light flex items-center justify-center space-x-4 p-3"
+              tw="col-span-full border-2 rounded-lg border-dashed text-shade-light  bg-backdrop-light border-shade-lighter hover:text-shade-neutral hover:bg-backdrop-dark flex items-center justify-center space-x-4 p-3"
               to="https://github.com/ethereumclassic.github.io"
             >
               <Icon icon="plus" tw="h-5" />

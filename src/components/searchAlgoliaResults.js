@@ -6,6 +6,7 @@ import Link from "./link";
 
 import { connectPoweredBy } from "react-instantsearch-dom";
 import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
+import PopOverContainer from "./popOverContainer";
 
 const PoweredBy = ({ url }) => (
   <a href={url} target="_blank" rel="noreferrer">
@@ -17,12 +18,12 @@ const CustomPoweredBy = connectPoweredBy(PoweredBy);
 
 function Wrapper({ children }) {
   return (
-    <div tw="bg-backdrop-light shadow-lg rounded-md text-base ring-1 ring-shade-darkest ring-opacity-5 mr-auto overflow-hidden">
+    <PopOverContainer>
       {children}
-      <div tw="text-right text-sm text-shade-light bg-shade-lightest pr-4">
+      <div tw="text-right text-sm text-shade-neutral bg-shade-lightest py-1 pr-4">
         <CustomPoweredBy />
       </div>
-    </div>
+    </PopOverContainer>
   );
 }
 

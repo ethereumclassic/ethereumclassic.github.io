@@ -12,7 +12,7 @@ function NewsFilterBlock({ items, title, icon, inline }) {
         tw`text-sm`,
         inline
           ? tw`flex items-start space-x-4`
-          : tw`border-shade-light border-l space-y-3 pl-6`,
+          : tw`border-shade-lighter border-l space-y-3 pl-6`,
       ]}
     >
       <div>

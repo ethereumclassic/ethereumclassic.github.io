@@ -16,7 +16,7 @@ export default function LocaleSelector() {
               <Popover.Button
                 className="group"
                 css={[
-                  tw`bg-backdrop-light rounded-md inline-flex items-center text-base font-medium hover:text-shade-darkest focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-secondary-neutral`,
+                  tw`font-medium hover:text-shade-darkest`,
                   open ? tw`text-shade-darkest` : tw`text-shade-neutral`,
                 ]}
               >
@@ -32,21 +32,22 @@ export default function LocaleSelector() {
             </div>
             <PopDownMenu
               left
-              cta={
-                <a
-                  href="#"
-                  tw="-m-3 p-3 px-5 flex items-center rounded-md text-base font-medium text-shade-darkest hover:bg-shade-lightest"
-                >
-                  <Icon
-                    icon="coins"
-                    tw="flex-shrink-0 h-6 w-6 text-shade-light"
-                    aria-hidden="true"
-                  />
-                  <span tw="ml-3">
-                    Earn ETC by helping to translate this website!
-                  </span>
-                </a>
-              }
+              // TODO move this somehwere else
+              // cta={
+              //   <a
+              //     href="#"
+              //     tw="-m-3 p-3 px-5 flex items-center rounded-md text-base font-medium text-shade-darkest hover:bg-shade-lightest"
+              //   >
+              //     <Icon
+              //       icon="coins"
+              //       tw="flex-shrink-0 h-6 w-6 text-shade-light"
+              //       aria-hidden="true"
+              //     />
+              //     <span tw="ml-3">
+              //       Earn ETC by helping to translate this website!
+              //     </span>
+              //   </a>
+              // }
             >
               <LocaleButtons />
             </PopDownMenu>

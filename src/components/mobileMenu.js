@@ -20,7 +20,7 @@ export default function MobileMenu() {
           <Fader>
             <Popover.Panel
               focus
-              tw="absolute p-2 transition transform origin-top-right md:hidden bg-shade-darkest bg-opacity-60 backdrop-blur-xl bottom-0 top-16 right-0 left-0 h-screen"
+              tw="absolute p-2 transition transform origin-top-right md:hidden backdrop-blur-xl bottom-0 top-16 right-0 left-0 h-screen"
             >
               <div tw="rounded-lg shadow-lg bg-backdrop-light">
                 <MobileMenuItems />

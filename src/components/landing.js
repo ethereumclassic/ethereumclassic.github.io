@@ -17,7 +17,7 @@ export default function Landing({
       <LandingBillboard {...billboard} />
       <TwContainer tw="py-16 space-y-16">
         <NewsReel items={newsItems} />
-        <div tw="grid grid-cols-1 items-center gap-6 md:grid-cols-2">
+        <div tw="grid grid-cols-1 items-center gap-16 md:grid-cols-2">
           <div tw="prose">
             <h3>{intro.title}</h3>
             <Md>{intro.content}</Md>
