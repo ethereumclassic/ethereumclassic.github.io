@@ -45,12 +45,12 @@
     "rehype-autolink-headings": "^6.1.0",
     "rehype-slug": "^5.0.0",
     "rooks": "^5.8.0",
-    "tailwindcss": "^2.2.19"
+    "tailwindcss": "^2.2.19",
+    "toml-require": "^1.2.0"
   },
   "devDependencies": {
     "@emotion/react": "^11.5.0",
     "@emotion/styled": "^11.3.0",
-    "@ltd/j-toml": "^1.24.0",
     "eslint-config-react-app": "^6.0.0",
     "gatsby-plugin-emotion": "^7.1.0",
     "twin.macro": "^2.8.1"
