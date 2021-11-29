@@ -12,19 +12,21 @@ import TwContainer from "./twContainer";
 
 export default function Header() {
   return (
-    <div tw="bg-backdrop-light z-50 fixed inset-0 bottom-auto shadow-md transition-colors">
+    <div tw="bg-backdrop-light z-50 sticky top-0 shadow-md transition-colors">
       <TwContainer>
-        <div tw="flex items-center justify-center h-16 space-x-6">
+        <div tw="flex items-center h-14 px-2 md:px-0">
           <div tw="flex-1 flex">
             <Logo />
           </div>
           <MobileMenu />
-          <MainMenu />
-          <div tw="hidden md:block w-36 lg:w-48">
-            <SearchAlgolia />
+          <div tw="hidden md:flex items-center space-x-6">
+            <MainMenu />
+            <div tw="w-36 lg:w-48">
+              <SearchAlgolia />
+            </div>
+            <DarkModeSwitcher />
+            <LocaleSelector />
           </div>
-          <DarkModeSwitcher />
-          <LocaleSelector />
         </div>
       </TwContainer>
     </div>

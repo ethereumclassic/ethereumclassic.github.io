@@ -108,7 +108,7 @@ export default function InfoBox(props) {
   const bgConf = [
     colConf.bg,
     tw`rounded-md relative overflow-hidden shadow-sm leading-snug px-3 py-2 pr-16`,
-    inline && tw`p-2 pr-10 -mt-0.5`,
+    inline && tw`px-1.5 py-1 md:p-2 pr-10`,
     mini && tw`-mt-2 max-w-xs`,
   ];
   const textConf = [colConf.text, tw`text-sm inline`, micro && tw`hidden`];

@@ -16,26 +16,25 @@ export default function News({ pageContext, data, i18n }) {
   // TODO make top padding match other pages
   return (
     <TwContainer grid>
-      <main tw="col-span-full md:col-span-9 relative mt-10">
+      <main tw="col-span-full md:col-span-9 relative mt-5 md:mt-8">
         <div tw="flex space-x-2">
-          <div tw="flex-auto space-y-1">
+          <div tw="flex-auto space-y-1 mb-2">
             <h1 tw="text-2xl font-bold text-shade-darker">{i18n.title}</h1>
             <p tw="text-sm text-shade-neutral">{i18n.description}</p>
           </div>
           <div tw="hidden lg:block">
             <Disclaimer mini />
           </div>
-          <div tw="lg:hidden">
-            <Disclaimer inline micro />
-          </div>
+        </div>
+        <div tw="lg:hidden py-2">
+          <Disclaimer inline />
         </div>
         <div tw="md:hidden space-y-1 sm:space-y-3 mt-4">
           <NewsFilters {...{ pageContext, i18n }} inline />
         </div>
-        <div tw="sticky z-20 top-16 bg-backdrop-dark pt-6 mb-6 -mx-4 px-4">
+        <div tw="sticky z-20 top-14 bg-backdrop-dark mb-4 pt-1 mt-1">
           <NewsPagination {...{ pageContext }} />
         </div>
-        {/* main content */}
         <div tw="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 md:gap-3">
           {pageContext.currentPage === 1 && (
             <Link
@@ -52,7 +51,7 @@ export default function News({ pageContext, data, i18n }) {
         </div>
       </main>
       <aside tw="hidden md:block md:col-span-3">
-        <div tw="sticky top-24 space-y-4 mt-10">
+        <div tw="sticky top-20 space-y-4">
           <NewsFilters {...{ pageContext, i18n }} />
           <div tw="text-center">
             <Link

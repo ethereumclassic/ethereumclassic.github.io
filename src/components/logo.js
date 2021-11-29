@@ -15,10 +15,8 @@ export default function Logo() {
       tw="inline-block text-primary-darkest hover:text-primary-dark"
     >
       <div tw="flex items-center">
-        <Icon tw="h-6 w-auto sm:h-10" icon="etc" />
-        <span tw="text-lg sm:text-xl ml-2 sm:ml-4 whitespace-nowrap">
-          {title}
-        </span>
+        <Icon tw="h-7 -mt-0.5" icon="etc" />
+        <span tw="text-xl ml-3 whitespace-nowrap">{title}</span>
       </div>
     </LocalizedLink>
   );

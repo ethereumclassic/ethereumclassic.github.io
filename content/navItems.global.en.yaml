@@ -17,9 +17,9 @@ learn:
         decentralization:
           __link: /why-classic/decentralization
           name: Decentralization
-        soundMoney:
-          __link: /why-classic/sound-money
-          name: Sound Money
+        etcVsEth:
+          __link: /why-classic/etc-vs-eth
+          name: ETC vs ETH
     philosophy:
       __link: /philosophy
       __icon: hat

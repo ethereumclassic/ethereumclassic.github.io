@@ -9,6 +9,8 @@ import Header from "./header";
 import Json from "./json";
 import Seo from "./seo";
 import Announcement from "./announcement";
+import Lorem from "./lorem";
+
 import { ThemeProvider } from "../utils/themeProvider";
 
 export default function GlobalLayout({ children, ...props }) {
@@ -17,14 +19,11 @@ export default function GlobalLayout({ children, ...props }) {
       <RedirectsProvider>
         <NavigationProvider {...props}>
           <Seo {...props} />
-          <div tw="h-screen flex flex-col">
-            <Header />
+          <Header />
+          <div tw="flex flex-col">
             <main tw="flex-1">
-              <div tw="pt-16">
-                <Announcement />
-                {children}
-                {/* <Json {...props} /> */}
-              </div>
+              <Announcement />
+              {children}
             </main>
             <Footer />
           </div>

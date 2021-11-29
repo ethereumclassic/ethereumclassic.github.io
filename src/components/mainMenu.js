@@ -8,7 +8,7 @@ import MainMenuItem from "./mainMenuItem";
 export default function MainMenu() {
   const { main } = useNavigation();
   return (
-    <Popover.Group as="nav" tw="hidden md:flex space-x-6">
+    <Popover.Group as="nav" tw="flex space-x-6">
       {main
         .filter(({ hideTop }) => !hideTop)
         .map((item) => (

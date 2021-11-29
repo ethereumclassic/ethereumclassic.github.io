@@ -27,9 +27,8 @@ function Lass() {
   return (
     <div css={{ marginTop: `${mt}px` }}>
       <StaticImage
+        alt=""
         src="../images/lass3.png"
-        loading="eager"
-        // layout="constrained"
         placeholder="tracedSVG"
         tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
       />
@@ -41,7 +40,7 @@ export default function LandingBillboard({ text, randomWords }) {
   return (
     <div tw="bg-gradient-to-r overflow-hidden select-none h-[40rem] sm:h-[30rem] md:h-[40rem] lg:h-[50rem] xl:h-[70vh] from-primary-light to-primary-dark dark:from-primary-lighter dark:to-backdrop-dark">
       <div tw="max-w-7xl mx-auto h-full px-6 grid grid-cols-12 items-center">
-        <div tw="h-full col-span-full px-8 sm:px-0 sm:col-span-7 text-primary-lighter sm:overflow-hidden">
+        <div tw="h-full col-span-full sm:col-span-7 text-primary-lighter sm:overflow-hidden">
           <Lass />
         </div>
         <div tw="flex flex-col text-3xl lg:text-5xl uppercase font-light leading-tight tracking-widest sm:-ml-6 col-span-full text-center row-start-1 pt-10 sm:text-left sm:pt-0 sm:col-span-5 sm:row-start-auto text-primary-lightest dark:text-primary-darkest">

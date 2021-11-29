@@ -10,38 +10,30 @@ function NewsFilterBlock({ items, title, icon, inline }) {
     <div
       css={[
         tw`text-sm`,
-        inline
-          ? tw`flex items-start space-x-4`
-          : tw`border-shade-lighter border-l space-y-3 pl-6`,
+        !inline && tw`border-shade-lighter border-l pl-6 py-2`,
       ]}
     >
-      <div>
-        <div
+      <div
+        css={[
+          tw`inline-flex space-x-2 text-sm items-baseline uppercase tracking-widest text-shade-light select-none`,
+          !inline ? tw`flex items-center mb-2` : tw`mr-2`,
+        ]}
+      >
+        <Icon icon={icon} tw="h-3 w-3" />
+        <span>{title}</span>
+      </div>
+      {items.map(({ key, link, name, selected }) => (
+        <LocalizedLink
+          key={key}
+          to={link}
           css={[
-            tw`flex text-sm items-center space-x-2 uppercase tracking-widest text-shade-light select-none`,
-            inline && tw`w-16`,
+            tw`inline-flex hocus:text-shade-darker text-shade-neutral mr-1.5`,
+            selected ? tw`font-bold text-shade-darker` : tw`font-normal`,
           ]}
         >
-          <Icon icon={icon} tw="h-3" />
-          <span>{title}</span>
-        </div>
-      </div>
-      <div tw="md:leading-relaxed flex-shrink">
-        {items.map(({ key, link, name, selected }) => (
-          <React.Fragment key={key}>
-            <LocalizedLink
-              key={key}
-              to={link}
-              css={[
-                tw`hocus:text-shade-darker text-shade-neutral  whitespace-nowrap mr-2`,
-                selected ? tw`font-bold text-shade-darker` : tw`font-normal`,
-              ]}
-            >
-              {name}
-            </LocalizedLink>{" "}
-          </React.Fragment>
-        ))}
-      </div>
+          {name}
+        </LocalizedLink>
+      ))}
     </div>
   );
 }

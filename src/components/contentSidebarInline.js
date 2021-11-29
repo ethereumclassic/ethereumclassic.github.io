@@ -11,7 +11,7 @@ export default function ContentSidebarInline({ items }) {
     return null;
   }
   return (
-    <div tw="bg-backdrop-dark -mx-2 px-2 -mt-8 mb-8">
+    <div tw="bg-backdrop-dark -mx-2 px-2 -mt-10 mb-6">
       <div tw="border-b border-shade-lighter pt-3">
         <div tw="-mb-px space-y-1">
           <Link

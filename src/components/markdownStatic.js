@@ -9,6 +9,7 @@ import * as linkedHeaders from "./linkedHeaders";
 import Link from "./link";
 
 import * as generics from "./genericAll";
+import VideoFrame from "./videoFrame";
 
 export default function MarkdownStatic({ mdx, i18n }) {
   return (
@@ -20,10 +21,13 @@ export default function MarkdownStatic({ mdx, i18n }) {
             const Comp = generics[key];
             return {
               ...o,
-              [capitalize(key)]: ({ data }) => <Comp {...i18n[data]} />,
+              [capitalize(key)]: ({ data, ...rest }) => (
+                <Comp {...i18n[data]} {...rest} />
+              ),
             };
           }, {}),
           a: (props) => <Link {...props} showExternal />,
+          Video: VideoFrame,
           ...linkedHeaders,
           // dont render h1 as we query it and render elsewhere in header
           h1: () => null,

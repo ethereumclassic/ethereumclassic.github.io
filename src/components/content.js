@@ -35,14 +35,14 @@ export default function Content({ data: { mdx, contributors }, i18n }) {
     <TwContainer grid>
       {showLeft && (
         <div tw="hidden md:block md:col-span-3 lg:col-span-2">
-          <nav tw="sticky top-24 mt-10">
+          <nav tw="sticky top-24 mt-10 md:mt-14">
             <ContentSidebarVertical items={sub.navItems} />
           </nav>
         </div>
       )}
       <main
         css={[
-          tw`col-span-full md:col-span-9 lg:col-span-7 xl:col-span-7 mt-10`,
+          tw`col-span-full md:col-span-9 lg:col-span-7 xl:col-span-7 mt-10 md:mt-14`,
           !showRight && showLeft && tw`lg:col-span-8 xl:col-span-8`,
           showRight &&
             !showLeft &&
@@ -53,7 +53,7 @@ export default function Content({ data: { mdx, contributors }, i18n }) {
         ]}
       >
         {showLeft && (
-          <nav tw="sticky top-16 md:hidden z-40">
+          <nav tw="sticky top-14 md:hidden z-40">
             <ContentSidebarInline items={sub.navItems} />
           </nav>
         )}
@@ -70,7 +70,7 @@ export default function Content({ data: { mdx, contributors }, i18n }) {
       {showRight && (
         <aside
           css={[
-            tw`hidden lg:block lg:col-span-3 mt-10`,
+            tw`hidden lg:block lg:col-span-3 mt-10 md:mt-14`,
             !showLeft && tw`md:block md:col-span-3`,
           ]}
         >

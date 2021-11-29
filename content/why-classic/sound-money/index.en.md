@@ -1,3 +1,0 @@
-# Sound Money
-
-TODO

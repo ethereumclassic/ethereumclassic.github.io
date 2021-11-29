@@ -6,9 +6,9 @@ import Icon from "./icon";
 import PopDownMenu from "./popDownMenu";
 import LocaleButtons from "./localeButtons";
 
-export default function LocaleSelector() {
+export default function LocaleSelector({ ...props }) {
   return (
-    <Popover.Group tw="flex">
+    <Popover.Group tw="flex" {...props}>
       <Popover tw="relative">
         {({ open }) => (
           <>
@@ -23,7 +23,7 @@ export default function LocaleSelector() {
                 <Icon
                   icon="globe"
                   css={[
-                    tw`h-6 w-6 group-hover:text-shade-neutral`,
+                    tw`h-5 group-hover:text-shade-neutral`,
                     open ? tw`text-shade-neutral` : tw`text-shade-light`,
                   ]}
                   aria-hidden="true"

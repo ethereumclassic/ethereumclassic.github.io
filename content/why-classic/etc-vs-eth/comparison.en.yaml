@@ -1,0 +1,26 @@
+__type: table
+__sort: false
+columnItems:
+  name:
+    name: Feature
+  etc:
+    name: ETC
+  eth:
+    name: ETH
+items:
+  algorithm:
+    name: Consensus Algorithm
+    etc: Proof of Work
+    eth: Proof of Stake (Soon™)
+  futureSupply:
+    name: Token Issuance
+    etc: Fixed, Capped
+    eth: Variable, Infinite
+  organization:
+    name: Development Organization
+    etc: Decentralized
+    eth: Ethereum Foundation
+  operation:
+    name: Uninterrupted Operation
+    etc: Since June 2015
+    eth: Since July 2016
