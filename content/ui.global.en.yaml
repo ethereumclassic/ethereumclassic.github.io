@@ -14,8 +14,6 @@ dateFormat: YYYY.MM.DD
 metaLocale: en_US
 #  Used in the <html> tag [info](https://www.w3schools.com/tags/att_lang.asp)
 htmlLang: en
-#  Do not edit this!
-__bodyClass: default
 ##
 ## ## General UI
 ##

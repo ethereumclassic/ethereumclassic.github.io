@@ -63,10 +63,10 @@ module.exports = {
                 backgroundColor: "var(--shade-dark)",
               },
               hr: {
-                borderColor: "var(--shade-ligher)",
+                borderColor: "var(--shade-lighter)",
               },
               blockquote: {
-                color: "var(--shade-ligher)",
+                color: "var(--shade-lighter)",
                 borderLeftColor: "var(--shade-dark)",
               },
               h1: {
@@ -97,6 +97,7 @@ module.exports = {
               pre: {
                 color: "var(--shade-darkest)",
                 backgroundColor: "var(--shade-lighter)",
+                border: "none",
               },
               thead: {
                 color: "var(--shade-darkest)",

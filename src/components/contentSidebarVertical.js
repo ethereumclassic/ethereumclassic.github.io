@@ -11,12 +11,9 @@ function Item({ item: { name, link, icon, current } }) {
       to={link}
       className="group"
       css={[
-        tw`flex items-center px-3 py-2 text-sm font-medium rounded-md`,
-        current
-          ? tw`bg-shade-lightest text-shade-darkest`
-          : tw`text-shade-neutral hover:text-shade-darkest`,
+        tw`flex items-center px-3 py-2 text-sm font-medium rounded-md hover:bg-shade-lightest hover:text-shade-darkest`,
+        current ? tw`text-shade-darkest` : tw`text-shade-neutral`,
       ]}
-      aria-current={current ? "page" : undefined}
     >
       <Icon
         icon={icon}
@@ -26,7 +23,6 @@ function Item({ item: { name, link, icon, current } }) {
             ? tw`text-shade-neutral`
             : tw`text-shade-light group-hover:text-shade-neutral`,
         ]}
-        aria-hidden="true"
       />
       <span tw="truncate">{name}</span>
     </Link>
@@ -39,7 +35,7 @@ function SubItem({ item: { name, key, link, current } }) {
       to={link}
       className="group"
       css={[
-        tw`flex items-center px-3 py-2 text-sm font-light text-shade-neutral hover:text-shade-darkest`,
+        tw`flex items-center px-3 py-2 text-sm font-light text-shade-neutral hover:bg-shade-lightest hover:text-shade-darkest`,
         current
           ? tw`text-shade-darker font-bold`
           : tw`text-shade-neutral font-light`,

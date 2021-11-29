@@ -28,7 +28,8 @@ function Lass() {
     <div css={{ marginTop: `${mt}px` }}>
       <StaticImage
         src="../images/lass3.png"
-        alt="lass"
+        loading="eager"
+        // layout="constrained"
         placeholder="tracedSVG"
         tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
       />

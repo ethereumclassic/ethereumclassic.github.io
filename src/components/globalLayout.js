@@ -1,24 +1,22 @@
 import React from "react";
 import "twin.macro";
 
-import GlobalStyles from "../utils/globalStyles";
 import { NavigationProvider } from "../utils/navigationProvider";
 import { RedirectsProvider } from "../utils/redirectsProvider";
-import { ThemeProvider } from "../utils/themeProvider";
 
 import Footer from "./footer";
 import Header from "./header";
 import Json from "./json";
 import Seo from "./seo";
 import Announcement from "./announcement";
+import { ThemeProvider } from "../utils/themeProvider";
 
 export default function GlobalLayout({ children, ...props }) {
   return (
-    <RedirectsProvider>
-      <NavigationProvider {...props}>
-        <ThemeProvider>
+    <ThemeProvider>
+      <RedirectsProvider>
+        <NavigationProvider {...props}>
           <Seo {...props} />
-          <GlobalStyles />
           <div tw="h-screen flex flex-col">
             <Header />
             <main tw="flex-1">
@@ -30,8 +28,8 @@ export default function GlobalLayout({ children, ...props }) {
             </main>
             <Footer />
           </div>
-        </ThemeProvider>
-      </NavigationProvider>
-    </RedirectsProvider>
+        </NavigationProvider>
+      </RedirectsProvider>
+    </ThemeProvider>
   );
 }

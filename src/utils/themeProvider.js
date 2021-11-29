@@ -1,9 +1,10 @@
 import React, { createContext, useContext } from "react";
+import GlobalStyles from "./globalStyles";
 
 const ThemeContext = createContext();
 
 function useTheme() {
-  const theme = useContext(ThemeContext);
+  const theme = useContext(ThemeContext) || {};
   theme.isDark = theme.theme === "dark";
   return theme;
 }
@@ -46,6 +47,7 @@ function ThemeProvider({ initialTheme, children }) {
 
   return (
     <ThemeContext.Provider value={{ theme, setTheme }}>
+      <GlobalStyles />
       {children}
     </ThemeContext.Provider>
   );

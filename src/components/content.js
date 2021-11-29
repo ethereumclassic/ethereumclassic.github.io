@@ -46,10 +46,10 @@ export default function Content({ data: { mdx, contributors }, i18n }) {
           !showRight && showLeft && tw`lg:col-span-8 xl:col-span-8`,
           showRight &&
             !showLeft &&
-            tw`md:col-span-full lg:col-start-2 xl:col-start-2 lg:col-span-8 xl:col-span-7`,
+            tw`md:col-span-8 md:col-start-2 lg:col-start-2 xl:col-start-2 lg:col-span-8 xl:col-span-7`,
           !showRight &&
             !showLeft &&
-            tw`lg:col-start-3 lg:col-span-8 md:col-span-full`,
+            tw`sm:col-span-full md:col-start-2 md:col-span-10 lg:col-start-3 lg:col-span-8`,
         ]}
       >
         {showLeft && (
@@ -68,7 +68,12 @@ export default function Content({ data: { mdx, contributors }, i18n }) {
         <ContentFooter {...{ mdx, i18n, contributors }} />
       </main>
       {showRight && (
-        <aside css={[tw`hidden lg:block lg:col-span-3 mt-10`]}>
+        <aside
+          css={[
+            tw`hidden lg:block lg:col-span-3 mt-10`,
+            !showLeft && tw`md:block md:col-span-3`,
+          ]}
+        >
           <div tw="sticky top-24 space-y-4 ">
             <ContentTOC items={toc} />
           </div>

@@ -1,5 +1,5 @@
 import React from "react";
-import "twin.macro";
+import tw from "twin.macro";
 
 import LocalizedLink from "../../plugins/translations-plugin/src/components/localizedLink";
 import Icon from "./icon";
@@ -7,18 +7,16 @@ import Icon from "./icon";
 export default function NewsPagination({ pageContext }) {
   // TODO i18n
   const { currentPage, numPages, filterBase } = pageContext;
+  const btnStyle = tw`border-b-2 space-x-3 border-transparent pb-4 px-3 inline-flex items-center text-sm font-medium text-shade-neutral hover:text-shade-dark hover:border-shade-light`;
   return (
-    <nav tw="border-b border-shade-lighter px-4 flex items-center justify-between sm:px-0">
+    <nav tw="border-b border-shade-lighter flex items-center justify-between -mx-2 px-2">
       <div tw="-mt-px w-0 flex-1 flex">
         {currentPage !== 1 && (
           <>
-            <LocalizedLink
-              to={filterBase}
-              tw="border-b-2 border-transparent pb-4 pr-1 inline-flex items-center text-sm font-medium text-shade-neutral hover:text-shade-dark hover:border-shade-light"
-            >
+            <LocalizedLink to={filterBase} css={btnStyle}>
               <Icon
                 icon="leftDouble"
-                tw="mr-3 h-4 text-shade-light"
+                tw="h-4 text-shade-light"
                 aria-hidden="true"
               />
             </LocalizedLink>
@@ -28,14 +26,10 @@ export default function NewsPagination({ pageContext }) {
                   ? filterBase
                   : `${filterBase}/page/${currentPage - 1}`
               }
-              tw="border-b-2 border-transparent pb-4 pr-1 inline-flex items-center text-sm font-medium text-shade-neutral hover:text-shade-dark hover:border-shade-light"
+              css={btnStyle}
             >
-              <Icon
-                icon="left"
-                tw="mr-3 h-4 text-shade-light"
-                aria-hidden="true"
-              />
-              Previous
+              <Icon icon="left" tw="h-4 text-shade-light" aria-hidden="true" />
+              <span>Previous</span>
             </LocalizedLink>
           </>
         )}
@@ -50,22 +44,15 @@ export default function NewsPagination({ pageContext }) {
           <>
             <LocalizedLink
               to={`${filterBase}/page/${currentPage + 1}`}
-              tw="border-b-2 border-transparent pb-4 pl-1 inline-flex items-center text-sm font-medium text-shade-neutral hover:text-shade-dark hover:border-shade-light"
+              css={btnStyle}
             >
-              Next
-              <Icon
-                icon="right"
-                tw="ml-3 h-4 text-shade-light"
-                aria-hidden="true"
-              />
+              <span>Next</span>
+              <Icon icon="right" tw="h-4 text-shade-light" aria-hidden="true" />
             </LocalizedLink>
-            <LocalizedLink
-              to={`${filterBase}/page/${numPages}`}
-              tw="border-b-2 border-transparent pb-4 pl-1 inline-flex items-center text-sm font-medium text-shade-neutral hover:text-shade-dark hover:border-shade-light"
-            >
+            <LocalizedLink to={`${filterBase}/page/${numPages}`} css={btnStyle}>
               <Icon
                 icon="rightDouble"
-                tw="ml-3 h-4 text-shade-light"
+                tw="h-4 text-shade-light"
                 aria-hidden="true"
               />
             </LocalizedLink>

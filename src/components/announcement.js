@@ -46,8 +46,8 @@ export default function Announcement() {
   const col = palette[announcement.color || "green"];
   return (
     <div css={[tw`z-20 relative`, col.bg]}>
-      <TwContainer tw="py-2">
-        <div tw="flex items-center justify-between flex-wrap">
+      <TwContainer>
+        <div tw="flex items-center justify-between flex-wrap py-2 -mx-1">
           <div tw="flex-1 flex items-center">
             <span css={[tw`flex p-2 rounded-lg`, col.icon]}>
               <Icon
