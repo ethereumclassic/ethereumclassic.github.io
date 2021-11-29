@@ -4,18 +4,16 @@ date: 2016-07-11
 author: Arvicco
 ---
 
-
 <b>PDF Version:</b>
- <a href="/A_Crypto-Decentralist_Manifesto.pdf"> English</a>
- <a href="/A_Crypto-Decentralist_Manifesto_vietnamese.pdf"> Tiếng Việt</a>
- <a href="/A_Crypto-Decentralist_Manifesto_russian.pdf">русский</a>
- <a href="/A_Crypto-Decentralist_Manifesto_german.pdf"> Deutsch</a>
- <a href="/A_Crypto-Decentralist_Manifesto_italian.pdf"> Italiano</a>
+<a href="/A_Crypto-Decentralist_Manifesto.pdf"> English</a>
+<a href="/A_Crypto-Decentralist_Manifesto_vietnamese.pdf"> Tiếng Việt</a>
+<a href="/A_Crypto-Decentralist_Manifesto_russian.pdf">русский</a>
+<a href="/A_Crypto-Decentralist_Manifesto_german.pdf"> Deutsch</a>
+<a href="/A_Crypto-Decentralist_Manifesto_italian.pdf"> Italiano</a>
 
 ---
 
-
-![Decentralize!](./1*gMu8qJtr2NeEuuGzvsfcnw.png)
+![Decentralize!](./1gMu8qJtr2NeEuuGzvsfcnw.png)
 
 Blockchains werden die Welt regieren und einen Mechanismus bieten, um die soziale und wirtschaftliche Zusammenarbeit auf ein noch nicht da gewesene Niveau zu bringen - eine wirklich globale Dimension. An dieser Zusammenarbeit werden nicht nur Menschen, Gruppen und Verbände beteiligt sein, sondern auch eine wachsende Zahl von zunehmend unabhängigen künstlichen
 Agenten.
@@ -37,7 +35,7 @@ Zentralisierungsrisiken.
 **Neutralität ist notwendig**. Es ist wichtig, dass jeder, der an einer Blockchain-fähigen Zusammenarbeit
 teilnimmt, mit allen anderen gleichgestellt ist. Es spielt keine Rolle, ob Sie über eine enorme
 wirtschaftliche Macht verfügen oder nur über eine winzige Menge. Es spielt keine Rolle, ob Sie eine
-heilige Mutter Theresa oder eine teuflische Drogendealer*in sind. Es spielt keine Rolle, ob Sie ein
+heilige Mutter Theresa oder eine teuflische Drogendealer\*in sind. Es spielt keine Rolle, ob Sie ein
 Mensch oder ein Kühlschrank sind. Es spielt keine Rolle, woran Sie glauben, welche politische Theorie
 Sie vertreten oder ob Sie eine moralische oder eine unmoralische Person sind. Die ethnische
 Zugehörigkeit, das Alter, das Geschlecht, der Beruf, die soziale Stellung, die Freunde oder
@@ -67,7 +65,7 @@ Durchsetzung der AML / KYC-Regeln), wodurch die Offenheit verletzt wird. Es kann
 diskriminierende Richtlinien durchzusetzen (z. B. durch Filtern von „illegalen“ Transaktionen),
 wodurch die Neutralität verletzt wird. Es kann möglich sein, den Verlauf von Ereignissen neu zu
 schreiben (z. B. durch Beschlagnahme oder „Umverteilung“ von Geldern), wodurch die
-Unveränderlichkeit verletzt wird. Die Einführung zentraler Chokepoints schafft die Voraussetzung für die Einführung von „Blockchain-Intermediären oder Controllern“, die auf Kosten anderer Teilnehmer Wert aus dem System ziehen können. 
+Unveränderlichkeit verletzt wird. Die Einführung zentraler Chokepoints schafft die Voraussetzung für die Einführung von „Blockchain-Intermediären oder Controllern“, die auf Kosten anderer Teilnehmer Wert aus dem System ziehen können.
 
 Daher ist die Dezentralisierung das wichtigste Merkmal von Blockchain-Systemen, von dem alles
 andere abhängt. Mit der Dezentralisierung werden Blockchains die Welt regieren. Ohne sie werden
