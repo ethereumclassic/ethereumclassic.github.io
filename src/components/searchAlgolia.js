@@ -76,7 +76,7 @@ export default function SearchAgolia({ inline }) {
             />
           </div>
           <ConnectedSearchBox inline={inline} />
-          <div tw="absolute mt-1 max-w-md md:max-w-lg right-0 left-0">
+          <div tw="absolute mt-1 max-w-md md:max-w-lg right-0 w-screen pl-4">
             <Results hidden={!focused || !query} />
           </div>
         </div>

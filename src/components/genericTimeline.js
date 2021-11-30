@@ -43,24 +43,22 @@ function GenericTimelineItem({ title, date, color, icon, link, text, last }) {
               />
             </span>
           </div>
-          <div tw="min-w-0 flex-1 pt-1.5 flex justify-between space-x-4">
-            <div>
-              <div tw="flex space-x-4">
-                <H4 tw="!mt-0 flex-1">
-                  {link ? (
-                    <Link to={link} showExternal>
-                      {title}
-                    </Link>
-                  ) : (
-                    title
-                  )}
-                </H4>
-                <div tw="text-sm text-shade-neutral">
-                  <FormattedDate date={date} />
-                </div>
+          <div tw="flex-1 pt-1.5">
+            <div tw="flex space-x-4">
+              <H4 tw="!mt-0 flex-1">
+                {link ? (
+                  <Link to={link} showExternal>
+                    {title}
+                  </Link>
+                ) : (
+                  title
+                )}
+              </H4>
+              <div tw="text-sm text-shade-neutral">
+                <FormattedDate date={date} />
               </div>
-              <p tw="text-sm text-shade-neutral">{text}</p>
             </div>
+            <p tw="text-sm text-shade-neutral">{text}</p>
           </div>
         </div>
       </div>

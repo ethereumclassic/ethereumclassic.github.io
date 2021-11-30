@@ -43,7 +43,7 @@ export default connectStateResults((props) => {
   }
   return (
     <Wrapper>
-      <div tw="overflow-y-scroll divide-y divide-solid divide-shade-lightest max-h-[55vh]">
+      <div tw="overflow-y-scroll divide-y divide-solid divide-shade-lightest max-h-[40vh]">
         {searchResults.hits.map((hit) => (
           <Link
             to={hit.url}
