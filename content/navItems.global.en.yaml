@@ -6,7 +6,7 @@ learn:
       __link: /why-classic
       __icon: etc
       name: Why Classic?
-      description: Start here to get the lowdown on Etherum Classic's reason for being and unique character
+      description: Start here to get the lowdown on Etherum Classic's reason for being and unique value proposition
       navItems:
         genesis:
           __link: /why-classic/genesis
@@ -24,7 +24,7 @@ learn:
       __link: /philosophy
       __icon: hat
       name: Philosophy
-      description: TODo
+      description: Further reading on the foundations that underpin ETC
       navItems:
         history:
           __link: /philosophy/history
@@ -45,7 +45,7 @@ learn:
       __link: /guides
       __icon: book
       name: Guides
-      description: TODO
+      description: Practical tutorials and walkthroughs for interacting with the network in a number of ways
       navItems:
         basics:
           __link: /guides/basics
@@ -84,7 +84,7 @@ play:
       __link: /services
       __icon: cursor
       name: Services
-      description: TODO
+      description: Apps, Wallets and Exchanges that intergrate with ETC; 100% unaudited, so watch out for the rug pulls!
       navItems:
         wallets:
           __link: /services/wallets
@@ -99,7 +99,7 @@ play:
       __link: /community
       __icon: users
       name: Community
-      description: TODO
+      description: If you long for communication with people who are interested in ETC, here's how to find them
       navItems:
         channels:
           __link: /community/channels
@@ -120,7 +120,7 @@ play:
       __link: /network
       __icon: network
       name: Network
-      description: TODO
+      description: RPC Endpoints, Explorers, Network Monitors, and other resources for the technically inclined
       navItems:
         endpoints:
           __link: /network/endpoints
@@ -138,7 +138,7 @@ play:
       __link: /mining
       __icon: fan
       name: Mining
-      description: TODO
+      description: Pools, Software and Hardware requirements will help you mine ETC for fun and profit
       navItems:
         hardware:
           __link: /mining/hardware
@@ -153,7 +153,7 @@ play:
       __link: /development
       __icon: code
       name: Development
-      description: TODO
+      description: Testnests, Tooling, Clients and information on how to contribute to the ETC protocol itself
       navItems:
         clients:
           __link: /development/clients

@@ -11,10 +11,10 @@
 - If mistakes happen, it is the responsibility of those who voluntary interact with those contracts
 - No do-overs
 
-## THe Value of Blockchains
+## Immutability: The Value of Blockchains
 
 - Why? For the very reason Blockchains were invented
-- Censorship Resistance is what gives any blockchain it's value, if the system has central points of failure, you are better off using Amazon Web Services
+- Immutability is what gives any blockchain it's value, if the system has central points of failure, you are better off using Amazon Web Services
 - To remaoin useful long term, a blockchain must remain neutral, and they only way to do this is to have pure zero-intervention in the contract layer
 
 ## Censorship Resistance

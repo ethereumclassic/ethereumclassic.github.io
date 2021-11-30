@@ -12,8 +12,8 @@ export default function GlobalLayout({ children, ...props }) {
   return (
     <NavigationProvider {...props}>
       <Seo {...props} />
-      <Header />
-      <div tw="flex flex-col">
+      <div tw="flex flex-col h-screen">
+        <Header />
         <main tw="flex-1">
           <Announcement />
           {children}

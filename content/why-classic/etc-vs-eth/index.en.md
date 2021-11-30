@@ -2,29 +2,29 @@
 title: A Tale of Two Etheruems
 ---
 
-## Overview
-
 We go through te simiarities and differences
 
 ## Similarities
-
-### Code
-
-Ethereum and Etheruem Classic are largley identical on a Technical level. In order to make as easy as possible for developers to deploy to Ethereum Classic, ETC maintains compability.
 
 ### History
 
 For a year of Both ETC and Ethereum's existance, they were the _same_ project, both known as Ethereum.
 
-###
+### The EVM
+
+Quick explainer on Etheruem Virtual Machine
+
+### Code
+
+Ethereum Classic maintains compatibility with Etheruem Smart Contracts, so developers can deploy them to Classic with zero effort.
 
 ## Differences
 
-### askldjalkd
+### Philosophy
 
-### lasksdjlkasj
+Code is Law
 
-Philosophic
+### Monetary Policy
 
 Todo, explain stuff.
 

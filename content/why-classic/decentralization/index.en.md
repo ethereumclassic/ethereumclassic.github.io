@@ -9,6 +9,8 @@ How does ETC prevent itself from being captured?
 
 - We take the best parts of bitcoin and apply them to the best parts of Ethereum
 - Technologically and/or Philosophically superior to both projects
+- ETH: Smart Contract Platform -- Turing Complete, Built for Developers
+- BTC: Fundamentals of Decentralization and Sound Money
 
 ## Proof of Work
 
