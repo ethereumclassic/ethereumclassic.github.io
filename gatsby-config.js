@@ -17,6 +17,15 @@ module.exports = {
     "gatsby-plugin-emotion",
     `gatsby-remark-images`,
     {
+      resolve: `gatsby-plugin-nprogress`,
+      options: {
+        // Setting a color is optional.
+        color: `#34d399`,
+        // Disable the loading spinner.
+        showSpinner: false,
+      },
+    },
+    {
       resolve: "gatsby-plugin-sitemap",
       options: require("./configs/sitemap")({ siteUrl }),
     },

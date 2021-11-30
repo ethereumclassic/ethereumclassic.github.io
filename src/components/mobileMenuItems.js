@@ -8,14 +8,12 @@ import Link from "./link";
 function MenuItem({ name, description, link, icon }) {
   return (
     <Link to={link} tw="flex-row sm:space-y-2">
-      <div tw="flex items-center space-x-2">
-        <Icon icon={icon} tw="h-4" />
+      <div tw="flex text-sm font-bold items-center space-x-2">
+        <Icon icon={icon} tw="h-3.5 text-secondary-dark" />
         <div>{name}</div>
       </div>
       {description && (
-        <div tw="line-clamp-1 sm:line-clamp-2 text-sm text-shade-light">
-          {description}
-        </div>
+        <div tw="line-clamp-2 text-xs text-shade-light">{description}</div>
       )}
     </Link>
   );
@@ -24,12 +22,12 @@ function MenuItem({ name, description, link, icon }) {
 export default function MobileMenuItems() {
   const { main } = useNavigation();
   return (
-    <div tw="p-4 pt-0 space-y-3 sm:space-y-6 divide-y divide-shade-lighter divide-solid">
+    <div tw="p-4 pt-0 space-y-3 sm:space-y-6 divide-y divide-shade-lighter divide-solid overflow-y-auto max-h-[80vh]">
       {main
         .filter(({ hideMobile }) => !hideMobile)
         .map(({ key, name, navItems = [] }) => (
-          <div key={key} tw="space-y-2 sm:space-y-4 pt-4">
-            <div tw="text-sm font-semibold text-shade-light tracking-wider uppercase">
+          <div key={key} tw="pt-4">
+            <div tw="hidden sm:block pb-2 text-sm font-semibold text-shade-light tracking-wider uppercase">
               {name}
             </div>
             <div tw="grid grid-cols-2 sm:grid-cols-3 gap-3">

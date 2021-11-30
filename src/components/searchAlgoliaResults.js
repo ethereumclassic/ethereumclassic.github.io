@@ -20,7 +20,7 @@ function Wrapper({ children }) {
   return (
     <PopOverContainer>
       {children}
-      <div tw="text-right text-sm text-shade-neutral bg-shade-lightest py-1 pr-4">
+      <div tw="text-right text-sm text-shade-neutral bg-shade-lightest py-1 px-4">
         <CustomPoweredBy />
       </div>
     </PopOverContainer>
@@ -43,7 +43,7 @@ export default connectStateResults((props) => {
   }
   return (
     <Wrapper>
-      <div tw="overflow-y-scroll divide-y divide-solid divide-shade-lightest max-h-[70vh]">
+      <div tw="overflow-y-scroll divide-y divide-solid divide-shade-lightest max-h-[55vh]">
         {searchResults.hits.map((hit) => (
           <Link
             to={hit.url}

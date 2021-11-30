@@ -15,12 +15,12 @@ function Box({ item, prev, i18n, alone }) {
     <Link
       to={item.link}
       css={[
-        tw`flex-1 space-y-2 px-4 py-3 shadow-md bg-backdrop-light text-right`,
+        tw`flex-1 space-y-2 px-4 py-3 shadow-sm text-right bg-secondary-lightest text-secondary-darkest`,
         prev && tw`text-left`,
         alone && tw`flex items-center space-y-0`,
       ]}
     >
-      <div css={[tw`uppercase text-sm tracking-widest`]}>
+      <div css={[tw`uppercase text-xs md:text-sm tracking-widest`]}>
         {prev ? i18n.prev : i18n.next}
       </div>
       <div

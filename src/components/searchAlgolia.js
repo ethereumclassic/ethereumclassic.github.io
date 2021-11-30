@@ -50,7 +50,7 @@ const SearchBox = ({ refine }) => {
 
 const ConnectedSearchBox = connectSearchBox(SearchBox);
 
-export default function SearchAgolia() {
+export default function SearchAgolia({ inline }) {
   const [focused, setFocus] = useState(false);
   const [query, setQuery] = useState("");
   return (
@@ -75,8 +75,8 @@ export default function SearchAgolia() {
               aria-hidden="true"
             />
           </div>
-          <ConnectedSearchBox />
-          <div tw="absolute mt-1 w-screen max-w-md md:max-w-lg right-0">
+          <ConnectedSearchBox inline={inline} />
+          <div tw="absolute mt-1 max-w-md md:max-w-lg right-0 left-0">
             <Results hidden={!focused || !query} />
           </div>
         </div>

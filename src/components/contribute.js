@@ -11,6 +11,6 @@ export default function Contribute({ i18n, mdx }) {
     return null;
   }
   return (
-    <InfoBox icon="contribute" color="green" text={ui.contribute} markdown />
+    <InfoBox icon="contribute" color="primary" text={ui.contribute} markdown />
   );
 }

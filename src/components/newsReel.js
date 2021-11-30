@@ -6,13 +6,14 @@ import Link from "./link";
 import NewsItem from "./newsItem";
 
 export default function NewsReel({ items }) {
+  // TODO i18n
   return (
     <div tw="space-y-4">
       <div tw="flex space-x-6">
         <div tw="flex-auto flex-row flex space-x-6">
-          <h3 tw="text-2xl font-bold text-shade-darkest">Latest News!</h3>
+          <h3 tw="text-2xl font-bold text-shade-darkest">Latest News</h3>
           <div tw="hidden lg:block">
-            <Disclaimer inline color="gray" />
+            <Disclaimer type="inline" />
           </div>
         </div>
         <div>
@@ -22,7 +23,7 @@ export default function NewsReel({ items }) {
         </div>
       </div>
       <div tw="lg:hidden">
-        <Disclaimer inline color="gray" />
+        <Disclaimer type="inline" />
       </div>
       <div tw="grid grid-cols-1 gap-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
         {items.edges.map(({ node }, i) => (

@@ -54,7 +54,10 @@ export default function Content({ data: { mdx, contributors }, i18n }) {
       >
         {showLeft && (
           <nav tw="sticky top-14 md:hidden z-40">
-            <ContentSidebarInline items={sub.navItems} />
+            <ContentSidebarInline
+              items={sub.navItems}
+              disclaimer={mdx?.meta?.disclaimer || i18n.disclaimer}
+            />
           </nav>
         )}
         <article tw="prose max-w-none">

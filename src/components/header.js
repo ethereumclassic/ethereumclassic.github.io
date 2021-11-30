@@ -9,6 +9,8 @@ import MobileMenu from "./mobileMenu";
 import LocaleSelector from "./localeSelector";
 import DarkModeSwitcher from "./darkModeSwitcher";
 import TwContainer from "./twContainer";
+import MobileDropdown from "./mobileDropdown.";
+import MobileMenuItems from "./mobileMenuItems";
 
 export default function Header() {
   return (
@@ -18,7 +20,14 @@ export default function Header() {
           <div tw="flex-1 flex">
             <Logo />
           </div>
-          <MobileMenu />
+          <div tw="space-x-6 flex md:hidden">
+            <MobileDropdown icon="search">
+              <SearchAlgolia />
+            </MobileDropdown>
+            <MobileDropdown>
+              <MobileMenuItems />
+            </MobileDropdown>
+          </div>
           <div tw="hidden md:flex items-center space-x-6">
             <MainMenu />
             <div tw="w-36 lg:w-48">

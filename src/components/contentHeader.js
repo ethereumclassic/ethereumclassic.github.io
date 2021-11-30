@@ -59,8 +59,8 @@ export default function ContentHeader({ mdx, i18n, ...rest }) {
         </div>
       </div>
       {showDisclaimer && (
-        <div>
-          <Disclaimer inline micro />
+        <div tw="hidden md:block">
+          <Disclaimer type="micro" />
         </div>
       )}
     </div>

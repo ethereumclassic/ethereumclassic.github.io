@@ -38,14 +38,14 @@ function Branch({
     ? children.sort(({ name: a }, { name: b }) => parseInt(a) - parseInt(b))
     : children || [];
   return (
-    <div css={[parentRoot && tw`flex-auto`]}>
+    <div css={[parentRoot && tw`flex-auto max-w-full`]}>
       <div
         css={[
           isPage && tw`flex`,
           root &&
             tw`flex flex-wrap bg-shade-lighter p-6 pl-2 mb-2 rounded-3xl space-x-4 space-y-4`,
           parentRoot &&
-            tw`bg-backdrop-light shadow-md rounded-lg max-h-80 overflow-y-auto overflow-x-hidden text-sm py-2`,
+            tw`bg-backdrop-light shadow-md rounded-lg max-h-80 overflow-y-auto overflow-x-auto text-sm py-2`,
         ]}
       >
         {root ? (
@@ -59,7 +59,7 @@ function Branch({
                 {text}
               </Link>
             ) : (
-              <span tw="text-shade-neutral">{text}</span>
+              <span tw="text-shade-light">{text}</span>
             )}
           </div>
         )}

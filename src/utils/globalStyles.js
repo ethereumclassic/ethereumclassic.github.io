@@ -65,15 +65,11 @@ const customStyles = css`
     -webkit-tap-highlight-color: var(--primary-light);
   }
 
-  html {
-    scroll-behavior: smooth;
-  }
-
   :target:before {
     content: "";
     display: block;
-    height: 6rem;
-    margin: -6rem 0 0;
+    height: 5rem;
+    margin: -5rem 0 0;
   }
 `;
 

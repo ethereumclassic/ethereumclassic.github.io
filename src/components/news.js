@@ -23,11 +23,8 @@ export default function News({ pageContext, data, i18n }) {
             <p tw="text-sm text-shade-neutral">{i18n.description}</p>
           </div>
           <div tw="hidden lg:block">
-            <Disclaimer mini />
+            <Disclaimer type="mini" />
           </div>
-        </div>
-        <div tw="lg:hidden py-2">
-          <Disclaimer inline />
         </div>
         <div tw="md:hidden space-y-1 sm:space-y-3 mt-4">
           <NewsFilters {...{ pageContext, i18n }} inline />
@@ -36,14 +33,19 @@ export default function News({ pageContext, data, i18n }) {
           <NewsPagination {...{ pageContext }} />
         </div>
         <div tw="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 md:gap-3">
-          {pageContext.currentPage === 1 && (
-            <Link
-              tw="col-span-full border-2 rounded-lg border-dashed text-shade-light  bg-backdrop-light border-shade-lighter hover:text-shade-neutral hover:bg-backdrop-dark flex items-center justify-center space-x-4 p-3"
-              to="https://github.com/ethereumclassic.github.io"
-            >
-              <Icon icon="plus" tw="h-5" />
-              <div>Earn ETC by submitting your own links!</div>
-            </Link>
+          {pageContext.currentPage === 1 && pageContext.filter !== "blog" && (
+            <>
+              <div tw="lg:hidden">
+                <Disclaimer type="inline" />
+              </div>
+              <Link
+                tw="col-span-full border-2 rounded-lg border-dashed text-shade-light  bg-backdrop-light border-shade-lighter hover:text-shade-neutral hover:bg-backdrop-dark flex items-center justify-center space-x-4 p-3"
+                to="https://github.com/ethereumclassic.github.io"
+              >
+                <Icon icon="plus" tw="h-5" />
+                <div>Earn ETC by submitting your own links!</div>
+              </Link>
+            </>
           )}
           {data.items.edges.map(({ node }) => (
             <NewsItem key={node.id} {...node} lines={3} />

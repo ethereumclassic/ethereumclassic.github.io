@@ -30,7 +30,7 @@ export default function GenericCells({ items, buttonItems = [], cells }) {
                   {name}
                 </Link>
               </h3>
-              <div>
+              <div tw="space-x-1">
                 {buttonItems.map((button) => (
                   <CellButton key={button.key} button={button} item={item} />
                 ))}
