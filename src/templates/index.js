@@ -41,6 +41,7 @@ export const query = graphql`
         locale: { eq: $locale }
         type: { in: ["collection", "markdown"] }
         parentDirectory: { in: ["blog", "news"] }
+        data: { tags: { nin: "application" } }
       }
       sort: { fields: data___date, order: DESC }
       limit: 10

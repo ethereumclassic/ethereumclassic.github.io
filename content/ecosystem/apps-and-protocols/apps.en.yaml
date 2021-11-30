@@ -9,6 +9,12 @@ legends:
   other: Other
 items: 
 - 
+  key: ETCBits
+  name: ETCBits
+  link: https://medium.com/@persn.assist/etcbits-1st-3d-collection-and-only-2nd-nft-collection-on-ethereum-classic-547e787f5633
+  text: ETCbits — 1st 3D collection and only 2nd NFT collection on Ethereum Classic
+  type: nft
+- 
   key: ETCPunks
   name: ETCPunks
   link: https://etcpunks.com/
