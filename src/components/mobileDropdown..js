@@ -12,7 +12,7 @@ export default function MobileDropdown({ icon = "menu", children }) {
         <>
           <Popover.Button
             css={[
-              tw`bg-backdrop-light rounded-md inline-flex items-center justify-center text-shade-light hover:text-shade-neutral hover:bg-shade-lightest focus:outline-none focus:ring-2 focus:ring-inset focus:ring-secondary-neutral`,
+              tw`rounded-md inline-flex items-center justify-center text-shade-light hover:text-shade-neutral hover:bg-shade-lightest`,
               open && tw`text-shade-dark`,
             ]}
           >

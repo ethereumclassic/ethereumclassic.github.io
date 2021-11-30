@@ -21,6 +21,8 @@ export default function Header() {
             <Logo />
           </div>
           <div tw="space-x-6 flex md:hidden">
+            <DarkModeSwitcher />
+            <LocaleSelector />
             <MobileDropdown icon="search">
               <SearchAlgolia />
             </MobileDropdown>
