@@ -10,7 +10,7 @@ function LinkItems({ items, depth = 0 }) {
   return (
     <>
       {items.map(({ title, items: subItems }, i) => {
-        const target = kebabCase(title.toLowerCase());
+        const target = title && kebabCase(title.toLowerCase());
         return (
           <Fragment key={title || i}>
             {title && (

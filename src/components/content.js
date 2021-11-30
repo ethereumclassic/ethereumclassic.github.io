@@ -1,6 +1,5 @@
 import React from "react";
 import tw from "twin.macro";
-import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
 import { useNavigation } from "../utils/navigationProvider";
 
 import ContentFooter from "./contentFooter";
@@ -24,7 +23,6 @@ function mapToc(item, i18n = item) {
 }
 
 export default function Content({ data: { mdx, contributors }, i18n }) {
-  // pull up the sidebar content to dynamically sho/hide columns for better alignment
   const { sub } = useNavigation();
   const toc = mdx?.headings[0]
     ? mdx?.toc.items[0].items
