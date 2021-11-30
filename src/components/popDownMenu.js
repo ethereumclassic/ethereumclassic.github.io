@@ -13,7 +13,7 @@ export default function PopDownMenu({ children, left, cta }) {
         css={[
           tw`absolute z-10 mt-3 w-screen max-w-md`,
           left
-            ? tw`right-0 max-w-sm md:max-w-md`
+            ? tw`md:right-0 max-w-sm md:max-w-md`
             : tw`left-1/2 transform -translate-x-1/2`,
         ]}
       >

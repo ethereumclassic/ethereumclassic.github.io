@@ -8,7 +8,7 @@ import Icon from "./icon";
 export default function LocaleButtons() {
   const { locale, defaultLocale, basePath, localeItems } = useLocaleItems();
   return (
-    <div tw="grid grid-cols-3 -m-3 overflow-y-auto" css={{ maxHeight: "60vh" }}>
+    <div tw="grid grid-cols-2 md:grid-cols-3 -m-3 overflow-y-auto max-h-[50vh]">
       {localeItems.map(({ key, name, enabled }) => (
         <Link
           key={key}
