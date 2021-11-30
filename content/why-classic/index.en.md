@@ -3,6 +3,8 @@ title: Why Classic?
 description: TODO
 ---
 
+**Note: All content is in bullet point form pending review, and will be properly written once structure is confirmed**
+
 - This section will guide you through ... and explain where ETC came from, where it's going, and how it's going to get there...
 - Not just a run of the mill shitcoin
 - Top 3 reasons why...
