@@ -4,6 +4,9 @@ const { locales, defaultLocale } = require("./configs/locales");
 const redirects = require("./configs/redirects");
 
 module.exports = {
+  flags: {
+    PRESERVE_FILE_DOWNLOAD_CACHE: true,
+  },
   siteMetadata: {
     siteUrl,
     socialImage: "/etc-social-card.png",
@@ -19,9 +22,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-nprogress`,
       options: {
-        // Setting a color is optional.
         color: `#34d399`,
-        // Disable the loading spinner.
         showSpinner: false,
       },
     },

@@ -47,20 +47,20 @@ exports.onCreateNode = async (
       );
     }
   }
-
-  if (
-    node.sourceInstanceName === instanceType &&
-    node.internal.type === `Mdx` &&
-    node.frontmatter?.contributors?.length
-  ) {
+  if (node.internal.type === `Mdx`) {
     const parentNode = getNode(node.parent);
-    node.frontmatter.contributors.forEach((githubId) => {
-      registerContributor({
-        githubId,
-        page: parentNode.relativeDirectory,
-        locale: node.fileAbsolutePath.split(".").slice(-2)[0],
+    if (
+      parentNode.sourceInstanceName === instanceType &&
+      node.frontmatter?.contributors?.length
+    ) {
+      node.frontmatter.contributors.forEach((githubId) => {
+        registerContributor({
+          githubId,
+          page: parentNode.relativeDirectory,
+          locale: node.fileAbsolutePath.split(".").slice(-2)[0],
+        });
       });
-    });
+    }
   }
 };
 
