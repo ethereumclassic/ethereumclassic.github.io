@@ -98,5 +98,61 @@ module.exports = {
         prepareUrl: (id) => `https://avatars.githubusercontent.com/${id}`,
       },
     },
+    {
+      resolve: `gatsby-plugin-remote-images`,
+      options: {
+        nodeType: "VideosVideosCollection",
+        imagePath: "youtube",
+        prepareUrl: (youtube) =>
+          `https://img.youtube.com/vi/${youtube}/hqdefault.jpg`,
+      },
+    },
+    {
+      resolve: "pagination-plugin",
+      options: {
+        itemsPerPage: 16 * 3,
+        basePath: "news",
+        filters: {
+          tags: { type: "tags", slug: "tag" },
+          years: { type: "category", field: "year", slug: "year" },
+        },
+        query: `
+          query TagsYearsQuery {
+            items: allNewsItem {
+              edges {
+                node {
+                  locale
+                  tags
+                  year
+                }
+              }
+            }
+          }
+        `,
+      },
+    },
+    {
+      resolve: "pagination-plugin",
+      options: {
+        itemsPerPage: 8 * 4,
+        basePath: "videos",
+        filters: {
+          tags: { type: "tags", slug: "tag" },
+          // years: { type: "category", field: "year", slug: "year" },
+        },
+        query: `
+          query VideosQuery {
+            items: allVideosVideosCollection {
+              edges {
+                node {
+                  locale
+                  tags
+                }
+              }
+            }
+          }
+        `,
+      },
+    },
   ],
 };
