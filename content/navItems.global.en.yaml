@@ -68,15 +68,22 @@ learn:
         explainers:
           __link: /videos/explainers
           name: Explainers
-          description: TODO
         discussions:
           __link: /videos/discussions
           name: Discussions
-          description: TODO
         conferences:
-          __link: /videos/conferences
+          __link: /videos/tag/conference
           name: Conferences
-          description: TODO
+          navItems:
+            2017:
+              __link: /videos/tag/etc-summit-2017
+              name: 2017 Hong Kong
+            2018:
+              __link: /videos/tag/etc-summit-2018
+              name: 2018 Seoul
+            2019:
+              __link: /videos/tag/etc-summit-2019
+              name: 2019 Vancouver
 play:
   name: Play
   navItems:

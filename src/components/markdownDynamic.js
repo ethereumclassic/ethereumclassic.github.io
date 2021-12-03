@@ -1,6 +1,6 @@
 import React from "react";
 import ReactMarkdown from "react-markdown";
-import "twin.macro";
+import tw from "twin.macro";
 
 import Link from "./link";
 
@@ -16,14 +16,20 @@ export default function Markdown({
   children,
   components: comps,
   unwrap,
-  linkProps,
+  styleLinks,
   ...props
 }) {
   if (children === undefined) {
     return null;
   }
   const components = {
-    a: (myProps) => <Link {...myProps} {...linkProps} showExternal />,
+    a: (myProps) => (
+      <Link
+        {...myProps}
+        css={styleLinks && [tw`font-bold hover:underline`]}
+        showExternal
+      />
+    ),
   };
   if (unwrap) {
     components.root = unwrapParagraphs;

@@ -135,7 +135,7 @@ module.exports = {
     {
       resolve: "pagination-plugin",
       options: {
-        itemsPerPage: 8 * 4,
+        itemsPerPage: 10 * 3,
         basePath: "videos",
         filters: {
           tags: { type: "tags", slug: "tag" },

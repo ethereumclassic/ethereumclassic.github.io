@@ -7,6 +7,9 @@ import Icon from "./icon";
 export default function NewsPagination({ pageContext }) {
   // TODO i18n
   const { currentPage, numPages, filterBase } = pageContext;
+  if (numPages === 1) {
+    return null;
+  }
   const btnStyle = tw`border-b-2 space-x-3 border-transparent py-4 px-1.5 md:px-3 inline-flex items-center text-sm font-medium hover:text-shade-dark hover:border-shade-light`;
   return (
     <nav tw="border-b border-shade-lighter flex items-center justify-between -mx-2 px-2 text-shade-light">

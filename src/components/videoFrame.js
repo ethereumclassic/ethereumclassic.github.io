@@ -2,8 +2,8 @@ import React, { useState } from "react";
 import "twin.macro";
 import Icon from "./icon";
 
-const VideoFrame = ({ title, src, youtube, timestamp }) => {
-  const [play, setPlay] = useState(false);
+const VideoFrame = ({ title, src, youtube, timestamp, autoplay, ...rest }) => {
+  const [play, setPlay] = useState(autoplay);
   const thumb = `https://img.youtube.com/vi/${youtube}/hqdefault.jpg`;
   if (!play) {
     return (

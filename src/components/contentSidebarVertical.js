@@ -1,5 +1,5 @@
 /* This Sidebar requires Tailwind CSS v2.0+ */
-import React from "react";
+import React, { Fragment } from "react";
 import tw from "twin.macro";
 
 import Icon from "./icon";
@@ -29,7 +29,7 @@ function Item({ item: { name, link, icon, current } }) {
   );
 }
 
-function SubItem({ item: { name, key, link, current } }) {
+function SubItem({ small, item: { name, link, current } }) {
   return (
     <Link
       to={link}
@@ -39,6 +39,7 @@ function SubItem({ item: { name, key, link, current } }) {
         current
           ? tw`text-shade-darker font-bold`
           : tw`text-shade-neutral font-light`,
+        small && tw`py-1 pl-4`,
       ]}
     >
       <span tw="truncate">{name}</span>
@@ -58,7 +59,13 @@ export default function ContentSidebarVertical({ items }) {
               aria-labelledby="projects-headline"
             >
               {item.navItems.map((subItem) => (
-                <SubItem key={subItem.key} item={subItem} />
+                <Fragment key={subItem.key}>
+                  <SubItem item={subItem} />
+                  {subItem.current &&
+                    (subItem.navItems || []).map((subSubItem) => (
+                      <SubItem key={subSubItem.key} item={subSubItem} small />
+                    ))}
+                </Fragment>
               ))}
             </div>
           )}

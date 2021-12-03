@@ -16,8 +16,9 @@ function SubItem({ children, icon, ...rest }) {
   );
 }
 
-export default function ContentHeader({ mdx, i18n, ...rest }) {
+export default function ContentHeader({ mdx, i18n, pre, ...rest }) {
   const { ui, section } = useGlobals();
+  const preHeader = pre || section?.header || {};
   const articleHeader = mdx?.headings?.[0]?.value;
   const { title, date, author, updated } = mdx?.meta || i18n;
   const header = articleHeader || title;
@@ -26,12 +27,12 @@ export default function ContentHeader({ mdx, i18n, ...rest }) {
     <div tw="flex" {...rest}>
       <div tw="flex-auto">
         <div tw="space-y-2">
-          {section?.header && (
+          {preHeader && (
             <Link
               tw="!text-primary-dark !no-underline text-xl leading-6 font-semibold tracking-wide uppercase"
-              to={section.header.link}
+              to={preHeader.link}
             >
-              {section.header.title}
+              {preHeader.title}
             </Link>
           )}
           {header && (

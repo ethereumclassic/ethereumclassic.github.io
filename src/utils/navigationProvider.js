@@ -7,9 +7,12 @@ function useNavigation() {
   return useContext(NavigationContext);
 }
 
-function NavigationProvider({ children, pageContext: { basePath } }) {
+function NavigationProvider({
+  children,
+  pageContext: { basePath, filterBase },
+}) {
   const { navItems } = useGlobals();
-  const pagePath = `/${basePath}`;
+  const pagePath = filterBase || `/${basePath}`;
   // recursively find submenus from basePath
   const levels = [{ navItems }];
   function getLevels(d = 0) {
@@ -23,7 +26,6 @@ function NavigationProvider({ children, pageContext: { basePath } }) {
         pagePath.startsWith(l1.link) ||
         l1.navItems?.find((l2) => pagePath.startsWith(l2.link))
     );
-
     if (nextLevel) {
       // add "current" flag
       nextLevel.current = true;
@@ -43,10 +45,10 @@ function NavigationProvider({ children, pageContext: { basePath } }) {
       levels[levels.length - 3].navItems.findIndex(({ current }) => current) + 1
     ];
 
-  const [{ navItems: main }, _sub] = levels;
+  const [{ navItems: main }, _sub, subSub] = levels;
   const sub = _sub && !_sub.hideTop ? _sub : null;
   return (
-    <NavigationContext.Provider value={{ main, sub, next }}>
+    <NavigationContext.Provider value={{ main, sub, subSub, next }}>
       {children}
     </NavigationContext.Provider>
   );

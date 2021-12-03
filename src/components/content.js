@@ -22,7 +22,8 @@ function mapToc(item, i18n = item) {
   return null;
 }
 
-export default function Content({ data: { mdx, contributors }, i18n }) {
+export default function Content({ data = {}, i18n = {}, children, max }) {
+  const { mdx, contributors } = data;
   const { sub } = useNavigation();
   const toc = mdx?.headings[0]
     ? mdx?.toc.items[0].items
@@ -32,8 +33,8 @@ export default function Content({ data: { mdx, contributors }, i18n }) {
   return (
     <TwContainer grid>
       {showLeft && (
-        <div tw="hidden md:block md:col-span-3 lg:col-span-2">
-          <nav tw="sticky top-24 mt-10 md:mt-14">
+        <div tw="hidden md:block md:col-span-3 lg:col-span-2 md:mr-10 lg:mr-0">
+          <nav tw="sticky top-28 mt-10 md:mt-14">
             <ContentSidebarVertical items={sub.navItems} />
           </nav>
         </div>
@@ -41,6 +42,7 @@ export default function Content({ data: { mdx, contributors }, i18n }) {
       <main
         css={[
           tw`col-span-full md:col-span-9 lg:col-span-7 xl:col-span-7 mt-10 md:mt-14`,
+          showLeft && tw`md:-ml-10 lg:ml-0`,
           !showRight && showLeft && tw`lg:col-span-8 xl:col-span-8`,
           showRight &&
             !showLeft &&
@@ -48,6 +50,7 @@ export default function Content({ data: { mdx, contributors }, i18n }) {
           !showRight &&
             !showLeft &&
             tw`sm:col-span-full md:col-start-2 md:col-span-10 lg:col-start-3 lg:col-span-8`,
+          max && !showRight && tw`lg:col-span-10`,
         ]}
       >
         {showLeft && (
@@ -58,15 +61,19 @@ export default function Content({ data: { mdx, contributors }, i18n }) {
             />
           </nav>
         )}
-        <article tw="prose max-w-none">
-          <ContentHeader {...{ mdx, i18n }} />
-          {mdx ? (
-            <MarkdownStatic {...{ mdx, i18n }} />
-          ) : (
-            <Generic {...{ i18n }} />
-          )}
-        </article>
-        <ContentFooter {...{ mdx, i18n, contributors }} />
+        {children || (
+          <>
+            <article tw="prose max-w-none">
+              <ContentHeader {...{ mdx, i18n }} />
+              {mdx ? (
+                <MarkdownStatic {...{ mdx, i18n }} />
+              ) : (
+                <Generic {...{ i18n }} />
+              )}
+            </article>
+            <ContentFooter {...{ mdx, i18n, contributors }} />
+          </>
+        )}
       </main>
       {showRight && (
         <aside

@@ -1,2 +1,15 @@
-title: Media
-description: This section will list sortable and categorized videos and playlists
+title: Videos
+description: This section is under construction
+tags:
+  conferneces:
+    title: Conferences
+    description: TODO...
+  etc-summit-2018:
+    title: ETC Summit 2018, Seoul
+    description: Something here...
+  etc-summit-2019:
+    title: ETC Summit 2019, Vancouver
+    description: Something here...
+  etc-summit-2017:
+    title: ETC Summit 2017, Hong Kong
+    description: Something here...

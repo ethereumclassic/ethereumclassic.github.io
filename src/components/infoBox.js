@@ -72,10 +72,7 @@ function MainBox({
           </div>
         )}
         {markdown ? (
-          <Md
-            css={textConf}
-            linkProps={{ css: [tw`font-bold hover:underline`] }}
-          >
+          <Md css={textConf} styleLinks>
             {text}
           </Md>
         ) : (
