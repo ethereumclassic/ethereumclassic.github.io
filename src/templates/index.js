@@ -20,6 +20,7 @@ export const pageQuery = graphql`
           id
           date
           author
+          locale
           source
           link
           title

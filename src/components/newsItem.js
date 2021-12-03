@@ -1,5 +1,6 @@
 import React from "react";
 import tw from "twin.macro";
+import { useLocalization } from "../../plugins/translations-plugin/src/components/localizationProvider";
 
 import dedupeStrings from "../utils/dedupeStrings";
 import FormattedDate from "./formattedDate";
@@ -13,13 +14,17 @@ export default function NewsItem({
   title,
   source,
   blog,
+  locale,
   lines = 2,
   ...rest
 }) {
+  const { defaultLocale } = useLocalization();
+  const localeLink =
+    blog && defaultLocale !== locale ? `/${locale}${link}` : link;
   return (
     <Link
       notLocalized
-      to={link}
+      to={localeLink}
       tw="relative border border-shade-lighter bg-backdrop-light shadow-sm rounded-sm overflow-hidden text-shade-darker hover:text-shade-darkest hover:bg-primary-lightest"
       {...rest}
     >
