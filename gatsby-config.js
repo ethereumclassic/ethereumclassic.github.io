@@ -103,7 +103,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-remote-images`,
       options: {
-        nodeType: "VideosVideosCollection",
+        nodeType: "VideosCollection",
         imagePath: "youtube",
         name: "videoImage",
         prepareUrl: (youtube) =>
@@ -145,7 +145,7 @@ module.exports = {
         },
         query: `
           query VideosQuery {
-            items: allVideosVideosCollection {
+            items: allVideosCollection {
               edges {
                 node {
                   locale

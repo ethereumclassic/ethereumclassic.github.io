@@ -21,7 +21,7 @@ export default function VideosTempalte(_props) {
 }
 
 export const pageQuery = graphql`
-  fragment VideoDeets on VideosVideosCollection {
+  fragment VideoDeets on VideosCollection {
     id
     date
     locale
@@ -44,9 +44,9 @@ export const pageQuery = graphql`
   query (
     $skip: Int!
     $limit: Int!
-    $filterQuery: VideosVideosCollectionFilterInput!
+    $filterQuery: VideosCollectionFilterInput!
   ) {
-    items: allVideosVideosCollection(
+    items: allVideosCollection(
       filter: $filterQuery
       skip: $skip
       limit: $limit
@@ -58,7 +58,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    featured: allVideosVideosCollection(
+    featured: allVideosCollection(
       sort: { fields: date, order: DESC }
       filter: { featured: { eq: true } }
       limit: 3

@@ -32,15 +32,25 @@ exports.onCreateNode = async (
 
   parsedContent.forEach((obj, i) => {
     const id = createNodeId(`${node.id} [${i}] >>> YAML`);
+
     // create type name, eg: NewsLinksCollection
-    const type = _.upperFirst(
-      _.camelCase(
-        `${node.relativePath
-          .split("/")
-          .slice(0, -1)
-          .join(" ")} ${name} ${collectionKey}`
+    const fullName = `${node.relativePath
+      .split("/")
+      .slice(0, -1)
+      .join(" ")} ${name}`;
+
+    // dedupe the name so we don't have VideosVideosCollection etc.
+    const deduped = fullName
+      .split(" ")
+      .reduce(
+        (a, n) =>
+          a.includes(n.toLocaleLowerCase())
+            ? a
+            : a.concat(n.toLocaleLowerCase()),
+        []
       )
-    );
+      .join(" ");
+    const type = _.upperFirst(_.camelCase(`${deduped} ${collectionKey}`));
 
     const yamlNode = {
       ...obj,
