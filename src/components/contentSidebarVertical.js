@@ -39,7 +39,7 @@ function SubItem({ small, item: { name, link, current } }) {
         current
           ? tw`text-shade-darker font-bold`
           : tw`text-shade-neutral font-light`,
-        small && tw`py-1 border-l-2 pl-3`,
+        small && tw`py-1 border-l-2 pl-3 border-shade-lighter`,
       ]}
     >
       <span tw="truncate">{name}</span>

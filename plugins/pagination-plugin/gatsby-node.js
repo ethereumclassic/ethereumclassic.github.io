@@ -103,8 +103,6 @@ exports.onCreatePage = async (
           filterQuery,
         },
       };
-      // if (p.path.includes("videos") {})
-      // console.log(p);
       createPage(p);
     });
   });

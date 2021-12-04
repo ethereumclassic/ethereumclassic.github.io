@@ -160,7 +160,7 @@ module.exports = {
     {
       resolve: "pagination-plugin",
       options: {
-        itemsPerPage: 10 * 3,
+        itemsPerPage: 3 * 3,
         basePath: "services/apps",
         filters: {
           tags: { type: "tags", slug: "/" },

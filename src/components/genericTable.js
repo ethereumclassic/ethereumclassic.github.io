@@ -29,7 +29,7 @@ function CellContent({ item, column, i18n }) {
     inner = item[column.checkRef] ? (
       <Icon icon="check" tw="h-4 text-primary-neutral" />
     ) : (
-      <Icon icon="times" tw="h-4 text-shade-light" />
+      <Icon icon="times" tw="h-4 text-shade-lighter" />
     );
   }
 

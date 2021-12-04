@@ -120,6 +120,25 @@ play:
         apps:
           __link: /services/apps
           name: Apps
+          navItems:
+            nfts:
+              __link: /services/apps/nfts
+              name: NFTs
+            games:
+              __link: /services/apps/games
+              name: Games
+            identity:
+              __link: /services/apps/identity
+              name: Identity
+            interoperability:
+              __link: /services/apps/interoperability
+              name: Interoperability
+            finance:
+              __link: /services/apps/finance
+              name: Finance
+            other:
+              __link: /services/apps/other
+              name: Other
     community:
       __link: /community
       __icon: users

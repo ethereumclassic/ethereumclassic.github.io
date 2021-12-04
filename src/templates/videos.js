@@ -1,22 +1,13 @@
 import { graphql } from "gatsby";
 
-import GlobalLayout from "../components/globalLayout";
-// import News from "../components/news";
+import TaggedLayout from "../components/taggedLayout";
 import Videos from "../components/videos";
 
-export default function VideosTempalte(_props) {
-  const { pageContext, i18n } = _props;
-  const filter = pageContext.filter && i18n.tags[pageContext.filter];
-  const content = filter || i18n;
-  content.disclaimer = true;
-  const props = {
-    ..._props,
-    i18n: { ..._props.i18n, ...content },
-  };
+export default function VideosTempalte(props) {
   return (
-    <GlobalLayout {...props}>
+    <TaggedLayout {...props}>
       <Videos {...props} />
-    </GlobalLayout>
+    </TaggedLayout>
   );
 }
 

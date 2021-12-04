@@ -1,23 +1,13 @@
 import { graphql } from "gatsby";
-import Json from "../../components/json";
 
-import GlobalLayout from "../../components/globalLayout";
-// import News from "../../components/news";
-// import Videos from "../../components/videos";
+import TaggedLayout from "../../components/taggedLayout";
+import Apps from "../../components/apps";
 
-export default function AppsTemplate(_props) {
-  const { pageContext, i18n } = _props;
-  const filter = pageContext.filter && i18n.tags[pageContext.filter];
-  const content = filter || i18n;
-  content.disclaimer = true;
-  const props = {
-    ..._props,
-    i18n: { ..._props.i18n, ...content },
-  };
+export default function AppsTemplate(props) {
   return (
-    <GlobalLayout {...props}>
-      <Json {...props} />
-    </GlobalLayout>
+    <TaggedLayout {...props}>
+      <Apps {...props} />
+    </TaggedLayout>
   );
 }
 
@@ -37,6 +27,11 @@ export const pageQuery = graphql`
         node {
           id
           name
+          image {
+            childImageSharp {
+              gatsbyImageData(width: 250, aspectRatio: 1, placeholder: BLURRED)
+            }
+          }
         }
       }
     }

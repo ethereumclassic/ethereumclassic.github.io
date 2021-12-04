@@ -4,9 +4,10 @@ import "twin.macro";
 import Link from "./link";
 
 import Icon from "./icon";
-import VideosItem from "./videosItem";
 
-export default function Videos({ pageContext, data, i18n }) {
+import AppsItem from "./appsItem";
+
+export default function Apps({ pageContext, data, i18n }) {
   return (
     <>
       {pageContext.currentPage === 1 && pageContext.filter === undefined && (
@@ -16,15 +17,12 @@ export default function Videos({ pageContext, data, i18n }) {
             to="https://github.com/ethereumclassic.github.io"
           >
             <Icon icon="plus" tw="h-5" />
-            <div>Earn ETC by submitting your own videos!</div>
+            <div>Earn ETC by submitting your own apps!</div>
           </Link>
-          {data.featured.edges.map(({ node }) => (
-            <VideosItem key={node.id} item={node} featured />
-          ))}
         </>
       )}
       {data.items.edges.map(({ node }) => (
-        <VideosItem key={node.id} item={node} />
+        <AppsItem key={node.id} item={node} />
       ))}
     </>
   );
