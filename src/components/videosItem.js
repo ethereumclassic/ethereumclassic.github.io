@@ -29,12 +29,16 @@ export default function VideosItem({ item, featured }) {
           />
         </>
       )}
-      <div tw="aspect-w-16 aspect-h-9 w-full -my-0.5">
-        <GatsbyImage image={getImage(videoImage)} alt={title} />
+      <div tw="aspect-w-16 aspect-h-9 w-full overflow-hidden">
+        <GatsbyImage
+          image={getImage(videoImage)}
+          alt={title}
+          tw="w-auto transition-all -mx-px group-hover:scale-110"
+        />
       </div>
       <div
         css={[
-          tw`text-primary-darkest bg-primary-lightest px-3 py-2 text-sm flex items-center`,
+          tw`text-primary-darkest bg-primary-lightest px-3 py-2 text-sm flex items-center space-x-2`,
           featured && tw`bg-secondary-lighter text-secondary-darkest`,
         ]}
       >

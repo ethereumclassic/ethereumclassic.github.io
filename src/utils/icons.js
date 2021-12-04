@@ -58,6 +58,7 @@ export {
   faWrench as wrench,
   faPlayCircle as play,
   faStar as star,
+  faImages as images,
   // in timeline
   faRocket as rocket,
   faSnowflake as snowflake,

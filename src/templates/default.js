@@ -35,7 +35,6 @@ export const pageQuery = graphql`
       edges {
         node {
           githubId
-          locale
           githubImage {
             childImageSharp {
               gatsbyImageData(

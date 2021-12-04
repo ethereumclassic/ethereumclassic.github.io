@@ -8,7 +8,7 @@ import Link from "./link";
 
 export default function ContentSidebarInline({ items, disclaimer }) {
   const item = items.find(({ current }) => current);
-  if (!item) {
+  if (!item || !item.navItems) {
     return null;
   }
   return (
