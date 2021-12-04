@@ -25,9 +25,9 @@ export const pageQuery = graphql`
   query (
     $skip: Int!
     $limit: Int!
-    $filterQuery: VideosCollectionFilterInput!
+    $filterQuery: ServicesAppsCollectionFilterInput!
   ) {
-    items: allVideosCollection(
+    items: allServicesAppsCollection(
       filter: $filterQuery
       skip: $skip
       limit: $limit
@@ -35,18 +35,8 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
-          ...VideoDeets
-        }
-      }
-    }
-    featured: allVideosCollection(
-      sort: { fields: date, order: DESC }
-      filter: { featured: { eq: true } }
-      limit: 3
-    ) {
-      edges {
-        node {
-          ...VideoDeets
+          id
+          name
         }
       }
     }

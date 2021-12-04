@@ -66,26 +66,26 @@ learn:
       description: A collection of videos and podcasts to keep you informed on ETC concepts and happenings
       navItems:
         explainers:
-          __link: /videos/tag/explainers
+          __link: /videos/explainers
           name: Explainers
         discussions:
-          __link: /videos/tag/discussions
+          __link: /videos/discussions
           name: Discussions
         predictions:
-          __link: /videos/tag/predictions
+          __link: /videos/predictions
           name: Predictions
         conferences:
-          __link: /videos/tag/conferences
+          __link: /videos/conferences
           name: Conferences
           navItems:
             2017:
-              __link: /videos/tag/etc-summit-2017
+              __link: /videos/etc-summit-2017
               name: 2017 Hong Kong
             2018:
-              __link: /videos/tag/etc-summit-2018
+              __link: /videos/etc-summit-2018
               name: 2018 Seoul
             2019:
-              __link: /videos/tag/etc-summit-2019
+              __link: /videos/etc-summit-2019
               name: 2019 Vancouver
     memes:
       __link: /memes

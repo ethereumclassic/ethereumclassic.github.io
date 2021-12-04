@@ -2,67 +2,79 @@
   link: https://etcpunks.com/
   text: ETCPunks are inspired collectibles, the first NFT porject on Ethereum Classic! Only 10,000 made, all with unique features. Collect them, buy one as a gift for someone or trade them on the marketplace!
   tags: ["nft"]
-  created: 2021-10-20
+  date: 2021-10-20
   image: ./etcpunks.png
 - name: Aqua Bank
   tags: ["game"]
   link: https://aqua.xenobank.com/
   text: In this game you take care about whale. Fish lives in a protected area with other endangered species. Player is supposed to feed the whale using plankton in order to let it grow. Whale also produces oil as it consumes plankton. Oil and whale meat slices are requested at the Port, where they also supply plankton for feeding. Relax by watching fish in the aquarium grow
-  created: 2021-10-20
+  date: 2021-10-20
 - name: Commonwealth Tribes
   tags: ["game"]
   link: https://commonwealth.gg/tribes.html
   text: The purpose of Tribes is to reduce risk in investing in Commonwealth. Invest as a tribe!
-  created: 2021-10-20
+  date: 2021-10-20
 - name: OriginalMy
   link: https://originalmy.com/
   text: "Building trust in corporate governance. Seamlessly authenticating: identities, authorisation signatures, and digital content. A global public utility for self-sovereign identity."
   tags: ["identity"]
 - name: Stampery
+  date: 2021-10-20
   link: https://stampery.com/
   text: We leverage blockchain technology to ensure the existence, integrity and attribution of communications, processes and data important for your organization.
   tags: ["identity"]
 - name: BTC-to-wBTC
+  date: 2021-10-20
   link: https://wbtc.network/
   text: Wrapped Bitcoin delivers the power of Bitcoin with the flexibility of an ERC20 token. Bitcoin tokenized on EVMs.
   tags: ["interoperabiltiy"]
 - name: ETC-to-wETC
+  date: 2021-10-20
   link: https://wetc.app/
   text: The Ethereum Classic Bridge connects ETC-to-ETH, where ETC is available as wETC on the Ethereum (ETH) chain.
   tags: ["interoperabiltiy"]
 - name: EVM-to-BNC Bridge
+  date: 2021-10-20
   link: https://docs.tokenbridge.net/eth-bnc-bridge/about-eth-bnc-bridge
   text: The EVM-to-BNC bridge combines the TokenBridge approach with a TSS to approve relay operations and facilitate asset transfer between an EVM chain and the Binance chain.
   tags: ["interoperabiltiy"]
 - name: Token Bridge
+  date: 2021-10-20
   link: https://docs.tokenbridge.net/
   text: The TokenBridge allows users to transfer data (e.g. digital asset ownership information) between two chains in the Ethereum ecosystem. Cross-chain bridges provide fast and secure connections between blockchains, creating scalability and connection - interoperability - between Ethereum EVM networks.
   tags: ["interoperabiltiy"]
 - name: Celsius Network
+  date: 2021-10-20
   link: https://celsius.network/
   text: Celsius Network, the industry-leading cryptocurrency interest-earning platform, allows ETC holders to deposit their digital assets into the Celsius wallet and earn interests.
   tags: ["finance"]
 - name: Commonwealth
+  date: 2021-10-20
   link: https://commonwealth.gg
   text: The World’s Savings Fund. Immutable. Built 2018.
   tags: ["finance"]
 - name: GitCoin
+  date: 2021-10-20
   link: https://gitcoin.co/
   text: Crowdfunding and Freelance Developers for Open Source Software Projects.
   tags: ["finance"]
 - name: Cryptwerk
+  date: 2021-10-20
   link: https://cryptwerk.com/pay-with/etc/
   text: Pay with Ethereum Classic. Companies and stores accepting ETC. Spend your crypto.
   tags: ["other"]
 - name: Grayscale® Ethereum Classic Trust
+  date: 2021-10-20
   link: https://grayscale.co/ethereum-classic-trust/
   text: Grayscale Ethereum Classic Trust enables investors to gain exposure to the price movement of ETC through a traditional investment vehicle, without the challenges of buying, storing, and safekeeping ETC.
   tags: ["other"]
 - name: Portal.Network
+  date: 2021-10-20
   link: https://www.portal.network/
   text: Blockchain Name Service enables connections with IPFS hash, smart contract, and wallet address.
   tags: ["other"]
 - name: XAR Network
+  date: 2021-10-20
   link: https://xar.network/
   text: Xar Network was created from a need of corporate and central banks to use blockchain technology in a private, permissioned space. As our feature set grew we noticed consistent cross-over with the decentralized finance ecosystem, so eventually the Xar toolkit grew to a full-fledged decentralized finance toolbox. Xar Network offers access to advantages of both purely traditional banking systems and blockchain systems - using blockchain based or decentralized finance (DeFi).
   tags: ["other"]

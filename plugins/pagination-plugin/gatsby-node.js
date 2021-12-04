@@ -67,7 +67,7 @@ exports.onCreatePage = async (
     all[camelCase(`all ${fKey}`)] = resultKeys;
     resultKeys.forEach((fItem) => {
       pageGroups.push({
-        path: `${page.path}/${config.filters[fKey].slug}/${fItem}`,
+        path: `${page.path}${config.filters[fKey].slug}${fItem}`,
         items: fResult[fItem],
         filter: fItem,
         filterType: fKey,
@@ -86,7 +86,7 @@ exports.onCreatePage = async (
         ...(type === "tags" && { [field]: { in: filter } }),
         ...(type === "category" && { [field]: { eq: filter } }),
       };
-      createPage({
+      const p = {
         ...page,
         path: isFirst ? path : `${path}/page/${currentPage}`,
         context: {
@@ -102,7 +102,10 @@ exports.onCreatePage = async (
           filterType,
           filterQuery,
         },
-      });
+      };
+      // if (p.path.includes("videos") {})
+      // console.log(p);
+      createPage(p);
     });
   });
 };
