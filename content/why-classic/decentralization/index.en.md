@@ -21,3 +21,12 @@ How does ETC prevent itself from being captured?
 ## Sound Money
 
 - Small infractions or exceptions are intolorable as they will accumulate over time until the system becomes captured
+
+- Long Term Time Preference
+- The Decentralization Spectrum
+- Sovereign Grade Censorship Resistance
+- Principles over Pragmatism?
+- Protocol Neutrality
+- Natural vs Artificial Contribution
+- Competition for the Neutrality Niche
+- The Centralization Gravity Well

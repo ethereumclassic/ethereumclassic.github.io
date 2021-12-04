@@ -1,6 +1,15 @@
 title: Videos
-description: This section is under construction
+description: User submitted videos, TODO add description
 tags:
+  explainers:
+    title: Explainers
+    description: TODO...
+  predictions:
+    title: Predictions
+    description: TODO...
+  discussions:
+    title: Discussions
+    description: TODO...
   conferneces:
     title: Conferences
     description: TODO...

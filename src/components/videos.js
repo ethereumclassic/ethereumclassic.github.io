@@ -17,7 +17,7 @@ export default function Videos({ pageContext, data, i18n }) {
         <Pagination {...{ pageContext }} />
       </div>
       <div tw="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 md:gap-3">
-        {pageContext.currentPage === 1 && pageContext.filter !== "conferences" && (
+        {pageContext.currentPage === 1 && pageContext.filter === undefined && (
           <>
             <Link
               tw="col-span-full border-2 rounded-lg border-dashed text-shade-light  bg-backdrop-light border-shade-lighter hover:text-shade-neutral hover:bg-backdrop-dark flex items-center justify-center space-x-4 p-3"
@@ -26,6 +26,9 @@ export default function Videos({ pageContext, data, i18n }) {
               <Icon icon="plus" tw="h-5" />
               <div>Earn ETC by submitting your own videos!</div>
             </Link>
+            {data.featured.edges.map(({ node }) => (
+              <VideosItem key={node.id} item={node} featured />
+            ))}
           </>
         )}
         {data.items.edges.map(({ node }) => (

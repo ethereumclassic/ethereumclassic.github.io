@@ -57,6 +57,7 @@ export {
   faHistory as update,
   faWrench as wrench,
   faPlayCircle as play,
+  faStar as star,
   // in timeline
   faRocket as rocket,
   faSnowflake as snowflake,

@@ -36,7 +36,7 @@ export const pageQuery = graphql`
         node {
           githubId
           locale
-          localImage {
+          githubImage {
             childImageSharp {
               gatsbyImageData(
                 width: 40

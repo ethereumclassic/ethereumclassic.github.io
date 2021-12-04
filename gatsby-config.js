@@ -96,6 +96,7 @@ module.exports = {
       options: {
         nodeType: "ContributorAvatar",
         imagePath: "githubId",
+        name: "githubImage",
         prepareUrl: (id) => `https://avatars.githubusercontent.com/${id}`,
       },
     },
@@ -104,6 +105,7 @@ module.exports = {
       options: {
         nodeType: "VideosVideosCollection",
         imagePath: "youtube",
+        name: "videoImage",
         prepareUrl: (youtube) =>
           `https://img.youtube.com/vi/${youtube}/hqdefault.jpg`,
       },

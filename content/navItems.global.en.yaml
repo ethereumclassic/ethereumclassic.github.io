@@ -66,13 +66,16 @@ learn:
       description: A collection of videos and podcasts to keep you informed on ETC concepts and happenings
       navItems:
         explainers:
-          __link: /videos/explainers
+          __link: /videos/tag/explainers
           name: Explainers
         discussions:
-          __link: /videos/discussions
+          __link: /videos/tag/discussions
           name: Discussions
+        predictions:
+          __link: /videos/tag/predictions
+          name: Predictions
         conferences:
-          __link: /videos/tag/conference
+          __link: /videos/tag/conferences
           name: Conferences
           navItems:
             2017:
