@@ -127,23 +127,31 @@ exports.createPages = async (
   }
 
   function getImports(dir, locale) {
+    function sripFileNames(items) {
+      return items.map((i) => i.split(".").slice(0, -1).join("."));
+    }
+
     const dirs = [""].concat(dir.split("/"));
-    const globals = dirs
-      .map((_str, i) => {
-        const subFolder = dirs.slice(1, dirs.length - i).join("/");
-        return (groupedFiles[subFolder] || []).filter(
-          (file) =>
-            file.includes(`.global.`) &&
-            !file.includes(`.${collectionKey}.`) &&
-            file.endsWith(`${locale}.yaml`)
-        );
-      })
-      .reduce((p, n) => p.concat(n), []);
-    const locals = (groupedFiles[dir] || []).filter(
-      (file) =>
-        !file.includes(`.global.`) &&
-        !file.includes(`.${collectionKey}.`) &&
-        file.endsWith(`${locale}.yaml`)
+    const globals = sripFileNames(
+      dirs
+        .map((_str, i) => {
+          const subFolder = dirs.slice(1, dirs.length - i).join("/");
+          return (groupedFiles[subFolder] || []).filter(
+            (file) =>
+              file.includes(`.global.`) &&
+              !file.includes(`.${collectionKey}.`) &&
+              file.endsWith(`${locale}.yaml`)
+          );
+        })
+        .reduce((p, n) => p.concat(n), [])
+    );
+    const locals = sripFileNames(
+      (groupedFiles[dir] || []).filter(
+        (file) =>
+          !file.includes(`.global.`) &&
+          !file.includes(`.${collectionKey}.`) &&
+          file.endsWith(`${locale}.yaml`)
+      )
     );
     return { locals, globals };
   }

@@ -1,4 +1,9 @@
-import React, { useContext } from "react";
+import React, { useContext, useState } from "react";
+import dayjs from "dayjs/dayjs.min.js";
+import localizedPlugin from "dayjs/plugin/localizedFormat";
+import "dayjs/locale/en";
+
+dayjs.extend(localizedPlugin);
 
 const LocaleContext = React.createContext();
 
@@ -21,6 +26,15 @@ function LocalizationProvider({
     dayJsImport,
   },
 }) {
+  const [dayJsLoaded, setLoaded] = useState(!dayJsImport);
+  if (dayJsImport && dayJsLoaded !== dayJsImport) {
+    // TODO find a better way, React 18?
+    import(`dayjs/locale/${dayJsImport}`).then((res) => {
+      dayjs.locale(dayJsImport);
+      setLoaded(dayJsImport);
+    });
+  }
+
   return (
     <LocaleContext.Provider
       value={{
@@ -29,7 +43,8 @@ function LocalizationProvider({
         isDefaultLocale,
         basePath,
         globals,
-        dayJsImport,
+        dayJsImport: dayJsLoaded && dayJsLoaded === dayJsImport,
+        dayjs,
       }}
     >
       {children}
@@ -37,4 +52,10 @@ function LocalizationProvider({
   );
 }
 
-export { LocalizationProvider, LocaleContext, useGlobals, useLocalization };
+export {
+  LocalizationProvider,
+  LocaleContext,
+  useGlobals,
+  useLocalization,
+  dayjs,
+};

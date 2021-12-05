@@ -10,7 +10,7 @@ function importFiles(fileList) {
     const key = file.split("/").pop().split(".")[0];
     // TODO replace with configurable path
     // import and clone the data as we're going to be transforming it
-    const data = cloneDeep(require(`../../../../content/${file}`));
+    const data = cloneDeep(require(`../../../../content/${file}.yaml`));
     if (key === "index") {
       return { ...o, ...data };
     }
@@ -77,10 +77,6 @@ function getTranslations(pageContext) {
   // skip pages not controlled by this plugin
   if (!pageContext.defaultLocaleImports) {
     return {};
-  }
-  // require dayJs localization
-  if (pageContext.dayJsImport) {
-    require(`dayjs/locale/${pageContext.dayJsImport}`);
   }
   // import and merge
   const merged = mergeWith(
