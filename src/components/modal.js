@@ -3,10 +3,7 @@ import { Dialog, Transition } from "@headlessui/react";
 import tw from "twin.macro";
 import { ClassNames } from "@emotion/react";
 
-import TwContainer from "./twContainer";
-import VideosModalContent from "./videosModalContent";
-
-export default function VideosModal({ children, item, ...rest }) {
+export default function Modal({ children, content, cinema, ...rest }) {
   const [open, setOpen] = useState(false);
   // prevent the modal rending in the dom before it's needed
   const [renderModal, setRenderModal] = useState(false);
@@ -42,13 +39,19 @@ export default function VideosModal({ children, item, ...rest }) {
                     leaveFrom={css(tw`opacity-100`)}
                     leaveTo={css(tw`opacity-0`)}
                   >
-                    <Dialog.Overlay tw="fixed inset-0 bg-gray-950 bg-opacity-90 transition-opacity backdrop-blur-md" />
+                    <Dialog.Overlay
+                      css={[
+                        tw`fixed inset-0 bg-gray-950 bg-opacity-10 transition-opacity backdrop-blur-md`,
+                        cinema && tw`bg-opacity-90`,
+                      ]}
+                    />
                   </Transition.Child>
 
                   {/* This element is to trick the browser into centering the modal contents. */}
                   <span
                     tw="hidden sm:inline-block sm:align-middle sm:h-screen"
                     aria-hidden="true"
+                    ref={cancelButtonRef}
                   >
                     &#8203;
                   </span>
@@ -66,11 +69,7 @@ export default function VideosModal({ children, item, ...rest }) {
                     )}
                   >
                     <div tw="inline-block align-middle text-left overflow-hidden transform transition-all text-white w-full pointer-events-none">
-                      <TwContainer>
-                        <div tw="pointer-events-auto">
-                          <VideosModalContent item={item} />
-                        </div>
-                      </TwContainer>
+                      {content}
                     </div>
                   </Transition.Child>
                 </div>

@@ -3,7 +3,7 @@ contribute: true
 meta: A collection of dapps, applications and protocols built on top of Ethereum Classic
 disclaimer: true
 description: Ethereum Classic hosts a growing collection of decentralized applications and protocols. This page is an overview of the state of the ETC network development.
-tags:
+types:
   nfts:
     title: Non Fungible Tokens
     description: TODO

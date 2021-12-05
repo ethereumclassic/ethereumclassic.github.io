@@ -5,13 +5,32 @@ import Apps from "../../components/apps";
 
 export default function AppsTemplate(props) {
   return (
-    <TaggedLayout {...props}>
+    <TaggedLayout {...props} field="types">
       <Apps {...props} />
     </TaggedLayout>
   );
 }
 
 export const pageQuery = graphql`
+  fragment AppDeets on ServicesAppsCollection {
+    id
+    name
+    homepage
+    app
+    twitter
+    github
+    author
+    authorLink
+    description
+    type
+    date
+    image {
+      childImageSharp {
+        gatsbyImageData(width: 250, aspectRatio: 1, placeholder: BLURRED)
+      }
+    }
+  }
+
   query (
     $skip: Int!
     $limit: Int!
@@ -25,13 +44,7 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
-          id
-          name
-          image {
-            childImageSharp {
-              gatsbyImageData(width: 250, aspectRatio: 1, placeholder: BLURRED)
-            }
-          }
+          ...AppDeets
         }
       }
     }

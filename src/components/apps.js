@@ -13,7 +13,7 @@ export default function Apps({ pageContext, data, i18n }) {
       {pageContext.currentPage === 1 && pageContext.filter === undefined && (
         <>
           <Link
-            tw="col-span-full border-2 rounded-lg border-dashed text-shade-light  bg-backdrop-light border-shade-lighter hover:text-shade-neutral hover:bg-backdrop-dark flex items-center justify-center space-x-4 p-3"
+            tw="col-span-full border-2 rounded-lg border-dashed text-shade-light bg-backdrop-light border-shade-lighter hover:text-shade-neutral hover:bg-backdrop-dark flex items-center justify-center space-x-4 p-3"
             to="https://github.com/ethereumclassic.github.io"
           >
             <Icon icon="plus" tw="h-5" />
@@ -22,7 +22,7 @@ export default function Apps({ pageContext, data, i18n }) {
         </>
       )}
       {data.items.edges.map(({ node }) => (
-        <AppsItem key={node.id} item={node} />
+        <AppsItem key={node.id} item={node} showType={!pageContext.filter} />
       ))}
     </>
   );

@@ -6,6 +6,8 @@ const redirects = require("./configs/redirects");
 module.exports = {
   flags: {
     PRESERVE_FILE_DOWNLOAD_CACHE: true,
+    FAST_DEV: true,
+    PARALLEL_SOURCING: true,
   },
   siteMetadata: {
     siteUrl,
@@ -141,7 +143,6 @@ module.exports = {
         basePath: "videos",
         filters: {
           tags: { type: "tags", slug: "/" },
-          // years: { type: "category", field: "year", slug: "year" },
         },
         query: `
           query VideosQuery {
@@ -163,8 +164,7 @@ module.exports = {
         itemsPerPage: 3 * 3,
         basePath: "services/apps",
         filters: {
-          tags: { type: "tags", slug: "/" },
-          // years: { type: "category", field: "year", slug: "year" },
+          type: { type: "category", slug: "/" },
         },
         query: `
           query AppsQuery {
@@ -172,7 +172,7 @@ module.exports = {
               edges {
                 node {
                   locale
-                  tags
+                  type
                 }
               }
             }

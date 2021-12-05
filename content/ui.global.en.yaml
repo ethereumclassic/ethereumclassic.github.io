@@ -74,3 +74,29 @@ socialItems:
     __link: https://twitter.com/etheruemclassic
     __icon: twitter
     name: Twitter
+## App types
+# available colors: red, yellow, green, blue, indigo, purple, pink, gray
+appTypes:
+  finance:
+    __color: green
+    name: Finance
+  games:
+    __color: blue
+    name: Games
+  identity:
+    __color: red
+    name: Identity
+  interoperability:
+    __color: yellow
+    name: Interoperability
+  nfts:
+    __color: purple
+    name: NFTs
+  other:
+    __color: gray
+    name: Other
+appLinks:
+  homepage: Homepage
+  app: App Site
+  twitter: Twitter
+  github: Github

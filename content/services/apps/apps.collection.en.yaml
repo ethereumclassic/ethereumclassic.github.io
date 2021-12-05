@@ -1,81 +1,142 @@
 - name: ETCPunks
-  link: https://etcpunks.com/
-  text: ETCPunks are inspired collectibles, the first NFT porject on Ethereum Classic! Only 10,000 made, all with unique features. Collect them, buy one as a gift for someone or trade them on the marketplace!
-  tags: ["nfts"]
+  homepage: https://etcpunks.com/
+  app: https://etcpunks.com/
+  twitter: https://etcpunks.com/
+  github: https://etcpunks.com/
+  author: Something Labs
+  authorLink: https://etcpunks.com/
+  description: ETCPunks are inspired collectibles, the first NFT porject on Ethereum Classic! Only 10,000 made, all with unique features. Collect them, buy one as a gift for someone or trade them on the marketplace!
+  type: nfts
   date: 2021-10-20
   image: ./images/etcpunks.jpeg
 - name: Aqua Bank
-  tags: ["games"]
-  link: https://aqua.xenobank.com/
-  text: In this game you take care about whale. Fish lives in a protected area with other endangered species. Player is supposed to feed the whale using plankton in order to let it grow. Whale also produces oil as it consumes plankton. Oil and whale meat slices are requested at the Port, where they also supply plankton for feeding. Relax by watching fish in the aquarium grow
+  type: games
+  homepage: https://aqua.xenobank.com/
+  app: https://aqua.xenobank.com/
+  twitter: https://aqua.xenobank.com/
+  github: https://aqua.xenobank.com/
+  author: Something Labs
+  description: In this game you take care about whale. Fish lives in a protected area with other endangered species. Player is supposed to feed the whale using plankton in order to let it grow. Whale also produces oil as it consumes plankton. Oil and whale meat slices are requested at the Port, where they also supply plankton for feeding. Relax by watching fish in the aquarium grow
   date: 2021-10-20
   image: ./images/etcpunks.png
 - name: Commonwealth Tribes
-  tags: ["games"]
-  link: https://commonwealth.gg/tribes.html
-  text: The purpose of Tribes is to reduce risk in investing in Commonwealth. Invest as a tribe!
+  type: games
+  homepage: https://commonwealth.gg/tribes.html
+  description: The purpose of Tribes is to reduce risk in investing in Commonwealth. Invest as a tribe!
   date: 2021-10-20
 - name: OriginalMy
-  link: https://originalmy.com/
-  text: "Building trust in corporate governance. Seamlessly authenticating: identities, authorisation signatures, and digital content. A global public utility for self-sovereign identity."
-  tags: ["identity"]
+  homepage: https://originalmy.com/
+  app: https://originalmy.com/
+  twitter: https://originalmy.com/
+  github: https://originalmy.com/
+  author: Something Labs
+  description: "Building trust in corporate governance. Seamlessly authenticating: identities, authorisation signatures, and digital content. A global public utility for self-sovereign identity."
+  type: identity
 - name: Stampery
   date: 2021-10-20
-  link: https://stampery.com/
-  text: We leverage blockchain technology to ensure the existence, integrity and attribution of communications, processes and data important for your organization.
-  tags: ["identity"]
+  homepage: https://stampery.com/
+  app: https://stampery.com/
+  twitter: https://stampery.com/
+  github: https://stampery.com/
+  author: Something Labs
+  description: We leverage blockchain technology to ensure the existence, integrity and attribution of communications, processes and data important for your organization.
+  type: identity
 - name: BTC-to-wBTC
   date: 2021-10-20
-  link: https://wbtc.network/
-  text: Wrapped Bitcoin delivers the power of Bitcoin with the flexibility of an ERC20 token. Bitcoin tokenized on EVMs.
-  tags: ["interoperability"]
+  homepage: https://wbtc.network/
+  app: https://wbtc.network/
+  twitter: https://wbtc.network/
+  github: https://wbtc.network/
+  author: Something Labs
+  description: Wrapped Bitcoin delivers the power of Bitcoin with the flexibility of an ERC20 token. Bitcoin tokenized on EVMs.
+  type: interoperability
 - name: ETC-to-wETC
   date: 2021-10-20
-  link: https://wetc.app/
-  text: The Ethereum Classic Bridge connects ETC-to-ETH, where ETC is available as wETC on the Ethereum (ETH) chain.
-  tags: ["interoperability"]
+  homepage: https://wetc.app/
+  app: https://wetc.app/
+  twitter: https://wetc.app/
+  github: https://wetc.app/
+  author: Something Labs
+  description: The Ethereum Classic Bridge connects ETC-to-ETH, where ETC is available as wETC on the Ethereum (ETH) chain.
+  type: interoperability
 - name: EVM-to-BNC Bridge
   date: 2021-10-20
-  link: https://docs.tokenbridge.net/eth-bnc-bridge/about-eth-bnc-bridge
-  text: The EVM-to-BNC bridge combines the TokenBridge approach with a TSS to approve relay operations and facilitate asset transfer between an EVM chain and the Binance chain.
-  tags: ["interoperability"]
+  homepage: https://docs.tokenbridge.net/eth-bnc-bridge/about-eth-bnc-bridge
+  app: https://docs.tokenbridge.net/eth-bnc-bridge/about-eth-bnc-bridge
+  twitter: https://docs.tokenbridge.net/eth-bnc-bridge/about-eth-bnc-bridge
+  github: https://docs.tokenbridge.net/eth-bnc-bridge/about-eth-bnc-bridge
+  author: Something Labs
+  description: The EVM-to-BNC bridge combines the TokenBridge approach with a TSS to approve relay operations and facilitate asset transfer between an EVM chain and the Binance chain.
+  type: interoperability
 - name: Token Bridge
   date: 2021-10-20
-  link: https://docs.tokenbridge.net/
-  text: The TokenBridge allows users to transfer data (e.g. digital asset ownership information) between two chains in the Ethereum ecosystem. Cross-chain bridges provide fast and secure connections between blockchains, creating scalability and connection - interoperability - between Ethereum EVM networks.
-  tags: ["interoperability"]
+  homepage: https://docs.tokenbridge.net/
+  app: https://docs.tokenbridge.net/
+  twitter: https://docs.tokenbridge.net/
+  github: https://docs.tokenbridge.net/
+  author: Something Labs
+  description: The TokenBridge allows users to transfer data (e.g. digital asset ownership information) between two chains in the Ethereum ecosystem. Cross-chain bridges provide fast and secure connections between blockchains, creating scalability and connection - interoperability - between Ethereum EVM networks.
+  type: interoperability
 - name: Celsius Network
   date: 2021-10-20
-  link: https://celsius.network/
-  text: Celsius Network, the industry-leading cryptocurrency interest-earning platform, allows ETC holders to deposit their digital assets into the Celsius wallet and earn interests.
-  tags: ["finance"]
+  homepage: https://celsius.network/
+  app: https://celsius.network/
+  twitter: https://celsius.network/
+  github: https://celsius.network/
+  author: Something Labs
+  description: Celsius Network, the industry-leading cryptocurrency interest-earning platform, allows ETC holders to deposit their digital assets into the Celsius wallet and earn interests.
+  type: finance
 - name: Commonwealth
   date: 2021-10-20
-  link: https://commonwealth.gg
-  text: The World’s Savings Fund. Immutable. Built 2018.
-  tags: ["finance"]
+  homepage: https://commonwealth.gg
+  app: https://commonwealth.gg
+  twitter: https://commonwealth.gg
+  github: https://commonwealth.gg
+  author: Something Labs
+  description: The World’s Savings Fund. Immutable. Built 2018.
+  type: finance
 - name: GitCoin
   date: 2021-10-20
-  link: https://gitcoin.co/
-  text: Crowdfunding and Freelance Developers for Open Source Software Projects.
-  tags: ["finance"]
+  homepage: https://gitcoin.co/
+  app: https://gitcoin.co/
+  twitter: https://gitcoin.co/
+  github: https://gitcoin.co/
+  author: Something Labs
+  description: Crowdfunding and Freelance Developers for Open Source Software Projects.
+  type: finance
 - name: Cryptwerk
   date: 2021-10-20
-  link: https://cryptwerk.com/pay-with/etc/
-  text: Pay with Ethereum Classic. Companies and stores accepting ETC. Spend your crypto.
-  tags: ["other"]
+  homepage: https://cryptwerk.com/pay-with/etc/
+  app: https://cryptwerk.com/pay-with/etc/
+  twitter: https://cryptwerk.com/pay-with/etc/
+  github: https://cryptwerk.com/pay-with/etc/
+  author: Something Labs
+  description: Pay with Ethereum Classic. Companies and stores accepting ETC. Spend your crypto.
+  type: other
 - name: Grayscale® Ethereum Classic Trust
   date: 2021-10-20
-  link: https://grayscale.co/ethereum-classic-trust/
-  text: Grayscale Ethereum Classic Trust enables investors to gain exposure to the price movement of ETC through a traditional investment vehicle, without the challenges of buying, storing, and safekeeping ETC.
-  tags: ["other"]
+  homepage: https://grayscale.co/ethereum-classic-trust/
+  app: https://grayscale.co/ethereum-classic-trust/
+  twitter: https://grayscale.co/ethereum-classic-trust/
+  github: https://grayscale.co/ethereum-classic-trust/
+  author: Something Labs
+  description: Grayscale Ethereum Classic Trust enables investors to gain exposure to the price movement of ETC through a traditional investment vehicle, without the challenges of buying, storing, and safekeeping ETC.
+  type: other
 - name: Portal.Network
   date: 2021-10-20
-  link: https://www.portal.network/
-  text: Blockchain Name Service enables connections with IPFS hash, smart contract, and wallet address.
-  tags: ["other"]
+  homepage: https://www.portal.network/
+  app: https://www.portal.network/
+  twitter: https://www.portal.network/
+  github: https://www.portal.network/
+  author: Something Labs
+  description: Blockchain Name Service enables connections with IPFS hash, smart contract, and wallet address.
+  type: other
 - name: XAR Network
   date: 2021-10-20
-  link: https://xar.network/
-  text: Xar Network was created from a need of corporate and central banks to use blockchain technology in a private, permissioned space. As our feature set grew we noticed consistent cross-over with the decentralized finance ecosystem, so eventually the Xar toolkit grew to a full-fledged decentralized finance toolbox. Xar Network offers access to advantages of both purely traditional banking systems and blockchain systems - using blockchain based or decentralized finance (DeFi).
-  tags: ["other"]
+  homepage: https://xar.network/
+  app: https://xar.network/
+  twitter: https://xar.network/
+  github: https://xar.network/
+  author: Something Labs
+  description: Xar Network was created from a need of corporate and central banks to use blockchain technology in a private, permissioned space. As our feature set grew we noticed consistent cross-over with the decentralized finance ecosystem, so eventually the Xar toolkit grew to a full-fledged decentralized finance toolbox. Xar Network offers access to advantages of both purely traditional banking systems and blockchain systems - using blockchain based or decentralized finance (DeFi).
+  type: other

@@ -3,9 +3,9 @@ import "twin.macro";
 import GlobalLayout from "./globalLayout";
 import TaggedContent from "./taggedContent";
 
-export default function TaggedLayout({ children, ..._props }) {
+export default function TaggedLayout({ children, field = "tags", ..._props }) {
   const { pageContext, i18n } = _props;
-  const filter = pageContext.filter && i18n.tags[pageContext.filter];
+  const filter = pageContext.filter && i18n[field][pageContext.filter];
   const content = filter || i18n;
   content.disclaimer = true;
   const props = {
