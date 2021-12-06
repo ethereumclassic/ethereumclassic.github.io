@@ -1,6 +1,6 @@
 import React from "react";
 import tw from "twin.macro";
-import Link from "./link";
+import LandingSubHeader from "./landingSubHeader";
 
 import VideosItem from "./videosItem";
 
@@ -8,12 +8,11 @@ export default function LandingVideos({ items }) {
   return (
     <>
       <div>
-        <div tw="flex space-x-2 mb-8">
-          <h3 tw="flex-1 text-xl font-bold">Latest Videos</h3>
-          <Link button secondary to="/videos" icon="right">
-            All Videos
-          </Link>
-        </div>
+        <LandingSubHeader
+          title="Latest Videos"
+          button="All Videos"
+          link="/videos"
+        />
         <div tw="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-2 gap-4">
           {items.map(({ node }, i) => (
             <VideosItem

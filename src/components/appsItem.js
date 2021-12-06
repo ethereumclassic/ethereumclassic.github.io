@@ -10,27 +10,44 @@ import Md from "./markdownDynamic";
 import Link from "./link";
 import Icon from "./icon";
 
-export default function AppsItem({ item, showType = true, ...rest }) {
+export default function AppsItem({
+  item,
+  monochrome,
+  showType = true,
+  ...rest
+}) {
   const {
     ui: { appTypes },
   } = useGlobals();
   const { title, authorLink, date, image, type, author, description, links } =
     item;
-  console.log(item);
   const appType = appTypes[type];
-  const col = appColors[appType.color] || appColors.default;
+  const trueCol = appColors[appType.color] || appColors.default;
+  const col = monochrome ? appColors.gray : trueCol;
   return (
     <Modal
       content={
         <div tw="max-w-2xl mx-auto">
           <div tw="pointer-events-auto bg-backdrop-light rounded-xl shadow-lg p-6">
-            <div tw="flex space-x-4">
-              {image && (
+            <div tw="flex space-x-6">
+              {image ? (
                 <GatsbyImage
                   image={getImage(image)}
                   alt={title}
-                  tw="w-24 h-24 sm:w-52 sm:h-52 bg-white rounded-lg"
+                  tw="h-24 w-24 sm:w-52 sm:h-52 bg-white rounded-lg"
                 />
+              ) : (
+                <div
+                  css={[
+                    tw`h-24 w-24 sm:w-52 sm:h-52 overflow-hidden rounded-lg flex items-center justify-center`,
+                    trueCol.icon,
+                  ]}
+                >
+                  <Icon
+                    icon={appType.icon || "etc"}
+                    tw="w-16 h-16 sm:w-32 sm:h-32 rotate-12"
+                  />
+                </div>
               )}
               <div tw="flex-1">
                 <div tw="text-sm text-shade-neutral space-x-2">
@@ -85,22 +102,35 @@ export default function AppsItem({ item, showType = true, ...rest }) {
       <div
         className="group"
         css={[
-          tw`h-20 relative flex cursor-pointer shadow-md rounded-md overflow-hidden items-center border border-shade-lightest`,
+          tw`h-24 relative cursor-pointer shadow-sm rounded-lg border border-shade-lightest overflow-hidden`,
           col.fg,
         ]}
       >
         <div css={[tw`absolute inset-0 dark:opacity-30`, col.bg]} />
-        {image && (
-          <GatsbyImage
-            image={getImage(image)}
-            alt={title}
-            tw="h-20 w-20 bg-white"
-          />
-        )}
-        <div tw="p-2 pl-4 z-10">
-          <div tw="text-lg line-clamp-2 leading-tight">{title}</div>
-          <div tw="overflow-ellipsis opacity-60">
-            {showType ? appType.name : author}
+        <div tw="relative z-10">
+          {image ? (
+            <GatsbyImage
+              image={getImage(image)}
+              alt={title}
+              tw="h-24 w-24 bg-white"
+            />
+          ) : (
+            <div
+              css={[
+                tw`h-24 w-24 overflow-hidden flex items-center justify-center`,
+                col.icon,
+              ]}
+            >
+              <Icon icon={appType.icon || "etc"} tw="w-14 h-14 rotate-12" />
+            </div>
+          )}
+          <div tw="absolute inset-0 left-24 px-4 flex items-center">
+            <div tw="w-full">
+              <div tw="text-lg line-clamp-2 leading-tight">{title}</div>
+              <div tw="whitespace-nowrap opacity-60 overflow-hidden overflow-ellipsis">
+                {showType ? appType.name : author}
+              </div>
+            </div>
           </div>
         </div>
       </div>

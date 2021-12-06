@@ -59,6 +59,11 @@ export {
   faPlayCircle as play,
   faStar as star,
   faImages as images,
+  faIdCard as identity,
+  faGamepad as game,
+  faSync as exchange,
+  faChartLine as finance,
+  faAward as award,
   // in timeline
   faRocket as rocket,
   faSnowflake as snowflake,

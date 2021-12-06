@@ -35,7 +35,7 @@ export default function Landing({
             )}
           </div>
         </div>
-        <div tw="grid grid-cols-1 lg:grid-cols-2 gap-24">
+        <div tw="grid grid-cols-1 lg:grid-cols-2 gap-16 xl:gap-24">
           <LandingVideos items={videos.edges} />
           <LandingApps items={apps.edges} />
         </div>

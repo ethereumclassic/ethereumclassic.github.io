@@ -79,20 +79,26 @@ socialItems:
 appTypes:
   finance:
     __color: green
+    __icon: finance
     name: Finance
   games:
+    __icon: game
     __color: blue
     name: Games
   identity:
+    __icon: identity
     __color: red
     name: Identity
   interoperability:
+    __icon: exchange
     __color: yellow
     name: Interoperability
   nfts:
+    __icon: award
     __color: purple
     name: NFTs
   other:
+    __icon: etc
     __color: gray
     name: Other
 appLinks:

@@ -33,7 +33,7 @@ export const pageQuery = graphql`
       }
     }
     apps: allServicesAppsCollection(
-      limit: 6
+      limit: 12
       sort: { fields: date, order: DESC }
     ) {
       edges {
