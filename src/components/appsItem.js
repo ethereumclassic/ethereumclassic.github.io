@@ -14,7 +14,7 @@ export default function AppsItem({ item, showType = true }) {
   const {
     ui: { appTypes, appLinks },
   } = useGlobals();
-  const { name, authorLink, date, image, type, author, description } = item;
+  const { title, authorLink, date, image, type, author, description } = item;
   const appType = appTypes[type];
   const col = appColors[appType.color] || appColors.default;
   return (
@@ -26,7 +26,7 @@ export default function AppsItem({ item, showType = true }) {
               {image && (
                 <GatsbyImage
                   image={getImage(image)}
-                  alt={name}
+                  alt={title}
                   tw="w-24 h-24 sm:w-44 sm:h-44 bg-white rounded-lg"
                 />
               )}
@@ -35,7 +35,7 @@ export default function AppsItem({ item, showType = true }) {
                   <span>{appType.name}</span>
                   <FormattedDate date={date} />
                 </div>
-                <div tw="text-2xl flex-auto text-shade-darkest">{name}</div>
+                <div tw="text-2xl flex-auto text-shade-darkest">{title}</div>
                 <div tw="text-xl text-shade-dark">
                   {authorLink ? (
                     <Link showExternal to={authorLink}>
@@ -80,12 +80,12 @@ export default function AppsItem({ item, showType = true }) {
       {image && (
         <GatsbyImage
           image={getImage(image)}
-          alt={name}
+          alt={title}
           tw="h-20 w-20 bg-white"
         />
       )}
       <div tw="p-2 pl-4 text-shade-darkest">
-        <div tw="text-lg line-clamp-2 leading-tight">{name}</div>
+        <div tw="text-lg line-clamp-2 leading-tight">{title}</div>
         <div tw="text-shade-neutral overflow-ellipsis">
           {showType ? appType.name : author}
         </div>

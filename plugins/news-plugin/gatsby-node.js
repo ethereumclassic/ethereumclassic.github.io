@@ -1,6 +1,19 @@
 // This script sets up the news items
 // combines blog and newslinks into single queriable NewsItem type
 
+// TODO make this configurable
+
+const types = {
+  VideosCollection: "video",
+  ServicesAppsCollection: "application",
+  NewsLinksCollection: "news",
+};
+
+const ignoreTags = {
+  video: true,
+  application: true,
+};
+
 exports.onCreateNode = async ({
   node,
   actions: { createNode, createParentChildLink },
@@ -8,24 +21,21 @@ exports.onCreateNode = async ({
   getNode,
   createContentDigest,
 }) => {
+  // filter out irrelevent nodes
   if (
-    !(
-      node.internal.type === `NewsLinksCollection` ||
-      node.internal.type === `Mdx`
-    )
-  ) {
-    return;
-  }
-  if (
-    node.internal.type === `Mdx` &&
-    !node.fileAbsolutePath.includes("/content/blog/")
+    !(types[node.internal.type] || node.internal.type === `Mdx`) ||
+    (node.internal.type === `Mdx` &&
+      !node.fileAbsolutePath.includes("/content/blog/"))
   ) {
     return;
   }
 
   function createNewsItem(obj) {
+    const newsType = obj.newsType || types[node.internal.type];
     const newsItem = {
       ...obj,
+      newsType,
+      tags: ignoreTags[newsType] ? [newsType] : [...obj.tags, "news"],
       id: createNodeId(`${node.id} >>> NEWS ITEM`),
       children: [],
       parent: node.id,
@@ -47,7 +57,7 @@ exports.onCreateNode = async ({
     createNewsItem({
       ...node.frontmatter,
       locale: parentNode.absolutePath.split(".").slice(-2)[0],
-      blog: true,
+      newsType: "blog",
       link: `/${parentNode.relativeDirectory}`,
       tags: ["blog"].concat(node.frontmatter?.tags || []),
     });

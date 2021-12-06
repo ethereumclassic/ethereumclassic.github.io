@@ -13,32 +13,43 @@ export default function NewsItem({
   link,
   title,
   source,
-  blog,
+  newsType,
   locale,
   lines = 2,
   ...rest
 }) {
-  const { defaultLocale } = useLocalization();
+  const blog = newsType === "blog";
+  const {
+    defaultLocale,
+    globals: {
+      ui: { newsTypes },
+    },
+  } = useLocalization();
+  const type = newsTypes[newsType] || {};
   const localeLink =
-    blog && defaultLocale !== locale ? `/${locale}${link}` : link;
+    link && blog && defaultLocale !== locale ? `/${locale}${link}` : link;
+  const LinkComp = link ? Link : "div";
   return (
-    <Link
-      notLocalized
+    <LinkComp
+      notLocalized={link}
       to={localeLink}
-      tw="relative border border-shade-lighter bg-backdrop-light shadow-sm rounded-sm overflow-hidden text-shade-darker hover:text-shade-darkest hover:bg-primary-lightest"
+      css={[
+        tw`relative cursor-pointer  border border-shade-lighter bg-backdrop-light shadow-sm rounded-sm overflow-hidden text-shade-darker hover:text-shade-darkest hover:bg-primary-lightest`,
+        type.prefix && tw`hover:bg-shade-lightest`,
+      ]}
       {...rest}
     >
       <div
         css={[
           tw`text-primary-darkest bg-primary-lightest px-3 py-2 text-sm`,
           blog && tw`bg-primary-lighter`,
+          type.prefix && tw`bg-shade-lightest text-shade-dark`,
         ]}
       >
-        {blog && (
-          <div tw="absolute top-2 right-2 z-10 select-none">
-            <Icon icon="etc" tw="opacity-30 h-5" />
-          </div>
-        )}
+        <div tw="absolute top-2 right-2 z-10 select-none flex opacity-60 items-center space-x-1.5">
+          <div>{type.name || newsType}</div>
+          <Icon icon={type.icon} tw="opacity-30 h-3.5 w-3.5" />
+        </div>
         <FormattedDate
           tw="overflow-ellipsis overflow-hidden whitespace-nowrap w-full"
           date={date}
@@ -50,18 +61,12 @@ export default function NewsItem({
       <div
         css={[
           tw`m-3`,
-          [
-            tw`line-clamp-1`,
-            tw`line-clamp-2`,
-            tw`line-clamp-3`,
-            tw`line-clamp-4`,
-            tw`line-clamp-5`,
-            tw`line-clamp-6`,
-          ][lines - 1],
+          [tw`line-clamp-1`, tw`line-clamp-2`, tw`line-clamp-3`][lines - 1],
         ]}
       >
+        {type.prefix}
         {title}
       </div>
-    </Link>
+    </LinkComp>
   );
 }

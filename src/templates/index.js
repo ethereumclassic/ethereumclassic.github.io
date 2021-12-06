@@ -14,17 +14,14 @@ export default function LayoutLanding(props) {
 
 export const pageQuery = graphql`
   query {
-    newsItems: allNewsItem(limit: 5, sort: { fields: date, order: DESC }) {
+    newsItems: allNewsItem(
+      filter: { tags: { in: "news" } }
+      limit: 5
+      sort: { fields: date, order: DESC }
+    ) {
       edges {
         node {
-          id
-          date
-          author
-          locale
-          source
-          link
-          title
-          blog
+          ...NewsDeets
         }
       }
     }

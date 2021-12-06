@@ -100,3 +100,18 @@ appLinks:
   app: App Site
   twitter: Twitter
   github: Github
+newsTypes:
+  news:
+    name: Link
+    __icon: external
+  blog:
+    name: Blog
+    __icon: etc
+  application:
+    name: App
+    prefix: "New App: "
+    __icon: cursor
+  video:
+    name: Video
+    prefix: "New Video: "
+    __icon: video

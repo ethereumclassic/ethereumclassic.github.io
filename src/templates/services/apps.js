@@ -14,7 +14,7 @@ export default function AppsTemplate(props) {
 export const pageQuery = graphql`
   fragment AppDeets on ServicesAppsCollection {
     id
-    name
+    title
     homepage
     app
     twitter

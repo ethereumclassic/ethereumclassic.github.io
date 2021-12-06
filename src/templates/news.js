@@ -12,6 +12,17 @@ export default function NewsTempalte(props) {
 }
 
 export const pageQuery = graphql`
+  fragment NewsDeets on NewsItem {
+    id
+    date
+    locale
+    author
+    source
+    link
+    title
+    newsType
+  }
+
   query ($skip: Int!, $limit: Int!, $filterQuery: NewsItemFilterInput!) {
     items: allNewsItem(
       filter: $filterQuery
@@ -21,19 +32,7 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
-          id
-          date
-          locale
-          author
-          source
-          link
-          title
-          blog
-          parent {
-            ... on Mdx {
-              excerpt(pruneLength: 400)
-            }
-          }
+          ...NewsDeets
         }
       }
     }

@@ -8,7 +8,7 @@ tags: Tags
 tagNames:
   blog: ETC Blog
   announcement: Announcements
-  application: Applications
+  application: Apps
   development: Development
   education: Education
   event: Events
@@ -22,3 +22,5 @@ tagNames:
   tech: Technology
   trading: Trading
   wallet: Wallets
+  videos: Videos
+  news: Headlines
