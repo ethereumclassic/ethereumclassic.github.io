@@ -106,7 +106,7 @@ newsTypes:
     __icon: external
   blog:
     name: Blog
-    __icon: etc
+    __icon: news
   application:
     name: App
     prefix: "New App: "

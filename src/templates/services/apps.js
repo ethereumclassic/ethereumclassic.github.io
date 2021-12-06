@@ -15,18 +15,18 @@ export const pageQuery = graphql`
   fragment AppDeets on ServicesAppsCollection {
     id
     title
-    homepage
-    app
-    twitter
-    github
     author
     authorLink
     description
     type
     date
+    links {
+      name
+      link
+    }
     image {
       childImageSharp {
-        gatsbyImageData(width: 250, aspectRatio: 1, placeholder: BLURRED)
+        gatsbyImageData(width: 208, aspectRatio: 1)
       }
     }
   }

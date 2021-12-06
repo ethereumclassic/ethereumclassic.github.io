@@ -34,7 +34,7 @@ export default function NewsItem({
       notLocalized={link}
       to={localeLink}
       css={[
-        tw`relative cursor-pointer  border border-shade-lighter bg-backdrop-light shadow-sm rounded-sm overflow-hidden text-shade-darker hover:text-shade-darkest hover:bg-primary-lightest`,
+        tw`relative cursor-pointer  border border-shade-lightest bg-backdrop-light shadow-sm rounded-sm overflow-hidden text-shade-darker hover:text-shade-darkest hover:bg-primary-lightest`,
         type.prefix && tw`hover:bg-shade-lightest`,
       ]}
       {...rest}
@@ -46,21 +46,20 @@ export default function NewsItem({
           type.prefix && tw`bg-shade-lightest text-shade-dark`,
         ]}
       >
-        <div tw="absolute top-2 right-2 z-10 select-none flex opacity-60 items-center space-x-1.5">
-          <div>{type.name || newsType}</div>
-          <Icon icon={type.icon} tw="opacity-30 h-3.5 w-3.5" />
+        <div tw="absolute top-2 right-2 z-10 select-none flex opacity-40 items-center">
+          <Icon icon={type.icon} tw="h-3.5 w-3.5" />
         </div>
         <FormattedDate
           tw="overflow-ellipsis overflow-hidden whitespace-nowrap w-full"
           date={date}
         />
-        <div tw="font-bold overflow-ellipsis overflow-hidden whitespace-nowrap w-full">
+        <div tw="overflow-ellipsis overflow-hidden whitespace-nowrap w-full">
           {dedupeStrings(author, source)}
         </div>
       </div>
       <div
         css={[
-          tw`m-3`,
+          tw`mx-3 my-2 line-clamp-3 font-medium text-sm`,
           [tw`line-clamp-1`, tw`line-clamp-2`, tw`line-clamp-3`][lines - 1],
         ]}
       >

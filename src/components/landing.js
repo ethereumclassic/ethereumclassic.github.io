@@ -5,19 +5,21 @@ import LandingBillboard from "./landingBillboard";
 import Link from "./link";
 
 import Md from "./markdownDynamic";
-import NewsReel from "./newsReel";
 import TwContainer from "./twContainer";
+import LandingHeadlines from "./landingHeadlines";
+import LandingVideos from "./landingVideos";
+import LandingApps from "./landingApps";
 
 export default function Landing({
-  data: { newsItems },
+  data: { headlines, videos, apps },
   i18n: { billboard, intro },
 }) {
   return (
     <>
       <LandingBillboard {...billboard} />
-      <TwContainer tw="py-16 space-y-16">
-        <NewsReel items={newsItems} />
-        <div tw="grid grid-cols-1 items-center gap-16 md:grid-cols-2">
+      <TwContainer tw="py-24 space-y-32">
+        <LandingHeadlines items={headlines.edges} />
+        <div tw="grid grid-cols-1 items-center gap-24 md:grid-cols-2">
           <div tw="prose">
             <h3>{intro.title}</h3>
             <Md>{intro.content}</Md>
@@ -32,6 +34,10 @@ export default function Landing({
               </Link>
             )}
           </div>
+        </div>
+        <div tw="grid grid-cols-1 lg:grid-cols-2 gap-24">
+          <LandingVideos items={videos.edges} />
+          <LandingApps items={apps.edges} />
         </div>
       </TwContainer>
     </>

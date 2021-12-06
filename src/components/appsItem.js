@@ -10,24 +10,26 @@ import Md from "./markdownDynamic";
 import Link from "./link";
 import Icon from "./icon";
 
-export default function AppsItem({ item, showType = true }) {
+export default function AppsItem({ item, showType = true, ...rest }) {
   const {
-    ui: { appTypes, appLinks },
+    ui: { appTypes },
   } = useGlobals();
-  const { title, authorLink, date, image, type, author, description } = item;
+  const { title, authorLink, date, image, type, author, description, links } =
+    item;
+  console.log(item);
   const appType = appTypes[type];
   const col = appColors[appType.color] || appColors.default;
   return (
     <Modal
       content={
         <div tw="max-w-2xl mx-auto">
-          <div tw="pointer-events-auto bg-backdrop-light rounded-xl shadow-lg p-4">
+          <div tw="pointer-events-auto bg-backdrop-light rounded-xl shadow-lg p-6">
             <div tw="flex space-x-4">
               {image && (
                 <GatsbyImage
                   image={getImage(image)}
                   alt={title}
-                  tw="w-24 h-24 sm:w-44 sm:h-44 bg-white rounded-lg"
+                  tw="w-24 h-24 sm:w-52 sm:h-52 bg-white rounded-lg"
                 />
               )}
               <div tw="flex-1">
@@ -45,20 +47,26 @@ export default function AppsItem({ item, showType = true }) {
                     author
                   )}
                 </div>
-                <div tw="mt-6">
-                  {["app", "homepage", "twitter", "github"]
-                    .filter((t) => item[t])
-                    .map((t) => (
-                      <Link button secondary to={item[t]} tw="mr-1 mb-1">
-                        {appLinks[t]}
+                {links && (
+                  <div tw="mt-6">
+                    {links.map((link) => (
+                      <Link
+                        id={link.name}
+                        button
+                        secondary
+                        to={link.link}
+                        tw="mr-1 mb-1"
+                      >
+                        {link.name}
                       </Link>
                     ))}
-                </div>
-                <div tw="text-secondary-dark text-sm">
+                  </div>
+                )}
+                <div tw="text-secondary-dark text-sm mt-4">
                   <Icon icon="warning" tw="h-4 mr-1 inline" />
                   <b>Warning: </b>
-                  This app is NOT vetted or guarunteed to be safe; use at your
-                  own risk, and always do your own research!
+                  This user-submitted app is NOT vetted and NOT guarunteed to be
+                  safe; use at your own risk, and always do your own research!
                 </div>
               </div>
             </div>
@@ -72,22 +80,28 @@ export default function AppsItem({ item, showType = true }) {
           </div>
         </div>
       }
-      css={[
-        col.bg,
-        tw`h-20 flex cursor-pointer relative shadow-sm rounded-md overflow-hidden items-center bg-opacity-30 hover:bg-opacity-50`,
-      ]}
+      {...rest}
     >
-      {image && (
-        <GatsbyImage
-          image={getImage(image)}
-          alt={title}
-          tw="h-20 w-20 bg-white"
-        />
-      )}
-      <div tw="p-2 pl-4 text-shade-darkest">
-        <div tw="text-lg line-clamp-2 leading-tight">{title}</div>
-        <div tw="text-shade-neutral overflow-ellipsis">
-          {showType ? appType.name : author}
+      <div
+        className="group"
+        css={[
+          tw`h-20 relative flex cursor-pointer shadow-md rounded-md overflow-hidden items-center border border-shade-lightest`,
+          col.fg,
+        ]}
+      >
+        <div css={[tw`absolute inset-0 dark:opacity-30`, col.bg]} />
+        {image && (
+          <GatsbyImage
+            image={getImage(image)}
+            alt={title}
+            tw="h-20 w-20 bg-white"
+          />
+        )}
+        <div tw="p-2 pl-4 z-10">
+          <div tw="text-lg line-clamp-2 leading-tight">{title}</div>
+          <div tw="overflow-ellipsis opacity-60">
+            {showType ? appType.name : author}
+          </div>
         </div>
       </div>
     </Modal>
