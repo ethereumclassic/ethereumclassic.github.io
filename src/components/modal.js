@@ -51,7 +51,7 @@ export default function Modal({
                   }
                 }}
               >
-                <div tw="flex items-end justify-center min-h-screen pt-4 px-4 pb-20 text-center sm:block sm:p-0">
+                <div tw="min-h-screen block p-0">
                   <Transition.Child
                     as={Fragment}
                     enter={css(tw`ease-out duration-300`)}
@@ -71,8 +71,7 @@ export default function Modal({
 
                   {/* This element is to trick the browser into centering the modal contents. */}
                   <span
-                    tw="hidden sm:inline-block sm:align-middle sm:h-screen"
-                    aria-hidden="true"
+                    tw="inline-block align-middle h-screen"
                     ref={cancelButtonRef}
                   >
                     &#8203;
@@ -80,17 +79,13 @@ export default function Modal({
                   <Transition.Child
                     as={Fragment}
                     enter={css(tw`ease-out duration-300`)}
-                    enterFrom={css(
-                      tw`opacity-0 translate-y-4 sm:translate-y-0 sm:scale-95`
-                    )}
-                    enterTo={css(tw`opacity-100 translate-y-0 sm:scale-100`)}
+                    enterFrom={css(tw`translate-y-0 scale-95`)}
+                    enterTo={css(tw`opacity-100 translate-y-0 scale-100`)}
                     leave={css(tw`ease-in duration-200`)}
-                    leaveFrom={css(tw`opacity-100 translate-y-0 sm:scale-100`)}
-                    leaveTo={css(
-                      tw`opacity-0 translate-y-4 sm:translate-y-0 sm:scale-95`
-                    )}
+                    leaveFrom={css(tw`opacity-100 translate-y-0 scale-100`)}
+                    leaveTo={css(tw`opacity-0 translate-y-0 scale-95`)}
                   >
-                    <div tw="inline-block align-middle text-left overflow-hidden transform transition-all text-white w-full pointer-events-none">
+                    <div tw="inline-block align-middle text-left overflow-hidden transform transition-all text-white w-full pointer-events-none px-2">
                       {content}
                     </div>
                   </Transition.Child>

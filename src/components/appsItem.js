@@ -9,6 +9,33 @@ import Modal from "./modal";
 import Md from "./markdownDynamic";
 import Link from "./link";
 import Icon from "./icon";
+import AppsItemModal from "./appsItemModal";
+
+function AppIcon({ image, title, icon, iconCol, big }) {
+  if (image) {
+    return (
+      <GatsbyImage
+        image={getImage(image)}
+        alt={title}
+        css={[tw`h-24 w-24 bg-white rounded-lg`, big && tw`sm:w-52 sm:h-52`]}
+      />
+    );
+  }
+  return (
+    <div
+      css={[
+        tw`h-24 w-24 overflow-hidden rounded-lg flex items-center justify-center`,
+        iconCol,
+        big && tw`sm:w-52 sm:h-52`,
+      ]}
+    >
+      <Icon
+        icon={icon || "etc"}
+        css={[tw`w-16 h-16 rotate-12`, big && tw`sm:w-32 sm:h-32`]}
+      />
+    </div>
+  );
+}
 
 export default function AppsItem({
   item,
@@ -20,94 +47,14 @@ export default function AppsItem({
   const {
     ui: { appTypes },
   } = useGlobals();
-  const {
-    title,
-    slug,
-    authorLink,
-    date,
-    image,
-    type,
-    author,
-    description,
-    links,
-  } = item;
+  const { title, slug, image, type, author } = item;
   const appType = appTypes[type];
   const trueCol = appColors[appType.color] || appColors.default;
   const col = monochrome ? appColors.gray : trueCol;
   return (
     <Modal
       slug={hash && slug}
-      content={
-        <div tw="max-w-2xl mx-auto">
-          <div tw="pointer-events-auto bg-backdrop-light rounded-xl shadow-lg p-6">
-            <div tw="flex space-x-6">
-              {image ? (
-                <GatsbyImage
-                  image={getImage(image)}
-                  alt={title}
-                  tw="h-24 w-24 sm:w-52 sm:h-52 bg-white rounded-lg"
-                />
-              ) : (
-                <div
-                  css={[
-                    tw`h-24 w-24 sm:w-52 sm:h-52 overflow-hidden rounded-lg flex items-center justify-center`,
-                    trueCol.icon,
-                  ]}
-                >
-                  <Icon
-                    icon={appType.icon || "etc"}
-                    tw="w-16 h-16 sm:w-32 sm:h-32 rotate-12"
-                  />
-                </div>
-              )}
-              <div tw="flex-1">
-                <div tw="text-sm text-shade-neutral space-x-2">
-                  <span>{appType.name}</span>
-                  <FormattedDate date={date} />
-                </div>
-                <div tw="text-2xl flex-auto text-shade-darkest">{title}</div>
-                <div tw="text-xl text-shade-dark">
-                  {authorLink ? (
-                    <Link showExternal to={authorLink}>
-                      {author}
-                    </Link>
-                  ) : (
-                    author
-                  )}
-                </div>
-                {links && (
-                  <div tw="mt-6">
-                    {links.map((link) => (
-                      <Link
-                        id={link.name}
-                        button
-                        secondary
-                        to={link.link}
-                        tw="mr-1 mb-1"
-                      >
-                        {link.name}
-                      </Link>
-                    ))}
-                  </div>
-                )}
-                <div tw="text-secondary-dark text-sm mt-4">
-                  <Icon icon="warning" tw="h-4 mr-1 inline" />
-                  <b>Warning: </b>
-                  This user-submitted app is NOT vetted and NOT guarunteed to be
-                  safe; use at your own risk, and always do your own research!
-                </div>
-              </div>
-            </div>
-            {description && (
-              <div tw="mt-4">
-                <div tw="max-h-[30vh] overflow-y-auto">
-                  <Md tw="prose max-w-full">{description}</Md>
-                </div>
-              </div>
-            )}
-          </div>
-        </div>
-      }
+      content={<AppsItemModal {...{ item, appType, trueCol }} />}
       {...rest}
     >
       <div
@@ -119,22 +66,12 @@ export default function AppsItem({
       >
         <div css={[tw`absolute inset-0 dark:opacity-30`, col.bg]} />
         <div tw="relative z-10">
-          {image ? (
-            <GatsbyImage
-              image={getImage(image)}
-              alt={title}
-              tw="h-24 w-24 bg-white"
-            />
-          ) : (
-            <div
-              css={[
-                tw`h-24 w-24 overflow-hidden flex items-center justify-center`,
-                col.icon,
-              ]}
-            >
-              <Icon icon={appType.icon || "etc"} tw="w-14 h-14 rotate-12" />
-            </div>
-          )}
+          <AppIcon
+            image={image}
+            title={title}
+            icon={appType.icon}
+            iconCol={col.icon}
+          />
           <div tw="absolute inset-0 left-24 px-4 flex items-center">
             <div tw="w-full">
               <div tw="text-lg line-clamp-2 leading-tight">{title}</div>

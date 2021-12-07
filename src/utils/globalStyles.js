@@ -61,7 +61,7 @@ const customStyles = css`
   }
 
   body {
-    ${tw`bg-backdrop-dark text-shade-darkest`}
+    ${tw`bg-backdrop-dark text-shade-darkest antialiased`}
     -webkit-tap-highlight-color: var(--primary-light);
   }
 
