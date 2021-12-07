@@ -19,6 +19,7 @@ export default function LandingApps({ items }) {
               id={node.id}
               item={node}
               monochrome
+              hash={false}
               showType={false}
               css={[
                 tw`hidden`,

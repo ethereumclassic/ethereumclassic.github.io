@@ -4,14 +4,13 @@
 // TODO make this configurable
 
 const types = {
-  VideosCollection: "video",
-  ServicesAppsCollection: "application",
-  NewsLinksCollection: "news",
-};
-
-const ignoreTags = {
-  video: true,
-  application: true,
+  NewsLinksCollection: { tag: "news" },
+  VideosCollection: { tag: "video", ignoreTags: true, linkPrefix: "/videos" },
+  ServicesAppsCollection: {
+    tag: "application",
+    ignoreTags: true,
+    linkPrefix: "/services/apps",
+  },
 };
 
 exports.onCreateNode = async ({
@@ -31,11 +30,14 @@ exports.onCreateNode = async ({
   }
 
   function createNewsItem(obj) {
-    const newsType = obj.newsType || types[node.internal.type];
+    const { tag, ignoreTags, linkPrefix } = obj.newsType
+      ? { tag: obj.newsType }
+      : types[node.internal.type];
     const newsItem = {
       ...obj,
-      newsType,
-      tags: ignoreTags[newsType] ? [newsType] : [...obj.tags, "news"],
+      newsType: tag,
+      tags: ignoreTags ? [tag] : [...obj.tags, "news"],
+      link: obj.link || (obj.slug && linkPrefix && `${linkPrefix}#${obj.slug}`),
       id: createNodeId(`${node.id} >>> NEWS ITEM`),
       children: [],
       parent: node.id,

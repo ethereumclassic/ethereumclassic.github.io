@@ -25,7 +25,10 @@ export const pageQuery = graphql`
         }
       }
     }
-    videos: allVideosCollection(limit: 3, sort: { fields: date, order: DESC }) {
+    videos: allVideosCollection(
+      limit: 3
+      sort: { fields: [date, title], order: [DESC, ASC] }
+    ) {
       edges {
         node {
           ...VideoDeets
@@ -34,7 +37,7 @@ export const pageQuery = graphql`
     }
     apps: allServicesAppsCollection(
       limit: 12
-      sort: { fields: date, order: DESC }
+      sort: { fields: [date, title], order: [DESC, ASC] }
     ) {
       edges {
         node {

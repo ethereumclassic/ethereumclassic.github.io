@@ -5,7 +5,6 @@ import "twin.macro";
 import Logo from "./logo";
 import SearchAlgolia from "./searchAlgolia";
 import MainMenu from "./mainMenu";
-import MobileMenu from "./mobileMenu";
 import LocaleSelector from "./localeSelector";
 import DarkModeSwitcher from "./darkModeSwitcher";
 import TwContainer from "./twContainer";

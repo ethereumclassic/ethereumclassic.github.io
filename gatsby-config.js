@@ -124,7 +124,7 @@ module.exports = {
           years: { type: "category", field: "year", slug: "/year/" },
         },
         query: `
-          query TagsYearsQuery {
+          query NewsQuery {
             items: allNewsItem {
               edges {
                 node {
@@ -148,11 +148,14 @@ module.exports = {
         },
         query: `
           query VideosQuery {
-            items: allVideosCollection {
+            items: allVideosCollection(
+              sort: { fields: [date, title], order: [DESC, ASC] }
+            ) {
               edges {
                 node {
                   locale
                   tags
+                  slug
                 }
               }
             }
@@ -163,18 +166,21 @@ module.exports = {
     {
       resolve: "pagination-plugin",
       options: {
-        itemsPerPage: 3 * 3,
+        itemsPerPage: 10 * 3,
         basePath: "services/apps",
         filters: {
           type: { type: "category", slug: "/" },
         },
         query: `
           query AppsQuery {
-            items: allServicesAppsCollection {
+            items: allServicesAppsCollection(
+              sort: { fields: [date, title], order: [DESC, ASC] }
+            ) {
               edges {
                 node {
                   locale
                   type
+                  slug
                 }
               }
             }

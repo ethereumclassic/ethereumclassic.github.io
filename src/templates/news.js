@@ -26,7 +26,7 @@ export const pageQuery = graphql`
   query ($skip: Int!, $limit: Int!, $filterQuery: NewsItemFilterInput!) {
     items: allNewsItem(
       filter: $filterQuery
-      sort: { fields: date, order: DESC }
+      sort: { fields: [date, title], order: [DESC, ASC] }
       skip: $skip
       limit: $limit
     ) {

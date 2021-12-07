@@ -1,6 +1,8 @@
 import React, { Fragment } from "react";
-import { kebabCase } from "lodash";
 import tw from "twin.macro";
+
+import scrollToElement from "../utils/scrollToElement";
+import urlSafe from "../utils/urlSafe";
 
 import Icon from "./icon";
 
@@ -10,7 +12,7 @@ function LinkItems({ items, depth = 0 }) {
   return (
     <>
       {items.map(({ title, items: subItems }, i) => {
-        const target = title && kebabCase(title.toLowerCase());
+        const target = title && urlSafe(title);
         return (
           <Fragment key={title || i}>
             {title && (
@@ -27,16 +29,7 @@ function LinkItems({ items, depth = 0 }) {
                 href={`#${target}`}
                 onClick={(e) => {
                   e.preventDefault();
-                  const element = document.getElementById(target);
-                  const offset = 80;
-                  const bodyRect = document.body.getBoundingClientRect().top;
-                  const elementRect = element.getBoundingClientRect().top;
-                  const elementPosition = elementRect - bodyRect;
-                  const offsetPosition = elementPosition - offset;
-                  window.scrollTo({
-                    top: offsetPosition,
-                    behavior: "smooth",
-                  });
+                  scrollToElement(target);
                   window.history.replaceState(
                     undefined,
                     undefined,

@@ -18,6 +18,7 @@ export default function LandingVideos({ items }) {
             <VideosItem
               id={node.id}
               item={node}
+              hash={false}
               css={[
                 i === 0 && tw`lg:col-span-full`,
                 i >= 2 && tw`hidden sm:block`,

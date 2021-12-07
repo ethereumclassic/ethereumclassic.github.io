@@ -20,6 +20,7 @@ export const pageQuery = graphql`
     description
     type
     date
+    slug
     links {
       name
       link
@@ -40,7 +41,7 @@ export const pageQuery = graphql`
       filter: $filterQuery
       skip: $skip
       limit: $limit
-      sort: { fields: date, order: DESC }
+      sort: { fields: [date, title], order: [DESC, ASC] }
     ) {
       edges {
         node {

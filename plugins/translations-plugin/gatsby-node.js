@@ -1,7 +1,11 @@
 const jsYaml = require(`js-yaml`);
 const _ = require(`lodash`);
 
-// register collections
+function urlSafe(str) {
+  return encodeURI(_.kebabCase(str.toLocaleLowerCase()));
+}
+
+// TODO move this into a collections plugin
 exports.onCreateNode = async (
   {
     node,
@@ -55,6 +59,9 @@ exports.onCreateNode = async (
     const yamlNode = {
       ...obj,
       locale,
+      slug: `${
+        obj.date ? new Date(obj.date).toISOString().split("T")[0] + "-" : ""
+      }${urlSafe(obj.title)}`,
       id,
       children: [],
       parent: node.id,

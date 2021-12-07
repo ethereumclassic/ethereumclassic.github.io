@@ -1,12 +1,61 @@
-import React from "react";
+import { navigate } from "gatsby-link";
+import React, { useEffect } from "react";
 import tw from "twin.macro";
 
 import LocalizedLink from "../../plugins/translations-plugin/src/components/localizedLink";
+import scrollToElement from "../utils/scrollToElement";
 import Icon from "./icon";
 
-export default function NewsPagination({ pageContext }) {
+function splitSlug(slug) {
+  return { date: slug.slice(0, 10), title: slug.slice(11) };
+}
+
+function comapreSlugs(slug1, slug2) {
+  const s1 = splitSlug(slug1);
+  const s2 = splitSlug(slug2);
+  if (s1.date > s2.date) {
+    return true;
+  }
+  if (s1.date === s2.date) {
+    return s1.title < s2.title;
+  }
+  return false;
+}
+
+export default function Pagination({ pageContext }) {
   // TODO i18n
+  // if we have hash in the url, try to click that item after we've loaded the content
+  // otherwise redirect to the correct page, and try again
   const { currentPage, numPages, filterBase } = pageContext;
+  useEffect(() => {
+    if (window.location.hash) {
+      const elementId = window.location.hash.slice(1);
+      const element = document.getElementById(elementId);
+      if (element) {
+        element.click();
+        scrollToElement(elementId, 160);
+      } else if (pageContext.slugs) {
+        function navTo(page) {
+          const url =
+            page === 0 ? filterBase : `${filterBase}/page/${page + 1}`;
+          navigate(`${url}#${elementId}`, {
+            replace: true,
+          });
+        }
+        pageContext.slugs.every((slug, i) => {
+          if (slug === elementId || comapreSlugs(elementId, slug)) {
+            navTo(i);
+            return false;
+          }
+          if (i === pageContext.slugs.length - 1) {
+            navTo(pageContext.slugs.length);
+            return false;
+          }
+          return true;
+        });
+      }
+    }
+  }, [pageContext, filterBase, currentPage]);
   if (numPages === 1) {
     return null;
   }

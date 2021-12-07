@@ -1,6 +1,7 @@
 import React from "react";
 import "twin.macro";
-import { kebabCase, isString, isArray } from "lodash";
+import { isString, isArray } from "lodash";
+import urlSafe from "../utils/urlSafe";
 
 function getChildText(children) {
   if (!children) {
@@ -20,7 +21,7 @@ function generateHeader(HX) {
     if (!idText) {
       return <HX {...props}>{children}</HX>;
     }
-    const id = kebabCase(idText.toLocaleLowerCase());
+    const id = urlSafe(idText);
     return (
       <HX {...props} id={id}>
         {/* don't wrap in a link if the child is a link */}

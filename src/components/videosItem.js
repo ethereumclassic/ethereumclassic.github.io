@@ -10,12 +10,13 @@ import VideoFrame from "./videoFrame";
 import Link from "./link";
 import TwContainer from "./twContainer";
 
-export default function VideosItem({ item, featured, ...rest }) {
+export default function VideosItem({ item, featured, hash = true, ...rest }) {
   const {
     author,
     title,
     date,
     youtube,
+    slug,
     authorYoutube,
     description,
     videoImage,
@@ -23,6 +24,7 @@ export default function VideosItem({ item, featured, ...rest }) {
   return (
     <div {...rest}>
       <Modal
+        slug={hash && slug}
         cinema
         content={
           <TwContainer>
@@ -49,7 +51,8 @@ export default function VideosItem({ item, featured, ...rest }) {
         }
         css={[
           tw`cursor-pointer relative border border-shade-lightest bg-backdrop-light shadow-sm rounded-md overflow-hidden text-shade-darker hover:text-shade-darkest hover:bg-primary-lightest`,
-          featured && tw`hover:bg-secondary-lightest`,
+          featured &&
+            tw`bg-primary-lightest text-primary-darkest hover:bg-primary-lighter`,
         ]}
         className="group"
       >
@@ -72,11 +75,11 @@ export default function VideosItem({ item, featured, ...rest }) {
             tw="w-auto transition-all -mx-px group-hover:scale-110"
           />
         </div>
-        <div tw="mx-3 my-2 line-clamp-3 font-medium text-sm">{title}</div>
+        <div tw="px-3 py-2 line-clamp-3 font-medium text-sm">{title}</div>
         <div
           css={[
-            tw`text-primary-darkest bg-primary-lightest px-3 py-2 text-sm flex items-center space-x-2`,
-            featured && tw`bg-secondary-lighter text-secondary-darkest`,
+            tw`text-shade-light px-3 py-2 text-xs flex items-center space-x-2 border-t border-t-shade-lightest`,
+            featured && tw`text-primary-dark border-t-primary-lighter`,
           ]}
         >
           <div tw="overflow-ellipsis overflow-hidden whitespace-nowrap flex-auto">

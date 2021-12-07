@@ -3,19 +3,35 @@ import { Dialog, Transition } from "@headlessui/react";
 import tw from "twin.macro";
 import { ClassNames } from "@emotion/react";
 
-export default function Modal({ children, content, cinema, ...rest }) {
+export default function Modal({
+  children,
+  content,
+  cinema,
+  onOpen,
+  onClose,
+  slug,
+  ...rest
+}) {
   const [open, setOpen] = useState(false);
   // prevent the modal rending in the dom before it's needed
   const [renderModal, setRenderModal] = useState(false);
   const cancelButtonRef = useRef(null);
+  // if an ID is set, we should update the path to it
   return (
     <>
       <div
+        {...rest}
+        id={slug}
         onClick={() => {
           setRenderModal(true);
-          setTimeout(() => setOpen(true), 1);
+          setTimeout(() => {
+            setOpen(true);
+            onOpen && onOpen();
+            if (slug) {
+              window.history.replaceState(null, null, `#${slug}`);
+            }
+          }, 1);
         }}
-        {...rest}
       >
         {children}
       </div>
@@ -27,7 +43,13 @@ export default function Modal({ children, content, cinema, ...rest }) {
                 as="div"
                 tw="fixed z-50 inset-0 overflow-y-auto"
                 initialFocus={cancelButtonRef}
-                onClose={setOpen}
+                onClose={() => {
+                  setOpen(false);
+                  onClose && onClose();
+                  if (slug) {
+                    window.history.replaceState(null, null, " ");
+                  }
+                }}
               >
                 <div tw="flex items-end justify-center min-h-screen pt-4 px-4 pb-20 text-center sm:block sm:p-0">
                   <Transition.Child

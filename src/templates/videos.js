@@ -20,6 +20,7 @@ export const pageQuery = graphql`
     title
     description
     author
+    slug
     authorYoutube
     videoImage {
       childImageSharp {
@@ -36,12 +37,13 @@ export const pageQuery = graphql`
     $skip: Int!
     $limit: Int!
     $filterQuery: VideosCollectionFilterInput!
+    $featuredFilterQuery: VideosCollectionFilterInput!
   ) {
     items: allVideosCollection(
       filter: $filterQuery
       skip: $skip
       limit: $limit
-      sort: { fields: date, order: DESC }
+      sort: { fields: [date, title], order: [DESC, ASC] }
     ) {
       edges {
         node {
@@ -50,8 +52,8 @@ export const pageQuery = graphql`
       }
     }
     featured: allVideosCollection(
-      sort: { fields: date, order: DESC }
-      filter: { featured: { eq: true } }
+      sort: { fields: [date, title], order: [DESC, ASC] }
+      filter: $featuredFilterQuery
       limit: 3
     ) {
       edges {

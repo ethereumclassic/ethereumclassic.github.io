@@ -14,18 +14,29 @@ export default function AppsItem({
   item,
   monochrome,
   showType = true,
+  hash = true,
   ...rest
 }) {
   const {
     ui: { appTypes },
   } = useGlobals();
-  const { title, authorLink, date, image, type, author, description, links } =
-    item;
+  const {
+    title,
+    slug,
+    authorLink,
+    date,
+    image,
+    type,
+    author,
+    description,
+    links,
+  } = item;
   const appType = appTypes[type];
   const trueCol = appColors[appType.color] || appColors.default;
   const col = monochrome ? appColors.gray : trueCol;
   return (
     <Modal
+      slug={hash && slug}
       content={
         <div tw="max-w-2xl mx-auto">
           <div tw="pointer-events-auto bg-backdrop-light rounded-xl shadow-lg p-6">
