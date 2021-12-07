@@ -87,21 +87,21 @@ learn:
             2019:
               __link: /videos/etc-summit-2019
               name: 2019 Vancouver
-    memes:
-      __link: /memes
-      __icon: images
-      name: Memes
-      description: Spreading the good word of ETC involves winning the battle of hearts and minds through the whimsicalities of information warfare
-      navItems:
-        mediaKit:
-          __link: /memes/media-kit
-          name: Media Kit
-        charts:
-          __link: /memes/charts
-          name: Charts
-        etc:
-          __link: /memes/etc
-          name: Etcetera
+    # memes:
+    #   __link: /memes
+    #   __icon: images
+    #   name: Memes
+    #   description: Spreading the good word of ETC involves winning the battle of hearts and minds through the whimsicalities of information warfare
+    #   navItems:
+    #     mediaKit:
+    #       __link: /memes/media-kit
+    #       name: Media Kit
+    #     charts:
+    #       __link: /memes/charts
+    #       name: Charts
+    #     etc:
+    #       __link: /memes/etc
+    #       name: Etcetera
 play:
   name: Play
   navItems:
