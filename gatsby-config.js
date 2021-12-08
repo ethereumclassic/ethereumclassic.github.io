@@ -1,7 +1,10 @@
 const siteUrl = "https://etc3022.netlify.app";
 
+require("dotenv").config({
+  path: `.env.secret`,
+});
+
 const { locales, defaultLocale } = require("./configs/locales");
-const redirects = require("./configs/redirects");
 
 module.exports = {
   flags: {
@@ -12,7 +15,7 @@ module.exports = {
   siteMetadata: {
     siteUrl,
     socialImage: "/etc-social-card.png",
-    redirects,
+    redirects: require("./configs/redirects"),
   },
   plugins: [
     // "gatsby-plugin-perf-budgets",
@@ -33,6 +36,10 @@ module.exports = {
     {
       resolve: "gatsby-plugin-sitemap",
       options: require("./configs/sitemap")({ siteUrl }),
+    },
+    {
+      resolve: "gatsby-plugin-algolia",
+      options: require("./configs/search"),
     },
     // TODO FIXME
     // {
