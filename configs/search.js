@@ -42,6 +42,7 @@ const queries = [
       items: allNewsItem(filter: {newsType: {eq: "news"}}) {
         edges {
           node {
+            id
             link
             author
             date
@@ -64,6 +65,7 @@ const queries = [
       items: allNewsItem(filter: {newsType: {eq: "application"}}) {
         edges {
           node {
+            id
             link
             author
             date
@@ -86,6 +88,7 @@ const queries = [
       items: allNewsItem(filter: {newsType: {eq: "video"}}) {
         edges {
           node {
+            id
             link
             author
             date
