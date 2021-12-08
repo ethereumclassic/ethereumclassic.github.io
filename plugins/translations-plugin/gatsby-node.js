@@ -1,3 +1,106 @@
+const fs = require("fs");
+const yaml = require("js-yaml");
+const {
+  cloneDeep,
+  mergeWith,
+  transform,
+  isObject,
+  isArray,
+} = require("lodash");
+
+const cache = {
+  files: {},
+};
+
+function importFiles(fileList = []) {
+  return fileList.reduce((o, file) => {
+    const key = file.split("/").pop().split(".")[0];
+    // TODO replace with configurable path
+    const loc = `${process.env.PWD}/content/${file}`;
+    const cached = cache.files[loc];
+    const data = cached || yaml.load(fs.readFileSync(loc, "utf-8"));
+    if (!cached && data) {
+      cache.files[loc] = data;
+    }
+    if (key === "index") {
+      return { ...o, ...data };
+    }
+    return { ...o, [key]: data };
+  }, {});
+}
+
+function importTranslations(imports) {
+  if (!imports) {
+    return null;
+  }
+  return {
+    globals: importFiles(imports.globals),
+    locals: importFiles(imports.locals),
+  };
+}
+
+function transformTranslations(obj, rootObj = obj) {
+  return transform(obj, (result, value, key) => {
+    // skip previously nullified fields
+    if (value === null) {
+      return;
+    }
+    // remove trailing double underscores, signifying unlocalizable
+    let newKey = (`${key}`.startsWith("__") && key.slice(2)) || key;
+    let newValue = value;
+
+    // replace `configRef` with parent object of given key
+    if (newKey === "configRef") {
+      const kF = newValue.split(".");
+      // prepend "locals" to search fragments if not globals
+      const sF = kF[0] !== "globals" ? ["locals"].concat(kF) : kF;
+      const res = transformTranslations(
+        sF.reduce((acc, part) => acc && acc[part], rootObj),
+        rootObj
+      );
+      // apply to result
+      Object.keys(res).forEach((k) => (result[k] = res[k]));
+      return;
+    }
+
+    // transform recursively...
+    const valIsObj = !(newValue instanceof Date) && isObject(newValue);
+
+    if (valIsObj) {
+      newValue = transformTranslations(newValue, rootObj);
+    }
+
+    if (
+      valIsObj &&
+      (`${newKey}`.endsWith("Items") ||
+        (newKey === "items" && !isArray(newValue)))
+    ) {
+      newValue = Object.keys(newValue).map((k) => ({
+        key: k,
+        ...newValue[k],
+      }));
+    }
+    result[newKey] = newValue;
+  });
+}
+
+function getTranslations({ defaultLocaleImports, localeImports }) {
+  // import and merge
+  const merged = mergeWith(
+    cloneDeep(importTranslations(defaultLocaleImports)),
+    cloneDeep(importTranslations(localeImports)),
+    (obj) => {
+      // ignore fields where the key does not exist on defaultLocales
+      if (obj === undefined) {
+        return null;
+      }
+    }
+  );
+  // transform merged
+  const { globals: _globals, locals } = transformTranslations(merged);
+  return { ...locals, _globals };
+}
+
 exports.createPages = async (
   { graphql, actions: { createPage } },
   {
@@ -53,32 +156,26 @@ exports.createPages = async (
   }
 
   function getImports(dir, locale) {
-    function sripFileNames(items) {
-      return items.map((i) => i.split(".").slice(0, -1).join("."));
-    }
-
     const dirs = [""].concat(dir.split("/"));
-    const globals = sripFileNames(
-      dirs
-        .map((_str, i) => {
-          const subFolder = dirs.slice(1, dirs.length - i).join("/");
-          return (groupedFiles[subFolder] || []).filter(
-            (file) =>
-              file.includes(`.global.`) &&
-              !file.includes(`.${collectionKey}.`) &&
-              file.endsWith(`${locale}.yaml`)
-          );
-        })
-        .reduce((p, n) => p.concat(n), [])
+    const globals = dirs
+      .map((_str, i) => {
+        const subFolder = dirs.slice(1, dirs.length - i).join("/");
+        return (groupedFiles[subFolder] || []).filter(
+          (file) =>
+            file.includes(`.global.`) &&
+            !file.includes(`.${collectionKey}.`) &&
+            file.endsWith(`${locale}.yaml`)
+        );
+      })
+      .reduce((p, n) => p.concat(n), []);
+
+    const locals = (groupedFiles[dir] || []).filter(
+      (file) =>
+        !file.includes(`.global.`) &&
+        !file.includes(`.${collectionKey}.`) &&
+        file.endsWith(`${locale}.yaml`)
     );
-    const locals = sripFileNames(
-      (groupedFiles[dir] || []).filter(
-        (file) =>
-          !file.includes(`.global.`) &&
-          !file.includes(`.${collectionKey}.`) &&
-          file.endsWith(`${locale}.yaml`)
-      )
-    );
+
     return { locals, globals };
   }
 
@@ -102,12 +199,14 @@ exports.createPages = async (
         const localeMdx = getMdx(dir, locale);
         const isDefaultLocale = locale === defaultLocale;
         // DO NOT MAKE THE PAGE IF: we are in noFallbackDirs and the local is not translated...
-        const isTranslated = localeImports.locals.length > 0 || localeMdx;
+        const isTranslated = localeImports.locals?.length > 0 || localeMdx;
         const noFallback = noFallbackDirs.find((fb) => dir.startsWith(`${fb}`));
         if (!isTranslated && noFallback) {
           return;
         }
-        createPage({
+        const i18n = getTranslations({ localeImports, defaultLocaleImports });
+        // TODO pass some useful fields into context?
+        const p = {
           path: isDefaultLocale ? `/${dir}` : `/${locale}/${dir}`,
           component: resolveTemplate(dir),
           context: {
@@ -115,15 +214,14 @@ exports.createPages = async (
             basePath: dir,
             isDefaultLocale,
             defaultLocale,
-            defaultLocaleImports,
             dayJsImport,
             noFallback,
-            localeImports: !isDefaultLocale && localeImports,
             mdxSlug: localeMdx || defaultLocaleMdx || null,
+            // updated: i18n.updated,
+            i18n: JSON.stringify(i18n), // to stop it creating weird schemas
           },
-        });
+        };
+        createPage(p);
       });
   });
 };
-
-// is onCreatePage done in parralel?

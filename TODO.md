@@ -3,14 +3,13 @@
 ```
 ~~~ 3022.VO.2 ~~~
 
-- put i18n in page contexxt (easier search/sitemap lastmod??)
-- add lastMod last modification date to sitemap for SEO
+TODAY
+
+- add lastMod to sitemap for SEO
 - search results styling and types
 - Better search
-- Gatsby check bundle, if needed implement icon tree shaking strategy, including timeline icons?
-- Import and minify flag SVGs https://victorzhou.com/blog/minify-svgs/, Svg minimization
 
-CHORES
+LATER
 
 - Github project issues
 - Content!
@@ -24,8 +23,9 @@ CHORES
 - Update url refs from etc3022.netlify
 - ctrl f TODO
 - Lighthouse
-- Fallback for noscript
+- Fallback dropdown for noscript
 - Check https://github.com/gatsbyjs/themes/issues/93
+- remove perf tools from config
 
 ~~~ 3022.V1 RELEASE, PUBLIC ~~~
 

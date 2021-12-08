@@ -11,7 +11,7 @@ export function wrapPageElement({ element }) {
 }
 
 export function shouldUpdateScroll({ routerProps: { location } }) {
-  if (location.state.scrollTo) {
+  if (location?.state?.scrollTo) {
     window.history.scrollRestoration = "manual";
     window.setTimeout(() => {
       scrollToElement(location.state.scrollTo, 130, "instant");
