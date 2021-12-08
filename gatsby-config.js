@@ -1,9 +1,5 @@
 const siteUrl = "https://etc3022.netlify.app";
 
-require("dotenv").config({
-  path: `.env.secret`,
-});
-
 const { locales, defaultLocale } = require("./configs/locales");
 
 module.exports = {
