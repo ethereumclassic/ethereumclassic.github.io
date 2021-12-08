@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import "twin.macro";
 import { useIntervalWhen } from "rooks";
-import { StaticImage } from "gatsby-plugin-image";
+// import { StaticImage } from "gatsby-plugin-image";
 import { shuffle } from "lodash";
-import useScroll from "../utils/useScroll";
+// import useScroll from "../utils/useScroll";
 import Icon from "./icon";
 import TwContainer from "./twContainer";
 
@@ -20,23 +20,23 @@ function RandomWords({ words }) {
   );
 }
 
-function Lass() {
-  const { y, h, w } = useScroll();
-  const ratio = h / w;
-  const start = -10;
-  const pos = start - Math.floor(y / (ratio * 2));
-  const mt = isNaN(pos) ? start : pos;
-  return (
-    <div css={{ marginTop: `${mt}px` }}>
-      <StaticImage
-        alt=""
-        src="../images/lass3.png"
-        placeholder="tracedSVG"
-        tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
-      />
-    </div>
-  );
-}
+// function Lass() {
+//   const { y, h, w } = useScroll();
+//   const ratio = h / w;
+//   const start = -10;
+//   const pos = start - Math.floor(y / (ratio * 2));
+//   const mt = isNaN(pos) ? start : pos;
+//   return (
+//     <div css={{ marginTop: `${mt}px` }}>
+//       <StaticImage
+//         alt=""
+//         src="../images/lass3.png"
+//         placeholder="tracedSVG"
+//         tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
+//       />
+//     </div>
+//   );
+// }
 
 export default function LandingBillboard({ text, randomWords }) {
   return (
