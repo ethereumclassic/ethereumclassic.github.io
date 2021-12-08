@@ -7,37 +7,37 @@
 - add lastMod last modification date to sitemap for SEO
 - search results styling and types
 - Better search
+- Gatsby check bundle, if needed implement icon tree shaking strategy, including timeline icons?
+- Import and minify flag SVGs https://victorzhou.com/blog/minify-svgs/, Svg minimization
 
 CHORES
 
-- Gatsby check bundle, if needed implement icon tree shaking strategy, including timeline icons?
+- Github project issues
+- Content!
+- copywriting
+- Social image
 - Ensure correct contributors for each piece of content (git blame)
-- Import and minify flag SVGs https://victorzhou.com/blog/minify-svgs/, Svg minimization
-- check all content keys are underscored correctly
-- Add comment to all YAML files explaining format __
 - Ensure old site feature parity
 - i18n 404 redirects, make sure all old pages get redirected properly
 - check page metadata, rss feeds and sitemap are correct
 - Update Readme
-- i18n contributions flow
-- Update url refs from netlify (etc3022)
-- Updated
-- copywriting
+- Update url refs from etc3022.netlify
 - ctrl f TODO
-- Social image
 - Lighthouse
-- Check https://github.com/gatsbyjs/themes/issues/93
 - Fallback for noscript
+- Check https://github.com/gatsbyjs/themes/issues/93
 
 ~~~ 3022.V1 RELEASE, PUBLIC ~~~
 
-- Github project issues
-- noscript: Fix CSS jumpiness and image not rendering on first Load without JS
-
 ~~~ 3022.V1.1 I18N ~~~
+
+- check all content keys are underscored correctly
+- Add comment to all YAML files explaining format __
+- i18n contributions flow
 - Fix collection localization
 
-vNext
+~~~ 3022.V1.NEXT ~~~
+
 - Memes
 - Turn banners into NFTs
 - POAP for contributors
