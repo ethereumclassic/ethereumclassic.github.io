@@ -73,6 +73,13 @@ module.exports = {
       },
     },
     {
+      resolve: "collections-plugin",
+      options: {
+        instanceType: "content",
+        collectionKey: "collection",
+      },
+    },
+    {
       resolve: "translations-plugin",
       options: {
         locales,

@@ -10,8 +10,6 @@ export function wrapPageElement({ element }) {
   );
 }
 
-//gatsby-brower.js
-
 export function shouldUpdateScroll({ routerProps: { location } }) {
   if (location.state.scrollTo) {
     window.history.scrollRestoration = "manual";
