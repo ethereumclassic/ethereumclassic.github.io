@@ -60,11 +60,11 @@ export default function VideosItem({ item, featured, hash = true, ...rest }) {
           <>
             <Icon
               icon="star"
-              tw="absolute rotate-6 top-2 right-2 z-20 h-6 w-6 text-white"
+              tw="absolute rotate-6 top-2 right-2 z-10 h-6 w-6 blur-sm text-black opacity-60"
             />
             <Icon
               icon="star"
-              tw="absolute rotate-6 top-2 right-2 z-10 h-6 w-6 blur-sm text-black opacity-60"
+              tw="absolute rotate-6 top-2 right-2 z-10 h-6 w-6 text-white"
             />
           </>
         )}

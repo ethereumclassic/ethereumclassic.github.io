@@ -2,9 +2,8 @@ import { navigate } from "gatsby-link";
 import React, { useEffect } from "react";
 import tw from "twin.macro";
 
-import LocalizedLink from "../../plugins/translations-plugin/src/components/localizedLink";
 import scrollToElement from "../utils/scrollToElement";
-import Icon from "./icon";
+import Link from "./link";
 
 function splitSlug(slug) {
   return { date: slug.slice(0, 10), title: slug.slice(11) };
@@ -22,7 +21,7 @@ function comapreSlugs(slug1, slug2) {
   return false;
 }
 
-export default function Pagination({ pageContext }) {
+export default function Pagination({ pageContext, scrollTo }) {
   // TODO i18n
   // if we have hash in the url, try to click that item after we've loaded the content
   // otherwise redirect to the correct page, and try again
@@ -65,20 +64,24 @@ export default function Pagination({ pageContext }) {
       <div tw="-mt-px w-0 flex-1 flex">
         {currentPage !== 1 && (
           <>
-            <LocalizedLink to={filterBase} css={btnStyle}>
-              <Icon icon="leftDouble" tw="h-4" aria-hidden="true" />
-            </LocalizedLink>
-            <LocalizedLink
+            <Link
+              scrollTo={scrollTo}
+              to={filterBase}
+              css={btnStyle}
+              iconLeft="leftDouble"
+            />
+            <Link
+              scrollTo={scrollTo}
               to={
                 currentPage === 2
                   ? filterBase
                   : `${filterBase}/page/${currentPage - 1}`
               }
               css={btnStyle}
+              iconLeft="left"
             >
-              <Icon icon="left" tw="h-4" aria-hidden="true" />
-              <span>Previous</span>
-            </LocalizedLink>
+              Previous
+            </Link>
           </>
         )}
       </div>
@@ -90,16 +93,20 @@ export default function Pagination({ pageContext }) {
       <div tw="-mt-px w-0 flex-1 flex justify-end">
         {currentPage !== numPages && (
           <>
-            <LocalizedLink
+            <Link
+              scrollTo={scrollTo}
               to={`${filterBase}/page/${currentPage + 1}`}
               css={btnStyle}
+              icon="right"
             >
-              <span>Next</span>
-              <Icon icon="right" tw="h-4" aria-hidden="true" />
-            </LocalizedLink>
-            <LocalizedLink to={`${filterBase}/page/${numPages}`} css={btnStyle}>
-              <Icon icon="rightDouble" tw="h-4" aria-hidden="true" />
-            </LocalizedLink>
+              Next
+            </Link>
+            <Link
+              scrollTo={scrollTo}
+              to={`${filterBase}/page/${numPages}`}
+              css={btnStyle}
+              icon="rightDouble"
+            />
           </>
         )}
       </div>

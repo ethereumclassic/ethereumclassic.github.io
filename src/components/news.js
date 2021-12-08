@@ -30,9 +30,12 @@ export default function News({ pageContext, data, i18n }) {
           <NewsFilters {...{ pageContext, i18n }} inline />
         </div>
         <div tw="sticky z-20 top-14 bg-backdrop-dark mb-4 pt-1 mt-1">
-          <Pagination {...{ pageContext }} />
+          <Pagination {...{ pageContext }} scrollTo="content-top" />
         </div>
-        <div tw="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 md:gap-3">
+        <div
+          id="content-top"
+          tw="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 md:gap-3"
+        >
           {pageContext.currentPage === 1 && pageContext.filter !== "blog" && (
             <>
               <div tw="lg:hidden col-span-full">

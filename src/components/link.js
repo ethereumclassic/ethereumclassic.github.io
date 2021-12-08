@@ -18,6 +18,7 @@ export default function Link({
   showExternal,
   notLocalized,
   iconLeft,
+  scrollTo,
   ...props
 }) {
   const url = useRedirectedUrl(href || to);
@@ -26,9 +27,12 @@ export default function Link({
   const LinkComp = button ? Button : LinkCompBase;
   const iconName = icon || (showExternal && isExternal && "external");
   const nowrap = isString(children) && children.length < 20;
-  const linkProps = isExternal
-    ? { href: url, target: "_blank" }
-    : { to: url, notLocalized };
+  const linkProps = {
+    ...(isExternal
+      ? { href: url, target: "_blank" }
+      : { to: url, notLocalized }),
+    ...(scrollTo && { state: { scrollTo } }),
+  };
   return (
     <LinkComp
       {...props}

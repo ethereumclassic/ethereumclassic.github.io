@@ -66,11 +66,6 @@ export default function Seo(props) {
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={ui.description} />
       <meta name="twitter:image" content={image} />
-      {/* fix viewport on some mobile browsers */}
-      <meta
-        name="viewport"
-        content="width=device-width, initial-scale=0.88888888, minimum-scale=0.88888888"
-      />
     </Helmet>
   );
 }

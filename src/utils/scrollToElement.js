@@ -1,4 +1,8 @@
-export default function scrollToElement(target, offset = 80) {
+export default function scrollToElement(
+  target,
+  offset = 80,
+  behavior = "smooth"
+) {
   const element = document.getElementById(target);
   const bodyRect = document.body.getBoundingClientRect().top;
   const elementRect = element.getBoundingClientRect().top;
@@ -6,6 +10,6 @@ export default function scrollToElement(target, offset = 80) {
   const offsetPosition = elementPosition - offset;
   window.scrollTo({
     top: offsetPosition,
-    behavior: "smooth",
+    behavior,
   });
 }
