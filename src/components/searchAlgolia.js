@@ -1,34 +1,18 @@
-import React, { useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import tw from "twin.macro";
 import algoliasearch from "algoliasearch/lite";
-import { InstantSearch, connectSearchBox } from "react-instantsearch-dom";
-
-import Results from "./searchAlgoliaResults";
 import { useDebounce } from "rooks";
+import { connectPoweredBy } from "react-instantsearch-dom";
+import { connectStateResults, Snippet } from "react-instantsearch-dom";
+import {
+  InstantSearch,
+  connectSearchBox,
+  Index,
+} from "react-instantsearch-dom";
+import useSiteMetadata from "../utils/useSiteMetadata";
 import Icon from "./icon";
-
-// TODO move to config
-const APP_ID = "X8T4AMEJOW";
-const APP_KEY = "08dcef8c4e952bf3b1368cb1c50d2985";
-const INDEX_NAME = `netlify_a4cc0783-462c-4bfb-9832-0158cef4e1ff_3022_all`;
-
-const algoliaClient = algoliasearch(APP_ID, APP_KEY);
-
-let firstLoad = true;
-
-// hack to prevent it calling algolia each page load
-const searchClient = {
-  search(requests) {
-    if (firstLoad === true) {
-      firstLoad = false;
-      return;
-    }
-    if (requests[0].params.query === "") {
-      return;
-    }
-    return algoliaClient.search(requests);
-  },
-};
+import PopOverContainer from "./popOverContainer";
+import Link from "./link";
 
 const SearchBox = ({ refine }) => {
   const setValueDebounced = useDebounce(refine, 500);
@@ -48,11 +32,80 @@ const SearchBox = ({ refine }) => {
   );
 };
 
+const PoweredBy = ({ url }) => (
+  <a href={url} target="_blank" rel="noreferrer">
+    Powered by Algolia
+  </a>
+);
+
+const ResultsBlock = (props) => {
+  const { searchResults, searching } = props;
+  const hitCount = searchResults && searchResults.nbHits;
+  if (searching || hitCount < 1) {
+    return null;
+  }
+  return (
+    <>
+      <div tw="bg-primary-dark text-primary-lightest px-4 py-2 uppercase">
+        {props.title}
+      </div>
+      {searchResults.hits.map((hit) => (
+        <Link
+          to={hit.url}
+          key={hit.objectID}
+          tw="block hover:text-shade-darker hover:bg-primary-lightest px-4 py-2"
+        >
+          <div tw="font-bold">
+            {/* TODO refile search results */}
+            {hit.title.replace(` - Ethereum Classic`, "")}
+          </div>
+          <div tw="text-sm line-clamp-2">
+            <Snippet hit={hit} attribute="content" />
+          </div>
+        </Link>
+      ))}
+    </>
+  );
+};
+
+const CustomPoweredBy = connectPoweredBy(PoweredBy);
 const ConnectedSearchBox = connectSearchBox(SearchBox);
+const ConnectedResultsBlock = connectStateResults(ResultsBlock);
+
+function Wrapper({ children }) {
+  if (!children) {
+    return null;
+  }
+  return (
+    <div tw="absolute mt-1 max-w-md md:max-w-lg right-0 w-screen pl-4">
+      <PopOverContainer>
+        <div tw="overflow-y-scroll divide-y divide-solid divide-shade-lightest max-h-[40vh]">
+          {children}
+        </div>
+        <div tw="text-right text-sm text-shade-neutral bg-shade-lightest py-1 px-4">
+          <CustomPoweredBy />
+        </div>
+      </PopOverContainer>
+    </div>
+  );
+}
 
 export default function SearchAgolia({ inline }) {
+  const { algoliaAppId, algoliaApiKey } = useSiteMetadata();
   const [focused, setFocus] = useState(false);
   const [query, setQuery] = useState("");
+  const aSearch = useRef(null);
+  useEffect(() => {
+    aSearch.current = algoliasearch(algoliaAppId, algoliaApiKey);
+  }, [algoliaApiKey, algoliaAppId]);
+  const search = {
+    search(requests) {
+      if (requests[0].params.query === "") {
+        return;
+      }
+      return aSearch.current.search(requests);
+    },
+  };
   return (
     <div
       tw="w-full"
@@ -60,9 +113,11 @@ export default function SearchAgolia({ inline }) {
       onBlur={() => setTimeout(() => setFocus(false), 200)}
     >
       <InstantSearch
-        searchClient={searchClient}
-        indexName={INDEX_NAME}
-        onSearchStateChange={(state) => setQuery(state.query)}
+        searchClient={search}
+        indexName="netlify_0c22382a-6441-4d28-b08b-f93d72737180_3022_all"
+        onSearchStateChange={(state) => {
+          setTimeout(() => setQuery(state.query), 10);
+        }}
       >
         <label htmlFor="search" tw="sr-only">
           Search
@@ -76,9 +131,20 @@ export default function SearchAgolia({ inline }) {
             />
           </div>
           <ConnectedSearchBox inline={inline} />
-          <div tw="absolute mt-1 max-w-md md:max-w-lg right-0 w-screen pl-4">
-            <Results hidden={!focused || !query} />
-          </div>
+          {focused && query && (
+            <Wrapper>
+              <ConnectedResultsBlock title="Pages" />
+              <Index indexName="videos">
+                <ConnectedResultsBlock title="Videos" />
+              </Index>
+              <Index indexName="applications">
+                <ConnectedResultsBlock title="Apps" />
+              </Index>
+              <Index indexName="newsLinks">
+                <ConnectedResultsBlock title="News Links" />
+              </Index>
+            </Wrapper>
+          )}
         </div>
       </InstantSearch>
     </div>

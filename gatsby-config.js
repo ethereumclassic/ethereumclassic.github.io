@@ -2,6 +2,8 @@ const siteUrl = "https://etc3022.netlify.app";
 
 const { locales, defaultLocale } = require("./configs/locales");
 
+require("dotenv").config({ path: ".env" });
+
 module.exports = {
   flags: {
     PRESERVE_FILE_DOWNLOAD_CACHE: true,
