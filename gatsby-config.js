@@ -12,6 +12,8 @@ module.exports = {
     siteUrl,
     socialImage: "/etc-social-card.png",
     redirects: require("./configs/redirects"),
+    algoliaAppId: process.env.ALGOLIA_APP_ID,
+    algoliaApiKey: process.env.ALGOLIA_SEARCH_KEY,
   },
   plugins: [
     // "gatsby-plugin-perf-budgets",
