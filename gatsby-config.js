@@ -45,10 +45,12 @@ module.exports = {
       resolve: "gatsby-plugin-sitemap",
       options: require("./configs/sitemap")({ siteUrl }),
     },
-    {
-      resolve: "gatsby-plugin-algolia",
-      options: require("./configs/search"),
-    },
+    ...[
+      process.env.ALGOLIA_ADMIN_KEY && {
+        resolve: "gatsby-plugin-algolia",
+        options: require("./configs/search"),
+      },
+    ].filter((c) => c),
     // TODO FIXME
     // {
     //   resolve: "gatsby-plugin-feed",

@@ -72,6 +72,7 @@ const customStyles = css`
   .ais-Snippet-highlighted {
     font-weight: bold;
     color: var(--secondary-dark);
+    font-style: normal;
   }
 
   :target:before {
