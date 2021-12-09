@@ -31,7 +31,7 @@ export default function Seo(props) {
     ui.description,
   ].find((i) => i);
 
-  let category = "page";
+  let category = "general";
   if (basePath.startsWith("blog/")) {
     category = "blog";
   }
@@ -74,9 +74,9 @@ export default function Seo(props) {
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={ui.description} />
       <meta name="twitter:image" content={image} />
-      {/* search indexing; TODO
-      <meta name="article:modification_time" content={ui.description} /> */}
-      {category && <meta name="article:category" content={category} />}
+      {/* search indexing; TODO article:published_time article:author article:tag
+      <meta name="article:modified_time" content={ui.description} /> */}
+      {category && <meta name="article:section" content={category} />}
     </Helmet>
   );
 }
