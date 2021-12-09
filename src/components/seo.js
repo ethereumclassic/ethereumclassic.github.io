@@ -16,21 +16,30 @@ export default function Seo(props) {
   const { ui } = useGlobals();
   const { siteUrl, socialImage } = useSiteMetadata();
   const { isDark } = useTheme();
-
-  const url = `${siteUrl}${props.path}`;
+  const { basePath, path, i18n, data } = props.pageContext;
+  const url = `${siteUrl}${path}`;
   const image = `${siteUrl}${socialImage}`; // TODO extract image from MDX
   const title = dedupeStrings(
-    props.data?.mdx?.meta?.title || props.i18n.title,
+    data?.mdx?.meta?.title || i18n.title,
     ui.title,
     " - "
   );
   const description = [
-    props.data?.mdx?.meta?.description,
-    props.i18n.description,
-    props.data?.mdx?.excerpt,
+    data?.mdx?.meta?.description,
+    i18n.description,
+    data?.mdx?.excerpt,
     ui.description,
   ].find((i) => i);
 
+  let category = "page";
+  if (basePath.startsWith("blog/")) {
+    category = "blog";
+  }
+  // exclude these from search as we add them manually...
+  if (["", "404", "news", "videos", "services/apps"].includes(basePath)) {
+    category = null;
+  }
+  console.log({ basePath, category });
   const logo = renderToString(
     <EtcLogo
       color={`%23${(isDark
@@ -39,7 +48,6 @@ export default function Seo(props) {
       ).slice(1)}`}
     />
   );
-
   return (
     <Helmet title={title}>
       {/* favicon, with fallback */}
@@ -66,6 +74,9 @@ export default function Seo(props) {
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={ui.description} />
       <meta name="twitter:image" content={image} />
+      {/* search indexing; TODO
+      <meta name="article:modification_time" content={ui.description} /> */}
+      {category && <meta name="article:category" content={category} />}
     </Helmet>
   );
 }

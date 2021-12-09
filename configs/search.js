@@ -1,41 +1,4 @@
 const queries = [
-  // using Netlify Agolia Plugin for full content search of all pages
-  // {
-  //   query: `
-  //   {
-  //     pages: allSitePage {
-  //       edges {
-  //         node {
-  //           id
-  //           path
-  //           pageContext
-  //         }
-  //       }
-  //     }
-  //   }`,
-  //   transformer: ({ data }) => {
-  //     return data.pages.edges.map(
-  //       ({
-  //         node: {
-  //           id,
-  //           path,
-  //           pageContext: { locale, i18n },
-  //         },
-  //       }) => {
-  //         const { title, description, updated } = i18n ? JSON.parse(i18n) : {};
-  //         const result = {
-  //           id,
-  //           path,
-  //           locale,
-  //           title,
-  //           description,
-  //           updated,
-  //         };
-  //         return result;
-  //       }
-  //     );
-  //   },
-  // },
   {
     query: `
     {

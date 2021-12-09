@@ -16,6 +16,7 @@ module.exports = {
     redirects: require("./configs/redirects"),
     algoliaAppId: process.env.ALGOLIA_APP_ID,
     algoliaApiKey: process.env.ALGOLIA_SEARCH_KEY,
+    algoliaIndex: process.env.ALGOLIA_MAIN_INDEX,
   },
   plugins: [
     // "gatsby-plugin-perf-budgets",

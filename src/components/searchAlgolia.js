@@ -91,7 +91,7 @@ function Wrapper({ children }) {
 }
 
 export default function SearchAgolia({ inline }) {
-  const { algoliaAppId, algoliaApiKey } = useSiteMetadata();
+  const { algoliaAppId, algoliaApiKey, algoliaIndex } = useSiteMetadata();
   const [focused, setFocus] = useState(false);
   const [query, setQuery] = useState("");
   const aSearch = useRef(null);
@@ -114,7 +114,7 @@ export default function SearchAgolia({ inline }) {
     >
       <InstantSearch
         searchClient={search}
-        indexName="netlify_0c22382a-6441-4d28-b08b-f93d72737180_3022_all"
+        indexName={algoliaIndex}
         onSearchStateChange={(state) => {
           setTimeout(() => setQuery(state.query), 10);
         }}
