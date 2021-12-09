@@ -2,7 +2,7 @@
 title: Code is Law
 ---
 
-# Code is Law
+# Code is Law!
 
 ## A Vision for the Future
 
