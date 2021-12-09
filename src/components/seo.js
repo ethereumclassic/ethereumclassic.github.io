@@ -76,7 +76,7 @@ export default function Seo(props) {
       <meta name="twitter:image" content={image} />
       {/* search indexing; TODO article:published_time article:author article:tag
       <meta name="article:modified_time" content={ui.description} /> */}
-      {category && <meta name="article:section" content={category} />}
+      {category && <meta property="article:section" content={category} />}
     </Helmet>
   );
 }
