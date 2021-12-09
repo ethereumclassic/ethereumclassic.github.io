@@ -1,3 +1,4 @@
+// TODO refactor this!
 import React, { useEffect, useRef, useState } from "react";
 import tw from "twin.macro";
 import algoliasearch from "algoliasearch/lite";
@@ -13,6 +14,9 @@ import useSiteMetadata from "../utils/useSiteMetadata";
 import Icon from "./icon";
 import PopOverContainer from "./popOverContainer";
 import Link from "./link";
+import { useLocalization } from "../../plugins/translations-plugin/src/components/localizationProvider";
+
+import Md from "./markdownDynamic";
 
 const SearchBox = ({ refine }) => {
   const setValueDebounced = useDebounce(refine, 500);
@@ -38,34 +42,69 @@ const PoweredBy = ({ url }) => (
   </a>
 );
 
-const ResultsBlock = (props) => {
-  const { searchResults, searching } = props;
-  const hitCount = searchResults && searchResults.nbHits;
-  if (searching || hitCount < 1) {
-    return null;
-  }
+const ResultsItems = ({ title, hits }) => {
   return (
     <>
       <div tw="bg-primary-dark text-primary-lightest px-4 py-2 uppercase">
-        {props.title}
+        {title}
       </div>
-      {searchResults.hits.map((hit) => (
+      {hits.map((hit) => (
         <Link
-          to={hit.url}
+          to={hit.url || hit.link}
           key={hit.objectID}
           tw="block hover:text-shade-darker hover:bg-primary-lightest px-4 py-2"
         >
           <div tw="font-bold">
             {/* TODO refile search results */}
             {hit.title.replace(` - Ethereum Classic`, "")}
+            {/* {hit.description} */}
           </div>
           <div tw="text-sm line-clamp-2">
-            <Snippet hit={hit} attribute="content" />
+            {hit.content ? (
+              <Snippet hit={hit} attribute="content" />
+            ) : (
+              <Md noLinks>{hit.description}</Md>
+            )}
           </div>
         </Link>
       ))}
     </>
   );
+};
+
+const ResultsBlock = ({
+  searchResults,
+  searching,
+  categories,
+  title,
+  locale,
+  lang,
+}) => {
+  const hits =
+    searchResults?.hits.filter((h) => h.lang === lang || h.locale === locale) ??
+    [];
+  if (searching || hits.length < 1) {
+    return null;
+  }
+  if (categories) {
+    const cats = Object.values(
+      hits.reduce((o, h) => {
+        const category = categories[h.category];
+        if (category) {
+          return {
+            ...o,
+            [h.category]: {
+              hits: (o[h.category]?.hits ?? []).concat([h]),
+              ...category,
+            },
+          };
+        }
+        return o;
+      }, {})
+    );
+    return cats.map((cat) => <ResultsItems key={cat.title} {...cat} />);
+  }
+  return <ResultsItems {...{ title, hits }} />;
 };
 
 const CustomPoweredBy = connectPoweredBy(PoweredBy);
@@ -79,7 +118,7 @@ function Wrapper({ children }) {
   return (
     <div tw="absolute mt-1 max-w-md md:max-w-lg right-0 w-screen pl-4">
       <PopOverContainer>
-        <div tw="overflow-y-scroll divide-y divide-solid divide-shade-lightest max-h-[40vh]">
+        <div tw="overflow-y-scroll divide-y divide-solid divide-shade-lightest max-h-[40vh] md:max-h-[70vh]">
           {children}
         </div>
         <div tw="text-right text-sm text-shade-neutral bg-shade-lightest py-1 px-4">
@@ -92,6 +131,12 @@ function Wrapper({ children }) {
 
 export default function SearchAgolia({ inline }) {
   const { algoliaAppId, algoliaApiKey, algoliaIndex } = useSiteMetadata();
+  const {
+    locale,
+    globals: {
+      ui: { htmlLang },
+    },
+  } = useLocalization();
   const [focused, setFocus] = useState(false);
   const [query, setQuery] = useState("");
   const aSearch = useRef(null);
@@ -133,15 +178,34 @@ export default function SearchAgolia({ inline }) {
           <ConnectedSearchBox inline={inline} />
           {focused && query && (
             <Wrapper>
-              <ConnectedResultsBlock title="Pages" />
+              <ConnectedResultsBlock
+                lang={htmlLang}
+                locale={locale}
+                categories={{
+                  general: { title: "Pages" },
+                  blog: { title: "Blog Articles" },
+                }}
+              />
               <Index indexName="videos">
-                <ConnectedResultsBlock title="Videos" />
+                <ConnectedResultsBlock
+                  lang={htmlLang}
+                  locale={locale}
+                  title="Videos"
+                />
               </Index>
               <Index indexName="applications">
-                <ConnectedResultsBlock title="Apps" />
+                <ConnectedResultsBlock
+                  lang={htmlLang}
+                  locale={locale}
+                  title="Apps"
+                />
               </Index>
               <Index indexName="newsLinks">
-                <ConnectedResultsBlock title="News Links" />
+                <ConnectedResultsBlock
+                  lang={htmlLang}
+                  locale={locale}
+                  title="News Links"
+                />
               </Index>
             </Wrapper>
           )}

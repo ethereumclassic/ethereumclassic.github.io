@@ -17,19 +17,22 @@ export default function Markdown({
   components: comps,
   unwrap,
   styleLinks,
+  noLinks,
   ...props
 }) {
   if (children === undefined) {
     return null;
   }
   const components = {
-    a: (myProps) => (
-      <Link
-        {...myProps}
-        css={styleLinks && [tw`font-bold hover:underline`]}
-        showExternal
-      />
-    ),
+    a: noLinks
+      ? (myProps) => <span>{myProps.children}</span>
+      : (myProps) => (
+          <Link
+            {...myProps}
+            css={styleLinks && [tw`font-bold hover:underline`]}
+            showExternal
+          />
+        ),
   };
   if (unwrap) {
     components.root = unwrapParagraphs;

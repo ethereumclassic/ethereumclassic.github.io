@@ -5,8 +5,7 @@
 
 TODAY
 
-- search results styling and types
-- Better search
+- search results styling
 
 LATER
 
@@ -24,9 +23,11 @@ LATER
 - Fallback dropdown for noscript
 
 PREFLIGHT
+
 - Update url refs from etc3022.netlify
 - Lighthouse
 - remove perf tools from config
+- udpade branch settings for agolia plugin
 
 ~~~ 3022.V1 RELEASE, PUBLIC ~~~
 

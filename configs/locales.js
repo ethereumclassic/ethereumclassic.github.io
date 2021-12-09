@@ -27,7 +27,7 @@ const locales = {
   },
   ja: {
     name: "日本語",
-    enabled: true,
+    enabled: false,
     dayJsImport: "ja",
   },
   ko: {

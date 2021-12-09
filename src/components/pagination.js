@@ -32,7 +32,7 @@ export default function Pagination({ pageContext, scrollTo }) {
       const element = document.getElementById(elementId);
       if (element) {
         element.click();
-        scrollToElement(elementId, 160);
+        scrollToElement(elementId, 160, "instant");
       } else if (pageContext.slugs) {
         function navTo(page) {
           const url =

@@ -12,11 +12,11 @@ import { etc as EtcLogo } from "../utils/icons";
 import { useTheme } from "../utils/themeProvider";
 import useSiteMetadata from "../utils/useSiteMetadata";
 
-export default function Seo(props) {
+export default function Seo({ data, i18n, pageContext: { basePath, path } }) {
   const { ui } = useGlobals();
   const { siteUrl, socialImage } = useSiteMetadata();
   const { isDark } = useTheme();
-  const { basePath, path, i18n, data } = props.pageContext;
+
   const url = `${siteUrl}${path}`;
   const image = `${siteUrl}${socialImage}`; // TODO extract image from MDX
   const title = dedupeStrings(
@@ -36,10 +36,11 @@ export default function Seo(props) {
     category = "blog";
   }
   // exclude these from search as we add them manually...
-  if (["", "404", "news", "videos", "services/apps"].includes(basePath)) {
+  if (
+    ["", "404", "news", "videos", "services/apps", "sitemap"].includes(basePath)
+  ) {
     category = null;
   }
-  console.log({ basePath, category });
   const logo = renderToString(
     <EtcLogo
       color={`%23${(isDark
@@ -62,6 +63,12 @@ export default function Seo(props) {
       {/* meta head */}
       <meta name="description" content={description} />
       <meta name="image" content={image} />
+      {/* search indexing; TODO */}
+      {/* article:published_time 
+      article:author 
+      article:tag
+      <meta name="article:modified_time" content={ui.description} /> */}
+      {category && <meta property="article:section" content={category} />}
       {/* social og tags */}
       <meta property="og:site_name" content={ui.title} />
       <meta property="og:title" content={title} />
@@ -74,9 +81,6 @@ export default function Seo(props) {
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={ui.description} />
       <meta name="twitter:image" content={image} />
-      {/* search indexing; TODO article:published_time article:author article:tag
-      <meta name="article:modified_time" content={ui.description} /> */}
-      {category && <meta property="article:section" content={category} />}
     </Helmet>
   );
 }
