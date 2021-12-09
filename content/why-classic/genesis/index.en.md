@@ -1,4 +1,6 @@
-# Genesis
+---
+title: Genesis
+---
 
 - Understanding how ETC came to be is essential in understanding it's value proposition.
 - Here we will cover where we came from

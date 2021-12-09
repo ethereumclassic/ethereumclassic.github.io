@@ -46,7 +46,7 @@ export default function Content({ data = {}, i18n = {}, children, max }) {
           !showRight && showLeft && tw`lg:col-span-8 xl:col-span-8`,
           showRight &&
             !showLeft &&
-            tw`md:col-span-8 md:col-start-2 lg:col-start-2 xl:col-start-2 lg:col-span-8 xl:col-span-7`,
+            tw`md:col-span-9 md:col-start-1 lg:col-start-2 xl:col-start-2 lg:col-span-8 xl:col-span-7`,
           !showRight &&
             !showLeft &&
             tw`sm:col-span-full md:col-start-2 md:col-span-10 lg:col-start-3 lg:col-span-8`,

@@ -65,6 +65,15 @@ const customStyles = css`
     -webkit-tap-highlight-color: var(--primary-light);
   }
 
+  iframe {
+    max-width: 100%;
+  }
+
+  .ais-Snippet-highlighted {
+    font-weight: bold;
+    color: var(--secondary-dark);
+  }
+
   :target:before {
     content: "";
     display: block;

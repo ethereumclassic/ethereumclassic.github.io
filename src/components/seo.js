@@ -24,6 +24,9 @@ export default function Seo({ data, i18n, pageContext: { basePath, path } }) {
     ui.title,
     " - "
   );
+  const author = data?.mdx?.meta?.author || i18n.author;
+  const updated = data?.mdx?.meta?.updated || i18n.updated;
+  const published = data?.mdx?.meta?.published || i18n.published;
   const description = [
     data?.mdx?.meta?.description,
     i18n.description,
@@ -64,11 +67,20 @@ export default function Seo({ data, i18n, pageContext: { basePath, path } }) {
       <meta name="description" content={description} />
       <meta name="image" content={image} />
       {/* search indexing; TODO */}
-      {/* article:published_time 
-      article:author 
-      article:tag
-      <meta name="article:modified_time" content={ui.description} /> */}
       {category && <meta property="article:section" content={category} />}
+      {author && <meta property="article:author" content={author} />}
+      {published && (
+        <meta
+          property="article:published_time"
+          content={new Date(published).toISOString()}
+        />
+      )}
+      {updated && (
+        <meta
+          property="article:modified_time"
+          content={new Date(updated).toISOString()}
+        />
+      )}
       {/* social og tags */}
       <meta property="og:site_name" content={ui.title} />
       <meta property="og:title" content={title} />

@@ -14,9 +14,6 @@ module.exports = {
     siteUrl,
     socialImage: "/etc-social-card.png",
     redirects: require("./configs/redirects"),
-    algoliaAppId: process.env.ALGOLIA_APP_ID,
-    algoliaApiKey: process.env.ALGOLIA_SEARCH_KEY,
-    algoliaIndex: process.env.ALGOLIA_MAIN_INDEX,
   },
   plugins: [
     // "gatsby-plugin-perf-budgets",
@@ -27,6 +24,16 @@ module.exports = {
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-emotion",
     `gatsby-remark-images`,
+    {
+      resolve: `gatsby-plugin-env-variables`,
+      options: {
+        allowList: [
+          "ALGOLIA_APP_ID",
+          "ALGOLIA_SEARCH_KEY",
+          "ALGOLIA_MAIN_INDEX",
+        ],
+      },
+    },
     {
       resolve: `gatsby-plugin-nprogress`,
       options: {

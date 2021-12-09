@@ -64,6 +64,8 @@ export {
   faSync as exchange,
   faChartLine as finance,
   faAward as award,
+  faCircleNotch as spinner,
+  faSadCry as sad,
   // in timeline
   faRocket as rocket,
   faSnowflake as snowflake,

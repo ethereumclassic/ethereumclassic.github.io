@@ -5,7 +5,7 @@
 
 TODAY
 
-- search results styling
+- nicer scrollbars
 
 LATER
 

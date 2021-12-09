@@ -13,13 +13,14 @@ import TwContainer from "./twContainer";
 
 export default function News({ pageContext, data, i18n }) {
   const { isDefaultLocale, locale } = useLocalization();
-  // TODO make top padding match other pages
   return (
     <TwContainer grid>
       <main tw="col-span-full md:col-span-9 relative mt-5 md:mt-8">
         <div tw="flex space-x-2">
           <div tw="flex-auto space-y-1 mb-2">
-            <h1 tw="text-2xl font-bold text-shade-darker">{i18n.title}</h1>
+            <h1 tw="text-2xl font-bold text-shade-darker">
+              <Link to="/news">{i18n.title}</Link>
+            </h1>
             <p tw="text-sm text-shade-neutral">{i18n.description}</p>
           </div>
           <div tw="hidden lg:block">

@@ -1,6 +1,10 @@
 ---
-title: A Tale of Two Etheruems
+title: ETC vs ETH
 ---
+
+# ETC vs ETH
+
+## A Tale of Two\* Etheruems
 
 We go through te simiarities and differences
 

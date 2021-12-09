@@ -7,9 +7,6 @@ export default function useSiteMetadata() {
         siteMetadata {
           siteUrl
           socialImage
-          algoliaAppId
-          algoliaApiKey
-          algoliaIndex
         }
       }
     }

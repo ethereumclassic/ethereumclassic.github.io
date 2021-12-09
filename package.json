@@ -29,6 +29,7 @@
     "flag-icon-css": "^4.1.6",
     "gatsby": "^4.3.0",
     "gatsby-plugin-algolia": "^0.24.0",
+    "gatsby-plugin-env-variables": "^2.2.0",
     "gatsby-plugin-feed": "^4.3.0",
     "gatsby-plugin-image": "^2.3.0",
     "gatsby-plugin-mdx": "^3.3.0",

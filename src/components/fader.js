@@ -4,11 +4,12 @@ import { Transition } from "@headlessui/react";
 import tw from "twin.macro";
 import { ClassNames } from "@emotion/react";
 
-export default function Fader({ children }) {
+export default function Fader({ children, show }) {
   return (
     <ClassNames>
       {({ css }) => (
         <Transition
+          show={show}
           as={Fragment}
           enter={css(tw`transition ease-out duration-200`)}
           enterFrom={css(tw`opacity-0 translate-y-1`)}

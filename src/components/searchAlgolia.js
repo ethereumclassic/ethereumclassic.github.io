@@ -1,148 +1,56 @@
 // TODO refactor this!
 import React, { useEffect, useRef, useState } from "react";
-import tw from "twin.macro";
+import "twin.macro";
 import algoliasearch from "algoliasearch/lite";
 import { useDebounce } from "rooks";
 import { connectPoweredBy } from "react-instantsearch-dom";
-import { connectStateResults, Snippet } from "react-instantsearch-dom";
-import {
-  InstantSearch,
-  connectSearchBox,
-  Index,
-} from "react-instantsearch-dom";
-import useSiteMetadata from "../utils/useSiteMetadata";
+import { InstantSearch, connectSearchBox } from "react-instantsearch-dom";
+
 import Icon from "./icon";
-import PopOverContainer from "./popOverContainer";
-import Link from "./link";
-import { useLocalization } from "../../plugins/translations-plugin/src/components/localizationProvider";
+import Fader from "./fader";
+import SearchResults from "./searchAlgoliaResults";
 
-import Md from "./markdownDynamic";
+const algoliaAppId = process.env.ALGOLIA_APP_ID;
+const algoliaApiKey = process.env.ALGOLIA_SEARCH_KEY;
+const algoliaIndex = process.env.ALGOLIA_MAIN_INDEX;
 
-const SearchBox = ({ refine }) => {
+const SearchBox = connectSearchBox(({ refine }) => {
   const setValueDebounced = useDebounce(refine, 500);
   return (
     <input
       placeholder="Search"
       aria-label="Search"
       type="search"
-      css={[
-        tw`block w-full bg-backdrop-light border pl-10 border-shade-lighter rounded-md py-2 pr-3 text-sm placeholder-shade-light focus:outline-none focus:ring-0 focus:border-shade-light`,
-        // hasFocus ? tw`pl-3` : tw`pl-10`,
-      ]}
+      tw="block w-full bg-backdrop-light border pl-10 border-shade-lighter rounded-md py-2 pr-3 text-sm placeholder-shade-light focus:outline-none focus:ring-0 focus:border-shade-light"
       onChange={(e) => {
         setValueDebounced(e.target.value);
       }}
     />
   );
-};
+});
 
-const PoweredBy = ({ url }) => (
+const PoweredBy = connectPoweredBy(({ url }) => (
   <a href={url} target="_blank" rel="noreferrer">
     Powered by Algolia
   </a>
-);
-
-const ResultsItems = ({ title, hits }) => {
-  return (
-    <>
-      <div tw="bg-primary-dark text-primary-lightest px-4 py-2 uppercase">
-        {title}
-      </div>
-      {hits.map((hit) => (
-        <Link
-          to={hit.url || hit.link}
-          key={hit.objectID}
-          tw="block hover:text-shade-darker hover:bg-primary-lightest px-4 py-2"
-        >
-          <div tw="font-bold">
-            {/* TODO refile search results */}
-            {hit.title.replace(` - Ethereum Classic`, "")}
-            {/* {hit.description} */}
-          </div>
-          <div tw="text-sm line-clamp-2">
-            {hit.content ? (
-              <Snippet hit={hit} attribute="content" />
-            ) : (
-              <Md noLinks>{hit.description}</Md>
-            )}
-          </div>
-        </Link>
-      ))}
-    </>
-  );
-};
-
-const ResultsBlock = ({
-  searchResults,
-  searching,
-  categories,
-  title,
-  locale,
-  lang,
-}) => {
-  const hits =
-    searchResults?.hits.filter((h) => h.lang === lang || h.locale === locale) ??
-    [];
-  if (searching || hits.length < 1) {
-    return null;
-  }
-  if (categories) {
-    const cats = Object.values(
-      hits.reduce((o, h) => {
-        const category = categories[h.category];
-        if (category) {
-          return {
-            ...o,
-            [h.category]: {
-              hits: (o[h.category]?.hits ?? []).concat([h]),
-              ...category,
-            },
-          };
-        }
-        return o;
-      }, {})
-    );
-    return cats.map((cat) => <ResultsItems key={cat.title} {...cat} />);
-  }
-  return <ResultsItems {...{ title, hits }} />;
-};
-
-const CustomPoweredBy = connectPoweredBy(PoweredBy);
-const ConnectedSearchBox = connectSearchBox(SearchBox);
-const ConnectedResultsBlock = connectStateResults(ResultsBlock);
-
-function Wrapper({ children }) {
-  if (!children) {
-    return null;
-  }
-  return (
-    <div tw="absolute mt-1 max-w-md md:max-w-lg right-0 w-screen pl-4">
-      <PopOverContainer>
-        <div tw="overflow-y-scroll divide-y divide-solid divide-shade-lightest max-h-[40vh] md:max-h-[70vh]">
-          {children}
-        </div>
-        <div tw="text-right text-sm text-shade-neutral bg-shade-lightest py-1 px-4">
-          <CustomPoweredBy />
-        </div>
-      </PopOverContainer>
-    </div>
-  );
-}
+));
 
 export default function SearchAgolia({ inline }) {
-  const { algoliaAppId, algoliaApiKey, algoliaIndex } = useSiteMetadata();
-  const {
-    locale,
-    globals: {
-      ui: { htmlLang },
-    },
-  } = useLocalization();
   const [focused, setFocus] = useState(false);
   const [query, setQuery] = useState("");
+  const [resultsCount, setResultsCount] = useState({});
+  function setResults(title, count, searching) {
+    setResultsCount({
+      [query]: {
+        ...resultsCount[query],
+        [title]: { count, searching },
+      },
+    });
+  }
   const aSearch = useRef(null);
   useEffect(() => {
     aSearch.current = algoliasearch(algoliaAppId, algoliaApiKey);
-  }, [algoliaApiKey, algoliaAppId]);
+  }, []);
   const search = {
     search(requests) {
       if (requests[0].params.query === "") {
@@ -151,6 +59,15 @@ export default function SearchAgolia({ inline }) {
       return aSearch.current.search(requests);
     },
   };
+  const show = !!(focused && query);
+  const info = Object.keys(resultsCount[query] || {}).reduce((o, k) => {
+    const { count, searching } = resultsCount[query][k];
+    return {
+      ...o,
+      count: (o.count || 0) + count,
+      searching: searching || !!o.searching,
+    };
+  }, {});
   return (
     <div
       tw="w-full"
@@ -161,7 +78,9 @@ export default function SearchAgolia({ inline }) {
         searchClient={search}
         indexName={algoliaIndex}
         onSearchStateChange={(state) => {
-          setTimeout(() => setQuery(state.query), 10);
+          setTimeout(() => {
+            setQuery(state.query);
+          }, 10);
         }}
       >
         <label htmlFor="search" tw="sr-only">
@@ -175,41 +94,25 @@ export default function SearchAgolia({ inline }) {
               aria-hidden="true"
             />
           </div>
-          <ConnectedSearchBox inline={inline} />
-          {focused && query && (
-            <Wrapper>
-              <ConnectedResultsBlock
-                lang={htmlLang}
-                locale={locale}
-                categories={{
-                  general: { title: "Pages" },
-                  blog: { title: "Blog Articles" },
-                }}
-              />
-              <Index indexName="videos">
-                <ConnectedResultsBlock
-                  lang={htmlLang}
-                  locale={locale}
-                  title="Videos"
-                />
-              </Index>
-              <Index indexName="applications">
-                <ConnectedResultsBlock
-                  lang={htmlLang}
-                  locale={locale}
-                  title="Apps"
-                />
-              </Index>
-              <Index indexName="newsLinks">
-                <ConnectedResultsBlock
-                  lang={htmlLang}
-                  locale={locale}
-                  title="News Links"
-                />
-              </Index>
-            </Wrapper>
-          )}
+          <SearchBox inline={inline} />
         </div>
+        <Fader show={show}>
+          <div tw="absolute p-2 transition transform origin-top-right backdrop-blur-xl bottom-0 top-14 right-0 left-0 h-screen">
+            <div tw="md:max-w-2xl bg-backdrop-light mx-auto shadow-2xl rounded-2xl overflow-hidden">
+              <div tw="overflow-y-auto divide-y divide-solid divide-shade-lightest max-h-[40vh] md:max-h-[70vh]">
+                {show && (
+                  <SearchResults setResultsCount={setResults} info={info} />
+                )}
+              </div>
+              <div tw="flex items-center text-sm text-shade-neutral bg-shade-lightest py-1 px-4">
+                <div tw="flex-auto">
+                  {!!info.count && `${info.count} Results`}
+                </div>
+                <PoweredBy />
+              </div>
+            </div>
+          </div>
+        </Fader>
       </InstantSearch>
     </div>
   );

@@ -34,10 +34,16 @@ export default function Markdown({
           />
         ),
   };
-  if (unwrap) {
-    components.root = unwrapParagraphs;
-  }
+  // if (unwrap) {
+  //   components.root = unwrapParagraphs;
+  // }
   return (
-    <ReactMarkdown children={children} components={components} {...props} />
+    <ReactMarkdown
+      unwrapDisallowed
+      disallowedElements={unwrap && ["p"]}
+      children={children}
+      components={components}
+      {...props}
+    />
   );
 }
