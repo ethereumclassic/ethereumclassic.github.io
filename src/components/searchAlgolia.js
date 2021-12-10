@@ -1,6 +1,5 @@
-// TODO refactor this!
 import React, { useEffect, useRef, useState } from "react";
-import "twin.macro";
+import tw from "twin.macro";
 import algoliasearch from "algoliasearch/lite";
 import { useDebounce } from "rooks";
 import { connectPoweredBy } from "react-instantsearch-dom";
@@ -9,6 +8,7 @@ import { InstantSearch, connectSearchBox } from "react-instantsearch-dom";
 import Icon from "./icon";
 import Fader from "./fader";
 import SearchResults from "./searchAlgoliaResults";
+import isSSR from "../utils/isSSR";
 
 const algoliaAppId = process.env.ALGOLIA_APP_ID;
 const algoliaApiKey = process.env.ALGOLIA_SEARCH_KEY;
@@ -18,7 +18,8 @@ const SearchBox = connectSearchBox(({ refine }) => {
   const setValueDebounced = useDebounce(refine, 500);
   return (
     <input
-      placeholder="Search"
+      className="peer"
+      placeholder={"Search"}
       aria-label="Search"
       type="search"
       tw="block w-full bg-backdrop-light border pl-10 border-shade-lighter rounded-md py-2 pr-3 text-sm placeholder-shade-light focus:outline-none focus:ring-0 focus:border-shade-light"
@@ -84,7 +85,7 @@ export default function SearchAgolia({ inline }) {
         }}
       >
         <label htmlFor="search" tw="sr-only">
-          Search
+          {isSSR ? "Enable JS to Search" : "Search"}
         </label>
         <div tw="relative">
           <div tw="pointer-events-none absolute inset-y-0 left-0 pl-3 flex items-center">
@@ -95,6 +96,14 @@ export default function SearchAgolia({ inline }) {
             />
           </div>
           <SearchBox inline={inline} />
+          <div
+            css={[
+              tw`hidden absolute text-sm bg-secondary-dark text-secondary-lightest px-2 py-1 font-bold rounded-md left-9 top-1.5`,
+              isSSR && tw`peer-focus:block`,
+            ]}
+          >
+            Enable JS to Search
+          </div>
         </div>
         <Fader show={show}>
           <div tw="absolute p-2 transition transform origin-top-right backdrop-blur-xl bottom-0 top-14 right-0 left-0 h-screen">

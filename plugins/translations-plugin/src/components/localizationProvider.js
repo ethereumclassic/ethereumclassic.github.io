@@ -28,7 +28,7 @@ function LocalizationProvider({
 }) {
   const [dayJsLoaded, setLoaded] = useState(!dayJsImport);
   if (dayJsImport && dayJsLoaded !== dayJsImport) {
-    // TODO find a better way, React 18?
+    // TODO find a better way, with React 18?
     import(`dayjs/locale/${dayJsImport}`).then((res) => {
       dayjs.locale(dayJsImport);
       setLoaded(dayJsImport);

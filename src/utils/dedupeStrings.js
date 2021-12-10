@@ -1,7 +1,7 @@
-// todo convert  to component
-
-export default function dedupeStrings(author = "", source = "", joiner = ", ") {
+function dedupeStrings(author = "", source = "", joiner = ", ") {
   return author === source
     ? author
     : [author, source].filter((i) => i).join(joiner);
 }
+
+module.exports = dedupeStrings;

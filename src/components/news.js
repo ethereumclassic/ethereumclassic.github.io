@@ -61,6 +61,7 @@ export default function News({ pageContext, data, i18n }) {
           <NewsFilters {...{ pageContext, i18n }} />
           <div tw="text-center">
             <Link
+              notLocalized
               to={isDefaultLocale ? "/rss.xml" : `/rss-${locale}.xml`}
               icon="feed"
               button

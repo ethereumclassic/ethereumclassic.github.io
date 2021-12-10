@@ -157,7 +157,12 @@ export default function Sitemap({
             ))}
         </div>
         <div>
-          <Button secondary icon="sitemap" as={"a"} href="/sitemap.xml">
+          <Button
+            secondary
+            icon="sitemap"
+            as={"a"}
+            href="/sitemap/sitemap-0.xml"
+          >
             sitemap.xml
           </Button>
         </div>

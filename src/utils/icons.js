@@ -1,7 +1,5 @@
 import React from "react";
 
-// TODO, move these to individual components for tree shaking + generic pages one
-
 export const etc = ({ color = "currentColor", ...rest }) => (
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 133.7 220.5" {...rest}>
     <g fill={color}>
@@ -108,7 +106,6 @@ export {
   faGithub as github,
 } from "@fortawesome/free-brands-svg-icons";
 
-// TODO use preprocessed flags isntead
 // flags, used via locale key; https://github.com/lipis/flag-icons/blob/main/country.json
 export { default as en } from "flag-icon-css/flags/1x1/gb.svg";
 export { default as de } from "flag-icon-css/flags/1x1/de.svg";

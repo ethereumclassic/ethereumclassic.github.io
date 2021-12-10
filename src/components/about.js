@@ -16,7 +16,6 @@ export default function About({ i18n, data }) {
         <h1>{i18n.title}</h1>
         <Markdown>{i18n.description}</Markdown>
       </div>
-      {/* TODO back button */}
       <div tw="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 gap-4 pt-10">
         {sorted.map(({ edges }) => {
           const [

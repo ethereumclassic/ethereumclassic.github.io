@@ -2,7 +2,6 @@ import tw from "twin.macro";
 
 import LinkIcon from "./linkIcon";
 
-// TODO combine with link
 export default function Button({
   as,
   icon,

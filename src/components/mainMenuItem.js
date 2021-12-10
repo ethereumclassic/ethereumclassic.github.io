@@ -22,7 +22,7 @@ export default function MainMenuItem({ item }) {
   }
   // Item with MainMenuSubMenu
   return (
-    <Popover tw="relative">
+    <Popover tw="relative" className="group">
       {({ open }) => (
         <>
           <Popover.Button
@@ -42,7 +42,6 @@ export default function MainMenuItem({ item }) {
               aria-hidden="true"
             />
           </Popover.Button>
-          {/* TODO other options like rendering below the list as per template */}
           <MainMenuSubMenu items={item.navItems} />
         </>
       )}

@@ -1,5 +1,3 @@
-// TODO add option for redirecting correct page based on some index, e.g. creation date
-
 const { camelCase } = require("lodash");
 
 let queried;

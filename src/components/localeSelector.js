@@ -9,7 +9,7 @@ import LocaleButtons from "./localeButtons";
 export default function LocaleSelector({ ...props }) {
   return (
     <Popover.Group tw="flex" {...props}>
-      <Popover tw="relative">
+      <Popover tw="relative" className="group">
         {({ open }) => (
           <>
             <div tw="flex items-center">
@@ -32,7 +32,7 @@ export default function LocaleSelector({ ...props }) {
             </div>
             <PopDownMenu
               left
-              // TODO move this somehwere else
+              // TODO enable this after i18n implemented
               // cta={
               //   <a
               //     href="#"

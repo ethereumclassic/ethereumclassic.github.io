@@ -204,8 +204,6 @@ exports.createPages = async (
         if (!isTranslated && noFallback) {
           return;
         }
-        const i18n = getTranslations({ localeImports, defaultLocaleImports });
-        // TODO pass some useful fields into context?
         const p = {
           path: isDefaultLocale ? `/${dir}` : `/${locale}/${dir}`,
           component: resolveTemplate(dir),
@@ -217,8 +215,10 @@ exports.createPages = async (
             dayJsImport,
             noFallback,
             mdxSlug: localeMdx || defaultLocaleMdx || null,
-            // updated: i18n.updated,
-            i18n: JSON.stringify(i18n), // to stop it creating weird schemas
+            // stringify to prevent generating mad schemas
+            i18n: JSON.stringify(
+              getTranslations({ localeImports, defaultLocaleImports })
+            ),
           },
         };
         createPage(p);

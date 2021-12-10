@@ -22,7 +22,6 @@ function comapreSlugs(slug1, slug2) {
 }
 
 export default function Pagination({ pageContext, scrollTo }) {
-  // TODO i18n
   // if we have hash in the url, try to click that item after we've loaded the content
   // otherwise redirect to the correct page, and try again
   const { currentPage, numPages, filterBase } = pageContext;

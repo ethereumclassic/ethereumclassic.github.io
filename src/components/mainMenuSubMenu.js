@@ -31,10 +31,6 @@ export default function MainMenuSubMenu({ items }) {
       {items.map((item) => (
         <SubMenuItem key={item.key} item={item} />
       ))}
-      {/* 
-        TODO add some calls to action
-        via PopDownMenu cta
-      */}
     </PopDownMenu>
   );
 }

@@ -1,7 +1,4 @@
-// This config currently mimics default behaviour
-// TODO add a lastMod for better indexing / SEO
-
-module.exports = ({ siteUrl }) => ({
+module.exports = ({ siteUrl, lastUpdated }) => ({
   output: "/sitemap",
   query: `
     {
@@ -9,32 +6,43 @@ module.exports = ({ siteUrl }) => ({
         edges {
           node {
             path
+            pageContext
+          }
+        }
+      }
+      mdx: allMdx {
+        edges {
+          node {
+            slug
+            frontmatter {
+              updated
+              date
+            }
           }
         }
       }
     }
   `,
   resolveSiteUrl: () => siteUrl,
-  resolvePages: ({
-    pages: { edges },
-    // allWpContentNode: { nodes: allWpNodes },
-  }) => {
-    // const wpNodeMap = allWpNodes.reduce((acc, node) => {
-    //   const { uri } = node;
-    //   acc[uri] = node;
-
-    //   return acc;
-    // }, {});
-    const pages = edges.map(({ node }) => node);
-    return pages;
-    // .map((page) => {
-    //   return { ...page, ...wpNodeMap[page.path] };
-    // });
+  resolvePages: ({ pages: { edges }, mdx }) => {
+    const mdxInfo = mdx.edges.reduce((o, { node }) => {
+      return { ...o, [node.slug]: node.frontmatter };
+    }, {});
+    return edges.map(({ node }) => {
+      const { i18n, mdxSlug } = node.pageContext;
+      let { date, updated } = mdxInfo[mdxSlug] || {};
+      const parsed = i18n ? JSON.parse(i18n) : {};
+      return {
+        ...node,
+        lastmod:
+          parsed.updated || updated || parsed.published || date || lastUpdated,
+      };
+    });
   },
-  serialize: ({ path }) => {
+  serialize: ({ path, lastmod }) => {
     return {
       url: path,
-      // lastmod: modifiedGmt,
+      lastmod,
     };
   },
 });

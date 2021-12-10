@@ -1,4 +1,3 @@
-// TODO somehow make this dynamic?
 import React, { forwardRef } from "react";
 import * as icons from "../utils/icons";
 
@@ -14,8 +13,7 @@ const IconComp = forwardRef(function (
 });
 
 export default function Icon({ icon, ...rest }) {
-  const I = icons[icon] || icons.menu; // TODO fallback to something else
-
+  const I = icons[icon] || icons.menu;
   // Imported SVGs
   if (typeof I === "string") {
     return <img src={I} alt={rest.alt || ""} {...rest} />;

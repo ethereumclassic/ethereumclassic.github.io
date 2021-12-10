@@ -3,31 +3,28 @@
 ```
 ~~~ 3022.VO.2 ~~~
 
-TODAY
+- ctrl f TODO
 
-- nicer scrollbars
+CONTENT
 
-LATER
-
-- Github project issues
 - Content!
-- add lastMod to sitemap for SEO
 - copywriting
-- Social image
+- Github project issues
 - Ensure correct contributors for each piece of content (git blame)
-- Ensure old site feature parity
 - i18n 404 redirects, make sure all old pages get redirected properly
+- Ensure old site feature parity
 - check page metadata, rss feeds and sitemap are correct
 - Update Readme
-- ctrl f TODO
-- Fallback dropdown for noscript
+- Disable i18n
 
 PREFLIGHT
 
 - Update url refs from etc3022.netlify
 - Lighthouse
+- 404 page styling
 - remove perf tools from config
 - udpade branch settings for agolia plugin
+- After banner update, review Social image
 
 ~~~ 3022.V1 RELEASE, PUBLIC ~~~
 
@@ -44,4 +41,5 @@ PREFLIGHT
 - Turn banners into NFTs
 - POAP for contributors
 - Check https://github.com/gatsbyjs/themes/issues/93
+- images in metadata
 ```

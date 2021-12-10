@@ -10,11 +10,6 @@ import Md from "./markdownDynamic";
 import TwContainer from "./twContainer";
 
 const palette = {
-  yellow: {
-    bg: tw`bg-yellow-600`,
-    icon: tw`bg-yellow-800`,
-    link: tw`text-yellow-600 hover:bg-yellow-50`,
-  },
   green: {
     bg: tw`bg-primary-dark`,
     icon: tw`bg-primary-darkest`,
@@ -24,11 +19,6 @@ const palette = {
     bg: tw`bg-secondary-dark`,
     icon: tw`bg-secondary-darkest`,
     link: tw`text-secondary-dark hover:bg-secondary-lightest`,
-  },
-  red: {
-    bg: tw`bg-red-600`,
-    icon: tw`bg-red-800`,
-    link: tw`text-red-600 hover:bg-red-50`,
   },
 };
 
@@ -65,7 +55,6 @@ export default function Announcement() {
               <Link
                 icon="right"
                 to={announcement.button.link}
-                // button TODO this is annoying
                 css={[
                   tw`flex items-center justify-center px-2 pr-3 sm:pr-2 sm:px-4 py-2 border border-transparent rounded-md shadow-sm sm:text-sm font-medium bg-backdrop-light`,
                   col.link,

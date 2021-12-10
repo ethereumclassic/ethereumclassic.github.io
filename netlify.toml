@@ -1,6 +1,5 @@
 [build]
   publish = "public"
-# TODO use gatsby plugin algolia instead, so we can index content types better
 [[plugins]]
   package = "@algolia/netlify-plugin-crawler"
     [plugins.inputs]

@@ -1,31 +1,17 @@
-// return news items
-// TODO add all categories etc? https://www.npmjs.com/package/rss#itemoptions
-
 const dedupeStrings = require("../src/utils/dedupeStrings");
 
-module.exports = ({ locales, siteUrl }) => ({
-  feeds: locales.list
+module.exports = ({ locales, defaultLocale, siteUrl }) => ({
+  feeds: Object.keys(locales)
+    .map((key) => ({ key, isDefault: defaultLocale === key, ...locales[key] }))
     .filter(({ enabled }) => enabled)
-    .map((locale) => ({
-      serialize: ({ query: { newsItems } }) => {
-        return newsItems.edges.map(({ node }) => {
-          // todo get blog article excerpts
-          // prepend site URL if we have a blog item
-          // const link = node.link;
-          return {
-            date: node.date,
-            title: node.title,
-            author: dedupeStrings(node.author, node.source),
-            url: node.blog ? `${siteUrl}${node.link}` : node.link,
-            description: node.blog ? node.parent.excerpt : undefined,
-          };
-        });
-      },
+    .map(({ key, name, isDefault }) => ({
+      output: `/rss${isDefault ? "" : `-${key}`}.xml`,
+      title: `Ethereum Classic News${isDefault ? "" : ` - ${name}`}`,
       query: `
       {
         newsItems: allNewsItem(
-          filter: {locale: { eq: "${locale.key}" } }
-          sort: { fields: date, order: DESC }
+          filter: {locale: { eq: "${key}" } }
+          sort: { fields: [date, title], order: [DESC, ASC] }
         ) {
           edges {
             node {
@@ -34,8 +20,9 @@ module.exports = ({ locales, siteUrl }) => ({
               author
               source
               link
+              description
               title
-              blog
+              newsType
               parent {
                 ... on Mdx {
                   excerpt(pruneLength: 400)
@@ -46,14 +33,20 @@ module.exports = ({ locales, siteUrl }) => ({
         }
       }
     `,
-      output: `/rss${locale.default ? "" : `-${locale.key}`}.xml`,
-      title: `ETC News${locale.default ? "" : ` - ${locale.name}`}`,
-      // optional configuration to insert feed reference in pages:
-      // if `string` is used, it will be used to create RegExp and then test if pathname of
-      // current page satisfied this regular expression;
-      // if not provided or `undefined`, all pages will have feed reference inserted
-      match: "^/(news|blog)/", // TODO, make this work with specifically with locales
-      // optional configuration to specify external rss feed, such as feedburner
-      // link: "https://feeds.feedburner.com/gatsby/blog",
+      serialize: ({ query: { newsItems } }) => {
+        return newsItems.edges.map(({ node }) => {
+          const item = {
+            date: node.date,
+            title: node.title,
+            guid: `${siteUrl}${node.link}`,
+            author: dedupeStrings(node.author, node.source),
+            url:
+              node.newsType === "news" ? node.link : `${siteUrl}${node.link}`,
+            description: node.parent?.excerpt || node.description,
+          };
+          console.log(item);
+          return item;
+        });
+      },
     })),
 });

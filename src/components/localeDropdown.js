@@ -8,6 +8,8 @@ import Icon from "./icon";
 import Fader from "./fader";
 import PopOverContainer from "./popOverContainer";
 
+import isSSR from "../utils/isSSR";
+
 export default function LocaleDropdown() {
   const { locale, locales, defaultLocale, basePath, localeItems, current } =
     useLocaleItems();
@@ -28,7 +30,7 @@ export default function LocaleDropdown() {
     >
       {({ open }) => (
         <>
-          <div tw="mt-1 relative">
+          <div tw="mt-1 relative" className="group">
             <Listbox.Button tw="relative bg-backdrop-light border border-shade-lighter rounded-md shadow-sm pl-3 pr-10 py-2 text-left cursor-default sm:text-sm">
               <span tw="flex items-center">
                 <Icon
@@ -46,8 +48,14 @@ export default function LocaleDropdown() {
                 />
               </span>
             </Listbox.Button>
-            <Fader>
-              <Listbox.Options tw="absolute left-0 top-11 z-10">
+            <Fader show={isSSR || open || undefined}>
+              <Listbox.Options
+                static
+                css={[
+                  tw`absolute left-0 top-11 z-10`,
+                  isSSR && tw`hidden group-hover:block`,
+                ]}
+              >
                 <PopOverContainer>
                   <div tw="overflow-y-scroll max-h-52 py-1 text-sm">
                     {localeItems.map(({ key, name, enabled }) => (
@@ -55,10 +63,7 @@ export default function LocaleDropdown() {
                         {({ active }) => (
                           <li
                             css={[
-                              tw`cursor-default select-none relative py-2 pl-3 pr-10`,
-                              active
-                                ? tw`text-shade-lightest bg-secondary-dark`
-                                : tw`text-shade-darkest`,
+                              tw`cursor-default select-none relative py-2 pl-3 pr-10 text-shade-darkest hover:text-shade-lightest hover:bg-secondary-dark`,
                               !enabled && tw`opacity-50 cursor-not-allowed`,
                             ]}
                           >

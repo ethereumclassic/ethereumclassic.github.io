@@ -81,6 +81,27 @@ const customStyles = css`
     height: 5rem;
     margin: -5rem 0 0;
   }
+
+  /* SCROLLBARS */
+  /* Works on Firefox */
+  * {
+    scrollbar-color: var(--shade-light) var(--backdrop-dark);
+  }
+
+  /* Works on Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 12px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: var(--backdrop-dark);
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: var(--shade-light);
+    border-radius: 20px;
+    border: 3px solid var(--backdrop-dark);
+  }
 `;
 
 export default function GlobalStyles() {

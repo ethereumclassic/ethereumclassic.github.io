@@ -1,4 +1,5 @@
 const siteUrl = "https://etc3022.netlify.app";
+const lastUpdated = new Date("2021-12-21"); // passed to sitemap, shows roughtly last time page was updated
 
 const { locales, defaultLocale } = require("./configs/locales");
 
@@ -14,6 +15,7 @@ module.exports = {
     siteUrl,
     socialImage: "/etc-social-card.png",
     redirects: require("./configs/redirects"),
+    lastUpdated,
   },
   plugins: [
     // "gatsby-plugin-perf-budgets",
@@ -43,7 +45,10 @@ module.exports = {
     },
     {
       resolve: "gatsby-plugin-sitemap",
-      options: require("./configs/sitemap")({ siteUrl }),
+      options: require("./configs/sitemap")({
+        siteUrl,
+        lastUpdated,
+      }),
     },
     ...[
       process.env.ALGOLIA_ADMIN_KEY && {
@@ -51,26 +56,24 @@ module.exports = {
         options: require("./configs/search"),
       },
     ].filter((c) => c),
-    // TODO FIXME
-    // {
-    //   resolve: "gatsby-plugin-feed",
-    //   options: require("./configs/rss")({ locales, siteUrl }),
-    // },
     {
-      resolve: "gatsby-source-filesystem",
-      options: {
-        name: "images",
-        path: "./src/images/",
-      },
-      __key: "images",
+      resolve: "gatsby-plugin-feed",
+      options: require("./configs/rss")({ locales, defaultLocale, siteUrl }),
     },
+    //  TODO, include once we have a banner iamge
+    // {
+    //   resolve: "gatsby-source-filesystem",
+    //   options: {
+    //     name: "images",
+    //     path: "./src/images/",
+    //   },
+    // },
     {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "content",
         path: "./content/",
       },
-      __key: "content",
     },
     {
       resolve: `gatsby-plugin-mdx`,

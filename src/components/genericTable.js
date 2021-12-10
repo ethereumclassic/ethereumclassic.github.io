@@ -55,8 +55,6 @@ function CellContent({ item, column, i18n }) {
 }
 
 export default function GenericTable({ items, columnItems, hideHead, i18n }) {
-  // TODO order items
-  // TODO overflow scroll
   return (
     <div tw="max-w-full overflow-x-auto">
       <table>

@@ -18,7 +18,7 @@ export default function Seo({ data, i18n, pageContext: { basePath, path } }) {
   const { isDark } = useTheme();
 
   const url = `${siteUrl}${path}`;
-  const image = `${siteUrl}${socialImage}`; // TODO extract image from MDX
+  const image = `${siteUrl}${socialImage}`; // TODO extract image from MDX somehow
   const title = dedupeStrings(
     data?.mdx?.meta?.title || i18n.title,
     ui.title,
