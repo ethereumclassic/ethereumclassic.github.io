@@ -22,7 +22,7 @@ module.exports = ({ locales, defaultLocale, siteUrl }) => ({
               link
               description
               title
-              newsType
+              type: newsType
               parent {
                 ... on Mdx {
                   excerpt(pruneLength: 400)
@@ -33,20 +33,14 @@ module.exports = ({ locales, defaultLocale, siteUrl }) => ({
         }
       }
     `,
-      serialize: ({ query: { newsItems } }) => {
-        return newsItems.edges.map(({ node }) => {
-          const item = {
-            date: node.date,
-            title: node.title,
-            guid: `${siteUrl}${node.link}`,
-            author: dedupeStrings(node.author, node.source),
-            url:
-              node.newsType === "news" ? node.link : `${siteUrl}${node.link}`,
-            description: node.parent?.excerpt || node.description,
-          };
-          console.log(item);
-          return item;
-        });
-      },
+      serialize: ({ query: { newsItems } }) =>
+        newsItems.edges.map(({ node }) => ({
+          date: node.date,
+          title: node.title,
+          guid: `${siteUrl}${node.link}`,
+          author: dedupeStrings(node.author, node.source),
+          description: (node.parent || {}).excerpt || node.description,
+          url: node.type === "news" ? node.link : `${siteUrl}${node.link}`,
+        })),
     })),
 });
