@@ -116,5 +116,13 @@
       background: _themed(orange-col);
       color: _themed(dark-orange-col);
     }
+
+    .color-grid-legend .key.grid-color-6,
+    .color-grid-items .card.grid-color-6:hover,
+    .color-grid-items .card.grid-color-6 h4 {
+      background: _themed(bg);
+      color: _themed(fg);
+    }
+
   }
 }
