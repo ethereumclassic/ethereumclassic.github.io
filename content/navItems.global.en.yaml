@@ -8,12 +8,12 @@ learn:
       name: Why Classic?
       description: Start here to get the lowdown on Etherum Classic's reason for being and unique value proposition
       navItems:
-        genesis:
-          __link: /why-classic/genesis
-          name: Genesis
         codeIsLaw:
           __link: /why-classic/code-is-law
           name: Code is Law
+        genesis:
+          __link: /why-classic/genesis
+          name: Genesis
         decentralization:
           __link: /why-classic/decentralization
           name: Decentralization
