@@ -15,4 +15,4 @@ More information, including current questions, can be found here: https://github
 
 We look forward to your presence at the Community Call
 
-![times](https://user-images.githubusercontent.com/1696942/146516154-f52ee491-640f-4d45-846f-e39726debea6.png)
+![times](./times.png)
