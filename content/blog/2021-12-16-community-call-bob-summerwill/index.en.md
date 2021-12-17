@@ -1,6 +1,6 @@
 ---
 title: ETC Community Call with Bob Summerwill (guest)
-date: 2021-21-16
+date: 2021-12-21
 author: ETC Discord
 tags: ["announcement"]
 ---
