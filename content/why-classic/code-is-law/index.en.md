@@ -23,7 +23,7 @@ In this future, one or more global "virtual jurisdictions" exist, over and above
 
 Unlike the traditional legal jurisdiction that exist today that are regularly manipulated by the whims of the powerful, future virtual jursidictions will be goverened by the principle of "Code is Law", meaning that for the first time ever, humanity can operate under _actual_, as opposed to the guise of, Rule of Law, codified not in archane and misinterpretable legal prose, but in pure mathematics.
 
-_Code is Law_ is made possible by blockchain tech, and is a simple concept that keeps these jurisdictions sovereign; it means that the code of a Smart Contract is the ultimate arbiter of the outcome of an on-chain interaction, as opposed to some overriding force from outside the network.
+_Code is Law_ is made possible by blockchain tech, and is a simple concept that keeps these jurisdictions sovereign; it means that the code of a Smart Contract is the ultimate arbiter of the outcome of an on-chain interaction, as opposed to some overriding force from outside the network; applications are _unstoppable_.
 
 When individuals voluntarily engage with Smart Contracts on a chain that follows _Code is Law_, they accept the outcome of whatever logic is defined within those contracts. If a contract is poorly written or has a mistake, it is not the responsibility of the wider network to "make whole" parties who are not happy with a given outcome. In short: No do-overs.
 
@@ -31,7 +31,7 @@ When individuals voluntarily engage with Smart Contracts on a chain that follows
 
 Upon reflection, it becomes apparent that _Code is Law_ is really the _only_ way that Smart Contracts can be fairly or usefully intepreted. If a blockchain does not uphold _Code is Law_, then then outcome of transactions is not goverened by individual choice via contract code, but ultimately by "governance" from the legacy system, including all the drawbacks that the introduction of a blockchain was meant to alleviate.
 
-For those that want to "Build Unstoppable Applications", the obvious truth is that _Code is Law_ is the very thing that makes blockchains valuable; it is why they exist. Without _Code is Law_, why bother with a blockchain at all?
+For those that want to "Build _Unstoppable_ Applications", the obvious truth is that _Code is Law_ is the very thing that makes blockchains valuable; it is why they exist. Without _Code is Law_, there are much more efficient ways to "Build _Stoppable_ Applications" (like Amazon Web Services), so why bother with a blockchain at all?
 
 ## Not without a Fight
 
