@@ -17,6 +17,6 @@ We look forward to your presence at the Community Call
 
 ---
 
-Update: The call took place with a recording was uploaded:
+Update: The call took place and a recording was uploaded:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/acz_xQ4lXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
