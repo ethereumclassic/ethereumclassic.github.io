@@ -37,6 +37,8 @@ Etheruem Classic is one of those survivors.
 - Battle Tested
 - Separation of Concerns
 
+Ethereum Classic didn't just have a "fair distribution", it had an "ultrafair distribution"; a voluntary market redistribution away from those who didn't want Code is Law to those who supported Code is Law; this process refined the initial hodlers of ETC to be those who would respect and defend it's core values.
+
 ## Meatspace Capture
 
 ### ConsenSys, Kompromat and Corporate Capture
