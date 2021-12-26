@@ -9,6 +9,12 @@ legends:
   other: Other
 items: 
 - 
+  key: ClassicSavages
+  name: Classic Savages
+  link: https://classicsavages.com/
+  text: The first original NFT project built on ETC by founder Savageprofits
+  type: nft
+- 
   key: ETCBits
   name: ETCBits
   link: https://medium.com/@persn.assist/etcbits-1st-3d-collection-and-only-2nd-nft-collection-on-ethereum-classic-547e787f5633
