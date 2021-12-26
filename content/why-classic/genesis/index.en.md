@@ -221,49 +221,67 @@ Two days later, a version of Geth is forked that defaults to the Classic chain a
 
 After three days and three nights, The Original Ethereum Vision had risen again.
 
-## "Chain of Theifs"
+## The Difficult Breakup
 
-The now fractured Etheruem community, already war-weary thanks to the the Hard Fork debate, was now sent into overdrive by the emergecne of Ethereum Classic. What many had hoped would be the end of the struggle, turned out to be be the beginning of another difficult chapter, in a demoralizing development that was far worse than anticipated and professed just weeks earlier. To many ardent pro-forkers, ETC was living proof that their assurances about a smooth Hard Fork were completely unfounded. 
+The now fractured Etheruem community, already war-weary thanks to the the Hard Fork debate, was now sent into overdrive by the emergecne of Ethereum Classic. What many had hoped would be the end of the struggle turned out to be be the beginning of another difficult chapter, in a demoralizing development that was far worse than anticipated and professed just weeks earlier. 
 
-### The Vilification of Classic
+The chain split was far from painless, and had all of the side effects been known in advance, it seems extremely unlikely that even the most ardent supporters of a Hard Fork would have considered it an acceptable solution, especially compared to alterantives that would not have caused a split. ETC was living proof that pro-forker assurances about a smooth Hard Fork were just wishful thinking. Having caused such a cock-up, who could trust their judgement again?
 
-Pro-forkers, including some from Ethereum Foundation, proclaimed that Ethereum Classic was many things; an attack on ETH by BTC Maximalists, an empty protest chain, a zombie that would disappear in short order, a "chain of thiefs" - many things, but definitely *not* legitimate. Nobody that really supported Etheruem could support Ethereum Classic; *that* was heracy. 
+### Chain of Thieves
 
-Basically, those responsible for Ethereum Classic *had* to pay. Much of this post-fork animosity was captured by commenters on Medium, but won't be linked to here to avoid picking at scabs.
+Pro-forkers proclaimed that this new Ethereum Classic thing was trouble; it was an attack on Etheruem by Bitcoin Maximalists, an empty protest chain, a zombie that would disappear in short order, even a "chain of thiefs". ETC was many things, but definitely *not* legitimate, and nobody that supported Etheruem could honestly support Ethereum Classic; *that* was heracy. 
 
-### Free Money; the Ultrafair Distribution
+For many, those responsible for Ethereum Classic were baddies that had to pay for their crime. Much of this post-fork animosity was captured at the time by commenters on Medium, but to avoid picking at scabs, we strongly advise against goolging the title of this section.
 
-But the attacks were not just limited to name calling.
+### "Free Money" and the Ultrafair Distribution
 
-Fun times
+But the attacks against Etheruem Classic were not just limited to name calling. In the aversarial world of blockchain economics, one misguided approach at destroying a chain involves trying to send it's price to zero. Of course, the reality is that blockchains are far more resilient than this, but it doesn't stop people from trying.  
 
-- To the horror of pro-forkers, at it's peak, ETC reached 1:3 price ratio with ETH, posing a significant threat of "flippening" ETH and delegitimizing the Hard Fork in a huge way.
+As a result of the chain split, everyone who held Ether before the Hard Fork were now seeing double; they'd have both the Original ether they previously held in the form of ETC, as well as an equal amount of the newly minted Forked Ether, now known as ETH. Thanks to exchanges listing ETC, a liquid market had forked that enabled price discovery between the two chains.
 
-### Replay Attacks
+Many pro-forkers, during these early days of price discovery, were keen to selling their "worthless" ETC at ridiculously low rates, dumping massive amonths of ETC and pushing the price down to as low as a X:Y ratio. Whilst certainly causing temporary concern, this allowed diamond-handed supporters of ETC, to pick up some incredible deals.
 
+-- insert chart of early ETH/ETC price--
 
-- intentionally did not implement replay attack protection
-- Nowadays, thanks to the fork, blockchains include a ChainID, which is specified in each transaction to prevent them from being relayed to other chains
+To the horror of many pro-forkers, though, this initial dump lost momentum, and ETC came back with a vengance, peaking at a 1:3 price ratio with ETH, creating some very happy ETC holders, and posing a significant threat of "flippening" ETH and delegitimizing the Hard Fork in a huge way. 
 
-### Whitehat Group and their not so Merry Men
+### White Hat Group and their not so Merry Men
 
-In full resolution, this part of the saga is fairly complex but, is documented in by [BitMEX research](https://blog.bitmex.com/revisiting-the-dao/). The main takeaways are as follows.
+Whatever happened to the those funds previously secured by Robin Hood Group? As a quick reminder, Robin Hood Group had already secured 70% of the funds (now known as ETC). For the remaining 30%, they had sourced help from the community to acquire Child DAO "controller keys", and they were able to maintain a stalemate of perpetual splits with The DAO Hacker. 
 
-Whitehat Group, who had previously sourced help from the community to acquiring Child DAO controller keys so they would be able to keep The DAO Hacker in a stalemate, decided not to uphold their side of the stalemate on Ethereum Classic and did not, despite calls from Ethereum Classic supporters, transfer the keys to another whitehat group to continue the persuit. 
+After the fork, though, Robin Hood Group (RHG) handed over the wheel (and custody of the ETC) to the newly formed White Hat Group (WHG). Somewhere along the way, the decision was made to *not* to uphold their side of the stalemate on Ethereum Classic, and did not, despite [calls](#TODO) from Ethereum Classic supporters, transfer the keys to some other trusted group to continue the persuit on their behalf.
 
-> The RHG have still secured around 70% of the ETC, and could have continued the attack on the ETC chain using the aforementioned “DAO Wars” limbo strategy, but decide not to. 
+> RHG [...] could have continued the attack on the ETC chain using the aforementioned “DAO Wars” limbo strategy, but decide not to. 
 >
-> - ["Rivisiting The DAO", BitMEX Research](ttps://blog.bitmex.com/revisiting-the-dao/)
+> - ["Rivisiting The DAO", BitMEX Research](https://blog.bitmex.com/revisiting-the-dao/)
 
-Why this decision was made is unknown, but it can only be assumed that partly it was fatigue, and the hope that the Hard Fork would mean the conclusion of the saga, but also partly the desire to not give Ethereum Classic any legitimacy. Regardless of intent, The Hacker's Child DAO was able to reach it's time limit without being re-split, effectively [handing over about 3.5 million ETC to The DAO Hacker](https://receipt.emerald.cash/balance/0x5e8f0e63e7614c47079a41ad4c37be7def06df5a) (worth around $120 Million USD in December 2021).
+Why this decision was taken was not made public, but it can only be assumed that it was partly fatigue, and the hope that the Hard Fork would mean the conclusion of the saga, but it may also partly have been a game theory play who's goal was to not give the unforked chain any legitimacy. Similar to the replay attack situation, not making any effort was the best way to reduce the chances of a chain split occuring by acting as if the unforked chain would die out. A Hard Fork was supposed to be *the* way to make DAO Token Holders whole, and to take precautions or chase the funds on ETC would undermine recent justifications for it's implementation.
+
+Whatever the intent, The Hacker's Child DAO was able to reach it's time limit without being re-split, and this lack of action effectively meant [handing over about 3.5 million ETC to The DAO Hacker](https://receipt.emerald.cash/balance/0x5e8f0e63e7614c47079a41ad4c37be7def06df5a).
+
+But the fun was just getting started.
 
 ![](./whg-funds.png)
+
+- Withdrawal contract, Bity, Market Dump
 
 Bity, a company with ties to Slock.it, helped out...
 
 Not only this, but after realizing that ETC actually had value, in what can only described as a highly questionable move, WHG attempted to dump massive amounts of ETC on the market to liquidate them for ETH. This attempt was mostly unsuccesful, as major exchanges Kraken and Poloniex froze these funds before they were able make any trades. instead created a withdrawal contract and allowed DAO Token Holders to get back their ETC. As of today, https://receipt.emerald.cash/balance/0x9f5304da62a5408416ea58a17a92611019bd5ce3
 
 By doing a Hard Fork and giving up on the Child DAO stalemate, The Hacker was able to get away with a significant amount of Ethereum Classic, value that would otherwise almost certainly have been able to be recovered and returned to DAO Token Holders.
+
+### Replay Attacks
+
+One effect of not preparing for a possibility of a chain split was the prospect of replay attacks, which could, both accidentally and intentially, cause the loss of funds and/or theft from either side of the chain. The possibility of replay attacks [was known in advance](#TODO), but presumably to play down the possibility of a chain split being a concern, no action was taken to mitigate or even warn the community about them.
+
+After the split, holders of ETH would have the same amount of ETC associated with the same addresses, and most transactions made on either side of the chain were valid and could be copied to the other; a signed transaction could be broadcast to the other side of the split and published to this chain without the knowledge or intent of the signer. This danger was not widely known at first, and it seemed that some clients would sometimes (but not always) publish valid transactions to the mempools of both chains, causing chaos and innocent parties to lose funds in various ways, and *these* victims did not receive another Hard Fork to make them whole.
+
+One example of this mess was the case of contracts deployed to ETH but not to ETC; a value transfer sending ETH to a contract, say a multisig address, could be replayed on ETC, but the ETC may be lost forever as the receiving contract address has no private key and no contract code is deployed to that address on Classic. No malicious actors were required in this scenario; it was simply a totally peventable bad outcome caused by lack of preparation. 
+
+There were other documented cases of replay attacks being exploited maliciously, typically with an exchange being the victim. An attacker could deposit and withdraw ETH many times over, each time *also* withdrawing ETC from the exchange by replaying the exchange's withdrawal transaction from ETH to ETC, and as most exchanges had no idea ETC was or could be a thing, much of the ETC in hot wallets was ripe for the picking once the trick was figured out by blackhats.
+
+At the time, the only guarunteed way to prevent transactions from being replayed was to ensure funds were seperated into different address on each chain, which could be acheived using a "splitter contract", an annoying process especially for less technically inclined users. Several months later, a protocol-layer solution was introudced, and this is why EVM blockchains now respect a `chain_id`; a unique number for each chain that is specified when signing transactions, making them invalid on other chains.
 
 ## The Philosophical Fallout
 
