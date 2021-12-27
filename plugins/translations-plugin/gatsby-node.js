@@ -112,6 +112,7 @@ exports.createPages = async (
     noFallbackDirs,
   }
 ) => {
+  cache.files = {}; // reinit cache each time
   const {
     data: {
       files: { edges: files },

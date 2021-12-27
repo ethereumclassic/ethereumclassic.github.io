@@ -78,8 +78,8 @@ const customStyles = css`
   :target:before {
     content: "";
     display: block;
-    height: 5rem;
-    margin: -5rem 0 0;
+    height: 8rem;
+    margin: -8rem 0 0;
   }
 
   /* SCROLLBARS */

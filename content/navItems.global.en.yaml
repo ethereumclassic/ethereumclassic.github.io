@@ -23,7 +23,7 @@ learn:
     philosophy:
       __link: /philosophy
       __icon: hat
-      name: Philosophy
+      name: Knowledge
       description: Further reading on the foundations that underpin ETC
       navItems:
         history:
