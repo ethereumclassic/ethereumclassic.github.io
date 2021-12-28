@@ -85,6 +85,10 @@
   name: ETC365 
   link: https://etc365.org/
 - 
+  key: ETC-POOL
+  name: ETC-POOL
+  link: https://etc-pool.com/
+-
   key: ETCPool
   name: ETCPool
   link: https://ethereumclassicpool.com/
