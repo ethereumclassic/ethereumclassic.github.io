@@ -41,7 +41,18 @@ Ethereum Classic didn't just have a "fair distribution", it had an "ultrafair di
 
 ## Meatspace Capture
 
-### ConsenSys, Kompromat and Corporate Capture
+### Kompromat and Corporate Capture
+
+- ETC has founders, but has no founders.
+- Moreso than bitcoin, who's ultimate , ETC embodies the principles of bitcoin in a more explicit way.
+- ETC has no satsohi
+- ETH is already captured
+- It was not neccessary at all, so
+
+
+The fight for _Code is Law_, upheld by decentralization, is not over - it never will be over - as these values must be continually spread, nurtured, evolved and reinforced.
+
+How do we prevent this from happening in ETC? by defending our principles.
 
 Let's imagine that one day you happen to be in charge of .
 

@@ -8,6 +8,8 @@ title: ETC vs ETH
 
 We go through te simiarities and differences
 
+The House built on sand 
+
 ## Similarities
 
 ### History
