@@ -23,7 +23,7 @@ As time goes on it will become increasingly clear that many critics of ETC are p
 
 ### Blame the Game
 
-With this being said, whilst coordination failures may have taken place in the past, there is no need for ill-will towards anyone involved in or around the nascent stages of Ethereum. Far from it, all of those who contributed to Ethereum - forkers, anti-forkers, developers and non-developers alike - should be revered for their important work in helping create one of the most important acheivements of our generation.
+With this being said, and whilst coordination failures may have taken place in the past, there is no need for ill-will towards anyone involved in or around the nascent stages of Ethereum. Far from it, all of those who contributed to Ethereum - forkers, anti-forkers, developers and non-developers alike - should be revered for their important work in helping create one of the most important acheivements of our generation.
 
 There are points in this story that may suggest potential financial conflicts of interest, but as it is impossible to determine how much these did or did not play a part, all the individuals involved deserve the benefit of the doubt; decisions made at the time were in all likelihood driven by honest disagreement about what the best outcome would be for Ethereum at a time when there was very little real world precedent to go by.
 
