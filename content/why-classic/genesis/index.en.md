@@ -33,7 +33,7 @@ For these reasons, this review will intentionally avoid name-checking individual
 
 ## The Original Ethereum Vision
 
-In the beginning there was "Build Unstoppable Applications", and for a time it was good. It was a real revolution, as your average developer now had the ability to create a new type of software that could not be stoppped or censored by anyone. In the early days, there was a united understanding and support of _Code is Law_ within the Ethereum community; it was was not just unconvovertial, but the very mission of Ethereum.
+In the beginning there was "Build Unstoppable Applications", and for a time it was good. It was a real revolution, as your average developer now had the ability to create a new type of software that could not be stoppped or censored by anyone. In the early days, there was a united understanding and support of _Code is Law_ within the Ethereum community; it was was not just uncontroversial, but the very mission of Ethereum.
 
 ![Ethereum.org Build Unstoppable Applications](./unstoppable.png)
 
