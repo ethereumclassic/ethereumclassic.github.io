@@ -9,6 +9,12 @@ legends:
   other: Other
 items: 
 - 
+  key: ETCBayc
+  name: ETCBayc
+  link: https://etcbayc.com/
+  text: Ethereum Classic Bored Ape Yacht Club (ETCBayc), is an exclusive 10,000 only mint-able premium NFT living on the Ethereum Classic (ETC) blockchain. No two pieces of these digital Bored Apes are alike. Each being unique and pristine, there is an order of rarity that makes certain ones more valuable than the others. These Bored Apes are amongst the first high-quality art projects in the blockchain ecosystems and in ETC. Be part of the club!
+  type: nft
+- 
   key: ClassicSavages
   name: Classic Savages
   link: https://classicsavages.com/
