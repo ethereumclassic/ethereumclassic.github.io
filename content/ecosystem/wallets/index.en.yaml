@@ -220,6 +220,10 @@ content:
         key: ZenGo
         link: https://zengo.com/
         name: ZenGo
+      -
+        key: Hebe Wallet
+        link: https://hebe.cc/
+        name: Hebe Wallet
   -
     key: other
     type: buttons
