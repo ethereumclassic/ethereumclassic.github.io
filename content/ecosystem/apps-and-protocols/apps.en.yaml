@@ -9,6 +9,12 @@ legends:
   other: Other
 items: 
 - 
+  key: HebeSwap
+  name: HebeSwap
+  link: https://hebeswap.com/
+  text: Swap, earn, and build on the leading decentralized crypto trading protocol in Ethereum Classic
+  type: finance
+- 
   key: ETCBayc
   name: ETCBayc
   link: https://etcbayc.com/
