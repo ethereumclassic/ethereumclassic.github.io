@@ -4,10 +4,17 @@ legends:
   game: Game
   identity: Identity
   nft : NFT
+  marketplace : Marketplace  
   interoperabiltiy: Interoperability
   finance: Finance
   other: Other
 items: 
+- 
+  key: NFTCREED
+  name: NFTCREED
+  link: https://nftcreed.io/
+  text: Create, Buy, Sell and Gamify NFTs
+  type: Marketplace
 - 
   key: HebeSwap
   name: HebeSwap
