@@ -1,8 +1,0 @@
-title: Classic History
-description: |
-  > Those who cannot remember the past are condemned to repeat it.
-
-  A historical account of the formative events that created and defined Ethereum Classic.
-items:
-  history:
-    __configRef: timeline

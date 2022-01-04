@@ -12,7 +12,7 @@ import { etc as EtcLogo } from "../utils/icons";
 import { useTheme } from "../utils/themeProvider";
 import useSiteMetadata from "../utils/useSiteMetadata";
 
-export default function Seo({ data, i18n, pageContext: { basePath, path } }) {
+export default function Seo({ data, i18n, path, pageContext: { basePath } }) {
   const { ui } = useGlobals();
   const { siteUrl, socialImage } = useSiteMetadata();
   const { isDark } = useTheme();

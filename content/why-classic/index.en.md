@@ -1,17 +1,16 @@
 ---
 title: Why Classic?
-description: TODO
+contributors: ["IstoraMandiri"]
 ---
 
-**Note: All content is in bullet point form pending review, and will be properly written once structure is confirmed**
+Following the rapid growth of the cryptocurrency space, many new players enter the scene, and while scrolling down the list of projects by market cap, some notice a project called _Ethereum Classic_.
 
-- This section will guide you through ... and explain where ETC came from, where it's going, and how it's going to get there...
-- Not just a run of the mill shitcoin
-- Top 3 reasons why...
-- In short, ETC is Ethereum, but better
+They see that the name and logo is slighly different to the famous Ethereum, and might assume that this _Classic_ thing is some kind of copy-cat project trying to cash in on ETH's success. With a market saturated with such projects, and with limited time to spend on research, many quite reasonably give Etheruem Classic a pass without much thought.
 
-For a fairly complete overview in an easy digestible video format, watch this (TODO: Replace this video with a better one):
+But some, like yourself, decide to dive a little deeper, and they discover some interesting facts that debunk that initial skepticism. For many, the shattering of the misconception that ETC is a clone of Ethereum is the first important step, and their journey down the rabbit hole begins.
 
-<Video name="Hi" youtube="5_WGgiumARc" />
+Ethereum Classic is not a copy or fork of Etheruem; quite the opposite, ETC is a continuation of the original Ethereum launched in 2015, which ETH forked away from by starting a new protocol in 2016.
 
-Or, continue reading the next section for a guided tour of what makes ETC a classic...
+Applications on Ethereum Classic have been operating uninterrupted for over a year longer than Etheruem, making ETC humanity's longest running and therefore most reliable Smart Contract Platform. More importantly, Ethereum Classic has never and will never stop or interfere with Smart Contracts that are deployed to it, because this is what makes blockchains valuable.
+
+Unlike Etheruem, on Classic, _Code is Law_; simply, this means "what happens on chain, stays on chain". Ethereum Classic has evolved it's ability to deliver on this promise by maxing-out the characteristics that yeild decentralization, unstoppability, and censorship resistance against strong external forces.

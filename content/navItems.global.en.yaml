@@ -20,27 +20,27 @@ learn:
         etcVsEth:
           __link: /why-classic/etc-vs-eth
           name: ETC vs ETH
-    philosophy:
-      __link: /philosophy
+    knowledge:
+      __link: /knowledge
       __icon: hat
       name: Knowledge
       description: Further reading on the foundations that underpin ETC
       navItems:
+        foundation:
+          __link: /knowledge/foundation
+          name: Foundation
+        theory:
+          __link: /knowledge/theory
+          name: Theory
+        investing:
+          __link: /knowledge/investing
+          name: Investing
         history:
-          __link: /philosophy/history
+          __link: /knowledge/history
           name: History
-        doctrine:
-          __link: /philosophy/doctrine
-          name: Doctrine
-        principles:
-          __link: /philosophy/principles
-          name: Principles
-        research:
-          __link: /philosophy/research
-          name: Research
-        roadmap:
-          __link: /philosophy/roadmap
-          name: Roadmap
+        future:
+          __link: /knowledge/future
+          name: Future
     guides:
       __link: /guides
       __icon: book

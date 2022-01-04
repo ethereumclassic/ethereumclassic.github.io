@@ -3,6 +3,8 @@ title: Decentralization
 updated: 2021-11-30
 ---
 
+https://twitter.com/DocumentingBTC/status/1476582874983849987#m
+
 How does ETC prevent itself from being captured?
 
 As time goes on and the full scope of blockchain technology becomes apparent, incumbant institutions will do everything within their power to subvert and destroy the new systems that threatern to disintermediate them.
@@ -20,6 +22,8 @@ In the the not too distant future, the need for will be all too clear. As blockc
 Ethereum Classic existance is a
 
 Etheruem Classic is one of those survivors.
+
+## Ultrafair Distribution
 
 ## ETH + BTC = ETC
 
@@ -48,7 +52,6 @@ Ethereum Classic didn't just have a "fair distribution", it had an "ultrafair di
 - ETC has no satsohi
 - ETH is already captured
 - It was not neccessary at all, so
-
 
 The fight for _Code is Law_, upheld by decentralization, is not over - it never will be over - as these values must be continually spread, nurtured, evolved and reinforced.
 

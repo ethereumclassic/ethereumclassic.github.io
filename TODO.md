@@ -8,6 +8,8 @@
 
 CONTENT
 
+- Spell check, content
+- Edit Genesis, Write Decentralization
 - Content!
 - copywriting
 - Github project issues
@@ -20,6 +22,7 @@ CONTENT
 
 PREFLIGHT
 
+- Videos for contributing
 - Update url refs from etc3022.netlify
 - Lighthouse
 - 404 page styling

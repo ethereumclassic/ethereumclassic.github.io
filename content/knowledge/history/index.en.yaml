@@ -1,0 +1,8 @@
+title: Classic History
+description: |
+  The following timeline documents the formative events that created and defined Ethereum Classic, as well as all major events to the present day. 
+
+  For a more detailed investigation into the creation of ETC, scoot on over to [Genesis](/why-classic/genesis).
+items:
+  history:
+    __configRef: timeline

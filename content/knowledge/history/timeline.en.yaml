@@ -588,17 +588,24 @@ items:
     icon: codeBranch
     link: https://github.com/input-output-hk/mantis/releases
     text: Input Output Global signals support for the Ethereum Classic network with the revival of the Mantis client and GUI.
-  treasuryDebate:
-    title: The Treasury Debate Ends
+  lcetcc:
+    title: Let's Keep Ethereum Classic Classic
     date: Sept 2021
-    color: blue
-    icon: codeBranch
-    link: https://github.com/input-output-hk/mantis/releases
-    text: TODO link to coop withdrawal
+    color: green
+    icon: pen
+    link: https://ethereumclassicclassic.org
+    text: A concerned ETC participant penned a long rebuttal that argued against the implementation of ECIP-1098.
+  treasuryDebate:
+    title: Treasury Proposal Withdrawn
+    date: Sept 2021
+    color: orange
+    icon: timesCircle
+    link: https://etccooperative.org/posts/2021-09-20-withdraws-support-for-ecip-1098
+    text: After a year long discussion about whether or not a ECIP-1098 would gel with ETC values, ETC Coop, folloed by IOHK withdraw support for the Treasury Proposal.
   aBrightFuture:
     title: A Bright Future
     date: Future
     color: green
-    icon: code
+    icon: etc
     link: /knowledge/roadmap
-    text: As the ecosystem continues to organically grow, the independent development teams are guided by principles that make Ethereum Classic such a unique network. The network is truly decentralized, immutable, and unstoppable. Review the roadmap to learn about the promising future of Ethereum Classic, the original Ethereum chain...
+    text: As the ecosystem continues to organically grow, the independent development teams are guided by principles that make Ethereum Classic such a unique network. The network is truly decentralized, immutable, and unstoppable.
