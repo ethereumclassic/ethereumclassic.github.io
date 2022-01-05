@@ -181,6 +181,10 @@ content:
         link: https://www.huobiwallet.com/
         name: Huobi Wallet
       -
+        key: Hebe Wallet
+        link: https://hebe.cc/
+        name: Hebe Wallet
+      -
         key: Infinito Wallet
         link: https://www.infinitowallet.io/
         name: Infinito Wallet
@@ -220,10 +224,6 @@ content:
         key: ZenGo
         link: https://zengo.com/
         name: ZenGo
-      -
-        key: Hebe Wallet
-        link: https://hebe.cc/
-        name: Hebe Wallet
   -
     key: other
     type: buttons
