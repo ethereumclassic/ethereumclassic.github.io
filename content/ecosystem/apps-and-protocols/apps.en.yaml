@@ -9,6 +9,12 @@ legends:
   other: Other
 items: 
 - 
+  key: NFTCREED
+  name: NFTCREED
+  link: https://nftcreed.io/
+  text: Create, Buy, Sell and Gamify NFTs
+  type: nft
+- 
   key: HebeSwap
   name: HebeSwap
   link: https://hebeswap.com/
