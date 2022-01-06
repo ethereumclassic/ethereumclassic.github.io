@@ -23,6 +23,24 @@ Parable of built house on Rock vs Sand
 
 ---
 
+As time goes on and the full scope of blockchain technology becomes apparent, incumbant institutions will do everything within their power to subvert and destroy the new systems that threatern to disintermediate them.
+
+Technological, Economic and Social attacks will be launched against the cryptocurrency space and will be effective against the majority of chains that have failed to anticipate this threat. Ironically, the very reason for blockchains existing is forgotten by the majority of them today, as they abandon the countermeasures that Satoshi Nakamoto handed down.
+
+In the long run, only _truly_ decentralized blockchains will survive.
+
+Ethereum Classic stands among a handful of these kinds of projects.
+
+the rest will succumb to outside pressure, which will exploit any points of centralization
+
+In the the not too distant future, the need for will be all too clear. As blockchain projects one by one reveal their true colors and succum to corruption in the form of capture by special interests, only the _truly_ decentralized will remain.
+
+Ethereum Classic existance is a
+
+Etheruem Classic is one of those survivors.
+
+---
+
 How does ETC prevent itself from being captured?
 
 As time goes on and the full scope of blockchain technology becomes apparent, incumbant institutions will do everything within their power to subvert and destroy the new systems that threatern to disintermediate them.

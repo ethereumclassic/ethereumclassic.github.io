@@ -53,7 +53,7 @@ This is evidenced by talks and tweets from [prominent thoughtleaders](https://tw
 
 Thousands flocked to the project based on this understanding and contributed time, talent and money, united by the _Original Ethereum Vision_ of "Build Unstoppable Applications". They told their friends, vouched for it's integrity, and thanks to this, the good word of Ethereum spread like wildfire.
 
-Everything was going well in ETH land; people were excited, new ideas were sprouting, projects were launching, and one of those projects in particular was soon to _prove Classic_; The DAO.
+Everything was going well in ETH land; people were excited, new ideas were sprouting, projects were launching, and one of those projects in particular was soon to _prove Classic_.
 
 ## The DAO
 
@@ -63,13 +63,13 @@ A DAO (pronounced "_Dow_ Jones") or "Decentralized Autonomous Organisation" desc
 
 ### Slock.it
 
-Ethereum Foundation, who raised funds in a crowdsale to create Ethereum, had a Chief Communications Officer who [announced](https://blog.ethereum.org/2015/07/30/ethereum-launches/) the Genesis Block, was an [advocate](https://twitter.com/stephantual/status/711874685156376576) of _Code is Law_, and like many others, saw the bright future promised by "Build Unstoppable Applications". Indeed, it was ultimately the call of the CCO to use this term to promote the Ethereum project.
+Ethereum Foundation, who raised funds in a crowdsale to create Ethereum, had a Chief Communications Officer who [announced](https://blog.ethereum.org/2015/07/30/ethereum-launches/) the Genesis Block, was an [advocate](https://twitter.com/stephantual/status/711874685156376576) of _Code is Law_, and like many others, saw the bright future promised by "Build Unstoppable Applications". Indeed, it was ultimately the call of EF's CCO to use this term to promote the Ethereum project.
 
 In November 2015, the (now ex) CCO teamed up with some coders and formed a company called slock.it. Slock.it wanted to launch not just _a_ DAO, but _The_ DAO, which would be used as a kind of Venture Capital fund targeting Etheruem projects. It was pitched as a way to both grow the Ethereum ecosystem and net returns for investors, who would deposit ether into The DAO contract in exchange for DAO Tokens, which would allow voting for and yeild rewards from investments made by The DAO.
 
 ### Curator Cronyism
 
-The DAO became big news in the Ethereum world, not least because it received significant backing from Ethereum Foundation members. Aside from the project being led by EF's recent CCO, The DAO had recruited "curators", who were given the ability to veto certain actions and act as a failsafe, in effect reassuring investors that funds would not be at risk from certain types of attack. [All 11 curators](https://medium.com/ursium-blog/vitalik-buterin-gavin-wood-alex-van-de-sande-vlad-zamfir-announced-amongst-stellar-dao-curators-44be4d12dd6e#.1mjq6cfn6) had worked directly for the Ethereum Project or Foundation, including some notable heavyweights.
+The DAO became big news in the Ethereum world, not least because it received significant backing from many Ethereum Foundation members. Aside from the project being led by EF's recent CCO, The DAO had recruited "curators", who were given the ability to veto certain actions and act as a failsafe, in effect reassuring investors that funds would not be at risk from certain types of attack. [All 11 curators](https://medium.com/ursium-blog/vitalik-buterin-gavin-wood-alex-van-de-sande-vlad-zamfir-announced-amongst-stellar-dao-curators-44be4d12dd6e#.1mjq6cfn6) had worked directly for the Ethereum Project or Foundation, including some notable heavyweights.
 
 Officially, the Ethereum Foundation itself did not have any involvement with The DAO, but perhaps because so many curators had ties to The Ethereum Foundation, this position had to be made explicit.
 
