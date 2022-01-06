@@ -3,6 +3,8 @@ title: Genesis
 updated: 2021-12-18
 ---
 
+TODO: add accuracy disclaimer
+
 Ethereum Classic's miraciulous origin story will surely be referenced by future crypto historians as a case study that illuminates the sociotechnological fabric of blockchains. Like a Large Hadron Collider experiment, _the incident_ that birthed ETC tore apart what was previously considered a more or less atomic entity, permenantly splitting the Ethereum project in two, and scattering a cascade of valuable insights to observers.
 
 From a purely historical perspective, ETC's story is fascinating and essential reading for any cryptocurrency researcher. But for those who are interested in really understanding what makes blockchains useful and valuable, there is no story more relevant; against all the odds, despite the wishes of many, _Code is Law_ and "Build Unstoppable Applications" ended up prevailing. Through the simple act of persisting, Ethereum Classic validated not just it's own value proposition, but the strength and tenacity of truly decentralized blockchains generally.
@@ -33,7 +35,17 @@ For these reasons, this reflection will intentionally avoid name-checking indivi
 
 ## The Original Ethereum Vision
 
-In the beginning there was "Build Unstoppable Applications", and for a time it was good. It was a real revolution, as your average developer now had the ability to create a new type of software that could not be stoppped or censored by anyone. In the early days, there was united support of for this understanding of _Code is Law_ within the Ethereum community; it was was not just uncontroversial, but the mission itself.
+In the beginning there was "Build Unstoppable Applications", and for a time it was good. It was a real revolution, as your average developer now had the ability to create a new type of software that could not be stoppped or censored by anyone. In the early days, there was unified support behind the concept of _Code is Law_ within the Ethereum community; it was was not just uncontroversial, but the mission itself.
+
+> Why are blockchains useful?  
+> You can run applications on them, and convince your users that the application's logic is honest and is doing what you are advertising that it does  
+> You can run applications on them, and convince your users that your application will remain working even if you lose interest in maintaining it, you are bribed or threatened to manipulate the application state in some way, or you acquire a profit motive to manipulate the application state in some way
+>
+> - [The Value of Blockchain Technology, Ethereum Blog, April 2015](https://blog.ethereum.org/2015/04/13/visions-part-1-the-value-of-blockchain-technology/)
+
+> Rather than being subject to the whims of any one arbitrary party, someone using a blockchain technology can take comfort in the knowledge that the status of their identity, funds or device ownership is safely and securely maintained in an ultra-secure, trustless distributed ledger Backed By Math™.
+>
+> - [The Problem of Trust, Ethereum Blog, April 2015](https://blog.ethereum.org/2015/04/27/visions-part-2-the-problem-of-trust/)
 
 ![Ethereum.org Build Unstoppable Applications](./unstoppable.png)
 
@@ -64,6 +76,12 @@ Officially, the Ethereum Foundation itself did not have any involvement with The
 ![No Involvement](./no-involvement.jpeg)
 
 ### The World's Biggest Crowdsale
+
+Historically Hard forks have been opt-in meaning that you had to explicitly show you support the hard fork by changing a setting. Instead here we had a different situation. The DAO bailout was the default option and if you were against it, you had to opt-out and run your client with the --oppose-dao-fork flag. You can imagine that many people simply didn’t care about changing it.
+
+12 hour notice means half of the world was sleeping or working.
+Less than 6% Ether holders voted
+One single address voted with so much Ether that it amounted to 25% of all votes - remember, there was a 72 million premine
 
 At the time, many saw The DAO as a "no risk" investment, as not only did it have trustworthy curators, but investors would be able to withdraw their funds from The DAO in future via a "split" mechanism; this further incentivised contributions as investors could "opt-out" later, but only had one chance to "opt-in" during the initial crowdsale.
 
@@ -181,6 +199,10 @@ One problem with implementing the Hard Fork was that if many users needed to "op
 
 In a veiled attempt to maintain some level of neutrality, the decision of which default to use for geth [was made](https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork/) based on the outcome of a "coin vote", which was announced and concluded within 12 hours, giving very little time to coordinate any reponse from anti-forkers, and was heavily skewed by pro-fork whales. The important decision of which chain to default was then claimed to be made "by the community".
 
+> [The DAO Fork] was voted on by the Ethereum community. Any ETH holder was able to vote via a transaction on a voting platform. The decision to fork reached over 85% of the votes.
+>
+> - [Ethereum.org Website](https://ethereum.org/en/history/#dao-fork)
+
 Whilst it was clear that some pro-forkers did not want geth or any Etheruem Foundation products to even have the option of running the "unforked" chain, to provide plausible neutrality, the infamous `--oppose-dao-fork` flag was added to geth, enabling users to opt-in to the _Code is Law_ chain by enabling this config paramter when upgrading versions. It was soon removed in later versions.
 
 To be fair, other teams within Etheruem Foundation did attempt to provide genuinely neutrality; Mist, the dapp browser, for example, forced users to make an explicit choice of which version of the chain to run when opening the client rather than opting them in to one side of the fork by default. Some Etheruem Foundation members even publicly spoke out against the Hard Fork, cementing the idea that concensus was in fact _not_ reached. To those who stood up for "Build Unstoppable Applications" despite the peer pressure, we salute you.
@@ -228,6 +250,12 @@ The circumstances of Etheruem Classic's emergence are so rare that they are unli
 Three days and three nights after The DAO Hard Fork, The Original Ethereum Vision rose again, and Etheruem Classic got it's first exchange listing on one of the (at the time) largest altcoin exchanges Poloniex. After this first listing, ETC's future was solidified, as market forces would take hold, making other exhcanges to rush to list, and making mining the Classic side of the chain split liquid and profitable.
 
 Two days later, a version of Geth is forked that defaults to the Classic chain and removes The DAO Fork code. Three days after this, Ethereum Classic is officially supported by Parity, Ethereum's second major client. Prominent ETH miners quibble about whether or not to "51% attack" ETC to prevent it's rise, but eventually decide let let it grow unscathed.
+
+### TODO
+
+ETC community declares its independence in August 2016.
+
+> Let it be known to the entire world that on July 20th, 2016, at block 1,920,000, we as a community of sovereign individuals stood united by a common vision to continue the original Ethereum blockchain that is truly free from censorship, fraud or third party interference. In realizing that the blockchain represents absolute truth, we stand by it, supporting its immutability and its future. We do not make this declaration lightly, nor without forethought to the consequences of our actions.
 
 ## The Difficult Breakup
 

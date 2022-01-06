@@ -64,7 +64,7 @@ export {
   faAward as award,
   faCircleNotch as spinner,
   faSadCry as sad,
-  // in timeline
+  // in timeline and forks
   faRocket as rocket,
   faSnowflake as snowflake,
   faHome as home,
@@ -96,6 +96,8 @@ export {
   faSortAmountDown as sortUp,
   faSortAmountDownAlt as sortDown,
   faExclamationCircle as warning,
+  faGasPump as gas,
+  faCut as scissors,
 } from "@fortawesome/free-solid-svg-icons";
 
 export {
@@ -104,6 +106,7 @@ export {
   faTelegram as telegram,
   faReddit as reddit,
   faGithub as github,
+  faEthereum as eth,
 } from "@fortawesome/free-brands-svg-icons";
 
 // flags, used via locale key; https://github.com/lipis/flag-icons/blob/main/country.json

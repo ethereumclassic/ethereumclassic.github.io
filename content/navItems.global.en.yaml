@@ -38,6 +38,9 @@ learn:
         history:
           __link: /knowledge/history
           name: History
+        forks:
+          __link: /knowledge/forks
+          name: Forks
         future:
           __link: /knowledge/future
           name: Future
@@ -52,10 +55,7 @@ learn:
           name: Basics
         metamask:
           __link: /guides/metamask
-          name: Metamask
-        etc:
-          __link: /guides/etc
-          name: Etcetera...
+          name: MetaMask
         development:
           __link: /guides/development
           name: Development
@@ -151,9 +151,9 @@ play:
         teams:
           __link: /community/teams
           name: Teams
-        promoters:
+        events:
           __link: /community/promoters
-          name: Promoters
+          name: Events
         bounties:
           __link: /community/bounties
           name: Bounties
@@ -208,6 +208,9 @@ play:
         tooling:
           __link: /development/tooling
           name: Tooling
+        repos:
+          __link: /development/repositories
+          name: Repositories
         ecips:
           __link: /development/ecips
           name: ECIPs

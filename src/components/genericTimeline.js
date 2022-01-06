@@ -10,15 +10,32 @@ import FormattedDate from "./formattedDate";
 import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
 
 const colors = {
-  blue: tw`bg-blue-600`,
+  // blue: tw`bg-blue-600`,
   white: tw`bg-shade-neutral`,
   orange: tw`bg-yellow-600`,
+  // red: tw`bg-red-600`,
+  // purple: tw`bg-purple-600`,
+  // green: tw`bg-primary-dark`,
   red: tw`bg-red-600`,
+  yellow: tw`bg-yellow-600`,
+  green: tw`bg-green-600`,
+  blue: tw`bg-blue-600`,
+  indigo: tw`bg-indigo-600`,
   purple: tw`bg-purple-600`,
-  green: tw`bg-primary-dark`,
+  pink: tw`bg-pink-600`,
+  gray: tw`bg-gray-600`,
 };
 
-function GenericTimelineItem({ title, date, color, icon, link, text, last }) {
+function GenericTimelineItem({
+  title,
+  date,
+  dateText,
+  color,
+  icon,
+  link,
+  text,
+  last,
+}) {
   return (
     <div>
       <div tw="relative pb-8">
@@ -54,8 +71,9 @@ function GenericTimelineItem({ title, date, color, icon, link, text, last }) {
                   title
                 )}
               </H4>
-              <div tw="text-sm text-shade-neutral">
-                <FormattedDate date={date} />
+              <div tw="text-sm text-shade-neutral space-x-2">
+                {dateText && <span>{dateText}</span>}
+                {date && <FormattedDate date={date} />}
               </div>
             </div>
             <p tw="text-sm text-shade-neutral">{text}</p>

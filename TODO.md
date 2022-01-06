@@ -14,6 +14,7 @@ ORIGIN
 - Make it shorter, less than 15 minutes, but move out content to differente sections
 - Less emphasis on inconcequential stuff, move all the "Neutral Foundation" to another section
 
+- Add trustworthyness checklist for apps
 
 CONTENT
 
@@ -57,12 +58,11 @@ PREFLIGHT
 - images in metadata
 ```
 
-
 ---
 
 Hello, I am looking for help with a github related task.
 
-I am working on a new version of a website and want to add a list of contributors to a number of markdown/yaml files based on `git blame` of previous versions of the files. 
+I am working on a new version of a website and want to add a list of contributors to a number of markdown/yaml files based on `git blame` of previous versions of the files.
 
 For example, https://github.com/ethereumclassic/ethereumclassic.github.io/blob/3022/content/philosophy/roadmap/index.en.yaml
 should include an array of `__contributors` of all the IDs that are contributors of the previous version https://github.com/ethereumclassic/ethereumclassic.github.io/blob/master/content/knowledge/roadmap/timeline.en.yaml AND https://github.com/ethereumclassic/ethereumclassic.github.io-v1/blob/source/components/home/fork-timeline.js
