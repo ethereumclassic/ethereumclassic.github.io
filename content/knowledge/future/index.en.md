@@ -42,7 +42,7 @@ Recent growth is partly thanks to a growing army of Etheruem Classic content cre
 
 ### The Merge
 
-Etheruem mainnet, although experiencing some minor delays, is looking increasingly close to completing thier migration away from Proof of Work to Proof of Stake, know as _The Merge_. For Ethereum Classic this will be an extremely relevant event, as it seems likely newly evicted GPU miners will be looking towrads other chains to mine, and Ethereum Classic is an obvious choice.
+Etheruem mainnet, although experiencing some minor delays, is looking increasingly close to completing thier migration away from Proof of Work to Proof of Stake, known as _The Merge_. For Ethereum Classic this will be an extremely relevant event, as it seems likely newly evicted GPU miners will be looking towrads other chains to mine, and Ethereum Classic is an obvious choice.
 
 The migration of miners from ETC to ETH is likely bring a new wave of interest to the Ethereum Classic ecosystem, will increase the security of the network, and is very likely to accellarate adoption and network value.
 
@@ -54,7 +54,7 @@ One porposal that is garnereing a lot of [discussion](https://etccooperative.org
 
 Changing the mining algorithm of a blockchain mid-flight is a huge undergoing and presents potential risks, and the debate is by no means settled and somewhat depends on the state of the future ecosystem, but the move towards SHA3 has the potential to provide many benefits to the ETC technologically and security wise.
 
-SHA3 enables a new type of light client known as a "FlyClient", which can more efficiently and securely verify the state of the chain, which is useful in many applications and increases decentralization. SHA3 blocks are also easier to verify in contracts, which may open doors to cross chain interoperability options such as trustless bridges.
+SHA3 enables a new type of light client known as a "FlyClient", which can more efficiently and securely verify the state of the chain, which is useful in many applications and increases decentralization. SHA3 blocks are also easier to verify in contracts, which may open doors to new types of applications and cross chain interoperability options.
 
 It appears that current thinking is that _after_ "The Merge" is completed (or abandoned), a serious focus on either implementing or abandoning the SHA3 proposal will come to the forefront, so this discussion is sure reactivate in the not-to-distant future.
 

@@ -7,6 +7,20 @@ https://twitter.com/DocumentingBTC/status/1476582874983849987#m
 
 ---
 
+Reasoning from first principles, we arrive at the conclusion that Ethereum Classic is currently humanity's best bet
+
+- What gives ETC Value?
+- Eutopia, Unstoppability / Code is Law
+- ETC x BTC = ETC
+- Maintaining Code is Law is not easy
+- Requires decentralization maximalism
+- Pillars of Decentralization
+- PoW
+- Distribution
+- Principles
+
+We have discussed: ...
+
 ## The Ephemeral Foundation
 
 Parable of built house on Rock vs Sand
