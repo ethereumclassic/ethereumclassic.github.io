@@ -45,6 +45,12 @@ items:
   text: ETCPunks are inspired collectibles, the first NFT porject on Ethereum Classic! Only 10,000 made, all with unique features. Collect them, buy one as a gift for someone or trade them on the marketplace!
   type: nft
 - 
+  key: ETC HODL Contract
+  name: ETC HODL Contract
+  link: https://ipfs.io/ipfs/QmVWD1sHPrKMmKcWoSPHGTfDpgaa8N4y6arftpFCnpJWcg
+  text: A simple HODL protocol for Ethereum Classic. Lock up your ETC and earn rewards when others unlock their ETC before you do.
+  type: finance
+- 
   key: Aqua Bank
   name: Aqua Bank
   type: game
