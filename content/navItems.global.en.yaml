@@ -152,7 +152,7 @@ play:
           __link: /community/teams
           name: Teams
         events:
-          __link: /community/promoters
+          __link: /community/events
           name: Events
         bounties:
           __link: /community/bounties

@@ -8,6 +8,7 @@ import ContentSidebarInline from "./contentSidebarInline";
 import ContentSidebarVertical from "./contentSidebarVertical";
 import ContentTOC from "./contentTOC";
 import Generic from "./generic";
+import Json from "./json";
 
 import MarkdownStatic from "./markdownStatic";
 import TwContainer from "./twContainer";
@@ -24,7 +25,7 @@ function mapToc(item, i18n = item) {
 
 export default function Content({ data = {}, i18n = {}, children, max }) {
   const { mdx, contributors } = data;
-  const { sub } = useNavigation();
+  const { sub, current } = useNavigation();
   const toc = mdx?.headings[0]
     ? mdx?.toc.items[0].items
     : mdx?.toc.items ?? [mapToc(i18n)].filter((i) => i)[0]?.items;
@@ -71,7 +72,7 @@ export default function Content({ data = {}, i18n = {}, children, max }) {
                 <Generic {...{ i18n }} />
               )}
             </article>
-            <ContentFooter {...{ mdx, i18n, contributors }} />
+            <ContentFooter {...{ mdx, i18n, contributors, current }} />
           </>
         )}
       </main>

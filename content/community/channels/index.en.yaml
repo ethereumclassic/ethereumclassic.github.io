@@ -2,7 +2,10 @@ __contribute: true
 __disclaimer: true
 title: Social Channels
 meta: A collection of Ethereum Classic chat rooms, twitter accounts, discussion groups, forums, podcasts, repositories and regional websites
-description: The following is a non-exhaustive list of active Ethereum Classic discussion channels and groups.
+description: |
+  The following is a non-exhaustive list of active Ethereum Classic discussion channels and groups.
+
+  The main hub of activity within the ETC community at present is on [Discord](https://ethereumclassic.org/discord).
 items:
   Chat Rooms:
     __type: buttons

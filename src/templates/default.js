@@ -24,6 +24,7 @@ export const pageQuery = graphql`
         title
         license
         description
+        showNext
         date
         author
         contribute

@@ -1,6 +1,7 @@
 ---
 title: Why Classic?
 contributors: ["IstoraMandiri"]
+showNext: true
 ---
 
 Following the rapid growth of the cryptocurrency space, many new players enter the scene, and while scrolling down the list of projects by market cap, some notice a project called _Ethereum Classic_.
