@@ -49,7 +49,7 @@ items:
   name: ETC HODL Contract
   link: https://ipfs.io/ipfs/QmVWD1sHPrKMmKcWoSPHGTfDpgaa8N4y6arftpFCnpJWcg
   text: A simple HODL protocol for Ethereum Classic. Lock up your ETC and earn rewards when others unlock their ETC before you do.
-  type: Finance
+  type: finance
 - 
   key: Aqua Bank
   name: Aqua Bank
