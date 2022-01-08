@@ -1,5 +1,8 @@
 title: Blockchain Explorers
-description: A blockchain explorer is a browser for the blockchain, similar to how we have browsers like Brave Browser and FireFox for internet web pages. All cryptocurrency users rely on blockchain explorers to track their transactions. Browse the list of Ethereum Classic explorers to find an interface that you like and add it to your bookmarks.
+description: |
+  Blockchain Explorers provide a convenient way to get insights into the current and past state of a given chain, allowing you to inspect the contents of blocks, transactions and account balances. 
+
+  They are commonly used to check that transactions have been confirmed properly, but many offer more advanced features such as historical account balances, contract verification, and more.
 items:
   explorers:
     type: table

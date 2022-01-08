@@ -154,12 +154,12 @@ play:
         events:
           __link: /community/events
           name: Events
-        bounties:
-          __link: /community/bounties
-          name: Bounties
-        dao:
-          __link: /community/daos
-          name: DAOs
+        # bounties:
+        #   __link: /community/bounties
+        #   name: Bounties
+        # dao:
+        #   __link: /community/daos
+        #   name: DAOs
     network:
       __link: /network
       __icon: network
@@ -175,9 +175,9 @@ play:
         monitors:
           __link: /network/monitors
           name: Monitors
-        statistics:
-          __link: /network/statistics
-          name: Statistics
+        # statistics:
+        #   __link: /network/statistics
+        #   name: Statistics
     mining:
       __link: /mining
       __icon: fan

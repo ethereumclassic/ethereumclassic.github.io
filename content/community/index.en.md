@@ -2,9 +2,9 @@
 title: ETC Community
 ---
 
-Ethereum Classic something far more important than just some lines of code.
+Ethereum Classic is something far more than just some lines of code.
 
-The lines of code that make the Ethereum Classic protocol have a magical property that, thanks to economic incentives and game theory, enable otherwise totally unrelated individauals to come together and organize far more effectively, peacefully and powerfully than any other organizational structure known today.
+Those lines of code that define the Ethereum Classic protocol have a magical property that, thanks to economic incentives and game theory, enable otherwise totally unrelated individauals to come together and organize far more effectively, peacefully and powerfully than any other organizational structure known today.
 
 Limited not by geography, united in vision, and armed with the most powerful cryptosocioeconomic tools ever invented, they, for the first time, have the potential to revolutionize the world on a global scale.
 

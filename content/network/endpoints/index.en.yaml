@@ -1,26 +1,50 @@
 title: Public Endpoints
-description: TODO add actual URLS
+description: |
+  Remote Procedure Call (RPC) Endpoints are your gateway to Ethereum Classic, and allow you to communicate with and read data from the ETC chain. For maximium trustlessness, you run an [ETC Client](/development/clients) locally; a local endpoint is usually made available at `http://localhost:8545`.
+
+  Public Ethereum Classic RPC endpoints are also available, provided either for free to the community or as a subscription service. Because you can sign and broadcast transactions locally using a wallet such as [MetaMask](/guides/metamask), public endpoints can be used whilst maintaining custody of your private keys.
+
+  You can use these URLs to transact and deploy to ETC (or it's testnets) by updating your wallet or deployment tool confiruration. Make sure you also change your Chain ID to `61` for Ethereum Mainnet. 
+
+  For more information on other networks, check out the [tesntets](/development/testnets) section.
 items:
   endpoints:
-    __type: buttons
-    title: Public Endpoints
-    description: You can use these services to connect to ETC via JSON-RPC.
+    type: table
+    sort: false
+    intro: testing
+    hideHeader: true
+    columnItems:
+      name:
+        name: Service
+        linkRef: link
+      rpcUrl:
+        name: RPC URL
     items:
+      Ethercluster:
+        __rpcUrl: https://www.ethercluster.com/etc
+        __link: https://www.ethercluster.com
+        name: Ethercluster
+      Ethercluster (Kotti):
+        __rpcUrl: https://www.ethercluster.com/kotti
+        __link: https://www.ethercluster.com
+        name: Ethercluster (Kotti)
+      Ethercluster (Mordor):
+        __rpcUrl: https://www.ethercluster.com/mordor
+        __link: https://www.ethercluster.com
+        name: Ethercluster (Mordor)
+      Ethercluster (Goerli):
+        __rpcUrl: https://www.ethercluster.com/goerli
+        __link: https://www.ethercluster.com
+        name: Ethercluster (Goerli)
       BlockScout API:
         __link: https://blockscout.com/etc/mainnet/api_docs
         name: BlockScout API
-      Ethercluster:
-        __link: https://www.ethercluster.com/etc
-        name: Ethercluster
-      Ethercluster (Kotti):
-        __link: https://www.ethercluster.com/kotti
-        name: Ethercluster (Kotti)
-      Ethercluster (Mordor):
-        __link: https://www.ethercluster.com/mordor
-        name: Ethercluster (Mordor)
+        __rpcUrl: <API Key Required>
       RIVET API:
         __link: https://rivet.cloud/
         name: RIVET
+        __rpcUrl: <API Key Required>
       TokenView API:
         __link: https://services.tokenview.com
         name: TokenView API
+        __rpcUrl: <API Key Required>
