@@ -189,27 +189,35 @@ As the Child DAO's split function deadline loomed, consensus was declaired, and 
 
 ### The Totally Neutral Foundation
 
-During the debate The Ethereum Foundation attempted to maintain a stance of neutrality; whatever was done about The DAO Hack, it was a question for the Ethereum _communtiy_ to deicde, not something that came from the top. Despite this, evidence of lack of neutrality some wings of Etheruem Foundation was shown throughout.
+During the debate The Ethereum Foundation attempted to maintain a stance of neutrality; whatever was done about The DAO Hack, it was a question for the Ethereum _communtiy_ to deicde, not something that came from the top. This was an important position to hold as deferring the choice would, on paper, resolve them of responsibility. Despite this claim, clear evidence of a lack of neutrality various wings of Etheruem Foundation was shown.
 
-TODO EF telling exchanges ETC would be worthless https://medium.com/@WhalePanda/ethereum-chain-of-liars-thieves-b04aaa0762cb
+One problem with implementing the Hard Fork was that if many users needed to "opt-in" with additional confuguration, many (perhaps most) users and miners would be operating on the "unforked" chain, which would all but guaruntee that a chain split would occur and create problems that will be explored shortly. The "solution" was to update the default settings of the Ethereum clients to follow the new Hard Fork rules, and require users who wish to be on the current version of Ethereum to "opt-out" of the fork.
 
-in the way that the default settings for EF's Ethereum client, go-ethereum aka geth, was decided.
+In a veiled attempt to maintain some level of neutrality, the decision of which default to use for geth [was made](https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork/) was based on the outcome of a "coin vote".
 
-One problem with implementing the Hard Fork was that if many users needed to "opt-in" with additional confuguration, many (perhaps most) users and miners would be operating on the "unforked" chain, which would all but guaruntee that a chain split would occur and create problems. The "solution" was to update the default settings of the Ethereum clients to follow the new Hard Fork rules, and require users to "opt-out" of the fork.
+Coin votes, where 1 ETH = 1 vote, are notoriously bad tools to reflect the opinions of a community, especially where those voting are financially incentivsed. If one whale has 90,000 ETH, and 10,000 dedicated community members only have 8 ETH each on average, the whale can gauruntee a win and dictate what the consensus of "the Ethereum community" is. Smaller position voters also have less incentive to participate as they have individually less sway and they collectively requrie a far higher level coordination, effort and gas fees to participate. On top of this, this coin vote had no minimum quorum (only 6% of Ether voted), and most shockingly, it was announced and concluded within 12 hours, giving very little time to coordinate any reponse from anti-forkers, making it impossible get input from half the world that was asleep.
 
-In a veiled attempt to maintain some level of neutrality, the decision of which default to use for geth [was made](https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork/) based on the outcome of a "coin vote", which was announced and concluded within 12 hours, giving very little time to coordinate any reponse from anti-forkers, and was heavily skewed by pro-fork whales. The important decision of which chain to default was then claimed to be made "by the community".
+Predictably, the results were heavily skewed by a handful of whales who may or may not have had foreknowledge of the announcement. The important decision of which chain for geth to default to was then claimed to be made "by the community" and was later used to justify Ethereum Foundation's support of the forked chain over ETC.
 
 > [The DAO Fork] was voted on by the Ethereum community. Any ETH holder was able to vote via a transaction on a voting platform. The decision to fork reached over 85% of the votes.
 >
 > - [Ethereum.org Website](https://ethereum.org/en/history/#dao-fork)
 
-Whilst it was clear that some pro-forkers did not want geth or any Etheruem Foundation products to even have the option of running the "unforked" chain, to provide plausible neutrality, the infamous `--oppose-dao-fork` flag was added to geth, enabling users to opt-in to the _Code is Law_ chain by enabling this config paramter when upgrading versions. It was soon removed in later versions.
+Whilst it was clear that some pro-forkers did not want geth or any Etheruem Foundation products to even have the option of running the "unforked" chain, to provide plausible neutrality, the infamous `--oppose-dao-fork` flag was added to geth, enabling users to opt-in to the _Code is Law_ chain by enabling this config parameter. It was soon removed in later versions.
 
-To be fair, other teams within Etheruem Foundation did attempt to provide genuinely neutrality; Mist, the dapp browser, for example, forced users to make an explicit choice of which version of the chain to run when opening the client rather than opting them in to one side of the fork by default. Some Etheruem Foundation members even publicly spoke out against the Hard Fork, cementing the idea that concensus was in fact _not_ reached. To those who stood up for "Build Unstoppable Applications" despite the peer pressure, we salute you.
+To be fair, other teams within Etheruem Foundation did attempt to provide genuinel neutrality; Mist, the dapp browser, for example, forced users to make an explicit choice of which version of the chain to run when opening the client rather than opting them in to one side of the fork by default. Unfortunately the Mist client decision was far less concequential as it's target user base were neither miners nor exchanges, so would have no signficant effect on hashrate or adoption.
 
 ![](./mist.png)
 
-But even ignoring the conspiracy theories and individual protests, the proof was in the puidding; those who pushed for the Hard Fork appeared [very happy](https://twitter.com/stephantual/status/743764898316877824) with Ethereum Foundation's "help" in implementing it.
+Some Etheruem Foundation members even publicly spoke out against the Hard Fork, cementing the idea that concensus was in fact _not_ reached. To those who stood up for "Build Unstoppable Applications" despite the peer pressure, we salute you.
+
+Another smoking gun that points to lack of neutrality from The Etheruem Foundation was Poloniex's ETC listing announcement, which suggested that EF did not simply fail to warn exchanges about the possibility of a permenant chain split, but in private were actively downplaying it's potential, and contrary to the discussiosn on reddit, claimed that the Etheruem community had little to no interest in the unforked chain.
+
+> ... repeated assurances from _representatives of the Ethereum foundation_ that the community had little to no interest in Ether on the unforked chain (ETC) ...
+>
+> - [Poloniex](https://poloniexus.circle.com/press-releases/2016.07.26-responses-to-common-etc-questions/)
+
+Either way, ignoring conspiracy theories, the proof was in the puidding; those who pushed for the Hard Fork appeared [very happy](https://twitter.com/stephantual/status/743764898316877824) with Ethereum Foundation's "help" in implementing it.
 
 ## The Fork
 
@@ -349,7 +357,7 @@ Looking back, it seems clear that The DAO Hard Fork was an example of a _coordin
 
 The answer to this is complicated, but one theory is that the thinking of those who pushed so ardently for a Hard Fork was clouded - a combination of lack of understanding, poor forseight, and most influentially, hijacked amigdulas thanks to tremendously high pressure financial stakes and tribalistic infighting caused by the game theory around the Hard Fork debate, which discouraged any whiff of backing down and tapped into the warrior spirit.
 
-The Hard Fork debate was essentially a complex game of chicken, and the forkers were led to believe they could only "win" if they doubled down on the idea that a chain split was not going to happen. They downplayed it's likelihood and, to ensure a united front of confidence, prevented others from making making any plans to deal with it.
+The Hard Fork debate was essentially a complex [game of chicken](<https://en.wikipedia.org/wiki/Chicken_(game)>), and the forkers were led to believe they could only "win" if they doubled down on the idea that a chain split was not going to happen. They downplayed it's likelihood and, to ensure a united front of confidence, prevented others from making making any plans to deal with it.
 
 Having drunk their own koolaid, many truly believed that anyone warning about a chain split were either allied with The Hacker or Bitcoin Maximalists who wanted to see Ethereum die. Forkers, fueled by a rational desire but misguided strategy to protect their wealth, were willing to spread and consume increasingly ridiculous propaganda that bolstered support for a Hard Fork, which compounded the effect.
 

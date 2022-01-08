@@ -43,6 +43,8 @@ If history is anything to go by, attempts will be made to stifle adoption of the
 
 ## Where Code isn't Law
 
+TODO short thing about Code is Law is for contracts, obviously the client code can change (duh)
+
 The vast majority of blockchains projects today do not give much priority to _Unstoppability_, _Decentralization_ or _Code is Law_, and are therefore unable to deliver on the bright future alluded to above.
 
 Chains that do not care about _Code is Law_ may certainly carve out niches in areas that won't shake things up too much, but the moment they pose a threat to powerful incumbants, they will be easily manipulated, captured or otherwise compromised, and will therefore ultimately fail to deliver seriously monumental change.
