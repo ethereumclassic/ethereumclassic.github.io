@@ -2,11 +2,11 @@ import React from "react";
 import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
 import InfoBox from "./infoBox";
 
-export default function Disclaimer(props) {
+export default function Disclaimer({ text: key = "verify", ...rest }) {
+  console.log({ key });
   const {
-    ui: {
-      disclaimer: { title, text },
-    },
+    ui: { disclaimers },
   } = useGlobals();
-  return <InfoBox {...{ ...props, title, text }} />;
+  const { title, text } = disclaimers[key];
+  return <InfoBox {...{ ...rest, title, text }} />;
 }

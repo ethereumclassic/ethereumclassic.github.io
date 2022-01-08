@@ -12,6 +12,12 @@
   type: nfts
   date: 2021-10-20
   image: ./images/etcpunks.jpeg
+  # openSourceContracts: https://etcpunks.com/
+  openSourceFrontend: https://etcpunks.com/
+  # teamSite: https://etcpunks.com/
+  audit: https://etcpunks.com/
+  # testSuite: https://etcpunks.com/
+  ipfsFrontend: https://etcpunks.com/
 - title: Test NFT 2
   links:
     - name: Homepage
@@ -25,7 +31,12 @@
   description: ETCPunks are inspired collectibles, the first NFT porject on Ethereum Classic! Only 10,000 made, all with unique features. Collect them, buy one as a gift for someone or trade them on the marketplace!
   type: nfts
   date: 2021-10-20
-
+  openSourceContracts: https://etcpunks.com/
+  openSourceFrontend: https://etcpunks.com/
+  teamSite: https://etcpunks.com/
+  audit: https://etcpunks.com/
+  testSuite: https://etcpunks.com/
+  ipfsFrontend: https://etcpunks.com/
 - title: Aqua Bank
   type: games
   author: Something Labs

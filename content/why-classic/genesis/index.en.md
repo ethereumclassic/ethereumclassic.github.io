@@ -1,6 +1,7 @@
 ---
 title: Genesis
 updated: 2021-12-18
+disclaimer: opinion
 ---
 
 TODO: add accuracy disclaimer

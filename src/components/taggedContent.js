@@ -8,7 +8,7 @@ import Markdown from "./markdownDynamic";
 
 export default function TaggedContent({ children, pageContext, i18n }) {
   return (
-    <Content max i18n={{ disclaimer: true }}>
+    <Content max i18n={{ disclaimer: "verify" }}>
       <ContentHeader i18n={i18n} />
       {i18n.description && (
         <Markdown tw="prose max-w-2xl">{i18n.description}</Markdown>

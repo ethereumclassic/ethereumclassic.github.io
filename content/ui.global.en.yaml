@@ -24,9 +24,13 @@ timeline:
   chronological: Chronological
   reversed: Reversed
 ## disclaimer on pages with extenral links
-disclaimer:
-  title: Don't Trust, Verify.
-  text: External links are unofficial community submissions.
+disclaimers:
+  verify:
+    title: Don't Trust, Verify.
+    text: External links are unofficial community submissions.
+  opinion:
+    title: Opinionated Content
+    text: This page does not necessarily reflect the view of all ETC stakeholders.
 ## Banner at the top of the page for warnings / upgrade messages
 ## prev next
 next: Continue Reading

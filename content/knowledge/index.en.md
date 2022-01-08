@@ -1,6 +1,7 @@
 ---
 title: Knowledge Base
 description: General information and explainers about various Ethereum Classic history and concepts
+disclaimer: opinion
 ---
 
 Ethereum Classic, despite having no central organizing committee, has managed to attract all kinds of players at various points in time who have come and gone and all contributed and shaped it in their own way. ETC's greatest strength, it's philosophy and principles, are able to be spread even without billions of dollars of marketing because their value is self evident and bright minds gravitate toward them.

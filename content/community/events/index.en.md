@@ -1,6 +1,6 @@
 ---
 contribute: true
-disclaimer: true
+disclaimer: verify
 title: Events
 ---
 

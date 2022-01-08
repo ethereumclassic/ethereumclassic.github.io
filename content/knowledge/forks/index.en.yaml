@@ -1,10 +1,10 @@
-title: Forks
+title: Protocol Upgrades
 description: |
-  Ethereum Classic, despite it's histroy, is not against most Hard Forks. Far from it, Hard Forking allows the protocol to be upgraded, to fix bugs, and add features that further the goal of allowing developers to "Build Unstoppable Applications".
+  Ethereum Classic, despite it's histroy, is not against all types of Hard Fork. Far from it; Hard Forking allows the protocol to be upgraded, to fix bugs, and add features that further the goal of allowing developers to "Build Unstoppable Applications".
 
   The types of Hard Fork that Etheruem Classic will never implement are those like [The DAO Fork](/why-classic/genesis), which do not address a defect in or enhancement of the protocol itself, but instead override *Code is Law* by modifying Smart Contracts in the application layer.
 
-  Etheruem Classic is strategically maintaining maximal compatibility with upstream Ethereum, which means contracts deployed to ETH can also deployed to ETC, and Ethereum Classic inherits valuable innovations born on Ethereum.
+  Etheruem Classic is strategically maintaining maximal compatibility with upstream Etheruem's EVM, which means contracts deployed to ETH can also deployed to ETC, and Ethereum Classic inherits many valuable innovations born through research Ethereum.
 items:
   forks:
     title: ETC Fork History

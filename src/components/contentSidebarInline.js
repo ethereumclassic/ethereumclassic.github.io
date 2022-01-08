@@ -25,7 +25,7 @@ export default function ContentSidebarInline({ items, disclaimer }) {
             </Link>
             {disclaimer && (
               <div tw="md:hidden">
-                <Disclaimer type="micro" />
+                <Disclaimer type="micro" text={disclaimer} />
               </div>
             )}
           </div>

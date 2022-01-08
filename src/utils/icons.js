@@ -64,6 +64,7 @@ export {
   faAward as award,
   faCircleNotch as spinner,
   faSadCry as sad,
+  faLandmark as foundation,
   // in timeline and forks
   faRocket as rocket,
   faSnowflake as snowflake,

@@ -29,6 +29,7 @@ export const pageQuery = graphql`
         author
         contribute
         contributors
+        disclaimer
         updated
       }
     }

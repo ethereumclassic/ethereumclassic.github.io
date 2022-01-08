@@ -21,6 +21,12 @@ export const pageQuery = graphql`
     type
     date
     slug
+    openSourceContracts
+    openSourceFrontend
+    teamSite
+    audit
+    testSuite
+    ipfsFrontend
     links {
       name
       link

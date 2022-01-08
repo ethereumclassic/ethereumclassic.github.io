@@ -7,7 +7,7 @@ export default function TaggedLayout({ children, field = "tags", ..._props }) {
   const { pageContext, i18n } = _props;
   const filter = pageContext.filter && i18n[field][pageContext.filter];
   const content = filter || i18n;
-  content.disclaimer = true;
+  content.disclaimer = "verify";
   const props = {
     ..._props,
     i18n: { ..._props.i18n, ...content },

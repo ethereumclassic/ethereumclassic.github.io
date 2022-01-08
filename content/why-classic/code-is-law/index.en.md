@@ -1,6 +1,7 @@
 ---
 title: Code is Law
 updated: 2021-12-15
+disclaimer: opinion
 ---
 
 # Code is Law

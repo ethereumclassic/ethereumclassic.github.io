@@ -4,6 +4,7 @@ contributors: ["IstoraMandiri"]
 updated: 2022-01-01
 title: Future Classic
 description: An overview of Ethereum Classic's origins, history and future development roadmap
+disclaimer: opinion
 ---
 
 Unlike other projects, Ethereum Classic does not have a central organizing comittee calling the shots, so similar to Bitcoin, what gets implemented in the protocol is determined through an organic, meritocratic, emergent system. Whilst this appraoch is not designed to yeild explosive growth at first, the trade-off is made for long term sustainability, and Ethereum Classic's persitence has put it in a strong position for it's next stage of growth when network effects begin to snowball adoption.

@@ -22,7 +22,7 @@ export default function ContentHeader({ mdx, i18n, pre, ...rest }) {
   const articleHeader = mdx?.headings?.[0]?.value;
   const { title, date, author, updated } = mdx?.meta || i18n;
   const header = articleHeader || title;
-  const showDisclaimer = mdx?.meta?.disclaimer || i18n.disclaimer;
+  const disclaimer = mdx?.meta?.disclaimer || i18n.disclaimer;
   return (
     <div tw="flex" {...rest}>
       <div tw="flex-auto">
@@ -59,9 +59,9 @@ export default function ContentHeader({ mdx, i18n, pre, ...rest }) {
           )}
         </div>
       </div>
-      {showDisclaimer && (
+      {disclaimer && (
         <div tw="hidden md:block">
-          <Disclaimer type="micro" />
+          <Disclaimer type="micro" text={disclaimer} />
         </div>
       )}
     </div>

@@ -29,21 +29,38 @@ learn:
         foundation:
           __link: /knowledge/foundation
           name: Foundation
+          description: The core principles that form ETC's solid philosophical base
+          icon: foundation
         theory:
           __link: /knowledge/theory
           name: Theory
+          longName: Theory & Research
+          icon: book
+          description: A deeper dive into the logic of Ethereum Classic with pieces from the community
         investing:
           __link: /knowledge/investing
           name: Investing
-        history:
-          __link: /knowledge/history
-          name: History
+          longName: Investor Resources
+          icon: chart
+          description: Information about the value proposion of Etheruem Classic and it's potential for sick gains
         forks:
           __link: /knowledge/forks
           name: Forks
+          longName: Protocol Upgrades
+          icon: codeBranch
+          description: A chronicling of past and future Hard Forks that have added functionality or bugfixes to ETC
+        history:
+          __link: /knowledge/history
+          name: History
+          longName: Classic History
+          icon: update
+          description: A timeline of all of the major events in Ethereum Classics up to the present day
         future:
           __link: /knowledge/future
           name: Future
+          longName: Future Classic
+          icon: etc
+          description: An overview of the decision making process in ETC, and where it might lead the protocol
     guides:
       __link: /guides
       __icon: book
