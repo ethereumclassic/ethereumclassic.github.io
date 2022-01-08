@@ -9,7 +9,37 @@ import AppsIcon from "./appsIcon";
 
 function LinksSection({ links, ...rest }) {
   return (
-    <div {...rest}>
+    <div {...rest} tw="text-shade-light">
+      <div tw="flex items-center space-x-2 my-2">
+        <span>Trust Checklist:</span>
+        <div tw="flex space-x-1 text-shade-lighter">
+          <Icon icon="star" tw="h-3" tw="text-primary-neutral" />
+          <Icon icon="star" tw="h-3" tw="text-primary-neutral" />
+          <Icon icon="star" tw="h-3" />
+          <Icon icon="star" tw="h-3" />
+          <Icon icon="star" tw="h-3" />
+        </div>
+      </div>
+      <div tw="grid grid-cols-3 gap-x-4 gap-y-1">
+        {[
+          { key: "openSource", text: "Open Source", on: true },
+          { key: "teamSite", text: "Team Site" },
+          { key: "audited", text: "Audited" },
+          { key: "testSuite", text: "Test Suite" },
+          { key: "ipfs", text: "IPFS Frontend", on: true },
+        ].map(({ key, text, on }) => (
+          <div
+            key={key}
+            css={[
+              tw`flex items-center space-x-2`,
+              on && tw`text-primary-neutral font-bold`,
+            ]}
+          >
+            <Icon icon={on ? "check" : "times"} tw="h-3" />
+            <span>{text}</span>
+          </div>
+        ))}
+      </div>
       {links && (
         <div tw="mt-6">
           {links.map((link) => (

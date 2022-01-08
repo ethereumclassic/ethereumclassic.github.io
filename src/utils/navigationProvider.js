@@ -34,6 +34,7 @@ function NavigationProvider({
     }
   }
   getLevels();
+  const current = levels[levels.length - 1];
 
   const next =
     (levels[levels.length - 1].navItems &&
@@ -48,7 +49,7 @@ function NavigationProvider({
   const [{ navItems: main }, _sub, subSub] = levels;
   const sub = _sub && !_sub.hideTop ? _sub : null;
   return (
-    <NavigationContext.Provider value={{ main, sub, subSub, next }}>
+    <NavigationContext.Provider value={{ main, sub, subSub, next, current }}>
       {children}
     </NavigationContext.Provider>
   );

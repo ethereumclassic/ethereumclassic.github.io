@@ -22,10 +22,10 @@ items:
         name: Type
         __textRef: type
       miningAlgo:
-        name: Mining Algorithm
+        name: Algorithm
       consensusAlgo:
         __textRef: consensusAlgo
-        name: Consensus Algorithm
+        name: Consensus Type
       networkId:
         name: NetworkID
       chainId:
