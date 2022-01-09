@@ -9,6 +9,12 @@ legends:
   other: Other
 items: 
 - 
+  key: ETCZunks
+  name: ETCZunks
+  link: https://etczunks.com
+  text: ETCZunks are an exclusive collection of 10,000 randomly generated characters created on the Ethereum Classic blockchain. Each ETCZunk is unique and can only be owned by one individual. Join to be part of the ETCZunks community, friendly enviroment, amazing giveaways and more.
+  type: nft
+- 
   key: NFTCREED
   name: NFTCREED
   link: https://nftcreed.io/
