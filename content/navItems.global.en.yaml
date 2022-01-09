@@ -70,12 +70,21 @@ learn:
         basics:
           __link: /guides/basics
           name: Basics
+          longName: The Basics
+          description: FAQs and Video explainers covering Blockchain and ETC 101
+          icon: question
         metamask:
           __link: /guides/metamask
           name: MetaMask
+          longName: Using MetaMask with ETC
+          description: How to configure MetaMask and alternatives to interact with dapps
+          icon: cursor
         development:
           __link: /guides/development
           name: Development
+          longName: Developer Guides
+          description: A collection of turorials on how to build dapps on Ethereum Classic
+          icon: code
     videos:
       __link: /videos
       __icon: video
@@ -131,12 +140,19 @@ play:
         wallets:
           __link: /services/wallets
           name: Wallets
+          description: Software to store and manage ETC, Tokens, NFTs and other assets
+          icon: coins
         exchanges:
           __link: /services/exchanges
           name: Exchanges
+          description: Where to buy and trade ETC
+          icon: exchange
         apps:
           __link: /services/apps
           name: Apps
+          longName: Apps and Protocol
+          description: Ecosystem of applications that levarage Ethereum Classic
+          icon: screen
           navItems:
             nfts:
               __link: /services/apps/nfts
@@ -165,12 +181,20 @@ play:
         channels:
           __link: /community/channels
           name: Channels
+          longName: Social Media Channels
+          icon: comments
+          description: A list of accounts, chat rooms and forums to discuss ETC with others
         teams:
           __link: /community/teams
           name: Teams
+          longName: Developer Teams
+          icon: users
+          description: Information on who's working on Ethereum Classic
         events:
           __link: /community/events
           name: Events
+          icon: calendar
+          description: Join the ETC community at regular social events happening throught the year
         # bounties:
         #   __link: /community/bounties
         #   name: Bounties
@@ -186,12 +210,21 @@ play:
         endpoints:
           __link: /network/endpoints
           name: Endpoints
+          longName: RPC Endpoints
+          icon: ethernet
+          description: Public and private services for communicating with to the ETC network
         explorers:
           __link: /network/explorers
           name: Explorers
+          longName: Blockchain Explorers
+          icon: compass
+          description: Tools to inspect the chain for transactions, blocks, and other insights
         monitors:
           __link: /network/monitors
           name: Monitors
+          longName: Network Monitors
+          icon: eye
+          description: Tools for checking the health and status of the network with vairious metrics
         # statistics:
         #   __link: /network/statistics
         #   name: Statistics
@@ -204,12 +237,20 @@ play:
         hardware:
           __link: /mining/hardware
           name: Hardware
+          icon: server
+          description: Info about what kind of equipment is best to use for profitably mine ETC
         software:
           __link: /mining/software
           name: Software
+          longName: Mining Software
+          icon: hardhat
+          description: A list of tools that can be used to mine ETC on various operating systems
         pools:
           __link: /mining/pools
           name: Pools
+          longName: Mining Pools
+          icon: pool
+          description: Joining a mining pool lets you profit based on hashpower rather than blocks found
     develop:
       __link: /development
       __icon: code
@@ -219,18 +260,30 @@ play:
         clients:
           __link: /development/clients
           name: Clients
+          icon: network
+          description: Client software is the backbone of the network and implements the ETC protocol
         testnets:
           __link: /development/testnets
           name: Testnets
+          icon: vial
+          description: Networks for public testing of apps and protocol upgrades before production
         tooling:
           __link: /development/tooling
           name: Tooling
+          longName: Developer Tooling
+          icon: wrench
+          description: They say a workman is as good as his tools, so make sure you pick good ones!
         repos:
           __link: /development/repositories
           name: Repositories
+          icon: github
+          longName: Git Repositories
+          description: A list of Etheruem Classic related project repos for your viewing pleasure
         ecips:
           __link: /development/ecips
           name: ECIPs
+          description: Etheruem Classic Improvement Proposals overview and approved proposals
+          icon: rocket
 news:
   __hideMobile: true
   __link: /news

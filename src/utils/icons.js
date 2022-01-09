@@ -99,6 +99,16 @@ export {
   faExclamationCircle as warning,
   faGasPump as gas,
   faCut as scissors,
+  faQuestionCircle as question,
+  faDesktop as screen,
+  faComments as comments,
+  faEthernet as ethernet,
+  faCompass as compass,
+  faEye as eye,
+  faServer as server,
+  faHardHat as hardhat,
+  faSwimmingPool as pool,
+  faVial as vial,
 } from "@fortawesome/free-solid-svg-icons";
 
 export {

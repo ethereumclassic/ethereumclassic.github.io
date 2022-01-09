@@ -1,7 +1,5 @@
-__type: buttons
-title: Gas Fee Estimators
+title: Network Monitors
 description: These services help users optimize gas prices to ensure your transactions process efficiently and timely. To prevent fee front running and negative feedback loops of gas estimators, it's best to program conservative gas prices into wallets and dapps.
 items:
-  Expedition:
-    name: Expedition
-    link: https://expedition.dev/?network=mainnet
+  monitors:
+    __configRef: monitors
