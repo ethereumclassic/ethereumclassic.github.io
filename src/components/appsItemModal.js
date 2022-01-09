@@ -8,8 +8,8 @@ import Icon from "./icon";
 import AppsIcon from "./appsIcon";
 
 const checklist = [
-  { key: "openSourceContracts", text: "Open Source" },
-  { key: "openSourceFrontend", text: "Open Source" },
+  { key: "verifiedContract", text: "Verified Contract" },
+  { key: "openSource", text: "Open Source" },
   { key: "teamSite", text: "Team Site" },
   { key: "audit", text: "Audited" },
   { key: "testSuite", text: "Test Suite" },
@@ -33,7 +33,8 @@ function ChecklistSection({ item, ...rest }) {
           ))}
         </div>
       </div>
-      <div tw="grid grid-cols-3 gap-x-4 gap-y-1">
+      {/* TODO make this behave like table, auto width */}
+      <div tw="grid grid-cols-3 gap-x-3 gap-y-1">
         {checklist.map(({ key, text }) => {
           const isChecked = !!item[key];
           const Comp = isChecked ? Link : "div";

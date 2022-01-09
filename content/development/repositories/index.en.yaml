@@ -1,0 +1,19 @@
+title: Git Repositories
+description: A hodepodge of miscellaneous open source repositories for Ethereum Classic developers.
+items:
+  repos:
+    type: links
+    showLink: true
+    items:
+      EthereumClassic:
+        name: Github Organization
+        __link: https://github.com/ethereumclassic
+        description: The Main Ethereum Classic Github Organization, containing a number of repositories, a selection of which we will hilight below...
+      website:
+        name: ETC Website
+        __link: https://github.com/ethereumclassic/ethereumclassic.github.io
+        description: The source code of this very website, including instructions on how to contribute.
+      awesomeEtc:
+        name: Aweomse ETC
+        __link: https://github.com/ethereumclassic/Awesome-ETC
+        description: An awesome list of resources for the Ethereum Classic (ETC) project.

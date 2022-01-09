@@ -1,4 +1,13 @@
+__contirbute: true
+__disclaimer: verify
+__updated: 2022-01-09
 title: Mining Pools
+description: |
+  A non-exhaustive list of pools that support Ethereum Classic. 
+
+  The Top 5 most popular pools have been hilighted below to help you narrow down your search. You can find live updates about the size of each mining pool in the [Network Monitors](/network/monitors) section.
+
+  TODO update top 5s
 items:
   pools:
     __type: buttons

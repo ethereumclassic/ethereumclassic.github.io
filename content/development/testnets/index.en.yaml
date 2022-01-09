@@ -1,5 +1,12 @@
 title: Testnets
-description: Hello, TODO some text here
+description: |
+  When developing contracts on Etheruem Classic, as with any EVM Contract System, it is advised to use a local [virtual network](/development/tooling), which allows you to quickly iterate without having to wait for blocks to be mined. At some point, though, you may wish to allow the general public to interact with a beta version of your application, and for this, a testnet can be used.
+
+  As Ethereum Classic maintains compatibility with Etheruem's upstream EVM, contracts will behave the same (barring some minor [edge cases](/why-classic/etc-vs-eth)). This means that popular Etheruem testsnets such as [Kovan](https://kovan-testnet.github.io/website/) can, for the most part, be used for public testing of Ethereum Classic contracts, and because of their popularity this may be preferable for user testing.
+
+  Additioanlly, Ethereum Classic has it's own testnets that operate the Ethereum Classic version of the EVM, and deploying to one of these networks is also highly recommended before producction release. These public testnets also provide faucets, so you can easily acquire testnet ETC and deploy your code. 
+
+  Some of these networks, such as Astor, test experimental versions of ETC with features that do not yet exist in Ethereum Classic mainnet.
 items:
   testnets:
     __type: table

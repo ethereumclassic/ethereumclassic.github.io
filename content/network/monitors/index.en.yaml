@@ -1,5 +1,54 @@
 title: Network Monitors
-description: These services help users optimize gas prices to ensure your transactions process efficiently and timely. To prevent fee front running and negative feedback loops of gas estimators, it's best to program conservative gas prices into wallets and dapps.
+description: |
+  Below is a selection of tools that provide insights into a wide range of metrics relating to to the Etheruem Classic. Together they provide a full spectrum analysis of the health and status of the network.
 items:
-  monitors:
-    __configRef: monitors
+monitors:
+  type: cells
+  items:
+    ThanosUpgrade:
+      name: Thanos Hard Fork Monitor
+      __etc: https://etcnodes.org/thanos
+    2Miners:
+      name: 2Miners
+      __etc: https://2miners.com/etc-stats/
+    CoinMetrics:
+      name: CoinMetrics
+      __etc: https://coinmetrics.io/charts/#assets=etc
+    CoinWarz:
+      name: CoinWarz
+      __etc: https://www.coinwarz.com/mining/ethereum-classic
+    Emerald Insights:
+      name: Emerald Insights
+      __etc: https://insights.emeraldpay.io/
+    ETCNetStats:
+      name: ETC Net Stats
+      __etc: https://etcnetstats.com/
+    ETCNodes:
+      name: ETCNodes
+      __etc: https://etcnodes.org/
+    Expedition:
+      name: Expedition
+      __etc: https://expedition.dev/?network=mainnet
+      __kotti: https://expedition.dev/?network=kotti
+      __mordor: https://expedition.dev/?network=mordor
+    ForkWatch:
+      name: Fork Watch
+      __etc: https://www.forkwatch.io/
+    MiningPoolStats:
+      name: MiningPoolStats
+      __etc: https://miningpoolstats.stream/ethereumclassic
+    Nanopool:
+      name: Nanopool
+      __etc: https://etc.nanopool.org/stats
+    PoolDetective:
+      name: Pool Detective
+      __etc: https://pooldetective.org/
+    TokenView:
+      name: TokenView
+      __etc: https://etc.tokenview.com/en/charts
+    WhatToMine:
+      name: WhatToMine
+      __etc: https://whattomine.com/coins/162-etc-ethash
+    Kotti Stats:
+      name: Kotti Stats
+      __kotti: http://stats.kotti.goerli.net/

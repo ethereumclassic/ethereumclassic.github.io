@@ -3,11 +3,7 @@ __contribute: true
 title: Developer Tools
 meta: A collection of tools to enhance the Ethereum Classic application development experience
 description: |
-  Good tools make a skilled craftsman better. This section contains a suite of excellent tools that can level up your development experience.
-
-  ## Clients
-
-  For more information on the various ETC clients, check out the [clients](/development/clients) page.
+  This page contains a list of resources that those developing applications on top of Etheruem Classic may find useful. Be sure to also check out the [Ethereum.org developer environment](https://ethereum.org/en/developers/local-environment/) page, as many of these tools remain relevant when developing for Ethereum Classic.
 items:
   processors:
     __type: buttons
@@ -65,10 +61,47 @@ items:
       Utrust:
         __link: https://utrust.com/
         name: Utrust
+  nodeTools:
+    __type: links
+    title: Node Deployment
+    description: These tools make it easy to spin up a cluster of nodes for production deployments or perform data science with public datasets.
+    items:
+      Bloq Cloud:
+        name: Bloq Cloud
+        __link: https://bloq.cloud/
+        description: BloqCloud delivers highly-optimized, always available access to blockchain networks. Connect quickly and scale easily based on your needs -- without having to worry about managing infrastructure.
+      DappNode:
+        __link: https://dappnode.io/
+        name: DappNode
+        description: DAppNode facilitates running nodes, DApps and hosting P2P networks and economies.
+      Ethercluster:
+        __link: https://www.ethercluster.com/
+        name: Ethercluster
+        description: Ethercluster is an open-sourced Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) providing Ethereum Classic (ETC) and Kotti endpoints for free.
+      GetBlock:
+        name: GetBlock
+        __link: https://getblock.io
+        description: GetBlock is a service that provides connection for the major cryptocurrencies’ nodes. They support such tools like JSON-RPC, REST, and WebSockets, which facilitates direct synchronization with the blockchain. There is no need to run a node yourself, the platform allows its customers to connect to a blockchain via a full node without having to pay a fee.
+      Google BigQuery:
+        name: Google BigQuery
+        __link: https://console.cloud.google.com/marketplace/details/ethereum-classic/crypto-ethereum-classic?filter=solution-type:dataset&q=ethereum%20classic&id=babd6e83-ec5f-4b0a-b44f-64d37710a71d
+        description: Google Cloud released datasets consisting of the blockchain transaction history for Ethereum Classic, to help you better understand cryptocurrency. Also included a set of queries and views that map all blockchain datasets to a double-entry book data structure that enables multi-chain meta-analyses, as well as integration with conventional financial record processing systems.
+      Raspberry Pi Node:
+        __link: https://core-geth.org/setup-on-raspberry-pi
+        name: Raspberry Pi Node
+        description: A detailed guide for how to setup an Ethereum Classic node on a Raspberry Pi.
+      Rivet Cloud:
+        __link: https://rivet.cloud/
+        name: RIVET
+        description: Infinitely-scalable, highly-available Ethereum and Ethereum Classic endpoints that truly just work.
+      QuikNode:
+        __link: https://quiknode.io/
+        name: QuikNode
+        description: QuikNodes are easy, always on, with a fast internet connection for quick blockchain sync, and you never have to worry about running out of disk space.
   tooling:
     __type: links
-    title: Development Tooling
-    description: A non-exhaustive selection of tools that can aid development of Ethereum Classic applications.
+    title: Development Tooling TODO split
+    description: A non-exhaustive selection of developer tools that can aid development of Ethereum Classic applications, including as IDEs, libraries, testing frameworks, debuggers, *etcetera*.
     items:
       BUIDL IDE:
         __link: https://buidl.secondstate.io/etc

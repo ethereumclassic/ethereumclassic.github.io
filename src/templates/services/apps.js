@@ -21,8 +21,8 @@ export const pageQuery = graphql`
     type
     date
     slug
-    openSourceContracts
-    openSourceFrontend
+    verifiedContract
+    openSource
     teamSite
     audit
     testSuite
