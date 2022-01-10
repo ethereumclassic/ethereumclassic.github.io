@@ -31,6 +31,7 @@ export const pageQuery = graphql`
         contributors
         disclaimer
         updated
+        info
       }
     }
     contributors: allContributorAvatar(filter: { page: { eq: $basePath } }) {

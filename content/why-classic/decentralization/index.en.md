@@ -37,6 +37,10 @@ Parable of built house on Rock vs Sand
 
 ---
 
+## Decentralization Theatre
+
+Cloud hosted PoS...
+
 As time goes on and the full scope of blockchain technology becomes apparent, incumbant institutions will do everything within their power to subvert and destroy the new systems that threatern to disintermediate them.
 
 Technological, Economic and Social attacks will be launched against the cryptocurrency space and will be effective against the majority of chains that have failed to anticipate this threat. Ironically, the very reason for blockchains existing is forgotten by the majority of them today, as they abandon the countermeasures that Satoshi Nakamoto handed down.

@@ -12,7 +12,7 @@ items:
     title: Chat Rooms
     items:
       chat Discord:
-        __link: https://discord.gg/ethereumclassic
+        __link: https://ethereumclassic.org/discord
         __brand: discord
         name: Discord (Global)
       chat Facebook English:

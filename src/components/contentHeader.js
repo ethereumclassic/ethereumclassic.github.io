@@ -6,6 +6,7 @@ import Disclaimer from "./disclaimer";
 import FormattedDate from "./formattedDate";
 import Icon from "./icon";
 import Link from "./link";
+import Md from "./markdownDynamic";
 
 function SubItem({ children, icon, ...rest }) {
   return (
@@ -23,47 +24,55 @@ export default function ContentHeader({ mdx, i18n, pre, ...rest }) {
   const { title, date, author, updated } = mdx?.meta || i18n;
   const header = articleHeader || title;
   const disclaimer = mdx?.meta?.disclaimer || i18n.disclaimer;
+  const info = mdx?.meta?.info || i18n.info;
   return (
-    <div tw="flex" {...rest}>
-      <div tw="flex-auto">
-        <div tw="space-y-2">
-          {preHeader && (
-            <Link
-              tw="!text-primary-dark !no-underline text-xl leading-6 font-semibold tracking-wide uppercase"
-              to={preHeader.link}
-            >
-              {preHeader.title}
-            </Link>
-          )}
-          {header && (
-            <h1 tw="!mb-2 text-2xl font-bold text-shade-darkest leading-tight sm:text-3xl ">
-              {header}
-            </h1>
-          )}
+    <>
+      <div tw="flex" {...rest}>
+        <div tw="flex-auto">
+          <div tw="space-y-2">
+            {preHeader && (
+              <Link
+                tw="!text-primary-dark !no-underline text-xl leading-6 font-semibold tracking-wide uppercase"
+                to={preHeader.link}
+              >
+                {preHeader.title}
+              </Link>
+            )}
+            {header && (
+              <h1 tw="!mb-2 text-2xl font-bold text-shade-darkest leading-tight sm:text-3xl ">
+                {header}
+              </h1>
+            )}
+          </div>
+          <div tw="flex space-x-4">
+            {date && (
+              <SubItem title={ui.published}>
+                <FormattedDate date={date} />
+              </SubItem>
+            )}
+            {updated && (
+              <SubItem icon="update" title={ui.updated}>
+                <FormattedDate date={updated} />
+              </SubItem>
+            )}
+            {author && (
+              <SubItem icon="pen" title={ui.author}>
+                {author}
+              </SubItem>
+            )}
+          </div>
         </div>
-        <div tw="flex space-x-4">
-          {date && (
-            <SubItem title={ui.published}>
-              <FormattedDate date={date} />
-            </SubItem>
-          )}
-          {updated && (
-            <SubItem icon="update" title={ui.updated}>
-              <FormattedDate date={updated} />
-            </SubItem>
-          )}
-          {author && (
-            <SubItem icon="pen" title={ui.author}>
-              {author}
-            </SubItem>
-          )}
-        </div>
+        {disclaimer && (
+          <div tw="hidden md:block">
+            <Disclaimer type="micro" text={disclaimer} />
+          </div>
+        )}
       </div>
-      {disclaimer && (
-        <div tw="hidden md:block">
-          <Disclaimer type="micro" text={disclaimer} />
-        </div>
+      {info && (
+        <Md tw="text-sm bg-backdrop-light p-3 my-6 shadow-sm rounded-md" unwrap>
+          {info}
+        </Md>
       )}
-    </div>
+    </>
   );
 }

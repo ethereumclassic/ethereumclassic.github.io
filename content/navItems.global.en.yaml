@@ -297,7 +297,7 @@ extra:
       __icon: news
       name: News
     blog:
-      __link: /blog
+      __link: /news/tag/blog
       __icon: blog
       name: Blog
     about:
