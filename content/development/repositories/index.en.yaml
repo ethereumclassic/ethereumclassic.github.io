@@ -6,9 +6,13 @@ items:
     showLink: true
     items:
       EthereumClassic:
-        name: Github Organization
+        name: Main Github Organization
         __link: https://github.com/ethereumclassic
         description: The Main Ethereum Classic Github Organization, containing a number of repositories, a selection of which we will hilight below...
+      eth-classic:
+        name: Alternative Github Organization
+        __link: https://github.com/eth-classic
+        description: Another community managed Github Organization that includes testnet configurations, ETChash, Besu, etc.
       website:
         name: ETC Website
         __link: https://github.com/ethereumclassic/ethereumclassic.github.io

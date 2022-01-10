@@ -6,8 +6,6 @@ description: |
   A non-exhaustive list of pools that support Ethereum Classic. 
 
   The Top 5 most popular pools have been hilighted below to help you narrow down your search. You can find live updates about the size of each mining pool in the [Network Monitors](/network/monitors) section.
-
-  TODO update top 5s
 items:
   pools:
     __type: buttons
@@ -31,7 +29,6 @@ items:
       Beepool:
         name: Beepool
         __link: https://beepool.org/coindetail/etc
-        __primary: true
       BTC.com:
         name: BTC.com
         __link: https://pool.btc.com/
@@ -96,6 +93,7 @@ items:
       f2pool:
         name: f2pool
         __link: https://www.f2pool.com/
+        __primary: true
       FairPool:
         name: FairPool
         __link: https://etc.fairpool.xyz/
@@ -117,6 +115,7 @@ items:
       Hiveon:
         name: Hiveon
         __link: https://hiveon.net/
+        __primary: true
       HuobiPool:
         name: HuobiPool
         __link: https://www.hpt.com/
