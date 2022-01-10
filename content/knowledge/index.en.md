@@ -8,4 +8,4 @@ Ethereum Classic, despite having no central organizing committee, has managed to
 
 There is no way to compete traditionally with a billion dollar budget VC chain in the short term; those projects are sure to attract immediate attention. But as the good word of Ethereum Classic is spread, and people get deeper into understanding the value of blockchain, ETC is going to keep delivering on the Original Ethereum Vision of "Build Unstoppable Applications" and will become quietly, steadily but inevitably more valuable, without a central marketing budget in sight.
 
-This section contains a selection of contributions from community members that feed into the source of ETC's strength, by providing intel and philosophical ordinance that can be deployed in the battle of winning hearts and minds.
+This section contains a selection of contributions from community members that feed into the source of ETC's strength, by providing intel and philosophical ordanance that can be deployed in the battle for winning hearts and minds.

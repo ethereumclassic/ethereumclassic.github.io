@@ -59,7 +59,6 @@ function ChecklistSection({ item, ...rest }) {
 }
 
 function LinksSection({ links, ...rest }) {
-  console.log(rest);
   return (
     <>
       <div tw="text-secondary-dark text-sm mt-4">

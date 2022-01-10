@@ -3,7 +3,6 @@ import { useGlobals } from "../../plugins/translations-plugin/src/components/loc
 import InfoBox from "./infoBox";
 
 export default function Disclaimer({ text: key = "verify", ...rest }) {
-  console.log({ key });
   const {
     ui: { disclaimers },
   } = useGlobals();
