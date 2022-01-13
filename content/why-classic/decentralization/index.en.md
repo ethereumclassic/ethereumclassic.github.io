@@ -3,43 +3,89 @@ title: Decentralization
 updated: 2021-11-30
 ---
 
-## What does Decentralization acutall mean?
+Since the stormy days of The DAO Fork, Ethereum Classic has persisted and it's community has coaleased around a number ideas, the most fundamental but difficult to pin down of which is that of decentralization. This document will attempt to lay out the case for decentralization; the what, why, and how of this illusive but vital ingreedient.
 
-- Recap on Code is Law & Genesis
-- Decentralization Spectrum
-- Sovereign Grade
-- Censhorship Resistence
-- Decentrlisation Maximalism
-- Eutopia, Unstoppability / Code is Law
-- Maintaining _Code is Law_ is what gives blockchains value
+> Decentralized, Immutable, Unstoppable.
+>
+> - Ethereum Classic Website, 2016
 
-The onyl way to achieve this is to follow the original ethereum vision of unstoppabile - truly unstobble - applications that are reistant to censorship from any force.
+This series of buzzwords is actually a recipie for unlocking the value potential of blockchain technology; first you need decentralization, which enables immutability, and then you get unstoppability, which enables the [bright future](/why-classic/code-is-law) we discussed earlier.
 
-Today, even more so than 2015, it's increasingly obvious that Censorship is becoming the weapon of choice and will be weilded to protect a dying system
+## Quantifying Decentralization
 
-## Why is Decentralization Necesasry?
+Decentralization is a property that exists in many systems and in many forms throughout nature. It is not a binary property, but a spectrum, that ebbs and flows through time. It's difficult to articulate a hard and fast definition for it in all contexts, but it can be visually understood fairly intuitively.
 
-- Longevity
-- Protocol Neutrality
-- Short vs Long Term Time Preference
-- Centralization Gravity Well
-- Benefits of Centralization are obvious
-- Natural vs Artificial Contribution
-- Principles over Pragmatism? au contraire!
-- Competition for the Neutrality Niche
-- The Centralization Gravity Well
+-- image of decentralization --
 
-In the long run, only truly decentralized blockchains will survive.
+In the realm of blockchain projects, there are many ways of measuring decentralization, one rough quantification is "The number of people needed to be compromised in order to take over the system". That is to say, if an attacker wanted to take over a chain, a project that required 80% of participants to be compromised is _more decentralized_ than a project that only requried 10% to be compromised.
 
-Small infractions or exceptions are intolorable as they will accumulate over time until the system becomes captured
+Attackers that wish to "own" the system have a more difficult job the more decentralized a project is. To defend against take overs, projects need to maximize decentralization, which means minimizing the number of central points of failure.
 
-## What Happens if you don't have it?
+The most decentralized a project can be is _fully decentralized_; attackers must compromise _everyone_, and the system can continue to faithfully operate with only one honest actor. These kinds of systems are vanishingly rare and seldom useful; in practice, either a technological or social limiting factor stands in the way of the persuit of secure, decentralized, and scalable systems, so compromise must be made somewhere.
+
+## The Blockchain Trilemma
+
+> The underlying structure of decentralized networks comes with unique challenges as compared to centralized networks. As early as the 1980s, computer scientists developed what’s called the CAP theorem to articulate perhaps the most major of these challenges. According to the CAP theorem, decentralized data stores — of which blockchain is an iteration — can only provide two of three guarantees simultaneously: consistency, availability, and partition tolerance (CAP). In the context of modern distributed networks, this theorem has evolved into the blockchain trilemma. This is the popular belief that public blockchains must sacrifice either security, decentralization, or scalability in their infrastructure.
+>
+> - The Blockchain Trilemma, [Gemini.com](https://www.gemini.com/cryptopedia/blockchain-trilemma-decentralization-scalability-definition#section-what-is-the-blockchain-trilemma)
+
+TODO: image of trilemma
+
+CAP theorem, and _The Blockchain Trilemma_, means that all projects are forced to hedge their bets by 'mix-maxing' into certain classes with a scarse number of 'ability points'. Every project must place itself somewhere in the the space of these dimensions, sacrificing some for others. Much like a video game character, which attributes are selected will define much of a blockchain's character, abilitites and effectiveness in battle.
+
+TODO: maybe add another axis for 'financing'?
+
+TODO: leaving aside security as a given, blockchains then have a choice of scalability, and decentralization...
+
+As we will see, as far as the protocol's attributes and underlying philosophy go, Etheruem Classic has 'maxed-out' it's decentralization and security, intentionality sacrificing scalability so that these other "skills" can be strengthened. The basic theory is that for a blockchain protocol to scale it's base protocol, it _must_ make trade-offs in decentralization and security, which in the long run is bound to damage the utility and value of the protocol.
+
+Most blockchains today have abandoned the idea of decentralization maximalism in exchange for scalability and/or the benefits of coordinating from a central group. This may well be useful for short term bootstrapping as it allows the funding of extravegant development or marketing budgets, but unless the project tapers-off this centralized dependance, it is exposed to take-over through the capture of this relatively centralized controlling group.
+
+## Sovereign Grade Censorship Resistance
+
+One question that should be asked when evaluating different blockchain projects is "is it decentralized enough?". The answer to this is entirely dependent on the kinds of applications that are intended to run on a given chain, so this question can be reframed as "who would want to stop the applications on my chain from running, and can the chain resist their attempts at censorship?".
+
+For example, in the case of Bitcoin, it's main application is the coin itself; digital scarcity, and the ability to transfer it without censorship. It competes with many currencies and assets, including the US dollar, and therefore must be able to withstand attacks from very powerful entities to persist. It's [predecessors](#TODOs) were able to be shut down by because they had central points of failure; Bitcoin was designed specifically to circumvent this kind of censorship.
+
+In contrast, some blockchains require less censorship resistance, and only intend to, for example, enable the transfer of in-game assets, or have other uncontrovertial use cases. No powerful external forces really _want_ to stop these chains, so censorship resistance isn't a big deal; it may even be seen as a benefit if some central party can override the state of the chain in certain circumstances, so having the whole chain operated by a handful of Authorities (PoA) is acceptable for this use case. In these cases, where the use case is not important enough for well-funded organizations to want to shut them down, it might make sense to sacrifice dencetralization for scalability.
+
+Ethereum Classic, even back in 2015 when it was known as Etheruem, set out to acheive ambitions on a level at least as prone to censorship as Bitcoin.
+
+> Ethereum is a decentralized computing platform that executes smart contracts. Applications are ran exactly as programmed without the possibility of censorship, downtime, or third-party interference.
+>
+> - Etheruem.org, 2015
+
+Etheruem's Smart Contract Platform was designed to support not just Bitcoin's base currency use case, but _any_ kind of blockchain application, and because of this, it is highly likely that attempts at censorship will be made by incumbants are disrupted.
+
+To provide a solution on a global level that would potentially need to sustain attacks from other sovereign institutions such as nation states and multinationals, Ethereum, like Bitcoin, has to reach a level of decentralization that made it impossible for any of these groups censor it; _Sovereign Grade Censorship Resitance_ is required.
+
+An important threashold is reached with this level of uncensorability; as no other institution can censor the network, applications become significantly more useful, and they becomes trutless; they no longer rely on the permission of some big company or government to operate, and on these platforms, it is the _users_, rather than the _providers_ who get to decide what goes on.
+
+_Code is Law_ can only operate on a chain that has acheived _Sovereign Grade Censorship Resistance_, so that other entities cannot censor it's operation, and this in turn requires the chain to max-out it's decentralized attributes and constantly maintained them without compromise; it reuqires _Decentralization Maximalism_.
+
+## Centralization Failure States
+
+Today, even more so than when Etheruem was launched in 2015, it is increasingly obvious that censorship is becoming the weapon of choice of a dying system that is desperately attempting to cling on to relevance. As these old institutions become increasingly threatened by change, it seems likely that ever-more drastic measures will be taken in an attempt defend their position.
+
+As time goes on, the attacks against free, fair and open alternatives to the status quo will ramp up. The cryptocurrency ecosystem will enter a new phase, a highly antagonistic phase, where the uncensorability of blockchain technology will truly be put to the test, and the central points of failure in systems that have them will be sought out and exploited. For use cases that are not approved by incumbants, only the _Soverign Grade_ will survive.
+
+In the future, in order to maintain utility and value, blockchains must be able to resist a range of social, economic and technological attacks will be deployed against them. The list of attacks are ever growing and new forms of attack are likely to be conjured up, but a few of the more obvious potential failure states will be explored here.
+
+### The Ephemeral Foundation
+
+When the cash runs out, the development that was reliant on this will disappear, and unlike other chains that never had this artificial cash source, alternative funding models have evolved.
+
+### Meatspace Capture
 
 - Meatspace Capture
 - Reguatory Risk
 - Corporate Capture, Consensys, Metamask(?)
 - Kompromat
-- The Ephemeral Foundation
+
+### Consensus Failure
+
+PoW and Pos have their own approaches to ...
+
 - Parable of built house on Rock vs Sand
 - Proof of Stake chains are not serious about decentralization maximalism
 - Proof of Stake Security Trade-Off
@@ -49,21 +95,17 @@ Small infractions or exceptions are intolorable as they will accumulate over tim
   - No Dispute Resolution via Chain Split
   - Permissioned
 
-Matthew 7:24-27
-
-24 “Everyone then who hears these words of mine and does them will be like a wise man who built his house on the rock. 25 And the rain fell, and the floods came, and the winds blew and beat on that house, but it did not fall, because it had been founded on the rock. 26 And everyone who hears these words of mine and does not do them will be like a foolish man who built his house on the sand. 27 And the rain fell, and the floods came, and the winds blew and beat against that house, and it fell, and great was the fall of it.”
-
-As time goes on and the full scope of blockchain technology becomes apparent, incumbant institutions will do everything within their power to subvert and destroy the new systems that threatern to disintermediate them.
-
-Technological, Economic and Social attacks will be launched against the cryptocurrency space and will be effective against the majority of chains that have failed to anticipate this threat. Ironically, the very reason for blockchains existing is forgotten by the majority of them today, as they abandon the countermeasures that Satoshi Nakamoto handed down.
-
-Let's imagine that one day you happen to be in charge of .
-
-Ask yourself how you'd take down a chain like Ethereum.
-
-Here's a thought experiment. Imagine it's
-
 ## How do you maintain Decentralization?
+
+Why you can't have decentralization in half measures, and it must be maitnained ove rtime.
+
+In the long run, only truly decentralized blockchains will survive.
+
+Small infractions or exceptions are intolorable as they will accumulate over time until the system becomes captured
+
+General rule of thumb is decreased complexity is good.
+
+Single points of failure can exist in many areas and are often hidden.
 
 - Maintaining Code is Law is not easy
 - Requires decentralization maximalism
@@ -105,6 +147,16 @@ Ethereum Classic didn't just have a "fair distribution", it had an "ultrafair di
 Reasoning from first principles, we arrive at the conclusion that Ethereum Classic is currently humanity's best bet, the rest will succumb to outside pressure, which will exploit any points of centralization
 
 In the the not too distant future, the need for will be all too clear. As blockchain projects one by one reveal their true colors and succum to corruption in the form of capture by special interests, only the truly decentralized will remain.
+
+## A House Built on Sand
+
+--- image ---
+
+> Everyone then who hears these words of mine and does them will be like a wise man who built his house on the rock. And the rain fell, and the floods came, and the winds blew and beat on that house, but it did not fall, because it had been founded on the rock. And everyone who hears these words of mine and does not do them will be like a foolish man who built his house on the sand. And the rain fell, and the floods came, and the winds blew and beat against that house, and it fell, and great was the fall of it.
+>
+> - Matthew 7:24-27
+
+The house built on sand didn't need to take time to prepare it's foundation; instead, it built fast and big, using it's head start to construct a grand exterior. The house built on rock took it's time to drill down and anchor itself to strong foundations first, which took longer, so it was a modest but functional structure. But a storm is coming, and things are about to get very windy. So which house do you wish to take shelter in?
 
 ---
 
