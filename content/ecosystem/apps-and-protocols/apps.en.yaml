@@ -27,6 +27,12 @@ items:
   text: Swap, earn, and build on the leading decentralized crypto trading protocol in Ethereum Classic
   type: finance
 - 
+  key: Swap.Cat
+  name: SwapCat
+  link: https://swap.cat/
+  text: direct wallet2wallet otc fixed price token trading in Ethereum Classic
+  type: finance
+- 
   key: ETCBayc
   name: ETCBayc
   link: https://etcbayc.com/
