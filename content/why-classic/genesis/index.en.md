@@ -78,12 +78,6 @@ Officially, the Ethereum Foundation itself did not have any involvement with The
 
 ### The World's Biggest Crowdsale
 
-Historically Hard forks have been opt-in meaning that you had to explicitly show you support the hard fork by changing a setting. Instead here we had a different situation. The DAO bailout was the default option and if you were against it, you had to opt-out and run your client with the --oppose-dao-fork flag. You can imagine that many people simply didn’t care about changing it.
-
-12 hour notice means half of the world was sleeping or working.
-Less than 6% Ether holders voted
-One single address voted with so much Ether that it amounted to 25% of all votes - remember, there was a 72 million premine
-
 At the time, many saw The DAO as a "no risk" investment, as not only did it have trustworthy curators, but investors would be able to withdraw their funds from The DAO in future via a "split" mechanism; this further incentivised contributions as investors could "opt-out" later, but only had one chance to "opt-in" during the initial crowdsale.
 
 Slock.it launched The DAO crowdsale in April 2016, and the ETH began to roll in. But soon there were signs that something wasn't quite right. During the crowdsale, [slock.it announced a security proposal](https://medium.com/ursium-blog/dao-security-a-proposal-to-guarantee-the-integrity-of-the-dao-3473899ace9d), a curator [called for a moratorium](https://hackingdistributed.com/2016/05/27/dao-call-for-moratorium/), and another prominent curator [gave a warning and stepped down](https://gavofyork.medium.com/why-ive-resigned-as-a-curator-of-the-dao-238528fbd447).
@@ -197,6 +191,10 @@ One problem with implementing the Hard Fork was that if many users needed to "op
 In a veiled attempt to maintain some level of neutrality, the decision of which default to use for geth [was made](https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork/) was based on the outcome of a "coin vote".
 
 Coin votes, where 1 ETH = 1 vote, are notoriously bad tools to reflect the opinions of a community, especially where those voting are financially incentivsed. If one whale has 90,000 ETH, and 10,000 dedicated community members only have 8 ETH each on average, the whale can gauruntee a win and dictate what the consensus of "the Ethereum community" is. Smaller position voters also have less incentive to participate as they have individually less sway and they collectively requrie a far higher level coordination, effort and gas fees to participate. On top of this, this coin vote had no minimum quorum (only 6% of Ether voted), and most shockingly, it was announced and concluded within 12 hours, giving very little time to coordinate any reponse from anti-forkers, making it impossible get input from half the world that was asleep.
+
+Less than 6% Ether holders voted
+12 hour notice means half of the world was sleeping or working.
+One single address voted with so much Ether that it amounted to 25% of all votes - remember, there was a 72 million premine
 
 Predictably, the results were heavily skewed by a handful of whales who may or may not have had foreknowledge of the announcement. The important decision of which chain for geth to default to was then claimed to be made "by the community" and was later used to justify Ethereum Foundation's support of the forked chain over ETC.
 

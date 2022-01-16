@@ -1,9 +1,10 @@
 ---
 title: Decentralization
 updated: 2021-11-30
+disclaimer: opinion
 ---
 
-Since the stormy days of The DAO Fork, Ethereum Classic has persisted and it's community has coaleased around a number ideas, the most fundamental but difficult to pin down of which is that of decentralization. This document will attempt to lay out the case for decentralization; the what, why, and how of this illusive but vital ingreedient.
+Since the stormy days of The DAO Fork, Ethereum Classic has persisted and it's community has coaleased around a number ideas, with the most fundamental but difficult to pin down being _decentralization_. This piece will attempt to lay out the case for decentralization; the what, why, and how of this illusive but vital ingreedient that is the key to human flourishing.
 
 > Decentralized, Immutable, Unstoppable.
 >
@@ -17,9 +18,9 @@ Decentralization is a property that exists in many systems and in many forms thr
 
 -- image of decentralization --
 
-In the realm of blockchain projects, there are many ways of measuring decentralization, with one rough quantification being "The ratio of people needed to be compromised in order to take over the system". That is to say, if an attacker wanted to take over or censor a chain, a project that required 80% of participants to be compromised is _more decentralized_ than a project that only requried 10% to be compromised.
+In the realm of blockchain projects, there are many ways of measuring decentralization, with one rough quantification being "The ratio of people needed to be compromised in order to take over the system". That is to say, if an attacker wanted to control or censor a chain, a project that required them to compromise 80% of participants is _more decentralized_ than a project that only requried 10% to be compromised.
 
-Attackers that wish to "own" the system have a more difficult job the more decentralized a project is. To defend against take-overs, projects need to reach a sufficient level of decentralization, which means minimizing the number of central points of failure and bottlenecks.
+Attackers that wish to "own" the system have a more difficult job the more decentralized a project is. To defend against take-overs, projects need to reach a sufficient level of decentralization, which means minimizing the number of central points of failure and bottlenecks, which can exist in many different places in the system.
 
 The most decentralized a project can be is _fully decentralized_; attackers must compromise _everyone_, and the system can continue to faithfully operate with only one honest actor. These kinds of systems are vanishingly rare and seldom practical; in practice, either a technological or social limiting factor stands in the way of the persuit of secure, decentralized, and scalable systems, so compromise must be made somewhere.
 
@@ -71,30 +72,37 @@ _Code is Law_ can only operate on a chain that has acheived _Sovereign Grade Cen
 
 Today, even more so than when Etheruem was launched in 2015, it is increasingly obvious that censorship is becoming the weapon of choice of a dying system that is desperately attempting to cling on to relevance. As these old institutions become increasingly threatened by change, it seems likely that ever-more drastic measures will be taken in an attempt defend their position.
 
-As time goes on, the attacks against free, fair and open alternatives to the status quo will ramp up. The cryptocurrency ecosystem will enter a new phase, a highly antagonistic phase, where the uncensorability of blockchain technology will truly be put to the test, and the central points of failure in systems that have them will be sought out and exploited. For use cases that are not approved by incumbants, only the _Soverign Grade_ will survive.
+Before blockchain technology entered the scene, these institutions had reality pretty much on lockdown as society was reliant on centralized control points that could be exploited. With cryptography, though, and just in the Nick of time, Satoshi graced us with the answer to this reliance, which has turned the tables on the existing [logic of violence](https://cryptonews.net/en/news/bitcoin/2927549/), and provided humanity with an alternative emergent order.
 
-In the future, in order to maintain utility and value, blockchains must be able to resist a range of social, economic and technological attacks will be deployed against them. The list of attacks are ever growing and new forms of attack are likely to be conjured up, but a few of the more obvious potential failure states will be explored here.
+As time goes on, the attacks against free, fair and open alternatives to the status quo will ramp up. The cryptocurrency ecosystem will enter a new phase, a highly antagonistic phase, where the uncensorability of blockchain technology will truly be put to the test, and the central points of failure in cryptocurrency systems that have them will be sought out and exploited. For use cases that are not approved by incumbants, only the _Soverign Grade_ will survive.
+
+In the future, in order to maintain utility and value, blockchains must be able to resist a range of social, economic and technological attacks will be deployed against them. The list of attacks are ever growing and new forms of attack are likely to be conjured up, but a few of the more obvious potential failure states will be explored below.
 
 ### The Ephemeral Foundation
 
-Th number one cause of death for blockchain projects is.
+Historically, the number one cause of death for blockchains is when the teams responsible for maintaining it no longer operate. Simply put, if a project depends on a central organizing comittee or developer team, it will only last as long as this organization exists.
 
-Simply, if a project depends on a central organizing comittee and that comitte runs out of funds or otherwise deserts the project, it becomes unmaintained and
+Organizations can cease to operate for many reasons; be it a simple rugpull, running out of funds, getting hacked, getting hammered by regulators, traffic accidents, or any other number of reasons, these factors are often outside the control of this team, so it is down to luck or the approval of regualtors as to whether or not a project can survive.
 
-Blockchain is a unqiue technology because this coordination problem can be solved through the _Buy and Contribute_ strategy, which incentivises contributions without a central Aritifical source of funding for the project. The overreliance on artificial funding is difficult to detect... blah blah.
+In many cases, the existance of a Foundation disincentivises other teams from contributing to the protocol on a level playing field. Third parties will always be second class citizens compared to this central organizing comitte, who are calling the shots and disproportionately benefitting from price action, which further solidifies reliance on the Foundation to maintain and direct the project, and at the very least prevents a natural organization heirarchy from emerging.
 
-When the cash runs out, the development that was reliant on this will disappear, and unlike other chains that never had this artificial cash source, alternative funding models have evolved.
-
-More importantly, what drives deicion making on this new orphaned project? Without a set of guiding principles to follow, it will surely devlolve into a kleptocratic race to the bottom to pillage the corpse of whatever value remains.
+This reliance on a central team may provide direction and big budgets in the short term, but it burdons the protocol with a kind of "centralization debt" that is difficult to pay off. Eventually, like all organizations, the central team will cease to operate, and the project is likely to become either abandoned or maladapted to life without this group.
 
 ### Meatspace Capture
 
-A centralizing organizing comittee presents other potential failure states that are more insidious than simple lack of maintenance.
+For high value projects that have an overreliance on centralized teams, as time goes on, a fate far more insidious than mere abandonment becomes increasingly likely. Like clockwork, as with all top down centralized institutions, they become captured by special interests through various manipulative techniques.
 
-- Meatspace Capture
-- Reguatory Risk
-- Corporate Capture, Consensys, Metamask(?)
-- Kompromat
+If a powerful institution feels threaterened by a new technology, rather than trying to stamp it out, which may be impossible, it is far more effective to simply compromise and disrupt it's operation by influencing the direction of development in a way that does not fundamentally upset the status quo.
+
+This can be acheived by turning influencers and the leadership of an organization into puppets, who's strings are pulled through a variety of carrots and sticks. Humans are fallable and are suceptible to all degrees of manipulation and blackmail; peer pressure, politics, kickbacks, bribes, psyops, honey traps, kompromat, phyiscal threats, imprisonment, or worse.
+
+With enough key targets under the thumb of an attacker, they are then able to control the future of a chain through their authority, making subtle incremental changes that further increase their grip and control over decision making.
+
+One of the most problematic elements of this type of failure state is that it can be done in a way that is totally undetectable; it may be that the level to which a central team is compromised is unkown, and it only becomes obvious that the chain is captured when it is too late.
+
+Even if a centralized team is not fully compromised, the very potential of this compromise can sow distrust and uneasiness; conspiracy theories and the questioning of decision making may undermine a project's leadership and stability if they appear not to be driven by merit alone, and simple divide and conquer tactics deployed against the organizing comittee may be enough to paralyze the chain.
+
+This failure state shows there is an inherant contradiction within any blockchain project that relies on a central organizing comittees, as it necessatates that these supposedly decentralized projects are in fact depending on a central group that can and will be bent to the will of anyone who feels like the cost of doing so is worth it.
 
 ### Compromised Consensus
 
@@ -103,13 +111,22 @@ PoW and Pos have their own approaches to ...
 - Parable of built house on Rock vs Sand
 - Proof of Stake chains are not serious about decentralization maximalism
 - Proof of Stake Security Trade-Off
+
   - https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/
   - Rich get richer
   - Nothing at Stake
   - No Dispute Resolution via Chain Split
   - Permissioned
 
+- Becuase the default rules of a hard fork are to "Do nothing", this means the defending side of a fork in Proof of Stake requries to do a hardfork to avoid being slashed on the new chain, whereas the new chain can enjoy either slashing or no-slashing options. The major dispute resolution mechanism
+
 ## Classic Problems Require Classic Solutions
+
+Corruption is a problem as old as civilisation, and whilst it may not yet be immediately obvious to have appeared in the blockchain space, as the technology becomes more influenctial, it will eventually arrive and consume those projects that are suseptible.
+
+Luckily, we must look at our history to overcome; rather than relying on authorities and dictacts, individuals can reason from first principles.
+
+Luckily, a solution to all these problems exists in the form of _Decentralization Maximalism_, an approach that ensures that the technical and social aspects of a blockchain projects are not suceptible to single points of failure. By going "back to the roots" of Blockchain technology, we can see the wisdom made in the designs choices of Bitcoin, and apply this logic ...
 
 Why you can't have decentralization in half measures, and it must be maitnained ove rtime.
 
@@ -127,12 +144,33 @@ Principles first appraoch goes a long way to ensuring that a project can maintai
 
 Maintaining Code is Law is not easy...
 
+### Protocol Neutrality & Natural Contribution
+
+Rather than a Foundation consisting of people, some projects have a foundation that is rooted in philosophy; immportal principles rather than temporal bags of flesh. A foundation of ideas rather than people means that for time immemorial _any_ group or individual can fill any role they like, and can so without permission or being directed by any central authority.
+
+For these types of projects, instead of relying on artificial cash injections that are finite and handed out from the top, contributions are financied naturally by a _Buy and Contribute_ strategy. The
+
+Projects that have an overreliance on a central foundation are seldom able to free themselves of this reliance, and do not evolve to be sustainable becauses they are not perceived to be neutral.
+
+- Neturality Niche
+- Evolves naturally sustainable development incentives based on meritocracy
+
+- If a foundation runs out of money, is hacked, or simply disappear, an over-reliance on this source of founds will prove to be a hinderance .
+
+Blockchain is a unqiue technology because this coordination problem can be solved through the _Buy and Contribute_ strategy, which incentivises contributions without a central Aritifical source of funding for the project. The overreliance on artificial funding is difficult to detect... blah blah.
+
+When the cash runs out, the development that was reliant on this will disappear, and unlike other chains that never had this artificial cash source, alternative funding models have evolved.
+
+More importantly, what drives deicion making on this new orphaned project? Without a set of guiding principles to follow, it will surely devlolve into a kleptocratic race to the bottom to pillage the corpse of whatever value remains.
+
 ### Decentralization Maximalism
 
 - Pillars of decentralization
 - All layers are decentralized
 - Minimize or remove single points of failure
 - The Centralization Gravity Well
+- Toxicity as a immune response (vs sowing division)
+- meatspace capture immunity
 
 The fight for Code is Law, upheld by decentralization, is not over - it never will be over - as these values must be continually spread, nurtured, evolved and reinforced.
 
@@ -144,12 +182,16 @@ The fight for Code is Law, upheld by decentralization, is not over - it never wi
 - BTC: Fundamentals of Decentralization and Sound Money
 - ETC possibly embodies the principles of bitcoin in a more explicit way
 
-### Decentralization Maximalism
+### No Official Anything
 
-- Small Blocks
 - ETC has no satsohi
 - Bottom up organization; no central planners
   Just like Bitcoin, the only real way to get around this problem is to have no no leaders.
+
+### Secure Base Layer
+
+- Small Blocks
+- No Sharding
 
 ### Sound Money
 
