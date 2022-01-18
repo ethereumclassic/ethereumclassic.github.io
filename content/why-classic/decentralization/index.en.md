@@ -4,13 +4,15 @@ updated: 2021-11-30
 disclaimer: opinion
 ---
 
-Since the stormy days of The DAO Fork, Ethereum Classic has persisted and it's community has coaleased around a number ideas, with the most fundamental but difficult to pin down being _decentralization_. This piece will attempt to lay out the case for decentralization; the what, why, and how of this illusive but vital ingreedient that is the key to human flourishing.
+Since the stormy days of The DAO Fork, Ethereum Classic has persisted and it's community has coaleased around a number ideas, with the most fundamental but difficult to pin down being _decentralization_.
 
 > Decentralized, Immutable, Unstoppable.
 >
 > - Ethereum Classic Website, 2016
 
 This series of buzzwords is actually a recipie for unlocking the value potential of blockchain technology; first you need decentralization, which enables immutability, which in turn enables unstoppability, making possible the [bright future](/why-classic/code-is-law) we discussed earlier.
+
+This section will attempt to lay out the case for decentralization; the what, why, and how of an illusive but vital ingreedient that is the key to reaching the next level of civilization.
 
 ## Quantifying Decentralization
 
@@ -106,25 +108,47 @@ This failure state shows there is an inherant contradiction within any blockchai
 
 ### Compromised Consensus
 
-PoW and Pos have their own approaches to ...
+A blockchain's consensus mechanism is it's engine; it is the most critical piece of infrastrucutre, from which all security, value and ultility depends on. Like an engine, if it stops working properly, all other systems that rely on it functioning become useless.
 
-- Parable of built house on Rock vs Sand
-- Proof of Stake chains are not serious about decentralization maximalism
-- Proof of Stake Security Trade-Off
+As with autombile engines, different types of consensus mechanisms are available to blockchain architects when designing a protocol, and the choice of which to use reveals much about which attributes in the _Blockchain Trilemma_ tradeoff are considered a priority. As a chain's consensus mechanism is so important, for _Sovereign Grade_ systems, is the very last thing that should be on the chopping board when it comes to design constraints and security trade-offs.
 
+The first blockchain, Bitcoin, uses Proof of Work; a relatively simple, tried and true type of consensus mechanism that essentially converts electricity into security. Proof of Work is both empirically and theoretically secure from an economic game theory perspective, and even in the face of disruption from nation states, history has shown that it stands strong.
+
+An alternative to Proof of Work that became popular is Proof of Stake, which much like a fad, became a "must have" for many new blockchain projects launching after 2015. The primary justification for PoS is environmentalism; it was hoped that it would be able to provide the same or better security guaruntees than PoW without consuming massive amounts of energy.
+
+Indeed, when Proof of Stake systems were just starting to have serious value plowed into them, it may have been reasonable to experiment in the hope that these security guaruntees could be reached, but by now, the results are in; PoS cannot come close to matching the level of security provided by PoW systems.
+
+_why is this the case?_
+
+Even if we take the argument for Proof of Stake at face value, we can see that PoS blockchains sacrifice the security guaruntees of their most critical piece of infrastructure in exchange for external concerns - environmentalism - that in return provides no direct value to the chain in other areas, other than perhaps in perceived ".
+
+However, it is when we do _not_ take the claim at face value that the choice to use PoS makes a whole lot more sense. The _real_ reason PoS is popular is that early token holders can get rich without having to lift a finger.
+
+_re-use your towels analogy_
+
+In light of this critical importance, One choice of engine is that of Proof of Stake.
+
+In Proof of Stake systems, though, the experiment is over.
+
+A less battle tested, less , defying the laws of physica based on internal security.
+
+- If PoS are being honest they would admit there are security trade-offs
+- The benefit of PoS is primarily for "Green Energy"
+- This is a bullshit reason, the real reason is that devs get rich
+- There are pleanty of reasons why PoS is shit; list a few, Rich get richer, Nothing at Stake, Permissioned, link to endthefud.com/pow
   - https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/
-  - Rich get richer
-  - Nothing at Stake
-  - No Dispute Resolution via Chain Split
-  - Permissioned
+- One reason, which is relevent to ETC, is lack of chain splits
+- Anyone supporting Proof of Stake is not serious about Sovereign Grade decentralization
 
 - Becuase the default rules of a hard fork are to "Do nothing", this means the defending side of a fork in Proof of Stake requries to do a hardfork to avoid being slashed on the new chain, whereas the new chain can enjoy either slashing or no-slashing options. The major dispute resolution mechanism
 
 ## Classic Problems Require Classic Solutions
 
-Corruption is a problem as old as civilisation, and whilst it may not yet be immediately obvious to have appeared in the blockchain space, as the technology becomes more influenctial, it will eventually arrive and consume those projects that are suseptible.
+Corruption is a problem as old as civilisation, and whilst it may not yet be immediately obvious to have appeared in the blockchain space, as the technology becomes more influential, dark forces will eventually arrive and consume those projects that are suseptible.
 
-Luckily, we must look at our history to overcome; rather than relying on authorities and dictacts, individuals can reason from first principles.
+- We can avoid a dark ages if we take lessons from history, and use ETC
+
+Luckily we have a window of opporunity to overcome ; rather than relying on authorities and dictacts, individuals can reason from first principles.
 
 Luckily, a solution to all these problems exists in the form of _Decentralization Maximalism_, an approach that ensures that the technical and social aspects of a blockchain projects are not suceptible to single points of failure. By going "back to the roots" of Blockchain technology, we can see the wisdom made in the designs choices of Bitcoin, and apply this logic ...
 
@@ -139,6 +163,10 @@ General rule of thumb is decreased complexity is good.
 Single points of failure can exist in many areas and are often hidden.
 
 ### A Different Kind Of Foundation
+
+Basically, principles first.
+
+Pragmatism is downstream of principles they enable survivability, and over time talent will be attracted to good principles.
 
 Principles first appraoch goes a long way to ensuring that a project can maintain it's course for many generations to come, as it is guided not by the interests of a group but...
 
