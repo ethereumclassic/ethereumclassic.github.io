@@ -106,7 +106,7 @@ Even if a centralized team is not fully compromised, the very potential of this 
 
 This failure state shows there is an inherant contradiction within any blockchain project that relies on a central organizing comittees, as it necessatates that these supposedly decentralized projects are in fact depending on a central group that can and will be bent to the will of anyone who feels like the cost of doing so is worth it.
 
-### Compromised Consensus
+### Proof of Stake: Compromised Consensus
 
 A blockchain's consensus mechanism is it's engine; it is the most critical piece of infrastrucutre, from which all security, value and ultility depends on. Like an engine, if it stops working properly, all other systems that rely on it functioning become useless.
 
@@ -114,63 +114,89 @@ As with autombile engines, different types of consensus mechanisms are available
 
 The first blockchain, Bitcoin, uses Proof of Work; a relatively simple, tried and true type of consensus mechanism that essentially converts electricity into security. Proof of Work is both empirically and theoretically secure from an economic game theory perspective, and even in the face of disruption from nation states, history has shown that it stands strong.
 
-An alternative to Proof of Work that became popular is Proof of Stake, which much like a fad, became a "must have" for many new blockchain projects launching after 2015. The primary justification for PoS is environmentalism; it was hoped that it would be able to provide the same or better security guaruntees than PoW without consuming massive amounts of energy.
+An alternative to Proof of Work that became popular is Proof of Stake, which much like a fad, became a "must have" for many new blockchain projects launching after 2015. The primary justification for PoS is environmentalism; it was hoped that it would be able to provide the same or better security guaruntees than PoW without consuming large amounts of energy.
 
-Indeed, when Proof of Stake systems were just starting to have serious value plowed into them, it may have been reasonable to experiment in the hope that these security guaruntees could be reached, but by now, the results are in; PoS cannot come close to matching the level of security provided by PoW systems.
+But there is no such thing as a free lunch, and after many years of theorizing and real life experimenting with Proof of Stake systems, the results are in; PoS on a fundamental level cannot come close to matching the security guauntees provided by PoW.
 
-_why is this the case?_
+The issues with Proof of Stake are too numerous to dive into detail here, and a seperate article [debunking Proof of Stake](#TODO) is available, but some of the more egregious problems include:
 
-Even if we take the argument for Proof of Stake at face value, we can see that PoS blockchains sacrifice the security guaruntees of their most critical piece of infrastructure in exchange for external concerns - environmentalism - that in return provides no direct value to the chain in other areas, other than perhaps in perceived ".
-
-However, it is when we do _not_ take the claim at face value that the choice to use PoS makes a whole lot more sense. The _real_ reason PoS is popular is that early token holders can get rich without having to lift a finger.
-
-_re-use your towels analogy_
-
-In light of this critical importance, One choice of engine is that of Proof of Stake.
-
-In Proof of Stake systems, though, the experiment is over.
-
-A less battle tested, less , defying the laws of physica based on internal security.
-
-- If PoS are being honest they would admit there are security trade-offs
-- The benefit of PoS is primarily for "Green Energy"
-- This is a bullshit reason, the real reason is that devs get rich
-- There are pleanty of reasons why PoS is shit; list a few, Rich get richer, Nothing at Stake, Permissioned, link to endthefud.com/pow
-  - https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/
-- One reason, which is relevent to ETC, is lack of chain splits
-- Anyone supporting Proof of Stake is not serious about Sovereign Grade decentralization
-
+- TODO move this into it's own article.
+- Nothing at Stake
+- Permissioned
+- Rich Get richer
+- Race to the bottom inflation (capital liquid compared to hardware)
+- etc
+- No dispute resolution mechanism
+- todo.
 - Becuase the default rules of a hard fork are to "Do nothing", this means the defending side of a fork in Proof of Stake requries to do a hardfork to avoid being slashed on the new chain, whereas the new chain can enjoy either slashing or no-slashing options. The major dispute resolution mechanism
+
+Even if the environmentalist argument for Proof of Stake is takens at face value, it is clear that PoS requires chains to sacrifice some of the security guaruntees provided by PoW. In other words, Proof of Stake chains trade away censorship resistence in return for the promise of less carbon emissions. TODO: phrase this nicely; This is bad because it is not the responsibility of a chain to look after the environment.
+
+But it is when the the environmentalist claim is _not_ taken at face value that the choice to use PoS makes a lot more sense. Much like a hotel that requests guests to re-use towels to "save the planet", the PoS environmentalist position is conveniently one that also enriches holders of Proof of Stake currencies, who are able to, without much effort, generate passive income by staking. It is this cynical take that explains why despite the security downgrade, it is no wonder that PoS became such a popular choice.
+
+Because of the inherant trade-offs with Proof of Stake systems, it is clear that _Soveriegn Grade Censorship Resistance_ is not a priority on these chains, and as such, they cannot be recommended for deployments that have the potential to be disrupt powerful incumbant institutions.
+
+### "Ultrasound" Money
+
+In an orwellean attempt to flip the script of otherwise well-defined and fair.
+
+- Unknown future supplies create unkown.
+- In a world of competing
+- Centralization into the hands of the
 
 ## Classic Problems Require Classic Solutions
 
-Corruption is a problem as old as civilisation, and whilst it may not yet be immediately obvious to have appeared in the blockchain space, as the technology becomes more influential, dark forces will eventually arrive and consume those projects that are suseptible.
+Corruption is a problem as old as civilisation, and whilst it might not have obviously reared it's ugly head in the blockchain space, as the technology becomes more influential, it will attract forces that wish to bridle it's power and shape it towards a future where, far from liberating humanity, it becomes a tool for optimizing enslavement.
 
-- We can avoid a dark ages if we take lessons from history, and use ETC
+As blockchain technology becomes increasingly pervasive, society must be prepared to answer the some difficult questions.
 
-Luckily we have a window of opporunity to overcome ; rather than relying on authorities and dictacts, individuals can reason from first principles.
+Should the rules of the game apply to all participients equally, or, much like The DAO Fork, should they apply to everyone except for a handful of special interests? Should we allow blockchain to be added to the list of captured technologies, where the fruits of potential are kept away from the public, innovation is hampered, and rather than having power distributed to the hands of individuals, it is concentrated even further to a small group that can manipulate the system?
 
-Luckily, a solution to all these problems exists in the form of _Decentralization Maximalism_, an approach that ensures that the technical and social aspects of a blockchain projects are not suceptible to single points of failure. By going "back to the roots" of Blockchain technology, we can see the wisdom made in the designs choices of Bitcoin, and apply this logic ...
+If not, if we want to prevent this powerful and promising new tech from being gagged, bagged and tied to the radiator, if we want to avoid another dark age, the answer is _Decentralization Maximalism_; the answer is _Ethereum Classic_.
 
-Why you can't have decentralization in half measures, and it must be maitnained ove rtime.
+Luckily we have a window of opporunity to counter the inevitable future attempts to capture blockchain technology, but it will not happen without a fight. By relying on lessons from the past rather than authorities and dictacts, whilst it is still voluntary, individuals can collectively decide which future comes to fruition, provided they reason from first principles.
 
-In the long run, only truly decentralized blockchains will survive.
-
-Small infractions or exceptions are intolorable as they will accumulate over time until the system becomes captured
-
-General rule of thumb is decreased complexity is good.
-
-Single points of failure can exist in many areas and are often hidden.
+By going "back to the roots" of not just blockchain technology, but the foundations of reason itself, we can see the wisdom made in the designs decisions behind Bitcoin, and apply this logic to technological advancements including Ethereum.
 
 ### A Different Kind Of Foundation
 
-Basically, principles first.
+History has shown that whilst institutions and the humans that make them are fallible, fickle and fragile, ideas are bulletproof. It it self-evident that a technology as important and influential as blockchain must be built upon something more than just people; it must be backed by a well developed philosophy to guide the actions of otherwise [capturable](#meatspace-capture) bags of meat.
 
-Pragmatism is downstream of principles they enable survivability, and over time talent will be attracted to good principles.
+Good ideas stand on their own and are true regardless of who proclaims them, which makes them perfect for constructing a harness to restrain and protect the future of blockchain technology.
 
-Principles first appraoch goes a long way to ensuring that a project can maintain it's course for many generations to come, as it is guided not by the interests of a group but...
+That is why Etheruem Classic's Foundation is not a group, it is it's core principles. Ethereum Classic's Foundation is what Ethereum claimed it's foundation was, up until the DAO Fork: "Build Unstoppable Applications".
 
-Maintaining Code is Law is not easy...
+With great power comes great responsibility, and just like a doctor prescribing medicine, who has sworn an oath to "do no harm", the developers and users of blockchain technology have a responsibility to properly understand the problem that blockchains solve, why they exist, and what can go wrong if they get complacent and allow this power to be abused.
+
+Basically, principles first. Pragmatism is downstream of principles they enable survivability, and over time talent will be attracted to good principles. Principles first appraoch goes a long way to ensuring that a project can maintain it's course for many generations to come, as it is guided not by the interests of a group but...
+
+### Escaping The Gravity Well of Centralization
+
+Centralization is like gravity, it is a force constantly tugging and. If we just "let it rip", the universe would be an amorphous ultradense block of everything - how boring.
+
+Anti-entropic forces have the ability to create over and above this dumb pull towards the center by implementing procedures and systems that keep structures taught and stable.
+
+Incentive structures, like bamboo holding up a tent, have the ability, if placed correctly, to overcome the force of gravity, and in the case of bllockchain these pieces of bamboo can be cleverly placed to create much more elaborate an exciting structures that would otherwise collapse inwards.
+
+When a project attempts to construct a tent with just two of the three key elements, it might hold up for a while, but even the mildest breeze from external forces threatern to cause the house of cards to tumble.
+
+The Tripod of Developers, Miners and Holders keeps things in check, and they prop each other up in cincentive structures to ensure the whole system is far more rigid and _secure_.
+
+Why you can't have decentralization in half measures, and it must be built to last over rtime. The mistake of proof of stake systems is that they have, on paper, a system that can last a lifetime,
+
+_image of someone about to place final card on house of cards and it falls_
+
+So how do you dedign a blockchain that is able to withstand the forces of cetnralization?
+
+- Pillars of decentralization
+- All layers must be decentralized
+- Minimize or remove single points of failure
+- Toxicity as a immune response (vs sowing division)
+- meatspace capture immunity
+- Eternal vigilance; Systems naturally tend towardss centralization so there must be some counter force always preventing this from happening to keep the system secure. In the long run, only truly decentralized blockchains will survive.
+- Even the smallest of infraction or exceptions are intolorable as they will accumulate over time until the system becomes captured; it is about trajectory not absolute position.
+- General rule of thumb is decreased complexity is good.
+- Single points of failure can exist in many areas and are often hidden.
 
 ### Protocol Neutrality & Natural Contribution
 
@@ -190,17 +216,6 @@ Blockchain is a unqiue technology because this coordination problem can be solve
 When the cash runs out, the development that was reliant on this will disappear, and unlike other chains that never had this artificial cash source, alternative funding models have evolved.
 
 More importantly, what drives deicion making on this new orphaned project? Without a set of guiding principles to follow, it will surely devlolve into a kleptocratic race to the bottom to pillage the corpse of whatever value remains.
-
-### Decentralization Maximalism
-
-- Pillars of decentralization
-- All layers are decentralized
-- Minimize or remove single points of failure
-- The Centralization Gravity Well
-- Toxicity as a immune response (vs sowing division)
-- meatspace capture immunity
-
-The fight for Code is Law, upheld by decentralization, is not over - it never will be over - as these values must be continually spread, nurtured, evolved and reinforced.
 
 ## BTC + ETH = ETC
 
