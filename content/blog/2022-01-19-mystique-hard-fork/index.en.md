@@ -2,7 +2,7 @@
 ---
 title: Mystique Hard Fork on ETC block 14,525,000 (~Feb 13th 2022)
 date: 2022-01-19
-author: Istora
+author: Stev
 tags: ["announcement", "development", "teams", "hardfork", "education"]
 ---
 
