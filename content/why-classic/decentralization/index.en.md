@@ -136,7 +136,17 @@ But it is when the the environmentalist claim is _not_ taken at face value that 
 
 Because of the inherant trade-offs with Proof of Stake systems, it is clear that _Soveriegn Grade Censorship Resistance_ is not a priority on these chains, and as such, they cannot be recommended for deployments that have the potential to be disrupt powerful incumbant institutions.
 
-### "Ultrasound" Money
+### Funny Money
+
+One "feature" centralized systems beware of is the devaluing of holding via inflation.
+
+The soundness of money,
+
+> Yeah, your boring old car might be safe, but check out this bad boy over here; we removed the breaks, and now it's ultrasafe.
+>
+> - Advocates of Ultrasound Money
+
+The redistribution of funds via infaltion or currency debasement is one of the oldest tricks in the book for meddling central planners with misplaced authority.
 
 In an orwellean attempt to flip the script of otherwise well-defined and fair.
 
@@ -148,35 +158,31 @@ In an orwellean attempt to flip the script of otherwise well-defined and fair.
 
 Corruption is a problem as old as civilisation, and whilst it might not have obviously reared it's ugly head in the blockchain space, as the technology becomes more influential, it will attract forces that wish to bridle it's power and shape it towards a future where, far from liberating humanity, it becomes a tool for optimizing enslavement.
 
-As blockchain technology becomes increasingly pervasive, society must be prepared to answer the some difficult questions.
+Luckily a window of opporunity exists to counter the inevitable ongoing attempts to capture blockchais; for now, projects that strive for _decentrlization maxlimalism_ still exist and are available to those who wish to use them.
 
-Should the rules of the game apply to all participients equally, or, much like The DAO Fork, should they apply to everyone except for a handful of special interests? Should we allow blockchain to be added to the list of captured technologies, where the fruits of potential are kept away from the public, innovation is hampered, and rather than having power distributed to the hands of individuals, it is concentrated even further to a small group that can manipulate the system?
-
-If not, if we want to prevent this powerful and promising new tech from being gagged, bagged and tied to the radiator, if we want to avoid another dark age, the answer is _Decentralization Maximalism_; the answer is _Ethereum Classic_.
-
-Luckily we have a window of opporunity to counter the inevitable future attempts to capture blockchain technology, but it will not happen without a fight. By relying on lessons from the past rather than authorities and dictacts, whilst it is still voluntary, individuals can collectively decide which future comes to fruition, provided they reason from first principles.
-
-By going "back to the roots" of not just blockchain technology, but the foundations of reason itself, we can see the wisdom made in the designs decisions behind Bitcoin, and apply this logic to technological advancements including Ethereum.
+While it's still voluntary, rather than relying on authority figures or marketing campaigns, individuals can reason from first principles and reflect on lessons from the past to reach their own conclusions about which blockchains are likely to provide long term value and are worth interacting with. By going "back to the roots" of not just blockchain technology, but Austrian economic theory and ultimately the primatives of reason itself, the wisdom in the designs decisions behind Bitcoin become clear, and this logic can be reappllied to other technological advancements in the space, including Ethereum.
 
 ### A Different Kind Of Foundation
 
 History has shown that whilst institutions and the humans that make them are fallible, fickle and fragile, ideas are bulletproof. It it self-evident that a technology as important and influential as blockchain must be built upon something more than just people; it must be backed by a well developed philosophy to guide the actions of otherwise [capturable](#meatspace-capture) bags of meat.
 
-Good ideas stand on their own and are true regardless of who proclaims them, which makes them perfect for constructing a harness to restrain and protect the future of blockchain technology.
+Good ideas stand on their own, can be debated in public, and are true regardless of who proclaims them, which makes them perfect for constructing a harness to restrain and protect the future of a blockchain project. That is why Etheruem Classic's Foundation is not a group, but it's core principles, which come first and inform decision making.
 
-That is why Etheruem Classic's Foundation is not a group, it is it's core principles. Ethereum Classic's Foundation is what Ethereum claimed it's foundation was, up until the DAO Fork: "Build Unstoppable Applications".
+Pragmatism is downstream of maintaining and adhering to good principles, as they are what enable both practical survivability and act as a form of advertising that attracts quality contributors. The _principles first_ appraoch goes a long way to ensuring that a project can maintain it's course for many generations to come, as it is guided not by the ever-changing interests of a central group, but by external philosophical reference points that, even with high a turnover, can be argued in public to direct the future of the project.
 
-With great power comes great responsibility, and just like a doctor prescribing medicine, who has sworn an oath to "do no harm", the developers and users of blockchain technology have a responsibility to properly understand the problem that blockchains solve, why they exist, and what can go wrong if they get complacent and allow this power to be abused.
-
-Basically, principles first. Pragmatism is downstream of principles they enable survivability, and over time talent will be attracted to good principles. Principles first appraoch goes a long way to ensuring that a project can maintain it's course for many generations to come, as it is guided not by the interests of a group but...
+Having no central group to call the shots means that any individual or group can fill any role, as long as they are seen to be faithfully interpreting and executing ETC's principles and values, as understood by stakeholders. If some feel that a hard fork diverges from the values they signed up for, they are free to continue the existing version of the chain. The risk of a chain split means all participants are incentivised to work together to solve differences, but neither side can overrule the other if the disagreement is unresolvable.
 
 ### Escaping The Gravity Well of Centralization
 
-Centralization is like gravity, it is a force constantly tugging and. If we just "let it rip", the universe would be an amorphous ultradense block of everything - how boring.
+Centralization is lot like gravity; it is a force constantly tugging on social systems, and without anything to push back, without checks & balances or the correct incentive structures in place, organizations devolve into a default state of _might makes right_; a chimp-like authoritarian heirarchy.
 
-Anti-entropic forces have the ability to create over and above this dumb pull towards the center by implementing procedures and systems that keep structures taught and stable.
+Civilization provides the antitode to this "return to monke" existance in the form of anti-entropic procedures and systems that can form complex social heirarchies that are based not on muscle but on merit.
 
-Incentive structures, like bamboo holding up a tent, have the ability, if placed correctly, to overcome the force of gravity, and in the case of bllockchain these pieces of bamboo can be cleverly placed to create much more elaborate an exciting structures that would otherwise collapse inwards.
+Incentive structures, like bamboo holding up a tent, have the ability to, if placed correctly, overcome the gravity of centralization. By
+
+The original blockchain, Bitcoin is an example an example of e
+
+In the case of blockchains, these pieces of bamboo can be cleverly placed to create much more elaborate an exciting structures that would otherwise collapse inwards.
 
 When a project attempts to construct a tent with just two of the three key elements, it might hold up for a while, but even the mildest breeze from external forces threatern to cause the house of cards to tumble.
 
@@ -198,6 +204,10 @@ So how do you dedign a blockchain that is able to withstand the forces of cetnra
 - General rule of thumb is decreased complexity is good.
 - Single points of failure can exist in many areas and are often hidden.
 
+Even more interesting blockchains that have Smart Contracts built on top of this base layer, with the hope that more ...
+
+You want a situation where you have people in the social layer that are as politiciallly diverse as possible, not in beleifs but in whips. I.e. having too many people who are dependent on britain is bad - and same with alliances. You want chinese and Iraqis and russians and Argentinians and everyehere to counterbalance any influence that an individual from one nation state is going to have.
+
 ### Protocol Neutrality & Natural Contribution
 
 Rather than a Foundation consisting of people, some projects have a foundation that is rooted in philosophy; immportal principles rather than temporal bags of flesh. A foundation of ideas rather than people means that for time immemorial _any_ group or individual can fill any role they like, and can so without permission or being directed by any central authority.
@@ -217,35 +227,53 @@ When the cash runs out, the development that was reliant on this will disappear,
 
 More importantly, what drives deicion making on this new orphaned project? Without a set of guiding principles to follow, it will surely devlolve into a kleptocratic race to the bottom to pillage the corpse of whatever value remains.
 
-## BTC + ETH = ETC
+## ETH + BTC = ETC
 
-- ETC takes the best parts of bitcoin and apply them to the best parts of Ethereum
-- Technologically and/or Philosophically superior to both projects
-- ETH: Smart Contract Platform -- Turing Complete, Built for Developers
-- BTC: Fundamentals of Decentralization and Sound Money
-- ETC possibly embodies the principles of bitcoin in a more explicit way
+For those already somewhat familiar with the blockchain ecosystem and can distinguish between the two major projects, a quite simple heuristic exists that cuts to the chase of what Ethereum Classic is attempting to acheive.
+
+> Ethereum Classic takes the philosophy of Bitcoin and applies it to the technology of Ethereum
+>
+> - The CEO of Ethereum Classic, if one existed
+
+Many of those who were involved with Ethereum before the DAO Hack were under the impression that Ethereum was hoping to do exactly this; be built on top of the well-established core ideas that Bitcoin provided, but add on additional functionality in the form of a Turing Complete Smart Contract Platform.
+
+But as The DAO Hack showed, this was not the case; what is now known as Etheruem has very little to do with the decentralist values that Bitcoin was created to embody.
+
+The decision for the Ethereum Foundation to abandon the decetnralist values that were used to entice contributions was unfortunate, but created a vacuum that ultiamtely further refined the meaning and importance of those values and birthed a project who's mission was to explicity continue that original vision.
+
+Ethereum Classic, even more so than Bitcoin itself, exists as an explicit reminder about the importantce of decentralist values. Clearly there were many who didn't quite get their importance at the time, although many others saw the truth that decentralilzation _was_ the point, not just an annoying obstable to overcome.
+
+And so, in the persuit of centralization, Ethereum Clasic recognises the genious decisions made when constructing the original Bitcoin protocol, and has since attempted to emulate this in the persuit of not just decetralization but also the empiricial success that has come from following them.
+
+Ultiamtely, we hope that Ethereum Classic can live up to that original vision of Ethereum: Bitcoin, but with Smart Contracts.
+
+Ethereum was originally supposed to be "Bitcoin, but with Smart Contracts", but when this goal was abandoned, Ethereum Classic merrily continued the vision.
 
 ### No Official Anything
 
-- ETC has no satsohi
-- Bottom up organization; no central planners
-  Just like Bitcoin, the only real way to get around this problem is to have no no leaders.
+Just like Bitcoin, Ethereum Classic has no official developers, maintainers, or leaders. It has no official logo, no official website, no official conferences. Ethereum Clasic _cannot_ have an official _anything_, becuase no individual or group has the authority to claim they represent ETC in any official capacity.
+
+This is a rare quality, and massive strength in the world of blockchains, as it means there is no official _thing_ that can be taken down, captured, or compromised, and there is no official entity that can sue competing forks for copyright enfringement.
+
+_No official anything_ is the source of much of the strength of the Ethereum Classic project, but also has drawbacks as there is no central source of truth to coordinate from. Instead, a do-ocracy exists where anyonee can contribute, and based on what is actually done and what is picked up and used becomes what makes up Ethereum Classic. This makes it a unique project and attractive to contributors; literally nothing can stop _you_ from being as close to official as anyone else.
+
+Some say that Ethereum Classic goes evern more extreme in this type of decentnralization than Bitcoin, which has Satoshi, who could come back one day and begin to make suggestions or guide development in a way that is not purely meroticratic.
 
 ### Secure Base Layer
 
-- Small Blocks
-- No Sharding
+The current consensus within the Ethereum Classic and wide computer sceience community is that the aforementioned _Blockchain Trilemma_ is insurmountable, at least on the base later. For this reason, Ethereum Classic's current roadmap does not include some of the more exotic "solutions" that will be attmpted by Ethereum.
 
-### Sound Money
+Sharding, is one such example, where contracts are siloed into their own execution environments and can be executed in parralel. In theory this idea seems plausible, but for that added complexity, it is not suitable for globally interoperable contracts, including many of today's useful systems that need shared execution, such as anything that touches DeFi liquidity.
 
-Austrian Economics
+Essentially, there are very few _one size fits all_ approaches to scaling throughput that can be applied on the base layer without compromising an important security assumption, so for ETC as a protocol, it is best left up to applications or secondary protocols to provide various different tradeoffs and implement their own optimizations depending on the use case and the needs of users.
 
-### Ultrafair Redistribution
+Many in the Ethereum Classic community are also wary of attempts to increase the block size, due to the negative effects that are likely to appear down the road in terms of "bloat" and the increased _time to sync_ and hardware requirements, which if left unchekced may make it difficult to run an Ethereum Classic node, leading to centralization. Some argue the block gas limit should be reduced even further, whilst others look towards _Zero Knowledge Proof_ technologies that can reduce the amount of data needed to be stored on chain.
 
-No premine
-Ethereum Classic didn't just have a "fair distribution", it had an "ultrafair distribution"; a voluntary market redistribution away from those who didn't want Code is Law to those who supported Code is Law; this process refined the initial hodlers of ETC to be those who would respect and defend it's core values.
+There is general agreement that a layered approach to scaling blockchains is able to increase throughput while satisfying the _Blockchain Trilemma_ in a way that does not mess with the base layer; individuals are free to experiment with different "L2" systems that provide various tradeoffs depending on the application and user requirements.
 
 ### Proof of Work
+
+Another of the technological experiments persued by Ethereum that was rejected by ETC is that of Proof of Stake. As previously [disucssed](#PoS),
 
 - Externally sourced security
 - Permissionless
@@ -256,6 +284,21 @@ Ethereum Classic didn't just have a "fair distribution", it had an "ultrafair di
 - Separation of Responsibilities
 
 How do we prevent this from happening in ETC? by defending our principles.
+
+### Sound Money
+
+Last but not least for the .
+
+- Counters "ultrasound" modern money theory
+- Inflation won't happen becasue we've rebranded it.
+
+- It doesn't matter how much you rebrand, the fundamentals are the same. The only way to prevent abuse is to have a pre-agreeed emission schedule.
+- Most blockchains at least understand the imporance of having a predefined emisison schedule. Etheruem very toxicly and dangerously suggests that no, all blockchaims have fundamentally infinite inflation. No that's not right.
+
+The decision to implement a hard fork, at least with proof of work, can only be considered succesful the second chain has no value.
+
+- Austrian Economics
+- etcis.money
 
 ## Conclusion
 
