@@ -1,7 +1,7 @@
 ---
 title: Mystique Hard Fork on ETC block 14,525,000 (~Feb 13th 2022)
 date: 2022-01-19
-author: Stev
+author: EthereumClassic.technology
 tags: ["announcement", "development", "teams", "hardfork", "education"]
 ---
 
