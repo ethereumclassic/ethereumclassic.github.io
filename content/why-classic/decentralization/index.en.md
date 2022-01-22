@@ -108,7 +108,27 @@ Even if a centralized team is not fully compromised, the very potential of this 
 
 This failure state shows there is an inherant contradiction within any blockchain project that relies on a central organizing comittees, as it necessatates that these supposedly decentralized projects are in fact depending on a central group that can and will be bent to the will of anyone who feels like the cost of doing so is worth it.
 
+### Funny Money
+
+One "feature" centralized systems beware of is the devaluing of holding via inflation.
+
+The soundness of money,
+
+> Yeah, your boring old car might be safe, but check out this bad boy over here; we removed the breaks, and now it's ultrasafe.
+>
+> - Advocates of Ultrasound Money
+
+The redistribution of funds via infaltion or currency debasement is one of the oldest tricks in the book for meddling central planners with misplaced authority.
+
+In an orwellean attempt to flip the script of otherwise well-defined and fair.
+
+- Unknown future supplies create unkown.
+- In a world of competing
+- Centralization into the hands of the
+
 ### Proof of Stake: Compromised Consensus
+
+Nothing opitmises the dangers of centralization more than the dangeous ideal of proof of stake...
 
 A blockchain's consensus mechanism is it's engine; it is the most critical piece of infrastrucutre, from which all security, value and ultility depends on. Like an engine, if it stops working properly, all other systems that rely on it functioning become useless, or worse.
 
@@ -138,24 +158,6 @@ But it is when the the environmentalist claim is _not_ taken at face value that 
 
 Because of the inherant trade-offs with Proof of Stake systems, it is clear that _Soveriegn Grade Censorship Resistance_ is not a priority on these chains, and as such, they cannot be recommended for deployments that have the potential to be disrupt powerful incumbant institutions.
 
-### Funny Money
-
-One "feature" centralized systems beware of is the devaluing of holding via inflation.
-
-The soundness of money,
-
-> Yeah, your boring old car might be safe, but check out this bad boy over here; we removed the breaks, and now it's ultrasafe.
->
-> - Advocates of Ultrasound Money
-
-The redistribution of funds via infaltion or currency debasement is one of the oldest tricks in the book for meddling central planners with misplaced authority.
-
-In an orwellean attempt to flip the script of otherwise well-defined and fair.
-
-- Unknown future supplies create unkown.
-- In a world of competing
-- Centralization into the hands of the
-
 ## Classic Problems Require Classic Solutions
 
 Corruption is a problem as old as civilisation, and whilst it might not have obviously reared it's ugly head in the cryptocurrency space yet, as the technology becomes more influential, it will attract forces that wish to bridle it's power and shape it towards a future where, far from liberating humanity, blockchains become tools for optimizing enslavement.
@@ -164,17 +166,7 @@ Luckily a window of opporunity exists to counter the inevitable ongoing attempts
 
 While it's still voluntary, rather than relying on authority figures or marketing campaigns, individuals can reason from first principles and reflect on lessons from the past to reach their own conclusions about which blockchains are likely to provide long term value and are worth interacting with. By going "back to the roots" of not just blockchain technology, but Austrian economic theory and ultimately the primatives of reason itself, the wisdom in the designs decisions behind Bitcoin become clear, and this logic can be reappllied to other technological advancements in the space, including Smart Contract Platforms such as Ethereum (Classic).
 
-### A Different Kind Of Foundation
-
-History has shown that whilst institutions and the humans that make them are fallible, fickle and fragile, ideas are bulletproof. It it self-evident that a technology as important and influential as blockchain must be built upon something more than just people; it must be backed by a well developed philosophy to guide the actions of otherwise [capturable](#meatspace-capture) bags of meat.
-
-Good ideas stand on their own, can be debated in public, and are true regardless of who proclaims them, which makes them perfect for constructing a harness to restrain and protect the future of a blockchain project. That is why Etheruem Classic's Foundation is not a group, but it's core principles, which come first and inform decision making.
-
-Pragmatism is downstream of maintaining and adhering to good principles, as they are what enable both practical survivability, long term sustainabiltiy, and act as a form of advertising that attracts quality contributors. The _principles first_ appraoch goes a long way to ensuring that a project can maintain it's course for many generations to come, as it is guided not by the ever-changing interests of a central group, but by external philosophical reference points that, even with high a turnover of contributors, can be be perpetuated and refined in public to direct the future of the project.
-
-Having no central group to call the shots means that any individual or group can fill any role, as long as they are seen to be faithfully interpreting and executing ETC's principles and values, as understood by it's stakeholders. If some feel that a hard fork diverges from the values they signed up for, they are free to continue the existing version of the chain. The risk of a chain split means all participants are incentivised to work together to solve differences, but neither side can of a debate _overrule_ the other if the disagreement is unresolvable.
-
-### Escaping The Gravity Well of Centralization (maybe rremove)
+### 7 Billion Monkeys
 
 Centralization is lot like gravity; it is a force constantly tugging on social systems, and without anything to push back, without checks & balances or the correct incentive structures in place, organizations devolve into a default state of _might makes right_; a chimp-like violent authoritarian heirarchy.
 
@@ -186,7 +178,17 @@ In the past it may have been possible for a family of monkeys or even a paleolit
 
 What is true for societies is also true for those novel sociotechnological systems known as blockchains; _decentralize or die_.
 
-### Escaping The Gravity Well of Centralization
+### A Different Kind Of Foundation
+
+History has shown that whilst institutions and the humans that make them are fallible, fickle and fragile, ideas are bulletproof. It it self-evident that a technology as important and influential as blockchain must be built upon something more than just people; it must be backed by a well developed philosophy to guide the actions of otherwise [capturable](#meatspace-capture) bags of meat.
+
+Good ideas stand on their own, can be debated in public, and are true regardless of who proclaims them, which makes them perfect for constructing a harness to restrain and protect the future of a blockchain project. That is why Etheruem Classic's Foundation is not a group, but it's core principles, which come first and inform decision making.
+
+Pragmatism is downstream of maintaining and adhering to good principles, as they are what enable both practical survivability, long term sustainabiltiy, and act as a form of advertising that attracts quality contributors. The _principles first_ appraoch goes a long way to ensuring that a project can maintain it's course for many generations to come, as it is guided not by the ever-changing interests of a central group, but by external philosophical reference points that, even with high a turnover of contributors, can be be perpetuated and refined in public to direct the future of the project.
+
+Having no central group to call the shots means that any individual or group can fill any role, as long as they are seen to be faithfully interpreting and executing ETC's principles and values, as understood by it's stakeholders. If some feel that a hard fork diverges from the values they signed up for, they are free to continue the existing version of the chain. The risk of a chain split means all participants are incentivised to work together to solve differences, but neither side can of a debate _overrule_ the other if the disagreement is unresolvable.
+
+### The Gravity of Centralization
 
 The original blockchain, Bitcoin, is one of the purest examples of a system that strategically placed incentives in a way that created a virtulous circle of contribution and profit from and to it's various stakeholders, including miners, traders, holders, developers, and other infrastructure providers. Miners provide security and get rewarded in Bitcoin, which only has value if the network is useful thanks to developers and other providers maintaining the protocol and building out infrastructure, facilitated by traders providing liquidity and investors speculating and funding projects.
 
@@ -196,29 +198,35 @@ The blueprint introduced by Bitcoin was also used by many other cryptocurrencies
 
 If a project wants to survive long term, it must have enough of these necessary incentive structure struts. If Bitcoin is a study tripod made of Miners, Developers and Traders, by sawing off one of these legs, switching to Proof of Stake and firing the miners, the result is a two-legged barstool; one that can possibly straddled for a while, but even the faintest breeze will cause it to become a dangerous liability.
 
-### Decentralization Maximalism
+### Kabuki Coins
 
-Centralization, like gravity, is constantly pulling and looking for any weakness in a structure to push it to breaking point. For a system to overcome this force long term, it must ensure that there is no central point of failure that can be exploited, which often means designing rhobust countermeasures that constantly push back against centralization.
+Centralization, like gravity, is constantly pulling and looking for any weakness in a structure to push it to breaking point. For a system to overcome this force long term, it must ensure that there is no central point of failure that can be exploited, which often means designing rhobust countermeasures that constantly push back against centralization not just in one place but in all areas.
 
-Because of this, there is very little point having decentralization in half measures; a chain is only as strong as it's weakest link, and a blockchain is only as decentralized as it's most centralized point. For this reason, _all_ parts of a blockchain project, both technically and socially, must strive for decentralization maximalism.
+Because of this, there is very little point having decentralization in half measures; a chain is only as strong as it's weakest link, and a blockchain is only as decentralized as it's most centralized point. For this reason, _all_ parts of a blockchain project, both technically and socially, must strive for _decentralization maximalism_.
 
-So how do you dedign a blockchain that is able to withstand the forces of cetnralization?
+Unforunately, within the cryptocurrency ecosystem the importance of _Decentrlaization Maximalism_ is not wideley understood or adopted, such that the term _Decentralization Theatre_ has become a common throwdown for many _so-called_ decentralized systems.
 
-- Pillars of decentralization
-- All layers must be decentralized
-- Minimize or remove single points of failure
-- Toxicity as a immune response (vs sowing division)
-- meatspace capture immunity
-- Eternal vigilance; Systems naturally tend towardss centralization so there must be some counter force always preventing this from happening to keep the system secure. In the long run, only truly decentralized blockchains will survive.
-- Even the smallest of infraction or exceptions are intolorable as they will accumulate over time until the system becomes captured; it is about trajectory not absolute position.
-- General rule of thumb is decreased complexity is good.
-- Single points of failure can exist in many areas and are often hidden.
+In reality these projects have subtle but highly centralized single points of failure somewhere within their system, but promoters focus on other "decentrazlied" parts of the project, an effective tactic due to the technical skill required to evaluate the system as a whole.
 
-Unforunately, within the cryptocurrency ecosystem the importance of _Decentrlaization Maximalism_ is not wideley understood or adopted, such that the term "Decentralization Theatre" has become a common throwdown for many _so-called_ decentralized systems. In reality these projects have subtle but highly centralized single points of failure somewhere within their system, but promoters focus on other "decentrazlied" parts of the project, an effective tactic due to the technical skill required to evaluate the system as a whole.
+Like a building made entirely of steel apart from one column made of cardboard, on the surface things might seem properly built, but on closer inspection, there is a glaring flaw that will only cause ruin to those who expect the project to stand the test of time.
 
 _image of someone about to place final card on house of cards and it falls_
 
-### Protocol Neutrality & Natural Contribution
+### Decentralization Maximalism
+
+_Decentralization maximalism_ is not a predefined set of rules, but is a general philosophy or way of thinking that seeks to reduce the number of central points of failure throughout a system.
+
+Decentralization should be persued holistically in all areas, both in deisigning the protocol itself and in the social layer, where possible. The goal is to make not just the protocol itself secure from take-over, but also the social layer be secure from [meatspace capture](/#meatspace-capture). Satoshi being anonymous and going silent is an example of this philosophy being applied to the Bitcoin project.
+
+Where it makes sense, by definition this appraoch demands _no compromise_; even the smallest of sacrifices, infractions or exceptions are, unless completely unavoidable, intolorable. As centralization is difficult to get rid of if a system depends on it, it typically accumulates over time, and will pile up until the system is captured in one way or another.
+
+Whatever the crossroad, _Decentralization Maximalism_ requires eternal vigilance and the knowledge that systems naturally tend towards centralization, so every decision that is made must take into account of the cost paid in centralization debt, with the goal of keeping the system debt-free long term.
+
+Because single points of failure can exist in many areas and are often hidden, all things being equal, it is easier to maintain decentralization in systems that are _less complex_. Additional complexity not just creates more potential for technical bugs and exploits, but also for central points of failure, in unforseen game-theory quandries and in the form of higher upkeep requirements leading to a reduced pool of developers able to contribute to maintenance; if a system is too complex for anyone to reason with, it may as well be captured by it's authors, who have sole authority on how it should be operated.
+
+- Toxicity as a immune response (vs sowing division)
+
+### Protocol Neutrality, Project Competition and Natural Contribution
 
 Rather than a Foundation consisting of people, some projects have a foundation that is rooted in philosophy; immportal principles rather than temporal bags of flesh. A foundation of ideas rather than people means that for time immemorial _any_ group or individual can fill any role they like, and can so without permission or being directed by any central authority.
 
@@ -248,6 +256,8 @@ For those already somewhat familiar with the blockchain ecosystem and can distin
 Many of those who were involved with Ethereum before the DAO Hack were under the impression that Ethereum was hoping to do exactly this; be built on top of the well-established core ideas that Bitcoin provided, but add on additional functionality in the form of a Turing Complete Smart Contract Platform.
 
 But as The DAO Hack showed, this was not the case; what is now known as Etheruem has very little to do with the decentralist values that Bitcoin was created to embody.
+
+This was probably an honest misunderstanding, but ... . Link to Charler's world computer vs code is law split.
 
 The decision for the Ethereum Foundation to abandon the decetnralist values that were used to entice contributions was unfortunate, but created a vacuum that ultiamtely further refined the meaning and importance of those values and birthed a project who's mission was to explicity continue that original vision.
 
@@ -282,6 +292,10 @@ Many in the Ethereum Classic community are also wary of attempts to increase the
 There is general agreement that a layered approach to scaling blockchains is able to increase throughput while satisfying the _Blockchain Trilemma_ in a way that does not mess with the base layer; individuals are free to experiment with different "L2" systems that provide various tradeoffs depending on the application and user requirements.
 
 ### Proof of Work
+
+The application of Proof of Work as a consensus mechanism for Blockchain was the keystone crowning acheivement in the genious that was the design of Bitcoin, for the first time solving the Byzantine Generals Problem and providing a solution Double Spends.
+
+The misguided lack of humility in Proof of Stake attempts to "fix the problems" of Proof of Work fundamentally misses the point the sociotechnological problems that Bitcoin so elegantly solved, in what can only be described as a fool's errand that has already wasted far more energy than even the hungriest of mining farms.
 
 Another of the technological experiments persued by Ethereum that was rejected by ETC is that of Proof of Stake. As previously [disucssed](#PoS),
 
