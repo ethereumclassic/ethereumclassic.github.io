@@ -22,6 +22,8 @@ Decentralization is a property that exists in many systems and in many forms thr
 
 In the realm of blockchain projects, there are many ways of measuring decentralization, with one rough quantification being "The ratio of people needed to be compromised in order to take over the system". That is to say, if an attacker wanted to control or censor a chain, a project that required them to compromise 80% of participants is _more decentralized_ than a project that only requried 10% to be compromised.
 
+TODO: it's more complicated than this, if an attacked has a technique that can own a bunch of people then it's less decentralized
+
 Attackers that wish to "own" the system have a more difficult job the more decentralized a project is. To defend against take-overs, projects need to reach a sufficient level of decentralization, which means minimizing the number of central points of failure and bottlenecks, which can exist in many different places in the system.
 
 The most decentralized a project can be is _fully decentralized_; attackers must compromise _everyone_, and the system can continue to faithfully operate with only one honest actor. These kinds of systems are vanishingly rare and seldom practical; in practice, either a technological or social limiting factor stands in the way of the persuit of secure, decentralized, and scalable systems, so compromise must be made somewhere.
@@ -74,15 +76,15 @@ _Code is Law_ can only operate on a chain that has acheived _Sovereign Grade Cen
 
 Today, even more so than when Etheruem was launched in 2015, it is increasingly obvious that censorship is becoming the weapon of choice of a dying system that is desperately attempting to cling on to relevance. As these old institutions become increasingly threatened by change, it seems likely that ever-more drastic measures will be taken in an attempt defend their position.
 
-Before blockchain technology entered the scene, these institutions had reality pretty much on lockdown as society was reliant on centralized control points that could be exploited. With cryptography, though, and just in the Nick of time, Satoshi graced us with the answer to this reliance, which has turned the tables on the existing [logic of violence](https://cryptonews.net/en/news/bitcoin/2927549/), and provided humanity with an alternative emergent order.
+Before blockchain technology entered the scene, these institutions had reality pretty much on lockdown as society was reliant on centralized control points for sensemaking, which could be exploited. With cryptography, though, and just in the Nick of time, Satoshi graced us with the answer to this reliance, which has turned the tables on the existing [logic of violence](https://cryptonews.net/en/news/bitcoin/2927549/), and provided reality with an alternative emergent order.
 
 As time goes on, the attacks against free, fair and open alternatives to the status quo will ramp up. The cryptocurrency ecosystem will enter a new phase, a highly antagonistic phase, where the uncensorability of blockchain technology will truly be put to the test, and the central points of failure in cryptocurrency systems that have them will be sought out and exploited. For use cases that are not approved by incumbants, only the _Soverign Grade_ will survive.
 
-In the future, in order to maintain utility and value, blockchains must be able to resist a range of social, economic and technological attacks will be deployed against them. The list of attacks are ever growing and new forms of attack are likely to be conjured up, but a few of the more obvious potential failure states will be explored below.
+In the future, in order to maintain utility and value, blockchains must be able to resist a range of social, economic and technological attacks that will be deployed against them. The list of attacks are ever growing and new forms of attack are likely to be conjured up, but a few of the more obvious potential failure states must be avoided.
 
 ### The Ephemeral Foundation
 
-Historically, the number one cause of death for blockchains is when the teams responsible for maintaining it no longer operate. Simply put, if a project depends on a central organizing comittee or developer team, it will only last as long as this organization exists.
+Historically, the number one cause of death for blockchains is when the teams responsible for maintaining them no longer operate. Simply put, if a project depends on a central organizing comittee or developer team, it will only last as long as this organization does.
 
 Organizations can cease to operate for many reasons; be it a simple rugpull, running out of funds, getting hacked, getting hammered by regulators, traffic accidents, or any other number of reasons, these factors are often outside the control of this team, so it is down to luck or the approval of regualtors as to whether or not a project can survive.
 
@@ -108,13 +110,13 @@ This failure state shows there is an inherant contradiction within any blockchai
 
 ### Proof of Stake: Compromised Consensus
 
-A blockchain's consensus mechanism is it's engine; it is the most critical piece of infrastrucutre, from which all security, value and ultility depends on. Like an engine, if it stops working properly, all other systems that rely on it functioning become useless.
+A blockchain's consensus mechanism is it's engine; it is the most critical piece of infrastrucutre, from which all security, value and ultility depends on. Like an engine, if it stops working properly, all other systems that rely on it functioning become useless, or worse.
 
 As with autombile engines, different types of consensus mechanisms are available to blockchain architects when designing a protocol, and the choice of which to use reveals much about which attributes in the _Blockchain Trilemma_ tradeoff are considered a priority. As a chain's consensus mechanism is so important, for _Sovereign Grade_ systems, is the very last thing that should be on the chopping board when it comes to design constraints and security trade-offs.
 
 The first blockchain, Bitcoin, uses Proof of Work; a relatively simple, tried and true type of consensus mechanism that essentially converts electricity into security. Proof of Work is both empirically and theoretically secure from an economic game theory perspective, and even in the face of disruption from nation states, history has shown that it stands strong.
 
-An alternative to Proof of Work that became popular is Proof of Stake, which much like a fad, became a "must have" for many new blockchain projects launching after 2015. The primary justification for PoS is environmentalism; it was hoped that it would be able to provide the same or better security guaruntees than PoW without consuming large amounts of energy.
+An alternative to Proof of Work that became popular is Proof of Stake, which much like a fad, became a "me too" for many new blockchain projects launching after 2015. The primary justification for PoS is environmentalism; it was hoped that it would be able to provide the same or better security guaruntees than PoW without consuming large amounts of energy, because consuming energy is inherantly bad.
 
 But there is no such thing as a free lunch, and after many years of theorizing and real life experimenting with Proof of Stake systems, the results are in; PoS on a fundamental level cannot come close to matching the security guauntees provided by PoW.
 
@@ -156,11 +158,11 @@ In an orwellean attempt to flip the script of otherwise well-defined and fair.
 
 ## Classic Problems Require Classic Solutions
 
-Corruption is a problem as old as civilisation, and whilst it might not have obviously reared it's ugly head in the blockchain space, as the technology becomes more influential, it will attract forces that wish to bridle it's power and shape it towards a future where, far from liberating humanity, it becomes a tool for optimizing enslavement.
+Corruption is a problem as old as civilisation, and whilst it might not have obviously reared it's ugly head in the cryptocurrency space yet, as the technology becomes more influential, it will attract forces that wish to bridle it's power and shape it towards a future where, far from liberating humanity, blockchains become tools for optimizing enslavement.
 
 Luckily a window of opporunity exists to counter the inevitable ongoing attempts to capture blockchais; for now, projects that strive for _decentrlization maxlimalism_ still exist and are available to those who wish to use them.
 
-While it's still voluntary, rather than relying on authority figures or marketing campaigns, individuals can reason from first principles and reflect on lessons from the past to reach their own conclusions about which blockchains are likely to provide long term value and are worth interacting with. By going "back to the roots" of not just blockchain technology, but Austrian economic theory and ultimately the primatives of reason itself, the wisdom in the designs decisions behind Bitcoin become clear, and this logic can be reappllied to other technological advancements in the space, including Ethereum.
+While it's still voluntary, rather than relying on authority figures or marketing campaigns, individuals can reason from first principles and reflect on lessons from the past to reach their own conclusions about which blockchains are likely to provide long term value and are worth interacting with. By going "back to the roots" of not just blockchain technology, but Austrian economic theory and ultimately the primatives of reason itself, the wisdom in the designs decisions behind Bitcoin become clear, and this logic can be reappllied to other technological advancements in the space, including Smart Contract Platforms such as Ethereum (Classic).
 
 ### A Different Kind Of Foundation
 
@@ -168,29 +170,37 @@ History has shown that whilst institutions and the humans that make them are fal
 
 Good ideas stand on their own, can be debated in public, and are true regardless of who proclaims them, which makes them perfect for constructing a harness to restrain and protect the future of a blockchain project. That is why Etheruem Classic's Foundation is not a group, but it's core principles, which come first and inform decision making.
 
-Pragmatism is downstream of maintaining and adhering to good principles, as they are what enable both practical survivability and act as a form of advertising that attracts quality contributors. The _principles first_ appraoch goes a long way to ensuring that a project can maintain it's course for many generations to come, as it is guided not by the ever-changing interests of a central group, but by external philosophical reference points that, even with high a turnover, can be argued in public to direct the future of the project.
+Pragmatism is downstream of maintaining and adhering to good principles, as they are what enable both practical survivability, long term sustainabiltiy, and act as a form of advertising that attracts quality contributors. The _principles first_ appraoch goes a long way to ensuring that a project can maintain it's course for many generations to come, as it is guided not by the ever-changing interests of a central group, but by external philosophical reference points that, even with high a turnover of contributors, can be be perpetuated and refined in public to direct the future of the project.
 
-Having no central group to call the shots means that any individual or group can fill any role, as long as they are seen to be faithfully interpreting and executing ETC's principles and values, as understood by stakeholders. If some feel that a hard fork diverges from the values they signed up for, they are free to continue the existing version of the chain. The risk of a chain split means all participants are incentivised to work together to solve differences, but neither side can overrule the other if the disagreement is unresolvable.
+Having no central group to call the shots means that any individual or group can fill any role, as long as they are seen to be faithfully interpreting and executing ETC's principles and values, as understood by it's stakeholders. If some feel that a hard fork diverges from the values they signed up for, they are free to continue the existing version of the chain. The risk of a chain split means all participants are incentivised to work together to solve differences, but neither side can of a debate _overrule_ the other if the disagreement is unresolvable.
+
+### Escaping The Gravity Well of Centralization (maybe rremove)
+
+Centralization is lot like gravity; it is a force constantly tugging on social systems, and without anything to push back, without checks & balances or the correct incentive structures in place, organizations devolve into a default state of _might makes right_; a chimp-like violent authoritarian heirarchy.
+
+Civilization provides the antitode to this "return to monke" existance in the form of anti-entropic procedures and systems that form complex social heirarchies that are based not just on purely on muscle, but evolved to optimize the survial of the system as a whole. Developments in legal systems throughout history demonstrate that for societies to scale, _rule of law_ and the decentrlization that it enables must be upheld.
+
+-- todo explain this point more? many different towns and principalities share the same common law but this enables a decentralized nature as they have freedom of association; you can pop to any random starbucks without needing to be part of the guild, etc, etc. --
+
+In the past it may have been possible for a family of monkeys or even a paleolithic tribe to survive thanks to top down micromanagement, and the desire for these old ways are sure to exist in the minds of would-be troop leaders of today. But history has shown that large societies cannot be sustainably micromanaged; civilization-scale human action is chaotic, and far too complex to measure let alone predict or interfere with without unforseen conceuqnces. Centrally planned economies always result in catastrophe; decentralization, a form of horizontal scaling, is the _only_ way for socities to florish at scale.
+
+What is true for societies is also true for those novel sociotechnological systems known as blockchains; _decentralize or die_.
 
 ### Escaping The Gravity Well of Centralization
 
-Centralization is lot like gravity; it is a force constantly tugging on social systems, and without anything to push back, without checks & balances or the correct incentive structures in place, organizations devolve into a default state of _might makes right_; a chimp-like authoritarian heirarchy.
+The original blockchain, Bitcoin, is one of the purest examples of a system that strategically placed incentives in a way that created a virtulous circle of contribution and profit from and to it's various stakeholders, including miners, traders, holders, developers, and other infrastructure providers. Miners provide security and get rewarded in Bitcoin, which only has value if the network is useful thanks to developers and other providers maintaining the protocol and building out infrastructure, facilitated by traders providing liquidity and investors speculating and funding projects.
 
-Civilization provides the antitode to this "return to monke" existance in the form of anti-entropic procedures and systems that can form complex social heirarchies that are based not on muscle but on merit.
+Like struts holding up the base of a tower, these well-placed incentives rely on each other for support, and together, as long as they are correctly distributed, can yeild a new structure greater than the sum of their parts, and can overcome the centralizing forces of gravity, potentially for millenia.
 
-Incentive structures, like bamboo holding up a tent, have the ability to, if placed correctly, overcome the gravity of centralization. By
+The blueprint introduced by Bitcoin was also used by many other cryptocurrencies including Ethereum, which largely copied the fundamentals, tweaked some variables, and (brilliantly) added a turing complete virtual machine. Much like an architectural blueprint, encoding the structure of a real world building, it would be seemingly unwise to remove one or more of the struts that was critical to keeping the structure from collapsing in on itself into a centralized mess.
 
-The original blockchain, Bitcoin is an example an example of e
+If a project wants to survive long term, it must have enough of these necessary incentive structure struts. If Bitcoin is a study tripod made of Miners, Developers and Traders, by sawing off one of these legs, switching to Proof of Stake and firing the miners, the result is a two-legged barstool; one that can possibly straddled for a while, but even the faintest breeze will cause it to become a dangerous liability.
 
-In the case of blockchains, these pieces of bamboo can be cleverly placed to create much more elaborate an exciting structures that would otherwise collapse inwards.
+### Decentralization Maximalism
 
-When a project attempts to construct a tent with just two of the three key elements, it might hold up for a while, but even the mildest breeze from external forces threatern to cause the house of cards to tumble.
+Centralization, like gravity, is constantly pulling and looking for any weakness in a structure to push it to breaking point. For a system to overcome this force long term, it must ensure that there is no central point of failure that can be exploited, which often means designing rhobust countermeasures that constantly push back against centralization.
 
-The Tripod of Developers, Miners and Holders keeps things in check, and they prop each other up in cincentive structures to ensure the whole system is far more rigid and _secure_.
-
-Why you can't have decentralization in half measures, and it must be built to last over rtime. The mistake of proof of stake systems is that they have, on paper, a system that can last a lifetime,
-
-_image of someone about to place final card on house of cards and it falls_
+Because of this, there is very little point having decentralization in half measures; a chain is only as strong as it's weakest link, and a blockchain is only as decentralized as it's most centralized point. For this reason, _all_ parts of a blockchain project, both technically and socially, must strive for decentralization maximalism.
 
 So how do you dedign a blockchain that is able to withstand the forces of cetnralization?
 
@@ -204,9 +214,9 @@ So how do you dedign a blockchain that is able to withstand the forces of cetnra
 - General rule of thumb is decreased complexity is good.
 - Single points of failure can exist in many areas and are often hidden.
 
-Even more interesting blockchains that have Smart Contracts built on top of this base layer, with the hope that more ...
+Unforunately, within the cryptocurrency ecosystem the importance of _Decentrlaization Maximalism_ is not wideley understood or adopted, such that the term "Decentralization Theatre" has become a common throwdown for many _so-called_ decentralized systems. In reality these projects have subtle but highly centralized single points of failure somewhere within their system, but promoters focus on other "decentrazlied" parts of the project, an effective tactic due to the technical skill required to evaluate the system as a whole.
 
-You want a situation where you have people in the social layer that are as politiciallly diverse as possible, not in beleifs but in whips. I.e. having too many people who are dependent on britain is bad - and same with alliances. You want chinese and Iraqis and russians and Argentinians and everyehere to counterbalance any influence that an individual from one nation state is going to have.
+_image of someone about to place final card on house of cards and it falls_
 
 ### Protocol Neutrality & Natural Contribution
 
