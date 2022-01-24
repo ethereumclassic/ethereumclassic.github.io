@@ -108,55 +108,64 @@ Even if a centralized team is not fully compromised, the very potential of this 
 
 This failure state shows there is an inherant contradiction within any blockchain project that relies on a central organizing comittees, as it necessatates that these supposedly decentralized projects are in fact depending on a central group that can and will be bent to the will of anyone who feels like the cost of doing so is worth it.
 
-### Funny Money
+### Unsound Money
 
-One "feature" centralized systems beware of is the devaluing of holding via inflation.
+Be it fiat or crypto currencies, redistribution of funds via infaltion or currency debasement is one of the oldest tricks in the book for meddling central planners with a misplaced authority, who inevtiably use this mechanism to ensure that when the ship goes down, those who control the keys to the castle will be the first on the life rafts, as they are able to redistribute whatever dregs of value remain to themselves at the expense of holders - for their own safety, of course.
 
-The soundness of money,
+This failure failrue state is a type of rugpull that can only exist in projects that are not sufficiently decentralized, as the redistribution of value away from holders to some specific group (be it miners, stakers or devleopers) can only happen when the [balance of power](#TODO-gravity) is uneven, and some participants are able to push through changes to the protocol that put their interests before others.
+
+Sound money, or it's ability to hold value over time, is a core property of the inventivisation mechanisms that encourage participation, as whilst it does not guaruntee that an asset will appreciate in value, it at least provides a means to calculate future earnings potential given the future growth of a project, and it does guaruntee that holders will benefit fairly from a project's upside.
+
+For blockchain projects, one of the required properites for sound money is that of a known future supply; a.k.a. a fixed emisson curve, where both the protocol and the social layer are programmed to only accept a predefined block reward, which limits inflation. A know future supply means that no group can gain the power to meddle with inflation or debase the currency, and any hard fork that attempts to do so will surely result in a chain split, which staves off attempts do so as it will be highly risky, may be fruitless, and will always result in a version of the chain that does not implement the change.
+
+Some projects do not have a known future supply, which means the risk of Zimbabwe-like hyperinflation is an ever-present dark cloud that hangs over all holders of the currency. For whatever reason in the future, be it development funding issues or the race to the bottom of competing with other chian's proof of stake yeilds, the central organizing comittee of such projects just need to conjour up some justification that inflating away value from holders is simply the only way the project to continue, while ensuring that any significant influencers get paid off.
+
+Some promoters even gaslight their fellow holders into believing that the checks and balances of a fixed future supply is actually a bad thing. In a cynical and orewellean attempt to trick innocent holders into holding an asset that is potentially far _less_ sound than it's known-future-supply alternatives, the idea of _ultrasound money_, a synonym of _unsound money_, simply means that the future supply of a currency is unknown; the emission curve is subject to tinkering based on some undefined and unpredictable critera, meaning it's central organizing reserves the right to rob holders in the future.
 
 > Yeah, your boring old car might be safe, but check out this bad boy over here; we removed the breaks, and now it's ultrasafe.
 >
 > - Advocates of Ultrasound Money
 
-The redistribution of funds via infaltion or currency debasement is one of the oldest tricks in the book for meddling central planners with misplaced authority.
-
-In an orwellean attempt to flip the script of otherwise well-defined and fair.
-
-- Unknown future supplies create unkown.
-- In a world of competing
-- Centralization into the hands of the
+-- used car salesman meme -- ?
 
 ### Proof of Stake: Compromised Consensus
 
-Nothing opitmises the dangers of centralization more than the dangeous ideal of proof of stake...
+Nothing opitmises the subtle and insidioius nature of centralization like the dogma of Proof of Stake. On the surface, it is a noble attempt to correct the worst aspect of blockchain technology and make it compatible with a sutainable future. But upon closer inspection, this dangerous idea actually sacrificaes the most liberating aspect of the technology, and it's popularity risks condeming the future to one that is captured, where development contributes not towards human flourishing but to the ever-growing power of an ultra-elite, at the expense of utility for all.
 
-A blockchain's consensus mechanism is it's engine; it is the most critical piece of infrastrucutre, from which all security, value and ultility depends on. Like an engine, if it stops working properly, all other systems that rely on it functioning become useless, or worse.
+A blockchain's consensus mechanism is it's engine; it is the most critical piece of infrastrucutre, from which all security, value and ultility depends on. Like an engine, if it stops working properly, all other systems that rely on it functioning become useless, or worse, a danger to it's users.
 
 As with autombile engines, different types of consensus mechanisms are available to blockchain architects when designing a protocol, and the choice of which to use reveals much about which attributes in the _Blockchain Trilemma_ tradeoff are considered a priority. As a chain's consensus mechanism is so important, for _Sovereign Grade_ systems, is the very last thing that should be on the chopping board when it comes to design constraints and security trade-offs.
 
-The first blockchain, Bitcoin, uses Proof of Work; a relatively simple, tried and true type of consensus mechanism that essentially converts electricity into security. Proof of Work is both empirically and theoretically secure from an economic game theory perspective, and even in the face of disruption from nation states, history has shown that it stands strong.
+The first blockchain, Bitcoin, uses Proof of Work; a relatively simple, tried and true type of consensus mechanism that essentially converts electricity into security. Proof of Work is both empirically and theoretically secure from an economic game theory perspective, and even in the face of disruption from nation states, history has shown that it is able to stand strong.
 
-An alternative to Proof of Work that became popular is Proof of Stake, which much like a fad, became a "me too" for many new blockchain projects launching after 2015. The primary justification for PoS is environmentalism; it was hoped that it would be able to provide the same or better security guaruntees than PoW without consuming large amounts of energy, because consuming energy is inherantly bad.
+An alternative to Proof of Work that became popular is Proof of Stake, which became a "must have feature" for many blockchain projects. The primary justification for PoS is environmentalism; it was hoped that it would be able to provide the same or better security guaruntees than PoW without consuming large amounts of energy, because consuming energy is inherantly bad.
 
-But there is no such thing as a free lunch, and after many years of theorizing and real life experimenting with Proof of Stake systems, the results are in; PoS on a fundamental level cannot come close to matching the security guauntees provided by PoW.
+Even if the environmentalist argument for Proof of Stake is taken at face value, as we will see, it is clear that PoS requires chains to sacrifice some of the security guaruntees provided by PoW. In other words, Proof of Stake chains trade away censorship resistence in return for the promise of less energy consumption; a tradeoff that, aside from marketing gimmicks, seems to make little sense when evaluating the responsibility and utility of blockchains compared to other available technologies.
 
-The issues with Proof of Stake are too numerous to dive into detail here, and a seperate article [debunking Proof of Stake](#TODO) is available, but some of the more egregious problems include:
+But it is when the the environmentalist claim is _not_ taken at face value that the choice to use PoS really starts to make sense. Much like a hotel that requests that guests reuse towels to "save the planet", the PoS environmentalist position is conveniently one that also happens to enrich the holders of Proof of Stake currencies, who are able to generate passive income by staking, in their eyes reaping the reards that miners would otherwise be getting, with next to no expense. It is this cynical take that explains why despite the security downgrade, it is no wonder that PoS became such a popular choice, and has manged to recruit many avid economically incentivsed promoters.
 
-- TODO move this into it's own article.
-- Nothing at Stake
+But there is no such thing as a free lunch, and after many years of theorizing and real life experimenting with Proof of Stake systems, the results are in; PoS on a fundamental level cannot come close to matching the security guauntees provided by PoW. The issues with Proof of Stake are too numerous to dive into detail here, and a seperate article [debunking Proof of Stake](#TODO) is available, but some of the more egregious problems include:
+
+https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/
+
+- Centralization of staking on Exchanges
+- Fault taulorance: 33% Attacks
+- Subjective fork choice
+- Unforgible costilness
+- Accumulated Work
+- Block Creator Location
+- Socially Scalable
+- Balance of Power
 - Permissioned
+- Nothing at Stake
 - Rich Get richer
 - Race to the bottom inflation (capital liquid compared to hardware)
-- etc
 - No dispute resolution mechanism
-- todo.
 - Becuase the default rules of a hard fork are to "Do nothing", this means the defending side of a fork in Proof of Stake requries to do a hardfork to avoid being slashed on the new chain, whereas the new chain can enjoy either slashing or no-slashing options. The major dispute resolution mechanism
 
-Even if the environmentalist argument for Proof of Stake is takens at face value, it is clear that PoS requires chains to sacrifice some of the security guaruntees provided by PoW. In other words, Proof of Stake chains trade away censorship resistence in return for the promise of less carbon emissions. TODO: phrase this nicely; This is bad because it is not the responsibility of a chain to look after the environment.
+For all these known downsides, projects that _still_ opt for Proof of Stake must either be _extremely_ concerned about energy usage, or possibly more beleivably, are primarily concerned that that staking will economically benefit stakers. But this concern itself is misguided, as a project can only have long term value if it provides utility, and this is undermiend by Proof of Stake.
 
-But it is when the the environmentalist claim is _not_ taken at face value that the choice to use PoS makes a lot more sense. Much like a hotel that requests guests to re-use towels to "save the planet", the PoS environmentalist position is conveniently one that also enriches holders of Proof of Stake currencies, who are able to, without much effort, generate passive income by staking. It is this cynical take that explains why despite the security downgrade, it is no wonder that PoS became such a popular choice.
-
-Because of the inherant trade-offs with Proof of Stake systems, it is clear that _Soveriegn Grade Censorship Resistance_ is not a priority on these chains, and as such, they cannot be recommended for deployments that have the potential to be disrupt powerful incumbant institutions.
+In any case, because of the inherant trade-offs required in Proof of Stake systems, it is clear that _Soveriegn Grade Censorship Resistance_ is not a priority on these chains, and as such, they cannot be recommended for deployments that are likely to provide any significant value or have the potential disrupt powerful incumbant institutions.
 
 ## Classic Problems Require Classic Solutions
 
@@ -194,6 +203,8 @@ The original blockchain, Bitcoin, is one of the purest examples of a system that
 
 Like struts holding up the base of a tower, these well-placed incentives rely on each other for support, and together, as long as they are correctly distributed, can yeild a new structure greater than the sum of their parts, and can overcome the centralizing forces of gravity, potentially for millenia.
 
+TODO mention balance of power, example of inflation cuasing runaway centralizations...
+
 The blueprint introduced by Bitcoin was also used by many other cryptocurrencies including Ethereum, which largely copied the fundamentals, tweaked some variables, and (brilliantly) added a turing complete virtual machine. Much like an architectural blueprint, encoding the structure of a real world building, it would be seemingly unwise to remove one or more of the struts that was critical to keeping the structure from collapsing in on itself into a centralized mess.
 
 If a project wants to survive long term, it must have enough of these necessary incentive structure struts. If Bitcoin is a study tripod made of Miners, Developers and Traders, by sawing off one of these legs, switching to Proof of Stake and firing the miners, the result is a two-legged barstool; one that can possibly straddled for a while, but even the faintest breeze will cause it to become a dangerous liability.
@@ -230,7 +241,9 @@ Because single points of failure can exist in many areas and are often hidden, a
 
 Rather than a Foundation consisting of people, some projects have a foundation that is rooted in philosophy; immportal principles rather than temporal bags of flesh. A foundation of ideas rather than people means that for time immemorial _any_ group or individual can fill any role they like, and can so without permission or being directed by any central authority.
 
-For these types of projects, instead of relying on artificial cash injections that are finite and handed out from the top, contributions are financied naturally by a _Buy and Contribute_ strategy. The
+In the future, as projects that rely on centralized oranizations one by one bite the dust and it is generally recognised that only projects without this reliance can sustain themselves for long periods, it will become more obvious that _only_ these projects are worth contributing to.
+
+For these types of projects, instead of relying on artificial cash injections that are finite and handed out from some central authority, contributions are financied naturally through a _Buy and Contribute_ strategy. The...
 
 Projects that have an overreliance on a central foundation are seldom able to free themselves of this reliance, and do not evolve to be sustainable becauses they are not perceived to be neutral.
 
