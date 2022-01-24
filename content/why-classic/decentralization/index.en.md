@@ -110,7 +110,7 @@ This failure state shows there is an inherant contradiction within any blockchai
 
 ### Unsound Money
 
-Be it fiat or crypto currencies, redistribution of funds via infaltion or currency debasement is one of the oldest tricks in the book for meddling central planners with a misplaced authority, who inevtiably use this mechanism to ensure that when the ship goes down, those who control the keys to the castle will be the first on the life rafts, as they are able to redistribute whatever dregs of value remain to themselves at the expense of holders - for their own safety, of course.
+Be it fiat or crypto currencies, redistribution of funds via infaltion or currency debasement is one of the oldest tricks in the book for meddling central planners with a misplaced authority. They inevtiably use this mechanism to ensure that when the ship goes down, those who control the keys to the castle will be the first on the life rafts, as they are able to redistribute whatever dregs of value remain to themselves at the expense of holders - for their own safety, of course.
 
 This failure failrue state is a type of rugpull that can only exist in projects that are not sufficiently decentralized, as the redistribution of value away from holders to some specific group (be it miners, stakers or devleopers) can only happen when the [balance of power](#TODO-gravity) is uneven, and some participants are able to push through changes to the protocol that put their interests before others.
 
@@ -130,7 +130,9 @@ Some promoters even gaslight their fellow holders into believing that the checks
 
 ### Proof of Stake: Compromised Consensus
 
-Nothing opitmises the subtle and insidioius nature of centralization like the dogma of Proof of Stake. On the surface, it is a noble attempt to correct the worst aspect of blockchain technology and make it compatible with a sutainable future. But upon closer inspection, this dangerous idea actually sacrificaes the most liberating aspect of the technology, and it's popularity risks condeming the future to one that is captured, where development contributes not towards human flourishing but to the ever-growing power of an ultra-elite, at the expense of utility for all.
+Nothing opitemises the subtle and insidioius nature of centralization like the dogma of Proof of Stake. On the surface, it is a noble attempt to correct the worst aspect of blockchain technology and make it compatible with a sutainable future. But upon closer inspection, this dangerous idea actually sacrificaes the most liberating aspect of the technology, and it's popularity risks condeming the future to one that is captured, where development contributes not towards human flourishing but to the ever-growing power of an ultra-elite, at the expense of utility for all.
+
+TODO, proof of stake is the amputation of choice for sadomasochistic blockchain architects, creating a two-legged stool that quickly falls down the gravity well of centralization...
 
 A blockchain's consensus mechanism is it's engine; it is the most critical piece of infrastrucutre, from which all security, value and ultility depends on. Like an engine, if it stops working properly, all other systems that rely on it functioning become useless, or worse, a danger to it's users.
 
@@ -144,6 +146,8 @@ Even if the environmentalist argument for Proof of Stake is taken at face value,
 
 But it is when the the environmentalist claim is _not_ taken at face value that the choice to use PoS really starts to make sense. Much like a hotel that requests that guests reuse towels to "save the planet", the PoS environmentalist position is conveniently one that also happens to enrich the holders of Proof of Stake currencies, who are able to generate passive income by staking, in their eyes reaping the reards that miners would otherwise be getting, with next to no expense. It is this cynical take that explains why despite the security downgrade, it is no wonder that PoS became such a popular choice, and has manged to recruit many avid economically incentivsed promoters.
 
+> Proof of Stake is like the hotel asking you to reuse towels to save the planet, on the surface it's for some good reasons, but in reality it's making them money and giving you a worse service
+
 But there is no such thing as a free lunch, and after many years of theorizing and real life experimenting with Proof of Stake systems, the results are in; PoS on a fundamental level cannot come close to matching the security guauntees provided by PoW. The issues with Proof of Stake are too numerous to dive into detail here, and a seperate article [debunking Proof of Stake](#TODO) is available, but some of the more egregious problems include:
 
 https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/
@@ -152,6 +156,7 @@ https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of
 - Fault taulorance: 33% Attacks
 - Subjective fork choice
 - Unforgible costilness
+- [Censorable](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Stake-Fallacy)
 - Accumulated Work
 - Block Creator Location
 - Socially Scalable
@@ -175,17 +180,17 @@ Luckily a window of opporunity exists to counter the inevitable ongoing attempts
 
 While it's still voluntary, rather than relying on authority figures or marketing campaigns, individuals can reason from first principles and reflect on lessons from the past to reach their own conclusions about which blockchains are likely to provide long term value and are worth interacting with. By going "back to the roots" of not just blockchain technology, but Austrian economic theory and ultimately the primatives of reason itself, the wisdom in the designs decisions behind Bitcoin become clear, and this logic can be reappllied to other technological advancements in the space, including Smart Contract Platforms such as Ethereum (Classic).
 
-### 7 Billion Monkeys
+### Civillization requires Decentralization
 
 Centralization is lot like gravity; it is a force constantly tugging on social systems, and without anything to push back, without checks & balances or the correct incentive structures in place, organizations devolve into a default state of _might makes right_; a chimp-like violent authoritarian heirarchy.
 
 Civilization provides the antitode to this "return to monke" existance in the form of anti-entropic procedures and systems that form complex social heirarchies that are based not just on purely on muscle, but evolved to optimize the survial of the system as a whole. Developments in legal systems throughout history demonstrate that for societies to scale, _rule of law_ and the decentrlization that it enables must be upheld.
 
--- todo explain this point more? many different towns and principalities share the same common law but this enables a decentralized nature as they have freedom of association; you can pop to any random starbucks without needing to be part of the guild, etc, etc. --
+-- todo explain this point more? many different towns and principalities share the same common law but this enables a decentralized nature as they have freedom of association; you can pop to any random starbucks without needing to be part of the guild, etc, etc. even xxx is actually decentralized, deferring responsibiltiy down the ranks --
 
 In the past it may have been possible for a family of monkeys or even a paleolithic tribe to survive thanks to top down micromanagement, and the desire for these old ways are sure to exist in the minds of would-be troop leaders of today. But history has shown that large societies cannot be sustainably micromanaged; civilization-scale human action is chaotic, and far too complex to measure let alone predict or interfere with without unforseen conceuqnces. Centrally planned economies always result in catastrophe; decentralization, a form of horizontal scaling, is the _only_ way for socities to florish at scale.
 
-What is true for societies is also true for those novel sociotechnological systems known as blockchains; _decentralize or die_.
+What is true for societies is also true for those novel sociotechnological systems known as blockchains; in the long run, it's _decentralize or die_.
 
 ### A Different Kind Of Foundation
 
@@ -203,7 +208,7 @@ The original blockchain, Bitcoin, is one of the purest examples of a system that
 
 Like struts holding up the base of a tower, these well-placed incentives rely on each other for support, and together, as long as they are correctly distributed, can yeild a new structure greater than the sum of their parts, and can overcome the centralizing forces of gravity, potentially for millenia.
 
-TODO mention balance of power, example of inflation cuasing runaway centralizations...
+TODO mention balance of power, examples of inflation, proof of stake, cuasing runaway centralization...
 
 The blueprint introduced by Bitcoin was also used by many other cryptocurrencies including Ethereum, which largely copied the fundamentals, tweaked some variables, and (brilliantly) added a turing complete virtual machine. Much like an architectural blueprint, encoding the structure of a real world building, it would be seemingly unwise to remove one or more of the struts that was critical to keeping the structure from collapsing in on itself into a centralized mess.
 
@@ -217,9 +222,9 @@ Because of this, there is very little point having decentralization in half meas
 
 Unforunately, within the cryptocurrency ecosystem the importance of _Decentrlaization Maximalism_ is not wideley understood or adopted, such that the term _Decentralization Theatre_ has become a common throwdown for many _so-called_ decentralized systems.
 
-In reality these projects have subtle but highly centralized single points of failure somewhere within their system, but promoters focus on other "decentrazlied" parts of the project, an effective tactic due to the technical skill required to evaluate the system as a whole.
+In reality these projects have subtle but highly centralized single points of failure somewhere within their system, but promoters focus on other "decentrazlied" parts of the project, which is an effective tactic, as proving that a system has been captured by centralization is very difficult or impossible due to the technical skill and insider knowledge required to evaluate the system as a whole.
 
-Like a building made entirely of steel apart from one column made of cardboard, on the surface things might seem properly built, but on closer inspection, there is a glaring flaw that will only cause ruin to those who expect the project to stand the test of time.
+Like a building made entirely of steel apart from one column made of cardboard, on the surface things might seem properly built, but on closer inspection, there is a glaring flaw that will only lead to ruin, and will likely end up causing damage to those who expect the project to stand the test of time.
 
 _image of someone about to place final card on house of cards and it falls_
 
@@ -237,26 +242,30 @@ Because single points of failure can exist in many areas and are often hidden, a
 
 - Toxicity as a immune response (vs sowing division)
 
-### Protocol Neutrality, Project Competition and Natural Contribution
+### The Neutrality Competition
 
-Rather than a Foundation consisting of people, some projects have a foundation that is rooted in philosophy; immportal principles rather than temporal bags of flesh. A foundation of ideas rather than people means that for time immemorial _any_ group or individual can fill any role they like, and can so without permission or being directed by any central authority.
+As the night is young in the blockchain game, The [Ephemeral Foundation](#the-ephemeral-foundation) problem may not be so obvious. Whether conned, crushed, or captured, the noble forces that run the show for many blockchain projects are certain to come to an end, and with them, if their chains are not able to shed reliance, so does their mission.
 
-In the future, as projects that rely on centralized oranizations one by one bite the dust and it is generally recognised that only projects without this reliance can sustain themselves for long periods, it will become more obvious that _only_ these projects are worth contributing to.
+This problem is made worse when decision making systems with a blockchain project rely on a central group for extended periods; alternative mechanisms for organizing the project are unable to evolve, as deicion making is expected to come from the top down rather than bottom up. Opaque autocracy becomes the standard means of decision making within a project, which ossiffies and becomes fragile, rather than allowing for an anti-fragile open meritocracy to evolve and flourish.
 
-For these types of projects, instead of relying on artificial cash injections that are finite and handed out from some central authority, contributions are financied naturally through a _Buy and Contribute_ strategy. The...
+This manifests in yet another instance of the cetnralization gravity well, where reliance on decision making snowballs to be increasingly centralized as outside contribution becomes increasingly difficult, meaning the project relies more on centralized decision making, and the cycle repeats.
 
-Projects that have an overreliance on a central foundation are seldom able to free themselves of this reliance, and do not evolve to be sustainable becauses they are not perceived to be neutral.
+Blockchain projects that expect to survive longer your average company must not be reliant on any central group for decision making, and the only real alternative to this is to not have a central "foundation" calling the shots at all. Instead, rather than a Foundation consisting of people that is the source of direction for the project, some projects have a foundation that is rooted more deeply; it anchors itself to an immortal set of principles and ideas rather than temporal bags of flesh.
+
+A _foundation of ideas rather than people_ means that for time immemorial _any_ group or individual can fill any role they like, and can so so without permission or being directed by any central authority.
+
+In the future, projects that rely on centralized oranizations will fall victim to this reliance and the truth will be realized that only projects _without_ depending institutions can sustain themselves for long periods. In turn, it will become increasingly obvious that only these decentralized projects are worth contributing money, talent or time to, and as the wild valuations that cryptocurrencies currently enjoy is dependant on the hope that these projects have some degree of longevity, the market will follow suit.
+
+Only the projects with long term value propositions will remain, which means only the projects without a reliance on central organizing comittees will remain.
+
+Instead of relying on artificial cash injections that are finite and handed out from some central authority, these projects will rely on contributions financied naturally, such as through the _Buy and Contribute_ strategy.
+
+TODOD buy and contribute quickly.
 
 - Neturality Niche
 - Evolves naturally sustainable development incentives based on meritocracy
 
-- If a foundation runs out of money, is hacked, or simply disappear, an over-reliance on this source of founds will prove to be a hinderance .
-
 Blockchain is a unqiue technology because this coordination problem can be solved through the _Buy and Contribute_ strategy, which incentivises contributions without a central Aritifical source of funding for the project. The overreliance on artificial funding is difficult to detect... blah blah.
-
-When the cash runs out, the development that was reliant on this will disappear, and unlike other chains that never had this artificial cash source, alternative funding models have evolved.
-
-More importantly, what drives deicion making on this new orphaned project? Without a set of guiding principles to follow, it will surely devlolve into a kleptocratic race to the bottom to pillage the corpse of whatever value remains.
 
 ## ETH + BTC = ETC
 
