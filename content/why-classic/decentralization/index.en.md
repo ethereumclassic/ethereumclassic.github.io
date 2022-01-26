@@ -4,6 +4,12 @@ updated: 2021-11-30
 disclaimer: opinion
 ---
 
+TODO: somewheere: s few questions that amsall time supporter of pos chains can ask to royall lpiss off the establishment
+
+TODO: imageary of the various layers PoW, Social Layer, etc.
+
+TODO nakamoto coefficient
+
 Since the stormy days of The DAO Fork, Ethereum Classic has persisted and it's community has coaleased around a number ideas, with the most fundamental but difficult to pin down being _decentralization_.
 
 > Decentralized, Immutable, Unstoppable.
@@ -176,7 +182,7 @@ In any case, because of the inherant trade-offs required in Proof of Stake syste
 
 Corruption is a problem as old as civilisation, and whilst it might not have obviously reared it's ugly head in the cryptocurrency space yet, as the technology becomes more influential, it will attract forces that wish to bridle it's power and shape it towards a future where, far from liberating humanity, blockchains become tools for optimizing enslavement.
 
-Luckily a window of opporunity exists to counter the inevitable ongoing attempts to capture blockchais; for now, projects that strive for _decentrlization maxlimalism_ still exist and are available to those who wish to use them.
+In the long run, whatever happens decentralized blockchains will prevail eventually, but if humanity wishes to avoid a dark-ages style period of hampered innovation and stagnation, the woird must be spread about the dangers of centralization. Luckily a window of opporunity exists to counter the inevitable ongoing attempts to capture blockchais; for now, projects that strive for _decentrlization maxlimalism_ still exist and are available to those who wish to use them.
 
 While it's still voluntary, rather than relying on authority figures or marketing campaigns, individuals can reason from first principles and reflect on lessons from the past to reach their own conclusions about which blockchains are likely to provide long term value and are worth interacting with. By going "back to the roots" of not just blockchain technology, but Austrian economic theory and ultimately the primatives of reason itself, the wisdom in the designs decisions behind Bitcoin become clear, and this logic can be reappllied to other technological advancements in the space, including Smart Contract Platforms such as Ethereum (Classic).
 
@@ -232,40 +238,31 @@ _image of someone about to place final card on house of cards and it falls_
 
 _Decentralization maximalism_ is not a predefined set of rules, but is a general philosophy or way of thinking that seeks to reduce the number of central points of failure throughout a system.
 
-Decentralization should be persued holistically in all areas, both in deisigning the protocol itself and in the social layer, where possible. The goal is to make not just the protocol itself secure from take-over, but also the social layer be secure from [meatspace capture](/#meatspace-capture). Satoshi being anonymous and going silent is an example of this philosophy being applied to the Bitcoin project.
+Decentralization should be persued holistically in all areas, both in deisigning the protocol itself and in the social layer, where possible. The goal is to make not just the protocol itself secure from take-over, but also the social layer be secure from [meatspace capture](/#meatspace-capture). Satoshi being anonymous and going silent is the classic example of this philosophy being applied to the Bitcoin project.
 
-Where it makes sense, by definition this appraoch demands _no compromise_; even the smallest of sacrifices, infractions or exceptions are, unless completely unavoidable, intolorable. As centralization is difficult to get rid of if a system depends on it, it typically accumulates over time, and will pile up until the system is captured in one way or another.
+Where it makes sense, by definition this appraoch demands _no compromise_; even the smallest of sacrifices, infractions or exceptions should be, unless completely unavoidable with some overall worthwhile trade-off, intolorable ; TODO limiting function?. As centralization is difficult to get rid of if a system depends on it, it typically accumulates over time, and will pile up until the system is captured in one way or another.
 
 Whatever the crossroad, _Decentralization Maximalism_ requires eternal vigilance and the knowledge that systems naturally tend towards centralization, so every decision that is made must take into account of the cost paid in centralization debt, with the goal of keeping the system debt-free long term.
 
-Because single points of failure can exist in many areas and are often hidden, all things being equal, it is easier to maintain decentralization in systems that are _less complex_. Additional complexity not just creates more potential for technical bugs and exploits, but also for central points of failure, in unforseen game-theory quandries and in the form of higher upkeep requirements leading to a reduced pool of developers able to contribute to maintenance; if a system is too complex for anyone to reason with, it may as well be captured by it's authors, who have sole authority on how it should be operated.
-
-- Toxicity as a immune response (vs sowing division)
-
 ### The Neutrality Competition
 
-As the night is young in the blockchain game, The [Ephemeral Foundation](#the-ephemeral-foundation) problem may not be so obvious. Whether conned, crushed, or captured, the noble forces that run the show for many blockchain projects are certain to come to an end, and with them, if their chains are not able to shed reliance, so does their mission.
+As the night is young in the blockchain game, The [Ephemeral Foundation](#the-ephemeral-foundation) problem may not be so obvious. Whether conned, crushed, or captured, the noble forces that run the show for many blockchain projects are certain to come to an end, and with them, if their chains are not able to shed reliance, so do their ambissions.
 
-This problem is made worse when decision making systems with a blockchain project rely on a central group for extended periods; alternative mechanisms for organizing the project are unable to evolve, as deicion making is expected to come from the top down rather than bottom up. Opaque autocracy becomes the standard means of decision making within a project, which ossiffies and becomes fragile, rather than allowing for an anti-fragile open meritocracy to evolve and flourish.
+This problem is made worse when decision making systems with a blockchain project rely on a central group for extended periods; alternative mechanisms for organizing the project are unable to evolve, as deicion making is expected to come from the top down rather than bottom up. Opaque autocracy becomes the standard means of decision making within a project, which ossiffies and becomes fragile, rather than allowing for an anti-fragile open meritocracy to flourish.
 
-This manifests in yet another instance of the cetnralization gravity well, where reliance on decision making snowballs to be increasingly centralized as outside contribution becomes increasingly difficult, meaning the project relies more on centralized decision making, and the cycle repeats.
+This manifests in yet another instance of the cetnralization gravity well, where reliance on decision making snowballs to be increasingly centralized as outside contribution becomes increasingly difficult, so the project relies even more on centralized decision making, and the cycle repeats.
 
-Blockchain projects that expect to survive longer your average company must not be reliant on any central group for decision making, and the only real alternative to this is to not have a central "foundation" calling the shots at all. Instead, rather than a Foundation consisting of people that is the source of direction for the project, some projects have a foundation that is rooted more deeply; it anchors itself to an immortal set of principles and ideas rather than temporal bags of flesh.
+Blockchain projects that expect to survive longer your average grey market company must not be reliant on any central group for decision making, and the only real alternative to this is to not have a central "foundation" calling the shots at all. Instead, rather than a Foundation consisting of people that is the source of direction for the project, some projects have a foundation that is rooted more deeply; it anchors itself to an immortal set of principles and ideas rather than temporal bags of flesh.
 
-A _foundation of ideas rather than people_ means that for time immemorial _any_ group or individual can fill any role they like, and can so so without permission or being directed by any central authority.
+A _foundation of ideas rather than people_ means that for time immemorial _any_ group or individual has the ability to fill any role they like, and can so so without permission or being directed by any central authority, but these ideas and the bottom up mechanism it enables cannot appear immedaitely, and can only emerge from an environment that encourages it.
 
-In the future, projects that rely on centralized oranizations will fall victim to this reliance and the truth will be realized that only projects _without_ depending institutions can sustain themselves for long periods. In turn, it will become increasingly obvious that only these decentralized projects are worth contributing money, talent or time to, and as the wild valuations that cryptocurrencies currently enjoy is dependant on the hope that these projects have some degree of longevity, the market will follow suit.
+In the future, projects that rely on centralized oranizations will ony by one fall victim to this reliance, and the truth will be realized that only projects _without_ depending institutions can sustain themselves for long periods. In turn, it will become increasingly obvious that only these decentralized projects are worth contributing money, talent or time to, and as the wild valuations that cryptocurrencies currently enjoy is dependant on the hope that these projects have some degree of longevity, the market will reallocate accordingly.
 
-Only the projects with long term value propositions will remain, which means only the projects without a reliance on central organizing comittees will remain.
+Only the projects with long term value propositions will remain, which means only the projects without a reliance on central organizing comittees will remain. By the same logic, it will become apparent that, all things being equal, the projects that are perceived to be the _least_ dependent, will attract the most contribution and value.
 
-Instead of relying on artificial cash injections that are finite and handed out from some central authority, these projects will rely on contributions financied naturally, such as through the _Buy and Contribute_ strategy.
+Instead of relying on artificial cash injections that are finite and handed out from some central authority, projects must evolve to exist purely on natural contributions, such as those through the _Buy and Contribute_ strategy, wherebuy individuals buy in to a project and economically incentivise themselves to contribute to it.
 
-TODOD buy and contribute quickly.
-
-- Neturality Niche
-- Evolves naturally sustainable development incentives based on meritocracy
-
-Blockchain is a unqiue technology because this coordination problem can be solved through the _Buy and Contribute_ strategy, which incentivises contributions without a central Aritifical source of funding for the project. The overreliance on artificial funding is difficult to detect... blah blah.
+This strategy works best when an individual is reaping the full reward of their contribution, which can only happen when a protocol is _netural_, in that it treats all praticipants on the same equal footing, and does on a protocol layer grant any special privilidges to specific parties. Decentralized blockchain projects will compete with each other on this basis; only the most netural projects, those without a Foundation, Dev Tax, or undiluted premine, will attract the type of natural contribution that enables long term sustainability.
 
 ## ETH + BTC = ETC
 
@@ -313,7 +310,46 @@ Many in the Ethereum Classic community are also wary of attempts to increase the
 
 There is general agreement that a layered approach to scaling blockchains is able to increase throughput while satisfying the _Blockchain Trilemma_ in a way that does not mess with the base layer; individuals are free to experiment with different "L2" systems that provide various tradeoffs depending on the application and user requirements.
 
+### KISS
+
+The base layer needs to be secure in a number of ways; both technologically stable in terms of fewer bugs, but also socioeconomically secure against various forms of attacks.
+
+Because single points of failure can exist in many areas and are often hidden, all things being equal, it is easier to maintain decentralization in systems that are _less complex_. Additional complexity not just creates more potential for technical bugs and exploits, but also for central points of failure, in unforseen game-theory quandries and in the form of higher upkeep requirements leading to a reduced pool of developers able to contribute to maintenance; if a system is too complex for anyone to reason with, it may as well be captured by it's authors, who have sole authority on how it should be operated.
+
+Bitcoin, as with ETC, positions itself as the "good old reliable" system that does not need to innovate quickly, but instead, do so slowly and methodically without breaking any of it's previously established guaruntees. This is acheived through a conservative appraoch to protocol upgrades, a "Move Slowly and Don't Break Things" ethoss, and the delivery of innovation in layers, rather than to attempting to implement radical changes to the base protocol.
+
+### Don't Trust, Verify
+
+One of the hallmarks of projects that are decentralized in the social layer is that a healthy level of distrust exist amongst participants. Whilst this may sound counter-intuitive, it is what secures the social layer against many forms of attack.
+
+At any point, any individual could become compromised, so all participants must maintain an ever-skeptical perspective in communications and decision making, judging _ideas_ rather than indivudals and reputations. To do otherwise is to make one of the key failures of centrlaized decision making, which may be expedient, but is fragile, as when decisions are made based on authority rather than merit alone, it allows bad decision to not just occur occasionally, but continue unchecked, double-downed on, and snowball out of control.
+
+It is this reason that the concept of "Toxic Bitcoin Maximialism" as a general appraoch to the adversarial cryptocurrency social space remains an open debate and is considered by some to be an honest, valid, albeit unsavory strategy for navigating discussions. Some consider toxicity a form of immune response that weeds out certain types of smooth-talking bad actors who rely on populism to forward a particular idea. Toxicity is not compatible with all personalities, and the Etheruem Classic has it's fair share of both toxic and non-toxic participants. Be advised that it in most cases, abrasiveness in the cryptocurrency space is not personal, but on the contrary, about defaulting to a purely idea-based rather than personality-based discussion.
+
+### Sound Money
+
+Sound Money intro...
+
+In the context of blockchains, Sound Money plays another critical roale, as it is the basis for keeping a project decentralized, as it is the common agreement that all participants agree to, and as an agreement that remains static and unbroken, keeps all parties aligned economically and prevents any groups from accumulating undue influence over others.
+
+The cornerstone of this is the emissions curve; ETC, like bitcoin, has a known future supply.
+
+Last but not least for the .
+
+- Counters "ultrasound" modern money theory
+- Inflation won't happen becasue we've rebranded it.
+
+- It doesn't matter how much you rebrand, the fundamentals are the same. The only way to prevent abuse is to have a pre-agreeed emission schedule.
+- Most blockchains at least understand the imporance of having a predefined emisison schedule. Etheruem very toxicly and dangerously suggests that no, all blockchaims have fundamentally infinite inflation. No that's not right.
+
+The decision to implement a hard fork, at least with proof of work, can only be considered succesful the second chain has no value.
+
+- Austrian Economics
+- etcis.money
+
 ### Proof of Work
+
+The final and most important element that Etherem Classic has comitted to is Proof of Work.
 
 The application of Proof of Work as a consensus mechanism for Blockchain was the keystone crowning acheivement in the genious that was the design of Bitcoin, for the first time solving the Byzantine Generals Problem and providing a solution Double Spends.
 
@@ -330,21 +366,6 @@ Another of the technological experiments persued by Ethereum that was rejected b
 - Separation of Responsibilities
 
 How do we prevent this from happening in ETC? by defending our principles.
-
-### Sound Money
-
-Last but not least for the .
-
-- Counters "ultrasound" modern money theory
-- Inflation won't happen becasue we've rebranded it.
-
-- It doesn't matter how much you rebrand, the fundamentals are the same. The only way to prevent abuse is to have a pre-agreeed emission schedule.
-- Most blockchains at least understand the imporance of having a predefined emisison schedule. Etheruem very toxicly and dangerously suggests that no, all blockchaims have fundamentally infinite inflation. No that's not right.
-
-The decision to implement a hard fork, at least with proof of work, can only be considered succesful the second chain has no value.
-
-- Austrian Economics
-- etcis.money
 
 ## Conclusion
 
