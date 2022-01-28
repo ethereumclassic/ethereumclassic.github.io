@@ -2,6 +2,7 @@
 title: Decentralization
 updated: 2021-11-30
 disclaimer: opinion
+seo: A thesis explaining the decentralist values that underpin Ethereum Classic's principles and core value proposition which enable it to deliver a bright future, in contrast to the dark path of centralization taken by Etheruem.
 ---
 
 TODO: somewheere: s few questions that amsall time supporter of pos chains can ask to royall lpiss off the establishment
@@ -168,6 +169,7 @@ https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of
 - Socially Scalable
 - Balance of Power
 - Nothing at Stake
+- Miner Attrition
 - Permissioned Onboarding
 - The Rich Get Richer
 - Staking is a form of Rent Seeking

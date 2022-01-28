@@ -1,8 +1,9 @@
 __contribute: true
-__disclaimer: verify
 title: Clients
-meta: Download links for various Ethereum Classic clients and deployment tools
+seo: Download links for various Ethereum Classic clients and deployment tools
 description: |
+  TODO: rewrite this, remove version numbers...
+
   Clients are the protocol providing software of the Ethereum Classic protocol. Clients allow you to run a mainnet or testnet node, validate blocks through mining, and interface with the network through API.
 
   You can find additional tools to help manage client deployments in the [tooling](/development/tooling) section.

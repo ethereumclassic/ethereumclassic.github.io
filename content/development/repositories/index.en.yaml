@@ -1,5 +1,6 @@
 title: Git Repositories
 description: A hodepodge of miscellaneous open source repositories for Ethereum Classic developers.
+contribute: true
 items:
   repos:
     type: links

@@ -42,6 +42,7 @@ PREFLIGHT
 
 ~~~ 3022.V1.1 I18N ~~~
 
+- add an overlay for meta tags that are obvious
 - check all content keys are underscored correctly
 - Add comment to all YAML files explaining format __
 - i18n contributions flow

@@ -2,7 +2,7 @@ __contribute: true
 __disclaimer: verify
 __contributors: ["IstoraMandiri"]
 title: Development Guides
-meta: This section section a selection of tutorials and explainers for both beginners and advanced developers.
+seo: This section section a selection of tutorials and explainers for both beginners and advanced developers.
 description: |
   The process of authoring and deploying Smart Contracts to Ethereum Classic is the same as it is for Ethereum. One of Ethereum Classic's goals is to maintain compatibility with ETH, so that any contract deployed to Ethereum can be easily redeployed to Ethereum Classic.
 

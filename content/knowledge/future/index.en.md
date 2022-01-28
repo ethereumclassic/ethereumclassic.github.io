@@ -3,7 +3,7 @@ contribute: true
 contributors: ["IstoraMandiri"]
 updated: 2022-01-01
 title: Future Classic
-description: An overview of Ethereum Classic's origins, history and future development roadmap
+seo: An overview of the future development roadmap and how decisions are made in the Ethereum Classic ecosystem, based on it's history, principles.
 disclaimer: opinion
 ---
 

@@ -28,12 +28,17 @@ export default function Seo({ data, i18n, path, pageContext: { basePath } }) {
   const updated = data?.mdx?.meta?.updated || i18n.updated;
   const published = data?.mdx?.meta?.published || i18n.published;
   const description = [
-    data?.mdx?.meta?.description,
+    data?.mdx?.meta?.seo,
+    i18n.seo,
     i18n.description,
     data?.mdx?.excerpt,
     ui.description,
-  ].find((i) => i);
+  ]
+    .find((i) => i)
+    .slice(0, 250)
+    .replace(/\n/g, "");
 
+  console.log(url, description);
   let category = "general";
   if (basePath.startsWith("blog/")) {
     category = "blog";
