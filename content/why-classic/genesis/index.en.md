@@ -2,9 +2,8 @@
 title: Genesis
 updated: 2021-12-18
 disclaimer: opinion
+info: "**Disclaimer:** The events outlined in this story are believed to be accurate, but some of the details were unable to be verified fully as first hand sources were deleted or otherwise lost to history. If any facts are disputed or additional sources become available, corrections are welcome."
 ---
-
-TODO: add accuracy disclaimer
 
 Ethereum Classic's miraciulous origin story will surely be referenced by future crypto historians as a case study that illuminates the sociotechnological fabric of blockchains. Like a Large Hadron Collider experiment, _the incident_ that birthed ETC tore apart what was previously considered a more or less atomic entity, permenantly splitting the Ethereum project in two, and scattering a cascade of valuable insights to observers.
 

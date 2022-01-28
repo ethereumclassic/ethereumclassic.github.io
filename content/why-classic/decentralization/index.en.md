@@ -158,20 +158,21 @@ But there is no such thing as a free lunch, and after many years of theorizing a
 
 https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/
 
+- Self-Refferential Security
+- 33% Attacks vs 51% Attacks
 - Centralization of staking on Exchanges
-- Fault taulorance: 33% Attacks
 - Subjective fork choice
 - Unforgible costilness
-- [Censorable](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Stake-Fallacy)
+- [More Censorable](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Stake-Fallacy)
 - Accumulated Work
-- Block Creator Location
 - Socially Scalable
 - Balance of Power
-- Permissioned
 - Nothing at Stake
-- Rich Get richer
+- Permissioned Onboarding
+- The Rich Get Richer
+- Staking is a form of Rent Seeking
 - Race to the bottom inflation (capital liquid compared to hardware)
-- No dispute resolution mechanism
+- No dispute resolution mechanism via Chain Split
 - Becuase the default rules of a hard fork are to "Do nothing", this means the defending side of a fork in Proof of Stake requries to do a hardfork to avoid being slashed on the new chain, whereas the new chain can enjoy either slashing or no-slashing options. The major dispute resolution mechanism
 
 For all these known downsides, projects that _still_ opt for Proof of Stake must either be _extremely_ concerned about energy usage, or possibly more beleivably, are primarily concerned that that staking will economically benefit stakers. But this concern itself is misguided, as a project can only have long term value if it provides utility, and this is undermiend by Proof of Stake.
@@ -328,34 +329,34 @@ It is this reason that the concept of "Toxic Bitcoin Maximialism" as a general a
 
 ### Sound Money
 
-Sound Money intro...
+The backbone of strong economies, the provider of stability, the incentiviser of long term time preference, the creator of prosperity. Sound Money is the antitode to many of the problems created by the abuses of centralization in the wider world, and is the core concept that spurred on the creation of Bitcoin.
 
-In the context of blockchains, Sound Money plays another critical roale, as it is the basis for keeping a project decentralized, as it is the common agreement that all participants agree to, and as an agreement that remains static and unbroken, keeps all parties aligned economically and prevents any groups from accumulating undue influence over others.
+It is from the [Austrian School of Economics](https://mises.org/topics/bitcoin) that many of the theories behind Bitcoin, including [Sound Money](https://mises.org/library/principle-sound-money), saw their philosophical gestation. Decades before Bitcoin was technologically conceivable, economists suchas Ludwig von Mises, Fredreick Hayak and Milton Friedman were professing the dangers of fiat money and advantage of systems of finance that are free from manipulation by central authorities.
 
-The cornerstone of this is the emissions curve; ETC, like bitcoin, has a known future supply.
+It was identified that for economies to function over time, their monetary unit must be able to act as a reliable medium of exchange and store of value, by exhibiting the following [properties](https://cryptowhat.com/properties-of-sound-money/), which were intentionally engineered into the design of Bitcoin, and inherited by ETC:
 
-Last but not least for the .
+- Divisibility: ETC is divisible up to 18 decimal places. This means that ETC can be split into 1,000,000,000,000,000,000 smaller units if needed. Denominations of ETC can be written in wei, the smallest ETC unit currently available.
+- Transferability: Since ETC isn’t tied to any banks or governments, it’s easily transferable across countries and between users on a global scale. This gives ETC an advantage over paper money and precious metals, which aren't as easily transferable across long distances.
+- Fungibility: Each ETC is worth exactly what it’s valued at on the market. One ETC won’t have different values based on previous ETC transactions—unlike some currencies where older bills are often worth less than newer ones. This is called fungibility, and it’s a property ETC shares with physical commodities like gold and silver.
+- Durability: ETC is incredibly durable. It is ultimately just information, so it can be stored on a computer or in a digital wallet, or even offline on a piece of paper or metal. This makes ETC much more durable than traditional forms of money like paper currency which can be easily destroyed or lost.
+- Portability: ETC is highly portable. You can carry it on a thumb drive, phone,write it down on paper, or just remember it as a seed phrase!
+- Scarcity: ETC has a finite supply which will be released over time. This makes ETC more scarce than most other forms of currency.
 
-- Counters "ultrasound" modern money theory
-- Inflation won't happen becasue we've rebranded it.
+ETC has all of the properties of sound money. It’s decentralized, free from political influence and banking regulations, divisible, transferable, fungible, durable and scarce.
 
-- It doesn't matter how much you rebrand, the fundamentals are the same. The only way to prevent abuse is to have a pre-agreeed emission schedule.
-- Most blockchains at least understand the imporance of having a predefined emisison schedule. Etheruem very toxicly and dangerously suggests that no, all blockchaims have fundamentally infinite inflation. No that's not right.
+The cornerstone of a blockchain's sound monetary policty is scarcity via a _fixed emission curve_. Just like Bitcoin, but [unlike Ethereum](#unsound-money), Ethereum Classic has a _known future supply_, which means that holders of ETC can accurately calculate the total amount of ETC in existence at any point in time; past, present and future.
 
-The decision to implement a hard fork, at least with proof of work, can only be considered succesful the second chain has no value.
+A fixed emissions curve means that the rate of inflation is predictable and continually decreasing over time. As the value of the network increases, the value of all ETC increases according to this rate, rather than some unknown future rate that could be much higher.
 
-- Austrian Economics
-- etcis.money
+ETC's commitment to a fixed emission curve is enshrined into both the protocol and it's social layer, and thanks to Proof of Work, any hard fork that attempts to manipulate inflation will result in a permenant chain split, massively disincentivising such a change to the point of it being _extremely_ unlikely to be contemplated, let alone attempted, let alone succesful.
+
+In the context of blockchains, a _known future supply_ not only provides a prosperous alternative to the legacy fiat system, but also a critical technical role in the systems that utilise it, as the basis for keeping a project decentralized. The monetary policy of a blockchain is a common agreement that all participants voluntary engage with, and it what keeps all parties aligned economically and prevents any groups from accumulating undue influence over others; it's unwavering neutrality is what keeps all participants on an equal footing.
 
 ### Proof of Work
 
-The final and most important element that Etherem Classic has comitted to is Proof of Work.
+Arguably the most important technical component of Etherem Classic (and all useful blockchains) is Proof of Work; the only known concensus mechanism that is able to provide the qualities needed to appraoch _Sovereign Grade_ decentralization. The application of Proof of Work as a consensus mechanism for Blockchain execution was the keystone crowning acheivement in the genious design of Bitcoin. It's applicaiton, for the first time, solved the [Byzantine Generals Problem](#TODo) and thus provided a decentralized [solution to double spending](#TODO), making blockchains possible.
 
-The application of Proof of Work as a consensus mechanism for Blockchain was the keystone crowning acheivement in the genious that was the design of Bitcoin, for the first time solving the Byzantine Generals Problem and providing a solution Double Spends.
-
-The misguided lack of humility in Proof of Stake attempts to "fix the problems" of Proof of Work fundamentally misses the point the sociotechnological problems that Bitcoin so elegantly solved, in what can only be described as a fool's errand that has already wasted far more energy than even the hungriest of mining farms.
-
-Another of the technological experiments persued by Ethereum that was rejected by ETC is that of Proof of Stake. As previously [disucssed](#PoS),
+Proof of Work is unique in that it is able to objectively bridge the gap between the "real world" and the "digital world" using the common language of CPU cycles, which when translated into hashrate, can be verified trustlessly by software. Blockchains that use Proof of Work rely on unforgeable measurements from outside the system to reach consensus about the state of interneal system, converting energy into security in the most direct and efficient way possible, whilst offloading the responsibiltiy and potential security concerns for generating that measurement to the outside world.
 
 - Externally sourced security
 - Permissionless
@@ -365,15 +366,28 @@ Another of the technological experiments persued by Ethereum that was rejected b
 - Fair Distribution (rich dont get richer)
 - Separation of Responsibilities
 
-How do we prevent this from happening in ETC? by defending our principles.
+One the technological experiments persued by Ethereum Foundation that was quickly rejected by the Ethereum Classic community in light of centralization risks, is that of Proof of Stake. As [previously disucssed](#PoS), PoS trades away many of the above qualities that Proof of Work can guaruntee in exchange for the promise of a ecological sustainabiltiy, a responsibility that is outside the scope of blockchain projects as it can be solved elsewhere via clean energy sources, [which are incentivised](#TODO) by Proof of Work mining.
+
+Proof of Work is very much like a combustion engine that consumes energy and converts it into useful work in the form of security for the chain against 51% attacks.
+
+![Proof of Work Engine](./engine.jpg)
+
+Instead of sourcing security from outside their system like Proof of Work, Proof of Stake blockchains determine their state by self-referencing this internal state, and as such onboards additional responsibilities and attack surfaces that can compromise how this measurement is generated. This self-referencing of security can be described as a kind of perpetual motion machine that breaks the laws of termodynamics; on the surface, the veil of complexity may trick observers into assuming it can self sustain for long period, but in reality, it is bound to quickly grind to a halt.
+
+![Proof of Stake Perpetual Motion Machine](./overbalance.jpg)
+
+The misguided hubris in Proof of Stake's attempts to fix the energy use "problem" of Proof of Work fundamentally misunderstands the sociotechnological issue that was so elegantly solved by Bitcoin, which solved the "oracle problem" by injecting an external source of truth into a digital system in a completely objective way. Proof of Stake's off-target attempts to chase the dragon of ever-more-complex implementations that recursively fix the problems they generate can only be described as a fool's errand, which has already wasted far more energy than even the hungriest of mining farms.
 
 ## Conclusion
 
-- ETH is already captured, see: The DAO
-- We are just waiting for that capturedness to express itself again
+If humanity wishes to avoid another dark age, it must embrace systems can that are able to resist the corrupt forces thretern to capture the future of blockchain technology. Only systems that strive for _decentrlization maximalism_ are able to acheive this, but of all blockchain projects that exist today, only a handful exhibit a recognition of this requirement.
 
-Reasoning from first principles, we arrive at the conclusion that Ethereum Classic is currently humanity's best bet, the rest will succumb to outside pressure, which will exploit any points of centralization
+The innovations that Ethereum brought to the world in the form of a Turing Complete Smart Contract Platform provide a great leap forward in terms of the utility and potential of blockchain uses cases, but as evidenced The DAO Fork and the switch to Proof of Stake, the direction the project is being taken makes it suceptible to capture and unable to acheive _Sovereign Grade Censorship Resistance_.
 
-In the the not too distant future, the need for will be all too clear. As blockchain projects one by one reveal their true colors and succum to corruption in the form of capture by special interests, only the truly decentralized will remain.
+In the the not too distant future, as attacks against blockchains ramp up, this need for will be all too clear. As one by one, so called decentralized projects reveal their true colors and succum to corruption in the form of capture by special interests, only the truly decentralized will remain.
+
+Etheruem Classic offeres an alternative to centralization by combining the technology of Etheruem with the philosophy of Bitcoin, for a secure, multipurpose, decentralized blockchain and a free, fair and flouorishing future.
+
+![ETH + BTC = ETC](./ethbtcetc.png)
 
 https://twitter.com/DocumentingBTC/status/1476582874983849987#m
