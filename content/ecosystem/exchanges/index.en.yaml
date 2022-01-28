@@ -482,6 +482,10 @@ content:
       link: https://coinlib.io/coin/ETC/Ethereum+Classic
       name: Coin Lib
     -
+      key: CoinLore
+      link: https://www.coinlore.com/coin/ethereum-classic
+      name: Coin Lore      
+    -
       key: CoinMarketCap
       link: https://coinmarketcap.com/currencies/ethereum-classic/
       name: Coin Market Cap
