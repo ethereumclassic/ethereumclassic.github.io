@@ -9,6 +9,8 @@
 https://github.com/Munter/netlify-plugin-checklinks
 
 
+- Hide TOC if onnly 1 item and add option to hide
+
 ORIGIN
 
 - Make it shorter, less than 15 minutes, but move out content to differente sections
