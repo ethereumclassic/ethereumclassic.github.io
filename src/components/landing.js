@@ -1,7 +1,6 @@
 import React from "react";
 import "twin.macro";
 
-import LandingBillboard from "./landingBillboard";
 import Link from "./link";
 
 import Md from "./markdownDynamic";

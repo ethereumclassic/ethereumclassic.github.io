@@ -34,7 +34,7 @@ export default function Content({ data = {}, i18n = {}, children, max }) {
   return (
     <TwContainer grid>
       {showLeft && (
-        <div tw="hidden md:block md:col-span-3 lg:col-span-2 md:mr-10 lg:mr-0">
+        <div tw="hidden md:block md:col-span-3 lg:col-span-2 md:mr-10 lg:-mr-3">
           <nav tw="sticky top-28 mt-10 md:mt-14">
             <ContentSidebarVertical items={sub.navItems} />
           </nav>

@@ -18,7 +18,7 @@ function RandomWords({ words }) {
 
 function Text({ text, randomWords }) {
   return (
-    <div tw="flex flex-col space-y-4 font-display tracking-wider font-bold text-4xl md:text-5xl lg:text-6xl text-center sm:text-left text-primary-lightest dark:text-primary-darkest">
+    <div tw="flex flex-col space-y-4 font-display tracking-wider font-bold text-6xl md:text-5xl lg:text-6xl text-primary-lightest dark:text-primary-darkest">
       {text.split("%%").map((str) =>
         str === "$$" ? (
           <RandomWords key={str} words={Object.values(randomWords)} />
@@ -43,7 +43,7 @@ function LandingArtworkInner({ i18n }) {
       <TwContainer tw="h-full">
         <div tw="relative pointer-events-none">
           {/* BG CIRCLE */}
-          <div tw="absolute top-[-30rem] -left-2/4 opacity-40">
+          <div tw="absolute top-[-32rem] -left-2/4 opacity-40">
             <StaticImage
               tw="dark:hidden"
               alt=""
@@ -71,43 +71,47 @@ function LandingArtworkInner({ i18n }) {
           </div>
           {/* BG BLURS LEFT */}
           <div tw="absolute -left-1/3 -top-72">
-            <Parallax speed={-3}>
-              <StaticImage
-                tw="dark:hidden"
-                alt=""
-                src="../images/banner/light mode/blurred spot.png"
-                placeholder="tracedSVG"
-                tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
-              />
-              <StaticImage
-                tw="light:hidden"
-                alt=""
-                src="../images/banner/dark mode/blurred spot.png"
-                placeholder="tracedSVG"
-                tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
-              />
-            </Parallax>
-          </div>
-          {/* HALO */}
-          <div tw="absolute left-11 top-10">
             <StaticImage
               tw="dark:hidden"
               alt=""
-              src="../images/banner/light mode/Halo effect.png"
+              src="../images/banner/light mode/blurred spot.png"
               placeholder="tracedSVG"
               tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
             />
             <StaticImage
               tw="light:hidden"
               alt=""
-              src="../images/banner/dark mode/Halo effect.png"
+              src="../images/banner/dark mode/blurred spot.png"
               placeholder="tracedSVG"
               tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
             />
           </div>
+          {/* HALO */}
+          <div tw="absolute left-11 top-10">
+            <Parallax
+              shouldAlwaysCompleteAnimation
+              translateY={[0, 20]}
+              opacity={[1, 0]}
+            >
+              <StaticImage
+                tw="dark:hidden"
+                alt=""
+                src="../images/banner/light mode/Halo effect.png"
+                placeholder="tracedSVG"
+                tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
+              />
+              <StaticImage
+                tw="light:hidden"
+                alt=""
+                src="../images/banner/dark mode/Halo effect.png"
+                placeholder="tracedSVG"
+                tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
+              />
+            </Parallax>
+          </div>
           {/* GRID */}
           <div tw="absolute top-80 -left-1/4">
-            <Parallax opacity={[1, 0]} shouldAlwaysCompleteAnimation>
+            <Parallax shouldAlwaysCompleteAnimation opacity={[1, 0]}>
               <StaticImage
                 tw="dark:hidden"
                 alt=""
@@ -126,7 +130,11 @@ function LandingArtworkInner({ i18n }) {
           </div>
           {/* WAVE */}
           <div tw="absolute top-96 -left-32 -right-32">
-            <Parallax speed={-7} opacity={[2, 0]}>
+            <Parallax
+              shouldAlwaysCompleteAnimation
+              translateY={[0, 80]}
+              opacity={[1, -1]}
+            >
               <StaticImage
                 tw="dark:hidden"
                 alt=""
@@ -145,7 +153,11 @@ function LandingArtworkInner({ i18n }) {
           </div>
           {/* LOGO  */}
           <div tw="absolute left-10 top-40">
-            <Parallax speed={-18} opacity={[5, -0.2]}>
+            <Parallax
+              shouldAlwaysCompleteAnimation
+              translateY={[0, 60]}
+              opacity={[2, -2.5]}
+            >
               <StaticImage
                 tw="dark:hidden"
                 alt=""
@@ -162,13 +174,13 @@ function LandingArtworkInner({ i18n }) {
               />
             </Parallax>
           </div>
-          {/* CUBE 1 */}
+          {/* CUBE RIGHT */}
           <div tw="absolute right-20 top-20">
             <Parallax
+              shouldAlwaysCompleteAnimation
               translateY={[0, 400]}
               opacity={[1, 0]}
               rotate={[0, 500]}
-              shouldAlwaysCompleteAnimation
             >
               <StaticImage
                 tw="dark:hidden"
@@ -186,9 +198,14 @@ function LandingArtworkInner({ i18n }) {
               />
             </Parallax>
           </div>
-          {/* CUBE 2 */}
+          {/* CUBE LEFT */}
           <div tw="absolute top-96 left-10">
-            <Parallax speed={-20} rotate={[120, -120]} opacity={[2, 0]}>
+            <Parallax
+              shouldAlwaysCompleteAnimation
+              translateY={[0, 180]}
+              rotate={[120, -120]}
+              opacity={[2, 0]}
+            >
               <StaticImage
                 tw="dark:hidden"
                 alt=""
@@ -207,7 +224,11 @@ function LandingArtworkInner({ i18n }) {
           </div>
           {/* STARS LEFT */}
           <div tw=" absolute left-36 top-10">
-            <Parallax speed={4} opacity={[2, 0]}>
+            <Parallax
+              shouldAlwaysCompleteAnimation
+              translateY={[0, -40]}
+              opacity={[2, 0]}
+            >
               <StaticImage
                 tw="dark:hidden ml-10"
                 alt=""
@@ -226,7 +247,11 @@ function LandingArtworkInner({ i18n }) {
           </div>
           {/* STAR RIGHT */}
           <div tw="absolute right-0 top-96">
-            <Parallax speed={8} opacity={[2, 0]}>
+            <Parallax
+              shouldAlwaysCompleteAnimation
+              translateY={[0, -60]}
+              opacity={[2, 0]}
+            >
               <StaticImage
                 tw="dark:hidden"
                 alt=""
@@ -244,7 +269,7 @@ function LandingArtworkInner({ i18n }) {
             </Parallax>
           </div>
           {/* TEXT */}
-          <div tw="absolute left-20 top-[32rem] md:top-40 md:left-2/4">
+          <div tw="absolute left-10 top-[32rem] md:top-44 md:left-2/4">
             <Text {...i18n} />
             {/* <StaticImage
               tw="dark:hidden"

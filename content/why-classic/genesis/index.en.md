@@ -360,7 +360,7 @@ The Hard Fork debate was essentially a complex [game of chicken](<https://en.wik
 
 Having drunk their own koolaid, many truly believed that anyone warning about a chain split were either allied with The Hacker or Bitcoin Maximalists who wanted to see Ethereum die. Forkers, fueled by a rational desire but misguided strategy to protect their wealth, were willing to spread and consume increasingly ridiculous propaganda that bolstered support for a Hard Fork, which compounded the effect.
 
-Their gamble did not pay off.
+The gamble did not pay off.
 
 The core misconception, which was reasonable at the time due to lack of past reference, was that the strategy of pretending a chain split would not happen would actually reduce the likelihood of a chain split happening; the hope was that if enough people could be influenced to abandon the unforked chain, it would die. As we know today, and after several prominent splits on other chains, this assumption has been proven inccorect, as it only takes a dedicated handful of individuals to continue a non-forked version of a blockchain, and market forces will merrily do the heavy lifting.
 
