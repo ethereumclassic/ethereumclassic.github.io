@@ -1,6 +1,6 @@
 ---
 title: Knowledge Base
-description: General information and explainers about various Ethereum Classic history and concepts
+seo: A hub of information about the History, Future, Philosophy and Economics of Ethereum Classic, documenting the why, how and where of the decentralized version of Ethereum.
 disclaimer: opinion
 ---
 

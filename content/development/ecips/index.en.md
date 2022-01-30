@@ -1,6 +1,6 @@
 ---
 title: ECIPs
-description: A summary of the Ethereum Classic Improvement Proposal (ECIP) process
+seo: A summary of the Ethereum Classic Improvement Proposal (ECIP) process
 license: CC-BY
 contribute: true
 ---

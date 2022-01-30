@@ -10,6 +10,12 @@ https://github.com/Munter/netlify-plugin-checklinks
 
 - Work in notes about mining hardware
 
+- Hide TOC if onnly 1 item and add option to hide
+
+ORIGIN
+
+- Make it shorter, less than 15 minutes, but move out content to differente sections
+- Less emphasis on inconcequential stuff, move all the "Neutral Foundation" to another section
 
 CONTENT
 
@@ -40,6 +46,7 @@ PREFLIGHT
 
 ~~~ 3022.V1.1 I18N ~~~
 
+- add an overlay for meta tags that are obvious
 - check all content keys are underscored correctly
 - Add comment to all YAML files explaining format __
 - i18n contributions flow

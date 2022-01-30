@@ -1,6 +1,6 @@
 ---
 title: The Basics
-description: A beginner's guide to Ethereum Classic (ETC); what it is and how to get it
+seo: A beginner's guide to Ethereum Classic (ETC); what it is and how to get it
 license: CC-BY
 ---
 

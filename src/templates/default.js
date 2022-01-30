@@ -22,8 +22,8 @@ export const pageQuery = graphql`
       }
       meta: frontmatter {
         title
+        seo
         license
-        description
         showNext
         date
         author
