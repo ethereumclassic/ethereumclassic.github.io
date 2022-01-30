@@ -8,18 +8,15 @@
 
 https://github.com/Munter/netlify-plugin-checklinks
 
+- Work in notes about mining hardware
 
-ORIGIN
-
-- Make it shorter, less than 15 minutes, but move out content to differente sections
-- Less emphasis on inconcequential stuff, move all the "Neutral Foundation" to another section
 
 CONTENT
 
+- Make it shorter, less than 15 minutes, but move out content to differente sections
+- Less emphasis on inconcequential stuff, move all the "Neutral Foundation" to another section
 - Spell check, content
-- Edit Genesis, Write Decentralization
-- Content!
-- copywriting
+- Mining Hardware
 - Github project issues
 - Ensure correct contributors for each piece of content (git blame)
 - i18n 404 redirects, make sure all old pages get redirected properly
@@ -30,6 +27,7 @@ CONTENT
 
 PREFLIGHT
 
+- Fonts
 - Videos for contributing
 - Update url refs from etc3022.netlify
 - Lighthouse

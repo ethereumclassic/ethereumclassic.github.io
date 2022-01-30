@@ -32,7 +32,7 @@ export default function ContentHeader({ mdx, i18n, pre, ...rest }) {
           <div tw="space-y-2">
             {preHeader && (
               <Link
-                tw="!text-primary-dark !no-underline text-xl leading-6 font-semibold tracking-wide uppercase"
+                tw="!text-primary-dark !no-underline text-xl leading-6 font-semibold font-display"
                 to={preHeader.link}
               >
                 {preHeader.title}

@@ -18,7 +18,7 @@ export default function ContentSubMenu({ items }) {
             {icon && (
               <Icon icon={icon} tw="h-20 opacity-10 absolute -right-1 -top-1" />
             )}
-            <div tw="font-bold text-lg">{longName || name}</div>
+            <div tw="font-bold text-lg font-display">{longName || name}</div>
             {description && <div tw="text-sm line-clamp-2">{description}</div>}
           </Link>
         );

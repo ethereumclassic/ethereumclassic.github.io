@@ -10,6 +10,15 @@ TODO: imageary of the various layers PoW, Social Layer, etc.
 
 TODO nakamoto coefficient
 
+- nakamoto coefficient (number of people neede to cbe compromised)
+- maximall decentralized systems
+-
+
+6 subsystem
+miners client developers exchanges nodes ownership
+
+cyber attacks
+
 Since the stormy days of The DAO Fork, Ethereum Classic has persisted and it's community has coaleased around a number ideas, with the most fundamental but difficult to pin down being _decentralization_.
 
 > Decentralized, Immutable, Unstoppable.
@@ -240,7 +249,7 @@ _Decentralization maximalism_ is not a predefined set of rules, but is a general
 
 Decentralization should be persued holistically in all areas, both in deisigning the protocol itself and in the social layer, where possible. The goal is to make not just the protocol itself secure from take-over, but also the social layer be secure from [meatspace capture](/#meatspace-capture). Satoshi being anonymous and going silent is the classic example of this philosophy being applied to the Bitcoin project.
 
-Where it makes sense, by definition this appraoch demands _no compromise_; even the smallest of sacrifices, infractions or exceptions should be, unless completely unavoidable with some overall worthwhile trade-off, intolorable ; TODO limiting function?. As centralization is difficult to get rid of if a system depends on it, it typically accumulates over time, and will pile up until the system is captured in one way or another.
+Where it makes sense, by definition this appraoch demands _no compromise_; even the smallest of sacrifices, infractions or exceptions should be, unless completely unavoidable with some overall worthwhile trade-off, intolorable ; TODO limiting principle, stopping criteria?. As centralization is difficult to get rid of if a system depends on it, it typically accumulates over time, and will pile up until the system is captured in one way or another.
 
 Whatever the crossroad, _Decentralization Maximalism_ requires eternal vigilance and the knowledge that systems naturally tend towards centralization, so every decision that is made must take into account of the cost paid in centralization debt, with the goal of keeping the system debt-free long term.
 

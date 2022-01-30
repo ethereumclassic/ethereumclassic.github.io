@@ -98,7 +98,9 @@ export default function AppsItemModal({ item, appType, trueCol }) {
               <span>{appType.name}</span>
               <FormattedDate date={date} />
             </div>
-            <div tw="text-2xl flex-auto text-shade-darkest">{title}</div>
+            <div tw="text-2xl flex-auto text-shade-darkest font-display font-bold">
+              {title}
+            </div>
             <div tw="text-xl text-shade-dark">
               {authorLink ? (
                 <Link showExternal to={authorLink}>

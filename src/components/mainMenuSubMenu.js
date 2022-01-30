@@ -18,7 +18,7 @@ const SubMenuItem = ({ item: { name, icon, link, description } }) => {
         aria-hidden="true"
       />
       <div tw="ml-4">
-        <p tw="text-base font-medium text-shade-darkest">{name}</p>
+        <p tw="text-base text-shade-dark font-bold font-display">{name}</p>
         <p tw="mt-1 text-sm text-shade-neutral">{description}</p>
       </div>
     </LocalizedLink>

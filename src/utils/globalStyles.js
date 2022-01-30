@@ -2,12 +2,14 @@ import React from "react";
 import { Global, css } from "@emotion/react";
 import tw, { theme, GlobalStyles as BaseStyles } from "twin.macro";
 
+import "../fonts/poppins.css";
+
 const customStyles = css`
   .light {
     --primary-darkest: ${theme`colors.green.900`};
     --primary-darker: ${theme`colors.green.800`};
     --primary-dark: ${theme`colors.green.700`};
-    --primary-neutral: ${theme`colors.green.400`};
+    --primary-neutral: ${theme`colors.green.500`};
     --primary-light: ${theme`colors.green.300`};
     --primary-lighter: ${theme`colors.green.100`};
     --primary-lightest: ${theme`colors.green.50`};
@@ -63,6 +65,16 @@ const customStyles = css`
   body {
     ${tw`bg-backdrop-dark text-shade-darkest antialiased`}
     -webkit-tap-highlight-color: var(--primary-light);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "Poppins";
+    font-weight: bold;
   }
 
   iframe {

@@ -61,13 +61,13 @@ module.exports = {
       options: require("./configs/rss")({ locales, defaultLocale, siteUrl }),
     },
     //  TODO, include once we have a banner iamge
-    // {
-    //   resolve: "gatsby-source-filesystem",
-    //   options: {
-    //     name: "images",
-    //     path: "./src/images/",
-    //   },
-    // },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "images",
+        path: "./src/images/",
+      },
+    },
     {
       resolve: "gatsby-source-filesystem",
       options: {

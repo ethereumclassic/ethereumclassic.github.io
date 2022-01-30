@@ -9,6 +9,9 @@ module.exports = {
   theme: {
     // actual colors defined in globalStyles.js
     extend: {
+      fontFamily: {
+        display: ["Poppins", "Helvetica", "sans-serif"],
+      },
       colors: {
         gray: { 950: "#0b101a" },
         shade: {

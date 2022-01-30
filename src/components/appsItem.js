@@ -74,7 +74,7 @@ export default function AppsItem({
           />
           <div tw="absolute inset-0 left-24 px-4 flex items-center">
             <div tw="w-full">
-              <div tw="text-lg line-clamp-2 leading-tight">{title}</div>
+              <div tw="font-bold line-clamp-2 leading-tight">{title}</div>
               <div tw="whitespace-nowrap opacity-60 overflow-hidden overflow-ellipsis">
                 {showType ? appType.name : author}
               </div>

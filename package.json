@@ -49,6 +49,7 @@
     "react-helmet": "^6.1.0",
     "react-instantsearch-dom": "^6.16.0",
     "react-markdown": "^7.1.1",
+    "react-scroll-parallax": "^3.0.1",
     "rehype-autolink-headings": "^6.1.0",
     "rehype-slug": "^5.0.0",
     "rooks": "^5.8.0",

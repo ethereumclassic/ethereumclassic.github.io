@@ -9,6 +9,7 @@ import TwContainer from "./twContainer";
 import LandingHeadlines from "./landingHeadlines";
 import LandingVideos from "./landingVideos";
 import LandingApps from "./landingApps";
+import LandingArtwork from "./landingArtwork";
 
 export default function Landing({
   data: { headlines, videos, apps },
@@ -16,7 +17,7 @@ export default function Landing({
 }) {
   return (
     <>
-      <LandingBillboard {...billboard} />
+      <LandingArtwork i18n={billboard} />
       <TwContainer tw="py-24 space-y-32">
         <LandingHeadlines items={headlines.edges} />
         <div tw="grid grid-cols-1 items-center gap-24 md:grid-cols-2">
