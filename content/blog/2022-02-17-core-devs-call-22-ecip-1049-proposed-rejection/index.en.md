@@ -11,7 +11,7 @@ tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 
 * [https://github.com/ethereumclassic/ECIPs/issues/460](https://github.com/ethereumclassic/ECIPs/issues/460)
 
-* When: Monday, February 17th, 2022, 17:00 UTC, 120 minutes max.
+* When: Monday, February 21st, 2022, 17:00 UTC, 120 minutes max.
 * Where: [Ethereum Classic Discord](https://ethereumclassic.org/discord), the mods will set up a voice channel for the call. Please mute your microphone unless you are talking for clear recording. Participation is encouraged.
 * Focus: REJECT SHA3-256/Keccak256 Mining Algorithm Change due to a high-probability risk of Contentious Chain Split between GPU Miners on ETCHash and FPGA & ASIC Miners on SHA3. ECIP-1049 is in violation of Ethereum Classic founding documents and the ECIP process. At this point, the contentious proposal has negative externalities on the network and is a resource drain. Move to reject the proposal after three years of technical discussion. If the proposal is not rejected, begin plans for a chain split.
 
