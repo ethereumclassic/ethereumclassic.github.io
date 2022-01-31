@@ -1,6 +1,6 @@
 ---
 title: "ETC Core Devs Call 22: ECIP-1049 Proposed Rejection"
-date: 2022-02-17
+date: 2022-02-21
 author: r0n1n
 tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ---
