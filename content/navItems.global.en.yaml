@@ -14,12 +14,18 @@ learn:
         genesis:
           __link: /why-classic/genesis
           name: Genesis
-        decentralization:
-          __link: /why-classic/decentralization
-          name: Decentralization
-        etcVsEth:
-          __link: /why-classic/etc-vs-eth
-          name: ETC vs ETH
+        decentralism:
+          __link: /why-classic/decentralism
+          name: Decentralism
+        soundMoney:
+          __link: /why-classic/sound-money
+          name: Sound Money
+        proofOfWork:
+          __link: /why-classic/proof-of-work
+          name: Proof of Work
+        # etcVsEth:
+        #   __link: /why-classic/etc-vs-eth
+        #   name: ETC vs ETH
     knowledge:
       __link: /knowledge
       __icon: hat

@@ -216,15 +216,17 @@ Another smoking gun that points to lack of neutrality from The Etheruem Foundati
 >
 > - [Poloniex](https://poloniexus.circle.com/press-releases/2016.07.26-responses-to-common-etc-questions/)
 
-Either way, ignoring conspiracy theories, the proof was in the puidding; those who pushed for the Hard Fork appeared [very happy](https://twitter.com/stephantual/status/743764898316877824) with Ethereum Foundation's "help" in implementing it.
+Either way, ignoring rumours and conspiracy theories, the proof was in the puidding; those who pushed for the Hard Fork appeared [very happy](https://twitter.com/stephantual/status/743764898316877824) with Ethereum Foundation's "help" in implementing it.
 
 ## The Fork
 
-On block 1,920,000, 20th July 2016, history was made. While the Ethereum website still proudly [proclaimed](http://web.archive.org/web/20160731205712/https://ethereum.org/) "Build Unstoppable Applications", it's authors changed the Ethereum protocol for the sole purpose of stopping The Hacker's Child DAO in it's tracks. The forkers reached into the application layer, punt kicked _Code is Law_ out the window, rewrote The DAO's contract midflight, and confiscated Ether from The Hacker. [Mission Accomplished!](https://twitter.com/initc3org/status/758000698881613824/photo/1)
+On block 1,920,000, 20th July 2016, history was made. While the Ethereum website still proudly [proclaimed](http://web.archive.org/web/20160731205712/https://ethereum.org/) "Build Unstoppable Applications", it's authors changed the Ethereum protocol for the sole purpose of stopping The Hacker's Child DAO in it's tracks. The forkers reached into the application layer, punt kicked _Code is Law_ out the window, rewrote The DAO's contract midflight, and confiscated ETH from The Hacker. [Mission Accomplished!](https://twitter.com/initc3org/status/758000698881613824/photo/1)
 
-Contrary to popular misconception, The DAO Hard Fork was technically _not_ a "rollback", as it is commonly referred to - there was no "going back" to an old state - rather, in the words of Vitalik, it was a "surgical irregular state change". In many ways, this is far worse outcome than a rollback from a _Code is Law_ perspective, as unlike a long reorg, this was the manual intervention of a contract mid-flight, overriding the logic of the contract, _changing the rules of the game_, and inserting some arbitray replacement code deteremined by an off-chain governance process with next to no transparency. On this new fork, where the application layer had been desecrated, _Code is Law_ was dead.
+Contrary to popular misconception, The DAO Hard Fork was technically _not_ a "rollback", as it is commonly referred to - there was no "going back" to an old state - rather, in the words of Vitalik, it was a "surgical irregular state change". In many ways, this is far worse outcome than a rollback from a _Code is Law_ perspective, as unlike a long reorg, this was the manual intervention of a contract mid-flight, overriding the logic of the contract, _changing the rules of the game_, and inserting some arbitray replacement code deteremined by an off-chain governance process with next to no transparency.
 
-The DAO Hard Fork was unlike the typical hard forks that happen fairly frequently on Ethereum which involve protocol fixes or feature enhancements; there was no "upgrade" to the protocol from a technical point of view. Rather, for the first time (and for now, the last), the "upgrade" was political, and only concerned overring something happening in the application layer, which sits above the protocol and was supposed to be unstoppable.
+On this new fork, where the application layer had been desecrated, _Code is Law_ was dead, and replaced with good old fashioned oligarchy.
+
+The DAO Hard Fork was unlike the typical hard forks that happen fairly frequently on Ethereum which involve protocol fixes or feature enhancements; there was no "upgrade" to the protocol from a technical point of view. Rather, for the first time (and for now, the last), the "upgrade" was political, and only concerned overring something happening in the application layer, which is [quantifiably distinguishable](#clink-to-code-is-law) from the protocol, and was supposed to be unstoppable.
 
 ### The Chain Split
 
