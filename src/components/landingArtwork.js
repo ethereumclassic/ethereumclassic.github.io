@@ -43,13 +43,12 @@ function LandingArtworkInner({ i18n }) {
       <TwContainer tw="h-full">
         <div tw="relative pointer-events-none">
           {/* BG CIRCLE */}
-          <div tw="absolute top-[-32rem] -left-2/4 opacity-40">
+          <div tw="absolute top-[-16rem] md:top-[-32rem] -left-2/4 opacity-40">
             <StaticImage
               tw="dark:hidden"
               alt=""
               src="../images/banner/light mode/bg circle.png"
-              placeholder="tracedSVG"
-              tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
+              placeholder="none"
             />
           </div>
           {/* BG BLURS RIGHT */}
@@ -58,15 +57,13 @@ function LandingArtworkInner({ i18n }) {
               tw="dark:hidden"
               alt=""
               src="../images/banner/light mode/blurred spot.png"
-              placeholder="tracedSVG"
-              tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
+              placeholder="blurred"
             />
             <StaticImage
               tw="light:hidden"
               alt=""
               src="../images/banner/dark mode/blurred spot.png"
-              placeholder="tracedSVG"
-              tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
+              placeholder="blurred"
             />
           </div>
           {/* BG BLURS LEFT */}
@@ -75,15 +72,13 @@ function LandingArtworkInner({ i18n }) {
               tw="dark:hidden"
               alt=""
               src="../images/banner/light mode/blurred spot.png"
-              placeholder="tracedSVG"
-              tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
+              placeholder="blurred"
             />
             <StaticImage
               tw="light:hidden"
               alt=""
               src="../images/banner/dark mode/blurred spot.png"
-              placeholder="tracedSVG"
-              tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
+              placeholder="blurred"
             />
           </div>
           {/* HALO */}
@@ -97,15 +92,15 @@ function LandingArtworkInner({ i18n }) {
                 tw="dark:hidden"
                 alt=""
                 src="../images/banner/light mode/Halo effect.png"
-                placeholder="tracedSVG"
-                tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
+                placeholder="blurred"
+                blurredOptions={{ width: 120 }}
               />
               <StaticImage
                 tw="light:hidden"
                 alt=""
                 src="../images/banner/dark mode/Halo effect.png"
-                placeholder="tracedSVG"
-                tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
+                placeholder="blurred"
+                blurredOptions={{ width: 120 }}
               />
             </Parallax>
           </div>
@@ -117,14 +112,14 @@ function LandingArtworkInner({ i18n }) {
                 alt=""
                 src="../images/banner/light mode/grid.png"
                 placeholder="tracedSVG"
-                tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
+                tracedSVGOptions={{ color: "#ccdaf7" }}
               />
               <StaticImage
                 tw="light:hidden"
                 alt=""
                 src="../images/banner/dark mode/grid.png"
                 placeholder="tracedSVG"
-                tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
+                tracedSVGOptions={{ color: "#2a569e" }}
               />
             </Parallax>
           </div>
@@ -140,14 +135,14 @@ function LandingArtworkInner({ i18n }) {
                 alt=""
                 src="../images/banner/light mode/wave.png"
                 placeholder="tracedSVG"
-                tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
+                tracedSVGOptions={{ color: "#44c2a7" }}
               />
               <StaticImage
                 tw="light:hidden"
                 alt=""
                 src="../images/banner/dark mode/wave.png"
                 placeholder="tracedSVG"
-                tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
+                tracedSVGOptions={{ color: "#44c2a7" }}
               />
             </Parallax>
           </div>
@@ -162,15 +157,15 @@ function LandingArtworkInner({ i18n }) {
                 tw="dark:hidden"
                 alt=""
                 src="../images/banner/light mode/big logo.png"
-                placeholder="tracedSVG"
-                tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
+                placeholder="blurred"
+                blurredOptions={{ width: 120 }}
               />
               <StaticImage
                 tw="light:hidden"
                 alt=""
                 src="../images/banner/dark mode/big logo.png"
-                placeholder="tracedSVG"
-                tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
+                placeholder="blurred"
+                blurredOptions={{ width: 120 }}
               />
             </Parallax>
           </div>
@@ -187,14 +182,14 @@ function LandingArtworkInner({ i18n }) {
                 alt=""
                 src="../images/banner/light mode/cube 1.png"
                 placeholder="tracedSVG"
-                tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
+                tracedSVGOptions={{ color: "#52b0af" }}
               />
               <StaticImage
                 tw="light:hidden"
                 alt=""
                 src="../images/banner/dark mode/cube 2.png"
                 placeholder="tracedSVG"
-                tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
+                tracedSVGOptions={{ color: "#d78bad" }}
               />
             </Parallax>
           </div>
@@ -211,14 +206,14 @@ function LandingArtworkInner({ i18n }) {
                 alt=""
                 src="../images/banner/light mode/cube 2.png"
                 placeholder="tracedSVG"
-                tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
+                tracedSVGOptions={{ color: "#c158f5" }}
               />
               <StaticImage
                 tw="light:hidden"
                 alt=""
                 src="../images/banner/dark mode/cube.png"
                 placeholder="tracedSVG"
-                tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
+                tracedSVGOptions={{ color: "#5ac093" }}
               />
             </Parallax>
           </div>
@@ -230,18 +225,17 @@ function LandingArtworkInner({ i18n }) {
               opacity={[2, 0]}
             >
               <StaticImage
-                tw="dark:hidden ml-10"
+                tw="dark:hidden ml-10 opacity-40"
                 alt=""
                 src="../images/banner/light mode/green stars.png"
-                placeholder="tracedSVG"
-                tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
+                placeholder="none"
+                // tracedSVGOptions={{ color: "#0cb673", threahold: 1 }}
               />
               <StaticImage
-                tw="light:hidden"
+                tw="light:hidden opacity-80"
                 alt=""
                 src="../images/banner/dark mode/stars.png"
-                placeholder="tracedSVG"
-                tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
+                placeholder="none"
               />
             </Parallax>
           </div>
@@ -253,18 +247,16 @@ function LandingArtworkInner({ i18n }) {
               opacity={[2, 0]}
             >
               <StaticImage
-                tw="dark:hidden"
+                tw="dark:hidden opacity-40"
                 alt=""
                 src="../images/banner/light mode/green star.png"
-                placeholder="tracedSVG"
-                tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
+                placeholder="none"
               />
               <StaticImage
-                tw="light:hidden "
+                tw="light:hidden opacity-80"
                 alt=""
                 src="../images/banner/dark mode/star.png"
-                placeholder="tracedSVG"
-                tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
+                placeholder="none"
               />
             </Parallax>
           </div>
