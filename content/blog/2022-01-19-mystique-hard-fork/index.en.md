@@ -10,7 +10,7 @@ Please upgrade your node software in preperation for the Mystique hard-fork spec
 ## Client Versions
 
 - Core-geth v1.12.4 or later
-- Besu (release TBA)
+- Besu v21.10.8 or later
 
 ## Hard-fork Schedule
 
