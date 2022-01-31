@@ -15,7 +15,7 @@ Please upgrade your node software in preperation for the Mystique hard-fork spec
 ## Hard-fork Schedule
 
 - 5,520,000 on Mordor Testnet (Jan 13th 2022) ✔️Complete
-- 5,578,000 on Kotti TestNet (Jan 23th 2022) ⌛Pending
+- 5,578,000 on Kotti TestNet (Jan 23th 2022) ✔️Complete
 - 14,525,000 on Ethereum Classic MainNet (Feb 13th 2022) ⌛Pending
 
 Node Tracker: https://tinyurl.com/5n9xe6sa
