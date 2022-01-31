@@ -103,9 +103,18 @@ learn:
         discussions:
           __link: /videos/discussions
           name: Discussions
-        predictions:
-          __link: /videos/predictions
-          name: Predictions
+        trading:
+          __link: /videos/trading
+          name: Trading
+        development:
+          __link: /videos/development
+          name: Development
+        tutorials:
+          __link: /videos/tutorials
+          name: Tutorials
+        mining:
+          __link: /videos/mining
+          name: Mining
         conferences:
           __link: /videos/conferences
           name: Conferences

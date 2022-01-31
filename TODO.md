@@ -4,7 +4,6 @@
 ~~~ 3022.VO.2 ~~~
 
 - ctrl f TODO
-- Fix TOC ids (20s everywheres)
 
 https://github.com/Munter/netlify-plugin-checklinks
 
@@ -33,14 +32,13 @@ CONTENT
 
 PREFLIGHT
 
-- Fonts
+- 404 page styling
+- Lighthouse
 - Videos for contributing
 - Update url refs from etc3022.netlify
-- Lighthouse
-- 404 page styling
 - remove perf tools from config
 - udpade branch settings for agolia plugin
-- After banner update, review Social image
+- hook up search
 
 ~~~ 3022.V1 RELEASE, PUBLIC ~~~
 

@@ -4,11 +4,20 @@ tags:
   explainers:
     title: Explainers
     description: TODO...
-  predictions:
-    title: Predictions
+  tutorials:
+    title: Tutorials
+    description: TODO...
+  development:
+    title: Development
+    description: TODO...
+  trading:
+    title: Trading
     description: TODO...
   discussions:
     title: Discussions
+    description: TODO...
+  mining:
+    title: Mining
     description: TODO...
   conferneces:
     title: Conferences
