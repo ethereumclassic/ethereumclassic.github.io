@@ -19,7 +19,7 @@ tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 
 ECIP-1000 Clause: "ECIPs should be changed from Draft or Last Call status, to Rejected, upon request by any person, if they have not made progress in three years. Such a ECIP may be changed to Draft status if the champion provides revisions that meaningfully address public criticism of the proposal, or to Last Call if it meets the criteria required as described in the previous paragraph."
 
-The reason for `Reject` status under this clause is that the champion has not met this requirement during the three years: "the champion provides revisions that meaningfully address public criticism of the proposal". Rather, the champion has ignored much valid criticism and abandoned the proposal.
+The reason for "Rejected" status under this clause is that the champion has not met this requirement during the three years: "the champion provides revisions that meaningfully address public criticism of the proposal". Rather, the champion has ignored much valid criticism and abandoned the proposal.
 [https://ecips.ethereumclassic.org/ECIPs/ecip-1000](https://ecips.ethereumclassic.org/ECIPs/ecip-1000)
 
 * Follow Up from: [#382](https://github.com/ethereumclassic/ECIPs/issues/382)
