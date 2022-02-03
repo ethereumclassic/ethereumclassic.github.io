@@ -1,5 +1,6 @@
 ---
 title: Mining Resources
+seo: Why Ethereum Classic is a great long term choice for cryptocurrency mining, and a collection of resources covering Hardware, Software and Mining Pools.
 ---
 
 With Etheruem's imminenet/recent switch to Proof of Stake a.k.a "The Merge", Ethereum Classic becomes the largest Proof of Work Smart Contract Platform and inherits many of the miners that previously mined Ethereum. As Etheruem Classic's hashing algoirhtm is almost identical to ETHash, so it supports the same hardware, and mining ETC should be as simple switching to a mining pool that supports ETC.

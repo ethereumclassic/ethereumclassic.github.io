@@ -1,4 +1,5 @@
 title: Testnets
+seo: Information about the various Etheruem Classic Testnets, which publically available networks that can be used to test contracts and protocol upgrades.
 description: |
   When developing contracts on Etheruem Classic, as with any EVM Contract System, it is advised to use a local [virtual network](/development/tooling), which allows you to quickly iterate without having to wait for blocks to be mined. At some point, though, you may wish to allow the general public to interact with a beta version of your application, and for this, a testnet can be used.
 

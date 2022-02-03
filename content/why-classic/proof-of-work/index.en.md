@@ -1,5 +1,6 @@
 ---
 title: Proof of Work
+seo: An argument for why Proof of Stake is not a suitable solution for blockchains that wish to deliver monumental change, and why Proof of Work is the only known consensus mechanism that can.
 ---
 
 Todo
@@ -35,6 +36,8 @@ But in reality, we know there is no such thing as a free lunch, and after many y
 What's more, even the holders of such coins are really being tricked into thinking they are providing a comparible service to mining; they are not converting a real world espense into any security benefit, but instead are redistributing value from elsewhere in the network to themselves, roughly in proportion to the amount of holders that aren't staking, who are paying this tax. In other words, Proof of Stake does not reward stakers so much as it is punishing non-staking parties.
 
 ### Proof of Stake Security Trade-offs
+
+If google would have tyou believe.
 
 The claim that "Proof of Stake is more secure than Proof of Work" is a "[not even wrong](https://en.wikipedia.org/wiki/Not_even_wrong)" statement, due to the nueance in the definition of "secure", and how to square this off with the the pluraility of Proof of Stake systems, which have their own economic, social or technical problems depending on the implementation. As each system has it's own flaws, they should be reviewed case by case, but there are some general problems that are more or less applicable to all Proof of Stake systems, as compared to Proof of Work
 

@@ -1,5 +1,6 @@
 ---
 title: Development
+seo: A colection of resources for developers who are looking to learn more about contributing or deploying applications to Etheruem Classic.
 ---
 
 This section contains a list of resources that developers planning to contribute or deploy to Etheruem Classic may find useful.

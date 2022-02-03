@@ -2,6 +2,7 @@
 contribute: true
 disclaimer: verify
 title: Events
+seo: An overview of real world and virtual Etheruem Classic related events. ETC Summit and the weekly Community Call are welcome to all!
 ---
 
 Magic happens when people come together and share ideas, and participants throughout the ETC community have spontaneously organized to form real life and online gatherings to focus their attention on improving Etheruem Classic.

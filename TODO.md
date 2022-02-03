@@ -27,8 +27,10 @@ CONTENT
 - i18n 404 redirects, make sure all old pages get redirected properly
 - Ensure old site feature parity
 - check page metadata, rss feeds and sitemap are correct
+- Strip markdown from SEO https://github.com/remarkjs/strip-markdown
 - Update Readme
 - Disable i18n
+- Form monitor
 
 PREFLIGHT
 

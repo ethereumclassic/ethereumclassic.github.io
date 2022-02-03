@@ -4,6 +4,7 @@ import GlobalLayout from "../components/globalLayout";
 import News from "../components/news";
 
 export default function NewsTempalte(props) {
+  // TODO set title to this tag's name
   return (
     <GlobalLayout {...props}>
       <News {...props} />

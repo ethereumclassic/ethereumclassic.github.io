@@ -1,5 +1,6 @@
 ---
 title: Network Tools
+seo: A selection of tools and resoures for inspecting and intereacting with the Etheruem Classic network. RPC Endpoints, Blockchain Explorers, and Network Monitors.
 ---
 
 This section contains a selection of tools and resoures for inspecting and intereacting with the Etheruem Classic network.

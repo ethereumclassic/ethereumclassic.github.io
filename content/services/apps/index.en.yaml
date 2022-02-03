@@ -1,9 +1,24 @@
 title: Apps and Protocols
 contribute: true
-seo: A collection of dapps, applications and protocols built on top of Ethereum Classic
+seo: Decentralized apps and protocols built on top of Ethereum Classic; NFTs, Games, Identity Systems, DEXs, Finance Products and more...
 disclaimer: verify
 description: Ethereum Classic hosts a growing collection of decentralized applications and protocols. This page is an overview of the state of the ETC network development.
 types:
   nfts:
-    title: Non Fungible Tokens
-    description: TODO
+    title: NFTs
+    description: Non Fungible Tokens are unforgible collectables that took the cryptocurrency space by storm in 2021 and beyond.
+  games:
+    title: Games
+    description: Interactive games that are enshrined into the Ethereum Classic blockchain reach new frontiers of entertainment.
+  identity:
+    title: Identity Systems
+    description: Interopable identity will play a role in the creation of sybil-resistant decentralized systems, facilitating reputation and governance.
+  interoperability:
+    title: Interoperability
+    description: Cross-chain technology that allows value and data to be shared between blockhains enhance network effect and make the pie bigger for all involved.
+  finance:
+    title: Finance
+    description: Decentralized Finance (DeFi), Decentralized Exchanges (DEXs), Decentralized Autonomous Organizations (DAOs), whatever the acronym, blockchain technology excels in the construction of these novel economic vehicles.
+  other:
+    title: Other
+    description: All the applications and protocols that are so unique they didn't fit into an existing category.

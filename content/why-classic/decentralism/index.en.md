@@ -2,7 +2,7 @@
 title: Decentralism
 updated: 2021-11-30
 disclaimer: opinion
-seo: A thesis explaining the decentralist values that underpin Ethereum Classic's principles and core value proposition which enable it to deliver a bright future, in contrast to the dark path of centralization taken by Etheruem.
+seo: A thesis explaining the decentralist values that underpin Ethereum Classic's principles and core value proposition which enable it to deliver a bright future, in contrast to the path of centralization taken by many other blockchains.
 ---
 
 One of the first publications about Ethereum Classic that came out after the DAO Hard fork was called [The CryptoDecentralist Manifesto](#TODO), and in protest of The Fork, it underlined the classic decentralized approach to organizing blockchain projects. This document set the tone for ETC's future developmnet, and since it's creation, much has been learned about the nature of this illusive but vital concept.

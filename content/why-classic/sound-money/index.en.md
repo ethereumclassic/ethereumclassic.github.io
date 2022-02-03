@@ -1,5 +1,6 @@
 ---
 title: Sound Money
+seo: An overview of the useful features of money that give it value, and how some blockchains, including Ethereum Classic and Bitcoin, intentionally apply these features to their monetary policy to ensure decentralization and longevity.
 ---
 
 Okay

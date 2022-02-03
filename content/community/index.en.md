@@ -1,5 +1,6 @@
 ---
 title: ETC Community
+seo: Links to the Channels, Teams and Events that make up the Ethereum Classic community. Get involved!
 ---
 
 Ethereum Classic is something far more than just some lines of code.

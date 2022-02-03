@@ -1,6 +1,7 @@
 __contribute: ture
 __disclaimer: verify
 title: Blockchain Explorers
+seo: A list of blockchain explorer services for Ethereum Classic and the various ETC Testnets.
 description: |
   Blockchain Explorers provide a convenient way to get insights into the current and past state of a given chain, allowing you to inspect the contents of blocks, transactions and account balances. 
 

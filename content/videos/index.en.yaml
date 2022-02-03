@@ -1,33 +1,33 @@
 title: Videos
-description: User submitted videos, TODO add description
+description: A collection of videos about Ethereum Classic, organized by categories.
 tags:
   explainers:
     title: Explainers
-    description: TODO...
+    description: Educational videos explaining Etheruem Classic philosophy, history and technical concepts.
   tutorials:
     title: Tutorials
-    description: TODO...
+    description: Guides covering how to use and develop on Ethereum Classic.
   development:
     title: Development
-    description: TODO...
+    description: Videos covering topics related to Ethereum Classic technology for developers.
   trading:
     title: Trading
-    description: TODO...
+    description: Technical and fundamental analysis, price predictions, and investment advice covering ETC.
   discussions:
     title: Discussions
-    description: TODO...
+    description: Long form discussions including podcasts, debates and weekly community calls
   mining:
     title: Mining
-    description: TODO...
-  conferneces:
+    description: Videos covering how to mine ETC, hardware, software, and profit expectations. Be sure to also check the [mining](/mining) seciton for more information.
+  conferences:
     title: Conferences
-    description: TODO...
+    description: Ethereum Classic Summit is a yearly event held in various cities all over the world. This section contains talks from ETC Summit and other conferences or meetups.
   etc-summit-2018:
-    title: ETC Summit 2018, Seoul
-    description: Something here...
+    title: ETC Summit 2018
+    description: The second Ethereum Classic Summit was held in Seoul, Korea on 12th September 2018
   etc-summit-2019:
-    title: ETC Summit 2019, Vancouver
-    description: Something here...
+    title: ETC Summit 2019
+    description: The third Ethereum Classic Summit was held in Vancouver, Canada on 3rd October 2019
   etc-summit-2017:
-    title: ETC Summit 2017, Hong Kong
-    description: Something here...
+    title: ETC Summit 2017
+    description: The first Etheruem Classic Summit was held in Hong Kong on November 13th 2017

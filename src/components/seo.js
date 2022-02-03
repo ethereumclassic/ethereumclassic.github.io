@@ -38,7 +38,6 @@ export default function Seo({ data, i18n, path, pageContext: { basePath } }) {
     .slice(0, 250)
     .replace(/\n/g, "");
 
-  console.log(url, description);
   let category = "general";
   if (basePath.startsWith("blog/")) {
     category = "blog";
@@ -57,47 +56,70 @@ export default function Seo({ data, i18n, path, pageContext: { basePath } }) {
       ).slice(1)}`}
     />
   );
+  const meta = {
+    title,
+    description,
+    author,
+    category,
+    published,
+    image,
+    updated,
+  };
   return (
-    <Helmet title={title}>
-      {/* favicon, with fallback */}
-      <link
-        rel="icon"
-        href={`data:image/svg+xml;utf8,${logo}`}
-        type="image/svg+xml"
-      />
-      <link rel="icon" href="/favicon.ico" sizes="any" />
-      {/* language */}
-      <html lang={ui.htmlLang} />
-      {/* meta head */}
-      <meta name="description" content={description} />
-      <meta name="image" content={image} />
-      {/* search indexing; TODO */}
-      {category && <meta property="article:section" content={category} />}
-      {author && <meta property="article:author" content={author} />}
-      {published && (
-        <meta
-          property="article:published_time"
-          content={new Date(published).toISOString()}
+    <>
+      <Helmet title={title}>
+        {/* favicon, with fallback */}
+        <link
+          rel="icon"
+          href={`data:image/svg+xml;utf8,${logo}`}
+          type="image/svg+xml"
         />
-      )}
-      {updated && (
-        <meta
-          property="article:modified_time"
-          content={new Date(updated).toISOString()}
-        />
-      )}
-      {/* social og tags */}
-      <meta property="og:site_name" content={ui.title} />
-      <meta property="og:title" content={title} />
-      <meta property="og:description" content={description} />
-      <meta property="og:image" content={image} />
-      <meta property="og:locale" content={ui.metaLocale} />
-      <meta property="og:url" content={url} />
-      {/* twitter tags */}
-      <meta name="twitter:card" content="summary" />
-      <meta name="twitter:title" content={title} />
-      <meta name="twitter:description" content={ui.description} />
-      <meta name="twitter:image" content={image} />
-    </Helmet>
+        <link rel="icon" href="/favicon.ico" sizes="any" />
+        {/* language */}
+        <html lang={ui.htmlLang} />
+        {/* meta head */}
+        <meta name="description" content={description} />
+        <meta name="image" content={image} />
+        {/* search indexing; TODO */}
+        {category && <meta property="article:section" content={category} />}
+        {author && <meta property="article:author" content={author} />}
+        {published && (
+          <meta
+            property="article:published_time"
+            content={new Date(published).toISOString()}
+          />
+        )}
+        {updated && (
+          <meta
+            property="article:modified_time"
+            content={new Date(updated).toISOString()}
+          />
+        )}
+        {/* social og tags */}
+        <meta property="og:site_name" content={ui.title} />
+        <meta property="og:title" content={title} />
+        <meta property="og:description" content={description} />
+        <meta property="og:image" content={image} />
+        <meta property="og:locale" content={ui.metaLocale} />
+        <meta property="og:url" content={url} />
+        {/* twitter tags */}
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:title" content={title} />
+        <meta name="twitter:description" content={description} />
+        <meta name="twitter:image" content={image} />
+      </Helmet>
+      <div tw="z-50 fixed p-2 left-1/4 border border-shade-lighter rounded-xl shadow bottom-2 right-2 bg-backdrop-dark">
+        <table>
+          <tbody>
+            {Object.keys(meta).map((key) => (
+              <tr key={key}>
+                <td tw="pr-2 opacity-60 align-top">{key}</td>
+                <td>{meta[key]}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </>
   );
 }
