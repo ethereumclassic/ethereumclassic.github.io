@@ -85,7 +85,7 @@ export default function SearchAgolia({ inline }) {
         }}
       >
         <label htmlFor="search" tw="sr-only">
-          {isSSR ? "Enable JS to Search" : "Search"}
+          Search
         </label>
         <div tw="relative">
           <div tw="pointer-events-none absolute inset-y-0 left-0 pl-3 flex items-center">
@@ -96,14 +96,6 @@ export default function SearchAgolia({ inline }) {
             />
           </div>
           <SearchBox inline={inline} />
-          <div
-            css={[
-              tw`hidden absolute text-sm bg-secondary-dark text-secondary-lightest px-2 py-1 font-bold rounded-md left-9 top-1.5`,
-              isSSR && tw`peer-focus:block`,
-            ]}
-          >
-            Enable JS to Search
-          </div>
         </div>
         <Fader show={show}>
           <div tw="absolute p-2 transition transform origin-top-right backdrop-blur-xl bottom-0 top-14 right-0 left-0 h-screen">

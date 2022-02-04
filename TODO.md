@@ -7,9 +7,6 @@
 
 https://github.com/Munter/netlify-plugin-checklinks
 
-CODE
-- 404 page styling
-
 CONTENT
 - Spell check, content
 - Mining Hardware
@@ -31,10 +28,12 @@ PREFLIGHT
 - udpade branch settings for agolia plugin
 - Check Github project issues, reassign
 - Update Readme
+- https://github.com/netlify/netlify-plugin-gatsby#readme
 
 ~~~ 3022.V1 RELEASE, PUBLIC ~~~
 
 - Videos for contributing
+- play with https://app.netlify.com/teams/ethereum-classic/plugins
 
 ~~~ 3022.V1.1 I18N ~~~
 
