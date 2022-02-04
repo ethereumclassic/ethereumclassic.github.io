@@ -3,10 +3,8 @@ billboard:
   randomWords:
     Decentralized: "Decentralized"
     Original: "Original"
-    Faithful: "Faithful"
     Veracious: "Veracious"
     Authentic: "Authentic"
-    Righteous: "Righteous"
     Untainted: "Untainted"
     Uncensored: "Uncensored"
     Untampered: "Untampered"
@@ -17,12 +15,9 @@ billboard:
     Principled: "Principled"
     Unstoppable: "Unstoppable"
     Proof of Work: "Proof of Work"
-    Cypherpunk: "Cypherpunk"
     Leaderless: "Leaderless"
     Antifragile: "Antifragile"
     Code is Law: "Code is Law"
-    Undervalued: "Undervalued"
-    Sagacious: "Sagacious"
     Classic: "Classic"
 intro:
   title: Build Unstoppable Applications
