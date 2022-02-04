@@ -30,7 +30,7 @@ export default function Content({ data = {}, i18n = {}, children, max }) {
     ? mdx?.toc.items[0].items
     : mdx?.toc.items ?? [mapToc(i18n)].filter((i) => i)[0]?.items;
   const showLeft = sub?.navItems.length > 0;
-  const showRight = toc?.length > 0;
+  const showRight = toc?.length > 1;
   return (
     <TwContainer grid>
       {showLeft && (

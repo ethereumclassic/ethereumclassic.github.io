@@ -60,7 +60,6 @@ module.exports = {
       resolve: "gatsby-plugin-feed",
       options: require("./configs/rss")({ locales, defaultLocale, siteUrl }),
     },
-    //  TODO, include once we have a banner iamge
     {
       resolve: "gatsby-source-filesystem",
       options: {
