@@ -108,18 +108,21 @@ export default function Seo({ data, i18n, path, pageContext: { basePath } }) {
         <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content={image} />
       </Helmet>
-      <div tw="z-50 fixed p-2 left-1/4 border border-shade-lighter rounded-xl shadow bottom-2 right-2 bg-backdrop-dark">
-        <table>
-          <tbody>
-            {Object.keys(meta).map((key) => (
-              <tr key={key}>
-                <td tw="pr-2 opacity-60 align-top">{key}</td>
-                <td>{meta[key]}</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
+      {/* TODO only show in i18n editing mode */}
+      {false && (
+        <div tw="z-50 fixed p-2 left-1/4 border border-shade-lighter rounded-xl shadow bottom-2 right-2 bg-backdrop-dark">
+          <table>
+            <tbody>
+              {["title", "description"].map((key) => (
+                <tr key={key}>
+                  <td tw="pr-2 opacity-60 align-top">{key}</td>
+                  <td>{meta[key]}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )}
     </>
   );
 }

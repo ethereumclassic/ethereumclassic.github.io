@@ -36,11 +36,11 @@ function LandingArtworkInner({ i18n }) {
   return (
     <div
       css={[
-        tw`h-[44rem] md:h-[38rem]`,
+        tw`h-[44rem] md:h-[34rem]`,
         tw`bg-gradient-to-b from-shade-light to-backdrop-dark dark:from-black`,
       ]}
     >
-      <div tw="h-[200vh] w-full overflow-hidden">
+      <div tw="h-[200vh] sm:h-[100vh] w-full overflow-hidden">
         <TwContainer>
           <div tw="relative pointer-events-none">
             {/* BG CIRCLE */}

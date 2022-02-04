@@ -8,7 +8,7 @@ const locales = {
   },
   de: {
     name: "Deutsch",
-    enabled: true,
+    enabled: false,
     dayJsImport: "de",
   },
   es: {

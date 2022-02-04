@@ -5,12 +5,13 @@ import "twin.macro";
 import Logo from "./logo";
 import SearchAlgolia from "./searchAlgolia";
 import MainMenu from "./mainMenu";
-import LocaleSelector from "./localeSelector";
+// TODO re-enable in next version
+// import LocaleSelector from "./localeSelector";
+// import LocaleButtons from "./localeButtons";
 import DarkModeSwitcher from "./darkModeSwitcher";
 import TwContainer from "./twContainer";
 import MobileDropdown from "./mobileDropdown.";
 import MobileMenuItems from "./mobileMenuItems";
-import LocaleButtons from "./localeButtons";
 
 export default function Header() {
   return (
@@ -22,11 +23,11 @@ export default function Header() {
           </div>
           <div tw="space-x-4 flex md:hidden">
             <DarkModeSwitcher />
-            <MobileDropdown icon="globe">
+            {/* <MobileDropdown icon="globe">
               <div tw="p-4">
                 <LocaleButtons />
               </div>
-            </MobileDropdown>
+            </MobileDropdown> */}
             <MobileDropdown icon="search">
               <SearchAlgolia />
             </MobileDropdown>
@@ -40,7 +41,7 @@ export default function Header() {
               <SearchAlgolia />
             </div>
             <DarkModeSwitcher />
-            <LocaleSelector />
+            {/* <LocaleSelector /> */}
           </div>
         </div>
       </TwContainer>

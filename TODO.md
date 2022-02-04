@@ -7,46 +7,39 @@
 
 https://github.com/Munter/netlify-plugin-checklinks
 
-- Work in notes about mining hardware
-
-- Hide TOC if onnly 1 item and add option to hide
-
-ORIGIN
-
-- Make it shorter, less than 15 minutes, but move out content to differente sections
-- Less emphasis on inconcequential stuff, move all the "Neutral Foundation" to another section
+CODE
+- 404 page styling
 
 CONTENT
-
-- Make it shorter, less than 15 minutes, but move out content to differente sections
-- Less emphasis on inconcequential stuff, move all the "Neutral Foundation" to another section
 - Spell check, content
 - Mining Hardware
-- Github project issues
+- Origin
+  - Make it shorter, less than 15 minutes, but move out content to differente sections
+  - Less emphasis on inconcequential stuff, move all the "Neutral Foundation" to another section
 - Ensure correct contributors for each piece of content (git blame)
 - i18n 404 redirects, make sure all old pages get redirected properly
-- Ensure old site feature parity
-- check page metadata, rss feeds and sitemap are correct
-- Strip markdown from SEO https://github.com/remarkjs/strip-markdown
-- Update Readme
-- Disable i18n
-- Form monitor
+- About page
 
 PREFLIGHT
 
-- 404 page styling
+- re-hook up search
+- check rss feeds and sitemap are correct
+- Ensure old site feature parity
 - Lighthouse
-- Videos for contributing
 - Update url refs from etc3022.netlify
 - remove perf tools from config
 - udpade branch settings for agolia plugin
-- hook up search
+- Check Github project issues, reassign
+- Update Readme
 
 ~~~ 3022.V1 RELEASE, PUBLIC ~~~
 
+- Videos for contributing
+
 ~~~ 3022.V1.1 I18N ~~~
 
-- add an overlay for meta tags that are obvious
+- Strip markdown from SEO https://github.com/remarkjs/strip-markdown
+- add an overlay for meta tags that are obvious for i18n editors
 - check all content keys are underscored correctly
 - Add comment to all YAML files explaining format __
 - i18n contributions flow
@@ -56,6 +49,7 @@ PREFLIGHT
 
 - Memes
 - Turn banners into NFTs
+- Hide TOC if onnly 1 item and add option to hide
 - POAP for contributors
 - Check https://github.com/gatsbyjs/themes/issues/93
 - images in metadata

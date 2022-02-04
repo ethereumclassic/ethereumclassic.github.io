@@ -1,16 +1,13 @@
 import React from "react";
 import "twin.macro";
-
 import { useNavigation } from "../utils/navigationProvider";
-import DarkModeSwitcher from "./darkModeSwitcher";
 import Icon from "./icon";
 import Link from "./link";
-import LocaleSelector from "./localeSelector";
 
 function MenuItem({ name, description, link, icon }) {
   return (
     <Link to={link} tw="flex-row sm:space-y-2">
-      <div tw="flex text-sm font-bold items-center space-x-2">
+      <div tw="flex text-sm font-bold items-center space-x-2 font-display">
         <Icon icon={icon} tw="h-3.5 text-secondary-dark" />
         <div>{name}</div>
       </div>
