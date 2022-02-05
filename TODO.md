@@ -3,54 +3,53 @@
 ```
 ~~~ 3022.VO.2 ~~~
 
-- ctrl f TODO
+NOW
+- About page
+- i18n 404 redirects, make sure all old pages get redirected properly
+- Ensure correct contributors for each piece of content (git blame)
+- Ensure old site feature parity
 
-https://github.com/Munter/netlify-plugin-checklinks
+CODE
+- ctrl f TODO, rename next TODO to NODO
+- Configre a bunch of netlify plugins
+- https://github.com/Munter/netlify-plugin-checklinks
+- https://github.com/netlify/netlify-plugin-gatsby#readme
+- Update url refs from etc3022.netlify
 
 CONTENT
-- Spell check, content
-- Mining Hardware
+- Spell check and edit content
 - Origin
   - Make it shorter, less than 15 minutes, but move out content to differente sections
   - Less emphasis on inconcequential stuff, move all the "Neutral Foundation" to another section
-- Ensure correct contributors for each piece of content (git blame)
-- i18n 404 redirects, make sure all old pages get redirected properly
-- About page
+- Sychronise content with upstream
+- Update Readme
 
 PREFLIGHT
 
-- re-hook up search
-- check rss feeds and sitemap are correct
-- Ensure old site feature parity
-- Lighthouse
-- Update url refs from etc3022.netlify
-- remove perf tools from config
-- udpade branch settings for agolia plugin
-- Check Github project issues, reassign
-- Update Readme
-- https://github.com/netlify/netlify-plugin-gatsby#readme
+- udpade branch settings on agolia plugin
 
 ~~~ 3022.V1 RELEASE, PUBLIC ~~~
 
-- Videos for contributing
+- Check Github project issues, reassign
+- Videos tutorial for contributing
+- Ensure all features working on mail url, including search
 - play with https://app.netlify.com/teams/ethereum-classic/plugins
 
 ~~~ 3022.V1.1 I18N ~~~
 
 - Strip markdown from SEO https://github.com/remarkjs/strip-markdown
-- add an overlay for meta tags that are obvious for i18n editors
 - check all content keys are underscored correctly
 - Add comment to all YAML files explaining format __
-- i18n contributions flow
-- Fix collection localization
+- i18n contributions flow & video tutorials
+- add an overlay for meta tags that are obvious for i18n editors
+- Figure out collection localization
 
 ~~~ 3022.V1.NEXT ~~~
 
 - Memes
 - Turn banners into NFTs
-- Hide TOC if onnly 1 item and add option to hide
+- Multiple RSS Feeds
 - POAP for contributors
-- Check https://github.com/gatsbyjs/themes/issues/93
 - images in metadata
 ```
 
