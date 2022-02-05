@@ -152,6 +152,10 @@ Having no central group to call the shots means that any individual or group can
 
 ### Balancing Power
 
+BIG TODO, really important point
+
+PoW prevents capture by balancing power between multiple groups and providing them with vidoes agains bad decision making.
+
 As echoed by the structure of existing instiutions, in order to prevent one group of interests from hijacking a system for it's own interests, a balance of power between different players needs to exist for a system to maintain longevity.
 
 The original blockchain, Bitcoin, takes advantage of the possibility of chain splits and strategically placed incentives in a way that created a virtulous circle of contribution, profit and stability cycling through it's various stakeholders.
