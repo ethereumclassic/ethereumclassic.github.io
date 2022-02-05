@@ -3,11 +3,13 @@ title: Proof of Work
 seo: An argument for why Proof of Stake is not a suitable solution for blockchains that wish to deliver monumental change, and why Proof of Work is the only known consensus mechanism that can.
 ---
 
-Todo
+On a technical level, one of the biggest differentiators between Ethereum Classic and it's sibling Ethereum is ETC's commitment to remain on Proof of Work. It may be assumed that this is due to lack of development, ambition or ability to move to a "more advanced" Proof of Stake system, but this section aims to dispel this myth, by explaining the reasoning behind Etheruem Classic's decision to stay with Proof of Work.
+
+In short, Proof of Work is a battle tested and theoerically sound consensus mechanism that prioritises and is able to deliver on the critical qualities that give rise to a blockchain's utility and value proposition. Proof of Stake, on the other hand, sacrifices these elements in reutrn for prioritising non-critical ideals such as reducing carbon emissions and miximising returns for holders.
 
 ## Compromised Consensus
 
-Nothing opitemises the subtle and insidioius nature of centralization like the dogma of Proof of Stake. On the surface, it is a noble attempt to correct the worst aspect of blockchain technology and make it compatible with a sutainable future. Upon closer inspection, though, this dangerous idea actually sacrificaes the most liberating aspect of the tech, and the popularity of Proof of Stake risks squandaring talent and condeming the future to one that is captured; where development contributes not towards human flourishing but to the ever-growing power of an ultra-elite, at the expense of utility for all.
+Nothing opitemises the subtle and insidioius nature of centralization like the fable of Proof of Stake. On the surface, it is a noble attempt to correct the worst aspect of blockchain technology and make it compatible with a sutainable future, but on closer inspection, this dangerous idea actually sacrificaes the most liberating aspect of the tech. The popularity of Proof of Stake risks not only squandaring resources, but condeming the future to one that operates on captured systems masquerading as neutral; where development in the cryptocurrency space contributes not towards human flourishing but to the ever-growing power of an ultra-elite, at the expense of utility for all.
 
 ### The Engine of the Future
 
@@ -19,39 +21,27 @@ The first blockchain, Bitcoin, uses Proof of Work; a relatively simple, tried an
 
 ### For the Dreamers
 
-An alternative to Proof of Work that became popular is Proof of Stake, which became a "must have feature" for many blockchain projects. The primary justification for PoS is environmentalism; it was hoped that it would be able to provide the same or better security guaruntees than PoW without consuming large amounts of energy, because consuming energy is inherantly bad.
+An alternative to Proof of Work that became popular is Proof of Stake, which became a "must have feature" for many second generation blockchain projects. The primary justification for PoS was environmentalism; it was hoped that PoS would be able to provide the same or better security guaruntees than PoW without consuming large amounts of energy.
 
-The idea that Proof of Stake was able to provide not just the same but better security guaruntees than Proof of Work, with not just the same but less energy expendature, should ring alarm bells for those who believe _there is no such thing as a free lunch_, but the technical complexity of Proof of Stake implementaitons created a kind of technological [gish gallop](https://en.wikipedia.org/wiki/Gish_gallop), where fixes upon fixes made PoS protocols increasingly obscure moving targets that became difficult to unpack, and the myth was able to be perpetuated.
-
-Even if the environmentalist argument for Proof of Stake is taken at face value, as we will see, it is clear that PoS requires chains to sacrifice some of the security guaruntees provided by PoW. Proof of Stake chains trade away censorship resistence in return for the promise of less energy consumption; a tradeoff that, aside from marketing gimmicks, seems to make little sense when evaluating the responsibility and utility of blockchains compared to other available technologies.
-
-### Hotel Towels
-
-But it is when the the environmentalist claim is _not_ taken at face value that the choice to use PoS really starts to make sense. Much like a hotel that requests that guests reuse towels to "save the planet", the PoS environmentalist position is conveniently one that also happens to enrich the holders of Proof of Stake currencies, who are able to generate passive income by staking, in their eyes reaping the reards by the very same service that would otherwise be provided by miners, "virtual mining" with next to no expense. Well-intentioned or otherwise, this massive economic incentive explains why despite the security downgrade, it is no wonder that PoS became such a popular choice among cryptocurrency holders, and has manged to recruit many avid promoters.
-
-> Proof of Stake is like the hotel asking you to reuse towels to save the planet, on the surface it's for some good reasons, but in reality it's making them money and giving you a worse service
-
-But in reality, we know there is no such thing as a free lunch, and after many years of theorizing and real life experimenting with Proof of Stake systems, the results are in; PoS on a fundamental level cannot come close to matching the security guauntees provided by PoW.
-
-What's more, even the holders of such coins are really being tricked into thinking they are providing a comparible service to mining; they are not converting a real world espense into any security benefit, but instead are redistributing value from elsewhere in the network to themselves, roughly in proportion to the amount of holders that aren't staking, who are paying this tax. In other words, Proof of Stake does not reward stakers so much as it is punishing non-staking parties.
+Straight off the bat, the idea that Proof of Stake would be able to provide not just the same but _strictly better_ security guaruntees than Proof of Work, with not just the same but _less_ energy expendature, should ring alarm bells for those who believe _there is no such thing as a free lunch_. But for many this basic truth was able to hand-waved away, as the interdiciplinary complexity of Proof of Stake created a kind of technological [gish gallop](https://en.wikipedia.org/wiki/Gish_gallop), where fixes upon fixes made PoS protocols increasingly obscure moving targets that became difficult to unpack, and the _free lunch_ myth was able to be perpetuated.
 
 ### Proof of Stake Security Trade-offs
 
-If google would have tyou believe.
+A google spreadsheet cannot be 51% attacked, but does this make it "more secure" than Bitcoin? The answer to this is "it depends on what you mean by _secure_", and in the case of Blockchain systems, as [explained](/why-classic/decentralism), it depends entirely on whether a rhobust, decentralized, permissionless system that can stand the test of time and achieve _Sovereign Grade Censorship Resistance_ is able to be maintained. For _this_ kind of security, a google spreadsheet, is far, far _less_ "secure" than Bitcoin, as it can be taken over by google with zero effort.
 
-The claim that "Proof of Stake is more secure than Proof of Work" is a "[not even wrong](https://en.wikipedia.org/wiki/Not_even_wrong)" statement, due to the nueance in the definition of "secure", and how to square this off with the the pluraility of Proof of Stake systems, which have their own economic, social or technical problems depending on the implementation. As each system has it's own flaws, they should be reviewed case by case, but there are some general problems that are more or less applicable to all Proof of Stake systems, as compared to Proof of Work
+In this sense, Proof of Stake is much like a google spreadsheet; lack of transparency around security guaruntees, and the difficulty in measuring them, makes it impossible for even the highly technical users to see past the marketing claims made by many PoS projects; the true nature of these systems and their potential failure modes is obfuscated, as compared with the explicit and less complex guaruntees of Proof of Work systems.
+
+The claim that "Proof of Stake is more secure than Proof of Work" is a "[not even wrong](https://en.wikipedia.org/wiki/Not_even_wrong)" statement, due to the nueance in the definition of "secure", and how to square this off with the a pluraility of Proof of Stake systems that have their own economic, social and technical trade-offs.
+
+As each PoS system has it's own unique configuration of flaws, appraising them all individually is impractical, but there are some general problems that are more or less applicable to all Proof of Stake systems as compared to Proof of Work, and we provide some of these issues below to demonstrate that trade-offs are implicitly being made by chains that decide to use PoS over PoW.
 
 https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/
 
 #### Self-Refferential Security
 
-As we explore later, Proof of Stake systems derive their security from their internal state, which adds additioanl complexity, technical debt, and attack surface. Some see Proof of Stake systems akin to [perpetual motion machines](#TODO), based on a premise that breaks the laws of thermodynamics.
+Proof of Stake systems derive their security from their internal state, which adds additioanl complexity, technical debt, and attack surface, as unlike Proof of Work, which sources security externally, the chain has the additional responsibility of maintaining this source of security internally. As such, some see Proof of Stake systems akin to [perpetual motion machines](#TODO), a premise that breaks the laws of thermodynamics.
 
-#### Pure Pwnage
-
-Whilst 51% attacks in Proof of Work systems can be damaging, they are not fatal, and they require external resources to maintain, and are not guarunteed to be succesful, so censorship happening on PoW chains cannot be sustained indefinitely. In contrast, on PoS chains, once an attacker achieves a certain threashold of stake, the chain can never recover; as the attacker does not need to commit external resources, they cannot be unseated.
-
-#### Less than 33% Attacks
+#### 33% Attacks
 
 Proof of Stake chains can be permentantly disrupted if an attacker acquires 33% of staked assets, which is necessarily less than 33% of all coins.
 
@@ -59,7 +49,15 @@ Proof of Stake chains can be permentantly disrupted if an attacker acquires 33% 
 >
 > - [Viktor Bunin](https://viktorbunin.medium.com/proof-of-stakes-security-model-is-being-dramatically-misunderstood-4ed7b19ca419)
 
-Some argue that there is no economic incentive to cause such an attack, which may be true, but is also an admission that Proof of Stake chains are susceptible to nation state level attacks where economic incentives are not the motivation, suggesting _Sovereign Grade Censorship Resistance_ is not an objective.
+Some argue that there is no _direct_ economic incentive to cause such an attack, which may be true, but this is an admission that Proof of Stake chains are susceptible to 33% halting via indirect economic incentives such as shorting, and more importantly, nation state level attacks where economic incentives are not the motivation, confirming that _Sovereign Grade Censorship Resistance_ is not an objective of concern.
+
+#### Perpetually Pure Pwnage
+
+Proof of Stake's "33% attack" is a much bigger problem than Proof of Work's "51% attack", the latter of which is not permenant as it has has an ongoing external electricity cost, and as Ethereum Classic has shown, is not fatal, and can be mitigated by increasing confirmation times.
+
+Whilst 51% attacks in Proof of Work systems can be damaging, they only really directly effect those who are exposed to double spends (mostly exchanges, rather than long term holders. Additionally, because they have an up front cost and are unlike 33% attacks, not guarunteed to be succesful, there is diminished incentive to perform them, let alone indefinitely. Censorship happening on PoW chains, therefore, cannot be sustained without continual expendature of external resources.
+
+On PoS chains, once an attacker achieves a certain threashold of stake, the chain can never recover; as the attacker does not need to commit external resources, they cannot be unseated. The only solution to this failure state is hard-forking away the attacker, which breaks _Code is Law_, adds subjectivituy, and further centralizes the chain.
 
 #### Centralization of Staking on Exchanges
 
@@ -103,13 +101,21 @@ Unlike in Proof of Work, where the legacy chain enjoys the advantage of maintain
 
 TODO
 
-#### Miner Attrition
+#### Miner Attrition vs The Rich Get Richer
+
+In Proof of Work systems, beyond ongoing electricity costs, miners have to continually upgrade hardware, expending additional resources in order to remain competitive. The effect of this is that the pool of individuals who are able to mine is constantly shifting; if a miner is bad at mining, they will eventually lose their right to mine as they are out-competed by other miners.
+
+This is good for decentralization, as a constantly shifting pool of miners means that no one miner is able to hold on to a significant portion of a network for any significant amount of time unless they are actively working in the best interests of the network by providing ever-increasing amounts of hashrate. To achieve this miners must invest in research and development, infrastrucutre, and scaling up operations, all the while paying close attention to happenings in the social layer of the protocol decide how to balance power, choosing wisely which hardware to invest in and which chains to mine.
+
+This vital and mutli-faceted role is lobotomized from Proof of Stake systems, which instead, have only one metric to determine how "well" a staker is staking; how much stake they have. Due to economies of scale, the proportion of funds that must be staked vs used for day to day, in proof of stake systems, _the rich get richer_ at a _faster rate_, which centralizes the distribution of a network's value towards the richest stakers.
+
+Over time, the lack of turnover in the staking ecosystem means that an ever-increasing power-block of mega-whales accumulates an ever-increasing poprtion of [all](#race-to-the-bottom) Proof of Stake networks, making these networks increasingly susceptible to takeover, as the nakamoto coefficient approahces 1 (TODO CHECK). This will continue for generations, as big stakers pass their increasingly large bags to the next generation; it is merely a matter of time before the Proof of Stake networks are explicitly captured, let alone covertly.
+
+In this sense, staking is a form of _rent-seeking_, as compared to Proof of Work, no additional effort is required, yet stakers are rewarded handsomly for this non-effort at the expense of smaller players.
 
 #### Permissioned Onboarding
 
-#### The Rich Get Richer
-
-Staking is a form of Rent Seeking
+To onboard into a Proof of Work network...
 
 #### Subjective fork choice
 
@@ -125,7 +131,19 @@ For all these known downsides, projects that _still_ opt for Proof of Stake must
 
 In any case, because of the inherant trade-offs required in Proof of Stake systems, it is clear that _Soveriegn Grade Censorship Resistance_ is not a priority on these chains, and as such, they cannot be recommended for deployments that are likely to provide any significant value or have the potential disrupt powerful incumbant institutions.
 
-### Proof of Work
+### Hotel Towels
+
+Even if the environmentalist argument for Proof of Stake is taken at face value, it is clear that PoS requires chains to sacrifice some of the security guaruntees provided by PoW. Proof of Stake chains trade away censorship resistence in return for the promise of less energy consumption; a tradeoff that, aside from marketing gimmicks, seems to make little sense when evaluating the responsibility and utility of blockchains compared to other available technologies.
+
+But it is when the the environmentalist claim is _not_ taken at face value that the choice to use PoS really starts to make sense. Much like a hotel that requests that guests reuse towels to "save the planet", the PoS environmentalist position is conveniently one that also happens to enrich the holders of Proof of Stake currencies, who are able to generate passive income by staking, in their eyes reaping the reards by the very same service that would otherwise be provided by miners, "virtual mining" with next to no expense. Well-intentioned or otherwise, this massive economic incentive explains why despite the security downgrade, it is no wonder that PoS became such a popular choice among cryptocurrency holders, and has manged to recruit many avid promoters.
+
+> Proof of Stake is like the hotel asking you to reuse towels to save the planet, on the surface it's for some good reasons, but in reality it's making them money and giving you a worse service
+
+But in reality, we know there is no such thing as a free lunch, and after many years of theorizing and real life experimenting with Proof of Stake systems, the results are in; PoS on a fundamental level cannot come close to matching the security guauntees provided by PoW.
+
+What's more, even the holders of such coins are really being tricked into thinking they are providing a comparible service to mining; they are not converting a real world espense into any security benefit, but instead are redistributing value from elsewhere in the network to themselves, roughly in proportion to the amount of holders that aren't staking, who are paying this tax. In other words, Proof of Stake does not reward stakers so much as it is punishing non-staking parties.
+
+## Proof of Work
 
 Arguably the most important technical component of Etherem Classic (and all useful blockchains) is Proof of Work; the only known concensus mechanism that is able to provide the qualities needed to appraoch _Sovereign Grade_ decentralization. The application of Proof of Work as a consensus mechanism for Blockchain execution was the keystone crowning acheivement in the genious design of Bitcoin. It's applicaiton, for the first time, solved the [Byzantine Generals Problem](#TODo) and thus provided a decentralized [solution to double spending](#TODO), making blockchains possible.
 
