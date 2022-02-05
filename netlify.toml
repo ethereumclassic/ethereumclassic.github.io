@@ -32,5 +32,66 @@
   to = "/blog/2017-01-17-die-hard-fork-upgrade"
 # 2021 Redirects
 [[redirects]]
+  from = "/development/contribute"
+  to = "/development/ecips"
+[[redirects]]
+  from = "/development/developer-tools"
+  to = "/development/tooling"
+[[redirects]]
+  from = "/development/guides"
+  to = "/guides/development"
+[[redirects]]
+  from = "/development/mining-resources"
+  to = "/mining"
+[[redirects]]
+  from = "/development/network-resources"
+  to = "/network"
+[[redirects]]
+  from = "/development/porting"
+  to = "/development"
+[[redirects]]
+  from = "/ecosystem"
+  to = "/services"
+[[redirects]]
+  from = "/ecosystem/apps-and-protocols"
+  to = "/services/apps"
+[[redirects]]
   from = "/ecosystem/exchanges"
   to = "/services/exchanges"
+[[redirects]]
+  from = "/ecosystem/social-channels"
+  to = "/community/channels"
+[[redirects]]
+  from = "/ecosystem/teams"
+  to = "/community/teams"
+[[redirects]]
+  from = "/ecosystem/wallets"
+  to = "/services/wallets"
+[[redirects]]
+  from = "/knowledge/faqs"
+  to = "/why-classic"
+[[redirects]]
+  from = "/knowledge/investor"
+  to = "/knowledge/investing"
+[[redirects]]
+  from = "/knowledge/roadmap"
+  to = "/knowledge/history"
+[[redirects]]
+  from = "/knowledge/what-is-etc"
+  to = "/guides/basics"
+[[redirects]]
+  from = "/press"
+  to = "/community/events"
+[[redirects]]
+  from = "/press/conferences"
+  to = "/community/events"
+# TODO update this once MEMES section exists
+[[redirects]]
+  from = "/press/media-kit"
+  to = "https://github.com/ethereumclassic/media_kit"
+[[redirects]]
+  from = "/blog"
+  to = "/news/tag/blog"
+[[redirects]]
+  from = "/news/media"
+  to = "/news/tag/news"
