@@ -75,11 +75,11 @@ If an "undesirable" application is operating on a large Proof of Stake chain, a 
 
 In Proof of Work, thanks to the separation of concerns and the geographically decentralized nature of electricity sources, this kind of attack is impossible.
 
-#### Race to the Bottom
+#### The APR Arms Race
 
 Proof of Stake chains compete with each other for liquid staking capital that, unlike algorithm-specific mining hardware, can freely move between all PoS chains by trading in open markets. This means that over time, all Proof of Stake chains will need to increase staking rewards, and in turn inflation rates, to entice enough stakers to stake on their chain. A "race to the bottom" will engulf all Proof of Stake chains, as they enter into an APR arms race, at the expense of non-staking holders.
 
-If Polkadot offers a 12% staking reward, why would anyone stake Ethereum's 3% reward, when they can simply sell ther DOTs and end up with more ETH than they would earn by staking directly?
+To illustrate, if Polkadot offers a 12% staking reward, why would stakers stake Ethereum's 3% reward, when they could simply stake DOT and sell ther DOT rewards for ETH, ending up with more ETH than they would by staking ETH directly?
 
 #### Nothing at Stake
 
