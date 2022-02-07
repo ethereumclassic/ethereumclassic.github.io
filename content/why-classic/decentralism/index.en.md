@@ -36,6 +36,8 @@ Attackers that wish to "own" the system have a more difficult job the more decen
 
 In theory, the most decentralized a project could be is _fully decentralized_; attackers must compromise _everyone_ for the system to stop operating, and it can continue with only one (or no) honest actor(s). These kinds of systems are vanishingly rare and seldom practical; in practice, either a technological or social limiting factor stands in the way of the persuit of secure, decentralized, and scalable systems, so compromise must be made somewhere.
 
+TODO; Even thtis measurement is kind of bad as it only takes into taccount the current state of affairs, and it may be that other factors are more important; such as how to maintain decentarlization over time, is it permissionless, etc.
+
 ### The Blockchain Trilemma
 
 > The underlying structure of decentralized networks comes with unique challenges as compared to centralized networks. As early as the 1980s, computer scientists developed what’s called the CAP theorem to articulate perhaps the most major of these challenges. According to the CAP theorem, decentralized data stores — of which blockchain is an iteration — can only provide two of three guarantees simultaneously: consistency, availability, and partition tolerance (CAP). In the context of modern distributed networks, this theorem has evolved into the blockchain trilemma. This is the popular belief that public blockchains must sacrifice either security, decentralization, or scalability in their infrastructure.
@@ -188,7 +190,7 @@ If a project wants to survive long term, it must have enough of these necessary 
 
 Centralization, like gravity, is constantly pulling and looking for any weakness in a structure to push it to breaking point. For a system to overcome this force long term, it must ensure that there is no central point of failure that can be exploited, which often means designing rhobust countermeasures that constantly push back against centralization not just in one place but in all areas.
 
-Because of this, there is no point in having decentralization in half measures; a chain is only as strong as it's weakest link, and a blockchain is only as decentralized as it's most centralized point. For this reason, _all_ parts of a blockchain project, both technically and socially, must strive for _decentralization maximalism_.
+Because of this, there is no point in having decentralization in half measures; a chain is only as strong as it's weakest link, and a blockchain is only as decentralized as it's most centralized bottleneck. For this reason, _all_ parts of a blockchain project, both technically and socially, must strive for _decentralization maximalism_.
 
 Unforunately, within the cryptocurrency ecosystem the importance of _Decentrlaization Maximalism_ is not wideley understood or adopted, such that the term _Decentralization Theatre_ has become a common practice among many _so-called_ decentralized systems.
 

@@ -71,7 +71,7 @@ module.exports = {
               },
               blockquote: {
                 color: "var(--shade-dark)",
-                borderLeftColor: "var(--shade-darker)",
+                borderLeftColor: "var(--shade-lighter)",
               },
               h1: {
                 color: "var(--shade-darkest)",
