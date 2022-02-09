@@ -51,9 +51,11 @@ Instead of sourcing security from outside their system like Proof of Work, Proof
 
 ![Proof of Stake Perpetual Motion Machine](./overbalance.jpg)
 
-### Added Complexity
+### Complexity and Attack Surface
 
-This additional complexity....
+As with all software systems, additional complexity creates a greater attack surface for malicious actors to take advantage of and exploit, with potentially catastrophic results. In the context of blockchains, which are economic as well as software systems, this problem is compounded, and many of the potential exploits that lay dormant in such systems may not appear until significant economic value is engaged.
+
+Subtle game theory bugs and exploits in blockchains are extremely difficult, in some cases impossible to identify, test and eliminate before going into production. One major defence is adhering to the sound technical principle of [Keep It Simple, Stupid](https://en.wikipedia.org/wiki/KISS_principle), an approach that is abandoned by Proof of Stake projects when they reject the simple elegance Proof of Work and embrace more complex and exploitable alternatives.
 
 ### 33% Attacks
 
