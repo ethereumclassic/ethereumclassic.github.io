@@ -46,8 +46,8 @@ Some projects do not have a known future supply, which means the risk of Zimbabw
 
 Some promoters, perhaps unintentionally, gaslight their fellow holders into believing that the checks and balances provided by fixed future supply are good to get rid of. The idea of _ultrasound money_, a synonym of _unsound money_, means that the future supply of a currency is unknown, but maintainers pinky-promise that it will never be higher than it needs to be. An _ultrasound_ future supply is subject to tinkering based on an undefined and unpredictable critera, meaning it's central organizing reserves the unrestricted right to redistribute funds away holders in the future.
 
-> Yeah, your boring old car might be safe, but check out this bad boy over here; we removed the breaks and seatbelts, and now it's ultrasafe.
+> Yeah, your boring old car might be safe, but check out this bad boy over here; we removed the breaks and seat belts, so now it's ultrasafe.
 >
-> - Advocates of Ultrasound Money
+> - Advocates of ~~Ultrasound Money~~ Ultrasafe Vehicles
 
--- used car salesman meme -- ?
+![Used Car Salesman explaining Ultrasafe Vehicles](./ultrasafe.jpg)
