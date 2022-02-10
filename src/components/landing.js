@@ -1,5 +1,6 @@
 import React from "react";
 import "twin.macro";
+import { StaticImage } from "gatsby-plugin-image";
 
 import Link from "./link";
 
@@ -25,9 +26,10 @@ export default function Landing({
             <Md>{intro.content}</Md>
           </div>
           <div tw="space-y-8 text-center">
-            <div tw="flex w-full h-72 bg-shade-neutral text-shade-lightest justify-center items-center rounded-lg shadow-2xl">
-              Image Placeholder
-            </div>
+            <StaticImage
+              tw="rounded-lg shadow-2xl"
+              src="../images/foundation.png"
+            />
             {intro.button && (
               <Link to={intro.button.link} button primary big icon="right">
                 {intro.button.text}
