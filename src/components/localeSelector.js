@@ -32,7 +32,7 @@ export default function LocaleSelector({ ...props }) {
             </div>
             <PopDownMenu
               left
-              // TODO enable this after i18n implemented
+              // LODO enable this after i18n implemented
               // cta={
               //   <a
               //     href="#"

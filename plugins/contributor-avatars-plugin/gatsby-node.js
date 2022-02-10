@@ -12,7 +12,7 @@ exports.onCreateNode = async (
   },
   { instanceType }
 ) => {
-  // TODO config limit by collection type
+  // LODO config limit by collection type
   function registerContributor({ page, githubId, locale }) {
     const newNode = {
       id: createNodeId(`${node.id} >>> CONTRIBUTOR ${githubId}`),

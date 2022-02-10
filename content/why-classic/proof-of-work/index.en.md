@@ -3,6 +3,12 @@ title: Proof of Work
 seo: An argument for why Proof of Stake is not a suitable solution for blockchains that wish to deliver monumental change, and why Proof of Work is the only known consensus mechanism that can.
 ---
 
+## Key Points
+
+- TODO
+
+## Introduction
+
 On a technical level, one of the biggest differentiators between Ethereum Classic and it's sibling Ethereum is ETC's commitment to remain on Proof of Work. Some might assume that this is due to lack of development, ambition or ability to move to a "more advanced" Proof of Stake system, but this section aims to dispel that myth by explaining the reasoning behind Etheruem Classic's very intentional decision to stay with Proof of Work in the name of decentralization.
 
 In short, Proof of Work is a battle tested and theoerically sound consensus mechanism that prioritises and is able to deliver on the critical qualities that give rise to a blockchain's utility and value proposition. Proof of Stake, on the other hand, sacrifices these elements in reutrn for prioritising non-critical secondary ideals, such as reducing carbon emissions, or maximising returns for large whales.

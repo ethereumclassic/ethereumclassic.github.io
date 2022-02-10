@@ -4,8 +4,6 @@ seo: A short explaination of the Hardware Requirements for Mining Etheruem Class
 contributors: ["IstoraMandiri", "wpwrak"]
 ---
 
-TODO add notes from wpwrak
-
 Mining Ethereum Classic is almost identical to mining Ethereum, and supports the same hardware and mining software. If you are a recently evicted Ethereum miner, Ethereum Classic loves it's miners and welcomes you, and you can start minining ETC using your existing hardware by simply switching to a [mining pool](./mining/pools) that supports Ethereum Classic.
 
 ## ETCHash

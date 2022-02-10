@@ -122,7 +122,7 @@ exports.onCreatePage = async (
           slugs,
           filterType,
           filterQuery,
-          // TODO make this configurable
+          // LODO make this configurable
           featuredFilterQuery: {
             ...filterQuery,
             featured: { eq: true },

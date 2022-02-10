@@ -3,7 +3,7 @@ import "twin.macro";
 import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
 
 import FooterColumn from "./footerColumn";
-// TODO re-enable locales in next version
+// LODO re-enable locales in next version
 // import LocaleDropdown from "./localeDropdown";
 import SocialIcons from "./socialIcons";
 import Sponsors from "./sponsors";

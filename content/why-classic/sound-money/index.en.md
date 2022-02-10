@@ -3,9 +3,17 @@ title: Sound Money
 seo: An overview of the useful features of money that give it value, and how some blockchains, including Ethereum Classic and Bitcoin, intentionally apply these features to their monetary policy to ensure decentralization and longevity.
 ---
 
+## Key Points
+
+- TODO
+
+## Introduction
+
 The backbone of strong economies, the provider of stability, the incentiviser of long term time preference, the creator of prosperity. Sound Money is the antitode to many of the problems created by the abuses of centralization in the wider world, and is the core concept that spurred on the creation of Bitcoin.
 
 It is from the [Austrian School of Economics](https://mises.org/topics/bitcoin) that many of the theories behind Bitcoin, including [Sound Money](https://mises.org/library/principle-sound-money), saw their philosophical gestation. Decades before Bitcoin was technologically conceivable, economists suchas Ludwig von Mises, Fredreick Hayak and Milton Friedman were professing the dangers of fiat money and advantage of systems of finance that are free from manipulation by central authorities.
+
+## Properties of Sound Money
 
 It was identified that for economies to function over time, their monetary unit must be able to act as a reliable medium of exchange and store of value, by exhibiting the following [properties](https://cryptowhat.com/properties-of-sound-money/), which were intentionally engineered into the design of Bitcoin, and inherited by ETC:
 
@@ -16,13 +24,15 @@ It was identified that for economies to function over time, their monetary unit 
 - Portability: ETC is highly portable. You can carry it on a thumb drive, phone,write it down on paper, or just remember it as a seed phrase!
 - Scarcity: ETC has a finite supply which will be released over time. This makes ETC more scarce than most other forms of currency.
 
+## Known Future Supply
+
 ETC has all of the properties of sound money. It’s decentralized, uncensorable, divisible, transferable, fungible, durable and scarce. The cornerstone of a blockchain's sound monetary policty is scarcity via a _fixed emission curve_. Just like Bitcoin, but [unlike Ethereum](#unsound-money), Ethereum Classic has a _known future supply_, which means that holders of ETC can accurately calculate the total amount of ETC in existence at any point in time; past, present and future.
 
 In the context of blockchains, a _known future supply_ not only provides a prosperous alternative to the legacy fiat system, but also a critical technical role in the systems that utilise it, as the basis for keeping a project decentralized. The monetary policy of a blockchain is a common agreement that all participants voluntary engage with, and it what keeps all parties aligned economically and prevents any groups from accumulating undue influence over others; it's unwavering neutrality is what keeps all participants on an equal footing.
 
 A fixed emissions curve means that the rate of inflation is predictable, and in the case of ETC, is continually decreasing over time. As the value of the network increases, the value of all ETC increases predictably according to this rate, rather than some unknown future rate that could be much higher. ETC's commitment to a fixed emission curve is enshrined into both the protocol and it's social layer, and thanks to Proof of Work, any hard fork that attempts to manipulate inflation will result in a permenant chain split, massively disincentivising such a change to the point of it being _extremely_ unlikely to be contemplated, let alone be attempted, let alone be succesful.
 
-### Unsound Money
+## Unsound Money
 
 Be it fiat or crypto currencies, redistribution of funds via infaltion or currency debasement is one of the oldest tricks in the book for meddling central planners with a misplaced sense of authority. They inevtiably use this mechanism to ensure that when the ship goes down, those who control the keys to the castle will be the first on the life rafts, as they are able to redistribute whatever dregs of value remain to themselves at the expense of holders of the currency - all in the name of safety and stability, of course.
 

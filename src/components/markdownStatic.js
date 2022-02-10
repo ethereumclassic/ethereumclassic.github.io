@@ -16,7 +16,18 @@ export default function MarkdownStatic({ mdx, i18n }) {
     <>
       <MDXProvider
         components={{
-          // pass generic components so they can be used in markdown
+          figure: (props) => <figure tw="text-center font-bold" {...props} />,
+          span: (props) => {
+            if (props.className === "gatsby-resp-image-wrapper") {
+              return (
+                <span
+                  tw="mx-auto bg-white rounded-2xl shadow-md overflow-hidden text-center"
+                  {...props}
+                />
+              );
+            }
+            return <span {...props} />;
+          },
           ...Object.keys(generics).reduce((o, key) => {
             const Comp = generics[key];
             return {

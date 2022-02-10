@@ -6,7 +6,6 @@ export default function useLocaleItems() {
 
   const { locales } = localesConfig;
 
-  // TODO this elsewhere, with static query?
   const localeItems = Object.keys(locales).map((key) => ({
     ...locales[key],
     key,

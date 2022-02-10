@@ -6,7 +6,7 @@ import urlSafe from "../utils/urlSafe";
 
 import Icon from "./icon";
 
-// TODO automatically detect active state when scrolling
+// LODO automatically detect active state when scrolling
 
 function LinkItems({ items, depth = 0 }) {
   return (

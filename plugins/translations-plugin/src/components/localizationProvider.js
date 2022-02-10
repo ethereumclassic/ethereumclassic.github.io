@@ -26,8 +26,8 @@ function LocalizationProvider({
     dayJsImport,
   },
 }) {
-  // TODO find a better way, with React 18?
-  // TODO fix this, it is flickering on first render
+  // LODO find a better way, with React 18?
+  // LODO fix this, it is flickering on first render
   // const [dayJsLoaded, setLoaded] = useState(!dayJsImport);
   // if (dayJsImport && dayJsLoaded !== dayJsImport) {
   //   import(`dayjs/locale/${dayJsImport}`).then((res) => {

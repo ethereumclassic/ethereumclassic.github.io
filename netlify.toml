@@ -85,7 +85,7 @@
 [[redirects]]
   from = "/press/conferences"
   to = "/community/events"
-# TODO update this once MEMES section exists
+# LODO update this once MEMES section exists
 [[redirects]]
   from = "/press/media-kit"
   to = "https://github.com/ethereumclassic/media_kit"

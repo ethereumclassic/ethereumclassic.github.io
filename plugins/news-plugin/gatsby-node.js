@@ -1,7 +1,7 @@
 // This script sets up the news items
 // combines blog and newslinks into single queriable NewsItem type
 
-// TODO make this configurable
+// LODO make this configurable
 
 const types = {
   NewsLinksCollection: { tag: "news" },

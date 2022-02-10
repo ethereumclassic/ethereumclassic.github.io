@@ -7,6 +7,7 @@ import Link from "./link";
 import Icon from "./icon";
 import AppsIcon from "./appsIcon";
 
+// LODO i18n
 const checklist = [
   { key: "verifiedContract", text: "Verified Contract" },
   { key: "openSource", text: "Open Source" },
@@ -33,7 +34,7 @@ function ChecklistSection({ item, ...rest }) {
           ))}
         </div>
       </div>
-      {/* TODO make this behave like table, auto width */}
+      {/* LODO make this behave like table, auto width */}
       <div tw="grid grid-cols-3 gap-x-3 gap-y-1">
         {checklist.map(({ key, text }) => {
           const isChecked = !!item[key];

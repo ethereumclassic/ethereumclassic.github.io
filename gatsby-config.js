@@ -86,6 +86,9 @@ module.exports = {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 780,
+              // linkImagesToOriginal: false,
+              showCaptions: true,
+              backgroundColor: "white",
             },
           },
         ],
@@ -112,7 +115,7 @@ module.exports = {
     {
       resolve: "news-plugin",
       options: {
-        // TODO
+        // LODO
       },
     },
     {

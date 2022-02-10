@@ -5,7 +5,7 @@ import "twin.macro";
 import Logo from "./logo";
 import SearchAlgolia from "./searchAlgolia";
 import MainMenu from "./mainMenu";
-// TODO re-enable in next version
+// LODO re-enable in i18n version
 // import LocaleSelector from "./localeSelector";
 // import LocaleButtons from "./localeButtons";
 import DarkModeSwitcher from "./darkModeSwitcher";

@@ -6,11 +6,17 @@ seo: The origin story of Ethereum Classic, covering the infamous DAO Hack, and t
 info: "**Disclaimer:** The events outlined in this story are believed to be accurate, but some of the details were unable to be verified fully as first hand sources were deleted or otherwise lost to history. If any facts are disputed or additional sources become available, corrections are welcome."
 ---
 
+## Key Points
+
+- TODO
+
+## Introduction
+
 Ethereum Classic's miraciulous origin story will surely be referenced by future crypto historians as a case study that illuminates the sociotechnological fabric of blockchains. Like a Large Hadron Collider experiment, _the incident_ that birthed ETC tore apart what was previously considered a more or less atomic entity, permenantly splitting the Ethereum project in two, and scattering a cascade of valuable insights to observers.
 
 From a purely historical perspective, ETC's story is fascinating and essential reading for any cryptocurrency researcher. But for those who are interested in really understanding what makes blockchains useful and valuable, there is no story more relevant; against all the odds, despite the wishes of many, _Code is Law_ and "Build Unstoppable Applications" ended up prevailing. Through the simple act of persisting, Ethereum Classic validated not just it's own value proposition, but the strength and tenacity of truly decentralized blockchains generally.
 
-## Prologue
+## Advisories
 
 Ethereum Classic's mission can only be properly understood through the events surrounding it's origin story, which by definition puts it at odds with it's sibling [Ethereum](https://ethereum.org) in several important ways. But these differences should not be misunderstood as pitting Ethereum Classic "against" Ethereum as a whole. The two projects share far, far more in common than what separates them. Both Ethereums share the same general ambition to change the world for the better; the difference lies in what each project thinks is required to achieve this change. Ethereum Classic isn't anti-Ethereum; Ethereum Classic _is_ Ethereum.
 
@@ -26,13 +32,13 @@ As time goes on it will become increasingly clear that many critics of ETC are p
 
 ### Blame the Game
 
-With this being said, and whilst coordination failures may have taken place in the past, there is no need for ill-will towards anyone involved in or around the nascent stages of Ethereum. Far from it, all of those who contributed to Ethereum - forkers, anti-forkers, developers and non-developers alike - should be revered for their important work in helping create one of the most important acheivements of our generation.
+With this being said, and whilst coordination failures may have taken place in the past, there is no need for ill-will towards anyone involved in or around the nascent stages of Ethereum. Far from it, all of those who contributed to Ethereum - forkers, anti-forkers, developers and non-developers alike - should be revered for their important work in helping create one of the most important acheivements of a generation.
 
-There are points in this story that may suggest potential financial conflicts of interest, but as it is impossible to determine how much these did or did not play a part, all the individuals involved deserve the benefit of the doubt; decisions made at the time were in all likelihood driven by honest disagreement about what the best outcome would be for Ethereum at a time when there was very little real world precedent to go by.
+There are points in this story that may suggest potential financial conflicts of interest, but as it is impossible to determine how much these did or did not play a part, and these forces are necessary elements of blockchain systems, all the individuals involved deserve the benefit of the doubt; decisions made at the time were in all likelihood driven by honest disagreement about what the best outcome would be for Ethereum at a time when there was very little real world precedent to go by.
 
-The creation of Ethereum Classic was a strange and (at the time) largely unforseen outcome, so rather than blaming individuals or groups, it may be healthier to view the birth of Ethereum Classic as a happy accident that the universe saw fit to grace us with.
+The creation of Ethereum Classic was a strange and (at the time) largely unforseen outcome, so rather than blaming individuals or groups, it may be healthier to view the birth of Ethereum Classic as a happy accident that the universe saw fit to grace humanity with.
 
-For these reasons, this reflection will intentionally avoid name-checking individuals. Only organizations and/or high ranking executive positions will be referenced, and only when their roles are integeral to understanding the situation.
+For these reasons, this reflection will intentionally avoid name-checking individuals, as should future discussions on the topic. Only organizations and/or high ranking executive positions will be referenced, and only when their roles are integeral to understanding the situation.
 
 ## The Original Ethereum Vision
 
@@ -60,13 +66,13 @@ Everything was going well in ETH land; people were excited, new ideas were sprou
 
 A DAO (pronounced "_Dow_ Jones") or "Decentralized Autonomous Organisation" describes a Smart Contract system that, much like a company, manages the distribution of funds for many stakeholders, and is usually goverened by voting mechanisms. The idea of DAOs had been around for a while but weren't practical until Ethereum made it easy to program and launch them, which many teams began to in 2015/16.
 
-![One of The DAO's Logos](./dao.webp)
+![Artwork created for The DAO, based on Taoist symbology](./dao.png)
 
 ### Slock.it
 
 Ethereum Foundation, who raised funds in a crowdsale to create Ethereum, had a Chief Communications Officer who [announced](https://blog.ethereum.org/2015/07/30/ethereum-launches/) the Genesis Block, was an [advocate](https://twitter.com/stephantual/status/711874685156376576) of _Code is Law_, and like many others, saw the bright future promised by "Build Unstoppable Applications". Indeed, it was ultimately the call of EF's CCO to use this term to promote the Ethereum project.
 
-In November 2015, the (now ex) CCO teamed up with some coders and formed a company called slock.it. Slock.it wanted to launch not just _a_ DAO, but _The_ DAO, which would be used as a kind of Venture Capital fund targeting Etheruem projects. It was pitched as a way to both grow the Ethereum ecosystem and net returns for investors, who would deposit ether into The DAO contract in exchange for DAO Tokens, which would allow voting for and yeild rewards from investments made by The DAO.
+In November 2015, the now former CCO teamed up with some coders and formed a company called slock.it. Slock.it wanted to launch not just _a_ DAO, but _The_ DAO, which would be used as a kind of Venture Capital fund targeting Etheruem projects. It was pitched as a way to both grow the Ethereum ecosystem and net returns for investors, who would deposit ether into The DAO contract in exchange for DAO Tokens, which would allow voting for and yeild rewards from investments made by The DAO.
 
 ### Curator Cronyism
 
@@ -74,7 +80,9 @@ The DAO became big news in the Ethereum world, not least because it received sig
 
 Officially, the Ethereum Foundation itself did not have any involvement with The DAO, but perhaps because so many curators had ties to The Ethereum Foundation, this position had to be made explicit.
 
-![No Involvement](./no-involvement.jpeg)
+![The Ethereum Foundation had no involvement with The DAO](./no-involvement.jpeg)
+
+TODO explain why this is important
 
 ### The World's Biggest Crowdsale
 
@@ -102,7 +110,7 @@ As a result of The DAO Hack, a significant amount of ETH had been extracted from
 
 ### Altering the Deal
 
-A very important point to note here is that The DAO Hacker did not exploit anything in the underlying Ethereum protocol itself as the exploit was limited to the The DAO contract. They also did not "break the rules" of the The DAO either; they simply interacted with The DAO in a way that it's authors did not anticipate. Regardless of the _intent_ of it's author's, [The DAO's Terms](http://web.archive.org/web/20160501124801/https://daohub.org/explainer.html) made it clear that the contract code itself is the final arbiter; _Code is Law_:
+A very important point to note here is that The DAO Hacker did not exploit anything in the underlying Ethereum protocol itself as the exploit was limited to the The DAO contract. They also did not "break the rules" of the The DAO either; they simply interacted with The DAO in a way that it's authors did not anticipate. Regardless of the _intent_ of it's author's, [The DAO's Terms](http://web.archive.org/web/20160501124801/https://daohub.org/explainer.html) made it clear that the contract code itself was supposed to be the final arbiter; _Code is Law_:
 
 > The terms of The DAO Creation are set forth in the smart contract code existing on the Ethereum blockchain at 0xbb9bc244d798123fde783fcc1c72d3bb8c189413. Nothing in this explanation of terms or in any other document or communication may modify or add any additional obligations or guarantees beyond those set forth in The DAO’s code. Any and all explanatory terms or descriptions are merely offered for educational purposes and do not supercede or modify the express terms of The DAO’s code set forth on the blockchain; to the extent you believe there to be any conflict or discrepancy between the descriptions offered here and the functionality of The DAO’s code at 0xbb9bc244d798123fde783fcc1c72d3bb8c189413, The DAO’s code controls and sets forth all terms of The DAO Creation.  
 > ...  
@@ -188,7 +196,7 @@ During the debate The Ethereum Foundation attempted to maintain a stance of neut
 
 One problem with implementing the Hard Fork was that if many users needed to "opt-in" with additional confuguration, many (perhaps most) users and miners would be operating on the "unforked" chain, which would all but guaruntee that a chain split would occur and create problems that will be explored shortly. The "solution" was to update the default settings of the Ethereum clients to follow the new Hard Fork rules, and require users who wish to be on the current version of Ethereum to "opt-out" of the fork.
 
-In a veiled attempt to maintain some level of neutrality, the decision of which default to use for geth [was made](https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork/) was based on the outcome of a "coin vote".
+In a veiled attempt to maintain some level of neutrality, the decision of which default to use for Geth [was made](https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork/) was based on the outcome of a "coin vote".
 
 Coin votes, where 1 ETH = 1 vote, are notoriously bad tools to reflect the opinions of a community, especially where those voting are financially incentivsed. If one whale has 90,000 ETH, and 10,000 dedicated community members only have 8 ETH each on average, the whale can gauruntee a win and dictate what the consensus of "the Ethereum community" is. Smaller position voters also have less incentive to participate as they have individually less sway and they collectively requrie a far higher level coordination, effort and gas fees to participate. On top of this, this coin vote had no minimum quorum (only 6% of Ether voted), and most shockingly, it was announced and concluded within 12 hours, giving very little time to coordinate any reponse from anti-forkers, making it impossible get input from half the world that was asleep.
 
@@ -196,17 +204,17 @@ Less than 6% Ether holders voted
 12 hour notice means half of the world was sleeping or working.
 One single address voted with so much Ether that it amounted to 25% of all votes - remember, there was a 72 million premine
 
-Predictably, the results were heavily skewed by a handful of whales who may or may not have had foreknowledge of the announcement. The important decision of which chain for geth to default to was then claimed to be made "by the community" and was later used to justify Ethereum Foundation's support of the forked chain over ETC.
+Predictably, the results were heavily skewed by a handful of whales who may or may not have had foreknowledge of the announcement. The important decision of which chain for Geth to default to was then claimed to be made "by the community" and was later used to justify Ethereum Foundation's support of the forked chain over ETC.
 
 > [The DAO Fork] was voted on by the Ethereum community. Any ETH holder was able to vote via a transaction on a voting platform. The decision to fork reached over 85% of the votes.
 >
 > - [Ethereum.org Website](https://ethereum.org/en/history/#dao-fork)
 
-Whilst it was clear that some pro-forkers did not want geth or any Etheruem Foundation products to even have the option of running the "unforked" chain, to provide plausible neutrality, the infamous `--oppose-dao-fork` flag was added to geth, enabling users to opt-in to the _Code is Law_ chain by enabling this config parameter. It was soon removed in later versions.
+Whilst it was clear that some pro-forkers did not want Geth or any Etheruem Foundation products to even have the option of running the "unforked" chain, to provide plausible neutrality, the infamous `--oppose-dao-fork` flag was added to Geth, enabling users to opt-in to the _Code is Law_ chain by enabling this config parameter. It was soon removed in later versions.
 
-To be fair, other teams within Etheruem Foundation did attempt to provide genuinel neutrality; Mist, the dapp browser, for example, forced users to make an explicit choice of which version of the chain to run when opening the client rather than opting them in to one side of the fork by default. Unfortunately the Mist client decision was far less concequential as it's target user base were neither miners nor exchanges, so would have no signficant effect on hashrate or adoption.
+To be fair, other teams within Etheruem Foundation did attempt to provide genuinel neutrality; Mist, the dapp browser, for example, forced users to make an explicit choice of which version of the chain to run when opening the client rather than opting them in to one side of the fork by default. Unfortunately, the Mist client decision was far less concequential than Geth, as it's target user base were neither miners nor exchanges, so would have no signficant effect on hashrate or adoption.
 
-![](./mist.png)
+![Ethereum Foundation's Mist Wallet asking users to decide which fork to use](./mist.png)
 
 Some Etheruem Foundation members even publicly spoke out against the Hard Fork, cementing the idea that concensus was in fact _not_ reached. To those who stood up for "Build Unstoppable Applications" despite the peer pressure, we salute you.
 
@@ -232,7 +240,7 @@ The DAO Hard Fork was unlike the typical hard forks that happen fairly frequentl
 
 As if by some divine universal law, a dynamic of opposites is seen all throughout nature. The Light and the Dark, the Yin and Yang, the Decentralized and Centralized.
 
-![Haven't we seen this somewhere else?](./pakua.svg)
+![Opposite or contrary forces may actually be complementary, interconnected, and interdependent](./pakua.png)
 
 When an attempt was made to crush the Original Ethereum Vision by it's very authors, the universe provided an equal and opposite response, and on that fateful day, a miracle occured. In a defiant continuation of _Code is Law_, the blocks of the original chain continuned to be mined, following the _Classic_ unforked protocol.
 
@@ -388,7 +396,7 @@ Whichever position is taken - that Code _is_ or _isn't_ Law - major problems rem
 
 Ethereum, then, finds itself culturally lost; it is Wile E. Coyote running off the cliff, as it is only a matter of time for the repo-man of unanswered questions to come knocking in the form of future DAO Fork level choices. Etheruem's current strategic ambiguity towards _Code is Law_ may serve to appease interests temporarily, but it will in future simply cause much larger problems down the road, when having a clear answer to the question of _Code is Law_ would have save a whole bunch of trouble.
 
-In contrst with Etheruem Classic, in Forked Ethereum, the question "When should applications be stopped?" remains unanswered. For example, it is clear that whatever process that determines whether forks should happen on Ethereum has decided that the victims of replay attacks caused by The DAO Hard Fork should not get another Hard Fork, let alone all the major Smart Contract bugs and DeFi Hacks. Presumably allowing these losses is a level of sociopathy that is acceptable to the _Code isn't Law_ brigade.
+In contrst with Etheruem Classic, in Forked Ethereum, the question "When should applications be stopped?" remains unanswered. For example, it is clear that whatever process that determines whether forks should happen on Ethereum has decided that the victims of replay attacks caused by The DAO Hard Fork should not get another Hard Fork, let alone all the major Smart Contract bugs and DeFi Hacks. Presumably, allowing _these_ losses is a level of sociopathy that is acceptable to the _Code isn't Law_ brigade.
 
 Having this question remain unanswered is bound to create future issues for Forked Ethereum, and is the core reason why Ethereum Classic openly advocates for the principle of _Code is Law_ in all circumstances. While it may not always be the most convenient position at any given moment, it can at least treat all participants neutrally, remain philosophically consistent, and therefore has the potential to stand the test of time.
 
@@ -402,7 +410,7 @@ But despite the chaos, one project, or more specifically, one philosophy, whilst
 >
 > - You, probably
 
-To those who "get" _Code is Law_, and understand the true value of blockchains, the answer to this is obvious. There is a world of difference between market cap and network value, and whilst the market can stay irrational for a long time, eventually all blockchains will face existential challenges that can only be overcome through an _unwavering_ commitment to unstoppability. Slow and steady wins the race.
+To those who "get" _Code is Law_, and understand the true value of blockchains, the answer to this is obvious. There is a world of difference between market cap and network value, and whilst the market can stay irrational for a long time, eventually all blockchains will face existential challenges that can only be overcome through an _unwavering_ commitment to unstoppability. Slow and steady wins that race.
 
 Having made the choice to abandon _Code is Law_, Etheruem must live with this going forward, including during future crises where it's abandonment may prove to be a fatal mistake. Luckily for humanity, though, when this happens, Ethereum Classic will be there to pick up the pieces.
 

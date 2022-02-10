@@ -9,7 +9,6 @@ export default function FourOhFour({ i18n, pageContext, location, path }) {
   return (
     <div tw="mx-auto max-w-4xl py-20 text-center">
       <h1 tw="text-3xl mb-20">{i18n.message}</h1>
-      {/* TODO back button */}
       <div>
         <Button
           onClick={() => {

@@ -20,7 +20,7 @@ function sort(items, { filter, sort }) {
 }
 
 export default function Generic({ i18n }) {
-  const items = i18n.items || [{ TODO: i18n }];
+  const items = i18n.items;
   return (
     <>
       {/* title is rendered in contentHeader */}

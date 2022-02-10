@@ -4,7 +4,7 @@
 
 ETC3022 v0.1 | [EthereumClassic.org](https://ethereumclassic.org/) | [Build logs](https://app.netlify.com/sites/ethereumclassic/deploys)
 
-TODO: replace this image with something new
+LODO: replace this image with something new
 
 ![ETC Decentralized Development](https://github.com/ethereumclassic/Media_Kit/blob/master/Graphic_Design/ETC_Community/etc---decentralized-development_38612869451_o.png)
 
@@ -20,7 +20,7 @@ If you want to modify content or add blog articles, you can do so in a number of
 
 - Easy Mode: Create an issue with suggested changes (a maintainer will implement the changes)
 - Edit on Github: Edit directly via the github UI; you can also manually edit content by modifying files in the `content` directory
-- Translations: TODO, we will use Crowdin
+- Translations: LODO, we will use Crowdin
 - Developers only: see (development)[#development]
 
 ### Easy Mode
@@ -29,7 +29,7 @@ If you're not familiar with GitHub making a pull request seems complicated, then
 
 ### Submit Links on Github
 
-TODO: add more about different content types
+LODO: add more about different content types
 
 If you'd like to submit an Ethereum Classic related article to the website's News section, please follow the instructions below.
 
@@ -49,7 +49,7 @@ If you're writing Ethereum Classic content, the [Media Kit](https://github.com/e
 
 ### Translations 🌐
 
-TODO, rewite this, with Crowdin instructions
+LODO, rewite this, with Crowdin instructions
 
 ## Development
 

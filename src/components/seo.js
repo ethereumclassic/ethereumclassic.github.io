@@ -1,5 +1,5 @@
 import React from "react";
-// TODO replace with pre-rendered string
+// LODO replace with pre-rendered string?
 import { renderToString } from "react-dom/server";
 
 import { Helmet } from "react-helmet";
@@ -18,7 +18,7 @@ export default function Seo({ data, i18n, path, pageContext: { basePath } }) {
   const { isDark } = useTheme();
 
   const url = `${siteUrl}${path}`;
-  const image = `${siteUrl}${socialImage}`; // TODO extract image from MDX somehow
+  const image = `${siteUrl}${socialImage}`; // LODO extract first image from MDX, somehow
   const title = dedupeStrings(
     data?.mdx?.meta?.title || i18n.title,
     ui.title,
@@ -80,7 +80,6 @@ export default function Seo({ data, i18n, path, pageContext: { basePath } }) {
         {/* meta head */}
         <meta name="description" content={description} />
         <meta name="image" content={image} />
-        {/* search indexing; TODO */}
         {category && <meta property="article:section" content={category} />}
         {author && <meta property="article:author" content={author} />}
         {published && (
@@ -108,7 +107,7 @@ export default function Seo({ data, i18n, path, pageContext: { basePath } }) {
         <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content={image} />
       </Helmet>
-      {/* TODO only show in i18n editing mode */}
+      {/* LODO only show in i18n editing mode */}
       {false && (
         <div tw="z-50 fixed p-2 left-1/4 border border-shade-lighter rounded-xl shadow bottom-2 right-2 bg-backdrop-dark">
           <table>

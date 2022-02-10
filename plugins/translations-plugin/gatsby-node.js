@@ -15,7 +15,7 @@ const cache = {
 function importFiles(fileList = []) {
   return fileList.reduce((o, file) => {
     const key = file.split("/").pop().split(".")[0];
-    // TODO replace with configurable path
+    // LODO replace with configurable path
     const loc = `${process.env.PWD}/content/${file}`;
     const cached = cache.files[loc];
     const data = cached || yaml.load(fs.readFileSync(loc, "utf-8"));

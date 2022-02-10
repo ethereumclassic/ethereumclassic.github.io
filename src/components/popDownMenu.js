@@ -5,7 +5,6 @@ import tw from "twin.macro";
 import Fader from "./fader";
 import PopOverContainer from "./popOverContainer";
 import isSSR from "../utils/isSSR";
-// TODO keep this DRY
 
 export default function PopDownMenu({ children, left, cta }) {
   return (
