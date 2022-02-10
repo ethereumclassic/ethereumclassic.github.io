@@ -18,7 +18,7 @@ function RandomWords({ words }) {
 
 function Text({ text, randomWords }) {
   return (
-    <div tw="flex flex-col space-y-4 font-display tracking-wider font-bold text-4xl sm:text-6xl md:text-5xl lg:text-6xl text-primary-lightest dark:text-primary-darkest">
+    <div tw="flex flex-col space-y-4 font-display tracking-wider font-bold text-5xl sm:text-6xl md:text-5xl lg:text-6xl text-primary-lightest dark:text-primary-darkest">
       {text.split("%%").map((str) =>
         str === "$$" ? (
           <RandomWords key={str} words={Object.values(randomWords)} />

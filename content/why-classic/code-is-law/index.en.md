@@ -49,11 +49,9 @@ If history is anything to go by, attempts will be made to stifle adoption of the
 
 ## Where Code isn't Law
 
-TODO short thing about Code is Law is for contracts, obviously the client code can change (duh)
+A common misconception about _Code is Law_ is that it is supposed to apply to all parts of a blockchain's technology stack, including the code of the clients themselves. This is non-sensical, as blockchain clients themselves are written in traditional programming languages and operate in traditional execution environments, where code couldn't be law if it wanted to. Rather, blockchain clients are written to participate in a given blockchain's _protocol_, who's operation creates a new decentralized execution environment; a _Contract Layer_ that sits on top, where _Code is Law_ can operate.
 
-The vast majority of blockchains projects today do not give much priority to _Unstoppability_, _Decentralization_ or _Code is Law_, and are therefore unable to deliver on the bright future alluded to above.
-
-Chains that do not care about _Code is Law_ may certainly carve out niches in areas that won't shake things up too much, but the moment they pose a threat to powerful incumbants, they will be easily manipulated, captured or otherwise compromised, and will therefore ultimately fail to deliver seriously monumental change.
+Some chains have abandoned the idea of _Code is Law_ entirely, indeed, the vast majority of blockchain projects today do not give much if any priority to _Unstoppability_, _Decentralization_ or _Censorship Resistance_, and are therefore unable to deliver on the bright future alluded to above. These projects may certainly carve out niches in areas that won't shake things up too much and do not to be _Sovereign_, but the moment they pose a threat to powerful incumbants, they will be easily manipulated, captured or otherwise compromised, and will therefore ultimately fail to deliver seriously monumental change.
 
 Sadly, this is true for ETC's younger sibling Ethereum; a project that once shared these principles, but after only a year, split away, rebooting a new chain with new rules, going down a new path, and explicitly disavowing _Code is Law_.
 

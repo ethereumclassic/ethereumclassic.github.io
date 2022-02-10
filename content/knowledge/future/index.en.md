@@ -7,7 +7,7 @@ seo: An overview of the future development roadmap and how decisions are made in
 disclaimer: opinion
 ---
 
-Unlike other projects, Ethereum Classic does not have a central organizing comittee calling the shots, so similar to Bitcoin, what gets implemented in the protocol is determined through an organic, meritocratic, emergent system. Whilst this appraoch is not designed to yeild explosive growth at first, the trade-off is made for long term sustainability, and Ethereum Classic's persitence has put it in a strong position for it's next stage of growth when network effects begin to snowball adoption.
+Unlike many other blockchain projects, Ethereum Classic does not have a central organizing comittee calling the shots, so what gets implemented in the protocol is determined through an organic, meritocratic, emergent system, rather than from the top down. Whilst this appraoch is not designed to yeild explosive expansion at first, the trade-off is made for long term sustainability, and Ethereum Classic's persitence has put it in a strong position for it's next stage of growth when network effects begin to snowball adoption.
 
 In this section, we will unpack this process, take a high level overview of the current state of ETC, and briefly cover some potential upgrades currently being discussed and may be on the horizon for ETC.
 
@@ -24,6 +24,12 @@ Rather than a "move fast and break things" mentality, which can cause financial 
 Additionally, care is taken to ensure that, as much as possible, contracts that were deployed as far back in 2015 can faithfully operate in perpetuity, and that _Code is Law_ is maintained.
 
 This does not mean that ETC is unable to innovate opportunistically. One such example is the [Thanos fork](/knowledge/forks#thanos), which took advantage of Ethereum's increasing DAG size in order to sweep up security by allowing an otherwise abandoned category of GPUs to mine ETC, which was an easy win-win upgrade for Ethereum Classic.
+
+### Inherited Innovation
+
+As Etheruem Classic maintains compatibiltiy with Ethereum Virtual Machine, it inherits all of the innovations that happen on other EVM chains, including contract systems, devleoper tooling, libraries and other general concepts that were funded by and developed primarily for these other chains.
+
+Optimistic rollups, a promising Layer 2 technology that enhances scalability via off-chain transactions, is an excellent example of this. Thanks to the nature of Free Open Source Software, millions of dollars of research and development were spent by projects and teams that had no association with Ethereum Classic, but this innovation, thanks to generalised EVM compatibility, has indirectly increased the utility and value of ETC.
 
 ### Etheruem as a Testnet
 
@@ -74,7 +80,3 @@ It is becoming increasingly clear that the only reasonable ways to scale blockch
 Layer 2 promises to provide adequate assurances of decentralization and trustlessness, with much greater transaction throughput by managing state off-chain and using the base chain for settling this state. In theory, there is no upper bound to the number of transactions per second in many Layer 2 systems, and can, again in theory, satisfy civilization-scale usage requirements.
 
 With Etheruem Classic's EVM and commitment to Proof of Work that will eventually dominate mining in Ethash or SHA3, it will be one of the only choices for a Sovereign Grade base layer that can support a full range of L2 solutions.
-
-### Inherited Innovation
-
-TODO paragraph about benefitting from success elsewhere
