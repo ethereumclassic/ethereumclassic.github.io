@@ -27,10 +27,6 @@ items:
         __link: https://open.kakao.com/o/gi4uNJ1
         __brand: kakao
         name: Kakao (Korean)
-      chat Tencent QQ: # TODO check this
-        __brand: qq
-        __alert: ETC Asia-769408114
-        name: QQ (Asian)
       chat Slack:
         __link: https://ethereumclassic.herokuapp.com/
         __brand: slack

@@ -13,8 +13,6 @@ seo: A thesis explaining the decentralist values that underpin Ethereum Classic'
 
 One of the first publications about Ethereum Classic that came out after the DAO Hard fork was called [A Crypto-Decentralist Manifesto](/blog/2016-07-11-crypto-decentralist-manifesto), and in protest of The Fork, it underlined the classic decentralized approach to organizing blockchain projects. This document set the tone for ETC's future developmnet, and since it's creation, much has been learned about the nature of this illusive but vital concept.
 
-TODO: explain Decentralist Manifesto, Decentralism, Decentralization Maximalism.
-
 > Decentralized, Immutable, Unstoppable.
 >
 > - Ethereum Classic Website, 2016
@@ -25,26 +23,15 @@ This series of buzzwords is actually a recipie for unlocking the value potential
 
 Decentralization is a property that exists in many systems and in many forms throughout nature. It is not a binary property, but a spectrum, that ebbs and flows through time. It's difficult to articulate a hard and fast definition for _decentralization_ in all contexts, but it can be visually understood fairly intuitively.
 
--- image of decentralization --
+![As a system becomes more decentralized, it has fewer choke points, making it harder to capture](./decentralization.jpg)
 
 In the realm of blockchain projects, there are many ways of measuring decentralization, with one rough quantification being "The ratio of people needed to be compromised in order to take over the system". That is to say, if an attacker wanted to control or censor a chain, a project that required them to compromise 80% of participants is _more decentralized_ than a project that only requried 10% to be compromised.
 
-This measurement is known as the [nakamoto coefficient](https://minima.global/blog/the-nakamoto-coefficient-an-attempt-to-quantify-decentralization), and whilst it is a good conceptual tool, is a fairly low-resolution one-dimensional measurement, and in reality, decentralized systems are able to be designed in a way that can make capture more easy or difficult by configuring different groups with different responsibilitites.
+This measurement is known as the [nakamoto coefficient](https://minima.global/blog/the-nakamoto-coefficient-an-attempt-to-quantify-decentralization), and whilst it is a good conceptual tool, is a fairly low-resolution one-dimensional measurement, and in reality, decentralized systems are able to be designed in a way that can make capture more easy or difficult by assigining different groups with different responsibilitites, and due to their diversity of responsibiltiies and backgrounds, requires more effort to capture.
 
-A more accurate measurement of decentralization in Bitcoin would, for example, attempt to take into account:
+A more accurate measurement of decentralization in Bitcoin would, for example, attempt to take into account mining (by reward), clients (by codebase), developers (by commits), exchanges (by volume), nodes (by count), and ownership (by value distribution). But even this more nueanced approach far from perfect, as a single snapshot measurement does not yeild much insight about whether a system is able to maintain decentralization over time.
 
-- Mining (by reward)
-- Clients (by codebase)
-- Developers (by commit)
-- Exchanges (by volume)
-- Nodes (by count)
-- Ownership (by addresses)
-
-Attackers that wish to "own" the system have a more difficult job the more decentralized a project is. To defend against take-overs, projects need to reach a sufficient level of decentralization, which means minimizing the number of central points of failure and bottlenecks, which can exist in many different places in the system.
-
-In theory, the most decentralized a project could be is _fully decentralized_; attackers must compromise _everyone_ for the system to stop operating, and it can continue with only one (or no) honest actor(s). These kinds of systems are vanishingly rare and seldom practical; in practice, either a technological or social limiting factor stands in the way of the persuit of secure, decentralized, and scalable systems, so compromise must be made somewhere.
-
-TODO; Even thtis measurement is kind of bad as it only takes into taccount the current state of affairs, and it may be that other factors are more important; such as how to maintain decentarlization over time, is it permissionless, etc.
+However it is quantified, attackers that wish to "own" the system have a more difficult job the more decentralized a project is. To defend against take-overs, projects need to reach a sufficient level of decentralization, which means minimizing the number of central points of failure and bottlenecks, which can exist in many different places in the system.
 
 ### The Blockchain Trilemma
 
@@ -52,7 +39,7 @@ TODO; Even thtis measurement is kind of bad as it only takes into taccount the c
 >
 > - The Blockchain Trilemma, [Gemini.com](https://www.gemini.com/cryptopedia/blockchain-trilemma-decentralization-scalability-definition#section-what-is-the-blockchain-trilemma)
 
-TODO: image of trilemma
+![The Blockchain Trilemma](./trilemma.png)
 
 ...
 
@@ -60,7 +47,7 @@ TODO: A similar decision of sorts also effects the SOCIAL layer of the blockchai
 
 TODO: leaving aside security as a given, blockchains then have a choice of scalability, and decentralization...
 
-### "Min-Maxing" Character Creation
+### "Min-Maxing" Decentralization
 
 CAP theorem, _The Blockchain Trilemma_ and the various approaches to organizing socially means that all blockchain projects are forced to hedge their bets by 'specializing' into certain classes with a scarse number of 'ability points'. Every project must place itself somewhere in the the space of these dimensions, sacrificing some for others. Much like a video game character, the attributes selected will define a blockchain's class, abilitites and effectiveness in battle.
 
@@ -162,33 +149,29 @@ Having no central group to call the shots means that any individual or group can
 
 ### Balancing Power
 
-BIG TODO, really important point
+As echoed by the structure of existing instiutions such as The Government of The United States of America, in order to rein in bad decision making and prevent one group from hijacking a system as a whole for it's own interests, a balance of power between different players needs to exist in systems that wish to maintain longevity. This concept is also known as "checks and balances".
 
-PoW prevents capture by balancing power between multiple groups and providing them with vidoes agains bad decision making.
+![The US Government is an example of a system that implements Checks and Balances](./congress.png)
 
-As echoed by the structure of existing instiutions, in order to prevent one group of interests from hijacking a system for it's own interests, a balance of power between different players needs to exist for a system to maintain longevity.
+As with The US Government, checks and balances are an imporatnt feature of Proof of Work blockchains, where three major power groups exists and balance each other's power.
 
-The original blockchain, Bitcoin, takes advantage of the possibility of chain splits and strategically placed incentives in a way that created a virtulous circle of contribution, profit and stability cycling through it's various stakeholders.
+| Group      | Role                                      | Veto                   |
+| ---------- | ----------------------------------------- | ---------------------- |
+| Developers | Maintain clients and infrastrucutre       | Stop maintaining code  |
+| Miners     | Provide security against 51% attacks      | Mine a different chain |
+| Financeers | Provide liquidity and finance initiatives | Sell holdings          |
 
-- Developers (of Clients and Infrastructure) can refuse to implement code or stop maintaining a version of the protocol
-- Miners can refuse to mine the chain mine another chain or a fork they prefer
-- Investors and Traders can sell their holdings
+The alignment of three major powers in Proof of Work blockchains provides stability; they each add value to the system in completely different ways, and each holds the system to account through the power of veto, which ensures that no other groups can screw things up too badly. Whether a government or a blockchain, things tend to go wrong when these checks and balances are fiddled with.
 
-This alignment of three major powers within Bitcoin provides stability in several ways; they each add value to the system in completely different ways, and the power of veto, which ensures that each group can overrule the other.
+Note that this configuration of _three_ is important, as it also means that the group can overcome consensus issues by way of simple majority vote. This odd-number electorate is a common pattern in distributed systems; with only two participants, a deadlock can ensue as each side vetos the other, and no third party is able to resolve the dispute.
 
-Importantly, three is a magic number when it comes to decision making, as there most decisions can be facilitated through majority rule o
-
-Note, that this pattern of three is important, as it menas the group can overcome connsensus issues by way of simple majority vote, but with each group getting a veto. If ther ewere only two participants, a deadlock could ensue as each veto each other.
-
-It is a beautiful symphony of balanced interests, helt together by a system of competing interestes that incentivise either voluntary engagement or ostracism, with three main parties:
-
-TODO mention balance of power, examples of inflation, proof of stake, cuasing runaway centralization...
+It is a beautiful symphony of balanced power, held together by a system of competing interestes that incentivise either voluntary engagement or ostracism of bad behaviour, and the structure itself keeps all parties aware of their role and aligned to fulfil it.
 
 Miners provide security and get rewarded in Bitcoin, which only has value if the network is useful thanks to developers and other providers maintaining the protocol and building out infrastructure, facilitated by traders providing liquidity and investors speculating and funding projects.
 
-Like struts holding up the base of a tower, these well-placed incentives rely on each other for support, and together, as long as they are correctly distributed, can yeild a new structure greater than the sum of their parts, and can overcome the centralizing forces of gravity, potentially for millenia.
+Like struts holding up the base of a tower, these well-placed incentives rely on each other for support, and together, as long as they are correctly distributed, can yeild a new structure greater than the sum of their parts, and can stand potentially for millenia.
 
-Bitcoin's distinct seperation of responsibilities enhances decentralization by incentivising a more diverse groups of participants with differing interests, profiles, and weaknesses. Even with the same number of total participants, a system with more separation of concerns will be more difficult to capture because.
+On top of this, a diversity of roles makes a system more difficult to take down by encouraging participation from parties with differing interests, profiles, and weaknesses. Like multiple layers of defence, the more diverse the pool of participants that secures blockchain is, the harder it is for an attacker to comprosise, as a diversity of weakenesses requires a diversity of attacks, and a higher cost is needed to capture the system. Even with the same number of _total_ participants, a system with more separation of concerns can be considered more decentralized and more difficult to capture because of this diversity.
 
 The blueprint introduced by Bitcoin was also used by many other cryptocurrencies including Ethereum, which largely copied the fundamentals, tweaked some variables, and (brilliantly) added a turing complete virtual machine. Much like an architectural blueprint, encoding the structure of a real world building, it would be seemingly unwise to remove one or more of the struts that was critical to keeping the structure from collapsing in on itself into a centralized mess.
 
