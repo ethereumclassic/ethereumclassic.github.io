@@ -8,11 +8,11 @@ import { InstantSearch, connectSearchBox } from "react-instantsearch-dom";
 import Icon from "./icon";
 import Fader from "./fader";
 import SearchResults from "./searchAlgoliaResults";
-import isSSR from "../utils/isSSR";
+// import isSSR from "../utils/isSSR";
 
 const algoliaAppId = process.env.ALGOLIA_APP_ID;
 const algoliaApiKey = process.env.ALGOLIA_SEARCH_KEY;
-const algoliaIndex = process.env.ALGOLIA_MAIN_INDEX;
+const algoliaIndex = process.env.ALGOLIA_MAIN_INDEX || "placeholder";
 
 const SearchBox = connectSearchBox(({ refine }) => {
   const setValueDebounced = useDebounce(refine, 500);

@@ -26,11 +26,11 @@ function mapToc(item, i18n = item) {
 export default function Content({ data = {}, i18n = {}, children, max }) {
   const { mdx, contributors } = data;
   const { sub, current } = useNavigation();
-  const toc = mdx?.headings[0]
-    ? mdx?.toc.items[0].items
-    : mdx?.toc.items ?? [mapToc(i18n)].filter((i) => i)[0]?.items;
+  const i18nToc = [mapToc({ title: true, ...i18n })].filter((i) => i)[0]?.items;
+  const mdxToc = mdx?.headings[0] ? mdx?.toc.items[0].items : mdx?.toc.items;
+  const toc = mdxToc || i18nToc;
   const showLeft = sub?.navItems.length > 0;
-  const showRight = toc?.length > 1;
+  const showRight = toc?.length > 1 || (toc[0] && toc[0].items);
   return (
     <TwContainer grid>
       {showLeft && (
@@ -66,15 +66,13 @@ export default function Content({ data = {}, i18n = {}, children, max }) {
           <>
             <article tw="prose max-w-none">
               <ContentHeader {...{ mdx, i18n }} />
-              {mdx ? (
-                <MarkdownStatic {...{ mdx, i18n }} />
-              ) : (
-                <Generic {...{ i18n }} />
-              )}
+              {mdx && <MarkdownStatic {...{ mdx, i18n }} />}
+              {(!mdx || (mdx && i18n.items)) && <Generic {...{ i18n }} />}
             </article>
-            <ContentFooter {...{ mdx, i18n, contributors, current }} />
+            <ContentFooter {...{ mdx, i18n, contributors, current, sub }} />
           </>
         )}
+        {/* <Json>{{ toc }}</Json> */}
       </main>
       {showRight && (
         <aside

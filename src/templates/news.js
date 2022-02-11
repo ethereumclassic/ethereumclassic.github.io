@@ -4,9 +4,12 @@ import GlobalLayout from "../components/globalLayout";
 import News from "../components/news";
 
 export default function NewsTempalte(props) {
-  // TODO set title to this tag's name
+  const categoryTitle = props.i18n.tagNames[props.pageContext.filter];
+  const title = categoryTitle
+    ? `${categoryTitle} - ${props.i18n.title}`
+    : props.i18n.title;
   return (
-    <GlobalLayout {...props}>
+    <GlobalLayout {...props} i18n={{ ...props.i18n, title }}>
       <News {...props} />
     </GlobalLayout>
   );

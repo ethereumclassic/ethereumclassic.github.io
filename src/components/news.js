@@ -21,7 +21,11 @@ export default function News({ pageContext, data, i18n }) {
             <h1 tw="text-2xl font-bold text-shade-darker">
               <Link to="/news">{i18n.title}</Link>
             </h1>
-            <p tw="text-sm text-shade-neutral">{i18n.description}</p>
+            {pageContext.filter && (
+              <h2 tw="font-display text-primary-dark leading-6 font-semibold tracking-wide text-lg">
+                {i18n.tagNames[pageContext.filter] || pageContext.filter}
+              </h2>
+            )}
           </div>
           <div tw="hidden lg:block">
             <Disclaimer type="mini" text="verify" />

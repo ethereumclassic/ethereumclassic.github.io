@@ -179,9 +179,9 @@ In reality, there is no such thing as a free lunch, and after many years of theo
 
 For all the known downsides, the projects that nevertheless opt for Proof of Stake must either be _extremely_ concerned about energy usage, or possibly more beleivably, are primarily concerned that staking will economically benefit stakers. But this concern itself is misguided, as a project can only have long term value if it provides utility, which is undermiend by the centralization and trade-offs necessitated by Proof of Stake.
 
-It may be that holders of such coins believe they are providing a comparible service to mining, but they are not converting a real world expense into a security benefit, as with mining. Instead, they are redistributing value from elsewhere in the network to themselves by taxing non-stakers through inflation.
+It may be that holders of such coins believe they are providing a comparible service to mining, but they are not converting a real world expense into a security benefit, as with mining. Instead, they are _shuffling deck chairs on the Titanic_ by redistributing value from elsewhere in the network to themselves by taxing non-stakers through inflation.
 
-In any case, because of the inherant trade-offs required in Proof of Stake systems, it is clear that _Soveriegn Grade Censorship Resistance_ is not a priority on these chains, and as such, they cannot be recommended for deployments that are likely to provide any significant value or have the potential disrupt powerful incumbant institutions.
+In any case, because of the inherant trade-offs required in Proof of Stake systems, it is clear that _Soveriegn Grade Censorship Resistance_ is not a priority on these chains, and as such, they cannot be recommended for deployments that have the potential to disrupt powerful incumbant institutions.
 
 ## Classic Solutions
 

@@ -16,7 +16,7 @@ export default function LandingApps({ items }) {
         <div tw="grid grid-cols-1 sm:grid-cols-2 gap-3">
           {items.map(({ node }, i) => (
             <AppsItem
-              id={node.id}
+              key={node.id}
               item={node}
               monochrome
               hash={false}

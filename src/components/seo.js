@@ -19,11 +19,10 @@ export default function Seo({ data, i18n, path, pageContext: { basePath } }) {
 
   const url = `${siteUrl}${path}`;
   const image = `${siteUrl}${socialImage}`; // LODO extract first image from MDX, somehow
-  const title = dedupeStrings(
-    data?.mdx?.meta?.title || i18n.title,
-    ui.title,
-    " - "
-  );
+  const pageTitle = data?.mdx?.meta?.title || i18n.title || ui.title;
+  const title = pageTitle.includes(ui.title)
+    ? pageTitle
+    : `${pageTitle} - ${ui.title}`;
   const author = data?.mdx?.meta?.author || i18n.author;
   const updated = data?.mdx?.meta?.updated || i18n.updated;
   const published = data?.mdx?.meta?.published || i18n.published;

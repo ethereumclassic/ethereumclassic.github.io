@@ -198,7 +198,7 @@ function LandingArtworkInner({ i18n }) {
             <div tw="absolute top-96 left-10">
               <Parallax
                 shouldAlwaysCompleteAnimation
-                translateY={[0, 180]}
+                translateY={[0, 60]}
                 rotate={[120, -120]}
                 opacity={[2, 0]}
               >

@@ -3,18 +3,14 @@
 ```
 ~~~ 3022.VO.2 ~~~
 
-NOW
-- Remove menu from blog post (add next/prev query instead)
-- Ensure correct contributors for each piece of content (git blame)
-- Sychronise content with upstream
-
 CONTENT
-- Systematically proof read & spell check
-- Key Points overviews
-- Spell check and edit content
-- Origin
-  - Make it shorter, less than 15 minutes, but move out content to differente sections?
-  - Less emphasis on inconcequential stuff, move all the "Neutral Foundation" to another section
+- TODOs
+- Ensure correct contributors for each piece of content (git blame)
+- Proof read each page
+  - Spell check and edit content
+  - Systematically proof read & spell check
+  - Key Points overviews
+- Sychronise content with upstream
 
 ~~~ 3022.V0.3 SOFT LAUNCH ~~~
 
@@ -50,6 +46,8 @@ ADMIN
 
 ~~~ 3022.V1.NEXT ~~~
 
+- Turn inline videos into modals, and cache thumbnail?
+- Consider refactoring mdx/yaml content population by merging them, so frontmatter does not override
 - Memes
 - Prev/Next blog items
 - Pre-render markdown
