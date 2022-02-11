@@ -49,10 +49,22 @@ If history is anything to go by, attempts will be made to stifle adoption of the
 
 ## Where Code isn't Law
 
+Three palces where code can't be law.
+
+### The Old World
+
+TODO: We're not saying ONLY code is law -- your local constabulary is more than welcome to do it's thing... It's an opt-in system with off-chain concequences that depend on what the user does with it. Just like fire can be used to both warm and destroy, as a new technological primitive, restricting it will cut off innovation and put those who try to extinguish it in the graveyard of history. There is no question that a big challange exists in how the world interfaces with this new tech, but that's not our job. Don't shoot the messanger, bro.
+
+### Outside the Contract Layer
+
 A common misconception about _Code is Law_ is that it is supposed to apply to all parts of a blockchain's technology stack, including the code of the clients themselves. This is non-sensical, as blockchain clients themselves are written in traditional programming languages and operate in traditional execution environments, where code couldn't be law if it wanted to. Rather, blockchain clients are written to participate in a given blockchain's _protocol_, who's operation creates a new decentralized execution environment; a _Contract Layer_ that sits on top, where _Code is Law_ can operate.
+
+### 9 out of 10 Chains
 
 Some chains have abandoned the idea of _Code is Law_ entirely, indeed, the vast majority of blockchain projects today do not give much if any priority to _Unstoppability_, _Decentralization_ or _Censorship Resistance_, and are therefore unable to deliver on the bright future alluded to above. These projects may certainly carve out niches in areas that won't shake things up too much and do not to be _Sovereign_, but the moment they pose a threat to powerful incumbants, they will be easily manipulated, captured or otherwise compromised, and will therefore ultimately fail to deliver seriously monumental change.
 
-Sadly, this is true for ETC's younger sibling Ethereum; a project that once shared these principles, but after only a year, split away, rebooting a new chain with new rules, going down a new path, and explicitly disavowing _Code is Law_.
+## Big Sis
+
+Sadly, this is true for ETC's younger, albeit weightier sibling, Ethereum; a project that once shared these principles, but after only a year, split away, rebooting a new chain with new rules, going down a new path, and explicitly disavowing _Code is Law_.
 
 To understand what happened, we must now reflect on Ethereum Classic's shared history with Ethereum and revisit _the incident_ that led to ETC's genesis...
