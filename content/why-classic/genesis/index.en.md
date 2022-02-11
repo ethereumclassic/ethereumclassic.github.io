@@ -82,7 +82,7 @@ Officially, the Ethereum Foundation itself did not have any involvement with The
 
 ![The Ethereum Foundation had no involvement with The DAO](./no-involvement.jpeg)
 
-TODO explain why this is important
+Ethereum Foundation's early attempts to distance themselves from The DAO are important to note, as despite claims of neutrality, later actions appear to tell a different story.
 
 ### The World's Biggest Crowdsale
 
@@ -252,7 +252,7 @@ In contrast to the newly forked Ethereum, the unforked Etheruem was opposite in 
 
 ![](./fork.png)
 
-Confusingly, the Ethereum Foundation determined that their new forked chain would be called "Ethereum", and from then on it would exclusively receive official support from the Foundation - not limited to development and marketing. But _Code is Law_ is not something that could be forked away on a whim, and the original chain they abandoned continued to chug along. The longest running Smart Contract platform is, was, and always will be _Ethereum Classic_.
+Confusingly, the Ethereum Foundation determined that their new forked chain would be called "Ethereum", and from then on it would (almost) exclusively receive official support from the Foundation - not limited to development and marketing. But _Code is Law_ is not something that could be forked away on a whim, and the original chain they abandoned continued to chug along. The longest running Smart Contract platform is, was, and always will be _Ethereum Classic_.
 
 ### The Immaculate Conception
 
@@ -268,11 +268,13 @@ Three days and three nights after The DAO Hard Fork, The Original Ethereum Visio
 
 Two days later, a version of Geth is forked that defaults to the Classic chain and removes The DAO Fork code. Three days after this, Ethereum Classic is officially supported by Parity, Ethereum's second major client. Prominent ETH miners quibble about whether or not to "51% attack" ETC to prevent it's rise, but eventually decide let let it grow unscathed.
 
-### TODO
+### The Declaration of Independence
 
-ETC community declares its independence in August 2016.
+In short order, the Ethereum Classic community launched EthereumClassic.org and declared its independence.
 
 > Let it be known to the entire world that on July 20th, 2016, at block 1,920,000, we as a community of sovereign individuals stood united by a common vision to continue the original Ethereum blockchain that is truly free from censorship, fraud or third party interference. In realizing that the blockchain represents absolute truth, we stand by it, supporting its immutability and its future. We do not make this declaration lightly, nor without forethought to the consequences of our actions.
+>
+> - [The Ethereum Classic Declaration of Independence](/blog/2016-08-13-declaration-of-independence)
 
 ## The Difficult Breakup
 
@@ -284,7 +286,7 @@ The chain split was far from painless, and had all of the side effects been know
 
 Pro-forkers, rather than accepting responsibility, proclaimed that this new "Classic" thing was trouble; it was an attack on Ethereum by Bitcoin Maximalists, an empty protest chain, a zombie that would disappear in short order, even a "chain of thiefs". ETC was many things, but definitely _not_ legitimate, and nobody that supported Etheruem could honestly support Ethereum Classic; _that_ was heracy.
 
-For many, those responsible for Ethereum Classic were "baddies", who had to pay for their crime. Much of this post-fork animosity was captured at the time by commenters, but to avoid picking at scabs, we strongly advise against Duck Duck Going the title of this section.
+For many, those responsible for Ethereum Classic were "crazies", "baddies", or worse, and they had to pay for their crimes. Much of this post-fork animosity was captured at the time by commenters, but to avoid picking at scabs, we strongly advise against Duck Duck Going the title of this section.
 
 ### "Free Money" and the Ultrafair Redistribution
 
@@ -342,7 +344,7 @@ Though WHG provided their [own rationale](https://archive.is/tKKWY) for why they
 
 ### Replay Attacks
 
-One effect of not preparing for a possibility of a chain split was the prospect of replay attacks, which could, both accidentally and intentially, cause the loss of funds and/or theft from either side of the chain. The possibility of replay attacks [was known in advance](#TODO), but presumably to play down the possibility of a chain split being a concern, no action was taken to mitigate or even warn the community about them.
+One effect of not preparing for a possibility of a chain split was the prospect of replay attacks, which could, both accidentally and intentially, cause the loss of funds and/or theft from either side of the chain. The possibility of replay attacks [was known in advance](https://twitter.com/VladZamfir/status/759552287157133313), but presumably to play down the possibility of a chain split being a concern, no action was taken to mitigate or even warn the community about them.
 
 After the split, holders of ETH would have the same amount of ETC associated with the same addresses, and most transactions made on either side of the chain were valid and could be copied to the other; a signed transaction could be broadcast to the other side of the split and published to this chain without the knowledge or intent of the signer. This danger was not widely known at first, and it seemed that some clients would sometimes (but not always) publish valid transactions to the mempools of both chains, creating chaos and causing innocent parties to lose funds in various ways.
 
@@ -366,7 +368,7 @@ Looking back, it seems clear that The DAO Hard Fork was an example of a _coordin
 
 The answer to this is complicated, but one theory is that the thinking of those who pushed so ardently for a Hard Fork was clouded - a combination of lack of understanding, poor forseight, and most influentially, hijacked amigdulas thanks to tremendously high pressure financial stakes and tribalistic infighting caused by the game theory around the Hard Fork debate, which discouraged any whiff of backing down and tapped into the warrior spirit.
 
-The Hard Fork debate was essentially a complex [game of chicken](<https://en.wikipedia.org/wiki/Chicken_(game)>), and the forkers were led to believe they could only "win" if they doubled down on the idea that a chain split was not going to happen. They downplayed it's likelihood and, to ensure a united front of confidence, prevented others from making making any plans to deal with it.
+The Hard Fork debate was essentially a complex [game of chicken](<https://en.wikipedia.org/wiki/Chicken_(game)>), and the forkers were led to believe they could only "win" if they doubled down on the idea that a chain split was not going to happen. They downplayed it's likelihood and, to ensure a united front of confidence, intimidated and prevented others from making making any plans to deal with it.
 
 Having drunk their own koolaid, many truly believed that anyone warning about a chain split were either allied with The Hacker or Bitcoin Maximalists who wanted to see Ethereum die. Forkers, fueled by a rational desire but misguided strategy to protect their wealth, were willing to spread and consume increasingly ridiculous propaganda that bolstered support for a Hard Fork, which compounded the effect.
 
@@ -382,7 +384,7 @@ To the layman, the Forked Ethereum still markets itself on Smart Contracts and t
 
 Forked Ethereum's history suggests a questionable relationship with the concept of unstoppability and _Code is Law_. The direct contradiction of this concept in Forked Etheruem's past means that the project is now in a schizophrenic position where it is simultaneously for and against the idea of _Code is Law_.
 
-Some Etherians say that The DAO Fork was a one-off that will never happen again; Ethereum really does follow _Code is Law_, or at least it does since The Fork. The problem with this position is that, when it matters, Ethereum's own history demonstrates that it is susceptible to interention that can overrule _Code is Law_, and if something can overrule _Code is Law_, you don't have _Code is Law_. Whether on a philosophical, social, or financial level, Ethereum's central points of failure have already shown it to be captured; it is just a matter of time for this to be visibly expressed again. We will go into further detail as to why this is the case in a the [next section](#TODO).
+Some Etherians say that The DAO Fork was a one-off that will never happen again; Ethereum really does follow _Code is Law_, or at least it does since The Fork. The problem with this position is that, when it matters, Ethereum's own history demonstrates that it is susceptible to interention that can overrule _Code is Law_, and if something can overrule _Code is Law_, you don't have _Code is Law_. Whether on a philosophical, social, or financial level, Ethereum's central points of failure have already shown it to be captured.
 
 Other thought leaders in Ethereum Foundation say that _Code is Law_ is an [inhumane](https://twitter.com/VladZamfir/status/936029138623774721), [sociopathic](https://medium.com/@Vlad_Zamfir/my-intentions-for-blockchain-governance-801d19d378e5) concept; future DAO Fork level "corrections" _are_ on the table for Ethereum, and that is a feature, not a bug. It was even [admitted](https://twitter.com/VladZamfir/status/930590981816180737) that the phrase should have been "Build _Almost_ Unstoppable Applications" in back in 2017. No surprise that the Etheruem.org website was not amended though; _almost unstoppable_ doesn't have same _pazaz_, which is what _really_ matters.
 
@@ -404,13 +406,15 @@ Having this question remain unanswered is bound to create future issues for Fork
 
 The story of The DAO and ETC's Genesis shows how Ethereum was hijacked by a highly motivated special interest group, who forced through a misguided change on the network at everyone's expense. For Ethereum, The Hard Fork was a disaster; not only did it cause the community and network to split, forfeiting it's precious _Code as Law_ status, but in a bout of poetic justice, The DAO Fork ended up returning less funds to DAO Token Holders than the non-fork alternative that respected _Code is Law_ would have.
 
-But despite the chaos, one project, or more specifically, one philosophy, whilst it was far from obvious at the time, did massively benefit from the Hard Fork; Ethereum Classic and _Code is Law_. In the end, the real "winners" of the vicious Hard Fork debate were the anti-forkers, who were proved right by the chain split and the return of recovered ETC, demonstrating that the Hard Fork was unecessary. Moreover, the moment it was obvious the Original Ethereum Vision would not go silently into the night, it was settled; _Code is Law_ prevails.
+Despite the chaos, one project, or more specifically, one philosophy, whilst it was far from obvious at the time, did massively benefit from the Hard Fork; Ethereum Classic and _Code is Law_. In the end, the real "winners" of the vicious Hard Fork debate were the anti-forkers, who were proved right by the chain split and the return of recovered ETC, demonstrating that the Hard Fork was unecessary. Moreover, the moment it was obvious the Original Ethereum Vision would not go silently into the night, it was settled; _Code is Law_ prevails.
 
-> But hold on a minute, how can this be serious? Just look at Ethereum Classic's market cap compared to Etheruem mainnet! In what world is Ethereum Classic considered a "winner"?
+> But hold on a minute, how can this be serious? Just look at Ethereum Classic's market cap compared to Ethereum! In what world is Ethereum Classic considered a winner?
 >
-> - You, probably
+> - Someone who doesn't "get" Code is Law
 
 To those who "get" _Code is Law_, and understand the true value of blockchains, the answer to this is obvious. There is a world of difference between market cap and network value, and whilst the market can stay irrational for a long time, eventually all blockchains will face existential challenges that can only be overcome through an _unwavering_ commitment to unstoppability. Slow and steady wins that race.
+
+The real lasting damage that occured was inflicted upon the culture of the cryptocurrency space; a generation of new entrants that do not care about or openly ridicule "Code is Law" and uncensorability, and an ecosystem that is set up for another massive The DAO scale failure in the not too distant future.
 
 Having made the choice to abandon _Code is Law_, Etheruem must live with this going forward, including during future crises where it's abandonment may prove to be a fatal mistake. Luckily for humanity, though, when this happens, Ethereum Classic will be there to pick up the pieces.
 

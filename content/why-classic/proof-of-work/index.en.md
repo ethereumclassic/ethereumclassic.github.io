@@ -9,15 +9,17 @@ seo: An argument for why Proof of Stake is not a suitable solution for blockchai
 
 ## Introduction
 
-On a technical level, one of the biggest differentiators between Ethereum Classic and it's sibling Ethereum is ETC's commitment to remain on Proof of Work. Some might assume that this is due to lack of development, ambition or ability to move to a "more advanced" Proof of Stake system, but this section aims to dispel that myth by explaining the reasoning behind Etheruem Classic's very intentional decision to stay with Proof of Work in the name of decentralization.
+On a technical level, one of the biggest differentiators between Ethereum Classic and it's sibling Ethereum is ETC's commitment to remain on Proof of Work. Some might assume that this is due to lack of development, ambition or ability to move to a "more advanced" Proof of Stake system, but this section aims to dispel that myth by explaining the reasoning behind Etheruem Classic's very intentional decision to stay with Proof of Work in the name of decentralization and security.
 
 In short, Proof of Work is a battle tested and theoerically sound consensus mechanism that prioritises and is able to deliver on the critical qualities that give rise to a blockchain's utility and value proposition. Proof of Stake, on the other hand, sacrifices these elements in reutrn for prioritising non-critical secondary ideals, such as reducing carbon emissions, or maximising returns for large whales.
 
-The change in priorities that Proof of Stake chains advocate for renders them unsuitable for monumental change, proving their lack of commitment to _decentralization maximalism_ and susceptibility to elite capture.
+The change in priorities that Proof of Stake chains advocate for renders them unsuitable for monumental change, proving their lack of commitment to _decentralization maximalism_ and their susceptibility to elite capture.
 
 ## Compromised Consensus
 
-Nothing opitemises the subtle and insidioius nature of centralization like the fable of Proof of Stake. On the surface, it is a noble attempt to correct the worst aspect of blockchain technology and make it compatible with a sutainable future, but on closer inspection, this dangerous idea actually sacrificaes the most liberating aspect of the tech. The popularity of Proof of Stake risks not only squandaring resources, but condeming the future to one that operates on captured systems masquerading as neutral; where development in the cryptocurrency space contributes not towards human flourishing but to the ever-growing power of an ultra-elite, at the expense of utility for all.
+Nothing opitemises the subtle and insidioius nature of centralization like the fable of Proof of Stake. On the surface, it is a noble attempt to correct the worst aspect of blockchain technology and make it compatible with a sutainable future, but on closer inspection, this dangerous idea actually sacrificaes the most liberating aspect of the tech.
+
+In reality, the popularity of Proof of Stake risks not only squandaring resources, but condeming the future to one that operates on captured systems masquerading as neutral; where development in the cryptocurrency space contributes not towards human flourishing but to the ever-growing power of an ultra-elite, at the expense of utility for all.
 
 ## The Engine of the Future
 
@@ -45,7 +47,7 @@ As each PoS system has it's own unique configuration of flaws, appraising them a
 
 ### Self-Refferential Security
 
-Proof of Stake systems derive their security from their internal state, which adds additioanl complexity, technical debt, and attack surface, as unlike Proof of Work, which sources security externally, the chain has the additional responsibility of maintaining this source of security internally. As such, some see Proof of Stake systems akin to [perpetual motion machines](#TODO), a premise that breaks the laws of thermodynamics.
+Proof of Stake systems derive their security from their internal state, which adds additioanl complexity, technical debt, and attack surface, as unlike Proof of Work, which sources security externally, the chain has the additional responsibility of maintaining this source of security internally. As such, some see Proof of Stake systems as akin to perpetual motion machines, with an underlying premise that breaks the laws of thermodynamic.
 
 Proof of Work is unique in that it is able to objectively bridge the gap between the "real world" and the "digital world" using the common language of CPU cycles, which when translated into hashrate, can be verified trustlessly by software. Blockchains that use Proof of Work rely on unforgeable measurements from outside the system to reach consensus about the state of interneal system, converting energy into security in the most direct and efficient way possible, whilst offloading the responsibiltiy and potential security concerns for generating that measurement to the outside world.
 
@@ -113,7 +115,7 @@ An attacker could push for a controvertial hard fork that intentionally made thi
 
 Alternatively, assuming that both sides of a split _do_ recognise each other's slashing proofs, the chain then has a different problem: it cannot resolve legitimate differences in opinion that, on Proof of Work networks, would result in chain split.
 
-Etheruem Classic itself is an excellent example of this "ultimate dispute resolution" mechanism that exists in Proof of Work chains, as explained no better than on the [Ethereum website](#TODO).
+Etheruem Classic itself is an excellent example of this "ultimate dispute resolution" mechanism that exists in Proof of Work chains, as explained no better than on the [Ethereum.org website](https://ethereum.org/en/governance/#dao-fork).
 
 Chains that use Proof of Stake must either accept they have a "nothing at stake problem", or accept that difference in opinion is no longer allowed, and that in the case of a split, only one side can "win" and the other will be slashed to death.
 
@@ -185,6 +187,8 @@ In any case, because of the inherant trade-offs required in Proof of Stake syste
 
 ## Classic Solutions
 
-Arguably the most important technical component of Etherem Classic (and all useful blockchains) is Proof of Work; the only known concensus mechanism that is able to provide the qualities needed to appraoch _Sovereign Grade_ decentralization. The application of Proof of Work as a consensus mechanism for Blockchain execution was the keystone crowning acheivement in the genious design of Bitcoin. It's applicaiton, for the first time, solved the [Byzantine Generals Problem](#TODo) and thus provided a decentralized [solution to double spending](#TODO), making blockchains possible.
+Once again, we already have a solution...
+
+Arguably the most important technical component of Etherem Classic (and all useful blockchains) is Proof of Work; the only known concensus mechanism that is able to provide the qualities needed to appraoch _Sovereign Grade_ decentralization. The application of Proof of Work as a consensus mechanism for Blockchain execution was the keystone crowning acheivement in the genious design of Bitcoin. It's applicaiton, for the first time, solved the [Byzantine Generals Problem](https://en.wikipedia.org/wiki/Byzantine_fault) and thus provided a decentralized solution to double spending, a discovery that made blockchain technology as we know it viable.
 
 TODO explain why PoW is better ina asummary

@@ -11,7 +11,9 @@ seo: A thesis explaining the decentralist values that underpin Ethereum Classic'
 
 ## Introduction
 
-One of the first publications about Ethereum Classic that came out after the DAO Hard fork was called [The CryptoDecentralist Manifesto](#TODO), and in protest of The Fork, it underlined the classic decentralized approach to organizing blockchain projects. This document set the tone for ETC's future developmnet, and since it's creation, much has been learned about the nature of this illusive but vital concept.
+One of the first publications about Ethereum Classic that came out after the DAO Hard fork was called [A Crypto-Decentralist Manifesto](/blog/2016-07-11-crypto-decentralist-manifesto), and in protest of The Fork, it underlined the classic decentralized approach to organizing blockchain projects. This document set the tone for ETC's future developmnet, and since it's creation, much has been learned about the nature of this illusive but vital concept.
+
+TODO: explain Decentralist Manifesto, Decentralism, Decentralization Maximalism.
 
 > Decentralized, Immutable, Unstoppable.
 >
@@ -70,7 +72,7 @@ Most blockchains today have abandoned the idea of decentralization maximalism in
 
 One question that should be asked when evaluating different blockchain projects is "is it decentralized enough?". The answer to this is entirely dependent on the kinds of applications that are intended to run on a given chain, so this question can be reframed as "who would want to stop the applications on this chain from running, and can the chain resist their attempts at censorship?".
 
-For example, in the case of Bitcoin, it's main application is the coin itself; digital scarcity, and the ability to transfer it without censorship. It competes with many currencies and assets, including the US dollar, and therefore must be able to withstand attacks from very powerful entities to persist. It's [predecessors](#TODOs) were able to be shut down by because they had central points of failure; Bitcoin was designed specifically to circumvent this kind of censorship.
+For example, in the case of Bitcoin, it's main application is the coin itself; digital scarcity, and the ability to transfer it without censorship. It competes with many currencies and assets, including the US dollar, and therefore must be able to withstand attacks from very powerful entities to persist. Many of Bitcoin's [predecessors](https://blog.dassetx.com/the-known-and-possible-influences-of-satoshi-nakamoto-part-1-privately-issued-digital-currencies-before-bitcoin) were able to be shut down by because they had central points of failure; Bitcoin was designed specifically to circumvent this kind of censorship.
 
 In contrast, some blockchains require less censorship resistance, and only intend to, for example, enable the transfer of virtual cats, or have other uncontrovertial use cases. No powerful external forces really _want_ to stop these chains, so censorship resistance isn't a big deal; it may even be seen as a benefit if some central party can override the state of the chain in certain circumstances, so having the whole chain operated by a handful of Authorities (PoA) is acceptable for this use case. In these cases, where the use case is not important enough for well-funded organizations to want to shut them down, it might make sense to sacrifice dencetralization for scalability.
 

@@ -5,11 +5,11 @@
 
 CONTENT
 - TODOs
-- Ensure correct contributors for each piece of content (git blame)
 - Proof read each page
   - Spell check and edit content
   - Systematically proof read & spell check
   - Key Points overviews
+- Ensure correct contributors for each piece of content (git blame)
 - Sychronise content with upstream
 
 ~~~ 3022.V0.3 SOFT LAUNCH ~~~

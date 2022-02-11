@@ -100,7 +100,7 @@ items:
         description: QuikNodes are easy, always on, with a fast internet connection for quick blockchain sync, and you never have to worry about running out of disk space.
   tooling:
     __type: links
-    title: Development Tooling TODO split
+    title: Development Tooling
     description: A non-exhaustive selection of developer tools that can aid development of Ethereum Classic applications, including as IDEs, libraries, testing frameworks, debuggers, *etcetera*.
     items:
       BUIDL IDE:
