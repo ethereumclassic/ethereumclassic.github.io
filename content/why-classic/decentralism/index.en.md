@@ -115,6 +115,20 @@ Even if a centralized team is not overtly compromised, the very potential of thi
 
 This failure state shows there is an inherant contradiction within any blockchain project that relies on a central organizing comittees, as it necessatates that these supposedly decentralized projects are in fact depending on a central group that can and will be bent to the will of anyone who feels that the cost of doing so is worth it.
 
+### Kabuki Coins
+
+Centralization, like gravity, is constantly pulling and looking for any weakness in a structure to push it to breaking point. For a system to overcome this force long term, it must ensure that there is no central point of failure that can be exploited, which often means designing rhobust countermeasures that constantly push back against centralization not just in one place but in all areas.
+
+Because of this, there is no point in having decentralization in half measures; a chain is only as strong as it's weakest link, and a blockchain is only as decentralized as it's most centralized bottleneck. For this reason, _all_ parts of a blockchain project, both technically and socially, must strive for _decentralization maximalism_.
+
+Unforunately, within the cryptocurrency ecosystem the importance of _Decentrlaization Maximalism_ is not wideley understood or adopted, such that the term _Decentralization Theatre_ has become a common practice among many _so-called_ decentralized systems.
+
+In reality, these projects have subtle but highly centralized single points of failure somewhere within their system, but promoters shift the focus to other "decentrazlied" areas. This is an effective tactic, as proving that a system has potentially capturable central points of failure requires intimate knowledge of said system, and can be very difficult or impossible for the layman, due to the technical skill and insider knowledge required to properly evaluate.
+
+Like a building made entirely of steel apart from one column made of cardboard, on the surface things might seem properly built, but on closer inspection, there is a glaring flaw that will only lead to ruin, and will likely end up causing damage to those who expect the project to stand the test of time.
+
+_image of someone about to place final card on house of cards and it falls_
+
 ## Classic Problems Require Classic Solutions
 
 Corruption is a problem as old as civilisation, and whilst it might not have obviously reared it's ugly head in the cryptocurrency space yet, as the technology becomes more influential, it will attract forces that wish to bridle it's power and shape it towards a future where, far from liberating humanity, blockchains become tools for optimizing enslavement.
@@ -176,20 +190,6 @@ On top of this, a diversity of roles makes a system more difficult to take down 
 The blueprint introduced by Bitcoin was also used by many other cryptocurrencies including Ethereum, which largely copied the fundamentals, tweaked some variables, and (brilliantly) added a turing complete virtual machine. Much like an architectural blueprint, encoding the structure of a real world building, it would be seemingly unwise to remove one or more of the struts that was critical to keeping the structure from collapsing in on itself into a centralized mess.
 
 If a project wants to survive long term, it must have enough of these necessary incentive structure struts. If Bitcoin is a study tripod made of Miners, Developers and Traders, by sawing off one of these legs, switching to Proof of Stake and firing the miners, the result is a two-legged barstool; one that can possibly straddled for a while, but even the faintest breeze will cause it to become a dangerous liability.
-
-### Kabuki Coins
-
-Centralization, like gravity, is constantly pulling and looking for any weakness in a structure to push it to breaking point. For a system to overcome this force long term, it must ensure that there is no central point of failure that can be exploited, which often means designing rhobust countermeasures that constantly push back against centralization not just in one place but in all areas.
-
-Because of this, there is no point in having decentralization in half measures; a chain is only as strong as it's weakest link, and a blockchain is only as decentralized as it's most centralized bottleneck. For this reason, _all_ parts of a blockchain project, both technically and socially, must strive for _decentralization maximalism_.
-
-Unforunately, within the cryptocurrency ecosystem the importance of _Decentrlaization Maximalism_ is not wideley understood or adopted, such that the term _Decentralization Theatre_ has become a common practice among many _so-called_ decentralized systems.
-
-In reality, these projects have subtle but highly centralized single points of failure somewhere within their system, but promoters shift the focus to other "decentrazlied" areas. This is an effective tactic, as proving that a system has potentially capturable central points of failure requires intimate knowledge of said system, and can be very difficult or impossible for the layman, due to the technical skill and insider knowledge required to properly evaluate.
-
-Like a building made entirely of steel apart from one column made of cardboard, on the surface things might seem properly built, but on closer inspection, there is a glaring flaw that will only lead to ruin, and will likely end up causing damage to those who expect the project to stand the test of time.
-
-_image of someone about to place final card on house of cards and it falls_
 
 ### Decentralization Maximalism
 

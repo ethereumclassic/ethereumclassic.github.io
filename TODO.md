@@ -12,6 +12,7 @@ CONTENT
 - Ensure correct contributors for each piece of content (git blame)
 - Sychronise content with upstream
 - Add brands to social channel buttons
+- Standardize use of Etherem™
 
 ~~~ 3022.V0.3 SOFT LAUNCH ~~~
 

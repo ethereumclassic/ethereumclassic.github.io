@@ -9,6 +9,7 @@ info: "**Disclaimer:** The events outlined in this story are believed to be accu
 ## Key Points
 
 - TODO
+- Your eth can be confiscated
 
 ## Introduction
 
