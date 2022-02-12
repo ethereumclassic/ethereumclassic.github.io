@@ -31,7 +31,7 @@ export default function MarkdownStatic({ mdx, i18n }) {
             if (props.className === "gatsby-resp-image-wrapper") {
               return (
                 <span
-                  tw="mx-auto bg-white rounded-2xl shadow-md overflow-hidden text-center"
+                  tw="mx-auto rounded-2xl shadow-md overflow-hidden text-center"
                   {...props}
                 />
               );
