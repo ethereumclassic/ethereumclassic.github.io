@@ -5,33 +5,39 @@ disclaimer: opinion
 seo: A thesis explaining the decentralist values that underpin Ethereum Classic's principles and core value proposition which enable it to deliver a bright future, in contrast to the path of centralization taken by many other blockchains.
 ---
 
+Warning: This page is still being edited, and has not been proofread.
+
 ## Key Points
 
 - TODO
 
 ## Introduction
 
-One of the first publications about Ethereum Classic that came out after the DAO Hard fork was called [A Crypto-Decentralist Manifesto](/blog/2016-07-11-crypto-decentralist-manifesto), and in protest of The Fork, it underlined the classic decentralized approach to organizing blockchain projects. This document set the tone for ETC's future developmnet, and since it's creation, much has been learned about the nature of this illusive but vital concept.
+One of the first publications about Ethereum Classic that came out after The DAO Hard fork was called [A Crypto-Decentralist Manifesto](/blog/2016-07-11-crypto-decentralist-manifesto), and in protest of The Fork, it underlined the classic decentralized approach to organizing blockchain projects. This document set the tone for ETC's future development, and since it's creation, much has been learned about the nature of the illusive but vital concept.
 
 > Decentralized, Immutable, Unstoppable.
 >
 > - Ethereum Classic Website, 2016
 
-This series of buzzwords is actually a recipie for unlocking the value potential of blockchain technology; first you need decentralization, which enables immutability, which in turn enables unstoppability, making possible the [bright future](/why-classic/code-is-law) we discussed earlier.
+This series of buzzwords is actually a recipe for unlocking the true value potential of blockchain technology; first you need decentralization, which enables immutability, which in turn enables unstoppability, making possible the [bright future](/why-classic/code-is-law) we discussed earlier.
 
 ## Quantifying Decentralization
 
-Decentralization is a property that exists in many systems and in many forms throughout nature. It is not a binary property, but a spectrum, that ebbs and flows through time. It's difficult to articulate a hard and fast definition for _decentralization_ in all contexts, but it can be visually understood fairly intuitively.
+> Decentralization is the process by which the activities of an organization, particularly those regarding planning and decision-making, are distributed or delegated away from a central, authoritative location or group.
+>
+> - [Wikipedia](https://en.wikipedia.org/wiki/Decentralization)
+
+Decentralism is the policy of favoring _decentralization_, a property that exists in many systems and in many forms throughout nature. It is not a binary property, but a spectrum, that ebbs and flows through time. It's difficult to articulate a hard and fast definition for _decentralization_ in all contexts, but it can be visually understood fairly intuitively.
 
 ![As a system becomes more decentralized, it has fewer choke points, making it harder to capture](./decentralization.jpg)
 
-In the realm of blockchain projects, there are many ways of measuring decentralization, with one rough quantification being "The ratio of people needed to be compromised in order to take over the system". That is to say, if an attacker wanted to control or censor a chain, a project that required them to compromise 80% of participants is _more decentralized_ than a project that only requried 10% to be compromised.
+In the realm of blockchain projects, there are many ways of measuring decentralization, with one rough quantification being "The ratio of people needed to be compromised in order to take over the system". That is to say, if an attacker wanted to control or censor a chain, a project that required them to compromise 80% of participants is _more decentralized_ than a project that only required 10% to be compromised.
 
-This measurement is known as the [nakamoto coefficient](https://minima.global/blog/the-nakamoto-coefficient-an-attempt-to-quantify-decentralization), and whilst it is a good conceptual tool, is a fairly low-resolution one-dimensional measurement, and in reality, decentralized systems are able to be designed in a way that can make capture more easy or difficult by assigining different groups with different responsibilitites, and due to their diversity of responsibiltiies and backgrounds, requires more effort to capture.
+This measurement is known as the [Nakamoto coefficient](https://minima.global/blog/the-nakamoto-coefficient-an-attempt-to-quantify-decentralization), and while it is a good conceptual tool, is a fairly low-resolution one-dimensional measurement, and in reality, decentralized systems can be designed in a way that makes capture less likely by assigning different groups with different responsibilities. Due to their diversity of responsibilities and backgrounds, difficulty in capturing a network then becomes linked not simply to a number of people, but a complicated mesh of overlapping strengths and weaknesses.
 
-A more accurate measurement of decentralization in Bitcoin would, for example, attempt to take into account mining (by reward), clients (by codebase), developers (by commits), exchanges (by volume), nodes (by count), and ownership (by value distribution). But even this more nueanced approach far from perfect, as a single snapshot measurement does not yeild much insight about whether a system is able to maintain decentralization over time.
+A more accurate measurement of decentralization in Proof of Work blockchains, for example, attempt to take into account mining (by reward), clients (by codebase), developers (by commits), exchanges (by volume), nodes (by count), and ownership (by value distribution). But even this more nuanced approach far from perfect, as a single snapshot measurement does not yield much insight about whether a system is able to maintain decentralization over time.
 
-However it is quantified, attackers that wish to "own" the system have a more difficult job the more decentralized a project is. To defend against take-overs, projects need to reach a sufficient level of decentralization, which means minimizing the number of central points of failure and bottlenecks, which can exist in many different places in the system.
+Whichever way it is quantified, attackers that wish to "own" the system have a more difficult job the more decentralized a project is. To defend against take-overs, projects need to reach a sufficient level of decentralization, which means minimizing the number of central points of failure and bottlenecks, which can exist in many places in the system.
 
 ### The Blockchain Trilemma
 
