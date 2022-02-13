@@ -5,31 +5,32 @@ seo: An argument for why Proof of Stake is not a suitable solution for blockchai
 
 ## Key Points
 
-- TODO!
+- Ethereum Classic is committed to remaining on Proof of Work indefinitely, towards the goal of _Decentralization Maximalism_
+- Proof of Work is tried and true consensus mechanism, the only one known to be able to provide _Sovereign Grade Censorship Resistance_
+- Candidly, the decision to use Proof of Stake is likely financially motivated, rather than the given reason of environmental concern
+- Proof of Stake comes with known security trade-offs, including: Additional Complexity, 33% Attacks, Vulnerability to Financial Attacks, Centralization of Staking, The APR Arms Race, Nothing at Stake, Removal of Checks and Balances, and The Rich Get Richer
 
 ## Introduction
 
-On a technical level, one of the biggest differentiators between Ethereum Classic and it's sibling Ethereum is ETC's commitment to remain on Proof of Work. Some might assume that this is due to lack of development, ambition or ability to move to a "more advanced" Proof of Stake system, but this section aims to dispel that myth by explaining the reasoning behind Etheruem Classic's very intentional decision to stay with Proof of Work in the name of decentralization and security.
-
-In short, Proof of Work is a battle tested and theoretically sound consensus mechanism that prioritizes and is able to deliver on the critical qualities that give rise to a blockchain's utility and value proposition. Proof of Stake, on the other hand, sacrifices these elements in return for prioritizing non-critical secondary ideals, such as reducing carbon emissions, or maximizing returns for large whales.
-
-The change in priorities that Proof of Stake chains implicitly make renders them unsuitable for monumental change, proving their lack of commitment to _Decentralization Maximalism_ and their susceptibility to elite capture.
+On a technical level, one of the biggest differentiators between Ethereum Classic and it's sibling Ethereum™ is ETC's commitment to remain on Proof of Work. Some might assume that this is due to lack of development, ambition or ability to move to a "more advanced" Proof of Stake system, but this section aims to dispel that myth by explaining the reasoning behind Etheruem Classic's very intentional decision to stay with Proof of Work in the name of decentralization and security.
 
 ## Classic Solutions
 
-Once again, we already have a solution...
+Arguably the most important technical component of Ethereum Classic, as with all useful blockchains, is Proof of Work; the only known consensus mechanism that is able to provide the qualities needed to approach _Sovereign Grade Censorship Resistance_. The application of Proof of Work as a consensus mechanism for Blockchain execution was the keystone crowning achievement in the genius design of Bitcoin. Its application solved the [Byzantine Generals Problem](https://en.wikipedia.org/wiki/Byzantine_fault) and thus provided a decentralized solution to double spending, a discovery that made blockchain technology as we know it viable.
 
-Arguably the most important technical component of Etherem Classic (and all useful blockchains) is Proof of Work; the only known concensus mechanism that is able to provide the qualities needed to appraoch _Sovereign Grade_ decentralization. The application of Proof of Work as a consensus mechanism for Blockchain execution was the keystone crowning acheivement in the genious design of Bitcoin. It's applicaiton, for the first time, solved the [Byzantine Generals Problem](https://en.wikipedia.org/wiki/Byzantine_fault) and thus provided a decentralized solution to double spending, a discovery that made blockchain technology as we know it viable.
+Proof of Work chains have been operating faithfully for over a decade and with enough hashrate, have shown to be unstoppable even by powerful nation states. Presently, no party on the planet is able to conventionally muster the electricity and hardware required to launch a sustained attack against Bitcoin's consensus mechanism, which makes it _Sovereign_.
 
-TODO explain why PoW is better ina asummary
-TODO admit that 51% attacks can happen
-TODO admit that being not top dog is not perfect
+Proof of Work is not designed to be 100% "perfect", and as with all systems, it has a limited set of guarantees. Most famously Proof of Work chains are subject to 51% attacks, which Etheruem Classic has fallen victim to on multiple occasions, yet ETC continues nonetheless. 51% attack are a feature, not a bug; accepting them the trade-off required to allow for objective computer verifiable rules about which version of a chain should be considered "correct"; whichever has the most hashrate contributed to it, regardless of who contributes that hashrate.
 
-While this
+Importantly, the security guarantees made by Proof of Work chains are explicit, simple and verifiable, and as such are easy to reason with, meaning the average user can understand the threat model that PoW chains are designed to operate under and whether their needs can be met.
 
-The title of this page should probably be "Not Proof of Stake", as from here on, we will justify by raising concerns about PoS.
+The timeless wisdom of _if it ain't broke, don't fix it_ comes to mind, and there must be a seriously important reason to change this state of affairs.
 
 ## Compromised Consensus
+
+The title of this page should probably be "Not Proof of Stake", as from here on, we will justify Ethereum Classic's decision to remain on Proof of Work as Ethereum™ [switches](https://ethereum.org/en/upgrades/merge/) to Proof of Stake.
+
+In short, Proof of Work is a battle tested and theoretically sound consensus mechanism that prioritizes and is able to deliver on the critical qualities that give rise to a blockchain's utility and value proposition. Proof of Stake, on the other hand, sacrifices these elements in return for prioritizing non-critical secondary ideals, such as reducing carbon emissions, or maximizing returns for large whales.
 
 Nothing epitomizes the subtle and insidious nature of centralization like the myth of Proof of Stake. On the surface, it is a noble attempt to correct the worst aspect of blockchain technology and make it compatible with a sustainable future, but upon closer inspection, this dangerous idea actually sacrifices the most liberating aspect of the tech in exchange for less than noble objectives.
 
@@ -79,6 +80,16 @@ As with all software systems, additional complexity creates a greater attack sur
 
 Subtle game theory bugs and exploits in blockchains are extremely difficult, in some cases impossible to identify, test and eliminate before going into production. One major defense is adhering to the sound technical principle of [Keep It Simple, Stupid](https://en.wikipedia.org/wiki/KISS_principle), an approach that is abandoned by Proof of Stake projects when they reject the simple elegance Proof of Work and embrace more complex and exploitable alternatives that offer little to no pragmatic benefit to the network.
 
+### Money isn't Power
+
+The ultimate source of security on Proof of Work networks is a combination of electricity and hardware manufacturing distribution. Both of these are distributed geographically and for large Proof of Work networks like Bitcoin, the resources required to muster an attack against the network are for outside the means of any organization, including nation states; they either do not have enough electricity going spare and/or are unable to secure the hardware required to mount an attack.
+
+This is why the high energy usage of Proof of Work network is not "wasted", instead, the high energy usage is what secures the network against attack, by making such attacks prohibitively expensive or logistically impossible.
+
+In contrast, Proof of Stake chains are vulnerable to a whole suite of economic attacks based around finance and the value of the network. Unlike mining hardware and electricity, in fiat systems, capital can be printed out of thin air, and the economic levers available to central banks and other organizations that may be threatened by blockchain technology are vast and sophisticated. The value of all Proof of Stake networks combined is a tiny drop compared to the wider economy, which has massive swathes of liquid capital that borrowed, leveraged, and put to use by a single just a single company with a chip on their shoulder.
+
+Modern financial institutions who are threatened by blockchain technology are sure to wage economic war against Proof of Stake and can not just mess with the price but potentially cause system failure; by creating derivative markets and manipulating prices, they are able to buy up voting rights on the network and destroy or manipulate the ability to reach consensus through staking attacks.
+
 ### 33% Attacks
 
 Proof of Stake chains can be permanently disrupted if an attacker acquires 33% of staked assets, which is necessarily less than 33% of all coins.
@@ -96,18 +107,6 @@ Proof of Stake's _33% attack_ is a much bigger problem than Proof of Work's _51%
 Whilst 51% attacks in Proof of Work systems can be damaging, they only really directly effect those who are exposed to double spends (mostly exchanges, and not long term holders who do not transact frequently). Moreover, because 51% attacks have an up front cost and are, unlike 33% attacks, not guaranteed to be successful, there is diminished incentive to perform them, let alone persist them.
 
 On PoS chains, once an attacker achieves a certain threshold of stake, the chain can never recover; as the attacker does not need to commit external resources, they cannot be unseated. The only solution to this failure state is hard-forking away the attacker, which breaks _Code is Law_, defeats the purpose of having a blockchain, adds subjectivity, and further centralizes the chain.
-
-### Money isn't Power
-
-TODO LATER
-
-Nation states cannot get their handso n all tehe world's elecricity if the wante dto, but they could easily print a bunch of money to buy out lots of Proof fo Stake currencies, as well as manipulate financial markets to disrupt the price of the chains to.
-
-The ultimate source of security on Proof of Work networks, electricity, is distributed geographically, meaning no single organization, including nation states, have the ability.
-
-Even with massive economic resources, scaling up a mining operation to maintain 51% attacks against large Proof of Work blockchains requires far more resources than is available to even nation states.
-
-The source of security on Proof of Stake networks, capital, is
 
 ### Centralization of Staking on Exchanges
 
