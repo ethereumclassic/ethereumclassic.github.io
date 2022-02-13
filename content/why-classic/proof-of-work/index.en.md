@@ -20,7 +20,7 @@ Arguably the most important technical component of Ethereum Classic, as with all
 
 Proof of Work chains have been operating faithfully for over a decade and with enough hashrate, have shown to be unstoppable even by powerful nation states. Presently, no party on the planet is able to conventionally muster the electricity and hardware required to launch a sustained attack against Bitcoin's consensus mechanism, which makes it _Sovereign_.
 
-Proof of Work is not designed to be 100% "perfect", and as with all systems, it has a limited set of guarantees. Most famously Proof of Work chains are subject to 51% attacks, which Etheruem Classic has fallen victim to on multiple occasions, yet ETC continues nonetheless. 51% attack are a feature, not a bug; accepting them the trade-off required to allow for objective computer verifiable rules about which version of a chain should be considered "correct"; whichever has the most hashrate contributed to it, regardless of who contributes that hashrate.
+Proof of Work is not designed to be 100% "perfect", and as with all systems, it has a limited set of guarantees. Most famously Proof of Work chains are subject to 51% attacks, which Etheruem Classic has fallen victim to on multiple occasions, yet ETC continues nonetheless. 51% attack are a feature, not a bug; accepting them is the trade-off required to allow for objective computer-verifiable rules about which version of a chain should be considered "correct"; whichever has the most hashrate contributed to it, regardless of who contributes that hashrate.
 
 Importantly, the security guarantees made by Proof of Work chains are explicit, simple and verifiable, and as such are easy to reason with, meaning the average user can understand the threat model that PoW chains are designed to operate under and whether their needs can be met.
 
@@ -48,21 +48,21 @@ The first popular blockchain, Bitcoin, uses Proof of Work; a relatively simple, 
 
 An alternative consensus mechanism to Proof of Work that became popular is Proof of Stake, which became a "must have feature" for many second generation blockchain projects. Instead of converting electricity into hashrate and security, Proof of Stake has been described as "virtual mining", where stakers lock up capital in return for the ability to create blocks, and are able to claim a block reward by doing so. The primary justification for PoS is environmentalism; it was hoped that PoS would be able to provide the same or better security guarantees than PoW without consuming large amounts of energy.
 
-Straight off the bat, the idea that Proof of Stake would be able to provide not just the same but _better_ security guarantees than Proof of Work, with not just the same but _less_ energy expenditure, should have rung alarm bells for those who understand that _there is no such thing as a free lunch_. But for many this basic truth was able to hand-waved away, as the interdisciplinary convolutions of different Proof of Stake systems created a kind of technological [gish gallop](https://en.wikipedia.org/wiki/Gish_gallop), where fixes upon fixes made PoS protocols increasingly complex and obscure moving targets that became difficult to unpack, and the _free lunch_ myth was smuggled along.
+Straight off the bat, the idea that Proof of Stake would be able to provide not just the same but _better_ security guarantees than Proof of Work, with not just the same but _less_ energy expenditure, should have rung alarm bells for those who understand that _there is no such thing as a free lunch_. But for many this basic truth was able to hand-waved away, as the interdisciplinary convolutions of different Proof of Stake systems created a kind of technological [gish gallop](https://en.wikipedia.org/wiki/Gish_gallop), where fixes upon fixes made PoS protocols increasingly complex and obscure moving targets that became difficult to unpack, and the _free lunch_ myth was able to be smuggled along.
 
 ## Security Trade-offs
 
 The claim that "Proof of Stake is more secure than Proof of Work", is a "[not even wrong](https://en.wikipedia.org/wiki/Not_even_wrong)" statement, due to the nuance in the definition of "secure", and how to square this off with the plurality of Proof of Stake systems that have their own economic, social and technical trade-offs.
 
-A Google spreadsheet cannot be 51% attacked, but does this make it "more secure" than Bitcoin? The answer to this is "it depends on what you mean by _secure_", and in the case of Blockchain systems, as [explored](/why-classic/decentralism), it depends on whether a robust, decentralized, permissionless system that can stand the test of time and achieve _Sovereign Grade Censorship Resistance_ can be achieved. For _this_ kind of security, a Google spreadsheet, is far, far _less_ "secure" than Bitcoin, as it can be taken over by a single party, Google, with zero effort.
+A Google spreadsheet cannot be 51% attacked, but does this make it "more secure" than Bitcoin? The answer to this is "it depends on what you mean by _secure_", and in the case of Blockchain systems, as [explored](/why-classic/decentralism), it depends on whether a robust, decentralized, permissionless system that can stand the test of time and achieve _Sovereign Grade Censorship Resistance_. For _this_ kind of security, a Google spreadsheet, is far, far _less_ "secure" than Bitcoin, as it can be taken over by a single party, Google, with zero effort.
 
-In this sense, Proof of Stake is much like a Google spreadsheet; lack of transparency around security guarantees, and the difficulty in measuring them, makes it impossible for even the highly technical users to see past the marketing claims made by many PoS projects. The true nature of these systems and their potential failure modes is obfuscated, as compared with the explicit, well understood, and less complicated guarantees of Proof of Work systems.
+In this sense, Proof of Stake is much like a Google spreadsheet; lack of clarity around security guarantees, and the difficulty in measuring them, makes it impossible for even the highly technical users to see past the marketing claims made by many PoS projects. The true nature of these systems and their potential failure modes is obfuscated, as compared with the explicit, well understood, and less complicated guarantees of Proof of Work systems.
 
 As each PoS system has its own unique configuration of flaws, appraising them all individually is impractical, but there are some general problems that are more or less applicable to all Proof of Stake systems as compared to Proof of Work. Some of these issues are explored below to demonstrate that trade-offs are implicitly being made by chains that decide to use PoS over PoW.
 
 ### Self-Referential Security
 
-Proof of Work is unique in that it is able to objectively bridge the gap between the "real world" and the "digital world" using the common language of CPU cycles, which, when translated into hashrate, can be verified trustlessly by software. Blockchains that use Proof of Work rely on unforgeable measurements from outside their system to reach consensus about their internal state, converting energy into security in the most direct and efficient way possible, whilst offloading the responsibility of generating those measurements to the outside world.
+Proof of Work is unique in that it is able to objectively bridge the gap between the "real world" and the "digital world" using the common language of compute cycles, which, when translated into hashrate, can be verified trustlessly by software. Blockchains that use Proof of Work rely on unforgeable measurements from outside their system to reach consensus about their internal state, converting energy into security in the most direct and efficient way possible, whilst offloading the responsibility of generating those measurements to the outside world.
 
 Proof of Work is very much like a combustion engine that consumes energy and converts it into useful work in the form of security for the chain, incentivizing honest mining and ensuring that 51% attacks are costly.
 
@@ -80,77 +80,20 @@ As with all software systems, additional complexity creates a greater attack sur
 
 Subtle game theory bugs and exploits in blockchains are extremely difficult, in some cases impossible to identify, test and eliminate before going into production. One major defense is adhering to the sound technical principle of [Keep It Simple, Stupid](https://en.wikipedia.org/wiki/KISS_principle), an approach that is abandoned by Proof of Stake projects when they reject the simple elegance Proof of Work and embrace more complex and exploitable alternatives that offer little to no pragmatic benefit to the network.
 
-### Money isn't Power
-
-The ultimate source of security on Proof of Work networks is a combination of electricity and hardware manufacturing distribution. Both of these are distributed geographically and for large Proof of Work networks like Bitcoin, the resources required to muster an attack against the network are for outside the means of any organization, including nation states; they either do not have enough electricity going spare and/or are unable to secure the hardware required to mount an attack.
-
-This is why the high energy usage of Proof of Work network is not "wasted", instead, the high energy usage is what secures the network against attack, by making such attacks prohibitively expensive or logistically impossible.
-
-In contrast, Proof of Stake chains are vulnerable to a whole suite of economic attacks based around finance and the value of the network. Unlike mining hardware and electricity, in fiat systems, capital can be printed out of thin air, and the economic levers available to central banks and other organizations that may be threatened by blockchain technology are vast and sophisticated. The value of all Proof of Stake networks combined is a tiny drop compared to the wider economy, which has massive swathes of liquid capital that borrowed, leveraged, and put to use by a single just a single company with a chip on their shoulder.
-
-Modern financial institutions who are threatened by blockchain technology are sure to wage economic war against Proof of Stake and can not just mess with the price but potentially cause system failure; by creating derivative markets and manipulating prices, they are able to buy up voting rights on the network and destroy or manipulate the ability to reach consensus through staking attacks.
-
-### 33% Attacks
-
-Proof of Stake chains can be permanently disrupted if an attacker acquires 33% of staked assets, which is necessarily less than 33% of all coins.
-
-> So if the average PoS protocol has 70%+ of it’s tokens staked, you’d need to acquire ~25% of the protocol’s total outstanding tokens to launch an attack. Although every PoS is different, 33% is generally only enough to halt the chain so it can’t come to consensus and produce new blocks, not to actually perform a double spend. For that you’d need a whopping 66%.
->
-> - [Viktor Bunin](https://viktorbunin.medium.com/proof-of-stakes-security-model-is-being-dramatically-misunderstood-4ed7b19ca419)
-
-Some argue that there is no _direct_ economic incentive to cause such an attack because the attacker risks devaluing their own holdings, which may be true, but this is also an admission that Proof of Stake chains are susceptible to 33% halting via _indirect_ economic incentives such as shorting. More importantly, PoS chains are susceptible to 33% attacks from actors such as nation states, where economic incentives are not the motivation, suggesting that _Sovereign Grade Censorship Resistance_ is not an object of concern.
-
-### Perpetually Pure Pwnage
-
-Proof of Stake's _33% attack_ is a much bigger problem than Proof of Work's _51% attack_, the latter of which is not permeant as it has an ongoing external electricity cost, making them impractically expensive to perform for sustained periods.
-
-Whilst 51% attacks in Proof of Work systems can be damaging, they only really directly effect those who are exposed to double spends (mostly exchanges, and not long term holders who do not transact frequently). Moreover, because 51% attacks have an up front cost and are, unlike 33% attacks, not guaranteed to be successful, there is diminished incentive to perform them, let alone persist them.
-
-On PoS chains, once an attacker achieves a certain threshold of stake, the chain can never recover; as the attacker does not need to commit external resources, they cannot be unseated. The only solution to this failure state is hard-forking away the attacker, which breaks _Code is Law_, defeats the purpose of having a blockchain, adds subjectivity, and further centralizes the chain.
-
-### Centralization of Staking on Exchanges
-
-The high technical barrier and _fear of messing up_ when running a node and manually staking makes it out of reach for the vast majority of casual holders in the crypto space, so almost all are likely to use third party services, usually exchanges, to stake.
-
-Staking on exchanges is strictly better from a user experience perspective, and has the additional benefit of allowing users to instantly unstake funds with no penalty, as a large excess liquidity allows exchanges to arbitrage the lock-up period that most Proof of Stake chains impose, on behalf of users.
-
-The result is that for most Proof of Stake blockchains, exchanges will, and probably already do, handle the vast majority of a staking activity. This seriously undermines the illusion of decentralized on these projects and makes the capture of the chain far more likely.
-
-To illustrate, consider the following plausible scenario:
-
-If an "undesirable" application is operating on a large Proof of Stake chain, a government or powerful multinational organization could compel all exchanges under their jurisdiction to simultaneously freeze the funds of that chain, and assuming they hold a certain threshold of staked assets between them, they could then use this portion of the stake to push forward a hard fork of their choice, holding the chain to ransom and censoring whichever applications they desire.
-
-In Proof of Work, thanks to the separation of concerns and the geographically decentralized nature of electricity sources, this kind of attack is impossible.
-
-### The APR Arms Race
-
-Proof of Stake chains compete with each other for liquid staking capital that, unlike mining hardware that is bound to specific algorithms, can freely move between _all_ PoS chains by trading in open markets. This means that over time, all Proof of Stake chains will be in competition with each other, with a pressure to increase staking rewards, and in turn inflation rates, to entice enough stakers to stake on their chain. A "race to the bottom" is likely to engulf all Proof of Stake chains, as they enter into an ever-increasing _APR arms race_, at the expense of non-staking holders.
-
-For example, if Chain A offers a 12% staking reward, why would stakers stake Chain B's 3% reward, when they could simply stake A and sell those rewards for B, ending up with more B than they would by staking B directly?
-
-### Nothing at Stake
-
-In Proof of Work, if a fork occurs, miners have to decide which side of a fork to mine as there is an external electricity cost associated with the creation of blocks. If miners mine the "wrong" fork, their reward will become valueless, and they will have wasted the electricity spent mining it, so they must choose what to mine wisely.
-
-In contrast, on Proof of Stake, if a fork happens, the staked resources, being part of the internal state of the system, are split across the fork and are doubled; stakers have equal assets on both sides of a fork and are incentivized to validate both sides, as they are unsure which side of the fork will prevail. This is known as the [nothing at stake problem](https://medium.com/coinmonks/understanding-proof-of-stake-the-nothing-at-stake-theory-1f0d71bc027), and it is likely to encourage forks by making it cheaper to fork, making it easier to attacks chains through fork-based shenanigans, and complicates reaching consensus about which side of a split is the "true" version.
-
-It is commonly claimed that the concept of _slashing_ is a solution to the nothing at stake problem, a technique that uses cryptographic proofs to punish stakers that validate the "wrong" side of a split. This is all well and good, but slashing only works when forks are running protocols that can validate each other's proofs.
-
-An attacker could push for a controversial hard fork that intentionally made the fork's slashing proof invalid on the old version of the chain, optionally making reverse untrue, and re-introducing the nothing at stake problem whilst encouraging validators to validate both chains, sowing chaos and splitting the value of the network.
-
-### Disrupted Dispute Resolution
-
-Alternatively, assuming that both sides of a split _do_ recognize each other's slashing proofs, the chain then has a different problem: the resolution of legitimate differences in opinion that, on Proof of Work networks, would result in chain split.
-
-Etheruem Classic itself is an excellent example of this "ultimate dispute resolution" mechanism that exists in Proof of Work chains, as explained no better than on the [Ethereum.org website](https://ethereum.org/en/governance/#dao-fork).
-
-While heavily dependent on implementation details of the protocol, in general Proof of Stake changes the dynamic of hard forking in favor of the majority stakers over the underdogs, and in many cases simply destroys the underdog chain, forcing them to hard fork to a new protocol if they disagree with a controversial fork.
-
-Unlike in Proof of Work, where the classic chain enjoys the advantage of maintaining status quo and miners having to actively make a switch to a new fork, on Proof of Stake chains, majority forkers have the advantage, as the legacy side of a controversial fork has to implement their own defensive hard forks to avoid being slashed on future forks. New forks enjoy the option of either slashing or not-slashing validators on the old chain, optimizing the punishment of laggards to get their desired outcome and manipulating the economics of a hard fork decision.
-
 ### Unbalance of Power
 
 As [explored earlier](/why-classic/decentralism/#balancing-power), the removal of miners from a blockchain's socioeconomic model takes away an important regulating force that would otherwise prevent capture; keeping other parties honest through the threat of vetoing poor decisions by the selective mining of chains. On Proof of Stake chains, investors and "miners" (stakers) are the same group, so any abuse of power by this group remains relatively unchecked, and the chain is likely to tend to fork in ways the benefit this group at the expense of others, such as by increasing staking rewards.
+
+### Money isn't Power
+
+The ultimate source of security on Proof of Work networks is a combination of electricity and hardware manufacturing distribution. Both of these are distributed geographically and for large Proof of Work networks like Bitcoin, the resources required to muster an attack against the network are outside the means of any worldly organization, including nation states; they either do not have enough electricity going spare and/or are unable to secure the hardware required to mount an attack.
+
+This is why the high energy usage of Proof of Work network is not "wasted", instead, the high energy usage is what secures the network against attack, by making such attacks prohibitively expensive or logistically impossible.
+
+In contrast, Proof of Stake chains are vulnerable to a whole suite of economic attacks thanks to modern financial weaponry and the value of the network
+being directly tied to security through staking. Unlike mining hardware and electricity, in fiat systems, capital can be printed out of thin air, and the economic levers available to central banks and other organizations that may be threatened by blockchain technology are vast and sophisticated. The value of all Proof of Stake networks combined is a tiny drop compared to the wider economy, which has massive swathes of liquid capital that can be borrowed, leveraged, and put to use by a single just a single company with a chip on its shoulder.
+
+Modern financial institutions who are threatened by blockchain technology are sure to wage economic war against Proof of Stake and can not just mess with the price but potentially cause system failure; by creating derivative markets and manipulating prices, they are able to buy up voting rights on the network and destroy or manipulate the ability to reach consensus through staking attacks.
 
 ### Miner Attrition vs The Rich Get Richer
 
@@ -177,6 +120,68 @@ Proof of Stake systems are _not_ permissionless, as the only way to acquire curr
 In a sense, all Proof of Stake networks are already _soft captured_, as holders of PoS coins could collectively decide (or be coerced) to stop trading with users from some particular class or jurisdiction, and these users have no way to make transactions on the network regardless of the price they are willing to pay.
 
 Take the example of a person from a less developed or sanctioned nation with little to no ability to transact in dollars; without access to the banking system, and thus onboarding through exchanges, and with nobody willing to do an OTC deal in cash in their area, they can always acquire Proof of Work currencies by simply purchasing some hardware to mine it. On a Proof of Stake network, this same user is locked out, making the network less accessible, less useful, and less valuable.
+
+### Centralization of Staking on Exchanges
+
+The high technical barrier and _fear of messing up_ when running a node and manually staking makes it out of reach for the vast majority of casual holders in the crypto space, so almost all are likely to use third party services, usually exchanges, to stake.
+
+Staking on exchanges is strictly better from a user experience perspective, and has the additional benefit of allowing users to instantly unstake funds with no penalty, as a large excess liquidity allows exchanges to arbitrage the lock-up period that most Proof of Stake chains impose, on behalf of users.
+
+The result is that for most Proof of Stake blockchains, exchanges will, and probably already do, handle the vast majority of a staking activity. This seriously undermines the illusion of decentralization on these projects and makes the capture of the chain far more likely.
+
+To illustrate, consider the following plausible scenario:
+
+If an "undesirable" application is operating on a large Proof of Stake chain, a government or powerful multinational organization could compel all exchanges under their jurisdiction to simultaneously freeze the funds of that chain, and assuming they hold a certain threshold of staked assets between them, they could then use this portion of the stake to push forward a hard fork of their choice, holding the chain to ransom and censoring whichever applications they desire.
+
+In Proof of Work, thanks to the separation of concerns and the geographically decentralized nature of electricity sources, this kind of attack is impossible.
+
+### The APR Arms Race
+
+Proof of Stake chains compete with each other for liquid staking capital that, unlike mining hardware that is bound to specific algorithms, can freely move between _all_ PoS chains by trading in open markets. This means that over time, all Proof of Stake chains will be in competition with each other, with a pressure to increase staking rewards, and in turn inflation rates, to entice enough stakers to stake on their chain. A "race to the bottom" is likely to engulf all Proof of Stake chains, as they enter into an ever-increasing _APR arms race_.
+
+For example, if Chain A offers a 12% staking reward, why would stakers stake Chain B's 3% reward, when they could simply stake A and sell those rewards for B, ending up with more B than they would by staking B directly? This forces chain B to increase their reward, which then encourages A to do the same, and so on.
+
+This is situation is great for large stakers, but terrible for users who have some portion of their funds not staked in order to actually use the network, who will be taxed ever exorbitant fees for simply not staking. How this plays out in the long run is unknowable, but it risks damaging the utility and value of the network, leading to a death spiral of ever-increasing debasement.
+
+### 33% Attacks
+
+Proof of Stake chains can be permanently disrupted if an attacker acquires 33% of staked assets, which is necessarily less than 33% of all coins.
+
+> So if the average PoS protocol has 70%+ of it’s tokens staked, you’d need to acquire ~25% of the protocol’s total outstanding tokens to launch an attack. Although every PoS is different, 33% is generally only enough to halt the chain so it can’t come to consensus and produce new blocks, not to actually perform a double spend. For that you’d need a whopping 66%.
+>
+> - [Viktor Bunin](https://viktorbunin.medium.com/proof-of-stakes-security-model-is-being-dramatically-misunderstood-4ed7b19ca419)
+
+Some argue that there is no _direct_ economic incentive to cause such an attack because the attacker risks devaluing their own holdings, which may be true, but this is also an admission that Proof of Stake chains are susceptible to 33% halting via _indirect_ economic incentives such as shorting. More importantly, PoS chains are susceptible to 33% attacks from actors such as nation states, where economic incentives are not the motivation, suggesting that _Sovereign Grade Censorship Resistance_ is not an object of concern.
+
+### Perpetually Pure Pwnage
+
+Proof of Stake's _33% attack_ is a much bigger problem than Proof of Work's _51% attack_, the latter of which is not permeant as it has an ongoing external electricity cost, making them impractically expensive to perform for sustained periods.
+
+Whilst 51% attacks in Proof of Work systems can be damaging, they only really directly effect those who are exposed to double spends (mostly exchanges, and not long term holders who do not transact frequently). Moreover, because 51% attacks have an up front cost and are, unlike 33% attacks, not guaranteed to be successful, there is diminished incentive to perform them, let alone persist them.
+
+On PoS chains, once an attacker achieves a certain threshold of stake, the chain can never recover; as the attacker does not need to commit external resources, they cannot be unseated. The only solution to this failure state is hard-forking away the attacker, which breaks _Code is Law_, defeats the purpose of having a blockchain, adds subjectivity, and further centralizes the chain.
+
+### Nothing at Stake
+
+In Proof of Work, if a fork occurs, miners have to decide which side of a fork to mine as there is an external electricity cost associated with the creation of blocks. If miners mine the "wrong" fork, their reward will become valueless, and they will have wasted the electricity spent mining it, so they must choose what to mine wisely; there is the _cost of electricity_ at stake.
+
+In contrast, on Proof of Stake, if a fork happens, the staked resources, being part of the internal state of the system, are split across the fork and are doubled; stakers have equal assets on both sides of a fork and are incentivized to validate both sides, as they are unsure which side of the fork will prevail. This is known as the [nothing at stake problem](https://medium.com/coinmonks/understanding-proof-of-stake-the-nothing-at-stake-theory-1f0d71bc027), and it is likely to encourage forks by making it cheaper to fork, making it easier to attacks chains through fork-based shenanigans, and complicates reaching consensus about which side of a split is the "true" version.
+
+It is commonly claimed that the concept of _slashing_ is a solution to the nothing at stake problem, a technique that uses cryptographic proofs to punish stakers that validate the "wrong" side of a split. This is all well and good, but slashing only works when forks are running protocols that can validate each other's proofs.
+
+An attacker could push for a controversial hard fork that intentionally made the fork's slashing proof invalid on the old version of the chain, optionally making reverse untrue, and re-introducing the nothing at stake problem whilst encouraging validators to validate both chains, sowing chaos and splitting the value of the network.
+
+Unlike a malicious Proof of Work fork where miners would waste electricity mining the new fork, validators on this new Proof of Stake fork not only might as well validate it, as there is nothing at stake, but are incentivized to do so as it could well end up being the winning chain.
+
+### Disrupted Dispute Resolution
+
+Alternatively, assuming that both sides of a split _do_ recognize each other's slashing proofs, the chain then has a different problem: the resolution of legitimate differences in opinion that, on Proof of Work networks, would result in chain split.
+
+Etheruem Classic itself is an excellent example of this "ultimate dispute resolution" mechanism that exists in Proof of Work chains, as explained no better than on the [Ethereum.org website](https://ethereum.org/en/governance/#dao-fork).
+
+While heavily dependent on implementation details of the protocol, in general Proof of Stake changes the dynamic of hard forking in favor of the majority stakers over the underdogs, and in many cases simply destroys the underdog chain, forcing them to hard fork to a new protocol if they disagree with a controversial fork.
+
+Unlike in Proof of Work, where the classic chain enjoys the advantage of maintaining status quo and miners having to actively make a switch to a new fork, on Proof of Stake chains, majority forkers have the advantage, as the legacy side of a controversial fork has to implement their own defensive hard forks to avoid being slashed on future forks. New forks enjoy the option of either slashing or not-slashing validators on the old chain, optimizing the punishment of laggards to get their desired outcome and manipulating the economics of a hard fork decision.
 
 _Note: The following 3 Proof of Stake criticisms are from [etherplan.com](https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/)_
 
