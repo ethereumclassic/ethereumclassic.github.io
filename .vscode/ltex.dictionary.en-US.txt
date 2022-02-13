@@ -38,3 +38,7 @@ HODL
 compoundeded
 Decentralism
 trilemma
+uncensorability
+trustless
+premine
+maladapted

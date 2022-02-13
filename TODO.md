@@ -5,10 +5,7 @@
 
 CONTENT
 - TODOs
-- Proof read each page
-  - Spell check and edit content
-  - Systematically proof read & spell check
-  - Key Points overviews
+- Spell check non-main Why ETC pages
 - Ensure correct contributors for each piece of content (git blame)
 - Sychronise content with upstream
 - Add brands to social channel buttons
