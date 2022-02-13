@@ -5,7 +5,7 @@ seo: A list of blockchain explorer services for Ethereum Classic and the various
 description: |
   Blockchain Explorers provide a convenient way to get insights into the current and past state of a given chain, allowing you to inspect the contents of blocks, transactions and account balances. 
 
-  The following thrid party explorers independently verify the state of Etheruem Classic and it's testnets. They are commonly used to check that transactions have been broadcast and confirmed, but many offer more advanced features such as historical account balances, contract verification, and more.
+  The following thrid party explorers independently verify the state of Ethereum Classic and it's testnets. They are commonly used to check that transactions have been broadcast and confirmed, but many offer more advanced features such as historical account balances, contract verification, and more.
 items:
   explorers:
     type: table

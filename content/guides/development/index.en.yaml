@@ -10,9 +10,9 @@ description: |
 
   The main exception to this is interactions with third party systems such as Stablecoins or Oracles that are only deployed to ETH and are not yet on ETC. Slowly but surely, ETC versions of these services will be migrated over, perhaps even by you! You can track what services are currently available in the [apps section](/services/apps), and be sure to explore the [development section](/development) for more goodies.
 
-  For this reason, we strongly recommend exploring the [Developer Resources on the Ethereum.org website](https://ethereum.org/en/developers/), which has a wealth of up to date information. The links on this page contain guides specific to developing on Etheruem Classic.
+  For this reason, we strongly recommend exploring the [Developer Resources on the Ethereum.org website](https://ethereum.org/en/developers/), which has a wealth of up to date information. The links on this page contain guides specific to developing on Ethereum Classic.
 
-  You can also find video tutorials about developing with Etheruem Classic in the [Videos > Development](/videos/development) section.
+  You can also find video tutorials about developing with Ethereum Classic in the [Videos > Development](/videos/development) section.
 items:
   tutorials:
     __type: links

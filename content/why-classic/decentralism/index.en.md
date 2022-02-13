@@ -51,7 +51,7 @@ TODO: leaving aside security as a given, blockchains then have a choice of scala
 
 CAP theorem, _The Blockchain Trilemma_ and the various approaches to organizing socially means that all blockchain projects are forced to hedge their bets by 'specializing' into certain classes with a scarse number of 'ability points'. Every project must place itself somewhere in the the space of these dimensions, sacrificing some for others. Much like a video game character, the attributes selected will define a blockchain's class, abilitites and effectiveness in battle.
 
-As we will see, as far as the protocol's attributes and underlying philosophy goes, Etheruem Classic has 'maxed-out' it's decentralization and security, intentionality sacrificing both scalability and other social ogranizational features so that more essential 'skills' can be strengthened. For a blockchain protocol to scale it's base protocol, it _must_ make trade-offs in decentralization and/or security, which may not appear as obvious costs immediately, but in the long run is bound to damage the utility and value of the protocol.
+As we will see, as far as the protocol's attributes and underlying philosophy goes, Ethereum Classic has 'maxed-out' it's decentralization and security, intentionality sacrificing both scalability and other social ogranizational features so that more essential 'skills' can be strengthened. For a blockchain protocol to scale it's base protocol, it _must_ make trade-offs in decentralization and/or security, which may not appear as obvious costs immediately, but in the long run is bound to damage the utility and value of the protocol.
 
 Most blockchains today have abandoned the idea of decentralization maximalism in exchange for scalability and/or the benefits of coordinating from a central group. This may well be useful for short term bootstrapping as it allows the funding of extravegant development or marketing budgets, but unless the project tapers-off this dependance on decentralization, which may be impossible due to the incentivisation strucutres it creates, it is exposed to take-over through the capture of this relatively centralized controlling group.
 
@@ -63,13 +63,13 @@ For example, in the case of Bitcoin, it's main application is the coin itself; d
 
 In contrast, some blockchains require less censorship resistance, and only intend to, for example, enable the transfer of virtual cats, or have other uncontrovertial use cases. No powerful external forces really _want_ to stop these chains, so censorship resistance isn't a big deal; it may even be seen as a benefit if some central party can override the state of the chain in certain circumstances, so having the whole chain operated by a handful of Authorities (PoA) is acceptable for this use case. In these cases, where the use case is not important enough for well-funded organizations to want to shut them down, it might make sense to sacrifice dencetralization for scalability.
 
-Ethereum Classic, even back in 2015 when it was known as Etheruem, set out to acheive ambitions on a level at least as prone to censorship as Bitcoin.
+Ethereum Classic, even back in 2015 when it was known as Ethereum, set out to acheive ambitions on a level at least as prone to censorship as Bitcoin.
 
 > Ethereum is a decentralized computing platform that executes smart contracts. Applications are ran exactly as programmed without the possibility of censorship, downtime, or third-party interference.
 >
-> - Etheruem.org, 2015
+> - Ethereum.org, 2015
 
-Etheruem's Smart Contract Platform was designed to support not just Bitcoin's base currency use case, but _any_ kind of blockchain application, and because of this, it is highly likely to attract attempts at censorship from legacy system incumbants are that are at risk being disrupted.
+Ethereum's Smart Contract Platform was designed to support not just Bitcoin's base currency use case, but _any_ kind of blockchain application, and because of this, it is highly likely to attract attempts at censorship from legacy system incumbants are that are at risk being disrupted.
 
 To provide a solution on a global level that would need to stave off attacks from other sovereign institutions such as nation states and multinational cabals, Ethereum, like Bitcoin, has to reach a level of decentralization that made it impossible for any of these groups censor it; _Sovereign Grade Censorship Resitance_ is required.
 
@@ -81,7 +81,7 @@ But before we explore the solution to the problem of centralizaztion, we must fi
 
 ## Centralization Failure States
 
-Today, even more so than when Etheruem (Classic) was launched in 2015, it is increasingly obvious that censorship is becoming the weapon of choice of a dying legacy system that is desperately attempting to cling on to relevance. As these old institutions become increasingly threatened by change, it seems likely that ever-more drastic measures will be taken in an attempt defend their position.
+Today, even more so than when Ethereum (Classic) was launched in 2015, it is increasingly obvious that censorship is becoming the weapon of choice of a dying legacy system that is desperately attempting to cling on to relevance. As these old institutions become increasingly threatened by change, it seems likely that ever-more drastic measures will be taken in an attempt defend their position.
 
 Before blockchain technology entered the scene, these institutions had reality pretty much on lockdown as society was reliant on centralized control points for value transfers, which was readily exploited. With cryptography, though, and just in the Nick of time, Satoshi graced us with the answer to this reliance, which has turned the tables on the existing [logic of violence](https://cryptonews.net/en/news/bitcoin/2927549/), and provided reality with an alternative emergent order.
 
@@ -153,7 +153,7 @@ What is true for societies is also true for those novel sociotechnological syste
 
 While institutions and the humans that make them are fallible, fickle and fragile, ideas are bulletproof. It it self-evident that a technology as important and influential as blockchain must be built upon something more than just people; it must be backed by a well developed philosophy to guide the actions of otherwise [capturable](#meatspace-capture) bags of meat.
 
-Good ideas stand on their own, can be debated in public, and are true regardless of who proclaims them, which makes them perfect for constructing a harness to restrain and protect the future of a blockchain project. That is why Etheruem Classic's Foundation is not a group, but it's core principles, which come first and inform decision making.
+Good ideas stand on their own, can be debated in public, and are true regardless of who proclaims them, which makes them perfect for constructing a harness to restrain and protect the future of a blockchain project. That is why Ethereum Classic's Foundation is not a group, but it's core principles, which come first and inform decision making.
 
 Pragmatism is downstream of maintaining and adhering to good principles, as they are what enable both practical survivability, long term sustainabiltiy, and act as a form of advertising that attracts quality contributors. The _principles first_ appraoch goes a long way to ensuring that a project can maintain it's course for many generations to come, as it is guided not by the ever-changing interests of a central group, but by external philosophical reference points that, even with high a turnover of contributors, can be be perpetuated and refined in public to direct the future of the project.
 
@@ -233,7 +233,7 @@ For those already somewhat familiar with the blockchain ecosystem and can distin
 
 Many of those who were involved with Ethereum before the DAO Hack were under the impression that Ethereum was hoping to do exactly this; be built on top of the well-established core ideas that Bitcoin provided, but add on additional functionality in the form of a Turing Complete Smart Contract Platform.
 
-But as The DAO Hack showed, this was not the case; what is now known as Etheruem has very little to do with the decentralist values that Bitcoin was created to embody.
+But as The DAO Hack showed, this was not the case; what is now known as Ethereum has very little to do with the decentralist values that Bitcoin was created to embody.
 
 This was probably an honest misunderstanding, but ... . Link to Charler's world computer vs code is law split.
 
@@ -287,7 +287,7 @@ One of the hallmarks of projects that are decentralized in the social layer is t
 
 At any point, any individual could become compromised, so all participants must maintain an ever-skeptical perspective in communications and decision making, judging _ideas_ rather than indivudals and reputations. To do otherwise is to make one of the key failures of centrlaized decision making, which may be expedient, but is fragile, as when decisions are made based on authority rather than merit alone, it allows bad decision to not just occur occasionally, but continue unchecked, double-downed on, and snowball out of control.
 
-It is this reason that the concept of "Toxic Bitcoin Maximialism" as a general appraoch to the adversarial cryptocurrency social space remains an open debate and is considered by some to be an honest, valid, albeit unsavory strategy for navigating discussions. Some consider toxicity a form of immune response that weeds out certain types of smooth-talking bad actors who rely on populism to forward a particular idea. Toxicity is not compatible with all personalities, and the Etheruem Classic has it's fair share of both toxic and non-toxic participants. Be advised that it in most cases, abrasiveness in the cryptocurrency space is not personal, but on the contrary, about defaulting to a purely idea-based rather than personality-based discussion.
+It is this reason that the concept of "Toxic Bitcoin Maximialism" as a general appraoch to the adversarial cryptocurrency social space remains an open debate and is considered by some to be an honest, valid, albeit unsavory strategy for navigating discussions. Some consider toxicity a form of immune response that weeds out certain types of smooth-talking bad actors who rely on populism to forward a particular idea. Toxicity is not compatible with all personalities, and the Ethereum Classic has it's fair share of both toxic and non-toxic participants. Be advised that it in most cases, abrasiveness in the cryptocurrency space is not personal, but on the contrary, about defaulting to a purely idea-based rather than personality-based discussion.
 
 ## Onward
 
@@ -297,7 +297,7 @@ The innovations that Ethereum brought to the world in the form of a Turing Compl
 
 In the the not too distant future, as attacks against blockchains ramp up, this need for will be all too clear. As one by one, so called decentralized projects reveal their true colors and succum to corruption in the form of capture by special interests, only the truly decentralized will remain.
 
-Etheruem Classic offeres an alternative to centralization by combining the technology of Etheruem with the philosophy of Bitcoin, for a secure, multipurpose, decentralized blockchain and a free, fair and flouorishing future.
+Ethereum Classic offeres an alternative to centralization by combining the technology of Ethereum with the philosophy of Bitcoin, for a secure, multipurpose, decentralized blockchain and a free, fair and flouorishing future.
 
 ![ETH + BTC = ETC](./ethbtcetc.png)
 

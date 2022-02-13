@@ -12,7 +12,7 @@ seo: An argument for why Proof of Stake is not a suitable solution for blockchai
 
 ## Introduction
 
-On a technical level, one of the biggest differentiators between Ethereum Classic and it's sibling Ethereum™ is ETC's commitment to remain on Proof of Work. Some might assume that this is due to lack of development, ambition or ability to move to a "more advanced" Proof of Stake system, but this section aims to dispel that myth by explaining the reasoning behind Etheruem Classic's very intentional decision to stay with Proof of Work in the name of decentralization and security.
+On a technical level, one of the biggest differentiators between Ethereum Classic and it's sibling Ethereum™ is ETC's commitment to remain on Proof of Work. Some might assume that this is due to lack of development, ambition or ability to move to a "more advanced" Proof of Stake system, but this section aims to dispel that myth by explaining the reasoning behind Ethereum Classic's very intentional decision to stay with Proof of Work in the name of decentralization and security.
 
 ## Classic Solutions
 
@@ -20,7 +20,7 @@ Arguably the most important technical component of Ethereum Classic, as with all
 
 Proof of Work chains have been operating faithfully for over a decade and with enough hashrate, have shown to be unstoppable even by powerful nation states. Presently, no party on the planet is able to conventionally muster the electricity and hardware required to launch a sustained attack against Bitcoin's consensus mechanism, which makes it _Sovereign_.
 
-Proof of Work is not designed to be 100% "perfect", and as with all systems, it has a limited set of guarantees. Most famously Proof of Work chains are subject to 51% attacks, which Etheruem Classic has fallen victim to on multiple occasions, yet ETC continues nonetheless. 51% attack are a feature, not a bug; accepting them is the trade-off required to allow for objective computer-verifiable rules about which version of a chain should be considered "correct"; whichever has the most hashrate contributed to it, regardless of who contributes that hashrate.
+Proof of Work is not designed to be 100% "perfect", and as with all systems, it has a limited set of guarantees. Most famously Proof of Work chains are subject to 51% attacks, which Ethereum Classic has fallen victim to on multiple occasions, yet ETC continues nonetheless. 51% attack are a feature, not a bug; accepting them is the trade-off required to allow for objective computer-verifiable rules about which version of a chain should be considered "correct"; whichever has the most hashrate contributed to it, regardless of who contributes that hashrate.
 
 Importantly, the security guarantees made by Proof of Work chains are explicit, simple and verifiable, and as such are easy to reason with, meaning the average user can understand the threat model that PoW chains are designed to operate under and whether their needs can be met.
 
@@ -177,7 +177,7 @@ Unlike a malicious Proof of Work fork where miners would waste electricity minin
 
 Alternatively, assuming that both sides of a split _do_ recognize each other's slashing proofs, the chain then has a different problem: the resolution of legitimate differences in opinion that, on Proof of Work networks, would result in chain split.
 
-Etheruem Classic itself is an excellent example of this "ultimate dispute resolution" mechanism that exists in Proof of Work chains, as explained no better than on the [Ethereum.org website](https://ethereum.org/en/governance/#dao-fork).
+Ethereum Classic itself is an excellent example of this "ultimate dispute resolution" mechanism that exists in Proof of Work chains, as explained no better than on the [Ethereum.org website](https://ethereum.org/en/governance/#dao-fork).
 
 While heavily dependent on implementation details of the protocol, in general Proof of Stake changes the dynamic of hard forking in favor of the majority stakers over the underdogs, and in many cases simply destroys the underdog chain, forcing them to hard fork to a new protocol if they disagree with a controversial fork.
 

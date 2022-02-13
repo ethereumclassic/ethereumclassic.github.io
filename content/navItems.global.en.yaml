@@ -48,7 +48,7 @@ learn:
           name: Investing
           longName: Investor Resources
           icon: chart
-          description: Information about the value proposion of Etheruem Classic and it's potential for sick gains
+          description: Information about the value proposion of Ethereum Classic and it's potential for sick gains
         forks:
           __link: /knowledge/forks
           name: Forks
@@ -293,11 +293,11 @@ play:
           name: Repositories
           icon: github
           longName: Git Repositories
-          description: A list of Etheruem Classic related project repos for your viewing pleasure
+          description: A list of Ethereum Classic related project repos for your viewing pleasure
         ecips:
           __link: /development/ecips
           name: ECIPs
-          description: Etheruem Classic Improvement Proposals overview and approved proposals
+          description: Ethereum Classic Improvement Proposals overview and approved proposals
           icon: rocket
 news:
   __hideMobile: true

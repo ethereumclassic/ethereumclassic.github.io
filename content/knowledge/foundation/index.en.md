@@ -12,4 +12,4 @@ As an idea, ETC's Foundation is immune from many forms of attack; it is rhobust 
 
 There is no top-down control over Ethereum Classic, and this antifragility is acheived by participants maintaining and refining a doctrine of decentralization that can be easily articulated, understood, and perpetuated over time.
 
-For Etheruem Classic, it's Foundation is it's strongest and most important element. ETC exists in recognition of the fact that all of a blockchain's utilty and value is ultimately downstream of principles, which through the continuous persuit of decentralization maximalism, can prevent outside forces from capturing a chain and overruling _Code is Law_.
+For Ethereum Classic, it's Foundation is it's strongest and most important element. ETC exists in recognition of the fact that all of a blockchain's utilty and value is ultimately downstream of principles, which through the continuous persuit of decentralization maximalism, can prevent outside forces from capturing a chain and overruling _Code is Law_.

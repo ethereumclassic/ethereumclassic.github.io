@@ -96,7 +96,7 @@ A dapp is a decentralized application, usually consisting of smart contracts and
 
 ### How do I create a dapp?
 
-Programming Smart Contracts on Ethereum Classic is identical to how it is done on ETH, as ETC maintains compatibility with the Etheruem EVM. Any contract written for Ethereum can be deployed to ETC.
+Programming Smart Contracts on Ethereum Classic is identical to how it is done on ETH, as ETC maintains compatibility with the Ethereum EVM. Any contract written for Ethereum can be deployed to ETC.
 
 To create a dapp for Ethereum Classic you must program one in a smart contract programming language. Then, you must compile that dapp and install it on the blockchain from a funded account.
 

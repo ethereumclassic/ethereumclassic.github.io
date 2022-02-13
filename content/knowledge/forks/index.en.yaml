@@ -1,11 +1,11 @@
 title: Protocol Upgrades
-seo: A history of past hard forks; the protocol upgrades that were accepted for Etheruem Classic.
+seo: A history of past hard forks; the protocol upgrades that were accepted for Ethereum Classic.
 description: |
   Ethereum Classic, despite it's histroy, is not against all types of Hard Fork. Far from it; Hard Forking allows the protocol to be upgraded, to fix bugs, and add features that further the goal of allowing developers to "Build Unstoppable Applications".
 
-  The types of Hard Fork that Etheruem Classic will never implement are those like [The DAO Fork](/why-classic/genesis), which do not address a defect in or enhancement of the protocol itself, but instead override *Code is Law* by modifying Smart Contracts in the application layer.
+  The types of Hard Fork that Ethereum Classic will never implement are those like [The DAO Fork](/why-classic/genesis), which do not address a defect in or enhancement of the protocol itself, but instead override *Code is Law* by modifying Smart Contracts in the application layer.
 
-  Etheruem Classic is strategically maintaining maximal compatibility with upstream Etheruem's EVM, which means contracts deployed to ETH can also deployed to ETC, and Ethereum Classic inherits many valuable innovations born through research Ethereum.
+  Ethereum Classic is strategically maintaining maximal compatibility with upstream Ethereum's EVM, which means contracts deployed to ETH can also deployed to ETC, and Ethereum Classic inherits many valuable innovations born through research Ethereum.
 items:
   forks:
     title: ETC Fork History
@@ -57,7 +57,7 @@ items:
         color: green
         link: /blog/2017-12-11-gotham-hard-fork-upgrade-5m20-era2/
         date: 2017-12-11
-        text: ECIP 1017 makes Etheruem Classic more Bitcoin-like by introducing an upper bound on the maximum absolute number of ETC and a method of degraded emission over time.
+        text: ECIP 1017 makes Ethereum Classic more Bitcoin-like by introducing an upper bound on the maximum absolute number of ETC and a method of degraded emission over time.
         dateText: Block 5,000,000
       Defuse Difficulty Bomb:
         title: Defuse Difficulty Bomb

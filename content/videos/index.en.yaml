@@ -3,7 +3,7 @@ description: A collection of videos about Ethereum Classic, organized by categor
 tags:
   explainers:
     title: Explainers
-    description: Educational videos explaining Etheruem Classic philosophy, history and technical concepts.
+    description: Educational videos explaining Ethereum Classic philosophy, history and technical concepts.
   tutorials:
     title: Tutorials
     description: Guides covering how to use and develop on Ethereum Classic.
@@ -30,4 +30,4 @@ tags:
     description: The third Ethereum Classic Summit was held in Vancouver, Canada on 3rd October 2019
   etc-summit-2017:
     title: ETC Summit 2017
-    description: The first Etheruem Classic Summit was held in Hong Kong on November 13th 2017
+    description: The first Ethereum Classic Summit was held in Hong Kong on November 13th 2017
