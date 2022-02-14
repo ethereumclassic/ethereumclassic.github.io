@@ -42,3 +42,4 @@ uncensorability
 trustless
 premine
 maladapted
+decentralist

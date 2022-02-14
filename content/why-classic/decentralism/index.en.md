@@ -1,15 +1,18 @@
 ---
 title: Decentralism
-updated: 2021-11-30
+updated: 2022-02-14
 disclaimer: opinion
 seo: A thesis explaining the decentralist values that underpin Ethereum Classic's principles and core value proposition which enable it to deliver a bright future, in contrast to the path of centralization taken by many other blockchains.
 ---
 
-Warning: This page is still being edited, and has not been proofread.
-
 ## Key Points
 
-- TODO
+- Decentralism is the policy of favoring _decentralization_, having fewer single points of failure in a system, making it difficult to capture.
+- In Blockchain systems, decentralization is extremely important, and a certain threshold needs to be reached to make a blockchain useful, depending on what application it is used for.
+- _Decentralization_ is difficult to measure, and many projects use this to obfuscate their true susceptibility to capture.
+- Social layers, as well as technological can be captured through various means, so it must also be _decentralized_ and not rely on a central group.
+- Ethereum Classic aims for a _Sovereign Grade_ level of decentralization, meaning that no worldly organization can capture it.
+- Ethereum Classic applies a _Principles First Approach_, _Decentralization Maximalism_, _Checks and Balances_ and _Protocol Neutrality_ in order to achieve long term capture prevention.
 
 ## Introduction
 
@@ -207,84 +210,12 @@ Instead of relying on unsustainable cash injections that are from central author
 
 This strategy works best when an individual is reaping the full reward of their contribution, which can only happen when a protocol is _neutral_; it treats all participants on the same equal footing, and does not, on a protocol layer, grant any special privileges to specific parties. Decentralized blockchain projects will compete with each other on this basis; only the most neutral projects, those without a Foundation, Dev Tax, or undiluted premine, will attract the type of natural contribution that enables long term sustainability.
 
-TODO PROOF READ FROM HERE
-
-## ETH + BTC = ETC
-
-For those already somewhat familiar with the blockchain ecosystem and can distinguish between the two major projects, a quite simple heuristic exists that cuts to the chase of what Ethereum Classic is attempting to acheive.
-
-> Ethereum Classic takes the philosophy of Bitcoin and applies it to the technology of Ethereum
->
-> - The CEO of Ethereum Classic, if one existed
-
-Many of those who were involved with Ethereum before the DAO Hack were under the impression that Ethereum was hoping to do exactly this; be built on top of the well-established core ideas that Bitcoin provided, but add on additional functionality in the form of a Turing Complete Smart Contract Platform.
-
-But as The DAO Hack showed, this was not the case; what is now known as Ethereum has very little to do with the decentralist values that Bitcoin was created to embody.
-
-This was probably an honest misunderstanding, but ... . Link to Charler's world computer vs code is law split.
-
-The decision for the Ethereum Foundation to abandon the decetnralist values that were used to entice contributions was unfortunate, but created a vacuum that ultiamtely further refined the meaning and importance of those values and birthed a project who's mission was to explicity continue that original vision.
-
-Ethereum Classic, even more so than Bitcoin itself, exists as an explicit reminder about the importantce of decentralist values. Clearly there were many who didn't quite get their importance at the time, although many others saw the truth that decentralilzation _was_ the point, not just an annoying obstable to overcome.
-
-And so, in the persuit of centralization, Ethereum Clasic recognises the genious decisions made when constructing the original Bitcoin protocol, and has since attempted to emulate this in the persuit of not just decetralization but also the empiricial success that has come from following them.
-
-Ultiamtely, we hope that Ethereum Classic can live up to that original vision of Ethereum: Bitcoin, but with Smart Contracts.
-
-Ethereum was originally supposed to be "Bitcoin, but with Smart Contracts", but when this goal was abandoned, Ethereum Classic merrily continued the vision.
-
-### Immaculate Conception 2.0
-
-Even more immaculate!
-
-### No Official Anything
-
-Just like Bitcoin, Ethereum Classic has no official developers, maintainers, or leaders. It has no official logo, no official website, no official conferences. Ethereum Clasic _cannot_ have an official _anything_, becuase no individual or group has the authority to claim they represent ETC in any official capacity.
-
-This is a rare quality, and massive strength in the world of blockchains, as it means there is no official _thing_ that can be taken down, captured, or compromised, and there is no official entity that can sue competing forks for copyright enfringement.
-
-_No official anything_ is the source of much of the strength of the Ethereum Classic project, but also has drawbacks as there is no central source of truth to coordinate from. Instead, a do-ocracy exists where anyonee can contribute, and based on what is actually done and what is picked up and used becomes what makes up Ethereum Classic. This makes it a unique project and attractive to contributors; literally nothing can stop _you_ from being as close to official as anyone else.
-
-Some say that Ethereum Classic goes evern more extreme in this type of decentnralization than Bitcoin, which has Satoshi, who could come back one day and begin to make suggestions or guide development in a way that is not purely meroticratic.
-
-### Secure Base Layer
-
-The current consensus within the Ethereum Classic and wide computer sceience community is that the aforementioned _Blockchain Trilemma_ is insurmountable, at least on the base later. For this reason, Ethereum Classic's current roadmap does not include some of the more exotic "solutions" that will be attmpted by Ethereum.
-
-Sharding, is one such example, where contracts are siloed into their own execution environments and can be executed in parralel. In theory this idea seems plausible, but for that added complexity, it is not suitable for globally interoperable contracts, including many of today's useful systems that need shared execution, such as anything that touches DeFi liquidity.
-
-Essentially, there are very few _one size fits all_ approaches to scaling throughput that can be applied on the base layer without compromising an important security assumption, so for ETC as a protocol, it is best left up to applications or secondary protocols to provide various different tradeoffs and implement their own optimizations depending on the use case and the needs of users.
-
-Many in the Ethereum Classic community are also wary of attempts to increase the block size, due to the negative effects that are likely to appear down the road in terms of "bloat" and the increased _time to sync_ and hardware requirements, which if left unchekced may make it difficult to run an Ethereum Classic node, leading to centralization. Some argue the block gas limit should be reduced even further, whilst others look towards _Zero Knowledge Proof_ technologies that can reduce the amount of data needed to be stored on chain.
-
-There is general agreement that a layered approach to scaling blockchains is able to increase throughput while satisfying the _Blockchain Trilemma_ in a way that does not mess with the base layer; individuals are free to experiment with different "L2" systems that provide various tradeoffs depending on the application and user requirements.
-
-### KISS
-
-The base layer needs to be secure in a number of ways; both technologically stable in terms of fewer bugs, but also socioeconomically secure against various forms of attacks.
-
-Because single points of failure can exist in many areas and are often hidden, all things being equal, it is easier to maintain decentralization in systems that are _less complex_. Additional complexity not just creates more potential for technical bugs and exploits, but also for central points of failure, in unforseen game-theory quandries and in the form of higher upkeep requirements leading to a reduced pool of developers able to contribute to maintenance; if a system is too complex for anyone to reason with, it may as well be captured by it's authors, who have sole authority on how it should be operated.
-
-Bitcoin, as with ETC, positions itself as the "good old reliable" system that does not need to innovate quickly, but instead, do so slowly and methodically without breaking any of it's previously established guaruntees. This is acheived through a conservative appraoch to protocol upgrades, a "Move Slowly and Don't Break Things" ethoss, and the delivery of innovation in layers, rather than to attempting to implement radical changes to the base protocol.
-
-### Don't Trust, Verify
-
-One of the hallmarks of projects that are decentralized in the social layer is that a healthy level of distrust exist amongst participants. Whilst this may sound counter-intuitive, it is what secures the social layer against many forms of attack.
-
-At any point, any individual could become compromised, so all participants must maintain an ever-skeptical perspective in communications and decision making, judging _ideas_ rather than indivudals and reputations. To do otherwise is to make one of the key failures of centrlaized decision making, which may be expedient, but is fragile, as when decisions are made based on authority rather than merit alone, it allows bad decision to not just occur occasionally, but continue unchecked, double-downed on, and snowball out of control.
-
-It is this reason that the concept of "Toxic Bitcoin Maximialism" as a general appraoch to the adversarial cryptocurrency social space remains an open debate and is considered by some to be an honest, valid, albeit unsavory strategy for navigating discussions. Some consider toxicity a form of immune response that weeds out certain types of smooth-talking bad actors who rely on populism to forward a particular idea. Toxicity is not compatible with all personalities, and the Ethereum Classic has it's fair share of both toxic and non-toxic participants. Be advised that it in most cases, abrasiveness in the cryptocurrency space is not personal, but on the contrary, about defaulting to a purely idea-based rather than personality-based discussion.
-
 ## Onward
 
-If humanity wishes to avoid another dark age, it must embrace systems can that are able to resist the corrupt forces thretern to capture the future of blockchain technology. Only systems that strive for _decentrlization maximalism_ are able to acheive this, but of all blockchain projects that exist today, only a handful exhibit a recognition of this requirement.
+If humanity wishes to avoid another dark age, it must embrace systems can that are able to resist the corrupt forces threaten to capture the future of blockchain technology. Only systems that strive for _Decentralization Maximalism_ are able to achieve this, but of all blockchain projects that exist today, only a handful recognize this requirement.
 
-The innovations that Ethereum brought to the world in the form of a Turing Complete Smart Contract Platform provide a great leap forward in terms of the utility and potential of blockchain uses cases, but as evidenced The DAO Fork and the switch to Proof of Stake, the direction the project is being taken makes it suceptible to capture and unable to acheive _Sovereign Grade Censorship Resistance_.
+The innovations that Ethereum brought to the world in the form of a Turing Complete Smart Contract Platform provide a great leap forward in terms of the utility and potential of blockchain uses cases, but as evidenced The DAO Fork and the switch to Proof of Stake, the direction the project is being taken makes it susceptible to capture and unable to achieve _Sovereign Grade Censorship Resistance_.
 
-In the the not too distant future, as attacks against blockchains ramp up, this need for will be all too clear. As one by one, so called decentralized projects reveal their true colors and succum to corruption in the form of capture by special interests, only the truly decentralized will remain.
+In the not too distant future, as attacks against blockchains ramp up, this need for will be all too clear. As one by one, so-called decentralized projects reveal their true colors and succumb to corruption in the form of capture by special interests, only the truly decentralized will remain.
 
-Ethereum Classic offeres an alternative to centralization by combining the technology of Ethereum with the philosophy of Bitcoin, for a secure, multipurpose, decentralized blockchain and a free, fair and flouorishing future.
-
-![ETH + BTC = ETC](./ethbtcetc.png)
-
-Let us now zoom in on two of the most important elements from Bitcoin that Ethereum abandoned but Classic adopted to counter the inevitable pull of centralization; Sound Money and Proof of Work.
+By combining the technology of Ethereum with the philosophy of Bitcoin, Ethereum Classic provides a secure, multipurpose, decentralized blockchain, and a free, fair and flourishing alternative to what might be grim and centralized future.

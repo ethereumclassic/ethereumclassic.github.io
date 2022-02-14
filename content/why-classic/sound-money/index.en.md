@@ -1,5 +1,7 @@
 ---
 title: Sound Money
+updated: 2022-02-14
+disclaimer: opinion
 seo: An overview of the useful features of money that give it value, and how some blockchains, including Ethereum Classic and Bitcoin, intentionally apply these features to their monetary policy to ensure decentralization and longevity.
 ---
 
@@ -31,6 +33,19 @@ Money is the lifeblood of in an economy, transporting energy and information aro
 ## Known Future Supply
 
 ETC has all the properties of Sound Money. It’s decentralized, uncensorable, divisible, transferable, fungible, durable and scarce. The cornerstone of a blockchain's sound monetary policy is scarcity via a _known future supply_. Just like Bitcoin, but unlike Ethereum™, Classic has a _fixed emission curve_; a [fixed amount](https://etcis.money/) of ETC created as a block reward for miners, which means that holders of ETC can accurately calculate the total amount of ETC in existence at any point in time; past, present and future.
+
+Ethereum Classic's fixed emission curve was introduced by [ECIP-1017](https://ecips.ethereumclassic.org/ECIPs/ecip-1017). The emission schedule, also known as 5M20, reduces the block reward by 20% every 5,000,000 blocks. Socially, this block reward reduction event has taken the moniker of "The Fifthening."
+
+| Est. Date      | 5M20 Era | Block      | Block Reward | Total Era Emission     |
+| -------------- | -------- | ---------- | ------------ | ---------------------- |
+| 2015-07-30     | Era 1    | 1          | 5 ETC        | 25,000,000 ETC         |
+| 2017-12-11     | Era 2    | 5,000,001  | 4 ETC        | 20,000,000 ETC         |
+| 2020-03-17     | Era 3    | 10,000,001 | 3.2 ETC      | 16,000,000 ETC         |
+| 2022-04-15     | Era 4    | 15,000,001 | 2.56 ETC     | 12,800,000 ETC         |
+| 2024-05-07     | Era 5    | 20,000,001 | 2.048 ETC    | 10,240,000 ETC         |
+| ~Every 2 Years | N+1      | +5,000,000 | -20%         | Total ~200,000,000 ETC |
+
+_Note: due to fluctuating uncle rate, the exact emission amount will deviate slightly, but not significantly._
 
 A _fixed emissions curve_ means that the rate of inflation is predictable, and in the case of ETC, is continually decreasing over time. As the value of the network increases, the value of all ETC increases predictably according to this rate, rather than some unknown future rate that could be much higher. ETC's commitment to a fixed emission curve is enshrined into both the protocol and its social layer, and thanks to Proof of Work, any hard fork that attempts to manipulate inflation will result in a permeant chain split, massively disincentivising such a change to the point of it being _extremely_ unlikely to be contemplated, let alone be attempted, let alone be successful.
 

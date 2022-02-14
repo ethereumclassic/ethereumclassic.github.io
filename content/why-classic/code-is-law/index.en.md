@@ -1,6 +1,6 @@
 ---
 title: Code is Law
-updated: 2021-12-15
+updated: 2022-02-14
 disclaimer: opinion
 seo: An explanation of the concept of "Code is Law", and how Ethereum Classic is one of the few blockchain projects that allow this bright future to unfold.
 ---

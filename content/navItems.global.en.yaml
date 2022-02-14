@@ -17,6 +17,9 @@ learn:
         decentralism:
           __link: /why-classic/decentralism
           name: Decentralism
+        ethBtcEtc:
+          __link: /why-classic/eth-btc-etc
+          name: ETH + BTC = ETC
         soundMoney:
           __link: /why-classic/sound-money
           name: Sound Money
