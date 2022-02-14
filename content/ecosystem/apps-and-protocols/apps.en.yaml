@@ -146,6 +146,12 @@ items:
   link: https://www.portal.network/
   text: Blockchain Name Service enables connections with IPFS hash, smart contract, and wallet address.
   type: other
+- 
+  key: Token Factory
+  name: Token Factory
+  link: https://easy.hebeswap.com/#/
+  text: On Token Factory, users can create ETC ERC20 with one click, and perform operations such as batch transfers.
+  type: other
 -
   key: XAR Network
   name: XAR Network
