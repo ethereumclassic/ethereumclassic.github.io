@@ -105,6 +105,9 @@ items:
       CoinEx:
         __link: https://www.coinex.com/exchange?currency=usdt&dest=etc
         name: CoinEx
+      CoinLore:
+        __link: https://www.coinlore.com/coin/ethereum-classic
+        name: Coin Lore
       Coinsbit:
         __link: https://coinsbit.io/trade/ETC_USD
         name: Coinsbit

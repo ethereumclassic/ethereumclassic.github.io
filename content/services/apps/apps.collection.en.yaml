@@ -1,3 +1,59 @@
+- title: ETCZunks
+  date: 2021-10-20
+  description: ETCZunks are an exclusive collection of 10,000 randomly generated characters created on the Ethereum Classic blockchain. Each ETCZunk is unique and can only be owned by one individual.
+  type: nfts
+  links:
+    - name: App Frontned
+      link: https://etczunks.com
+- title: NFTCREED
+  date: 2021-10-20
+  description: Create, Buy, Sell and Gamify NFTs
+  type: nfts
+  links:
+    - name: App Frontned
+      link: https://nftcreed.io/
+- title: HebeSwap
+  date: 2021-10-20
+  description: Swap, earn, and build on the leading decentralized crypto trading protocol in Ethereum Classic
+  type: finance
+  links:
+    - name: App Frontned
+      link: https://hebeswap.com/
+- title: SwapCat
+  date: 2021-10-20
+  description: direct wallet2wallet otc fixed price token trading in Ethereum Classic
+  type: finance
+  links:
+    - name: App Frontned
+      link: https://swap.cat/
+- title: ETCBayc
+  date: 2021-10-20
+  description: Ethereum Classic Bored Ape Yacht Club (ETCBayc), is an exclusive 10,000 only mint-able premium NFT living on the Ethereum Classic (ETC) blockchain. No two pieces of these digital Bored Apes are alike. Each being unique and pristine, there is an order of rarity that makes certain ones more valuable than the others. These Bored Apes are amongst the first high-quality art projects in the blockchain ecosystems and in ETC. Be part of the club!
+  type: nfts
+  links:
+    - name: App Frontned
+      link: https://etcbayc.com/
+- title: Classic Savages
+  date: 2021-10-20
+  description: The first original NFT project built on ETC by founder Savageprofits
+  type: nfts
+  links:
+    - name: App Frontned
+      link: https://classicsavages.com/
+- title: ETCBits
+  date: 2021-10-20
+  description: ETCbits — 1st 3D collection and only 2nd NFT collection on Ethereum Classic
+  type: nfts
+  links:
+    - name: Announcement
+      link: https://medium.com/@persn.assist/etcbits-1st-3d-collection-and-only-2nd-nft-collection-on-ethereum-classic-547e787f5633
+- title: ETC HODL Contract
+  date: 2021-10-20
+  description: A simple HODL protocol for Ethereum Classic. Lock up your ETC and earn rewards when others unlock their ETC before you do.
+  type: finance
+  links:
+    - name: IPFS Frontend
+      link: https://ipfs.io/ipfs/QmVWD1sHPrKMmKcWoSPHGTfDpgaa8N4y6arftpFCnpJWcg
 - title: ETCPunks
   links:
     - name: Homepage

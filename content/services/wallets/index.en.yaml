@@ -138,6 +138,9 @@ items:
       Huobi Wallet:
         __link: https://www.huobiwallet.com/
         name: Huobi Wallet
+      Hebe Wallet:
+        __link: https://hebe.cc/
+        name: Hebe Wallet
       Infinito Wallet:
         __link: https://www.infinitowallet.io/
         name: Infinito Wallet

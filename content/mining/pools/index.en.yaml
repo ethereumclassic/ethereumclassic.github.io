@@ -80,6 +80,9 @@ items:
       ETCPool:
         name: ETCPool
         __link: https://ethereumclassicpool.com/
+      ETC-POOL:
+        name: ETC-POOL
+        __link: https://etc-pool.com/
       ETCTurk:
         name: ETCTurk
         __link: http://etcturk.sytes.net/
