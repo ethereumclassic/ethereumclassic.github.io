@@ -75,6 +75,12 @@ items:
   link: https://commonwealth.gg/tribes.html
   text: The purpose of Tribes is to reduce risk in investing in Commonwealth. Invest as a tribe!
 -
+  key: Hens
+  name: Hens
+  link: https://app.hens.domains/#/
+  text: HENS (Ethereum Classic Name Service) is the Ethereum Classic Name Service, a distributed, open and extensible naming system based on the Ethereum Classic blockchain.
+  type: identity
+- 
   key: OriginalMy
   name: OriginalMy
   link: https://originalmy.com/
