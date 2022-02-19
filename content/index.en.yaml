@@ -11,7 +11,7 @@ billboard:
     Immutable: "Immutable"
     Sound Money: "Sound Money"
     Uncaptured: "Uncaptured"
-    Sovereign: "Sovereign"
+    SovereignGrade: "Sovereign Grade"
     Principled: "Principled"
     Unstoppable: "Unstoppable"
     Proof of Work: "Proof of Work"
@@ -19,16 +19,17 @@ billboard:
     Antifragile: "Antifragile"
     Code is Law: "Code is Law"
     Classic: "Classic"
+    Permisionless: "Permissionless"
 intro:
   title: Build Unstoppable Applications
   content: |
-    As incumbent institutions become increasingly threaterened by blockchain technology, only the truly decentralized projects will survive. 
+    As incumbent institutions become increasingly threaterened by cryptocurrency, only the truly decentralized blockchains will survive. 
 
-    Existing in response to contract censorship on sister chain Ethereum, Classic proves it's ability to resist censorship against all the odds, and it's commitement to delivering *The Original Ethereum Vision* of *unstoppable* applications.
+    Existing in response to the censorship of contracts on sister chain Ethereum, Classic has proven it's ability to resist censorship against all the odds, and it's commitement to delivering *The Original Ethereum Vision* of *unstoppable* applications.
 
     By combinging the technology of ETH with the philosophy of BTC, ETC is uninquely positioned to provide utility in a future where other chains are destroyed or captured by special interests. 
 
-    Welcome, and pelase be invited to discover ETC's past, present and future, it's principles, value proposition, community, and more; to understand *why classic*.
+    Welcome, and pelase be invited to discover ETC's past, present and future, it's principles, value proposition, community, and more; to understand *why Classic*.
   button:
     __link: /why-classic
     text: Let's Go

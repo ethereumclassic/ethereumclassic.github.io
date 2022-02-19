@@ -9,7 +9,7 @@ import AppsIcon from "./appsIcon";
 
 // LODO i18n
 const checklist = [
-  { key: "verifiedContract", text: "Verified Contract" },
+  { key: "verifiedContract", text: "Contract" },
   { key: "openSource", text: "Open Source" },
   { key: "teamSite", text: "Team Site" },
   { key: "audit", text: "Audited" },
@@ -22,16 +22,13 @@ function ChecklistSection({ item, ...rest }) {
   return (
     <div tw="text-sm">
       <div tw="flex items-center space-x-4 my-2">
-        <span>Trust Checklist Level {rating}</span>
+        <span>Trustless Checklist Level {rating}</span>
         <div tw="flex space-x-1 text-shade-lighter">
-          {checklist.map((_i, i) => (
-            <Icon
-              key={i}
-              icon={i < rating ? "check" : "times"}
-              tw="h-3"
-              css={[i < rating && tw`text-primary-neutral`]}
-            />
-          ))}
+          {checklist
+            .filter((_i, i) => i < rating)
+            .map((_i, i) => (
+              <Icon key={i} icon={"check"} tw="h-3 text-primary-neutral" />
+            ))}
         </div>
       </div>
       {/* LODO make this behave like table, auto width */}
@@ -49,7 +46,7 @@ function ChecklistSection({ item, ...rest }) {
                   tw`text-primary-neutral font-bold hover:text-primary-dark`,
               ]}
             >
-              <Icon icon={isChecked ? "check" : "times"} tw="h-3" />
+              <Icon icon={isChecked ? "check" : "questionMark"} tw="h-3" />
               <span>{text}</span>
             </Comp>
           );

@@ -21,7 +21,8 @@
     "esbenp.prettier-vscode",
     "lightyen.tailwindcss-intellisense-twin",
     "silvenon.mdx",
-    "tamasfe.even-better-toml"
+    "tamasfe.even-better-toml",
+    "valentjn.vscode-ltex"
   ],
 
   // Use 'forwardPorts' to make a list of ports inside the container available locally.

@@ -3,35 +3,34 @@
 ```
 ~~~ 3022.V0.3 SOFT LAUNCH ~~~
 
-CODE
-- LODOs
-- Add brands to social channel buttons
-- Standardize use of Etherem™
-- Configre a bunch of netlify plugins; play with https://app.netlify.com/teams/ethereum-classic/plugins
-  - https://github.com/Munter/netlify-plugin-checklinks
-  - https://github.com/netlify/netlify-plugin-gatsby#readme
-
 CONTENT
-- Spell check non-main Why ETC pages
-- Update Readme
+- Standardize use of Etherem™
+- Spell check non-main "Why ETC" pages
 - Ensure correct contributors for each piece of content (git blame)
 - Incorporate community suggestions
+- Add more latest videos
+- Fix apps metadata
+- Add HENS to apps
 
 PREFLIGHT PUBLIC RELESAE TASKS
 - Update url refs from etc3022.netlify
 - udpade branch settings on agolia plugin
+- Update Readme
 
 ~~~ 3022.V1 RELEASE, PUBLIC ~~~
 
 POSTFLIGHT CHECKS
 - Ensure all features working on main url, including search
 
-ADMIN
-- Review Github project issues, reassign
 - Videos tutorial for contributing
 
 ~~~ 3022.V1.1 I18N ~~~
 
+- Configre a bunch of netlify plugins; play with https://app.netlify.com/teams/ethereum-classic/plugins
+  - https://github.com/Munter/netlify-plugin-checklinks
+  - https://github.com/netlify/netlify-plugin-gatsby#readme
+- Review Github project issues, reassign
+- LODOs
 - Strip markdown from SEO https://github.com/remarkjs/strip-markdown
 - check all content keys are underscored correctly
 - Add comment to all YAML files explaining format __

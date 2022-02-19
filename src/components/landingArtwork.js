@@ -18,7 +18,7 @@ function RandomWords({ words }) {
 
 function Text({ text, randomWords }) {
   return (
-    <div tw="flex flex-col space-y-4 font-display tracking-wider font-bold text-5xl sm:text-6xl md:text-5xl lg:text-6xl text-primary-lightest dark:text-primary-darkest">
+    <div tw="flex flex-col md:text-left text-center font-display tracking-wider font-bold text-[6vw] md:text-[4vw] lg:text-5xl lg:leading-normal text-primary-lightest dark:text-primary-darkest">
       {text.split("%%").map((str) =>
         str === "$$" ? (
           <RandomWords key={str} words={Object.values(randomWords)} />
@@ -83,7 +83,7 @@ function LandingArtworkInner({ i18n }) {
               />
             </div>
             {/* HALO */}
-            <div tw="absolute left-11 top-10">
+            <div tw="absolute left-16 right-10 text-center md:text-left md:left-11 md:top-10">
               <Parallax
                 shouldAlwaysCompleteAnimation
                 translateY={[0, 20]}
@@ -148,7 +148,7 @@ function LandingArtworkInner({ i18n }) {
               </Parallax>
             </div>
             {/* LOGO  */}
-            <div tw="absolute left-10 top-40">
+            <div tw="absolute left-10 right-10 text-center top-32 md:text-left md:ml-0 md:left-10 md:top-40">
               <Parallax
                 shouldAlwaysCompleteAnimation
                 translateY={[0, 60]}
@@ -262,24 +262,8 @@ function LandingArtworkInner({ i18n }) {
               </Parallax>
             </div>
             {/* TEXT */}
-            <div tw="absolute left-10 top-[32rem] md:top-44 md:left-2/4">
+            <div tw="absolute left-10 right-10 top-[32rem] md:top-44 md:left-96 md:ml-20 lg:ml-0 lg:left-2/4">
               <Text {...i18n} />
-              {/* <StaticImage
-              tw="dark:hidden"
-              height={240}
-              alt=""
-              src="../images/banner/light mode/text.png"
-              placeholder="tracedSVG"
-              tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
-            />
-            <StaticImage
-              tw="light:hidden "
-              height={240}
-              alt=""
-              src="../images/banner/dark mode/text.png"
-              placeholder="tracedSVG"
-              tracedSVGOptions={{ color: "rgba(0,0,0,0.3)" }}
-            /> */}
             </div>
           </div>
         </TwContainer>
