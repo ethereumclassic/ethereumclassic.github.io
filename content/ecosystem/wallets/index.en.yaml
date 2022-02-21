@@ -52,6 +52,10 @@ content:
         key: Saturn Wallet
         link: https://www.saturn.network/blog/saturn-wallet-user-manual/
         name: Saturn Wallet
+      -
+        key: SimpleHold Wallet
+        link: https://simplehold.io/download
+        name: SimpleHold Wallet
   -
     key: hardware
     type: buttons
