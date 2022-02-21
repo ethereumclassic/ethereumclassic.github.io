@@ -1,5 +1,6 @@
 import React, { createContext, useContext } from "react";
 import GlobalStyles from "./globalStyles";
+import isSSR from "./isSSR";
 import localStorage from "./localStorage";
 
 const ThemeContext = createContext();
@@ -10,14 +11,19 @@ function useTheme() {
   return theme;
 }
 
-// alert("local?");
-
 const getInitialTheme = () => {
   const storedPrefs = localStorage.getItem("color-theme");
   if (typeof storedPrefs === "string") {
     return storedPrefs;
   }
-  return "light";
+  // set dark mode automatically if user is in dark modde
+  if (!isSSR) {
+    const userMedia = window.matchMedia("(prefers-color-scheme: dark)");
+    if (userMedia.matches) {
+      return "dark";
+    }
+  }
+  return "light"; // light is default
 };
 
 function ThemeProvider({ children }) {
