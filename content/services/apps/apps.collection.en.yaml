@@ -1,190 +1,271 @@
-- title: Test NFT 2
+# DO NOT DELETE THIS COMMENT BLOCK
+# YOU CAN COPY AND PASE THE BLOCK BELOW AND UNCOMMENT/DELETE THE RELEVANT LINES TO ADD A NEW APP
+#
+### START APP TEMPALTE
+#
+# - title: ETCBayc
+#   date: 2022-01-01
+#   type: nfts
+#   image: ./images/etcbayc.jpg
+#   author: Author Name Here
+#   authorLink: https://author-website.com/
+#   verifiedContract: https://blockscout.com/etc/mainnet/address/0x59E34EF31049565D041Aec6137F40f518c2D47c1/contracts
+#   openSource: https://example.com
+#   teamSite: https://example.com
+#   audit: https://example.com
+#   testSuite: https://example.com
+#   ipfsFrontend: https://example.com
+#   description: Ethereum Classic Bored Ape Yacht Club (ETCBayc), is an exclusive 10,000 only mint-able premium NFT living on the Ethereum Classic (ETC) blockchain. No two pieces of these digital Bored Apes are alike. Each being unique and pristine, there is an order of rarity that makes certain ones more valuable than the others. These Bored Apes are amongst the first high-quality art projects in the blockchain ecosystems and in ETC. Be part of the club!
+#   links:
+#     - name: Launch App
+#       link: https://etcbayc.com/
+#     - name: Twitter
+#       link: https://twitter.com/etcbayc
+#       icon: twitter
+#     - name: Medium
+#       link: https://medium.com/@etcbayc
+#       icon: medium
+#
+### END APP TEMPLATE
+#
+- title: HENS
+  date: 2022-02-21
+  type: identity
+  image: ./images/hens.png
+  author: HebeBlock
+  authorLink: https://hebeblock.com/
+  description: HENS (Ethereum Classic Name Service) is the Ethereum Classic Name Service, a distributed, open and extensible naming system based on the Ethereum Classic blockchain.
   links:
+    - name: Launch App
+      link: https://app.hens.domains/#/
     - name: Homepage
-      link: https://etcpunks.com/
-    - name: Github
-      link: https://etcpunks.com/
-    - name: Twitter
-      link: https://etcpunks.com/
-  author: Blah Blah Blah
-  authorLink: https://etcpunks.com/
-  description: ETCPunks are inspired collectibles, the first NFT porject on Ethereum Classic! Only 10,000 made, all with unique features. Collect them, buy one as a gift for someone or trade them on the marketplace!
-  type: nfts
-  date: 2021-10-20
-  verifiedContract: https://etcpunks.com/
-  openSource: https://etcpunks.com/
-  teamSite: https://etcpunks.com/
-  audit: https://etcpunks.com/
-  testSuite: https://etcpunks.com/
-  ipfsFrontend: https://etcpunks.com/
+      link: https://hens.domains/
+      icon: home
+- title: Token Factory
+  date: 2022-02-06
+  type: other
+  author: HebeBlock
+  authorLink: https://hebeblock.com/
+  links:
+    - name: Launch App
+      link: https://easy.hebeswap.com/#/
+  description: On Token Factory, users can create ETC ERC20 with one click, and perform operations such as batch transfers.
+- title: SwapCat
+  date: 2022-01-16
+  type: finance
+  image: ./images/swapcat.jpg
+  ipfsFrontend: https://gateway.pinata.cloud/ipfs/QmXfN5VMUU1Q1TvXjvdQtQds9JtMk7gTJeEdWhv8FG6mCq/start.htm
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0xB18713Ac02Fc2090c0447e539524a5c76f327a3b/contracts
+  description: |
+    A simple DEX for fixed price token offers directly from wallet to wallet
+
+    Users can set up erc20 tokens for sale for any other erc20
+
+    Funds stay in users wallets, dex contract gets a spending allowance
+
+    Payments go directly into the sellers wallet
+
+    This DEX takes no fees
+
+    Mostly useful to provide stablecoin liquidity or sell tokens for a premium
+
+    Offers have to be adjusted by the user if prices change
+  links:
+    - name: Launch App
+      link: https://swap.cat/
 - title: ETCZunks
   date: 2022-01-10
-  description: ETCZunks are an exclusive collection of 10,000 randomly generated characters created on the Ethereum Classic blockchain. Each ETCZunk is unique and can only be owned by one individual.
   type: nfts
+  image: ./images/etczunks.jpg
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x28cdE342AC623C1aC3Ba25D0A22fCa385911b57C/contracts
+  description: ETCZunks are an exclusive collection of 10,000 randomly generated characters created on the Ethereum Classic blockchain. Each ETCZunk is unique and can only be owned by one individual.
   links:
-    - name: App Frontned
+    - name: Launch App
       link: https://etczunks.com
+    - name: Twitter
+      link: https://twitter.com/etczunks
+      icon: twitter
+- title: ETC HODL Contract
+  date: 2022-01-07
+  type: finance
+  ipfsFrontend: https://ipfs.io/ipfs/QmVWD1sHPrKMmKcWoSPHGTfDpgaa8N4y6arftpFCnpJWcg
+  description: A simple HODL protocol for Ethereum Classic. Lock up your ETC and earn rewards when others unlock their ETC before you do.
+  links:
+    - name: Launch App
+      link: https://ipfs.io/ipfs/QmVWD1sHPrKMmKcWoSPHGTfDpgaa8N4y6arftpFCnpJWcg
 - title: NFTCREED
   date: 2022-01-04
-  description: Create, Buy, Sell and Gamify NFTs
   type: nfts
+  image: ./images/nftcreed.png
+  description: Create, Buy, Sell and Gamify NFTs
   links:
-    - name: App Frontned
+    - name: Launch App
       link: https://nftcreed.io/
+    - name: Twitter
+      link: https://nitter.42l.fr/nftcreed_
+      icon: twitter
+- title: ETCBayc
+  date: 2022-01-01
+  type: nfts
+  image: ./images/etcbayc.jpg
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x59E34EF31049565D041Aec6137F40f518c2D47c1/contracts
+  description: Ethereum Classic Bored Ape Yacht Club (ETCBayc), is an exclusive 10,000 only mint-able premium NFT living on the Ethereum Classic (ETC) blockchain. No two pieces of these digital Bored Apes are alike. Each being unique and pristine, there is an order of rarity that makes certain ones more valuable than the others. These Bored Apes are amongst the first high-quality art projects in the blockchain ecosystems and in ETC. Be part of the club!
+  links:
+    - name: Launch App
+      link: https://etcbayc.com/
+    - name: Twitter
+      link: https://twitter.com/etcbayc
+      icon: twitter
+    - name: Medium
+      link: https://medium.com/@etcbayc
+      icon: medium
 - title: HebeSwap
   date: 2022-01-01
+  image: ./images/hebeswap.png
   author: HebeBlock
-  teamSite: https://hebeblock.com/
   authorLink: https://hebeblock.com/
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0xEcBcF5C7aF4c323947CFE982940BA7c9fd207e2b/contracts
   description: Swap, earn, and build on the leading decentralized crypto trading protocol in Ethereum Classic
   type: finance
   links:
-    - name: App Frontned
+    - name: Launch App
+      link: https://app.hebeswap.com/
+    - name: Homepage
       link: https://hebeswap.com/
-- title: SwapCat
-  date: 2022-01-16
-  description: direct wallet2wallet otc fixed price token trading in Ethereum Classic
-  type: finance
-  links:
-    - name: App Frontned
-      link: https://swap.cat/
-- title: ETCBayc
-  date: 2022-01-01
-  description: Ethereum Classic Bored Ape Yacht Club (ETCBayc), is an exclusive 10,000 only mint-able premium NFT living on the Ethereum Classic (ETC) blockchain. No two pieces of these digital Bored Apes are alike. Each being unique and pristine, there is an order of rarity that makes certain ones more valuable than the others. These Bored Apes are amongst the first high-quality art projects in the blockchain ecosystems and in ETC. Be part of the club!
-  type: nfts
-  links:
-    - name: App Frontned
-      link: https://etcbayc.com/
-- title: Classic Savages
-  date: 2021-10-20
-  description: The first original NFT project built on ETC by founder Savageprofits
-  type: nfts
-  links:
-    - name: App Frontned
-      link: https://classicsavages.com/
+      icon: home
+    - name: Documentation
+      link: https://block-hebe.gitbook.io/hebeblock/
+      icon: book
 - title: ETCBits
   date: 2021-12-26
-  description: ETCbits — 1st 3D collection and only 2nd NFT collection on Ethereum Classic
+  image: ./images/etcbits.jpg
   type: nfts
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x4938B060481D7aeD59fcD21abd51f29B48994EC8/contracts
+  description: ETCbits — 1st 3D collection and only 2nd NFT collection on Ethereum Classic
   links:
+    - name: Launch App
+      link: https://etcbits.com
     - name: Announcement
       link: https://medium.com/@persn.assist/etcbits-1st-3d-collection-and-only-2nd-nft-collection-on-ethereum-classic-547e787f5633
-- title: ETC HODL Contract
-  date: 2022-01-07
-  description: A simple HODL protocol for Ethereum Classic. Lock up your ETC and earn rewards when others unlock their ETC before you do.
-  type: finance
-  ipfsFrontend: https://ipfs.io/ipfs/QmVWD1sHPrKMmKcWoSPHGTfDpgaa8N4y6arftpFCnpJWcg
+      icon: medium
+    - name: Twitter
+      link: https://twitter.com/etcbitsnft
+      icon: twitter
+- title: Classic Savages
+  author: SavageProfits
+  authorLink: https://www.youtube.com/SavageProfits
+  image: ./images/classicsavages.jpg
+  date: 2021-12-25
+  type: nfts
+  description: The first original NFT project built on ETC by founder Savageprofits
   links:
-    - name: App Frontend
-      link: https://ipfs.io/ipfs/QmVWD1sHPrKMmKcWoSPHGTfDpgaa8N4y6arftpFCnpJWcg
+    - name: Launch App
+      link: https://classicsavages.com/
+    - name: Twitter
+      link: https://twitter.com/classicsavages
+      icon: twitter
+    - name: Medium
+      link: https://medium.com/@ethereumclassicsavages
+      icon: medium
 - title: ETCPunks
+  date: 2021-09-21
+  type: nfts
+  image: ./images/etcpunks.jpeg
+  description: ETCPunks are inspired collectibles, the first NFT porject on Ethereum Classic! Only 10,000 made, all with unique features. Collect them, buy one as a gift for someone or trade them on the marketplace!
   links:
     - name: App Frontend
       link: https://etcpunks.com/
-  description: ETCPunks are inspired collectibles, the first NFT porject on Ethereum Classic! Only 10,000 made, all with unique features. Collect them, buy one as a gift for someone or trade them on the marketplace!
-  type: nfts
-  date: 2021-10-20
-  image: ./images/etcpunks.jpeg
-
+    - name: Twitter
+      link: https://twitter.com/etcpunks
+      icon: twitter
 - title: Aqua Bank
+  date: 2020-02-11
   type: games
   description: In this game you take care about whale. Fish lives in a protected area with other endangered species. Player is supposed to feed the whale using plankton in order to let it grow. Whale also produces oil as it consumes plankton. Oil and whale meat slices are requested at the Port, where they also supply plankton for feeding. Relax by watching fish in the aquarium grow
-  date: 2021-09-01
 - title: Commonwealth Tribes
+  date: 2020-05-01
   type: games
+  description: The purpose of Tribes is to reduce risk in investing in Commonwealth. Invest as a tribe!
   links:
     - name: Homepage
       link: https://commonwealth.gg/tribes.html
-  description: The purpose of Tribes is to reduce risk in investing in Commonwealth. Invest as a tribe!
-  date: 2021-10-20
 - title: OriginalMy
+  date: 2020-02-11
+  type: identity
+  description: "Building trust in corporate governance. Seamlessly authenticating: identities, authorisation signatures, and digital content. A global public utility for self-sovereign identity."
   links:
     - name: Homepage
       link: https://originalmy.com/
-  description: "Building trust in corporate governance. Seamlessly authenticating: identities, authorisation signatures, and digital content. A global public utility for self-sovereign identity."
-  type: identity
-  date: 2021-10-20
 - title: Stampery
-  date: 2021-10-20
+  date: 2020-02-11
+  type: identity
+  description: We leverage blockchain technology to ensure the existence, integrity and attribution of communications, processes and data important for your organization.
   links:
     - name: Homepage
       link: https://stampery.com/
-  description: We leverage blockchain technology to ensure the existence, integrity and attribution of communications, processes and data important for your organization.
-  type: identity
-- title: BTC-to-wBTC
-  date: 2021-10-20
-  links:
-    - name: Homepage
-      link: https://wbtc.network/
-  description: Wrapped Bitcoin delivers the power of Bitcoin with the flexibility of an ERC20 token. Bitcoin tokenized on EVMs.
-  type: interoperability
 - title: ETC-to-wETC
-  date: 2021-10-20
-  links:
-    - name: Homepage
-      link: https://wetc.app/
-  description: The Ethereum Classic Bridge connects ETC-to-ETH, where ETC is available as wETC on the Ethereum (ETH) chain.
+  date: 2020-02-11
   type: interoperability
+  author: PoA Network
+  authorLink: https://poa.network
+  openSource: https://github.com/poanetwork/token-bridge
+  description: The Ethereum Classic Bridge connects ETC-to-ETH, where ETC is available as wETC on the Ethereum (ETH) chain.
+  links:
+    - name: Launch App
+      link: https://wetc.app/
 - title: EVM-to-BNC Bridge
-  date: 2021-10-20
+  date: 2020-02-11
+  type: interoperability
+  description: The EVM-to-BNC bridge combines the TokenBridge approach with a TSS to approve relay operations and facilitate asset transfer between an EVM chain and the Binance chain.
   links:
     - name: Homepage
       link: https://docs.tokenbridge.net/eth-bnc-bridge/about-eth-bnc-bridge
-  description: The EVM-to-BNC bridge combines the TokenBridge approach with a TSS to approve relay operations and facilitate asset transfer between an EVM chain and the Binance chain.
-  type: interoperability
 - title: Token Bridge
-  date: 2021-10-20
+  date: 2020-02-11
+  type: interoperability
+  description: The TokenBridge allows users to transfer data (e.g. digital asset ownership information) between two chains in the Ethereum ecosystem. Cross-chain bridges provide fast and secure connections between blockchains, creating scalability and connection - interoperability - between Ethereum EVM networks.
   links:
     - name: Homepage
       link: https://docs.tokenbridge.net/
-  description: The TokenBridge allows users to transfer data (e.g. digital asset ownership information) between two chains in the Ethereum ecosystem. Cross-chain bridges provide fast and secure connections between blockchains, creating scalability and connection - interoperability - between Ethereum EVM networks.
-  type: interoperability
 - title: Celsius Network
-  date: 2021-10-20
+  date: 2020-06-25
+  type: finance
+  description: Celsius Network, the industry-leading cryptocurrency interest-earning platform, allows ETC holders to deposit their digital assets into the Celsius wallet and earn interests.
   links:
     - name: Homepage
       link: https://celsius.network/
-  description: Celsius Network, the industry-leading cryptocurrency interest-earning platform, allows ETC holders to deposit their digital assets into the Celsius wallet and earn interests.
-  type: finance
 - title: Commonwealth
   date: 2020-05-01
+  type: finance
+  description: The World’s Savings Fund. Immutable. Built 2018.
   links:
     - name: Homepage
       link: https://commonwealth.gg
-  description: The World’s Savings Fund. Immutable. Built 2018.
-  type: finance
 - title: GitCoin
-  date: 2021-10-20
+  date: 2020-02-11
+  type: finance
+  description: Crowdfunding and Freelance Developers for Open Source Software Projects.
   links:
     - name: Homepage
       link: https://gitcoin.co/
-  description: Crowdfunding and Freelance Developers for Open Source Software Projects.
-  type: finance
 - title: Cryptwerk
-  date: 2021-10-20
+  date: 2020-05-07
+  type: other
+  description: Pay with Ethereum Classic. Companies and stores accepting ETC. Spend your crypto.
   links:
     - name: Homepage
       link: https://cryptwerk.com/pay-with/etc/
-  description: Pay with Ethereum Classic. Companies and stores accepting ETC. Spend your crypto.
-  type: other
-- title: Grayscale® Ethereum Classic Trust
-  date: 2021-10-20
-  links:
-    - name: Homepage
-      link: https://grayscale.co/ethereum-classic-trust/
-  description: Grayscale Ethereum Classic Trust enables investors to gain exposure to the price movement of ETC through a traditional investment vehicle, without the challenges of buying, storing, and safekeeping ETC.
-  type: other
-- title: Portal.Network
-  date: 2021-10-20
-  links:
-    - name: Homepage
-      link: https://www.portal.network/
-  description: Blockchain title Service enables connections with IPFS hash, smart contract, and wallet address.
-  type: other
 - title: XAR Network
-  date: 2021-10-20
+  date: 2020-03-08
+  type: other
+  description: Xar Network was created from a need of corporate and central banks to use blockchain technology in a private, permissioned space. As our feature set grew we noticed consistent cross-over with the decentralized finance ecosystem, so eventually the Xar toolkit grew to a full-fledged decentralized finance toolbox. Xar Network offers access to advantages of both purely traditional banking systems and blockchain systems - using blockchain based or decentralized finance (DeFi).
   links:
     - name: Homepage
       link: https://xar.network/
-  description: Xar Network was created from a need of corporate and central banks to use blockchain technology in a private, permissioned space. As our feature set grew we noticed consistent cross-over with the decentralized finance ecosystem, so eventually the Xar toolkit grew to a full-fledged decentralized finance toolbox. Xar Network offers access to advantages of both purely traditional banking systems and blockchain systems - using blockchain based or decentralized finance (DeFi).
+- title: Portal.Network
+  date: 2020-02-11
   type: other
+  description: Blockchain title Service enables connections with IPFS hash, smart contract, and wallet address.
+  links:
+    - name: Homepage
+      link: https://www.portal.network/

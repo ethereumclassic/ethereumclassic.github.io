@@ -132,6 +132,7 @@ export {
   faWeibo as weibo,
   faSlack as slack,
   faFacebook as facebook,
+  faMediumM as medium,
 } from "@fortawesome/free-brands-svg-icons";
 
 // flags, used via locale key; https://github.com/lipis/flag-icons/blob/main/country.json

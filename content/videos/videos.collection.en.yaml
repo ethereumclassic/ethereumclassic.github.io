@@ -1,3 +1,48 @@
+# DO NOT DELETE THIS COMMENT BLOCK
+# YOU CAN COPY AND PASE THE BLOCK BELOW AND UNCOMMENT/DELETE THE RELEVANT LINES TO ADD A NEW VIDEO
+#
+### START VIDEO TEMPALTE
+#
+# - title: "ETCCC012: Q&A with Afri, ETCDAO Gigs, Uncle Rate"
+#   date: 2022-02-08
+#   youtube: GCBv1VCN2tE
+#   tags: ["discussions", "explainers"]
+#   author: ETC Community Calls
+#   authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+#   description: "OPTIONAL, Supports Markdown: Nishant Sharma [@nishantsharma87](https://twitter.com/nishantsharma87), PR and Community Relations at [Bitmain](https://www.bitmain.com/)."
+#
+### END VIDEO TEMPALTE
+#
+- title: "Ethereum Classic is a Sleeping Giant"
+  date: 2022-02-20
+  author: Son of a Tech
+  authorYoutube: UC0WNX0de8I1fgKUrjxiPaRA
+  tags: ["trading"]
+  youtube: 7eopeJfin84
+- title: "ETCCC013: The SHA3 Debate Continues, Hybrid PoW"
+  date: 2022-02-15
+  youtube: HQ9IKu3PVkA
+  tags: ["discussions"]
+  author: ETC Community Calls
+  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+- title: "ETHEREUM CLASSIC MYSTIQUE UPGRADE ! | ECOSYSTEM UPDATE!"
+  date: 2022-02-12
+  author: Savage Profits
+  youtube: btlFEYm2AsQ
+  tags: ["explainer"]
+  authorYoutube: UCn-FM8TsJ0c8kFXYZEI0jmA
+- title: "ETCCC012: Q&A with Afri, ETCDAO Gigs, Uncle Rate"
+  date: 2022-02-08
+  youtube: GCBv1VCN2tE
+  tags: ["discussions"]
+  author: ETC Community Calls
+  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+- title: "ETCCC011: SHA3 Next Steps, ETCDAO Rising"
+  date: 2022-02-01
+  youtube: ad_grFagA5k
+  tags: ["discussions"]
+  author: ETC Community Calls
+  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETCCC010: DAO Approaches, Obelus, The SHA3 Debate Continues..."
   date: 2022-01-25
   youtube: 6DRZEaKkpb4

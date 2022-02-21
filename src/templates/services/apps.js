@@ -23,13 +23,13 @@ export const pageQuery = graphql`
     slug
     verifiedContract
     openSource
-    teamSite
     audit
     testSuite
     ipfsFrontend
     links {
       name
       link
+      icon
     }
     image {
       childImageSharp {

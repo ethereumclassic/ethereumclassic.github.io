@@ -6,8 +6,6 @@
 CONTENT
 - Standardize use of Etherem™
 - Ensure correct contributors for each piece of content (git blame)
-- Add more latest videos
-- Fix apps metadata
 
 PREFLIGHT PUBLIC RELESAE TASKS
 - Update url refs from etc3022.netlify
