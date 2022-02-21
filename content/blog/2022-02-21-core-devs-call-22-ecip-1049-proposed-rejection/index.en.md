@@ -13,7 +13,7 @@ tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 
 * When: Monday, February 21st, 2022, 17:00 UTC, 120 minutes max.
 * Where: [Ethereum Classic Discord](https://ethereumclassic.org/discord)
-* Focus: REJECT SHA3-256/Keccak256 Mining Algorithm Change due to a high-probability risk of Contentious Chain Split between GPU Miners on ETCHash and FPGA & ASIC Miners on SHA3. ECIP-1049 is in violation of Ethereum Classic founding documents and the ECIP process. At this point, the contentious proposal has negative externalities on the network and is a resource drain. Move to reject the proposal after three years of technical discussion. If the proposal is not rejected, begin plans for a chain split.
+* Focus: REJECT Keccak256 Mining Algorithm Change due to a high-probability risk of Contentious Chain Split between GPU Miners on ETCHash and FPGA & ASIC Miners on Keccak256. ECIP-1049 is in violation of Ethereum Classic founding documents and the ECIP process. At this point, the contentious proposal has negative externalities on the network and is a resource drain. Move to reject the proposal after three years of technical discussion. If the proposal is not rejected, begin plans for a chain split.
 * Video: https://www.youtube.com/watch?v=SV3WJwEfJwo
 
 ## Agenda
@@ -45,11 +45,11 @@ The reason for "Rejected" status under this clause is that the champion has not 
 * 13. [ETC Core Devs Call 22: Proposed Rejection of ECIP-1049 #460](https://github.com/ethereumclassic/ECIPs/issues/460)
 * 14. [Rejected Status ecip-1049 #465](https://github.com/ethereumclassic/ECIPs/issues/465)
 
-### It should be noted in this new discussion thread, this ECIP appears to be contentious (as documented in all the previous threads/recordings) and has a high-probability of a chain split between the GPU Miners on ETCHash and the FPGA & ASIC miners on SHA3.
+### It should be noted in this new discussion thread, this ECIP appears to be contentious (as documented in all the previous threads/recordings) and has a high-probability of a chain split between the GPU Miners on ETCHash and the FPGA & ASIC miners on Keccak256.
 
 ![ETC Core Devs Call 22 - Proposed Rejection of Keccak256 ECIP-1049](./etchash-vs-keccak256.png)
 
-### Recording of Core Devs Call 22
+### Recording of Ethereum Classic Core Devs Call 22 - Proposed Rejection of Keccak256 ECIP-1049
 
 * Video: https://www.youtube.com/watch?v=SV3WJwEfJwo
 
