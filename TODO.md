@@ -5,12 +5,9 @@
 
 CONTENT
 - Standardize use of Etherem™
-- Spell check non-main "Why ETC" pages
 - Ensure correct contributors for each piece of content (git blame)
-- Incorporate community suggestions
 - Add more latest videos
 - Fix apps metadata
-- Add HENS to apps
 
 PREFLIGHT PUBLIC RELESAE TASKS
 - Update url refs from etc3022.netlify

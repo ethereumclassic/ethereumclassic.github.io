@@ -1,6 +1,5 @@
 import React, { createContext, useContext } from "react";
 import GlobalStyles from "./globalStyles";
-import isSSR from "./isSSR";
 import localStorage from "./localStorage";
 
 const ThemeContext = createContext();
@@ -16,8 +15,9 @@ const getInitialTheme = () => {
   if (typeof storedPrefs === "string") {
     return storedPrefs;
   }
+  // LODO get this to work
   // set dark mode automatically if user is in dark modde
-  if (!isSSR) {
+  if (typeof window !== "undefined") {
     const userMedia = window.matchMedia("(prefers-color-scheme: dark)");
     if (userMedia.matches) {
       return "dark";
