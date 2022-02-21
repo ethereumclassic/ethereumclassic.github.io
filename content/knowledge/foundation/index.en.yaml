@@ -7,7 +7,7 @@ items:
       Declaration of Independence:
         name: Declaration of Independence
         link: /blog/2016-08-13-declaration-of-independence
-        description: A statement of ETC's reason for being, a list of grievances, and a description of it's principles and goals. It is one of Ethereum Classic's early founding documents, originally published in August 2016 and translated into many languages.
+        description: A statement of ETC's reason for being, a list of grievances, and a description of its principles and goals. It is one of Ethereum Classic's early founding documents, originally published in August 2016 and translated into many languages.
       A Crypto-Decentralist Manifesto:
         name: A Crypto-Decentralist Manifesto
         link: /blog/2016-07-11-manifesto
@@ -19,11 +19,11 @@ items:
       keepEtcClassic:
         name: Let's Keep Ethereum Classic Classic
         link: https://ethereumclassicclassic.org
-        description: An in-depth reminder about the importance of defending the principles of Ethereum Classic, in resposnse to a (now withdrawn) Treasury Proposal.
+        description: An in-depth reminder about the importance of defending the principles of Ethereum Classic, in response to a (now withdrawn) Treasury Proposal.
   past:
     type: links
     title: The Shoulders of Giants
-    description: Ethereum Classic could not exist without other trailblazing projects; specifically, the original blockchain groundwork and decentralist philosophy of Bitcoin, and the turing-complete Smart Contract platform technology provided by The Ethereum Project.
+    description: Ethereum Classic could not exist without other trailblazing projects; specifically, the original blockchain groundwork and decentralist philosophy of Bitcoin, and the Turing-complete Smart Contract platform technology provided by The Ethereum Project.
     items:
       The idea of Smart Contracts:
         name: The idea of Smart Contracts

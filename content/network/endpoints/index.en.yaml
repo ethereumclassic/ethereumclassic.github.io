@@ -1,13 +1,13 @@
 title: Public Endpoints
 seo: A list of Remote Procedure Call (RPC) endpoints that can be used to interact with ETC via MetaMask and other applications.
 description: |
-  Remote Procedure Call (RPC) Endpoints are your gateway to Ethereum Classic, and allow you to communicate with and read data from the ETC chain. For maximium trustlessness, you run an [ETC Client](/development/clients) locally; a local endpoint is usually made available at `http://localhost:8545`.
+  Remote Procedure Call (RPC) Endpoints are your gateway to Ethereum Classic, and allow you to communicate with and read data from the ETC chain. For maximum trustlessness, you run an [ETC Client](/development/clients) locally; a local endpoint is usually made available at `http://localhost:8545`.
 
   Public Ethereum Classic RPC endpoints are also available, provided either for free to the community or as a subscription service. Because you can sign and broadcast transactions locally using a wallet such as [MetaMask](/guides/metamask), public endpoints can be used whilst maintaining custody of your private keys.
 
-  You can use these URLs to transact and deploy to ETC (or it's testnets) by updating your wallet or deployment tool confiruration. Make sure you also change your Chain ID to `61` for Ethereum Mainnet. 
+  You can use these URLs to transact and deploy to ETC (or it's testnets) by updating your wallet or deployment tool configuration. Make sure you also change your Chain ID to `61` for Ethereum mainnet. 
 
-  For more information on other networks, check out the [tesntets](/development/testnets) section.
+  For more information on other networks, check out the [testnets](/development/testnets) section.
 items:
   endpoints:
     type: table

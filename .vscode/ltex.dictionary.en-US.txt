@@ -43,3 +43,17 @@ trustless
 premine
 maladapted
 decentralist
+antifragility
+whitepaper
+ultrafair
+ETHash
+testnet
+dapp
+testnets
+ECIP
+ECIPs
+mainnet
+trustlessness
+rugpulls
+techno-socio-economic
+ETCHash

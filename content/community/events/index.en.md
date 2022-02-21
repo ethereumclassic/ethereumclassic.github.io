@@ -7,9 +7,9 @@ seo: An overview of real world and virtual Ethereum Classic related events. ETC 
 
 Magic happens when people come together and share ideas, and participants throughout the ETC community have spontaneously organized to form real life and online gatherings to focus their attention on improving Ethereum Classic.
 
-## Commmunity Calls
+## Community Calls
 
-Every Thursday, usually at UTC 1500, a group voice chat takes place in the The Ethereum Classic [Discord](https://ethereumclassic.org/discord) server. Every now and then a special guest will join the chat for Questions and Answers with the community. These calls are usually recorded, and you can find these recordings on the ETC Community Calls [repository](https://github.com/ethereumclassic/community-calls).
+Every Thursday, usually at UTC 1500, a group voice chat takes place in the Ethereum Classic [Discord](https://ethereumclassic.org/discord) server. Occasionally a special guest will join the chat for Questions and Answers with the community. These calls are usually recorded, and you can find these recordings on the ETC Community Calls [repository](https://github.com/ethereumclassic/community-calls).
 
 Everybody, regardless of level of involvement in ETC, is welcome to join this chat and there is usually time available to open the floor to questions if you'd like to bring something up.
 
@@ -33,4 +33,4 @@ Videos of the presentations are available under the [Videos > Conferences](/vide
 
 The ETC Core Devs Call is a technical discussion call for developers working on the Ethereum Classic clients and/or ECIP process.
 
-These calls has no set schedule, but occur fairly frequntly throughout the year. Proposed calls are announced in the form of github issues in the [ECIPs repo](https://github.com/ethereumclassic/ECIPs/issues?q=is%3Aissue+Devs+Call).
+These calls has no set schedule, but occur fairly frequently throughout the year. Proposed calls are announced in the form of GitHub issues in the [ECIPs repo](https://github.com/ethereumclassic/ECIPs/issues?q=is%3Aissue+Devs+Call).

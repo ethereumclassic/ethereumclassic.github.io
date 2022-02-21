@@ -1,9 +1,9 @@
 __contribute: true
 __contributors: ["IstoraMandiri"]
 title: Theory & Research
-seo: A colelction of articles covering a wide array of topics that relate to Ethereum Classic's underlying philosophy, history, and unique value proposition.
+seo: A collection of articles covering a wide array of topics that relate to Ethereum Classic's underlying philosophy, history, and unique value proposition.
 description: |
-  Above and beyond Ethereum Classic's core tennants, a whole school of thought is spun off based on the concequences of The Hard Fork and continuation of The Original Ethereum Vision. 
+  Above and beyond Ethereum Classic's core tenants, a whole school of thought is spun off based on the consequences of The Hard Fork and continuation of The Original Ethereum Vision. 
 
   Here, a collection of articles that explore the impact of ETC, it's history, and a wider range of theory and research topics are gathered to help further the understanding of Ethereum Classic's unique and wild potential.
 items:
@@ -51,4 +51,4 @@ items:
       Ethereum Classic (ETC) Wiki:
         name: Ethereum Classic (ETC) Wiki
         link: https://github.com/ethereumclassic/wiki/wiki
-        description: Some of the core philosophies of Ethereum's ETC chain.
+        description: Some core philosophies of Ethereum's ETC chain.

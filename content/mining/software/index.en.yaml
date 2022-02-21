@@ -1,6 +1,6 @@
 title: Miner Software
 seo: A list of software packages that can be used for mining the cryptocurrency ETC on Ethereum Classic.
-description: "The Proof-of-Work mining algorithm for the Ethereum Classic network is [Etchash](https://github.com/eth-classic/etchash) since 28th of November 2020."
+description: "The Proof-of-Work mining algorithm for the Ethereum Classic network is [ETCHash](https://github.com/eth-classic/etchash) since 28th of November 2020."
 items:
   table:
     __type: table

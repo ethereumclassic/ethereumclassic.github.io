@@ -2,7 +2,7 @@
 title: Using MetaMask with ETC
 date: 2021-03-02
 author: Donald McIntyre, Etherplan
-seo;: A step-by-step guide covering how to use MetaMask with Ethereum Classic to send ETC and interact with decentralized applications.
+seo: A step-by-step guide covering how to use MetaMask with Ethereum Classic to send ETC and interact with decentralized applications.
 info: This article was [created by Etherplan](https://etherplan.com/2021/03/02/how-to-connect-metamask-to-ethereum-classic/15512/). For more Ethereum Classic tutorials, theory, and cryptocurrency concepts, please check out [etherplan.com](https://etherplan.com).
 contributors: [DonaldMcIntyre]
 ---

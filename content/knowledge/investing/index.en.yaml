@@ -3,11 +3,11 @@ __contribute: true
 title: Investor Resources
 seo: Research materials for investors looking to learn more about Ethereum Classic's long term value proposition.
 description: |
-  Ethereum Classic presents a unique investment opportunity as it is one of the only truly neutral blockchain projects; the protocol treats all participants equally. This means that if you purhcase ETC, you are contributing directly to the security of the network, and there is no central organization that disproportionately benefits from this contribution. 
+  Ethereum Classic presents a unique investment opportunity as it is one of the few truly neutral blockchain projects; the protocol treats all participants equally. This means that if you purchase ETC, you are contributing directly to the security of the network, and there is no central organization that disproportionately benefits from this contribution. 
 
   On chains that have an undiluted premine and/or a dev team that receives a portion of the block reward, not only is your contribution is essentially taxed by this group, but it is diverted away from network security, either directly away from miners or in the form of negative price pressure as value is liquidated to pay for this group's expenses.
 
-  Ethereum Classic, thanks to the [ultrafair distribution](/why-classic/decentralization#ultrafair-distribution), does not have a central organization that is continually liquidating their premine, which pushes the price down at the expense of holders. Moreover, as with Bitcoin, ETC has a known future supply rather than one that can be inflated away at the whim of an opaque organizing committee, which redistributes value away from holders.  
+  Ethereum Classic, thanks to the [ultrafair redistribution](/why-classic/genesis#free-money-and-the-ultrafair-redistribution), does not have a central organization that is continually liquidating their premine, which pushes the price down at the expense of holders. Moreover, as with Bitcoin, ETC has a known future supply rather than one that can be inflated away at the whim of an opaque organizing committee, which redistributes value away from holders.  
 
   The following materials discuss key theses and relevant information, aimed at investors and those who are looking to understand the upside potential and value proposition of ETC.
 items:
@@ -21,15 +21,15 @@ items:
       etcIsMoney:
         __link: https://etcis.money
         name: ETC is Money
-        description: A colourful and opinionated reminder about the qualities of "hard money" and how they relate to Ethereum Classic
+        description: A colorful and opinionated reminder about the qualities of "hard money" and how they relate to Ethereum Classic
       The Ethereum Classic Monetary Policy Explained:
         __link: https://etherplan.com/2020/02/25/the-ethereum-classic-monetary-policy-explained/10025/
         name: The Ethereum Classic Monetary Policy Explained
-        description: Lays out the capped monetary policy of ETC, similar to Bitcoin's and unlike ETH. The total supply of ETC will converge on an amount between 199M and 210M over the next century. Also explains the 20% new supply reduction ("fifth-ening") every 5M blocks, and economics of the initial launch allocation.
+        description: Lays out the capped monetary policy of ETC, similar to Bitcoin's and unlike ETH. The total supply of ETC will converge on an amount between 199M and 210M over the next century. Also explains the 20% new supply reduction ("fifthening") every 5M blocks, and economics of the initial launch allocation.
       The Logic of why Ethereum Classic will Rise 1000x in the Medium to Long Term:
         __link: https://etherplan.com/2020/01/14/the-logic-of-why-ethereum-classic-will-rise-1000x-in-the-medium-to-long-term/9639/
         name: The Logic of why Ethereum Classic will Rise 1000x in the Medium to Long Term
-        description: Etherplan explains why Ethereum Classic *might* see some rather favorable returns in the forseeable future.
+        description: Etherplan explains why Ethereum Classic *might* see some favorable returns in the foreseeable future.
       Why Does Ethereum Classic Have Value?:
         __link: https://etherplan.com/2020/04/09/why-does-ethereum-classic-have-value/10916/
         name: Why Does Ethereum Classic Have Value?

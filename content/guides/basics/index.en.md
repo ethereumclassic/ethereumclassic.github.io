@@ -8,7 +8,7 @@ Ethereum Classic is a decentralized blockchain platform that lets anyone build a
 
 In 2014, [Ethereum](https://ethereum.org/what-is-ethereum/) founders began work on a next-generation blockchain that had the ambitions to implement a general, fully trustless smart contract platform.
 
-In 2016, after a [controversial hard fork](/why-classic/genesis), a new verison of Ethereum was launched, spawning a new network with new consensus rules. Ethereum Classic continued following the original network rules and has maintained the Original Ethereum Vision of "Build Unstoppable Applications" ever since.
+In 2016, after a [controversial hard fork](/why-classic/genesis), a new version of Ethereum was launched, spawning a new network with new consensus rules. Ethereum Classic continued following the original network rules and has maintained the Original Ethereum Vision of "Build Unstoppable Applications" ever since.
 
 ## ETC 101
 

@@ -2,7 +2,7 @@ __contribute: true
 __disclaimer: verify
 title: Wallets
 seo: A source of web wallets, extensions, software wallets, hardware wallets, and other ways to secure ETC
-description: There are many different options of wallets to choose from to secure and use ETC. Each option gives a different balance between security and convenience. Please research the best option depending on your requirements.
+description: There are many options of wallets to choose from to secure and use ETC. Each option gives a different balance between security and convenience. Please research the best option depending on your requirements.
 items:
   web:
     __type: buttons
@@ -24,7 +24,7 @@ items:
   browsers:
     __type: buttons
     title: Browser Integrated Wallets
-    description: These Web3 wallets are integrated in web browsers. Typically, they inject websites with your account information in order to allow you to seemlessly interact with Ethereum Classic dapps in your broswer.
+    description: These Web3 wallets are integrated in web browsers. Typically, they inject websites with your account information in order to allow you to seamlessly interact with Ethereum Classic dapps in your browser.
     items:
       Brave:
         __link: https://brave.com/

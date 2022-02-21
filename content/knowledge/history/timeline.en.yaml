@@ -7,7 +7,7 @@ items:
     color: blue
     icon: rocket
     link: https://blog.ethereum.org/2015/07/30/ethereum-launches/
-    text: Vitalik Buterin and The Ethereum Foundation create the first blockchain-based turing-complete smart contract platform with the Frontier release
+    text: Vitalik Buterin and The Ethereum Foundation create the first blockchain-based Turing-complete smart contract platform with the Frontier release
   frontierThawingUpgrade:
     title: Frontier Thawing Upgrade
     date: Block 200,000
@@ -22,36 +22,36 @@ items:
     icon: home
     link: https://blog.ethereum.org/2016/02/29/homestead-release/
     text: March 15 2016, Homestead is the second major version release of the Ethereum platform
-  slockItCreatesTheDao:
-    title: Slock.it Creates TheDAO
+  slockItCreatesThe Dao:
+    title: Slock.it Creates The DAO
     date: Apr 05 2016
     color: white
     icon: fileCode
     link: https://blog.slock.it/deja-vu-dao-smart-contracts-audit-results-d26bc088e32e
-    text: Slock.it construct TheDAO Ethereum Contract; a security audit is completed by Dejavu
-  theDaoCrowdsaleBegins:
-    title: TheDAO Crowdsale Begins
+    text: Slock.it constructs The DAO Ethereum Contract; a security audit is completed by Dejavu
+  the DaoCrowdsaleBegins:
+    title: The DAO Crowdsale Begins
     date: Apr 30 2016
     color: white
     icon: bullhorn
     link: https://blog.slock.it/the-dao-creation-is-now-live-2270fd23affc
-    text: TheDAO smart contract is deployed; members of the public send it value in return for DAO tokens
+    text: The DAO smart contract is deployed; members of the public send it value in return for DAO tokens
   securityProposal:
     title: Security Proposal
     date: May 26 2016
     color: orange
     icon: keyboard
     link: https://blog.slock.it/dao-security-a-proposal-to-guarantee-the-integrity-of-the-dao-3473899ace9d
-    text: Slock.it announce a $1.5 Million USD proposal, paid in Ether by the crowdfund, 'to guarantee the integrity of The DAO'
+    text: Slock.it announces a $1.5 Million USD proposal, paid in Ether by the crowdfund, 'to guarantee the integrity of The DAO'
   moratoriumCalled:
     title: Moratorium Called
     date: May 27 2016
     color: orange
     icon: crosshairs
     link: http://hackingdistributed.com/2016/05/27/dao-call-for-moratorium/
-    text: On the last day of the crowdsale, DAO curator Vlad Zamfir calls for a moratorium on TheDAO, citing many game-theoretical security issues
-  theDaoCrowdsaleEnds:
-    title: TheDAO Crowdsale Ends
+    text: On the last day of the crowdsale, DAO curator Vlad Zamfir calls for a moratorium on The DAO, citing many game-theoretical security issues
+  the DaoCrowdsaleEnds:
+    title: The DAO Crowdsale Ends
     date: May 27 2016
     color: white
     icon: funnelDollar
@@ -63,42 +63,42 @@ items:
     color: orange
     icon: bug
     link: http://vessenes.com/more-ethereum-attacks-race-to-empty-is-the-real-deal/
-    text: Peter Vessenes publicly discloses the existence of a critical security vulnerability overlooked in many Solidiy contracts
+    text: Peter Vessenes publicly discloses the existence of a critical security vulnerability overlooked in many Solidity contracts
   noFundsAtRisk:
     title: No Funds at Risk
     date: Jun 12 2016
     color: white
     icon: thumbsUp
     link: https://blog.slock.it/no-dao-funds-at-risk-following-the-ethereum-smart-contract-recursive-call-bug-discovery-29f482d348b
-    text: Stephan Tual publicly claims that TheDAO funds are safe despite the newly-discovered critical security flaw
-  theDAOIsHacked:
-    title: TheDAO is Hacked
+    text: Stephan Tual publicly claims that The DAO funds are safe despite the newly-discovered critical security flaw
+  the DAOIsHacked:
+    title: The DAO is Hacked
     date: Jun 17 2016
     color: red
     icon: timesCircle
     link: http://slacknation.github.io/medium/10/10.html
-    text: Ether is slowly and silently drained from TheDAO as the re-entry bug is applied
+    text: Ether is slowly and silently drained from The DAO as the re-entry bug is applied
   panicHitsTheMarkets:
     title: Panic Hits the Markets
     date: Jun 17 2016
     color: red
     icon: chartArea
     link: https://cointelegraph.com/news/dao-potentially-hacked-millions-of-ether-may-be-stolen-griff-green-says
-    text: The price of Ether is slashed in half as Griff Green announces that TheDAO has been hacked
+    text: The price of Ether is slashed in half as Griff Green announces that The DAO has been hacked
   theCountdownBegins:
     title: The Countdown Begins
     date: Jun 17 2016
     color: orange
     icon: hourglassStart
     link: https://blog.ethereum.org/2016/06/17/critical-update-re-dao-vulnerability/
-    text: TheDAO's splitting mechanism gives around a month for a solution to be found that recovers the funds; Foundation and community developers race to implement a soft fork
+    text: The DAO's splitting mechanism gives around a month for a solution to be found that recovers the funds; Foundation and community developers race to implement a soft fork
   robinHoodGroupAnnounced:
     title: Robin Hood Group Announced
     date: Jun 21 2016
     color: white
     icon: userSecret
     link: https://www.reddit.com/r/ethereum/comments/4p7mhc/update_on_the_white_hat_attack/
-    text: A group of 'white-hat' hackers secure 70% of TheDAO funds but protocol-level action is required to save the remaining 30% split by the hacker
+    text: A group of 'white-hat' hackers secure 70% of The DAO funds but protocol-level action is required to save the remaining 30% split by the hacker
   softForkTheDao:
     title: "DAO Wars: Soft Fork Vote"
     date: Jun 24 2016
@@ -133,7 +133,7 @@ items:
     color: red
     icon: faExclamationTriangle
     link: https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork/
-    text: With 12 hours notice, The Ethereum Foundation use a controversial third party 'coin vote' to determine that the Hard Fork should be turned on by default; consensus is declared and an updated client is released
+    text: With 12 hours notice, The Ethereum Foundation use a controversial third party 'coin vote' to determine that the Hard Fork should be turned on by default; consensus is declared, and an updated client is released
   daoBailoutHardFork:
     title: DAO Bailout Hard Fork
     date: Block 1,920,000
@@ -154,14 +154,14 @@ items:
     color: green
     icon: rocket
     link: https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/
-    text: With predictions of the original non-forked chain to disappear within hours, many are surprised to find that miners continue to support the original chain. Bisq and OTC desks give these tokens a price discovery orderbook. The markets participants rebrand this non-forked chain Ethereum Classic (ETC)
+    text: With predictions of the original non-forked chain to disappear within hours, many are surprised to find that miners continue to support the original chain. Bisq and OTC desks give these tokens a price discovery order book. The markets participants rebrand this non-forked chain Ethereum Classic (ETC)
   missionAccomplished:
     title: Mission Accomplished!
     date: Jul 20 2016
     color: white
     icon: cocktail
     link: https://twitter.com/initc3org/status/758000698881613824
-    text: The ETH community lets out a sigh of relief as the DAO fork code is succesfully implemented with no obvious flaws; champagne corks are popped all over the globe. The birth of a new chain is a success!
+    text: The ETH community lets out a sigh of relief as the DAO fork code is successfully implemented with no obvious flaws; champagne corks are popped all over the globe. The birth of a new chain is a success!
   poloniexListsETC:
     title: Poloniex Lists ETC
     date: Jul 23 2016
@@ -210,7 +210,7 @@ items:
     color: green
     icon: cubes
     link: https://coinjournal.net/miner-attack-ethereum-classic-now-supporting/
-    text: After the ETC network grew to a point where they could no longer attack it, ETH miners publicly declare not to attack ETC. To prevent hurting innocent Ethereum Classic holders, Ethash miners commit resources to mining ETC.
+    text: After the ETC network grew to a point where they could no longer attack it, ETH miners publicly declare not to attack ETC. To prevent hurting innocent Ethereum Classic holders, ETHash miners commit resources to mining ETC.
   attackRhg:
     title: RHG Attacks ETC
     date: Aug 10 2016
@@ -231,7 +231,7 @@ items:
     color: white
     icon: users
     link: /blog/2016-08-18-meetup
-    text: Ethereum Classic proves its resilience to the markets as ETC emerges from the ETH attacks with a stabalizing price. The networks core principles are galvanized during the DAO Bailout. Supporters begin rebuilding from the ashes
+    text: Ethereum Classic proves its resilience to the markets as ETC emerges from the ETH attacks with a stabilizing price. The networks core principles are galvanized during the DAO Bailout. Supporters begin rebuilding from the ashes
   unlockedDaoFunds:
     title: DAO Funds Unlock on ETC
     date: Aug 31 2016
@@ -245,14 +245,14 @@ items:
     color: white
     icon: fileCode
     link: /blog/2016-09-09-code-is-law
-    text: During the ETH attacks, many battle cries come out of Ethereum Classic supporters. They begin to clarify their core principles and validate the ETC network existance to the general public
+    text: During the ETH attacks, many battle cries come out of Ethereum Classic supporters. They begin to clarify their core principles and validate the ETC network existence to the public
   gasReprice:
     title: Gas Reprice Upgrade
     date: Block 2,500,000
     color: blue
     icon: angleDoubleUp
     link: /blog/2016-10-17-gas-reprice-hard-fork
-    text: October 24 2016, both Ethereum networks are attacked due to vulnerabilities in the tech stack. ETC devs quickly ensure a smooth and uncontentious network upgrade to patch exploited vulnerabilities
+    text: October 24 2016, both Ethereum networks are attacked due to vulnerabilities in the tech stack. ETC devs quickly ensure a smooth and non-contentious network upgrade to patch exploited vulnerabilities
   etcMonetaryPolicy:
     title: ETC Monetary Policy
     date: Nov 01 2016
@@ -447,14 +447,14 @@ items:
     color: white
     icon: fileCode
     link: /blog/2019-12-12-core-devs-call-agharta-final-call/
-    text: Ethereum Classic core developers reach rough consensus on ECIP-1056 in an effort to implement ETH's Constaninople and Petersburg network protocol upgrades
+    text: Ethereum Classic core developers reach rough consensus on ECIP-1056 in an effort to implement ETH's Constantinople and Petersburg network protocol upgrades
   aghartaUpgrade:
     title: Agharta Upgrade
     date: Block 9,573,000
     color: blue
     icon: angleDoubleUp
     link: /blog/2020-01-11-agharta-hard-fork-upgrade/
-    text: January 11 2020, Ethereum Classic core developers implement ETH's Constaninople and Petersburg network protocol upgrades to maintain operational parity with its sister chain
+    text: January 11 2020, Ethereum Classic core developers implement ETH's Constantinople and Petersburg network protocol upgrades to maintain operational parity with its sister chain
   core-Geth-Launch:
     title: Core-Geth Launch
     date: Feb 03 2020
@@ -503,21 +503,21 @@ items:
     color: white
     icon: codeBranch
     link: https://expedition.dev/?network=mordor
-    text: Phoenix testing begins on the Mordor PoW testnet on block 999,983. Core development teams have signaled that this is a complex implementation. Testing may uncover issues that delay this network upgrade, but Ethereum Classic will never rush to upgrade the mainnet. Network security is priority over development speed and arbitary timelines
+    text: Phoenix testing begins on the Mordor PoW testnet on block 999,983. Core development teams have signaled that this is a complex implementation. Testing may uncover issues that delay this network upgrade, but Ethereum Classic will never rush to upgrade the mainnet. Network security is priority over development speed and arbitrary timelines
   era3:
     title: 5M20 Era 3
     date: Block 10,000,001
     color: green
     icon: coins
     link: /blog/2020-03-17-5m20-era3-block-reward-reduction/
-    text: March 17 2020, Ethereum Classic's block rewards are reduced by 20% to 3.2 ETC per block per the bitcoin-inspired 5M20 emission schedule
+    text: March 17 2020, Ethereum Classic's block rewards are reduced by 20% to 3.2 ETC per block, as per the bitcoin-inspired 5M20 emission schedule
   phoenixKotti:
     title: Phoenix Kotti Testing
     date: Apr 15 2020
     color: white
     icon: codeBranch
     link: https://expedition.dev/?network=kotti
-    text: Phoenix testing begins on the Kotti PoA testnet on block 2,200,013. Core development teams have signaled that this is a complex implementation. Testing may uncover issues that delay this network upgrade, but Ethereum Classic will never rush to upgrade the mainnet. Network security is priority over development speed and arbitary timelines
+    text: Phoenix testing begins on the Kotti PoA testnet on block 2,200,013. Core development teams have signaled that this is a complex implementation. Testing may uncover issues that delay this network upgrade, but Ethereum Classic will never rush to upgrade the mainnet
   phoenixUpgrade:
     title: Phoenix Upgrade
     date: Block 10,500,839
@@ -531,7 +531,7 @@ items:
     color: red
     icon: faExclamationTriangle
     link: https://www.coindesk.com/openethereum-supported-50-of-ethereum-classic-now-its-leaving-the-project
-    text: On the 4th anniversary of the DAO Bailout Hard Fork, ETH-centric client maintainers orchestrate a social attack on Ethereum Classic. The client maintainers annouce deprecation of Ethereum Classic support, then execute a misinformation marketing campaign citing the ETC network would lose 70% of the hashrate among other mistruths
+    text: On the 4th anniversary of the DAO Bailout Hard Fork, ETH-centric client maintainers orchestrate a social attack on Ethereum Classic. The client maintainers announce deprecation of Ethereum Classic support, then execute a misinformation marketing campaign citing the ETC network would lose 70% of the hashrate among other untruths
   51Attack2:
     title: "51% Attack #2"
     date: Jul 31 2020
@@ -580,7 +580,7 @@ items:
     color: green
     icon: cubes
     link: /blog/2020-11-27-thanos-hard-fork-upgrade/
-    text: November 28 2020, Ethereum Classic implements the Thanos Upgrade to adjust the mining algorithm from Ethash to Etchash
+    text: November 28 2020, Ethereum Classic implements the Thanos Upgrade to adjust the mining algorithm from ETHash to ETCHash
   manis-ETC-Stupport:
     title: Mantis ETC Client Revival
     date: Dec 09 2020
@@ -601,7 +601,7 @@ items:
     color: orange
     icon: timesCircle
     link: https://etccooperative.org/posts/2021-09-20-withdraws-support-for-ecip-1098
-    text: After a year long discussion about whether or not a ECIP-1098 would gel with ETC values, ETC Coop, folloed by IOHK withdraw support for the Treasury Proposal.
+    text: After a yearlong discussion about whether a ECIP-1098 would gel with ETC values, ETC Coop, followed by IOHK withdraw support for the Treasury Proposal.
   aBrightFuture:
     title: A Bright Future
     date: Future

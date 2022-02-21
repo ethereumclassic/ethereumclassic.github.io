@@ -2,7 +2,7 @@
 title: Why Ethereum Classic?
 contributors: ["IstoraMandiri"]
 showNext: true
-seo: Ethereum Classic's reason for being including it's Genesis, mission of Decentralization and the bright future it enables thanks to Code is Law
+seo: Ethereum Classic's reason for being including its Genesis, mission of Decentralization and the bright future it enables thanks to Code is Law
 disclaimer: opinion
 ---
 
