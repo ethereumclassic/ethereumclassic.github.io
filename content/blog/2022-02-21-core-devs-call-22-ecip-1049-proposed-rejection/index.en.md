@@ -43,10 +43,11 @@ The reason for "Rejected" status under this clause is that the champion has not 
 * 11. [Community Call 005 Recording](https://www.youtube.com/watch?v=HaDANZN-ZUU&t=1586s)
 * 12. [Community Call 010 Recording](https://www.youtube.com/watch?v=6DRZEaKkpb4)
 * 13. [ETC Core Devs Call 22: Proposed Rejection of ECIP-1049 #460](https://github.com/ethereumclassic/ECIPs/issues/460)
+* 14. [Rejected Status ecip-1049 #465](https://github.com/ethereumclassic/ECIPs/issues/465)
 
 ### It should be noted in this new discussion thread, this ECIP appears to be contentious (as documented in all the previous threads/recordings) and has a high-probability of a chain split between the GPU Miners on ETCHash and the FPGA & ASIC miners on SHA3.
 
-![ETC Core Devs Call 22 - ECIP-1049 Proposed Rejection](./etchash-vs-keccak256.png)
+![ETC Core Devs Call 22 - Proposed Rejection of Keccak256 ECIP-1049](./etchash-vs-keccak256.png)
 
 ### Recording of Core Devs Call 22
 
