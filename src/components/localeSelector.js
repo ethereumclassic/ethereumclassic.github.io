@@ -44,7 +44,7 @@ export default function LocaleSelector({ ...props }) {
               //       aria-hidden="true"
               //     />
               //     <span tw="ml-3">
-              //       Earn ETC by helping to translate this website!
+              //       Support ETC by helping to translate this website!
               //     </span>
               //   </a>
               // }

@@ -27,8 +27,9 @@ export default function NewsReel({ items }) {
       <div tw="grid grid-cols-1 gap-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
         {items.map(({ node }, i) => (
           <NewsItem
-            {...node}
             key={node.id}
+            monochrome
+            item={node}
             css={[
               tw`hidden`,
               i <= 2 && tw`block`,

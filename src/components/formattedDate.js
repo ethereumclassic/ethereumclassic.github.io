@@ -9,7 +9,7 @@ export default function FormattedDate({ date, ...rest }) {
   if (!day.isValid()) {
     return <span {...rest}>{date}</span>;
   }
-  const formattedDate = day.format(dayJsImport ? "LL" : "YYYY.MM.DD");
+  const formattedDate = day.format(dayJsImport ? "ll" : "YYYY.MM.DD");
   return (
     <time dateTime={day.format()} {...rest}>
       {formattedDate}

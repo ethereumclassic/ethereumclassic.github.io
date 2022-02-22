@@ -3,20 +3,25 @@
 ```
 ~~~ 3022.V0.3 SOFT LAUNCH ~~~
 
+TODAY
+
 CONTENT
 - Standardize use of Etherem™
 - Ensure correct contributors for each piece of content (git blame)
+- can you promote the community calls on the homepage?
+- Add weekly community calls announcements
+- Test on iOS mobile
 
 PREFLIGHT PUBLIC RELESAE TASKS
 - Update url refs from etc3022.netlify
 - udpade branch settings on agolia plugin
 - Update Readme
+- Add next steps
 
 ~~~ 3022.V1 RELEASE, PUBLIC ~~~
 
 POSTFLIGHT CHECKS
 - Ensure all features working on main url, including search
-
 - Videos tutorial for contributing
 
 ~~~ 3022.V1.1 I18N ~~~

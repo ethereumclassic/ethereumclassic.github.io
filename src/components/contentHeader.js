@@ -39,7 +39,7 @@ export default function ContentHeader({ mdx, i18n, pre, ...rest }) {
               </Link>
             )}
             {header && (
-              <h1 tw="!mb-2 text-2xl font-bold text-shade-darkest leading-tight sm:text-3xl ">
+              <h1 tw="!mb-2 !leading-snug text-2xl font-bold text-shade-darkest sm:text-3xl">
                 {header}
               </h1>
             )}
@@ -63,7 +63,7 @@ export default function ContentHeader({ mdx, i18n, pre, ...rest }) {
           </div>
         </div>
         {disclaimer && (
-          <div tw="hidden md:block">
+          <div tw="hidden md:block ml-2">
             <Disclaimer type="micro" text={disclaimer} />
           </div>
         )}

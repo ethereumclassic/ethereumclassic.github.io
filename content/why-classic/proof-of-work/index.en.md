@@ -101,7 +101,7 @@ Modern financial institutions who are threatened by blockchain technology are su
 
 In Proof of Work systems, beyond ongoing electricity costs, miners have to continually upgrade hardware, expending additional resources in order to remain competitive. The effect of this is that the pool of individuals who are able to mine is constantly shifting; if a miner is bad at mining, they will eventually lose their ability to mine profitably as they are out-competed by other miners.
 
-This is good for decentralization, as a constantly shifting pool of miners means that no one miner is able to hold on to a significant portion of a network for any significant amount of time unless they are actively working in the best interests of the network by providing ever-increasing amounts of hashrate. To achieve this, miners must invest in research and development, infrastructure, and scaling up operations, all the while paying close attention to happenings in the social layer of the protocol decide how to balance power and which forks to mine.
+This is good for decentralization, as a constantly shifting pool of miners means that no one miner is able to hold on to a significant portion of a network for any significant amount of time unless they are actively working in the best interests of the network by providing ever-increasing amounts of hashrate. To achieve this, miners must invest in research and development, infrastructure, and scaling up operations, all the while paying close attention to happenings in the social layer, deciding how to balance power and which forks to mine.
 
 This vital and multifaceted role is lobotomized from Proof of Stake systems, which instead, replaces this constant struggle with the relatively static figure of how much stake a given staker has access to, with very little to be gained investing in innovation or other externalities. How much a staker profits or losses is completely within their control and by doing nothing they are able to continually increase their stack with no risk of being out-competed.
 
@@ -111,7 +111,7 @@ With no attrition force in the way to correct this trend, lack of turnover in th
 
 ### Not Permissionless
 
-Permissionlessness, unsurprisingly, is a property that allows new users to onboard into a system without permission. All other things being equal, systems that are permissionless more able to be more decentralized than permissioned systems, as they are indiscriminately open to new participants.
+Permissionlessness, unsurprisingly, is a property that allows new users to onboard into a system without the permission of someone already in said system. All other things being equal, systems that are permissionless more able to be more decentralized over time than permissioned systems, as they are indiscriminately open to new participants.
 
 Mining, and in turn, Proof of Work, is permissionless, as anyone (or anything) can contribute hashrate to the network and have an equal chance of being able to mine a block based on the hashrate they contribute; each hash is like a lottery ticket, and the more tickets purchased the higher the chance of finding a block and getting that sweet, sweet block reward.
 

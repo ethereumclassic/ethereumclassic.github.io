@@ -54,25 +54,23 @@ If [history](https://www.eff.org/wp/riaa-v-people-five-years-later) is anything 
 
 ## Where Code isn't Law
 
-The concept of _Code is Law_ is potentially quite provocative and disruptive to the existing global order, but it need not be reflexively rallied against. Like all powerful technologies, _how and where_ they are applied determines who benefits from their application. Like the internet that came blockchain, the genie is out of the bottle and will certainly change the existing landscape, but by engaging with the technology in a positive way, society can and will adjust.
+The concept of _Code is Law_ is potentially quite provocative and disruptive to the existing global order, but it need not be reflexively rallied against. Like all powerful technologies, _how and where_ they are applied determines who benefits from their application. Like the internet that came before blockchain, the genie is out of the bottle and will certainly change the existing landscape, but by engaging with the technology positively, society can and will adjust.
 
 How we engage depends on recognizing the boundaries of _Code is Law_, and understanding that, like the embers of a fire, for now, it can only exist in unique circumstances, and has to be nurtured and matured into the raging source of light it has the potential to become.
 
 ### The Old World
 
-The phrase isn't _Only Code is Law_, and the concept of _Code is Law_ is ambivalent about how any particular local constabulary handles the unstoppability of Smart Contracts in their off-chain jurisdiction. Cryptocurrency theft, for example, is considered illegal in many geographies, and _Code is Law_ proponents can consistently support the returning of stolen funds whilst also not wanting to allow malicious transactions to be reversed via protocol meddling; this is an off-chain concern that is outside the responsibility of the chain, whose role is to ensure that transactions are _not_ reversible through third part interference with the protocol.
+The phrase isn't _Only Code is Law_, and the concept of _Code is Law_ is ambivalent about how any particular local constabulary handles the unstoppability of Smart Contracts in their off-chain jurisdiction. Cryptocurrency theft, for example, is considered illegal in many geographies, and _Code is Law_ proponents can consistently support the returning of stolen funds whilst also not wanting to allow malicious transactions to be reversed via protocol meddling; this is an off-chain concern that is outside the responsibility of the chain, whose role is to ensure that transactions are _not_ reversible through third party interference with the protocol.
 
-_Code is Law_ blockchains, then, are opt-in systems with off-chain consequences that depend on how they are used. In the same way that fire can be used to both provide warmth and destroy things, as a new technological primitive, restricting its use will only hinder the restrictor, who will be left behind as others take advantage of it. There is no question that a big challenge exists in figuring out how the world interfaces with this new tech, but that depends on cultural proclivities and is not the job of technologist; please, don't shoot the messenger.
+_Code is Law_ blockchains, then, are opt-in systems that can have off-chain consequences that depend on how they are used. In the same way that fire can be used to both provide warmth and destroy things, as a new technological primitive, restricting its use will only hinder the restrictor, who will be left behind as others take advantage of it. There is no question that a big challenge exists in figuring out how the world interfaces with this new tech, but that depends on cultural proclivities and is not the job of technologist; please, don't shoot the messenger.
 
 ### Outside the Contract Layer
 
-A common misconception about _Code is Law_ is that it is supposed to apply to all parts of a blockchain's technology stack, including the code of the clients themselves. This is non-sensical, as blockchain clients themselves are written in traditional programming languages and operate in traditional execution environments, where code couldn't be law if it wanted to. Rather, blockchain clients are written to participate in a given blockchain's _protocol_, who's operation creates a new decentralized execution environment; a _Contract Layer_ that sits on top, where _Code is Law_ can operate.
+A common misconception about _Code is Law_ is that it is supposed to apply to all parts of a blockchain's technology stack, including the code of the clients themselves. This is nonsensical, as blockchain nodes are written in traditional programming languages and operate in traditional execution environments, where code couldn't be law if it wanted to. Rather, blockchain clients are written to participate in a given blockchain's _protocol_, whose operation creates a new decentralized execution environment; a _Contract Layer_ that sits on top, where _Code is Law_ can operate.
 
 ### 9 out of 10 Chains
 
 Some chains have abandoned the idea of _Code is Law_ entirely, indeed, the vast majority of blockchain projects today do not give much if any priority to _Unstoppability_, _Decentralization_ or _Censorship Resistance_, and are therefore unable to deliver on the bright future alluded to above. These projects may certainly carve out niches in areas that won't shake things up too much, but the moment they pose a threat to powerful incumbents, they will be easily manipulated, captured or otherwise compromised, and will therefore ultimately fail to deliver seriously monumental change.
-
-### Big Sis
 
 Sadly, this is true for ETC's younger, albeit weightier sibling, Ethereum™; a project that once shared these principles, but after only a year, split away, rebooting a new chain with new rules, going down a new path, and explicitly disavowing _Code is Law_.
 

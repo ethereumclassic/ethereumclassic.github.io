@@ -16,7 +16,7 @@ export default function Videos({ pageContext, data, i18n }) {
             to="https://github.com/ethereumclassic.github.io"
           >
             <Icon icon="plus" tw="h-5" />
-            <div>Earn ETC by submitting your own videos!</div>
+            <div>Support ETC by submitting your own videos!</div>
           </Link>
           {data.featured.edges.map(({ node }) => (
             <VideosItem key={node.id} item={node} featured />

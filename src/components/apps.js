@@ -17,7 +17,7 @@ export default function Apps({ pageContext, data, i18n }) {
             to="https://github.com/ethereumclassic.github.io"
           >
             <Icon icon="plus" tw="h-5" />
-            <div>Earn ETC by submitting your own apps!</div>
+            <div>Support ETC by submitting your own apps!</div>
           </Link>
         </>
       )}

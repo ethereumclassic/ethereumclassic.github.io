@@ -29,7 +29,7 @@ Many of those who were involved with Ethereum before the DAO Hack were under the
 
 But as The DAO Hack showed, this was not the case; what is now known as Ethereum™ has very little to do with the decentralist values that Bitcoin was created to embody.
 
-The decision for the Ethereum Foundation to abandon the decentralist values that were used to entice contributions was unfortunate, but created a vacuum that ultimately further refined the meaning and importance of those values and birthed a project whose mission was to explicit continue that _Original Ethereum Vision_.
+The decision for the Ethereum Foundation to abandon the decentralist values that were used to entice contributions was unfortunate, but created a vacuum that ultimately further refined the meaning and importance of those values and birthed a project whose mission was to continue that _Original Ethereum Vision_.
 
 Ethereum Classic, even more so than Bitcoin itself, exists as an explicit reminder about the importance of decentralist values. Clearly, there were many who didn't understand their importance at the time, but many others saw the truth that decentralization was the very point, not just an annoying obstacle to overcome.
 
@@ -61,9 +61,9 @@ _No official anything_ is the source of much of the strength of the Ethereum Cla
 
 ## Secure Base Layer
 
-The current consensus within the Ethereum Classic is that the aforementioned [Blockchain Trilemma](/why-classic/decentralism#the-blockchain-trilemma) is insurmountable, at least on the base later. For this reason, Ethereum Classic's current roadmap does not include some of the more exotic "solutions" that will be attempted by Ethereum.
+The view of many within the Ethereum Classic community is that the aforementioned [Blockchain Trilemma](/why-classic/decentralism#the-blockchain-trilemma) is insurmountable, at least on the base later. For this reason, Ethereum Classic's current roadmap does not include the more exotic "solutions" that will be attempted by Ethereum.
 
-Sharing, is one such example, where contracts are siloed into their own execution environments and can be executed in parallel. In theory this idea seems plausible, but for that added complexity there are many trade-offs, and it is not suitable for globally interoperable contracts including many of today's useful systems that need shared execution, such as anything that touches Decentralized Finance liquidity.
+Sharding is one such example, where contracts are siloed into their own execution environments and can be executed in parallel. In theory this idea seems plausible, but for that added complexity there are many trade-offs, and it is not suitable for globally interoperable contracts including many of today's useful systems that need shared execution, such as anything that touches Decentralized Finance liquidity.
 
 Essentially, there are no known _one size fits all_ approaches to scaling throughput that can be applied on the base layer without compromising an important security assumption, so for ETC as a protocol, barring some major technological advancement, it is best left up to applications or secondary protocols to provide various different trade-offs and implement their own optimizations depending on the use case and the needs of users.
 

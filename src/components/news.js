@@ -51,12 +51,12 @@ export default function News({ pageContext, data, i18n }) {
                 to="https://github.com/ethereumclassic.github.io"
               >
                 <Icon icon="plus" tw="h-5" />
-                <div>Earn ETC by submitting your own links!</div>
+                <div>Support ETC by submitting your own links!</div>
               </Link>
             </>
           )}
           {data.items.edges.map(({ node }) => (
-            <NewsItem key={node.id} {...node} lines={3} />
+            <NewsItem key={node.id} item={node} lines={3} />
           ))}
         </div>
       </main>

@@ -81,7 +81,7 @@ export default function Content({ data = {}, i18n = {}, children, max }) {
             !showLeft && tw`md:block md:col-span-3`,
           ]}
         >
-          <div tw="sticky top-24 space-y-4 ">
+          <div tw="sticky top-28 space-y-4">
             <ContentTOC items={toc} />
           </div>
         </aside>

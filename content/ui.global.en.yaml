@@ -115,9 +115,9 @@ newsTypes:
     __icon: news
   application:
     name: App
-    prefix: "New App: "
+    prefix: "App: "
     __icon: cursor
   video:
     name: Video
-    prefix: "New Video: "
+    prefix: "Video: "
     __icon: video

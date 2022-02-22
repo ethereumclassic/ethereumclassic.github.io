@@ -18,7 +18,7 @@ function LinkItems({ items, depth = 0 }) {
             {title && (
               <a
                 css={[
-                  tw`hocus:text-shade-darker text-shade-neutral font-bold block overflow-ellipsis overflow-hidden max-w-full`,
+                  tw`hocus:text-shade-darkest text-shade-neutral block overflow-ellipsis overflow-hidden max-w-full`,
                   [
                     tw`lg:pl-0 xl:pl-0`,
                     tw`lg:pl-1 xl:pl-2`,
