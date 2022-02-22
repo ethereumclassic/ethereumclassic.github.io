@@ -49,7 +49,7 @@ As explored [earlier](/why-classic/genesis#the-immaculate-conception), Ethereum 
 
 In some ways, Ethereum Classic's conception is even more "immaculate" than Bitcoin's; it was not planned at all, by anyone, and unlike Bitcoin, Ethereum Classic has no Satoshi, meaning that there is no Satoshi to return and influence decision-making, which is theoretically possible in Bitcoin.
 
-Ethereum Classic is also the only blockchain project seeded with a follower base that was 100% focused on the principles of decentralism, and despite the risks, going against the official Ethereum project, self-selecting specifically because of their reaction to The DAO incident and the abuses enabled by centralization.
+Ethereum Classic is also the only blockchain project seeded with a follower base that was 100% focused on the principles of decentralism, and despite the risks, going against the official Ethereum™ project, self-selecting specifically because of their reaction to The DAO incident and the abuses enabled by centralization.
 
 ## No Official Anything
 
@@ -61,7 +61,7 @@ _No official anything_ is the source of much of the strength of the Ethereum Cla
 
 ## Secure Base Layer
 
-The view of many within the Ethereum Classic community is that the aforementioned [Blockchain Trilemma](/why-classic/decentralism#the-blockchain-trilemma) is insurmountable, at least on the base later. For this reason, Ethereum Classic's current roadmap does not include the more exotic "solutions" that will be attempted by Ethereum.
+The view of many within the Ethereum Classic community is that the aforementioned [Blockchain Trilemma](/why-classic/decentralism#the-blockchain-trilemma) is insurmountable, at least on the base later. For this reason, Ethereum Classic's current roadmap does not include the more exotic "solutions" that will be attempted by Ethereum™.
 
 Sharding is one such example, where contracts are siloed into their own execution environments and can be executed in parallel. In theory this idea seems plausible, but for that added complexity there are many trade-offs, and it is not suitable for globally interoperable contracts including many of today's useful systems that need shared execution, such as anything that touches Decentralized Finance liquidity.
 

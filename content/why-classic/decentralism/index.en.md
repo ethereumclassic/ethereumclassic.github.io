@@ -218,4 +218,4 @@ The innovations that Ethereum brought to the world in the form of a Turing Compl
 
 In the not too distant future, as attacks against blockchains ramp up, this need for will be all too clear. As one by one, so-called decentralized projects reveal their true colors and succumb to corruption in the form of capture by special interests, only the truly decentralized will remain.
 
-By combining the technology of Ethereum with the philosophy of Bitcoin, Ethereum Classic provides a secure, multipurpose, decentralized blockchain, and a free, fair and flourishing alternative to what might be grim and centralized future.
+By combining the technology of Ethereum™ with the philosophy of Bitcoin, Ethereum Classic provides a secure, multipurpose, decentralized blockchain, and a free, fair and flourishing alternative to what might be grim and centralized future.

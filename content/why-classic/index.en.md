@@ -4,9 +4,10 @@ contributors: ["IstoraMandiri"]
 showNext: true
 seo: Ethereum Classic's reason for being including its Genesis, mission of Decentralization and the bright future it enables thanks to Code is Law
 disclaimer: opinion
+info: "**Note:** In the following sections, *Ethereum™* refers to the post DAO Fork [Ethereum Foundation](https://ethereum.org) Mainnet Chain, not to be confused with the Ethereum *protocol*, which is utilized by many blockchain projects including Ethereum Classic."
 ---
 
-Following the rapid growth of the cryptocurrency space, many new players enter the scene, and while scrolling down the list of projects by market cap, some notice a project called _Ethereum Classic_.
+Following the rapid growth of the cryptocurrency space, many new players enter the scene, and while scrolling down a list of blockchains ranked by market cap, some notice a project called _Ethereum Classic_.
 
 They see that the name and logo is slightly different to the famous Ethereum™, and might assume that this _Classic_ thing is some kind of copy-cat project trying to cash in on ETH's success. With a market saturated with such projects, and with limited time to spend on research, many quite reasonably give Ethereum Classic a pass without much thought.
 
