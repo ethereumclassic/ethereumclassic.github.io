@@ -42,6 +42,9 @@ items:
       Saturn Wallet:
         __link: https://www.saturn.network/blog/saturn-wallet-user-manual/
         name: Saturn Wallet
+      SimpleHold Wallet:
+        __link: https://simplehold.io/download
+        name: SimpleHold Wallet
   hardware:
     __type: buttons
     title: Hardware Wallets
