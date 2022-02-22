@@ -14,6 +14,8 @@ TODO NEXT
 
 ~~~ 3022.V1.1 I18N ~~~
 
+- preoptimize jpegs
+- Update to latest gatsby/tailwind/etc.
 - Ensure correct contributors for each piece of content (git blame)
 - can you promote the community calls on the homepage?; Add weekly community calls announcements
 - Configre a bunch of netlify plugins; play with https://app.netlify.com/teams/ethereum-classic/plugins

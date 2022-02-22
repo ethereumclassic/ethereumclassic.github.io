@@ -16,12 +16,10 @@ If you want to modify content or add blog articles, you can do so in a number of
 
 - Easy Mode: Create an issue with suggested changes (a maintainer will implement the changes)
 - Edit on GitHub: Edit directly via the GitHub UI; you can also manually edit content by modifying files in the `content` directory
-- Translations: COMING SOON
-- Developers only: see (development)[#development]
 
 ### Easy Mode
 
-If you're not familiar with GitHub making a pull request seems complicated, then you can simply input your content suggestion or news article into a [New Issue](https://github.com/ethereumclassic/ethereumclassic.github.io/issues/new/choose) and another contributor can make a PR for you. Also, you can reach out for help from other contributors in the [discord #ethereumclassicwebsite](https://discord.gg/DwQjJ8) channel.
+If you're not familiar with GitHub making a pull request seems complicated, then you can simply input your content suggestion or news article into a [New Issue](https://github.com/ethereumclassic/ethereumclassic.github.io/issues/new/choose) and another contributor can make a PR for you. Also, you can reach out for help from other contributors in the [discord #website](https://ethereumclassic.org/discord) channel.
 
 ### Submit Links and Content on GitHub
 
