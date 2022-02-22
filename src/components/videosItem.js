@@ -75,7 +75,7 @@ export default function VideosItem({ item, featured, hash = true, ...rest }) {
             tw="w-auto transition-all -mx-px group-hover:scale-110"
           />
         </div>
-        <div tw="px-3 py-2 line-clamp-3 font-medium text-sm">{title}</div>
+        <div tw="px-3 py-2 line-clamp-4 font-medium text-sm">{title}</div>
         <div
           css={[
             tw`text-shade-light px-3 py-2 text-xs flex items-center space-x-2 border-t border-t-shade-lightest`,
