@@ -46,7 +46,7 @@ export default function Announcement() {
                 aria-hidden="true"
               />
             </span>
-            <Md tw="ml-3 text-sm font-medium text-shade-lightest">
+            <Md tw="ml-3 text-xs sm:text-sm font-medium text-shade-lightest">
               {announcement.text}
             </Md>
           </div>

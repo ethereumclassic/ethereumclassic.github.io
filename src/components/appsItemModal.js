@@ -21,9 +21,6 @@ function ChecklistSection({ item, ...rest }) {
   const rating = checklist.reduce((n, { key }) => n + (item[key] ? 1 : 0), 0);
   return (
     <div tw="text-sm">
-      <div tw="mb-3">
-        Added <FormattedDate date={item.date} />
-      </div>
       <div tw="flex items-center space-x-4 my-2">
         <span>Trustless Checklist Level {rating}</span>
         <div tw="flex space-x-1 text-shade-lighter">
@@ -35,7 +32,7 @@ function ChecklistSection({ item, ...rest }) {
         </div>
       </div>
       {/* LODO make this behave like table, auto width */}
-      <div tw="grid grid-cols-3 gap-x-3 gap-y-1">
+      <div tw="flex flex-wrap">
         {checklist.map(({ key, text }) => {
           const isChecked = !!item[key];
           const Comp = isChecked ? Link : "div";
@@ -44,13 +41,18 @@ function ChecklistSection({ item, ...rest }) {
               key={key}
               to={isChecked && item[key]}
               css={[
-                tw`flex items-center space-x-2`,
+                tw`inline-flex items-center space-x-2 mr-4 mb-2`,
                 isChecked &&
                   tw`text-primary-neutral font-bold hover:text-primary-dark`,
               ]}
             >
-              <Icon icon={isChecked ? "check" : "questionMark"} tw="h-3" />
-              <span>{text}</span>
+              <Icon
+                icon={isChecked ? "check" : "questionMark"}
+                tw="h-3 flex-1"
+              />
+              <span tw="flex-shrink whitespace-nowrap overflow-ellipsis">
+                {text}
+              </span>
             </Comp>
           );
         })}
@@ -115,6 +117,9 @@ export default function AppsItemModal({ item, appType, trueCol }) {
               ) : (
                 author
               )}
+            </div>
+            <div tw="mb-3">
+              Added <FormattedDate date={item.date} />
             </div>
             <div tw="hidden sm:block">
               <ChecklistSection item={item} />

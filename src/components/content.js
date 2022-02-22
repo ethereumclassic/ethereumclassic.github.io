@@ -55,7 +55,7 @@ export default function Content({ data = {}, i18n = {}, children, max }) {
         ]}
       >
         {showLeft && (
-          <nav tw="sticky top-14 md:hidden z-40">
+          <nav tw="sticky top-4 md:hidden z-40">
             <ContentSidebarInline
               items={sub.navItems}
               disclaimer={mdx?.meta?.disclaimer || i18n.disclaimer}

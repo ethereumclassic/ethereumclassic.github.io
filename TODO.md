@@ -3,14 +3,10 @@
 ```
 ~~~ 3022.V0.3 SOFT LAUNCH ~~~
 
-TODAY
-
 CONTENT
-- Standardize use of Etherem™
 - Ensure correct contributors for each piece of content (git blame)
-- can you promote the community calls on the homepage?
-- Add weekly community calls announcements
 - Test on iOS mobile
+- auto dark mode
 
 PREFLIGHT PUBLIC RELESAE TASKS
 - Update url refs from etc3022.netlify
@@ -26,6 +22,7 @@ POSTFLIGHT CHECKS
 
 ~~~ 3022.V1.1 I18N ~~~
 
+- can you promote the community calls on the homepage?; Add weekly community calls announcements
 - Configre a bunch of netlify plugins; play with https://app.netlify.com/teams/ethereum-classic/plugins
   - https://github.com/Munter/netlify-plugin-checklinks
   - https://github.com/netlify/netlify-plugin-gatsby#readme

@@ -36,7 +36,7 @@ function LandingArtworkInner({ i18n }) {
   return (
     <div
       css={[
-        tw`h-[44rem] md:h-[34rem]`,
+        tw`h-96 sm:h-[44rem] md:h-[34rem]`,
         tw`bg-gradient-to-b from-shade-light to-backdrop-dark dark:from-black`,
       ]}
     >
@@ -83,7 +83,7 @@ function LandingArtworkInner({ i18n }) {
               />
             </div>
             {/* HALO */}
-            <div tw="absolute left-16 right-10 text-center md:text-left md:left-11 md:top-10">
+            <div tw="absolute left-12 right-8 -top-10 sm:top-0 sm:left-16 sm:right-10 text-center md:text-left md:left-11 md:top-10">
               <Parallax
                 shouldAlwaysCompleteAnimation
                 translateY={[0, 20]}
@@ -106,7 +106,7 @@ function LandingArtworkInner({ i18n }) {
               </Parallax>
             </div>
             {/* GRID */}
-            <div tw="absolute top-80 -left-1/4">
+            <div tw="absolute top-56 sm:top-80 -left-1/4">
               <Parallax shouldAlwaysCompleteAnimation opacity={[1, 0]}>
                 <StaticImage
                   tw="dark:hidden"
@@ -125,7 +125,7 @@ function LandingArtworkInner({ i18n }) {
               </Parallax>
             </div>
             {/* WAVE */}
-            <div tw="absolute top-96 -left-32 -right-32">
+            <div tw="absolute top-56 sm:top-96 -left-32 -right-32">
               <Parallax
                 shouldAlwaysCompleteAnimation
                 translateY={[0, 80]}
@@ -148,7 +148,7 @@ function LandingArtworkInner({ i18n }) {
               </Parallax>
             </div>
             {/* LOGO  */}
-            <div tw="absolute left-10 right-10 text-center top-32 md:text-left md:ml-0 md:left-10 md:top-40">
+            <div tw="absolute text-center top-14 left-14 right-14 sm:left-0 sm:right-0 sm:top-32 md:text-left md:left-10 md:top-40">
               <Parallax
                 shouldAlwaysCompleteAnimation
                 translateY={[0, 60]}
@@ -171,10 +171,10 @@ function LandingArtworkInner({ i18n }) {
               </Parallax>
             </div>
             {/* CUBE RIGHT */}
-            <div tw="absolute right-20 top-20">
+            <div tw="absolute right-5 top-20 sm:right-20 sm:top-20">
               <Parallax
                 shouldAlwaysCompleteAnimation
-                translateY={[0, 400]}
+                translateY={[0, 340]}
                 opacity={[1, 0]}
                 rotate={[0, 500]}
               >
@@ -195,7 +195,7 @@ function LandingArtworkInner({ i18n }) {
               </Parallax>
             </div>
             {/* CUBE LEFT */}
-            <div tw="absolute top-96 left-10">
+            <div tw="absolute top-60 left-7 sm:top-96 sm:left-10">
               <Parallax
                 shouldAlwaysCompleteAnimation
                 translateY={[0, 60]}
@@ -262,7 +262,7 @@ function LandingArtworkInner({ i18n }) {
               </Parallax>
             </div>
             {/* TEXT */}
-            <div tw="absolute left-10 right-10 top-[32rem] md:top-44 md:left-96 md:ml-20 lg:ml-0 lg:left-2/4">
+            <div tw="absolute left-10 right-10 top-80 sm:top-[32rem] md:top-44 md:left-96 md:ml-20 lg:ml-0 lg:left-2/4">
               <Text {...i18n} />
             </div>
           </div>

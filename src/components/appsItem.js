@@ -3,11 +3,8 @@ import tw from "twin.macro";
 import { GatsbyImage, getImage } from "gatsby-plugin-image";
 import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
 
-import FormattedDate from "./formattedDate";
 import * as appColors from "./appsColors";
 import Modal from "./modal";
-import Md from "./markdownDynamic";
-import Link from "./link";
 import Icon from "./icon";
 import AppsItemModal from "./appsItemModal";
 
@@ -17,21 +14,21 @@ function AppIcon({ image, title, icon, iconCol, big }) {
       <GatsbyImage
         image={getImage(image)}
         alt={title}
-        css={[tw`h-24 w-24 bg-white rounded-lg`, big && tw`sm:w-52 sm:h-52`]}
+        css={[tw`h-20 w-20 bg-white rounded-lg`, big && tw`sm:w-52 sm:h-52`]}
       />
     );
   }
   return (
     <div
       css={[
-        tw`h-24 w-24 overflow-hidden rounded-lg flex items-center justify-center`,
+        tw`h-20 w-20 overflow-hidden rounded-lg flex items-center justify-center`,
         iconCol,
         big && tw`sm:w-52 sm:h-52`,
       ]}
     >
       <Icon
         icon={icon || "etc"}
-        css={[tw`w-16 h-16 rotate-12`, big && tw`sm:w-32 sm:h-32`]}
+        css={[tw`w-14 h-14 rotate-12`, big && tw`sm:w-32 sm:h-32`]}
       />
     </div>
   );
@@ -60,7 +57,7 @@ export default function AppsItem({
       <div
         className="group"
         css={[
-          tw`h-24 relative cursor-pointer shadow-sm rounded-lg border border-shade-lightest overflow-hidden`,
+          tw`h-20 relative cursor-pointer shadow-sm rounded-lg border border-shade-lightest overflow-hidden`,
           col.fg,
         ]}
       >
@@ -72,7 +69,7 @@ export default function AppsItem({
             icon={appType.icon}
             iconCol={trueCol.icon}
           />
-          <div tw="absolute inset-0 left-24 px-4 flex items-center">
+          <div tw="absolute inset-0 left-20 px-4 flex items-center">
             <div tw="w-full">
               <div tw="font-bold line-clamp-2 leading-tight">{title}</div>
               <div tw="whitespace-nowrap opacity-60 overflow-hidden overflow-ellipsis text-sm">

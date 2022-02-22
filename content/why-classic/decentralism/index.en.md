@@ -3,6 +3,7 @@ title: Decentralism
 updated: 2022-02-14
 disclaimer: opinion
 seo: A thesis explaining the decentralist values that underpin Ethereum Classic's principles and core value proposition which enable it to deliver a bright future, in contrast to the path of centralization taken by many other blockchains.
+contributors: ["IstoraMandiri", "DonaldMcIntyre"]
 ---
 
 ## Key Points

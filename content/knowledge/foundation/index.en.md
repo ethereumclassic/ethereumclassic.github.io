@@ -1,5 +1,4 @@
 ---
-__contribute: true
 title: The Ethereum Classic Foundation
 seo: An explanation of why blockchains that have a Foundation based on ideas and principles are far more powerful than those that are made of people.
 ---
