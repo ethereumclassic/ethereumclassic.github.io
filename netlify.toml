@@ -1,9 +1,9 @@
 [build]
   publish = "public"
-[[plugins]]
-  package = "@algolia/netlify-plugin-crawler"
-    [plugins.inputs]
-    branches = ['3022']
+# [[plugins]]
+#   package = "@algolia/netlify-plugin-crawler"
+#     [plugins.inputs]
+#     branches = ['3022']
 # These redirects will be used by Netlify as well as the client to replace link addresses
 # 2019 Redirects
 [[redirects]]
