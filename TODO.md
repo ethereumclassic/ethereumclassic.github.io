@@ -5,8 +5,6 @@
 
 CONTENT
 - Ensure correct contributors for each piece of content (git blame)
-- Test on iOS mobile
-- auto dark mode
 
 PREFLIGHT PUBLIC RELESAE TASKS
 - Update url refs from etc3022.netlify
