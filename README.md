@@ -30,7 +30,10 @@ If you'd like to submit an Ethereum Classic related article to the website's New
 New GitHub contributors can follow this [contribution guide](https://guides.github.com/activities/forking/) to contribute to repositories.
 
 1. Fork this repository to your personal GitHub account.
-1. Navigate to and open the file `content/news/links.collection.en.yaml` or `content/videos/videos.collection.en.yaml`
+1. Navigate to and open the relevant file:
+   - `content/news/links.collection.en.yaml`
+   - `content/videos/videos.collection.en.yaml`
+   - `content/services/apps/apps.collection.en.yaml`
 1. Review the existing format of the articles in the file.
 1. Add your article to the file. Ensure the formatting is correct. Save your changes.
    - Note: The items are listed in reverse chronological order with the most recent items at the top of the document. Please add your article to the top of the list in-line with this order.
