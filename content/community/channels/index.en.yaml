@@ -1,0 +1,291 @@
+__contribute: true
+__disclaimer: verify
+title: Social Channels
+updated: 2022-02-22
+seo: A collection of Ethereum Classic chat rooms, Twitter accounts, discussion groups, forums, podcasts, repositories and regional websites
+description: |
+  The following is a non-exhaustive list of active Ethereum Classic discussion channels and groups.
+
+  The main hub of activity within the ETC community at present is on [Discord](https://ethereumclassic.org/discord).
+items:
+  Chat Rooms:
+    __type: buttons
+    title: Chat Rooms
+    items:
+      chat Discord:
+        __link: https://ethereumclassic.org/discord
+        __icon: discord
+        name: Discord (Global)
+      chat Facebook English:
+        __link: https://www.facebook.com/groups/ethereum.hongkong/
+        __icon: facebook
+        name: Facebook (English)
+      chat Facebook Vietnam:
+        __link: http://facebook.com/EthereumClassicVietnam/
+        __icon: facebook
+        name: Facebook (Vietnamese)
+      chat Kakao Korea:
+        __link: https://open.kakao.com/o/gi4uNJ1
+        name: Kakao (Korean)
+      chat Slack:
+        __link: https://ethereumclassic.herokuapp.com/
+        __icon: slack
+        name: Slack (English)
+      chat WeChat:
+        __link: https://hebeswap.com/assets/nanli777.jpg
+        name: WeChat (Chinese)
+  Development Chat:
+    __type: buttons
+    title: Development Chat
+    items:
+      Commonwealth.gg dev:
+        __link: https://discord.gg/crjsdJr
+        __icon: discord
+        name: Commonwealth.gg
+      Core-Geth dev:
+        __link: https://gitter.im/core-geth/community
+        __icon: gitter
+        name: Core-Geth
+      Core Paper dev:
+        __link: https://discord.com/invite/BdRSvJD
+        __icon: discord
+        name: Core Paper
+      ECIPs dev:
+        __link: https://riot.im/app/#/room/#ecips:matrix.org
+        __icon: matrix
+        name: ECIPs
+      ETC Core dev:
+        __link: https://discord.gg/5KwEAdZ
+        __icon: discord
+        name: ETC Core
+      ETCDEV dev:
+        __link: https://t.me/GetEmerald
+        __icon: telegram
+        name: ETCDEV
+      ETC Labs dev:
+        __link: https://t.me/etclabs
+        __icon: telegram
+        name: ETC Labs
+      Gödel Labs dev:
+        __link: https://weibo.com/godellabs
+        __icon: weibo
+        name: Gödel Labs
+      Hyperledger Besu dev:
+        __link: https://chat.hyperledger.org/
+        name: Hyperledger Besu
+      Mantis Client & Wallet:
+        __link: https://discord.gg/r65wH2E3
+        __icon: discord
+        name: Mantis
+      Multi-Geth dev deprecated:
+        __link: https://gitter.im/multi-geth/community
+        __icon: gitter
+        name: Multi-Geth (deprecated)
+      OpenEthereum dev deprecated:
+        __link: http://discord.io/openethereum
+        __icon: discord
+        name: OpenEthereum (deprecated)
+      Open-RPC dev:
+        __link: https://gitter.im/open-rpc/community
+        __icon: gitter
+        name: Open-RPC
+      PAO Network dev:
+        __link: https://discord.gg/mPJ9zkq
+        __icon: discord
+        name: PAO Network
+      POA Network dev:
+        __link: https://gitter.im/poanetwork/
+        __icon: gitter
+        name: POA Network
+      POA Network telegram:
+        __link: https://t.me/poa_network
+        __icon: telegram
+        name: POA Network
+      Parity Tech dev:
+        __link: https://riot.im/app/#/room/#watercooler:matrix.parity.io
+        __icon: matrix
+        name: Parity Tech
+      Parity Tech dev telegram:
+        __link: https://t.me/parity_technologies
+        __icon: telegram
+        name: Parity Tech
+  Telegram Groups:
+    __type: buttons
+    title: Telegram Groups
+    items:
+      telegram Arabic:
+        __link: https://t.me/EtherClassic_Ar
+        __icon: telegram
+        name: Arabic
+      telegram China:
+        __link: https://t.me/etczh
+        __icon: telegram
+        name: China
+      telegram English 1:
+        __link: https://telegram.me/ethclassic
+        __icon: telegram
+        name: English
+      telegram English 2:
+        __link: https://t.me/etcchat
+        __icon: telegram
+        name: English
+      telegram Español:
+        __link: https://t.me/ethclassicesp
+        __icon: telegram
+        name: Español
+      telegram German:
+        __link: https://t.me/EtherCalssic_de
+        __icon: telegram
+        name: German
+      telegram Italia:
+        __link: https://t.me/ETC_Italia
+        __icon: telegram
+        name: Italia
+      telegram Japan:
+        __link: https://t.me/etcjapan
+        __icon: telegram
+        name: Japan
+      telegram Russia 1:
+        __link: https://telegram.me/etcrussia
+        __icon: telegram
+        name: Russia
+      telegram Russia 2:
+        __link: https://telegram.me/etcru
+        __icon: telegram
+        name: Russia
+      telegram Viet Nam:
+        __link: https://t.me/ETCVietnam
+        __icon: telegram
+        name: Viet Nam
+  Forums:
+    __type: buttons
+    title: Forums
+    items:
+      forum RedditEthereumClassic:
+        __link: https://www.reddit.com/r/EthereumClassic/
+        __icon: reddit
+        name: Reddit r/EthereumClassic
+      forum ETC:
+        __link: https://forum.ethereumclassic.org/
+        __icon: etc
+        name: EthereumClassic.org Forum
+      forum BitcoinTalk:
+        __link: https://bitcointalk.org/index.php?topic=5134923
+        __icon: news
+        name: BitcoinTalk
+      forum Archived BitcoinTalk:
+        __link: https://bitcointalk.org/index.php?topic=1559630.0
+        __icon: news
+        name: Archived BitcoinTalk
+  Media:
+    __type: buttons
+    title: Media
+    items:
+      media ETCfInv:
+        __link: https://www.youtube.com/playlist?list=PLMBYy3lWO3DkegQkvL23AMnm_JnX-LXW3
+        __icon: youtube
+        name: Ethereum Cassic (ETC) for Investors
+      media Etherplan:
+        __link: https://www.youtube.com/channel/UC4--zHROGkRT1MadPM4EASA/playlists
+        __icon: youtube
+        name: Etherplan
+      media EVM61:
+        __link: https://www.youtube.com/playlist?list=PLiW3acHwcR6LAa_WS5sFWf1S_GquYVeJb
+        __icon: youtube
+        name: EVM61
+      media Explore The Chain:
+        __link: https://www.youtube.com/playlist?list=PL8fotqNQa4-UGxH8rCqeHAtOG56OyhZGf
+        __icon: youtube
+        name: Explore The Chain
+      media Let's Talk ETC!:
+        __link: https://www.youtube.com/playlist?list=PLKO8sMfwkZQqGH3Ny2OJ_SRcAvSf_0gx5
+        __icon: youtube
+        name: Let's Talk ETC!
+  Twitter Accounts:
+    __type: buttons
+    title: Twitter Accounts
+    items:
+      twitter China 1:
+        __link: https://twitter.com/EthereumChina
+        __icon: twitter
+        name: China
+      twitter China 2:
+        __link: https://twitter.com/ETCChina
+        __icon: twitter
+        name: China
+      twitter English 1:
+        __link: https://twitter.com/eth_classic
+        __icon: twitter
+        name: English
+      twitter English 2:
+        __link: https://twitter.com/EthereumClassic
+        __icon: twitter
+        name: English
+      twitter Español:
+        __link: https://twitter.com/ethclassicesp
+        __icon: twitter
+        name: Español
+      twitter France:
+        __link: https://twitter.com/ETC_France
+        __icon: twitter
+        name: France
+      twitter Germany:
+        __link: https://twitter.com/GermanyEtc
+        __icon: twitter
+        name: Germany
+      twitter Italia:
+        __link: https://twitter.com/etcitalia
+        __icon: twitter
+        name: Italia
+      twitter Japan:
+        __link: https://twitter.com/ETCJapan
+        __icon: twitter
+        name: Japan
+      twitter Korea 1:
+        __link: https://twitter.com/ethclassic_kor
+        __icon: twitter
+        name: Korea
+      twitter Korea 2:
+        __link: https://twitter.com/etckorea1
+        __icon: twitter
+        name: Korea
+      twitter Netherlands:
+        __link: https://twitter.com/etcnetherlands
+        __icon: twitter
+        name: Netherlands
+      twitter Philippines:
+        __link: https://twitter.com/ETC_Philippines
+        __icon: twitter
+        name: Philippines
+      twitter Sri Lanka:
+        __link: https://twitter.com/etcSriLanka
+        __icon: twitter
+        name: Sri Lanka
+      twitter Turkey:
+        __link: https://twitter.com/EtcTurkiye
+        __icon: twitter
+        name: Turkey
+      twitter Viet Nam:
+        __link: https://twitter.com/ETCVietNam
+        __icon: twitter
+        name: Viet Nam
+  Regional Website:
+    __type: buttons
+    title: Regional Website
+    items:
+      website ETC Hub:
+        __link: https://etchub.io/
+        __icon: etc
+        name: ETCHub.io
+      website EthereumClassic.cn:
+        __link: http://ethereumclassic.cn/
+        __icon: etc
+        name: EthereumClassic.cn
+      website ETC Korea:
+        __link: https://etckorea.modoo.at/
+        __icon: etc
+        name: ETC Korea
+      website EthereumClassicKorea.com:
+        __link: https://www.ethereumclassickorea.com/
+        __icon: etc
+        name: EthereumClassicKorea.com

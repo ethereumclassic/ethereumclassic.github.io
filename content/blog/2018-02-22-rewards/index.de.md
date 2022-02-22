@@ -4,21 +4,21 @@ date: 2018-02-22
 author: Christian Seberino
 ---
 
-![](./1*vFht2pfMD7lijWCGDpNEJA.png)
+![](./1vFht2pfMD7lijWCGDpNEJA.png)
 
 Die Miningprämien von Ethereum Classic (ETC) haben sich mit der neuen Geldpolitik geändert. Ich werde diese Änderungen und ihre Auswirkungen diskutieren.
 
 ### Die neue Formel
 
-![](./1*94Fy4Fxt6Vtn24QMT78WrQ.jpeg)
+![](./194Fy4Fxt6Vtn24QMT78WrQ.jpeg)
 
 ETC-Miners werden dafür belohnt, dass sie der ETC-Blockchain gültige Blöcke hinzugefügt haben. Diese Belohnungen bestehen aus drei Teilen:
 
 **Base Rewards (Grund-Belohnung)** - Dieser Teil hängt von den Blocknummern ab. Es wird mit neu geschaffenen Mitteln bezahlt. Alle fünf Millionen Blöcke (ca. 2,5 Jahre) verringert sich dieser Anteil um 20%. Anfangs war es 5 ETC. Es wurde nach Blocknummer fünf Millionen in 4 ETC geändert. Nach Blocknummer zehn Millionen um April 2020 wird es wieder auf 3.2 ETC geändert.
 
-Definieren Sie die Blockära *E* in Abhängigkeit von der Blocknummer *N* wie folgt (*//* steht für Integer Division):
+Definieren Sie die Blockära _E_ in Abhängigkeit von der Blocknummer _N_ wie folgt (_//_ steht für Integer Division):
 
-*E* = (*N* - 1)//5000000
+_E_ = (_N_ - 1)//5000000
 
 Dann ist die Grundbelohnung wie folgt:
 
@@ -26,30 +26,28 @@ Dann ist die Grundbelohnung wie folgt:
 
 **Uncle Rewards (Uncle-Belohnung)** - Dieser Teil hängt von der Anzahl der enthaltenen Uncle-Blöcke sowie von den Blocknummern ab. Es wird auch mit neu geschaffenen Mitteln bezahlt. Jeder Block kann höchstens zwei Uncle-Blöcke enthalten. Die Belohnung für jeden Uncle-Block beträgt zusätzlich 3,125% der Grundbelohnung. Es ist jetzt 0,125 ETC pro Uncle-Block und wird nach Blocknummer zehn Millionen in 0,1 ETC geändert.
 
-Für die Blockära *E* und die Anzahl der Uncle *U* lautet die Gesamtbelohnung für den Uncle wie folgt:
+Für die Blockära _E_ und die Anzahl der Uncle _U_ lautet die Gesamtbelohnung für den Uncle wie folgt:
 
-0,03125 ⋅ * U * ⋅ (5 ⋅ 0,8 * ᴱ *)
+0,03125 ⋅ _ U _ ⋅ (5 ⋅ 0,8 _ ᴱ _)
 
 Nach Block Nummer fünf Millionen erhalten Miners, die die Uncle-Blöcke schaffen, dieselbe Belohnung pro Uncle-Block.
 
 ** Gas Rewards (Gas-Belohnung)** - Dieser Teil hängt von den enthaltenen Transaktionen ab. Es wird von den Ursprungskonten bezahlt. Die Miners führen die Transaktionen durch und erhalten Zahlungen für das benötigte Gas. Bei jeder Transaktion wird ein Preis pro Gaseinheit angegeben.
 
-Für die Gasanforderungen *G*₁, *G*₂,*G*₃ ... und die Gaspreise *P*₁, *P₂, *P*₃, ... ist die Gesamtgasbelohnung wie folgt:
+Für die Gasanforderungen *G*₁, *G*₂,*G*₃ ... und die Gaspreise *P*₁, *P₂, *P\*₃, ... ist die Gesamtgasbelohnung wie folgt:
 
 *G*₁ ⋅ *P*₁ + *G*₂ ⋅ *P*₂ + *G*₃ ⋅ *P*₃ +…
 
 Daher lautet die Gesamtbelohnung für das Erstellen eines Blocks wie folgt:
 
-(1 + 0.03125 ⋅ *U* ) ⋅ (5 ⋅ 0.8*ᴱ* ) + *G*₁ ⋅ *P*₁ + *G*₂ ⋅ *P*₂ + *G*₃ ⋅
+(1 + 0.03125 ⋅ _U_ ) ⋅ (5 ⋅ 0.8*ᴱ* ) + *G*₁ ⋅ *P*₁ + *G*₂ ⋅ *P*₂ + *G*₃ ⋅
 *P*₃ + …
 
 ### Die Berechnungsbeispiele
 
-![](./1*CBy2Wk7IbkpmUgDkOwAceg.jpeg)
+![](./1CBy2Wk7IbkpmUgDkOwAceg.jpeg)
 
 Hier ist ein Python-Skript, das diese Mining-Belohnungsformel verwendet, um Mining-Belohnungen zu berechnen:
-
-
 
     #!/usr/bin/env python3
 
@@ -91,13 +89,13 @@ Hier sind einige Beispielberechnungen für echte ETC-Blockchain-Daten:
 
 ### Das Gesamtangebot (Total Supply)
 
-![](./1*CI_LeLWUYbgI4AuYp3mj6A.png)
+![](./1CI_LeLWUYbgI4AuYp3mj6A.png)
 
 Die neue Geldpolitik begrenzt das Angebot von ETC. Beachten Sie, dass nur die Belohnungen der Base und des Uncle-Rewards das Angebot erhöhen, da die Gasbelohnungen nur vorhandene Gelder übertragen. Da die Uncle-Rewards unterschiedlich sind, kann das mögliche Gesamtangebot an ETC nur annähernd angegeben werden.
 
 Die Formel für die zukünftige Erhöhung des Angebots pro Epoche unter der Annahme einer konstanten Anzahl von Onkelblöcken lautet wie folgt:
 
-5000000 ⋅ (1 + 2 ⋅ 0.03125 ⋅ *U* ) ⋅ (5 ⋅ 0.8*ᴱ* )
+5000000 ⋅ (1 + 2 ⋅ 0.03125 ⋅ _U_ ) ⋅ (5 ⋅ 0.8*ᴱ* )
 
 Der Faktor von 2 ist erforderlich, um die Rewards des Erstellers des Uncle-Blockes einzuschließen. Das Gesamtangebot kann aus dieser Formel geschätzt werden, indem die Beiträge für die verbleibenden Epochen addiert werden. Die Ära 192, die in etwa 456 Jahren eintreten wird, ist die letzte Ära, die das Angebot erhöht.
 
@@ -105,7 +103,7 @@ Unter der Annahme, dass keine Uncle-Blöcke mehr vorhanden sind, ergibt sich ein
 
 ### Das Fazit
 
-![](./1*8EYoI0_aQoGf6OCPsLK_GQ.jpeg)
+![](./18EYoI0_aQoGf6OCPsLK_GQ.jpeg)
 
 Die neue Geldpolitik verändert die Mining-Rewards und begrenzt das Gesamtangebot an ETC. Hoffentlich sind jetzt alle Details klarer.
 

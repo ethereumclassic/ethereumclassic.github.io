@@ -2,9 +2,10 @@
 title: Die Zusammenfassung des Gaslimit-Konfigurationsgespräches vom 27.12.2019
 date: 2019-12-27
 author: ETC-Discord
-description: Es gab einen Gespräch im Discord in welchem die Begrenzung des Gaslimites von ETC diskutiert wurde
+seo: Es gab einen Gespräch im Discord in welchem die Begrenzung des Gaslimites von ETC diskutiert wurde
 linkImage: ./call.jpg
 ---
+
 ![Flavor Image aufrufen](./call.jpg)
 
 Vor einem Tag gab es einen ETC Devs/Miners/Community Call, in dem über Optionen für das Management von zügellosem Chain-Bloat gesprochen wurde, das sich derzeit im ETC-Mainnet befindet und von [GasToken](https://gastoken.io) verursacht wird. Die meisten Blöcke sind mit Müll gefüllt, was dem Zustand jeden Tag Gigabyte hinzufügt. Dies wird die Dezentralisierung in kurzer Zeit gefährden und eine existenzielle Bedrohung für die Gesundheit des Netzwerks darstellen.

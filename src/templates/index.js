@@ -1,67 +1,47 @@
-import React from 'react';
-import { graphql } from 'gatsby';
+import { graphql } from "gatsby";
+import React from "react";
 
-import LayoutWithMenu from '../components/LayoutWithMenu';
+import GlobalLayout from "../components/globalLayout";
+import Landing from "../components/landing";
 
-import HomeBanner from '../components/HomeBanner';
-import HomeIconGrid from '../components/HomeIconGrid';
-import HomeStayCurrent from '../components/HomeStayCurrent';
-import HomeSplit from '../components/HomeSplit';
-import HomePlain from '../components/HomePlain';
-
-const components = {
-  banner: HomeBanner,
-  split: HomeSplit,
-  iconGrid: HomeIconGrid,
-  plain: HomePlain,
-  stayCurrent: HomeStayCurrent
-};
-
-const IndexTemplate = props => {
-  const {
-    data: { news },
-    pageContext: { i18n }
-  } = props;
+export default function LayoutLanding(props) {
   return (
-    <LayoutWithMenu {...props} className="landing">
-      {i18n.content.map(item => {
-        const Component = components[item.type];
-        return <Component key={item.key} data={item} i18n={i18n} news={news} />;
-      })}
-    </LayoutWithMenu>
+    <GlobalLayout {...props}>
+      <Landing {...props} />
+    </GlobalLayout>
   );
-};
+}
 
-export default IndexTemplate;
-
-export const query = graphql`
-  query($locale: String!) {
-    news: allYamlI18N(
-      filter: {
-        locale: { eq: $locale }
-        type: { in: ["collection", "markdown"] }
-        parentDirectory: { in: ["blog", "news"] }
-        data: { tags: { nin: "application" } }
-      }
-      sort: { fields: data___date, order: DESC }
-      limit: 10
+export const pageQuery = graphql`
+  query {
+    headlines: allNewsItem(
+      filter: { tags: { in: "news" } }
+      limit: 5
+      sort: { fields: date, order: DESC }
     ) {
-      nodes {
-        id
-        relativeDirectory
-        type
-        data {
-          link
-          tags
-          title
-          author
-          source
-          date
+      edges {
+        node {
+          ...NewsDeets
         }
-        parent {
-          ... on Mdx {
-            excerpt(pruneLength: 100)
-          }
+      }
+    }
+    videos: allVideosCollection(
+      limit: 3
+      sort: { fields: [date, title], order: [DESC, ASC] }
+    ) {
+      edges {
+        node {
+          ...VideoDeets
+        }
+      }
+    }
+    apps: allServicesAppsCollection(
+      limit: 12
+      sort: { fields: [date, title], order: [DESC, ASC] }
+    ) {
+      edges {
+        node {
+          ...AppDeets
         }
       }
     }

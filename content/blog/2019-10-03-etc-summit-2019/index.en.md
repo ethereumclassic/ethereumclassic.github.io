@@ -9,7 +9,7 @@ tags: ["announcement", "teams", "education", "development"]
 
 [https://etcsummit.com/](https://etcsummit.com/)
 
-![ETC Summit 2019](./ethereum_classic_banner_wallpaper.JPG)
+![ETC Summit 2019](./ethereum_classic_banner_wallpaper.jpg)
 
 ## Join the Ethereum Classic Summit
 

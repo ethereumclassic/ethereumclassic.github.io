@@ -1,9 +1,0 @@
-title: Media
-description: List of Ethereum Classic related media; news links to external sites
-submit: Submit Link
-englishItems: English Links
-intro: Technical Ethereum Classic news and media from all over the internet.
-disclaimer: true
-rss: 
-  text: Links RSS Feed
-  link: /rss-links.xml

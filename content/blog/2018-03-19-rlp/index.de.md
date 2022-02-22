@@ -10,7 +10,7 @@ Ethereum Classic (ETC) verwendet RLP-Codierung (Recursive Length Prefix) zum Spe
 
 ## Die Einführung
 
-![](./1*_y8SOO9LmGSUWnSGG1vidg.png)
+![](./1_y8SOO9LmGSUWnSGG1vidg.png)
 
 Bei der Serialisierung werden Datenstrukturen in Byte-Sequenzen codiert. Es wird auch als Rangieren und Beizen (marshalling and pickling) bezeichnet. Beim Speichern und Senden von Datenstrukturen ist eine Serialisierung erforderlich.
 
@@ -116,6 +116,7 @@ def rlp_decode(input):
 
         return result
 ```
+
 <br/>Beachten Sie, dass die Funktionen rekursiv sind. Beachten Sie auch, dass die Funktionen für Eingaben funktionieren, die bis zu 18 Millionen Terabyte erfordern. Hier sind Beispiele für ihre Verwendung:
 
 ```

@@ -1,38 +1,42 @@
-import { graphql } from 'gatsby';
+import { graphql } from "gatsby";
 
-import LayoutNews from '../components/LayoutNews';
+import GlobalLayout from "../components/globalLayout";
+import News from "../components/news";
 
-export default LayoutNews;
+export default function NewsTempalte(props) {
+  const categoryTitle = props.i18n.tagNames[props.pageContext.filter];
+  const title = categoryTitle
+    ? `${categoryTitle} - ${props.i18n.title}`
+    : props.i18n.title;
+  return (
+    <GlobalLayout {...props} i18n={{ ...props.i18n, title }}>
+      <News {...props} />
+    </GlobalLayout>
+  );
+}
 
-export const query = graphql`
-  query($locale: String!, $skip: Int!, $limit: Int!, $yearQuery: String!, $tagQuery: [String]) {
-    items: allYamlI18N(
-      filter: {
-        locale: { eq: $locale }
-        type: { in: ["collection", "markdown"] }
-        parentDirectory: { in: ["blog", "news"] }
-        data: { tags: { in: $tagQuery }, date: { glob: $yearQuery } }
-      }
-      sort: { fields: data___date, order: DESC }
+export const pageQuery = graphql`
+  fragment NewsDeets on NewsItem {
+    id
+    date
+    locale
+    author
+    source
+    link
+    title
+    newsType
+  }
+
+  query ($skip: Int!, $limit: Int!, $filterQuery: NewsItemFilterInput!) {
+    items: allNewsItem(
+      filter: $filterQuery
+      sort: { fields: [date, title], order: [DESC, ASC] }
       skip: $skip
       limit: $limit
     ) {
-      nodes {
-        id
-        relativeDirectory
-        type
-        data {
-          link
-          tags
-          title
-          author
-          source
-          date
-        }
-        parent {
-          ... on Mdx {
-            excerpt(pruneLength: 180)
-          }
+      edges {
+        node {
+          ...NewsDeets
         }
       }
     }

@@ -1,2 +1,3 @@
-title: Blog
-root: /news
+header:
+  __link: /news/tag/blog
+  title: Ethereum Classic Blog
