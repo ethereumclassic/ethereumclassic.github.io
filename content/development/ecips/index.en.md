@@ -3,6 +3,7 @@ title: ECIPs
 seo: A summary of the Ethereum Classic Improvement Proposal (ECIP) process, and a list of accepted ECIPs.
 license: CC-BY
 contribute: true
+updated: 2022-02-22
 ---
 
 ## [Ethereum Classic Improvement Proposals](https://ecips.ethereumclassic.org/)

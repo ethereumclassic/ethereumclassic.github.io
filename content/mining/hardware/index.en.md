@@ -1,6 +1,8 @@
 ---
 title: Mining Hardware Guide
 contributors: ["IstoraMandiri", "wpwrak"]
+updated: 2022-02-22
+contribute: true
 seo: A short explanation of the Hardware Requirements for Mining Ethereum Classic, covering ETHash vs ETCHash, SHA3, GPUs, and ASICs.
 ---
 

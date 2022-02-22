@@ -1,6 +1,6 @@
 ---
 title: ETH + BTC = ETC
-updated: 2022-02-14
+updated: 2022-02-22
 disclaimer: opinion
 seo: By combining the technology of Ethereum with the philosophy and security of Bitcoin, Ethereum Classic stands alone in being able to provide a truly decentralized Smart Contract Platform.
 ---

@@ -1,6 +1,7 @@
 ---
 title: Genesis
-updated: 2022-02-14
+updated: 2022-02-22
+contribute: true
 disclaimer: opinion
 seo: The origin story of Ethereum Classic, covering the infamous DAO Hack, and the resulting Hard Fork that caused the Ethereum Foundation to abandon their promise of Code is Law.
 info: "**Disclaimer:** The events outlined in this story are believed to be accurate, but some details were unable to be verified fully as first-hand sources were deleted or otherwise lost to history. If any facts are disputed or additional sources become available, corrections are welcome."

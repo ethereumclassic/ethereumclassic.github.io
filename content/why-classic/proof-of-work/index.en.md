@@ -1,6 +1,6 @@
 ---
 title: Proof of Work
-updated: 2022-02-14
+updated: 2022-02-22
 disclaimer: opinion
 seo: An argument for why Proof of Stake is not a suitable solution for blockchains that wish to deliver monumental change, and why Proof of Work is the only known consensus mechanism that can.
 ---

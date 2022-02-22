@@ -1,6 +1,7 @@
 ---
 title: Development
 seo: A collection of resources for developers who are looking to learn more about contributing or deploying applications to Ethereum Classic.
+updated: 2022-02-22
 ---
 
 This section contains a list of resources that developers planning to contribute or deploy to Ethereum Classic may find useful.

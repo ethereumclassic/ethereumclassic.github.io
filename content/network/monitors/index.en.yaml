@@ -1,4 +1,6 @@
 title: Network Monitors
+updated: 2022-02-22
+contribute: true
 seo: Tools for checking the health of the Ethereum Classic network, and general statistics such as issuance, transaction counts and mining profitability.
 description: |
   Below is a selection of tools that provide insights into a wide range of metrics relating to the Ethereum Classic. Together they provide a full spectrum analysis of the health and status of the network.

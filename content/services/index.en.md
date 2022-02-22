@@ -1,5 +1,6 @@
 ---
 title: Services
+updated: 2022-02-22
 seo: A directory of services that make up the rich ecosystem that sits on top of Ethereum Classic, including Wallets, Exchanges and Decentralized Applications.
 ---
 

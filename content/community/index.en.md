@@ -1,5 +1,6 @@
 ---
 title: ETC Community
+updated: 2022-02-22
 seo: Links to the Channels, Teams and Events that make up the Ethereum Classic community. Get involved!
 ---
 

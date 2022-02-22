@@ -1,5 +1,6 @@
 ---
 title: Knowledge Base
+updated: 2022-02-22
 disclaimer: opinion
 seo: A hub of information about the History, Future, Philosophy and Economics of Ethereum Classic, documenting the why, how and where of the decentralized version of Ethereum.
 ---

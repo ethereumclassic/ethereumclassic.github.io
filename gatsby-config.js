@@ -1,5 +1,5 @@
-const siteUrl = "https://etc3022.netlify.app";
-const lastUpdated = new Date("2021-12-21"); // passed to sitemap, shows roughtly last time page was updated
+const siteUrl = "https://ethereumclassic.org";
+const lastUpdated = new Date("2022-02-22"); // passed to sitemap, shows roughtly last time page was updated
 
 const { locales, defaultLocale } = require("./configs/locales");
 
@@ -86,7 +86,6 @@ module.exports = {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 780,
-              // linkImagesToOriginal: false,
               showCaptions: true,
               backgroundColor: "white",
             },

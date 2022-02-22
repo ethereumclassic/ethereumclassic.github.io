@@ -18,7 +18,7 @@ export default function GenericLinks({ items, showLink }) {
                 to={link}
                 tw="!no-underline hover:!underline !text-shade-light"
               >
-                <small tw="font-normal text-shade-light">
+                <small tw="font-normal font-sans text-shade-light">
                   {link.split("://").pop()}
                 </small>
               </Link>

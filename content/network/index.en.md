@@ -1,6 +1,7 @@
 ---
 title: Network Tools
 seo: A selection of tools and resources for inspecting and interacting with the Ethereum Classic network. RPC Endpoints, Blockchain Explorers, and Network Monitors.
+updated: 2022-02-22
 ---
 
 This section contains a selection of tools and resources for inspecting and interacting with the Ethereum Classic network.
