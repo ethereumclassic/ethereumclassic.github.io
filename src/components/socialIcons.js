@@ -15,6 +15,8 @@ export default function SocialIcons() {
         {socialItems.map(({ key, name, icon, link, hilight }) => (
           <a
             key={key}
+            target="_blank"
+            rel="noreferrer"
             href={link}
             css={[
               hilight
