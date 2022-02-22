@@ -1,86 +1,220 @@
-const siteUrl = 'https://ethereumclassic.org';
-const image = '/etc-social-card.png';
+const siteUrl = "https://ethereumclassic.org";
+const lastUpdated = new Date("2022-02-22"); // passed to sitemap, shows roughtly last time page was updated
 
-const rssFeeds = require('./rss-feeds')({ siteUrl, image });
+const { locales, defaultLocale } = require("./configs/locales");
 
-const search = require('./search');
+require("dotenv").config({ path: ".env" });
 
 module.exports = {
+  flags: {
+    PRESERVE_FILE_DOWNLOAD_CACHE: true,
+    FAST_DEV: true,
+    PARALLEL_SOURCING: true,
+  },
   siteMetadata: {
     siteUrl,
-    image
+    socialImage: "/etc-social-card.png",
+    redirects: require("./configs/redirects"),
+    lastUpdated,
   },
   plugins: [
-    'gatsby-transformer-sharp',
-    'gatsby-plugin-sharp',
-    'gatsby-plugin-react-helmet',
-    'gatsby-plugin-sass',
-    'gatsby-plugin-sitemap',
-    'gatsby-plugin-remove-generator',
+    // "gatsby-plugin-perf-budgets",
+    // "gatsby-plugin-webpack-bundle-analyser-v2",
+    "gatsby-plugin-image",
+    "gatsby-transformer-sharp",
+    "gatsby-plugin-sharp",
+    "gatsby-plugin-react-helmet",
+    "gatsby-plugin-emotion",
+    `gatsby-remark-images`,
     {
-      resolve: 'gatsby-plugin-layout',
+      resolve: `gatsby-plugin-env-variables`,
       options: {
-        component: require.resolve('./src/components/LayoutGlobal')
-      }
+        allowList: [
+          "ALGOLIA_APP_ID",
+          "ALGOLIA_SEARCH_KEY",
+          "ALGOLIA_MAIN_INDEX",
+        ],
+      },
     },
     {
-      resolve: 'gatsby-plugin-favicon',
+      resolve: `gatsby-plugin-nprogress`,
       options: {
-        logo: './src/assets/favicon.png'
-      }
+        color: `#34d399`,
+        showSpinner: false,
+      },
     },
     {
-      resolve: 'gatsby-plugin-mdx',
+      resolve: "gatsby-plugin-sitemap",
+      options: require("./configs/sitemap")({
+        siteUrl,
+        lastUpdated,
+      }),
+    },
+    ...[
+      process.env.ALGOLIA_ADMIN_KEY && {
+        resolve: "gatsby-plugin-algolia",
+        options: require("./configs/search"),
+      },
+    ].filter((c) => c),
+    {
+      resolve: "gatsby-plugin-feed",
+      options: require("./configs/rss")({ locales, defaultLocale, siteUrl }),
+    },
+    {
+      resolve: "gatsby-source-filesystem",
       options: {
-        extensions: ['.mdx', '.md'],
+        name: "images",
+        path: "./src/images/",
+      },
+    },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "content",
+        path: "./content/",
+      },
+    },
+    {
+      resolve: `gatsby-plugin-mdx`,
+      options: {
+        extensions: [".md"],
         gatsbyRemarkPlugins: [
           {
-            resolve: 'gatsby-remark-copy-linked-files'
+            resolve: "gatsby-remark-copy-linked-files",
           },
           {
-            resolve: 'gatsby-remark-images',
+            resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 900,
-              linkImagesToOriginal: true
+              maxWidth: 780,
+              showCaptions: true,
+              backgroundColor: "white",
+            },
+          },
+        ],
+      },
+    },
+    {
+      resolve: "collections-plugin",
+      options: {
+        instanceType: "content",
+        collectionKey: "collection",
+      },
+    },
+    {
+      resolve: "translations-plugin",
+      options: {
+        locales,
+        defaultLocale,
+        instanceType: "content",
+        templatesDir: `${process.env.PWD}/src/templates/`,
+        collectionKey: "collection",
+        noFallbackDirs: ["blog"],
+      },
+    },
+    {
+      resolve: "news-plugin",
+      options: {
+        // LODO
+      },
+    },
+    {
+      resolve: "contributor-avatars-plugin",
+      options: {
+        instanceType: "content",
+      },
+    },
+    {
+      resolve: `gatsby-plugin-remote-images`,
+      options: {
+        nodeType: "ContributorAvatar",
+        imagePath: "githubId",
+        name: "githubImage",
+        prepareUrl: (id) => `https://avatars.githubusercontent.com/${id}`,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-remote-images`,
+      options: {
+        nodeType: "VideosCollection",
+        imagePath: "youtube",
+        name: "videoImage",
+        prepareUrl: (youtube) =>
+          `https://img.youtube.com/vi/${youtube}/hqdefault.jpg`,
+      },
+    },
+    {
+      resolve: "pagination-plugin",
+      options: {
+        itemsPerPage: 16 * 3,
+        basePath: "news",
+        filters: {
+          tags: { type: "tags", slug: "/tag/" },
+          years: { type: "category", field: "year", slug: "/year/" },
+        },
+        query: `
+          query NewsQuery {
+            items: allNewsItem {
+              edges {
+                node {
+                  locale
+                  tags
+                  year
+                }
+              }
             }
           }
-        ]
-      }
+        `,
+      },
     },
     {
-      resolve: 'gatsby-source-filesystem',
+      resolve: "pagination-plugin",
       options: {
-        path: `${__dirname}/src/assets/images`,
-        name: 'images'
-      }
+        itemsPerPage: 10 * 3,
+        basePath: "videos",
+        filters: {
+          tags: { type: "tags", slug: "/" },
+        },
+        query: `
+          query VideosQuery {
+            items: allVideosCollection(
+              sort: { fields: [date, title], order: [DESC, ASC] }
+            ) {
+              edges {
+                node {
+                  locale
+                  tags
+                  slug
+                }
+              }
+            }
+          }
+        `,
+      },
     },
     {
-      resolve: 'gatsby-source-filesystem',
+      resolve: "pagination-plugin",
       options: {
-        path: `${__dirname}/content`,
-        name: 'yaml-i18n-content'
-      }
+        itemsPerPage: 10 * 3,
+        basePath: "services/apps",
+        filters: {
+          type: { type: "category", slug: "/" },
+        },
+        query: `
+          query AppsQuery {
+            items: allServicesAppsCollection(
+              sort: { fields: [date, title], order: [DESC, ASC] }
+            ) {
+              edges {
+                node {
+                  locale
+                  type
+                  slug
+                }
+              }
+            }
+          }
+        `,
+      },
     },
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        path: `${__dirname}/src/templates`,
-        name: 'yaml-i18n-templates'
-      }
-    },
-    {
-      resolve: 'gatsby-plugin-yaml-i18n',
-      options: {
-        locales: ['en']
-      }
-    },
-    {
-      resolve: 'gatsby-plugin-feed',
-      options: rssFeeds
-    },
-    {
-      resolve: 'gatsby-plugin-lunr',
-      options: search
-    }
-  ]
+  ],
 };

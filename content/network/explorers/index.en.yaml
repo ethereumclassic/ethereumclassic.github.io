@@ -1,0 +1,59 @@
+__disclaimer: verify
+title: Blockchain Explorers
+updated: 2022-02-22
+contribute: true
+seo: A list of blockchain explorer services for Ethereum Classic and the various ETC testnets.
+description: |
+  Blockchain Explorers provide a convenient way to get insights into the current and past state of a given chain, allowing you to inspect the contents of blocks, transactions and account balances. 
+
+  The following third party explorers independently verify the state of Ethereum Classic, and it's testnets. They are commonly used to check that transactions have been broadcast and confirmed, but many offer more advanced features such as historical account balances, contract verification, and more.
+items:
+  explorers:
+    type: table
+    intro: testing
+    hideHead: true
+    columnItems:
+      name: {}
+      etc:
+        __linkRef: etc
+        text: Mainnet
+      kotti:
+        __linkRef: kotti
+        text: Kotti
+      mordor:
+        __linkRef: mordor
+        text: Mordor
+    items:
+      AnyBlock:
+        name: AnyBlock
+        __etc: https://explorer.anyblock.tools/ethereum/classic/mainnet/
+        __kotti: https://explorer.anyblock.tools/ethereum/classic/kotti/
+        __mordor: https://explorer.anyblock.tools/ethereum/classic/mordor/
+      Bitquery:
+        name: Bitquery
+        __etc: https://explorer.bitquery.io/ethclassic/
+      BlockScout:
+        name: BlockScout
+        __etc: https://blockscout.com/etc/mainnet/
+        __kotti: https://blockscout.com/etc/kotti/
+        __mordor: https://blockscout.com/etc/mordor/
+      Emerald Receipt:
+        name: Emerald Receipt
+        __etc: https://receipt.emeraldpay.io/
+      ETCBlockExplorer:
+        name: ETCBlockExplorer
+        __etc: https://etcblockexplorer.com/
+      Expedition:
+        name: Expedition
+        __etc: https://expedition.dev/?network=mainnet
+        __kotti: https://expedition.dev/?network=kotti
+        __mordor: https://expedition.dev/?network=mordor
+      MinerGate:
+        name: MinerGate
+        __etc: https://minergate.com/blockchain/etc/blocks
+      OKLink:
+        name: OKLink
+        __etc: https://www.oklink.com/etc
+      Tokenview:
+        name: Tokenview
+        __etc: https://etc.tokenview.com/

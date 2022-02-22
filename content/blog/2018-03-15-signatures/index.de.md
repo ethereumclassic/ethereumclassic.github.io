@@ -4,14 +4,15 @@ date: 2018-03-15
 author: Christian Seberino
 ---
 
-![](./1*badmg3GLTFGGKsRdqeySTg.png)
+![](./1badmg3GLTFGGKsRdqeySTg.png)
 
 Digitale Signaturen von Ethereum Classic (ETC) sichern Transaktionen. Hierbei handelt es sich um eine Kryptographie mit elliptischen Kurven und den Elliptic Curve Digital Signature Algorithm (ECDSA). Ich werde digitale Signaturen von ETC *ohne* diese Themen mit Verwendung nur kleinen Python-Funktionen beschreiben.
 
 ### Die Grundlagen
-<br/>![](./1*yw1934-mAqp5DM4FWgbNqQ.jpeg)
+<br/>![](./1yw1934-mAqp5DM4FWgbNqQ.jpeg)
 
 Das Unterzeichnen und Überprüfen werden mit den folgenden vier Konstanten und drei Funktionen implementiert:
+
 ```
 N  = 115792089237316195423570985008687907852837564279074904382605163141518161494337
 P  = 115792089237316195423570985008687907853269984665640564039457584007908834671663
@@ -67,6 +68,7 @@ def multiply(number, pair):
 
         return result
 ```
+
 <br/>Die Invertierungsfunktion definiert eine Operation mit Zahlen in Form anderer Zahlen, die als Module bezeichnet werden. Die Ergänz-Funktion definiert eine Operation für *Zahlenpaare*. Die Multiplikationsfunktion definiert eine Operation für eine Zahl und ein Zahlenpaar. Hier sind Beispiele für deren Verwendung: ``` >>> invert (82856, 7164661) 3032150
 
 >>> add([84672, 5768], [15684, 471346])
@@ -76,7 +78,7 @@ def multiply(number, pair):
 [82708077205483544970470074583740846828577431856187364454411787387343982212318, 30836796656275663256542662990890163662171092281704208118107591167423888588304]
 ```
 ### Private & Public Keys
-<br/>![](./1*0Y8TNbhhEQytGNYJH5uPTg.jpeg)
+<br/>![](./10Y8TNbhhEQytGNYJH5uPTg.jpeg)
 
 Die privaten Schlüssel sind Zahlen ungleich Null, die kleiner als die Konstante N sind. Öffentliche Schlüssel sind die Produkte dieser privaten Schlüssel und des Paares (Gx, Gy). Beispielsweise:
 ```
@@ -90,8 +92,9 @@ Die privaten Schlüssel sind Zahlen ungleich Null, die kleiner als die Konstante
 
 ### Das Unterzeichnen (Signing)
 
-![](./1*na0d3BXnFL-nSj5mNOsE2g.jpeg)
+![](./1na0d3BXnFL-nSj5mNOsE2g.jpeg)
 Das Unterzeichnen von Transaktionen umfasst eine Operation für die Keccak 256-Hashes der Transaktionen und privaten Schlüsseln. Die folgende Funktion implementiert diese Operation:
+
 ```
 import random
 
@@ -109,7 +112,9 @@ def sign(hash, priv_key):
 
         return result
 ```
+
 <br/>Zum Beispiel:
+
 ```
 >>> hash = 0xf62d00f14db9521c03a39c20e94aa10a82ff5f5a614772b25e36757a95a71048
 
@@ -125,9 +130,10 @@ def sign(hash, priv_key):
 
 ### Das Überprüfen (Verifying)
 
-![](./1*mU-RpvD9LL_3ej7FC7nNsg.jpeg)
+![](./1mU-RpvD9LL_3ej7FC7nNsg.jpeg)
 
 Zum Überprüfen digitaler Signaturen müssen bestimmte Eigenschaften in Bezug auf die Keccak 256-Hashes und die öffentlichen Schlüssel überprüft werden. Die folgende Funktion implementiert diese Prüfungen:
+
 ```
 def verify(sig, hash, pub_key):
         """
@@ -143,6 +149,7 @@ def verify(sig, hash, pub_key):
 
         return test_1 and test_2 and test_3
 ```
+
 <br/>Zum Beispiel:
 ```
 >>> hash = 0xf62d00f14db9521c03a39c20e94aa10a82ff5f5a614772b25e36757a95a71048
@@ -170,7 +177,7 @@ True
 
 
 ### Das Fazit
-<br/>![](./1*c2zDUxyTF1IidCj15Xa4yg.jpeg)
+<br/>![](./1c2zDUxyTF1IidCj15Xa4yg.jpeg)
 
 Ich habe digitale ETC-Signaturen eher mit Code als mit Mathematik erklärt. Es war hoffentlich hilfreich zu sehen, wie das Signieren und Überprüfen mit diesen winzigen Funktionen implementiert werden kann.
 
@@ -195,6 +202,4 @@ Ich möchte IOHK (Input Output Hong Kong) für die Finanzierung dieser Bemühung
 
 This work is licensed under the Creative Commons Attribution ShareAlike 4.0
 International License.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjA2NjMyOV19
--->
+

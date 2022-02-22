@@ -3,13 +3,13 @@ title: "Die Ethereum Classic-Blockchain ist UNVOLLSTÄNDIG und warum ist das in 
 date: 2018-04-11
 author: Christian Seberino
 ---
-![](./1*TCmOW4bfexB2Ns21MBDDCw.jpeg)
+![](./1TCmOW4bfexB2Ns21MBDDCw.jpeg)
 
 Die Ethereum Classic (ETC) Blockchain enthält nicht alle Informationen, die für den Betrieb des ETC-Systemes erforderlich sind. Es enthält *implizit* alles, was benötigt wird! Ich möchte erläutern und diskutieren, wie damit umgegangen wird.
 
 ## Der Stand
 
-![](./1*ZHk1y55a8LIXrBXyPQh6sw.jpeg)
+![](./1ZHk1y55a8LIXrBXyPQh6sw.jpeg)
 
 Der Status des ETC-Systemes enthält alle Salden, Programme, Nonces und anderen Werte im Speicher. Diese Daten sind in *Konten* organisiert. Daher ist der Stand die Menge aller Kontowerte.
 
@@ -19,7 +19,7 @@ Der Anfangsstand für den ersten Block enthält Konten mit einem Saldo ungleich 
 
 ## Die Datenbank
 
-![](./1*doVsSfjjDVsy5Sy9M7m2Xg.jpeg)
+![](./1doVsSfjjDVsy5Sy9M7m2Xg.jpeg)
 
 ETC-Knoten enthalten in der Regel Datenbanken, in denen die Blockchain sowie zusätzliche Informationen gespeichert sind. Beispielsweise verwenden Linux Parity ETC-Knotendatenbanken normalerweise das folgende Verzeichnis:
 
@@ -33,7 +33,7 @@ Aus Leistungsgründen verwenden Parity und Geth nicht relationale (NoSQL) Schlü
 
 ## Die Lösung
 
-![](./1*gGGUr4Xhyzo6Amcmzqc4ww.jpeg)
+![](./1gGGUr4Xhyzo6Amcmzqc4ww.jpeg)
 
 Alle ETC-Knoten müssen eine vollständige Spezifikation des Anfangsstandes für den ersten Block enthalten. Dies ist *zusätzlich* zur Blockchain erforderlich. Auf Geth ETC-Knoten befindet sich dieser Anfangszustand beispielsweise in der Datenbank und kann mit dem folgenden Befehl angezeigt werden:
 
@@ -41,7 +41,7 @@ Alle ETC-Knoten müssen eine vollständige Spezifikation des Anfangsstandes für
 
 ## Das Fazit
 
-![](./1*mfEpuxoLMi8OZwFXK7kYQw.png)
+![](./1mfEpuxoLMi8OZwFXK7kYQw.png)
 
 ETC-Knoten erfordern eine vollständige Angabe des Anfangszustandes für den ersten Block sowie der Blockchain. ETC-Knoten speichern diese Informationen normalerweise in Datenbanken. Nur mit diesen Informationen kann das ETC-System betrieben werden.
 
@@ -49,11 +49,11 @@ ETC-Knoten erfordern eine vollständige Angabe des Anfangszustandes für den ers
 
 Sie können mich kontaktieren, indem Sie auf eines der folgenden Symbole klicken:
 
-![](./0*eoFC6QOWZ--bCngK.png)
+![](./0eoFC6QOWZ--bCngK.png)
 
-![](./0*i3CwTFEKUnKYHMf0.png)
+![](./0i3CwTFEKUnKYHMf0.png)
 
-![](./0*HQj6HSHxE7pkIBjk.png)
+![](./0HQj6HSHxE7pkIBjk.png)
 
 ## Die Danksagung
 
@@ -61,4 +61,4 @@ Ich möchte IOHK (Input Output Hong Kong) für die Finanzierung dieser Bemühung
 
 ## Die Lizenz
 
-![](./0*hocpUZXBcjzNJeQ2.png)
+![](./0hocpUZXBcjzNJeQ2.png)

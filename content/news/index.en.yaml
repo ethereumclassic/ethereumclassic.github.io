@@ -1,9 +1,24 @@
-title: News
-description: Blog articles and news links from all over the internet pertaining to Ethereum Classic
-submit: Submit Links or Articles
-englishItems: English News
-intro: Ethereum Classic Blog and Links from all over the internet
-disclaimer: true
-rss: 
-  text: News RSS Feed
-  link: /rss.xml
+title: Ethereum Classic News
+submit: Earn rewards by submitting your own links!
+rss: News RSS Feed
+years: Years
+tags: Tags
+tagNames:
+  blog: ETC Blog
+  announcement: Announcements
+  application: Apps
+  development: Development
+  education: Education
+  event: Events
+  exchange: Exchanges
+  guide: Guides
+  hardfork: Hard Forks
+  media: Media
+  mining: Mining
+  podcast: Podcasts
+  teams: Teams
+  tech: Technology
+  trading: Trading
+  wallet: Wallets
+  video: Videos
+  news: Headlines

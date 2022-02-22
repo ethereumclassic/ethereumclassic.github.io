@@ -1,19 +1,21 @@
-exports.shouldUpdateScroll = ({ routerProps: { location } }) => {
-  if (location.state && location.state.noScroll) {
-    return false;
-  }
-  return true;
-};
+import { RedirectsProvider } from "./src/utils/redirectsProvider";
+import scrollToElement from "./src/utils/scrollToElement";
+import { ThemeProvider } from "./src/utils/themeProvider";
 
-function scrollToAnchor(location, mainNavHeight = 0) {
-  // Check for location so build does not fail
-  if (location && location.hash) {
-    const item = document.querySelector(`${location.hash}`);
-    if (item) {
-      window.scrollTo({ top: item.offsetTop - mainNavHeight });
-    }
-  }
-  return true;
+export function wrapPageElement({ element }) {
+  return (
+    <ThemeProvider>
+      <RedirectsProvider>{element}</RedirectsProvider>
+    </ThemeProvider>
+  );
 }
 
-exports.onRouteUpdate = ({ location }) => scrollToAnchor(location);
+export function shouldUpdateScroll({ routerProps: { location } }) {
+  if (location?.state?.scrollTo) {
+    window.history.scrollRestoration = "manual";
+    window.setTimeout(() => {
+      scrollToElement(location.state.scrollTo, 130, "instant");
+    }, 1);
+    return false;
+  }
+}

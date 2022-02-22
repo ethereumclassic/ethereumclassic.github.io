@@ -1,0 +1,332 @@
+learn:
+  __showNextNav: true
+  name: Learn
+  navItems:
+    whyClassic:
+      __link: /why-classic
+      __icon: etc
+      name: Why Classic?
+      description: Start here to get the lowdown on Etherum Classic's reason for being and unique value proposition
+      navItems:
+        codeIsLaw:
+          __link: /why-classic/code-is-law
+          name: Code is Law
+        genesis:
+          __link: /why-classic/genesis
+          name: Genesis
+        decentralism:
+          __link: /why-classic/decentralism
+          name: Decentralism
+        ethBtcEtc:
+          __link: /why-classic/eth-btc-etc
+          name: ETH + BTC = ETC
+        soundMoney:
+          __link: /why-classic/sound-money
+          name: Sound Money
+        proofOfWork:
+          __link: /why-classic/proof-of-work
+          name: Proof of Work
+        # etcVsEth:
+        #   __link: /why-classic/etc-vs-eth
+        #   name: ETC vs ETH
+    knowledge:
+      __link: /knowledge
+      __icon: hat
+      name: Knowledge
+      description: Further reading on the foundations that underpin ETC
+      navItems:
+        foundation:
+          __link: /knowledge/foundation
+          name: Foundation
+          description: The core principles that form ETC's solid philosophical base
+          icon: foundation
+        theory:
+          __link: /knowledge/theory
+          name: Theory
+          longName: Theory & Research
+          icon: book
+          description: A deeper dive into the logic of Ethereum Classic with pieces from the community
+        investing:
+          __link: /knowledge/investing
+          name: Investing
+          longName: Investor Resources
+          icon: chart
+          description: Information about the value proposion of Ethereum Classic and it's potential for sick gains
+        forks:
+          __link: /knowledge/forks
+          name: Forks
+          longName: Protocol Upgrades
+          icon: codeBranch
+          description: A chronicling of past and future Hard Forks that have added functionality or bugfixes to ETC
+        history:
+          __link: /knowledge/history
+          name: History
+          longName: Classic History
+          icon: update
+          description: A timeline of all of the major events in Ethereum Classics up to the present day
+        future:
+          __link: /knowledge/future
+          name: Future
+          longName: Future Classic
+          icon: etc
+          description: An overview of the decision making process in ETC, and where it might lead the protocol
+    guides:
+      __link: /guides
+      __icon: book
+      name: Guides
+      description: Practical tutorials and walkthroughs for interacting with the network in a number of ways
+      navItems:
+        basics:
+          __link: /guides/basics
+          name: Basics
+          longName: The Basics
+          description: FAQs and Video explainers covering Blockchain and ETC 101
+          icon: question
+        metamask:
+          __link: /guides/metamask
+          name: MetaMask
+          longName: Using MetaMask with ETC
+          description: How to configure MetaMask and alternatives to interact with dapps
+          icon: cursor
+        development:
+          __link: /guides/development
+          name: Development
+          longName: Developer Guides
+          description: A collection of turorials on how to build dapps on Ethereum Classic
+          icon: code
+    videos:
+      __link: /videos
+      __icon: video
+      name: Videos
+      description: A collection of videos and podcasts to keep you informed on ETC concepts and happenings
+      navItems:
+        explainers:
+          __link: /videos/explainers
+          name: Explainers
+        discussions:
+          __link: /videos/discussions
+          name: Discussions
+        trading:
+          __link: /videos/trading
+          name: Trading
+        development:
+          __link: /videos/development
+          name: Development
+        tutorials:
+          __link: /videos/tutorials
+          name: Tutorials
+        mining:
+          __link: /videos/mining
+          name: Mining
+        conferences:
+          __link: /videos/conferences
+          name: Conferences
+          navItems:
+            2017:
+              __link: /videos/etc-summit-2017
+              name: 2017 Hong Kong
+            2018:
+              __link: /videos/etc-summit-2018
+              name: 2018 Seoul
+            2019:
+              __link: /videos/etc-summit-2019
+              name: 2019 Vancouver
+    # memes:
+    #   __link: /memes
+    #   __icon: images
+    #   name: Memes
+    #   description: Spreading the good word of ETC involves winning the battle of hearts and minds through the whimsicalities of information warfare
+    #   navItems:
+    #     mediaKit:
+    #       __link: /memes/media-kit
+    #       name: Media Kit
+    #     charts:
+    #       __link: /memes/charts
+    #       name: Charts
+    #     etc:
+    #       __link: /memes/etc
+    #       name: Etcetera
+play:
+  name: Play
+  navItems:
+    services:
+      __link: /services
+      __icon: cursor
+      name: Services
+      description: Apps, Wallets and Exchanges that intergrate with ETC; 100% unaudited, so watch out for the rug pulls!
+      navItems:
+        wallets:
+          __link: /services/wallets
+          name: Wallets
+          description: Software to store and manage ETC, Tokens, NFTs and other assets
+          icon: coins
+        exchanges:
+          __link: /services/exchanges
+          name: Exchanges
+          description: Where to buy and trade ETC
+          icon: exchange
+        apps:
+          __link: /services/apps
+          name: Apps
+          longName: Apps and Protocol
+          description: Ecosystem of applications that levarage Ethereum Classic
+          icon: screen
+          navItems:
+            nfts:
+              __link: /services/apps/nfts
+              name: NFTs
+            games:
+              __link: /services/apps/games
+              name: Games
+            identity:
+              __link: /services/apps/identity
+              name: Identity
+            interoperability:
+              __link: /services/apps/interoperability
+              name: Interoperability
+            finance:
+              __link: /services/apps/finance
+              name: Finance
+            other:
+              __link: /services/apps/other
+              name: Other
+    community:
+      __link: /community
+      __icon: users
+      name: Community
+      description: If you long for communication with people who are interested in ETC, here's how to find them
+      navItems:
+        channels:
+          __link: /community/channels
+          name: Channels
+          longName: Social Media Channels
+          icon: comments
+          description: A list of accounts, chat rooms and forums to discuss ETC with others
+        teams:
+          __link: /community/teams
+          name: Teams
+          longName: Developer Teams
+          icon: users
+          description: Information on who's working on Ethereum Classic
+        events:
+          __link: /community/events
+          name: Events
+          icon: calendar
+          description: Join the ETC community at regular social events happening throught the year
+        # bounties:
+        #   __link: /community/bounties
+        #   name: Bounties
+        # dao:
+        #   __link: /community/daos
+        #   name: DAOs
+    network:
+      __link: /network
+      __icon: network
+      name: Network
+      description: RPC Endpoints, Explorers, Network Monitors, and other resources for the technically inclined
+      navItems:
+        endpoints:
+          __link: /network/endpoints
+          name: Endpoints
+          longName: RPC Endpoints
+          icon: ethernet
+          description: Public and private services for communicating with to the ETC network
+        explorers:
+          __link: /network/explorers
+          name: Explorers
+          longName: Blockchain Explorers
+          icon: compass
+          description: Tools to inspect the chain for transactions, blocks, and other insights
+        monitors:
+          __link: /network/monitors
+          name: Monitors
+          longName: Network Monitors
+          icon: eye
+          description: Tools for checking the health and status of the network with vairious metrics
+        # statistics:
+        #   __link: /network/statistics
+        #   name: Statistics
+    mining:
+      __link: /mining
+      __icon: fan
+      name: Mining
+      description: Pools, Software and Hardware requirements will help you mine ETC for fun and profit
+      navItems:
+        hardware:
+          __link: /mining/hardware
+          name: Hardware
+          icon: server
+          description: Info about what kind of equipment is best to use for profitably mine ETC
+        software:
+          __link: /mining/software
+          name: Software
+          longName: Mining Software
+          icon: hardhat
+          description: A list of tools that can be used to mine ETC on various operating systems
+        pools:
+          __link: /mining/pools
+          name: Pools
+          longName: Mining Pools
+          icon: pool
+          description: Joining a mining pool lets you profit based on hashpower rather than blocks found
+    develop:
+      __link: /development
+      __icon: code
+      name: Development
+      description: Testnests, Tooling, Clients and information on how to contribute to the ETC protocol itself
+      navItems:
+        clients:
+          __link: /development/clients
+          name: Clients
+          icon: network
+          description: Client software is the backbone of the network and implements the ETC protocol
+        testnets:
+          __link: /development/testnets
+          name: Testnets
+          icon: vial
+          description: Networks for public testing of apps and protocol upgrades before production
+        tooling:
+          __link: /development/tooling
+          name: Tooling
+          longName: Developer Tooling
+          icon: wrench
+          description: They say a workman is as good as his tools, so make sure you pick good ones!
+        repos:
+          __link: /development/repositories
+          name: Repositories
+          icon: github
+          longName: Git Repositories
+          description: A list of Ethereum Classic related project repos for your viewing pleasure
+        ecips:
+          __link: /development/ecips
+          name: ECIPs
+          description: Ethereum Classic Improvement Proposals overview and approved proposals
+          icon: rocket
+news:
+  __hideMobile: true
+  __link: /news
+  name: News
+extra:
+  __hideTop: true
+  name: Extra
+  navItems:
+    news:
+      __link: /news
+      __icon: news
+      name: News
+    blog:
+      __link: /news/tag/blog
+      __icon: blog
+      name: Blog
+    about:
+      __link: /about
+      __icon: question
+      name: About
+    rss:
+      __link: /rss.xml
+      __icon: feed
+      name: RSS Feed
+    siteMap:
+      __link: /sitemap
+      __icon: sitemap
+      name: Sitemap

@@ -2,8 +2,17 @@
 title: The Summary of the Gas-Limit Configuration Call from 12/27/2019
 date: 2019-12-27
 author: ETC Discord
-tags: ["announcement", "development", "education", "teams", "mining", "hardfork", "media"]
-description: There was a call on discord discussing limiting ETC's block gas limit
+tags:
+  [
+    "announcement",
+    "development",
+    "education",
+    "teams",
+    "mining",
+    "hardfork",
+    "media",
+  ]
+seo: There was a call on discord discussing limiting ETC's block gas limit
 linkImage: ./call.jpg
 ---
 
@@ -13,7 +22,7 @@ There was an ETC Devs / Miners / Community Call a day ago to talk about options 
 
 ### Recording of Core Devs Call
 
-[Core Devs Call:  Gas Limit Reduction](https://youtu.be/Svp-eWnqf_g)
+[Core Devs Call: Gas Limit Reduction](https://youtu.be/Svp-eWnqf_g)
 
 Bob S.’s suggested **action items**:
 

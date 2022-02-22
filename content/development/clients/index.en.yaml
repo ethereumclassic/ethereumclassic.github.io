@@ -1,82 +1,48 @@
+__contribute: true
+title: Node Clients
+updated: 2022-02-22
 contribute: true
-disclaimer: true
-title: Clients
-description: Download links for various Ethereum Classic clients and deployment tools
-intro: Clients are the protocol providing software of the Ethereum Classic protocol. Clients allow you to run a mainnet or testnet node, validate blocks through mining, and interface with the network through API.
-content:
-  -
-    configRef: clients
-  -
-    type: buttons
-    title: Public Endpoints
-    description: You can use these services to connect to ETC via JSON-RPC.
+seo: Download links for various Ethereum Classic Node Clients
+description: |
+  Clients are software packages that can be used to run the Ethereum Classic protocol in various modes; Full Nodes, Archive Nodes, Fast Sync Clients, etc. Clients allow you to run a mainnet or testnet node, validate blocks through mining, and interface with the network through API.
+
+  You can find additional tools to help manage client deployments in the [tooling](/development/tooling) section.
+items:
+  clients:
+    type: cells
+    cells: true
+    buttonItems:
+      guide:
+        __icon: book
+        name: Guide
+      release:
+        __icon: code
+        name: Releases
+      support:
+        __iconRef: supportIcon
+        name: Support
     items:
-      -
-        key: BlockScout API
-        link: https://blockscout.com/etc/mainnet/api_docs
-        name: BlockScout API
-      -
-        key: Ethercluster
-        link: https://www.ethercluster.com/etc
-        name: Ethercluster
-      -
-        key: Ethercluster (Kotti)
-        link: https://www.ethercluster.com/kotti
-        name: Ethercluster (Kotti)
-      -
-        key: Ethercluster (Mordor)
-        link: https://www.ethercluster.com/mordor
-        name: Ethercluster (Mordor)
-      -
-        key: RIVET API
-        link: https://rivet.cloud/
-        name: RIVET
-      -
-        key: TokenView API
-        link: https://services.tokenview.com
-        name: TokenView API
-  -
-    type: links
-    title: Node Tools
-    description: These tools make it easy to spin up a cluster of nodes for production deployments or perform data science with public datasets.
-    items:
-      - 
-        key: Bloq Cloud
-        name: Bloq Cloud
-        link: https://bloq.cloud/
-        description: BloqCloud delivers highly-optimized, always available access to blockchain networks. Connect quickly and scale easily based on your needs -- without having to worry about managing infrastructure.
-      - 
-        key: DappNode
-        link: https://dappnode.io/
-        name: DappNode
-        description: DAppNode facilitates running nodes, DApps and hosting P2P networks and economies.
-      - 
-        key: Ethercluster
-        link: https://www.ethercluster.com/
-        name: Ethercluster
-        description: Ethercluster is an open-sourced Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) providing Ethereum Classic (ETC) and Kotti endpoints for free.
-      - 
-        key: GetBlock
-        name: GetBlock
-        link: https://getblock.io
-        description: GetBlock is a service that provides connection for the major cryptocurrencies’ nodes. They support such tools like JSON-RPC, REST, and WebSockets, which facilitates direct synchronization with the blockchain. There is no need to run a node yourself, the platform allows its customers to connect to a blockchain via a full node without having to pay a fee.
-      - 
-        key: Google BigQuery
-        name: Google BigQuery
-        link: https://console.cloud.google.com/marketplace/details/ethereum-classic/crypto-ethereum-classic?filter=solution-type:dataset&q=ethereum%20classic&id=babd6e83-ec5f-4b0a-b44f-64d37710a71d
-        description:  Google Cloud released datasets consisting of the blockchain transaction history for Ethereum Classic, to help you better understand cryptocurrency. Also included a set of queries and views that map all blockchain datasets to a double-entry book data structure that enables multi-chain meta-analyses, as well as integration with conventional financial record processing systems.
-      - 
-        key: Raspberry Pi Node
-        link: https://core-geth.org/setup-on-raspberry-pi
-        name: Raspberry Pi Node
-        description: A detailed guide for how to setup an Ethereum Classic node on a Raspberry Pi.
-      - 
-        key: Rivet Cloud
-        link: https://rivet.cloud/
-        name: RIVET
-        description: Infinitely-scalable, highly-available Ethereum and Ethereum Classic endpoints that truly just work.
-      - 
-        key: QuikNode
-        link: https://quiknode.io/
-        name: QuikNode
-        description: QuikNodes are easy, always on, with a fast internet connection for quick blockchain sync, and you never have to worry about running out of disk space.
+      Core-Geth:
+        __link: https://core-geth.org/
+        __guide: https://core-geth.org/install
+        __release: https://github.com/etclabscore/core-geth/releases
+        __support: https://gitter.im/core-geth/community
+        __supportIcon: fab fa-gitter
+        name: Core-Geth
+        description: Core-Geth is a distribution of go-ethereum with many flavors. This client is Long Term Supported by the ETC Core development team, and is a recommended client from a well-known transparent team.
+      Hyperledger Besu:
+        __link: https://besu.hyperledger.org/
+        __guide: https://besu.hyperledger.org/en/stable/HowTo/Get-Started/Install-Binaries/
+        __release: https://github.com/hyperledger/besu/releases
+        __support: https://chat.hyperledger.org/
+        __supportIcon: fab fa-rocketchat
+        name: Hyperledger Besu
+        description: Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. This client is Long Term Supported by the ChainSafe and ETC Cooperative teams as part of the Hyperledger project with stable funding from Grayscale's Ethereum Classic Trust. This is a recommended client from a well-known transparent team.
+      # Mantis:
+      #   __link: https://mantisclient.io/
+      #   __guide: https://docs.mantisclient.io/first-steps/getting-started
+      #   __release: https://github.com/input-output-hk/mantis/releases
+      #   __support: https://docs.mantisclient.io/resources/faq
+      #   __supportIcon: fab fa-github
+      #   name: Mantis
+      #   description: Mantis comes in two versions, a fully-featured client and a desktop wallet. Mantis has been developed from the ground up and written in Scala for the Ethereum Classic (ETC) network. Created by IOHK to add robustness and variety to the ETC client range, Mantis includes optimizations and upgrades that improve network security, sustainability, and performance in the long term. v3.3.0 is the last Mantis release supported by IOHK which implements the Magneto hard-fork as per ECIP-1103.

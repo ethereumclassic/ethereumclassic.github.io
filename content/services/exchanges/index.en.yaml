@@ -1,0 +1,337 @@
+__contribute: true
+__disclaimer: verify
+updated: 2022-02-22
+title: Exchanges
+seo: A list of centralized and trust-minimized exchanges, DEXs, and payment processors that support ETC
+description: |
+  This page contains a list of services that allow you to purchase or trade ETC.
+
+  ## Non-exhaustive List of Exchanges
+
+  The following exchanges all support Ethereum Classic. They are separated into 3 categories; centralized, trust minimizing, and instant. 
+
+  **Please do your own research on the exchange you choose to source Ethereum Classic. Being listed on this site does not constitute an endorsement of the exchange's services by the Ethereum Classic project.**
+items:
+  Centralized Exchanges:
+    __type: buttons
+    title: Centralized Exchanges
+    items:
+      Altilly:
+        __link: https://www.altilly.com/market/ETC_USDT
+        name: Altilly
+      Bequant:
+        __link: https://bequant.io/exchange/ETC-to-USDT
+        name: Bequant
+      BigONE:
+        __link: https://big.one/trade/ETC-USDT
+        name: BigONE
+      BiKi:
+        __link: https://www.biki.com/zh_CN/trade/ETC_USDT
+        name: BiKi
+      Binance:
+        __link: https://www.binance.com/en/trade/ETC_USDT
+        name: Binance
+      Binance US:
+        __link: https://www.binance.us/en/trade/ETC_USDT
+        name: Binance US
+      BitAsset:
+        __link: https://www.bitasset.com/ktrade/ETC-USDT
+        name: BitAsset
+      Bitbns:
+        __link: https://bitbns.com/trade/#/etc
+        name: Bitbns
+      Bitcoin IRA:
+        __link: https://bitcoinira.com/resources/bitcoin-ethereum-price-charts
+        name: Bitcoin IRA
+      Bitfinex:
+        __link: https://www.bitfinex.com/t/ETC:USD
+        name: Bitfinex
+      Bithumb:
+        __link: https://www.bithumb.com/trade/order/ETC_KRW
+        name: Bithumb
+      BitMart:
+        __link: https://www.bitmart.com/trade/en?symbol=ETC_USDT
+        name: BitMart
+      BitMax:
+        __link: https://bitmax.io/en/cashtrade-spottrading/usdt/etc
+        name: BitMax
+      Bitpanda:
+        __link: https://www.bitpanda.com/en/prices/ethereum-classic
+        name: Bitpanda
+      Bitsonic:
+        __link: https://bitsonic.co.kr/front/en/exchange/etc-krw
+        name: Bitsonic
+      Bitrue:
+        __link: https://www.bitrue.com/trade/etc_usdt
+        name: Bitrue
+      Bittrex:
+        __link: https://bittrex.com/Market/Index?MarketName=USDT-ETC
+        name: Bittrex
+      Bittrex Global:
+        __link: https://global.bittrex.com/Market/Index?MarketName=USDT-ETC
+        name: Bittrex Global
+      Bitvavo:
+        __link: https://account.bitvavo.com/markets/ETC-EUR
+        name: Bitvavo
+      BitZ:
+        __link: https://www.bitz.cm/exchange/etc_usdt
+        name: BitZ
+      BKEX:
+        __link: https://www.bkex.com/trade/ETC_USDT
+        name: BKEX
+      BTC Markets:
+        __link: https://app.btcmarkets.net/buy-sell?market=ETC-AUD
+        name: BTC Markets
+      C2CX:
+        __link: https://www.c2cx.com/trade/USDT_ETC
+        name: C2CX
+      CAT.EX:
+        __link: https://www.catex.io/trading/ETC/USDT
+        name: CAT.EX
+      Coinbase Pro:
+        __link: https://pro.coinbase.com/trade/ETC-USD
+        name: Coinbase Pro
+      Coinbene:
+        __link: https://www.coinbene.com/spot/exchange/ETC_USDT
+        name: Coinbene
+      Coinbit:
+        __link: https://www.coinbit.co.kr/exchange/%C2%B7ETC-KRW
+        name: Coinbit
+      Coineal:
+        __link: https://hk.coineal.com/trade/ETC-USDT
+        name: Coineal
+      CoinEgg:
+        __link: https://trade.coinegg.com/trade/etc_usdt
+        name: CoinEgg
+      CoinEx:
+        __link: https://www.coinex.com/exchange?currency=usdt&dest=etc
+        name: CoinEx
+      CoinLore:
+        __link: https://www.coinlore.com/coin/ethereum-classic
+        name: Coin Lore
+      Coinsbit:
+        __link: https://coinsbit.io/trade/ETC_USD
+        name: Coinsbit
+      CoinTiger:
+        __link: https://www.cointiger.com/en-us/#/trade_pro?coin=etc_usdt
+        name: CoinTiger
+      Coinut:
+        __link: https://coinut.com/spot/ETCUSDT
+        name: Coinut
+      Crex24:
+        __link: https://crex24.com/exchange/ETC-BTC
+        name: Crex24
+      DCoin:
+        __link: https://www.dcoin.com/currencyTrading/ETC_USDT
+        name: DCoin
+      DEX-Trade:
+        __link: https://dex-trade.com/spot/trading/ETCUSDT
+        name: DEX-Trade
+      DigiFinex:
+        __link: https://www.digifinex.com/en-ww/trade/USDT/ETC
+        name: DigiFinex
+      DragonEx:
+        __link: https://dragonex.io/en-us/trade/index/etc-usdt
+        name: DragonEx
+      eToro:
+        __link: https://www.etoro.com/markets/etc/chart
+        name: eToro
+      eToroX:
+        __link: https://www.etorox.com/exchange/etc/
+        name: eToroX
+      EXMO:
+        __link: https://exmo.com/en/trade/ETC_USD
+        name: EXMO
+      EXX:
+        __link: https://www.exx.com/tradeCoding/etc_usdt
+        name: EXX
+      FatBTC:
+        __link: https://www.fatbtc.com/trading?currency=ETC%2FUSDT&freetab=2
+        name: FatBTC
+      Folgory:
+        __link: https://folgory.com/trade-crypto/ETC_USDT
+        name: Folgory
+      FTX:
+        __link: https://ftx.com/trade/ETC-PERP
+        name: FTX
+      Gate:
+        __link: https://www.gate.io/trade/etc_usdt
+        name: Gate
+      HBTC:
+        __link: https://www.hbtc.com/exchange/ETC/USDT
+        name: HBTC
+      HitBTC:
+        __link: https://hitbtc.com/ETC-to-USDT
+        name: HitBTC
+      Hoo:
+        __link: https://hoo.com/spot/etc-usdt
+        name: Hoo
+      HotBit:
+        __link: https://www.hotbit.io/exchange?symbol=ETC_USDT
+        name: HotBit
+      Huobi Global:
+        __link: https://www.huobi.com/en-us/exchange/etc_usdt/
+        name: Huobi Global
+      Huobi Indonesia:
+        __link: https://www.huobi.com.co/exchange/#s=etc_usdt
+        name: Huobi Indonesia
+      Huobi Korea:
+        __link: https://www.huobi.co.kr/en-us/exchange/etc_usdt/
+        name: Huobi Korea
+      Huobi Russia:
+        __link: https://www.huobi.com.ru/exchange/#s=etc_usdt
+        name: Huobi Russia
+      Independent Reserve:
+        __link: https://www.independentreserve.com/market/etc
+        name: Independent Reserve
+      Korbit:
+        __link: https://www.korbit.co.kr/markets/?market=etc-krw
+        name: Korbit
+      Kraken:
+        __link: https://trade.kraken.com/markets/kraken/etc/usd
+        name: Kraken
+      Kucoin:
+        __link: https://trade.kucoin.com/spot/ETC-USDT
+        name: Kucoin
+      LBank:
+        __link: https://www.lbank.info/exchange.html#/etc/usdt
+        name: LBank
+      LiteBit:
+        __link: https://www.litebit.eu/en/buy/ethereumclassic
+        name: LiteBit
+      Mandala:
+        __link: https://trade.mandala.exchange/trade/ETC_USDT
+        name: Mandala
+      MXC:
+        __link: https://www.mxc.com/trade/easy#ETC_USDT
+        name: MXC
+      OceanEx:
+        __link: https://oceanex.pro/en/trades/etcusdt
+        name: OceanEx
+      OKCoin:
+        __link: https://www.okcoin.com/spot/trade#product=etc_usd
+        name: OKCoin
+      OKex:
+        __link: https://www.okex.com/market?product=etc_usdt
+        name: OKex
+      OKex Korea:
+        __link: https://okex.co.kr/kr/view/exchange?coin=ETC&market=BTC
+        name: OKex Korea
+      P2PB2B:
+        __link: https://p2pb2b.io/trade/ETC_USDT
+        name: P2PB2B
+      Poloniex:
+        __link: https://poloniex.com/exchange#usdt_etc
+        name: Poloniex
+      ProBit:
+        __link: https://www.probit.com/app/exchange/ETC-USDT
+        name: ProBit
+      SouthXchange:
+        __link: https://main.southxchange.com/Market/Book/ETC/USD
+        name: SouthXchange
+      STEX:
+        __link: https://app.stex.com/en/basic-trade/pair/BTC/ETC/1D
+        name: STEX
+      Thodex:
+        __link: https://www.thodex.com/tr/market/ETC-TRY
+        name: Thodex
+      TOKOK:
+        __link: https://www.tokok.com/market?symbol=ETC_USDT
+        name: TOKOK
+      Upbit:
+        __link: https://upbit.com/exchange?code=CRIX.UPBIT.USDT-ETC
+        name: Upbit
+      VCC Exchange:
+        __link: https://vcc.exchange/exchange/basic?currency=usdt&coin=etc
+        name: VCC Exchange
+      WazirX:
+        __link: https://wazirx.com/exchange/ETC-USDT
+        name: WazirX
+      WhiteBIT:
+        __link: https://whitebit.com/trade/ETC_USDT
+        name: WhiteBIT
+      YoBit:
+        __link: https://yobit.net/en/trade/ETC/USD
+        name: YoBit
+      YunEx:
+        __link: https://yunex.io/trade/etc_usdt
+        name: YunEx
+      ZB:
+        __link: https://www.zb.com/en/kline/etc_usdt
+        name: ZB
+      ZBG:
+        __link: https://www.zbg.com/trade/etc_usdt
+        name: ZBG
+  Trust-Minimizing Exchange:
+    __type: buttons
+    title: Trust-Minimizing Exchange
+    description: The following exchanges may not be *fully* decentralized exchanges, but operate in a less centralization manner than the list above.
+    items:
+      Bisq:
+        __link: https://bisq.network/markets/?currency=etc_btc
+        name: Bisq
+      Saturn Network:
+        __link: https://www.saturn.network/exchange/ethereum-classic
+        name: Saturn Network
+  Instant Exchanges:
+    __type: buttons
+    title: Instant Exchanges
+    description: "*Note:* Instant Exchanges typically offer worse rates than Centralized Exchanges."
+    items:
+      ABRA:
+        __link: https://www.abra.com/
+        name: ABRA
+      AtomicWallet:
+        __link: https://atomicwallet.io
+        name: AtomicWallet
+      Bitni:
+        __link: https://bitni.com/
+        name: Bitni
+      BitTorro:
+        __link: https://bittorro.io/
+        name: BitTorro
+      ChangeAngel:
+        __link: https://www.changeangel.io/
+        name: ChangeAngel
+      ChangeNOW:
+        __link: https://changenow.io/
+        name: ChangeNOW
+      Coinveer:
+        __link: https://coinveer.com/
+        name: Coinveer
+      Evercoin:
+        __link: https://evercoin.com
+        name: Evercoin
+      Exodus:
+        __link: https://www.exodus.io/
+        name: Exodus
+      Exolix:
+        __link: https://exolix.com/
+        name: Exolix
+      FixedFloat:
+        __link: https://fixedfloat.com/
+        name: FixedFloat
+      SimpleSwap:
+        __link: https://simpleswap.io/coins/ethereum-classic
+        name: SimpleSwap
+      StealthEx:
+        __link: https://stealthex.io/
+        name: StealthEx
+      SwapSpace:
+        name: SwapSpace
+        __link: https://swapspace.co/?from=etc&to=btc&amount=1
+      SwapSwop:
+        __link: https://swapswop.io/
+        name: SwapSwop
+      Swapzone:
+        __link: https://swapzone.io/?to=btc&from=etc
+        name: Swapzone
+      Switchain:
+        __link: https://www.switchain.com
+        name: Switchain
+      Voyager:
+        __link: https://www.investvoyager.com/blog/how-to-buy-ethereum-classic/
+        name: Voyager
+      XChange:
+        __link: https://www.xchange.me/
+        name: XChange
