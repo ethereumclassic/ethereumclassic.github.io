@@ -26,9 +26,13 @@ tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 * The opposition to ECIP-1049 has provided the new champion material criticism of ECIP-1049 to address during the champion's material redraft of the proposal.
 * The proposal will be reviewed at a later date for [ECIP-1000](https://ecips.ethereumclassic.org/ECIPs/ecip-1000) compliance. Should compliance not be met, this proposal will move to Rejected status. Note: the Champion can always revive a Rejected proposal when [ECIP-1000](https://ecips.ethereumclassic.org/ECIPs/ecip-1000) compliance is met.
 
+Note: This ECIP appears to be contentious (as documented in all the previous threads/recordings) and has a high-probability of a chain split between the Mining Ecosystem on ETCHash (GPUs and ETChash ASICs) and proposed new mining ecosystem on Keccak256 (FPGA & KEC ASICs).
+
+![ETC Core Devs Call 22 - Proposed Rejection of Keccak256 ECIP-1049](./etchash-vs-keccak256.png)
+
 ### New Proposal Champion:
 
-Given the new champion is active, Bob Summerwill is provided time to update the ECIP-1049 proposal to be [ECIP-1000](https://ecips.ethereumclassic.org/ECIPs/ecip-1000) compliant. This was recommended in September, 2020 to the previous champion after Core Developers Call 15, but did not happen. The hope is with a new champion we will see compliance with the ECIP process.
+Given the new champion is active, Bob Summerwill is provided time to update the ECIP-1049 proposal to be [ECIP-1000](https://ecips.ethereumclassic.org/ECIPs/ecip-1000) compliant. This was recommended in October, 2020 to the previous champion after Core Developers Call 15, but did not happen. The hope is with a new champion we will see compliance with the ECIP process.
 
 * [ETC Core Devs Call 15 - ECIP-1049 Breakout Session Keccak-256](https://vimeo.com/464336957)
 
@@ -38,16 +42,18 @@ Some comments from Bob Summerwill on the undocumented technical work from his st
 * The transition is where more client work is needed (ie. having a Testnet which goes through the transition versus being Keccak256 from Genesis). More work needed on mining side software too.
 * So not tons left to do, but probably needs a couple of months of focus to do it right. Note - this is the technical work.
 * Roll out via testnets, all the social layer etc etc is more time again, of course.
-* I was asked where June (2022) was feasible (end to end).  I think that is a pretty clear not really possible.
+* I was asked where June, 2022 was feasible (end to end).  I think that is a pretty clear *not* really possible.
 
 Here is the open PR to move 1049 to Rejected status if the new champion does NOT bring the ECIP-1049 proposal up to [ECIP-1000](https://ecips.ethereumclassic.org/ECIPs/ecip-1000) standards:
-[Rejected Status ecip-1049](https://github.com/ethereumclassic/ECIPs/pull/465)
+
+* [Rejected Status ecip-1049](https://github.com/ethereumclassic/ECIPs/pull/465)
 
 Thanks for everyone's participation. Please direct future commentary to the newest ECIP 1049 discussion thread. However, please review the historical threads. There has been plenty of technical discussion on this matter over the years.
 
-### Please review the issue thread to find the most up to date information.
-
 ### Related Discussions:
+
+Please review the issue thread to find the most up to date information.
+
 * 1. [ECIP-1049: Change the ETC Proof of Work Algorithm to Keccak256 #8](https://github.com/ethereumclassic/ECIPs/issues/8)
 * 2. [ECIP-1049: Change the ETC Proof of Work Algorithm to Keccak-256 #13](https://github.com/ethereumclassic/ECIPs/issues/13)
 * 3. [ETC Core Devs Call(s) 2020 Q3: Hardfork #333](https://github.com/ethereumclassic/ECIPs/issues/333)
@@ -68,10 +74,6 @@ Thanks for everyone's participation. Please direct future commentary to the newe
 * 18. [Community Call 013 Recording](https://www.youtube.com/watch?v=HQ9IKu3PVkA)
 * 19. [ETC Core Devs Call 22: Proposed Rejection of ECIP-1049 #460](https://github.com/ethereumclassic/ECIPs/issues/460)
 * 20. [Rejected Status ecip-1049 #465](https://github.com/ethereumclassic/ECIPs/issues/465)
-
-### It should be noted in this new discussion thread, this ECIP appears to be contentious (as documented in all the previous threads/recordings) and has a high-probability of a chain split between the GPU Miners on ETCHash and the FPGA & ASIC miners on Keccak256.
-
-![ETC Core Devs Call 22 - Proposed Rejection of Keccak256 ECIP-1049](./etchash-vs-keccak256.png)
 
 ### Recording of Ethereum Classic Core Devs Call 22 - Proposed Rejection of Keccak256 ECIP-1049
 
