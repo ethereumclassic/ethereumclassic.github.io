@@ -10,11 +10,11 @@ tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ## ETC Core Devs Call 22 - Proposed Rejection of Keccak256 ECIP-1049 Call Results
 
 * [https://github.com/ethereumclassic/ECIPs/issues/465](https://github.com/ethereumclassic/ECIPs/issues/465)
-* CDC 22 Video: https://www.youtube.com/watch?v=lpdZgsAbPXo
+* ETC Core Devs Call 22 Recording: [https://www.youtube.com/watch?v=lpdZgsAbPXo](https://www.youtube.com/watch?v=lpdZgsAbPXo).
 
 ### ETC Core Devs Call 22: Conclusion
 
-* A new ECIP-1049 Champion was selected in Bob Summerwill. The old champion, Alexander Tsankov has stepped down from the proposal stating he is too busy to champion this prooposal.
+* A new ECIP-1049 Champion was selected in Bob Summerwill. The old champion, Alexander Tsankov has stepped down from the proposal stating he is too busy to champion this proposal.
 * It was agreed by the ECIP Editor r0n1n and the new Champion of ECIP-1049, Bob Summerwill, that the ECIP-1049 proposal needs a material rewrite to meet [ECIP-1000](https://ecips.ethereumclassic.org/ECIPs/ecip-1000) compliance and remain in Draft status.
 * The new Champion vocalized intent to bring the ECIP-1049 proposal up to [ECIP-1000](https://ecips.ethereumclassic.org/ECIPs/ecip-1000) standards within the coming months during 2022.
 * The ECIP Editor and others on the call felt it was reasonable to afford the new champion time to clean up the ECIP-1049 proposal, as it was vocalized that undocumented technical work has been done by the champion's paid staff.
@@ -75,7 +75,7 @@ Thanks for everyone's participation. Please direct future commentary to the newe
 
 ### Recording of Ethereum Classic Core Devs Call 22 - Proposed Rejection of Keccak256 ECIP-1049
 
-* Video: https://www.youtube.com/watch?v=lpdZgsAbPXo
+* ETC Core Devs Call 22: https://www.youtube.com/watch?v=lpdZgsAbPXo Note: Issues with the ETC Discord server audio was reported by numerous call participants and observed on the recording. This led to talking over/interruptions during the call. Apologies to those listening after the fact from the organizer of the call and the third-party community member who recorded the call. Future CDC calls will be held on a platform with hand raising and the ability to mute interrupting parties during the call.
 
 * [Thread 394](https://github.com/ethereumclassic/ECIPs/issues/394)
 
