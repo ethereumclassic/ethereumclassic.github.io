@@ -28,6 +28,21 @@
 #
 ### END APP TEMPLATE
 #
+- title: MoonLama
+  date: 2022-02-23
+  type: nfts
+  image: ./images/moonlama.jpg
+  description: MoonLama NFT are cute creatures that live in the moon on ETC Network. They struggle with the forces of nature every day. They are trying to survive there.
+  links:
+    - name: Launch App
+      link: https://moonlama.com/
+    - name: Twitter
+      link: https://twitter.com/MoonLamaNFT
+      icon: twitter
+    - name: Discord
+      link: https://discord.gg/kV37UnTcyA
+      icon: discord
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0xd97569E5Fa27F9Ea8fa031fb563a2542A542510e/contracts
 - title: HENS
   date: 2022-02-21
   type: identity
