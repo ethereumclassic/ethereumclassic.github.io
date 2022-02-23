@@ -1,6 +1,6 @@
 ---
 title: "ETC Core Devs Call 22: Proposed Rejection of Keccak256 ECIP-1049 Call Results"
-date: 2022-02-22
+date: 2022-02-23
 author: r0n1n
 tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ---
