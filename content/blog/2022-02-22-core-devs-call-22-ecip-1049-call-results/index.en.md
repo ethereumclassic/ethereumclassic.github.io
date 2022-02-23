@@ -10,11 +10,10 @@ tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ## ETC Core Devs Call 22 - Proposed Rejection of Keccak256 ECIP-1049 Call Results
 
 * [https://github.com/ethereumclassic/ECIPs/issues/465](https://github.com/ethereumclassic/ECIPs/issues/465)
-* Video: https://www.youtube.com/watch?v=lpdZgsAbPXo
+* CDC 22 Video: https://www.youtube.com/watch?v=lpdZgsAbPXo
 
-### Conclusion
+### ETC Core Devs Call 22: Conclusion
 
-Productive Topics from this call:
 * A new ECIP-1049 Champion was selected in Bob Summerwill. The old champion, Alexander Tsankov has stepped down from the proposal stating he is too busy to champion this prooposal.
 * It was agreed by the ECIP Editor r0n1n and the new Champion of ECIP-1049, Bob Summerwill, that the ECIP-1049 proposal needs a material rewrite to meet [ECIP-1000](https://ecips.ethereumclassic.org/ECIPs/ecip-1000) compliance and remain in Draft status.
 * The new Champion vocalized intent to bring the ECIP-1049 proposal up to [ECIP-1000](https://ecips.ethereumclassic.org/ECIPs/ecip-1000) standards within the coming months during 2022.
@@ -27,12 +26,14 @@ Productive Topics from this call:
 * The opposition to ECIP-1049 has provided the new champion material criticism of ECIP1-1049 to address during his redraft of the proposal.
 * The proposal will be reviewed at a later date for [ECIP-1000](https://ecips.ethereumclassic.org/ECIPs/ecip-1000) compliance. Should compliance not be met, this proposal will move to Rejected status. Note: the Champion can always revive a Rejected proposal when [ECIP-1000](https://ecips.ethereumclassic.org/ECIPs/ecip-1000) compliance is met.
 
-New Proposal Champion:
+### New Proposal Champion:
+
 Given the new champion is active, Bob Summerwill is provided time to update the ECIP-1049 proposal to be [ECIP-1000](https://ecips.ethereumclassic.org/ECIPs/ecip-1000) compliant. This was recommended in September, 2020 to the previous champion after Core Developers Call 15, but did not happen. The hope is with a new champion we will see compliance with the ECIP process.
+
 * [ETC Core Devs Call 15 - ECIP-1049 Breakout Session Keccak-256](https://vimeo.com/464336957)
 
-Notes from the Proposals New Champion:
 Some comments from Bob Summerwill on the undocumented technical work from his staff:
+
 * Support for Astor already integrated in Besu. There is a pull request for core-Geth (and blocks successfully mined on Astor), but some rearchitecting needed to make that clean enough to integrate.
 * The transition is where more client work is needed (ie. having a Testnet which goes through the transition versus being Keccak256 from Genesis). More work needed on mining side software too.
 * So not tons left to do, but probably needs a couple of months of focus to do it right. Note - this is the technical work.
@@ -42,7 +43,7 @@ Some comments from Bob Summerwill on the undocumented technical work from his st
 Here is the open PR to move 1049 to Rejected status if the new champion does NOT bring the ECIP-1049 proposal up to [ECIP-1000](https://ecips.ethereumclassic.org/ECIPs/ecip-1000) standards:
 [Rejected Status ecip-1049](https://github.com/ethereumclassic/ECIPs/pull/465)
 
-Thanks for everyone's participation. Please direct future commentary to the newest ECIP 1049 discussion thread. However, please review the historical threads. There is plenty of technical discussion.
+Thanks for everyone's participation. Please direct future commentary to the newest ECIP 1049 discussion thread. However, please review the historical threads. There has been plenty of technical discussion on this matter over the years.
 
 ### Please review the issue thread to find the most up to date information.
 
