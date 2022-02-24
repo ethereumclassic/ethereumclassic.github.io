@@ -28,6 +28,38 @@
 #
 ### END APP TEMPLATE
 #
+- title: ETC Bit Pixel
+  date: 2022-02-23
+  type: nfts
+  image: ./images/etcbitpixel.jpg
+  description: ETC BIT PIXEL 8-bit pixel art NFT, The first Metaverse game on Ethereum Classic Blockchain. All NFTs will be converted to 3d models and there is a chance for all owners to use their 3D Model in Metaverse game and create a 3D video for themselves without any concern about creating characters.
+  links:
+    - name: Launch App
+      link: https://etcbitpixel.com/
+    - name: Twitter
+      link: https://twitter.com/etcbitpixel
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/etcbitpixel
+      icon: telegram
+    - name: Discord
+      link: https://discord.gg/8FzhbKBCyb
+      icon: discord
+- title: MoonLama
+  date: 2022-02-23
+  type: nfts
+  image: ./images/moonlama.jpg
+  description: MoonLama NFT are cute creatures that live in the moon on ETC Network. They struggle with the forces of nature every day. They are trying to survive there.
+  links:
+    - name: Launch App
+      link: https://moonlama.com/
+    - name: Twitter
+      link: https://twitter.com/MoonLamaNFT
+      icon: twitter
+    - name: Discord
+      link: https://discord.gg/kV37UnTcyA
+      icon: discord
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0xd97569E5Fa27F9Ea8fa031fb563a2542A542510e/contracts
 - title: HENS
   date: 2022-02-21
   type: identity
