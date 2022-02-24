@@ -20,6 +20,7 @@ module.exports = {
   plugins: [
     // "gatsby-plugin-perf-budgets",
     // "gatsby-plugin-webpack-bundle-analyser-v2",
+    "gatsby-plugin-netlify",
     "gatsby-plugin-image",
     "gatsby-transformer-sharp",
     "gatsby-plugin-sharp",
@@ -51,7 +52,7 @@ module.exports = {
       }),
     },
     ...[
-      process.env.ALGOLIA_ADMIN_KEY && {
+      process.env.ALGOLIA_APP_ID && {
         resolve: "gatsby-plugin-algolia",
         options: require("./configs/search"),
       },

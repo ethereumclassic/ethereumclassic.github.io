@@ -15,7 +15,7 @@ const getInitialTheme = () => {
   if (typeof storedPrefs === "string") {
     return storedPrefs;
   }
-  // LODO get this to work
+  // TODO get this to work all the time
   // set dark mode automatically if user is in dark modde
   if (typeof window !== "undefined") {
     const userMedia = window.matchMedia("(prefers-color-scheme: dark)");

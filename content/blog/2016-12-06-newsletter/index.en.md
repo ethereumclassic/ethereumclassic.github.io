@@ -25,7 +25,7 @@ Hi everyone, thank you for checking out this week's ETC newsletter! Big shout ou
 ## The Grothendieck Team
 IOHK is nearly finished with its vetting and onboarding process for the development team known as the "Grothendieck Team". The team has been named after Alexander Grothendieck, a German-born French mathematician who became the leading figure in the creation of modern algebraic geometry. They have been committed to Ethereum Classic by IOHK in order to build a Scala client for ETC based on IOHK's Scorex framework. An official announcement featuring the teams, background, past/current work experience, and bio will be posted in various channels. Plans are in place to bring the team on "Let's Talk ETC!" to discuss the roadmap and development timeframe for ETC in 2017, after they have had the chance to review all relevant ETC documentation properly. Links to the IOHK website, Scorex github, Let's Talk ETC youtube channel and ETC blog are posted below.
 
-* [www.iohk.io](www.iohk.io) 
+* [www.iohk.io](https://www.iohk.io) 
 * https://github.com/ScorexFoundation/Scorex
 * https://www.youtube.com/channel/UCojbn_iTgg4BxcSphz0MGMg
 * https://ethereumclassic.github.io/blog/2016-07-27-getting-things-done/
