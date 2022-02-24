@@ -10,9 +10,6 @@
   package = "@netlify/plugin-gatsby"
 
 [[plugins]]
-  package = "netlify-plugin-subfont"
-
-[[plugins]]
   package = "@algolia/netlify-plugin-crawler"
     [plugins.inputs]
     branches = ['master']

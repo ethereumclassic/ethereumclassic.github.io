@@ -52,7 +52,7 @@ module.exports = {
       }),
     },
     ...[
-      process.env.ALGOLIA_ADMIN_KEY && {
+      process.env.ALGOLIA_APP_ID && {
         resolve: "gatsby-plugin-algolia",
         options: require("./configs/search"),
       },
