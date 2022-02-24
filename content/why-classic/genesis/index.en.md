@@ -189,7 +189,7 @@ Ironically, at the same time this witc hunt from was underway, The DAO's own web
 > We, as a DAO, ascribe to the following values:  
 > \- Privacy and the right to anonymity
 >
-> - [The DAO Website](web.archive.org/web/20160622212427/https://daohub.org/manifesto.html)
+> - [The DAO Website](https://web.archive.org/web/20160622212427/https://daohub.org/manifesto.html)
 
 By now, the Hard Fork Debate resembled a no-holds-barred religious crusade rather than a healthy discussion about what was in the best interest of the Ethereum project; but perhaps it was never about that to begin with.
 

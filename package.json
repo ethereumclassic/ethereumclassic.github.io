@@ -33,6 +33,7 @@
     "gatsby-plugin-feed": "^4.3.0",
     "gatsby-plugin-image": "^2.3.0",
     "gatsby-plugin-mdx": "^3.3.0",
+    "gatsby-plugin-netlify": "^4.1.0",
     "gatsby-plugin-nprogress": "^4.3.0",
     "gatsby-plugin-perf-budgets": "^0.0.18",
     "gatsby-plugin-react-helmet": "^5.3.0",
