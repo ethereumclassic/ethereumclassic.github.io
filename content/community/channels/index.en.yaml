@@ -118,7 +118,7 @@ items:
         __icon: telegram
         name: Arabic
       telegram China:
-        __link: https://t.me/etczh
+        __link: https://t.me/chinaetc
         __icon: telegram
         name: China
       telegram English 1:
