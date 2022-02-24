@@ -7,9 +7,6 @@
   ALGOLIA_MAIN_INDEX = "netlify_033cc5a8-1836-409b-bcfe-90e50346fa18_master_all"
 
 [[plugins]]
-  package = "netlify-plugin-checklinks"
-
-[[plugins]]
   package = "@netlify/plugin-gatsby"
 
 [[plugins]]
