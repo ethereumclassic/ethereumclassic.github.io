@@ -117,12 +117,16 @@ items:
         __link: https://t.me/EtherClassic_Ar
         __icon: telegram
         name: Arabic
-      telegram China:
+      telegram China 1:
         __link: https://t.me/etczh
         __icon: telegram
         name: China
+      telegram China 2:
+        __link: https://t.me/chinaetc
+        __icon: telegram
+        name: China
       telegram English 1:
-        __link: https://telegram.me/ethclassic
+        __link: https://t.me/ethclassic
         __icon: telegram
         name: English
       telegram English 2:
@@ -146,11 +150,11 @@ items:
         __icon: telegram
         name: Japan
       telegram Russia 1:
-        __link: https://telegram.me/etcrussia
+        __link: https://t.me/etcrussia
         __icon: telegram
         name: Russia
       telegram Russia 2:
-        __link: https://telegram.me/etcru
+        __link: https://t.me/etcru
         __icon: telegram
         name: Russia
       telegram Viet Nam:
