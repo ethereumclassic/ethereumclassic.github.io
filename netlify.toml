@@ -1,13 +1,25 @@
 [build]
   publish = "public"
+
 [build.environment] 
   ALGOLIA_APP_ID = "YEB4B53LGA"
   ALGOLIA_SEARCH_KEY = "51ca7167d391ff11f246ac45c63e3dc7"
   ALGOLIA_MAIN_INDEX = "netlify_033cc5a8-1836-409b-bcfe-90e50346fa18_master_all"
+
+[[plugins]]
+  package = "netlify-plugin-checklinks"
+
+[[plugins]]
+  package = "@netlify/plugin-gatsby"
+
+[[plugins]]
+  package = "netlify-plugin-subfont"
+
 [[plugins]]
   package = "@algolia/netlify-plugin-crawler"
     [plugins.inputs]
     branches = ['master']
+
 # These redirects will be used by Netlify as well as the client to replace link addresses
 # 2019 Redirects
 [[redirects]]
@@ -34,6 +46,7 @@
 [[redirects]]
   from = "/blog/2017-01-17-newsletter"
   to = "/blog/2017-01-17-die-hard-fork-upgrade"
+
 # 2021 Redirects
 [[redirects]]
   from = "/development/contribute"
