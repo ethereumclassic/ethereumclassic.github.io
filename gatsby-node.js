@@ -5,7 +5,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       id: String!
       date: Date!
       locale: String!
-      author: String!
+      author: String
       source: String
       link: String!
       title: String!
