@@ -26,7 +26,7 @@ tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 * The opposition to ECIP-1049 has provided the new champion material criticism of ECIP-1049 to address during the champion's material redraft of the proposal.
 * The proposal will be reviewed at a later date for [ECIP-1000](https://ecips.ethereumclassic.org/ECIPs/ecip-1000) compliance. Should compliance not be met, this proposal will move to Rejected status. Note: the Champion can always revive a Rejected proposal when [ECIP-1000](https://ecips.ethereumclassic.org/ECIPs/ecip-1000) compliance is met.
 
-Note: This ECIP appears to be contentious (as documented in all the previous threads/recordings) and has a high-probability of a chain split between the Mining Ecosystem on ETCHash (GPUs and ETChash ASICs) and proposed new mining ecosystem on Keccak256 (FPGA & KEC ASICs).
+Note: This ECIP appears to be contentious, as documented in all the previous threads and recordings. This proposal has a high-probability of a chain split between the Mining Ecosystem on ETCHash (GPUs and ETChash ASICs) and the proposed new mining ecosystem on Keccak256 (FPGA & KEC ASICs).
 
 ![ETC Core Devs Call 22 - Proposed Rejection of Keccak256 ECIP-1049](./etchash-vs-keccak256.png)
 
@@ -65,19 +65,19 @@ Please review the issue thread to find the most up to date information.
 * 9. [2020 Document: Change the ETC Proof of Work Algorithm to Keccak-256 #394](https://github.com/ethereumclassic/ECIPs/issues/394)
 * 10. [Admin Clean Up on ecip-1049](https://github.com/ethereumclassic/ECIPs/pull/400)
 * 11. [Core Devs Call 19 Recording](https://www.youtube.com/watch?v=WySNxZbDEkQ)
-* 12. [Community Call 005 Recording](https://www.youtube.com/watch?v=HaDANZN-ZUU&t=1586s)
-* 13. [Community Call 010 Recording](https://www.youtube.com/watch?v=6DRZEaKkpb4)
-* 14. [Community Call 005 Recording](https://youtu.be/HaDANZN-ZUU?t=1585)
-* 15. [Community Call 010 Recording](https://youtu.be/6DRZEaKkpb4?t=3411)
-* 16. [Community Call 011 Recording](https://www.youtube.com/watch?v=ad_grFagA5k)
-* 17. [Community Call 012 Recording](https://youtu.be/GCBv1VCN2tE?t=3339)
-* 18. [Community Call 013 Recording](https://www.youtube.com/watch?v=HQ9IKu3PVkA)
-* 19. [ETC Core Devs Call 22: Proposed Rejection of ECIP-1049 #460](https://github.com/ethereumclassic/ECIPs/issues/460)
-* 20. [Rejected Status ecip-1049 #465](https://github.com/ethereumclassic/ECIPs/issues/465)
+* 12. [Community Call 005 Recording](https://youtu.be/HaDANZN-ZUU?t=1585)
+* 13. [Community Call 010 Recording](https://youtu.be/6DRZEaKkpb4?t=3411)
+* 14. [Community Call 011 Recording](https://www.youtube.com/watch?v=ad_grFagA5k)
+* 15. [Community Call 012 Recording](https://youtu.be/GCBv1VCN2tE?t=3339)
+* 16. [Community Call 013 Recording](https://www.youtube.com/watch?v=HQ9IKu3PVkA)
+* 17. [ETC Core Devs Call 22: Proposed Rejection of ECIP-1049 #460](https://github.com/ethereumclassic/ECIPs/issues/460)
+* 18. [Rejected Status ecip-1049 #465](https://github.com/ethereumclassic/ECIPs/issues/465)
 
 ### Recording of Ethereum Classic Core Devs Call 22 - Proposed Rejection of Keccak256 ECIP-1049
 
-* ETC Core Devs Call 22: https://www.youtube.com/watch?v=lpdZgsAbPXo Note: Issues with the ETC Discord server audio was reported by numerous call participants and observed on the recording. This led to talking over/interruptions during the call. Apologies to those listening after the fact from the organizer of the call and the third-party community member who recorded the call. Future CDC calls will be held on a platform with hand raising and the ability to mute interrupting parties during the call.
+* ETC Core Devs Call 22: https://www.youtube.com/watch?v=lpdZgsAbPXo
+
+Note: Issues with the ETC Discord server audio was reported by numerous call participants and observed on the recording. This led to talking over/interruptions during the call. Apologies to those listening after the fact from the organizer of the call and the third-party community member who recorded the call. Future CDC calls will be held on a platform with hand raising and the ability to mute interrupting parties during the call.
 
 * [Thread 394](https://github.com/ethereumclassic/ECIPs/issues/394)
 
