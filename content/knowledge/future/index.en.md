@@ -52,7 +52,7 @@ Ethereum™ mainnet chain, although experiencing some minor delays, is looking i
 
 The migration of miners from ETC to ETH is likely to bring a new wave of interest to the Ethereum Classic ecosystem, will increase the security of the network, and is very likely to accelerate adoption and network value.
 
-Additionally, if there are any short term problems during or after "The Merge", perhaps due to [unforeseen](/why-classic/decentralization) Game Theory problems or protocol exploits due to additional complexity, Ethereum Classic will be ready and waiting to provide a fallback chain that remains on the tried and true Ethereum protocol of today. In the long term, the move to Proof of Stake is likely to result in further centralization of Ethereum mainnet, which makes it vulnerable to other kinds of social attacks, which again, ETC will remain immune to.
+Additionally, if there are any short term problems during or after "The Merge", perhaps due to unforeseen game theory problems or protocol exploits due to additional complexity, Ethereum Classic will be ready and waiting to provide a fallback chain that remains on the tried and true Ethereum protocol of today. In the long term, the move to Proof of Stake is likely to result in further centralization of Ethereum mainnet, which makes it vulnerable to other kinds of social attacks, which again, ETC will remain immune to.
 
 ### SHA3
 

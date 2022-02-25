@@ -7,7 +7,7 @@
 # This title appears in browser tab / window
 title: Ethereum Classic
 #  A short description that appears in google searches
-description: "A decentralized computing platform that runs smart contracts: applications that run exactly as programmed without downtime, censorship or third party interference"
+seo: "A decentralized computing platform that runs smart contracts: applications that run exactly as programmed without downtime, censorship or third party interference"
 #  Date format used to display dates globally
 dateFormat: YYYY.MM.DD
 #  Used by og:locale meta tag [info](https://kb.yoast.com/kb/changing-the-og-locale-output/)
@@ -45,7 +45,7 @@ noResults: No Results
 ##
 announcement:
   __color: green
-  __enabled: true
+  __enabled: false
   __landingOnly: true
   __icon: bullhorn
   text: |

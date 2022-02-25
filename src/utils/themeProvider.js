@@ -5,9 +5,7 @@ import localStorage from "./localStorage";
 const ThemeContext = createContext();
 
 function useTheme() {
-  const theme = useContext(ThemeContext) || {};
-  theme.isDark = theme.theme === "dark";
-  return theme;
+  return useContext(ThemeContext) || {};
 }
 
 const getInitialTheme = () => {
@@ -15,7 +13,6 @@ const getInitialTheme = () => {
   if (typeof storedPrefs === "string") {
     return storedPrefs;
   }
-  // TODO get this to work all the time
   // set dark mode automatically if user is in dark modde
   if (typeof window !== "undefined") {
     const userMedia = window.matchMedia("(prefers-color-scheme: dark)");
@@ -27,21 +24,20 @@ const getInitialTheme = () => {
 };
 
 function ThemeProvider({ children }) {
-  const [theme, setTheme] = React.useState(getInitialTheme);
-  const rawSetTheme = (theme) => {
-    const root = window.document.documentElement;
-    const isDark = theme === "dark";
-    root.classList.remove(isDark ? "light" : "dark");
-    root.classList.add(theme);
-    localStorage.setItem("color-theme", theme);
-  };
+  const initialTheme = getInitialTheme();
+  const [theme, setTheme] = React.useState(initialTheme);
 
   React.useEffect(() => {
-    rawSetTheme(theme);
+    const root = window.document.documentElement;
+    root.classList.remove(theme === "dark" ? "light" : "dark");
+    root.classList.add(theme);
+    localStorage.setItem("color-theme", theme);
   }, [theme]);
 
+  const isDark = theme === "dark";
+
   return (
-    <ThemeContext.Provider value={{ theme, setTheme }}>
+    <ThemeContext.Provider value={{ theme, setTheme, isDark }}>
       <GlobalStyles />
       {children}
     </ThemeContext.Provider>

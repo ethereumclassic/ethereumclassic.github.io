@@ -30,6 +30,7 @@ export default function Seo({ data, i18n, path, pageContext: { basePath } }) {
     i18n.seo,
     i18n.description,
     data?.mdx?.excerpt,
+    ui.seo,
     ui.description,
   ]
     .find((i) => i)

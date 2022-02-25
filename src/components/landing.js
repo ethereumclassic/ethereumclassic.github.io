@@ -28,6 +28,7 @@ export default function Landing({
           <div tw="space-y-8 text-center">
             <StaticImage
               tw="rounded-lg shadow-2xl"
+              alt={""}
               src="../images/foundation.png"
             />
             {intro.button && (
