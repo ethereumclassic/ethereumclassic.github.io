@@ -75,7 +75,9 @@ Please review the issue thread to find the most up to date information.
 
 ### Recording of Ethereum Classic Core Devs Call 22 - Proposed Rejection of Keccak256 ECIP-1049
 
-* ETC Core Devs Call 22: https://www.youtube.com/watch?v=lpdZgsAbPXo Note: Issues with the ETC Discord server audio was reported by numerous call participants and observed on the recording. This led to talking over/interruptions during the call. Apologies to those listening after the fact from the organizer of the call and the third-party community member who recorded the call. Future CDC calls will be held on a platform with hand raising and the ability to mute interrupting parties during the call.
+* ETC Core Devs Call 22: https://www.youtube.com/watch?v=lpdZgsAbPXo
+
+Note: Issues with the ETC Discord server audio was reported by numerous call participants and observed on the recording. This led to talking over/interruptions during the call. Apologies to those listening after the fact from the organizer of the call and the third-party community member who recorded the call. Future CDC calls will be held on a platform with hand raising and the ability to mute interrupting parties during the call.
 
 * [Thread 394](https://github.com/ethereumclassic/ECIPs/issues/394)
 
