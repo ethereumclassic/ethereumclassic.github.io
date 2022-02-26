@@ -1,4 +1,3 @@
-import { Link } from "gatsby";
 import React, { useState } from "react";
 import tw from "twin.macro";
 import {
@@ -9,6 +8,7 @@ import useLocaleItems from "../utils/useLocaleItems";
 import Button from "./button";
 import ContentHeader from "./contentHeader";
 
+import Link from "./link";
 import TwContainer from "./twContainer";
 
 function Branch({
@@ -157,14 +157,9 @@ export default function Sitemap({
             ))}
         </div>
         <div>
-          <Button
-            secondary
-            icon="sitemap"
-            as={"a"}
-            href="/sitemap/sitemap-0.xml"
-          >
+          <Link button secondary icon="sitemap" to="/sitemap-0.xml">
             sitemap.xml
-          </Button>
+          </Link>
         </div>
       </div>
       <Branch

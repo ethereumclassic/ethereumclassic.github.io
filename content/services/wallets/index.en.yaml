@@ -2,7 +2,7 @@ __contribute: true
 updated: 2022-02-22
 __disclaimer: verify
 title: Wallets
-seo: A source of web wallets, extensions, software wallets, hardware wallets, and other ways to secure ETC
+seo: A source of web wallets, extensions, software wallets, hardware wallets, and other ways to secure ETC.
 description: There are many options of wallets to choose from to secure and use ETC. Each option gives a different balance between security and convenience. Please research the best option depending on your requirements.
 items:
   web:

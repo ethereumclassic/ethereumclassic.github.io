@@ -2,7 +2,7 @@
 title: Why Ethereum Classic?
 updated: 2022-02-22
 showNext: true
-seo: Ethereum Classic's reason for being including its Genesis, mission of Decentralization and the bright future it enables thanks to Code is Law
+seo: Ethereum Classic's reason for being including its Genesis, mission of Decentralization and the bright future it enables thanks to Code is Law.
 disclaimer: opinion
 info: "**Note:** In the following sections, *Ethereum™* refers to the post DAO Fork [Ethereum Foundation](https://ethereum.org) Mainnet Chain, not to be confused with the Ethereum *protocol*, which is utilized by many blockchain projects including Ethereum Classic."
 ---
