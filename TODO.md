@@ -4,6 +4,7 @@
 TODO NEXT
 
 CONTENT
+- Add images and prefixes to RSS
 - Ensure correct contributors for each piece of content (git blame)
 - can you promote the community calls on the homepage?; Add weekly community calls announcements
 

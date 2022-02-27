@@ -9,7 +9,7 @@ module.exports = {
   flags: {
     PRESERVE_FILE_DOWNLOAD_CACHE: true,
     FAST_DEV: true,
-    PARALLEL_SOURCING: true,
+    // PARALLEL_SOURCING: true,
   },
   siteMetadata: {
     siteUrl,
