@@ -13,12 +13,18 @@
 #
 ### END VIDEO TEMPALTE
 #
-- title: "Blockchain Course Part 1 - History of Bitcoin and Ethereum"
+- title: "Blockchain Course Part 1: History (Bitcoin and Ethereum)"
   date: 2022-02-28
-  youtube: C9RPHXS_7K0
-  tags: ["explainer"]
   author: Donald McIntyre
   authorYoutube: UCRlAmF--BxLB0WabI0DjUxw
+  tags: ["explainer"]
+  youtube: C9RPHXS_7K0
+- title: "ETCCC014: Dev Call 22, DAO Hacker Unmasked, New Website, Conference Plans"
+  date: 2022-02-22
+  youtube: UD7t7qMNoyk
+  tags: ["discussions"]
+  author: ETC Community Calls
+  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETCCC014: Dev Call 22, DAO Hacker Unmasked, New Website, Conference Plans"
   date: 2022-02-22
   youtube: UD7t7qMNoyk
