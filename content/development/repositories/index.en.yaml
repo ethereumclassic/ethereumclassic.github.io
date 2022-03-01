@@ -15,6 +15,10 @@ items:
         name: Alternative Github Organization
         __link: https://github.com/eth-classic
         description: Another community managed Github Organization that includes testnet configurations, ETCHash, Besu, etc.
+      etcLabs:
+        name: ETC Labs
+        __link: https://github.com/etclabscore
+        description: Organization containing many Ethereum Classic repositories previously maintained by ETC Labs, including core-geth.
       website:
         name: ETC Website
         __link: https://github.com/ethereumclassic/ethereumclassic.github.io

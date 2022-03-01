@@ -40,7 +40,7 @@ items:
         __link: https://www.ethercluster.com
         name: Ethercluster (Goerli)
       BlockScout API:
-        __link: https://blockscout.com/etc/mainnet/api_docs
+        __link: https://blockscout.com/etc/mainnet/api-docs
         name: BlockScout API
         __rpcUrl: <API Key Required>
       RIVET API:
