@@ -22,3 +22,5 @@ tagNames:
   wallet: Wallets
   video: Videos
   news: Headlines
+contributors:
+  - pyskell

@@ -2,6 +2,7 @@
 title: Who's Talking at the Classic Summit
 date: 2017-11-11
 author: pyskell (Anthony)
+contributors: ["pyskell"]
 tags: ["announcement", "development", "education", "teams"]
 ---
 

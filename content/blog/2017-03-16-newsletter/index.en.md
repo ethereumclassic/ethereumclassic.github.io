@@ -2,6 +2,7 @@
 title: "ETC Weekly Newsletter: Dev update and more"
 date: 2017-03-16
 author: Carlo V
+contributors: ["CarloVetc"]
 tags: ["announcement", "development", "education"]
 ---
 

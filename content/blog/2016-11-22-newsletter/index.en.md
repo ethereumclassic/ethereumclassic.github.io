@@ -2,6 +2,7 @@
 title: "ETC Weekly Newsletter : Monetary Policy Update"
 date: 2016-11-22
 author: Carlo V
+contributors: ["CarloVetc"]
 tags: ["announcement", "development", "teams", "education"]
 ---
 

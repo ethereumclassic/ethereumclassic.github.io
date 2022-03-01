@@ -2,6 +2,7 @@
 title: All that's new in Classic - October Edition
 date: 2017-10-25
 author: pyskell (Anthony)
+contributors: ["pyskell"]
 tags: ["application", "development", "education"]
 ---
 

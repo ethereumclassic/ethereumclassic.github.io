@@ -2,6 +2,12 @@ __contribute: true
 __disclaimer: verify
 updated: 2022-02-22
 title: Exchanges
+contributors:
+  - godexdev
+  - ChangeNOW-Exchange
+  - redsn0w0
+  - pyskell
+  - bobsummerwill
 seo: A list of centralized and trust-minimized exchanges, DEXs, and payment processors that support ETC.
 description: |
   This page contains a list of services that allow you to purchase or trade ETC.

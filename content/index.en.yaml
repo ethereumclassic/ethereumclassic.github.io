@@ -32,3 +32,13 @@ intro:
   button:
     __link: /why-classic
     text: Let's Go
+# list of contributors that contributed to general web maintenance that is not page specific
+contributors:
+  - flotob
+  - saturn-network
+  - realcodywburns
+  - Zorlin
+  - cicorias
+  - redsn0w0
+  - pyskell
+  - bobsummerwill

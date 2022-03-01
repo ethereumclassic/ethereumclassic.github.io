@@ -1,6 +1,10 @@
 __contribute: true
 __disclaimer: verify
 title: Social Channels
+contributors:
+  - matthewjamesr
+  - redsn0w0
+  - pyskell
 updated: 2022-02-22
 seo: A collection of Ethereum Classic chat rooms, Twitter accounts, discussion groups, forums, podcasts, repositories and regional websites.
 description: |

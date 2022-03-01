@@ -19,7 +19,7 @@ export default function Contributors({ contributors }) {
             key={githubId}
             className="group"
             tw="flex items-center text-shade-darker font-bold"
-            to={`https://github.com/ethereumclassic/ethereumclassic.github.io/commits?author=${githubId}`}
+            to={`https://github.com/${githubId}`}
           >
             <GatsbyImage
               key={githubId}

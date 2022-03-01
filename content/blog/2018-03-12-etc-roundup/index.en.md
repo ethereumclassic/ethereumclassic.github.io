@@ -2,6 +2,7 @@
 title: ETC Roundup — What’s new this week (3/12/18)!
 date: 2018-03-12
 author: Anthony (pyskell)
+contributors: ["pyskell"]
 tags: ["announcement", "development", "education"]
 ---
 
