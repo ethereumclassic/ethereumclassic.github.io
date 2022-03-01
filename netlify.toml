@@ -37,6 +37,10 @@
 [[redirects]]
   from = "/sitemap.xml"
   to = "/sitemap-index.xml"
+# fallback for cloudflare handled redirect
+[[redirects]]
+  from = "/discord"
+  to = "https://discord.com/invite/bMGuZsA"
 
 # 2019 Redirects
 [[redirects]]
