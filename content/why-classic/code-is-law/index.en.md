@@ -54,7 +54,7 @@ If [history](https://www.eff.org/wp/riaa-v-people-five-years-later) is anything 
 
 ## Where Code isn't Law
 
-The concept of _Code is Law_ is potentially quite provocative and disruptive to the existing global order, but it need not be reflexively rallied against. Like all powerful technologies, _how and where_ they are applied determines who benefits from their application. Like the internet that came before blockchain, the genie is out of the bottle and will certainly change the existing landscape, but by engaging with the technology positively, society can and will adjust.
+The concept of _Code is Law_ is potentially quite provocative and disruptive to the existing global order, but it need not be reflexively rallied against. Like all powerful technologies, _how and where_ they are applied determines who benefits from their application. Like the internet that came before blockchain, the genie is out of the bottle and will certainly change the existing landscape, but by engaging with the technology positively, society can and will adjust, reaping massive rewards.
 
 How we engage depends on recognizing the boundaries of _Code is Law_, and understanding that, like the embers of a fire, for now, it can only exist in unique circumstances, and has to be nurtured and matured into the raging source of light it has the potential to become.
 
