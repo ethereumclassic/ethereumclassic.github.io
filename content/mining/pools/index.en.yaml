@@ -106,6 +106,9 @@ items:
       FirePool:
         name: FirePool
         __link: https://firepool.com/
+      flexpool:
+        name: Flexpool
+        __link: https://flexpool.io/
       HashExpress:
         name: Hash Express
         __link: https://hash.express/
