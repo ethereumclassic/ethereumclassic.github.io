@@ -51,12 +51,10 @@ module.exports = {
         lastUpdated,
       }),
     },
-    ...[
-      process.env.ALGOLIA_APP_ID && {
-        resolve: "gatsby-plugin-algolia",
-        options: require("./configs/search"),
-      },
-    ].filter((c) => c),
+    {
+      resolve: "gatsby-plugin-algolia",
+      options: require("./configs/search"),
+    },
     {
       resolve: "gatsby-plugin-feed",
       options: require("./configs/rss")({ locales, defaultLocale, siteUrl }),
