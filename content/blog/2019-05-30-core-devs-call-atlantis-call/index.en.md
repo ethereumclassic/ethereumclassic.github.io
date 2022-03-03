@@ -2,6 +2,7 @@
 title: "Core Devs Call: ECIP-1054 Atlantis Finalization"
 date: 2019-05-30
 author: soc1c
+contributors: ["soc1c"]
 tags: ["announcement", "development", "education", "teams", "hardfork"]
 ---
 

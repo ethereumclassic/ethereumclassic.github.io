@@ -2,6 +2,7 @@
 title: "ETC Weekly Newsletter : Network Update"
 date: 2016-11-29
 author: Carlo V
+contributors: ["CarloVetc"]
 tags: ["announcement", "development", "teams", "education"]
 ---
 

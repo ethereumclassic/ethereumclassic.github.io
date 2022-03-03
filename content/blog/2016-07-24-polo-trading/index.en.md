@@ -2,6 +2,7 @@
 title: ETC exchange trading and other news
 date: 2016-07-24
 author: Arvicco
+contributors: ["arvicco"]
 tags: ["announcement", "development", "education", "application"]
 ---
 

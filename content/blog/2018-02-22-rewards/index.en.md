@@ -2,6 +2,7 @@
 title: "On Ethereum Classic Mining Rewards With The New Monetary Policy"
 date: 2018-02-22
 author: Christian Seberino
+contributors: ["cseberino"]
 tags: ["mining", "development", "education"]
 ---
 

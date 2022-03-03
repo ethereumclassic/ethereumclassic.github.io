@@ -2,6 +2,7 @@
 title: "Core Devs Call: ECIP-1078 Phoenix Finalization"
 date: 2020-02-05
 author: soc1c
+contributors: ["soc1c"]
 tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ---
 

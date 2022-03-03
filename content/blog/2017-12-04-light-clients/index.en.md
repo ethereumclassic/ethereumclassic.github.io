@@ -2,6 +2,7 @@
 title: "How Ethereum Classic Light Clients Can SECURELY Operate"
 date: 2017-12-04
 author: Christian Seberino
+contributors: ["cseberino"]
 tags: ["application", "development", "education"]
 ---
 

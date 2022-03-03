@@ -3,6 +3,8 @@ title: Mystique Hard Fork on ETC block 14,525,000 (~Feb 13th 2022)
 date: 2022-01-19
 author: EthereumClassic.technology
 tags: ["announcement", "development", "teams", "hardfork", "education"]
+contributors:
+  - ziogaschr 
 ---
 
 The Mystique hard-fork will be activated on the Ethereum Classic mainnet at block **14,525,000** which is estimated to occur on **Feb 13th, 2022**.

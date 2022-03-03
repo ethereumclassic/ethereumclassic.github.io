@@ -2,6 +2,7 @@
 title: "Core Devs Call: ECIP-1061 Aztlán Upgrade (Yingchun Edition)"
 date: 2019-12-05
 author: Bob Summerwill
+contributors: ["bobsummerwill"]
 tags: ["announcement", "development", "education", "teams", "hardfork"]
 ---
 

@@ -1,6 +1,9 @@
 ---
 title: Future Classic
 contribute: true
+contributors:
+  - pyskell
+  - IstoraMandiri
 updated: 2022-02-22
 disclaimer: opinion
 seo: An overview of the future development roadmap and how decisions are made in the Ethereum Classic ecosystem, based on its history, principles.

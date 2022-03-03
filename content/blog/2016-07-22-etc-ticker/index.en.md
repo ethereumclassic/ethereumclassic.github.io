@@ -2,6 +2,7 @@
 title: ETC - new Ethereum Classic ticker symbol
 date: 2016-07-22
 author: Arvicco
+contributors: ["arvicco"]
 tags: ["announcement", "development", "teams", "hardfork", "education"]
 ---
 

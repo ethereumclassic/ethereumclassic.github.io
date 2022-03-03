@@ -2,6 +2,7 @@
 title: "Hashes: An Introduction & Why They Are Foundational To The Internet & Blockchains"
 date: 2017-02-10
 author: Christian Seberino
+contributors: ["cseberino"]
 tags: ["application", "development", "education"]
 ---
 

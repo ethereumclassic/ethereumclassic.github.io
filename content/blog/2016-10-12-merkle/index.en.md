@@ -2,6 +2,7 @@
 title: "Cuban Piracy & Why Merkle Trees Are So Awesome For Blockchains"
 date: 2016-10-12
 author: Christian Seberino
+contributors: ["cseberino"]
 tags: ["announcement", "development", "education"]
 ---
 

@@ -2,6 +2,7 @@
 title: Introducing The Grothendieck Team
 date: 2016-12-12
 author: Carlo V
+contributors: ["CarloVetc"]
 tags: ["announcement", "development", "teams", "education"]
 ---
 

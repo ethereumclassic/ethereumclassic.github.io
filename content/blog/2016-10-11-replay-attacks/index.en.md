@@ -2,6 +2,7 @@
 title: "Navajo Indians Help Explain Ethereum / Classic Replay Attacks"
 date: 2016-10-11
 author: Christian Seberino
+contributors: ["cseberino"]
 tags: ["announcement", "development", "teams", "hardfork", "education"]
 ---
 

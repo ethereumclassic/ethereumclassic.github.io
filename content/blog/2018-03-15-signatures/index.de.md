@@ -2,6 +2,7 @@
 title: "Eine Schritt-für-Schritt-Lösung durch die digitalen Signaturen der Ethereum Classic"
 date: 2018-03-15
 author: Christian Seberino
+contributors: ["cseberino"]
 ---
 
 ![](./1badmg3GLTFGGKsRdqeySTg.png)

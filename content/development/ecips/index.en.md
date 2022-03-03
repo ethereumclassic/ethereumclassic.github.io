@@ -4,6 +4,10 @@ seo: A summary of the Ethereum Classic Improvement Proposal (ECIP) process, and 
 license: CC-BY
 contribute: true
 updated: 2022-02-22
+contributors:
+  - gitr0n1n
+  - IstoraMandiri
+  - TheEnthusiasticAs
 ---
 
 ## [Ethereum Classic Improvement Proposals](https://ecips.ethereumclassic.org/)

@@ -2,6 +2,7 @@
 title: The Invisible Field
 date: 2016-09-18
 author: ProphetDaniel
+contributors: ["ProphetDaniel"]
 tags: ["announcement", "development", "teams", "hardfork", "education"]
 ---
 
