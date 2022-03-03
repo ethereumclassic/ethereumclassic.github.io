@@ -1,7 +1,8 @@
 ---
 title: "ETC Newsletter : 2016-11-01 - 2016-11-08"
 date: 2016-11-08
-author: Carlo Vicari
+author: Carlo V
+contributors: ["CarloVetc"]
 tags: ["announcement", "development", "teams", "education"]
 ---
 

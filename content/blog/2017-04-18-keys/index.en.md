@@ -2,6 +2,7 @@
 title: "Ethereum Classic Public And Private Keys: A Little Enlightenment"
 date: 2017-04-18
 author: Christian Seberino
+contributors: ["cseberino"]
 tags: ["application", "development", "education"]
 ---
 

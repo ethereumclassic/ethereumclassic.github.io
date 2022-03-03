@@ -5,6 +5,10 @@ title: Developer Tools
 seo: A collection of tools to enhance the Ethereum Classic application development and devops experience.
 description: |
   This page contains a list of resources that those developing applications on top of Ethereum Classic may find useful. Be sure to also check out the [Ethereum.org developer environment](https://ethereum.org/en/developers/local-environment/) page, as many of these tools remain relevant when developing for Ethereum Classic.
+contributors:
+  - antsankov
+  - TheEnthusiasticAs
+  - gitr0n1n
 items:
   prices:
     title: Price Sources

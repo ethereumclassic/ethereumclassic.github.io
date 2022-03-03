@@ -2,6 +2,7 @@
 title: "ETC Core Devs Call 15: ECIP-1049 Keccak Breakout Session"
 date: 2020-10-02
 author: r0n1n
+contributors: ["gitr0n1n"]
 tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ---
 

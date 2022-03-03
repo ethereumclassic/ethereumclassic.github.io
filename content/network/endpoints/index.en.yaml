@@ -10,6 +10,14 @@ description: |
   You can use these URLs to transact and deploy to ETC (or it's testnets) by updating your wallet or deployment tool configuration. Make sure you also change your Chain ID to `61` for Ethereum mainnet. 
 
   For more information on other networks, check out the [testnets](/development/testnets) section.
+contributors:
+  - arvicco
+  - dax-classix
+  - gitr0n1n
+  - IstoraMandiri
+  - ProphetDaniel
+  - pyskell
+  - TheEnthusiasticAs
 items:
   endpoints:
     type: table

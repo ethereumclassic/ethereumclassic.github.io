@@ -2,6 +2,7 @@
 title: "Core Devs Call: ECIP-1056 Agharta Final Finalization"
 date: 2019-12-12
 author: soc1c
+contributors: ["soc1c"]
 tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ---
 

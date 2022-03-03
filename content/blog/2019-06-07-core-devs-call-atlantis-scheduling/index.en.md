@@ -2,6 +2,7 @@
 title: "Core Devs Call: ECIP-1054 Atlantis Scheduling Call"
 date: 2019-06-07
 author: soc1c
+contributors: ["soc1c"]
 tags: ["announcement", "development", "education", "teams", "hardfork"]
 ---
 

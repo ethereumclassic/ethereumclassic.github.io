@@ -3,6 +3,8 @@ title: ETC Community Call with Bob Summerwill (guest)
 date: 2021-12-21
 author: ETC Discord
 tags: ["announcement"]
+contributors:
+  - brolal
 ---
 
 We are pleased to invite you to participate in the upcoming Community Call to be held on Discord, on Tuesday 21st December 2300 UTC, 2021.12.21. We will be joined by Bob Summerwill, Director of ETC Coop, for a festive chit chat and Q&A.

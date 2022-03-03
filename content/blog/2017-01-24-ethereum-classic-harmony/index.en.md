@@ -2,6 +2,7 @@
 title: Ethereum Classic Harmony
 date: 2017-01-24
 author: Prophet Daniel
+contributors: ["ProphetDaniel"]
 tags: ["announcement", "development", "application"]
 ---
 

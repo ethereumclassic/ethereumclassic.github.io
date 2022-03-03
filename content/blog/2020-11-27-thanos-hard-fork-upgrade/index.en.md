@@ -2,6 +2,7 @@
 title: "Thanos Hard Fork Upgrade"
 date: 2020-11-27
 author: Luke Williams
+contributors: ["iquidus"]
 tags: ["announcement", "development", "education", "teams", "hardfork"]
 ---
 

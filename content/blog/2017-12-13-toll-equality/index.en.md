@@ -2,6 +2,7 @@
 title: "Toll Equality"
 date: 2017-12-13
 author: Christian Seberino
+contributors: ["cseberino"]
 tags: ["application", "development", "education"]
 ---
 

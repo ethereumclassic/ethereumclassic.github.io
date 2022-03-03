@@ -2,6 +2,7 @@
 title: "Core Devs Call: Evaluation and Consensus Finding"
 date: 2020-08-28
 author: q9f
+contributors: ["q9f"]
 tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ---
 

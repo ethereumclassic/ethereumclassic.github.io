@@ -2,6 +2,7 @@
 title: "Serpent: Introduction To The BEST Ethereum Classic Smart Contract Language"
 date: 2017-02-10
 author: Christian Seberino
+contributors: ["cseberino"]
 tags: ["application", "development", "education"]
 ---
 

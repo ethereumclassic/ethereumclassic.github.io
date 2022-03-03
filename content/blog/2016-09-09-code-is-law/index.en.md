@@ -2,6 +2,7 @@
 title: Code is Law and the Quest for Justice
 date: 2016-09-09
 author: Arvicco
+contributors: ["arvicco"]
 tags: ["announcement", "development", "teams", "hardfork", "education"]
 ---
 ![Code is Law](./Law-Image.jpg)

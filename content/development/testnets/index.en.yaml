@@ -10,6 +10,9 @@ description: |
   Additionally, Ethereum Classic has its own testnets that operate the Ethereum Classic version of the EVM, and deploying to one of these networks is also highly recommended before production release. These public testnets also provide faucets, so you can easily acquire testnet ETC and deploy your code. 
 
   Some of these networks, such as Astor, test experimental versions of ETC with features that do not yet exist in Ethereum Classic mainnet.
+contributors:
+  - gitr0n1n
+  - IstoraMandiri
 items:
   testnets:
     __type: table

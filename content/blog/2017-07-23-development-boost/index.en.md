@@ -2,6 +2,7 @@
 title: "Development forces arriving"
 date: 2017-07-23
 author: Prophet Daniel
+contributors: ["ProphetDaniel"]
 tags: ["teams", "development", "education"]
 ---
 

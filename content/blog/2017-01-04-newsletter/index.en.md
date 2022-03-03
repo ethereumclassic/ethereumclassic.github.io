@@ -2,6 +2,7 @@
 title: "ETC Weekly Newsletter : Happy New Year!"
 date: 2017-01-04
 author: Carlo V
+contributors: ["CarloVetc"]
 tags: ["announcement", "development", "education"]
 ---
 

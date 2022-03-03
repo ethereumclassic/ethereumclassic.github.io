@@ -2,6 +2,7 @@
 title: "Ethereum Classic World Computer Transactions Explained"
 date: 2017-04-28
 author: Christian Seberino
+contributors: ["cseberino"]
 tags: ["application", "development", "education"]
 ---
 

@@ -2,6 +2,7 @@
 title: Kodex ist Gesetz und das Streben nach Gerechtigkeit
 date: 2016-09-09
 author: Arvicco
+contributors: ["arvicco"]
 ---
 ![Code is Law](./Law-Image.jpg)
 
