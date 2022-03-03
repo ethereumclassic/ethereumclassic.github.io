@@ -2,6 +2,7 @@
 title: Manifest eines Krypto-Dezentralisten
 date: 2016-07-11
 author: Arvicco
+contributors: ["arvicco"]
 ---
 
 <b>PDF Version:</b>

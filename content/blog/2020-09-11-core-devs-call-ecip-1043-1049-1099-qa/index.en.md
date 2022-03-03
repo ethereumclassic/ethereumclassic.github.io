@@ -2,6 +2,7 @@
 title: "Core Devs Call 13: ECIP-1043 and ECIP-1049"
 date: 2020-09-11
 author: q9f
+contributors: ["q9f"]
 tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ---
 

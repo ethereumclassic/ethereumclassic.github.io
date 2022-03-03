@@ -2,6 +2,7 @@
 title: "Core Devs Presentation: ECIP-1092 Pirlguard Presentation and Q&A"
 date: 2020-09-09
 author: Dexaran
+contributors: [Dexaran]
 tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ---
 

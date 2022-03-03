@@ -2,6 +2,7 @@
 title: "Core Devs Call: Phoenix Upgrade from Scratch"
 date: 2020-02-26
 author: soc1c
+contributors: ["soc1c"]
 tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ---
 

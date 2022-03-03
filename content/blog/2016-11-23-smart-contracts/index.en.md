@@ -2,6 +2,7 @@
 title: "The Skinny On Smart Contracts: An Introduction & Why You Should Care"
 date: 2016-11-23
 author: Christian Seberino
+contributors: ["cseberino"]
 tags: ["application", "development", "education"]
 ---
 

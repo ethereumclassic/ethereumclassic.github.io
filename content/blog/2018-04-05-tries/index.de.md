@@ -2,6 +2,7 @@
 title: "Eine Einführung in Versuche"
 date: 2018-04-05
 author: Christian Seberino
+contributors: ["cseberino"]
 ---
 
 ![](./1cMuhjTGzOLV5U_K-ZTIu6w.jpeg)

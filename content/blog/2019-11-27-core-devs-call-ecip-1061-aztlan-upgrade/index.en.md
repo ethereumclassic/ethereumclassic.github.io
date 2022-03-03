@@ -2,6 +2,7 @@
 title: "Core Devs Call: ECIP-1061 Aztlán Finalization"
 date: 2019-11-27
 author: soc1c
+contributors: ["soc1c"]
 tags: ["announcement", "development", "education", "teams", "hardfork"]
 ---
 

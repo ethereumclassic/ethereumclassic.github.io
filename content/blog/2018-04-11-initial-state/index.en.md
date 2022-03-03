@@ -2,6 +2,7 @@
 title: "The Ethereum Classic Blockchain Is INCOMPLETE & Why That Is OK"
 date: 2018-04-11
 author: Christian Seberino
+contributors: ["cseberino"]
 tags: ["application", "development", "education"]
 ---
 

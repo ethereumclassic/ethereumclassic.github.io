@@ -2,6 +2,7 @@
 title: "Ethereum / Classic Denial Of Service Attacks & The Estonian Cyberwar"
 date: 2016-10-13
 author: Christian Seberino
+contributors: ["cseberino"]
 tags: ["announcement", "development", "teams", "hardfork", "education"]
 ---
 

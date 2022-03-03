@@ -2,6 +2,7 @@
 title: "Ethereum's Vitalik Buterin Discusses The New Viper Smart Contract Programming Language"
 date: 2017-03-13
 author: Christian Seberino
+contributors: ["cseberino"]
 tags: ["application", "development", "education"]
 ---
 

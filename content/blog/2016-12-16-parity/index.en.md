@@ -2,6 +2,7 @@
 title: "How To EASILY Set Up An AMAZING Ethereum Classic Node & Talk To It With Your OWN Code"
 date: 2016-12-16
 author: Christian Seberino
+contributors: ["cseberino"]
 tags: ["guide", "development", "education"]
 ---
 

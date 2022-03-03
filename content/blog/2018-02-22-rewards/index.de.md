@@ -2,6 +2,7 @@
 title: "Über die Ethereum Classic-Mining-Belohnungen (mining rewards) mit der neuen Geldpolitik (Monetory Policy)"
 date: 2018-02-22
 author: Christian Seberino
+contributors: ["cseberino"]
 ---
 
 ![](./1vFht2pfMD7lijWCGDpNEJA.png)

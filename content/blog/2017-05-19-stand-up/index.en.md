@@ -2,6 +2,7 @@
 title: "Stand up from the crowd"
 date: 2017-05-19
 author: Prophet Daniel
+contributors: ["ProphetDaniel"]
 tags: ["education"]
 ---
 

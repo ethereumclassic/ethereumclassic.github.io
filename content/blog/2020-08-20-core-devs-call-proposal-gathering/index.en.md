@@ -2,6 +2,7 @@
 title: "Core Devs Call: Proposal Gathering"
 date: 2020-08-20
 author: q9f
+contributors: ["q9f"]
 tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ---
 

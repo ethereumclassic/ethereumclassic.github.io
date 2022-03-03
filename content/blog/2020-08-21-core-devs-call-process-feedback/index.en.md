@@ -2,6 +2,7 @@
 title: "Core Devs Call: Process Feedback"
 date: 2020-08-21
 author: r0n1n
+contributors: ["gitr0n1n"]
 tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ---
 

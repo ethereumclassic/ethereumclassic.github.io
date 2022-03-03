@@ -2,6 +2,7 @@
 title: "An Introduction To Tries"
 date: 2018-04-05
 author: Christian Seberino
+contributors: ["cseberino"]
 tags: ["application", "development", "education"]
 ---
 

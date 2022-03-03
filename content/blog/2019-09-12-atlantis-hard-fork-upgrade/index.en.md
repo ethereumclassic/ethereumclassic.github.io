@@ -2,6 +2,7 @@
 title: "Atlantis Hard Fork Upgrade"
 date: 2019-09-12
 author: Isaac Ardis
+contributors: ["meowsbits"]
 tags: ["announcement", "development", "education", "teams", "hardfork"]
 ---
 

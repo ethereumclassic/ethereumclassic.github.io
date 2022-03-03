@@ -2,6 +2,7 @@
 title: "MESS Client Upgrade"
 date: 2020-10-10
 author: Isaac
+contributors: ["meowsbits"]
 tags: ["announcement", "development", "education", "teams", "hardfork"]
 ---
 

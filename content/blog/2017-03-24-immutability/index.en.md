@@ -2,6 +2,7 @@
 title: "How To Improve Ethereum Classic Immutability Discussions"
 date: 2017-03-24
 author: Christian Seberino
+contributors: ["cseberino"]
 tags: ["application", "development", "education"]
 ---
 
