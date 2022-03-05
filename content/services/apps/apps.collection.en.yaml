@@ -32,6 +32,7 @@
   date: 2022-02-23
   type: nfts
   image: ./images/etcbitpixel.jpg
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x36ad158856992F9b8e94C84b161190026101d9C7/contracts
   description: ETC BIT PIXEL 8-bit pixel art NFT, The first Metaverse game on Ethereum Classic Blockchain. All NFTs will be converted to 3d models and there is a chance for all owners to use their 3D Model in Metaverse game and create a 3D video for themselves without any concern about creating characters.
   links:
     - name: Launch App
