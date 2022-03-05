@@ -2,6 +2,7 @@
 title: "Should The Ethereum Classic Community Be Ashamed Of Promoting Privacy?"
 date: 2017-06-17
 author: Christian Seberino
+contributors: ["cseberino"]
 tags: ["application", "development", "education"]
 ---
 

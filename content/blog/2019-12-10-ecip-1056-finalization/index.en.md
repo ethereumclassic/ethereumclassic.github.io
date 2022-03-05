@@ -2,6 +2,7 @@
 title: "Agharta Finalization Core Devs Call"
 date: 2019-12-10
 author: Yaz Khoury
+contributors: ["YazzyYaz"]
 tags: ["announcement", "development", "education", "teams", "hardfork"]
 seo: On Thursday, December 12, 2019, 1pm UTC, an Ethereum Classic Core Devs call will be held to determine the final block selection for Agharta.
 linkImage: ./agharta.png

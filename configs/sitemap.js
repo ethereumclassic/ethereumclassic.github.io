@@ -1,5 +1,5 @@
 module.exports = ({ siteUrl, lastUpdated }) => ({
-  output: "/sitemap",
+  output: "/",
   query: `
     {
       pages: allSitePage(sort: { order: ASC, fields: path }) {

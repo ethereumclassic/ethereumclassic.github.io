@@ -9,7 +9,7 @@ module.exports = {
   flags: {
     PRESERVE_FILE_DOWNLOAD_CACHE: true,
     FAST_DEV: true,
-    PARALLEL_SOURCING: true,
+    // PARALLEL_SOURCING: true,
   },
   siteMetadata: {
     siteUrl,
@@ -20,6 +20,7 @@ module.exports = {
   plugins: [
     // "gatsby-plugin-perf-budgets",
     // "gatsby-plugin-webpack-bundle-analyser-v2",
+    "gatsby-plugin-netlify",
     "gatsby-plugin-image",
     "gatsby-transformer-sharp",
     "gatsby-plugin-sharp",
@@ -50,12 +51,10 @@ module.exports = {
         lastUpdated,
       }),
     },
-    ...[
-      process.env.ALGOLIA_ADMIN_KEY && {
-        resolve: "gatsby-plugin-algolia",
-        options: require("./configs/search"),
-      },
-    ].filter((c) => c),
+    {
+      resolve: "gatsby-plugin-algolia",
+      options: require("./configs/search"),
+    },
     {
       resolve: "gatsby-plugin-feed",
       options: require("./configs/rss")({ locales, defaultLocale, siteUrl }),

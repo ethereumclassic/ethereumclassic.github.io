@@ -2,6 +2,7 @@
 title: "ETC Weekly Newsletter : ETC Meetup in London + The New Team  "
 date: 2016-12-14
 author: Carlo V
+contributors: ["CarloVetc"]
 tags: ["development", "education"]
 ---
 

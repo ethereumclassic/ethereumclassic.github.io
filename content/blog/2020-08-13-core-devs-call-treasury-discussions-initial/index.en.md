@@ -2,6 +2,7 @@
 title: "Core Devs Call: Treasury Roadmap Initial Discussions"
 date: 2020-08-13
 author: YazzyYaz
+contributors: ["YazzyYaz"]
 tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ---
 

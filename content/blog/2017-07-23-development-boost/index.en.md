@@ -2,6 +2,7 @@
 title: "Development forces arriving"
 date: 2017-07-23
 author: Prophet Daniel
+contributors: ["ProphetDaniel"]
 tags: ["teams", "development", "education"]
 ---
 
@@ -23,6 +24,6 @@ When you have already established your team, let's coordinate efforts to expand 
 Contribute to the many development teams powering Ethereum Classic technology, help teams to be born by supporting them as you can. We as a community thank all the brave work already done by developers. But still there is a lot to do.
 
 ![Imgur](./wlZyBeH.jpg?1)
-Source [Little Time Machine](littletimemachine.com)
+Source [Little Time Machine](http://littletimemachine.com)
 
 There is a beautiful horizon ahead, so let us shape with joy and enthusiasm the future together for good!

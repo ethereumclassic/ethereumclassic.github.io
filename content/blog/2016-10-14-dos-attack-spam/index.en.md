@@ -2,6 +2,7 @@
 title: "Why Another Hard Fork To Deal With The Recent Denial Of Service Attack Spam Shouldn't Be Controversial"
 date: 2016-10-14
 author: Christian Seberino
+contributors: ["cseberino"]
 tags: ["announcement", "development", "teams", "hardfork", "education"]
 ---
 

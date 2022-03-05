@@ -2,6 +2,7 @@
 title: "When Absolutely No One Can Steal Or Return Lost Ethereum Classic Funds"
 date: 2017-06-17
 author: Christian Seberino
+contributors: ["cseberino"]
 tags: ["education"]
 ---
 

@@ -1,11 +1,20 @@
-// TODO remove this one we have an app that has an audit!
-
 exports.createSchemaCustomization = ({ actions }) => {
   const { createTypes } = actions;
   const typeDefs = `
+    type NewsItem implements Node {
+      id: String!
+      date: Date!
+      locale: String!
+      author: String
+      source: String
+      link: String!
+      title: String!
+      newsType: String!
+    }
+
     type ServicesAppsCollection implements Node {
       title: String!
-      links: [Link]
+      links: [AppLinks]
       author: String
       authorLink: String
       description: String!
@@ -17,7 +26,8 @@ exports.createSchemaCustomization = ({ actions }) => {
       testSuite: String
       ipfsFrontend: String
     }
-    type Link {
+    
+    type AppLinks {
       name: String
       link: String
       icon: String

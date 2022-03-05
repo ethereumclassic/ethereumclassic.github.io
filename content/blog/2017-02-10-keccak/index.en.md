@@ -2,6 +2,7 @@
 title: "Why Ethereum Classic Uses An Incorrect SHA3 Implementation"
 date: 2017-02-10
 author: Christian Seberino
+contributors: ["cseberino"]
 tags: ["application", "development", "education", "mining"]
 ---
 

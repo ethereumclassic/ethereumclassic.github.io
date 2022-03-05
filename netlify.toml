@@ -1,10 +1,47 @@
 [build]
   publish = "public"
-# [[plugins]]
-#   package = "@algolia/netlify-plugin-crawler"
-#     [plugins.inputs]
-#     branches = ['3022']
+
+[build.environment] 
+  ALGOLIA_APP_ID = "YEB4B53LGA"
+  ALGOLIA_SEARCH_KEY = "51ca7167d391ff11f246ac45c63e3dc7"
+  ALGOLIA_MAIN_INDEX = "netlify_033cc5a8-1836-409b-bcfe-90e50346fa18_master_all"
+
+[[plugins]]
+  package = "@netlify/plugin-gatsby"
+
+[[plugins]]
+  package = "@algolia/netlify-plugin-crawler"
+    [plugins.inputs]
+    branches = ['master']
+
 # These redirects will be used by Netlify as well as the client to replace link addresses
+# Generic redirects, based on 404 hits
+[[redirects]]
+  from = "/feed"
+  to = "/rss.xml"
+[[redirects]]
+  from = "/feeds"
+  to = "/rss.xml"
+[[redirects]]
+  from = "/rss"
+  to = "/rss.xml"
+[[redirects]]
+  from = "/assets/etc-thesis.pdf"
+  to = "/why-classic"
+[[redirects]]
+  from = "/sitemapindex.xml"
+  to = "/sitemap-index.xml"
+[[redirects]]
+  from = "/sitemap_index.xml"
+  to = "/sitemap-index.xml"
+[[redirects]]
+  from = "/sitemap.xml"
+  to = "/sitemap-index.xml"
+# fallback for cloudflare handled redirect
+[[redirects]]
+  from = "/discord"
+  to = "https://discord.com/invite/bMGuZsA"
+
 # 2019 Redirects
 [[redirects]]
   from = "/wiki"
@@ -30,6 +67,7 @@
 [[redirects]]
   from = "/blog/2017-01-17-newsletter"
   to = "/blog/2017-01-17-die-hard-fork-upgrade"
+
 # 2021 Redirects
 [[redirects]]
   from = "/development/contribute"

@@ -2,6 +2,7 @@
 title: "How To Create A Censorship Resistant Domain Name System On Ethereum Classic"
 date: 2017-02-28
 author: Christian Seberino
+contributors: ["cseberino"]
 tags: ["application", "development", "education"]
 ---
 

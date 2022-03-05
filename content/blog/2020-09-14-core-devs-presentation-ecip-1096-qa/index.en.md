@@ -2,6 +2,7 @@
 title: "Core Devs Presentation: ECIP-1096 Bitcoin Merged Mining Presentation and Q&A"
 date: 2020-09-14
 author: Sergio Lerner
+contributors: [SergioDemianLerner]
 tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ---
 

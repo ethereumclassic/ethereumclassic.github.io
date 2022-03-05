@@ -2,6 +2,15 @@ __disclaimer: verify
 title: Blockchain Explorers
 updated: 2022-02-22
 contribute: true
+contributors:
+  - arvicco
+  - cicorias
+  - dax-classix
+  - gitr0n1n
+  - IstoraMandiri
+  - ProphetDaniel
+  - pyskell
+  - TheEnthusiasticAs
 seo: A list of blockchain explorer services for Ethereum Classic and the various ETC testnets.
 description: |
   Blockchain Explorers provide a convenient way to get insights into the current and past state of a given chain, allowing you to inspect the contents of blocks, transactions and account balances. 

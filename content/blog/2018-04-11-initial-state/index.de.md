@@ -2,6 +2,7 @@
 title: "Die Ethereum Classic-Blockchain ist UNVOLLSTÄNDIG und warum ist das in Ordnung"
 date: 2018-04-11
 author: Christian Seberino
+contributors: ["cseberino"]
 ---
 ![](./1TCmOW4bfexB2Ns21MBDDCw.jpeg)
 

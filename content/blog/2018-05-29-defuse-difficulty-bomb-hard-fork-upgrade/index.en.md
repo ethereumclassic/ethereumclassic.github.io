@@ -2,6 +2,7 @@
 title: "Defuse Difficulty Bomb Hard Fork Upgrade"
 date: 2018-05-29
 author: Igor Artamonov
+contributor: ["splix"]
 tags: ["announcement", "development", "education", "teams", "hardfork"]
 ---
 

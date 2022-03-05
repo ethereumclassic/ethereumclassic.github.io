@@ -2,6 +2,7 @@
 title: "Core Devs Call: 51% Attack Solutions"
 date: 2020-09-25
 author: q9f
+contributors: ["q9f"]
 tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ---
 

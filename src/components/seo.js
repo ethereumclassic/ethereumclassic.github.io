@@ -1,5 +1,5 @@
 import React from "react";
-// LODO replace with pre-rendered string?
+// TODO replace favicon with pre-rendered string?
 import { renderToString } from "react-dom/server";
 
 import { Helmet } from "react-helmet";
@@ -7,7 +7,6 @@ import "twin.macro";
 import { theme } from "twin.macro";
 
 import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
-import dedupeStrings from "../utils/dedupeStrings";
 import { etc as EtcLogo } from "../utils/icons";
 import { useTheme } from "../utils/themeProvider";
 import useSiteMetadata from "../utils/useSiteMetadata";
@@ -31,6 +30,7 @@ export default function Seo({ data, i18n, path, pageContext: { basePath } }) {
     i18n.seo,
     i18n.description,
     data?.mdx?.excerpt,
+    ui.seo,
     ui.description,
   ]
     .find((i) => i)

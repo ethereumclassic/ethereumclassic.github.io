@@ -2,6 +2,7 @@
 title: Couple Values That Forked Ethereum Broke
 date: 2016-08-10
 author: ProphetDaniel
+contributors: ["ProphetDaniel"]
 tags: ["announcement", "development", "teams", "hardfork", "education"]
 ---
 

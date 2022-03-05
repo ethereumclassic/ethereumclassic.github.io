@@ -13,6 +13,36 @@
 #
 ### END VIDEO TEMPALTE
 #
+- title: "Etherplan Blockchain Course Part 2: Categorization and Use Cases"
+  date: 2022-03-02
+  author: Donald McIntyre
+  authorYoutube: UC4--zHROGkRT1MadPM4EASA
+  tags: ["explainers"]
+  youtube: 53A7MNTbkmg
+- title: "ETCCC015: Reaching Rough Consensus"
+  date: 2022-03-01
+  youtube: llM1So2jB5k
+  tags: ["discussions"]
+  author: ETC Community Calls
+  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+- title: "What is Ethereum Classic (ETC) - Explained"
+  date: 2019-12-23
+  author: Atlas
+  authorYoutube: UCQuW4GoxxR9-GH3oW3BrpZw
+  tags: ["explainers"]
+  youtube: RaD0x33PP0I
+- title: "Etherplan Blockchain Course Part 1: History"
+  date: 2022-02-28
+  author: Donald McIntyre
+  authorYoutube: UC4--zHROGkRT1MadPM4EASA
+  tags: ["explainers"]
+  youtube: rbIm7vIApWo
+- title: "ETCCC014: Dev Call 22, DAO Hacker Unmasked, New Website, Conference Plans"
+  date: 2022-02-22
+  youtube: UD7t7qMNoyk
+  tags: ["discussions"]
+  author: ETC Community Calls
+  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETC Core Devs Call 22: Proposed Rejection of ECIP-1049"
   date: 2022-02-21
   author: Ethereum Classic Trade Signals
@@ -35,7 +65,7 @@
   date: 2022-02-12
   author: Savage Profits
   youtube: btlFEYm2AsQ
-  tags: ["explainer"]
+  tags: ["explainers"]
   authorYoutube: UCn-FM8TsJ0c8kFXYZEI0jmA
 - title: "ETCCC012: Q&A with Afri, ETCDAO Gigs, Uncle Rate"
   date: 2022-02-08

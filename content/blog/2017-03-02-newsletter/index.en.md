@@ -2,6 +2,7 @@
 title: "ETC Weekly Newsletter : Monetary Policy Statement."
 date: 2017-03-02
 author: Carlo V
+contributors: ["CarloVetc"]
 tags: ["announcement", "development", "education"]
 ---
 

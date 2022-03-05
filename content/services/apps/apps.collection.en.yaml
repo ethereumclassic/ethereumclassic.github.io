@@ -28,6 +28,18 @@
 #
 ### END APP TEMPLATE
 #
+- title: Lazy Lions
+  date: 2022-02-25
+  type: nfts
+  image: ./images/lazylions.jpg
+  description: Lazy Lions, is an exclusive 5,000 only mint-able premium NFT. No two pieces of these 5,000 digital assets are alike. Each being unique and pristine, there is an order of rarity that makes certain ones more valuable than the others. each Lazy Lion is inspired by its Ethereum counterpart.
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x8F1BEA297e1ab79ae1db163B611Bd93A37d28E21/transactions
+  links:
+    - name: Launch App
+      link: https://ETCLazylions.com
+    - name: Twitter
+      link: https://twitter.com/LazylionsEtc
+      icon: twitter
 - title: ETC Bit Pixel
   date: 2022-02-23
   type: nfts

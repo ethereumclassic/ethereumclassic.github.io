@@ -2,6 +2,7 @@
 title: "Core Devs Call: IOHK Checkpointing Presentation and Q&A"
 date: 2020-09-04
 author: developerkevin
+contributors: ["developerkevin"]
 tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ---
 

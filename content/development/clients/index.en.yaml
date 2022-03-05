@@ -2,7 +2,19 @@ __contribute: true
 title: Node Clients
 updated: 2022-02-22
 contribute: true
-seo: Download links for various Ethereum Classic Node Clients
+seo: Download links for and information about the various Ethereum Classic Node Clients.
+contributors:
+  - pyskell
+  - bobsummerwill
+  - dax-classix
+  - arvicco
+  - ProphetDaniel
+  - q9f
+  - YazzyYaz
+  - realcodywburns
+  - stevanlohja
+  - TheEnthusiasticAs
+  - gitr0n1n
 description: |
   Clients are software packages that can be used to run the Ethereum Classic protocol in various modes; Full Nodes, Archive Nodes, Fast Sync Clients, etc. Clients allow you to run a mainnet or testnet node, validate blocks through mining, and interface with the network through API.
 

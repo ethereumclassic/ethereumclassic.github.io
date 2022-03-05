@@ -2,6 +2,7 @@
 title: Ethereum Classic Kickoff (London)
 date: 2016-08-18
 author: Arvicco
+contributors: ["arvicco"]
 tags: ["announcement", "development", "teams", "education"]
 ---
 

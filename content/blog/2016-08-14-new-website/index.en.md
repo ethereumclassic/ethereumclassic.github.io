@@ -2,6 +2,7 @@
 title: New Website Created
 date: 2016-08-14
 author: DaxClassix
+contributors: ["dax-classix"]
 tags: ["announcement", "development", "teams", "hardfork", "education"]
 ---
 

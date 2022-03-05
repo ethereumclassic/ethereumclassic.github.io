@@ -2,6 +2,7 @@
 title: Decentralized anarchist governance system
 date: 2016-08-11
 author: ProphetDaniel
+contributors: ["ProphetDaniel"]
 tags: ["announcement", "development", "teams", "education"]
 ---
 

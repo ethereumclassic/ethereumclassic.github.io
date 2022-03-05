@@ -2,6 +2,7 @@
 title: A Crypto-Decentralist Manifesto
 date: 2016-07-11
 author: Arvicco
+contributors: ["arvicco"]
 tags: ["announcement", "development", "teams", "hardfork", "education"]
 linkImage: ./1gMu8qJtr2NeEuuGzvsfcnw.png
 ---

@@ -1,7 +1,12 @@
 ---
 title: The Basics
-seo: A beginner's guide to Ethereum Classic (ETC); what it is and how to get it
+seo: A beginner's guide to Ethereum Classic (ETC); what it is and how to get it.
 license: CC-BY
+contributors:
+  - developerkevin
+  - IstoraMandiri
+  - TheEnthusiasticAs
+  - gitr0n1n
 ---
 
 Ethereum Classic is a decentralized blockchain platform that lets anyone build and use decentralized applications that run on blockchain technology. Like Bitcoin, no one controls or owns Ethereum Classic; it is an open-source project built by people all over the world. Unlike Bitcoin, Ethereum Classic was designed to make it easy to create and deploy Smart Contracts, which allows developers to deploy unstoppable applications with ease.

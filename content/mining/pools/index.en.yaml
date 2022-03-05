@@ -9,6 +9,26 @@ description: |
   This page contains a non-exhaustive list of pools that support Ethereum Classic. 
 
   The Top 5 most popular pools have been highlighted below to help you narrow down your search. You can find live updates about the size of each mining pool in the [Network Monitors](/network/monitors) section.
+contributors:
+  - arvicco
+  - bobsummerwill
+  - cicorias
+  - dax-classix
+  - edradev
+  - ETC365
+  - gitr0n1n
+  - herominers
+  - IstoraMandiri
+  - karpusa
+  - MiningCryptoLive
+  - needles61
+  - ProphetDaniel
+  - pyskell
+  - redsn0w0
+  - sneg55
+  - TheEnthusiasticAs
+  - xiphon
+  - zz0412
 items:
   pools:
     __type: buttons
@@ -106,6 +126,9 @@ items:
       FirePool:
         name: FirePool
         __link: https://firepool.com/
+      flexpool:
+        name: Flexpool
+        __link: https://flexpool.io/
       HashExpress:
         name: Hash Express
         __link: https://hash.express/

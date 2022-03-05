@@ -2,6 +2,7 @@
 title: What can I do to help Ethereum Classic project?
 date: 2016-07-25
 author: Arvicco
+contributors: ["arvicco"]
 tags: ["announcement", "development", "teams", "education"]
 ---
 ![Call for action](./CallForAction_1440096073156_114852_ver1.0.jpg)

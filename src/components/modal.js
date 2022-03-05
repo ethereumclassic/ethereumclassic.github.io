@@ -21,7 +21,7 @@ export default function Modal({
     <>
       <div
         {...rest}
-        id={slug}
+        id={slug || undefined}
         onClick={() => {
           setRenderModal(true);
           setTimeout(() => {

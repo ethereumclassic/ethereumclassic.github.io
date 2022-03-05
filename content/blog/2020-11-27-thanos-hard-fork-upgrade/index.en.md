@@ -2,6 +2,7 @@
 title: "Thanos Hard Fork Upgrade"
 date: 2020-11-27
 author: Luke Williams
+contributors: ["iquidus"]
 tags: ["announcement", "development", "education", "teams", "hardfork"]
 ---
 
@@ -15,7 +16,7 @@ tags: ["announcement", "development", "education", "teams", "hardfork"]
 
 The purpose of this ECIP is to calibrate the epoch length used in DAG calculations.
 
-Inspiration: [ECIP 1043: Fixed DAG limit restriction](https://ecips.ethereumclassic.org/ECIPs/ecip-1043) by [Cody Burns](cody.w.burns@gmail.com), [Wolf Spraul](wolf@linzhi.io)
+Inspiration: [ECIP 1043: Fixed DAG limit restriction](https://ecips.ethereumclassic.org/ECIPs/ecip-1043) by [Cody Burns](mailto:cody.w.burns@gmail.com), [Wolf Spraul](mailto:wolf@linzhi.io)
 
 ## Motivation
 

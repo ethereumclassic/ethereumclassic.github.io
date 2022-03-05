@@ -2,6 +2,7 @@
 title: "Core Devs Presentation: ECBP-1100 Modified Exponential Subjective Scoring Presentation and Q&A"
 date: 2020-09-23
 author: Isaac
+contributors: ["meowsbits"]
 tags: ["announcement", "development", "education", "teams", "hardfork", "media"]
 ---
 

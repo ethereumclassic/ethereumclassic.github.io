@@ -16,6 +16,7 @@ export default function LandingVideos({ items }) {
         <div tw="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-2 gap-4">
           {items.map(({ node }, i) => (
             <VideosItem
+              key={node.id}
               id={node.id}
               item={node}
               hash={false}

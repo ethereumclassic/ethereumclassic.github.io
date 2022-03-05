@@ -2,7 +2,21 @@ __contribute: true
 __disclaimer: verify
 updated: 2022-02-22
 title: Exchanges
-seo: A list of centralized and trust-minimized exchanges, DEXs, and payment processors that support ETC
+contributors:
+  - antonegorov
+  - arvicco
+  - bobsummerwill
+  - ChangeNOW-Exchange
+  - dax-classix
+  - gitr0n1n
+  - godexdev
+  - IstoraMandiri
+  - maxpatalec
+  - ProphetDaniel
+  - pyskell
+  - redsn0w0
+  - TheEnthusiasticAs
+seo: A list of centralized and trust-minimized exchanges, DEXs, and payment processors that support ETC.
 description: |
   This page contains a list of services that allow you to purchase or trade ETC.
 
