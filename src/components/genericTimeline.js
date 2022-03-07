@@ -71,7 +71,7 @@ function GenericTimelineItem({
                   title
                 )}
               </H4>
-              <div tw="text-sm text-shade-neutral space-x-2">
+              <div tw="text-sm text-shade-neutral space-x-3">
                 {dateText && <span>{dateText}</span>}
                 {date && <FormattedDate date={date} />}
               </div>

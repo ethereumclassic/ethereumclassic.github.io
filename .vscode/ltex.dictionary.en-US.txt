@@ -58,3 +58,7 @@ rugpulls
 techno-socio-economic
 ETCHash
 Sharding
+upvotes
+Trilemma
+do-ocracy
+disincentivizing

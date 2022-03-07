@@ -10,21 +10,23 @@ items:
     text: Vitalik Buterin and The Ethereum Foundation create the first blockchain-based Turing-complete smart contract platform with the Frontier release
   frontierThawingUpgrade:
     title: Frontier Thawing Upgrade
-    date: Block 200,000
+    dateText: Block 200,000
+    date: 2015-09-08
     color: blue
     icon: snowflake
     link: https://blog.ethereum.org/2015/08/04/ethereum-protocol-update-1/
-    text: September 08 2015, the network implements an ‘Ice Age’ at block 200,000 introducing the Difficulty Bomb, a mechanism designed to move the network's consensus mechanism away from Proof-of-Work to Proof-of-Stake
+    text: The network implements an ‘Ice Age’ at block 200,000 introducing the Difficulty Bomb, a mechanism designed to move the network's consensus mechanism away from Proof-of-Work to Proof-of-Stake
   homesteadUpgrade:
     title: Homestead Upgrade
-    date: Block 1,150,000
+    dateText: Block 1,150,000
+    date: 2016-03-14
     color: blue
     icon: home
     link: https://blog.ethereum.org/2016/02/29/homestead-release/
-    text: March 15 2016, Homestead is the second major version release of the Ethereum platform
+    text: Homestead is the second major version release of the Ethereum platform
   slockItCreatesThe Dao:
     title: Slock.it Creates The DAO
-    date: Apr 05 2016
+    date: 2016-04-05
     color: white
     icon: fileCode
     link: https://blog.slock.it/deja-vu-dao-smart-contracts-audit-results-d26bc088e32e
@@ -343,7 +345,7 @@ items:
     color: blue
     icon: codeBranch
     link: https://www.reddit.com/r/EthereumClassic/comments/88y77k/multigeth_a_goethereum_client_with_support_of/
-    text: The Multi-Geth client project launches. This is a go-ethereum client forked from Ethereum Foundation's version, aimed to follow closely for upstream changes, and support multiple Ethereum networks. We have just added alpha support for Ethereum Classic network. And we're grateful if the Ethereum Classic community is interested in testing it out
+    text: The Multi-Geth client project launches. This is a go-ethereum client forked from Ethereum Foundation's version, aimed to follow closely for upstream changes, and support multiple Ethereum networks. We have just added alpha support for Ethereum Classic network. 
   defuseDifficultyBomb:
     title: Defuse Difficulty Bomb
     date: Block 5,900,000
@@ -408,11 +410,12 @@ items:
     text: Ethereum Classic core developers reach rough consensus on ECIP-1054 in an effort to implement ETH's Spurious Dragon and Byzantium network protocol upgrades
   atlantisUpgrade:
     title: Atlantis Upgrade
-    date: Block 8,772,000
+    dateText: Block 8,772,000
+    date: Sept 12 2019 
     color: blue
     icon: angleDoubleUp
     link: /blog/2019-09-12-atlantis-hard-fork-upgrade/
-    text: September 12 2019, Ethereum Classic core developers implement ETH's Spurious Dragon and Byzantium network protocol upgrades to maintain operational parity with its sister chain
+    text: Ethereum Classic core developers implement ETH's Spurious Dragon and Byzantium network protocol upgrades to maintain operational parity with its sister chain
   etcSummitVancouver:
     date: Oct 03 2019
     title: ETC Summit 2019
@@ -450,11 +453,12 @@ items:
     text: Ethereum Classic core developers reach rough consensus on ECIP-1056 in an effort to implement ETH's Constantinople and Petersburg network protocol upgrades
   aghartaUpgrade:
     title: Agharta Upgrade
-    date: Block 9,573,000
+    dateText: Block 9,573,000
+    date: Jan 11 2020 
     color: blue
     icon: angleDoubleUp
     link: /blog/2020-01-11-agharta-hard-fork-upgrade/
-    text: January 11 2020, Ethereum Classic core developers implement ETH's Constantinople and Petersburg network protocol upgrades to maintain operational parity with its sister chain
+    text: Ethereum Classic core developers implement ETH's Constantinople and Petersburg network protocol upgrades to maintain operational parity with its sister chain
   core-Geth-Launch:
     title: Core-Geth Launch
     date: Feb 03 2020
@@ -506,11 +510,12 @@ items:
     text: Phoenix testing begins on the Mordor PoW testnet on block 999,983. Core development teams have signaled that this is a complex implementation. Testing may uncover issues that delay this network upgrade, but Ethereum Classic will never rush to upgrade the mainnet. Network security is priority over development speed and arbitrary timelines
   era3:
     title: 5M20 Era 3
-    date: Block 10,000,001
+    dateText: Block 10,000,001
+    date: March 17 2020
     color: green
     icon: coins
     link: /blog/2020-03-17-5m20-era3-block-reward-reduction/
-    text: March 17 2020, Ethereum Classic's block rewards are reduced by 20% to 3.2 ETC per block, as per the bitcoin-inspired 5M20 emission schedule
+    text: Ethereum Classic's block rewards are reduced by 20% to 3.2 ETC per block, as per the bitcoin-inspired 5M20 emission schedule
   phoenixKotti:
     title: Phoenix Kotti Testing
     date: Apr 15 2020
@@ -520,11 +525,12 @@ items:
     text: Phoenix testing begins on the Kotti PoA testnet on block 2,200,013. Core development teams have signaled that this is a complex implementation. Testing may uncover issues that delay this network upgrade, but Ethereum Classic will never rush to upgrade the mainnet
   phoenixUpgrade:
     title: Phoenix Upgrade
-    date: Block 10,500,839
+    dateText: Block 10,500,839
+    date: June 01 2020 
     color: blue
     icon: angleDoubleUp
     link: /blog/2020-06-01-phoenix-hard-fork-upgrade/
-    text: June 01 2020, Ethereum Classic core developers implement ETH's Istanbul network protocol upgrades to maintain operational parity with its sister chain
+    text: Ethereum Classic core developers implement ETH's Istanbul network protocol upgrades to maintain operational parity with its sister chain
   client-Deprecation-Attacks:
     title: Client Deprecation Attacks
     date: Jul 20 2020
@@ -555,11 +561,12 @@ items:
     text: Ethereum Classic experiences the fourth successful chain reorganization attack on its network.
   messClientFunctionality:
     title: M.E.S.S. Client Functionality
-    date: Block 11,380,000
+    dateText: Block 11,380,000
+    date: October 10 2020
     color: blue
     icon: angleDoubleUp
     link: /blog/2020-10-10-mess-client-upgrade
-    text: October 10 2020, the Core-Geth client implements the flags to apply the optional M.E.S.S. functionality as a response to the networks 51% attacks.
+    text: The Core-Geth client implements the flags to apply the optional M.E.S.S. functionality as a response to the networks 51% attacks.
   thanosMordor:
     title: Thanos Mordor Testing
     date: Oct 19 2020
@@ -569,18 +576,20 @@ items:
     text: Thanos testing begins on the Mordor PoW testnet on block 2,520,000.
   thanosUpgrade:
     title: Thanos Upgrade
-    date: Block 11,700,000
+    dateText: Block 11,700,000
+    date: November 28 2020
     color: blue
     icon: angleDoubleUp
     link: /blog/2020-11-27-thanos-hard-fork-upgrade/
-    text: November 28 2020, Ethereum Classic implements the Thanos Upgrade to recalibrate the epoch length used in DAG calculations.
+    text: Ethereum Classic implements the Thanos Upgrade to recalibrate the epoch length used in DAG calculations.
   etchash:
     title: Etchash
-    date: Block 11,700,000
+    dateText: Block 11,700,000
+    date: November 28 2020
     color: green
     icon: cubes
     link: /blog/2020-11-27-thanos-hard-fork-upgrade/
-    text: November 28 2020, Ethereum Classic implements the Thanos Upgrade to adjust the mining algorithm from ETHash to ETCHash
+    text: Ethereum Classic implements the Thanos Upgrade to adjust the mining algorithm from ETHash to ETCHash
   manis-ETC-Stupport:
     title: Mantis ETC Client Revival
     date: Dec 09 2020
@@ -590,21 +599,21 @@ items:
     text: Input Output Global signals support for the Ethereum Classic network with the revival of the Mantis client and GUI.
   lcetcc:
     title: Let's Keep Ethereum Classic Classic
-    date: Sept 2021
+    date: 2021-09-04
     color: green
     icon: pen
     link: https://ethereumclassicclassic.org
     text: A concerned ETC participant penned a long rebuttal that argued against the implementation of ECIP-1098.
   treasuryDebate:
     title: Treasury Proposal Withdrawn
-    date: Sept 2021
+    date: 2021-09-20
     color: orange
     icon: timesCircle
     link: https://etccooperative.org/posts/2021-09-20-withdraws-support-for-ecip-1098
     text: After a yearlong discussion about whether a ECIP-1098 would gel with ETC values, ETC Coop, followed by IOHK withdraw support for the Treasury Proposal.
   aBrightFuture:
     title: A Bright Future
-    date: Future
+    date: The Future
     color: green
     icon: etc
     link: /knowledge/roadmap
