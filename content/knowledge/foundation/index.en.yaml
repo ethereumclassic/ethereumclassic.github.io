@@ -29,7 +29,7 @@ items:
       A Crypto-Decentralist Manifesto:
         name: A Crypto-Decentralist Manifesto
         link: /blog/2016-07-11-manifesto
-        description: Another influential document from Ethereum Classic's early days. It outlines the core values of decentralization.
+        description: Another influential document from Ethereum Classic's early days. It outlines the core values of decentralization, and helps inform decision making within the ETC communtiy.
       Ethereum Classic Vision:
         name: Ethereum Classic Vision
         link: https://etherplan.com/2019/08/14/ethereum-classic-vision/8595/
@@ -41,7 +41,7 @@ items:
   past:
     type: links
     title: The Shoulders of Giants
-    description: Ethereum Classic could not exist without other trailblazing projects; specifically, the original blockchain groundwork and decentralist philosophy of Bitcoin, and the Turing-complete Smart Contract platform technology provided by The Ethereum Project.
+    description: Ethereum Classic could not exist without other trailblazing projects such as the original blockchain groundwork and decentralist philosophy of Bitcoin, and the Turing-complete Smart Contract platform technology provided by The Ethereum Project.
     items:
       The idea of Smart Contracts:
         name: The idea of Smart Contracts
@@ -54,7 +54,7 @@ items:
       ethWhitepaper:
         name: "Ethereum Whitepaper"
         link: https://ethereum.org/en/whitepaper/
-        description: The Original Ethereum Whitepaper, which explains how the utility of blockchain technology is unleashed by "solving the political problem of deciding who gets to influence the consensus", as well as the concept of DAOs, Stablecoins, etc.
+        description: The Original Ethereum Whitepaper explains how the utility of blockchain technology is unleashed by "solving the political problem of deciding who gets to influence the consensus", and the concept of DAOs, Stablecoins, etc.
       ethYellowPaper:
         name: "Ethereum Yellowpaper"
         link: https://ethereum.github.io/yellowpaper/paper.pdf

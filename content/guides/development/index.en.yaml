@@ -5,11 +5,11 @@ seo: A selection of tutorials and explainers for both beginners and advanced dev
 description: |
   The process of authoring and deploying Smart Contracts to Ethereum Classic is the same as it is for Ethereum. One of Ethereum Classic's goals is to maintain compatibility with ETH, so that any contract deployed to Ethereum can be easily redeployed to Ethereum Classic.
 
-  This means that most of the existing tutorials, libraries and development tools that exist on Ethereum can be used with Ethereum Classic too. In most cases, the only difference is changing a configuration option to deploy to the Ethereum Classic rather than a testnet or Ethereum mainnet. 
+  This means that most of the existing tutorials, libraries, and development tools that exist on Ethereum can be used with Ethereum Classic too. In most cases, the only difference is changing a configuration option to deploy to the Ethereum Classic rather than a testnet or Ethereum mainnet. 
 
-  The main exception to this is interactions with third party systems such as Stablecoins or Oracles that are only deployed to ETH and are not yet on ETC. Slowly but surely, ETC versions of these services will be migrated over, perhaps even by you! You can track what services are currently available in the [apps section](/services/apps), and be sure to explore the [development section](/development) for more goodies.
+  The main exception is interactions with third party systems such as Stablecoins or Oracles, which are only deployed to ETH and are not yet on ETC. Slowly but surely, ETC versions of these services will be migrated over, perhaps even by you! You can track what services are currently available in the [apps section](/services/apps), and be sure to explore the [development section](/development) for more goodies.
 
-  For this reason, we strongly recommend exploring the [Developer Resources on the Ethereum.org website](https://ethereum.org/en/developers/), which has a wealth of up-to-date information. The links on this page contain guides specific to developing on Ethereum Classic.
+  For this reason, we strongly recommend exploring the [Developer Resources on the Ethereum.org website](https://ethereum.org/en/developers/), which has a wealth of up-to-date information. Additionally, links on this page contain guides specific to developing on Ethereum Classic.
 
   You can also find video tutorials about developing with Ethereum Classic in the [Videos > Development](/videos/development) section.
 contributors:

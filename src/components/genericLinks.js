@@ -9,7 +9,7 @@ export default function GenericLinks({ items, showLink }) {
     <>
       {items.map(({ key, link, name, description }) => (
         <Fragment key={key}>
-          <h3>
+          <h3 tw="!mt-16">
             <Link to={link} showExternal tw="mr-2">
               {name}
             </Link>
@@ -24,7 +24,7 @@ export default function GenericLinks({ items, showLink }) {
               </Link>
             )}
           </h3>
-          <Md>{description}</Md>
+          <Md tw="mb-16">{description}</Md>
         </Fragment>
       ))}
     </>

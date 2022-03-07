@@ -47,12 +47,12 @@ export default function ContentHeader({ mdx, i18n, pre, ...rest }) {
           <div tw="flex space-x-4">
             {date && (
               <SubItem title={ui.published}>
-                <FormattedDate date={date} />
+                <FormattedDate long date={date} />
               </SubItem>
             )}
             {updated && (
               <SubItem icon="update" title={ui.updated}>
-                <FormattedDate date={updated} />
+                <FormattedDate long date={updated} />
               </SubItem>
             )}
             {author && (
