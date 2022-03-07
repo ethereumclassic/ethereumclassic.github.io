@@ -28,6 +28,28 @@
 #
 ### END APP TEMPLATE
 #
+- title: Nft List
+  date: 2022-03-07
+  type: nfts
+  author: HebeBlock
+  authorLink: https://hebeblock.com/
+  openSource: https://github.com/HebePlatform/NFTLIST-ETC
+  links:
+    - name: Launch App
+      link: https://nftlist.hebeswap.com/
+    - name: Twitter
+      link: https://twitter.com/BlockHebe
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/hebeOffice
+      icon: telegram
+    - name: Discord
+      link: https://discord.gg/HFBUJ3AKFT
+      icon: discord
+    - name: Medium
+      link: https://medium.com/@hebeblock
+      icon: medium
+  description: On Nft List, users can view the NFT collection held under the current address
 - title: Lazy Lions
   date: 2022-02-25
   type: nfts
@@ -86,6 +108,18 @@
     - name: Homepage
       link: https://hens.domains/
       icon: home
+    - name: Twitter
+      link: https://twitter.com/BlockHebe
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/hebeOffice
+      icon: telegram
+    - name: Discord
+      link: https://discord.gg/HFBUJ3AKFT
+      icon: discord
+    - name: Medium
+      link: https://medium.com/@hebeblock
+      icon: medium
 - title: Token Factory
   date: 2022-02-06
   type: other
@@ -94,6 +128,18 @@
   links:
     - name: Launch App
       link: https://easy.hebeswap.com/#/
+    - name: Twitter
+      link: https://twitter.com/BlockHebe
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/hebeOffice
+      icon: telegram
+    - name: Discord
+      link: https://discord.gg/HFBUJ3AKFT
+      icon: discord
+    - name: Medium
+      link: https://medium.com/@hebeblock
+      icon: medium
   description: On Token Factory, users can create ETC ERC20 with one click, and perform operations such as batch transfers.
 - title: SwapCat
   date: 2022-01-16
@@ -181,6 +227,18 @@
     - name: Documentation
       link: https://block-hebe.gitbook.io/hebeblock/
       icon: book
+    - name: Twitter
+      link: https://twitter.com/BlockHebe
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/hebeOffice
+      icon: telegram
+    - name: Discord
+      link: https://discord.gg/HFBUJ3AKFT
+      icon: discord
+    - name: Medium
+      link: https://medium.com/@hebeblock
+      icon: medium
 - title: ETCBits
   date: 2021-12-26
   image: ./images/etcbits.jpg
