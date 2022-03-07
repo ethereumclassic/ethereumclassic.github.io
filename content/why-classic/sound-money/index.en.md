@@ -47,17 +47,17 @@ Ethereum Classic's fixed emission curve was introduced by [ECIP-1017](https://ec
 
 _Note: due to fluctuating uncle rate, the exact emission amount will deviate slightly, but not significantly._
 
-A _fixed emissions curve_ means that the rate of inflation is predictable, and in the case of ETC, is continually decreasing over time. As the value of the network increases, the value of all ETC increases predictably according to this rate, rather than some unknown future rate that could be much higher. ETC's commitment to a fixed emission curve is enshrined into both the protocol and its social layer, and thanks to Proof of Work, any hard fork that attempts to manipulate inflation will result in a permanent chain split, massively disincentivizing such a change to the point of it being _extremely_ unlikely to be contemplated, let alone be attempted, let alone be successful.
+A _fixed emissions curve_ means that the rate of inflation is predictable, and in the case of ETC, is continually decreasing over time. As the value of the network increases, the value of all ETC increases predictably according to this rate, rather than some unknown future rate that could be much lower. ETC's commitment to a fixed emission curve is enshrined into both the protocol and its social layer, and thanks to Proof of Work, any hard fork that attempts to manipulate inflation will result in a permanent chain split, massively disincentivizing such a change to the point of it being _extremely_ unlikely to be contemplated, let alone be attempted, let alone be successful.
 
 A _known future supply_ not only provides a prosperous alternative to the legacy fiat system, but also a critical sociotechnological role in the blockchains that utilize it as the basis for keeping a project decentralized. The monetary policy of a blockchain is a common agreement that all participants voluntary engage with. It keeps all parties aligned economically and helps prevent groups from accumulating unfair influence over others. This unwavering neutrality is what keeps all participants on an equal footing.
+
+Sound money, and it's ability to hold value over time, is a core property of the incentivization mechanisms that encourage participation, as while it does not guarantee that an asset will appreciate, it at least provides a means to calculate future earnings potential given the future growth of a project. It means that holders are guaranteed to benefit fairly from a project's upside.
 
 ## Unsound Money
 
 Be it fiat or cryptocurrencies, redistribution of funds via inflation or currency debasement is one of the oldest tricks in the book for meddling central planners with a misplaced sense of authority. In times of trouble, they inevitably use this mechanism to ensure that when the ship goes down, those who control the keys to the castle will be the first on the life rafts, as they can redistribute whatever dregs of value remain to themselves at the expense of holders of the currency, all in the name of safety and stability, of course.
 
 This failure state is a type of rugpull that can only exist in projects that are not sufficiently decentralized. The redistribution of value away from holders to some specific group (be it miners, stakers, or developers) can only happen when the [balance of power](/why-classic/decentralism#balancing-power) is uneven, such that some participants can push through changes to the protocol that put their interests before others.
-
-Sound money, and it's ability to hold value over time, is a core property of the incentivization mechanisms that encourage participation, as while it does not guarantee that an asset will appreciate, it at least provides a means to calculate future earnings potential given the future growth of a project. It means that holders are guaranteed to benefit fairly from a project's upside.
 
 The alternative to a _known future supply_ is an _unknown future supply_, leading to an unbounded degree of inflation or currency debasement down the road. In small amounts inflation may be unnoticeable and be drowned out by the day to day volatility of markets, but it nevertheless amounts to a tax on holders of the currency that do not enjoy the immediate benefits of the [Cantillion Effect](https://www.adamsmith.org/blog/the-cantillion-effect).
 
@@ -75,4 +75,4 @@ The idea of _ultrasound money_, a synonym of _unsound money_, means that the fut
 
 ![Used Car Salesman Explaining Ultrasafe Vehicles](./ultrasafe.jpg)
 
-Regrettably, in contrast with Ethereum Classic, perhaps to provide optionality in the future for attracting Proof of Stake yield, Ethereum™ is one of many cryptocurrency projects that maintains a policy of _unknown future supply_, which in turn means that holders are exposed to the risk of unbounded future inflation.
+Regrettably, in contrast with Ethereum Classic, perhaps to provide optionality in the future for attracting Proof of Stake collateral, Ethereum™ is one of many cryptocurrency projects that maintains a policy of _unknown future supply_, which in turn means that holders are exposed to the risk of unbounded future inflation.

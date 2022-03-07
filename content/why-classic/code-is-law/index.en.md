@@ -24,7 +24,7 @@ _Code is Law_ puts the "Unstoppable" in "Build Unstoppable Applications", a phil
 
 Many who think deeply about the potential of blockchain technology have a "eureka" moment, where it all _clicks_, and the wild valuations of the cryptocurrency space suddenly feel a little meager. They realize a future can exist where all agreements between people are ultimately governed not by corruptible institutions but by the cold hard logic of Smart Contract code.
 
-In this future, individuals decide for themselves which contracts they wish to engage with, rather than by the roll of the dice via the geographical monopolies they happen to be born into. There are no middlemen as rent-seeking in all areas is replaced by disintermediation, market competition, and price optimization. This reality is fairer, cheaper, interoperable, and global. It becomes a universal solvent that lubricates the calcified machinery of old.
+In this future, individuals decide for themselves which contracts they wish to engage with, rather than by the roll of the dice via the geographical monopolies they happen to be born into. There are no middlemen as rent-seeking in all areas is replaced by disintermediation, market competition, and price optimization. This reality is fairer, cheaper, interoperable, and global. It becomes a universal solvent that lubricates the ossified machinery of old.
 
 A new era of human flourishing is unleashed, as society is unshackled from the inefficiency and opacity of corruption. It will be nothing short of a new renaissance, a beaming ray of hope in the face of darker alternatives, and to top it off, it is achievable within our lifetimes.
 
@@ -46,7 +46,7 @@ For those who want to "Build _Unstoppable_ Applications", the apparent truth is 
 
 ## Not without a Fight
 
-While these new systems will unlock immense value for the vast majority, they are bound to be opposed by those who currently benefit from the status quo.
+While these new systems will unlock immense value for the vast majority, they are bound to be opposed by those who unfairly benefit from the status quo.
 
 In transparent and incorruptible _Code is Law_ jurisdictions, those who cannot provide real value on a level playing field will go extinct. For this reason, in a futile attempt to stop progress, truly decentralized blockchains will experience significant pushback from incumbent institutions for whom this fairer reality poses an existential threat.
 
@@ -62,9 +62,9 @@ How we engage depends on recognizing the boundaries of _Code is Law_, and unders
 
 The phrase isn't _only Code is Law_. The concept of _Code is Law_ is ambivalent about how any particular local constabulary handles the unstoppability of Smart Contracts in their off-chain jurisdiction. Cryptocurrency theft, for example, is considered illegal in many places, and _Code is Law_ proponents can consistently support the return of stolen funds while also opposing the reversing of malicious transactions. 
 
-As there are many legal jurisdictions and various approaches to policing, *Code is Law* blockchains recognize that to remain globally relevant and accessible they must remain neutral by following their *own* contractual agreements. Off-chain concerns are outside the responsibility of the chain, whose only role is to ensure that transactions are _not_ reversible through third party interference with the protocol.
+As there are many legal jurisdictions and various approaches to policing, *Code is Law* blockchains recognize that to remain globally relevant and accessible, they must be neutral and follow their *own* contractual agreements. Off-chain concerns are outside the responsibility of the chain, whose only role is to ensure that transactions are _not_ reversible through third party interference with the protocol.
 
-_Code is Law_ blockchains are opt-in systems that can have off-chain consequences that depend on how they are used. In the same way that fire can be used for both warmth and destruction, as a new technological primitive, restricting its use will only hinder the restrictor, who will be left behind as others take advantage of it. There is no question that a big challenge exists in figuring out how the world interfaces with this new tech, but that depends on cultural biases and is not necessarily within the control of technologist. In other words, please, don't shoot the messenger.
+_Code is Law_ blockchains are opt-in systems that can have off-chain consequences that depend on how they are used. In the same way that fire can be used for both warmth and destruction, as a new technological primitive, restricting its use will only hinder the restrictor, who will be left behind as others take advantage of it. There is no question that a big challenge exists in figuring out how the world interfaces with this new tech, but that depends on cultural biases and is not necessarily within the control of technologist. In any case, please don't shoot the messenger.
 
 ### Outside the Contract Layer
 

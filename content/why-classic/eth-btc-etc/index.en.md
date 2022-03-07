@@ -13,7 +13,6 @@ seo: By combining the technology of Ethereum with the philosophy and security of
 - Like BTC, ETC has "no official anything", preventing "official" capture.
 - Like BTC, ETC aims to provide a reliable secure base layer and does so by upgrading the protocol conservatively.
 - Like BTC, ETC requires constant skepticism in community interactions.
-- Some in the ETC community believe _toxicity_ is a legitimate way to inoculate bad actors in an adversarial context.
 
 ## Introduction
 
@@ -63,8 +62,6 @@ _No official anything_ is the source of much of the strength of the Ethereum Cla
 
 The view of many within the Ethereum Classic community is that the aforementioned [Blockchain Trilemma](/why-classic/decentralism#the-blockchain-trilemma) is insurmountable, at least on the base later. For this reason, Ethereum Classic's current roadmap does not include the more exotic "solutions" that will be attempted by Ethereum™.
 
-Sharding is one example, where contracts are siloed into execution environments and executed in parallel. In theory this idea seems plausible and may be useful in some contexts, but for that added complexity there are many trade-offs. It is not suitable for globally interoperable contracts, including many of today's valuable systems that need shared execution, such as those that frequently interact with Decentralized Finance liquidity.
-
 Essentially, there is no known _one size fits all_ approach to scaling throughput that can be applied on the base layer without compromising an important security assumption, so for ETC as a protocol, barring some significant technological advancement, it is best left up to applications or secondary protocols to provide various different trade-offs and implement optimizations depending on the use case, giving users the choice of which to adopt.
 
 Many in the Ethereum Classic community are also wary of attempts to increase the block size, due to the adverse effects that are likely to appear down the road in terms of "bloat" and the increased _time to sync_ and hardware requirements, which, if left unchecked, may make it difficult to run an Ethereum Classic node, leading to centralization. Some argue the block gas limit should be reduced further, while others look towards _Zero Knowledge Proof_ technologies that can reduce the amount of data needed to be stored on chain.
@@ -75,9 +72,9 @@ There is general agreement that a layered approach to scaling blockchains can in
 
 The base layer needs to be secure in several ways; both technologically with fewer bugs and socioeconomically secure against various forms of attack.
 
-Because single points of failure can exist in many areas and are often hidden, all things being equal, it is easier to maintain decentralization in systems that are _less complex_. Additional complexity not just creates more potential for technical bugs and exploits, but also for central points of failure, in unforeseen game-theory quandaries and in the form of higher upkeep requirements leading to a reduced pool of developers able to contribute to maintenance; if a system is too complex for anyone to reason with, it may as well be captured by its authors, who have sole authority on how it should be operated, maintained, and upgraded.
+Because single points of failure can exist in many areas and are often hidden, all things being equal, it is easier to maintain decentralization in systems that are _less complex_. Additional complexity creates not just more technical bugs and exploits, but also potential central points of failure, in unforeseen game-theory quandaries and in the form of higher upkeep requirements leading to a reduced pool of developers able to contribute to maintenance. If a system is too complex for anyone to reason with, it may as well be captured by its authors, who have sole authority on how it should be operated, maintained, and upgraded.
 
-Bitcoin, as with ETC, positions itself as the "good old reliable" system that does not need to innovate quickly, but instead, do so slowly and methodically without breaking any of it's previously established guarantees. This is achieved through a conservative approach to protocol upgrades, a "Move Slowly and Don't Break Things" ethos, and the delivery of innovation in layers, rather than attempting to implement radical changes to the base protocol.
+Bitcoin, as with ETC, positions itself as the "good old reliable" system that does not need to innovate quickly, but instead, do so slowly and methodically without breaking it's previously established guarantees. This is achieved through a conservative approach to protocol upgrades, a "Move Slowly and Don't Break Things" ethos, and the delivery of innovation in layers, rather than attempting to implement radical changes to the base protocol.
 
 Like Bitcoin, this approach does not preclude innovation. Instead, it simply demands a careful and methodical [approach](/knowledge/future#upgrade-process) to protocol upgrades.
 

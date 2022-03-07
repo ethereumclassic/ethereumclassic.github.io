@@ -55,17 +55,17 @@ The Blockchain Trilemma describes a technological limitation that applies to all
 
 Like creating a video game character, all projects must place themselves somewhere in the space of these sociotechnological dimensions, allocating ability points and sacrificing some attributes for others. The selection defines a blockchain's class, abilities and effectiveness in battle.
 
-As we will see, as far as the protocol's attributes and underlying philosophy goes, Ethereum Classic has maxed-out it's decentralization and security, intentionality sacrificing both scalability and other top down social organizational more essential skills can be strengthened.
+As we will see, as far as the protocol's attributes and underlying philosophy goes, Ethereum Classic has maxed-out it's decentralization and security, intentionality sacrificing both transaction scalability and top down social organization so that more essential skills can be strengthened.
 
-These skills were maxed-out because, for a blockchain protocol to scale its base protocol, it must make trade-offs in decentralization and security, which may not appear as apparent costs immediately, but in the long run, is bound to damage the utility and value of the network. In short, for ETC, scalability is less important than security and decentralization, and this technical trade-off is also mirrored in the social layer; decentralization trumps the expediency of central rule.
+ETC chose the max-out these skills because for a blockchain protocol to scale its base protocol it must make trade-offs in decentralization and security, which may not appear as apparent costs immediately, but in the long run is bound to damage the utility and value of the network. In short, for ETC, scalability is less important than security and decentralization, and this technical trade-off is also mirrored in the social layer; decentralization trumps the expediency of central rule.
 
-Today, most blockchain projects have abandoned the idea of maxing-out decentralization in exchange for scalability and the benefits of coordinating from a central group. This may well be useful for short term bootstrapping as it allows the funding of extravagant development or marketing budgets, but unless the project tapers-off this dependence on centralization, which may be impossible due to the incentivization structures it creates, the network is exposed to take-over through the capture of this relatively centralized set up.
+Today, most blockchain projects have abandoned the idea of maxing-out decentralization in exchange for scalability and the benefits of coordinating from a central group. This may well be useful for short term bootstrapping as it allows the funding of extravagant development or marketing budgets, and there is no obvious downside in an environment that is not antagonistic, but unless the project tapers-off this dependence on centralization, which may be impossible due to the incentivization structures it creates, the network is exposed to take-over through the capture of this relatively centralized set up.
 
 ### Sovereign Grade Censorship Resistance
 
 One question that should be asked when evaluating different blockchain projects is "is it decentralized enough?". The answer to this entirely depends on the use case's [threat model](https://en.wikipedia.org/wiki/Threat_model), which depends on what kind of applications need to be run on a given chain. The question can be reframed as "who would want to stop the applications on this chain from running, and can the chain resist their attempts at censorship?".
 
-For example, in the case of Bitcoin, its main application is the coin itself: digital scarcity and the ability to transfer it without censorship. It competes with many currencies and assets, including the US dollar, and, therefore, must withstand attacks from very powerful entities to persist. Many of Bitcoin's [predecessors](https://blog.dassetx.com/the-known-and-possible-influences-of-satoshi-nakamoto-part-1-privately-issued-digital-currencies-before-bitcoin) were shut down because they had central points of failure, and Bitcoin was explicitly designed to circumvent this kind of censorship by being sufficiently decentralized.
+For example, in the case of Bitcoin, its main application is the coin itself: digital scarcity and the ability to transfer it without censorship. It competes with many currencies and assets, including the US dollar, and therefore it must withstand attacks from very powerful entities to persist. Many of Bitcoin's [predecessors](https://blog.dassetx.com/the-known-and-possible-influences-of-satoshi-nakamoto-part-1-privately-issued-digital-currencies-before-bitcoin) were shut down because they had central points of failure, and Bitcoin was explicitly designed to circumvent this kind of censorship by being sufficiently decentralized.
 
 In contrast, some blockchains require less censorship resistance than Bitcoin and only intend to, for example, enable the transfer of virtual baseball cards, or have other uncontroversial use cases. As no powerful external forces want to stop these applications, censorship resistance is unnecessary. It may even be seen as a benefit if some central party can override the state of the chain in certain circumstances, so having the whole chain operated by a handful of authorities is acceptable for this use case. In these cases, where the use case is not important enough for well-funded organization to shut down, it might make sense to sacrifice decentralization for scalability, and other non-blockchain technologies may be more appropriate.
 
@@ -89,7 +89,7 @@ Before we explore the solution to the problem of centralization, we must first u
 
 Today, even more so than when Ethereum (Classic) was launched in 2015, it is increasingly apparent that censorship is becoming the weapon of choice of a dying legacy system attempting to cling on to relevance. As these old institutions become increasingly threatened by change, it seems likely that ever-more drastic measures will be taken to defend their position.
 
-Before blockchain technology entered the scene, these institutions had reality pretty much on lockdown as society was heavily reliant on centralized control points for value and information transfer, which was readily exploited. With cryptography, Satoshi retorted just in the Nick of time, turning the tables on [the logic of violence](https://cryptonews.net/en/news/bitcoin/2927549/), and provided humanity with a path towards an alternative emergent order.
+Before the internet and blockchain technology entered the scene, these institutions had reality pretty much on lockdown as society was heavily reliant on centralized control points for value and information transfer, which was readily exploited. With cryptography, Satoshi retorted just in the Nick of time, turning the tables on [the logic of violence](https://cryptonews.net/en/news/bitcoin/2927549/), and providing humanity with a path towards an alternative emergent order.
 
 As time goes on, the attacks against free, fair and open alternatives to the status quo will ramp up. As a result, the cryptocurrency ecosystem will enter a new phase, a highly antagonistic phase, where the uncensorability of blockchain technology will truly be put to the test, and the central points of failure in cryptocurrency systems that have them will be sought out and exploited. For use cases that incumbents disapprove, only the _Sovereign Grade_ will survive.
 
@@ -127,7 +127,7 @@ Centralization, like gravity, is constantly pulling and looking for any weakness
 
 Because of this, there is no point in having decentralization in half measures. A chain is only as strong as its weakest link, and a blockchain is only as decentralized as its most centralized bottleneck. For this reason, _all_ parts of a blockchain project, both technically and socially, must strive for _decentralization maximalism_.
 
-Unfortunately, within the cryptocurrency ecosystem the importance of _Decentralization Maximalism_ is not widely understood or adopted, to the point where the term _Decentralization Theater_ has become a common way to describe many _so-called_ decentralized systems.
+Unfortunately, within the cryptocurrency ecosystem the importance of _decentralization maximalism_ is not widely understood or adopted, to the point where the term _decentralization theater_ has become a common way to describe many _so-called_ decentralized systems.
 
 These projects have subtle single points of failure within their systems, but promoters shift the focus to other "decentralized" areas. This is an effective tactic, as proving that a system has potentially capturable central points of failure requires intimate knowledge of the system, and can be very difficult or impossible for the layman, due to the technical skill and insider knowledge required to evaluate properly.
 
@@ -137,7 +137,7 @@ Like the parable of the buildings built on rock and sand, to the untrained eye, 
 
 ## Classic Problems Require Classic Solutions
 
-Corruption is a problem as old as civilization. While might not have reared its ugly head in the cryptocurrency space yet, as the technology becomes more influential, it is bound to attract forces that wish to bridle its power and shape it towards a future where, far from liberating humanity, blockchains become tools for optimizing enslavement.
+Corruption is a problem as old as civilization. While it might not have reared its ugly head in the cryptocurrency space yet, as the technology becomes more influential, it is bound to attract forces that wish to bridle its power and shape it towards a future where, far from liberating humanity, blockchains become tools for optimizing enslavement.
 
 In the long run, whatever happens, decentralized blockchains will prevail eventually. Still, if humanity wishes to avoid a dark-ages style period of hampered innovation and stagnation, the word must be spread about the dangers of centralization so that it can be dealt with before they take hold. Luckily, a window of opportunity exists to counter the inevitable ongoing attempts to capture blockchains. For now, projects that strive for _decentralization maximalism_ still exist and are available to those who wish to use them.
 
@@ -185,7 +185,7 @@ As with the US Government, checks and balances are an essential feature of Proof
 | Miners     | Provide security against 51% attacks      | Mine a different chain |
 | Financiers | Provide liquidity and finance initiatives | Sell holdings          |
 
-The alignment of three major powers in Proof of Work blockchains provides stability. They each add value to the system in entirely different ways. Each holds the system to account through the power of veto, which ensures that no other groups can screw things up too severely. Whether a government or a blockchain, things tend to go wrong when these checks and balances are upset.
+The alignment of three major powers in Proof of Work blockchains provides stability. They each add value to the system in entirely different ways. Each holds the system to account through the power of veto, which ensures that no other groups can screw things up too badly. Whether a government or a blockchain, things tend to go wrong when these checks and balances are interfered with.
 
 Note that this configuration of three is important, as it also means that the collective can overcome consensus issues through a simple majority rule. This odd-number electorate is a common pattern in distributed systems. A deadlock can ensue with only two participants, as no third party is there to resolve the dispute.
 
@@ -217,4 +217,4 @@ The innovations that Ethereum brought to the world in the form of a Turing Compl
 
 In the not too distant future, as attacks against blockchains ramp up, this need will be all too clear. As one by one, so-called decentralized projects reveal their true colors and succumb to corruption in the form of capture by special interests. As a result, only the genuinely decentralized will remain.
 
-By combining the technology of Ethereum™ with the philosophy of Bitcoin, Ethereum Classic provides a secure, multipurpose, decentralized blockchain, and a free, fair and flourishing alternative to what might be grim and centralized future.
+By combining the technology of Ethereum with the philosophy of Bitcoin, Ethereum Classic provides a secure, multipurpose, decentralized blockchain, and a free, fair and flourishing alternative to what might be grim and centralized future.
