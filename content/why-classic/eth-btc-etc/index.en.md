@@ -32,7 +32,7 @@ The decision for The Ethereum Foundation to abandon the decentralist values that
 
 Ethereum Classic, even more so than Bitcoin itself, exists as an explicit reminder about the importance of decentralist values. There were many who didn't understand their significance at the time, but many others saw the truth that decentralization was the very point, not just an annoying obstacle to overcome.
 
-Since the chain split, the design choices and philosophy of Ethereum Classic have come to recognize the genius decisions made when constructing the original Bitcoin protocol. As much as possible, ETC emulates this success in the pursuit decentralism and the real world achievements that followed.
+Since the chain split, the design choices and philosophy of Ethereum Classic have come to recognize the genius decisions made when constructing the original Bitcoin protocol. As much as possible, ETC emulates this success in the pursuit of decentralism and the real world achievements that followed.
 
 ## Immaculate Conception 2.0
 
@@ -52,7 +52,7 @@ Ethereum Classic is also the only blockchain project seeded with a follower base
 
 ## No Official Anything
 
-Like Bitcoin, Ethereum Classic has no official developers, maintainers, or leaders. It has no official logo, no official website, no official conferences. Ethereum Classic cannot have an official _anything_ becuase no individual or group has the authority to claim they represent ETC in any official capacity.
+Like Bitcoin, Ethereum Classic has no official developers, maintainers, or leaders. It has no official logo, no official website, no official conferences. Ethereum Classic cannot have an official _anything_ because no individual or group has the authority to claim they represent ETC in any official capacity.
 
 This is a rare quality and massive strength in the world of blockchains. It means no official _thing_ can be taken down, captured, or compromised, and there is no official entity that can sue competing forks for copyright infringement.
 
@@ -66,7 +66,7 @@ Essentially, there is no known _one size fits all_ approach to scaling throughpu
 
 Many in the Ethereum Classic community are also wary of attempts to increase the block size, due to the adverse effects that are likely to appear down the road in terms of "bloat" and the increased _time to sync_ and hardware requirements, which, if left unchecked, may make it difficult to run an Ethereum Classic node, leading to centralization. Some argue the block gas limit should be reduced further, while others look towards _Zero Knowledge Proof_ technologies that can reduce the amount of data needed to be stored on chain.
 
-There is general agreement that a layered approach to scaling blockchains can increase throughput while satisfying the _Blockchain Trilemma_ in a way that does not mess with the base layer. Individuals can safely experiment with different L2 systems without effecting L1, and can fine-tune the various trade-offs depending on the application and user requirements.
+There is general agreement that a layered approach to scaling blockchains can increase throughput while satisfying the _Blockchain Trilemma_ in a way that does not mess with the base layer. Individuals can safely experiment with different L2 systems without affecting L1, and can fine-tune the various trade-offs depending on the application and user requirements.
 
 ## KISS Slowly
 

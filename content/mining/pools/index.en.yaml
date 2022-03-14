@@ -97,6 +97,9 @@ items:
       ETC365:
         name: ETC365
         __link: https://etc365.org/
+      ETC Mining Club:
+        name: ETC Mining Club
+        __link: https://www.etcmining.club/
       ETCPool:
         name: ETCPool
         __link: https://ethereumclassicpool.com/

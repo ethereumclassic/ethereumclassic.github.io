@@ -75,11 +75,11 @@ Everything was going well in ETH land. People were excited, new ideas were sprou
 
 ## The DAO
 
-A DAO (pronounced "_Dow_ Jones") or "Decentralized Autonomous Organization" describes a Smart Contract system that, much like a company, manages the distribution of funds for many stakeholders, and is usually governed by voting mechanisms. The idea of DAOs had been around for a while, but weren't practical until Ethereum made it easy to program and launch them, which many teams began to in 2016.
+A DAO (pronounced "_Dow_ Jones") or "Decentralized Autonomous Organization" describes a Smart Contract system that, much like a company, manages the distribution of funds for many stakeholders, and is usually governed by voting mechanisms. The idea of DAOs had been around for a while, but wasn't practical until Ethereum made it easy to program and launch them, which many teams began to do in 2016.
 
 ![Artwork created for The DAO, based on Taoist symbology](./dao.png)
 
-The Ethereum Foundation, who raised funds in a crowdsale to create Ethereum, had a Chief Communications Officer who [announced](https://blog.ethereum.org/2015/07/30/ethereum-launches/) the Ethereum Genesis Block and was an [advocate](https://twitter.com/stephantual/status/711874685156376576) of _Code is Law_. Like many others, EF's CCO saw the bright future promised by "Build Unstoppable Applications", indeed, it was ultimately their call of to use this term to promote the Ethereum project.
+The Ethereum Foundation, who raised funds in a crowdsale to create Ethereum, had a Chief Communications Officer who [announced](https://blog.ethereum.org/2015/07/30/ethereum-launches/) the Ethereum Genesis Block and was an [advocate](https://twitter.com/stephantual/status/711874685156376576) of _Code is Law_. Like many others, EF's CCO saw the bright future promised by "Build Unstoppable Applications", indeed, it was ultimately their call to use this term to promote the Ethereum project.
 
 In November 2015, the now former CCO teamed up with some coders and formed a company called slock.it. Slock.it wanted to launch not just _a_ DAO, but _The_ DAO, which would be used as a kind of venture capital fund targeting Ethereum projects. It was pitched as a way to grow the Ethereum ecosystem and net returns for investors, who would deposit ether into The DAO contract in exchange for DAO Tokens, which would allow voting for and yield rewards from investments made by The DAO.
 
@@ -160,7 +160,7 @@ The stalemate meant the whitehats had denied The DAO Hacker from receiving any s
 
 One of the absurd but important details often forgotten about The DAO Fork is that it was unnecessary as most of the funds were already recovered, with the rest being as good as recovered. Without a Hard Fork, the _worst case scenario_ for DAO Token Holders was a _temporary_ 30% haircut, but as we will see, the implementation of the Hard Fork ended up causing a far worse outcome for not just DAO Token Holders but the entire Ethereum community and the culture of cryptocurrency as a whole.
 
-*UPDATE:* This analysis has been proven correct as the identity of The DAO Hacker has since been deduced by researchers and members of RHG. Absent of a fork, the pressure to unmask the hacker would have been much greater and likely happened much sooner. 
+*UPDATE:* This analysis has been proven correct as the identity of The DAO Hacker has since been deduced by researchers and members of RHG. Absent a fork, the pressure to unmask the hacker would have been much greater and likely happened much sooner. 
 
 ### To Fork, or not to Fork?
 
@@ -213,7 +213,7 @@ As we will reflect upon later, through a game theory lens, the whole ordeal seem
 
 ### The Totally Fair Coin Vote
 
-During the debate The Ethereum Foundation attempted to maintain a stance of neutrality. Whatever was done about The DAO Hack, it was a question for the Ethereum _community_ to decide, not something that came from the top. This was an important position to hold as deferring the choice would, on paper, resolve them of responsibility. However, depite this claim, clear evidence of a lack of neutrality various wings of Ethereum Foundation was shown.
+During the debate The Ethereum Foundation attempted to maintain a stance of neutrality. Whatever was done about The DAO Hack, it was a question for the Ethereum _community_ to decide, not something that came from the top. This was an important position to hold as deferring the choice would, on paper, resolve them of responsibility. However, despite this claim, clear evidence of a lack of neutrality among various wings of the Ethereum Foundation was shown.
 
 One problem with implementing the Hard Fork was that if users needed to opt-in with additional configuration, many node operators and miners would default to the "unforked" chain when they routinely upgraded their software, which would all but guarantee a chain split would occur and create problems. The "solution" was to update the default settings of the Ethereum clients to follow the new Hard Fork rules, and require users who wish to be on the unforked version of Ethereum to opt-out of the fork.
 
@@ -238,7 +238,7 @@ Commendably, in recent versions of the Ethereum.org website, the controversy sur
 
 While it was clear that some pro-forkers did not want Geth or any Ethereum Foundation products even to have the option of running the unforked chain, to provide neutrality, the infamous `--oppose-dao-fork` flag was added to Geth, enabling users to opt-in to the unforked chain by enabling this config parameter. However, it was soon removed in later versions.
 
-To be fair, some other Ethereum Foundation teams attempted to provide genuine neutral choices. For example, Mist, the dapp browser, required users to make an explicit choice of which version of the chain to run when opening the client, rather than opting them in to one side of the fork by default.
+To be fair, some other Ethereum Foundation teams attempted to provide genuine neutral choices. For example, Mist, the dapp browser, required users to make an explicit choice of which version of the chain to run when opening the client, rather than opting them into one side of the fork by default.
 
 ![Ethereum Foundation's Mist Wallet asked users to decide which fork to use](./mist.png)
 
@@ -314,7 +314,7 @@ The Ethereum Classic community quickly organized into a new decentralized emerge
 
 The now fractured Ethereum community, already war-weary thanks to the Hard Fork debate, was sent into overdrive by the emergence of Ethereum Classic. What many had hoped would be the end of the struggle turned out to be the beginning of another difficult chapter in a demoralizing development that was far worse than professed and anticipated just weeks earlier.
 
-The chain split was far from painless. Had all the side effects been known in advance, it seems extremely unlikely that even the most ardent supporters of a Hard Fork would have considered it an acceptable solution, especially compared to alternatives that would not have caused a split. ETC was living proof that pro-forker assurances about a smooth Hard Fork were just wishful thinking. Having caused such a cock-up, who could trust their judgement again?
+The chain split was far from painless. Had all the side effects been known in advance, it seems extremely unlikely that even the most ardent supporters of a Hard Fork would have considered it an acceptable solution, especially compared to alternatives that would not have caused a split. ETC was living proof that pro-forker assurances about a smooth Hard Fork were just wishful thinking. Having caused such a cock-up, who could trust their judgment again?
 
 ### Chain of Thieves
 
@@ -413,7 +413,7 @@ How can blockchain projects avoid similar disasters in the future? Strong philos
 
 ### Is Code Law?
 
-To the layman, Ethereum™ still markets itself on Smart Contracts and the idea that their code should be the final arbiter of contract interactions. "Build Unstoppable Applications" was Ethereum.org's main slogan all the way up until 2019, many years after The DAO contract was stopped. The clear reality is that the usefulness of Smart Contract depends on _Code is Law_ being upheld, as otherwise can they be censored arbitrarily by outside forces.
+To the layman, Ethereum™ still markets itself on Smart Contracts and the idea that their code should be the final arbiter of contract interactions. "Build Unstoppable Applications" was Ethereum.org's main slogan all the way up until 2019, many years after The DAO contract was stopped. The clear reality is that the usefulness of Smart Contract depends on _Code is Law_ being upheld, as otherwise they can be censored arbitrarily by outside forces.
 
 However, Ethereum™'s history suggests a questionable relationship with the concept of unstoppability and _Code is Law_. The direct contradiction of this concept in Ethereum™'s past means that the project is now in a schizophrenic position where it is simultaneously for and against the idea of _Code is Law_.
 
