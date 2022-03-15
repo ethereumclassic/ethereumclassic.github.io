@@ -8,7 +8,7 @@ seo: An argument for why Proof of Stake is not a suitable solution for blockchai
 ## Key Points
 
 - Ethereum Classic is committed to remaining on Proof of Work indefinitely in pursuit of _decentralization maximalism_.
-- Proof of Work is tried and true consensus mechanism, the only one known to provide _Sovereign Grade Censorship Resistance_.
+- Proof of Work is a tried and true consensus mechanism, the only one known to provide _Sovereign Grade Censorship Resistance_.
 - Proof of Stake comes with known security trade-offs, including: additional complexity, 33% attacks, vulnerability to financial manipulation, centralization of staking custody, the APR arms race, nothing at stake, removal of checks and balances, and the rich get richer.
 - Candidly, the decision to use Proof of Stake is likely financially motivated, rather than the given reason of environmental concern.
 
@@ -48,7 +48,7 @@ In short, Proof of Work is a sound, battle tested consensus mechanism that corre
 
 The claim that "Proof of Stake is more secure than Proof of Work", is a "[not even wrong](https://en.wikipedia.org/wiki/Not_even_wrong)" statement, due to the nuance in the definition of "secure", and how to square this off with the plurality of Proof of Stake systems that have their own economic, social and technical trade-offs.
 
-A Google spreadsheet cannot be 51% attacked, but does this make it "more secure" than Bitcoin? The answer to this is "it depends on what you mean by _secure_". In the case of Blockchain systems, as [explored](/why-classic/decentralism), it depends on whether a robust, decentralized, permissionless system can that stand the test of time and achieve _Sovereign Grade Censorship Resistance_ is needed. For _this_ kind of security, a Google spreadsheet is far, far _less_ "secure" than Bitcoin, as it can be taken over by a single party, Google, with zero effort.
+A Google spreadsheet cannot be 51% attacked, but does this make it "more secure" than Bitcoin? The answer to this is "it depends on what you mean by _secure_". In the case of Blockchain systems, as [explored](/why-classic/decentralism), it depends on whether a robust, decentralized, permissionless system that can stand the test of time and achieve _Sovereign Grade Censorship Resistance_ is needed. For _this_ kind of security, a Google spreadsheet is far, far _less_ "secure" than Bitcoin, as it can be taken over by a single party, Google, with zero effort.
 
 In this sense, Proof of Stake is much like a Google spreadsheet. Lack of clarity around security guarantees, and the difficulty in measuring them, makes it impossible for even the highly technical users to see past the marketing claims made by many PoS projects. As a result, the true nature of these systems and their potential failure modes is obfuscated, compared with the explicit, well understood, and less complicated guarantees of Proof of Work systems.
 
@@ -82,7 +82,7 @@ As [explored earlier](/why-classic/decentralism/#balancing-power), removing mine
 
 The ultimate source of security on Proof of Work networks is a combination of electricity and hardware manufacturing distribution. Both of these are distributed geographically, and new providers can emerge organically. For large Proof of Work networks like Bitcoin, the resources required to muster an attack against the network are outside the means of any worldly organization, including nation states, which either do not have enough affordable electricity going spare or cannot secure the hardware required to mount an attack.
 
-This is why the high energy usage of Proof of Work networks is not "wasted". Instead, the high energy usage is what secures the network against attack by making such attacks prohibitively expensive and logistically impractical. Importantly, electricity sources are distributed globally, and unlike financial resources, are not easy to transport and impossible centralize in a world of competing nation states that lay claim to geographical boundaries.
+This is why the high energy usage of Proof of Work networks is not "wasted". Instead, the high energy usage is what secures the network against attack by making such attacks prohibitively expensive and logistically impractical. Importantly, electricity sources are distributed globally, and unlike financial resources, are not easy to transport and impossible to centralize in a world of competing nation states that lay claim to geographical boundaries.
 
 Proof of Stake chains are vulnerable to a whole suite of economic attacks thanks to modern financial weaponry and the value of the network being directly tied to security through staking. Unlike mining hardware and electricity, capital can be printed out of thin air in fiat systems and resources can be pulled together from all over the globe at the press of a button. The economic levers available to central banks and other organizations that may be threatened by blockchain technology are vast and sophisticated. The value of all Proof of Stake networks combined is a tiny drop compared to the broader economy, which has massive swathes of liquid capital that can be borrowed, leveraged, and put to use by a single just a single company with a chip on its shoulder.
 
@@ -106,7 +106,7 @@ Permissionlessness, unsurprisingly, is a property that allows new users to onboa
 
 Mining, and in turn, Proof of Work, is permissionless, as anyone (or anything) can contribute hashrate to the network and have an equal chance of being able to mine a block based on the hashrate they contribute. Each hash is like a lottery ticket, and the more tickets purchased the higher the chance of finding a block and getting that sweet, sweet block reward.
 
-Because there are no gatekeepers, Proof of Work consensus mechanisms _can't_ care _how_ hashrate is created, or _who_ contributed. This is an essential quality if a chain is to remain neutral and uncaptured becuase if gatekeepers did exist, they would be able to reject work based on a contributor's identity or location, locking them out, and by doing so, centralizing, and capturing the network.
+Because there are no gatekeepers, Proof of Work consensus mechanisms _can't_ care _how_ hashrate is created, or _who_ contributed. This is an essential quality if a chain is to remain neutral and uncaptured because if gatekeepers did exist, they would be able to reject work based on a contributor's identity or location, locking them out, and by doing so, centralizing, and capturing the network.
 
 Proof of Stake systems are _not_ permissionless. The only way to acquire currency needed to transact and stake is by _buying_ it from someone who already has said currency; they need _permission_ from someone inside the network to use the network, with existing holders being the gatekeepers.
 
@@ -134,7 +134,7 @@ Proof of Stake chains compete with each other for liquid staking capital that, u
 
 For example, if Chain A offers a 12% staking reward, why would stakers stake Chain B's 3% reward, when they could simply stake A and sell those rewards for B, ending up with more B than they would by staking B directly? This forces chain B to increase their reward, which then encourages A to do the same, and so on.
 
-This situation is great news for large stakers, but terrible for users who have a relatively larger portion of their funds not staked to use the network, and will be taxed ever exorbitant fees for simply not staking. How this plays out in the long run is unknowable, but it risks damaging the utility and value of all PoS networks, leading to a death spiral of ever-increasing debasement.
+This situation is great news for large stakers, but terrible for users who have a relatively larger portion of their funds not staked to use the network, and will be taxed exorbitant fees for simply not staking. How this plays out in the long run is unknowable, but it risks damaging the utility and value of all PoS networks, leading to a death spiral of ever-increasing debasement.
 
 ### 33% Attacks
 
@@ -158,7 +158,7 @@ On PoS chains, once an attacker achieves a certain threshold of stake, the chain
 
 In Proof of Work, if a fork occurs, miners have to decide which side of a fork to mine as there is an external electricity cost associated with the creation of blocks. If miners mine the "wrong" fork, their reward will become valueless, and they will have wasted the electricity spent mining it, so they must choose what to mine wisely; there is the _cost of electricity_ at stake.
 
-In contrast, on Proof of Stake, if a fork happens, the staked resources, being part of the system's internal state, are split across the fork and are doubled. Stakers have equal assets on both sides of a fork and are incentivized to validate both sides, as they are unsure which side will prevail. This is known as the [nothing at stake problem](https://medium.com/coinmonks/understanding-proof-of-stake-the-nothing-at-stake-theory-1f0d71bc027). It is likely to encourage forks by making it cheaper and less risky to perform fork, making it easier to attacks chains through fork-based shenanigans, and complicates reaching consensus about which side of a split is the "true" version.
+In contrast, on Proof of Stake, if a fork happens, the staked resources, being part of the system's internal state, are split across the fork and are doubled. Stakers have equal assets on both sides of a fork and are incentivized to validate both sides, as they are unsure which side will prevail. This is known as the [nothing at stake problem](https://medium.com/coinmonks/understanding-proof-of-stake-the-nothing-at-stake-theory-1f0d71bc027). It is likely to encourage forks by making it cheaper and less risky to perform fork, making it easier to attack chains through fork-based shenanigans, and complicating reaching consensus about which side of a split is the "true" version.
 
 It is commonly claimed that the concept of _slashing_ is a solution to the nothing at stake problem, a technique that uses cryptographic proofs to punish stakers that validate the "wrong" side of a split. This is all well and good but slashing only works when forks are running protocols that can validate each other's proofs.
 
@@ -184,7 +184,7 @@ The fork choice is the decision rule network participants have to use when prese
 
 As PoS systems don’t count with such an objective quantity to decide the correct chain, they have to use a subjective decision-making process by the participants. This means they need to consult off chain with block explorers, developers, miners or other sources to be able to decide what chain to follow. This applies, in case of splits, to participating nodes in the network, new entrants, and nodes who leave and join again.
 
-### Unforgible Costilness
+### Unforgible Costliness
 
 One of the basic physical features of sound money is that it is very costly to produce to guarantee it can’t be forged. PoW provides this costliness of the tokens as miners incur in huge costs, in data centers and electricity, to be able to build blocks. This makes PoW tokens, as $ETC and $BTC, unforgeable in practice.
 
@@ -204,7 +204,7 @@ But when the environmentalist claim is _not_ taken at face value, the choice to 
 
 Well-intentioned or otherwise, this massive economic incentive explains why despite the security downgrades explored above, it is no wonder that PoS became such a popular choice among cryptocurrency holders and has managed to recruit many avid promoters.
 
-> Proof of Stake is like the hotel asking you to reuse towels to save the planet. On the surface it's for noble intentions, but in reality its making them money and giving you a worse service.
+> Proof of Stake is like the hotel asking you to reuse towels to save the planet. On the surface it's for noble intentions, but in reality it's making them money and giving you a worse service.
 
 For all the known downsides, the projects that nevertheless opt for Proof of Stake must either be _extremely_ concerned about energy usage, or possibly more believably, are primarily concerned that staking will economically benefit stakers. However, this concern itself is misguided, as a project can only have long term value if it provides utility, which is undermined by the centralization and trade-offs necessitated by Proof of Stake.
 

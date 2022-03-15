@@ -17,7 +17,7 @@ contributors: ["IstoraMandiri", "DonaldMcIntyre"]
 
 ## Introduction
 
-One of the first publications about Ethereum Classic that came out after The DAO Hard fork was [A Crypto-Decentralist Manifesto](/blog/2016-07-11-crypto-decentralist-manifesto). In protest of The Fork, it underlined the classic decentralized approach to organizing blockchain projects. This document set the tone for ETC's future development. Since it's creation, much has been discovered about the nature of the elusive but vital concept.
+One of the first publications about Ethereum Classic that came out after The DAO Hard fork was [A Crypto-Decentralist Manifesto](/blog/2016-07-11-crypto-decentralist-manifesto). In protest of The Fork, it underlined the classic decentralized approach to organizing blockchain projects. This document set the tone for ETC's future development. Since its creation, much has been discovered about the nature of the elusive but vital concept.
 
 > Decentralized, Immutable, Unstoppable.
 >
@@ -39,7 +39,7 @@ In the realm of blockchain projects, there are many ways of measuring decentrali
 
 This measurement is known as the [Nakamoto coefficient](https://minima.global/blog/the-nakamoto-coefficient-an-attempt-to-quantify-decentralization), and while it is an excellent conceptual tool, is a fairly low-resolution one-dimensional measurement. In reality, decentralized systems can be designed to make capture less likely by assigning different groups with different responsibilities. Due to their diversity of responsibilities and backgrounds, difficulty in capturing a network then becomes linked not simply to the ratio of people, but a complicated mesh of overlapping strengths and weaknesses of different actors within the system.
 
-For example, in Proof of Work blockchains, an accurate measurement of decentralization would attempt to take into account mining by reward, clients by codebase, developers by commits, exchanges by volume, nodes by count, and ownership by value distribution, etc. But even this more nuanced approach far from perfect, as a single snapshot measurement does not yield much insight into whether a system can maintain decentralization over time.
+For example, in Proof of Work blockchains, an accurate measurement of decentralization would attempt to take into account mining by reward, clients by codebase, developers by commits, exchanges by volume, nodes by count, and ownership by value distribution, etc. But even this more nuanced approach is far from perfect, as a single snapshot measurement does not yield much insight into whether a system can maintain decentralization over time.
 
 Whichever way it is quantified, attackers that wish to "own" the system have a more difficult job the more decentralized a project is. To defend against take-overs, projects need to reach a sufficient level of decentralization, which means minimizing the number of central points of failure and bottlenecks, which can exist in many places in the system.
 
@@ -57,7 +57,7 @@ Like creating a video game character, all projects must place themselves somewhe
 
 As we will see, as far as the protocol's attributes and underlying philosophy goes, Ethereum Classic has maxed-out it's decentralization and security, intentionality sacrificing both transaction scalability and top down social organization so that more essential skills can be strengthened.
 
-ETC chose the max-out these skills because for a blockchain protocol to scale its base protocol it must make trade-offs in decentralization and security, which may not appear as apparent costs immediately, but in the long run is bound to damage the utility and value of the network. In short, for ETC, scalability is less important than security and decentralization, and this technical trade-off is also mirrored in the social layer; decentralization trumps the expediency of central rule.
+ETC chose to max-out these skills because for a blockchain protocol to scale its base protocol it must make trade-offs in decentralization and security, which may not appear as apparent costs immediately, but in the long run is bound to damage the utility and value of the network. In short, for ETC, scalability is less important than security and decentralization, and this technical trade-off is also mirrored in the social layer; decentralization trumps the expediency of central rule.
 
 Today, most blockchain projects have abandoned the idea of maxing-out decentralization in exchange for scalability and the benefits of coordinating from a central group. This may well be useful for short term bootstrapping as it allows the funding of extravagant development or marketing budgets, and there is no obvious downside in an environment that is not antagonistic, but unless the project tapers-off this dependence on centralization, which may be impossible due to the incentivization structures it creates, the network is exposed to take-over through the capture of this relatively centralized set up.
 
@@ -67,7 +67,7 @@ One question that should be asked when evaluating different blockchain projects 
 
 For example, in the case of Bitcoin, its main application is the coin itself: digital scarcity and the ability to transfer it without censorship. It competes with many currencies and assets, including the US dollar, and therefore it must withstand attacks from very powerful entities to persist. Many of Bitcoin's [predecessors](https://blog.dassetx.com/the-known-and-possible-influences-of-satoshi-nakamoto-part-1-privately-issued-digital-currencies-before-bitcoin) were shut down because they had central points of failure, and Bitcoin was explicitly designed to circumvent this kind of censorship by being sufficiently decentralized.
 
-In contrast, some blockchains require less censorship resistance than Bitcoin and only intend to, for example, enable the transfer of virtual baseball cards, or have other uncontroversial use cases. As no powerful external forces want to stop these applications, censorship resistance is unnecessary. It may even be seen as a benefit if some central party can override the state of the chain in certain circumstances, so having the whole chain operated by a handful of authorities is acceptable for this use case. In these cases, where the use case is not important enough for well-funded organization to shut down, it might make sense to sacrifice decentralization for scalability, and other non-blockchain technologies may be more appropriate.
+In contrast, some blockchains require less censorship resistance than Bitcoin and only intend to, for example, enable the transfer of virtual baseball cards, or have other uncontroversial use cases. As no powerful external forces want to stop these applications, censorship resistance is unnecessary. It may even be seen as a benefit if some central party can override the state of the chain in certain circumstances, so having the whole chain operated by a handful of authorities is acceptable for this use case. In these cases, where the use case is not important enough for a well-funded organization to shut down, it might make sense to sacrifice decentralization for scalability, and other non-blockchain technologies may be more appropriate.
 
 Ethereum Classic, even back in 2015 when it was known as Ethereum, set out to achieve ambitions on a level at least as prone to censorship as Bitcoin.
 
@@ -111,7 +111,7 @@ For high value projects that have an overreliance on centralized teams, as time 
 
 Suppose a powerful institution feels threatened by new technology. Rather than stamping it out, which may be impossible, it is far more effective to simply compromise and disrupt its operation by influencing the direction of development in a way that does not fundamentally upset the status quo.
 
-This can be achieved by turning influencers and the leadership of an organization into puppets, who's strings are pulled through a variety of carrots and sticks. Humans are fallible and are susceptible to all degrees of manipulation and extortion; peer pressure, angry mobs, politics, kickbacks, bribes, psyops, honey traps, kompromat, physical threats, imprisonment, or worse.
+This can be achieved by turning influencers and the leadership of an organization into puppets, whose strings are pulled through a variety of carrots and sticks. Humans are fallible and are susceptible to all degrees of manipulation and extortion; peer pressure, angry mobs, politics, kickbacks, bribes, psyops, honey traps, kompromat, physical threats, imprisonment, or worse.
 
 With enough key targets under the thumb of an attacker, they can control the future of a chain through their authority, making subtle incremental changes that further increase their grip and control over decision-making.
 
@@ -153,7 +153,7 @@ Good ideas stand on their own, can be debated in public, and are valid regardles
 
 Pragmatism is downstream of maintaining and adhering to sound principles, as they enable both practical survivability, long term sustainability, and act as a form of advertising that attracts quality contributors. The principles first approach goes a long way to ensuring that a project can maintain its course for many generations to come, as it is guided not by the ever-changing interests of a central group, but by external philosophical reference points that, even with high a turnover of contributors, can be perpetuated and refined in public to direct the future of the project.
 
-Having no central group to call the shots means that any individual or group can fill any role, as long as they are faithfully interpreting and executing ETC's principles and values, as understood by stakeholders. If some feel that a hard fork diverges from the values they signed up for, they can continue the existing version of the chain. The risk of a chain split means all participants are incentivized to work together to solve differences, and neither side can of a debate overrule the other if the disagreement is unresolvable.
+Having no central group to call the shots means that any individual or group can fill any role, as long as they are faithfully interpreting and executing ETC's principles and values, as understood by stakeholders. If some feel that a hard fork diverges from the values they signed up for, they can continue the existing version of the chain. The risk of a chain split means all participants are incentivized to work together to solve differences, and neither side of a debate can overrule the other if the disagreement is unresolvable.
 
 ### Protocol Neutrality
 
@@ -203,7 +203,7 @@ If a project wants to survive long term, it must have enough of these necessary 
 
 _Decentralization maximalism_ is the only known mechanism to shore off the forces of centralization long term. It is not a predefined set of rules but a general philosophy or way of thinking that seeks to reduce the number of central points of failure throughout a system.
 
-It demands that decentralization be perused holistically in all areas, in protocol's design, and the social layer, where possible. The goal is to make the protocol secure from take-over and the social layer secure from capture. Satoshi Nakamoto being anonymous and going silent is the classic example of this philosophy being applied to the Bitcoin project, the success of which is wise to emulate.
+It demands that decentralization be pursued holistically in all areas, in protocol's design, and the social layer, where possible. The goal is to make the protocol secure from take-over and the social layer secure from capture. Satoshi Nakamoto being anonymous and going silent is the classic example of this philosophy being applied to the Bitcoin project, the success of which is wise to emulate.
 
 Where it makes sense, by definition, this approach demands no compromise. Even the smallest of sacrifices, infractions, or exceptions should be, unless entirely unavoidable with some overall worthwhile trade-off in the context of known stopping criteria, intolerable. As centralization is difficult to get rid of, it typically accumulates over time and will pile up until the system becomes captured in one way or another.
 
@@ -217,4 +217,4 @@ The innovations that Ethereum brought to the world in the form of a Turing Compl
 
 In the not too distant future, as attacks against blockchains ramp up, this need will be all too clear. As one by one, so-called decentralized projects reveal their true colors and succumb to corruption in the form of capture by special interests. As a result, only the genuinely decentralized will remain.
 
-By combining the technology of Ethereum with the philosophy of Bitcoin, Ethereum Classic provides a secure, multipurpose, decentralized blockchain, and a free, fair and flourishing alternative to what might be grim and centralized future.
+By combining the technology of Ethereum with the philosophy of Bitcoin, Ethereum Classic provides a secure, multipurpose, decentralized blockchain, and a free, fair and flourishing alternative to what might be a grim and centralized future.

@@ -64,7 +64,7 @@ The phrase isn't _only Code is Law_. The concept of _Code is Law_ is ambivalent 
 
 As there are many legal jurisdictions and various approaches to policing, *Code is Law* blockchains recognize that to remain globally relevant and accessible, they must be neutral and follow their *own* contractual agreements. Off-chain concerns are outside the responsibility of the chain, whose only role is to ensure that transactions are _not_ reversible through third party interference with the protocol.
 
-_Code is Law_ blockchains are opt-in systems that can have off-chain consequences that depend on how they are used. In the same way that fire can be used for both warmth and destruction, as a new technological primitive, restricting its use will only hinder the restrictor, who will be left behind as others take advantage of it. There is no question that a big challenge exists in figuring out how the world interfaces with this new tech, but that depends on cultural biases and is not necessarily within the control of technologist. In any case, please don't shoot the messenger.
+_Code is Law_ blockchains are opt-in systems that can have off-chain consequences that depend on how they are used. In the same way that fire can be used for both warmth and destruction, as a new technological primitive, restricting its use will only hinder the restrictor, who will be left behind as others take advantage of it. There is no question that a big challenge exists in figuring out how the world interfaces with this new tech, but that depends on cultural biases and is not necessarily within the control of technologists. In any case, please don't shoot the messenger.
 
 ### Outside the Contract Layer
 

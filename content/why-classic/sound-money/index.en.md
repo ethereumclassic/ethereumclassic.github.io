@@ -28,7 +28,7 @@ Money is the lifeblood that transports energy and information around an economy,
 - **Fungibility:** Each ETC is worth precisely what it’s valued at on the market. One ETC won’t have different values based on previous ETC transactions—unlike some currencies where older bills are often worth less than newer ones. This is called fungibility, and it’s a property ETC shares with physical commodities like gold and silver.
 - **Durability:** ETC is incredibly durable. It is ultimately just information, so it can be stored on a computer or in a digital wallet, or even offline on a piece of paper or metal. This makes ETC much more durable than traditional forms of money like paper currency which can be easily destroyed or lost.
 - **Portability:** ETC is highly portable. You can carry it on a thumb drive, phone, write it down on paper, or remember it as a seed phrase.
-- **Scarcity:** ETC has a finite supply that will be released over time. This makes scarcer than most other forms of currency.
+- **Scarcity:** ETC has a finite supply that will be released over time. This makes it scarcer than most other forms of currency.
 
 ## Known Future Supply
 
@@ -59,17 +59,17 @@ Be it fiat or cryptocurrencies, redistribution of funds via inflation or currenc
 
 This failure state is a type of rugpull that can only exist in projects that are not sufficiently decentralized. The redistribution of value away from holders to some specific group (be it miners, stakers, or developers) can only happen when the [balance of power](/why-classic/decentralism#balancing-power) is uneven, such that some participants can push through changes to the protocol that put their interests before others.
 
-The alternative to a _known future supply_ is an _unknown future supply_, leading to an unbounded degree of inflation or currency debasement down the road. In small amounts inflation may be unnoticeable and be drowned out by the day to day volatility of markets, but it nevertheless amounts to a tax on holders of the currency that do not enjoy the immediate benefits of the [Cantillion Effect](https://www.adamsmith.org/blog/the-cantillion-effect).
+The alternative to a _known future supply_ is an _unknown future supply_, leading to an unbounded degree of inflation or currency debasement down the road. In small amounts inflation may be unnoticeable and be drowned out by the day to day volatility of markets, but it nevertheless amounts to a tax on holders of the currency that do not enjoy the immediate benefits of the [Cantillon Effect](https://cointelegraph.com/explained/from-cash-to-crypto-the-cantillon-effect-vs-the-nakamoto-effect).
 
 In extreme cases, chains with a policy of maintaining an _unknown future supply_ can lead to [Zimbabwe-like hyperinflation](https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe), which is an ever-present dark cloud that hangs over all holders of these currencies. Although these projects may not need to turn on the inflation tap today, it may become "necessary" for whatever reason in the future. Be it development funding issues or the [race to the bottom](/why-classic/proof-of-work#the-apr-arms-race) of competing with other chains' Proof of Stake yields, without the precedent of a fixed emission curve, the central organizing committee of such projects can easily conjure up any number of justifications for appropriating value away from holders as the only way for the project to continue.
 
 ![A One Hundred Trillion Zimbabwe Dollar Note](./zimbabwedollar.jpg)
 
-Some promoters of cryptocurrencies, perhaps unintentionally, gaslight their fellow holders into believing that the checks and balances provided by _fixed future supply_ are a hindrance, postulating that is somehow in the financial interests of holders not to have one.
+Some promoters of cryptocurrencies, perhaps unintentionally, gaslight their fellow holders into believing that the checks and balances provided by _fixed future supply_ are a hindrance, postulating that it is somehow in the financial interests of holders not to have one.
 
 The idea of _ultrasound money_, a synonym of _unsound money_, means that the future supply of a currency is unknown, and while maintainers pinky-promise that it will never be higher than it needs to be, that could be anything from zero to infinity. An _ultrasound_ future supply is subject to tinkering based on an undefined and unpredictable criterion, meaning its central authority reserves the unrestricted right to redistribute funds away from holders in the future.
 
-> Yeah, your boring old car might be safe, but check out this bad boy over here. We removed the breaks and seat belts, so now its ultrasafe.
+> Yeah, your boring old car might be safe, but check out this bad boy over here. We removed the breaks and seat belts, so now it's ultrasafe.
 >
 > - Advocates of ~~Ultrasound Money~~ Ultrasafe Vehicles
 
