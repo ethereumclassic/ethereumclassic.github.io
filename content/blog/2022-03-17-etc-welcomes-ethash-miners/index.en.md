@@ -31,7 +31,7 @@ New ETChash miners will find comfort in knowing that Ethereum Classic made a lon
 
 If you're new to ETC mining ecosystem, you've found a long-term home in the Ethereum Classic network where you can properly plan your Capex / Opex around a stable network with a [predictable monetary policy](https://ethereumclassic.org/why-classic/sound-money). Thank you for securing the original Ethereum chain, Ethereum Classic.
 
-## ETC Fixed Monetary Policy - 5M20
+## ETC Fixed Monetary Policy
 
 New mining participants on the Ethereum Classic network may want to familiarize themselves with ETC's fixed monetary policy and the [5M20 emission schedule](https://ethereumclassic.org/why-classic/sound-money) via [ECIP-1017](https://ecips.ethereumclassic.org/ECIPs/ecip-1017). A great countdown for the 5M20 emission schedule can be found at [ETCis.money](https://etcis.money).
 

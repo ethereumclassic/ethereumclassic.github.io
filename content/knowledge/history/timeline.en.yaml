@@ -637,13 +637,13 @@ items:
     link: /blog/2022-01-19-mystique-hard-fork
     text: Ethereum Classic core developers implement ETH's London network protocol upgrades to maintain operational parity with its sister chain.
   etcFlood:
-    title: ETC Welcomes Ethash Miners
-    dateText: The Ethash Flood
+    title: ETC Welcomes New Hashrate
+    dateText: The Ethashrate Flood
     date: 2022-03-17
     color: green
     icon: cubes
     link: /blog/2022-03-17-etc-welcomes-ethash-miners
-    text: Ethereum Classic commits support to the ETChash mining algorithm and the current mining ecosystem. This is in preparation the Flood of new hashrate coming from ETH's disenfranchised mining ecosystem due to the ETH network's move to prood of stake consensus. The Ethereum Classic mining ecosystem is well positioned to absorbed a majority of that Proof of Work network security.
+    text: Ethereum Classic commits support to the ETChash mining algorithm and the current mining ecosystem. This positions Ethereum Classic as a network well positioned to absorbed a majority of the disnefranchised Ethash miners with ETH network's move to proof of stake consensus.
   ethMerge:
     title: ETH's Move to Proof of Stake
     dateText: The Merge
