@@ -18,9 +18,11 @@ Thank you for securing the original Ethereum chain, Ethereum Classic.
 * Network Clients: https://ethereumclassic.org/development/clients
 * Mining Information: https://ethereumclassic.org/mining
 
-![Long-term PoW Commitment](./welcome-miners.png)
+![Long-term Commitment to Proof of Work Consensus](./welcome-miners.png)
 
 ## Welcome Disenfranchised Ethash Miners
+
+Welcome to Ethereum Classic! Thank you for securing the original Ethereum chain, [Ethereum Classic](https://ethereumclassic.org/why-classic).
 
 The Ethereum Foundation is expected to migrate it's EVM network to proof of stake consensus in Quarter 2 of 2022 through an event labeled "[The Merge](https://ethereum.org/en/upgrades/merge/)".
 
@@ -38,13 +40,12 @@ If you're new to the ETC mining ecosystem, you've found a long-term home in Ethe
 
 New mining participants on the Ethereum Classic network may want to familiarize themselves with ETC's fixed monetary policy and the [5M20 emission schedule](https://ethereumclassic.org/why-classic/sound-money) via [ECIP-1017](https://ecips.ethereumclassic.org/ECIPs/ecip-1017). A great countdown for the 5M20 emission schedule can be found at [ETCis.money](https://etcis.money).
 
-![ETC's 5M20](./etc-5m20.png)
-
-Welcome to Ethereum Classic! Thank you for securing the original Ethereum chain, [Ethereum Classic](https://ethereumclassic.org/why-classic).
+![ETC's 5M20 Monetary Policy](./etc-5m20.png)
 
 ## Learn More About ETC
 
 [Why Ethereum Classic](https://ethereumclassic.org/why-classic)
 
-"But some, like yourself, decide to dive a little deeper, and they discover some interesting facts that debunk that initial skepticism. Their journey down the rabbit hole begins when they find out that Ethereum Classic is not a clone of Ethereum™, but a continuation of the original Ethereum launched in 2015, which The Ethereum Foundation forked away from by launching a new protocol one year later in 2016."
+> But some, like yourself, decide to dive a little deeper, and they discover some interesting facts that debunk that initial skepticism. Their journey down the rabbit hole begins when they find out that Ethereum Classic is not a clone of Ethereum™, but a continuation of the original Ethereum launched in 2015, which The Ethereum Foundation forked away from by launching a new protocol one year later in 2016.
+
 * https://ethereumclassic.org
