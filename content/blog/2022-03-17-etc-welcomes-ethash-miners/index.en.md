@@ -18,6 +18,7 @@ By way of Core Developer Call 22, the Ethereum Classic network publicly signals 
 
 * Network Clients: https://ethereumclassic.org/development/clients
 * Mining Information: https://ethereumclassic.org/mining
+* MetaMask with ETC: https://ethereumclassic.org/guides/metamask
 
 ![Long-term Commitment to Proof of Work Consensus](./welcome-miners.png)
 
