@@ -1,19 +1,20 @@
 ---
-title: "Ethash Miners: Welcome to Ethereum Classic"
+title: "Ethash Miners: Migrating to ETChash Post ETH Merge"
 date: 2022-03-17
 author: r0n1n
 contributors: ["gitr0n1n"]
 tags: ["announcement", "development", "education", "mining"]
 ---
 
-# Ethash Miners: Welcome to ETC
+# Ethash Miners: Migrating to ETChash Post ETH Merge
 
-## ETChash Mining on Ethereum Classic
-[Proof of Work Commitment](https://ethereumclassic.org/why-classic/proof-of-work)
+Thank you for securing Ethereum Classic, the original Ethereum network.
+
+Ethereum Classic's long-term commitment to [Proof of Work](https://ethereumclassic.org/why-classic/proof-of-work) consensus.
+
+## ETChash Mining Algorithm on Ethereum Classic
 
 By way of Core Developer Call 22, the Ethereum Classic network publicly signals continued support for the ETChash mining algorithm through the foreseeable future. This reaffirms Ethereum Classic's principles of fostering a decentralized Proof of Work mining ecosystem. This confirms a continued long-term commitment to the current mining ecosystem participants and their GPU and ETChash ASIC equipment.
-
-Thank you for securing the original Ethereum chain, Ethereum Classic.
 
 * Network Clients: https://ethereumclassic.org/development/clients
 * Mining Information: https://ethereumclassic.org/mining
