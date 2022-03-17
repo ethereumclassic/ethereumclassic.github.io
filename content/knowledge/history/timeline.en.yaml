@@ -651,7 +651,7 @@ items:
     color: purple
     icon: angleDoubleUp
     link: https://ethereum.org/en/upgrades/merge/
-    text: The Ethereum Foundation upgrades the largest EVM network to proof-of-stake consensus from Ethash proof-of-work. This event disenfranchises a large mining ecosystem composed of compatible equipment to secure the Ethereum Classic network. The new miners find a new home securing ETC.
+    text: The Ethereum Foundation upgrades the largest EVM network to proof-of-stake consensus. This Merge event cements Ethereum Classic as the largest Proof of Work EVM network. Ethereum Classic's network security elevates as it becomes the apex network of all Ethash derivative mining algorithms. The Phoenix rises.
   aBrightFuture:
     title: A Bright Future
     dateText: The Future
