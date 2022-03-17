@@ -636,6 +636,22 @@ items:
     icon: angleDoubleUp
     link: /blog/2022-01-19-mystique-hard-fork
     text: Ethereum Classic core developers implement ETH's London network protocol upgrades to maintain operational parity with its sister chain.
+  etcFlood:
+    title: Preparation for the Hashrate Flood
+    dateText: The Hashrate Flood
+    date: 2022-02-23
+    color: green
+    icon: cubes
+    link: /blog/2022-02-23-core-devs-call-22-ecip-1049-call-results
+    text: Ethereum Classic commits support to the ETChash mining algorithm and the current mining ecosystem. This is in preparation the Flood of new hashrate coming from ETH's disenfranchised mining ecosystem due to the ETH network's move to prood of stake consensus. The Ethereum Classic mining ecosystem is well positioned to absorbed a majority of that Proof of Work network security.
+  ethMerge:
+    title: ETH's Proof of Stake Upgrade
+    dateText: The Merge
+    date: 2022-06-30
+    color: purple
+    icon: angleDoubleUp
+    link: https://ethereum.org/en/upgrades/merge/
+    text: This upgrade represents the official switch to proof-of-stake consensus. This eliminates the need for energy-intensive mining, and instead secures the network using staked ether. A truly exciting step in realizing the Ethereum Foundation's network vision – more scalability, security, and sustainability.
   aBrightFuture:
     title: A Bright Future
     dateText: The Future
