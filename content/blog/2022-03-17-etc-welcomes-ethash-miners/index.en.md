@@ -9,6 +9,7 @@ tags: ["announcement", "development", "education", "mining"]
 # Ethash Miners: Migrating to ETChash Post ETH Merge
 
 First off, welcome to [Ethereum Classic](https://ethereumclassic.org/why-classic)!
+
 Thank you for securing the original Ethereum network launched in 2015.
 
 Ethereum Classic has a long-term commitment to [Proof of Work](https://ethereumclassic.org/why-classic/proof-of-work) consensus.
@@ -21,7 +22,7 @@ By way of Core Developer Call 22, the Ethereum Classic network publicly signals 
 * Mining Information: https://ethereumclassic.org/mining
 * MetaMask with ETC: https://ethereumclassic.org/guides/metamask
 
-![Long-term Commitment to Proof of Work Consensus](./welcome-miners.png)
+![Long-Term Commitment to Proof of Work Consensus](./welcome-miners.png)
 
 ## Welcome Disenfranchised Ethash Miners
 
@@ -35,7 +36,7 @@ Note: Ethash ASICs will likely need a firmware update for ETChash compatibility.
 
 ![New ETChash Miners](./etchash_miners.jpg)
 
-New ETChash miners will find comfort in knowing that Ethereum Classic made a long-term commitment to [Proof of Work consensus](https://ethereumclassic.org/why-classic/proof-of-work) through the network's [Die Hard Upgrade](http://ecips.ethereumclassic.org/ECIPs/ecip-1041) in 2018.
+New ETChash miners will find comfort in knowing that Ethereum Classic made a long-term commitment to [Proof of Work](https://ethereumclassic.org/why-classic/proof-of-work) consensus through the network's [Die Hard Upgrade](http://ecips.ethereumclassic.org/ECIPs/ecip-1041) in 2018.
 
 If you're new to the ETC mining ecosystem, you've found a long-term home on Ethereum Classic. A network where you can properly plan your Capex / Opex around a stable network with a [predictable monetary policy](https://ethereumclassic.org/why-classic/sound-money).
 
