@@ -639,11 +639,11 @@ items:
   etcFlood:
     title: ETC Welcomes New Hashrate
     dateText: The Ethashrate Flood
-    date: 2022-03-17
+    date: 2022-03-18
     color: green
     icon: cubes
-    link: /blog/2022-03-17-etc-welcomes-ethash-miners
-    text: Ethereum Classic commits support to the ETChash mining algorithm and the current mining ecosystem. This positions Ethereum Classic as a network well positioned to absorbed a majority of the disnefranchised Ethash miners with ETH network's move to proof of stake consensus.
+    link: /blog/2022-03-18-etc-welcomes-ethash-miners
+    text: Ethereum Classic commits support to the ETChash mining algorithm and the current mining ecosystem. This positions Ethereum Classic as a network well positioned to absorbed a majority of the disenfranchised Ethash miners with ETH network's move to proof of stake consensus.
   ethMerge:
     title: ETH's Move to Proof of Stake
     dateText: The Merge

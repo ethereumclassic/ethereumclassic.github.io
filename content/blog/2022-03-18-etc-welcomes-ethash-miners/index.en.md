@@ -1,6 +1,6 @@
 ---
 title: "Ethash Miners: Migrating to ETChash Post ETH Merge"
-date: 2022-03-17
+date: 2022-03-18
 author: r0n1n
 contributors: ["gitr0n1n"]
 tags: ["announcement", "development", "education", "mining"]
