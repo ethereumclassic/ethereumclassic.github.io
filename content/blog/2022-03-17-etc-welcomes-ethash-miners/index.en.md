@@ -29,7 +29,7 @@ The Ethereum Foundation is expected to migrate it's EVM network to proof of stak
 
 This Merge event will disenfranchise the largest EVM's Proof of Work mining ecosystem. Ethereum Classic is well positioned to absorb much of this abandoned Ethash hashrate. However, Ethash miners might not realize that Ethereum Classic operates a modified version of Ethash called ETChash.
 
-In November 2020, The ETChash mining algorithm was activate on Ethereum Classic mainnet with the [Thanos Upgrade](https://ethereumclassic.org/blog/2020-11-27-thanos-hard-fork-upgrade). This upgrade slowed the growth rate of the DAG. This has allowed GPU miners to operate their equipment longer on ETChash than Ethash assuring Ethereum Classic would absorb any mining equipment obsoleted by Ethash's DAG growth rate and organically grow its base level network hashrate.
+In November 2020, The ETChash mining algorithm was activated on Ethereum Classic mainnet with the [Thanos Upgrade](https://ethereumclassic.org/blog/2020-11-27-thanos-hard-fork-upgrade). This upgrade slowed the growth rate of the DAG. This has allowed GPU miners to operate their equipment longer on ETChash than Ethash. This assured Ethereum Classic would absorb any mining equipment obsoleted by Ethash's DAG growth rate and organically grow The Ethereum Classic network's base level hashrate.
 
 Note: Ethash ASICs will likely need a firmware update for ETChash compatibility. Please contact your manufacturer and request an official firmware release for ETChash compatibility. Additionally, some mining communities have already developed custom firmware for updating ASIC equipment to ETChash.
 
@@ -37,13 +37,13 @@ Note: Ethash ASICs will likely need a firmware update for ETChash compatibility.
 
 New ETChash miners will find comfort in knowing that Ethereum Classic made a long-term commitment to [Proof of Work consensus](https://ethereumclassic.org/why-classic/proof-of-work) through the network's [Die Hard Upgrade](http://ecips.ethereumclassic.org/ECIPs/ecip-1041) in 2018.
 
-If you're new to the ETC mining ecosystem, you've found a long-term home on Ethereum Classic. A network where you can properly plan your Capex / Opex around a stable network with a [predictable monetary policy](https://ethereumclassic.org/why-classic/sound-money). The [Ethereum Classic Discord](https://ethereumclassic.org/discord) has an active mining community to help in your transition planning. Please join the conversation.
+If you're new to the ETC mining ecosystem, you've found a long-term home on Ethereum Classic. A network where you can properly plan your Capex / Opex around a stable network with a [predictable monetary policy](https://ethereumclassic.org/why-classic/sound-money).
+
+The [Ethereum Classic Discord](https://ethereumclassic.org/discord) has an active mining community to help in your transition planning. Please join the conversation.
 
 ## ETC's Monetary Policy
 
-New mining participants on the Ethereum Classic network may want to familiarize themselves with ETC's fixed monetary policy and the 5M20 emission schedule via [ECIP-1017](https://ecips.ethereumclassic.org/ECIPs/ecip-1017). A great countdown for the 5M20 emission schedule can be found at [ETCis.Money](https://etcis.money).
-
-![ETC's 5M20 Monetary Policy](./etc-5m20.png)
+New mining participants on the Ethereum Classic network may want to familiarize themselves with ETC's fixed monetary policy and the 5M20 emission schedule via [ECIP-1017](https://ecips.ethereumclassic.org/ECIPs/ecip-1017). A visual countdown and chart of the 5M20 emission schedule can be found at [ETCis.Money](https://etcis.money).
 
 ## Learn More About ETC
 
@@ -52,3 +52,5 @@ New mining participants on the Ethereum Classic network may want to familiarize 
 > But some, like yourself, decide to dive a little deeper, and they discover some interesting facts that debunk that initial skepticism. Their journey down the rabbit hole begins when they find out that Ethereum Classic is not a clone of Ethereum™, but a continuation of the original Ethereum launched in 2015, which The Ethereum Foundation forked away from by launching a new protocol one year later in 2016.
 
 * https://ethereumclassic.org
+
+![5M20 is Ethereum Classic's Monetary Policy](./etc-5m20.png)
