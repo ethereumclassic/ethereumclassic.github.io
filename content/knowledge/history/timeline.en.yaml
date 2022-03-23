@@ -606,6 +606,13 @@ items:
     icon: codeBranch
     link: https://github.com/input-output-hk/mantis/releases
     text: Input Output Global signals support for the Ethereum Classic network with the revival of the Mantis client and GUI.
+  gethBugs:
+    title: Geth Client Bugs
+    date: 2021-09-03
+    color: red
+    icon: bug
+    link: https://coin.fyi/news/ethereum-classic/ethereum-classic-chain-split-announcement-sept-03-2021-phlz4r#!
+    text: The Geth exploit software bugs that split the Ethereum Foundation mainnet in August, 2021 splits the Ethereum Classic mainnet. Everyone is advised to update their clients.
   lcetcc:
     title: Let's Keep Ethereum Classic Classic
     date: 2021-09-04
@@ -644,6 +651,14 @@ items:
     icon: cubes
     link: /blog/2022-03-18-etc-welcomes-ethash-miners
     text: Ethereum Classic commits support to the ETChash mining algorithm and the current mining ecosystem. This positions Ethereum Classic as a network well positioned to absorbed a majority of the disenfranchised Ethash miners with ETH network's move to proof of stake consensus.
+  era4:
+    title: 5M20 Era 4
+    dateText: Block 15,000,001
+    date: 2022-04-30
+    color: green
+    icon: coins
+    link: https://etcis.money
+    text: Ethereum Classic's block rewards are reduced by 20% to 2.56 ETC per block, as per the bitcoin-inspired 5M20 emission schedule.
   ethMerge:
     title: ETH's Move to Proof of Stake
     dateText: The Merge

@@ -30,7 +30,7 @@ The Ethereum Foundation is expected to migrate it's EVM network to proof of stak
 
 This Merge event will disenfranchise the largest EVM's Proof of Work mining ecosystem. Ethereum Classic is well positioned to absorb much of this abandoned Ethash hashrate. However, Ethash miners might not realize that Ethereum Classic operates a modified version of Ethash called ETChash.
 
-In November 2020, The ETChash mining algorithm was activated on Ethereum Classic mainnet with the [Thanos Upgrade](https://ethereumclassic.org/blog/2020-11-27-thanos-hard-fork-upgrade). This upgrade slowed the growth rate of the DAG. This has allowed GPU miners to operate their equipment longer on ETChash than Ethash. This assured Ethereum Classic would absorb any mining equipment obsoleted by Ethash's DAG growth rate and organically grow Ethereum Classic's base level [network hashrate](https://2miners.com/etc-network-hashrate).
+In November 2020, the ETChash mining algorithm was activated on Ethereum Classic mainnet with the [Thanos Upgrade](https://ethereumclassic.org/blog/2020-11-27-thanos-hard-fork-upgrade). This upgrade slowed the growth rate of the DAG. This has allowed GPU miners to operate their equipment longer on ETChash than Ethash. This assured Ethereum Classic would absorb any mining equipment obsoleted by Ethash's DAG growth rate and organically grow Ethereum Classic's base level [network hashrate](https://2miners.com/etc-network-hashrate).
 
 Note: Ethash ASICs will likely need a firmware update for ETChash compatibility. Please contact your manufacturer and request an official firmware release for ETChash compatibility. Additionally, some mining communities have already developed custom firmware for updating ASIC equipment to ETChash.
 
