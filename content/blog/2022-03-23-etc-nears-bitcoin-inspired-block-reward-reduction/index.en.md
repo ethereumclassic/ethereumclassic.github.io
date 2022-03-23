@@ -14,13 +14,19 @@ tags: ["announcement", "development", "education", "mining"]
 
 ![5M20 Emission Schedule](./etc-5m20-emission-schedule.png)
 
-Around the end of April, 2022 the Ethereum Classic network is expected to hit the 15,000,000 block and enter the fourth era of the 5M20 emission schedule. This will result in a decrease of block rewards from 3.2 ETC to 2.56 ETC per block. The table below shows the block reduction amounts and the total ETC emitted during each 5M20 Era.
+Around the end of April, 2022 the Ethereum Classic network is expected to hit the 15,000,000 block and enter the fourth era of the 5M20 emission schedule. This will result in a decrease of block rewards from 3.2 ETC to 2.56 ETC per block. This reduces the sell side liquidity provided to miners for securing the network via the [Proof of Work](https://ethereumclassic.org/why-classic/proof-of-work) consensus mechanism. The table below shows the block reduction amounts and the total ETC emitted to miners during each 5M20 Era.
 
 ![Ethereum Classic will have Bitcoin level inflation by 2032](./etc-bitcoin-inspired-block-reward-reduction.png)
 
-The 5M20 emissions schedule is similar to Bitcoin. However the ~2.3 year "fifthening" event for ETC is quicker than Bitcoin's 4 year "halvening" event. Also, the 5M20 schedule is a bit smoother with 20% reductions compared to Bitcoins 50% reduction.
+## ETC is Sound Money
 
-The [Ethereum Classic Discord](https://ethereumclassic.org/discord) is an open and active community. Please join the conversation and stay classy.
+The 5M20 emission schedule was inspired by Bitcoin. However the ~2.3 year "fifthening" event for ETC is quicker than Bitcoin's 4 year "halvening" event. Also, the 5M20 schedule is a bit smoother with 20% reductions compared to Bitcoins 50% reduction. The result is a decrease in the inflation on Ethereum Classic at a quicker rate than Bitcoin.
+
+ETC is [sound money](https://ethereumclassic.org/why-classic/sound-money) built on top of the largest [Proof of Work](https://ethereumclassic.org/why-classic/proof-of-work) smart contract blockchain. If Bitcoin is "Plan B." Ethereum Classic is "Plan C."
+
+Stay Classy. Stack ETC.
+
+The [Ethereum Classic Discord](https://ethereumclassic.org/discord) is an open and active community. Please join the conversation.
 
 ## Learn More About ETC
 
