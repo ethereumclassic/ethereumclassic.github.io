@@ -606,6 +606,13 @@ items:
     icon: codeBranch
     link: https://github.com/input-output-hk/mantis/releases
     text: Input Output Global signals support for the Ethereum Classic network with the revival of the Mantis client and GUI.
+  gethBugs:
+    title: Geth Client Bugs
+    date: 2021-09-03
+    color: red
+    icon: bug
+    link: https://coin.fyi/news/ethereum-classic/ethereum-classic-chain-split-announcement-sept-03-2021-phlz4r#!
+    text: The Geth exploit software bugs that split the Ethereum Foundation mainnet in August, 2021 splits the Ethereum Classic mainnet. Everyone is advised to update their clients.
   lcetcc:
     title: Let's Keep Ethereum Classic Classic
     date: 2021-09-04
