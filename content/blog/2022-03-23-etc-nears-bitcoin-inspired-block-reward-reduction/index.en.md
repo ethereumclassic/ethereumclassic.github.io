@@ -24,10 +24,13 @@ The table below shows the block reduction amounts and the total ETC emitted to m
 
 The 5M20 emission schedule was inspired by Bitcoin. However the authors of [ECIP-1017](https://ecips.ethereumclassic.org/ECIPs/ecip1017) desired a faster emission schedule to catch up to Bitcoin's low inflation rate. The "Fifthening" event for ETC occurs more frequently than Bitcoin's 4 year "Halvening" event. Also, the 5M20 features a smoother reduction curve with a 20% decrease compared to Bitcoins 50% reduction. The result is a decrease in Ethereum Classic's inflation at a quicker rate than Bitcoin. ETC uniquely provides the digital asset space with sound, programable money on a censorship resistant decentralized network.
 
-So when someone asks you: "What are the unique properties that make Ethereum Classic special in the crowded cryptocurrency space?" The logic is an easy to convey: ETC is programmable [sound money](https://ethereumclassic.org/why-classic/sound-money) built on top of the largest [Proof of Work](https://ethereumclassic.org/why-classic/proof-of-work) smart contract blockchain. Ethereum Classic is censorship resistant and the premiere network to build unstoppable applications. Code is law.
+So when someone asks you: "What are the unique properties that make Ethereum Classic special in a crowded cryptocurrency space?"
+
+The logic is easy to convey: ETC is programmable [sound money](https://ethereumclassic.org/why-classic/sound-money) built on top of the largest [Proof of Work](https://ethereumclassic.org/why-classic/proof-of-work) smart contract blockchain. Ethereum Classic is censorship resistant and the premiere network to build unstoppable applications. Code is law.
 
 **If Bitcoin is Plan B. Ethereum Classic is Plan C.**
-**Stay Classy. Stack ETC.**
+
+**Stay Classy. Stack ETC.** ~ r0n1n
 
 The [Ethereum Classic Discord](https://ethereumclassic.org/discord) is an open and active community. Please join the conversation.
 
