@@ -55,7 +55,7 @@ items:
         __link: https://beepool.org/coindetail/etc
       Binance Pool:
         name: Binance Pool
-        __link: https://pool.binance.com/
+        __link: https://www.binance.com/en/support/faq/20ba5cf0ce1b4956bda87d8aede5f31d
         __primary: true
       BTC.com:
         name: BTC.com
