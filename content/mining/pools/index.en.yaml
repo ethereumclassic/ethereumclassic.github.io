@@ -8,7 +8,7 @@ description: |
 
   This page contains a non-exhaustive list of pools that support Ethereum Classic. 
 
-  The Top 5 most popular pools have been highlighted below to help you narrow down your search. You can find live updates about the size of each mining pool in the [Network Monitors](/network/monitors) section.
+  Popular pools have been highlighted below to help you narrow down your search. You can find live updates about the size of each mining pool in the [Network Monitors](/network/monitors) section.
 contributors:
   - arvicco
   - bobsummerwill
@@ -52,6 +52,10 @@ items:
       Beepool:
         name: Beepool
         __link: https://beepool.org/coindetail/etc
+      Binance:
+        name: Binance
+        __link: https://www.binance.com/en/support/faq/20ba5cf0ce1b4956bda87d8aede5f31d
+        __primary: true
       BTC.com:
         name: BTC.com
         __link: https://pool.btc.com/
