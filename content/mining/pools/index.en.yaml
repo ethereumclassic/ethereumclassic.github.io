@@ -55,6 +55,7 @@ items:
       Binance Pool:
         name: Binance Pool
         __link: https://pool.binance.com/
+        __primary: true
       BTC.com:
         name: BTC.com
         __link: https://pool.btc.com/
