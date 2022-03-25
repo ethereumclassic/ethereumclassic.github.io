@@ -18,9 +18,9 @@ tags: ["announcement", "development", "education", "mining"]
 
 ## 5M20 Era 4: Block Reward Reduction
 
-Toward the end of April, 2022 the Ethereum Classic network is expected to cross the 15,000,000 block and enter the fourth era of the 5M20 emission schedule. This will result in a decrease of block rewards from 3.2 ETC to 2.56 ETC per block. This reduces the avaialable sell side liquidity provided to miners for securing the Ethererum Classic network via its ETChash [Proof of Work](https://ethereumclassic.org/why-classic/proof-of-work) consensus mechanism. We see similar market properties on Bitcoin every four years.
+Toward the end of April, 2022 the Ethereum Classic network is expected to cross the 15,000,000 block and enter the fourth era of the 5M20 emission schedule. This will result in a decrease of block rewards from 3.2 ETC to 2.56 ETC per block. This reduces the avaialable sell side liquidity provided to miners for securing the Ethererum Classic network via its ETChash [Proof of Work](https://ethereumclassic.org/why-classic/proof-of-work) consensus mechanism. We see similar market properties with Bitcoin's emission schedule every four years.
 
-The table below shows the block reduction amounts and the total ETC emitted to miners during each 5M20 Era. Note, this table only highlights first five 5M20 Eras. This 5M20 monetary policy will continue as long as the Ethereum Classic network continues to operate.
+The table below shows the block reduction amounts and the total ETC emitted to miners during each 5M20 Era. Note, this table only highlights the first five 5M20 Eras. This 5M20 monetary policy will continue as long as the Ethereum Classic network continues to operate.
 
 ![Ethereum Classic will have Bitcoin level inflation by 2032](./5m20-table.png)
 
