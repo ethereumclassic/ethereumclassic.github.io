@@ -8,7 +8,7 @@ description: |
 
   This page contains a non-exhaustive list of pools that support Ethereum Classic. 
 
-  The Top 5 most popular pools have been highlighted below to help you narrow down your search. You can find live updates about the size of each mining pool in the [Network Monitors](/network/monitors) section.
+  The most popular pools have been highlighted below to help you narrow down your search. You can find live updates about the size of each mining pool in the [Network Monitors](/network/monitors) section. If a pool is nearing 30% of total network hashrate consider pointing your hashrate to a different pool to help decentralize the network's mining hashrate. Some large miners spread their hashrate over multiple pools to help in these efforts. As the network continues to grow, we should see hashrate spread out over many pools as pool fees become more competitive to attract miner hashrate.
 contributors:
   - arvicco
   - bobsummerwill
@@ -33,9 +33,6 @@ items:
   pools:
     __type: buttons
     items:
-      1stPool:
-        name: 1stPool
-        __link: https://etc.1stpool.org/
       2Miners:
         name: 2Miners
         __link: https://2miners.com/etc-mining-pool
@@ -49,9 +46,15 @@ items:
       BaikalMine:
         name: BaikalMine
         __link: https://baikalmine.com/en/pplns/etc/
+      BAYPOOL:
+        name: BAYPOOL
+        __link: https://etc.baypool.org/
       Beepool:
         name: Beepool
         __link: https://beepool.org/coindetail/etc
+      Binance Pool:
+        name: Binance Pool
+        __link: https://pool.binance.com/
       BTC.com:
         name: BTC.com
         __link: https://pool.btc.com/
@@ -61,12 +64,6 @@ items:
       Clona:
         name: Clona
         __link: https://etc.clona.ru
-      CoinMine:
-        name: CoinMine
-        __link: https://www2.coinmine.pl/etc/
-      Coinotron:
-        name: Coinotron
-        __link: https://www.coinotron.com/
       Cominers:
         name: Cominers
         __link: https://etc.cominers.org/
@@ -79,12 +76,10 @@ items:
       CrazyPool:
         name: CrazyPool
         __link: https://crazypool.org/
+        __primary: true
       Cruxpool:
         name: Cruxpool
         __link: https://www.cruxpool.com/etc/
-      CRYPIT:
-        name: CRYPIT
-        __link: https://crypit.net/?pool=ETC
       DigiPools:
         name: DigiPools
         __link: https://etc.digipools.org/
@@ -94,24 +89,15 @@ items:
       EMCD:
         name: EMCD
         __link: https://pool.emcd.io/
-      ETC365:
-        name: ETC365
-        __link: https://etc365.org/
       ETC Mining Club:
         name: ETC Mining Club
         __link: https://www.etcmining.club/
-      ETCPool:
-        name: ETCPool
-        __link: https://ethereumclassicpool.com/
       ETC-POOL:
         name: ETC-POOL
         __link: https://etc-pool.com/
-      ETCTurk:
-        name: ETCTurk
-        __link: http://etcturk.sytes.net/
-      Ethashpool:
-        name: Ethashpool
-        __link: https://ethashpool.com/etc
+      ETC Pool US:
+        name: ETC-Pool-US
+        __link: https://etcpool.us/
       Ethermine:
         name: Ethermine
         __link: https://etc.ethermine.org/
@@ -123,18 +109,9 @@ items:
         name: f2pool
         __link: https://www.f2pool.com/
         __primary: true
-      FairPool:
-        name: FairPool
-        __link: https://etc.fairpool.xyz/
-      FirePool:
-        name: FirePool
-        __link: https://firepool.com/
       flexpool:
         name: Flexpool
         __link: https://flexpool.io/
-      HashExpress:
-        name: Hash Express
-        __link: https://hash.express/
       HashCity:
         name: HashCity
         __link: https://hashcity.org/
@@ -157,9 +134,6 @@ items:
       K1Pool:
         name: K1Pool
         __link: https://k1pool.com/
-      KDV-Mining:
-        name: KDV-Mining
-        __link: http://etc.kdv-mining.com/#/
       MaxHash:
         name: MaxHash
         __link: https://etcpool.maxhash.org/
@@ -183,12 +157,6 @@ items:
       Pearpool:
         name: Pearpool
         __link: https://etc.pearpool.com/
-      PhoenixMax:
-        name: PhoenixMax
-        __link: https://etcpool.phoenixmax.org/
-      Pool-Node:
-        name: Pool-Node
-        __link: http://etc-solo.pool-node.com
       Prohashing:
         name: Prohashing
         __link: https://prohashing.com/
@@ -198,21 +166,12 @@ items:
       RuPool:
         name: RuPool
         __link: https://rupool.pro/
-      SaturnPool:
-        name: SaturnPool
-        __link: https://etc.saturnpool.com/
       SoloPool:
         name: SoloPool
         __link: https://etc.solopool.org/
-      StartMining:
-        name: Start Mining
-        __link: https://startmining.pl
       ua-mining:
         name: ua-mining
         __link: https://etc.ua-mining.com
-      uuPool:
-        name: uuPool
-        __link: https://uupool.cn/etc/
       ViaBTC:
         name: ViaBTC
         __link: https://www.viabtc.com/

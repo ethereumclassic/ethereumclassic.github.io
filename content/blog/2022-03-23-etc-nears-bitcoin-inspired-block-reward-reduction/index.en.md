@@ -26,7 +26,7 @@ The table below shows the block reduction amounts and the total ETC emitted to m
 
 ## ETC is Sound Money
 
-The 5M20 emission schedule was inspired by Bitcoin. However the authors of [ECIP-1017](https://ecips.ethereumclassic.org/ECIPs/ecip1017) desired a faster emission schedule to catch up to Bitcoin's low inflation rate. The "Fifthening" event for ETC occurs more frequently than Bitcoin's 4 year "Halvening" event. Also, the 5M20 features a smoother reduction curve with a 20% decrease compared to Bitcoins 50% reduction. The result is a decrease in Ethereum Classic's inflation at a quicker rate than Bitcoin. ETC uniquely provides the digital asset space with sound, programable money on a censorship resistant decentralized network.
+The 5M20 emission schedule was inspired by Bitcoin. However the authors of [ECIP-1017](https://ecips.ethereumclassic.org/ECIPs/ecip1017) desired a faster emission schedule to catch up to Bitcoin's low inflation rate. The "Fifthening" event for ETC occurs more frequently than Bitcoin's 4 year "Halvening" event. Also, the 5M20 features a smoother reduction curve with a 20% decrease compared to Bitcoins 50% reduction. The result is a decrease in Ethereum Classic's inflation at a quicker rate than Bitcoin. ETC uniquely provides the digital asset space with sound, programmable money on a censorship resistant decentralized network.
 
 So when someone asks you: "What are the unique properties that make Ethereum Classic special in a crowded cryptocurrency space?"
 
