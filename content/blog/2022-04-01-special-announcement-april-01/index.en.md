@@ -19,12 +19,9 @@ A highly credible and trustworthy set of validator authorities has been selected
 
 - Klaus Schwab, CEO of the World Economic Forum
 - Mark Zuckerberg, CEO of Facebook
-- Joseph Lubin, former Vice President of Goldman Sachs
 - Ben Bernake, former Chair of the Federal Reserve
 - Craig Wright aka. Satoshi Nakamoto, creator of Bitcoin
 - Stefan Tual, former CCO of Ethereum Foundation
-
-An even number of to authorities has been selected to facilitate dispute resolution.
 
 The block `133,769,420` has been selected for the upcoming fork, which is expected to arrive at approximately 10:32 UTC on 1st April 2098.
 
