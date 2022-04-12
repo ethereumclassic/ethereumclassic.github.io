@@ -15,7 +15,7 @@ export default function LayoutLanding(props) {
 export const pageQuery = graphql`
   query {
     headlines: allNewsItem(
-      filter: { tags: { in: "news" } }
+      filter: { tags: { in: "news" }, unlisted: { ne: true } }
       limit: 5
       sort: { fields: date, order: DESC }
     ) {
