@@ -10,8 +10,7 @@ module.exports = ({ locales, defaultLocale, siteUrl }) => ({
       query: `
       {
         newsItems: allNewsItem(
-          filter: {locale: { eq: "${key}" } }
-          unlisted: { ne: true }
+          filter: { locale: { eq: "${key}" }, unlisted: { ne: true } }
           sort: { fields: [date, title], order: [DESC, ASC] }
         ) {
           edges {
