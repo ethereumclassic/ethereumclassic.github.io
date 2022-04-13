@@ -8,7 +8,7 @@ Bob Summerwill, Director of Ethereum Classic Cooperative, has recently provided 
 
 The announcement provides assurance that Ethereum Classic's essential maintenance operations, as well as other ecosystem development efforts, will continue for the foreseeable future. 
 
-Key takeaways were summarized by Bob in a [comment](https://discord.com/channels/223674353001168906/223674353001168906/963134603483303948) Discord:
+Key takeaways were summarized by Bob in a [comment](https://discord.com/channels/223674353001168906/223674353001168906/963134603483303948) on Discord:
 
 > Total spend for ETC Cooperative in 2021 was just under $500K.
 >
