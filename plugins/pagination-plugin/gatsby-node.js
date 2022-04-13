@@ -103,6 +103,8 @@ exports.onCreatePage = async (
       const isFirst = currentPage === 1;
       const filterQuery = {
         locale: { eq: locale },
+        // TODO make configurable
+        unlisted: { ne: true },
         ...(type === "tags" && { [field]: { in: filter } }),
         ...(type === "category" && { [field]: { eq: filter } }),
       };
