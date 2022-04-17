@@ -2,6 +2,7 @@
 title: "Special Announcement: ETC switching to Proof of Authority"
 author: CEO of Ethereum Classic
 date: 2022-04-01
+unlisted: true
 info: "**Update:** April Fools. If it wasn't obvious, this was a joke. Ethereum Classic does not plan to switch away from Proof of Work."
 ---
 

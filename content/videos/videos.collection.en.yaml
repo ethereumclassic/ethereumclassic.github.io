@@ -10,15 +10,34 @@
 #   author: ETC Community Calls
 #   authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
 #   description: "OPTIONAL, Supports Markdown: Nishant Sharma [@nishantsharma87](https://twitter.com/nishantsharma87), PR and Community Relations at [Bitmain](https://www.bitmain.com/)."
+#   unlisted: true   
 #
 ### END VIDEO TEMPALTE
 #
+- title: "ETCCC021: Funding Discussion, Open Develop via ETC DAO Progressing, ETC DeFi Stack on Horizon, Mining Pools Funding Clients"
+  date: 2022-04-12
+  youtube: J1bJqafKtXI
+  tags: ["discussions"]
+  author: ETC Community Calls
+  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+- title: "ETCCC020: April Fools, Vitalik Defends BTC Maximalism"
+  date: 2022-04-05
+  youtube: DyDAMD0Zg6U
+  tags: ["discussions"]
+  author: ETC Community Calls
+  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
 - title: "Why Ethereum Classic Might Be The Best Investment In Crypto (Sleeping Giant)"
   date: 2022-03-30
   youtube: FeXXk__bH6c
   tags: ["explainers"]
   author:  Nick Of Jupiter
   authorYoutube: UCCnTOrkCE5alR2RYFVNdrjg
+- title: "ETCCC019: Price Rises, Mainstream Articles, Mining Deep Dive"
+  date: 2022-03-29
+  youtube: iW00VZNhkjY
+  tags: ["discussions"]
+  author: ETC Community Calls
+  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETCCC018: The Fithening, Fixed Supply and Protocol Complexity"
   date: 2022-03-22
   youtube: zMdr7GpZI9s
@@ -937,3 +956,4 @@
   youtube: Lvsi5KlWt_c
   description: Alan McSherry, Ethereum Classic Developer | Team Grothendieck Manager, [IOHK](https://iohk.io/).
   tags: ["conferences", "etc-summit-2017"]
+  unlisted: false
