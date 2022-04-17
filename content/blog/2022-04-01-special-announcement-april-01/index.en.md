@@ -2,6 +2,8 @@
 title: "Special Announcement: ETC switching to Proof of Authority"
 author: CEO of Ethereum Classic
 date: 2022-04-01
+unlisted: true
+info: "**Update:** April Fools. If it wasn't obvious, this was a joke. Ethereum Classic does not plan to switch away from Proof of Work."
 ---
 
 After hours of careful research and a sizable donation from the Bill and Melinda Gates Foundation, it has become clear that Ethereum Classic's commitment to Proof of Work is not only a danger to the environment and society at large, but with recent advances in the blockchain ecosystem, is shown to be an outdated technology that is overshadowed by far more ~~easy to capture~~ efficient consensus mechanisms. 
