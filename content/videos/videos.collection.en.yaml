@@ -10,6 +10,7 @@
 #   author: ETC Community Calls
 #   authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
 #   description: "OPTIONAL, Supports Markdown: Nishant Sharma [@nishantsharma87](https://twitter.com/nishantsharma87), PR and Community Relations at [Bitmain](https://www.bitmain.com/)."
+#   unlisted: true   
 #
 ### END VIDEO TEMPALTE
 #
@@ -955,3 +956,4 @@
   youtube: Lvsi5KlWt_c
   description: Alan McSherry, Ethereum Classic Developer | Team Grothendieck Manager, [IOHK](https://iohk.io/).
   tags: ["conferences", "etc-summit-2017"]
+  unlisted: false

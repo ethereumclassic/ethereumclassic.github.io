@@ -369,6 +369,7 @@
   date: 2020-02-11
   type: other
   description: Blockchain title Service enables connections with IPFS hash, smart contract, and wallet address.
+  unlisted: false
   links:
     - name: Homepage
       link: https://www.portal.network/
