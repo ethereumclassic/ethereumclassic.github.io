@@ -281,12 +281,12 @@ items:
     title: Trust-Minimizing Exchange
     description: The following exchanges may not be *fully* decentralized exchanges, but operate in a less centralization manner than the list above.
     items:
-      Bisq:
-        __link: https://bisq.network/markets/?currency=etc_btc
-        name: Bisq
-      Saturn Network:
-        __link: https://www.saturn.network/exchange/ethereum-classic
-        name: Saturn Network
+      ETCSwap:
+        __link: https://etcswap.org
+        name: ETC Swap
+      HebeSwap:
+        __link: https://hebeswap.com
+        name: Hebe Swap
   Instant Exchanges:
     __type: buttons
     title: Instant Exchanges

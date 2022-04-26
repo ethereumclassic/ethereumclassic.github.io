@@ -53,9 +53,6 @@ items:
       Opera:
         __link: https://www.opera.com/crypto
         name: Opera
-      Saturn Wallet:
-        __link: https://www.saturn.network/blog/saturn-wallet-user-manual/
-        name: Saturn Wallet
       SimpleHold Wallet:
         __link: https://simplehold.io/download
         name: SimpleHold Wallet
