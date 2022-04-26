@@ -655,7 +655,7 @@ items:
     title: Ethereum Classic DAO
     date: 2022-04-11
     color: green
-    icon: users
+    icon: handHoldingUsd
     link: https://gitcoin.co/grants/412/ethereum-classic-dao-defi-stack
     text: Stable and long-term funding proves to be a problem for Ethereum Classic with abandonment by the Ethereum Foundation in 2016. In an effort to solve the network's LTS funding issue, Ethereum Classic DAO is formed with a mission to future proof the network's development via an open source development fund. Funding is generated with use of an ETC DeFi stack hosted at EthereumClassic.com
   era4:
