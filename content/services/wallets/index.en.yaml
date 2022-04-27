@@ -114,6 +114,9 @@ items:
       Cobo:
         __link: https://cobo.com/
         name: Cobo
+      Coin Wallet:
+        __link: https://coin.space/
+        name: Coin Wallet
       Coinbase Wallet:
         __link: https://wallet.coinbase.com/
         name: Coinbase Wallet
