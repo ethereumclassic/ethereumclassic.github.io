@@ -53,9 +53,6 @@ items:
       Opera:
         __link: https://www.opera.com/crypto
         name: Opera
-      Saturn Wallet:
-        __link: https://www.saturn.network/blog/saturn-wallet-user-manual/
-        name: Saturn Wallet
       SimpleHold Wallet:
         __link: https://simplehold.io/download
         name: SimpleHold Wallet
@@ -114,9 +111,6 @@ items:
       Button Wallet:
         __link: https://buttonwallet.com/
         name: Button Wallet
-      Citowise:
-        __link: https://citowise.com/
-        name: Citowise
       Cobo:
         __link: https://cobo.com/
         name: Cobo
@@ -133,7 +127,7 @@ items:
         __link: https://edge.app/
         name: Edge
       Emerald Wallet:
-        __link: https://emeraldpay.io/
+        __link: https://emerald.cash/
         name: Emerald Wallet
       Ethos:
         __link: https://www.ethos.io/universal-wallet/
@@ -151,7 +145,7 @@ items:
         __link: https://guarda.com/
         name: Guarda
       HubrisOne:
-        __link: https://www.hubrisone.com/
+        __link: https://hubrisone.com/wallet
         name: HubrisOne
       Huobi Wallet:
         __link: https://www.huobiwallet.com/
