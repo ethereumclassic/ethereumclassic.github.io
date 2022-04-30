@@ -651,18 +651,32 @@ items:
     icon: cubes
     link: /blog/2022-03-18-etc-welcomes-ethash-miners
     text: Ethereum Classic commits support to the ETChash mining algorithm and the current mining ecosystem. This positions Ethereum Classic as a network well positioned to absorbed a majority of the disenfranchised Ethash miners with ETH network's move to proof of stake consensus.
+  etcdao:
+    title: Ethereum Classic DAO
+    date: 2022-04-11
+    color: green
+    icon: handHoldingUsd
+    link: https://gitcoin.co/grants/412/ethereum-classic-dao-defi-stack
+    text: Stable and long-term funding proves to be a problem for Ethereum Classic with abandonment by the Ethereum Foundation in 2016. In an effort to solve the network's LTS funding issue, Ethereum Classic DAO is formed with a mission to future proof the network's development via an open source development fund. Funding is generated with use of an ETC DeFi stack hosted at EthereumClassic.com
   era4:
     title: 5M20 Era 4
     dateText: Block 15,000,001
-    date: 2022-04-30
+    date: 2022-04-25
     color: green
     icon: coins
     link: https://etcis.money
-    text: Ethereum Classic's block rewards are reduced by 20% to 2.56 ETC per block, as per the bitcoin-inspired 5M20 emission schedule.
+    text: Ethereum Classic's block rewards are reduced by 20% to 2.56 ETC per block, as per the bitcoin-inspired 5M20 emission schedule. ETChash mining hasrate continues to turn over to ETC with the network reaching All-Time Highs.
+  etcswap:
+    title: ETC Swap
+    date: 2022-05-30
+    color: green
+    icon: rocket
+    link: https://etcswap.org
+    text: Ethereum Classic DAO launches its first ETC DeFi stack product- ETC Swap. This puts the network one step closer to stable funding for open source development on Ethereum Classic.
   ethMerge:
     title: ETH's Move to Proof of Stake
     dateText: The Merge
-    date: 2022-06-30
+    date: 2022-09-30
     color: purple
     icon: angleDoubleUp
     link: https://ethereum.org/en/upgrades/merge/
