@@ -28,6 +28,24 @@
 #
 ### END APP TEMPLATE
 #
+- title: Classic Rewards
+  date: 2022-05-02
+  type: nfts
+  image: ./images/classicrewards.png
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x208a67F5e2e0f58FC9b118618eE2c2324F2E2b4e/contracts
+  description: Classic Rewards is the home of a web 3 cross-chain powered, free to play / play to earn strategy trading card game. For more info, visit classicrewards.io
+  links:
+    - name: Launch App
+      link: https://www.classicrewards.io/
+    - name: Twitter
+      link: https://twitter.com/ClassicRewards
+      icon: twitter
+    - name: Medium
+      link:  https://medium.com/@classicrewards
+      icon: medium
+    - name: Telegram
+      link: https://t.me/classicrewards
+      icon: telegram
 - title: Nft List
   date: 2022-03-07
   type: nfts
