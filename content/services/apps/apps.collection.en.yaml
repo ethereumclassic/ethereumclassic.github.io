@@ -341,6 +341,30 @@
   links:
     - name: Homepage
       link: https://stampery.com/
+- title: BSC-BUSD <=> ETC-USDT
+  date: 2022-05-09
+  type: interoperability
+  author: HebeBlock
+  authorLink: https://hebeblock.com/
+  description: It is accepted by HEBETEAM to create USDT, which is convenient for users to convert between BSC-BUSD and ETC-USDT.
+  links:
+    - name: Launch App
+      link: https://gateway.hebeswap.com
+    - name: Homepage
+      link: https://hebeswap.com
+      icon: home
+    - name: Twitter
+      link: https://twitter.com/BlockHebe
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/hebeOffice
+      icon: telegram
+    - name: Discord
+      link: https://discord.gg/HFBUJ3AKFT
+      icon: discord
+    - name: Medium
+      link: https://medium.com/@hebeblock
+      icon: medium     
 - title: ETC-to-wETC
   date: 2020-02-11
   type: interoperability
