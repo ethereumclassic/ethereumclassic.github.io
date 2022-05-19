@@ -1,10 +1,10 @@
 ---
-title: "Long Term Funding for Ethereum Classic's Development Ecosystem Launches"
+title: "Long Term Funding Launched for Ethereum Classic's Development Ecosystem"
 author: Ethereum Classic DAO
 date: 2022-05-20
 ---
 
-# Long Term Funding for Ethereum Classic's Development Ecosystem Launches
+# Long Term Funding Launched for Ethereum Classic's Development Ecosystem
 
 An outfit of anonymous open source developers and cryptocurrency network participants are organizing under the pseudonym "Ethereum Classic DAO" with lofty goals of establishing long term support for the development ecosystem around Ethereum Classic, the original Ethereum Virtual Machine launched in 2015. The name of this organization appears to be a bit tongue-in-cheek given that the Ethereum Classic network was abandoned by its founding development group, Ethereum Foundation, in 2016 during the "DAO Bailout" hardfork. A contentious event, where the Ethereum Foundation forked from the original network's ledger and adjusted account balances to bail out participants in a third-party smart contract product called "The DAO".
 
@@ -25,7 +25,7 @@ An outfit of anonymous open source developers and cryptocurrency network partici
 
 ## Long Term Funding Solution for Development on ETC
 
-A move to erect a funding mechanism was signalled on GitCoin expressing the goal of future-proofing the network's development ecosystem. This news comes at an opportune time as Ethereum Classic's more popular, sister chain moves to Proof-of-Stake consensus. The result of this move is an abundance of computer equipment available to provide hashrate to secure Ethereum Classic, the main branch of the EVM ecosystem.
+A move to erect a funding mechanism was signaled on the open source development platform GitCoin expressing a goal of future-proofing the network's development ecosystem. This news comes at an opportune time as Ethereum Classic's more popular, sister chain moves to Proof-of-Stake consensus. The result of this move is an abundance of computer equipment available to provide hashrate to secure Ethereum Classic, the main branch of the EVM ecosystem.
 
 
 ## Ethereum Classic DAO & DeFi Stack - LTS Solution
