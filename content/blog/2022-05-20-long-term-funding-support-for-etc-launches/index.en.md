@@ -6,15 +6,11 @@ date: 2022-05-20
 
 # Long Term Funding for Ethereum Classic's Development Ecosystem Launches
 
-
-![Ethereum Classic - The Original EVM](./etc-main-branch.jpg)
-
 An outfit of anonymous open source developers and cryptocurrency network participants are organizing under the pseudonym "Ethereum Classic DAO" with lofty goals of establishing long term support for the development ecosystem around Ethereum Classic, the original Ethereum Virtual Machine launched in 2015. The name of this organization appears to be a bit tongue-in-cheek given that the Ethereum Classic network was abandoned by its founding development group, Ethereum Foundation, in 2016 during the "DAO Bailout" hardfork. A contentious event, where the Ethereum Foundation forked from the original network's ledger and adjusted account balances to bail out participants in a third-party smart contract product called "The DAO".
-
 
 ## [Ethereum Classic History](https://ethereumclassic.org/knowledge/history)
 
-![Ethereum Classic is Money](./etc-is-money.png)
+![Ethereum Classic - The Original EVM](./etc-main-branch.jpg)
 
 
 ## Long Term Funding Solution for Development on ETC
@@ -30,7 +26,7 @@ A move to erect a funding mechanism was signalled on GitCoin expressing the goal
 >
 >Code is law. Blockchains should be immutable. If Bitcoin is Plan B. Ethereum Classic is Plan C. Stay Classy.
 
-[gitcoin.co/grants/412/ethereum-classic-dao-defi-stack](https://gitcoin.co/grants/412/ethereum-classic-dao-defi-stack)
+![Ethereum Classic is Money](./etc-is-money.png)
 
 >How:
 >
@@ -38,5 +34,6 @@ A move to erect a funding mechanism was signalled on GitCoin expressing the goal
 >
 >We intend to organize an open Ethereum Classic mining pool where miners can allocate their hashrate to this pool. A portion of the funds collected on this pool will go to supporting client maintenance and improved functionality and features. This allows miners to voluntarily participate in supporting the network and future proofs the essential software required to secure the network. This signals long term funding resources for client maintainers to plan their personal compensation around. This also removes the current middle men directing the client maintainers with 1099's or w2's. Rather we look forward to open client maintenance and an opportunity for a robust talent pool of client maintainers. This builds redundancies in a very pivotal area of the network's security. We expect client maintainers, miners, and mining pools will begin to have conversations about optimizing the clients, fixing any bugs, and adding feature sets that will improve the overall mining experience on Ethereum Classic as it moves from "downstream" development of ETH's clients to the primary "upstream" for the proof of work EVM ecosystem. Ethereum Classic has a long term commitment to Proof of Work and a healthy injection of open resources here is vital to the long-term health of the network.
 
+## [View the full description of the GitCoin Grant](https://gitcoin.co/grants/412/ethereum-classic-dao-defi-stack)
 
 ![Ethereum Classic DAO](./etc-community.png)
