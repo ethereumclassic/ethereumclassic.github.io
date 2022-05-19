@@ -42,9 +42,9 @@
        icon: twitter
      - name: Website
        link: https://tmwstw.io/
-     - name: Discord 
+     - name: Discord
        link: https://discord.gg/d56axYmRTa
-       icon: discord 
+       icon: discord
 - title: Classic Rewards
   date: 2022-05-02
   type: nfts
@@ -408,3 +408,17 @@
   links:
     - name: Homepage
       link: https://www.portal.network/
+- title: CoinRabbit
+  date: 2022-05-19
+  type: finance
+  image: ./images/coinrabbit.png
+  description: Crypto loans and savings service with no KYC, no annoyances, and great support. Perfect solution for those who want to gain liquidity, but don't want to sell their coins. Supports ETC as a collateral.
+  links:
+    - name: Get Loan
+      link: https://coinrabbit.io/?utm_source=etcwiki&utm_medium=referral&utm_campaign=coinrabbit
+    - name: Twitter
+      link: https://twitter.com/CoinRabbitLoans
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/joinchat/RKbptBq8nSo3NTdi
+      icon: telegram
