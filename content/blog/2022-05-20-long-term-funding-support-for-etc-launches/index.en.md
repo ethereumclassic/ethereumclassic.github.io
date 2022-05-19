@@ -13,9 +13,13 @@ An outfit of anonymous open source developers and cryptocurrency network partici
 ![Ethereum Classic - The Original EVM](./etc-main-branch.jpg)
 
 >Code is law.
+>
 >Blockchains should be immutable.
+>
 >If Bitcoin is Plan B.
+>
 >Ethereum Classic is Plan C.
+>
 >Stay Classy.
 
 
