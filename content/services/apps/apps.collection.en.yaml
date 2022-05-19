@@ -416,3 +416,9 @@
   links:
     - name: Get Loan
       link: https://coinrabbit.io/?utm_source=etcwiki&utm_medium=referral&utm_campaign=coinrabbit
+    - name: Twitter
+      link: https://twitter.com/CoinRabbitLoans
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/joinchat/RKbptBq8nSo3NTdi
+      icon: telegram
