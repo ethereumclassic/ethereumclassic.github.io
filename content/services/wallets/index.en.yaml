@@ -168,6 +168,9 @@ items:
       Midas Protocol:
         __link: https://midasprotocol.io/
         name: Midas Protocol
+      Mixin Messenger:
+        __link: https://mixin.one/messenger
+        name: Mixin Messenger
       Ownbit:
         __link: https://ownbit.io/
         name: Ownbit
