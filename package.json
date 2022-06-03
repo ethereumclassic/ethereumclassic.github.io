@@ -32,7 +32,7 @@
     "gatsby-plugin-env-variables": "^2.2.0",
     "gatsby-plugin-feed": "4.7.0",
     "gatsby-plugin-image": "^2.8.0",
-    "gatsby-plugin-mdx": "^3.8.0",
+    "gatsby-plugin-mdx": "^3.15.2",
     "gatsby-plugin-netlify": "^4.1.0",
     "gatsby-plugin-nprogress": "4.7.0",
     "gatsby-plugin-perf-budgets": "^0.0.18",
