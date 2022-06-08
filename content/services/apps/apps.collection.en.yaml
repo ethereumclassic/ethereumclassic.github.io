@@ -43,36 +43,8 @@
 #
 ### END APP TEMPLATE
 #
-- title: ETC Swap
-  date: 2022-06-15
-  image: ./images/etcswap.png
-  author: EthClassicDAO
-  authorLink: https://ethereumclassicdao.org
-  verifiedContract: https://blockscout.com/etc/mainnet/address/0x79Bf07555C34e68C4Ae93642d1007D7f908d60F5/contracts
-  openSource: https://blockscout.com/etc/mainnet/address/0x79Bf07555C34e68C4Ae93642d1007D7f908d60F5/contracts
-  audit: https://github.com/etcswap/public-audits
-  teamSite: https://ethereumclassicdao.org
-  ipfsFrontend: https://ipfs.io/ipfs/QmSCGpteEcfCDXcQunMyxbaAkBWB5edMFAWnzYXMCqaCKf
-  description: ETC Swap is a decentralized cryptocurrency exchange where users acquire digital assets without an intermediary. Use Ethereum Classic, the original Ethereum Virtual Machine (EVM). Code is law.
-  type: finance
-  links:
-    - name: Launch App
-      link: https://swap.ethereumclassic.com
-      icon: new-window
-    - name: Landing Site
-      link: https://etcswap.org
-      icon: link
-    - name: Documentation
-      link: https://docs.etcswap.org
-      icon: book
-    - name: Github
-      link: https://github.com/etcswap
-      icon: github
-    - name: Twitter
-      link: https://twitter.com/EthClassicDAO
-      icon: twitter
 - title: Multichain
-  date: 2022-06-15
+  date: 2022-05-23
   image: ./images/multichain.png
   author: Multichain
   authorLink: https://multichain.org
@@ -83,9 +55,9 @@
   description: Multichain is the ultimate Router for web3. It is an infrastructure developed for arbitrary cross-chain interactions.
   type: interoperability
   links:
-    - name: Launch App
+    - name: Launch Router
       link: https://app.multichain.org/#/router
-      icon: new-window
+      icon: link
     - name: Website
       link: https://multichain.org
       icon: home
@@ -121,8 +93,36 @@
      - name: Discord
        link: https://discord.gg/d56axYmRTa
        icon: discord
+- title: ETC Swap
+  date: 2022-05-15
+  image: ./images/etcswap.png
+  author: EthClassicDAO
+  authorLink: https://ethereumclassicdao.org
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x79Bf07555C34e68C4Ae93642d1007D7f908d60F5/contracts
+  openSource: https://blockscout.com/etc/mainnet/address/0x79Bf07555C34e68C4Ae93642d1007D7f908d60F5/contracts
+  audit: https://github.com/etcswap/public-audits
+  teamSite: https://ethereumclassicdao.org
+  ipfsFrontend: https://ipfs.io/ipfs/QmSCGpteEcfCDXcQunMyxbaAkBWB5edMFAWnzYXMCqaCKf
+  description: ETC Swap is a decentralized cryptocurrency exchange where users acquire digital assets without an intermediary. Use Ethereum Classic, the original Ethereum Virtual Machine (EVM). Code is law.
+  type: finance
+  links:
+    - name: Launch ETC Swap
+      link: https://swap.ethereumclassic.com
+      icon: link
+    - name: Landing Site
+      link: https://etcswap.org
+      icon: link
+    - name: Documentation
+      link: https://docs.etcswap.org
+      icon: book
+    - name: Github
+      link: https://github.com/etcswap
+      icon: github
+    - name: Twitter
+      link: https://twitter.com/EthClassicDAO
+      icon: twitter
 - title: Canonical Wrapped Ether
-  date: 2022-05-07
+  date: 2022-05-06
   image: ./images/wetc.png
   author: EthClassicDAO
   authorLink: https://ethereumclassicdao.org
@@ -133,9 +133,9 @@
   description: Canonical Wrapped Ether (wETC) is a tokenized version of ETC.
   type: interoperability
   links:
-    - name: Launch App
+    - name: Wrap ETC
       link: https://blockscout.com/etc/mainnet/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/read-contract
-      icon: new-window
+      icon: link
     - name: Website
       link: https://wrappedether.org
       icon: link
