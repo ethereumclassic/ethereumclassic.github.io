@@ -3,31 +3,107 @@
 #
 ### START APP TEMPALTE
 #
-# - title: ETCBayc
+# - title: Project Name
 #   date: 2022-01-01
-#   type: nfts
-#   image: ./images/etcbayc.jpg
+#   type: games
+#   image: ./images/project_name.jpg
 #   author: Author Name Here
 #   authorLink: https://author-website.com/
-#   verifiedContract: https://blockscout.com/etc/mainnet/address/0x59E34EF31049565D041Aec6137F40f518c2D47c1/contracts
-#   openSource: https://example.com
+#   verifiedContract: https://blockscout.com/etc/mainnet/address/0x0000000000000000000000000000000000000000/contracts
+#   openSource: https://blockscout.com/etc/mainnet/address/0x0000000000000000000000000000000000000000/contracts
 #   teamSite: https://example.com
 #   audit: https://example.com
 #   testSuite: https://example.com
 #   ipfsFrontend: https://example.com
-#   description: Ethereum Classic Bored Ape Yacht Club (ETCBayc), is an exclusive 10,000 only mint-able premium NFT living on the Ethereum Classic (ETC) blockchain. No two pieces of these digital Bored Apes are alike. Each being unique and pristine, there is an order of rarity that makes certain ones more valuable than the others. These Bored Apes are amongst the first high-quality art projects in the blockchain ecosystems and in ETC. Be part of the club!
+#   description: Example Description
 #   links:
 #     - name: Launch App
-#       link: https://etcbayc.com/
+#       link: https://app.example.com
+#     - name: Website
+#       link: https://example.com
+#       icon: home
+#     - name: Documentation
+#       link: https://docs.example.com
+#       icon: book
+#     - name: Github
+#       link: https://github.com/example
+#       icon: github
 #     - name: Twitter
-#       link: https://twitter.com/etcbayc
+#       link: https://twitter.com/example
 #       icon: twitter
+#     - name: Discord
+#       link: https://discord.gg/example
+#       icon: discord
+#     - name: Telegram
+#       link: https://t.me/example
+#       icon: telegram
 #     - name: Medium
-#       link: https://medium.com/@etcbayc
+#       link: https://medium.com/example
 #       icon: medium
 #
 ### END APP TEMPLATE
 #
+- title: ETC Swap
+  date: 2022-06-15
+  image: ./images/etcswap.png
+  author: EthClassicDAO
+  authorLink: https://ethereumclassicdao.org
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x79Bf07555C34e68C4Ae93642d1007D7f908d60F5/contracts
+  openSource: https://blockscout.com/etc/mainnet/address/0x79Bf07555C34e68C4Ae93642d1007D7f908d60F5/contracts
+  audit: https://github.com/etcswap/public-audits
+  teamSite: https://ethereumclassicdao.org
+  ipfsFrontend: https://ipfs.io/ipfs/QmSCGpteEcfCDXcQunMyxbaAkBWB5edMFAWnzYXMCqaCKf
+  description: ETC Swap is a decentralized cryptocurrency exchange where users acquire digital assets without an intermediary. Use Ethereum Classic, the original Ethereum Virtual Machine (EVM). Code is law.
+  type: finance
+  links:
+    - name: Launch App
+      link: https://swap.ethereumclassic.com
+      icon: new-window
+    - name: Landing Site
+      link: https://etcswap.org
+      icon: link
+    - name: Documentation
+      link: https://docs.etcswap.org
+      icon: book
+    - name: Github
+      link: https://github.com/etcswap
+      icon: github
+    - name: Twitter
+      link: https://twitter.com/EthClassicDAO
+      icon: twitter
+- title: Multichain
+  date: 2022-06-15
+  image: ./images/multichain.png
+  author: Multichain
+  authorLink: https://multichain.org
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818/contracts
+  openSource: https://blockscout.com/etc/mainnet/address/0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818/contracts
+  audit: https://github.com/anyswap/Anyswap-Audit
+  teamSite: https://ethereumclassicdao.org
+  description: Multichain is the ultimate Router for web3. It is an infrastructure developed for arbitrary cross-chain interactions.
+  type: interoperability
+  links:
+    - name: Launch App
+      link: https://app.multichain.org/#/router
+      icon: new-window
+    - name: Website
+      link: https://multichain.org
+      icon: home
+    - name: Documentation
+      link: https://docs.multichain.org
+      icon: book
+    - name: Github
+      link: https://github.com/anyswap
+      icon: github
+    - name: Twitter
+      link: https://twitter.com/MultichainOrg
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/anyswap
+      icon: telegram
+    - name: Medium
+      link: https://medium.com/multichainorg
+      icon: medium
 - title: The Man Who Sold The World Metaverse
   date: 2022-05-17
   type: games
@@ -45,6 +121,30 @@
      - name: Discord
        link: https://discord.gg/d56axYmRTa
        icon: discord
+- title: Canonical Wrapped Ether
+  date: 2022-05-07
+  image: ./images/wetc.png
+  author: EthClassicDAO
+  authorLink: https://ethereumclassicdao.org
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/contracts
+  openSource: https://blockscout.com/etc/mainnet/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/contracts
+  audit: https://github.com/gnosis/canonical-weth
+  teamSite: https://ethereumclassicdao.org
+  description: Canonical Wrapped Ether (wETC) is a tokenized version of ETC.
+  type: interoperability
+  links:
+    - name: Launch App
+      link: https://blockscout.com/etc/mainnet/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/read-contract
+      icon: new-window
+    - name: Website
+      link: https://wrappedether.org
+      icon: link
+    - name: Github
+      link: https://github.com/wrappedether/canonical-wetc
+      icon: github
+    - name: Twitter
+      link: https://twitter.com/EthClassicDAO
+      icon: twitter
 - title: Classic Rewards
   date: 2022-05-02
   type: nfts
