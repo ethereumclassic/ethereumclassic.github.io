@@ -130,7 +130,7 @@
   openSource: https://blockscout.com/etc/mainnet/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/contracts
   audit: https://github.com/gnosis/canonical-weth
   teamSite: https://ethereumclassicdao.org
-  description: Canonical Wrapped Ether (wETC) is a tokenized version of ETC.
+  description: Wrapped Ether (wETC) is a tokenized version of Ether (ETC) the native asset of the Ethereum Classic network, the original EVM launched in 2015.
   type: interoperability
   links:
     - name: Wrap ETC
