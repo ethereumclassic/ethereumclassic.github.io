@@ -76,6 +76,20 @@
     - name: Medium
       link: https://medium.com/multichainorg
       icon: medium
+- title: CoinRabbit
+  date: 2022-05-19
+  type: finance
+  image: ./images/coinrabbit.png
+  description: Crypto loans and savings service with no KYC, no annoyances, and great support. Perfect solution for those who want to gain liquidity, but don't want to sell their coins. Supports ETC as a collateral.
+  links:
+    - name: Get Loan
+      link: https://coinrabbit.io/?utm_source=etcwiki&utm_medium=referral&utm_campaign=coinrabbit
+    - name: Twitter
+      link: https://twitter.com/CoinRabbitLoans
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/joinchat/RKbptBq8nSo3NTdi
+      icon: telegram
 - title: The Man Who Sold The World Metaverse
   date: 2022-05-17
   type: games
@@ -508,17 +522,3 @@
   links:
     - name: Homepage
       link: https://www.portal.network/
-- title: CoinRabbit
-  date: 2022-05-19
-  type: finance
-  image: ./images/coinrabbit.png
-  description: Crypto loans and savings service with no KYC, no annoyances, and great support. Perfect solution for those who want to gain liquidity, but don't want to sell their coins. Supports ETC as a collateral.
-  links:
-    - name: Get Loan
-      link: https://coinrabbit.io/?utm_source=etcwiki&utm_medium=referral&utm_campaign=coinrabbit
-    - name: Twitter
-      link: https://twitter.com/CoinRabbitLoans
-      icon: twitter
-    - name: Telegram
-      link: https://t.me/joinchat/RKbptBq8nSo3NTdi
-      icon: telegram
