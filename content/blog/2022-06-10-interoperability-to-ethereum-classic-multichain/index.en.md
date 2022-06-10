@@ -1,9 +1,7 @@
 ---
 title: "Interoperability Comes to Ethereum Classic with Multichain Router Integration"
-date: 2022-06-15
 author: EthClassicDAO
-contributors: ["gitr0n1n"]
-tags: ["announcement", "development", "teams"]
+date: 2022-06-10
 ---
 
 ![Interoperability Comes to Ethereum Classic with Multichain Router Integration](./etc-stairs-to-heaven.png)
@@ -41,6 +39,5 @@ ETC, WETC
 ### Ethereum™ Foundation network (ETH)
 
 DAI, ETH, USDC, USDT, WBTC
-
 
 ![Multichain Integrates with Ethereum Classic](./etc-buzz.png)
