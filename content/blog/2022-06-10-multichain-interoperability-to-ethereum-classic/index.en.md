@@ -4,7 +4,7 @@ author: EthClassicDAO
 date: 2022-06-10
 ---
 
-![Ethereum Classic added to Multichain Router Integration](./etc-stairs-to-heaven.png)
+![Ethereum Classic added to Multichain Cross-Chain Router Protocol](./etc-stairs-to-heaven.png)
 
 # Multichain Brings Interoperability to Ethereum Classic
 
@@ -42,4 +42,4 @@ ETC, WETC
 
 DAI, ETH, USDC, USDT, WBTC
 
-![Multichain integration provides Ethereum Classic with EVM connectivity](./etc-buzz.png)
+![Multichain connects Ethereum Classic to the EVM ecosystem](./etc-buzz.png)
