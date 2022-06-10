@@ -12,7 +12,7 @@ By way of work done on [ETC Swap](https://etcswap.org) by [Ethereum Classic DAO]
  
  ## No Fee Transactions
  
-[Multichain](https://multichain.org) is offering no fee liquidity migration transactions to the Ethereum Classic network. Most cross-chain transactions complete in under 100 seconds through Multichain's easy to navigate user interface.
+[Multichain](https://multichain.org) offers no fee transactions on liquidity migration to the Ethereum Classic network. Most cross-chain transactions complete in under 100 seconds through Multichain's easy to navigate user interface.
 
 Guide: [How to use Multichain Router (Crosschain)](https://youtu.be/G8vN2c2Mhc4)
 
@@ -20,7 +20,7 @@ Guide: [How to use Multichain Router (Crosschain)](https://youtu.be/G8vN2c2Mhc4)
  
 ## Earn Liquidity Rewards on Bridged Assets
 
-[ETC Swap](https://etcswap.org) is natively featuring these assets in its token list as flagship liquidity pools for its swap product. Liquidity providers can earn rewards, so please consider support the swap product and adding liquidity to build up depth in these young markets. Currently it costs a fraction of a penny to execute a swap on Ethereum Classic. A portion of trading fees on [ETC Swap](https://swap.ethereumclassic.com) goes to future proofing development on Ethereum Classic via the [LTS Development Fund](https://gitcoin.co/grants/412/ethereum-classic-dao-defi-stack).
+[ETC Swap](https://etcswap.org) natively features these bridged assets in its token list as identified by the "any" prefix to the asset ticker. The bridged assets are parmount to bootstrapping the on-chain liquidity markets of meaningful, flagship liquidity pools for Ethereum Classic. Liquidity providers earn rewards, so please consider supporting the swap product by adding liquidity to these young markets. Currently it costs a fraction of a penny to execute a swap on Ethereum Classic. Also, a portion of trading fees on [ETC Swap](https://swap.ethereumclassic.com) goes to future proofing development on Ethereum Classic via the [LTS Development Fund](https://ethereumclassicdao.org).
 
 Guide: [Using MetaMask with Ethereum Classic](https://ethereumclassic.org/guides/metamask)
 
@@ -28,18 +28,18 @@ Guide: [Using MetaMask with Ethereum Classic](https://ethereumclassic.org/guides
 
 ## Supported Assets
 
-At the time of launch, the [ETC Swap](https://swap.ethereumclassic.com) Mainnet token list comprises of these [Multichain](https://multichain.org) bridged assets (anyASSET) and native assets which are sourced from these networks:
+At the time of launch, the [ETC Swap](https://swap.ethereumclassic.com) Mainnet token list comprises of these native assets and [Multichain](https://multichain.org)'s bridged assets, noted by the "any" prefix to the asset's ticker:
 
 ### Binance Smart Chain network (BSC)
 
-BNB, BUSD
+Bridged Assets: BNB, BUSD
 
 ### Ethereum Classic network (ETC)
 
-ETC, WETC
+Native Assets: ETC, WETC
 
 ### Ethereum™ Foundation network (ETH)
 
-DAI, ETH, USDC, USDT, WBTC
+Bridged Assets: DAI, ETH, USDC, USDT, WBTC
 
 ![Multichain connects Ethereum Classic to the EVM ecosystem](./etc-buzz.png)
