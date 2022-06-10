@@ -6,13 +6,11 @@ date: 2022-06-10
 
 ![Ethereum Classic added to Multichain Router Integration](./etc-stairs-to-heaven.png)
 
-## Interoperability Comes to Ethereum Classic with Multichain Router Integration
+## Multichain Brings Interoperability to Ethereum Classic
 
 ### ANNOUNCEMENT:
 
-By way of work done on [ETC Swap](https://etcswap.org) by [Ethereum Classic DAO](https://ethereumclassicdao.org), it is with our great joy to announce that the Ethereum Classic network has a reputable bridge solution in [Multichain](https://multichain.org), the leader in cross-chain routing protocols. This integration adds a reputable interoperability solution for the Ethereum Classic network with access to greater than $5 Billion in bridged asset liquidity over 50+ networks. This integration enables projects from other chains to natively support and migrate to Ethereum Classic, the original Ethereum network launched in 2015.
- 
- ![No Fee transactions on Multichain Router Integration](./mutlichain-no-fees.png)
+By way of work done on [ETC Swap](https://etcswap.org) by [Ethereum Classic DAO](https://ethereumclassicdao.org), it is with our great joy to announce that the Ethereum Classic network has a reputable bridge solution in [Multichain](https://multichain.org), the leader in cross-chain routing protocols. This integration adds a reputable interoperability solution for the Ethereum Classic network with access to $5+ Billion in bridged asset liquidity through 50+ networks. This integration enables projects from other networks to natively support and migrate to Ethereum Classic, the original Ethereum network launched in 2015.
  
  ## No Fee Transactions
  
@@ -20,9 +18,13 @@ By way of work done on [ETC Swap](https://etcswap.org) by [Ethereum Classic DAO]
 
 Guide: [How to use Multichain Router (Crosschain)](https://youtu.be/G8vN2c2Mhc4)
 
-## Earn Liquidity Rewards
+ ![No Fee transactions on Multichain Cross-Chain Router Protocol](./mutlichain-no-fees.png)
+ 
+## Earn Liquidity Rewards on Bridged Assets
 
 [ETC Swap](https://etcswap.org) is natively featuring these assets in its token list as flagship liquidity pools for its swap product. Liquidity providers can earn rewards, so please considering adding liquidity to build up depth in these young markets. Currently it costs a fraction of a penny to execute a swap on Ethereum Classic. A portion of trading fees on [ETC Swap](https://swap.ethereumclassic.com) goes to future proofing development on Ethereum Classic via the [LTS Development Fund](https://gitcoin.co/grants/412/ethereum-classic-dao-defi-stack).
+
+Guide: [Using MetaMask with Ethereum Classic](https://ethereumclassic.org/guides/metamask)
 
 ![ETC Swap Assets](./etc-swap-assets.png)
 
@@ -39,7 +41,5 @@ ETC, WETC
 ### Ethereum™ Foundation network (ETH)
 
 DAI, ETH, USDC, USDT, WBTC
-
-Guide: [Using MetaMask with Ethereum Classic](https://ethereumclassic.org/guides/metamask)
 
 ![Multichain integration provides Ethereum Classic with EVM connectivity](./etc-buzz.png)
