@@ -1,10 +1,10 @@
 ---
-title: "Interoperability Comes to Ethereum Classic with Multichain Router Integration"
+title: "Multichain Brings Interoperability to Ethereum Classic"
 author: EthClassicDAO
 date: 2022-06-10
 ---
 
-![Interoperability Comes to Ethereum Classic with Multichain Router Integration](./etc-stairs-to-heaven.png)
+![Ethereum Classic added to Multichain Router Integration](./etc-stairs-to-heaven.png)
 
 ## Interoperability Comes to Ethereum Classic with Multichain Router Integration
 
@@ -16,15 +16,15 @@ By way of work done on [ETC Swap](https://etcswap.org) by [Ethereum Classic DAO]
  
  ## No Fee Transactions
  
-[Multichain](https://multichain.org) is offering no fee liquidity migration transactions to the Ethereum Classic network.
+[Multichain](https://multichain.org) is offering no fee liquidity migration transactions to the Ethereum Classic network. Most cross-chain transactions complete in under 100 seconds through Multichain's easy to navigate user interface.
 
 Guide: [How to use Multichain Router (Crosschain)](https://youtu.be/G8vN2c2Mhc4)
 
- ![ETC Swap Assets](./etc-swap-assets.png)
-
 ## Earn Liquidity Rewards
 
-[ETC Swap](https://etcswap.org) is natively featuring these assets in its token list as flagship liquidity pools for its swap product. Liquidity providers can earn rewards, so please considering adding liquidity to build up depth in these young markets. Currently it costs a fraction of a penny to executy a swap on Ethereum Classic.
+[ETC Swap](https://etcswap.org) is natively featuring these assets in its token list as flagship liquidity pools for its swap product. Liquidity providers can earn rewards, so please considering adding liquidity to build up depth in these young markets. Currently it costs a fraction of a penny to execute a swap on Ethereum Classic. A portion of trading fees on [ETC Swap](https://swap.ethereumclassic.com) goes to future proofing development on Ethereum Classic via the [LTS Development Fund](https://gitcoin.co/grants/412/ethereum-classic-dao-defi-stack).
+
+![ETC Swap Assets](./etc-swap-assets.png)
 
 At the time of launch, the [ETC Swap](https://swap.ethereumclassic.com) Mainnet token list comprises of these [Multichain](https://multichain.org) bridged assets (anyASSET) and native assets which are sourced from these networks:
 
@@ -40,4 +40,6 @@ ETC, WETC
 
 DAI, ETH, USDC, USDT, WBTC
 
-![Multichain Integrates with Ethereum Classic](./etc-buzz.png)
+Guide: [Using MetaMask with Ethereum Classic](https://ethereumclassic.org/guides/metamask)
+
+![Multichain integration provides Ethereum Classic with EVM connectivity](./etc-buzz.png)
