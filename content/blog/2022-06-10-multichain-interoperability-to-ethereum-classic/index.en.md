@@ -6,9 +6,7 @@ date: 2022-06-10
 
 ![Ethereum Classic added to Multichain Router Integration](./etc-stairs-to-heaven.png)
 
-## Multichain Brings Interoperability to Ethereum Classic
-
-### ANNOUNCEMENT:
+# Multichain Brings Interoperability to Ethereum Classic
 
 By way of work done on [ETC Swap](https://etcswap.org) by [Ethereum Classic DAO](https://ethereumclassicdao.org), it is with our great joy to announce that the Ethereum Classic network has a reputable bridge solution in [Multichain](https://multichain.org), the leader in cross-chain routing protocols. This integration adds a reputable interoperability solution for the Ethereum Classic network with access to $5+ Billion in bridged asset liquidity through 50+ networks. This integration enables projects from other networks to natively support and migrate to Ethereum Classic, the original Ethereum network launched in 2015.
  
@@ -27,6 +25,8 @@ Guide: [How to use Multichain Router (Crosschain)](https://youtu.be/G8vN2c2Mhc4)
 Guide: [Using MetaMask with Ethereum Classic](https://ethereumclassic.org/guides/metamask)
 
 ![ETC Swap Assets](./etc-swap-assets.png)
+
+## Supported Assets
 
 At the time of launch, the [ETC Swap](https://swap.ethereumclassic.com) Mainnet token list comprises of these [Multichain](https://multichain.org) bridged assets (anyASSET) and native assets which are sourced from these networks:
 
