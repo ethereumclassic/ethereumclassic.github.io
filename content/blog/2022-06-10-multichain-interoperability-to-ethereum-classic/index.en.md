@@ -20,7 +20,7 @@ Guide: [How to use Multichain Router (Crosschain)](https://youtu.be/G8vN2c2Mhc4)
  
 ## Earn Liquidity Rewards on Bridged Assets
 
-[ETC Swap](https://etcswap.org) is natively featuring these assets in its token list as flagship liquidity pools for its swap product. Liquidity providers can earn rewards, so please considering adding liquidity to build up depth in these young markets. Currently it costs a fraction of a penny to execute a swap on Ethereum Classic. A portion of trading fees on [ETC Swap](https://swap.ethereumclassic.com) goes to future proofing development on Ethereum Classic via the [LTS Development Fund](https://gitcoin.co/grants/412/ethereum-classic-dao-defi-stack).
+[ETC Swap](https://etcswap.org) is natively featuring these assets in its token list as flagship liquidity pools for its swap product. Liquidity providers can earn rewards, so please consider support the swap product and adding liquidity to build up depth in these young markets. Currently it costs a fraction of a penny to execute a swap on Ethereum Classic. A portion of trading fees on [ETC Swap](https://swap.ethereumclassic.com) goes to future proofing development on Ethereum Classic via the [LTS Development Fund](https://gitcoin.co/grants/412/ethereum-classic-dao-defi-stack).
 
 Guide: [Using MetaMask with Ethereum Classic](https://ethereumclassic.org/guides/metamask)
 
