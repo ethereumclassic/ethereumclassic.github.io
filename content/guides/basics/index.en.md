@@ -46,6 +46,7 @@ Gas is internal transaction pricing mechanism, is used to mitigate spam and allo
 
 - [Ethereum Gas Explained](https://youtu.be/hQ78FVSv-vs)
 - [Ether vs Gas difference | Programmer explains](https://youtu.be/cZ0rYWJzeow)
+- [Gas Price and Transaction Nonce](https://mirror.xyz/0x4B0728B9B1E45583bFb8bD738C9C6c8906f2841d/gYK5HwZjAHZuoZXb5FcwcKbGedfX7MbCNt7Dei6oyeM)
 
 ### How is Ethereum Classic (ETC) related to Ethereum (ETH)?
 
@@ -91,6 +92,7 @@ Smart contracts are applications that manage assets such as automatic teller mac
 - [A Beginner's Guide to Smart Contracts](https://youtu.be/RZXJMdAk5zk)
 - [Smart contracts - Simply Explained](https://youtu.be/ZE2HxTmxfrI)
 - [Smart Contracts - What Are They? (Plus Examples)](https://youtu.be/DhNyD8Cj0dg)
+- [Interact with a Smart Contract without the client side](https://mirror.xyz/0x4B0728B9B1E45583bFb8bD738C9C6c8906f2841d/AaqF-SX3Fjh_GnxrCaRmk8Us3HWVWN8uxYIcUCHBMak)
 
 ### What is a dapp?
 
