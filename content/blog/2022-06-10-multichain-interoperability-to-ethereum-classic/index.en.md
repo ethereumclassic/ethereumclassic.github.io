@@ -14,7 +14,7 @@ Guide: [How to use Multichain Router (Crosschain)](https://youtu.be/G8vN2c2Mhc4)
  
  ## No Fees on Cross-Chain Transactions
  
-For the benefit of the Ethereum Classic community, [Multichain](https://multichain.org) offers no fees on cross-chain transactions to the Ethereum Classic network from the Ethereum and Binance chains. Most cross-chain transactions complete in under 200 seconds through Multichain's easy to use interface. In the near future, Multichain will continue to connect blockchains to Ethereum Classic to increase interoperability with the greater blockchain ecosystem.
+For the benefit of the Ethereum Classic community, [Multichain](https://multichain.org) offers no fees on cross-chain transactions to the Ethereum Classic network from the Ethereum and BNB chains. Most cross-chain transactions complete in under 200 seconds through Multichain's easy to use interface. In the near future, Multichain will continue to connect blockchains to Ethereum Classic to increase interoperability with the greater blockchain ecosystem.
 
  ![No Fee transactions on Multichain Cross-Chain Router Protocol](./multichain-no-fees.png)
  
@@ -24,7 +24,7 @@ For the benefit of the Ethereum Classic community, [Multichain](https://multicha
  
  Guide: [Using MetaMask with Ethereum Classic](https://ethereumclassic.org/guides/metamask)
  
- ### Binance chain (BNB)
+ ### BNB chain (BNB)
  
  Bridged Assets through [Multichain](https://bridge.multichain.org/#/router): BNB, BUSD
  
