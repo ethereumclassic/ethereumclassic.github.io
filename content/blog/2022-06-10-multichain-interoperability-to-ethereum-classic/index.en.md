@@ -24,7 +24,7 @@ For the benefit of the Ethereum Classic community, [Multichain](https://multicha
  
  Guide: [Using MetaMask with Ethereum Classic](https://ethereumclassic.org/guides/metamask)
  
- ### BNB chain (BNB)
+ ### Binance chain (BNB)
  
  Bridged Assets through [Multichain](https://bridge.multichain.org/#/router): BNB, BUSD
  
@@ -48,19 +48,21 @@ For the benefit of the Ethereum Classic community, [Multichain](https://multicha
 
 So what does this all mean for Ethereum Classic participants?
 
-* Well, [ETC Swap](https://etcswap.org) offers liquidity providers 0.25% of trades executed on its decentralized exchange protocol.
-* Ethereum Classic users are financially incentivized to help the network by transferring liquidity over to the Ethereum Classic network for no fee through the Multichain cross-chain routing protocol.
-* This transferred liquidity through [Multichain](https://bridge.multichain.org/#/router) can then be deposited into the decentralized liquidity pools via [ETC Swap](https://swap.ethereumclassic.com)'s user interface; or its decentralized [IPFS user interface](https://ipfs.io/ipfs/QmSCGpteEcfCDXcQunMyxbaAkBWB5edMFAWnzYXMCqaCKf).
-* Ethereum Classic users then earn real-time rewards on trades executed in the liquidity pools via payment of Liquidity Pool Tokens which are redeemable through these decentralized [ETC Swap](https://swap.ethereumclassic.com) markets.
+* To open a path to self-sustainability, the code for [ETC Swap](https://etcswap.org) includes a small protocol reward mechanism of 0.05% and a liquidity provider reward of 0.25%. This feature, including the exact percentage amounts, is hardcoded into the core contracts which remain decentralized and non-upgradable.
+* Ethereum Classic users are financially incentivized to help the network by transferring liquidity over to the Ethereum Classic network for no fee through the [Multichain](https://bridge.multichain.org/#/router) cross-chain routing protocol.
+* This transferred liquidity through [Multichain](https://bridge.multichain.org/#/router) can then be deposited into the decentralized liquidity pools via the [ETC Swap](https://swap.ethereumclassic.com) user interface or its decentralized [IPFS user interface](https://ipfs.io/ipfs/QmSCGpteEcfCDXcQunMyxbaAkBWB5edMFAWnzYXMCqaCKf). By supplying tokens to [ETC Swap](https://swap.ethereumclassic.com) liquidity pools, users can earn rewards while enabling peer-to-peer trading.
+* Ethereum Classic users then earn real-time rewards on trades executed in the liquidity pools via payment of Liquidity Pool Tokens which are redeemable through these decentralized, on-chain [ETC Swap](https://swap.ethereumclassic.com) markets. Anyone, anywhere, can supply tokens to liquidity pools, trade tokens, or even create and list their own tokens (using Ethereum Classic’s ERC-20 protocol).
 * All of these transactions are executed by audited smart contracts without the need to trust third-party intermediaries, as Multichain and ETC Swap are non-custodial protocols with smart contracts verified on-chain and open-source for public and peer review.
 
 ## Why is this beneficial to Ethereum Classic?
 
-* This [Multichain](https://bridge.multichain.org/#/router) integration benefits the Ethereum Classic ecosystem by building on-chain liquidity pools of meaningful assets on the [ETC Swap](https://etcswap.org) decentralized exchange protocol.
-* These on-chain liquidity pools enable Ethereum Classic users to safely acquire digital assets without intermediaries and, in doing so, increases transaction activity on the ETC network.
-* This increase in transaction activity generates a fee market which makes securing Ethereum Classic with mining equipment more profitable than it is today with mere block rewards.
-* This increase in mining profitability results in increased security for the Ethereum Classic network which signals to developers that Ethereum Classic is a secure layer one blockchain to integrate into their projects.
-* This results in a vibrant cryptocurrency ecosystem on top of Ethereum Classic. A robust development ecosystem should result in a rapid increase of value built and stored on the Ethereum Classic network-- the largest proof of work smart contract platform in the blockchain space.
+* This [Multichain](https://bridge.multichain.org/#/router) integration connects the Ethereum Classic network to the greater blockchain space through a non-custodial protocol. This means Ethereum Classic and its ecosystem are no longer dependent on centralized exchange services to interact with other blockchain networks. The Ethereum Classic network finally has a large, reputable on-ramp for liquidity to freely move through without centralized friction points like accounts, custody risk, or AML/KYC regulation requirements. 
+* Additionally, this [Multichain](https://bridge.multichain.org/#/router) integration benefits the Ethereum Classic ecosystem by building on-chain liquidity pools of meaningful assets on the [ETC Swap](https://etcswap.org) decentralized exchange protocol.
+* These on-chain liquidity pools enable Ethereum Classic users to safely acquire digital assets without intermediaries and, in doing so, increases transaction activity on the ETC network through peer-to-peer trading.
+* This increase in transaction activity generates a fee market which makes securing Ethereum Classic with mining equipment more profitable.
+* This increase in mining profitability results in increased security for the Ethereum Classic network which signals to developers that Ethereum Classic is a secure layer one blockchain that can operate as expected.
+* This increased security results in a vibrant cryptocurrency ecosystem built on top of Ethereum Classic.
+* A robust development ecosystem should result in a rapid increase of value built and stored on the Ethereum Classic network-- the largest proof of work smart contract platform in the blockchain space.
 
 Join the decentralized and open [ETC community](https://ethereumclassic.org/discord) in building the Web3 future on Ethereum Classic, the Original Ethereum Vision.
 
