@@ -52,7 +52,7 @@ So what does this all mean for Ethereum Classic participants?
 * Ethereum Classic users are financially incentivized to help the network by transferring liquidity over to the Ethereum Classic network for no fee through the Multichain cross-chain routing protocol.
 * This transferred liquidity through [Multichain](https://bridge.multichain.org/#/router) can then be deposited into the decentralized liquidity pools via [ETC Swap](https://swap.ethereumclassic.com)'s user interface; or its decentralized [IPFS user interface](https://ipfs.io/ipfs/QmSCGpteEcfCDXcQunMyxbaAkBWB5edMFAWnzYXMCqaCKf).
 * Ethereum Classic users then earn real-time rewards on trades executed in the liquidity pools via payment of Liquidity Pool Tokens which are redeemable through these decentralized [ETC Swap](https://swap.ethereumclassic.com) markets.
-* All of this transactions are executed by audited smart contracts without the user needing to trust custody of their funds with any third-party, as Multichain and ETC Swap are non-custodial protocols. Both protocols smart contracts are verified on-chain and open-source for public and peer review.
+* All of these transactions are executed by audited smart contracts without the need to trust third-party intermediaries, as Multichain and ETC Swap are non-custodial protocols with smart contracts verified on-chain and open-source for public and peer review.
 
 ## Why is this beneficial to Ethereum Classic?
 
