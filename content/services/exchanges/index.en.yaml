@@ -58,6 +58,9 @@ items:
       Bitcoin IRA:
         __link: https://bitcoinira.com/resources/bitcoin-ethereum-price-charts
         name: Bitcoin IRA
+      BitcoinVN:
+        __link: https://bitcoinvn.io/?deposit=etc
+        name: BitcoinVN
       Bitfinex:
         __link: https://www.bitfinex.com/t/ETC:USD
         name: Bitfinex
