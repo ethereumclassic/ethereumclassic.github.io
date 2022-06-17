@@ -8,39 +8,39 @@ date: 2022-06-10
 
 # Multichain Brings Interoperability to Ethereum Classic
 
-Through development efforts on [ETC Swap](https://etcswap.org) by [Ethereum Classic DAO](https://ethereumclassicdao.org), it is with great joy to announce that the Ethereum Classic network has a reputable bridge solution in [Multichain](https://multichain.org), the leader in cross-chain routing protocols. This Multichain integration with the Ethereum Classic network adds a well-known and heavily audited interoperability solution with greater than $5+ Billion in total value locked in its cross-chain routing protocol throughout 50+ chains. This Multichain integration provides a smooth transition from other chains to Ethereum Classic, which enables developers to natively support Ethereum Classic and its token ecosystem in their applications.
+Through development efforts on [ETC Swap](https://etcswap.org) by [Ethereum Classic DAO](https://ethereumclassicdao.org), it is with great joy to announce that the Ethereum Classic network has a reputable interoperability solution in [Multichain](https://multichain.org), the leader in cross-chain routing protocols. Multichain's integration with the Ethereum Classic network adds a well-known and heavily audited bridging solution for Ethereum Classic to the greater cryptoverse. Multichain has greater than $5+ Billion in total value locked (TVL) in its cross-chain routing protocol throughout 50+ chains. This Multichain integration provides a smooth transition for meaningful assets to migrate from other chains to Ethereum Classic. The [ETC Swap](https://etcswap.org) protocol removes the requirement of centralized services to exchange meaningful assets with Ethereum Classic's native token Ether (ETC). All of this reinforces the Ethereum Classic networks principles of decentralization and building unstoppable applications.
 
 Guide: [How to use Multichain Router (Crosschain)](https://youtu.be/G8vN2c2Mhc4)
  
- ## No Fees on Cross-Chain Transactions
+## No Fees on Cross-Chain Transactions
  
-For the benefit of the Ethereum Classic community, [Multichain](https://multichain.org) offers no fees on cross-chain transactions to the Ethereum Classic network from the Ethereum and BNB chains. Most cross-chain transactions complete in under 200 seconds through Multichain's easy to use interface. In the near future, Multichain will continue to connect blockchains to Ethereum Classic to increase interoperability with the greater blockchain ecosystem.
+For the benefit of the Ethereum Classic community, [Multichain](https://multichain.org) offers no fees on cross-chain transactions to the Ethereum Classic network from the Ethereum and Binance Smart Chains. Most cross-chain transactions complete in under 200 seconds through Multichain's easy to use interface. In the near future, Multichain will continue to connect blockchains to Ethereum Classic to increase interoperability with the greater blockchain ecosystem.
 
- ![No Fee transactions on Multichain Cross-Chain Router Protocol](./multichain-no-fees.png)
+![No Fee transactions on Multichain Cross-Chain Router Protocol](./multichain-no-fees.png)
  
- ## ETC Swap Supports Multichain Assets
+## ETC Swap Supports Multichain Assets
  
- [ETC Swap](https://swap.ethereumclassic.com) supports markets for these Multichain bridged assets. Please note, bridged assets through [Multichain](https://bridge.multichain.org/#/router) are listed with the "any" prefix to the asset's ticker symbol. This is done to clearly signify that the traded asset is bridged through the Multichain cross-chain router and not natively issued on the Ethereum Classic chain by the token's development team. We expect major stablecoins like Tether USD and USD Coin to natively issue these assets on Ethereum Classic in the future as the network's hashrate continues to rise. So this "any" prefix is added to avoid confusion with the inevitability of these stablecoins natively issued on Ethereum Classic.
+[ETC Swap](https://swap.ethereumclassic.com) supports the 28 markets for these Multichain-Pegged assets. Please note, bridged assets through [Multichain](https://bridge.multichain.org/#/router) are listed with the assets traditional ticker symbol but will include "Mulitchain-Peg USDC" in the alt description. This is done to clearly signify that the traded asset is bridged through the Multichain cross-chain router and not natively issued on the Ethereum Classic chain by the token's development team. We expect major stablecoins like Tether USD and USD Coin to natively issue these assets on Ethereum Classic in the future as the network's hashrate continues to rise.
  
- Guide: [Using MetaMask with Ethereum Classic](https://ethereumclassic.org/guides/metamask)
+Guide: [Using MetaMask with Ethereum Classic](https://ethereumclassic.org/guides/metamask)
  
- ### BNB chain (BNB)
+### ChainID 56: Binance Smart Chain (BNB)
  
- Bridged Assets through [Multichain](https://bridge.multichain.org/#/router): BNB, BUSD
+Bridged Assets through [Multichain](https://bridge.multichain.org/#/router): BNB, BUSD
  
- *Note: these assets are listed with the "any" prefix.*
+*Note: these assets are listed with "Multichain-Peg" in their alt descriptions.*
  
- ### Ethereum Classic chain (ETC)
+### ChainID 61: Ethereum Classic chain (ETC)
  
- Native Assets: ETC, WETC
+Native Assets: ETC, WETC
  
- *Note: [Wrapped ETC](https://wrappedether.org) is supported in ETC Swap.*
+*Note: Canonical [Wrapped ETC](https://wrappedether.org) is supported in [ETC Swap](https://etcswap.org) and all [EthereumClassic.com](https://ethereumclassic.com) protocols.*
  
- ### Ethereum™ Foundation chain (ETH)
+### ChainID 1: Ethereum™ Foundation chain (ETH)
  
- Bridged Assets through [Multichain](https://bridge.multichain.org/#/router): DAI, ETH, USDC, USDT, WBTC
+Bridged Assets through [Multichain](https://bridge.multichain.org/#/router): DAI, ETH, USDC, USDT, WBTC
  
- *Note: these assets are listed with the "any" prefix.*
+*Note: these assets are listed with "Multichain-Peg" in their alt descriptions.*
 
 ![ETC Swap Assets](./etc-swap-assets.png)
 
