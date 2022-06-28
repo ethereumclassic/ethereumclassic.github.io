@@ -7,6 +7,7 @@ contributors:
   - arvicco
   - bobsummerwill
   - ChangeNOW-Exchange
+  - ClassicSavages
   - dax-classix
   - gitr0n1n
   - godexdev
@@ -16,7 +17,7 @@ contributors:
   - pyskell
   - redsn0w0
   - TheEnthusiasticAs
-seo: A list of centralized and trust-minimized exchanges, DEXs, and payment processors that support ETC.
+seo: A list of centralized and trust-minimized exchanges, DEXs, NFT marketplaces, and payment processors that support ETC.
 description: |
   This page contains a list of services that allow you to purchase or trade ETC.
 
@@ -276,17 +277,17 @@ items:
       ZBG:
         __link: https://www.zbg.com/trade/etc_usdt
         name: ZBG
-  Trust-Minimizing Exchange:
+  Trust-Minimizing Exchanges:
     __type: buttons
-    title: Trust-Minimizing Exchange
+    title: Trust-Minimizing Exchanges
     description: The following exchanges may not be *fully* decentralized exchanges, but operate in a less centralization manner than the list above.
     items:
-      Bisq:
-        __link: https://bisq.network/markets/?currency=etc_btc
-        name: Bisq
-      Saturn Network:
-        __link: https://www.saturn.network/exchange/ethereum-classic
-        name: Saturn Network
+      ETCSwap:
+        __link: https://etcswap.org
+        name: ETC Swap
+      HebeSwap:
+        __link: https://hebeswap.com
+        name: Hebe Swap
   Instant Exchanges:
     __type: buttons
     title: Instant Exchanges
@@ -349,3 +350,11 @@ items:
       XChange:
         __link: https://www.xchange.me/
         name: XChange
+  NFT Marketplaces:
+    __type: buttons
+    title: NFT Marketplaces
+    description: The following NFT marketplaces may not be *fully* decentralized marketplaces.
+    items:
+      ClassicArt:
+        __link: https://classicart.io
+        name: ClassicArt

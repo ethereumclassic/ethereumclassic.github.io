@@ -64,3 +64,7 @@ items:
         name: Kotti Stats
         __kotti: http://stats.kotti.goerli.net/
         description: Network stats for the Ethereum Classic Kotti Testnet.
+      ua-mining:
+        name: ua-mining
+        __link: https://etc-stats.ua-mining.com
+        description: Ethereum Classic stats dashboard.
