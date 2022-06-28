@@ -136,6 +136,9 @@ items:
       Crex24:
         __link: https://crex24.com/exchange/ETC-BTC
         name: Crex24
+      Crypto_com:
+        __link: https://crypto.com/exchange/trade/spot/ETC_USDT
+        name: Crypto.com
       DCoin:
         __link: https://www.dcoin.com/currencyTrading/ETC_USDT
         name: DCoin
