@@ -19,6 +19,7 @@ billboard:
     Code is Law: "Code is Law"
     Classic: "Classic"
     Permisionless: "Permissionless"
+    Virgin: "Virgin"
 intro:
   title: Build Unstoppable Applications
   content: |
