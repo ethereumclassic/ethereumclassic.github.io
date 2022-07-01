@@ -1,4 +1,39 @@
 -  
+  date: 2022-06-16
+  link: https://www.bloomberg.com/news/articles/2022-06-16/ethereum-mining-tweak-renders-some-crypto-tech-worthless
+  author: Bloomberg
+  source: Bloomberg
+  title: "Ethereum Mining Is Going Away, and Miners Are Not Happy"
+  tags: ["education", "mining"]
+-  
+  date: 2022-06-17
+  link: https://www.msn.com/en-us/news/technology/ethereum-miners-spent-dollar15-billion-on-gpus-in-the-last-two-years/ar-AAYB5V8
+  author: Alisa James
+  source: MSN
+  title: "Ethereum miners spent $15 billion on GPUs in the last two years"
+  tags: ["education", "mining"]
+- 
+  date: 2022-06-10
+  link: https://www.bloomberg.com/news/articles/2022-06-10/ethereum-s-difficulty-bomb-delay-is-bad-news-for-its-revamp#xj4y7vzkg
+  author: Bloomberg
+  source: Bloomberg
+  title: "Ethereum’s Difficulty Bomb Delay Is Bad News for Revamp"
+  tags: ["education", "mining"]
+-  
+  date: 2022-04-06
+  link: https://www.bloomberg.com/news/articles/2022-04-06/why-ethereum-s-coming-merge-matters-for-crypto#xj4y7vzkg
+  author: Bloomberg
+  source: Bloomberg
+  title: "Ethereum’s Coming Merge Could Make or Break Crypto"
+  tags: ["education", "mining"]
+-  
+  date: 2022-03-25
+  link: https://grayscale.com/marketbyte-ethereum-classic/
+  author: Grayscale
+  source: Grayscale
+  title: "Market Byte: What’s Next for Ethereum Classic"
+  tags: ["education", "mining"]
+-  
   date: 2021-12-22
   link: https://etccooperative.org/posts/2021-12-22-coop-now-funding-core-geth
   author: ETC Cooperative
@@ -62,6 +97,13 @@
   title: "ETC Core Devs Call 19 - media recording(s) see in the comment(s)"
   tags: ["announcement", "teams", "development", "media"]
 -  
+  date: 2021-08-21
+  link: https://www.coindesk.com/business/2021/06/21/dcg-to-buy-50m-in-shares-of-grayscales-ethereum-classic-trust/
+  author: Cheyenne Ligon
+  source: CoinDesk
+  title: "DCG to Buy $50M in Shares of Grayscale’s Ethereum Classic Trust"
+  tags: ["announcement", "teams", "development", "media"]
+- 
   date: 2021-08-11
   link: https://github.com/ethereumclassic/ECIPs/issues/434
   author: Antoine Toulme
