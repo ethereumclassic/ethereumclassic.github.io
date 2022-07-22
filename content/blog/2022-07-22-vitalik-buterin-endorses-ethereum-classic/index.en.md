@@ -8,7 +8,7 @@ tags: ["announcement", "education", "mining"]
 
 # EthCC[5] Talk: Vitalik Buterin Endorses Ethereum Classic as Proof of Work EVM
 
-As the Ethereum Foundation nears its soft date of September 19, 2022 for the network's migration to a Proof-of-Stake (PoS) consensus maechanism. In a clip capture by Donald McIntyre of [EtherPlan](https://ethereplan.com), Ethereum's most prominent co-founder, Vitalik Buterin, gave an endorsement of the oringinal Ethereum network, Ethereum Classic. This endorsement was offered to those in the ETH crowd that were not thrilled with the idea of a migration to Proof-of-Stake.
+The Ethereum Foundation nears its soft date of September 19, 2022 for the network's migration to a Proof-of-Stake (PoS) consensus mechanism. In a clip capture by Donald McIntyre of [EtherPlan](https://ethereplan.com), Ethereum's most prominent co-founder, Vitalik Buterin, gave an endorsement of the original Ethereum network, Ethereum Classic. This endorsement was offered as a reasonable solution to those in the ETH crowd that were not thrilled with the idea of the Ethereum Foundation's chain migrating to Proof-of-Stake.
 
 Clip: [EtherPlan](https://www.youtube.com/clip/Ugkxjp2lf6i0UXgtzR_gRrKqdTq5g7CGKGF8)
 
