@@ -1,6 +1,6 @@
 ---
 title: "EthCC[5] Talk: Vitalik Buterin Endorses Ethereum Classic as Proof of Work EVM"
-date: 2022-07-21
+date: 2022-07-22
 author: r0n1n
 contributors: ["gitr0n1n"]
 tags: ["announcement", "education", "mining"]
