@@ -95,7 +95,7 @@
   type: games
   image: ./images/TMWSTW.png
   verifiedContract: https://blockscout.com/etc/mainnet/address/0x271dc2DF1390a7b319CAE1711A454fa416D6A309/contracts
-  description: TMWSTW metaverse is spherical 1:100 scale model of earth, consisting of 10k plots (voronoi cells, based on 4519 coordinates of 100k+ population cities and 5481 randomly distributed points on a globe).  3rd person MMORPG type gameplay with blockchain backed ownership and Guns!, Ethereum Classic blockchain is used for all ingame economy and DAO, as solid community driven POW chain with huge hashrate, low utilization and good ethics.
+  description: Spherical earthlike MMORPG Metaverse of 10K NFT plots of land with resource based economy. Land ownership on $ETH, ingame economy and assets on $ETC.
   links:
      - name: Launch App
        link: https://play.tmwstw.io/
