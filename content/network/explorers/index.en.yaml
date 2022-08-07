@@ -33,33 +33,14 @@ items:
         __linkRef: mordor
         text: Mordor
     items:
-      AnyBlock:
-        name: AnyBlock
-        __etc: https://explorer.anyblock.tools/ethereum/classic/mainnet/
-        __kotti: https://explorer.anyblock.tools/ethereum/classic/kotti/
-        __mordor: https://explorer.anyblock.tools/ethereum/classic/mordor/
-      Bitquery:
-        name: Bitquery
-        __etc: https://explorer.bitquery.io/ethclassic/
       BlockScout:
         name: BlockScout
         __etc: https://blockscout.com/etc/mainnet/
         __kotti: https://blockscout.com/etc/kotti/
         __mordor: https://blockscout.com/etc/mordor/
-      Emerald Receipt:
-        name: Emerald Receipt
-        __etc: https://receipt.emeraldpay.io/
       ETCBlockExplorer:
         name: ETCBlockExplorer
         __etc: https://etcblockexplorer.com/
-      Expedition:
-        name: Expedition
-        __etc: https://expedition.dev/?network=mainnet
-        __kotti: https://expedition.dev/?network=kotti
-        __mordor: https://expedition.dev/?network=mordor
-      MinerGate:
-        name: MinerGate
-        __etc: https://minergate.com/blockchain/etc/blocks
       OKLink:
         name: OKLink
         __etc: https://www.oklink.com/etc
