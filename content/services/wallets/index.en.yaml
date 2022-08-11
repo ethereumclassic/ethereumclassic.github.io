@@ -1,5 +1,5 @@
 __contribute: true
-updated: 2022-02-22
+updated: 2022-08-11
 __disclaimer: verify
 contributors:
   - AndrewGuarda
@@ -15,6 +15,7 @@ contributors:
   - ProphetDaniel
   - pyskell
   - TheEnthusiasticAs
+  - chendatony31
 title: Wallets
 seo: A source of web wallets, extensions, software wallets, hardware wallets, and other ways to secure ETC.
 description: There are many options of wallets to choose from to secure and use ETC. Each option gives a different balance between security and convenience. Please research the best option depending on your requirements.
@@ -56,6 +57,9 @@ items:
       SimpleHold Wallet:
         __link: https://simplehold.io/download
         name: SimpleHold Wallet
+      TokenPocket:
+        __link: https://extension.tokenpocket.pro/
+        name: TokenPocket
   hardware:
     __type: buttons
     title: Hardware Wallets
@@ -73,6 +77,9 @@ items:
       HTC Exodus:
         __link: https://www.htcexodus.com/
         name: HTC Exodus
+      KeyPal:
+        __link: https://keypal.pro/
+        name: KeyPal
       Ledger:
         __link: https://shop.ledger.com/
         name: Ledger
@@ -174,6 +181,9 @@ items:
       Ownbit:
         __link: https://ownbit.io/
         name: Ownbit
+      TokenPocket:
+        __link: https://tokenpocket.pro/
+        name: TokenPocket
       Tokenview:
         __link: https://tokenview.com/cn/download
         name: Tokenview
