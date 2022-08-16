@@ -273,7 +273,7 @@ play:
       __link: /development
       __icon: code
       name: Development
-      description: Testnests, Tooling, Clients and information on how to contribute to the ETC protocol itself
+      description: Testnets, Tooling, Clients and information on how to contribute to the ETC protocol itself
       navItems:
         clients:
           __link: /development/clients
