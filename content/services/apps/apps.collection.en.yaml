@@ -43,6 +43,27 @@
 #
 ### END APP TEMPLATE
 #
+- title: ClassicDAO
+  date: 2022-08-12
+  image: ./images/classicdao.jpg
+  author: StableGaralo
+  authorLink: https://classicdao.io/
+  teamSite: https://classicdao.io/
+  description: ClassicDAO is the first DAO on Ethereum Classic in over 7 years. ClassicDAO has many ambitions of improving the Ethereum Classic Blockchain one of many plans is to have the first Staking on ETC ever. On top of that ClassicDAO will also support new projects and assist them with funding so they can build on ETC. CLD also plans to building public infrastructure such as Mining facility's that will be owned by the DAO.
+  type: games
+  links:
+    - name: Website
+      link: https://classicdao.io/
+      icon: home
+    - name: Github
+      link: https://github.com/Soteria-Smart-Contracts/ClassicDAO
+      icon: github
+    - name: Twitter
+      link: https://twitter.com/ClassicDao
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/ETCClassicDAO
+      icon: telegram
 - title: Multichain
   date: 2022-05-23
   image: ./images/multichain.png
@@ -107,7 +128,7 @@
      - name: Discord
        link: https://discord.gg/d56axYmRTa
        icon: discord
-- title: ETC Swap
+- title: ETCswap
   date: 2022-05-15
   image: ./images/etcswap.png
   author: EthClassicDAO
@@ -117,10 +138,10 @@
   audit: https://github.com/etcswap/public-audits
   teamSite: https://ethereumclassicdao.org
   ipfsFrontend: https://ipfs.io/ipfs/QmSCGpteEcfCDXcQunMyxbaAkBWB5edMFAWnzYXMCqaCKf
-  description: ETC Swap is a decentralized cryptocurrency exchange where users acquire digital assets without an intermediary. Use Ethereum Classic, the original Ethereum Virtual Machine (EVM). Code is law.
+  description: ETCswap is a decentralized cryptocurrency exchange where users acquire digital assets without an intermediary. Use Ethereum Classic, the original Ethereum Virtual Machine (EVM). Code is law.
   type: finance
   links:
-    - name: Launch ETC Swap
+    - name: Launch ETCswap
       link: https://swap.ethereumclassic.com
       icon: link
     - name: Landing Site
@@ -522,26 +543,3 @@
   links:
     - name: Homepage
       link: https://www.portal.network/
-#- description: ClassicDAO is the first DAO on Ethereum Classic in over 7 years. ClassicDAO has many ambitions of improving the Ethereum Classic Blockchain one of many plans is to have the first Staking on ETC ever. On top of that ClassicDAO will also support new projects and assist them with funding so they can build on ETC. CLD also plans to building public infrastructure such as Mining facility's that will be owned by the DAO.
-
-- title: ClassicDAO
-date: 2022-08-12
-type: games
-image: ./images/classicdao.jpg
-author: StableGaralo
-teamSite:http://classicdao.io/
-links:
-- name: Launch App
-link: http://classicdao.io/
-- name: Website
-link: http://classicdao.io/
-icon: home
-- name: Github
-link: https://github.com/Soteria-Smart-Contracts/ClassicDAO
-icon: github
-- name: Twitter
-link: https://twitter.com/ClassicDao
-icon: twitter
-- name: Telegram
-link: https://t.me/ETCClassicDAO
-icon: telegram
