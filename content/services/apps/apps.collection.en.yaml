@@ -522,3 +522,26 @@
   links:
     - name: Homepage
       link: https://www.portal.network/
+#- description: ClassicDAO is the first DAO on Ethereum Classic in over 7 years. ClassicDAO has many ambitions of improving the Ethereum Classic Blockchain one of many plans is to have the first Staking on ETC ever. On top of that ClassicDAO will also support new projects and assist them with funding so they can build on ETC. CLD also plans to building public infrastructure such as Mining facility's that will be owned by the DAO.
+
+- title: ClassicDAO
+date: 2022-08-12
+type: games
+image: ./images/classicdao.jpg
+author: StableGaralo
+teamSite:http://classicdao.io/
+links:
+- name: Launch App
+link: http://classicdao.io/
+- name: Website
+link: http://classicdao.io/
+icon: home
+- name: Github
+link: https://github.com/Soteria-Smart-Contracts/ClassicDAO
+icon: github
+- name: Twitter
+link: https://twitter.com/ClassicDao
+icon: twitter
+- name: Telegram
+link: https://t.me/ETCClassicDAO
+icon: telegram
