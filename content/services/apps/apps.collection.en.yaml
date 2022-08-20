@@ -522,3 +522,28 @@
   links:
     - name: Homepage
       link: https://www.portal.network/
+
+ - title: ClassicDAO
+   date: 2022-01-01
+   type: DeFi
+  image: ./images/classicdao.jpg
+   author: StableGaralo
+   description: ClassicDAO is the first DAO on Ethereum Classic in over 7 years that will have staking, governance and so much more. ClassicDAO plans to finance new projects on ETC as well as build mining facilities that members of the DAO will get paid dividends from the profits from the operation.
+   links:
+     - name: Launch App
+       link: http://classicdao.io/
+     - name: Website
+       link: http://classicdao.io/
+       icon: home
+     - name: Documentation
+       link: https://docdro.id/xNv7hiz
+       icon: book
+     - name: Github
+       link: https://github.com/Soteria-Smart-Contracts/ClassicDAO
+       icon: github
+     - name: Twitter
+       link: https://twitter.com/ClassicDao
+       icon: twitter
+     - name: Telegram
+       link: t.me/ETCClassicDAO
+       icon: telegram
