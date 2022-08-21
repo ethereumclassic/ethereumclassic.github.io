@@ -30,8 +30,4 @@ A range of ASIC miners Ethereum Classic are available and can be found by search
 
 ## Support
 
-For further help and guidance from other miners in the ETC community, you can reach out in the #mining channel on Discord.
-
-## SHA3
-
-There is currently a debate ongoing in the Ethereum Classic community about whether to change the hashing algorithm of ETC to SHA3, but presently there is no fixed schedule or consensus about implementing this change. If you would like to follow the debate or have your voice heard, check out the #ecip-1049 channel on Discord.
+For further help and guidance from other miners in the ETC community, you can reach out in the #mining channel on [Discord](https://ethereumclassic.org/discord).
