@@ -14,6 +14,12 @@
 #
 ### END VIDEO TEMPALTE
 #
+- title: "YouTuber TechLead discusses his Ethereum Classic strategy"
+  date: 2022-08-20
+  youtube: nyaBsK3PaC0
+  tags: ["education", "trading"]
+  author: TechLead
+  authorYoutube: UC4xKdmAXFh4ACyhpiQ_3qBw
 - title: "EthCC5 Talk: Vitalik Buterin endorses Ethereum Classic (35 min timestamp)"
   date: 2022-07-22
   youtube: kGjFTzRTH3Q
@@ -338,12 +344,12 @@
   tags: ["trading"]
   youtube: Tbg1ydZbotA
   date: 2021-05-07
-- title: "Easily Mine Ethereum Classic On Any Computer | How To Mine Ethereum Classic 2021 | How To Stake ETC"
-  tags: ["mining"]
-  author: Fractal Media
-  authorYoutube: UCUvqZ03tD5fM4nw33PrPQ-w
-  youtube: PBSW9CILf0w
-  date: 2021-03-13
+#- title: "Easily Mine Ethereum Classic On Any Computer | How To Mine Ethereum Classic 2021 | How To Stake ETC"
+#  tags: ["mining"]
+#  author: Fractal Media
+#  authorYoutube: UCUvqZ03tD5fM4nw33PrPQ-w
+#  youtube: PBSW9CILf0w
+#  date: 2021-03-13
 - title: "ETHEREUM CLASSIC IS EXPLODING!!! (BETTER THAN DOGE)"
   author: Michael Wrubel
   tags: ["trading"]
