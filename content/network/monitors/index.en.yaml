@@ -1,5 +1,5 @@
 title: Network Monitors
-updated: 2022-02-22
+updated: 2022-08-28
 contribute: true
 seo: Tools for checking the health of the Ethereum Classic network, and general statistics such as issuance, transaction counts and mining profitability.
 description: |
@@ -13,6 +13,7 @@ contributors:
   - ProphetDaniel
   - pyskell
   - TheEnthusiasticAs
+  - MrMarioMichel
 items:
   monitors:
     type: links
@@ -68,3 +69,7 @@ items:
         name: ua-mining
         __link: https://etc-stats.ua-mining.com
         description: Ethereum Classic stats dashboard.
+      etc-network.info:
+        name: etc-network.info
+        __link: https://etc-network.info
+        description: A small site to help you navigate services provided by etc-network.info.
