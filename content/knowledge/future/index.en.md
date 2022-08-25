@@ -4,7 +4,7 @@ contribute: true
 contributors:
   - pyskell
   - IstoraMandiri
-updated: 2022-02-22
+updated: 2022-08-25
 disclaimer: opinion
 seo: An overview of the future development roadmap and how decisions are made in the Ethereum Classic ecosystem, based on its history, principles.
 ---
@@ -56,14 +56,6 @@ Ethereum™ mainnet chain, although experiencing some minor delays, is looking i
 The migration of miners from ETC to ETH will likely bring a new wave of interest to the Ethereum Classic ecosystem, increase the security of the network, and accelerate adoption and network value.
 
 Additionally, if there are any short term problems during or after "The Merge", perhaps due to unforeseen game theory problems or protocol exploits due to additional complexity, Ethereum Classic will be ready and waiting to provide a fallback chain that remains on the tried and true Ethereum protocol of today. In the long term, the move to Proof of Stake will likely result in further centralization of Ethereum™ mainnet, which makes it vulnerable to other kinds of social attacks, which again, ETC will remain immune to.
-
-### SHA3
-
-One proposal that is garnering a lot of [discussion](https://etccooperative.org/posts/2020-12-03-why-keccak/) in the Ethereum Classic community is the idea of changing the mining algorithm away from ETCHash to SHA3 (keccak).
-
-Changing the mining algorithm of a blockchain mid-flight is a huge undergoing and presents potential risks. The debate is by no means settled and somewhat depends on the state of the future ecosystem. Still, the move towards SHA3 has the potential to provide some benefits to the ETC technologically and security wise.
-
-SHA3 enables a new type of light client known as a "FlyClient", which can more efficiently and securely verify the state of the chain, which is useful in many applications and increases decentralization by reducing hardware requirements to sync. SHA3 blocks are also easier to verify in contracts, which may open doors to new types of applications and cross chain interoperability options.
 
 ### EVM Versioning
 
