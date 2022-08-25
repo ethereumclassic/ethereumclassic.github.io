@@ -71,4 +71,4 @@ It is becoming increasingly clear that the only reasonable ways to scale blockch
 
 Layer 2 promises to provide adequate assurances of decentralization and trustlessness, with much greater transaction throughput by managing state off-chain and using the base chain for settling this state. In theory, there is no upper bound to the number of transactions per second in many Layer 2 systems, and can satisfy civilization-scale usage requirements.
 
-With Ethereum Classic's EVM and commitment to Proof of Work that will eventually dominate mining in ETCHash or SHA3, it will be one of the few choices for a Sovereign Grade base layer that can support a full range of L2 solutions.
+With Ethereum Classic's EVM and commitment to Proof of Work that will eventually dominate mining in ETCHash, it will be one of the few choices for a Sovereign Grade base layer that can support a full range of L2 solutions.
