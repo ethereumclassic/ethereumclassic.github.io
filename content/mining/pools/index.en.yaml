@@ -33,7 +33,7 @@ contributors:
 items:
   pools:
     __type: buttons
-    items:      
+    items:
       2Miners:
         name: 2Miners
         __link: https://2miners.com/etc-mining-pool
