@@ -17,7 +17,7 @@ seo: An overview of the useful features of money that give it value, and how som
 
 The backbone of strong economies, the provider of stability, the incentiviser of healthy [time preference](https://www.youtube.com/watch?v=k5XbLm3pEfI), the creator of prosperity. Sound money is the antidote to many of the problems created by the financial abuses of centralization in the wider world, and is the core concept that spurred the creation of Bitcoin.
 
-From the [Austrian School of Economics](https://mises.org/topics/bitcoin) many of the theories behind Bitcoin, including [Sound Money](https://mises.org/library/principle-sound-money), saw their philosophical gestation. Decades before Bitcoin was technologically conceivable, economists such as Ludwig von Mises, Fredreick Hayak and Milton Friedman were professing the dangers of fiat money and the advantage of systems of finance that are free from manipulation by central authorities.
+From the [Austrian School of Economics](https://mises.org/topics/bitcoin) many of the theories behind Bitcoin, including [Sound Money](https://mises.org/library/principle-sound-money), saw their philosophical gestation. Decades before Bitcoin was technologically conceivable, economists such as Ludwig von Mises, Fredreick Hayek and Milton Friedman were professing the dangers of fiat money and the advantage of systems of finance that are free from manipulation by central authorities.
 
 ## Properties of Sound Money
 
