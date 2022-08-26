@@ -522,3 +522,21 @@
   links:
     - name: Homepage
       link: https://www.portal.network/
+- title: MonkeyDoo
+  date: 2022-08-26
+  type: nfts
+  image: ./images/monkeydoo.jpg
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0xE86ae8f38372d26F8ffAC37deba733a77f101Ac7/transactions
+  description: MonkeyDoos are a collection of 3,000 NFTs (non-fungible tokens) that are made of a large number of high quality visual traits. Each MonkeyDoo is unique in its own way, but not equally rare. The MonkeyDoo collection includes dozens of rare layers that make some NFTs more valuable than the others.
+  links:
+    - name: MonkeyDoo
+      link: https://monkeydoonft.com/
+    - name: Twitter
+      link: https://twitter.com/MonkeyDoo_NFT?t=YtUCLKwoeuqsy5GUxIxxtQ&s=09
+      icon: twitter
+    - name: Discord
+      link: https://discord.com/invite/UhZFZHYwNx
+      icon: discord
+    - name: Telegram
+      link: https://t.me/MonkeyDoo_NFT
+      icon: telegram
