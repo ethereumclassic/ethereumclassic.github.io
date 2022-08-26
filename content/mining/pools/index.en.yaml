@@ -33,11 +33,7 @@ contributors:
 items:
   pools:
     __type: buttons
-    items:
-      HashBlue:
-        name: HashBlue
-        __link: https://hash.blue
-        __primary: true
+    items:      
       2Miners:
         name: 2Miners
         __link: https://2miners.com/etc-mining-pool
@@ -118,6 +114,10 @@ items:
       flexpool:
         name: Flexpool
         __link: https://flexpool.io/
+      HashBlue:
+        name: HashBlue
+        __link: https://hash.blue
+        __primary: true
       HashCity:
         name: HashCity
         __link: https://hashcity.org/
