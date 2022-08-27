@@ -114,6 +114,10 @@ items:
       flexpool:
         name: Flexpool
         __link: https://flexpool.io/
+      HashBlue:
+        name: HashBlue
+        __link: https://hash.blue
+        __primary: true
       HashCity:
         name: HashCity
         __link: https://hashcity.org/
