@@ -43,6 +43,41 @@
 #
 ### END APP TEMPLATE
 #
+
+- title: Nova Explorer
+  date: 2022-08-28
+  image: https://1479452965-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fw8N76RudwAt1Iyty0Cmd%2Fuploads%2FBQJZxzLfxjhP7vytsdVX%2F512Black.png?alt=media&token=54994191-aa78-4084-92f7-f2678740c980
+  author: Nova Network
+  authorLink: https://explorer.novanetwork.io/?network=Ethereum%20Classic
+  verifiedContract: -
+  openSource: https://github.com/nova-network-inc/nova-explorer
+  audit: -
+  teamSite: https://novanetwork.io/
+  description: A non-indexed block explorer for Ethereum Classic and other EVM networks.
+  type: explorer
+  links:
+    - name: Launch App
+      link: https://explorer.novanetwork.io/?network=Ethereum%20Classic
+      icon: link
+    - name: Website
+      link: https://novanetwork.io/
+      icon: home
+    - name: Documentation
+      link: https://docs.novanetwork.io/
+      icon: book
+    - name: Github
+      link: https://github.com/nova-network-inc/nova-explorer
+      icon: github
+    - name: Twitter
+      link: https://twitter.com/NovaFinOfficial
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/NovaChannelOfficial
+      icon: telegram
+    - name: Medium
+      link: https://medium.com/@NovaNetwork
+      icon: medium
+
 - title: Multichain
   date: 2022-05-23
   image: ./images/multichain.png
