@@ -11,6 +11,7 @@ contributors:
   - ProphetDaniel
   - pyskell
   - TheEnthusiasticAs
+  - PauloBaronceli
 seo: A list of blockchain explorer services for Ethereum Classic and the various ETC testnets.
 description: |
   Blockchain Explorers provide a convenient way to get insights into the current and past state of a given chain, allowing you to inspect the contents of blocks, transactions and account balances. 
@@ -47,3 +48,6 @@ items:
       Tokenview:
         name: Tokenview
         __etc: https://etc.tokenview.com/
+      NovaExplorer:
+        name: Nova Explorer
+        __etc: https://explorer.novanetwork.io/?network=Ethereum%20Classic
