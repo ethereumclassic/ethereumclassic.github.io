@@ -13,6 +13,8 @@ Magic happens when people come together and share ideas, and participants throug
 
 ## Community Calls
 
+**Update: The Weekly Community Call is temporarily suspended until Q4 2022**
+
 Every Thursday, usually at UTC 1500, a group voice chat takes place in the Ethereum Classic [Discord](https://ethereumclassic.org/discord) server. Occasionally a special guest will join the chat for Questions and Answers with the community. These calls are usually recorded, and you can find these recordings on the ETC Community Calls [repository](https://github.com/ethereumclassic/community-calls).
 
 Everybody, regardless of level of involvement in ETC, is welcome to join this chat and there is usually time available to open the floor to questions if you'd like to bring something up.
