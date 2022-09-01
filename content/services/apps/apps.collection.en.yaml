@@ -42,28 +42,31 @@
 #       icon: medium
 #
 ### END APP TEMPLATE
-#    
-- title: ClassicDAO
-  date: 2022-08-12
-  image: ./images/IMG_5280.png
-  author: StableGaralo
-  authorLink: https://classicdao.io/
-  teamSite: https://classicdao.io/
-  verifiedContract: https://blockscout.com/etc/mainnet/address/0xfc84c3Dc9898E186aD4b85734100e951E3bcb68c/contracts
-  description: ClassicDAO is the first DAO on Ethereum Classic in over 7 years. ClassicDAO has many ambitions of improving the Ethereum Classic Blockchain one of many plans is to have the first Staking on ETC ever. On top of that ClassicDAO will also support new projects and assist them with funding so they can build on ETC. CLD also plans to building public infrastructure such as Mining facility's that will be owned by the DAO.
-  type: other
+#
+- title: Nova USD Stablecoin
+  date: 2022-09-01
+  image: ./images/nusd.png
+  author: Nova Network
+  authorLink: https://novanetwork.io/
+  teamSite: https://novanetwork.io/about
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0xab1E9D7551c1B161cedf96AeaC66b95bc5cCd7d4
+  description: Nova USD is a fully-backed decentralized stablecoin that can be minted and redeemed on-chain. The contract is not ownable and the reserves can be audited 24/7 via its smart-contract. You can mint and redeem NUSD using Fusion.
+  type: finance
   links:
-    - name: Website
-      link: https://classicdao.io/
+    - name: Launch App
+      link: https://fusion.novanetwork.io/
       icon: home
     - name: Github
-      link: https://github.com/Soteria-Smart-Contracts/ClassicDAO
+      link: https://github.com/nova-network-inc
       icon: github
     - name: Twitter
-      link: https://twitter.com/ClassicDao
+      link: https://twitter.com/novafinofficial
       icon: twitter
+    - name: Discord
+      link: https://discord.gg/GfWCGB3
+      icon: discord
     - name: Telegram
-      link: https://t.me/ETCClassicDAO
+      link: https://t.me/thenovanetwork
       icon: telegram
 - title: Fusion
   date: 2022-09-01
@@ -89,6 +92,28 @@
       icon: discord
     - name: Telegram
       link: https://t.me/thenovanetwork
+      icon: telegram
+- title: ClassicDAO
+  date: 2022-08-12
+  image: ./images/IMG_5280.png
+  author: StableGaralo
+  authorLink: https://classicdao.io/
+  teamSite: https://classicdao.io/
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0xfc84c3Dc9898E186aD4b85734100e951E3bcb68c/contracts
+  description: ClassicDAO is the first DAO on Ethereum Classic in over 7 years. ClassicDAO has many ambitions of improving the Ethereum Classic Blockchain one of many plans is to have the first Staking on ETC ever. On top of that ClassicDAO will also support new projects and assist them with funding so they can build on ETC. CLD also plans to building public infrastructure such as Mining facility's that will be owned by the DAO.
+  type: other
+  links:
+    - name: Website
+      link: https://classicdao.io/
+      icon: home
+    - name: Github
+      link: https://github.com/Soteria-Smart-Contracts/ClassicDAO
+      icon: github
+    - name: Twitter
+      link: https://twitter.com/ClassicDao
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/ETCClassicDAO
       icon: telegram
 - title: Multichain
   date: 2022-05-23
