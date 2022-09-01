@@ -46,7 +46,7 @@
 
 - title: Nova USD Stablecoin
   date: 2022-09-01
-  image: https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0xab1E9D7551c1B161cedf96AeaC66b95bc5cCd7d4/logo.png
+  image: ./images/nusd.png
   author: Nova Network
   authorLink: https://novanetwork.io/
   teamSite: https://novanetwork.io/about
