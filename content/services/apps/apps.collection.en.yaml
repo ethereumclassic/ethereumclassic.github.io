@@ -43,6 +43,7 @@
 #
 ### END APP TEMPLATE
 #
+
 - title: Nova USD Stablecoin
   date: 2022-09-01
   image: ./images/nusd.png
@@ -68,6 +69,7 @@
     - name: Telegram
       link: https://t.me/thenovanetwork
       icon: telegram
+      
 - title: Fusion
   date: 2022-09-01
   image: ./images/fusion.png
@@ -93,6 +95,7 @@
     - name: Telegram
       link: https://t.me/thenovanetwork
       icon: telegram
+      
 - title: ClassicDAO
   date: 2022-08-12
   image: ./images/IMG_5280.png
