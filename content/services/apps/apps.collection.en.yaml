@@ -43,6 +43,33 @@
 #
 ### END APP TEMPLATE
 #
+
+- title: Nova USD Stablecoin
+  date: 2022-09-01
+  image: https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0xab1E9D7551c1B161cedf96AeaC66b95bc5cCd7d4/logo.png
+  author: Nova Network
+  authorLink: https://novanetwork.io/
+  teamSite: https://novanetwork.io/about
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0xab1E9D7551c1B161cedf96AeaC66b95bc5cCd7d4
+  description: Nova USD is a fully-backed decentralized stablecoin that can be minted and redeemed on-chain. The contract is not ownable and the reserves can be audited 24/7 via its smart-contract. You can mint and redeem NUSD using Fusion.
+  type: finance
+  links:
+    - name: Launch App
+      link: https://fusion.novanetwork.io/
+      icon: home
+    - name: Github
+      link: https://github.com/nova-network-inc
+      icon: github
+    - name: Twitter
+      link: https://twitter.com/novafinofficial
+      icon: twitter
+    - name: Discord
+      link: https://discord.gg/GfWCGB3
+      icon: discord
+    - name: Telegram
+      link: https://t.me/thenovanetwork
+      icon: telegram
+
 - title: ClassicDAO
   date: 2022-08-12
   image: ./images/IMG_5280.png
