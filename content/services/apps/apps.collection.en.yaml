@@ -43,6 +43,33 @@
 #
 ### END APP TEMPLATE
 #
+
+- title: Fusion
+  date: 2022-00-01
+  image: https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/_native/SNT/logo.png
+  author: Nova Network
+  authorLink: https://novanetwork.io/
+  teamSite: https://novanetwork.io/about
+  verifiedContract: https://docs.novanetwork.io/resources/official-addresses
+  description: Fusion is the most advanced DeFi protocol in the crypto space. It hosts an array of yield generating protocols, has compatibility with next generation fNFTs, AMM, multi transfer, and other exclusive tools. All these comes with multichain interoperability for easy integration.
+  type: finance
+  links:
+    - name: Launch App
+      link: https://fusion.novanetwork.io/
+      icon: home
+    - name: Github
+      link: https://github.com/nova-network-inc
+      icon: github
+    - name: Twitter
+      link: https://twitter.com/novafinofficial
+      icon: twitter
+    - name: Discord
+      link: https://discord.gg/GfWCGB3
+      icon: discord
+    - name: Telegram
+      link: https://t.me/thenovanetwork
+      icon: telegram
+    
 - title: ClassicDAO
   date: 2022-08-12
   image: ./images/IMG_5280.png
