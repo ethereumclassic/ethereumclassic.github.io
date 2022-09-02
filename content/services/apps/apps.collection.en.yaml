@@ -50,7 +50,9 @@
   author: Nova Network
   authorLink: https://novanetwork.io/
   teamSite: https://novanetwork.io/about
-  verifiedContract: https://docs.novanetwork.io/resources/official-addresses
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0xab1E9D7551c1B161cedf96AeaC66b95bc5cCd7d4/contracts
+  openSource: https://blockscout.com/etc/mainnet/address/0xab1E9D7551c1B161cedf96AeaC66b95bc5cCd7d4/contracts
+  testSuite: https://fusion.novanetwork.io/#/nusd-etc
   description: Fusion is the most advanced DeFi protocol in the crypto space. It hosts an array of yield generating protocols, has compatibility with next generation fNFTs, AMM, multi transfer, and other exclusive tools. All these comes with multichain interoperability for easy integration.
   type: finance
   links:
