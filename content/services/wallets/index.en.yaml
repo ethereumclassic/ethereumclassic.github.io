@@ -45,6 +45,9 @@ items:
       Brave:
         __link: https://brave.com/
         name: Brave
+      MathWallet:
+        __link: https://mathwallet.org/
+        name: MathWallet
       MetaMask:
         __link: https://metamask.io/
         name: MetaMask
@@ -172,6 +175,9 @@ items:
       Mantis Wallet:
         __link: https://mantisclient.io/#wallet
         name: Mantis Wallet
+      MathWallet:
+        __link: https://mathwallet.org/
+        name: MathWallet
       Midas Protocol:
         __link: https://midasprotocol.io/
         name: Midas Protocol
