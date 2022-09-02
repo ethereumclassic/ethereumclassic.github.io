@@ -654,8 +654,8 @@ items:
   etcdao:
     title: Ethereum Classic DAO
     date: 2022-04-11
-    color: green
-    icon: handHoldingUsd
+    color: white
+    icon: userNinja
     link: https://ethereumclassic.com/roadmap
     text: Stable and long-term funding proves to be a problem for Ethereum Classic with abandonment by the Ethereum Foundation in 2016. In an effort to solve the network's LTS funding issue, Ethereum Classic DAO is formed with a mission to future proof the network's development via an open source development fund. Funding is generated with use of an ETC DeFi stack hosted at EthereumClassic.com
   era4:
@@ -680,6 +680,13 @@ items:
     icon: rocket
     link: https://etcswap.org
     text: Ethereum Classic DAO launches its first product- ETCswap. This ensures the network is one step closer to stable funding for open source development on Ethereum Classic. A professional decentralized protocol stack will be deployed on Ethereum Classic.
+  vitalikEndorsesETC:
+    title: Vitalik Buterin Endorses Ethereum Classic
+    date: 2022-07-22
+    color: purple
+    icon: bullhorn
+    link: /blog/2022-07-22-vitalik-buterin-endorses-ethereum-classic
+    text: Vitalik Buterin, Ethereum's most prominent co-founder, gives an endorsement of the original Ethereum network-- Ethereum Classic for those who value Proof-of-Work chains.
   antpoolETCDAOTreasuryFund:
     title: Antpool
     date: 2022-07-26
@@ -687,6 +694,13 @@ items:
     icon: userTie
     link: https://etcdao.co/
     text: AntPool supports Ethereum Classic ecosystem with $10M Investment. Antpool seeds a treasury fund with a goal of supporting the professional development ecosystem on Ethereum Classic.
+  hashrateSurges:
+    title: ETC Hashrate Surges
+    date: 2022-08-31
+    color: green
+    icon: cubes
+    link: https://coinjournal.net/news/ethereum-classic-etc-hashrate-surges-ahead-of-ethereum-merge/
+    text: As the upcoming Ethereum merge continues to cause excitement within the crypto space, Ethereum Classic (ETC), a sister of Ethereum, has seen an 83% increase in hashrate since June, 2022.
   ethMerge:
     title: ETH's Move to Proof of Stake
     dateText: The Merge
