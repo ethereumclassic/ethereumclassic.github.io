@@ -1,6 +1,6 @@
 ---
 title: "Public Request to IOHK: Please Return Ethereum Classic's Twitter Account"
-date: 2022-09-05
+date: 2022-09-06
 author: EthClassicDAO
 contributors: ["gitr0n1n"]
 tags: ["announcement"]
