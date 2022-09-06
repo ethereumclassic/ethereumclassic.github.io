@@ -1,7 +1,7 @@
 ---
 title: "Public Request to IOHK: Please Return Ethereum Classic's Twitter Handle"
 date: 2022-09-05
-author: r0n1n
+author: EthClassicDAO
 contributors: ["gitr0n1n"]
 tags: ["announcement"]
 ---
