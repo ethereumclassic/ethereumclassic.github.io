@@ -1,12 +1,12 @@
 ---
-title: "Public Request to IOHK: Please Return Ethereum Classic's Twitter Handle"
+title: "Public Request to IOHK: Please Return Ethereum Classic's Twitter Account"
 date: 2022-09-05
 author: EthClassicDAO
 contributors: ["gitr0n1n"]
 tags: ["announcement"]
 ---
 
-# Public Request to IOHK: Please Return Ethereum Classic's Twitter Handle
+# Public Request to IOHK: Please Return Ethereum Classic's Twitter Account
 
 ![Charles Hoskinson spreading Misinformation about Ethereum Classic](./charles_tweet1.png)
 [https://twitter.com/IOHK_Charles/status/1566899375904890888](https://twitter.com/IOHK_Charles/status/1566899375904890888)
