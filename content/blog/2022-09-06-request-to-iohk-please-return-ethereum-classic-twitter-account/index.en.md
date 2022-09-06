@@ -1,17 +1,19 @@
 ---
-title: "Public Request to IOHK: Please Return Ethereum Classic's Twitter Account"
+title: "Public Request to IOHK- Please Return Ethereum Classic's Twitter Account"
 date: 2022-09-06
 author: EthClassicDAO
 contributors: ["gitr0n1n"]
 tags: ["announcement"]
 ---
 
-# Public Request to IOHK: Please Return Ethereum Classic's Twitter Account
+# Public Request to IOHK
 
-![Charles Hoskinson spreading Misinformation about Ethereum Classic](./charles_tweet1.png)
+## Please Return Ethereum Classic's Twitter Account
+
+![Misinformation by Charles Hoskinson related to Ethereum Classic](./charles_tweet1.png)
 [https://twitter.com/IOHK_Charles/status/1566899375904890888](https://twitter.com/IOHK_Charles/status/1566899375904890888)
 
-## Decentralized Solution
+## Solution: Decentralized Control of Twitter Account
 
 This is a public request to [Charles Hoskinson](https://twitter.com/IOHK_Charles) and [IOHK](https://iohk.io/) to voluntarily return the [@eth_classic](https://twitter.com/eth_classic) twitter account to the Ethereum Classic community. We would like to manage Ethereum Classic's main twitter account out of the project's open-source repository using Github's Pull Request/Approval method. We currently use this method for managing the project's website [ethereumclassic.org](https://ethereumclassic.org) and it seems to serve the project well. In an effort to be proactive in resolving this issue, the Ethereum Classic community has setup a Twitter, Together! repository to manage the Ethereum Classic project's twitter account at [https://github.com/ethereumclassic/twitter-together](https://github.com/ethereumclassic/twitter-together).
 
@@ -24,6 +26,6 @@ This public request to turn over the Ethereum Classic social asset to the commun
 
 ## Twitter Support
 
-In the unlikely event that [Charles Hoskinson](https://twitter.com/IOHK_Charles) and [IOHK](https://iohk.io/) decide to withhold the Ethereum Classic project's twitter account from the community due to the [rejection of their ECIP-1098 Treasury proposal](https://ecips.ethereumclassic.org/ECIPs/ecip-1098) and [lack of belief in the project](https://twitter.com/IOHK_Charles/status/1566899375904890888), we ask that Twitter Support exercise their professional judgement on this issue. Please return the [@eth_classic](https://twitter.com/eth_classic) twitter account to the Ethereum Classic community. This action would be similar to the handling of the [@Bitcoin](https://twitter.com/bitcoin) twitter account during the BTC/BCH hardfork in 2017-2018, in which this [@Bitcoin](https://twitter.com/bitcoin) account was returned to good stewards in the BTC community.
+In the likely event that [Charles Hoskinson](https://twitter.com/IOHK_Charles) and [IOHK](https://iohk.io/) decide to withhold the Ethereum Classic project's twitter account from the community due to the [rejection of their ECIP-1098 Treasury proposal](https://ecips.ethereumclassic.org/ECIPs/ecip-1098) and [lack of belief in the project](https://twitter.com/IOHK_Charles/status/1566899375904890888), we ask that [Twitter Support](https://twitter.com/TwitterSupport) exercise their professional judgement on this issue. Please return the [@eth_classic](https://twitter.com/eth_classic) twitter account to the Ethereum Classic community. This action would be similar to the handling of the [@Bitcoin](https://twitter.com/bitcoin) twitter account during the BTC/BCH hardfork in 2017-2018, in which the [@Bitcoin](https://twitter.com/bitcoin) account was returned to good stewards in the BTC community.
 
 Thank you.
