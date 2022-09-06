@@ -19,7 +19,7 @@ This is a public request to [Charles Hoskinson](https://twitter.com/IOHK_Charles
 
 This public request to turn over the Ethereum Classic social asset to the community comes after many private requests to IOHK employees and directly to Charles Hoskinson. Due to your lack of belief in the project, we ask you to please kindly transfer the account to good stewards of the network. Ethereum Classic is an open project and we hope your faith in the project will be restored when you see all the progress that is currently happening on the network. Thank you for your past positive contributions. In advance, thank you for honoring the spirit of open-source projects by acting in good faith and returning the project's social assets to the community supporting the project.
 
-![Ethereum Classic DAO publicly requests IOHK return the project's twitter acount to the community](./charles_tweet2.png)
+![Ethereum Classic DAO publicly requests IOHK return the project's twitter account to the ETC community](./charles_tweet2.png)
 [https://twitter.com/EthClassicDAO/status/1566909585163632640](https://twitter.com/EthClassicDAO/status/1566909585163632640)
 
 ## Twitter Support
