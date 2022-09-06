@@ -4,6 +4,7 @@ date: 2022-09-06
 author: EthClassicDAO
 contributors: ["gitr0n1n"]
 tags: ["announcement"]
+disclaimer: opinion
 ---
 
 # Public Request to IOHK
