@@ -53,7 +53,7 @@ Recent growth is partly thanks to a growing army of Ethereum Classic content cre
 
 Ethereum™ mainnet chain, although experiencing some minor delays, is looking increasingly close to completing a migration away from Proof of Work to Proof of Stake, known as _The Merge_. For Ethereum Classic this will be an extremely relevant event, as it seems likely newly evicted GPU miners will be looking towards other chains to mine, and Ethereum Classic is an obvious choice.
 
-The migration of miners from ETC to ETH will likely bring a new wave of interest to the Ethereum Classic ecosystem, increase the security of the network, and accelerate adoption and network value.
+The migration of miners from ETH to ETC will likely bring a new wave of interest to the Ethereum Classic ecosystem, increase the security of the network, and accelerate adoption and network value.
 
 Additionally, if there are any short term problems during or after "The Merge", perhaps due to unforeseen game theory problems or protocol exploits due to additional complexity, Ethereum Classic will be ready and waiting to provide a fallback chain that remains on the tried and true Ethereum protocol of today. In the long term, the move to Proof of Stake will likely result in further centralization of Ethereum™ mainnet, which makes it vulnerable to other kinds of social attacks, which again, ETC will remain immune to.
 
