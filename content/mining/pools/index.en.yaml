@@ -140,6 +140,9 @@ items:
       K1Pool:
         name: K1Pool
         __link: https://k1pool.com/
+      KryptexPool:
+        name: KryptexPool
+        __link: https://kryptex.network/en/etc
       MaxHash:
         name: MaxHash
         __link: https://etcpool.maxhash.org/
