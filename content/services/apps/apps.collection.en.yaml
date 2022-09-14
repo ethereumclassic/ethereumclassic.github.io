@@ -44,6 +44,33 @@
 ### END APP TEMPLATE
 #
 
+- title: SoyFinance
+  date: 2022-09-12
+  image: ./images/soyfinance.png
+  author: Soy Finance
+  authorlink: https://soy.finance/
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x8c5Bba04B2f5CCCe0f8F951D2DE9616BE190070D/contracts#address-tabs
+  openSource: https://blockscout.com/etc/mainnet/address/0x8c5Bba04B2f5CCCe0f8F951D2DE9616BE190070D/contracts#address-tabs
+  audit: https://soy-finance.gitbook.io/soy-finance/soy-products/safety-on-yields/soy-finance-security-audit
+  teamSite: https://soy-finance.gitbook.io/soy-finance/miscellaneous/callisto-enterprise-team
+  description: Soy Finance is a decentralized finance platform built with the highest security standards.
+  type: finance
+  links:
+    - name: Website
+      link: https://soy.finance/
+      icon: home
+    - name: Documentation
+      link: https://soy-finance.gitbook.io/soy-finance/
+      icon: book
+    - name: Github
+      link: https://github.com/SoyFinance/
+      icon: github
+    - name: Twitter
+      link: https://twitter.com/Soy_Finance
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/Soy_Finance
+      icon: telegram
 - title: Fusion
   date: 2022-09-01
   image: ./images/fusion.png
