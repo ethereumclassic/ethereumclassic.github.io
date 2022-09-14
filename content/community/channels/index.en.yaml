@@ -30,6 +30,10 @@ items:
         __link: https://ethereumclassic.org/discord
         __icon: discord
         name: Discord (Global)
+      chat Discord:
+        __link: https://discord.gg/5wDyd6u6pU
+        __icon: discord
+        name: Discord (Cooperative)
       chat Facebook English:
         __link: https://www.facebook.com/groups/ethereum.hongkong/
         __icon: facebook
