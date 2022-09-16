@@ -44,6 +44,27 @@
 ### END APP TEMPLATE
 #
 
+- title: Matrixport
+  date: 2022-08-29
+  image: ./images/matrixport.png
+  author: Matrixport
+  authorLink: https://www.matrixport.com
+  teamSite: https://www.matrixport.com/about
+  description: Matrixport is one of the world's largest and most trusted digital assets financial services ecosystem.
+  type: other
+  links:
+    - name: Website
+      link: https://www.matrixport.com
+      icon: home 
+    - name: Twitter
+      link: https://twitter.com/realMatrixport
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/matrixport
+      icon: telegram
+    - name: Medium
+      link: https://matrixport.medium.com
+      icon: medium    
 - title: SoyFinance
   date: 2022-09-12
   image: ./images/soyfinance.png
