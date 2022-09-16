@@ -35,8 +35,8 @@ items:
         name: Support
     items:
       CoreGeth:
-        __link: https://github.com/etclabscore/core-geth
-        __guide: https://etclabscore.github.io/core-geth/
+        __link: https://etclabscore.github.io/core-geth
+        __guide: https://etclabscore.github.io/core-geth/getting-started/installation/
         __release: https://github.com/etclabscore/core-geth/releases
         __support: https://discord.gg/xQY3MTUTYd
         __supportIcon: fab fa-discord
