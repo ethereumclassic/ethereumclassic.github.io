@@ -34,22 +34,22 @@ items:
         __iconRef: supportIcon
         name: Support
     items:
-      Core-Geth:
-        __link: https://core-geth.org/
-        __guide: https://core-geth.org/install
+      CoreGeth:
+        __link: https://github.com/etclabscore/core-geth
+        __guide: https://etclabscore.github.io/core-geth/
         __release: https://github.com/etclabscore/core-geth/releases
-        __support: https://gitter.im/core-geth/community
-        __supportIcon: fab fa-gitter
-        name: Core-Geth
-        description: Core-Geth is a distribution of go-ethereum with many flavors. This client is Long Term Supported by the ETC Core development team, and is a recommended client from a well-known transparent team.
+        __support: https://discord.gg/xQY3MTUTYd
+        __supportIcon: fab fa-discord
+        name: CoreGeth
+        description: A highly configurable Go implementation of the Ethereum protocol. This client is Long Term Supported by the ETC Cooperative development team. This is a recommended client from a well-known transparent team.
       Hyperledger Besu:
         __link: https://besu.hyperledger.org/
         __guide: https://besu.hyperledger.org/en/stable/HowTo/Get-Started/Install-Binaries/
         __release: https://github.com/hyperledger/besu/releases
-        __support: https://chat.hyperledger.org/
-        __supportIcon: fab fa-rocketchat
+        __support: https://discord.gg/xQY3MTUTYd
+        __supportIcon: fab fa-discord
         name: Hyperledger Besu
-        description: Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. This client is Long Term Supported by the ChainSafe and ETC Cooperative teams as part of the Hyperledger project with stable funding from Grayscale's Ethereum Classic Trust. This is a recommended client from a well-known transparent team.
+        description: An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client. This client is Long Term Supported by the ETC Cooperative teams. This is a recommended client from a well-known transparent team.
       # Mantis:
       #   __link: https://mantisclient.io/
       #   __guide: https://docs.mantisclient.io/first-steps/getting-started
