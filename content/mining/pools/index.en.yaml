@@ -100,7 +100,7 @@ items:
       ETC Pool US:
         name: ETCPool.us
         __link: https://etcpool.us/
-         __primary: true
+        __primary: true
       Ethermine:
         name: Ethermine
         __link: https://etc.ethermine.org/
