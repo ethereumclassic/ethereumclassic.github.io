@@ -43,7 +43,31 @@
 #
 ### END APP TEMPLATE
 #
-
+- title: MVRSWood - Become Metaverse Degen Royalty
+  date: 2022-09-21
+  type: nfts
+  image: ./images/mvrswood.jpg
+  author: MetRLabs Pte Ltd, Singapore
+  authorLink: https://metrlabs.com/
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0xf577A14A90E837Da2B60042D616Ac95278e05eCD/contracts
+  openSource: https://blockscout.com/etc/mainnet/address/0xf577A14A90E837Da2B60042D616Ac95278e05eCD/contracts
+  teamSite: https://mvrswood.com/#team
+  description: MVRSWood is a fully built out Metaverse where you can own a property and play the game today
+  links:
+    - name: Launch App
+      link: https://mvrswood.com/index.php/download/
+    - name: Website
+      link: https://mvrswood.com
+      icon: home
+    - name: Documentation
+      link: https://medium.com/@greb_rekcuz/mvrswood-metaverse-1st-nft-2nd-e8c450b8b27f
+      icon: book
+    - name: Twitter
+      link: https://twitter.com/mvrswood
+      icon: twitter
+    - name: Medium
+      link: https://medium.com/@greb_rekcuz
+      icon: medium
 - title: Matrixport
   date: 2022-09-19
   image: ./images/matrixport.png
