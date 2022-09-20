@@ -12,11 +12,11 @@ import AddNetwork from '../../../src/components/addNetwork.js'
 
 
 **⚠️ Update**  
-You can now easily add ETC to MetaMask in one-click by pressing the button below:
+You can now easily add ETC to MetaMask by clicking "Connect Wallet" via ChainLink:
 
 <AddNetwork />
 
-You can find the button at the bottom of every page on this website.
+You can find this link at the bottom of every page on this website.
 
 ---
 
