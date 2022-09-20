@@ -1,6 +1,6 @@
 ---
 title: Classic History
-updated: 2022-02-22
+updated: 2022-09-02
 contribute: true
 seo: A historical timeline covering all the major events, the ups and downs, that lead to the current state of affairs in the wonderful world of Ethereum Classic.
 ---

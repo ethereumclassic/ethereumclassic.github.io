@@ -43,6 +43,109 @@
 #
 ### END APP TEMPLATE
 #
+
+- title: Matrixport
+  date: 2022-09-19
+  image: ./images/matrixport.png
+  author: Matrixport
+  authorLink: https://www.matrixport.com
+  teamSite: https://www.matrixport.com/about
+  description: Matrixport is one of the world's largest and most trusted digital assets financial services ecosystem.
+  type: other
+  links:
+    - name: Website
+      link: https://www.matrixport.com
+      icon: home 
+    - name: Twitter
+      link: https://twitter.com/realMatrixport
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/matrixport
+      icon: telegram
+    - name: Medium
+      link: https://matrixport.medium.com
+      icon: medium    
+- title: SoyFinance
+  date: 2022-09-12
+  image: ./images/soyfinance.png
+  author: Soy Finance
+  authorlink: https://soy.finance/
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x8c5Bba04B2f5CCCe0f8F951D2DE9616BE190070D/contracts#address-tabs
+  openSource: https://blockscout.com/etc/mainnet/address/0x8c5Bba04B2f5CCCe0f8F951D2DE9616BE190070D/contracts#address-tabs
+  audit: https://soy-finance.gitbook.io/soy-finance/soy-products/safety-on-yields/soy-finance-security-audit
+  teamSite: https://soy-finance.gitbook.io/soy-finance/miscellaneous/callisto-enterprise-team
+  description: Soy Finance is a decentralized finance platform built with the highest security standards.
+  type: finance
+  links:
+    - name: Website
+      link: https://soy.finance/
+      icon: home
+    - name: Documentation
+      link: https://soy-finance.gitbook.io/soy-finance/
+      icon: book
+    - name: Github
+      link: https://github.com/SoyFinance/
+      icon: github
+    - name: Twitter
+      link: https://twitter.com/Soy_Finance
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/Soy_Finance
+      icon: telegram
+- title: Fusion
+  date: 2022-09-01
+  image: ./images/fusion.png
+  author: Nova Network
+  authorLink: https://novanetwork.io/
+  teamSite: https://novanetwork.io/about
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0xab1E9D7551c1B161cedf96AeaC66b95bc5cCd7d4/contracts
+  openSource: https://blockscout.com/etc/mainnet/address/0xab1E9D7551c1B161cedf96AeaC66b95bc5cCd7d4/contracts
+  testSuite: https://fusion.novanetwork.io/#/nusd-etc
+  description: Fusion is the most advanced DeFi protocol in the crypto space. It hosts an array of yield generating protocols, has compatibility with next generation fNFTs, AMM, multi transfer, and other exclusive tools. All these comes with multichain interoperability for easy integration.
+  type: finance
+  links:
+    - name: Launch App
+      link: https://fusion.novanetwork.io/
+      icon: home
+    - name: Github
+      link: https://github.com/nova-network-inc
+      icon: github
+    - name: Twitter
+      link: https://twitter.com/novafinofficial
+      icon: twitter
+    - name: Discord
+      link: https://discord.gg/GfWCGB3
+      icon: discord
+    - name: Telegram
+      link: https://t.me/thenovanetwork
+      icon: telegram
+
+- title: Nova USD Stablecoin
+  date: 2022-09-01
+  image: ./images/nusd.png
+  author: Nova Network
+  authorLink: https://novanetwork.io/
+  teamSite: https://novanetwork.io/about
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0xab1E9D7551c1B161cedf96AeaC66b95bc5cCd7d4
+  description: Nova USD is a fully-backed decentralized stablecoin that can be minted and redeemed on-chain. The contract is not ownable and the reserves can be audited 24/7 via its smart-contract. You can mint and redeem NUSD using Fusion.
+  type: finance
+  links:
+    - name: Launch App
+      link: https://fusion.novanetwork.io/
+      icon: home
+    - name: Github
+      link: https://github.com/nova-network-inc
+      icon: github
+    - name: Twitter
+      link: https://twitter.com/novafinofficial
+      icon: twitter
+    - name: Discord
+      link: https://discord.gg/GfWCGB3
+      icon: discord
+    - name: Telegram
+      link: https://t.me/thenovanetwork
+      icon: telegram
+
 - title: ClassicDAO
   date: 2022-08-12
   image: ./images/IMG_5280.png

@@ -16,6 +16,7 @@ contributors:
   - ProphetDaniel
   - pyskell
   - TheEnthusiasticAs
+  - ericfish
 title: Wallets
 seo: A source of web wallets, extensions, software wallets, hardware wallets, and other ways to secure ETC.
 description: There are many options of wallets to choose from to secure and use ETC. Each option gives a different balance between security and convenience. Please research the best option depending on your requirements.
@@ -45,6 +46,9 @@ items:
       Brave:
         __link: https://brave.com/
         name: Brave
+      MathWallet:
+        __link: https://mathwallet.org/
+        name: MathWallet
       MetaMask:
         __link: https://metamask.io/
         name: MetaMask
@@ -172,6 +176,9 @@ items:
       Mantis Wallet:
         __link: https://mantisclient.io/#wallet
         name: Mantis Wallet
+      MathWallet:
+        __link: https://mathwallet.org/
+        name: MathWallet
       Midas Protocol:
         __link: https://midasprotocol.io/
         name: Midas Protocol
