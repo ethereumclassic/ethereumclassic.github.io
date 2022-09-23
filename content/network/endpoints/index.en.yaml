@@ -48,25 +48,25 @@ items:
         __link: https://www.ethercluster.com
         name: Ethercluster (Goerli)
       ETC-Network.info BESU:
-        __rpcUrl: https://www.besu.etc-network.info
+        __rpcUrl: https://besu.etc-network.info
         __link: https://www.etc-network.info
         name: TC-Network.info BESU
       ETC-Network.info GETH:
-        __rpcUrl: https://www.geth.etc-network.info
+        __rpcUrl: https://geth.etc-network.info
         __link: https://www.etc-network.info
-        name: TC-Network.info GETH
+        name: ETC-Network.info GETH
       ETC-Network.info GETH (Goerli):
-        __rpcUrl: https://www.geth-goerli.etc-network.info
+        __rpcUrl: https://geth-goerli.etc-network.info
         __link: https://www.etc-network.info
-        name: TC-Network.info GETH (Goerli)
+        name: ETC-Network.info GETH (Goerli)
       ETC-Network.info GETH (Kotti):
-        __rpcUrl: https://www.geth-kotti.etc-network.info
+        __rpcUrl: https://geth-kotti.etc-network.info
         __link: https://www.etc-network.info
-        name: TC-Network.info GETH (Kotti)
+        name: ETC-Network.info GETH (Kotti)
       ETC-Network.info GETH (Mordor):
-        __rpcUrl: https://www.geth-mordor.etc-network.info
+        __rpcUrl: https://geth-mordor.etc-network.info
         __link: https://www.etc-network.info
-        name: TC-Network.info GETH (Mordor)
+        name: ETC-Network.info GETH (Mordor)
       BlockScout API:
         __link: https://blockscout.com/etc/mainnet/api-docs
         name: BlockScout API
