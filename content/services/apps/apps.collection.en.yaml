@@ -43,6 +43,22 @@
 ### END APP TEMPLATE
 #
 
+- title: ClassicHeroes
+  date: 2022-09-22
+  type: nfts
+  image: ./images/classicheroes.png
+  author: MoonLama
+  authorLink: https://moonlama.com
+  description: Classic Heroes is an aggregate of original NFT collections developed on the Ethereum Classic Blockchain by MoonLama.
+  links:
+    - name: Launch App
+      link: https://classicheroes.art/
+    - name: Twitter
+      link: https://twitter.com/MoonLamaNFT
+      icon: twitter
+    - name: Discord
+      link: https://discord.gg/kV37UnTcyA
+      icon: discord
 - title: Matrixport
   date: 2022-09-19
   image: ./images/matrixport.png
@@ -53,7 +69,7 @@
   links:
     - name: Website
       link: https://www.matrixport.com
-      icon: home 
+      icon: home
     - name: Twitter
       link: https://twitter.com/realMatrixport
       icon: twitter
@@ -62,7 +78,7 @@
       icon: telegram
     - name: Medium
       link: https://matrixport.medium.com
-      icon: medium    
+      icon: medium
 - title: SoyFinance
   date: 2022-09-12
   image: ./images/soyfinance.png
