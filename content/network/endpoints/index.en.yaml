@@ -50,7 +50,7 @@ items:
       ETC-Network.info BESU:
         __rpcUrl: https://besu.etc-network.info
         __link: https://www.etc-network.info
-        name: TC-Network.info BESU
+        name: ETC-Network.info BESU
       ETC-Network.info GETH:
         __rpcUrl: https://geth.etc-network.info
         __link: https://www.etc-network.info
