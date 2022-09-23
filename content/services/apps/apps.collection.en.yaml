@@ -11,7 +11,6 @@
 #   authorLink: https://author-website.com/
 #   verifiedContract: https://blockscout.com/etc/mainnet/address/0x0000000000000000000000000000000000000000/contracts
 #   openSource: https://blockscout.com/etc/mainnet/address/0x0000000000000000000000000000000000000000/contracts
-#   teamSite: https://example.com
 #   audit: https://example.com
 #   testSuite: https://example.com
 #   ipfsFrontend: https://example.com
@@ -73,7 +72,6 @@
   image: ./images/matrixport.png
   author: Matrixport
   authorLink: https://www.matrixport.com
-  teamSite: https://www.matrixport.com/about
   description: Matrixport is one of the world's largest and most trusted digital assets financial services ecosystem.
   type: other
   links:
@@ -93,11 +91,10 @@
   date: 2022-09-12
   image: ./images/soyfinance.png
   author: Soy Finance
-  authorlink: https://soy.finance/
+  authorLink: https://soy.finance/
   verifiedContract: https://blockscout.com/etc/mainnet/address/0x8c5Bba04B2f5CCCe0f8F951D2DE9616BE190070D/contracts#address-tabs
   openSource: https://blockscout.com/etc/mainnet/address/0x8c5Bba04B2f5CCCe0f8F951D2DE9616BE190070D/contracts#address-tabs
   audit: https://soy-finance.gitbook.io/soy-finance/soy-products/safety-on-yields/soy-finance-security-audit
-  teamSite: https://soy-finance.gitbook.io/soy-finance/miscellaneous/callisto-enterprise-team
   description: Soy Finance is a decentralized finance platform built with the highest security standards.
   type: finance
   links:
@@ -121,7 +118,6 @@
   image: ./images/fusion.png
   author: Nova Network
   authorLink: https://novanetwork.io/
-  teamSite: https://novanetwork.io/about
   verifiedContract: https://blockscout.com/etc/mainnet/address/0xab1E9D7551c1B161cedf96AeaC66b95bc5cCd7d4/contracts
   openSource: https://blockscout.com/etc/mainnet/address/0xab1E9D7551c1B161cedf96AeaC66b95bc5cCd7d4/contracts
   testSuite: https://fusion.novanetwork.io/#/nusd-etc
@@ -149,7 +145,6 @@
   image: ./images/nusd.png
   author: Nova Network
   authorLink: https://novanetwork.io/
-  teamSite: https://novanetwork.io/about
   verifiedContract: https://blockscout.com/etc/mainnet/address/0xab1E9D7551c1B161cedf96AeaC66b95bc5cCd7d4
   description: Nova USD is a fully-backed decentralized stablecoin that can be minted and redeemed on-chain. The contract is not ownable and the reserves can be audited 24/7 via its smart-contract. You can mint and redeem NUSD using Fusion.
   type: finance
@@ -173,11 +168,10 @@
 - title: ClassicDAO
   date: 2022-08-12
   image: ./images/IMG_5280.png
-  author: StableGaralo
+  author: ClassicDAO
   authorLink: https://classicdao.io/
-  teamSite: https://classicdao.io/
   verifiedContract: https://blockscout.com/etc/mainnet/address/0xfc84c3Dc9898E186aD4b85734100e951E3bcb68c/contracts
-  description: ClassicDAO is the first DAO on Ethereum Classic in over 7 years. ClassicDAO has many ambitions of improving the Ethereum Classic Blockchain one of many plans is to have the first Staking on ETC ever. On top of that ClassicDAO will also support new projects and assist them with funding so they can build on ETC. CLD also plans to building public infrastructure such as Mining facility's that will be owned by the DAO.
+  description: ClassicDAO is a DAO on Ethereum Classic. ClassicDAO has many ambitions of improving the Ethereum Classic blockchain. One of many plans is to have the first Staking on ETC ever. On top of that ClassicDAO will also support new projects and assist them with funding so they can build on ETC. CLD also plans to building public infrastructure such as Mining facility's that will be owned by the DAO.
   type: other
   links:
     - name: Website
@@ -192,6 +186,33 @@
     - name: Telegram
       link: https://t.me/ETCClassicDAO
       icon: telegram
+- title: ETCswap
+  date: 2022-06-18
+  image: ./images/etcswap.png
+  author: Ethereum Classic DAO
+  authorLink: https://ethereumclassic.com
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x79Bf07555C34e68C4Ae93642d1007D7f908d60F5/contracts
+  openSource: https://blockscout.com/etc/mainnet/address/0x79Bf07555C34e68C4Ae93642d1007D7f908d60F5/contracts
+  audit: https://github.com/etcswap/public-audits
+  ipfsFrontend: https://ipfs.io/ipfs/QmSCGpteEcfCDXcQunMyxbaAkBWB5edMFAWnzYXMCqaCKf
+  description: ETCswap is a decentralized cryptocurrency exchange where users acquire digital assets without an intermediary. ETCswap features Ethereum Classic's first on-chain stablecoin markets and is the foundation to the Ethereum Classic DeFi stack built on EthereumClassic.com.
+  type: finance
+  links:
+    - name: Launch ETCswap
+      link: https://swap.ethereumclassic.com
+      icon: link
+    - name: Landing Site
+      link: https://etcswap.org
+      icon: link
+    - name: Documentation
+      link: https://docs.etcswap.org
+      icon: book
+    - name: Github
+      link: https://github.com/etcswap
+      icon: github
+    - name: Twitter
+      link: https://twitter.com/EthClassicDAO
+      icon: twitter
 - title: Multichain
   date: 2022-05-23
   image: ./images/multichain.png
@@ -200,7 +221,6 @@
   verifiedContract: https://blockscout.com/etc/mainnet/address/0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818/contracts
   openSource: https://blockscout.com/etc/mainnet/address/0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818/contracts
   audit: https://github.com/anyswap/Anyswap-Audit
-  teamSite: https://ethereumclassicdao.org
   description: Multichain is the ultimate Router for web3. It is an infrastructure developed for arbitrary cross-chain interactions.
   type: interoperability
   links:
@@ -256,47 +276,18 @@
      - name: Discord
        link: https://discord.gg/d56axYmRTa
        icon: discord
-- title: ETCswap
-  date: 2022-05-15
-  image: ./images/etcswap.png
-  author: EthClassicDAO
-  authorLink: https://ethereumclassicdao.org
-  verifiedContract: https://blockscout.com/etc/mainnet/address/0x79Bf07555C34e68C4Ae93642d1007D7f908d60F5/contracts
-  openSource: https://blockscout.com/etc/mainnet/address/0x79Bf07555C34e68C4Ae93642d1007D7f908d60F5/contracts
-  audit: https://github.com/etcswap/public-audits
-  teamSite: https://ethereumclassicdao.org
-  ipfsFrontend: https://ipfs.io/ipfs/QmSCGpteEcfCDXcQunMyxbaAkBWB5edMFAWnzYXMCqaCKf
-  description: ETCswap is a decentralized cryptocurrency exchange where users acquire digital assets without an intermediary. Use Ethereum Classic, the original Ethereum Virtual Machine (EVM). Code is law.
-  type: finance
-  links:
-    - name: Launch ETCswap
-      link: https://swap.ethereumclassic.com
-      icon: link
-    - name: Landing Site
-      link: https://etcswap.org
-      icon: link
-    - name: Documentation
-      link: https://docs.etcswap.org
-      icon: book
-    - name: Github
-      link: https://github.com/etcswap
-      icon: github
-    - name: Twitter
-      link: https://twitter.com/EthClassicDAO
-      icon: twitter
 - title: Canonical Wrapped Ether
   date: 2022-05-06
   image: ./images/wetc.png
-  author: EthClassicDAO
-  authorLink: https://ethereumclassicdao.org
+  author: Ethereum Classic DAO
+  authorLink: https://ethereumclassic.com
   verifiedContract: https://blockscout.com/etc/mainnet/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/contracts
   openSource: https://blockscout.com/etc/mainnet/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/contracts
   audit: https://github.com/gnosis/canonical-weth
-  teamSite: https://ethereumclassicdao.org
-  description: Wrapped Ether (wETC) is a tokenized version of Ether (ETC) the native asset of the Ethereum Classic network, the original EVM launched in 2015.
+  description: Canonical Wrapped Ether (WETC) is a tokenized version of Ether (ETC), the native asset of the Ethereum Classic network. The Canonical Wrapped Ether (WETC) initiative standardizes the WETC asset through the DeFi stack on Ethereum Classic. The DeFi protocol stack on EthereumClassic.com supports this WETC contract. Please join in the effort to standardize WETC.
   type: interoperability
   links:
-    - name: Wrap ETC
+    - name: Canonical Wrapped Ether
       link: https://blockscout.com/etc/mainnet/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/read-contract
       icon: link
     - name: Website

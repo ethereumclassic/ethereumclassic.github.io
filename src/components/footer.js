@@ -9,6 +9,7 @@ import SocialIcons from "./socialIcons";
 import Sponsors from "./sponsors";
 import TwContainer from "./twContainer";
 import Md from "./markdownDynamic";
+import AddNetworkButton from "./addNetwork";
 
 export default function Footer() {
   const {
@@ -23,6 +24,9 @@ export default function Footer() {
             {/* <div>
               <LocaleDropdown />
             </div> */}
+            <div>
+              <AddNetworkButton />
+            </div>
             <div>
               <SocialIcons />
             </div>
