@@ -7,7 +7,7 @@ description: |
 
   Public Ethereum Classic RPC endpoints are also available, provided either for free to the community or as a subscription service. Because you can sign and broadcast transactions locally using a wallet such as [MetaMask](/guides/metamask), public endpoints can be used whilst maintaining custody of your private keys.
 
-  You can use these URLs to transact and deploy to ETC (or it's testnets) by updating your wallet or deployment tool configuration. Make sure you also change your Chain ID to `61` for Ethereum mainnet. 
+  You can use these URLs to transact and deploy to ETC (or it's testnets) by updating your wallet or deployment tool configuration. Make sure you also change your Chain ID to `61` for Ethereum Classic mainnet. 
 
   For more information on other networks, check out the [testnets](/development/testnets) section.
   
