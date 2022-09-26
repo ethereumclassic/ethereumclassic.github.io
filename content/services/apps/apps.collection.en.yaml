@@ -696,3 +696,19 @@
     - name: Telegram
       link: https://t.me/MonkeyDoo_NFT
       icon: telegram
+      - title: Billionaire Boys Classic
+  date: 2022-09-27
+  type: NFTS
+  image: ./images/BBC LOGO.png
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0xe36f8C511c7894C3B3173CD4d0D925790445348E
+  description: BILLIONARE BOYS CLASSIC are 999 FANCY DUDES LIVING ON THE ETHEREUM CLASSIC BLOCKCHAIN. 
+                They are cool they are diverse. SO WHO ARE YOU - APE DEVIL ALIEN or you are HUMAN being?            
+  links:
+    - name: Billionaire Boys Classic
+      link: https://bbclassic.xyz/
+    - name: Twitter
+      link: https://twitter.com/bbclassic_nfts
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/BillionaireBoysClassic
+      icon: telegram
