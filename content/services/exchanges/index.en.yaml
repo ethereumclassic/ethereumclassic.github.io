@@ -291,6 +291,9 @@ items:
       HebeSwap:
         __link: https://hebeswap.com
         name: Hebe Swap
+      Fusion:
+        __link: https://fusion.novanetwork.io/
+        name: Fusion DeFi
   Instant Exchanges:
     __type: buttons
     title: Instant Exchanges
