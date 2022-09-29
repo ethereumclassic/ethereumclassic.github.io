@@ -32,7 +32,7 @@ items:
       MyEtherWallet:
         __link: https://www.myetherwallet.com
         name: MyEtherWallet
-		__primary: true
+	__primary: true
       Portis:
         __link: https://www.portis.io/
         name: Portis
