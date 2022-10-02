@@ -711,3 +711,35 @@
     - name: Telegram
       link: https://t.me/MonkeyDoo_NFT
       icon: telegram
+- title: SHP
+   date: 2022-09-01
+   type: finance
+   image: ./images/shp.png
+   author: shpstan
+   authorLink: https://staking.ltd/
+   audit: https://docs.staking.ltd/types-of-staking/audits
+   description: Hosting platform for savings and web wallets
+   links:
+     - name: Launch Dapp
+       link: https://staking.ltd/stakes/shp
+     - name: Website
+       link: https://staking.ltd
+       icon: home
+     - name: Documentation
+       link: https://docs.staking.ltd
+       icon: book
+     - name: Github
+       link: https://github.com/stakingled?tab=repositories
+       icon: github
+     - name: Twitter
+       link: https://twitter.com/stakingltd
+       icon: twitter
+     - name: Telegram
+       link: https://t.me/stakingltd
+       icon: telegram
+     - name: Medium
+       link: https://stakingltd.medium.com/
+       icon: medium
+       
+       
+       
