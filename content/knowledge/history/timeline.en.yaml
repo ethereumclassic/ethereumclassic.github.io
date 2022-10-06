@@ -701,6 +701,13 @@ items:
     icon: cubes
     link: https://coinjournal.net/news/ethereum-classic-etc-hashrate-surges-ahead-of-ethereum-merge/
     text: As the upcoming Ethereum merge continues to cause excitement within the crypto space, Ethereum Classic (ETC), a sister of Ethereum, has seen an 83% increase in hashrate since June, 2022.
+  twitter-Account-Capture:
+    title: Twitter Account Corporate Capture
+    date: 2022-09-05
+    color: red
+    icon: faExclamationTriangle
+    link: https://twitter.com/EthClassicDAO/status/1566909585163632640
+    text: Days before the Merge, Charles Hoskinson publicly signals intent confiscate the Ethereum Classic's main twitter account. He justifies this action due to sunk costs in the undelivered Mantis client and rejection of IOHK's 2021 centralized treasury proposal (ECIP-1098).
   ethMerge:
     title: ETH's Move to Proof of Stake
     dateText: The Merge
@@ -709,6 +716,13 @@ items:
     icon: angleDoubleUp
     link: https://ethereum.org/en/upgrades/merge/
     text: The Ethereum Foundation upgrades the largest EVM network to proof-of-stake consensus. This Merge event cements Ethereum Classic as the largest Proof of Work EVM network. Ethereum Classic's network security elevates as it becomes the apex network of all Ethash derivative mining algorithms. The Phoenix rises.
+  twitter-Account-Rebranded:
+    title: Twitter Account Rebranded
+    date: 2022-10-06
+    color: red
+    icon: faExclamationTriangle
+    link: https://twitter.com/BobSummerwill/status/1578083922822713344
+    text: Fall out from the ETC community's social rejection of IOHK's centralized treasury in 2021, Charles Hoskinson transfers the Ethereum Classic's main Twitter account to a third-party open source project called Ergo. The Ergo team rebrands the account to their own project. Bob Summerwill is sent a newly registed Twitter account with the main Twitter accounts twitter handle with 0 history and 0 followers.
   aBrightFuture:
     title: A Bright Future
     dateText: The Future
