@@ -705,9 +705,9 @@ items:
     title: Twitter Account Corporate Capture
     date: 2022-09-05
     color: red
-    icon: faExclamationTriangle
+    icon: dumpsterFire
     link: https://twitter.com/EthClassicDAO/status/1566909585163632640
-    text: Days before the Merge, Charles Hoskinson publicly signals intent confiscate the Ethereum Classic's main twitter account. He justifies this action due to sunk costs in the undelivered Mantis client and rejection of IOHK's 2021 centralized treasury proposal (ECIP-1098).
+    text: Days before the Merge, Charles Hoskinson publicly signals intent to "repurpose" the Ethereum Classic's main twitter account. He justifies this action due to sunk costs in the undelivered Mantis client and rejection of IOHK's 2021 centralized treasury proposal (ECIP-1098).
   ethMerge:
     title: ETH's Move to Proof of Stake
     dateText: The Merge
@@ -720,7 +720,7 @@ items:
     title: Twitter Account Rebranded
     date: 2022-10-06
     color: red
-    icon: faExclamationTriangle
+    icon: dumpsterFire
     link: https://twitter.com/BobSummerwill/status/1578083922822713344
     text: Fall out from the ETC community's social rejection of IOHK's centralized treasury in 2021, Charles Hoskinson transfers the Ethereum Classic's main Twitter account to a third-party open source project called Ergo. The Ergo team rebrands the account to their own project. Bob Summerwill is sent a newly registed Twitter account with the main Twitter accounts twitter handle with 0 history and 0 followers.
   aBrightFuture:
