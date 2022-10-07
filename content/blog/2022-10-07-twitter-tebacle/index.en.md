@@ -6,7 +6,9 @@ contributors: ["IstoraMandiri", "BobSummerwill"]
 tags: ["announcement"]
 ---
 
-On 6th October 2022, the verified `eth_classic` Twitter account with 670,000+ followers was hijacked and renamed to `Ergo_Platform`, and is now branded under the unrelated Ergo Project. Regrettably, `eth_classic`'s 670,000+ followers have been deceptively bait-and-switched into following a project they did not intend to follow, and are no longer receiving updates from the main Ethereum Classic twitter account.
+On 6th October 2022, the verified `eth_classic` Twitter account with 670,000+ followers was hijacked and renamed to `Ergo_Platform`, and is now branded under the unrelated Ergo Project. 
+
+As a result of this action, which appears to violate Twitter's Terms of Service, `eth_classic`'s 670,000+ followers have been deceptively bait-and-switched into following a project they did not intend to follow, and are no longer receiving updates from the verified Ethereum Classic Twitter account.
 
 As of writing, the `Ergo_Platform` twitter account maintains a history of all the tweets made by `eth_classic` by and for the ETC Community since it's creation in 2016.
 
