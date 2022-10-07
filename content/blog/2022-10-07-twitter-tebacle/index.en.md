@@ -87,7 +87,7 @@ Look at the tweet-history of the @Ergo_Platform account. It's ETC's history and 
 
 As of writing the outcome is unknown. The best case scenario is that the `Ergo_Platform` is returned, renamed to `eth_classic`, and reveified under the control of ETC Coop. 
 
-We hope that Twitter Support are able to assist to rectify this action, which appears to be contravene Twitter's Terms of Service
+We hope that Twitter Support are able to assist to rectify this action, which appears to contravene Twitter's Terms of Service.
 
 https://help.twitter.com/en/rules-and-policies/platform-manipulation
 
