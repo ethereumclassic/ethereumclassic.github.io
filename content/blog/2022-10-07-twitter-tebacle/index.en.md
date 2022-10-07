@@ -25,7 +25,7 @@ https://twitter.com/ChuckSRQ/status/1572353721228742656
 > ChuckSRQ, @ChuckSRQ, Sep 20  
 > I gave up the Ethereum Classic twitter account because I did not want to devote the time and work required. If the team running it now, doesn’t believe in the project, they should give it to someone that does want to put in the work.
 
-Since it's creation, thanks to promotion of this twitter handle wihtin the community, it grew to 600k followers and gained verified status.
+Since it's creation, thanks to promotion of this twitter handle within the community, it grew to 600k followers and gained verified status.
 
 ## Recent Events
 
