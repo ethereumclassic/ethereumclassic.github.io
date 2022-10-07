@@ -85,7 +85,19 @@ Look at the tweet-history of the @Ergo_Platform account. It's ETC's history and 
 
 ## What's Next?
 
-As of writing the outcome is unknown. The best case scenario is that the `Ergo_Platform` is returned, renamed to `eth_classic`, and reveified under the control of ETC Coop. We hope that Twitter Support are able to assist in this.
+As of writing the outcome is unknown. The best case scenario is that the `Ergo_Platform` is returned, renamed to `eth_classic`, and reveified under the control of ETC Coop. 
+
+We hope that Twitter Support are able to assist to rectify this action, which appears to be contravene Twitter's Terms of Service
+
+https://help.twitter.com/en/rules-and-policies/platform-manipulation
+
+> Platform manipulation can take many forms and our rules are intended to address a wide range of prohibited behavior, including:  
+> [...]  
+> inauthentic engagements, that attempt to make accounts or content appear more popular or active than they are;
+
+> You can’t artificially inflate your own or others’ followers or engagement. This includes:  
+> [...]  
+> account transfers or sales – selling, purchasing, trading, or offering the sale, purchase, or trade of Twitter accounts, usernames, or temporary access to Twitter accounts.
 
 In any case, however the dust settles, we hope to progress to a more open and transparent tweeting process via the Twitter Together action on GitHub. Using this system, a clear set of rules and checks and balances can be in place, while opening to community contributions and suggestions for future tweets. To this end, ETC community members are currently contributing to the [twitter-together project](https://github.com/twitter-together/action) to enhance user experience, also providing this option for other decentralized communities to tweet together.
 
