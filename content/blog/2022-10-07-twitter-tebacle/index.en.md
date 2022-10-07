@@ -22,7 +22,7 @@ This post will be updated as events unfold.
 
 ## History
 
-The `eth_classic` Twitter account was originally registered several years ago by ChuckSRQ and handed over to Charles Hoskinson in good faith.
+The `eth_classic` Twitter account was originally registered several years ago by ChuckSRQ and handed over to IOHK's Charles Hoskinson in good faith.
 
 https://twitter.com/ChuckSRQ/status/1572353721228742656
 
