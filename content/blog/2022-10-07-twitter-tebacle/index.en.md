@@ -54,7 +54,7 @@ Then @IOHK_Charles released his "Beating a Dead Horse (Choose Ergo)" video in wh
 > Charles Hoskinson, @IOHK_Charles, Sep 6  
 > Beating a Dead Horse (Choose Ergo) https://twitter.com/i/broadcasts/1gqxvykyRkjJB
 
-Bob pointed out this spiteful behaviour in another thread:
+Bob pointed out this behaviour in another thread:
 
 > Bob Summerwill, @BobSummerwill, Sep 26  
 > He seemingly wants a refund for his spending on ETC and calls the community Twitter handle a “momento”. Just a trophy for his personal pleasure.
