@@ -2,7 +2,7 @@
 title: "Twitter Account Debacle Developments"
 date: 2022-10-07
 author: Istora
-contributors: ["IstoraMandiri"]
+contributors: ["IstoraMandiri", "BobSummerwill"]
 tags: ["announcement"]
 ---
 
