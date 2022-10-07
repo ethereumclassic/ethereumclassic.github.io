@@ -6,7 +6,7 @@ contributors: ["IstoraMandiri"]
 tags: ["announcement"]
 ---
 
-On 6th October 2022, the verified `eth_classic` Twitter account with 600k follows was hijacked and renamed to `Ergo_Platform`, and is now branded under the unrelated Ergo Project. As of writing, the `Ergo_Platform` twitter account maintains a history of all the tweets made by `eth_classic` by and for the ETC Community since it's creating in 2016.
+On 6th October 2022, the verified `eth_classic` Twitter account with 600k followers was hijacked and renamed to `Ergo_Platform`, and is now branded under the unrelated Ergo Project. As of writing, the `Ergo_Platform` twitter account maintains a history of all the tweets made by `eth_classic` by and for the ETC Community since it's creating in 2016.
 
 Example: https://twitter.com/Ergo_Platform/status/1562379187104743424 
 
@@ -56,7 +56,6 @@ Then @IOHK_Charles released his "Beating a Dead Horse (Choose Ergo)" video in wh
 Bob pointed out this spiteful behaviour in another thread:
 
 > Bob Summerwill, @BobSummerwill, Sep 26  
-> Replying to @BobSummerwill @iamtexture @evan_van_ness @DeanWoo30529133 @IOHK_Charles @VitalikButerin  
 > He seemingly wants a refund for his spending on ETC and calls the community Twitter handle a “momento”. Just a trophy for his personal pleasure.
 
 And Charles validated that observation by threatened to repurpose the account (despite it having 6 years of history in the ETC community, over 8000 tweets and over 600K followers, built over years):
