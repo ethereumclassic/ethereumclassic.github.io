@@ -36,7 +36,8 @@ https://twitter.com/eth_classic/status/1578133771647610880
 So what just happened with this account? 🧵
 
 In September 2021, the @ETCCooperative withdrew support for @InputOutputHK's proposed 20% in-protocol treasury, which led to IOHK withdrawing from the ETC community for the second time. The first time was in December 2018, again after treasury rejected.
-etccooperative.org/posts/202…
+
+https://etccooperative.org/posts/2021-09-20-withdraws-support-for-ecip-1098
 
 Charles refused to even discuss a transfer of the community twitter account for months, until getting riled up by somebody calling him out on twitter:
 
@@ -63,9 +64,12 @@ And Charles validated that observation by threatened to repurpose the account (d
 > Charles Hoskinson, @IOHK_Charles, Sep 26  
 > You're right Bob. I should use the account for something. I'll assign our team this upcoming week on it.
 
-Which is exactly what happened today.  
-So this is where we stand.  
-It seems likely we can migrate the twitter-together @ETC_Network account over to this handle now.  
+Which is exactly what happened today.
+
+So this is where we stand.
+
+It seems likely we can migrate the twitter-together @ETC_Network account over to this handle now.
+
 But 6 years of community work has been erased.
 
 > Bob Summerwill, @BobSummerwill, Oct 6  
