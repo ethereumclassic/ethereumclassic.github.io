@@ -57,6 +57,10 @@ items:
         __rpcUrl: https://geth.etc-network.info
         __link: https://www.etc-network.info
         name: ETC-Network.info GETH
+      ETC-Network.info ETCP:
+        __rpcUrl: https://rpc.etcplanets.com
+        __link: https://etcplanets.com
+        name: ETC-Network.info ETCP
       ETC-Network.info GETH (Goerli):
         __rpcUrl: https://geth-goerli.etc-network.info
         __link: https://www.etc-network.info
