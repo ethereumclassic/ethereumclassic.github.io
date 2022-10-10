@@ -23,14 +23,14 @@ description: |
 
   ## Non-exhaustive List of Exchanges
 
-  The following exchanges all support Ethereum Classic. They are separated into 3 categories; centralized, trust minimizing, and instant. 
+  The following exchanges all support Ethereum Classic. They are separated into 3 categories; trust minimizing, centralized, and instant. 
 
   **Please do your own research on the exchange you choose to source Ethereum Classic. Being listed on this site does not constitute an endorsement of the exchange's services by the Ethereum Classic project.**
 items:
   Trust-Minimizing Exchanges:
     __type: buttons
     title: Trust-Minimizing Exchanges
-    description: The following exchanges may not be *fully* decentralized exchanges, but operate in a less centralization manner than the list above. It is likely they use non-custodial smart contracts to faciliate exchanges.
+    description: The following exchanges may not be *fully* decentralized exchanges, but operate in a less centralization manner than the centralized sections below. It is likely these products use non-custodial smart contracts to faciliate exchanges.
     items:
       dYdX:
         __link: https://trade.dydx.exchange/trade/ETC-USD
