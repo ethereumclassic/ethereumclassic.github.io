@@ -406,7 +406,7 @@ items:
   Cross-Chain Swap Exchanges:
     __type: buttons
     title: Cross-Chain Swap Exchanges
-    description: "*Note:* Instant Exchanges typically offer worse rates than Centralized Exchanges."
+    description: "*Note:* Cross-Chain Swap Exchanges typically offer worse rates than Centralized Exchanges."
     items:
       ABRA:
         __link: https://www.abra.com/
