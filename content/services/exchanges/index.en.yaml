@@ -23,7 +23,7 @@ description: |
 
   ## Non-exhaustive List of Exchanges
 
-  The following exchanges all support Ethereum Classic. They are separated into 3 categories; trust minimizing, centralized, and instant. 
+  The following exchanges all support Ethereum Classic. They are separated into 3 categories; trust minimizing, centralized, and cross-chain. 
 
   **Please do your own research on the exchange you choose to source Ethereum Classic. Being listed on this site does not constitute an endorsement of the exchange's services by the Ethereum Classic project.**
 items:
@@ -403,9 +403,9 @@ items:
       WOO-Network_Perp:
         __link: https://x.woo.org/en/trade
         name: WOO Network
-  Instant Exchanges:
+  Cross-Chain Swap Exchanges:
     __type: buttons
-    title: Instant Exchanges
+    title: Cross-Chain Swap Exchanges
     description: "*Note:* Instant Exchanges typically offer worse rates than Centralized Exchanges."
     items:
       ABRA:
