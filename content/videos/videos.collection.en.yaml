@@ -14,6 +14,12 @@
 #
 ### END VIDEO TEMPALTE
 #
+- title: "Ethereum Classic Twitter Account Turns Into Ergo"
+  date: 2022-10-10
+  youtube: zl-KPeS-Owk
+  tags: ["education"]
+  author: Son of a Tech
+  authorYoutube: UC0WNX0de8I1fgKUrjxiPaRA
 - title: "Twitter battle ensues after Charles Hoskinson gives Ethereum Classic's Twitter account to Ergo"
   date: 2022-10-07
   youtube: zT_WCQEF1JE
@@ -523,6 +529,7 @@
   authorYoutube: UCH-dH9smpH1IMccMe75pwbQ
   youtube: rNeLuBOVe8A
   tags: ["explainers"]
+  featured: true
   date: 2021-07-01
 - title: "RTX 3080TI Ethereum Classic Hashrate Predictions"
   author: Son of a Tech
@@ -629,7 +636,6 @@
   youtube: QgRyZ3GI9FM
   tags: ["conferences", "etc-summit-2019"]
   author: ETC Summit 2019
-  featured: true
   description: "Charles Hoskinson [@IOHK_Charles](https://twitter.com/IOHK_Charles), Co-Founder/CEO of [IOHK](https://iohk.io/) and Co-Founder of the Ethereum Project."
 - title: "Redefining Governments Through Trusted Blockchain Applications"
   date: 2019-10-03
