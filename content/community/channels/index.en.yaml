@@ -46,7 +46,7 @@ items:
         __icon: slack
         name: Slack (English)
       chat WeChat:
-        __link: hhttps://etccooperative.org/nanli777.jpg
+        __link: https://etccooperative.org/nanli777.jpg
         name: WeChat (中文)
   Development Chat:
     __type: buttons
