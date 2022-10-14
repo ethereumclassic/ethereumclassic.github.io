@@ -45,6 +45,9 @@ items:
         __link: https://ethereumclassic.herokuapp.com/
         __icon: slack
         name: Slack (English)
+      chat WeChat:
+        __link: https://hebeswap.com/assets/nanli777.jpg
+        name: WeChat (中文)
   Development Chat:
     __type: buttons
     title: Development Chat
@@ -84,6 +87,10 @@ items:
         __link: https://t.me/ETCVietnam
         __icon: telegram
         name: Viet Nam
+      telegram China:
+        __link: https://t.me/chinaetc
+        __icon: telegram
+        name: 中文
   Forums:
     __type: buttons
     title: Forums
