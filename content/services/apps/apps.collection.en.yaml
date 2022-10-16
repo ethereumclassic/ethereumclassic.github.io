@@ -48,6 +48,8 @@
 #
 # ADD YOUR NEW APP HERE
 - title: ETCPlanets
+  author: alien90th
+  authorLink: https://twitter.com/alien90th
   date: 2022-10-14
   type: nfts
   image: ./images/etcplanets.png
