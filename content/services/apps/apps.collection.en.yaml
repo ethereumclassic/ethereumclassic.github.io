@@ -741,6 +741,20 @@
       icon: discord
     - name: Telegram
       link: https://t.me/MonkeyDoo_NFT
+      icon: telegram 
+- title: ETCPlanets
+  date: 2022-10-14
+  type: nfts
+  image: ./images/etcplanets.png
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0xa7271bE4871403560B9e09a1b250294Ac329Ba28/contracts
+  description: Discover the NFTs Marketplace on Ethereum Classic, A New Place To Collect and Connect NFT Across The World. comes with creative designers and cool NFT projects across ETC.
+  links:
+    - name: Launch App
+      link:: https://etcplanets.com/
+    - name: Twitter
+      link: https://twitter.com/etcplanets
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/etcplanets
       icon: telegram
-
        
