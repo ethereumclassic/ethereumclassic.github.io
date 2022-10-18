@@ -57,15 +57,23 @@ announcement:
 signOff: Made with `<3` for the Original Ethereum Vision
 socialHilight: The ETC community is active on Discord
 socialItems:
-  github:
-    __link: https://github.com/ethereumclassic
-    __icon: github
-    name: Github
   discord:
     __link: https://ethereumclassic.org/discord
     __icon: discord
     __hilight: true
     name: Discord
+  discordCoop:
+    __link: https://discord.gg/5wDyd6u6pU
+    __icon: discord
+    name: ETC Coop Discord
+  githubOrg:
+    __link: https://github.com/ethereumclassic
+    __icon: github
+    name: Github
+  githubLabs:
+    __link: https://github.com/etclabscore
+    __icon: github
+    name: ETC Labs Github
   reddit:
     __link: https://reddit.com/r/ethereumclassic
     __icon: reddit

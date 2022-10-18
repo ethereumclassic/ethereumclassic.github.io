@@ -29,7 +29,13 @@ items:
       chat Discord:
         __link: https://ethereumclassic.org/discord
         __icon: discord
-        name: Discord (Global)
+        __primary: true
+        name: Discord (Community, Global)
+      chat Discord Coop:
+        __link: https://discord.gg/5wDyd6u6pU
+        __icon: discord
+        __primary: true
+        name: Discord (ETC Coop)
       chat Facebook English:
         __link: https://www.facebook.com/groups/ethereum.hongkong/
         __icon: facebook
@@ -146,11 +152,13 @@ items:
       twitter English 1:
         __link: https://twitter.com/ETC_Network
         __icon: twitter
-        name: English
+        __primary: true
+        name: "@ETC_Network"
       twitter English 2:
         __link: https://twitter.com/eth_classic
         __icon: twitter
-        name: English
+        __primary: true
+        name: "@eth_classic"
       twitter Español:
         __link: https://twitter.com/ethclassicesp
         __icon: twitter
