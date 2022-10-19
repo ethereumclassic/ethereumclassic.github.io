@@ -59,7 +59,7 @@ items:
         __type: testnet
         __networkId: 7
         __link: https://github.com/eth-classic/mordor
-        __faucet: http://core-geth.org/contribute-to-mordor
+        __faucet: https://easy.hebeswap.com/#/faucet
         __consensusAlgo: pow
         __miningAlgo: Etchash
       Testnet Astor:
