@@ -36,7 +36,7 @@ export default function VideosItem({ item, featured, hash = true, ...rest }) {
                   {author && authorYoutube ? (
                     <Link
                       showExternal
-                      to={`https://youtube.com/channel/${authorYoutube}`}
+                      to={`https://youtube.com/${authorYoutube}`}
                     >
                       {author}
                     </Link>
