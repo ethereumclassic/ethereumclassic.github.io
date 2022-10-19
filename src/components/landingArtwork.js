@@ -42,7 +42,7 @@ function LandingArtworkInner({ i18n }) {
     >
       <div tw="h-[200vh] sm:h-[100vh] w-full overflow-hidden">
         <TwContainer>
-          <div tw="relative pointer-events-none">
+          <div tw="relative pointer-events-none select-none">
             {/* BG CIRCLE */}
             <div tw="absolute top-[-16rem] md:top-[-36rem] -left-2/4 opacity-40">
               <StaticImage
