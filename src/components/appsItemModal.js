@@ -11,7 +11,6 @@ import AppsIcon from "./appsIcon";
 const checklist = [
   { key: "verifiedContract", text: "Contract" },
   { key: "openSource", text: "Open Source" },
-  { key: "authorLink", text: "Team Site" },
   { key: "audit", text: "Audited" },
   { key: "testSuite", text: "Test Suite" },
   { key: "ipfsFrontend", text: "IPFS Frontend" },
@@ -119,7 +118,7 @@ export default function AppsItemModal({ item, appType, trueCol }) {
               )}
             </div>
             <div tw="mb-3">
-              Added <FormattedDate date={item.date} />
+              Added <FormattedDate date={date} />
             </div>
             <div tw="hidden sm:block">
               <ChecklistSection item={item} />
