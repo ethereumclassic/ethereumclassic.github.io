@@ -9,6 +9,7 @@ import Md from "./markdownDynamic";
 import VideoFrame from "./videoFrame";
 import Link from "./link";
 import TwContainer from "./twContainer";
+import { Helmet } from "react-helmet";
 
 export default function VideosItem({ item, featured, hash = true, ...rest }) {
   const {
@@ -28,6 +29,9 @@ export default function VideosItem({ item, featured, hash = true, ...rest }) {
         cinema
         content={
           <TwContainer>
+            <Helmet>
+              <title>{title}</title>
+            </Helmet>
             <div tw="pointer-events-auto">
               <VideoFrame youtube={youtube} autoplay />
               <div tw="space-y-4 mt-4">
@@ -36,7 +40,7 @@ export default function VideosItem({ item, featured, hash = true, ...rest }) {
                   {author && authorYoutube ? (
                     <Link
                       showExternal
-                      to={`https://youtube.com/channel/${authorYoutube}`}
+                      to={`https://youtube.com/${authorYoutube}`}
                     >
                       {author}
                     </Link>
@@ -69,11 +73,20 @@ export default function VideosItem({ item, featured, hash = true, ...rest }) {
           </>
         )}
         <div tw="aspect-w-16 aspect-h-9 w-full overflow-hidden">
-          <GatsbyImage
-            image={getImage(videoImage)}
-            alt={title}
-            tw="w-auto transition-all -mx-px group-hover:scale-110"
-          />
+          {videoImage ? (
+            <GatsbyImage
+              image={getImage(videoImage)}
+              alt={title}
+              tw="w-auto transition-all -mx-0.5 group-hover:scale-110"
+            />
+          ) : (
+            <div tw="flex bg-primary-lighter">
+              <Icon
+                icon="questionMark"
+                tw="m-10 flex-auto text-primary-lightest"
+              />
+            </div>
+          )}
         </div>
         <div tw="px-3 py-2 line-clamp-4 font-medium text-sm">{title}</div>
         <div

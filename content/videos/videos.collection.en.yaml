@@ -8,178 +8,184 @@
 #   youtube: GCBv1VCN2tE
 #   tags: ["discussions", "explainers"]
 #   author: ETC Community Calls
-#   authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+#   authorYoutube: c/channel_name OR channel/channel_id (appended to https://yotube.com)
 #   description: "OPTIONAL, Supports Markdown: Nishant Sharma [@nishantsharma87](https://twitter.com/nishantsharma87), PR and Community Relations at [Bitmain](https://www.bitmain.com/)."
-#   unlisted: true   
+#   unlisted: true
 #
 ### END VIDEO TEMPALTE
 #
 - title: "The Ethereum Classic Monetary Policy Explained"
   date: 2022-10-19
   youtube: 2zXqFTFJLic
-  tags: ["education"]
+  tags: ["explainers", "education"]
   author: Emerald
-  authorYoutube: UCOL-czP85bLI9XlGilbXkyg
+  authorYoutube: channel/UCOL-czP85bLI9XlGilbXkyg
+- title: "What's Happening with ETC? - Bob Summerwill"
+  date: 2020-03-20
+  youtube: yWX-GZAQxYA
+  tags: ["conferences"]
+  author: ETH Denver
+  authorYoutube: c/ETHDenver
 - title: "ETC Community Call 029 2022-10-18"
   date: 2022-10-18
   youtube: sJtNaRr5eP4
   tags: ["discussions"]
   author: ETC Community Calls
-  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+  authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETC Community Call 028 2022-10-11"
   date: 2022-10-11
   youtube: zvL9hu46kZQ
   tags: ["discussions"]
   author: ETC Community Calls
-  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+  authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "What Is WETC?"
   date: 2022-10-08
   youtube: xJtqXMBz0UA
   tags: ["education"]
   author: Emerald
-  authorYoutube: UCOL-czP85bLI9XlGilbXkyg
+  authorYoutube: channel/UCOL-czP85bLI9XlGilbXkyg
 - title: "ETC Community Call 027 2022.10.04"
   date: 2022-10-04
   youtube: NBJyNWahfEI
   tags: ["discussions"]
   author: ETC Community Calls
-  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+  authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETC Community Call 026 2022.09.27"
   date: 2022-08-03
   youtube: fuDIwsaFBPs
   tags: ["discussions"]
   author: ETC Community Calls
-  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+  authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETC Community Call 025 2022.07.05"
   date: 2022-07-05
   youtube: O6pGuZo1FGc
   tags: ["discussions"]
   author: ETC Community Calls
-  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+  authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETC Community Call 024 2022.06.28"
   date: 2022-06-28
   youtube: ycStZqlXEgQ
   tags: ["discussions"]
   author: ETC Community Calls
-  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+  authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "Ethereum Classic Twitter Account Turns Into Ergo"
   date: 2022-10-10
   youtube: zl-KPeS-Owk
-  tags: ["education"]
+  tags: ["other"]
   author: Son of a Tech
-  authorYoutube: UC0WNX0de8I1fgKUrjxiPaRA
+  authorYoutube: channel/UC0WNX0de8I1fgKUrjxiPaRA
 - title: "Twitter battle ensues after Charles Hoskinson gives Ethereum Classic's Twitter account to Ergo"
   date: 2022-10-07
   youtube: zT_WCQEF1JE
-  tags: ["education"]
+  tags: ["other"]
   author: MineSum10
-  authorYoutube: UCS-OYnmtzCYXXB7DiVGf7-g
+  authorYoutube: channel/UCS-OYnmtzCYXXB7DiVGf7-g
 - title: "ETHEREUM CLASSIC Profits Are Looking GOOD!!!"
   date: 2022-08-31
   youtube: _QODsQJS5zA
   tags: ["education", "mining"]
   author: Rabid Mining
-  authorYoutube: UCR4HApCTYNfOuZ0nIENAqPg
+  authorYoutube: channel/UCR4HApCTYNfOuZ0nIENAqPg
 - title: "YouTuber TechLead discusses his Ethereum Classic strategy"
   date: 2022-08-20
   youtube: nyaBsK3PaC0
   tags: ["education", "trading"]
   author: TechLead
-  authorYoutube: UC4xKdmAXFh4ACyhpiQ_3qBw
+  authorYoutube: channel/UC4xKdmAXFh4ACyhpiQ_3qBw
 - title: "EthCC5 Talk: Vitalik Buterin endorses Ethereum Classic (35 min timestamp)"
   date: 2022-07-22
   youtube: kGjFTzRTH3Q
   tags: ["education", "mining"]
   author: Grand Amphi Theatre
-  authorYoutube: UC_kOxlaYNOTtNwtwySZ0B8w
+  authorYoutube: channel/UC_kOxlaYNOTtNwtwySZ0B8w
 - title: "Aftermath of the Great Ethereum Hashrate Migration"
   date: 2022-05-16
   youtube: gegvMBwTaMg
   tags: ["mining"]
   author: Red Panda Mining
-  authorYoutube: UCAGsnTCpw7pvhR4RAlEQGzg
+  authorYoutube: channel/UCAGsnTCpw7pvhR4RAlEQGzg
 - title: "The Great Ethereum Hashrate Migration Results?"
   date: 2022-05-14
   youtube: 8_-xIgf_oIM
   tags: ["mining"]
   author: Son of a Tech
-  authorYoutube: UC0WNX0de8I1fgKUrjxiPaRA
+  authorYoutube: channel/UC0WNX0de8I1fgKUrjxiPaRA
 - title: "How to JOIN The Great Ethereum Hashrate MIGRATION!"
   date: 2022-05-12
   youtube: 8iM8y89t8GQ
   tags: ["mining"]
   author: Red Panda Mining
-  authorYoutube: UCAGsnTCpw7pvhR4RAlEQGzg
+  authorYoutube: channel/UCAGsnTCpw7pvhR4RAlEQGzg
 - title: "Ethereum Difficulty Bomb Not Delayed"
   date: 2022-05-05
   youtube: 1k4Sk2LWSZE
   tags: ["mining"]
   author: Son of a Tech
-  authorYoutube: UC0WNX0de8I1fgKUrjxiPaRA
+  authorYoutube: channel/UC0WNX0de8I1fgKUrjxiPaRA
 - title: "The Great Ehtereum Hashrate Migration"
   date: 2022-05-04
   youtube: aWTfCVpubcQ
   tags: ["mining"]
   author: Son of a Tech
-  authorYoutube: UC0WNX0de8I1fgKUrjxiPaRA
+  authorYoutube: channel/UC0WNX0de8I1fgKUrjxiPaRA
 - title: "ETCCC023: 2021 Retrospective, 2022 Budget and Roadmap"
   date: 2022-05-03
   youtube: KMCprPEzEv0
   tags: ["discussions"]
   author: ETC Community Calls
-  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+  authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "Ethereum Classic Fifthening AFTERMATH"
   date: 2022-04-29
   youtube: IJfZk213kws
   tags: ["mining"]
   author: Red Panda Mining
-  authorYoutube: UCAGsnTCpw7pvhR4RAlEQGzg
+  authorYoutube: channel/UCAGsnTCpw7pvhR4RAlEQGzg
 - title: "ETCCC021: Funding Discussion, Open Develop via ETC DAO Progressing, ETC DeFi Stack on Horizon, Mining Pools Funding Clients"
   date: 2022-04-12
   youtube: J1bJqafKtXI
   tags: ["discussions"]
   author: ETC Community Calls
-  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+  authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETCCC020: April Fools, Vitalik Defends BTC Maximalism"
   date: 2022-04-05
   youtube: DyDAMD0Zg6U
   tags: ["discussions"]
   author: ETC Community Calls
-  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+  authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "Why Ethereum Classic Might Be The Best Investment In Crypto (Sleeping Giant)"
   date: 2022-03-30
   youtube: FeXXk__bH6c
   tags: ["explainers"]
-  author:  Nick Of Jupiter
-  authorYoutube: UCCnTOrkCE5alR2RYFVNdrjg
+  author: Nick Of Jupiter
+  authorYoutube: channel/UCCnTOrkCE5alR2RYFVNdrjg
 - title: "ETCCC019: Price Rises, Mainstream Articles, Mining Deep Dive"
   date: 2022-03-29
   youtube: iW00VZNhkjY
   tags: ["discussions"]
   author: ETC Community Calls
-  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+  authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETCCC018: The Fithening, Fixed Supply and Protocol Complexity"
   date: 2022-03-22
   youtube: zMdr7GpZI9s
   tags: ["discussions"]
   author: ETC Community Calls
-  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+  authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETCCC017: Proof of Stake Discussion and Community Updates"
   date: 2022-03-15
   youtube: Gbaa9TLXW9Y
   tags: ["discussions"]
   author: ETC Community Calls
-  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+  authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETCCC016: Principles and Philosophy with Donald McIntyre"
   date: 2022-03-08
   youtube: PQG0kD_67No
   tags: ["discussions"]
   author: ETC Community Calls
-  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+  authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "Etherplan Blockchain Course Part 2: Categorization and Use Cases"
   date: 2022-03-02
   author: Donald McIntyre
-  authorYoutube: UC4--zHROGkRT1MadPM4EASA
+  authorYoutube: channel/UC4--zHROGkRT1MadPM4EASA
   tags: ["explainers"]
   youtube: 53A7MNTbkmg
 - title: "ETCCC015: Reaching Rough Consensus"
@@ -187,17 +193,17 @@
   youtube: llM1So2jB5k
   tags: ["discussions"]
   author: ETC Community Calls
-  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+  authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "What is Ethereum Classic (ETC) - Explained"
   date: 2019-12-23
   author: Atlas
-  authorYoutube: UCQuW4GoxxR9-GH3oW3BrpZw
+  authorYoutube: channel/UCQuW4GoxxR9-GH3oW3BrpZw
   tags: ["explainers"]
   youtube: RaD0x33PP0I
 - title: "Etherplan Blockchain Course Part 1: History"
   date: 2022-02-28
   author: Donald McIntyre
-  authorYoutube: UC4--zHROGkRT1MadPM4EASA
+  authorYoutube: channel/UC4--zHROGkRT1MadPM4EASA
   tags: ["explainers"]
   youtube: rbIm7vIApWo
 - title: "ETCCC014: Dev Call 22, DAO Hacker Unmasked, New Website, Conference Plans"
@@ -205,17 +211,17 @@
   youtube: UD7t7qMNoyk
   tags: ["discussions"]
   author: ETC Community Calls
-  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+  authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETC Core Devs Call 22: Proposed Rejection of ECIP-1049"
   date: 2022-02-21
   author: Ethereum Classic Trade Signals
-  authorYoutube: UCRlAmF--BxLB0WabI0DjUxw
+  authorYoutube: channel/UCRlAmF--BxLB0WabI0DjUxw
   tags: ["discussions"]
   youtube: lpdZgsAbPXo
 - title: "Ethereum Classic is a Sleeping Giant"
   date: 2022-02-20
   author: Son of a Tech
-  authorYoutube: UC0WNX0de8I1fgKUrjxiPaRA
+  authorYoutube: channel/UC0WNX0de8I1fgKUrjxiPaRA
   tags: ["trading"]
   youtube: 7eopeJfin84
 - title: "ETCCC013: The SHA3 Debate Continues, Hybrid PoW"
@@ -223,426 +229,426 @@
   youtube: HQ9IKu3PVkA
   tags: ["discussions"]
   author: ETC Community Calls
-  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+  authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETHEREUM CLASSIC MYSTIQUE UPGRADE ! | ECOSYSTEM UPDATE!"
   date: 2022-02-12
   author: Savage Profits
   youtube: btlFEYm2AsQ
   tags: ["explainers"]
-  authorYoutube: UCn-FM8TsJ0c8kFXYZEI0jmA
+  authorYoutube: channel/UCn-FM8TsJ0c8kFXYZEI0jmA
 - title: "ETCCC012: Q&A with Afri, ETCDAO Gigs, Uncle Rate"
   date: 2022-02-08
   youtube: GCBv1VCN2tE
   tags: ["discussions"]
   author: ETC Community Calls
-  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+  authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETCCC011: SHA3 Next Steps, ETCDAO Rising"
   date: 2022-02-01
   youtube: ad_grFagA5k
   tags: ["discussions"]
   author: ETC Community Calls
-  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+  authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETCCC010: DAO Approaches, Obelus, The SHA3 Debate Continues..."
   date: 2022-01-25
   youtube: 6DRZEaKkpb4
   tags: ["discussions"]
   author: ETC Community Calls
-  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+  authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETCCC009: Q&A with Code Burns: Multisig Fund"
   date: 2022-01-18
   youtube: GlRpBhsN7Ck
   tags: ["discussions"]
   author: ETC Community Calls
-  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+  authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETCCC008: The Merge Opportunities, SHA3, Mystique Merged, Soteria"
   date: 2022-01-11
   youtube: Kirnjy04PkY
   tags: ["discussions"]
   author: ETC Community Calls
-  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+  authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETCCC007: Hebe, App Audits, Mutisig Test, Call Access, Website"
   date: 2022-01-04
   youtube: qnfoGh6UZyM
   tags: ["discussions"]
   author: ETC Community Calls
-  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+  authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETCCC006: Development Tiers, Roadmap, Erigon, Corporates, SHA3"
   date: 2021-12-28
   youtube: hLeaPLoTYOE
   tags: ["discussions"]
   author: ETC Community Calls
-  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+  authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETCCC005: Q&A With Bob Summewill (Edit)"
   date: 2021-12-21
   youtube: HaDANZN-ZUU
   tags: ["discussions"]
   author: ETC Community Calls
-  authorYoutube: UCp07VPnC1ejyAp5gMvvA4dw
+  authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "Ethereum vs Ethereum Classic: What is the difference?"
   author: Ameer Rosic
-  authorYoutube: UCaPSoa3hoxgouMd8YdlUwXQ
+  authorYoutube: channel/UCaPSoa3hoxgouMd8YdlUwXQ
   tags: ["explainers"]
   youtube: 7lwKClbkXYI
   date: 2017-04-06
 - title: "Dual Mine ETH/ETC With ZIL - Boost Your 3GB/4GB GPU Profits!"
   author: Mining Chamber
-  authorYoutube: UC1dH33m7DoQxS4cSZ4Vs5hg
+  authorYoutube: channel/UC1dH33m7DoQxS4cSZ4Vs5hg
   tags: ["mining"]
   youtube: 83KU1AE2kN0
   date: 2021-02-12
 - title: "Ethereum Classic ETC will soon be $7000! Here is is why."
   author: Patient Money
-  authorYoutube: UCwYQN0KEjNspygAR9YstzYg
+  authorYoutube: channel/UCwYQN0KEjNspygAR9YstzYg
   tags: ["trading"]
   youtube: RYwsVBVN6Ss
   date: 2021-02-14
 - title: "What to Mine on 4GB Cards? Ravencoin or Ethereum Classic"
   author: The Hobbyist Miner
-  authorYoutube: UCX_MdaGkjJwY8vGvytybE7w
+  authorYoutube: channel/UCX_MdaGkjJwY8vGvytybE7w
   tags: ["mining"]
   youtube: XOrygRkdiFk
   date: 2021-03-23
 - title: "Ethereum, Ethereum Classic and Callisto Network, a Common History."
   author: Callisto Network
   tags: ["development"]
-  authorYoutube: UC1WMae32v_eJ8qOtLQqM26Q
+  authorYoutube: channel/UC1WMae32v_eJ8qOtLQqM26Q
   youtube: 9Njsudrh51k
   date: 2021-07-16
 - title: "Ethereum Classic Cryptocurrency (ETC) : The Crypto No One Is Talking About!"
   author: Mike Tha Investor
   tags: ["trading"]
-  authorYoutube: UCFP_z9W12Ex9lCw8Zqu04fA
+  authorYoutube: channel/UCFP_z9W12Ex9lCw8Zqu04fA
   youtube: MhxufctkaZ4
   date: 2021-01-10
 - title: "How To Mine Ethereum Classic ETC On Windows"
   author: IMineBlocks
   tags: ["mining"]
-  authorYoutube: UCjYHcWGAjUVqU49D2JOKD3w
+  authorYoutube: channel/UCjYHcWGAjUVqU49D2JOKD3w
   youtube: jgfsIxAiiHY
   date: 2017-01-26
 - title: "$500 Ethereum Classic Mining Rig Budget Build"
   author: The Hobbyist Miner
-  authorYoutube: UCX_MdaGkjJwY8vGvytybE7w
+  authorYoutube: channel/UCX_MdaGkjJwY8vGvytybE7w
   tags: ["mining"]
   youtube: FPcTBiToIcU
   date: 2021-05-31
 - title: "Ethereum Classic HUGE BUY Opportunity + ETC Price Prediction 2021"
   author: The Right Trader
-  authorYoutube: UCkpMhY4N4ZjpqKMIjzLplKw
+  authorYoutube: channel/UCkpMhY4N4ZjpqKMIjzLplKw
   tags: ["trading"]
   youtube: kN87dsPVrHE
   date: 2021-02-11
 - title: "I Mined Ethereum Classic for 48hrs!"
   author: Son of a Tech
-  authorYoutube: UC0WNX0de8I1fgKUrjxiPaRA
+  authorYoutube: channel/UC0WNX0de8I1fgKUrjxiPaRA
   tags: ["mining"]
   youtube: 6FyM5iU1k5A
   date: 2021-05-09
 - title: "What is Ethereum Classic? - ETC Beginners Guide"
   author: UnbankedHQ
-  authorYoutube: UCqNyT4SjTzsJ1FF2dpUI_TA
+  authorYoutube: channel/UCqNyT4SjTzsJ1FF2dpUI_TA
   tags: ["explainers"]
   youtube: F1zn2Ynw9xw
   date: 2020-08-12
 - title: "Should You Buy Ethereum Classic? (Store of Value)"
   author: Mike Tha Investor
   tags: ["trading"]
-  authorYoutube: UCFP_z9W12Ex9lCw8Zqu04fA
+  authorYoutube: channel/UCFP_z9W12Ex9lCw8Zqu04fA
   youtube: HmLZueCu3fY
   date: 2021-04-21
 - title: "Should You Buy Ethereum Classic? (Store of Value)"
   author: Mike Tha Investor
-  authorYoutube: UCFP_z9W12Ex9lCw8Zqu04fA
+  authorYoutube: channel/UCFP_z9W12Ex9lCw8Zqu04fA
   tags: ["trading"]
   youtube: HmLZueCu3fY
   date: 2021-04-21
 - title: "Ethereum Classic ETC and Dogecoin Live... price targets"
   author: Patient Money
-  authorYoutube: UCwYQN0KEjNspygAR9YstzYg
+  authorYoutube: channel/UCwYQN0KEjNspygAR9YstzYg
   youtube: VghT_3h3As0
   tags: ["trading"]
   date: 2021-05-07
 - title: "How to Mine Ethereum Classic - ETC Mining Pool Setup"
   author: 2Miners
-  authorYoutube: UCFdwTGZwcW90lFLRwnQtEfw
+  authorYoutube: channel/UCFdwTGZwcW90lFLRwnQtEfw
   youtube: XAoz2voThOM
   tags: ["mining"]
   date: 2019-07-02
 - title: "ETHEREUM CLASSIC CAN NOW HIT $1000! | DON'T SELL HERES WHY!"
   author: Savage Profits
   tags: ["trading"]
-  authorYoutube: UCn-FM8TsJ0c8kFXYZEI0jmA
+  authorYoutube: channel/UCn-FM8TsJ0c8kFXYZEI0jmA
   youtube: KtsNpKS0LgM
   date: 2021-05-05
 - title: "Ethereum Classic: Warning To Investors! ⚠️"
   author: Investing Made Simple - Nathan Sloan
   tags: ["trading"]
-  authorYoutube: UCz4XY6NPKaMUWNWMONTw3NQ
+  authorYoutube: channel/UCz4XY6NPKaMUWNWMONTw3NQ
   youtube: 3UScMusGq8o
   date: 2021-08-26
 - title: "Live Stream! Amazon / XRP, Ethereum Classic 51% Attack, TRON Price Rise"
   author: The Modern Investor
   tags: ["trading"]
-  authorYoutube: UC-5HLi3buMzdxjdTdic3Aig
+  authorYoutube: channel/UC-5HLi3buMzdxjdTdic3Aig
   youtube: 5UqfYIiAPDc
   date: 2019-01-08
 - title: "EMERGENCY VIDEO!!! - Ethereum Classic ETC Analysis And Price Prediction."
   author: The Late Adopter
   tags: ["trading"]
-  authorYoutube: UC2qjX8VEP5cgIimnm43hrjA
+  authorYoutube: channel/UC2qjX8VEP5cgIimnm43hrjA
   youtube: Mz9DjGSczxw
   date: 2021-05-07
 - title: "Ethereum vs Ethereum Classic (Why Did They Split)"
   author: Aimstone
-  authorYoutube: UC7S9sRXUBrtF0nKTvLY3fwg
+  authorYoutube: channel/UC7S9sRXUBrtF0nKTvLY3fwg
   tags: ["explainers"]
   youtube: IOuEgLKqqjE
   date: 2018-06-12
 - title: "Ethereum Classic | ETC"
   author: Son of a Tech
   tags: ["explainers"]
-  authorYoutube: UC0WNX0de8I1fgKUrjxiPaRA
+  authorYoutube: channel/UC0WNX0de8I1fgKUrjxiPaRA
   youtube: IBW0JtIGem8
   date: 2021-05-08
-#- title: "ETHEREUM CLASSIC Price Prediction 2021!!!!! ETC Cryptocurrency - Ethereum Classic Coin - Crypto News"
-#  author: Mind Math Money
-#  authorYoutube: UCTdlDD6JgJeplt4axozFmSQ
-#  tags: ["trading"]
-#  youtube: Tbg1ydZbotA
-#  date: 2021-05-07
-#- title: "Easily Mine Ethereum Classic On Any Computer | How To Mine Ethereum Classic 2021 | How To Stake ETC"
-#  tags: ["mining"]
-#  author: Fractal Media
-#  authorYoutube: UCUvqZ03tD5fM4nw33PrPQ-w
-#  youtube: PBSW9CILf0w
-#  date: 2021-03-13
+- title: "ETHEREUM CLASSIC Price Prediction 2021!!!!! ETC Cryptocurrency - Ethereum Classic Coin - Crypto News"
+  author: Mind Math Money
+  authorYoutube: channel/UCTdlDD6JgJeplt4axozFmSQ
+  tags: ["trading"]
+  youtube: Tbg1ydZbotA
+  date: 2021-05-07
+- title: "Easily Mine Ethereum Classic On Any Computer | How To Mine Ethereum Classic 2021 | How To Stake ETC"
+  tags: ["mining"]
+  author: Fractal Media
+  authorYoutube: channel/UCUvqZ03tD5fM4nw33PrPQ-w
+  youtube: PBSW9CILf0w
+  date: 2021-03-13
 - title: "ETHEREUM CLASSIC IS EXPLODING!!! (BETTER THAN DOGE)"
   author: Michael Wrubel
   tags: ["trading"]
-  authorYoutube: UClWUQqWTL6xSK2Bx1bRlKPw
+  authorYoutube: channel/UClWUQqWTL6xSK2Bx1bRlKPw
   youtube: 9eZMv-QxD00
   date: 2021-05-06
 - title: "ETC Price Prediction 2021! Ethereum Classic Price Prediction 2021!"
   author: AJ FIVE
-  authorYoutube: UChhWCFiv82JByk-TSN2ENNQ
+  authorYoutube: channel/UChhWCFiv82JByk-TSN2ENNQ
   tags: ["trading"]
   youtube: W9eK3f6Eapw
   date: 2021-05-06
 - title: "ETHEREUM VS ETHEREUM CLASSIC | Which One Is Best?"
   author: Satoshi Stacker
   tags: ["explainers"]
-  authorYoutube: UCGDjpwZV-bU-sLSnhInCfKQ
+  authorYoutube: channel/UCGDjpwZV-bU-sLSnhInCfKQ
   youtube: EKO6YXNqoMw
   date: 2021-05-08
 - title: "Ethereum Classic ETC and Doge watch. Doge on SNL?"
   author: Patient Money
   tags: ["trading"]
-  authorYoutube: UCwYQN0KEjNspygAR9YstzYg
+  authorYoutube: channel/UCwYQN0KEjNspygAR9YstzYg
   youtube: jtBtMc1q1x8
   date: 2021-05-05
 - title: "ETHEREUM CLASSIC REACHED 15 BILLION MARKET CAP! | HERES WHY THIS IS IMPORTANT"
   author: Savage Profits
   tags: ["trading"]
-  authorYoutube: UCn-FM8TsJ0c8kFXYZEI0jmA
+  authorYoutube: channel/UCn-FM8TsJ0c8kFXYZEI0jmA
   youtube: 0WTghta8Ig8
   date: 2021-05-05
 - title: "COINS TO WATCH: Interesting Development With Ripple, Litecoin, Cardano, Ethereum Classic, & BAT! 👍"
   author: Altcoin Daily
   tags: ["trading"]
-  authorYoutube: UCbLhGKVY-bJPcawebgtNfbw
+  authorYoutube: channel/UCbLhGKVY-bJPcawebgtNfbw
   youtube: I0lWK0yNmuU
   date: 2020-01-26
 - title: "CRYPTO & BITCOIN NEWS! DOGECOIN 303X, WHEN $1? | Ethereum Classic To $200? | PROPERTY PRICES BOOM!"
   author: Jason Pizzino
-  authorYoutube: UCIb34uXDsfTq4PJKW0eztkA
+  authorYoutube: channel/UCIb34uXDsfTq4PJKW0eztkA
   tags: ["trading"]
   youtube: eVDukHR3Sy8
   date: 2021-05-07
 - title: "Ethereum Classic vs Ethereum 2 0 : What's The Difference?"
   author: Mike Tha Investor
   tags: ["explainers"]
-  authorYoutube: UCFP_z9W12Ex9lCw8Zqu04fA
+  authorYoutube: channel/UCFP_z9W12Ex9lCw8Zqu04fA
   youtube: UZHkf69ZLt4
   date: 2021-01-24
 - title: "Ethereum Classic Shut Down, Ethereum To $1 And DASH Instant Transactions"
   author: The Modern Investor
-  authorYoutube: UC-5HLi3buMzdxjdTdic3Aig
+  authorYoutube: channel/UC-5HLi3buMzdxjdTdic3Aig
   tags: ["trading"]
   youtube: UCFYMbbOxKQ
   date: 2018-12-04
 - title: "🔴LIVE: Ethereum Classic Exploding! What you must know!"
   author: Dapp University
-  authorYoutube: UCY0xL8V6NzzFcwzHCgB8orQ
+  authorYoutube: channel/UCY0xL8V6NzzFcwzHCgB8orQ
   tags: ["trading"]
   youtube: mEREXjUG2m4
   date: 2021-05-05
 - title: "RX 470 HashRates Mining RavenCoin & Ethereum Classic"
   author: The Hobbyist Miner
-  authorYoutube: UCX_MdaGkjJwY8vGvytybE7w
+  authorYoutube: channel/UCX_MdaGkjJwY8vGvytybE7w
   tags: ["mining"]
   youtube: 4kMqMb4pklo
   date: 2021-03-05
 - title: "WHY ETHEREUM CLASSIC IS DROPPING! | PORTFOLIO REVEALS"
   author: Savage Profits
-  authorYoutube: UCn-FM8TsJ0c8kFXYZEI0jmA
+  authorYoutube: channel/UCn-FM8TsJ0c8kFXYZEI0jmA
   tags: ["trading"]
   youtube: aC_3E8WbMf8
   date: 2021-05-05
 - title: "ETHEREUM CLASSIC WILL EXPLODE! ETC Price Prediction 2021 - WHY ETC WILL PUMP MORE?"
   author: Finpact
-  authorYoutube: UCOVbQfSl8fhfowYdIJfe6ZA
+  authorYoutube: channel/UCOVbQfSl8fhfowYdIJfe6ZA
   tags: ["trading"]
   youtube: JdYK_grPVZc
   date: 2021-05-11
 - title: "The Truth About Ethereum Classic..."
   author: The Bitcoin Express
-  authorYoutube: UCEjgpiDPhTErrJm6zeNeAAw
+  authorYoutube: channel/UCEjgpiDPhTErrJm6zeNeAAw
   tags: ["explainers"]
   youtube: 6myrEGieUPY
   date: 2021-05-08
 - title: "Ethereum Classic Price Prediction to $500 (Buy ETC Now, Don't Miss Out!)"
   author: The Right Trader
-  authorYoutube: UCkpMhY4N4ZjpqKMIjzLplKw
+  authorYoutube: channel/UCkpMhY4N4ZjpqKMIjzLplKw
   tags: ["trading"]
   youtube: IAXA5VU2bZU
   date: 2021-05-14
 - title: "HOW TO PLAY ETHEREUM CLASSIC | VERY IMPORTANT INFO!!"
   author: Savage Profits
-  authorYoutube: UCn-FM8TsJ0c8kFXYZEI0jmA
+  authorYoutube: channel/UCn-FM8TsJ0c8kFXYZEI0jmA
   tags: ["trading"]
   youtube: KoIO5WWZ_Sg
   date: 2021-05-05
 - title: "ETC Bull Run?! | Ethereum Classic Price Prediction Today | NEWS & Market Analysis | April 2021 "
   author: Mango Research
-  authorYoutube: UCy5liYXdiF2toahFF7W3fEQ
+  authorYoutube: channel/UCy5liYXdiF2toahFF7W3fEQ
   tags: ["trading"]
   youtube: 86ZOQrTRtF0
   date: 2021-04-16
 - title: "Soft Fork vs Hard Fork in Crypto (ETH Classic, Litecoin, BTC Cash...)"
   author: Whiteboard Crypto
-  authorYoutube: UCsYYksPHiGqXHPoHI-fm5sg
+  authorYoutube: channel/UCsYYksPHiGqXHPoHI-fm5sg
   tags: ["explainers"]
   youtube: Bu1GcyyFZ7w
   date: 2021-08-11
 - title: "New Ethereum Classic ETC price target and history."
   author: Patient Money
-  authorYoutube: UCwYQN0KEjNspygAR9YstzYg
+  authorYoutube: channel/UCwYQN0KEjNspygAR9YstzYg
   tags: ["trading"]
   youtube: AoFfEXual5s
   date: 2021-05-05
 - title: "Minergate fix for Ethereum/classic (unknown error)"
   author: BTCMad
-  authorYoutube: UCt4dMhyr2aHYCCu4vlt8B2Q
+  authorYoutube: channel/UCt4dMhyr2aHYCCu4vlt8B2Q
   tags: ["mining"]
   youtube: 8tAjywzu7mw
   date: 2017-04-05
-# - title: "Ethereum Classic (ETC) Cryptocurrency Review"
-#   author: Louis Thomas
-#   tags: ["explainers"]
-#   authorYoutube: UCpceefaJ9vs4RYUTsO9Y3FA
-#   youtube: VVaVPp-05tc
-#   date: 2017-08-08
+- title: "Ethereum Classic (ETC) Cryptocurrency Review"
+  author: Louis Thomas
+  tags: ["explainers"]
+  authorYoutube: channel/UCpceefaJ9vs4RYUTsO9Y3FA
+  youtube: VVaVPp-05tc
+  date: 2017-08-08
 - title: "Ethereum Classic: Complete Review of ETC"
   author: Coin Bureau
-  authorYoutube: UCqK_GSMbpiV8spgD3ZGloSw
+  authorYoutube: channel/UCqK_GSMbpiV8spgD3ZGloSw
   tags: ["explainers"]
   youtube: xcenZlBdmzM
   date: 2019-11-12
 - title: "MSI GTX 1650 super Ethereum Classic (ETC) Hashrate"
   author: jtravaglini
-  authorYoutube: UCWZblQkb3VJqsSdzJDQQVqw
+  authorYoutube: channel/UCWZblQkb3VJqsSdzJDQQVqw
   tags: ["mining"]
   youtube: ZPGz-XwqGgU
   date: 2020-12-09
 - title: "Ethereum Classic - Mantis: IOHK Development Update - April 2021"
   author: IOHK
-  authorYoutube: UCBJ0p9aCW-W82TwNM-z3V2w
+  authorYoutube: channel/UCBJ0p9aCW-W82TwNM-z3V2w
   tags: ["development"]
   youtube: Cnhle3zmbpY
   date: 2021-04-22
 - title: "Goldman Sachs Crypto Custody, Ethereum Classic Price Jump And Watch Where You Put Your Money"
   author: The Modern Investor
-  authorYoutube: UC-5HLi3buMzdxjdTdic3Aig
+  authorYoutube: channel/UC-5HLi3buMzdxjdTdic3Aig
   tags: ["trading"]
   youtube: Kxa9d3yE0qs
   date: 2018-08-07
-# - title: "Ethereum Civil War 💣 Ethereum Cash vs Ethereum Gold vs Ethereum Classic"
-#   author: David Hay
-#   authorYoutube: UCw6fLrKYh0IelO6OJuF2Jiw
-#   tags: ["explainers"]
-#   youtube: JOgUyu25K08
-#   date: 2017-10-19
+- title: "Ethereum Civil War 💣 Ethereum Cash vs Ethereum Gold vs Ethereum Classic"
+  author: David Hay
+  authorYoutube: channel/UCw6fLrKYh0IelO6OJuF2Jiw
+  tags: ["explainers"]
+  youtube: JOgUyu25K08
+  date: 2017-10-19
 - title: "The DAO Hack: The Story of Ethereum Classic"
   author: Junion
-  authorYoutube: UCH-dH9smpH1IMccMe75pwbQ
+  authorYoutube: channel/UCH-dH9smpH1IMccMe75pwbQ
   youtube: rNeLuBOVe8A
   tags: ["explainers"]
   featured: true
   date: 2021-07-01
 - title: "RTX 3080TI Ethereum Classic Hashrate Predictions"
   author: Son of a Tech
-  authorYoutube: UC0WNX0de8I1fgKUrjxiPaRA
+  authorYoutube: channel/UC0WNX0de8I1fgKUrjxiPaRA
   youtube: 0C24kQ8Das8
   date: 2021-05-07
   tags: ["mining"]
 - title: "How To Create Ethereum Classic Wallet Address and Send / Receive ETC"
   author: IMineBlocks
-  authorYoutube: UCjYHcWGAjUVqU49D2JOKD3w
+  authorYoutube: channel/UCjYHcWGAjUVqU49D2JOKD3w
   youtube: VU-QO5cLFPE
   tags: ["tutorials"]
   date: 2017-06-22
 - title: "ETC Top Bullish Altcoin | Ethereum Classic Price Prediction | NEWS & Price Analysis | May 2021 🏮"
   author: Mango Research
-  authorYoutube: UCy5liYXdiF2toahFF7W3fEQ
+  authorYoutube: channel/UCy5liYXdiF2toahFF7W3fEQ
   youtube: WWCW2iEQSDY
   tags: ["trading"]
   date: 2021-05-04
 - title: "R9 380 4GB Ethereum Classic Mining Rig Build"
   author: The Hobbyist Miner
-  authorYoutube: UCX_MdaGkjJwY8vGvytybE7w
+  authorYoutube: channel/UCX_MdaGkjJwY8vGvytybE7w
   youtube: PJWvsqdzOsw
   tags: ["mining"]
   date: 2021-07-07
 - title: "We Hit The Top But This Isnt The End - Ethereum Classic ETC Analysis And Price Prediction."
   author: The Late Adopter
-  authorYoutube: UC2qjX8VEP5cgIimnm43hrjA
+  authorYoutube: channel/UC2qjX8VEP5cgIimnm43hrjA
   tags: ["trading"]
   youtube: IJDdl1QYL8s
   date: 2021-05-08
 - title: "Ethereum Classic - Mantis: IOHK Development Update #11 - March 2021"
   author: IOHK
-  authorYoutube: UCBJ0p9aCW-W82TwNM-z3V2w
+  authorYoutube: channel/UCBJ0p9aCW-W82TwNM-z3V2w
   youtube: wUjtRvj83SI
   tags: ["development"]
   date: 2021-03-15
 - title: "p106 90 3gb mining rig mining ethereum classic ETC"
   author: jtravaglini
-  authorYoutube: UCWZblQkb3VJqsSdzJDQQVqw
+  authorYoutube: channel/UCWZblQkb3VJqsSdzJDQQVqw
   youtube: 4eTUDikXztY
   tags: ["mining"]
   date: 2020-12-01
 - title: "IOHK | Ethereum Classic Summit - Charles Hoskinson Keynote"
   author: IOHK
-  authorYoutube: UCBJ0p9aCW-W82TwNM-z3V2w
+  authorYoutube: channel/UCBJ0p9aCW-W82TwNM-z3V2w
   youtube: ZPlP4YChZC0
   tags: ["explainers"]
   date: 2018-10-15
 - title: "Ethereum Classic Flip Bitcoin? ETC Classic Price Prediction & News Analysis Update"
   author: Dabolt
-  authorYoutube: UCm4NRubG29ZjnGg9JhGI_sg
+  authorYoutube: channel/UCm4NRubG29ZjnGg9JhGI_sg
   tags: ["trading"]
   youtube: wk_EgWb_tII
   date: 2021-05-06
 - title: "When Will The Bleeding End? - Ethereum Classic ETC Analysis And Price Prediction."
   author: The Late Adopter
-  authorYoutube: UC2qjX8VEP5cgIimnm43hrjA
+  authorYoutube: channel/UC2qjX8VEP5cgIimnm43hrjA
   youtube: 1qxKH1m7vE8
   tags: ["trading"]
   date: 2021-05-09
 - title: "Ethereum Classic ETC market commentary October 27th 2021 - It is going to $200 and then $1,000."
   author: Etherplan
   tags: ["trading"]
-  authorYoutube: UC4--zHROGkRT1MadPM4EASA
+  authorYoutube: channel/UC4--zHROGkRT1MadPM4EASA
   youtube: OwUhudI0vmA
   date: 2021-10-27
 - title: "Ethereum Classic (ETC): HYPE or Something More?? 🤔"
@@ -650,7 +656,7 @@
   youtube: 5_WGgiumARc
   tags: ["explainers"]
   author: Coin Bureau
-  authorYoutube: UCqK_GSMbpiV8spgD3ZGloSw
+  authorYoutube: channel/UCqK_GSMbpiV8spgD3ZGloSw
   featured: true
 - title: Ethereum Classic Today? Donald McIntyre Talks ETC Future
   date: 2021-08-26
@@ -658,21 +664,21 @@
   tags: ["discussions", "trading"]
   description: Ethereum Classic Today? Donald McIntyre Talks ETC Future and more.
   author: Mike Tha Investor
-  authorYoutube: UCFP_z9W12Ex9lCw8Zqu04fA
+  authorYoutube: channel/UCFP_z9W12Ex9lCw8Zqu04fA
 - title: What is Ethereum Classic? ETC Explained with Animations
   date: 2021-09-11
   youtube: dmLKnnzqmVU
   tags: ["explainers"]
   description: "Ethereum Classic is the original unchanged Ethereum blockchain, without The DAO’s hacked funds given back to them."
   author: Whiteboard Crypto
-  authorYoutube: UCsYYksPHiGqXHPoHI-fm5sg
+  authorYoutube: channel/UCsYYksPHiGqXHPoHI-fm5sg
 - title: What makes Ethereum Classic valuable? Why should you HODL?
   date: 2017-01-10
   youtube: ZS9mICog9cU
   tags: ["trading"]
   description: "In This Video I go through a look into ethereum classic and explain what makes it valuable and if you should hodl"
   author: Savage Profits
-  authorYoutube: UCn-FM8TsJ0c8kFXYZEI0jmA
+  authorYoutube: channel/UCn-FM8TsJ0c8kFXYZEI0jmA
 - title: "Closing Statements - Day 2"
   date: 2019-10-03
   youtube: qYSjHeX-E98

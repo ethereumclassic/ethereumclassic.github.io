@@ -6,12 +6,12 @@ import Md from "./markdownDynamic";
 import Link from "./link";
 import Icon from "./icon";
 import AppsIcon from "./appsIcon";
+import { Helmet } from "react-helmet";
 
 // LODO i18n
 const checklist = [
   { key: "verifiedContract", text: "Contract" },
   { key: "openSource", text: "Open Source" },
-  { key: "authorLink", text: "Team Site" },
   { key: "audit", text: "Audited" },
   { key: "testSuite", text: "Test Suite" },
   { key: "ipfsFrontend", text: "IPFS Frontend" },
@@ -95,6 +95,9 @@ export default function AppsItemModal({ item, appType, trueCol }) {
   const { image, title, date, authorLink, author, links, description } = item;
   return (
     <div tw="max-w-2xl mx-auto text-shade-light">
+      <Helmet>
+        <title>{title}</title>
+      </Helmet>
       <div tw="pointer-events-auto bg-backdrop-light rounded-xl shadow-lg p-6">
         <div tw="flex space-x-6">
           <AppsIcon
@@ -119,7 +122,7 @@ export default function AppsItemModal({ item, appType, trueCol }) {
               )}
             </div>
             <div tw="mb-3">
-              Added <FormattedDate date={item.date} />
+              Added <FormattedDate date={date} />
             </div>
             <div tw="hidden sm:block">
               <ChecklistSection item={item} />

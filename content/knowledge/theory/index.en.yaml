@@ -69,3 +69,7 @@ items:
         name: Ethereum Classic (ETC) Wiki
         link: https://github.com/ethereumclassic/wiki/wiki
         description: Some core philosophies of Ethereum's ETC chain.
+      Categories of Decentralization:
+        name: Categories of Decentralization
+        link: https://taek.org/posts-categories-of-decentralization
+        description: Five categories intended to provide a robust baseline for reasoning about the trust assumptions made by a platform or protocol, without trying to capture every important detail or provide definite certainty that one protocol is more decentralized than another.

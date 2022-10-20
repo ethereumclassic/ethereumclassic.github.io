@@ -131,6 +131,9 @@ learn:
             2019:
               __link: /videos/etc-summit-2019
               name: 2019 Vancouver
+        other:
+          __link: /videos/other
+          name: Other
     # memes:
     #   __link: /memes
     #   __icon: images

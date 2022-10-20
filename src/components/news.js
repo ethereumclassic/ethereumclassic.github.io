@@ -31,16 +31,14 @@ export default function News({ pageContext, data, i18n }) {
             <Disclaimer type="mini" text="verify" />
           </div>
         </div>
+        <div id="content-top" tw="absolute mt-20" />
         <div tw="md:hidden space-y-1 sm:space-y-3 mt-4">
           <NewsFilters {...{ pageContext, i18n }} inline />
         </div>
         <div tw="sticky z-20 top-14 bg-backdrop-dark mb-4 pt-1 mt-1">
           <Pagination {...{ pageContext }} scrollTo="content-top" />
         </div>
-        <div
-          id="content-top"
-          tw="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 md:gap-3"
-        >
+        <div tw="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 md:gap-3">
           {pageContext.currentPage === 1 && pageContext.filter !== "blog" && (
             <>
               <div tw="lg:hidden col-span-full">

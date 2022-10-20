@@ -191,6 +191,9 @@ items:
       Mixin Messenger:
         __link: https://mixin.one/messenger
         name: Mixin Messenger
+      Now Wallet:
+        __link: https://walletnow.app/
+        name: Now Wallet
       Ownbit:
         __link: https://ownbit.io/
         name: Ownbit
