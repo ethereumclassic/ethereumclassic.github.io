@@ -69,11 +69,20 @@ export default function VideosItem({ item, featured, hash = true, ...rest }) {
           </>
         )}
         <div tw="aspect-w-16 aspect-h-9 w-full overflow-hidden">
-          <GatsbyImage
-            image={getImage(videoImage)}
-            alt={title}
-            tw="w-auto transition-all -mx-px group-hover:scale-110"
-          />
+          {videoImage ? (
+            <GatsbyImage
+              image={getImage(videoImage)}
+              alt={title}
+              tw="w-auto transition-all -mx-px group-hover:scale-110"
+            />
+          ) : (
+            <div tw="flex bg-primary-lighter">
+              <Icon
+                icon="questionMark"
+                tw="m-10 flex-auto text-primary-lightest"
+              />
+            </div>
+          )}
         </div>
         <div tw="px-3 py-2 line-clamp-4 font-medium text-sm">{title}</div>
         <div
