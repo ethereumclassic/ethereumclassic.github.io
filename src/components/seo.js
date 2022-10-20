@@ -66,7 +66,7 @@ export default function Seo({ data, i18n, path, pageContext: { basePath } }) {
   };
   return (
     <>
-      <Helmet title={title}>
+      <Helmet titleTemplate={`%s - ${title}`} defaultTitle={title}>
         {/* favicon, with fallback */}
         <link
           rel="icon"

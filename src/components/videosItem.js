@@ -9,6 +9,7 @@ import Md from "./markdownDynamic";
 import VideoFrame from "./videoFrame";
 import Link from "./link";
 import TwContainer from "./twContainer";
+import { Helmet } from "react-helmet";
 
 export default function VideosItem({ item, featured, hash = true, ...rest }) {
   const {
@@ -28,6 +29,9 @@ export default function VideosItem({ item, featured, hash = true, ...rest }) {
         cinema
         content={
           <TwContainer>
+            <Helmet>
+              <title>{title}</title>
+            </Helmet>
             <div tw="pointer-events-auto">
               <VideoFrame youtube={youtube} autoplay />
               <div tw="space-y-4 mt-4">
@@ -73,7 +77,7 @@ export default function VideosItem({ item, featured, hash = true, ...rest }) {
             <GatsbyImage
               image={getImage(videoImage)}
               alt={title}
-              tw="w-auto transition-all -mx-px group-hover:scale-110"
+              tw="w-auto transition-all -mx-0.5 group-hover:scale-110"
             />
           ) : (
             <div tw="flex bg-primary-lighter">
