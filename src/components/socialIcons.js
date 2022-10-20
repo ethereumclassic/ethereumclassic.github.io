@@ -14,9 +14,8 @@ export default function SocialIcons() {
       <div tw="text-xs font-bold text-secondary-neutral">{socialHilight}</div>
       <div tw="flex space-x-4">
         {socialItems.map(({ key, name, icon, link, hilight }) => (
-          <div className="group" tw="relative">
+          <div className="group" tw="relative" key={key}>
             <a
-              key={key}
               target="_blank"
               rel="noreferrer"
               href={link}
@@ -37,9 +36,7 @@ export default function SocialIcons() {
                 <Icon icon={icon} tw="h-6" />
               </div>
             </a>
-            <Tooltip>
-              {name}
-            </Tooltip>
+            <Tooltip>{name}</Tooltip>
           </div>
         ))}
       </div>
