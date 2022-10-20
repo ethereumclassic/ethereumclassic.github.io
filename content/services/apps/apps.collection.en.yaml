@@ -553,17 +553,6 @@
   links:
     - name: Launch App
       link: https://ipfs.io/ipfs/QmVWD1sHPrKMmKcWoSPHGTfDpgaa8N4y6arftpFCnpJWcg
-- title: NFTCREED
-  date: 2022-01-04
-  type: nfts
-  image: ./images/nftcreed.png
-  description: Create, Buy, Sell and Gamify NFTs
-  links:
-    - name: Launch App
-      link: https://nftcreed.io/
-    - name: Twitter
-      link: https://nitter.42l.fr/nftcreed_
-      icon: twitter
 - title: ETCBayc
   date: 2022-01-01
   type: nfts
@@ -654,13 +643,6 @@
   date: 2020-02-11
   type: games
   description: In this game you take care about whale. Fish lives in a protected area with other endangered species. Player is supposed to feed the whale using plankton in order to let it grow. Whale also produces oil as it consumes plankton. Oil and whale meat slices are requested at the Port, where they also supply plankton for feeding. Relax by watching fish in the aquarium grow
-- title: Commonwealth Tribes
-  date: 2020-05-01
-  type: games
-  description: The purpose of Tribes is to reduce risk in investing in Commonwealth. Invest as a tribe!
-  links:
-    - name: Homepage
-      link: https://commonwealth.gg/tribes.html
 - title: OriginalMy
   date: 2020-02-11
   type: identity
@@ -699,20 +681,6 @@
   links:
     - name: Homepage
       link: https://docs.tokenbridge.net/
-- title: Celsius Network
-  date: 2020-06-25
-  type: finance
-  description: Celsius Network, the industry-leading cryptocurrency interest-earning platform, allows ETC holders to deposit their digital assets into the Celsius wallet and earn interests.
-  links:
-    - name: Homepage
-      link: https://celsius.network/
-- title: Commonwealth
-  date: 2020-05-01
-  type: finance
-  description: The World’s Savings Fund. Immutable. Built 2018.
-  links:
-    - name: Homepage
-      link: https://commonwealth.gg
 - title: GitCoin
   date: 2020-02-11
   type: finance
