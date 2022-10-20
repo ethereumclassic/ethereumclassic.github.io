@@ -1,0 +1,17 @@
+title: Answers for Users
+description: Hello, I'm a user and need some help.
+items:
+  questions:
+    __type: questions
+    items:
+      what:
+        question: What?
+        answer: No!
+      wallets:
+        question: What if I have a really really really really long question?
+        answer: |
+          Answer goes here.
+      wallets2:
+        question: What if I have a really reallyreally reallyreally reallyreally reallyreally reallyreally reallyreally reallyreally reallyreally really really really long question?
+        answer: |
+          Another answer goes here...

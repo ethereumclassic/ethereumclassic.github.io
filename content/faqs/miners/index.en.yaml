@@ -1,0 +1,17 @@
+title: Answers for Miners
+description: Hello, I'm a user and need some help.
+items:
+  questions:
+    __type: questions
+    items:
+      what:
+        question: What?
+        answer: No!
+      wallets:
+        question: What if I have a really really really really long question?
+        answer: |
+          Hello friend.
+      wallets2:
+        question: What if I have a really reallyreally reallyreally reallyreally reallyreally reallyreally reallyreally reallyreally reallyreally really really really long question?
+        answer: |
+          Hello friend.

@@ -35,6 +35,7 @@ export {
   faVideo as video,
   faBalanceScale as law,
   faUsers as users,
+  faUser as user,
   faCalendar as calendar,
   faTag as tag,
   faMoon as moon,

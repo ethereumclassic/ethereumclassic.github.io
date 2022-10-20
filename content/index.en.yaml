@@ -19,6 +19,14 @@ billboard:
     Code is Law: "Code is Law"
     Classic: "Classic"
     Permisionless: "Permissionless"
+## feature
+feature:
+  __icon: question
+  title: FAQs
+  subtitle: New Section
+  text: Quickly find the answers you are looking for by navigating Frequntly Asked Questions organized by use case.
+  button: Questions Answered
+## intro
 intro:
   title: Build Unstoppable Applications
   content: |
@@ -31,7 +39,7 @@ intro:
     Welcome, and please be invited to discover the past, present and future of Ethereum Classic; it's principles, value proposition, community, and more - to understand *why Classic*.
   button:
     __link: /why-classic
-    text: Let's Go
+    text: Why Classic?
 # list of contributors that contributed to general web maintenance that is not page specific
 contributors:
   - flotob
