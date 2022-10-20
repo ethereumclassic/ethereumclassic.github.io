@@ -8,6 +8,7 @@ import { InstantSearch, connectSearchBox } from "react-instantsearch-dom";
 import Icon from "./icon";
 import Fader from "./fader";
 import SearchResults from "./searchAlgoliaResults";
+import Link from "./link";
 // import isSSR from "../utils/isSSR";
 
 const algoliaAppId = process.env.ALGOLIA_APP_ID;
@@ -54,7 +55,8 @@ export default function SearchAgolia({ inline }) {
   }, []);
   const search = {
     search(requests) {
-      if (requests[0].params.query === "") {
+      const thisQuery = requests[0].params.query;
+      if (thisQuery === "" || thisQuery.startsWith("0x")) {
         return;
       }
       return aSearch.current.search(requests);
@@ -69,6 +71,7 @@ export default function SearchAgolia({ inline }) {
       searching: searching || !!o.searching,
     };
   }, {});
+  const explorerHint = query?.startsWith("0x");
   return (
     <div
       tw="w-full"
@@ -101,16 +104,41 @@ export default function SearchAgolia({ inline }) {
           <div tw="absolute p-2 transition transform origin-top-right backdrop-blur-xl bottom-0 top-14 right-0 left-0 h-screen">
             <div tw="md:max-w-2xl bg-backdrop-light mx-auto shadow-2xl rounded-2xl overflow-hidden">
               <div tw="overflow-y-auto divide-y divide-solid divide-shade-lightest max-h-[40vh] md:max-h-[70vh]">
-                {show && (
-                  <SearchResults setResultsCount={setResults} info={info} />
+                {explorerHint ? (
+                  <div tw="prose text-center m-8 space-y-8">
+                    <div>
+                      Looks you have entered an Ethereum Classic address.
+                    </div>
+                    <Link
+                      iconLeft="search"
+                      button
+                      big
+                      primary
+                      to={`https://blockscout.com/etc/mainnet/search-results?q=${query}`}
+                    >
+                      Search Blockscout Explorer for {query.slice(0, 7)}...
+                    </Link>
+                    <div>
+                      ...or check out some other{" "}
+                      <Link to="/network/explorers">blockchain explorers</Link>.
+                    </div>
+                  </div>
+                ) : (
+                  <>
+                    {show && (
+                      <SearchResults setResultsCount={setResults} info={info} />
+                    )}
+                  </>
                 )}
               </div>
-              <div tw="flex items-center text-sm text-shade-neutral bg-shade-lightest py-1 px-4">
-                <div tw="flex-auto">
-                  {!!info.count && `${info.count} Results`}
+              {!explorerHint && (
+                <div tw="flex items-center text-sm text-shade-neutral bg-shade-lightest py-1 px-4">
+                  <div tw="flex-auto">
+                    {!!info.count && `${info.count} Results`}
+                  </div>
+                  <PoweredBy />
                 </div>
-                <PoweredBy />
-              </div>
+              )}
             </div>
           </div>
         </Fader>
