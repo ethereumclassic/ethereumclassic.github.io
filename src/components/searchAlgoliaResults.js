@@ -1,11 +1,20 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import "twin.macro";
-import { connectStateResults } from "react-instantsearch-dom";
-import { Index } from "react-instantsearch-dom";
+import {
+  connectStateResults,
+  connectPoweredBy,
+  Index,
+} from "react-instantsearch-dom";
 
 import { useLocalization } from "../../plugins/translations-plugin/src/components/localizationProvider";
 import Icon from "./icon";
 import ResultsItems from "./searchAlgoliaResultsItem";
+
+const PoweredBy = connectPoweredBy(({ url }) => (
+  <a href={url} target="_blank" rel="noreferrer">
+    Powered by Algolia
+  </a>
+));
 
 const ResultsBlock = connectStateResults(
   ({
@@ -52,16 +61,26 @@ const ResultsBlock = connectStateResults(
   }
 );
 
-export default function SearchResults({
-  setResultsCount,
-  info: { count, searching },
-}) {
+export default function SearchResults() {
   const {
     locale,
     globals: {
       ui: { htmlLang },
     },
   } = useLocalization();
+
+  const [results, setResults] = useState({});
+
+  function setResultsCount(title, count, searching) {
+    setResults((state) => ({ ...state, [title]: { count, searching } }));
+  }
+  const { count, searching } = Object.keys(results || {}).reduce((o, k) => {
+    return {
+      ...o,
+      count: (o.count || 0) + results[k].count || 0,
+      searching: results[k].searching || !!o.searching,
+    };
+  }, {});
   return (
     <>
       {(searching || (!count && count !== 0)) && (
@@ -75,47 +94,53 @@ export default function SearchResults({
           <div>No Results...</div>
         </div>
       )}
-      <ResultsBlock
-        setResultsCount={setResultsCount}
-        lang={htmlLang}
-        locale={locale}
-        title="General"
-        categories={{
-          general: {
-            title: "General Information",
-            icon: "book",
-          },
-          blog: { title: "Blog Articles", icon: "blog" },
-        }}
-      />
-      <Index indexName="videos">
+      <div tw="overflow-y-auto divide-y divide-solid divide-shade-lightest max-h-[40vh] md:max-h-[70vh]">
         <ResultsBlock
           setResultsCount={setResultsCount}
           lang={htmlLang}
           locale={locale}
-          title="Videos"
-          icon="video"
+          title="General"
+          categories={{
+            general: {
+              title: "General Information",
+              icon: "book",
+            },
+            blog: { title: "Blog Articles", icon: "blog" },
+          }}
         />
-      </Index>
-      <Index indexName="applications">
-        <ResultsBlock
-          setResultsCount={setResultsCount}
-          lang={htmlLang}
-          locale={locale}
-          title="Apps"
-          icon="cursor"
-        />
-      </Index>
-      <Index indexName="newsLinks">
-        <ResultsBlock
-          setResultsCount={setResultsCount}
-          lang={htmlLang}
-          locale={locale}
-          title="News Links"
-          icon="news"
-          external
-        />
-      </Index>
+        <Index indexName="videos">
+          <ResultsBlock
+            setResultsCount={setResultsCount}
+            lang={htmlLang}
+            locale={locale}
+            title="Videos"
+            icon="video"
+          />
+        </Index>
+        <Index indexName="applications">
+          <ResultsBlock
+            setResultsCount={setResultsCount}
+            lang={htmlLang}
+            locale={locale}
+            title="Apps"
+            icon="cursor"
+          />
+        </Index>
+        <Index indexName="newsLinks">
+          <ResultsBlock
+            setResultsCount={setResultsCount}
+            lang={htmlLang}
+            locale={locale}
+            title="News Links"
+            icon="news"
+            external
+          />
+        </Index>
+      </div>
+      <div tw="flex items-center text-sm text-shade-neutral bg-shade-lightest py-1 px-4">
+        <div tw="flex-auto">{!searching && !!count && `${count} Results`}</div>
+        <PoweredBy />
+      </div>
     </>
   );
 }
