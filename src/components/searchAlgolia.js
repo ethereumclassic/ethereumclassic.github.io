@@ -62,7 +62,9 @@ export default function SearchAgolia({ inline }) {
       return aSearch.current.search(requests);
     },
   };
-  const show = !!(focused && query);
+  const showModal = !!(focused && query);
+  const explorerHint = query?.startsWith("0x");
+  const showResults = showModal && !explorerHint;
   const info = Object.keys(resultsCount[query] || {}).reduce((o, k) => {
     const { count, searching } = resultsCount[query][k];
     return {
@@ -71,7 +73,6 @@ export default function SearchAgolia({ inline }) {
       searching: searching || !!o.searching,
     };
   }, {});
-  const explorerHint = query?.startsWith("0x");
   return (
     <div
       tw="w-full"
@@ -100,7 +101,7 @@ export default function SearchAgolia({ inline }) {
           </div>
           <SearchBox inline={inline} />
         </div>
-        <Fader show={show}>
+        <Fader show={showModal}>
           <div tw="absolute p-2 transition transform origin-top-right backdrop-blur-xl bottom-0 top-14 right-0 left-0 h-screen">
             <div tw="md:max-w-2xl bg-backdrop-light mx-auto shadow-2xl rounded-2xl overflow-hidden">
               <div tw="overflow-y-auto divide-y divide-solid divide-shade-lightest max-h-[40vh] md:max-h-[70vh]">
@@ -125,7 +126,7 @@ export default function SearchAgolia({ inline }) {
                   </div>
                 ) : (
                   <>
-                    {show && (
+                    {showResults && (
                       <SearchResults setResultsCount={setResults} info={info} />
                     )}
                   </>
