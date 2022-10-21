@@ -2,7 +2,6 @@ import React, { useEffect, useRef, useState } from "react";
 import tw from "twin.macro";
 import algoliasearch from "algoliasearch/lite";
 import { useDebounce } from "rooks";
-import { connectPoweredBy } from "react-instantsearch-dom";
 import { InstantSearch, connectSearchBox } from "react-instantsearch-dom";
 
 import Icon from "./icon";
@@ -31,24 +30,9 @@ const SearchBox = connectSearchBox(({ refine }) => {
   );
 });
 
-const PoweredBy = connectPoweredBy(({ url }) => (
-  <a href={url} target="_blank" rel="noreferrer">
-    Powered by Algolia
-  </a>
-));
-
 export default function SearchAgolia({ inline }) {
   const [focused, setFocus] = useState(false);
   const [query, setQuery] = useState("");
-  const [resultsCount, setResultsCount] = useState({});
-  function setResults(title, count, searching) {
-    setResultsCount({
-      [query]: {
-        ...resultsCount[query],
-        [title]: { count, searching },
-      },
-    });
-  }
   const aSearch = useRef(null);
   useEffect(() => {
     aSearch.current = algoliasearch(algoliaAppId, algoliaApiKey);
@@ -62,16 +46,9 @@ export default function SearchAgolia({ inline }) {
       return aSearch.current.search(requests);
     },
   };
-  const show = !!(focused && query);
-  const info = Object.keys(resultsCount[query] || {}).reduce((o, k) => {
-    const { count, searching } = resultsCount[query][k];
-    return {
-      ...o,
-      count: (o.count || 0) + count,
-      searching: searching || !!o.searching,
-    };
-  }, {});
+  const showModal = !!(focused && query);
   const explorerHint = query?.startsWith("0x");
+  const showResults = showModal && !explorerHint;
   return (
     <div
       tw="w-full"
@@ -100,45 +77,28 @@ export default function SearchAgolia({ inline }) {
           </div>
           <SearchBox inline={inline} />
         </div>
-        <Fader show={show}>
+        <Fader show={showModal}>
           <div tw="absolute p-2 transition transform origin-top-right backdrop-blur-xl bottom-0 top-14 right-0 left-0 h-screen">
             <div tw="md:max-w-2xl bg-backdrop-light mx-auto shadow-2xl rounded-2xl overflow-hidden">
-              <div tw="overflow-y-auto divide-y divide-solid divide-shade-lightest max-h-[40vh] md:max-h-[70vh]">
-                {explorerHint ? (
-                  <div tw="prose text-center m-8 space-y-8">
-                    <div>
-                      Looks you have entered an Ethereum Classic address.
-                    </div>
-                    <Link
-                      iconLeft="search"
-                      button
-                      big
-                      primary
-                      to={`https://blockscout.com/etc/mainnet/search-results?q=${query}`}
-                    >
-                      Search Blockscout Explorer for {query.slice(0, 7)}...
-                    </Link>
-                    <div>
-                      ...or check out some other{" "}
-                      <Link to="/network/explorers">blockchain explorers</Link>.
-                    </div>
+              {explorerHint && (
+                <div tw="prose text-center m-8 space-y-8">
+                  <div>Looks you have entered an Ethereum Classic address.</div>
+                  <Link
+                    iconLeft="search"
+                    button
+                    big
+                    primary
+                    to={`https://blockscout.com/etc/mainnet/search-results?q=${query}`}
+                  >
+                    Search Blockscout Explorer for {query.slice(0, 7)}...
+                  </Link>
+                  <div>
+                    ...or check out some other{" "}
+                    <Link to="/network/explorers">blockchain explorers</Link>.
                   </div>
-                ) : (
-                  <>
-                    {show && (
-                      <SearchResults setResultsCount={setResults} info={info} />
-                    )}
-                  </>
-                )}
-              </div>
-              {!explorerHint && (
-                <div tw="flex items-center text-sm text-shade-neutral bg-shade-lightest py-1 px-4">
-                  <div tw="flex-auto">
-                    {!!info.count && `${info.count} Results`}
-                  </div>
-                  <PoweredBy />
                 </div>
               )}
+              {showResults && <SearchResults />}
             </div>
           </div>
         </Fader>
