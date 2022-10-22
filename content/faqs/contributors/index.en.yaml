@@ -1,17 +1,41 @@
-title: Answers for Contributors
-description: Hello, I'm a user and need some help.
+title: Contributor FAQs
+seo: TODO
+info: Can't find an answer to your question here? Try asking in the ETC community [discord](https://ethereumclassic.org/discord) server. Specifically, you may find the ETC Discord's `#trading` channel of interest.
+contribute: true
 items:
   questions:
     __type: questions
     items:
-      what:
-        question: What?
+      developer:
+        question: Do I need to be a developer to contribute to Ethereum Classic?
         answer: No!
-      wallets:
-        question: What if I have a really really really really long question?
-        answer: |
-          Hello friend.
-      wallets2:
-        question: What if I have a really reallyreally reallyreally reallyreally reallyreally reallyreally reallyreally reallyreally reallyreally really really really long question?
-        answer: |
-          Hello friend.
+      how:
+        question: How can I contribute to ETC?
+        answer: No!
+      channels:
+        question: How can I join the ETC community?
+        answer: No!
+      tasks:
+        question: What tasks can I help with?
+        answer: No!
+      where:
+        question: Where do Ethereum Classic supporters mostly hang out?
+        answer: No!
+      ecips:
+        question: How can I suggest improvements to Ethereum Classic?
+        answer: No!
+      toxicity:
+        question: I heard that the ETC community is toxic. Is that true?
+        answer: No!
+      events:
+        question: Are there any Ethereum Classic events?
+        answer: No!
+      website:
+        question: How can I add my App, Video or Article to to this website?
+        answer: No!
+      tweets:
+        question: How can I suggest tweets?
+        answer: Hashtag `#ETCtweets`
+      grants:
+        question: Can I get paid a grant to contribute to Ethereum Classic?
+        answer: Maybe.

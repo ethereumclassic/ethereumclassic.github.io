@@ -21,8 +21,8 @@ export default function GenericLinks({ items }) {
                   </div>
                   <div>{question}</div>
                 </Disclosure.Button>
-                <Disclosure.Panel tw="mt-5">
-                  <Md unwrap>{answer}</Md>
+                <Disclosure.Panel>
+                  <Md tw="-mb-5">{answer}</Md>
                 </Disclosure.Panel>
               </>
             )}

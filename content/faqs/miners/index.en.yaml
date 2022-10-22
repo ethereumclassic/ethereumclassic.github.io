@@ -1,17 +1,39 @@
-title: Answers for Miners
-description: Hello, I'm a user and need some help.
+title: Miner FAQs
+seo: TODO
+info: Can't find an answer to your question here? Try asking in the ETC community [discord](https://ethereumclassic.org/discord) server. Specifically, you may find the ETC Discord's `#trading` channel of interest.
+description: Are you a miner or interested in learning how to mine ETC? This page is for you.
+contribute: true
 items:
   questions:
     __type: questions
     items:
-      what:
-        question: What?
+      schedule:
+        question: Is it profitable to mine ETC?
+        answer: No! Talk about mining pools.
+      hardware:
+        question: What hardware do I need to mine ETC?
         answer: No!
-      wallets:
-        question: What if I have a really really really really long question?
-        answer: |
-          Hello friend.
-      wallets2:
-        question: What if I have a really reallyreally reallyreally reallyreally reallyreally reallyreally reallyreally reallyreally reallyreally really really really long question?
-        answer: |
-          Hello friend.
+      software:
+        question: What software can I use to mine ETC?
+        answer: No!
+      pools:
+        question: Which mining pools support ETC?
+        answer: No!
+      ethash:
+        question: What is ETC's mining algorithm?
+        answer: No!
+      emission:
+        question: What is the ETC block reward?
+        answer: No!
+      asics:
+        question: Is Ethereum Classic's mining algorithm ASIC resitant?
+        answer: No!
+      rewards:
+        question: What percentage of ETC's block reward goes to miners?
+        answer: No!
+      sha3:
+        question: Is Ethereum Classic is switching it's mining algorithm to SHA3?
+        answer: No!
+      pos:
+        question: Will ETC switch to Proof of Stake in the future?
+        answer: No!

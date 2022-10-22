@@ -1,5 +1,5 @@
 ---
-title: FAQs
+title: Frequently Asked Questions
 seo: User guides covering the basics of how to interact with Ethereum Classic, and development tutorials for decentralized application creators.
 ---
 

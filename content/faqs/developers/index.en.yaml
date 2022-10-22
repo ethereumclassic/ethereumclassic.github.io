@@ -1,17 +1,29 @@
-title: Answers for Developers
-description: Hello, I'm a user and need some help.
+title: Developer FAQs
+seo: TODO
+info: Can't find an answer to your question here? Try asking in the ETC community [discord](https://ethereumclassic.org/discord) server. Specifically, you may find the ETC Discord's `#trading` channel of interest.
+contribute: true
 items:
   questions:
     __type: questions
     items:
-      what:
-        question: What?
+      types:
+        question: What kind of applications can I build on ETC?
+        answer: No! Immutability.
+      eth:
+        question: What's the difference between ETH and ETC when writing applications?
         answer: No!
-      wallets:
-        question: What if I have a really really really really long question?
-        answer: |
-          Hello friend.
-      wallets2:
-        question: What if I have a really reallyreally reallyreally reallyreally reallyreally reallyreally reallyreally reallyreally reallyreally really really really long question?
-        answer: |
-          Hello friend.
+      development:
+        question: How can I develop applications for Ethereum Classic?
+        answer: No! Solidity.
+      deployment:
+        question: How do I deploy to the Ethereum Classic blockchain?
+        answer: No!
+      rpc:
+        question: Are there public RPC endpoints I can use to deploy to ETC?
+        answer: No!
+      contracts:
+        question: How are contracts on ETC different to ETH?
+        answer: They are the same.
+      grants:
+        question: How can I get funding to build on Ethereum Classic?
+        answer: Maybe.

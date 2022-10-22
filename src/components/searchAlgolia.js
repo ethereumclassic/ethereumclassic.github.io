@@ -82,7 +82,10 @@ export default function SearchAgolia({ inline }) {
             <div tw="md:max-w-2xl bg-backdrop-light mx-auto shadow-2xl rounded-2xl overflow-hidden">
               {explorerHint && (
                 <div tw="prose text-center m-8 space-y-8">
-                  <div>Looks you have entered an Ethereum Classic address.</div>
+                  <div>
+                    Looks you have entered an Ethereum Classic address or
+                    transaction.
+                  </div>
                   <Link
                     iconLeft="search"
                     button

@@ -1,17 +1,60 @@
-title: Answers for Users
-description: Hello, I'm a user and need some help.
+title: User FAQs
+seo: TODO
+info: Can't find an answer to your question here? Try asking in the ETC community [discord](https://ethereumclassic.org/discord) server.
+contribute: true
+description: If you'd like to send and receive ETC, use one of the applications deployed to Ethereum Classic, or are worried about how to use it safely, this page is for you.
 items:
   questions:
     __type: questions
     items:
-      what:
-        question: What?
-        answer: No!
+      comparison:
+        question: Can I use Ethereum Classic (ETC) in the same way as Ethereum (ETH)?
+        answer: |
+          Yes. 
+          A small, but growing decentralized finance ecosystem exists on Ethereum Classic.
       wallets:
-        question: What if I have a really really really really long question?
+        question: Which wallet do you recommend I use with Ethereum Classic?
+        answer: |
+          It depends
+      metmask:
+        question: How do I use ETC with MetaMask?
+        answer: |
+          You can either manually add MetaMask. You can also find RPC endpoints ...
+      apps:
+        question: What apps are running on the Ethereum Classic network?
         answer: |
           Answer goes here.
-      wallets2:
-        question: What if I have a really reallyreally reallyreally reallyreally reallyreally reallyreally reallyreally reallyreally reallyreally really really really long question?
+      defi:
+        question: Does Ethereum Classic have DeFi?
         answer: |
-          Another answer goes here...
+          Yes. A small, but growing decentralized finance ecosystem exists on Ethereum Classic.
+      explorers:
+        question: How can I view my Ethereum Classic transactions?
+        answer: |
+          Block Explorers
+      exchange:
+        question: How can I get ETC?
+        answer: |
+          Answer goes here.
+      staking:
+        question: Can I stake my ETC?
+        answer: |
+          No, at least not as you would on a Proof of Stake blockchain.
+
+          There may be lending protocols that allow you to loan out your ETC for a yeild, but this is not part of the Ethereum Clasic protocol itself. ETC is a Proof of Work blockchain, so you can only mine, not stake, to provide security to the network.
+      safety:
+        question: I heard that Ethereum Classic was 51% attacked. Is it safe to use?
+        answer: |
+          Yes. A small, but growing decentralized finance ecosystem exists on Ethereum Classic.
+      others:
+        question: Why should I use Ethereum Classic over other blockchains?
+        answer: |
+          Yes. A small, but growing decentralized finance ecosystem exists on Ethereum Classic.
+      deposit:
+        question: Why does it take so long to deposit ETC?
+        answer: |
+          Yes. A small, but growing decentralized finance ecosystem exists on Ethereum Classic.
+      learn:
+        question: Where can I learn more about Ethereum Classic?
+        answer: |
+          Yes. A small, but growing decentralized finance ecosystem exists on Ethereum Classic.

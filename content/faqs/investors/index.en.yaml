@@ -1,17 +1,32 @@
-title: Answers for Investors
-description: Hello, I'm a user and need some help.
+title: Investor FAQs
+seo: TODO
+info: Can't find an answer to your question here? Try asking in the ETC community [discord](https://ethereumclassic.org/discord) server. Specifically, you may find the ETC Discord's `#trading` channel of interest.
+contribute: true
 items:
   questions:
     __type: questions
     items:
-      what:
-        question: What?
+      elevator:
+        question: What's the elevator pitch for Ethereum Classic?
         answer: No!
-      wallets:
-        question: What if I have a really really really really long question?
-        answer: |
-          Hello friend.
-      wallets2:
-        question: What if I have a really reallyreally reallyreally reallyreally reallyreally reallyreally reallyreally reallyreally reallyreally really really really long question?
-        answer: |
-          Hello friend.
+      trade:
+        question: Where can I buy and trade ETC?
+        answer: No!
+      valueProp:
+        question: What is special about Ethereum Classic's value proposition?
+        answer: No!
+      policy:
+        question: What is ETC's monetary policy?
+        answer: No!
+      profit:
+        question: Will I make a profit if I purchase ETC?
+        answer: There is no guaruntee.
+      upside:
+        question: What is the upside potential of Ethereum Classic?
+        answer: No!
+      dead:
+        question: I heard that ETC is a dead chain. Is that true?
+        answer: No!
+      codeIsLaw:
+        question: Why should I care about a blockchain project's philosophy when I consider what to invest in?
+        answer: No!
