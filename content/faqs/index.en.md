@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-seo: User guides covering the basics of how to interact with Ethereum Classic, and development tutorials for decentralized application creators.
+seo: TODO
 ---
 
 Looking for answers about Ethereum Classic? You have come to the right place.
