@@ -8,22 +8,37 @@ items:
     items:
       types:
         question: What kind of applications can I build on ETC?
-        answer: No! Immutability.
+        answer: |
+          Any kind of smart contract system; from Multisigs, to DeFi, to NFTs, to wherever your dreams can take you, can be deployed to ETC. Any application that can be deployed to Ethereum can also be deployed to Ethereum Classic.
+
+          Some other chains have a history of censoring certain applications and transactions, so if you want to ensure your application runs exactly as programmed without downtime, censorship or third party interference, then consider deploying to Ethereum Classic!
+
+          For some examples of apps that have been deployed to Ethereum Classic, check out the [apps](/services/apps) section.
       eth:
         question: What's the difference between ETH and ETC when writing applications?
-        answer: No!
+        answer: |
+          There is no difference when writing contracts; you can use the same developer tools and programming language (notably, Solidity) that you would with Ethereum.
+
+          The main difference with Ethereum is that ETC has a different app ecosystem, so the existing deployed contracts you can directly interact with are different. If you need to plug in to an existing asset on Ethereum, you could use a wrapped asset, [cross-chain bridges](/services/apps/interoperability), or you could even consider deploying your own version of these assets.
       development:
         question: How can I develop applications for Ethereum Classic?
-        answer: No! Solidity.
+        answer: |
+          Check out the [development guides](/guides/development) section, as well as the [development](/development) section for tutorials and tools to help you deploy to Classic.
       deployment:
         question: How do I deploy to the Ethereum Classic blockchain?
-        answer: No!
+        answer: |
+          First, acquire some ETC to pay for the gas to deploy your contract, then simply ensure you deploy to to the Ethereum Classic network (Chain ID 61), rather than the Ethereum network (Chain ID 1).
       rpc:
         question: Are there public RPC endpoints I can use to deploy to ETC?
-        answer: No!
-      contracts:
-        question: How are contracts on ETC different to ETH?
-        answer: They are the same.
+        answer: |
+          Yes. If you don't want to sync run your own Ethereum Classic node, there are a number of public endpoints available that are free to use.
+
+          Check out the [RPC Endpoints](/network/endpoints) section, as well as [ChainList.org](https://chainlist.org/en/chain/61).
       grants:
-        question: How can I get funding to build on Ethereum Classic?
-        answer: Maybe.
+        question: Can I get funding to build on Ethereum Classic?
+        answer: |
+          As Ethereum Classic has no centralized treasury, all development is necessarily either self-funded or via third party funding. In the past various third parties operated grants programs, and [ETC Cooperative](https://etccooperative.org/) has announced that it will launch a new grants program soon.
+      ecips:
+        question: How can I help with development of Ethereum Classic protocol?
+        answer: |
+          You can submit proposals for protocol upgrades through the [ECIP](/development/ecips) process. You can help maintain client codebases by visiting the github repositories of the [clients](/development/clients) you'd like to help with.
