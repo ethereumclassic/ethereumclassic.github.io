@@ -8,34 +8,34 @@ items:
     items:
       developer:
         question: Do I need to be a developer to contribute to Ethereum Classic?
-        answer: No!
-      how:
-        question: How can I contribute to ETC?
-        answer: No!
+        answer: No. While developers provide critical value in building infrastrucutre, an arguably more important role is played by non-developers, who help in other ways, by coordinating and helping to spread the word of Ethereum Classic, in turn recruiting developers and other recruiters.
       channels:
         question: How can I join the ETC community?
-        answer: No!
+        answer: You don't need to ask for permission to join. Just start contributing!
       tasks:
         question: What tasks can I help with?
-        answer: No!
+        answer: A list of things that need doing is maintained in the [Ethereum Classic Volunteer GitHub repository](https://github.com/ethereumclassic/volunteer).
       where:
         question: Where do Ethereum Classic supporters mostly hang out?
-        answer: No!
+        answer: The english speaking ETC communiuty is mostly active on [Discord](https://ethereumclassic.org/discord). You can find other community forums, including those in other languages, in the [Social Channels](/community/channels) section.
       ecips:
         question: How can I suggest improvements to Ethereum Classic?
-        answer: No!
+        answer: To suggest protocol upgrades, you can use the Ethereum Classic Improvement Proposal process, but it's worth brainstorming with other community members in one of the ETC [Social Channels](/community/channels) first.
       toxicity:
         question: I heard that the ETC community is toxic. Is that true?
-        answer: No!
+        answer: |
+          Because nobody needs permission to be part of the ETC community, it attracts all kinds of characters, from nice to, on occasion, less nice. 
+
+          If you'd prefer a more moderated experience, try the [ETC Coop Discord](https://discord.gg/5wDyd6u6pU), which enforces stricter rules around politeness of interpersonal communication.
       events:
         question: Are there any Ethereum Classic events?
-        answer: No!
+        answer: Yes. You can find out more about present, past and future events in the events section.
       website:
         question: How can I add my App, Video or Article to to this website?
-        answer: No!
+        answer: Please check out this website's [GitHub repository](https://github.com/ethereumclassic/ethereumclassic.github.io) for instructions.
       tweets:
         question: How can I suggest tweets?
-        answer: Hashtag `#ETCtweets`
+        answer: The [`@eth_classic`](https://github.com/ethereumclassic/tweets-eth_classic) and [`@ETH_Network`](https://github.com/ethereumclassic/tweets-etc_network) Twitter accounts accept community suggested tweets. Simply tweet your suggested tweet with the hashtage `#ETCtweets`, and it will be reviewed by the community in the `#ETCTweets` Discord thread.
       grants:
         question: Can I get paid a grant to contribute to Ethereum Classic?
-        answer: Maybe.
+        answer: Other than a warm fuzzy feeling of wellbeing, not really.
