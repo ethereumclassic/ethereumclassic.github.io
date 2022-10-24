@@ -39,7 +39,7 @@ items:
         __guide: https://etclabscore.github.io/core-geth/getting-started/installation/
         __release: https://github.com/etclabscore/core-geth/releases
         __support: https://discord.gg/xQY3MTUTYd
-        __supportIcon: fab fa-discord
+        __supportIcon: discord
         name: CoreGeth
         description: A highly configurable Go implementation of the Ethereum protocol. This client is Long Term Supported by the ETC Cooperative development team. This is a recommended client from a well-known transparent team.
       Hyperledger Besu:
@@ -47,7 +47,7 @@ items:
         __guide: https://besu.hyperledger.org/en/stable/HowTo/Get-Started/Install-Binaries/
         __release: https://github.com/hyperledger/besu/releases
         __support: https://discord.gg/xQY3MTUTYd
-        __supportIcon: fab fa-discord
+        __supportIcon: discord
         name: Hyperledger Besu
         description: An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client. This client is Long Term Supported by the ETC Cooperative teams. This is a recommended client from a well-known transparent team.
       # Mantis:

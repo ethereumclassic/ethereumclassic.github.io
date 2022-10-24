@@ -29,7 +29,7 @@ items:
     columnItems:
       name:
         name: Service
-        linkRef: link
+        __linkRef: link
       rpcUrl:
         name: RPC URL
     items:

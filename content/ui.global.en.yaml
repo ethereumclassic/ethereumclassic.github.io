@@ -43,6 +43,7 @@ allLanguages: All Languages
 ##
 noResults: No Results
 ##
+## Announcement Banner
 announcement:
   __color: green
   __enabled: false

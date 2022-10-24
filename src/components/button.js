@@ -7,6 +7,7 @@ export default function Button({
   icon,
   primary,
   secondary,
+  transparent,
   children,
   big,
   round,
@@ -23,6 +24,8 @@ export default function Button({
           tw`!text-shade-lightest bg-secondary-dark hover:bg-secondary-darker focus:ring-secondary-neutral`,
         secondary &&
           tw`!text-secondary-darker bg-secondary-lightest hover:bg-secondary-lighter focus:ring-secondary-neutral`,
+        transparent &&
+          tw`!text-shade-darker border-shade-lighter bg-transparent py-3 hover:bg-backdrop-light focus:ring-shade-neutral`,
         big && tw`!text-lg m-1 shadow-lg hover:scale-110`,
         round ? tw`rounded-full p-2` : tw`rounded-md`,
       ]}

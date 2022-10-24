@@ -2,6 +2,42 @@ learn:
   __showNextNav: true
   name: Learn
   navItems:
+    faqs:
+      __link: /faqs
+      __icon: question
+      name: FAQs
+      description: Frequestly asked questions by various stakeholders
+      navItems:
+        researchers:
+          __link: /faqs/researchers
+          name: Researchers
+          icon: search
+          description: Just heard about Classic?
+        users:
+          __link: /faqs/users
+          name: Users
+          icon: user
+          description: Want to learn how to use ETC?
+        investors:
+          __link: /faqs/investors
+          name: Investors
+          icon: chart
+          description: Interested in buying ETC?
+        miners:
+          __link: /faqs/miners
+          name: Miners
+          icon: hardhat
+          description: Need info on how to mine ETC?
+        developers:
+          __link: /faqs/developers
+          name: Developers
+          icon: code
+          description: Want to build on ETC?
+        contributors:
+          __link: /faqs/contributors
+          name: Contributors
+          icon: users
+          description: Want to help the project?
     whyClassic:
       __link: /why-classic
       __icon: etc

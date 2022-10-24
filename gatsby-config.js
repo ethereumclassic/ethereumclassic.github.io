@@ -137,6 +137,7 @@ module.exports = {
         nodeType: "VideosCollection",
         imagePath: "youtube",
         name: "videoImage",
+        silent: true,
         prepareUrl: (youtube) =>
           `https://img.youtube.com/vi/${youtube}/hqdefault.jpg`,
       },
