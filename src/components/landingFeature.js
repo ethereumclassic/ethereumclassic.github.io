@@ -11,15 +11,17 @@ export default function LandingFeature({ i18n }) {
         icon={i18n.icon}
         tw="absolute left-16 top-0 h-32 -mt-6 text-shade-lightest z-0"
       />
-      <div tw="flex">
-        <div tw="flex z-10 items-center p-5">
-          <div>
-            <div tw="uppercase text-xs tracking-widest text-shade-dark whitespace-nowrap">
-              {i18n.subtitle}
-            </div>
-            <h3 tw="text-3xl font-bold text-shade-darkest">FAQs</h3>
+      <div tw="flex z-10 items-center p-5 relative">
+        <div>
+          <div tw="uppercase text-xs tracking-widest text-shade-dark whitespace-nowrap">
+            {i18n.subtitle}
           </div>
-          <div tw="text-shade-neutral ml-16 mr-10">{i18n.text}</div>
+          <h3 tw="text-3xl font-bold text-shade-darkest">FAQs</h3>
+        </div>
+        <div tw="text-shade-neutral hidden md:block md:ml-24 md:mr-10">
+          {i18n.text}
+        </div>
+        <div tw="text-right flex-auto">
           <Link button big primary icon="right" to="/faqs">
             Questions Answered
           </Link>
