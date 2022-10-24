@@ -10,11 +10,14 @@ items:
       hardware:
         question: What hardware do I need to mine ETC?
         answer: |
-          The two main hardware categories that can be used to mine Etheruem Classic are GPUs and ASICs, and within each category there are many options. You can find a short guide about how to decide what to use in the [mining hardware](/mining/hardware) section.
+          The two main hardware categories that can be used to mine Ethereum Classic are GPUs and ASICs, and within each category there are many options. You can find a short guide about how to decide what to use in the [mining hardware](/mining/hardware) section.
       software:
         question: What software can I use to mine ETC?
         answer: |
-          Depending on your operating system, there are a number of options available. Check out the [mining software](/mining/software) to find the right tools for you. You also find video tutorials online by searching "How to mine Etheruem Classic".
+          Depending on your operating system, there are a number of options available. Check out the [mining software](/mining/software) to find the right tools for you. You also find video tutorials online by searching "How to mine Ethereum Classic".
+      switch:
+        question: I was previously mining ETH. What do I need to do to switch to ETC?
+        answer: TODO
       pools:
         question: What is a mining pool?
         answer: |
@@ -22,7 +25,10 @@ items:
       poolsList:
         question: Which mining pools support ETC?
         answer: |
-          You can find a list of pools that support Ethereum Classic in the [mining pools](/mining/pools) section, and metrics on the size of these pools in the [network monitors](/network/monitors) sectoin.
+          You can find a list of pools that support Ethereum Classic in the [mining pools](/mining/pools) section, and metrics on the size of these pools in the [network monitors](/network/monitors) section.
+      bestPool:
+        question: Which mining pool is best?
+        answer: TODO
       schedule:
         question: Is it profitable to mine ETC?
         answer: |
@@ -32,17 +38,17 @@ items:
 
           Some users may decide to mine at a loss, as it enables them to acquire "fresh" ETC for transactions that do not have any provenance.
       ethash:
-        question: What is Etheruem Classic's mining algorithm?
+        question: What is Ethereum Classic's mining algorithm?
         answer: |
-          Etheruem Classic uses the [ETCHash](#TODO) mining algorithm, a close cousin of Ethereum's ETHash, with a smaller DAG size. Hardware that was being used used to mine pre-merge ETH can also be used to mine ETC.
+          Ethereum Classic uses the [ETCHash](#TODO) mining algorithm, a close cousin of Ethereum's ETHash, with a smaller DAG size. Hardware that was being used used to mine pre-merge ETH can also be used to mine ETC.
       emission:
         question: What is the Ethereum Classic block reward?
         answer: |
-          Presently the main source of revenue for miners comes from the fixed base beward, as outlined in ECIP-1017. Every 5 million blocks, this reward is reduced by 20%, in a similar way to Bitcoin's halvening.
+          Presently the main source of revenue for miners comes from the fixed base reward, as outlined in ECIP-1017. Every 5 million blocks, this reward is reduced by 20%, in a similar way to Bitcoin's halvening.
 
-          There are also 3 additional sources of revenue that miners sould take into consideration when calculating profitability, which largely depend on network usage:
+          There are also 3 additional sources of revenue that miners should take into consideration when calculating profitability, which largely depend on network usage:
 
-          - Transaction Fees, which depends on network conjestion
+          - Transaction Fees, which depends on network congestion
           - Uncle Rate, TODO
           - MEV (Miner Extractable Value)
       asics:
@@ -68,8 +74,6 @@ items:
       pos:
         question: Will ETC switch to Proof of Stake in the future?
         answer: |
-          It's essentially impossible.
-
-          While any change to Ethereum Classic is technically *possible*, a switch to Proof of Stake is practically untennable, as a consensus has formed around Proof of Work's superiority in terms of censorship resistance. Any proposal to introduce Proof of Stake on Ethereum Classic would at first be ridiculed, and if forced into the client code, would cause a chain split resulting in two chains. Whatever happens, there will be a version of Ethereum Classic that remained on Proof of Work, making attempts to implement PoS largely fruitless.
+          While any change to Ethereum Classic is technically *possible*, a switch to Proof of Stake is practically untenable, as a consensus has formed around Proof of Work's superiority in terms of censorship resistance. Any proposal to introduce Proof of Stake on Ethereum Classic would at first be ridiculed, and if forced into the client code, would cause a chain split resulting in two chains. Whatever happens, there will be a version of Ethereum Classic that remained on Proof of Work, making attempts to implement PoS largely fruitless.
 
           You can read more in the [Proof of Work](/why-classic/proof-of-work) section.

@@ -22,7 +22,7 @@ export default function Link({
   ...props
 }) {
   const url = useRedirectedUrl(href || to);
-  const isExternal = isHash(url) || !isInternal(url);
+  const isExternal = !(isInternal(url) || isHash(url));
   const LinkCompBase = isExternal ? "a" : LocalizedLink;
   const LinkComp = button ? Button : LinkCompBase;
   const iconName = icon || (showExternal && isExternal && "external");

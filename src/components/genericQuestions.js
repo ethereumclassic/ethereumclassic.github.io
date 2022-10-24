@@ -14,11 +14,8 @@ import tw from "twin.macro";
 // TODO noscript show all
 
 function Question({ item: { question, answer }, showAll }) {
-  const [defaultShowAll] = useState(showAll);
-  const [showing, setShowing] = useState(defaultShowAll);
+  const [showing, setShowing] = useState(showAll);
   const slug = slugify(question, { lower: true, strict: true });
-  // // if dsa is true, we are in SSR mode
-  // const visible = defaultShowAll || showAll ? showAll : showing;
   return (
     <div tw="py-5 px-4" css={[showing && tw`bg-backdrop-light`]}>
       <div
@@ -35,7 +32,6 @@ function Question({ item: { question, answer }, showAll }) {
           <Icon icon={showing ? "down" : "right"} tw="w-5 h-5" />
         </div>
         <div>{question}</div>
-        {/* {JSON.stringify({ visible, showAll, showing, defaultShowAll })} */}
       </div>
       {showing && <Md tw="-mb-5">{answer}</Md>}
     </div>
@@ -43,7 +39,6 @@ function Question({ item: { question, answer }, showAll }) {
 }
 
 export default function GenericQuestions({ items }) {
-  // TODO check if we have an id and navigate to it
   const [showAll, setShowAll] = useState(isSSR);
   useEffect(() => {
     const elementId = window.location.hash.slice(1);
@@ -57,10 +52,10 @@ export default function GenericQuestions({ items }) {
   }, []);
   return (
     <>
-      <div tw="text-right mr-1">
+      <div tw="text-right">
         <Button
-          secondary
-          tw="rounded-b-none"
+          transparent
+          tw="rounded-b-none border-b-0"
           icon={showAll ? "up" : "down"}
           onClick={() => setShowAll(!showAll)}
         >

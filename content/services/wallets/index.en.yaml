@@ -20,7 +20,19 @@ contributors:
   - Jamyye
 title: Wallets
 seo: A source of web wallets, extensions, software wallets, hardware wallets, and other ways to secure ETC.
-description: There are many options of wallets to choose from to secure and use ETC. Each option gives a different balance between security and convenience. Please research the best option depending on your requirements.
+description: |
+  There are many options of wallets to choose from to secure and use ETC. Each option gives a different balance between security and convenience. Please research the best option depending on your requirements.
+
+  ## Which Wallet Should I use?
+
+  The following suggestions are not endorsements, and serve only to help new users quickly find an option that probably works for them.
+
+  - If you want a simple mobile app, [Trust Wallet](https://trustwallet.com/ethereum-classic-wallet) is easy to use and support many currencies including ETC.
+  - If you want to hold small amounts of ETC for use with decentralized applications, then try [MetaMask](/guides/metamask) and connect it to Ethereum Classic.
+  - If you are accepting ETC for your business, you probably just want to create an [exchange](/services/exchanges) account that you can use to sell it for your local currency.
+  - If you are holding larger amounts, it is highly recommended to purchase a [Hardware Wallet](#hardware-wallets).
+  - For more advanced use cases, please do your own research and try a few options from below.
+
 items:
   web:
     __type: buttons
@@ -204,7 +216,7 @@ items:
         __link: https://tokenview.com/cn/download
         name: Tokenview
       Trust Wallet:
-        __link: https://trustwallet.com/
+        __link: https://trustwallet.com/ethereum-classic-wallet
         name: Trust Wallet
         __primary: true
       Trustee Wallet:

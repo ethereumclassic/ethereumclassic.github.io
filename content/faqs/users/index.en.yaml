@@ -44,7 +44,7 @@ items:
         answer: |
           No, at least not as you would on a Proof of Stake blockchain. ETC is a Proof of Work blockchain, so you can only mine, not stake, to provide security to the network.
 
-          There may be some [lending protocols](/services/apps/finance) that allow you to loan out your ETC for a yeild, but this is not part of the Ethereum Clasic protocol itself, and comes with counterparty risk.
+          There may be some [lending protocols](/services/apps/finance) that allow you to loan out your ETC for a yeild, but these are not part of the Ethereum Classic protocol itself, and come with counter-party risk.
       safety:
         question: I heard that Ethereum Classic was 51% attacked. Is it safe to use?
         answer: |
@@ -52,9 +52,9 @@ items:
 
           In response, Ethereum Classic clients and the wider ecosystem since implemented a number of countermeasures, such as longer confirmation times on exchanges, ECIP-1057, and MESS. Since these countermeasures have been in place, there have been no further 51% attacks. 
 
-          Moreover, since Etheruem's switch to Proof of Stake in 2022, ETC became the largest GPU-minable chain, increasing it's hash rate by 50x to 100x since the last 51% attack. This has made it exceedingly unlikely that a pool of hashrate is available to rent out to perform another 51% attack, and even if it was, would prohibitively expensive to do so without any guararuntee of success.
+          Moreover, since Ethereum's switch to Proof of Stake in 2022, ETC became the largest GPU-minable chain, increasing it's hash rate by 50x to 100x since the last 51% attack. This has made it exceedingly unlikely that a pool of hashrate is available to rent out to perform another 51% attack, and even if it was, would prohibitively expensive to do so without any guararuntee of success.
 
-          As with all Proof of Work blockchains, the potential for 51% attacks to occur is a necessary part of the protocol's design. As time goes on and Ethereum Classic continues to no longe rbe attacked in this way, stakeholders can be increasingly confident that 51% attacks are a thing of a past. 
+          As with all Proof of Work blockchains, the potential for 51% attacks to occur is a necessary part of the protocol's design. As time goes on and Ethereum Classic continues to no longer be attacked in this way, stakeholders can be increasingly confident that 51% attacks are a thing of a past. 
 
           In any case, it does not make financial sense for 51% attackers to target small holders, and they aren't able to "steal" your ETC. Rather, they typically target exchanges by double-spending withdrawals. Historically, exchanges have been able to absorb these relatively small-scale attacks, and have implement countermeasures as described.
       deposit:
@@ -62,4 +62,4 @@ items:
         answer: |
           As mentioned in the above question, as a countermeasure to 51% attacks, some exchanges have extremely long deposit times for Ethereum Classic. This helps defend the exchange from being a victims of a double spend attack, but means users need to wait more time for deposits to be confirmed.
 
-          As the hashrate of ETC has recently increased significiantly, it is likely that exhcanges will reduce the number of confirmations required to completed deposits.
+          As the hashrate of ETC has recently increased significantly, it is likely that exchanges will reduce the number of confirmations required to completed deposits.

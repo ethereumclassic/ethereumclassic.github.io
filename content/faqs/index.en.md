@@ -3,8 +3,6 @@ title: Frequently Asked Questions
 seo: TODO
 ---
 
-Looking for answers about Ethereum Classic? You have come to the right place.
+Looking for quick answers to common questions about Ethereum Classic? You are in the right place. If you can't find an answer in this section, please join us on [Discord](https://ethereumclassic.org/discord), where community members can help you with your question.
 
-Blah Blah blah blah...
-
-**To begin, select your use case:**
+### To begin, select your use case

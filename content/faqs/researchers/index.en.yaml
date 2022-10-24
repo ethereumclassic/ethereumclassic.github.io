@@ -1,6 +1,6 @@
 title: Researcher FAQs
 seo: TODO
-info: Can't find an answer to your question here? Try asking in the ETC community [discord](https://ethereumclassic.org/discord) server. Specifically, you may find the ETC Discord's `#trading` channel of interest.
+info: Can't find an answer to your question here? Try asking in the ETC community [discord](https://ethereumclassic.org/discord) server.
 description: If you have just heard about Ethereum Classic and want to learn more, or already hold ETC but want a deeper understanding of it's reason for being, this page is for you.
 contribute: true
 items:
@@ -12,27 +12,27 @@ items:
         answer: |
           Ethereum Classic is a Proof of Work Smart Contract Blockchain.
 
-          Philosophically, ETC is similar to Bitcoin, valuing the ideals of decentralization, censorship resistance and sound money. Technologically, it is similar to Etheruem, operating an EVM (Ethereum Virtual Machine).
+          Philosophically, ETC is similar to Bitcoin, valuing the ideals of decentralization, censorship resistance and sound money. Technologically, it is similar to Ethereum, operating an EVM (Ethereum Virtual Machine).
 
-          Combinging these two approaches puts Ethereum Classic in a unqiue position, providing a storng decentralist foundation rooted in cypherpunk ideals along with the flexibility and innovation of Smart Contracts.
+          Combining these two approaches puts Ethereum Classic in a unique position, providing a strong decentralist foundation rooted in cypherpunk ideals along with the flexibility and innovation of Smart Contracts.
       eth:
         question: What is the difference between Ethereum Classic and Ethereum?
         answer: |
           Ethereum Classic and Ethereum were once the same project, but due to a difference in philosophy, the communities split in 2016. In 2022, Ethereum switched to Proof of Stake, with Classic remaining on Proof of Work. This marked the first major technological difference between the two chains.
 
-          Apart from their consensus mechanisms, ETC and ETH remain very similar technologically, and ETC maintains EVM compatability so that contracts deployed to Ethereum can also be easily deployed to Ethereum Classic.
+          Apart from their consensus mechanisms, ETC and ETH remain very similar technologically, and ETC maintains EVM compatibility so that contracts deployed to Ethereum can also be easily deployed to Ethereum Classic.
 
           You can learn more about the split between Ethereum and Ethereum Classic in the [history](/knowledge/history) and [geneis](/why-classic/genesis) sections.
       whitepaper:
         question: Does Ethereum Classic have a whitepaper?
         answer: |
-          Because Ethereum is a fork of Ethereum Classic, both projects share the same history up until 2016, including preceeding documents such as the Ethereum [Whitepaper](https://ethereum.org/en/whitepaper/) and [Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf).
+          Because Ethereum is a fork of Ethereum Classic, both projects share the same history up until 2016, including preceding documents such as the Ethereum [Whitepaper](https://ethereum.org/en/whitepaper/) and [Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf).
 
           After the split with Ethereum, ETC supporters published a number of documents detailing differences in philosophy, which became part of the Ethereum Classic project's DNA. You can read more about Ethereum Classic's founding documents in the [foundation](/knowledge/foundation) section.
       roadmap:
         question: Where can I find Ethereum Classic's roadmap?
         answer: |
-          Similar to Bitcoin, as a decentralized project without top-down leadership, there is no formal executive road map. The protocal is continuously improved through grassroots collaboration through the [Ethereum Classic Improvement Proposal](/development/ecips) (ECIP) process.
+          Similar to Bitcoin, as a decentralized project without top-down leadership, there is no formal executive road map. The protocol is continuously improved through grassroots collaboration through the [Ethereum Classic Improvement Proposal](/development/ecips) (ECIP) process.
 
           You can find more about potential upgrades in the [future](/knowledge/future) section.
       origins:
@@ -52,21 +52,21 @@ items:
       decentralization:
         question: Why should I care about decentralization?
         answer: |
-          Decentralization is a pre-requisit for "Code is Law". It allows participants to operate on a level palying field, and is what unlocks the fundamental value of blockchain technology. Many blockchain projects, despite their claims, are not sufficiently decentralized, making them suceptible to capture and censorship.
+          Decentralization is a pre-requisit for "Code is Law". It allows participants to operate on a level playing field, and is what unlocks the fundamental value of blockchain technology. Many blockchain projects, despite their claims, are not sufficiently decentralized, making them susceptible to capture and censorship.
 
           You can learn more about this in the [decentralism](/why-classic/decentralism) section.
       who:
         question: Who is in charge of the Ethereum Classic Project?
         answer: |
-          Similar to Bitcoin, no single entity is in charge of the Etheruem Classic Project. Instead, individuals and teams following a common set of principles contribute in a permissionless grassroots do-ocracy. While this organizational structure has some drawbacks, it also makes the project immune to certain types of capture and therefore enhances long-term survival.
+          Similar to Bitcoin, no single entity is in charge of the Ethereum Classic Project. Instead, individuals and teams following a common set of principles contribute in a permissionless grassroots do-ocracy. While this organizational structure has some drawbacks, it also makes the project immune to certain types of capture and therefore enhances long-term survival.
 
-          There is therefore no top-down leadership and "no official anything" in ETC, including this website and even the Ethereum Classic client software. Nontheless, there are prominant teams that operate within the ecosystem, gaining informal influence based on their reputation, track record, and contributions.
+          There is therefore no top-down leadership and "no official anything" in ETC, including this website and even the Ethereum Classic client software. Nonetheless, there are prominent teams that operate within the ecosystem, gaining informal influence based on their reputation, track record, and contributions.
 
-          You can learn more about Ethereum Classic's self-organizing communtiy in the [community](/community) and [foundation](/knowledge/foundation) sections.
+          You can learn more about Ethereum Classic's self-organizing community in the [community](/community) and [foundation](/knowledge/foundation) sections.
       proofOfWork:
         question: Why doesn't Ethereum Classic use Proof of Stake?
         answer: |
-          As Ethereum Classic puts a high priority on censorship resistance, it's community decided to remain on the tried and true Proof of Work consensus mechanism. There are many reasons why the various flavors of Proof of Stake are not able to match the same security guaruntees as PoW, but in short, they all involve security or decentralization trade-offs that make them more suceptable to censorship.
+          As Ethereum Classic puts a high priority on censorship resistance, it's community decided to remain on the tried and true Proof of Work consensus mechanism. There are many reasons why the various flavors of Proof of Stake are not able to match the same security guarantees as PoW, but in short, they all involve security or decentralization trade-offs that make them more susceptible to censorship.
 
           You can learn more about the decision for Ethereum Classic no to switch to Proof of Stake in the [Proof of Work](/why-classic/proof-of-work) section.
       stats:

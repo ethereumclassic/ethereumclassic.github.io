@@ -17,17 +17,17 @@ learn:
           __link: /faqs/users
           name: Users
           icon: user
-          description: Want learn how to use ETC?
+          description: Want to learn how to use ETC?
         investors:
           __link: /faqs/investors
           name: Investors
           icon: chart
-          description: Interested in buying?
+          description: Interested in buying ETC?
         miners:
           __link: /faqs/miners
           name: Miners
           icon: hardhat
-          description: Need info on how to mine it?
+          description: Need info on how to mine ETC?
         developers:
           __link: /faqs/developers
           name: Developers
@@ -37,7 +37,7 @@ learn:
           __link: /faqs/contributors
           name: Contributors
           icon: users
-          description: Want to join the ETC army?
+          description: Want to help the project?
     whyClassic:
       __link: /why-classic
       __icon: etc

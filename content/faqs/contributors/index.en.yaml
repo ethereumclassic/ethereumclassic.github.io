@@ -1,6 +1,6 @@
 title: Contributor FAQs
 seo: TODO
-info: Can't find an answer to your question here? Try asking in the ETC community [discord](https://ethereumclassic.org/discord) server. Specifically, you may find the ETC Discord's `#trading` channel of interest.
+info: Can't find an answer to your question here? Try asking in the ETC community [discord](https://ethereumclassic.org/discord) server.
 contribute: true
 items:
   questions:
@@ -17,7 +17,7 @@ items:
         answer: A list of things that need doing is maintained in the [Ethereum Classic Volunteer GitHub repository](https://github.com/ethereumclassic/volunteer).
       where:
         question: Where do Ethereum Classic supporters mostly hang out?
-        answer: The english speaking ETC communiuty is mostly active on [Discord](https://ethereumclassic.org/discord). You can find other community forums, including those in other languages, in the [Social Channels](/community/channels) section.
+        answer: The english speaking ETC community is mostly active on [Discord](https://ethereumclassic.org/discord). You can find other community forums, including those in other languages, in the [Social Channels](/community/channels) section.
       ecips:
         question: How can I suggest improvements to Ethereum Classic?
         answer: To suggest protocol upgrades, you can use the Ethereum Classic Improvement Proposal process, but it's worth brainstorming with other community members in one of the ETC [Social Channels](/community/channels) first.
@@ -35,7 +35,7 @@ items:
         answer: Please check out this website's [GitHub repository](https://github.com/ethereumclassic/ethereumclassic.github.io) for instructions.
       tweets:
         question: How can I suggest tweets?
-        answer: The [`@eth_classic`](https://github.com/ethereumclassic/tweets-eth_classic) and [`@ETH_Network`](https://github.com/ethereumclassic/tweets-etc_network) Twitter accounts accept community suggested tweets. Simply tweet your suggested tweet with the hashtage `#ETCtweets`, and it will be reviewed by the community in the `#ETCTweets` Discord thread.
+        answer: The [`@eth_classic`](https://github.com/ethereumclassic/tweets-eth_classic) and [`@ETH_Network`](https://github.com/ethereumclassic/tweets-etc_network) Twitter accounts accept community suggested tweets. Simply tweet your suggested tweet with the hashtag `#ETCtweets`, and it will be reviewed by the community in the `#ETCTweets` Discord thread.
       grants:
         question: Can I get paid a grant to contribute to Ethereum Classic?
-        answer: Other than a warm fuzzy feeling of wellbeing, not really.
+        answer: Other than a warm fuzzy feeling of well-being, not really.

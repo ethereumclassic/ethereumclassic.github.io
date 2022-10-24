@@ -1,6 +1,6 @@
 title: Developer FAQs
 seo: TODO
-info: Can't find an answer to your question here? Try asking in the ETC community [discord](https://ethereumclassic.org/discord) server. Specifically, you may find the ETC Discord's `#trading` channel of interest.
+info: Can't find an answer to your question here? Try asking in the ETC community [discord](https://ethereumclassic.org/discord) server. Specifically, you may find the ETC Discord's `#dev-general` channel of interest.
 contribute: true
 items:
   questions:
@@ -9,7 +9,7 @@ items:
       types:
         question: What kind of applications can I build on ETC?
         answer: |
-          Any kind of smart contract system; from Multisigs, to DeFi, to NFTs, to wherever your dreams can take you, can be deployed to ETC. Any application that can be deployed to Ethereum can also be deployed to Ethereum Classic.
+          As ETC uses the turing-complete EVM, any kind of smart contract system can be deployed to ETC; from Multisigs, to DeFi, to NFTs, to wherever your dreams can take you. Any application that can be deployed to Ethereum can also be deployed to Ethereum Classic.
 
           Some other chains have a history of censoring certain applications and transactions, so if you want to ensure your application runs exactly as programmed without downtime, censorship or third party interference, then consider deploying to Ethereum Classic!
 
@@ -41,4 +41,4 @@ items:
       ecips:
         question: How can I help with development of Ethereum Classic protocol?
         answer: |
-          You can submit proposals for protocol upgrades through the [ECIP](/development/ecips) process. You can help maintain client codebases by visiting the github repositories of the [clients](/development/clients) you'd like to help with.
+          You can submit proposals for protocol upgrades through the [ECIP](/development/ecips) process. You can help maintain client codebases by visiting the GitHub repositories of the [clients](/development/clients) you'd like to help with.
