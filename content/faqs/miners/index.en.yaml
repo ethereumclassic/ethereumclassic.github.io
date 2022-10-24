@@ -17,7 +17,8 @@ items:
           Depending on your operating system, there are a number of options available. Check out the [mining software](/mining/software) to find the right tools for you. You also find video tutorials online by searching "How to mine Ethereum Classic".
       switch:
         question: I was previously mining ETH. What do I need to do to switch to ETC?
-        answer: TODO
+        answer: |
+          Ethereum Classic's hashing algorithm is almost identical to ETHash, so it supports the same hardware, and mining ETC should be as simple switching to a mining pool that supports ETC.
       pools:
         question: What is a mining pool?
         answer: |
@@ -28,7 +29,8 @@ items:
           You can find a list of pools that support Ethereum Classic in the [mining pools](/mining/pools) section, and metrics on the size of these pools in the [network monitors](/network/monitors) section.
       bestPool:
         question: Which mining pool is best?
-        answer: TODO
+        answer: |
+          Look for a pool with low fees and one that's large enough to find blocks fairly regularly. You shouldn't necessarily want to join the largest pool, as balancing hashrate out between different pools helps keep Ethereum Classic decentralized.
       schedule:
         question: Is it profitable to mine ETC?
         answer: |
