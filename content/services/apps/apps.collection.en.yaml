@@ -51,7 +51,7 @@
   date: 2022-10-25
   type: other
   image: ./images/shibc.jpeg
-  verifiedContract: https://blockscout.com/etc/mainnet/address/0x1FDc495289B590e78d455cf7faa6cd804de5Cbc1
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x1FDc495289B590e78d455cf7faa6cd804de5Cbc1/contracts#address-tabs
   audit: https://twitter.com/SoteriaSC/status/1561793005530611713
   description: The first meme coin on the Ethereum Classic chain.
   links:
