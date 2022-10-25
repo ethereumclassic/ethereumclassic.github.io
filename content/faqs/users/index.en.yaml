@@ -50,7 +50,7 @@ items:
         answer: |
           In 2020, Ethereum Classic had a historically very low hashrate, which led to a series of 51% attacks. It is beleived that attackers rented out hashrate and targeted exchanges with double spend attacks, who in total lost around $10m in ETC. 
 
-          In response, Ethereum Classic clients and the wider ecosystem since implemented a number of countermeasures, such as longer confirmation times on exchanges, ECIP-1057, and MESS. Since these countermeasures have been in place, there have been no further 51% attacks. 
+          In response, Ethereum Classic clients and the wider ecosystem since implemented a number of countermeasures, such as longer confirmation times on exchanges, ECIP-1099, and MESS. Since these countermeasures have been in place, there have been no further 51% attacks. 
 
           Moreover, since Ethereum's switch to Proof of Stake in 2022, ETC became the largest GPU-minable chain, increasing it's hash rate by 50x to 100x since the last 51% attack. This has made it exceedingly unlikely that a pool of hashrate is available to rent out to perform another 51% attack, and even if it was, would prohibitively expensive to do so without any guararuntee of success.
 
