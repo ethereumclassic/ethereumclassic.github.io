@@ -197,6 +197,9 @@ items:
       XnPool:
         name: XnPool
         __link: https://www.xnpool.com/
+      Yu-Tam:
+        name: Yu-Tam
+        __link: https://etc.yu-tam.contact/
       Zergpool:
         name: Zergpool
         __link: http://zergpool.com/site/mining?algo=ethash
