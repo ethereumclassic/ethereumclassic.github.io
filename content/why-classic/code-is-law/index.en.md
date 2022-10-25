@@ -11,8 +11,8 @@ seo: An explanation of the concept of "Code is Law", and how Ethereum Classic is
 - _The_ value that Smart Contract Platforms introduce is _Code is Law_; the ability to _Build Unstoppable Applications_.
 - If positively engaged with, _Code is Law_ will be hugely beneficial; those who attempt to stifle its adoption will be left behind.
 - Change is likely to disrupt powerful institutions, who may fight against technology that threatens their position.
-- Only blockchains committed to _Code is Law_, are suitable to take on this challenge; others will become captured.
-- Today, most blockchains projects, including Ethereum™, are not committed to _Code is Law_, undermining their value proposition.
+- Only blockchains committed to _Code is Law_ are suitable to take on this challenge; others will become captured.
+- Today, most blockchain projects, including Ethereum™, are not committed to _Code is Law_, undermining their value proposition.
 
 ## Introduction
 
@@ -24,7 +24,7 @@ _Code is Law_ puts the "Unstoppable" in "Build Unstoppable Applications", a phil
 
 Many who think deeply about the potential of blockchain technology have a "eureka" moment, where it all _clicks_, and the wild valuations of the cryptocurrency space suddenly feel a little meager. They realize a future can exist where all agreements between people are ultimately governed not by corruptible institutions but by the cold hard logic of Smart Contract code.
 
-In this future, individuals decide for themselves which contracts they wish to engage with, rather than by the roll of the dice via the geographical monopolies they happen to be born into. There are no middlemen as rent-seeking in all areas is replaced by disintermediation, market competition, and price optimization. This reality is fairer, cheaper, interoperable, and global. It becomes a universal solvent that lubricates the ossified machinery of old.
+In this future, individuals decide for themselves which contracts they wish to engage with, rather than rolling the dice via the geographical monopolies they happen to be born into. There are no middlemen as rent-seeking in all areas is replaced by disintermediation, market competition, and price optimization. This reality is fairer, cheaper, interoperable, and global. It becomes a universal solvent that lubricates the ossified machinery of old.
 
 A new era of human flourishing is unleashed, as society is unshackled from the inefficiency and opacity of corruption. It will be nothing short of a new renaissance, a beaming ray of hope in the face of darker alternatives, and to top it off, it is achievable within our lifetimes.
 
@@ -34,7 +34,7 @@ In this future, one or more global "virtual jurisdictions" exist, over and above
 
 Unlike the legal jurisdictions that exist today that are regularly manipulated by the whims of the powerful, future virtual jurisdictions will be governed by the principle of _Code is Law_, meaning that for the first time, humanity can operate under _actual_, as opposed to the guise of, Rule of Law, codified not in esoteric and misinterpretable legal texts, but in pure mathematics.
 
-_Code is Law_ is made possible by blockchain technology, and is a straightforward concept that keeps these virtual jurisdictions sovereign. It means that the code of a Smart Contract is the ultimate arbiter of the outcome of an on-chain interaction, as opposed to some overriding force from outside the network. As a result, _applications_ are _unstoppable_, and run exactly as programmed without downtime, censorship or third party interference.
+_Code is Law_ is made possible by blockchain technology, and is a straightforward concept that keeps these virtual jurisdictions sovereign. It means that the code of a Smart Contract is the ultimate arbiter of the outcome of an on-chain interaction, as opposed to some overriding force from outside the network. As a result, _applications_ are _unstoppable_, and run exactly as programmed without downtime, censorship, or third party interference.
 
 When individuals voluntarily engage with Smart Contracts on a chain that follows _Code is Law_, they accept the outcome of whatever logic is defined within those contracts. If a contract is poorly written or has a mistake, it is not the responsibility of the wider network to "make whole" parties who are not happy with a given outcome. In short, there are no do-overs, bailouts or refunds, unless pre-programmed.
 
