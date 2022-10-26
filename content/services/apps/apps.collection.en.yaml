@@ -47,6 +47,29 @@
 ### END APP TEMPLATE
 #
 # ADD YOUR NEW APP HERE
+- title: Shiba Classic
+  date: 2022-10-25
+  type: other
+  image: ./images/shibc.jpeg
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x1FDc495289B590e78d455cf7faa6cd804de5Cbc1/contracts#address-tabs
+  audit: https://twitter.com/SoteriaSC/status/1561793005530611713
+  description: The first meme coin on the Ethereum Classic chain.
+  links:
+    - name: Homepage
+      icon: home
+      link: https://www.shibaclassic.sc/
+    - name: GitHub
+      icon: github
+      link: https://github.com/Shiba-Classic-ETC
+    - name: Twitter
+      icon: twitter
+      link: https://twitter.com/shibctokenetc
+    - name: Telegram
+      icon: telegram
+      link: https://t.me/ShibCtokenERC
+    - name: Linktree
+      icon: link
+      link: https://linktr.ee/shibctoken
 - title: ETCPlanets
   date: 2022-10-14
   type: nfts
@@ -96,7 +119,7 @@
   type: nfts
   image: ./images/BBC LOGO.png
   verifiedContract: https://blockscout.com/etc/mainnet/address/0xe36f8C511c7894C3B3173CD4d0D925790445348E
-  description: BILLIONARE BOYS CLASSIC are 999 FANCY DUDES LIVING ON THE ETHEREUM CLASSIC BLOCKCHAIN. They are cool they are diverse. SO WHO ARE YOU - APE DEVIL ALIEN or you are HUMAN being?            
+  description: BILLIONARE BOYS CLASSIC are 999 FANCY DUDES LIVING ON THE ETHEREUM CLASSIC BLOCKCHAIN. They are cool they are diverse. SO WHO ARE YOU - APE DEVIL ALIEN or you are HUMAN being?
   links:
     - name: Website Minting NFTs
       link: https://bbclassic.xyz/
@@ -199,8 +222,8 @@
   author: Nova Network
   authorLink: https://novanetwork.io/
   verifiedContract: https://blockscout.com/etc/mainnet/address/0xab1E9D7551c1B161cedf96AeaC66b95bc5cCd7d4/contracts
-  openSource: https://blockscout.com/etc/mainnet/address/0xab1E9D7551c1B161cedf96AeaC66b95bc5cCd7d4/contracts
-  testSuite: https://fusion.novanetwork.io/#/nusd-etc
+  openSource: https://github.com/nova-network-inc
+  testSuite: https://github.com/nova-network-inc
   description: Fusion is the most advanced DeFi protocol in the crypto space. It hosts an array of yield generating protocols, has compatibility with next generation fNFTs, AMM, multi transfer, and other exclusive tools. All these comes with multichain interoperability for easy integration.
   type: finance
   links:
@@ -346,16 +369,16 @@
   verifiedContract: https://blockscout.com/etc/mainnet/address/0x271dc2DF1390a7b319CAE1711A454fa416D6A309/contracts
   description: Spherical earthlike MMORPG Metaverse of 10K NFT plots of land with resource based economy. Land ownership on $ETH, ingame economy and assets on $ETC.
   links:
-     - name: Launch App
-       link: https://play.tmwstw.io/
-     - name: Twitter
-       link: https://twitter.com/TMWSTW_NFT
-       icon: twitter
-     - name: Website
-       link: https://tmwstw.io/
-     - name: Discord
-       link: https://discord.gg/d56axYmRTa
-       icon: discord
+    - name: Launch App
+      link: https://play.tmwstw.io/
+    - name: Twitter
+      link: https://twitter.com/TMWSTW_NFT
+      icon: twitter
+    - name: Website
+      link: https://tmwstw.io/
+    - name: Discord
+      link: https://discord.gg/d56axYmRTa
+      icon: discord
 - title: Canonical Wrapped Ether
   date: 2022-05-06
   image: ./images/wetc.png
@@ -392,7 +415,7 @@
       link: https://twitter.com/ClassicRewards
       icon: twitter
     - name: Medium
-      link:  https://medium.com/@classicrewards
+      link: https://medium.com/@classicrewards
       icon: medium
     - name: Telegram
       link: https://t.me/classicrewards
