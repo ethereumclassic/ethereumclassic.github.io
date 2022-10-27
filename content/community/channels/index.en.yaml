@@ -127,11 +127,11 @@ items:
         name: Ethereum Classic Community Calls
       media EthereumClassic:
         __link: https://odysee.com/$/invite/@Ethereum_Classic:2
-        __icon: Odysee
+        __icon: video
         name: Ethereum Classic Announcements & Updates
       media EthereumClassicNews:
         __link: https://odysee.com/$/invite/@EthereumClassicNews:3
-        __icon: Odysee
+        __icon: video
         name: Ethereum Classic News
       media Etherplan:
         __link: https://www.youtube.com/channel/UC4--zHROGkRT1MadPM4EASA/playlists
