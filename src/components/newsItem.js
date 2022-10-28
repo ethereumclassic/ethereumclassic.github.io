@@ -26,14 +26,12 @@ export default function NewsItem({
   const LinkComp = link ? Link : "div";
   const colored = !monochrome && blog;
   return (
-    // <div {...rest}>
     <div {...rest}>
       <LinkComp
         notLocalized={link}
         to={localeLink}
         css={[
           tw`block cursor-pointer relative border border-shade-lightest bg-backdrop-light shadow-sm rounded-md overflow-hidden text-shade-darker hover:text-shade-darkest hover:bg-primary-lightest`,
-          // type.prefix && tw`hover:bg-shade-lightest`,
           colored &&
             tw`bg-primary-lightest text-primary-darkest hover:bg-primary-lighter`,
         ]}

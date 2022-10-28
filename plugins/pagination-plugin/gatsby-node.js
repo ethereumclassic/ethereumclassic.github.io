@@ -59,6 +59,38 @@ exports.createPages = async ({ graphql }, config) => {
     },
     {}
   );
+  // if we have an option to populate empty i18n pages, map the empty fields from defualt locale to others
+  if (config.emptyi18nPages) {
+    const {
+      total: _total,
+      slugs: _slugs,
+      ...defaultPages
+    } = queried[config.defaultLocale];
+    Object.keys(config.locales)
+      .filter(
+        (locale) =>
+          config.locales[locale].enabled && locale !== config.defaultLocale
+      )
+      .forEach((locale) => {
+        queried[locale] = { total: 0, ...queried[locale] };
+        Object.keys(defaultPages).forEach((type) => {
+          queried[locale][type] = queried[locale][type] || {};
+          Object.keys(queried[config.defaultLocale][type]).forEach((field) => {
+            // skip if config specifies fields
+            if (
+              config.emptyi18nPages !== true &&
+              !config.emptyi18nPages[field]
+            ) {
+              return;
+            }
+            queried[locale][type][field] = {
+              count: 0,
+              ...queried[locale][type][field],
+            };
+          });
+        });
+      });
+  }
 };
 
 exports.onCreatePage = async (
@@ -73,6 +105,7 @@ exports.onCreatePage = async (
   const pageGroups = [
     {
       path: page.path,
+      filterBase: `/${basePath}`,
       items: queried[locale]?.total ?? 0,
       slugs: queried[locale]?.slugs,
     },
@@ -85,8 +118,10 @@ exports.onCreatePage = async (
     const resultKeys = Object.keys(fResult);
     all[camelCase(`all ${fKey}`)] = resultKeys;
     resultKeys.forEach((fItem) => {
+      const filterPath = `${config.filters[fKey]?.slug ?? "/"}${fItem}`;
       pageGroups.push({
-        path: `${page.path}${config.filters[fKey].slug}${fItem}`,
+        path: `${page.path}${filterPath}`,
+        filterBase: `/${basePath}${filterPath}`,
         items: fResult[fItem].count,
         slugs: fResult[fItem].slugs,
         filter: fItem,
@@ -95,7 +130,8 @@ exports.onCreatePage = async (
       });
     });
   });
-  pageGroups.forEach(({ path, items, filterType, filter, slugs, field }) => {
+  pageGroups.forEach((group) => {
+    const { path, items, filterType, filter, slugs, field, filterBase } = group;
     const numPages = Math.floor(items / config.itemsPerPage) + 1;
     const { type } = config.filters[filterType] || {};
     Array.from({ length: numPages }).forEach((_, i) => {
@@ -103,10 +139,9 @@ exports.onCreatePage = async (
       const isFirst = currentPage === 1;
       const filterQuery = {
         locale: { eq: locale },
-        // TODO make configurable
-        unlisted: { ne: true },
         ...(type === "tags" && { [field]: { in: filter } }),
         ...(type === "category" && { [field]: { eq: filter } }),
+        ...config.globalFilters,
       };
       const p = {
         ...page,
@@ -114,7 +149,7 @@ exports.onCreatePage = async (
         context: {
           ...page.context,
           numPages,
-          filterBase: path,
+          filterBase,
           numItems: items,
           currentPage,
           limit: config.itemsPerPage,

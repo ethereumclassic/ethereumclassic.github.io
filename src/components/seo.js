@@ -6,6 +6,8 @@ import { Helmet } from "react-helmet";
 import "twin.macro";
 import { theme } from "twin.macro";
 
+import SeoHelper from "./seoHelper";
+
 import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
 import { etc as EtcLogo } from "../utils/icons";
 import { useTheme } from "../utils/themeProvider";
@@ -13,7 +15,7 @@ import useSiteMetadata from "../utils/useSiteMetadata";
 
 export default function Seo({ data, i18n, path, pageContext: { basePath } }) {
   const { ui } = useGlobals();
-  const { siteUrl, socialImage } = useSiteMetadata();
+  const { siteUrl, socialImage, i18nDev } = useSiteMetadata();
   const { isDark } = useTheme();
 
   const url = `${siteUrl}${path}`;
@@ -106,21 +108,7 @@ export default function Seo({ data, i18n, path, pageContext: { basePath } }) {
         <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content={image} />
       </Helmet>
-      {/* LODO only show in i18n editing mode */}
-      {false && (
-        <div tw="z-50 fixed p-2 left-1/4 border border-shade-lighter rounded-xl shadow bottom-2 right-2 bg-backdrop-dark">
-          <table>
-            <tbody>
-              {["title", "description"].map((key) => (
-                <tr key={key}>
-                  <td tw="pr-2 opacity-60 align-top">{key}</td>
-                  <td>{meta[key]}</td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-      )}
+      {i18nDev && <SeoHelper meta={meta} />}
     </>
   );
 }

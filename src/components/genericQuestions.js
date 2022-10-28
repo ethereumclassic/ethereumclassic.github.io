@@ -42,10 +42,8 @@ export default function GenericQuestions({ items }) {
   const [showAll, setShowAll] = useState(isSSR);
   useEffect(() => {
     const elementId = window.location.hash.slice(1);
-    console.log("elementId", elementId);
     const element = document.getElementById(elementId);
     if (element) {
-      console.log("element", element);
       element.click();
       scrollToElement(elementId, 160, "instant");
     }

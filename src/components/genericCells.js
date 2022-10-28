@@ -17,7 +17,7 @@ function CellButton({ button, item }) {
   );
 }
 
-export default function GenericCells({ items, buttonItems = [], cells }) {
+export default function GenericCells({ items, buttonItems = [] }) {
   return (
     <div tw="bg-backdrop-light shadow sm:rounded-md divide-y divide-shade-lighter">
       {items.map((item) => {

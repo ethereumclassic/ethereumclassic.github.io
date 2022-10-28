@@ -63,7 +63,7 @@ export default function ContentHeader({ mdx, i18n, pre, ...rest }) {
           </div>
         </div>
         {disclaimer && (
-          <div tw="hidden md:block ml-2">
+          <div tw="hidden md:block ml-4">
             <Disclaimer type="micro" text={disclaimer} />
           </div>
         )}

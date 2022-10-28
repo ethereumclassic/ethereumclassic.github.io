@@ -23,11 +23,7 @@ export default function PopDownMenu({ children, left, cta }) {
           <div tw="relative grid gap-6 bg-backdrop-light px-5 py-6 sm:gap-8 sm:p-8">
             {children}
           </div>
-          {cta && (
-            <div tw="px-5 py-5 bg-shade-lightest space-y-6 sm:flex sm:space-y-0 sm:space-x-10 sm:px-8">
-              <div tw="flow-root">{cta}</div>
-            </div>
-          )}
+          {cta}
         </PopOverContainer>
       </Popover.Panel>
     </Fader>

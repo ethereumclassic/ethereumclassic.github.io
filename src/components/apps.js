@@ -17,7 +17,7 @@ export default function Apps({ pageContext, data, i18n }) {
             to="https://github.com/ethereumclassic/ethereumclassic.github.io#contribute"
           >
             <Icon icon="plus" tw="h-5" />
-            <div>Support ETC by submitting your own apps!</div>
+            <div>{i18n.support}</div>
           </Link>
         </>
       )}

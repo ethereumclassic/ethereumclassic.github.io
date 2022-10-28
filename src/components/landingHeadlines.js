@@ -5,19 +5,22 @@ import Disclaimer from "./disclaimer";
 import Link from "./link";
 import NewsItem from "./newsItem";
 
-export default function NewsReel({ items }) {
+export default function NewsReel({ items, i18n }) {
+  if (items.length === 0) {
+    return null;
+  }
   return (
     <div tw="space-y-4">
       <div tw="flex space-x-6">
         <div tw="flex-auto flex-row flex space-x-6">
-          <h3 tw="text-2xl font-bold text-shade-darkest">Headlines</h3>
+          <h3 tw="text-2xl font-bold text-shade-darkest">{i18n.title}</h3>
           <div tw="hidden lg:block">
             <Disclaimer type="inline" text="verify" />
           </div>
         </div>
         <div>
           <Link button secondary icon="right" to="/news">
-            All News
+            {i18n.button}
           </Link>
         </div>
       </div>

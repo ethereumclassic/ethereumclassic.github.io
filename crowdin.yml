@@ -1,0 +1,21 @@
+files:
+  - source: "/content/**/**/*.[yaml/md]"
+    ignore:
+      - "**/collection/**/**"
+      - "**/*.collection.*"
+      - "*.zh.[yaml/md]"
+      - "*.de.[yaml/md]"
+      - "*.es.[yaml/md]"
+      - "*.fr.[yaml/md]"
+      - "*.hr.[yaml/md]"
+      - "*.in.[yaml/md]"
+      - "*.ja.[yaml/md]"
+      - "*.ko.[yaml/md]"
+      - "*.nl.[yaml/md]"
+      - "*.ru.[yaml/md]"
+      - "*.sa.[yaml/md]"
+      - "*.th.[yaml/md]"
+      - "*.tr.[yaml/md]"
+      - "*.vi.[yaml/md]"
+      - "**/blog/**/*.md"
+    translation: /%original_path%/%file_name%.%two_letters_code%.%file_extension%

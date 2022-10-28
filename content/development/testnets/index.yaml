@@ -1,0 +1,88 @@
+title: Testnets
+__updated: 2022-02-22
+__contribute: 1
+seo: Information about the various Ethereum Classic testnets, which publically available networks that can be used to test contracts and protocol upgrades.
+description: |
+  When developing contracts on Ethereum Classic, as with any EVM Contract System, it is advised to use a local [virtual network](/development/tooling), which allows you to quickly iterate without having to wait for blocks to be mined. At some point, though, you may wish to allow the public to interact with a beta version of your application, and for this, a testnet can be used.
+
+  As Ethereum Classic maintains compatibility with Ethereum's upstream EVM, other than some minor edge cases, contracts will behave identically. This means that popular Ethereum testsnets such as [Kovan](https://kovan-testnet.github.io/website/) can, for the most part, be used for public testing of Ethereum Classic contracts, and because of their popularity this may be preferable for user testing.
+
+  Additionally, Ethereum Classic has its own testnets that operate the Ethereum Classic version of the EVM, and deploying to one of these networks is also highly recommended before production release. These public testnets also provide faucets, so you can easily acquire testnet ETC and deploy your code. 
+
+  Some of these networks, such as Astor, test experimental versions of ETC with features that do not yet exist in Ethereum Classic mainnet.
+__contributors:
+  - gitr0n1n
+  - IstoraMandiri
+items:
+  testnets:
+    __type: table
+    __sort: 0
+    i18n:
+      pow: Proof of Work
+      poa: Proof of Authority
+      testnet: Testnet
+      experimental: Experimental
+      faucet: Faucet
+    columnItems:
+      name:
+        name: Name
+        __linkRef: link
+      faucet:
+        __linkRef: faucet
+        text: Faucet
+        __icon: coins
+      type:
+        name: Type
+        __textRef: type
+      miningAlgo:
+        name: Algorithm
+      consensusAlgo:
+        __textRef: consensusAlgo
+        name: Consensus Type
+      networkId:
+        name: NetworkID
+      chainId:
+        name: ChainID
+    items:
+      Testnet Kotti:
+        __name: Kotti
+        __chainId: 6
+        __type: testnet
+        __networkId: 6
+        __link: https://github.com/goerli/testnet
+        __faucet: http://kottifaucet.me/
+        __consensusAlgo: poa
+        __miningAlgo: Clique
+      Testnet Mordor:
+        __name: Mordor
+        __chainId: 63
+        __type: testnet
+        __networkId: 7
+        __link: https://github.com/eth-classic/mordor
+        __faucet: https://easy.hebeswap.com/#/faucet
+        __consensusAlgo: pow
+        __miningAlgo: Etchash
+      Testnet Astor:
+        __name: Astor
+        __type: experimental
+        __link: https://astor.host/
+        __consensusAlgo: pow
+        __miningAlgo: Keccak256
+      Testnet Helmsdeep:
+        __name: Helmsdeep
+        __type: experimental
+        __link: https://github.com/chippr-robotics/chippr-bots/tree/staging/packages/testnets/helmsdeep
+        __consensusAlgo: pow
+        __miningAlgo: Etchash
+      Testnet Keccak Besu:
+        __name: Keccak Besu
+        __type: experimental
+        __link: https://github.com/whiteblock/keccak-besu-testnet
+        __consensusAlgo: pow
+        __miningAlgo: Keccak256
+      Testnet Sagano:
+        __name: Sagano
+        __type: experimental
+        __link: https://docs.mantisclient.io/first-steps/client-quickstart
+        __consensusAlgo: pow
+        __miningAlgo: Etchash

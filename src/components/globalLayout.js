@@ -7,6 +7,7 @@ import Footer from "./footer";
 import Header from "./header";
 import Seo from "./seo";
 import Announcement from "./announcement";
+import Json from "./json";
 
 export default function GlobalLayout({ children, ...props }) {
   return (
@@ -16,6 +17,7 @@ export default function GlobalLayout({ children, ...props }) {
         <Header />
         <main tw="flex-1">
           <Announcement />
+          {/* <Json>{props}</Json> */}
           {children}
         </main>
         <Footer />

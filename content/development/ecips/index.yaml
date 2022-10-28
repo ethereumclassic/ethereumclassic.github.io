@@ -1,0 +1,58 @@
+items:
+  table:
+    __type: table
+    number: Number
+    author: Authors
+    columnItems:
+      number:
+        __name: "ECIP #"
+        __linkPrefix: https://ecips.ethereumclassic.org/ECIPs/ecip-
+      title:
+        name: Title
+      author:
+        name: Authors
+    items:
+      Delay Difficulty Bomb Explosion:
+        __number: "1010"
+        title: Delay Difficulty Bomb Explosion
+        __author: Igor Artamonov
+      Long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks:
+        __number: "1015"
+        title: Long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks
+        __author: Cody W Burns
+      Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule:
+        __number: "1017"
+        title: Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule
+        __author: Matthew Mazur
+      Monetary policy rounding specification:
+        __number: "1039"
+        title: Monetary policy rounding specification
+        __author: Isaac Ardis
+      Remove Difficulty Bomb:
+        __number: "1041"
+        title: Remove Difficulty Bomb
+        __author: Igor Artamonov
+      Clique proof-of-authority consensus protocol:
+        __number: "1048"
+        title: Clique proof-of-authority consensus protocol
+        __author: Péter Szilágyi
+      Status Codes:
+        __number: "1050"
+        title: Status Codes
+        __author: Brooklyn Zelenka, Boris Mann
+      Atlantis EVM and Protocol Upgrades:
+        __number: "1054"
+        title: Atlantis EVM and Protocol Upgrades
+        __author: Isaac Ardis
+      Agharta EVM and Protocol Upgrades:
+        __number: "1056"
+        title: Agharta EVM and Protocol Upgrades
+        __author: Isaac Ardis, Wei Tang
+      Phoenix EVM and Protocol Upgrades:
+        __number: "1088"
+        title: Phoenix EVM and Protocol Upgrades
+        __author: Raw Pong Ghmoa
+      Calibrate Epoch Duration:
+        __number: "1099"
+        title: Calibrate Epoch Duration
+        __author: Luke Williams

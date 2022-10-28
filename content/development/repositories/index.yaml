@@ -1,0 +1,31 @@
+title: Git Repositories
+description: A hodgepodge of miscellaneous open source repositories for Ethereum Classic developers.
+__updated: 2022-02-22
+__contribute: 1
+__contributors:
+  - IstoraMandiri
+items:
+  repos:
+    __type: links
+    __showLink: 1
+    items:
+      EthereumClassic:
+        name: Main Github Organization
+        __link: https://github.com/ethereumclassic
+        description: The Main Ethereum Classic Github Organization, containing a number of repositories, a selection of which we will highlight below...
+      eth-classic:
+        name: Alternative Github Organization
+        __link: https://github.com/eth-classic
+        description: Another community managed Github Organization that includes testnet configurations, ETCHash, Besu, etc.
+      etcLabs:
+        name: ETC Labs
+        __link: https://github.com/etclabscore
+        description: Organization containing many Ethereum Classic repositories previously maintained by ETC Labs, including core-geth.
+      website:
+        name: ETC Website
+        __link: https://github.com/ethereumclassic/ethereumclassic.github.io
+        description: The source code of this very website, including instructions on how to contribute.
+      awesomeEtc:
+        name: Awesome ETC
+        __link: https://github.com/ethereumclassic/Awesome-ETC
+        description: An awesome list of resources for the Ethereum Classic (ETC) project.

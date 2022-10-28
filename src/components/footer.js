@@ -3,15 +3,16 @@ import "twin.macro";
 import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
 
 import FooterColumn from "./footerColumn";
-// LODO re-enable locales in next version
-// import LocaleDropdown from "./localeDropdown";
+import LocaleDropdown from "./localeDropdown";
 import SocialIcons from "./socialIcons";
 import Sponsors from "./sponsors";
 import TwContainer from "./twContainer";
 import Md from "./markdownDynamic";
 import AddNetworkButton from "./addNetwork";
+import useLocaleItems from "../utils/useLocaleItems";
 
 export default function Footer() {
+  const { enabled: i18nEnabled } = useLocaleItems();
   const {
     navItems,
     ui: { signOff },
@@ -21,9 +22,11 @@ export default function Footer() {
       <TwContainer>
         <div tw="grid grid-cols-12 gap-4 gap-y-16">
           <div tw="col-span-full md:col-span-4 space-y-10 flex flex-col items-center md:items-start">
-            {/* <div>
-              <LocaleDropdown />
-            </div> */}
+            {i18nEnabled && (
+              <div>
+                <LocaleDropdown />
+              </div>
+            )}
             <div>
               <AddNetworkButton />
             </div>

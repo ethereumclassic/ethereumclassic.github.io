@@ -6,15 +6,21 @@ import {
   Index,
 } from "react-instantsearch-dom";
 
-import { useLocalization } from "../../plugins/translations-plugin/src/components/localizationProvider";
+import {
+  useGlobals,
+  useLocalization,
+} from "../../plugins/translations-plugin/src/components/localizationProvider";
 import Icon from "./icon";
 import ResultsItems from "./searchAlgoliaResultsItem";
 
-const PoweredBy = connectPoweredBy(({ url }) => (
-  <a href={url} target="_blank" rel="noreferrer">
-    Powered by Algolia
-  </a>
-));
+const PoweredBy = connectPoweredBy(({ url }) => {
+  const { ui } = useGlobals();
+  return (
+    <a href={url} target="_blank" rel="noreferrer">
+      {ui.search.poweredBy}
+    </a>
+  );
+});
 
 const ResultsBlock = connectStateResults(
   ({
@@ -65,7 +71,7 @@ export default function SearchResults() {
   const {
     locale,
     globals: {
-      ui: { htmlLang },
+      ui: { htmlLang, search: i18n },
     },
   } = useLocalization();
 
@@ -91,7 +97,7 @@ export default function SearchResults() {
       {!searching && count === 0 && (
         <div tw="p-6 flex items-center justify-center text-shade-light space-x-3">
           <Icon icon="sad" tw="h-5" />
-          <div>No Results...</div>
+          <div>{i18n.noResults}</div>
         </div>
       )}
       <div tw="overflow-y-auto divide-y divide-solid divide-shade-lightest max-h-[40vh] md:max-h-[70vh]">
@@ -102,10 +108,10 @@ export default function SearchResults() {
           title="General"
           categories={{
             general: {
-              title: "General Information",
+              title: i18n.generalInfo,
               icon: "book",
             },
-            blog: { title: "Blog Articles", icon: "blog" },
+            blog: { title: i18n.blogArticles, icon: "blog" },
           }}
         />
         <Index indexName="videos">
@@ -113,7 +119,7 @@ export default function SearchResults() {
             setResultsCount={setResultsCount}
             lang={htmlLang}
             locale={locale}
-            title="Videos"
+            title={i18n.videos}
             icon="video"
           />
         </Index>
@@ -122,7 +128,7 @@ export default function SearchResults() {
             setResultsCount={setResultsCount}
             lang={htmlLang}
             locale={locale}
-            title="Apps"
+            title={i18n.applications}
             icon="cursor"
           />
         </Index>
@@ -131,7 +137,7 @@ export default function SearchResults() {
             setResultsCount={setResultsCount}
             lang={htmlLang}
             locale={locale}
-            title="News Links"
+            title={i18n.newsLinks}
             icon="news"
             external
           />

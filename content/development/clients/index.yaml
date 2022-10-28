@@ -1,0 +1,50 @@
+__contribute: 1
+__updated: 2022-02-22
+title: Node Clients
+seo: Download links for and information about the various Ethereum Classic Node Clients.
+__contributors:
+  - pyskell
+  - bobsummerwill
+  - dax-classix
+  - arvicco
+  - ProphetDaniel
+  - q9f
+  - YazzyYaz
+  - realcodywburns
+  - stevanlohja
+  - TheEnthusiasticAs
+  - gitr0n1n
+description: |
+  Clients are software packages that can be used to run the Ethereum Classic protocol in various modes; Full Nodes, Archive Nodes, Fast Sync Clients, etc. Clients allow you to run a mainnet or testnet node, validate blocks through mining, and interface with the network through API.
+
+  You can find additional tools to help manage client deployments in the [tooling](/development/tooling) section.
+items:
+  clients:
+    __type: cells
+    buttonItems:
+      guide:
+        __icon: book
+        name: Guide
+      release:
+        __icon: code
+        name: Releases
+      support:
+        __iconRef: supportIcon
+        name: Support
+    items:
+      CoreGeth:
+        __link: https://etclabscore.github.io/core-geth
+        __guide: https://etclabscore.github.io/core-geth/getting-started/installation/
+        __release: https://github.com/etclabscore/core-geth/releases
+        __support: https://discord.gg/xQY3MTUTYd
+        __supportIcon: discord
+        __name: CoreGeth
+        description: A highly configurable Go implementation of the Ethereum protocol. This client is Long Term Supported by the ETC Cooperative development team. This is a recommended client from a well-known transparent team.
+      Hyperledger Besu:
+        __link: https://besu.hyperledger.org/
+        __guide: https://besu.hyperledger.org/en/stable/HowTo/Get-Started/Install-Binaries/
+        __release: https://github.com/hyperledger/besu/releases
+        __support: https://discord.gg/xQY3MTUTYd
+        __supportIcon: discord
+        __name: Hyperledger Besu
+        description: An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client. This client is Long Term Supported by the ETC Cooperative teams. This is a recommended client from a well-known transparent team.

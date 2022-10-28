@@ -10,6 +10,7 @@ import Icon from "./icon";
 import { useLocalization } from "../../plugins/translations-plugin/src/components/localizationProvider";
 import Disclaimer from "./disclaimer";
 import TwContainer from "./twContainer";
+import NoItems from "./noItems";
 
 export default function News({ pageContext, data, i18n }) {
   const { isDefaultLocale, locale } = useLocalization();
@@ -39,6 +40,16 @@ export default function News({ pageContext, data, i18n }) {
           <Pagination {...{ pageContext }} scrollTo="content-top" />
         </div>
         <div tw="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 md:gap-3">
+          {pageContext.currentPage === 1 && !pageContext.isDefaultLocale && (
+            <Link
+              notLocalized
+              tw="text-sm col-span-full bg-primary-lightest text-primary-neutral border border-primary-lighter hover:bg-primary-lighter hover:text-primary-dark rounded-md flex items-center justify-center space-x-4 p-3"
+              to={pageContext.filterBase}
+            >
+              <Icon icon="language" tw="h-5" />
+              <div>{i18n.changeLanguage}</div>
+            </Link>
+          )}
           {pageContext.currentPage === 1 && pageContext.filter !== "blog" && (
             <>
               <div tw="lg:hidden col-span-full">
@@ -49,10 +60,11 @@ export default function News({ pageContext, data, i18n }) {
                 to="https://github.com/ethereumclassic/ethereumclassic.github.io#contribute"
               >
                 <Icon icon="plus" tw="h-5" />
-                <div>Support ETC by submitting your own links!</div>
+                <div>{i18n.support}</div>
               </Link>
             </>
           )}
+          {!data.items.edges.length && <NoItems />}
           {data.items.edges.map(({ node }) => (
             <NewsItem key={node.id} item={node} lines={3} />
           ))}

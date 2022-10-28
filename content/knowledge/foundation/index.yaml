@@ -1,0 +1,61 @@
+__contribute: 1
+__contributors:
+  - arvicco
+  - bobsummerwill
+  - cseberino
+  - dax-classix
+  - dax-classix
+  - gitr0n1n
+  - IstoraMandiri
+  - lgn21st
+  - matthewjamesr
+  - ProphetDaniel
+  - ProphetDaniel
+  - pyskell
+  - realcodywburns
+  - redsn0w0
+  - TheEnthusiasticAs
+  - Zorlin
+items:
+  main:
+    __type: links
+    title: Core Principles
+    description: This section contains a selection of the most important articles that dive deep into The Ethereum Classic Foundation's underlying philosophy. These are the ideas that ultimately keep the Original Ethereum Vision going.
+    items:
+      Declaration of Independence:
+        name: Declaration of Independence
+        __link: /blog/2016-08-13-declaration-of-independence
+        description: A statement of ETC's reason for being, a list of grievances, and a description of its principles and goals. It is one of Ethereum Classic's early founding documents, originally published in August 2016 and translated into many languages.
+      A Crypto-Decentralist Manifesto:
+        name: A Crypto-Decentralist Manifesto
+        __link: /blog/2016-07-11-manifesto
+        description: Another influential document from Ethereum Classic's early days. It outlines the core values of decentralization, and helps inform decision making within the ETC communtiy.
+      Ethereum Classic Vision:
+        name: Ethereum Classic Vision
+        __link: https://etherplan.com/2019/08/14/ethereum-classic-vision/8595/
+        description: How Ethereum Classic will be a successful computing platform and why ETC is an excellent store of value.
+      keepEtcClassic:
+        name: Let's Keep Ethereum Classic Classic
+        __link: https://ethereumclassicclassic.org
+        description: An in-depth reminder about the importance of defending the principles of Ethereum Classic, in response to a (now withdrawn) Treasury Proposal.
+  past:
+    __type: links
+    title: The Shoulders of Giants
+    description: Ethereum Classic could not exist without other trailblazing projects such as the original blockchain groundwork and decentralist philosophy of Bitcoin, and the Turing-complete Smart Contract platform technology provided by The Ethereum Project.
+    items:
+      The idea of Smart Contracts:
+        name: The idea of Smart Contracts
+        __link: https://web.archive.org/web/20020316215014/http://szabo.best.vwh.net/idea.html
+        description: Nick Szabo's idea of smart contracts post from 1997.
+      Bitcoin A Peer-to-Peer Electronic Cash System:
+        name: "Bitcoin: A Peer-to-Peer Electronic Cash System"
+        __link: https://bitcoin.org/en/bitcoin-paper
+        description: Satoshi Nakamoto's original whitepaper is still recommended reading for anyone studying how Bitcoin and Blockchains work.
+      ethWhitepaper:
+        name: "Ethereum Whitepaper"
+        __link: https://ethereum.org/en/whitepaper/
+        description: The Original Ethereum Whitepaper explains how the utility of blockchain technology is unleashed by "solving the political problem of deciding who gets to influence the consensus", and the concept of DAOs, Stablecoins, etc.
+      ethYellowPaper:
+        name: "Ethereum Yellowpaper"
+        __link: https://ethereum.github.io/yellowpaper/paper.pdf
+        description: The original technical description of the Ethereum Protocol, by Gavin Wood

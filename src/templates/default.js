@@ -16,7 +16,7 @@ export const pageQuery = graphql`
     mdx(slug: { eq: $mdxSlug }) {
       body
       toc: tableOfContents
-      excerpt(pruneLength: 199, truncate: false)
+      excerpt(pruneLength: 180, truncate: true)
       headings(depth: h1) {
         value
       }

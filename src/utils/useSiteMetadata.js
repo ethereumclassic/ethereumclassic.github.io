@@ -7,6 +7,7 @@ export default function useSiteMetadata() {
         siteMetadata {
           siteUrl
           socialImage
+          i18nDev
         }
       }
     }

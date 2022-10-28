@@ -1,6 +1,6 @@
 import React from "react";
 import tw from "twin.macro";
-import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
+import { useLocalization } from "../../plugins/translations-plugin/src/components/localizationProvider";
 import useLocaleItems from "../utils/useLocaleItems";
 
 import Icon from "./icon";
@@ -24,13 +24,20 @@ const palette = {
 
 export default function Announcement() {
   const {
-    ui: { announcement },
-  } = useGlobals();
+    isDefaultLocale,
+    globals: {
+      ui: { announcement },
+    },
+  } = useLocalization();
   const { basePath } = useLocaleItems();
   if (!announcement.enabled) {
     return null;
   }
-  if (announcement.landingOnly && basePath !== "") {
+  if (
+    !announcement.allPages &&
+    basePath !== "" &&
+    (isDefaultLocale || !announcement.alli18nPages)
+  ) {
     return null;
   }
   const col = palette[announcement.color || "green"];

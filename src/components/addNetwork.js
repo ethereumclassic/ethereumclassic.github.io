@@ -1,7 +1,9 @@
 import React from "react";
+import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
 import Link from "./link";
 
 export default function AddNetworkButton() {
+  const { ui } = useGlobals();
   return (
     <Link
       iconLeft="link"
@@ -9,7 +11,7 @@ export default function AddNetworkButton() {
       transparent
       to="https://chainlist.org/en/chain/61"
     >
-      Add ETC to MetaMask
+      {ui.metaMask}
     </Link>
   );
 }

@@ -1,0 +1,138 @@
+title: Ethereum Classic
+seo: "A decentralized computing platform that runs smart contracts: applications that run exactly as programmed without downtime, censorship or third party interference"
+#  Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
+metaLocale: en_US
+#  Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
+htmlLang: en
+published: Published
+updated: Last updated
+author: Author
+timeline:
+  chronological: Chronological
+  reversed: Reversed
+disclaimers:
+  verify:
+    title: Don't Trust, Verify.
+    text: External links are unofficial community submissions.
+  opinion:
+    title: Opinionated Content
+    text: This page does not necessarily reflect the view of all ETC stakeholders.
+next: Continue Reading
+prev: Previous Article
+contribute: If you would like to contribute by adding or correcting information to this page, please drop a message on [Discord](https://discord.com/invite/dwxb6nf) or create an issue on [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io)
+contributors: "This page exists thanks in part to the following contributors:"
+allLanguages: All Languages
+noResults: No Results
+netlify: This site is powered by Netlify
+metaMask: Add ETC to MetaMask
+helpTranslate: Support ETC by helping to translate this website!
+noItems: Sorry, this page is empty!
+search:
+  box: Search
+  noResults: No Results...
+  poweredBy: Powered by Algolia
+  generalInfo: General Information
+  blogArticles: Blog Articles
+  videos: Videos
+  applications: Applications
+  newsLinks: News Links
+  txSearch: Looks you have entered an Ethereum Classic address or transaction.
+  blockScout: "Search Blockscout Explorer:"
+  explorers: ...or check out some other [blockchain explorers](/network/explorers).
+##
+## Announcement Banner
+announcement:
+  __color: green
+  __enabled: 0
+  __allPages: 0
+  __alli18nPages: 1
+  __icon: language
+  text: |
+    This website is now translated into multiple languages through machine learning. Click the globe icon at the top right of the page to change language. If you'd like to help correct translations, please contact us!
+  button:
+    __link: https://github.com/ethereumclassic/ethereumclassic.github.io#translations
+    text: "Help Translate"
+## Footer
+signOff: Made with `<3` for the Original Ethereum Vision
+socialHilight: The ETC community is active on Discord
+socialItems:
+  discord:
+    __link: https://ethereumclassic.org/discord
+    __icon: discord
+    __hilight: 1
+    name: Discord
+  discordCoop:
+    __link: https://discord.gg/5wDyd6u6pU
+    __icon: discord
+    name: ETC Coop Discord
+  githubOrg:
+    __link: https://github.com/ethereumclassic
+    __icon: github
+    name: Github
+  githubLabs:
+    __link: https://github.com/etclabscore
+    __icon: github
+    name: ETC Labs Github
+  reddit:
+    __link: https://reddit.com/r/ethereumclassic
+    __icon: reddit
+    name: Reddit
+  twitter:
+    __link: https://twitter.com/eth_classic
+    __icon: twitter
+    name: Twitter
+appTypes:
+  finance:
+    __color: green
+    __icon: finance
+    name: Finance
+  games:
+    __icon: game
+    __color: blue
+    name: Games
+  identity:
+    __icon: identity
+    __color: red
+    name: Identity
+  interoperability:
+    __icon: exchange
+    __color: yellow
+    name: Interoperability
+  nfts:
+    __icon: award
+    __color: purple
+    name: NFTs
+  other:
+    __icon: etc
+    __color: gray
+    name: Other
+appLinks:
+  homepage: Homepage
+  app: App Site
+  twitter: Twitter
+  github: Github
+newsTypes:
+  news:
+    name: Link
+    __icon: external
+  blog:
+    name: Blog
+    __icon: news
+  application:
+    name: App
+    prefix: "App: "
+    __icon: cursor
+  video:
+    name: Video
+    prefix: "Video: "
+    __icon: video
+## App Modal
+appModal:
+  verifiedContract: Contract
+  openSource: Open Source
+  audit: Audited
+  testSuite: Test Suite
+  ipfsFrontend: IPFS Frontend
+  checkListRating: Trustless Checklist Level
+  warning: "**Warning:** This user-submitted app is NOT vetted and NOT guaranteed to be safe; use at your own risk, and always do your own research!"
+  added: Added
