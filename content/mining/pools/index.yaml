@@ -112,12 +112,6 @@ items:
         __name: f2pool
         __link: https://www.f2pool.com/
         __primary: 1
-      FairPool:
-        __name: FairPool
-        __link: https://etc.fairpool.xyz/
-      FirePool:
-        __name: FirePool
-        __link: https://firepool.com/
       flexpool:
         __name: Flexpool
         __link: https://flexpool.io/
