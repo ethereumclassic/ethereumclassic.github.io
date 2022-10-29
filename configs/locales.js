@@ -2,7 +2,7 @@
 
 const enabled = true;
 const defaultLocale = "en";
-const dev = !!process.env.GATSBY_I18N_DEV;
+const dev = process.env.GATSBY_I18N_DEV;
 const locales = {
   en: {
     name: "English",

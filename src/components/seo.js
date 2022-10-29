@@ -74,7 +74,7 @@ export default function Seo({ data, i18n, path, pageContext: { basePath } }) {
       <Helmet titleTemplate={`%s - ${title}`} defaultTitle={title}>
         {i18nDev && [
           <script type="text/javascript">
-            {`var _jipt = []; _jipt.push(['project', 'etc-web-test-2']);`}
+            {`var _jipt = []; _jipt.push(['project', '${i18nDev}']);`}
           </script>,
           <script
             type="text/javascript"
