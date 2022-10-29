@@ -1,7 +1,7 @@
 title: Developer FAQs
 seo: Frequently Asked Questions for those looking to contribute to or build applications on Ethereum Classic.
 info: Can't find an answer to your question here? Try asking in the ETC community [discord](https://ethereumclassic.org/discord) server. Specifically, you may find the ETC Discord's `#dev-general` channel of interest.
-__contribute: true
+__contribute: 1
 description: Want to learn how to build an application or protocol on top of Ethereum Classic? This page is for you.
 items:
   questions:

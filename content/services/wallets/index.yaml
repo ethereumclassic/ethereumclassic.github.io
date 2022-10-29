@@ -44,7 +44,7 @@ items:
       MyEtherWallet:
         __link: https://www.myetherwallet.com
         __name: MyEtherWallet
-        __primary: true
+        __primary: 1
       Portis:
         __link: https://www.portis.io/
         __name: Portis
@@ -65,7 +65,7 @@ items:
       MetaMask:
         __link: https://metamask.io/
         __name: MetaMask
-        __primary: true
+        __primary: 1
       Nifty Wallet:
         __link: https://github.com/poanetwork/nifty-wallet
         __name: Nifty Wallet
@@ -101,7 +101,7 @@ items:
       Ledger:
         __link: https://shop.ledger.com/
         __name: Ledger
-        __primary: true
+        __primary: 1
       Parity Signer:
         __link: https://www.parity.io/signer/
         __name: Parity Signer
@@ -114,7 +114,7 @@ items:
       Trezor:
         __link: https://trezor.io/
         __name: Trezor
-        __primary: true
+        __primary: 1
   software:
     __type: buttons
     title: Software Wallets
@@ -146,7 +146,7 @@ items:
         __name: Coin Wallet
       Coinbase Wallet:
         __link: https://wallet.coinbase.com/
-        __primary: true
+        __primary: 1
         __name: Coinbase Wallet
       Coinomi:
         __link: https://www.coinomi.com/
@@ -217,7 +217,7 @@ items:
       Trust Wallet:
         __link: https://trustwallet.com/ethereum-classic-wallet
         __name: Trust Wallet
-        __primary: true
+        __primary: 1
       Trustee Wallet:
         __link: https://trusteeglobal.com/
         __name: Trustee Wallet
