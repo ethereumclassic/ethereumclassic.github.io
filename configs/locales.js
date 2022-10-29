@@ -1,7 +1,8 @@
 // remember to update crowdin config
 
-const enabled = false;
+const enabled = true;
 const defaultLocale = "en";
+const dev = !!process.env.GATSBY_I18N_DEV;
 const locales = {
   en: {
     name: "English",
@@ -10,7 +11,7 @@ const locales = {
   },
   zh: {
     name: "中文",
-    enabled: true,
+    enabled: false,
     dayJsImport: "zh",
   },
   de: {
@@ -20,7 +21,7 @@ const locales = {
   },
   es: {
     name: "Español",
-    enabled: false,
+    enabled: true,
     dayJsImport: "es",
   },
   fr: {
@@ -61,9 +62,16 @@ const locales = {
   },
 };
 
+if (dev) {
+  locales.aa = { name: "Editor", enabled: true };
+}
+
+console.log({ locales });
+
 module.exports = {
   //  only pass default locale if dsabled
-  locales: !enabled ? { [defaultLocale]: locales[defaultLocale] } : locales,
+  locales: enabled ? locales : { [defaultLocale]: locales[defaultLocale] },
   defaultLocale,
   enabled,
+  dev,
 };

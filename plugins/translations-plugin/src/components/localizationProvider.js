@@ -1,6 +1,10 @@
+// TODO refactor useLocales into this plugin to map them once, and include dev...
+
 import React, { useContext } from "react";
 import dayjs from "dayjs/dayjs.min.js";
 import localizedPlugin from "dayjs/plugin/localizedFormat";
+
+import { dev } from "../../../../configs/locales";
 
 // TODO if the build is too big
 // figure out how to do this dynamically but also work with SSR
@@ -45,6 +49,7 @@ function LocalizationProvider({
         basePath,
         globals,
         dayjs,
+        dev,
       }}
     >
       {children}

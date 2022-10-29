@@ -12,8 +12,8 @@ const IconComp = forwardRef(function (
   );
 });
 
-export default function Icon({ icon, ...rest }) {
-  const I = icons[icon] || icons.menu;
+export default function Icon({ icon, fallback, ...rest }) {
+  const I = icons[icon] || (fallback && icons[fallback]) || icons.menu;
   // Imported SVGs
   if (typeof I === "string") {
     return <img src={I} alt={rest.alt || ""} {...rest} />;

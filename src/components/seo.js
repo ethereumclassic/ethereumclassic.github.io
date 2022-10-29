@@ -8,14 +8,17 @@ import { theme } from "twin.macro";
 
 import SeoHelper from "./seoHelper";
 
-import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
+import { useLocalization } from "../../plugins/translations-plugin/src/components/localizationProvider";
 import { etc as EtcLogo } from "../utils/icons";
 import { useTheme } from "../utils/themeProvider";
 import useSiteMetadata from "../utils/useSiteMetadata";
 
 export default function Seo({ data, i18n, path, pageContext: { basePath } }) {
-  const { ui } = useGlobals();
-  const { siteUrl, socialImage, i18nDev } = useSiteMetadata();
+  const {
+    globals: { ui },
+    dev: i18nDev,
+  } = useLocalization();
+  const { siteUrl, socialImage } = useSiteMetadata();
   const { isDark } = useTheme();
 
   const url = `${siteUrl}${path}`;
@@ -69,6 +72,16 @@ export default function Seo({ data, i18n, path, pageContext: { basePath } }) {
   return (
     <>
       <Helmet titleTemplate={`%s - ${title}`} defaultTitle={title}>
+        {i18nDev && [
+          <script type="text/javascript">
+            {`var _jipt = []; _jipt.push(['project', 'etc-web-test-2']);`}
+          </script>,
+          <script
+            type="text/javascript"
+            src="//cdn.crowdin.com/jipt/jipt.js"
+          />,
+        ]}
+
         {/* favicon, with fallback */}
         <link
           rel="icon"

@@ -1,9 +1,9 @@
+require("dotenv").config({ path: ".env" });
+
 const siteUrl = "https://ethereumclassic.org";
 const lastUpdated = new Date("2022-02-22"); // passed to sitemap, shows roughtly last time page was updated unless overridden
 
 const { locales, defaultLocale } = require("./configs/locales");
-
-require("dotenv").config({ path: ".env" });
 
 module.exports = {
   flags: {
@@ -15,7 +15,6 @@ module.exports = {
     siteUrl,
     socialImage: "/etc-social-card.png",
     redirects: require("./configs/redirects"),
-    i18nDev: !!process.env.I18N_DEV,
     lastUpdated,
   },
   plugins: [

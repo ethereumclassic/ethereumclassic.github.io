@@ -22,7 +22,12 @@ export default function LocaleButtons() {
             !enabled && tw`opacity-50 cursor-not-allowed`,
           ]}
         >
-          <Icon icon={key} alt={name} tw="h-6 w-6 rounded-full" />
+          <Icon
+            icon={key}
+            fallback="language"
+            alt={name}
+            tw="h-6 w-6 rounded-full"
+          />
           <span tw="ml-3 block truncate">{name}</span>
         </Link>
       ))}
