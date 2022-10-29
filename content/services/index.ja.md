@@ -1,19 +1,19 @@
 ---
-title: Services
+title: サービス内容
 updated: 2022-02-22
-seo: A directory of services that make up the rich ecosystem that sits on top of Ethereum Classic, including Wallets, Exchanges and Decentralized Applications.
+seo: ウォレット、エクスチェンジ、分散型アプリケーションなど、Ethereum Classicの上に乗っている豊富なエコシステムを構成するサービスのディレクトリです。
 ---
 
-On top of the Ethereum Classic blockchain is a rich ecosystem of applications, including Wallets, Exchanges and Decentralized Applications. As the number of these services grows over time, so does the utility and value of the network as a whole.
+イーサリアムクラシックブロックチェーンの上には、ウォレット、エクスチェンジ、分散型アプリケーションなど、豊富なアプリケーションのエコシステムがあります。 これらのサービスの数が時間とともに増えていけば、ネットワーク全体としての効用や価値も高まっていきます。
 
-## Important Warning
+## 重要なお知らせ
 
-Ethereum Classic, as a neutral permissionless protocol, has no means to gate-keep what is deployed to it, so the only protection users have against falling victim to bad projects is vigilance and a level of prudence, making sure that what they are interacting with has a level of integrity they are comfortable with.
+Ethereum Classicは中立的なパーミッションレスプロトコルであるため、デプロイされたものをゲートキープする手段がありません。そのため、悪質なプロジェクトの犠牲にならないようユーザーを守るには、警戒心と慎重さを持ち、やり取りするものが自分にとって安心できるレベルの完全性を持っているかどうかを確認するしかありません。
 
-Where it is relevant, this section will try to provide some hints as to what are signs of a good project. The _gold standard_ is a team with a track record publishing open source code with a full test suite and extensive audits, but it is up to individuals to decide for themselves what level of assurance they need depending on their use case, financial commitment, and risk appetite.
+このセクションでは、関連する部分について、良いプロジェクトの兆候を示すいくつかのヒントを提供することを試みます。 _ゴールドスタンダード_ は、完全なテストスイートと広範な監査を備えたオープンソースコードを公開している実績のあるチームですが、どの程度の保証が必要かは、ユースケース、財政的コミットメント、リスク許容度に応じて、個人が自ら決定することができます。
 
-Even _gold standard_ projects will occasionally fall victim to bugs, hacks and rugpulls, so always follow the first rule of crypto: **don't invest what you can't afford to lose**.
+_ゴールドスタンダード_ プロジェクトでさえ、バグやハッキング、ラグパルの犠牲になることがあります。そのため、常に暗号の第一法則に従ってください： **あなたが失うことが許されないものを投資してはいけません**.
 
-All the links to external resources on the website should be treated with caution, as they are community submitted, are not vetted, and cannot be guaranteed to be safe.
+本サイトに掲載されている外部リソースへのリンクは、すべてコミュニティから寄せられたものであり、吟味されておらず、安全性を保証するものではありませんので、慎重に取り扱ってください。
 
-Please take precautions and do your own research before using an application.
+アプリケーションを利用する際は、注意事項を守り、ご自身で調べてからご利用ください。
