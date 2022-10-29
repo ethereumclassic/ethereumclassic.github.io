@@ -20,13 +20,13 @@ https://chainlist.org/en/chain/61 の「Connect-Wallet」をクリックする�
 
 また、 [Nifty Wallet](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid?ucbcb=1)は MetaMask のフォークで、ETC をすぐにサポートします。
 
-## Step 1: Log Into MetaMask
+## ステップ1：MetaMaskにログインする
 
 まず、ログインしてMetaMaskのロックを解除します。
 
 ![ステップ1](./01.png)
 
-## Step 2: View Initial Screen
+## ステップ2：初期画面の表示
 
 通常の初期画面が表示されます。 この場合、デフォルトのネットワークはイーサリアム（ETH）であり、アカウントは通常通り表示されます。 他のネットワークを利用した場合、最後に利用したネットワークであれば、MetaMaskのロック解除時にデフォルトとして表示されます。
 
@@ -34,7 +34,7 @@ https://chainlist.org/en/chain/61 の「Connect-Wallet」をクリックする�
 
 ![ステップ2](./02.png)
 
-## Step 3: Open the Networks Dropdown Menu
+## ステップ3：「ネットワーク」ドロップダウンメニューを開く
 
 次に、ネットワークのドロップダウンメニューを開きます。 デフォルトのネットワークが表示されているバーをクリックすると、これを行うことができます。
 
@@ -48,13 +48,13 @@ https://chainlist.org/en/chain/61 の「Connect-Wallet」をクリックする�
 
 ![ステップ3](./03.png)
 
-## Step 4: Select Custom RPC
+## ステップ4：カスタムRPCを選択する
 
 そこで、次に「カスタムRPC」をクリックします。
 
 ![ステップ4](./04.png)
 
-## Step 5: View the New Network Form
+## ステップ5：新しいネットワークフォームを表示する
 
 カスタムRPC」を選択すると、ネットワークを追加するためのフォームが表示されます。 上部にセキュリティメッセージが表示され、使用したい新しいネットワークを入力するための空欄のある5つのオプションがあります。
 
@@ -66,7 +66,7 @@ https://chainlist.org/en/chain/61 の「Connect-Wallet」をクリックする�
 
 ![ステップ5](./05.png)
 
-## Step 6: Enter the Ethereum Classic Network Information
+## ステップ6：イーサリアムクラシックネットワーク情報の入力
 
 次に、Ethereum Classicの固有の情報を追加します。 以下は、使用したネットワークデータです。
 
@@ -88,13 +88,13 @@ _[編集部注】Etherclusterは現在， [RIVET](https://rivet.cloud/)によっ
 
 ![ステップ6](./06.png)
 
-## Step 7: View Ethereum Classic in the Networks Dropdown Menu
+## ステップ7：ネットワークドロップダウンメニューでイーサリアムクラシックを表示する
 
 ETCが追加されると、ネットワークのドロップダウンメニューで、ネットワークのリストに追加されたことが確認できます。
 
 ![ステップ7](./07.png)
 
-## Step 8: You May View Your Same Account but on ETC
+## ステップ8：同じアカウントをETCで表示することができます。
 
 アカウントにアクセスすると、ETHのアカウントと同じであることがわかります。 私の場合、同じ `0x48c1...EfF3` のアカウントになります。
 
@@ -106,13 +106,13 @@ ETCが追加されると、ネットワークのドロップダウンメニュ�
 
 ![ステップ8](./08.png)
 
-## Step 9: You May Move Back to Ethereum With the Same Account
+## ステップ9：同じアカウントでイーサリアムに戻ることができる
 
 そのため、両方のネットワークが同じアカウント形式を使用しているため、イーサリアムのメインネットに戻ると、再び同じ番号のETHアカウントを見ることができるようになります。
 
 ![ステップ9](./09.png)
 
-## Step 10: You May Move Back to Ethereum Classic With the Same Account
+## ステップ10:同じアカウントでイーサリアムクラシックに戻ることができます。
 
 ETCネットワークを使用するには、ネットワークのドロップダウンメニューでイーサリアムクラシックを再度選択するだけで、ETCの残高が再度表示されます。
 
