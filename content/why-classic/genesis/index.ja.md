@@ -1,451 +1,527 @@
 ---
-title: Genesis
+title: ジェネシス
 updated: 2022-02-22
 contribute: true
 disclaimer: opinion
-seo: The origin story of Ethereum Classic, covering the infamous DAO Hack, and the resulting Hard Fork that caused the Ethereum Foundation to abandon their promise of Code is Law.
-info: "**Disclaimer:** The events outlined in this story are believed to be accurate, but some details could not be verified as first-hand sources were deleted or otherwise lost to history. If any facts are disputed or additional sources become available, corrections are welcome."
+seo: イーサリアムクラシックの起源を、悪名高いDAOハッキングと、その結果、イーサリアム財団が「コードは法律だ」という約束を破棄する原因となったハードフォークを取り上げながら解説します。
+info: "**免責事項：**この物語で概説された出来事は正確であると思われるが、最初の情報源が削除されたり、歴史から失われたりして、いくつかの詳細は確認できなかった。 もし、事実と異なる点があったり、追加資料が入手できた場合は、訂正を歓迎します。"
 ---
 
-## Key Points
+## キーポイント
 
-- Ethereum™ and Ethereum Classic were once the same blockchain.
-- The DAO was a contract that raised a lot of money, but it had a bug that was exploited. ETH was potentially lost to The Hacker.
-- 70% of the lost funds were recovered, but 30% remained in limbo.
-- In response, a Hard Fork was proposed, confiscating the remaining 30% from The Hacker by stopping their application.
-- The Hard Fork was controversial as it was not fixing a problem with the Ethereum protocol itself, and Ethereum marketed itself on "Build Unstoppable Applications".
-- A highly questionable "coin vote" led Ethereum Foundation to support the Hard Fork, breaking their neutrality.
-- The Hard Fork caused a chain split, resulting in Ethereum Classic.
-- The Hard Fork was not necessary as the hacked funds could have been recovered on Ethereum Classic, but because of the fork this effort was abandoned.
-- Having abandoned _Code is Law_, Ethereum™ finds itself in a philosophically questionable position when it comes to future interventions, which may be problematic.
-- Ethereum Classic remains the longest running Smart Contract Platform, upholding the promise of "Build Unstoppable Applications".
+- Ethereum™とEthereum Classicはかつて同じブロックチェーンでした。
+- DAOは多くの資金を集めた契約でしたが、バグがあり、それを利用されたのです。 ETHはThe Hackerに奪われる可能性があった。
+- 失われた資金の70％は回収されたが、30％は宙に浮いたままであった。
+- これに対し、ハードフォークが提案され、申請を止めることで残りの30％をThe Hackerから没収した。
+- ハードフォークは、イーサリアムのプロトコル自体の問題を修正するものではなかったため、議論を呼んだ。イーサリアムは、「止められないアプリケーションの構築」を売りにしていた。
+- 非常に疑わしい「コイン投票」によって、Ethereum Foundationは中立性を破ってハードフォークを支持することになった。
+- ハードフォークにより連鎖分裂が起こり、Ethereum Classicが誕生した。
+- ハッキングされた資金はEthereum Classicで回収できたので、ハードフォークは必要なかったのですが、フォークのためにこの取り組みは放棄されました。
+- _Code is Law_を放棄したことで、Ethereum™は将来の介入に関して、哲学的に疑問のある立場にあることがわかり、問題が生じる可能性があります。
+- イーサリアムクラシックは、「止められないアプリケーションを作ろう」という約束を守り、スマートコントラクトプラットフォームとして最も長く稼働しています。
 
-## Introduction
+## はじめに
 
-Future crypto historians will surely reference Ethereum Classic’s miraculous origin story as a case study that illuminates the sociotechnological fabric of blockchains. Like a Large Hadron Collider experiment, _the incident_ that birthed ETC tore apart what was previously considered a more or less atomic entity, permanently splitting the Ethereum project in two, and scattering a cascade of valuable insights to observers.
+将来の暗号史家は、イーサリアムクラシックの奇跡的な起源物語を、ブロックチェーンの社会技術的構造を照らし出すケーススタディとして参照するに違いないでしょう。 大型ハドロン衝突型加速器の実験のように、 _ETCを誕生させた事件_ は、それまで多かれ少なかれ原子的存在と考えられていたものを引き裂き、イーサリアムプロジェクトを永久に二つに分割し、観察者に貴重な洞察のカスケードをばらまきました。
 
-ETC's story is fascinating and essential reading for any cryptocurrency researcher from a purely historical perspective. There is no story more relevant for those who are interested in really understanding what makes blockchains valuable. Against all the odds, despite the wishes of many, _Code is Law_ and "Build Unstoppable Applications" ended up prevailing, and through the simple act of persisting, Ethereum Classic validated not just its value proposition, but the strength and tenacity of truly decentralized blockchains generally.
+ETCのストーリーは魅力的で、純粋に歴史的な観点から暗号通貨を研究する人にとって必須の読み物です。 ブロックチェーンの価値を真に理解しようとする人にとって、これほど関連性の高い話はないだろう。 多くの人の願いにもかかわらず、 _Code is Law_ と "Build Unstoppable Applications" が優勢となり、シンプルな粘り強い行動によって、Ethereum Classicはその価値提案だけでなく、真に分散化されたブロックチェーン全般の強さと粘り強さを検証したのです。
 
-## Advisories
+## 注意事項
 
-Ethereum Classic's mission can only be adequately understood through the events surrounding its origin story, which by definition puts it at odds with its sibling [Ethereum™](https://ethereum.org) in several important ways. But these differences should not be misunderstood as pitting Ethereum Classic against Ethereum™ as a whole. On the contrary, the two projects have far, far more in common than what separates them. Both Ethereum projects share the same general ambition to change the world for the better; the difference lies in what each project thinks is required to achieve this change.
+イーサリアムクラシックの使命は、その起源にまつわる出来事を通してのみ適切に理解することができます。その定義上、兄弟である [Ethereum™](https://ethereum.org) とはいくつかの重要な点において対立しています。 しかし、これらの違いは、Ethereum ClassicとEthereum™全体が対立していると誤解されてはなりません。 それどころか、この2つのプロジェクトは、両者を隔てるものよりも、はるかに多くの共通点を持っているのです。 イーサリアムの両プロジェクトは、世界をより良く変えたいという大志を共有しているが、違いは、この変化を実現するために何が必要だと各プロジェクトが考えているかという点にある。
 
-Ethereum Classic isn't anti-Ethereum™. Ethereum Classic _is_ Ethereum.
+イーサリアムクラシックはアンチイーサリアム™ではありません。 Ethereum Classic _は、_ Ethereumです。
 
-### Forgotten Details
+### 忘れ去られた詳細
 
-In the broader Ethereum community, while the existence of Ethereum Classic is reluctantly acknowledged, the critical details surrounding its creation are largely unknown and seldom reflected on, as they reveal a truth that many would rather forget.
+イーサリアムのコミュニティでは、イーサリアムクラシックの存在は不本意ながら認められているものの、その誕生にまつわる重要な詳細はほとんど知られておらず、多くの人が忘れたい事実を明らかにしているため、あまり振り返られることはありません。
 
-The details of this story expose a deeply rooted flaw in the Ethereum™ narrative. To some who are over-exposed to ETH, it poses a threat, which is one reason why Ethereum Classic itself is the target of dismissal, smear, and ridicule. But while the details of ETC's genesis may be inconvenient, the facts of history must be remembered. The details matter, as they warn about the perils of centralization and capture.
+この話の詳細は、Ethereum™の物語に深く根ざした欠点を露呈しています。 ETHに過剰に触れている一部の人々にとっては脅威であり、それがイーサリアムクラシックそのものを否定、中傷、嘲笑の対象にしている理由の1つでもある。 しかし、ETCの成り立ちの詳細は不都合かもしれないが、歴史の事実は忘れてはならない。 中央集権と捕捉の危険性を警告しているのだから、細部は重要である。
 
-> Those who cannot remember the past are condemned to repeat it.
+> 過去を思い出せない者は、それを繰り返すことを余儀なくされる。
 
-As time goes on it will become increasingly clear that many critics of ETC are made uncomfortable by a simple truth. When Ethereum™ abandoned _Code is Law_, it also abandoned a major, if not the only, long term value proposition of blockchains. For many, Ethereum Classic is an annoying reminder of this lost value, but it will persist regardless and happily pick up the pieces when, once again, Ethereum™ is bent to the will of special interests.
+ETCを批判する人たちの多くが、ある単純な事実に違和感を覚えていることは、時間が経つにつれて次第に明らかになっていくでしょう。 Ethereum™ が _Code is Law_を放棄したとき、唯一とは言わないまでも、ブロックチェーンの長期的な価値提案の主要な部分をも放棄してしまったのです。 多くの人にとって、イーサリアムクラシックはこの失われた価値を思い出させる厄介な存在ですが、それでも存続し、再びイーサリアム™が特別な利益団体の意のままに曲げられるとき、喜んでその破片を拾い集めることでしょう。
 
-### Blame the Game
+### ゲームのせいにする
 
-With this being said, and while coordination failures may have taken place in the past, there is no need for resentment towards anyone involved in or around the nascent stages of Ethereum. Far from it, all of those who contributed to Ethereum - forkers, anti-forkers, developers and non-developers alike - should be revered for their essential work in helping create one of the most significant achievements of a generation. Ethereum Classic owes a debt of gratitude to the Ethereum project and its creators.
+このように、過去に連携の失敗があったとはいえ、イーサリアムの黎明期に関わった人やその周辺を恨む必要はないでしょう。 それどころか、フォーク、アンチフォーク、開発者、非開発者を問わず、イーサリアムに貢献したすべての人々は、一世代で最も重要な成果の1つを生み出すのに不可欠な仕事として尊敬されるべきなのである。 Ethereum Classicは、Ethereumプロジェクトとそのクリエーターに恩義を感じています。
 
-There are points in this story that may suggest potential financial conflicts of interest, but these incentives are necessary elements of all blockchain projects and are to be expected, if not welcomed. In any case, as it is impossible to determine how much they did or did not play a part, all the individuals involved deserve the benefit of the doubt. Additionally, decisions made at the time were in all likelihood driven by honest disagreement about what would result in the best outcome for Ethereum, at a time when there was minimal real-world precedent to go by.
+この話の中には、金銭的な利益相反の可能性を示唆するような点もありますが、こうしたインセンティブはすべてのブロックチェーン・プロジェクトに必要な要素であり、歓迎はしないまでも、期待するところです。 いずれにせよ、どの程度関与したのかしなかったのか判断がつかない以上、関係者全員が疑わしきは罰せず、である。 また、当時の決定は、現実の前例がほとんどない中で、何がイーサリアムにとって最良の結果をもたらすかについて、正直な意見の相違によって行われた可能性が高い。
 
-The creation of Ethereum Classic was a strange and largely unforeseen outcome. Rather than blaming individuals or groups, it may be healthier to view the birth of Ethereum Classic as a happy accident.
+イーサリアムクラシックの誕生は、奇妙で、ほとんど予期していなかった結果でした。 個人や団体を非難するよりも、イーサリアムクラシックの誕生は幸せな事故と捉えた方が健全かもしれない。
 
-For these reasons, this reflection will intentionally avoid name-checking individuals, as should future discussion on the topic. Only organizations or high ranking executive positions will be identified when their roles are integral to understanding the situation.
+そのため、この考察では、今後の議論と同様、意図的に個人の名前を挙げることは避けている。 状況を理解するために不可欠な役割を担っている場合は、組織や高位幹部職のみを特定します。
 
-## The Original Ethereum Vision
+## イーサリアムの原型となるビジョン
 
-In the beginning, there was "Build Unstoppable Applications" and for a time, it was good. It was a real revolution, as your average developer was able to create a new type of software that could not be stopped or censored by anyone. In the early days, there was unified support behind the concept of _Code is Law_ within the Ethereum community. It was not just uncontroversial, but the mission itself.
+当初は「ビルドアンストッパブルアプリケーションズ」があり、一時期は良かったのですが、今はどうなんでしょう。 一般の開発者が、誰にも止められない、検閲されない、新しいタイプのソフトウェアを作ることができたのだから、まさに革命であった。 初期の頃、イーサリアムのコミュニティ内では、 _Code is Law_ というコンセプトが統一的に支持されていました。 議論の余地がないどころか、ミッションそのものだった。
 
-The phrase "Build Unstoppable Applications" [appeared](https://web.archive.org/web/20150802035735/https://www.ethereum.org/) on the official Ethereum website, which as we [previously](/why-classic/code-is-law) looked at, is a feature that depends on _Code is Law_. Unstoppability means that Smart Contract code is the ultimate arbiter of transaction outcomes, as opposed to courts or other forces outside the contract layer who would otherwise be able to stop or overrule applications.
+Build Unstoppable Applications」というフレーズが [Ethereumの公式サイトに登場](https://web.archive.org/web/20150802035735/https://www.ethereum.org/) 以前 [](/why-classic/code-is-law) で見たように、この機能は _Code is Law_に依存するものです。 停止できないとは、アプリケーションを停止したり覆したりすることができる裁判所や契約層外の他の力とは対照的に、スマートコントラクトコードが取引結果の最終決定者であることを意味します。
 
-> Why are blockchains useful?  
-> \- You can run applications on them, and convince your users that your application will remain working even if you lose interest in maintaining it, you are bribed or threatened to manipulate the application state in some way, or you acquire a profit motive to manipulate the application state in some way
+> ブロックチェーンはなぜ便利なのか？  
+> \- Ÿ ブロックチェーン上でアプリケーションを動作させることができ、アプリケーションのメンテナンスに興味がなくなったり、アプリケーションの状態を操作するよう賄賂や脅迫を受けたり、アプリケーションの状態を操作する利益動機を獲得したりしても、アプリケーションが動作し続けることをユーザーに納得させることができる。
 > 
-> - [The Value of Blockchain Technology, Ethereum Blog, April 2015](https://blog.ethereum.org/2015/04/13/visions-part-1-the-value-of-blockchain-technology/)
+> - [ブロックチェーン技術の価値、イーサリアムブログ、2015年4月](https://blog.ethereum.org/2015/04/13/visions-part-1-the-value-of-blockchain-technology/)
 
-![Ethereum.org Build Unstoppable Applications](./unstoppable.png)
+![Ethereum.org 止まらないアプリケーションの構築](./unstoppable.png)
 
-> Rather than being subject to the whims of any one arbitrary party, someone using a blockchain technology can take comfort in the knowledge that the status of their identity, funds or device ownership is safely and securely maintained in an ultra-secure, trustless distributed ledger Backed By Math™.
+> ブロックチェーン技術を利用する人は、任意の1人の人物の気まぐれに左右されるのではなく、自分のアイデンティティ、資金、デバイスの所有権の状態が、Backed By Math™という超安全で信頼性の高い分散台帳に安全かつ確実に保持されているという知識に安心感を持つことができます。
 > 
-> - [The Problem of Trust, Ethereum Blog, April 2015](https://blog.ethereum.org/2015/04/27/visions-part-2-the-problem-of-trust/)
+> - [信頼の問題、イーサリアム・ブログ、2015年4月](https://blog.ethereum.org/2015/04/27/visions-part-2-the-problem-of-trust/)
 
-Thousands flocked to the project based on this understanding and contributed time, talent, and money, united by the _Original Ethereum Vision_ of "Build Unstoppable Applications". They told their friends, vouched for its integrity, and, thanks to this, the word of Ethereum spread like wildfire.
+この理解に基づいて何千人もの人々がプロジェクトに集まり、時間、才能、資金を提供し、 _Original Ethereum Vision_ "Build Unstoppable Applications "で団結したのである。 その結果、イーサリアムの評判が一気に広まりました。
 
-Everything was going well in ETH land. People were excited, new ideas were sprouting, projects were launching, and one of those projects in particular was soon to _prove Classic_.
+ETHの地はすべてがうまくいっていた。 人々は興奮し、新しいアイデアが芽生え、プロジェクトが立ち上がりました。特にそのプロジェクトの1つが、まもなく _、Classic_を証明することになりました。
 
-## The DAO
+## DAO
 
-A DAO (pronounced "_Dow_ Jones") or "Decentralized Autonomous Organization" describes a Smart Contract system that, much like a company, manages the distribution of funds for many stakeholders, and is usually governed by voting mechanisms. The idea of DAOs had been around for a while, but wasn't practical until Ethereum made it easy to program and launch them, which many teams began to do in 2016.
+DAO（発音："_Dow_ Jones "）または「分散型自律組織」は、企業のように多くの利害関係者の資金分配を管理し、通常、投票メカニズムによって管理されるスマートコントラクトシステムを説明しています。 DAOのアイデアは以前からありましたが、イーサリアムが簡単にプログラムして起動できるようになるまで実用化されておらず、2016年に多くのチームが着手しました。
 
-![Artwork created for The DAO, based on Taoist symbology](./dao.png)
+![道教のシンボルをもとにThe DAOのために制作されたアートワーク](./dao.png)
 
-The Ethereum Foundation, who raised funds in a crowdsale to create Ethereum, had a Chief Communications Officer who [announced](https://blog.ethereum.org/2015/07/30/ethereum-launches/) the Ethereum Genesis Block and was an [advocate](https://twitter.com/stephantual/status/711874685156376576) of _Code is Law_. Like many others, EF's CCO saw the bright future promised by "Build Unstoppable Applications", indeed, it was ultimately their call to use this term to promote the Ethereum project.
+</a> クラウドセールで資金を集めてイーサリアムを作ったイーサリアム財団には、コミュニケーション最高責任者がいて、 [](https://blog.ethereum.org/2015/07/30/ethereum-launches/) イーサリアム創世記ブロックを発表し、
 
-In November 2015, the now former CCO teamed up with some coders and formed a company called slock.it. Slock.it wanted to launch not just _a_ DAO, but _The_ DAO, which would be used as a kind of venture capital fund targeting Ethereum projects. It was pitched as a way to grow the Ethereum ecosystem and net returns for investors, who would deposit ether into The DAO contract in exchange for DAO Tokens, which would allow voting for and yield rewards from investments made by The DAO.
+ _Code is Law_の提唱者であった。 他の多くの人と同様、EFのCCOは「Build Unstoppable Applications」が約束する明るい未来を見ており、実際、Ethereumプロジェクトを推進するためにこの言葉を使用したのは、最終的に彼らの判断でした。</p> 
 
-### Curator Cronyism
+2015年11月、現在の元CCOは数人のコーダーと組み、slock.itという会社を設立した。 Slock.itは、 _a_ DAOだけでなく、 _The_ DAOを立ち上げ、イーサリアムのプロジェクトを対象とした一種のベンチャーキャピタルファンドとして活用しようと考えていました。 これは、イーサリアムのエコシステムを成長させ、投資家に純益をもたらす方法として提案されました。投資家は、The DAOが行った投資に対する投票と報酬を可能にするDAOトークンと引き換えに、The DAO契約にイーサを預けることになります。
 
-The DAO became big news in the Ethereum world, not least because it received significant backing from many Ethereum Foundation members. Aside from the project being led by EF's recent CCO, The DAO had recruited "curators", who were given the ability to veto specific actions and act as a fail-safe, in effect reassuring investors that funds would not be at risk from certain types of attack. [All 11 curators](https://medium.com/ursium-blog/vitalik-buterin-gavin-wood-alex-van-de-sande-vlad-zamfir-announced-amongst-stellar-dao-curators-44be4d12dd6e#.1mjq6cfn6) had worked directly for the Ethereum Project or Foundation, including some notable heavyweights.
 
-Officially, The Ethereum Foundation itself did not have any involvement with The DAO, but perhaps because so many curators had ties to EF, this position had to be made explicit.
 
-![The Ethereum Foundation had no involvement with The DAO](./no-involvement.jpeg)
+### キュレーター・クロニイズム
 
-Ethereum Foundation's attempts to distance themselves from The DAO are important to note, as despite these claims of neutrality, subsequent actions appeared to tell a different story.
+DAOはイーサリアムの世界で大きなニュースとなったが、それは特に多くのイーサリアム財団のメンバーから大きな支持を得たからである。 このプロジェクトはEFの最近のCCOが主導しているほか、The DAOは「キュレーター」を募集しており、特定の行為に拒否権を与え、フェイルセーフとして機能することで、事実上、投資家が特定のタイプの攻撃から資金をリスクにさらすことがないように配慮しています。 [11人のキュレーター](https://medium.com/ursium-blog/vitalik-buterin-gavin-wood-alex-van-de-sande-vlad-zamfir-announced-amongst-stellar-dao-curators-44be4d12dd6e#.1mjq6cfn6) は全員、イーサリアムプロジェクトや財団で直接働いていた経験があり、その中には著名な大物も含まれています。
 
-### The World's Biggest Crowdsale
+公式には、イーサリアム財団自体はThe DAOに関与していないが、多くのキュレーターがイーサリアム財団と関係があったためか、この立場を明示する必要があった。
 
-At the time, many saw The DAO as a "no risk" investment, as not only did it have trustworthy curators, but investors would be able to withdraw their funds from The DAO in the future via a "split" mechanism; this further incentivized contributions as investors could "opt-out" later, but only had one chance to "opt-in" during the initial crowdsale.
+![イーサリアム財団はThe DAOに一切関与していない](./no-involvement.jpeg)
 
-Slock.it launched The DAO crowdsale in April 2016, and the ETH began to roll in, but soon, there were signs that something wasn't quite right. During the crowdsale, slock.it announced a [security proposal](https://medium.com/ursium-blog/dao-security-a-proposal-to-guarantee-the-integrity-of-the-dao-3473899ace9d), a curator called for a [moratorium](https://hackingdistributed.com/2016/05/27/dao-call-for-moratorium/), and another prominent curator gave a [warning](https://gavofyork.medium.com/why-ive-resigned-as-a-curator-of-the-dao-238528fbd447) and stepped down.
+イーサリアム財団がThe DAOと距離を置こうとしたことは重要で、こうした中立性の主張にもかかわらず、その後の行動は異なるストーリーを語っているように見えたからである。
 
-But despite these warnings, by the time the crowdsale was over, The DAO had raised an incredible $150 million worth of ETH, breaking all world records to become the largest crowdsale ever. This USD amount may not sound staggering by today's standards, but it was 14% of all ETH, which would be worth about $70 billion at today's market cap (as of December 2021, ETH had a price of ~$4,000).
+
+
+### 世界最大級のクラウドセール
+
+当時、The DAOは、信頼できるキュレーターがいるだけでなく、投資家は将来、The DAOから「スプリット」という仕組みで資金を引き出せるため、多くの人が「ノーリスク」の投資とみなし、さらに投資家は、後で「オプトアウト」できる一方で、最初のクラウドセールでは「オプトイン」できるチャンスが一度しかなかったため、貢献のインセンティブが高まりました。
+
+Slock.itは2016年4月にThe DAOのクラウドセールを開始し、ETHが流入し始めたが、やがて何かがおかしいという気配が漂う。 クラウドセール期間中、slock.itは [セキュリティに関する提案](https://medium.com/ursium-blog/dao-security-a-proposal-to-guarantee-the-integrity-of-the-dao-3473899ace9d)を発表し、あるキュレーターは [モラトリアムを呼びかけ](https://hackingdistributed.com/2016/05/27/dao-call-for-moratorium/)、また別の著名キュレーターは [警告](https://gavofyork.medium.com/why-ive-resigned-as-a-curator-of-the-dao-238528fbd447) を出し、退任した。
+
+しかし、こうした警告にもかかわらず、クラウドセールが終了する頃には、The DAOは1億5000万ドル相当のETHを調達し、あらゆる世界記録を更新して史上最大のクラウドセールとなったのです。 この米ドル額は、今日の基準では驚異的に聞こえないかもしれないが、全ETHの14％であり、今日の時価総額で約700億ドルの価値があった（2021年12月時点のETHの価格は〜4,000ドル）。
+
+
 
 ### "No Funds At Risk"
 
-A week after the crowdsale ended, a security researcher publicly [disclosed](https://vessenes.com/more-ethereum-attacks-race-to-empty-is-the-real-deal) a new type of vulnerability that many Smart Contract developers had previously not considered, the so-called "reentrancy bug".
+クラウドセール終了から1週間後、セキュリティ研究者が公開した [](https://vessenes.com/more-ethereum-attacks-race-to-empty-is-the-real-deal) スマートコントラクトの開発者の多くがこれまで考慮していなかった新しいタイプの脆弱性、いわゆる「リエントランシーバグ」です。
 
-The bug can occur when a contract does not properly update its state when other contracts interact with it, allowing attackers to execute the same function many times over against the _intent_ of the contract's authors. It is like a vending machine that does not check that a coin was inserted correctly; an attacker can tie a piece of string around the coin to pull it back out and use the same coin to sweep all the delicious goodies.
+</em> このバグは、コントラクトが他のコントラクトと相互作用する際にその状態を適切に更新しない場合に発生し、攻撃者はコントラクトの作成者の意図 _に対して同じ機能を何度も実行できるようになります。 コインが正しく投入されたかどうかを確認しない自動販売機のようなもので、攻撃者はコインにひもを結びつけて引き戻し、同じコインを使っておいしい商品をすべて掃き捨てることができるのです。</p> 
 
-Because Ethereum was so new and best practices had not formed around developing Smart Contracts, this bug was quite common. Once the news got out, many contracts were exploited and funds were lost, but luckily, The DAO was not affected, [according](https://medium.com/ursium-blog/no-dao-funds-at-risk-following-the-ethereum-smart-contract-recursive-call-bug-discovery-29f482d348b) to slock.it.
+Ethereumは非常に新しく、スマートコントラクトの開発に関するベストプラクティスが形成されていなかったため、このバグは非常に一般的なものであった。 このニュースが流れると、多くのコントラクトが悪用され、資金が失われましたが、幸いにもThe DAOは影響を受けませんでした。 [slock.itによると](https://medium.com/ursium-blog/no-dao-funds-at-risk-following-the-ethereum-smart-contract-recursive-call-bug-discovery-29f482d348b) .
 
-### ...and it's gone
 
-Just as with real world contracts, the devil is in the details, and it turned out that The DAO was [affected](https://blog.b9lab.com/the-dao-hack-in-eight-minutes-94919018692d) by the reentrancy bug after all. On [line 666](https://github.com/TheDAO/DAO-1.0/blob/master/DAO.sol#L666-L670) an exploit lay dormant, and that huge amount of raised ETH was sitting there waiting for a sharp-eyed programmer to nab.
 
-A few days later, one or more attackers began to drain The DAO, and just like a piece of string tied to a coin, used specially crafted contracts to repeatedly call The DAO's split function to extract away more ETH than its contract authors _intended_ to allow.
+### ...そして、もうない
 
-As a result of The DAO Hack, a significant amount of ETH had been extracted from The DAO at the expense of DAO Token Holders (DTH), who were likely to lose much of their original investment if nothing could be done to rescue it.
+現実の契約と同じように、悪魔は細部に宿るのです。結局、The DAOはリエントランシーバグによって [](https://blog.b9lab.com/the-dao-hack-in-eight-minutes-94919018692d) 、影響を受けることが判明しました。 [666行目](https://github.com/TheDAO/DAO-1.0/blob/master/DAO.sol#L666-L670) 、悪用は眠っており、調達された大量のETHは、鋭い目を持つプログラマーが手に入れるのを待っている状態だった。
 
-![A viral comic from 2016 depicting The DAO burning up Ethereum's money](./oops.jpeg)
+_数日後、1人または複数の攻撃者がThe DAOを消耗し始め、ちょうどコインに結ばれた糸のように、特別に細工された契約を使ってThe DAOの分割機能を繰り返し呼び出し、その契約作成者が意図した_ より多くのETHを抜き去りました。
 
-### Altering the Deal
+DAOハックの結果、DAOトークン保有者（DTH）を犠牲にして、DAOから大量のETHが抜き取られ、何もしなければ当初の投資額の多くを失う可能性があったのです。
 
-A critical point to note here is that The DAO Hacker did not exploit anything in the underlying Ethereum protocol, as the exploit was limited to The DAO contract. They also did not "break the rules" of The DAO contract either, as they simply interacted with The DAO in a way that it's authors did not anticipate. Regardless of the _intent_ of it's author's, [The DAO's Terms](http://web.archive.org/web/20160501124801/https://daohub.org/explainer.html) made it clear that the contract code itself was supposed to be the final judge. According to The DAO's authors, _Code is Law_.
+![The DAOがイーサリアムの資金を焼き尽くす様子を描いた2016年のバイラルコミック](./oops.jpeg)
 
-> The terms of The DAO Creation are set forth in the smart contract code existing on the Ethereum blockchain at 0xbb9bc244d798123fde783fcc1c72d3bb8c189413. Nothing in this explanation of terms or in any other document or communication may modify or add any additional obligations or guarantees beyond those set forth in The DAO’s code. Any and all explanatory terms or descriptions are merely offered for educational purposes and do not supercede or modify the express terms of The DAO’s code set forth on the blockchain; to the extent you believe there to be any conflict or discrepancy between the descriptions offered here and the functionality of The DAO’s code at 0xbb9bc244d798123fde783fcc1c72d3bb8c189413, The DAO’s code controls and sets forth all terms of The DAO Creation.  
+
+
+### 取引内容の変更
+
+ここで注目すべき重要な点は、The DAO Hackerは、The DAOコントラクトに限定して悪用したため、基盤となるEthereumプロトコルの何も悪用しなかったということです。 また、DAOの作者が予想しなかった方法でDAOと相互作用しただけで、DAOの契約の「ルールを破った」わけでもない。 _その作者の意図_ にかかわらず、 [The DAO's Terms](http://web.archive.org/web/20160501124801/https://daohub.org/explainer.html) は、契約コードそのものが最終的な判断材料となるはずだと明言しています。 The DAOの作者によると、 _Codeは法律_。
+
+
+
+> The DAO Creationの条件は、Ethereumブロックチェーン上の0xbb9bc244d798123fde783fcc1c72d3bb8c189413に存在するスマートコントラクトコードで規定されています。 この規約の説明やその他の文書や通信のいかなる部分も、The DAOの規約に定められている以上の追加の義務や保証を修正したり追加したりすることはできません。 すべての説明的な用語や説明は単に教育的な目的のために提供されており、ブロックチェーン上に記載されたThe DAOのコードの明示的な条件に取って代わるものでも修正するものでもありません。あなたがここで提供された説明と0xbb9bc244d798123fde783fcc1c72d3bb8c189413のThe DAOのコードの機能間に何らかの矛盾や相違があると信じる程度に、The DAOのコードが支配しThe DAO創造のすべての条件を定めていることに注意して下さい。  
 > ...  
-> By Creating DAO tokens through interaction with The DAO’s smart contract code, you expressly agree to all of the terms and conditions set forth in that code. If you do not understand or do not agree to those terms, you should not Create DAO tokens.  
+> The DAOのスマートコントラクトコードとの対話を通じてDAOトークンを作成することで、あなたはそのコードに規定されたすべての条件に明示的に同意することになります。 もしあなたがこれらの条件を理解しないか、同意しないのであれば、DAOトークンをCreateしてはいけません。  
 > ...  
-> The DAO’s smart contract code governs the Creation of DAO tokens and supercede any public statements about The DAO’s Creation made by third parties or individuals associated with The DAO, past, present and future.  
+> DAO のスマートコントラクトコードは DAO トークンの生成を管理し、過去、現在、未来の DAO に関連する第三者または個人によってなされた DAO の生成に関するいかなる公的声明にも優先します。  
 > ...  
-> The field of Digital Cryptography is very new and for this reason, there is a risk of unforeseen attack both in terms of the underlying cryptographic protocol that back the functioning of the DAO as well as 'game theory' related vectors which have not been documented to date. Both these vectors represent a risk that could lead the loss of DAO tokens or ETH in one or more or even all of the DAO Token Holder’s accounts.
+> デジタル暗号の分野は非常に新しく、このため、DAOの機能を支える基礎的な暗号プロトコルと同様に、今日まで文書化されていない「ゲーム理論」関連のベクトルの両方において、予期せぬ攻撃のリスクが存在するのです。 これらのベクトルは、DAOトークンまたはETHをDAOトークン保有者の1つまたは複数、あるいはすべてのアカウントで損失する可能性があるリスクを表します。
 
-Many share the perspective that investors in The DAO, having agreed to the above terms, were aware that risks were involved, and as such, just as they were happy to accept the upside that these risks might reward, must also have been willing to accept the downside consequences of those risks being realized. However, for many DAO Token Holders, this was not the case.
+DAOの投資家は、上記の条件に同意した以上、リスクがあることを認識しており、そのリスクがもたらすであろうアップサイドを喜んで受け入れると同時に、そのリスクが実現した場合のダウンサイドも進んで受け入れたはずだという見方は多くの人に共有されています。 しかし、多くのDAOトークン保有者にとって、これは事実ではなかった。
 
-## The DAO Wars
 
-In a twist of fate, The DAO's split function had a time delay, meaning that The DAO Hacker would be unable to fully extract their loot until about a month after the initial attack took place, assuming that nothing prevented them from doing so in the meantime. This provided a window of opportunity for the Ethereum community to fight back against The Hacker and make DAO Token Holders whole, which became the primary focus for many.
 
-There were several options on the table, but the main debate centered around whether it was acceptable to implement a "Hard Fork", a backwards-incompatible protocol change with the sole purpose of violating the promise of "Build Unstoppable Applications", to stop The Hacker's Child DAO and return the funds.
+## DAO戦争
 
-Would Ethereum stop the unstoppable? For many, this was unthinkable, but others thought it was the only way to undo a major injustice that could threaten the future of the entire network.
+DAOの分割機能には時間的な遅れがあり、DAOハッカーは最初の攻撃から約1カ月後まで、戦利品を完全に引き出すことができないのです（その間に何も障害がなければの話ですが）。 これは、イーサリアムコミュニティがハッカーに反撃し、DAOトークン保有者を完全なものにする機会を提供し、それが多くの人にとって主要な焦点となったのである。
 
-### Robin Hood and His Merry Men
+テーブルの上にはいくつかの選択肢があったが、主な議論の中心は、「止められないアプリケーションを作る」という約束を破るためだけに、後方互換性のないプロトコル変更である「ハードフォーク」を実施し、The Hacker's Child DAOを停止して資金を返却してもよいかということであった。
 
-While the Hard Fork debate was unfolding, a group of noble whitehat hackers quickly went on the offensive and secured most of The DAO's Funds by using the same reentrancy exploit against The Hacker's split Child DAO.
+イーサリアムは止められないものを止めるか？ 多くの人にとって、これは考えられないことだったが、ネットワーク全体の将来を脅かすような大きな不正を取り消すには、これしかないと思った人もいただろう。
 
-Before a Hard Fork was decided, it was [confirmed](https://old.reddit.com/r/ethereum/comments/4p7mhc/update_on_the_white_hat_attack/d4ip04w/) that 70% of the lost funds had already been safely recovered and a counter-attack could be performed so the remaining 30% would be returned or locked in a stalemate with The DAO Hacker. That remaining 30% could be split and re-split in perpetuity until one side gave up.
 
-> But even if [either a soft or hard] fork is not implemented, the community can stop the attacker from ever withdrawing their ether  
-> ...  
-> One thing is for certain. This [counter-attack] can ensure that the attacker does not ever get any money out of this. From that point on, negotiations can continue with the attacker or a hard fork can happen to reimburse all the DAO Token Holders.
+
+### ロビン・フッドと愉快な仲間たち』（原題：Robin Hood and His Merry Men
+
+ハードフォークの議論が展開されている間、高貴なホワイトハットハッカーのグループが素早く攻勢に転じ、The Hacker's split Child DAOに対して同じリエントランシー悪用を行い、The DAOの資金の大半を確保しました。
+
+</a> Hard Forkが決定される前に、 、失われた資金の70％はすでに安全に回収されており、反撃が可能であるため、残りの30％は返還されるか、The DAO Hackerと膠着状態に陥ることが確認されています。 残りの30％は、どちらかがあきらめるまで、永久に分割し続けることができる。</p> 
+
+
+
+> しかし、[ソフト・ハード]フォークが実施されない場合でも、コミュニティは攻撃者がイーサを引き出すことを阻止することができます  
+> ...。  
+> ひとつだけ確かなことがあります。 この [counter-attack] 、攻撃者が決してお金を得ることができないようにすることができます。 その時点から、攻撃者と交渉を続けるか、ハードフォークが起きてDAOトークン保有者全員に払い戻しをすることができる。
 > 
-> - [A DAO Counter-Attack, Slock.it](https://blog.slock.it/a-dao-counter-attack-613548408dd7#.sthdgppgx)
+> - [DAOのカウンターアタック、Slock.it](https://blog.slock.it/a-dao-counter-attack-613548408dd7#.sthdgppgx)
 
-An unrealistic fear existed that The DAO Hacker would _never_ back down and the 30% would be locked away forever. In reality though, it was just a matter of time before Robin Hood Group would be able to seize control of the remaining funds, as RHG could automate their side of the stalemate while pursuing other avenues to unmask or disrupt The Hacker.
+DAOハッカーが _決して_ 下がらず、30%が永遠に閉じ込められるという非現実的な恐怖が存在した。 しかし、実際には、ロビンフッド・グループが残りの資金を手に入れるのは時間の問題だった。RHGは、ハッカーの正体を暴き、妨害するための別の手段を追求しながら、膠着状態を自動化することができたからだ。
 
-The stalemate meant the whitehats had denied The DAO Hacker from receiving any significant windfall, and knowing that other avenues, including negotiations, chain forensics and real world policing could be used, The Hacker would eventually be forced to either give up voluntarily or face off-chain consequences that would prevent them from upholding their side of the stalemate.
+この膠着状態は、ホワイトハットがDAOハッカーに大きな利益を与えないことを意味し、交渉、チェーンフォレンジック、現実世界の警察など、他の手段が使えることを知っていたため、ハッカーは結局、自発的に諦めるか、膠着状態を維持できないようなチェーン外の結果に直面することを余儀なくされたのです。
 
-One of the absurd but important details often forgotten about The DAO Fork is that it was unnecessary as most of the funds were already recovered, with the rest being as good as recovered. Without a Hard Fork, the _worst case scenario_ for DAO Token Holders was a _temporary_ 30% haircut, but as we will see, the implementation of the Hard Fork ended up causing a far worse outcome for not just DAO Token Holders but the entire Ethereum community and the culture of cryptocurrency as a whole.
+The DAO Forkについて忘れられがちな不条理だが重要なことの1つは、資金のほとんどがすでに回収され、残りも回収されたも同然であったため、必要なかったということである。 </em> ハードフォークがなければ、DAOトークン保有者のための _最悪のシナリオ _一時的な_ 30% ヘアカットでしたが、これから見るように、ハードフォークの実施は、DAOトークン保有者だけでなくイーサリアムのコミュニティ全体と暗号通貨の文化全体にはるかに悪い結果を引き起こすことになりました。</p> 
 
-_UPDATE:_ This analysis has been proven correct as the identity of The DAO Hacker has since been deduced by researchers and members of RHG. Absent a fork, the pressure to unmask the hacker would have been much greater and likely happened much sooner.
+_UPDATE:_ The DAO Hackerの正体は、研究者とRHGのメンバーによって推論され、この分析が正しいことが証明されました。 フォークがなければ、ハッカーの正体を暴く圧力はもっと大きく、もっと早く起こった可能性がある。
 
-### To Fork, or not to Fork?
 
-While this relatively modest worst case scenario was acceptable to many DAO Token Holders, anything less than the immediate return of 100% of the funds was not acceptable to an influential contingent, so The Hard Fork Debate raged on.
 
-The Ethereum community was split into two opposing tribes: the forkers and the anti-forkers. The forkers were convinced that the best way to serve justice and "make DAO Token Holders whole" was to implement a Hard Fork. Any other opinion was unethical, and anti-forkers were portrayed as being antisocial and pro-theft, essentially accomplices of The Hacker.
+### フォークにするか、しないか？
 
-One obvious problem that clouded the debate was a huge financial incentive for the many DAO Token Holders to support a Hard Fork. They were incorrectly led to believe that this was the only way to guarantee they would recoup their investment. Additionally, many influential figures, including the 11 curators, had endorsed The DAO and would lose face if they were seen not doing everything they could to make the investors they influenced whole.
+この比較的控えめな最悪のシナリオは、多くのDAOトークン保有者には受け入れられましたが、資金の100％即時返還に満たないものは、有力者にとっては受け入れられず、「ハードフォーク論争」が繰り広げられたのです。
 
-Some pro-forkers incorrectly believed that to allow The DAO Hacker to get away with such large amounts of ETH would be to condemn the future of Ethereum, which would not be able to withstand a bad actor controlling such a large pool of funds in Proof of Stake. This was [denied](https://old.reddit.com/r/ethereum/comments/4rohdy/vlad_zamfirs_thoughts_on_the_hard_fork/d52s60v/) by the architects of Ethereum's Proof of Stake implementation, but was nevertheless popularized to bolster support for a fork, and is a myth that still lingers to this day.
+イーサリアムのコミュニティは、フォーク派とアンチフォーク派という対立する2つの部族に分かれていました。 フォーカーは、正義を貫き、「DAOトークン保有者を丸裸にする」ためには、ハードフォークを実施するのが一番だと確信したのである。 それ以外の意見は非倫理的であり、反フォーク派は反社会的で窃盗のプロ、つまりハッカーの共犯者として描かれたのです。
 
-The anti-forkers, on the other hand, argued that "Build Unstoppable Applications" must be upheld and that implementing a Hard Fork would not only break the promises made by the Ethereum project, but represented a [moral hazard](https://en.wikipedia.org/wiki/Moral_hazard) that opened up the door to future interventions. Some even warned that the nature of blockchains meant that controversial Hard Forks are guaranteed to result in a _chain split_, which could be catastrophic.
+議論を曇らせた明らかな問題の1つは、多くのDAOトークン保有者がハードフォークを支持する大きな金銭的インセンティブがあることだった。 それが、投資回収を保証する唯一の方法であると誤って信じられていたのだ。 また、11人のキュレーターをはじめ、多くの有力者がThe DAOを支持しており、自分たちが影響を与えた投資家を丸く収めるために全力を尽くさないと見られては面目が立たなくなる。
 
-Anti-forkers also raised the point that the adverse effects of implementing a Hard Fork would be unfairly burdened by everyone on the network, regardless of whether they were DAO Token Holders. In contrast, the beneficiaries of the fork would only be a small subset of stakeholders. This "privatized profits and socialized losses" reality was reminiscent of the 2008 financial crisis, with the Hard Fork being referred to by many as a "bailout", with its various connotations.
+フォーク派の中には、DAOハッカーがこれほど大量のETHを持ち逃げすることを許すことは、Proof of Stakeでこれほど大量の資金をコントロールする悪質な行為に耐えられないイーサリアムの将来を断罪することになると誤って考えている人もいます。 </a> これは、EthereumのProof of Stake実装の設計者によって 、否定されましたが、それでもフォークへの支持を高めるために広まり、今日まで残っている神話です。</p> 
 
-In response to this concern, pro-forkers were incentivized to downplay the risks of a chain split, shelving it under the category of "don't worry about it, that's a conspiracy theory created by Bitcoin Maximalists". Moreover, any preparation for a chain split, such as implementing replay attack protection, or informing exchanges of this potential outcome to protect them from double spending, was not made, as to do so would affirm the possibility of a chain split and, in turn, make one more likely to happen.
+</a> 一方、アンチフォーク派は、「止められないアプリケーションの構築」は堅持されなければならず、ハードフォークの実施は、イーサリアムプロジェクトの約束を破るだけでなく、将来の介入への扉を開くモラルハザード を意味すると主張した。 また、ブロックチェーンの性質上、物議をかもすハードフォークは、 _チェーンの分裂が保証されており、_、破滅的な事態になる可能性があると警告する人もいました。</p> 
 
-![And so, the Hard Fork was the only acceptable way forward.](./forkyou.jpeg)
+また、ハードフォークを実施した場合の弊害は、DAOトークン保有者であるかどうかにかかわらず、ネットワーク上のすべての人に不当な負担がかかるという指摘があった。 これに対し、フォークの受益者は一部のステークホルダーに限られるでしょう。 この「利益は民営化、損失は社会化」という現実は、2008年の金融危機を彷彿とさせ、ハードフォークは様々な意味合いで「ベイルアウト」と呼ばれるようになった。
 
-### Ethereum's Darkest Hour
+この懸念に対し、プロフォーカーたちは、連鎖分裂のリスクを軽視し、「心配するな、それはビットコインマキシマリストが作り出した陰謀論だ」というカテゴリーで棚上げするように仕向けました。 また、リプレイアタック対策の実施や、取引所への二重支出防止のための通知など、連鎖分裂に備えた準備は一切行わず、連鎖分裂の可能性を肯定し、逆にその可能性を高めています。
 
-As the Child DAO split deadline loomed, the debate quickly devolved into an extremely toxic argument fueled by financial interests and philosophical angst. The rift was so intense that accusations of criminality and lack of ethics were thrown from both sides. Any and all tactics were used to win the fight, which became an almost life and death battle.
+![そして、ハードフォークが唯一受け入れられる道となったのです。](./forkyou.jpeg)
 
-The sad affair was topped off by threats of doxxing and other forms of retribution against those who were against a Hard Fork. Calls were made by slock.it to reveal the identities of those who opposed the Hard Fork, creating chilling effects and intimidating prominent anti-forkers against speaking out:
 
-> I'd be VERY interested to know the identify of anyone coordinating an effort to oppose a hardfork. PM me [redacted]@slock.it
+
+### イーサリアムの暗黒時代
+
+Child DAOの分割期限が迫ってくると、この議論はあっという間に、金銭的な利益と哲学的な怒りに煽られた極めて有害な議論に発展していった。 そのため、両者から「犯罪者だ」「倫理観がない」と非難されるほど、溝は深まった。 あらゆる戦術を駆使して、生死をかけた戦いになった。
+
+この悲しい出来事は、ハードフォークに反対する人たちに対するDoxingやその他の報復の脅しで締めくくられた。 ハードフォークに反対した人々の身元を明らかにするようslock.itが呼びかけ、著名なアンチフォーカーに発言させないような冷やかしの効果が生まれました。
+
+
+
+> ハードフォークに反対する活動をコーディネートしている人の身元を知りたいと強く思っています。 PM me [redacted]@slock.it
 > 
-> - [slock.it, June 2016](https://twitter.com/slockitproject/status/743790901877706752)
+> - [slock.it、2016年6月](https://twitter.com/slockitproject/status/743790901877706752)
 
-Ironically, at the same time this witch hunt from was underway, The DAO's website, which was operated by slock.it, highlighted it's supposed values:
+皮肉なことに、この魔女狩りが行われていた頃、slock.itが運営していたDAOのウェブサイトでは、その価値観が強調されていたのである。
 
-> We, as a DAO, ascribe to the following values:  
-> \- Privacy and the right to anonymity
+
+
+> 私たちはDAOとして、以下の価値観に賛同しています。  
+> \- プライバシーと匿名性の権利
 > 
-> - [The DAO Website](https://web.archive.org/web/20160622212427/https://daohub.org/manifesto.html)
+> - [DAOのウェブサイト](https://web.archive.org/web/20160622212427/https://daohub.org/manifesto.html)
 
-By now, the Hard Fork debate resembled a no-holds-barred religious crusade rather than a healthy discussion about what was in the best interest of the Ethereum project, but perhaps it was never about that to begin with.
+ハードフォークの議論は、Ethereumプロジェクトにとって何が最善であるかという健全な議論というより、むしろ無差別な宗教的十字軍のようであったが、おそらくそれは元々そういうものではなかったのだろう。
 
-### Manufactured Consensus
 
-Looking at The DAO Fork Debate on Reddit, we can see that a sizeable portion of the Ethereum community was against the Hard Fork based on [upvotes](https://old.reddit.com/r/ethereum/comments/4p7mhc/update_on_the_white_hat_attack/d4iqgx1/) alone. However, despite this, influential forces were involved that felt there was no other choice than to push for a Hard Fork to protect financial interests.
 
-Unfortunately, it is probably impossible to get to the bottom of what the _actual_ consensus was at the time, as the main forums of discussion - Reddit and Twitter - were highly susceptible to [Sybil attacks](https://en.wikipedia.org/wiki/Sybil_attack) in the form of astroturfing. Did the Hard Fork have genuine popular support, or was it just manufactured consensus? We will probably never know, but at the very least there was a significant pushback, and it cannot be denied what was going to be imposed on the community was a _controversial Hard Fork_.
+### マニュファクチャードコンセンサス
 
-### The "Debate" Concludes
+RedditのThe DAO Fork Debateを見ると、 [upvotes](https://old.reddit.com/r/ethereum/comments/4p7mhc/update_on_the_white_hat_attack/d4iqgx1/) だけでも、Ethereumコミュニティのかなりの部分がハードフォークに反対していることがわかります。 しかし、それにもかかわらず、金融の利益を守るためにハードフォークを推進する以外に選択肢がないと考える有力な勢力が関わっていた。
 
-By the time the decision about whether to implement a Hard Fork was made, it appeared to be about far more than just a Hard Fork. It had become a familiar tribalistic power game where both sides were so entrenched in their positions, many were beyond reason and unable to concede.
+残念ながら、当時の _実際の_ コンセンサスがどうであったかを究明することはおそらく不可能です。議論の主な場である Reddit と Twitter は、アストロターフィングという形で [シビルアタック](https://en.wikipedia.org/wiki/Sybil_attack) を非常に受けやすいからです。 ハードフォークは本当に大衆の支持を得ていたのか、それとも作られたコンセンサスだったのか？ 私たちはおそらく知る由もありませんが、少なくとも大きな反発があり、コミュニティに課されようとしていたのは _物議を醸すハードフォークであったことは否定できません_.
 
-As we will reflect upon later, through a game theory lens, the whole ordeal seemed like a _coordination trap_. From the beginning, economic incentives were aligned such that both sides were driven to "victory or death". As a result, forkers rationally downplayed the possible adverse outcomes of a Hard Fork while simultaneously making it seem like the only viable option, glossing over the reality of the situation thanks to Robin Hood's efforts.
 
-### The Totally Fair Coin Vote
 
-During the debate The Ethereum Foundation attempted to maintain a stance of neutrality. Whatever was done about The DAO Hack, it was a question for the Ethereum _community_ to decide, not something that came from the top. This was an important position to hold as deferring the choice would, on paper, resolve them of responsibility. However, despite this claim, clear evidence of a lack of neutrality among various wings of the Ethereum Foundation was shown.
+### 討論会 "終了
 
-One problem with implementing the Hard Fork was that if users needed to opt-in with additional configuration, many node operators and miners would default to the "unforked" chain when they routinely upgraded their software, which would all but guarantee a chain split would occur and create problems. The "solution" was to update the default settings of the Ethereum clients to follow the new Hard Fork rules, and require users who wish to be on the unforked version of Ethereum to opt-out of the fork.
+ハードフォークを実施するかどうかの決定がなされる頃には、ハードフォークをはるかに超えたところにあるように見えた。 両者とも自分の立場に固執し、理性を失い、譲歩できない部族間のパワーゲームと化していたのである。
 
-In a veiled attempt to maintain some level of neutrality, the decision of which default to use for Geth [was made](https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork/) was based on the outcome of a controversial "coin vote".
+後で振り返るが、ゲーム理論のレンズを通すと、この試みは _コーディネーショントラップのように思えたのだ_。 当初から経済的なインセンティブが働いていたため、「勝つか、死ぬか」の勝負に追い込まれた。 その結果、フォーカーは合理的にハードフォークの起こりうる不利な結果を軽視し、同時にそれが唯一の有効な選択肢であるかのように見せかけ、ロビンフッドの努力によって現実を覆い隠してしまったのです。
 
-Coin votes, where 1 ETH = 1 vote, are notoriously bad tools to reflect the opinions of a community, especially where those voting are financially incentivized. Suppose one whale has 90,000 ETH, and 10,000 dedicated community members only have 8 ETH each. In that case, the whale can guarantee a win and dictate the consensus of "the Ethereum community". Smaller position voters also have less incentive to participate as they have individually less sway, and collectively require a far higher level coordination, effort and gas fees to participate.
 
-As it turned out, one single address voted with so much Ether that it amounted to 25% of all the votes. On top of this, this coin vote had no minimum quorum, and only 6% of total Ether participated. Most shockingly, it was announced and concluded within 12 hours, giving very little time to coordinate any response from anti-forkers, and made it impossible to get input from half the planet that was asleep.
 
-Predictably, the results were heavily skewed by a handful of whales who may or may not have had foreknowledge of the announcement. The critical decision of which chain for Geth to default to was then claimed to be made "by the community" and was later used to justify Ethereum Foundation's support of the forked chain over ETC.
+### まったくもって公平なコイン投票
 
-Commendably, in recent versions of the Ethereum.org website, the controversy surrounding this important coin vote is documented.
+議論の間、イーサリアム財団は中立的な立場を維持しようとした。 The DAO Hackについて何が行われたにせよ、それはイーサリアム _コミュニティ_ が決定すべき問題であり、トップから来たものではありません。 これは、選択を先延ばしにすることで、書類上、責任を免れることになるため、重要な位置づけだった。 しかし、この主張とは裏腹に、イーサリアム財団の各翼が中立性を欠いている明確な証拠が示された。
 
-> This course of action was voted on by the Ethereum community. Any ETH holder was able to vote via a transaction on a voting platform. The decision to fork reached over 85% of the votes.
+ハードフォークを実装する際の問題点として、ユーザーが追加の設定でオプトインする必要がある場合、多くのノードオペレータやマイナーが日常的にソフトウェアをアップグレードする際に「フォークされていない」チェーンをデフォルトにしてしまい、チェーンの分裂が起きて問題が起こることがほぼ確実であることが挙げられます。 その「解決策」とは、イーサリアムクライアントのデフォルト設定を新しいハードフォークのルールに従うように更新し、フォークされていないバージョンのイーサリアムを希望するユーザーには、フォークをオプトアウトするよう要求することでした。
+
+</a> ある程度の中立性を維持するためのベールに包まれた試みで、Geth 、どのデフォルトを使用するかの決定は、論争の的になった「コイン投票」の結果に基づいて行われました。</p> 
+
+1ETH＝1票となるコイン投票は、コミュニティの意見を反映するツールとしては悪名高く、特に投票者に金銭的なインセンティブがある場合は、その傾向が顕著です。 1頭のクジラが9万ETHを持っていて、1万人の熱心なコミュニティメンバーがそれぞれ8ETHしか持っていないとします。 その場合、クジラは勝利を保証し、「イーサリアムコミュニティ」のコンセンサスを独断で決めることができる。 また、小さな立場の有権者は、個々にはあまり影響力がなく、集合的にははるかに高いレベルの調整、努力、ガス代が必要であるため、参加するインセンティブが低い。
+
+その結果、ある1つのアドレスで、全票数の25%に相当する大量のEtherが投票された。 その上、このコイン投票には最低定足数がなく、参加したのは全イーサの6％に過ぎなかった。 最も衝撃的だったのは、12時間以内に発表・終了したため、アンチ・フォーク派の反応を調整する時間がほとんどなく、眠っていた地球の半分から意見を聞くことが不可能だったことです。
+
+予想通り、この結果は、発表を予知していたかどうかわからない一握りのクジラによって大きく歪められてしまった。 Gethがどのチェーンをデフォルトにするかという重要な決定は、その後「コミュニティによって」なされたと主張され、後にEthereum FoundationがETCよりもフォークされたチェーンをサポートすることを正当化するために使用されたのです。
+
+注目すべきは、Ethereum.orgのウェブサイトの最近のバージョンで、この重要なコイン投票をめぐる論争が文書化されていることだ。
+
+
+
+> この方針は、イーサリアムコミュニティの投票によって決定されました。 ETHの保有者であれば誰でも、投票プラットフォームでの取引を通じて投票することができた。 フォークの判定は85％以上に達した。
 > 
-> It's important to note that whilst the protocol did fork to revert the hack, the weight the vote carried in deciding to fork is debatable for a few reasons:  
-> \- The turnout to vote was incredibly low  
-> \- Most people didn't know the vote was happening  
-> \- The vote only represented ETH holders, not any of the other participants in the system
+> このハッキングを撤回するためにプロトコルはフォークしたが、フォークを決定する際に投票が担った重みについては、いくつかの理由で議論の余地があることに注意する必要がある。  
+>   
+> \-  
+> ⑭投票はETHホルダーを代表するものであり、システム内の他の参加者を代表するものではなかった。
 > 
-> - [Ethereum.org Website](https://ethereum.org/en/governance/#dao-fork)
+> - [Ethereum.orgウェブサイト](https://ethereum.org/en/governance/#dao-fork)
 
-While it was clear that some pro-forkers did not want Geth or any Ethereum Foundation products even to have the option of running the unforked chain, to provide neutrality, the infamous `--oppose-dao-fork` flag was added to Geth, enabling users to opt-in to the unforked chain by enabling this config parameter. However, it was soon removed in later versions.
+一部のフォーク推進派がGethやEthereum Foundation製品にフォークされていないチェーンを実行するオプションがあることさえ望まないことは明らかでしたが、中立性を保つために、悪名高い `--oppose-dao-fork` flagがGethに追加され、この設定パラメータを有効にすることでユーザーがフォークされていないチェーンにオプトインできるようにしました。 しかし、その後のバージョンアップですぐに削除された。
 
-To be fair, some other Ethereum Foundation teams attempted to provide genuine neutral choices. For example, Mist, the dapp browser, required users to make an explicit choice of which version of the chain to run when opening the client, rather than opting them into one side of the fork by default.
+公平を期すために、他のEthereum Foundationチームの中には、真の意味で中立的な選択肢を提供しようとしたものもありました。 例えば、ダップブラウザのMistでは、デフォルトで片方のフォークを選ぶのではなく、クライアントを開く際にどちらのバージョンのチェーンを実行するか、ユーザーが明示的に選択する必要があった。
 
-![Ethereum Foundation's Mist Wallet asked users to decide which fork to use](./mist.png)
+![Ethereum財団のMist Walletは、ユーザーにどのフォークを使うか決めてもらいました](./mist.png)
 
-Unfortunately, the Mist client decision was far less consequential than Geth's, as the target user base for Mist was neither miners nor exchanges, so this option had no significant effect on hashrate or user adoption, which was primarily dictated by exchanges and other wallet services using Geth's new defaults.
+残念ながら、Mistクライアントの決定はGethの決定よりもはるかに影響が小さく、Mistのターゲットユーザーは採掘者でも取引所でもないため、このオプションはハッシュレートやユーザー導入に大きな影響を与えず、主にGethの新しいデフォルトを使用する取引所や他のウォレットサービスによって決定された。
 
-Some Ethereum Foundation members even publicly spoke out against the Hard Fork, cementing the idea that consensus was _not_ reached. To those who stood up for "Build Unstoppable Applications" despite the peer pressure, we salute you.
+</em> イーサリアム財団のメンバーの中には、ハードフォークに反対する意見を公言した人もおり、コンセンサスが _に達しないという考えを固めています。 同調圧力に負けず、「止められないアプリケーションを作ろう」と立ち上がった人たちに、敬意を表します。</p> 
 
-### So Neutral, Much Consensus
 
-Another smoking gun that points to lack of neutrality from The Ethereum Foundation surrounding the fork decision was evidenced in an announcement from the exchange Poloniex, which suggested that EF did not simply fail to warn exchanges about the possibility of a chain split, but, in private, were actively downplaying its potential, and, contrary to the discussion on Reddit, claimed that the Ethereum community had little to no interest in the unforked chain.
 
-> ...repeated assurances from representatives of the Ethereum foundation that the community had little to no interest in Ether on the unforked chain...
+### ニュートラル、コンセンサス
+
+フォーク決定をめぐるイーサリアム財団の中立性の欠如を指摘するもう一つの決定的な証拠は、取引所Poloniexからの発表に表れています。この発表では、EFが単にチェーン・スプリットの可能性について取引所に警告しなかっただけでなく、プライベートではその可能性を積極的に軽視し、Redditでの議論とは逆に、イーサリアム・コミュニティはフォークされていないチェーンにほとんど関心がないと主張していることが示されています。
+
+
+
+> ...イーサリアム財団の代表者は、コミュニティがフォークされていないチェーン上のイーサにほとんど関心がないことを繰り返し保証しています...。
 > 
-> - [Poloniex](https://poloniexus.circle.com/press-releases/2016.07.26-responses-to-common-etc-questions/)
+> - [ポロニエックス](https://poloniexus.circle.com/press-releases/2016.07.26-responses-to-common-etc-questions/)
 
-Either way, ignoring rumors and conspiracy theories, the proof was in the pudding; those who pushed for the Hard Fork appeared [very happy](https://twitter.com/stephantual/status/743764898316877824) with Ethereum Foundation's "help" implementing such an effective solution.
+いずれにせよ、噂や陰謀論を無視して、証拠はプディングの中にありました。ハードフォークを推進した人々は、このような効果的なソリューションを実装するイーサリアム財団の「助け」によって、 [とても幸せそうでした](https://twitter.com/stephantual/status/743764898316877824) です。
 
-As the Child DAO's split function deadline loomed, consensus was declared, and Ethereum™ would implement the unthinkable: a Hard Fork to change the rules of the game to try to undo the hack. The forkers had won the debate; or at least, they got their way. For now.
+Child DAOの分割機能の期限が迫ると、コンセンサスが宣言され、Ethereum™はハッキングを元に戻そうとゲームのルールを変更するハードフォークという、考えられないことを実行することになります。 少なくとも、フォーク派は自分たちの思い通りになったのだ。 今のところは。
 
-## The Fork
 
-On block 1,920,000, 20th July 2016, history was made. While the Ethereum™ website still proudly [proclaimed](http://web.archive.org/web/20160731205712/https://ethereum.org/) "Build Unstoppable Applications", its authors changed the Ethereum protocol for the sole purpose of stopping The Hacker's Child DAO in its tracks. The forkers reached into the contract layer, punt kicked _Code is Law_ out the window, rewrote The DAO's contract mid-flight, and confiscated ETH from The Hacker. [Mission Accomplished!](https://twitter.com/initc3org/status/758000698881613824/photo/1)
 
-Contrary to popular misconception, The DAO Hard Fork was technically _not_ a "rollback", as it is commonly referred to - there was no "going back" to an old state. Instead, it was a "surgical irregular state change". In many ways, this is a far worse outcome than a rollback from a _Code is Law_ perspective, as unlike a long reorg, this was the manual intervention of a contract, overriding its logic, _changing the rules of the game_, and inserting some arbitrary replacement code determined by a subjective off-chain governance process with next to no transparency.
+## ザ・フォーク
 
-On this new fork, where the contract layer had been desecrated, the promise of unstoppability was defiled, and _Code is Law_ was dead. F.
+2016年7月20日、ブロック1,920,000で、歴史が刻まれた。 </a> Ethereum™のウェブサイトがまだ誇らしげに 「Build Unstoppable Applications」と宣言している間、その作者はThe Hacker's Child DAOを足止めすることだけを目的にEthereumプロトコルを変更したのである。 フォーカーは契約レイヤーに手を伸ばし、パントキックで _Code is Law_ を窓から飛ばし、The DAOの契約を飛行中に書き直し、ハッカーからETHを没収したのです。 [ミッションコンプリート!](https://twitter.com/initc3org/status/758000698881613824/photo/1)</p> 
 
-The DAO Hard Fork was unlike the typical hard forks that happen reasonably frequently on Ethereum which involve protocol fixes or feature enhancements; there was no "upgrade" to the protocol from a technical point of view. Instead, for the first time (and for now, the last), the "upgrade" was political, and only concerned overriding something happening in the contract layer, which is [distinguishable](/why-classic/code-is-law/#outside-the-contract-layer) from the protocol and was marketed as being unstoppable.
+</em> 一般に誤解されているようですが、DAOハードフォークは技術的には _、一般に言われるような「ロールバック」ではなく、古い状態に「戻る」ことはなかったのです。 むしろ、「外科的なイレギュラーな状態変化」であったのだ。 _多くの点で、これは _Code is Law_ の観点からロールバックよりはるかに悪い結果です。長い再編成とは異なり、これは契約の手動介入であり、その論理を上書きし、ゲームのルールを変更し、 _、透明性がほとんどない主観的なオフチェーン統治プロセスによって決められた任意の代替コードを挿入するものだからです。</p> 
 
-### The Chain Split
+契約層が冒涜されたこの新しいフォークでは、止められないという約束が汚され、 _Code is Law_ は死んでいた。 F.
 
-As if by some divine universal law, a dynamic of opposites is seen all throughout nature. The Light and the Dark, the Yin and Yang, the Decentralized and Centralized.
+DAOハードフォークは、Ethereumで頻繁に起こるプロトコルの修正や機能拡張を伴う典型的なハードフォークとは異なり、技術的な観点からプロトコルを「アップグレード」するものではありませんでした。 その代わりに、初めて（そして今のところ最後）、「アップグレード」は政治的なものであり、コントラクト層で起きている何かを上書きすることだけに関係していました。これは [プロトコルから区別できる](/why-classic/code-is-law/#outside-the-contract-layer) で、止められないものとして販売されました。
 
-![Opposite or contrary forces may be complementary, interconnected, and interdependent.](./pakua.png)
 
-When its authors attempted to crush the _Original Ethereum Vision_, the universe provided an equal and opposite response, and on that fateful day, a miracle occurred. In a defiant continuation of _Code is Law_, the blocks of the original chain continued to be mined, following the _Classic_ unforked protocol rules.
 
-For the first time, the technology had properly demonstrated its ultimate dispute resolution mechanism. Through the chain split, all parties got what they wanted; either a version of Ethereum where _Code isn't Law_ or a chain where the promise of "Build Unstoppable Applications" was upheld.
+### ザ・チェーンスプリット
 
-The DAO Fork was a sacred cleansing moment for Ethereum, a shedding of the corruption and centralization that allowed The Fork to happen. Those who didn't like _Code is Law_ started a new chain with new rules, leaving the unforked chain to operate as it was, with less baggage, a refined community, and a clear mission.
+まるで神の普遍的な法則であるかのように、自然界には相反するものの動きが見られる。 光と闇、陰と陽、分散型と中央集権型。
 
-In contrast to the newly forked Ethereum™, the unforked Ethereum was opposite in many ways; in it's unstoppability, it's level of decentralization and therefore in its unbounded potential to change the world.
+![相反する力、あるいは相反する力は、補完し合い、相互に関連し合い、相互依存し合うことがあります。](./pakua.png)
+
+その作者が _Original Ethereum Vision_を潰そうとしたとき、宇宙は等しく反対の反応を示し、その運命の日に奇跡が起きたのです。 _Code is Law_の反抗的な継続で、元のチェーンのブロックは、 _Classic_ unforked protocol rules に従って採掘され続けました。
+
+この技術で初めて、究極の紛争解決メカニズムがきちんと示されたのである。 _コードが法律ではないイーサリアムのバージョン_ または "Build Unstoppable Applications" の約束が守られたチェーンのどちらかです。
+
+DAO Forkはイーサリアムにとって神聖な浄化の瞬間であり、The Forkを可能にした腐敗と中央集権を脱却させるものでした。 _Code is Law_ を好まなかった人たちは、新しいルールで新しいチェーンを始め、フォークされていないチェーンは、荷物が少なく、洗練されたコミュニティと、明確なミッションを持ったまま、そのまま運営することにしました。
+
+フォークされたばかりのイーサリアム™とは対照的に、フォークされていないイーサリアムは、止められないこと、分散化のレベル、それゆえ世界を変える無限の可能性など、多くの点で正反対だったのです。
 
 ![](./fork.png)
 
-Confusingly, the Ethereum Foundation determined that their new forked chain would be called "Ethereum". It would almost exclusively receive official support from the Foundation from then on, including the huge amounts of funding raised during the crowdsale. But the unforked chain kept something far more valuable, as _Code is Law_ is not something that could be forked away on a whim, and the original chain they abandoned continued to chug along.
+紛らわしいことに、イーサリアム財団は、フォークした新しいチェーンを「イーサリアム」と呼ぶことを決定した。 クラウドセールで集めた巨額の資金を含め、以後はほぼ財団からの公式支援を受けることになる。 しかし、 _Code is Law_ 、気まぐれにフォークできるようなものではないので、フォークされなかったチェーンははるかに価値のあるものを保持し、彼らが放棄したオリジナルのチェーンは、そのまま継続されました。
 
-The longest running Smart Contract platform is, was, and always will be _Ethereum Classic_.
+最も長く稼働しているスマートコントラクトプラットフォームは、昔も今も、そしてこれからも _Ethereum Classic_.
 
-### The Immaculate Conception
 
-The emergence of Ethereum Classic was miraculous in many ways, both in circumstance and substance. Had it not been for Bitcoin, Ethereum, The DAO, The Bug on line 666, The Hacker, the Split Function Time Limit, the Hard Fork Debate Coordination Trap, the Hard Fork itself, and the brave and charming supporters of ETC, without this series of profoundly improbable events, the world would not be blessed with a truly decentralized Smart Contract platform that champions _Code is Law_.
 
-Ethereum Classic also has many miraculous properties that are impossible to conjure artificially. With a commitment to _Code is Law_, no founders, no Ethereum Foundation, no premine\*, a fair distribution, and a community that self-select based on concern for principles over convenience, ETC stands higher than even the Bitcoin Standard on many of the pillars of decentralism, giving ETC one of the greatest potentials of all blockchains for _Sovereign Grade Censorship Resistance_ and the reality-bettering power it unleashes.
+### 無原罪の聖母
 
-The circumstances of Ethereum Classic's emergence are so rare that they are unlikely to ever happen again. Ethereum Classic, being the first to demonstrate the power of _Code is Law_ and the danger of pushing for controversial hard forks, serves as a warning to prevent similar situations from happening in the future, making ETC the only chain likely to achieve these properties, thanks to its original authors abandoning it.
+イーサリアムクラシックの出現は、状況的にも実質的にも、いろいろな意味で奇跡的だった。 ビットコイン、イーサリアム、The DAO、666行目のバグ、ハッカー、スプリットファンクションタイムリミット、ハードフォーク議論の調整の罠、ハードフォーク自体、そしてETCの勇敢で魅力的な支持者、この一連の深くありえない出来事がなければ、世界は _Code is Law_チャンピオンの真の分散型スマートコントラクトのプラットフォームに恵まれることはなかったことでしょう。
 
-### The Resurrection
+また、イーサリアムクラシックは、人為的に作り出すことが不可能な奇跡的な性質を多く持っています。 _Code is Law_, no founders, no Ethereum Foundation, no premine*, a fair distribution, and community that self-select based on concern for principles over convenience, ETC stands than even Bitcoin Standard on many of the pillars of decentralism, giving ETC one of greatest potentials of all blockchains for _Sovereign Grade Censorship Resistance_ and the reality-bettering power it unleashes.
 
-Three days and three nights after The DAO Hard Fork, The Original Ethereum Vision rose again, and Ethereum Classic got its first exchange listing on one of the largest altcoin exchanges Poloniex. After this first listing, ETC's future was sealed, as market forces would take hold, causing other exchanges to rush to list, and making mining the Classic side of the chain split liquid and profitable.
+イーサリアムクラシックが出現した経緯は非常に稀であり、今後二度と起こることはないだろう。 Ethereum Classicは、 _Code is Law_ 、物議を醸すハードフォークを推し進めることの危険性を最初に示したことで、今後同様の状況が起こらないよう警告する役割を果たし、ETCは原作者が放棄したおかげで、これらの特性を達成する可能性のある唯一のチェーンとなりました。
 
-Two days later, a version of Geth was forked that defaulted to the Classic chain and removed The DAO Fork code. Three days after this, Ethereum Classic is officially supported by Parity, Ethereum's second major client. Prominent ETH miners quibble about whether to "51% attack" ETC to prevent its rise, but eventually decide to let it be.
 
-### The Declaration of Independence
 
-The Ethereum Classic community quickly organized into a new decentralized emergent social order, launched EthereumClassic.org, and declared independence from The Ethereum Foundation.
+### 復活
 
-> Let it be known to the entire world that on July 20th, 2016, at block 1,920,000, we as a community of sovereign individuals stood united by a common vision to continue the original Ethereum blockchain that is truly free from censorship, fraud or third party interference. In realizing that the blockchain represents absolute truth, we stand by it, supporting its immutability and its future. We do not make this declaration lightly, nor without forethought to the consequences of our actions.
+The DAO Hard Forkから3日3晩でThe Original Ethereum Visionが再び立ち上がり、Ethereum Classicはアルトコイン取引所最大手のPoloniexで初の取引所上場を果たしました。 この最初の上場の後、市場原理が働き、他の取引所も上場を急ぐようになり、チェーンのクラシック側のマイニングが流動的で収益性の高いものになり、ETCの未来は封印されたのです。
+
+その2日後、Gethのバージョンがフォークされ、クラシックチェーンがデフォルトになり、The DAO Forkのコードが削除されました。 この3日後、Ethereum ClassicはEthereumの2番目の主要クライアントであるParityで正式にサポートされます。 ETHの著名なマイナーは、ETCの上昇を防ぐために「51％攻撃」するかどうかで揉めるが、結局はそのままにしておくことにする。
+
+
+
+### 独立宣言
+
+イーサリアムクラシックコミュニティは、すぐに新しい分散型創発社会秩序を組織し、EthereumClassic.orgを立ち上げ、The Ethereum Foundationからの独立を宣言した。
+
+
+
+> 2016年7月20日、ブロック1,920,000で、私たち主権者のコミュニティは、検閲、詐欺、第三者の干渉から真に自由なオリジナルのイーサリアムブロックチェーンを継続するという共通のビジョンによって団結して立ったことを全世界に知らしめましょう。 私たちは、ブロックチェーンが絶対的な真理であることを認識し、その不変性と未来をサポートするために、ブロックチェーンに寄り添います。 私たちは、軽々にこの宣言をするわけではありませんし、私たちの行動がもたらす結果について熟考することもありません。
 > 
-> - [The Ethereum Classic Declaration of Independence](/blog/2016-08-13-declaration-of-independence)
+> - [イーサリアムクラシックの独立宣言](/blog/2016-08-13-declaration-of-independence)
 
-## The Difficult Breakup
 
-The now fractured Ethereum community, already war-weary thanks to the Hard Fork debate, was sent into overdrive by the emergence of Ethereum Classic. What many had hoped would be the end of the struggle turned out to be the beginning of another difficult chapter in a demoralizing development that was far worse than professed and anticipated just weeks earlier.
 
-The chain split was far from painless. Had all the side effects been known in advance, it seems extremely unlikely that even the most ardent supporters of a Hard Fork would have considered it an acceptable solution, especially compared to alternatives that would not have caused a split. ETC was living proof that pro-forker assurances about a smooth Hard Fork were just wishful thinking. Having caused such a cock-up, who could trust their judgment again?
+## 困難な別れ
 
-### Chain of Thieves
+ハードフォークの議論によってすでに戦意喪失していたEthereumコミュニティは、Ethereum Classicの出現によって一気に分裂した。 多くの人が闘争の終わりを期待していたが、ほんの数週間前に公言され予想されていたよりもはるかに悪い、士気を喪失させる展開の別の困難な章の始まりであったことが判明した。
 
-The forkers, rather than accepting responsibility, proclaimed that this new "Classic" thing was trouble; it was an attack on Ethereum by Bitcoin Maximalists, an empty protest chain, a zombie that would disappear in short order, even a "chain of thiefs" [sic]. ETC was many things, but definitely _not_ legitimate. Nobody that supported Ethereum™ could honestly support Ethereum Classic. _That_ was heresy.
+チェーンスプリットは、痛みを伴わないとは言い難いものでした。 もしすべての副作用が事前に分かっていたなら、ハードフォークの最も熱心な支持者でさえ、特に分裂を引き起こさない代替案と比較して、許容できる解決策と考えた可能性は極めて低かったと思われます。 ETCは、ハードフォークがスムーズに行われるというフォーク派の保証が単なる希望的観測に過ぎないことを如実に示していた。 こんな大失態を犯しておいて、誰がその判断を信じられるというのだろう。
 
-For many, those responsible for Ethereum Classic were "idiots", "crazies", "baddies", or worse, and they had to pay for their crimes. Much of this post-fork animosity was captured at the time by commenters, but to avoid picking at scabs, we strongly advise against googling the title of this section.
 
-### "Free Money" and the Ultrafair Redistribution
 
-But the attacks against Ethereum Classic were not just limited to name-calling. Some believed it might be possible to destroy Ethereum Classic, sending its price to zero by dumping large amounts of ETC on the market. Of course, the reality is that blockchains are far more resilient than this, but that didn't stop attempts to wage economic war for fun and profit.
+### チェーン・オブ・シーフーズ
 
-As a result of the chain split, every address that held Ether before the Hard Fork was now seeing double; they'd have the Ether they previously held, which became known as ETC, as well as an equal amount of the newly minted Forked Ether, appropriating the symbol ETH. Thanks to exchanges listing ETC shortly after the fork, a liquid market emerged that enabled price discovery between the two chains.
+フォークたちは、責任を認めるどころか、この新しい「クラシック」なるものはトラブルであり、ビットコインマキシマリストによるイーサリアムへの攻撃、空の抗議チェーン、すぐに消えてしまうゾンビ、さらには「泥棒のチェーン」 [sic]だと宣言した。 ETCはいろいろありましたが、間違いなく __ 正統派ではありません。 Ethereum™をサポートしていた人は、Ethereum Classicを正直にサポートすることはできませんでした。 _その_ は異端であった。
 
-During these early days of price discovery many pro-forkers were keen to sell their "worthless" ETC at ridiculously low rates, dumping massive amounts of ETC under the assumption it was a "race to the bottom" of a dying market, pushing the price down to as low as a 0.01 ETH per ETC. This may have caused temporary concern, but it allowed diamond-handed supporters of ETC to pick up some once-in-a-lifetime deals.
+多くの人にとって、イーサリアムクラシックの責任者は「バカ」「クレイジー」「悪党」、あるいはそれ以上の存在であり、彼らはその罪を償わなければならなかったのです。 このフォーク後の反感の多くは、当時コメント欄で把握されていたが、かさぶたをほじらないためにも、このセクションのタイトルをググらないことを強くお勧めする。
 
-This crescendoed in a market selling frenzy with prominent forkers claiming the selling of their ETC was "free money". To them, it was a no cost trade as ETC had no value, but in reality, they were participants in one of cryptocurrency's fairest market-based redistribution events ever. The "worthless" ETC was transferred essentially for free away from the ardent pro-forkers to those who saw a future in _Code is Law_, in what can be recognized today as an "Ultrafair Redistribution".
 
-![Post-fork ETC price discovery, peaking at 0.4 ETH/ETC](./polo.png)
 
-To the horror of many pro-forkers, after they had thrown away their ETC, the initial dump lost momentum, and the price of ETC came back with a vengeance. A week later, the price of ETC peaked at 0.4 ETH, giving the original buyers a 40x return and presenting the significant threat of "flippening" ETH, hugely delegitimizing the Hard Fork. Alas, the ETC/ETH flippening didn't quite happen back then and has yet to, but some predict that as time goes on the likelihood of this _not_ happening approaches 0.
+### "フリーマネー "と超公平な再分配
 
-### White Hat Group and their not so Merry Men
+しかし、イーサリアムクラシックに対する攻撃は、単なる罵倒にとどまらなかった。 ETCを大量に市場に投下することで、イーサリアムクラシックを破壊し、価格をゼロにすることが可能ではないかとの見方もあった。 もちろん、現実にはブロックチェーンはこれよりもはるかに弾力的ですが、それでも、楽しみと利益のために経済戦争を仕掛ける試みは止まりませんでした。
 
-But hold on a second. Whatever happened to those funds that Robin Hood Group previously secured? As a quick reminder, Robin Hood Group had already secured 70% of the lost funds, now in the form of ETC. For the remaining 30%, they had sourced help from the community to acquire Child DAO "controller keys". They had the option of maintaining a stalemate of perpetual splits with The DAO Hacker.
+チェーンスプリットの結果、ハードフォーク前にEtherを保有していたすべてのアドレスは、ETCとして知られるようになった以前保有していたEtherと、ETHというシンボルを流用して新たに鋳造されたForked Etherを同量保有することになり、二重の見方ができるようになりました。 フォーク後すぐに取引所がETCを上場させたおかげで、流動的な市場が出現し、2つのチェーン間の価格発見が可能になった。
 
-After the fork, though, Robin Hood Group (RHG) handed over the wheel (and custody of the ETC) to a newly formed White Hat Group (WHG). Who was calling the shots for White Hat Group exactly is unknown, but the announcements that WHG were making were being published by a company called Bity, which happened to be [partnered](https://archive.is/3nWU0) with slock.it at the time.
+価格発見の初期には、多くのプロフォーカーが「価値のない」ETCをとんでもない低レートで売りたがり、死にゆく市場の「底辺への競争」という前提で大量のETCを投下し、1ETCあたり0.01ETHまで価格を押し下げました。 そのため、一時的に心配されたが、ETCのダイヤモンド支持者にとっては、一世一代のお買い得品を手に入れることができた。
 
-On the Ethereum Classic side of the split, the decision was made by RHG/WHG _not_ to uphold their side of the stalemate, and they did not, despite requests, transfer the Child DAO keys to some other trusted group to continue the stalemate on their behalf.
+このため、著名なフォーカーが自分のETCの売却を「タダでもらえる金」だと主張し、市場での売却熱が高まりました。 彼らにとっては、ETCに価値がないためノーコストで取引できたわけですが、実際には、暗号通貨史上最も公平な市場ベースの再分配イベントの参加者だったのです。 価値のない」ETCは、熱烈なプロフォーカーから、 _Code is Law_、今日「超公平な再分配」と認識されるような、将来を見据えた人たちへと実質的に無償で譲渡された。
 
-> RHG [...] could have continued the attack on the ETC chain using the aforementioned “DAO Wars” limbo strategy, but decide not to.
+![フォーク後のETC価格発見、0.4ETH/ETCでピークに。](./polo.png)
+
+多くのプロフォーカーにとって恐ろしいことに、彼らがETCを捨てた後、最初のダンピングの勢いがなくなり、ETCの価格が一気に戻ってきたのである。 1週間後、ETCの価格は0.4ETHでピークに達し、当初の購入者は40倍のリターンを得て、ETHの「フリッピング」という重大な脅威を提示し、ハードフォークの権威を大いに失墜させたのである。 残念ながら、当時はETC/ETHの反転は全く起こらなかったし、今も起こっていないが、時間が経つにつれて、この __ が起こらない可能性は0に近づくと予測する人もいる。
+
+
+
+### ホワイト・ハット・グループとその愉快な仲間たち
+
+でも、ちょっと待ってください。 ロビン・フッド・グループが以前確保した資金はどうなったのでしょうか？ ちなみに、Robin Hood Groupは、失われた資金の70％をすでにETCという形で確保していた。 残りの30％は、コミュニティから協力を得てChild DAOの「コントローラーキー」を入手した。 DAOハッカーと永久に分裂し続ける膠着状態を維持するという選択肢もあったのだ。
+
+しかし、フォーク後、Robin Hood Group（RHG）は、新たに設立されたWhite Hat Group（WHG）にETCの管理権を譲渡した。 ホワイト・ハット・グループの正確な指示者は不明ですが、WHGが行っていた発表はBityという会社が行っており、たまたま当時slock.itと [提携していたのです](https://archive.is/3nWU0)。
+
+分裂のイーサリアムクラシック側では、RHG/WHG __ 、膠着状態の彼らの側を支持することを決定し、彼らは要請にもかかわらず、彼らに代わって膠着状態を続けるために、子DAOキーを他の信頼できるグループに転送しなかった。
+
+
+
+> RHG [...] 、前述の「DAOウォーズ」のリムーブ戦略を用いてETCチェーンへの攻撃を続けることもできたが、そうしないことにした。
 > 
-> - ["Revisiting The DAO", BitMEX Research](https://blog.bitmex.com/revisiting-the-dao/)
+> - [「DAOの再検討」、BitMEXリサーチ](https://blog.bitmex.com/revisiting-the-dao/)
 
-How they came to this decision was not made public, but it can only be assumed that it was partly fatigue, and the hope that the Hard Fork would mean the conclusion of the saga, but it may also partly have been a game theory play, where the goal was not to give ETC any legitimacy.
+この決断に至った経緯は公表されていないが、疲労感やハードフォークが武勇伝の終結を意味するという期待もあったと推測できるが、ETCに正当性を与えないというゲーム理論のような目的もあったのかもしれない。
 
-The strategy of not showing to make any preparations was the best way to reduce the chances of a chain split occurring in the first place, as acting as if the unforked chain would die out would, in theory, make it more likely to die out as it would be perceived to be abandoned. A Hard Fork was supposed to be _the_ way to make DAO Token Holders whole, and to take precautions or chase the funds on ETC would undermine recent justifications for its implementation.
+そもそも、フォークしていないチェーンが枯れるかのように振る舞うことは、理論上、見捨てられたと認識され、チェーンが枯れる可能性が高くなるため、準備をする様子を見せないという戦略が最適だったのである。 ハードフォークは、DAOトークン保有者を丸裸にするための __ 方法であるはずで、予防線を張ったりETCで資金を追いかけることは、その実施に対する最近の正当性を損なうことになります。
 
-Whatever the intent, The Hacker's Child DAO was allowed to reach the deadline without being re-split, and this lack of action effectively meant handing over about 3.5 million ETC to The DAO Hacker, which is still in their [custody](https://receipt.emerald.cash/balance/0x5e8f0e63e7614c47079a41ad4c37be7def06df5a) today.
+どのような意図があったにせよ、The Hacker's Child DAOは再分割されることなく期限を迎え、この措置の欠如は事実上約350万ETCをThe DAO Hackerに引き渡すことを意味し、現在も彼らの手元 [](https://receipt.emerald.cash/balance/0x5e8f0e63e7614c47079a41ad4c37be7def06df5a) にあるのです。
 
-If instead of implementing a Hard Fork, RHG had simply continued the stalemate, not only would there be no need for Ethereum Classic, but DAO Token Holders would in all likelihood have reclaimed _more_ value, which instead was lost in the form of ETC to The DAO Hacker and damaged reputation of the Ethereum project.
+もしハードフォークの代わりに RHG が単に膠着状態を続けていたら、Ethereum Classic は必要なかったばかりか、DAO トークン保有者は __ 以上の価値を取り戻したでしょう。その代わりに ETC という形で DAO ハッカーに奪われ、イーサリアムプロジェクトの評判が傷ついたのです。
 
-But the fun was just getting started.
+しかし、楽しみはこれからだった。
 
-### The Failed Liquidation of ETC
 
-Without warning or asking the opinion of DAO Token Holders, WHG, after first attempting to "tumble" the funds through several addresses to obfuscate the source of the ETC, deposited about 4 million (half of the 70%) on several of exchanges, [intending](https://archive.is/tKKWY) to convert this ETC to ETH "on behalf" of DAO Token Holders.
 
-![Reclaimed ETC was tumbled and sent to exchanges](./whg-funds.png)
+### ETCの清算に失敗したこと
 
-This action sealed the deal for many who suspected that these "whitehats" weren't necessarily acting in a world of completely black and white ethics, and had motives over and above acting in the best interest of DAO Token Holders.
+</a> DAOトークン保有者に警告することも、意見を求めることもなく、WHGは、まずETCの出所を難解にするためにいくつかのアドレスを通じて資金を「転がし」、約400万（70%の半分）をいくつかの取引所に預けました。 DAOトークン保有者の「代理」として、このETCをETHに変換しようと考えていたのです。</p> 
 
-Their actions beg two questions:
+![再生されたETCはタンブルで取引所に送られた](./whg-funds.png)
 
-- Why not give DAO Token Holders a choice in the matter, or at least open a discussion about what to do? Many holders did not support the Hard Fork, let alone wanting to convert their ETC to ETH. Indeed many still hold that ETC to this day, so clearly this action could not have been aligned with the wishes of _all_ DAO Token Holders.
-- Why try to tumble the ETC? This seems suspicious and serves little purpose other than to trick exchanges into not flagging the deposits. If all of this was legitimate, what is gained from obfuscation?
+この行動により、「ホワイトハット」たちは必ずしも白黒の倫理的な世界で行動しているわけではなく、DAOトークン保有者の利益のために行動する以上の動機があるのではないかと疑う多くの人たちが、契約を成立させた。
 
-Only the most cynical of perspectives seems to adequately answer these questions, in that it seems likely that WHG was attempting to financially attack Ethereum Classic by extracting as much value from ETC holders as possible. By making no announcement beforehand, this prevented the market from pricing-in the dump and allowing speculators to protect themselves. The tumbling may have been an attempt to prevent exchanges from flagging the funds, which would alleviate the need to explain their actions to anyone ahead of time, which could allow the economic attack to be countered.
+彼らの行動には、2つの疑問がある。
 
-Thankfully, in yet another embarrassing development, despite the attempt to hide the true provenance of the ETC, the majority of these deposited funds were frozen by exchanges, and even the ETC that was liquidated was eventually traded back into ETC later when it became clear that WHG would not be able to execute their initial plan.
+- DAOトークン保有者にこの問題での選択肢を与えるか、少なくともどうすべきかの議論を開いたらどうでしょうか。 多くのホルダーは、ETCをETHに変換したいどころか、ハードフォークを支持していなかった。 実際、多くの人が今日までそのETCを保有しているため、この行動は明らかに、 _すべての_ DAOトークン保有者の希望に沿うものではなかったはずです。
+- なぜETCを転倒させようとするのか？ これは疑わしいと思われ、取引所を騙して入金にフラグを立てないようにする以外の目的はほとんどありません。 もし、このすべてが正当なものであったなら、難読化によって何が得られるのでしょうか？
 
-Though WHG provided a [rationale](https://archive.is/tKKWY) for why they wanted to sell the reclaimed ETC, all of these excuses were shown to be baseless thanks to the subsequent implementation of a Withdrawal Contract on ETC, which eventually allowed DAO Token Holders to get their ETC back safely and decide for themselves what to do with it.
+WHGはETC保有者からできるだけ多くの価値を引き出すことで、イーサリアムクラシックを財政的に攻撃しようとしていた可能性が高いという点で、最もシニカルな視点のみがこれらの質問に適切に答えているように思われる。 事前に発表しないことで、市場にダンピングを織り込ませず、投機家の自己防衛を可能にしたのだ。 この転倒は、取引所がファンドにフラグを立てないようにするためだったのかもしれない。そうすれば、前もって誰かに説明する必要がなくなり、経済的な攻撃に対抗することが可能になる。
 
-### Replay Attacks
+ありがたいことに、ETCの本当の出所を隠そうとしたにもかかわらず、これらの預かった資金の大半は取引所によって凍結され、清算されたETCも、WHGが当初の計画を実行できないことが明らかになった後、結局ETCに戻されて取引されているという、またしても恥ずかしい展開となりました。
 
-One effect of not preparing for a possibility of a chain split was the prospect of replay attacks, which could, both accidentally and intentionally, cause the loss of funds or theft from either side of the chain. The possibility of replay attacks was [known](https://twitter.com/VladZamfir/status/759552287157133313) in advance, but presumably to play down the possibility of a chain split being a concern, no action was taken to mitigate or even warn the community about them.
+</a> WHGは、取り戻したETCを売却したい理由を 。しかし、その後のETCのWithdrawal Contractの導入により、これらの言い訳はすべて根拠のないものとなり、結局DAOトークン保有者はETCを安全に取り戻し、それをどうするか自分自身で決めることができるようになったのです。</p> 
 
-After the split, holders of ETH would have the same amount of ETC associated with the same addresses, and most transactions made on either side of the chain were valid and could be copied to the other. A signed transaction could be broadcast to the other side of the split and published to this chain without the knowledge or intent of the signer. This danger was not widely known at first, and it seemed that some clients would sometimes publish valid transactions to the mempools of both chains, creating chaos and causing innocent parties to lose funds in various ways.
 
-One example of this mess was the case of contracts deployed to ETH but not to ETC. A value transfer sending ETH to a contract, say a multisig address, could be replayed on ETC, but the ETC may be lost forever as the receiving contract address has no private key, and no contract code is deployed to that address on Classic. In this scenario, no malicious actors were required, it was simply a preventable bad outcome caused by lack of preparation.
 
-There were also documented cases of replayed transactions being exploited maliciously, typically with an exchange being the victim. For example, an attacker could deposit and withdraw ETH many times over, each time _also_ withdrawing ETC from the exchange by replaying the exchange's withdrawal transaction from ETH to ETC, and as most exchanges had no idea ETC was or could be a thing, much of the ETC in hot wallets was ripe for the picking once opportunistic blackhats figured out the trick.
+### リプレイアタック
 
-At the time, the only guaranteed way to prevent transactions from being replayed was to ensure funds were separated into different addresses on each chain, which could be achieved using a "splitter contract", but this was an annoying process especially for less technically inclined users. Several months later, a protocol-layer solution, [EIP-155](https://eips.ethereum.org/EIPS/eip-155), was introduced. This is why EVM blockchains now respect a `CHAIN_ID`, a unique number for each chain that is specified when signing transactions, making them invalid on other chains.
+チェーンが分岐する可能性に備えていないことの影響として、リプレイ攻撃により、偶然または意図的に、チェーンのどちらかの側から資金の損失や盗難が発生する可能性があることが予想されます。 リプレイ攻撃の可能性は、 [](https://twitter.com/VladZamfir/status/759552287157133313) 事前に知られていましたが、おそらく連鎖分裂が懸念される可能性を軽視するために、それを軽減するための措置やコミュニティへの警告すら行われませんでした。
 
-## Lessons Learned
+分割後は、ETHの保有者は同じアドレスに関連付けられた同じ量のETCを持つことになり、チェーンのどちら側で行われた取引もほとんどが有効で、もう一方にコピーすることができる。 署名されたトランザクションは、署名者の知識や意図に関係なく、分岐の反対側にブロードキャストされ、このチェーンに公開される可能性があります。 この危険性は当初あまり知られておらず、一部のクライアントが有効な取引を両チェーンのmempoolに公開し、混乱を招き、無実の人がさまざまな形で資金を失うことがあったようだ。
 
-Since the Hard Fork and its immediate fallout in 2016, the dust has largely settled, the animosity has faded away, and both Ethereum™ and Ethereum Classic continued to develop and have grown in their own ways. With the past behind, and the actions of individuals caught up on the whirlwind forgiven, the practical and moral lessons that The DAO Fork taught us must not be forgotten, so that similar future debacles can be avoided.
+この混乱の一例として、ETHに展開された契約がETCに展開されないというケースがありました。 コントラクト、例えばマルチシグアドレスにETHを送る価値移転は、ETC上で再生することができるが、受信コントラクトアドレスは秘密鍵を持たず、クラシックでそのアドレスにコントラクトコードが展開されないため、ETCは永遠に失われる可能性があります。 このシナリオでは、悪意ある行為者は必要なく、単に準備不足による予防可能な悪い結果であった。
 
-### Coordination Traps
+また、リプレイされた取引が悪意を持って悪用されるケースも記録されており、一般的には取引所が被害者となるケースが多い。 </em> 例えば、攻撃者はETHの入出金を何度も繰り返すことができ、そのたびに _、取引所の出金取引をETHからETCに再生することでETCを出金することもできます。ほとんどの取引所はETCがあることもないことも知らなかったため、日和見主義のブラックハットがこのトリックに気づくとホットウォレット内の多くのETCは収穫の時を迎えました。</p> 
 
-One significant takeaway from The DAO Fork debacle, which can now only be properly identified with hindsight, is the danger of _coordination traps_. This term is coined here to describe a phenomenon in a blockchain context, but the same concept echoes true in many systems where incentive structures yield bad outcomes.
+当時、取引のリプレイを防ぐために唯一保証されていた方法は、資金を各チェーンの異なるアドレスに分離することであり、これは「スプリッターコントラクト」を使って実現できたが、これは特に技術的に未熟なユーザーにとって煩わしい作業であった。 数カ月後、プロトコル層のソリューションである [EIP-155](https://eips.ethereum.org/EIPS/eip-155)が発表された。 このため、EVMブロックチェーンでは、 `CHAIN_ID`を尊重しています。これは、取引の署名時に指定するチェーンごとにユニークな番号で、他のチェーンでは無効となります。
 
-Blockchains are designed to solve _coordination problems_, as Bitcoin and Ethereum did so by managing to, with nothing but a well-defined protocol implementing economic incentives, get millions of individuals to work together and, in short, do a bunch of cool stuff. But it appears that these exact mechanisms can, if left unchecked, contort and deform on their own and yield decidedly uncool stuff.
 
-Looking back, it seems clear that The DAO Hard Fork was an example of a _coordination trap_, which caused individuals acting in their own immediate economic rational self-interest to engage in actions that on the whole were strictly worse for all involved. With hindsight, the events that unfolded don't make much sense given the poor outcomes, so why wasn't it obvious at the time that a Hard Fork was a bad idea?
 
-The answer to this is complicated, but one theory is that the thinking of those who pushed so ardently for a Hard Fork was clouded, a combination of misplaced authority, poor foresight, and perhaps most influentially, hijacked amygdala thanks to tremendously high pressure financial stakes and tribal infighting caused by the game theory incentive structures around the Hard Fork debate, which discouraged any whiff of backing down and tapped into the warrior spirit.
+## 教訓
 
-The Hard Fork debate was essentially a complex [game of chicken](https://en.wikipedia.org/wiki/Chicken_(game)), and the forkers were led to believe they could only "win" if they doubled down on the idea that a chain split would not happen. So, they downplayed the possibility of a chain split and, to ensure a united front of confidence, intimidated and prevented others from making any plans to deal with one.
+2016年のハードフォークとその直後の落ち込み以降、塵も積もれば山となるで、反感も薄れ、イーサリアム™もイーサリアムクラシックも発展を続け、それぞれ成長してきた。 過去は過ぎ去り、渦中にあった個人の行動は許されるとして、The DAO Forkが教えてくれた実用的かつ道徳的な教訓を忘れてはならないし、将来同様の失敗を避けることができるはずだ。
 
-Having drunk their own [Kool-Aid](https://www.urbandictionary.com/define.php?term=drinking%20the%20kool-aid), many truly believed those who were against a hard fork or were warning that a chain split could happen were either allied with The Hacker or Bitcoin Maximalists who wanted to see Ethereum die. As a result, forkers, fueled by a rational desire but misguided strategy to protect their wealth, were willing to spread and consume increasingly ridiculous propaganda that bolstered support for a Hard Fork, which created a vicious cycle that compounded the effect.
 
-The core misconception, which was reasonable at the time due to lack of past reference, was that the strategy of pretending a chain split would not happen would reduce the likelihood of a chain split happening. The hope was that if enough people could be influenced to abandon the unforked chain, it would die. As we know today, and after several prominent splits on other chains, this assumption has been proven incorrect, as it only takes a dedicated handful of individuals to continue a non-forked version of a blockchain, and market forces will merrily do the heavy lifting.
 
-How can blockchain projects avoid similar disasters in the future? Strong philosophical underpinnings provide an antidote to this and other mad game theory quandaries. Principles act as a reference point that can nip the bud of the economic interests which would otherwise push communities into these traps. This is why principles are important and are upstream of everything for blockchains that expect to last. They can lay down the rules of the game socially, and inoculate a chain against a whole host of unforeseeable failure states that can occur when those rules are ambiguous.
+### コーディネートのワナ
 
-### Is Code Law?
+DAOフォークの失敗から得た重要な教訓の1つは、今となっては後知恵でしか正しく認識できないのですが、 _協調トラップの危険性です_. この用語は、ブロックチェーンの文脈での現象を説明するためにここで作られたものですが、インセンティブ構造が悪い結果をもたらす多くのシステムで同じコンセプトが繰り返されるのです。
 
-To the layman, Ethereum™ still markets itself on Smart Contracts and the idea that their code should be the final arbiter of contract interactions. "Build Unstoppable Applications" was Ethereum.org's main slogan all the way up until 2019, many years after The DAO contract was stopped. The clear reality is that the usefulness of Smart Contract depends on _Code is Law_ being upheld, as otherwise they can be censored arbitrarily by outside forces.
+ブロックチェーンは、 _調整問題を解決するために設計されています。_、ビットコインとイーサリアムは、経済的インセンティブを実装した明確に定義されたプロトコルだけで、何百万人もの個人が協力し、要するに、たくさんの素晴らしいことを行うことに成功し、これを実現しました。 しかし、この仕組みは、放っておくと勝手に歪んで変形し、とんでもなくカッコ悪いものを生み出してしまうようです。
 
-However, Ethereum™'s history suggests a questionable relationship with the concept of unstoppability and _Code is Law_. The direct contradiction of this concept in Ethereum™'s past means that the project is now in a schizophrenic position where it is simultaneously for and against the idea of _Code is Law_.
+振り返ってみると、DAOハードフォークは、 _協調の罠_の例であったことは明らかであり、その結果、目先の経済合理的な自己利益のために行動する個人が、全体として関係者全員にとって厳密に悪い行動をとってしまうことになりました。 今にして思えば、展開された出来事は、結果の悪さを考えるとあまり意味がありません。では、なぜ当時、ハードフォークが悪い考えであることが明らかでなかったのでしょうか？
 
-Some Etherians say that The DAO Fork was a one-off that will never happen again; Ethereum™ really does follow _Code is Law_, or at least it does since The Fork. The problem with this position is that, when it matters, Ethereum™'s history demonstrates that it is susceptible to intervention that can overrule _Code is Law_. If something _can_ overrule _Code is Law_, you don't have _Code is Law_, you are just pretending to have it temporarily. Whether on a philosophical, social, or financial level, Ethereum™'s central points of failure have _already_ shown it to be captured.
+ハードフォークを熱心に推し進めた人たちの思考は、誤った権威や先見性のなさ、そしておそらく最も影響力があるのは、ハードフォーク議論にまつわるゲーム理論のインセンティブ構造によるとてつもなく高い圧力の金銭的利害と部族の内紛のおかげで扁桃体を乗っ取られ、一歩も引かず戦士精神を叩き込まれたため、混濁したという説があります。
 
-Other thought leaders in Ethereum Foundation say that _Code is Law_ is an [inhumane](https://twitter.com/VladZamfir/status/936029138623774721), [sociopathic](https://medium.com/@Vlad_Zamfir/my-intentions-for-blockchain-governance-801d19d378e5) concept; future DAO Fork level "corrections" _are_ on the table for Ethereum™, and that is a feature, not a bug. The problem with the _Code isn't Law_ position is that it misunderstands the fundamental value proposition of blockchains, which are useful _because_ special interests can't overrule them. For everything else, there are much more efficient options.
+ハードフォークの議論は、本質的に複雑な [チキンゲームでした](https://en.wikipedia.org/wiki/Chicken_(game))、フォークする側は、チェーンの分裂は起こらないという考えを倍加させれば、「勝つ」ことができると信じ込まされていました。 そこで、連鎖分裂の可能性を軽視し、自信の統一戦線を確保するために、周囲を威圧し、連鎖分裂への対処を計画させないようにしたのである。
 
-On top of this, despite the gaslighting that continues to this day, The DAO Fork was an objective dog's dinner, which only adds empirical evidence supporting the _Code is Law_ case. Subjective intervention in supposedly unstoppable applications is inherently messy and must be avoided.
+[クールエイド](https://www.urbandictionary.com/define.php?term=drinking%20the%20kool-aid)を飲んだ多くの人は、ハードフォークに反対したり、チェーンスプリットが起きると警告していた人たちは、ハッカーやビットコイン最大化論者と同盟を組んでいて、イーサリアムが死ぬのを見たかったのだと真に受けたのです。 その結果、合理的な欲求に駆られながらも、自分の富を守るために誤った戦略をとっていたフォーカーは、ハードフォークへの支持を高めるようなますます馬鹿げたプロパガンダを喜んで広め、消費し、それがさらに効果を高めるという悪循環を引き起こしたのです。
 
-### The Double Bind
+過去の文献がないため、当時は合理的であったが、「連鎖分裂が起きないように装う戦略は、連鎖分裂が起きる可能性を低くする」という核心的な誤解であった。 多くの人が影響を受けて、フォークなしのチェーンを捨てれば、死んでしまうという希望があったのです。 今日、他のチェーンでいくつかの著名な分裂があった後、この仮定が正しくないことが証明されました。ブロックチェーンの非フォーク版を継続するには、ほんの一握りの熱心な個人が必要で、市場の力が重い仕事を快く引き受けてくれるのです。
 
-For Ethereum™, major problems remain regardless of whether code _is_ or _isn't_ law; it is in a philosophical double bind. It cannot square the circle of its past performance contradicting its value proposition, and it is left with a dangling thread that increasingly tempts the kitten of fate the longer it remains unpulled.
+ブロックチェーン・プロジェクトは、今後どのようにすれば同様の災害を回避できるのでしょうか。 このようなゲーム理論にまつわる問題を解決するために、哲学的な裏付けが必要なのです。 原則は、コミュニティをこうした罠に陥れようとする経済的利害の芽を摘むための基準点として機能する。 だからこそ、長続きすることを期待するブロックチェーンには、原理原則が重要であり、すべての上流にあるのです。 社会的にゲームのルールを定め、そのルールが曖昧な場合に起こりうる予期せぬ多くの失敗からチェーンを守ることができるのです。
 
-![When should applications be stopped?](./code-isnt-law.jpg)
 
-Like Wile E. Coyote running off the cliff, it is only a matter of time for the repo-man of unanswered questions to come knocking in the form of future DAO Fork level choices. Ethereum™'s current strategic ambiguity towards _Code is Law_ may serve to appease interests temporarily, but it will in future simply cause much more significant problems down the road, when having a clear answer to the question of _Code is Law_ will save a bunch of trouble.
 
-In contrast with Ethereum Classic, in Ethereum™, the question "When should applications be stopped?" remains unanswered. For instance, whatever process determining whether forks should happen on Ethereum™ has decided that the victims of replay attacks caused by The DAO Hard Fork should not get another Hard Fork to make _them_ whole, let alone all the major Smart Contract bugs and DeFi Hacks. Presumably, allowing _these_ losses is a level of sociopathy acceptable to the _Code isn't Law_ brigade.
+### コードは法律か？
 
-Having this question remain unanswered is bound to create future issues and is the core reason why Ethereum Classic openly advocates for the principle of _Code is Law_ in all circumstances. While it may not always be the most convenient position at any given moment, it is the only stance that can treat all participants neutrally, remain philosophically consistent, and therefore has the potential to stand the test of time.
+素人には、Ethereum™はスマートコントラクトと、そのコードがコントラクトの相互作用の最終決定者であるべきだという考えに基づいて、今もなおマーケティングを行っています。 "Build Unstoppable Applications "は、The DAOコントラクトが停止されてから何年も経った2019年まで、ずっとEthereum.orgのメインスローガンとして掲げられていました。 スマートコントラクトの有用性は、 _Code is Law_ が守られているかどうかにかかっていることは明らかで、そうでなければ、外部の力によって恣意的に検閲されかねないからです。
 
-## Conclusion
+しかし、Ethereum™の歴史は、unstoppabilityの概念と _Code is Law_との関係に疑問を投げかけています。 Ethereum™の過去におけるこのコンセプトの直接的な矛盾は、現在プロジェクトが _Code is Law_のアイデアに賛成と反対を同時に行うという分裂的な立場にあることを意味します。
 
-The DAO Fork story shows how Ethereum was hijacked by a highly motivated special interest group, who forced through a misguided change on the network at everyone's expense. For Ethereum™, The Hard Fork was a disaster. Not only did it cause the community and network to split, forfeiting its precious _Code as Law_ status, but in a bout of poetic justice, The DAO Fork ended up returning fewer funds to DAO Token Holders than the non-fork alternative that respected _Code is Law_ would have.
+イーサリアンの中には、DAOフォークは一度きりで二度と起こらないという人もいます。Ethereum™は本当に _Code is Law_に従っていますし、少なくともフォーク以降そうなっています。 この立場の問題点は、重要なときに、Ethereum™の歴史は、 _Code is Law_を覆すことができる介入の影響を受けやすいことを実証していることである。 もし何か _が_ を覆すことができるなら _Code is Law_、あなたは _Code is Law_を持っていない、一時的に持っているふりをしているに過ぎないのです。 哲学的なレベルでも、社会的なレベルでも、金融的なレベルでも、Ethereum™の中心的な失敗のポイントは、 _すでに_ 捕捉されていることがわかります。
 
-The real, lasting damage that occurred was inflicted upon the culture of the cryptocurrency space far beyond the boundaries of Ethereum. Regrettably, a generation of new entrants do not care about or openly ridicule "Code is Law" as undesirable, and the ecosystem is set up for another massive The DAO scale failure leading to subjective interference in the near future, or worse, the censorship of users who depend on immutability.
+Ethereum Foundationの他の思想家は、 _Code is Law_ is an [inhumane](https://twitter.com/VladZamfir/status/936029138623774721), [sociopathic](https://medium.com/@Vlad_Zamfir/my-intentions-for-blockchain-governance-801d19d378e5) concept; future DAO Fork level "correction" _are_ on table for Ethereum™, and that is feature, not bug.と言っています。 _ _Code isn't Law の立場の問題は、ブロックチェーンの基本的な価値観を誤解していることです。ブロックチェーンは、 特別な利害関係者がそれを覆すことができないので、有用なのです。_* それ以外は、もっと効率的な選択肢があるのです。
 
-Despite the chaos, one project, or more specifically, one philosophy, while it was far from evident at the time, did massively benefit from the Hard Fork; Ethereum Classic and _Code is Law_. In the end, the real "winners" of the vicious Hard Fork debate were the anti-forkers, who were proved right by the chain split and the return of recovered ETC, demonstrating that the Hard Fork wasn't necessary. Moreover, the moment it was apparent that _The Original Ethereum Vision_ would not go silently into the night, it was settled; _Code is Law_ prevails.
+その上、今日まで続くガスライティングにもかかわらず、The DAO Forkは客観的な犬の夕食であり、 _Code is Law_ の件を裏付ける経験則が加わるだけである。 本来なら止められないはずのアプリケーションへの主観的な介入は、本質的に面倒であり、避けなければならない。
 
-_But hold on a minute, is this serious? Just look at Ethereum Classic's market cap compared to Ethereum! In what world is Ethereum Classic considered a winner?_
 
-To those who get _Code is Law_ and understand the true value of blockchains, the answer to this is obvious. There is a world of difference between market cap and network value, and while the market can stay irrational for a long time, eventually all blockchains will face existential challenges that can only be overcome through an _unwavering_ commitment to unstoppability. Slow and steady wins that race.
 
-Having chosen to abandon _Code is Law_, Ethereum™ must live with this decision going forward, including during future crises where its abandonment may prove to be a fatal mistake. Luckily for humanity, though, Ethereum Classic will be there to pick up the pieces when this happens.
+### ダブルバインド
 
-To understand how we must next take a closer look at what upholds the core useful property of blockchains, decentralization, and why ETC is in the unique position to maintain it for the long run.
+Ethereum™にとって、コード _が_ であるか _が_ の法則でないかに関わらず、大きな問題が残っています。哲学的なダブルバインドに陥っているのです。 過去の業績と自社の価値観の矛盾を解消できず、ぶら下がったままの糸は、引っ張らなければ引っ張るほど、運命の子猫を誘惑してしまうのだ。
+
+![アプリケーションを停止するタイミングは？](./code-isnt-law.jpg)
+
+Wile E. Coyoteが崖から走り去るように、将来のDAO Forkレベルの選択という形で、未解決問題のレポ-トマンがノックしてくるのは時間の問題です。 _Code is Law_ に対する Ethereum™ の現在の戦略的曖昧さは、一時的に利害関係者をなだめるのに役立つかもしれませんが、将来的には、単に _Code is Law_ の質問に明確な答えを持っていれば多くのトラブルを回避できるのに、ずっと重大な問題を先々引き起こすことになるでしょう。
+
+Ethereum Classicとは対照的に、Ethereum™では「いつアプリケーションを停止すべきか」という問いに答えられないままです。 例えば、Ethereum™でフォークが起こるべきかどうかを決定するプロセスは、The DAOハードフォークによって引き起こされたリプレイ攻撃の犠牲者が、 _それら_ 全体、ましてやすべての主要なスマートコントラクトのバグとDeFi Hacksを作るために別のハードフォークを得るべきではありませんことを決定しています。 おそらく、 _これらの_ の損失を許容することは、 _Code isn't Law_ brigadeに受け入れられるレベルの社会病質であると思われる。
+
+この疑問が解決されないままだと、将来的に問題が発生することは間違いなく、Ethereum Classicがあらゆる状況で _Code is Law_ という原則を公然と提唱している理由の中核をなしています。 その時々に最も都合の良い立場とは限らないが、すべての参加者を中立的に扱い、哲学的な一貫性を保つことができる唯一の立場であり、それゆえ時の試練に耐える可能性を持っているのだ。
+
+
+
+## 結論
+
+DAO Forkの話は、イーサリアムが非常に意欲的な特別利益団体に乗っ取られ、皆を犠牲にしてネットワークに誤った変更を強要されたことを示している。 イーサリアム™にとって、ハードフォークは大失敗でした。 それはコミュニティとネットワークの分裂を引き起こし、その貴重な _Code as Law_ の地位を失っただけでなく、詩的な正義の一撃で、DAOフォークは、 _Code is Law_ を尊重した非フォークの代替よりもDAOトークン保有者に返す資金が少なくなってしまったのである。
+
+その結果、イーサリアムの枠をはるかに超えて、暗号通貨の文化に深刻なダメージを与えました。 惜しむらくは、新規参入者の世代が「コードは法律」を気にしないか、あるいは公然と望ましくないと揶揄し、近い将来、主観的干渉につながる別の大規模なThe DAO規模の失敗や、最悪、不変性に依存する利用者の検閲につながるエコシステムがセットアップされていることです。
+
+混乱にもかかわらず、あるプロジェクト、より具体的にはある哲学が、当時はまだ明らかにされていなかったものの、ハードフォークの恩恵を大きく受けました。Ethereum Classic と _Code is Law_. 結局、ハードフォーク論争の真の「勝者」はアンチフォーク派で、彼らはチェーンの分裂と回収されたETCの返還によって、ハードフォークの必要性がなかったことを証明した。 さらに、 _The Original Ethereum Vision_ が黙って夜に入ることはないとわかった瞬間、決着がつきました。 _Code is Law_ prevals.
+
+_でも、ちょっと待ってください、これって本気なんですか？ イーサリアムクラシックの時価総額を、イーサリアムと比較してみてください イーサリアムクラシックは、どのような世界で勝ち組とされているのでしょうか。_
+
+_Code is Law_ 、ブロックチェーンの真価を理解している人にとっては、この答えは明らかです。 時価総額とネットワーク価値には天と地ほどの差があり、市場は長い間不合理なままでいられるが、いずれすべてのブロックチェーンは、 _、止められない_ コミットメントによってのみ克服できる実存の課題に直面することになる。 スロー・アンド・ステディがそのレースを制するのです。
+
+_Code is Law_を放棄することを選んだ以上、Ethereum™ はこの決定を今後受け入れなければなりません。将来の危機の際にも、この放棄が致命的な誤りであることが証明されるかもしれません。 しかし、人類にとって幸運なことに、このような事態に陥ったとき、イーサリアムクラシックがそのピースを拾い上げることになるのです。
+
+ブロックチェーンの有用な特性である分散性を支えているのは何か、そしてなぜETCがそれを長期的に維持できるユニークな立場にあるのかを、次に詳しく見ていく必要があります。
