@@ -34,7 +34,7 @@ learn:
         decentralism:
           name: 分权主义
         ethBtcEtc:
-          name: 乙醇+BTC=等
+          __name: ETH + BTC = ETC
         soundMoney:
           name: 健全的货币
         proofOfWork:

@@ -4,7 +4,7 @@ seo: 为什么Ethereum Classic是加密货币挖矿的最佳长期选择，以�
 updated: 2022-02-22
 ---
 
-随着以太坊即将/刚刚转换为股权证明(Proof of Stake)，又称为 "合并 "后，Ethereum Classic 成为最大的工作证明智能合约平台，并继承了许多以前开采 Ethereum 的矿工。 由于 Ethereum Classic 的散列算法与 ETHash 几乎相同，所以它支持相同的硬件，挖 ETC 应该是切换到支持 ETC 的矿池那么简单。
+随着以太坊即将/刚刚转换为股权证明（Proof of Stake），又称为 随着以太坊即将/刚刚转换为股权证明（Proof of Stake），又称为 "合并 "后，Ethereum Classic成为最大的工作证明智能合约平台，并继承了许多以前开采Ethereum的矿工。 由于Ethereum Classic的散列算法与ETHash几乎相同，所以它支持相同的硬件，挖ETC应该是切换到支持ETC的矿池那么简单。
 
 以太坊经典有一个长期的 [，](/why-classic/proof-of-work) 工作证明，这是一个久经考验的共识机制，为建立不可阻挡的应用程序提供了一个坚实的基础。 这种承诺并不是出于偶然，而是一种有意的设计选择，而不是其他机制，如权益证明，这些机制有内在的安全权衡。
 

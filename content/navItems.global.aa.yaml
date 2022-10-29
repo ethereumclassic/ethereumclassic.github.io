@@ -55,7 +55,7 @@ learn:
           name: crwdns70408:0crwdne70408:0
         ethBtcEtc:
           __link: /why-classic/eth-btc-etc
-          name: crwdns70412:0crwdne70412:0
+          __name: crwdns83152:0crwdne83152:0
         soundMoney:
           __link: /why-classic/sound-money
           name: crwdns70416:0crwdne70416:0

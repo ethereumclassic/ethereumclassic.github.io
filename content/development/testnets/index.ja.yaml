@@ -1,0 +1,33 @@
+title: テストネット
+seo: Ethereum Classic testnets（コントラクトやプロトコルのアップグレードのテストに使用できる一般公開されたネットワーク）についての情報です。
+description: |
+  イーサリアムクラシックでコントラクトを開発する場合、他のEVMコントラクトシステムと同様に、ローカルの[仮想ネットワーク](/development/tooling)を使用することが推奨され、これによりブロック採掘を待つことなく迅速に反復することができるようになります。しかし、ある時点では、アプリケーションのベータ版を一般に公開したいと思うかもしれませんし、そのためにテストネットを使用することができます。
+
+  Ethereum ClassicはEthereumのアップストリームEVMとの互換性を維持しているため、いくつかのマイナーなエッジケースを除いて、コントラクトは同じように動作します。つまり、 [Kovan](https://kovan-testnet.github.io/website/) などの人気のある Ethereum テストネットは、ほとんどの場合、Ethereum Classic 契約のパブリックテストに使用でき、その人気のため、ユーザーテストにはこれが望ましいかもしれないことを意味します。
+
+  さらに、Ethereum Classicには、Ethereum ClassicバージョンのEVMを運用する独自のテストネットがあり、本番リリース前にこれらのネットワークのいずれかにデプロイすることも強く推奨されています。これらのパブリックテストネットは蛇口も提供しているため、テストネットのETCを簡単に取得し、コードをデプロイすることができます。
+
+  Astorなど、これらのネットワークの中には、Ethereum Classicメインネットにまだ存在しない機能を持つ実験版ETCをテストしているものもあります。
+items:
+  testnets:
+    i18n:
+      pow: プルーフオブワーク
+      poa: 権威の証明
+      testnet: テストネット
+      experimental: 実験
+      faucet: 水栓金具
+    columnItems:
+      name:
+        name: 名称
+      faucet:
+        text: 水栓金具
+      type:
+        name: タイプ
+      miningAlgo:
+        name: アルゴリズム
+      consensusAlgo:
+        name: コンセンサスタイプ
+      networkId:
+        name: ネットワークID
+      chainId:
+        name: チェーンID

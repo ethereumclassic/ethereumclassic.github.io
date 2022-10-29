@@ -1,0 +1,156 @@
+title: 開発ガイド
+seo: 初心者から上級者まで、Ethereum Classicへのデプロイ方法を解説したチュートリアルや解説書をご紹介しています。
+description: |
+  スマートコントラクトのオーサリングとEthereum Classicへのデプロイのプロセスは、Ethereumの場合と同じです。Ethereum Classicの目標の1つはETHとの互換性を維持することであり、Ethereumにデプロイされたコントラクトは簡単にEthereum Classicに再デプロイすることができる。
+
+  つまり、イーサリアムに存在する既存のチュートリアルやライブラリ、開発ツールのほとんどがイーサリアムクラシックでも使えるということです。ほとんどの場合、テストネットやイーサリアムメインネットではなく、イーサリアムクラシックにデプロイするように設定オプションを変更するだけである。
+
+  主な例外は、ETHにのみデプロイされ、ETCにはまだないStablecoinsやOraclesなどのサードパーティシステムとのやり取りです。ゆっくりと、しかし確実に、これらのサービスのETCバージョンは、おそらくあなたによって移行されるでしょう現在どのようなサービスが利用可能かは、[apps section](/services/apps) で追跡できます。
+
+  このため、最新情報が豊富に掲載されている[Developer Resources on the Ethereum.org website](https://ethereum.org/en/developers/)を調べることを強くお勧めします。また、本ページのリンク先には、Ethereum Classicでの開発に特化したガイドが掲載されています。
+
+  また、[Videos > Development](/videos/development) セクションでは、Ethereum Classicでの開発に関するビデオチュートリアルを見つけることができます。
+items:
+  tutorials:
+    title: はじめに
+    description: ここでは、Ethereum Classicの開発を始めるために役立つチュートリアルやウォークスルーを非網羅的にリストアップしています。
+    items:
+      Kotti Testnet Setup Guide:
+        name: Kotti Testnet セットアップガイド
+        description: Jade DesktopでKotti TestNetを1分で立ち上げ、稼働させる。
+      Signatory Client:
+        name: 署名者 クライアント
+        description: Raspberry PIのようなシングルボードコンピュータにインストールできるDo-It-Yourselfハードウェアウォレット、Signatory Clientのビデオデモをご紹介します。
+      Besu Client Setup Guide:
+        name: Besuクライアントセットアップガイド
+        description: Hyperledger Besuの利用を開始します。
+      Raspberry Pi Node Setup Guide:
+        name: Raspberry Pi Nodeセットアップガイド
+        description: Raspberry PiにEthereumノードをセットアップする方法の詳細ガイド
+      CryptoZombies:
+        name: CryptoZombies
+        description: 自分のゲームを作ることでEthereum DAppsのコードを学ぶ。
+      Hitchhikers Guide to Smart Contracts:
+        name: スマートコントラクトへのヒッチハイク・ガイド
+        description: Truffle、Test-RPC、Solidityを使用してEthereum上のスマートコントラクトを構築します。
+      A 101 Noob Intro to Programming Smart Contracts on Ethereum:
+        name: イーサリアムでスマートコントラクトをプログラミングする101の入門書
+        description: スマートコントラクトのチュートリアルで、コードの前に理解度を高めることに重点を置いています。
+      Setup MetaMask for Ethereum Classic:
+        name: Ethereum ClassicのMetaMaskのセットアップ
+        description: MetaMaskでEthereum ClassicをサポートするEtherclusterのセットアップ方法
+      Parity Tutorial:
+        name: Parity DAppチュートリアル
+        description: DAppsの書き方を全10回で解説しています。
+      Start Ethereum DApp Development Career:
+        name: Ethereum DApp 開発のキャリアをスタート
+        description: DAppsの開発を始めるための非公式なガイドです。
+      Full Stack DApp Tutorial Series:
+        name: フルスタックDAppチュートリアルシリーズ
+        description: 様々なフレームワークを使用したフルスタックDApps。
+      Ethereum Builders Guide:
+        name: イーサリアム ビルダーズ ガイド
+        description: 技術的な機能をより深く理解するための、Ethereum上での構築のためのGitbookです。
+      Introduction to OpenRPC Webinar:
+        name: OpenRPC入門Webセミナー
+        description: このビデオでは、JSON-RPCとOpenRPCの基本を学びます。
+      Learning Solidity Tutorial Series:
+        name: Solidity の学習チュートリアル シリーズ
+        description: MetamaskとRemix IDEでスマートコントラクトを構築する。
+      End to End DApp Tutorial:
+        name: End to End DAppチュートリアル
+        description: Metamask、Truffle、Remix、React、IPFSを使用してギャンブルDAppを作成します。
+      How to write secure smart contracts:
+        name: 安全なスマートコントラクトの書き方
+        description: 安全なスマートコントラクトを書くためのプログラミング言語とベストプラクティスのおさらい。
+      Programming Decentralized Money:
+        name: 分散型マネーのプログラミング
+        description: スマートコントラクトのアプリケーションを構築するための分かりやすいガイドです。
+      How to create a token and ICO on Ethereum Classic:
+        name: イーサリアムクラシックでトークンを作成しICOする方法
+        description: このガイドを読み進めると、Ethereum Classicブロックチェーン上でERC223トークンを作成する方法と、このトークンのためのICOの方法を学ぶことができます。
+      How to use Brave Browser with Ethereum dApps:
+        name: Brave BrowserをEthereum dAppsで使用する方法
+        description: Brave Browserは、イーサリアムブロックチェーン上のDAppsにアクセスする最もシンプルで安全な方法です。Web 3.0はついに誰もがアクセスできるようになりました!
+      Vyper and Brownie Contract Development on EVM Chains:
+        name: EVMチェーンに関するVyperとBrownieの契約開発
+        description: ETCとVyperの統合を記念して、VyperがETCにデプロイするためのスマートコントラクトを構築することにしました。
+      Adventures in Classical Ether:
+        name: クラシック・エーテルの冒険
+        description: ETCのための最初のスマートコントラクトを構築します。
+      Kotti Solidity ETC Oh My:
+        name: Kotti、Solidity、ETC、Oh My!
+        description: このガイドでは、ETC<>ETH互換のダップ開発のために、Ethereum ClassicのKottiテストネットとSolidityの特定のバージョンの初期設定を説明します。Kottiは、ダップ開発者のための推奨テストネットです。プロトコルレベルのテストにはMordorを推奨します。
+      How to contribute to Mordor Testnet:
+        name: Mordor Testnetへの貢献方法
+        description: このガイドでは、テストネットのETCをマイニングし、Expeditionで独自のローカルブロックエクスプローラーを実行する方法を教えます。Kottiはダップ開発者に推奨されるテストネットです。Mordorはプロトコルレベルのテストに推奨されます。
+      Migrate to Hyperledger Besu - Switch from OpenEthereum or Multi-Geth:
+        name: Hyperledger Besuへの移行-OpenEthereumやMulti-Gethからの乗り換え
+        description: このガイドは、OpenEthereumまたはMulti-GethクライアントからHyperledger Besuクライアントへの移行を支援するものです。
+      Ethereum Classic on Raspberry Pi:
+        name: Raspberry PiでEthereum Classicを動かす
+        description: このガイドは、IoT、ETC、そしてラズベリーに関する私の探求を、いくつかのパートに分けて記録していきます。
+      Ethercluster An Open-Source Alternative to Infura:
+        name: Infuraに代わるオープンソースのEthercluster
+        description: スケーラブルなEthereumベースのRPCインフラストラクチャを独自に構築するためのガイドです。
+      Analyzing Ethereum Classic with Google BigQuery:
+        name: Google BigQueryによるEthereum Classicの解析
+        description: BigQueryを使ってEthereum Classicを分析するためのガイドです。このガイドでは、Ethereum Classicの分散化を定量化することを例にしています。
+      Creating Your Own Smart Contract Languages Using LLVM:
+        name: LLVMを用いたスマートコントラクト言語の自作
+        description: この記事では、EVM-LLVMを使って、ブロックチェーン展開可能なスマートコントラクトを生成するためのトイ言語「Kaleidoscope」を作る方法を紹介します。
+      ERC20 to ERC223 upgrade path:
+        name: ERC20からERC223へのアップグレードパス
+        description: ERC223は、手数料が安く、投資家をトークンの損失から保護する最新のトークン標準です。Team Saturnは、既存のERC20トークンをアップグレードする方法を紹介します。
+      Continuity for an Augmented world:
+        name: オーグメンテッドワールドのためのコンティニュイティ
+        description: Ethereum Classicで分散型広告システムを構築するためのガイドです。
+      Deployment Automation for Goerli testnet in 10 minutes:
+        name: 10分でできるGoerli testnetのデプロイメントオートメーション
+        description: 新しいGoerli Proof-of-Authorityのクロスクライアントテストネットワークを素早くデプロイするための短いチュートリアルです。このガイドはEthereum ClassicのKottiテストネットワークに適用することができます。
+      Monitoring in PegaSys Plus:
+        name: PegaSys Plusのモニタリング
+        description: PegaSysによるネットワーク監視ダッシュボードのセットアップのための簡単なチュートリアルです。
+      Using OpenRPC Mock Server to test against an Ethereum JSON-RPC API:
+        name: OpenRPC Mock Server を使って Ethereum JSON-RPC API に対してテストする。
+        description: open-rpc-mock-serverは、開発者がローカルかつ軽量な環境でAPIを実行し、それに対してテストを行うことを可能にします。
+      Introduction to Pristine An open standard and template for open-source projects:
+        name: Pristineの紹介 - オープンソース・プロジェクトのためのオープンスタンダードとテンプレート。
+        description: Pristineは、解決する問題の伝達、オンボーディングの容易化、Composableなツールの構築と使用、オープンソースの貢献と関与の促進、Github上の課題と機能の議論を促進するためのプロジェクトの規約と仕様が含まれる、それ自体の中のリポジトリである。
+      Jade Suite Overview and Workshop:
+        name: Jade Suiteの概要とワークショップ
+        description: Jade Suite of Toolsを使用して、Ethereum Classicアプリケーションの開発と設定を簡単かつ迅速に行うことができます。
+      Various Ethereum Solidity Tutorials:
+        name: 各種EthereumとSolidityのチュートリアル
+        description: スマートコントラクトの作成方法、独自のDAppsの展開、トークンの作成など、初級から中級までのトピックを紹介します。
+  advanced:
+    title: アドバンスト・コンセプト
+    description: ブロックチェーンの背後にある技術は深く、多くの領域に及んでいます。ここでは、ウサギの穴への旅を始めるのに役立つ記事の一部をご紹介します。
+    items:
+      2018-03-15-signatures:
+        name: イーサリアムクラシック電子署名コードの歩き方
+        description: デジタル署名は、取引の安全性を確保するものである。楕円曲線暗号と楕円曲線デジタル署名アルゴリズム（ECDSA）がこれに該当する。
+      2018-03-19-rlp:
+        name: 再帰的長さプレフィックス符号化方式
+        description: Ethereum Classic（ETC）は、データ構造の保存と送信にRecursive Length Prefix（RLP）エンコーディングを使用しています。
+      2018-01-31-difficulty:
+        name: Ethereum Classicの採掘困難度パラメータの簡単な解釈
+        description: マイニングの難易度パラメータは謎めいていると思われるかもしれません。この記事では、それが美しくわかりやすい解釈であることを示します。
+      2018-01-26-implicit-info:
+        name: 暗黙のイーサリアムクラシックブロックチェーン情報
+        description: 初心者には、イーサリアムクラシック（ETC）ブロックチェーンから必要な情報が欠落しているように見えるかもしれません。この情報はブロックチェーンに暗黙のうちに含まれているため、混乱を招く可能性があります。
+      2017-12-04-light-clients:
+        name: イーサリアムクラシックライトクライアントが安全に動作する方法
+        description: Ethereum Classic（ETC）ライトクライアントは、ETCブロックチェーン全体のコピーを保持しないクライアントです。
+      2017-04-28-blocks:
+        name: "ETCブロックの説明。3つのカテゴリー"
+        description: ブロックは、ヘッダー、トランザクションリスト、おじさんヘッダーリストに分けられます。
+      2017-04-18-keys:
+        name: "パブリックキーとプライベートキー。ちょっとした啓蒙活動"
+        description: 秘密鍵は、送金、プログラムのインストール、プログラムの実行に使用されます。
+      2017-03-30-accounts-and-states:
+        name: アカウントとステートの説明
+        description: イーサリアムクラシック（ETC）ブロックチェーンは、止められない、信頼できる、監査できる、信用できない、安全な世界のコンピュータを可能にする。このシステムを理解するためには、アカウントとステートを理解することが重要である。
+      2017-02-10-hashes:
+        name: "ハッシュ。インターネットとブロックチェーンの基礎となるハッシュの紹介とその理由"
+        description: 一方向性ハッシュ関数」というと、難解でマニアックに聞こえるかもしれないが、ハッシュ関数は現代の暗号技術の主力である。
