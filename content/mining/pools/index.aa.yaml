@@ -1,0 +1,204 @@
+__disclaimer: verify
+__updated: 2022-02-22
+__contribute: 1
+title: crwdns69770:0crwdne69770:0
+seo: crwdns69772:0crwdne69772:0
+description: |
+  crwdns69774:0crwdne69774:0
+__contributors:
+  - arvicco
+  - bobsummerwill
+  - cicorias
+  - dax-classix
+  - edradev
+  - ETC365
+  - gitr0n1n
+  - herominers
+  - IstoraMandiri
+  - karpusa
+  - MiningCryptoLive
+  - needles61
+  - ProphetDaniel
+  - pyskell
+  - redsn0w0
+  - sneg55
+  - TheEnthusiasticAs
+  - xiphon
+  - zz0412
+  - Jamyye
+items:
+  pools:
+    __type: buttons
+    items:
+      2Miners:
+        __name: 2Miners
+        __link: https://2miners.com/etc-mining-pool
+        __primary: 1
+      AltPool:
+        __name: AltPool
+        __link: http://etc.altpool.pro/
+      AntPool:
+        __name: AntPool
+        __link: https://antpool.com/
+      BaikalMine:
+        __name: BaikalMine
+        __link: https://baikalmine.com/en/pplns/etc/
+      BAYPOOL:
+        __name: BAYPOOL
+        __link: https://etc.baypool.org/
+      Beepool:
+        __name: Beepool
+        __link: https://beepool.org/coindetail/etc
+      Binance Pool:
+        __name: Binance Pool
+        __link: https://www.binance.com/en/support/faq/20ba5cf0ce1b4956bda87d8aede5f31d
+        __primary: 1
+      BTC.com:
+        __name: BTC.com
+        __link: https://pool.btc.com/
+      BWPool:
+        __name: BWPool
+        __link: https://etc.bwpool.net/pool/i
+      Clona:
+        __name: Clona
+        __link: https://etc.clona.ru
+      Cominers:
+        __name: Cominers
+        __link: https://etc.cominers.org/
+      Comining:
+        __name: Comining
+        __link: https://comining.io/
+      CoolPool:
+        __name: CoolPool
+        __link: https://coolpool.top/
+      CrazyPool:
+        __name: CrazyPool
+        __link: https://crazypool.org/
+        __primary: 1
+      Cruxpool:
+        __name: Cruxpool
+        __link: https://www.cruxpool.com/etc/
+      DigiPools:
+        __name: DigiPools
+        __link: https://etc.digipools.org/
+      E4Pool:
+        __name: E4Pool
+        __link: https://e4pool.com/
+      EMCD:
+        __name: EMCD
+        __link: https://pool.emcd.io/
+      ETC Mining Club:
+        __name: ETC Mining Club
+        __link: https://www.etcmining.club/
+      ETC-POOL:
+        __name: ETC-POOL
+        __link: https://etc-pool.com/
+      ETC Pool US:
+        __name: ETCPool.us
+        __link: https://etcpool.us/
+        __primary: 1
+      Ethermine:
+        __name: Ethermine
+        __link: https://etc.ethermine.org/
+        __primary: 1
+      EZil:
+        __name: EZil
+        __link: https://ezil.me/
+      f2pool:
+        __name: f2pool
+        __link: https://www.f2pool.com/
+        __primary: 1
+      flexpool:
+        __name: Flexpool
+        __link: https://flexpool.io/
+      HashBlue:
+        __name: HashBlue
+        __link: https://hash.blue
+        __primary: 1
+      HashCity:
+        __name: HashCity
+        __link: https://hashcity.org/
+      Hellominer:
+        __name: Hellominer
+        __link: https://hellominer.com/ETC/EtcHome.aspx
+      HeroMiners:
+        __name: HeroMiners
+        __link: https://etc.herominers.com/
+      Hiveon:
+        __name: Hiveon
+        __link: https://hiveon.net/
+        __primary: 1
+      HuobiPool:
+        __name: HuobiPool
+        __link: https://www.hpt.com/
+      ICanMining:
+        __name: ICanMining
+        __link: https://icanmining.ru/?l=en&d=pool&pool=etc
+      K1Pool:
+        __name: K1Pool
+        __link: https://k1pool.com/
+      KryptexPool:
+        __name: KryptexPool
+        __link: https://pool.kryptex.com/etc
+      MaxHash:
+        __name: MaxHash
+        __link: https://etcpool.maxhash.org/
+      MinerGate:
+        __name: MinerGate
+        __link: https://minergate.com/etc-mining-pool
+      Mole Pool:
+        __name: Mole Pool
+        __link: http://mole-pool.net/
+      MyMiners:
+        __name: MyMiners
+        __link: https://etc.myminers.org/
+      Nanopool:
+        __name: Nanopool
+        __link: https://etc.nanopool.org/
+        __primary: 1
+      Open ETC Pool:
+        __name: Open ETC Pool
+        __link: https://github.com/etclabscore/open-etc-pool
+        __primary: 1
+      Pearpool:
+        __name: Pearpool
+        __link: https://etc.pearpool.com/
+      Prohashing:
+        __name: Prohashing
+        __link: https://prohashing.com/
+      RociMining:
+        __name: Roci Mining
+        __link: http://rocimining.co.uk/
+      RuPool:
+        __name: RuPool
+        __link: https://rupool.pro/
+      SoloPool:
+        __name: SoloPool
+        __link: https://etc.solopool.org/
+      ua-mining:
+        __name: ua-mining
+        __link: https://etc.ua-mining.com
+      ViaBTC:
+        __name: ViaBTC
+        __link: https://www.viabtc.com/
+      Wattpool:
+        __name: Wattpool
+        __link: https://wattpool.net/pools
+      Whalesburg:
+        __name: Whalesburg
+        __link: https://whalesburg.com/
+      WoolyPooly:
+        __name: WoolyPooly
+        __link: 'https://woolypooly.com/#/coin/etc'
+      XnPool:
+        __name: XnPool
+        __link: https://www.xnpool.com/
+      Yu-Tam:
+        __name: Yu-Tam
+        __link: https://etc.yu-tam.contact/
+      Zergpool:
+        __name: Zergpool
+        __link: http://zergpool.com/site/mining?algo=ethash
+      ŻET:
+        __name: ŻET
+        __link: https://etc.zet-tech.eu/
