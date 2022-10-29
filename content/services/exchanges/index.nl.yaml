@@ -1,0 +1,24 @@
+title: Ruilen
+seo: Een lijst van gecentraliseerde en op vertrouwen gebaseerde beurzen, DEX'en, NFT-marktplaatsen en betalingsverwerkers die ETC ondersteunen.
+description: |
+  Deze pagina bevat een lijst van diensten waarmee u ETC kunt kopen of verhandelen.
+
+  ## Niet-uitputtende lijst van exchanges
+
+  De volgende exchanges ondersteunen allemaal Ethereum Classic. Ze zijn onderverdeeld in 3 categorieën; trust minimizing, gecentraliseerd en cross-chain.
+
+  **Doe uw eigen onderzoek naar de beurs die u kiest om Ethereum Classic te kopen. Vermelding op deze site betekent niet dat het Ethereum Classic project de diensten van de beurs goedkeurt.**
+items:
+  Trust-Minimizing Exchanges:
+    title: Vertrouwen beperkende uitwisselingen
+    description: De volgende exchanges zijn misschien niet *helemaal* gedecentraliseerde exchanges, maar werken op een minder gecentraliseerde manier dan de gecentraliseerde secties hieronder. Waarschijnlijk gebruiken deze producten niet-custodiale smart contracts om uitwisselingen mogelijk te maken.
+  Centralized Spot Markets:
+    title: Gecentraliseerde spotmarkten
+  Centralized Derivative Markets:
+    title: Gecentraliseerde derivatenmarkten
+  Cross-Chain Swap Exchanges:
+    title: Cross-Chain Swap Uitwisselingen
+    description: "*Noot:* Cross-Chain Swap Exchanges bieden doorgaans slechtere tarieven dan Centralized Exchanges."
+  NFT Marketplaces:
+    title: NFT Marktplaatsen
+    description: De volgende NFT marktplaatsen zijn mogelijk niet *volledig* gedecentraliseerd.
