@@ -1,15 +1,15 @@
 ---
-title: The Ethereum Classic Foundation
+title: イーサリアムクラシック財団
 updated: 2022-02-22
-seo: An explanation of why blockchains that have a Foundation based on ideas and principles are far more powerful than those that are made of people.
+seo: アイデアや原理原則に基づいた基盤を持つブロックチェーンが、人で構成されるブロックチェーンよりもはるかに強力である理由を解説します。
 ---
 
-The Ethereum Classic Foundation does not consist of people; it is an idea.
+イーサリアムクラシック財団は、人ではなく、アイデアで成り立っています。
 
-![Decentralization, Sound Money, and Proof of Work uphold Code is Law](../../../src/images/foundation.png)
+![分散化、サウンドマネー、プルーフ・オブ・ワーク アップホールドコード・イズ・ロー](../../../src/images/foundation.png)
 
-Compared to other blockchains whose development is guided by corruptible centralized institutions, The Ethereum Classic Foundation is a set of principles designed shepherds decision-making in a way that maximizes ETC's longevity and prevents it from being captured. As an idea, it is immune from many forms of attack, is robust, and can stand the test of time.
+イーサリアムクラシック財団は、腐敗しやすい中央集権的な機関によって開発が誘導される他のブロックチェーンと比較して、ETCの寿命を最大化し、捕捉されないような方法で意思決定を行うように設計された一連の原則である。 アイデアとして、さまざまな攻撃から免れ、堅牢で、時の試練に耐えることができるのです。
 
-There is no top-down control over Ethereum Classic, which leads to an [antifragility](https://en.wikipedia.org/wiki/Antifragility), and is achieved by participants maintaining and refining a doctrine of decentralization that can be easily articulated, understood, and perpetuated over time.
+イーサリアムクラシックにはトップダウンのコントロールがなく、 [アンチフラジリティ](https://en.wikipedia.org/wiki/Antifragility)につながり、参加者が容易に表現でき、理解でき、長期にわたって永続できる分散化の教義を維持、洗練させることによって達成されます。
 
-For Ethereum Classic, its Foundation is its strongest and most crucial element. ETC exists in response to The DAO [incident](/why-classic/genesis), and in recognition that all of a blockchain's utility and value is ultimately downstream of principles. Through the continuous [pursuit](/why-classic/decentralism) of _decentralization maximalism_, ETC's technological and social layers are configured to prevent outside forces from compromising a chain and overruling _Code is Law_.
+イーサリアムクラシックにとって、その基盤は最も強く、最も重要な要素である。 ETCは、The DAO [事件](/why-classic/genesis)に対応し、ブロックチェーンの実用性と価値のすべては最終的に原理の下流にあるという認識から存在しています。 継続的な [の追求](/why-classic/decentralism) を通して _分散化最大主義_、ETCの技術的および社会的レイヤーは、外部の力がチェーンを危うくし、 _Code is Law_を覆すことを防ぐように構成されています。
