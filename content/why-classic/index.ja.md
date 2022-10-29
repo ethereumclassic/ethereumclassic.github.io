@@ -1,18 +1,18 @@
 ---
-title: Why Ethereum Classic?
+title: なぜイーサリアムクラシックなのか？
 updated: 2022-02-22
 showNext: true
-seo: Ethereum Classic's reason for being including its Genesis, mission of Decentralization and the bright future it enables thanks to Code is Law.
+seo: Ethereum Classicの創世記を含む存在理由、分散化の使命、Code is Lawのおかげで可能になった明るい未来。
 disclaimer: opinion
-info: "**Note:** In the following sections, *Ethereum™* refers to the post DAO Fork [Ethereum Foundation](https://ethereum.org) Mainnet Chain, not to be confused with the Ethereum *protocol*, which is used many blockchain projects including Ethereum Classic"
+info: "**注：**以下のセクションでは、*Ethereum™*はポストDAO Fork [Ethereum Foundation](https://ethereum.org) Mainnet Chainを指し、Ethereum Classicを含む多くのブロックチェーンプロジェクトで使用されているEthereum *protocol*と混同しないようご注意ください。"
 ---
 
-Following the rapid growth of the cryptocurrency space, many new players enter the scene, and while scrolling down a list of projects ranked by market cap, some notice a blockchain called _Ethereum Classic_.
+暗号通貨分野の急成長を受け、多くの新しいプレーヤーが参入しています。時価総額でランク付けされたプロジェクトのリストをスクロールしていると、 _Ethereum Classic_というブロックチェーンに気づく人もいるでしょう。
 
-They see a name and logo that is similar to the famous Ethereum™ and may assume that this _Classic_ thing is some sort of copy-cat project trying to cash in on ETH's success. In a market saturated with such projects, and with limited research time, many people may reasonably give Ethereum Classic a pass without much thought.
+有名なイーサリアム™に似た名前とロゴを見て、この _Classic_ 、ETHの成功に便乗しようとするある種のコピーキャット・プロジェクトだと思い込むかもしれないのです。 このようなプロジェクトが飽和状態にある市場で、限られた研究時間では、多くの人があまり考えずにイーサリアムクラシックをパスするのが妥当だろう。
 
-But some, like yourself, decide to dive a little deeper, and they discover some interesting facts that debunk that initial skepticism. Their journey down the rabbit hole begins when they find out that Ethereum Classic is not a clone of Ethereum™, but a continuation of the *original* Ethereum launched in 2015, which The Ethereum Foundation forked away from by launching a new protocol one year later in 2016.
+しかし、あなたのように、もう少し深く掘り下げてみると、最初の懐疑的な見方を覆すような興味深い事実を発見する人もいます。 </em> Ethereum ClassicはEthereum™のクローンではなく、2015年に立ち上げられた *オリジナルのEthereumの継続であり、The Ethereum Foundationは1年後の2016年に新しいプロトコルを立ち上げてそこからフォークしたことを知ったときから、彼らのウサギの穴への旅が始まります。</p>
 
-Applications on Ethereum Classic have been operating uninterrupted for a year longer than on Ethereum™, making ETC the longest running and most reliable Smart Contract Platform. More importantly, Ethereum Classic has never and will never stop or interfere with Smart Contracts deployed to it, as unstoppability is what makes blockchains useful and valuable.
+Ethereum Classic上のアプリケーションは、Ethereum™上よりも1年長く中断することなく稼働しており、ETCは最も長く稼働し、最も信頼できるスマートコントラクトプラットフォームとなっています。 さらに重要なのは、イーサリアムクラシックはこれまでも、そしてこれからも、そこに展開されたスマートコントラクトを止めたり妨害したりすることはない、ということです。なぜなら、止まらないことがブロックチェーンを便利で価値のあるものにしているからです。
 
-Unlike Ethereum™, on Classic, _Code is Law_. This means that "applications run exactly as programmed without downtime, censorship, or third party interference." Ethereum Classic has evolved its ability to deliver on this promise by maxing-out the characteristics that yield decentralization, unstoppability, and censorship resistance against strong external forces. It is the only major Smart Contract Platform that has proven its ability to uphold this promise.
+Ethereum™とは異なり、Classicでは、 _コードは法律_。 これは、"アプリケーションがダウンタイムや検閲、第三者の干渉を受けることなく、プログラム通りに正確に実行される "ことを意味します。 イーサリアムクラシックは、強い外部勢力に対する分散性、停止不能性、検閲耐性をもたらす特性を最大化することで、この約束を実現する能力を進化させました。 この約束を守ることができることを証明した唯一の主要なスマートコントラクトプラットフォームです。
