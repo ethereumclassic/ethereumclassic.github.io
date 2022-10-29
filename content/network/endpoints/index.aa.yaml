@@ -1,0 +1,77 @@
+title: crwdns70822:0crwdne70822:0
+__updated: 2022-02-22
+__contribute: 1
+seo: crwdns70828:0crwdne70828:0
+description: |
+  crwdns70830:0[MetaMask]crwdnd70830:0[testnets]crwdnd70830:0[ChainList.org]crwdne70830:0
+__contributors:
+  - arvicco
+  - dax-classix
+  - gitr0n1n
+  - IstoraMandiri
+  - ProphetDaniel
+  - pyskell
+  - TheEnthusiasticAs
+items:
+  endpoints:
+    __type: table
+    __sort: 0
+    columnItems:
+      name:
+        name: crwdns70850:0crwdne70850:0
+        __linkRef: link
+      rpcUrl:
+        name: crwdns70854:0crwdne70854:0
+    items:
+      Ethercluster:
+        __rpcUrl: https://www.ethercluster.com/etc
+        __link: https://www.ethercluster.com
+        __name: Ethercluster
+      Ethercluster (Kotti):
+        __rpcUrl: https://www.ethercluster.com/kotti
+        __link: https://www.ethercluster.com
+        __name: Ethercluster (Kotti)
+      Ethercluster (Mordor):
+        __rpcUrl: https://www.ethercluster.com/mordor
+        __link: https://www.ethercluster.com
+        __name: Ethercluster (Mordor)
+      Ethercluster (Goerli):
+        __rpcUrl: https://www.ethercluster.com/goerli
+        __link: https://www.ethercluster.com
+        __name: Ethercluster (Goerli)
+      ETC-Network.info BESU:
+        __rpcUrl: https://besu.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info BESU
+      ETC-Network.info GETH:
+        __rpcUrl: https://geth.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info GETH
+      ETC-Network.info ETCP:
+        __rpcUrl: https://rpc.etcplanets.com
+        __link: https://etcplanets.com
+        __name: ETC Planets RPC
+      ETC-Network.info GETH (Goerli):
+        __rpcUrl: https://geth-goerli.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info GETH (Goerli)
+      ETC-Network.info GETH (Kotti):
+        __rpcUrl: https://geth-kotti.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info GETH (Kotti)
+      ETC-Network.info GETH (Mordor):
+        __rpcUrl: https://geth-mordor.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info GETH (Mordor)
+      BlockScout API:
+        __link: https://blockscout.com/etc/mainnet/api-docs
+        __name: BlockScout API
+        __rpcUrl: <API Key Required>
+      RIVET API:
+        __link: https://rivet.cloud/
+        __name: RIVET
+        __rpcUrl: <API Key Required>
+      TokenView API:
+        __link: https://services.tokenview.com
+        __name: TokenView API
+        __rpcUrl: <API Key Required>
