@@ -45,6 +45,8 @@ const locales = {
   },
   nl: {
     name: "Nederlands",
+    enabled: true,
+    dayJsImport: "nl",
   },
   ru: {
     name: "русский",

@@ -12,6 +12,7 @@ import "dayjs/locale/en";
 import "dayjs/locale/zh";
 import "dayjs/locale/ja";
 import "dayjs/locale/es";
+import "dayjs/locale/nl";
 
 dayjs.extend(localizedPlugin);
 
