@@ -106,7 +106,7 @@ Permissieloosheid, niet verrassend, is een eigenschap die nieuwe gebruikers in s
 
 Mijnbouw, en op zijn beurt, Proof of Work, is zonder toestemming, aangezien iedereen (of wat dan ook) hashrate kan bijdragen aan het netwerk en een gelijke kans heeft om een blok te kunnen mijnen op basis van de hashrate die zij bijdragen. Elke hash is als een lot uit de loterij, en hoe meer loten je koopt, hoe groter de kans om een blok te vinden en die zoete, zoete blokbeloning te krijgen.
 
-</em> Omdat er geen gatekeepers zijn, kunnen Proof of Work-consensusmechanismen _zich niet bekommeren om _hoe_ hashrate tot stand komt, of _wie_ heeft bijgedragen. Dit is een essentiële kwaliteit, wil een keten neutraal en niet gevangen blijven, want als er poortwachters zouden bestaan, zouden zij werk kunnen weigeren op basis van de identiteit of locatie van een bijdrager, waardoor deze buitengesloten zou worden, en zo het netwerk zou centraliseren en gevangen zou worden.</p>
+ Omdat er geen gatekeepers zijn, kunnen Proof of Work-consensusmechanismen _zich niet bekommeren om _hoe_ hashrate tot stand komt, of _wie_ heeft bijgedragen. Dit is een essentiële kwaliteit, wil een keten neutraal en niet gevangen blijven, want als er poortwachters zouden bestaan, zouden zij werk kunnen weigeren op basis van de identiteit of locatie van een bijdrager, waardoor deze buitengesloten zou worden, en zo het netwerk zou centraliseren en gevangen zou worden.
 
 Proof of Stake-systemen zijn _niet_ permissievrij. De enige manier om valuta te verwerven die nodig is voor transacties en inzetten, is door _deze te kopen_ van iemand die deze valuta al heeft; zij hebben _toestemming nodig_ van iemand binnen het netwerk om het netwerk te gebruiken, waarbij bestaande houders de poortwachters zijn.
 

@@ -79,9 +79,9 @@ Een DAO (uitgesproken als "_Dow_ Jones") of "Gedecentraliseerde Autonome Organis
 
 ![Kunstwerk gemaakt voor The DAO, gebaseerd op Taoïstische symbolen...](./dao.png)
 
-</a> De Ethereum Foundation, die in een crowdsale fondsen verzamelde om Ethereum te creëren, had een Chief Communications Officer die
+ De Ethereum Foundation, die in een crowdsale fondsen verzamelde om Ethereum te creëren, had een Chief Communications Officer die
 
-het Ethereum Genesis Block aankondigde en een voorstander was van [](https://twitter.com/stephantual/status/711874685156376576) van _Code is Law_. Zoals vele anderen, zag de CCO van EF de mooie toekomst die werd beloofd door "Build Unstoppable Applications", en het was uiteindelijk hun oproep om deze term te gebruiken om het Ethereum-project te promoten.</p> 
+het Ethereum Genesis Block aankondigde en een voorstander was van [](https://twitter.com/stephantual/status/711874685156376576) van _Code is Law_. Zoals vele anderen, zag de CCO van EF de mooie toekomst die werd beloofd door "Build Unstoppable Applications", en het was uiteindelijk hun oproep om deze term te gebruiken om het Ethereum-project te promoten. 
 
 In november 2015 vormde de nu voormalige CCO samen met enkele programmeurs een bedrijf genaamd slock.it. Slock.it wilde niet alleen _een_ DAO lanceren, maar _De_ DAO, die zou worden gebruikt als een soort risicokapitaalfonds dat zich richt op Ethereum-projecten. Het werd aangeprezen als een manier om het Ethereum-ecosysteem te laten groeien en als een netto opbrengst voor investeerders, die ether zouden storten in het DAO-contract in ruil voor DAO-tokens, die het mogelijk zouden maken te stemmen op en beloningen op te leveren voor investeringen door The DAO.
 
@@ -121,7 +121,7 @@ Omdat Ethereum zo nieuw was en zich nog geen best practices hadden gevormd rond 
 
 ### en het is weg.
 
-</a> Net als bij contracten in de echte wereld zit de duivel in de details, en het bleek dat de DAO op toch getroffen was door de reentrancy bug. Op [regel 666](https://github.com/TheDAO/DAO-1.0/blob/master/DAO.sol#L666-L670) lag een exploit te sluimeren, en die enorme hoeveelheid opgehaalde ETH lag daar te wachten op een scherpziende programmeur die hem inpikte.</p> 
+ Net als bij contracten in de echte wereld zit de duivel in de details, en het bleek dat de DAO op toch getroffen was door de reentrancy bug. Op [regel 666](https://github.com/TheDAO/DAO-1.0/blob/master/DAO.sol#L666-L670) lag een exploit te sluimeren, en die enorme hoeveelheid opgehaalde ETH lag daar te wachten op een scherpziende programmeur die hem inpikte. 
 
 Een paar dagen later begonnen een of meer aanvallers de DAO leeg te zuigen, en gebruikten, net als een touwtje dat aan een munt vastzit, speciaal gemaakte contracten om herhaaldelijk de splitsingsfunctie van de DAO aan te roepen om meer ETH weg te halen dan de auteurs van het contract _van plan waren_ toe te laten.
 
@@ -177,7 +177,7 @@ Er bestond een onrealistische angst dat The DAO Hacker _nooit meer zou terugkere
 
 De patstelling betekende dat de whitehats de DAO-hacker een belangrijke meevaller hadden ontzegd, en wetende dat andere wegen, waaronder onderhandelingen, forensisch onderzoek van de keten en politiewerk in de echte wereld, konden worden gebruikt, zou de hacker uiteindelijk gedwongen worden om ofwel vrijwillig op te geven, ofwel te maken te krijgen met off-chain gevolgen waardoor hij zijn kant van de patstelling niet zou kunnen handhaven.
 
-Een van de absurde maar belangrijke details die vaak worden vergeten over The DAO Fork is dat het onnodig was omdat het grootste deel van de fondsen al was gerecupereerd, en de rest zo goed als gerecupereerd. </em> Zonder een Hard Fork was het _worst case scenario_ voor DAO Token houders een _tijdelijke haircut van 30%, maar zoals we zullen zien, leidde de implementatie van de Hard Fork uiteindelijk tot een veel slechtere uitkomst voor niet alleen DAO Token houders, maar de hele Ethereum gemeenschap en de cultuur van cryptocurrency als geheel.</p> 
+Een van de absurde maar belangrijke details die vaak worden vergeten over The DAO Fork is dat het onnodig was omdat het grootste deel van de fondsen al was gerecupereerd, en de rest zo goed als gerecupereerd.  Zonder een Hard Fork was het _worst case scenario_ voor DAO Token houders een _tijdelijke haircut van 30%, maar zoals we zullen zien, leidde de implementatie van de Hard Fork uiteindelijk tot een veel slechtere uitkomst voor niet alleen DAO Token houders, maar de hele Ethereum gemeenschap en de cultuur van cryptocurrency als geheel. 
 
 _UPDATE:_ Deze analyse is correct gebleken, aangezien de identiteit van The DAO Hacker inmiddels is afgeleid door onderzoekers en leden van RHG. Zonder een splitsing zou de druk om de hacker te ontmaskeren veel groter zijn geweest en waarschijnlijk veel eerder zijn gebeurd.
 
@@ -498,7 +498,7 @@ Daar komt nog bij dat, ondanks de gaslighting die tot op de dag van vandaag door
 
 ### De dubbele binding
 
-</em> Voor Ethereum™ blijven grote problemen bestaan, ongeacht of code __ of _geen wet is; het zit in een filosofische double bind. Zij kan de cirkel van haar prestaties uit het verleden die in tegenspraak zijn met haar waardevoorstel niet sluiten, en blijft zitten met een bungelende draad die het katje van het lot steeds meer in verleiding brengt naarmate hij langer onaangetrokken blijft.</p> 
+ Voor Ethereum™ blijven grote problemen bestaan, ongeacht of code __ of _geen wet is; het zit in een filosofische double bind. Zij kan de cirkel van haar prestaties uit het verleden die in tegenspraak zijn met haar waardevoorstel niet sluiten, en blijft zitten met een bungelende draad die het katje van het lot steeds meer in verleiding brengt naarmate hij langer onaangetrokken blijft. 
 
 ![Wanneer moeten de aanvragen worden stopgezet?](./code-isnt-law.jpg)
 
