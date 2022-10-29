@@ -1,213 +1,213 @@
 ---
-title: Proof of Work
+title: プルーフオブワーク
 updated: 2022-02-22
 disclaimer: opinion
-seo: An argument for why Proof of Stake is not a suitable solution for blockchains that wish to deliver monumental change, and why Proof of Work is the only known consensus mechanism that can.
+seo: Proof of Stakeが記念碑的な変化をもたらしたいブロックチェーンに適したソリューションではない理由、そしてProof of Workが唯一知られている合意形成メカニズムである理由についての論考です。
 ---
 
-## Key Points
+## キーポイント
 
-- Ethereum Classic is committed to remaining on Proof of Work indefinitely in pursuit of _decentralization maximalism_.
-- Proof of Work is a tried and true consensus mechanism, the only one known to provide _Sovereign Grade Censorship Resistance_.
-- Proof of Stake comes with known security trade-offs, including: additional complexity, 33% attacks, vulnerability to financial manipulation, centralization of staking custody, the APR arms race, nothing at stake, removal of checks and balances, and the rich get richer.
-- Candidly, the decision to use Proof of Stake is likely financially motivated, rather than the given reason of environmental concern.
+- Ethereum Classicは、 _decentralization maximalismを追求するため、Proof of Workを無期限に継続することを約束します_.
+- Proof of Work は、試行錯誤の末に完成したコンセンサスメカニズムで、 _Sovereign Grade Censorship Resistance_を提供することが知られている唯一のものである。
+- Proof of Stakeは、複雑性の増加、33%の攻撃、金融操作への脆弱性、ステーキングカストディの集中化、APR軍拡競争、何も賭けていない、チェック＆バランスの除去、金持ちがより金持ちになる、などセキュリティ上のトレードオフがあることが知られています。
+- 正直なところ、Proof of Stakeの採用は、環境問題という与えられた理由ではなく、金銭的な動機で決定されていると思われます。
 
-## Introduction
+## はじめに
 
-On a technical level, one of the biggest differentiators between Ethereum Classic and its sibling Ethereum™ is ETC's commitment to remain on Proof of Work. Some might assume that this is due to a lack of development, ambition or ability to move to a "more advanced" Proof of Stake system, but this section aims to dispel that myth by explaining the reasoning behind Ethereum Classic's very intentional decision to stay with Proof of Work in the name of decentralization and security.
+技術的な面では、イーサリアムクラシックとその兄弟であるイーサリアム™の最大の差別化要因の1つは、ETCがProof of Workを維持することにコミットしていることである。 これは、「より高度な」Proof of Stakeシステムに移行するための開発、野心、能力の欠如によるものと考える人もいるかもしれませんが、このセクションでは、Ethereum Classicが分散化とセキュリティの名の下にProof of Workに留まることを非常に意図的に決定した理由を説明することで、その神話を払拭しようとするものです。
 
-## The Engine of the Future
+## 未来のエンジン
 
-A blockchain's consensus mechanism is its engine. It is the most critical piece of technological infrastructure, from which all security, value and utility depends on. Like an engine, if it stops working correctly, all other systems that rely on it functioning become useless, or worse, a danger to its users.
+ブロックチェーンのコンセンサスメカニズムはそのエンジンである。 技術的なインフラの中で最も重要なものであり、そこからすべてのセキュリティ、価値、実用性が生まれる。 エンジンと同じで、正しく機能しなくなると、その機能に依存している他のすべてのシステムが役に立たなくなり、最悪の場合、ユーザーに危険を及ぼすことになります。
 
-As with automobile engines, different types of consensus mechanisms are available to blockchain architects when designing a protocol. The choice of which to use reveals much about which attributes in the [Blockchain Trilemma](/why-classic/decentralism#the-blockchain-trilemma) trade-off are considered a priority. As a chain's consensus mechanism is so important, for _Sovereign Grade_ systems, it is the very last thing that should be on the chopping block when it comes to design constraints and security trade-offs.
+自動車エンジンと同様に、ブロックチェーンアーキテクトがプロトコルを設計する際には、さまざまなタイプの合意形成メカニズムが利用可能です。 どちらを使うかによって、 [Blockchain Trilemma](/why-classic/decentralism#the-blockchain-trilemma) のどの属性が優先されると考えられているのかがよくわかります。 チェーンのコンセンサスメカニズムは非常に重要であるため、 _ソブリン・グレードの_ システムでは、設計上の制約やセキュリティのトレードオフに関して、まさに俎上に載せるべきものであると言えます。
 
-The first popular blockchain, Bitcoin, uses Proof of Work; a relatively simple, tried and true consensus mechanism that essentially converts electricity into security. The application of Proof of Work as a consensus mechanism for blockchain execution was the keystone crowning achievement in the genius design of Bitcoin. Its application solved the [Byzantine Generals Problem](https://en.wikipedia.org/wiki/Byzantine_fault) and thus provided a decentralized solution to double spending, a discovery that made blockchain technology as we know it viable.
+最初に普及したブロックチェーンであるビットコインは、Proof of Workという比較的単純で試行錯誤を重ねたコンセンサスメカニズムを用いて、電気をセキュリティに変換しています。 ブロックチェーン実行の合意形成メカニズムとしてProof of Workを適用したことは、ビットコインの天才的な設計における要の頂点に立つ成果であった。 そのアプリケーションは、 [Byzantine Generals Problem](https://en.wikipedia.org/wiki/Byzantine_fault) を解決し、その結果、二重支出に対する分散型ソリューションを提供し、私たちが知るブロックチェーン技術を実現させる発見となったのです。
 
-Proof of Work is both empirically and theoretically secure from an economic game theory perspective, and chains using it have been operating faithfully for over a decade. With enough hashrate, PoW chains have shown to be unstoppable even by powerful nation states. Presently, no party on the planet can conventionally muster the electricity and hardware required to launch a sustained attack against Bitcoin's consensus mechanism, which makes it sovereign.
+Proof of Workは経済ゲーム理論の観点から経験的にも理論的にも安全であり、これを利用したチェーンは10年以上にわたって忠実に運営されています。 十分なハッシュレートがあれば、PoWチェーンは強力な国家によっても止めることができないことが示されています。 現在、ビットコインのコンセンサスメカニズムに対して持続的な攻撃を仕掛けるために必要な電力とハードウェアを、地球上のどの団体も従来通り調達できない。
 
-Proof of Work is not designed to be 100% "perfect", and as with all systems, it has a limited set of guarantees. Most famously, Proof of Work chains are subject to *51% attacks*, which Ethereum Classic has fallen victim to on multiple occasions, but persists nonetheless. In PoW systems, 51% attacks are a feature, not a bug, and accepting them is the trade-off required to allow for objective computer-verifiable rules about which version of a chain should be considered "correct"; whichever has the most hashrate contributed to it, regardless of who contributes that hashrate.
+Proof of Workは100％「完璧」になるように設計されているわけではなく、他のシステムと同様、保証には限りがあります。 最も有名なのは、Proof of Workチェーンが *51%攻撃の対象となることです。*、Ethereum Classicは何度もその被害を受けていますが、それでもなお、根強く残っています。 PoWシステムでは、51%攻撃はバグではなく機能であり、それを受け入れることは、チェーンのどのバージョンが「正しい」とみなされるべきかという客観的なコンピュータ検証可能なルールを可能にするために必要なトレードオフなのです。
 
-The timeless wisdom of _if it ain't broke, don't fix it_ comes to mind, and there must be a seriously important reason to change this state of affairs.
+_If it ain't broke, don't fix it_ という永遠の知恵が頭に浮かびます。この状態を変えるには、何か重大な理由があるはずです。
 
-## Compromised Consensus
+## 妥協したコンセンサス
 
-An alternative consensus mechanism to Proof of Work that became popular is Proof of Stake, which became a "must have feature" for many second generation blockchain projects. Instead of converting electricity into hashrate and security, Proof of Stake has been described as "virtual mining", where stakers lock up capital in return for the ability to create blocks, and claim a block reward by doing so.
+Proof of Workに代わる合意形成メカニズムとして普及したのがProof of Stakeで、多くの第2世代ブロックチェーンプロジェクトで「必須機能」となっている。 Proof of Stakeは、電力をハッシュレートやセキュリティに変換する代わりに、ステーカーがブロックを作成する能力と引き換えに資本をロックし、それによってブロック報酬を請求する「仮想マイニング」と表現されることがある。
 
-The primary justification for PoS is environmentalism; it was hoped that PoS would be able to provide the same or better security guarantees than PoW without consuming large amounts of energy.
+PoSを正当化する最大の理由は環境保護であり、大量のエネルギーを消費することなく、PoWと同等以上のセキュリティ保証を提供できることが期待されたからである。
 
-Straight off the bat, the idea that Proof of Stake could provide not just the same but _better_ security guarantees than Proof of Work, with not just the same but _less_ energy expenditure, should have rung alarm bells for those who understand that _there is no such thing as a free lunch_. But for many this essential truth was able to hand-waved away, as the interdisciplinary convolutions of different Proof of Stake systems created a kind of technological [gish gallop](https://en.wikipedia.org/wiki/Gish_gallop), where fixes upon fixes made PoS protocols increasingly complex and obscure moving targets that became difficult to unpack, and the _free lunch_ myth was smuggled along.
+すぐに、Proof of StakeがProof of Workと同じだけでなく _より優れた_ セキュリティ保証を、同じだけでなく _より少ない_ エネルギー消費で提供できるという考えは、 _無料の昼食などあり得ないことを理解している人々にとって警鐘を鳴らすべきでした_. しかし、多くの人にとって、この本質的な真実は手で振り払えるものでした。異なるProof of Stakeシステムの学際的な錯綜が一種の技術的な [gish gallop](https://en.wikipedia.org/wiki/Gish_gallop)を生み出し、修正に修正を重ね、PoSプロトコルはますます複雑で不明瞭な移動目標となって、解明が難しくなり、 _free lunch_ 神話が密かに持ち込まれたのです。
 
-Nothing epitomizes the subtle and insidious nature of centralization like the myth of Proof of Stake. On the surface, it is a noble attempt to correct the worst aspects of blockchain technology and make it compatible with a sustainable future, but upon closer inspection, this dangerous idea sacrifices the most liberating qualities of the technology in exchange for less than noble objectives.
+プルーフ・オブ・ステーク神話ほど、中央集権化の微妙で陰湿な性質を象徴するものはないだろう。 表面的には、ブロックチェーン技術の悪い面を修正し、持続可能な未来に適合させるという崇高な試みですが、よくよく考えてみると、この危険なアイデアは、崇高ではない目的と引き換えに、技術の最も自由な資質を犠牲にしているのです。
 
-In reality, the popularity of Proof of Stake risks not only squandering time and resources, but if its adoption proceeds unchallenged, Proof of Stake could condemn the future to one that operates on captured systems masquerading as neutral; where developments in the cryptocurrency space contribute not towards human flourishing but to the ever-growing power of an ultra-elite, at the expense of open utility for all.
+現実には、Proof of Stakeの普及は時間と資源を浪費する危険性があるだけでなく、その採用が無批判に進めば、Proof of Stakeは、中立を装った捕捉システムで動く未来を宣告しかねません。暗号通貨分野の発展は、人類の繁栄ではなく、超エリートの力を増大させ、万人にとって開かれた実用性を犠牲にしているのです。
 
-In short, Proof of Work is a sound, battle tested consensus mechanism that correctly prioritizes the delivery of the critical qualities that give rise to a blockchain's utility and value proposition. Proof of Stake, on the other hand, sacrifices these elements in return for prioritizing non-critical secondary ideals, such as reducing carbon emissions, or more truthfully, maximizing returns for large whales.
+つまり、Proof of Workは、ブロックチェーンの有用性と価値提案を生み出す重要な品質の提供に正しい優先順位をつける、健全で実戦的な合意メカニズムなのです。 一方、Proof of Stakeは、これらの要素を犠牲にし、二酸化炭素排出量の削減など、重要ではない二次的な理想を優先させ、より正直に言えば、大型クジラのリターンを最大化させる。
 
-## Security Trade-offs
+## セキュリティトレードオフ
 
-The claim that "Proof of Stake is more secure than Proof of Work", is a "[not even wrong](https://en.wikipedia.org/wiki/Not_even_wrong)" statement, due to the nuance in the definition of "secure", and how to square this off with the plurality of Proof of Stake systems that have their own economic, social and technical trade-offs.
+Proof of StakeはProof of Workよりも安全である」という主張は、「[間違ってもいない](https://en.wikipedia.org/wiki/Not_even_wrong)」発言です。これは、「安全」の定義のニュアンスと、独自の経済的、社会的、技術的トレードオフを持つ複数のProof of Stakeシステムをどう折り合いをつけるかということに起因しています。
 
-A Google spreadsheet cannot be 51% attacked, but does this make it "more secure" than Bitcoin? The answer to this is "it depends on what you mean by _secure_". In the case of Blockchain systems, as [explored](/why-classic/decentralism), it depends on whether a robust, decentralized, permissionless system that can stand the test of time and achieve _Sovereign Grade Censorship Resistance_ is needed. For _this_ kind of security, a Google spreadsheet is far, far _less_ "secure" than Bitcoin, as it can be taken over by a single party, Google, with zero effort.
+Googleのスプレッドシートは51％攻撃されることはないが、だからといってビットコインより「安全」なのだろうか？ この答えは、「 _secure_の意味次第」です。 ブロックチェーンシステムの場合、 [が探求したように、](/why-classic/decentralism)、時の試練に耐えうる堅牢な分散型パーミッションレスシステムが必要なのか、 _Sovereign Grade Censorship Resistance_ を実現できるのかによります。 _この_ のような安全性については、Google スプレッドシートは、労力ゼロで Google という単一の当事者によって乗っ取られる可能性があるため、ビットコインよりもはるかに、はるかに __ 「安全」ではないのです。
 
-In this sense, Proof of Stake is much like a Google spreadsheet. Lack of clarity around security guarantees, and the difficulty in measuring them, makes it impossible for even the highly technical users to see past the marketing claims made by many PoS projects. As a result, the true nature of these systems and their potential failure modes is obfuscated, compared with the explicit, well understood, and less complicated guarantees of Proof of Work systems.
+この意味で、Proof of StakeはGoogleスプレッドシートによく似ています。 セキュリティの保証が明確でなく、またその測定も難しいため、高度な技術を持つユーザーでさえ、多くのPOSプロジェクトが主張するマーケティングを見過ごすことができないのです。 その結果、これらのシステムの本質と潜在的な故障モードは、Proof of Workシステムの明示的でよく理解され、より複雑でない保証と比較して、難解なものとなっています。
 
-As each PoS system has its unique set of flaws, appraising them individually is impractical. Still, some general problems are more or less applicable to all Proof of Stake systems compared to Proof of Work, which will be explored below to demonstrate that chains implicitly make security trade-offs when they decide to use PoS over PoW.
+それぞれのPOSシステムには固有の欠点があるため、個別に評価することは現実的ではありません。 それでも、いくつかの一般的な問題は、Proof of Workと比較して、すべてのProof of Stakeシステムに多かれ少なかれ適用できます。以下では、チェーンがPoWではなくPoSの使用を決定したときに、暗黙的にセキュリティのトレードオフを行うことを実証するために、この問題を検討します。
 
-### Self-Referential Security
+### 自己言及的安全保障
 
-Proof of Work is unique in that it can objectively bridge the gap between the "real world" and the "digital world" using the common language of compute cycles, which, when translated into hashrate, can be verified trustlessly by software. Blockchains that use Proof of Work rely on unforgeable measurements from outside their system to reach consensus about their internal state, converting energy into security in the most direct and efficient way, while offloading the responsibility of generating those measurements to the outside world.
+Proof of Workは、コンピュートサイクルという共通言語を用いて、「現実世界」と「デジタル世界」のギャップを客観的に埋めることができる点に特徴があり、これをハッシュレートに変換すると、ソフトウェアによって信頼性の高い検証を行うことができるのです。 Proof of Workを使用するブロックチェーンは、システム内部の状態についてコンセンサスを得るために、システム外部からの偽造できない測定値に依存しており、最も直接的かつ効率的な方法でエネルギーをセキュリティに変換する一方で、これらの測定値を生成する責任を外部にオフロードしています。
 
-Proof of Work is very much like a combustion engine that consumes energy and converts it into valuable work in the form of security for the chain, incentivizing honest mining and ensuring that 51% attacks are costly.
+Proof of Workは、エネルギーを消費し、それをチェーンのセキュリティという価値ある仕事に変換する燃焼エンジンに非常によく似ており、誠実な採掘を奨励し、51％の攻撃がコストになることを保証しているのです。
 
-![Proof of Work Engine](./engine.jpg)
+![プルーフオブワークエンジン](./engine.jpg)
 
-Instead of sourcing security from outside their system, Proof of Stake blockchains are secured by self-referencing their own state, and, as such, these protocols onboard additional responsibilities, complexity, and attack surface that can compromise how this security is generated.
+Proof of Stakeブロックチェーンは、システム外部からセキュリティを調達する代わりに、自身の状態を自己参照することでセキュリティを確保しています。したがって、これらのプロトコルには、セキュリティを生成する方法を損なう可能性のある責任、複雑性、攻撃対象が追加されています。
 
-This self-referencing of security can be described as a kind of perpetual motion machine that breaks the laws of thermodynamics. On the surface, the veil of complexity may trick observers into assuming it can self sustain for a long period, but in reality, an unnoticed constraint means it is bound to grind to a halt in the not too distant future.
+このようなセキュリティの自己参照は、熱力学の法則を破る一種の永久運動マシンと言えるでしょう。 表面的には、複雑なベールに包まれているため、長期間の自己維持が可能であるかのように思われがちですが、実際には、気付かぬうちに制約を受け、そう遠くない将来に停止してしまうことになるのです。
 
-![Proof of Stake Perpetual Motion Machine](./overbalance.jpg)
+![プルーフ・オブ・ステーク パーペチュアル・モーション・マシン](./overbalance.jpg)
 
-### Complexity and Attack Surface
+### 複雑さとアタックサーフェス
 
-As with all software systems, additional complexity creates a greater attack surface for malicious actors to take advantage of and exploit, with potentially catastrophic results. In the context of blockchains, which are economic as well as software systems, this problem is compounded, and many of the potential exploits that lay dormant in such systems may not appear until a significant economic value is at risk.
+すべてのソフトウェアシステムがそうであるように、複雑さが増すと、悪意のある行為者が利用し、悪用するための攻撃対象が拡大し、壊滅的な結果をもたらす可能性があります。 ブロックチェーンは経済システムであると同時にソフトウェアシステムでもあるため、この問題はさらに深刻であり、このようなシステムに眠っている潜在的な悪用の多くは、重要な経済価値が危険にさらされるまでは現れないかもしれません。
 
-Subtle game theory bugs and exploits in blockchains are extremely difficult, in some cases impossible to identify, test and eliminate before going into production. One major defense is adhering to the sound technical principle of [Keep It Simple, Stupid](https://en.wikipedia.org/wiki/KISS_principle), an approach abandoned by Proof of Stake projects when they reject the simple elegance Proof of Work and embrace more complex and exploitable alternatives that offer little to no pragmatic benefit to the network.
+ブロックチェーンにおけるゲーム理論の微妙なバグや悪用は非常に難しく、場合によっては本番稼動前に特定、テスト、排除することは不可能です。 [](https://en.wikipedia.org/wiki/KISS_principle)このアプローチは、Proof of Stake プロジェクトがシンプルなエレガンスの Proof of Work を拒否し、ネットワークにほとんど実用的な利益をもたらさない、より複雑で悪用可能な代替手段を採用する際に放棄されるものです。
 
-### Unbalance of Power
+### アンバランス・オブ・パワー
 
-As [explored earlier](/why-classic/decentralism/#balancing-power), removing miners from a blockchain's socioeconomic model takes away an important regulating force that would otherwise prevent capture; keeping other parties honest through the threat of vetoing poor decisions by the selective mining of chains. On Proof of Stake chains, investors and "miners" (stakers) are the same group, so any abuse of power by this group remains relatively unchecked, and the chain is likely to tend to fork in ways that benefit this group at the expense of others, such as by increasing staking rewards.
+[が先に探ったように](/why-classic/decentralism/#balancing-power)、ブロックチェーンの社会経済モデルから採掘者を排除すると、そうしなければ捕獲を防げる重要な規制力が奪われます。つまり、チェーンの選択的採掘による誤った意思決定に拒否権を与えるという脅威を通じて、他の当事者を正直にさせておくことができるのです。 Proof of Stakeチェーンでは、投資家と「採掘者」（ステーカー）は同じグループなので、このグループによる権力の乱用は比較的抑制され、チェーンは、ステーキング報酬を増やすなど、他の人を犠牲にしてこのグループに利益をもたらす方法でフォークする傾向があるようです。
 
-### Money isn't Power
+### 金は力じゃない
 
-The ultimate source of security on Proof of Work networks is a combination of electricity and hardware manufacturing distribution. Both of these are distributed geographically, and new providers can emerge organically. For large Proof of Work networks like Bitcoin, the resources required to muster an attack against the network are outside the means of any worldly organization, including nation states, which either do not have enough affordable electricity going spare or cannot secure the hardware required to mount an attack.
+Proof of Workネットワークにおける究極のセキュリティの源泉は、電力とハードウェアの製造流通の組み合わせです。 いずれも地理的に分散しており、新たなプロバイダーが有機的に出現する可能性がある。 ビットコインのような大規模なProof of Workネットワークでは、ネットワークに対する攻撃を行うために必要なリソースは、国民国家を含むあらゆる世界の組織の手には負えません。
 
-This is why the high energy usage of Proof of Work networks is not "wasted". Instead, the high energy usage is what secures the network against attack by making such attacks prohibitively expensive and logistically impractical. Importantly, electricity sources are distributed globally, and unlike financial resources, are not easy to transport and impossible to centralize in a world of competing nation states that lay claim to geographical boundaries.
+このため、Proof of Workネットワークで使用される高いエネルギーは "無駄 "にならないのです。 その代わり、エネルギー使用量が多いので、そのような攻撃には法外なコストがかかり、論理的にも非現実的であるため、攻撃からネットワークを保護することができるのです。 重要なことは、電力源は世界中に分散しており、金融資源とは異なり、輸送が容易ではなく、地理的な境界を主張する国家が競合する世界では一元化が不可能であるということだ。
 
-Proof of Stake chains are vulnerable to a whole suite of economic attacks thanks to modern financial weaponry and the value of the network being directly tied to security through staking. Unlike mining hardware and electricity, capital can be printed out of thin air in fiat systems and resources can be pulled together from all over the globe at the press of a button. The economic levers available to central banks and other organizations that may be threatened by blockchain technology are vast and sophisticated. The value of all Proof of Stake networks combined is a tiny drop compared to the broader economy, which has massive swathes of liquid capital that can be borrowed, leveraged, and put to use by a single company with a chip on its shoulder.
+Proof of Stakeチェーンは、現代の金融兵器と、ステーキングによってネットワークの価値がセキュリティと直接結びついているおかげで、一連の経済的攻撃に対して脆弱です。 マイニングのハードウェアや電気とは異なり、フィアットシステムでは無から資本を印刷することができ、ボタン一つで世界中から資源を集めることができる。 ブロックチェーン技術の脅威にさらされる可能性のある中央銀行やその他の組織が利用できる経済的なレバーは、膨大で洗練されたものです。 Proof of Stakeのネットワークをすべて合わせても、経済全体に比べれば微々たるもので、流動的な資本が大量にあり、それを借りて、活用して、肩の力を抜いた一企業が利用することができる。
 
-Modern financial institutions threatened by blockchain technology are sure to wage economic war against Proof of Stake, who cannot just mess with the price, but by doing so, potentially cause total system failure. Through the creation of derivative markets and price manipulation, attackers are able to buy up voting rights on the network and hinder or destroy the ability to reach consensus through staking attacks.
+ブロックチェーン技術に脅かされる現代の金融機関は、Proof of Stakeに対して経済戦争を仕掛けることは確実で、価格をいじるだけでは済まず、そうすることでシステム全体の破綻を引き起こす可能性もある。 派生市場の創出と価格操作により、攻撃者はネットワーク上の議決権を買い占め、ステーキング攻撃により合意形成の妨げや破壊を行うことができる。
 
-### Miner Attrition vs The Rich Get Richer
+### 鉱山労働者の減少 vs 金持ちはもっと金持ちになる
 
-In Proof of Work systems, beyond ongoing electricity costs, miners must continually upgrade hardware, expending additional resources to remain competitive. The effect of this is that the pool of individuals who can mine profitably is constantly shifting. If a miner is bad at mining, they will eventually lose their ability to earn a living, as they are out-competed by other miners.
+Proof of Workシステムでは、採掘者は継続的な電力コストに加えて、ハードウェアを継続的にアップグレードしなければならず、競争力を維持するために追加的なリソースを費やす必要があります。 そのため、採掘できる人の層は常に変化しています。 採掘が下手な人は、他の採掘者に負けてしまい、いずれ生計を立てられなくなります。
 
-This is good for decentralization, as a constantly shifting pool of miners means that no one miner can hold on to a significant portion of a network for any significant amount of time unless they are actively working in the best interests of the network by providing ever-increasing amounts of hashrate. To achieve this, miners must invest in research and development, infrastructure, and scaling up operations, all the while paying close attention to happenings in the social layer, deciding how to balance power and which forks to mine.
+これは分散化にとって良いことである。というのも、採掘者のプールが常に変化しているということは、一人の採掘者が、増え続けるハッシュレートを提供することによってネットワークの最善の利益のために積極的に働かない限り、ネットワークの大部分を長時間にわたって保持することはできないからである。 そのためには、研究開発、インフラ整備、事業拡大への投資を行うとともに、ソーシャルレイヤーでの動きを注視し、パワーバランスの取り方や採掘するフォークを決定していく必要があります。
 
-This vital and multifaceted role is lobotomized from Proof of Stake systems. Instead, replacing this constant struggle with the relatively static distribution of how much stake a given staker has access to, with very little to be gained by investing in innovation or other externalities. How much a staker profits or losses is entirely within their control and by doing nothing they can continuously increase their stack with no risk of being out-competed.
+この重要かつ多面的な役割は、Proof of Stakeシステムからロボトミー化されています。 その代わり、この絶え間ない闘争を、あるステークホルダーがどれだけのステークを利用できるかという比較的静的な分布に置き換えることで、イノベーションや他の外部性への投資によって得られるものはほとんどない。 ステイカーがどれだけ利益を得るか、あるいは損失を出すかは、すべて彼らのコントロール下にあり、何もしなければ、競争に負けるリスクもなく、継続的にスタックを増やすことができます。
 
-On top of this, due to economies of scale, gas fees, and the proportion of funds that must be staked compared to the funds that must for day to day living costs, in Proof of Stake systems, _the rich get richer_ at a _faster rate_, which centralizes the distribution of a network's value towards the richest stakers over time.
+その上、規模の経済、ガス料金、および日々の生活費に必要な資金と比較して賭けなければならない資金の割合により、Proof of Stakeシステムでは、 _the rich get richer_ at a _fast rate_、ネットワークの価値の分配を時間の経過と共に最も裕福な賭け者に集中させることになるのです。
 
-With no attrition to correct this trend, lack of turnover in the staking ecosystem means that a power-block of mega-whales accumulates an ever-increasing portion of all Proof of Stake networks, making them increasingly susceptible to takeover as the Nakamoto coefficient approaches 0. There is no reason that rent-seeking Proof of Stake staking dynasties don't continue for generations, as big stakers pass their increasingly large bags to the next generation, making it just a matter of time before Proof of Stake networks are explicitly captured as the value in the network and the power to decide winning forks is drawn to the top.
+この傾向を修正するための人員削減が行われず、ステーキングエコシステムに回転がないため、メガホエールのパワーブロックがすべてのProof of Stakeネットワークでますます多くの部分を蓄積し、Nakamoto係数が0に近づくとますます買収されやすくなります。 レントシーキングを行うProof of Stakeのステーキング王朝が何世代にもわたって続かない理由はありません。大きなステーカーは、ますます大きくなるバッグを次の世代に渡すため、Proof of Stakeネットワークにおける価値と勝利フォークの決定権がトップに引き寄せられ、明示的に捕捉されるのは時間の問題でしょう。
 
-### Not Permissionless
+### パーミッションレスではない
 
-Permissionlessness, unsurprisingly, is a property that allows new users to onboard into a system without the permission of someone already in said system. All other things being equal, permissionless systems can be more decentralized over time than permissioned systems, as they are indiscriminately open to new participants.
+パーミッションレスとは、当然のことながら、あるシステム内に既にいる人の許可を得ずに、新しいユーザーがそのシステムに乗り込むことができる性質のことである。 他のすべての条件が同じであれば、パーミッションレスシステムは新しい参加者に無差別に開かれているため、パーミッションドシステムよりも時間の経過とともに分散化される可能性があります。
 
-Mining, and in turn, Proof of Work, is permissionless, as anyone (or anything) can contribute hashrate to the network and have an equal chance of being able to mine a block based on the hashrate they contribute. Each hash is like a lottery ticket, and the more tickets purchased the higher the chance of finding a block and getting that sweet, sweet block reward.
+マイニング、ひいてはProof of Workはパーミッションレスであり、誰でも（あるいは何でも）ネットワークにハッシュレートを提供でき、提供したハッシュレートに基づいてブロックをマイニングできるチャンスも等しくあります。 ハッシュは宝くじのようなもので、たくさん購入すればするほど、ブロックが見つかる確率が上がり、甘い甘いブロック報酬を手に入れることができるのです。
 
-Because there are no gatekeepers, Proof of Work consensus mechanisms _can't_ care _how_ hashrate is created, or _who_ contributed. This is an essential quality if a chain is to remain neutral and uncaptured because if gatekeepers did exist, they would be able to reject work based on a contributor's identity or location, locking them out, and by doing so, centralizing, and capturing the network.
+</em> ゲートキーパーが存在しないため、Proof of Workのコンセンサスメカニズム _は、_ _ハッシュレートがどのように作成されるか、または __ 誰が貢献したかを気にすることはできません。 なぜなら、もしゲートキーパーが存在すれば、投稿者の身元や所在地に基づいて作品を拒否することができ、投稿者を締め出し、そうすることによってネットワークを集中化し、捕獲してしまうからです。</p>
 
-Proof of Stake systems are _not_ permissionless. The only way to acquire currency needed to transact and stake is by _buying_ it from someone who already has said currency; they need _permission_ from someone inside the network to use the network, with existing holders being the gatekeepers.
+Proof of Stakeシステムは、 __ パーミッションレスではありません。 </em> 取引や出資に必要な通貨を入手するには、すでにその通貨を持っている人から __ 買うしかない。ネットワークを利用するには、ネットワーク内部の誰かから _許可を得る必要があり、既存の保有者がゲートキーパーとなるのである。</p>
 
-In a sense, all Proof of Stake networks are already _soft captured_, as holders of PoS coins could collectively decide (or be coerced) to stop trading with users from some particular class or jurisdiction, and these users have no way to make transactions on the network regardless of the price they are willing to pay.
+ある意味で、すべてのProof of Stakeネットワークはすでに _ソフトキャプチャ_、PoSコインの保有者が集団で、ある特定のクラスや管轄区域のユーザーとの取引を停止することを決定（または強制）することができ、これらのユーザーは、彼らが支払うことを望む価格にかかわらず、ネットワーク上で取引を行う方法がないのである。
 
-Take the example of a person from a less developed or isolated nation with little to no ability to transact in dollars; without access to the banking system, and thus onboarding through exchanges, and with nobody willing to do an OTC deal in cash in their area, they can always acquire Proof of Work currencies by simply purchasing some hardware to mine it. This same user is locked out of Proof of Stake blockchains, making those networks less accessible, less useful, and less valuable.
+銀行システムを利用できず、取引所を通じたオンボード取引もできず、その地域で現金による店頭取引に応じる人もいない場合、マイニング用のハードウェアを購入するだけで、いつでもProof of Work通貨を入手できます。 この同じユーザーがProof of Stakeブロックチェーンから締め出され、それらのネットワークがアクセスしにくくなり、有用性が低下し、価値が低下します。
 
-### Centralization of Staking on Exchanges
+### 取引所におけるステーキングの一元化
 
-The high technical barrier and _fear of messing up_ when running a node and manually staking makes it out of reach for the vast majority of casual holders in the crypto space, so almost all are likely to use third party services, usually exchanges, to stake.
+_ノードを運営し、手動でステーキングを行う場合、高い技術的障壁と_ を台無しにする恐れがあるため、暗号空間のカジュアルホルダーの大多数には手が届かず、ほぼ全員がサードパーティサービス（通常は取引所）を使用してステーキングを行っていると思われます。
 
-Staking on exchanges is strictly better from a user experience perspective. It has the additional benefit of allowing users to instantly unstake funds with no penalty, as a large excess liquidity enables exchanges to arbitrage the lock-up period that most Proof of Stake chains impose, on behalf of users.
+取引所でのステーキングは、ユーザーエクスペリエンスの観点からも厳密には優れています。 また、流動性が高いため、多くのProof of Stakeチェーンで課されるロックアップ期間を取引所がユーザーに代わって裁定できるため、ユーザーはペナルティなしで即座にアンステークできるメリットもあります。
 
-The result is that for most Proof of Stake blockchains, exchanges will, and probably already do, handle the vast majority of a staking activity. This seriously undermines the illusion of decentralization on these projects and makes the capture of the chain far more likely.
+その結果、ほとんどのProof of Stakeブロックチェーンでは、取引所がステーキング活動の大部分を処理することになりますし、おそらくすでにそうなっていると思われます。 これは、これらのプロジェクトにおける分権化の幻想を著しく損ない、チェーンの捕捉の可能性をはるかに高くする。
 
-To illustrate, consider the following plausible scenario:
+その例として、次のようなシナリオを考えてみましょう。
 
-If an "undesirable" application is operating on a large Proof of Stake chain, a government or powerful multinational organization could compel all exchanges under their authority to simultaneously freeze the funds of that chain. Assuming they hold a certain threshold of staked assets between them, this portion of the stake could be used to either halt the network or force through future hard forks, holding the chain to ransom and censoring whichever applications they desire.
+望ましくない」アプリケーションが大規模なProof of Stakeチェーンで動作している場合、政府や強力な多国籍組織は、その権限下にあるすべての取引所に対して、そのチェーンの資金を同時に凍結するように強制することができます。 彼らがある一定のステーク資産を保有していると仮定すると、このステーク部分はネットワークを停止させるか、将来のハードフォークを強行するために使用することができ、チェーンを身代金として保持し、彼らが望むどのアプリケーションも検閲することができるのです。
 
-In Proof of Work, this kind of attack is impossible thanks to the separation of concerns and the geographically decentralized nature of electricity sources.
+Proof of Workでは、利害関係の分離と電源の地理的分散化により、この種の攻撃は不可能である。
 
-### The APR Arms Race
+### APRの軍拡競争
 
-Proof of Stake chains compete with each other for liquid staking capital that, unlike mining hardware that is bound to specific algorithms, can freely move between _all_ PoS chains by trading in open markets. This means that over time, all Proof of Stake chains will be under pressure to increase staking rewards, and in turn inflation rates, to entice enough stakers to stake on their chain. As a result, a "race to the bottom" is likely to engulf all Proof of Stake chains, as they enter into an ever-increasing _APR arms race_.
+Proof of Stakeチェーンは、特定のアルゴリズムに縛られたマイニングハードウェアとは異なり、オープンマーケットでの取引により、 _全_ PoSチェーン間で自由に移動できる流動的なステーキング資金をめぐって互いに競い合います。 つまり、時間が経つにつれて、すべてのProof of Stakeチェーンは、十分なステークホルダーを誘致するためにステーク報酬、ひいてはインフレ率を増加させる必要に迫られることになるのです。 その結果、「底辺への競争」がステイクチェーンのすべてのプルーフを巻き込み、ますます増大する _APR軍拡競争に突入する可能性が高い_。
 
-For example, if Chain A offers a 12% staking reward, why would stakers stake Chain B's 3% reward, when they could simply stake A and sell those rewards for B, ending up with more B than they would by staking B directly? This forces chain B to increase their reward, which then encourages A to do the same, and so on.
+例えば、チェーンAが12%のステーク報酬を提供している場合、チェーンBの3%の報酬をステークするのはなぜでしょうか。チェーンAをステークし、その報酬をBに売却すれば、Bを直接ステークするよりも多くのBを手に入れることができるのに。 そうすると、Bチェーンは報酬を上げざるを得なくなり、Aチェーンも同じように報酬を上げるようになる、というように。
 
-This situation is great news for large stakers, but terrible for users who have a relatively larger portion of their funds not staked to use the network, and will be taxed exorbitant fees for simply not staking. How this plays out in the long run is unknowable, but it risks damaging the utility and value of all PoS networks, leading to a death spiral of ever-increasing debasement.
+この状況は、大口ステイカーにとっては朗報だが、ネットワークを利用するために資金の比較的大きな部分をステイクしていないユーザーにとっては最悪で、ステイクしていないだけで法外な手数料を課税されることになるのである。 長期的にどうなるかはわからないが、すべてのPOSネットワークの実用性と価値が損なわれ、ますます劣化していくというデススパイラルに陥る危険性がある。
 
-### 33% Attacks
+### 33％攻撃
 
-Proof of Stake chains can be permanently disrupted if an attacker acquires 33% of staked assets, necessarily less than 33% of all coins.
+Proof of Stakeのチェーンは、攻撃者がステイクした資産の33%（必ずしも全コインの33%未満）を取得すると、永久に破壊される可能性があります。
 
-> So if the average PoS protocol has 70%+ of it’s tokens staked, you’d need to acquire ~25% of the protocol’s total outstanding tokens to launch an attack. Although every PoS is different, 33% is generally only enough to halt the chain so it can’t come to consensus and produce new blocks, not to actually perform a double spend. For that you’d need a whopping 66%.
+> つまり、平均的なPoSプロトコルが70%以上のトークンをステークしている場合、攻撃を仕掛けるにはプロトコル全体の発行済トークンの25%を取得する必要があります。 PoSはそれぞれ異なるが、一般的に33%はチェーンを停止させ、コンセンサスを得て新しいブロックを生成することができなくなる程度であり、実際に二重消費を行うことはできない。 そのためには、なんと66％も必要なのです。
 > 
-> - [Viktor Bunin](https://viktorbunin.medium.com/proof-of-stakes-security-model-is-being-dramatically-misunderstood-4ed7b19ca419)
+> - [ヴィクトール・ブーニン](https://viktorbunin.medium.com/proof-of-stakes-security-model-is-being-dramatically-misunderstood-4ed7b19ca419)
 
-Some argue that there is no _direct_ economic incentive to cause such an attack because the attacker risks devaluing their holdings, which may be true, but this is also an admission that Proof of Stake chains are susceptible to 33% halting via _indirect_ economic incentives such as shorting. More importantly, PoS chains are susceptible to 33% attacks from actors such as nation states, where financial incentives are not the primary motivation, suggesting that _Sovereign Grade Censorship Resistance_ is not an object of concern.
+_攻撃者は保有株を切り下げるリスクがあるため、このような攻撃を引き起こす直接的な_ 経済的インセンティブはないと主張する人もいます。これは事実かもしれませんが、これはProof of Stakeチェーンが、空売りなどの _間接的_ 経済的インセンティブによって33%停止する可能性があることも認めていることになります。 さらに重要なことは、PoSチェーンは、金銭的インセンティブが主要な動機ではない、国民国家のようなアクターからの33％の攻撃を受けやすいということで、 _Sovereign Grade Censorship Resistance_ は懸念の対象ではないことが示唆されます。
 
-### Perpetually Pure Pwnage
+### 永続的なピュアプーンエイジ
 
-Proof of Stake's _33% attack_ is a much bigger problem than Proof of Work's _51% attack_, the latter of which is not permanent as it has an ongoing external electricity cost, making them impractically expensive to perform for sustained periods. Moreover, because 51% attacks have an up front cost and are, unlike 33% attacks, not guaranteed to be successful, there is diminished incentive to perform them, let alone front the cost of persisting them.
+Proof of Stake の _33% 攻撃_ は、Proof of Work の _51% 攻撃_よりもはるかに大きな問題です。後者は継続的に外部電力コストがかかるため、持続的に実行するには非現実的なコストとなります。 また、51%攻撃は33%攻撃と異なり、成功が保証されていないため、攻撃するインセンティブが低下し、ましてや攻撃を継続するためのコストがかかる。
 
-While 51% attacks in Proof of Work systems can be damaging, they only really directly affect those who are exposed to double spends; mostly exchanges, and not long term holders who do not transact frequently. In contrast, 33% attacks can halt the chain in perpetuity on PoS networks.
+Proof of Workシステムにおける51％攻撃は有害ですが、実際に直接影響を与えるのは二重消費を受ける人たちだけです。ほとんどは取引所で、頻繁に取引しない長期保有者ではありません。 一方、PoSネットワークでは、33％攻撃によりチェーンを永続的に停止させることができます。
 
-On PoS chains, once an attacker achieves a certain threshold of stake, the chain can never recover; as the attacker does not need to commit external resources, they cannot be unseated. The only solution to this failure state is hard-forking away the attacker, which breaks _Code is Law_, defeats the purpose of having a blockchain, adds subjectivity, and further centralizes the chain.
+PoSチェーンでは、攻撃者がある閾値のステークを達成すると、チェーンは回復できない。攻撃者は外部リソースをコミットする必要がないため、攻撃者を失脚させることはできない。 この失敗状態に対する唯一の解決策は、攻撃者を排除するハードフォークですが、これは _Code is Law_を破り、ブロックチェーンを持つ目的を破り、主観を加え、さらにチェーンを集中化させます。
 
 ### Nothing at Stake
 
-In Proof of Work, if a fork occurs, miners have to decide which side of a fork to mine as there is an external electricity cost associated with the creation of blocks. If miners mine the "wrong" fork, their reward will become valueless, and they will have wasted the electricity spent mining it, so they must choose what to mine wisely; there is the _cost of electricity_ at stake.
+Proof of Workでは、フォークが発生した場合、ブロックの生成に伴う電力コストが外部に発生するため、マイナーはフォークのどちらを採掘するかを決定しなければならない。 </em> 採掘者が「間違った」フォークを採掘すると、その報酬は無価値となり、採掘に費やした電力も無駄になるので、採掘するものを賢く選択しなければならない。そこには、電力コスト（ _）がかかっているのである。</p>
 
-In contrast, on Proof of Stake, if a fork happens, the staked resources, being part of the system's internal state, are split across the fork and are doubled. Stakers have equal assets on both sides of a fork and are incentivized to validate both sides, as they are unsure which side will prevail. This is known as the [nothing at stake problem](https://medium.com/coinmonks/understanding-proof-of-stake-the-nothing-at-stake-theory-1f0d71bc027). It is likely to encourage forks by making it cheaper and less risky to perform fork, making it easier to attack chains through fork-based shenanigans, and complicating reaching consensus about which side of a split is the "true" version.
+一方、Proof of Stakeでは、フォークが起きると、システム内部の状態の一部であるステークされたリソースはフォークをまたいで分割され、2倍になる。 ステーカーはフォークの両側で同等の資産を持ち、どちらが勝つかわからないため、両側を検証するインセンティブがある。 これは、 [nothing at stake problem](https://medium.com/coinmonks/understanding-proof-of-stake-the-nothing-at-stake-theory-1f0d71bc027)として知られています。 フォークを行うことをより安価で低リスクにし、フォークに基づく悪ふざけでチェーンを攻撃することを容易にし、分割のどちらが「真の」バージョンであるかについてのコンセンサスを得ることを複雑にすることによって、フォークを奨励する可能性があります。
 
-It is commonly claimed that the concept of _slashing_ is a solution to the nothing at stake problem, a technique that uses cryptographic proofs to punish stakers that validate the "wrong" side of a split. This is all well and good but slashing only works when forks are running protocols that can validate each other's proofs.
+_スラッシング_ のコンセプトは、Nothing at stake問題の解決策であると一般に主張されている。これは、スプリットの「間違った」側を検証するステーカーを罰するために暗号的証明を使用する手法である。 これはとても良いことですが、スラッシングが機能するのは、フォークが互いの証明を検証できるプロトコルを実行している場合のみです。
 
-An attacker could push for a controversial hard fork that intentionally made the fork's slashing proof invalid on the old version of the chain, optionally making reverse untrue, and re-introducing the nothing at stake problem while encouraging validators to validate both chains, sowing chaos and splitting the value of the network.
+攻撃者は、意図的にフォークのスラッシング証明を旧バージョンのチェーンでは無効とし、オプションで逆を真偽不明とし、検証者が両方のチェーンを検証するよう促しながらNothing at stake問題を再導入し、混沌をまき散らしネットワークの価値を分裂させる、物議を醸すハードフォークを推し進めることができます。
 
-Unlike a malicious Proof of Work fork where miners would waste electricity mining the new fork, validators on this new Proof of Stake fork not only might as well validate it, as there is nothing at stake, but are incentivized to do so as it could well end up being the winning chain - the only side that has value in the future.
+悪意のあるProof of Workフォークとは異なり、採掘者は新しいフォークを採掘するために電力を浪費します。この新しいProof of Stakeフォークの検証者は、何も問題がないため検証した方がよいだけでなく、将来的に勝利のチェーン、つまり価値を持つ唯一の側になる可能性があるため、そうするインセンティブが与えられています。
 
-### Disrupted Dispute Resolution
+### 紛争解決の混乱
 
-Alternatively, assuming that both sides of a split _do_ recognize each other's slashing proofs, the chain then has a different problem: the resolution of legitimate differences in opinion that would result in chain split on Proof of Work networks.
+あるいは、分割された _の両側が_ 互いの切断証明を認識すると仮定すると、チェーンは別の問題を抱えることになる。それは、Proof of Work ネットワークでチェーンの分割を引き起こすであろう、正当な意見の相違を解決することである。
 
-Ethereum Classic itself is an excellent example of the "ultimate dispute resolution mechanism" of Proof of Work chains, as explained no better than on the [Ethereum.org website](https://ethereum.org/en/governance/#dao-fork).
+Ethereum Classic 自体は、Proof of Work チェーンの「究極の紛争解決メカニズム」の優れた例であり、 [Ethereum.org のウェブサイト](https://ethereum.org/en/governance/#dao-fork)で説明されている通りである。
 
-While heavily dependent on implementation details of the protocol, in general, Proof of Stake changes the dynamic of hard forking in favor of the majority stakers over the underdogs, and in many cases simply destroys the underdog chain, forcing them to hard fork to a new protocol if they disagree with a controversial fork.
+プロトコルの実装の詳細に大きく依存しますが、一般的に、Proof of Stakeはハードフォークのダイナミクスを、劣勢なチェーンよりも多数派のステーカーに有利になるように変更し、多くの場合、単に劣勢なチェーンを破壊して、議論を呼ぶフォークに反対する場合は新しいプロトコルへのハードフォークを余儀なくさせます。
 
-Unlike in Proof of Work, where the classic chain enjoys the advantage of maintaining the status quo and miners having to actively make a switch to a new fork, on Proof of Stake chains, the majority of forkers have the advantage, as the legacy side of a controversial fork has to implement their own defensive hard forks to avoid being slashed by the majority. New forks enjoy the option of either slashing or not-slashing validators on the old chain, optimizing the punishment of laggards to get their desired outcome, and manipulating the economics of a hard fork decision.
+Proof of Workでは、クラシックチェーンは現状維持の優位性を享受し、マイナーは積極的に新しいフォークに切り替えなければなりませんが、Proof of Stakeチェーンでは、議論を呼んだフォークのレガシー側は多数派に斬られないために独自の防御的ハードフォークを実装しなければならないため、大多数のフォークが優位性を持ちます。 新しいフォークは、古いチェーンのバリデーターを斬るか斬らないかのオプションを楽しみ、自分たちの望む結果を得るために遅れをとった者への罰を最適化し、ハードフォークの決定の経済性を操作するのである。
 
-_Note: The following three Proof of Stake criticisms are courtesy of [etherplan.com](https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/)_
+_注：以下の3つのProof of Stake批判は、 [etherplan.com](https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/)の提供によるものです。_
 
-### Subjective fork choice
+### 主観的なフォーク選択
 
-The fork choice is the decision rule network participants have to use when presented with more than one chain when it splits, when they join for the first time, or when they leave and join again. As an external physical signal, PoW enables a clear objective fork choice in the form of the “longest proof of work chain“. It is objective because only with the computing power of the whole network is that the longest chain can be established.
+フォーク選択とは、ネットワーク参加者が、分岐するとき、初めて参加するとき、一度離れて再び参加するときに、複数のチェーンが提示された場合の判断ルールである。 外部物理信号であるPoWは、「最長のプルーフ・オブ・ワーク・チェーン」という形で、明確な客観的フォーク選択を可能にします。 ネットワーク全体の演算能力があればこそ、最長の連鎖を構築することができるため、客観的なのです。
 
-As PoS systems don’t count with such an objective quantity to decide the correct chain, they have to use a subjective decision-making process by the participants. This means they need to consult off chain with block explorers, developers, miners or other sources to be able to decide what chain to follow. This applies, in case of splits, to participating nodes in the network, new entrants, and nodes who leave and join again.
+PoSシステムでは、このような客観的な量でカウントして正しいチェーンを決めるわけではないので、参加者の主観的な判断で判断する必要があるのです。 つまり、ブロック探索者、開発者、採掘者、その他の情報源とオフチェーンで相談し、どのチェーンをたどるかを決定する必要があるのです。 これは、分割の場合、ネットワークに参加しているノード、新規参入者、一度離脱して再び参加するノードに適用されます。
 
-### Unforgible Costliness
+### 許しがたいコスト意識
 
-One of the basic physical features of sound money is that it is very costly to produce to guarantee it can’t be forged. PoW provides this costliness of the tokens as miners incur in huge costs, in data centers and electricity, to be able to build blocks. This makes PoW tokens, as $ETC and $BTC, unforgeable in practice.
+健全な貨幣の基本的な物理的特徴の一つは、偽造されないことを保証するために製造コストが非常に高いことである。 PoWでは、採掘者がブロックを構築するために、データセンターや電力など膨大なコストがかかるため、トークンにコストがかかるのです。 このため、PoWトークンは、 $ETC や $BTCのように、実際には偽造できないものとなっています。
 
-It is simple to objectively verify that a holder's BTC or ETC is not counterfeit because of an external objective measurement embedded into every block header, but this proof does not exist in Proof of Stake systems. In PoS systems, because the database with accounts and balances is trivial to write by nodes and stakers in the system, there is no objective costliness, and verifying the authenticity holdings is far more complex, error-prone, and potentially requires expensive hardware.
+保有者のBTCやETCが偽造でないことを客観的に検証するのは、すべてのブロックヘッダに埋め込まれた外部の客観的な測定値によって簡単にできますが、Proof of Stakeシステムにはこの証明が存在しません。 PoSシステムでは、アカウントと残高を持つデータベースは、システム内のノードとステイカーによって些細に書き込まれるため、客観的なコスト性がなく、真正性保持の検証ははるかに複雑でエラーが発生しやすく、潜在的に高価なハードウェアを必要とします。
 
-### Accumulated Work
+### 蓄積された仕事
 
-As miners in PoW blockchains work on a block by block basis, that work is not only a barrier for dishonest nodes to tamper with the current or latest blocks, but that work actually accumulates as the chain is built. This means blocks that are buried further away in the chain become exponentially more difficult for attackers to change or forge. For example, at the time of this writing, it would take 340 days with 100% of the current hashing power in the Bitcoin network to be able to reverse the entire chain.
+PoWブロックチェーンの採掘者はブロックごとに作業を行うため、その作業は不正なノードが現在または最新のブロックを改ざんする際の障壁となるだけでなく、実際にチェーンが構築されるにつれてその作業が蓄積されます。 つまり、チェーンの遠くに埋まっているブロックは、攻撃者が変更したり偽造したりするのが指数関数的に難しくなるのです。 例えば、この記事を書いている時点では、ビットコインネットワークの現在のハッシュパワーを100％使って、チェーン全体をリバースできるようになるには340日かかると言われています。
 
-In PoS distributed ledgers, because they don’t use PoW, to reverse the entire chain is trivial in terms of computational work, so it can be done in a few minutes.
+PoS分散台帳では、PoWを使わないので、チェーン全体をリバースするのは計算量的に些細なことなので、数分でできてしまうのです。
 
-## Hotel Towels
+## ホテルタオル
 
-Even if the environmentalist argument for Proof of Stake is taken at face value, it is clear that PoS requires chains to sacrifice many security guarantees otherwise provided by Proof of Work. Proof of Stake chains trade away censorship resistance in return for the promise of less energy consumption. Aside from marketing gimmicks, this trade-off seems to make little sense when pragmatically evaluating the responsibility and utility of blockchains compared to other available technologies. There is no free lunch, after all.
+Proof of Stakeの環境保護主義的な主張を額面通りに受け止めても、PoSはチェーンにProof of Workが提供する多くのセキュリティ保証を犠牲にすることを要求していることは明らかである。 Proof of Stakeチェーンは、消費電力の削減を約束する代わりに、検閲への耐性をトレードオフしています。 マーケティング上の仕掛けは別として、他の利用可能な技術と比較してブロックチェーンの責任と有用性を現実的に評価する場合、このトレードオフはほとんど意味をなさないように思われます。 やはり、フリーランチはないのです。
 
-But when the environmentalist claim is _not_ taken at face value, the choice to use Proof of Stake starts to make sense. Much like a hotel that requests that guests reuse towels to "save the planet", the PoS environmentalist position is conveniently one that also happens to enrich the holders of said currencies, who can generate passive income by staking. In their eyes, staking allows them to reap the rewards of providing the very same service that miners would otherwise provide; "virtual mining" with next to no expense other than the opportunity cost of locking up stake.
+しかし、環境保護主義者の主張が _ではなく、_ 額面通りに受け取られたとき、Proof of Stake を使うという選択が意味を持ち始める。 ホテルが「地球を救う」ために宿泊客にタオルの再利用をお願いするように、PoS環境保護主義者の立場は、ステーキングによって受動的収入を得ることができる当該通貨の保有者をも豊かにする便利なものであると言えます。 彼らの目には、ステーキングによって、採掘者が提供するのと全く同じサービス、すなわち「仮想マイニング」を、ステークのロックという機会費用以外にはほとんど費用をかけずに提供することができると映っているのです。
 
-Well-intentioned or otherwise, this massive economic incentive explains why despite the security downgrades explored above, it is no wonder that PoS became such a popular choice among cryptocurrency holders and has managed to recruit many avid promoters.
+意図的であろうとなかろうと、この大きな経済的インセンティブは、上記のようなセキュリティの低下にもかかわらず、PoSが暗号通貨保有者の間で人気となり、多くの熱心な推進者を集めることができた理由を説明するものである。
 
-> Proof of Stake is like the hotel asking you to reuse towels to save the planet. On the surface it's for noble intentions, but in reality it's making them money and giving you a worse service.
+> ステイクの証明は、ホテルが地球を救うためにタオルの再利用をお願いするようなものです。 表面上は崇高な目的のためですが、実際は彼らが儲けて、あなたに悪いサービスを提供しているのです。
 
-For all the known downsides, the projects that nevertheless opt for Proof of Stake must either be _extremely_ concerned about energy usage, or possibly more believably, are primarily concerned that staking will economically benefit stakers. However, this concern itself is misguided, as a project can only have long term value if it provides utility, which is undermined by the centralization and trade-offs necessitated by Proof of Stake.
+デメリットがあるにもかかわらず、Proof of Stakeを採用するプロジェクトは、 _極めて_ エネルギー使用量を気にしているか、おそらくより信憑性が高く、ステーキングが経済的にステーカーに利益をもたらすことを第一に考えているかのいずれかであるに違いありません。 しかし、この懸念自体が見当違いである。プロジェクトは有用性を提供してこそ長期的な価値を持つのであり、Proof of Stakeが必要とする集中化とトレードオフによって、その価値が損なわれてしまうからである。
 
-It may be that holders of such coins believe they are providing a comparable service to mining, but they are not converting an external real world expense into a security benefit, as with mining. Instead, they are _shuffling deck chairs on the Titanic_ by redistributing value from elsewhere in the network to themselves by taxing non-stakers through inflation.
+このようなコインの保有者は、マイニングと同等のサービスを提供していると考えているのかもしれないが、マイニングのように外部の現実世界の出費をセキュリティ上のメリットに変換しているわけではないのである。 その代わり、彼らは _タイタニック号のデッキチェアを入れ替えている。_ 、インフレによって非ステーカーに課税することで、ネットワークの他の場所から自分たちに価値を再分配しているのである。
 
-In any case, because of the inherent trade-offs required in Proof of Stake systems, it is yet another sign that _Sovereign Grade Censorship Resistance_ is not a priority on these chains. As such, they cannot be recommended for deployments that have the potential to disrupt powerful institutions.
+いずれにせよ、Proof of Stakeシステムに求められる固有のトレードオフのため、 _Sovereign Grade Censorship Resistance_ がこれらのチェーンで優先されていないことのもう一つの証左と言えます。 そのため、強力な組織を破壊する可能性のある展開には推奨できない。
