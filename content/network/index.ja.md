@@ -1,11 +1,11 @@
 ---
-title: Network Tools
-seo: A selection of tools and resources for inspecting and interacting with the Ethereum Classic network. RPC Endpoints, Blockchain Explorers, and Network Monitors.
+title: ネットワークツール
+seo: Ethereum Classic ネットワークを検査し、相互作用するためのツールとリソースのセレクションです。 RPCエンドポイント、ブロックチェーンエクスプローラー、ネットワークモニター。
 updated: 2022-02-22
 ---
 
-This section contains a selection of tools and resources for inspecting and interacting with the Ethereum Classic network.
+このセクションでは、Ethereum Classic ネットワークを検査し、相互作用するためのツールやリソースを紹介します。
 
-Ethereum Classic mainnet is an Ethereum Virtual Proof of Work blockchain, using the ETCHash algorithm (a modification of ETHash), with a Chain ID of 61.
+Ethereum Classic mainnetはEthereum Virtual Proof of Workのブロックチェーンで、ETCHashアルゴリズム（ETHashの改良版）を使用しており、チェーンIDは61です。
 
-If you are looking to run your an [ETC Client](/development/clients), you can find more information in the [Development](/development) section.
+[ETCクライアント](/development/clients)を実行する場合は、 [開発](/development) のセクションに詳細が記載されています。
