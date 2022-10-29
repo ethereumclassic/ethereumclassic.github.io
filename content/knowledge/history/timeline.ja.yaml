@@ -1,0 +1,305 @@
+title: イベントタイムライン
+items:
+  frontierRelease:
+    title: イーサリアムの販売開始
+    text: Vitalik ButerinとThe Ethereum Foundationは、Frontierのリリースにより、初のブロックチェーンベースのチューリング完全なスマートコントラクトプラットフォームを作成します。
+  frontierThawingUpgrade:
+    title: フロンティア 解凍アップグレード
+    text: このネットワークは、ブロック200,000で「氷河期」を迎え、ネットワークの合意形成メカニズムをProof-of-WorkからProof-of-Stakeに移行するために設計されたメカニズム、Difficulty Bombを導入している。
+  homesteadUpgrade:
+    title: ホームステッドアップグレード
+    text: ホームステッドは、イーサリアムプラットフォームの2番目のメジャーバージョンリリースです。
+  slockItCreatesThe Dao:
+    title: Slock.itはDAOを作成する
+    text: Slock.itがThe DAO Ethereum Contractを構築し、Dejavuによってセキュリティ監査が完了する。
+  the DaoCrowdsaleBegins:
+    title: DAOクラウドセール開始
+    text: DAOスマートコントラクトが展開され、一般市民はDAOトークンと引き換えに価値を送ります。
+  securityProposal:
+    title: セキュリティ提案
+    text: Slock.itは、「The DAOの完全性を保証するため」に、クラウドファンドからEtherで支払われる150万米ドルの提案を発表しました。
+  moratoriumCalled:
+    title: モラトリアムの呼びかけ
+    text: クラウドセール最終日、DAOのキュレーターであるVlad Zamfirは、ゲーム理論上のセキュリティ問題が多いとして、The DAOのモラトリアムを呼びかけました。
+  the DaoCrowdsaleEnds:
+    title: DAOクラウドセール終了のお知らせ
+    text: このクラウドセールは世界最大規模となり、1億5千万ドルという驚異的な金額を調達することに成功しました。
+  recursiveCallBugDiscovered:
+    title: 再帰呼び出しのバグが発見される
+    text: Peter Vessenes は、多くの Solidity 契約で見過ごされている重大なセキュリティ脆弱性の存在を公にしました。
+  noFundsAtRisk:
+    title: ノー・ファンズ・アット・リスク
+    text: Stephan Tualは、新たに発見された重大なセキュリティ欠陥にもかかわらず、The DAOの資金は安全であると公に主張しています。
+  the DAOIsHacked:
+    title: DAOがハッキングされる
+    text: 再突入バグが適用されると、DAOからエーテルがゆっくりと静かに流出する。
+  panicHitsTheMarkets:
+    title: 市場を襲うパニック
+    text: グリフ・グリーンがDAOがハッキングされたと発表したため、イーサの価格は半値になりました。
+  theCountdownBegins:
+    title: カウントダウン開始
+    text: DAOの分割メカニズムでは、資金を回収する解決策が見つかるまでに1カ月ほどかかる。財団とコミュニティの開発者は、ソフトフォークの実装を競っている。
+  robinHoodGroupAnnounced:
+    title: ロビン・フッド・グループ発表
+    text: ホワイトハット」ハッカー集団がThe DAOの資金の70％を確保するが、ハッカーによって分割された残りの30％を救うためには、プロトコルレベルのアクションが必要である。
+  softForkTheDao:
+    title: "DAOウォーズ：ソフトフォーク投票"
+    text: イーサリアム財団は、ハッカーから来る取引を検閲する「ソフトフォーク」クライアントをリリース。マイニングプールは、ガスの上限を下げることでこれを可能にすることに票を投じる。
+  softForkVulnerability:
+    title: ソフトフォークの脆弱性
+    text: ソフトフォークの実装に重大なサービス拒否の欠陥が見つかったため、採掘業者はすぐにソフトフォークを使わないことにした。
+  hardForkDebate:
+    title: ハードフォークに関する議論
+    text: イーサリアムのコミュニティでは、ハードフォークの導入の是非について、何日も激しい議論が交わされている。
+  hardForkSpecAnnounced:
+    title: ハードフォークの仕様が発表されました
+    text: 残された選択肢は、議論を呼ぶハードフォークのみ。Slock.itとEthereum Foundationのメンバーによって仕様が決定され、発表されます。
+  lastMinuteCarbonvote:
+    title: ラストミニッツCarbonvote
+    text: 12時間前に、イーサリアム財団は、ハードフォークをデフォルトでオンにすることを決定するために、論争の的になっている第三者の「コイン投票」を使用し、合意が宣言され、更新されたクライアントがリリースされました。
+  daoBailoutHardFork:
+    title: DAOベイルアウト・ハードフォーク
+    text: 約80%のノードが新しいクライアントに更新され、コミュニティは神経質にDAO Bailoutフォークのアクティベーションブロック1,920,000の到着を待っています。
+  newEthereumIsBorn:
+    title: 新型フォークチェーン
+    text: フォークチェーンが誕生!イーサリアム財団は2016年7月20日、DAOの盗難を逆手に取ってイーサリアムの改変版を作成します。商標権者であるイーサリアム財団は、フォークした新しいチェーンにイーサリアム（ETH）ブランドを適用します。
+  ethereumRenamedToClassic:
+    title: オリジナルノンフォークチェーン
+    text: フォークされていないオリジナルのチェーンは数時間以内に消滅すると予測されているため、多くの人が、マイナーがオリジナルのチェーンをサポートし続けていることに驚いています。BisqとOTCデスクは、これらのトークンに価格発見オーダーブックを与える。市場参加者はこのノンフォークドチェーンをEthereum Classic（ETC）と名付け直します。
+  missionAccomplished:
+    title: ミッションコンプリート!
+    text: ETHコミュニティは、DAOフォークのコードが明らかな欠陥もなく無事に実装されたことに安堵のため息をつき、世界中でシャンパンのコルクが鳴らされました。新しいチェーンの誕生は成功したのです。
+  poloniexListsETC:
+    title: PoloniexがETCをリストアップ
+    text: イーサリアム最大の取引所がオリジナルチェーンの長期サポートを表明、PoloniexがETCを上場。多くの取引所がすぐに追随。
+  etheriansInDisarray:
+    title: イーサリアンズ・フラクチャー
+    text: SubredditsでFlame Warsが始まる。経済的な意味での暴言が始まり 参加者は分裂の現実に直面するようになります。
+  ethereumClassicsupporters:
+    title: イーサリアムクラシックサポーター
+    text: イーサリアムクラシックの支持者は、イーサリアムのサブレディットから枝分かれして、独自のソーシャルチャンネルを形成しています。
+  geth-ETC-Support:
+    title: GethがEthereum Classicをサポート
+    text: GethはEthereum Classicネットワークのサポートをリリースします。このノードは、クライアントからすべてのDAOコードを削除し、Ethereum Classicネットワークを使用するための追加フラグを必要としません。
+  parity-ETC-Support:
+    title: ParityがEthereum Classicをサポート
+    text: Parityは、Ethereum HFとEthereum Classicの両方のチェーンのネットワーク安定性の問題に対処し、トランザクショントレースAPIにいくつかの変更をもたらす1.2.3リリースで、Ethereum Classicの長期サポートを表明しています。
+  51Pool:
+    title: 51% 攻撃の脅威
+    text: ETHの支持者は51Pool.orgというマイニングプールを形成し、51％攻撃を組織してETCネットワークを破壊する計画を立てています。
+  minerSupport:
+    title: 鉱山労働者がETCをサポート
+    text: ETCネットワークが成長し、攻撃できなくなった後、ETHマイナーはETCを攻撃しないことを公言した。無実のイーサリアムクラシックホルダーを傷つけないために、ETHashの採掘者はETCの採掘にリソースをコミットするのです。
+  attackRhg:
+    title: RHG、ETCを攻撃する
+    text: Robin Hood GroupがDAOフォークで盗まれた大量のETCをマーケットダンプしようとする。Poloniexが彼らの資金を凍結。
+  classicDeclaresIndependence:
+    title: クラシック、独立を宣言
+    text: チェーン分裂のETH側からの執拗な攻撃を受け、Ethereum Classic支持者は毅然とした態度で、新しいETHチェーンからの独立を宣言したのです。
+  classicRebuilds:
+    title: バトルテストとレジリエンス
+    text: ETCがETHの攻撃から安定した価格で浮上し、Ethereum Classicが市場への回復力を証明。DAO Bailoutの間、ネットワークの中核的な原則が活気づく。支援者たちは灰の中から再建を始める。
+  unlockedDaoFunds:
+    title: DAOの資金がETCでアンロックされる
+    text: DAOトークン保有者とDAOハッカーは、これまでロックされたり凍結されていた何百万ものETCを利用できるようになります。ETCの価格は、巨大なマーケットダンプに直面しても、驚くほどよく持ちこたえている。
+  codeIsLaw:
+    title: Code is Law
+    text: ETHの攻撃中、Ethereum Classicの支持者から多くの戦いの叫びが聞こえてきます。彼らは自分たちの核となる理念を明らかにし、ETCネットワークの存在を一般に検証し始める。
+  gasReprice:
+    title: ガスリプライスアップグレード
+    text: 技術スタックの脆弱性により、両方のイーサリアムネットワークが攻撃される。ETCの開発者は、悪用された脆弱性にパッチを当てるために、スムーズで争いのないネットワークアップグレードを迅速に確保します。
+  etcMonetaryPolicy:
+    title: ETC金融政策
+    text: Ethereum Classic支持者がETCの排出スケジュールと金融政策について議論。
+  grothendieckTeam:
+    title: グロセンディックチーム
+    text: IOHK、7人のフルタイム開発者チームをEthereum Classicにコミット
+  dieHardUpgrade:
+    title: ダイハードアップグレード
+    text: Ethereum Classicはリプレイ攻撃に対応し、ネットワークアップグレードにおける難易度爆弾を遅延させます。
+  etcDEVTeamAnnouncement:
+    title: ETCDEVチーム
+    text: ETCの長年の貢献者とボランティアからなるチームが、ETCDEVチームとして再出発しました。
+  monetaryPolicyAdopted:
+    title: 金融政策コンセンサス
+    text: Ethereum Classicは、5M20と呼ばれるビットコインにインスパイアされた限定的な放出スケジュール（5Mブロックごとに20％のブロック報酬を削減）を持つ210.7M ETC固定上限通貨政策についてコンセンサスを形成。
+  etcInvestmentFund:
+    title: ETCG投資ファンド
+    text: グレイスケールは、伝統的な投資家が伝統的な投資資産のすべての税制上の利点を備えたポートフォリオにETCを追加できるように、初の非ビットコイン暗号化ファンドを立ち上げました。
+  etcCommonwealth:
+    title: コモンウェルスチーム
+    text: Ethereum Commonwealthの名の下に開発チームが結成される。
+  mantis-Launch:
+    title: マンティス発売
+    text: このベータ版クライアント「Mantis」のリリースは本日行われ、Ethereum Classic専用のIOHK開発者であるGrothendieck Teamによる7ヶ月に及ぶ作業の集大成となるものです。
+  etcCoop:
+    title: ETC協力隊
+    text: Grayscaleは、ETCGの管理手数料の一部をETC Cooperativeチームのスポンサーとすることで、Ethereum Classicプロトコル開発への長期的な支援を表明しています。非営利団体への寄付は税金控除が可能です。
+  etcSummitHK:
+    title: ETCサミット2017
+    text: 第1回Ethereum Classicカンファレンスが香港で開催される。
+  gothamUpgrade:
+    title: ゴッサムアップグレード
+    text: ゴッサムアップグレードでは、ビットコインにヒントを得て、予測可能な通貨政策と排出スケジュールを確立しました。5M20、ブロック報酬は5Mブロックごとに20％減少します。
+  era2:
+    title: 5M20 Era 2
+    text: Ethereum Classicの5M20排出スケジュールがEra 2に突入。ブロック報酬は20%減の1ブロック4ETCに。
+  multi-Geth-Launch:
+    title: マルチゲス発射
+    text: Multi-Geth クライアントプロジェクトが始動。これは、Ethereum Foundation のバージョンからフォークされた go-ethereum クライアントで、上流の変更に密接に追従し、複数の Ethereum ネットワークに対応することを目的としています。Ethereum Classic ネットワークのアルファ版サポートを追加しました。
+  defuseDifficultyBomb:
+    title: 難易度ボムを解除する
+    text: ETCは、元のイーサリアムプロジェクトをPoSに切り替えるための難易度爆弾を安全に無効化します。Ethereum Classicは、ネットワークのコンセンサスメカニズムとしてProof of Workへの長期的なコミットメントを表明しています。
+  etclabs:
+    title: ETCラボチーム
+    text: Ethereum Classic Labsは、サンフランシスコとシンガポールにオフィスを構え、急成長するETCプロジェクトに資金提供、業界とのコネクション、オフィススペースを提供しています。
+  kotti:
+    title: Kotti Testnetを発売
+    text: ETC協同組合は、姉妹チェーンであるETHのGörliテストネットとの相互運用性テストを行うために構築されたProof of AuthorityテストネットであるKottiテストネットの開発に資金を提供します。PoAがダップ開発のテストに適したテストネット環境となる。
+  etcSummitSeoul:
+    title: ETCサミット2018
+    text: 第2回Ethereum Classicカンファレンスが韓国・ソウルで開催。
+  coinbase:
+    title: コインベースがETCを上場
+    text: 米国最大の暗号通貨取引所は、オリジナルのイーサリアムチェーンであるイーサリアムクラシックの長期サポートを表明しています。
+  etcLabsIncubator:
+    title: インキュベーター・プログラム開始
+    text: Ethereum Classic Labsがインキュベータプログラムを開始。ETC Labsは、毎年24ものEthereum Classicベースのスタートアップと協働することを約束します。
+  51Attack:
+    title: 51% アタック
+    text: Ethereum Classicがネットワーク上で初めてチェーン再編成の攻撃を成功させる。回復力のあるETCは灰の中から立ち上がる。
+  51AttackReturn:
+    title: ホワイトハットアタッカー
+    text: 51%攻撃者はホワイトハットハッカーと思われ、盗んだ資金を侵害された取引所に戻す。中央集権的な取引所では、Proof of Workコインの51%攻撃監視を全面的に強化しています。
+  atlantisConsensus:
+    title: アトランティス・ラフコンセンサス
+    text: Ethereum Classicのコア開発者は、ETHのSpurious DragonとByzantiumネットワークプロトコルのアップグレードを実装するため、ECIP-1054について大まかなコンセンサスに達しました。
+  atlantisUpgrade:
+    title: アトランティス・アップグレード
+    text: Ethereum Classicのコア開発者は、ETHのSpurious DragonとByzantiumネットワークプロトコルのアップグレードを実装し、姉妹チェーンとの運用上の同等性を維持しています。
+  etcSummitVancouver:
+    title: ETCサミット2019
+    text: 第3回Ethereum Classicカンファレンスがカナダ・バンクーバーで開催。
+  mordorLaunch:
+    title: モルドール発売
+    text: コア開発者は、Kensington、Morden、Nazgulのテストネットワークを、プロトコルレベルのテストを行うEthash PoWテストネットワークであるMordorに置き換え、テストネットワークの冗長性を排除しました。
+  besu-ETC-Support:
+    title: BesuがEthereum Classicをサポート
+    text: Hyperledger Besuは、パブリックおよびプライベートな許可制ネットワークのユースケースに対応したエンタープライズフレンドリーな設計のEthereumクライアントにEthereum Classicサポートを追加しました。
+  aztlanConsensus:
+    title: Aztlán ラフコンセンサス
+    text: Ethereum Classicのコア開発者が、ETHのIstanbulネットワークプロトコルアップグレードを実装するためのECIP-1061について大まかなコンセンサスに達する。
+  aghartaConsensus:
+    title: アガルタ ラフコンセンサス
+    text: Ethereum Classicのコア開発者は、ETHのConstantinopleとPetersburgネットワークプロトコルのアップグレードを実装するため、ECIP-1056について大まかなコンセンサスに達しました。
+  aghartaUpgrade:
+    title: Agharta アップグレード
+    text: Ethereum Classicのコア開発者は、姉妹チェーンとの運用上の同等性を維持するために、ETHのコンスタンティノープルとペテルブルグのネットワークプロトコルアップグレードを実装しています。
+  core-Geth-Launch:
+    title: コアゲス発売
+    text: ETC Coreチームは、Multi-Gethクライアントプロジェクトからフォークしています。このプロジェクトはCore-Gethと名付けられ、Ethereum/go-ethereumの下流で、多様なエコシステムに対応したEthereum Protocolのアクセス性と拡張性を実現するための取り組みを行っています。
+  phoenixFixConsensus:
+    title: Phoenix Fix ラフコンセンサス
+    text: Aztlánテストネットの実装中に、Ethereum Classicコア開発者は、ETHのIstanbulネットワークプロトコルアップグレードを追加するためのECIP 1061仕様の複雑さを発見しました。意図した通り、ETCテストネットは問題をキャッチし、コア開発者は問題に対するパッチを仕様化します。
+  ecip1050-Status-Codes:
+    title: ECIP 1050ステータスコード
+    text: ECIP 1050 Status CodesがFinalステータスに移行。この規格は、HTTPステータスと同じ系統のStatus Codesの共通セットを概説しています。これにより、スマートコントラクトが自律的に状況に反応し、ローカライズされたエラーメッセージをユーザーに公開することなどを可能にする、共有のシグナルセットが提供されます。
+  aztlanBugs:
+    title: 虫を捕まえるテストネット
+    text: Aztlánテストネットの実装中に、Ethereum Classicコア開発者はETHのIstanbulネットワークプロトコルアップグレードを追加するためにECIP 1061および1078仕様の複雑さを発見しました。ETCコアのMeowbitsは、その発見を記録しています。意図した通り、ETCテストネットは問題をキャッチし、コア開発者は振り出しに戻る。
+  aztlanRejected:
+    title: アズトレン却下
+    text: Aztlánテストネットの実装中に発見された問題、Phoenix Fixが十分な修正でないことが判明したこと、両方のテストネットが壊れてしまったことを踏まえ、Core開発者は、セキュリティと安定性の懸念からecips-1061、1078、1086を拒否し、新しい提案をゼロから書き始めることを提案します。
+  phoenixConsensus:
+    title: フェニックス ラフコンセンサス
+    text: Ethereum Classicのコア開発者は、ETHのIstanbulネットワークプロトコルアップグレードを実装するためのECIP-1088について、おおよそのコンセンサスに達する。テストネットの実装では、ECIP-1061とECIP-1078の仕様で以前の試みに問題があることが明らかになりました。
+  phoenixMordor:
+    title: Phoenix Mordorテスト
+    text: ブロック999,983のMordor PoWテストネットでPhoenixテストが開始される。コア開発チームは、これが複雑な実装であることを示唆しています。テストによってこのネットワークのアップグレードを遅らせる問題が発見されるかもしれませんが、Ethereum Classicは決してメインネットのアップグレードを急ぐことはありません。ネットワークセキュリティは、開発スピードや恣意的なスケジュールよりも優先されます。
+  era3:
+    title: 5M20時代 3
+    text: イーサリアムクラシックのブロック報酬は、ビットコインにヒントを得た5M20の排出スケジュールに従って、1ブロックあたり20％減の3.2ETCとなります。
+  phoenixKotti:
+    title: Phoenix Kotti Testing
+    text: ブロック2,200,013のKotti PoAテストネットでPhoenixテストが開始される。コア開発チームは、これが複雑な実装であることを示唆しています。テストによって問題が発見され、このネットワークのアップグレードが遅れるかもしれませんが、Ethereum Classicは決してメインネットのアップグレードを急ぐことはありません。
+  phoenixUpgrade:
+    title: フェニックス アップグレード
+    text: Ethereum Classicのコア開発者は、姉妹チェーンとの運用上の同等性を維持するために、ETHのIstanbulネットワークプロトコルアップグレードを実装しています。
+  client-Deprecation-Attacks:
+    title: クライアント非推奨攻撃
+    text: DAO Bailout Hard Forkの4周年に、ETH中心のクライアントメンテナーがEthereum Classicへのソーシャルアタックを組織しました。クライアントメンテナーは、Ethereum Classicサポートの非推奨を発表し、ETCネットワークがハッシュレートの70%を失うなど、事実と異なるマーケティングキャンペーンを実施しました。
+  51Attack2:
+    title: "51% Attack #2"
+    text: イーサリアムクラシック、ネットワーク上で2回目のチェーン再編成攻撃の成功を経験。
+  51Attack3:
+    title: "51% Attack #3"
+    text: イーサリアムクラシック、ネットワーク上で3回目のチェーン再編成攻撃の成功を経験。
+  51Attack4:
+    title: "51% Attack #4"
+    text: イーサリアムクラシック、ネットワーク上で4回目のチェーン再編成攻撃の成功を経験。
+  messClientFunctionality:
+    title: M.E.S.S.クライアント機能
+    text: Core-Gethクライアントは、Ethereum Classicネットワークの51％攻撃への対応として、オプションのM.E.S.S機能を適用するためのフラグを実装しています。
+  thanosMordor:
+    title: サノス モルドール テスト
+    text: ブロック2,520,000のMordor PoWテストネットでThanosのテストを開始。
+  thanosUpgrade:
+    title: サノスアップグレード
+    text: Ethereum ClassicはThanos Upgradeを実装し、DAGの計算で使用されるエポック長を再調整しています。
+  etchash:
+    title: イーティーシーハッシュ
+    text: Ethereum ClassicはThanos Upgradeを実装し、採掘アルゴリズムをETHashからETCHashに調整します。
+  manis-ETC-Stupport:
+    title: マンティスETCクライアント復活
+    text: Input Output MantisクライアントとGUIの復活でEthereum Classicネットワークをサポートするグローバル信号。
+  gethBugs:
+    title: Gethクライアントのバグ
+    text: 2021年8月にイーサリアム財団のメインネットを分割したGeth exploitソフトウェアのバグは、イーサリアムクラシックのメインネットを分割する。誰もがクライアントを更新することをお勧めします。
+  lcetcc:
+    title: イーサリアム・クラシック・クラシックを維持しよう
+    text: ETCの関係者は、ECIP-1098の導入に反対する長い反論を書きました。
+  treasuryDebate:
+    title: IOHK 財務省提案の取り下げについて
+    text: ECIP-1098がETCの価値観に合致するかどうか、1年にわたる議論の末、ETC生協、次いでIOHKがネットワークレベルでの財務省提案の支持を取り下げた。
+  magnetoUpgrade:
+    title: マグネトーアップグレード
+    text: Ethereum Classicのコア開発者は、姉妹チェーンとの運用上の同等性を維持するために、ETHのベルリンネットワークプロトコルのアップグレードを実装しています。
+  mystiqueUpgrade:
+    title: ミスティークアップグレード
+    text: Ethereum Classicのコア開発者は、ETHのロンドンネットワークプロトコルのアップグレードを実装し、姉妹チェーンとの運用上の同等性を維持します。
+  etcFlood:
+    title: ETCに新しいハッシュレートが登場
+    text: Ethereum Classicは、ETChashマイニングアルゴリズムと現在のマイニングエコシステムをサポートすることを約束します。これにより、ETHネットワークがプルーフ・オブ・ステーク・コンセンサスに移行することで、Ethashマイナーの大多数を吸収できるネットワークとして、Ethereum Classicは位置づけられることになります。
+  etcdao:
+    title: イーサリアムクラシックDAO
+    text: 安定的かつ長期的な資金調達は、2016年にイーサリアム財団によって放棄され、イーサリアムクラシックにとって問題であることが判明します。ネットワークのLTS資金調達の問題を解決するために、Ethereum Classic DAOは、オープンソースの開発ファンドを通じてネットワークの開発を将来的に証明することを使命として形成されています。資金調達は、EthereumClassic.comでホストされているETC DeFiスタックを使用して生成されます。
+  era4:
+    title: 5M20 エラ4
+    text: Ethereum Classicのブロック報酬は、ビットコインにインスパイアされた5M20の排出スケジュールに従って、1ブロックあたり2.56ETCに20％削減されます。ETChashの採掘ハスレートは、ネットワークがAll-Time Highsに達しているため、ETCへの転換が続いています。
+  sha3Withdrawn:
+    title: ETC生協SHA3提案の取り下げについて
+    text: 3年以上にわたる論争を経て、Bob SummerwillはECIP-1049がネットワークに引き起こす論争的なハードフォークを認め、提案を撤回する。ECIP-1049提案者の誤報キャンペーンによって引き起こされた負の社会的コストは、ネットワークの社会的認知に悪影響を与え続けています。しかし、その弾力的なコミュニティを通じて、Ethereum Classicは、ポストマージ世界においてETChashで成功するために十分な位置を占め続けているのです。
+  etcswap:
+    title: ETCswap
+    text: Ethereum Classic DAOが初のプロダクト-ETCswapをローンチ。これにより、ネットワークはEthereum Classicでのオープンソース開発のための安定した資金調達に一歩近づいたことになります。プロフェッショナルな分散型プロトコルスタックがEthereum Classic上に展開される予定です。
+  vitalikEndorsesETC:
+    title: Vitalik Buterin氏、Ethereum Classicを支持
+    text: Ethereumの最も著名な共同創設者であるVitalik Buterin氏は、オリジナルのEthereumネットワーク--Proof-of-Workチェーンを重視する人向けのEthereum Classicを推奨している。
+  antpoolETCDAOTreasuryFund:
+    title: アントプール
+    text: AntPoolは10Mの投資でイーサリアムクラシックのエコシステムをサポートします。Antpoolは、Ethereum Classic上のプロフェッショナル開発エコシステムをサポートすることを目的に、トレジャリーファンドをシードする。
+  hashrateSurges:
+    title: ETCのハッシュレートが急上昇
+    text: 来るべきイーサリアムマージが暗号空間内で興奮を引き起こし続ける中、イーサリアムの姉妹であるイーサリアムクラシック（ETC）は、2022年6月からハッシュレートが83％増加しました。
+  twitter-Account-Capture:
+    title: Twitterアカウント企業キャプチャ
+    text: 統合の数日前、Charles HoskinsonはEthereum ClassicのメインTwitterアカウントを「再利用」する意向を公言しました。彼は、未配信のマンティスクライアントのサンクコストと、IOHKの2021年集中型国庫案（ECIP-1098）の拒否のために、この行動を正当化しています。
+  ethMerge:
+    title: ETHのプルーフオブステークへの移行について
+    text: イーサリアム財団は、最大のEVMネットワークをプルーフ・オブ・ステーク・コンセンサスにアップグレードします。このMergeイベントは、Ethereum Classicを最大のProof of Work EVMネットワークとして確固たるものにします。イーサリアムクラシックのネットワークセキュリティは、すべてのイーサッシュ派生マイニングアルゴリズムの頂点ネットワークとなることで、上昇します。不死鳥は蘇る。
+  twitter-Account-Rebranded:
+    title: Twitterアカウントのリブランディング
+    text: 2021年にETCコミュニティがIOHKの集中型国庫を社会的に拒絶したことから、Charles HoskinsonはEthereum ClassicのメインTwitterアカウントをErgoというサードパーティのオープンソースプロジェクトに移管します。Ergoチームはこのアカウントを自分たちのプロジェクトにリブランディングします。Bob Summerwillは、履歴0、フォロワー0のメインTwitterアカウントのTwitterハンドルで新しく登録されたTwitterアカウントを送られる。
+  aBrightFuture:
+    title: 明るい未来
+    text: エコシステムが有機的に成長し続ける中、独立した開発チームとネットワーク参加者は、イーサリアムクラシックをこのようなユニークなネットワークにしている原則に導かれています。このネットワークは真に分散化され、不変であり、止められないものです。コードは法律です。
