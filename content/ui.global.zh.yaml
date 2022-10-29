@@ -1,9 +1,9 @@
 title: 以太坊经典
 seo: "一个运行智能合约的去中心化计算平台：完全按照程序运行的应用程序，没有停机、审查或第三方干扰"
 #Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
-metaLocale: en_US
+metaLocale: zh_cn
 #Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
-htmlLang: en
+htmlLang: zh
 published: 已出版
 updated: 最后更新
 author: 作者

@@ -55,7 +55,7 @@ function Branch({
         ) : (
           <div css={!parentPage ? tw`px-2 py-1` : tw`px-0.5 py-1`}>
             {links[fullPath] ? (
-              <Link tw="text-shade-darker" to={fullPath}>
+              <Link notLocalized tw="text-shade-darker" to={fullPath}>
                 {text}
               </Link>
             ) : (

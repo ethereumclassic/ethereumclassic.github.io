@@ -11,7 +11,7 @@ const locales = {
   },
   zh: {
     name: "中文",
-    enabled: false,
+    enabled: true,
     dayJsImport: "zh",
   },
   de: {
@@ -21,7 +21,7 @@ const locales = {
   },
   es: {
     name: "Español",
-    enabled: true,
+    enabled: false,
     dayJsImport: "es",
   },
   fr: {
@@ -65,8 +65,6 @@ const locales = {
 if (dev) {
   locales.aa = { name: "Editor", enabled: true };
 }
-
-console.log({ locales });
 
 module.exports = {
   //  only pass default locale if dsabled
