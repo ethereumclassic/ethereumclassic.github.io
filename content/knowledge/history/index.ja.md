@@ -1,10 +1,10 @@
 ---
-title: Classic History
+title: クラシックヒストリー
 updated: 2022-09-02
 contribute: true
-seo: A historical timeline covering all the major events, the ups and downs, that lead to the current state of affairs in the wonderful world of Ethereum Classic.
+seo: 素晴らしいイーサリアムクラシックの世界の現状に至る主要な出来事、浮き沈みを網羅した歴史的な年表です。
 ---
 
-The following timeline documents the formative events that created and defined Ethereum Classic, and all major events to the present day.
+以下の年表は、イーサリアムクラシックの誕生と定義の形成過程と、現在に至るまでの主要な出来事を記録したものである。
 
-For a more detailed investigation into the creation of ETC, please check out [Genesis](/why-classic/genesis).
+ETCの誕生についてのより詳細な調査については、 [Genesis](/why-classic/genesis)をご覧ください。
