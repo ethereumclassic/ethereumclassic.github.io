@@ -1,15 +1,15 @@
 ---
-title: ETC Community
+title: ETCコミュニティ
 updated: 2022-02-22
-seo: Links to the Channels, Teams and Events that make up the Ethereum Classic community. Get involved!
+seo: Ethereum Classic コミュニティを構成するチャンネル、チーム、イベントへのリンクです。 参加しよう
 ---
 
-Ethereum Classic is something far more than just some lines of code.
+イーサリアムクラシックは、単なるコードの羅列をはるかに超えるものです。
 
-Those lines of code that define the Ethereum Classic protocol have a magical property that, thanks to economic incentives and game theory, enable otherwise totally unrelated individuals to come together and organize far more effectively, peacefully and powerfully than any other organizational structure known today.
+イーサリアムクラシックのプロトコルを定義するこれらのコード行は、経済的インセンティブとゲーム理論のおかげで、全く無関係な個人が集まり、今日知られている他のどんな組織構造よりもはるかに効果的、平和的、強力に組織化できる魔法の特性を持っています。
 
-Limited not by geography, united in vision, and armed with the most powerful techno-socio-economic tools ever invented, they have the potential to revolutionize the world on a global scale.
+地理的な制約を受けず、ビジョンで結ばれ、これまでに発明された中で最も強力な技術・社会・経済的ツールで武装した彼らは、地球規模で世界を変革する可能性を持っているのです。
 
-Ethereum Classic does not just enable, but consists of its community; a highly decentralized, diverse, multi-talented and dedicated collection of individuals and groups from all over the planet. Their mission is to spread the good word of Classic and reinforce its pool of talent so that together, we can [upgrade](/why-classic/code-is-law) the systems of the world.
+イーサリアムクラシックは、高度に分散化され、多様で、多才で、献身的な地球上の個人やグループの集まりであるそのコミュニティを可能にするだけでなく、構成されているのです。 彼らの使命は、Classicの良い評判を広め、その人材プールを強化することで、共に、 [アップグレード](/why-classic/code-is-law) 世界のシステムを実現することです。
 
-Whoever you are, and whatever your skills, you are welcome to join us.
+どんな方でも、どんなスキルでも、大歓迎です。
