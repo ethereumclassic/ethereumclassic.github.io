@@ -1,0 +1,18 @@
+title: マイナーソフト
+seo: イーサリアムクラシックで暗号通貨ETCを採掘するために使用できるソフトウェアパッケージのリストです。
+description: "イーサリアムクラシックネットワークのProof-of-Workマイニングアルゴリズムは、2020年11月28日から [ETCHash]（https://github.com/eth-classic/etchash）です。"
+items:
+  table:
+    columnItems:
+      name:
+        name: 名称
+      windowsAmd:
+        name: Windows AMD
+      windowsNvidia:
+        name: Windows Nvidia
+      linuxAmd:
+        name: Linux AMD
+      linuxNvidia:
+        name: Linux Nvidia
+      guide:
+        text: ガイド
