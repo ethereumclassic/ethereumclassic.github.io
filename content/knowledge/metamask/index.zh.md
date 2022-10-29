@@ -20,13 +20,13 @@ contributors:
 
 你也可以考虑 [Nifty Wallet](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid?ucbcb=1)，这是MetaMask的分叉，支持ETC的开箱即用。
 
-## 1. 1. 登录到MetaMask
+## Step 1: Log Into MetaMask
 
 第一步是登录，解锁你的MetaMask。
 
 ![步骤1](./01.png)
 
-## 2. 2. 查看初始屏幕
+## Step 2: View Initial Screen
 
 你会看到正常的初始屏幕。 在这种情况下，默认网络是以太坊（ETH），你的账户将照常显示。 当你使用其他网络时，如果这些网络是最后使用的，当你解锁MetaMask时，它们将显示为默认网络。
 
@@ -34,7 +34,7 @@ contributors:
 
 ![第2步](./02.png)
 
-## 3. 3. 打开网络下拉菜单
+## Step 3: Open the Networks Dropdown Menu
 
 下一步是打开网络下拉菜单。 你可以通过点击你看到默认网络的栏来实现。
 
@@ -48,13 +48,13 @@ contributors:
 
 ![第3步](./03.png)
 
-## 4. 4. 选择自定义RPC
+## Step 4: Select Custom RPC
 
 因此，下一步是点击 "自定义RPC"。
 
 ![第四步](./04.png)
 
-## 5. 5. 查看新网络表格
+## Step 5: View the New Network Form
 
 选择 "自定义RPC "后，你会看到添加网络的表格。 它的顶部有一条安全信息，并有五个带有空栏的选项，可以输入你想使用的新网络。
 
@@ -66,7 +66,7 @@ contributors:
 
 ![第5步](./05.png)
 
-## 6. 6. 输入Ethereum Classic网络信息
+## Step 6: Enter the Ethereum Classic Network Information
 
 下一步，是添加Ethereum Classic的具体信息。 以下是我使用的网络数据。
 
@@ -88,13 +88,13 @@ _[编者注] Ethercluster现在由 [RIVET](https://rivet.cloud/)。 你可以在
 
 ![第6步](./06.png)
 
-## 7. 7. 在网络下拉菜单中查看Ethereum Classic
+## Step 7: View Ethereum Classic in the Networks Dropdown Menu
 
 一旦ETC被添加，你会在网络下拉菜单中看到它被添加到网络列表中。
 
 ![第七步](./07.png)
 
-## 8. 8. 你可以在ETC上查看你的同一个账户
+## Step 8: You May View Your Same Account but on ETC
 
 如果你去看你的账户，你会发现它和你的ETH账户是一样的。 在我的案例中，是同一个 `0x48c1...EfF3` 账户。
 
@@ -106,13 +106,13 @@ _[编者注] Ethercluster现在由 [RIVET](https://rivet.cloud/)。 你可以在
 
 ![第8步](./08.png)
 
-## 9. 你可以用同一个账户移回以太坊
+## Step 9: You May Move Back to Ethereum With the Same Account
 
 因此，由于两个网络都使用相同的账户格式，你可以移回以太坊主网，你将能够再次看到你的ETH账户的号码。
 
 ![第9步](./09.png)
 
-## 10. 你可以用同一个账户移回以太坊经典版
+## Step 10: You May Move Back to Ethereum Classic With the Same Account
 
 要使用ETC网络，只需在网络下拉菜单中再次选择Ethereum Classic，你将再次看到你的ETC余额。
 
