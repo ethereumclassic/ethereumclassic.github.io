@@ -65,7 +65,7 @@ const locales = {
 };
 
 if (dev) {
-  locales.aa = { name: "Editor", enabled: true };
+  locales.aa = { name: "Editor", editor: true, enabled: true };
 }
 
 module.exports = {

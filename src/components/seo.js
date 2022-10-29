@@ -12,12 +12,14 @@ import { useLocalization } from "../../plugins/translations-plugin/src/component
 import { etc as EtcLogo } from "../utils/icons";
 import { useTheme } from "../utils/themeProvider";
 import useSiteMetadata from "../utils/useSiteMetadata";
+import useLocaleItems from "../utils/useLocaleItems";
 
 export default function Seo({ data, i18n, path, pageContext: { basePath } }) {
   const {
     globals: { ui },
     dev: i18nDev,
   } = useLocalization();
+  const { current } = useLocaleItems();
   const { siteUrl, socialImage } = useSiteMetadata();
   const { isDark } = useTheme();
 
@@ -72,15 +74,16 @@ export default function Seo({ data, i18n, path, pageContext: { basePath } }) {
   return (
     <>
       <Helmet titleTemplate={`%s - ${title}`} defaultTitle={title}>
-        {i18nDev && [
-          <script type="text/javascript">
-            {`var _jipt = []; _jipt.push(['project', '${i18nDev}']);`}
-          </script>,
-          <script
-            type="text/javascript"
-            src="//cdn.crowdin.com/jipt/jipt.js"
-          />,
-        ]}
+        {i18nDev &&
+          current.editor && [
+            <script type="text/javascript">
+              {`var _jipt = []; _jipt.push(['project', '${i18nDev}']);`}
+            </script>,
+            <script
+              type="text/javascript"
+              src="//cdn.crowdin.com/jipt/jipt.js"
+            />,
+          ]}
 
         {/* favicon, with fallback */}
         <link
@@ -121,7 +124,7 @@ export default function Seo({ data, i18n, path, pageContext: { basePath } }) {
         <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content={image} />
       </Helmet>
-      {i18nDev && <SeoHelper meta={meta} />}
+      {i18nDev && current.editor && <SeoHelper meta={meta} />}
     </>
   );
 }
