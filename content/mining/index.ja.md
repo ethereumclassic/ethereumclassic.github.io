@@ -1,13 +1,13 @@
 ---
-title: Mining Resources
-seo: Why Ethereum Classic is a great long term choice for cryptocurrency mining, and a collection of resources covering Hardware, Software and Mining Pools.
+title: 鉱業資源
+seo: 暗号通貨のマイニングにEthereum Classicが長期的に最適な理由と、ハードウェア、ソフトウェア、マイニングプールを網羅したリソース集です。
 updated: 2022-02-22
 ---
 
-With Ethereum's imminent/recent switch to Proof of Stake a.k.a. "The Merge", Ethereum Classic becomes the largest Proof of Work Smart Contract Platform and inherits many of the miners that previously mined Ethereum. As Ethereum Classic's hashing algorithm is almost identical to ETHash, so it supports the same hardware, and mining ETC should be as simple switching to a mining pool that supports ETC.
+イーサリアムのProof of Stakeへの移行が間近に迫っており、また最近、Proof of Stake（通称：ESSE）への移行が行われました。 "The Merge "により、Ethereum Classicは最大のProof of Work Smart Contract Platformとなり、以前Ethereumを採掘していた多くのマイナーを受け継ぐことになります。 Ethereum ClassicのハッシュアルゴリズムはETHashとほぼ同じなので、同じハードウェアに対応し、ETCの採掘はETCに対応したマイニングプールに切り替えるだけで済むはずです。
 
-Ethereum Classic has a long term [commitment](/why-classic/proof-of-work) to Proof of Work, a tried and true consensus mechanism that provides a solid foundation on which to Build Unstoppable Applications. This commitment is not out of happenstance, but as an intentional design choice over other mechanisms, such as Proof of Stake, that come with inherent security trade-offs.
+Ethereum Classic は、長期的な [コミットメント](/why-classic/proof-of-work) を Proof of Work に行っています。これは、Unstoppable Applications を構築するための強固な土台となる、試行錯誤の末の合意形成メカニズムです。 この取り組みは偶然ではなく、Proof of Stakeのようなセキュリティのトレードオフを内在する他のメカニズムに対して、意図的に設計を選択したものです。
 
-Mining is one of the most important elements of any Proof of Work blockchain, as it provides security allows nodes to reach consensus about the state of the network. In exchange for providing this service, anyone in the world, without permission, can contribute hash power and be rewarded every block with ETC, based on the emission curve and transaction fees.
+マイニングは、Proof of Workブロックチェーンの最も重要な要素の1つであり、セキュリティを提供することで、ノードがネットワークの状態についてコンセンサスに達することを可能にします。 このサービスを提供する代わりに、世界中の誰でも、許可なくハッシュパワーを提供し、排出曲線と取引手数料に基づき、ブロックごとにETCで報酬を得ることができるのです。
 
-Below is a non-exhaustive collection of mining resources developed for Ethereum Classic. If you have questions about mining, there is an active Mining channel in the [Ethereum Classic Discord](/community/channels).
+以下は、イーサリアムクラシック用に開発されたマイニングリソースの非網羅的なコレクションです。 マイニングについて質問がある場合は、 [Ethereum Classic Discord](/community/channels)のMiningチャンネルがアクティブです。
