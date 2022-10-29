@@ -2,78 +2,78 @@
 title: Code is Law
 updated: 2022-02-22
 disclaimer: opinion
-seo: An explanation of the concept of "Code is Law", and how Ethereum Classic is one of the few blockchain projects that allow this bright future to unfold.
+seo: Code is Law」の概念と、Ethereum Classicがこの明るい未来を展開させる数少ないブロックチェーンプロジェクトの一つであることを解説します。
 ---
 
-## Key Points
+## キーポイント
 
-- Blockchain technology and Smart Contracts have the potential to unlock a new era of human flourishing.
-- _The_ value that Smart Contract Platforms introduce is _Code is Law_; the ability to _Build Unstoppable Applications_.
-- If positively engaged with, _Code is Law_ will be hugely beneficial; those who attempt to stifle its adoption will be left behind.
-- Change is likely to disrupt powerful institutions, who may fight against technology that threatens their position.
-- Only blockchains committed to _Code is Law_ are suitable to take on this challenge; others will become captured.
-- Today, most blockchain projects, including Ethereum™, are not committed to _Code is Law_, undermining their value proposition.
+- ブロックチェーン技術とスマートコントラクトは、人類が繁栄する新しい時代を切り開く可能性を秘めています。
+- _ _ _スマートコントラクトプラットフォームが導入する価値とは、_ コードは法則*;止められないアプリケーションを構築する能力*です。
+- 積極的に取り組めば、 _Code is Law_ 、多大な利益をもたらすでしょう。その採用を阻害しようとする者は、取り残されることになります。
+- 変化は強力な組織を混乱させる可能性が高く、組織は自分たちの地位を脅かすテクノロジーと戦うかもしれない。
+- _Code is Law_ にコミットしたブロックチェーンだけがこのチャレンジに適しており、その他のものは捕捉されてしまいます。
+- 今日、Ethereum™を含むほとんどのブロックチェーン・プロジェクトは、 _Code is Law_にコミットしておらず、その価値提案を損なっています。
 
-## Introduction
+## はじめに
 
-For Ethereum Classic, principles come first, and ETC's story begins with a phrase that most succinctly captures its core philosophy; _Code is Law_.
+イーサリアムクラシックでは、原則が第一であり、ETCの物語は、その中核となる哲学を最も簡潔にとらえたフレーズから始まります。 _Code is Law_.
 
-_Code is Law_ puts the "Unstoppable" in "Build Unstoppable Applications", a philosophy lauded enthusiastically by The Ethereum Project up until The DAO Hack. But what exactly is _Code is Law_, and why did Etherians outside of Ethereum Classic decide to abandon it?
+_Code is Law_ "Build Unstoppable Applications" の "Unstoppable" は、The DAO Hack までの Ethereum Project で熱狂的に賞賛された哲学です。 しかし、 _コードが法則_、そしてなぜイーサリアムクラシック以外のイーサリアンはそれを放棄することにしたのでしょうか？
 
-## A Vision for the Future
+## 未来へのビジョン
 
-Many who think deeply about the potential of blockchain technology have a "eureka" moment, where it all _clicks_, and the wild valuations of the cryptocurrency space suddenly feel a little meager. They realize a future can exist where all agreements between people are ultimately governed not by corruptible institutions but by the cold hard logic of Smart Contract code.
+ブロックチェーン技術の可能性について深く考える人の多くは、「eureka」瞬間というものがあり、そこですべてが _クリックされ_、暗号通貨空間の乱暴な評価が突然少し貧弱に感じられるのである。 彼らは、人々の間のすべての合意が、腐敗しやすい制度ではなく、スマートコントラクトコードの冷たく硬い論理によって最終的に支配される未来が存在しうることを理解しています。
 
-In this future, individuals decide for themselves which contracts they wish to engage with, rather than rolling the dice via the geographical monopolies they happen to be born into. There are no middlemen as rent-seeking in all areas is replaced by disintermediation, market competition, and price optimization. This reality is fairer, cheaper, interoperable, and global. It becomes a universal solvent that lubricates the ossified machinery of old.
+このような未来では、生まれながらにして地理的な独占権によってサイコロを振るのではなく、個人が自分でどのような契約を結ぶかを決めることになります。 あらゆる分野でのレントシーキングが、ディスインターミディエーション、市場競争、価格の最適化に取って代わられ、中間業者が存在しなくなるのです。 この現実は、より公平で、より安価で、相互運用性があり、グローバルなものです。 それは、古くからある骨董品のような機械を潤滑に動かす万能の溶剤となる。
 
-A new era of human flourishing is unleashed, as society is unshackled from the inefficiency and opacity of corruption. It will be nothing short of a new renaissance, a beaming ray of hope in the face of darker alternatives, and to top it off, it is achievable within our lifetimes.
+社会が非効率的で不透明な腐敗から解き放たれ、人類の繁栄の新時代が開かれるのです。 それは新しいルネッサンスに他ならず、暗い選択肢の中で輝く希望の光であり、しかも私たちが生きている間に実現可能なことなのです。
 
-## Virtual Jurisdictions
+## 仮想裁判管轄
 
-In this future, one or more global "virtual jurisdictions" exist, over and above, in some cases instead of, the geography-based legal frameworks that operate today. These new jurisdictions will be preferred as they offer something their traditional alternatives cannot provide consistently: transparency, fairness and incorruptibility.
+このような未来では、現在機能している地理的な法的枠組みを超えて、場合によってはその代わりに、1つまたは複数のグローバルな「仮想管轄権」が存在することになります。 これらの新しい国・地域は、従来の代替手段では一貫して提供できないもの、すなわち透明性、公正さ、腐敗防止を提供するため、好まれるでしょう。
 
-Unlike the legal jurisdictions that exist today that are regularly manipulated by the whims of the powerful, future virtual jurisdictions will be governed by the principle of _Code is Law_, meaning that for the first time, humanity can operate under _actual_, as opposed to the guise of, Rule of Law, codified not in esoteric and misinterpretable legal texts, but in pure mathematics.
+権力者の気まぐれで定期的に操作されている今日存在する法的管轄とは異なり、将来の仮想管轄は、 _Code is Law_の原則に支配されるでしょう。つまり、人類は初めて、難解で誤解を招くような法律文書ではなく、純粋な数学で成文化された、 _実際の_法則の装いに反して活動できるようになるのです。
 
-_Code is Law_ is made possible by blockchain technology, and is a straightforward concept that keeps these virtual jurisdictions sovereign. It means that the code of a Smart Contract is the ultimate arbiter of the outcome of an on-chain interaction, as opposed to some overriding force from outside the network. As a result, _applications_ are _unstoppable_, and run exactly as programmed without downtime, censorship, or third party interference.
+_Code is Law_ はブロックチェーン技術によって実現され、これらの仮想的な司法権の主権を維持するためのわかりやすい概念である。 これは、スマートコントラクトのコードが、ネットワーク外部からの無効な力とは対照的に、オンチェーンでのやりとりの結果を最終的に決定するものであることを意味します。 その結果、 _アプリケーション_ は _止まらない_、ダウンタイム、検閲、第三者の干渉を受けることなく、プログラム通りに正確に実行されます。
 
-When individuals voluntarily engage with Smart Contracts on a chain that follows _Code is Law_, they accept the outcome of whatever logic is defined within those contracts. If a contract is poorly written or has a mistake, it is not the responsibility of the wider network to "make whole" parties who are not happy with a given outcome. In short, there are no do-overs, bailouts or refunds, unless pre-programmed.
+_Code is Law_に従ったチェーン上で個人が自発的にスマートコントラクトに関与するとき、そのコントラクト内で定義されたいかなるロジックの結果も受け入れることになります。 契約書の書き方が悪かったり、間違いがあったとしても、与えられた結果に満足できない当事者を「丸く収める」ことは、広いネットワークの責任ではありません。 要するに、あらかじめプログラムされていない限り、やり直しや救済、払い戻しはできないのです。
 
-## The Value of Blockchains
+## ブロックチェーンの価値
 
-Upon reflection, it becomes apparent that _Code is Law_ is the _only_ way that Smart Contracts can be fairly or usefully interpreted. On blockchains that do not uphold _Code is Law_, the outcome of transactions is not governed by individual choice via contract code, but ultimately at the behest of "governance" from the legacy system, including all the drawbacks that introducing a blockchain was meant to alleviate.
+__ よく考えてみると、 _Code is Law_ は、スマートコントラクトを公正に、あるいは有用に解釈することができる唯一の方法であることが明らかになります。 _Code is Law_を守らないブロックチェーンでは、取引の結果は契約コードによる個人の選択ではなく、最終的にはレガシーシステムからの「ガバナンス」の要請によるもので、ブロックチェーンの導入が緩和することを意図したすべての欠点が含まれているのです。
 
-For those who want to "Build _Unstoppable_ Applications", the apparent truth is that _Code is Law_ is the very thing that makes blockchains valuable. It is why they exist. Without _Code is Law_, there are much more efficient ways to "Build _Stoppable_ Applications", such as Amazon Web Services, so why bother with a blockchain at all?
+_止まらない_ アプリケーションを作りたい」と思っている人にとって、見かけ上の真実は、 _Code is Law_ こそが、ブロックチェーンの価値を高めているのです。 そのために存在するのです。 _Code is Law_がなければ、Amazon Web Services などの「 _Stoppable_ Applications を構築する」はるかに効率的な方法があるのに、なぜわざわざブロックチェーンにするのか？
 
-## Not without a Fight
+## 戦わずにいられない
 
-While these new systems will unlock immense value for the vast majority, they are bound to be opposed by those who unfairly benefit from the status quo.
+これらの新しいシステムは、大多数の人々にとって計り知れない価値を解放する一方で、現状から不当に利益を得ている人々から反対されるに違いない。
 
-In transparent and incorruptible _Code is Law_ jurisdictions, those who cannot provide real value on a level playing field will go extinct. For this reason, in a futile attempt to stop progress, truly decentralized blockchains will experience significant pushback from incumbent institutions for whom this fairer reality poses an existential threat.
+透明で腐敗のない _Code is Law_ 管区では、公平な競争の場で真の価値を提供できない者は絶滅してしまうでしょう。 このため、真に非中央集権的なブロックチェーンは、この公正な現実が存続の脅威となる既存機関から大きな反発を受けることになるでしょう。
 
-If [history](https://www.eff.org/wp/riaa-v-people-five-years-later) is anything to go by, attempts will be made to stifle the adoption of these empowering new technologies. Projects that are not sufficiently decentralized, those that are not _Sovereign Grade_, will become captured by the very institutions they promise to disrupt. This is why _Code is Law_ and the high degree of decentralization required to underpin it must be the primary goal of blockchains that wish to survive and provide long term value.
+[歴史](https://www.eff.org/wp/riaa-v-people-five-years-later) が何であれ、これらの力を与える新しい技術の採用を抑制する試みがなされるでしょう。 十分に分散化されていないプロジェクト、 _ソブリン・グレード_でないプロジェクトは、破壊することを約束した機関そのものに取り込まれることになる。 このため、 _CodeはLaw_ 、それを支えるために必要な高度な分散化は、生き残り、長期的な価値を提供したいと願うブロックチェーンの主要な目標でなければなりません。
 
-## Where Code isn't Law
+## コードが法律でない場合
 
-The concept of _Code is Law_ is potentially provocative and disruptive to the existing global order, but it need not be reflexively rallied against. Like all powerful technologies, _how and where_ they are applied determines who benefits from their application. Like the internet before blockchain, the genie is out of the bottle. This will undoubtedly change the existing landscape, but society will benefit by engaging with the technology positively.
+_Code is Law_ のコンセプトは、既存のグローバルな秩序に対して挑発的で破壊的である可能性があるが、反射的に反対を唱える必要はないだろう。 すべての強力なテクノロジーと同様に、 _どのように、どこで_ それを適用するかによって、誰がその恩恵にあずかるかが決まるのです。 ブロックチェーン以前のインターネットのように、精霊は瓶から飛び出してしまったのです。 これにより、既存の風景が変わることは間違いありませんが、この技術を積極的に取り入れることで、社会は恩恵を受けることができます。
 
-How we engage depends on recognizing the boundaries of _Code is Law_, and understanding that, like the embers of a fire, it can only exist in unique circumstances and has to be nurtured and matured into the raging source of light it has the potential to become.
+私たちがどのように関わるかは、 _Code is Law_の境界を認識し、火の燃えさしのように、ユニークな状況の中でしか存在できず、それが潜在的に持つ荒々しい光の源へと育み成熟させなければならないことを理解することにかかっています。
 
-### The Old World
+### 旧世界
 
-The phrase isn't _only Code is Law_. The concept of _Code is Law_ is ambivalent about how any particular local constabulary handles the unstoppability of Smart Contracts in their off-chain jurisdiction. Cryptocurrency theft, for example, is considered illegal in many places, and _Code is Law_ proponents can consistently support the return of stolen funds while also opposing the reversing of malicious transactions.
+このフレーズは _唯一のCode is Law_. _Code is Lawのコンセプト_ は、特定の地方警察がオフチェーン管轄内でスマートコントラクトの停止不可能性をどのように扱うかについて、両義的なものである。 例えば暗号通貨の盗難は多くの場所で違法とされており、 _Code is Law_ 推進者は、悪意のある取引の取り消しにも反対しながら、盗まれた資金の返還を一貫してサポートすることができます。
 
-As there are many legal jurisdictions and various approaches to policing, *Code is Law* blockchains recognize that to remain globally relevant and accessible, they must be neutral and follow their *own* contractual agreements. Off-chain concerns are outside the responsibility of the chain, whose only role is to ensure that transactions are _not_ reversible through third party interference with the protocol.
+多くの法的管轄があり、取り締まりに対する様々なアプローチがあるため、 *Code is Law* ブロックチェーンは、グローバルな関連性とアクセスを維持するためには、中立でなければならず、独自の ** 契約上の合意に従わなければならないことを認識しています。 オフチェーンでの懸念はチェーンの責任外であり、その唯一の役割は、トランザクションが _、第三者がプロトコルに干渉することで_ 逆転できないことを保証することです。
 
-_Code is Law_ blockchains are opt-in systems that can have off-chain consequences that depend on how they are used. In the same way that fire can be used for both warmth and destruction, as a new technological primitive, restricting its use will only hinder the restrictor, who will be left behind as others take advantage of it. There is no question that a big challenge exists in figuring out how the world interfaces with this new tech, but that depends on cultural biases and is not necessarily within the control of technologists. In any case, please don't shoot the messenger.
+_Code is Law_ ブロックチェーンはオプトインシステムであり、その使い方次第でオフチェーンに影響を与える可能性があります。 火は暖をとることも破壊することもできるのと同じように、新しい技術のプリミティブとして、その使用を制限することは、制限する側の妨げになるだけで、他の人がそれを利用することで取り残されることになるのです。 この新しい技術を世界がどのようにインターフェースするかという大きな課題が存在することは間違いありませんが、それは文化的なバイアスに依存するものであり、必ずしも技術者のコントロールの及ぶものではありません。 いずれにせよ、メッセンジャーを撃たないでください。
 
-### Outside the Contract Layer
+### 契約レイヤーの外側
 
-A common misconception about _Code is Law_ is that it applies to all parts of a blockchain's technology stack, including the node clients' code. This is nonsensical, as blockchain nodes are written in conventional programming languages and operate in traditional execution environments, where code couldn't be law if it wanted to. Instead, blockchain clients are written to participate in a given blockchain's _protocol_, whose operation creates a new decentralized execution environment; a _Contract Layer_ that sits on top, where _Code is Law_ can operate.
+_Code is Law_ についてよくある誤解は、ノードクライアントのコードを含む、ブロックチェーンの技術スタックのすべての部分に適用されるというものです。 ブロックチェーンノードは従来のプログラミング言語で書かれており、コードが法則化しようと思ってもできないような従来の実行環境で動作しているため、これはナンセンスな話です。 その代わりに、ブロックチェーンクライアントは、与えられたブロックチェーンの _プロトコル_に参加するように書かれており、その運用によって新しい分散実行環境が作られます。 _契約層_ が上に乗っており、 _Code is Law_ が運用できるようになっているのです。
 
-### 9 out of 10 Chains
+### 10点満点中9点 チェーン
 
-Some chains have abandoned the idea of _Code is Law_ entirely. Indeed, the vast majority of blockchain projects today do not give much if any priority to _unstoppability_, _decentralization_ or _censorship resistance_, and are therefore unable to deliver on the bright future alluded to above. These projects may certainly carve out niches in areas that won't shake things up too much, but the moment they pose a threat to powerful incumbents, they will be easily manipulated, captured or otherwise compromised, and will therefore ultimately fail to deliver seriously monumental change.
+一部のチェーン店では、「 _コードが法則」_ の考え方を完全に放棄しています。 実際、今日のブロックチェーン・プロジェクトの大半は、 _非停止性_、 _分散性_ 、 _検閲への耐性_をほとんど優先しておらず、したがって、上記で言及した明るい未来を実現することはできません。 これらのプロジェクトは、確かに物事を大きく揺るがすことのない分野でニッチを切り開くかもしれませんが、強力な既存勢力に脅威を与えた瞬間に、簡単に操作されたり、捕獲されたり、その他の方法で妥協してしまい、最終的に重大な変化をもたらすことはできないでしょう。
 
-Sadly, this is true for ETC's younger, albeit weightier sibling, Ethereum™, a project that once shared these principles, but after only a year, split away, rebooting a new chain with new rules, going down a new path, and explicitly disavowing _Code is Law_.
+悲しいことに、これはETCの弟分であり、より重みのある兄弟分であるEthereum™にも当てはまります。かつてこの原則を共有していたプロジェクトは、わずか1年で分裂し、新しいルールで新しいチェーンを再起動し、新しい道を歩み、 _Code is Law_を明確に否定しています。
 
-To understand what happened, we must now reflect on Ethereum Classic's shared history with Ethereum™ and revisit the incident that led to ETC's genesis.
+何が起こったのかを理解するためには、ここでイーサリアムクラシックがイーサリアム™と共有する歴史を振り返り、ETCの発端となった事件を再確認する必要があります。
