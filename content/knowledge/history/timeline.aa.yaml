@@ -1,0 +1,732 @@
+__type: timeline
+title: crwdns68022:0crwdne68022:0
+items:
+  frontierRelease:
+    title: crwdns68024:0crwdne68024:0
+    __date: 2015-07-30
+    __color: blue
+    __icon: rocket
+    __link: https://blog.ethereum.org/2015/07/30/ethereum-launches/
+    text: crwdns68034:0crwdne68034:0
+  frontierThawingUpgrade:
+    title: crwdns68036:0crwdne68036:0
+    __block: 200,000
+    __date: 2015-09-08
+    __color: blue
+    __icon: snowflake
+    __link: https://blog.ethereum.org/2015/08/04/ethereum-protocol-update-1/
+    text: crwdns68048:0crwdne68048:0
+  homesteadUpgrade:
+    title: crwdns68050:0crwdne68050:0
+    __block: 1,150,000
+    __date: 2016-03-14
+    __color: blue
+    __icon: home
+    __link: https://blog.ethereum.org/2016/02/29/homestead-release/
+    text: crwdns68062:0crwdne68062:0
+  slockItCreatesThe Dao:
+    title: crwdns68064:0crwdne68064:0
+    __date: 2016-04-05
+    __color: white
+    __icon: fileCode
+    __link: https://blog.slock.it/deja-vu-dao-smart-contracts-audit-results-d26bc088e32e
+    text: crwdns68074:0crwdne68074:0
+  the DaoCrowdsaleBegins:
+    title: crwdns68076:0crwdne68076:0
+    __date: 2016-04-30
+    __color: white
+    __icon: bullhorn
+    __link: https://blog.slock.it/the-dao-creation-is-now-live-2270fd23affc
+    text: crwdns68086:0crwdne68086:0
+  securityProposal:
+    title: crwdns68088:0crwdne68088:0
+    __date: 2016-05-26
+    __color: orange
+    __icon: keyboard
+    __link: https://blog.slock.it/dao-security-a-proposal-to-guarantee-the-integrity-of-the-dao-3473899ace9d
+    text: crwdns68098:0crwdne68098:0
+  moratoriumCalled:
+    title: crwdns68100:0crwdne68100:0
+    __date: 2016-05-27
+    __color: orange
+    __icon: crosshairs
+    __link: http://hackingdistributed.com/2016/05/27/dao-call-for-moratorium/
+    text: crwdns68110:0crwdne68110:0
+  the DaoCrowdsaleEnds:
+    title: crwdns68112:0crwdne68112:0
+    __date: 2016-05-27
+    __color: white
+    __icon: funnelDollar
+    __link: http://slacknation.github.io/medium/8/8.html
+    text: crwdns68122:0crwdne68122:0
+  recursiveCallBugDiscovered:
+    title: crwdns68124:0crwdne68124:0
+    __date: 2016-06-09
+    __color: orange
+    __icon: bug
+    __link: http://vessenes.com/more-ethereum-attacks-race-to-empty-is-the-real-deal/
+    text: crwdns68134:0crwdne68134:0
+  noFundsAtRisk:
+    title: crwdns68136:0crwdne68136:0
+    __date: 2016-06-12
+    __color: white
+    __icon: thumbsUp
+    __link: https://blog.slock.it/no-dao-funds-at-risk-following-the-ethereum-smart-contract-recursive-call-bug-discovery-29f482d348b
+    text: crwdns68146:0crwdne68146:0
+  the DAOIsHacked:
+    title: crwdns68148:0crwdne68148:0
+    __date: 2016-06-17
+    __color: red
+    __icon: timesCircle
+    __link: http://slacknation.github.io/medium/10/10.html
+    text: crwdns68158:0crwdne68158:0
+  panicHitsTheMarkets:
+    title: crwdns68160:0crwdne68160:0
+    __date: 2016-06-17
+    __color: red
+    __icon: chartArea
+    __link: https://cointelegraph.com/news/dao-potentially-hacked-millions-of-ether-may-be-stolen-griff-green-says
+    text: crwdns68170:0crwdne68170:0
+  theCountdownBegins:
+    title: crwdns68172:0crwdne68172:0
+    __date: 2016-06-17
+    __color: orange
+    __icon: hourglassStart
+    __link: https://blog.ethereum.org/2016/06/17/critical-update-re-dao-vulnerability/
+    text: crwdns68182:0crwdne68182:0
+  robinHoodGroupAnnounced:
+    title: crwdns68184:0crwdne68184:0
+    __date: 2016-06-21
+    __color: white
+    __icon: userSecret
+    __link: https://www.reddit.com/r/ethereum/comments/4p7mhc/update_on_the_white_hat_attack/
+    text: crwdns68194:0crwdne68194:0
+  softForkTheDao:
+    title: "crwdns68196:0crwdne68196:0"
+    __date: 2016-06-24
+    __color: orange
+    __icon: fileCode
+    __link: https://blog.ethereum.org/2016/06/24/dao-wars-youre-voice-soft-fork-dilemma/
+    text: crwdns68206:0crwdne68206:0
+  softForkVulnerability:
+    title: crwdns68208:0crwdne68208:0
+    __date: 2016-06-28
+    __color: red
+    __icon: bug
+    __link: https://blog.ethereum.org/2016/06/28/security-alert-dos-vulnerability-in-the-soft-fork/
+    text: crwdns68218:0crwdne68218:0
+  hardForkDebate:
+    title: crwdns68220:0crwdne68220:0
+    __date: 2016-06-28
+    __color: white
+    __icon: users
+    __link: https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork/
+    text: crwdns68230:0crwdne68230:0
+  hardForkSpecAnnounced:
+    title: crwdns68232:0crwdne68232:0
+    __date: 2016-07-15
+    __color: orange
+    __icon: fileCode
+    __link: https://blog.slock.it/hard-fork-specification-24b889e70703
+    text: crwdns68242:0crwdne68242:0
+  lastMinuteCarbonvote:
+    title: crwdns68244:0crwdne68244:0
+    __date: 2016-07-15
+    __color: red
+    __icon: faExclamationTriangle
+    __link: https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork/
+    text: crwdns68254:0crwdne68254:0
+  daoBailoutHardFork:
+    title: crwdns68256:0crwdne68256:0
+    __block: 1,920,000
+    __date: 2016-07-20
+    __color: blue
+    __icon: codeBranch
+    __link: https://blog.ethereum.org/2016/07/20/hard-fork-completed/
+    text: crwdns68268:0crwdne68268:0
+  newEthereumIsBorn:
+    title: crwdns68270:0crwdne68270:0
+    __block: 1,920,001
+    __date: 2016-07-20
+    __color: purple
+    __icon: rocket
+    __link: https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/
+    text: crwdns68282:0crwdne68282:0
+  ethereumRenamedToClassic:
+    title: crwdns68284:0crwdne68284:0
+    __block: 1,920,001
+    __date: 2016-07-20
+    __color: green
+    __icon: rocket
+    __link: https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/
+    text: crwdns68296:0crwdne68296:0
+  missionAccomplished:
+    title: crwdns68298:0crwdne68298:0
+    __date: 2016-07-20
+    __color: white
+    __icon: cocktail
+    __link: https://twitter.com/initc3org/status/758000698881613824
+    text: crwdns68308:0crwdne68308:0
+  poloniexListsETC:
+    title: crwdns68310:0crwdne68310:0
+    __date: 2016-07-23
+    __color: green
+    __icon: chartLine
+    __link: https://twitter.com/poloniex/status/757068619234803712
+    text: crwdns68320:0crwdne68320:0
+  etheriansInDisarray:
+    title: crwdns68322:0crwdne68322:0
+    __date: 2016-07-23
+    __color: red
+    __icon: frown
+    __link: https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/
+    text: crwdns68332:0crwdne68332:0
+  ethereumClassicsupporters:
+    title: crwdns68334:0crwdne68334:0
+    __date: 2016-07-24
+    __color: green
+    __icon: users
+    __link: https://www.reddit.com/r/EthereumClassic/
+    text: crwdns68344:0crwdne68344:0
+  geth-ETC-Support:
+    title: crwdns68346:0crwdne68346:0
+    __date: 2016-07-27
+    __color: blue
+    __icon: codeBranch
+    __link: https://github.com/ethereumproject/go-ethereum/releases/tag/6aaf5f3
+    text: crwdns68356:0crwdne68356:0
+  parity-ETC-Support:
+    title: crwdns68358:0crwdne68358:0
+    __date: 2016-07-31
+    __color: blue
+    __icon: codeBranch
+    __link: https://github.com/openethereum/openethereum/releases/tag/v1.2.3
+    text: crwdns68368:0crwdne68368:0
+  51Pool:
+    title: crwdns68370:0crwdne68370:0
+    __date: 2016-07-31
+    __color: red
+    __icon: faExclamationTriangle
+    __link: http://www.newsbtc.com/2016/07/31/51pool-attack-plans-51-network-attack-ethereum-classic/
+    text: crwdns68380:0crwdne68380:0
+  minerSupport:
+    title: crwdns68382:0crwdne68382:0
+    __date: 2016-08-01
+    __color: green
+    __icon: cubes
+    __link: https://coinjournal.net/miner-attack-ethereum-classic-now-supporting/
+    text: crwdns68392:0crwdne68392:0
+  attackRhg:
+    title: crwdns68394:0crwdne68394:0
+    __date: 2016-08-10
+    __color: red
+    __icon: dumpsterFire
+    __link: http://themerkle.com/white-hat-hackers-caught-red-handed-during-attempted-etc-sell-off/
+    text: crwdns68404:0crwdne68404:0
+  classicDeclaresIndependence:
+    title: crwdns68406:0crwdne68406:0
+    __block: 2,050,000
+    __date: 2016-08-13
+    __color: green
+    __icon: flag
+    __link: /blog/2016-08-13-declaration-of-independence
+    text: crwdns68418:0crwdne68418:0
+  classicRebuilds:
+    title: crwdns68420:0crwdne68420:0
+    __date: 2016-08-18
+    __color: white
+    __icon: users
+    __link: /blog/2016-08-18-meetup
+    text: crwdns68430:0crwdne68430:0
+  unlockedDaoFunds:
+    title: crwdns68432:0crwdne68432:0
+    __date: 2016-08-31
+    __color: red
+    __icon: chartArea
+    __link: https://bitcoinmagazine.com/articles/millions-of-dollars-worth-of-etc-may-soon-be-dumped-on-the-market-1472567361
+    text: crwdns68442:0crwdne68442:0
+  codeIsLaw:
+    title: crwdns68444:0crwdne68444:0
+    __date: 2016-09-09
+    __color: white
+    __icon: fileCode
+    __link: /blog/2016-09-09-code-is-law
+    text: crwdns68454:0crwdne68454:0
+  gasReprice:
+    title: crwdns68456:0crwdne68456:0
+    __block: 2,500,000
+    __date: 2016-10-24
+    __color: blue
+    __icon: angleDoubleUp
+    __link: /blog/2016-10-17-gas-reprice-hard-fork
+    text: crwdns68468:0crwdne68468:0
+  etcMonetaryPolicy:
+    title: crwdns68470:0crwdne68470:0
+    __date: 2016-11-01
+    __color: green
+    __icon: handHoldingUsd
+    __link: https://www.reddit.com/r/EthereumClassic/comments/5cm582/monetary_policy_update/
+    text: crwdns68480:0crwdne68480:0
+  grothendieckTeam:
+    title: crwdns68482:0crwdne68482:0
+    __date: 2016-12-11
+    __color: white
+    __icon: userNinja
+    __link: /blog/2016-12-12-TeamGrothendieck/
+    text: crwdns68492:0crwdne68492:0
+  dieHardUpgrade:
+    title: crwdns68494:0crwdne68494:0
+    __block: 3,000,000
+    __date: 2017-01-13
+    __color: blue
+    __icon: bomb
+    __link: https://www.reddit.com/r/EthereumClassic/comments/5nt4qm/diehard_etc_protocol_upgrade_successful_nethash/
+    text: crwdns68506:0crwdne68506:0
+  etcDEVTeamAnnouncement:
+    title: crwdns68508:0crwdne68508:0
+    __date: 2017-02-20
+    __color: white
+    __icon: userNinja
+    __link: https://www.etcdevteam.com/
+    text: crwdns68518:0crwdne68518:0
+  monetaryPolicyAdopted:
+    title: crwdns68520:0crwdne68520:0
+    __date: 2017-03-01
+    __color: green
+    __icon: handHoldingUsd
+    __link: https://www.etcdevteam.com/blog/articles/a-joint-statement-ecip1017.html
+    text: crwdns68530:0crwdne68530:0
+  etcInvestmentFund:
+    title: crwdns68532:0crwdne68532:0
+    __date: 2017-03-01
+    __color: green
+    __icon: userTie
+    __link: https://grayscale.co/ethereum-classic-investment-thesis-march-2017/
+    text: crwdns68542:0crwdne68542:0
+  etcCommonwealth:
+    title: crwdns68544:0crwdne68544:0
+    __date: 2017-07-22
+    __color: white
+    __icon: userNinja
+    __link: /blog/2017-07-23-development-boost/
+    text: crwdns68554:0crwdne68554:0
+  mantis-Launch:
+    title: crwdns68556:0crwdne68556:0
+    __date: 2017-08-08
+    __color: blue
+    __icon: codeBranch
+    __link: https://iohk.io/en/blog/posts/2017/08/08/mantis-ethereum-classic-beta-release/
+    text: crwdns68566:0crwdne68566:0
+  etcCoop:
+    title: crwdns68568:0crwdne68568:0
+    __date: 2017-09-01
+    __color: white
+    __icon: userNinja
+    __link: https://etccooperative.org/
+    text: crwdns68578:0crwdne68578:0
+  etcSummitHK:
+    title: crwdns68580:0crwdne68580:0
+    __date: 2017-11-12
+    __color: purple
+    __icon: users
+    __link: /blog/2017-11-11-whos-talking-at-the-classic-summit
+    text: crwdns68590:0crwdne68590:0
+  gothamUpgrade:
+    title: crwdns68592:0crwdne68592:0
+    __block: 5,000,000
+    __date: 2017-12-11
+    __color: blue
+    __icon: angleDoubleUp
+    __link: /blog/2017-12-11-gotham-hard-fork-upgrade-5m20-era2
+    text: crwdns68604:0crwdne68604:0
+  era2:
+    title: crwdns68606:0crwdne68606:0
+    __block: 5,000,001
+    __date: 2017-12-11
+    __color: green
+    __icon: coins
+    __link: /blog/2017-12-11-gotham-hard-fork-upgrade-5m20-era2
+    text: crwdns68618:0crwdne68618:0
+  multi-Geth-Launch:
+    title: crwdns68620:0crwdne68620:0
+    __date: 2018-04-08
+    __color: blue
+    __icon: codeBranch
+    __link: https://www.reddit.com/r/EthereumClassic/comments/88y77k/multigeth_a_goethereum_client_with_support_of/
+    text: crwdns68630:0crwdne68630:0
+  defuseDifficultyBomb:
+    title: crwdns68632:0crwdne68632:0
+    __block: 5,900,000
+    __date: 2018-05-29
+    __color: blue
+    __icon: bomb
+    __link: /blog/2018-05-29-defuse-difficulty-bomb-hard-fork-upgrade
+    text: crwdns68644:0crwdne68644:0
+  etclabs:
+    title: crwdns68646:0crwdne68646:0
+    __date: 2018-06-01
+    __color: white
+    __icon: userNinja
+    __link: https://etclabs.org/
+    text: crwdns68656:0crwdne68656:0
+  kotti:
+    title: crwdns68658:0crwdne68658:0
+    __date: 2018-09-08
+    __color: blue
+    __icon: rocket
+    __link: https://cryptodaily.co.uk/2018/11/What-is-Ethereum-Classics-Project-Goerli
+    text: crwdns68668:0crwdne68668:0
+  etcSummitSeoul:
+    title: crwdns68670:0crwdne68670:0
+    __date: 2018-09-12
+    __color: purple
+    __icon: users
+    __link: https://etcsummit.com/
+    text: crwdns68680:0crwdne68680:0
+  coinbase:
+    title: crwdns68682:0crwdne68682:0
+    __date: 2018-10-01
+    __color: green
+    __icon: chartLine
+    text: crwdns68690:0crwdne68690:0
+  etcLabsIncubator:
+    title: crwdns68692:0crwdne68692:0
+    __date: 2018-10-25
+    __color: white
+    __icon: userNinja
+    __link: https://etclabs.org/
+    text: crwdns68702:0crwdne68702:0
+  51Attack:
+    title: crwdns68704:0crwdne68704:0
+    __date: 2019-01-08
+    __color: red
+    __icon: unlink
+    __link: https://medium.com/@slowmist/the-analysis-of-etc-51-attack-from-slowmist-team-728596d76ead
+    text: crwdns68714:0crwdne68714:0
+  51AttackReturn:
+    title: crwdns68716:0crwdne68716:0
+    __date: 2019-01-13
+    __color: white
+    __icon: userSecret
+    __link: https://www.cryptoglobe.com/latest/2019/01/ethereum-classic-51-attackers-return-100000-to-crypto-exchange-gate-io/
+    text: crwdns68726:0crwdne68726:0
+  atlantisConsensus:
+    title: crwdns68728:0crwdne68728:0
+    __date: 2019-06-20
+    __color: white
+    __icon: fileCode
+    __link: /blog/2019-06-20-core-devs-call-atlantis-final-call/
+    text: crwdns68738:0crwdne68738:0
+  atlantisUpgrade:
+    title: crwdns68740:0crwdne68740:0
+    __block: 8,772,000
+    __date: 2019-09-12
+    __color: blue
+    __icon: angleDoubleUp
+    __link: /blog/2019-09-12-atlantis-hard-fork-upgrade/
+    text: crwdns68752:0crwdne68752:0
+  etcSummitVancouver:
+    __date: 2019-10-03
+    title: crwdns68756:0crwdne68756:0
+    __color: purple
+    __icon: users
+    __link: https://etcsummit.com/
+    text: crwdns68764:0crwdne68764:0
+  mordorLaunch:
+    title: crwdns68766:0crwdne68766:0
+    __date: 2019-10-04
+    __color: blue
+    __icon: rocket
+    __link: /blog/2019-10-04-mordor-testnet-launch/
+    text: crwdns68776:0crwdne68776:0
+  besu-ETC-Support:
+    title: crwdns68778:0crwdne68778:0
+    __date: 2019-11-12
+    __color: blue
+    __icon: codeBranch
+    __link: https://github.com/hyperledger/besu/pull/177
+    text: crwdns68788:0crwdne68788:0
+  aztlanConsensus:
+    title: crwdns68790:0crwdne68790:0
+    __date: 2019-12-05
+    __color: white
+    __icon: fileCode
+    __link: /blog/2019-12-05-core-devs-call-ecip-1061-aztlan-upgrade-yingchun/
+    text: crwdns68800:0crwdne68800:0
+  aghartaConsensus:
+    title: crwdns68802:0crwdne68802:0
+    __date: 2019-12-12
+    __color: white
+    __icon: fileCode
+    __link: /blog/2019-12-12-core-devs-call-agharta-final-call/
+    text: crwdns68812:0crwdne68812:0
+  aghartaUpgrade:
+    title: crwdns68814:0crwdne68814:0
+    __block: 9,573,000
+    __date: 2020-01-11
+    __color: blue
+    __icon: angleDoubleUp
+    __link: /blog/2020-01-11-agharta-hard-fork-upgrade/
+    text: crwdns68826:0crwdne68826:0
+  core-Geth-Launch:
+    title: crwdns68828:0crwdne68828:0
+    __date: 2020-02-03
+    __color: blue
+    __icon: codeBranch
+    __link: https://github.com/etclabscore/core-geth/releases
+    text: crwdns68838:0crwdne68838:0
+  phoenixFixConsensus:
+    title: crwdns68840:0crwdne68840:0
+    __date: 2020-02-05
+    __color: white
+    __icon: fileCode
+    __link: /blog/2020-02-05-core-devs-call-ecip-1078-phoenix-fix/
+    text: crwdns68850:0crwdne68850:0
+  ecip1050-Status-Codes:
+    title: crwdns68852:0crwdne68852:0
+    __date: 2020-02-12
+    __color: white
+    __icon: fileCode
+    __link: https://ecips.ethereumclassic.org/ECIPs/ecip-1050
+    text: crwdns68862:0crwdne68862:0
+  aztlanBugs:
+    title: crwdns68864:0crwdne68864:0
+    __date: 2020-02-20
+    __color: orange
+    __icon: bug
+    __link: https://gist.github.com/meowsbits/ddf54e7cb225e7f89b3ed0b7d92b8a37
+    text: crwdns68874:0crwdne68874:0
+  aztlanRejected:
+    title: crwdns68876:0crwdne68876:0
+    __date: 2020-02-26
+    __color: orange
+    __icon: timesCircle
+    __link: https://github.com/ethereumclassic/ECIPs/pull/297
+    text: crwdns68886:0crwdne68886:0
+  phoenixConsensus:
+    title: crwdns68888:0crwdne68888:0
+    __date: 2020-02-20
+    __color: white
+    __icon: fileCode
+    __link: /blog/2020-02-26-core-devs-call-phoenix-upgrade-from-scratch
+    text: crwdns68898:0crwdne68898:0
+  phoenixMordor:
+    title: crwdns68900:0crwdne68900:0
+    __date: 2020-03-09
+    __color: white
+    __icon: codeBranch
+    __link: https://expedition.dev/?network=mordor
+    text: crwdns68910:0crwdne68910:0
+  era3:
+    title: crwdns68912:0crwdne68912:0
+    __block: 10,000,001
+    __date: 2020-03-17
+    __color: green
+    __icon: coins
+    __link: /blog/2020-03-17-5m20-era3-block-reward-reduction/
+    text: crwdns68924:0crwdne68924:0
+  phoenixKotti:
+    title: crwdns68926:0crwdne68926:0
+    __date: 2020-04-15
+    __color: white
+    __icon: codeBranch
+    __link: https://expedition.dev/?network=kotti
+    text: crwdns68936:0crwdne68936:0
+  phoenixUpgrade:
+    title: crwdns68938:0crwdne68938:0
+    __block: 10,500,839
+    __date: 2020-06-01
+    __color: blue
+    __icon: angleDoubleUp
+    __link: /blog/2020-06-01-phoenix-hard-fork-upgrade/
+    text: crwdns68950:0crwdne68950:0
+  client-Deprecation-Attacks:
+    title: crwdns68952:0crwdne68952:0
+    __date: 2020-07-20
+    __color: red
+    __icon: faExclamationTriangle
+    __link: https://www.coindesk.com/openethereum-supported-50-of-ethereum-classic-now-its-leaving-the-project
+    text: crwdns68962:0crwdne68962:0
+  51Attack2:
+    title: "crwdns68964:0crwdne68964:0"
+    __date: 2020-07-31
+    __color: red
+    __icon: unlink
+    __link: https://blog.bitquery.io/ethereum-classic-51-chain-attack-july-31-2020
+    text: crwdns68974:0crwdne68974:0
+  51Attack3:
+    title: "crwdns68976:0crwdne68976:0"
+    __date: 2020-08-06
+    __color: red
+    __icon: unlink
+    __link: https://blog.bitquery.io/ethereum-classic-attack-8-august-catch-me-if-you-can
+    text: crwdns68986:0crwdne68986:0
+  51Attack4:
+    title: "crwdns68988:0crwdne68988:0"
+    __date: 2020-08-29
+    __color: red
+    __icon: unlink
+    __link: https://twitter.com/etherchain_org/status/1299822510607917056
+    text: crwdns68998:0crwdne68998:0
+  messClientFunctionality:
+    title: crwdns69000:0crwdne69000:0
+    __block: 11,380,000
+    __date: 2020-10-10
+    __color: blue
+    __icon: angleDoubleUp
+    __link: /blog/2020-10-10-mess-client-upgrade
+    text: crwdns69012:0crwdne69012:0
+  thanosMordor:
+    title: crwdns69014:0crwdne69014:0
+    __date: 2020-10-19
+    __color: white
+    __icon: codeBranch
+    __link: https://expedition.dev/?network=mordor
+    text: crwdns69024:0crwdne69024:0
+  thanosUpgrade:
+    title: crwdns69026:0crwdne69026:0
+    __block: 11,700,000
+    __date: 2020-11-28
+    __color: blue
+    __icon: angleDoubleUp
+    __link: /blog/2020-11-27-thanos-hard-fork-upgrade/
+    text: crwdns69038:0crwdne69038:0
+  etchash:
+    title: crwdns69040:0crwdne69040:0
+    __block: 11,700,000
+    __date: 2020-11-28
+    __color: green
+    __icon: cubes
+    __link: /blog/2020-11-27-thanos-hard-fork-upgrade/
+    text: crwdns69052:0crwdne69052:0
+  manis-ETC-Stupport:
+    title: crwdns69054:0crwdne69054:0
+    __date: 2020-12-09
+    __color: blue
+    __icon: codeBranch
+    __link: https://github.com/input-output-hk/mantis/releases
+    text: crwdns69064:0crwdne69064:0
+  gethBugs:
+    title: crwdns69066:0crwdne69066:0
+    __date: 2021-09-03
+    __color: red
+    __icon: bug
+    __link: 'https://coin.fyi/news/ethereum-classic/ethereum-classic-chain-split-announcement-sept-03-2021-phlz4r#!'
+    text: crwdns69076:0crwdne69076:0
+  lcetcc:
+    title: crwdns69078:0crwdne69078:0
+    __date: 2021-09-04
+    __color: green
+    __icon: pen
+    __link: https://ethereumclassicclassic.org
+    text: crwdns69088:0crwdne69088:0
+  treasuryDebate:
+    title: crwdns69090:0crwdne69090:0
+    __date: 2021-09-20
+    __color: orange
+    __icon: timesCircle
+    __link: https://etccooperative.org/posts/2021-09-20-withdraws-support-for-ecip-1098
+    text: crwdns69100:0crwdne69100:0
+  magnetoUpgrade:
+    title: crwdns69102:0crwdne69102:0
+    __block: 13,189,133
+    __date: 2021-07-23
+    __color: blue
+    __icon: angleDoubleUp
+    __link: https://ecips.ethereumclassic.org/ECIPs/ecip-1103
+    text: crwdns69114:0crwdne69114:0
+  mystiqueUpgrade:
+    title: crwdns69116:0crwdne69116:0
+    __block: 14,525,000
+    __date: 2022-02-12
+    __color: blue
+    __icon: angleDoubleUp
+    __link: /blog/2022-01-19-mystique-hard-fork
+    text: crwdns69128:0crwdne69128:0
+  etcFlood:
+    title: crwdns69130:0crwdne69130:0
+    __dateText: The Ethashrate Flood
+    __date: 2022-03-18
+    __color: green
+    __icon: cubes
+    __link: /blog/2022-03-18-etc-welcomes-ethash-miners
+    text: crwdns69142:0crwdne69142:0
+  etcdao:
+    title: crwdns69144:0crwdne69144:0
+    __date: 2022-04-11
+    __color: white
+    __icon: userNinja
+    __link: https://ethereumclassic.com/roadmap
+    text: crwdns69154:0crwdne69154:0
+  era4:
+    title: crwdns69156:0crwdne69156:0
+    __block: 15,000,001
+    __date: 2022-04-25
+    __color: green
+    __icon: coins
+    __link: https://etcis.money
+    text: crwdns69168:0crwdne69168:0
+  sha3Withdrawn:
+    title: crwdns69170:0crwdne69170:0
+    __date: 2022-05-20
+    __color: orange
+    __icon: timesCircle
+    __link: https://github.com/ethereumclassic/ECIPs/pull/486
+    text: crwdns69180:0crwdne69180:0
+  etcswap:
+    title: crwdns69182:0crwdne69182:0
+    __date: 2022-06-18
+    __color: green
+    __icon: rocket
+    __link: https://etcswap.org
+    text: crwdns69192:0crwdne69192:0
+  vitalikEndorsesETC:
+    title: crwdns69194:0crwdne69194:0
+    __date: 2022-07-22
+    __color: purple
+    __icon: bullhorn
+    __link: /blog/2022-07-22-vitalik-buterin-endorses-ethereum-classic
+    text: crwdns69204:0crwdne69204:0
+  antpoolETCDAOTreasuryFund:
+    title: crwdns69206:0crwdne69206:0
+    __date: 2022-07-26
+    __color: green
+    __icon: userTie
+    __link: https://etcdao.co/
+    text: crwdns69216:0crwdne69216:0
+  hashrateSurges:
+    title: crwdns69218:0crwdne69218:0
+    __date: 2022-08-31
+    __color: green
+    __icon: cubes
+    __link: https://coinjournal.net/news/ethereum-classic-etc-hashrate-surges-ahead-of-ethereum-merge/
+    text: crwdns69228:0crwdne69228:0
+  twitter-Account-Capture:
+    title: crwdns69230:0crwdne69230:0
+    __date: 2022-09-05
+    __color: red
+    __icon: dumpsterFire
+    __link: https://twitter.com/EthClassicDAO/status/1566909585163632640
+    text: crwdns69240:0crwdne69240:0
+  ethMerge:
+    title: crwdns69242:0crwdne69242:0
+    __dateText: The Merge
+    __date: 2022-09-15
+    __color: purple
+    __icon: angleDoubleUp
+    __link: https://ethereum.org/en/upgrades/merge/
+    text: crwdns69254:0crwdne69254:0
+  twitter-Account-Rebranded:
+    title: crwdns69256:0crwdne69256:0
+    __date: 2022-10-06
+    __color: red
+    __icon: dumpsterFire
+    __link: https://twitter.com/BobSummerwill/status/1578083922822713344
+    text: crwdns69266:0crwdne69266:0
+  aBrightFuture:
+    title: crwdns69268:0crwdne69268:0
+    __dateText: The Future
+    __color: green
+    __icon: etc
+    __link: /knowledge/roadmap
+    text: crwdns69278:0crwdne69278:0

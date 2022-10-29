@@ -1,0 +1,31 @@
+title: crwdns66570:0crwdne66570:0
+description: crwdns66572:0crwdne66572:0
+__updated: 2022-02-22
+__contribute: 1
+__contributors:
+  - IstoraMandiri
+items:
+  repos:
+    __type: links
+    __showLink: 1
+    items:
+      EthereumClassic:
+        name: crwdns66584:0crwdne66584:0
+        __link: https://github.com/ethereumclassic
+        description: crwdns66588:0crwdne66588:0
+      eth-classic:
+        name: crwdns66590:0crwdne66590:0
+        __link: https://github.com/eth-classic
+        description: crwdns66594:0crwdne66594:0
+      etcLabs:
+        name: crwdns66596:0crwdne66596:0
+        __link: https://github.com/etclabscore
+        description: crwdns66600:0crwdne66600:0
+      website:
+        name: crwdns66602:0crwdne66602:0
+        __link: https://github.com/ethereumclassic/ethereumclassic.github.io
+        description: crwdns66606:0crwdne66606:0
+      awesomeEtc:
+        name: crwdns66608:0crwdne66608:0
+        __link: https://github.com/ethereumclassic/Awesome-ETC
+        description: crwdns66612:0crwdne66612:0

@@ -1,0 +1,103 @@
+title: 以太坊经典
+seo: "一个运行智能合约的去中心化计算平台：完全按照程序运行的应用程序，没有停机、审查或第三方干扰"
+#Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
+metaLocale: en_US
+#Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
+htmlLang: en
+published: 已出版
+updated: 最后更新
+author: 作者
+timeline:
+  chronological: 按时间顺序排列
+  reversed: 推翻
+disclaimers:
+  verify:
+    title: 不要相信，要核实。
+    text: 外部链接是非官方的社区提交。
+  opinion:
+    title: 有意见的内容
+    text: 本页不一定反映所有ETC利益相关者的观点。
+next: 继续阅读
+prev: 上一篇文章
+contribute: 如果您想通过添加或更正本页面的信息来做出贡献，请在 [Discord](https://discord.com/invite/dwxb6nf)上留言，或在 [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io)上创建一个问题。
+contributors: "本页的存在部分归功于以下贡献者。"
+allLanguages: 所有语言
+noResults: 没有结果
+netlify: 本网站由Netlify提供技术支持
+metaMask: 添加ETC到MetaMask
+helpTranslate: 通过帮助翻译本网站来支持ETC!
+noItems: 对不起，这个页面是空的!
+search:
+  box: 搜索
+  noResults: 没有结果...
+  poweredBy: 由Algolia提供
+  generalInfo: 一般信息
+  blogArticles: 博客文章
+  videos: 视频
+  applications: 应用
+  newsLinks: 新闻链接
+  txSearch: 看起来你已经输入了一个Ethereum Classic地址或交易。
+  blockScout: "搜索Blockscout Explorer。"
+  explorers: ...或查看其他一些[区块链探索者]（/network/explorers）。
+##
+## Announcement Banner
+announcement:
+  text: |
+    本网站现在通过机器学习被翻译成多种语言。点击页面右上方的地球仪图标可以改变语言。如果你想帮助纠正翻译，请联系我们!
+  button:
+    text: "帮助翻译"
+## Footer
+signOff: 用`<3`制作的原始以太坊愿景
+socialHilight: ETC社区在Discord上很活跃
+socialItems:
+  discord:
+    name: 纪元
+  discordCoop:
+    name: ETC合作论坛
+  githubOrg:
+    name: Github
+  githubLabs:
+    name: ETC实验室Github
+  reddit:
+    name: 睿迪特（Reddit）公司
+  twitter:
+    name: 推特
+appTypes:
+  finance:
+    name: 金融
+  games:
+    name: 游戏
+  identity:
+    name: 身份
+  interoperability:
+    name: 互操作性
+  nfts:
+    name: NFTs
+  other:
+    name: 其他
+appLinks:
+  homepage: 主页
+  app: 应用网站
+  twitter: 推特
+  github: Github
+newsTypes:
+  news:
+    name: 链接
+  blog:
+    name: 博客
+  application:
+    name: 应用
+    prefix: "应用。 "
+  video:
+    name: 视频
+    prefix: "视频。 "
+## App Modal
+appModal:
+  verifiedContract: 合同
+  openSource: 开放源码
+  audit: 已审计
+  testSuite: 测试套件
+  ipfsFrontend: IPFS前台
+  checkListRating: 不信任检查表水平
+  warning: "**警告：**这个用户提交的应用程序没有经过审查，也不保证安全；使用时风险自负，一定要做自己的研究！***。"
+  added: 添加
