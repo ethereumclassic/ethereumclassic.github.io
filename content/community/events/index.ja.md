@@ -1,41 +1,41 @@
 ---
 updated: 2022-02-22
 contribute: true
-title: Events
-seo: An overview of real world and virtual Ethereum Classic related events. ETC Summit and the weekly Community Call are welcome to all!
+title: イベント情報
+seo: 現実世界と仮想世界のイーサリアムクラシック関連イベントを紹介します。 ETCサミットと週1回のコミュニティコールは、どなたでもご参加いただけます。
 contributors:
   - IstoraMandiri
   - bobsummerwill
 ---
 
-Magic happens when people come together and share ideas, and participants throughout the ETC community have spontaneously organized to form real life and online gatherings to focus their attention on improving Ethereum Classic.
+魔法は人々が集まり、アイデアを共有することで生まれます。ETCコミュニティの参加者は、自発的に現実とオンラインの集まりを形成し、Ethereum Classicの改善に注意を集中させています。
 
-## Community Calls
+## コミュニティ・コール
 
-Every Thursday, usually at UTC 1500, a group voice chat takes place in the Ethereum Classic [Discord](https://ethereumclassic.org/discord) server. The call is streamed to [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos), but you can also join 1 hour before we go live, at 1400 UTC, to chat off the record in the Green Room.
+毎週木曜日、通常UTC 1500に、Ethereum Classic [Discord](https://ethereumclassic.org/discord) サーバーでグループボイスチャットが行われます。 [](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos)また、ライブ中継の1時間前、1400UTCからグリーンルームでオフレコチャットに参加することも可能です。
 
-Occasionally a special guest will join the chat for Questions and Answers with the community. These calls are usually recorded, and you can find these recordings on the ETC Community Calls [repository](https://github.com/ethereumclassic/community-calls).
+時にはスペシャルゲストがチャットに参加し、コミュニティとのQ&Aを行うこともあります。 これらの通話は通常録音されており、ETC Community Calls [リポジトリ](https://github.com/ethereumclassic/community-calls)で録音を見ることができます。
 
-Everybody, regardless of level of involvement in ETC, is welcome to join this chat and there is usually time available to open the floor to questions if you'd like to bring something up.
+ETCとの関わり方に関わらず、誰でもこのチャットに参加することができ、通常、何かを提起したい場合は、フロアを質問に開放する時間が用意されています。
 
-## ETC Summit
+## ETCサミット
 
-Since Ethereum Classic's inception (barring global travel restrictions), each year an ETC Summit has been held in various cities all over the world.
+Ethereum Classicが誕生して以来（世界的な渡航制限を除けば）、毎年、世界各都市でETCサミットが開催されている。
 
-These in-person conferences allow otherwise internet-only community members to meet and great in the flesh, to better coordinate and hash out ideas, maybe over a drink or two.
+このような対面式の会議では、インターネット上だけのコミュニティーのメンバーが実際に会って、より良い調整をしたり、アイデアを出し合ったり、時にはお酒を飲みながら、素晴らしい時間を過ごすことができます。
 
-Some community members also take the stage and present ideas on a number of topics related to Ethereum Classic.
+また、一部のコミュニティメンバーが登壇し、Ethereum Classicに関連するさまざまなトピックについてアイデアを発表しています。
 
-So far, the following summits have been held:
+これまで、次のようなサミットが開催されています。
 
-- 2019 Vancouver
-- 2018 Seoul
-- 2017 Hong Kong
+- 2019年バンクーバー
+- 2018 ソウル
+- 2017年 香港
 
-Videos of the presentations are available under the [Videos > Conferences](/videos/conferences) section.
+プレゼンテーションの動画は、 [Videos > Conferences](/videos/conferences) のセクションでご覧いただけます。
 
-## Core Dev Calls
+## コア・デベロッパー・コール
 
-The ETC Core Devs Call is a technical discussion call for developers working on the Ethereum Classic clients and/or ECIP process.
+ETC Core Devs Callは、Ethereum Classicクライアントおよび/またはECIPプロセスに携わる開発者向けの技術的なディスカッションコールです。
 
-These calls have no set schedule, but occur fairly frequently throughout the year. Proposed calls are announced in the form of GitHub issues in the [ECIPs repo](https://github.com/ethereumclassic/ECIPs/issues?q=is%3Aissue+Devs+Call).
+この呼び出しは、スケジュールは決まっていませんが、年間を通じてかなり頻繁に行われます。 提案されたコールは、 [ECIPs レポ](https://github.com/ethereumclassic/ECIPs/issues?q=is%3Aissue+Devs+Call)の GitHub issue の形で発表されます。
