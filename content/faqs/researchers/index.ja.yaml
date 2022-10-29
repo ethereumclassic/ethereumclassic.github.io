@@ -10,7 +10,7 @@ items:
         answer: |
           イーサリアムクラシックは、誰もが許可なく分散型アプリケーションを構築、展開、使用することができるProof of Workスマートコントラクトブロックチェーンです。イーサリアムクラシックは、中央の組織委員会を通さずに世界中の人々によって構築された草の根オープンソースプロジェクトです。
 
-          哲学的には、ETCはビットコインと似ており、分散化、検閲への抵抗、健全な貨幣という理想を大切にしています。技術的には、EVM（Ethereum Virtual Machine）を運用するEthereumと似ている。
+          哲学的には、ETCはビットコインと似ており、分散化、検閲への抵抗、健全な貨幣という理想を大切にしています。技術的には、EVM(Ethereum Virtual Machine)を運用するEthereumと似ている。
 
           この2つのアプローチを組み合わせることで、イーサリアムクラシックは、スマートコントラクトの柔軟性と革新性と共に、サイファーパンクの理想に根ざした強力な分散主義の基盤を提供し、独自の地位を確立しているのである。
       overview:
@@ -18,9 +18,9 @@ items:
         answer: |
           いいえ、実はイーサリアムはイーサリアムクラシックのフォークなのです。
 
-          2014年、 [Ethereum]（https://ethereum.org/what-is-ethereum/）の創設者たちは、一般的で信頼最小限のスマートコントラクトプラットフォームを実装するという野望を持った次世代ブロックチェーンに取り組み始めました。
+          2014年、 [Ethereum](https://ethereum.org/what-is-ethereum/)の創設者たちは、一般的で信頼最小限のスマートコントラクトプラットフォームを実装するという野望を持った次世代ブロックチェーンに取り組み始めました。
 
-          2016年、物議を醸したハードフォークを経て、新しいコンセンサスルールを持つ新しいネットワークを産み出すことで、プロトコルの新バージョン（現在はイーサリアムとして知られています）が開始されました。Ethereum Classicは、「Build Unstoppable Applications」というOriginal Ethereum Visionを継続することを使命とし、フォークしないプロトコルを踏襲し続けました。
+          2016年、物議を醸したハードフォークを経て、新しいコンセンサスルールを持つ新しいネットワークを産み出すことで、プロトコルの新バージョン(現在はイーサリアムとして知られています)が開始されました。Ethereum Classicは、「Build Unstoppable Applications」というOriginal Ethereum Visionを継続することを使命とし、フォークしないプロトコルを踏襲し続けました。
       eth:
         question: Ethereum ClassicとEthereumの違いは何ですか？
         answer: |
@@ -34,7 +34,7 @@ items:
         answer: |
           EthereumはEthereum Classicのフォークであるため、Ethereum [Whitepaper](https://ethereum.org/en/whitepaper/) や [Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) などの先行ドキュメントを含め、2016年までの歴史は両プロジェクトで共通である。
 
-          イーサリアムとの分裂後、ETCの支持者は哲学の違いを詳細に記した文書を多数発表し、それがイーサリアムクラシックプロジェクトのDNAの一部となったのです。Ethereum Classicの設立文書については、 [foundation]（/knowledge/foundation）セクションで詳しく説明されています。
+          イーサリアムとの分裂後、ETCの支持者は哲学の違いを詳細に記した文書を多数発表し、それがイーサリアムクラシックプロジェクトのDNAの一部となったのです。Ethereum Classicの設立文書については、 [foundation](/knowledge/foundation)セクションで詳しく説明されています。
       roadmap:
         question: イーサリアムクラシックのロードマップはどこで見ることができますか？
         answer: |
@@ -60,7 +60,7 @@ items:
         answer: |
           分散化は、"Code is Law "の前提条件である。参加者が公平な立場で活動できるようにし、ブロックチェーン技術の根本的な価値を解き放つものです。多くのブロックチェーン・プロジェクトは、その主張とは裏腹に、十分に分散化されていないため、捕捉や検閲の影響を受けやすくなっています。
 
-          これについては、 [decentralism]（/why-classic/decentralism）セクションで詳しく解説しています。
+          これについては、 [decentralism](/why-classic/decentralism)セクションで詳しく解説しています。
       who:
         question: Ethereum Classic Projectの責任者は誰ですか？
         answer: |
@@ -80,7 +80,7 @@ items:
         answer: |
           ネットワークモニター](/network/monitors)や[ブロックチェーンエクスプローラー](/network/explorers)では、ETCの健全性や状態に関する情報を確認できるほか、各種 [exchanges](/services/exchanges) で価格情報を確認することができます。
 
-          特筆すべきは、 [etc-network.info]（https://etc-network.info/）というサイトが、多くのモニターサービスを保持していることです。
+          特筆すべきは、 [etc-network.info](https://etc-network.info/)というサイトが、多くのモニターサービスを保持していることです。
       news:
         question: ETCの最新情報を入手するにはどうしたらいいですか？
         answer: |

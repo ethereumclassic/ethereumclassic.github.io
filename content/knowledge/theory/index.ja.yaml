@@ -20,7 +20,7 @@ items:
         name: PhyroによるETCの歴史の振り返り
         description: |
           ETCを長く使っている人による、ETCの裏話を詳しく紹介しています。
-          *ETCの歴史については、 [roadmap]（/knowledge/roadmap）でも読むことができます。*
+          *ETCの歴史については、 [roadmap](/knowledge/roadmap)でも読むことができます。*
       /blog/2016-12-06-why/:
         name: なぜ、WWWではなく、Ethereum / Classic上でアプリケーションを実行することを選ぶのでしょうか？
         description: ワールドワイドウェブを超えるメリット

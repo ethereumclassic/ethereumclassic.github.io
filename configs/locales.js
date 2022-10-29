@@ -3,6 +3,7 @@
 const enabled = true;
 const defaultLocale = "en";
 const dev = process.env.GATSBY_I18N_DEV;
+
 const locales = {
   en: {
     name: "English",
@@ -21,7 +22,7 @@ const locales = {
   },
   es: {
     name: "Español",
-    enabled: false,
+    enabled: true,
     dayJsImport: "es",
   },
   fr: {
@@ -35,7 +36,7 @@ const locales = {
   },
   ja: {
     name: "日本語",
-    enabled: false,
+    enabled: true,
     dayJsImport: "ja",
   },
   ko: {
@@ -53,6 +54,7 @@ const locales = {
   },
   th: {
     name: "ภาษาไทย",
+    enabled: true,
   },
   tr: {
     name: "Türk",

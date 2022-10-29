@@ -4,7 +4,7 @@ seo: 暗号通貨のマイニングにEthereum Classicが長期的に最適な�
 updated: 2022-02-22
 ---
 
-イーサリアムのProof of Stakeへの移行が間近に迫っており、また最近、Proof of Stake（通称：ESSE）への移行が行われました。 "The Merge "により、Ethereum Classicは最大のProof of Work Smart Contract Platformとなり、以前Ethereumを採掘していた多くのマイナーを受け継ぐことになります。 Ethereum ClassicのハッシュアルゴリズムはETHashとほぼ同じなので、同じハードウェアに対応し、ETCの採掘はETCに対応したマイニングプールに切り替えるだけで済むはずです。
+イーサリアムのProof of Stakeへの移行が間近に迫っており、また最近、Proof of Stake(通称：ESSE)への移行が行われました。 "The Merge "により、Ethereum Classicは最大のProof of Work Smart Contract Platformとなり、以前Ethereumを採掘していた多くのマイナーを受け継ぐことになります。 Ethereum ClassicのハッシュアルゴリズムはETHashとほぼ同じなので、同じハードウェアに対応し、ETCの採掘はETCに対応したマイニングプールに切り替えるだけで済むはずです。
 
 Ethereum Classic は、長期的な [コミットメント](/why-classic/proof-of-work) を Proof of Work に行っています。これは、Unstoppable Applications を構築するための強固な土台となる、試行錯誤の末の合意形成メカニズムです。 この取り組みは偶然ではなく、Proof of Stakeのようなセキュリティのトレードオフを内在する他のメカニズムに対して、意図的に設計を選択したものです。
 

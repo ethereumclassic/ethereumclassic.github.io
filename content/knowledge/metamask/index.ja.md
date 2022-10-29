@@ -16,7 +16,7 @@ https://chainlist.org/en/chain/61 の「Connect-Wallet」をクリックする�
 
 ---
 
-[MetaMask](https://metamask.io) は、ETCやトークンを管理するウォレットとして利用できるほか、対応するアプリケーションとのやり取りも可能です。 この記事では、Ethereum Classic（ETC）ネットワークでMetaMaskの利用を開始する方法を説明します。
+[MetaMask](https://metamask.io) は、ETCやトークンを管理するウォレットとして利用できるほか、対応するアプリケーションとのやり取りも可能です。 この記事では、Ethereum Classic(ETC)ネットワークでMetaMaskの利用を開始する方法を説明します。
 
 また、 [Nifty Wallet](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid?ucbcb=1)は MetaMask のフォークで、ETC をすぐにサポートします。
 
@@ -28,7 +28,7 @@ https://chainlist.org/en/chain/61 の「Connect-Wallet」をクリックする�
 
 ## ステップ2：初期画面の表示
 
-通常の初期画面が表示されます。 この場合、デフォルトのネットワークはイーサリアム（ETH）であり、アカウントは通常通り表示されます。 他のネットワークを利用した場合、最後に利用したネットワークであれば、MetaMaskのロック解除時にデフォルトとして表示されます。
+通常の初期画面が表示されます。 この場合、デフォルトのネットワークはイーサリアム(ETH)であり、アカウントは通常通り表示されます。 他のネットワークを利用した場合、最後に利用したネットワークであれば、MetaMaskのロック解除時にデフォルトとして表示されます。
 
 私の場合、初期ネットワークとしてEthereumが表示され、ETH口座の残高がゼロになりました `0x48c1...EfF3`.
 
@@ -61,8 +61,8 @@ https://chainlist.org/en/chain/61 の「Connect-Wallet」をクリックする�
 - ネットワーク名。追加するネットワークの名前です。
 - 新しいRPCのURL。追加するネットワークRPCのURLです。
 - チェーンID：追加したいネットワークにトランザクションを送信し、指示するためのIDです。
-- Currency Symbol（オプション）。追加するネットワークの通貨記号です。 例えば、「ETH」はイーサリアムのシンボル、「ETC」はイーサリアムクラシックのシンボルです。
-- ブロックエクスプローラーのURL（任意）。MetaMaskはネットワークごとにブロックチェーンエクスプローラーへのリンクがあり、アカウント履歴や新規取引送信、残高などを確認することができますので、ここでは追加したいネットワークのブロックエクスプローラーを追加することになります。
+- Currency Symbol(オプション)。追加するネットワークの通貨記号です。 例えば、「ETH」はイーサリアムのシンボル、「ETC」はイーサリアムクラシックのシンボルです。
+- ブロックエクスプローラーのURL(任意)。MetaMaskはネットワークごとにブロックチェーンエクスプローラーへのリンクがあり、アカウント履歴や新規取引送信、残高などを確認することができますので、ここでは追加したいネットワークのブロックエクスプローラーを追加することになります。
 
 ![ステップ5](./05.png)
 
@@ -73,16 +73,16 @@ https://chainlist.org/en/chain/61 の「Connect-Wallet」をクリックする�
 - ネットワーク名 `イーサリアムクラシック`
 - 新しいRPCのURL： `https://www.ethercluster.com/etc`
 - チェーン ID： `61`
-- 通貨記号（オプション）。 `ETC`
-- ブロックエクスプローラーURL（オプション）： `https://blockscout.com/etc/mainnet/`
+- 通貨記号(オプション)。 `ETC`
+- ブロックエクスプローラーURL(オプション)： `https://blockscout.com/etc/mainnet/`
 
 RPC URL」については、この目的のために [ETC Cooperative](https://etccooperative.org/)が提供するものを使いました。これは、彼らが構築した [Ethercluster](https://ethercluster.com/)という製品に由来するものです。
 
-_[編集部注】Etherclusterは現在， [RIVET](https://rivet.cloud/)によって運営されています。 その他のRPCエンドポイントは、 [network](/network/endpoints) セクションに掲載されています。_
+_[編集部注]Etherclusterは現在， [RIVET](https://rivet.cloud/)によって運営されています。 その他のRPCエンドポイントは、 [network](/network/endpoints) セクションに掲載されています。_
 
 チェーンID」は、ウォレットやノードによるETC取引を運用中のブロックチェーンに送信するためのイーサリアムクラシックネットワークの固有IDであるため、「61」でなければなりません。
 
-シンボル」と「ブロックエクスプローラーURL」は任意ですが、シンボルはネットワークのマーケットシンボルとして広く知られている「ETC」、ブロックチェーンエクスプローラーは私が普段使っている「BlockScout」がおすすめです（ただし、お好みのものを追加することも可能です！）。
+シンボル」と「ブロックエクスプローラーURL」は任意ですが、シンボルはネットワークのマーケットシンボルとして広く知られている「ETC」、ブロックチェーンエクスプローラーは私が普段使っている「BlockScout」がおすすめです(ただし、お好みのものを追加することも可能です！)。
 
 保存」をクリックすると、ETCがMetaMaskに追加されます。
 

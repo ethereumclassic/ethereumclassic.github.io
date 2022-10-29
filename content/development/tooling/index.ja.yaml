@@ -28,7 +28,7 @@ items:
       Eth Fiddle:
         description: スマートコントラクト用のオンラインエディタ。
       EVM-LLVM:
-        description: 開発者は、Solidity以外の広範囲のプログラミング言語（スマートコントラクトにはRust！）を使ってEthereum Virtual Machine（EVM）をターゲットにできるだけでなく、LLVMインフラを中心に構築されたさまざまな開発ツールの恩恵をすぐに受けることができるのです。
+        description: 開発者は、Solidity以外の広範囲のプログラミング言語(スマートコントラクトにはRust！)を使ってEthereum Virtual Machine(EVM)をターゲットにできるだけでなく、LLVMインフラを中心に構築されたさまざまな開発ツールの恩恵をすぐに受けることができるのです。
       Ganache:
         description: テストを実行するための個人用Ethereumブロックチェーン。
       Jade Suite:
@@ -48,9 +48,9 @@ items:
       SOLL:
         description: LLVMコンパイラがついにSolidityに登場します。これを使えば、複数のブロックチェーンVMにまたがるスマートコントラクトを簡単に作成することができます。Ethereum ClassicのEVMとETH 2.0のeWASMは、私たちが最初にサポートするもののうちの1つです。
       Sputnikvm:
-        description: SputnikVMは、Ethereum Virtual Machine（EVM）のオープンソースによるスタンドアロン実装です。Ethereumベースのさまざまなブロックチェーンに対応する効率的でプラグイン可能な仮想マシンとなることを目指しています。
+        description: SputnikVMは、Ethereum Virtual Machine(EVM)のオープンソースによるスタンドアロン実装です。Ethereumベースのさまざまなブロックチェーンに対応する効率的でプラグイン可能な仮想マシンとなることを目指しています。
       Truffle Suite:
-        description: Ethereum Virtual Machine（EVM）を利用したブロックチェーン向けの世界最高水準の開発環境、テストフレームワーク、アセットパイプラインで、開発者の生活をより快適にすることを目的としています。
+        description: Ethereum Virtual Machine(EVM)を利用したブロックチェーン向けの世界最高水準の開発環境、テストフレームワーク、アセットパイプラインで、開発者の生活をより快適にすることを目的としています。
   nodeTools:
     title: ノードのデプロイメント
     description: これらのツールは、実稼働環境向けのノードクラスタの立ち上げや、公開データセットによるデータサイエンスの実行を容易にします。
@@ -60,7 +60,7 @@ items:
       DappNode:
         description: DAppNodeは、ノード、DAppsの実行、P2Pネットワークと経済のホスティングを容易にします。
       Ethercluster:
-        description: Etherclusterは、Ethereum Classic（ETC）とKottiのエンドポイントを無償で提供するオープンソースのEthereum Virtual Machine（EVM）リモートプロシージャコール（RPC）である。
+        description: Etherclusterは、Ethereum Classic(ETC)とKottiのエンドポイントを無償で提供するオープンソースのEthereum Virtual Machine(EVM)リモートプロシージャコール(RPC)である。
       GetBlock:
         description: GetBlockは、主要な暗号通貨のノードへの接続を提供するサービスです。JSON-RPC、REST、WebSocketといったツールをサポートしており、ブロックチェーンとの直接同期を容易にする。自分でノードを動かす必要はなく、このプラットフォームでは、顧客が料金を支払うことなく、フルノードを介してブロックチェーンに接続することができる。
       Google BigQuery:

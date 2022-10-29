@@ -1,6 +1,6 @@
 title: マイナーに関するFAQ
 seo: Ethereum Classic Proof of Workブロックチェーンのマイニングを検討されている方へのよくある質問です。
-info: 'ご質問に対する回答がここで見つかりませんか？ETC コミュニティ [discord](https://ethereumclassic.org/discord) サーバーで質問してみてください。特に、ETC Discord の `#trading` チャンネルが参考になるかもしれません。'
+info: "ご質問に対する回答がここで見つかりませんか？ETC コミュニティ [discord](https://ethereumclassic.org/discord) サーバーで質問してみてください。特に、ETC Discord の `#trading` チャンネルが参考になるかもしれません。"
 description: マイニングをされている方、ETCのマイニングに興味がある方。このページはあなたのためのものです。
 items:
   questions:
@@ -40,7 +40,7 @@ items:
       ethash:
         question: イーサリアムクラシックのマイニングアルゴリズムとは何ですか？
         answer: |
-          Ethereum Classicは、EthereumのETHashの近縁種である [ETCHash]（#TODO）マイニングアルゴリズムを使用しており、DAGサイズが小さくなっています。マージ前のETHの採掘に使用されていたハードウェアは、ETCの採掘にも使用することができる。
+          Ethereum Classicは、EthereumのETHashの近縁種である [ETCHash](#TODO)マイニングアルゴリズムを使用しており、DAGサイズが小さくなっています。マージ前のETHの採掘に使用されていたハードウェアは、ETCの採掘にも使用することができる。
       emission:
         question: イーサリアムクラシックのブロック報酬とは何ですか？
         answer: |
@@ -54,9 +54,9 @@ items:
       asics:
         question: イーサリアムクラシックのマイニングアルゴリズムはASIC耐性があるのか？
         answer: |
-          ETHashはもともと、ASIC（BitcoinのSHA256アルゴリズム用に設計されたものなど）の使用を不可能にする目的で、メモリ難に設計されていました。
+          ETHashはもともと、ASIC(BitcoinのSHA256アルゴリズム用に設計されたものなど)の使用を不可能にする目的で、メモリ難に設計されていました。
 
-          時が経つにつれ、【ASIC耐性などない】ことが分かってきました(#TODO)。最終的には、すべての採掘アルゴリズムが、利益を生むのであれば、チップ設計者がその特定のアルゴリズムのための最適化を考え出すインセンティブを生み出すことになり、それはETHashで起こった（そしてETCHashに継承された）。
+          時が経つにつれ、[ASIC耐性などない]ことが分かってきました(#TODO)。最終的には、すべての採掘アルゴリズムが、利益を生むのであれば、チップ設計者がその特定のアルゴリズムのための最適化を考え出すインセンティブを生み出すことになり、それはETHashで起こった(そしてETCHashに継承された)。
 
           2022年現在、ETCHashはGPUの2倍から6倍のエネルギー効率で採掘できるASICが利用可能で、この傾向は続くと思われます。
       rewards:

@@ -9,7 +9,7 @@ items:
         description: ハードマネー」の特質とイーサリアムクラシックとの関連について、色とりどりの意見を交えながら解説します
       The Ethereum Classic Monetary Policy Explained:
         name: イーサリアムクラシックの通貨政策の説明
-        description: Bitcoinと同様でETHとは異なる、ETCの上限付き通貨政策を示す。ETCの総供給量は今後100年間で199Mから210Mの間の量に収束する。また、5Mブロックごとに20%の新規供給削減（"fifthening"）と、初期ローンチ時の割り当ての経済性についても説明。
+        description: Bitcoinと同様でETHとは異なる、ETCの上限付き通貨政策を示す。ETCの総供給量は今後100年間で199Mから210Mの間の量に収束する。また、5Mブロックごとに20%の新規供給削減("fifthening")と、初期ローンチ時の割り当ての経済性についても説明。
       The Logic of why Ethereum Classic will Rise 1000x in the Medium to Long Term:
         name: イーサリアムクラシックが中長期的に1000倍上昇する理由のロジック
         description: Etherplanは、Ethereum Classic *might*が予見可能な将来において有利なリターンを得ることができる理由を説明しています。
@@ -17,8 +17,8 @@ items:
         name: なぜイーサリアムクラシックは価値があるのか？
         description: Etherplanでは、ETCの価値提案と、このネットワークが "プログラマブル・デジタル・ゴールド "として基本的な価値を持つ理由について検証しています。
       Decentralized Finance (DeFi) on ETC Explained:
-        name: ETCにおける分散型金融（DeFi）の説明
+        name: ETCにおける分散型金融(DeFi)の説明
         description: 富をその所有者がブロックチェーン上に保存し、分散型金融アプリケーションを通じて活用する方法を探る。DeFiは、従来の銀行システムと比較して、参加者の資金に対するはるかに大きなコントロールと透明性を提供します。
       Grayscale Ethereum Classic Trust (ETCG):
         name: グレースケール イーサリアムクラシックトラスト(ETCG)
-        description: グレイスケールのイーサリアムクラシックトラストは、投資家が伝統的な投資手段を通じてETCの値動きにエクスポージャすることを可能にします。ETCGは証券会社を使って株式市場で取引され、退職金口座（IRA/401K）でも保有できる。投資家がETCを購入・保管する際の課題を回避。
+        description: グレイスケールのイーサリアムクラシックトラストは、投資家が伝統的な投資手段を通じてETCの値動きにエクスポージャすることを可能にします。ETCGは証券会社を使って株式市場で取引され、退職金口座(IRA/401K)でも保有できる。投資家がETCを購入・保管する際の課題を回避。

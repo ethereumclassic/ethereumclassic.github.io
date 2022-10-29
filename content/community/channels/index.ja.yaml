@@ -11,15 +11,15 @@ items:
       chat Discord:
         name: Discord (コミュニティ、グローバル)
       chat Discord Coop:
-        name: Discord（ETC生協）
+        name: Discord(ETC生協)
       chat Facebook English:
-        name: フェイスブック（英語）
+        name: フェイスブック(英語)
       chat Facebook Vietnam:
-        name: フェイスブック（ベトナム語）
+        name: フェイスブック(ベトナム語)
       chat Kakao Korea:
         name: カカオ
       chat Slack:
-        name: スラック（英語）
+        name: スラック(英語)
       chat WeChat:
         name: ウィーチャット(中文)
   Development Chat:
