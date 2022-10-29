@@ -19,13 +19,13 @@ You can also find this link at the bottom of every page on this website.
 
 You may also consider [Nifty Wallet](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid?ucbcb=1), a fork of MetaMask that supports ETC out of the box.
 
-## 1. Log Into MetaMask
+## Step 1: Log Into MetaMask
 
 The first step is to log in to unlock your MetaMask.
 
 ![Step 1](./01.png)
 
-## 2. View Initial Screen
+## Step 2: View Initial Screen
 
 You will see your normal initial screen. In this case the default network is Ethereum (ETH) and your account will be shown as usual. As you use other networks, they will show as the default when you unlock your MetaMask if they were the last ones used.
 
@@ -33,7 +33,7 @@ In my case, it shows Ethereum as the initial network, and I have a zero balance 
 
 ![Step 2](./02.png)
 
-## 3. Open the Networks Dropdown Menu
+## Step 3: Open the Networks Dropdown Menu
 
 The next step is to open the networks dropdown menu. You can do this by clicking on the bar where you see the default network.
 
@@ -47,13 +47,13 @@ The “Local Host 8545” would be a connection to an Ethereum node if you were 
 
 ![Step 3](./03.png)
 
-## 4. Select Custom RPC
+## Step 4: Select Custom RPC
 
 So, the next step is to click on “Custom RPC”.
 
 ![Step 4](./04.png)
 
-## 5. View the New Network Form
+## Step 5: View the New Network Form
 
 After selecting “Custom RPC” you will see the form to add a network. It has a security message at the top and five options with empty fields to enter the new network you want to use:
 
@@ -65,7 +65,7 @@ After selecting “Custom RPC” you will see the form to add a network. It has 
 
 ![Step 5](./05.png)
 
-## 6. Enter the Ethereum Classic Network Information
+## Step 6: Enter the Ethereum Classic Network Information
 
 The next step, is to add Ethereum Classic’s specific information. Below is the network data I used:
 
@@ -87,13 +87,13 @@ Click “save” to add ETC to MetaMask.
 
 ![Step 6](./06.png)
 
-## 7. View Ethereum Classic in the Networks Dropdown Menu
+## Step 7: View Ethereum Classic in the Networks Dropdown Menu
 
 Once ETC is added, you will see in the networks dropdown menu that it is added to the list of networks.
 
 ![Step 7](./07.png)
 
-## 8. You May View Your Same Account but on ETC
+## Step 8: You May View Your Same Account but on ETC
 
 If you go to your account, you will notice that it is the same as your ETH account. In my case, it is the same `0x48c1...EfF3` account.
 
@@ -105,13 +105,13 @@ Note also that the ETC network is now the one showing in the networks bar, and t
 
 ![Step 8](./08.png)
 
-## 9. You May Move Back to Ethereum With the Same Account
+## Step 9: You May Move Back to Ethereum With the Same Account
 
 So, as both networks use the same account format you may move back to the Ethereum mainnet and you will be able to see your ETH account with the same number again.
 
 ![Step 9](./09.png)
 
-## 10. You May Move Back to Ethereum Classic With the Same Account
+## Step 10: You May Move Back to Ethereum Classic With the Same Account
 
 To use the ETC network, simply select Ethereum Classic again in the networks dropdown menu where you will see your ETC balances again.
 
