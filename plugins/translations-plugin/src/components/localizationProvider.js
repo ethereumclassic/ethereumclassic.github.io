@@ -10,9 +10,22 @@ import { dev } from "../../../../configs/locales";
 // figure out how to do this dynamically but also work with SSR
 import "dayjs/locale/en";
 import "dayjs/locale/zh";
-import "dayjs/locale/ja";
+import "dayjs/locale/de";
 import "dayjs/locale/es";
+import "dayjs/locale/fr";
+import "dayjs/locale/hr";
+import "dayjs/locale/hi";
+import "dayjs/locale/ja";
+import "dayjs/locale/ko";
 import "dayjs/locale/nl";
+import "dayjs/locale/ru";
+import "dayjs/locale/ar";
+import "dayjs/locale/th";
+import "dayjs/locale/tr";
+import "dayjs/locale/vi";
+import "dayjs/locale/ml";
+import "dayjs/locale/it";
+import "dayjs/locale/el";
 
 dayjs.extend(localizedPlugin);
 

@@ -15,21 +15,17 @@ export default function NewsItem({
 }) {
   const blog = newsType === "blog";
   const {
-    defaultLocale,
     globals: {
       ui: { newsTypes },
     },
   } = useLocalization();
   const type = newsTypes[newsType] || {};
-  const localeLink =
-    link && blog && defaultLocale !== locale ? `/${locale}${link}` : link;
   const LinkComp = link ? Link : "div";
   const colored = !monochrome && blog;
   return (
     <div {...rest}>
       <LinkComp
-        notLocalized={link}
-        to={localeLink}
+        to={link}
         css={[
           tw`block cursor-pointer relative border border-shade-lightest bg-backdrop-light shadow-sm rounded-md overflow-hidden text-shade-darker hover:text-shade-darkest hover:bg-primary-lightest`,
           colored &&
