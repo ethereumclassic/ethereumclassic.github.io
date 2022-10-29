@@ -1,0 +1,24 @@
+items:
+  links:
+    items:
+      Grayscale's ETC Research Report:
+        name: Der ETC-Forschungsbericht von Grayscale
+        description: Der Bericht von Grayscale über das Wertversprechen von Ethereum Classic. Erläutert die Ursprünge von ETH und ETC, die Investitionschance, die ETC als Wertaufbewahrungsmittel bietet, das das Internet der Dinge antreiben kann, und wie eine strategische Allokation in ETC die Effizienz von Anlegerportfolios verbessern kann.
+      etcIsMoney:
+        name: ETC ist Geld
+        description: Eine farbenfrohe und meinungsstarke Erinnerung an die Qualitäten von "hartem Geld" und wie sie sich auf Ethereum Classic beziehen
+      The Ethereum Classic Monetary Policy Explained:
+        name: Die Geldpolitik von Ethereum Classic erklärt
+        description: Legt die gedeckelte Geldpolitik von ETC dar, ähnlich wie bei Bitcoin und anders als bei ETH. Das Gesamtangebot an ETC wird sich im Laufe des nächsten Jahrhunderts auf eine Menge zwischen 199 Mio. und 210 Mio. Blöcken einpendeln. Erläutert auch die Reduzierung des Angebots um 20 % ("Fifthening") alle 5 Mio. Blöcke und die wirtschaftlichen Aspekte der anfänglichen Startzuteilung.
+      The Logic of why Ethereum Classic will Rise 1000x in the Medium to Long Term:
+        name: Die Logik, warum Ethereum Classic mittel- bis langfristig um das 1000-fache ansteigen wird
+        description: Etherplan erklärt, warum Ethereum Classic in absehbarer Zeit günstige Renditen erzielen *könnte*.
+      Why Does Ethereum Classic Have Value?:
+        name: Warum hat Ethereum Classic einen Wert?
+        description: Etherplan untersucht das Wertversprechen von ETC und warum das Netzwerk als "programmierbares digitales Gold" einen fundamentalen Wert hat.
+      Decentralized Finance (DeFi) on ETC Explained:
+        name: Dezentrale Finanzierung (DeFi) auf ETC erklärt
+        description: Erforscht, wie Vermögen von seinem Besitzer auf der Blockchain gespeichert und durch dezentrale Finanzanwendungen genutzt werden kann. DeFi gibt den Teilnehmern im Vergleich zum traditionellen Bankensystem eine weitaus größere Kontrolle und Transparenz über ihre Gelder.
+      Grayscale Ethereum Classic Trust (ETCG):
+        name: Graustufen Ethereum Classic Trust (ETCG)
+        description: Der Ethereum Classic Trust von Grayscale ermöglicht es Anlegern, über ein traditionelles Anlageinstrument an der Preisentwicklung von ETC zu partizipieren. ETCG wird über einen Makler an der Börse gehandelt und kann von Rentenkonten (IRA/401K) gehalten werden. Der Trust vermeidet die Probleme, die Anleger beim Kauf und der Lagerung von ETC haben.

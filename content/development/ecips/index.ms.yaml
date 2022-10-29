@@ -1,0 +1,32 @@
+items:
+  table:
+    number: Nombor
+    author: Pengarang
+    columnItems:
+      title:
+        name: Tajuk
+      author:
+        name: Pengarang
+    items:
+      Delay Difficulty Bomb Explosion:
+        title: Tangguhkan Letupan Bom Kesukaran
+      Long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks:
+        title: Perubahan kos gas jangka panjang untuk operasi berat IO untuk mengurangkan serangan spam transaksi
+      Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule:
+        title: Dasar Monetari dan Pengubahsuaian Akhir kepada Jadual Pelepasan Klasik Ethereum
+      Monetary policy rounding specification:
+        title: Spesifikasi pembulatan dasar monetari
+      Remove Difficulty Bomb:
+        title: Keluarkan Bom Kesukaran
+      Clique proof-of-authority consensus protocol:
+        title: Protokol konsensus bukti kuasa klik
+      Status Codes:
+        title: Kod Status
+      Atlantis EVM and Protocol Upgrades:
+        title: Atlantis EVM dan Peningkatan Protokol
+      Agharta EVM and Protocol Upgrades:
+        title: Agharta EVM dan Peningkatan Protokol
+      Phoenix EVM and Protocol Upgrades:
+        title: Phoenix EVM dan Peningkatan Protokol
+      Calibrate Epoch Duration:
+        title: Kalibrasi Tempoh Zaman

@@ -14,10 +14,10 @@ items:
         answer: 你不需要征求同意就可以加入。只要开始做贡献!
       tasks:
         question: 我可以帮助完成哪些任务？
-        answer: 该项目可能需要你帮助的事情的清单被维护在[Ethereum Classic Volunteer GitHub repository](https://github.com/ethereumclassic/volunteer)。
+        answer: 该项目可能需要你帮助的事情的清单被维护在[Ethereum Classic Volunteer GitHub repository]（https://github.com/ethereumclassic/volunteer）。
       where:
         question: 以太坊经典的支持者大多在哪里活动？
-        answer: 英语的ETC社区主要在 [Discord](https://ethereumclassic.org/discord)上活动。你可以在[社会频道](/community/channels)部分找到其他社区论坛，包括其他语言的论坛。
+        answer: 英语的ETC社区主要在 [Discord]（https://ethereumclassic.org/discord）上活动。你可以在[社会频道](/community/channels)部分找到其他社区论坛，包括其他语言的论坛。
       ecips:
         question: 我如何对Ethereum Classic提出改进建议？
         answer: 要建议协议升级，你可以使用[Ethereum Classic Improvement Proposal](/development/ecips)流程，但值得先与ETC[Social Channels](/community/channels)中的其他社区成员进行头脑风暴。
@@ -35,7 +35,7 @@ items:
         answer: 请查看本网站的[GitHub存储库](https://github.com/ethereumclassic/ethereumclassic.github.io)的说明。
       tweets:
         question: 我怎样才能建议推文呢？
-        answer: "[@eth_classic](https://github.com/ethereumclassic/tweets-eth_classic)和[@ETC_Network](https://github.com/ethereumclassic/tweets-etc_network)Twitter账户接受社区建议的推文。只需将你建议的推文加上标签`#ETCtweets`，它就会被社区在`#ETCtweets`讨论区中审查。"
+        answer: '[@eth_classic](https://github.com/ethereumclassic/tweets-eth_classic)和[@ETC_Network](https://github.com/ethereumclassic/tweets-etc_network)Twitter账户接受社区建议的推文。只需将你建议的推文加上标签`#ETCtweets`，它就会被社区在`#ETCtweets`讨论区中审查。'
       grants:
         question: 我为Ethereum Classic做贡献可以得到报酬吗？
         answer: |

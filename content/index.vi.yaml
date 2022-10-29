@@ -1,0 +1,52 @@
+billboard:
+  text: '%% $$ %% Ethereum'
+  ## must be kind of short, so they fit on the page
+  randomWords:
+    Decentralized: "Phi tập trung"
+    Original: "Nguyên bản"
+    Veracious: "Veracious"
+    Untainted: "Không sơn"
+    Uncensored: "Không bị kiểm duyệt"
+    Untampered: "Chưa được kiểm tra"
+    Immutable: "Bất biến"
+    Sound Money: "Tiền âm thanh"
+    Uncaptured: "Không được thu thập"
+    SovereignGrade: "Cấp chủ quyền"
+    Principled: "Có nguyên tắc"
+    Unstoppable: "Không thể ngăn cản"
+    Proof of Work: "Bằng chứng làm việc"
+    Leaderless: "Không có người lãnh đạo"
+    Antifragile: "Chống phân mảnh"
+    Code is Law: "Luật là luật"
+    Classic: "Cổ điển"
+    Permisionless: "Không được phép"
+## feature
+feature:
+  title: Câu hỏi thường gặp
+  subtitle: Phần mới
+  text: Nhanh chóng tìm thấy câu trả lời bạn đang tìm kiếm bằng cách điều hướng Câu hỏi thường gặp được sắp xếp theo trường hợp sử dụng.
+  button: Các câu hỏi đã được trả lời
+## intro
+intro:
+  title: Xây dựng các ứng dụng không thể ngăn cản
+  content: |
+    Khi các tổ chức đương nhiệm ngày càng bị đe dọa bởi tiềm năng hoang dã của công nghệ blockchain, chỉ những loại tiền điện tử thực sự phi tập trung mới tồn tại được.
+
+    Tồn tại để đáp ứng với sự kiểm duyệt hợp đồng trên chuỗi chị em Ethereum, Classic đã chứng minh khả năng chống lại sự kiểm duyệt của mình đối với tất cả các tỷ lệ cược và cung cấp tầm nhìn Ethereum * nguyên bản * của các ứng dụng * không thể ngăn cản *.
+
+    Bằng cách kết hợp công nghệ của ETH với triết lý của BTC, ETC được định vị duy nhất để trở thành Nền tảng hợp đồng thông minh trong tương lai, khi các chuỗi khác bị xâm phạm hoặc bị chiếm đoạt bởi các lợi ích đặc biệt.
+
+    Chào mừng bạn và xin được mời khám phá quá khứ, hiện tại và tương lai của Ethereum Classic; đó là các nguyên tắc, đề xuất giá trị, cộng đồng và hơn thế nữa - để hiểu * tại sao Cổ điển *.
+  button:
+    text: Tại sao Cổ điển?
+#Headers
+headings:
+  headlines:
+    title: Tiêu đề
+    button: Tất cả tin tức
+  videos:
+    title: Những video mới nhất
+    button: Tất cả video
+  apps:
+    title: Ứng dụng mới nhất
+    button: Tất cả ứng dụng

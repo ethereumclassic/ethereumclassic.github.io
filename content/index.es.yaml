@@ -1,0 +1,52 @@
+billboard:
+  text: El %%$$%% Ethereum
+  ## must be kind of short, so they fit on the page
+  randomWords:
+    Decentralized: "Descentralizado"
+    Original: "Original"
+    Veracious: "Veracious"
+    Untainted: "Untainted"
+    Uncensored: "Sin censura"
+    Untampered: "Untampered"
+    Immutable: "Inmutable"
+    Sound Money: "Dinero Sano"
+    Uncaptured: "No capturado"
+    SovereignGrade: "Grado de soberanía"
+    Principled: "Principios"
+    Unstoppable: "Imparable"
+    Proof of Work: "Prueba de trabajo"
+    Leaderless: "Sin líder"
+    Antifragile: "Antifrágil"
+    Code is Law: "El código es la ley"
+    Classic: "Clásico"
+    Permisionless: "Sin permiso"
+## feature
+feature:
+  title: Preguntas frecuentes
+  subtitle: Nueva sección
+  text: Encuentre rápidamente las respuestas que busca navegando por las Preguntas Frecuentes organizadas por casos de uso.
+  button: Preguntas contestadas
+## intro
+intro:
+  title: Construya aplicaciones imparables
+  content: |
+    A medida que las instituciones tradicionales se ven cada vez más amenazadas por el salvaje potencial de la tecnología blockchain, sólo sobrevivirán las criptomonedas verdaderamente descentralizadas.
+
+    Existiendo en respuesta a la censura de contratos en la cadena hermana Ethereum, Classic ha demostrado su capacidad para resistir la censura contra todo pronóstico, y para ofrecer la visión *original* de Ethereum de aplicaciones *imparables*.
+
+    Combinando la tecnología de ETH con la filosofía de BTC, ETC está en una posición única para ser la plataforma de contratos inteligentes del futuro, ya que otras cadenas se ven comprometidas o capturadas por intereses especiales.
+
+    Bienvenido, y por favor, invítese a descubrir el pasado, el presente y el futuro de Ethereum Classic; sus principios, su propuesta de valor, su comunidad y mucho más - para entender *por qué Classic*.
+  button:
+    text: '¿Por qué clásico?'
+#Headers
+headings:
+  headlines:
+    title: Titulares
+    button: Todas las noticias
+  videos:
+    title: Últimos vídeos
+    button: Todos los vídeos
+  apps:
+    title: Últimas aplicaciones
+    button: Todas las aplicaciones

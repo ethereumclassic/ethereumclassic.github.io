@@ -1,0 +1,240 @@
+learn:
+  name: يتعلم
+  navItems:
+    faqs:
+      name: أسئلة وأجوبة
+      description: الأسئلة المتداولة من قبل مختلف أصحاب المصلحة
+      navItems:
+        users:
+          name: المستخدمون
+          description: هل تريد معرفة كيفية استخدام ETC؟
+        researchers:
+          name: الباحثون
+          description: هل سمعت للتو عن كلاسيك؟
+        investors:
+          name: المستثمرون
+          description: هل أنت مهتم بشراء ETC؟
+        miners:
+          name: عمال المناجم
+          description: هل تحتاج إلى معلومات حول كيفية تعدين ETC؟
+        developers:
+          name: المطورين
+          description: تريد البناء على ETC؟
+        contributors:
+          name: المساهمون
+          description: تريد مساعدة المشروع؟
+    whyClassic:
+      name: لماذا كلاسيك؟
+      description: ابدأ هنا للحصول على معلومات حول سبب وجود Ethereum Classic وعرض القيمة الفريدة
+      navItems:
+        codeIsLaw:
+          name: المدونة هي القانون
+        genesis:
+          name: منشأ
+        decentralism:
+          name: اللامركزية
+        soundMoney:
+          name: يبدو مربحا
+        proofOfWork:
+          name: إثبات العمل
+    #etcVsEth:
+    #__link: /why-classic/etc-vs-eth
+    #name: ETC vs ETH
+    knowledge:
+      name: معرفة
+      description: مزيد من القراءة حول الأسس التي تقوم عليها ETC
+      navItems:
+        foundation:
+          name: مؤسسة
+          description: المبادئ الأساسية التي تشكل القاعدة الفلسفية الصلبة لـ ETC
+        theory:
+          name: نظرية
+          longName: النظرية والبحث
+          description: الغوص بشكل أعمق في منطق Ethereum Classic مع قطع من المجتمع
+        investing:
+          name: الاستثمار
+          longName: موارد المستثمر
+          description: معلومات حول عرض القيمة لـ Ethereum Classic وإمكانية تحقيق مكاسب مرضية
+        forks:
+          name: شوك
+          longName: ترقيات البروتوكول
+          description: تأريخ لـ Hard Forks الماضية والمستقبلية التي أضافت وظائف أو إصلاحات أخطاء إلى ETC
+        history:
+          name: تاريخ
+          longName: التاريخ الكلاسيكي
+          description: جدول زمني لجميع الأحداث الرئيسية في تاريخ Ethereum Classics حتى يومنا هذا
+        future:
+          name: مستقبل
+          longName: فيوتشر كلاسيك
+          description: نظرة عامة على عملية صنع القرار في ETC ، والمكان الذي قد يؤدي فيه إلى البروتوكول
+        metamask:
+          name: ميتامسك
+          longName: استخدام MetaMask مع ETC
+          description: كيفية تكوين MetaMask والبدائل للتفاعل مع dapps
+    videos:
+      name: أشرطة فيديو
+      description: مجموعة من مقاطع الفيديو والبودكاست لإطلاعك على مفاهيم وأحداث ETC
+      navItems:
+        explainers:
+          name: المفسرين
+        discussions:
+          name: مناقشات
+        trading:
+          name: تجارة
+        development:
+          name: تطوير
+        tutorials:
+          name: دروس
+        mining:
+          name: التعدين
+        conferences:
+          name: المؤتمرات
+          navItems:
+            2017:
+              name: 2017 هونغ كونغ
+            2018:
+              name: 2018 سيول
+            2019:
+              name: 2019 فانكوفر
+        other:
+          name: آخر
+#memes:
+#__link: /memes
+#__icon: images
+#name: Memes
+#description: Spreading the good word of ETC involves winning the battle of hearts and minds through the whimsicalities of information warfare
+#navItems:
+#mediaKit:
+#__link: /memes/media-kit
+#name: Media Kit
+#charts:
+#__link: /memes/charts
+#name: Charts
+#etc:
+#__link: /memes/etc
+#name: Etcetera
+play:
+  name: لعب
+  navItems:
+    services:
+      name: خدمات
+      description: التطبيقات والمحافظ والتبادلات التي تتكامل مع ETC ؛ 100٪ غير مدقق ، لذا احترس من شد البساط!
+      navItems:
+        wallets:
+          name: محافظ
+          description: برنامج لتخزين وإدارة ETC و Tokens و NFTs وغيرها من الأصول
+        exchanges:
+          name: التبادلات
+          description: من أين تشتري وتتداول ETC
+        apps:
+          name: تطبيقات
+          longName: التطبيقات والبروتوكول
+          description: النظام البيئي للتطبيقات التي تستفيد من Ethereum Classic
+          navItems:
+            nfts:
+              name: NFTs
+            games:
+              name: ألعاب
+            identity:
+              name: هوية
+            interoperability:
+              name: التوافقية
+            finance:
+              name: تمويل
+            other:
+              name: آخر
+    community:
+      name: تواصل اجتماعي
+      description: إذا كنت تتوق للتواصل مع الأشخاص المهتمين بـ ETC ، فإليك كيفية العثور عليهم
+      navItems:
+        channels:
+          name: القنوات
+          longName: قنوات التواصل الاجتماعي
+          description: قائمة بالحسابات وغرف الدردشة والمنتديات لمناقشة ETC مع الآخرين
+        teams:
+          name: فرق
+          longName: فرق المطورين
+          description: معلومات عن من يعمل على Ethereum Classic
+        events:
+          name: الأحداث
+          description: انضم إلى مجتمع ETC في المناسبات الاجتماعية المنتظمة التي تقام على مدار العام
+    #bounties:
+    #__link: /community/bounties
+    #name: Bounties
+    #dao:
+    #__link: /community/daos
+    #name: DAOs
+    network:
+      name: شبكة الاتصال
+      description: نقاط نهاية RPC ، والمستكشفات ، وشاشات عرض الشبكة ، وموارد أخرى لمن يميلون تقنيًا
+      navItems:
+        endpoints:
+          name: نقاط النهاية
+          longName: نقاط نهاية RPC
+          description: الخدمات العامة والخاصة للتواصل مع شبكة ETC
+        explorers:
+          name: المستكشفون
+          longName: مستكشفات Blockchain
+          description: أدوات لفحص السلسلة للمعاملات والكتل والأفكار الأخرى
+        monitors:
+          name: الشاشات
+          longName: شاشات الشبكة
+          description: أدوات للتحقق من صحة وحالة الشبكة بمقاييس مختلفة
+    #statistics:
+    #__link: /network/statistics
+    #name: Statistics
+    mining:
+      name: التعدين
+      description: ستساعدك متطلبات المجمعات والبرامج والأجهزة في تعدين ETC من أجل المتعة والربح
+      navItems:
+        hardware:
+          name: المعدات
+          description: معلومات حول أفضل نوع من المعدات لاستخدامه في تعدين ETC المربح
+        software:
+          name: برمجة
+          longName: برامج التعدين
+          description: قائمة بالأدوات التي يمكن استخدامها لتعدين ETC على أنظمة تشغيل مختلفة
+        pools:
+          name: حمامات السباحة
+          longName: مجمع التعدين
+          description: يتيح لك الانضمام إلى تجمع التعدين تحقيق الربح على أساس قوة التجزئة بدلاً من الكتل الموجودة
+    develop:
+      name: تطوير
+      description: شبكات الاختبار والأدوات والعملاء ومعلومات حول كيفية المساهمة في بروتوكول ETC نفسه
+      navItems:
+        development:
+          name: خطوط إرشاد
+          longName: دليل المطور
+          description: مجموعة من الكتب التربوية حول كيفية بناء dapps على Ethereum Classic
+        clients:
+          name: العملاء
+          description: برنامج العميل هو العمود الفقري للشبكة ويقوم بتنفيذ بروتوكول ETC
+        testnets:
+          name: تيست نتس
+          description: شبكات للاختبار العام للتطبيقات وترقيات البروتوكول قبل الإنتاج
+        tooling:
+          name: الأدوات
+          longName: أدوات المطور
+          description: يقولون إن العامل جيد مثل أدواته ، لذا تأكد من اختيار أدوات جيدة!
+        repos:
+          name: مستودعات
+          longName: مستودعات جيت
+          description: قائمة من مستودعات المشاريع ذات الصلة بـ Ethereum Classic من أجل متعة المشاهدة
+        ecips:
+          name: ECIPs
+          description: نظرة عامة على مقترحات تحسين Ethereum Classic والمقترحات المعتمدة
+news:
+  name: أخبار
+extra:
+  name: إضافي
+  navItems:
+    news:
+      name: أخبار
+    blog:
+      name: مقالات
+    about:
+      name: حول
+    rss:
+      name: تغذية ار اس اس
+    siteMap:
+      name: خريطة الموقع

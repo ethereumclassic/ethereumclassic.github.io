@@ -1,0 +1,103 @@
+title: Ethereum Classic
+seo: "Một nền tảng máy tính phi tập trung chạy các hợp đồng thông minh: các ứng dụng chạy chính xác như được lập trình mà không có thời gian chết, kiểm duyệt hoặc sự can thiệp của bên thứ ba"
+#Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
+metaLocale: en_US
+#Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
+htmlLang: en
+published: Được phát hành
+updated: Cập nhật mới nhất
+author: Tác giả
+timeline:
+  chronological: Theo niên đại
+  reversed: Đảo ngược
+disclaimers:
+  verify:
+    title: Đừng tin tưởng, hãy xác minh.
+    text: Các liên kết bên ngoài là các đệ trình cộng đồng không chính thức.
+  opinion:
+    title: Nội dung có ý kiến
+    text: Trang này không nhất thiết phản ánh quan điểm của tất cả các bên liên quan đến ETC.
+next: Tiếp tục đọc
+prev: Bài báo trước
+contribute: Nếu bạn muốn đóng góp bằng cách thêm hoặc sửa thông tin vào trang này, vui lòng gửi thông báo trên [Discord](https://discord.com/invite/dwxb6nf) hoặc tạo sự cố trên [GitHub](https://github.com/ethereumclassic /ethereumclassic.github.io)
+contributors: "Trang này tồn tại một phần nhờ vào những người đóng góp sau:"
+allLanguages: Tất cả các ngôn ngữ
+noResults: Ko có kết quả
+netlify: Trang web này được cung cấp bởi Netlify
+metaMask: Thêm ETC vào MetaMask
+helpTranslate: Hỗ trợ ETC bằng cách giúp dịch trang web này!
+noItems: Xin lỗi, trang này trống!
+search:
+  box: Tìm kiếm
+  noResults: Ko có kết quả...
+  poweredBy: Được cung cấp bởi Algolia
+  generalInfo: Thông tin chung
+  blogArticles: Các bài viết trên blog
+  videos: Video
+  applications: Các ứng dụng
+  newsLinks: Liên kết Tin tức
+  txSearch: Có vẻ như bạn đã nhập địa chỉ hoặc giao dịch Ethereum Classic.
+  blockScout: "Tìm kiếm Blockscout Explorer:"
+  explorers: ... hoặc xem một số [trình khám phá blockchain] (/ network / explorers) khác.
+##
+## Announcement Banner
+announcement:
+  text: |
+    Trang web này hiện đã được dịch sang nhiều ngôn ngữ thông qua máy học. Nhấp vào biểu tượng quả địa cầu ở trên cùng bên phải của trang để thay đổi ngôn ngữ. Nếu bạn muốn giúp sửa bản dịch, vui lòng liên hệ với chúng tôi!
+  button:
+    text: "Trợ giúp Dịch"
+## Footer
+signOff: Được tạo bằng `<3` cho Tầm nhìn Ethereum ban đầu
+socialHilight: Cộng đồng ETC đang hoạt động trên Discord
+socialItems:
+  discord:
+    name: Bất hòa
+  discordCoop:
+    name: ETC Coop Discord
+  githubOrg:
+    name: Github
+  githubLabs:
+    name: ETC Labs Github
+  reddit:
+    name: Reddit
+  twitter:
+    name: Twitter
+appTypes:
+  finance:
+    name: Tài chính
+  games:
+    name: Trò chơi
+  identity:
+    name: Xác thực
+  interoperability:
+    name: Khả năng tương tác
+  nfts:
+    name: NFT
+  other:
+    name: Khác
+appLinks:
+  homepage: Trang chủ
+  app: Trang web ứng dụng
+  twitter: Twitter
+  github: Github
+newsTypes:
+  news:
+    name: Liên kết
+  blog:
+    name: Blog
+  application:
+    name: Ứng dụng
+    prefix: "Ứng dụng: "
+  video:
+    name: Video
+    prefix: "Video: "
+## App Modal
+appModal:
+  verifiedContract: Hợp đồng
+  openSource: Mã nguồn mở
+  audit: Được kiểm toán
+  testSuite: Bộ thử nghiệm
+  ipfsFrontend: Giao diện người dùng IPFS
+  checkListRating: Mức độ tin cậy của danh sách kiểm tra
+  warning: "** Cảnh báo: ** Ứng dụng do người dùng gửi này KHÔNG được kiểm duyệt và KHÔNG được đảm bảo là an toàn; tự chịu rủi ro khi sử dụng và luôn tự nghiên cứu!"
+  added: Thêm

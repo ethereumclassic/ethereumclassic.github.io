@@ -1,0 +1,73 @@
+title: Razvojni alati
+seo: Zbirka alata za poboljšanje razvoja aplikacija Ethereum Classic i devops iskustva.
+description: |
+  Ova stranica sadrži popis resursa koji bi mogli biti korisni onima koji razvijaju aplikacije na temelju Ethereum Classica. Svakako provjerite i stranicu [Ethereum.org razvojno okruženje](https://ethereum.org/en/developers/local-environment/) jer mnogi od ovih alata ostaju relevantni pri razvoju za Ethereum Classic.
+items:
+  prices:
+    title: Izvori cijena
+    description: Ove web stranice i API-ji pružaju cijenu ETC-a za korištenje u vašoj aplikaciji.
+  processors:
+    title: Procesori plaćanja
+    description: Ovi se API-ji mogu koristiti za prihvaćanje ETC plaćanja na vašoj web stranici ili aplikaciji.
+  dex:
+    title: Iskustvo u razvoju
+    description: Neiscrpan izbor alata za razvojne programere koji mogu pomoći u razvoju aplikacija Ethereum Classic, uključujući IDE, biblioteke, okvire za testiranje, programe za ispravljanje pogrešaka, *itd.*.
+    items:
+      BUIDL IDE:
+        description: Second State BUIDL IDE je web-based IDE koji ne zahtijeva preuzimanje ili instalaciju softvera. Pruža okruženje za razvoj i implementaciju na jednom mjestu za programere pametnih ugovora i dappa.
+      Dappkit:
+        description: Infrastruktura visokih performansi i biblioteke neovisna o glavnoj knjizi za razvojne programere za izgradnju i skaliranje decentraliziranih aplikacija. Ukratko, kolaborativni Firebase za Dapps.
+      Embark Framework:
+        description: Okvir za decentralizirane aplikacije bez poslužitelja koji koriste Ethereum, IPFS i druge platforme.
+      Emerald Platform:
+        description: Platforma za izgradnju Dapps za ETC blockchain.
+      ESerialize:
+        description: Cilj ovog modula je pružiti jednostavne funkcije za serijalizaciju i deserijalizaciju podataka za Ethereum Stack.
+      Ethereum JSON-RPC API:
+        description: Specifikacija JSON-RPC metoda koje blockchain klijent temeljen na EVM-u mora implementirati.
+      Eth Fiddle:
+        description: Online uređivač za pametne ugovore.
+      EVM-LLVM:
+        description: Ne samo da programeri mogu koristiti veliki broj programskih jezika (Rust za pametne ugovore!) osim Solidityja za ciljanje Ethereum Virtual Machine (EVM), već mogu odmah imati koristi od raznih razvojnih alata izgrađenih oko LLVM infrastrukture.
+      Ganache:
+        description: Osobni Ethereum blockchain za pokretanje testova.
+      Jade Suite:
+        description: Paket alata Jade omogućuje programerima stvaranje peer-to-peer decentraliziranih aplikacija povrh lanaca blokova temeljenih na EVM-u kao što je Ethereum Classic.
+      Mythx:
+        description: MythX je vrhunska usluga sigurnosne analize za Ethereum pametne ugovore. Naša je misija osigurati da razvojni timovi izbjegnu skupe pogreške i učiniti Ethereum sigurnijom i pouzdanijom platformom.
+      Open-RPC:
+        description: Specifikacija OpenRPC definira standardni opis sučelja koji ne ovisi o programskom jeziku za API-je JSON-RPC 2.0.
+      OpenZeppelin:
+        description: Okvir sigurnih pametnih ugovora koji se mogu višekratno koristiti testiran u bitkama.
+      Quorum:
+        description: Quorum je blockchain platforma otvorenog koda koja kombinira inovacije javne Ethereum zajednice s poboljšanjima za podršku potrebama poduzeća.
+      Remix Online IDE:
+        description: Koristan IDE unutar preglednika koji može sastaviti i objaviti pametne ugovore na raznim Ethereum mrežama. Uključuje linter.
+      Signatory:
+        description: Izvanmrežni potpisnik transakcija i poruka za Ethereum Stack.
+      SOLL:
+        description: LLVM kompajler konačno dolazi u Solidity. S njim možemo jednostavno stvoriti pametne ugovore na više blockchain VM-ova. EVM na Ethereum Classic i eWASM ETH 2.0 među prvima su koje podržavamo.
+      Sputnikvm:
+        description: SputnikVM je samostalna implementacija Ethereum Virtual Machine (EVM) otvorenog koda. Cilj mu je biti učinkovit virtualni stroj koji se može priključiti za različite blockchaine temeljene na Ethereumu.
+      Truffle Suite:
+        description: Razvojno okruženje svjetske klase, okvir za testiranje i cjevovod imovine za blockchaine koji koriste Ethereum Virtual Machine (EVM), s ciljem da život programera učini lakšim.
+  nodeTools:
+    title: Raspoređivanje čvora
+    description: Ovi alati olakšavaju okretanje klastera čvorova za proizvodne implementacije ili izvođenje znanosti o podacima s javnim skupovima podataka.
+    items:
+      Bloq Cloud:
+        description: BloqCloud pruža visoko optimiziran, uvijek dostupan pristup blockchain mrežama. Povežite se brzo i lako skalirajte na temelju svojih potreba -- bez brige o upravljanju infrastrukturom.
+      DappNode:
+        description: DAppNode olakšava pokretanje čvorova, DApps i hosting P2P mreža i ekonomija.
+      Ethercluster:
+        description: Ethercluster je otvoreni izvor Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) koji pruža Ethereum Classic (ETC) i Kotti krajnje točke besplatno.
+      GetBlock:
+        description: GetBlock je usluga koja pruža vezu za glavne čvorove kriptovaluta. Podržavaju takve alate kao što su JSON-RPC, REST i WebSockets, što olakšava izravnu sinkronizaciju s blockchainom. Nema potrebe da sami pokrećete čvor, platforma svojim korisnicima omogućuje povezivanje s blockchainom putem punog čvora bez plaćanja naknade.
+      Google BigQuery:
+        description: Google Cloud objavio je skupove podataka koji se sastoje od povijesti transakcija blockchaina za Ethereum Classic, kako bi vam pomogao da bolje razumijete kriptovalutu. Također je uključen skup upita i pogleda koji preslikavaju sve skupove podataka blockchaina u dvostruku strukturu podataka knjige koja omogućuje višelančane meta-analize, kao i integraciju s konvencionalnim sustavima obrade financijskih zapisa.
+      Raspberry Pi Node:
+        description: Detaljan vodič za postavljanje Ethereum Classic čvora na Raspberry Pi.
+      Rivet Cloud:
+        description: Beskonačno skalabilne, visoko dostupne Ethereum i Ethereum Classic krajnje točke koje doista jednostavno rade.
+      QuikNode:
+        description: QuikNodes je jednostavan, uvijek uključen, s brzom internetskom vezom za brzu sinkronizaciju lanca blokova i nikada se ne morate brinuti da će vam ponestati prostora na disku.

@@ -1,6 +1,6 @@
 title: 矿工软件
 seo: 可用于在Ethereum Classic上挖掘加密货币ETC的软件包列表。
-description: "自2020年11月28日起，以太坊经典网络的工作证明采矿算法为 [ETCHash](https://github.com/eth-classic/etchash)。"
+description: "自2020年11月28日起，以太坊经典网络的工作证明采矿算法为 [ETCHash]（https://github.com/eth-classic/etchash）。"
 items:
   table:
     columnItems:

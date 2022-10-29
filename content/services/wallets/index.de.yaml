@@ -1,0 +1,30 @@
+title: Geldbörsen
+seo: Eine Quelle für Web-Wallets, Erweiterungen, Software-Wallets, Hardware-Wallets und andere Möglichkeiten zur Sicherung von ETC.
+description: |
+  Für die Sicherung und Nutzung von ETC stehen viele verschiedene Wallets zur Auswahl. Jede Option bietet ein anderes Gleichgewicht zwischen Sicherheit und Komfort. Bitte recherchieren Sie die beste Option je nach Ihren Anforderungen.
+
+  ## Welche Wallet sollte ich verwenden?
+
+  Die folgenden Vorschläge sind keine Empfehlung und dienen nur dazu, neuen Nutzern zu helfen, schnell eine Option zu finden, die wahrscheinlich für sie geeignet ist.
+
+  - Wenn Sie eine einfache mobile App wünschen, ist [Trust Wallet] (https://trustwallet.com/ethereum-classic-wallet) einfach zu bedienen und unterstützt viele Währungen, einschließlich ETC.
+  - Wenn Sie kleine Beträge von ETC für dezentrale Anwendungen halten wollen, dann versuchen Sie [MetaMask](/guides/metamask) und verbinden Sie es mit Ethereum Classic.
+  - Wenn Sie ETC für Ihr Unternehmen akzeptieren, möchten Sie wahrscheinlich nur ein [exchange](/services/exchanges) Konto einrichten, über das Sie ETC gegen Ihre lokale Währung verkaufen können.
+  - Wenn Sie größere Beträge halten, ist es sehr empfehlenswert, eine [Hardware-Wallet](#hardware-wallets) zu erwerben.
+  - Für fortgeschrittene Anwendungsfälle stellen Sie bitte Ihre eigenen Nachforschungen an und probieren Sie einige der unten aufgeführten Optionen aus.
+items:
+  web:
+    title: Web-Geldbörsen
+    description: Auf diese Web3-Geldbörsen kann über eine Webseite zugegriffen werden. Sie sollten nicht verwendet werden, um große Beträge zu sichern, sondern ermöglichen Ihnen eine einfache Interaktion mit ETC ohne Downloads.
+  browsers:
+    title: Browser-integrierte Geldbörsen
+    description: Diese Web3-Wallets sind in Webbrowser integriert. In der Regel versorgen sie Websites mit Ihren Kontoinformationen, um Ihnen die nahtlose Interaktion mit Ethereum Classic-Dapps in Ihrem Browser zu ermöglichen.
+  hardware:
+    title: Hardware-Geldbörsen
+    description: Hardware-Geldbörsen sind sichere Geldbörsen, die für die langfristige Aufbewahrung konzipiert sind.
+  software:
+    title: Software-Geldbörsen
+    description: Software-Geldbörsen sind Desktop- oder Mobilgeräte, die für die kurzfristige Speicherung konzipiert sind.
+  other:
+    title: Andere Brieftaschenprodukte
+    description: Diese Produkte sind eine Ergänzung zu Krypto-Wallets wie Recovery Seed Storage.

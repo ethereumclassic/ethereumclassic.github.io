@@ -1,0 +1,305 @@
+title: Vremenska traka događaja
+items:
+  frontierRelease:
+    title: Pokretanje Ethereuma
+    text: Vitalik Buterin i Zaklada Ethereum stvaraju prvu platformu za pametne ugovore temeljenu na blockchainu koja se temelji na Turingu s izdanjem Frontier.
+  frontierThawingUpgrade:
+    title: Nadogradnja Frontier Thawing
+    text: Mreža implementira 'Ledeno doba' u bloku 200.000 uvodeći Difficulty Bomb, mehanizam osmišljen za premještanje mrežnog mehanizma konsenzusa s Proof-of-Work na Proof-of-Stake.
+  homesteadUpgrade:
+    title: Nadogradnja domaćinstva
+    text: Homestead je druga velika verzija izdanja platforme Ethereum.
+  slockItCreatesThe Dao:
+    title: Slock.it stvara DAO
+    text: Slock.it konstruira DAO Ethereum ugovor; sigurnosnu reviziju dovršava Dejavu.
+  the DaoCrowdsaleBegins:
+    title: Počinje DAO Crowdsale
+    text: DAO pametni ugovor je implementiran; članovi javnosti šalju mu vrijednost u zamjenu za DAO tokene.
+  securityProposal:
+    title: Sigurnosni prijedlog
+    text: Slock.it najavljuje prijedlog od 1,5 milijuna USD, plaćenih u Etheru od strane skupnog fonda, 'kako bi se zajamčio integritet DAO-a'.
+  moratoriumCalled:
+    title: Pozvani moratorij
+    text: Posljednjeg dana masovne prodaje, DAO kustos Vlad Zamfir poziva na moratorij na DAO, navodeći mnoga sigurnosna pitanja teorije igara.
+  the DaoCrowdsaleEnds:
+    title: Završava DAO Crowdsale
+    text: Crowdsale je postao najveći na svijetu i prikupio je nevjerojatnih 150 milijuna USD.
+  recursiveCallBugDiscovered:
+    title: Otkrivena greška rekurzivnog poziva
+    text: Peter Vessenes javno otkriva postojanje kritične sigurnosne ranjivosti zanemarene u mnogim Solidity ugovorima.
+  noFundsAtRisk:
+    title: Nema sredstava u opasnosti
+    text: Stephan Tual javno tvrdi da su DAO fondovi sigurni unatoč novootkrivenom kritičnom sigurnosnom propustu.
+  the DAOIsHacked:
+    title: DAO je hakiran
+    text: Eter se polako i tiho ispušta iz DAO-a dok se primjenjuje greška ponovnog ulaska.
+  panicHitsTheMarkets:
+    title: Panika pogađa tržišta
+    text: Cijena Ethera je prepolovljena jer Griff Green objavljuje da je DAO hakiran.
+  theCountdownBegins:
+    title: Odbrojavanje počinje
+    text: DAO-ov mehanizam dijeljenja daje oko mjesec dana da se pronađe rješenje koje vraća sredstva; Zaklade i razvojni programeri zajednice utrkuju se u implementaciji soft forka.
+  robinHoodGroupAnnounced:
+    title: Najavljena grupa Robin Hood
+    text: Grupa hakera s 'bijelim šeširima' osigurava 70% DAO sredstava, ali potrebna je radnja na razini protokola kako bi se uštedjelo preostalih 30% koje je podijelio haker.
+  softForkTheDao:
+    title: "DAO ratovi: Soft Fork glasovanje"
+    text: Ethereum Foundation izdaje 'Soft Fork' klijent za cenzuru transakcija koje dolaze od hakera; rudarski bazeni glasaju da to omoguće smanjenjem ograničenja plina.
+  softForkVulnerability:
+    title: Ranjivost soft forka
+    text: Kritični nedostaci uskraćivanja usluge pronađeni su u implementaciji Soft Forka, rudari brzo odluče da ga NE koriste.
+  hardForkDebate:
+    title: Hard Fork debata
+    text: Mnogo dana traje intenzivna rasprava u Ethereum zajednici o prednostima i manama implementacije Hard Forka.
+  hardForkSpecAnnounced:
+    title: Najavljene specifikacije hard forka
+    text: Jedina preostala opcija je kontroverzni Hard Fork. Specifikaciju određuju i objavljuju članovi Slock.it i Ethereum Foundation.
+  lastMinuteCarbonvote:
+    title: Last Minute Carbonvote
+    text: Uz obavijest od 12 sati, Zaklada Ethereum koristi kontroverzno 'glasovanje za novčiće' treće strane kako bi utvrdila da Hard Fork treba biti uključen prema zadanim postavkama; deklariran je konsenzus i objavljen je ažurirani klijent.
+  daoBailoutHardFork:
+    title: DAO Bailout Hard Fork
+    text: S oko 80% čvorova koji se ažuriraju na novog klijenta, zajednica nervozno iščekuje dolazak DAO Bailout fork aktivacijskog bloka 1.920.000.
+  newEthereumIsBorn:
+    title: Novi lanac vilice
+    text: Račvasti lanac je rođen! Zaklada Ethereum stvara izmijenjenu verziju Ethereuma 20. srpnja 2016. kako bi poništila krađu DAO-a. Kao nositelji prava na zaštitni znak, Ethereum Foundation primjenjuje robnu marku Ethereum (ETH) na novi račvani lanac.
+  ethereumRenamedToClassic:
+    title: Originalni lanac bez vilice
+    text: Uz predviđanja da će izvorni neračvasti lanac nestati za nekoliko sati, mnogi su iznenađeni kada otkriju da rudari nastavljaju podržavati izvorni lanac. Bisq i OTC stolovi daju ovim tokenima knjigu narudžbi za otkrivanje cijena. Tržišni sudionici rebrendiraju ovaj ne-fork lanac Ethereum Classic (ETC).
+  missionAccomplished:
+    title: Misija izvršena!
+    text: ETH zajednica odahnula je jer je DAO fork kod uspješno implementiran bez očitih nedostataka; čepovi šampanjca otvaraju se diljem svijeta. Rođenje novog lanca je uspjeh!
+  poloniexListsETC:
+    title: Poloniex popisi ITD
+    text: Najveća Ethereum burza signalizira dugoročnu podršku izvornom lancu, Poloniex navodi ETC. Mnoge razmjene brzo slijede taj primjer.
+  etheriansInDisarray:
+    title: Eterijska fraktura
+    text: Plameni ratovi počinju u subredditovima. Dok ekonomski nabijene oštre prepirke počinju zahvaćati sudionike dok se suočavaju s realnošću razlaza.
+  ethereumClassicsupporters:
+    title: Podržavatelji Ethereum Classica
+    text: Podržavatelji Ethereum Classica odvajaju se od Ethereum subreddita i formiraju vlastite društvene kanale.
+  geth-ETC-Support:
+    title: Geth podržava Ethereum Classic
+    text: Geth objavljuje podršku za Ethereum Classic mrežu. Ovaj čvor ima sav DAO kod uklonjen s klijenta i ne zahtijeva dodatne oznake za korištenje mreže Ethereum Classic.
+  parity-ETC-Support:
+    title: Parity podržava Ethereum Classic
+    text: Paritet signalizira dugoročnu podršku za Ethereum Classic s izdanjem 1.2.3 koje rješava probleme stabilnosti mreže za Ethereum HF i Ethereum Classic lance i donosi nekoliko promjena u API-ju za praćenje transakcija.
+  51Pool:
+    title: 51% Prijetnja napadom
+    text: Pristalice ETH-a formiraju rudarski skup pod nazivom 51Pool.org s planovima da unište ETC mrežu organiziranjem napada od 51%.
+  minerSupport:
+    title: Podrška za rudare ITD
+    text: Nakon što je ETC mreža narasla do točke u kojoj je više nisu mogli napadati, ETH rudari javno izjavljuju da neće napadati ETC. Kako bi spriječili ozljeđivanje nedužnih vlasnika Ethereum Classica, ETHash rudari izdvajaju resurse za rudarenje ETC-a.
+  attackRhg:
+    title: RHG napadi ITD
+    text: Robin Hood Group pokušava na tržište izbaciti veliku količinu ukradenog ETC-a iz DAO forka. Poloniex zamrzava njihova sredstva.
+  classicDeclaresIndependence:
+    title: Classic proglašava neovisnost
+    text: Nakon nemilosrdnih napada s ETH strane lanca koji se razdvojio, pristaše Ethereum Classica čvrsto stoje i proglašavaju svoju neovisnost o novom ETH lancu.
+  classicRebuilds:
+    title: Testiran u bitkama i otporan
+    text: Ethereum Classic dokazuje svoju otpornost na tržišta jer ETC izlazi iz ETH napada sa stabilizirajućom cijenom. Temeljni principi mreže potaknuti su tijekom DAO spašavanja. Navijači počinju obnovu iz pepela.
+  unlockedDaoFunds:
+    title: Otključavanje DAO sredstava na ETC-u
+    text: Milijuni prethodno zaključanih ili zamrznutih ETC-a postaju dostupni vlasnicima DAO tokena i DAO hakerima. Cijena ETC-a se nevjerojatno dobro drži usprkos velikim tržišnim padovima.
+  codeIsLaw:
+    title: Kodeks je zakon
+    text: Tijekom ETH napada, mnogi borbeni pokliči dolaze od pristaša Ethereum Classica. Počinju pojašnjavati svoja temeljna načela i potvrđuju javnosti postojanje ETC mreže.
+  gasReprice:
+    title: Nadogradnja cijene plina
+    text: Obje Ethereum mreže napadnute su zbog ranjivosti u tehnološkom nizu. ETC programeri brzo osiguravaju glatku i nespornu mrežnu nadogradnju kako bi zakrpali iskorištene ranjivosti.
+  etcMonetaryPolicy:
+    title: ETC Monetarna politika
+    text: Pristaše Ethereum Classica raspravljaju o ETC-ovom rasporedu emisija i monetarnoj politici.
+  grothendieckTeam:
+    title: Tim Grothendieck
+    text: IOHK obvezuje tim od 7 programera s punim radnim vremenom na Ethereum Classic
+  dieHardUpgrade:
+    title: Umri muški Nadogradnja
+    text: Ethereum Classic rješava napade ponavljanja i odgađa bombu poteškoće u nadogradnji mreže.
+  etcDEVTeamAnnouncement:
+    title: ETCDEV tim
+    text: Tim dugogodišnjih ETC suradnika i volontera mijenja ime u ETCDEV tim.
+  monetaryPolicyAdopted:
+    title: Konsenzus o monetarnoj politici
+    text: Ethereum Classic formira konsenzus oko monetarne politike s fiksnom kapitalizacijom od 210,7 milijuna ETC s ograničenim rasporedom emisija inspiriranim Bitcoinom nazvanim 5M20; 20% smanjenja nagrade za blok svakih 5 milijuna blokova.
+  etcInvestmentFund:
+    title: ETCG investicijski fond
+    text: Grayscale pokreće prvi kripto fond bez bitcoina koji tradicionalnim ulagačima omogućuje dodavanje ETC-a u njihov portfelj uz sve porezne olakšice tradicionalne investicijske imovine.
+  etcCommonwealth:
+    title: Tim Commonwealtha
+    text: Razvojni tim formira se pod imenom Ethereum Commonwealth.
+  mantis-Launch:
+    title: Lansiranje bogomoljke
+    text: Izdanje ovog beta klijenta, Mantis, održat će se danas i kulminacija je sedam mjeseci rada Grothendieck tima, IOHK programera posvećenih Ethereum Classicu.
+  etcCoop:
+    title: ETC Cooperative Team
+    text: Grayscale signalizira dugoročnu podršku razvoju Ethereum Classic protokola sponzoriranjem tima ETC Cooperative s dijelom njihovih naknada za upravljanje ETCG-om. Donacije neprofitnim organizacijama su odbijene od poreza.
+  etcSummitHK:
+    title: ETC Summit 2017
+    text: Prva godišnja Ethereum Classic konferencija održava se u Hong Kongu.
+  gothamUpgrade:
+    title: Nadogradnja Gothama
+    text: Nadogradnja Gothama uspostavila je predvidljivu monetarnu politiku i raspored emisija inspiriran Bitcoinom. 5M20, nagrada za blok smanjit će se za 20% svakih 5M blokova.
+  era2:
+    title: 5M20 Era 2
+    text: Raspored emisija Ethereum Classic 5M20 ulazi u Eru 2. Nagrade za blokove smanjene su za 20% na 4 ETC po bloku.
+  multi-Geth-Launch:
+    title: Multi-Geth pokretanje
+    text: Pokreće se klijentski projekt Multi-Geth. Ovo je go-ethereum klijent račvan iz verzije Ethereum Foundationa, s ciljem da pomno prati promjene uzvodno i podržava više Ethereum mreža. Upravo smo dodali alfa podršku za Ethereum Classic mrežu.
+  defuseDifficultyBomb:
+    title: Deaktivirajte bombu teškoće
+    text: ETC sigurno onemogućuje bombu za poteškoće kako bi izvorni Ethereum projekt prebacio na PoS. Ethereum Classic signalizira dugoročnu predanost dokazu rada kao mehanizmu mrežnog konsenzusa.
+  etclabs:
+    title: Tim ETC Labsa
+    text: Ethereum Classic Labs osigurava financiranje, industrijske veze i uredski prostor za rastuće ETC projekte; s uredskim prostorom u San Franciscu i Singapuru.
+  kotti:
+    title: Pokreće se Kotti Testnet
+    text: ETC Cooperative financira razvoj Kotti testneta, Proof-of-Authority testneta konstruiranog za pružanje testiranja interoperabilnosti sa sestrinskim ETH-ovim Görli Testnetom. PoA postaje preferirano testnet okruženje za testiranje razvoja dappa.
+  etcSummitSeoul:
+    title: ETC Summit 2018
+    text: Druga godišnja Ethereum Classic konferencija održava se u Seulu, Južna Koreja.
+  coinbase:
+    title: Popisi Coinbase ITD
+    text: Najveća mjenjačnica kriptovaluta u SAD-u signalizira dugoročnu podršku izvornom Ethereum lancu; Ethereum Classic.
+  etcLabsIncubator:
+    title: Pokretanje programa Inkubator
+    text: Ethereum Classic Labs pokreće program inkubatora. ETC Labs obvezuje se raditi s čak 24 startupa temeljena na Ethereum Classicu svake godine.
+  51Attack:
+    title: 51% napada
+    text: Ethereum Classic doživljava prvi uspješni napad reorganizacijom lanca na svojoj mreži. Otporni ETC diže se iz pepela.
+  51AttackReturn:
+    title: Napadač Bijelog šešira
+    text: Čini se da je napadač 51% whitehat haker i vraća ukradena sredstva u ugroženu razmjenu. Centralizirane burze pooštravaju 51% nadgledanje napada na Proof of Work kovanice u svim segmentima.
+  atlantisConsensus:
+    title: Atlantis Rough Consensus
+    text: Razvojni programeri jezgre Ethereum Classic postigli su grubi konsenzus o ECIP-1054 u nastojanju da implementiraju nadogradnje mrežnog protokola ETH-a Spurious Dragon i Byzantium.
+  atlantisUpgrade:
+    title: Nadogradnja Atlantis
+    text: Razvojni programeri jezgre Ethereum Classic implementiraju nadogradnje mrežnog protokola ETH-a Spurious Dragon i Byzantium kako bi održali operativni paritet sa svojim sestrinskim lancem.
+  etcSummitVancouver:
+    title: ETC Summit 2019
+    text: Treća godišnja Ethereum Classic konferencija održava se u Vancouveru, Kanada.
+  mordorLaunch:
+    title: Mordor lansira
+    text: Glavni programeri uklonili su redundantnost testneta zamjenom testnih mreža Kensington, Morden i Nazgul s Mordorom, Ethash PoW testnetom za testiranje na razini protokola.
+  besu-ETC-Support:
+    title: Besu podržava Ethereum Classic
+    text: Hyperledger Besu dodaje podršku za Ethereum Classic svom Ethereum klijentu dizajniranom da bude prilagođen poduzećima za slučajeve korištenja javne i privatne mreže s dopuštenjem.
+  aztlanConsensus:
+    title: Aztlán Grubi konsenzus
+    text: Razvojni programeri jezgre Ethereum Classic postigli su grubi konsenzus o ECIP-1061 u nastojanju da implementiraju nadogradnju mrežnog protokola ETH Istanbul.
+  aghartaConsensus:
+    title: Agharta grubi konsenzus
+    text: Razvojni programeri jezgre Ethereum Classic postigli su grubi konsenzus o ECIP-1056 u nastojanju da implementiraju nadogradnje ETH-ovog mrežnog protokola u Carigradu i Petersburgu.
+  aghartaUpgrade:
+    title: Nadogradnja Agharta
+    text: Razvojni programeri jezgre Ethereum Classic implementiraju nadogradnje mrežnog protokola ETH-a u Konstantinopolu i Petersburgu kako bi održali operativni paritet sa svojim sestrinskim lancem.
+  core-Geth-Launch:
+    title: Pokretanje Core-Geth
+    text: Tim ETC Core odvaja se od klijentskog projekta Multi-Geth. Projekt je nazvan Core-Geth, ethereum/go-ethereum nizvodni napor da se Ethereum protokol učini dostupnim i proširivim za raznolik ekosustav.
+  phoenixFixConsensus:
+    title: Phoenix Fix Grubi konsenzus
+    text: Tijekom implementacije Aztlán testneta, programeri jezgre Ethereum Classic otkrivaju komplikacije sa specifikacijama ECIP 1061 za dodavanje ETH-ove nadogradnje Istanbul mrežnog protokola. Kao što je i predviđeno, ETC testne mreže hvataju probleme, a glavni programeri specificiraju zakrpu za probleme.
+  ecip1050-Status-Codes:
+    title: ECIP 1050 statusni kodovi
+    text: ECIP 1050 statusni kodovi se pomiču u konačni status. Ovaj standard ocrtava zajednički skup statusnih kodova na isti način kao i HTTP statusi. Ovo pruža zajednički skup signala koji omogućavaju pametnim ugovorima da samostalno reagiraju na situacije, izlože lokalizirane poruke o pogrešci korisnicima i tako dalje.
+  aztlanBugs:
+    title: Testne mreže hvataju greške
+    text: Tijekom implementacije Aztlán testneta, programeri jezgre Ethereum Classic otkrivaju komplikacije sa specifikacijama ECIP 1061 i 1078 za dodavanje ETH-ove nadogradnje Istanbul mrežnog protokola. Meowbits of ETC Core dokumentira nalaze. Kao što je i planirano, ETC testne mreže hvataju probleme i glavni programeri vraćaju se na ploču za crtanje.
+  aztlanRejected:
+    title: Aztlán Odbijen
+    text: Na temelju problema otkrivenih tijekom implementacije Aztlán testneta, utvrđeno je da Phoenix Fix nije dovoljan popravak i obje testne mreže se kvare; Core programeri predlažu da se odbiju ecips-1061, 1078, 1086 zbog zabrinutosti oko sigurnosti i stabilnosti i da se krene s pisanjem novog prijedloga od nule.
+  phoenixConsensus:
+    title: Phoenix grubi konsenzus
+    text: Razvojni programeri jezgre Ethereum Classic postigli su grubi konsenzus o ECIP-1088 u nastojanju da implementiraju nadogradnju mrežnog protokola ETH Istanbul. Implementacije testneta otkrile su probleme s prethodnim pokušajima u specifikacijama ECIP-1061 i ECIP-1078.
+  phoenixMordor:
+    title: Phoenix Mordor Testiranje
+    text: Phoenix testiranje počinje na Mordor PoW testnetu na bloku 999,983. Glavni razvojni timovi signalizirali su da je ovo složena implementacija. Testiranje bi moglo otkriti probleme koji odgađaju ovu mrežnu nadogradnju, ali Ethereum Classic nikada neće žuriti s nadogradnjom glavne mreže. Mrežna sigurnost ima prioritet u odnosu na brzinu razvoja i proizvoljne vremenske okvire.
+  era3:
+    title: 5M20 Era 3
+    text: Nagrade za blokove Ethereum Classica smanjene su za 20% na 3,2 ETC po bloku, u skladu s rasporedom emisija 5M20 inspiriranim bitcoinom.
+  phoenixKotti:
+    title: Phoenix Kotti testiranje
+    text: Phoenix testiranje počinje na Kotti PoA testnetu na bloku 2,200,013. Glavni razvojni timovi signalizirali su da je ovo složena implementacija. Testiranje bi moglo otkriti probleme koji odgađaju ovu mrežnu nadogradnju, ali Ethereum Classic nikada neće žuriti s nadogradnjom glavne mreže.
+  phoenixUpgrade:
+    title: Nadogradnja Phoenixa
+    text: Razvojni programeri jezgre Ethereum Classic implementiraju nadogradnje ETH-ovog mrežnog protokola u Istanbulu kako bi održali operativni paritet sa svojim sestrinskim lancem.
+  client-Deprecation-Attacks:
+    title: Napadi deprecacije klijenta
+    text: Na 4. godišnjicu DAO Bailout Hard Forka, održavatelji klijenata usmjerenih na ETH orkestriraju društveni napad na Ethereum Classic. Održavatelji klijenata najavljuju obustavu podrške za Ethereum Classic, a zatim provode marketinšku kampanju dezinformacija navodeći da bi ETC mreža izgubila 70% hashratea među ostalim neistinama.
+  51Attack2:
+    title: "51% Napad #2"
+    text: Ethereum Classic doživljava drugi uspješni napad reorganizacijom lanca na svoju mrežu.
+  51Attack3:
+    title: "51% Napad #3"
+    text: Ethereum Classic doživljava treći uspješni napad reorganizacijom lanca na svoju mrežu.
+  51Attack4:
+    title: "51% Napad #4"
+    text: Ethereum Classic doživljava četvrti uspješni napad reorganizacijom lanca na svoju mrežu.
+  messClientFunctionality:
+    title: Funkcionalnost MESS klijenta
+    text: Core-Geth klijent implementira zastavice za primjenu izborne MESS funkcionalnosti kao odgovor na napade 51% mreže Ethereum Classic.
+  thanosMordor:
+    title: Thanos Mordor Testiranje
+    text: Testiranje Thanosa počinje na Mordor PoW testnetu na bloku 2,520,000.
+  thanosUpgrade:
+    title: Nadogradnja Thanosa
+    text: Ethereum Classic implementira nadogradnju Thanos za ponovno kalibriranje duljine epohe koja se koristi u DAG izračunima.
+  etchash:
+    title: ETChash
+    text: Ethereum Classic implementira nadogradnju Thanos za prilagodbu algoritma rudarenja s ETHash na ETCHash.
+  manis-ETC-Stupport:
+    title: Mantis ETC Client Revival
+    text: Input Output Global signals podrška za Ethereum Classic mrežu s oživljavanjem Mantis klijenta i GUI-ja.
+  gethBugs:
+    title: Greške klijenta Geth
+    text: Softverske greške koje iskorištavaju Geth koje su podijelile Ethereum Foundation mainnet u kolovozu 2021. podijelile su Ethereum Classic mainnet. Svima se savjetuje da ažuriraju svoje klijente.
+  lcetcc:
+    title: Zadržimo Ethereum Classic Classic
+    text: Zabrinuti sudionik ETC-a napisao je dugačku opovrgnuću koja se usprotivila implementaciji ECIP-1098.
+  treasuryDebate:
+    title: IOHK prijedlog riznice povučen
+    text: Nakon godinu dana duge rasprave o tome hoće li se ECIP-1098 uskladiti s ETC vrijednostima, ETC Coop, praćen IOHK-om, povlači podršku za prijedlog Ministarstva financija na razini mreže.
+  magnetoUpgrade:
+    title: Magneto nadogradnja
+    text: Razvojni programeri jezgre Ethereum Classic implementiraju nadogradnje ETH-ovog berlinskog mrežnog protokola kako bi održali operativni paritet sa svojim sestrinskim lancem.
+  mystiqueUpgrade:
+    title: Mystique nadogradnja
+    text: Razvojni programeri jezgre Ethereum Classic implementiraju nadogradnje ETH-ovog londonskog mrežnog protokola kako bi održali operativni paritet sa svojim sestrinskim lancem.
+  etcFlood:
+    title: ETC pozdravlja novi hashrate
+    text: Ethereum Classic daje podršku algoritmu za rudarenje ETChash i trenutnom ekosustavu rudarenja. Ovo pozicionira Ethereum Classic kao mrežu koja je dobro pozicionirana da apsorbira većinu obespravljenih Ethash rudara s prelaskom ETH mreže na konsenzus o dokazu o udjelu.
+  etcdao:
+    title: Ethereum Classic DAO
+    text: Stabilno i dugoročno financiranje pokazalo se problemom za Ethereum Classic s napuštanjem Ethereum Foundationa 2016. U nastojanju da se riješi problem LTS financiranja mreže, Ethereum Classic DAO osnovan je s misijom budućeg dokazivanja razvoja mreže putem fond za razvoj otvorenog koda. Sredstva se generiraju upotrebom ETC DeFi skupa hostiranog na EthereumClassic.com
+  era4:
+    title: 5M20 Era 4
+    text: Nagrade za blokove Ethereum Classica smanjene su za 20% na 2,56 ETC po bloku, prema rasporedu emisija 5M20 inspiriranom bitcoinom. ETChash mining hasrate nastavlja se okretati prema ETC-u s mrežom koja doseže vrhunce svih vremena.
+  sha3Withdrawn:
+    title: ETC Coop SHA3 prijedlog povučen
+    text: Nakon više od tri godine sporne rasprave, Bob Summerwill priznaje sporni hardfork koji bi ECIP-1049 izazvao na mreži i povlači prijedlog. Negativna društvena cijena uzrokovana kampanjom dezinformiranja zagovornika ECIP-1049 i dalje negativno utječe na javnu percepciju mreže. Međutim, zahvaljujući svojoj otpornoj zajednici, Ethereum Classic ostaje u dobroj poziciji da napreduje na ETChashu u svijetu nakon spajanja.
+  etcswap:
+    title: ETCswap
+    text: Ethereum Classic DAO lansira svoj prvi proizvod - ETCswap. To osigurava da je mreža korak bliže stabilnom financiranju za razvoj otvorenog koda na Ethereum Classic. Profesionalni decentralizirani skup protokola bit će postavljen na Ethereum Classic.
+  vitalikEndorsesETC:
+    title: Vitalik Buterin podržava Ethereum Classic
+    text: Vitalik Buterin, najistaknutiji suosnivač Ethereuma, daje podršku izvornoj Ethereum mreži-- Ethereum Classic za one koji cijene lance Proof-of-Work.
+  antpoolETCDAOTreasuryFund:
+    title: Antpool
+    text: AntPool podržava Ethereum Classic ekosustav s ulaganjem od 10 milijuna USD. Antpool osniva riznički fond s ciljem podrške ekosustavu profesionalnog razvoja na Ethereum Classicu.
+  hashrateSurges:
+    title: ETC Hashrate skokovi
+    text: Dok nadolazeće spajanje Ethereuma nastavlja izazivati uzbuđenje u kripto prostoru, Ethereum Classic (ETC), sestra Ethereuma, bilježi povećanje hashratea od 83% od lipnja 2022.
+  twitter-Account-Capture:
+    title: Korporativno snimanje Twitter računa
+    text: Nekoliko dana prije spajanja, Charles Hoskinson javno signalizira namjeru "prenamjene" glavnog twitter računa Ethereum Classica. On opravdava ovaj postupak nepovratnim troškovima u klijentu Mantis koji nije isporučen i odbijanjem IOHK-ovog prijedloga centralizirane riznice za 2021. (ECIP-1098).
+  ethMerge:
+    title: ETH prelazi na dokaz o udjelu
+    text: Zaklada Ethereum nadograđuje najveću EVM mrežu na konsenzus proof-of-stake. Ovaj događaj spajanja učvršćuje Ethereum Classic kao najveću Proof of Work EVM mrežu. Mrežna sigurnost Ethereum Classica raste kako postaje vrhunska mreža svih algoritama za rudarenje derivata Ethasha. Feniks se diže.
+  twitter-Account-Rebranded:
+    title: Twitter račun je promijenjen
+    text: Zbog društvenog odbijanja IOHK-ove centralizirane riznice od strane ETC zajednice 2021., Charles Hoskinson prenosi glavni Twitter račun Ethereum Classica na projekt otvorenog koda treće strane pod nazivom Ergo. Ergo tim rebrendira račun u vlastiti projekt. Bobu Summerwillu je poslan novoregistrirani Twitter račun s glavnim twitter računima s 0 povijesti i 0 sljedbenika.
+  aBrightFuture:
+    title: Svijetla budućnost
+    text: Kako ekosustav nastavlja organski rasti, neovisni razvojni timovi i sudionici mreže vode se načelima koja Ethereum Classic čine tako jedinstvenom mrežom. Mreža je uistinu decentralizirana, nepromjenjiva i nezaustavljiva. Kodeks je zakon.

@@ -1,0 +1,51 @@
+title: Peningkatan Protokol
+seo: Sejarah garpu keras lampau; peningkatan protokol yang diterima untuk Ethereum Classic.
+description: |
+  Ethereum Classic, walaupun sejarahnya, tidak menentang semua jenis Hard Fork. Jauh dari itu; Hard Forking membenarkan protokol dinaik taraf, membetulkan pepijat dan menambah ciri yang meneruskan matlamat untuk membolehkan pembangun "Membina Aplikasi Tidak Boleh Dihalang".
+
+  Jenis Hard Fork yang Ethereum Classic tidak akan pernah dilaksanakan adalah seperti [The DAO Fork](/why-classic/genesis), yang tidak menangani kecacatan atau peningkatan protokol itu sendiri, sebaliknya mengatasi *Code is Law * dengan mengubah suai Kontrak Pintar dalam lapisan aplikasi.
+
+  Ethereum Classic secara strategik mengekalkan keserasian maksimum dengan EVM Ethereum huluan, yang bermaksud kontrak yang digunakan untuk ETH juga boleh digunakan untuk ETC, dan Ethereum Classic mewarisi banyak inovasi berharga yang dilahirkan melalui penyelidikan tentang Ethereum.
+items:
+  forks:
+    title: Sejarah Fork DLL
+    items:
+      Frontier:
+        title: Frontier
+        text: Dilancarkan di bawah slogan "Bina Aplikasi Tidak Boleh Dihalang", Frontier adalah pelaksanaan secara langsung, tetapi tanpa tulang belakang bagi projek Ethereum. Ia mengikuti fasa ujian Olimpik yang berjaya. Ia bertujuan untuk pengguna teknikal, khususnya pembangun. Blok mempunyai had gas sebanyak 5,000. Tempoh 'pencairan' ini membolehkan pelombong memulakan operasi mereka dan pengguna awal memasang pelanggan mereka tanpa perlu 'tergesa-gesa'.
+      Ice Age:
+        title: Zaman ais
+        text: Garpu pencairan sempadan menaikkan had 5,000 gas setiap blok dan menetapkan harga gas lalai kepada 51 gwei. Ini dibenarkan untuk urus niaga - urus niaga memerlukan 21,000 gas.
+      Homestead:
+        title: Homestead
+        text: Garpu Homestead memandang ke masa depan. Ia termasuk beberapa perubahan protokol dan perubahan rangkaian yang memberikan Ethereum keupayaan untuk melakukan peningkatan rangkaian selanjutnya.
+      Gas Reprice:
+        title: Harga semula Gas
+        text: ECIP-1015 ialah peningkatan protokol bebas pertama Ethereum Classic selepas DAO Hard Fork, yang melibatkan perubahan kos gas jangka panjang untuk operasi berat IO untuk mengurangkan serangan spam transaksi.
+      Die Hard:
+        title: Mati Keras
+        text: Garpu Die Hard menangguhkan bom kesukaran, harga semula kod EXP dan melaksanakan perlindungan main semula, menetapkan ID Rantaian ETC kepada 61.
+      Gotham:
+        title: Gotham
+        text: ECIP 1017 menjadikan Ethereum Classic lebih seperti Bitcoin dengan memperkenalkan sempadan atas pada bilangan mutlak maksimum ETC dan kaedah pelepasan terdegradasi dari semasa ke semasa.
+      Defuse Difficulty Bomb:
+        title: Redakan Bom Kesukaran
+        text: Bom Kesukaran ditangguhkan, tanpa perubahan lain.
+      Atlantis:
+        title: Atlantis
+        text: Mendayakan peningkatan protokol rangkaian Ethereum Foundation Spurious Dragon dan Byzantium yang luar biasa pada rangkaian Ethereum Classic dalam kod keras yang dinamakan Atlantis untuk membolehkan keserasian maksimum merentas rangkaian ini.
+      Agharta:
+        title: Agharta
+        text: Mendayakan peningkatan protokol rangkaian Ethereum Foundation Constantinople dan Petersburg yang luar biasa pada rangkaian Ethereum Classic dalam kod hardfork bernama Agharta untuk membolehkan keserasian maksimum merentas rangkaian ini.
+      Phoenix:
+        title: Phoenix
+        text: Mendayakan peningkatan protokol rangkaian Ethereum Foundation Istanbul yang luar biasa pada rangkaian Ethereum Classic dalam kod hardfork bernama Phoenix untuk membolehkan keserasian maksimum merentas rangkaian ini.
+      Thanos:
+        title: Thanos
+        text: ECIP 1099 menentukur panjang zaman yang digunakan dalam pengiraan DAG, bertukar daripada ETHash kepada ETCHash, Ia meningkatkan keselamatan rangkaian dengan membenarkan GPU dengan memori 4GB untuk melombong DLL.
+      Magneto:
+        title: Magneto
+        text: Mendayakan ciri peningkatan protokol rangkaian Ethereum Foundation Berlin, mencapai keserasian maksimum dengan Ethereum.
+      Mistique:
+        title: mistik
+        text: Mendayakan ciri peningkatan protokol rangkaian Ethereum Foundation London, mengekalkan keserasian maksimum dengan Ethereum.

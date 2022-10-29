@@ -1,0 +1,35 @@
+title: Vidéos
+description: Une collection de vidéos sur Ethereum Classic, organisée par catégories.
+support: Soutenez le CTE en soumettant vos propres vidéos !
+changeLanguage: Cette page ne présente que des vidéos dans la langue actuellement sélectionnée. Pour plus de contenu, consultez les vidéos en anglais.
+tags:
+  explainers:
+    title: Explicateurs
+    description: Vidéos éducatives expliquant la philosophie, l'histoire et les concepts techniques d'Ethereum Classic.
+  tutorials:
+    title: Tutoriels
+    description: Guides couvrant l'utilisation et le développement d'Ethereum Classic.
+  development:
+    title: Développement
+    description: Vidéos couvrant des sujets liés à la technologie Ethereum Classic pour les développeurs.
+  trading:
+    title: Commerce
+    description: Analyse technique et fondamentale, prévisions de prix et conseils d'investissement concernant ETC.
+  discussions:
+    title: Discussions
+    description: Des discussions de longue haleine, notamment des podcasts, des débats et des appels communautaires hebdomadaires.
+  mining:
+    title: Exploitation minière
+    description: Des vidéos expliquant comment exploiter les ETC, le matériel, les logiciels et les bénéfices attendus. N'oubliez pas de consulter également la section [mining](/mining) pour plus d'informations.
+  conferences:
+    title: Conférences
+    description: L'Ethereum Classic Summit est un événement annuel qui se tient dans différentes villes du monde. Cette section contient les exposés du sommet ETC et d'autres conférences ou rencontres.
+  etc-summit-2018:
+    title: Sommet CTE 2018
+    description: Le deuxième sommet Ethereum Classic s'est tenu à Séoul, en Corée, le 12 septembre 2018.
+  etc-summit-2019:
+    title: Sommet CTE 2019
+    description: Le troisième sommet Ethereum Classic s'est tenu à Vancouver, au Canada, le 3 octobre 2019.
+  etc-summit-2017:
+    title: Sommet CTE 2017
+    description: Le premier sommet Ethereum Classic s'est tenu à Hong Kong le 13 novembre 2017.

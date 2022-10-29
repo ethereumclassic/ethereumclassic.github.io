@@ -1,0 +1,240 @@
+learn:
+  name: Naučiti
+  navItems:
+    faqs:
+      name: FAQ
+      description: Često postavljana pitanja raznih dionika
+      navItems:
+        users:
+          name: Korisnici
+          description: Želite li naučiti kako koristiti ETC?
+        researchers:
+          name: Istraživači
+          description: Upravo ste čuli za Classic?
+        investors:
+          name: Investitori
+          description: Zainteresirani ste za kupnju ETC-a?
+        miners:
+          name: Rudari
+          description: Trebate informacije o tome kako rudariti ETC?
+        developers:
+          name: Programeri
+          description: Želite graditi na ETC-u?
+        contributors:
+          name: Suradnici
+          description: Želite li pomoći projektu?
+    whyClassic:
+      name: Zašto Classic?
+      description: Započnite ovdje da biste saznali zašto Ethereum Classic postoji i jedinstvenu ponudu vrijednosti
+      navItems:
+        codeIsLaw:
+          name: Kodeks je zakon
+        genesis:
+          name: Geneza
+        decentralism:
+          name: Decentralizam
+        soundMoney:
+          name: Zvučni novac
+        proofOfWork:
+          name: Dokaz o radu
+    #etcVsEth:
+    #__link: /why-classic/etc-vs-eth
+    #name: ETC vs ETH
+    knowledge:
+      name: Znanje
+      description: Dodatno čitanje o temeljima koji podupiru ETC
+      navItems:
+        foundation:
+          name: Temelj
+          description: Temeljni principi koji čine ETC-ovu čvrstu filozofsku osnovu
+        theory:
+          name: Teorija
+          longName: Teorija i istraživanje
+          description: Dublje poniranje u logiku Ethereum Classica s komadima iz zajednice
+        investing:
+          name: Ulaganje
+          longName: Resursi investitora
+          description: Informacije o ponudi vrijednosti Ethereum Classica i njegovom potencijalu za bolesne dobitke
+        forks:
+          name: Vilice
+          longName: Nadogradnje protokola
+          description: Kronika prošlih i budućih hard forkova koji su ETC-u dodali funkcionalnost ili ispravke pogrešaka
+        history:
+          name: Povijest
+          longName: Klasična povijest
+          description: Vremenska traka svih glavnih događaja u povijesti Ethereum Classics do danas
+        future:
+          name: Budućnost
+          longName: Budući klasik
+          description: Pregled procesa donošenja odluka u ETC-u i gdje bi to moglo dovesti do protokola
+        metamask:
+          name: MetaMask
+          longName: Korištenje MetaMaska s ETC-om
+          description: Kako konfigurirati MetaMask i alternative za interakciju s dapps
+    videos:
+      name: Video zapisi
+      description: Zbirka videozapisa i podcasta koji će vas informirati o ETC konceptima i događanjima
+      navItems:
+        explainers:
+          name: Objašnjenja
+        discussions:
+          name: Rasprave
+        trading:
+          name: Trgovanje
+        development:
+          name: Razvoj
+        tutorials:
+          name: Tutoriali
+        mining:
+          name: Rudarstvo
+        conferences:
+          name: Konferencije
+          navItems:
+            2017:
+              name: 2017. Hong Kong
+            2018:
+              name: Seul 2018
+            2019:
+              name: 2019 Vancouver
+        other:
+          name: ostalo
+#memes:
+#__link: /memes
+#__icon: images
+#name: Memes
+#description: Spreading the good word of ETC involves winning the battle of hearts and minds through the whimsicalities of information warfare
+#navItems:
+#mediaKit:
+#__link: /memes/media-kit
+#name: Media Kit
+#charts:
+#__link: /memes/charts
+#name: Charts
+#etc:
+#__link: /memes/etc
+#name: Etcetera
+play:
+  name: igra
+  navItems:
+    services:
+      name: Usluge
+      description: Aplikacije, novčanici i razmjene koje se integriraju s ETC-om; 100% nerevidirano, stoga pazite na povlačenje tepiha!
+      navItems:
+        wallets:
+          name: Novčanici
+          description: Softver za pohranu i upravljanje ETC-om, tokenima, NFT-ovima i drugom imovinom
+        exchanges:
+          name: Razmjene
+          description: Gdje kupiti i trgovati ITD
+        apps:
+          name: aplikacije
+          longName: Aplikacije i protokol
+          description: Ekosustav aplikacija koje koriste Ethereum Classic
+          navItems:
+            nfts:
+              name: NFT-ovi
+            games:
+              name: Igre
+            identity:
+              name: Identitet
+            interoperability:
+              name: Interoperabilnost
+            finance:
+              name: Financije
+            other:
+              name: ostalo
+    community:
+      name: Zajednica
+      description: Ako žudite za komunikacijom s ljudima koje zanima ETC, evo kako ih pronaći
+      navItems:
+        channels:
+          name: Kanali
+          longName: Kanali društvenih medija
+          description: Popis računa, soba za razgovor i foruma za raspravu o ETC-u s drugima
+        teams:
+          name: Timovi
+          longName: Timovi programera
+          description: Informacije o tome tko radi na Ethereum Classic
+        events:
+          name: Događaji
+          description: Pridružite se ETC zajednici na redovitim društvenim događanjima koja se održavaju tijekom cijele godine
+    #bounties:
+    #__link: /community/bounties
+    #name: Bounties
+    #dao:
+    #__link: /community/daos
+    #name: DAOs
+    network:
+      name: Mreža
+      description: RPC krajnje točke, istraživači, mrežni monitori i drugi resursi za tehnički nastrojene
+      navItems:
+        endpoints:
+          name: Krajnje točke
+          longName: RPC krajnje točke
+          description: Javni i privatni servisi za komunikaciju s ETC mrežom
+        explorers:
+          name: Istraživači
+          longName: Blockchain istraživači
+          description: Alati za pregled lanca za transakcije, blokove i druge uvide
+        monitors:
+          name: Monitori
+          longName: Mrežni monitori
+          description: Alati za provjeru zdravlja i statusa mreže pomoću raznih metrika
+    #statistics:
+    #__link: /network/statistics
+    #name: Statistics
+    mining:
+      name: Rudarstvo
+      description: Zahtjevi za bazene, softver i hardver pomoći će vam rudariti ETC za zabavu i zaradu
+      navItems:
+        hardware:
+          name: Hardver
+          description: Informacije o tome koju vrstu opreme je najbolje koristiti za profitabilno rudarenje ETC
+        software:
+          name: Softver
+          longName: Softver za rudarenje
+          description: Popis alata koji se mogu koristiti za rudarenje ETC-a na različitim operativnim sustavima
+        pools:
+          name: Bazeni
+          longName: Bazeni za rudarenje
+          description: Pridruživanje bazenu za rudarenje omogućuje vam profit na temelju hashpowera, a ne na temelju pronađenih blokova
+    develop:
+      name: Razvoj
+      description: Testne mreže, alati, klijenti i informacije o tome kako doprinijeti samom ETC protokolu
+      navItems:
+        development:
+          name: Vodiči
+          longName: Vodiči za razvojne programere
+          description: Zbirka vodiča o tome kako izgraditi dapps na Ethereum Classic
+        clients:
+          name: Klijenti
+          description: Klijentski softver je okosnica mreže i implementira ETC protokol
+        testnets:
+          name: Testne mreže
+          description: Mreže za javno testiranje aplikacija i nadogradnje protokola prije proizvodnje
+        tooling:
+          name: Alati
+          longName: Alati za programere
+          description: Kažu da je radnik dobar onoliko koliko je dobar njegov alat, stoga se pobrinite da odaberete dobre!
+        repos:
+          name: Spremišta
+          longName: Git spremišta
+          description: Popis skladišta projekata povezanih s Ethereum Classicom za vaš užitak gledanja
+        ecips:
+          name: ECIP-ovi
+          description: Pregled i odobreni prijedlozi za poboljšanje Ethereum Classic
+news:
+  name: Vijesti
+extra:
+  name: Ekstra
+  navItems:
+    news:
+      name: Vijesti
+    blog:
+      name: Blog
+    about:
+      name: Oko
+    rss:
+      name: RSS feed
+    siteMap:
+      name: Sitemap

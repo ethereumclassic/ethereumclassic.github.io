@@ -1,0 +1,33 @@
+items:
+  main:
+    title: Nguyên tắc cốt lõi
+    description: Phần này bao gồm tuyển tập các bài viết quan trọng nhất đi sâu vào triết lý cơ bản của Quỹ Ethereum Classic. Đây là những ý tưởng cuối cùng giữ cho Tầm nhìn Ethereum gốc tiếp tục.
+    items:
+      Declaration of Independence:
+        name: Tuyên ngôn độc lập
+        description: Tuyên bố về lý do tồn tại của ETC, danh sách các khiếu nại và mô tả các nguyên tắc và mục tiêu của nó. Đây là một trong những tài liệu sáng lập ban đầu của Ethereum Classic, được xuất bản lần đầu vào tháng 8 năm 2016 và được dịch sang nhiều ngôn ngữ.
+      A Crypto-Decentralist Manifesto:
+        name: Tuyên ngôn phân quyền tiền điện tử
+        description: Một tài liệu có ảnh hưởng khác từ những ngày đầu của Ethereum Classic. Nó phác thảo các giá trị cốt lõi của phân quyền và giúp cung cấp thông tin cho việc ra quyết định trong cộng đồng ETC.
+      Ethereum Classic Vision:
+        name: Tầm nhìn cổ điển của Ethereum
+        description: Ethereum Classic sẽ là một nền tảng máy tính thành công như thế nào và tại sao ETC là một kho lưu trữ giá trị tuyệt vời.
+      keepEtcClassic:
+        name: Hãy giữ cho Ethereum Classic Classic
+        description: Một lời nhắc nhở sâu sắc về tầm quan trọng của việc bảo vệ các nguyên tắc của Ethereum Classic, để đáp lại một Đề xuất Kho bạc (hiện đã được rút lại).
+  past:
+    title: Vai của những người khổng lồ
+    description: Ethereum Classic không thể tồn tại nếu không có các dự án tiên phong khác như nền tảng blockchain ban đầu và triết lý phi tập trung của Bitcoin, và công nghệ nền tảng Hợp đồng thông minh hoàn chỉnh Turing được cung cấp bởi Dự án Ethereum.
+    items:
+      The idea of Smart Contracts:
+        name: Ý tưởng về Hợp đồng thông minh
+        description: Ý tưởng về hợp đồng thông minh của Nick Szabo được đăng từ năm 1997.
+      Bitcoin A Peer-to-Peer Electronic Cash System:
+        name: "Bitcoin: Hệ thống tiền mặt điện tử ngang hàng"
+        description: Sách trắng ban đầu của Satoshi Nakamoto vẫn được khuyến khích đọc cho bất kỳ ai đang nghiên cứu cách hoạt động của Bitcoin và Blockchains.
+      ethWhitepaper:
+        name: "Báo cáo chính thức của Ethereum"
+        description: Bản gốc của Ethereum Whitepaper giải thích cách tiện ích của công nghệ blockchain được giải phóng bằng cách "giải quyết vấn đề chính trị trong việc quyết định ai có thể ảnh hưởng đến sự đồng thuận" và khái niệm về DAO, Stablecoin, v.v.
+      ethYellowPaper:
+        name: "Ethereum Yellowpaper"
+        description: Mô tả kỹ thuật ban đầu của Giao thức Ethereum, bởi Gavin Wood

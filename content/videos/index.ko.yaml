@@ -1,0 +1,35 @@
+title: 비디오
+description: 카테고리별로 정리된 이더리움 클래식에 대한 비디오 모음입니다.
+support: 자신의 비디오를 제출하여 ETC를 지원하십시오!
+changeLanguage: 이 페이지에는 현재 선택한 언어로 된 비디오만 표시됩니다. 자세한 내용은 영어 동영상을 확인하세요.
+tags:
+  explainers:
+    title: 설명자
+    description: Ethereum Classic 철학, 역사 및 기술 개념을 설명하는 교육 비디오.
+  tutorials:
+    title: 튜토리얼
+    description: Ethereum Classic에서 사용하고 개발하는 방법을 다루는 가이드입니다.
+  development:
+    title: 개발
+    description: 개발자를 위한 Ethereum Classic 기술과 관련된 주제를 다루는 비디오.
+  trading:
+    title: 거래
+    description: ETC를 다루는 기술 및 기본 분석, 가격 예측 및 투자 조언.
+  discussions:
+    title: 토론
+    description: 팟캐스트, 토론 및 주간 커뮤니티 콜을 포함한 긴 형식의 토론
+  mining:
+    title: 채광
+    description: ETC, 하드웨어, 소프트웨어 및 수익 기대치를 채굴하는 방법을 다루는 비디오. 자세한 내용은 [mining](/mining) 섹션도 확인하십시오.
+  conferences:
+    title: 회의
+    description: Ethereum Classic Summit은 전 세계 여러 도시에서 매년 열리는 행사입니다. 이 섹션에는 ETC Summit 및 기타 회의 또는 모임의 대화가 포함되어 있습니다.
+  etc-summit-2018:
+    title: ETC 서밋 2018
+    description: 2018년 9월 12일 대한민국 서울에서 두 번째 이더리움 클래식 서밋이 개최되었습니다.
+  etc-summit-2019:
+    title: ETC 서밋 2019
+    description: 2019년 10월 3일 캐나다 밴쿠버에서 세 번째 Ethereum Classic Summit이 개최되었습니다.
+  etc-summit-2017:
+    title: ETC 서밋 2017
+    description: 2017년 11월 13일 홍콩에서 첫 번째 Ethereum Classic Summit이 개최되었습니다.

@@ -1,0 +1,13 @@
+title: Penjelajah Blockchain
+seo: Senarai perkhidmatan penjelajah blockchain untuk Ethereum Classic dan pelbagai testnet ETC.
+description: |
+  Blockchain Explorers menyediakan cara yang mudah untuk mendapatkan cerapan tentang keadaan semasa dan masa lalu bagi rantaian tertentu, membolehkan anda memeriksa kandungan blok, urus niaga dan baki akaun.
+
+  Penjelajah pihak ketiga berikut secara bebas mengesahkan keadaan Ethereum Classic, dan ia adalah testnet. Ia biasanya digunakan untuk menyemak sama ada transaksi telah disiarkan dan disahkan, tetapi banyak yang menawarkan ciri yang lebih maju seperti baki akaun sejarah, pengesahan kontrak dan banyak lagi.
+items:
+  explorers:
+    columnItems:
+      kotti:
+        text: Kotti
+      mordor:
+        text: Mordor

@@ -62,10 +62,10 @@ items:
     text: 随着大约80%的节点更新到新的客户端，社区紧张地等待着DAO救助分叉激活区块1,920,000的到来。
   newEthereumIsBorn:
     title: 新叉子链
-    text: 一个分叉的链诞生了!以太坊基金会在2016年7月20日创建了一个改变了的以太坊版本，以扭转DAO被盗的情况。作为商标权持有人，以太坊基金会将以太坊(ETH)品牌应用于新的分叉链。
+    text: 一个分叉的链诞生了!以太坊基金会在2016年7月20日创建了一个改变了的以太坊版本，以扭转DAO被盗的情况。作为商标权持有人，以太坊基金会将以太坊（ETH）品牌应用于新的分叉链。
   ethereumRenamedToClassic:
     title: 原有的无叉链
-    text: 由于预测原始非分叉链将在数小时内消失，许多人惊讶地发现矿工继续支持原始链。Bisq和OTC柜台给了这些代币一个价格发现订单簿。市场参与者将这个非分叉链重新命名为Ethereum Classic(ETC)。
+    text: 由于预测原始非分叉链将在数小时内消失，许多人惊讶地发现矿工继续支持原始链。Bisq和OTC柜台给了这些代币一个价格发现订单簿。市场参与者将这个非分叉链重新命名为Ethereum Classic（ETC）。
   missionAccomplished:
     title: 任务完成了!
     text: ETH社区松了一口气，因为DAO分叉代码被成功实施，没有明显的缺陷；香槟酒瓶在全球范围内被爆开。一个新链的诞生是成功的!
@@ -131,7 +131,7 @@ items:
     text: 在Ethereum Commonwealth的名义下形成一个开发团队。
   mantis-Launch:
     title: 螳臂当车启动
-    text: 这个测试版客户端Mantis的发布将在今天进行，它是Grothendieck团队(IOHK致力于以太坊经典的开发者)七个月的工作成果。
+    text: 这个测试版客户端Mantis的发布将在今天进行，它是Grothendieck团队（IOHK致力于以太坊经典的开发者）七个月的工作成果。
   etcCoop:
     title: ETC合作团队
     text: Grayscale通过赞助ETC合作团队的部分ETCG管理费，表示对Ethereum Classic协议发展的长期支持。对非营利组织的捐款是可以减税的。
@@ -290,10 +290,10 @@ items:
     text: AntPool以1000万美元的投资支持Ethereum Classic生态系统。蚂蚁金服种子基金的目标是支持Ethereum Classic的专业发展生态系统。
   hashrateSurges:
     title: ETC Hashrate激增
-    text: 随着即将到来的以太坊合并继续在加密货币领域引起兴奋，以太坊的姐妹产品--以太坊经典(ETC)自2022年6月以来，哈希值增长了83%。
+    text: 随着即将到来的以太坊合并继续在加密货币领域引起兴奋，以太坊的姐妹产品--以太坊经典（ETC）自2022年6月以来，哈希值增长了83%。
   twitter-Account-Capture:
     title: 推特账户企业捕获
-    text: 在合并的前几天，Charles Hoskinson公开表示打算 "重新利用 "Ethereum Classic的主要Twitter账户。他的理由是，由于未交付的Mantis客户端的沉没成本和拒绝IOHK的2021年中央财政提案(ECIP-1098)，所以采取了这一行动。
+    text: 在合并的前几天，Charles Hoskinson公开表示打算 "重新利用 "Ethereum Classic的主要Twitter账户。他的理由是，由于未交付的Mantis客户端的沉没成本和拒绝IOHK的2021年中央财政提案（ECIP-1098），所以采取了这一行动。
   ethMerge:
     title: ETH向股权证明的转变
     text: 以太坊基金会将最大的EVM网络升级为权益证明共识。这个合并事件使Ethereum Classic成为最大的工作证明EVM网络。Ethereum Classic的网络安全性得到提升，因为它成为所有Ethash衍生采矿算法的顶点网络。凤凰涅槃了。

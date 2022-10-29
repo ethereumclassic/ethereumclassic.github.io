@@ -1,0 +1,20 @@
+title: Repositori Git
+description: Sekumpulan pelbagai repositori sumber terbuka untuk pembangun Ethereum Classic.
+items:
+  repos:
+    items:
+      EthereumClassic:
+        name: Organisasi Github Utama
+        description: Organisasi Github Klasik Ethereum Utama, yang mengandungi beberapa repositori, pilihan yang akan kami ketengahkan di bawah...
+      eth-classic:
+        name: Organisasi Github Alternatif
+        description: Organisasi Github diurus komuniti lain yang merangkumi konfigurasi testnet, ETCHash, Besu, dsb.
+      etcLabs:
+        name: Makmal DLL
+        description: Organisasi yang mengandungi banyak repositori Ethereum Classic yang sebelum ini diselenggara oleh ETC Labs, termasuk core-geth.
+      website:
+        name: Laman Web DLL
+        description: Kod sumber laman web ini, termasuk arahan tentang cara menyumbang.
+      awesomeEtc:
+        name: Hebat DLL
+        description: Senarai hebat sumber untuk projek Ethereum Classic (ETC).

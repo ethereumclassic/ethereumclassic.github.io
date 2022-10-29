@@ -1,0 +1,32 @@
+items:
+  table:
+    number: Broj
+    author: Autori
+    columnItems:
+      title:
+        name: Titula
+      author:
+        name: Autori
+    items:
+      Delay Difficulty Bomb Explosion:
+        title: Delay Difficulty Eksplozija bombe
+      Long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks:
+        title: Dugoročne promjene troškova plina za IO-teške operacije za ublažavanje napada neželjene pošte transakcija
+      Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule:
+        title: Monetarna politika i konačna izmjena Ethereum Classic rasporeda emisija
+      Monetary policy rounding specification:
+        title: Specifikacija zaokruživanja monetarne politike
+      Remove Difficulty Bomb:
+        title: Uklonite bombu za poteškoće
+      Clique proof-of-authority consensus protocol:
+        title: Clique protokol konsenzusa o dokazu ovlaštenja
+      Status Codes:
+        title: Statusne šifre
+      Atlantis EVM and Protocol Upgrades:
+        title: Atlantis EVM i nadogradnje protokola
+      Agharta EVM and Protocol Upgrades:
+        title: Agharta EVM i nadogradnje protokola
+      Phoenix EVM and Protocol Upgrades:
+        title: Phoenix EVM i nadogradnje protokola
+      Calibrate Epoch Duration:
+        title: Kalibrirajte trajanje epohe

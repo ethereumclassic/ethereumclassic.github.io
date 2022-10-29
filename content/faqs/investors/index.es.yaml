@@ -1,0 +1,41 @@
+title: Preguntas frecuentes de los inversores
+seo: Preguntas frecuentes para aquellos que buscan entender la propuesta de valor de Ethereum Classic o comprar y comerciar con ETC.
+info: '¿No encuentra respuesta a su pregunta aquí? Prueba a preguntar en el servidor de la comunidad ETC [discord](https://ethereumclassic.org/discord). En concreto, puede que te interese el canal de Discord de ETC `#trading-talk`.'
+description: '¿Está interesado en invertir en Ethereum Classic y quiere saber más sobre su propuesta de valor? A continuación encontrará algunas respuestas a preguntas comunes relacionadas con el tema.'
+items:
+  questions:
+    items:
+      trade:
+        question: '¿Dónde puedo comprar e intercambiar ETC?'
+        answer: |
+          Ethereum Classic aparece en la lista de casi todos los intercambios principales (y menores decentes), y tiene DEXs en la cadena. Puedes encontrar más información en la sección [exchanges](/servicios/intercambios).
+      policy:
+        question: '¿Cuál es la política monetaria de ETC?'
+        answer: |
+          Al igual que Bitcoin, Ethereum Classic tiene una curva de emisión fija, lo que significa que se puede predecir con exactitud la cantidad total de ETC existente en cualquier momento en el futuro. Esto evita las espirales inflacionistas y convierte a ETC en un sólido depósito de valor.
+
+          Lea más acerca de la política monetaria de ETC en la sección [Sound Money](/por qué-classic/sound-money).
+      elevator:
+        question: '¿Cuál es el discurso de ascensor de Ethereum Classic?'
+        answer: |
+          Al tomar el enfoque de Bitcoin sobre la inmutabilidad y el dinero sólido, y combinarlo con la expresividad de los contratos inteligentes de Ethereum, Ethereum Classic proporciona algo único: una plataforma de aplicaciones *realmente* imparable.
+      valueProp:
+        question: '¿Qué tiene de especial la propuesta de valor de Ethereum Classic?'
+        answer: |
+          En resumen, Ethereum Classic es uno de los pocos proyectos de blockchain que tiene sus raíces en la ideología cypherpunk original de la que fue pionera Bitcoin. Como tal, ETC valora mucho la neutralidad y la resistencia a la censura. No tiene un equipo de liderazgo central capturable, y no intenta "moverse rápidamente" a expensas de la descentralización. En su lugar, Ethereum Classic se guía por principios atemporales que dan estabilidad y longevidad al proyecto.
+
+          Ethereum Classic también puede verse como un plan de respaldo. Existe una gran posibilidad de que, a medida que pase el tiempo y el espacio de las criptodivisas reciba más hostilidad, la censura se convierta en un problema para todas las cadenas y las que no estén preparadas caerán.
+
+          Para entender realmente la propuesta de valor de Ethereum Classic, consulta la sección [¿Por qué Classic?](/why-classic).
+      profit:
+        question: '¿Tendré beneficios si compro ETC?'
+        answer: |
+          *No hay garantías cuando se invierte en cualquier activo, especialmente en el volátil espacio de las criptomonedas. Siga siempre la primera regla de las criptomonedas: *no inviertas lo que no puedas permitirte perder*.
+
+          Ethereum Classic tiene la filosofía de Bitcoin, el enfoque de la inmutabilidad y una política monetaria sólida, lo que lo hace superior a Ethereum en este sentido. Al mismo tiempo, Ethereum Classic hereda la innovación que se está produciendo en el ecosistema de EVM, haciéndolo superior a Bitcoin en este sentido.
+
+          Estas ventajas filosóficas y tecnológicas han llevado a algunos a predecir que ETC tiene el potencial no sólo de superar la capitalización de mercado de Ethereum, sino que, dado un horizonte temporal suficiente, potencialmente el de Bitcoin, de convertirse en la blockchain más valiosa por capitalización de mercado.
+
+          Ethereum Classic se valora actualmente a una fracción de su cadena comparable más cercana, Ethereum, y si por alguna razón Ethereum dejara de ser viable, hay una clara posibilidad de que Ethereum Classic, como hizo con el hashrate posterior a la fusión, absorba gran parte de este valor.
+
+          Sea cual sea la decisión de inversión que tome, no espere hacerse rico rápidamente. Ethereum Classic está en el juego a largo plazo.

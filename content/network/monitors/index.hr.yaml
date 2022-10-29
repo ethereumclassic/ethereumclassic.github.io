@@ -1,0 +1,35 @@
+title: Mrežni monitori
+seo: Alati za provjeru zdravlja Ethereum Classic mreže i opće statistike kao što su izdavanje, broj transakcija i profitabilnost rudarenja.
+description: |
+  U nastavku je izbor alata koji pružaju uvid u širok raspon metričkih podataka koji se odnose na Ethereum Classic. Zajedno pružaju potpuni spektar analize zdravlja i statusa mreže.
+items:
+  monitors:
+    items:
+      etc-network.info:
+        description: Mala stranica koja će vam pomoći u navigaciji uslugama koje nudi etc-network.info.
+      ETCNodes:
+        description: Ethereum Classic mainnet node explorer.
+      2Miners:
+        description: Nadzorna ploča statistike Ethereum Classic pruža najvažniju statistiku blockchaina, grafikone i druge metrike performansi snimljene izravno s mrežnih čvorova.
+      CoinMetrics:
+        description: Detaljni povijesni podaci koji pokrivaju brojne metrike kao što su cijena, hashrate, broj adresa, broj transakcija itd.
+      CoinWarz:
+        description: Informacije o rudarenju Ethereum Classic - uključujući kalkulator rudarenja Ethereum Classic, popis hardvera za rudarenje Ethereum Classic, poteškoće Ethereum Classic s povijesnim grafikonima, grafikone hashratea Ethereum Classic, kao i trenutnu cijenu Ethereum Classic.
+      Emerald Insights:
+        description: Emerald Insights je dio projekta Emerald koji bi trebao pružiti statistiku, praćenje i napredne informacije o kriptovalutama koje koristi Emerald.
+      ForkWatch:
+        description: ForkWatch je NiceHash alat za praćenje koji upozorava na anomalije na određenim algoritmima na NiceHash tržištu, posebno kada se mijenja cijena najma BTC/TH/Day. To pomaže dionicima određenih kovanica da budu upozoreni u slučaju da se moć rudarenja potencijalno iznajmi za dolazni napad na određenu mrežu.
+      MiningPoolStats:
+        description: Statistike uživo o stanju rudarskih skupova na ETC-u, uključujući distribuciju blokova, povijest hashratea itd.
+      Nanopool:
+        description: Povijesne poteškoće, poteškoće, vrijeme bloka i cijena.
+      PoolDetective:
+        description: Skupovi za rudarenje važni su igrači u kriptovalutama s dokazom o radu. Ali tko nadzire na čemu govore svojim rudarima da rade? MIT-ova Inicijativa za digitalnu valutu započela je projekt u ljeto 2019. za početak praćenja ponašanja bazena za rudarenje.
+      TokenView:
+        description: Standardna povijesna mrežna statistika.
+      WhatToMine:
+        description: Kalkulator profitabilnosti za rudarenje Ethereum Classic i drugih lanaca.
+      Kotti Stats:
+        description: Statistika mreže za Ethereum Classic Kotti Testnet.
+      ua-mining:
+        description: Ethereum Classic nadzorna ploča statistike.

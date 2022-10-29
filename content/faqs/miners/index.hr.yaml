@@ -1,0 +1,85 @@
+title: Česta pitanja za rudare
+seo: Često postavljana pitanja za one koji žele rudariti Ethereum Classic Proof of Work blockchain.
+info: 'Ovdje ne možete pronaći odgovor na svoje pitanje? Pokušajte pitati na poslužitelju ETC zajednice [discord](https://ethereumclassic.org/discord). Konkretno, mogao bi vas zanimati ETC Discordov `#trading` kanal.'
+description: Jeste li rudar ili vas zanima kako rudariti ETC? Ova stranica je za vas.
+items:
+  questions:
+    items:
+      hardware:
+        question: Koji hardver trebam za rudarenje ETC-a?
+        answer: |
+          Dvije glavne kategorije hardvera koje se mogu koristiti za rudarenje Ethereum Classic su GPU i ASIC, a unutar svake kategorije postoji mnogo opcija. Možete pronaći kratki vodič o tome kako odlučiti što koristiti u odjeljku [hardver za rudarenje](/rudarstvo/hardver).
+      software:
+        question: Koji softver mogu koristiti za rudarenje ETC-a?
+        answer: |
+          Ovisno o vašem operativnom sustavu, postoji niz dostupnih opcija. Provjerite [softver za rudarenje](/mining/software) kako biste pronašli prave alate za sebe. Na internetu možete pronaći i video upute pretražujući "Kako rudariti Ethereum Classic".
+      switch:
+        question: Prethodno sam rudario ETH. Što trebam učiniti za prelazak na ETC?
+        answer: |
+          Algoritam za raspršivanje Ethereum Classica gotovo je identičan ETHashu, tako da podržava isti hardver, a rudarenje ETC-a trebalo bi biti jednako jednostavno prebacivanje na rudarski bazen koji podržava ETC.
+      pools:
+        question: Što je rudarski bazen?
+        answer: |
+          Kako Ethereum Classic uživa veliki hashrate, vrlo je mala vjerojatnost da će mali solo rudar imati dovoljno sreće da sam rudari blok. Iz tog razloga, osim ako nemate veliku rudarsku operaciju, solo rudari se obično pridružuju rudarskom bazenu kako bi primali manje redovite nagrade, proporcionalne hashrateu koji doprinose.
+      poolsList:
+        question: Koji rudarski bazeni podržavaju ETC?
+        answer: |
+          Možete pronaći popis bazena koji podržavaju Ethereum Classic u odjeljku [skupine za rudarenje](/mining/pools), a metriku o veličini tih skupova u odjeljku [monitori mreže](/network/monitori).
+      bestPool:
+        question: Koji je bazen za rudarenje najbolji?
+        answer: |
+          Potražite bazen s niskim naknadama i onaj koji je dovoljno velik da prilično redovito pronalazi blokove. Ne biste se nužno željeli pridružiti najvećem skupu jer balansiranje hashratea između različitih skupova pomaže održati Ethereum Classic decentraliziranim.
+      schedule:
+        question: Je li isplativo rudariti ETC?
+        answer: |
+          Ethereum Classic trenutačno je najveća kriptovaluta koja se može rudariti GPU-om u smislu neto prihoda, s najvećom ukupnom vrijednošću blokovskih nagrada u USD.
+
+          Kao i sa svim operacijama rudarenja kriptovalute, hoćete li ostvariti profit ili ne, ovisi o nizu čimbenika, kao što su učinkovitost i razmjer hardvera, ali je uvelike određeno cijenom električne energije u vašem lokalnom području.
+
+          Neki korisnici mogu odlučiti rudariti s gubitkom, jer im to omogućuje stjecanje "svježih" ETC-a za transakcije koje nemaju nikakvog porijekla.
+      ethash:
+        question: Što je algoritam za rudarenje Ethereum Classica?
+        answer: |
+          Ethereum Classic koristi algoritam za rudarenje [ETCHash](#TODO), bliskog rođaka Ethereumovog ETHasha, s manjom veličinom DAG-a. Hardver koji je korišten za rudarenje ETH-a prije spajanja također se može koristiti za rudarenje ETC-a.
+      emission:
+        question: Što je nagrada za blok Ethereum Classic?
+        answer: |
+          Trenutačno glavni izvor prihoda za rudare dolazi od fiksne osnovne nagrade, kako je navedeno u ECIP-1017. Svakih 5 milijuna blokova ova se nagrada smanjuje za 20%, na sličan način kao kod prepolovljenja Bitcoina.
+
+          Postoje također 3 dodatna izvora prihoda koje bi rudari trebali uzeti u obzir prilikom izračuna profitabilnosti, a koji uvelike ovise o korištenju mreže:
+
+          - Transakcijske naknade
+          - Uncle Rate
+          - MEV (Miner Extractable Value)
+      asics:
+        question: Je li Ethereum Classic algoritam za rudarenje ASIC otporan?
+        answer: |
+          ETHash je izvorno dizajniran da bude težak za memoriju, s ciljem da se upotreba ASIC-ova (kao što su oni dizajnirani za Bitcoinov SHA256 algoritam) učini neodrživom.
+
+          S vremenom je postalo jasno da [ne postoji otpornost na ASIC] (#TODO). Na kraju će svi algoritmi rudarenja, ako budu isplativi, stvoriti poticaj za dizajnere čipova da dođu do optimizacija za taj specifični algoritam, što se dogodilo za ETHash (i naslijedio ga je ETCHash).
+
+          Od 2022. dostupni su ASIC-ovi koji mogu rudariti ETCHash 2x do 6x energetski učinkovitije od GPU-ova i vjerojatno će se ovaj trend nastaviti.
+      rewards:
+        question: Koliki postotak ETC-ove nagrade za blok ide rudarima?
+        answer: |
+          100%. Za razliku od mnogih drugih projekata, koji imaju postotak blok nagrada koji idu u centralizirani sustav riznice, ETC ostaje potpuno neutralan u tom pogledu. Godine 2021. ETC zajednica odbila je [prijedlog riznice] (#TODO) poput ovog.
+      sha3:
+        question: Prebacuje li Ethereum Classic svoj algoritam rudarenja na SHA3?
+        answer: |
+          Vrlo malo vjerojatno u ovom trenutku.
+
+          Prije nego što je Ethereum prešao na Proof of Stake, trajala je rasprava o prelasku ETC-a na SHA3, dijelom radi obrane od "Poplave" latentnog hashratea koji bi se mogao koristiti za 51% napad na lanac nakon spajanja.
+
+          Od The Mergea, daleko od toga da je napadnut, ETC je umjesto toga postao "vrhunski grabežljivac" ETHash obitelji algoritama za rudarenje, čineći daleko težim napad od 51%. Prelazak na potpuno novi algoritam SHA3 žrtvovao bi ovu sigurnu poziciju i o tome se više ne raspravlja.
+      pos:
+        question: Hoće li ETC prijeći na Proof of Stake u budućnosti?
+        answer: |
+          Dok je bilo kakva promjena na Ethereum Classic tehnički *moguća*, prebacivanje na Proof of Stake praktički je neodrživo, budući da se formirao konsenzus oko Proof of Work superiornosti u smislu otpora cenzuri. Svaki prijedlog za uvođenje Proof of Stake na Ethereum Classic isprva bi bio ismijan, a ako bi se nametnuo u kod klijenta, izazvao bi razdvajanje lanca što bi rezultiralo u dva lanca. Što god se dogodilo, postojat će verzija Ethereum Classica koja je ostala na Proof of Work, čineći pokušaje implementacije PoS-a uglavnom besplodnim.
+
+          Više možete pročitati u odjeljku [Dokaz rada](/why-classic/proof-of-work).
+      uncle:
+        question: Što je ujak?
+        answer: |
+          Nekoliko rudara natječe se za slanje blokova u blockchain. Neki će rudari neizbježno izgubiti konkurenciju. Blockchain referencira izgubljene blokove kako bi blockchain bio sigurniji. Ovi izgubljeni blokovi koji doprinose sigurnosti blockchaina nazivaju se _ujaci_. Izraz dolazi od činjenice da blokovi imaju prethodne _parent_ blokove. Gubitnički blokovi nisu roditelji, ali su još uvijek povezani s roditeljima. Stoga su kao stričevi.
+
+          - [Sve o Ethereumu - ujaci](https://youtu.be/iIhxtuIhT_g)

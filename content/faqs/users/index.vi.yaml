@@ -1,0 +1,109 @@
+title: Câu hỏi thường gặp về người dùng
+seo: Câu hỏi thường gặp dành cho những người đang tìm kiếm sự trợ giúp trong việc sử dụng Ethereum Classic hàng ngày.
+info: Không thể tìm thấy câu trả lời cho câu hỏi của bạn ở đây? Hãy thử hỏi trong máy chủ [discord](https://ethereumclassic.org/discord) của cộng đồng ETC.
+description: Nếu bạn muốn gửi và nhận ETC, sử dụng một trong các ứng dụng được triển khai cho Ethereum Classic hoặc lo lắng về cách sử dụng nó một cách an toàn, trang này là dành cho bạn.
+items:
+  using:
+    items:
+      comparison:
+        question: Tôi có thể sử dụng Ethereum Classic (ETC) giống như Ethereum (ETH) không?
+        answer: |
+          Có, Ethereum Classic hoạt động cho người dùng cuối theo cách khá giống với Ethereum. Bạn chỉ cần đảm bảo ví, ứng dụng, sàn giao dịch hoặc dịch vụ khác mà bạn đang sử dụng hỗ trợ Classic.
+
+          Ethereum Classic, về mặt công nghệ rất giống với Ethereum, chia sẻ nội dung công việc trong hướng dẫn sử dụng, hướng dẫn và hướng dẫn áp dụng cho cả hai chuỗi, đó là lý do tại sao [hướng dẫn cộng đồng trên Ethereum.org] (https://ethereum.org/ vi / learning /) rất được khuyến khích đọc.
+
+          Bạn cũng có thể sử dụng MetaMask với Ethereum Classic.
+      metmask:
+        question: Làm cách nào để sử dụng ETC với MetaMask?
+        answer: |
+          Bạn có thể dễ dàng thêm Ethereum Classic vào MetaMask thông qua trang web [CoinList.org](https://coinlist.org/en/chain/61). Nếu bạn muốn định cấu hình MetaMask theo cách thủ công để sử dụng nút Ethereum Classic RPC tùy chỉnh, bạn có thể xem hướng dẫn [MetaMask](/ists / metamask).
+      missingEtc:
+        question: Tại sao tôi không thể thấy ETC của mình khi sử dụng ví phần cứng với MetaMask?
+        answer: |
+          Một [lỗi đã biết] (https://github.com/MetaMask/metamask-extension/issues/16272) với MetaMask là nó sẽ không nhận ra ETC được tạo bằng Ledger Live (và một số ví phần cứng khác). Bạn có thể giải quyết vấn đề này bằng cách gửi ETC từ Ledger Live đến ví MetaMask mà bạn thiết lập bằng cùng một thiết bị.
+      help:
+        question: Tôi đã vô tình gửi ETC đến địa chỉ ETH của mình, làm cách nào để khôi phục nó?
+        answer: |
+          Bước 1: Đừng lo lắng. Miễn là bạn đã gửi nó đến một tài khoản mà bạn kiểm soát hoặc tạo, bạn có khả năng lấy lại tiền của mình.
+
+          Tùy thuộc vào phần mềm hoặc trao đổi bạn đang sử dụng, có nhiều phương pháp khôi phục khác nhau, vì vậy chúng không thể được liệt kê ở đây. Tìm kiếm trực tuyến cho "[tên dịch vụ] khôi phục ETC bị mất". Bạn có thể phải liên hệ với đại lý hỗ trợ của dịch vụ bạn đang sử dụng.
+
+          Ví dụ: [Ledger Wallet] (https://support.ledger.com/hc/en-us/articles/360019363320-Eth-recovery-)
+      metmaskFailign:
+        question: Tại sao giao dịch của tôi không thành công với MetaMask?
+        answer: |
+          Để ngăn các giao dịch được tạo nhiều lần, mọi giao dịch Ethereum Classic đều bao gồm một số được gọi là nonce tăng lên mỗi khi bạn gửi giao dịch.
+
+          Đôi khi, đặc biệt nếu bạn gửi một giao dịch với phí gas thấp, giao dịch của bạn có thể bị kẹt trong mempool. Trong trường hợp này, MetaMask có thể không đặt nonce chính xác cho các giao dịch tiếp theo.
+
+          Bạn có thể buộc MetaMask sử dụng nonce chính xác bằng cách kiểm tra thời điểm giao dịch thành công cuối cùng của bạn trên [BlockScout](https://blockscout.com/etc/mainnet/), tăng nó lên 1 và [đặt nonce theo cách thủ công trong MetaMask ] (https://help.tokensets.com/en/articles/4089766-how-to-push-through-a-stuck-transaction).
+      explorers:
+        question: Làm cách nào để xem các giao dịch Ethereum Classic của tôi?
+        answer: |
+          Trình khám phá Ethereum Classic phổ biến nhất và đầy đủ tính năng là [BlockScout](https://blockscout.com/etc/mainnet/), nhưng cũng có một số lựa chọn thay thế có sẵn trong phần [trình khám phá khối] (/ network / explorers).
+      exchange:
+        question: Tôi có thể nhận ETC bằng cách nào?
+        answer: |
+          Ethereum Classic được liệt kê trên khá nhiều loại tiền điện tử lớn [exchange](/ dịch vụ / sàn giao dịch), nơi bạn có thể mua ETC bằng tiền pháp định hoặc giao dịch các loại tiền điện tử khác để lấy nó.
+
+          Nếu bạn có một cạc đồ họa hiện đại hợp lý, bạn cũng có thể [mine](/ khai thác) nó cho chính mình.
+      wallets:
+        question: Bạn khuyên tôi nên sử dụng ví nào với Ethereum Classic?
+        answer: |
+          Có rất nhiều loại ví khác nhau tùy thuộc vào trường hợp sử dụng của bạn. Kiểm tra phần [wallets](/ services / wallet) để biết thêm thông tin.
+      apps:
+        question: Những ứng dụng nào đang chạy trên mạng Ethereum Classic?
+        answer: |
+          Mọi thứ từ sàn giao dịch tập trung, DEX, DeFi, NFT, cầu nối chuỗi chéo, v.v. Xem phần [services](/ services) để tìm hiểu thêm.
+      defi:
+        question: Ethereum Classic có DeFi không?
+        answer: |
+          Đúng. Một hệ sinh thái tài chính phi tập trung nhỏ nhưng đang phát triển tồn tại trên Ethereum Classic, hãy xem danh mục ứng dụng [finance](/ services / apps / Finance) để biết các bản cập nhật.
+      staking:
+        question: Tôi có thể đặt cược ETC của mình không?
+        answer: |
+          Không, ít nhất là không như bạn làm trên blockchain Proof of Stake. ETC là một blockchain Proof of Work, vì vậy bạn chỉ có thể khai thác chứ không phải đặt cọc, để cung cấp bảo mật cho mạng.
+
+          Có thể có một số [giao thức cho vay] (/ dịch vụ / ứng dụng / tài chính) cho phép bạn cho vay ETC của mình để thu lợi nhuận, nhưng những giao thức này không phải là một phần của chính giao thức Ethereum Classic và đi kèm với rủi ro đối tác.
+      safety:
+        question: Tôi nghe nói rằng Ethereum Classic đã bị tấn công 51%. Nó có an toàn để sử dụng không?
+        answer: |
+          Vào năm 2020, Ethereum Classic có tỷ lệ băm rất thấp trong lịch sử, dẫn đến một loạt các cuộc tấn công 51%. Người ta tin rằng những kẻ tấn công đã thuê các sàn giao dịch hashrate và nhắm mục tiêu bằng các cuộc tấn công chi tiêu gấp đôi, tổng cộng những kẻ này đã mất khoảng 10 triệu đô la trong ETC.
+
+          Đáp lại, các khách hàng Ethereum Classic và hệ sinh thái rộng lớn hơn đã triển khai một số biện pháp đối phó, chẳng hạn như thời gian xác nhận lâu hơn trên các sàn giao dịch, ECIP-1099 và MESS. Kể từ khi các biện pháp đối phó này đã được thực hiện, không có cuộc tấn công 51% nào nữa.
+
+          Hơn nữa, kể từ khi Ethereum chuyển sang Proof of Stake vào năm 2022, ETC đã trở thành chuỗi GPU lớn nhất có thể khai thác được, tăng tỷ lệ băm của nó lên 50 lần đến 100 lần kể từ cuộc tấn công 51% gần đây nhất. Điều này khiến cho việc cho thuê một nhóm hashrate cực kỳ khó xảy ra để thực hiện một cuộc tấn công 51% khác, và ngay cả khi có, sẽ cực kỳ tốn kém để làm như vậy mà không có bất kỳ người bảo đảm nào thành công.
+
+          Như với tất cả các blockchain Proof of Work, khả năng xảy ra các cuộc tấn công 51% là một phần cần thiết trong thiết kế của giao thức. Khi thời gian trôi qua và Ethereum Classic tiếp tục không còn bị tấn công theo cách này nữa, các bên liên quan có thể ngày càng tin tưởng rằng các cuộc tấn công 51% đã là dĩ vãng.
+
+          Trong mọi trường hợp, việc những kẻ tấn công nhắm mục tiêu vào những người nắm giữ nhỏ lẻ là không hợp lý về mặt tài chính và chúng không thể "đánh cắp" ETC của bạn. Thay vào đó, họ thường nhắm mục tiêu các sàn giao dịch bằng cách rút tiền chi tiêu gấp đôi. Về mặt lịch sử, các sàn giao dịch đã có thể tiếp thu các cuộc tấn công quy mô tương đối nhỏ này và thực hiện các biện pháp đối phó như đã mô tả.
+      deposit:
+        question: Tại sao phải mất nhiều thời gian để gửi tiền ETC?
+        answer: |
+          Như đã đề cập trong câu hỏi trên, như một biện pháp đối phó với các cuộc tấn công 51%, một số sàn giao dịch có thời gian ký gửi Ethereum Classic cực kỳ dài. Điều này giúp bảo vệ sàn giao dịch khỏi trở thành nạn nhân của cuộc tấn công chi tiêu gấp đôi, nhưng có nghĩa là người dùng cần phải đợi thêm thời gian để tiền gửi được xác nhận.
+
+          Do hashrate của ETC gần đây đã tăng lên đáng kể, nên có khả năng các sàn giao dịch sẽ giảm số lượng xác nhận cần thiết để hoàn tất các khoản tiền gửi.
+      blockchain:
+        question: Blockchain là gì?
+        answer: |
+          Blockchain là một loại cơ sở dữ liệu phân tán đặc biệt. Thuộc tính quan trọng nhất của blockchain là không ai kiểm soát chúng! Không có ai mà mọi người cần tin tưởng để quản lý nó. Đó là lý do tại sao họ được coi là không đáng tin cậy. Người dùng gửi công việc trong _transactions_ được nhóm thành _blocks_ được liên kết với nhau để tạo thành _chains_.
+
+          - [Blockchain hoạt động như thế nào - Giải thích đơn giản] (https://youtu.be/SSo_EIwHSd4)
+          - [Blockchain trong 7 phút] (https://youtu.be/yubzJw0uiE4)
+          - [Công nghệ chuỗi khối cho hình nhân - Blockchain giải thích đơn giản] (https://youtu.be/2yJqjTiwpxM)
+          - [Giải thích về Blockchain] (https://youtu.be/QphJEO9ZX6s)
+      ether:
+        question: Ether là gì?
+        answer: |
+          Ether là mã thông báo gốc của Ethereum Classic là một loại tiền điện tử được giao dịch trên các sàn giao dịch tiền kỹ thuật số dưới biểu tượng mã ** ETC **. Ether được tạo ra như một phần thưởng cho các nút mạng cho một quá trình được gọi là khai thác, xác nhận các tính toán được thực hiện trên EVM của Ethereum Classic.
+
+          Ether và ETC biểu thị tiền điện tử gốc được sử dụng để thanh toán cho các nhiệm vụ như cài đặt các hợp đồng thông minh mới.
+          [Ether và Ethereum là gì?] (Https://youtu.be/fjnovGRQrRE)
+      gas:
+        question: Gas là gì?
+        answer: |
+          Gas là cơ chế định giá giao dịch nội bộ, được sử dụng để giảm thiểu thư rác và phân bổ tài nguyên trên mạng. Nó là một đơn vị được sử dụng để biểu thị số lượng _ nguồn_ cần thiết để thực hiện các tác vụ như cài đặt các hợp đồng thông minh mới.
+
+          - [Giải thích về Ethereum Gas] (https://youtu.be/hQ78FVSv-vs)
+          - [Sự khác biệt giữa Ether và Gas | Lập trình viên giải thích] (https://youtu.be/cZ0rYWJzeow)
+          - [Giá gas và giao dịch không phải giá trị] (https://mirror.xyz/0x4B0728B9B1E45583bFb8bD738C9C6c8906f2841d/gYK5HwZjAHZuoZKeib5FcwXc7MbGyetfXc)

@@ -1,0 +1,51 @@
+title: Actualizaciones del protocolo
+seo: Un historial de las anteriores bifurcaciones duras; las actualizaciones del protocolo que fueron aceptadas para Ethereum Classic.
+description: |
+  Ethereum Classic, a pesar de su historia, no está en contra de todos los tipos de Hard Fork. Lejos de ello; el Hard Fork permite actualizar el protocolo, corregir errores y añadir características que fomentan el objetivo de permitir a los desarrolladores "Construir aplicaciones imparables".
+
+  Los tipos de Hard Fork que Ethereum Classic nunca implementará son aquellos como [The DAO Fork](/why-classic/genesis), que no abordan un defecto o una mejora del propio protocolo, sino que anulan el *Código es Ley* modificando los Smart Contracts en la capa de aplicación.
+
+  Ethereum Classic mantiene estratégicamente la máxima compatibilidad con el EVM de Ethereum, lo que significa que los contratos desplegados en ETH también pueden ser desplegados en ETC, y Ethereum Classic hereda muchas valiosas innovaciones nacidas de la investigación en Ethereum.
+items:
+  forks:
+    title: Historia de la horquilla ETC
+    items:
+      Frontier:
+        title: Frontera
+        text: Lanzada bajo el lema "Construye aplicaciones imparables", Frontier fue una implementación en vivo, pero sin nada, del proyecto Ethereum. Fue la continuación de la exitosa fase de pruebas olímpicas. Estaba destinado a usuarios técnicos, concretamente a desarrolladores. Los bloques tenían un límite de gas de 5.000. Este periodo de "descongelación" permitió a los mineros iniciar sus operaciones y a los primeros en adoptarlo instalar sus clientes sin tener que "apresurarse".
+      Ice Age:
+        title: Edad de hielo
+        text: La horquilla de descongelación de la frontera eliminó el límite de 5.000 gas por bloque y fijó el precio del gas por defecto en 51 gwei. Esto permitió realizar transacciones - las transacciones requieren 21.000 gwei.
+      Homestead:
+        title: Homestead
+        text: La bifurcación Homestead miraba al futuro. Incluía varios cambios en el protocolo y un cambio en la red que otorgaba a Ethereum la capacidad de realizar más actualizaciones de la red.
+      Gas Reprice:
+        title: Reprice de gas
+        text: El ECIP-1015 fue la primera actualización independiente del protocolo de Ethereum Classic después del Hard Fork del DAO, que implicó cambios en el coste del gas a largo plazo para las operaciones de IO-pesadas para mitigar los ataques de spam de transacciones.
+      Die Hard:
+        title: Duro de Matar
+        text: La bifurcación Die Hard retrasó la bomba de dificultad, revalorizó el opcode EXP e implementó la protección contra repeticiones, estableciendo el ID de cadena de ETC en 61.
+      Gotham:
+        title: Gotham
+        text: La ECIP 1017 hace que Ethereum Classic sea más parecido a Bitcoin introduciendo un límite superior en el número absoluto máximo de ETC y un método de emisión degradado en el tiempo.
+      Defuse Difficulty Bomb:
+        title: Desactivar la bomba de dificultad
+        text: La bomba de dificultad se retrasa, sin otros cambios.
+      Atlantis:
+        title: Atlantis
+        text: Habilitó las extraordinarias actualizaciones de los protocolos de red Spurious Dragon y Byzantium de la Fundación Ethereum en la red Ethereum Classic en un hard-fork con nombre de código Atlantis para permitir la máxima compatibilidad entre estas redes.
+      Agharta:
+        title: Agharta
+        text: Habilitó las destacadas actualizaciones de los protocolos de red de la Fundación Ethereum Constantinople y Petersburg en la red Ethereum Classic en un hard-fork con nombre de código Agharta para permitir la máxima compatibilidad entre estas redes.
+      Phoenix:
+        title: Phoenix
+        text: Habilitó las extraordinarias actualizaciones del protocolo de red de la Fundación Ethereum de Estambul en la red de Ethereum Classic en un hard-fork con nombre de código Phoenix para permitir la máxima compatibilidad entre estas redes.
+      Thanos:
+        title: Thanos
+        text: La ECIP 1099 calibró la longitud de la época utilizada en los cálculos del DAG, cambiando de ETHash a ETCHash, Aumentó la seguridad de la red permitiendo que las GPU con 4 GB de memoria minaran ETC.
+      Magneto:
+        title: Magneto
+        text: Habilitó las funciones de actualización del protocolo de red de la Fundación Ethereum de Berlín, alcanzando la máxima compatibilidad con Ethereum.
+      Mistique:
+        title: Mística
+        text: Habilitó las funciones de actualización del protocolo de red de la Fundación Ethereum de Londres, manteniendo la máxima compatibilidad con Ethereum.

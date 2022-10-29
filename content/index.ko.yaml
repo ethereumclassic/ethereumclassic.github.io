@@ -1,0 +1,52 @@
+billboard:
+  text: '%%$$%% 이더리움'
+  ## must be kind of short, so they fit on the page
+  randomWords:
+    Decentralized: "탈중앙화"
+    Original: "원래의"
+    Veracious: "진실한"
+    Untainted: "오염되지 않은"
+    Uncensored: "무수정"
+    Untampered: "변경되지 않은"
+    Immutable: "불변"
+    Sound Money: "사운드 머니"
+    Uncaptured: "캡처되지 않은"
+    SovereignGrade: "소버린 등급"
+    Principled: "원칙주의"
+    Unstoppable: "멈출 수 없는"
+    Proof of Work: "작업 증명"
+    Leaderless: "리더리스"
+    Antifragile: "안티프래질"
+    Code is Law: "코드는 법이다"
+    Classic: "권위 있는"
+    Permisionless: "무허가"
+## feature
+feature:
+  title: 자주 묻는 질문
+  subtitle: 새 섹션
+  text: 사용 사례별로 구성된 자주 묻는 질문을 탐색하여 원하는 답변을 빠르게 찾을 수 있습니다.
+  button: 답변된 질문
+## intro
+intro:
+  title: 멈출 수 없는 애플리케이션 구축
+  content: |
+    기존 기관이 블록체인 기술의 엄청난 잠재력에 점점 더 위협을 받으면서 진정으로 탈중앙화된 암호화폐만이 살아남을 것입니다.
+
+    자매 체인 이더리움에 대한 계약 검열에 대응하여 존재하는 Classic은 모든 역경에 대해 검열에 저항하고 *거칠 수 없는* 애플리케이션의 *원래* 이더리움 비전을 제공하는 능력을 입증했습니다.
+
+    ETH의 기술과 BTC의 철학을 결합함으로써 ETC는 다른 체인이 특별한 이해 관계자에 의해 손상되거나 캡처될 때 미래의 스마트 계약 플랫폼이 될 수 있는 고유한 위치에 있습니다.
+
+    환영합니다. 이더리움 클래식의 과거, 현재, 미래를 발견할 수 있도록 초대해 주십시오. 그것은 원칙, 가치 제안, 커뮤니티 등 - 왜 Classic인지 이해하는 것입니다.
+  button:
+    text: 왜 클래식인가?
+#Headers
+headings:
+  headlines:
+    title: 헤드라인
+    button: 모든 뉴스
+  videos:
+    title: 최신 동영상
+    button: 모든 동영상
+  apps:
+    title: 최신 애플리케이션
+    button: 모든 앱

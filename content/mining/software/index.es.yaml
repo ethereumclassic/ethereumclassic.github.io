@@ -1,0 +1,18 @@
+title: Software Miner
+seo: Una lista de paquetes de software que pueden utilizarse para minar la criptomoneda ETC en Ethereum Classic.
+description: "El algoritmo de minería Proof-of-Work para la red Ethereum Classic es [ETCHash](https://github.com/eth-classic/etchash) desde el 28 de noviembre de 2020."
+items:
+  table:
+    columnItems:
+      name:
+        name: Nombre
+      windowsAmd:
+        name: Windows AMD
+      windowsNvidia:
+        name: Windows Nvidia
+      linuxAmd:
+        name: Linux AMD
+      linuxNvidia:
+        name: Linux Nvidia
+      guide:
+        text: Guía

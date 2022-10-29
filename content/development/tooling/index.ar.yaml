@@ -1,0 +1,73 @@
+title: ادوات المطورين
+seo: مجموعة من الأدوات لتعزيز تطوير تطبيق Ethereum Classic وتجربة devops.
+description: |
+  تحتوي هذه الصفحة على قائمة بالموارد التي قد يجدها أولئك الذين يطورون التطبيقات فوق Ethereum Classic مفيدة. تأكد أيضًا من مراجعة صفحة [بيئة مطور Ethereum.org] (https://ethereum.org/en/developers/local-environment/) ، حيث تظل العديد من هذه الأدوات ذات صلة عند تطوير Ethereum Classic.
+items:
+  prices:
+    title: مصادر السعر
+    description: توفر هذه المواقع وواجهات برمجة التطبيقات سعر ETC للاستخدام في تطبيقك.
+  processors:
+    title: معالجات الدفع
+    description: يمكن استخدام واجهات برمجة التطبيقات هذه لقبول مدفوعات ETC في موقع الويب أو التطبيق الخاص بك.
+  dex:
+    title: تجربة التطوير
+    description: مجموعة مختارة غير شاملة من أدوات المطورين التي يمكن أن تساعد في تطوير تطبيقات Ethereum Classic ، بما في ذلك IDEs والمكتبات وأطر الاختبار ومصححات الأخطاء * وما إلى ذلك *.
+    items:
+      BUIDL IDE:
+        description: Second State BUIDL IDE هي بيئة تطوير متكاملة تستند إلى الويب ولا تتطلب تنزيل أو تثبيت أي برنامج. يوفر بيئة تطوير ونشر شاملة لمطوري العقود الذكية ومطوّري dapp.
+      Dappkit:
+        description: بنية تحتية ومكتبات غير محددة لدفتر الأستاذ وعالية الأداء للمطورين لبناء التطبيقات اللامركزية وتوسيع نطاقها. باختصار ، Firebase تعاوني لـ Dapps.
+      Embark Framework:
+        description: إطار عمل للتطبيقات اللامركزية بدون خادم باستخدام Ethereum و IPFS ومنصات أخرى.
+      Emerald Platform:
+        description: منصة لبناء Dapps لـ ETC blockchain.
+      ESerialize:
+        description: الهدف من هذه الوحدة هو توفير وظائف سهلة لتسلسل البيانات وإلغاء تسلسلها لمجموعة Ethereum Stack.
+      Ethereum JSON-RPC API:
+        description: مواصفات طرق JSON-RPC التي يجب على عميل blockchain المستند إلى EVM تنفيذها.
+      Eth Fiddle:
+        description: محرر على الإنترنت للعقود الذكية.
+      EVM-LLVM:
+        description: لا يمكن للمطورين فقط استخدام نطاق كبير من لغات البرمجة (Rust للعقود الذكية!) بخلاف Solidity لاستهداف جهاز Ethereum Virtual Machine (EVM) ، بل يمكنهم أيضًا الاستفادة على الفور من أدوات التطوير المتنوعة المبنية حول البنية التحتية لـ LLVM.
+      Ganache:
+        description: blockchain Ethereum الشخصي لإجراء الاختبارات.
+      Jade Suite:
+        description: تعمل مجموعة أدوات Jade على تمكين المطورين من إنشاء تطبيقات لا مركزية من نظير إلى نظير بالإضافة إلى سلاسل الكتل القائمة على EVM مثل Ethereum Classic.
+      Mythx:
+        description: MythX هي خدمة تحليل الأمان الرئيسية لعقود Ethereum الذكية. مهمتنا هي ضمان تجنب فرق التطوير الأخطاء المكلفة وجعل Ethereum منصة أكثر أمانًا وجدارة بالثقة.
+      Open-RPC:
+        description: تحدد مواصفات OpenRPC وصفًا قياسيًا للواجهة الحيادية بلغة البرمجة لواجهات برمجة تطبيقات JSON-RPC 2.0.
+      OpenZeppelin:
+        description: إطار عمل تم اختباره في المعركة لعقود ذكية آمنة وقابلة لإعادة الاستخدام.
+      Quorum:
+        description: Quorum هي عبارة عن منصة blockchain مفتوحة المصدر تجمع بين ابتكار مجتمع Ethereum العام مع التحسينات لدعم احتياجات المؤسسة.
+      Remix Online IDE:
+        description: IDE مفيد في المتصفح يمكنه تجميع ونشر العقود الذكية لشبكات Ethereum المختلفة. يشمل لينتر.
+      Signatory:
+        description: معاملة غير متصلة بالإنترنت وموقّع رسائل لمكدس Ethereum Stack.
+      SOLL:
+        description: مترجم LLVM قادم أخيرًا إلى Solidity. باستخدامه ، يمكننا بسهولة إنشاء عقود ذكية عبر أجهزة افتراضية متعددة لـ blockchain. يعد EVM على Ethereum Classic و eWASM الخاص بـ ETH 2.0 من بين أول الأجهزة التي ندعمها.
+      Sputnikvm:
+        description: SputnikVM هو تطبيق مستقل مفتوح المصدر لجهاز Ethereum Virtual Machine (EVM). تهدف إلى أن تكون آلة افتراضية فعالة وقابلة للتوصيل لمختلف سلاسل الكتل المستندة إلى Ethereum.
+      Truffle Suite:
+        description: بيئة تطوير عالمية المستوى وإطار عمل للاختبار وخط أنابيب للأصول للكتل باستخدام جهاز Ethereum Virtual Machine (EVM) ، بهدف تسهيل الحياة كمطور.
+  nodeTools:
+    title: نشر العقدة
+    description: تسهل هذه الأدوات إنشاء مجموعة من العقد لعمليات نشر الإنتاج أو إجراء علوم البيانات باستخدام مجموعات البيانات العامة.
+    items:
+      Bloq Cloud:
+        description: يوفر BloqCloud وصولاً مُحسّنًا للغاية ومتاحًا دائمًا لشبكات blockchain. يمكنك الاتصال بسرعة وتوسيع نطاقه بسهولة بناءً على احتياجاتك - دون الحاجة إلى القلق بشأن إدارة البنية التحتية.
+      DappNode:
+        description: تسهل DAppNode تشغيل العقد و DApps واستضافة شبكات P2P والاقتصادات.
+      Ethercluster:
+        description: Ethercluster عبارة عن استدعاء إجراء عن بُعد لجهاز Ethereum Virtual (EVM) مفتوح المصدر (RPC) يوفر نقاط نهاية Ethereum Classic (ETC) و Kotti مجانًا.
+      GetBlock:
+        description: GetBlock هي خدمة توفر الاتصال لعقد العملات المشفرة الرئيسية. إنها تدعم أدوات مثل JSON-RPC و REST و WebSockets ، مما يسهل المزامنة المباشرة مع blockchain. ليست هناك حاجة لتشغيل عقدة بنفسك ، حيث تسمح المنصة لعملائها بالاتصال بـ blockchain عبر عقدة كاملة دون الحاجة إلى دفع رسوم.
+      Google BigQuery:
+        description: أصدرت Google Cloud مجموعات بيانات تتكون من سجل معاملات blockchain لـ Ethereum Classic ، لمساعدتك على فهم العملة المشفرة بشكل أفضل. تضمنت أيضًا مجموعة من الاستعلامات وطرق العرض التي تحدد جميع مجموعات بيانات blockchain بهيكل بيانات دفتر الإدخال المزدوج الذي يتيح التحليلات الوصفية متعددة السلاسل ، فضلاً عن التكامل مع أنظمة معالجة السجلات المالية التقليدية.
+      Raspberry Pi Node:
+        description: دليل مفصل لكيفية إعداد عقدة Ethereum Classic على Raspberry Pi.
+      Rivet Cloud:
+        description: نقاط نهاية Ethereum و Ethereum Classic قابلة للتطوير بشكل لا نهائي ومتاحة للغاية.
+      QuikNode:
+        description: QuikNodes سهل ، ودائم التشغيل ، مع اتصال إنترنت سريع لمزامنة blockchain السريعة ، ولا داعي للقلق بشأن نفاد مساحة القرص.

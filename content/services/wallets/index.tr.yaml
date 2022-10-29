@@ -1,0 +1,30 @@
+title: Cüzdanlar
+seo: Web cüzdanları, uzantılar, yazılım cüzdanları, donanım cüzdanları ve ETC'yi güvence altına almanın diğer yolları için bir kaynak.
+description: |
+  ETC'yi güvence altına almak ve kullanmak için aralarından seçim yapabileceğiniz birçok cüzdan seçeneği vardır. Her seçenek güvenlik ve rahatlık arasında farklı bir denge sağlar. Lütfen gereksinimlerinize bağlı olarak en iyi seçeneği araştırın.
+
+  ## Hangi Cüzdanı Kullanmalıyım?
+
+  Aşağıdaki öneriler onay değildir ve yalnızca yeni kullanıcıların kendileri için muhtemelen uygun olan bir seçeneği hızlı bir şekilde bulmalarına yardımcı olmak içindir.
+
+  - Basit bir mobil uygulama istiyorsanız, [Trust Wallet] (https://trustwallet.com/ethereum-classic-wallet) kullanımı kolaydır ve ETC dahil birçok para birimini destekler.
+  - Merkezi olmayan uygulamalarla kullanmak için küçük miktarlarda ETC tutmak istiyorsanız, [MetaMask](/guides/metamask) adresini deneyin ve Ethereum Classic'e bağlayın.
+  - İşletmeniz için ETC kabul ediyorsanız, muhtemelen yerel para biriminiz karşılığında satmak için kullanabileceğiniz bir [exchange](/services/exchanges) hesabı oluşturmak istersiniz.
+  - Daha büyük miktarlar tutuyorsanız, bir [Donanım Cüzdanı] (#hardware-wallets) satın almanız şiddetle tavsiye edilir.
+  - Daha gelişmiş kullanım durumları için lütfen kendi araştırmanızı yapın ve aşağıdaki seçeneklerden birkaçını deneyin.
+items:
+  web:
+    title: Web Cüzdanları
+    description: Bu Web3 cüzdanlarına bir web sayfası kullanılarak erişilebilir. Büyük miktarları güvence altına almak için kullanılmamalıdır, ancak indirmeler olmadan ETC ile kolayca etkileşim kurmanıza olanak tanır.
+  browsers:
+    title: Tarayıcıya Entegre Cüzdanlar
+    description: Bu Web3 cüzdanları web tarayıcılarına entegre edilmiştir. Tipik olarak, tarayıcınızda Ethereum Classic dapp'leriyle sorunsuz bir şekilde etkileşime girmenizi sağlamak için web sitelerine hesap bilgilerinizi enjekte ederler.
+  hardware:
+    title: Donanım Cüzdanları
+    description: Donanım cüzdanları, uzun süreli depolama için tasarlanmış güvenli cüzdanlardır.
+  software:
+    title: Yazılım Cüzdanları
+    description: Yazılım cüzdanları, kısa süreli depolama için tasarlanmış Masaüstü veya Mobil cihazlardır.
+  other:
+    title: Diğer Cüzdan Ürünleri
+    description: Bu ürünler, kurtarma tohumu depolama gibi kripto cüzdanlarını tamamlayıcı niteliktedir.

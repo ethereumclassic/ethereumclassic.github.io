@@ -1,0 +1,20 @@
+title: ที่เก็บ Git
+description: แหล่งรวมโอเพ่นซอร์สเบ็ดเตล็ดสำหรับนักพัฒนา Ethereum Classic
+items:
+  repos:
+    items:
+      EthereumClassic:
+        name: องค์กร Github หลัก
+        description: องค์กรหลัก Ethereum Classic Github ซึ่งประกอบด้วยที่เก็บจำนวนมาก ซึ่งเราจะเน้นที่ด้านล่าง...
+      eth-classic:
+        name: องค์กร Github ทางเลือก
+        description: ชุมชนอื่นจัดการ Github Organization ที่มีการกำหนดค่า testnet, ETCHash, Besu เป็นต้น
+      etcLabs:
+        name: ETC Labs
+        description: องค์กรที่มีที่เก็บ Ethereum Classic จำนวนมากที่ ETC Labs ดูแลก่อนหน้านี้รวมถึง core-get
+      website:
+        name: เว็บไซต์ ETC
+        description: ซอร์สโค้ดของเว็บไซต์นี้ รวมถึงคำแนะนำเกี่ยวกับวิธีการมีส่วนร่วม
+      awesomeEtc:
+        name: สุดยอด ETC
+        description: รายการทรัพยากรที่ยอดเยี่ยมสำหรับโครงการ Ethereum Classic (ETC)

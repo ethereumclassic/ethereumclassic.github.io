@@ -20,7 +20,7 @@ items:
         name: Phyro对ETC历史的回顾
         description: |
           一位长期从事ETC工作的人对ETC背后的故事的详细概述。
-          *你也可以在 [roadmap](/knowledge/roadmap)上阅读更多关于ETC的历史。
+          *你也可以在 [roadmap]（/knowledge/roadmap）上阅读更多关于ETC的历史。
       /blog/2016-12-06-why/:
         name: 为什么我选择在Ethereum/Classic上运行我的应用程序，而不是在万维网上？
         description: 在万维网上的好处
@@ -37,7 +37,7 @@ items:
         name: 为什么股权证明比工作证明更不安全？
         description: 通过锚定在工作证明的物理基础上，主观层获得了数量级更高的客观性，从而获得了安全性。
       Ethereum Classic (ETC) Wiki:
-        name: 以太坊经典(ETC)维基
+        name: 以太坊经典（ETC）维基
         description: 以太坊ETC链的一些核心理念。
       Categories of Decentralization:
         name: 权力下放的类别

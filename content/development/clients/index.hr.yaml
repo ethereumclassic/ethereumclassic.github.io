@@ -1,0 +1,20 @@
+title: Klijenti čvora
+seo: Veze za preuzimanje i informacije o raznim klijentima Ethereum Classic Node.
+description: |
+  Klijenti su programski paketi koji se mogu koristiti za pokretanje Ethereum Classic protokola u različitim načinima rada; Puni čvorovi, arhivski čvorovi, klijenti za brzu sinkronizaciju, itd. Klijenti vam omogućuju pokretanje glavnog ili testnog čvora, provjeru valjanosti blokova kroz rudarenje i sučelje s mrežom putem API-ja.
+
+  Dodatne alate za pomoć pri upravljanju implementacijama klijenata možete pronaći u odjeljku [tooling](/development/tooling).
+items:
+  clients:
+    buttonItems:
+      guide:
+        name: Vodič
+      release:
+        name: Izdanja
+      support:
+        name: podrška
+    items:
+      CoreGeth:
+        description: Visoko konfigurabilna Go implementacija Ethereum protokola. Ovaj klijent ima dugoročnu podršku razvojnog tima ETC Cooperative. Ovo je preporučeni klijent poznatog transparentnog tima.
+      Hyperledger Besu:
+        description: Ethereum klijent s licencom Apache 2.0 temeljen na Javi za poduzeća. Ovaj klijent ima dugoročnu podršku timova ETC Cooperative. Ovo je preporučeni klijent poznatog transparentnog tima.

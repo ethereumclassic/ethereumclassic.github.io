@@ -1,0 +1,23 @@
+title: Ứng dụng và giao thức
+seo: Các ứng dụng và giao thức phi tập trung được xây dựng trên Ethereum Classic; NFT, Trò chơi, Hệ thống nhận dạng, DEX, Sản phẩm Tài chính và hơn thế nữa ...
+description: Ethereum Classic lưu trữ một bộ sưu tập các ứng dụng và giao thức phi tập trung ngày càng tăng. Trang này là tổng quan về tình trạng phát triển mạng ETC.
+support: Hỗ trợ ETC bằng cách gửi ứng dụng của riêng bạn!
+types:
+  nfts:
+    title: NFT
+    description: Token Non-Fungible là những thứ không thể thu thập được, đã gây bão không gian tiền điện tử vào năm 2021 và hơn thế nữa.
+  games:
+    title: Trò chơi
+    description: Các trò chơi tương tác được tích hợp vào chuỗi khối Ethereum Classic sẽ tiếp cận các biên giới giải trí mới.
+  identity:
+    title: Hệ thống nhận dạng
+    description: Danh tính có thể tương tác sẽ đóng một vai trò trong việc tạo ra các hệ thống phi tập trung chống Sybil, tạo điều kiện thuận lợi cho danh tiếng và quản trị.
+  interoperability:
+    title: Khả năng tương tác
+    description: Công nghệ chuỗi chéo cho phép chia sẻ giá trị và dữ liệu giữa các blockchain nâng cao hiệu ứng mạng và làm cho chiếc bánh lớn hơn cho tất cả những người tham gia.
+  finance:
+    title: Tài chính
+    description: Tài chính phi tập trung (DeFi), Sàn giao dịch phi tập trung (DEX), Tổ chức tự trị phi tập trung (DAO), bất kể từ viết tắt nào, công nghệ blockchain vượt trội trong việc xây dựng các phương tiện kinh tế mới này.
+  other:
+    title: Khác
+    description: Tất cả các ứng dụng và giao thức quá độc đáo, chúng không phù hợp với một danh mục hiện có.

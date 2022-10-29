@@ -1,0 +1,103 @@
+title: Ethereum Classic
+seo: "Platform pengkomputeran terdesentralisasi yang menjalankan kontrak pintar: aplikasi yang berjalan tepat seperti yang diprogramkan tanpa masa henti, penapisan atau gangguan pihak ketiga"
+#Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
+metaLocale: en_US
+#Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
+htmlLang: en
+published: Diterbitkan
+updated: Kemas kini terakhir
+author: Pengarang
+timeline:
+  chronological: Kronologi
+  reversed: Terbalik
+disclaimers:
+  verify:
+    title: Jangan Percaya, Sahkan.
+    text: Pautan luar ialah penyerahan komuniti tidak rasmi.
+  opinion:
+    title: Kandungan Berpendapat
+    text: Halaman ini tidak semestinya menggambarkan pandangan semua pihak berkepentingan ETC.
+next: Teruskan membaca
+prev: Artikel Sebelumnya
+contribute: Jika anda ingin menyumbang dengan menambah atau membetulkan maklumat pada halaman ini, sila hantar mesej pada [Discord](https://discord.com/invite/dwxb6nf) atau buat isu pada [GitHub](https://github.com/ethereumclassic /ethereumclassic.github.io)
+contributors: "Halaman ini wujud sebahagiannya terima kasih kepada penyumbang berikut:"
+allLanguages: Semua Bahasa
+noResults: Tiada keputusan
+netlify: Laman web ini dikuasakan oleh Netlify
+metaMask: Tambahkan ETC pada MetaMask
+helpTranslate: Sokong ETC dengan membantu menterjemah tapak web ini!
+noItems: Maaf, halaman ini kosong!
+search:
+  box: Cari
+  noResults: Tiada keputusan...
+  poweredBy: Dikuasakan oleh Algolia
+  generalInfo: Maklumat Am
+  blogArticles: Artikel Blog
+  videos: Video
+  applications: Aplikasi
+  newsLinks: Pautan Berita
+  txSearch: Nampaknya anda telah memasukkan alamat atau transaksi Ethereum Classic.
+  blockScout: "Cari Blockscout Explorer:"
+  explorers: ...atau lihat beberapa [penjelajah rantaian blok](/network/explorers) lain.
+##
+## Announcement Banner
+announcement:
+  text: |
+    Laman web ini kini diterjemahkan ke dalam pelbagai bahasa melalui pembelajaran mesin. Klik ikon glob di bahagian atas sebelah kanan halaman untuk menukar bahasa. Jika anda ingin membantu terjemahan yang betul, sila hubungi kami!
+  button:
+    text: "Bantu Terjemah"
+## Footer
+signOff: Dibuat dengan `<3` untuk Wawasan Ethereum Asal
+socialHilight: Komuniti ETC aktif di Discord
+socialItems:
+  discord:
+    name: Perselisihan
+  discordCoop:
+    name: ETC Coop Discord
+  githubOrg:
+    name: Github
+  githubLabs:
+    name: ETC Labs Github
+  reddit:
+    name: Reddit
+  twitter:
+    name: Twitter
+appTypes:
+  finance:
+    name: Kewangan
+  games:
+    name: Permainan
+  identity:
+    name: identiti
+  interoperability:
+    name: Saling kendali
+  nfts:
+    name: NFT
+  other:
+    name: Lain-lain
+appLinks:
+  homepage: Laman utama
+  app: Tapak Apl
+  twitter: Twitter
+  github: Github
+newsTypes:
+  news:
+    name: Pautan
+  blog:
+    name: Blog
+  application:
+    name: Aplikasi
+    prefix: "Aplikasi: "
+  video:
+    name: Video
+    prefix: "Video: "
+## App Modal
+appModal:
+  verifiedContract: Kontrak
+  openSource: Sumber terbuka
+  audit: Diaudit
+  testSuite: Suite Ujian
+  ipfsFrontend: Bahagian Hadapan IPFS
+  checkListRating: Tahap Senarai Semak Tanpa Amanah
+  warning: "**Amaran:** Apl yang diserahkan pengguna ini TIDAK disemak dan TIDAK dijamin selamat; gunakan atas risiko anda sendiri, dan sentiasa lakukan penyelidikan anda sendiri!"
+  added: Ditambah

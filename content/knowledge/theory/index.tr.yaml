@@ -1,0 +1,45 @@
+title: Teori ve Araştırma
+seo: Ethereum Classic'in temel felsefesi, tarihi ve benzersiz değer önerisi ile ilgili çok çeşitli konuları kapsayan bir makale koleksiyonu.
+description: |
+  Ethereum Classic'in temel ilkelerinin ötesinde, Hard Fork'un sonuçlarına ve Orijinal Ethereum Vizyonunun devamına dayanan bütün bir düşünce okulu ortaya çıkmıştır.
+
+  Ethereum Classic'in benzersiz konumunu ve sınırsız potansiyelini daha iyi anlamanıza yardımcı olmak için ETC'nin etkisini, tarihini ve daha geniş bir teori ve araştırma konularını araştıran bir dizi makale aşağıda bir araya getirilmiştir.
+items:
+  links:
+    items:
+      Etherplan:
+        name: Etherplan
+        description: Donald McIntyre'ın Etherplan'ı önde gelen bir Ethereum Classic teori ve araştırma kaynağıdır. McIntyre, aşağıdaki makalelerin birçoğunun yazılmasından sorumludur.
+      Ethereum Classic Vision:
+        name: Ethereum Classic Vizyonu
+        description: Ethereum Classic'in nasıl başarılı bir bilgi işlem platformu olacağı ve ETC'nin neden mükemmel bir değer deposu olduğu.
+      Ethereum Classic vs. Ethereum 2.0, What is the Difference?:
+        name: Ethereum Classic vs. Ethereum 2.0, Aradaki Fark Nedir?
+        description: Ethereum Classic'in güvenliğe odaklanan muhafazakar bir sistem olduğu ve yaklaşmakta olan Ethereum 2.0'ın performansa odaklanan aşamalı bir sistem olduğu söylenebilir.
+      Phyro's Recap of ETC History:
+        name: Phyro'nun ETC Tarihi Özeti
+        description: |
+          Uzun süreli bir ETC'ci tarafından ETC'nin arkasındaki hikayeye ayrıntılı bir genel bakış.
+          *Ayrıca [roadmap](/knowledge/roadmap) adresinden ETC tarihi hakkında daha fazla bilgi edinebilirsiniz.*
+      /blog/2016-12-06-why/:
+        name: Uygulamamı Neden World Wide Web Yerine Ethereum / Classic Üzerinde Çalıştırmayı Seçmeliyim?
+        description: Dünya Çapında Ağ Üzerindeki Faydalar
+      Ethereum Classic Opportunities:
+        name: Ethereum Classic Fırsatları
+        description: Ethereum Classic'in vahşi potansiyeline genel bir bakış
+      How to Have a Vision for Ethereum Classic Without Creating a Governance Orgy:
+        name: Yönetişim Alemi Yaratmadan Ethereum Classic için Nasıl Vizyon Sahibi Olunur?
+        description: Blok zinciri yönetişiminin sorunlarından kaçınırken ilerlemeyi sürdürmeye yönelik bir yaklaşım
+      The Ethereum Classic vs Ethereum 1.x Dichotomy:
+        name: Ethereum Classic vs Ethereum 1.x İkilemi
+        description: Ethereum Proof of Stake'e geçtiğinde ETC'nin ETH 1.X ile ilişkisi ne olacak?
+      Why Proof of Stake is Less Secure Than Proof of Work:
+        name: Proof of Stake Neden Proof of Work'ten Daha Az Güvenli?
+        description: İş kanıtı niteliğindeki fiziksel bir tabana sabitlenerek, öznel katman büyüklük sırasına göre daha fazla nesnellik ve dolayısıyla güvenlik kazanır.
+      Ethereum Classic (ETC) Wiki:
+        name: Ethereum Classic (ETC) Wiki
+        description: Ethereum'un ETC zincirinin bazı temel felsefeleri.
+      Categories of Decentralization:
+        name: Yerinden Yönetim Kategorileri
+        link: https://taek.org/posts-categories-of-decentralization
+        description: Beş kategori, her önemli ayrıntıyı yakalamaya çalışmadan veya bir protokolün diğerinden daha merkeziyetsiz olduğuna dair kesin bir kesinlik sağlamadan, bir platform veya protokol tarafından yapılan güven varsayımları hakkında akıl yürütmek için sağlam bir temel sağlamayı amaçlamaktadır.

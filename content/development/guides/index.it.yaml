@@ -1,0 +1,156 @@
+title: Guide allo sviluppo
+seo: Una selezione di tutorial e spiegazioni per sviluppatori principianti e avanzati, con una spiegazione di come effettuare il deploy su Ethereum Classic.
+description: |
+  Il processo di creazione e distribuzione di Smart Contracts su Ethereum Classic è lo stesso di Ethereum. Uno degli obiettivi di Ethereum Classic è quello di mantenere la compatibilità con l'ETH, in modo che qualsiasi contratto distribuito su Ethereum possa essere facilmente riproposto su Ethereum Classic.
+
+  Ciò significa che la maggior parte dei tutorial, delle librerie e degli strumenti di sviluppo esistenti su Ethereum possono essere utilizzati anche con Ethereum Classic. Nella maggior parte dei casi, l'unica differenza consiste nel cambiare un'opzione di configurazione per distribuire su Ethereum Classic piuttosto che su una testnet o una mainnet di Ethereum.
+
+  L'eccezione principale è rappresentata dalle interazioni con sistemi di terze parti come Stablecoins o Oracles, che sono distribuiti solo su ETH e non sono ancora presenti su ETC. Lentamente ma inesorabilmente, le versioni ETC di questi servizi verranno migrate, forse anche da voi! È possibile verificare quali servizi sono attualmente disponibili nella sezione [apps] (/services/apps).
+
+  Per questo motivo, consigliamo vivamente di esplorare le [Risorse per gli sviluppatori sul sito web di Ethereum.org](https://ethereum.org/en/developers/), che contengono una grande quantità di informazioni aggiornate. Inoltre, i link di questa pagina contengono guide specifiche per lo sviluppo su Ethereum Classic.
+
+  Nella sezione [Video > Sviluppo](/videos/sviluppo) sono disponibili anche video tutorial sullo sviluppo con Ethereum Classic.
+items:
+  tutorials:
+    title: Come iniziare
+    description: Ecco un elenco non esaustivo di alcuni tutorial e walkthrough utili per iniziare a sviluppare Ethereum Classic.
+    items:
+      Kotti Testnet Setup Guide:
+        name: Guida all'installazione di Kotti Testnet
+        description: Kotti TestNet è pronto e funzionante in 1 minuto con Jade Desktop
+      Signatory Client:
+        name: Firmatario Cliente
+        description: Il video dimostrativo descrive Signatory Client, un portafoglio hardware fai-da-te che può essere installato su un computer a scheda singola, come Raspberry PI.
+      Besu Client Setup Guide:
+        name: Guida all'installazione del client Besu
+        description: Iniziate a usare Hyperledger Besu.
+      Raspberry Pi Node Setup Guide:
+        name: Guida alla configurazione del nodo Raspberry Pi
+        description: Una guida dettagliata su come configurare un nodo Ethereum su un Raspberry Pi
+      CryptoZombies:
+        name: CriptoZombie
+        description: Imparate a codificare le DApp di Ethereum costruendo il vostro gioco.
+      Hitchhikers Guide to Smart Contracts:
+        name: Guida per gli autostoppisti ai contratti intelligenti
+        description: Costruire contratti intelligenti su Ethereum utilizzando Truffle, Test-RPC e Solidity.
+      A 101 Noob Intro to Programming Smart Contracts on Ethereum:
+        name: Introduzione per principianti alla programmazione di contratti intelligenti su Ethereum
+        description: Tutorial sui contratti intelligenti con particolare attenzione alla comprensione prima del codice.
+      Setup MetaMask for Ethereum Classic:
+        name: Impostazione di MetaMask per Ethereum Classic
+        description: Come impostare il supporto di Ethereum Classic su MetaMask con Ethercluster
+      Parity Tutorial:
+        name: Esercitazione sulla DApp Parity
+        description: Tutorial in 10 parti su come scrivere DApp.
+      Start Ethereum DApp Development Career:
+        name: Avviare la carriera di sviluppatore di DApp Ethereum
+        description: Guida informale per iniziare a sviluppare DApp.
+      Full Stack DApp Tutorial Series:
+        name: Serie di esercitazioni sulle DApp full stack
+        description: DApp full stack che utilizzano vari framework.
+      Ethereum Builders Guide:
+        name: Guida ai costruttori di Ethereum
+        description: Gitbook per costruire su Ethereum che approfondisce la comprensione delle funzionalità tecniche.
+      Introduction to OpenRPC Webinar:
+        name: Introduzione al webinar OpenRPC
+        description: In questo video imparerete i fondamenti di JSON-RPC e OpenRPC.
+      Learning Solidity Tutorial Series:
+        name: Serie di esercitazioni per l'apprendimento di Solidity
+        description: Costruire contratti intelligenti con Metamask e Remix IDE.
+      End to End DApp Tutorial:
+        name: Esercitazione sulla DApp end-to-end
+        description: Creare una DApp per il gioco d'azzardo utilizzando Metamask, Truffle, Remix, React e IPFS.
+      How to write secure smart contracts:
+        name: Come scrivere contratti intelligenti sicuri
+        description: Una rassegna dei linguaggi di programmazione e delle migliori pratiche per aiutarvi a scrivere contratti intelligenti sicuri.
+      Programming Decentralized Money:
+        name: Programmazione del denaro decentralizzato
+        description: Una guida semplice per costruire applicazioni di contratti intelligenti.
+      How to create a token and ICO on Ethereum Classic:
+        name: Come creare un token e una ICO su Ethereum Classic
+        description: Dopo aver seguito questa guida, imparerete come creare un token ERC223 sulla blockchain di Ethereum Classic e una ICO per questo token.
+      How to use Brave Browser with Ethereum dApps:
+        name: Come utilizzare Brave Browser con le dApp di Ethereum
+        description: Brave Browser è il modo più semplice e sicuro per accedere alle DApp su Ethereum blockchain. Il Web 3.0 è finalmente accessibile a tutti!
+      Vyper and Brownie Contract Development on EVM Chains:
+        name: Sviluppo dei contratti Vyper e Brownie sulle catene EVM
+        description: Per celebrare l'integrazione di ETC con Vyper, abbiamo deciso di costruire uno smart contract per Vyper da distribuire su ETC.
+      Adventures in Classical Ether:
+        name: Avventure nell'etere classico
+        description: Costruite il vostro primo contratto intelligente per ETC.
+      Kotti Solidity ETC Oh My:
+        name: Kotti, Solidity, ETC, Oh My!
+        description: Questa guida illustra una configurazione iniziale per la testnet Kotti di Ethereum Classic e una versione specifica di Solidity per lo sviluppo di dapp compatibili con ETC<>ETH. Kotti è la testnet consigliata per gli sviluppatori di dapp. Mordor è consigliato per i test a livello di protocollo.
+      How to contribute to Mordor Testnet:
+        name: Come contribuire al Mordor Testnet
+        description: Questa guida vi insegnerà come estrarre ETC dalla testnet ed eseguire il vostro esploratore di blocchi locale con Expedition. Kotti è la testnet consigliata per gli sviluppatori di dapp. Mordor è consigliata per i test a livello di protocollo.
+      Migrate to Hyperledger Besu - Switch from OpenEthereum or Multi-Geth:
+        name: Migrare a Hyperledger Besu - Passare da OpenEthereum o Multi-Geth
+        description: Questa guida dovrebbe aiutarvi nella migrazione dal client OpenEthereum o Multi-Geth al client Hyperledger Besu.
+      Ethereum Classic on Raspberry Pi:
+        name: Ethereum Classic su Raspberry Pi
+        description: Questa guida sarà divisa in diverse parti e documenterà le mie esplorazioni dell'IoT, dell'ETC e di tutto ciò che riguarda i Raspberry.
+      Ethercluster An Open-Source Alternative to Infura:
+        name: Ethercluster, un'alternativa open source a Infura
+        description: Una guida per costruire la propria infrastruttura RPC scalabile basata su Ethereum.
+      Analyzing Ethereum Classic with Google BigQuery:
+        name: Analisi di Ethereum Classic con Google BigQuery
+        description: Guida all'uso di BigQuery per analizzare Ethereum Classic. La guida utilizza l'esempio della quantificazione della decentralizzazione in Ethereum Classic.
+      Creating Your Own Smart Contract Languages Using LLVM:
+        name: Creare i propri linguaggi per contratti intelligenti con LLVM
+        description: Questo articolo mostra come utilizzare EVM-LLVM per realizzare il linguaggio giocattolo Kaleidoscope per generare smart contract distribuibili su blockchain.
+      ERC20 to ERC223 upgrade path:
+        name: Percorso di aggiornamento da ERC20 a ERC223
+        description: ERC223 è un moderno standard di token che prevede commissioni più basse e protegge gli investitori dalla perdita dei token. Il Team Saturn mostra come aggiornare i token ERC20 esistenti.
+      Continuity for an Augmented world:
+        name: Continuità per un mondo aumentato
+        description: Guida alla costruzione di un sistema pubblicitario decentralizzato con Ethereum Classic.
+      Deployment Automation for Goerli testnet in 10 minutes:
+        name: Automazione della distribuzione per Goerli testnet in 10 minuti
+        description: Un breve tutorial per implementare rapidamente la nuova rete di test cross-client Goerli Proof-of-Authority. Questa guida può essere applicata alla rete di test Kotti di Ethereum Classic.
+      Monitoring in PegaSys Plus:
+        name: Monitoraggio in PegaSys Plus
+        description: Una breve esercitazione per impostare una dashboard di monitoraggio della rete di PegaSys.
+      Using OpenRPC Mock Server to test against an Ethereum JSON-RPC API:
+        name: Utilizzo del server Mock OpenRPC per testare un'API JSON-RPC di Ethereum
+        description: L'open-rpc-mock-server consente agli sviluppatori di eseguire e testare le proprie API in un ambiente locale e leggero.
+      Introduction to Pristine An open standard and template for open-source projects:
+        name: Introduzione a Pristine - Uno standard aperto e un modello per progetti open-source.
+        description: Pristine è un repository al suo interno che contiene le convenzioni e le specifiche di un progetto per comunicare il problema che si sta risolvendo, facilitare l'onboarding, costruire e utilizzare strumenti componibili, promuovere il contributo e l'impegno open source e promuovere la discussione di problemi e funzionalità su Github stesso.
+      Jade Suite Overview and Workshop:
+        name: Panoramica della Jade Suite e workshop
+        description: Lo sviluppo e la configurazione di applicazioni Ethereum Classic sono facili e veloci grazie alla suite di strumenti Jade.
+      Various Ethereum Solidity Tutorials:
+        name: Vari tutorial su Ethereum e Solidity
+        description: Come creare contratti intelligenti, distribuire le proprie DApp, creare token e altro ancora, da principianti a intermedi.
+  advanced:
+    title: Concetti avanzati
+    description: La tecnologia alla base della blockchain è profonda e si estende a molti settori. Ecco una piccola selezione di articoli per aiutarvi a iniziare il vostro viaggio nella tana del coniglio.
+    items:
+      2018-03-15-signatures:
+        name: Una passeggiata attraverso il codice della firma digitale di Ethereum Classic
+        description: Le firme digitali proteggono le transazioni. Si tratta della crittografia a curva ellittica e dell'algoritmo di firma digitale a curva ellittica (ECDSA).
+      2018-03-19-rlp:
+        name: Codifica ricorsiva del prefisso di lunghezza
+        description: Ethereum Classic (ETC) utilizza la codifica Recursive Length Prefix (RLP) per memorizzare e inviare strutture di dati.
+      2018-01-31-difficulty:
+        name: Una semplice interpretazione del parametro di difficoltà di estrazione di Ethereum Classic
+        description: Il parametro della difficoltà di estrazione può sembrare misterioso per alcuni. Questo articolo mostra che ha una bella interpretazione facile da capire.
+      2018-01-26-implicit-info:
+        name: Informazioni implicite sulla blockchain di Ethereum Classic
+        description: Per i principianti, alcune informazioni necessarie possono sembrare assenti dalla blockchain di Ethereum Classic (ETC). Queste informazioni sono implicitamente contenute nella blockchain e possono generare confusione.
+      2017-12-04-light-clients:
+        name: Come i clienti di Ethereum Classic Light possono operare in modo sicuro
+        description: I client light di Ethereum Classic (ETC) sono client che non mantengono una copia dell'intera blockchain di ETC.
+      2017-04-28-blocks:
+        name: "I blocchi ETC spiegati: Le tre categorie"
+        description: I blocchi possono essere suddivisi in intestazioni, liste di transazioni e liste di intestazioni.
+      2017-04-18-keys:
+        name: "Chiavi pubbliche e private: Un piccolo chiarimento"
+        description: Le chiavi private vengono utilizzate per trasferire fondi, installare programmi ed eseguire programmi.
+      2017-03-30-accounts-and-states:
+        name: Conti e Stati spiegati
+        description: La blockchain di Ethereum Classic (ETC) rende possibile un computer mondiale inarrestabile, affidabile, verificabile, privo di fiducia e sicuro. Per comprendere questo sistema, è importante capire i conti e gli stati.
+      2017-02-10-hashes:
+        name: "Hashes: Un'introduzione e perché sono fondamentali per Internet e le blockchain"
+        description: L'espressione "funzione hash a una via" può sembrare arcana e da smanettoni, ma le funzioni hash sono i cavalli di battaglia della crittografia moderna.

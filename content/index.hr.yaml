@@ -1,0 +1,52 @@
+billboard:
+  text: '%%$$%% Ethereum'
+  ## must be kind of short, so they fit on the page
+  randomWords:
+    Decentralized: "Decentralizirano"
+    Original: "Izvornik"
+    Veracious: "Veracious"
+    Untainted: "Neokaljan"
+    Uncensored: "Necenzurirano"
+    Untampered: "Neometano"
+    Immutable: "Nepromjenjivo"
+    Sound Money: "Zvučni novac"
+    Uncaptured: "Nezarobljena"
+    SovereignGrade: "Suverena ocjena"
+    Principled: "Načelno"
+    Unstoppable: "Nezaustavljiv"
+    Proof of Work: "Dokaz o radu"
+    Leaderless: "Bez vođe"
+    Antifragile: "Antifragile"
+    Code is Law: "Kodeks je zakon"
+    Classic: "klasična"
+    Permisionless: "Bez dopuštenja"
+## feature
+feature:
+  title: FAQ
+  subtitle: Novi odjeljak
+  text: Brzo pronađite odgovore koje tražite navigacijom kroz Često postavljana pitanja organizirana prema slučaju korištenja.
+  button: Pitanja odgovorena
+## intro
+intro:
+  title: Izradite nezaustavljive aplikacije
+  content: |
+    Budući da su postojeće institucije sve više ugrožene divljim potencijalom blockchain tehnologije, samo će istinski decentralizirane kriptovalute preživjeti.
+
+    Postojeći kao odgovor na ugovornu cenzuru na sestrinskom lancu Ethereum, Classic je dokazao svoju sposobnost da se odupre cenzuri usprkos svim izgledima i da pruži *izvornu* Ethereum viziju *nezaustavljivih* aplikacija.
+
+    Kombinirajući tehnologiju ETH s filozofijom BTC-a, ETC je jedinstveno pozicioniran da bude platforma za pametne ugovore budućnosti, budući da drugi lanci postaju ugroženi ili zarobljeni od strane posebnih interesa.
+
+    Dobrodošli i pozivamo vas da otkrijete prošlost, sadašnjost i budućnost Ethereum Classica; to su principi, prijedlog vrijednosti, zajednica i više - da biste razumjeli *zašto Classic*.
+  button:
+    text: Zašto Classic?
+#Headers
+headings:
+  headlines:
+    title: Naslovi
+    button: Sve vijesti
+  videos:
+    title: Najnoviji video zapisi
+    button: Svi videozapisi
+  apps:
+    title: Najnovije aplikacije
+    button: Sve aplikacije

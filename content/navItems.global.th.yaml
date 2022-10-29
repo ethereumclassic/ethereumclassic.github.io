@@ -1,0 +1,240 @@
+learn:
+  name: เรียนรู้
+  navItems:
+    faqs:
+      name: คำถามที่พบบ่อย
+      description: คำถามที่พบบ่อยของผู้มีส่วนได้ส่วนเสียต่างๆ
+      navItems:
+        users:
+          name: ผู้ใช้
+          description: ต้องการเรียนรู้วิธีใช้ ETC หรือไม่?
+        researchers:
+          name: นักวิจัย
+          description: เพิ่งเคยได้ยินเกี่ยวกับคลาสสิก?
+        investors:
+          name: นักลงทุน
+          description: สนใจซื้อ ETC?
+        miners:
+          name: คนงานเหมือง
+          description: ต้องการข้อมูลเกี่ยวกับวิธีการขุด ETC?
+        developers:
+          name: นักพัฒนา
+          description: ต้องการสร้างบน ETC หรือไม่?
+        contributors:
+          name: ผู้ร่วมสมทบ
+          description: ต้องการช่วยโครงการหรือไม่?
+    whyClassic:
+      name: ทำไมต้องคลาสสิก?
+      description: เริ่มต้นที่นี่เพื่อรับทราบเหตุผลของ Ethereum Classic ในการเป็นและคุณค่าที่ไม่เหมือนใคร
+      navItems:
+        codeIsLaw:
+          name: รหัสคือกฎหมาย
+        genesis:
+          name: ปฐมกาล
+        decentralism:
+          name: การกระจายอำนาจ
+        soundMoney:
+          name: เสียงเงิน
+        proofOfWork:
+          name: หลักฐานการทำงาน
+    #etcVsEth:
+    #__link: /why-classic/etc-vs-eth
+    #name: ETC vs ETH
+    knowledge:
+      name: ความรู้
+      description: อ่านเพิ่มเติมเกี่ยวกับรากฐานที่สนับสนุน ETC
+      navItems:
+        foundation:
+          name: พื้นฐาน
+          description: หลักการสำคัญที่สร้างฐานปรัชญาที่มั่นคงของ ETC
+        theory:
+          name: ทฤษฎี
+          longName: ทฤษฎีและการวิจัย
+          description: เจาะลึกตรรกะของ Ethereum Classic ด้วยชิ้นส่วนจากชุมชน
+        investing:
+          name: การลงทุน
+          longName: แหล่งข้อมูลนักลงทุน
+          description: ข้อมูลเกี่ยวกับคุณค่าของ Ethereum Classic และโอกาสในการทำกำไร
+        forks:
+          name: ส้อม
+          longName: การอัพเกรดโปรโตคอล
+          description: บันทึกเหตุการณ์ในอดีตและอนาคตของ Hard Fork ที่ได้เพิ่มฟังก์ชันการทำงานหรือการแก้ไขข้อผิดพลาดให้กับ ETC
+        history:
+          name: ประวัติศาสตร์
+          longName: ประวัติศาสตร์คลาสสิก
+          description: เส้นเวลาของเหตุการณ์สำคัญทั้งหมดในประวัติศาสตร์ Ethereum Classics จนถึงปัจจุบัน
+        future:
+          name: อนาคต
+          longName: อนาคตคลาสสิก
+          description: ภาพรวมของกระบวนการตัดสินใจใน ETC และตำแหน่งที่อาจนำไปสู่โปรโตคอล
+        metamask:
+          name: MetaMask
+          longName: การใช้ MetaMask กับ ETC
+          description: วิธีกำหนดค่า MetaMask และทางเลือกอื่นในการโต้ตอบกับ dapps
+    videos:
+      name: วีดีโอ
+      description: คอลเลกชันของวิดีโอและพอดแคสต์เพื่อแจ้งให้คุณทราบเกี่ยวกับแนวคิดและเหตุการณ์ต่างๆ ของ ETC
+      navItems:
+        explainers:
+          name: ผู้อธิบาย
+        discussions:
+          name: การสนทนา
+        trading:
+          name: การซื้อขาย
+        development:
+          name: การพัฒนา
+        tutorials:
+          name: บทช่วยสอน
+        mining:
+          name: การขุด
+        conferences:
+          name: การประชุม
+          navItems:
+            2017:
+              name: 2017 ฮ่องกง
+            2018:
+              name: 2018 โซล
+            2019:
+              name: 2019 แวนคูเวอร์
+        other:
+          name: อื่น
+#memes:
+#__link: /memes
+#__icon: images
+#name: Memes
+#description: Spreading the good word of ETC involves winning the battle of hearts and minds through the whimsicalities of information warfare
+#navItems:
+#mediaKit:
+#__link: /memes/media-kit
+#name: Media Kit
+#charts:
+#__link: /memes/charts
+#name: Charts
+#etc:
+#__link: /memes/etc
+#name: Etcetera
+play:
+  name: เล่น
+  navItems:
+    services:
+      name: บริการ
+      description: แอพ กระเป๋าเงิน และการแลกเปลี่ยนที่รวมเข้ากับ ETC ยังไม่ได้ตรวจสอบ 100% ระวังพรมดึง!
+      navItems:
+        wallets:
+          name: กระเป๋าสตางค์
+          description: ซอฟต์แวร์สำหรับจัดเก็บและจัดการ ETC, Tokens, NFT และสินทรัพย์อื่นๆ
+        exchanges:
+          name: การแลกเปลี่ยน
+          description: สถานที่ซื้อและแลกเปลี่ยน ETC
+        apps:
+          name: แอพ
+          longName: แอพและโปรโตคอล
+          description: ระบบนิเวศของแอพพลิเคชั่นที่ใช้ประโยชน์จาก Ethereum Classic
+          navItems:
+            nfts:
+              name: NFTs
+            games:
+              name: เกม
+            identity:
+              name: ตัวตน
+            interoperability:
+              name: การทำงานร่วมกัน
+            finance:
+              name: การเงิน
+            other:
+              name: อื่น
+    community:
+      name: ชุมชน
+      description: หากคุณต้องการสื่อสารกับผู้ที่สนใจ ETC ต่อไปนี้เป็นวิธีค้นหาพวกเขา
+      navItems:
+        channels:
+          name: ช่อง
+          longName: ช่องโซเชียลมีเดีย
+          description: รายชื่อบัญชี ห้องสนทนา และฟอรัมเพื่อหารือเกี่ยวกับ ETC กับผู้อื่น
+        teams:
+          name: ทีม
+          longName: ทีมนักพัฒนา
+          description: ข้อมูลเกี่ยวกับผู้ที่ทำงานกับ Ethereum Classic
+        events:
+          name: เหตุการณ์
+          description: เข้าร่วมชุมชน ETC ในงานสังคมทั่วไปที่เกิดขึ้นตลอดทั้งปี
+    #bounties:
+    #__link: /community/bounties
+    #name: Bounties
+    #dao:
+    #__link: /community/daos
+    #name: DAOs
+    network:
+      name: เครือข่าย
+      description: RPC Endpoints, Explorers, Network Monitors และทรัพยากรอื่นๆ สำหรับผู้มีแนวโน้มทางเทคนิค
+      navItems:
+        endpoints:
+          name: ปลายทาง
+          longName: RPC Endpoints
+          description: บริการสาธารณะและส่วนตัวสำหรับการสื่อสารกับเครือข่าย ETC
+        explorers:
+          name: นักสำรวจ
+          longName: นักสำรวจบล็อคเชน
+          description: เครื่องมือในการตรวจสอบห่วงโซ่สำหรับธุรกรรม บล็อก และข้อมูลเชิงลึกอื่น ๆ
+        monitors:
+          name: จอภาพ
+          longName: จอภาพเครือข่าย
+          description: เครื่องมือตรวจสอบสภาพและสถานะของเครือข่ายด้วยตัวชี้วัดต่างๆ
+    #statistics:
+    #__link: /network/statistics
+    #name: Statistics
+    mining:
+      name: การขุด
+      description: ข้อกำหนดเกี่ยวกับพูล ซอฟต์แวร์ และฮาร์ดแวร์จะช่วยคุณขุด ETC เพื่อความสนุกสนานและผลกำไร
+      navItems:
+        hardware:
+          name: ฮาร์ดแวร์
+          description: ข้อมูลเกี่ยวกับชนิดของอุปกรณ์ที่ดีที่สุดที่จะใช้สำหรับการขุดอย่างมีกำไร ETC
+        software:
+          name: ซอฟต์แวร์
+          longName: ซอฟต์แวร์การขุด
+          description: รายการเครื่องมือที่สามารถใช้ในการขุด ETC บนระบบปฏิบัติการต่างๆ ได้
+        pools:
+          name: สระว่ายน้ำ
+          longName: บ่อขุด
+          description: การเข้าร่วมกลุ่มการขุดช่วยให้คุณได้รับผลกำไรตามกำลังขุดมากกว่าที่จะพบบล็อก
+    develop:
+      name: การพัฒนา
+      description: Testnets, Tooling, Clients และข้อมูลเกี่ยวกับวิธีการสนับสนุนโปรโตคอล ETC เอง
+      navItems:
+        development:
+          name: ไกด์
+          longName: คู่มือนักพัฒนา
+          description: คอลเลกชันของ turorials เกี่ยวกับวิธีการสร้าง dapps บน Ethereum Classic
+        clients:
+          name: ลูกค้า
+          description: ซอฟต์แวร์ไคลเอ็นต์เป็นแกนหลักของเครือข่ายและใช้โปรโตคอล ETC
+        testnets:
+          name: ตาข่ายทดสอบ
+          description: เครือข่ายสำหรับการทดสอบแอพสาธารณะและการอัพเกรดโปรโตคอลก่อนการผลิต
+        tooling:
+          name: เครื่องมือช่าง
+          longName: เครื่องมือสำหรับนักพัฒนา
+          description: เขาว่ากันว่าช่างฝีมือดีพอๆ กับเครื่องมือของเขา ดังนั้นอย่าลืมเลือกช่างดีๆ ล่ะ!
+        repos:
+          name: ที่เก็บ
+          longName: ที่เก็บ Git
+          description: รายการ repos โครงการที่เกี่ยวข้องกับ Ethereum Classic เพื่อความเพลิดเพลินในการรับชมของคุณ
+        ecips:
+          name: ECIPs
+          description: ภาพรวมข้อเสนอการปรับปรุง Ethereum Classic และข้อเสนอที่ได้รับอนุมัติ
+news:
+  name: ข่าว
+extra:
+  name: พิเศษ
+  navItems:
+    news:
+      name: ข่าว
+    blog:
+      name: บล็อก
+    about:
+      name: เกี่ยวกับ
+    rss:
+      name: RSS Feed
+    siteMap:
+      name: แผนผังเว็บไซต์

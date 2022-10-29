@@ -1,0 +1,13 @@
+title: Blockchain istraživači
+seo: Popis usluga blockchain explorer za Ethereum Classic i razne ETC testne mreže.
+description: |
+  Blockchain Exploreri pružaju prikladan način za dobivanje uvida u trenutno i prošlo stanje određenog lanca, omogućujući vam pregled sadržaja blokova, transakcija i stanja računa.
+
+  Sljedeći istraživači treće strane neovisno provjeravaju stanje Ethereum Classica i njegovih testnih mreža. Obično se koriste za provjeru jesu li transakcije emitirane i potvrđene, ali mnoge nude naprednije značajke kao što su povijesna stanja računa, provjera ugovora i još mnogo toga.
+items:
+  explorers:
+    columnItems:
+      kotti:
+        text: Kotti
+      mordor:
+        text: Mordor

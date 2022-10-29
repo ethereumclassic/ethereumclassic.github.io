@@ -1,0 +1,30 @@
+title: Portefeuilles
+seo: Une source de portefeuilles web, d'extensions, de portefeuilles logiciels, de portefeuilles matériels et d'autres moyens de sécuriser les ETC.
+description: |
+  Il existe de nombreuses options de porte-monnaie parmi lesquelles choisir pour sécuriser et utiliser les ETC. Chaque option offre un équilibre différent entre sécurité et commodité. Veuillez rechercher la meilleure option en fonction de vos besoins.
+
+  ## Quel porte-monnaie dois-je utiliser ?
+
+  Les suggestions suivantes ne sont pas des recommandations, et servent uniquement à aider les nouveaux utilisateurs à trouver rapidement une option qui leur conviendra probablement.
+
+  - Si vous souhaitez une application mobile simple, [Trust Wallet] (https://trustwallet.com/ethereum-classic-wallet) est facile à utiliser et prend en charge de nombreuses devises, dont l'ETC.
+  - Si vous souhaitez détenir de petites quantités d'ETC pour les utiliser avec des applications décentralisées, essayez [MetaMask](/guides/metamask) et connectez-le à Ethereum Classic.
+  - Si vous acceptez des ETC pour votre entreprise, vous voudrez probablement simplement créer un compte [exchange](/services/exchanges) que vous pourrez utiliser pour les vendre contre votre monnaie locale.
+  - Si vous détenez des montants plus importants, il est fortement recommandé d'acheter un [Hardware Wallet] (#hardware-wallets).
+  - Pour les cas d'utilisation plus avancés, veuillez effectuer vos propres recherches et essayer les options ci-dessous.
+items:
+  web:
+    title: Portefeuilles Web
+    description: Ces portefeuilles Web3 sont accessibles à partir d'une page Web. Ils ne doivent pas être utilisés pour sécuriser de gros montants, mais vous permettent d'interagir facilement avec l'ETC sans téléchargement.
+  browsers:
+    title: Portefeuilles intégrés aux navigateurs
+    description: Ces portefeuilles Web3 sont intégrés dans les navigateurs Web. En général, ils injectent dans les sites web les informations relatives à votre compte afin de vous permettre d'interagir de manière transparente avec les dapps Ethereum Classic dans votre navigateur.
+  hardware:
+    title: Portefeuilles de matériel
+    description: Les portefeuilles matériels sont des portefeuilles sécurisés conçus pour le stockage à long terme.
+  software:
+    title: Portefeuilles de logiciels
+    description: Les portefeuilles logiciels sont des dispositifs de bureau ou mobiles conçus pour le stockage à court terme.
+  other:
+    title: Autres produits pour portefeuilles
+    description: Ces produits sont complémentaires aux portefeuilles de crypto-monnaies comme le stockage des graines de récupération.

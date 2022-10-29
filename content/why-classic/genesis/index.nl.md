@@ -79,13 +79,9 @@ Een DAO (uitgesproken als "_Dow_ Jones") of "Gedecentraliseerde Autonome Organis
 
 ![Kunstwerk gemaakt voor The DAO, gebaseerd op Taoïstische symbolen...](./dao.png)
 
- De Ethereum Foundation, die in een crowdsale fondsen verzamelde om Ethereum te creëren, had een Chief Communications Officer die
-
-het Ethereum Genesis Block aankondigde en een voorstander was van [](https://twitter.com/stephantual/status/711874685156376576) van _Code is Law_. Zoals vele anderen, zag de CCO van EF de mooie toekomst die werd beloofd door "Build Unstoppable Applications", en het was uiteindelijk hun oproep om deze term te gebruiken om het Ethereum-project te promoten. 
+het Ethereum Genesis Block aankondigde en een voorstander was van [](https://twitter.com/stephantual/status/711874685156376576) van _Code is Law_. Zoals vele anderen, zag de CCO van EF de mooie toekomst die werd beloofd door "Build Unstoppable Applications", en het was uiteindelijk hun oproep om deze term te gebruiken om het Ethereum-project te promoten.
 
 In november 2015 vormde de nu voormalige CCO samen met enkele programmeurs een bedrijf genaamd slock.it. Slock.it wilde niet alleen _een_ DAO lanceren, maar _De_ DAO, die zou worden gebruikt als een soort risicokapitaalfonds dat zich richt op Ethereum-projecten. Het werd aangeprezen als een manier om het Ethereum-ecosysteem te laten groeien en als een netto opbrengst voor investeerders, die ether zouden storten in het DAO-contract in ruil voor DAO-tokens, die het mogelijk zouden maken te stemmen op en beloningen op te leveren voor investeringen door The DAO.
-
-
 
 ### Curator vriendjespolitiek
 
@@ -97,8 +93,6 @@ Officieel was The Ethereum Foundation zelf niet betrokken bij The DAO, maar miss
 
 De pogingen van de Ethereum Foundation om zich te distantiëren van The DAO zijn belangrijk om op te merken, want ondanks deze beweringen van neutraliteit leken latere acties een ander verhaal te vertellen.
 
-
-
 ### De grootste crowdsale ter wereld
 
 Destijds zagen velen de DAO als een "risicoloze" investering, omdat er niet alleen betrouwbare curatoren waren, maar investeerders hun fondsen in de toekomst aan de DAO konden onttrekken via een "split"-mechanisme; dit stimuleerde bijdragen nog meer, omdat investeerders zich later konden "afmelden", maar slechts één kans hadden om zich tijdens de eerste crowdsale aan te melden.
@@ -106,8 +100,6 @@ Destijds zagen velen de DAO als een "risicoloze" investering, omdat er niet alle
 Slock.it lanceerde The DAO crowdsale in april 2016, en de ETH begon binnen te rollen, maar al snel waren er tekenen dat er iets niet helemaal in orde was. Tijdens de crowdsale kondigde slock.it een [veiligheidsvoorstel aan](https://medium.com/ursium-blog/dao-security-a-proposal-to-guarantee-the-integrity-of-the-dao-3473899ace9d), riep een curator op tot een [moratorium](https://hackingdistributed.com/2016/05/27/dao-call-for-moratorium/), en gaf een andere prominente curator een [waarschuwing](https://gavofyork.medium.com/why-ive-resigned-as-a-curator-of-the-dao-238528fbd447) en stapte op.
 
 Maar ondanks deze waarschuwingen had The DAO tegen de tijd dat de crowdsale voorbij was een ongelooflijke $150 miljoen aan ETH opgehaald, waarmee het alle wereldrecords brak en de grootste crowdsale ooit werd. Dit bedrag in USD klinkt misschien niet duizelingwekkend naar de normen van vandaag, maar het was 14% van alle ETH, wat ongeveer $70 miljard waard zou zijn bij de huidige market cap (per december 2021 had ETH een prijs van ~$4.000).
-
-
 
 ### "Geen fondsen in gevaar"
 
@@ -117,11 +109,9 @@ De bug kan optreden wanneer een contract zijn toestand niet correct bijwerkt wan
 
 Omdat Ethereum zo nieuw was en zich nog geen best practices hadden gevormd rond het ontwikkelen van Smart Contracts, kwam deze bug vrij vaak voor. Zodra het nieuws bekend werd, werden veel contracten misbruikt en gingen fondsen verloren, maar gelukkig werd The DAO niet getroffen, [volgens](https://medium.com/ursium-blog/no-dao-funds-at-risk-following-the-ethereum-smart-contract-recursive-call-bug-discovery-29f482d348b) aan slock.it.
 
-
-
 ### en het is weg.
 
- Net als bij contracten in de echte wereld zit de duivel in de details, en het bleek dat de DAO op toch getroffen was door de reentrancy bug. Op [regel 666](https://github.com/TheDAO/DAO-1.0/blob/master/DAO.sol#L666-L670) lag een exploit te sluimeren, en die enorme hoeveelheid opgehaalde ETH lag daar te wachten op een scherpziende programmeur die hem inpikte. 
+Net als bij contracten in de echte wereld zit de duivel in de details, en het bleek dat de DAO op toch getroffen was door de reentrancy bug. Op [regel 666](https://github.com/TheDAO/DAO-1.0/blob/master/DAO.sol#L666-L670) lag een exploit te sluimeren, en die enorme hoeveelheid opgehaalde ETH lag daar te wachten op een scherpziende programmeur die hem inpikte.
 
 Een paar dagen later begonnen een of meer aanvallers de DAO leeg te zuigen, en gebruikten, net als een touwtje dat aan een munt vastzit, speciaal gemaakte contracten om herhaaldelijk de splitsingsfunctie van de DAO aan te roepen om meer ETH weg te halen dan de auteurs van het contract _van plan waren_ toe te laten.
 
@@ -129,13 +119,9 @@ Als gevolg van The DAO Hack was een aanzienlijke hoeveelheid ETH aan The DAO ont
 
 ![Een virale strip uit 2016 waarin The DAO het geld van Ethereum verbrandt...](./oops.jpeg)
 
-
-
 ### De deal wijzigen
 
 Een belangrijk punt is dat The DAO Hacker niets exploiteerde in het onderliggende Ethereum-protocol, aangezien de exploit beperkt was tot het DAO-contract. Ze hebben ook niet "de regels gebroken" van het DAO-contract, want ze hebben gewoon interactie met de DAO gehad op een manier die de auteurs ervan niet hadden voorzien. Ongeacht de _bedoeling_ van de auteur, [maakten de voorwaarden van de DAO](http://web.archive.org/web/20160501124801/https://daohub.org/explainer.html) duidelijk dat de contractcode zelf de uiteindelijke rechter moest zijn. Volgens de auteurs van The DAO is _Code wet_.
-
-
 
 > De voorwaarden van de oprichting van de DAO worden uiteengezet in de smart contract code die op de Ethereum blockchain staat op 0xbb9bc244d798123fde783fcc1c72d3bb8c189413. Niets in deze verklaring van voorwaarden of in enig ander document of mededeling kan aanvullende verplichtingen of garanties wijzigen of toevoegen die verder gaan dan die welke in de code van The DAO zijn opgenomen. Alle verklarende voorwaarden of beschrijvingen worden louter aangeboden voor educatieve doeleinden en vervangen of wijzigen niet de uitdrukkelijke voorwaarden van de code van de DAO die op de blockchain staat; voor zover u van mening bent dat er een conflict of discrepantie bestaat tussen de hier aangeboden beschrijvingen en de functionaliteit van de code van de DAO op 0xbb9bc244d798123fde783fcc1c72d3bb8c189413, is de code van de DAO bepalend en bevat deze alle voorwaarden van de oprichting van de DAO.  
 > ...  
@@ -147,8 +133,6 @@ Een belangrijk punt is dat The DAO Hacker niets exploiteerde in het onderliggend
 
 Velen delen het standpunt dat investeerders in de DAO, die met de bovengenoemde voorwaarden hadden ingestemd, zich ervan bewust waren dat er risico's aan verbonden waren, en als zodanig, net zoals zij graag de opwaartse gevolgen van die risico's accepteerden, ook bereid moeten zijn geweest de neerwaartse gevolgen van de verwezenlijking van die risico's te aanvaarden. Voor veel DAO Token houders was dit echter niet het geval.
 
-
-
 ## De DAO-oorlogen
 
 In een speling van het lot had de splitsingsfunctie van de DAO een tijdsvertraging, wat betekende dat de DAO-hacker zijn buit pas een maand na de eerste aanval volledig zou kunnen binnenhalen, ervan uitgaande dat niets hem daar in de tussentijd van weerhield. Dit bood de Ethereumgemeenschap een kans om terug te vechten tegen The Hacker en DAO Token-houders heel te maken.
@@ -157,15 +141,11 @@ Er lagen verschillende opties op tafel, maar het belangrijkste debat ging over d
 
 Zou Ethereum het onstuitbare tegenhouden? Voor velen was dit ondenkbaar, maar anderen dachten dat het de enige manier was om een groot onrecht ongedaan te maken dat de toekomst van het hele netwerk zou kunnen bedreigen.
 
-
-
 ### Robin Hood en zijn vrolijke mannen
 
 Terwijl het Hard Fork debat zich ontvouwde, ging een groep nobele whitehat hackers snel in het offensief en stelde het grootste deel van de fondsen van The DAO veilig door dezelfde reentrancy exploit te gebruiken tegen The Hacker's split Child DAO.
 
 Voordat tot een Hard Fork werd besloten, werd op [bevestigd](https://old.reddit.com/r/ethereum/comments/4p7mhc/update_on_the_white_hat_attack/d4ip04w/) dat 70% van de verloren middelen al veilig was teruggevorderd en dat een tegenaanval kon worden uitgevoerd zodat de resterende 30% zou worden teruggegeven of in een patstelling met The DAO Hacker zou worden opgesloten. Die resterende 30% kan eeuwig worden gesplitst en opnieuw gesplitst totdat één partij het opgeeft.
-
-
 
 > Maar zelfs als [een zachte of harde] fork niet wordt doorgevoerd, kan de gemeenschap voorkomen dat de aanvaller ooit zijn ether intrekt  
 > ...  
@@ -177,11 +157,9 @@ Er bestond een onrealistische angst dat The DAO Hacker _nooit meer zou terugkere
 
 De patstelling betekende dat de whitehats de DAO-hacker een belangrijke meevaller hadden ontzegd, en wetende dat andere wegen, waaronder onderhandelingen, forensisch onderzoek van de keten en politiewerk in de echte wereld, konden worden gebruikt, zou de hacker uiteindelijk gedwongen worden om ofwel vrijwillig op te geven, ofwel te maken te krijgen met off-chain gevolgen waardoor hij zijn kant van de patstelling niet zou kunnen handhaven.
 
-Een van de absurde maar belangrijke details die vaak worden vergeten over The DAO Fork is dat het onnodig was omdat het grootste deel van de fondsen al was gerecupereerd, en de rest zo goed als gerecupereerd.  Zonder een Hard Fork was het _worst case scenario_ voor DAO Token houders een _tijdelijke haircut van 30%, maar zoals we zullen zien, leidde de implementatie van de Hard Fork uiteindelijk tot een veel slechtere uitkomst voor niet alleen DAO Token houders, maar de hele Ethereum gemeenschap en de cultuur van cryptocurrency als geheel. 
+Een van de absurde maar belangrijke details die vaak worden vergeten over The DAO Fork is dat het onnodig was omdat het grootste deel van de fondsen al was gerecupereerd, en de rest zo goed als gerecupereerd. Zonder een Hard Fork was het _worst case scenario_ voor DAO Token houders een _tijdelijke haircut van 30%, maar zoals we zullen zien, leidde de implementatie van de Hard Fork uiteindelijk tot een veel slechtere uitkomst voor niet alleen DAO Token houders, maar de hele Ethereum gemeenschap en de cultuur van cryptocurrency als geheel.
 
 _UPDATE:_ Deze analyse is correct gebleken, aangezien de identiteit van The DAO Hacker inmiddels is afgeleid door onderzoekers en leden van RHG. Zonder een splitsing zou de druk om de hacker te ontmaskeren veel groter zijn geweest en waarschijnlijk veel eerder zijn gebeurd.
-
-
 
 ### To Fork, or not to Fork?
 
@@ -201,23 +179,17 @@ Als reactie op deze bezorgdheid werden pro-forkers gestimuleerd om de risico's v
 
 ![En dus was de Hard Fork de enige aanvaardbare weg vooruit.](./forkyou.jpeg)
 
-
-
 ### Het donkerste uur van Ethereum
 
 Toen de deadline voor de splitsing van de Child DAO naderde, ontaardde het debat al snel in een uiterst giftige ruzie, gevoed door financiële belangen en filosofische angst. De kloof was zo intens dat van beide kanten beschuldigingen van criminaliteit en gebrek aan ethiek werden geuit. Alle mogelijke tactieken werden gebruikt om de strijd te winnen, die een gevecht op leven en dood werd.
 
 De trieste zaak werd bekroond met dreigementen van doxxing en andere vormen van vergelding tegen degenen die tegen een Hard Fork waren. Door slock.it werd opgeroepen om de identiteit bekend te maken van degenen die tegen de Hard Fork waren, waardoor chilling effecten ontstonden en prominente anti-forkers werden geïntimideerd om zich niet uit te spreken:
 
-
-
 > Ik zou heel graag willen weten wie er een poging coördineert om een hardfork tegen te gaan. PM me [redacted]@slock.it
 > 
 > - [slock.it, juni 2016](https://twitter.com/slockitproject/status/743790901877706752)
 
 Ironisch genoeg benadrukte de website van de DAO, die werd beheerd door slock.it, op hetzelfde moment dat deze heksenjacht gaande was, haar veronderstelde waarden:
-
-
 
 > Als DAO onderschrijven wij de volgende waarden:  
 > \- Privacy en het recht op anonimiteit.
@@ -226,23 +198,17 @@ Ironisch genoeg benadrukte de website van de DAO, die werd beheerd door slock.it
 
 Inmiddels lijkt het Hard Fork debat meer op een ongebreidelde religieuze kruistocht dan op een gezonde discussie over wat het beste is voor het Ethereum project, maar misschien ging het daar in eerste instantie ook nooit over.
 
-
-
 ### Gefabriceerde consensus
 
 Als we kijken naar The DAO Fork Debate op Reddit, zien we dat een groot deel van de Ethereumgemeenschap tegen de Hard Fork was, alleen al op basis van [upvotes](https://old.reddit.com/r/ethereum/comments/4p7mhc/update_on_the_white_hat_attack/d4iqgx1/) . Desondanks waren er invloedrijke krachten bij betrokken die vonden dat er geen andere keuze was dan aan te dringen op een Hard Fork om de financiële belangen te beschermen.
 
 Helaas is het waarschijnlijk onmogelijk om tot op de bodem uit te zoeken wat de _werkelijke_ consensus was op dat moment, omdat de belangrijkste discussiefora - Reddit en Twitter - zeer gevoelig waren voor [Sybil-aanvallen](https://en.wikipedia.org/wiki/Sybil_attack) in de vorm van astroturfing. Had de Hard Fork echte steun van het volk, of was het gewoon gefabriceerde consensus? We zullen het waarschijnlijk nooit weten, maar op zijn minst was er een aanzienlijke terugslag, en het valt niet te ontkennen dat wat de gemeenschap zou worden opgelegd een _controversiële Hard Fork_was.
 
-
-
 ### Het "debat" wordt afgesloten
 
 Tegen de tijd dat de beslissing over een Hard Fork werd genomen, bleek het om veel meer te gaan dan alleen een Hard Fork. Het was een bekend tribalistisch machtsspel geworden waarbij beide partijen zich zo in hun standpunt verschansten, dat velen het verstand te boven gingen en niet in staat waren zich gewonnen te geven.
 
 Zoals wij later zullen overwegen, leek de hele beproeving door een speltheoretische bril op een _coördinatieval_. Vanaf het begin waren de economische prikkels zodanig op elkaar afgestemd dat beide partijen werden gedreven tot "de overwinning of de dood". Als gevolg daarvan bagatelliseerden forkers rationeel de mogelijke nadelige gevolgen van een Hard Fork en deden ze het tegelijkertijd voorkomen als de enige haalbare optie, waarbij ze de realiteit van de situatie verdoezelden dankzij de inspanningen van Robin Hood.
-
-
 
 ### De volledig eerlijke munt stemming
 
@@ -259,8 +225,6 @@ Het bleek dat één enkel adres met zoveel Ether stemde dat het 25% van alle ste
 Voorspelbaar werden de resultaten sterk vertekend door een handvol walvissen die al dan niet op de hoogte waren van de aankondiging. De kritische beslissing over welke keten voor Geth de default zou worden, werd toen beweerd te zijn genomen "door de gemeenschap" en werd later gebruikt om de steun van de Ethereum Foundation voor de forked chain boven ETC te rechtvaardigen.
 
 In recente versies van de Ethereum.org website wordt de controverse rond deze belangrijke muntstem gedocumenteerd.
-
-
 
 > Over deze gang van zaken is gestemd door de Ethereumgemeenschap. Elke ETH-houder kon stemmen via een transactie op een stemplatform. Het besluit om de vork te steken kreeg meer dan 85% van de stemmen.
 > 
@@ -281,13 +245,9 @@ Helaas was de beslissing van de Mist-client veel minder ingrijpend dan die van G
 
 Sommige leden van de Ethereum Foundation spraken zich zelfs publiekelijk uit tegen de Hard Fork, waarmee het idee werd bekrachtigd dat er geen consensus was bereikt: _niet_ . Aan degenen die opkwamen voor "Build Unstoppable Applications" ondanks de druk van collega's, wij groeten u.
 
-
-
 ### Dus neutraal, veel consensus
 
 Een ander bewijs dat wijst op een gebrek aan neutraliteit van The Ethereum Foundation rond de fork-beslissing was een aankondiging van de exchange Poloniex, die suggereerde dat EF niet alleen verzuimde exchanges te waarschuwen voor de mogelijkheid van een ketensplitsing, maar in besloten kring het potentieel ervan actief bagatelliseerde en, in tegenstelling tot de discussie op Reddit, beweerde dat de Ethereum-gemeenschap weinig tot geen interesse had in de ongeorkte keten.
-
-
 
 > ...herhaalde verzekeringen van vertegenwoordigers van de Ethereum stichting dat de gemeenschap weinig tot geen interesse had in Ether op de ongeorkte keten...
 > 
@@ -296,8 +256,6 @@ Een ander bewijs dat wijst op een gebrek aan neutraliteit van The Ethereum Found
 Hoe dan ook, geruchten en samenzweringstheorieën negerend, was het bewijs in de pudding; degenen die aandrongen op de Hard Fork leken [erg blij](https://twitter.com/stephantual/status/743764898316877824) met de "hulp" van de Ethereum Foundation bij het implementeren van zo'n effectieve oplossing.
 
 Toen de deadline voor de splitsingsfunctie van de Child DAO naderde, werd de consensus verklaard en zou Ethereum™ het ondenkbare uitvoeren: een Hard Fork om de spelregels te veranderen en te proberen de hack ongedaan te maken. De voorstanders hadden het debat gewonnen; of tenminste, ze kregen hun zin. Voor nu.
-
-
 
 ## De Vork
 
@@ -308,8 +266,6 @@ In tegenstelling tot wat vaak wordt gedacht, was de DAO Hard Fork technisch _nie
 Op deze nieuwe vork, waar de contractlaag was ontheiligd, was de belofte van onstuitbaarheid bezoedeld, en _Code is wet_ was dood. F.
 
 De DAO Hard Fork was anders dan de typische hard forks die redelijk vaak voorkomen op Ethereum, waarbij het gaat om protocol fixes of feature enhancements; er was geen "upgrade" van het protocol vanuit technisch oogpunt. In plaats daarvan was de "upgrade" voor het eerst (en voorlopig voor het laatst) politiek, en ging het alleen om het opheffen van iets wat in de contractlaag gebeurt, die [te onderscheiden is](/why-classic/code-is-law/#outside-the-contract-layer) van het protocol en die als onstuitbaar op de markt werd gebracht.
-
-
 
 ### De kettingsplitsing
 
@@ -331,8 +287,6 @@ Verwarrend genoeg bepaalde de Ethereum Foundation dat hun nieuwe forked chain "E
 
 Het langst lopende Smart Contract platform is, was en zal altijd _Ethereum Classic_zijn.
 
-
-
 ### De onbevlekte ontvangenis
 
 De opkomst van Ethereum Classic was in vele opzichten wonderbaarlijk, zowel qua omstandigheden als qua inhoud. Zonder Bitcoin, Ethereum, de DAO, de Bug op lijn 666, de Hacker, de Split Function Time Limit, de Hard Fork Debat Coordination Trap, de Hard Fork zelf, en de dappere en charmante supporters van ETC, zou de wereld niet gezegend zijn met een echt gedecentraliseerd Smart Contract platform dat kampioen is _Code is Law_.
@@ -341,27 +295,19 @@ Ethereum Classic heeft ook veel wonderbaarlijke eigenschappen die onmogelijk kun
 
 De omstandigheden van het ontstaan van Ethereum Classic zijn zo zeldzaam dat ze waarschijnlijk nooit meer zullen voorkomen. Ethereum Classic is de eerste die de kracht van _Code is Law_ en het gevaar van het pushen van controversiële hard forks heeft aangetoond, en dient als waarschuwing om soortgelijke situaties in de toekomst te voorkomen, waardoor ETC de enige keten is die deze eigenschappen waarschijnlijk zal bereiken, dankzij het feit dat de oorspronkelijke auteurs ervan afzien.
 
-
-
 ### De opstanding
 
 Drie dagen en drie nachten na The DAO Hard Fork steeg The Original Ethereum Vision weer, en kreeg Ethereum Classic zijn eerste beursnotering op een van de grootste altcoinbeurzen Poloniex. Na deze eerste notering was de toekomst van ETC bezegeld, omdat de marktkrachten de overhand zouden krijgen, waardoor andere beurzen zich zouden haasten om te noteren en het delven van de Classic-kant van de keten vloeibaar en winstgevend zou worden.
 
 Twee dagen later werd een versie van Geth geforked die standaard de Klassieke keten gebruikte en The DAO Fork code verwijderde. Drie dagen daarna wordt Ethereum Classic officieel ondersteund door Parity, de tweede grote client van Ethereum. Prominente ETH-miners kibbelen over de vraag of ze ETC "51% moeten aanvallen" om de stijging ervan tegen te gaan, maar besluiten uiteindelijk om het bijltje erbij neer te gooien.
 
-
-
 ### De Onafhankelijkheidsverklaring
 
 De Ethereum Classic gemeenschap organiseerde zich snel in een nieuwe gedecentraliseerde sociale orde, lanceerde EthereumClassic.org, en verklaarde zich onafhankelijk van The Ethereum Foundation.
 
-
-
 > Laat het aan de hele wereld bekend zijn dat op 20 juli 2016, bij blok 1.920.000, wij als gemeenschap van soevereine individuen verenigd stonden door een gemeenschappelijke visie om de originele Ethereum blockchain voort te zetten die werkelijk vrij is van censuur, fraude of inmenging van derden. In het besef dat de blockchain de absolute waarheid vertegenwoordigt, staan wij erachter en steunen wij de onveranderlijkheid en de toekomst ervan. Wij leggen deze verklaring niet lichtvaardig af, noch zonder na te denken over de gevolgen van onze acties.
 > 
 > - [De Ethereum Classic Onafhankelijkheidsverklaring](/blog/2016-08-13-declaration-of-independence)
-
-
 
 ## De moeilijke scheiding
 
@@ -369,15 +315,11 @@ De nu verdeelde Ethereum gemeenschap, die al oorlogsmoe was dankzij het Hard For
 
 De kettingsplitsing was verre van pijnloos. Als alle neveneffecten vooraf bekend waren geweest, lijkt het uiterst onwaarschijnlijk dat zelfs de meest fervente voorstanders van een Hard Fork het als een aanvaardbare oplossing zouden hebben beschouwd, vooral in vergelijking met alternatieven die geen splitsing zouden hebben veroorzaakt. ETC was het levende bewijs dat de pro-forker verzekeringen over een soepele Hard Fork slechts wishful thinking waren. Wie kan na zo'n puinhoop nog vertrouwen hebben in hun oordeel?
 
-
-
 ### Chain of Thieves
 
 In plaats van verantwoordelijkheid te nemen, verkondigden de forkers dat dit nieuwe "Classic"-ding problemen opleverde; het was een aanval op Ethereum door Bitcoin Maximalisten, een lege protestketen, een zombie die in korte tijd zou verdwijnen, zelfs een "keten van dieven" [sic]. ETC was veel dingen, maar zeker _niet_ legitiem. Niemand die Ethereum™ steunde kon eerlijk Ethereum Classic steunen. _Die_ was ketterij.
 
 Voor velen waren de verantwoordelijken voor Ethereum Classic "idioten", "gekken", "slechteriken", of erger, en zij moesten boeten voor hun misdaden. Veel van deze post-fork animositeit werd indertijd vastgelegd door commentatoren, maar om niet aan korsten te plukken, raden wij sterk af de titel van deze sectie te googelen.
-
-
 
 ### "Gratis geld" en de ultrafaire herverdeling
 
@@ -393,8 +335,6 @@ Dit culmineerde in een marktverkoopwoede waarbij prominente forkers beweerden da
 
 Tot schrik van vele pro-forkers verloor de aanvankelijke dump zijn momentum, nadat zij hun ETC hadden weggegooid, en kwam de prijs van ETC terug met een wraakactie. Een week later piekte de prijs van ETC op 0,4 ETH, wat de oorspronkelijke kopers een 40x rendement opleverde en de aanzienlijke dreiging van "flippering" van ETH inhield, waardoor de Hard Fork enorm werd gedelegitimeerd. Helaas is de ETC/ETH flippering toen nog niet helemaal gebeurd, maar sommigen voorspellen dat de kans dat deze _niet_ gebeurt naarmate de tijd vordert, 0 benadert.
 
-
-
 ### White Hat Group en hun niet zo vrolijke mannen
 
 Maar wacht eens even. Wat is er gebeurd met die fondsen die Robin Hood Group eerder veilig stelde? Ter herinnering: Robin Hood Group had al 70% van de verloren middelen veiliggesteld, nu in de vorm van ETC. Voor de overige 30% hadden ze hulp gezocht bij de gemeenschap om Child DAO "controller keys" te verwerven. Ze hadden de mogelijkheid om een patstelling van eeuwigdurende splitsingen met de DAO Hacker te handhaven.
@@ -402,8 +342,6 @@ Maar wacht eens even. Wat is er gebeurd met die fondsen die Robin Hood Group eer
 Na de splitsing droeg Robin Hood Group (RHG) het stuur (en het beheer van de ETC) over aan een nieuw opgerichte White Hat Group (WHG). Wie precies de lakens uitdeelde voor White Hat Group is niet bekend, maar de aankondigingen die WHG deed werden gepubliceerd door een bedrijf genaamd Bity, dat op dat moment toevallig [partner was van](https://archive.is/3nWU0) met slock.it.
 
 Aan de Ethereum Classic-kant van de splitsing werd de beslissing genomen door RHG/WHG _niet_ om hun kant van de patstelling te handhaven, en zij hebben, ondanks verzoeken, de Child DAO-sleutels niet overgedragen aan een andere vertrouwde groep om de patstelling namens hen voort te zetten.
-
-
 
 > RHG [...] had de aanval op de ETC-keten kunnen voortzetten met de eerder genoemde "DAO Wars" limbo-strategie, maar besloot dat niet te doen.
 > 
@@ -418,8 +356,6 @@ Wat de bedoeling ook was, The Hacker's Child DAO mocht de deadline halen zonder 
 Als RHG, in plaats van een Hard Fork door te voeren, de patstelling gewoon had voortgezet, zou er niet alleen geen behoefte zijn aan Ethereum Classic, maar zouden DAO Token-houders naar alle waarschijnlijkheid _meer_ waarde hebben teruggewonnen, die in plaats daarvan verloren ging in de vorm van ETC aan The DAO Hacker en een beschadigde reputatie van het Ethereum-project.
 
 Maar de pret was nog maar net begonnen.
-
-
 
 ### De mislukte liquidatie van ETC
 
@@ -440,8 +376,6 @@ Gelukkig werd, ondanks de poging om de werkelijke herkomst van de ETC te verberg
 
 Hoewel WHG een [rationale](https://archive.is/tKKWY) gaf waarom ze de teruggevorderde ETC wilden verkopen, bleken al deze excuses ongegrond dankzij de latere implementatie van een Withdrawal Contract op ETC, waardoor DAO Token Houders uiteindelijk hun ETC veilig terug konden krijgen en zelf konden beslissen wat ze ermee deden.
 
-
-
 ### Replay-aanvallen
 
 Een van de gevolgen van het niet voorbereiden op een mogelijke splitsing van de keten was het vooruitzicht van replay-aanvallen, die zowel per ongeluk als opzettelijk het verlies van middelen of diefstal aan weerszijden van de keten zouden kunnen veroorzaken. De mogelijkheid van replay-aanvallen was [op voorhand bekend](https://twitter.com/VladZamfir/status/759552287157133313) , maar vermoedelijk om de mogelijkheid van een ketensplitsing te bagatelliseren, werd geen actie ondernomen om ze te beperken of de gemeenschap er zelfs maar voor te waarschuwen.
@@ -454,13 +388,9 @@ Er waren ook gedocumenteerde gevallen van kwaadwillig misbruik van nagespeelde t
 
 In die tijd was de enige gegarandeerde manier om te voorkomen dat transacties opnieuw werden gespeeld, ervoor te zorgen dat fondsen werden gescheiden naar verschillende adressen op elke keten, wat kon worden bereikt met een "splitter-contract", maar dit was een vervelend proces, vooral voor minder technisch ingestelde gebruikers. Enkele maanden later werd een protocollaire oplossing, [EIP-155](https://eips.ethereum.org/EIPS/eip-155), geïntroduceerd. Daarom respecteren EVM-blockchains nu een `CHAIN_ID`, een uniek nummer voor elke keten dat wordt opgegeven bij het ondertekenen van transacties, waardoor ze ongeldig zijn op andere ketens.
 
-
-
 ## Geleerde lessen
 
 Sinds de Hard Fork en de onmiddellijke gevolgen daarvan in 2016 is het stof grotendeels neergedaald, de animositeit vervaagd en zijn zowel Ethereum™ als Ethereum Classic zich blijven ontwikkelen en op hun eigen manier gegroeid. Nu het verleden achter ons ligt en de daden van individuen die in de wervelwind terecht zijn gekomen zijn vergeven, mogen de praktische en morele lessen die The DAO Fork ons heeft geleerd niet worden vergeten, zodat soortgelijke toekomstige debacles kunnen worden vermeden.
-
-
 
 ### Coördinatie vallen
 
@@ -480,8 +410,6 @@ De kern van de misvatting, die destijds redelijk was bij gebrek aan referenties 
 
 Hoe kunnen blockchainprojecten soortgelijke rampen in de toekomst voorkomen? Een sterke filosofische onderbouwing biedt een tegengif voor deze en andere gekke speltheoretische vraagstukken. Beginselen fungeren als referentiepunt dat de economische belangen die gemeenschappen anders in deze valstrikken zouden duwen, in de kiem kan smoren. Daarom zijn principes belangrijk en staan zij aan de basis van alles voor blockchains die willen blijven bestaan. Zij kunnen de spelregels sociaal vastleggen en een keten inoculeren tegen een hele reeks onvoorspelbare storingen die kunnen optreden wanneer die regels dubbelzinnig zijn.
 
-
-
 ### Is de code wet?
 
 Voor de leek verkoopt Ethereum™ zichzelf nog steeds op Smart Contracts en het idee dat hun code de uiteindelijke arbiter van contractinteracties moet zijn. "Build Unstoppable Applications" was de belangrijkste slogan van Ethereum.org tot in 2019, vele jaren nadat het DAO-contract werd stopgezet. De duidelijke realiteit is dat het nut van Smart Contracts afhangt van _Code is Wet_ wordt gehandhaafd, omdat ze anders willekeurig kunnen worden gecensureerd door krachten van buitenaf.
@@ -494,11 +422,9 @@ Andere thought leaders in Ethereum Foundation zeggen dat _Code is Law_ een [onme
 
 Daar komt nog bij dat, ondanks de gaslighting die tot op de dag van vandaag doorgaat, The DAO Fork een objectieve dog's dinner was, wat alleen maar extra empirisch bewijs oplevert voor de zaak _Code is Law_ . Subjectief ingrijpen in zogenaamd onstuitbare toepassingen is inherent rommelig en moet worden vermeden.
 
-
-
 ### De dubbele binding
 
- Voor Ethereum™ blijven grote problemen bestaan, ongeacht of code __ of _geen wet is; het zit in een filosofische double bind. Zij kan de cirkel van haar prestaties uit het verleden die in tegenspraak zijn met haar waardevoorstel niet sluiten, en blijft zitten met een bungelende draad die het katje van het lot steeds meer in verleiding brengt naarmate hij langer onaangetrokken blijft. 
+Voor Ethereum™ blijven grote problemen bestaan, ongeacht of code __ of _geen wet is; het zit in een filosofische double bind. Zij kan de cirkel van haar prestaties uit het verleden die in tegenspraak zijn met haar waardevoorstel niet sluiten, en blijft zitten met een bungelende draad die het katje van het lot steeds meer in verleiding brengt naarmate hij langer onaangetrokken blijft.
 
 ![Wanneer moeten de aanvragen worden stopgezet?](./code-isnt-law.jpg)
 
@@ -507,8 +433,6 @@ Net als Wile E. Coyote die van de klif afrent, is het slechts een kwestie van ti
 In tegenstelling tot Ethereum Classic blijft in Ethereum™ de vraag "Wanneer moeten toepassingen worden gestopt?" onbeantwoord. Bijvoorbeeld, welk proces ook dat bepaalt of er forks moeten plaatsvinden op Ethereum™ heeft besloten dat de slachtoffers van replay-aanvallen veroorzaakt door The DAO Hard Fork niet nog een Hard Fork moeten krijgen om _hen_ heel te maken, laat staan alle grote Smart Contract bugs en DeFi Hacks. Vermoedelijk is het toestaan van _deze_ verliezen een niveau van sociopathie aanvaardbaar voor de _Code is geen wet_ brigade.
 
 Als deze vraag onbeantwoord blijft, kan dat in de toekomst tot problemen leiden en dat is de belangrijkste reden waarom Ethereum Classic openlijk pleit voor het principe _Code is Law_ in alle omstandigheden. Hoewel het misschien niet altijd het meest geschikte standpunt is op een bepaald moment, is het het enige standpunt dat alle deelnemers neutraal kan behandelen, filosofisch consistent blijft, en daarom de potentie heeft om de tand des tijds te doorstaan.
-
-
 
 ## Conclusie
 

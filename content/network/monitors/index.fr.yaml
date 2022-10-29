@@ -1,0 +1,35 @@
+title: Moniteurs de réseau
+seo: Des outils pour vérifier la santé du réseau Ethereum Classic, et des statistiques générales telles que l'émission, le nombre de transactions et la rentabilité du minage.
+description: |
+  Vous trouverez ci-dessous une sélection d'outils qui donnent un aperçu d'un large éventail de mesures relatives à Ethereum Classic. Ensemble, ils fournissent une analyse complète de la santé et de l'état du réseau.
+items:
+  monitors:
+    items:
+      etc-network.info:
+        description: Un petit site pour vous aider à naviguer dans les services fournis par etc-network.info.
+      ETCNodes:
+        description: Explorateur de nœuds du réseau principal Ethereum Classic.
+      2Miners:
+        description: Le tableau de bord des statistiques d'Ethereum Classic fournit les statistiques les plus importantes de la blockchain, des graphiques et d'autres mesures de performance capturées directement à partir des nœuds en ligne.
+      CoinMetrics:
+        description: Des données historiques détaillées couvrant un certain nombre de paramètres tels que le prix, le hashrate, le nombre d'adresses, le nombre de transactions, etc.
+      CoinWarz:
+        description: Informations sur l'exploitation minière de l'Ethereum Classic - y compris une calculatrice d'exploitation minière de l'Ethereum Classic, une liste du matériel d'exploitation minière de l'Ethereum Classic, la difficulté de l'Ethereum Classic avec des graphiques historiques, des graphiques du hashrate de l'Ethereum Classic, ainsi que le prix actuel de l'Ethereum Classic.
+      Emerald Insights:
+        description: Emerald Insights est une partie du projet Emerald, qui est censée fournir des statistiques, un suivi et des informations avancées sur les crypto-monnaies utilisées par Emerald.
+      ForkWatch:
+        description: ForkWatch est un outil de surveillance de NiceHash qui alerte sur les anomalies sur des algorithmes spécifiques sur le marché de NiceHash, en particulier lorsque le prix de location BTC/TH/Day change. Cela permet aux parties prenantes de pièces spécifiques d'être averties au cas où la puissance minière est potentiellement louée pour une attaque sur un réseau spécifique.
+      MiningPoolStats:
+        description: Statistiques en direct sur l'état des pools miniers sur ETC, y compris la distribution des blocs, l'historique du hashrate, etc.
+      Nanopool:
+        description: Difficulté historique, difficulté, temps de blocage et prix.
+      PoolDetective:
+        description: Les pools miniers sont des acteurs importants des crypto-monnaies à preuve de travail. Mais qui surveille ce sur quoi ils demandent à leurs mineurs de travailler ? La Digital Currency Initiative du MIT a lancé un projet à l'été 2019 pour commencer à surveiller le comportement des pools de minage.
+      TokenView:
+        description: Statistiques historiques standard du réseau.
+      WhatToMine:
+        description: Calculateur de rentabilité pour le minage d'Ethereum Classic et d'autres chaînes.
+      Kotti Stats:
+        description: Statistiques du réseau pour le Ethereum Classic Kotti Testnet.
+      ua-mining:
+        description: Tableau de bord des statistiques d'Ethereum Classic.

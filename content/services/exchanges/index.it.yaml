@@ -1,0 +1,24 @@
+title: Scambi
+seo: Un elenco di borse centralizzate e minimizzate dal punto di vista della fiducia, DEX, marketplace NFT e processori di pagamento che supportano gli ETC.
+description: |
+  Questa pagina contiene un elenco di servizi che consentono di acquistare o scambiare ETC.
+
+  ## Elenco non esaustivo di scambi
+
+  I seguenti scambi supportano tutti Ethereum Classic. Sono suddivisi in 3 categorie: minimizzazione della fiducia, centralizzati e cross-chain.
+
+  **Si prega di fare le proprie ricerche sull'exchange che si sceglie per rifornirsi di Ethereum Classic. Il fatto di essere elencati su questo sito non costituisce un'approvazione dei servizi dell'exchange da parte del progetto Ethereum Classic **.
+items:
+  Trust-Minimizing Exchanges:
+    title: Scambi che minimizzano la fiducia
+    description: I seguenti exchange potrebbero non essere *completamente* decentralizzati, ma operano in modo meno centralizzato rispetto alle sezioni centralizzate riportate di seguito. È probabile che questi prodotti utilizzino contratti intelligenti non custodiali per facilitare gli scambi.
+  Centralized Spot Markets:
+    title: Mercati spot centralizzati
+  Centralized Derivative Markets:
+    title: Mercati dei derivati centralizzati
+  Cross-Chain Swap Exchanges:
+    title: Scambi di scambio a catena incrociata
+    description: "*Nota:* Le borse swap a catena incrociata offrono in genere tassi peggiori rispetto alle borse centralizzate."
+  NFT Marketplaces:
+    title: Mercati NFT
+    description: I seguenti marketplace NFT potrebbero non essere *completamente* decentralizzati.

@@ -4,7 +4,7 @@ updated: 2022-02-22
 showNext: true
 seo: 以太坊经典的存在理由，包括它的创世纪，去中心化的使命，以及由于代码就是法律而实现的光明未来。
 disclaimer: opinion
-info: "**注意：** 在以下章节中，*Ethereum™*指的是DAO分叉后的[Ethereum Foundation](https://ethereum.org)主网链，不要与Ethereum *协议*相混淆，后者被许多区块链项目使用，包括Ethereum Classic"
+info: "**注意：**在以下章节中，*Ethereum™*指的是DAO分叉后的[Ethereum Foundation](https://ethereum.org)主网链，不要与Ethereum *协议*相混淆，后者被许多区块链项目使用，包括Ethereum Classic"
 ---
 
 随着加密货币领域的快速增长，许多新的参与者进入了这个领域，在滚动按市值排名的项目列表时，有人注意到一个名为 _Ethereum Classic_的区块链。

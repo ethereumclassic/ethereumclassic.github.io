@@ -1,0 +1,33 @@
+title: 테스트넷
+seo: 계약 및 프로토콜 업그레이드를 테스트하는 데 사용할 수 있는 공개적으로 사용 가능한 네트워크인 다양한 Ethereum Classic 테스트넷에 대한 정보입니다.
+description: |
+  다른 EVM 계약 시스템과 마찬가지로 Ethereum Classic에서 계약을 개발할 때 블록이 채굴될 때까지 기다릴 필요 없이 신속하게 반복할 수 있는 로컬 [가상 네트워크](/development/tooling)를 사용하는 것이 좋습니다. 그러나 어느 시점에서 대중이 애플리케이션의 베타 버전과 상호 작용하도록 허용할 수 있으며 이를 위해 테스트넷을 사용할 수 있습니다.
+
+  이더리움 클래식이 이더리움의 업스트림 EVM과의 호환성을 유지하기 때문에 일부 사소한 경우를 제외하고 계약은 동일하게 작동합니다. 이것은 [Kovan](https://kovan-testnet.github.io/website/)과 같은 인기 있는 이더리움 테스트넷이 대부분 이더리움 클래식 계약의 공개 테스트에 사용될 수 있음을 의미합니다. 사용자 테스트에 적합합니다.
+
+  또한 Ethereum Classic에는 EVM의 Ethereum Classic 버전을 작동하는 자체 테스트넷이 있으며 이러한 네트워크 중 하나에 배포하는 것도 프로덕션 릴리스 전에 적극 권장됩니다. 이러한 공개 테스트넷은 수도꼭지를 제공하므로 테스트넷 ETC를 쉽게 획득하고 코드를 배포할 수 있습니다.
+
+  Astor와 같은 이러한 네트워크 중 일부는 Ethereum Classic 메인넷에 아직 존재하지 않는 기능으로 ETC의 실험 버전을 테스트합니다.
+items:
+  testnets:
+    i18n:
+      pow: 작업 증명
+      poa: 권한 증명
+      testnet: 테스트넷
+      experimental: 실험적
+      faucet: 수도꼭지
+    columnItems:
+      name:
+        name: 이름
+      faucet:
+        text: 수도꼭지
+      type:
+        name: 유형
+      miningAlgo:
+        name: 연산
+      consensusAlgo:
+        name: 합의 유형
+      networkId:
+        name: 네트워크 ID
+      chainId:
+        name: 체인ID

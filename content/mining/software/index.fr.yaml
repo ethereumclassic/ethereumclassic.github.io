@@ -1,0 +1,18 @@
+title: Logiciel Miner
+seo: Une liste de logiciels qui peuvent être utilisés pour le minage de la crypto-monnaie ETC sur Ethereum Classic.
+description: "L'algorithme minier Proof-of-Work pour le réseau Ethereum Classic est [ETCHash](https://github.com/eth-classic/etchash) depuis le 28 novembre 2020."
+items:
+  table:
+    columnItems:
+      name:
+        name: Nom
+      windowsAmd:
+        name: Windows AMD
+      windowsNvidia:
+        name: Windows Nvidia
+      linuxAmd:
+        name: Linux AMD
+      linuxNvidia:
+        name: Linux Nvidia
+      guide:
+        text: Guide

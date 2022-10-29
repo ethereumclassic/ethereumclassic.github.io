@@ -7,21 +7,21 @@ items:
   using:
     items:
       comparison:
-        question: 我可以用与以太坊(ETH)相同的方式使用以太坊经典(ETC)吗？
+        question: 我可以用与以太坊（ETH）相同的方式使用以太坊经典（ETC）吗？
         answer: |
           是的，Ethereum Classic对终端用户的操作方式与Ethereum几乎完全相同。你只需要确保你所使用的钱包、应用程序、交易所或其他服务支持Classic。
 
-          Ethereum Classic在技术上与Ethereum非常相似，在用户指南、教程和演练方面有很多共同点，适用于两个链，这就是为什么[Ethereum.org上的社区指南](https://ethereum.org/en/learn/)被强烈推荐阅读。
+          Ethereum Classic在技术上与Ethereum非常相似，在用户指南、教程和演练方面有很多共同点，适用于两个链，这就是为什么[Ethereum.org上的社区指南]（https://ethereum.org/en/learn/）被强烈推荐阅读。
 
           你也可以将MetaMask用于Ethereum Classic。
       metmask:
         question: 如何使用ETC和MetaMask？
         answer: |
-          你可以通过 [CoinList.org](https://coinlist.org/en/chain/61)网站轻松地将Ethereum Classic添加到MetaMask。如果你想手动配置MetaMask以使用自定义Ethereum Classic RPC节点，你可以查看 [MetaMask](/guides/metamask)指南。
+          你可以通过 [CoinList.org]（https://coinlist.org/en/chain/61）网站轻松地将Ethereum Classic添加到MetaMask。如果你想手动配置MetaMask以使用自定义Ethereum Classic RPC节点，你可以查看 [MetaMask]（/guides/metamask）指南。
       missingEtc:
         question: 为什么使用MetaMask的硬件钱包时看不到我的ETC？
         answer: |
-          MetaMask的一个[已知错误](https://github.com/MetaMask/metamask-extension/issues/16272)是，它不能识别用Ledger Live(和其他一些硬件钱包)创建的ETC。你可以通过将ETC从Ledger Live发送到你使用同一设备设置的MetaMask钱包来解决这个问题。
+          MetaMask的一个[已知错误](https://github.com/MetaMask/metamask-extension/issues/16272)是，它不能识别用Ledger Live（和其他一些硬件钱包）创建的ETC。你可以通过将ETC从Ledger Live发送到你使用同一设备设置的MetaMask钱包来解决这个问题。
       help:
         question: 我不小心把ETC发到了我的ETH地址，怎么才能恢复呢？
         answer: |
@@ -41,31 +41,31 @@ items:
       explorers:
         question: 我如何查看我的Ethereum Classic交易？
         answer: |
-          最受欢迎和功能齐全的以太坊经典探索器是 [BlockScout](https://blockscout.com/etc/mainnet/)，但在[区块探索器](/network/explorers)部分也有几个替代品。
+          最受欢迎和功能齐全的以太坊经典探索器是 [BlockScout]（https://blockscout.com/etc/mainnet/），但在[区块探索器](/network/explorers)部分也有几个替代品。
       exchange:
         question: 我怎样才能获得ETC？
         answer: |
-          以太坊经典在几乎所有主要的加密货币 [exchange](/services/exchanges)，在那里你可以用法币购买ETC或用其他加密货币换取它。
+          以太坊经典在几乎所有主要的加密货币 [exchange]（/services/exchanges），在那里你可以用法币购买ETC或用其他加密货币换取它。
 
-          如果你有一个合理的现代显卡，你也可以为自己 [mine](/mining)它。
+          如果你有一个合理的现代显卡，你也可以为自己 [mine]（/mining）它。
       wallets:
         question: 您建议我在Ethereum Classic中使用哪个钱包？
         answer: |
-          根据你的使用情况，有许多不同类型的钱包可用。请查看 [wallets](/services/wallets)部分，了解更多信息。
+          根据你的使用情况，有许多不同类型的钱包可用。请查看 [wallets]（/services/wallets）部分，了解更多信息。
       apps:
         question: 哪些应用程序正在以太坊经典网络上运行？
         answer: |
-          从集中式交易所、DEXs、DeFi、NFTs、跨链桥等一切。查看 [services](/services)部分以了解更多。
+          从集中式交易所、DEXs、DeFi、NFTs、跨链桥等一切。查看 [services]（/services）部分以了解更多。
       defi:
         question: 以太坊经典有DeFi吗？
         answer: |
-          是的。在Ethereum Classic上有一个小的，但不断增长的去中心化的金融生态系统，见 [finance](/services/apps/finance)应用程序类别的更新。
+          是的。在Ethereum Classic上有一个小的，但不断增长的去中心化的金融生态系统，见 [finance]（/services/apps/finance）应用程序类别的更新。
       staking:
         question: 我可以用我的ETC作抵押吗？
         answer: |
           不，至少不是像你在股权证明区块链上那样。ETC是一个工作证明区块链，所以你只能挖矿，不能打桩，为网络提供安全。
 
-          可能有一些[借贷协议](/服务/应用程序/金融)允许你借出你的ETC以获得收益，但这些不是以太坊经典协议本身的一部分，并伴随着对手方的风险。
+          可能有一些[借贷协议]（/服务/应用程序/金融）允许你借出你的ETC以获得收益，但这些不是以太坊经典协议本身的一部分，并伴随着对手方的风险。
       safety:
         question: 我听说Ethereum Classic被攻击了51%。它可以安全使用吗？
         answer: |

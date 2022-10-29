@@ -1,6 +1,6 @@
 title: 开发者常见问题
 seo: 为那些希望在Ethereum Classic上做贡献或构建应用程序的人提供的常见问题。
-info: "在这里找不到你的问题的答案？请尝试在ETC社区 [discord](https://ethereumclassic.org/discord)服务器中提问。具体来说，你可能会发现ETC Discord的`#dev-general'频道有兴趣。"
+info: '在这里找不到你的问题的答案？请尝试在ETC社区 [discord](https://ethereumclassic.org/discord)服务器中提问。具体来说，你可能会发现ETC Discord的`#dev-general''频道有兴趣。'
 __contribute: 1
 description: 想了解如何在Ethereum Classic之上建立一个应用程序或协议？本页是为你准备的。
 items:
@@ -13,13 +13,13 @@ items:
 
           其他一些链有审查某些应用程序和交易的历史，所以如果你想确保你的应用程序完全按照程序运行，没有停机，审查或第三方干扰，那么考虑部署到Ethereum Classic!
 
-          对于一些已经部署到Ethereum Classic的应用程序的例子，请查看 [apps](/services/apps)部分。
+          对于一些已经部署到Ethereum Classic的应用程序的例子，请查看 [apps]（/services/apps）部分。
       eth:
         question: 在编写应用程序时，ETH和ETC之间有什么区别？
         answer: |
-          编写合约时没有任何区别；你可以使用与以太坊相同的开发者工具和编程语言(特别是Solidity)。
+          编写合约时没有任何区别；你可以使用与以太坊相同的开发者工具和编程语言（特别是Solidity）。
 
-          与以太坊的主要区别是，ETC有一个不同的应用生态系统，所以你可以直接与之互动的现有部署合约是不同的。如果你需要插入以太坊上的现有资产，你可以使用包装好的资产，[跨链桥](/服务/应用/互操作性)，或者你甚至可以考虑部署你自己版本的这些资产。
+          与以太坊的主要区别是，ETC有一个不同的应用生态系统，所以你可以直接与之互动的现有部署合约是不同的。如果你需要插入以太坊上的现有资产，你可以使用包装好的资产，[跨链桥]（/服务/应用/互操作性），或者你甚至可以考虑部署你自己版本的这些资产。
       development:
         question: 我如何为Ethereum Classic开发应用程序？
         answer: |
@@ -27,18 +27,18 @@ items:
       deployment:
         question: 我如何部署到Ethereum Classic区块链？
         answer: |
-          首先，获取一些ETC来支付部署合约的气体，然后简单地确保你部署到Ethereum Classic网络(链ID 61)，而不是Ethereum网络(链ID 1)。
+          首先，获取一些ETC来支付部署合约的气体，然后简单地确保你部署到Ethereum Classic网络（链ID 61），而不是Ethereum网络（链ID 1）。
       rpc:
         question: 是否有公共的RPC端点，我可以用来部署到ETC？
         answer: |
           是的，如果你不想同步运行你自己的Ethereum Classic节点，有许多公共端点可以免费使用。
 
-          请查看[RPC端点](/network/endpoints)部分，以及 [ChainList.org](https://chainlist.org/en/chain/61)。
+          请查看[RPC端点](/network/endpoints)部分，以及 [ChainList.org]（https://chainlist.org/en/chain/61）。
       grants:
         question: 我可以获得资金来建立在Ethereum Classic上吗？
         answer: |
-          由于Ethereum Classic没有中央财政，所有的开发都必然是自筹资金或通过第三方资助。在过去，各种第三方运作的赠款项目，[ETC合作社](https://etccooperative.org/)已经宣布，它将很快推出一个新的赠款项目。
+          由于Ethereum Classic没有中央财政，所有的开发都必然是自筹资金或通过第三方资助。在过去，各种第三方运作的赠款项目，[ETC合作社]（https://etccooperative.org/）已经宣布，它将很快推出一个新的赠款项目。
       ecips:
         question: 我怎样才能帮助开发Ethereum Classic协议？
         answer: |
-          你可以通过 [ECIP](/development/ecips)程序提交协议升级的建议。你可以通过访问你想帮助的 [clients](/development/clients)的GitHub存储库来帮助维护客户端代码库。
+          你可以通过 [ECIP]（/development/ecips）程序提交协议升级的建议。你可以通过访问你想帮助的 [clients]（/development/clients）的GitHub存储库来帮助维护客户端代码库。

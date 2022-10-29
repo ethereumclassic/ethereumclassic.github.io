@@ -1,0 +1,32 @@
+items:
+  table:
+    number: Con số
+    author: Các tác giả
+    columnItems:
+      title:
+        name: Tiêu đề
+      author:
+        name: Các tác giả
+    items:
+      Delay Difficulty Bomb Explosion:
+        title: Độ khó trễ Nổ bom
+      Long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks:
+        title: Thay đổi chi phí gas dài hạn đối với các hoạt động nặng về IO để giảm thiểu các cuộc tấn công spam giao dịch
+      Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule:
+        title: Chính sách tiền tệ và sửa đổi cuối cùng đối với Lịch trình phát thải Ethereum cổ điển
+      Monetary policy rounding specification:
+        title: Đặc điểm kỹ thuật làm tròn chính sách tiền tệ
+      Remove Difficulty Bomb:
+        title: Loại bỏ bom khó
+      Clique proof-of-authority consensus protocol:
+        title: Giao thức đồng thuận bằng chứng xác thực của Clique
+      Status Codes:
+        title: Mã trạng thái
+      Atlantis EVM and Protocol Upgrades:
+        title: Atlantis EVM và nâng cấp giao thức
+      Agharta EVM and Protocol Upgrades:
+        title: Agharta EVM và nâng cấp giao thức
+      Phoenix EVM and Protocol Upgrades:
+        title: Phoenix EVM và nâng cấp giao thức
+      Calibrate Epoch Duration:
+        title: Hiệu chỉnh thời lượng kỷ nguyên

@@ -1,0 +1,240 @@
+learn:
+  name: Belajar
+  navItems:
+    faqs:
+      name: Soalan Lazim
+      description: Soalan lazim oleh pelbagai pihak berkepentingan
+      navItems:
+        users:
+          name: Pengguna
+          description: Ingin belajar cara menggunakan ETC?
+        researchers:
+          name: Penyelidik
+          description: Baru mendengar tentang Klasik?
+        investors:
+          name: Pelabur
+          description: Berminat untuk membeli DLL?
+        miners:
+          name: pelombong
+          description: Perlukan maklumat tentang cara melombong DLL?
+        developers:
+          name: pemaju
+          description: Ingin membina ETC?
+        contributors:
+          name: Penyumbang
+          description: Ingin membantu projek?
+    whyClassic:
+      name: Mengapa Klasik?
+      description: Mulakan di sini untuk mendapatkan maklumat rendah tentang sebab Ethereum Classic untuk menjadi dan cadangan nilai unik
+      navItems:
+        codeIsLaw:
+          name: Kod adalah Undang-undang
+        genesis:
+          name: Kejadian
+        decentralism:
+          name: Desentralisme
+        soundMoney:
+          name: Wang Bunyi
+        proofOfWork:
+          name: Bukti Kerja
+    #etcVsEth:
+    #__link: /why-classic/etc-vs-eth
+    #name: ETC vs ETH
+    knowledge:
+      name: Pengetahuan
+      description: Bacaan lanjut mengenai asas yang menyokong DLL
+      navItems:
+        foundation:
+          name: Asas
+          description: Prinsip teras yang membentuk asas falsafah ETC yang kukuh
+        theory:
+          name: Teori
+          longName: Teori & Penyelidikan
+          description: Menyelam lebih mendalam tentang logik Ethereum Classic dengan cebisan daripada komuniti
+        investing:
+          name: Melabur
+          longName: Sumber Pelabur
+          description: Maklumat tentang cadangan nilai Ethereum Classic dan potensinya untuk keuntungan yang menyakitkan
+        forks:
+          name: garpu
+          longName: Peningkatan Protokol
+          description: Penceritaan Hard Forks masa lalu dan masa depan yang telah menambahkan fungsi atau pembetulan pepijat pada DLL
+        history:
+          name: Sejarah
+          longName: Sejarah Klasik
+          description: Garis masa semua acara utama dalam sejarah Ethereum Classics sehingga hari ini
+        future:
+          name: masa depan
+          longName: Klasik Masa Depan
+          description: Gambaran keseluruhan proses membuat keputusan dalam ETC, dan tempat ia mungkin membawa protokol
+        metamask:
+          name: MetaMask
+          longName: Menggunakan MetaMask dengan ETC
+          description: Bagaimana untuk mengkonfigurasi MetaMask dan alternatif untuk berinteraksi dengan dapps
+    videos:
+      name: Video
+      description: Koleksi video dan podcast untuk memaklumkan anda tentang konsep dan kejadian ETC
+      navItems:
+        explainers:
+          name: Penjelasan
+        discussions:
+          name: Perbincangan
+        trading:
+          name: Perdagangan
+        development:
+          name: Pembangunan
+        tutorials:
+          name: Tutorial
+        mining:
+          name: perlombongan
+        conferences:
+          name: Persidangan
+          navItems:
+            2017:
+              name: 2017 Hong Kong
+            2018:
+              name: 2018 Seoul
+            2019:
+              name: 2019 Vancouver
+        other:
+          name: Lain-lain
+#memes:
+#__link: /memes
+#__icon: images
+#name: Memes
+#description: Spreading the good word of ETC involves winning the battle of hearts and minds through the whimsicalities of information warfare
+#navItems:
+#mediaKit:
+#__link: /memes/media-kit
+#name: Media Kit
+#charts:
+#__link: /memes/charts
+#name: Charts
+#etc:
+#__link: /memes/etc
+#name: Etcetera
+play:
+  name: Main
+  navItems:
+    services:
+      name: Perkhidmatan
+      description: Apl, Dompet dan Pertukaran yang disepadukan dengan ETC; 100% tidak diaudit, jadi berhati-hati dengan tarikan permaidani!
+      navItems:
+        wallets:
+          name: Dompet
+          description: Perisian untuk menyimpan dan mengurus ETC, Token, NFT dan aset lain
+        exchanges:
+          name: Pertukaran
+          description: Di mana untuk membeli dan berdagang DLL
+        apps:
+          name: Apl
+          longName: Apl dan Protokol
+          description: Ekosistem aplikasi yang memanfaatkan Ethereum Classic
+          navItems:
+            nfts:
+              name: NFT
+            games:
+              name: Permainan
+            identity:
+              name: identiti
+            interoperability:
+              name: Saling kendali
+            finance:
+              name: Kewangan
+            other:
+              name: Lain-lain
+    community:
+      name: Komuniti
+      description: Jika anda mendambakan komunikasi dengan orang yang berminat dengan ETC, berikut ialah cara untuk mencari mereka
+      navItems:
+        channels:
+          name: Saluran
+          longName: Saluran Media Sosial
+          description: Senarai akaun, bilik sembang dan forum untuk membincangkan ETC dengan orang lain
+        teams:
+          name: Pasukan
+          longName: Pasukan Pembangun
+          description: Maklumat tentang orang yang bekerja pada Ethereum Classic
+        events:
+          name: Peristiwa
+          description: Sertai komuniti ETC pada acara sosial biasa yang diadakan sepanjang tahun
+    #bounties:
+    #__link: /community/bounties
+    #name: Bounties
+    #dao:
+    #__link: /community/daos
+    #name: DAOs
+    network:
+      name: Rangkaian
+      description: Titik Akhir RPC, Penjelajah, Pemantau Rangkaian dan sumber lain untuk mereka yang cenderung dari segi teknikal
+      navItems:
+        endpoints:
+          name: Titik akhir
+          longName: Titik Akhir RPC
+          description: Perkhidmatan awam dan swasta untuk berkomunikasi dengan rangkaian ETC
+        explorers:
+          name: Penjelajah
+          longName: Penjelajah Blockchain
+          description: Alat untuk memeriksa rantaian untuk transaksi, sekatan dan cerapan lain
+        monitors:
+          name: Pemantau
+          longName: Pemantau Rangkaian
+          description: Alat untuk menyemak kesihatan dan status rangkaian dengan pelbagai metrik
+    #statistics:
+    #__link: /network/statistics
+    #name: Statistics
+    mining:
+      name: perlombongan
+      description: Keperluan Kumpulan, Perisian dan Perkakasan akan membantu anda melombong DLL untuk keseronokan dan keuntungan
+      navItems:
+        hardware:
+          name: Perkakasan
+          description: Maklumat tentang jenis peralatan yang terbaik untuk digunakan untuk perlombongan yang menguntungkan DLL
+        software:
+          name: Perisian
+          longName: Perisian Perlombongan
+          description: Senarai alat yang boleh digunakan untuk melombong ETC pada pelbagai sistem pengendalian
+        pools:
+          name: kolam
+          longName: Kolam Perlombongan
+          description: Menyertai kumpulan perlombongan membolehkan anda memperoleh keuntungan berdasarkan kuasa hash dan bukannya blok yang ditemui
+    develop:
+      name: Pembangunan
+      description: Testnets, Tooling, Klien dan maklumat tentang cara menyumbang kepada protokol ETC itu sendiri
+      navItems:
+        development:
+          name: Pemandu
+          longName: Panduan Pembangun
+          description: Koleksi turorial tentang cara membina dapps pada Ethereum Classic
+        clients:
+          name: Pelanggan
+          description: Perisian pelanggan adalah tulang belakang rangkaian dan melaksanakan protokol ETC
+        testnets:
+          name: Testnets
+          description: Rangkaian untuk ujian awam apl dan peningkatan protokol sebelum pengeluaran
+        tooling:
+          name: Perkakas
+          longName: Alat Pembangun
+          description: Mereka mengatakan seorang pekerja sama baik dengan alatnya, jadi pastikan anda memilih yang bagus!
+        repos:
+          name: Repositori
+          longName: Repositori Git
+          description: Senarai repo projek berkaitan Ethereum Classic untuk tontonan anda
+        ecips:
+          name: ECIP
+          description: Gambaran keseluruhan Cadangan Penambahbaikan Klasik Ethereum dan cadangan yang diluluskan
+news:
+  name: Berita
+extra:
+  name: Tambahan
+  navItems:
+    news:
+      name: Berita
+    blog:
+      name: Blog
+    about:
+      name: Tentang
+    rss:
+      name: Suapan RSS
+    siteMap:
+      name: Peta laman
