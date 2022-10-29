@@ -36,7 +36,7 @@ Ein alternativer Konsensmechanismus zum Proof of Work, der populär wurde, ist d
 
 Die Hauptbegründung für PoS ist der Umweltschutz; man hoffte, dass PoS die gleichen oder bessere Sicherheitsgarantien als PoW bieten könnte, ohne große Mengen an Energie zu verbrauchen.
 
-</em> Die Vorstellung, dass Proof of Stake nicht nur dieselben, sondern _bessere Sicherheitsgarantien als Proof of Work bieten könnte, und das mit nicht nur demselben, sondern _geringeren_ Energieaufwand, hätte bei denjenigen, die wissen, dass _es so etwas wie ein kostenloses Mittagessen_nicht gibt, sofort die Alarmglocken läuten lassen müssen. Aber für viele konnte diese wesentliche Wahrheit einfach weggewischt werden, da die interdisziplinären Verwicklungen verschiedener Proof-of-Stake-Systeme eine Art technologischen [Galopp](https://en.wikipedia.org/wiki/Gish_gallop)schufen, bei dem Korrekturen über Korrekturen die PoS-Protokolle immer komplexer und undurchsichtiger machten, so dass es schwierig wurde, sie zu entschlüsseln, und der Mythos _free lunch_ wurde weitergeschmuggelt.</p>
+ Die Vorstellung, dass Proof of Stake nicht nur dieselben, sondern _bessere Sicherheitsgarantien als Proof of Work bieten könnte, und das mit nicht nur demselben, sondern _geringeren_ Energieaufwand, hätte bei denjenigen, die wissen, dass _es so etwas wie ein kostenloses Mittagessen_nicht gibt, sofort die Alarmglocken läuten lassen müssen. Aber für viele konnte diese wesentliche Wahrheit einfach weggewischt werden, da die interdisziplinären Verwicklungen verschiedener Proof-of-Stake-Systeme eine Art technologischen [Galopp](https://en.wikipedia.org/wiki/Gish_gallop)schufen, bei dem Korrekturen über Korrekturen die PoS-Protokolle immer komplexer und undurchsichtiger machten, so dass es schwierig wurde, sie zu entschlüsseln, und der Mythos _free lunch_ wurde weitergeschmuggelt.
 
 Nichts verkörpert die subtile und heimtückische Natur der Zentralisierung so sehr wie der Mythos des Pfahlbeweises. Oberflächlich betrachtet handelt es sich um einen noblen Versuch, die schlechtesten Aspekte der Blockchain-Technologie zu korrigieren und sie mit einer nachhaltigen Zukunft kompatibel zu machen, aber bei näherer Betrachtung opfert diese gefährliche Idee die befreiendsten Qualitäten der Technologie im Austausch für weniger als noble Ziele.
 
@@ -116,7 +116,7 @@ Nehmen wir das Beispiel einer Person aus einer weniger entwickelten oder isolier
 
 ### Zentralisierung der Einsätze an den Börsen
 
-</em> Die hohe technische Hürde und _Angst, beim Betreiben eines Knotens und beim manuellen Einsetzen von Stakes etwas falsch zu machen, macht es für die große Mehrheit der Gelegenheitsbesitzer im Kryptobereich unerreichbar, so dass fast alle zum Einsetzen von Stakes wahrscheinlich Dienste Dritter, in der Regel Börsen, nutzen.</p>
+ Die hohe technische Hürde und _Angst, beim Betreiben eines Knotens und beim manuellen Einsetzen von Stakes etwas falsch zu machen, macht es für die große Mehrheit der Gelegenheitsbesitzer im Kryptobereich unerreichbar, so dass fast alle zum Einsetzen von Stakes wahrscheinlich Dienste Dritter, in der Regel Börsen, nutzen.
 
 Der Einsatz an Börsen ist aus Sicht der Nutzer eindeutig besser. Es hat den zusätzlichen Vorteil, dass die Nutzer ihre Einsätze sofort und ohne Strafe aufheben können, da ein großer Liquiditätsüberschuss es den Börsen ermöglicht, die Sperrfrist, die die meisten Proof of Stake-Ketten auferlegen, im Namen der Nutzer zu umgehen.
 
@@ -168,7 +168,7 @@ Im Gegensatz zu einer böswilligen Proof-of-Work-Fork, bei der die Miner Strom f
 
 ### Gestörte Streitschlichtung
 
-</em> Angenommen, beide Seiten einer geteilten _erkennen die Slashing Proofs der jeweils anderen Seite an, dann hat die Kette ein anderes Problem: die Lösung legitimer Meinungsverschiedenheiten, die in Proof of Work-Netzwerken zu einer Kettenspaltung führen würden.</p>
+ Angenommen, beide Seiten einer geteilten _erkennen die Slashing Proofs der jeweils anderen Seite an, dann hat die Kette ein anderes Problem: die Lösung legitimer Meinungsverschiedenheiten, die in Proof of Work-Netzwerken zu einer Kettenspaltung führen würden.
 
 Ethereum Classic selbst ist ein hervorragendes Beispiel für den "ultimativen Streitbeilegungsmechanismus" von Proof of Work-Ketten, wie auf der Website [Ethereum.org](https://ethereum.org/en/governance/#dao-fork)erklärt wird.
 

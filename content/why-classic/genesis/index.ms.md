@@ -202,7 +202,7 @@ Pada masa ini, perdebatan Hard Fork menyerupai perang salib agama yang tidak dih
 
 Melihat Debat DAO Fork di Reddit, kita dapat melihat bahawa sebahagian besar komuniti Ethereum menentang Hard Fork berdasarkan [undian naik](https://old.reddit.com/r/ethereum/comments/4p7mhc/update_on_the_white_hat_attack/d4iqgx1/) sahaja. Walau bagaimanapun, walaupun ini, kuasa-kuasa berpengaruh terlibat yang merasakan tiada pilihan lain selain mendesak Hard Fork untuk melindungi kepentingan kewangan.
 
-Malangnya, mungkin mustahil untuk mengetahui secara terperinci tentang konsensus _sebenar_ pada masa itu, kerana forum perbincangan utama - Reddit dan Twitter - sangat terdedah kepada [serangan Sybil](https://en.wikipedia.org/wiki/Sybil_attack) dalam bentuk astroturfing. Adakah Hard Fork mempunyai sokongan popular yang tulen, atau adakah ia hanya menghasilkan konsensus? Kita mungkin tidak akan pernah tahu, tetapi sekurang</em>_kontroversial.</p>
+Malangnya, mungkin mustahil untuk mengetahui secara terperinci tentang konsensus _sebenar_ pada masa itu, kerana forum perbincangan utama - Reddit dan Twitter - sangat terdedah kepada [serangan Sybil](https://en.wikipedia.org/wiki/Sybil_attack) dalam bentuk astroturfing. Adakah Hard Fork mempunyai sokongan popular yang tulen, atau adakah ia hanya menghasilkan konsensus? Kita mungkin tidak akan pernah tahu, tetapi sekurang_kontroversial.
 
 ### "Debat" Berakhir
 
@@ -444,7 +444,7 @@ Walaupun huru-hara, satu projek, atau lebih khusus, satu falsafah, walaupun ia m
 
 _Tetapi tunggu sebentar, adakah ini serius? Lihat sahaja topi pasaran Ethereum Classic berbanding Ethereum! Dalam dunia apakah Ethereum Classic dianggap sebagai pemenang?_
 
-Bagi mereka yang mendapat _Kod ialah Undang-undang_ dan memahami nilai sebenar rantaian blok, jawapan untuk ini adalah jelas. Terdapat perbezaan dunia antara had pasaran dan nilai</em> , dan sementara pasaran boleh kekal tidak rasional untuk jangka masa yang lama, akhirnya semua rantaian blok akan menghadapi cabaran wujud yang hanya boleh diatasi melalui komitmen _yang tidak berbelah bagi untuk tidak dapat dihalang. Perlahan dan mantap memenangi perlumbaan itu.</p>
+Bagi mereka yang mendapat _Kod ialah Undang-undang_ dan memahami nilai sebenar rantaian blok, jawapan untuk ini adalah jelas. Terdapat perbezaan dunia antara had pasaran dan nilai , dan sementara pasaran boleh kekal tidak rasional untuk jangka masa yang lama, akhirnya semua rantaian blok akan menghadapi cabaran wujud yang hanya boleh diatasi melalui komitmen _yang tidak berbelah bagi untuk tidak dapat dihalang. Perlahan dan mantap memenangi perlumbaan itu.
 
 Setelah memilih untuk meninggalkan Kod _ialah Undang-undang_, Ethereum™ mesti meneruskan keputusan ini pada masa hadapan, termasuk semasa krisis masa depan di mana pengabaiannya mungkin terbukti sebagai kesilapan yang membawa maut. Nasib baik untuk manusia, walaupun, Ethereum Classic akan berada di sana untuk mengambil bahagian apabila ini berlaku.
 

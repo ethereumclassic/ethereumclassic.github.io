@@ -76,9 +76,9 @@ Budući da pojedinačne točke kvara mogu postojati u mnogim područjima i čest
 
 Bitcoin se, kao i kod ETC-a, pozicionira kao "dobri stari pouzdani" sustav koji ne treba brzo inovirati, već to čini polako i metodično bez kršenja svojih prethodno uspostavljenih jamstava. To se postiže konzervativnim pristupom nadogradnjama protokola, etosom "Kreći se polako i ne kvari stvari" i isporukom inovacija u slojevima, umjesto pokušaja implementacije radikalnih promjena u osnovni protokol.
 
-Kao i Bitcoin, ovaj pristup ne isključuje inovacije. Umjesto toga, jednostavno zahtijeva pažljiv i</a>
+Kao i Bitcoin, ovaj pristup ne isključuje inovacije. Umjesto toga, jednostavno zahtijeva pažljiv i
 
-protokola.</p> 
+protokola. 
 
 
 
@@ -86,7 +86,7 @@ protokola.</p>
 
 Jedno od obilježja istinski decentraliziranih projekata jest postojanje zdrave razine nepovjerenja među sudionicima u društvenom sloju. Iako ovo može zvučati kontraintuitivno, to je ono što štiti društveni sloj od mnogih oblika napada.
 
-Bilo koji pojedinac može biti kompromitiran u bilo kojem trenutku, tako da svi sudionici moraju zadržati uvijek skeptičnu perspektivu u komunikaciji i donošenju odluka,</em> _pojedinaca i reputacije. Učiniti drugačije znači napraviti jedan od ključnih promašaja centraliziranog odlučivanja, koji može biti svrsishodan, ali je krhak, jer kad se odluke donose na temelju autoriteta, a ne samo na temelju zasluga, to dopušta da se užasne odluke ne samo povremeno dogode, već nastavite nekontrolirano, dvostruko oboreno i gruda snijega izvan kontrole.</p> 
+Bilo koji pojedinac može biti kompromitiran u bilo kojem trenutku, tako da svi sudionici moraju zadržati uvijek skeptičnu perspektivu u komunikaciji i donošenju odluka, _pojedinaca i reputacije. Učiniti drugačije znači napraviti jedan od ključnih promašaja centraliziranog odlučivanja, koji može biti svrsishodan, ali je krhak, jer kad se odluke donose na temelju autoriteta, a ne samo na temelju zasluga, to dopušta da se užasne odluke ne samo povremeno dogode, već nastavite nekontrolirano, dvostruko oboreno i gruda snijega izvan kontrole. 
 
 Iz tog razloga koncept *toksičnosti* kao opći pristup suparničkom društvenom prostoru kriptovalute ostaje otvorena rasprava i neki ga smatraju legitimnom, iskrenom, iako neukusnom strategijom za vođenje rasprava. Neki smatraju toksičnost oblikom imunološkog odgovora koji eliminira određene vrste lagodnih loših aktera koji se oslanjaju na populizam da proslijede određeni prijedlog. Toksičnost nije kompatibilna sa svim osobnostima, a Ethereum Classic ima dobar udio i toksičnih i netoksičnih sudionika. Imajte na umu da u većini slučajeva abrazivnost u prostoru kriptovaluta nije osobna, već naprotiv, radi se o neispunjenju rasprave koja se temelji isključivo na ideji, a ne na osobnosti.
 

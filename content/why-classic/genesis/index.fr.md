@@ -69,7 +69,7 @@ La phrase "Build Unstoppable Applications" [est apparue](https://web.archive.org
 > 
 > - [Le problème de la confiance, Ethereum Blog, avril 2015](https://blog.ethereum.org/2015/04/27/visions-part-2-the-problem-of-trust/)
 
-</em> Des milliers de personnes ont afflué vers le projet sur la base de cette compréhension et ont contribué en temps, en talent et en argent, unis par la vision originale d'Ethereum _"Build Unstoppable Applications". Ils l'ont dit à leurs amis, se sont portés garants de son intégrité et, grâce à cela, le mot Ethereum s'est répandu comme une traînée de poudre.</p>
+ Des milliers de personnes ont afflué vers le projet sur la base de cette compréhension et ont contribué en temps, en talent et en argent, unis par la vision originale d'Ethereum _"Build Unstoppable Applications". Ils l'ont dit à leurs amis, se sont portés garants de son intégrité et, grâce à cela, le mot Ethereum s'est répandu comme une traînée de poudre.
 
 Tout allait bien au pays des EPF. _Les gens étaient enthousiastes, de nouvelles idées germaient, des projets étaient lancés, et l'un de ces projets en particulier allait bientôt prouver son caractère classique_.
 
@@ -169,9 +169,9 @@ La communauté Ethereum était divisée en deux tribus opposées : les forkers e
 
 Un problème évident qui a obscurci le débat était l'énorme incitation financière pour les nombreux détenteurs de jetons DAO à soutenir un Hard Fork. On leur a fait croire, à tort, que c'était le seul moyen de garantir qu'ils récupéreraient leur investissement. En outre, de nombreuses personnalités influentes, dont les 11 conservateurs, avaient approuvé The DAO et auraient perdu la face si on les voyait ne pas faire tout leur possible pour que les investisseurs qu'ils influençaient soient satisfaits.
 
-Certains pro-forkers ont cru à tort que permettre au hacker de DAO de s'en tirer avec de telles quantités d'ETH reviendrait à condamner l'avenir d'Ethereum, qui ne pourrait pas supporter qu'un mauvais acteur contrôle une telle masse de fonds en Proof of Stake. </a> Les architectes de l'implémentation de la preuve d'enjeu d'Ethereum ont démenti cette affirmation à l'adresse
+Certains pro-forkers ont cru à tort que permettre au hacker de DAO de s'en tirer avec de telles quantités d'ETH reviendrait à condamner l'avenir d'Ethereum, qui ne pourrait pas supporter qu'un mauvais acteur contrôle une telle masse de fonds en Proof of Stake.  Les architectes de l'implémentation de la preuve d'enjeu d'Ethereum ont démenti cette affirmation à l'adresse
 
-. Elle a néanmoins été popularisée pour renforcer le soutien à une bifurcation et constitue un mythe qui perdure à ce jour.</p> 
+. Elle a néanmoins été popularisée pour renforcer le soutien à une bifurcation et constitue un mythe qui perdure à ce jour. 
 
 Les anti-forkers, en revanche, ont fait valoir que le principe "Build Unstoppable Applications" doit être maintenu et que la mise en œuvre d'un Hard Fork non seulement briserait les promesses faites par le projet Ethereum, mais représenterait un [risque moral](https://en.wikipedia.org/wiki/Moral_hazard) qui ouvre la porte à de futures interventions. Certains ont même averti que la nature des blockchains signifiait que les Hard Forks controversés sont garantis d'entraîner une scission de la chaîne __, ce qui pourrait être catastrophique.
 
@@ -212,7 +212,7 @@ Ironiquement, au moment où cette chasse aux sorcières était en cours, le site
 
 En regardant le débat sur le DAO Fork sur Reddit, nous pouvons voir qu'une partie importante de la communauté Ethereum était contre le Hard Fork en se basant uniquement sur [upvotes](https://old.reddit.com/r/ethereum/comments/4p7mhc/update_on_the_white_hat_attack/d4iqgx1/) . Cependant, malgré cela, des forces influentes ont estimé qu'il n'y avait pas d'autre choix que de pousser pour un Hard Fork afin de protéger les intérêts financiers.
 
-</em> Malheureusement, il est probablement impossible de savoir quel était le véritable consensus _à l'époque, car les principaux forums de discussion - Reddit et Twitter - étaient très sensibles aux attaques de type Sybil [](https://en.wikipedia.org/wiki/Sybil_attack) sous forme d'astroturfing. Le Hard Fork a-t-il bénéficié d'un véritable soutien populaire, ou s'agissait-il simplement d'un consensus fabriqué ? Nous ne le saurons probablement jamais, mais le moins que l'on puisse dire, c'est qu'il y a eu une réaction importante, et on ne peut nier que ce qui allait être imposé à la communauté était un Hard Fork _controversé_.</p> 
+ Malheureusement, il est probablement impossible de savoir quel était le véritable consensus _à l'époque, car les principaux forums de discussion - Reddit et Twitter - étaient très sensibles aux attaques de type Sybil [](https://en.wikipedia.org/wiki/Sybil_attack) sous forme d'astroturfing. Le Hard Fork a-t-il bénéficié d'un véritable soutien populaire, ou s'agissait-il simplement d'un consensus fabriqué ? Nous ne le saurons probablement jamais, mais le moins que l'on puisse dire, c'est qu'il y a eu une réaction importante, et on ne peut nier que ce qui allait être imposé à la communauté était un Hard Fork _controversé_. 
 
 
 
@@ -281,7 +281,7 @@ Alors que la date limite de la fonction de fractionnement de la Child DAO approc
 
 ## La fourchette
 
-Sur le bloc 1 920 000, le 20 juillet 2016, l'histoire s'est écrite. </a> Alors que le site web d'Ethereum™ proclame toujours fièrement "Build Unstoppable Applications", ses auteurs ont modifié le protocole Ethereum dans le seul but de stopper net la DAO The Hacker's Child. Les forkeurs ont atteint la couche contractuelle, ont jeté _Code is Law_ par la fenêtre, ont réécrit le contrat de la DAO en plein vol et ont confisqué les ETH du hacker. [Mission accomplie !](https://twitter.com/initc3org/status/758000698881613824/photo/1)</p> 
+Sur le bloc 1 920 000, le 20 juillet 2016, l'histoire s'est écrite.  Alors que le site web d'Ethereum™ proclame toujours fièrement "Build Unstoppable Applications", ses auteurs ont modifié le protocole Ethereum dans le seul but de stopper net la DAO The Hacker's Child. Les forkeurs ont atteint la couche contractuelle, ont jeté _Code is Law_ par la fenêtre, ont réécrit le contrat de la DAO en plein vol et ont confisqué les ETH du hacker. [Mission accomplie !](https://twitter.com/initc3org/status/758000698881613824/photo/1) 
 
 Contrairement à une idée reçue, le Hard Fork de la DAO était techniquement _et non_ un "rollback", comme il est communément appelé - il n'y a pas eu de "retour" à un ancien état. Il s'agissait plutôt d'un "changement d'état irrégulier chirurgical". À bien des égards, il s'agit d'un résultat bien pire qu'un retour en arrière du point de vue de _Code is Law_ , car contrairement à une longue réorganisation, il s'agit d'une intervention manuelle sur un contrat, qui outrepasse sa logique, _change les règles du jeu_, et insère un code de remplacement arbitraire déterminé par un processus de gouvernance subjectif hors chaîne avec une transparence quasi nulle.
 
@@ -418,19 +418,19 @@ Seule la perspective la plus cynique semble répondre de manière adéquate à c
 
 Heureusement, dans un autre développement embarrassant, malgré la tentative de cacher la véritable origine des ETC, la majorité de ces fonds déposés ont été gelés par les bourses, et même les ETC qui ont été liquidés ont finalement été échangés à nouveau en ETC plus tard lorsqu'il est devenu évident que WHG ne serait pas en mesure d'exécuter son plan initial.
 
-</a> Bien que WHG ait fourni à l'adresse les raisons pour lesquelles elle voulait vendre les ETC récupérés, toutes ces excuses se sont révélées sans fondement grâce à la mise en œuvre ultérieure d'un contrat de retrait sur les ETC, qui a finalement permis aux détenteurs de jetons DAO de récupérer leurs ETC en toute sécurité et de décider eux-mêmes de ce qu'ils allaient en faire.</p> 
+ Bien que WHG ait fourni à l'adresse les raisons pour lesquelles elle voulait vendre les ETC récupérés, toutes ces excuses se sont révélées sans fondement grâce à la mise en œuvre ultérieure d'un contrat de retrait sur les ETC, qui a finalement permis aux détenteurs de jetons DAO de récupérer leurs ETC en toute sécurité et de décider eux-mêmes de ce qu'ils allaient en faire. 
 
 
 
 ### Attaques de relecture
 
-L'un des effets de l'absence de préparation à l'éventualité d'une scission de la chaîne était la perspective d'attaques par rejeu, qui pouvaient, tant accidentellement qu'intentionnellement, entraîner la perte de fonds ou le vol de l'un ou l'autre côté de la chaîne. </a> La possibilité d'attaques par rejeu était connue à l'avance à l'adresse . Toutefois, sans doute pour minimiser la possibilité d'une rupture de chaîne, aucune mesure n'a été prise pour atténuer les risques ou même avertir la communauté à ce sujet.</p> 
+L'un des effets de l'absence de préparation à l'éventualité d'une scission de la chaîne était la perspective d'attaques par rejeu, qui pouvaient, tant accidentellement qu'intentionnellement, entraîner la perte de fonds ou le vol de l'un ou l'autre côté de la chaîne.  La possibilité d'attaques par rejeu était connue à l'avance à l'adresse . Toutefois, sans doute pour minimiser la possibilité d'une rupture de chaîne, aucune mesure n'a été prise pour atténuer les risques ou même avertir la communauté à ce sujet. 
 
 Après la scission, les détenteurs d'ETH auraient la même quantité d'ETC associée aux mêmes adresses, et la plupart des transactions effectuées de part et d'autre de la chaîne étaient valides et pouvaient être copiées sur l'autre. Une transaction signée pourrait être diffusée de l'autre côté de la séparation et publiée dans cette chaîne sans que le signataire le sache ou en ait l'intention. Ce danger n'était pas largement connu au début, et il semblait que certains clients publiaient parfois des transactions valides dans les mempools des deux chaînes, créant le chaos et faisant perdre des fonds à des parties innocentes de diverses manières.
 
 Un exemple de ce désordre a été le cas des contrats déployés sur ETH mais pas sur ETC. Un transfert de valeur envoyant de l'ETH à un contrat, par exemple une adresse multisig, peut être rejoué sur l'ETC, mais l'ETC peut être perdu à jamais car l'adresse du contrat récepteur n'a pas de clé privée et aucun code de contrat n'est déployé à cette adresse sur Classic. Dans ce scénario, aucun acteur malveillant n'était nécessaire, il s'agissait simplement d'un mauvais résultat évitable dû à un manque de préparation.
 
-Il existe également des cas documentés d'exploitation malveillante de transactions rejouées, dont la victime est généralement une bourse. </em> Par exemple, un attaquant pourrait déposer et retirer de l'ETH de nombreuses fois, chaque fois que _retire également de l'ETC de l'échange en rejouant la transaction de retrait de l'ETH vers l'ETC de l'échange, et comme la plupart des échanges n'avaient aucune idée de l'ETC ou de ce qu'il pouvait être, une grande partie de l'ETC dans les portefeuilles chauds était mûre pour la cueillette une fois que les blackhats opportunistes ont compris l'astuce.</p> 
+Il existe également des cas documentés d'exploitation malveillante de transactions rejouées, dont la victime est généralement une bourse.  Par exemple, un attaquant pourrait déposer et retirer de l'ETH de nombreuses fois, chaque fois que _retire également de l'ETC de l'échange en rejouant la transaction de retrait de l'ETH vers l'ETC de l'échange, et comme la plupart des échanges n'avaient aucune idée de l'ETC ou de ce qu'il pouvait être, une grande partie de l'ETC dans les portefeuilles chauds était mûre pour la cueillette une fois que les blackhats opportunistes ont compris l'astuce. 
 
 À l'époque, le seul moyen garanti d'empêcher les transactions d'être rejouées était de s'assurer que les fonds étaient séparés dans des adresses différentes sur chaque chaîne, ce qui pouvait être réalisé à l'aide d'un "contrat séparateur", mais c'était un processus ennuyeux, en particulier pour les utilisateurs moins doués techniquement. Quelques mois plus tard, une solution de couche de protocole, [EIP-155](https://eips.ethereum.org/EIPS/eip-155), a été introduite. C'est pourquoi les blockchains EVM respectent désormais un `CHAIN_ID`, un numéro unique pour chaque chaîne qui est spécifié lors de la signature des transactions, ce qui les rend invalides sur d'autres chaînes.
 
@@ -500,7 +500,7 @@ Malgré le chaos, un projet, ou plus précisément une philosophie, bien qu'elle
 
 _Mais attendez une minute, c'est sérieux ? Il suffit de regarder la capitalisation boursière d'Ethereum Classic par rapport à celle d'Ethereum ! Dans quel monde Ethereum Classic est-il considéré comme un gagnant ?_
 
-Pour ceux qui obtiennent _Code is Law_ et comprennent la véritable valeur des blockchains, la réponse à cette question est évidente. </em> Il y a un monde de différence entre la capitalisation boursière et la valeur du réseau, et si le marché peut rester irrationnel pendant longtemps, toutes les blockchains finiront par être confrontées à des défis existentiels qui ne pourront être surmontés que par un engagement inébranlable à l'égard de l'impartialité de _. Lentement et régulièrement, on gagne cette course.</p> 
+Pour ceux qui obtiennent _Code is Law_ et comprennent la véritable valeur des blockchains, la réponse à cette question est évidente.  Il y a un monde de différence entre la capitalisation boursière et la valeur du réseau, et si le marché peut rester irrationnel pendant longtemps, toutes les blockchains finiront par être confrontées à des défis existentiels qui ne pourront être surmontés que par un engagement inébranlable à l'égard de l'impartialité de _. Lentement et régulièrement, on gagne cette course. 
 
 Ayant choisi d'abandonner _Code is Law_, Ethereum™ doit vivre avec cette décision à l'avenir, y compris lors de crises futures où son abandon pourrait s'avérer être une erreur fatale. Heureusement pour l'humanité, Ethereum Classic sera là pour ramasser les morceaux quand cela arrivera.
 

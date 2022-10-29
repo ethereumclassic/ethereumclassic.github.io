@@ -103,9 +103,9 @@ Pero a pesar de estas advertencias, cuando la crowdsale terminó, The DAO había
 
 ### "No hay fondos en riesgo"
 
-</a> Una semana después de que terminara el crowdsale, un investigador de seguridad reveló públicamente en
+ Una semana después de que terminara el crowdsale, un investigador de seguridad reveló públicamente en
 
-un nuevo tipo de vulnerabilidad que muchos desarrolladores de contratos inteligentes no habían tenido en cuenta hasta entonces, el llamado "fallo de reentrada".</p> 
+un nuevo tipo de vulnerabilidad que muchos desarrolladores de contratos inteligentes no habían tenido en cuenta hasta entonces, el llamado "fallo de reentrada". 
 
 El fallo puede producirse cuando un contrato no actualiza correctamente su estado cuando otros contratos interactúan con él, lo que permite a los atacantes ejecutar la misma función muchas veces en contra de la intención __ de los autores del contrato. Es como una máquina expendedora que no comprueba que la moneda se ha introducido correctamente; un atacante puede atar un trozo de cuerda alrededor de la moneda para sacarla y utilizar la misma moneda para barrer todas las deliciosas golosinas.
 
@@ -185,7 +185,7 @@ La comunidad de Ethereum se dividió en dos tribus opuestas: los forkers y los a
 
 Un problema obvio que empañó el debate fue el enorme incentivo financiero para los numerosos poseedores de tokens DAO para apoyar una bifurcación dura. Se les hizo creer erróneamente que esa era la única forma de garantizar la recuperación de su inversión. Además, muchas personalidades influyentes, incluidos los 11 comisarios, habían respaldado el DAO y perderían prestigio si se les veía no hacer todo lo posible para que los inversores a los que influyeron estuvieran satisfechos.
 
-Algunos pro-foreros creían, incorrectamente, que permitir que The DAO Hacker se saliera con la suya con cantidades tan grandes de ETH sería condenar el futuro de Ethereum, que no sería capaz de soportar que un mal actor controlara una reserva tan grande de fondos en Proof of Stake. </a> Los arquitectos de la implementación del Proof of Stake de Ethereum lo negaron en . Sin embargo, se popularizó para reforzar el apoyo a la bifurcación, y es un mito que aún perdura.</p> 
+Algunos pro-foreros creían, incorrectamente, que permitir que The DAO Hacker se saliera con la suya con cantidades tan grandes de ETH sería condenar el futuro de Ethereum, que no sería capaz de soportar que un mal actor controlara una reserva tan grande de fondos en Proof of Stake.  Los arquitectos de la implementación del Proof of Stake de Ethereum lo negaron en . Sin embargo, se popularizó para reforzar el apoyo a la bifurcación, y es un mito que aún perdura. 
 
 Los anti-fork, por otro lado, argumentaron que "Build Unstoppable Applications" debe mantenerse y que la implementación de un Hard Fork no sólo rompería las promesas hechas por el proyecto Ethereum, sino que representaba un riesgo moral [](https://en.wikipedia.org/wiki/Moral_hazard) que abría la puerta a futuras intervenciones. Algunos incluso advirtieron que la naturaleza de las cadenas de bloques significaba que los controvertidos Hard Forks (bifurcaciones duras) garantizan la división de la cadena __, lo que podría ser catastrófico.
 
@@ -295,7 +295,7 @@ A medida que se acercaba la fecha límite de la función de división del Niño 
 
 ## El tenedor
 
-En el bloque 1.920.000, el 20 de julio de 2016, se hizo historia. </a> Mientras que el sitio web de Ethereum™ sigue proclamando con orgullo "Build Unstoppable Applications", sus autores cambiaron el protocolo de Ethereum con el único propósito de detener el DAO de The Hacker's Child en su camino. Los forkers llegaron a la capa del contrato, patearon _Code is Law_ por la ventana, reescribieron el contrato de The DAO a mitad de camino y confiscaron ETH de The Hacker. [¡Misión cumplida!](https://twitter.com/initc3org/status/758000698881613824/photo/1)</p> 
+En el bloque 1.920.000, el 20 de julio de 2016, se hizo historia.  Mientras que el sitio web de Ethereum™ sigue proclamando con orgullo "Build Unstoppable Applications", sus autores cambiaron el protocolo de Ethereum con el único propósito de detener el DAO de The Hacker's Child en su camino. Los forkers llegaron a la capa del contrato, patearon _Code is Law_ por la ventana, reescribieron el contrato de The DAO a mitad de camino y confiscaron ETH de The Hacker. [¡Misión cumplida!](https://twitter.com/initc3org/status/758000698881613824/photo/1) 
 
 Contrariamente a la idea errónea popular, la bifurcación dura del DAO fue técnicamente _no_ un "retroceso", como se denomina comúnmente - no hubo "regreso" a un estado anterior. En su lugar, fue un "cambio de estado irregular quirúrgico". En muchos sentidos, este es un resultado mucho peor que un retroceso desde la perspectiva de _El código es la ley_ , ya que a diferencia de una larga reorganización, esta fue la intervención manual de un contrato, anulando su lógica, _cambiando las reglas del juego_, e insertando algún código de reemplazo arbitrario determinado por un proceso de gobierno subjetivo fuera de la cadena con casi ninguna transparencia.
 
@@ -466,7 +466,7 @@ Mirando hacia atrás, parece claro que la bifurcación dura del DAO fue un ejemp
 
 La respuesta a esto es complicada, pero una teoría es que el pensamiento de aquellos que presionaron tan ardientemente por un Hard Fork estaba nublado, una combinación de autoridad equivocada, mala previsión, y tal vez lo más influyente, amígdala secuestrada gracias a la tremenda presión de las apuestas financieras y las luchas internas tribales causadas por las estructuras de incentivos de la teoría del juego en torno al debate del Hard Fork, que desalentó cualquier olor de retroceso y aprovechó el espíritu guerrero.
 
-</a>El debate sobre la bifurcación dura fue esencialmente un complejo juego de gallinas , y se hizo creer a los forkers que sólo podrían "ganar" si se reafirmaban en la idea de que no se produciría una ruptura de la cadena. Así, restaron importancia a la posibilidad de una ruptura de la cadena y, para garantizar un frente unido de confianza, intimidaron e impidieron que los demás hicieran planes para afrontarla.</p> 
+El debate sobre la bifurcación dura fue esencialmente un complejo juego de gallinas , y se hizo creer a los forkers que sólo podrían "ganar" si se reafirmaban en la idea de que no se produciría una ruptura de la cadena. Así, restaron importancia a la posibilidad de una ruptura de la cadena y, para garantizar un frente unido de confianza, intimidaron e impidieron que los demás hicieran planes para afrontarla. 
 
 Habiendo bebido su propio [Kool-Aid](https://www.urbandictionary.com/define.php?term=drinking%20the%20kool-aid), muchos creyeron realmente que aquellos que estaban en contra de un hard fork o que advertían de que podría producirse una ruptura de la cadena estaban aliados con El Hacker o con los maximalistas de Bitcoin que querían ver morir a Ethereum. Como resultado, los forkers, alimentados por un deseo racional pero una estrategia equivocada para proteger su riqueza, estaban dispuestos a difundir y consumir una propaganda cada vez más ridícula que reforzaba el apoyo a un Hard Fork, lo que creó un círculo vicioso que agravó el efecto.
 

@@ -28,7 +28,7 @@ Proof of Work được bảo mật cả về mặt kinh nghiệm và lý thuyế
 
 Proof of Work không được thiết kế để "hoàn hảo" 100% và như với tất cả các hệ thống, nó có một số đảm bảo hạn chế. Nổi tiếng nhất, chuỗi Proof of Work phải chịu các cuộc tấn công *51%*, mà Ethereum Classic đã nhiều lần trở thành nạn nhân của nó, nhưng vẫn tồn tại. Trong các hệ thống PoW, các cuộc tấn công 51% là một tính năng, không phải lỗi và việc chấp nhận chúng là sự đánh đổi cần thiết để cho phép các quy tắc khách quan có thể xác minh bằng máy tính về phiên bản của chuỗi nào được coi là "đúng"; bất kỳ cái nào có tỷ lệ băm nhiều nhất đã đóng góp vào nó, bất kể ai đóng góp tỷ lệ băm đó.
 
-Sự khôn ngoan vượt thời gian của con</em> _nếu nó không bị phá vỡ, đừng sửa nó.</p>
+Sự khôn ngoan vượt thời gian của con _nếu nó không bị phá vỡ, đừng sửa nó.
 
 ## Đồng thuận Thỏa hiệp
 
@@ -206,7 +206,7 @@ Có mục đích tốt hay cách khác, động cơ kinh tế khổng lồ này 
 
 > Proof of Stake giống như việc khách sạn yêu cầu bạn tái sử dụng khăn tắm để cứu hành tinh. Bề ngoài thì đó là những mục đích cao cả, nhưng trên thực tế nó đang kiếm tiền và mang đến cho bạn một dịch vụ tồi tệ hơn.
 
-Đối với tất cả những nhược điểm đã biết, các dự án tuy nhiên chọn Proof of</em> phải _cực kỳ quan tâm đến việc sử dụng năng lượng, hoặc có thể đáng tin hơn, chủ yếu lo ngại rằng việc đặt cọc sẽ mang lại lợi ích kinh tế cho các nhà đầu tư. Tuy nhiên, bản thân mối quan tâm này là sai lầm, vì một dự án chỉ có thể có giá trị lâu dài nếu nó cung cấp tiện ích, điều này bị làm suy yếu bởi sự tập trung và đánh đổi cần thiết bởi Proof of Stake.</p>
+Đối với tất cả những nhược điểm đã biết, các dự án tuy nhiên chọn Proof of phải _cực kỳ quan tâm đến việc sử dụng năng lượng, hoặc có thể đáng tin hơn, chủ yếu lo ngại rằng việc đặt cọc sẽ mang lại lợi ích kinh tế cho các nhà đầu tư. Tuy nhiên, bản thân mối quan tâm này là sai lầm, vì một dự án chỉ có thể có giá trị lâu dài nếu nó cung cấp tiện ích, điều này bị làm suy yếu bởi sự tập trung và đánh đổi cần thiết bởi Proof of Stake.
 
 Có thể những người nắm giữ những đồng tiền như vậy tin rằng họ đang cung cấp một dịch vụ tương đương với hoạt động khai thác, nhưng họ không chuyển đổi một khoản chi phí thực bên ngoài thành một lợi ích bảo mật, như khi khai thác. Thay vào đó, họ đang _xáo trộn những chiếc ghế ngồi trên tàu Titanic_ bằng cách phân phối lại giá trị từ những nơi khác trong mạng lưới cho chính họ bằng cách đánh thuế những người không đóng góp thông qua lạm phát.
 

@@ -67,9 +67,9 @@ Danas je većina blockchain projekata napustila ideju maksimalne decentralizacij
 
 Jedno pitanje koje bi se trebalo postaviti prilikom ocjenjivanja različitih blockchain projekata je "je li dovoljno decentraliziran?". Odgovor na ovo u potpunosti ovisi o modelu prijetnje [slučaja upotrebe](https://en.wikipedia.org/wiki/Threat_model), koji ovisi o vrsti aplikacija koje treba pokrenuti u određenom lancu. Pitanje se može preformulirati kao "tko bi želio zaustaviti rad aplikacija u ovom lancu i može li se lanac oduprijeti njihovim pokušajima cenzure?".
 
-Na primjer, u slučaju Bitcoina, njegova glavna primjena je sam novčić: digitalna oskudica i mogućnost njegovog prijenosa bez cenzure. Natječe se s mnogim valutama i imovinom, uključujući američki dolar, i stoga mora izdržati napade vrlo moćnih entiteta da bi opstao. Mnogi od prethodnika</a>
+Na primjer, u slučaju Bitcoina, njegova glavna primjena je sam novčić: digitalna oskudica i mogućnost njegovog prijenosa bez cenzure. Natječe se s mnogim valutama i imovinom, uključujući američki dolar, i stoga mora izdržati napade vrlo moćnih entiteta da bi opstao. Mnogi od prethodnika
 
-bili su ugašeni jer su imali središnje točke kvara, a Bitcoin je izričito dizajniran da zaobiđe ovu vrstu cenzure tako što je bio dovoljno decentraliziran.</p> 
+bili su ugašeni jer su imali središnje točke kvara, a Bitcoin je izričito dizajniran da zaobiđe ovu vrstu cenzure tako što je bio dovoljno decentraliziran. 
 
 Nasuprot tome, neki lanci blokova zahtijevaju manji otpor cenzuri od Bitcoina i samo namjeravaju, na primjer, omogućiti prijenos virtualnih baseball kartica ili imaju druge nekontroverzne slučajeve upotrebe. Budući da nikakve moćne vanjske sile ne žele zaustaviti ove aplikacije, otpor cenzuri je nepotreban. Može se čak smatrati i dobrobiti ako neka središnja strana može nadjačati stanje lanca u određenim okolnostima, tako da je za ovaj slučaj upotrebe prihvatljivo da cijelim lancem upravlja nekolicina nadležnih tijela. U tim slučajevima, gdje slučaj upotrebe nije dovoljno važan da bi se dobro financirana organizacija zatvorila, možda bi imalo smisla žrtvovati decentralizaciju radi skalabilnosti, a druge tehnologije koje nisu blockchain mogle bi biti prikladnije.
 
@@ -85,7 +85,7 @@ Ethereumova platforma za pametne ugovore dizajnirana je ne samo da podržava slu
 
 Kako bi osigurao rješenje na globalnoj razini koje bi trebalo odbiti napade drugih suverenih institucija kao što su nacionalne države i multinacionalne organizacije, Ethereum bi, poput Bitcoina, trebao doseći razinu decentralizacije koja bi onemogućila cenzuru bilo koje od ovih grupa to; _Suvereign Grade Censorship Resistance_ je potreban.
 
-S ovom razinom necenzuriranja dosegnut je kritični prag. Budući da niti</em>_ Više se ne oslanjaju na povjerenje ili dopuštenje neke druge tvrtke ili vlade za rad, a na tim platformama korisnici, a ne pružatelji, odlučuju što se događa.</p> 
+S ovom razinom necenzuriranja dosegnut je kritični prag. Budući da niti_ Više se ne oslanjaju na povjerenje ili dopuštenje neke druge tvrtke ili vlade za rad, a na tim platformama korisnici, a ne pružatelji, odlučuju što se događa. 
 
 _Kod je zakon_ može djelovati samo na lancima koji su postigli _Suvereni stupanj otpornosti na cenzuru_. Ova je razina potrebna kako bi se spriječilo da drugi entiteti cenzuriraju njegov rad, a to zauzvrat zahtijeva da lanac maksimalno iskoristi svoje atribute decentralizacije i stalno ih održava bez kompromisa. _Kod je zakon_ zahtijeva _decentralizacija maksimalizam_.
 
@@ -97,7 +97,7 @@ Prije nego što istražimo rješenje problema centralizacije, prvo moramo razumj
 
 Danas, čak i više nego kada je Ethereum (Classic) lansiran 2015., sve je očitije da cenzura postaje oružje izbora umirućeg naslijeđenog sustava koji se pokušava držati relevantnosti. Kako ove stare institucije postaju sve više ugrožene promjenama, čini se vjerojatnim da će se poduzeti sve drastičnije mjere za obranu njihove pozicije.
 
-Prije nego što su internet i blockchain tehnologija stupili na scenu, te su institucije bile prilično zatvorene jer se društvo uvelike oslanjalo na centralizirane kontrolne točke za prijenos vrijednosti i informacija, što se spremno iskorištavalo. S kriptografijom, Satoshi je uzvratio upravo u trenutku, preokrenuvši</a>omogućivši čovječanstvu put prema alternativnom nadolazećem poretku.</p> 
+Prije nego što su internet i blockchain tehnologija stupili na scenu, te su institucije bile prilično zatvorene jer se društvo uvelike oslanjalo na centralizirane kontrolne točke za prijenos vrijednosti i informacija, što se spremno iskorištavalo. S kriptografijom, Satoshi je uzvratio upravo u trenutku, preokrenuvšiomogućivši čovječanstvu put prema alternativnom nadolazećem poretku. 
 
 Kako vrijeme bude prolazilo, napadi na slobodne, poštene i otvorene alternative statusu quo će se pojačati. Kao rezultat toga, ekosustav kriptovaluta ući će u novu fazu, izrazito antagonističku fazu, gdje će necenzuriranost blockchain tehnologije uistinu biti stavljena na kušnju, a središnje točke neuspjeha u sustavima kriptovaluta koji ih imaju bit će tražene i iskorištene. . Za slučajeve upotrebe koje važeći operateri ne odobravaju, preživjet će samo _suverene razine_.
 

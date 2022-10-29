@@ -32,7 +32,7 @@ Si apre una nuova era di prosperità umana, quando la società si libera dall'in
 
 In questo futuro, esistono una o più "giurisdizioni virtuali" globali, che si aggiungono, e in alcuni casi sostituiscono, i quadri giuridici geografici che operano oggi. Queste nuove giurisdizioni saranno preferite in quanto offrono qualcosa che le alternative tradizionali non sono in grado di fornire in modo coerente: trasparenza, equità e incorruttibilità.
 
-</em>A differenza delle giurisdizioni legali esistenti oggi, che sono regolarmente manipolate dai capricci dei potenti, le future giurisdizioni virtuali saranno governate dal principio _Code is Law_, il che significa che, per la prima volta, l'umanità potrà operare in base a _un vero e proprio Stato di diritto, non codificato in testi legali esoterici e mal interpretabili, ma in pura matematica.</p>
+A differenza delle giurisdizioni legali esistenti oggi, che sono regolarmente manipolate dai capricci dei potenti, le future giurisdizioni virtuali saranno governate dal principio _Code is Law_, il che significa che, per la prima volta, l'umanità potrà operare in base a _un vero e proprio Stato di diritto, non codificato in testi legali esoterici e mal interpretabili, ma in pura matematica.
 
 _Code is Law_ è reso possibile dalla tecnologia blockchain ed è un concetto semplice che mantiene queste giurisdizioni virtuali sovrane. Significa che il codice di uno Smart Contract è l'arbitro ultimo dell'esito di un'interazione sulla catena, al contrario di una forza superiore esterna alla rete. Di conseguenza, le applicazioni __ sono _inarrestabili_e funzionano esattamente come programmate senza tempi di inattività, censure o interferenze di terzi.
 
@@ -40,7 +40,7 @@ Quando gli individui si impegnano volontariamente con gli Smart Contract su una 
 
 ## Il valore delle blockchain
 
-</em> Riflettendoci, risulta evidente che _Code is Law_ è l'unico _modo in cui gli Smart Contracts possono essere interpretati in modo corretto o utile. Sulle blockchain che non rispettano _Code is Law_, l'esito delle transazioni non è governato dalla scelta individuale attraverso il codice dei contratti, ma in ultima analisi per volere della "governance" del sistema preesistente, compresi tutti gli inconvenienti che l'introduzione di una blockchain avrebbe dovuto alleviare.</p>
+ Riflettendoci, risulta evidente che _Code is Law_ è l'unico _modo in cui gli Smart Contracts possono essere interpretati in modo corretto o utile. Sulle blockchain che non rispettano _Code is Law_, l'esito delle transazioni non è governato dalla scelta individuale attraverso il codice dei contratti, ma in ultima analisi per volere della "governance" del sistema preesistente, compresi tutti gli inconvenienti che l'introduzione di una blockchain avrebbe dovuto alleviare.
 
 Per coloro che vogliono "Costruire _Applicazioni inarrestabili_ ", la verità apparente è che _Il codice è legge_ è la cosa che rende preziose le blockchain. È il motivo per cui esistono. Senza _Code is Law_, ci sono modi molto più efficienti per "costruire _applicazioni bloccabili_ ", come Amazon Web Services, quindi perché preoccuparsi di una blockchain?
 

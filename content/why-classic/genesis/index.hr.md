@@ -153,7 +153,7 @@ Prije nego što je odlučeno o hard forku, bilo je [potvrđeno](https://old.redd
 > 
 > - [DAO protunapad, Slock.it](https://blog.slock.it/a-dao-counter-attack-613548408dd7#.sthdgppgx)
 
-Postojao je nerealni strah da DAO Hacker nikada</em> odustati i da će _% biti zauvijek zaključano. Međutim, u stvarnosti je bilo samo pitanje vremena kada će Robin Hood Group uspjeti preuzeti kontrolu nad preostalim sredstvima, budući da bi RHG mogao automatizirati svoju stranu zastoja dok traži druge načine da razotkrije ili poremeti The Hacker.</p>
+Postojao je nerealni strah da DAO Hacker nikada odustati i da će _% biti zauvijek zaključano. Međutim, u stvarnosti je bilo samo pitanje vremena kada će Robin Hood Group uspjeti preuzeti kontrolu nad preostalim sredstvima, budući da bi RHG mogao automatizirati svoju stranu zastoja dok traži druge načine da razotkrije ili poremeti The Hacker.
 
 Zastoj je značio da su bijeli šeširi uskratili DAO Hackeru da dobije bilo kakvu značajnu dobit, a znajući da se mogu koristiti drugi načini, uključujući pregovore, forenziku lanca i policijsku kontrolu u stvarnom svijetu, Hacker će na kraju biti prisiljen ili dobrovoljno odustati ili se suočiti s lančane posljedice koje bi ih spriječile da zastupaju svoju stranu pat pozicije.
 

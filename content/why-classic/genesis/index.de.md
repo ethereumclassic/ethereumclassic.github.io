@@ -359,9 +359,9 @@ Aber der Spaß hatte gerade erst begonnen.
 
 ### Die gescheiterte Liquidation von ETC
 
-</a> Ohne die DAO-Token-Inhaber zu warnen oder nach ihrer Meinung zu fragen, hinterlegte WHG, nachdem sie zunächst versucht hatte, die Gelder über mehrere Adressen zu schleusen, um die Herkunft der ETC zu verschleiern, etwa 4 Millionen (die Hälfte der 70 %) an mehreren Börsen,
+ Ohne die DAO-Token-Inhaber zu warnen oder nach ihrer Meinung zu fragen, hinterlegte WHG, nachdem sie zunächst versucht hatte, die Gelder über mehrere Adressen zu schleusen, um die Herkunft der ETC zu verschleiern, etwa 4 Millionen (die Hälfte der 70 %) an mehreren Börsen,
 
-mit der Absicht, diese ETC "im Namen" der DAO-Token-Inhaber in ETH umzuwandeln.</p> 
+mit der Absicht, diese ETC "im Namen" der DAO-Token-Inhaber in ETH umzuwandeln. 
 
 ![Zurückgewonnenes ETC wurde getrommelt und an die Börsen geschickt](./whg-funds.png)
 
@@ -426,7 +426,7 @@ Für den Laien vermarktet sich Ethereum™ immer noch über Smart Contracts und 
 
 Die Geschichte von Ethereum™ lässt jedoch auf ein fragwürdiges Verhältnis zum Konzept der Unaufhaltsamkeit schließen und _Code is Law_. Der direkte Widerspruch zu diesem Konzept in der Vergangenheit von Ethereum™ bedeutet, dass sich das Projekt nun in einer schizophrenen Position befindet, in der es gleichzeitig für und gegen die Idee von _Code is Law_ist.
 
-Einige Etherianer sagen, dass die DAO-Fork eine einmalige Sache war, die nie wieder vorkommen wird; Ethereum™ folgt wirklich _Code is Law_, oder zumindest tut es das seit The Fork. Das Problem mit dieser Position ist, dass die Geschichte von Ethereum™ zeigt, dass es, wenn es darauf ankommt, anfällig für Eingriffe ist, die _Code is Law_außer Kraft setzen können. </em> Wenn etwas _ _Gesetzbuch_außer Kraft setzen kann, haben Sie _Gesetzbuch_nicht, Sie tun nur so, als hätten Sie es vorübergehend. Ob auf philosophischer, sozialer oder finanzieller Ebene, die zentralen Schwachstellen von Ethereum™ haben _bereits_ gezeigt, dass es eingefangen werden kann.</p> 
+Einige Etherianer sagen, dass die DAO-Fork eine einmalige Sache war, die nie wieder vorkommen wird; Ethereum™ folgt wirklich _Code is Law_, oder zumindest tut es das seit The Fork. Das Problem mit dieser Position ist, dass die Geschichte von Ethereum™ zeigt, dass es, wenn es darauf ankommt, anfällig für Eingriffe ist, die _Code is Law_außer Kraft setzen können.  Wenn etwas _ _Gesetzbuch_außer Kraft setzen kann, haben Sie _Gesetzbuch_nicht, Sie tun nur so, als hätten Sie es vorübergehend. Ob auf philosophischer, sozialer oder finanzieller Ebene, die zentralen Schwachstellen von Ethereum™ haben _bereits_ gezeigt, dass es eingefangen werden kann. 
 
 Andere Vordenker der Ethereum Foundation sagen, dass _Code is Law_ ein [unmenschliches](https://twitter.com/VladZamfir/status/936029138623774721), [soziopathisches](https://medium.com/@Vlad_Zamfir/my-intentions-for-blockchain-governance-801d19d378e5) Konzept ist; zukünftige DAO Fork Level "Korrekturen" _sind_ auf dem Tisch für Ethereum™, und das ist ein Feature, kein Bug. Das Problem mit der _Code isn't Law_ Position ist, dass sie das grundlegende Wertversprechen von Blockchains missversteht, die nützlich sind _weil_ spezielle Interessen sie nicht außer Kraft setzen können. Für alles andere gibt es wesentlich effizientere Möglichkeiten.
 

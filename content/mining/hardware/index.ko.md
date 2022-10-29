@@ -14,9 +14,9 @@ seo: ETHash 대 ETCHash, SHA3, GPU 및 ASIC을 다루는 Ethereum Classic 채굴
 
 ETC Mining 알고리즘은 이더리움의 ETHash와 거의 동일하지만 약간의 업그레이드로 채굴자에게 더 친숙합니다. 2020년 말, [Thanos 업그레이드](/blog/2020-11-27-thanos-hard-fork-upgrade)동안 ETC는 [ECIP-1099](https://ecips.ethereumclassic.org/ECIPs/ecip-1099)을 구현하여 ETHash 알고리즘을 ETCHash로 알려진 것으로 조정했습니다.
 
-기본적으로 2020년에는 이더리움의 DAG가 4GB를 초과했는데, 이는 4GB의 메모리를 가진 많은 GPU가 ETH를 계속 채굴할 수 없다는 것을 의미합니다. 이에 대한 응답으로 Ethereum Classic은 4GB의 카드가 대략 2025</a>중반
+기본적으로 2020년에는 이더리움의 DAG가 4GB를 초과했는데, 이는 4GB의 메모리를 가진 많은 GPU가 ETH를 계속 채굴할 수 없다는 것을 의미합니다. 이에 대한 응답으로 Ethereum Classic은 4GB의 카드가 대략 2025중반
 
-까지 ETC를 계속 채굴할 수 있도록 알고리즘을 조정했습니다.</p> 
+까지 ETC를 계속 채굴할 수 있도록 알고리즘을 조정했습니다. 
 
 
 

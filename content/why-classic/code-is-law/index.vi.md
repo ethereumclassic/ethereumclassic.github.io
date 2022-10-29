@@ -50,9 +50,9 @@ Trong khi những hệ thống mới này sẽ mở ra giá trị to lớn cho �
 
 Trong luật _minh bạch và liêm khiết là khu vực pháp lý của Luật_ , những người không thể cung cấp giá trị thực trên một sân chơi bình đẳng sẽ bị tuyệt chủng. Vì lý do này, trong một nỗ lực vô ích để ngăn chặn tiến trình, các blockchain thực sự phi tập trung sẽ gặp phải sự phản kháng đáng kể từ các tổ chức đương nhiệm mà thực tế công bằng hơn này đặt ra một mối đe dọa hiện hữu.
 
-Nếu lịch</a>
+Nếu lịch
 
-là bất cứ điều gì xảy ra, các nỗ lực sẽ được thực hiện để ngăn chặn việc áp dụng các công nghệ mới trao quyền này. Các dự án không được phân cấp đầy đủ, những dự án không phải là _Cấp_của Chủ quyền, sẽ bị thu phục bởi chính các thể chế mà họ hứa sẽ phá vỡ. Đây là lý do tại sao _Code là Luật_ và mức độ phân quyền cao cần thiết để củng cố nó phải là mục tiêu chính của các blockchain muốn tồn tại và cung cấp giá trị lâu dài.</p> 
+là bất cứ điều gì xảy ra, các nỗ lực sẽ được thực hiện để ngăn chặn việc áp dụng các công nghệ mới trao quyền này. Các dự án không được phân cấp đầy đủ, những dự án không phải là _Cấp_của Chủ quyền, sẽ bị thu phục bởi chính các thể chế mà họ hứa sẽ phá vỡ. Đây là lý do tại sao _Code là Luật_ và mức độ phân quyền cao cần thiết để củng cố nó phải là mục tiêu chính của các blockchain muốn tồn tại và cung cấp giá trị lâu dài. 
 
 
 

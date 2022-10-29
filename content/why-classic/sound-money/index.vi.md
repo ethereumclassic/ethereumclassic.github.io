@@ -9,17 +9,17 @@ seo: Tổng quan về các tính năng hữu ích của tiền mang lại giá t
 
 - Tiền âm thanh là một khái niệm có trước internet, truyền cảm hứng cho việc phát minh ra Bitcoin và công nghệ blockchain.
 - Tiền có thể được coi là hợp lý nếu nó có một số thuộc tính có thể định lượng được và những thuộc tính này được mã hóa thành ETC.
-- Một thuộc tính quan trọng là _độ khan hiếm, mà ETC nhận được_</em> __ _lai.</li>
+- Một thuộc tính quan trọng là _độ khan hiếm, mà ETC nhận được_ __ _lai.
 - Nếu một dự án không có _nguồn cung tương lai_đã biết trước, những người bảo trì có thể tự ý thổi phồng giá trị của một loại tiền tệ khỏi người nắm giữ.
-- Rủi ro này vẫn tồn tại</em>tất cả các chuỗi không có đường cong phát thải cố định _, bao gồm cả Ethereum ™.</li> </ul>
+- Rủi ro này vẫn tồn tạitất cả các chuỗi không có đường cong phát thải cố định _, bao gồm cả Ethereum ™. 
 
 ## Giới thiệu
 
 Xương sống của các nền kinh tế mạnh, người cung cấp sự ổn định, người khơi dậy ưu tiên [thời gian lành mạnh](https://www.youtube.com/watch?v=k5XbLm3pEfI), người tạo ra sự thịnh vượng. Tiền ảo là liều thuốc giải độc cho nhiều vấn đề do lạm dụng tài chính tập trung trong thế giới rộng lớn hơn và là khái niệm cốt lõi thúc đẩy sự ra đời của Bitcoin.
 
-Từ Trường Kinh tế Áo [, nhiều lý thuyết đằng sau Bitcoin, bao gồm](https://mises.org/topics/bitcoin)</a>
+Từ Trường Kinh tế Áo [, nhiều lý thuyết đằng sau Bitcoin, bao gồm](https://mises.org/topics/bitcoin)
 
-thấy được ý nghĩa triết học của chúng. Nhiều thập kỷ trước khi Bitcoin được hình dung về mặt công nghệ, các nhà kinh tế học như Ludwig von Mises, Fredreick Hayek và Milton Friedman đã tuyên bố sự nguy hiểm của tiền định danh và lợi thế của các hệ thống tài chính không bị thao túng bởi chính quyền trung ương.</p> 
+thấy được ý nghĩa triết học của chúng. Nhiều thập kỷ trước khi Bitcoin được hình dung về mặt công nghệ, các nhà kinh tế học như Ludwig von Mises, Fredreick Hayek và Milton Friedman đã tuyên bố sự nguy hiểm của tiền định danh và lợi thế của các hệ thống tài chính không bị thao túng bởi chính quyền trung ương. 
 
 
 

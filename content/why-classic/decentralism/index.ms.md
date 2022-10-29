@@ -65,9 +65,9 @@ Hari ini, kebanyakan projek blockchain telah meninggalkan idea untuk memaksimumk
 
 ### Rintangan Penapisan Gred Berdaulat
 
-Satu soalan yang perlu ditanya apabila menilai projek blockchain yang berbeza ialah "adakah ia cukup terdesentralisasi?". </a>untuk ini bergantung sepenuhnya pada model ancaman
+Satu soalan yang perlu ditanya apabila menilai projek blockchain yang berbeza ialah "adakah ia cukup terdesentralisasi?". untuk ini bergantung sepenuhnya pada model ancaman
 
-kes penggunaan, yang bergantung pada jenis aplikasi yang perlu dijalankan pada rantaian tertentu. Persoalannya boleh dirangka semula sebagai "siapa yang mahu menghentikan aplikasi pada rantaian ini daripada berjalan, dan bolehkah rantai itu menentang percubaan mereka untuk penapisan?".</p> 
+kes penggunaan, yang bergantung pada jenis aplikasi yang perlu dijalankan pada rantaian tertentu. Persoalannya boleh dirangka semula sebagai "siapa yang mahu menghentikan aplikasi pada rantaian ini daripada berjalan, dan bolehkah rantai itu menentang percubaan mereka untuk penapisan?". 
 
 Sebagai contoh, dalam kes Bitcoin, aplikasi utamanya ialah syiling itu sendiri: kekurangan digital dan keupayaan untuk memindahkannya tanpa penapisan. Ia bersaing dengan banyak mata wang dan aset, termasuk dolar AS, dan oleh itu ia mesti menahan serangan daripada entiti yang sangat berkuasa untuk berterusan. Banyak daripada [pendahulu Bitcoin](https://blog.dassetx.com/the-known-and-possible-influences-of-satoshi-nakamoto-part-1-privately-issued-digital-currencies-before-bitcoin) telah ditutup kerana mereka mempunyai titik utama kegagalan, dan Bitcoin telah direka secara jelas untuk memintas penapisan jenis ini dengan terdesentralisasi yang secukupnya.
 

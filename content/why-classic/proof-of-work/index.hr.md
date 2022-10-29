@@ -76,9 +76,9 @@ Suptilne greške i iskorištavanja teorije igara u lancima blokova izuzetno je t
 
 ### Neravnoteža moći
 
-Kao što je ranije</a>
+Kao što je ranije
 
-uklanjanjem rudara iz socioekonomskog modela lanca blokova oduzima se važna regulatorna sila koja bi inače spriječila hvatanje; održavanje poštenja drugih strana kroz prijetnju stavljanjem veta na loše odluke selektivnim rudarenjem lanaca. Na lancima Proof of Stake, ulagači i "rudari" (stakeri) su ista grupa, tako da svaka zlouporaba moći od strane ove grupe ostaje relativno neprovjerena, a lanac će vjerojatno imati tendenciju račvanja na načine koji idu u korist ovoj grupi na račun drugi, kao što je povećanje nagrada za ulog.</p> 
+uklanjanjem rudara iz socioekonomskog modela lanca blokova oduzima se važna regulatorna sila koja bi inače spriječila hvatanje; održavanje poštenja drugih strana kroz prijetnju stavljanjem veta na loše odluke selektivnim rudarenjem lanaca. Na lancima Proof of Stake, ulagači i "rudari" (stakeri) su ista grupa, tako da svaka zlouporaba moći od strane ove grupe ostaje relativno neprovjerena, a lanac će vjerojatno imati tendenciju račvanja na načine koji idu u korist ovoj grupi na račun drugi, kao što je povećanje nagrada za ulog. 
 
 
 
@@ -142,7 +142,7 @@ U Proof of Work, ova vrsta napada je nemoguća zahvaljujući odvojenosti koncern
 
 ### APR utrka u naoružanju
 
-Proof of Stake lanci međusobno se natječu za tekući staking kapital koji se, za razliku od hardvera za rudarenje koji je vezan uz specifične algoritme, može slobodno kretati između _i_ PoS lanaca trgovanjem na otvorenim tržištima. To znači da će s vremenom svi lanci Proof of Stake biti pod pritiskom da povećaju nagrade za ulaganje, a time i stope inflacije, kako bi privukli dovoljno ulagača da ulože u njihov lanac. Kao rezultat toga, "utrka prema dnu" će vjerojatno zahvatiti sve lance Proof of Stake, budući da ulaze u sve veću utrku u naoružanju</em>_APR.</p> 
+Proof of Stake lanci međusobno se natječu za tekući staking kapital koji se, za razliku od hardvera za rudarenje koji je vezan uz specifične algoritme, može slobodno kretati između _i_ PoS lanaca trgovanjem na otvorenim tržištima. To znači da će s vremenom svi lanci Proof of Stake biti pod pritiskom da povećaju nagrade za ulaganje, a time i stope inflacije, kako bi privukli dovoljno ulagača da ulože u njihov lanac. Kao rezultat toga, "utrka prema dnu" će vjerojatno zahvatiti sve lance Proof of Stake, budući da ulaze u sve veću utrku u naoružanju_APR. 
 
 Na primjer, ako lanac A nudi nagradu za ulog od 12%, zašto bi ulagači uložili nagradu od 3% lanca B, kada bi jednostavno mogli uložiti A i prodati te nagrade za B, na kraju dobiti više B nego što bi dobili da ulože B izravno? Ovo prisiljava lanac B da poveća svoju nagradu, što zatim potiče A da učini isto, i tako dalje.
 
@@ -240,6 +240,6 @@ Dobronamjeran ili ne, ovaj golemi ekonomski poticaj objašnjava zašto unatoč g
 
 Usprkos svim poznatim nedostacima, projekti koji se ipak odluče za Proof of Stake moraju biti _izuzetno_ zabrinuti zbog potrošnje energije ili, što je još vjerojatnije, prvenstveno zabrinuti da će ulog donijeti ekonomsku korist sudionicima. Međutim, sama ova zabrinutost je pogrešna, budući da projekt može imati dugoročnu vrijednost samo ako pruža korisnost, što je potkopano centralizacijom i kompromisima koje zahtijeva dokaz o udjelu.
 
-Može se dogoditi da vlasnici takvih kovanica vjeruju da pružaju uslugu usporedivu s rudarenjem, ali ne pretvaraju vanjski trošak stvarnog svijeta u sigurnosnu korist, kao kod rudarenja. Umjesto toga, oni ne</em> _vrijednost s drugih mjesta u mreži na sebe oporezujući one koji ne ulažu putem inflacije.</p> 
+Može se dogoditi da vlasnici takvih kovanica vjeruju da pružaju uslugu usporedivu s rudarenjem, ali ne pretvaraju vanjski trošak stvarnog svijeta u sigurnosnu korist, kao kod rudarenja. Umjesto toga, oni ne _vrijednost s drugih mjesta u mreži na sebe oporezujući one koji ne ulažu putem inflacije. 
 
 U svakom slučaju, zbog inherentnih kompromisa potrebnih u sustavima Proof of Stake, to je još jedan znak da _Sovereign Grade Censorship Resistance_ nije prioritet u ovim lancima. Kao takvi, ne mogu se preporučiti za implementacije koje mogu poremetiti moćne institucije.

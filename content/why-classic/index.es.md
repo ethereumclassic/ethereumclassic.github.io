@@ -11,7 +11,7 @@ Tras el rápido crecimiento del espacio de las criptodivisas, muchos nuevos acto
 
 Ven un nombre y un logotipo similares a los del famoso Ethereum™ y pueden suponer que esto de _Classic_ es una especie de proyecto imitador que trata de aprovechar el éxito de ETH. En un mercado saturado de este tipo de proyectos, y con un tiempo de investigación limitado, mucha gente puede razonablemente dar un pase a Ethereum Classic sin pensarlo mucho.
 
-Pero algunos, como usted, deciden bucear un poco más y descubren algunos datos interesantes que desmienten ese escepticismo inicial. </em> Su viaje por la madriguera del conejo comienza cuando descubren que Ethereum Classic no es un clon de Ethereum™, sino una continuación del *original que Ethereum lanzó en 2015 y del que The Ethereum Foundation se separó lanzando un nuevo protocolo un año después, en 2016.</p>
+Pero algunos, como usted, deciden bucear un poco más y descubren algunos datos interesantes que desmienten ese escepticismo inicial.  Su viaje por la madriguera del conejo comienza cuando descubren que Ethereum Classic no es un clon de Ethereum™, sino una continuación del *original que Ethereum lanzó en 2015 y del que The Ethereum Foundation se separó lanzando un nuevo protocolo un año después, en 2016.
 
 Las aplicaciones en Ethereum Classic han estado operando ininterrumpidamente durante un año más que en Ethereum™, lo que convierte a ETC en la plataforma de contratos inteligentes más duradera y fiable. Y lo que es más importante, Ethereum Classic nunca ha detenido ni interferirá con los Smart Contracts desplegados en él, ya que la imparcialidad es lo que hace que las blockchains sean útiles y valiosas.
 

@@ -10,8 +10,8 @@ seo: Un aperçu des caractéristiques utiles de la monnaie qui lui donnent de la
 - L'argent sain est un concept antérieur à Internet qui a inspiré l'invention du bitcoin et de la technologie blockchain.
 - La monnaie peut être considérée comme saine si elle possède plusieurs propriétés quantifiables, et ces propriétés sont encodées dans l'ETC.
 - Une propriété importante est la rareté __, que l'ETC obtient grâce à sa courbe d'émission fixe __ conduisant à une offre future connue __.
-- </em>Si un projet ne dispose pas d'une offre future connue _, les responsables peuvent arbitrairement gonfler la valeur d'une monnaie au détriment des détenteurs.</li>
-- Ce risque reste présent sur toutes les chaînes qui ne disposent pas d'une courbe d'émission fixe __, y compris Ethereum™.</ul>
+- Si un projet ne dispose pas d'une offre future connue _, les responsables peuvent arbitrairement gonfler la valeur d'une monnaie au détriment des détenteurs.
+- Ce risque reste présent sur toutes les chaînes qui ne disposent pas d'une courbe d'émission fixe __, y compris Ethereum™.
 
 ## Introduction
 
@@ -32,7 +32,7 @@ La monnaie est l'élément vital qui transporte l'énergie et l'information dans
 
 ## Offre future connue
 
-L'ETC possède toutes les propriétés de l'argent sain. Il est décentralisé, incensurable, divisible, transférable, fongible, durable et rare. </em>La pierre angulaire de la politique monétaire saine d'une blockchain est la rareté via une offre future connue _. _Tout comme le Bitcoin, mais contrairement à l'Ethereum™, Classic possède une courbe d'émission fixe _. Un montant fixe [](https://etcis.money/) d'ETC créé comme récompense de bloc pour les mineurs, ce qui signifie que les détenteurs d'ETC peuvent calculer avec précision le montant total d'ETC existant à tout moment.</p>
+L'ETC possède toutes les propriétés de l'argent sain. Il est décentralisé, incensurable, divisible, transférable, fongible, durable et rare. La pierre angulaire de la politique monétaire saine d'une blockchain est la rareté via une offre future connue _. _Tout comme le Bitcoin, mais contrairement à l'Ethereum™, Classic possède une courbe d'émission fixe _. Un montant fixe [](https://etcis.money/) d'ETC créé comme récompense de bloc pour les mineurs, ce qui signifie que les détenteurs d'ETC peuvent calculer avec précision le montant total d'ETC existant à tout moment.
 
 La courbe d'émission fixe d'Ethereum Classic a été introduite par [ECIP-1017](https://ecips.ethereumclassic.org/ECIPs/ecip-1017). Le programme d'émission, également connu sous le nom de 5M20, réduit la récompense des blocs de 20 % tous les 5 000 000 de blocs. Sur le plan social, cet événement de réduction des récompenses par blocs a pris le surnom de " Cinquième ".
 
@@ -59,7 +59,7 @@ Qu'il s'agisse de monnaie fiduciaire ou de crypto-monnaies, la redistribution de
 
 Cet état d'échec est un type de "rugpull" qui ne peut exister que dans les projets qui ne sont pas suffisamment décentralisés. [La redistribution de la valeur au détriment des détenteurs et au profit d'un groupe spécifique (qu'il s'agisse de mineurs, de stakers ou de développeurs) ne peut se produire que si l'équilibre des forces](/why-classic/decentralism#balancing-power) est inégal, de sorte que certains participants peuvent imposer des changements au protocole qui font passer leurs intérêts avant ceux des autres.
 
-</em> L'alternative à une offre future connue _est une offre future inconnue __, ce qui conduit à un degré illimité d'inflation ou de dépréciation de la monnaie à terme. En petites quantités, l'inflation peut passer inaperçue et être noyée dans la volatilité quotidienne des marchés, mais elle constitue néanmoins une taxe sur les détenteurs de la monnaie qui ne bénéficient pas des avantages immédiats de l'effet Cantillon [](https://cointelegraph.com/explained/from-cash-to-crypto-the-cantillon-effect-vs-the-nakamoto-effect).</p>
+ L'alternative à une offre future connue _est une offre future inconnue __, ce qui conduit à un degré illimité d'inflation ou de dépréciation de la monnaie à terme. En petites quantités, l'inflation peut passer inaperçue et être noyée dans la volatilité quotidienne des marchés, mais elle constitue néanmoins une taxe sur les détenteurs de la monnaie qui ne bénéficient pas des avantages immédiats de l'effet Cantillon [](https://cointelegraph.com/explained/from-cash-to-crypto-the-cantillon-effect-vs-the-nakamoto-effect).
 
 Dans des cas extrêmes, les chaînes qui ont pour politique de maintenir une offre future inconnue __ peuvent conduire à une hyperinflation [de type Zimbabwe](https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe), qui est un nuage noir omniprésent qui plane sur tous les détenteurs de ces monnaies. Même si ces projets n'ont pas besoin d'ouvrir le robinet de l'inflation aujourd'hui, cela peut devenir "nécessaire" pour une raison quelconque à l'avenir. Qu'il s'agisse de problèmes de financement du développement ou de la course vers le bas [](/why-classic/proof-of-work#the-apr-arms-race) de la concurrence avec les rendements de Proof of Stake d'autres chaînes, sans le précédent d'une courbe d'émission fixe, le comité central d'organisation de ces projets peut facilement évoquer un certain nombre de justifications pour s'approprier la valeur des détenteurs comme étant la seule façon pour le projet de continuer.
 
@@ -67,7 +67,7 @@ Dans des cas extrêmes, les chaînes qui ont pour politique de maintenir une off
 
 Certains promoteurs de crypto-monnaies, peut-être involontairement, font croire à leurs collègues détenteurs que les contrôles et les équilibres fournis par _fixed future supply_ sont une entrave, en postulant qu'il est en quelque sorte dans l'intérêt financier des détenteurs de ne pas en avoir.
 
-L'idée de _monnaie ultrasonique_, un synonyme de _monnaie non saine_, signifie que l'offre future d'une monnaie est inconnue, et bien que les mainteneurs promettent du bout des doigts qu'elle ne sera jamais supérieure à ce qu'elle doit être, cela peut aller de zéro à l'infini. </em> Une offre future d'ultrasons _est sujette à des modifications sur la base d'un critère indéfini et imprévisible, ce qui signifie que son autorité centrale se réserve le droit illimité de redistribuer des fonds aux détenteurs dans le futur.</p>
+L'idée de _monnaie ultrasonique_, un synonyme de _monnaie non saine_, signifie que l'offre future d'une monnaie est inconnue, et bien que les mainteneurs promettent du bout des doigts qu'elle ne sera jamais supérieure à ce qu'elle doit être, cela peut aller de zéro à l'infini.  Une offre future d'ultrasons _est sujette à des modifications sur la base d'un critère indéfini et imprévisible, ce qui signifie que son autorité centrale se réserve le droit illimité de redistribuer des fonds aux détenteurs dans le futur.
 
 > Oui, votre vieille voiture ennuyeuse est peut-être sûre, mais regardez ce mauvais garçon ici. On a enlevé les freins et les ceintures de sécurité, donc maintenant c'est ultrasécurisé.
 > 

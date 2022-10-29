@@ -108,7 +108,7 @@ Il mining e, di conseguenza, la Proof of Work, sono privi di permessi, in quanto
 
 Poiché non ci sono gatekeeper, i meccanismi di consenso delle Proof of Work _non possono_ preoccuparsi _di come_ viene creato l'hashrate, o _di chi_ ha contribuito. Questa è una qualità essenziale se si vuole che una catena rimanga neutrale e non catturata, perché se i gatekeeper esistessero, sarebbero in grado di rifiutare il lavoro in base all'identità o all'ubicazione di un collaboratore, bloccandolo e, così facendo, centralizzando e catturando la rete.
 
-I sistemi Proof of Stake sono _non_ permissionless. </em> L'unico modo per acquisire la valuta necessaria per le transazioni e le puntate è _acquistarla_ da qualcuno che già possiede tale valuta; per utilizzare la rete è necessario il permesso _di qualcuno all'interno della rete, e i detentori esistenti sono i guardiani.</p>
+I sistemi Proof of Stake sono _non_ permissionless.  L'unico modo per acquisire la valuta necessaria per le transazioni e le puntate è _acquistarla_ da qualcuno che già possiede tale valuta; per utilizzare la rete è necessario il permesso _di qualcuno all'interno della rete, e i detentori esistenti sono i guardiani.
 
 In un certo senso, tutte le reti Proof of Stake sono già _soft captured_, poiché i possessori di monete PoS potrebbero decidere collettivamente (o essere costretti) di interrompere le transazioni con gli utenti di una particolare classe o giurisdizione, e questi utenti non hanno modo di effettuare transazioni sulla rete indipendentemente dal prezzo che sono disposti a pagare.
 

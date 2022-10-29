@@ -25,7 +25,7 @@ Ethereum Classic, Bitcoin gibi, geleneksel yazılım geliştirme anlamında bir 
 
 Tipik olarak, yeni özelliklerin uygulanması, Ethereum Classic topluluğunun büyük desteğini veya en azından önemli bir muhalefetini gerektirmez, bu da ETC'yi BTC gibi teknolojik gelişiminde oldukça temkinli hale getirir. Hangi yükseltmelerin uygulanacağına dair kararları yönlendiren merkezi bir grup olmadığından, önemli bir geri itme nedeniyle zincirin bölünmesi tehdidi, ETC'deki Hard Fork'ların güvenli, aşamalı ve her şeyden önce tartışmasız olma eğiliminde olduğu anlamına gelir.
 
-İşler ters gittiğinde mali zarara neden olabilecek "hızlı hareket et ve bir şeyleri kır" zihniyetinden ziyade, önemli güncellemeler protokole uygulanmadan önce genellikle uzun süreler boyunca düşünülür, rafine edilir ve test edilir, böylece</em> bir çatallanmadan önce _uygun şekilde fikir birliğine varılabilir.</p>
+İşler ters gittiğinde mali zarara neden olabilecek "hızlı hareket et ve bir şeyleri kır" zihniyetinden ziyade, önemli güncellemeler protokole uygulanmadan önce genellikle uzun süreler boyunca düşünülür, rafine edilir ve test edilir, böylece bir çatallanmadan önce _uygun şekilde fikir birliğine varılabilir.
 
 Ayrıca, mümkün olduğunca 2015 yılında devreye alınan sözleşmelerin süreklilik arz etmesine ve _Code is Law_ adresinin korunmasına özen gösterilmektedir.
 

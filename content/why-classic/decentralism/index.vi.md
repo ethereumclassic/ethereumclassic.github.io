@@ -14,8 +14,8 @@ contributors:
 - Trong các hệ thống blockchain, phân quyền là vô cùng quan trọng. Để làm cho một blockchain trở nên hữu ích, một ngưỡng nhất định phải được đáp ứng, tùy thuộc vào ứng dụng.
 - Nhiều dự án sử dụng khó khăn của việc đo lường sự phân quyền để làm rối loạn mức độ nhạy cảm thực sự của họ trong việc nắm bắt.
 - Các tầng xã hội và công nghệ có thể được nắm bắt thông qua nhiều phương tiện khác nhau, vì vậy cả hai đều phải được phân cấp và không nên dựa vào một nhóm trung tâm.
-- Ethereum Classic hướng tới mức độ phi tập trung cấp</em> là _Sovereign Grade, có nghĩa là không có tổ chức nào trên thế giới có thể nắm bắt được nó.</li>
-- Ethereum Classic áp dụng phương pháp tiếp cận đầu tiên _nguyên tắc_, _tối đa hóa phân quyền_, _kiểm tra và cân bằng tính trung lập của giao thức_ và __ để đạt được khả năng ngăn chặn nắm bắt lâu dài.</ul>
+- Ethereum Classic hướng tới mức độ phi tập trung cấp là _Sovereign Grade, có nghĩa là không có tổ chức nào trên thế giới có thể nắm bắt được nó.
+- Ethereum Classic áp dụng phương pháp tiếp cận đầu tiên _nguyên tắc_, _tối đa hóa phân quyền_, _kiểm tra và cân bằng tính trung lập của giao thức_ và __ để đạt được khả năng ngăn chặn nắm bắt lâu dài.
 
 ## Giới thiệu
 
@@ -129,7 +129,7 @@ Sự tập trung hóa, giống như lực hấp dẫn, liên tục kéo và tìm
 
 Bởi vì điều này, không có ích gì khi có sự phân cấp trong các biện pháp một nửa. Một chuỗi chỉ mạnh khi liên kết yếu nhất của nó và một chuỗi khối chỉ phi tập trung như nút thắt cổ chai tập trung nhất của nó. Vì lý do này, _tất cả_ phần của một dự án blockchain, cả về mặt kỹ thuật và xã hội, phải phấn đấu cho _chủ nghĩa tối đa phân quyền_.
 
-Thật không may, trong hệ sinh thái tiền điện tử, tầm quan trọng của chủ nghĩa tối đa phân quyền _không được hiểu hoặc áp dụng rộng rãi, đến mức thuật ngữ_ phân quyền _đã trở thành một_ </em> _phi tập trung.</p>
+Thật không may, trong hệ sinh thái tiền điện tử, tầm quan trọng của chủ nghĩa tối đa phân quyền _không được hiểu hoặc áp dụng rộng rãi, đến mức thuật ngữ_ phân quyền _đã trở thành một_  _phi tập trung.
 
 Những dự án này có những điểm thất bại nhỏ trong hệ thống của chúng, nhưng những người khởi xướng chuyển trọng tâm sang các lĩnh vực "phi tập trung" khác. Đây là một chiến thuật hiệu quả, vì việc chứng minh rằng một hệ thống có những điểm trung tâm có khả năng bị lỗi đòi hỏi kiến thức sâu sắc về hệ thống và có thể rất khó hoặc không thể đối với người chuyên nghiệp, do kỹ năng kỹ thuật và kiến thức nội bộ cần có để đánh giá đúng.
 
@@ -209,7 +209,7 @@ Nó đòi hỏi phân quyền phải được theo đuổi một cách tổng th
 
 Theo định nghĩa, nếu nó có ý nghĩa, cách tiếp cận này không đòi hỏi sự thỏa hiệp. Ngay cả những hy sinh, vi phạm hoặc ngoại lệ nhỏ nhất cũng nên được, trừ khi hoàn toàn không thể tránh khỏi với một số đánh đổi đáng giá tổng thể trong bối cảnh các tiêu chí dừng đã biết, không thể dung thứ được. Vì rất khó để loại bỏ tập trung hóa, nên nó thường tích lũy theo thời gian và sẽ chồng chất cho đến khi hệ thống được nắm bắt theo cách này hay cách khác.
 
-Dù ở bất kỳ</em> cạnh nào, chủ nghĩa tối đa hóa phi tập trung _đòi hỏi sự cảnh giác vĩnh viễn và hiểu rằng các hệ thống tự nhiên có xu hướng tập trung hóa, vì vậy mọi quyết định được đưa ra đều phải xem xét chi phí phải trả khi nợ tập trung hóa, để giữ cho hệ thống không mắc nợ trong dài hạn.</p>
+Dù ở bất kỳ cạnh nào, chủ nghĩa tối đa hóa phi tập trung _đòi hỏi sự cảnh giác vĩnh viễn và hiểu rằng các hệ thống tự nhiên có xu hướng tập trung hóa, vì vậy mọi quyết định được đưa ra đều phải xem xét chi phí phải trả khi nợ tập trung hóa, để giữ cho hệ thống không mắc nợ trong dài hạn.
 
 ## Trở đi
 
