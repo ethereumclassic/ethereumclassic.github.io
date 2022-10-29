@@ -1,35 +1,47 @@
 ---
-title: Mining Hardware Guide
+title: マイニングハードウェアガイド
 contributors:
   - "IstoraMandiri"
   - "wpwrak"
 updated: 2022-02-22
 contribute: true
-seo: A short explanation of the Hardware Requirements for Mining Ethereum Classic, covering ETHash vs ETCHash, SHA3, GPUs, and ASICs.
+seo: ETHash vs ETCHash、SHA3、GPU、ASICを網羅した、Ethereum Classicのマイニングに必要なハードウェアの簡単な説明です。
 ---
 
-Mining Ethereum Classic is almost identical to mining Ethereum, and supports the same hardware and mining software. If you are a recently evicted Ethereum miner, Ethereum Classic loves its miners and welcomes you, and you can start mining ETC using your existing hardware by simply switching to a [mining pool](/mining/pools) that supports Ethereum Classic.
+イーサリアムクラシックのマイニングは、イーサリアムのマイニングとほぼ同じであり、同じハードウェアとマイニングソフトウェアに対応しています。 </a> 最近退去させられたイーサリアムマイナーの方でも、イーサリアムクラシックはマイナーを愛し、歓迎しています。イーサリアムクラシックに対応したマイニングプール
 
-## ETCHash
+に乗り換えるだけで、既存のハードウェアを使ってETCのマイニングを開始することができます。</p> 
 
-The ETC Mining algorithm is almost identical to Ethereum's ETHash, with a small upgrade that made it more miner friendly. In late 2020, during the [Thanos upgrade](/blog/2020-11-27-thanos-hard-fork-upgrade), ETC implemented [ECIP-1099](https://ecips.ethereumclassic.org/ECIPs/ecip-1099), which tweaked the ETHash algorithm into what became known as ETCHash.
 
-Basically, in 2020, Ethereum's DAG exceeded 4 GB, meaning that many GPUs with 4 GB of memory would be unable to continue mining ETH. In response, Ethereum Classic tweaked it's algorithm to ensure that cards with 4 GB would be able to continue mining ETC until [approximately mid-2025](https://minerstat.com/dag-size-calculator).
 
-## Hardware Requirements
+## エッチキャッシュ
 
-There are two main types of hardware that can be used to profitably mine Ethereum Classic.
+ETCマイニングのアルゴリズムは、イーサリアムのETHashとほぼ同じで、マイナーに優しいように少しアップグレードされています。 2020年後半、 [Thanos upgrade](/blog/2020-11-27-thanos-hard-fork-upgrade)の間、ETCは [ECIP-1099](https://ecips.ethereumclassic.org/ECIPs/ecip-1099)を実装し、ETHashアルゴリズムに手を加え、ETCHashと呼ばれるようになった。
 
-### GPUs
+基本的に2020年にイーサリアムのDAGは4GBを超え、メモリが4GBのGPUの多くはETHの採掘を継続できなくなることを意味します。 これを受けて、イーサリアムクラシックはアルゴリズムを微調整し、4GBのカードでETCの採掘を [およそ2025年半ばまで続けられるようにしました](https://minerstat.com/dag-size-calculator).
 
-Generally, the best graphics cards to mine Ethereum Classic are the most power efficient cards with at least 4 GB of memory. Before picking a GPU, look for reviews specifically about mining ETCHash. You can search online for the "Best GPUs for mining Ethereum Classic in [current year]" for suggestions, and visit [WhatToMine](https://whattomine.com/coins?e4g=true) for more info.
 
-### ASICs
 
-ASICs, or Application Specific Integrated Circuits, are specially manufactured chips that are designed, as the name suggests, to mine just one specific algorithm. Originally, due to the memory-intense requirements of the DAG, ETHash was fairly resistant to ASICs, but with time, like all profitable algorithms, there was a big incentive to build ASICs for ETHash, which did come to market.
+## 必要なハードウエア
 
-A range of ASIC miners Ethereum Classic are available and can be found by searching online for "ETHash ASIC Miners", and check the manufacturer's specification for whether it supports ETCHash.
+イーサリアムクラシックの採掘で利益を得るために使用できるハードウェアは、主に2種類あります。
 
-## Support
 
-For further help and guidance from other miners in the ETC community, you can reach out in the #mining channel on [Discord](https://ethereumclassic.org/discord).
+
+### GPU
+
+一般的に、イーサリアムクラシックの採掘に最適なグラフィックカードは、少なくとも4GBのメモリを搭載した最も電力効率の高いカードです。 GPUを選ぶ前に、ETCHashのマイニングに特化したレビューを探してみてください。 ネットで「Best GPUs for mining Ethereum Classic in [current year]」と検索すると候補が出てきますので、 [WhatToMine](https://whattomine.com/coins?e4g=true) をご覧になってください。
+
+
+
+### ASIC
+
+ASIC（特定用途向け集積回路）は、その名の通り、ある特定のアルゴリズムだけを採掘するために特別に製造されたチップである。 元々、DAGのメモリ負荷が高いため、ETHashはASICにかなり抵抗がありましたが、時が経つにつれ、他の儲かるアルゴリズムと同様に、ETHash用のASICを作るインセンティブが大きくなり、実際に市場に出てきました。
+
+ASICマイナーのイーサリアムクラシックは様々なものがあり、ネットで「ETHash ASIC Miners」と検索すると出てきますので、ETCHashに対応しているかどうか、メーカーの仕様を確認してみてください。
+
+
+
+## サポート
+
+ETCコミュニティの他のマイナーからのさらなるヘルプやガイダンスについては、 [Discord](https://ethereumclassic.org/discord)の #mining チャンネルで連絡を取ることができます。
