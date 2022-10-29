@@ -1,0 +1,61 @@
+__contribute: 1
+__contributors:
+  - arvicco
+  - bobsummerwill
+  - cseberino
+  - dax-classix
+  - dax-classix
+  - gitr0n1n
+  - IstoraMandiri
+  - lgn21st
+  - matthewjamesr
+  - ProphetDaniel
+  - ProphetDaniel
+  - pyskell
+  - realcodywburns
+  - redsn0w0
+  - TheEnthusiasticAs
+  - Zorlin
+items:
+  main:
+    __type: links
+    title: 核心原则
+    description: 本节包含了一些最重要的文章，深入探讨了以太坊经典基金会的基本理念。这些是最终保持原始Ethereum愿景的想法。
+    items:
+      Declaration of Independence:
+        name: 独立宣言
+        __link: /blog/2016-08-13-declaration-of-independence
+        description: 一份关于ETC存在理由的声明，一份申诉清单，以及一份关于其原则和目标的描述。它是Ethereum Classic的早期创始文件之一，最初发表于2016年8月，并被翻译成多种语言。
+      A Crypto-Decentralist Manifesto:
+        name: 低碳中心主义宣言
+        __link: /blog/2016-07-11-manifesto
+        description: 另一份来自Ethereum Classic早期的有影响力的文件。它概述了去中心化的核心价值，并帮助ETC社区内的决策制定。
+      Ethereum Classic Vision:
+        name: 以太坊经典愿景
+        __link: https://etherplan.com/2019/08/14/ethereum-classic-vision/8595/
+        description: 以太坊经典将如何成为一个成功的计算平台，以及为什么ETC是一个优秀的价值存储。
+      keepEtcClassic:
+        name: 让我们保持Ethereum Classic经典
+        __link: https://ethereumclassicclassic.org
+        description: 针对财政部的一项提案（现已撤回），深入提醒了捍卫以太坊经典原则的重要性。
+  past:
+    __type: links
+    title: 巨人的肩膀
+    description: 如果没有其他开拓性的项目，如比特币最初的区块链基础工作和去中心化理念，以及以太坊项目提供的图灵完备的智能合约平台技术，以太坊经典不可能存在。
+    items:
+      The idea of Smart Contracts:
+        name: 智能合约的理念
+        __link: https://web.archive.org/web/20020316215014/http://szabo.best.vwh.net/idea.html
+        description: 尼克-萨博在1997年提出了智能合约的想法。
+      Bitcoin A Peer-to-Peer Electronic Cash System:
+        name: "比特币：一个点对点的电子现金系统"
+        __link: https://bitcoin.org/en/bitcoin-paper
+        description: 中本聪的原始白皮书仍然是研究比特币和区块链如何工作的人的推荐读物。
+      ethWhitepaper:
+        name: "以太坊白皮书"
+        __link: https://ethereum.org/en/whitepaper/
+        description: 以太坊白皮书原文解释了区块链技术的效用是如何通过 "解决决定谁能影响共识的政治问题 "来释放的，以及DAO、稳定币等概念。
+      ethYellowPaper:
+        name: "以太坊黄皮书"
+        __link: https://ethereum.github.io/yellowpaper/paper.pdf
+        description: 以太坊协议的原始技术描述，作者：Gavin Wood

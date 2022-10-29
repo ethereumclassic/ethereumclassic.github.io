@@ -1,0 +1,169 @@
+__contribute: 1
+__updated: 2021-11-21
+title: 开发团队
+seo: 以前或目前正在为Ethereum Classic做贡献的主要组织的名单。
+__contributors:
+  - arvicco
+  - bobsummerwill
+  - dax-classix
+  - realcodywburns
+  - gitr0n1n
+  - ProphetDaniel
+  - pyskell
+  - q9f
+  - stevanlohja
+  - TheEnthusiasticAs
+description: |
+  以太坊经典是一个去中心化的开发生态系统，这意味着没有 "官方 "团队或正式的等级制度。这个全球开发社区是一个没有许可的 "民主"，任何人都可以参与。个人和团队为自己选择任务并执行它们。我们通过[Ethereum Classic Improvement Proposal (ECIP)](https://ecips.ethereumclassic.org/)过程集体建立[粗略共识](https://en.wikipedia.org/wiki/Rough_consensus)。
+
+  这是自2015年7月30日项目创世区块以来，为Ethereum Classic做出贡献的著名团队名单。以太坊经典的生态系统对个人、志愿者和团队的所有协议级开发努力表示感谢。
+items:
+  teams:
+    __type: table
+    __sort: 0
+    columnItems:
+      year:
+        name: 年
+      name:
+        __linkRef: link
+        name: 团队名称
+      social:
+        name: 社会
+        iconItems:
+          github:
+            __linkRef: github
+            __icon: github
+          twitter:
+            __linkRef: twitter
+            __icon: twitter
+      active:
+        __checkRef: active
+        name: 活跃
+    items:
+      Ethereum Foundation:
+        __year: 2015
+        __name: Ethereum Foundation
+        __link: https://ethereum.org/
+        __twitter: https://twitter.com/ethereum
+        __github: https://github.com/ethereum/
+      Parity Technologies:
+        __year: 2016
+        __name: Parity Technologies
+        __link: https://parity.io/
+        __twitter: https://twitter.com/ParityTech
+        __github: https://github.com/paritytech
+      ETC Consortium:
+        __year: 2016
+        __name: ETC Consortium
+        __active: 1
+        __link: https://etcconsortium.org/
+        __twitter: https://twitter.com/ETCConsortium
+      ETCDEV:
+        __year: 2016
+        __name: ETCDEV
+        __link: https://etcdevteam.com/
+        __twitter: https://twitter.com/getemerald
+        __github: https://github.com/ETCDEVTeam/
+      Grothendieck:
+        __year: 2016
+        __name: IOHK Mantis
+        __active: 0
+        __link: https://mantisclient.io/
+        __twitter: https://twitter.com/Mantis_IO
+        __github: https://github.com/input-output-hk/mantis
+      ETC Cooperative:
+        __year: 2017
+        __name: ETC Cooperative
+        __active: 1
+        __link: https://etccooperative.org/
+        __twitter: https://twitter.com/ETCCooperative
+        __github: https://github.com/ETCCooperative
+      Ethereum Commonwealth:
+        __year: 2017
+        __name: Ethereum Commonwealth
+        __active: 1
+        __link: https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/
+        __twitter: https://twitter.com/Dexaran
+        __github: https://github.com/EthereumCommonwealth
+      Grayscale:
+        __year: 2017
+        __name: Grayscale
+        __active: 1
+        __link: https://grayscale.co/ethereum-classic-trust/
+        __twitter: https://twitter.com/GrayscaleInvest
+      commonwealth.gg:
+        __year: 2018
+        __name: Commonwealth.gg
+        __active: 1
+        __link: https://commonwealth.gg
+        __twitter: https://twitter.com/commonwealthgg
+        __github: https://github.com/p3c-bot
+      ETC Labs:
+        __year: 2018
+        __name: ETC Labs
+        __active: 1
+        __link: https://etclabs.org/
+        __twitter: https://twitter.com/etclabs
+        __github: https://github.com/etclabscore
+      POA Network:
+        __year: 2018
+        __name: POA Network
+        __active: 1
+        __link: https://www.poa.network/
+        __twitter: https://twitter.com/poanetwork
+        __github: https://github.com/poanetwork
+      Chippr Robotics:
+        __year: 2019
+        __name: Chippr Robotics
+        __active: 1
+        __link: https://chipprbots.com/
+        __twitter: https://twitter.com/BotBridgette
+        __github: https://github.com/chippr-robootics/
+      ETC Core:
+        __year: 2019
+        __name: ETC Core
+        __active: 1
+        __link: https://etccore.io/
+        __twitter: https://twitter.com/etc_core
+        __github: https://github.com/etclabscore
+      ChainSafe:
+        __year: 2019
+        __name: ChainSafe
+        __active: 1
+        __link: https://chainsafe.io/
+        __twitter: https://twitter.com/ChainSafeth
+        __github: https://github.com/ChainSafe
+      Core Paper:
+        __year: 2019
+        __name: Core Paper
+        __link: https://corepaper.org/
+        __twitter: https://twitter.com/corepaper
+        __github: https://github.com/corepaper
+      Second State:
+        __year: 2019
+        __name: Second State
+        __active: 1
+        __link: https://www.secondstate.io/
+        __twitter: https://twitter.com/secondstateinc
+        __github: https://github.com/second-state
+      Byzantine Fault:
+        __year: 2020
+        __name: Byzantine Fault
+        __active: 1
+        __link: https://byzantine.fault.dev/
+        __twitter: https://twitter.com/byzantine_fault
+        __github: https://github.com/byz-f
+      Gödel Labs:
+        __year: 2020
+        __name: Gödel Labs
+        __active: 1
+        __link: https://www.godel.ai/
+        __twitter: https://twitter.com/Goedellabs
+        __github: https://github.com/multi-geth/multi-geth
+      Storj Labs:
+        __year: 2020
+        __name: Storj Labs
+        __active: 1
+        __link: https://storj.io/
+        __twitter: https://twitter.com/storjproject
+        __github: https://github.com/Storj/

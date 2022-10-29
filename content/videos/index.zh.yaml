@@ -1,0 +1,39 @@
+title: 视频
+__contributors:
+  - bobsummerwill
+  - TheEnthusiasticAs
+  - gitr0n1n
+description: 一组关于Ethereum Classic的视频，按类别组织。
+support: 通过提交你自己的视频来支持ETC!
+changeLanguage: 本页只显示你当前选择的语言的视频。如需更多内容，请查看英文视频。
+tags:
+  explainers:
+    title: 解释者
+    description: 解释Ethereum Classic哲学、历史和技术概念的教育视频。
+  tutorials:
+    title: 教程
+    description: 涵盖如何使用和开发Ethereum Classic的指南。
+  development:
+    title: 发展
+    description: 涵盖开发人员的Ethereum Classic技术相关主题的视频。
+  trading:
+    title: 贸易
+    description: 涵盖ETC的技术和基本面分析、价格预测和投资建议。
+  discussions:
+    title: 讨论
+    description: 长篇讨论，包括播客、辩论和每周社区电话会议
+  mining:
+    title: 采矿业
+    description: 视频涵盖了如何开采ETC，硬件，软件和利润预期。请务必同时查看 [mining]（/mining）部分，了解更多信息。
+  conferences:
+    title: 会议
+    description: 以太坊经典峰会是每年在全球各个城市举行的活动。本节包含ETC峰会和其他会议或聚会的会谈。
+  etc-summit-2018:
+    title: 2018年ETC峰会
+    description: 第二届Ethereum Classic峰会于2018年9月12日在韩国首尔举行
+  etc-summit-2019:
+    title: 2019年ETC峰会
+    description: 第三届Ethereum Classic峰会于2019年10月3日在加拿大温哥华举行
+  etc-summit-2017:
+    title: 2017年ETC峰会
+    description: 第一届Ethereum Classic峰会于2017年11月13日在香港举行

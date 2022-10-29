@@ -1,0 +1,76 @@
+title: 网络监控器
+__updated: 2022-08-22
+__contribute: 1
+seo: 检查Ethereum Classic网络健康状况的工具，以及一般的统计数据，如发行量、交易量和采矿盈利能力。
+description: |
+  下面是一些工具的选择，它们提供了对与Ethereum Classic相关的广泛指标的洞察力。它们共同提供了一个关于网络健康和状态的全方位分析。
+__contributors:
+  - arvicco
+  - cicorias
+  - dax-classix
+  - gitr0n1n
+  - IstoraMandiri
+  - ProphetDaniel
+  - pyskell
+  - TheEnthusiasticAs
+  - MrMarioMichel
+items:
+  monitors:
+    __type: links
+    items:
+      etc-network.info:
+        __name: etc-network.info
+        __link: https://etc-network.info
+        description: 一个小网站，帮助你浏览etc-network.info提供的服务。
+      ETCNodes:
+        __name: ETCNodes
+        __link: https://etcnodes.org/
+        description: 以太坊经典主网节点探索器。
+      2Miners:
+        __name: 2Miners
+        __link: https://2miners.com/etc-stats/
+        description: 以太坊经典统计仪表板提供最重要的区块链统计数据、图表和其他直接从在线节点捕获的性能指标。
+      CoinMetrics:
+        __name: CoinMetrics
+        __link: 'https://coinmetrics.io/charts/#assets=etc'
+        description: 详细的历史数据涵盖了一些指标，如价格、哈斯勒特、地址数、交易数等。
+      CoinWarz:
+        __name: CoinWarz
+        __link: https://www.coinwarz.com/mining/ethereum-classic
+        description: 以太坊经典挖矿信息--包括以太坊经典挖矿计算器、以太坊经典挖矿硬件列表、以太坊经典难度与历史图表、以太坊经典hashrate图表，以及当前以太坊经典价格。
+      Emerald Insights:
+        __name: Emerald Insights
+        __link: https://insights.emeraldpay.io/
+        description: Emerald Insights是Emerald项目的一部分，它应该提供关于Emerald使用的加密货币的统计、监测和高级信息。
+      ForkWatch:
+        __name: Fork Watch
+        __link: https://www.forkwatch.io/
+        description: ForkWatch是一个NiceHash监控工具，它对NiceHash市场上特定算法的异常情况发出警报，特别是当租用BTC/TH/Day的价格发生变化时。这可以帮助特定硬币的利益相关者得到警告，以防采矿能力有可能被租借到特定网络的攻击中。
+      MiningPoolStats:
+        __name: MiningPoolStats
+        __link: https://miningpoolstats.stream/ethereumclassic
+        description: 关于ETC上矿池状态的实时统计，包括区块分布、hashrate历史等。
+      Nanopool:
+        __name: Nanopool
+        __link: https://etc.nanopool.org/stats
+        description: 历史难度，难度，块状时间和价格。
+      PoolDetective:
+        __name: Pool Detective
+        __link: https://pooldetective.org/
+        description: 矿池是工作证明型加密货币的重要参与者。但谁来监督他们告诉矿工的工作内容？麻省理工学院的数字货币倡议在2019年夏天启动了一个项目，开始监测矿池的行为。
+      TokenView:
+        __name: TokenView
+        __link: https://etc.tokenview.com/en/charts
+        description: 标准的历史网络统计资料。
+      WhatToMine:
+        __name: WhatToMine
+        __link: https://whattomine.com/coins/162-etc-ethash
+        description: 挖掘Ethereum Classic和其他链的盈利能力计算器。
+      Kotti Stats:
+        __name: Kotti Stats
+        __kotti: http://stats.kotti.goerli.net/
+        description: 以太坊经典Kotti Testnet的网络统计资料。
+      ua-mining:
+        __name: ua-mining
+        __link: https://etc-stats.ua-mining.com
+        description: 以太坊经典统计仪表板。

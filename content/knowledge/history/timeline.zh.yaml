@@ -1,0 +1,732 @@
+__type: timeline
+title: 事件年表
+items:
+  frontierRelease:
+    title: 以太坊推出
+    __date: 2015-07-30
+    __color: blue
+    __icon: rocket
+    __link: https://blog.ethereum.org/2015/07/30/ethereum-launches/
+    text: Vitalik Buterin和以太坊基金会通过Frontier的发布创造了第一个基于区块链的图灵完整智能合约平台。
+  frontierThawingUpgrade:
+    title: 前沿解冻升级
+    __block: 200,000
+    __date: 2015-09-08
+    __color: blue
+    __icon: snowflake
+    __link: https://blog.ethereum.org/2015/08/04/ethereum-protocol-update-1/
+    text: 该网络在200,000个区块实现了 "冰河时代"，引入了 "难度炸弹"，该机制旨在将网络的共识机制从 "工作证明 "转向 "取证"。
+  homesteadUpgrade:
+    title: 家园升级
+    __block: 1,150,000
+    __date: 2016-03-14
+    __color: blue
+    __icon: home
+    __link: https://blog.ethereum.org/2016/02/29/homestead-release/
+    text: Homestead是以太坊平台的第二个主要版本发布。
+  slockItCreatesThe Dao:
+    title: Slock.it创造了DAO
+    __date: 2016-04-05
+    __color: white
+    __icon: fileCode
+    __link: https://blog.slock.it/deja-vu-dao-smart-contracts-audit-results-d26bc088e32e
+    text: Slock.it构建了The DAO以太坊合约；Dejavu完成了安全审计。
+  the DaoCrowdsaleBegins:
+    title: DAO众筹开始了
+    __date: 2016-04-30
+    __color: white
+    __icon: bullhorn
+    __link: https://blog.slock.it/the-dao-creation-is-now-live-2270fd23affc
+    text: DAO智能合约被部署；公众成员向其发送价值以换取DAO代币。
+  securityProposal:
+    title: 安全建议
+    __date: 2016-05-26
+    __color: orange
+    __icon: keyboard
+    __link: https://blog.slock.it/dao-security-a-proposal-to-guarantee-the-integrity-of-the-dao-3473899ace9d
+    text: Slock.it宣布了一项150万美元的提案，由众筹基金以太币支付，"以保证The DAO的完整性"。
+  moratoriumCalled:
+    title: 呼吁暂停使用
+    __date: 2016-05-27
+    __color: orange
+    __icon: crosshairs
+    __link: http://hackingdistributed.com/2016/05/27/dao-call-for-moratorium/
+    text: 在众筹的最后一天，DAO策展人Vlad Zamfir以许多游戏理论上的安全问题为由，呼吁暂停DAO的发行。
+  the DaoCrowdsaleEnds:
+    title: DAO众筹结束
+    __date: 2016-05-27
+    __color: white
+    __icon: funnelDollar
+    __link: http://slacknation.github.io/medium/8/8.html
+    text: 众筹完成后，成为世界上最大的众筹，筹集了令人难以置信的1.5亿美元。
+  recursiveCallBugDiscovered:
+    title: 发现递归调用的错误
+    __date: 2016-06-09
+    __color: orange
+    __icon: bug
+    __link: http://vessenes.com/more-ethereum-attacks-race-to-empty-is-the-real-deal/
+    text: Peter Vessenes公开披露了一个在许多Solidity合同中被忽略的关键安全漏洞的存在。
+  noFundsAtRisk:
+    title: 没有风险的资金
+    __date: 2016-06-12
+    __color: white
+    __icon: thumbsUp
+    __link: https://blog.slock.it/no-dao-funds-at-risk-following-the-ethereum-smart-contract-recursive-call-bug-discovery-29f482d348b
+    text: Stephan Tual公开声称，尽管新发现了关键的安全漏洞，但DAO的资金是安全的。
+  the DAOIsHacked:
+    title: DAO被黑掉了
+    __date: 2016-06-17
+    __color: red
+    __icon: timesCircle
+    __link: http://slacknation.github.io/medium/10/10.html
+    text: 当重新进入的错误被应用时，以太币从DAO中缓慢而无声地被抽走。
+  panicHitsTheMarkets:
+    title: 恐慌袭击市场
+    __date: 2016-06-17
+    __color: red
+    __icon: chartArea
+    __link: https://cointelegraph.com/news/dao-potentially-hacked-millions-of-ether-may-be-stolen-griff-green-says
+    text: 由于Griff Green宣布DAO被黑，以太币的价格被砍掉一半。
+  theCountdownBegins:
+    title: 倒计时开始了
+    __date: 2016-06-17
+    __color: orange
+    __icon: hourglassStart
+    __link: https://blog.ethereum.org/2016/06/17/critical-update-re-dao-vulnerability/
+    text: DAO的拆分机制给了一个月左右的时间来找到收回资金的解决方案；基金会和社区开发者竞相实施软分叉。
+  robinHoodGroupAnnounced:
+    title: 罗宾汉集团宣布成立
+    __date: 2016-06-21
+    __color: white
+    __icon: userSecret
+    __link: https://www.reddit.com/r/ethereum/comments/4p7mhc/update_on_the_white_hat_attack/
+    text: 一群 "白帽 "黑客确保了The DAO资金的70%，但需要采取协议层面的行动来挽救被黑客分割的剩余30%。
+  softForkTheDao:
+    title: "DAO大战：软分叉投票"
+    __date: 2016-06-24
+    __color: orange
+    __icon: fileCode
+    __link: https://blog.ethereum.org/2016/06/24/dao-wars-youre-voice-soft-fork-dilemma/
+    text: 以太坊基金会发布了一个 "软分叉 "客户端，对来自黑客的交易进行审查；矿池通过降低气体限制来投票启用。
+  softForkVulnerability:
+    title: 软叉子的漏洞
+    __date: 2016-06-28
+    __color: red
+    __icon: bug
+    __link: https://blog.ethereum.org/2016/06/28/security-alert-dos-vulnerability-in-the-soft-fork/
+    text: 在软分叉实现中发现了严重的拒绝服务缺陷，矿工们很快决定不使用它。
+  hardForkDebate:
+    title: 硬分叉争论
+    __date: 2016-06-28
+    __color: white
+    __icon: users
+    __link: https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork/
+    text: 以太坊社区就实施硬分叉的利弊进行了许多天的激烈争论。
+  hardForkSpecAnnounced:
+    title: 硬分叉规格公布
+    __date: 2016-07-15
+    __color: orange
+    __icon: fileCode
+    __link: https://blog.slock.it/hard-fork-specification-24b889e70703
+    text: 剩下的唯一选择是一个有争议的硬分叉。规格由Slock.it和以太坊基金会成员决定并宣布。
+  lastMinuteCarbonvote:
+    title: 最后一刻的碳票
+    __date: 2016-07-15
+    __color: red
+    __icon: faExclamationTriangle
+    __link: https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork/
+    text: 在12小时的通知下，以太坊基金会使用有争议的第三方 "硬币投票 "来决定默认开启硬分叉；宣布达成共识，并发布了一个更新的客户端。
+  daoBailoutHardFork:
+    title: DAO保释的硬分叉
+    __block: 1,920,000
+    __date: 2016-07-20
+    __color: blue
+    __icon: codeBranch
+    __link: https://blog.ethereum.org/2016/07/20/hard-fork-completed/
+    text: 随着大约80%的节点更新到新的客户端，社区紧张地等待着DAO救助分叉激活区块1,920,000的到来。
+  newEthereumIsBorn:
+    title: 新叉子链
+    __block: 1,920,001
+    __date: 2016-07-20
+    __color: purple
+    __icon: rocket
+    __link: https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/
+    text: 一个分叉的链诞生了!以太坊基金会在2016年7月20日创建了一个改变了的以太坊版本，以扭转DAO被盗的情况。作为商标权持有人，以太坊基金会将以太坊（ETH）品牌应用于新的分叉链。
+  ethereumRenamedToClassic:
+    title: 原有的无叉链
+    __block: 1,920,001
+    __date: 2016-07-20
+    __color: green
+    __icon: rocket
+    __link: https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/
+    text: 由于预测原始非分叉链将在数小时内消失，许多人惊讶地发现矿工继续支持原始链。Bisq和OTC柜台给了这些代币一个价格发现订单簿。市场参与者将这个非分叉链重新命名为Ethereum Classic（ETC）。
+  missionAccomplished:
+    title: 任务完成了!
+    __date: 2016-07-20
+    __color: white
+    __icon: cocktail
+    __link: https://twitter.com/initc3org/status/758000698881613824
+    text: ETH社区松了一口气，因为DAO分叉代码被成功实施，没有明显的缺陷；香槟酒瓶在全球范围内被爆开。一个新链的诞生是成功的!
+  poloniexListsETC:
+    title: Poloniex列出了ETC
+    __date: 2016-07-23
+    __color: green
+    __icon: chartLine
+    __link: https://twitter.com/poloniex/status/757068619234803712
+    text: 最大的以太坊交易所发出长期支持原始链的信号，Poloniex列出ETC。许多交易所迅速效仿。
+  etheriansInDisarray:
+    title: 以赛亚人的断裂
+    __date: 2016-07-23
+    __color: red
+    __icon: frown
+    __link: https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/
+    text: 火焰战争在subreddits开始。当经济上的尖锐争吵开始占据参与者的心，因为它接受了分裂的现实。
+  ethereumClassicsupporters:
+    title: 以太坊经典的支持者
+    __date: 2016-07-24
+    __color: green
+    __icon: users
+    __link: https://www.reddit.com/r/EthereumClassic/
+    text: 以太坊经典的支持者从以太坊子版块中分离出来，形成自己的社交渠道。
+  geth-ETC-Support:
+    title: Geth支持Ethereum Classic
+    __date: 2016-07-27
+    __color: blue
+    __icon: codeBranch
+    __link: https://github.com/ethereumproject/go-ethereum/releases/tag/6aaf5f3
+    text: Geth发布对Ethereum Classic网络的支持。这个节点从客户端删除了所有的DAO代码，不需要额外的标志就可以使用Ethereum Classic网络。
+  parity-ETC-Support:
+    title: 奇偶性支持Ethereum Classic
+    __date: 2016-07-31
+    __color: blue
+    __icon: codeBranch
+    __link: https://github.com/openethereum/openethereum/releases/tag/v1.2.3
+    text: Parity通过1.2.3版本发出了长期支持Ethereum Classic的信号，解决了Ethereum HF和Ethereum Classic链的网络稳定性问题，并为交易追踪API带来一些变化。
+  51Pool:
+    title: 51% 攻击威胁
+    __date: 2016-07-31
+    __color: red
+    __icon: faExclamationTriangle
+    __link: http://www.newsbtc.com/2016/07/31/51pool-attack-plans-51-network-attack-ethereum-classic/
+    text: ETH的支持者组成了一个名为51Pool.org的矿池，计划通过策划51%的攻击来摧毁ETC网络。
+  minerSupport:
+    title: 矿工支持ETC
+    __date: 2016-08-01
+    __color: green
+    __icon: cubes
+    __link: https://coinjournal.net/miner-attack-ethereum-classic-now-supporting/
+    text: 在ETC网络发展到无法再攻击的程度后，ETH矿工公开宣布不攻击ETC。为了防止伤害无辜的Ethereum Classic持有者，ETHash矿工将资源投入到ETC的开采中。
+  attackRhg:
+    title: RHG攻击ETC
+    __date: 2016-08-10
+    __color: red
+    __icon: dumpsterFire
+    __link: http://themerkle.com/white-hat-hackers-caught-red-handed-during-attempted-etc-sell-off/
+    text: 罗宾汉集团试图在市场上抛售大量从DAO分叉中偷来的ETC。Poloniex冻结了他们的资金。
+  classicDeclaresIndependence:
+    title: 经典之作宣布独立
+    __block: 2,050,000
+    __date: 2016-08-13
+    __color: green
+    __icon: flag
+    __link: /blog/2016-08-13-declaration-of-independence
+    text: 在来自ETH方面的链式分裂的无情攻击后，Ethereum Classic的支持者们站稳了脚跟，宣布他们独立于新的ETH链。
+  classicRebuilds:
+    title: 经历过战斗考验，具有很强的适应力
+    __date: 2016-08-18
+    __color: white
+    __icon: users
+    __link: /blog/2016-08-18-meetup
+    text: 随着ETC从ETH的攻击中脱颖而出，价格趋于稳定，Ethereum Classic向市场证明了它的弹性。网络的核心原则在DAO救助中被激发出来。支持者们开始从灰烬中重建。
+  unlockedDaoFunds:
+    title: DAO资金在ETC上解锁
+    __date: 2016-08-31
+    __color: red
+    __icon: chartArea
+    __link: https://bitcoinmagazine.com/articles/millions-of-dollars-worth-of-etc-may-soon-be-dumped-on-the-market-1472567361
+    text: 数百万以前被锁定或冻结的ETC成为DAO代币持有人和DAO黑客可以使用的东西。ETC的价格在面对巨大的市场倾销时保持得非常好。
+  codeIsLaw:
+    title: 法规就是法律
+    __date: 2016-09-09
+    __color: white
+    __icon: fileCode
+    __link: /blog/2016-09-09-code-is-law
+    text: 在ETH攻击期间，以太坊经典的支持者们发出了许多战斗呐喊。他们开始澄清他们的核心原则并向公众验证ETC网络的存在。
+  gasReprice:
+    title: 燃气重新定价升级
+    __block: 2,500,000
+    __date: 2016-10-24
+    __color: blue
+    __icon: angleDoubleUp
+    __link: /blog/2016-10-17-gas-reprice-hard-fork
+    text: 由于技术栈中的漏洞，两个以太坊网络都受到了攻击。ETC的开发人员迅速确保了网络的顺利和无争议的升级，以修补被利用的漏洞。
+  etcMonetaryPolicy:
+    title: ETC 货币政策
+    __date: 2016-11-01
+    __color: green
+    __icon: handHoldingUsd
+    __link: https://www.reddit.com/r/EthereumClassic/comments/5cm582/monetary_policy_update/
+    text: 以太坊经典的支持者就ETC的排放时间表和货币政策展开辩论。
+  grothendieckTeam:
+    title: 格罗申迪克团队
+    __date: 2016-12-11
+    __color: white
+    __icon: userNinja
+    __link: /blog/2016-12-12-TeamGrothendieck/
+    text: IOHK为Ethereum Classic投入了一个由7名全职开发人员组成的团队
+  dieHardUpgrade:
+    title: 死神升级
+    __block: 3,000,000
+    __date: 2017-01-13
+    __color: blue
+    __icon: bomb
+    __link: https://www.reddit.com/r/EthereumClassic/comments/5nt4qm/diehard_etc_protocol_upgrade_successful_nethash/
+    text: 以太坊经典版解决了重放攻击问题，并推迟了网络升级中的难度炸弹。
+  etcDEVTeamAnnouncement:
+    title: ETCDEV团队
+    __date: 2017-02-20
+    __color: white
+    __icon: userNinja
+    __link: https://www.etcdevteam.com/
+    text: 一个由ETC的长期贡献者和志愿者组成的团队重新命名为ETCDEV团队。
+  monetaryPolicyAdopted:
+    title: 货币政策的共识
+    __date: 2017-03-01
+    __color: green
+    __icon: handHoldingUsd
+    __link: https://www.etcdevteam.com/blog/articles/a-joint-statement-ecip1017.html
+    text: 以太坊经典版围绕210.7M ETC固定上限的货币政策形成共识，并有一个受比特币启发的有限排放时间表，称为5M20；每5M个区块的奖励减少20%。
+  etcInvestmentFund:
+    title: ETCG投资基金
+    __date: 2017-03-01
+    __color: green
+    __icon: userTie
+    __link: https://grayscale.co/ethereum-classic-investment-thesis-march-2017/
+    text: Grayscale推出第一个非比特币加密基金，使传统投资者能够将ETC加入他们的投资组合，并享有传统投资资产的所有税收优惠。
+  etcCommonwealth:
+    title: 英联邦团队
+    __date: 2017-07-22
+    __color: white
+    __icon: userNinja
+    __link: /blog/2017-07-23-development-boost/
+    text: 在Ethereum Commonwealth的名义下形成一个开发团队。
+  mantis-Launch:
+    title: 螳臂当车启动
+    __date: 2017-08-08
+    __color: blue
+    __icon: codeBranch
+    __link: https://iohk.io/en/blog/posts/2017/08/08/mantis-ethereum-classic-beta-release/
+    text: 这个测试版客户端Mantis的发布将在今天进行，它是Grothendieck团队（IOHK致力于以太坊经典的开发者）七个月的工作成果。
+  etcCoop:
+    title: ETC合作团队
+    __date: 2017-09-01
+    __color: white
+    __icon: userNinja
+    __link: https://etccooperative.org/
+    text: Grayscale通过赞助ETC合作团队的部分ETCG管理费，表示对Ethereum Classic协议发展的长期支持。对非营利组织的捐款是可以减税的。
+  etcSummitHK:
+    title: 2017年ETC峰会
+    __date: 2017-11-12
+    __color: purple
+    __icon: users
+    __link: /blog/2017-11-11-whos-talking-at-the-classic-summit
+    text: 第一届Ethereum Classic年会在香港举行。
+  gothamUpgrade:
+    title: 哥特姆升级
+    __block: 5,000,000
+    __date: 2017-12-11
+    __color: blue
+    __icon: angleDoubleUp
+    __link: /blog/2017-12-11-gotham-hard-fork-upgrade-5m20-era2
+    text: Gotham升级建立了一个可预测的货币政策和排放时间表，灵感来自比特币。5M20，每5M个区块的奖励将减少20%。
+  era2:
+    title: 5M20时代2
+    __block: 5,000,001
+    __date: 2017-12-11
+    __color: green
+    __icon: coins
+    __link: /blog/2017-12-11-gotham-hard-fork-upgrade-5m20-era2
+    text: 以太坊经典的5M20排放时间表进入第二纪元。区块奖励减少20%，为每个区块4个ETC。
+  multi-Geth-Launch:
+    title: 多重盖斯发射
+    __date: 2018-04-08
+    __color: blue
+    __icon: codeBranch
+    __link: https://www.reddit.com/r/EthereumClassic/comments/88y77k/multigeth_a_goethereum_client_with_support_of/
+    text: Multi-Geth客户端项目启动了。这是一个从Ethereum Foundation的版本分叉出来的go-ethereum客户端，旨在密切关注上游的变化，并支持多个Ethereum网络。我们刚刚添加了对Ethereum Classic网络的alpha支持。
+  defuseDifficultyBomb:
+    title: 拆除难度较大的炸弹
+    __block: 5,900,000
+    __date: 2018-05-29
+    __color: blue
+    __icon: bomb
+    __link: /blog/2018-05-29-defuse-difficulty-bomb-hard-fork-upgrade
+    text: ETC安全地禁用了难度炸弹，将原Ethereum项目切换到PoS。以太坊经典预示着对工作证明作为网络共识机制的长期承诺。
+  etclabs:
+    title: ETC实验室团队
+    __date: 2018-06-01
+    __color: white
+    __icon: userNinja
+    __link: https://etclabs.org/
+    text: Ethereum Classic Labs为新兴的ETC项目提供资金、行业联系和办公场所；在旧金山和新加坡设有办公场所。
+  kotti:
+    title: Kotti Testnet推出
+    __date: 2018-09-08
+    __color: blue
+    __icon: rocket
+    __link: https://cryptodaily.co.uk/2018/11/What-is-Ethereum-Classics-Project-Goerli
+    text: ETC合作组织为Kotti测试网的开发提供资金，这是一个权威证明测试网，旨在提供与姐妹链ETH的Görli测试网的互操作性测试。PoA成为dapp开发测试的首选测试网环境。
+  etcSummitSeoul:
+    title: 2018年ETC峰会
+    __date: 2018-09-12
+    __color: purple
+    __icon: users
+    __link: https://etcsummit.com/
+    text: 第二届Ethereum Classic大会在韩国首尔举行。
+  coinbase:
+    title: Coinbase列入ETC名单
+    __date: 2018-10-01
+    __color: green
+    __icon: chartLine
+    text: 美国最大的加密货币交易所发出长期支持原始以太坊链的信号；以太坊经典。
+  etcLabsIncubator:
+    title: 孵化器项目启动
+    __date: 2018-10-25
+    __color: white
+    __icon: userNinja
+    __link: https://etclabs.org/
+    text: 以太坊经典实验室推出了一个孵化器计划。ETC实验室承诺每年与多达24家基于Ethereum Classic的初创公司合作。
+  51Attack:
+    title: 51% 攻击
+    __date: 2019-01-08
+    __color: red
+    __icon: unlink
+    __link: https://medium.com/@slowmist/the-analysis-of-etc-51-attack-from-slowmist-team-728596d76ead
+    text: 以太坊经典经历了对其网络的第一次成功的链式重组攻击。顽强的ETC从灰烬中崛起。
+  51AttackReturn:
+    title: 白帽攻击者
+    __date: 2019-01-13
+    __color: white
+    __icon: userSecret
+    __link: https://www.cryptoglobe.com/latest/2019/01/ethereum-classic-51-attackers-return-100000-to-crypto-exchange-gate-io/
+    text: 51%的攻击者似乎是一个白帽黑客，并将偷来的资金返回到被破坏的交易所。集中式交易所全面加强了对工作证明币的51%攻击监控。
+  atlantisConsensus:
+    title: 亚特兰蒂斯的粗略共识
+    __date: 2019-06-20
+    __color: white
+    __icon: fileCode
+    __link: /blog/2019-06-20-core-devs-call-atlantis-final-call/
+    text: 以太坊核心开发人员就ECIP-1054达成粗略共识，努力实现ETH的Spurious Dragon和Byzantium网络协议升级。
+  atlantisUpgrade:
+    title: 亚特兰蒂斯升级
+    __block: 8,772,000
+    __date: 2019-09-12
+    __color: blue
+    __icon: angleDoubleUp
+    __link: /blog/2019-09-12-atlantis-hard-fork-upgrade/
+    text: 以太坊经典的核心开发人员实施了ETH的Spurious Dragon和Byzantium网络协议的升级，以保持与其姐妹链的操作平价。
+  etcSummitVancouver:
+    __date: 2019-10-03
+    title: 2019年ETC峰会
+    __color: purple
+    __icon: users
+    __link: https://etcsummit.com/
+    text: 第三届Ethereum Classic大会在加拿大温哥华举行。
+  mordorLaunch:
+    title: 魔都发射
+    __date: 2019-10-04
+    __color: blue
+    __icon: rocket
+    __link: /blog/2019-10-04-mordor-testnet-launch/
+    text: 核心开发人员通过用Mordor取代Kensington、Morden和Nazgul测试网络来消除测试网的冗余，Mordor是一个用于协议级测试的Ethash PoW测试网。
+  besu-ETC-Support:
+    title: Besu支持Ethereum Classic
+    __date: 2019-11-12
+    __color: blue
+    __icon: codeBranch
+    __link: https://github.com/hyperledger/besu/pull/177
+    text: Hyperledger Besu为他们的以太坊客户端增加了对以太坊经典的支持，旨在为公共和私人许可网络的使用情况提供企业友好型。
+  aztlanConsensus:
+    title: 阿兹兰的粗略共识
+    __date: 2019-12-05
+    __color: white
+    __icon: fileCode
+    __link: /blog/2019-12-05-core-devs-call-ecip-1061-aztlan-upgrade-yingchun/
+    text: 以太坊经典的核心开发人员就ECIP-1061达成粗略共识，努力实现ETH的伊斯坦布尔网络协议升级。
+  aghartaConsensus:
+    title: Agharta的粗略共识
+    __date: 2019-12-12
+    __color: white
+    __icon: fileCode
+    __link: /blog/2019-12-12-core-devs-call-agharta-final-call/
+    text: 以太坊经典的核心开发人员就ECIP-1056达成粗略共识，努力实现ETH的君士坦丁堡和彼得堡网络协议的升级。
+  aghartaUpgrade:
+    title: Agharta升级
+    __block: 9,573,000
+    __date: 2020-01-11
+    __color: blue
+    __icon: angleDoubleUp
+    __link: /blog/2020-01-11-agharta-hard-fork-upgrade/
+    text: 以太坊经典的核心开发人员实施了ETH的君士坦丁堡和彼得堡网络协议的升级，以保持与姐妹链的运营平等。
+  core-Geth-Launch:
+    title: Core-Geth发射
+    __date: 2020-02-03
+    __color: blue
+    __icon: codeBranch
+    __link: https://github.com/etclabscore/core-geth/releases
+    text: ETC核心团队从Multi-Geth客户端项目中分叉出来。该项目被命名为Core-Geth，是一个以太坊/go-ethereum的下游努力，使以太坊协议可以为不同的生态系统所使用并可扩展。
+  phoenixFixConsensus:
+    title: 凤凰城修缮的粗略共识
+    __date: 2020-02-05
+    __color: white
+    __icon: fileCode
+    __link: /blog/2020-02-05-core-devs-call-ecip-1078-phoenix-fix/
+    text: 在Aztlán测试网实施过程中，Ethereum Classic核心开发人员发现了ECIP 1061规格的复杂问题，以增加ETH的伊斯坦布尔网络协议升级。正如预期的那样，ETC测试网抓住了这些问题，核心开发者为这些问题制定了规范补丁。
+  ecip1050-Status-Codes:
+    title: ECIP 1050状态代码
+    __date: 2020-02-12
+    __color: white
+    __icon: fileCode
+    __link: https://ecips.ethereumclassic.org/ECIPs/ecip-1050
+    text: ECIP 1050状态代码进入最终状态。该标准概述了一套与HTTP状态相同的通用状态代码。这提供了一套共享的信号，使智能合约能够自主地对情况做出反应，向用户展示本地化的错误信息，等等。
+  aztlanBugs:
+    title: 测试网捕捉虫子
+    __date: 2020-02-20
+    __color: orange
+    __icon: bug
+    __link: https://gist.github.com/meowsbits/ddf54e7cb225e7f89b3ed0b7d92b8a37
+    text: 在Aztlán testnet实施过程中，Ethereum Classic核心开发人员发现了ECIP 1061和1078规范的复杂性，以增加ETH的伊斯坦布尔网络协议升级。ETC核心的Meowbits记录了这些发现。正如预期的那样，ETC测试网抓住了这些问题，核心开发人员又回到了绘图板。
+  aztlanRejected:
+    title: 阿兹兰被拒绝
+    __date: 2020-02-26
+    __color: orange
+    __icon: timesCircle
+    __link: https://github.com/ethereumclassic/ECIPs/pull/297
+    text: 基于Aztlán测试网实施过程中发现的问题，Phoenix Fix被发现不是一个足够的修复，而且两个测试网都被破坏；由于安全和稳定性问题，核心开发者建议拒绝ecips-1061、1078、1086，并继续从头开始编写新的提案。
+  phoenixConsensus:
+    title: 凤凰城的粗略共识
+    __date: 2020-02-20
+    __color: white
+    __icon: fileCode
+    __link: /blog/2020-02-26-core-devs-call-phoenix-upgrade-from-scratch
+    text: 以太坊经典核心开发人员就ECIP-1088达成粗略共识，努力实现ETH的伊斯坦布尔网络协议升级。测试网的实施揭示了先前在规格ECIP-1061和ECIP-1078中尝试的问题。
+  phoenixMordor:
+    title: 凤凰网魔都测试
+    __date: 2020-03-09
+    __color: white
+    __icon: codeBranch
+    __link: https://expedition.dev/?network=mordor
+    text: 凤凰城的测试开始于魔都PoW测试网的区块999,983。核心开发团队已经发出信号，这是一个复杂的实现。测试可能会发现一些问题，推迟这次网络升级，但Ethereum Classic绝不会急于升级主网。网络安全是优先于开发速度和任意时间表的。
+  era3:
+    title: 5M20时代3
+    __block: 10,000,001
+    __date: 2020-03-17
+    __color: green
+    __icon: coins
+    __link: /blog/2020-03-17-5m20-era3-block-reward-reduction/
+    text: 根据受比特币启发的5M20排放时间表，Ethereum Classic的区块奖励减少了20%，为每个区块3.2ETC。
+  phoenixKotti:
+    title: 凤凰城科蒂测试
+    __date: 2020-04-15
+    __color: white
+    __icon: codeBranch
+    __link: https://expedition.dev/?network=kotti
+    text: Kotti PoA测试网的2,200,013区块开始进行凤凰测试。核心开发团队已经发出信号，这是一个复杂的实现。测试可能会发现一些问题，推迟这个网络的升级，但Ethereum Classic绝不会急于升级主网。
+  phoenixUpgrade:
+    title: 凤凰城升级
+    __block: 10,500,839
+    __date: 2020-06-01
+    __color: blue
+    __icon: angleDoubleUp
+    __link: /blog/2020-06-01-phoenix-hard-fork-upgrade/
+    text: 以太坊经典的核心开发人员实施了ETH的伊斯坦布尔网络协议升级，以保持与姐妹链的运营平等。
+  client-Deprecation-Attacks:
+    title: 客户端降级攻击
+    __date: 2020-07-20
+    __color: red
+    __icon: faExclamationTriangle
+    __link: https://www.coindesk.com/openethereum-supported-50-of-ethereum-classic-now-its-leaving-the-project
+    text: 在DAO救助硬分叉4周年之际，以ETH为中心的客户端维护者策划了一场针对Ethereum Classic的社会攻击。客户端维护者宣布废除对Ethereum Classic的支持，然后执行一个错误的信息营销活动，称ETC网络将失去70%的hashrate以及其他不实信息。
+  51Attack2:
+    title: "51% 攻击 #2"
+    __date: 2020-07-31
+    __color: red
+    __icon: unlink
+    __link: https://blog.bitquery.io/ethereum-classic-51-chain-attack-july-31-2020
+    text: 以太坊经典版在其网络上经历了第二次成功的链式重组攻击。
+  51Attack3:
+    title: "51% 攻击 #3"
+    __date: 2020-08-06
+    __color: red
+    __icon: unlink
+    __link: https://blog.bitquery.io/ethereum-classic-attack-8-august-catch-me-if-you-can
+    text: 以太坊经典版经历了对其网络的第三次成功的链式重组攻击。
+  51Attack4:
+    title: "51% 攻击 #4"
+    __date: 2020-08-29
+    __color: red
+    __icon: unlink
+    __link: https://twitter.com/etherchain_org/status/1299822510607917056
+    text: 以太坊经典版在其网络上经历了第四次成功的链式重组攻击。
+  messClientFunctionality:
+    title: M.E.S.S. 客户端功能
+    __block: 11,380,000
+    __date: 2020-10-10
+    __color: blue
+    __icon: angleDoubleUp
+    __link: /blog/2020-10-10-mess-client-upgrade
+    text: Core-Geth客户端实现了应用可选的M.E.S.S.功能的标志，作为对Ethereum Classic网络51%攻击的回应。
+  thanosMordor:
+    title: 萨诺斯魔都测试
+    __date: 2020-10-19
+    __color: white
+    __icon: codeBranch
+    __link: https://expedition.dev/?network=mordor
+    text: 萨诺斯测试在魔都PoW测试网的2,520,000区块开始。
+  thanosUpgrade:
+    title: 萨诺斯升级
+    __block: 11,700,000
+    __date: 2020-11-28
+    __color: blue
+    __icon: angleDoubleUp
+    __link: /blog/2020-11-27-thanos-hard-fork-upgrade/
+    text: 以太坊经典实现了Thanos升级，以重新校准DAG计算中使用的历时长度。
+  etchash:
+    title: ETChash
+    __block: 11,700,000
+    __date: 2020-11-28
+    __color: green
+    __icon: cubes
+    __link: /blog/2020-11-27-thanos-hard-fork-upgrade/
+    text: 以太坊经典实现了Thanos升级，将挖矿算法从ETHash调整为ETCHash。
+  manis-ETC-Stupport:
+    title: 螳郎ETC客户端的复兴
+    __date: 2020-12-09
+    __color: blue
+    __icon: codeBranch
+    __link: https://github.com/input-output-hk/mantis/releases
+    text: 输入输出 随着Mantis客户端和GUI的复兴，全球信号对Ethereum Classic网络的支持。
+  gethBugs:
+    title: Geth客户端的错误
+    __date: 2021-09-03
+    __color: red
+    __icon: bug
+    __link: 'https://coin.fyi/news/ethereum-classic/ethereum-classic-chain-split-announcement-sept-03-2021-phlz4r#!'
+    text: 2021年8月分裂以太坊基金会主网的Geth漏洞软件错误，分裂了以太坊经典主网。建议大家更新他们的客户端。
+  lcetcc:
+    title: 让我们保持Ethereum Classic经典
+    __date: 2021-09-04
+    __color: green
+    __icon: pen
+    __link: https://ethereumclassicclassic.org
+    text: 一位关注ETC的参与者撰写了一篇长篇反驳文章，反对实施ECIP-1098。
+  treasuryDebate:
+    title: 撤回IOHK财政部的建议
+    __date: 2021-09-20
+    __color: orange
+    __icon: timesCircle
+    __link: https://etccooperative.org/posts/2021-09-20-withdraws-support-for-ecip-1098
+    text: 经过一年多关于ECIP-1098是否与ETC价值相吻合的讨论，ETC Coop和IOHK随后撤回了对网络层面上的财政部提案的支持。
+  magnetoUpgrade:
+    title: 万磁王升级
+    __block: 13,189,133
+    __date: 2021-07-23
+    __color: blue
+    __icon: angleDoubleUp
+    __link: https://ecips.ethereumclassic.org/ECIPs/ecip-1103
+    text: 以太坊经典的核心开发人员实施了ETH的柏林网络协议升级，以保持与姐妹链的运营平等。
+  mystiqueUpgrade:
+    title: 神秘主义升级
+    __block: 14,525,000
+    __date: 2022-02-12
+    __color: blue
+    __icon: angleDoubleUp
+    __link: /blog/2022-01-19-mystique-hard-fork
+    text: 以太坊经典的核心开发人员实施了ETH的伦敦网络协议升级，以保持与姐妹链的运营平等。
+  etcFlood:
+    title: ETC欢迎新的Hashrate
+    __dateText: The Ethashrate Flood
+    __date: 2022-03-18
+    __color: green
+    __icon: cubes
+    __link: /blog/2022-03-18-etc-welcomes-ethash-miners
+    text: Ethereum Classic承诺支持ETChash挖矿算法和当前的挖矿生态系统。这使Ethereum Classic成为一个有能力吸收大多数被剥夺权利的Ethash矿工的网络，而ETH网络则转向股权证明共识。
+  etcdao:
+    title: 以太坊经典DAO
+    __date: 2022-04-11
+    __color: white
+    __icon: userNinja
+    __link: https://ethereumclassic.com/roadmap
+    text: 稳定和长期的资金被证明是以太坊经典的一个问题，以太坊基金会在2016年放弃了。为了解决网络的LTS资金问题，Ethereum Classic DAO成立了，其使命是通过一个开源的开发基金来证明网络的发展。资金是通过使用托管在EthereumClassic.com的ETC DeFi栈产生的。
+  era4:
+    title: 5M20时代4
+    __block: 15,000,001
+    __date: 2022-04-25
+    __color: green
+    __icon: coins
+    __link: https://etcis.money
+    text: 根据受比特币启发的5M20排放时间表，Ethereum Classic的区块奖励减少了20%，为每个区块2.56ETC。ETChash挖矿速度继续转向ETC，网络达到历史最高点。
+  sha3Withdrawn:
+    title: ETC Coop SHA3提案已被撤回
+    __date: 2022-05-20
+    __color: orange
+    __icon: timesCircle
+    __link: https://github.com/ethereumclassic/ECIPs/pull/486
+    text: 经过三年多的争论，Bob Summerwill承认ECIP-1049会对网络造成争议性的硬伤，并撤回了该提案。ECIP-1049支持者的错误信息宣传所造成的负面社会成本，继续对网络的公众认知产生负面影响。然而，通过其有弹性的社区，Ethereum Classic仍然有能力在合并后的世界中在ETChash上茁壮成长。
+  etcswap:
+    title: ETCswap
+    __date: 2022-06-18
+    __color: green
+    __icon: rocket
+    __link: https://etcswap.org
+    text: Ethereum Classic DAO推出了它的第一个产品- ETCswap。这确保了网络离稳定的资金在Ethereum Classic上的开源开发又近了一步。一个专业的去中心化协议栈将被部署在Ethereum Classic上。
+  vitalikEndorsesETC:
+    title: 维塔利克-布特林为以太坊经典版背书
+    __date: 2022-07-22
+    __color: purple
+    __icon: bullhorn
+    __link: /blog/2022-07-22-vitalik-buterin-endorses-ethereum-classic
+    text: 以太坊最著名的联合创始人Vitalik Buterin对最初的以太坊网络给予了认可--对于那些重视工作证明链的人，以太坊经典。
+  antpoolETCDAOTreasuryFund:
+    title: Antpool
+    __date: 2022-07-26
+    __color: green
+    __icon: userTie
+    __link: https://etcdao.co/
+    text: AntPool以1000万美元的投资支持Ethereum Classic生态系统。蚂蚁金服种子基金的目标是支持Ethereum Classic的专业发展生态系统。
+  hashrateSurges:
+    title: ETC Hashrate激增
+    __date: 2022-08-31
+    __color: green
+    __icon: cubes
+    __link: https://coinjournal.net/news/ethereum-classic-etc-hashrate-surges-ahead-of-ethereum-merge/
+    text: 随着即将到来的以太坊合并继续在加密货币领域引起兴奋，以太坊的姐妹产品--以太坊经典（ETC）自2022年6月以来，哈希值增长了83%。
+  twitter-Account-Capture:
+    title: 推特账户企业捕获
+    __date: 2022-09-05
+    __color: red
+    __icon: dumpsterFire
+    __link: https://twitter.com/EthClassicDAO/status/1566909585163632640
+    text: 在合并的前几天，Charles Hoskinson公开表示打算 "重新利用 "Ethereum Classic的主要Twitter账户。他的理由是，由于未交付的Mantis客户端的沉没成本和拒绝IOHK的2021年中央财政提案（ECIP-1098），所以采取了这一行动。
+  ethMerge:
+    title: ETH向股权证明的转变
+    __dateText: The Merge
+    __date: 2022-09-15
+    __color: purple
+    __icon: angleDoubleUp
+    __link: https://ethereum.org/en/upgrades/merge/
+    text: 以太坊基金会将最大的EVM网络升级为权益证明共识。这个合并事件使Ethereum Classic成为最大的工作证明EVM网络。Ethereum Classic的网络安全性得到提升，因为它成为所有Ethash衍生采矿算法的顶点网络。凤凰涅槃了。
+  twitter-Account-Rebranded:
+    title: 推特账户重塑品牌
+    __date: 2022-10-06
+    __color: red
+    __icon: dumpsterFire
+    __link: https://twitter.com/BobSummerwill/status/1578083922822713344
+    text: 从ETC社区在2021年对IOHK集中式财政的社会排斥中落下帷幕，Charles Hoskinson将Ethereum Classic的主要Twitter账户转移到一个名为Ergo的第三方开源项目。Ergo团队将该账户重新命名为他们自己的项目。Bob Summerwill被送来一个新注册的推特账户，该账户的主推特账号twitter handle为0历史记录和0关注者。
+  aBrightFuture:
+    title: 一个光明的未来
+    __dateText: The Future
+    __color: green
+    __icon: etc
+    __link: /knowledge/roadmap
+    text: 随着生态系统的不断有机发展，独立的开发团队和网络参与者以使Ethereum Classic成为一个独特网络的原则为指导。该网络是真正的去中心化、不可变和不可阻挡的。代码就是法律。

@@ -1,0 +1,50 @@
+__disclaimer: verify
+title: 区块链探索者
+__updated: 2022-02-22
+__contribute: 1
+__contributors:
+  - arvicco
+  - cicorias
+  - dax-classix
+  - gitr0n1n
+  - IstoraMandiri
+  - ProphetDaniel
+  - pyskell
+  - TheEnthusiasticAs
+  - PauloBaronceli
+seo: 为Ethereum Classic和各种ETC测试网提供的区块链探索者服务清单。
+description: |
+  区块链探索者提供了一种方便的方式来深入了解特定链的当前和过去的状态，允许你检查区块的内容，交易和账户余额。
+
+  以下第三方探索器独立验证了Ethereum Classic的状态，以及它的测试网。它们通常用于检查交易是否已被广播和确认，但许多人提供更高级的功能，如历史账户余额，合同验证，等等。
+items:
+  explorers:
+    __type: table
+    __hideHead: 1
+    columnItems:
+      name:
+        __linkRef: etc
+      kotti:
+        __linkRef: kotti
+        text: Kotti
+      mordor:
+        __linkRef: mordor
+        text: 魔都
+    items:
+      BlockScout:
+        __name: BlockScout
+        __etc: https://blockscout.com/etc/mainnet/
+        __kotti: https://blockscout.com/etc/kotti/
+        __mordor: https://blockscout.com/etc/mordor/
+      ETCBlockExplorer:
+        __name: ETCBlockExplorer
+        __etc: https://etcblockexplorer.com/
+      OKLink:
+        __name: OKLink
+        __etc: https://www.oklink.com/etc
+      Tokenview:
+        __name: Tokenview
+        __etc: https://etc.tokenview.com/
+      NovaExplorer:
+        __name: Nova Explorer
+        __etc: https://explorer.novanetwork.io/?network=Ethereum%20Classic

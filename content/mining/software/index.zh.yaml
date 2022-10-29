@@ -1,0 +1,173 @@
+title: 矿工软件
+__updated: 2022-02-22
+__contribute: 1
+seo: 可用于在Ethereum Classic上挖掘加密货币ETC的软件包列表。
+description: "自2020年11月28日起，以太坊经典网络的工作证明采矿算法为 [ETCHash]（https://github.com/eth-classic/etchash）。"
+__contributors:
+  - gitr0n1n
+  - IstoraMandiri
+  - TheEnthusiasticAs
+items:
+  table:
+    __type: table
+    columnItems:
+      name:
+        name: 命名
+        __linkRef: link
+      windowsAmd:
+        name: Windows AMD
+        __checkRef: windowsAmd
+      windowsNvidia:
+        name: Windows Nvidia
+        __checkRef: windowsNvidia
+      linuxAmd:
+        name: Linux AMD
+        __checkRef: linuxAmd
+      linuxNvidia:
+        name: Linux Nvidia
+        __checkRef: linuxNvidia
+      guide:
+        text: 指南
+        __linkRef: guide
+        __icon: book
+    items:
+      Cruxminer:
+        __name: "Cruxminer"
+        __link: https://cruxpool.com/cruxminer
+        __guide: https://cruxpool.com/cruxminer
+        __windowsAmd: 1
+        __windowsNvidia: 1
+      GMiner:
+        __name: "GMiner"
+        __link: https://github.com/develsoftware/GMinerRelease/releases
+        __guide: https://minerstat.com/help/how-to-set-up-gminer
+        __windowsAmd: 1
+        __windowsNvidia: 1
+        __linuxAmd: 1
+        __linuxNvidia: 1
+      lolMiner:
+        __name: "lolMiner"
+        __link: https://github.com/Lolliedieb/lolMiner-releases/releases
+        __guide: https://bitcointalk.org/index.php?topic=4724735.0
+        __windowsAmd: 1
+        __windowsNvidia: 1
+        __linuxAmd: 1
+        __linuxNvidia: 1
+      Nanominer:
+        __name: "Nanominer"
+        __link: https://nanominer.org/
+        __guide: https://github.com/nanopool/nanominer/blob/master/README.md
+        __windowsAmd: 1
+        __windowsNvidia: 1
+        __linuxAmd: 1
+        __linuxNvidia: 1
+      NBMiner:
+        __name: "NBMiner"
+        __link: https://github.com/NebuTech/NBMiner/releases
+        __guide: https://github.com/NebuTech/NBMiner
+        __windowsAmd: 1
+        __windowsNvidia: 1
+        __linuxAmd: 1
+        __linuxNvidia: 1
+      OpenETC Pool:
+        __name: "OpenETC Pool"
+        __link: https://github.com/etclabscore/open-etc-pool/releases
+        __guide: https://github.com/etclabscore/open-etc-pool/
+        __windowsAmd: 1
+        __windowsNvidia: 1
+        __linuxAmd: 1
+        __linuxNvidia: 1
+      Phoenix Miner:
+        __name: "Phoenix Miner"
+        __link: https://bitcointalk.org/index.php?topic=2647654.0
+        __guide: https://www.cruxpool.com/help/how-to-mine-with-phoenix-miner/
+        __windowsAmd: 1
+        __windowsNvidia: 1
+        __linuxAmd: 1
+        __linuxNvidia: 1
+      SRBMiner-Multi:
+        __name: "SRBMiner-Multi"
+        __link: https://www.srbminer.com/
+        __guide: https://github.com/doktor83/SRBMiner-Multi
+        __windowsAmd: 1
+        __linuxAmd: 1
+      T-Rex Miner:
+        __name: "T-Rex Miner"
+        __link: https://bitcointalk.org/index.php?topic=4432704.0
+        __guide: https://github.com/trexminer/T-Rex
+        __windowsNvidia: 1
+        __linuxNvidia: 1
+      TeamRedMiner:
+        __name: "Team Red Miner"
+        __link: https://bitcointalk.org/index.php?topic=5059817.0
+        __guide: https://github.com/todxx/teamredminer
+        __windowsAmd: 1
+        __linuxAmd: 1
+      TT-Miner:
+        __name: "TT-Miner"
+        __link: https://bitcointalk.org/index.php?topic=5025783.0
+        __guide: https://bitcointalk.org/index.php?topic=5025783.0
+        __windowsAmd: 1
+        __windowsNvidia: 1
+        __linuxAmd: 1
+        __linuxNvidia: 1
+      AwesomeMiner:
+        __name: "OS: Awesome Miner"
+        __link: https://hiveos.farm/
+        __guide: https://www.cruxpool.com/help/how-to-setup-hive-os/
+        __linuxAmd: 1
+        __linuxNvidia: 1
+      HiveOS:
+        __name: "OS: HiveOS"
+        __link: https://hiveos.farm/
+        __guide: https://www.cruxpool.com/help/how-to-setup-hive-os/
+        __linuxAmd: 1
+        __linuxNvidia: 1
+      MinerStat:
+        __name: "OS: Miner Stat"
+        __link: https://minerstat.com/
+        __guide: https://minerstat.com/coin/ETC
+        __windowsAmd: 1
+        __windowsNvidia: 1
+        __linuxAmd: 1
+        __linuxNvidia: 1
+      MMP OS:
+        __name: "OS: MMP OS"
+        __link: https://app.mmpos.eu/
+        __guide: https://bitcointalk.org/index.php?topic=5088988.0
+        __windowsAmd: 1
+        __windowsNvidia: 1
+        __linuxAmd: 1
+        __linuxNvidia: 1
+      NiceHash:
+        __name: "OS: NiceHash OS"
+        __link: https://www.nicehash.com/nhos-mining
+        __guide: https://www.nicehash.com/support/mining-help/nicehash-os/what-is-nicehash-os
+        __windowsAmd: 1
+        __windowsNvidia: 1
+        __linuxAmd: 1
+        __linuxNvidia: 1
+      PiMPOS:
+        __name: "OS: PiMP OS"
+        __link: https://getpimp.org/
+        __guide: https://forum.getpimp.org/category/5/getting-started
+        __linuxAmd: 1
+        __linuxNvidia: 1
+      RaveOS:
+        __name: "OS: RaveOS"
+        __link: https://raveos.com/
+        __guide: https://raveos.com/help.html
+        __linuxAmd: 1
+        __linuxNvidia: 1
+      SimpleMining:
+        __name: "OS: Simple Mining"
+        __link: https://simplemining.net/
+        __guide: https://simplemining.net/page/download
+        __linuxAmd: 1
+        __linuxNvidia: 1
+      Stratums:
+        __name: "Tool: Stratums"
+        __link: https://stratu.ms/
+        __guide: https://stratu.ms/help/switch-stratum
+        __linuxAmd: 1
+        __linuxNvidia: 1
