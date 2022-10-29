@@ -1,222 +1,247 @@
 ---
-title: Decentralism
+title: ディセントラリズム
 updated: 2022-02-22
 disclaimer: opinion
-seo: A thesis explaining the decentralist values that underpin Ethereum Classic's principles and core value proposition which enable it to deliver a bright future, in contrast to the dark path of centralization taken by many other blockchains.
+seo: イーサリアムクラシックの原則とコアバリューの提案を支える分散主義の価値観を説明する論文で、他の多くのブロックチェーンが中央集権化という暗い道を歩んでいるのとは対照的に、明るい未来を提供することを可能にするものです。
 contributors:
   - "IstoraMandiri"
   - "DonaldMcIntyre"
 ---
 
-## Key Points
+## キーポイント
 
-- Decentralism favors decentralization; having fewer single points of failure in a system, making it difficult to capture.
-- In blockchain systems, decentralization is extremely important. To make a blockchain useful, a certain threshold must be met, depending on the application.
-- Many projects use the difficulty of measuring decentralization to obfuscate their true susceptibility to capture.
-- Social and technological layers can be captured through various means, so they must both be decentralized, and should not rely on a central group.
-- Ethereum Classic aims for a _Sovereign Grade_ level of decentralization, meaning that no worldly organization can capture it.
-- Ethereum Classic applies a _principles first approach_, _decentralization maximalism_, _checks and balances_ and _protocol neutrality_ to achieve long term capture prevention.
+- 分散主義が有利なのは、システムの単一障害点が少なく、捕捉が困難なこと。
+- ブロックチェーンシステムでは、分散化が極めて重要である。 ブロックチェーンを有用なものにするためには、用途に応じて一定の閾値を満たす必要があります。
+- 多くのプロジェクトは、分散化を測定することの難しさを利用して、本当の意味での捕捉のしやすさを隠しています。
+- 社会層と技術層は様々な手段で捉えることができるため、いずれも分散型でなければならず、中央の集団に依存してはならない。
+- イーサリアムクラシックは、 _ソブリングレード_ レベルの分散化を目指しており、いかなる世俗的組織もこれを捉えることができないことを意味します。
+- Ethereum Classicは、長期的な捕捉防止を達成するために、 _原則優先アプローチ_, _分散最大主義_, _チェックアンドバランス_ , _プロトコル中立性_ を適用しています。
 
-## Introduction
+## はじめに
 
-One of the first publications about Ethereum Classic that came out after The DAO Hard fork was [A Crypto-Decentralist Manifesto](/blog/2016-07-11-crypto-decentralist-manifesto). In protest of The Fork, it underlined the classic decentralized approach to organizing blockchain projects. This document set the tone for ETC's future development. Since its creation, much has been discovered about the nature of the elusive but vital concept.
+The DAOハードフォーク後に出たイーサリアムクラシックに関する最初の出版物の1つが [A Crypto-Decentralist Manifesto](/blog/2016-07-11-crypto-decentralist-manifesto)。 The Forkに抗議して、ブロックチェーン・プロジェクトを組織するための古典的な分散型アプローチを強調したのです。 この文書は、ETCの今後の展開の方向性を示すものでした。 その誕生以来、とらえどころのない、しかし重要な概念の本質について、多くの発見がありました。
 
-> Decentralized, Immutable, Unstoppable.
+> 分散型、不変、止められない。
 > 
-> - Ethereum Classic Website, 2016
+> - イーサリアムクラシック ウェブサイト、2016年
 
-This series of buzzwords is a recipe for unlocking the true value potential of blockchain technology. First you need decentralization, which enables immutability, allowing unstoppability, and making possible the [bright future](/why-classic/code-is-law) we discussed earlier.
+この一連のバズワードは、ブロックチェーン技術の真の価値ポテンシャルを引き出すためのレシピなのです。 まず分散化が必要です。分散化によって不変性が実現し、止められなくなり、先ほど説明した [明るい未来](/why-classic/code-is-law) が可能になるのです。
 
-## Quantifying Decentralization
+## 地方分権の定量化
 
-> Decentralization is the process by which the activities of an organization, particularly those regarding planning and decision-making, are distributed or delegated away from a central, authoritative location or group.
+> 分散化とは、組織の活動、特に計画や意思決定に関する活動が、中央の権威ある場所やグループから離れて分散または委譲されるプロセスを指す。
 > 
-> - [Wikipedia](https://en.wikipedia.org/wiki/Decentralization)
+> - [ウィキペディア](https://en.wikipedia.org/wiki/Decentralization)
 
-Decentralism favors decentralization, a property that exists in many systems and forms throughout nature. It is not a binary property, but a spectrum that ebbs and flows through time. It's difficult to articulate a hard and fast definition for decentralization in all contexts, but it can be visually understood fairly intuitively.
+分権主義は、自然界の多くのシステムや形態に存在する性質である分散を好む。 それは二元的な性質ではなく、時間の経過とともに変化するスペクトルである。 あらゆるコンテクストにおいて、分権を明確に定義することは困難ですが、視覚的にかなり直感的に理解することができます。
 
-![As a system becomes more decentralized, it has fewer choke points, making it harder to capture](./decentralization.jpg)
+![システムが分散化されると、チョークポイントが少なくなり、捕捉が難しくなる](./decentralization.jpg)
 
-In the realm of blockchain projects, there are many ways of measuring decentralization, with one rough quantification being "the ratio of people needed to be compromised in order to take over the system". That is to say, if an attacker wanted to control or censor a chain, a project that required them to compromise 80% of participants is _more decentralized_ than a project that only required 10% to be compromised.
+ブロックチェーンプロジェクトの領域では、分散化の測り方は様々で、「システムを乗っ取るために妥協する必要がある人の割合」が一つの目安の数値化となっています。 つまり、攻撃者がチェーンを制御したり検閲したりしたいと考えた場合、参加者の80%を侵害する必要があるプロジェクトは、10%しか侵害する必要がないプロジェクトよりも、 _より分散化された_。
 
-This measurement is known as the [Nakamoto coefficient](https://minima.global/blog/the-nakamoto-coefficient-an-attempt-to-quantify-decentralization), and while it is an excellent conceptual tool, is a fairly low-resolution one-dimensional measurement. In reality, decentralized systems can be designed to make capture less likely by assigning different groups with different responsibilities. Due to their diversity of responsibilities and backgrounds, difficulty in capturing a network then becomes linked not simply to the ratio of people, but a complicated mesh of overlapping strengths and weaknesses of different actors within the system.
+この測定は、 [中本係数](https://minima.global/blog/the-nakamoto-coefficient-an-attempt-to-quantify-decentralization)として知られており、優れたコンセプトツールではあるが、かなり低解像度の一次元測定である。 実際には、分散型のシステムでは、異なるグループに異なる責任を負わせることで、キャプチャーの可能性を低くするように設計することができます。 そのため、ネットワークを捉えることの難しさは、単純な人数比ではなく、それぞれのアクターが持つ強さと弱さが複雑に絡み合っていることにある。
 
-For example, in Proof of Work blockchains, an accurate measurement of decentralization would attempt to take into account mining by reward, clients by codebase, developers by commits, exchanges by volume, nodes by count, and ownership by value distribution, etc. But even this more nuanced approach is far from perfect, as a single snapshot measurement does not yield much insight into whether a system can maintain decentralization over time.
+例えば、Proof of Workのブロックチェーンでは、報酬によるマイニング、コードベースによるクライアント、コミットによる開発者、取引量による交換、カウントによるノード、価値分配による所有権などを考慮して、分散化を正確に測定しようとする。 しかし、このような微妙なアプローチも完璧とは言い難く、1回のスナップショット測定では、システムが長期にわたって分散化を維持できるかどうかについての見識はあまり得られない。
 
-Whichever way it is quantified, attackers that wish to "own" the system have a more difficult job the more decentralized a project is. To defend against take-overs, projects need to reach a sufficient level of decentralization, which means minimizing the number of central points of failure and bottlenecks, which can exist in many places in the system.
+どのように数値化するにせよ、システムを「所有」しようとする攻撃者は、プロジェクトが分散化されればされるほど、より困難な仕事を強いられることになる。 買収から守るためには、プロジェクトは十分な分散化のレベルに達する必要があります。つまり、システムのあちこちに存在しうる中央の障害点やボトルネックの数を最小限に抑えるということです。
 
-### The Blockchain Trilemma
+### ブロックチェーンのトリレンマ
 
-> The underlying structure of decentralized networks comes with unique challenges as compared to centralized networks. As early as the 1980s, computer scientists developed what’s called the CAP theorem to articulate perhaps the most major of these challenges. According to the CAP theorem, decentralized data stores — of which blockchain is an iteration — can only provide two of three guarantees simultaneously: consistency, availability, and partition tolerance (CAP). In the context of modern distributed networks, this theorem has evolved into the blockchain trilemma. This is the popular belief that public blockchains must sacrifice either security, decentralization, or scalability in their infrastructure.
+> 分散型ネットワークの基本的な構造は、集中型ネットワークと比較して、ユニークな課題を抱えています。 1980年代にはすでに、コンピュータ科学者がCAP定理と呼ばれるものを開発し、これらの課題のうち最も重要なものを明確にしていた。 CAP定理によれば、ブロックチェーンがその一例である分散型データストアは、一貫性、可用性、分割耐性（CAP）の3つのうち2つの保証しか同時に提供することができない。 現代の分散型ネットワークの文脈では、この定理はブロックチェーンのトリレンマに発展している。 これは、パブリックブロックチェーンは、そのインフラにおいて、セキュリティ、非中央集権、スケーラビリティのいずれかを犠牲にしなければならないという俗説である。
 > 
-> - The Blockchain Trilemma, [Gemini.com](https://www.gemini.com/cryptopedia/blockchain-trilemma-decentralization-scalability-definition#section-what-is-the-blockchain-trilemma)
+> - ブロックチェーンのトリレンマ』 [Gemini.com](https://www.gemini.com/cryptopedia/blockchain-trilemma-decentralization-scalability-definition#section-what-is-the-blockchain-trilemma)
 
-![The Blockchain Trilemma](./trilemma.png)
+![ブロックチェーンのトリレンマ](./trilemma.png)
 
-The Blockchain Trilemma describes a technological limitation that applies to all blockchain protocols. A similar concept also applies to the social layer of a blockchain project, with a sliding scale of top down vs bottom up decision-making.
+ブロックチェーンのトリレンマとは、すべてのブロックチェーンプロトコルに適用される技術的な制限を説明するものです。 同様のコンセプトは、ブロックチェーン・プロジェクトのソーシャル・レイヤーにも当てはまり、トップダウンとボトムアップの意思決定がスライド式に行われます。
 
-Like creating a video game character, all projects must place themselves somewhere in the space of these sociotechnological dimensions, allocating ability points and sacrificing some attributes for others. The selection defines a blockchain's class, abilities and effectiveness in battle.
+ビデオゲームのキャラクターを作るように、すべてのプロジェクトは、これらの社会技術的次元の空間のどこかに自分自身を配置し、能力ポイントを割り当て、ある属性を他の属性のために犠牲にしなければなりません。 この選択によって、ブロックチェーンのクラス、能力、戦闘での有効性が定義されます。
 
-As we will see, as far as the protocol's attributes and underlying philosophy goes, Ethereum Classic has maxed-out it's decentralization and security, intentionality sacrificing both transaction scalability and top down social organization so that more essential skills can be strengthened.
+これから述べるように、プロトコルの特性や基本的な考え方として、イーサリアムクラシックは分散化とセキュリティを最大限に高め、より本質的なスキルを強化するために、意図的に取引のスケーラビリティとトップダウンの社会組織を犠牲にしているのです。
 
-ETC chose to max-out these skills because for a blockchain protocol to scale its base protocol it must make trade-offs in decentralization and security, which may not appear as apparent costs immediately, but in the long run is bound to damage the utility and value of the network. In short, for ETC, scalability is less important than security and decentralization, and this technical trade-off is also mirrored in the social layer; decentralization trumps the expediency of central rule.
+ETCがこれらのスキルを最大限に発揮することを選んだのは、ブロックチェーン・プロトコルがその基本プロトコルを拡張するためには、分散化とセキュリティのトレードオフを行う必要があるからです。これは、すぐに明らかなコストとして現れないかもしれませんが、長い目で見ればネットワークの効用と価値を損なうことになるに違いありません。 つまり、ETCにとってスケーラビリティはセキュリティや分散化よりも重要ではなく、この技術的トレードオフは社会層にも反映されており、分散化は中央支配の都合に優先する。
 
-Today, most blockchain projects have abandoned the idea of maxing-out decentralization in exchange for scalability and the benefits of coordinating from a central group. This may well be useful for short term bootstrapping as it allows the funding of extravagant development or marketing budgets, and there is no obvious downside in an environment that is not antagonistic, but unless the project tapers-off this dependence on centralization, which may be impossible due to the incentivization structures it creates, the network is exposed to take-over through the capture of this relatively centralized set up.
+今日、ほとんどのブロックチェーンプロジェクトは、スケーラビリティと中央のグループから調整する利点と引き換えに、分散化を最大化するという考えを放棄しています。 しかし、プロジェクトが中央集権への依存度を下げない限り（これはインセンティブ構造上不可能かもしれないが）、ネットワークはこの比較的中央集権的なセットアップの捕捉によって乗っ取りにさらされることになるのだ。
 
-### Sovereign Grade Censorship Resistance
+### ソブリン・グレードの検閲への抵抗
 
-One question that should be asked when evaluating different blockchain projects is "is it decentralized enough?". The answer to this entirely depends on the use case's [threat model](https://en.wikipedia.org/wiki/Threat_model), which depends on what kind of applications need to be run on a given chain. The question can be reframed as "who would want to stop the applications on this chain from running, and can the chain resist their attempts at censorship?".
+さまざまなブロックチェーン・プロジェクトを評価する際に問われるべきは、「十分に分散化されているか」という点です。 これに対する答えは、完全にユースケースの [脅威モデル](https://en.wikipedia.org/wiki/Threat_model)に依存します。これは、あるチェーン上でどのような種類のアプリケーションを実行する必要があるかに依存します。 この問題は、「誰がこのチェーン上のアプリケーションの実行を止めたいのか、そしてチェーンは彼らの検閲の試みに抵抗できるのか」と言い換えることができる。
 
-For example, in the case of Bitcoin, its main application is the coin itself: digital scarcity and the ability to transfer it without censorship. It competes with many currencies and assets, including the US dollar, and therefore it must withstand attacks from very powerful entities to persist. Many of Bitcoin's [predecessors](https://blog.dassetx.com/the-known-and-possible-influences-of-satoshi-nakamoto-part-1-privately-issued-digital-currencies-before-bitcoin) were shut down because they had central points of failure, and Bitcoin was explicitly designed to circumvent this kind of censorship by being sufficiently decentralized.
+例えば、ビットコインの場合、その主な用途はコインそのものであり、デジタルの希少性と検閲を受けずに転送できることである。 米ドルを含む多くの通貨や資産と競合しているため、非常に強力な存在からの攻撃に耐えなければ存続できないのです。 </a> ビットコインの前身である
 
-In contrast, some blockchains require less censorship resistance than Bitcoin and only intend to, for example, enable the transfer of virtual baseball cards, or have other uncontroversial use cases. As no powerful external forces want to stop these applications, censorship resistance is unnecessary. It may even be seen as a benefit if some central party can override the state of the chain in certain circumstances, so having the whole chain operated by a handful of authorities is acceptable for this use case. In these cases, where the use case is not important enough for a well-funded organization to shut down, it might make sense to sacrifice decentralization for scalability, and other non-blockchain technologies may be more appropriate.
+の多くは、中心的な障害点があったために閉鎖されました。ビットコインは、十分に分散化されていることによって、この種の検閲を回避するように明確に設計されています。</p> 
 
-Ethereum Classic, even back in 2015 when it was known as Ethereum, set out to achieve ambitions on a level at least as prone to censorship as Bitcoin.
+一方、ブロックチェーンの中には、ビットコインほど検閲の抵抗力を必要とせず、例えば、仮想の野球カードの譲渡を可能にするなど、議論の余地のないユースケースだけを意図しているものもあります。 これらのアプリケーションを止めようとする強力な外部勢力は存在しないので、検閲の抵抗は不要である。 ある状況下で中央の当事者がチェーンの状態を上書きすることができれば、それは利点とさえ見なされるかもしれません。したがって、チェーン全体を少数の当局が運用することは、このユースケースにとって容認できることなのです。 このような場合、資金力のある組織が閉鎖するほどユースケースが重要でないなら、スケーラビリティのために分散化を犠牲にすることは意味があるかもしれないし、他の非ブロックチェーン技術がより適切であるかもしれません。
 
-> Ethereum is a decentralized computing platform that executes smart contracts. Applications are ran exactly as programmed without the possibility of censorship, downtime, or third-party interference.
+Ethereum Classicは、Ethereumとして知られていた2015年当時でさえ、少なくともBitcoinと同様に検閲を受けやすいレベルで野望を達成することを目指した。
+
+
+
+> イーサリアムは、スマートコントラクトを実行する分散型コンピューティングプラットフォームである。 アプリケーションは、検閲、ダウンタイム、第三者による干渉の可能性がなく、プログラム通りに実行されます。
 > 
-> - Ethereum.org, 2015
+> - イーサリアム（Ethereum.org）、2015年
 
-Ethereum's Smart Contract Platform was designed to not only support Bitcoin's base currency use case, but also any kind of blockchain application. Because of this, it is highly likely to attract attempts at censorship from legacy system incumbents at risk being disrupted.
+イーサリアムのスマートコントラクトプラットフォームは、ビットコインの基軸通貨のユースケースだけでなく、あらゆる種類のブロックチェーンアプリケーションをサポートするために設計されています。 そのため、レガシーシステムの既存企業から検閲の試みを受ける可能性が高く、妨害される危険性があります。
 
-To provide a solution on a global level that would need to stave off attacks from other sovereign institutions such as nation states and multinational organizations, Ethereum, like Bitcoin, would need to reach a level of decentralization that made it impossible for any of these groups censor it; _Sovereign Grade Censorship Resistance_ is required.
+国民国家や多国籍組織など他の主権機関からの攻撃を食い止める必要があるグローバルレベルでのソリューションを提供するためには、ビットコインと同様にイーサリアムも、これらのどのグループも検閲することが不可能な分散化のレベルに達する必要があります。 _Sovereign Grade Censorship Resistance_ が必要なのです。
 
-A critical threshold is reached with this level of uncensorability. As no other institution can censor the network, applications become significantly more useful, becoming _trustless_. They no longer rely on the trust or permission of some other company or government to operate, and, on these platforms, it is the users, rather than the providers who get to decide what goes on.
+この程度の無修正では、臨界閾値に達してしまうのです。 他の機関がネットワークを検閲できないため、アプリケーションの利便性が著しく向上し、 _トラストレス_になる。 また、これらのプラットフォームでは、何が行われるかを決定するのは、プロバイダーではなく、むしろユーザーなのです。
 
-_Code is Law_ can only operate on chains that have achieved _Sovereign Grade Censorship Resistance_. This level is required to prevent other entities from censoring its operation, and this in turn requires the chain to max-out it's decentralization attributes and constantly maintain them without compromise. _Code is Law_ requires _decentralization maximalism_.
+_Code is Law_ は、 _Sovereign Grade Censorship Resistance_を獲得したチェーンでのみ動作可能です。 このレベルは、他のエンティティによるチェーンの運用の検閲を防ぐために必要であり、そのためにはチェーンが分散化属性を最大化し、妥協することなく常に維持することが必要です。 _Code is Law_ requires _decentralization maximalism_.
 
-## Centralization Failure States
 
-Before we explore the solution to the problem of centralization, we must first understand how a lack of decentralization can quickly regress into full-blown failure.
 
-Today, even more so than when Ethereum (Classic) was launched in 2015, it is increasingly apparent that censorship is becoming the weapon of choice of a dying legacy system attempting to cling on to relevance. As these old institutions become increasingly threatened by change, it seems likely that ever-more drastic measures will be taken to defend their position.
+## 中央集権化失敗国家
 
-Before the internet and blockchain technology entered the scene, these institutions had reality pretty much on lockdown as society was heavily reliant on centralized control points for value and information transfer, which was readily exploited. With cryptography, Satoshi retorted just in the Nick of time, turning the tables on [the logic of violence](https://cryptonews.net/en/news/bitcoin/2927549/), and providing humanity with a path towards an alternative emergent order.
+中央集権化の問題の解決策を探る前に、まず、分権化の欠如がいかに本格的な失敗に早く逆行するかを理解する必要があります。
 
-As time goes on, the attacks against free, fair and open alternatives to the status quo will ramp up. As a result, the cryptocurrency ecosystem will enter a new phase, a highly antagonistic phase, where the uncensorability of blockchain technology will truly be put to the test, and the central points of failure in cryptocurrency systems that have them will be sought out and exploited. For use cases that incumbents disapprove, only the _Sovereign Grade_ will survive.
+今日、2015年にイーサリアム（クラシック）が発売されたときよりもさらに、検閲が、関連性にしがみつこうとする瀕死のレガシーシステムの選択兵器になりつつあることがますます明らかになっている。 このような古い制度は、変化への脅威が増すにつれて、その地位を守るためにこれまで以上に思い切った手段を取るようになると思われる。
 
-In the future, to maintain utility and value, blockchains must resist a range of social, economic and technological attacks that will be deployed against them. The list of attacks is ever-growing and new forms of attack are sure to be conjured up and countered, but for now, at the very least, the more obvious known failure states must be avoided.
+インターネットやブロックチェーン技術が登場する以前は、価値や情報の伝達を集中管理点に大きく依存する社会であったため、これらの機関は現実をかなり封鎖しており、容易に悪用される状況でした。 暗号技術で、サトシはちょうど時間のニックの中で、 [暴力の論理を逆転させ、](https://cryptonews.net/en/news/bitcoin/2927549/)、人類に代替の創発的秩序に向かう道を提供しました。
 
-### The Ephemeral Foundation
+時間が経つにつれて、現状に対する自由で公平でオープンな代替案に対する攻撃は激化していくでしょう。 その結果、暗号通貨のエコシステムは、ブロックチェーン技術の無検閲性が真に試され、それを持つ暗号通貨システムの中心的な障害点が探し出されて悪用されるという、非常に拮抗した新しいフェーズに入るでしょう。 現職が認めないユースケースについては、 _Sovereign Grade_ だけが生き残ることになる。
 
-Historically, the number one cause of death for blockchain projects is when the teams responsible for maintaining them no longer operate. Simply put, if a project depends on a central organizing committee or developer team, it will only last for as long as that organization does.
+今後、ブロックチェーンの有用性と価値を維持するためには、ブロックチェーンに対して展開されるであろう社会的、経済的、技術的な様々な攻撃に対抗する必要があります。 攻撃のリストは増え続け、新しい形の攻撃が思い浮かび、それに対抗することもできるはずだが、今のところ、少なくとも、より明白な既知の障害状態は避けなければならない。
 
-Organizations can cease to operate for many reasons. Be it a simple rugpull, running out of funds, getting hacked, getting hammered by regulators, traffic accidents, or any other reason, these factors are often outside the control of this team, so it is down to luck or the approval of regulators whether a project can survive.
 
-In many cases, the existence of a central team disincentives others from contributing to a project, as they are not on a level playing field. Third parties will always be second class citizens compared to this central organizing committee, who are calling the shots and disproportionately benefitting from price action in the case of a premine or development tax, which further solidifies reliance on this team to maintain and direct the project, and, at the very least, prevents a natural organizational hierarchy from emerging.
 
-This reliance on a central team may provide direction and big budgets in the short term, but it burdens the protocol with a kind of "centralization debt" that is difficult to pay off. Eventually, like all organizations, the central team will cease to operate. Unless the project sheds this reliance, it is likely to become either abandoned or maladapted to life without this group.
+### エフェメラル・ファウンデーション
 
-### Meatspace Capture
+歴史的に、ブロックチェーン・プロジェクトの死因の第1位は、メンテナンスを担当するチームが活動しなくなることです。 簡単に言えば、プロジェクトが中央の組織委員会や開発者チームに依存している場合、その組織がある限り、プロジェクトは長く続くだけなのです。
 
-For high value projects that have an overreliance on centralized teams, as time goes on, a fate far more insidious than mere abandonment becomes increasingly likely. Like clockwork, as with all top-down centralized institutions, they become captured by special interests through various manipulative techniques.
+組織は様々な理由で活動を停止することがあります。 単純な引き抜き、資金不足、ハッキング、規制当局からの攻撃、交通事故、その他の理由であれ、これらの要因はこのチームのコントロール外にあることが多く、プロジェクトが生き残れるかどうかは、運や規制当局の承認にかかっているのです。
 
-Suppose a powerful institution feels threatened by new technology. Rather than stamping it out, which may be impossible, it is far more effective to simply compromise and disrupt its operation by influencing the direction of development in a way that does not fundamentally upset the status quo.
+多くの場合、中央のチームが存在すると、他のメンバーが同じ土俵に立てないため、プロジェクトに貢献する意欲が減退してしまいます。 第三者は、この中央組織委員会に比べれば常に二流市民であり、プレマイン・タックスや開発タックスの場合には、指示し、価格行動から不釣り合いに利益を得ている。このため、プロジェクトの維持と指示のためにこのチームへの依存がさらに強固になり、少なくとも、自然な組織階層が生まれることはないだろう。
 
-This can be achieved by turning influencers and the leadership of an organization into puppets, whose strings are pulled through a variety of carrots and sticks. Humans are fallible and are susceptible to all degrees of manipulation and extortion; peer pressure, angry mobs, politics, kickbacks, bribes, psyops, honey traps, kompromat, physical threats, imprisonment, or worse.
+このように中央のチームに依存することは、短期的には方向性を示し、大きな予算を提供するかもしれないが、プロトコルに一種の「中央集権化負債」を負わせ、それを返済するのは困難である。 いずれは、すべての組織がそうであるように、中央のチームは活動を停止することになる。 この依存を捨てない限り、プロジェクトは放棄されるか、このグループなしの生活に不適応になる可能性が高い。
 
-With enough key targets under the thumb of an attacker, they can control the future of a chain through their authority, making subtle incremental changes that further increase their grip and control over decision-making.
 
-One of the most problematic elements of this type of failure state is that it can be done in a way that is undetectable. It may be that the level to which a central team is compromised is unknown, and capture only becomes obvious when it is too late to do anything about it.
 
-Even if a centralized team is not overtly compromised, the very potential of this compromise can sow distrust and uneasiness. Conspiracy theories and the questioning of decision-making may undermine a project's leadership and stability if they appear not to be driven by merit alone, and simple divide and conquer tactics deployed against the organizing committee may be enough to paralyze the project.
+### ミートスペース・キャプチャー
 
-This failure state shows an inherent contradiction within any blockchain project that relies on a central organizing committee. While the protocol may be decentralized on paper, in reality the project is beholden to a central group which can and will be bent to the will of anyone who feels that the cost of doing so is worth it.
+中央集権的なチームに過度に依存した高価値のプロジェクトでは、時間が経つにつれて、単なる放棄よりもはるかに陰湿な運命が待っている可能性が高くなる。 トップダウンの中央集権的な組織と同じように、時計仕掛けのように、さまざまな操作技術によって特別な利害関係者に取り込まれていく。
 
-### Kabuki Coins
+ある有力な機関が、新しい技術に脅威を感じているとする。 不可能かもしれないが、それを踏みつぶすよりも、現状を根本的に覆さない範囲で開発の方向性に影響を与え、単純に妥協してその運営を混乱させる方がはるかに効果的である。
 
-Centralization, like gravity, is constantly pulling and looking for any weakness in a sociotechnological structure to find its breaking point. For a system to overcome this force long term, it must ensure that no central point of failure can be exploited, which means designing robust countermeasures that constantly push back against centralization not just in one place but in all areas.
+これは、インフルエンサーや組織のリーダーを操り人形にして、さまざまなニンジンや棒で糸を引くことによって実現できる。 同調圧力、暴徒、政治、キックバック、賄賂、サイコパス、ハニートラップ、コンプロマット、身体的脅迫、投獄、あるいはもっと悪いことなど、人間は誤りやすく、あらゆる程度の操作や強要に影響を受けやすい。
 
-Because of this, there is no point in having decentralization in half measures. A chain is only as strong as its weakest link, and a blockchain is only as decentralized as its most centralized bottleneck. For this reason, _all_ parts of a blockchain project, both technically and socially, must strive for _decentralization maximalism_.
+攻撃者は、十分な数の重要なターゲットがあれば、その権限によってチェーンの将来をコントロールし、微妙な漸進的変化を加えて、意思決定に対する支配力をさらに高めることができます。
 
-Unfortunately, within the cryptocurrency ecosystem the importance of _decentralization maximalism_ is not widely understood or adopted, to the point where the term _decentralization theater_ has become a common way to describe many _so-called_ decentralized systems.
+この種の故障状態の最も問題な要素の一つは、検出できない方法で行われることである。 セントラルチームがどの程度危険にさらされているかは不明で、手遅れになったときに初めて捕捉が明らかになるということもありえます。
 
-These projects have subtle single points of failure within their systems, but promoters shift the focus to other "decentralized" areas. This is an effective tactic, as proving that a system has potentially capturable central points of failure requires intimate knowledge of the system, and can be very difficult or impossible for the layman, due to the technical skill and insider knowledge required to evaluate properly.
+たとえ中央集権的なチームがあからさまに妥協していなくても、その可能性は不信と不安を呼び起こすことになります。 陰謀論や意思決定への疑問は、実力だけで動いていないように見える場合、プロジェクトのリーダーシップと安定性を損ない、組織委員会に対して展開される単純な分裂と征服の戦術は、プロジェクトを麻痺させるのに十分である可能性があります。
 
-Like the parable of the buildings built on rock and sand, to the untrained eye, two projects may appear to be properly constructed, and under normal conditions they both operate as intended. But under the surface, one project has a fatal flaw that will only lead to ruin in times of stress and will likely end up causing damage to those who expect the project to stand the test of time.
+この失敗例は、中央の組織委員会に依存するブロックチェーン・プロジェクトに内在する矛盾を示している。 プロトコルは書類上では分散化されているかもしれませんが、実際にはプロジェクトは中央のグループに従属しており、そのコストが見合うと感じる人なら誰でもその意思を曲げることができますし、今後もそうするでしょう。
 
-![Blockchains, like buildings, can be built on strong and weak foundations](./rocksand.jpeg)
 
-## Classic Problems Require Classic Solutions
 
-Corruption is a problem as old as civilization. While it might not have reared its ugly head in the cryptocurrency space yet, as the technology becomes more influential, it is bound to attract forces that wish to bridle its power and shape it towards a future where, far from liberating humanity, blockchains become tools for optimizing enslavement.
+### 歌舞伎コイン
 
-In the long run, whatever happens, decentralized blockchains will prevail eventually. Still, if humanity wishes to avoid a dark-ages style period of hampered innovation and stagnation, the word must be spread about the dangers of centralization so that it can be dealt with before they take hold. Luckily, a window of opportunity exists to counter the inevitable ongoing attempts to capture blockchains. For now, projects that strive for _decentralization maximalism_ still exist and are available to those who wish to use them.
+中央集権は、重力のように常に引っ張られ、社会技術的構造のあらゆる弱点を探して、その限界点を見つけようとします。 この力を長期的に克服するためには、中央の障害点を利用されないようにすること、つまり、一箇所だけでなく、すべての領域で常に中央集権化を押し返す強固な対策が設計されている必要があります。
 
-While it's still voluntary, rather than relying on authority figures or marketing campaigns, individuals can reason from first principles and reflect on lessons from the past to reach their own conclusions about which blockchains are likely to provide long term value and are worth interacting with.
+このため、中途半端な分権には意味がありません。 チェーンはその最も弱いリンクによってのみ強くなり、ブロックチェーンはその最も中央集権的なボトルネックによってのみ非中央集権的となる。 このため、 _ブロックチェーン・プロジェクトのすべての_ 部分は、技術的にも社会的にも、 _分散化最大主義を目指す必要があります_.
 
-By going back to the roots of blockchain technology, economic theory and the lessons of history, the wisdom in the design decisions behind Bitcoin becomes clear, and this logic can be reapplied to other technological advancements in the space, including Smart Contract Platforms such as Ethereum Classic.
+残念ながら、暗号通貨のエコシステム内では、 _分散化最大主義_ の重要性が広く理解されたり採用されたりしていないため、 _分散化劇場_ という言葉が、多くの _いわゆる_ 分散化システムを表す一般的な方法になってしまっています。
 
-### Principles First
+これらのプロジェクトは、システム内に微妙な単一障害点がありますが、推進者は他の「分散化」された領域に焦点を移します。 これは有効な手段である。なぜなら、あるシステムに潜在的に捕捉可能な中心的障害点があることを証明するには、そのシステムに関する深い知識が必要であり、適切に評価するためには技術的スキルや内部知識が必要となるため、素人には非常に困難か不可能だからである。
 
-While institutions and the humans that make them are fallible, fickle and fragile, ideas are bulletproof. It is self-evident that technology as important and influential as blockchain must be built upon something more than just people. A well-developed philosophy must act as a strong foundation to guide the actions of otherwise capturable bags of meat.
+岩と砂の上に建つ建物のたとえのように、素人目には2つのプロジェクトが適切に構築され、通常の条件下ではどちらも意図したとおりに動作しているように見えるかもしれません。 しかし、水面下では、あるプロジェクトには致命的な欠陥があり、ストレスの多い時には破滅を招くだけでなく、そのプロジェクトに時間の試練を期待する人たちに損害を与える結果になる可能性が高いのです。
 
-Good ideas stand on their own, can be debated in public, and are valid regardless of who proclaims them, making them perfect for constructing a harness to restrain and protect the future of a blockchain project. That is why The Ethereum Classic Foundation is not a *group*, but its *principles*, which come first and inform decision-making.
+![ブロックチェーンは、建物のように、強い基礎と弱い基礎の上に構築することができます。](./rocksand.jpeg)
 
-Pragmatism is downstream of maintaining and adhering to sound principles, as they enable both practical survivability, long term sustainability, and act as a form of advertising that attracts quality contributors. The principles first approach goes a long way to ensuring that a project can maintain its course for many generations to come, as it is guided not by the ever-changing interests of a central group, but by external philosophical reference points that, even with high a turnover of contributors, can be perpetuated and refined in public to direct the future of the project.
 
-Having no central group to call the shots means that any individual or group can fill any role, as long as they are faithfully interpreting and executing ETC's principles and values, as understood by stakeholders. If some feel that a hard fork diverges from the values they signed up for, they can continue the existing version of the chain. The risk of a chain split means all participants are incentivized to work together to solve differences, and neither side of a debate can overrule the other if the disagreement is unresolvable.
 
-### Protocol Neutrality
+## 古典的な問題には古典的な解決策が必要
 
-As the night is young in the blockchain game, the problem of [Ephemeral Foundations](#the-ephemeral-foundation) may not be so obvious. Whether conned, crushed, or otherwise captured, the noble intentions that run the show for many blockchain projects are certain to come to an end, and with them, if their chains are not able to shed reliance, so do their ambitions.
+腐敗は、文明と同じくらい古い問題です。 暗号通貨の分野ではまだ醜い頭をもたげていないかもしれませんが、この技術がより影響力を持つようになると、その力に橋をかけ、ブロックチェーンが人類を解放するどころか、奴隷を最適化する道具になってしまうような未来に向けて形作ろうとする勢力を引き寄せるに違いありません。
 
-This problem is made worse when the decision-making systems within a blockchain project rely on a central group for extended periods. Alternative mechanisms for organizing the project are unable to evolve, as decision-making is expected to come from the top down rather than bottom up. As a result, opaque autocracy becomes the standard, which ossifies and becomes fragile, rather than allowing for an anti-fragile open meritocracy to flourish.
+長い目で見れば、何が起ころうとも、最終的には分散型ブロックチェーンが優位に立つでしょう。 しかし、人類が暗黒時代のような技術革新の阻害と停滞の時代を避けたいのであれば、中央集権化の危険性を広く伝え、それが定着する前に対処する必要がある。 幸いなことに、ブロックチェーンを捕捉しようとする不可避の継続的な試みに対抗する窓が存在しています。 今のところ、 _分散化最大主義_ を目指すプロジェクトはまだ存在し、希望者はそれを利用することができます。
 
-This manifests in a _centralization gravity well_, where reliance on central decision-making snowballs as outside contribution becomes more difficult, so the project relies more and more heavily on top-down leadership, and the cycle repeats.
+まだ任意ではありますが、権威者やマーケティングキャンペーンに頼るのではなく、個人が第一原理から推論し、過去の教訓を振り返りながら、どのブロックチェーンが長期的な価値を提供しそうで、交流する価値があるのか、自分なりの結論を出すことができるのです。
 
-Because of this, in the future, projects that rely on centralized organizations will one by one fall victim to this reliance, and the truth will be realized that only projects without this reliance can sustain themselves for long periods. As the wild valuations that cryptocurrencies currently enjoy depends on the hope that these projects have some degree of longevity, it will become increasingly evident that only truly decentralized projects are worth contributing money, talent or time to, and the market will reallocate accordingly.
+ブロックチェーン技術のルーツ、経済理論、歴史の教訓に立ち返ることで、ビットコインの背後にある設計上の決定の知恵が明らかになり、この論理はイーサリアムクラシックなどのスマートコントラクトプラットフォームを含むこの分野の他の技術的進歩に再適用することができる。
 
-Only the projects with long term value propositions will remain, which means only those that don't rely on central organizing committees will remain. By the same logic, it will become apparent that, all things being equal, the projects perceived to be the least dependent on central groups will attract the most contribution and value.
 
-Instead of relying on unsustainable cash injections from central authorities, projects must evolve to sustain themselves purely on natural contributions, such as those through the _Buy and Contribute_ strategy, whereby individuals buy into a project and economically incentivize themselves to contribute to it.
 
-This strategy works best when an individual is reaping the full reward of their contribution, which can only happen when a protocol is neutral. Neutral protocols treat all participants on the same equal footing and do not grant any special privileges to specific parties. Decentralized blockchain projects will compete with each other on this basis; only the most neutral projects, those without a Foundation, Dev Tax, or undiluted premine, will attract the type of natural contribution that enables long term sustainability.
+### プリンシプル・ファースト
 
-### Balancing Power
+制度やそれを作る人間は誤りやすく、気まぐれで壊れやすいものですが、アイデアは弾丸のように強いものです。 ブロックチェーンのような重要で影響力のあるテクノロジーは、人以上のもので構築されなければならないことは自明です。 そして、その哲学は、捕獲可能な肉塊の行動を導く強力な土台とならなければならないのです。
 
-As echoed by the structure of existing institutions such as the government of the United States of America, to rein in bad decision-making and prevent one group from hijacking a system as a whole for selfish interests, a balance of power between different players needs to exist in systems that wish to maintain longevity. This concept is known as _checks and balances_.
+優れたアイデアは、それ自体が独立しており、公の場で議論することができ、誰が宣言しても有効であるため、ブロックチェーン・プロジェクトの将来を抑制し保護するためのハーネスを構築するのに最適です。 そのため、The Ethereum Classic Foundationは、 *グループ*ではなく、その *原則*が最優先され、意思決定に反映されるのです。
 
-![The US Government is an example of a system that implements checks and balances](./congress.png)
+プラグマティズムとは、健全な原則を維持し、遵守することの下流にあるもので、それによって現実的な存続と長期的な持続性が可能になり、質の高い貢献者を惹きつける広告として機能するからです。 原理原則を優先するアプローチは、プロジェクトが何世代にもわたって軌道を維持できることを保証するものです。なぜなら、常に変化する中央グループの利益によってではなく、外部の哲学的基準点によって導かれるため、たとえ貢献者の交代が激しくても、プロジェクトの将来を導くために永続し改良することが可能だからです。
 
-As with the US Government, checks and balances are an essential feature of Proof of Work blockchains, where three major power groups exist and balance each other's power.
+中央集権的な組織がないため、ステークホルダーが理解するETCの原則と価値を忠実に解釈し、実行する限り、どのような個人またはグループでもあらゆる役割を果たすことができます。 ハードフォークが契約した価値観と乖離していると感じる人がいれば、既存のバージョンのチェーンを継続することも可能です。 連鎖分裂のリスクは、すべての参加者が相違点を解決するために協力する動機付けとなり、意見の相違が解決できない場合は、どちらの側も他を圧倒することができません。
 
-| Group      | Role                                      | Veto                   |
-| ---------- | ----------------------------------------- | ---------------------- |
-| Developers | Maintain clients and infrastructure       | Stop maintaining code  |
-| Miners     | Provide security against 51% attacks      | Mine a different chain |
-| Financiers | Provide liquidity and finance initiatives | Sell holdings          |
 
-The alignment of three major powers in Proof of Work blockchains provides stability. They each add value to the system in entirely different ways. Each holds the system to account through the power of veto, which ensures that no other groups can screw things up too badly. Whether a government or a blockchain, things tend to go wrong when these checks and balances are interfered with.
 
-Note that this configuration of three is important, as it also means that the collective can overcome consensus issues through a simple majority rule. This odd-number electorate is a common pattern in distributed systems. A deadlock can ensue with only two participants, as no third party is there to resolve the dispute.
+### プロトコルニュートラル
 
-The result is a symphony of balanced power, held together by competing interests that incentivize either voluntary engagement or ostracism of bad behavior. Miners provide security and get a block reward, which only has value if the network is useful thanks to developers and other providers maintaining the protocol and building out infrastructure, facilitated by traders providing liquidity and investors speculating and funding projects.
+ブロックチェーンのゲームでは夜が浅いので、 [Ephemeral Foundations](#the-ephemeral-foundation) の問題はそれほど明白ではないかもしれません。 多くのブロックチェーン・プロジェクトは、騙されようが、潰されようが、あるいは取り込まれようが、その崇高な意図は確実に終焉を迎え、チェーンが信頼性を失えば、その野望もまた終焉を迎えます。
 
-Like struts holding up the base of a tower, these well-placed incentives rely on each other for support. Together, as long as they are correctly distributed, they can yield a new structure greater than the sum of their parts, and can stand potentially for millennia.
+この問題は、ブロックチェーン・プロジェクト内の意思決定システムが、長期間にわたって中央のグループに依存した場合、さらに悪化する。 ボトムアップではなく、トップダウンで意思決定が行われることが予想されるため、プロジェクトを組織するための代替メカニズムが進化できないのです。 その結果、不透明な独裁主義が標準となり、骨抜きにされて脆弱化し、むしろ反脆弱な開放的実力主義が花開くことになるのです。
 
-On top of this, a diversity of roles makes a system more challenging to take down by encouraging participation from parties with differing interests, profiles, and weaknesses. As multiple layers of defense, the more diverse the pool of participants securing the chain, the harder it is for an attacker to compromise, as a diversity of weaknesses requires a diversity of attacks, and a higher cost is needed to capture the system. Even with the same number of participants, a system with more separation of concerns can be considered more decentralized and difficult to capture because of this diversity.
+これは、 _中央集権化の重力井戸_という形で現れます。中央の意思決定への依存が雪だるま式に増え、外部からの貢献が難しくなるため、プロジェクトはますますトップダウンのリーダーシップに依存し、このサイクルが繰り返されることになるのです。
 
-The blueprint introduced by Bitcoin was also used by many other cryptocurrencies including Ethereum, which essentially copied the fundamentals, tweaked some variables, and (brilliantly) added a Turing-complete virtual machine, the EVM. Much like an architectural blueprint, encoding the structure of a real world building, it would be seemingly unwise to remove one or more of the crucial struts preventing the structure from collapsing into a centralized mess.
+そのため、今後、中央集権的な組織に依存したプロジェクトは、次々とその犠牲になり、依存しないプロジェクトだけが長期的に維持できる、という真実に気づくことになるだろう。 暗号通貨が現在享受している乱暴な評価は、これらのプロジェクトがある程度の寿命を持つという希望に依存しているため、真に分散化されたプロジェクトのみが資金、人材、時間を提供する価値があることがますます明らかになり、市場はそれに従って再配分されるでしょう。
 
-If a project wants to survive long term, it must have enough of these necessary incentive structure struts to be properly balanced. If Bitcoin is a sturdy tripod made of miners, developers and traders, by sawing off one of these legs, for example, by switching to Proof of Stake and firing the miners, the result is a two-legged barstool; one that can be straddled for a while, but even the faintest breeze will cause it to become a dangerous liability.
+長期的な価値提案を持つプロジェクトだけが残り、つまり中央の組織委員会に頼らないプロジェクトだけが残る。 同じ論理で、すべての条件が同じであれば、中央のグループへの依存度が低いと思われるプロジェクトが、最も多くの貢献と価値を引き寄せることが明らかになるであろう。
 
-### Decentralization Maximalism
+中央当局からの持続不可能な現金注入に頼るのではなく、プロジェクトは、 _Buy and Contribute_ 戦略によるような、個人がプロジェクトを購入し、経済的にインセンティブを与えて貢献するような、純粋に自然な貢献によって持続するように進化しなければなりません。
 
-_Decentralization maximalism_ is the only known mechanism to shore off the forces of centralization long term. It is not a predefined set of rules but a general philosophy or way of thinking that seeks to reduce the number of central points of failure throughout a system.
+この戦略は、プロトコルが中立である場合にのみ起こりうる、個人が自分の貢献から十分な報酬を得ることができる場合に最も効果的です。 中立的なプロトコルは、すべての参加者を同じ立場で扱い、特定の当事者に特別な特権を与えるものではありません。 分散型ブロックチェーン・プロジェクトは、この基準で互いに競争します。最も中立的なプロジェクト、つまり財団、開発税、または原始的なプレミンを持たないプロジェクトだけが、長期的な持続性を可能にするタイプの自然な貢献を引き寄せることができるのです。
 
-It demands that decentralization be pursued holistically in all areas, in protocol's design, and the social layer, where possible. The goal is to make the protocol secure from take-over and the social layer secure from capture. Satoshi Nakamoto being anonymous and going silent is the classic example of this philosophy being applied to the Bitcoin project, the success of which is wise to emulate.
 
-Where it makes sense, by definition, this approach demands no compromise. Even the smallest of sacrifices, infractions, or exceptions should be, unless entirely unavoidable with some overall worthwhile trade-off in the context of known stopping criteria, intolerable. As centralization is difficult to get rid of, it typically accumulates over time and will pile up until the system becomes captured in one way or another.
 
-Whatever the crossroad, _decentralization maximalism_ requires eternal vigilance and the knowledge that systems naturally tend towards centralization, so every decision made must consider the cost paid in centralization debt, to keep the system debt-free long term.
+### バランシング・パワー
 
-## Onward
+アメリカ合衆国の政府のような既存の制度の仕組みに見られるように、誤った意思決定を抑制し、ある集団が利己的な利益のために制度全体を乗っ取ることを防ぐために、長寿を望む制度には異なるプレーヤー間の力の均衡が必要である。 この考え方は、 _チェックアンドバランス_として知られています。
 
-If humanity wishes to avoid another dark age, it must embrace systems that can resist the corrupt forces threatening to capture blockchain technology's future. Only systems that strive for _decentralization maximalism_ can achieve this, but of all blockchain projects that exist today, only a handful recognize this requirement.
+![米国政府は、チェックアンドバランスを実施するシステムの一例である](./congress.png)
 
-The innovations that Ethereum brought to the world in the form of a Turing Complete Smart Contract Platform provide a great leap forward in terms of the utility and potential of blockchain uses cases, but as evidenced The DAO Fork and the switch to Proof of Stake, the direction the project is being taken makes it susceptible to capture and unable to achieve _Sovereign Grade Censorship Resistance_.
+米国政府と同様、チェックアンドバランスはProof of Workブロックチェーンに不可欠な機能であり、3つの主要な権力集団が存在し、互いの力を均衡させることができるのです。
 
-In the not too distant future, as attacks against blockchains ramp up, this need will be all too clear. As one by one, so-called decentralized projects reveal their true colors and succumb to corruption in the form of capture by special interests. As a result, only the genuinely decentralized will remain.
+| グループ   | 役割                    | 拒否権           |
+| ------ | --------------------- | ------------- |
+| デベロッパー | クライアントとインフラの維持管理      | コードのメンテナンスの停止 |
+| 鉱山労働者  | 51%の攻撃に対する安全性を提供      | 私のは別のチェーン     |
+| フィナンシェ | 流動性と資金調達のイニシアティブを提供する | 保有株式の売却       |
 
-By combining the technology of Ethereum with the philosophy of Bitcoin, Ethereum Classic provides a secure, multipurpose, decentralized blockchain, and a free, fair and flourishing alternative to what might be a grim and centralized future.
+
+Proof of Workのブロックチェーンでは、3大勢力が揃うことで安定性が確保されています。 それぞれ全く異なる方法でシステムに付加価値を与えているのです。 各グループは、拒否権によってシステムに責任を負わせ、他のグループが事態を悪化させないようにします。 政府であれブロックチェーンであれ、こうしたチェックアンドバランスが阻害されると、物事がうまくいかなくなる傾向があります。
+
+なお、この3人の構成は、集団が単純な多数決で合意事項を克服できることも意味しており、重要である。 この奇数の選挙人は、分散型システムでよく見られるパターンである。 参加者が2人だけの場合、紛争を解決する第三者がいないため、デッドロックに陥る可能性があります。
+
+その結果、バランスの取れた権力のシンフォニーが生まれ、競合する利害関係者によってまとめられ、自発的な関与や悪い行いの排斥を促すことになるのです。 マイナーはセキュリティを提供し、ブロック報酬を得ます。開発者や他のプロバイダーがプロトコルを維持し、インフラを構築し、流動性を提供するトレーダーや投機やプロジェクトへの資金提供を行う投資家によって促進され、ネットワークが有用であればこそ価値があります。
+
+塔の土台を支える支柱のように、うまく配置されたインセンティブが互いに支え合っているのです。 それらが正しく配分されている限り、それぞれの部分の総和よりも大きな新しい構造を生み出し、何千年にもわたって存在し続ける可能性があるのです。
+
+その上、役割の多様性は、利害関係者、プロファイル、弱点の異なる関係者の参加を促し、システムの破壊をより困難にします。 多重防御として、チェーンを確保する参加者のプールが多様であればあるほど、弱点の多様性が攻撃の多様性を必要とし、システムを攻略するために高いコストが必要となるため、攻撃者にとっての侵害は難しくなります。 同じ参加者数でも、より関心事が分離しているシステムは、この多様性のために、より分散化され、捕捉されにくいと考えることができる。
+
+ビットコインが導入した設計図は、イーサリアムを含む他の多くの暗号通貨でも使用されました。イーサリアムは基本的な部分をコピーし、いくつかの変数を微調整し、（見事に）チューリング完全仮想マシンであるEVMを追加しました。 建築の設計図のように、現実の建物の構造をコード化し、その構造が崩れ落ちないようにするための重要な支柱を一つでも多く取り除くことは、一見すると賢明ではないように思われます。
+
+プロジェクトが長期的に生き残ろうとするならば、これらの必要なインセンティブ構造の支柱が十分にあり、適切なバランスが保たれていなければならない。 ビットコインが鉱山労働者、開発者、トレーダーからなる頑丈な三脚であるとすれば、そのうちの1本を切り落とす、例えばProof of Stakeに切り替えて鉱山労働者を解雇すれば、結果は2本足のバースツールになる。しばらくはまたげるが、わずかな風でも起これば危険な障害となる。
+
+
+
+### 分散化最大化主義
+
+_分権最大主義_ は、中央集権の力を長期に渡って補強するための唯一の既知のメカニズムである。 これは、あらかじめ決められたルールではなく、システム全体の中心的な障害点を減らそうとする一般的な哲学や考え方のことです。
+
+それは、プロトコルの設計や、可能であれば社会層など、すべての領域で分散化を総合的に追求することを要求しています。 目標は、プロトコルを乗っ取りから安全にし、ソーシャルレイヤーを捕獲から安全にすることです。 サトシ・ナカモトが匿名で沈黙しているのは、この哲学がビットコイン・プロジェクトに適用された典型例であり、その成功は見習うべき賢明さを持っている。
+
+そのため、このアプローチは妥協のないものです。 わずかな犠牲や違反、例外であっても、既知の停止基準に照らして全体的に価値のあるトレードオフで完全に避けられない場合を除き、耐え難いものであるべきです。 中央集権は取り除くことが難しいため、一般的には時間の経過とともに蓄積され、何らかの形でシステムが捕捉されるまで積み重なることになる。
+
+どのような岐路であれ、 _分散化最大主義_ は、永遠の警戒と、システムは自然に集中化の方向に向かうという知識を必要とします。したがって、すべての決定は、システムを長期的に無借金に保つために、集中化の負債として支払ったコストを考慮しなければなりません。
+
+
+
+## オンワード
+
+もし人類が再び暗黒の時代を迎えないことを望むなら、ブロックチェーン技術の未来を脅かす腐敗した勢力に対抗できるシステムを採用しなければならない。 _分散化最大主義_ を目指すシステムだけが実現できるのですが、現在存在するすべてのブロックチェーン・プロジェクトの中で、この要件を認識しているのはほんの一握りです。
+
+EthereumがTuring Complete Smart Contract Platformという形で世界にもたらしたイノベーションは、ブロックチェーンのユースケースの実用性と可能性という点で大きな飛躍をもたらしますが、The DAO ForkとProof of Stakeへの切り替えが証明するように、プロジェクトの方向性は捕捉の影響を受けやすく、 _Sovereign Grade Censorship Resistance_を達成することができない状況になっています。
+
+遠くない将来、ブロックチェーンに対する攻撃が激化すれば、この必要性はますます明らかになるでしょう。 いわゆる分散型プロジェクトが次々と本性を現し、利権屋に取り込まれるという形で腐敗に屈していく。 その結果、純粋に分散したものだけが残ることになる。
+
+イーサリアムの技術とビットコインの哲学を組み合わせることで、イーサリアムクラシックは安全で多目的の分散型ブロックチェーンを提供し、厳しい集中型の未来になるかもしれないものに対して自由で公平で繁栄する代替手段を提供します。
