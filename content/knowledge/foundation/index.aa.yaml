@@ -1,0 +1,61 @@
+__contribute: 1
+__contributors:
+  - arvicco
+  - bobsummerwill
+  - cseberino
+  - dax-classix
+  - dax-classix
+  - gitr0n1n
+  - IstoraMandiri
+  - lgn21st
+  - matthewjamesr
+  - ProphetDaniel
+  - ProphetDaniel
+  - pyskell
+  - realcodywburns
+  - redsn0w0
+  - TheEnthusiasticAs
+  - Zorlin
+items:
+  main:
+    __type: links
+    title: crwdns67820:0crwdne67820:0
+    description: crwdns67822:0crwdne67822:0
+    items:
+      Declaration of Independence:
+        name: crwdns67824:0crwdne67824:0
+        __link: /blog/2016-08-13-declaration-of-independence
+        description: crwdns67828:0crwdne67828:0
+      A Crypto-Decentralist Manifesto:
+        name: crwdns67830:0crwdne67830:0
+        __link: /blog/2016-07-11-manifesto
+        description: crwdns67834:0crwdne67834:0
+      Ethereum Classic Vision:
+        name: crwdns67836:0crwdne67836:0
+        __link: https://etherplan.com/2019/08/14/ethereum-classic-vision/8595/
+        description: crwdns67840:0crwdne67840:0
+      keepEtcClassic:
+        name: crwdns67842:0crwdne67842:0
+        __link: https://ethereumclassicclassic.org
+        description: crwdns67846:0crwdne67846:0
+  past:
+    __type: links
+    title: crwdns67850:0crwdne67850:0
+    description: crwdns67852:0crwdne67852:0
+    items:
+      The idea of Smart Contracts:
+        name: crwdns67854:0crwdne67854:0
+        __link: https://web.archive.org/web/20020316215014/http://szabo.best.vwh.net/idea.html
+        description: crwdns67858:0crwdne67858:0
+      Bitcoin A Peer-to-Peer Electronic Cash System:
+        name: "crwdns67860:0crwdne67860:0"
+        __link: https://bitcoin.org/en/bitcoin-paper
+        description: crwdns67864:0crwdne67864:0
+      ethWhitepaper:
+        name: "crwdns67866:0crwdne67866:0"
+        __link: https://ethereum.org/en/whitepaper/
+        description: crwdns67870:0crwdne67870:0
+      ethYellowPaper:
+        name: "crwdns67872:0crwdne67872:0"
+        __link: https://ethereum.github.io/yellowpaper/paper.pdf
+        description: crwdns67876:0crwdne67876:0
