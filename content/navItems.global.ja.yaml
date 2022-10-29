@@ -1,0 +1,242 @@
+learn:
+  name: 学ぶ
+  navItems:
+    faqs:
+      name: よくあるご質問
+      description: 各ステークホルダーからのよくある質問
+      navItems:
+        users:
+          name: ユーザー
+          description: ETCの使い方を知りたい方はこちら
+        researchers:
+          name: 研究者紹介
+          description: Classicのことを聞いたばかりですか？
+        investors:
+          name: 投資家情報
+          description: ETCの購入に興味がありますか？
+        miners:
+          name: 鉱山労働者
+          description: ETCの採掘方法について知りたい方はこちら
+        developers:
+          name: デベロッパー
+          description: ETCを搭載してみませんか？
+        contributors:
+          name: 投稿者
+          description: このプロジェクトに協力しませんか？
+    whyClassic:
+      name: なぜクラシックなのか？
+      description: イーサリアムクラシックの存在意義と独自の価値提案については、こちらをご覧ください。
+      navItems:
+        codeIsLaw:
+          name: Code is Law
+        genesis:
+          name: ジェネシス
+        decentralism:
+          name: ディセントラリズム
+        ethBtcEtc:
+          __name: エス＋ビーティーシー＝エトセトラ
+        soundMoney:
+          name: サウンドマネー
+        proofOfWork:
+          name: プルーフオブワーク
+    #etcVsEth:
+    #__link: /why-classic/etc-vs-eth
+    #name: ETC vs ETH
+    knowledge:
+      name: ナレッジ
+      description: ETCを支える基盤についての詳細情報
+      navItems:
+        foundation:
+          name: 財団
+          description: ETCの揺るぎない哲学的基盤を形成する基本理念
+        theory:
+          name: 理論編
+          longName: 理論・研究
+          description: Ethereum Classicのロジックをコミュニティからのピースで深く掘り下げる
+        investing:
+          name: 投資について
+          longName: 投資家向けリソース
+          description: イーサリアムクラシックの価値提案とシックゲインの可能性に関する情報
+        forks:
+          name: フォークス
+          longName: プロトコルのアップグレード
+          description: ETCに機能追加やバグフィックスを行った過去と未来のHard Forkの記録。
+        history:
+          name: 沿革
+          longName: クラシックヒストリー
+          description: イーサリアムクラシックの歴史における現在までの主な出来事を年表にしました。
+        future:
+          name: 未来
+          longName: フューチャー・クラシック
+          description: ETCにおける意思決定プロセスの概要と、それがプロトコルを導くかもしれない場所
+        metamask:
+          name: メタマスク
+          longName: MetaMaskをETCで使用する
+          description: MetaMaskの設定方法とDappsと対話するための代替手段
+    videos:
+      name: 動画
+      description: ETCのコンセプトやハプニングを伝えるビデオやポッドキャストの数々
+      navItems:
+        explainers:
+          name: 説明者
+        discussions:
+          name: ディスカッション
+        trading:
+          name: トレーディング
+        development:
+          name: 開発
+        tutorials:
+          name: チュートリアル
+        mining:
+          name: 鉱業
+        conferences:
+          name: コンファレンス
+          navItems:
+            2017:
+              name: 2017年 香港
+            2018:
+              name: 2018 ソウル
+            2019:
+              name: 2019年バンクーバー
+        other:
+          name: その他
+#memes:
+#__link: /memes
+#__icon: images
+#name: Memes
+#description: Spreading the good word of ETC involves winning the battle of hearts and minds through the whimsicalities of information warfare
+#navItems:
+#mediaKit:
+#__link: /memes/media-kit
+#name: Media Kit
+#charts:
+#__link: /memes/charts
+#name: Charts
+#etc:
+#__link: /memes/etc
+#name: Etcetera
+play:
+  name: プレイ
+  navItems:
+    services:
+      name: サービス内容
+      description: ETCと連携するアプリ、ウォレット、取引所。100％未監査なので、ラグプルに注意
+      navItems:
+        wallets:
+          name: 財布
+          description: ETC、トークン、NFT、その他の資産を保管・管理するためのソフトウェア
+        exchanges:
+          name: 取引所
+          description: ETCを購入・取引する場所
+        apps:
+          name: アプリ
+          longName: アプリとプロトコル
+          description: Ethereum Classicを活用したアプリケーションのエコシステム
+          navItems:
+            nfts:
+              name: 新日鉄住金
+            games:
+              name: ゲーム
+            identity:
+              name: アイデンティティ
+            interoperability:
+              name: インターオペラビリティ
+            finance:
+              name: ファイナンス
+            other:
+              name: その他
+    community:
+      name: コミュニティ
+      description: ETCに興味のある方とのコミュニケーションに憧れる方は、以下の方法で探してみてください。
+      navItems:
+        channels:
+          name: チャンネル
+          longName: ソーシャルメディアチャネル
+          description: ETCについてみんなで話し合うためのアカウント、チャットルーム、フォーラムなどの一覧です。
+        teams:
+          name: チーム紹介
+          longName: デベロッパーチーム
+          description: Ethereum Classicに取り組んでいる人たちの情報
+        events:
+          name: イベント情報
+          description: 年間を通じて定期的に開催されるETCコミュニティへの参加
+    #bounties:
+    #__link: /community/bounties
+    #name: Bounties
+    #dao:
+    #__link: /community/daos
+    #name: DAOs
+    network:
+      name: ネットワーク
+      description: RPCエンドポイント、エクスプローラ、ネットワークモニタ、その他技術者向けリソース
+      navItems:
+        endpoints:
+          name: エンドポイント
+          longName: RPCエンドポイント
+          description: ETCネットワークと通信するための公共・民間サービス
+        explorers:
+          name: エクスプローラーズ
+          longName: ブロックチェーンエクスプローラーズ
+          description: トランザクション、ブロック、その他の洞察を得るためにチェーンを検査するツール
+        monitors:
+          name: モニター
+          longName: ネットワークモニター
+          description: ネットワークの健全性や状態を様々な指標で確認できるツール
+    #statistics:
+    #__link: /network/statistics
+    #name: Statistics
+    mining:
+      name: 鉱業
+      description: プール、ソフトウェア、ハードウェアの要件は、楽しみながら利益を得るためにETCを採掘するのに役立ちます。
+      navItems:
+        hardware:
+          name: ハードウェア
+          description: ETCを採掘して利益を得るためには、どのような機器を使用するのが良いのかについての情報です。
+        software:
+          name: ソフトウェア
+          longName: マイニングソフトウェア
+          description: 様々なOSでETCを採掘できるツールのリスト
+        pools:
+          name: プール
+          longName: マイニングプール
+          description: マイニングプールに参加すると、発見されたブロックではなく、ハッシュパワーに基づいて利益を得ることができます。
+    develop:
+      name: 開発
+      description: テストネット、ツーリング、クライアント、ETCプロトコルそのものへの貢献方法に関する情報など
+      navItems:
+        development:
+          name: ガイド
+          longName: デベロッパーガイド
+          description: Ethereum ClassicでDappsを構築するためのTurorialを集めました。
+        clients:
+          name: 取引先
+          description: クライアントソフトウェアはネットワークのバックボーンであり、ETCプロトコルを実装している
+        testnets:
+          name: テストネット
+          description: アプリやプロトコルのアップグレードを本番前に公開テストするためのネットワーク
+        tooling:
+          name: ツーリング
+          longName: デベロッパーツール
+          description: 職人は道具次第と言いますから、良い道具を選ぶようにしましょう。
+        repos:
+          name: レポジトリー
+          longName: Gitレポジトリ
+          description: Ethereum Classic関連プロジェクトのレポ一覧です。
+        ecips:
+          name: ECIPs
+          description: Ethereum Classicの改善提案の概要と承認された提案
+news:
+  name: ニュース
+extra:
+  name: エクストラ
+  navItems:
+    news:
+      name: ニュース
+    blog:
+      name: ブログ
+    about:
+      name: について
+    rss:
+      name: RSSフィード
+    siteMap:
+      name: サイトマップ
