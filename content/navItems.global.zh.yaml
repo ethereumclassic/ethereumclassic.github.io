@@ -70,7 +70,7 @@ learn:
           longName: 未来的经典
           description: 概述ETC的决策过程，以及它可能导致协议的情况
         metamask:
-          name: 屏蔽器（MetaMask
+          name: 屏蔽器(MetaMask
           longName: 在ETC中使用MetaMask
           description: 如何配置MetaMask和替代方案来与dapps互动
     videos:

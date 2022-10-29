@@ -1,6 +1,6 @@
 title: 矿工常见问题
 seo: 为那些希望开采Ethereum Classic工作证明区块链的人提供的常见问题解答。
-info: '在这里找不到你的问题的答案？请尝试在ETC社区 [discord](https://ethereumclassic.org/discord)服务器中提问。具体来说，你可能会发现ETC Discord的`#trading''频道很有意思。'
+info: "在这里找不到你的问题的答案？请尝试在ETC社区 [discord](https://ethereumclassic.org/discord)服务器中提问。具体来说，你可能会发现ETC Discord的`#trading'频道很有意思。"
 description: 你是一名矿工或有兴趣学习如何开采ETC吗？这个页面是为你准备的。
 __contribute: 1
 items:
@@ -41,7 +41,7 @@ items:
       ethash:
         question: 什么是Ethereum Classic的挖矿算法？
         answer: |
-          Ethereum Classic使用 [ETCHash]（#TODO）挖矿算法，是Ethereum的ETHash的近亲，DAG大小较小。被用于挖掘合并前ETH的硬件也可以用于挖掘ETC。
+          Ethereum Classic使用 [ETCHash](#TODO)挖矿算法，是Ethereum的ETHash的近亲，DAG大小较小。被用于挖掘合并前ETH的硬件也可以用于挖掘ETC。
       emission:
         question: 什么是Ethereum Classic区块奖励？
         answer: |
@@ -51,19 +51,19 @@ items:
 
           - 交易费用
           - 叔叔率
-          - MEV（矿工可提取价值）
+          - MEV(矿工可提取价值)
       asics:
         question: 以太坊经典版的挖矿算法对ASIC有抵抗力吗？
         answer: |
-          ETHash最初被设计为内存困难，目的是使ASIC（如那些为比特币的SHA256算法设计的）的使用不可行。
+          ETHash最初被设计为内存困难，目的是使ASIC(如那些为比特币的SHA256算法设计的)的使用不可行。
 
-          随着时间的推移，人们意识到[不存在所谓的ASIC阻力](#TODO)。最终，所有的挖矿算法，如果有利可图，将激励芯片设计者为该特定算法提出优化方案，这发生在ETHash上（并被ETCHash继承）。
+          随着时间的推移，人们意识到[不存在所谓的ASIC阻力](#TODO)。最终，所有的挖矿算法，如果有利可图，将激励芯片设计者为该特定算法提出优化方案，这发生在ETHash上(并被ETCHash继承)。
 
           截至2022年，ASIC可以比GPU更有效地挖掘ETCHash的2到6倍的能量，而且这种趋势可能会继续。
       rewards:
         question: ETC的区块奖励有多大比例给了矿工？
         answer: |
-          100%.与许多其他项目不同的是，这些项目有%的区块奖励进入集中式国库系统，ETC在这方面保持完全中立。2021年，像这样的[国库建议]（#TODO）被ETC社区拒绝。
+          100%.与许多其他项目不同的是，这些项目有%的区块奖励进入集中式国库系统，ETC在这方面保持完全中立。2021年，像这样的[国库建议](#TODO)被ETC社区拒绝。
       sha3:
         question: 以太坊经典版正在将它的挖矿算法改为SHA3？
         answer: |

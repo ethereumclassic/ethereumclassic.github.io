@@ -1,6 +1,6 @@
 title: 投资者常见问题
 seo: 为那些希望了解Ethereum Classic的价值主张或购买和交易ETC的人提供常见问题。
-info: '在这里找不到你的问题的答案？请尝试在ETC社区 [discord](https://ethereumclassic.org/discord)服务器中提问。具体来说，你可能会发现ETC Discord的`#trading-talk''频道有兴趣。'
+info: "在这里找不到你的问题的答案？请尝试在ETC社区 [discord](https://ethereumclassic.org/discord)服务器中提问。具体来说，你可能会发现ETC Discord的`#trading-talk'频道有兴趣。"
 __contribute: 1
 description: 对投资Ethereum Classic感兴趣，想了解更多关于它的价值主张？下面是一些常见相关问题的答案。
 items:
@@ -9,7 +9,7 @@ items:
       trade:
         question: 我在哪里可以购买和交易ETC？
         answer: |
-          以太坊经典几乎在每一个主要（和体面的小）交易所都有上市，并有链上DEX。你可以在 [exchanges]（/services/exchanges）部分了解更多。
+          以太坊经典几乎在每一个主要(和体面的小)交易所都有上市，并有链上DEX。你可以在 [exchanges](/services/exchanges)部分了解更多。
       policy:
         question: ETC的货币政策是什么？
         answer: |

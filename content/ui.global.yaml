@@ -43,7 +43,7 @@ search:
 ## Announcement Banner
 announcement:
   __color: green
-  __enabled: 0
+  __enabled: 1
   __allPages: 0
   __alli18nPages: 1
   __icon: language

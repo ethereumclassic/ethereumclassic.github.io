@@ -7,9 +7,9 @@ description: |
 
   下面的建议并不是认可，只是为了帮助新用户快速找到一个可能适合他们的选项。
 
-  - 如果你想要一个简单的移动应用程序，[Trust Wallet]（https://trustwallet.com/ethereum-classic-wallet）很容易使用，并支持包括ETC在内的许多货币。
-  - 如果你想持有少量ETC用于去中心化的应用程序，那么可以试试 [MetaMask]（/guides/metamask），并将其连接到Ethereum Classic。
-  - 如果你为你的业务接受ETC，你可能只想创建一个 [exchange]（/services/exchanges）账户，你可以用它来出售你的本地货币。
+  - 如果你想要一个简单的移动应用程序，[Trust Wallet](https://trustwallet.com/ethereum-classic-wallet)很容易使用，并支持包括ETC在内的许多货币。
+  - 如果你想持有少量ETC用于去中心化的应用程序，那么可以试试 [MetaMask](/guides/metamask)，并将其连接到Ethereum Classic。
+  - 如果你为你的业务接受ETC，你可能只想创建一个 [exchange](/services/exchanges)账户，你可以用它来出售你的本地货币。
   - 如果你持有较大的金额，强烈建议你购买一个[硬件钱包](#hardware-wallets)。
   - 对于更高级的使用情况，请自己研究并尝试以下几个选项。
 items:
