@@ -1,6 +1,6 @@
 ---
 updated: 2022-02-22
-title: Investor Resources
+title: 投資家向けリソース
 contributors:
   - arvicco
   - dax-classix
@@ -10,13 +10,13 @@ contributors:
   - ProphetDaniel
   - pyskell
   - TheEnthusiasticAs
-seo: Research materials for investors looking to learn more about Ethereum Classic's long term value proposition.
+seo: イーサリアムクラシックの長期的な価値提案について知りたい投資家向けの研究資料です。
 ---
 
-Ethereum Classic presents a unique investment opportunity as it is one of the few truly neutral blockchain projects. The protocol treats all participants equally. This means that if you purchase ETC, you are contributing directly to the network's security, and there is no central organization that disproportionately benefits from this contribution.
+イーサリアムクラシックは、数少ない真に中立的なブロックチェーンプロジェクトであるため、ユニークな投資機会を提供しています。 プロトコルは、すべての参加者を平等に扱います。 つまり、ETCを購入すれば、ネットワークのセキュリティに直接貢献することになり、この貢献から不当に利益を得る中央の組織は存在しない。
 
-On chains that have an undiluted premine or a dev team that receives a portion of the block reward, not only does this group tax your contribution, but it will be diverted away from network security, either directly from miners or in the form of negative price pressure as value is liquidated to pay for this group's expenses.
+原始的なプレミンやブロック報酬の一部を受け取る開発チームを持つチェーンでは、このグループはあなたの貢献に課税するだけでなく、ネットワークセキュリティから、採掘者から直接、またはこのグループの経費を支払うために価値が清算されることで負の価格圧力という形で流用されることになります。
 
-Ethereum Classic, thanks to the [ultrafair redistribution](/why-classic/genesis#free-money-and-the-ultrafair-redistribution), does not have a central organization that is continually liquidating their premine, which pushes the price down at the expense of holders. Moreover, as with Bitcoin, ETC has a known future supply rather than one that can be inflated away at the whim of an opaque organizing committee, which redistributes value away from holders.
+Ethereum Classicは、 [ultrafair redistribution](/why-classic/genesis#free-money-and-the-ultrafair-redistribution)のおかげで、そのプレミンを継続的に清算する中央組織を持たず、保有者の犠牲の上に価格が押し下げられることになります。 さらに、ビットコインと同様に、ETCは不透明な組織委員会の気まぐれで膨らませることができるものではなく、将来の供給が分かっており、保有者から価値を再分配することができます。
 
-The following materials discuss relevant information aimed at investors and those looking to understand the potential upside and value proposition of ETC.
+以下の資料は、投資家およびETCの潜在的なアップサイドと価値提案を理解することを目的とした関連情報を説明するものです。
