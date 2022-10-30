@@ -1,0 +1,20 @@
+title: Αποθετήρια Git
+description: Ένα συνονθύλευμα από διάφορα αποθετήρια ανοιχτού κώδικα για προγραμματιστές του Ethereum Classic.
+items:
+  repos:
+    items:
+      EthereumClassic:
+        name: Κύριος οργανισμός Github
+        description: Ο κύριος οργανισμός Ethereum Classic Github, που περιέχει μια σειρά από αποθετήρια, μια επιλογή από τα οποία θα επισημάνουμε παρακάτω...
+      eth-classic:
+        name: Εναλλακτική οργάνωση Github
+        description: Ένας άλλος οργανισμός Github που διαχειρίζεται η κοινότητα και περιλαμβάνει διαμορφώσεις testnet, ETCHash, Besu κ.λπ.
+      etcLabs:
+        name: ETC Labs
+        description: Οργανισμός που περιέχει πολλά αποθετήρια Ethereum Classic που προηγουμένως συντηρούνταν από την ETC Labs, συμπεριλαμβανομένου του core-geth.
+      website:
+        name: Ιστοσελίδα ETC
+        description: Ο πηγαίος κώδικας αυτής της ίδιας της ιστοσελίδας, συμπεριλαμβανομένων οδηγιών για το πώς να συνεισφέρετε.
+      awesomeEtc:
+        name: Φοβερό ETC
+        description: Μια καταπληκτική λίστα με πόρους για το έργο Ethereum Classic (ETC).
