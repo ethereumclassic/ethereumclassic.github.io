@@ -1,0 +1,85 @@
+title: FAQ sur les mineurs
+seo: Foire aux questions pour ceux qui cherchent à miner la blockchain Ethereum Classic Proof of Work.
+info: 'Vous ne trouvez pas de réponse à votre question ici ? Essayez de la poser sur le serveur de la communauté ETC [discord](https://ethereumclassic.org/discord). Plus précisément, le canal `#trading` du Discord du CTE pourrait vous intéresser.'
+description: Êtes-vous un mineur ou désirez-vous apprendre à miner les ETC ? Cette page est pour vous.
+items:
+  questions:
+    items:
+      hardware:
+        question: De quel matériel ai-je besoin pour exploiter l'ETC ?
+        answer: |
+          Les deux principales catégories de matériel qui peuvent être utilisées pour miner Ethereum Classic sont les GPU et les ASIC, et dans chaque catégorie il y a de nombreuses options. Vous pouvez trouver un petit guide sur la façon de décider quoi utiliser dans la section [matériel minier](/mining/hardware).
+      software:
+        question: Quel logiciel puis-je utiliser pour exploiter les ETC ?
+        answer: |
+          En fonction de votre système d'exploitation, il existe un certain nombre d'options. Consultez le [logiciel de minage](/mining/software) pour trouver les outils qui vous conviennent. Vous trouverez également des didacticiels vidéo en ligne en recherchant "Comment miner Ethereum Classic".
+      switch:
+        question: Je minais auparavant de l'ETH. Que dois-je faire pour passer à l'ETC ?
+        answer: |
+          L'algorithme de hachage d'Ethereum Classic est presque identique à celui d'ETHash, il prend donc en charge le même matériel, et l'exploitation d'ETC devrait être aussi simple que de passer à un pool minier qui prend en charge ETC.
+      pools:
+        question: Qu'est-ce qu'un pool minier ?
+        answer: |
+          Comme Ethereum Classic bénéficie d'un taux de hachage important, il est très peu probable qu'un petit mineur solo ait la chance de miner un bloc à lui tout seul. Pour cette raison, à moins que vous ne disposiez d'une grande opération minière, les mineurs solitaires rejoignent généralement un pool minier pour recevoir des récompenses plus petites et plus régulières, proportionnelles au taux de hachage auquel ils contribuent.
+      poolsList:
+        question: Quels sont les pools miniers qui supportent l'ETC ?
+        answer: |
+          Vous pouvez trouver une liste des pools qui supportent Ethereum Classic dans la section [mining pools](/mining/pools), et des mesures sur la taille de ces pools dans la section [network monitors](/network/monitors).
+      bestPool:
+        question: Quel est le meilleur pool minier ?
+        answer: |
+          Recherchez un pool dont les frais sont faibles et qui est suffisamment grand pour trouver des blocs assez régulièrement. Vous ne devriez pas nécessairement vouloir rejoindre le plus grand pool, car l'équilibrage du hashrate entre les différents pools permet de maintenir la décentralisation d'Ethereum Classic.
+      schedule:
+        question: Est-il rentable de miner de l'ETC ?
+        answer: |
+          Ethereum Classic est actuellement la plus grande cryptocurrency minable par GPU en termes de revenus nets, avec la plus grande valeur totale en USD des récompenses de blocs.
+
+          Comme pour toutes les opérations de minage de crypto-monnaies, la possibilité de réaliser un bénéfice dépend d'un certain nombre de facteurs, tels que l'efficacité du matériel et l'échelle, mais est largement déterminée par le coût de l'électricité dans votre région.
+
+          Certains utilisateurs peuvent décider de miner à perte, car cela leur permet d'acquérir des ETC "frais" pour des transactions qui n'ont aucune provenance.
+      ethash:
+        question: Quel est l'algorithme minier d'Ethereum Classic ?
+        answer: |
+          Ethereum Classic utilise l'algorithme de minage [ETCHash](#TODO), un proche cousin de l'ETHash d'Ethereum, avec une taille de DAG plus petite. Le matériel qui était utilisé pour miner l'ETH avant la fusion peut également être utilisé pour miner l'ETC.
+      emission:
+        question: Quelle est la récompense du bloc Ethereum Classic ?
+        answer: |
+          Actuellement, la principale source de revenus des mineurs provient de la récompense de base fixe, comme indiqué dans le document ECIP-1017. Tous les 5 millions de blocs, cette récompense est réduite de 20 %, de manière similaire à la division par deux du Bitcoin.
+
+          Il existe également 3 sources de revenus supplémentaires que les mineurs doivent prendre en considération lors du calcul de la rentabilité, qui dépendent largement de l'utilisation du réseau :
+
+          - Frais de transaction
+          - Taux d'oncle
+          - MEV (Miner Extractable Value)
+      asics:
+        question: L'algorithme de minage d'Ethereum Classic est-il résistant aux ASIC ?
+        answer: |
+          ETHash a été conçu à l'origine pour être difficile à mémoriser, dans le but de rendre non viable l'utilisation d'ASIC (tels que ceux conçus pour l'algorithme SHA256 de Bitcoin).
+
+          Avec le temps, on s'est rendu compte que [la résistance des ASIC n'existe pas] (#TODO). Finalement, tous les algorithmes de minage, s'ils sont rentables, inciteront les concepteurs de puces à proposer des optimisations pour cet algorithme spécifique, ce qui s'est produit pour ETHash (et a été hérité par ETCHash).
+
+          En 2022, il existe des ASIC capables de miner l'ETCHash de 2 à 6 fois plus efficacement que les GPU, et il est probable que cette tendance se poursuive.
+      rewards:
+        question: Quel pourcentage de la récompense des blocs d'ETC va aux mineurs ?
+        answer: |
+          100%. Contrairement à de nombreux autres projets, dont un % des récompenses en bloc va à un système de trésorerie centralisé, l'ETC reste totalement neutre à cet égard. En 2021, une [proposition de trésorerie] (#TODO) comme celle-ci a été rejetée par la communauté ETC.
+      sha3:
+        question: Est-ce que Ethereum Classic change son algorithme de minage pour SHA3 ?
+        answer: |
+          Très peu probable à ce stade.
+
+          Avant qu'Ethereum ne passe à la Proof of Stake, il y avait un débat en cours sur le passage d'ETC à SHA3, en partie pour se défendre de "l'inondation" du hashrate latent qui pourrait être utilisé pour attaquer la chaîne à 51% après la fusion.
+
+          Depuis la fusion, loin d'être attaqué, ETC est devenu le "prédateur suprême" de la famille d'algorithmes miniers ETHash, ce qui le rend beaucoup plus difficile à attaquer à 51 %. Le passage à un algorithme SHA3 entièrement nouveau sacrifierait cette position sécurisée et ne fait plus l'objet d'un débat actif.
+      pos:
+        question: Les ETC passeront-ils à la méthode Proof of Stake à l'avenir ?
+        answer: |
+          Alors que tout changement à Ethereum Classic est techniquement *possible*, un passage à Proof of Stake est pratiquement intenable, car un consensus s'est formé autour de la supériorité de Proof of Work en termes de résistance à la censure. Toute proposition visant à introduire Proof of Stake sur Ethereum Classic serait d'abord ridiculisée, et si elle était introduite de force dans le code client, elle provoquerait une scission de la chaîne résultant en deux chaînes. Quoi qu'il arrive, il y aura une version d'Ethereum Classic qui restera sur Proof of Work, rendant les tentatives de mise en œuvre de PoS largement infructueuses.
+
+          Vous pouvez en savoir plus dans la section [Proof of Work](/why-classic/proof-of-work).
+      uncle:
+        question: Qu'est-ce qu'un oncle ?
+        answer: |
+          Plusieurs mineurs sont en concurrence pour soumettre des blocs à la blockchain. Inévitablement, certains mineurs vont perdre la compétition. La blockchain fait référence aux blocs perdants pour rendre la blockchain plus sûre. Ces blocs perdants qui contribuent à la sécurité de la blockchain sont appelés "oncles". Ce terme vient du fait que les blocs ont des blocs précédents _parents_. Les blocs perdants ne sont pas des parents mais sont tout de même liés aux parents. Ils sont donc comme des oncles.
+
+          - [All About Ethereum - Uncles] (https://youtu.be/iIhxtuIhT_g)
