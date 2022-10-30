@@ -1,0 +1,103 @@
+title: Ethereum Classic
+seo: "แพลตฟอร์มการคำนวณแบบกระจายศูนย์ที่รันสัญญาอัจฉริยะ: แอปพลิเคชันที่ทำงานตรงตามที่ตั้งโปรแกรมไว้โดยไม่มีการหยุดทำงาน การเซ็นเซอร์ หรือการแทรกแซงจากบุคคลที่สาม"
+#Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
+metaLocale: th_US
+#Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
+htmlLang: en
+published: ที่ตีพิมพ์
+updated: อัพเดทล่าสุด
+author: ผู้เขียน
+timeline:
+  chronological: ตามลำดับเวลา
+  reversed: กลับด้าน
+disclaimers:
+  verify:
+    title: อย่าวางใจ ยืนยัน
+    text: ลิงก์ภายนอกเป็นการส่งชุมชนที่ไม่เป็นทางการ
+  opinion:
+    title: เนื้อหาที่แสดงความคิดเห็น
+    text: หน้านี้ไม่จำเป็นต้องสะท้อนถึงมุมมองของผู้มีส่วนได้ส่วนเสีย ETC ทั้งหมด
+next: อ่านต่อไป
+prev: บทความก่อนหน้านี้
+contribute: หากคุณต้องการมีส่วนร่วมโดยการเพิ่มหรือแก้ไขข้อมูลในหน้านี้ โปรดส่งข้อความที่ [Discord](https://discord.com/invite/dwxb6nf) หรือสร้างปัญหาใน [GitHub](https://github.com/ethereumclassic) /ethereumclassic.github.io)
+contributors: "หน้านี้มีอยู่แล้ว ขอบคุณส่วนหนึ่งจากผู้ร่วมให้ข้อมูลต่อไปนี้:"
+allLanguages: ทุกภาษา
+noResults: ไม่มีผลลัพธ์
+netlify: เว็บไซต์นี้จัดทำโดย Netlify
+metaMask: เพิ่ม ETC ไปยัง MetaMask
+helpTranslate: สนับสนุน ETC โดยช่วยแปลเว็บไซต์นี้!
+noItems: ขออภัย หน้านี้ว่างเปล่า!
+search:
+  box: ค้นหา
+  noResults: ไม่มีผลลัพธ์...
+  poweredBy: ขับเคลื่อนโดย Algolia
+  generalInfo: ข้อมูลทั่วไป
+  blogArticles: บทความบล็อก
+  videos: วีดีโอ
+  applications: แอปพลิเคชั่น
+  newsLinks: ลิงค์ข่าว
+  txSearch: ดูเหมือนว่าคุณได้ป้อนที่อยู่หรือธุรกรรม Ethereum Classic
+  blockScout: "ค้นหา Blockscout Explorer:"
+  explorers: ...หรือลองดู [นักสำรวจบล็อคเชน](/network/explorers) อื่นๆ
+##
+## Announcement Banner
+announcement:
+  text: |
+    ขณะนี้เว็บไซต์นี้ได้รับการแปลเป็นหลายภาษาผ่านการเรียนรู้ของเครื่อง คลิกไอคอนลูกโลกที่ด้านบนขวาของหน้าเพื่อเปลี่ยนภาษา หากคุณต้องการช่วยแก้ไขการแปล โปรดติดต่อเรา!
+  button:
+    text: "ช่วยแปล"
+## Footer
+signOff: สร้างด้วย `<3' สำหรับ Ethereum Vision ดั้งเดิม
+socialHilight: ชุมชน ETC เปิดใช้งานบน Discord
+socialItems:
+  discord:
+    name: ความไม่ลงรอยกัน
+  discordCoop:
+    name: ETC Coop Discord
+  githubOrg:
+    name: Github
+  githubLabs:
+    name: ETC Labs Github
+  reddit:
+    name: Reddit
+  twitter:
+    name: ทวิตเตอร์
+appTypes:
+  finance:
+    name: การเงิน
+  games:
+    name: เกม
+  identity:
+    name: ตัวตน
+  interoperability:
+    name: การทำงานร่วมกัน
+  nfts:
+    name: NFTs
+  other:
+    name: อื่น
+appLinks:
+  homepage: หน้าแรก
+  app: เว็บไซต์แอพ
+  twitter: ทวิตเตอร์
+  github: Github
+newsTypes:
+  news:
+    name: ลิงค์
+  blog:
+    name: บล็อก
+  application:
+    name: แอป
+    prefix: "แอป: "
+  video:
+    name: วีดีโอ
+    prefix: "วิดีโอ: "
+## App Modal
+appModal:
+  verifiedContract: สัญญา
+  openSource: โอเพ่นซอร์ส
+  audit: ตรวจสอบแล้ว
+  testSuite: ชุดทดสอบ
+  ipfsFrontend: IPFS Frontend
+  checkListRating: ระดับรายการตรวจสอบที่น่าเชื่อถือ
+  warning: "**คำเตือน:** แอปที่ผู้ใช้ส่งมานี้ไม่ได้รับการตรวจสอบและไม่รับประกันว่าจะปลอดภัย ใช้ความเสี่ยงของคุณเองและทำวิจัยของคุณเองเสมอ!"
+  added: เพิ่ม
