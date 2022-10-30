@@ -1,0 +1,108 @@
+title: Kênh xã hội
+seo: Tập hợp các phòng trò chuyện Ethereum Classic, tài khoản Twitter, nhóm thảo luận, diễn đàn, podcast, kho lưu trữ và các trang web khu vực.
+description: |
+  Sau đây là danh sách không đầy đủ các kênh và nhóm thảo luận Ethereum Classic đang hoạt động.
+
+  Trung tâm hoạt động chính trong cộng đồng ETC hiện tại là trên [Discord](https://ethereumclassic.org/discord).
+items:
+  Chat Rooms:
+    title: Các phòng chat
+    items:
+      chat Discord:
+        name: Bất hòa (Cộng đồng, Toàn cầu)
+      chat Discord Coop:
+        name: Sự bất hòa (ETC Coop)
+      chat Facebook English:
+        name: Facebook (tiếng Anh)
+      chat Facebook Vietnam:
+        name: Facebook (tiếng Việt)
+      chat Kakao Korea:
+        name: Kakao (tiếng Hàn)
+      chat Slack:
+        name: Slack (tiếng Anh)
+      chat WeChat:
+        name: WeChat (中文)
+  Development Chat:
+    title: Trò chuyện phát triển
+    items:
+      Core-Geth dev:
+        name: Core-Geth
+      ETC Core dev:
+        name: Lõi ETC
+      Hyperledger Besu dev:
+        name: Hyperledger Besu
+  Telegram Groups:
+    title: Nhóm Telegram
+    items:
+      telegram English:
+        name: Tiếng Anh
+      telegram Español:
+        name: Español
+      telegram Italia:
+        name: nước Ý
+      telegram Russia:
+        name: Nga
+      telegram Viet Nam:
+        name: Việt Nam
+      telegram China:
+        name: 中文
+  Forums:
+    title: Diễn đàn
+    items:
+      forum RedditEthereumClassic:
+        name: Reddit r / EthereumClassic
+      forum BitcoinTalk:
+        name: BitcoinTalk
+      forum Archived BitcoinTalk:
+        name: BitcoinTalk đã lưu trữ
+  Media:
+    title: Phương tiện truyền thông
+    items:
+      media ETCfInv:
+        name: Ethereum Cassic (ETC) dành cho nhà đầu tư
+      media EthereumClassicCC:
+        name: Cuộc gọi cộng đồng Ethereum Classic
+      media Etherplan:
+        name: Etherplan
+      media EVM61:
+        name: EVM61
+      media Explore The Chain:
+        name: Khám phá chuỗi
+      media Let's Talk ETC!:
+        name: Let's Talk ETC!
+  Twitter Accounts:
+    title: Tài khoản Twitter
+    items:
+      twitter China:
+        name: Trung Quốc
+      twitter English 1:
+        name: "@ETC_Network"
+      twitter English 2:
+        name: "@eth_classic"
+      twitter Español:
+        name: Español
+      twitter France:
+        name: Nước pháp
+      twitter Germany:
+        name: nước Đức
+      twitter Italia:
+        name: nước Ý
+      twitter Japan:
+        name: Nhật Bản
+      twitter Korea 1:
+        name: Hàn Quốc
+      twitter Korea 2:
+        name: Hàn Quốc
+      twitter Netherlands:
+        name: nước Hà Lan
+      twitter Turkey:
+        name: Thổ Nhĩ Kỳ
+      twitter Viet Nam:
+        name: Việt Nam
+  Regional Website:
+    title: Trang web khu vực
+    items:
+      website ETC Hub:
+        name: ETCHub.io
+      website EthereumClassic.cn:
+        name: EthereumClassic.cn
