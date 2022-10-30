@@ -1,0 +1,43 @@
+title: Câu hỏi thường gặp về cộng tác viên
+seo: Câu hỏi thường gặp dành cho những người muốn tham gia cộng đồng ETC và đóng góp cho Ethereum Classic.
+info: Không thể tìm thấy câu trả lời cho câu hỏi của bạn ở đây? Hãy thử hỏi trong máy chủ [discord](https://ethereumclassic.org/discord) của cộng đồng ETC.
+description: Nếu bạn muốn tìm hiểu về cách tham gia vào cộng đồng Ethereum Classic, bạn đang ở đúng nơi.
+items:
+  questions:
+    items:
+      developer:
+        question: Tôi có cần trở thành nhà phát triển để đóng góp cho Ethereum Classic không?
+        answer: Không có gì. Trong khi các nhà phát triển cung cấp giá trị quan trọng trong việc xây dựng cơ sở hạ tầng, một vai trò được cho là quan trọng hơn được đóng bởi những người không phải là nhà phát triển. Bất kể tài năng của bạn là gì, bạn có thể giúp đỡ theo những cách khác, chẳng hạn như bằng cách phối hợp và giúp truyền bá Ethereum Classic, lần lượt tuyển dụng thêm các nhà phát triển và các nhà tuyển dụng khác.
+      channels:
+        question: Tôi có thể tham gia cộng đồng ETC bằng cách nào?
+        answer: Bạn không cần phải xin phép để tham gia. Chỉ cần bắt đầu đóng góp!
+      tasks:
+        question: Tôi có thể trợ giúp những công việc gì?
+        answer: Danh sách những thứ mà dự án có thể sử dụng sự trợ giúp của bạn được duy trì trong [kho lưu trữ GitHub tình nguyện viên Ethereum Classic] (https://github.com/ethereumclassic/volunteer).
+      where:
+        question: Những người ủng hộ Ethereum Classic chủ yếu đi chơi ở đâu?
+        answer: Cộng đồng ETC nói tiếng Anh chủ yếu hoạt động trên [Discord](https://ethereumclassic.org/discord). Bạn có thể tìm các diễn đàn cộng đồng khác, bao gồm các diễn đàn bằng các ngôn ngữ khác, trong phần [Kênh xã hội] (/ community / channel).
+      ecips:
+        question: Làm cách nào để tôi có thể đề xuất các cải tiến cho Ethereum Classic?
+        answer: Để đề xuất nâng cấp giao thức, bạn có thể sử dụng quy trình [Đề xuất cải tiến Ethereum Classic] (/ development / ecips), nhưng trước tiên bạn nên thảo luận với các thành viên cộng đồng khác trong một trong các [Kênh xã hội] (/ community / channel) của ETC.
+      toxicity:
+        question: Tôi nghe nói rằng cộng đồng ETC là độc hại. Có đúng như vậy không?
+        answer: |
+          Bởi vì không ai cần sự cho phép để trở thành một phần của cộng đồng ETC, nó thu hút tất cả các loại nhân vật, từ cực kỳ tốt đẹp đến đôi khi có chút bất đồng hơn. Ngoài ra, nhiều ETCer và những người tham gia trong không gian tiền điện tử rộng lớn hơn là giả danh, do đó, có ít bộ lọc hơn. Đừng coi thái độ của một người là đại diện cho toàn bộ cộng đồng và xin đừng để điều này cản trở bạn đóng góp.
+
+          Nếu bạn thích một cuộc trò chuyện được kiểm duyệt hơn, hãy thử [ETC Coop Discord] (https://discord.gg/5wDyd6u6pU), thực thi các quy tắc chặt chẽ hơn về phép lịch sự trong giao tiếp.
+      events:
+        question: Có bất kỳ sự kiện Ethereum Classic nào không?
+        answer: Có, các hội nghị hàng năm, cuộc gọi cộng đồng hàng tuần và cuộc gọi nhà phát triển không thường xuyên được tổ chức. Bạn có thể tìm hiểu thêm về các sự kiện hiện tại, quá khứ và tương lai trong phần [events](/ community / events).
+      website:
+        question: Làm cách nào để thêm Ứng dụng, Video hoặc Bài viết của tôi vào trang web này?
+        answer: Vui lòng xem [kho lưu trữ GitHub] của trang web này (https://github.com/ethereumclassic/ethereumclassic.github.io) để được hướng dẫn.
+      tweets:
+        question: Làm cách nào tôi có thể đề xuất tweet?
+        answer: 'Tài khoản Twitter [@eth_classic] (https://github.com/ethereumclassic/tweets-eth_classic) và [@ETC_Network] (https://github.com/ethereumclassic/tweets-etc_network) chấp nhận các tweet do cộng đồng đề xuất. Chỉ cần tweet tweet được đề xuất của bạn với hashtag `# ETCtweets` và nó sẽ được cộng đồng xem xét trong chuỗi Discord` # ETCtweets`.'
+      grants:
+        question: Tôi có thể được trả tiền để đóng góp vào Ethereum Classic không?
+        answer: |
+          Phương thức thanh toán chính là thông qua cảm giác hạnh phúc mờ nhạt ấm áp, khi biết rằng bạn đang đóng góp cho tương lai của nhân loại bằng cách hỗ trợ cùng một công nghệ quan trọng.
+
+          Ngoài ra, thỉnh thoảng có các chương trình tài trợ mà bạn nên theo dõi bằng cách theo dõi cuộc trò chuyện trong cộng đồng.
