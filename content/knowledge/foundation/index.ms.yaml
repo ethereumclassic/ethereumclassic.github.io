@@ -1,0 +1,33 @@
+items:
+  main:
+    title: Prinsip Teras
+    description: Bahagian ini mengandungi pilihan artikel paling penting yang menyelami falsafah asas Yayasan Klasik Ethereum. Ini adalah idea yang akhirnya mengekalkan Visi Ethereum Asal.
+    items:
+      Declaration of Independence:
+        name: Pengisytiharan kemerdekaan
+        description: Pernyataan alasan ETC untuk menjadi, senarai rungutan, dan perihalan prinsip dan matlamatnya. Ia adalah salah satu dokumen pengasas awal Ethereum Classic, yang asalnya diterbitkan pada Ogos 2016 dan diterjemahkan ke dalam banyak bahasa.
+      A Crypto-Decentralist Manifesto:
+        name: Manifesto Crypto-Decentralist
+        description: Satu lagi dokumen berpengaruh dari zaman awal Ethereum Classic. Ia menggariskan nilai teras desentralisasi, dan membantu memaklumkan pembuatan keputusan dalam komuniti ETC.
+      Ethereum Classic Vision:
+        name: Wawasan Klasik Ethereum
+        description: Bagaimana Ethereum Classic akan menjadi platform pengkomputeran yang berjaya dan mengapa ETC ialah simpanan nilai yang sangat baik.
+      keepEtcClassic:
+        name: Mari Kekalkan Ethereum Klasik Klasik
+        description: Peringatan mendalam tentang kepentingan mempertahankan prinsip Ethereum Classic, sebagai tindak balas kepada Cadangan Perbendaharaan (kini ditarik balik).
+  past:
+    title: Bahu Gergasi
+    description: Ethereum Classic tidak boleh wujud tanpa projek-projek yang menjejaki jejak lain seperti asas blok blok asal dan falsafah desentralis Bitcoin, dan teknologi platform Kontrak Pintar lengkap Turing yang disediakan oleh The Ethereum Project.
+    items:
+      The idea of Smart Contracts:
+        name: Idea Kontrak Pintar
+        description: Idea kontrak pintar Nick Szabo dari tahun 1997.
+      Bitcoin A Peer-to-Peer Electronic Cash System:
+        name: "Bitcoin: Sistem Tunai Elektronik Peer-to-Peer"
+        description: Kertas putih asal Satoshi Nakamoto masih disyorkan untuk dibaca bagi sesiapa yang mengkaji cara Bitcoin dan Blockchain berfungsi.
+      ethWhitepaper:
+        name: "Kertas Putih Ethereum"
+        description: The Original Ethereum Whitepaper menerangkan bagaimana utiliti teknologi blockchain dilepaskan dengan "menyelesaikan masalah politik untuk menentukan siapa yang boleh mempengaruhi konsensus", dan konsep DAO, Stablecoin, dsb.
+      ethYellowPaper:
+        name: "Kertas Kuning Ethereum"
+        description: Penerangan teknikal asal Protokol Ethereum, oleh Gavin Wood
