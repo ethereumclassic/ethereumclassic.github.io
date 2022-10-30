@@ -1,0 +1,35 @@
+title: Màn hình mạng
+seo: Các công cụ để kiểm tra tình trạng của mạng Ethereum Classic và các số liệu thống kê chung như phát hành, số lượng giao dịch và lợi nhuận khai thác.
+description: |
+  Dưới đây là tuyển tập các công cụ cung cấp thông tin chi tiết về nhiều loại chỉ số liên quan đến Ethereum Classic. Họ cùng nhau cung cấp một phân tích phổ đầy đủ về sức khỏe và trạng thái của mạng.
+items:
+  monitors:
+    items:
+      etc-network.info:
+        description: Một trang web nhỏ để giúp bạn điều hướng các dịch vụ do etc-network.info cung cấp.
+      ETCNodes:
+        description: Trình khám phá nút mainnet Ethereum Classic.
+      2Miners:
+        description: Bảng điều khiển thống kê Ethereum Classic cung cấp các thống kê blockchain, đồ thị và các số liệu hiệu suất khác quan trọng nhất được thu thập trực tiếp từ các nút trực tuyến.
+      CoinMetrics:
+        description: Dữ liệu lịch sử chi tiết bao gồm một số chỉ số như giá, tốc độ băm, số lượng địa chỉ, số lượng giao dịch, v.v.
+      CoinWarz:
+        description: Thông tin khai thác Ethereum Classic - bao gồm máy tính khai thác Ethereum Classic, danh sách phần cứng khai thác Ethereum Classic, độ khó của Ethereum Classic với biểu đồ lịch sử, biểu đồ băm Ethereum Classic, cũng như giá Ethereum Classic hiện tại.
+      Emerald Insights:
+        description: Emerald Insights là một phần của dự án Emerald, được cho là cung cấp số liệu thống kê, giám sát và các thông tin nâng cao về tiền điện tử được Emerald sử dụng.
+      ForkWatch:
+        description: ForkWatch là một công cụ giám sát NiceHash cảnh báo về sự bất thường trên các thuật toán cụ thể trên thị trường NiceHash, đặc biệt khi giá thuê BTC / TH / Ngày thay đổi. Điều này giúp các bên liên quan của các đồng tiền cụ thể được cảnh báo trong trường hợp sức mạnh khai thác có khả năng được thuê cho một cuộc tấn công sắp xảy ra trên một mạng cụ thể.
+      MiningPoolStats:
+        description: Số liệu thống kê trực tiếp về trạng thái của các nhóm khai thác trên ETC, bao gồm phân phối khối, lịch sử băm, v.v.
+      Nanopool:
+        description: Khó khăn lịch sử, độ khó, thời gian chặn và giá cả.
+      PoolDetective:
+        description: Các nhóm khai thác là những người đóng vai trò quan trọng trong tiền điện tử bằng chứng công việc. Nhưng ai giám sát những gì họ yêu cầu thợ đào của họ làm việc? Sáng kiến tiền tệ kỹ thuật số của MIT đã bắt đầu một dự án vào mùa hè năm 2019 để bắt đầu giám sát hành vi của các nhóm khai thác.
+      TokenView:
+        description: Thống kê mạng lịch sử chuẩn.
+      WhatToMine:
+        description: Máy tính khả năng sinh lời để khai thác Ethereum Classic và các chuỗi khác.
+      Kotti Stats:
+        description: Thống kê mạng cho Ethereum Classic Kotti Testnet.
+      ua-mining:
+        description: Bảng điều khiển thống kê Ethereum Classic.
