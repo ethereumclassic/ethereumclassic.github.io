@@ -1,0 +1,91 @@
+title: FAQ's voor onderzoekers
+seo: Veelgestelde vragen voor wie de basis van Ethereum Classic onderzoekt of probeert te begrijpen.
+info: Kunt u hier geen antwoord op uw vraag vinden? Probeer het te vragen in de ETC-community [discord](https://ethereumclassic.org/discord) server.
+description: Als u net hebt gehoord over Ethereum Classic en meer wilt weten, of als u al ETC bezit maar meer wilt weten over zijn bestaansreden, dan is deze pagina voor u.
+items:
+  questions:
+    items:
+      what:
+        question: Wat is Ethereum Classic?
+        answer: |
+          Ethereum Classic is een Proof of Work Smart Contract Blockchain waarmee iedereen zonder toestemming gedecentraliseerde toepassingen kan bouwen, implementeren en gebruiken. Ethereum Classic is een grassroots open-source project gebouwd door mensen over de hele wereld zonder een centraal organiserend comité.
+
+          Filosofisch is ETC vergelijkbaar met Bitcoin, met de idealen van decentralisatie, censuurbestendigheid en gezond geld. Technologisch is het vergelijkbaar met Ethereum, met een EVM (Ethereum Virtual Machine).
+
+          De combinatie van deze twee benaderingen maakt Ethereum Classic in een unieke positie, met een sterke decentralistische basis geworteld in cypherpunk-idealen samen met de flexibiliteit en innovatie van Smart Contracts.
+      overview:
+        question: Is Ethereum Classic een rip-off van Ethereum?
+        answer: |
+          Nee. In feite is Ethereum een fork van Ethereum Classic.
+
+          In 2014 begonnen de oprichters van [Ethereum](https://ethereum.org/what-is-ethereum/) te werken aan een next-generation blockchain die de ambitie had om een algemeen, trust-minimized smart contract platform te implementeren.
+
+          In 2016, na een controversiële hard fork, werd een nieuwe versie van het protocol (nu bekend als Ethereum) gelanceerd door een nieuw netwerk met nieuwe consensusregels voort te brengen. Ethereum Classic bleef het non-forked protocol volgen met de missie om de originele Ethereum visie van "Build Unstoppable Applications" voort te zetten.
+      eth:
+        question: Wat is het verschil tussen Ethereum Classic en Ethereum?
+        answer: |
+          Ethereum Classic en Ethereum waren ooit hetzelfde project, maar door een verschil in filosofie gingen de gemeenschappen in 2016 uit elkaar. In 2022 schakelde Ethereum over op Proof of Stake, terwijl Classic op Proof of Work bleef. Dit betekende het eerste grote technologische verschil tussen de twee ketens.
+
+          Afgezien van hun consensusmechanismen blijven ETC en ETH technologisch zeer vergelijkbaar, en ETC handhaaft de EVM-compatibiliteit, zodat contracten die op Ethereum worden ingezet ook gemakkelijk op Ethereum Classic kunnen worden ingezet.
+
+          Meer informatie over de splitsing tussen Ethereum en Ethereum Classic vindt u in de secties [history](/kennis/geschiedenis) en [geneis](/waarom-classic/genesis).
+      whitepaper:
+        question: Heeft Ethereum Classic een whitepaper?
+        answer: |
+          Omdat Ethereum een fork is van Ethereum Classic, delen beide projecten tot 2016 dezelfde geschiedenis, inclusief voorafgaande documenten zoals de Ethereum [Whitepaper](https://ethereum.org/en/whitepaper/) en [Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf).
+
+          Na de splitsing met Ethereum publiceerden ETC-aanhangers een aantal documenten waarin de verschillen in filosofie werden gedetailleerd, die deel gingen uitmaken van het DNA van het Ethereum Classic-project. U kunt meer lezen over de oprichtingsdocumenten van Ethereum Classic in de sectie [foundation](/knowledge/foundation).
+      roadmap:
+        question: Waar kan ik de roadmap van Ethereum Classic vinden?
+        answer: |
+          Net als bij Bitcoin is er, als gedecentraliseerd project zonder top-down leiderschap, geen formele uitvoerende routekaart. Het protocol wordt voortdurend verbeterd door samenwerking aan de basis via het [Ethereum Classic Improvement Proposal](/ontwikkeling/ecips) (ECIP) proces.
+
+          U kunt meer vinden over potentiële upgrades in de [future](/kennis/toekomst) sectie.
+      origins:
+        question: Waarom bestaat Ethereum Classic?
+        answer: |
+          De missie van Ethereum Classic is het voortzetten van de oorspronkelijke Ethereum-visie van "Build Unstoppable Applications" belichaamd in het ideaal van "Code is Law".
+
+          Op technisch niveau bestaat Ethereum Classic als een voortzetting van Ethereum, dat zich in 2016 afsplitste van ETC en door het stoppen van de uitvoering van een applicatie die erop draait. De details van deze gebeurtenis kunt u vinden op [geneis](/why-classic/genesis).
+      codeIsLaw:
+        question: Wat betekent "Code is wet"?
+        answer: |
+          "Code is wet" is een ideaal waarbij geen enkele autoriteit de mogelijkheid heeft om zich te mengen in de werking van geldige contracten en transacties op de keten, wat veelbelovende voordelen mogelijk maakt die het potentieel hebben om de toestand in de wereld enorm te verbeteren.
+
+          Het alternatief, "Code is geen wet", was de standaard stand van zaken vóór de opkomst van blockchaintechnologie, waarbij corrupte besluitvormingsprocessen buiten de keten het resultaat van contracten en transacties bepalen.
+
+          Over de nuance van dit concept kunt u meer leren in de sectie [Code is Wet](/why-classic/code-is-law).
+      decentralization:
+        question: Waarom zou ik me druk maken over decentralisatie?
+        answer: |
+          Decentralisatie is een voorwaarde voor "Code is wet". Het stelt deelnemers in staat om op een gelijk speelveld te opereren, en ontsluit de fundamentele waarde van blockchaintechnologie. Veel blockchainprojecten zijn, ondanks hun beweringen, niet voldoende gedecentraliseerd, waardoor ze vatbaar zijn voor vastlegging en censuur.
+
+          U kunt hierover meer leren in de sectie [decentralism](/why-classic/decentralism).
+      who:
+        question: Wie heeft de leiding over het Ethereum Classic Project?
+        answer: |
+          Net als bij Bitcoin heeft geen enkele entiteit de leiding over het Ethereum Classic Project. In plaats daarvan dragen individuen en teams die een gemeenschappelijke reeks principes volgen bij aan een toestemmingsvrije grassroots do-ocratie. Hoewel deze organisatiestructuur enkele nadelen heeft, maakt zij het project ook immuun voor bepaalde vormen van inbezitneming en bevordert zij daarom het voortbestaan op lange termijn.
+
+          Er is daarom geen top-down leiderschap en "geen officieel iets" in ETC, inclusief deze website en zelfs de Ethereum Classic client software. Toch zijn er prominente teams die binnen het ecosysteem opereren en informele invloed verwerven op basis van hun reputatie, staat van dienst en bijdragen.
+
+          U kunt meer te weten komen over de zelforganiserende gemeenschap van Ethereum Classic in de secties [community](/community) en [foundation](/knowledge/foundation).
+      proofOfWork:
+        question: Waarom gebruikt Ethereum Classic geen Proof of Stake?
+        answer: |
+          Aangezien Ethereum Classic een hoge prioriteit geeft aan censuurbestendigheid, heeft de gemeenschap besloten om het beproefde Proof of Work-consensusmechanisme te blijven gebruiken. Er zijn vele redenen waarom de verschillende varianten van Proof of Stake niet dezelfde veiligheidsgaranties kunnen bieden als PoW, maar in het kort komt het erop neer dat ze allemaal veiligheids- of decentralisatieafwegingen maken die ze gevoeliger maken voor censuur.
+
+          U kunt meer leren over de beslissing van Ethereum Classic om niet over te schakelen op Proof of Stake in de sectie [Proof of Work](/why-classic/proof-of-work).
+      stats:
+        question: Hoe kan ik de netwerkstatus van Ethereum Classic te weten komen?
+        answer: |
+          U kunt informatie vinden over de gezondheid en de toestand van ETC in de secties [netwerkmonitors](/network/monitors) en [blockchain explorer](/network/explorers), evenals prijsinformatie op verschillende [exchanges](/services/exchanges).
+
+          Met name de website [etc-network.info](https://etc-network.info/) onderhoudt een aantal monitoringdiensten.
+      news:
+        question: Hoe kan ik op de hoogte blijven van de gebeurtenissen bij ETC?
+        answer: |
+          De sectie [News](/news) wordt regelmatig bijgewerkt met belangrijk nieuws en community blog posts, waar je ook een RSS feed kunt vinden.
+
+          Er zijn ook veel bronnen van updates beschikbaar van de gemeenschap [Social Channels](/community/channels). Met name de Ethereum Classic gemeenschap [Discord Server](https://ethereumclassic.org/discord) en [/r/ethereumclassic](https://reddit.com/r/ethereumclassic).
+
+          U kunt ook ontwikkelingsupdates volgen in de [Ethereum Classic Github](https://github.com/ethereumclassic) en [ETC Labs Github](https://github.com/etclabscore) organisaties.
