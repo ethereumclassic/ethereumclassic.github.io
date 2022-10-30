@@ -1,0 +1,20 @@
+title: Kho lưu trữ Git
+description: Một tập hợp các kho lưu trữ mã nguồn mở linh tinh dành cho các nhà phát triển Ethereum Classic.
+items:
+  repos:
+    items:
+      EthereumClassic:
+        name: Tổ chức Github chính
+        description: Tổ chức Github Ethereum Classic chính, chứa một số kho lưu trữ, chúng tôi sẽ nêu bật lựa chọn trong số đó dưới đây ...
+      eth-classic:
+        name: Tổ chức Github thay thế
+        description: Một Tổ chức Github do cộng đồng quản lý bao gồm các cấu hình testnet, ETCHash, Besu, v.v.
+      etcLabs:
+        name: Phòng thí nghiệm ETC
+        description: Tổ chức chứa nhiều kho lưu trữ Ethereum Classic được ETC Labs duy trì trước đây, bao gồm cả core-geth.
+      website:
+        name: Trang web ETC
+        description: Mã nguồn của chính trang web này, bao gồm hướng dẫn về cách đóng góp.
+      awesomeEtc:
+        name: ETC tuyệt vời
+        description: Danh sách tài nguyên tuyệt vời cho dự án Ethereum Classic (ETC).
