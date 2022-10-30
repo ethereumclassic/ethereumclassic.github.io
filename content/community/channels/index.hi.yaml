@@ -1,0 +1,108 @@
+title: सामाजिक चैनल
+seo: एथेरियम क्लासिक चैट रूम, ट्विटर अकाउंट, चर्चा समूह, फ़ोरम, पॉडकास्ट, रिपॉजिटरी और क्षेत्रीय वेबसाइटों का संग्रह।
+description: |
+  निम्नलिखित सक्रिय एथेरियम क्लासिक चर्चा चैनलों और समूहों की एक गैर-विस्तृत सूची है।
+
+  वर्तमान में ETC समुदाय के भीतर गतिविधि का मुख्य केंद्र [Discord](https://ethereumclassic.org/discord) पर है।
+items:
+  Chat Rooms:
+    title: चैट रूम
+    items:
+      chat Discord:
+        name: कलह (समुदाय, वैश्विक)
+      chat Discord Coop:
+        name: कलह (ईटीसी कॉप)
+      chat Facebook English:
+        name: फेसबुक (अंग्रेज़ी)
+      chat Facebook Vietnam:
+        name: फेसबुक (वियतनामी)
+      chat Kakao Korea:
+        name: काकाओ (कोरियाई)
+      chat Slack:
+        name: स्लैक (अंग्रेज़ी)
+      chat WeChat:
+        name: वीचैट (中文)
+  Development Chat:
+    title: विकास चैट
+    items:
+      Core-Geth dev:
+        name: कोर-गेथ
+      ETC Core dev:
+        name: ईटीसी कोर
+      Hyperledger Besu dev:
+        name: हाइपरलेगर बेसू
+  Telegram Groups:
+    title: टेलीग्राम समूह
+    items:
+      telegram English:
+        name: अंग्रेज़ी
+      telegram Español:
+        name: स्पेनोलि
+      telegram Italia:
+        name: इटली
+      telegram Russia:
+        name: रूस
+      telegram Viet Nam:
+        name: वियतनाम
+      telegram China:
+        name: मैं
+  Forums:
+    title: मंचों
+    items:
+      forum RedditEthereumClassic:
+        name: Reddit r/EthereumClassic
+      forum BitcoinTalk:
+        name: बिटकॉइनटॉक
+      forum Archived BitcoinTalk:
+        name: संग्रहीत BitcoinTalk
+  Media:
+    title: मीडिया
+    items:
+      media ETCfInv:
+        name: निवेशकों के लिए एथेरियम कैसिक (ईटीसी)
+      media EthereumClassicCC:
+        name: एथेरियम क्लासिक कम्युनिटी कॉल
+      media Etherplan:
+        name: ईथरप्लान
+      media EVM61:
+        name: ईवीएम61
+      media Explore The Chain:
+        name: श्रृंखला का अन्वेषण करें
+      media Let's Talk ETC!:
+        name: ईटीसी बात करते हैं!
+  Twitter Accounts:
+    title: ट्विटर खाते
+    items:
+      twitter China:
+        name: चीन
+      twitter English 1:
+        name: "@ETC_Network"
+      twitter English 2:
+        name: "@eth_classic"
+      twitter Español:
+        name: स्पेनोलि
+      twitter France:
+        name: फ्रांस
+      twitter Germany:
+        name: जर्मनी
+      twitter Italia:
+        name: इटली
+      twitter Japan:
+        name: जापान
+      twitter Korea 1:
+        name: कोरिया
+      twitter Korea 2:
+        name: कोरिया
+      twitter Netherlands:
+        name: नीदरलैंड
+      twitter Turkey:
+        name: टर्की
+      twitter Viet Nam:
+        name: वियतनाम
+  Regional Website:
+    title: क्षेत्रीय वेबसाइट
+    items:
+      website ETC Hub:
+        name: ETCHub.io
+      website EthereumClassic.cn:
+        name: एथेरियमक्लासिक.सीएन
