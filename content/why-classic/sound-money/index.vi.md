@@ -17,11 +17,7 @@ seo: Tổng quan về các tính năng hữu ích của tiền mang lại giá t
 
 Xương sống của các nền kinh tế mạnh, người cung cấp sự ổn định, người khơi dậy ưu tiên [thời gian lành mạnh](https://www.youtube.com/watch?v=k5XbLm3pEfI), người tạo ra sự thịnh vượng. Tiền ảo là liều thuốc giải độc cho nhiều vấn đề do lạm dụng tài chính tập trung trong thế giới rộng lớn hơn và là khái niệm cốt lõi thúc đẩy sự ra đời của Bitcoin.
 
-Từ Trường Kinh tế Áo [, nhiều lý thuyết đằng sau Bitcoin, bao gồm](https://mises.org/topics/bitcoin)</a>
-
-thấy được ý nghĩa triết học của chúng. Nhiều thập kỷ trước khi Bitcoin được hình dung về mặt công nghệ, các nhà kinh tế học như Ludwig von Mises, Fredreick Hayek và Milton Friedman đã tuyên bố sự nguy hiểm của tiền định danh và lợi thế của các hệ thống tài chính không bị thao túng bởi chính quyền trung ương.</p> 
-
-
+Từ [ Trường Kinh tế Áo ](https://mises.org/topics/bitcoin), nhiều lý thuyết đằng sau Bitcoin, bao gồm [ Sound Money ](https://mises.org/library/rule-sound-money), đã chứng kiến ý nghĩa triết học của họ. Nhiều thập kỷ trước khi Bitcoin được hình dung về mặt công nghệ, các nhà kinh tế học như Ludwig von Mises, Fredreick Hayek và Milton Friedman đã tuyên bố sự nguy hiểm của tiền định danh và lợi thế của các hệ thống tài chính không bị thao túng bởi chính quyền trung ương.
 
 ## Thuộc tính của tiền âm thanh
 
@@ -33,8 +29,6 @@ Tiền là mạch máu vận chuyển năng lượng và thông tin xung quanh m
 - **Độ bền:** ETC cực kỳ bền. Cuối cùng nó chỉ là thông tin, vì vậy nó có thể được lưu trữ trên máy tính hoặc trong ví kỹ thuật số, hoặc thậm chí ngoại tuyến trên một mảnh giấy hoặc kim loại. Điều này làm cho ETC bền hơn nhiều so với các dạng tiền truyền thống như tiền giấy vốn có thể dễ dàng bị phá hủy hoặc mất mát.
 - **Tính di động:** ETC có tính di động cao. Bạn có thể mang nó trên ổ đĩa ngón tay cái, điện thoại, viết nó ra giấy hoặc ghi nhớ nó như một cụm từ hạt giống.
 - **Sự khan hiếm:** ETC có nguồn cung hữu hạn sẽ được phát hành theo thời gian. Điều này làm cho nó trở nên khan hiếm hơn hầu hết các hình thức tiền tệ khác.
-
-
 
 ## Nguồn cung tương lai đã biết
 
@@ -51,7 +45,6 @@ ETC có tất cả các thuộc tính của Sound Money. Nó phi tập trung, kh
 | 2024-05-07      | Kỷ nguyên 5    | 20.000.001    | 2.048 ETC        | 10.240.000 ETC                 |
 | ~ 2 năm một lần | N + 1          | N + 5.000.000 | -20%             | Tổng ~ 200.000.000 ETC         |
 
-
 _Lưu ý: do tỷ lệ chú thường dao động, lượng phát xạ chính xác sẽ sai lệch một chút, nhưng không đáng kể._
 
 Đường cong phát thải cố định _có nghĩa là_ lệ lạm phát có thể dự đoán được và trong trường hợp ETC, liên tục giảm theo thời gian. Khi giá trị của mạng tăng lên, giá trị của tất cả các ETC tăng lên có thể dự đoán được theo tỷ lệ này, thay vì một số tỷ lệ chưa biết trong tương lai có thể thấp hơn nhiều. Cam kết của ETC đối với một đường cong phát thải cố định được lưu giữ trong cả giao thức và tầng xã hội của nó, và nhờ Proof of Work, bất kỳ hard fork nào cố gắng thao túng lạm phát sẽ dẫn đến sự phân tách chuỗi vĩnh viễn, khiến cho sự thay đổi đó trở nên nghiêm trọng đến mức nó là _cực kỳ_ khó có thể được dự tính, hãy để một mình nỗ lực, hãy để một mình thành công.
@@ -59,8 +52,6 @@ _Lưu ý: do tỷ lệ chú thường dao động, lượng phát xạ chính x�
 Nguồn cung cấp tương lai _được biết đến_ không chỉ cung cấp một giải pháp thay thế thịnh vượng cho hệ thống fiat kế thừa, mà còn đóng một vai trò quan trọng trong công nghệ xã hội học trong các chuỗi khối sử dụng nó làm cơ sở để giữ cho một dự án được phân cấp. Chính sách tiền tệ của blockchain là một thỏa thuận chung mà tất cả những người tham gia đều tự nguyện tham gia. Nó giữ cho tất cả các bên liên kết về mặt kinh tế và giúp ngăn chặn các nhóm tích lũy ảnh hưởng không công bằng lên những người khác. Sự trung lập vững chắc này là điều giữ cho tất cả những người tham gia bình đẳng.
 
 Tiền tốt và khả năng giữ giá trị theo thời gian, là đặc tính cốt lõi của các cơ chế khuyến khích khuyến khích sự tham gia, vì nó không đảm bảo rằng một tài sản sẽ tăng giá, nhưng nó ít nhất cung cấp một phương tiện để tính toán tiềm năng thu nhập trong tương lai. tăng trưởng của một dự án. Điều đó có nghĩa là những người nắm giữ được đảm bảo sẽ được hưởng lợi một cách công bằng từ sự khởi sắc của dự án.
-
-
 
 ## Tiền vô hạn
 
@@ -77,8 +68,6 @@ Trong trường hợp cực đoan, các chuỗi có chính sách duy trì nguồ
 Một số người quảng bá tiền điện tử, có lẽ vô tình, khiến những người nắm giữ đồng sở hữu của họ tin rằng các séc và số dư được cung cấp bởi _nguồn cung cấp_ trong tương lai cố định là một trở ngại, mặc nhiên rằng bằng cách nào đó, lợi ích tài chính của những người nắm giữ không có.
 
 Ý tưởng về _tiền siêu âm_, từ đồng nghĩa với _tiền vô hạn_, có nghĩa là nguồn cung tiền tệ trong tương lai là không xác định, và trong khi những người bảo trì hứa hẹn rằng nó sẽ không bao giờ cao hơn mức cần thiết, đó có thể là bất cứ điều gì từ từ 0 đến vô cùng. Nguồn cung cấp trong tương lai _siêu âm_ có thể được nghiên cứu dựa trên tiêu chí không xác định và không thể đoán trước, có nghĩa là cơ quan trung ương của nó bảo lưu quyền không hạn chế trong việc phân phối lại quỹ cho chủ sở hữu trong tương lai.
-
-
 
 > Phải, chiếc xe cũ kỹ nhàm chán của bạn có thể an toàn, nhưng hãy xem cậu bé hư này ở đây. Chúng tôi đã loại bỏ các điểm gãy và dây an toàn, vì vậy bây giờ nó cực kỳ an toàn.
 > 
