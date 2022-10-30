@@ -1,0 +1,17 @@
+title: Geliştirme Ekipleri
+seo: Daha önce veya şu anda Ethereum Classic'e katkıda bulunan büyük kuruluşların bir listesi.
+description: |
+  Ethereum Classic merkezi olmayan bir geliştirme ekosistemidir, yani 'resmi' bir ekip veya resmi bir hiyerarşi yoktur. Bu küresel geliştirme topluluğu, herkesin katılabileceği izinsiz bir 'yap-okrasi'dir. Bireyler ve ekipler kendileri için görevler seçer ve bunları yürütürler. Toplu olarak [Ethereum Classic Improvement Proposal (ECIP)](https://ecips.ethereumclassic.org/) süreci aracılığıyla [rough consensus](https://en.wikipedia.org/wiki/Rough_consensus) oluşturuyoruz.
+
+  Bu, projenin 30 Temmuz 2015'teki oluşum bloğundan bu yana Ethereum Classic'e katkıda bulunan önde gelen ekiplerin bir listesidir. Ethereum Classic ekosistemi, bireylerin, gönüllülerin ve ekiplerin protokol düzeyindeki tüm geliştirme çabalarına minnettardır.
+items:
+  teams:
+    columnItems:
+      year:
+        name: Yıl
+      name:
+        name: Takım Adı
+      social:
+        name: Sosyal
+      active:
+        name: Aktif
