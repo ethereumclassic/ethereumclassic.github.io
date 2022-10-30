@@ -1,0 +1,17 @@
+title: Pasukan Pembangunan
+seo: Senarai organisasi utama yang sebelum ini atau sedang menyumbang kepada Ethereum Classic.
+description: |
+  Ethereum Classic ialah ekosistem pembangunan terdesentralisasi yang bermaksud tiada pasukan 'rasmi' atau hierarki formal. Komuniti pembangunan global ini adalah 'do-ocracy' tanpa kebenaran, di mana sesiapa sahaja boleh mengambil bahagian. Individu dan pasukan memilih tugas untuk diri mereka sendiri dan melaksanakannya. Kami secara kolektif mewujudkan [konsensus kasar](https://en.wikipedia.org/wiki/Rough_consensus) melalui proses [Cadangan Penambahbaikan Klasik Ethereum (ECIP)](https://ecips.ethereumclassic.org/).
+
+  Ini ialah senarai pasukan terkemuka yang telah menyumbang kepada Ethereum Classic sejak blok genesis projek pada 30 Julai 2015. Ekosistem Ethereum Classic menghargai semua usaha pembangunan tahap protokol oleh individu, sukarelawan dan pasukan.
+items:
+  teams:
+    columnItems:
+      year:
+        name: tahun
+      name:
+        name: Nama kumpulan
+      social:
+        name: sosial
+      active:
+        name: Aktif
