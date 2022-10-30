@@ -1,0 +1,13 @@
+title: Blockchain-Entdecker
+seo: Eine Liste von Blockchain-Explorer-Diensten für Ethereum Classic und die verschiedenen ETC-Testnetze.
+description: |
+  Blockchain-Explorer bieten eine bequeme Möglichkeit, Einblicke in den aktuellen und vergangenen Zustand einer bestimmten Kette zu erhalten, indem Sie den Inhalt von Blöcken, Transaktionen und Kontoständen einsehen können.
+
+  Die folgenden Drittanbieter-Explorer überprüfen unabhängig den Zustand von Ethereum Classic und seinen Testnetzen. Sie werden in der Regel verwendet, um zu überprüfen, ob Transaktionen gesendet und bestätigt wurden, aber viele bieten auch fortgeschrittenere Funktionen wie historische Kontostände, Vertragsüberprüfung und mehr.
+items:
+  explorers:
+    columnItems:
+      kotti:
+        text: Kotti
+      mordor:
+        text: Mordor
