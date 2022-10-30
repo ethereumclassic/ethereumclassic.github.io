@@ -1,0 +1,103 @@
+title: Ethereum Klassisch
+seo: "Eine dezentralisierte Computerplattform, auf der intelligente Verträge ausgeführt werden: Anwendungen, die genau wie programmiert ablaufen, ohne Ausfallzeiten, Zensur oder Einmischung Dritter"
+#Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
+metaLocale: en_US
+#Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
+htmlLang: en
+published: Veröffentlicht
+updated: Zuletzt aktualisiert
+author: Autor
+timeline:
+  chronological: Chronologisch
+  reversed: Umgekehrt
+disclaimers:
+  verify:
+    title: Vertrauen Sie nicht, überprüfen Sie.
+    text: Externe Links sind inoffizielle Beiträge der Gemeinschaft.
+  opinion:
+    title: Meinungsbildende Inhalte
+    text: Diese Seite spiegelt nicht unbedingt die Meinung aller ETC-Akteure wider.
+next: Lesen Sie weiter
+prev: Vorheriger Artikel
+contribute: Wenn Sie Informationen zu dieser Seite hinzufügen oder korrigieren möchten, senden Sie bitte eine Nachricht an [Discord](https://discord.com/invite/dwxb6nf) oder erstellen Sie ein Problem auf [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io)
+contributors: "Diese Seite existiert unter anderem dank der folgenden Mitwirkenden:"
+allLanguages: Alle Sprachen
+noResults: Keine Ergebnisse
+netlify: Diese Website wird von Netlify betrieben
+metaMask: ETC zu MetaMask hinzufügen
+helpTranslate: Unterstützen Sie ETC, indem Sie bei der Übersetzung dieser Website helfen!
+noItems: Entschuldigung, diese Seite ist leer!
+search:
+  box: Suche
+  noResults: Keine Ergebnisse...
+  poweredBy: Angetrieben von Algolia
+  generalInfo: Allgemeine Informationen
+  blogArticles: Blog-Artikel
+  videos: Videos
+  applications: Anwendungen
+  newsLinks: Nachrichten Links
+  txSearch: Sieht aus, als hätten Sie eine Ethereum Classic Adresse oder Transaktion eingegeben.
+  blockScout: "Blockscout Explorer durchsuchen:"
+  explorers: ...oder schauen Sie sich einige andere [Blockchain-Forscher](/network/explorers) an.
+##
+## Announcement Banner
+announcement:
+  text: |
+    Diese Website wird jetzt durch maschinelles Lernen in mehrere Sprachen übersetzt. Klicken Sie auf das Globus-Symbol oben rechts auf der Seite, um die Sprache zu wechseln. Wenn Sie bei der Korrektur von Übersetzungen helfen möchten, kontaktieren Sie uns bitte!
+  button:
+    text: "Übersetzen helfen"
+## Footer
+signOff: Hergestellt mit `<3` für die Original Ethereum Vision
+socialHilight: Die ETC-Gemeinschaft ist auf Discord aktiv
+socialItems:
+  discord:
+    name: Diskord
+  discordCoop:
+    name: ETC Coop Diskord
+  githubOrg:
+    name: Github
+  githubLabs:
+    name: ETC Labs Github
+  reddit:
+    name: Reddit
+  twitter:
+    name: Twitter
+appTypes:
+  finance:
+    name: Finanzen
+  games:
+    name: Spiele
+  identity:
+    name: Identität
+  interoperability:
+    name: Interoperabilität
+  nfts:
+    name: NFTs
+  other:
+    name: Andere
+appLinks:
+  homepage: Homepage
+  app: App-Seite
+  twitter: Twitter
+  github: Github
+newsTypes:
+  news:
+    name: Link
+  blog:
+    name: Blog
+  application:
+    name: App
+    prefix: "Anwendung: "
+  video:
+    name: Video
+    prefix: "Video: "
+## App Modal
+appModal:
+  verifiedContract: Vertrag
+  openSource: Offene Quelle
+  audit: Geprüft
+  testSuite: Test-Suite
+  ipfsFrontend: IPFS-Frontend
+  checkListRating: Vertrauenslose Checkliste Level
+  warning: "**Warnung:** Diese von Nutzern eingereichte App wurde NICHT überprüft und ist NICHT garantiert sicher; die Nutzung erfolgt auf eigene Gefahr, und Sie sollten immer Ihre eigenen Nachforschungen anstellen!"
+  added: Hinzugefügt
