@@ -1,0 +1,103 @@
+title: إيثريوم كلاسيك
+seo: "منصة الحوسبة اللامركزية التي تدير العقود الذكية: التطبيقات التي تعمل تمامًا كما تمت برمجتها دون توقف أو رقابة أو تدخل طرف ثالث"
+#Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
+metaLocale: ar_US
+#Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
+htmlLang: en
+published: نشرت
+updated: آخر تحديث
+author: مؤلف
+timeline:
+  chronological: مرتب زمنيًا
+  reversed: عكس
+disclaimers:
+  verify:
+    title: لا تثق ، تحقق.
+    text: الروابط الخارجية هي إرسالات المجتمع غير الرسمية.
+  opinion:
+    title: محتوى رأي
+    text: لا تعكس هذه الصفحة بالضرورة وجهة نظر جميع أصحاب المصلحة في ETC.
+next: أكمل القراءة
+prev: المقال السابق
+contribute: إذا كنت ترغب في المساهمة بإضافة المعلومات أو تصحيحها إلى هذه الصفحة ، فيرجى ترك رسالة على [Discord](https://discord.com/invite/dwxb6nf) أو إنشاء مشكلة على [GitHub](https://github.com/ethereumclassic /ethereumclassic.github.io)
+contributors: "هذه الصفحة موجودة جزئياً بفضل المساهمين التاليين:"
+allLanguages: كل اللغات
+noResults: لا نتائج
+netlify: هذا الموقع مدعوم من Netlify
+metaMask: أضف ETC إلى MetaMask
+helpTranslate: ادعم ETC بالمساعدة في ترجمة هذا الموقع!
+noItems: عذرا ، هذه الصفحة فارغة!
+search:
+  box: يبحث
+  noResults: لا نتائج...
+  poweredBy: مدعوم من Algolia
+  generalInfo: معلومات عامة
+  blogArticles: مقالات المدونة
+  videos: أشرطة فيديو
+  applications: التطبيقات
+  newsLinks: روابط الأخبار
+  txSearch: يبدو أنك أدخلت عنوان أو معاملة Ethereum Classic.
+  blockScout: "البحث في مستكشف Blockscout:"
+  explorers: ... أو تحقق من بعض [مستكشفات blockchain] الأخرى (/ network / explorers).
+##
+## Announcement Banner
+announcement:
+  text: |
+    تمت ترجمة موقع الويب هذا الآن إلى لغات متعددة من خلال التعلم الآلي. انقر فوق رمز الكرة الأرضية في الجزء العلوي الأيمن من الصفحة لتغيير اللغة. إذا كنت ترغب في المساعدة في تصحيح الترجمات ، يرجى الاتصال بنا!
+  button:
+    text: "مساعدة الترجمة"
+## Footer
+signOff: مصنوع من `<3` لرؤية إيثريوم الأصلية
+socialHilight: مجتمع ETC نشط على Discord
+socialItems:
+  discord:
+    name: الخلاف
+  discordCoop:
+    name: الخلاف التعاونية الخ
+  githubOrg:
+    name: جيثب
+  githubLabs:
+    name: ETC Labs جيثب
+  reddit:
+    name: رديت
+  twitter:
+    name: تويتر
+appTypes:
+  finance:
+    name: تمويل
+  games:
+    name: ألعاب
+  identity:
+    name: هوية
+  interoperability:
+    name: التوافقية
+  nfts:
+    name: NFTs
+  other:
+    name: آخر
+appLinks:
+  homepage: الصفحة الرئيسية
+  app: موقع التطبيق
+  twitter: تويتر
+  github: جيثب
+newsTypes:
+  news:
+    name: نهاية لهذه الغاية
+  blog:
+    name: مقالات
+  application:
+    name: تطبيق
+    prefix: "تطبيق: "
+  video:
+    name: فيديو
+    prefix: "فيديو: "
+## App Modal
+appModal:
+  verifiedContract: عقد
+  openSource: المصدر المفتوح
+  audit: مدقق
+  testSuite: حزمة اختبار
+  ipfsFrontend: الواجهة الأمامية IPFS
+  checkListRating: مستوى قائمة المراجعة غير الموثوقة
+  warning: "** تحذير: ** هذا التطبيق الذي أرسله المستخدم لم يتم فحصه وليس مضمونًا أنه آمن ؛ استخدمها على مسؤوليتك الخاصة ، وقم دائمًا بإجراء البحوث الخاصة بك!"
+  added: مضاف
