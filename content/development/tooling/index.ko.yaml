@@ -1,0 +1,73 @@
+title: 개발자 도구
+seo: Ethereum Classic 애플리케이션 개발 및 devops 경험을 향상시키는 도구 모음입니다.
+description: |
+  이 페이지에는 Ethereum Classic을 기반으로 응용 프로그램을 개발하는 사람들이 유용할 수 있는 리소스 목록이 포함되어 있습니다. [Ethereum.org 개발자 환경](https://ethereum.org/en/developers/local-environment/) 페이지도 확인하십시오. 이러한 도구 중 상당수는 이더리움 클래식용으로 개발할 때 관련성이 남아 있기 때문입니다.
+items:
+  prices:
+    title: 가격 출처
+    description: 이러한 웹사이트와 API는 귀하의 애플리케이션에서 사용하기 위한 ETC의 가격을 제공합니다.
+  processors:
+    title: 지불 프로세서
+    description: 이 API는 웹사이트 또는 애플리케이션에서 ETC 지불을 수락하는 데 사용할 수 있습니다.
+  dex:
+    title: 개발 경험
+    description: IDE, 라이브러리, 테스트 프레임워크, 디버거, *etcetera* 등을 포함하여 Ethereum Classic 응용 프로그램의 개발을 지원할 수 있는 개발자 도구의 포괄적이지 않은 선택.
+    items:
+      BUIDL IDE:
+        description: Second State BUIDL IDE는 소프트웨어를 다운로드하거나 설치할 필요가 없는 웹 기반 IDE입니다. 스마트 계약 및 dapp 개발자를 위한 원스톱 개발 및 배포 환경을 제공합니다.
+      Dappkit:
+        description: 개발자가 분산 애플리케이션을 구축 및 확장할 수 있는 원장에 구애받지 않는 고성능 인프라 및 라이브러리입니다. 간단히 말해 Dapp용 협업 Firebase입니다.
+      Embark Framework:
+        description: Ethereum, IPFS 및 기타 플랫폼을 사용하는 서버리스 분산 응용 프로그램을 위한 프레임워크.
+      Emerald Platform:
+        description: ETC 블록체인용 Dapp 구축을 위한 플랫폼입니다.
+      ESerialize:
+        description: 이 모듈의 목표는 이더리움 스택에 대한 데이터를 직렬화 및 역직렬화하는 쉬운 기능을 제공하는 것입니다.
+      Ethereum JSON-RPC API:
+        description: EVM 기반 블록체인 클라이언트가 구현해야 하는 JSON-RPC 메서드 사양입니다.
+      Eth Fiddle:
+        description: 스마트 계약을 위한 온라인 편집기.
+      EVM-LLVM:
+        description: 개발자는 이더리움 가상 머신(EVM)을 대상으로 하기 위해 Solidity 이외의 광범위한 프로그래밍 언어(스마트 계약을 위한 Rust!)를 사용할 수 있을 뿐만 아니라 LLVM 인프라를 기반으로 구축된 다양한 개발 도구의 이점도 즉시 누릴 수 있습니다.
+      Ganache:
+        description: 테스트를 실행하기 위한 개인 이더리움 블록체인.
+      Jade Suite:
+        description: Jade 도구 모음을 사용하면 개발자가 Ethereum Classic과 같은 EVM 기반 블록체인 위에 P2P 분산 응용 프로그램을 만들 수 있습니다.
+      Mythx:
+        description: MythX는 이더리움 스마트 계약을 위한 최고의 보안 분석 서비스입니다. 우리의 임무는 개발 팀이 값비싼 오류를 피하고 Ethereum을 보다 안전하고 신뢰할 수 있는 플랫폼으로 만드는 것입니다.
+      Open-RPC:
+        description: OpenRPC 사양은 JSON-RPC 2.0 API에 대한 프로그래밍 언어에 구애받지 않는 표준 인터페이스 설명을 정의합니다.
+      OpenZeppelin:
+        description: 안전하고 재사용 가능한 스마트 계약의 전투 테스트 프레임워크.
+      Quorum:
+        description: Quorum은 공개 이더리움 커뮤니티의 혁신과 엔터프라이즈 요구를 지원하기 위한 개선 사항을 결합한 오픈 소스 블록체인 플랫폼입니다.
+      Remix Online IDE:
+        description: 다양한 이더리움 네트워크에 스마트 계약을 컴파일하고 게시할 수 있는 유용한 브라우저 내 IDE입니다. 린터가 포함되어 있습니다.
+      Signatory:
+        description: 이더리움 스택을 위한 오프라인 트랜잭션 및 메시지 서명자.
+      SOLL:
+        description: LLVM 컴파일러가 마침내 Solidity에 제공됩니다. 이를 통해 여러 블록체인 VM에서 스마트 계약을 쉽게 생성할 수 있습니다. Ethereum Classic의 EVM과 ETH 2.0의 eWASM은 우리가 처음으로 지원하는 것 중 하나입니다.
+      Sputnikvm:
+        description: SputnikVM은 이더리움 가상 머신(EVM)의 오픈 소스 독립 실행형 구현입니다. 다양한 이더리움 기반 블록체인을 위한 효율적이고 플러그 가능한 가상 머신을 목표로 합니다.
+      Truffle Suite:
+        description: 개발자로서의 삶을 더 쉽게 만드는 것을 목표로 하는 이더리움 가상 머신(EVM)을 사용하는 블록체인을 위한 세계적 수준의 개발 환경, 테스트 프레임워크 및 자산 파이프라인.
+  nodeTools:
+    title: 노드 배포
+    description: 이러한 도구를 사용하면 프로덕션 배포를 위해 노드 클러스터를 쉽게 가동하거나 공개 데이터 세트로 데이터 과학을 수행할 수 있습니다.
+    items:
+      Bloq Cloud:
+        description: BloqCloud는 고도로 최적화되고 항상 사용 가능한 블록체인 네트워크 액세스를 제공합니다. 인프라 관리에 대해 걱정할 필요 없이 신속하게 연결하고 필요에 따라 쉽게 확장할 수 있습니다.
+      DappNode:
+        description: DAppNode는 노드, DApp 실행 및 P2P 네트워크 및 경제 호스팅을 용이하게 합니다.
+      Ethercluster:
+        description: Ethercluster는 이더리움 클래식(ETC) 및 Kotti 엔드포인트를 무료로 제공하는 오픈 소스 EVM(Ethereum Virtual Machine) 원격 프로시저 호출(RPC)입니다.
+      GetBlock:
+        description: GetBlock은 주요 암호화폐 노드에 대한 연결을 제공하는 서비스입니다. 블록체인과의 직접 동기화를 용이하게 하는 JSON-RPC, REST 및 WebSocket과 같은 도구를 지원합니다. 노드를 직접 실행할 필요가 없으며 플랫폼을 통해 고객은 수수료를 지불하지 않고도 전체 노드를 통해 블록체인에 연결할 수 있습니다.
+      Google BigQuery:
+        description: Google Cloud는 암호화폐에 대한 이해를 돕기 위해 Ethereum Classic의 블록체인 거래 내역으로 구성된 데이터 세트를 출시했습니다. 또한 모든 블록체인 데이터 세트를 다중 체인 메타 분석과 기존 금융 기록 처리 시스템과의 통합을 가능하게 하는 이중 입력 장부 데이터 구조에 매핑하는 일련의 쿼리 및 보기가 포함되었습니다.
+      Raspberry Pi Node:
+        description: Raspberry Pi에서 Ethereum Classic 노드를 설정하는 방법에 대한 자세한 안내서입니다.
+      Rivet Cloud:
+        description: 무한히 확장 가능하고 고가용성인 이더리움 및 이더리움 클래식 엔드포인트는 제대로 작동합니다.
+      QuikNode:
+        description: QuikNodes는 빠른 블록체인 동기화를 위한 빠른 인터넷 연결과 함께 쉽고 항상 켜져 있으며 디스크 공간 부족에 대해 걱정할 필요가 없습니다.
