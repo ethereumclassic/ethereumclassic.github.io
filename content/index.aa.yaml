@@ -1,0 +1,71 @@
+billboard:
+  text: crwdns67454:0crwdne67454:0
+  ## must be kind of short, so they fit on the page
+  randomWords:
+    Decentralized: "crwdns67456:0crwdne67456:0"
+    Original: "crwdns67458:0crwdne67458:0"
+    Veracious: "crwdns67460:0crwdne67460:0"
+    Untainted: "crwdns67462:0crwdne67462:0"
+    Uncensored: "crwdns67464:0crwdne67464:0"
+    Untampered: "crwdns67466:0crwdne67466:0"
+    Immutable: "crwdns67468:0crwdne67468:0"
+    Sound Money: "crwdns67470:0crwdne67470:0"
+    Uncaptured: "crwdns67472:0crwdne67472:0"
+    SovereignGrade: "crwdns67474:0crwdne67474:0"
+    Principled: "crwdns67476:0crwdne67476:0"
+    Unstoppable: "crwdns67478:0crwdne67478:0"
+    Proof of Work: "crwdns67480:0crwdne67480:0"
+    Leaderless: "crwdns67482:0crwdne67482:0"
+    Antifragile: "crwdns67484:0crwdne67484:0"
+    Code is Law: "crwdns67486:0crwdne67486:0"
+    Classic: "crwdns67488:0crwdne67488:0"
+    Permisionless: "crwdns67490:0crwdne67490:0"
+## feature
+feature:
+  __icon: question
+  title: crwdns67494:0crwdne67494:0
+  subtitle: crwdns67496:0crwdne67496:0
+  text: crwdns67498:0crwdne67498:0
+  button: crwdns67500:0crwdne67500:0
+## intro
+intro:
+  title: crwdns67502:0crwdne67502:0
+  content: |
+    crwdns67504:0crwdne67504:0
+  button:
+    __link: /why-classic
+    text: crwdns67508:0crwdne67508:0
+#Headers
+headings:
+  headlines:
+    title: crwdns67510:0crwdne67510:0
+    button: crwdns67512:0crwdne67512:0
+  videos:
+    title: crwdns67514:0crwdne67514:0
+    button: crwdns67516:0crwdne67516:0
+  apps:
+    title: crwdns67518:0crwdne67518:0
+    button: crwdns67520:0crwdne67520:0
+#list of contributors that contributed to general web maintenance that is not page specific
+__contributors:
+  - flotob
+  - saturn-network
+  - realcodywburns
+  - Zorlin
+  - cicorias
+  - redsn0w0
+  - pyskell
+  - bobsummerwill
+  - dax-classix
+  - arvicco
+  - ProphetDaniel
+  - lenon461
+  - mikeyb
+  - FlipFloop
+  - brolal
+  - nargotik
+  - q9f
+  - w1g0
+  - IstoraMandiri
+  - TheEnthusiasticAs
+  - gitr0n1n
