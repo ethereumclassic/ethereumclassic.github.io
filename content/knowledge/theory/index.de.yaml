@@ -1,0 +1,45 @@
+title: Theorie und Forschung
+seo: Eine Sammlung von Artikeln, die eine breite Palette von Themen abdecken, die sich auf die zugrundeliegende Philosophie, die Geschichte und das einzigartige Leistungsversprechen von Ethereum Classic beziehen.
+description: |
+  Über die Kerngedanken von Ethereum Classic hinaus hat sich eine ganze Denkschule entwickelt, die auf den Folgen der Hard Fork und der Fortsetzung der ursprünglichen Ethereum-Vision basiert.
+
+  Im Folgenden haben wir eine Reihe von Artikeln zusammengestellt, die sich mit den Auswirkungen von ETC, seiner Geschichte und einem breiteren Spektrum an Theorien und Forschungsthemen befassen, um Ihr Verständnis für die einzigartige Position und das unbegrenzte Potenzial von Ethereum Classic zu fördern.
+items:
+  links:
+    items:
+      Etherplan:
+        name: Etherplan
+        description: Donald McIntyre's Etherplan ist eine bekannte Ethereum Classic Theorie- und Forschungsquelle. McIntyre ist verantwortlich für die Erstellung mehrerer der folgenden Artikel.
+      Ethereum Classic Vision:
+        name: Ethereum Classic Vision
+        description: Wie Ethereum Classic eine erfolgreiche Computerplattform sein wird und warum ETC ein hervorragender Wertaufbewahrer ist.
+      Ethereum Classic vs. Ethereum 2.0, What is the Difference?:
+        name: Ethereum Classic vs. Ethereum 2.0, was ist der Unterschied?
+        description: Man kann sagen, dass Ethereum Classic ein konservativ geführtes System ist, das sich auf die Sicherheit konzentriert, und das kommende Ethereum 2.0 ist ein progressiv geführtes System, das sich auf die Leistung konzentriert.
+      Phyro's Recap of ETC History:
+        name: Phyro's Zusammenfassung der ETC-Geschichte
+        description: |
+          Ein detaillierter Überblick über die Geschichte von ETC von einem langjährigen ETCer.
+          *Sie können auch mehr über die Geschichte von ETC auf [roadmap](/knowledge/roadmap) lesen.
+      /blog/2016-12-06-why/:
+        name: Warum sollte ich meine Anwendung auf Ethereum / Classic statt im World Wide Web laufen lassen?
+        description: Vorteile über das World Wide Web
+      Ethereum Classic Opportunities:
+        name: Ethereum Classic Möglichkeiten
+        description: Ein Überblick über das wilde Potenzial von Ethereum Classic
+      How to Have a Vision for Ethereum Classic Without Creating a Governance Orgy:
+        name: Wie man eine Vision für Ethereum Classic hat, ohne eine Governance-Orgie zu schaffen
+        description: Ein Ansatz zur Aufrechterhaltung des Fortschritts unter Vermeidung der Probleme der Blockchain-Governance
+      The Ethereum Classic vs Ethereum 1.x Dichotomy:
+        name: Der Zwiespalt zwischen Ethereum Classic und Ethereum 1.x
+        description: Wie wird die Beziehung zwischen ETC und ETH 1.X sein, wenn Ethereum zum Proof of Stake übergeht?
+      Why Proof of Stake is Less Secure Than Proof of Work:
+        name: Warum der Proof of Stake weniger sicher ist als der Proof of Work
+        description: Durch die Verankerung auf einer physischen Proof-of-Work-Basis erhält die subjektive Ebene eine um Größenordnungen höhere Objektivität und damit Sicherheit.
+      Ethereum Classic (ETC) Wiki:
+        name: Ethereum Classic (ETC) Wiki
+        description: Einige Kernphilosophien der ETC-Kette von Ethereum.
+      Categories of Decentralization:
+        name: Kategorien der Dezentralisierung
+        link: https://taek.org/posts-categories-of-decentralization
+        description: Fünf Kategorien sollen eine solide Grundlage für Überlegungen zu den Vertrauensannahmen einer Plattform oder eines Protokolls bieten, ohne dabei zu versuchen, jedes wichtige Detail zu erfassen oder eine endgültige Gewissheit zu liefern, dass ein Protokoll dezentraler ist als ein anderes.
