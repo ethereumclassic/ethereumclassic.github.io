@@ -1,0 +1,24 @@
+title: Değişimler
+seo: ETC'yi destekleyen merkezi ve güven minimize edilmiş borsaların, DEX'lerin, NFT pazar yerlerinin ve ödeme işlemcilerinin bir listesi.
+description: |
+  Bu sayfa, ETC satın almanıza veya ticaretini yapmanıza olanak tanıyan hizmetlerin bir listesini içerir.
+
+  ## Kapsamlı Olmayan Borsalar Listesi
+
+  Aşağıdaki borsaların tümü Ethereum Classic'i desteklemektedir. Bunlar 3 kategoriye ayrılır; güven minimize edici, merkezi ve çapraz zincir.
+
+  **Lütfen Ethereum Classic'e kaynak sağlamak için seçtiğiniz borsa hakkında kendi araştırmanızı yapın. Bu sitede listelenmiş olmak, borsanın hizmetlerinin Ethereum Classic projesi tarafından onaylandığı anlamına gelmez.**
+items:
+  Trust-Minimizing Exchanges:
+    title: Güveni Azaltan Değişimler
+    description: Aşağıdaki borsalar *tamamen* merkeziyetsiz borsalar olmayabilir, ancak aşağıdaki merkezi bölümlerden daha az merkeziyetsiz bir şekilde çalışırlar. Bu ürünlerin borsaları kolaylaştırmak için gözetim dışı akıllı sözleşmeler kullanması muhtemeldir.
+  Centralized Spot Markets:
+    title: Merkezi Spot Piyasalar
+  Centralized Derivative Markets:
+    title: Merkezi Türev Piyasalar
+  Cross-Chain Swap Exchanges:
+    title: Çapraz Zincir Takas Borsaları
+    description: "*Not:* Çapraz Zincir Swap Borsaları genellikle Merkezi Borsalardan daha kötü oranlar sunar."
+  NFT Marketplaces:
+    title: NFT Pazaryerleri
+    description: Aşağıdaki NFT pazaryerleri *tamamen* merkeziyetsiz pazaryerleri olmayabilir.
