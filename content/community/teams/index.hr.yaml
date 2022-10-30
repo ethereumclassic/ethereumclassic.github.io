@@ -1,0 +1,17 @@
+title: Razvojni timovi
+seo: Popis glavnih organizacija koje su ranije ili trenutno doprinose Ethereum Classicu.
+description: |
+  Ethereum Classic je decentralizirani razvojni ekosustav što znači da ne postoji 'službeni' tim ili formalna hijerarhija. Ova globalna razvojna zajednica je 'do-okracija' bez dozvole, gdje svatko može sudjelovati. Pojedinci i timovi sami sebi biraju zadatke i izvršavaju ih. Zajednički uspostavljamo [grubi konsenzus](https://en.wikipedia.org/wiki/Rough_consensus) kroz proces [Prijedloga za poboljšanje Ethereum Classic (ECIP)](https://ecips.ethereumclassic.org/).
+
+  Ovo je popis istaknutih timova koji su pridonijeli Ethereum Classicu od bloka geneze projekta 30. srpnja 2015. Ekosustav Ethereum Classic cijeni sve razvojne napore na razini protokola od strane pojedinaca, volontera i timova.
+items:
+  teams:
+    columnItems:
+      year:
+        name: Godina
+      name:
+        name: Ime tima
+      social:
+        name: Društveni
+      active:
+        name: Aktivan
