@@ -1,0 +1,18 @@
+title: Phần mềm khai thác
+seo: Danh sách các gói phần mềm có thể được sử dụng để khai thác tiền điện tử ETC trên Ethereum Classic.
+description: "Thuật toán khai thác Proof-of-Work cho mạng Ethereum Classic là [ETCHash](https://github.com/eth-classic/etchash) kể từ ngày 28 tháng 11 năm 2020."
+items:
+  table:
+    columnItems:
+      name:
+        name: Tên
+      windowsAmd:
+        name: Windows AMD
+      windowsNvidia:
+        name: Windows Nvidia
+      linuxAmd:
+        name: Linux AMD
+      linuxNvidia:
+        name: Linux Nvidia
+      guide:
+        text: Hướng dẫn
