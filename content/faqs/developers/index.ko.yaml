@@ -1,0 +1,43 @@
+title: 개발자 FAQ
+seo: Ethereum Classic에 기여하거나 응용 프로그램을 구축하려는 사람들을 위한 자주 묻는 질문입니다.
+info: '여기에서 질문에 대한 답변을 찾을 수 없습니까? ETC 커뮤니티 [discord](https://ethereumclassic.org/discord) 서버에 문의해보세요. 특히 ETC Discord의 ''#dev-general'' 관심 채널을 찾을 수 있습니다.'
+description: Ethereum Classic을 기반으로 애플리케이션 또는 프로토콜을 구축하는 방법을 배우고 싶으십니까? 이 페이지는 당신을 위한 것입니다.
+items:
+  questions:
+    items:
+      types:
+        question: ETC에서 어떤 종류의 애플리케이션을 구축할 수 있습니까?
+        answer: |
+          ETC는 완전한 EVM을 사용하므로 모든 종류의 스마트 계약 시스템을 ETC에 배포할 수 있습니다. Multisig에서 DeFi, NFT, 꿈이 있는 곳으로. Ethereum에 배포할 수 있는 모든 응용 프로그램은 Ethereum Classic에도 배포할 수 있습니다.
+
+          일부 다른 체인에는 특정 애플리케이션 및 트랜잭션을 검열한 이력이 있으므로 다운타임, 검열 또는 제3자의 간섭 없이 애플리케이션이 프로그래밍된 대로 정확하게 실행되도록 하려면 Ethereum Classic에 배포하는 것을 고려하십시오!
+
+          Ethereum Classic에 배포된 앱의 몇 가지 예는 [apps](/services/apps) 섹션을 확인하십시오.
+      eth:
+        question: 응용 프로그램을 작성할 때 ETH와 ETC의 차이점은 무엇입니까?
+        answer: |
+          계약서를 작성할 때 차이가 없습니다. Ethereum과 동일한 개발자 도구 및 프로그래밍 언어(특히 Solidity)를 사용할 수 있습니다.
+
+          이더리움과의 가장 큰 차이점은 ETC는 앱 생태계가 다르기 때문에 직접 상호 작용할 수 있는 기존 배포된 계약이 다르다는 것입니다. 이더리움의 기존 자산에 연결해야 하는 경우 래핑된 자산, [크로스 체인 브리지](/services/apps/interoperability)를 사용하거나 이러한 자산의 자체 버전 배포를 고려할 수도 있습니다.
+      development:
+        question: Ethereum Classic용 애플리케이션을 개발하려면 어떻게 해야 합니까?
+        answer: |
+          [개발 가이드](/guides/development) 섹션과 Classic에 배포하는 데 도움이 되는 자습서 및 도구에 대한 [development](/development) 섹션을 확인하십시오.
+      deployment:
+        question: Ethereum Classic 블록체인에 어떻게 배포합니까?
+        answer: |
+          먼저 ETC를 획득하여 계약을 배포하는 가스 비용을 지불한 다음 이더리움 네트워크(체인 ID 1)가 아닌 이더리움 클래식 네트워크(체인 ID 61)에 배포하도록 하십시오.
+      rpc:
+        question: ETC에 배포하는 데 사용할 수 있는 공용 RPC 끝점이 있습니까?
+        answer: |
+          예. 자체 Ethereum Classic 노드를 동기화하지 않으려면 무료로 사용할 수 있는 여러 공용 끝점이 있습니다.
+
+          [RPC Endpoints](/network/endpoints) 섹션과 [ChainList.org](https://chainlist.org/en/chain/61)을 확인하십시오.
+      grants:
+        question: Ethereum Classic을 구축하기 위한 자금을 받을 수 있습니까?
+        answer: |
+          Ethereum Classic에는 중앙 집중식 재무가 없기 때문에 모든 개발은 필연적으로 자체 자금 또는 제3자 자금 지원을 통해 이루어집니다. 과거에는 다양한 제3자가 보조금 프로그램을 운영했으며 [ETC Cooperative](https://etccooperative.org/)에서는 곧 새로운 보조금 프로그램을 시작할 것이라고 발표했습니다.
+      ecips:
+        question: Ethereum Classic 프로토콜의 개발을 어떻게 도울 수 있습니까?
+        answer: |
+          [ECIP](/development/ecips) 프로세스를 통해 프로토콜 업그레이드 제안을 제출할 수 있습니다. 도움을 주고 싶은 [clients](/development/clients)의 GitHub 리포지토리를 방문하여 클라이언트 코드베이스를 유지 관리하는 데 도움을 줄 수 있습니다.
