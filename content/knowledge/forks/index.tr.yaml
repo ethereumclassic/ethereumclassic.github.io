@@ -1,0 +1,51 @@
+title: Protokol Yükseltmeleri
+seo: Geçmişteki hard forkların tarihçesi; Ethereum Classic için kabul edilen protokol yükseltmeleri.
+description: |
+  Ethereum Classic, geçmişine rağmen, her türlü Hard Fork'a karşı değildir. Hard Forking, protokolün yükseltilmesine, hataların düzeltilmesine ve geliştiricilerin "Durdurulamaz Uygulamalar Oluşturma" hedefini ilerleten özellikler eklenmesine olanak tanır.
+
+  Ethereum Classic'in asla uygulamayacağı Hard Fork türleri, [The DAO Fork] (/why-classic/genesis) gibi, protokolün kendisindeki bir kusuru veya geliştirmeyi ele almayan, bunun yerine uygulama katmanındaki Akıllı Sözleşmeleri değiştirerek *Kod Kanundur* ilkesini geçersiz kılanlardır.
+
+  Ethereum Classic, stratejik olarak yukarı akış Ethereum'un EVM'si ile maksimum uyumluluğu korur, bu da ETH'ye dağıtılan sözleşmelerin ETC'ye de dağıtılabileceği anlamına gelir ve Ethereum Classic, Ethereum'daki araştırmalarla doğan birçok değerli yeniliği miras alır.
+items:
+  forks:
+    title: ETC Çatal Tarihçesi
+    items:
+      Frontier:
+        title: Sınır
+        text: '"Durdurulamaz Uygulamalar Oluşturun" sloganı altında başlatılan Frontier, Ethereum projesinin canlı, ancak barebone bir uygulamasıydı. Başarılı Olimpiyat test aşamasını takip etti. Teknik kullanıcılara, özellikle de geliştiricilere yönelikti. Blokların 5.000 gaz limiti vardı. Bu ''çözülme'' dönemi madencilerin faaliyetlerine başlamasını ve erken benimseyenlerin ''acele etmek'' zorunda kalmadan istemcilerini kurmasını sağladı.'
+      Ice Age:
+        title: Buz Devri
+        text: Sınır çözme çatalı blok başına 5.000 gaz sınırını kaldırdı ve varsayılan gaz fiyatını 51 gwei olarak belirledi. Bu, işlemlere izin verdi - işlemler 21.000 gaz gerektirir.
+      Homestead:
+        title: Homestead
+        text: Homestead çatalı geleceğe bakıyordu. Birkaç protokol değişikliği ve Ethereum'a daha fazla ağ yükseltmesi yapma olanağı veren bir ağ değişikliği içeriyordu.
+      Gas Reprice:
+        title: Gaz Yeniden Fiyatlandırma
+        text: ECIP-1015, Ethereum Classic'in DAO Hard Fork'undan sonraki ilk bağımsız protokol yükseltmesiydi ve işlem spam saldırılarını azaltmak için IO ağırlıklı işlemler için uzun vadeli gaz maliyeti değişikliklerini içeriyordu.
+      Die Hard:
+        title: Zor Ölüm
+        text: Die Hard çatalı zorluk bombasını erteledi, EXP işlem kodunu yeniden fiyatlandırdı ve ETC'nin Zincir Kimliğini 61 olarak ayarlayarak tekrar oynatma koruması uyguladı.
+      Gotham:
+        title: Gotham
+        text: ECIP 1017, maksimum mutlak ETC sayısına bir üst sınır ve zaman içinde bozulmuş emisyon yöntemi getirerek Ethereum Classic'i daha Bitcoin benzeri hale getirir.
+      Defuse Difficulty Bomb:
+        title: Zorluk Bombasını Etkisiz Hale Getir
+        text: Zorluk Bombası ertelendi ve başka bir değişiklik yapılmadı.
+      Atlantis:
+        title: Atlantis
+        text: Ethereum Classic ağındaki olağanüstü Ethereum Foundation Spurious Dragon ve Byzantium ağ protokolü yükseltmelerini, bu ağlar arasında maksimum uyumluluğu sağlamak için Atlantis kod adlı bir hard-fork ile etkinleştirdi.
+      Agharta:
+        title: Agharta
+        text: Bu ağlar arasında maksimum uyumluluk sağlamak için Agharta kod adlı bir hard-fork ile Ethereum Classic ağında olağanüstü Ethereum Foundation Constantinople ve Petersburg ağ protokolü yükseltmeleri etkinleştirildi.
+      Phoenix:
+        title: Phoenix
+        text: Bu ağlar arasında maksimum uyumluluk sağlamak için Phoenix kod adlı bir hard-fork ile Ethereum Classic ağında olağanüstü Ethereum Foundation İstanbul ağ protokolü yükseltmeleri etkinleştirildi.
+      Thanos:
+        title: Thanos
+        text: ECIP 1099, DAG hesaplamalarında kullanılan epok uzunluğunu kalibre ederek ETHash'ten ETCHash'e geçiş yaptı. 4GB belleğe sahip GPU'ların ETC madenciliği yapmasına izin vererek ağın güvenliğini artırdı.
+      Magneto:
+        title: Magneto
+        text: Ethereum Vakfı Berlin ağ protokolü yükseltme özelliklerini etkinleştirerek Ethereum ile maksimum uyumluluğa ulaştı.
+      Mistique:
+        title: Mistik
+        text: Ethereum ile maksimum uyumluluğu koruyarak Ethereum Foundation London ağ protokolü yükseltme özelliklerini etkinleştirdi.
