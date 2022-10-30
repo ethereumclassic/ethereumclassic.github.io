@@ -1,0 +1,85 @@
+title: Soalan Lazim Pelombong
+seo: Soalan Lazim untuk mereka yang ingin melombong blockchain Bukti Kerja Klasik Ethereum.
+info: 'Tidak dapat mencari jawapan kepada soalan anda di sini? Cuba tanya dalam pelayan komuniti ETC [discord](https://ethereumclassic.org/discord). Secara khusus, anda mungkin menemui saluran `#trading` ETC Discord yang diminati.'
+description: Adakah anda seorang pelombong atau berminat untuk mempelajari cara melombong DLL? Halaman ini adalah untuk anda.
+items:
+  questions:
+    items:
+      hardware:
+        question: Apakah perkakasan yang saya perlukan untuk melombong ETC?
+        answer: |
+          Dua kategori perkakasan utama yang boleh digunakan untuk melombong Ethereum Classic ialah GPU dan ASIC, dan dalam setiap kategori terdapat banyak pilihan. Anda boleh mendapatkan panduan ringkas tentang cara memutuskan perkara yang hendak digunakan dalam bahagian [perkakasan perlombongan](/perlombongan/perkakasan).
+      software:
+        question: Apakah perisian yang boleh saya gunakan untuk melombong ETC?
+        answer: |
+          Bergantung pada sistem pengendalian anda, terdapat beberapa pilihan yang tersedia. Lihat [perisian perlombongan](/perlombongan/perisian) untuk mencari alatan yang sesuai untuk anda. Anda juga menemui tutorial video dalam talian dengan mencari "Cara melombong Ethereum Classic".
+      switch:
+        question: Saya sebelum ini melombong ETH. Apakah yang perlu saya lakukan untuk bertukar kepada ETC?
+        answer: |
+          Algoritma pencincangan Ethereum Classic hampir sama dengan ETHash, jadi ia menyokong perkakasan yang sama, dan perlombongan ETC sepatutnya bertukar kepada kumpulan perlombongan yang menyokong ETC semudah itu.
+      pools:
+        question: Apakah kolam perlombongan?
+        answer: |
+          Memandangkan Ethereum Classic menikmati kadar hash yang besar, sangat tidak mungkin seorang pelombong solo yang kecil bernasib baik untuk melombong blok sendiri. Atas sebab ini, melainkan anda mempunyai operasi perlombongan yang besar, pelombong solo biasanya menyertai kumpulan perlombongan untuk menerima ganjaran yang lebih kecil yang lebih kerap, berkadar dengan kadar hash yang mereka sumbangkan.
+      poolsList:
+        question: Kolam perlombongan manakah yang menyokong ETC?
+        answer: |
+          Anda boleh menemui senarai kumpulan yang menyokong Ethereum Classic dalam bahagian [kolam perlombongan](/perlombongan/kolam) dan metrik tentang saiz kumpulan ini dalam bahagian [monitor rangkaian](/rangkaian/monitor).
+      bestPool:
+        question: Kolam perlombongan mana yang terbaik?
+        answer: |
+          Cari kolam dengan bayaran yang rendah dan kolam yang cukup besar untuk mencari blok dengan kerap. Anda tidak semestinya mahu menyertai kumpulan terbesar, kerana mengimbangi hashrate antara kumpulan berbeza membantu mengekalkan Ethereum Classic tidak berpusat.
+      schedule:
+        question: Adakah ia menguntungkan untuk melombong ETC?
+        answer: |
+          Ethereum Classic pada masa ini ialah mata wang kripto yang boleh ditambang GPU terbesar dari segi hasil bersih, dengan jumlah nilai USD terbesar bagi ganjaran blok.
+
+          Seperti semua operasi perlombongan mata wang kripto, sama ada anda boleh membuat keuntungan atau tidak bergantung pada beberapa faktor, seperti kecekapan perkakasan dan skala, tetapi sebahagian besarnya ditentukan oleh kos elektrik di kawasan setempat anda.
+
+          Sesetengah pengguna mungkin membuat keputusan untuk melombong dengan kerugian, kerana ia membolehkan mereka memperoleh ETC "segar" untuk urus niaga yang tidak mempunyai sebarang asal.
+      ethash:
+        question: Apakah algoritma perlombongan Ethereum Classic?
+        answer: |
+          Ethereum Classic menggunakan algoritma perlombongan [ETCHash](#TODO), sepupu rapat ETHash Ethereum, dengan saiz DAG yang lebih kecil. Perkakasan yang digunakan untuk melombong ETH pra-gabungan juga boleh digunakan untuk melombong ETC.
+      emission:
+        question: Apakah ganjaran blok Ethereum Classic?
+        answer: |
+          Pada masa ini sumber utama hasil untuk pelombong datang daripada ganjaran asas tetap, seperti yang digariskan dalam ECIP-1017. Setiap 5 juta blok, ganjaran ini dikurangkan sebanyak 20%, dengan cara yang sama seperti pengurangan separuh Bitcoin.
+
+          Terdapat juga 3 sumber pendapatan tambahan yang harus diambil kira oleh pelombong semasa mengira keuntungan, yang sebahagian besarnya bergantung pada penggunaan rangkaian:
+
+          - Yuran Transaksi
+          - Kadar Pakcik
+          - MEV (Nilai Boleh Diekstrak Penambang)
+      asics:
+        question: Adakah algoritma perlombongan Ethereum Classic tahan ASIC?
+        answer: |
+          ETHash pada asalnya direka bentuk untuk menyukarkan ingatan, dengan matlamat menjadikan penggunaan ASIC (seperti yang direka untuk algoritma SHA256 Bitcoin) tidak berdaya maju.
+
+          Dari masa ke masa, ia telah menyedari bahawa [tiada perkara seperti rintangan ASIC](#TODO). Akhirnya semua algoritma perlombongan, jika menguntungkan, akan mencipta insentif untuk pereka cip untuk menghasilkan pengoptimuman untuk algoritma khusus itu, yang berlaku untuk ETHash (dan diwarisi oleh ETCHash).
+
+          Mulai 2022, ASIC tersedia yang boleh melombong ETCHash 2x hingga 6x lebih tenaga dengan cekap daripada GPU, dan kemungkinan aliran ini akan berterusan.
+      rewards:
+        question: Berapakah peratusan ganjaran blok ETC diberikan kepada pelombong?
+        answer: |
+          100%. Tidak seperti kebanyakan projek lain, yang mempunyai % daripada ganjaran blok yang dihantar ke sistem perbendaharaan berpusat, ETC kekal neutral sepenuhnya dalam hal ini. Pada tahun 2021 [cadangan perbendaharaan](#TODO) seperti ini telah ditolak oleh komuniti ETC.
+      sha3:
+        question: Adakah Ethereum Classic menukar algoritma perlombongannya kepada SHA3?
+        answer: |
+          Sangat tidak mungkin pada ketika ini.
+
+          Sebelum Ethereum bertukar kepada Proof of Stake, terdapat perdebatan berterusan mengenai ETC bertukar kepada SHA3, sebahagiannya untuk mempertahankan daripada "The Flood" kadar cincang terpendam yang boleh digunakan untuk menyerang 51% rantaian selepas penggabungan.
+
+          Sejak The Merge, jauh daripada diserang, ETC sebaliknya telah menjadi "pemangsa puncak" bagi keluarga algoritma perlombongan ETHash, menjadikannya jauh lebih sukar untuk menyerang 51%. Beralih kepada algoritma SHA3 yang benar-benar baharu akan mengorbankan kedudukan selamat ini dan tidak lagi aktif dibahaskan.
+      pos:
+        question: Adakah ETC akan bertukar kepada Proof of Stake pada masa hadapan?
+        answer: |
+          Walaupun sebarang perubahan kepada Ethereum Classic secara teknikalnya *mungkin*, pertukaran kepada Proof of Stake boleh dikatakan tidak boleh dipertahankan, kerana konsensus telah terbentuk di sekitar keunggulan Proof of Work dari segi rintangan penapisan. Sebarang cadangan untuk memperkenalkan Proof of Stake pada Ethereum Classic pada mulanya akan diejek, dan jika dipaksa ke dalam kod pelanggan, akan menyebabkan perpecahan rantaian mengakibatkan dua rantai. Walau apa pun yang berlaku, akan ada versi Ethereum Classic yang kekal pada Proof of Work, menjadikan percubaan untuk melaksanakan PoS sebahagian besarnya tidak membuahkan hasil.
+
+          Anda boleh membaca lebih lanjut dalam bahagian [Bukti Kerja](/kenapa-klasik/bukti-kerja).
+      uncle:
+        question: Apa itu Pakcik?
+        answer: |
+          Beberapa pelombong bersaing untuk menyerahkan blok kepada rantaian blok. Tidak dapat tidak beberapa pelombong akan kalah dalam persaingan. Blockchain merujuk kepada blok yang hilang untuk menjadikan blockchain lebih selamat. Kehilangan blok ini yang menyumbang kepada keselamatan blockchain dirujuk sebagai _uncles_. Istilah ini berasal daripada fakta bahawa blok mempunyai blok _parent_ sebelum ini. Blok yang kalah bukan ibu bapa tetapi masih berkaitan dengan ibu bapa. Oleh itu mereka seperti bapa saudara.
+
+          - [All About Ethereum - Uncles](https://youtu.be/iIhxtuIhT_g)
