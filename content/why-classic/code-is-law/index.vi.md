@@ -50,11 +50,7 @@ Trong khi những hệ thống mới này sẽ mở ra giá trị to lớn cho �
 
 Trong luật _minh bạch và liêm khiết là khu vực pháp lý của Luật_ , những người không thể cung cấp giá trị thực trên một sân chơi bình đẳng sẽ bị tuyệt chủng. Vì lý do này, trong một nỗ lực vô ích để ngăn chặn tiến trình, các blockchain thực sự phi tập trung sẽ gặp phải sự phản kháng đáng kể từ các tổ chức đương nhiệm mà thực tế công bằng hơn này đặt ra một mối đe dọa hiện hữu.
 
-Nếu lịch</a>
-
-là bất cứ điều gì xảy ra, các nỗ lực sẽ được thực hiện để ngăn chặn việc áp dụng các công nghệ mới trao quyền này. Các dự án không được phân cấp đầy đủ, những dự án không phải là _Cấp_của Chủ quyền, sẽ bị thu phục bởi chính các thể chế mà họ hứa sẽ phá vỡ. Đây là lý do tại sao _Code là Luật_ và mức độ phân quyền cao cần thiết để củng cố nó phải là mục tiêu chính của các blockchain muốn tồn tại và cung cấp giá trị lâu dài.</p> 
-
-
+Nếu lịch là bất cứ điều gì xảy ra, các nỗ lực sẽ được thực hiện để ngăn chặn việc áp dụng các công nghệ mới trao quyền này. Các dự án không được phân cấp đầy đủ, những dự án không phải là _Cấp_của Chủ quyền, sẽ bị thu phục bởi chính các thể chế mà họ hứa sẽ phá vỡ. Đây là lý do tại sao _Code là Luật_ và mức độ phân quyền cao cần thiết để củng cố nó phải là mục tiêu chính của các blockchain muốn tồn tại và cung cấp giá trị lâu dài.
 
 ## Luật không phải là Luật ở đâu
 
@@ -62,23 +58,17 @@ Khái niệm về Bộ luật _là Luật_ có khả năng gây kích động v�
 
 Cách chúng ta tham gia phụ thuộc vào việc nhận ra ranh giới của _Bộ luật là Luật_và hiểu rằng, giống như than hồng của ngọn lửa, nó chỉ có thể tồn tại trong những hoàn cảnh đặc biệt và phải được nuôi dưỡng và trưởng thành thành nguồn ánh sáng cuồng nhiệt mà nó có tiềm năng để trở thành.
 
-
-
 ### Thế giới cũ
 
-Cụm từ không chỉ là _Bộ luật là Luật_. Khái niệm Quy tắc _là Luật_ là xung đột về cách bất kỳ cơ quan quản lý địa phương cụ thể nào xử lý tính không thể ngăn cản của Hợp đồng thông minh trong khu vực pháp lý ngoài chuỗi của họ. Ví dụ, hành vi trộm cắp tiền điện tử được coi là bất hợp pháp ở nhiều nơi và những người đề xuất Luật _là Luật_ có thể nhất quán ủng hộ việc trả lại tiền bị đánh cắp đồng thời phản đối việc đảo ngược các giao dịch độc hại. 
+Cụm từ không chỉ là _Bộ luật là Luật_. Khái niệm Quy tắc _là Luật_ là xung đột về cách bất kỳ cơ quan quản lý địa phương cụ thể nào xử lý tính không thể ngăn cản của Hợp đồng thông minh trong khu vực pháp lý ngoài chuỗi của họ. Ví dụ, hành vi trộm cắp tiền điện tử được coi là bất hợp pháp ở nhiều nơi và những người đề xuất Luật _là Luật_ có thể nhất quán ủng hộ việc trả lại tiền bị đánh cắp đồng thời phản đối việc đảo ngược các giao dịch độc hại.
 
 Vì có nhiều khu vực pháp lý và các phương pháp tiếp cận khác nhau để kiểm soát chính sách, *Code là Luật* các blockchain công nhận rằng để duy trì liên quan và có thể truy cập được trên toàn cầu, chúng phải trung lập và tuân theo *thỏa thuận hợp đồng* riêng của họ. Các mối quan tâm ngoài chuỗi nằm ngoài trách nhiệm của chuỗi, vai trò duy nhất của họ là đảm bảo rằng các giao dịch là _không_ có thể đảo ngược thông qua sự can thiệp của bên thứ ba vào giao thức.
 
 _Mã là Luật_ Blockchain là các hệ thống chọn tham gia có thể gây ra các hậu quả ngoài chuỗi tùy thuộc vào cách chúng được sử dụng. Cũng giống như cách lửa có thể được sử dụng cho cả sự ấm áp và sự tàn phá, với tư cách là một công nghệ sơ khai mới, việc hạn chế sử dụng nó sẽ chỉ cản trở người hạn chế, người sẽ bị bỏ lại phía sau khi những người khác lợi dụng nó. Không nghi ngờ gì rằng một thách thức lớn tồn tại trong việc tìm ra cách thế giới giao tiếp với công nghệ mới này, nhưng điều đó phụ thuộc vào thành kiến văn hóa và không nhất thiết nằm trong tầm kiểm soát của các nhà công nghệ. Trong mọi trường hợp, vui lòng không bắn người đưa tin.
 
-
-
 ### Bên ngoài lớp hợp đồng
 
 Một quan niệm sai lầm phổ biến về Mã _là Luật_ là nó áp dụng cho tất cả các phần của ngăn xếp công nghệ của blockchain, bao gồm cả mã của khách hàng nút. Điều này là vô nghĩa, vì các nút blockchain được viết bằng ngôn ngữ lập trình thông thường và hoạt động trong môi trường thực thi truyền thống, nơi mã không thể là luật nếu nó muốn. Thay vào đó, các ứng dụng khách blockchain được viết để tham gia vào giao thức _của một blockchain_định, hoạt động của nó tạo ra một môi trường thực thi phi tập trung mới; _Hợp đồng Lớp_ nằm trên cùng, nơi _Mã là Luật_ có thể hoạt động.
-
-
 
 ### 9 trên 10 chuỗi
 

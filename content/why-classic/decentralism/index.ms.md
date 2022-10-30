@@ -65,17 +65,13 @@ Hari ini, kebanyakan projek blockchain telah meninggalkan idea untuk memaksimumk
 
 ### Rintangan Penapisan Gred Berdaulat
 
-Satu soalan yang perlu ditanya apabila menilai projek blockchain yang berbeza ialah "adakah ia cukup terdesentralisasi?". </a>untuk ini bergantung sepenuhnya pada model ancaman
-
-kes penggunaan, yang bergantung pada jenis aplikasi yang perlu dijalankan pada rantaian tertentu. Persoalannya boleh dirangka semula sebagai "siapa yang mahu menghentikan aplikasi pada rantaian ini daripada berjalan, dan bolehkah rantai itu menentang percubaan mereka untuk penapisan?".</p> 
+Satu soalan yang perlu ditanya apabila menilai projek blockchain yang berbeza ialah "adakah ia cukup terdesentralisasi?". Jawapan untuk ini bergantung sepenuhnya pada [model ancaman](https://en.wikipedia.org/wiki/Threat_model) kes penggunaan, yang bergantung pada jenis aplikasi yang perlu dijalankan pada rantai yang diberi. Persoalannya boleh dirangka semula sebagai "siapa yang mahu menghentikan aplikasi pada rantaian ini daripada berjalan, dan bolehkah rantai itu menentang percubaan mereka untuk penapisan?".
 
 Sebagai contoh, dalam kes Bitcoin, aplikasi utamanya ialah syiling itu sendiri: kekurangan digital dan keupayaan untuk memindahkannya tanpa penapisan. Ia bersaing dengan banyak mata wang dan aset, termasuk dolar AS, dan oleh itu ia mesti menahan serangan daripada entiti yang sangat berkuasa untuk berterusan. Banyak daripada [pendahulu Bitcoin](https://blog.dassetx.com/the-known-and-possible-influences-of-satoshi-nakamoto-part-1-privately-issued-digital-currencies-before-bitcoin) telah ditutup kerana mereka mempunyai titik utama kegagalan, dan Bitcoin telah direka secara jelas untuk memintas penapisan jenis ini dengan terdesentralisasi yang secukupnya.
 
 Sebaliknya, sesetengah rantaian blok memerlukan rintangan penapisan yang kurang daripada Bitcoin dan hanya berhasrat, sebagai contoh, membolehkan pemindahan kad besbol maya, atau mempunyai kes penggunaan lain yang tidak kontroversial. Memandangkan tiada kuasa luar yang kuat mahu menghentikan aplikasi ini, rintangan penapisan adalah tidak diperlukan. Malah mungkin dilihat sebagai faedah jika sesetengah pihak pusat boleh mengatasi keadaan rantaian dalam keadaan tertentu, jadi mempunyai keseluruhan rantaian dikendalikan oleh segelintir pihak berkuasa boleh diterima untuk kes penggunaan ini. Dalam kes ini, apabila kes penggunaan tidak cukup penting untuk organisasi yang dibiayai dengan baik untuk ditutup, mungkin wajar untuk mengorbankan penyahpusatan untuk skalabiliti, dan teknologi bukan rantaian lain mungkin lebih sesuai.
 
 Ethereum Classic, walaupun pada tahun 2015 apabila ia dikenali sebagai Ethereum, berhasrat untuk mencapai cita-cita pada tahap sekurang-kurangnya terdedah kepada penapisan seperti Bitcoin.
-
-
 
 > Ethereum ialah platform pengkomputeran terdesentralisasi yang melaksanakan kontrak pintar. Aplikasi dijalankan betul-betul seperti yang diprogramkan tanpa kemungkinan penapisan, masa henti atau gangguan pihak ketiga.
 > 
@@ -89,8 +85,6 @@ Ambang kritikal dicapai dengan tahap tidak penapisan ini. Memandangkan tiada ins
 
 _Kod ialah Undang-undang_ hanya boleh beroperasi pada rantaian yang telah mencapai _Rintangan Penapisan Gred Berdaulat_. Tahap ini diperlukan untuk menghalang entiti lain daripada menapis operasinya, dan ini seterusnya memerlukan rantaian untuk memaksimumkan atribut desentralisasinya dan sentiasa mengekalkannya tanpa kompromi. _Kod ialah Undang-undang_ memerlukan _desentralisasi maksima_.
 
-
-
 ## Negara Kegagalan Pemusatan
 
 Sebelum kita meneroka penyelesaian kepada masalah pemusatan, kita mesti terlebih dahulu memahami bagaimana kekurangan desentralisasi boleh cepat mundur menjadi kegagalan sepenuhnya.
@@ -103,8 +97,6 @@ Apabila masa berlalu, serangan terhadap alternatif bebas, adil dan terbuka kepad
 
 Pada masa hadapan, untuk mengekalkan utiliti dan nilai, blockchain mesti menentang pelbagai serangan sosial, ekonomi dan teknologi yang akan digunakan terhadap mereka. Senarai serangan semakin meningkat dan bentuk serangan baharu pasti akan dibayangkan dan dilawan, tetapi buat masa ini, sekurang-kurangnya, keadaan kegagalan yang lebih jelas diketahui mesti dielakkan.
 
-
-
 ### Yayasan Ephemeral
 
 Dari segi sejarah, punca kematian nombor satu untuk projek blockchain adalah apabila pasukan yang bertanggungjawab untuk mengekalkannya tidak lagi beroperasi. Ringkasnya, jika sesuatu projek bergantung kepada jawatankuasa penganjur pusat atau pasukan pembangun, ia hanya akan bertahan selagi organisasi itu melakukannya.
@@ -114,8 +106,6 @@ Organisasi boleh berhenti beroperasi atas pelbagai sebab. Sama ada masalah mudah
 Dalam banyak kes, kewujudan pasukan pusat menghalang orang lain daripada menyumbang kepada projek, kerana mereka tidak berada di padang yang sama rata. Pihak ketiga akan sentiasa menjadi warga kelas kedua berbanding jawatankuasa penganjur pusat ini, yang bertindak pantas dan mendapat manfaat secara tidak seimbang daripada tindakan harga dalam kes cukai premium atau pembangunan, yang mengukuhkan lagi pergantungan kepada pasukan ini untuk mengekalkan dan mengarahkan projek, dan, sekurang-kurangnya, menghalang hierarki organisasi semula jadi daripada muncul.
 
 Pergantungan pada pasukan pusat ini mungkin memberikan hala tuju dan belanjawan besar dalam jangka pendek, tetapi ia membebankan protokol dengan sejenis "hutang pemusatan" yang sukar untuk dibayar. Akhirnya, seperti semua organisasi, pasukan pusat akan berhenti beroperasi. Melainkan projek itu menghilangkan pergantungan ini, ia berkemungkinan akan menjadi sama ada terbengkalai atau tidak sesuai dengan kehidupan tanpa kumpulan ini.
-
-
 
 ### Meatspace Capture
 
@@ -133,8 +123,6 @@ Walaupun pasukan berpusat tidak dikompromi secara terang-terangan, potensi kompr
 
 Keadaan kegagalan ini menunjukkan percanggahan yang wujud dalam mana-mana projek blockchain yang bergantung kepada jawatankuasa penganjur pusat. Walaupun protokol mungkin didesentralisasikan di atas kertas, pada hakikatnya projek itu bergantung kepada kumpulan pusat yang boleh dan akan tunduk kepada kehendak sesiapa sahaja yang merasakan bahawa kos untuk berbuat demikian adalah berbaloi.
 
-
-
 ### Syiling Kabuki
 
 Pemusatan, seperti graviti, sentiasa menarik dan mencari sebarang kelemahan dalam struktur sosioteknologi untuk mencari titik pecahnya. Untuk sistem mengatasi kuasa ini dalam jangka panjang, ia mesti memastikan bahawa tiada titik pusat kegagalan boleh dieksploitasi, yang bermaksud mereka bentuk langkah balas yang teguh yang sentiasa menolak pemusatan bukan sahaja di satu tempat tetapi di semua kawasan.
@@ -149,8 +137,6 @@ Seperti perumpamaan bangunan yang dibina di atas batu dan pasir, kepada mata yan
 
 ![Rantaian sekat, seperti bangunan, boleh dibina di atas asas yang kukuh dan lemah](./rocksand.jpeg)
 
-
-
 ## Masalah Klasik Memerlukan Penyelesaian Klasik
 
 Rasuah adalah masalah setua tamadun. Walaupun ia mungkin belum membesarkan kepala hodohnya dalam ruang mata wang kripto lagi, kerana teknologi menjadi lebih berpengaruh, ia pasti akan menarik kuasa yang ingin mengekang kuasanya dan membentuknya ke arah masa depan di mana, jauh daripada membebaskan manusia, rantaian blok menjadi alat untuk mengoptimumkan perhambaan.
@@ -161,8 +147,6 @@ Walaupun ia masih secara sukarela, daripada bergantung pada tokoh pihak berkuasa
 
 Dengan kembali kepada akar teknologi blockchain, teori ekonomi dan pelajaran sejarah, kebijaksanaan dalam keputusan reka bentuk di sebalik Bitcoin menjadi jelas, dan logik ini boleh digunakan semula kepada kemajuan teknologi lain dalam ruang, termasuk Platform Kontrak Pintar seperti Ethereum. Klasik.
 
-
-
 ### Prinsip Diutamakan
 
 Walaupun institusi dan manusia yang menjadikannya boleh salah, berubah-ubah dan rapuh, idea adalah kalis peluru. Ia adalah jelas bahawa teknologi yang sama penting dan berpengaruh seperti blockchain mesti dibina di atas sesuatu yang lebih daripada orang. Falsafah yang dibangunkan dengan baik mesti bertindak sebagai asas yang kukuh untuk membimbing tindakan beg daging yang boleh ditangkap.
@@ -172,8 +156,6 @@ Idea yang baik berdiri sendiri, boleh dibahaskan di khalayak ramai, dan sah tanp
 Pragmatisme adalah hiliran untuk mengekalkan dan mematuhi prinsip yang kukuh, kerana ia membolehkan kemandirian praktikal, kemampanan jangka panjang dan bertindak sebagai satu bentuk pengiklanan yang menarik penyumbang berkualiti. Pendekatan pertama prinsip pergi jauh untuk memastikan bahawa projek boleh mengekalkan hala tujunya untuk banyak generasi akan datang, kerana ia tidak dipandu oleh kepentingan kumpulan pusat yang sentiasa berubah, tetapi oleh titik rujukan falsafah luaran yang, walaupun dengan tinggi. perolehan penyumbang, boleh diteruskan dan diperhalusi secara terbuka untuk mengarahkan masa depan projek.
 
 Tidak mempunyai kumpulan pusat untuk mengambil tindakan bermakna mana-mana individu atau kumpulan boleh mengisi sebarang peranan, selagi mereka mentafsir dan melaksanakan prinsip dan nilai ETC dengan setia, seperti yang difahami oleh pihak berkepentingan. Jika ada yang merasakan bahawa garpu keras menyimpang daripada nilai yang mereka daftar, mereka boleh meneruskan versi rantaian yang sedia ada. Risiko perpecahan rantai bermakna semua peserta diberi insentif untuk bekerjasama untuk menyelesaikan perbezaan, dan kedua-dua pihak dalam perdebatan tidak boleh mengatasi yang lain jika perselisihan tidak dapat diselesaikan.
-
-
 
 ### Kekecualian Protokol
 
@@ -191,8 +173,6 @@ Daripada bergantung kepada suntikan tunai yang tidak mampan daripada pihak berku
 
 Strategi ini berfungsi paling baik apabila seseorang individu mendapat ganjaran penuh daripada sumbangan mereka, yang hanya boleh berlaku apabila protokol adalah neutral. Protokol neutral melayan semua peserta pada kedudukan yang sama dan tidak memberikan sebarang keistimewaan kepada pihak tertentu. Projek blockchain terdesentralisasi akan bersaing antara satu sama lain atas dasar ini; hanya projek yang paling neutral, yang tanpa Asas, Cukai Dev, atau premine yang tidak dicairkan, akan menarik jenis sumbangan semula jadi yang membolehkan kemampanan jangka panjang.
 
-
-
 ### Mengimbangi Kuasa
 
 Seperti yang digemakan oleh struktur institusi sedia ada seperti kerajaan Amerika Syarikat, untuk mengekang pembuatan keputusan yang buruk dan menghalang satu kumpulan daripada merampas sistem secara keseluruhan untuk kepentingan mementingkan diri sendiri, keseimbangan kuasa antara pemain yang berbeza perlu wujud dalam sistem yang ingin mengekalkan umur panjang. Konsep ini dikenali sebagai _semak dan imbang_.
@@ -206,7 +186,6 @@ Sama seperti Kerajaan AS, semak dan imbang adalah ciri penting blok blok Proof o
 | pemaju    | Mengekalkan pelanggan dan infrastruktur       | Berhenti mengekalkan kod    |
 | pelombong | Menyediakan keselamatan terhadap 51% serangan | Tambang rantai yang berbeza |
 | Pembiaya  | Menyediakan inisiatif kecairan dan kewangan   | Jual pegangan               |
-
 
 Penjajaran tiga kuasa utama dalam blockchain Proof of Work memberikan kestabilan. Mereka masing-masing menambah nilai kepada sistem dengan cara yang sama sekali berbeza. Masing-masing memegang sistem untuk mengambil kira melalui kuasa veto, yang memastikan bahawa tiada kumpulan lain boleh merosakkan keadaan terlalu teruk. Sama ada kerajaan atau rantaian blok, perkara cenderung menjadi salah apabila semakan dan imbangan ini diganggu.
 
@@ -222,8 +201,6 @@ Rangka tindakan yang diperkenalkan oleh Bitcoin juga digunakan oleh banyak mata 
 
 Jika projek ingin bertahan dalam jangka panjang, ia mesti mempunyai cukup topang struktur insentif yang diperlukan ini untuk diseimbangkan dengan betul. Jika Bitcoin ialah tripod kukuh yang diperbuat daripada pelombong, pemaju dan pedagang, dengan menggergaji salah satu kaki ini, sebagai contoh, dengan beralih kepada Proof of Stake dan menembak pelombong, hasilnya ialah bangku bar berkaki dua; yang boleh terkangkang untuk seketika, tetapi angin sepoi-sepoi pun akan menyebabkan ia menjadi liabiliti yang berbahaya.
 
-
-
 ### Desentralisasi Maximalism
 
 _Desentralisasi maksima_ adalah satu-satunya mekanisme yang diketahui untuk menolak kuasa pemusatan jangka panjang. Ia bukanlah satu set peraturan yang telah ditetapkan tetapi falsafah umum atau cara berfikir yang bertujuan untuk mengurangkan bilangan titik pusat kegagalan di seluruh sistem.
@@ -233,8 +210,6 @@ Ia menuntut agar desentralisasi diteruskan secara holistik dalam semua bidang, d
 Jika masuk akal, mengikut definisi, pendekatan ini tidak memerlukan kompromi. Malah pengorbanan, pelanggaran atau pengecualian yang paling kecil harus, melainkan sama sekali tidak dapat dielakkan dengan beberapa pertukaran yang berbaloi secara keseluruhan dalam konteks kriteria pemberhentian yang diketahui, tidak boleh diterima. Oleh kerana pemusatan sukar untuk disingkirkan, ia biasanya terkumpul dari semasa ke semasa dan akan bertimbun sehingga sistem ditangkap dalam satu cara atau yang lain.
 
 Walau apa pun persimpangan jalan, _desentralisasi maksima_ memerlukan kewaspadaan abadi dan pengetahuan bahawa sistem secara semula jadi cenderung ke arah pemusatan, jadi setiap keputusan yang dibuat mesti mempertimbangkan kos yang dibayar dalam hutang pemusatan, untuk memastikan sistem bebas hutang jangka panjang.
-
-
 
 ## Seterusnya
 
