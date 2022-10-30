@@ -1,0 +1,24 @@
+items:
+  links:
+    items:
+      Grayscale's ETC Research Report:
+        name: Laporan Penyelidikan ETC Grayscale
+        description: Laporan Grayscale tentang cadangan nilai Ethereum Classic. Membincangkan asal usul ETH dan ETC, peluang pelaburan yang dipersembahkan oleh ETC sebagai komoditi simpanan nilai yang boleh menggerakkan internet segala-galanya, dan bagaimana peruntukan strategik kepada ETC boleh meningkatkan kecekapan portfolio pelabur.
+      etcIsMoney:
+        name: ETC ialah Wang
+        description: Peringatan berwarna-warni dan berpendirian tentang kualiti "wang keras" dan cara ia berkaitan dengan Ethereum Classic
+      The Ethereum Classic Monetary Policy Explained:
+        name: Dasar Monetari Klasik Ethereum Dijelaskan
+        description: Membentangkan dasar monetari ETC yang dihadkan, serupa dengan Bitcoin dan tidak seperti ETH. Jumlah bekalan ETC akan menumpu pada jumlah antara 199M dan 210M sepanjang abad akan datang. Juga menerangkan 20% pengurangan bekalan baharu ("limatan") setiap blok 5M, dan ekonomi peruntukan pelancaran awal.
+      The Logic of why Ethereum Classic will Rise 1000x in the Medium to Long Term:
+        name: Logik mengapa Ethereum Classic akan Meningkat 1000x dalam Jangka Sederhana hingga Panjang
+        description: Etherplan menerangkan sebab Ethereum Classic *mungkin* melihat beberapa pulangan yang menggalakkan pada masa hadapan yang boleh dijangka.
+      Why Does Ethereum Classic Have Value?:
+        name: Mengapa Ethereum Classic Mempunyai Nilai?
+        description: Etherplan mengkaji cadangan nilai ETC dan sebab rangkaian mempunyai nilai asas sebagai "emas digital boleh diprogramkan."
+      Decentralized Finance (DeFi) on ETC Explained:
+        name: Decentralized Finance (DeFi) on ETC Explained
+        description: Terokai bagaimana kekayaan boleh disimpan pada blockchain oleh pemiliknya dan dimanfaatkan melalui aplikasi kewangan terdesentralisasi. DeFi memberikan peserta kawalan dan ketelusan yang jauh lebih besar ke dalam dana mereka berbanding sistem perbankan tradisional.
+      Grayscale Ethereum Classic Trust (ETCG):
+        name: Kepercayaan Klasik Ethereum Skala Kelabu (ETCG)
+        description: Ethereum Classic Trust Grayscale membolehkan pelabur mendapat pendedahan kepada pergerakan harga ETC melalui kenderaan pelaburan tradisional. ETCG didagangkan di pasaran saham menggunakan pembrokeran, dan boleh dipegang oleh akaun persaraan (IRA/401K). Mengelakkan cabaran pelabur membeli dan menyimpan ETC.
