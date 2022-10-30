@@ -1,0 +1,17 @@
+title: Nhóm phát triển
+seo: Danh sách các tổ chức lớn trước đây hoặc hiện đang đóng góp cho Ethereum Classic.
+description: |
+  Ethereum Classic là một hệ sinh thái phát triển phi tập trung có nghĩa là không có nhóm 'chính thức' hoặc hệ thống phân cấp chính thức. Cộng đồng phát triển toàn cầu này là một 'chế độ chính trị' không được phép, nơi bất kỳ ai cũng có thể tham gia. Các cá nhân và nhóm chọn nhiệm vụ cho mình và thực hiện chúng. Chúng tôi cùng nhau thiết lập [sự đồng thuận thô sơ] (https://en.wikipedia.org/wiki/Rough_consensus) thông qua quy trình [Đề xuất cải tiến Ethereum Classic (ECIP)] (https://ecips.ethereumclassic.org/).
+
+  Đây là danh sách các nhóm nổi bật đã đóng góp cho Ethereum Classic kể từ khối khởi đầu của dự án vào ngày 30 tháng 7 năm 2015. Hệ sinh thái Ethereum Classic đánh giá cao tất cả các nỗ lực phát triển cấp độ giao thức của các cá nhân, tình nguyện viên và nhóm.
+items:
+  teams:
+    columnItems:
+      year:
+        name: Năm
+      name:
+        name: Tên nhóm
+      social:
+        name: Xã hội
+      active:
+        name: Tích cực
