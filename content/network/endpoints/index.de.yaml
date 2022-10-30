@@ -1,0 +1,19 @@
+title: Öffentliche Endpunkte
+seo: Eine Liste von Remote Procedure Call (RPC)-Endpunkten, die zur Interaktion mit ETC über MetaMask und andere Anwendungen verwendet werden können.
+description: |
+  Remote Procedure Call (RPC)-Endpunkte sind Ihr Tor zu Ethereum Classic und ermöglichen es Ihnen, mit der ETC-Kette zu kommunizieren und Daten von ihr zu lesen. Für maximale Vertrauenswürdigkeit führen Sie einen [ETC-Client](/development/clients) lokal aus; ein lokaler Endpunkt wird normalerweise unter `http://localhost:8545` zur Verfügung gestellt.
+
+  Es gibt auch öffentliche Ethereum Classic RPC-Endpunkte, die entweder kostenlos für die Community oder als Abonnementdienst zur Verfügung gestellt werden. Da Sie Transaktionen lokal signieren und übertragen können, indem Sie eine Wallet wie [MetaMask](/guides/metamask) verwenden, können öffentliche Endpunkte verwendet werden, ohne dass Sie Ihre privaten Schlüssel verlieren.
+
+  Sie können diese URLs zur Durchführung von Transaktionen und zur Bereitstellung für ETC (oder dessen Testnets) verwenden, indem Sie die Konfiguration Ihrer Wallet oder Ihres Bereitstellungstools aktualisieren. Stellen Sie sicher, dass Sie auch Ihre Chain ID auf `61` für das Ethereum Classic Mainnet ändern.
+
+  Weitere Informationen zu anderen Netzwerken finden Sie im Abschnitt [testnets](/development/testnets).
+
+  **Es wird empfohlen, einen der in Echtzeit überwachten ETC-RPC-Endpunkte unter [ChainList.org](https://chainlist.org/en/chain/61) zu wählen.
+items:
+  endpoints:
+    columnItems:
+      name:
+        name: Dienst
+      rpcUrl:
+        name: RPC-URL

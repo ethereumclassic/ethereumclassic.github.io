@@ -1,0 +1,108 @@
+title: ソーシャルチャネル
+seo: Ethereum Classicのチャットルーム、Twitterアカウント、ディスカッショングループ、フォーラム、ポッドキャスト、リポジトリ、地域のウェブサイトを集めたサイト。
+description: |
+  以下は、アクティブなEthereum Classicのディスカッションチャンネルとグループの非網羅的なリストです。
+
+  現在、ETCコミュニティ内の活動の主な中心は、 [Discord](https://ethereumclassic.org/discord) にあります。
+items:
+  Chat Rooms:
+    title: チャットルーム
+    items:
+      chat Discord:
+        name: Discord (コミュニティ、グローバル)
+      chat Discord Coop:
+        name: Discord(ETC生協)
+      chat Facebook English:
+        name: フェイスブック(英語)
+      chat Facebook Vietnam:
+        name: フェイスブック(ベトナム語)
+      chat Kakao Korea:
+        name: カカオ
+      chat Slack:
+        name: スラック(英語)
+      chat WeChat:
+        name: ウィーチャット(中文)
+  Development Chat:
+    title: 開発チャット
+    items:
+      Core-Geth dev:
+        name: コアゲス
+      ETC Core dev:
+        name: ETCコア
+      Hyperledger Besu dev:
+        name: ハイパーレッジャー・ベスー
+  Telegram Groups:
+    title: テレグラムグループ
+    items:
+      telegram English:
+        name: イングリッシュ
+      telegram Español:
+        name: スペイン語
+      telegram Italia:
+        name: イタリア
+      telegram Russia:
+        name: ロシア
+      telegram Viet Nam:
+        name: ベトナム
+      telegram China:
+        name: 中文
+  Forums:
+    title: フォーラム
+    items:
+      forum RedditEthereumClassic:
+        name: Reddit r/EthereumClassic
+      forum BitcoinTalk:
+        name: ビットコイントーク
+      forum Archived BitcoinTalk:
+        name: BitcoinTalkのアーカイブ
+  Media:
+    title: メディア
+    items:
+      media ETCfInv:
+        name: 投資家のためのイーサリアムカシック(ETC)
+      media EthereumClassicCC:
+        name: Ethereum Classic コミュニティコール
+      media Etherplan:
+        name: エーテルプラン
+      media EVM61:
+        name: EVM61
+      media Explore The Chain:
+        name: チェーン展開
+      media Let's Talk ETC!:
+        name: レッツトークETC!
+  Twitter Accounts:
+    title: Twitterアカウント
+    items:
+      twitter China:
+        name: 中国
+      twitter English 1:
+        name: "ETC_Network"
+      twitter English 2:
+        name: "eth_classic"
+      twitter Español:
+        name: スペイン語
+      twitter France:
+        name: フランス
+      twitter Germany:
+        name: ドイツ
+      twitter Italia:
+        name: イタリア
+      twitter Japan:
+        name: 日本
+      twitter Korea 1:
+        name: 韓国
+      twitter Korea 2:
+        name: 韓国
+      twitter Netherlands:
+        name: オランダ
+      twitter Turkey:
+        name: トルコ
+      twitter Viet Nam:
+        name: ベトナム
+  Regional Website:
+    title: 地域サイト
+    items:
+      website ETC Hub:
+        name: ETCHub.io
+      website EthereumClassic.cn:
+        name: EthereumClassic.cn

@@ -1,0 +1,103 @@
+title: Ethereum Klassiek
+seo: "Een gedecentraliseerd computerplatform waarop slimme contracten draaien: toepassingen die precies draaien zoals geprogrammeerd, zonder downtime, censuur of inmenging van derden."
+#Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
+metaLocale: en_US
+#Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
+htmlLang: en
+published: Gepubliceerd
+updated: Laatst bijgewerkt
+author: Auteur
+timeline:
+  chronological: Chronologisch
+  reversed: Omgekeerd
+disclaimers:
+  verify:
+    title: Vertrouw niet, controleer.
+    text: Externe links zijn onofficiële inzendingen van de gemeenschap.
+  opinion:
+    title: Opiniërende inhoud
+    text: Deze pagina geeft niet noodzakelijk het standpunt van alle ETC-belanghebbenden weer.
+next: Lees verder
+prev: Vorig artikel
+contribute: Als u wilt bijdragen door informatie aan deze pagina toe te voegen of te corrigeren, stuur dan een bericht naar [Discord](https://discord.com/invite/dwxb6nf) of maak een probleem aan op [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io).
+contributors: "Deze pagina bestaat mede dankzij de volgende medewerkers:"
+allLanguages: Alle talen
+noResults: Geen resultaten
+netlify: Deze site wordt aangedreven door Netlify
+metaMask: ETC toevoegen aan MetaMask
+helpTranslate: Steun ETC door deze website te helpen vertalen!
+noItems: Sorry, deze pagina is leeg!
+search:
+  box: Zoek op
+  noResults: Geen resultaten...
+  poweredBy: Aangedreven door Algolia
+  generalInfo: Algemene informatie
+  blogArticles: Blog Artikelen
+  videos: Video's
+  applications: Toepassingen
+  newsLinks: Nieuws
+  txSearch: Lijkt erop dat je een Ethereum Classic adres of transactie hebt ingevoerd.
+  blockScout: "Zoek Blockscout Explorer:"
+  explorers: ...of bekijk enkele andere [blockchain verkenners](/netwerk/verkenners).
+##
+## Announcement Banner
+announcement:
+  text: |
+    Deze website wordt nu in meerdere talen vertaald door middel van machine learning. Klik op het wereldbolpictogram rechtsboven op de pagina om van taal te veranderen. Als u wilt helpen bij het corrigeren van vertalingen, neem dan contact met ons op!
+  button:
+    text: "Help vertalen"
+## Footer
+signOff: Gemaakt met `<3` voor de Originele Ethereum Visie
+socialHilight: De ETC-gemeenschap is actief op Discord
+socialItems:
+  discord:
+    name: Discord
+  discordCoop:
+    name: ETC Coop Discord
+  githubOrg:
+    name: Github
+  githubLabs:
+    name: ETC Labs Github
+  reddit:
+    name: Reddit
+  twitter:
+    name: Twitter
+appTypes:
+  finance:
+    name: Financiën
+  games:
+    name: Spelletjes
+  identity:
+    name: Identiteit
+  interoperability:
+    name: Interoperabiliteit
+  nfts:
+    name: NFT's
+  other:
+    name: Andere
+appLinks:
+  homepage: Homepage
+  app: App Site
+  twitter: Twitter
+  github: Github
+newsTypes:
+  news:
+    name: Link
+  blog:
+    name: Blog
+  application:
+    name: App
+    prefix: "App: "
+  video:
+    name: Video
+    prefix: "Video: "
+## App Modal
+appModal:
+  verifiedContract: Contract
+  openSource: Open Bron
+  audit: Gecontroleerd
+  testSuite: Testreeks
+  ipfsFrontend: IPFS Frontend
+  checkListRating: Controlelijst zonder vertrouwen Niveau
+  warning: "**Waarschuwing:** Deze door gebruikers ingediende app is NIET doorgelicht en NIET gegarandeerd veilig; gebruik op eigen risico, en doe altijd je eigen onderzoek!"
+  added: 'Toegevoegd:'

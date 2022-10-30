@@ -1,0 +1,23 @@
+title: 앱 및 프로토콜
+seo: Ethereum Classic을 기반으로 구축된 분산형 앱 및 프로토콜 NFT, 게임, ID 시스템, DEX, 금융 상품 등...
+description: Ethereum Classic은 증가하는 분산 응용 프로그램 및 프로토콜 모음을 호스팅합니다. 이 페이지는 ETC 네트워크 개발 현황에 대한 개요입니다.
+support: 자신의 앱을 제출하여 ETC를 지원하십시오!
+types:
+  nfts:
+    title: NFT
+    description: 대체 불가능한 토큰은 2021년과 그 이후에 암호화폐 공간을 휩쓴 위조 불가능한 수집품입니다.
+  games:
+    title: 계략
+    description: Ethereum Classic 블록체인에 안치된 대화형 게임은 엔터테인먼트의 새로운 지평에 도달합니다.
+  identity:
+    title: 신원 시스템
+    description: 상호 운용 가능한 ID는 명성과 거버넌스를 촉진하는 Sybil 내성 분산 시스템을 만드는 데 중요한 역할을 합니다.
+  interoperability:
+    title: 상호 운용성
+    description: 블록체인 간에 가치와 데이터를 공유할 수 있는 크로스체인 기술은 네트워크 효과를 강화하고 관련된 모든 사람에게 더 큰 파이를 제공합니다.
+  finance:
+    title: 재원
+    description: DeFi(Decentralized Finance), DEX(Decentralized Exchanges), DAO(Decentralized Autonomous Organizations), 약어가 무엇이든 블록체인 기술은 이러한 새로운 경제 수단을 구축하는 데 탁월합니다.
+  other:
+    title: 다른
+    description: 너무 독특해서 기존 범주에 맞지 않는 모든 애플리케이션과 프로토콜.

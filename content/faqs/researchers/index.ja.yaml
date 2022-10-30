@@ -1,0 +1,91 @@
+title: 研究者FAQ
+seo: Ethereum Classicについて調べたり、基本的なことを理解しようとする人のためのよくある質問です。
+info: ご質問に対する回答がここで見つかりませんか？ETCコミュニティ [discord](https://ethereumclassic.org/discord) サーバーで質問してみてください。
+description: イーサリアムクラシックを知ったばかりでもっと知りたい方、すでにETCを保有しているがその存在理由をもっと深く理解したい方のために、このページをご用意しました。
+items:
+  questions:
+    items:
+      what:
+        question: イーサリアムクラシックとは？
+        answer: |
+          イーサリアムクラシックは、誰もが許可なく分散型アプリケーションを構築、展開、使用することができるProof of Workスマートコントラクトブロックチェーンです。イーサリアムクラシックは、中央の組織委員会を通さずに世界中の人々によって構築された草の根オープンソースプロジェクトです。
+
+          哲学的には、ETCはビットコインと似ており、分散化、検閲への抵抗、健全な貨幣という理想を大切にしています。技術的には、EVM(Ethereum Virtual Machine)を運用するEthereumと似ている。
+
+          この2つのアプローチを組み合わせることで、イーサリアムクラシックは、スマートコントラクトの柔軟性と革新性と共に、サイファーパンクの理想に根ざした強力な分散主義の基盤を提供し、独自の地位を確立しているのである。
+      overview:
+        question: Ethereum ClassicはEthereumのパクリ？
+        answer: |
+          いいえ、実はイーサリアムはイーサリアムクラシックのフォークなのです。
+
+          2014年、 [Ethereum](https://ethereum.org/what-is-ethereum/)の創設者たちは、一般的で信頼最小限のスマートコントラクトプラットフォームを実装するという野望を持った次世代ブロックチェーンに取り組み始めました。
+
+          2016年、物議を醸したハードフォークを経て、新しいコンセンサスルールを持つ新しいネットワークを産み出すことで、プロトコルの新バージョン(現在はイーサリアムとして知られています)が開始されました。Ethereum Classicは、「Build Unstoppable Applications」というOriginal Ethereum Visionを継続することを使命とし、フォークしないプロトコルを踏襲し続けました。
+      eth:
+        question: Ethereum ClassicとEthereumの違いは何ですか？
+        answer: |
+          Ethereum ClassicとEthereumはかつて同じプロジェクトだったが、思想の違いから2016年にコミュニティが分裂した。2022年、イーサリアムはProof of Stakeに移行し、クラシックはProof of Workのままとなった。これが2つのチェーン間の最初の大きな技術的な違いとなった。
+
+          コンセンサスメカニズムを除けば、ETCとETHは技術的に非常に類似しており、ETCはEVMの互換性を維持しているため、イーサリアムに展開されたコントラクトはイーサリアムクラシックにも容易に展開することができるようになっています。
+
+          イーサリアムとイーサリアムクラシックの分裂については、 [history](/knowledge/history) と [geneis](/why-classic/genesis) のセクションで詳しく説明されています。
+      whitepaper:
+        question: イーサリアムクラシックにホワイトペーパーはありますか？
+        answer: |
+          EthereumはEthereum Classicのフォークであるため、Ethereum [Whitepaper](https://ethereum.org/en/whitepaper/) や [Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) などの先行ドキュメントを含め、2016年までの歴史は両プロジェクトで共通である。
+
+          イーサリアムとの分裂後、ETCの支持者は哲学の違いを詳細に記した文書を多数発表し、それがイーサリアムクラシックプロジェクトのDNAの一部となったのです。Ethereum Classicの設立文書については、 [foundation](/knowledge/foundation)セクションで詳しく説明されています。
+      roadmap:
+        question: イーサリアムクラシックのロードマップはどこで見ることができますか？
+        answer: |
+          Bitcoinと同様、トップダウンのリーダーシップを持たない分散型プロジェクトとして、正式な実行ロードマップはありません。Ethereum Classic Improvement Proposal](/development/ecips) (ECIP) プロセスを通じて、草の根の協力によりプロトコルは継続的に改善されています。
+
+          アップグレードの可能性については、 [future](/knowledge/future)のセクションで詳しく説明されています。
+      origins:
+        question: イーサリアムクラシックはなぜ存在するのですか？
+        answer: |
+          イーサリアムクラシックの使命は、「コードは法則」という理想に具現化された「止められないアプリケーションを構築する」というイーサリアム本来のビジョンを継承することです。
+
+          技術的なレベルでは、Ethereum Classicは、2016年にETCから分離したEthereumの継続として存在し、その上で動作するアプリケーションの実行を停止させることで、ETCを実現します。その詳細については、 [geneis](/why-classic/genesis) の項目で知ることができます。
+      codeIsLaw:
+        question: Code is Law "とはどういう意味ですか？
+        answer: |
+          "Code is Law "は、いかなる権威もオンチェーンでの有効な契約や取引の運用に干渉する能力を持たない理想であり、世界の状況を大きく改善する可能性を持つ多くの有望な利点を可能にするものである。
+
+          代替案である「コードは法律ではない」は、ブロックチェーン技術の夜明け前の標準的な状態であり、腐敗しやすいオフチェーンの意思決定プロセスによって契約や取引の結果が決定されます。
+
+          この概念のニュアンスについては、[Code is Law](/why-classic/code-is-law) の項目で詳しく説明しています。
+      decentralization:
+        question: なぜ分散化にこだわる必要があるのか？
+        answer: |
+          分散化は、"Code is Law "の前提条件である。参加者が公平な立場で活動できるようにし、ブロックチェーン技術の根本的な価値を解き放つものです。多くのブロックチェーン・プロジェクトは、その主張とは裏腹に、十分に分散化されていないため、捕捉や検閲の影響を受けやすくなっています。
+
+          これについては、 [decentralism](/why-classic/decentralism)セクションで詳しく解説しています。
+      who:
+        question: Ethereum Classic Projectの責任者は誰ですか？
+        answer: |
+          ビットコインと同様に、イーサリアムクラシックプロジェクトは単一の団体が担当しているわけではありません。その代わり、共通の原則に従った個人やチームが、パーミッションのない草の根的な行動主義で貢献しています。この組織構造にはいくつかの欠点があるが、プロジェクトがある種の捕獲を免れ、その結果、長期的な存続が可能になるのである。
+
+          したがって、このウェブサイトやイーサリアムクラシックのクライアントソフトウェアさえも含め、ETCにはトップダウンのリーダーシップや「公式なもの」は存在しない。それでも、エコシステム内で活動する著名なチームがあり、評判や実績、貢献度に基づいて非公式な影響力を得ています。
+
+          Ethereum Classicの自己組織化コミュニティについては、 [community](/community) および [foundation](/knowledge/foundation) セクションで詳しく知ることができます。
+      proofOfWork:
+        question: なぜイーサリアムクラシックはProof of Stakeを採用しないのですか？
+        answer: |
+          Ethereum Classicは検閲への耐性を重視しているため、コミュニティは実績のあるProof of Workコンセンサスメカニズムに留まることを決定しました。Proof of Stakeの様々なフレーバーがPoWと同じセキュリティ保証にマッチしない理由はたくさんありますが、要するに、それらはすべてセキュリティまたは分散化のトレードオフを伴い、検閲の影響を受けやすくなっているのです。
+
+          Ethereum ClassicがProof of Stakeに移行しない決定については、[Proof of Work](/why-classic/proof-of-work) のセクションで詳しく説明されています。
+      stats:
+        question: Ethereum Classicのネットワーク状況を知るにはどうしたらいいですか？
+        answer: |
+          ネットワークモニター](/network/monitors)や[ブロックチェーンエクスプローラー](/network/explorers)では、ETCの健全性や状態に関する情報を確認できるほか、各種 [exchanges](/services/exchanges) で価格情報を確認することができます。
+
+          特筆すべきは、 [etc-network.info](https://etc-network.info/)というサイトが、多くのモニターサービスを保持していることです。
+      news:
+        question: ETCの最新情報を入手するにはどうしたらいいですか？
+        answer: |
+          [News](/news) では、重要なニュースやコミュニティのブログ記事を定期的に更新しています。また、RSSフィードも掲載されています。
+
+          また、コミュニティの [Social Channels](/community/channels) からも多くの更新情報を入手することができます。特筆すべきは、イーサリアムクラシックコミュニティの[Discord Server](https://ethereumclassic.org/discord)と[/r/ethereumclassic](https://reddit.com/r/ethereumclassic)でしょう。
+
+          また、[Ethereum Classic Github](https://github.com/ethereumclassic) や [ETC Labs Github](https://github.com/etclabscore) という組織で開発の更新を追うことができます。

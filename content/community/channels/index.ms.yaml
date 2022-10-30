@@ -1,0 +1,108 @@
+title: Saluran Sosial
+seo: Koleksi ruang sembang Ethereum Classic, akaun Twitter, kumpulan perbincangan, forum, podcast, repositori dan tapak web serantau.
+description: |
+  Berikut ialah senarai saluran dan kumpulan perbincangan Ethereum Classic yang tidak lengkap.
+
+  Hab aktiviti utama dalam komuniti ETC pada masa ini adalah pada [Discord](https://ethereumclassic.org/discord).
+items:
+  Chat Rooms:
+    title: Bilik berbual
+    items:
+      chat Discord:
+        name: Perselisihan (Komuniti, Global)
+      chat Discord Coop:
+        name: Perselisihan (ETC Coop)
+      chat Facebook English:
+        name: Facebook (Bahasa Inggeris)
+      chat Facebook Vietnam:
+        name: Facebook (Vietnam)
+      chat Kakao Korea:
+        name: Kakao (Bahasa Korea)
+      chat Slack:
+        name: Slack (Bahasa Inggeris)
+      chat WeChat:
+        name: WeChat (中文)
+  Development Chat:
+    title: Sembang Pembangunan
+    items:
+      Core-Geth dev:
+        name: Teras-Geth
+      ETC Core dev:
+        name: Teras DLL
+      Hyperledger Besu dev:
+        name: Hyperledger Besu
+  Telegram Groups:
+    title: Kumpulan Telegram
+    items:
+      telegram English:
+        name: Inggeris
+      telegram Español:
+        name: Español
+      telegram Italia:
+        name: Itali
+      telegram Russia:
+        name: Rusia
+      telegram Viet Nam:
+        name: Vietnam
+      telegram China:
+        name: 中文
+  Forums:
+    title: Forum
+    items:
+      forum RedditEthereumClassic:
+        name: Reddit r/EthereumClassic
+      forum BitcoinTalk:
+        name: BitcoinTalk
+      forum Archived BitcoinTalk:
+        name: BitcoinTalk yang diarkibkan
+  Media:
+    title: Media
+    items:
+      media ETCfInv:
+        name: Ethereum Cassic (ETC) untuk Pelabur
+      media EthereumClassicCC:
+        name: Panggilan Komuniti Klasik Ethereum
+      media Etherplan:
+        name: Etherplan
+      media EVM61:
+        name: EVM61
+      media Explore The Chain:
+        name: Terokai The Chain
+      media Let's Talk ETC!:
+        name: Mari Berbincang DLL!
+  Twitter Accounts:
+    title: Akaun Twitter
+    items:
+      twitter China:
+        name: China
+      twitter English 1:
+        name: "@ETC_Network"
+      twitter English 2:
+        name: "@eth_classic"
+      twitter Español:
+        name: Español
+      twitter France:
+        name: Perancis
+      twitter Germany:
+        name: Jerman
+      twitter Italia:
+        name: Itali
+      twitter Japan:
+        name: Jepun
+      twitter Korea 1:
+        name: Korea
+      twitter Korea 2:
+        name: Korea
+      twitter Netherlands:
+        name: Belanda
+      twitter Turkey:
+        name: Turki
+      twitter Viet Nam:
+        name: Vietnam
+  Regional Website:
+    title: Laman Web Serantau
+    items:
+      website ETC Hub:
+        name: ETCHub.io
+      website EthereumClassic.cn:
+        name: EthereumClassic.cn

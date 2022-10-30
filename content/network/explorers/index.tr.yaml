@@ -1,0 +1,13 @@
+title: Blockchain Kaşifleri
+seo: Ethereum Classic ve çeşitli ETC test ağları için blok zinciri gezgin hizmetlerinin bir listesi.
+description: |
+  Blok Zinciri Kaşifleri, belirli bir zincirin mevcut ve geçmiş durumu hakkında bilgi edinmek için uygun bir yol sağlayarak blokların, işlemlerin ve hesap bakiyelerinin içeriğini incelemenize olanak tanır.
+
+  Aşağıdaki üçüncü taraf kaşifler, Ethereum Classic'in ve test ağlarının durumunu bağımsız olarak doğrular. Genellikle işlemlerin yayınlandığını ve onaylandığını kontrol etmek için kullanılırlar, ancak birçoğu geçmiş hesap bakiyeleri, sözleşme doğrulama ve daha fazlası gibi daha gelişmiş özellikler sunar.
+items:
+  explorers:
+    columnItems:
+      kotti:
+        text: Kotti
+      mordor:
+        text: Mordor

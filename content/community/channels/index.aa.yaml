@@ -1,0 +1,211 @@
+__contribute: 1
+__disclaimer: verify
+title: crwdns65378:0crwdne65378:0
+__contributors:
+  - arvicco
+  - bobsummerwill
+  - dax-classix
+  - gitr0n1n
+  - HebeBlock
+  - IstoraMandiri
+  - matthewjamesr
+  - mikeyb
+  - ProphetDaniel
+  - pyskell
+  - redsn0w0
+  - TheEnthusiasticAs
+  - w1g0
+__updated: 2022-02-22
+seo: crwdns65408:0crwdne65408:0
+description: |
+  crwdns65410:0[Discord]crwdne65410:0
+items:
+  Chat Rooms:
+    __type: buttons
+    title: crwdns65414:0crwdne65414:0
+    items:
+      chat Discord:
+        __link: https://ethereumclassic.org/discord
+        __icon: discord
+        __primary: 1
+        name: crwdns65420:0crwdne65420:0
+      chat Discord Coop:
+        __link: https://discord.gg/5wDyd6u6pU
+        __icon: discord
+        __primary: 1
+        name: crwdns65426:0crwdne65426:0
+      chat Facebook English:
+        __link: https://www.facebook.com/groups/ethereum.hongkong/
+        __icon: facebook
+        name: crwdns65432:0crwdne65432:0
+      chat Facebook Vietnam:
+        __link: http://facebook.com/EthereumClassicVietnam/
+        __icon: facebook
+        name: crwdns65438:0crwdne65438:0
+      chat Kakao Korea:
+        __link: https://open.kakao.com/o/gi4uNJ1
+        name: crwdns65442:0crwdne65442:0
+      chat Slack:
+        __link: https://ethereumclassic.herokuapp.com/
+        __icon: slack
+        name: crwdns65448:0crwdne65448:0
+      chat WeChat:
+        __link: https://etccooperative.org/nanli777.jpg
+        name: crwdns65452:0crwdne65452:0
+  Development Chat:
+    __type: buttons
+    title: crwdns65456:0crwdne65456:0
+    items:
+      Core-Geth dev:
+        __link: https://gitter.im/core-geth/community
+        __icon: gitter
+        name: crwdns65462:0crwdne65462:0
+      ETC Core dev:
+        __link: https://discord.gg/5KwEAdZ
+        __icon: discord
+        name: crwdns65468:0crwdne65468:0
+      Hyperledger Besu dev:
+        __link: https://chat.hyperledger.org/
+        name: crwdns65472:0crwdne65472:0
+  Telegram Groups:
+    __type: buttons
+    title: crwdns65476:0crwdne65476:0
+    items:
+      telegram English:
+        __link: https://t.me/ethclassic
+        __icon: telegram
+        name: crwdns65482:0crwdne65482:0
+      telegram Español:
+        __link: https://t.me/ethclassicesp
+        __icon: telegram
+        name: crwdns65488:0crwdne65488:0
+      telegram Italia:
+        __link: https://t.me/ETC_Italia
+        __icon: telegram
+        name: crwdns65494:0crwdne65494:0
+      telegram Russia:
+        __link: https://t.me/etcru
+        __icon: telegram
+        name: crwdns65500:0crwdne65500:0
+      telegram Viet Nam:
+        __link: https://t.me/ETCVietnam
+        __icon: telegram
+        name: crwdns65506:0crwdne65506:0
+      telegram China:
+        __link: https://t.me/chinaetc
+        __icon: telegram
+        name: crwdns65512:0crwdne65512:0
+  Forums:
+    __type: buttons
+    title: crwdns65516:0crwdne65516:0
+    items:
+      forum RedditEthereumClassic:
+        __link: https://www.reddit.com/r/EthereumClassic/
+        __icon: reddit
+        name: crwdns65522:0crwdne65522:0
+      forum BitcoinTalk:
+        __link: https://bitcointalk.org/index.php?topic=5134923
+        __icon: news
+        name: crwdns65528:0crwdne65528:0
+      forum Archived BitcoinTalk:
+        __link: https://bitcointalk.org/index.php?topic=1559630.0
+        __icon: news
+        name: crwdns65534:0crwdne65534:0
+  Media:
+    __type: buttons
+    title: crwdns65538:0crwdne65538:0
+    items:
+      media ETCfInv:
+        __link: https://www.youtube.com/playlist?list=PLMBYy3lWO3DkegQkvL23AMnm_JnX-LXW3
+        __icon: youtube
+        name: crwdns65544:0crwdne65544:0
+      media EthereumClassicCC:
+        __link: https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos
+        __icon: youtube
+        name: crwdns65550:0crwdne65550:0
+      media Etherplan:
+        __link: https://www.youtube.com/channel/UC4--zHROGkRT1MadPM4EASA/playlists
+        __icon: youtube
+        name: crwdns65556:0crwdne65556:0
+      media EVM61:
+        __link: https://www.youtube.com/playlist?list=PLiW3acHwcR6LAa_WS5sFWf1S_GquYVeJb
+        __icon: youtube
+        name: crwdns65562:0crwdne65562:0
+      media Explore The Chain:
+        __link: https://www.youtube.com/playlist?list=PL8fotqNQa4-UGxH8rCqeHAtOG56OyhZGf
+        __icon: youtube
+        name: crwdns65568:0crwdne65568:0
+      media Let's Talk ETC!:
+        __link: https://www.youtube.com/playlist?list=PLKO8sMfwkZQqGH3Ny2OJ_SRcAvSf_0gx5
+        __icon: youtube
+        name: crwdns65574:0crwdne65574:0
+  Twitter Accounts:
+    __type: buttons
+    title: crwdns65578:0crwdne65578:0
+    items:
+      twitter China:
+        __link: https://twitter.com/EthereumChina
+        __icon: twitter
+        name: crwdns65584:0crwdne65584:0
+      twitter English 1:
+        __link: https://twitter.com/ETC_Network
+        __icon: twitter
+        __primary: 1
+        name: "crwdns65590:0crwdne65590:0"
+      twitter English 2:
+        __link: https://twitter.com/eth_classic
+        __icon: twitter
+        __primary: 1
+        name: "crwdns65596:0crwdne65596:0"
+      twitter Español:
+        __link: https://twitter.com/ethclassicesp
+        __icon: twitter
+        name: crwdns65602:0crwdne65602:0
+      twitter France:
+        __link: https://twitter.com/ETC_France
+        __icon: twitter
+        name: crwdns65608:0crwdne65608:0
+      twitter Germany:
+        __link: https://twitter.com/GermanyEtc
+        __icon: twitter
+        name: crwdns65614:0crwdne65614:0
+      twitter Italia:
+        __link: https://twitter.com/etcitalia
+        __icon: twitter
+        name: crwdns65620:0crwdne65620:0
+      twitter Japan:
+        __link: https://twitter.com/ETCJapan
+        __icon: twitter
+        name: crwdns65626:0crwdne65626:0
+      twitter Korea 1:
+        __link: https://twitter.com/ethclassic_kor
+        __icon: twitter
+        name: crwdns65632:0crwdne65632:0
+      twitter Korea 2:
+        __link: https://twitter.com/etckorea1
+        __icon: twitter
+        name: crwdns65638:0crwdne65638:0
+      twitter Netherlands:
+        __link: https://twitter.com/etcnetherlands
+        __icon: twitter
+        name: crwdns65644:0crwdne65644:0
+      twitter Turkey:
+        __link: https://twitter.com/EtcTurkiye
+        __icon: twitter
+        name: crwdns65650:0crwdne65650:0
+      twitter Viet Nam:
+        __link: https://twitter.com/ETCVietNam
+        __icon: twitter
+        name: crwdns65656:0crwdne65656:0
+  Regional Website:
+    __type: buttons
+    title: crwdns65660:0crwdne65660:0
+    items:
+      website ETC Hub:
+        __link: https://etchub.io/
+        __icon: etc
+        name: crwdns65666:0crwdne65666:0
+      website EthereumClassic.cn:
+        __link: http://ethereumclassic.cn/
+        __icon: etc
+        name: crwdns65672:0crwdne65672:0

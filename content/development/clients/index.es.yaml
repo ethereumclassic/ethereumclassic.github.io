@@ -1,0 +1,20 @@
+title: Clientes de los nodos
+seo: Enlaces de descarga e información sobre los distintos clientes de nodo de Ethereum Classic.
+description: |
+  Los clientes son paquetes de software que pueden utilizarse para ejecutar el protocolo Ethereum Classic en varios modos: nodos completos, nodos de archivo, clientes de sincronización rápida, etc. Los clientes permiten ejecutar un nodo de la mainnet o de la testnet, validar bloques a través de la minería e interactuar con la red a través de la API.
+
+  En la sección [tooling](/development/tooling) encontrará herramientas adicionales que le ayudarán a gestionar las implantaciones de clientes.
+items:
+  clients:
+    buttonItems:
+      guide:
+        name: Guía
+      release:
+        name: Libera
+      support:
+        name: Soporte
+    items:
+      CoreGeth:
+        description: Una implementación Go altamente configurable del protocolo Ethereum. Este cliente es apoyado a largo plazo por el equipo de desarrollo de la Cooperativa ETC. Este es un cliente recomendado por un equipo transparente y conocido.
+      Hyperledger Besu:
+        description: Un cliente de Ethereum de grado empresarial basado en Java y con licencia Apache 2.0. Este cliente cuenta con el apoyo a largo plazo de los equipos de la Cooperativa ETC. Este es un cliente recomendado por un equipo transparente y conocido.

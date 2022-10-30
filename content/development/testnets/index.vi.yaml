@@ -1,0 +1,33 @@
+title: Testnet
+seo: Thông tin về các mạng thử nghiệm Ethereum Classic khác nhau, các mạng công khai có thể được sử dụng để kiểm tra các hợp đồng và nâng cấp giao thức.
+description: |
+  Khi phát triển các hợp đồng trên Ethereum Classic, cũng như với bất kỳ Hệ thống Hợp đồng EVM nào, bạn nên sử dụng [mạng ảo] (/ development / tooling) cục bộ, cho phép bạn nhanh chóng lặp lại mà không cần phải đợi các khối được khai thác. Tuy nhiên, tại một số thời điểm, bạn có thể muốn cho phép công chúng tương tác với phiên bản beta của ứng dụng của bạn và vì điều này, có thể sử dụng mạng thử nghiệm.
+
+  Vì Ethereum Classic duy trì khả năng tương thích với EVM ngược dòng của Ethereum, ngoài một số trường hợp phụ nhỏ, các hợp đồng sẽ hoạt động giống hệt nhau. Điều này có nghĩa là các testnet Ethereum phổ biến như [Kovan](https://kovan-testnet.github.io/website/), phần lớn, có thể được sử dụng để thử nghiệm công khai các hợp đồng Ethereum Classic và do tính phổ biến của chúng, điều này có thể thích hợp cho người dùng thử nghiệm.
+
+  Ngoài ra, Ethereum Classic có các testnet riêng vận hành phiên bản Ethereum Classic của EVM và việc triển khai lên một trong các mạng này cũng rất được khuyến khích trước khi phát hành chính thức. Các testnet công khai này cũng cung cấp các vòi, vì vậy bạn có thể dễ dàng có được testnet ETC và triển khai mã của mình.
+
+  Một số mạng này, chẳng hạn như Astor, thử nghiệm các phiên bản thử nghiệm của ETC với các tính năng chưa tồn tại trong mạng chính Ethereum Classic.
+items:
+  testnets:
+    i18n:
+      pow: Bằng chứng làm việc
+      poa: Bằng chứng về thẩm quyền
+      testnet: Testnet
+      experimental: Thực nghiệm
+      faucet: Vòi
+    columnItems:
+      name:
+        name: Tên
+      faucet:
+        text: Vòi
+      type:
+        name: Loại hình
+      miningAlgo:
+        name: Thuật toán
+      consensusAlgo:
+        name: Loại đồng thuận
+      networkId:
+        name: NetworkID
+      chainId:
+        name: ChainID

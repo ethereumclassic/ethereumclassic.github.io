@@ -1,0 +1,52 @@
+billboard:
+  text: Das %%$$%% Ethereum
+  ## must be kind of short, so they fit on the page
+  randomWords:
+    Decentralized: "Dezentralisiert"
+    Original: "Original"
+    Veracious: "Veracious"
+    Untainted: "Unverfälscht"
+    Uncensored: "Unzensiert"
+    Untampered: "Unverfälscht"
+    Immutable: "Unveränderlich"
+    Sound Money: "Gesundes Geld"
+    Uncaptured: "Unerfasst"
+    SovereignGrade: "Souveräner Grad"
+    Principled: "Grundsätzliches"
+    Unstoppable: "Unaufhaltsam"
+    Proof of Work: "Nachweis der Arbeit"
+    Leaderless: "Führungslos"
+    Antifragile: "Antifragil"
+    Code is Law: "Kodex ist Gesetz"
+    Classic: "Klassisch"
+    Permisionless: "Erlaubnisfrei"
+## feature
+feature:
+  title: FAQs
+  subtitle: Neuer Abschnitt
+  text: Finden Sie schnell die Antworten, die Sie suchen, indem Sie durch häufig gestellte Fragen navigieren, die nach Anwendungsfällen geordnet sind.
+  button: Beantwortete Fragen
+## intro
+intro:
+  title: Erstellen Sie unaufhaltsame Anwendungen
+  content: |
+    Da etablierte Institutionen zunehmend durch das wilde Potenzial der Blockchain-Technologie bedroht sind, werden nur wirklich dezentralisierte Kryptowährungen überleben.
+
+    Classic entstand als Reaktion auf die Vertragszensur auf der Schwesterkette Ethereum und hat bewiesen, dass es der Zensur trotz aller Widrigkeiten widerstehen und die *ursprüngliche* Ethereum-Vision von *unaufhaltsamen* Anwendungen umsetzen kann.
+
+    Durch die Kombination der Technologie von ETH mit der Philosophie von BTC ist ETC einzigartig positioniert, um die Smart-Contract-Plattform der Zukunft zu sein, wenn andere Ketten kompromittiert oder von speziellen Interessen vereinnahmt werden.
+
+    Seien Sie herzlich eingeladen, die Vergangenheit, Gegenwart und Zukunft von Ethereum Classic zu entdecken, seine Prinzipien, sein Wertangebot, seine Community und mehr - um zu verstehen, *warum Classic*.
+  button:
+    text: Warum klassisch?
+#Headers
+headings:
+  headlines:
+    title: Schlagzeilen
+    button: Alle Nachrichten
+  videos:
+    title: Neueste Videos
+    button: Alle Videos
+  apps:
+    title: Neueste Anwendungen
+    button: Alle Apps
