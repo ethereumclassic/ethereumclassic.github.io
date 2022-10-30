@@ -1,0 +1,23 @@
+title: Apl dan Protokol
+seo: Apl dan protokol terdesentralisasi dibina di atas Ethereum Classic; NFT, Permainan, Sistem Identiti, DEX, Produk Kewangan dan banyak lagi...
+description: Ethereum Classic menganjurkan koleksi aplikasi dan protokol terdesentralisasi yang semakin meningkat. Halaman ini ialah gambaran keseluruhan keadaan pembangunan rangkaian ETC.
+support: Sokong DLL dengan menyerahkan apl anda sendiri!
+types:
+  nfts:
+    title: NFT
+    description: Token Non-Fungible ialah barang koleksi yang tidak boleh dipalsukan yang mengambil alih ruang mata wang kripto pada tahun 2021 dan seterusnya.
+  games:
+    title: Permainan
+    description: Permainan interaktif yang termaktub ke dalam blockchain Ethereum Classic mencapai sempadan baharu hiburan.
+  identity:
+    title: Sistem Identiti
+    description: Identiti saling kendali akan memainkan peranan dalam penciptaan sistem terdesentralisasi yang tahan Sybil, memudahkan reputasi dan tadbir urus.
+  interoperability:
+    title: Saling kendali
+    description: Teknologi rantaian silang yang membolehkan nilai dan data dikongsi antara rantaian blok meningkatkan kesan rangkaian dan menjadikan pai lebih besar untuk semua yang terlibat.
+  finance:
+    title: Kewangan
+    description: Kewangan Terpencar (DeFi), Pertukaran Terpencar (DEX), Pertubuhan Autonomi Terpencar (DAO), walau apa pun akronimnya, teknologi blockchain cemerlang dalam pembinaan kenderaan ekonomi baru ini.
+  other:
+    title: Lain-lain
+    description: Semua aplikasi dan protokol yang sangat unik tidak sesuai dengan kategori sedia ada.
