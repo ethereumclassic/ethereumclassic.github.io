@@ -1,0 +1,33 @@
+items:
+  main:
+    title: 핵심 원칙
+    description: 이 섹션에는 Ethereum Classic Foundation의 기본 철학에 대해 자세히 설명하는 가장 중요한 기사가 포함되어 있습니다. 이것이 궁극적으로 Original Ethereum Vision을 계속 유지하는 아이디어입니다.
+    items:
+      Declaration of Independence:
+        name: 독립 선언문
+        description: ETC의 존재 이유에 대한 설명, 고충 목록, 원칙과 목표에 대한 설명. 이더리움 클래식의 초기 창립 문서 중 하나이며 원래 2016년 8월에 발행되었으며 여러 언어로 번역되었습니다.
+      A Crypto-Decentralist Manifesto:
+        name: Crypto-Decentralist 선언문
+        description: Ethereum Classic 초기의 또 다른 영향력 있는 문서. 탈중앙화의 핵심 가치를 설명하고 ETC 커뮤니티 내에서 의사 결정을 내리는 데 도움이 됩니다.
+      Ethereum Classic Vision:
+        name: 이더리움 클래식 비전
+        description: Ethereum Classic이 성공적인 컴퓨팅 플랫폼이 되는 방법과 ETC가 훌륭한 가치 저장소인 이유.
+      keepEtcClassic:
+        name: 이더리움 클래식 클래식을 유지합시다
+        description: (현재 철회된) 재무 제안에 대한 응답으로 Ethereum Classic의 원칙을 방어하는 것의 중요성에 대한 심층 알림.
+  past:
+    title: 거인의 어깨보호구
+    description: 이더리움 클래식은 비트코인의 독창적인 블록체인 토대와 탈중앙화 철학, 그리고 이더리움 프로젝트가 제공하는 Turing-complete 스마트 계약 플랫폼 기술과 같은 다른 선구적인 프로젝트 없이는 존재할 수 없습니다.
+    items:
+      The idea of Smart Contracts:
+        name: 스마트 계약의 아이디어
+        description: Nick Szabo의 스마트 계약 아이디어는 1997년에 게시되었습니다.
+      Bitcoin A Peer-to-Peer Electronic Cash System:
+        name: "비트코인: P2P 전자 현금 시스템"
+        description: 비트코인과 블록체인이 작동하는 방식을 연구하는 사람이라면 사토시 나카모토의 원래 백서를 읽을 것을 권장합니다.
+      ethWhitepaper:
+        name: "이더리움 백서"
+        description: 원래 이더리움 백서는 "누가 합의에 영향을 미칠지 결정하는 정치적 문제를 해결"함으로써 블록체인 기술의 효용이 어떻게 발휘되는지와 DAO, 스테이블코인 등의 개념을 설명합니다.
+      ethYellowPaper:
+        name: "이더리움 옐로우페이퍼"
+        description: 이더리움 프로토콜의 원래 기술 설명, Gavin Wood
