@@ -1,0 +1,108 @@
+title: Soziale Kanäle
+seo: Eine Sammlung von Ethereum Classic-Chaträumen, Twitter-Konten, Diskussionsgruppen, Foren, Podcasts, Repositories und regionalen Websites.
+description: |
+  Im Folgenden finden Sie eine nicht erschöpfende Liste aktiver Ethereum Classic Diskussionskanäle und -gruppen.
+
+  Die Hauptaktivität innerhalb der ETC-Community findet derzeit auf [Discord](https://ethereumclassic.org/discord) statt.
+items:
+  Chat Rooms:
+    title: Chat-Räume
+    items:
+      chat Discord:
+        name: Discord (Gemeinschaft, Global)
+      chat Discord Coop:
+        name: Diskord (ETC Coop)
+      chat Facebook English:
+        name: Facebook (Englisch)
+      chat Facebook Vietnam:
+        name: Facebook (Vietnamesisch)
+      chat Kakao Korea:
+        name: Kakao (Koreanisch)
+      chat Slack:
+        name: Slack (Englisch)
+      chat WeChat:
+        name: WeChat (中文)
+  Development Chat:
+    title: Entwicklungs-Chat
+    items:
+      Core-Geth dev:
+        name: Kern-Geth
+      ETC Core dev:
+        name: ETC-Kern
+      Hyperledger Besu dev:
+        name: Hyperledger-Besu
+  Telegram Groups:
+    title: Telegramm-Gruppen
+    items:
+      telegram English:
+        name: Englisch
+      telegram Español:
+        name: Español
+      telegram Italia:
+        name: Italien
+      telegram Russia:
+        name: Russland
+      telegram Viet Nam:
+        name: Vietnam
+      telegram China:
+        name: 中文
+  Forums:
+    title: Foren
+    items:
+      forum RedditEthereumClassic:
+        name: Reddit r/EthereumClassic
+      forum BitcoinTalk:
+        name: BitcoinTalk
+      forum Archived BitcoinTalk:
+        name: Archiviertes BitcoinTalk
+  Media:
+    title: Medien
+    items:
+      media ETCfInv:
+        name: Ethereum Cassic (ETC) für Anleger
+      media EthereumClassicCC:
+        name: Ethereum Classic Gemeinschaftsaufrufe
+      media Etherplan:
+        name: Etherplan
+      media EVM61:
+        name: EVM61
+      media Explore The Chain:
+        name: Die Kette erforschen
+      media Let's Talk ETC!:
+        name: Lassen Sie uns über ETC reden!
+  Twitter Accounts:
+    title: Twitter-Konten
+    items:
+      twitter China:
+        name: China
+      twitter English 1:
+        name: "@ETC_Network"
+      twitter English 2:
+        name: "@eth_classic"
+      twitter Español:
+        name: Español
+      twitter France:
+        name: Frankreich
+      twitter Germany:
+        name: Deutschland
+      twitter Italia:
+        name: Italien
+      twitter Japan:
+        name: Japan
+      twitter Korea 1:
+        name: Korea
+      twitter Korea 2:
+        name: Korea
+      twitter Netherlands:
+        name: Niederlande
+      twitter Turkey:
+        name: Türkei
+      twitter Viet Nam:
+        name: Vietnam
+  Regional Website:
+    title: Regionale Website
+    items:
+      website ETC Hub:
+        name: ETCHub.io
+      website EthereumClassic.cn:
+        name: EthereumClassic.cn
