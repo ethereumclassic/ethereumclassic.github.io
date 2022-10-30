@@ -1,0 +1,33 @@
+items:
+  main:
+    title: المبادئ الأساسية
+    description: يحتوي هذا القسم على مجموعة مختارة من أهم المقالات التي تتعمق في الفلسفة الأساسية لمؤسسة Ethereum Classic Foundation. هذه هي الأفكار التي تحافظ في النهاية على استمرار رؤية Ethereum الأصلية.
+    items:
+      Declaration of Independence:
+        name: اعلان الاستقلال
+        description: بيان سبب وجود شركة ETC وقائمة المظالم ووصف لمبادئها وأهدافها. إنها واحدة من أوائل الوثائق التأسيسية لشركة Ethereum Classic ، وقد نُشرت في الأصل في أغسطس 2016 وترجمت إلى العديد من اللغات.
+      A Crypto-Decentralist Manifesto:
+        name: بيان Crypto-Decentralist
+        description: وثيقة أخرى مؤثرة من الأيام الأولى لإيثريوم كلاسيك. إنه يحدد القيم الأساسية للامركزية ، ويساعد في اتخاذ القرار داخل مجتمع ETC.
+      Ethereum Classic Vision:
+        name: إيثريوم كلاسيك فيجن
+        description: كيف ستكون Ethereum Classic منصة حوسبة ناجحة ولماذا تعتبر ETC مخزنًا ممتازًا للقيمة.
+      keepEtcClassic:
+        name: دعونا نحافظ على Ethereum Classic Classic
+        description: تذكير متعمق حول أهمية الدفاع عن مبادئ Ethereum Classic ، استجابةً لمقترح الخزانة (الذي تم سحبه الآن).
+  past:
+    title: أكتاف العمالقة
+    description: لا يمكن أن توجد Ethereum Classic بدون مشاريع رائدة أخرى مثل الأساس الأصلي لـ blockchain والفلسفة اللامركزية لـ Bitcoin ، وتكنولوجيا منصة Turing-Complete Smart Contract المقدمة من مشروع Ethereum.
+    items:
+      The idea of Smart Contracts:
+        name: فكرة العقود الذكية
+        description: فكرة نيك زابو عن العقود الذكية منذ 1997.
+      Bitcoin A Peer-to-Peer Electronic Cash System:
+        name: "Bitcoin: نظام نقدي إلكتروني من نظير إلى نظير"
+        description: لا يزال يُنصح بقراءة الورقة البيضاء الأصلية لـ Satoshi Nakamoto لأي شخص يدرس كيفية عمل Bitcoin و Blockchains.
+      ethWhitepaper:
+        name: "ورقة عمل Ethereum"
+        description: تشرح الورقة البيضاء الأصلية لإيثريوم كيف يتم إطلاق العنان لاستخدام تقنية blockchain من خلال "حل المشكلة السياسية المتمثلة في تحديد من يمكنه التأثير على الإجماع" ، ومفهوم DAOs ، و Stablecoins ، وما إلى ذلك.
+      ethYellowPaper:
+        name: "ورقة صفراء إيثريوم"
+        description: الوصف التقني الأصلي لبروتوكول الإيثيريوم ، بقلم جافين وود
