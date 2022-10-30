@@ -1,0 +1,43 @@
+title: 投稿者FAQ
+seo: ETCコミュニティに参加し、イーサリアムクラシックに貢献したい方のためのよくある質問です。
+info: ご質問に対する回答がここで見つかりませんか？ETCコミュニティ [discord](https://ethereumclassic.org/discord) サーバーで質問してみてください。
+description: Ethereum Classic コミュニティへの参加について知りたい方は、こちらをご覧ください。
+items:
+  questions:
+    items:
+      developer:
+        question: イーサリアムクラシックに貢献するためには、開発者である必要がありますか？
+        answer: そうではありません。開発者はインフラを構築する上で重要な価値を提供しますが、より重要な役割を果たすのは、間違いなく非開発者です。例えば、Ethereum Classicの普及をコーディネートすることで、より多くの開発者や採用担当者を確保することができます。
+      channels:
+        question: ETCのコミュニティに参加するにはどうしたらいいですか？
+        answer: 参加に許可は必要ありません。ただ、貢献し始めるだけでいいのです
+      tasks:
+        question: どのような作業を手伝えばよいですか？
+        answer: このプロジェクトがあなたの助けを必要とするもののリストは、[Ethereum Classic Volunteer GitHubリポジトリ](https://github.com/ethereumclassic/volunteer)で管理されています。
+      where:
+        question: イーサリアムクラシックのサポーターは、主にどこに集まっているのですか？
+        answer: 英語を話すETCコミュニティは、主に [Discord](https://ethereumclassic.org/discord)で活動しています。他の言語も含めた他のコミュニティフォーラムは、[Social Channels](/community/channels) セクションで見つけることができます。
+      ecips:
+        question: イーサリアムクラシックへの改善提案はどのようにすればよいですか？
+        answer: プロトコルのアップグレードを提案するには、[Ethereum Classic Improvement Proposal](/development/ecips) プロセスを利用できますが、まずはETC [Social Channels](/community/channels) のいずれかで他のコミュニティメンバーとブレインストーミングを行う価値があります。
+      toxicity:
+        question: ETCのコミュニティは有害だと聞きました。それは本当ですか？
+        answer: |
+          ETCのコミュニティに参加するのに許可は不要なので、非常に親切な人から、時にはちょっと嫌な人まで、さまざまな人が集まってきます。また、ETCユーザーや暗号通貨業界の参加者の多くは偽名であるため、フィルターをかけることができません。一人の態度がコミュニティ全体を代表しているとは考えず、またこのことが原因で投稿を思いとどまったりしないようにしてください。
+
+          もし、より節度ある会話を望むなら、[ETC Coop Discord](https://discord.gg/5wDyd6u6pU) を試してみてください。
+      events:
+        question: イーサリアムクラシックのイベントはありますか？
+        answer: はい、年1回のカンファレンス、週1回のコミュニティコール、不定期のデベロッパーコールが開催されています。現在、過去、未来のイベントについては、 [events](/community/events) セクションで詳しく知ることができます。
+      website:
+        question: アプリやビデオ、記事をこのウェブサイトに追加するにはどうすればよいですか？
+        answer: 手順は本サイトの[GitHubリポジトリ](https://github.com/ethereumclassic/ethereumclassic.github.io)をご確認ください。
+      tweets:
+        question: ツイートを提案するにはどうしたらいいですか？
+        answer: 'Twitterアカウントの[@eth_classic](https://github.com/ethereumclassic/tweets-eth_classic)と[@ETC_Network](https://github.com/ethereumclassic/tweets-etc_network)では、コミュニティからの提案ツイートを受け付けています。ハッシュタグ `#ETCtweets` を付けてつぶやくだけで、`#ETCtweets` Discord スレッドでコミュニティがそのつぶやきを検討します。'
+      grants:
+        question: イーサリアムクラシックに貢献することで、報酬を得ることができますか？
+        answer: |
+          主な支払い方法は、重要な技術を支援することで人類の未来に貢献していることを実感できる、温かみのある幸福感である。
+
+          それ以外にも、時折、助成金制度があるので、コミュニティ内の会話に耳を傾けてみてください。
