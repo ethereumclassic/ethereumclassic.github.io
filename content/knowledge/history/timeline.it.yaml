@@ -1,0 +1,305 @@
+title: Cronologia degli eventi
+items:
+  frontierRelease:
+    title: Lancio di Ethereum
+    text: Vitalik Buterin e la Fondazione Ethereum creano la prima piattaforma di smart contract Turing-completa basata su blockchain con il rilascio di Frontier.
+  frontierThawingUpgrade:
+    title: Aggiornamento dello scongelamento di frontiera
+    text: La rete implementa una "era glaciale" al blocco 200.000, introducendo la Difficulty Bomb, un meccanismo progettato per spostare il meccanismo di consenso della rete dalla Proof-of-Work alla Proof-of-Stake.
+  homesteadUpgrade:
+    title: Aggiornamento di Homestead
+    text: Homestead è la seconda versione principale della piattaforma Ethereum.
+  slockItCreatesThe Dao:
+    title: Slock.it crea il DAO
+    text: Slock.it costruisce il contratto DAO di Ethereum; un controllo di sicurezza viene completato da Dejavu.
+  the DaoCrowdsaleBegins:
+    title: Inizia la vendita in massa di DAO
+    text: Lo smart contract DAO viene distribuito; i membri del pubblico gli inviano valore in cambio di token DAO.
+  securityProposal:
+    title: Proposta di sicurezza
+    text: Slock.it annuncia una proposta da 1,5 milioni di dollari, pagati in Ether dal crowdfund, "per garantire l'integrità di The DAO".
+  moratoriumCalled:
+    title: Chiamata la moratoria
+    text: L'ultimo giorno della vendita in crowdsale, il curatore di DAO Vlad Zamfir chiede una moratoria su DAO, citando molti problemi di sicurezza teorica del gioco.
+  the DaoCrowdsaleEnds:
+    title: La vendita in massa di DAO termina
+    text: La crowdsale si completa fino a diventare la più grande al mondo e a raccogliere l'incredibile cifra di 150 milioni di dollari.
+  recursiveCallBugDiscovered:
+    title: Scoperto un bug nelle chiamate ricorsive
+    text: Peter Vessenes rivela pubblicamente l'esistenza di una vulnerabilità di sicurezza critica trascurata in molti contratti Solidity.
+  noFundsAtRisk:
+    title: Nessun fondo a rischio
+    text: Stephan Tual afferma pubblicamente che i fondi DAO sono al sicuro nonostante la falla di sicurezza critica appena scoperta.
+  the DAOIsHacked:
+    title: Il DAO è stato violato
+    text: L'Etere viene lentamente e silenziosamente drenato dal DAO mentre viene applicato il bug di rientro.
+  panicHitsTheMarkets:
+    title: Il panico colpisce i mercati
+    text: Il prezzo dell'Ether viene dimezzato quando Griff Green annuncia che il DAO è stato violato.
+  theCountdownBegins:
+    title: Inizia il conto alla rovescia
+    text: Il meccanismo di scissione della DAO dà circa un mese di tempo per trovare una soluzione che recuperi i fondi; la Fondazione e gli sviluppatori della comunità fanno a gara per implementare un soft fork.
+  robinHoodGroupAnnounced:
+    title: Annunciato il Gruppo Robin Hood
+    text: Un gruppo di hacker "white-hat" si assicura il 70% dei fondi della DAO, ma è necessaria un'azione a livello di protocollo per salvare il restante 30% diviso dall'hacker.
+  softForkTheDao:
+    title: "Guerre DAO: voto sulla biforcazione morbida"
+    text: La Fondazione Ethereum rilascia un client "Soft Fork" per censurare le transazioni provenienti dall'hacker; i mining pool votano per abilitarlo abbassando il limite di gas.
+  softForkVulnerability:
+    title: Vulnerabilità della forcella morbida
+    text: Se vengono riscontrati difetti critici di negazione del servizio nell'implementazione del Soft Fork, i minatori decidono rapidamente di NON utilizzarlo.
+  hardForkDebate:
+    title: Dibattito sulla biforcazione
+    text: Per molti giorni la comunità di Ethereum ha discusso intensamente sui pro e i contro dell'implementazione di un Hard Fork.
+  hardForkSpecAnnounced:
+    title: Annunciata la specifica della biforcazione dura
+    text: L'unica opzione rimasta è una controversa Hard Fork. Una specifica viene determinata e annunciata da Slock.it e dai membri della Fondazione Ethereum.
+  lastMinuteCarbonvote:
+    title: Last Minute Carbonvote
+    text: Con un preavviso di 12 ore, la Fondazione Ethereum utilizza un controverso "coin vote" di terze parti per stabilire che l'Hard Fork deve essere attivato per impostazione predefinita; viene dichiarato il consenso e viene rilasciato un client aggiornato.
+  daoBailoutHardFork:
+    title: Bailout DAO Hard Fork
+    text: Con circa l'80% dei nodi aggiornati al nuovo client, la comunità attende nervosamente l'arrivo del blocco 1.920.000 di attivazione del fork DAO Bailout.
+  newEthereumIsBorn:
+    title: Nuova catena della forcella
+    text: Nasce una catena biforcuta! Il 20 luglio 2016 la Fondazione Ethereum crea una versione alterata di Ethereum per annullare il furto del DAO. In qualità di detentori dei diritti di marchio, la Fondazione Ethereum applica il marchio Ethereum (ETH) alla nuova catena biforcuta.
+  ethereumRenamedToClassic:
+    title: Catena originale senza forcella
+    text: Con le previsioni di scomparsa della catena originale non forzata nel giro di poche ore, molti sono sorpresi di scoprire che i minatori continuano a supportare la catena originale. Bisq e i desk OTC forniscono a questi token un order book per la scoperta dei prezzi. I partecipanti al mercato ribattezzano questa catena non-forked Ethereum Classic (ETC).
+  missionAccomplished:
+    title: Missione compiuta!
+    text: La comunità ETH tira un sospiro di sollievo quando il codice della forchetta DAO viene implementato con successo e senza difetti evidenti; i tappi di champagne vengono stappati in tutto il mondo. La nascita di una nuova catena è un successo!
+  poloniexListsETC:
+    title: Poloniex elenca ETC
+    text: La più grande borsa di Ethereum segnala il supporto a lungo termine per la catena originale, Poloniex quota ETC. Molte borse seguono rapidamente l'esempio.
+  etheriansInDisarray:
+    title: Frattura degli Eterei
+    text: Le guerre di fiamma iniziano nei subreddit. Le polemiche al vetriolo a sfondo economico iniziano a prendere piede tra i partecipanti, mentre si fanno i conti con la realtà della scissione.
+  ethereumClassicsupporters:
+    title: Sostenitori di Ethereum Classic
+    text: I sostenitori di Ethereum Classic si staccano dai subreddit di Ethereum e formano i propri canali sociali.
+  geth-ETC-Support:
+    title: Geth supporta Ethereum Classic
+    text: Geth rilascia il supporto per la rete Ethereum Classic. Questo nodo ha tutto il codice DAO rimosso dal client e non richiede flag aggiuntivi per utilizzare la rete Ethereum Classic.
+  parity-ETC-Support:
+    title: Parity supporta Ethereum Classic
+    text: Parity segnala il supporto a lungo termine per Ethereum Classic con la release 1.2.3 che risolve i problemi di stabilità della rete per entrambe le catene Ethereum HF ed Ethereum Classic e apporta alcune modifiche all'API di tracciamento delle transazioni.
+  51Pool:
+    title: 51% Minaccia di attacco
+    text: I sostenitori dell'ETH formano un pool di mining chiamato 51Pool.org con l'intenzione di distruggere la rete ETC orchestrando un attacco al 51%.
+  minerSupport:
+    title: I minatori sostengono l'ETC
+    text: Dopo che la rete ETC è cresciuta al punto da non poterla più attaccare, i minatori ETH hanno dichiarato pubblicamente di non attaccare ETC. Per evitare di danneggiare i possessori innocenti di Ethereum Classic, i minatori di ETHash impegnano le risorse per il mining di ETC.
+  attackRhg:
+    title: RHG attacca ETC
+    text: Il gruppo Robin Hood tenta di scaricare sul mercato una grande quantità di ETC rubati dal fork DAO. Poloniex blocca i loro fondi.
+  classicDeclaresIndependence:
+    title: Il classico dichiara l'indipendenza
+    text: Dopo gli attacchi incessanti da parte del lato ETH della scissione della catena, i sostenitori di Ethereum Classic rimangono fermi e dichiarano la loro indipendenza dalla nuova catena ETH.
+  classicRebuilds:
+    title: Testato in battaglia e resistente
+    text: 'Ethereum Classic dimostra la sua resistenza ai mercati: ETC emerge dagli attacchi di ETH con un prezzo stabile. I principi fondamentali delle reti vengono galvanizzati durante il salvataggio di DAO. I sostenitori iniziano a ricostruire dalle ceneri.'
+  unlockedDaoFunds:
+    title: I fondi DAO si sbloccano su ETC
+    text: Milioni di ETC precedentemente bloccati o congelati diventano disponibili per i titolari di token DAO e per l'hacker DAO. Il prezzo dell'ETC tiene straordinariamente bene di fronte agli enormi crolli del mercato.
+  codeIsLaw:
+    title: Il codice è legge
+    text: Durante gli attacchi all'ETH, i sostenitori di Ethereum Classic lanciano molte grida di battaglia. Essi iniziano a chiarire i loro principi fondamentali e a convalidare l'esistenza della rete ETC al pubblico.
+  gasReprice:
+    title: Aggiornamento del prezzo del gas
+    text: Entrambe le reti Ethereum vengono attaccate a causa di vulnerabilità nello stack tecnologico. Gli sviluppatori di ETC assicurano rapidamente un aggiornamento della rete senza intoppi e senza controversie, per correggere le vulnerabilità sfruttate.
+  etcMonetaryPolicy:
+    title: Politica monetaria ETC
+    text: I sostenitori di Ethereum Classic discutono il calendario delle emissioni di ETC e la politica monetaria.
+  grothendieckTeam:
+    title: Il team Grothendieck
+    text: IOHK impegna un team di 7 sviluppatori a tempo pieno in Ethereum Classic
+  dieHardUpgrade:
+    title: Aggiornamento Die Hard
+    text: Ethereum Classic affronta gli attacchi replay e ritarda la bomba di difficoltà in un aggiornamento della rete.
+  etcDEVTeamAnnouncement:
+    title: Team ETCDEV
+    text: Un team di collaboratori e volontari di lunga data di ETC si ribattezza come team ETCDEV.
+  monetaryPolicyAdopted:
+    title: Consenso sulla politica monetaria
+    text: Ethereum Classic forma il consenso intorno a una politica monetaria a tetto fisso di 210,7M ETC con un programma di emissioni limitate ispirato a Bitcoin e chiamato 5M20; riduzione del 20% della ricompensa di blocco ogni 5M blocchi.
+  etcInvestmentFund:
+    title: Fondo di investimento ETCG
+    text: Grayscale lancia il primo fondo di criptovalute non in bitcoin che consente agli investitori tradizionali di aggiungere gli ETC al proprio portafoglio con tutti i vantaggi fiscali di un investimento tradizionale.
+  etcCommonwealth:
+    title: Squadra del Commonwealth
+    text: Si forma un team di sviluppo sotto il nome di Ethereum Commonwealth.
+  mantis-Launch:
+    title: Lancio di Mantis
+    text: Il rilascio di questo client beta, Mantis, avverrà oggi e rappresenta il culmine di sette mesi di lavoro del Grothendieck Team, gli sviluppatori di IOHK dedicati a Ethereum Classic.
+  etcCoop:
+    title: Gruppo cooperativo ETC
+    text: Grayscale segnala il sostegno a lungo termine allo sviluppo del protocollo Ethereum Classic sponsorizzando il team della Cooperativa ETC con una parte delle sue commissioni di gestione dell'ETCG. Le donazioni all'organizzazione no-profit sono deducibili dalle tasse.
+  etcSummitHK:
+    title: Vertice ETC 2017
+    text: La prima conferenza annuale di Ethereum Classic si tiene a Hong Kong.
+  gothamUpgrade:
+    title: Aggiornamento di Gotham
+    text: L'aggiornamento di Gotham ha stabilito una politica monetaria prevedibile e un programma di emissioni ispirato a Bitcoin. 5M20, la ricompensa del blocco si ridurrà del 20% ogni 5M blocchi.
+  era2:
+    title: 5M20 Era 2
+    text: Il programma di emissione 5M20 di Ethereum Classic entra nell'Era 2. Le ricompense dei blocchi sono ridotte del 20% a 4 ETC per blocco.
+  multi-Geth-Launch:
+    title: Lancio multi-Geth
+    text: Viene lanciato il progetto del client Multi-Geth. Si tratta di un client go-ethereum, forkato dalla versione della Fondazione Ethereum, con l'obiettivo di seguire da vicino le modifiche upstream e di supportare più reti Ethereum. Abbiamo appena aggiunto il supporto alpha per la rete Ethereum Classic.
+  defuseDifficultyBomb:
+    title: Disinnescare la bomba della difficoltà
+    text: ETC disabilita in modo sicuro la bomba di difficoltà per passare il progetto originale di Ethereum a PoS. Ethereum Classic segnala l'impegno a lungo termine verso il Proof of Work come meccanismo di consenso della rete.
+  etclabs:
+    title: Team dei laboratori ETC
+    text: Ethereum Classic Labs fornisce finanziamenti, connessioni con l'industria e uffici a progetti ETC in fase di sviluppo, con uffici a San Francisco e Singapore.
+  kotti:
+    title: Lancio di Kotti Testnet
+    text: La Cooperativa ETC finanzia lo sviluppo della testnet Kotti, una testnet Proof-of-Authority costruita per fornire test di interoperabilità con la testnet Görli della catena sorella ETH. PoA diventa l'ambiente di testnet preferito per i test di sviluppo delle dapp.
+  etcSummitSeoul:
+    title: Vertice ETC 2018
+    text: La seconda conferenza annuale di Ethereum Classic si tiene a Seul, in Corea del Sud.
+  coinbase:
+    title: Coinbase elenca ETC
+    text: 'La più grande borsa di criptovalute degli Stati Uniti segnala il supporto a lungo termine per la catena originale di Ethereum: Ethereum Classic.'
+  etcLabsIncubator:
+    title: Avvio del programma di incubazione
+    text: Ethereum Classic Labs lancia un programma di incubazione. ETC Labs si impegna a lavorare con ben 24 startup basate su Ethereum Classic ogni anno.
+  51Attack:
+    title: 51% Attacco
+    text: Ethereum Classic subisce il primo attacco riuscito di riorganizzazione della catena sulla sua rete. Il resiliente ETC risorge dalle ceneri.
+  51AttackReturn:
+    title: Attaccante Whitehat
+    text: L'attaccante del 51% sembra essere un hacker whitehat e restituisce i fondi rubati a una borsa compromessa. Le borse centralizzate hanno rafforzato il monitoraggio dell'attacco del 51% sulle monete Proof of Work.
+  atlantisConsensus:
+    title: Atlantis Consenso approssimativo
+    text: Gli sviluppatori del nucleo di Ethereum Classic raggiungono un consenso di massima su ECIP-1054 nel tentativo di implementare gli aggiornamenti dei protocolli di rete Spurious Dragon e Byzantium di ETH.
+  atlantisUpgrade:
+    title: Aggiornamento Atlantis
+    text: Gli sviluppatori del core di Ethereum Classic implementano gli aggiornamenti dei protocolli di rete Spurious Dragon e Byzantium di ETH per mantenere la parità operativa con la catena sorella.
+  etcSummitVancouver:
+    title: Vertice ETC 2019
+    text: La terza conferenza annuale di Ethereum Classic si tiene a Vancouver, in Canada.
+  mordorLaunch:
+    title: Lancio di Mordor
+    text: Gli sviluppatori del nucleo hanno eliminato la ridondanza delle reti di test sostituendo le reti di test Kensington, Morden e Nazgul con Mordor, una rete di test Ethash PoW per i test a livello di protocollo.
+  besu-ETC-Support:
+    title: Besu supporta Ethereum Classic
+    text: Hyperledger Besu aggiunge il supporto a Ethereum Classic al proprio client Ethereum, progettato per essere adatto alle imprese per i casi di utilizzo di reti pubbliche e private autorizzate.
+  aztlanConsensus:
+    title: Consenso approssimativo su Aztlán
+    text: Gli sviluppatori del nucleo di Ethereum Classic raggiungono un consenso di massima su ECIP-1061 nel tentativo di implementare l'aggiornamento del protocollo di rete Istanbul di ETH.
+  aghartaConsensus:
+    title: Consenso approssimativo di Agharta
+    text: Gli sviluppatori del nucleo di Ethereum Classic raggiungono un consenso di massima su ECIP-1056 nel tentativo di implementare gli aggiornamenti dei protocolli di rete ETH Constantinople e Petersburg.
+  aghartaUpgrade:
+    title: Aggiornamento di Agharta
+    text: Gli sviluppatori del core di Ethereum Classic implementano gli aggiornamenti del protocollo di rete di ETH Constantinople e Petersburg per mantenere la parità operativa con la catena sorella.
+  core-Geth-Launch:
+    title: Lancio del Core-Geth
+    text: Il team ETC Core si distacca dal progetto client Multi-Geth. Il progetto prende il nome di Core-Geth, uno sforzo a valle di Ethereum/go-ethereum per rendere il protocollo Ethereum accessibile ed estensibile per un ecosistema diversificato.
+  phoenixFixConsensus:
+    title: Phoenix Fix Consenso approssimativo
+    text: Durante le implementazioni di Aztlán testnet, gli sviluppatori del core di Ethereum Classic scoprono complicazioni con le specifiche ECIP 1061 per aggiungere l'aggiornamento del protocollo di rete Istanbul di ETH. Come previsto, le reti di test di ETC individuano i problemi e gli sviluppatori del core realizzano una patch per risolverli.
+  ecip1050-Status-Codes:
+    title: Codici di stato ECIP 1050
+    text: ECIP 1050 Status Codes passa allo stato finale. Questo standard delinea un insieme comune di codici di stato, sulla falsariga degli stati HTTP. Questo fornisce un insieme condiviso di segnali per consentire agli smart contract di reagire autonomamente alle situazioni, esporre messaggi di errore localizzati agli utenti e così via.
+  aztlanBugs:
+    title: Le reti di prova catturano gli insetti
+    text: Durante le implementazioni della rete di prova di Aztlán, gli sviluppatori del core di Ethereum Classic scoprono complicazioni con le specifiche ECIP 1061 e 1078 per aggiungere l'aggiornamento del protocollo di rete Istanbul di ETH. Meowbits of ETC Core documenta le scoperte. Come previsto, le testnet ETC individuano i problemi e gli sviluppatori del core tornano al tavolo da disegno.
+  aztlanRejected:
+    title: Aztlán rifiutato
+    text: Sulla base dei problemi riscontrati durante l'implementazione della rete di prova di Aztlán, del fatto che la correzione di Phoenix non è stata sufficiente e che entrambe le reti di prova sono state interrotte, gli sviluppatori del Core propongono di rifiutare gli ecips-1061, 1078 e 1086 a causa di problemi di sicurezza e stabilità e di procedere con la stesura di una nuova proposta da zero.
+  phoenixConsensus:
+    title: Consenso approssimativo di Phoenix
+    text: Gli sviluppatori del core di Ethereum Classic raggiungono un consenso di massima su ECIP-1088 nel tentativo di implementare l'aggiornamento del protocollo di rete Istanbul di ETH. Le implementazioni della testnet hanno rivelato problemi con i precedenti tentativi delle specifiche ECIP-1061 e ECIP-1078.
+  phoenixMordor:
+    title: Phoenix Mordor Test
+    text: Il test di Phoenix inizia sulla PoW testnet di Mordor sul blocco 999.983. I team di sviluppo del nucleo hanno segnalato che si tratta di un'implementazione complessa. I test potrebbero portare alla luce problemi che ritardano l'aggiornamento della rete, ma Ethereum Classic non si affretterà mai ad aggiornare la mainnet. La sicurezza della rete è prioritaria rispetto alla velocità di sviluppo e alle tempistiche arbitrarie.
+  era3:
+    title: 5M20 Era 3
+    text: Le ricompense dei blocchi di Ethereum Classic sono ridotte del 20% a 3,2 ETC per blocco, come da programma di emissione 5M20 ispirato al bitcoin.
+  phoenixKotti:
+    title: Phoenix Kotti Test
+    text: I test di Phoenix iniziano sulla testnet Kotti PoA sul blocco 2.200.013. I team di sviluppo del core hanno segnalato che si tratta di un'implementazione complessa. I test potrebbero portare alla luce problemi che ritardano l'aggiornamento della rete, ma Ethereum Classic non si affretterà mai ad aggiornare la mainnet.
+  phoenixUpgrade:
+    title: Aggiornamento Phoenix
+    text: Gli sviluppatori del nucleo di Ethereum Classic implementano gli aggiornamenti del protocollo di rete Istanbul di ETH per mantenere la parità operativa con la catena sorella.
+  client-Deprecation-Attacks:
+    title: Attacchi di deprezzamento del client
+    text: Nel 4° anniversario dell'Hard Fork del DAO Bailout, i manutentori del client ETH-centrico orchestrano un attacco sociale a Ethereum Classic. I manutentori del client annunciano la deprecazione del supporto di Ethereum Classic, quindi eseguono una campagna di marketing di disinformazione, affermando che la rete ETC avrebbe perso il 70% dell'hashrate, oltre ad altre falsità.
+  51Attack2:
+    title: "51% Attacco #2"
+    text: Ethereum Classic subisce il secondo attacco di riorganizzazione della catena di successo sulla sua rete.
+  51Attack3:
+    title: "51% Attacco #3"
+    text: Ethereum Classic subisce il terzo attacco riuscito di riorganizzazione della catena sulla sua rete.
+  51Attack4:
+    title: "51% Attacco #4"
+    text: Ethereum Classic subisce il quarto attacco di riorganizzazione della catena andato a buon fine sulla sua rete.
+  messClientFunctionality:
+    title: Funzionalità del client M.E.S.S.
+    text: Il client Core-Geth implementa i flag per applicare la funzionalità opzionale M.E.S.S. come risposta agli attacchi del 51% delle reti Ethereum Classic.
+  thanosMordor:
+    title: Test di Thanos Mordor
+    text: I test di Thanos iniziano sulla rete di test Mordor PoW nel blocco 2.520.000.
+  thanosUpgrade:
+    title: Aggiornamento di Thanos
+    text: Ethereum Classic implementa l'aggiornamento Thanos per ricalibrare la lunghezza dell'epoca utilizzata nei calcoli del DAG.
+  etchash:
+    title: ETChash
+    text: Ethereum Classic implementa l'aggiornamento Thanos per adattare l'algoritmo di estrazione da ETHash a ETCHash.
+  manis-ETC-Stupport:
+    title: Rilancio del cliente Mantis ETC
+    text: Input Output Global segnala il supporto per la rete Ethereum Classic con il rilancio del client e dell'interfaccia grafica Mantis.
+  gethBugs:
+    title: Bug del client Geth
+    text: Il bug del software Geth exploit che ha diviso la mainnet di Ethereum Foundation ad agosto 2021 divide la mainnet di Ethereum Classic. Si consiglia a tutti di aggiornare i propri client.
+  lcetcc:
+    title: Manteniamo Ethereum Classic Classic
+    text: Un partecipante all'ETC, preoccupato, ha scritto una lunga risposta contro l'implementazione dell'ECIP-1098.
+  treasuryDebate:
+    title: Proposta del Tesoro dell'IOHK ritirata
+    text: Dopo una discussione durata un anno sulla compatibilità dell'ECIP-1098 con i valori dell'ETC, ETC Coop, seguita da IOHK, ha ritirato il sostegno alla proposta del Tesoro a livello di rete.
+  magnetoUpgrade:
+    title: Aggiornamento Magneto
+    text: Gli sviluppatori del nucleo di Ethereum Classic implementano gli aggiornamenti del protocollo di rete di Berlino di ETH per mantenere la parità operativa con la catena sorella.
+  mystiqueUpgrade:
+    title: Aggiornamento mistico
+    text: Gli sviluppatori del nucleo di Ethereum Classic implementano gli aggiornamenti del protocollo di rete di Londra di ETH per mantenere la parità operativa con la catena sorella.
+  etcFlood:
+    title: ETC dà il benvenuto al nuovo Hashrate
+    text: Ethereum Classic si impegna a sostenere l'algoritmo di mining ETChash e l'attuale ecosistema di mining. Questo posiziona Ethereum Classic come una rete ben posizionata per assorbire la maggior parte dei minatori Ethash privati del loro supporto con il passaggio della rete ETH al consenso proof of stake.
+  etcdao:
+    title: Ethereum Classic DAO
+    text: Un finanziamento stabile e a lungo termine si rivela un problema per Ethereum Classic, con l'abbandono da parte della Fondazione Ethereum nel 2016. Nel tentativo di risolvere il problema del finanziamento a lungo termine della rete, è stata costituita la DAO di Ethereum Classic, con la missione di garantire lo sviluppo futuro della rete attraverso un fondo di sviluppo open source. I fondi sono generati con l'uso di uno stack ETC DeFi ospitato su EthereumClassic.com.
+  era4:
+    title: 5M20 Era 4
+    text: Le ricompense dei blocchi di Ethereum Classic sono ridotte del 20% a 2,56 ETC per blocco, come da programma di emissione 5M20 ispirato al bitcoin. Il tasso di mining di ETChash continua a passare a ETC con la rete che raggiunge i massimi storici.
+  sha3Withdrawn:
+    title: Proposta ETC Coop SHA3 ritirata
+    text: Dopo oltre tre anni di dibattiti controversi, Bob Summerwill riconosce l'ostacolo che l'ECIP-1049 avrebbe causato alla rete e ritira la proposta. Il costo sociale negativo causato dalla campagna di disinformazione dei proponenti di ECIP-1049 continua a influire negativamente sulla percezione pubblica della rete. Tuttavia, grazie alla sua comunità resiliente, Ethereum Classic rimane ben posizionato per prosperare su ETChash in un mondo post-fusione.
+  etcswap:
+    title: ETCswap
+    text: 'Ethereum Classic DAO lancia il suo primo prodotto: ETCswap. Questo assicura che la rete sia un passo più vicina a un finanziamento stabile per lo sviluppo open source su Ethereum Classic. Uno stack di protocollo decentralizzato professionale sarà distribuito su Ethereum Classic.'
+  vitalikEndorsesETC:
+    title: Vitalik Buterin sostiene Ethereum Classic
+    text: Vitalik Buterin, il cofondatore più importante di Ethereum, ha dato il suo appoggio alla rete originale di Ethereum, Ethereum Classic, per coloro che apprezzano le catene Proof-of-Work.
+  antpoolETCDAOTreasuryFund:
+    title: Antpool
+    text: AntPool sostiene l'ecosistema Ethereum Classic con un investimento di 10 milioni di dollari. Antpool crea un fondo di tesoreria con l'obiettivo di sostenere l'ecosistema di sviluppo professionale su Ethereum Classic.
+  hashrateSurges:
+    title: Il tasso di hashrate di ETC aumenta
+    text: Mentre l'imminente fusione di Ethereum continua a suscitare entusiasmo nello spazio delle criptovalute, Ethereum Classic (ETC), una sorella di Ethereum, ha registrato un aumento dell'83% dell'hashrate da giugno 2022.
+  twitter-Account-Capture:
+    title: Cattura aziendale dell'account Twitter
+    text: Giorni prima della fusione, Charles Hoskinson segnala pubblicamente l'intenzione di "riprogettare" l'account Twitter principale di Ethereum Classic. Egli giustifica questa azione a causa dei costi irrecuperabili del client Mantis non consegnato e del rifiuto della proposta di tesoreria centralizzata 2021 di IOHK (ECIP-1098).
+  ethMerge:
+    title: Il passaggio di ETH a Proof of Stake
+    text: La Fondazione Ethereum aggiorna la più grande rete EVM al consenso proof-of-stake. Questo evento di fusione consolida Ethereum Classic come la più grande rete EVM a prova di lavoro. La sicurezza della rete di Ethereum Classic si eleva e diventa la rete principale di tutti gli algoritmi di mining derivati da Ethash. La fenice risorge.
+  twitter-Account-Rebranded:
+    title: Account Twitter ridenominato
+    text: A seguito del rifiuto sociale della comunità ETC della tesoreria centralizzata di IOHK nel 2021, Charles Hoskinson trasferisce l'account Twitter principale di Ethereum Classic a un progetto open source di terze parti chiamato Ergo. Il team di Ergo rinomina l'account con il proprio progetto. A Bob Summerwill viene inviato un nuovo account Twitter registrato con l'handle Twitter dell'account principale, con 0 cronologia e 0 follower.
+  aBrightFuture:
+    title: Un futuro luminoso
+    text: Mentre l'ecosistema continua a crescere organicamente, i team di sviluppo indipendenti e i partecipanti alla rete sono guidati dai principi che rendono Ethereum Classic una rete unica. La rete è veramente decentralizzata, immutabile e inarrestabile. Il codice è legge.
