@@ -32,7 +32,7 @@ La monnaie est l'élément vital qui transporte l'énergie et l'information dans
 
 ## Offre future connue
 
-L'ETC possède toutes les propriétés de l'argent sain. Il est décentralisé, incensurable, divisible, transférable, fongible, durable et rare. *La pierre angulaire de la politique monétaire saine d'une blockchain est la rareté via une offre future connue </em x-id="4">. Tout comme le Bitcoin, mais contrairement à l'Ethereum™, Classic possède une courbe d'émission fixe. Un montant fixe [](https://etcis.money/) d'ETC créé comme récompense de bloc pour les mineurs, ce qui signifie que les détenteurs d'ETC peuvent calculer avec précision le montant total d'ETC existant à tout moment.</p>
+L'ETC possède toutes les propriétés de l'argent sain. Il est décentralisé, incensurable, divisible, transférable, fongible, durable et rare. La pierre angulaire de la politique monétaire saine d'une blockchain est la pénurie via un _approvisionnement futur connu_. Tout comme le Bitcoin, mais contrairement à l'Ethereum™, Classic possède une courbe d'émission fixe. Un montant fixe [](https://etcis.money/) d'ETC créé comme récompense de bloc pour les mineurs, ce qui signifie que les détenteurs d'ETC peuvent calculer avec précision le montant total d'ETC existant à tout moment.
 
 La courbe d'émission fixe d'Ethereum Classic a été introduite par [ECIP-1017](https://ecips.ethereumclassic.org/ECIPs/ecip-1017). Le programme d'émission, également connu sous le nom de 5M20, réduit la récompense des blocs de 20 % tous les 5 000 000 de blocs. Sur le plan social, cet événement de réduction des récompenses par blocs a pris le surnom de " Cinquième ".
 
