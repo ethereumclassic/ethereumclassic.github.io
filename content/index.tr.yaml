@@ -1,0 +1,52 @@
+billboard:
+  text: '%%$$%% Ethereum'
+  ## must be kind of short, so they fit on the page
+  randomWords:
+    Decentralized: "Merkezi Olmayan"
+    Original: "Orijinal"
+    Veracious: "Veracious"
+    Untainted: "Lekesiz"
+    Uncensored: "Sansürsüz"
+    Untampered: "Untampered"
+    Immutable: "Değişmez"
+    Sound Money: "Sağlam Para"
+    Uncaptured: "Yakalanmamış"
+    SovereignGrade: "Egemen Sınıf"
+    Principled: "İlkeli"
+    Unstoppable: "Durdurulamaz"
+    Proof of Work: "Çalışma Kanıtı"
+    Leaderless: "Lidersiz"
+    Antifragile: "Antifragile"
+    Code is Law: "Kod Kanundur"
+    Classic: "Klasik"
+    Permisionless: "İzinsiz"
+## feature
+feature:
+  title: SSS
+  subtitle: Yeni Bölüm
+  text: Kullanım durumuna göre düzenlenmiş Sıkça Sorulan Sorularda gezinerek aradığınız yanıtları hızla bulun.
+  button: Sorular Yanıtlandı
+## intro
+intro:
+  title: Durdurulamaz Uygulamalar Oluşturun
+  content: |
+    Yerleşik kurumlar blok zinciri teknolojisinin vahşi potansiyeli tarafından giderek daha fazla tehdit edilirken, yalnızca gerçekten merkezi olmayan kripto para birimleri hayatta kalacaktır.
+
+    Kardeş zincir Ethereum'daki sözleşme sansürüne yanıt olarak ortaya çıkan Classic, her şeye rağmen sansüre direnme ve *durdurulamaz* uygulamalara ilişkin *orijinal* Ethereum vizyonunu sunma yeteneğini kanıtlamıştır.
+
+    ETH'nin teknolojisini BTC'nin felsefesiyle birleştiren ETC, diğer zincirler tehlikeye girdikçe veya özel çıkarlar tarafından ele geçirildikçe geleceğin Akıllı Sözleşme Platformu olmak için benzersiz bir konuma sahiptir.
+
+    Hoş geldiniz ve lütfen Ethereum Classic'in geçmişini, bugününü ve geleceğini keşfetmeye davet edin; ilkeleri, değer önerisi, topluluğu ve daha fazlası - *neden Classic* olduğunu anlamak için.
+  button:
+    text: Neden Klasik?
+#Headers
+headings:
+  headlines:
+    title: Başlıklar
+    button: Tüm Haberler
+  videos:
+    title: Son Videolar
+    button: Tüm Videolar
+  apps:
+    title: Son Uygulamalar
+    button: Tüm Uygulamalar
