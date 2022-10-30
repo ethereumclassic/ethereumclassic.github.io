@@ -1,0 +1,17 @@
+title: Team di sviluppo
+seo: Un elenco delle principali organizzazioni che in passato o attualmente contribuiscono a Ethereum Classic.
+description: |
+  Ethereum Classic è un ecosistema di sviluppo decentralizzato, il che significa che non esiste un team "ufficiale" o una gerarchia formale. Questa comunità di sviluppo globale è una "do-ocracy" senza permessi, dove chiunque può partecipare. Gli individui e i team scelgono i propri compiti e li eseguono. Stabiliamo collettivamente il [rough consensus](https://en.wikipedia.org/wiki/Rough_consensus) attraverso il processo [Ethereum Classic Improvement Proposal (ECIP)](https://ecips.ethereumclassic.org/).
+
+  Questo è un elenco dei team più importanti che hanno contribuito a Ethereum Classic dal blocco di genesi del progetto, il 30 luglio 2015. L'ecosistema di Ethereum Classic apprezza tutti gli sforzi di sviluppo a livello di protocollo da parte di individui, volontari e team.
+items:
+  teams:
+    columnItems:
+      year:
+        name: Anno
+      name:
+        name: Nome della squadra
+      social:
+        name: Sociale
+      active:
+        name: Attivo
