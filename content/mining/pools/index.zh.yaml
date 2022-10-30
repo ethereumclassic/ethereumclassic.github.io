@@ -1,0 +1,19 @@
+title: 采矿池
+seo: 你可以加入支持Ethereum Classic和开采ETC的流行矿池列表。
+description: |
+  矿池是一个加密货币矿工的联合小组，他们通过网络将其计算资源结合起来，以加强找到区块或以其他方式成功挖掘加密货币的概率。
+
+  本页包含一个支持Ethereum Classic的矿池的非详尽列表。
+
+  最受欢迎的矿池已在下面突出显示，以帮助您缩小搜索范围。你可以在[网络监控](/network/monitors)部分找到关于每个矿池规模的实时更新。如果一个矿池接近总网络hashrate的30%，可以考虑将你的hashrate指向另一个矿池，以帮助分散网络的挖矿hashrate。一些大型矿工将他们的hashrate分散到多个矿池，以帮助这些努力。随着网络的不断发展，我们应该看到hashrate分散到许多矿池，因为矿池的费用变得更有竞争力，以吸引矿工hashrate。
+items:
+  pools:
+    items:
+      Binance Pool:
+        __primary: 1
+      CrazyPool:
+        __primary: 1
+      ETC Pool US:
+        __primary: 1
+      HashBlue:
+        __primary: 1
