@@ -418,13 +418,9 @@ Tuy nhiên, lịch sử của Ethereum ™ cho thấy mối quan hệ đáng ng�
 
 Một số người Etherian nói rằng Ngã ba DAO là một lần duy nhất sẽ không bao giờ xảy ra nữa; Ethereum ™ thực sự tuân theo _Mã là Luật_, hoặc ít nhất nó làm được kể từ The Fork. Vấn đề với vị trí này là, khi nó quan trọng, lịch sử của Ethereum ™ chứng minh rằng nó dễ bị can thiệp có thể vượt quá _Mã là Luật_. Nếu cái gì đó _có thể_ vượt quá _Bộ luật là Luật_, bạn không có _Bộ luật là Luật_, bạn chỉ đang giả vờ có nó tạm thời. Cho dù ở cấp độ triết học, xã hội hay tài chính, các điểm thất bại trọng tâm của Ethereum ™ đều có _và_ cho thấy nó cần được nắm bắt.
 
-Các nhà lãnh đạo tư tưởng khác trong Ethereum Foundation nói rằng _Code is Law_ là một
-
- vô nhân đạo </ a>, [ khái niệm xã hội học ](https://medium.com/@Vlad_Zamfir/my-intentions-for-blockchain-governance-801d19d378e5); Các "sửa chữa" _ ở cấp độ DAO trong tương lai _ đã có trên bàn cho Ethereum ™ và đó là một tính năng, không phải lỗi. Vấn đề với Quy tắc _không phải là vị trí Luật_ là nó hiểu sai đề xuất giá trị cơ bản của các blockchain, vốn hữu ích _vì_ sở thích đặc biệt không thể vượt qua chúng. Đối với mọi thứ khác, có nhiều tùy chọn hiệu quả hơn.</p> 
+Các nhà lãnh đạo tư tưởng khác trong Ethereum Foundation nói rằng _Code is Law_ là một [ vô nhân đạo ](https://twitter.com/VladZamfir/status/936029138623774721), [ khái niệm xã hội học ](https://medium.com/@Vlad_Zamfir/my-intentions-for-blockchain-governance-801d19d378e5) - Các "sửa chữa" ở cấp độ DAO trong tương lai đã có trên bàn cho Ethereum ™ và đó là một tính năng, không phải lỗi. Vấn đề với Quy tắc _không phải là vị trí Luật_ là nó hiểu sai đề xuất giá trị cơ bản của các blockchain, vốn hữu ích _vì_ sở thích đặc biệt không thể vượt qua chúng. Đối với mọi thứ khác, có nhiều tùy chọn hiệu quả hơn.
 
 Trên hết, mặc dù vẫn còn tiếp tục cho đến ngày nay, The DAO Fork là một bữa ăn tối của một con chó khách quan, điều này chỉ bổ sung bằng chứng thực nghiệm hỗ trợ trường hợp Luật _là Luật_. Sự can thiệp chủ quan vào các ứng dụng được cho là không thể ngăn chặn vốn đã lộn xộn và cần phải tránh.
-
-
 
 ### Ràng buộc đôi
 
@@ -437,8 +433,6 @@ Giống như Wile E. Coyote đang chạy khỏi vách đá, chỉ còn là vấn
 Ngược lại với Ethereum Classic, trong Ethereum ™, câu hỏi "Khi nào thì nên dừng các ứng dụng?" vẫn chưa được giải đáp. Ví dụ: bất kỳ quy trình nào xác định liệu các fork có xảy ra trên Ethereum ™ đều đã quyết định rằng các nạn nhân của các cuộc tấn công phát lại do The DAO Hard Fork gây ra không nên nhận một Hard Fork khác để biến _chúng thành_ toàn bộ, chứ đừng nói đến tất cả các lỗi Hợp đồng Thông minh chính và DeFi Tin tặc. Có lẽ, cho phép _tổn thất_ này là mức độ xã hội chấp nhận được đối với Bộ luật _không phải là lữ đoàn Luật_.
 
 Nếu câu hỏi này vẫn chưa được trả lời chắc chắn sẽ tạo ra các vấn đề trong tương lai và là lý do cốt lõi tại sao Ethereum Classic công khai ủng hộ nguyên tắc _Mã là Luật_ trong mọi trường hợp. Mặc dù nó có thể không phải lúc nào cũng là vị trí thuận tiện nhất tại bất kỳ thời điểm nào, nhưng nó là vị trí duy nhất có thể đối xử trung lập với tất cả những người tham gia, vẫn nhất quán về mặt triết học và do đó có khả năng đứng vững trước thử thách của thời gian.
-
-
 
 ## Sự kết luận
 
