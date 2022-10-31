@@ -27,8 +27,8 @@ function NavigationProvider({
         l1.navItems?.find((l2) => pagePath.startsWith(l2.link))
     );
     if (nextLevel) {
-      // add "current" flag
       nextLevel.current = true;
+      nextLevel.navItems = nextLevel.navItems?.filter(({ hidden }) => !hidden);
       levels.push(nextLevel);
       getLevels(d + 1);
     }

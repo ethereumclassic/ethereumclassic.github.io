@@ -1,0 +1,266 @@
+__disclaimer: verify
+__updated: 2022-02-22
+__contribute: 1
+title: Developer Tools
+seo: A collection of tools to enhance the Ethereum Classic application development and devops experience.
+description: |
+  This page contains a list of resources that those developing applications on top of Ethereum Classic may find useful. Be sure to also check out the [Ethereum.org developer environment](https://ethereum.org/en/developers/local-environment/) page, as many of these tools remain relevant when developing for Ethereum Classic.
+__contributors:
+  - antsankov
+  - TheEnthusiasticAs
+  - gitr0n1n
+items:
+  prices:
+    title: Price Sources
+    __type: buttons
+    description: These websites and APIs provide the price of ETC for use in your application.
+    items:
+      BeInCrypto:
+        __link: https://beincrypto.com/price/ethereum-classic/
+        __name: Be In Crypto
+      BitInfoCharts:
+        __link: https://bitinfocharts.com/ethereum%20classic/
+        __name: Bit Info Charts
+      BusinessInsider:
+        __link: https://markets.businessinsider.com/currencies/etc-usd
+        __name: Business Insider
+      Coin360:
+        __link: https://coin360.com/coin/ethereum-classic-etc
+        __name: Coin360
+      Coinbase:
+        __link: https://www.coinbase.com/price/ethereum-classic
+        __name: Coinbase
+      CoinCheckup:
+        __link: https://coincheckup.com/coins/ethereum-classic/
+        __name: Coin Checkup
+      CoinCodex:
+        __link: https://coincodex.com/crypto/ethereum-classic/
+        __name: Coin Codex
+      CoinCurrencyChart:
+        __link: https://www.cryptocurrencychart.com/coin/ETC
+        __name: Coin Currency Chart
+      CoinDesk:
+        __link: https://www.coindesk.com/price/ethereum-classic
+        __name: Coin Desk
+      CoinGecko:
+        __link: https://www.coingecko.com/en/coins/ethereum-classic
+        __name: CoinGecko
+      CoinLib:
+        __link: https://coinlib.io/coin/ETC/Ethereum+Classic
+        __name: Coin Lib
+      CoinMarketCap:
+        __link: https://coinmarketcap.com/currencies/ethereum-classic/
+        __name: Coin Market Cap
+      CoinRanking:
+        __link: https://coinranking.com/coin/hnfQfsYfeIGUQ+ethereumclassic-etc
+        __name: Coin Ranking
+      CoinStats:
+        __link: https://coinstats.app/en/coins/ethereum-classic
+        __name: Coin Stats
+      CoinTelegraph:
+        __link: https://cointelegraph.com/etc-price-index
+        __name: Coin Telegraph
+      CryptoCompare:
+        __link: https://www.cryptocompare.com/coins/etc/overview/USD
+        __name: Crypto Compare
+      CryptoSlate:
+        __link: https://cryptoslate.com/coins/ethereum-classic/
+        __name: Crypto Slate
+      CryptoWatch:
+        __link: https://cryptowat.ch/assets/etc
+        __name: Crypto Watch
+      LiveCoinWatch:
+        __link: https://www.livecoinwatch.com/price/EthereumClassic-ETC
+        __name: Live Coin Watch
+      Messari:
+        __link: https://messari.io/asset/ethereum-classic
+        __name: Messari
+      Nomics:
+        __link: https://nomics.com/assets/etc-ethereum-classic
+        __name: Nomics
+      OnChainFX:
+        __link: https://onchainfx.com/price/ethereum-classic
+        __name: OnChainFX
+      TradingView:
+        __link: https://www.tradingview.com/symbols/ETCUSD/
+        __name: Trading View
+      WorldCoinIndex:
+        __link: https://www.worldcoinindex.com/coin/ethereumclassic
+        __name: World Coin Index
+      YahooFinance:
+        __link: https://finance.yahoo.com/quote/ETC-USD
+        __name: Yahoo Finance
+  processors:
+    __type: buttons
+    title: Payment Processors
+    description: These APIs can be used to accept ETC payments in your website or application.
+    items:
+      AnyCoinDirect:
+        __link: https://anycoindirect.eu/en/buy-ethereum-classic
+        __name: AnyCoinDirect
+      Bit4Sale:
+        __link: https://bit4.sale/
+        __name: Bit4Sale
+      Bitladon:
+        __link: https://www.bitladon.com/ethereum-classic
+        __name: Bitladon
+      CoinsBee:
+        __link: https://www.coinsbee.com/
+        __name: CoinsBee
+      CoinDirect:
+        __link: https://www.coindirect.com/
+        __name: CoinDirect
+      CoinGate:
+        __link: https://coingate.com/
+        __name: CoinGate
+      Coinmerce:
+        __link: https://coinmerce.io/
+        __name: Coinmerce
+      CoinPayments:
+        __link: https://www.coinpayments.net/
+        __name: CoinPayments
+      Cryptomate:
+        __link: https://cryptomate.co.uk/buy-ethereum-classic/
+        __name: Cryptomate
+      Cryptonator Merchant:
+        __link: https://www.cryptonator.com/merchant/
+        __name: Cryptonator Merchant
+      Cryptwerk:
+        __link: https://cryptwerk.com/pay-with/etc/
+        __name: Cryptwerk
+      Fud Desk:
+        __link: https://fuddesk.com/buy-crypto
+        __name: Fud Desk
+      LiteBit:
+        __link: https://www.litebit.eu/en/buy/ethereumclassic#rate-tile-ethereumclassic
+        __name: LiteBit
+      NOWPayments:
+        __link: https://nowpayments.io/
+        __name: NOWPayments
+      Paxful:
+        __link: https://paxful.com/sell-bitcoin/ethereum-classic-etc
+        __name: Paxful
+      RoundlyX:
+        __link: https://www.roundlyx.com/
+        __name: RoundlyX
+      Utrust:
+        __link: https://utrust.com/
+        __name: Utrust
+  dex:
+    __type: links
+    title: Development Experience
+    description: A non-exhaustive selection of developer tools that can aid development of Ethereum Classic applications, including as IDEs, libraries, testing frameworks, debuggers, *etcetera*.
+    items:
+      BUIDL IDE:
+        __link: https://buidl.secondstate.io/etc
+        __name: BUIDL IDE
+        description: Second State BUIDL IDE is a web-based IDE that requires no software download or install. It provides a one-stop development and deployment environment for smart contract and dapp developers.
+      Dappkit:
+        __link: https://dappkit.io/
+        __name: Dappkit
+        description: A ledger-agnostic, high-performance infrastructure and libraries for developers to build and scale decentralized applications. In short, collaborative Firebase for Dapps.
+      Embark Framework:
+        __link: https://framework.embarklabs.io/
+        __name: Embark Framework
+        description: Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
+      Emerald Platform:
+        __link: https://github.com/ETCDEVTeam/emerald-platform
+        __name: Emerald Platform
+        description: Platform for building Dapps for ETC blockchain.
+      ESerialize:
+        __link: https://eserialize.com/?input=string&output=hex
+        __name: ESerialize
+        description: The goal of this module is to provide easy functions to serialize and deserialize data for the Ethereum Stack.
+      Ethereum JSON-RPC API:
+        __link: https://github.com/etclabscore/ethereum-json-rpc-specification
+        __name: Ethereum JSON-RPC API
+        description: A specification of JSON-RPC methods that an EVM-based blockchain client must implement.
+      Eth Fiddle:
+        __link: https://ethfiddle.com/
+        __name: Eth Fiddle
+        description: Online editor for smart contracts.
+      EVM-LLVM:
+        __link: https://github.com/etclabscore/evm_llvm
+        __name: EVM-LLVM
+        description: Not only can developers use a large scope of programming languages (Rust for smart contracts!) other than Solidity to target the Ethereum Virtual Machine (EVM), they can also immediately benefit from various development tools built around LLVM infrastructure.
+      Ganache:
+        __link: https://www.trufflesuite.com/ganache
+        __name: Ganache
+        description: Personal Ethereum blockchain to run tests.
+      Jade Suite:
+        __link: https://jade.builders/
+        __name: Jade Suite
+        description: The Jade suite of tools empowers developers to create peer-to-peer decentralized applications on top of EVM-based blockchains like Ethereum Classic.
+      Mythx:
+        __link: https://mythx.io/
+        __name: Mythx
+        description: MythX is the premier security analysis service for Ethereum smart contracts. Our mission is to ensure development teams avoid costly errors and make Ethereum a more secure and trustworthy platform.
+      Open-RPC:
+        __link: https://open-rpc.org/
+        __name: Open-RPC
+        description: The OpenRPC Specification defines a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs.
+      OpenZeppelin:
+        __link: https://openzeppelin.org/
+        __name: OpenZeppelin
+        description: Battle-tested framework of secure, reusable smart contracts.
+      Quorum:
+        __link: https://www.goquorum.com/
+        __name: Quorum
+        description: Quorum is an open source blockchain platform that combines the innovation of the public Ethereum community with enhancements to support enterprise needs.
+      Remix Online IDE:
+        __link: https://remix.ethereum.org/
+        __name: Remix Online IDE
+        description: A useful in-browser IDE that can compile and publish smart contracts to various Ethereum networks. Includes a linter.
+      Signatory:
+        __link: https://signatory.dev/
+        __name: Signatory
+        description: An offline transaction and message signer for the Ethereum Stack.
+      SOLL:
+        __link: https://github.com/second-state/soll
+        __name: SOLL
+        description: The LLVM compiler is finally coming to Solidity. With it, we can easily create smart contracts across multiple blockchain VMs. The EVM on Ethereum Classic and ETH 2.0's eWASM are among the first we support.
+      Sputnikvm:
+        __link: https://github.com/ETCDEVTeam/sputnikvm
+        __name: Sputnikvm
+        description: SputnikVM is an open source standalone implementation of Ethereum Virtual Machine (EVM). It aims to be an efficient, pluggable virtual machine for different Ethereum-based blockchains.
+      Truffle Suite:
+        __link: https://www.trufflesuite.com/
+        __name: Truffle Suite
+        description: A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
+  nodeTools:
+    __type: links
+    title: Node Deployment
+    description: These tools make it easy to spin up a cluster of nodes for production deployments or perform data science with public datasets.
+    items:
+      Bloq Cloud:
+        __name: Bloq Cloud
+        __link: https://bloq.cloud/
+        description: BloqCloud delivers highly-optimized, always available access to blockchain networks. Connect quickly and scale easily based on your needs -- without having to worry about managing infrastructure.
+      DappNode:
+        __link: https://dappnode.io/
+        __name: DappNode
+        description: DAppNode facilitates running nodes, DApps and hosting P2P networks and economies.
+      Ethercluster:
+        __link: https://www.ethercluster.com/
+        __name: Ethercluster
+        description: Ethercluster is an open-sourced Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) providing Ethereum Classic (ETC) and Kotti endpoints for free.
+      GetBlock:
+        __name: GetBlock
+        __link: https://getblock.io
+        description: GetBlock is a service that provides connection for the major cryptocurrencies’ nodes. They support such tools like JSON-RPC, REST, and WebSockets, which facilitates direct synchronization with the blockchain. There is no need to run a node yourself, the platform allows its customers to connect to a blockchain via a full node without having to pay a fee.
+      Google BigQuery:
+        __name: Google BigQuery
+        __link: https://console.cloud.google.com/marketplace/details/ethereum-classic/crypto-ethereum-classic?filter=solution-type:dataset&q=ethereum%20classic&id=babd6e83-ec5f-4b0a-b44f-64d37710a71d
+        description: Google Cloud released datasets consisting of the blockchain transaction history for Ethereum Classic, to help you better understand cryptocurrency. Also included a set of queries and views that map all blockchain datasets to a double-entry book data structure that enables multi-chain meta-analyses, as well as integration with conventional financial record processing systems.
+      Raspberry Pi Node:
+        __link: https://core-geth.org/setup-on-raspberry-pi
+        __name: Raspberry Pi Node
+        description: A detailed guide for how to setup an Ethereum Classic node on a Raspberry Pi.
+      Rivet Cloud:
+        __link: https://rivet.cloud/
+        __name: RIVET
+        description: Infinitely-scalable, highly-available Ethereum and Ethereum Classic endpoints that truly just work.
+      QuikNode:
+        __link: https://quiknode.io/
+        __name: QuikNode
+        description: QuikNodes are easy, always on, with a fast internet connection for quick blockchain sync, and you never have to worry about running out of disk space.

@@ -34,6 +34,7 @@ function GenericTimelineItem({
   icon,
   link,
   text,
+  block,
   last,
 }) {
   return (
@@ -71,9 +72,23 @@ function GenericTimelineItem({
                   title
                 )}
               </H4>
-              <div tw="text-sm text-shade-neutral space-x-3">
-                {dateText && <span>{dateText}</span>}
-                {date && <FormattedDate date={date} />}
+              <div tw="text-sm text-shade-neutral">
+                <div tw="flex items-center space-x-3">
+                  {block && (
+                    <Link
+                      iconLeft="block"
+                      to={`https://blockscout.com/etc/mainnet/block/${block.replace(
+                        /\D/g,
+                        ""
+                      )}/transactions`}
+                      tw="inline-flex items-center space-x-2 !text-shade-neutral !font-normal !no-underline hover:!underline"
+                    >
+                      {block}
+                    </Link>
+                  )}
+                  {dateText && <span>{dateText}</span>}
+                  {date && <FormattedDate date={date} />}
+                </div>
               </div>
             </div>
             <p tw="text-sm text-shade-neutral">{text}</p>

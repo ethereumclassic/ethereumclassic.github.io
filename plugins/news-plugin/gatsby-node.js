@@ -1,8 +1,6 @@
 // This script sets up the news items
 // combines blog and newslinks into single queriable NewsItem type
 
-// LODO make this configurable
-
 const types = {
   NewsLinksCollection: { tag: "news" },
   VideosCollection: { tag: "video", ignoreTags: true, linkPrefix: "/videos" },
@@ -13,13 +11,16 @@ const types = {
   },
 };
 
-exports.onCreateNode = async ({
-  node,
-  actions: { createNode, createParentChildLink },
-  createNodeId,
-  getNode,
-  createContentDigest,
-}) => {
+exports.onCreateNode = async (
+  {
+    node,
+    actions: { createNode, createParentChildLink },
+    createNodeId,
+    getNode,
+    createContentDigest,
+  },
+  { defaultLocale }
+) => {
   // filter out irrelevent nodes
   if (
     !(types[node.internal.type] || node.internal.type === `Mdx`) ||
@@ -56,9 +57,13 @@ exports.onCreateNode = async ({
 
   if (node.internal.type === `Mdx`) {
     const parentNode = getNode(node.parent);
+    // TODO pass to config
+    const locale = parentNode.absolutePath.endsWith("index.md")
+      ? defaultLocale
+      : parentNode.absolutePath.split(".").slice(-2)[0];
     createNewsItem({
       ...node.frontmatter,
-      locale: parentNode.absolutePath.split(".").slice(-2)[0],
+      locale,
       newsType: "blog",
       link: `/${parentNode.relativeDirectory}`,
       tags: ["blog"].concat(node.frontmatter?.tags || []),

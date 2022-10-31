@@ -8,7 +8,6 @@ import ContentSidebarInline from "./contentSidebarInline";
 import ContentSidebarVertical from "./contentSidebarVertical";
 import ContentTOC from "./contentTOC";
 import Generic from "./generic";
-import Json from "./json";
 
 import MarkdownStatic from "./markdownStatic";
 import TwContainer from "./twContainer";
@@ -67,7 +66,6 @@ export default function Content(props) {
           <>
             <article tw="prose max-w-none">
               <ContentHeader {...{ mdx, i18n }} />
-              {/* <Json>{props}</Json> */}
               {mdx && <MarkdownStatic {...{ mdx, i18n }} />}
               {(!mdx || (mdx && i18n.items)) && <Generic {...{ i18n }} />}
             </article>

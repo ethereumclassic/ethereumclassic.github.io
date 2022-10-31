@@ -1,0 +1,77 @@
+billboard:
+  text: The %%$$%% Ethereum
+  ## must be kind of short, so they fit on the page
+  randomWords:
+    Decentralized: "Decentralized"
+    Original: "Original"
+    Veracious: "Veracious"
+    Untainted: "Untainted"
+    Uncensored: "Uncensored"
+    Untampered: "Untampered"
+    Immutable: "Immutable"
+    Sound Money: "Sound Money"
+    Uncaptured: "Uncaptured"
+    SovereignGrade: "Sovereign Grade"
+    Principled: "Principled"
+    Unstoppable: "Unstoppable"
+    Proof of Work: "Proof of Work"
+    Leaderless: "Leaderless"
+    Antifragile: "Antifragile"
+    Code is Law: "Code is Law"
+    Classic: "Classic"
+    Permisionless: "Permissionless"
+## feature
+feature:
+  __icon: question
+  title: FAQs
+  subtitle: New Section
+  text: Quickly find the answers you are looking for by navigating Frequently Asked Questions organized by use case.
+  button: Questions Answered
+## intro
+intro:
+  title: Build Unstoppable Applications
+  content: |
+    As incumbent institutions are increasingly threatened by the wild potential of blockchain tech, only truly decentralized cryptocurrencies will survive.
+
+    Existing in response to contract censorship on sister chain Ethereum, Classic has proven its ability to resist censorship against all the odds, and to deliver the *original* Ethereum vision of *unstoppable* applications.
+
+    By combining the technology of ETH with the philosophy of BTC, ETC is uniquely positioned to be the Smart Contract Platform of the future, as other chains become compromised or captured by special interests. 
+
+    Welcome, and please be invited to discover the past, present, and future of Ethereum Classic; it's principles, value proposition, community, and more - to understand *why Classic*.
+  button:
+    __link: /why-classic
+    text: Why Classic?
+# Headers
+headings:
+  headlines:
+    title: Headlines
+    button: All News
+  videos:
+    title: Latest Videos
+    button: All Videos
+  apps:
+    title: Latest Applications
+    button: All Apps
+# list of contributors that contributed to general web maintenance that is not page specific
+__contributors:
+  - flotob
+  - saturn-network
+  - realcodywburns
+  - Zorlin
+  - cicorias
+  - redsn0w0
+  - pyskell
+  - bobsummerwill
+  - dax-classix
+  - arvicco
+  - ProphetDaniel
+  - lenon461
+  - mikeyb
+  - FlipFloop
+  - brolal
+  - nargotik
+  - q9f
+  - w1g0
+  - IstoraMandiri
+  - TheEnthusiasticAs
+  - gitr0n1n

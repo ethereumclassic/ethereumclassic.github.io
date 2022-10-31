@@ -4,7 +4,7 @@ import { useLocalization } from "../../plugins/translations-plugin/src/component
 export default function useLocaleItems() {
   const { locale, basePath, defaultLocale } = useLocalization();
 
-  const { locales } = localesConfig;
+  const { locales, enabled } = localesConfig;
 
   const localeItems = Object.keys(locales).map((key) => ({
     ...locales[key],
@@ -13,5 +13,13 @@ export default function useLocaleItems() {
 
   const current = { ...locales[locale], key: locale };
 
-  return { localeItems, locales, current, defaultLocale, basePath, locale };
+  return {
+    localeItems,
+    locales,
+    current,
+    defaultLocale,
+    basePath,
+    locale,
+    enabled,
+  };
 }
