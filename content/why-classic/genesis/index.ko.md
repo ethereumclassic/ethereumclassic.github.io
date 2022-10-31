@@ -79,7 +79,7 @@ DAO("_Dow_ Jones"로 발음) 또는 "Decentralized Autonomous Organization"은 �
 
 ![도교 상징을 기반으로 The DAO를 위해 제작된 아트워크](./dao.png)
 
-이더리움을 만들기 위해 크라우드세일에서 기금을 모은 이더리움 재단에는 최고 커뮤니케이션 책임자(CIO)가 있어 [발표](https://blog.ethereum.org/2015/07/30/ethereum-launches/) Ethereum Genesis Block 및 _Code is Law</a>의 [옹호자](https://twitter.com/stephantual/status/711874685156376576)였습니다. 엠>. 다른 많은 사람들과 마찬가지로 EF의 CCO는 "Unstoppable Applications 구축"이 약속한 밝은 미래를 보았습니다. 실제로 이 용어를 사용하여 Ethereum 프로젝트를 홍보하는 것이 궁극적으로 그들의 요청이었습니다.</p>
+이더리움을 만들기 위해 크라우드세일에서 기금을 모은 이더리움 재단에는 최고 커뮤니케이션 책임자(CIO)가 있어 [발표](https://blog.ethereum.org/2015/07/30/ethereum-launches/) Ethereum Genesis Block 및 Code is Law의 [옹호자](https://twitter.com/stephantual/status/711874685156376576)였습니다. 엠. 다른 많은 사람들과 마찬가지로 EF의 CCO는 "Unstoppable Applications 구축"이 약속한 밝은 미래를 보았습니다. 실제로 이 용어를 사용하여 Ethereum 프로젝트를 홍보하는 것이 궁극적으로 그들의 요청이었습니다.
 
 2015년 11월, 전직 CCO는 일부 코더와 협력하여 slock.it이라는 회사를 설립했습니다. Slock.it은 이더리움 프로젝트를 대상으로 하는 일종의 벤처 캐피탈 펀드로 사용될 _a_ DAO뿐만 아니라 _The_ DAO를 출시하기를 원했습니다. 이더리움 생태계를 성장시키고 DAO 토큰과 교환하여 DAO 계약에 이더를 예치하는 투자자의 순수익을 늘리는 방법으로 제안되었습니다.
 
