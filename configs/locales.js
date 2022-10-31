@@ -47,10 +47,10 @@ const locales = {
     enabled: true,
     dayJsImport: "hr",
   },
-  ml: {
+  ms: {
     name: "Malay",
     enabled: true,
-    dayJsImport: "ml",
+    dayJsImport: "md",
     flag: "my",
   },
   it: {

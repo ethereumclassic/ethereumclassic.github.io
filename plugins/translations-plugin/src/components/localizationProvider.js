@@ -23,7 +23,7 @@ import "dayjs/locale/ar";
 import "dayjs/locale/th";
 import "dayjs/locale/tr";
 import "dayjs/locale/vi";
-import "dayjs/locale/ml";
+import "dayjs/locale/id";
 import "dayjs/locale/it";
 import "dayjs/locale/el";
 
