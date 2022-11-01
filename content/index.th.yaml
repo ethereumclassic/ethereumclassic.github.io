@@ -20,6 +20,7 @@ billboard:
     Code is Law: "รหัสคือกฎหมาย"
     Classic: "คลาสสิค"
     Permisionless: "ไม่ได้รับอนุญาต"
+    Global: "ทั่วโลก"
 ## feature
 feature:
   title: คำถามที่พบบ่อย
