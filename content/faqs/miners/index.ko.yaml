@@ -40,7 +40,7 @@ items:
       ethash:
         question: Ethereum Classic의 마이닝 알고리즘은 무엇입니까?
         answer: |
-          이더리움 클래식은 더 작은 DAG 크기로 이더리움 ETHash의 가까운 사촌인 [ETCHash](#TODO) 마이닝 알고리즘을 사용합니다. 병합 전 ETH를 채굴하는 데 사용되었던 하드웨어는 ETC를 채굴하는 데에도 사용할 수 있습니다.
+          Ethereum Classic은 Ethereum의 ETHash와 가까운 사촌인 [ETCHash](https://github.com/eth-classic/etchash) 마이닝 알고리즘을 사용하며 DAG 크기가 더 작습니다. 병합 전 ETH를 채굴하는 데 사용되었던 하드웨어는 ETC를 채굴하는 데에도 사용할 수 있습니다.
       emission:
         question: Ethereum Classic 블록 보상은 무엇입니까?
         answer: |
@@ -56,13 +56,13 @@ items:
         answer: |
           ETHash는 원래 ASIC(비트코인의 SHA256 알고리즘용으로 설계된 것과 같은)의 사용을 불가능하게 만드는 것을 목표로 메모리가 어렵도록 설계되었습니다.
 
-          시간이 지남에 따라 [ASIC 저항 같은 것은 존재하지 않음](#TODO)을 깨달았습니다. 결국 모든 마이닝 알고리즘은 수익성이 있는 경우 ETHash에 대해 발생한 특정 알고리즘에 대한 최적화를 칩 설계자가 제안하도록 인센티브를 생성합니다(ETCHash에 상속됨).
+          시간이 지남에 따라 [ASIC 저항 같은 것은 없다](https://bobsummerwill.com/2020/02/02/asic-resistance-is-a-myth/)를 깨달았습니다. 결국 모든 마이닝 알고리즘은 수익성이 있는 경우 ETHash에 대해 발생한 특정 알고리즘에 대한 최적화를 칩 설계자가 제안하도록 인센티브를 생성합니다(ETCHash에 상속됨).
 
           2022년 현재 GPU보다 ETCHash를 2~6배 더 효율적으로 채굴할 수 있는 ASIC이 있으며 이러한 추세는 계속될 것입니다.
       rewards:
         question: ETC 블록 보상의 몇 퍼센트가 채굴자에게 돌아갑니까?
         answer: |
-          100%. 블록 보상의 %가 중앙 집중식 재무 시스템으로 가는 다른 많은 프로젝트와 달리 ETC는 이와 관련하여 완전히 중립적입니다. 2021년에 이와 같은 [재무제안](#TODO)은 ETC 커뮤니티에서 거부되었습니다.
+          100%. 블록 보상의 %가 중앙 집중식 재무 시스템으로 가는 다른 많은 프로젝트와 달리 ETC는 이와 관련하여 완전히 중립적입니다. 2021년에는 이와 같은 [재무제안](https://etccooperative.org/posts/2021-09-20-withdraws-support-for-ecip-1098)이 ETC 커뮤니티에서 거부되었습니다.
       sha3:
         question: Ethereum Classic이 마이닝 알고리즘을 SHA3으로 전환하고 있습니까?
         answer: |
