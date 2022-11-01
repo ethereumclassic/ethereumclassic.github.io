@@ -20,6 +20,7 @@ billboard:
     Code is Law: "Ο κώδικας είναι νόμος"
     Classic: "Κλασικό"
     Permisionless: "Χωρίς άδεια"
+    Global: "Παγκόσμια"
 ## feature
 feature:
   title: Συχνές ερωτήσεις
