@@ -47,7 +47,7 @@ items:
       ethash:
         question: What is Ethereum Classic's mining algorithm?
         answer: |
-          Ethereum Classic uses the [ETCHash](#TODO) mining algorithm, a close cousin of Ethereum's ETHash, with a smaller DAG size. Hardware that was being used used to mine pre-merge ETH can also be used to mine ETC.
+          Ethereum Classic uses the [ETCHash](https://github.com/eth-classic/etchash) mining algorithm, a close cousin of Ethereum's ETHash, with a smaller DAG size. Hardware that was being used to mine pre-merge ETH can also be used to mine ETC.
       emission:
         question: What is the Ethereum Classic block reward?
         answer: |
@@ -63,13 +63,13 @@ items:
         answer: |
           ETHash was originally designed to be memory-difficult, with the goal of making the use of ASICs (such as those designed for Bitcoin's SHA256 algorithm) non viable.
 
-          With time, it was realized that [there is no such thing as ASIC resistance](#TODO). Eventually all mining algorithms, if profitable, will create an incentive for chip designers to come up with optimizations for that specific algorithm, which happened for ETHash (and was inherited by ETCHash). 
+          With time, it was realized that [there is no such thing as ASIC resistance](https://bobsummerwill.com/2020/02/02/asic-resistance-is-a-myth/). Eventually all mining algorithms, if profitable, will create an incentive for chip designers to come up with optimizations for that specific algorithm, which happened for ETHash (and was inherited by ETCHash). 
 
           As of 2022, ASICs are available that can mine ETCHash 2x to 6x more energy efficiently than GPUs, and is likely that this trend will continue.
       rewards:
         question: What percentage of ETC's block reward goes to miners?
         answer: |
-          100%. Unlike many other projects, which have a % of block rewards going to a centralized treasury system, ETC remains fully neutral in this regard. In 2021 a [treasury proposal](#TODO) like this was rejected by the ETC community.
+          100%. Unlike many other projects, which have a % of block rewards going to a centralized treasury system, ETC remains fully neutral in this regard. In 2021 a [treasury proposal](https://etccooperative.org/posts/2021-09-20-withdraws-support-for-ecip-1098) like this was rejected by the ETC community.
       sha3:
         question: Is Ethereum Classic is switching it's mining algorithm to SHA3?
         answer: |
