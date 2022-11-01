@@ -47,7 +47,7 @@ items:
       ethash:
         question: What is Ethereum Classic's mining algorithm?
         answer: |
-          Ethereum Classic uses the [ETCHash](https://github.com/eth-classic/etchash) mining algorithm, a close cousin of Ethereum's ETHash, with a smaller DAG size. Hardware that was being used used to mine pre-merge ETH can also be used to mine ETC.
+          Ethereum Classic uses the [ETCHash](https://github.com/eth-classic/etchash) mining algorithm, a close cousin of Ethereum's ETHash, with a smaller DAG size. Hardware that was being used to mine pre-merge ETH can also be used to mine ETC.
       emission:
         question: What is the Ethereum Classic block reward?
         answer: |
