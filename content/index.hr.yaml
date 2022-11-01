@@ -20,6 +20,7 @@ billboard:
     Code is Law: "Kodeks je zakon"
     Classic: "klasična"
     Permisionless: "Bez dopuštenja"
+    Global: "Globalno"
 ## feature
 feature:
   title: FAQ
