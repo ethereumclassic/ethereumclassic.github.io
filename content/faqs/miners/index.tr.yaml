@@ -40,7 +40,7 @@ items:
       ethash:
         question: Ethereum Classic'in madencilik algoritması nedir?
         answer: |
-          Ethereum Classic, Ethereum'un ETHash'inin yakın bir kuzeni olan ve daha küçük bir DAG boyutuna sahip [ETCHash](#TODO) madencilik algoritmasını kullanmaktadır. Birleşme öncesi ETH madenciliği için kullanılan donanım, ETC madenciliği için de kullanılabilir.
+          Ethereum Classic, Ethereum'un ETHash'inin yakın bir kuzeni olan ve daha küçük bir DAG boyutuna sahip [ETCHash](https://github.com/eth-classic/etchash) madencilik algoritmasını kullanmaktadır. Birleşme öncesi ETH madenciliği için kullanılan donanım, ETC madenciliği için de kullanılabilir.
       emission:
         question: Ethereum Classic blok ödülü nedir?
         answer: |
@@ -56,13 +56,13 @@ items:
         answer: |
           ETHash başlangıçta ASIC'lerin (Bitcoin'in SHA256 algoritması için tasarlananlar gibi) kullanımını uygulanamaz hale getirmek amacıyla bellek açısından zor olacak şekilde tasarlanmıştır.
 
-          Zamanla, [ASIC direnci diye bir şey olmadığı] anlaşıldı (#TODO). Sonunda tüm madencilik algoritmaları, eğer karlıysa, çip tasarımcıları için ETHash için olan (ve ETCHash tarafından miras alınan) belirli bir algoritma için optimizasyonlar bulmaları için bir teşvik yaratacaktır.
+          Zamanla, [ASIC direnci diye bir şey olmadığı] anlaşıldı (https://bobsummerwill.com/2020/02/02/asic-resistance-is-a-myth/). Sonunda tüm madencilik algoritmaları, eğer karlıysa, çip tasarımcıları için ETHash için olan (ve ETCHash tarafından miras alınan) belirli bir algoritma için optimizasyonlar bulmaları için bir teşvik yaratacaktır.
 
           2022 itibariyle, ETCHash'i GPU'lardan 2 ila 6 kat daha verimli bir şekilde çıkarabilen ASIC'ler mevcuttur ve bu eğilimin devam etmesi muhtemeldir.
       rewards:
         question: ETC'nin blok ödülünün yüzde kaçı madencilere gidiyor?
         answer: |
-          100%. Blok ödüllerinin %'sinin merkezi bir hazine sistemine gittiği diğer birçok projenin aksine, ETC bu konuda tamamen tarafsız kalmaktadır. 2021 yılında bunun gibi bir [hazine önerisi] (#TODO) ETC topluluğu tarafından reddedilmiştir.
+          100%. Blok ödüllerinin %'sinin merkezi bir hazine sistemine gittiği diğer birçok projenin aksine, ETC bu konuda tamamen tarafsız kalmaktadır. 2021 yılında bunun gibi bir [hazine önerisi] (https://etccooperative.org/posts/2021-09-20-withdraws-support-for-ecip-1098) ETC topluluğu tarafından reddedilmiştir.
       sha3:
         question: Ethereum Classic madencilik algoritmasını SHA3'e mi geçiriyor?
         answer: |
