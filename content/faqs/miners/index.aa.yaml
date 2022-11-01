@@ -43,7 +43,7 @@ items:
       ethash:
         question: crwdns67286:0crwdne67286:0
         answer: |
-          crwdns67288:0[ETCHash]crwdne67288:0
+          crwdns100873:0[ETCHash]crwdne100873:0
       emission:
         question: crwdns67290:0crwdne67290:0
         answer: |
@@ -51,11 +51,11 @@ items:
       asics:
         question: crwdns67294:0crwdne67294:0
         answer: |
-          crwdns67296:0crwdne67296:0
+          crwdns100875:0crwdne100875:0
       rewards:
         question: crwdns67298:0crwdne67298:0
         answer: |
-          crwdns67300:0crwdne67300:0
+          crwdns100877:0crwdne100877:0
       sha3:
         question: crwdns67302:0crwdne67302:0
         answer: |
