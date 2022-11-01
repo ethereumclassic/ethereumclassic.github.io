@@ -40,7 +40,7 @@ items:
       ethash:
         question: Što je algoritam za rudarenje Ethereum Classica?
         answer: |
-          Ethereum Classic koristi algoritam za rudarenje [ETCHash](#TODO), bliskog rođaka Ethereumovog ETHasha, s manjom veličinom DAG-a. Hardver koji je korišten za rudarenje ETH-a prije spajanja također se može koristiti za rudarenje ETC-a.
+          Ethereum Classic koristi [ETCHash](https://github.com/eth-classic/etchash) algoritam za rudarenje, bliskog rođaka Ethereumovog ETHasha, s manjom veličinom DAG-a. Hardver koji je korišten za rudarenje ETH-a prije spajanja također se može koristiti za rudarenje ETC-a.
       emission:
         question: Što je nagrada za blok Ethereum Classic?
         answer: |
@@ -56,13 +56,13 @@ items:
         answer: |
           ETHash je izvorno dizajniran da bude težak za memoriju, s ciljem da se upotreba ASIC-ova (kao što su oni dizajnirani za Bitcoinov SHA256 algoritam) učini neodrživom.
 
-          S vremenom je postalo jasno da [ne postoji otpornost na ASIC] (#TODO). Na kraju će svi algoritmi rudarenja, ako budu isplativi, stvoriti poticaj za dizajnere čipova da dođu do optimizacija za taj specifični algoritam, što se dogodilo za ETHash (i naslijedio ga je ETCHash).
+          S vremenom je postalo jasno da [ne postoji otpornost na ASIC](https://bobsummerwill.com/2020/02/02/asic-resistance-is-a-myth/). Na kraju će svi algoritmi rudarenja, ako budu isplativi, stvoriti poticaj za dizajnere čipova da dođu do optimizacija za taj specifični algoritam, što se dogodilo za ETHash (i naslijedio ga je ETCHash).
 
           Od 2022. dostupni su ASIC-ovi koji mogu rudariti ETCHash 2x do 6x energetski učinkovitije od GPU-ova i vjerojatno će se ovaj trend nastaviti.
       rewards:
         question: Koliki postotak ETC-ove nagrade za blok ide rudarima?
         answer: |
-          100%. Za razliku od mnogih drugih projekata, koji imaju postotak blok nagrada koji idu u centralizirani sustav riznice, ETC ostaje potpuno neutralan u tom pogledu. Godine 2021. ETC zajednica odbila je [prijedlog riznice] (#TODO) poput ovog.
+          100%. Za razliku od mnogih drugih projekata, koji imaju postotak blok nagrada koji idu u centralizirani sustav riznice, ETC ostaje potpuno neutralan u tom pogledu. ETC zajednica je 2021. odbila [prijedlog riznice](https://etccooperative.org/posts/2021-09-20-withdraws-support-for-ecip-1098) poput ovog.
       sha3:
         question: Prebacuje li Ethereum Classic svoj algoritam rudarenja na SHA3?
         answer: |

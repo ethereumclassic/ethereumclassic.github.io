@@ -40,7 +40,7 @@ items:
       ethash:
         question: イーサリアムクラシックのマイニングアルゴリズムとは何ですか？
         answer: |
-          Ethereum Classicは、EthereumのETHashの近縁種である [ETCHash](#TODO)マイニングアルゴリズムを使用しており、DAGサイズが小さくなっています。マージ前のETHの採掘に使用されていたハードウェアは、ETCの採掘にも使用することができる。
+          Ethereum Classicは、EthereumのETHashの近縁種である [ETCHash]（https://github.com/eth-classic/etchash）マイニングアルゴリズムを使用しており、DAGサイズが小さくなっています。マージ前のETHの採掘に使用されていたハードウェアは、ETCの採掘にも使用することができる。
       emission:
         question: イーサリアムクラシックのブロック報酬とは何ですか？
         answer: |
@@ -54,15 +54,15 @@ items:
       asics:
         question: イーサリアムクラシックのマイニングアルゴリズムはASIC耐性があるのか？
         answer: |
-          ETHashはもともと、ASIC(BitcoinのSHA256アルゴリズム用に設計されたものなど)の使用を不可能にする目的で、メモリ難に設計されていました。
+          ETHashはもともと、ASIC（BitcoinのSHA256アルゴリズム用に設計されたものなど）の使用を不可能にする目的で、メモリ難になるように設計されました。
 
-          時が経つにつれ、[ASIC耐性などない]ことが分かってきました(#TODO)。最終的には、すべての採掘アルゴリズムが、利益を生むのであれば、チップ設計者がその特定のアルゴリズムのための最適化を考え出すインセンティブを生み出すことになり、それはETHashで起こった(そしてETCHashに継承された)。
+          時が経つにつれ、[ASIC耐性など存在しない](https://bobsummerwill.com/2020/02/02/asic-resistance-is-a-myth/)ことが分かってきました。最終的には、すべての採掘アルゴリズムは、収益性が高ければ、チップ設計者がその特定のアルゴリズムのための最適化を考え出すインセンティブを生み出しますが、これはETHashで起こりました（そしてETCHashに継承されました）。
 
           2022年現在、ETCHashはGPUの2倍から6倍のエネルギー効率で採掘できるASICが利用可能で、この傾向は続くと思われます。
       rewards:
         question: ETCのブロック報酬のうち、何パーセントが採掘者に支払われるのですか？
         answer: |
-          100%.ブロック報酬の％が中央集権的な国庫システムに行く他の多くのプロジェクトとは異なり、ETCはこの点に関して完全に中立を保っています。2021年、このような[treasury proposal](#TODO)はETCコミュニティによって拒否されました。
+          100%.ブロック報酬の％が中央集権的な国庫システムに行く他の多くのプロジェクトとは異なり、ETCはこの点に関して完全に中立を保っています。2021年にこのような[treasury proposal](https://etccooperative.org/posts/2021-09-20-withdraws-support-for-ecip-1098)がETCコミュニティによって拒否されました。
       sha3:
         question: イーサリアムクラシックは採掘アルゴリズムをSHA3に変更するのか？
         answer: |

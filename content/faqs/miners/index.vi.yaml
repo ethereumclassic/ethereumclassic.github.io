@@ -40,7 +40,7 @@ items:
       ethash:
         question: Thuật toán khai thác của Ethereum Classic là gì?
         answer: |
-          Ethereum Classic sử dụng thuật toán khai thác [ETCHash](#TODO), một người anh em họ gần của ETHash của Ethereum, với kích thước DAG nhỏ hơn. Phần cứng đang được sử dụng để khai thác ETH trước khi hợp nhất cũng có thể được sử dụng để khai thác ETC.
+          Ethereum Classic sử dụng thuật toán khai thác [ETCHash](https://github.com/eth-classic/etchash), một người anh em họ gần của ETHash của Ethereum, với kích thước DAG nhỏ hơn. Phần cứng đang được sử dụng để khai thác ETH trước khi hợp nhất cũng có thể được sử dụng để khai thác ETC.
       emission:
         question: Phần thưởng khối Ethereum Classic là gì?
         answer: |
@@ -56,13 +56,13 @@ items:
         answer: |
           ETHash ban đầu được thiết kế để khó sử dụng bộ nhớ, với mục tiêu làm cho việc sử dụng ASIC (chẳng hạn như những thứ được thiết kế cho thuật toán SHA256 của Bitcoin) không khả thi.
 
-          Cùng với thời gian, người ta nhận ra rằng [không có cái gọi là kháng ASIC] (# CẦN LÀM). Cuối cùng, tất cả các thuật toán khai thác, nếu có lợi nhuận, sẽ tạo động lực cho các nhà thiết kế chip đưa ra các tối ưu hóa cho thuật toán cụ thể đó, điều này đã xảy ra đối với ETHash (và được ETCHash kế thừa).
+          Cùng với thời gian, người ta nhận ra rằng [không có cái gọi là kháng ASIC] (https://bobsummerwill.com/2020/02/02/asic-resistance-is-a-myth/). Cuối cùng, tất cả các thuật toán khai thác, nếu có lợi nhuận, sẽ tạo động lực cho các nhà thiết kế chip đưa ra các tối ưu hóa cho thuật toán cụ thể đó, điều này đã xảy ra đối với ETHash (và được ETCHash kế thừa).
 
           Kể từ năm 2022, ASIC có sẵn có thể khai thác ETCHash hiệu quả hơn gấp 2 lần đến 6 lần so với GPU và có khả năng xu hướng này sẽ tiếp tục.
       rewards:
         question: Bao nhiêu phần trăm phần thưởng khối của ETC dành cho thợ đào?
         answer: |
-          100%. Không giống như nhiều dự án khác, có% phần thưởng khối được chuyển đến hệ thống kho bạc tập trung, ETC vẫn hoàn toàn trung lập về vấn đề này. Vào năm 2021, một [đề xuất kho bạc] (# TODO) như thế này đã bị cộng đồng ETC từ chối.
+          100%. Không giống như nhiều dự án khác, có% phần thưởng khối được chuyển đến hệ thống kho bạc tập trung, ETC vẫn hoàn toàn trung lập về vấn đề này. Vào năm 2021, một [đề xuất ngân quỹ] (https://etccooperative.org/posts/2021-09-20-withdraws-support-for-ecip-1098) như thế này đã bị cộng đồng ETC từ chối.
       sha3:
         question: Ethereum Classic có đang chuyển thuật toán khai thác sang SHA3 không?
         answer: |

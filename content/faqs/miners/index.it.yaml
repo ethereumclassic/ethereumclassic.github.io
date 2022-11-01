@@ -40,7 +40,7 @@ items:
       ethash:
         question: Qual è l'algoritmo di mining di Ethereum Classic?
         answer: |
-          Ethereum Classic utilizza l'algoritmo di mining [ETCHash](#TODO), un cugino stretto di ETHash di Ethereum, con una dimensione DAG più piccola. L'hardware utilizzato per il mining di ETH pre-merge può essere utilizzato anche per il mining di ETC.
+          Ethereum Classic utilizza l'algoritmo di mining [ETCHash](https://github.com/eth-classic/etchash), un cugino stretto di ETHash di Ethereum, con una dimensione DAG più piccola. L'hardware utilizzato per il mining di ETH prima della fusione può essere utilizzato anche per il mining di ETC.
       emission:
         question: Qual è la ricompensa del blocco di Ethereum Classic?
         answer: |
@@ -56,13 +56,13 @@ items:
         answer: |
           ETHash è stato originariamente progettato per essere difficile da memorizzare, con l'obiettivo di rendere non praticabile l'uso di ASIC (come quelli progettati per l'algoritmo SHA256 di Bitcoin).
 
-          Con il tempo, si è capito che [non esiste una resistenza agli ASIC](#TODO). Alla fine tutti gli algoritmi di mining, se redditizi, creeranno un incentivo per i progettisti di chip a proporre ottimizzazioni per quello specifico algoritmo, come è successo per ETHash (ed è stato ereditato da ETCHash).
+          Con il tempo, si è capito che [non esiste una resistenza ASIC] (https://bobsummerwill.com/2020/02/02/asic-resistance-is-a-myth/). Alla fine tutti gli algoritmi di mining, se redditizi, creeranno un incentivo per i progettisti di chip a proporre ottimizzazioni per quello specifico algoritmo, come è successo per ETHash (ed è stato ereditato da ETCHash).
 
           A partire dal 2022, sono disponibili ASIC in grado di estrarre ETCHash con un'efficienza energetica da 2 a 6 volte superiore rispetto alle GPU ed è probabile che questa tendenza continui.
       rewards:
         question: Quale percentuale della ricompensa dei blocchi di ETC va ai minatori?
         answer: |
-          100%. A differenza di molti altri progetti, che destinano una percentuale delle ricompense dei blocchi a un sistema di tesoreria centralizzato, l'ETC rimane completamente neutrale a questo proposito. Nel 2021 una [proposta di tesoreria] (#TODO) come questa è stata respinta dalla comunità ETC.
+          100%. A differenza di molti altri progetti, che destinano una percentuale delle ricompense dei blocchi a un sistema di tesoreria centralizzato, ETC rimane completamente neutrale a questo proposito. Nel 2021 una [proposta di tesoreria](https://etccooperative.org/posts/2021-09-20-withdraws-support-for-ecip-1098) come questa è stata rifiutata dalla comunità ETC.
       sha3:
         question: Ethereum Classic sta passando all'algoritmo di mining SHA3?
         answer: |

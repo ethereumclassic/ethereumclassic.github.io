@@ -40,7 +40,7 @@ items:
       ethash:
         question: Apakah algoritma perlombongan Ethereum Classic?
         answer: |
-          Ethereum Classic menggunakan algoritma perlombongan [ETCHash](#TODO), sepupu rapat ETHash Ethereum, dengan saiz DAG yang lebih kecil. Perkakasan yang digunakan untuk melombong ETH pra-gabungan juga boleh digunakan untuk melombong ETC.
+          Ethereum Classic menggunakan algoritma perlombongan [ETCHash](https://github.com/eth-classic/etchash), sepupu rapat ETHash Ethereum, dengan saiz DAG yang lebih kecil. Perkakasan yang digunakan untuk melombong ETH pra-gabungan juga boleh digunakan untuk melombong ETC.
       emission:
         question: Apakah ganjaran blok Ethereum Classic?
         answer: |
@@ -56,13 +56,13 @@ items:
         answer: |
           ETHash pada asalnya direka bentuk untuk menyukarkan ingatan, dengan matlamat menjadikan penggunaan ASIC (seperti yang direka untuk algoritma SHA256 Bitcoin) tidak berdaya maju.
 
-          Dari masa ke masa, ia telah menyedari bahawa [tiada perkara seperti rintangan ASIC](#TODO). Akhirnya semua algoritma perlombongan, jika menguntungkan, akan mencipta insentif untuk pereka cip untuk menghasilkan pengoptimuman untuk algoritma khusus itu, yang berlaku untuk ETHash (dan diwarisi oleh ETCHash).
+          Dari masa ke masa, ia telah menyedari bahawa [tiada perkara seperti rintangan ASIC](https://bobsummerwill.com/2020/02/02/asic-resistance-is-a-myth/). Akhirnya semua algoritma perlombongan, jika menguntungkan, akan mencipta insentif untuk pereka cip untuk menghasilkan pengoptimuman untuk algoritma khusus itu, yang berlaku untuk ETHash (dan diwarisi oleh ETCHash).
 
           Mulai 2022, ASIC tersedia yang boleh melombong ETCHash 2x hingga 6x lebih tenaga dengan cekap daripada GPU, dan kemungkinan aliran ini akan berterusan.
       rewards:
         question: Berapakah peratusan ganjaran blok ETC diberikan kepada pelombong?
         answer: |
-          100%. Tidak seperti kebanyakan projek lain, yang mempunyai % daripada ganjaran blok yang dihantar ke sistem perbendaharaan berpusat, ETC kekal neutral sepenuhnya dalam hal ini. Pada tahun 2021 [cadangan perbendaharaan](#TODO) seperti ini telah ditolak oleh komuniti ETC.
+          100%. Tidak seperti kebanyakan projek lain, yang mempunyai % daripada ganjaran blok yang dihantar ke sistem perbendaharaan berpusat, ETC kekal neutral sepenuhnya dalam hal ini. Pada tahun 2021 [cadangan perbendaharaan](https://etccooperative.org/posts/2021-09-20-withdraws-support-for-ecip-1098) seperti ini telah ditolak oleh komuniti ETC.
       sha3:
         question: Adakah Ethereum Classic menukar algoritma perlombongannya kepada SHA3?
         answer: |

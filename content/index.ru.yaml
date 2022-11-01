@@ -20,6 +20,7 @@ billboard:
     Code is Law: "Кодекс - это закон"
     Classic: "Классика"
     Permisionless: "Без разрешения"
+    Global: "Глобальный"
 ## feature
 feature:
   title: Часто задаваемые вопросы
