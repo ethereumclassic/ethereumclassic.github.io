@@ -20,6 +20,7 @@ billboard:
     Code is Law: "Kodex ist Gesetz"
     Classic: "Klassisch"
     Permisionless: "Erlaubnisfrei"
+    Global: "Global"
 ## feature
 feature:
   title: FAQs
