@@ -40,7 +40,7 @@ items:
       ethash:
         question: Quel est l'algorithme minier d'Ethereum Classic ?
         answer: |
-          Ethereum Classic utilise l'algorithme de minage [ETCHash](#TODO), un proche cousin de l'ETHash d'Ethereum, avec une taille de DAG plus petite. Le matériel qui était utilisé pour miner l'ETH avant la fusion peut également être utilisé pour miner l'ETC.
+          Ethereum Classic utilise l'algorithme de minage [ETCHash](https://github.com/eth-classic/etchash), un proche cousin de l'ETHash d'Ethereum, avec une taille de DAG plus petite. Le matériel qui était utilisé pour miner l'ETH avant la fusion peut également être utilisé pour miner l'ETC.
       emission:
         question: Quelle est la récompense du bloc Ethereum Classic ?
         answer: |
@@ -56,13 +56,13 @@ items:
         answer: |
           ETHash a été conçu à l'origine pour être difficile à mémoriser, dans le but de rendre non viable l'utilisation d'ASIC (tels que ceux conçus pour l'algorithme SHA256 de Bitcoin).
 
-          Avec le temps, on s'est rendu compte que [la résistance des ASIC n'existe pas] (#TODO). Finalement, tous les algorithmes de minage, s'ils sont rentables, inciteront les concepteurs de puces à proposer des optimisations pour cet algorithme spécifique, ce qui s'est produit pour ETHash (et a été hérité par ETCHash).
+          Avec le temps, on s'est rendu compte que [la résistance des ASIC n'existe pas] (https://bobsummerwill.com/2020/02/02/asic-resistance-is-a-myth/). Finalement, tous les algorithmes de minage, s'ils sont rentables, inciteront les concepteurs de puces à proposer des optimisations pour cet algorithme spécifique, ce qui s'est produit pour ETHash (et a été hérité par ETCHash).
 
           En 2022, il existe des ASIC capables de miner l'ETCHash de 2 à 6 fois plus efficacement que les GPU, et il est probable que cette tendance se poursuive.
       rewards:
         question: Quel pourcentage de la récompense des blocs d'ETC va aux mineurs ?
         answer: |
-          100%. Contrairement à de nombreux autres projets, dont un % des récompenses en bloc va à un système de trésorerie centralisé, l'ETC reste totalement neutre à cet égard. En 2021, une [proposition de trésorerie] (#TODO) comme celle-ci a été rejetée par la communauté ETC.
+          100%. Contrairement à de nombreux autres projets, dont un % des récompenses par blocs va à un système de trésorerie centralisé, l'ETC reste totalement neutre à cet égard. En 2021, une [proposition de trésorerie] (https://etccooperative.org/posts/2021-09-20-withdraws-support-for-ecip-1098) comme celle-ci a été rejetée par la communauté ETC.
       sha3:
         question: Est-ce que Ethereum Classic change son algorithme de minage pour SHA3 ?
         answer: |
