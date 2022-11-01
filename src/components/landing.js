@@ -13,15 +13,15 @@ import LandingArtwork from "./landingArtwork";
 import LandingFeature from "./landingFeature";
 
 export default function Landing({
-  data: { headlines, videos, apps },
-  i18n: { billboard, intro, feature },
+  data: { headlines, videos, videosEn, apps },
+  i18n: { billboard, intro, feature, headings },
 }) {
   return (
     <>
       <LandingArtwork i18n={billboard} />
       <TwContainer tw="py-24 space-y-24">
         <LandingFeature i18n={feature} />
-        <LandingHeadlines items={headlines.edges} />
+        <LandingHeadlines items={headlines.edges} i18n={headings.headlines} />
         <div tw="grid grid-cols-1 items-center gap-24 md:grid-cols-2">
           <div tw="prose">
             <h3>{intro.title}</h3>
@@ -41,8 +41,11 @@ export default function Landing({
           </div>
         </div>
         <div tw="grid grid-cols-1 lg:grid-cols-2 gap-16 xl:gap-24">
-          <LandingVideos items={videos.edges} />
-          <LandingApps items={apps.edges} />
+          <LandingVideos
+            items={[...videos.edges, ...videosEn.edges].slice(0, 3)}
+            i18n={headings.videos}
+          />
+          <LandingApps items={apps.edges} i18n={headings.apps} />
         </div>
       </TwContainer>
     </>

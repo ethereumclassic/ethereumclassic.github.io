@@ -7,22 +7,27 @@ import Link from "./link";
 import Icon from "./icon";
 import AppsIcon from "./appsIcon";
 import { Helmet } from "react-helmet";
+import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
 
-// LODO i18n
 const checklist = [
-  { key: "verifiedContract", text: "Contract" },
-  { key: "openSource", text: "Open Source" },
-  { key: "audit", text: "Audited" },
-  { key: "testSuite", text: "Test Suite" },
-  { key: "ipfsFrontend", text: "IPFS Frontend" },
+  "verifiedContract",
+  "openSource",
+  "audit",
+  "testSuite",
+  "ipfsFrontend",
 ];
 
-function ChecklistSection({ item, ...rest }) {
-  const rating = checklist.reduce((n, { key }) => n + (item[key] ? 1 : 0), 0);
+function ChecklistSection({ item }) {
+  const {
+    ui: { appModal: i18n },
+  } = useGlobals();
+  const rating = checklist.reduce((n, key) => n + (item[key] ? 1 : 0), 0);
   return (
     <div tw="text-sm">
       <div tw="flex items-center space-x-4 my-2">
-        <span>Trustless Checklist Level {rating}</span>
+        <span>
+          {i18n.checkListRating} {rating}
+        </span>
         <div tw="flex space-x-1 text-shade-lighter">
           {checklist
             .filter((_i, i) => i < rating)
@@ -33,7 +38,7 @@ function ChecklistSection({ item, ...rest }) {
       </div>
       {/* LODO make this behave like table, auto width */}
       <div tw="flex flex-wrap">
-        {checklist.map(({ key, text }) => {
+        {checklist.map((key) => {
           const isChecked = !!item[key];
           const Comp = isChecked ? Link : "div";
           return (
@@ -51,7 +56,7 @@ function ChecklistSection({ item, ...rest }) {
                 tw="h-3 flex-1"
               />
               <span tw="flex-shrink whitespace-nowrap overflow-ellipsis">
-                {text}
+                {i18n[key]}
               </span>
             </Comp>
           );
@@ -61,14 +66,15 @@ function ChecklistSection({ item, ...rest }) {
   );
 }
 
-function LinksSection({ links, date }) {
+function LinksSection({ links }) {
+  const {
+    ui: { appModal: i18n },
+  } = useGlobals();
   return (
     <>
       <div tw="text-secondary-dark text-sm mt-4">
         <Icon icon="warning" tw="h-4 mr-1 inline" />
-        <b>Warning: </b>
-        This user-submitted app is NOT vetted and NOT guaranteed to be safe; use
-        at your own risk, and always do your own research!
+        <Md unwrap>{i18n.warning}</Md>
       </div>
       {links && (
         <div tw="mt-6">
@@ -92,6 +98,9 @@ function LinksSection({ links, date }) {
 }
 
 export default function AppsItemModal({ item, appType, trueCol }) {
+  const {
+    ui: { appModal: i18n },
+  } = useGlobals();
   const { image, title, date, authorLink, author, links, description } = item;
   return (
     <div tw="max-w-2xl mx-auto text-shade-light">
@@ -122,7 +131,7 @@ export default function AppsItemModal({ item, appType, trueCol }) {
               )}
             </div>
             <div tw="mb-3">
-              Added <FormattedDate date={date} />
+              {i18n.added} <FormattedDate date={date} />
             </div>
             <div tw="hidden sm:block">
               <ChecklistSection item={item} />

@@ -3,10 +3,13 @@ import tw from "twin.macro";
 import { Popover } from "@headlessui/react";
 
 import Icon from "./icon";
+import Link from "./link";
 import PopDownMenu from "./popDownMenu";
 import LocaleButtons from "./localeButtons";
+import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
 
 export default function LocaleSelector({ ...props }) {
+  const { ui } = useGlobals();
   return (
     <Popover.Group tw="flex" {...props}>
       <Popover tw="relative" className="group">
@@ -30,26 +33,17 @@ export default function LocaleSelector({ ...props }) {
                 />
               </Popover.Button>
             </div>
-            <PopDownMenu
-              left
-              // LODO enable this after i18n implemented
-              // cta={
-              //   <a
-              //     href="#"
-              //     tw="-m-3 p-3 px-5 flex items-center rounded-md text-base font-medium text-shade-darkest hover:bg-shade-lightest"
-              //   >
-              //     <Icon
-              //       icon="coins"
-              //       tw="flex-shrink-0 h-6 w-6 text-shade-light"
-              //       aria-hidden="true"
-              //     />
-              //     <span tw="ml-3">
-              //       Support ETC by helping to translate this website!
-              //     </span>
-              //   </a>
-              // }
-            >
+            <PopDownMenu left>
               <LocaleButtons />
+              <Link
+                to="https://github.com/ethereumclassic/ethereumclassic.github.io#translations"
+                tw="-mx-8 -my-8 -mt-0 p-3 flex text-sm text-shade-light bg-shade-lightest hover:bg-shade-lighter hover:text-shade-dark"
+              >
+                <div tw="flex text-center items-center justify-center mx-auto">
+                  <Icon icon="language" tw="h-7 w-7" />
+                  <div tw="ml-3">{ui.helpTranslate}</div>
+                </div>
+              </Link>
             </PopDownMenu>
           </>
         )}

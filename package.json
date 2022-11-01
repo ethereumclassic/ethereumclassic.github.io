@@ -7,7 +7,8 @@
   },
   "scripts": {
     "develop": "GATSBY_DISABLE_CUSTOM_404=1 GATSBY_TELEMETRY_DISABLED=1 gatsby develop",
-    "develop-lan": "GATSBY_DISABLE_CUSTOM_404=1 GATSBY_TELEMETRY_DISABLED=1 gatsby develop -H $HOSTNAME",
+    "develop-i18n": "I18N_DEV=1 npm run develop",
+    "develop-lan": "npm run develop -- -H 0.0.0.0",
     "start": "npm run develop",
     "build": "GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true GATSBY_TELEMETRY_DISABLED=1 gatsby build --log-pages",
     "serve": "GATSBY_TELEMETRY_DISABLED=1 gatsby serve",

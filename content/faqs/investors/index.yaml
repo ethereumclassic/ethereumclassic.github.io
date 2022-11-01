@@ -1,0 +1,43 @@
+title: Investor FAQs
+seo: Frequently Asked Questions for those looking to understand Ethereum Classic's value proposition or purchase and trade ETC.
+info: Can't find an answer to your question here? Try asking in the ETC community [discord](https://ethereumclassic.org/discord) server. Specifically, you may find the ETC Discord's `#trading-talk` channel of interest.
+__contribute: true
+description: Interested in investing in Ethereum Classic and would like to learn more about it's value proposition? Some answers to common related questions are below.
+items:
+  questions:
+    __type: questions
+    items:
+      trade:
+        question: Where can I buy and trade ETC?
+        answer: |
+          Ethereum Classic is listed pretty much every major (and decent minor) exchange, and has on-chain DEXs. You can find out more in the [exchanges](/services/exchanges) section.
+      policy:
+        question: What is ETC's monetary policy?
+        answer: |
+          Similar to Bitcoin, Ethereum Classic as a fixed emission curve, meaning that you can accurately forecast the total amount of ETC in existance at any point in the future. This prevents inflationary death spirals, and makes ETC a strong store of value.
+
+          Read more about ETC's monetary policy in the [Sound Money](/why-classic/sound-money) section.
+      elevator:
+        question: What's the elevator pitch for Ethereum Classic?
+        answer: |
+          By taking Bitcoin's approach to immutability and sound money, and combining it with the expressivness of Ethereum's Smart Contracts, Ethereum Classic provides something unique: a *truly* unstoppable applications platform.
+      valueProp:
+        question: What is special about Ethereum Classic's value proposition?
+        answer: |
+          In short, Ethereum Classic is one of the few blockchain projects that is rooted in the original cypherpunk ideology pioneered by Bitcoin. As such, ETC highly values neutrality and censorship resistance. It has no capturable central leadership team, and does not attempt "move quickly" at the expense of decentralization. Instead, Ethereum Classic is guided by timeless principles that give stability and longevity to the project.
+
+          Ethereum Classic can also be seen as a backup plan. There is a strong possibility that as time passes and the cryptocurrency space receives more hostility, censorship will become a problem for all chains and those that are not prepared will fall.
+
+          To really understand the value proposition of Ethereum Classic, please check out the [Why Classic?](/why-classic) section.
+      profit:
+        question: Will I make a profit if I purchase ETC?
+        answer: |
+          *Disclaimer: this is not investment advice.* There are no guarantees when investing in any asset, especially in the volatile cryptocurrency space. Always follow the first rule of crypto: *don't invest what you can't afford to lose*.
+
+          Ethereum Classic has Bitcoin's philosophy, approach to immutability and sound monetary policy, making it superior to Ethereum in this sense. At the same time, Ethereum Classic inherits the innovation happening in the EVM ecosystem, making it superior to Bitcoin in this sense.
+
+          These philosophical and technological advantages have led some to predict that ETC has the potential to not just surpass the market cap of Ethereum, but given enough of a time horizon, potentially that of Bitcoin, to become the most valuable blockchain by market cap.
+
+          Ethereum Classic is currently valued at a fraction of that of it's closest comparable chain Ethereum, and should for any reason Ethereum become no longer viable, there is a distinct possibility that Ethereum Classic, as it did with post-merge hashrate, absorbs much of this value.
+
+          Whatever investment decisions you make, not expect to get rich quick. Ethereum Classic is in it for the long game.

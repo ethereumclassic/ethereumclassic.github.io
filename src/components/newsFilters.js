@@ -27,8 +27,10 @@ function NewsFilterBlock({ items, title, icon, inline }) {
           key={key}
           to={link}
           css={[
-            tw`inline-flex hocus:text-shade-darker text-shade-neutral mr-1.5`,
-            selected ? tw`font-bold text-shade-darker` : tw`font-normal`,
+            tw`inline-flex hocus:text-shade-darker text-shade-neutral mr-2 mb-1 px-1.5 py-0.5 bg-backdrop-light shadow-sm rounded-md hover:bg-shade-lightest`,
+            selected
+              ? tw`font-bold text-primary-dark bg-primary-lightest`
+              : tw`font-normal`,
           ]}
         >
           {name}

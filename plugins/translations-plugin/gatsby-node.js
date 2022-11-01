@@ -134,6 +134,10 @@ exports.createPages = async (
   // Get all content files, then group by directory
   const groupedFiles = files.reduce(
     (o, { node: { relativeDirectory, relativePath } }) => {
+      // skip collection directories TODO; translations
+      if (relativePath.includes(`/${collectionKey}/`)) {
+        return o;
+      }
       return {
         ...o,
         [relativeDirectory]: (o[relativeDirectory] || []).concat([
@@ -156,36 +160,66 @@ exports.createPages = async (
     return component;
   }
 
+  function matchFile({ file, locale, global, ext }) {
+    //quickly filter out some obvious things for performance
+    if (!file.endsWith(`.${ext}`)) {
+      return false;
+    }
+    const isGlobal = file.includes(`.global.`);
+    if ((!global && isGlobal) || (global && !isGlobal)) {
+      return false;
+    }
+    const fileName = file.split("/").pop();
+    const [name] = fileName.split(".");
+    // do exact pattrern matches to weed out `collection` or other extensions / misplaced files
+    if (locale === defaultLocale) {
+      if (
+        fileName !== `${name}.${ext}` &&
+        fileName !== `${name}.global.${ext}` &&
+        fileName !== `${name}.${locale}.${ext}` &&
+        fileName !== `${name}.global.${locale}.${ext}`
+      ) {
+        return false;
+      }
+    } else if (
+      fileName !== `${name}.${locale}.${ext}` &&
+      fileName !== `${name}.global.${locale}.${ext}`
+    ) {
+      return false;
+    }
+    return file;
+  }
+
   function getImports(dir, locale) {
     const dirs = [""].concat(dir.split("/"));
-    const globals = dirs
-      .map((_str, i) => {
-        const subFolder = dirs.slice(1, dirs.length - i).join("/");
-        return (groupedFiles[subFolder] || []).filter(
-          (file) =>
-            file.includes(`.global.`) &&
-            !file.includes(`.${collectionKey}.`) &&
-            file.endsWith(`${locale}.yaml`)
-        );
-      })
-      .reduce((p, n) => p.concat(n), []);
-
-    const locals = (groupedFiles[dir] || []).filter(
-      (file) =>
-        !file.includes(`.global.`) &&
-        !file.includes(`.${collectionKey}.`) &&
-        file.endsWith(`${locale}.yaml`)
-    );
-
-    return { locals, globals };
+    return {
+      locals: (groupedFiles[dir] || []).filter((file) =>
+        matchFile({ file, locale, ext: "yaml" })
+      ),
+      globals: dirs
+        .map((_str, i) => {
+          const subFolder = dirs.slice(1, dirs.length - i).join("/");
+          return (groupedFiles[subFolder] || []).filter((file) =>
+            matchFile({ file, locale, global: true, ext: "yaml" })
+          );
+        })
+        .reduce((p, n) => p.concat(n), []),
+    };
   }
 
   function getMdx(dir, locale) {
     const mdFile = (groupedFiles[dir] || []).find((file) =>
-      file.endsWith(`${locale}.md`)
+      matchFile({ file, locale, ext: "md" })
     );
-    // remove `.md` to create a slug for importing
-    return mdFile && `${mdFile.split(".").slice(0, -1).join(".")}`;
+    // transform path to gatsby-queriable slug
+    if (mdFile) {
+      if (mdFile.endsWith("/index.md")) {
+        return `${mdFile.split("/").slice(0, -1).join("/")}/`;
+      } else {
+        return `${mdFile.split(".").slice(0, -1).join(".")}`;
+      }
+    }
+    return null;
   }
   // create a page from each directory
   Object.keys(groupedFiles).forEach((dir) => {

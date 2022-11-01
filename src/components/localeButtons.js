@@ -8,7 +8,7 @@ import Icon from "./icon";
 export default function LocaleButtons() {
   const { locale, defaultLocale, basePath, localeItems } = useLocaleItems();
   return (
-    <div tw="grid grid-cols-2 md:grid-cols-3 -m-3 overflow-y-auto max-h-[50vh]">
+    <div tw="grid grid-cols-2 md:grid-cols-3 -m-4 overflow-y-auto max-h-[50vh]">
       {localeItems.map(({ key, name, enabled }) => (
         <Link
           key={key}
@@ -17,12 +17,12 @@ export default function LocaleButtons() {
             (key === defaultLocale ? `/${basePath}` : `/${key}/${basePath}`)
           }
           css={[
-            tw`px-3 py-3 hover:bg-shade-lightest flex items-center space-x-2`,
+            tw`p-3 hover:bg-shade-lightest flex items-center space-x-2 rounded-md`,
             locale === key ? tw`font-bold` : tw`font-normal`,
             !enabled && tw`opacity-50 cursor-not-allowed`,
           ]}
         >
-          <Icon icon={key} alt={name} tw="flex-shrink-0 h-6 w-6 rounded-full" />
+          <Icon icon={key} alt={name} tw="h-6 w-6 rounded-full" />
           <span tw="ml-3 block truncate">{name}</span>
         </Link>
       ))}
