@@ -25,7 +25,6 @@ staker
 Permissionlessness
 Permissionless
 uncaptured
-becuase
 deanonymizing
 DAO
 Crowdsale
