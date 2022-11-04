@@ -20,7 +20,7 @@ tags: ["teams"]
 
 &nbsp;&nbsp;&nbsp; - “[Ethercluster: An Open-Source Alternative to Infura](https://medium.com/ethereum-classic/ethercluster-an-open-source-alternative-to-infura-b8799b2122d3)” - 1st July 2019.
 
-![Bob and Yaz](../../assets/bob_and_yaz.jpeg)
+![Bob and Yaz](./bob_and_yaz.jpeg)
 
 Executive Director Bob Summerwill [tweeted](https://twitter.com/BobSummerwill/status/1184986345929789441) "_I am delighted to say that I have just signed a contract extension for our very own ETC Aquaman, Yaz,so he can continue his great work at the ETC Cooperative for another year!_"
 

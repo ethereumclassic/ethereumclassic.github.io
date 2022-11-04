@@ -22,7 +22,7 @@ For the benefit of the Ethereum Classic community, [Multichain](https://multicha
  
 [ETC Swap](https://swap.ethereumclassic.com) supports the 28 markets for these Multichain-Pegged assets. Please note, bridged assets through [Multichain](https://app.multichain.org) are listed with the assets traditional ticker symbol but will include "Mulitchain-Peg USDC" in the alt description. This is done to clearly signify that the traded asset is bridged through the Multichain cross-chain router and not natively issued on the Ethereum Classic chain by the token's development team. We expect major stablecoins like Tether USD and USD Coin to natively issue these assets on Ethereum Classic in the future as the network's hashrate continues to rise.
  
-Guide: [Using MetaMask with Ethereum Classic](https://ethereumclassic.org/guides/metamask)
+Guide: [Using MetaMask with Ethereum Classic](/knowledge/metamask)
  
 ### ChainID 56: Binance Smart Chain (BNB)
  

@@ -13,6 +13,8 @@
 
 [[plugins]]
   package = "netlify-plugin-checklinks"
+    [plugins.inputs]
+    checkExternal = true
 
 # These redirects will be used by Netlify as well as the client to replace link addresses
 # Generic redirects, based on 404 hits

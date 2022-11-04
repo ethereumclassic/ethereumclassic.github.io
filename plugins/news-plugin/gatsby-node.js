@@ -38,7 +38,8 @@ exports.onCreateNode = async (
       ...obj,
       newsType: tag,
       tags: ignoreTags ? [tag] : [...obj.tags, "news"],
-      link: obj.link || (obj.slug && linkPrefix && `${linkPrefix}#${obj.slug}`),
+      link:
+        obj.link || (obj.slug && linkPrefix && `${linkPrefix}/#${obj.slug}`),
       id: createNodeId(`${node.id} >>> NEWS ITEM`),
       children: [],
       parent: node.id,
