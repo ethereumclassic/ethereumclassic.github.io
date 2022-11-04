@@ -4,13 +4,13 @@ import tw from "twin.macro";
 import AppsItem from "./appsItem";
 import LandingSubHeader from "./landingSubHeader";
 
-export default function LandingApps({ items }) {
+export default function LandingApps({ items, i18n }) {
   return (
     <>
       <div>
         <LandingSubHeader
-          title="Latest Applications"
-          button="All Apps"
+          title={i18n.title}
+          button={i18n.button}
           link="/services/apps"
         />
         <div tw="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-2 gap-3">

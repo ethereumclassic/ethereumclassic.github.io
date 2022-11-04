@@ -1,7 +1,13 @@
-import React, { useContext, useState } from "react";
+import React, { useContext } from "react";
 import dayjs from "dayjs/dayjs.min.js";
 import localizedPlugin from "dayjs/plugin/localizedFormat";
+
+// TODO if the build is too big
+// figure out how to do this dynamically but also work with SSR
 import "dayjs/locale/en";
+import "dayjs/locale/zh";
+import "dayjs/locale/ja";
+import "dayjs/locale/es";
 
 dayjs.extend(localizedPlugin);
 
@@ -26,15 +32,9 @@ function LocalizationProvider({
     dayJsImport,
   },
 }) {
-  // LODO find a better way, with React 18?
-  // LODO fix this, it is flickering on first render
-  // const [dayJsLoaded, setLoaded] = useState(!dayJsImport);
-  // if (dayJsImport && dayJsLoaded !== dayJsImport) {
-  //   import(`dayjs/locale/${dayJsImport}`).then((res) => {
-  //     dayjs.locale(dayJsImport);
-  //     setLoaded(dayJsImport);
-  //   });
-  // }
+  if (dayJsImport !== false) {
+    dayjs.locale(dayJsImport || locale);
+  }
 
   return (
     <LocaleContext.Provider
@@ -44,7 +44,6 @@ function LocalizationProvider({
         isDefaultLocale,
         basePath,
         globals,
-        dayJsImport: true,
         dayjs,
       }}
     >

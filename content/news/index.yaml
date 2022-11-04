@@ -1,0 +1,37 @@
+title: Ethereum Classic News
+rss: News RSS Feed
+years: Years
+tags: Tags
+support: Support ETC by submitting your own links!
+changeLanguage: This page only shows news in your currently selected language. View in English for more news.
+tagNames:
+  blog: ETC Blog
+  announcement: Announcements
+  application: Apps
+  development: Development
+  education: Education
+  event: Events
+  exchange: Exchanges
+  guide: Guides
+  hardfork: Hard Forks
+  media: Media
+  mining: Mining
+  podcast: Podcasts
+  teams: Teams
+  tech: Technology
+  trading: Trading
+  wallet: Wallets
+  video: Videos
+  news: Headlines
+__contributors:
+  - pyskell
+  - dax-classix
+  - arvicco
+  - ProphetDaniel
+  - lolopoloskos
+  - nargotik
+  - YazzyYaz
+  - stevanlohja
+  - antsankov
+  - TheEnthusiasticAs
+  - gitr0n1n

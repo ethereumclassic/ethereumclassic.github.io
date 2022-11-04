@@ -4,13 +4,13 @@ import LandingSubHeader from "./landingSubHeader";
 
 import VideosItem from "./videosItem";
 
-export default function LandingVideos({ items }) {
+export default function LandingVideos({ items, i18n }) {
   return (
     <>
       <div>
         <LandingSubHeader
-          title="Latest Videos"
-          button="All Videos"
+          title={i18n.title}
+          button={i18n.button}
           link="/videos"
         />
         <div tw="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-2 gap-4">

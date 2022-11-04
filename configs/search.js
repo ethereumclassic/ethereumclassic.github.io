@@ -85,6 +85,8 @@ module.exports = {
   // enablePartialUpdates: true, // default: false
   // matchFields: ["slug", "modified"], // Array<String> default: ['modified']
   concurrentQueries: false, // default: true
-  skipIndexing: process.env.CONTEXT !== "production", // default: false, useful for e.g. preview deploys or local development
+  // usually we want to skip indexing, except in prod deployment
+  skipIndexing:
+    !!process.env.NO_SEARCH_INDEX || process.env.CONTEXT !== "production",
   continueOnFailure: false, // default: false, don't fail the build if algolia indexing fails
 };

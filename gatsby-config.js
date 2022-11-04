@@ -1,5 +1,5 @@
 const siteUrl = "https://ethereumclassic.org";
-const lastUpdated = new Date("2022-02-22"); // passed to sitemap, shows roughtly last time page was updated
+const lastUpdated = new Date("2022-02-22"); // passed to sitemap, shows roughtly last time page was updated unless overridden
 
 const { locales, defaultLocale } = require("./configs/locales");
 
@@ -15,6 +15,7 @@ module.exports = {
     siteUrl,
     socialImage: "/etc-social-card.png",
     redirects: require("./configs/redirects"),
+    i18nDev: !!process.env.I18N_DEV,
     lastUpdated,
   },
   plugins: [
@@ -95,6 +96,8 @@ module.exports = {
     {
       resolve: "collections-plugin",
       options: {
+        locales,
+        defaultLocale,
         instanceType: "content",
         collectionKey: "collection",
       },
@@ -113,7 +116,7 @@ module.exports = {
     {
       resolve: "news-plugin",
       options: {
-        // LODO
+        defaultLocale,
       },
     },
     {
@@ -145,15 +148,32 @@ module.exports = {
     {
       resolve: "pagination-plugin",
       options: {
+        locales,
+        defaultLocale,
+        emptyi18nPages: { blog: true },
         itemsPerPage: 16 * 3,
         basePath: "news",
         filters: {
-          tags: { type: "tags", slug: "/tag/" },
-          years: { type: "category", field: "year", slug: "/year/" },
+          tags: {
+            type: "tags",
+            slug: "/tag/",
+          },
+          years: {
+            type: "category",
+            field: "year",
+            slug: "/year/",
+          },
+        },
+        globalFilters: {
+          unlisted: { ne: true },
         },
         query: `
           query NewsQuery {
-            items: allNewsItem {
+            items: allNewsItem(
+              filter: {
+                unlisted: { ne: true }
+              }
+            ) {
               edges {
                 node {
                   locale
@@ -169,15 +189,26 @@ module.exports = {
     {
       resolve: "pagination-plugin",
       options: {
+        locales,
+        defaultLocale,
+        emptyi18nPages: true,
         itemsPerPage: 10 * 3,
         basePath: "videos",
         filters: {
-          tags: { type: "tags", slug: "/" },
+          tags: {
+            type: "tags",
+          },
+        },
+        globalFilters: {
+          unlisted: { ne: true },
         },
         query: `
           query VideosQuery {
             items: allVideosCollection(
               sort: { fields: [date, title], order: [DESC, ASC] }
+              filter: {
+                unlisted: { ne: true }
+              }
             ) {
               edges {
                 node {
@@ -194,15 +225,22 @@ module.exports = {
     {
       resolve: "pagination-plugin",
       options: {
+        defaultLocale,
         itemsPerPage: 10 * 3,
         basePath: "services/apps",
         filters: {
-          type: { type: "category", slug: "/" },
+          type: {
+            type: "category",
+            query: {
+              unlisted: { ne: true },
+            },
+          },
         },
         query: `
           query AppsQuery {
             items: allServicesAppsCollection(
               sort: { fields: [date, title], order: [DESC, ASC] }
+              filter: { unlisted: { ne: true } }
             ) {
               edges {
                 node {
