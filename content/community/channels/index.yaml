@@ -115,24 +115,24 @@ items:
         name: Archived BitcoinTalk
   Media:
     __type: buttons
-    title: Media
+    title: Video Channels & Playlists
     items:
       media ETCfInv:
         __link: https://www.youtube.com/playlist?list=PLMBYy3lWO3DkegQkvL23AMnm_JnX-LXW3
         __icon: youtube
-        name: Ethereum Cassic (ETC) for Investors
+        name: ETC for Investors
       media EthereumClassicCC:
         __link: https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos
         __icon: youtube
-        name: Ethereum Classic Community Calls
+        name: ETC Community Calls
       media EthereumClassic:
         __link: https://odysee.com/$/invite/@Ethereum_Classic:2
         __icon: video
-        name: Ethereum Classic Announcements & Updates
+        name: ETC Announcements & Updates (Odysee)
       media EthereumClassicNews:
         __link: https://odysee.com/$/invite/@EthereumClassicNews:3
         __icon: video
-        name: Ethereum Classic News
+        name: ETC News (Odysee)
       media Etherplan:
         __link: https://www.youtube.com/channel/UC4--zHROGkRT1MadPM4EASA/playlists
         __icon: youtube
