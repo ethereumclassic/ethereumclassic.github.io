@@ -140,6 +140,9 @@ items:
       Paxful:
         __link: https://paxful.com/sell-bitcoin/ethereum-classic-etc
         __name: Paxful
+      Poof:
+        __link: https://www.poof.io/
+        __name: Poof.io
       RoundlyX:
         __link: https://www.roundlyx.com/
         __name: RoundlyX
