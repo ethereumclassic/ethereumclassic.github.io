@@ -134,7 +134,7 @@ items:
         __icon: video
         name: ETC News (Odysee)
       media Etherplan:
-        __link: https://www.youtube.com/channel/UC4--zHROGkRT1MadPM4EASA/playlists
+        __link: https://www.youtube.com/c/Etherplan
         __icon: youtube
         name: Etherplan
       media EVM61:
