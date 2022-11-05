@@ -13,11 +13,16 @@ import { etc as EtcLogo } from "../utils/icons";
 import { useTheme } from "../utils/themeProvider";
 import useSiteMetadata from "../utils/useSiteMetadata";
 
-export default function Seo({ data, i18n, path, pageContext: { basePath } }) {
+export default function Seo({
+  data,
+  i18n,
+  location: { pathname: path },
+  pageContext: { basePath },
+}) {
   const { ui } = useGlobals();
   const { siteUrl, socialImage, i18nDev } = useSiteMetadata();
   const { isDark } = useTheme();
-  const is404 = path === "*";
+  const is404 = basePath === "404";
   const url = `${siteUrl}${path}`;
   const image = `${siteUrl}${socialImage}`; // LODO extract first image from MDX, somehow
   const pageTitle = data?.mdx?.meta?.title || i18n.title || ui.title;
@@ -46,9 +51,7 @@ export default function Seo({ data, i18n, path, pageContext: { basePath } }) {
   // TODO use config
   // exclude these from search categories as we add them manually...
   if (
-    ["", "*", "404", "news", "videos", "services/apps", "sitemap"].includes(
-      basePath
-    )
+    ["", "404", "news", "videos", "services/apps", "sitemap"].includes(basePath)
   ) {
     category = null;
   }
