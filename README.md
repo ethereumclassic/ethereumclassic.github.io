@@ -46,7 +46,11 @@ If you're writing Ethereum Classic content, the [Media Kit](https://github.com/e
 
 ## Translations
 
-Help us translate the website by signing up to https://crowdin.com/project/etc-web-test-3 and reaching out in the [ETC Discord Server](https://etheruemclassic.org/discord). A short tutorial is available at https://www.youtube.com/watch?v=N8SvCy0ayMc. The inline editor and existing machine translations are previewed at https://etc-i18n.netlify.app/.
+Help us translate the website by signing up to https://crowdin.com/project/etc-web-test-3 and reaching out in the [ETC Discord Server](https://etheruemclassic.org/discord) after requesting to join.
+
+A short tutorial is available at https://www.youtube.com/watch?v=N8SvCy0ayMc.
+
+The inline editor and existing machine translations are previewed at https://etc-i18n.netlify.app/.
 
 ## Development
 
