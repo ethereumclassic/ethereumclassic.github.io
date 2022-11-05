@@ -104,12 +104,14 @@ export default function Seo({
           ),
           published && (
             <meta
+              key="article:published_time"
               property="article:published_time"
               content={new Date(published).toISOString()}
             />
           ),
           updated && (
             <meta
+              key="article:modified_time"
               property="article:modified_time"
               content={new Date(updated).toISOString()}
             />
