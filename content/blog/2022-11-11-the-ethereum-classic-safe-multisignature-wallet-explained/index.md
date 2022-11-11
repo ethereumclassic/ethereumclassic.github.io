@@ -72,35 +72,35 @@ You can find the ETC Safe wallet at:
 
 1. Go to multisig.etccooperative.org and press “+ Create new Safe”.
 
-![Create New Safe](./1.png)
+![Create New Safe](./a.png)
 
 2. In the next screen, press “Connect” to connect your ETC wallet.
 
-![Press Connect](./2.png)
+![Press Connect](./b.png)
 
 3. Select the ETC wallet app you use. In this case we selected MetaMask.
 
-![Connect Your Personal Wallet](./3.png)
+![Connect Your Personal Wallet](./c.png)
 
 4. ETC Safe will confirm that you are connected to ETC. Press “Continue”.
 
-![Connected to ETC](./4.png)
+![Connected to ETC](./d.png)
 
 5. In the next step, ETC Safe will ask to label the wallet being created. We called this one “New Multisig Wallet”, but you may enter the label which is most convenient to you. Then, press "Continue".
 
-![Label Safe](./5.png)
+![Label Safe](./e.png)
 
 6. In the next screen you add the people and addresses who will control this wallet and what number of signatures are needed to send transactions. In this case, we added Alice, Bob, and Charlie and we selected 2-of-3 signatures to authorize transactions. When done, press "Continue".
 
-![Add Adresses as Permissions](./6.png)
+![Add Adresses as Permissions](./f.png)
 
 7. In the next step, for security reasons, you need to carefully review the settings of your new Safe wallet. Once you confirm that everything is alright, press “Create”.
 
-![Review Safe](./7.png)
+![Review Safe](./g.png)
 
 8. In the last step, you will be prompted to sign the transaction on your connected personal wallet to deploy your new Safe on ETC. When you sign, your new ETC Safe will be created!
 
-![Sign and Deploy](./8.png)
+![Sign and Deploy](./h.png)
 
 ---
 
