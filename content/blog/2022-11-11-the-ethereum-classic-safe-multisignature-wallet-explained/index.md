@@ -26,7 +26,7 @@ In this video we will explain what are multisig wallets, what is the ETC Safe wa
 
 ## 1. What Are Multisignature Wallets?
 
-![Multisignature wallets](./Safe-post-one-signature-multi-signature.png)
+![Multisignature Wallets](./Safe-post-one-signature-multi-signature.png)
 
 When individuals or organizations open joint or business accounts at traditional banks, sometimes, for security reasons, they set them to require two or more signatures to sign checks or authorize transfers and payments.
 
@@ -36,7 +36,7 @@ However, on Ethereum Classic and other smart contract blockchains it is possible
 
 ## 2. What Is The Ethereum Classic Safe Multisignature Wallet?
 
-![ETC safe](./ETC-Safe-multisignature.png)
+![ETC Safe](./ETC-Safe-multisignature.png)
 
 The Safe wallet is a long standing app in Ethereum compatible blockchains that has developed a standard smart contract, which is battled tested for security and is very flexible, that has become a very popular solution for individuals and teams to create multisig wallets to manage their crypto assets.
 
@@ -72,27 +72,27 @@ You can find the ETC Safe wallet at:
 
 1. Go to multisig.etccooperative.org and press “+ Create new Safe”.
 
-![Create new safe](./1.png)
+![Create New Safe](./1.png)
 
 2. In the next screen, press “Connect” to connect your ETC wallet.
 
-![Press connect wallet](./2.png)
+![Press Connect](./2.png)
 
 3. Select the ETC wallet app you use. In this case we selected MetaMask.
 
-![Connect your personal wallet](./3.png)
+![Connect Your Personal Wallet](./3.png)
 
 4. ETC Safe will confirm that you are connected to ETC. Press “Continue”.
 
 ![Connected to ETC](./4.png)
 
-5. In the next step, ETC Safe will ask to label the wallet being created. We called this one “New Multisig Wallet”, but you may enter the label which is most convenient to you. Then, press continue.
+5. In the next step, ETC Safe will ask to label the wallet being created. We called this one “New Multisig Wallet”, but you may enter the label which is most convenient to you. Then, press "Continue".
 
 ![Label Safe](./5.png)
 
-6. In the next screen you add the people and addresses who will control this wallet and what number of signatures are needed to send transactions. When done, press continue.
+6. In the next screen you add the people and addresses who will control this wallet and what number of signatures are needed to send transactions. In this case, we added Alice, Bob, and Charlie and we selected 2-of-3 signatures to authorize transactions. When done, press "Continue".
 
-![Add adresses as permissions](./6.png)
+![Add Adresses as Permissions](./6.png)
 
 7. In the next step, for security reasons, you need to carefully review the settings of your new Safe wallet. Once you confirm that everything is alright, press “Create”.
 
@@ -100,7 +100,7 @@ You can find the ETC Safe wallet at:
 
 8. In the last step, you will be prompted to sign the transaction on your connected personal wallet to deploy your new Safe on ETC. When you sign, your new ETC Safe will be created!
 
-![Sign and deploy](./8.png)
+![Sign and Deploy](./8.png)
 
 ---
 
