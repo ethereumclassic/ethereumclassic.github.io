@@ -22,7 +22,7 @@ The root of its success is that it is battle tested and flexible.
 
 Battle tested means it has been proven to be secure over a long time, and flexible means that users may at any time remove and replace signatory addresses as well as change the number of signatures required to send transactions.
 
-In this video we will explain what are multisig wallets, what is the ETC Safe wallet, how it works, and how to create your first multisig wallet on ETC.
+In this article we will explain what are multisig wallets, what is the ETC Safe wallet, how it works, and how to create your first multisig wallet on ETC.
 
 ## 1. What Are Multisignature Wallets?
 
@@ -70,7 +70,7 @@ You can find the ETC Safe wallet at:
 
 ## 5. How to Create Your First Multisignature Wallet on ETC
 
-1. Go to multisig.etccooperative.org and press “+ Create new Safe”.
+1. Go to [multisig.etccooperative.org](https://multisig.etccooperative.org) and press “+ Create new Safe”.
 
 ![Create New Safe](./a.png)
 
