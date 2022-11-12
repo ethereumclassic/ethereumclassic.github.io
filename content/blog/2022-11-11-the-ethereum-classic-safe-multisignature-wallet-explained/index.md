@@ -3,7 +3,7 @@ title: "The Ethereum Classic Safe Multisignature Wallet Explained"
 date: 2022-11-11
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Blog"]
+tags: ["blog", "education"]
 linkImage: ./ETC-safe-post-banner.png
 ---
 
