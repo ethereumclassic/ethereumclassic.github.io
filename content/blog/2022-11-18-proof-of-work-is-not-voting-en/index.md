@@ -103,7 +103,7 @@ This is why anyone can enter or exit a proof of work blockchain whenever they wa
 
 Majority voting is the top down imposition to use the block and the chain that the majority voted for with no other option. This is the implicit agreement in voting mechanisms.
 
-Proof of work permissionlessness is diametrically opposite of imposition by majority vote.
+Proof of work permissionlessness is diametrically opposite to imposition by majority vote.
 
 ---
 **Thank you for reading this post!**
