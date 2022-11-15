@@ -1,10 +1,12 @@
 ---
-id: "2022-11-18-proof-of-work-is-not-voting-en"
 title: "Proof of work Is Not Voting"
+date: 2022-11-18
 author: Donald McIntyre
-featuredImage: ./proof-of-work-is-not-voting.png
-tags: [Opinion]
+contributors: ["DonaldMcIntyre"]
+tags: ["opinion"]
+linkImage: ./pow-is-not-voting.png
 ---
+
 In the blockchain industry, and in Ethereum Classic in particular, many think that the proof of work consensus mechanism is a voting system. This stems from a mistake Satoshi Nakamoto made when writing the [Bitcoin white paper](https://bitcoin.org/bitcoin.pdf) where he stated "proof-of-work is essentially one-CPU-one-vote".
 
 What he meant by the above phrase was that proof of work was better than using IP addresses to prevent sock puppet attacks and sybil attacks on peer to peer networks to reach consensus on their latest state, but he did not mean to say that voting per se existed in the system or that it was part of the consensus mechanism he invented.
@@ -21,7 +23,7 @@ In the following sections I will explain these concepts.
 
 Voting is a conflict resolution device, not a good decisions making process.
 
-![Voting vs Proof of Work](/pow-is-not-voting.png)
+![Voting vs Proof of Work](./pow-is-not-voting.png)
 
 To illustrate this idea I will describe the three stages of conflict resolution between humans when selecting alpha leaders (group alpha males or females, kings or queens, or presidents).
 
