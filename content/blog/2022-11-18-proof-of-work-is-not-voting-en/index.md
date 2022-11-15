@@ -1,5 +1,5 @@
 ---
-title: "Proof of work Is Not Voting"
+title: "Proof of Work Is Not Voting"
 date: 2022-11-18
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
