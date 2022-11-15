@@ -2,7 +2,7 @@
 id: "2022-11-18-proof-of-work-is-not-voting-en"
 title: "Proof of work Is Not Voting"
 author: Donald McIntyre
-featuredImage: proof-of-work-is-not-voting.png
+featuredImage: ./proof-of-work-is-not-voting.png
 tags: [Opinion]
 ---
 In the blockchain industry, and in Ethereum Classic in particular, many think that the proof of work consensus mechanism is a voting system. This stems from a mistake Satoshi Nakamoto made when writing the [Bitcoin white paper](https://bitcoin.org/bitcoin.pdf) where he stated "proof-of-work is essentially one-CPU-one-vote".
