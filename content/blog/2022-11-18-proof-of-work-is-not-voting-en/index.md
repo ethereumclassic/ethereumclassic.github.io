@@ -7,6 +7,13 @@ tags: ["opinion"]
 linkImage: ./pow-not-voting.png
 ---
 
+---
+**You can listen to or watch this in video here:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2qBTZ46J74Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 In the blockchain industry, and in Ethereum Classic in particular, many think that the proof of work consensus mechanism is a voting system. This stems from a mistake Satoshi Nakamoto made when writing the [Bitcoin white paper](https://bitcoin.org/bitcoin.pdf) where he stated "proof-of-work is essentially one-CPU-one-vote".
 
 What he meant by the above phrase was that proof of work was better than using IP addresses to prevent sock puppet attacks and sybil attacks on peer to peer networks to reach consensus on their latest state, but he did not mean to say that voting per se existed in the system or that it was part of the consensus mechanism he invented.
