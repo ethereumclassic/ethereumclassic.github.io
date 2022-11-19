@@ -40,6 +40,8 @@ items:
           一些用户可能决定亏本挖矿，因为这使他们能够为没有任何来源的交易获得 "新鲜 "的ETC。
       ethash:
         question: 什么是Ethereum Classic的挖矿算法？
+        answer: |
+          Ethereum Classic 使用 [ETCHash](https://github.com/eth-classic/etchash) 挖掘算法，它是 Ethereum 的 ETHash 的近亲，具有更小的 DAG 大小。用于挖掘合并前 ETH 的硬件也可用于挖掘 ETC。
       emission:
         question: 什么是Ethereum Classic区块奖励？
         answer: |
@@ -49,13 +51,13 @@ items:
 
           - 交易费用
           - 叔叔率
-          - MEV（矿工可提取价值）
+          - MEV(矿工可提取价值)
       asics:
         question: 以太坊经典版的挖矿算法对ASIC有抵抗力吗？
         answer: |
-          ETHash最初被设计为内存困难，目的是使ASIC（如为比特币的SHA256算法设计的）的使用不可行。
+          ETHash最初被设计为内存困难，目的是使ASIC(如为比特币的SHA256算法设计的)的使用不可行。
 
-          随着时间的推移，人们意识到[不存在所谓的ASIC阻力](https://bobsummerwill.com/2020/02/02/asic-resistance-is-a-myth/)。最终，所有的挖矿算法，如果有利可图，将激励芯片设计者为该特定算法提出优化方案，这发生在ETHash上（并被ETCHash继承）。
+          随着时间的推移，人们意识到[不存在所谓的ASIC阻力](https://bobsummerwill.com/2020/02/02/asic-resistance-is-a-myth/)。最终，所有的挖矿算法，如果有利可图，将激励芯片设计者为该特定算法提出优化方案，这发生在ETHash上(并被ETCHash继承)。
 
           截至2022年，ASIC可以比GPU更有效地开采ETCHash的2至6倍，而且这种趋势可能会继续下去。
       rewards:
