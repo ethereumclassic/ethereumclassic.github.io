@@ -56,7 +56,16 @@ items:
       forum Archived BitcoinTalk:
         name: BitcoinTalk đã lưu trữ
   Media:
+    title: Kênh Video & Danh sách phát
     items:
+      media ETCfInv:
+        name: ETC cho nhà đầu tư
+      media EthereumClassicCC:
+        name: Kêu gọi cộng đồng ETC
+      media EthereumClassic:
+        name: Thông báo & Cập nhật ETC (Odysee)
+      media EthereumClassicNews:
+        name: Tin tức ETC (Odysee)
       media Etherplan:
         name: Etherplan
       media EVM61:
