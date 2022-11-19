@@ -56,7 +56,16 @@ items:
       forum Archived BitcoinTalk:
         name: Archivo de BitcoinTalk
   Media:
+    title: Canales de video y listas de reproducción
     items:
+      media ETCfInv:
+        name: ETC para inversores
+      media EthereumClassicCC:
+        name: Llamadas comunitarias de ETC
+      media EthereumClassic:
+        name: Anuncios y actualizaciones de ETC (Odysee)
+      media EthereumClassicNews:
+        name: Noticias ETC (Odisea)
       media Etherplan:
         name: Etherplan
       media EVM61:
