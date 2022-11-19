@@ -9,7 +9,7 @@ items:
       trade:
         question: 我在哪里可以购买和交易ETC？
         answer: |
-          以太坊经典几乎在每一个主要（和体面的小）交易所都有上市，并有链上DEX。你可以在 [exchanges]（/services/exchanges）部分了解更多。
+          以太坊经典几乎在每一个主要(和体面的小)交易所都有上市，并有链上DEX。你可以在 [exchanges](/services/exchanges)部分了解更多。
       policy:
         question: ETC的货币政策是什么？
         answer: |
