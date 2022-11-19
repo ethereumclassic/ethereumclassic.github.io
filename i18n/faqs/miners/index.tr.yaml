@@ -39,6 +39,8 @@ items:
           Bazı kullanıcılar, herhangi bir kaynağı olmayan işlemler için "taze" ETC elde etmelerini sağladığı için zararına madencilik yapmaya karar verebilir.
       ethash:
         question: Ethereum Classic'in madencilik algoritması nedir?
+        answer: |
+          Ethereum Classic, daha küçük bir DAG boyutuna sahip, Ethereum'un ETHash'inin yakın kuzeni olan [ETCHash](https://github.com/eth-classic/etchash) madencilik algoritmasını kullanır. Birleştirme öncesi ETH madenciliği yapmak için kullanılan donanım, ETC madenciliği için de kullanılabilir.
       emission:
         question: Ethereum Classic blok ödülü nedir?
         answer: |
