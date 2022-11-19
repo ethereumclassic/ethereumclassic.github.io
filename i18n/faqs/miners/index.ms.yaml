@@ -39,6 +39,8 @@ items:
           Sesetengah pengguna mungkin membuat keputusan untuk melombong dengan kerugian, kerana ia membolehkan mereka memperoleh ETC "segar" untuk urus niaga yang tidak mempunyai sebarang asal.
       ethash:
         question: Apakah algoritma perlombongan Ethereum Classic?
+        answer: |
+          Ethereum Classic menggunakan algoritma perlombongan [ETCHash](https://github.com/eth-classic/etchash), sepupu rapat ETHash Ethereum, dengan saiz DAG yang lebih kecil. Perkakasan yang digunakan untuk melombong ETH pra-gabungan juga boleh digunakan untuk melombong ETC.
       emission:
         question: Apakah ganjaran blok Ethereum Classic?
         answer: |
