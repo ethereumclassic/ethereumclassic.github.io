@@ -39,6 +39,8 @@ items:
           قد يقرر بعض المستخدمين التعدين في حيرة ، لأنه يمكنهم من الحصول على ETC "جديد" للمعاملات التي ليس لها أي مصدر.
       ethash:
         question: ما هي خوارزمية التعدين في Ethereum Classic؟
+        answer: |
+          يستخدم Ethereum Classic خوارزمية التعدين [ETCHash](https://github.com/eth-classic/etchash) ، وهو ابن عم قريب من ETHash من Ethereum ، مع حجم DAG أصغر. يمكن أيضًا استخدام الأجهزة التي كانت تُستخدم لتعدين ETH للدمج المسبق لتعدين ETC.
       emission:
         question: ما هي مكافأة كتلة Ethereum Classic؟
         answer: |
