@@ -33,7 +33,7 @@ export default function Footer() {
             <div>
               <SocialIcons />
             </div>
-            <div>
+            <div tw="text-center md:text-left">
               <Sponsors />
             </div>
           </div>

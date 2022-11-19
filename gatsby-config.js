@@ -87,6 +87,7 @@ module.exports = {
               maxWidth: 780,
               showCaptions: true,
               backgroundColor: "white",
+              linkImagesToOriginal: false,
             },
           },
         ],

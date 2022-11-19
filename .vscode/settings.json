@@ -4,5 +4,8 @@
   "editor.tabSize": 2,
   "[markdown]": {
     "editor.formatOnSave": false
+  },
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
   }
 }
