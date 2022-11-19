@@ -1,0 +1,103 @@
+title: एथेरियम क्लासिक
+seo: "एक विकेन्द्रीकृत कंप्यूटिंग प्लेटफॉर्म जो स्मार्ट कॉन्ट्रैक्ट चलाता है: ऐसे एप्लिकेशन जो बिना डाउनटाइम, सेंसरशिप या तीसरे पक्ष के हस्तक्षेप के बिल्कुल प्रोग्राम किए गए हैं।"
+#Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
+metaLocale: hi_US
+#Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
+htmlLang: एन
+published: प्रकाशित
+updated: आखरी अपडेट
+author: लेखक
+timeline:
+  chronological: कालक्रमबद्ध
+  reversed: औंधा
+disclaimers:
+  verify:
+    title: भरोसा मत करो, सत्यापित करो।
+    text: बाहरी लिंक अनौपचारिक समुदाय प्रस्तुतियाँ हैं।
+  opinion:
+    title: राय वाली सामग्री
+    text: यह पृष्ठ आवश्यक रूप से सभी ईटीसी हितधारकों के दृष्टिकोण को नहीं दर्शाता है।
+next: जारी रखें पढ़ रहे हैं
+prev: पिछला लेख
+contribute: अगर आप इस पेज पर जानकारी जोड़कर या सुधार कर योगदान देना चाहते हैं, तो कृपया [Discord](https://discord.com/invite/dwxb6nf) पर एक संदेश छोड़ें या [GitHub]पर एक समस्या बनाएं (https://github.com/ethereumclassic /ethereumclassic.github.io)
+contributors: "यह पृष्ठ निम्नलिखित योगदानकर्ताओं के लिए धन्यवाद के रूप में मौजूद है:"
+allLanguages: सारी भाषाएँ
+noResults: कोई परिणाम नहीं
+netlify: यह साइट Netlify द्वारा संचालित है
+metaMask: मेटामास्क में ईटीसी जोड़ें
+helpTranslate: इस वेबसाइट का अनुवाद करने में सहायता करके ईटीसी का समर्थन करें!
+noItems: क्षमा करें, यह पृष्ठ खाली है!
+search:
+  box: खोज
+  noResults: कोई परिणाम नहीं...
+  poweredBy: अल्गोलिया द्वारा संचालित
+  generalInfo: सामान्य जानकारी
+  blogArticles: ब्लॉग लेख
+  videos: वीडियो
+  applications: अनुप्रयोग
+  newsLinks: समाचार लिंक
+  txSearch: ऐसा लगता है कि आपने एथेरियम क्लासिक पता या लेनदेन दर्ज किया है।
+  blockScout: "ब्लॉकस्काउट एक्सप्लोरर खोजें:"
+  explorers: ...या कुछ अन्य [ब्लॉकचैन एक्सप्लोरर्स] (/ नेटवर्क/एक्सप्लोरर) देखें।
+##
+## Announcement Banner
+announcement:
+  text: |
+    इस वेबसाइट का अब मशीन लर्निंग के माध्यम से कई भाषाओं में अनुवाद किया गया है। भाषा बदलने के लिए पृष्ठ के शीर्ष दाईं ओर स्थित ग्लोब आइकन पर क्लिक करें। अगर आप सही अनुवाद में मदद करना चाहते हैं, तो कृपया हमसे संपर्क करें!
+  button:
+    text: "अनुवाद में मदद करें"
+## Footer
+signOff: मूल एथेरियम विज़न के लिए `<3` के साथ बनाया गया
+socialHilight: ईटीसी समुदाय डिस्कॉर्ड पर सक्रिय है
+socialItems:
+  discord:
+    name: कलह
+  discordCoop:
+    name: ईटीसी कॉप कलह
+  githubOrg:
+    name: Github
+  githubLabs:
+    name: ईटीसी लैब्स जीथब
+  reddit:
+    name: reddit
+  twitter:
+    name: ट्विटर
+appTypes:
+  finance:
+    name: वित्त
+  games:
+    name: खेल
+  identity:
+    name: पहचान
+  interoperability:
+    name: इंटरोऑपरेबिलिटी
+  nfts:
+    name: एनएफटी
+  other:
+    name: अन्य
+appLinks:
+  homepage: होमपेज
+  app: ऐप साइट
+  twitter: ट्विटर
+  github: Github
+newsTypes:
+  news:
+    name: संपर्क
+  blog:
+    name: ब्लॉग
+  application:
+    name: अनुप्रयोग
+    prefix: "अनुप्रयोग: "
+  video:
+    name: वीडियो
+    prefix: "वीडियो: "
+## App Modal
+appModal:
+  verifiedContract: अनुबंध
+  openSource: खुला स्त्रोत
+  audit: लेखा परीक्षित
+  testSuite: परीक्षण सूट
+  ipfsFrontend: आईपीएफएस फ्रंटएंड
+  checkListRating: भरोसेमंद चेकलिस्ट स्तर
+  warning: "**चेतावनी:** इस उपयोगकर्ता द्वारा सबमिट किए गए ऐप की जांच नहीं की गई है और सुरक्षित होने की गारंटी नहीं है; अपने जोखिम पर उपयोग करें, और हमेशा अपना शोध स्वयं करें!"
+  added: जोड़ा
