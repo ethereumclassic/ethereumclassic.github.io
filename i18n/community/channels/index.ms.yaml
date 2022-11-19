@@ -56,7 +56,16 @@ items:
       forum Archived BitcoinTalk:
         name: BitcoinTalk yang diarkibkan
   Media:
+    title: Saluran Video & Senarai Main
     items:
+      media ETCfInv:
+        name: DLL untuk Pelabur
+      media EthereumClassicCC:
+        name: Panggilan Komuniti ETC
+      media EthereumClassic:
+        name: Pengumuman & Kemas Kini ETC (Odysee)
+      media EthereumClassicNews:
+        name: Berita DLL (Odysee)
       media Etherplan:
         name: Etherplan
       media EVM61:
