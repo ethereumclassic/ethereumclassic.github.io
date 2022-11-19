@@ -39,6 +39,8 @@ items:
           Một số người dùng có thể quyết định khai thác khi bị thua lỗ, vì nó cho phép họ có được ETC "mới" cho các giao dịch không có bất kỳ nguồn gốc nào.
       ethash:
         question: Thuật toán khai thác của Ethereum Classic là gì?
+        answer: |
+          Ethereum Classic sử dụng thuật toán khai thác [ETCHash](https://github.com/eth-classic/etchash), một người anh em họ gần với ETHash của Ethereum, với kích thước DAG nhỏ hơn. Phần cứng đã được sử dụng để khai thác ETH trước khi hợp nhất cũng có thể được sử dụng để khai thác ETC.
       emission:
         question: Phần thưởng khối Ethereum Classic là gì?
         answer: |
