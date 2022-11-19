@@ -1,0 +1,43 @@
+title: Često postavljana pitanja za programere
+seo: Često postavljana pitanja za one koji žele doprinijeti ili izraditi aplikacije na Ethereum Classic.
+info: 'Ovdje ne možete pronaći odgovor na svoje pitanje? Pokušajte pitati na poslužitelju ETC zajednice [discord](https://ethereumclassic.org/discord). Konkretno, mogao bi vas zanimati ETC Discordov kanal `#dev-general`.'
+description: Želite li naučiti kako izgraditi aplikaciju ili protokol povrh Ethereum Classic? Ova stranica je za vas.
+items:
+  questions:
+    items:
+      types:
+        question: Kakve aplikacije mogu graditi na ETC-u?
+        answer: |
+          Budući da ETC koristi EVM kompletan s Turingom, bilo koja vrsta sustava pametnih ugovora može se implementirati u ETC; od Multisigs-a, do DeFi-ja, do NFT-ova, kamo god vas vaši snovi mogu odvesti. Svaka aplikacija koja se može implementirati na Ethereum također se može implementirati na Ethereum Classic.
+
+          Neki drugi lanci imaju povijest cenzuriranja određenih aplikacija i transakcija, pa ako želite osigurati da vaša aplikacija radi točno onako kako je programirano bez zastoja, cenzure ili uplitanja treće strane, razmislite o implementaciji na Ethereum Classic!
+
+          Za neke primjere aplikacija koje su postavljene na Ethereum Classic, pogledajte odjeljak [apps](/services/apps).
+      eth:
+        question: Koja je razlika između ETH i ETC pri pisanju aplikacija?
+        answer: |
+          Nema razlike u pisanju ugovora; možete koristiti iste razvojne alate i programski jezik (osobito, Solidity) koje biste koristili s Ethereumom.
+
+          Glavna razlika u odnosu na Ethereum je ta što ETC ima drugačiji ekosustav aplikacija, tako da su postojeći raspoređeni ugovori s kojima možete izravno komunicirati drugačiji. Ako se trebate priključiti na postojeće sredstvo na Ethereumu, možete upotrijebiti zamotano sredstvo, [mostove između lanaca](/services/apps/interoperability), ili čak možete razmisliti o implementaciji vlastite verzije ovih sredstava.
+      development:
+        question: Kako mogu razviti aplikacije za Ethereum Classic?
+        answer: |
+          Pogledajte odjeljak [vodiči za razvoj](/guides/development), kao i odjeljak [development](/development) za vodiče i alate koji će vam pomoći u implementaciji na Classic.
+      deployment:
+        question: Kako mogu implementirati na Ethereum Classic blockchain?
+        answer: |
+          Prvo nabavite malo ETC-a da platite plin za implementaciju svog ugovora, a zatim jednostavno osigurajte implementaciju na Ethereum Classic mrežu (Chain ID 61), umjesto na Ethereum mrežu (Chain ID 1).
+      rpc:
+        question: Postoje li javne RPC krajnje točke koje mogu koristiti za implementaciju na ETC?
+        answer: |
+          Da. Ako ne želite sinkronizirati pokretanje vlastitog Ethereum Classic čvora, postoji niz dostupnih javnih krajnjih točaka koje su besplatne za korištenje.
+
+          Provjerite odjeljak [RPC krajnje točke](/network/endpoints), kao i [ChainList.org](https://chainlist.org/en/chain/61).
+      grants:
+        question: Mogu li dobiti sredstva za izgradnju na Ethereum Classic?
+        answer: |
+          Budući da Ethereum Classic nema centraliziranu riznicu, sav se razvoj nužno financira sam ili putem financiranja treće strane. U prošlosti su razne treće strane upravljale programima bespovratnih sredstava, a [ETC Cooperative](https://etccooperative.org/) najavila je da će uskoro pokrenuti novi program bespovratnih sredstava.
+      ecips:
+        question: Kako mogu pomoći u razvoju Ethereum Classic protokola?
+        answer: |
+          Možete podnijeti prijedloge za nadogradnju protokola kroz proces [ECIP](/development/ecips). Možete pomoći u održavanju baza kodova klijenata posjetom GitHub repozitorija [clients](/development/clients) s kojima biste željeli pomoći.
