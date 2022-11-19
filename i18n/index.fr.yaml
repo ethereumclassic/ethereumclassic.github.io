@@ -1,0 +1,53 @@
+billboard:
+  text: Le %%$$%% Ethereum
+  ## must be kind of short, so they fit on the page
+  randomWords:
+    Decentralized: "Décentralisé"
+    Original: "Original"
+    Veracious: "Veracious"
+    Untainted: "Untainted"
+    Uncensored: "Non censuré"
+    Untampered: "Untampered"
+    Immutable: "Immuable"
+    Sound Money: "L'argent sain"
+    Uncaptured: "Non capturé"
+    SovereignGrade: "Grade souverain"
+    Principled: "Principes"
+    Unstoppable: "Unstoppable"
+    Proof of Work: "Preuve de travail"
+    Leaderless: "Sans chef"
+    Antifragile: "Antifragile"
+    Code is Law: "Le code est une loi"
+    Classic: "Classique"
+    Permisionless: "Sans permission"
+    Global: "Global"
+## feature
+feature:
+  title: FAQs
+  subtitle: Nouvelle section
+  text: Trouvez rapidement les réponses que vous recherchez en naviguant dans la Foire Aux Questions organisée par cas d'utilisation.
+  button: Réponses aux questions
+## intro
+intro:
+  title: Créer des applications imparables
+  content: |
+    Alors que les institutions en place sont de plus en plus menacées par le potentiel sauvage de la technologie blockchain, seules les crypto-monnaies véritablement décentralisées et sécurisées survivront.
+
+    Existant en réponse à la censure des contrats sur la chaîne sœur Ethereum™ (ETH) et pour soutenir et préserver le principe du *Code is Law*, Ethereum Classic (ETC) a prouvé sa capacité à résister à la censure contre vents et marées, et à offrir la vision *originale* d'Ethereum d'applications *instoppables*.
+
+    En combinant la technologie d'Ethereum™ (ETH) avec la philosophie de Bitcoin (BTC), Ethereum Classic (ETC) est positionné de manière unique pour être la plateforme de contrats intelligents de la couche de base du futur, alors que les autres chaînes deviennent compromises ou capturées par des intérêts particuliers.
+
+    Bienvenue, et soyez invités à découvrir le passé, le présent et le futur d'Ethereum Classic ; ses principes, sa proposition de valeur, sa communauté, et plus encore - pour comprendre *pourquoi Classic*.
+  button:
+    text: Pourquoi classique ?
+#Headers
+headings:
+  headlines:
+    title: A la une
+    button: Toutes les nouvelles
+  videos:
+    title: Dernières vidéos
+    button: Toutes les vidéos
+  apps:
+    title: Dernières applications
+    button: Toutes les applications
