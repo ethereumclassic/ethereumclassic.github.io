@@ -39,6 +39,8 @@ items:
           Certains utilisateurs peuvent décider de miner à perte, car cela leur permet d'acquérir des ETC "frais" pour des transactions qui n'ont aucune provenance.
       ethash:
         question: Quel est l'algorithme minier d'Ethereum Classic ?
+        answer: |
+          Ethereum Classic utilise l'algorithme de minage [ETCHash](https://github.com/eth-classic/etchash), un proche cousin de l'ETHash d'Ethereum, avec une taille de DAG plus petite. Le matériel qui était utilisé pour exploiter l'ETH avant la fusion peut également être utilisé pour exploiter l'ETC.
       emission:
         question: Quelle est la récompense du bloc Ethereum Classic ?
         answer: |
