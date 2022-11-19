@@ -1,6 +1,6 @@
 ---
 title: ECIPs
-seo: 以太坊经典改进提案（ECIP）过程的摘要，以及被接受的ECIP列表。
+seo: 以太坊经典改进提案(ECIP)过程的摘要，以及被接受的ECIP列表。
 license: CC-BY
 contribute: true
 updated: 2022-02-22
@@ -14,7 +14,7 @@ contributors:
 
 ### 摘要
 
-本文件是对Ethereum Classic改进提案（ECIP）过程的总结。 要查看ECIP流程的完整描述，请阅读ECIP-1000，它是以太坊经典（ETC）生态系统普遍承认的正式文件，通过粗略的共识，作为最适合对ETC协议、信息文件或ECIP流程建议提出新标准变化的系统。
+本文件是对Ethereum Classic改进提案(ECIP)过程的总结。 要查看ECIP流程的完整描述，请阅读ECIP-1000，它是以太坊经典(ETC)生态系统普遍承认的正式文件，通过粗略的共识，作为最适合对ETC协议、信息文件或ECIP流程建议提出新标准变化的系统。
 
 ### 入门
 

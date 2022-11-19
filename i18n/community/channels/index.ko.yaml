@@ -56,7 +56,16 @@ items:
       forum Archived BitcoinTalk:
         name: 보관된 BitcoinTalk
   Media:
+    title: 비디오 채널 및 재생 목록
     items:
+      media ETCfInv:
+        name: 투자자를 위한 ETC
+      media EthereumClassicCC:
+        name: ETC 커뮤니티 콜
+      media EthereumClassic:
+        name: ETC 발표 및 업데이트(Odysee)
+      media EthereumClassicNews:
+        name: ETC 뉴스(오디제)
       media Etherplan:
         name: 이더플랜
       media EVM61:

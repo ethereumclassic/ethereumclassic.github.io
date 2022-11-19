@@ -56,7 +56,16 @@ items:
       forum Archived BitcoinTalk:
         name: Arhivirani BitcoinTalk
   Media:
+    title: Video kanali i popisi za reprodukciju
     items:
+      media ETCfInv:
+        name: ETC za investitore
+      media EthereumClassicCC:
+        name: ETC pozivi zajednice
+      media EthereumClassic:
+        name: ETC najave i ažuriranja (Odysee)
+      media EthereumClassicNews:
+        name: ETC vijesti (Odysee)
       media Etherplan:
         name: Etherplan
       media EVM61:

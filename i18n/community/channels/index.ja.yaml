@@ -56,7 +56,16 @@ items:
       forum Archived BitcoinTalk:
         name: BitcoinTalkのアーカイブ
   Media:
+    title: ビデオチャンネルとプレイリスト
     items:
+      media ETCfInv:
+        name: 投資家向けETC
+      media EthereumClassicCC:
+        name: ETCコミュニティコール
+      media EthereumClassic:
+        name: ETCアナウンス＆アップデート（オディシー）
+      media EthereumClassicNews:
+        name: ETCニュース（オディゼー）
       media Etherplan:
         name: エーテルプラン
       media EVM61:

@@ -39,6 +39,8 @@ items:
           Neki korisnici mogu odlučiti rudariti s gubitkom, jer im to omogućuje stjecanje "svježih" ETC-a za transakcije koje nemaju nikakvog porijekla.
       ethash:
         question: Što je algoritam za rudarenje Ethereum Classica?
+        answer: |
+          Ethereum Classic koristi [ETCHash](https://github.com/eth-classic/etchash) algoritam za rudarenje, bliskog rođaka Ethereumovog ETHasha, s manjom veličinom DAG-a. Hardver koji se koristio za rudarenje ETH-a prije spajanja također se može koristiti za rudarenje ETC-a.
       emission:
         question: Što je nagrada za blok Ethereum Classic?
         answer: |

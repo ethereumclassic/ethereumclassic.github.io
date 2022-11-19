@@ -39,6 +39,8 @@ items:
           일부 사용자는 출처가 없는 거래에 대해 "신선한" ETC를 획득할 수 있으므로 손실을 보고 채굴을 결정할 수 있습니다.
       ethash:
         question: Ethereum Classic의 마이닝 알고리즘은 무엇입니까?
+        answer: |
+          Ethereum Classic은 DAG 크기가 더 작은 Ethereum의 ETHash와 가까운 사촌인 [ETCHash](https://github.com/eth-classic/etchash) 마이닝 알고리즘을 사용합니다. 병합 전 ETH를 채굴하는 데 사용되던 하드웨어를 ETC 채굴에도 사용할 수 있습니다.
       emission:
         question: Ethereum Classic 블록 보상은 무엇입니까?
         answer: |

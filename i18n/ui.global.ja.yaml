@@ -24,6 +24,7 @@ contributors: "このページは、以下の方々のご協力により成り�
 allLanguages: すべての言語
 noResults: 結果なし
 netlify: このサイトはNetlifyによって運営されています。
+crowdin: Crowdin によるローカリゼーション
 metaMask: MetaMaskにETCを追加
 helpTranslate: このサイトの翻訳に協力して、ETCを応援してください
 noItems: 申し訳ありませんが、このページは空です

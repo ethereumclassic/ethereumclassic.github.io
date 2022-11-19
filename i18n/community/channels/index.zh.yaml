@@ -3,7 +3,7 @@ seo: 以太坊经典聊天室、Twitter账户、讨论组、论坛、播客、�
 description: |
   以下是一份非详尽的活跃的Ethereum Classic讨论频道和小组的清单。
 
-  目前ETC社区内的主要活动中心是在 [Discord]（https://ethereumclassic.org/discord）。
+  目前ETC社区内的主要活动中心是在 [Discord](https://ethereumclassic.org/discord)。
 items:
   Chat Rooms:
     title: 聊天室
@@ -15,9 +15,9 @@ items:
         __primary: 1
         name: Discord (ETC Coop)
       chat Facebook English:
-        name: 脸书（英文）
+        name: 脸书(英文)
       chat Facebook Vietnam:
-        name: 脸书（越南语）
+        name: 脸书(越南语)
       chat Kakao Korea:
         name: Kakao (韩文)
       chat Slack:
@@ -54,11 +54,20 @@ items:
       forum RedditEthereumClassic:
         name: Reddit r/EthereumClassic
       forum BitcoinTalk:
-        name: 比特币话题（BitcoinTalk
+        name: 比特币话题(BitcoinTalk
       forum Archived BitcoinTalk:
         name: 存档的BitcoinTalk
   Media:
+    title: 视频频道和播放列表
     items:
+      media ETCfInv:
+        name: 投资者ETC
+      media EthereumClassicCC:
+        name: ETC 社区呼吁
+      media EthereumClassic:
+        name: ETC 公告和更新(Odysee)
+      media EthereumClassicNews:
+        name: ETC 新闻(奥德赛)
       media Etherplan:
         name: 以太计划
       media EVM61:

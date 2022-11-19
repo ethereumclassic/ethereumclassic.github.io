@@ -24,6 +24,7 @@ contributors: "本页的存在部分归功于以下贡献者。"
 allLanguages: 所有语言
 noResults: 没有结果
 netlify: 本网站由Netlify提供技术支持
+crowdin: 使用 Crowdin 进行本地化
 metaMask: 添加ETC到MetaMask
 helpTranslate: 通过帮助翻译本网站来支持ETC!
 noItems: 对不起，这个页面是空的!
@@ -38,7 +39,7 @@ search:
   newsLinks: 新闻链接
   txSearch: 看起来你已经输入了一个Ethereum Classic地址或交易。
   blockScout: "搜索Blockscout Explorer。"
-  explorers: ...或查看其他一些[区块链探索者]（/network/explorers）。
+  explorers: ...或查看其他一些[区块链探索者](/network/explorers)。
 ##
 ## Announcement Banner
 announcement:
@@ -59,7 +60,7 @@ socialItems:
   githubLabs:
     name: ETC实验室Github
   reddit:
-    name: 睿迪特（Reddit）公司
+    name: 睿迪特(Reddit)公司
   twitter:
     name: 推特
 appTypes:
@@ -99,5 +100,5 @@ appModal:
   testSuite: 测试套件
   ipfsFrontend: IPFS前台
   checkListRating: 不信任检查表水平
-  warning: "**警告：**这个用户提交的应用程序没有经过审查，也不保证安全；使用时风险自负，一定要做自己的研究！***。"
+  warning: "**警告：** 这个用户提交的应用程序没有经过审查，也不保证安全；使用时风险自负，一定要做自己的研究！***。"
   added: 添加

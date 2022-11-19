@@ -39,6 +39,8 @@ items:
           Sommige gebruikers kunnen besluiten met verlies te mijnen, omdat ze zo "verse" ETC kunnen verwerven voor transacties die geen herkomst hebben.
       ethash:
         question: Wat is het mijnbouwalgoritme van Ethereum Classic?
+        answer: |
+          Ethereum Classic gebruikt het [ETCHash](https://github.com/eth-classic/etchash) mining-algoritme, een nauwe neef van Ethereum's ETHash, met een kleinere DAG-grootte. Hardware die werd gebruikt om ETH vóór de samenvoeging te minen, kan ook worden gebruikt om ETC te minen.
       emission:
         question: Wat is de Ethereum Classic blokbeloning?
         answer: |
