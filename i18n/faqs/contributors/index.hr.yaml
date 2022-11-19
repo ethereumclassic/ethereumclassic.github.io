@@ -1,0 +1,43 @@
+title: Česta pitanja suradnika
+seo: Često postavljana pitanja za one koji se žele pridružiti ETC zajednici i doprinijeti Ethereum Classic.
+info: Ovdje ne možete pronaći odgovor na svoje pitanje? Pokušajte pitati na poslužitelju ETC zajednice [discord](https://ethereumclassic.org/discord).
+description: Ako želite naučiti kako se uključiti u Ethereum Classic zajednicu, na pravom ste mjestu.
+items:
+  questions:
+    items:
+      developer:
+        question: Moram li biti programer da bih doprinio Ethereum Classicu?
+        answer: Nikako. Dok programeri daju ključnu vrijednost u izgradnji infrastrukture, nedvojbeno važniju ulogu imaju oni koji nisu programeri. Bez obzira na vaše talente, možete pomoći na druge načine, primjerice koordinacijom i pomaganjem u širenju riječi o Ethereum Classicu, zauzvrat regrutirajući više programera i drugih regruta.
+      channels:
+        question: Kako se mogu pridružiti ETC zajednici?
+        answer: Ne morate tražiti dopuštenje za pridruživanje. Samo počnite doprinositi!
+      tasks:
+        question: U kojim zadacima mogu pomoći?
+        answer: Popis stvari oko kojih bi projektu mogla biti potrebna vaša pomoć nalazi se u [Ethereum Classic Volunteer GitHub repozitoriju](https://github.com/ethereumclassic/volunteer).
+      where:
+        question: Gdje se pobornici Ethereum Classica uglavnom druže?
+        answer: ETC zajednica koja govori engleski uglavnom je aktivna na [Discord](https://ethereumclassic.org/discord). Druge forume zajednice, uključujući one na drugim jezicima, možete pronaći u odjeljku [Društveni kanali](/community/channels).
+      ecips:
+        question: Kako mogu predložiti poboljšanja za Ethereum Classic?
+        answer: Da biste predložili nadogradnje protokola, možete upotrijebiti postupak [Prijedlog za poboljšanje Ethereum Classic](/development/ecips), ali vrijedi prvo porazgovarati s drugim članovima zajednice na jednom od ETC [društvenih kanala](/community/channels).
+      toxicity:
+        question: Čuo sam da je ETC zajednica otrovna. Je li to istina?
+        answer: |
+          Budući da nitko ne treba dopuštenje da bude dio ETC zajednice, ona privlači sve vrste likova, od iznimno finih do, povremeno, malo neugodnijih. Također, mnogi ETC-ovi i sudionici u širem prostoru kriptovaluta su pseudoanonimni, tako da imaju manje filtera. Nemojte smatrati da stav jedne osobe predstavlja cijelu zajednicu i nemojte dopustiti da vas to odvrati od doprinosa.
+
+          Ako više volite moderiraniji razgovor, isprobajte [ETC Coop Discord](https://discord.gg/5wDyd6u6pU), koji nameće stroža pravila o pristojnosti u komunikaciji.
+      events:
+        question: Ima li Ethereum Classic događaja?
+        answer: Da, održavaju se godišnje konferencije, tjedni pozivi zajednici i neredoviti pozivi programera. Više o sadašnjim, prošlim i budućim događajima možete saznati u odjeljku [events](/zajednica/događaji).
+      website:
+        question: Kako mogu dodati svoju aplikaciju, video ili članak na ovo web mjesto?
+        answer: Za upute pogledajte [GitHub repozitorij](https://github.com/ethereumclassic/ethereumclassic.github.io) ove web stranice.
+      tweets:
+        question: Kako mogu predložiti tweetove?
+        answer: '[@eth_classic](https://github.com/ethereumclassic/tweets-eth_classic) i [@ETC_Network](https://github.com/ethereumclassic/tweets-etc_network) Twitter računi prihvaćaju tweetove predložene od zajednice. Jednostavno tweetajte svoj predloženi tweet s hashtagom `#ETCtweets`, a zajednica će ga pregledati u Discord niti `#ETCtweets`.'
+      grants:
+        question: Mogu li biti plaćeni za doprinos Ethereum Classicu?
+        answer: |
+          Glavni način plaćanja je putem toplih nejasnih osjećaja dobrobiti, znajući da pridonosite budućnosti čovječanstva pomažući u razvoju važne tehnologije.
+
+          Osim toga, postoje povremeni programi stipendija na koje biste trebali obratiti pažnju prateći razgovor unutar zajednice.
