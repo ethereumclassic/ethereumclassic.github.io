@@ -1,0 +1,19 @@
+title: Javne krajnje točke
+seo: Popis krajnjih točaka Remote Procedure Call (RPC) koje se mogu koristiti za interakciju s ETC-om putem MetaMaska i drugih aplikacija.
+description: |
+  Krajnje točke udaljenog poziva procedure (RPC) vaš su pristupnik Ethereum Classicu i omogućuju vam komunikaciju s ETC lancem i čitanje podataka iz njega. Za maksimalnu pouzdanost, [ETC klijent](/development/clients) pokrećete lokalno; lokalna krajnja točka obično je dostupna na `http://localhost:8545`. Dostupne su i javne krajnje točke
+
+  Classic RPC, besplatno za zajednicu ili kao usluga pretplate. Budući da možete lokalno potpisivati i emitirati transakcije pomoću novčanika kao što je [MetaMask](/guides/metamask), javne krajnje točke mogu se koristiti dok zadržavate nadzor nad vašim privatnim ključevima.
+
+  Možete koristiti ove URL-ove za transakcije i implementaciju na ETC (ili njegove testne mreže) ažuriranjem konfiguracije novčanika ili alata za implementaciju. Provjerite jeste li također promijenili svoj ID lanca na `61` za Ethereum Classic mainnet.
+
+  Za više informacija o drugim mrežama, pogledajte odjeljak [testnets](/development/testnets).
+
+  **Preporučuje se odabrati jednu od ETC RPC krajnjih točaka koje se nadziru u stvarnom vremenu na [ChainList.org](https://chainlist.org/en/chain/61).**
+items:
+  endpoints:
+    columnItems:
+      name:
+        name: Servis
+      rpcUrl:
+        name: RPC URL
