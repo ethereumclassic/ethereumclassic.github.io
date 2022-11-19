@@ -39,6 +39,8 @@ items:
           Alcuni utenti possono decidere di effettuare il mining in perdita, in quanto ciò consente loro di acquisire ETC "freschi" per transazioni che non hanno alcuna provenienza.
       ethash:
         question: Qual è l'algoritmo di mining di Ethereum Classic?
+        answer: |
+          Ethereum Classic utilizza l'algoritmo di mining [ETCHash](https://github.com/eth-classic/etchash), un cugino stretto dell'ETHash di Ethereum, con una dimensione DAG più piccola. L'hardware utilizzato per il mining di ETH prima della fusione può essere utilizzato anche per il mining di ETC.
       emission:
         question: Qual è la ricompensa del blocco di Ethereum Classic?
         answer: |
