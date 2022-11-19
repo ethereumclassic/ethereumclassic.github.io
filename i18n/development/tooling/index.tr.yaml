@@ -1,0 +1,73 @@
+title: Geliştirici Araçları
+seo: Ethereum Classic uygulama geliştirme ve devops deneyimini geliştirmek için bir araç koleksiyonu.
+description: |
+  Bu sayfa, Ethereum Classic üzerinde uygulama geliştirenlerin yararlı bulabileceği kaynakların bir listesini içerir. Ayrıca [Ethereum.org geliştirici ortamı] (https://ethereum.org/en/developers/local-environment/) sayfasına da göz attığınızdan emin olun, çünkü bu araçların çoğu Ethereum Classic için geliştirme yaparken geçerli olmaya devam etmektedir.
+items:
+  prices:
+    title: Fiyat Kaynakları
+    description: Bu web siteleri ve API'ler, uygulamanızda kullanmanız için ETC fiyatını sağlar.
+  processors:
+    title: Ödeme İşlemcileri
+    description: Bu API'ler web sitenizde veya uygulamanızda ETC ödemelerini kabul etmek için kullanılabilir.
+  dex:
+    title: Geliştirme Deneyimi
+    description: IDE'ler, kütüphaneler, test çerçeveleri, hata ayıklayıcılar, vb. dahil olmak üzere Ethereum Classic uygulamalarının geliştirilmesine yardımcı olabilecek geliştirici araçlarının kapsamlı olmayan bir seçimi.
+    items:
+      BUIDL IDE:
+        description: Second State BUIDL IDE, yazılım indirme veya yükleme gerektirmeyen web tabanlı bir IDE'dir. Akıllı sözleşme ve dapp geliştiricileri için tek noktadan geliştirme ve dağıtım ortamı sağlar.
+      Dappkit:
+        description: Geliştiricilerin merkezi olmayan uygulamalar oluşturması ve ölçeklendirmesi için defterden bağımsız, yüksek performanslı bir altyapı ve kütüphaneler. Kısacası, Dapps için işbirliğine dayalı Firebase.
+      Embark Framework:
+        description: Ethereum, IPFS ve diğer platformları kullanan sunucusuz Merkezi Olmayan Uygulamalar için çerçeve.
+      Emerald Platform:
+        description: ETC blok zinciri için Dapps oluşturma platformu.
+      ESerialize:
+        description: Bu modülün amacı, Ethereum Stack için verileri serileştirmek ve seriden çıkarmak için kolay işlevler sağlamaktır.
+      Ethereum JSON-RPC API:
+        description: EVM tabanlı bir blok zinciri istemcisinin uygulaması gereken JSON-RPC yöntemlerinin bir spesifikasyonu.
+      Eth Fiddle:
+        description: Akıllı sözleşmeler için çevrimiçi editör.
+      EVM-LLVM:
+        description: Geliştiriciler Ethereum Sanal Makinesini (EVM) hedeflemek için Solidity dışında geniş kapsamlı programlama dillerini (akıllı sözleşmeler için Rust!) kullanabilmenin yanı sıra, LLVM altyapısı etrafında inşa edilen çeşitli geliştirme araçlarından da hemen yararlanabilirler.
+      Ganache:
+        description: Testleri çalıştırmak için kişisel Ethereum blok zinciri.
+      Jade Suite:
+        description: Jade araç paketi, geliştiricilerin Ethereum Classic gibi EVM tabanlı blok zincirleri üzerinde eşler arası merkezi olmayan uygulamalar oluşturmalarını sağlar.
+      Mythx:
+        description: MythX, Ethereum akıllı sözleşmeleri için önde gelen güvenlik analizi hizmetidir. Misyonumuz, geliştirme ekiplerinin maliyetli hatalardan kaçınmasını sağlamak ve Ethereum'u daha güvenli ve güvenilir bir platform haline getirmektir.
+      Open-RPC:
+        description: OpenRPC Spesifikasyonu, JSON-RPC 2.0 API'leri için standart, programlama dilinden bağımsız bir arayüz açıklaması tanımlar.
+      OpenZeppelin:
+        description: Güvenli, yeniden kullanılabilir akıllı sözleşmelerin savaşta test edilmiş çerçevesi.
+      Quorum:
+        description: Quorum, halka açık Ethereum topluluğunun yenilikçiliğini kurumsal ihtiyaçları desteklemek için geliştirmelerle birleştiren açık kaynaklı bir blok zinciri platformudur.
+      Remix Online IDE:
+        description: Akıllı sözleşmeleri derleyip çeşitli Ethereum ağlarında yayınlayabilen kullanışlı bir tarayıcı içi IDE. Bir linter içerir.
+      Signatory:
+        description: Ethereum Stack için çevrimdışı bir işlem ve mesaj imzalayıcı.
+      SOLL:
+        description: LLVM derleyicisi nihayet Solidity'ye geliyor. Bununla birlikte, birden fazla blok zinciri VM'sinde kolayca akıllı sözleşmeler oluşturabiliyoruz. Ethereum Classic'teki EVM ve ETH 2.0'ın eWASM'ı ilk desteklediklerimiz arasında.
+      Sputnikvm:
+        description: SputnikVM, Ethereum Sanal Makinesi'nin (EVM) açık kaynaklı bağımsız bir uygulamasıdır. Farklı Ethereum tabanlı blok zincirleri için verimli, takılabilir bir sanal makine olmayı amaçlamaktadır.
+      Truffle Suite:
+        description: Ethereum Sanal Makinesi (EVM) kullanan blok zincirleri için dünya standartlarında bir geliştirme ortamı, test çerçevesi ve varlık hattı, bir geliştirici olarak hayatı kolaylaştırmayı amaçlamaktadır.
+  nodeTools:
+    title: Düğüm Dağıtımı
+    description: Bu araçlar, üretim dağıtımları için bir düğüm kümesi oluşturmayı veya genel veri kümeleriyle veri bilimi gerçekleştirmeyi kolaylaştırır.
+    items:
+      Bloq Cloud:
+        description: BloqCloud, blockchain ağlarına yüksek düzeyde optimize edilmiş, her zaman kullanılabilir erişim sağlar. Altyapı yönetimi konusunda endişelenmenize gerek kalmadan hızlı bir şekilde bağlanın ve ihtiyaçlarınıza göre kolayca ölçeklendirin.
+      DappNode:
+        description: DAppNode, düğümleri, DApp'leri çalıştırmayı ve P2P ağlarını ve ekonomilerini barındırmayı kolaylaştırır.
+      Ethercluster:
+        description: Ethercluster, Ethereum Classic (ETC) ve Kotti uç noktalarını ücretsiz olarak sağlayan açık kaynaklı bir Ethereum Sanal Makinesi (EVM) Uzaktan Prosedür Çağrısıdır (RPC).
+      GetBlock:
+        description: GetBlock, büyük kripto para birimlerinin düğümleri için bağlantı sağlayan bir hizmettir. Blok zinciri ile doğrudan senkronizasyonu kolaylaştıran JSON-RPC, REST ve WebSockets gibi araçları desteklemektedir. Kendiniz bir node çalıştırmanıza gerek yoktur, platform müşterilerinin bir ücret ödemek zorunda kalmadan tam bir node aracılığıyla bir blok zincirine bağlanmasına olanak tanır.
+      Google BigQuery:
+        description: Google Cloud, kripto para birimini daha iyi anlamanıza yardımcı olmak için Ethereum Classic için blok zinciri işlem geçmişinden oluşan veri kümelerini yayınladı. Ayrıca, tüm blok zinciri veri setlerini, çoklu zincir meta analizlerinin yanı sıra geleneksel finansal kayıt işleme sistemleriyle entegrasyon sağlayan çift girişli bir defter veri yapısına eşleyen bir dizi sorgu ve görünüm de dahil edildi.
+      Raspberry Pi Node:
+        description: Raspberry Pi üzerinde bir Ethereum Classic düğümünün nasıl kurulacağına dair ayrıntılı bir kılavuz.
+      Rivet Cloud:
+        description: Gerçekten sadece çalışan, sonsuz ölçeklenebilir, yüksek düzeyde kullanılabilir Ethereum ve Ethereum Classic uç noktaları.
+      QuikNode:
+        description: QuikNodes kolaydır, her zaman açıktır, hızlı blok zinciri senkronizasyonu için hızlı bir internet bağlantısına sahiptir ve disk alanının tükenmesi konusunda asla endişelenmenize gerek yoktur.
