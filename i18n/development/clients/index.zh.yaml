@@ -3,7 +3,7 @@ seo: 各种Ethereum Classic Node客户端的下载链接和相关信息。
 description: |
   客户端是可用于以各种模式运行Ethereum Classic协议的软件包；完整节点、存档节点、快速同步客户端等。客户端允许你运行一个主网或测试网节点，通过挖矿验证区块，并通过API与网络对接。
 
-  你可以在 [tooling]（/development/tooling）部分找到额外的工具来帮助管理客户端的部署。
+  你可以在 [tooling](/development/tooling)部分找到额外的工具来帮助管理客户端的部署。
 items:
   clients:
     buttonItems:
