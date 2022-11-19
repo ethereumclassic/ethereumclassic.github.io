@@ -1,0 +1,33 @@
+items:
+  main:
+    title: Grundprinzipien
+    description: Dieser Abschnitt enthält eine Auswahl der wichtigsten Artikel, die tief in die zugrunde liegende Philosophie der Ethereum Classic Foundation eintauchen. Dies sind die Ideen, die letztlich die ursprüngliche Ethereum-Vision am Leben erhalten.
+    items:
+      Declaration of Independence:
+        name: Unabhängigkeitserklärung
+        description: Eine Erklärung der Daseinsberechtigung von ETC, eine Auflistung von Missständen und eine Beschreibung der Prinzipien und Ziele von ETC. Es ist eines der frühen Gründungsdokumente von Ethereum Classic, das ursprünglich im August 2016 veröffentlicht und in viele Sprachen übersetzt wurde.
+      A Crypto-Decentralist Manifesto:
+        name: Ein kryptodezentralistisches Manifest
+        description: Ein weiteres einflussreiches Dokument aus den Anfangstagen von Ethereum Classic. Es umreißt die Grundwerte der Dezentralisierung und hilft bei der Entscheidungsfindung innerhalb der ETC-Gemeinschaft.
+      Ethereum Classic Vision:
+        name: Ethereum Classic Vision
+        description: Wie Ethereum Classic eine erfolgreiche Computerplattform sein wird und warum ETC ein hervorragender Wertaufbewahrer ist.
+      keepEtcClassic:
+        name: Behalten wir Ethereum Classic Classic
+        description: Eine ausführliche Erinnerung daran, wie wichtig es ist, die Prinzipien von Ethereum Classic zu verteidigen, als Antwort auf einen (inzwischen zurückgezogenen) Vorschlag des Finanzministeriums.
+  past:
+    title: Auf den Schultern von Giganten
+    description: Ethereum Classic könnte ohne andere bahnbrechende Projekte wie die ursprüngliche Blockchain-Grundlage und die dezentralistische Philosophie von Bitcoin und die Turing-komplette Smart-Contract-Plattformtechnologie des Ethereum-Projekts nicht existieren.
+    items:
+      The idea of Smart Contracts:
+        name: Die Idee der Smart Contracts
+        description: Nick Szabos Idee der intelligenten Verträge stammt aus dem Jahr 1997.
+      Bitcoin A Peer-to-Peer Electronic Cash System:
+        name: "Bitcoin: Ein elektronisches Peer-to-Peer-Bargeldsystem"
+        description: Das ursprüngliche Whitepaper von Satoshi Nakamoto ist nach wie vor eine empfehlenswerte Lektüre für alle, die sich mit der Funktionsweise von Bitcoin und Blockchains beschäftigen.
+      ethWhitepaper:
+        name: "Ethereum-Whitepaper"
+        description: Das Original-Whitepaper von Ethereum erklärt, wie der Nutzen der Blockchain-Technologie durch die "Lösung des politischen Problems der Entscheidung, wer den Konsens beeinflussen darf", und das Konzept der DAOs, Stablecoins usw. entfesselt wird.
+      ethYellowPaper:
+        name: "Ethereum-Gelbbuch"
+        description: Die ursprüngliche technische Beschreibung des Ethereum-Protokolls, von Gavin Wood
