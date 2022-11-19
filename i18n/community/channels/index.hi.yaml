@@ -56,7 +56,16 @@ items:
       forum Archived BitcoinTalk:
         name: संग्रहीत BitcoinTalk
   Media:
+    title: वीडियो चैनल और प्लेलिस्ट
     items:
+      media ETCfInv:
+        name: निवेशकों के लिए ई.टी.सी
+      media EthereumClassicCC:
+        name: ईटीसी सामुदायिक कॉल
+      media EthereumClassic:
+        name: ईटीसी घोषणाएं और अपडेट (ओडिसी)
+      media EthereumClassicNews:
+        name: ईटीसी समाचार (ओडिसी)
       media Etherplan:
         name: ईथरप्लान
       media EVM61:
