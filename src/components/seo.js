@@ -14,15 +14,21 @@ import { useTheme } from "../utils/themeProvider";
 import useSiteMetadata from "../utils/useSiteMetadata";
 import useLocaleItems from "../utils/useLocaleItems";
 
-export default function Seo({ data, i18n, path, pageContext: { basePath } }) {
+export default function Seo({
+  data,
+  i18n,
+  location: { pathname: path },
+  pageContext: { basePath },
+}) {
+  const { current } = useLocaleItems();
   const {
     globals: { ui },
     dev: i18nDev,
   } = useLocalization();
-  const { current } = useLocaleItems();
   const { siteUrl, socialImage } = useSiteMetadata();
-  const { isDark } = useTheme();
 
+  const { isDark } = useTheme();
+  const is404 = basePath === "404";
   const url = `${siteUrl}${path}`;
   const image = `${siteUrl}${socialImage}`; // LODO extract first image from MDX, somehow
   const pageTitle = data?.mdx?.meta?.title || i18n.title || ui.title;
@@ -48,7 +54,8 @@ export default function Seo({ data, i18n, path, pageContext: { basePath } }) {
   if (basePath.startsWith("blog/")) {
     category = "blog";
   }
-  // exclude these from search as we add them manually...
+  // TODO use config
+  // exclude these from search categories as we add them manually...
   if (
     ["", "404", "news", "videos", "services/apps", "sitemap"].includes(basePath)
   ) {
@@ -95,34 +102,62 @@ export default function Seo({ data, i18n, path, pageContext: { basePath } }) {
         {/* language */}
         <html lang={ui.htmlLang} />
         {/* meta head */}
-        <meta name="description" content={description} />
-        <meta name="image" content={image} />
-        {category && <meta property="article:section" content={category} />}
-        {author && <meta property="article:author" content={author} />}
-        {published && (
+        {!is404 && [
+          <meta key="description" name="description" content={description} />,
+          <meta key="image" name="image" content={image} />,
+          category && (
+            <meta
+              key="article:section"
+              property="article:section"
+              content={category}
+            />
+          ),
+          author && (
+            <meta
+              key="article:author"
+              property="article:author"
+              content={author}
+            />
+          ),
+          published && (
+            <meta
+              key="article:published_time"
+              property="article:published_time"
+              content={new Date(published).toISOString()}
+            />
+          ),
+          updated && (
+            <meta
+              key="article:modified_time"
+              property="article:modified_time"
+              content={new Date(updated).toISOString()}
+            />
+          ),
+          // social og tags
           <meta
-            property="article:published_time"
-            content={new Date(published).toISOString()}
-          />
-        )}
-        {updated && (
+            key="og:site_name"
+            property="og:site_name"
+            content={ui.title}
+          />,
+          <meta key="og:title" property="og:title" content={title} />,
           <meta
-            property="article:modified_time"
-            content={new Date(updated).toISOString()}
-          />
-        )}
-        {/* social og tags */}
-        <meta property="og:site_name" content={ui.title} />
-        <meta property="og:title" content={title} />
-        <meta property="og:description" content={description} />
-        <meta property="og:image" content={image} />
-        <meta property="og:locale" content={ui.metaLocale} />
-        <meta property="og:url" content={url} />
-        {/* twitter tags */}
-        <meta name="twitter:card" content="summary" />
-        <meta name="twitter:title" content={title} />
-        <meta name="twitter:description" content={description} />
-        <meta name="twitter:image" content={image} />
+            key="og:description"
+            property="og:description"
+            content={description}
+          />,
+          <meta key="og:image" property="og:image" content={image} />,
+          <meta key="og:locale" property="og:locale" content={ui.metaLocale} />,
+          <meta key="og:url" property="og:url" content={url} />,
+          // twitter tags
+          <meta key="twitter:card" name="twitter:card" content="summary" />,
+          <meta key="twitter:title" name="twitter:title" content={title} />,
+          <meta
+            key="twitter:description"
+            name="twitter:description"
+            content={description}
+          />,
+          <meta key="twitter:image" name="twitter:image" content={image} />,
+        ]}
       </Helmet>
       {i18nDev && current.editor && <SeoHelper meta={meta} />}
     </>

@@ -14,6 +14,7 @@
 #   author: Author Name Here
 #   authorLink: https://author-website.com/
 #   verifiedContract: https://blockscout.com/etc/mainnet/address/0x0000000000000000000000000000000000000000/contracts
+#   # NOTE, openSource link MUST MEET https://en.wikipedia.org/wiki/The_Open_Source_Definition
 #   openSource: https://blockscout.com/etc/mainnet/address/0x0000000000000000000000000000000000000000/contracts
 #   audit: https://example.com
 #   testSuite: https://example.com
