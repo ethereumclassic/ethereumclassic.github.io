@@ -1,0 +1,24 @@
+title: 取引所
+seo: ETCをサポートする中央集権的かつ信頼最小限の取引所、DEX、NFTマーケットプレイス、ペイメントプロセッサーなどのリスト。
+description: |
+  このページでは、ETCを購入または取引できるサービスの一覧を掲載しています。
+
+  ## Non-exhaustive List of Exchanges
+
+  以下の取引所は、すべてイーサリアムクラシックをサポートしています。信頼最小化型、中央集権型、クロスチェーン型の3つのカテゴリーに分かれています。
+
+  **イーサリアムクラシックを購入する取引所については、ご自身で調査してください。このサイトに掲載されていることは、Ethereum Classicプロジェクトがその取引所のサービスを推奨していることを意味するものではありません**。
+items:
+  Trust-Minimizing Exchanges:
+    title: 信頼最小限の交換
+    description: 以下の取引所は、*完全*な分散型取引所ではないかもしれませんが、以下の中央集権的なセクションよりも中央集権的でない方法で運営されています。これらの製品は、非集権的なスマートコントラクトを使用して、交換を促進していると思われます。
+  Centralized Spot Markets:
+    title: スポット市場の一元化
+  Centralized Derivative Markets:
+    title: デリバティブ市場の一元化
+  Cross-Chain Swap Exchanges:
+    title: クロスチェーン・スワップ・エクスチェンジ
+    description: "*注：*クロスチェーンスワップ取引所は、通常、集中取引所よりも悪いレートを提供します。"
+  NFT Marketplaces:
+    title: NFTマーケットプレイス
+    description: 以下のNFTマーケットプレイスは、*完全*な分散型マーケットプレイスでない場合があります。
