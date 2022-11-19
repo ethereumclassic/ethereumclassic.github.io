@@ -1,0 +1,24 @@
+title: 교환
+seo: ETC를 지원하는 중앙 집중식 및 신뢰 최소화 거래소, DEX, NFT 마켓플레이스 및 결제 프로세서 목록입니다.
+description: |
+  이 페이지에는 ETC를 구매하거나 거래할 수 있는 서비스 목록이 포함되어 있습니다.
+
+  ## 거래소의 전체 목록이 아닌
+
+  다음 거래소는 모두 이더리움 클래식을 지원합니다. 3가지 범주로 구분됩니다. 신뢰 최소화, 중앙 집중식 및 교차 체인.
+
+  **Ethereum Classic을 소싱하기 위해 선택한 거래소에 대해 직접 조사하십시오. 이 사이트에 나열되어 있다고 해서 이더리움 클래식 프로젝트가 거래소 서비스를 보증하는 것은 아닙니다.**
+items:
+  Trust-Minimizing Exchanges:
+    title: 신뢰를 최소화하는 교환
+    description: 다음 거래소는 *완전히* 분산된 거래소가 아닐 수 있지만 아래의 중앙 집중식 섹션보다 덜 중앙 집중화 방식으로 운영됩니다. 이러한 제품은 교환을 용이하게 하기 위해 비보관 스마트 계약을 사용할 가능성이 높습니다.
+  Centralized Spot Markets:
+    title: 중앙 집중식 현물 시장
+  Centralized Derivative Markets:
+    title: 중앙 집중식 파생 상품 시장
+  Cross-Chain Swap Exchanges:
+    title: 크로스체인 스왑 거래소
+    description: "*참고:* 크로스체인 스왑 거래소는 일반적으로 중앙 집중식 거래소보다 낮은 환율을 제공합니다."
+  NFT Marketplaces:
+    title: NFT 마켓플레이스
+    description: 다음 NFT 마켓플레이스는 *완전히* 분산된 마켓플레이스가 아닐 수 있습니다.

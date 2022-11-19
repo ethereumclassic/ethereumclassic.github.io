@@ -1,0 +1,43 @@
+title: FAQ pour les développeurs
+seo: Foire aux questions pour ceux qui cherchent à contribuer ou à construire des applications sur Ethereum Classic.
+info: 'Vous ne trouvez pas de réponse à votre question ici ? Essayez de la poser sur le serveur [discord](https://ethereumclassic.org/discord) de la communauté du CTE. Plus précisément, le canal `#dev-general` du Discord du CTE pourrait vous intéresser.'
+description: Vous voulez apprendre à construire une application ou un protocole sur Ethereum Classic ? Cette page est pour vous.
+items:
+  questions:
+    items:
+      types:
+        question: Quel type d'applications puis-je créer sur le CTE ?
+        answer: |
+          Comme ETC utilise l'EVM turing-complet, tout type de système de contrat intelligent peut être déployé sur ETC ; de Multisigs, à DeFi, à NFTs, à tout ce que vos rêves peuvent vous amener. Toute application qui peut être déployée sur Ethereum peut également être déployée sur Ethereum Classic.
+
+          Certaines autres chaînes ont un historique de censure de certaines applications et transactions, donc si vous voulez vous assurer que votre application fonctionne exactement comme programmé sans temps d'arrêt, censure ou interférence de tiers, alors envisagez de déployer sur Ethereum Classic !
+
+          Pour quelques exemples d'applications qui ont été déployées sur Ethereum Classic, consultez la section [apps](/services/apps).
+      eth:
+        question: Quelle est la différence entre ETH et ETC lors de l'écriture d'applications ?
+        answer: |
+          Il n'y a aucune différence dans la rédaction des contrats ; vous pouvez utiliser les mêmes outils de développement et le même langage de programmation (notamment Solidity) qu'avec Ethereum.
+
+          La principale différence avec Ethereum est que l'ETC possède un écosystème d'applications différent, de sorte que les contrats déployés existants avec lesquels vous pouvez interagir directement sont différents. Si vous devez vous connecter à un actif existant sur Ethereum, vous pouvez utiliser un actif enveloppé, des [ponts inter-chaînes] (/services/apps/interopérabilité), ou vous pouvez même envisager de déployer votre propre version de ces actifs.
+      development:
+        question: Comment puis-je développer des applications pour Ethereum Classic ?
+        answer: |
+          Consultez la section [guides de développement](/guides/development), ainsi que la section [development](/development) pour des tutoriels et des outils qui vous aideront à déployer vers Classic.
+      deployment:
+        question: Comment puis-je me déployer sur la blockchain Ethereum Classic ?
+        answer: |
+          Commencez par acquérir des ETC pour payer le gaz nécessaire au déploiement de votre contrat, puis assurez-vous simplement de le déployer sur le réseau Ethereum Classic (Chain ID 61), plutôt que sur le réseau Ethereum (Chain ID 1).
+      rpc:
+        question: Existe-t-il des points de terminaison RPC publics que je peux utiliser pour déployer vers le CTE ?
+        answer: |
+          Oui. Si vous ne souhaitez pas exécuter de manière synchrone votre propre nœud Ethereum Classic, il existe un certain nombre de points d'extrémité publics disponibles qui peuvent être utilisés gratuitement.
+
+          Consultez la section [RPC Endpoints](/network/endpoints), ainsi que [ChainList.org](https://chainlist.org/en/chain/61).
+      grants:
+        question: Puis-je obtenir des fonds pour construire sur Ethereum Classic ?
+        answer: |
+          Ethereum Classic n'ayant pas de trésorerie centralisée, tout développement est nécessairement autofinancé ou financé par des tiers. Par le passé, divers tiers ont mis en place des programmes de subventions, et [ETC Cooperative] (https://etccooperative.org/) a annoncé qu'elle allait bientôt lancer un nouveau programme de subventions.
+      ecips:
+        question: Comment puis-je aider au développement du protocole Ethereum Classic ?
+        answer: |
+          Vous pouvez soumettre des propositions de mise à niveau du protocole par le biais du processus [ECIP](/development/ecips). Vous pouvez aider à maintenir les bases de code des clients en visitant les dépôts GitHub des [clients](/development/clients) pour lesquels vous souhaitez apporter votre aide.

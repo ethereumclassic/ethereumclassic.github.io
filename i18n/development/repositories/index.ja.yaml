@@ -1,0 +1,20 @@
+title: Gitレポジトリ
+description: Ethereum Classic開発者向けの雑多なオープンソースリポジトリのごった煮。
+items:
+  repos:
+    items:
+      EthereumClassic:
+        name: Githubの主な組織
+        description: Ethereum ClassicのGithub組織には、数多くのリポジトリがあり、その一部を以下に紹介します...
+      eth-classic:
+        name: Githubの代替組織
+        description: テストネットの設定、ETCHash、Besuなどを含む、コミュニティが管理するもう一つのGithub組織です。
+      etcLabs:
+        name: ETCラボ
+        description: Core-gethを含む、ETC Labsが以前管理していた多くのEthereum Classicリポジトリを含む組織。
+      website:
+        name: ETCウェブサイト
+        description: 本サイトのソースコードと、その提供方法について。
+      awesomeEtc:
+        name: オーサムETC
+        description: Ethereum Classic (ETC)プロジェクトの素晴らしいリソースのリストです。

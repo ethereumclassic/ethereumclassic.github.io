@@ -1,0 +1,32 @@
+items:
+  table:
+    number: رقم
+    author: المؤلفون
+    columnItems:
+      title:
+        name: عنوان
+      author:
+        name: المؤلفون
+    items:
+      Delay Difficulty Bomb Explosion:
+        title: صعوبة تأخير انفجار القنبلة
+      Long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks:
+        title: تغييرات تكلفة الغاز طويلة الأجل لعمليات الإدخال والإخراج الثقيلة للتخفيف من هجمات البريد العشوائي للمعاملات
+      Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule:
+        title: السياسة النقدية والتعديل النهائي لجدول انبعاثات Ethereum Classic
+      Monetary policy rounding specification:
+        title: مواصفات تقريب السياسة النقدية
+      Remove Difficulty Bomb:
+        title: قم بإزالة قنبلة الصعوبة
+      Clique proof-of-authority consensus protocol:
+        title: زمرة بروتوكول إجماع إثبات السلطة
+      Status Codes:
+        title: رموز الحالة
+      Atlantis EVM and Protocol Upgrades:
+        title: ترقيات Atlantis EVM والبروتوكول
+      Agharta EVM and Protocol Upgrades:
+        title: ترقيات بروتوكول Agharta EVM والبروتوكول
+      Phoenix EVM and Protocol Upgrades:
+        title: ترقيات فينيكس EVM والبروتوكول
+      Calibrate Epoch Duration:
+        title: معايرة مدة الحقبة

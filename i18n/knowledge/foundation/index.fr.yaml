@@ -1,0 +1,33 @@
+items:
+  main:
+    title: Principes fondamentaux
+    description: Cette section contient une sélection des articles les plus importants qui plongent dans la philosophie sous-jacente de la Fondation Ethereum Classic. Ce sont les idées qui, en fin de compte, font perdurer la vision originale d'Ethereum.
+    items:
+      Declaration of Independence:
+        name: Déclaration d'indépendance
+        description: Une déclaration de la raison d'être de l'ETC, une liste de griefs et une description de ses principes et objectifs. Il s'agit de l'un des premiers documents fondateurs d'Ethereum Classic, initialement publié en août 2016 et traduit dans de nombreuses langues.
+      A Crypto-Decentralist Manifesto:
+        name: Un manifeste crypto-décentraliste
+        description: Un autre document influent des premiers jours d'Ethereum Classic. Il expose les valeurs fondamentales de la décentralisation et contribue à la prise de décision au sein de la communauté ETC.
+      Ethereum Classic Vision:
+        name: Vision d'Ethereum Classic
+        description: Comment Ethereum Classic sera une plateforme informatique performante et pourquoi ETC est une excellente réserve de valeur.
+      keepEtcClassic:
+        name: Gardons Ethereum Classic Classic
+        description: Un rappel approfondi sur l'importance de défendre les principes d'Ethereum Classic, en réponse à une proposition du Trésor (désormais retirée).
+  past:
+    title: Les épaules des géants
+    description: Ethereum Classic n'aurait pas pu exister sans d'autres projets pionniers tels que le travail de base original de la blockchain et la philosophie décentralisée du Bitcoin, ainsi que la technologie de la plateforme de contrats intelligents complète de Turing fournie par le projet Ethereum.
+    items:
+      The idea of Smart Contracts:
+        name: L'idée des contrats intelligents
+        description: L'idée de Nick Szabo sur les contrats intelligents date de 1997.
+      Bitcoin A Peer-to-Peer Electronic Cash System:
+        name: "Bitcoin : un système de paiement électronique de pair à pair"
+        description: Le livre blanc original de Satoshi Nakamoto reste une lecture recommandée pour quiconque étudie le fonctionnement du bitcoin et des chaînes de blocs.
+      ethWhitepaper:
+        name: "Livre blanc sur l'Ethereum"
+        description: Le livre blanc original d'Ethereum explique comment l'utilité de la technologie blockchain est libérée en "résolvant le problème politique de décider qui peut influencer le consensus", et le concept de DAO, de Stablecoins, etc.
+      ethYellowPaper:
+        name: "Papier jaune d'Ethereum"
+        description: La description technique originale du protocole Ethereum, par Gavin Wood.

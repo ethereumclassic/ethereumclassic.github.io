@@ -1,0 +1,30 @@
+title: Portefeuilles
+seo: Een bron van web wallets, extensies, software wallets, hardware wallets, en andere manieren om ETC te beveiligen.
+description: |
+  Er zijn vele opties van wallets om uit te kiezen om ETC te beveiligen en te gebruiken. Elke optie geeft een andere balans tussen veiligheid en gemak. Onderzoek de beste optie afhankelijk van uw eisen.
+
+  ## Welke portemonnee moet ik gebruiken?
+
+  De volgende suggesties zijn geen goedkeuringen, en dienen enkel om nieuwe gebruikers te helpen snel een optie te vinden die waarschijnlijk voor hen werkt.
+
+  - Als u een eenvoudige mobiele app wilt, is [Trust Wallet](https://trustwallet.com/ethereum-classic-wallet) gemakkelijk te gebruiken en ondersteunt veel valuta waaronder ETC.
+  - Wilt u kleine hoeveelheden ETC aanhouden voor gebruik met gedecentraliseerde toepassingen, probeer dan [MetaMask](/guides/metamask) en verbind het met Ethereum Classic.
+  - Als u ETC accepteert voor uw bedrijf, wilt u waarschijnlijk gewoon een [exchange](/services/exchanges) account aanmaken waarmee u het kunt verkopen voor uw lokale valuta.
+  - Als u grotere bedragen aanhoudt, is het sterk aanbevolen om een [Hardware Wallet](#hardware-wallets) aan te schaffen.
+  - Voor meer geavanceerd gebruik, doe uw eigen onderzoek en probeer een paar opties van hieronder.
+items:
+  web:
+    title: Webportemonnees
+    description: Deze Web3-wallets zijn toegankelijk via een webpagina. Ze moeten niet worden gebruikt om grote bedragen veilig te stellen, maar stellen u in staat gemakkelijk met ETC te interageren zonder downloads.
+  browsers:
+    title: Browser geïntegreerde portemonnees
+    description: Deze Web3 wallets zijn geïntegreerd in webbrowsers. Gewoonlijk injecteren ze websites met uw accountinformatie, zodat u naadloos kunt communiceren met Ethereum Classic dapps in uw browser.
+  hardware:
+    title: Hardware Portefeuilles
+    description: Hardware wallets zijn veilige portemonnees die ontworpen zijn voor langdurige opslag.
+  software:
+    title: Software Portefeuilles
+    description: Softwareportefeuilles zijn desktop- of mobiele apparaten voor kortetermijnopslag.
+  other:
+    title: Andere portefeuille producten
+    description: Deze producten zijn complementair aan cryptowallets zoals herstelzaadopslag.

@@ -1,0 +1,35 @@
+title: Videolar
+description: Ethereum Classic hakkında kategorilere göre düzenlenmiş bir video koleksiyonu.
+support: Kendi videolarınızı göndererek ETC'yi destekleyin!
+changeLanguage: Bu sayfada yalnızca seçtiğiniz dildeki videolar gösterilmektedir. Daha fazla içerik için İngilizce videolara göz atın.
+tags:
+  explainers:
+    title: Açıklayıcılar
+    description: Ethereum Classic felsefesini, tarihini ve teknik kavramlarını açıklayan eğitici videolar.
+  tutorials:
+    title: Öğreticiler
+    description: Ethereum Classic'in nasıl kullanılacağını ve geliştirileceğini anlatan kılavuzlar.
+  development:
+    title: Geliştirme
+    description: Geliştiriciler için Ethereum Classic teknolojisi ile ilgili konuları kapsayan videolar.
+  trading:
+    title: Ticaret
+    description: ETC'yi kapsayan teknik ve temel analizler, fiyat tahminleri ve yatırım tavsiyeleri.
+  discussions:
+    title: Tartışmalar
+    description: Podcast'ler, tartışmalar ve haftalık topluluk çağrıları dahil olmak üzere uzun süreli tartışmalar
+  mining:
+    title: Madencilik
+    description: ETC madenciliğinin nasıl yapılacağını, donanım, yazılım ve kâr beklentilerini kapsayan videolar. Daha fazla bilgi için [mining](/mining) bölümünü de kontrol ettiğinizden emin olun.
+  conferences:
+    title: Konferanslar
+    description: Ethereum Classic Summit, dünya çapında çeşitli şehirlerde düzenlenen yıllık bir etkinliktir. Bu bölüm ETC Zirvesi'nden ve diğer konferanslardan veya buluşmalardan konuşmalar içerir.
+  etc-summit-2018:
+    title: ETC Zirvesi 2018
+    description: İkinci Ethereum Classic Zirvesi 12 Eylül 2018 tarihinde Seul, Kore'de gerçekleştirildi
+  etc-summit-2019:
+    title: ETC Zirvesi 2019
+    description: Üçüncü Ethereum Classic Zirvesi 3 Ekim 2019 tarihinde Vancouver, Kanada'da gerçekleştirildi
+  etc-summit-2017:
+    title: ETC Zirvesi 2017
+    description: İlk Ethereum Classic Zirvesi 13 Kasım 2017 tarihinde Hong Kong'da düzenlendi

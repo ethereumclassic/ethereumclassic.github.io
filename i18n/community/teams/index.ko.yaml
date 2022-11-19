@@ -1,0 +1,17 @@
+title: 개발팀
+seo: 이전에 이더리움 클래식에 기여했거나 현재 기여하고 있는 주요 조직 목록입니다.
+description: |
+  Ethereum Classic은 '공식' 팀이나 공식 계층 구조가 없음을 의미하는 분산형 개발 생태계입니다. 이 글로벌 개발 커뮤니티는 누구나 참여할 수 있는 무허가 'do-ocracy'입니다. 개인과 팀이 스스로 작업을 선택하고 실행합니다. [이더리움 클래식 개선 제안(ECIP)](https://ecips.ethereumclassic.org/) 프로세스를 통해 [대략적인 합의](https://en.wikipedia.org/wiki/Rough_consensus)를 공동으로 수립합니다.
+
+  이것은 2015년 7월 30일 프로젝트의 창시 블록 이후 Ethereum Classic에 기여한 저명한 팀의 목록입니다. Ethereum Classic 생태계는 개인, 자원 봉사자 및 팀의 모든 프로토콜 수준 개발 노력에 감사드립니다.
+items:
+  teams:
+    columnItems:
+      year:
+        name: 년도
+      name:
+        name: 팀 이름
+      social:
+        name: 사회의
+      active:
+        name: 활동적인

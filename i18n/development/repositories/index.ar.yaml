@@ -1,0 +1,20 @@
+title: مستودعات جيت
+description: خليط من مستودعات المصادر المفتوحة المتنوعة لمطوري Ethereum Classic.
+items:
+  repos:
+    items:
+      EthereumClassic:
+        name: منظمة جيثب الرئيسية
+        description: منظمة Ethereum Classic Github الرئيسية ، التي تحتوي على عدد من المستودعات ، سنسلط الضوء على مجموعة مختارة منها أدناه ...
+      eth-classic:
+        name: منظمة جيثب البديلة
+        description: مجتمع آخر يديره Github Organization والذي يتضمن تكوينات testnet و ETCHash و Besu وما إلى ذلك.
+      etcLabs:
+        name: مختبرات ETC
+        description: منظمة تحتوي على العديد من مستودعات Ethereum Classic التي كانت تحتفظ بها ETC Labs مسبقًا ، بما في ذلك core-geth.
+      website:
+        name: موقع ETC
+        description: الكود المصدري لهذا الموقع بالذات ، بما في ذلك تعليمات حول كيفية المساهمة.
+      awesomeEtc:
+        name: رهيبة وما إلى ذلك
+        description: قائمة رائعة بالموارد لمشروع Ethereum Classic (ETC).

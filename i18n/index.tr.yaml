@@ -1,0 +1,53 @@
+billboard:
+  text: '%%$$%% Ethereum'
+  ## must be kind of short, so they fit on the page
+  randomWords:
+    Decentralized: "Merkezi Olmayan"
+    Original: "Orijinal"
+    Veracious: "Veracious"
+    Untainted: "Lekesiz"
+    Uncensored: "Sansürsüz"
+    Untampered: "Untampered"
+    Immutable: "Değişmez"
+    Sound Money: "Sağlam Para"
+    Uncaptured: "Yakalanmamış"
+    SovereignGrade: "Egemen Sınıf"
+    Principled: "İlkeli"
+    Unstoppable: "Durdurulamaz"
+    Proof of Work: "Çalışma Kanıtı"
+    Leaderless: "Lidersiz"
+    Antifragile: "Antifragile"
+    Code is Law: "Kod Kanundur"
+    Classic: "Klasik"
+    Permisionless: "İzinsiz"
+    Global: "Küresel"
+## feature
+feature:
+  title: SSS
+  subtitle: Yeni Bölüm
+  text: Kullanım durumuna göre düzenlenmiş Sıkça Sorulan Sorularda gezinerek aradığınız yanıtları hızla bulun.
+  button: Sorular Yanıtlandı
+## intro
+intro:
+  title: Durdurulamaz Uygulamalar Oluşturun
+  content: |
+    Görevli kurumlar blok zinciri teknolojisinin vahşi potansiyeli tarafından giderek daha fazla tehdit edilirken, yalnızca gerçekten merkezi olmayan ve güvenli kripto para birimleri hayatta kalacaktır.
+
+    Kardeş zincir Ethereum™ (ETH) üzerindeki sözleşme sansürüne yanıt olarak ve *Kod Yasadır* ilkesini desteklemek ve korumak için var olan Ethereum Classic (ETC), her şeye rağmen sansüre direnme ve *durdurulamaz* uygulamaların *orijinal* Ethereum vizyonunu sunma yeteneğini kanıtlamıştır.
+
+    Ethereum™ (ETH) teknolojisini Bitcoin (BTC) felsefesiyle birleştiren Ethereum Classic (ETC), diğer zincirler tehlikeye girdikçe veya özel çıkarlar tarafından ele geçirildikçe geleceğin temel katman akıllı sözleşmeler platformu olmak için benzersiz bir konuma sahiptir.
+
+    Hoş geldiniz ve lütfen Ethereum Classic'in geçmişini, bugününü ve geleceğini; ilkelerini, değer önerisini, topluluğunu ve daha fazlasını keşfetmeye davet edin - *neden Classic'i* anlamak için.
+  button:
+    text: Neden Klasik?
+#Headers
+headings:
+  headlines:
+    title: Başlıklar
+    button: Tüm Haberler
+  videos:
+    title: Son Videolar
+    button: Tüm Videolar
+  apps:
+    title: Son Uygulamalar
+    button: Tüm Uygulamalar

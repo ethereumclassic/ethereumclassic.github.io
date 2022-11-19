@@ -1,0 +1,43 @@
+title: FAQ's voor ontwikkelaars
+seo: Veelgestelde vragen voor wie wil bijdragen aan of toepassingen wil bouwen op Ethereum Classic.
+info: 'Kunt u hier geen antwoord op uw vraag vinden? Probeer het te vragen in de ETC-community [discord](https://ethereumclassic.org/discord) server. In het bijzonder kunt u het `#dev-general`-kanaal van de ETC Discord interessant vinden.'
+description: Wil je leren hoe je een applicatie of protocol bouwt bovenop Ethereum Classic? Deze pagina is voor jou.
+items:
+  questions:
+    items:
+      types:
+        question: Wat voor soort toepassingen kan ik op ETC bouwen?
+        answer: |
+          Aangezien ETC de turing-complete EVM gebruikt, kan elk soort smart contract systeem worden ingezet op ETC; van Multisigs, tot DeFi, tot NFT's, tot waar uw dromen u ook brengen. Elke toepassing die op Ethereum kan worden ingezet, kan ook op Ethereum Classic worden ingezet.
+
+          Sommige andere ketens hebben een geschiedenis van het censureren van bepaalde toepassingen en transacties, dus als u er zeker van wilt zijn dat uw toepassing precies zo draait als geprogrammeerd zonder downtime, censuur of inmenging van derden, overweeg dan het inzetten op Ethereum Classic!
+
+          Kijk voor enkele voorbeelden van toepassingen die zijn ingezet op Ethereum Classic op [apps](/services/apps).
+      eth:
+        question: Wat is het verschil tussen ETH en ETC bij het schrijven van toepassingen?
+        answer: |
+          Er is geen verschil bij het schrijven van contracten; u kunt dezelfde ontwikkeltools en programmeertaal (met name Solidity) gebruiken als bij Ethereum.
+
+          Het belangrijkste verschil met Ethereum is dat ETC een ander app-ecosysteem heeft, dus de bestaande ingezette contracten waarmee je direct kunt interageren zijn anders. Als u moet aansluiten op een bestaand actief op Ethereum, kunt u een gewikkeld actief gebruiken, [cross-chain bridges](/services/apps/interoperability), of u kunt zelfs overwegen uw eigen versie van deze activa in te zetten.
+      development:
+        question: Hoe kan ik toepassingen ontwikkelen voor Ethereum Classic?
+        answer: |
+          Bekijk de [ontwikkelingsgidsen](/guides/development) sectie, evenals de [development](/development) sectie voor tutorials en hulpmiddelen om u te helpen implementeren naar Classic.
+      deployment:
+        question: Hoe zet ik in op de Ethereum Classic blockchain?
+        answer: |
+          Koop eerst wat ETC om te betalen voor het gas om uw contract in te zetten, en zorg er dan gewoon voor dat u inzet op het Ethereum Classic netwerk (Chain ID 61), in plaats van op het Ethereum netwerk (Chain ID 1).
+      rpc:
+        question: Zijn er openbare RPC eindpunten die ik kan gebruiken om naar ETC te deployen?
+        answer: |
+          Ja. Als u uw eigen Ethereum Classic node niet wilt synchroniseren, zijn er een aantal openbare eindpunten beschikbaar die gratis te gebruiken zijn.
+
+          Bekijk de [RPC Endpoints](/network/endpoints) sectie, evenals [ChainList.org](https://chainlist.org/en/chain/61).
+      grants:
+        question: Kan ik financiering krijgen om op Ethereum Classic te bouwen?
+        answer: |
+          Aangezien Ethereum Classic geen gecentraliseerde schatkist heeft, wordt alle ontwikkeling noodzakelijkerwijs ofwel zelf gefinancierd ofwel via financiering door derden. In het verleden hebben verschillende derde partijen beursprogramma's uitgevoerd, en [ETC Cooperative](https://etccooperative.org/) heeft aangekondigd dat het binnenkort een nieuw beursprogramma zal lanceren.
+      ecips:
+        question: Hoe kan ik helpen met de ontwikkeling van het Ethereum Classic protocol?
+        answer: |
+          U kunt voorstellen voor protocolupgrades indienen via het [ECIP](/development/ecips) proces. U kunt helpen bij het onderhouden van client codebases door de GitHub repositories te bezoeken van de [clients](/development/clients) waarmee u wilt helpen.

@@ -1,0 +1,156 @@
+title: Panduan Pembangunan
+seo: Pilihan tutorial dan penerangan untuk pembangun pemula dan lanjutan, dengan penerangan tentang cara menggunakan Ethereum Classic.
+description: |
+  Proses mengarang dan menggunakan Kontrak Pintar ke Ethereum Classic adalah sama seperti untuk Ethereum. Salah satu matlamat Ethereum Classic adalah untuk mengekalkan keserasian dengan ETH, supaya sebarang kontrak yang digunakan untuk Ethereum boleh digunakan semula dengan mudah ke Ethereum Classic.
+
+  Ini bermakna bahawa kebanyakan tutorial, perpustakaan dan alat pembangunan sedia ada yang wujud pada Ethereum boleh digunakan dengan Ethereum Classic juga. Dalam kebanyakan kes, satu-satunya perbezaan ialah menukar pilihan konfigurasi untuk digunakan ke Ethereum Classic dan bukannya testnet atau mainnet Ethereum.
+
+  Pengecualian utama ialah interaksi dengan sistem pihak ketiga seperti Stablecoins atau Oracles, yang hanya digunakan untuk ETH dan belum lagi di ETC. Perlahan tetapi pasti, versi ETC perkhidmatan ini akan dipindahkan, mungkin juga oleh anda! Anda boleh menjejaki perkhidmatan yang tersedia pada masa ini dalam [bahagian aplikasi](/services/apps).
+
+  Atas sebab ini, kami amat mengesyorkan anda menerokai [Sumber Pembangun di tapak web Ethereum.org](https://ethereum.org/en/developers/), yang mempunyai banyak maklumat terkini. Selain itu, pautan pada halaman ini mengandungi panduan khusus untuk membangunkan Ethereum Classic.
+
+  Anda juga boleh mendapatkan tutorial video tentang pembangunan dengan Ethereum Classic dalam bahagian [Video > Pembangunan](/video/pembangunan).
+items:
+  tutorials:
+    title: Bermula
+    description: Berikut ialah senarai tidak lengkap beberapa tutorial dan panduan berguna untuk memulakan anda dengan pembangunan Ethereum Classic.
+    items:
+      Kotti Testnet Setup Guide:
+        name: Panduan Persediaan Kotti Testnet
+        description: Naik dan Menjalankan Kotti TestNet dalam 1 minit dengan Desktop Jade
+      Signatory Client:
+        name: Klien Penandatangan
+        description: Demo Video menerangkan Pelanggan Penandatangan - dompet perkakasan Do-It-Yourself yang boleh dipasang pada komputer papan tunggal, seperti Raspberry PI.
+      Besu Client Setup Guide:
+        name: Panduan Persediaan Pelanggan Besu
+        description: Mulakan menggunakan Hyperledger Besu.
+      Raspberry Pi Node Setup Guide:
+        name: Panduan Persediaan Nod Raspberry Pi
+        description: Panduan terperinci tentang cara menyediakan nod Ethereum pada Raspberry Pi
+      CryptoZombies:
+        name: CryptoZombies
+        description: Belajar Kod Ethereum DApps Dengan Membina Permainan Anda Sendiri.
+      Hitchhikers Guide to Smart Contracts:
+        name: Panduan Hitchhikers untuk Kontrak Pintar
+        description: Bina kontrak pintar pada Ethereum menggunakan Truffle, Test-RPC dan Solidity.
+      A 101 Noob Intro to Programming Smart Contracts on Ethereum:
+        name: Pengenalan 101 Noob kepada Pemrograman Kontrak Pintar di Ethereum
+        description: Tutorial kontrak pintar dengan tumpuan untuk membina pemahaman sebelum kod.
+      Setup MetaMask for Ethereum Classic:
+        name: Sediakan MetaMask untuk Ethereum Classic
+        description: Cara Menyediakan Sokongan Klasik Ethereum pada MetaMask Dengan Ethercluster
+      Parity Tutorial:
+        name: Tutorial DApp Pariti
+        description: 10 bahagian tutorial tentang cara menulis DApps.
+      Start Ethereum DApp Development Career:
+        name: Mulakan Kerjaya Pembangunan DApp Ethereum
+        description: Panduan tidak rasmi untuk mula membangunkan DApps.
+      Full Stack DApp Tutorial Series:
+        name: Siri Tutorial DApp Tindanan Penuh
+        description: DApps tindanan penuh menggunakan pelbagai rangka kerja.
+      Ethereum Builders Guide:
+        name: Panduan Pembina Ethereum
+        description: Gitbook untuk membina Ethereum yang lebih mendalam untuk memahami fungsi teknikal.
+      Introduction to OpenRPC Webinar:
+        name: Pengenalan kepada OpenRPC Webinar
+        description: Dalam video ini anda akan mempelajari asas-asas JSON-RPC dan OpenRPC.
+      Learning Solidity Tutorial Series:
+        name: Siri Tutorial Kemantapan Pembelajaran
+        description: Membina kontrak pintar dengan Metamask dan Remix IDE.
+      End to End DApp Tutorial:
+        name: Tutorial DApp Tamat ke Tamat
+        description: Buat DApp perjudian menggunakan Metamask, Truffle, Remix, React dan IPFS.
+      How to write secure smart contracts:
+        name: Cara menulis kontrak pintar yang selamat
+        description: Kajian semula bahasa pengaturcaraan dan amalan terbaik untuk membantu anda menulis kontrak pintar yang selamat.
+      Programming Decentralized Money:
+        name: Pengaturcaraan Wang Terpencar
+        description: Panduan mudah untuk membina aplikasi kontrak pintar.
+      How to create a token and ICO on Ethereum Classic:
+        name: Bagaimana untuk mencipta token dan ICO pada Ethereum Classic
+        description: Selepas anda melalui panduan ini, anda akan belajar cara mencipta token ERC223 pada blockchain Ethereum Classic dan ICO untuk token ini.
+      How to use Brave Browser with Ethereum dApps:
+        name: Cara menggunakan Pelayar Berani dengan Ethereum dApps
+        description: Pelayar Berani ialah cara paling mudah dan selamat untuk mengakses DApps pada blockchain Ethereum. Web 3.0 akhirnya boleh diakses untuk semua orang!
+      Vyper and Brownie Contract Development on EVM Chains:
+        name: Pembangunan Kontrak Vyper dan Brownie pada Rantaian EVM
+        description: Untuk meraikan penyepaduan ETC dengan Vyper, kami memutuskan untuk membina kontrak pintar untuk Vyper digunakan untuk ETC.
+      Adventures in Classical Ether:
+        name: Pengembaraan dalam Eter Klasik
+        description: Bina kontrak pintar pertama anda untuk DLL.
+      Kotti Solidity ETC Oh My:
+        name: Kotti, Solidity, DLL, Oh My!
+        description: Panduan ini menggambarkan konfigurasi awal untuk testnet Kotti Ethereum Classic dan versi spesifik Solidity untuk pembangunan dapp serasi ETC<>ETH. Kotti ialah testnet yang disyorkan untuk pembangun dapp. Mordor disyorkan untuk ujian tahap protokol.
+      How to contribute to Mordor Testnet:
+        name: Bagaimana untuk menyumbang kepada Mordor Testnet
+        description: Panduan ini akan mengajar anda cara melombong testnet DLL dan menjalankan penjelajah blok tempatan anda sendiri dengan Ekspedisi. Kotti ialah testnet yang disyorkan untuk pembangun dapp. Mordor disyorkan untuk ujian tahap protokol.
+      Migrate to Hyperledger Besu - Switch from OpenEthereum or Multi-Geth:
+        name: Berhijrah ke Hyperledger Besu - Beralih daripada OpenEthereum atau Multi-Geth
+        description: Panduan ini sepatutnya membantu anda dengan pemindahan daripada klien OpenEthereum atau Multi-Geth kepada klien Hyperledger Besu.
+      Ethereum Classic on Raspberry Pi:
+        name: Ethereum Classic pada Raspberry Pi
+        description: Panduan ini akan dibahagikan kepada beberapa bahagian dan akan mendokumenkan penerokaan saya tentang IoT, DLL, dan semua perkara Raspberi.
+      Ethercluster An Open-Source Alternative to Infura:
+        name: Ethercluster, Alternatif Sumber Terbuka kepada Infura
+        description: Panduan untuk membina infrastruktur RPC berasaskan Ethereum berskala anda sendiri.
+      Analyzing Ethereum Classic with Google BigQuery:
+        name: Menganalisis Ethereum Classic dengan Google BigQuery
+        description: Panduan untuk menggunakan BigQuery untuk menganalisis Ethereum Classic. Panduan menggunakan contoh pengiraan desentralisasi dalam Ethereum Classic.
+      Creating Your Own Smart Contract Languages Using LLVM:
+        name: Mencipta Bahasa Kontrak Pintar Anda Sendiri Menggunakan LLVM
+        description: Artikel ini menunjukkan cara kami boleh menggunakan EVM-LLVM untuk membuat bahasa mainan Kaleidoscope untuk menjana kontrak pintar yang boleh digunakan oleh blokchain.
+      ERC20 to ERC223 upgrade path:
+        name: Laluan naik taraf ERC20 ke ERC223
+        description: ERC223 ialah piawaian token moden yang mempunyai yuran yang lebih murah dan melindungi pelabur daripada kehilangan token. Pasukan Zuhal menunjukkan cara untuk meningkatkan token ERC20 sedia ada.
+      Continuity for an Augmented world:
+        name: Kesinambungan untuk dunia yang Diperkukuh
+        description: Panduan untuk membina sistem pengiklanan terdesentralisasi dengan Ethereum Classic.
+      Deployment Automation for Goerli testnet in 10 minutes:
+        name: Automasi Deployment untuk Goerli testnet dalam masa 10 minit
+        description: Tutorial ringkas untuk menggunakan rangkaian ujian silang pelanggan Bukti Kuasa Goerli dengan pantas. Panduan ini boleh digunakan pada testnet Kotti Ethereum Classic.
+      Monitoring in PegaSys Plus:
+        name: Pemantauan dalam PegaSys Plus
+        description: Tutorial ringkas untuk menyediakan papan pemuka pemantauan rangkaian oleh PegaSys.
+      Using OpenRPC Mock Server to test against an Ethereum JSON-RPC API:
+        name: Menggunakan OpenRPC Mock Server untuk menguji terhadap Ethereum JSON-RPC API
+        description: Open-rpc-mock-server membolehkan pembangun menjalankan dan menguji terhadap API mereka dalam persekitaran tempatan dan ringan.
+      Introduction to Pristine An open standard and template for open-source projects:
+        name: Pengenalan kepada Pristine — Standard dan templat terbuka untuk projek sumber terbuka.
+        description: Pristine ialah repositori dalam dirinya sendiri yang mengandungi konvensyen dan spesifikasi untuk projek untuk menyampaikan masalah yang anda selesaikan, memudahkan onboarding, membina dan menggunakan alatan boleh gubah, mempromosikan sumbangan dan penglibatan sumber terbuka, serta mempromosikan isu dan perbincangan ciri pada Github itu sendiri.
+      Jade Suite Overview and Workshop:
+        name: Gambaran Keseluruhan dan Bengkel Suite Jade
+        description: Jadikan pembangunan dan konfigurasi apl Ethereum Classic mudah dan pantas menggunakan Jade Suite of Tools
+      Various Ethereum Solidity Tutorials:
+        name: Pelbagai Tutorial Ethereum dan Solidity
+        description: Cara membuat kontrak pintar, menggunakan DApps anda sendiri, mencipta token dan banyak lagi — daripada topik pemula hingga pertengahan.
+  advanced:
+    title: Konsep Lanjutan
+    description: Teknologi di sebalik blockchain adalah mendalam dan menjangkau banyak domain. Berikut adalah pilihan kecil artikel untuk membantu anda memulakan perjalanan anda ke dalam lubang arnab.
+    items:
+      2018-03-15-signatures:
+        name: Berjalan Melalui Kod Tandatangan Digital Klasik Ethereum
+        description: Tandatangan digital transaksi selamat. Ini melibatkan kriptografi lengkung eliptik dan Algoritma Tandatangan Digital Lengkung Eliptik (ECDSA).
+      2018-03-19-rlp:
+        name: Pengekodan Awalan Panjang Rekursif
+        description: Ethereum Classic (ETC) menggunakan pengekodan Recursive Length Prefix (RLP) untuk menyimpan dan menghantar struktur data.
+      2018-01-31-difficulty:
+        name: Tafsiran Mudah Parameter Kesukaran Perlombongan Klasik Ethereum
+        description: Parameter kesukaran melombong mungkin kelihatan misteri bagi sesetengah orang. Artikel ini menunjukkan ia mempunyai tafsiran yang mudah difahami.
+      2018-01-26-implicit-info:
+        name: Maklumat Tersirat Ethereum Classic Blockchain
+        description: Bagi pemula, beberapa maklumat yang diperlukan mungkin kelihatan hilang daripada rantaian blok Ethereum Classic (ETC). Maklumat ini terkandung secara tersirat dalam rantaian blok yang boleh menyebabkan kekeliruan.
+      2017-12-04-light-clients:
+        name: Bagaimana Pelanggan Ethereum Classic Light Boleh Beroperasi dengan SELAMAT
+        description: Pelanggan ringan Ethereum Classic (ETC) ialah pelanggan yang tidak mengekalkan salinan keseluruhan blok ETC.
+      2017-04-28-blocks:
+        name: "Blok ETC Dijelaskan: Tiga Kategori"
+        description: Blok boleh dibahagikan kepada pengepala, senarai transaksi dan, senarai pengepala pakcik.
+      2017-04-18-keys:
+        name: "Kunci Awam Dan Persendirian: Sedikit Pencerahan"
+        description: Kunci peribadi digunakan untuk memindahkan dana, memasang program dan menjalankan program.
+      2017-03-30-accounts-and-states:
+        name: Akaun Dan Negeri Diterangkan
+        description: Blockchain Ethereum Classic (ETC) memungkinkan komputer dunia yang tidak dapat dihalang, boleh diandalkan, boleh diaudit, tidak amanah dan selamat. Untuk memahami sistem ini, adalah penting untuk memahami akaun dan negeri.
+      2017-02-10-hashes:
+        name: "Hashes: Pengenalan Dan Mengapa Ia Berasaskan kepada Internet Dan Rantaian Sekat"
+        description: Ungkapan 'fungsi cincang sehala' mungkin kedengaran aneh dan culun, tetapi fungsi cincang adalah kuda kerja kriptografi moden.

@@ -1,0 +1,20 @@
+title: Pelanggan Nod
+seo: Muat turun pautan untuk dan maklumat tentang pelbagai Pelanggan Nod Klasik Ethereum.
+description: |
+  Pelanggan ialah pakej perisian yang boleh digunakan untuk menjalankan protokol Ethereum Classic dalam pelbagai mod; Nod Penuh, Nod Arkib, Pelanggan Penyegerakan Pantas, dsb. Pelanggan membenarkan anda menjalankan nod mainnet atau testnet, mengesahkan blok melalui perlombongan dan antara muka dengan rangkaian melalui API.
+
+  Anda boleh mencari alatan tambahan untuk membantu mengurus penempatan pelanggan dalam bahagian [tooling](/pembangunan/perkakas).
+items:
+  clients:
+    buttonItems:
+      guide:
+        name: Panduan
+      release:
+        name: Keluaran
+      support:
+        name: Sokongan
+    items:
+      CoreGeth:
+        description: Pelaksanaan Go yang sangat boleh dikonfigurasikan bagi protokol Ethereum. Pelanggan ini Disokong Jangka Panjang oleh pasukan pembangunan Koperasi ETC. Ini adalah pelanggan yang disyorkan daripada pasukan telus yang terkenal.
+      Hyperledger Besu:
+        description: Pelanggan Ethereum berlesen Apache 2.0 berasaskan Java gred perusahaan. Pelanggan ini Disokong Jangka Panjang oleh pasukan Koperasi ETC. Ini adalah pelanggan yang disyorkan daripada pasukan telus yang terkenal.

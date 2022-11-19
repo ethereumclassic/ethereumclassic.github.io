@@ -1,0 +1,20 @@
+title: Git spremišta
+description: Mješavina raznih repozitorija otvorenog koda za Ethereum Classic programere.
+items:
+  repos:
+    items:
+      EthereumClassic:
+        name: Glavna Github organizacija
+        description: Glavna Ethereum Classic Github organizacija, koja sadrži niz repozitorija, čiji ćemo odabir istaknuti u nastavku...
+      eth-classic:
+        name: Alternativna Github organizacija
+        description: Još jedna Github organizacija kojom upravlja zajednica koja uključuje testnet konfiguracije, ETCHash, Besu itd.
+      etcLabs:
+        name: ETC Labs
+        description: Organizacija koja sadrži mnogo Ethereum Classic repozitorija koje je prethodno održavao ETC Labs, uključujući core-geth.
+      website:
+        name: ETC web stranica
+        description: Izvorni kod ove web stranice, uključujući upute o tome kako doprinijeti.
+      awesomeEtc:
+        name: Sjajno ITD
+        description: Sjajan popis resursa za projekt Ethereum Classic (ETC).

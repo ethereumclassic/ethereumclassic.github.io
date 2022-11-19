@@ -1,0 +1,109 @@
+title: Soalan Lazim Pengguna
+seo: Soalan Lazim untuk mereka yang mencari bantuan dalam penggunaan harian Ethereum Classic.
+info: Tidak dapat mencari jawapan kepada soalan anda di sini? Cuba tanya dalam pelayan komuniti ETC [discord](https://ethereumclassic.org/discord).
+description: Jika anda ingin menghantar dan menerima ETC, gunakan salah satu aplikasi yang digunakan untuk Ethereum Classic, atau bimbang tentang cara menggunakannya dengan selamat, halaman ini adalah untuk anda.
+items:
+  using:
+    items:
+      comparison:
+        question: Bolehkah saya menggunakan Ethereum Classic (ETC) dengan cara yang sama seperti Ethereum (ETH)?
+        answer: |
+          Ya, Ethereum Classic beroperasi kepada pengguna akhir dengan cara yang hampir sama seperti Ethereum. Anda hanya perlu memastikan dompet, aplikasi, pertukaran atau perkhidmatan lain yang anda gunakan menyokong Klasik.
+
+          Ethereum Classic, yang secara teknologinya hampir sama dengan Ethereum, berkongsi kumpulan kerja dalam panduan pengguna, tutorial dan panduan yang digunakan untuk kedua-dua rantaian, itulah sebabnya [panduan komuniti di Ethereum.org](https://ethereum.org/ my/belajar/) adalah sangat disyorkan untuk membaca.
+
+          Anda juga boleh menggunakan MetaMask dengan Ethereum Classic.
+      metmask:
+        question: Bagaimanakah cara saya menggunakan ETC dengan MetaMask?
+        answer: |
+          Anda boleh dengan mudah menambah Ethereum Classic pada MetaMask melalui tapak web [CoinList.org](https://coinlist.org/en/chain/61). Jika anda ingin mengkonfigurasi MetaMask secara manual untuk menggunakan nod RPC Klasik Ethereum tersuai, anda boleh menyemak panduan [MetaMask](/guides/metamask).
+      missingEtc:
+        question: Mengapa saya tidak dapat melihat ETC saya apabila menggunakan dompet perkakasan dengan MetaMask?
+        answer: |
+          [Pepijat yang diketahui](https://github.com/MetaMask/metamask-extension/issues/16272) dengan MetaMask ialah ia tidak akan mengenali ETC yang dibuat dengan Ledger Live (dan beberapa dompet perkakasan lain). Anda boleh menyelesaikannya dengan menghantar ETC daripada Ledger Live ke dompet MetaMask yang anda sediakan menggunakan peranti yang sama.
+      help:
+        question: Saya secara tidak sengaja menghantar ETC ke alamat ETH saya, bagaimana saya boleh memulihkannya?
+        answer: |
+          Langkah 1: Jangan Risau. Selagi anda menghantarnya ke akaun yang anda kawal atau jana, anda berkemungkinan boleh mendapatkan semula dana anda.
+
+          Bergantung pada perisian atau pertukaran yang anda gunakan, terdapat pelbagai kaedah pemulihan yang berbeza, jadi semuanya tidak boleh disenaraikan di sini. Cari dalam talian untuk "[nama perkhidmatan] pulihkan ETC yang hilang". Anda mungkin perlu menghubungi ejen sokongan perkhidmatan yang anda gunakan.
+
+          Contohnya, [Dompet Lejar](https://support.ledger.com/hc/en-us/articles/360019363320-Eth-recovery-)
+      metmaskFailign:
+        question: Mengapa transaksi saya gagal dengan MetaMask?
+        answer: |
+          Untuk mengelakkan urus niaga daripada dibuat beberapa kali, setiap transaksi Ethereum Classic termasuk nombor yang dipanggil nonce yang meningkat setiap kali anda menghantar transaksi.
+
+          Kadangkala, terutamanya jika anda menghantar transaksi dengan bayaran gas yang rendah, transaksi anda boleh terperangkap dalam mempool. Dalam kes ini, MetaMask mungkin tidak menetapkan nonce dengan betul untuk transaksi seterusnya.
+
+          Anda boleh memaksa MetaMask menggunakan nonce yang betul dengan menyemak nonce transaksi terakhir anda yang berjaya pada [BlockScout](https://blockscout.com/etc/mainnet/), meningkatkannya sebanyak 1, dan [menetapkan nonce secara manual dalam MetaMask ](https://help.tokensets.com/en/articles/4089766-how-to-push-through-a-stuck-transaction).
+      explorers:
+        question: Bagaimanakah saya boleh melihat transaksi Ethereum Classic saya?
+        answer: |
+          Penjelajah Ethereum Classic yang paling popular dan berciri penuh ialah [BlockScout](https://blockscout.com/etc/mainnet/), tetapi terdapat juga beberapa alternatif yang tersedia dalam bahagian [block explorers](/network/explorers).
+      exchange:
+        question: Bagaimanakah saya boleh mendapatkan ETC?
+        answer: |
+          Ethereum Classic disenaraikan pada hampir setiap mata wang kripto utama [exchange](/perkhidmatan/pertukaran), di mana anda boleh membeli ETC dengan mata wang fiat atau berdagang mata wang kripto lain untuknya.
+
+          Jika anda mempunyai kad grafik yang agak moden, anda juga boleh [mine](/menambang)nya sendiri.
+      wallets:
+        question: Dompet manakah yang anda cadangkan saya gunakan dengan Ethereum Classic?
+        answer: |
+          Terdapat pelbagai jenis dompet yang tersedia bergantung pada bekas penggunaan anda. Lihat bahagian [wallets](/services/dompet) untuk mendapatkan maklumat lanjut.
+      apps:
+        question: Apakah apl yang dijalankan pada rangkaian Ethereum Classic?
+        answer: |
+          Segala-galanya daripada pertukaran berpusat, DEX, DeFi, NFT, jambatan silang rantai dan banyak lagi. Lihat bahagian [services](/perkhidmatan) untuk mengetahui lebih lanjut.
+      defi:
+        question: Adakah Ethereum Classic mempunyai DeFi?
+        answer: |
+          ya. Ekosistem kewangan terdesentralisasi yang kecil tetapi berkembang wujud pada Ethereum Classic, lihat kategori apl [finance](/perkhidmatan/apl/kewangan) untuk kemas kini.
+      staking:
+        question: Bolehkah saya mempertaruhkan ETC saya?
+        answer: |
+          Tidak, sekurang-kurangnya tidak seperti yang anda lakukan pada blockchain Proof of Stake. ETC ialah blockchain Proof of Work, jadi anda hanya boleh melombong, bukan mempertaruhkan, untuk menyediakan keselamatan kepada rangkaian.
+
+          Mungkin terdapat beberapa [protokol pinjaman](/services/apps/finance) yang membolehkan anda meminjamkan ETC anda untuk hasil, tetapi ini bukan sebahagian daripada protokol Ethereum Classic itu sendiri, dan datang dengan risiko pihak balas.
+      safety:
+        question: Saya mendengar bahawa Ethereum Classic telah diserang 51%. Adakah ia selamat digunakan?
+        answer: |
+          Pada tahun 2020, Ethereum Classic mempunyai kadar cincang yang sangat rendah dari segi sejarah, yang membawa kepada siri serangan 51%. Adalah dipercayai bahawa penyerang menyewakan hashrate dan menyasarkan pertukaran dengan serangan perbelanjaan berganda, yang secara keseluruhannya kerugian sekitar $10 juta dalam DLL.
+
+          Sebagai tindak balas, pelanggan Ethereum Classic dan ekosistem yang lebih luas sejak melaksanakan beberapa langkah balas, seperti masa pengesahan yang lebih lama di bursa, ECIP-1099 dan MESS. Memandangkan tindakan balas ini telah dilaksanakan, tiada lagi 51% serangan.
+
+          Selain itu, sejak pertukaran Ethereum kepada Proof of Stake pada 2022, ETC menjadi rantaian boleh ditambang GPU terbesar, meningkatkan kadar cincang sebanyak 50x kepada 100x sejak serangan 51% terakhir. Ini telah menjadikannya sangat tidak mungkin bahawa kumpulan hashrate tersedia untuk disewakan untuk melakukan serangan 51% lagi, dan walaupun ia berlaku, akan menjadi sangat mahal untuk berbuat demikian tanpa sebarang jaminan kejayaan.
+
+          Seperti semua rantaian Proof of Work, potensi 51% serangan berlaku adalah bahagian penting dalam reka bentuk protokol. Apabila masa berlalu dan Ethereum Classic terus tidak lagi diserang dengan cara ini, pihak berkepentingan boleh semakin yakin bahawa 51% serangan adalah perkara yang sudah berlalu.
+
+          Walau apa pun, tidak masuk akal untuk 51% penyerang menyasarkan pemilik kecil dan mereka tidak dapat "mencuri" ETC anda. Sebaliknya, mereka biasanya menyasarkan pertukaran dengan pengeluaran dua kali ganda. Dari segi sejarah, pertukaran telah dapat menyerap serangan berskala yang agak kecil ini, dan telah melaksanakan tindakan balas seperti yang diterangkan.
+      deposit:
+        question: Mengapa mengambil masa yang lama untuk mendepositkan DLL?
+        answer: |
+          Seperti yang dinyatakan dalam soalan di atas, sebagai langkah balas kepada 51% serangan, sesetengah pertukaran mempunyai masa deposit yang sangat lama untuk Ethereum Classic. Ini membantu mempertahankan pertukaran daripada menjadi mangsa serangan perbelanjaan berganda, tetapi bermakna pengguna perlu menunggu lebih banyak masa untuk deposit disahkan.
+
+          Memandangkan kadar hash ETC baru-baru ini meningkat dengan ketara, kemungkinan pertukaran akan mengurangkan bilangan pengesahan yang diperlukan untuk menyelesaikan deposit.
+      blockchain:
+        question: Apakah itu Blockchain?
+        answer: |
+          Blockchain ialah jenis pangkalan data teragih khas. Atribut blockchain yang paling penting ialah tiada siapa yang mengawalnya! Tiada sesiapa yang perlu dipercayai oleh semua orang untuk menguruskannya. Itulah sebabnya mereka dirujuk sebagai tidak amanah. Pengguna menyerahkan tugas dalam _transaksi_ yang dikumpulkan ke dalam _blok_ yang dipautkan bersama untuk membentuk _rantaian_.
+
+          - [Bagaimana blockchain berfungsi - Diterangkan Secara Ringkas](https://youtu.be/SSo_EIwHSd4)
+          - [Blockchain Dalam 7 Minit](https://youtu.be/yubzJw0uiE4)
+          - [Blockchain Technology for Dummies - Blockchain Dijelaskan Secara Mudah](https://youtu.be/2yJqjTiwpxM)
+          - [Blockchain Dijelaskan](https://youtu.be/QphJEO9ZX6s)
+      ether:
+        question: Apa itu Ether?
+        answer: |
+          Ether ialah token asli Ethereum Classic ialah mata wang kripto yang didagangkan di bursa mata wang digital di bawah simbol ticker **ETC**. Eter dicipta sebagai ganjaran kepada nod rangkaian untuk proses yang dikenali sebagai perlombongan, yang mengesahkan pengiraan yang dilakukan pada EVM Ethereum Classic.
+
+          Ether dan ETC menandakan mata wang kripto asli yang digunakan untuk membayar tugas seperti memasang kontrak pintar baharu.
+          [Apakah itu Eter dan Ethereum?](https://youtu.be/fjnovGRQrRE)
+      gas:
+        question: Apa itu Gas?
+        answer: |
+          Gas ialah mekanisme penetapan harga transaksi dalaman, digunakan untuk mengurangkan spam dan memperuntukkan sumber pada rangkaian. Ia ialah unit yang digunakan untuk menyatakan jumlah _sumber_ yang diperlukan untuk melakukan tugas seperti memasang kontrak pintar baharu.
+
+          - [Ethereum Gas Dijelaskan](https://youtu.be/hQ78FVSv-vs)
+          - [Perbezaan Eter lwn Gas | Pengaturcara menerangkan](https://youtu.be/cZ0rYWJzeow)
+          - [Harga dan Transaksi Gas Nonce](https://mirror.xyz/0x4B0728B9B1E45583bFb8bD738C9C6c8906f2841d/gYK5HbwcZc6bZbZbZb7bZb7bZb7b7bf7bf7cf7f7f8f9c8c/

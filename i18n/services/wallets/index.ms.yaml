@@ -1,0 +1,30 @@
+title: Dompet
+seo: Sumber dompet web, sambungan, dompet perisian, dompet perkakasan dan cara lain untuk mendapatkan DLL.
+description: |
+  Terdapat banyak pilihan dompet untuk dipilih untuk menjamin dan menggunakan ETC. Setiap pilihan memberikan keseimbangan yang berbeza antara keselamatan dan kemudahan. Sila selidik pilihan terbaik bergantung pada keperluan anda.
+
+  ## Dompet Manakah yang Perlu Saya gunakan?
+
+  Cadangan berikut bukan pengendorsan dan hanya berfungsi untuk membantu pengguna baharu mencari pilihan yang mungkin sesuai untuk mereka dengan cepat.
+
+  - Jika anda mahukan apl mudah alih yang ringkas, [Trust Wallet](https://trustwallet.com/ethereum-classic-wallet) mudah digunakan dan menyokong banyak mata wang termasuk DLL.
+  - Jika anda ingin memegang sejumlah kecil ETC untuk digunakan dengan aplikasi terdesentralisasi, kemudian cuba [MetaMask](/panduan/metamask) dan sambungkannya ke Ethereum Classic.
+  - Jika anda menerima ETC untuk perniagaan anda, anda mungkin hanya mahu membuat akaun [exchange](/services/exchanges) yang boleh anda gunakan untuk menjualnya untuk mata wang tempatan anda.
+  - Jika anda memegang amaun yang lebih besar, adalah sangat disyorkan untuk membeli [Dompet Perkakasan](#dompet-perkakasan).
+  - Untuk kes penggunaan yang lebih lanjut, sila lakukan penyelidikan anda sendiri dan cuba beberapa pilihan dari bawah.
+items:
+  web:
+    title: Dompet Web
+    description: Dompet Web3 ini boleh diakses menggunakan halaman web. Ia tidak sepatutnya digunakan untuk mendapatkan jumlah yang besar, tetapi membolehkan anda berinteraksi dengan mudah dengan ETC tanpa muat turun.
+  browsers:
+    title: Dompet Bersepadu Penyemak Imbas
+    description: Dompet Web3 ini disepadukan dalam pelayar web. Biasanya, mereka menyuntik tapak web dengan maklumat akaun anda untuk membolehkan anda berinteraksi dengan lancar dengan Ethereum Classic dapps dalam penyemak imbas anda.
+  hardware:
+    title: Dompet Perkakasan
+    description: Dompet perkakasan ialah dompet selamat yang direka untuk penyimpanan jangka panjang.
+  software:
+    title: Dompet Perisian
+    description: Dompet perisian ialah peranti Desktop atau Mudah Alih yang direka untuk storan jangka pendek.
+  other:
+    title: Produk Dompet Lain
+    description: Produk ini adalah percuma kepada dompet kripto seperti penyimpanan benih pemulihan.
