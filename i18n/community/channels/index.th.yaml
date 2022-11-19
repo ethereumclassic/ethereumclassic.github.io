@@ -56,7 +56,16 @@ items:
       forum Archived BitcoinTalk:
         name: เก็บถาวร BitcoinTalk
   Media:
+    title: ช่องวิดีโอและเพลย์ลิสต์
     items:
+      media ETCfInv:
+        name: ETC สำหรับนักลงทุน
+      media EthereumClassicCC:
+        name: การโทรชุมชน ETC
+      media EthereumClassic:
+        name: ประกาศและการอัปเดต ETC (Odysee)
+      media EthereumClassicNews:
+        name: ข่าว ETC (โอดิสซี)
       media Etherplan:
         name: อีเธอร์แพลน
       media EVM61:
