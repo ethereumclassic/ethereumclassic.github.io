@@ -1,0 +1,73 @@
+title: 开发者工具
+seo: 一系列的工具，以提高Ethereum Classic应用开发和开发经验。
+description: |
+  本页包含了在Ethereum Classic之上开发应用程序的人可能会发现有用的资源列表。请务必同时查看[Ethereum.org开发者环境](https://ethereum.org/en/developers/local-environment/)页面，因为其中许多工具在为Ethereum Classic开发时仍然相关。
+items:
+  prices:
+    title: 价格来源
+    description: 这些网站和API提供ETC的价格，供你的应用程序使用。
+  processors:
+    title: 支付处理机构
+    description: 这些API可以用来在你的网站或应用程序中接受ETC支付。
+  dex:
+    title: 发展经验
+    description: 可以帮助开发Ethereum Classic应用程序的开发者工具的非详尽选择，包括作为IDE、库、测试框架、调试器，*等等*。
+    items:
+      BUIDL IDE:
+        description: Second State BUIDL IDE是一个基于网络的IDE，不需要下载或安装软件。它为智能合约和dapp开发者提供了一个一站式的开发和部署环境。
+      Dappkit:
+        description: 一个与分类账无关的、高性能的基础设施和库，供开发者建立和扩展去中心化的应用程序。简而言之，就是合作式的Dapp的Firebase。
+      Embark Framework:
+        description: 使用Ethereum、IPFS和其他平台的无服务器去中心化应用程序的框架。
+      Emerald Platform:
+        description: 为ETC区块链建立Dapp的平台。
+      ESerialize:
+        description: 这个模块的目标是为Ethereum Stack提供简单的函数来序列化和反序列化数据。
+      Ethereum JSON-RPC API:
+        description: 基于EVM的区块链客户端必须实现的JSON-RPC方法的规范。
+      Eth Fiddle:
+        description: 智能合约的在线编辑器。
+      EVM-LLVM:
+        description: 开发人员不仅可以使用Solidity以外的大量编程语言（Rust用于智能合约！）来针对Ethereum虚拟机（EVM），他们还可以立即受益于围绕LLVM基础设施构建的各种开发工具。
+      Ganache:
+        description: 个人以太坊区块链来运行测试。
+      Jade Suite:
+        description: Jade工具套件使开发者能够在基于EVM的区块链（如Ethereum Classic）之上创建点对点的去中心化应用程序。
+      Mythx:
+        description: MythX是Ethereum智能合约的首要安全分析服务。我们的使命是确保开发团队避免代价高昂的错误，使以太坊成为一个更安全和值得信赖的平台。
+      Open-RPC:
+        description: OpenRPC规范为JSON-RPC 2.0 APIs定义了一个标准的、与编程语言无关的接口描述。
+      OpenZeppelin:
+        description: 经过战斗考验的安全、可重复使用的智能合约框架。
+      Quorum:
+        description: Quorum是一个开源的区块链平台，它结合了公共以太坊社区的创新和支持企业需求的增强。
+      Remix Online IDE:
+        description: 一个有用的浏览器IDE，可以编译和发布智能合约到各种Ethereum网络。包括一个linter。
+      Signatory:
+        description: 以太坊堆栈的一个离线交易和消息签名器。
+      SOLL:
+        description: LLVM编译器终于来到了Solidity。有了它，我们可以在多个区块链虚拟机上轻松创建智能合约。以太坊经典上的EVM和ETH 2.0的eWASM是我们首批支持的。
+      Sputnikvm:
+        description: SputnikVM是Ethereum虚拟机（EVM）的一个开源独立实现。它的目的是为不同的基于Ethereum的区块链提供一个高效、可插拔的虚拟机。
+      Truffle Suite:
+        description: 一个世界级的开发环境、测试框架和资产管道，用于使用以太坊虚拟机（EVM）的区块链，旨在使开发者的生活更轻松。
+  nodeTools:
+    title: 节点部署
+    description: 这些工具使得为生产部署旋转一个节点集群或用公共数据集执行数据科学变得容易。
+    items:
+      Bloq Cloud:
+        description: BloqCloud提供高度优化的、始终可用的区块链网络访问。根据您的需求快速连接并轻松扩展--无需担心管理基础设施。
+      DappNode:
+        description: DAppNode为运行节点、DApps和托管P2P网络和经济提供便利。
+      Ethercluster:
+        description: Ethercluster是一个开源的以太坊虚拟机（EVM）远程程序调用（RPC），免费提供Ethereum Classic（ETC）和Kotti端点。
+      GetBlock:
+        description: GetBlock是一个为主要加密货币的节点提供连接的服务。他们支持JSON-RPC、REST和WebSockets等工具，这有利于与区块链直接同步。不需要自己运行一个节点，该平台允许其客户通过一个完整的节点连接到区块链，而不需要支付费用。
+      Google BigQuery:
+        description: 谷歌云发布了由Ethereum Classic的区块链交易历史组成的数据集，以帮助你更好地了解加密货币。还包括一套查询和视图，将所有区块链数据集映射到复式账本数据结构，实现多链元分析，以及与传统金融记录处理系统的整合。
+      Raspberry Pi Node:
+        description: 关于如何在Raspberry Pi上设置Ethereum Classic节点的详细指南。
+      Rivet Cloud:
+        description: 无限扩展、高度可用的Ethereum和Ethereum Classic端点，真正做到了只管用。
+      QuikNode:
+        description: QuikNodes很简单，一直在运行，有一个快速的互联网连接，可以快速同步区块链，而且你永远不用担心磁盘空间用完。
