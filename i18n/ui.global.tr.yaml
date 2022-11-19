@@ -24,6 +24,7 @@ contributors: "Bu sayfa kısmen aşağıdaki katkıda bulunanlar sayesinde var o
 allLanguages: Tüm Diller
 noResults: Sonuç Yok
 netlify: Bu site Netlify tarafından desteklenmektedir
+crowdin: Crowdin ile yerelleştirme
 metaMask: MetaMask'a ETC ekleyin
 helpTranslate: Bu web sitesinin çevrilmesine yardımcı olarak ETC'yi destekleyin!
 noItems: Üzgünüz, bu sayfa boş!
