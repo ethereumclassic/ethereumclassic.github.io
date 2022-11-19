@@ -74,6 +74,13 @@ module.exports = {
       },
     },
     {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "i18n",
+        path: "./i18n/",
+      },
+    },
+    {
       resolve: `gatsby-plugin-mdx`,
       options: {
         extensions: [".md"],
@@ -107,7 +114,8 @@ module.exports = {
       options: {
         locales,
         defaultLocale,
-        instanceType: "content",
+        contentType: "content",
+        i18nType: "i18n",
         templatesDir: `${process.env.PWD}/src/templates/`,
         collectionKey: "collection",
         noFallbackDirs: ["blog"],
