@@ -1,9 +1,9 @@
+require("dotenv").config({ path: ".env" });
+
 const siteUrl = "https://ethereumclassic.org";
 const lastUpdated = new Date("2022-02-22"); // passed to sitemap, shows roughtly last time page was updated unless overridden
 
 const { locales, defaultLocale } = require("./configs/locales");
-
-require("dotenv").config({ path: ".env" });
 
 module.exports = {
   flags: {
@@ -15,7 +15,6 @@ module.exports = {
     siteUrl,
     socialImage: "/etc-social-card.png",
     redirects: require("./configs/redirects"),
-    i18nDev: !!process.env.I18N_DEV,
     lastUpdated,
   },
   plugins: [
@@ -75,6 +74,13 @@ module.exports = {
       },
     },
     {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "i18n",
+        path: "./i18n/",
+      },
+    },
+    {
       resolve: `gatsby-plugin-mdx`,
       options: {
         extensions: [".md"],
@@ -88,6 +94,7 @@ module.exports = {
               maxWidth: 780,
               showCaptions: true,
               backgroundColor: "white",
+              linkImagesToOriginal: false,
             },
           },
         ],
@@ -107,7 +114,8 @@ module.exports = {
       options: {
         locales,
         defaultLocale,
-        instanceType: "content",
+        contentType: "content",
+        i18nType: "i18n",
         templatesDir: `${process.env.PWD}/src/templates/`,
         collectionKey: "collection",
         noFallbackDirs: ["blog"],

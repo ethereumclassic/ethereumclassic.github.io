@@ -1,0 +1,35 @@
+title: 네트워크 모니터
+seo: Ethereum Classic 네트워크의 상태 및 발행, 트랜잭션 수 및 채굴 수익성과 같은 일반 통계를 확인하기 위한 도구입니다.
+description: |
+  아래는 이더리움 클래식과 관련된 광범위한 메트릭에 대한 통찰력을 제공하는 도구 모음입니다. 이들은 함께 네트워크의 상태와 상태에 대한 전체 스펙트럼 분석을 제공합니다.
+items:
+  monitors:
+    items:
+      etc-network.info:
+        description: etc-network.info에서 제공하는 서비스를 탐색하는 데 도움이 되는 작은 사이트입니다.
+      ETCNodes:
+        description: 이더리움 클래식 메인넷 노드 탐색기.
+      2Miners:
+        description: Ethereum Classic 통계 대시보드는 온라인 노드에서 직접 캡처한 가장 중요한 블록체인 통계, 그래프 및 기타 성능 메트릭을 제공합니다.
+      CoinMetrics:
+        description: 가격, 해시레이트, 주소 수, 거래 수 등과 같은 다양한 지표를 다루는 상세한 과거 데이터
+      CoinWarz:
+        description: Ethereum Classic 마이닝 정보 - Ethereum Classic 마이닝 계산기, Ethereum Classic 마이닝 하드웨어 목록, 과거 차트가 있는 Ethereum Classic 난이도, Ethereum Classic 해시율 차트 및 현재 Ethereum Classic 가격을 포함합니다.
+      Emerald Insights:
+        description: Emerald Insights는 Emerald에서 사용하는 암호화폐에 대한 통계, 모니터링 및 고급 정보를 제공하는 Emerald 프로젝트의 일부입니다.
+      ForkWatch:
+        description: ForkWatch는 NiceHash 시장, 특히 BTC/TH/Day 임대 가격이 변경될 때 특정 알고리즘의 이상에 대해 경고하는 NiceHash 모니터링 도구입니다. 이는 특정 네트워크에 대한 공격에 대해 잠재적으로 마이닝 파워가 임대되는 경우 특정 코인의 이해 관계자에게 경고하는 데 도움이 됩니다.
+      MiningPoolStats:
+        description: 블록 배포, 해시율 기록 등을 포함하여 ETC의 마이닝 풀 상태에 대한 실시간 통계
+      Nanopool:
+        description: 역사적 난이도, 난이도, 블록 시간 및 가격.
+      PoolDetective:
+        description: 채굴 풀은 작업 증명 암호화폐에서 중요한 역할을 합니다. 그러나 광부에게 작업하라고 지시하는 내용을 누가 모니터링합니까? MIT의 디지털 통화 이니셔티브(Digital Currency Initiative)는 2019년 여름에 마이닝 풀의 동작을 모니터링하기 위한 프로젝트를 시작했습니다.
+      TokenView:
+        description: 표준 과거 네트워크 통계.
+      WhatToMine:
+        description: Ethereum Classic 및 기타 체인 채굴을 위한 수익성 계산기.
+      Kotti Stats:
+        description: Ethereum Classic Kotti Testnet의 네트워크 통계.
+      ua-mining:
+        description: 이더리움 클래식 통계 대시보드.

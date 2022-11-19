@@ -1,3 +1,5 @@
+// TODO refactor based on new file structure
+
 const fs = require("fs");
 const yaml = require("js-yaml");
 const {
@@ -13,14 +15,13 @@ const cache = {
 };
 
 function importFiles(fileList = []) {
-  return fileList.reduce((o, file) => {
-    const key = file.split("/").pop().split(".")[0];
+  return fileList.reduce((o, { absolutePath }) => {
+    const key = absolutePath.split("/").pop().split(".")[0];
     // LODO replace with configurable path
-    const loc = `${process.env.PWD}/content/${file}`;
-    const cached = cache.files[loc];
-    const data = cached || yaml.load(fs.readFileSync(loc, "utf-8"));
+    const cached = cache.files[absolutePath];
+    const data = cached || yaml.load(fs.readFileSync(absolutePath, "utf-8"));
     if (!cached && data) {
-      cache.files[loc] = data;
+      cache.files[absolutePath] = data;
     }
     if (key === "index") {
       return { ...o, ...data };
@@ -105,7 +106,8 @@ exports.createPages = async (
   { graphql, actions: { createPage } },
   {
     locales,
-    instanceType,
+    contentType,
+    i18nType,
     collectionKey,
     templatesDir,
     defaultLocale,
@@ -113,35 +115,37 @@ exports.createPages = async (
   }
 ) => {
   cache.files = {}; // reinit cache each time
+  // source absolutely, get the i18n files too
   const {
     data: {
       files: { edges: files },
     },
   } = await graphql(`
     query {
-      files: allFile(filter: { sourceInstanceName: { eq: "${instanceType}" } }) {
+      files: allFile(filter: { sourceInstanceName: { regex: "/${contentType}|${i18nType}/" } }) {
         edges {
           node {
             id
             relativePath
             relativeDirectory
+            absolutePath
           }
         }
       }
     }
   `);
-
+  // console.log(files);
   // Get all content files, then group by directory
   const groupedFiles = files.reduce(
-    (o, { node: { relativeDirectory, relativePath } }) => {
-      // skip collection directories TODO; translations
+    (o, { node: { relativeDirectory, relativePath, absolutePath } }) => {
+      // skip collection directories
       if (relativePath.includes(`/${collectionKey}/`)) {
         return o;
       }
       return {
         ...o,
         [relativeDirectory]: (o[relativeDirectory] || []).concat([
-          relativePath,
+          { relativePath, absolutePath },
         ]),
       };
     },
@@ -162,14 +166,15 @@ exports.createPages = async (
 
   function matchFile({ file, locale, global, ext }) {
     //quickly filter out some obvious things for performance
-    if (!file.endsWith(`.${ext}`)) {
+    const { relativePath } = file;
+    if (!relativePath.endsWith(`.${ext}`)) {
       return false;
     }
-    const isGlobal = file.includes(`.global.`);
+    const isGlobal = relativePath.includes(`.global.`);
     if ((!global && isGlobal) || (global && !isGlobal)) {
       return false;
     }
-    const fileName = file.split("/").pop();
+    const fileName = relativePath.split("/").pop();
     const [name] = fileName.split(".");
     // do exact pattrern matches to weed out `collection` or other extensions / misplaced files
     if (locale === defaultLocale) {
@@ -213,10 +218,11 @@ exports.createPages = async (
     );
     // transform path to gatsby-queriable slug
     if (mdFile) {
-      if (mdFile.endsWith("/index.md")) {
-        return `${mdFile.split("/").slice(0, -1).join("/")}/`;
+      const { relativePath } = mdFile;
+      if (relativePath.endsWith("/index.md")) {
+        return `${relativePath.split("/").slice(0, -1).join("/")}/`;
       } else {
-        return `${mdFile.split(".").slice(0, -1).join(".")}`;
+        return `${relativePath.split(".").slice(0, -1).join(".")}`;
       }
     }
     return null;

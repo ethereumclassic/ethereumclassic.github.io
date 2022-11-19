@@ -1,0 +1,18 @@
+title: Λογισμικό ανθρακωρύχων
+seo: Ένας κατάλογος πακέτων λογισμικού που μπορούν να χρησιμοποιηθούν για την εξόρυξη του κρυπτονομίσματος ETC στο Ethereum Classic.
+description: "Ο αλγόριθμος εξόρυξης Proof-of-Work για το δίκτυο Ethereum Classic είναι [ETCHash](https://github.com/eth-classic/etchash) από τις 28 Νοεμβρίου 2020."
+items:
+  table:
+    columnItems:
+      name:
+        name: Όνομα
+      windowsAmd:
+        name: Windows AMD
+      windowsNvidia:
+        name: Windows Nvidia
+      linuxAmd:
+        name: Linux AMD
+      linuxNvidia:
+        name: Linux Nvidia
+      guide:
+        text: Οδηγός

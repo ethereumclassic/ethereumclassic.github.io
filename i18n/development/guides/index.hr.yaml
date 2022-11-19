@@ -1,0 +1,156 @@
+title: Vodiči za razvoj
+seo: Odabir vodiča i objašnjenja za početnike i napredne programere, s objašnjenjem kako implementirati na Ethereum Classic.
+description: |
+  Proces izrade i implementacije pametnih ugovora na Ethereum Classic isti je kao i za Ethereum. Jedan od ciljeva Ethereum Classica je održavanje kompatibilnosti s ETH-om, tako da se bilo koji ugovor implementiran u Ethereum može lako ponovno rasporediti u Ethereum Classic.
+
+  To znači da se većina postojećih vodiča, biblioteka i razvojnih alata koji postoje na Ethereumu mogu koristiti i s Ethereum Classicom. U većini slučajeva, jedina razlika je promjena opcije konfiguracije za implementaciju na Ethereum Classic, a ne na testnu mrežu ili Ethereum mainnet.
+
+  Glavna iznimka su interakcije sa sustavima trećih strana kao što su Stablecoin ili Oracles, koji su raspoređeni samo na ETH, a još nisu na ETC-u. Polako, ali sigurno, ETC verzije ovih usluga bit će migrirane, možda čak i vi! Možete pratiti koje su usluge trenutno dostupne u [odjeljku aplikacija](/services/apps).
+
+  Iz tog razloga toplo preporučujemo da istražite [Resurse za razvojne programere na web stranici Ethereum.org](https://ethereum.org/en/developers/), koji sadrže mnoštvo ažuriranih informacija. Osim toga, veze na ovoj stranici sadrže vodiče specifične za razvoj na Ethereum Classic.
+
+  Također možete pronaći video upute o razvoju uz Ethereum Classic u odjeljku [Videozapisi > Razvoj](/videos/development).
+items:
+  tutorials:
+    title: Početak rada
+    description: Ovdje je neiscrpan popis nekih korisnih vodiča i uputa za početak razvoja Ethereum Classica.
+    items:
+      Kotti Testnet Setup Guide:
+        name: Vodič za postavljanje Kotti Testneta
+        description: Pokrenite Kotti TestNet u 1 minuti s Jade Desktopom
+      Signatory Client:
+        name: Klijent potpisnik
+        description: Video Demo opisuje Potpisnog klijenta - hardverski novčanik "uradi sam" koji se može instalirati na jednopločno računalo, poput Raspberry PI.
+      Besu Client Setup Guide:
+        name: Vodič za postavljanje klijenta Besu
+        description: Počnite koristiti Hyperledger Besu.
+      Raspberry Pi Node Setup Guide:
+        name: Vodič za postavljanje Raspberry Pi čvora
+        description: Detaljan vodič o tome kako postaviti Ethereum čvor na Raspberry Pi
+      CryptoZombies:
+        name: KriptoZombiji
+        description: Naučite kodirati Ethereum DApps izgradnjom vlastite igre.
+      Hitchhikers Guide to Smart Contracts:
+        name: Vodič za autostopere kroz pametne ugovore
+        description: Izgradite pametne ugovore na Ethereumu koristeći Truffle, Test-RPC i Solidity.
+      A 101 Noob Intro to Programming Smart Contracts on Ethereum:
+        name: 101 Noob uvod u programiranje pametnih ugovora na Ethereumu
+        description: Vodič za pametne ugovore s fokusom na izgradnju razumijevanja prije koda.
+      Setup MetaMask for Ethereum Classic:
+        name: Postavite MetaMask za Ethereum Classic
+        description: Kako postaviti podršku za Ethereum Classic na MetaMasku s Etherclusterom
+      Parity Tutorial:
+        name: Vodič za Parity DApp
+        description: Vodič od 10 dijelova o tome kako napisati DApps.
+      Start Ethereum DApp Development Career:
+        name: Započnite razvojnu karijeru za Ethereum DApp
+        description: Neformalni vodič za početak razvoja DApps.
+      Full Stack DApp Tutorial Series:
+        name: Full Stack DApp serija udžbenika
+        description: Puni skup DApps koji koriste različite okvire.
+      Ethereum Builders Guide:
+        name: Vodič za graditelje Ethereuma
+        description: Gitbook za izgradnju na Ethereumu koji ide dublje u razumijevanje tehničke funkcionalnosti.
+      Introduction to OpenRPC Webinar:
+        name: Uvod u OpenRPC webinar
+        description: U ovom videu naučit ćete osnove JSON-RPC i OpenRPC.
+      Learning Solidity Tutorial Series:
+        name: Serija uputa za učenje Solidityja
+        description: Izrada pametnih ugovora s Metamaskom i Remix IDE.
+      End to End DApp Tutorial:
+        name: Vodič za DApp od kraja do kraja
+        description: Stvorite DApp za kockanje koristeći Metamask, Truffle, Remix, React i IPFS.
+      How to write secure smart contracts:
+        name: Kako napisati sigurne pametne ugovore
+        description: Pregled programskih jezika i najboljih praksi koji će vam pomoći u pisanju sigurnih pametnih ugovora.
+      Programming Decentralized Money:
+        name: Programiranje decentraliziranog novca
+        description: Jednostavan vodič za izradu aplikacija za pametne ugovore.
+      How to create a token and ICO on Ethereum Classic:
+        name: Kako stvoriti token i ICO na Ethereum Classic
+        description: Nakon što prođete kroz ovaj vodič, naučit ćete kako stvoriti ERC223 token na Ethereum Classic blockchainu i ICO za ovaj token.
+      How to use Brave Browser with Ethereum dApps:
+        name: Kako koristiti Brave Browser s Ethereum dApps
+        description: Brave Browser je najjednostavniji i najsigurniji način za pristup DApps na Ethereum blockchainu. Web 3.0 je konačno dostupan svima!
+      Vyper and Brownie Contract Development on EVM Chains:
+        name: Razvoj ugovora Vyper i Brownie na EVM lancima
+        description: Kako bismo proslavili integraciju ETC-a s Vyperom, odlučili smo napraviti pametni ugovor za implementaciju Vypera na ETC.
+      Adventures in Classical Ether:
+        name: Avanture u klasičnom eteru
+        description: Izgradite svoj prvi pametni ugovor za ETC.
+      Kotti Solidity ETC Oh My:
+        name: Kotti, Solidity, ITD, Oh Bože!
+        description: Ovaj vodič ilustrira početnu konfiguraciju za Kotti testnet Ethereum Classic i specifičnu verziju Solidityja za ETC<>ETH kompatibilan razvoj dappa. Kotti je preporučena testna mreža za dapp programere. Mordor se preporučuje za testiranje razine protokola.
+      How to contribute to Mordor Testnet:
+        name: Kako doprinijeti Mordor Testnetu
+        description: Ovaj vodič će vas naučiti kako rudariti testnet ETC i pokrenuti vlastiti lokalni block explorer s Expeditionom. Kotti je preporučena testna mreža za dapp programere. Mordor se preporučuje za testiranje razine protokola.
+      Migrate to Hyperledger Besu - Switch from OpenEthereum or Multi-Geth:
+        name: Preselite se na Hyperledger Besu - prebacite se s OpenEthereuma ili Multi-Geth-a
+        description: Ovaj bi vam vodič trebao pomoći s migracijom s OpenEthereum ili Multi-Geth klijenata na Hyperledger Besu klijent.
+      Ethereum Classic on Raspberry Pi:
+        name: Ethereum Classic na Raspberry Pi
+        description: Ovaj će vodič biti podijeljen u nekoliko dijelova i dokumentirat će moja istraživanja IoT-a, ETC-a i svega što se tiče Raspberriesa.
+      Ethercluster An Open-Source Alternative to Infura:
+        name: Ethercluster, alternativa Infuri otvorenog koda
+        description: Vodič za izgradnju vlastite skalabilne RPC infrastrukture temeljene na Ethereumu.
+      Analyzing Ethereum Classic with Google BigQuery:
+        name: Analiza Ethereuma Classic s Google BigQueryjem
+        description: Vodič za korištenje BigQueryja za analizu Ethereum Classic. Vodič koristi primjer kvantificiranja decentralizacije u Ethereum Classic.
+      Creating Your Own Smart Contract Languages Using LLVM:
+        name: Stvaranje vlastitih jezika pametnog ugovora pomoću LLVM-a
+        description: Ovaj članak pokazuje kako možemo koristiti EVM-LLVM za izradu jezika igračke Kaleidoscope za generiranje pametnih ugovora koji se mogu implementirati u blockchain.
+      ERC20 to ERC223 upgrade path:
+        name: Put nadogradnje ERC20 na ERC223
+        description: ERC223 je moderni standard tokena koji ima jeftinije naknade i štiti investitore od gubitka tokena. Tim Saturn pokazuje kako nadograditi postojeće ERC20 tokene.
+      Continuity for an Augmented world:
+        name: Kontinuitet za prošireni svijet
+        description: Vodič za izgradnju decentraliziranog sustava oglašavanja s Ethereum Classic.
+      Deployment Automation for Goerli testnet in 10 minutes:
+        name: Automatizacija implementacije za Goerli testnet u 10 minuta
+        description: Kratki vodič za brzu implementaciju nove Goerli Proof-of-Authority mreže za testiranje više klijenata. Ovaj se vodič može primijeniti na Kotti testnet Ethereum Classic.
+      Monitoring in PegaSys Plus:
+        name: Praćenje u PegaSys Plus
+        description: Kratki vodič za postavljanje nadzorne ploče za nadzor mreže od strane PegaSys.
+      Using OpenRPC Mock Server to test against an Ethereum JSON-RPC API:
+        name: Korištenje OpenRPC lažnog poslužitelja za testiranje protiv Ethereum JSON-RPC API-ja
+        description: Open-rpc-mock-poslužitelj omogućuje razvojnim programerima da pokreću i testiraju svoje API-je u lokalnom i laganom okruženju.
+      Introduction to Pristine An open standard and template for open-source projects:
+        name: Uvod u Pristine — otvoreni standard i predložak za projekte otvorenog koda.
+        description: Pristine je repozitorij unutar sebe koji sadrži konvencije i specifikacije za projekt za komuniciranje problema koji rješavate, olakšavanje uključivanja, izgradnju i korištenje alata koji se mogu sastaviti, promicanje doprinosa i angažmana otvorenog koda te promicanje problema i rasprava o značajkama na samom Githubu.
+      Jade Suite Overview and Workshop:
+        name: Jade Suite Pregled i radionica
+        description: Učinite razvoj i konfiguraciju Ethereum Classic aplikacija jednostavnim i brzim pomoću Jade Suite of Tools
+      Various Ethereum Solidity Tutorials:
+        name: Razni Ethereum i Solidity vodiči
+        description: Kako izraditi pametne ugovore, implementirati vlastite DApps, stvoriti tokene i još mnogo toga — od početničkih do srednjih tema.
+  advanced:
+    title: Napredni koncepti
+    description: Tehnologija iza blockchaina je duboka i zahvaća mnoge domene. Ovdje je mali izbor članaka koji će vam pomoći da započnete svoje putovanje niz zečju rupu.
+    items:
+      2018-03-15-signatures:
+        name: Šetnja kroz Ethereum Classic šifru digitalnog potpisa
+        description: Digitalni potpisi osiguravaju transakcije. To uključuje kriptografiju eliptične krivulje i algoritam digitalnog potpisa eliptične krivulje (ECDSA).
+      2018-03-19-rlp:
+        name: Rekurzivno kodiranje prefiksa duljine
+        description: Ethereum Classic (ETC) koristi rekurzivni prefiks duljine (RLP) kodiranje za pohranu i slanje struktura podataka.
+      2018-01-31-difficulty:
+        name: Jednostavna interpretacija parametra težine rudarenja Ethereum Classic
+        description: Parametar težine rudarenja može se nekima činiti tajanstvenim. Ovaj članak pokazuje da ima prekrasno tumačenje koje je lako razumjeti.
+      2018-01-26-implicit-info:
+        name: Implicitne informacije Ethereum Classic Blockchaina
+        description: Početniku se može činiti da neke potrebne informacije nedostaju u Ethereum Classic (ETC) blockchainu. Te su informacije implicitno sadržane u blockchainu što može dovesti do zabune.
+      2017-12-04-light-clients:
+        name: Kako Ethereum Classic Light klijenti mogu SIGURNO raditi
+        description: Ethereum Classic (ETC) lagani klijenti su klijenti koji ne održavaju kopiju cijelog ETC blockchaina.
+      2017-04-28-blocks:
+        name: "Objašnjenje ETC blokova: tri kategorije"
+        description: Blokovi se mogu podijeliti na zaglavlja, popise transakcija i popise zaglavlja strica.
+      2017-04-18-keys:
+        name: "Javni i privatni ključevi: Malo prosvjetljenje"
+        description: Privatni ključevi koriste se za prijenos sredstava, instaliranje programa i pokretanje programa.
+      2017-03-30-accounts-and-states:
+        name: Objašnjenje računa i stanja
+        description: Ethereum Classic (ETC) blockchain omogućuje nezaustavljivo, pouzdano, revizijsko, pouzdano i sigurno svjetsko računalo. Za razumijevanje ovog sustava važno je razumjeti račune i stanja.
+      2017-02-10-hashes:
+        name: "Hashes: Uvod i zašto su temeljni za Internet i Blockchains"
+        description: Izraz 'jednosmjerna hash funkcija' može zvučati tajanstveno i štreberski, ali hash funkcije su radni konji moderne kriptografije.

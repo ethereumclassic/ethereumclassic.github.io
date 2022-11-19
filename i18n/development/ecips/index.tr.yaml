@@ -1,0 +1,32 @@
+items:
+  table:
+    number: Sayı
+    author: Yazarlar
+    columnItems:
+      title:
+        name: Başlık
+      author:
+        name: Yazarlar
+    items:
+      Delay Difficulty Bomb Explosion:
+        title: Gecikme Zorluğu Bomba Patlaması
+      Long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks:
+        title: İşlem spam saldırılarını azaltmak için IO ağırlıklı operasyonlar için uzun vadeli gaz maliyeti değişiklikleri
+      Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule:
+        title: Para Politikası ve Ethereum Classic Emisyon Programında Son Değişiklik
+      Monetary policy rounding specification:
+        title: Para politikası yuvarlama spesifikasyonu
+      Remove Difficulty Bomb:
+        title: Zorluk Bombasını Kaldır
+      Clique proof-of-authority consensus protocol:
+        title: Clique yetki kanıtı mutabakat protokolü
+      Status Codes:
+        title: Durum Kodları
+      Atlantis EVM and Protocol Upgrades:
+        title: Atlantis EVM ve Protokol Yükseltmeleri
+      Agharta EVM and Protocol Upgrades:
+        title: Agharta EVM ve Protokol Yükseltmeleri
+      Phoenix EVM and Protocol Upgrades:
+        title: Phoenix EVM ve Protokol Yükseltmeleri
+      Calibrate Epoch Duration:
+        title: Dönem Süresini Kalibre Et

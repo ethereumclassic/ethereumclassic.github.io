@@ -1,0 +1,18 @@
+title: Madenci Yazılımı
+seo: Ethereum Classic'te kripto para birimi ETC madenciliği için kullanılabilecek yazılım paketlerinin bir listesi.
+description: "Ethereum Classic ağı için Proof-of-Work madencilik algoritması 28 Kasım 2020'den beri [ETCHash](https://github.com/eth-classic/etchash) adresindedir."
+items:
+  table:
+    columnItems:
+      name:
+        name: İsim
+      windowsAmd:
+        name: Windows AMD
+      windowsNvidia:
+        name: Windows Nvidia
+      linuxAmd:
+        name: Linux AMD
+      linuxNvidia:
+        name: Linux Nvidia
+      guide:
+        text: Kılavuz

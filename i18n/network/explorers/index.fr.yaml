@@ -1,0 +1,13 @@
+title: Explorateurs de la chaîne de blocs
+seo: Une liste de services d'exploration de la blockchain pour Ethereum Classic et les différents testnets ETC.
+description: |
+  Les explorateurs de blockchain offrent un moyen pratique d'obtenir un aperçu de l'état actuel et passé d'une chaîne donnée, en vous permettant d'inspecter le contenu des blocs, des transactions et des soldes de comptes.
+
+  Les explorateurs tiers suivants vérifient indépendamment l'état d'Ethereum Classic et de ses testnets. Ils sont généralement utilisés pour vérifier que les transactions ont été diffusées et confirmées, mais beaucoup offrent des fonctionnalités plus avancées telles que l'historique des soldes de comptes, la vérification des contrats, et plus encore.
+items:
+  explorers:
+    columnItems:
+      kotti:
+        text: Kotti
+      mordor:
+        text: Mordor

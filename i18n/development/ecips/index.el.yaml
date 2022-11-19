@@ -1,0 +1,32 @@
+items:
+  table:
+    number: Αριθμός
+    author: Συγγραφείς
+    columnItems:
+      title:
+        name: Τίτλος
+      author:
+        name: Συγγραφείς
+    items:
+      Delay Difficulty Bomb Explosion:
+        title: Καθυστέρηση δυσκολίας Έκρηξη βόμβας
+      Long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks:
+        title: Μακροπρόθεσμες αλλαγές στο κόστος αερίου για λειτουργίες με μεγάλο βάρος IO για τον μετριασμό των επιθέσεων spam συναλλαγών
+      Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule:
+        title: Νομισματική πολιτική και τελική τροποποίηση του χρονοδιαγράμματος εκπομπών Ethereum Classic
+      Monetary policy rounding specification:
+        title: Προδιαγραφές στρογγυλοποίησης νομισματικής πολιτικής
+      Remove Difficulty Bomb:
+        title: Αφαίρεση βόμβας δυσκολίας
+      Clique proof-of-authority consensus protocol:
+        title: Πρωτόκολλο συναίνεσης με απόδειξη εξουσιοδότησης Clique
+      Status Codes:
+        title: Κωδικοί κατάστασης
+      Atlantis EVM and Protocol Upgrades:
+        title: Atlantis EVM και αναβαθμίσεις πρωτοκόλλου
+      Agharta EVM and Protocol Upgrades:
+        title: Agharta EVM και αναβαθμίσεις πρωτοκόλλου
+      Phoenix EVM and Protocol Upgrades:
+        title: Phoenix EVM και αναβαθμίσεις πρωτοκόλλου
+      Calibrate Epoch Duration:
+        title: Βαθμονόμηση διάρκειας εποχής

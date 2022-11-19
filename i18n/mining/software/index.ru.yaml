@@ -1,0 +1,18 @@
+title: Программное обеспечение Miner Software
+seo: Список программных пакетов, которые можно использовать для добычи криптовалюты ETC на Ethereum Classic.
+description: "Алгоритм Proof-of-Work для майнинга в сети Ethereum Classic - [ETCHash](https://github.com/eth-classic/etchash) с 28 ноября 2020 года."
+items:
+  table:
+    columnItems:
+      name:
+        name: Имя
+      windowsAmd:
+        name: Windows AMD
+      windowsNvidia:
+        name: Windows Nvidia
+      linuxAmd:
+        name: Linux AMD
+      linuxNvidia:
+        name: Linux Nvidia
+      guide:
+        text: Руководство

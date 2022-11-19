@@ -1,0 +1,24 @@
+title: Pertukaran
+seo: Senarai pertukaran terpusat dan diminimumkan kepercayaan, DEX, pasaran NFT dan pemproses pembayaran yang menyokong DLL.
+description: |
+  Halaman ini mengandungi senarai perkhidmatan yang membolehkan anda membeli atau berdagang DLL.
+
+  ## Senarai Pertukaran Tidak Lengkap
+
+  Pertukaran berikut semuanya menyokong Ethereum Classic. Mereka dipisahkan kepada 3 kategori; meminimumkan kepercayaan, berpusat, dan rantaian silang.
+
+  **Sila lakukan penyelidikan anda sendiri mengenai pertukaran yang anda pilih untuk mendapatkan Ethereum Classic. Penyenaraian di tapak ini bukan merupakan pengesahan perkhidmatan pertukaran oleh projek Ethereum Classic.**
+items:
+  Trust-Minimizing Exchanges:
+    title: Pertukaran Meminimumkan Amanah
+    description: Pertukaran berikut mungkin bukan pertukaran terdesentralisasi *sepenuhnya, tetapi beroperasi dengan cara pemusatan yang kurang daripada bahagian terpusat di bawah. Kemungkinan produk ini menggunakan kontrak pintar bukan jagaan untuk memudahkan pertukaran.
+  Centralized Spot Markets:
+    title: Pasaran Spot Berpusat
+  Centralized Derivative Markets:
+    title: Pasaran Derivatif Berpusat
+  Cross-Chain Swap Exchanges:
+    title: Pertukaran Swap Rentas Rantaian
+    description: "*Nota:* Pertukaran Pertukaran Rentas Rantaian biasanya menawarkan kadar yang lebih teruk daripada Pertukaran Berpusat."
+  NFT Marketplaces:
+    title: Pasaran NFT
+    description: Pasaran NFT berikut mungkin bukan pasar terdesentralisasi *sepenuhnya.

@@ -1,0 +1,156 @@
+title: คู่มือการพัฒนา
+seo: บทช่วยสอนและตัวอธิบายที่คัดสรรมาสำหรับทั้งผู้เริ่มต้นและนักพัฒนาขั้นสูง พร้อมคำอธิบายเกี่ยวกับวิธีการปรับใช้กับ Ethereum Classic
+description: |
+  กระบวนการสร้างและปรับใช้ Smart Contracts กับ Ethereum Classic นั้นเหมือนกับขั้นตอนของ Ethereum หนึ่งในเป้าหมายของ Ethereum Classic คือการรักษาความเข้ากันได้กับ ETH เพื่อให้สัญญาใดๆ ที่ปรับใช้กับ Ethereum สามารถนำไปใช้กับ Ethereum Classic ใหม่ได้อย่างง่ายดาย
+
+  ซึ่งหมายความว่าบทช่วยสอน ไลบรารี และเครื่องมือการพัฒนาที่มีอยู่ส่วนใหญ่ที่มีอยู่บน Ethereum สามารถใช้กับ Ethereum Classic ได้เช่นกัน ในกรณีส่วนใหญ่ ข้อแตกต่างเพียงอย่างเดียวคือการเปลี่ยนตัวเลือกการกำหนดค่าเพื่อปรับใช้กับ Ethereum Classic แทนที่จะเป็น testnet หรือ Ethereum mainnet
+
+  ข้อยกเว้นหลักคือการโต้ตอบกับระบบของบุคคลที่สาม เช่น Stablecoins หรือ Oracles ซึ่งปรับใช้กับ ETH เท่านั้นและยังไม่ได้ใช้กับ ETC ช้า แต่แน่นอน บริการเหล่านี้ในเวอร์ชัน ETC จะถูกโอนย้าย แม้กระทั่งคุณเอง! คุณสามารถติดตามว่าปัจจุบันมีบริการใดบ้างใน [ส่วนแอพ](/services/apps)
+
+  ด้วยเหตุนี้ เราขอแนะนำอย่างยิ่งให้สำรวจ [แหล่งข้อมูลสำหรับนักพัฒนาซอฟต์แวร์บนเว็บไซต์ Ethereum.org](https://ethereum.org/en/developers/) ซึ่งมีข้อมูลล่าสุดมากมาย นอกจากนี้ ลิงก์ในหน้านี้มีคำแนะนำเฉพาะสำหรับการพัฒนาบน Ethereum Classic
+
+  คุณยังสามารถค้นหาวิดีโอสอนเกี่ยวกับการพัฒนาด้วย Ethereum Classic ได้ในส่วน [วิดีโอ > การพัฒนา](/videos/development)
+items:
+  tutorials:
+    title: เริ่มต้น
+    description: นี่คือรายการโดยย่อของบทช่วยสอนและคำแนะนำที่เป็นประโยชน์บางส่วนเพื่อเริ่มต้นการพัฒนา Ethereum Classic ของคุณ
+    items:
+      Kotti Testnet Setup Guide:
+        name: คู่มือการติดตั้ง Kotti Testnet
+        description: ใช้งาน Kotti TestNet ใน 1 นาทีด้วย Jade Desktop
+      Signatory Client:
+        name: ลูกค้าที่ลงนาม
+        description: วิดีโอสาธิตอธิบาย Signatory Client - กระเป๋าเงินฮาร์ดแวร์ Do-It-Yourself ที่สามารถติดตั้งบนคอมพิวเตอร์บอร์ดเดียว เช่น Raspberry PI
+      Besu Client Setup Guide:
+        name: คู่มือการตั้งค่าไคลเอนต์ Besu
+        description: เริ่มต้นใช้งาน Hyperledger Besu
+      Raspberry Pi Node Setup Guide:
+        name: คู่มือการตั้งค่าโหนด Raspberry Pi
+        description: คำแนะนำโดยละเอียดเกี่ยวกับวิธีตั้งค่าโหนด Ethereum บน Raspberry Pi
+      CryptoZombies:
+        name: CryptoZombies
+        description: เรียนรู้การเขียนโค้ด Ethereum DApps ด้วยการสร้างเกมของคุณเอง
+      Hitchhikers Guide to Smart Contracts:
+        name: คู่มือการโบกรถสำหรับสัญญาอัจฉริยะ
+        description: สร้างสัญญาอัจฉริยะบน Ethereum โดยใช้ Truffle, Test-RPC และ Solidity
+      A 101 Noob Intro to Programming Smart Contracts on Ethereum:
+        name: 101 Noob แนะนำการเขียนโปรแกรมสัญญาอัจฉริยะบน Ethereum
+        description: บทแนะนำสัญญาอัจฉริยะที่เน้นการสร้างความเข้าใจก่อนเขียนโค้ด
+      Setup MetaMask for Ethereum Classic:
+        name: ตั้งค่า MetaMask สำหรับ Ethereum Classic
+        description: วิธีตั้งค่าการสนับสนุน Ethereum Classic บน MetaMask ด้วย Ethercluster
+      Parity Tutorial:
+        name: การสอน Parity DApp
+        description: บทช่วยสอน 10 ส่วนเกี่ยวกับวิธีการเขียน DApps
+      Start Ethereum DApp Development Career:
+        name: เริ่มอาชีพการพัฒนา Ethereum DApp
+        description: คู่มือที่ไม่เป็นทางการสำหรับการเริ่มต้นพัฒนา DApps
+      Full Stack DApp Tutorial Series:
+        name: ซีรีส์การสอน DApp แบบกองเต็ม
+        description: DApps แบบเต็มสแต็กโดยใช้เฟรมเวิร์กต่างๆ
+      Ethereum Builders Guide:
+        name: คู่มือผู้สร้าง Ethereum
+        description: Gitbook สำหรับสร้างบน Ethereum ที่เข้าใจการทำงานทางเทคนิคอย่างลึกซึ้งยิ่งขึ้น
+      Introduction to OpenRPC Webinar:
+        name: บทนำสู่การสัมมนาผ่านเว็บของ OpenRPC
+        description: ในวิดีโอนี้ คุณจะได้เรียนรู้พื้นฐานของ JSON-RPC และ OpenRPC
+      Learning Solidity Tutorial Series:
+        name: ซีรีส์การสอนเรื่องความแข็งแกร่ง
+        description: การสร้างสัญญาอัจฉริยะด้วย Metamask และ Remix IDE
+      End to End DApp Tutorial:
+        name: บทช่วยสอน DApp ตั้งแต่ต้นจนจบ
+        description: สร้าง DApp การพนันโดยใช้ Metamask, Truffle, Remix, React และ IPFS
+      How to write secure smart contracts:
+        name: วิธีเขียนสัญญาอัจฉริยะที่ปลอดภัย
+        description: การตรวจสอบภาษาโปรแกรมและแนวทางปฏิบัติที่ดีที่สุดเพื่อช่วยให้คุณเขียนสัญญาอัจฉริยะที่ปลอดภัย
+      Programming Decentralized Money:
+        name: การเขียนโปรแกรมเงินกระจายอำนาจ
+        description: คำแนะนำที่ตรงไปตรงมาในการสร้างแอปพลิเคชันสัญญาอัจฉริยะ
+      How to create a token and ICO on Ethereum Classic:
+        name: วิธีสร้างโทเค็นและ ICO บน Ethereum Classic
+        description: หลังจากที่คุณอ่านคู่มือนี้ คุณจะได้เรียนรู้วิธีสร้างโทเค็น ERC223 บนบล็อกเชน Ethereum Classic และ ICO สำหรับโทเค็นนี้
+      How to use Brave Browser with Ethereum dApps:
+        name: วิธีใช้ Brave Browser กับ Ethereum dApps
+        description: Brave Browser เป็นวิธีที่ง่ายและปลอดภัยที่สุดในการเข้าถึง DApps บน Ethereum blockchain ในที่สุด Web 3.0 ก็เข้าถึงได้สำหรับทุกคน!
+      Vyper and Brownie Contract Development on EVM Chains:
+        name: การพัฒนาสัญญาของ Vyper และ Brownie บน EVM Chains
+        description: เพื่อเป็นการเฉลิมฉลองการรวม ETC กับ Vyper เราจึงตัดสินใจสร้างสัญญาอัจฉริยะสำหรับ Vyper เพื่อปรับใช้กับ ETC
+      Adventures in Classical Ether:
+        name: การผจญภัยในอีเธอร์คลาสสิก
+        description: สร้างสัญญาอัจฉริยะครั้งแรกของคุณสำหรับ ETC
+      Kotti Solidity ETC Oh My:
+        name: Kotti, Solidity, ETC, Oh My!
+        description: คู่มือนี้แสดงให้เห็นถึงการกำหนดค่าเริ่มต้นสำหรับ Kotti testnet ของ Ethereum Classic และเวอร์ชันเฉพาะของ Solidity สำหรับการพัฒนา Dapp ที่เข้ากันได้กับ ETC<>ETH Kotti เป็นเครือข่ายทดสอบที่แนะนำสำหรับนักพัฒนา dapp แนะนำให้ใช้มอร์ดอร์สำหรับการทดสอบระดับโปรโตคอล
+      How to contribute to Mordor Testnet:
+        name: วิธีการมีส่วนร่วมใน Mordor Testnet
+        description: คู่มือนี้จะสอนวิธีขุด testnet ETC และเรียกใช้ block explorer ในเครื่องของคุณเองด้วย Expedition Kotti เป็นเครือข่ายทดสอบที่แนะนำสำหรับนักพัฒนา dapp แนะนำให้ใช้มอร์ดอร์สำหรับการทดสอบระดับโปรโตคอล
+      Migrate to Hyperledger Besu - Switch from OpenEthereum or Multi-Geth:
+        name: โยกย้ายไปยัง Hyperledger Besu - เปลี่ยนจาก OpenEthereum หรือ Multi-Geth
+        description: คู่มือนี้จะช่วยคุณในการย้ายข้อมูลจากไคลเอนต์ OpenEthereum หรือ Multi-Geth ไปยังไคลเอนต์ Hyperledger Besu
+      Ethereum Classic on Raspberry Pi:
+        name: Ethereum Classic บน Raspberry Pi
+        description: คู่มือนี้จะแบ่งออกเป็นหลายส่วน และจะบันทึกการสำรวจของฉันเกี่ยวกับ IoT, ETC และทุกอย่างเกี่ยวกับราสเบอร์รี่
+      Ethercluster An Open-Source Alternative to Infura:
+        name: Ethercluster ทางเลือกโอเพนซอร์สสำหรับ Infura
+        description: คำแนะนำในการสร้างโครงสร้างพื้นฐาน RPC ที่ใช้ Ethereum ที่ปรับขนาดได้ของคุณเอง
+      Analyzing Ethereum Classic with Google BigQuery:
+        name: วิเคราะห์ Ethereum Classic ด้วย Google BigQuery
+        description: คู่มือการใช้ BigQuery เพื่อวิเคราะห์ Ethereum Classic คู่มือนี้ใช้ตัวอย่างการหาปริมาณการกระจายอำนาจใน Ethereum Classic
+      Creating Your Own Smart Contract Languages Using LLVM:
+        name: การสร้างภาษาสัญญาอัจฉริยะของคุณเองโดยใช้ LLVM
+        description: บทความนี้แสดงวิธีที่เราสามารถใช้ EVM-LLVM เพื่อสร้างภาษาของเล่น Kaleidoscope เพื่อสร้างสัญญาอัจฉริยะที่ปรับใช้บล็อกเชนได้
+      ERC20 to ERC223 upgrade path:
+        name: เส้นทางการอัพเกรด ERC20 เป็น ERC223
+        description: ERC223 เป็นมาตรฐานโทเค็นที่ทันสมัยซึ่งมีค่าธรรมเนียมที่ถูกกว่าและปกป้องนักลงทุนจากการสูญเสียโทเค็น Team Saturn แสดงวิธีอัปเกรดโทเค็น ERC20 ที่มีอยู่
+      Continuity for an Augmented world:
+        name: ความต่อเนื่องสำหรับโลกเสริม
+        description: คู่มือการสร้างระบบโฆษณาแบบกระจายศูนย์ด้วย Ethereum Classic
+      Deployment Automation for Goerli testnet in 10 minutes:
+        name: Deployment Automation for Goerli testnet ใน 10 นาที
+        description: บทแนะนำสั้นๆ ในการปรับใช้เครือข่ายการทดสอบข้ามไคลเอ็นต์ Goerli Proof-of-Authority ใหม่อย่างรวดเร็ว คู่มือนี้สามารถนำไปใช้กับ Kotti testnet ของ Ethereum Classic ได้
+      Monitoring in PegaSys Plus:
+        name: การตรวจสอบใน PegaSys Plus
+        description: บทแนะนำสั้น ๆ เพื่อตั้งค่าแดชบอร์ดการตรวจสอบเครือข่ายโดย PegaSys
+      Using OpenRPC Mock Server to test against an Ethereum JSON-RPC API:
+        name: การใช้เซิร์ฟเวอร์จำลอง OpenRPC เพื่อทดสอบกับ Ethereum JSON-RPC API
+        description: open-rpc-mock-server ช่วยให้นักพัฒนาสามารถรันและทดสอบกับ API ของพวกเขาในสภาพแวดล้อมแบบโลคัลและน้ำหนักเบา
+      Introduction to Pristine An open standard and template for open-source projects:
+        name: Introduction to Pristine — มาตรฐานแบบเปิดและเทมเพลตสำหรับโครงการโอเพนซอร์ส
+        description: Pristine เป็นพื้นที่เก็บข้อมูลภายในตัวมันเองที่มีข้อตกลงและข้อกำหนดสำหรับโครงการเพื่อสื่อสารปัญหาที่คุณกำลังแก้ไข เริ่มต้นใช้งานอย่างง่ายดาย สร้างและใช้เครื่องมือที่ประกอบได้ ส่งเสริมการสนับสนุนโอเพนซอร์สและการมีส่วนร่วม และส่งเสริมปัญหาและการอภิปรายเกี่ยวกับคุณลักษณะบน Github เอง
+      Jade Suite Overview and Workshop:
+        name: Jade Suite ภาพรวมและเวิร์คช็อป
+        description: ทำให้การพัฒนาและกำหนดค่าแอพ Ethereum Classic ง่ายและรวดเร็วโดยใช้ Jade Suite of Tools
+      Various Ethereum Solidity Tutorials:
+        name: บทแนะนำ Ethereum และ Solidity ต่างๆ
+        description: วิธีสร้างสัญญาอัจฉริยะ ปรับใช้ DApps ของคุณเอง สร้างโทเค็น และอื่นๆ — ตั้งแต่ระดับเริ่มต้นไปจนถึงระดับกลาง
+  advanced:
+    title: แนวคิดขั้นสูง
+    description: เทคโนโลยีที่อยู่เบื้องหลังบล็อคเชนนั้นลึกซึ้งและเข้าถึงได้ในหลายโดเมน ต่อไปนี้คือบทความเล็กๆ น้อยๆ ที่จะช่วยให้คุณเริ่มต้นการเดินทางในโพรงกระต่าย
+    items:
+      2018-03-15-signatures:
+        name: เดินผ่านรหัสลายเซ็นดิจิทัล Ethereum คลาสสิก
+        description: การทำธุรกรรมที่ปลอดภัยด้วยลายเซ็นดิจิทัล สิ่งเหล่านี้เกี่ยวข้องกับการเข้ารหัสเส้นโค้งวงรีและอัลกอริธึมลายเซ็นดิจิตอล Elliptic Curve (ECDSA)
+      2018-03-19-rlp:
+        name: การเข้ารหัสคำนำหน้าความยาวแบบเรียกซ้ำ
+        description: Ethereum Classic (ETC) ใช้การเข้ารหัส Recursive Length Prefix (RLP) เพื่อจัดเก็บและส่งโครงสร้างข้อมูล
+      2018-01-31-difficulty:
+        name: การตีความอย่างง่ายของพารามิเตอร์ความยากในการขุด Ethereum Classic
+        description: พารามิเตอร์ความยากในการขุดอาจดูลึกลับสำหรับบางคน บทความนี้แสดงให้เห็นว่ามีการตีความที่สวยงามและเข้าใจง่าย
+      2018-01-26-implicit-info:
+        name: ข้อมูล Ethereum Classic Blockchain โดยนัย
+        description: สำหรับผู้เริ่มต้น ข้อมูลที่จำเป็นบางอย่างอาจหายไปจากบล็อกเชน Ethereum Classic (ETC) ข้อมูลนี้มีอยู่ในบล็อคเชนโดยปริยาย ซึ่งอาจนำไปสู่ความสับสน
+      2017-12-04-light-clients:
+        name: วิธีที่ลูกค้า Ethereum Classic Light สามารถดำเนินการได้อย่างปลอดภัย
+        description: ไคลเอนต์ไลท์ Ethereum Classic (ETC) คือไคลเอนต์ที่ไม่ได้ดูแลสำเนาของบล็อคเชน ETC ทั้งหมด
+      2017-04-28-blocks:
+        name: "อธิบายบล็อก ETC: สามหมวดหมู่"
+        description: บล็อกสามารถแบ่งออกเป็นส่วนหัว รายการธุรกรรม และรายการส่วนหัวของลุง
+      2017-04-18-keys:
+        name: "กุญแจสาธารณะและส่วนตัว: การตรัสรู้เล็กน้อย"
+        description: คีย์ส่วนตัวใช้เพื่อโอนเงิน ติดตั้งโปรแกรม และเรียกใช้โปรแกรม
+      2017-03-30-accounts-and-states:
+        name: บัญชีและสถานะอธิบาย
+        description: บล็อกเชน Ethereum Classic (ETC) ทำให้คอมพิวเตอร์ในโลกที่ไม่มีใครหยุด เชื่อถือได้ ตรวจสอบได้ ไม่ไว้วางใจ และปลอดภัย เพื่อให้เข้าใจระบบนี้ จำเป็นต้องเข้าใจบัญชีและสถานะต่างๆ
+      2017-02-10-hashes:
+        name: "แฮช: บทนำและเหตุใดจึงเป็นรากฐานของอินเทอร์เน็ตและบล็อคเชน"
+        description: วลี 'ฟังก์ชันแฮชแบบทางเดียว' อาจฟังดูลึกลับและเกินบรรยาย แต่ฟังก์ชันแฮชเป็นส่วนสำคัญของการเข้ารหัสสมัยใหม่

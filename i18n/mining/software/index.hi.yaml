@@ -1,0 +1,18 @@
+title: खान सॉफ्टवेयर
+seo: सॉफ्टवेयर पैकेजों की एक सूची जिसका उपयोग एथेरियम क्लासिक पर क्रिप्टोकुरेंसी ईटीसी खनन के लिए किया जा सकता है।
+description: "इथेरियम क्लासिक नेटवर्क के लिए प्रूफ-ऑफ-वर्क माइनिंग एल्गोरिथम 28 नवंबर 2020 से [ETCHash](https://github.com/eth-classic/etchash) है।"
+items:
+  table:
+    columnItems:
+      name:
+        name: नाम
+      windowsAmd:
+        name: विंडोज एएमडी
+      windowsNvidia:
+        name: विंडोज एनवीडिया
+      linuxAmd:
+        name: लिनक्स एएमडी
+      linuxNvidia:
+        name: लिनक्स एनवीडिया
+      guide:
+        text: मार्गदर्शक

@@ -1,0 +1,20 @@
+title: Dépôts Git
+description: Un méli-mélo de divers dépôts de sources ouvertes pour les développeurs d'Ethereum Classic.
+items:
+  repos:
+    items:
+      EthereumClassic:
+        name: Organisation principale de Github
+        description: L'organisation principale Ethereum Classic Github, contenant un certain nombre de dépôts, dont une sélection que nous mettrons en évidence ci-dessous...
+      eth-classic:
+        name: Organisation alternative de Github
+        description: Une autre organisation Github gérée par la communauté qui comprend les configurations testnet, ETCHash, Besu, etc.
+      etcLabs:
+        name: ETC Labs
+        description: Organisation contenant de nombreux dépôts d'Ethereum Classic précédemment maintenus par ETC Labs, y compris core-geth.
+      website:
+        name: Site web de l'ETC
+        description: Le code source de ce site web, y compris les instructions sur la façon de contribuer.
+      awesomeEtc:
+        name: Génial ETC
+        description: Une liste impressionnante de ressources pour le projet Ethereum Classic (ETC).

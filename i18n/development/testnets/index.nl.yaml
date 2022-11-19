@@ -1,0 +1,33 @@
+title: Testnetten
+seo: Informatie over de verschillende Ethereum Classic testnets, welke publiekelijk beschikbare netwerken kunnen worden gebruikt om contracten en protocol upgrades te testen.
+description: |
+  Bij het ontwikkelen van contracten op Ethereum Classic, zoals bij elk EVM contractsysteem, wordt geadviseerd om een lokaal [virtueel netwerk](/development/tooling) te gebruiken, waarmee je snel kunt itereren zonder te hoeven wachten op blokken die gemined worden. Maar op een gegeven moment wilt u misschien het publiek laten interageren met een bètaversie van uw applicatie, en daarvoor kan een testnet worden gebruikt.
+
+  Aangezien Ethereum Classic compatibel blijft met Ethereum's upstream EVM, zullen contracten, afgezien van enkele kleine randgevallen, zich identiek gedragen. Dit betekent dat populaire Ethereum testnets zoals [Kovan](https://kovan-testnet.github.io/website/) voor het grootste deel kunnen worden gebruikt voor het openbaar testen van Ethereum Classic contracten, en vanwege hun populariteit kan dit de voorkeur genieten voor het testen door gebruikers.
+
+  Daarnaast heeft Ethereum Classic zijn eigen testnetten die de Ethereum Classic-versie van de EVM exploiteren, en het inzetten op een van deze netwerken wordt ook ten zeerste aanbevolen vóór de productierelease. Deze publieke testnetten bieden ook faucets, zodat u gemakkelijk testnet ETC kunt verwerven en uw code kunt implementeren.
+
+  Sommige van deze netwerken, zoals Astor, testen experimentele versies van ETC met functies die nog niet bestaan in het Ethereum Classic mainnet.
+items:
+  testnets:
+    i18n:
+      pow: Bewijs van werk
+      poa: Bewijs van autoriteit
+      testnet: Testnet
+      experimental: Experimenteel
+      faucet: Kraan
+    columnItems:
+      name:
+        name: Naam
+      faucet:
+        text: Kraan
+      type:
+        name: Type
+      miningAlgo:
+        name: Algoritme
+      consensusAlgo:
+        name: Type consensus
+      networkId:
+        name: NetworkID
+      chainId:
+        name: ChainID

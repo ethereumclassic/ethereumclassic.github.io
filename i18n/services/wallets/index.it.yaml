@@ -1,0 +1,30 @@
+title: Portafogli
+seo: Una fonte di portafogli web, estensioni, portafogli software, portafogli hardware e altri modi per proteggere gli ETC.
+description: |
+  Ci sono molte opzioni di portafogli tra cui scegliere per proteggere e utilizzare gli ETC. Ogni opzione offre un diverso equilibrio tra sicurezza e convenienza. Cercate l'opzione migliore in base alle vostre esigenze.
+
+  ## Quale portafoglio dovrei usare?
+
+  I suggerimenti che seguono non sono approvazioni e servono solo ad aiutare i nuovi utenti a trovare rapidamente l'opzione che probabilmente fa al caso loro.
+
+  - Se volete un'applicazione mobile semplice, [Trust Wallet](https://trustwallet.com/ethereum-classic-wallet) è facile da usare e supporta molte valute, tra cui ETC.
+  - Se volete detenere piccole quantità di ETC da utilizzare con applicazioni decentralizzate, provate [MetaMask](/guides/metamask) e collegatelo a Ethereum Classic.
+  - Se accettate ETC per la vostra attività, probabilmente vorrete creare un conto [exchange](/services/exchanges) che potrete usare per venderli nella vostra valuta locale.
+  - Se si detengono quantità maggiori, si consiglia di acquistare un [Portafoglio hardware] (#hardware-wallets).
+  - Per casi d'uso più avanzati, fate le vostre ricerche e provate alcune delle opzioni qui sotto.
+items:
+  web:
+    title: Portafogli web
+    description: Questi portafogli Web3 sono accessibili tramite una pagina web. Non dovrebbero essere utilizzati per garantire grandi somme, ma consentono di interagire facilmente con gli ETC senza doverli scaricare.
+  browsers:
+    title: Portafogli integrati nel browser
+    description: Questi portafogli Web3 sono integrati nei browser web. In genere, iniettano nei siti web le informazioni sul vostro conto per permettervi di interagire senza problemi con le dapp di Ethereum Classic nel vostro browser.
+  hardware:
+    title: Portafogli hardware
+    description: I portafogli hardware sono portafogli sicuri progettati per la conservazione a lungo termine.
+  software:
+    title: Portafogli software
+    description: I portafogli software sono dispositivi desktop o mobili progettati per l'archiviazione a breve termine.
+  other:
+    title: Altri prodotti per portafogli
+    description: Questi prodotti sono complementari ai portafogli di criptovalute, come il deposito di semi di recupero.
