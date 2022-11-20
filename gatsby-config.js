@@ -69,15 +69,15 @@ module.exports = {
     {
       resolve: "gatsby-source-filesystem",
       options: {
-        name: "content",
-        path: "./content/",
+        name: "i18n",
+        path: "./i18n/",
       },
     },
     {
       resolve: "gatsby-source-filesystem",
       options: {
-        name: "i18n",
-        path: "./i18n/",
+        name: "content",
+        path: "./content/",
       },
     },
     {
@@ -85,6 +85,13 @@ module.exports = {
       options: {
         extensions: [".md"],
         gatsbyRemarkPlugins: [
+          {
+            resolve: "remark-rewrite-images",
+            options: {
+              instanceName: "i18n",
+              rewriteTo: "content",
+            },
+          },
           {
             resolve: "gatsby-remark-copy-linked-files",
           },
