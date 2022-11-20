@@ -1,0 +1,109 @@
+title: ユーザーFAQ
+seo: イーサリアムクラシックの日々の利用でお困りの方へのよくある質問です。
+info: ご質問に対する回答がここで見つかりませんか？ETCコミュニティ [discord](https://ethereumclassic.org/discord) サーバーで質問してみてください。
+description: ETCを送受信したい方、イーサリアムクラシックに展開されているアプリケーションを利用したい方、安全に利用する方法が気になる方は、このページをご覧ください。
+items:
+  using:
+    items:
+      comparison:
+        question: イーサリアムクラシック(ETC)は、イーサリアム(ETH)と同じように使えますか？
+        answer: |
+          はい、Ethereum Classicはエンドユーザーに対して、Ethereumとほぼ同じように操作できます。ただ、使用しているウォレット、アプリケーション、取引所、その他のサービスがクラシックをサポートしているかどうかを確認する必要があります。
+
+          Ethereum Classicは技術的にEthereumと非常に似ているため、ユーザーガイド、チュートリアル、ウォークスルーなど、両方のチェーンに適用されるものを共有しています。そのため、[Community guides on Ethereum.org](https://ethereum.org/en/learn/) は非常におすすめの一冊です。
+
+          MetaMaskはEthereum Classicで使用することもできます。
+      metmask:
+        question: MetaMaskでETCを利用するにはどうすればよいですか？
+        answer: |
+          [CoinList.org](https://coinlist.org/en/chain/61) ウェブサイトを通じて、Ethereum ClassicをMetaMaskに簡単に追加することができます。カスタムEthereum Classic RPCノードを使用するようにMetaMaskを手動で設定したい場合は、 [MetaMask](/guides/metamask) ガイドを確認できます。
+      missingEtc:
+        question: MetaMaskでハードウェアウォレットを使用しているときに、ETCが表示されないのはなぜですか？
+        answer: |
+          MetaMaskの[既知のバグ](https://github.com/MetaMask/metamask-extension/issues/16272)として、Ledger Live(および他の一部のハードウェアウォレット)で作成したETCを認識しないことがあります。これを回避するには、Ledger Liveから同じデバイスで設定したMetaMaskウォレットにETCを送信することで対応できます。
+      help:
+        question: 誤ってETHのアドレスにETCを送信してしまったのですが、どうすれば回復できますか？
+        answer: |
+          ステップ1：心配しないでください。あなたが管理または生成したアカウントに送ったものである限り、資金を回復できる可能性が高いです。
+
+          使用しているソフトウェアや取引所によって、さまざまな復旧方法がありますので、ここにすべてを掲載することはできません。ネットで「[サービス名]失われたETCを復元」と検索してください。利用中のサービスのサポート窓口に問い合わせる必要がある場合もあります。
+
+          例：[Ledger Wallet](https://support.ledger.com/hc/en-us/articles/360019363320-Eth-recovery-)
+      metmaskFailign:
+        question: MetaMaskを使用したトランザクションが失敗するのはなぜですか？
+        answer: |
+          トランザクションが何度も作成されるのを防ぐため、すべてのイーサリアムクラシックのトランザクションにはnonceと呼ばれる数値が含まれており、トランザクションを送信するたびに増加するようになっています。
+
+          特にガス代が安いトランザクションを送信した場合、トランザクションがメンプールに滞留してしまうことがあります。この場合、MetaMaskは後続のトランザクションのためにnonceを正しく設定しないことがあります。
+
+           [BlockScout](https://blockscout.com/etc/mainnet/) で最後に成功したトランザクションの nonce をチェックし、それを 1 つ増やして、[MetaMask で手動で nonce を設定する](https://help.tokensets.com/en/articles/4089766-how-to-push-through-a-stuck-transaction)ことによって、MetaMask に正しい nonce を使用するように強制できます。
+      explorers:
+        question: イーサリアムクラシックの取引内容を確認するにはどうすればいいですか？
+        answer: |
+          最も人気があり、完全な機能を備えたEthereum Classicエクスプローラは [BlockScout](https://blockscout.com/etc/mainnet/)ですが、[block explorers](/network/explorers) セクションにはいくつかの代替品も用意されています。
+      exchange:
+        question: ETCを利用するにはどうしたらいいですか？
+        answer: |
+          イーサリアムクラシックは、主要な暗号通貨 [exchange](/services/exchanges) に掲載されており、不換紙幣でETCを購入したり、他の暗号通貨と交換したりすることが可能です。
+
+          最新のグラフィックカードがあれば、 [mine](/mining)することもできます。
+      wallets:
+        question: イーサリアムクラシックでは、どのウォレットを使用するのがおすすめですか？
+        answer: |
+          ユースケースに応じて、様々なタイプのウォレットが用意されています。詳しくは、 [wallets](/services/wallets) セクションをご覧ください。
+      apps:
+        question: イーサリアムクラシックのネットワーク上では、どのようなアプリが動いているのでしょうか？
+        answer: |
+          中央集権型取引所、DEX、DeFi、NFT、クロスチェーンブリッジなど、あらゆるものがあります。詳しくは、 [services](/services) セクションをご覧ください。
+      defi:
+        question: イーサリアムクラシックにDeFiはありますか？
+        answer: |
+          はい。Ethereum Classic には小規模ながら成長中の分散型金融エコシステムが存在します。最新情報については [finance](/services/apps/finance) アプリカテゴリをご覧ください。
+      staking:
+        question: ETCの杭打ちはできますか？
+        answer: |
+          いいえ、少なくともProof of Stakeブロックチェーンではそうではありません。ETCはProof of Workブロックチェーンなので、ネットワークにセキュリティを提供するために、ステークではなく、マイニングしかできません。
+
+          ETCを貸し出して利回りを得ることができる[lending protocols](/services/apps/finance) があるかもしれませんが、これはEthereum Classicプロトコル自体の一部ではなく、カウンターパーティリスクが伴います。
+      safety:
+        question: イーサリアムクラシックが51％攻撃されたと聞きました。使っても大丈夫なのでしょうか？
+        answer: |
+          2020年、イーサリアムクラシックは歴史的に見ても非常に低いハッシュレートとなり、51％攻撃が相次いだ。攻撃者はハッシュレートを貸し出し、取引所をターゲットにして二重消費攻撃を行い、合計で約1,000万ドルのETCを失ったとされています。
+
+          これに対し、Ethereum Classicのクライアントや広範なエコシステムはその後、取引所での確認時間の延長、ECIP-1099、MESSなど、多くの対策を実施した。これらの対策が実施されて以来、51%攻撃はこれ以上発生していません。
+
+          さらに、2022年にイーサリアムがProof of Stakeに移行して以来、ETCはGPUマイニング可能な最大のチェーンとなり、前回の51%攻撃からハッシュレートが50倍から100倍に増加した。このため、再び51%攻撃を行うためにハッシュレートのプールを貸し出せる可能性は極めて低く、仮にあったとしても、成功の保証がないまま行うのは法外なコストがかかるでしょう。
+
+          すべてのProof of Workブロックチェーンと同様に、51%攻撃が発生する可能性はプロトコルの設計上、必要な部分です。時間が経過し、イーサリアムクラシックがこのような攻撃を受けることがなくなれば、関係者は51%攻撃が過去のものであるとますます確信できるようになります。
+
+          いずれにせよ、51％攻撃者が小口保有者を標的にすることは経済的に意味がなく、彼らはあなたのETCを「盗む」ことはできないのです。むしろ、彼らは通常、出金を二重に行うことで取引所をターゲットにします。歴史的に見ると、取引所はこうした比較的小規模な攻撃を吸収することができ、前述のような対抗策を実施してきた。
+      deposit:
+        question: ETCの入金に時間がかかるのはなぜですか？
+        answer: |
+          上記の質問で述べたように、51％攻撃への対策として、一部の取引所ではイーサリアムクラシックの入金時間を極端に長くしています。これは、取引所が二重消費攻撃の犠牲になることを防ぐのに役立ちますが、ユーザーは入金が確認されるまでに多くの時間を待つ必要があることを意味します。
+
+          ETCのハッシュレートは最近大幅に上昇しているため、取引所は入金完了までに必要な確認回数を減らすと思われます。
+      blockchain:
+        question: ブロックチェーンとは？
+        answer: |
+          ブロックチェーンとは、特殊な分散型データベースの一種です。ブロックチェーンの最も重要な属性は、誰もそれを管理しないことです!誰もがそれを管理するために信頼する必要がある人はいないのです。そのため、トラストレスと呼ばれるのです。ユーザーはタスクを_取引で提出し、それが_ブロック_にまとめられ、それが_チェーン_を形成するように連結されています。
+
+          - ブロックチェーンの仕組み - シンプルに説明](https://youtu.be/SSo_EIwHSd4)
+          - [7分でわかるブロックチェーン](https://youtu.be/yubzJw0uiE4)
+          - [ブロックチェーン技術 for Dummies - ブロックチェーンを簡単に説明](https://youtu.be/2yJqjTiwpxM)
+          - [ブロックチェーン解説](https://youtu.be/QphJEO9ZX6s)
+      ether:
+        question: エーテルとは？
+        answer: |
+          EtherはEthereum Classicのネイティブトークンで、ティッカーシンボル**ETC**でデジタル通貨取引所にて取引されている暗号通貨です。Etherは、Ethereum ClassicのEVM上で行われた計算を検証するマイニングと呼ばれるプロセスのネットワークノードへの報酬として作成されます。
+
+          イーサとETCは、新しいスマートコントラクトのインストールなどのタスクの支払いに使用されるネイティブ暗号通貨を表します。
+          [イーサとイーサリアムとは](https://youtu.be/fjnovGRQrRE)
+      gas:
+        question: ガスとは？
+        answer: |
+          Gasは内部的な取引価格設定メカニズムであり、スパムを軽減し、ネットワーク上のリソースを割り当てるために使用されます。新しいスマートコントラクトをインストールするなどのタスクを実行するために必要な_リソースの量を示すために使用される単位です。
+
+          - [Ethereum Gas Explained](https://youtu.be/hQ78FVSv-vs)
+          - [Ether vs Gas difference | Programmer explains](https://youtu.be/cZ0rYWJzeow)
+          - [Gas Price and Transaction Nonce](https://mirror.xyz/0x4B0728B9B1E45583bFb8bD738C9C6c8906f2841d/gYK5HwZjAHZuoZXb5FcwcKbGedfX7MbCNt7Dei6oyeM)

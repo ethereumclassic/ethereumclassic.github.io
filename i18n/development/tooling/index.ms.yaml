@@ -1,0 +1,73 @@
+title: Alat Pembangun
+seo: Satu koleksi alatan untuk mempertingkatkan pembangunan aplikasi Ethereum Classic dan pengalaman devops.
+description: |
+  Halaman ini mengandungi senarai sumber yang mungkin berguna oleh mereka yang membangunkan aplikasi di atas Ethereum Classic. Pastikan anda juga menyemak halaman [persekitaran pembangun Ethereum.org](https://ethereum.org/en/developers/local-environment/), kerana kebanyakan alatan ini kekal relevan semasa membangun untuk Ethereum Classic.
+items:
+  prices:
+    title: Sumber Harga
+    description: Tapak web dan API ini memberikan harga ETC untuk digunakan dalam aplikasi anda.
+  processors:
+    title: Pemproses Pembayaran
+    description: API ini boleh digunakan untuk menerima pembayaran ETC dalam tapak web atau aplikasi anda.
+  dex:
+    title: Pengalaman Pembangunan
+    description: Pilihan alat pembangun yang tidak menyeluruh yang boleh membantu pembangunan aplikasi Ethereum Classic, termasuk sebagai IDE, perpustakaan, rangka kerja ujian, penyahpepijat, *dan lain-lain*.
+    items:
+      BUIDL IDE:
+        description: Second State BUIDL IDE ialah IDE berasaskan web yang tidak memerlukan muat turun atau pemasangan perisian. Ia menyediakan persekitaran pembangunan dan penggunaan sehenti untuk kontrak pintar dan pembangun dapp.
+      Dappkit:
+        description: Infrastruktur dan perpustakaan berprestasi tinggi lejar-agnostik untuk pembangun membina dan menskalakan aplikasi terdesentralisasi. Ringkasnya, Firebase kolaboratif untuk Dapps.
+      Embark Framework:
+        description: Rangka kerja untuk Aplikasi Terpencar tanpa pelayan menggunakan Ethereum, IPFS dan platform lain.
+      Emerald Platform:
+        description: Platform untuk membina Dapps untuk ETC blockchain.
+      ESerialize:
+        description: Matlamat modul ini adalah untuk menyediakan fungsi mudah untuk mensiri dan menyahsiri data untuk Timbunan Ethereum.
+      Ethereum JSON-RPC API:
+        description: Spesifikasi kaedah JSON-RPC yang pelanggan blockchain berasaskan EVM mesti laksanakan.
+      Eth Fiddle:
+        description: Editor dalam talian untuk kontrak pintar.
+      EVM-LLVM:
+        description: Pembangun bukan sahaja boleh menggunakan skop besar bahasa pengaturcaraan (Rust untuk kontrak pintar!) selain Solidity untuk menyasarkan Mesin Maya Ethereum (EVM), mereka juga boleh mendapat manfaat serta-merta daripada pelbagai alat pembangunan yang dibina di sekitar infrastruktur LLVM.
+      Ganache:
+        description: Blockchain Ethereum peribadi untuk menjalankan ujian.
+      Jade Suite:
+        description: Set alatan Jade memperkasakan pembangun untuk mencipta aplikasi terpencar rakan-ke-rakan di atas rantaian blok berasaskan EVM seperti Ethereum Classic.
+      Mythx:
+        description: MythX ialah perkhidmatan analisis keselamatan utama untuk kontrak pintar Ethereum. Misi kami adalah untuk memastikan pasukan pembangunan mengelakkan ralat yang mahal dan menjadikan Ethereum sebagai platform yang lebih selamat dan boleh dipercayai.
+      Open-RPC:
+        description: Spesifikasi OpenRPC mentakrifkan perihalan antara muka agnostik bahasa pengaturcaraan standard untuk API JSON-RPC 2.0.
+      OpenZeppelin:
+        description: Rangka kerja kontrak pintar yang selamat dan boleh diguna semula yang diuji pertempuran.
+      Quorum:
+        description: Quorum ialah platform blockchain sumber terbuka yang menggabungkan inovasi komuniti Ethereum awam dengan peningkatan untuk menyokong keperluan perusahaan.
+      Remix Online IDE:
+        description: IDE dalam pelayar berguna yang boleh menyusun dan menerbitkan kontrak pintar ke pelbagai rangkaian Ethereum. Termasuk linter.
+      Signatory:
+        description: Transaksi luar talian dan penandatangan mesej untuk Ethereum Stack.
+      SOLL:
+        description: Pengkompil LLVM akhirnya datang ke Solidity. Dengan itu, kami boleh membuat kontrak pintar dengan mudah merentas berbilang VM blockchain. EVM pada Ethereum Classic dan eWASM ETH 2.0 adalah antara yang pertama kami sokong.
+      Sputnikvm:
+        description: SputnikVM ialah pelaksanaan kendiri sumber terbuka bagi Mesin Maya Ethereum (EVM). Ia bertujuan untuk menjadi mesin maya yang cekap dan boleh dipasang untuk blok blok berasaskan Ethereum yang berbeza.
+      Truffle Suite:
+        description: Persekitaran pembangunan bertaraf dunia, rangka kerja ujian dan saluran paip aset untuk rantaian blok menggunakan Mesin Maya Ethereum (EVM), yang bertujuan untuk menjadikan kehidupan sebagai pembangun lebih mudah.
+  nodeTools:
+    title: Penerapan Nod
+    description: Alat ini memudahkan untuk memutar sekumpulan nod untuk penggunaan pengeluaran atau melaksanakan sains data dengan set data awam.
+    items:
+      Bloq Cloud:
+        description: BloqCloud memberikan akses yang sangat dioptimumkan, sentiasa tersedia kepada rangkaian rantaian blok. Sambung dengan cepat dan skala dengan mudah berdasarkan keperluan anda -- tanpa perlu risau tentang mengurus infrastruktur.
+      DappNode:
+        description: DAppNode memudahkan menjalankan nod, DApps dan mengehos rangkaian dan ekonomi P2P.
+      Ethercluster:
+        description: Ethercluster ialah Panggilan Prosedur Jauh (RPC) Mesin Maya Ethereum (EVM) sumber terbuka yang menyediakan titik akhir Ethereum Classic (ETC) dan Kotti secara percuma.
+      GetBlock:
+        description: GetBlock ialah perkhidmatan yang menyediakan sambungan untuk nod mata wang kripto utama. Mereka menyokong alat seperti JSON-RPC, REST, dan WebSockets, yang memudahkan penyegerakan terus dengan rantaian blok. Tidak perlu menjalankan nod sendiri, platform ini membenarkan pelanggannya menyambung ke blockchain melalui nod penuh tanpa perlu membayar yuran.
+      Google BigQuery:
+        description: Google Cloud mengeluarkan set data yang terdiri daripada sejarah transaksi blockchain untuk Ethereum Classic, untuk membantu anda memahami mata wang kripto dengan lebih baik. Turut disertakan satu set pertanyaan dan pandangan yang memetakan semua set data blockchain kepada struktur data buku catatan dua kali yang membolehkan analisis meta berbilang rantai, serta penyepaduan dengan sistem pemprosesan rekod kewangan konvensional.
+      Raspberry Pi Node:
+        description: Panduan terperinci untuk cara menyediakan nod Ethereum Classic pada Raspberry Pi.
+      Rivet Cloud:
+        description: Titik tamat Ethereum dan Ethereum Classic berskala tak terhingga, sangat tersedia yang benar-benar berfungsi.
+      QuikNode:
+        description: QuikNodes adalah mudah, sentiasa dihidupkan, dengan sambungan internet yang pantas untuk penyegerakan blokchain pantas, dan anda tidak perlu risau tentang kehabisan ruang cakera.

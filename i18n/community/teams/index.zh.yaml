@@ -1,0 +1,17 @@
+title: 开发团队
+seo: 以前或目前正在为Ethereum Classic做贡献的主要组织的名单。
+description: |
+  以太坊经典是一个去中心化的开发生态系统，这意味着没有 "官方 "团队或正式的等级制度。这个全球开发社区是一个没有许可的 "民主"，任何人都可以参与。个人和团队为自己选择任务并执行它们。我们通过[Ethereum Classic Improvement Proposal (ECIP)](https://ecips.ethereumclassic.org/)过程集体建立[粗略共识](https://en.wikipedia.org/wiki/Rough_consensus)。
+
+  这是自2015年7月30日项目创世区块以来，为Ethereum Classic做出贡献的著名团队名单。以太坊经典的生态系统对个人、志愿者和团队的所有协议级开发努力表示感谢。
+items:
+  teams:
+    columnItems:
+      year:
+        name: 年
+      name:
+        name: 团队名称
+      social:
+        name: 社会
+      active:
+        name: 活跃

@@ -20,6 +20,7 @@ billboard:
     Code is Law: "Code is Law"
     Classic: "Classic"
     Permisionless: "Permissionless"
+    Global: "Global"
 ## feature
 feature:
   __icon: question

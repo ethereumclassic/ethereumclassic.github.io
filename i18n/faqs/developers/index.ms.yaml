@@ -1,0 +1,43 @@
+title: Soalan Lazim Pembangun
+seo: Soalan Lazim untuk mereka yang ingin menyumbang atau membina aplikasi pada Ethereum Classic.
+info: 'Tidak dapat mencari jawapan kepada soalan anda di sini? Cuba tanya dalam pelayan komuniti ETC [discord](https://ethereumclassic.org/discord). Secara khusus, anda mungkin menemui saluran `#dev-general` ETC Discord yang diminati.'
+description: Ingin belajar cara membina aplikasi atau protokol di atas Ethereum Classic? Halaman ini adalah untuk anda.
+items:
+  questions:
+    items:
+      types:
+        question: Apakah jenis aplikasi yang boleh saya bina pada ETC?
+        answer: |
+          Memandangkan ETC menggunakan EVM lengkap turing, sebarang jenis sistem kontrak pintar boleh digunakan untuk ETC; daripada Multisigs, kepada DeFi, kepada NFT, ke mana sahaja impian anda boleh membawa anda. Sebarang aplikasi yang boleh digunakan untuk Ethereum juga boleh digunakan untuk Ethereum Classic.
+
+          Sesetengah rantaian lain mempunyai sejarah menapis aplikasi dan transaksi tertentu, jadi jika anda ingin memastikan aplikasi anda berjalan tepat seperti yang diprogramkan tanpa masa henti, penapisan atau gangguan pihak ketiga, maka pertimbangkan untuk menggunakan Ethereum Classic!
+
+          Untuk beberapa contoh apl yang telah digunakan ke Ethereum Classic, lihat bahagian [apps](/perkhidmatan/apl).
+      eth:
+        question: Apakah perbezaan antara ETH dan ETC semasa menulis aplikasi?
+        answer: |
+          Tiada perbezaan semasa menulis kontrak; anda boleh menggunakan alat pembangun dan bahasa pengaturcaraan yang sama (terutamanya, Solidity) yang anda gunakan dengan Ethereum.
+
+          Perbezaan utama dengan Ethereum ialah ETC mempunyai ekosistem aplikasi yang berbeza, jadi kontrak yang digunakan sedia ada yang anda boleh berinteraksi secara langsung adalah berbeza. Jika anda perlu memasangkan ke aset sedia ada di Ethereum, anda boleh menggunakan aset terbungkus, [jambatan rantaian](/services/apps/interoperability), atau anda juga boleh mempertimbangkan untuk menggunakan versi anda sendiri bagi aset ini.
+      development:
+        question: Bagaimanakah saya boleh membangunkan aplikasi untuk Ethereum Classic?
+        answer: |
+          Lihat bahagian [panduan pembangunan](/panduan/pembangunan), serta bahagian [development](/pembangunan) untuk tutorial dan alatan untuk membantu anda menggunakan Klasik.
+      deployment:
+        question: Bagaimanakah cara saya menggunakan blok Ethereum Classic?
+        answer: |
+          Mula-mula, dapatkan beberapa ETC untuk membayar gas untuk menggunakan kontrak anda, kemudian hanya pastikan anda menggunakan rangkaian Ethereum Classic (ID Rantaian 61), dan bukannya rangkaian Ethereum (ID Rantaian 1).
+      rpc:
+        question: Adakah terdapat titik akhir RPC awam yang boleh saya gunakan untuk digunakan ke ETC?
+        answer: |
+          ya. Jika anda tidak mahu menyegerakkan jalankan nod Ethereum Classic anda sendiri, terdapat beberapa titik akhir awam tersedia yang percuma untuk digunakan.
+
+          Lihat bahagian [RPC Endpoints](/network/endpoints), serta [ChainList.org](https://chainlist.org/en/chain/61).
+      grants:
+        question: Bolehkah saya mendapatkan pembiayaan untuk membina Ethereum Classic?
+        answer: |
+          Oleh kerana Ethereum Classic tidak mempunyai perbendaharaan berpusat, semua pembangunan semestinya sama ada dibiayai sendiri atau melalui pembiayaan pihak ketiga. Pada masa lalu pelbagai pihak ketiga mengendalikan program geran, dan [ETC Cooperative](https://etccooperative.org/) telah mengumumkan bahawa ia akan melancarkan program geran baharu tidak lama lagi.
+      ecips:
+        question: Bagaimanakah saya boleh membantu dengan pembangunan protokol Ethereum Classic?
+        answer: |
+          Anda boleh mengemukakan cadangan untuk peningkatan protokol melalui proses [ECIP](/development/ecips). Anda boleh membantu mengekalkan pangkalan kod pelanggan dengan melawati repositori GitHub bagi [clients](/pembangunan/pelanggan) yang anda ingin bantu.

@@ -1,0 +1,43 @@
+title: Katılımcı SSS
+seo: ETC topluluğuna katılmak ve Ethereum Classic'e katkıda bulunmak isteyenler için Sıkça Sorulan Sorular.
+info: Sorunuza burada cevap bulamadınız mı? ETC topluluğu [discord](https://ethereumclassic.org/discord) sunucusunda sormayı deneyin.
+description: Ethereum Classic topluluğuna dahil olmak hakkında bilgi edinmek istiyorsanız, doğru yerdesiniz.
+items:
+  questions:
+    items:
+      developer:
+        question: Ethereum Classic'e katkıda bulunmak için bir geliştirici olmam gerekir mi?
+        answer: Hiç de değil. Geliştiriciler altyapının oluşturulmasında kritik bir değer sağlarken, geliştirici olmayanlar tartışmasız daha önemli bir rol oynamaktadır. Yetenekleriniz ne olursa olsun, Ethereum Classic'i koordine ederek ve yayılmasına yardımcı olarak, daha fazla geliştirici ve diğer işe alımcıları işe almak gibi başka şekillerde yardımcı olabilirsiniz.
+      channels:
+        question: ETC topluluğuna nasıl katılabilirim?
+        answer: Katılmak için izin istemenize gerek yok. Sadece katkıda bulunmaya başlayın!
+      tasks:
+        question: Hangi görevlerde yardımcı olabilirim?
+        answer: Projenin yardımınıza ihtiyaç duyabileceği şeylerin bir listesi [Ethereum Classic Volunteer GitHub repository] (https://github.com/ethereumclassic/volunteer) adresinde tutulmaktadır.
+      where:
+        question: Ethereum Classic destekçileri çoğunlukla nerede takılıyor?
+        answer: İngilizce konuşan ETC topluluğu çoğunlukla [Discord](https://ethereumclassic.org/discord) adresinde aktiftir. Diğer dillerde olanlar da dahil olmak üzere diğer topluluk forumlarını [Social Channels](/community/channels) bölümünde bulabilirsiniz.
+      ecips:
+        question: Ethereum Classic için nasıl iyileştirmeler önerebilirim?
+        answer: Protokol yükseltmeleri önermek için [Ethereum Classic Improvement Proposal](/development/ecips) sürecini kullanabilirsiniz, ancak önce ETC [Social Channels](/community/channels) kanallarından birinde diğer topluluk üyeleriyle beyin fırtınası yapmaya değer.
+      toxicity:
+        question: ETC topluluğunun zehirli olduğunu duydum. Bu doğru mu?
+        answer: |
+          ETC topluluğunun bir parçası olmak için kimsenin iznine ihtiyaç duyulmadığından, son derece nazik olanlardan bazen biraz daha nahoş olanlara kadar her türlü karakteri kendine çeker. Ayrıca, birçok ETC kullanıcısı ve daha geniş kripto para birimi alanındaki katılımcılar sözde anonimdir, bu nedenle daha az filtreye sahiptir. Bir kişinin tutumunun tüm topluluğu temsil ettiğini düşünmeyin ve lütfen bunun sizi katkıda bulunmaktan caydırmasına izin vermeyin.
+
+          Daha denetimli bir sohbet tercih ediyorsanız, iletişimde nezaket konusunda daha katı kurallar uygulayan [ETC Coop Discord] (https://discord.gg/5wDyd6u6pU) adresini deneyin.
+      events:
+        question: Herhangi bir Ethereum Classic etkinliği var mı?
+        answer: Evet, yıllık konferanslar, haftalık topluluk çağrıları ve düzensiz geliştirici çağrıları düzenlenmektedir. Mevcut, geçmiş ve gelecekteki etkinlikler hakkında daha fazla bilgiyi [events](/community/events) bölümünde bulabilirsiniz.
+      website:
+        question: Uygulamamı, Videomu veya Makalemi bu web sitesine nasıl ekleyebilirim?
+        answer: Talimatlar için lütfen bu web sitesinin [GitHub deposu] (https://github.com/ethereumclassic/ethereumclassic.github.io) adresine göz atın.
+      tweets:
+        question: Nasıl tweet önerebilirim?
+        answer: 'eth_classic](https://github.com/ethereumclassic/tweets-eth_classic) ve [@ETC_Network](https://github.com/ethereumclassic/tweets-etc_network) Twitter hesapları topluluk tarafından önerilen tweetleri kabul etmektedir. Önerdiğiniz tweet''i `#ETCtweets` hashtag''i ile tweetlemeniz yeterlidir; bu tweet topluluk tarafından `#ETCtweets` Discord başlığında incelenecektir.'
+      grants:
+        question: Ethereum Classic'e katkıda bulunmak için ödeme alabilir miyim?
+        answer: |
+          Ana ödeme yöntemi, önemli bir teknolojiye yardım ederek insanlığın geleceğine katkıda bulunduğunuzu bilmenin verdiği sıcak ve bulanık duygulardır.
+
+          Bunun dışında, topluluk içindeki konuşmaları takip ederek göz önünde bulundurmanız gereken ara sıra hibe programları vardır.

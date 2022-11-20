@@ -1,0 +1,53 @@
+billboard:
+  text: '%%$$%% Ethereum'
+  ## must be kind of short, so they fit on the page
+  randomWords:
+    Decentralized: "Terdesentralisasi"
+    Original: "Asal"
+    Veracious: "Jujur"
+    Untainted: "Tidak tercemar"
+    Uncensored: "Tidak ditapis"
+    Untampered: "Tidak diganggu"
+    Immutable: "tidak boleh ubah"
+    Sound Money: "Wang Bunyi"
+    Uncaptured: "Tidak ditangkap"
+    SovereignGrade: "Gred Berdaulat"
+    Principled: "Berprinsip"
+    Unstoppable: "Tidak dapat dihalang"
+    Proof of Work: "Bukti Kerja"
+    Leaderless: "Tanpa pemimpin"
+    Antifragile: "Antirapuh"
+    Code is Law: "Kod adalah Undang-undang"
+    Classic: "Klasik"
+    Permisionless: "Tanpa kebenaran"
+    Global: "Global"
+## feature
+feature:
+  title: Soalan Lazim
+  subtitle: Bahagian Baru
+  text: Dapatkan jawapan yang anda cari dengan pantas dengan menavigasi Soalan Lazim yang disusun mengikut kes penggunaan.
+  button: Soalan Dijawab
+## intro
+intro:
+  title: Bina Aplikasi Tidak Boleh Dihalang
+  content: |
+    Memandangkan institusi penyandang semakin terancam oleh potensi liar teknologi blockchain, hanya mata wang kripto yang benar-benar terdesentralisasi dan selamat akan bertahan.
+
+    Sedia wujud sebagai tindak balas kepada penapisan kontrak pada rantaian saudara Ethereum™ (ETH) dan untuk menegakkan serta memelihara prinsip *Kod adalah Undang-undang*, Ethereum Classic (ETC) telah membuktikan keupayaannya untuk menentang penapisan terhadap semua kemungkinan, dan menyampaikan *asal * Visi Ethereum tentang aplikasi *tidak dapat dihalang*.
+
+    Dengan menggabungkan teknologi Ethereum™ (ETH) dengan falsafah Bitcoin (BTC), Ethereum Classic (ETC) diletakkan secara unik untuk menjadi platform kontrak pintar lapisan asas pada masa hadapan, kerana rantaian lain terjejas atau ditangkap oleh kepentingan khusus. .
+
+    Selamat datang, dan sila dijemput untuk mengetahui masa lalu, masa kini dan masa depan Ethereum Classic; prinsipnya, cadangan nilai, komuniti dan banyak lagi - untuk memahami *mengapa Klasik*.
+  button:
+    text: Mengapa Klasik?
+#Headers
+headings:
+  headlines:
+    title: Tajuk utama
+    button: Semua Berita
+  videos:
+    title: Video Terkini
+    button: Semua Video
+  apps:
+    title: Aplikasi Terkini
+    button: Semua Apl

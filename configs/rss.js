@@ -34,13 +34,19 @@ module.exports = ({ locales, defaultLocale, siteUrl }) => ({
       }
     `,
       serialize: ({ query: { newsItems } }) =>
-        newsItems.edges.map(({ node }) => ({
-          date: node.date,
-          title: node.title,
-          guid: `${siteUrl}${node.link}`,
-          author: dedupeStrings(node.author, node.source),
-          description: (node.parent || {}).excerpt || node.description,
-          url: node.type === "news" ? node.link : `${siteUrl}${node.link}`,
-        })),
+        newsItems.edges.map(({ node }) => {
+          const url =
+            node.type === "news"
+              ? node.link
+              : `${siteUrl}${isDefault ? "" : `/${key}`}${node.link}`;
+          return {
+            date: node.date,
+            title: node.title,
+            guid: url,
+            author: dedupeStrings(node.author, node.source),
+            description: (node.parent || {}).excerpt || node.description,
+            url,
+          };
+        }),
     })),
 });

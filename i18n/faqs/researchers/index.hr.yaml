@@ -1,0 +1,91 @@
+title: Često postavljana pitanja istraživača
+seo: Često postavljana pitanja za one koji istražuju ili pokušavaju razumjeti osnove Ethereum Classica.
+info: Ovdje ne možete pronaći odgovor na svoje pitanje? Pokušajte pitati na poslužitelju ETC zajednice [discord](https://ethereumclassic.org/discord).
+description: Ako ste tek čuli za Ethereum Classic i želite saznati više, ili već imate ETC, ali želite dublje razumijevanje razloga postojanja, ova je stranica za vas.
+items:
+  questions:
+    items:
+      what:
+        question: Što je Ethereum Classic?
+        answer: |
+          Ethereum Classic je Proof of Work Smart Contract Blockchain koji svakome omogućuje izgradnju, implementaciju i korištenje decentraliziranih aplikacija bez dozvole. Ethereum Classic je grassroots open-source projekt koji su izgradili ljudi diljem svijeta bez središnjeg organizacijskog odbora.
+
+          Filozofski, ETC je sličan Bitcoinu, vrednujući ideale decentralizacije, otpora cenzuri i zdravog novca. Tehnološki je sličan Ethereumu, jer upravlja EVM-om (Ethereum Virtual Machine).
+
+          Kombinacija ova dva pristupa stavlja Ethereum Classic u jedinstvenu poziciju, pružajući snažnu decentralističku osnovu ukorijenjenu u cypherpunk idealima zajedno s fleksibilnošću i inovativnošću pametnih ugovora.
+      overview:
+        question: Je li Ethereum Classic pljačka Ethereuma?
+        answer: |
+          Ne. Zapravo, Ethereum je fork Ethereum Classica.
+
+          Godine 2014. [Ethereum](https://ethereum.org/what-is-ethereum/) osnivača započelo je rad na blockchainu sljedeće generacije koji je imao ambicije implementirati opću platformu za pametne ugovore s minimalnim povjerenjem.
+
+          U 2016., nakon kontroverznog hard forka, pokrenuta je nova verzija protokola (sada poznata kao Ethereum) stvaranjem nove mreže s novim pravilima konsenzusa. Ethereum Classic nastavio je slijediti protokol bez račvanja s misijom da nastavi izvornu Ethereum viziju "Izradi nezaustavljive aplikacije".
+      eth:
+        question: Koja je razlika između Ethereum Classic i Ethereum?
+        answer: |
+          Ethereum Classic i Ethereum nekoć su bili isti projekt, ali zbog razlike u filozofiji, zajednice su se razdvojile 2016. Godine 2022. Ethereum je prešao na Proof of Stake, a Classic je ostao na Proof of Work. To je označilo prvu veliku tehnološku razliku između dva lanca.
+
+          Osim svojih mehanizama konsenzusa, ETC i ETH ostaju tehnološki vrlo slični, a ETC održava kompatibilnost s EVM-om tako da se ugovori implementirani na Ethereum također mogu lako implementirati na Ethereum Classic.
+
+          Možete saznati više o razdvajanju između Ethereuma i Ethereum Classica u odjeljcima [history](/knowledge/history) i [geneis](/why-classic/genesis).
+      whitepaper:
+        question: Ima li Ethereum Classic whitepaper?
+        answer: |
+          Budući da je Ethereum fork Ethereum Classica, oba projekta dijele istu povijest do 2016., uključujući prethodne dokumente kao što su Ethereum [Whitepaper](https://ethereum.org/en/whitepaper/) i [Yellowpaper](https://ethereum. github.io/yellowpaper/paper.pdf).
+
+          Nakon razlaza s Ethereumom, pobornici ETC-a objavili su brojne dokumente s detaljima razlika u filozofiji, koji su postali dio DNK projekta Ethereum Classic. Više o osnivačkim dokumentima Ethereum Classica možete pročitati u odjeljku [foundation](/knowledge/foundation).
+      roadmap:
+        question: Gdje mogu pronaći plan puta za Ethereum Classic?
+        answer: |
+          Slično Bitcoinu, kao decentralizirani projekt bez vodstva odozgo prema dolje, ne postoji formalna izvršna mapa puta. Protokol se kontinuirano unapređuje kroz suradnju na lokalnom nivou kroz proces [Ethereum Classic Improvement Proposal](/development/ecips) (ECIP).
+
+          Više o mogućim nadogradnjama možete pronaći u odjeljku [future](/knowledge/future).
+      origins:
+        question: Zašto Ethereum Classic postoji?
+        answer: |
+          Misija Ethereum Classica je nastavak izvorne Ethereumove vizije "Izradi nezaustavljive aplikacije" utjelovljene u idealu "Kodeks je zakon".
+
+          Na tehničkoj razini, Ethereum Classic postoji kao nastavak Ethereuma, koji se odvojio od ETC-a 2016. godine i zaustavljanjem izvršavanja aplikacije koja se na njemu izvodi. O detaljima ovog događaja možete saznati u [geneis](/why-classic/genesis) odjeljku.
+      codeIsLaw:
+        question: Što znači "Kodeks je zakon"?
+        answer: |
+          "Kodeks je zakon" ideal je prema kojem nijedna vlast nema mogućnost miješati se u rad važećih ugovora i transakcija u lancu, omogućujući mnoge obećavajuće prednosti koje imaju potencijal znatno poboljšati stanje u svijetu.
+
+          Alternativa, "Kodeks nije zakon", bila je standardno stanje stvari prije osvita blockchain tehnologije, pri čemu potkupljivi procesi donošenja odluka izvan lanca određuju rezultate ugovora i transakcija.
+
+          Možete saznati više o nijansi ovog koncepta u odjeljku [Kodeks je zakon](/why-classic/code-is-law).
+      decentralization:
+        question: Zašto bih se brinuo o decentralizaciji?
+        answer: |
+          Decentralizacija je preduvjet za "Kodeks je zakon". Omogućuje sudionicima rad pod jednakim uvjetima i ono je što otključava temeljnu vrijednost blockchain tehnologije. Mnogi blockchain projekti, unatoč njihovim tvrdnjama, nisu dovoljno decentralizirani, što ih čini podložnima hvatanju i cenzuri.
+
+          Možete saznati više o tome u odjeljku [decentralism](/why-classic/decentralism).
+      who:
+        question: Tko je zadužen za projekt Ethereum Classic?
+        answer: |
+          Slično Bitcoinu, nijedan entitet nije zadužen za Ethereum Classic projekt. Umjesto toga, pojedinci i timovi koji slijede zajednički skup načela pridonose nedopuštenoj osnovnoj do-okraciji. Iako ova organizacijska struktura ima neke nedostatke, ona također čini projekt imunim na određene vrste zarobljavanja i stoga poboljšava dugoročno preživljavanje.
+
+          Stoga u ETC-u nema vodstva od vrha prema dolje i "ničeg službenog", uključujući ovu web stranicu, pa čak ni klijentski softver Ethereum Classic. Unatoč tome, postoje istaknuti timovi koji djeluju unutar ekosustava, stječući neformalni utjecaj na temelju svoje reputacije, iskustva i doprinosa.
+
+          Možete saznati više o samoorganizirajućoj zajednici Ethereum Classic u odjeljcima [community](/community) i [foundation](/knowledge/foundation).
+      proofOfWork:
+        question: Zašto Ethereum Classic ne koristi Proof of Stake?
+        answer: |
+          Kako Ethereum Classic daje visoki prioritet otporu cenzuri, zajednica je odlučila ostati na prokušanom i istinskom mehanizmu konsenzusa Dokaz rada. Mnogo je razloga zašto različite vrste Proof of Stake ne mogu zadovoljiti ista sigurnosna jamstva kao PoW, ali ukratko, sve one uključuju sigurnosne ili decentralizirane kompromise koji ih čine podložnijim cenzuri.
+
+          Možete saznati više o odluci da se Ethereum Classic ne prebaci na Dokaz o udjelu u odjeljku [Dokaz rada](/why-classic/proof-of-work).
+      stats:
+        question: Kako mogu saznati mrežni status Ethereum Classica?
+        answer: |
+          Informacije o zdravlju i stanju ETC-a možete pronaći u odjeljcima [nadzori mreže](/network/monitors) i [blockchain explorer](/network/explorers), kao i informacije o cijenama na raznim [exchanges](/services/exchanges) .
+
+          Naime, web stranica [etc-network.info](https://etc-network.info/) održava brojne usluge nadzora.
+      news:
+        question: Kako mogu biti u tijeku s ETC događanjima?
+        answer: |
+          Odjeljak [News](/vijesti) redovito se ažurira važnim vijestima i objavama na blogu zajednice, gdje također možete pronaći RSS feed.
+
+          Postoji i mnogo izvora ažuriranja dostupnih iz zajednice [Social Channels](/community/channels). Prije svega, Ethereum Classic zajednica [Discord Server](https://ethereumclassic.org/discord) i [/r/ethereumclassic](https://reddit.com/r/ethereumclassic).
+
+          Također možete pratiti razvojna ažuriranja u organizacijama [Ethereum Classic Github](https://github.com/ethereumclassic) i [ETC Labs Github](https://github.com/etclabscore).

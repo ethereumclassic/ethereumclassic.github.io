@@ -1,0 +1,13 @@
+title: Người khám phá chuỗi khối
+seo: Danh sách các dịch vụ khám phá blockchain cho Ethereum Classic và các testnet ETC khác nhau.
+description: |
+  Blockchain Explorers cung cấp một cách thuận tiện để hiểu rõ hơn về trạng thái hiện tại và quá khứ của một chuỗi nhất định, cho phép bạn kiểm tra nội dung của các khối, giao dịch và số dư tài khoản.
+
+  Các nhà thám hiểm bên thứ ba sau đây xác minh độc lập trạng thái của Ethereum Classic và testnet của nó. Chúng thường được sử dụng để kiểm tra xem các giao dịch đã được phát và xác nhận hay chưa, nhưng nhiều giao dịch cung cấp các tính năng nâng cao hơn như số dư tài khoản lịch sử, xác minh hợp đồng, v.v.
+items:
+  explorers:
+    columnItems:
+      kotti:
+        text: Kotti
+      mordor:
+        text: Mordor

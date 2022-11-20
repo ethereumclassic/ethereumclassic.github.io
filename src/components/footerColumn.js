@@ -1,6 +1,7 @@
 import React from "react";
 import "twin.macro";
-import LocalizedLink from "../../plugins/translations-plugin/src/components/localizedLink";
+import Link from "./link";
+import RssLink from "./rssLink";
 
 export default function FooterColumn({ item: { name, navItems } }) {
   return (
@@ -9,14 +10,18 @@ export default function FooterColumn({ item: { name, navItems } }) {
         {name}
       </h3>
       <ul tw="mt-4 space-y-2 md:space-y-4">
-        {navItems.map(({ key, name, link }) => (
+        {navItems.map(({ key, name, link, rss }) => (
           <li key={key}>
-            <LocalizedLink
-              to={link}
-              tw="text-sm md:text-base text-shade-neutral hover:text-shade-darkest"
-            >
-              {name}
-            </LocalizedLink>
+            {rss ? (
+              <RssLink>{name}</RssLink>
+            ) : (
+              <Link
+                to={link}
+                tw="text-sm md:text-base text-shade-neutral hover:text-shade-darkest"
+              >
+                {name}
+              </Link>
+            )}
           </li>
         ))}
       </ul>

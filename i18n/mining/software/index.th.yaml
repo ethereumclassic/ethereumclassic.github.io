@@ -1,0 +1,18 @@
+title: ซอฟต์แวร์ขุด
+seo: รายการแพ็คเกจซอฟต์แวร์ที่สามารถใช้สำหรับการขุด cryptocurrency ETC บน Ethereum Classic
+description: "อัลกอริธึมการขุด Proof-of-Work สำหรับเครือข่าย Ethereum Classic คือ [ETCHash](https://github.com/eth-classic/etchash) ตั้งแต่วันที่ 28 พฤศจิกายน 2020"
+items:
+  table:
+    columnItems:
+      name:
+        name: ชื่อ
+      windowsAmd:
+        name: Windows AMD
+      windowsNvidia:
+        name: Windows Nvidia
+      linuxAmd:
+        name: Linux AMD
+      linuxNvidia:
+        name: Linux Nvidia
+      guide:
+        text: แนะนำ

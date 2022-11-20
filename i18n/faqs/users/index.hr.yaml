@@ -1,0 +1,109 @@
+title: Često postavljana pitanja korisnika
+seo: Često postavljana pitanja za one koji traže pomoć u svakodnevnom korištenju Ethereum Classica.
+info: Ovdje ne možete pronaći odgovor na svoje pitanje? Pokušajte pitati na poslužitelju ETC zajednice [discord](https://ethereumclassic.org/discord).
+description: Ako želite slati i primati ETC, koristiti neku od aplikacija postavljenih na Ethereum Classic ili ste zabrinuti kako je sigurno koristiti, ova je stranica za vas.
+items:
+  using:
+    items:
+      comparison:
+        question: Mogu li koristiti Ethereum Classic (ETC) na isti način kao Ethereum (ETH)?
+        answer: |
+          Da, Ethereum Classic radi krajnjem korisniku na gotovo isti način kao Ethereum. Samo trebate provjeriti podržava li novčanik, aplikacija, mjenjačnica ili druga usluga koju koristite Classic.
+
+          Ethereum Classic, budući da je tehnološki vrlo sličan Ethereumu, dijeli skup rada u korisničkim vodičima, vodičima i vodičima koji se odnose na oba lanca, zbog čega su [vodiči zajednice na Ethereum.org](https://ethereum.org/ en/learn/) toplo se preporučuju za čitanje.
+
+          Također možete koristiti MetaMask s Ethereum Classic.
+      metmask:
+        question: Kako mogu koristiti ETC s MetaMaskom?
+        answer: |
+          Možete jednostavno dodati Ethereum Classic u MetaMask putem web stranice [CoinList.org](https://coinlist.org/en/chain/61). Ako želite ručno konfigurirati MetaMask za korištenje prilagođenog Ethereum Classic RPC čvora, možete provjeriti vodič [MetaMask](/guides/metamask).
+      missingEtc:
+        question: Zašto ne mogu vidjeti svoj ETC kada koristim hardverski novčanik s MetaMaskom?
+        answer: |
+          [Poznata greška](https://github.com/MetaMask/metamask-extension/issues/16272) s MetaMaskom je to što neće prepoznati ETC kreiran pomoću Ledger Live (i nekih drugih hardverskih novčanika). Ovo možete zaobići slanjem ETC-a iz Ledger Livea u novčanik MetaMask koji ste postavili pomoću istog uređaja.
+      help:
+        question: Slučajno sam poslao ETC na svoju ETH adresu, kako ga mogu povratiti?
+        answer: |
+          Korak 1: Ne brinite. Sve dok ste ga poslali na račun koji kontrolirate ili generirate, vjerojatno ćete moći vratiti svoja sredstva.
+
+          Ovisno o softveru ili razmjeni koju koristite, postoje različite metode oporavka, tako da se ne mogu sve navesti ovdje. Potražite na mreži "[naziv usluge] povrat izgubljenog ETC-a". Možda ćete morati kontaktirati agenta za podršku usluge koju koristite.
+
+          Na primjer, [Ledger novčanik](https://support.ledger.com/hc/en-us/articles/360019363320-Eth-recovery-)
+      metmaskFailign:
+        question: Zašto moja transakcija s MetaMaskom ne uspijeva?
+        answer: |
+          Kako bi se spriječilo stvaranje transakcija više puta, svaka Ethereum Classic transakcija uključuje broj koji se naziva jednokratni broj koji se povećava svaki put kada pošaljete transakciju.
+
+          Ponekad, osobito ako pošaljete transakciju s niskom naknadom za gorivo, vaša transakcija može zapeti u mempoolu. U tom slučaju MetaMask možda neće ispravno postaviti nonce za sljedeće transakcije.
+
+          Možete natjerati MetaMask da koristi ispravan nonce provjerom svojeg nonce-a vaše zadnje uspješne transakcije na [BlockScout](https://blockscout.com/etc/mainnet/), povećanjem za 1 i [ručnim postavljanjem nonce-a u MetaMasku ](https://help.tokensets.com/en/articles/4089766-how-to-push-through-a-stuck-transaction).
+      explorers:
+        question: Kako mogu vidjeti svoje Ethereum Classic transakcije?
+        answer: |
+          Najpopularniji i potpuno opremljen Ethereum Classic istraživač je [BlockScout](https://blockscout.com/etc/mainnet/), ali postoji i nekoliko alternativa dostupnih u odjeljku [block exploreri](/network/explorers).
+      exchange:
+        question: Kako mogu dobiti ETC?
+        answer: |
+          Ethereum Classic je izlistan na gotovo svakoj većoj kriptovaluti [exchange](/usluge/mjenjačnice), gdje možete kupiti ETC s fiat valutom ili trgovati drugim kriptovalutama za nju.
+
+          Ako imate relativno modernu grafičku karticu, možete je također [mine](/rudariti) sami.
+      wallets:
+        question: Koji novčanik preporučujete da koristim s Ethereum Classic?
+        answer: |
+          Dostupno je mnogo različitih vrsta novčanika ovisno o vašem slučaju korištenja. Provjerite odjeljak [wallets](/services/wallets) za više informacija.
+      apps:
+        question: Koje aplikacije rade na Ethereum Classic mreži?
+        answer: |
+          Sve od centraliziranih razmjena, DEX-ova, DeFi-ja, NFT-ova, međulančanih mostova i više. Provjerite odjeljak [services](/services) da biste saznali više.
+      defi:
+        question: Ima li Ethereum Classic DeFi?
+        answer: |
+          Da. Mali, ali rastući decentralizirani financijski ekosustav postoji na Ethereum Classicu, pogledajte kategoriju aplikacija [finance](/services/apps/finance) za ažuriranja.
+      staking:
+        question: Mogu li uložiti svoj ETC?
+        answer: |
+          Ne, barem ne kao na Proof of Stake blockchainu. ETC je blockchain Proof of Work, tako da možete samo rudariti, a ne ulagati, kako biste mreži pružili sigurnost.
+
+          Možda postoje neki [protokoli za posuđivanje] (/services/apps/finance) koji vam omogućuju da posudite svoj ETC za prinos, ali oni nisu dio samog Ethereum Classic protokola i dolaze s rizikom druge strane.
+      safety:
+        question: Čuo sam da je Ethereum Classic napadnut 51%. Je li sigurno koristiti?
+        answer: |
+          U 2020. Ethereum Classic imao je povijesno vrlo nizak hashrate, što je dovelo do serije od 51% napada. Vjeruje se da su napadači iznajmili hashrate i ciljane razmjene s napadima dvostrukog trošenja, koji su ukupno izgubili oko 10 milijuna dolara u ETC-u.
+
+          Kao odgovor, klijenti Ethereum Classica i širi ekosustav od tada su implementirali brojne protumjere, poput duljeg vremena potvrde na burzama, ECIP-1099 i MESS. Otkad su ove protumjere na snazi, nije bilo daljnjih 51% napada.
+
+          Štoviše, otkako je Ethereum prešao na Proof of Stake 2022., ETC je postao najveći lanac koji se može rudariti GPU-om, povećavši svoju stopu raspršivanja za 50x do 100x od posljednjeg napada od 51%. Zbog toga je vrlo malo vjerojatno da će skup hashratea biti dostupan za iznajmljivanje za izvođenje još jednog napada od 51%, a čak i da jest, bilo bi pretjerano skupo to učiniti bez ikakvog jamstva uspjeha.
+
+          Kao i kod svih lanaca blokova Proof of Work, potencijal za 51% napada nužan je dio dizajna protokola. Kako vrijeme odmiče i Ethereum Classic se više ne napada na ovaj način, dionici mogu biti sve sigurniji da su napadi od 51% stvar prošlosti.
+
+          U svakom slučaju, nema financijskog smisla da 51% napadači ciljaju na male vlasnike, a oni ne mogu "ukrasti" vaš ETC. Umjesto toga, oni obično ciljaju na razmjene dvostrukim trošenjem povlačenja. Povijesno gledano, razmjene su bile u stanju apsorbirati ove relativno male napade i provoditi protumjere kako je opisano.
+      deposit:
+        question: Zašto je potrebno toliko dugo za polaganje ETC-a?
+        answer: |
+          Kao što je spomenuto u gornjem pitanju, kao protumjera napadima od 51%, neke mjenjačnice imaju iznimno duga vremena polaganja za Ethereum Classic. To pomaže u obrani burze od napada dvostrukog trošenja, ali znači da korisnici moraju čekati više vremena da se depoziti potvrde.
+
+          Budući da se hashrate ETC-a nedavno značajno povećao, vjerojatno će razmjene smanjiti broj potvrda potrebnih za dovršene depozite.
+      blockchain:
+        question: Što je Blockchain?
+        answer: |
+          Blockchain je posebna vrsta distribuirane baze podataka. Najvažnija osobina blockchaina je da ih nitko ne kontrolira! Ne postoji nitko kome svi trebaju vjerovati da će njime upravljati. Zato ih se naziva nepovjerljivima. Korisnici podnose zadatke u _transakcijama_ koje su grupirane u _blokove_ koji su međusobno povezani u _lance_.
+
+          - [Kako funkcionira blockchain - jednostavno objašnjeno](https://youtu.be/SSo_EIwHSd4)
+          - [Blockchain u 7 minuta](https://youtu.be/yubzJw0uiE4)
+          - [Blockchain tehnologija za glupane - Blockchain objašnjen jednostavno](https://youtu.be/2yJqjTiwpxM)
+          - [Blockchain objašnjen](https://youtu.be/QphJEO9ZX6s)
+      ether:
+        question: Što je Ether?
+        answer: |
+          Ether je izvorni token Ethereuma Classic je kriptovaluta kojom se trguje na burzama digitalnih valuta pod oznakom **ETC**. Ether je stvoren kao nagrada mrežnim čvorovima za proces poznat kao rudarenje, kojim se potvrđuju proračuni izvedeni na EVM-u Ethereum Classic.
+
+          Ether i ETC označavaju izvornu kriptovalutu koja se koristi za plaćanje zadataka kao što je instaliranje novih pametnih ugovora.
+          [Što je Ether i Ethereum?](https://youtu.be/fjnovGRQrRE)
+      gas:
+        question: Što je plin?
+        answer: |
+          Plin je interni mehanizam određivanja cijena transakcija, koristi se za ublažavanje neželjene pošte i raspodjelu resursa na mreži. To je jedinica koja se koristi za označavanje količine _resursa_ potrebnih za obavljanje zadataka kao što je instaliranje novih pametnih ugovora.
+
+          - [Objašnjenje Ethereum plina](https://youtu.be/hQ78FVSv-vs)
+          - [Ether vs Gas razlika | Programer objašnjava](https://youtu.be/cZ0rYWJzeow)
+          - [Cijena plina i transakcija jednokratno](https://mirror.xyz/0x4B0728B9B1E45583bFb8bD738C9C6c8906f2841d/gYK5HwZjAHZuoZXb5FcwcKbGedfX7MbCNt7)

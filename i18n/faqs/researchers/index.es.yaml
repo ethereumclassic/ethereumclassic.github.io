@@ -1,0 +1,91 @@
+title: Preguntas frecuentes de los investigadores
+seo: Preguntas frecuentes para aquellos que investigan o intentan comprender los fundamentos de Ethereum Classic.
+info: '¿No encuentra respuesta a su pregunta aquí? Prueba a preguntar en el servidor de la comunidad ETC [discord](https://ethereumclassic.org/discord).'
+description: Si acabas de oír hablar de Ethereum Classic y quieres saber más, o ya tienes ETC pero quieres conocer más a fondo su razón de ser, esta página es para ti.
+items:
+  questions:
+    items:
+      what:
+        question: '¿Qué es Ethereum Classic?'
+        answer: |
+          Ethereum Classic es una cadena de bloques de contratos inteligentes de prueba de trabajo que permite a cualquier persona construir, desplegar y utilizar aplicaciones descentralizadas sin permiso. Ethereum Classic es un proyecto de código abierto de base construido por personas de todo el mundo sin un comité organizador central.
+
+          Filosóficamente, ETC es similar a Bitcoin, valorando los ideales de descentralización, resistencia a la censura y dinero sólido. Tecnológicamente, es similar a Ethereum, operando una EVM (Máquina Virtual Ethereum).
+
+          La combinación de estos dos enfoques coloca a Ethereum Classic en una posición única, proporcionando una fuerte base descentralista arraigada en los ideales cypherpunk junto con la flexibilidad y la innovación de los contratos inteligentes.
+      overview:
+        question: '¿Es Ethereum Classic una estafa de Ethereum?'
+        answer: |
+          No. De hecho, Ethereum es un fork de Ethereum Classic.
+
+          En 2014, los fundadores de [Ethereum](https://ethereum.org/what-is-ethereum/) empezaron a trabajar en una blockchain de nueva generación que tenía la ambición de implementar una plataforma de contratos inteligentes general y de confianza mínima.
+
+          En 2016, tras un controvertido hard fork, se lanzó una nueva versión del protocolo (ahora conocido como Ethereum) generando una nueva red con nuevas reglas de consenso. Ethereum Classic continuó siguiendo el protocolo no bifurcado con la misión de continuar la visión original de Ethereum de "construir aplicaciones imparables".
+      eth:
+        question: '¿Cuál es la diferencia entre Ethereum Classic y Ethereum?'
+        answer: |
+          Ethereum Classic y Ethereum fueron una vez el mismo proyecto, pero debido a una diferencia de filosofía, las comunidades se separaron en 2016. En 2022, Ethereum cambió a Proof of Stake, mientras que Classic siguió con Proof of Work. Esto marcó la primera gran diferencia tecnológica entre las dos cadenas.
+
+          Aparte de sus mecanismos de consenso, ETC y ETH siguen siendo muy similares tecnológicamente, y ETC mantiene la compatibilidad con EVM para que los contratos desplegados en Ethereum también puedan ser fácilmente desplegados en Ethereum Classic.
+
+          Puede obtener más información sobre la división entre Ethereum y Ethereum Classic en las secciones [history](/conocimiento/historia) y [geneis](/por qué-classic/genesis).
+      whitepaper:
+        question: '¿Tiene Ethereum Classic un libro blanco?'
+        answer: |
+          Dado que Ethereum es una bifurcación de Ethereum Classic, ambos proyectos comparten la misma historia hasta 2016, incluyendo documentos precedentes como el de Ethereum [Whitepaper](https://ethereum.org/en/whitepaper/) y [Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf).
+
+          Tras la escisión con Ethereum, los partidarios de ETC publicaron una serie de documentos en los que se detallaban las diferencias de filosofía, que pasaron a formar parte del ADN del proyecto Ethereum Classic. Puede leer más sobre los documentos fundacionales de Ethereum Classic en la sección [foundation](/conocimiento/fundación).
+      roadmap:
+        question: '¿Dónde puedo encontrar la hoja de ruta de Ethereum Classic?'
+        answer: |
+          Al igual que Bitcoin, al ser un proyecto descentralizado sin liderazgo descendente, no existe una hoja de ruta ejecutiva formal. El protocolo se mejora continuamente mediante la colaboración de las bases a través del proceso [Ethereum Classic Improvement Proposal](/desarrollo/ecips) (ECIP).
+
+          Puede encontrar más información sobre posibles mejoras en la sección [future](/conocimiento/futuro).
+      origins:
+        question: '¿Por qué existe Ethereum Classic?'
+        answer: |
+          La misión de Ethereum Classic es continuar con la visión original de Ethereum de "Construir aplicaciones imparables" plasmada en el ideal de "El código es ley".
+
+          A nivel técnico, Ethereum Classic existe como una continuación de Ethereum, que se separó de ETC en 2016 y al detener la ejecución de una aplicación que se ejecuta en él. Puede conocer los detalles de este acontecimiento en la sección [geneis](/why-classic/genesis).
+      codeIsLaw:
+        question: '¿Qué significa "El código es la ley"?'
+        answer: |
+          "El código es la ley" es un ideal por el que ninguna autoridad tiene la capacidad de interferir en las operaciones de los contratos y transacciones válidos en la cadena, permitiendo muchos beneficios prometedores que tienen el potencial de mejorar enormemente el estado del mundo.
+
+          La alternativa, "El código no es la ley", ha sido el estado estándar de las cosas antes de los albores de la tecnología blockchain, por el cual los procesos corruptibles de toma de decisiones fuera de la cadena determinan el resultado de los contratos y las transacciones.
+
+          Puedes aprender más sobre los matices de este concepto en la sección [Code is Law](/por qué el código es ley).
+      decentralization:
+        question: '¿Por qué debería preocuparme la descentralización?'
+        answer: |
+          La descentralización es un requisito previo para "El código es la ley". Permite a los participantes operar en igualdad de condiciones, y es lo que desbloquea el valor fundamental de la tecnología blockchain. Muchos proyectos de blockchain, a pesar de sus pretensiones, no están suficientemente descentralizados, lo que los hace susceptibles de ser capturados y censurados.
+
+          Puede obtener más información al respecto en la sección [decentralism](/why-classic/decentralism).
+      who:
+        question: '¿Quién está a cargo del proyecto Ethereum Classic?'
+        answer: |
+          Al igual que en el caso de Bitcoin, ninguna entidad está a cargo del proyecto Ethereum Classic. En su lugar, los individuos y los equipos que siguen un conjunto de principios comunes contribuyen en una democracia de base sin permiso. Aunque esta estructura organizativa tiene algunos inconvenientes, también hace que el proyecto sea inmune a ciertos tipos de captura y, por tanto, mejora la supervivencia a largo plazo.
+
+          Por lo tanto, en ETC no hay liderazgo de arriba abajo ni "nada oficial", incluyendo este sitio web e incluso el software cliente de Ethereum Classic. No obstante, hay equipos destacados que operan dentro del ecosistema, obteniendo una influencia informal basada en su reputación, trayectoria y contribuciones.
+
+          Puede obtener más información sobre la comunidad autoorganizada de Ethereum Classic en las secciones [community](/comunidad) y [foundation](/conocimiento/fundación).
+      proofOfWork:
+        question: '¿Por qué Ethereum Classic no utiliza Proof of Stake?'
+        answer: |
+          Dado que Ethereum Classic da gran prioridad a la resistencia a la censura, su comunidad ha decidido mantener el mecanismo de consenso Proof of Work, de probada eficacia. Hay muchas razones por las que los distintos tipos de Proof of Stake no son capaces de ofrecer las mismas garantías de seguridad que PoW, pero en resumen, todos implican compromisos de seguridad o descentralización que los hacen más susceptibles a la censura.
+
+          Puede obtener más información sobre la decisión de Ethereum Classic de no cambiar a Proof of Stake en la sección [Proof of Work](/por qué-classic/proof-of-work).
+      stats:
+        question: '¿Cómo puedo conocer el estado de la red de Ethereum Classic?'
+        answer: |
+          Puede encontrar información sobre la salud y el estado de ETC en las secciones [monitores de red](/red/monitores) y [explorador de blockchain](/red/exploradores), así como información sobre los precios en varios [exchanges](/servicios/bolsas).
+
+          En particular, el sitio web [etc-network.info](https://etc-network.info/) mantiene una serie de servicios de supervisión.
+      news:
+        question: '¿Cómo puedo mantenerme al día de los acontecimientos del CFE?'
+        answer: |
+          La sección [News](/news) se actualiza periódicamente con noticias importantes y publicaciones del blog de la comunidad, donde también puede encontrar un feed RSS.
+
+          También hay muchas fuentes de actualizaciones disponibles en los [Canales Sociales] de la comunidad (/comunidad/canales). En particular, la comunidad Ethereum Classic [Discord Server](https://ethereumclassic.org/discord) y [/r/ethereumclassic](https://reddit.com/r/ethereumclassic).
+
+          También puede seguir las actualizaciones de desarrollo en las organizaciones [Ethereum Classic Github](https://github.com/ethereumclassic) y [ETC Labs Github](https://github.com/etclabscore).

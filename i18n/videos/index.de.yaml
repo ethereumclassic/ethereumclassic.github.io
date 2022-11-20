@@ -1,0 +1,35 @@
+title: Videos
+description: Eine Sammlung von Videos über Ethereum Classic, geordnet nach Kategorien.
+support: Unterstützen Sie ETC, indem Sie Ihre eigenen Videos einreichen!
+changeLanguage: Auf dieser Seite werden nur Videos in der aktuell ausgewählten Sprache angezeigt. Weitere Inhalte finden Sie unter Englische Videos.
+tags:
+  explainers:
+    title: Erklärer
+    description: Lehrvideos, die die Philosophie, Geschichte und technischen Konzepte von Ethereum Classic erklären.
+  tutorials:
+    title: Anleitungen
+    description: Anleitungen zur Verwendung und Entwicklung von Ethereum Classic.
+  development:
+    title: Entwicklung
+    description: Videos zu Themen rund um die Ethereum Classic-Technologie für Entwickler.
+  trading:
+    title: Handel
+    description: Technische und fundamentale Analysen, Kursprognosen und Anlageberatung zu ETC.
+  discussions:
+    title: Diskussionen
+    description: Langfristige Diskussionen, einschließlich Podcasts, Debatten und wöchentliche Gemeinschaftsanrufe
+  mining:
+    title: Bergbau
+    description: Videos über den Abbau von ETC, Hardware, Software und Gewinnerwartungen. Weitere Informationen finden Sie auch unter [mining](/mining).
+  conferences:
+    title: Konferenzen
+    description: Der Ethereum Classic Summit ist eine jährliche Veranstaltung, die in verschiedenen Städten weltweit stattfindet. Dieser Abschnitt enthält Vorträge vom ETC Summit und anderen Konferenzen oder Treffen.
+  etc-summit-2018:
+    title: ETC-Gipfel 2018
+    description: Der zweite Ethereum Classic Summit fand am 12. September 2018 in Seoul, Korea, statt.
+  etc-summit-2019:
+    title: ETC-Gipfel 2019
+    description: Der dritte Ethereum Classic Summit fand am 3. Oktober 2019 in Vancouver, Kanada, statt.
+  etc-summit-2017:
+    title: ETC-Gipfel 2017
+    description: Der erste Ethereum Classic Summit fand am 13. November 2017 in Hongkong statt.

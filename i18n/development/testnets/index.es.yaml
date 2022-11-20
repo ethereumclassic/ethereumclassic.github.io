@@ -1,0 +1,33 @@
+title: Redes de prueba
+seo: Información sobre las distintas redes de prueba de Ethereum Classic, que son redes disponibles públicamente que pueden utilizarse para probar contratos y actualizaciones del protocolo.
+description: |
+  Al desarrollar contratos en Ethereum Classic, al igual que con cualquier sistema de contratos de EVM, se aconseja utilizar una [red virtual] local (/desarrollo/herramienta), que le permite iterar rápidamente sin tener que esperar a que se minen los bloques. En algún momento, sin embargo, es posible que desee permitir que el público interactúe con una versión beta de su aplicación, y para ello se puede utilizar una red de prueba.
+
+  Como Ethereum Classic mantiene la compatibilidad con el EVM de Ethereum, aparte de algunos casos de borde menores, los contratos se comportarán de forma idéntica. Esto significa que las redes de pruebas populares de Ethereum como [Kovan](https://kovan-testnet.github.io/website/) pueden, en su mayor parte, ser utilizadas para las pruebas públicas de los contratos de Ethereum Classic, y debido a su popularidad esto puede ser preferible para las pruebas de los usuarios.
+
+  Además, Ethereum Classic tiene sus propias redes de prueba que operan la versión Ethereum Classic del EVM, y el despliegue en una de estas redes es también muy recomendable antes de la liberación de la producción. Estas redes de prueba públicas también proporcionan grifos, por lo que puede adquirir fácilmente ETC de la red de prueba y desplegar su código.
+
+  Algunas de estas redes, como Astor, prueban versiones experimentales de ETC con características que aún no existen en la red principal de Ethereum Classic.
+items:
+  testnets:
+    i18n:
+      pow: Prueba de trabajo
+      poa: Prueba de autoridad
+      testnet: Testnet
+      experimental: Experimental
+      faucet: Grifo
+    columnItems:
+      name:
+        name: Nombre
+      faucet:
+        text: Grifo
+      type:
+        name: Tipo
+      miningAlgo:
+        name: Algoritmo
+      consensusAlgo:
+        name: Tipo de consenso
+      networkId:
+        name: NetworkID
+      chainId:
+        name: ChainID

@@ -1,0 +1,24 @@
+title: 交流会
+seo: 支持ETC的集中化和信任最小化的交易所、DEX、NFT市场和支付处理器的列表。
+description: |
+  本页包含允许你购买或交易ETC的服务列表。
+
+  ## 非详尽的交易所列表
+
+  以下交易所都支持Ethereum Classic。它们被分为3类；信任最小化、集中化和跨链。
+
+  **请对您选择的交易所进行自己的研究，以获取Ethereum Classic的来源。被列入本网站并不构成Ethereum Classic项目对该交易所服务的认可。
+items:
+  Trust-Minimizing Exchanges:
+    title: 信任最小化的交流
+    description: 以下交易所可能不是*完全去中心化的交易所，但以比下面的中心化部分更少的中心化方式运作。这些产品很可能使用非托管的智能合约来促进交易所的发展。
+  Centralized Spot Markets:
+    title: 集中式现货市场
+  Centralized Derivative Markets:
+    title: 集中化的衍生品市场
+  Cross-Chain Swap Exchanges:
+    title: 跨链掉期交易
+    description: "*注意：*跨链掉期交易所通常提供比集中式交易所更差的利率。"
+  NFT Marketplaces:
+    title: NFT Marketplaces
+    description: 以下的NFT市场可能不是*完全的去中心化的市场。

@@ -14,7 +14,7 @@ export default function LinkIcon({ big, icon, sibling, left }) {
         tw`inline`,
         big ? tw`h-4 mx-2.5` : tw`h-3 mx-1.5`,
         !sibling && tw`mx-0`,
-        left ? tw`ml-0` : tw`mr-0`,
+        left ? tw`ml-0` : tw`ml-1 mr-0.5`,
         icon === "external" && tw`opacity-50`,
       ]}
     />

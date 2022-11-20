@@ -8,10 +8,11 @@ import { theme } from "twin.macro";
 
 import SeoHelper from "./seoHelper";
 
-import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
+import { useLocalization } from "../../plugins/translations-plugin/src/components/localizationProvider";
 import { etc as EtcLogo } from "../utils/icons";
 import { useTheme } from "../utils/themeProvider";
 import useSiteMetadata from "../utils/useSiteMetadata";
+import useLocaleItems from "../utils/useLocaleItems";
 
 export default function Seo({
   data,
@@ -19,8 +20,13 @@ export default function Seo({
   location: { pathname: path },
   pageContext: { basePath },
 }) {
-  const { ui } = useGlobals();
-  const { siteUrl, socialImage, i18nDev } = useSiteMetadata();
+  const { current } = useLocaleItems();
+  const {
+    globals: { ui },
+    dev: i18nDev,
+  } = useLocalization();
+  const { siteUrl, socialImage } = useSiteMetadata();
+
   const { isDark } = useTheme();
   const is404 = basePath === "404";
   const url = `${siteUrl}${path}`;
@@ -75,6 +81,17 @@ export default function Seo({
   return (
     <>
       <Helmet titleTemplate={`%s - ${title}`} defaultTitle={title}>
+        {i18nDev &&
+          current.editor && [
+            <script type="text/javascript">
+              {`var _jipt = []; _jipt.push(['project', '${i18nDev}']);`}
+            </script>,
+            <script
+              type="text/javascript"
+              src="//cdn.crowdin.com/jipt/jipt.js"
+            />,
+          ]}
+
         {/* favicon, with fallback */}
         <link
           rel="icon"
@@ -142,7 +159,7 @@ export default function Seo({
           <meta key="twitter:image" name="twitter:image" content={image} />,
         ]}
       </Helmet>
-      {i18nDev && <SeoHelper meta={meta} />}
+      {i18nDev && current.editor && <SeoHelper meta={meta} />}
     </>
   );
 }
