@@ -23,6 +23,8 @@ tagNames:
   wallet: Wallets
   video: Videos
   news: Headlines
+  opinion: Opinion
+  philosophy: Philosophy
 __contributors:
   - pyskell
   - dax-classix
