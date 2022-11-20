@@ -22,14 +22,15 @@ export default function Link({
   ...props
 }) {
   const url = useRedirectedUrl(href || to);
-  const isExternal = !(isInternal(url) || isHash(url));
-  const LinkCompBase = isExternal ? "a" : LocalizedLink;
+  const isExternal = !isInternal(url);
+  const useAComp = isExternal || isHash(url);
+  const LinkCompBase = useAComp ? "a" : LocalizedLink;
   const LinkComp = button ? Button : LinkCompBase;
   const iconName = icon || (showExternal && isExternal && "external");
   const nowrap = isString(children) && children.length < 20;
   const linkProps = {
-    ...(isExternal
-      ? { href: url, target: "_blank" }
+    ...(useAComp
+      ? { href: url, target: isExternal ? "_blank" : null }
       : { to: url, notLocalized }),
     ...(scrollTo && { state: { scrollTo } }),
   };
