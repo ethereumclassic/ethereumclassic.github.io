@@ -88,10 +88,8 @@ newsTypes:
     name: مقالات
   application:
     name: تطبيق
-    prefix: "تطبيق: "
   video:
     name: فيديو
-    prefix: "فيديو: "
 ## App Modal
 appModal:
   verifiedContract: عقد
