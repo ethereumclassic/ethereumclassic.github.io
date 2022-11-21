@@ -88,10 +88,8 @@ newsTypes:
     name: 博客
   application:
     name: 应用
-    prefix: "应用。 "
   video:
     name: 视频
-    prefix: "视频。 "
 ## App Modal
 appModal:
   verifiedContract: 合同
