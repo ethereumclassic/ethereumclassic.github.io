@@ -88,8 +88,10 @@ newsTypes:
     name: Blog
   application:
     name: Εφαρμογή
+    prefix: "App"
   video:
     name: Βίντεο
+    prefix: "βίντεο"
 ## App Modal
 appModal:
   verifiedContract: Σύμβαση
