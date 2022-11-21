@@ -1,3 +1,5 @@
+// TODO create categories for locales
+
 module.exports = ({ siteUrl, lastUpdated }) => ({
   output: "/",
   query: `

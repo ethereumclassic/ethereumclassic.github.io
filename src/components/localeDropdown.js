@@ -58,7 +58,7 @@ export default function LocaleDropdown() {
               >
                 <PopOverContainer>
                   <div tw="overflow-y-scroll max-h-52 py-1 text-sm">
-                    {localeItems.map(({ key, name, enabled }) => (
+                    {localeItems.map(({ key, name, enabled, flag }) => (
                       <Listbox.Option key={key} value={key} as={Fragment}>
                         {({ active }) => (
                           <li
@@ -69,7 +69,7 @@ export default function LocaleDropdown() {
                           >
                             <div tw="flex items-center">
                               <Icon
-                                icon={key}
+                                icon={flag || key}
                                 alt={name}
                                 tw="flex-shrink-0 h-5 rounded-full"
                               />

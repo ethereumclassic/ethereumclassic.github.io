@@ -1,0 +1,43 @@
+title: Preguntas frecuentes de los desarrolladores
+seo: Preguntas frecuentes para aquellos que quieren contribuir o crear aplicaciones en Ethereum Classic.
+info: '¿No encuentra respuesta a su pregunta aquí? Prueba a preguntar en el servidor de la comunidad ETC [discord](https://ethereumclassic.org/discord). En concreto, puede que te interese el canal `#dev-general` de ETC Discord.'
+description: '¿Quieres aprender a construir una aplicación o protocolo sobre Ethereum Classic? Esta página es para ti.'
+items:
+  questions:
+    items:
+      types:
+        question: '¿Qué tipo de aplicaciones puedo crear en el ETC?'
+        answer: |
+          Como ETC utiliza el EVM de turing completo, cualquier tipo de sistema de contrato inteligente puede desplegarse en ETC; desde Multisigs, hasta DeFi, pasando por NFTs, hasta donde sus sueños puedan llevarle. Cualquier aplicación que pueda desplegarse en Ethereum también puede desplegarse en Ethereum Classic.
+
+          Algunas otras cadenas tienen un historial de censura de ciertas aplicaciones y transacciones, así que si quieres asegurarte de que tu aplicación se ejecuta exactamente como está programada, sin tiempo de inactividad, censura o interferencia de terceros, entonces considera desplegar en Ethereum Classic.
+
+          Para ver algunos ejemplos de aplicaciones que se han desplegado en Ethereum Classic, consulte la sección [apps](/services/apps).
+      eth:
+        question: '¿Cuál es la diferencia entre ETH y ETC a la hora de escribir aplicaciones?'
+        answer: |
+          No hay ninguna diferencia a la hora de escribir contratos; puedes utilizar las mismas herramientas para desarrolladores y el mismo lenguaje de programación (en particular, Solidity) que utilizarías con Ethereum.
+
+          La principal diferencia con Ethereum es que ETC tiene un ecosistema de aplicaciones diferente, por lo que los contratos desplegados existentes con los que puedes interactuar directamente son diferentes. Si necesita conectarse a un activo existente en Ethereum, podría utilizar un activo envuelto, [puentes de cadena cruzada] (/servicios/aplicaciones/interoperabilidad), o incluso podría considerar el despliegue de su propia versión de estos activos.
+      development:
+        question: '¿Cómo puedo desarrollar aplicaciones para Ethereum Classic?'
+        answer: |
+          Consulta la sección [guías de desarrollo](/guides/development), así como la sección [development](/development) para ver tutoriales y herramientas que te ayudarán a desplegar en Classic.
+      deployment:
+        question: '¿Cómo se despliega en la blockchain de Ethereum Classic?'
+        answer: |
+          En primer lugar, adquiere algunos ETC para pagar el gas para desplegar tu contrato, luego simplemente asegúrate de desplegarlo en la red de Ethereum Classic (Chain ID 61), en lugar de la red de Ethereum (Chain ID 1).
+      rpc:
+        question: '¿Existen puntos finales RPC públicos que pueda utilizar para desplegar en ETC?'
+        answer: |
+          Sí. Si no quieres sincronizar tu propio nodo de Ethereum Classic, hay una serie de endpoints públicos disponibles que son de uso gratuito.
+
+          Consulta la sección [RPC Endpoints](/network/endpoints), así como [ChainList.org](https://chainlist.org/en/chain/61).
+      grants:
+        question: '¿Puedo obtener financiación para construir en Ethereum Classic?'
+        answer: |
+          Como Ethereum Classic no tiene una tesorería centralizada, todo el desarrollo se financia necesariamente por sí mismo o a través de la financiación de terceros. En el pasado, varias terceras partes gestionaron programas de subvenciones, y [ETC Cooperative](https://etccooperative.org/) ha anunciado que lanzará un nuevo programa de subvenciones en breve.
+      ecips:
+        question: '¿Cómo puedo ayudar al desarrollo del protocolo Ethereum Classic?'
+        answer: |
+          Puedes presentar propuestas de actualización de protocolos a través del proceso [ECIP](/development/ecips). Puedes ayudar a mantener las bases de código de los clientes visitando los repositorios de GitHub de [clients](/desarrollo/clientes) en los que te gustaría ayudar.

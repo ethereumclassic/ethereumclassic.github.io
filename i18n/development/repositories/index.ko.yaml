@@ -1,0 +1,20 @@
+title: Git 저장소
+description: Ethereum Classic 개발자를 위한 다양한 오픈 소스 저장소.
+items:
+  repos:
+    items:
+      EthereumClassic:
+        name: 주요 Github 조직
+        description: 다수의 리포지토리를 포함하는 메인 이더리움 클래식 Github 조직, 그 중 하나를 아래에서 강조할 것입니다...
+      eth-classic:
+        name: 대체 Github 조직
+        description: 또 다른 커뮤니티는 테스트넷 구성, ETCHash, Besu 등을 포함하는 Github 조직을 관리합니다.
+      etcLabs:
+        name: ETC 연구소
+        description: core-get을 포함하여 ETC Labs에서 이전에 관리했던 많은 Ethereum Classic 리포지토리를 포함하는 조직입니다.
+      website:
+        name: ETC 웹사이트
+        description: 기여 방법에 대한 지침을 포함하여 바로 이 웹사이트의 소스 코드입니다.
+      awesomeEtc:
+        name: 굉장 ETC
+        description: Ethereum Classic(ETC) 프로젝트를 위한 멋진 리소스 목록입니다.

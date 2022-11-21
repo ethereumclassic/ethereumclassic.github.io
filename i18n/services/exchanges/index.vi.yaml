@@ -1,0 +1,24 @@
+title: Sở giao dịch
+seo: Danh sách các sàn giao dịch tập trung và giảm thiểu sự tin cậy, DEX, thị trường NFT và bộ xử lý thanh toán hỗ trợ ETC.
+description: |
+  Trang này chứa danh sách các dịch vụ cho phép bạn mua hoặc giao dịch ETC.
+
+  ## Danh sách các sàn giao dịch không đầy đủ
+
+  Các sàn giao dịch sau đây đều hỗ trợ Ethereum Classic. Chúng được chia thành 3 loại; giảm thiểu niềm tin, tập trung và xuyên chuỗi.
+
+  ** Vui lòng thực hiện nghiên cứu của riêng bạn về sàn giao dịch bạn chọn để cung cấp Ethereum Classic. Việc được liệt kê trên trang web này không cấu thành sự chứng thực các dịch vụ của sàn giao dịch bởi dự án Ethereum Classic. **
+items:
+  Trust-Minimizing Exchanges:
+    title: Trao đổi giảm thiểu đáng tin cậy
+    description: Các sàn giao dịch sau có thể không phải là các sàn giao dịch phi tập trung * hoàn toàn *, nhưng hoạt động theo cách ít tập trung hơn các phần tập trung bên dưới. Có khả năng những sản phẩm này sử dụng hợp đồng thông minh không giám sát để trao đổi liên kết.
+  Centralized Spot Markets:
+    title: Thị trường giao ngay tập trung
+  Centralized Derivative Markets:
+    title: Thị trường phái sinh tập trung
+  Cross-Chain Swap Exchanges:
+    title: Trao đổi hoán đổi chuỗi chéo
+    description: "* Lưu ý: * Các Sở giao dịch hoán đổi chuỗi chéo thường cung cấp tỷ giá thấp hơn so với Sở giao dịch tập trung."
+  NFT Marketplaces:
+    title: Thị trường NFT
+    description: Các thị trường NFT sau đây có thể không phải là thị trường phi tập trung * hoàn toàn *.

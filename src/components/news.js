@@ -7,13 +7,12 @@ import Pagination from "./pagination";
 import Link from "./link";
 
 import Icon from "./icon";
-import { useLocalization } from "../../plugins/translations-plugin/src/components/localizationProvider";
 import Disclaimer from "./disclaimer";
 import TwContainer from "./twContainer";
 import NoItems from "./noItems";
+import RssLink from "./rssLink";
 
 export default function News({ pageContext, data, i18n }) {
-  const { isDefaultLocale, locale } = useLocalization();
   return (
     <TwContainer grid>
       <main tw="col-span-full md:col-span-9 relative mt-5 md:mt-8">
@@ -74,14 +73,9 @@ export default function News({ pageContext, data, i18n }) {
         <div tw="sticky top-20 space-y-4">
           <NewsFilters {...{ pageContext, i18n }} />
           <div tw="text-center">
-            <Link
-              notLocalized
-              to={isDefaultLocale ? "/rss.xml" : `/rss-${locale}.xml`}
-              icon="feed"
-              button
-            >
+            <RssLink icon="feed" button>
               {i18n.rss}
-            </Link>
+            </RssLink>
           </div>
         </div>
       </aside>

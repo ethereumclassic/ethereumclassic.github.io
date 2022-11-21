@@ -1,0 +1,24 @@
+items:
+  links:
+    items:
+      Grayscale's ETC Research Report:
+        name: 그레이스케일의 ETC 연구 보고서
+        description: Ethereum Classic의 가치 제안에 대한 Grayscale의 보고서. ETH와 ETC의 기원, ETC가 사물 인터넷을 구동할 수 있는 가치 저장 상품으로 제시하는 투자 기회, ETC에 대한 전략적 할당이 투자자 포트폴리오의 효율성을 향상시키는 방법에 대해 설명합니다.
+      etcIsMoney:
+        name: ETC는 돈이다
+        description: '"하드 머니"의 특성과 이더리움 클래식과의 관계에 대한 다채롭고 독단적인 알림'
+      The Ethereum Classic Monetary Policy Explained:
+        name: 이더리움 클래식 통화 정책 설명
+        description: 비트코인과 유사하고 ETH와 달리 ETC의 상한선 통화 정책을 제시합니다. ETC의 총 공급량은 다음 세기 동안 1억 9,900만에서 2억 1,000만 사이로 수렴될 것입니다. 또한 5백만 블록마다 20% 새로운 공급 감소("50% 감소")와 초기 출시 할당의 경제성에 대해 설명합니다.
+      The Logic of why Ethereum Classic will Rise 1000x in the Medium to Long Term:
+        name: Ethereum Classic이 중장기적으로 1000배 상승할 이유에 대한 논리
+        description: Etherplan은 왜 Ethereum Classic이 가까운 장래에 유리한 수익을 *나타낼 수 있는지* 설명합니다.
+      Why Does Ethereum Classic Have Value?:
+        name: Ethereum Classic이 가치가 있는 이유는 무엇입니까?
+        description: Etherplan은 ETC의 가치 제안과 네트워크가 "프로그래밍 가능한 디지털 골드"로서 근본적인 가치를 갖는 이유를 조사합니다.
+      Decentralized Finance (DeFi) on ETC Explained:
+        name: ETC의 분산 금융(DeFi) 설명
+        description: 소유주가 블록체인에 자산을 저장하고 분산 금융 애플리케이션을 통해 활용하는 방법을 탐구합니다. DeFi는 참가자들에게 전통적인 은행 시스템에 비해 자금에 대한 훨씬 더 큰 통제력과 투명성을 제공합니다.
+      Grayscale Ethereum Classic Trust (ETCG):
+        name: 그레이스케일 이더리움 클래식 트러스트(ETCG)
+        description: 그레이스케일의 이더리움 클래식 트러스트를 통해 투자자는 기존 투자 수단을 통해 ETC의 가격 변동에 노출될 수 있습니다. ETCG는 중개를 통해 주식 시장에서 거래되며 퇴직 계좌(IRA/401K)로 보유할 수 있습니다. 투자자가 ETC를 구매하고 보관하는 문제를 피합니다.

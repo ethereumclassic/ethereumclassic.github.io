@@ -24,6 +24,7 @@ contributors: "This page exists thanks in part to the following contributors:"
 allLanguages: All Languages
 noResults: No Results
 netlify: This site is powered by Netlify
+crowdin: Localization with Crowdin
 metaMask: Add ETC to MetaMask
 helpTranslate: Support ETC by helping to translate this website!
 noItems: Sorry, this page is empty!
@@ -43,7 +44,7 @@ search:
 ## Announcement Banner
 announcement:
   __color: green
-  __enabled: 0
+  __enabled: 1
   __allPages: 0
   __alli18nPages: 1
   __icon: language

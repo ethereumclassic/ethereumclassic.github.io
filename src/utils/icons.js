@@ -139,7 +139,7 @@ export {
   faMediumM as medium,
 } from "@fortawesome/free-brands-svg-icons";
 
-// flags, used via locale key; https://github.com/lipis/flag-icons/blob/main/country.json
+// flags, used via locale key or flag key; https://github.com/lipis/flag-icons/blob/main/country.json
 export { default as en } from "flag-icon-css/flags/1x1/gb.svg";
 export { default as de } from "flag-icon-css/flags/1x1/de.svg";
 export { default as ja } from "flag-icon-css/flags/1x1/jp.svg";
@@ -153,5 +153,8 @@ export { default as th } from "flag-icon-css/flags/1x1/th.svg";
 export { default as es } from "flag-icon-css/flags/1x1/es.svg";
 export { default as hr } from "flag-icon-css/flags/1x1/hr.svg";
 export { default as nl } from "flag-icon-css/flags/1x1/nl.svg";
-export { default as sa } from "flag-icon-css/flags/1x1/sa.svg";
+export { default as eg } from "flag-icon-css/flags/1x1/eg.svg";
 export { default as in } from "flag-icon-css/flags/1x1/in.svg";
+export { default as gr } from "flag-icon-css/flags/1x1/gr.svg";
+export { default as my } from "flag-icon-css/flags/1x1/my.svg";
+export { default as it } from "flag-icon-css/flags/1x1/it.svg";

@@ -1,0 +1,30 @@
+title: Novčanici
+seo: Izvor web novčanika, proširenja, softverskih novčanika, hardverskih novčanika i drugih načina za zaštitu ETC-a.
+description: |
+  Postoji mnogo opcija novčanika koje možete odabrati za zaštitu i korištenje ETC-a. Svaka opcija daje drugačiju ravnotežu između sigurnosti i praktičnosti. Istražite najbolju opciju ovisno o vašim zahtjevima.
+
+  ## Koji novčanik trebam koristiti?
+
+  Sljedeći prijedlozi nisu preporuke i služe samo kao pomoć novim korisnicima da brzo pronađu opciju koja im vjerojatno odgovara.
+
+  - Ako želite jednostavnu mobilnu aplikaciju, [Trust Wallet](https://trustwallet.com/ethereum-classic-wallet) jednostavan je za korištenje i podržava mnoge valute uključujući ETC.
+  - Ako želite držati male količine ETC-a za korištenje s decentraliziranim aplikacijama, pokušajte [MetaMask](/guides/metamask) i povežite ga s Ethereum Classic.
+  - Ako prihvaćate ETC za svoju tvrtku, vjerojatno samo želite stvoriti [exchange](/services/exchanges) račun koji možete koristiti za prodaju u vašoj lokalnoj valuti.
+  - Ako imate veće iznose, toplo se preporučuje kupnja [Hardware Wallet](#hardware-wallets).
+  - Za naprednije slučajeve upotrebe, molimo vas da sami istražite i isprobate nekoliko opcija u nastavku.
+items:
+  web:
+    title: Web novčanici
+    description: Ovim Web3 novčanicima može se pristupiti putem web stranice. Ne bi se trebali koristiti za osiguranje velikih iznosa, ali vam omogućuju jednostavnu interakciju s ETC-om bez preuzimanja.
+  browsers:
+    title: Novčanici integrirani u preglednik
+    description: Ovi Web3 novčanici integrirani su u web preglednike. Obično ubacuju web stranice s podacima o vašem računu kako bi vam omogućili besprijekornu interakciju s Ethereum Classic dapps u vašem pregledniku.
+  hardware:
+    title: Hardverski novčanici
+    description: Hardverski novčanici sigurni su novčanici dizajnirani za dugotrajnu pohranu.
+  software:
+    title: Softver novčanici
+    description: Softverski novčanici su stolni ili mobilni uređaji dizajnirani za kratkoročnu pohranu.
+  other:
+    title: Ostali proizvodi novčanika
+    description: Ovi su proizvodi besplatni za kripto novčanike poput pohrane početne vrijednosti za oporavak.

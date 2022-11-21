@@ -23,7 +23,7 @@ export default function LandingFeature({ i18n }) {
         <div tw="text-shade-neutral hidden md:block md:ml-24 md:pr-10">
           {i18n.text}
         </div>
-        <div tw="text-right">
+        <div tw="text-right flex-auto">
           <Link
             button
             big

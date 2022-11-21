@@ -1,0 +1,109 @@
+title: Benutzer-FAQs
+seo: Häufig gestellte Fragen für alle, die Hilfe bei der alltäglichen Nutzung von Ethereum Classic suchen.
+info: Sie können hier keine Antwort auf Ihre Frage finden? Versuchen Sie, Ihre Frage auf dem Server der ETC-Community [discord](https://ethereumclassic.org/discord) zu stellen.
+description: Wenn Sie ETC senden und empfangen möchten, eine der für Ethereum Classic bereitgestellten Anwendungen nutzen wollen oder sich Gedanken über die sichere Nutzung machen, ist diese Seite genau das Richtige für Sie.
+items:
+  using:
+    items:
+      comparison:
+        question: Kann ich Ethereum Classic (ETC) auf die gleiche Weise wie Ethereum (ETH) verwenden?
+        answer: |
+          Ja, Ethereum Classic funktioniert für den Endnutzer ziemlich genau so wie Ethereum. Sie müssen lediglich sicherstellen, dass die von Ihnen verwendete Wallet, Anwendung, Börse oder ein anderer Dienst Classic unterstützt.
+
+          Da Ethereum Classic und Ethereum technologisch sehr ähnlich sind, gibt es eine Reihe von Benutzerhandbüchern, Tutorials und Anleitungen, die für beide Chains gelten. Deshalb sind die [Community Guides auf Ethereum.org] (https://ethereum.org/en/learn/) eine sehr empfehlenswerte Lektüre.
+
+          Sie können MetaMask auch mit Ethereum Classic verwenden.
+      metmask:
+        question: Wie kann ich ETC mit MetaMask verwenden?
+        answer: |
+          Sie können Ethereum Classic ganz einfach über die Website [CoinList.org](https://coinlist.org/en/chain/61) zu MetaMask hinzufügen. Wenn Sie MetaMask manuell konfigurieren möchten, um einen benutzerdefinierten Ethereum Classic RPC-Knoten zu verwenden, können Sie sich die Anleitung [MetaMask](/guides/metamask) ansehen.
+      missingEtc:
+        question: Warum kann ich meinen ETC nicht sehen, wenn ich eine Hardware-Wallet mit MetaMask verwende?
+        answer: |
+          Ein [bekannter Fehler] (https://github.com/MetaMask/metamask-extension/issues/16272) bei MetaMask ist, dass es ETC, die mit Ledger Live (und einigen anderen Hardware-Wallets) erstellt wurden, nicht erkennt. Sie können dieses Problem umgehen, indem Sie ETC von Ledger Live an die MetaMask-Wallet senden, die Sie mit demselben Gerät eingerichtet haben.
+      help:
+        question: Ich habe versehentlich ETC an meine ETH-Adresse gesendet. Wie kann ich sie wiederherstellen?
+        answer: |
+          Schritt 1: Machen Sie sich keine Sorgen. Solange Sie das Geld an ein Konto gesendet haben, das Sie kontrollieren oder erstellt haben, können Sie es wahrscheinlich wiederherstellen.
+
+          Je nach Software oder Börse, die Sie verwenden, gibt es verschiedene Methoden der Wiederherstellung, die hier nicht alle aufgeführt werden können. Suchen Sie online nach "[Dienstname] verlorene ETC wiederherstellen". Möglicherweise müssen Sie sich an einen Support-Mitarbeiter des von Ihnen genutzten Dienstes wenden.
+
+          Zum Beispiel: [Ledger Wallet](https://support.ledger.com/hc/en-us/articles/360019363320-Eth-recovery-)
+      metmaskFailign:
+        question: Warum schlägt meine Transaktion mit MetaMask fehl?
+        answer: |
+          Um zu verhindern, dass Transaktionen mehrfach erstellt werden, enthält jede Ethereum Classic-Transaktion eine Nummer, die Nonce genannt wird und sich bei jedem Senden einer Transaktion erhöht.
+
+          Manchmal, besonders wenn Sie eine Transaktion mit einer niedrigen Gasgebühr senden, kann Ihre Transaktion im Mempool stecken bleiben. In diesem Fall setzt MetaMask die Nonce für nachfolgende Transaktionen möglicherweise nicht korrekt.
+
+          Sie können MetaMask zwingen, die korrekte Nonce zu verwenden, indem Sie die Nonce Ihrer letzten erfolgreichen Transaktion auf [BlockScout](https://blockscout.com/etc/mainnet/) überprüfen, um 1 erhöhen und [die Nonce manuell in MetaMask setzen] (https://help.tokensets.com/en/articles/4089766-how-to-push-through-a-stuck-transaction).
+      explorers:
+        question: Wie kann ich meine Ethereum Classic-Transaktionen einsehen?
+        answer: |
+          Der beliebteste und umfassendste Ethereum Classic-Explorer ist [BlockScout](https://blockscout.com/etc/mainnet/), aber es gibt auch mehrere Alternativen, die im Abschnitt [block explorers](/network/explorers) verfügbar sind.
+      exchange:
+        question: Wie kann ich ETC bekommen?
+        answer: |
+          Ethereum Classic ist auf so ziemlich jeder größeren Kryptowährung [exchange](/services/exchanges) gelistet, wo Sie ETC mit Fiat-Währung kaufen oder gegen andere Kryptowährungen eintauschen können.
+
+          Wenn Sie eine einigermaßen moderne Grafikkarte haben, können Sie auch [mine](/mining) für sich nutzen.
+      wallets:
+        question: Welche Wallet empfehlen Sie mir für Ethereum Classic zu verwenden?
+        answer: |
+          Es gibt viele verschiedene Arten von Brieftaschen, die je nach Anwendungsfall zur Verfügung stehen. Weitere Informationen finden Sie im Abschnitt [wallets](/services/wallets).
+      apps:
+        question: Welche Anwendungen laufen auf dem Ethereum Classic Netzwerk?
+        answer: |
+          Alles von zentralisierten Börsen, DEXs, DeFi, NFTs, Cross-Chain-Brücken und mehr. Besuchen Sie den Abschnitt [services](/services), um mehr zu erfahren.
+      defi:
+        question: Verfügt Ethereum Classic über DeFi?
+        answer: |
+          Ja. Es gibt ein kleines, aber wachsendes dezentralisiertes Finanz-Ökosystem auf Ethereum Classic, siehe die App-Kategorie [finance](/services/apps/finance) für Updates.
+      staking:
+        question: Kann ich meine ETC einsetzen?
+        answer: |
+          Nein, zumindest nicht wie bei einer Proof-of-Stake-Blockchain. ETC ist eine Proof-of-Work-Blockchain, d. h. Sie können nur minen, aber nicht setzen, um dem Netzwerk Sicherheit zu bieten.
+
+          Es mag einige [Verleihprotokolle](/Dienste/Apps/Finanzierung) geben, die es Ihnen ermöglichen, Ihre ETC gegen eine Rendite zu verleihen, aber diese sind nicht Teil des Ethereum Classic-Protokolls selbst und mit einem Gegenparteirisiko verbunden.
+      safety:
+        question: Ich habe gehört, dass Ethereum Classic zu 51% angegriffen wurde. Ist es sicher zu verwenden?
+        answer: |
+          Im Jahr 2020 hatte Ethereum Classic eine historisch sehr niedrige Hashrate, was zu einer Reihe von Angriffen mit 51 % führte. Es wird vermutet, dass die Angreifer die Hash-Rate vermieteten und mit Double-Spend-Angriffen auf Börsen abzielten, die insgesamt rund 10 Mio. USD an ETC verloren.
+
+          Als Reaktion darauf haben Ethereum Classic-Kunden und das gesamte Ökosystem seitdem eine Reihe von Gegenmaßnahmen ergriffen, wie z. B. längere Bestätigungszeiten an Börsen, ECIP-1099 und MESS. Seitdem diese Gegenmaßnahmen in Kraft sind, hat es keine weiteren 51%-Angriffe gegeben.
+
+          Darüber hinaus wurde ETC seit der Umstellung von Ethereum auf Proof of Stake im Jahr 2022 zur größten GPU-minierbaren Kette und konnte seine Hash-Rate seit dem letzten 51%-Angriff um das 50- bis 100-fache steigern. Daher ist es äußerst unwahrscheinlich, dass ein Hash-Raten-Pool zur Verfügung steht, der für einen weiteren 51%-Angriff gemietet werden kann, und selbst wenn dies der Fall wäre, wäre dies ohne Erfolgsgarantie unerschwinglich.
+
+          Wie bei allen Proof-of-Work-Blockchains ist die Möglichkeit von 51%-Angriffen ein notwendiger Teil des Protokolldesigns. Je weiter die Zeit voranschreitet und Ethereum Classic nicht mehr auf diese Weise angegriffen wird, desto sicherer können die Beteiligten sein, dass 51%-Angriffe der Vergangenheit angehören.
+
+          In jedem Fall ist es für 51%-Angreifer finanziell nicht sinnvoll, kleine Inhaber ins Visier zu nehmen, und sie sind nicht in der Lage, Ihren ETC zu "stehlen". Vielmehr greifen sie in der Regel Börsen an, indem sie Abhebungen doppelt ausgeben. In der Vergangenheit waren die Börsen in der Lage, diese relativ kleinen Angriffe aufzufangen, und haben die beschriebenen Gegenmaßnahmen ergriffen.
+      deposit:
+        question: Warum dauert es so lange, ETC einzuzahlen?
+        answer: |
+          Wie in der obigen Frage erwähnt, haben einige Börsen als Gegenmaßnahme zu 51%-Angriffen extrem lange Einzahlungszeiten für Ethereum Classic. Dies hilft, die Börse davor zu schützen, Opfer eines Double Spend-Angriffs zu werden, bedeutet aber auch, dass die Nutzer länger auf die Bestätigung ihrer Einzahlungen warten müssen.
+
+          Da die Hash-Rate von ETC in letzter Zeit erheblich gestiegen ist, ist es wahrscheinlich, dass die Börsen die Anzahl der Bestätigungen, die für abgeschlossene Einzahlungen erforderlich sind, reduzieren werden.
+      blockchain:
+        question: Was ist eine Blockchain?
+        answer: |
+          Eine Blockchain ist eine besondere Art einer verteilten Datenbank. Das wichtigste Merkmal von Blockchains ist, dass niemand sie kontrolliert! Es gibt niemanden, dem man vertrauen muss, um sie zu verwalten. Deshalb werden sie auch als vertrauenslos bezeichnet. Die Nutzer übermitteln Aufgaben in _Transaktionen_, die in _Blöcken_ gruppiert sind, die miteinander verbunden sind, um _Ketten_ zu bilden.
+
+          - [Wie funktioniert eine Blockchain - einfach erklärt](https://youtu.be/SSo_EIwHSd4)
+          - [Blockchain in 7 Minuten](https://youtu.be/yubzJw0uiE4)
+          - [Blockchain-Technologie für Dummies - Blockchain einfach erklärt](https://youtu.be/2yJqjTiwpxM)
+          - [Blockchain erklärt](https://youtu.be/QphJEO9ZX6s)
+      ether:
+        question: Was ist Äther?
+        answer: |
+          Ether ist der native Token von Ethereum Classic und eine Kryptowährung, die an digitalen Währungsbörsen unter dem Tickersymbol **ETC** gehandelt wird. Ether wird als Belohnung für Netzwerkknoten für einen als Mining bekannten Prozess geschaffen, der die auf dem EVM von Ethereum Classic durchgeführten Berechnungen validiert.
+
+          Ether und ETC bezeichnen die native Kryptowährung, die zur Bezahlung von Aufgaben wie der Installation neuer Smart Contracts verwendet wird.
+          [Was ist Ether und Ethereum?](https://youtu.be/fjnovGRQrRE)
+      gas:
+        question: Was ist Gas?
+        answer: |
+          Gas ist ein interner Preismechanismus für Transaktionen, der zur Eindämmung von Spam und zur Zuweisung von Ressourcen im Netzwerk verwendet wird. Es ist eine Einheit, die verwendet wird, um die Menge an _Ressourcen_ zu bezeichnen, die benötigt wird, um Aufgaben wie die Installation neuer Smart Contracts zu erledigen.
+
+          - [Ethereum Gas Erklärt](https://youtu.be/hQ78FVSv-vs)
+          - [Ether vs Gas Unterschied | Programmierer erklärt](https://youtu.be/cZ0rYWJzeow)
+          - [Gas Preis und Transaktions Nonce](https://mirror.xyz/0x4B0728B9B1E45583bFb8bD738C9C6c8906f2841d/gYK5HwZjAHZuoZXb5FcwcKbGedfX7MbCNt7Dei6oyeM)
