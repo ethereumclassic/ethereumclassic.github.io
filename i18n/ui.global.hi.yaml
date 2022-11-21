@@ -88,10 +88,8 @@ newsTypes:
     name: ब्लॉग
   application:
     name: अनुप्रयोग
-    prefix: "अनुप्रयोग: "
   video:
     name: वीडियो
-    prefix: "वीडियो: "
 ## App Modal
 appModal:
   verifiedContract: अनुबंध
