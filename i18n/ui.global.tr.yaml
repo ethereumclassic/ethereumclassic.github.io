@@ -88,10 +88,8 @@ newsTypes:
     name: Blog
   application:
     name: Uygulama
-    prefix: "Uygulama: "
   video:
     name: Video
-    prefix: "Video: "
 ## App Modal
 appModal:
   verifiedContract: Sözleşme
