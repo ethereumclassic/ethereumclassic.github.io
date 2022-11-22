@@ -48,7 +48,7 @@ If you're writing Ethereum Classic content, the [Media Kit](https://github.com/e
 
 If you would like to contribute translations to the ETC Website, please contact a maintainer, and we can help you get set up.
 
-Please [create an issue](https://github.com/ethereumclassic/ethereumclassic.github.io/issues/new/choose) in this GitHub repo explaining which language you can help with, or introduce yourself to the [ETC Discord Server](https://etheruemclassic.org/discord).
+Please [reply to this issue](https://github.com/ethereumclassic/ethereumclassic.github.io/issues/992) and detail which language you can help with, or introduce yourself to the [ETC Discord Server](https://etheruemclassic.org/discord).
 
 You'll need to sign up to https://crowdin.com/project/etc-web-test-3, where you can contribute translations. A tutorial is available at https://www.youtube.com/watch?v=N8SvCy0ayMc.
 

@@ -121,11 +121,11 @@ newsTypes:
     __icon: news
   application:
     name: App
-    prefix: "App: "
+    prefix: "App"
     __icon: cursor
   video:
     name: Video
-    prefix: "Video: "
+    prefix: "Video"
     __icon: video
 ## App Modal
 appModal:

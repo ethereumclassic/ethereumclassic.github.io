@@ -37,7 +37,7 @@ export default function NewsItem({
           tw="float-right select-none opacity-20 mt-2 mx-2 h-3.5 w-3.5"
         />
         <div tw="px-3 py-2 font-medium text-sm">
-          <span tw="font-normal">{type.prefix}</span>
+          <span tw="font-normal">{type.prefix}: </span>
           {title}
         </div>
         <div
