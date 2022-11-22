@@ -50,7 +50,6 @@ module.exports = ({ locales, defaultLocale, siteUrl }) => ({
           const newsType = newsTypes[node.type] || {};
           const prefix = newsType.prefix || newsType.name;
           const prefixedTitle = `${prefix ? `${prefix}: ` : ""}${node.title}`;
-          console.log(prefixedTitle);
           return {
             date: node.date,
             title: prefixedTitle,
