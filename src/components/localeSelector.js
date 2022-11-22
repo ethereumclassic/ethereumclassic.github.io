@@ -7,9 +7,11 @@ import Link from "./link";
 import PopDownMenu from "./popDownMenu";
 import LocaleButtons from "./localeButtons";
 import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
+import useLocaleItems from "../utils/useLocaleItems";
 
 export default function LocaleSelector({ ...props }) {
   const { ui } = useGlobals();
+  const { current } = useLocaleItems();
   return (
     <Popover.Group tw="flex" {...props}>
       <Popover tw="relative" className="group">
@@ -18,16 +20,13 @@ export default function LocaleSelector({ ...props }) {
             <div tw="flex items-center">
               <Popover.Button
                 className="group"
-                css={[
-                  tw`font-medium hover:text-shade-darkest`,
-                  open ? tw`text-shade-darkest` : tw`text-shade-neutral`,
-                ]}
+                tw="font-medium hover:text-shade-darkest"
               >
                 <Icon
-                  icon="globe"
+                  icon={current.flag || current.key}
                   css={[
-                    tw`h-5 group-hover:text-shade-neutral`,
-                    open ? tw`text-shade-neutral` : tw`text-shade-light`,
+                    tw`h-5 group-hover:text-shade-neutral rounded-full`,
+                    open && tw`opacity-60`,
                   ]}
                   aria-hidden="true"
                 />
