@@ -121,11 +121,11 @@ newsTypes:
     __icon: news
   application:
     name: crwdns72434:0crwdne72434:0
-    prefix: "crwdns72436:0crwdne72436:0"
+    prefix: "crwdns108523:0crwdne108523:0"
     __icon: cursor
   video:
     name: crwdns72440:0crwdne72440:0
-    prefix: "crwdns72442:0crwdne72442:0"
+    prefix: "crwdns108525:0crwdne108525:0"
     __icon: video
 ## App Modal
 appModal:

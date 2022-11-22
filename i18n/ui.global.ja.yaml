@@ -88,10 +88,10 @@ newsTypes:
     name: ブログ
   application:
     name: アプリ
-    prefix: "アプリです。 "
+    prefix: "アプリ"
   video:
     name: 動画
-    prefix: "動画で見る "
+    prefix: "ビデオ"
 ## App Modal
 appModal:
   verifiedContract: 契約

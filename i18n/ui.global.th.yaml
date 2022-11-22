@@ -88,10 +88,10 @@ newsTypes:
     name: บล็อก
   application:
     name: แอป
-    prefix: "แอป: "
+    prefix: "แอป"
   video:
     name: วีดีโอ
-    prefix: "วิดีโอ: "
+    prefix: "วีดีโอ"
 ## App Modal
 appModal:
   verifiedContract: สัญญา
