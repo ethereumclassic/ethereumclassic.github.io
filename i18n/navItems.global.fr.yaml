@@ -7,32 +7,32 @@ learn:
       navItems:
         users:
           name: Utilisateurs
-          description: Vous voulez apprendre à utiliser l'ETC ?
+          description: Voulez-vous apprendre à utiliser ETC ?
         researchers:
-          name: Chercheurs
+          name: Recherche
           description: Vous venez d'entendre parler de Classic ?
         investors:
           name: Investisseurs
-          description: Vous êtes intéressé par l'achat d'ETC ?
+          description: Êtes-vous intéressé par l'achat d'ETC ?
         miners:
           name: Mineurs
-          description: Vous avez besoin d'informations sur la façon d'exploiter les ETC ?
+          description: Avez-vous besoin d'informations sur le minage d'ETC ?
         developers:
           name: Développeurs
-          description: Vous voulez vous appuyer sur l'ETC ?
+          description: Voulez-vous construire sur Ethereum Classic ?
         contributors:
           name: Contributeurs
-          description: Vous voulez aider le projet ?
+          description: Voulez-vous aider le projet ?
     whyClassic:
-      name: Pourquoi classique ?
+      name: Pourquoi classic ?
       description: Commencez ici pour connaître la raison d'être et la proposition de valeur unique d'Ethereum Classic.
       navItems:
         codeIsLaw:
-          name: Le code est une loi
+          name: Code is Law
         genesis:
           name: Genèse
         decentralism:
-          name: Décentralisation
+          name: Décentralisme
         soundMoney:
           name: L'argent sain
         proofOfWork:
@@ -42,11 +42,11 @@ learn:
     #name: ETC vs ETH
     knowledge:
       name: Connaissances
-      description: Autres lectures sur les fondements qui sous-tendent l'ETC
+      description: Lectures complémentaires sur les fondations qui sous-tendent Ethereum Classic
       navItems:
         foundation:
           name: Fondation
-          description: Les principes fondamentaux qui constituent la base philosophique solide de l'ETC
+          description: Les principes fondamentaux qui constituent la base philosophique solide d'Ethereum Classic
         theory:
           name: Théorie
           longName: Théorie et recherche
@@ -54,33 +54,33 @@ learn:
         investing:
           name: Investir
           longName: Ressources pour les investisseurs
-          description: Informations sur la proposition de valeur d'Ethereum Classic et son potentiel de gains malades
+          description: Informations sur la proposition de valeur d'Ethereum Classic et son potentiel de gains
         forks:
-          name: Fourchettes
+          name: Bifurcation
           longName: Mises à jour du protocole
-          description: Une chronique des Hard Forks passés et futurs qui ont ajouté des fonctionnalités ou des corrections de bugs au CTE.
+          description: Une chronique des Hard Forks passés et futurs qui ont ajouté des fonctionnalités ou des corrections de bugs à ETC
         history:
           name: Histoire
-          longName: Histoire classique
-          description: Une chronologie de tous les événements majeurs de l'histoire d'Ethereum Classics jusqu'à aujourd'hui.
+          longName: Histoire d'Ethereum Classic
+          description: Une chronologie de tous les événements majeurs de l'histoire d'Ethereum Classic jusqu'à aujourd'hui
         future:
           name: Futur
-          longName: Future Classic
-          description: Une vue d'ensemble du processus de prise de décision dans le CTE, et où il pourrait mener le protocole.
+          longName: Futur Classic
+          description: Une vue d'ensemble du processus de prise de décision sur ETC, et ou cela pourrait mener le protocole
         metamask:
           name: MetaMask
           longName: Utilisation de MetaMask avec ETC
-          description: Comment configurer MetaMask et les alternatives pour interagir avec les dapps
+          description: Comment configurer MetaMask et les alternatives pour interagir avec les applications décentralisées
     videos:
       name: Vidéos
-      description: Une collection de vidéos et de podcasts pour vous tenir informé des concepts et des événements de l'ETC.
+      description: Une collection de vidéos et de podcasts pour vous tenir informé des concepts et des événements sur ETC
       navItems:
         explainers:
-          name: Explicateurs
+          name: Vidéos éducatives
         discussions:
           name: Discussions
         trading:
-          name: Commerce
+          name: Trading
         development:
           name: Développement
         tutorials:
@@ -224,7 +224,7 @@ play:
           name: ECIPs
           description: Aperçu des propositions d'amélioration d'Ethereum Classic et propositions approuvées
 news:
-  name: Nouvelles
+  name: Actualités
 extra:
   name: Extra
   navItems:

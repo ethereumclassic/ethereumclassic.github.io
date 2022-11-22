@@ -88,10 +88,10 @@ newsTypes:
     name: Blog
   application:
     name: Aplicación
-    prefix: "App: "
+    prefix: "aplicación"
   video:
     name: Vídeo
-    prefix: "Vídeo: "
+    prefix: "Video"
 ## App Modal
 appModal:
   verifiedContract: Contrato
