@@ -17,6 +17,7 @@ export default function ResultsItems({ title, hits, icon, external }) {
       </div>
       {hits.map((hit) => (
         <Link
+          notLocalized
           className="group"
           to={hit.url || hit.link}
           key={hit.objectID}
