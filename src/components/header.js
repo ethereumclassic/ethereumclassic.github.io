@@ -23,7 +23,6 @@ export default function Header() {
             <Logo />
           </div>
           <div tw="space-x-4 flex md:hidden">
-            <DarkModeSwitcher />
             {i18nEnabled && (
               <MobileDropdown icon={current.flag || current.key} rounded>
                 <div tw="p-4">
@@ -31,6 +30,7 @@ export default function Header() {
                 </div>
               </MobileDropdown>
             )}
+            <DarkModeSwitcher />
             <MobileDropdown icon="search">
               <SearchAlgolia />
             </MobileDropdown>
