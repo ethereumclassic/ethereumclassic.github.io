@@ -1,5 +1,4 @@
 import React from "react";
-// TODO replace favicon with pre-rendered string?
 import { renderToString } from "react-dom/server";
 
 import { Helmet } from "react-helmet";

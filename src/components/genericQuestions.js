@@ -11,8 +11,6 @@ import Icon from "./icon";
 import Button from "./button";
 import tw from "twin.macro";
 
-// TODO noscript show all
-
 function Question({ item: { question, answer }, showAll }) {
   const [showing, setShowing] = useState(showAll);
   const slug = slugify(question, { lower: true, strict: true });
