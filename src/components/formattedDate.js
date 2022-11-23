@@ -3,8 +3,9 @@ import "twin.macro";
 
 import { useLocalization } from "../../plugins/translations-plugin/src/components/localizationProvider";
 
-export default function FormattedDate({ date, long, ...rest }) {
+export default function FormattedDate({ date: dateTz, long, ...rest }) {
   const { dayjs } = useLocalization();
+  const date = dateTz.slice(0, 10);
   const day = dayjs(date);
   if (!day.isValid()) {
     return <span {...rest}>{date}</span>;
