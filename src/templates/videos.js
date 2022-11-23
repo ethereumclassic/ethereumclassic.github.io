@@ -15,6 +15,7 @@ export const pageQuery = graphql`
   fragment VideoDeets on VideosCollection {
     id
     date
+    uploaded
     locale
     youtube
     title
