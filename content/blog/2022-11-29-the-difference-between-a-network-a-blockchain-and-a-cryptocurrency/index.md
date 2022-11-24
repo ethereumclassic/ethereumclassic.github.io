@@ -18,7 +18,7 @@ linkImage: ./network-blockchain-cryptocurrency-banner.png
 
 The series will consist of the following topics:
 
-**1. The Difference Between a Network, a Blockchain, and a Cryptocurrency** 
+1. The Difference Between a Network, a Blockchain, and a Cryptocurrency 
 2. The Difference Between Blockchain Software and Blockchain Protocol
 3. Are There Software Clients and Servers in a Blockchain?
 4. Ethereum Virtual Machine Blockchains and Ethereum Classic
