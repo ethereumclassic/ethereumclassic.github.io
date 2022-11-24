@@ -14,7 +14,7 @@ linkImage: ./network-blockchain-cryptocurrency-banner.png
 
 ---
 
-This is the first part of a series that will explain the three software clients currently operating or being implemented on Ethereum Classic. 
+**This is the first part of a series that will explain the three software clients currently operating or being implemented on Ethereum Classic.** 
 
 The series will consist of the following topics:
 
