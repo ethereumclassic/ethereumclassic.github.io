@@ -28,7 +28,9 @@ The series will consist of the following topics:
 
 ---
 
-![Network, Blockchain, and Cryptocurrency](./network-blockchain-cryptocurrency-banner.png)
+## Blockchains, Networks, or Cryptocurrencies?
+
+![Ethereum Classic, Bitcoin, Ethereum, DogeCoin, Litecoin.](./etc-btc-other-blockchains.png)
 
 When people talk about Ethereum Classic or Bitcoin they usually call them either a network, a blockchain, or a cryptocurrency interchangeably.
 
@@ -87,6 +89,8 @@ Cryptocurrencies are money because their tokens are scarce, durable, costly to c
 The Ethereum Classic cryptocurrency is called ETC and its symbol in the market is $ETC.
 
 ## Ethereum Classic is a Network, a Blockchain, and a Cryptocurrency
+
+![Network, Blockchain, and Cryptocurrency](./network-blockchain-cryptocurrency-banner.png)
 
 **Ethereum Classic is a network** because it is a system of machines, nodes, and a shared database, called a blockchain. In particular, it is a public network and its software is open source so that anyone can audit and use it to participate in the system.
 
