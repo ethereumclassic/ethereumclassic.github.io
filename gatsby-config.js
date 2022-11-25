@@ -94,6 +94,13 @@ module.exports = {
             },
           },
           {
+            resolve: "remark-extract-featured-image",
+            options: {
+              frontmatterKey: "linkImage",
+              field: "featuredImage",
+            },
+          },
+          {
             resolve: "gatsby-remark-copy-linked-files",
           },
           {
