@@ -82,7 +82,7 @@ A cryptocurrency is a form of money that is managed inside a blockchain database
 
 The blockchain database is a ledger that contains information about the history of transactions, and the accounts and balances of the cryptocurrency.
 
-The cryptocurrency units are tokens that are created to compensate for miners in proof of work blockchains, such as ETC, to pay them for their work when creating and stamping blocks cryptographically.
+The cryptocurrency units are tokens that are created to compensate miners in proof of work blockchains, such as ETC, to pay them for their work when creating and stamping blocks cryptographically.
 
 Cryptocurrencies are money because their tokens are scarce, durable, costly to create, portable, divisible, fungible, and transferable, so they may be used for payments and as a store of value.
 
@@ -92,7 +92,7 @@ The Ethereum Classic cryptocurrency is called ETC and its symbol in the market i
 
 ![Network, Blockchain, and Cryptocurrency](./network-blockchain-cryptocurrency-banner.png)
 
-**Ethereum Classic is a network** because it is a system of machines, nodes, and a shared database, called a blockchain. In particular, it is a public network and its software is open source so that anyone can audit and use it to participate in the system.
+**Ethereum Classic is a network** because it is a system of machines, nodes, and a shared database called a blockchain. In particular, it is a public network and its software is open source so that anyone can audit and use it to participate in the system.
 
 **Ethereum Classic is a blockchain** because its database contains a ledger with accounts and balances, where transactions are fully transmitted and form a fully replicated chain of blocks.
 
