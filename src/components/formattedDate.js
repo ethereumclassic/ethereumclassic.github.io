@@ -5,7 +5,7 @@ import { useLocalization } from "../../plugins/translations-plugin/src/component
 
 export default function FormattedDate({ date: dateTz, long, ...rest }) {
   const { dayjs } = useLocalization();
-  const date = dateTz.slice(0, 10);
+  const date = new Date(dateTz).toISOString().slice(0, 10);
   const day = dayjs(date);
   if (!day.isValid()) {
     return <span {...rest}>{date}</span>;
