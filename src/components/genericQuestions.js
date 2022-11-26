@@ -10,8 +10,7 @@ import Md from "./markdownDynamic";
 import Icon from "./icon";
 import Button from "./button";
 import tw from "twin.macro";
-
-// TODO noscript show all
+import { withTwoPassRendering } from "./twoPassRendering";
 
 function Question({ item: { question, answer }, showAll }) {
   const [showing, setShowing] = useState(showAll);
@@ -38,7 +37,7 @@ function Question({ item: { question, answer }, showAll }) {
   );
 }
 
-export default function GenericQuestions({ items }) {
+function GenericQuestions({ items }) {
   const [showAll, setShowAll] = useState(isSSR);
   useEffect(() => {
     const elementId = window.location.hash.slice(1);
@@ -51,14 +50,16 @@ export default function GenericQuestions({ items }) {
   return (
     <>
       <div tw="text-right">
-        <Button
-          transparent
-          tw="rounded-b-none border-b-0"
-          icon={showAll ? "up" : "down"}
-          onClick={() => setShowAll(!showAll)}
-        >
-          {showAll ? "Hide all Answers" : "Show all Answers"}
-        </Button>
+        {!isSSR && (
+          <Button
+            transparent
+            tw="rounded-b-none border-b-0"
+            icon={showAll ? "up" : "down"}
+            onClick={() => setShowAll(!showAll)}
+          >
+            {showAll ? "Hide all Answers" : "Show all Answers"}
+          </Button>
+        )}
       </div>
       <div tw="divide-y divide-shade-lighter border border-shade-lighter rounded-l overflow-hidden">
         {items.map(({ key, ...item }) => (
@@ -68,3 +69,5 @@ export default function GenericQuestions({ items }) {
     </>
   );
 }
+
+export default withTwoPassRendering(GenericQuestions);

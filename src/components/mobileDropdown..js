@@ -6,7 +6,7 @@ import Icon from "./icon";
 import Fader from "./fader";
 import isSSR from "../utils/isSSR";
 
-export default function MobileDropdown({ icon = "menu", children }) {
+export default function MobileDropdown({ icon = "menu", children, rounded }) {
   return (
     <Popover tw="flex items-center" className="group">
       {({ open }) => (
@@ -18,7 +18,7 @@ export default function MobileDropdown({ icon = "menu", children }) {
             ]}
           >
             <span tw="sr-only">Open menu</span>
-            <Icon icon={icon} tw="h-5" />
+            <Icon icon={icon} css={[tw`h-5`, rounded && tw`rounded-full`]} />
           </Popover.Button>
           <Fader show={isSSR || undefined}>
             <Popover.Panel

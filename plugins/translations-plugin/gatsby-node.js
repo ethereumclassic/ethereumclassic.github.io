@@ -134,7 +134,6 @@ exports.createPages = async (
       }
     }
   `);
-  // console.log(files);
   // Get all content files, then group by directory
   const groupedFiles = files.reduce(
     (o, { node: { relativeDirectory, relativePath, absolutePath } }) => {

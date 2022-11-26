@@ -15,6 +15,7 @@ export const pageQuery = graphql`
   fragment VideoDeets on VideosCollection {
     id
     date
+    uploaded
     locale
     youtube
     title
@@ -25,7 +26,7 @@ export const pageQuery = graphql`
     videoImage {
       childImageSharp {
         gatsbyImageData(
-          width: 250
+          width: 512
           placeholder: BLURRED
           formats: [AUTO, WEBP, AVIF]
         )

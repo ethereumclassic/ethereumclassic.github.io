@@ -15,7 +15,7 @@ export default function VideosItem({ item, featured, hash = true, ...rest }) {
   const {
     author,
     title,
-    date,
+    uploaded,
     youtube,
     slug,
     authorYoutube,
@@ -100,7 +100,7 @@ export default function VideosItem({ item, featured, hash = true, ...rest }) {
           </div>
           <FormattedDate
             tw="overflow-ellipsis overflow-hidden whitespace-nowrap"
-            date={date}
+            date={uploaded}
           />
         </div>
       </Modal>
