@@ -14,7 +14,7 @@ linkImage: ./blockchain-software-vs-protocol-banner.png
 
 ---
 
-**This is the first part of a series that will explain the three software clients currently operating or being implemented on Ethereum Classic.** 
+**This is the second part of a series that will explain the three software clients currently operating or being implemented on Ethereum Classic.** 
 
 The series will consist of the following topics:
 
@@ -36,7 +36,7 @@ When people think of blockchains they think of computer networks and software ap
 
 These are true descriptions or components of these systems, but in more abstract terms, blockchains have an even more fundamental layer which are the protocols agreed upon by all participants to be able to coordinate their actions.
 
-In our previous video, we explained what are networks and blockchains. In this video we will explain the difference between blockchain software (also called node software clients or software clients) and blockchain protocols. 
+In our previous article, we explained what are networks and blockchains. In this article we will explain the difference between blockchain software (also called node software clients or software clients) and blockchain protocols. 
 
 Learning these differences will help us understand what are, and how the different Ethereum Classic software clients work.
 
@@ -122,7 +122,7 @@ Regardless of the kinds of machines and operating systems on which they run, or 
 
 However, whether these software applications are simply just clients is a necessary topic to explore. 
 
-This will be the subject of our next video.
+This will be the subject of our next article.
 
 ---
 
