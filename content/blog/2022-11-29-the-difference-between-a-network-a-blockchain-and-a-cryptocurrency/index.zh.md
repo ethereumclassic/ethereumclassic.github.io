@@ -8,7 +8,7 @@ linkImage: ./network-blockchain-cryptocurrency-banner.png
 ---
 
 ---
-**You can listen to or watch this in video here:**
+**You can listen to or watch this video here:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6TQwkkbz4yA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
