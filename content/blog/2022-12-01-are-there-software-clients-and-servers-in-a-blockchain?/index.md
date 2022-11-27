@@ -102,7 +102,7 @@ This means that all the machines in a blockchain have both the role of client an
 
 ![ETC Three Client-Servers](./etc-3-client-servers.png)
 
-Ethereum Classic has three “software clients” which are really “software client-servers” of which two are operational, Core Geth and Hyperledger Besu, and one is in the process of being implemented on ETC, which is called Erigon.
+Ethereum Classic has three “software clients” which are really “software client-servers” of which two are operational, [Core Geth](https://github.com/etclabscore/core-geth) and [Hyperledger Besu](https://github.com/hyperledger/besu/), and one is in the process of being implemented on ETC, which is called [Erigon](https://github.com/ledgerwatch/erigon).
 
 Core Geth and Hyperledger Besu perform all the functions of the nodes in the blockchain, including storage of the blockchain, verification, and block mining, and Erigon focuses only on storage of the blockchain and verification, for now.
 
