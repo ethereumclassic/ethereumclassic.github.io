@@ -98,7 +98,7 @@ This means that all the machines in a blockchain have both the role of client an
 2. **Send and receive new blocks:** When new blocks are received from miners all nodes re-transmit them to all other nodes.
 3. **Send and receive the whole blockchain to new machines joining the network:** This is called “initial blockchain download”.
 
-## The Software Clients/Servers of Ethereum Classic
+## The Software Clients-Servers of Ethereum Classic
 
 ![ETC Three Client-Servers](./etc-3-client-servers.png)
 
