@@ -44,7 +44,7 @@ search:
 ## Announcement Banner
 announcement:
   text: |
-    Diese Website wird jetzt durch maschinelles Lernen in mehrere Sprachen übersetzt. Klicken Sie auf das Globus-Symbol oben rechts auf der Seite, um die Sprache zu wechseln. Wenn Sie bei der Korrektur von Übersetzungen helfen möchten, kontaktieren Sie uns bitte!
+    Diese Website wird jetzt durch maschinelles Lernen in mehrere Sprachen übersetzt. Klicken Sie auf die Flagge oben rechts auf der Seite, um die Sprache zu ändern. Wenn Sie bei korrekten Übersetzungen helfen möchten, kontaktieren Sie uns bitte!
   button:
     text: "Übersetzen helfen"
 ## Footer

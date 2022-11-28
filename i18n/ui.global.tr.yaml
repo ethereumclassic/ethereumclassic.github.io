@@ -44,7 +44,7 @@ search:
 ## Announcement Banner
 announcement:
   text: |
-    Bu web sitesi artık makine öğrenimi yoluyla birden fazla dile çevrilmektedir. Dili değiştirmek için sayfanın sağ üst köşesindeki küre simgesine tıklayın. Çevirilerin düzeltilmesine yardımcı olmak isterseniz, lütfen bizimle iletişime geçin!
+    Bu web sitesi artık makine öğrenimi yoluyla birden çok dile çevrilmiştir. Dili değiştirmek için sayfanın sağ üstündeki bayrağa tıklayın. Çevirilerin düzeltilmesine yardımcı olmak istiyorsanız, lütfen bizimle iletişime geçin!
   button:
     text: "Çeviriye Yardım Edin"
 ## Footer
