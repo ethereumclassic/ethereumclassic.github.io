@@ -114,7 +114,7 @@ This means ETC will stay as a Proof of Work blockchain and is the largest, thus 
 
 ![ETC EVM Client-Servers](./evm-etc-client-servers.png)
 
-Ethereum Classic has three software client-servers of which two are operational, Core Geth and Hyperledger Besu, and one is in the process of being implemented on ETC, which is called Erigon.
+Ethereum Classic has three software client-servers of which two are operational, [Core Geth](https://github.com/etclabscore/core-geth) and [Hyperledger Besu](https://github.com/hyperledger/besu/), and one is in the process of being implemented on ETC, which is called [Erigon](https://github.com/ledgerwatch/erigon).
 
 All three node client-servers comply with the ETC version of the EVM model and standard, but have some key differences that make them unique in their niches.
 
