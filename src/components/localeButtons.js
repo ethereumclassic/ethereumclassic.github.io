@@ -22,7 +22,7 @@ function LocaleButton({
       css={[
         tw`p-3 hover:bg-shade-lightest flex items-center space-x-2 rounded-md`,
         locale === key ? tw`font-bold` : tw`font-normal`,
-        !enabled && tw`opacity-50 cursor-not-allowed`,
+        !enabled && tw`opacity-20 cursor-not-allowed`,
       ]}
     >
       <Icon
