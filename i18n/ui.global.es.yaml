@@ -44,7 +44,7 @@ search:
 ## Announcement Banner
 announcement:
   text: |
-    Este sitio web se traduce ahora a varios idiomas gracias al aprendizaje automático. Haga clic en el icono del globo terráqueo en la parte superior derecha de la página para cambiar de idioma. Si quiere ayudar a corregir las traducciones, póngase en contacto con nosotros.
+    Este sitio web ahora está traducido a varios idiomas a través del aprendizaje automático. Haga clic en la bandera en la parte superior derecha de la página para cambiar el idioma. Si desea ayudar a corregir las traducciones, ¡contáctenos!
   button:
     text: "Ayuda a la traducción"
 ## Footer

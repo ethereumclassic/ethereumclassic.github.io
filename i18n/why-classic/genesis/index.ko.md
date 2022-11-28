@@ -107,7 +107,7 @@ Slock.it은 2016년 4월 DAO 크라우드세일을 시작했고 ETH가 들어오
 
 버그는 다른 계약과 상호 작용할 때 계약이 상태를 적절하게 업데이트하지 않아 공격자가 계약 작성자의 _인텐트_ 에 대해 동일한 기능을 여러 번 실행할 수 있을 때 발생할 수 있습니다. 동전이 제대로 삽입되었는지 확인하지 않는 자동판매기와 같습니다. 공격자는 동전 주위에 끈을 묶어서 동전을 빼내고 같은 동전을 사용하여 맛있는 음식을 모두 쓸어버릴 수 있습니다.
 
-Ethereum은 매우 새롭고 스마트 계약 개발에 대한 모범 사례가 형성되지 않았기 때문에 이 버그는 매우 일반적이었습니다. 소식이 알려지자 많은 계약이 악용되고 자금이 손실되었지만 운 좋게도 DAO는 영향을 받지 않았습니다. [에 따르면 slock.it](https://medium.com/ursium-blog/no-dao-funds-at-risk -following-the-ethereum-smart-contract-recursive-call-bug-discovery-29f482d348b).
+Ethereum은 매우 새롭고 스마트 계약 개발에 대한 모범 사례가 형성되지 않았기 때문에 이 버그는 매우 일반적이었습니다. 소식이 알려지자 많은 계약이 악용되고 자금이 손실되었지만 운 좋게도 DAO는 영향을 받지 않았습니다. [에 따르면 slock.it](https://medium.com/ursium-blog/no-dao-funds-at-risk-following-the-ethereum-smart-contract-recursive-call-bug-discovery-29f482d348b).
 
 ### ...그리고 사라졌다
 
