@@ -40,7 +40,7 @@ Learning these details will help us understand what are, and how the various Eth
 
 ## What Is The Ethereum Virtual Machine (EVM)?
 
-![Ten of the More than 120 Opcodes in the EVM](./evm-etc-opcodes.png)
+![Eleven of the More than 120 Opcodes in the EVM](./evm-etc-opcodes.png)
 
 The EVM in blockchain client-servers is the innovation that brought smart contracts to the blockchain industry.
 
