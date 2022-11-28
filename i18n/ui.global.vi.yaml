@@ -44,7 +44,7 @@ search:
 ## Announcement Banner
 announcement:
   text: |
-    Trang web này hiện đã được dịch sang nhiều ngôn ngữ thông qua máy học. Nhấp vào biểu tượng quả địa cầu ở trên cùng bên phải của trang để thay đổi ngôn ngữ. Nếu bạn muốn giúp sửa bản dịch, vui lòng liên hệ với chúng tôi!
+    Trang web này hiện được dịch sang nhiều ngôn ngữ thông qua học máy. Nhấp vào cờ ở trên cùng bên phải của trang để thay đổi ngôn ngữ. Nếu bạn muốn giúp sửa bản dịch, vui lòng liên hệ với chúng tôi!
   button:
     text: "Trợ giúp Dịch"
 ## Footer

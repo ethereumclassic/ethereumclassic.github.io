@@ -64,7 +64,7 @@ export default function LocaleDropdown() {
                           <li
                             css={[
                               tw`cursor-default select-none relative py-2 pl-3 pr-10 text-shade-darkest hover:text-shade-lightest hover:bg-secondary-dark`,
-                              !enabled && tw`opacity-50 cursor-not-allowed`,
+                              !enabled && tw`opacity-20 cursor-not-allowed`,
                             ]}
                           >
                             <div tw="flex items-center">
