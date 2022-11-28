@@ -64,8 +64,6 @@ Because it is open source, anyone may contribute and anyone may copy changes or 
 
 It is important for all projects to keep their systems aligned with the EVM standard so there is more coordination, reduced switching and lock-in costs for developers and users, and increased interoperability between the networks.
 
-The EVM Model as a Standard
-
 The EVM standard does not only include the EVM, but also the general format of the Ethereum protocol. 
 
 The protocol components are the following:
