@@ -100,7 +100,7 @@ The decentralization provided by the above features is the heart of the security
 
 ## In Summary
 
-![Pillars -> Principles -> Benefits](./etc-three-pillars-summary)
+![Pillars -> Principles -> Benefits](./etc-three-pillars-summary.png)
 
 **Smart contracts** provide programmability inside the blockchain and this enables applications to have the same security as the currency.
 
