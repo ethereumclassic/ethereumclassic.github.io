@@ -88,13 +88,13 @@ If sound money increases demand, and growing demand increases security, then sou
 
 The Proof of Work Based Nakamoto Consensus mechanism guarantees decentralization because it:
 
-1. Enables consensus: All participants in the network can have the knowledge of which is the correct and honest chain because it is very easy to discard any attackers or imposters proposing alternative chains as the only way to build legitimate blocks is by doing a lot of work, consuming enormous amounts of energy.
+1. **Enables consensus:** All participants in the network can have the knowledge of which is the correct and honest chain because it is very easy to discard any attackers or imposters proposing alternative chains as the only way to build legitimate blocks is by doing a lot of work, consuming enormous amounts of energy.
 
-2. Enables chain selection for free exit and entry: The same method of discarding the imposters who did not do the work and only including the blocks that did the work make proof of work blockchains absolutely free to enter and exit at any time with no permission nor direction from anyone.
+2. **Enables chain selection for free exit and entry:** The same method of discarding the imposters who did not do the work and only including the blocks that did the work make proof of work blockchains absolutely free to enter and exit at any time with no permission nor direction from anyone.
 
-3. Protects transactions: Because to build the blocks requires so much work by machines and expenditure of enormous amounts of electricity, if any attacker wanted to reverse the chain of blocks to the past to introduce fake transactions, censor, or eliminate accounts or balances, they would have to do all the work again.
+3. **Protects transactions:** Because to build the blocks requires so much work by machines and expenditure of enormous amounts of electricity, if any attacker wanted to reverse the chain of blocks to the past to introduce fake transactions, censor, or eliminate accounts or balances, they would have to do all the work again.
 
-4. Imposes a cost to create the money: The reward per block, which issues new native tokens, only happens if the work to build a block is done. This feature is what is analogous to gold in the real world and makes ETC digital gold.
+4. **Imposes a cost to create the money:** The reward per block, which issues new native tokens, only happens if the work to build a block is done. This feature is what is analogous to gold in the real world and makes ETC digital gold.
 
 The decentralization provided by the above features is the heart of the security of Ethereum Classic, thus survivability in the long term, censorship resistance, unstoppability of dapps, and that the system is uncompromisable and uncapturable.
 
