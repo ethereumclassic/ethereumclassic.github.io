@@ -44,7 +44,7 @@ search:
 ## Announcement Banner
 announcement:
   text: |
-    Ova je web stranica sada prevedena na više jezika pomoću strojnog učenja. Kliknite ikonu globusa u gornjem desnom kutu stranice za promjenu jezika. Ako želite pomoći u ispravljanju prijevoda, kontaktirajte nas!
+    Ova je web stranica sada prevedena na više jezika putem strojnog učenja. Kliknite zastavicu u gornjem desnom kutu stranice za promjenu jezika. Ako želite pomoći u ispravljanju prijevoda, kontaktirajte nas!
   button:
     text: "Pomoć u prijevodu"
 ## Footer

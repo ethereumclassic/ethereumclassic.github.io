@@ -49,7 +49,7 @@ announcement:
   __alli18nPages: 1
   __icon: language
   text: |
-    This website is now translated into multiple languages through machine learning. Click the globe icon at the top right of the page to change language. If you'd like to help correct translations, please contact us!
+    This website is now translated into multiple languages through machine learning. Click the flag at the top right of the page to change language. If you'd like to help correct translations, please contact us!
   button:
     __link: https://github.com/ethereumclassic/ethereumclassic.github.io#translations
     text: "Help Translate"
