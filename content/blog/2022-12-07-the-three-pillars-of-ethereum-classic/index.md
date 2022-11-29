@@ -26,7 +26,7 @@ As may be seen above we marked the sections of the image with the meaning of eac
 - fixed supply which gives ETC its property of digital gold,
 - Proof of Work which is the heart of the network as it provides the security of the whole system.
 
-In the image, the three pillars hold up and support the main principle of the Ethereum Classic network, represented as scales in between sofware code, which is *Code Is Law*.
+In the image, the three pillars hold up and support the main principle of the Ethereum Classic network, represented as justice scales in between sofware code and means *Code Is Law*.
 
 In abstraction, the image symbolism on the home page may be represented as in the diagram below.
 
@@ -38,15 +38,15 @@ Beside the image on the wesbite, there is a text that explains to newcomers what
 
 ![Benefits of the Three Pillars.](./etc-three-pillars-image-explained.png)
 
-From the text above I underlined the key words that represent the key benefits, and below I am going to list them as features of Ethereum Classic
+From the text above I underlined the keywords that represent the benefits of the *Code Is Law* principle, which is upheld by the three pillars of ETC, and below I list them with their meaning:
 
-- **Survivability:** Because of ETC's security, accounts balances and smart contracts will survive in the long term.
+- **Survivability:** Because of ETC's security, accounts, balances, and smart contracts will survive in the long term.
 - **Censorship Resistance:** ETC is censorship resistant and unrestricted, therefore permissionless.
 - **Unstoppability:** Currency tranfers and decentralized applications are unstoppable.
-- **Uncompromisable:** Accounts, balances, and decentralized applications cannot be compromised as traditional systems. 
+- **Uncompromisable:** Accounts, balances, and decentralized applications cannot be compromised as in traditional systems. 
 - **Uncapturable:** ETC cannot be captured by corporations or special interests.
 
-So, the three pillars hold up the principle of Code Is Law, and Code Is Law guarantees the benefits of survivability, censorship resistance, unstoppability, and make ETC uncompromisable and uncapturable.
+So, the three pillars uphold the principle of *Code Is Law*, and the principle of *Code Is Law* guarantees the benefits of survivability, censorship resistance, unstoppability, and make ETC uncompromisable and uncapturable.
 
 Then, the question is: How do the three pillars of Ethereum Classic guarantee the principle of Code Is Law and its main benefits?
 
@@ -100,7 +100,7 @@ The decentralization provided by the above features is the heart of the security
 
 ## In Summary
 
-![Pillars -> Principles -> Benefits](etc-three-pillars-summary)
+![Pillars -> Principles -> Benefits](./etc-three-pillars-summary)
 
 **Smart contracts** provide programmability inside the blockchain and this enables applications to have the same security as the currency.
 
