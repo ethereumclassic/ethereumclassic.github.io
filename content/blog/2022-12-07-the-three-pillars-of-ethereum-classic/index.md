@@ -84,7 +84,7 @@ If sound money increases demand, and growing demand increases security, then sou
 
 ## Pillar 3: Proof of Work
 
-![Proof of Work - Security](etc-pillar-pow)
+![Proof of Work - Security](./etc-pillar-pow.png)
 
 The Proof of Work Based Nakamoto Consensus mechanism guarantees decentralization because it:
 
