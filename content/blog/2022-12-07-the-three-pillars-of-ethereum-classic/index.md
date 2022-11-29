@@ -26,7 +26,7 @@ As may be seen above we marked the sections of the image with the meaning of eac
 - fixed supply which gives ETC its property of digital gold,
 - Proof of Work which is the heart of the network as it provides the security of the whole system.
 
-In the image, the three pillars hold up and support the main principle of the Ethereum Classic network, represented as justice scales in between sofware code and means *Code Is Law*.
+In the image, the three pillars hold up and support the main principle of the Ethereum Classic network, represented as justice scales in between sofware code, which means *Code Is Law*.
 
 In abstraction, the image symbolism on the home page may be represented as in the diagram below.
 
