@@ -1,5 +1,5 @@
 ---
-title: "The Difference Between a Network, a Blockchain, and a Cryptocurrency"
+title: "网络、区块链和加密货币之间的区别"
 date: 2022-11-29
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,98 +8,98 @@ linkImage: ./network-blockchain-cryptocurrency-banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**欢迎由此收听或观看以下视频：**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6TQwkkbz4yA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-**This is the first part of a series that will explain the three software clients currently operating or being implemented on Ethereum Classic.** 
+**这是本系列的第一部分，将解释目前在以太坊经典上运行或实现的三种软件客户端。** 
 
-The series will consist of the following topics:
+该系列将包括以下主题:
 
-1. The Difference Between a Network, a Blockchain, and a Cryptocurrency 
-2. The Difference Between Blockchain Software and Blockchain Protocol
-3. Are There Software Clients and Servers in a Blockchain?
-4. Ethereum Virtual Machine Blockchains and Ethereum Classic
-5. Core Geth Explained
-6. Hyperledger Besu Explained
-7. Erigon Explained
-
----
-
-## Blockchains, Networks, or Cryptocurrencies?
-
-![Ethereum Classic, Bitcoin, Ethereum, DogeCoin, Litecoin.](./etc-btc-other-blockchains.png)
-
-When people talk about Ethereum Classic or Bitcoin they usually call them either a network, a blockchain, or a cryptocurrency interchangeably.
-
-Although these three terms are technically correct when describing these systems, there are stark differences between the concepts.
-
-In this article, we will explain what is a network, what is a blockchain, and what is a cryptocurrency.
-
-Learning these differences will help us understand what are, and how the different Ethereum Classic software clients work.
-
-## What Is a Network?
-
-![Network](./what-is-a-network.png)
-
-A computer network is set of machines that work as a system of connected nodes that communicate to share resources.
-
-For each machine or node to participate in the network, there is usually a software application (called node software client or just software client) that contains a set of rules, or protocol, that organizes and coordinates the method of communications.  
-
-Computer networks usually manage some sort of database, which is the underlying information that the system is usually responsible for.
-
-Networks may be private, such as the internal systems of a tech company, or public, such as the internet or a file sharing app.
-
-When they are private, they are usually structured as hierarchical systems, where all machines have different roles and some have more important functions than others.
-
-When they are public, they are usually structured as peer-to-peer networks where all participating nodes have similar roles and functions.
-
-Private networks tend to run closed source software and public networks tend to run open source software so it may be readily available, reviewed, and shared by all participants.
-
-## What Is a Blockchain?
-
-![Blockchain](./what-is-a-blockchain.png)
-
-Strictly speaking, a blockchain is the database that a computer network manages that has the information about the accounts, balances, and, in the case of ETC, the smart contracts of the system.
-
-This means that the “blockchain” is not the network of machines, the nodes, nor the node software clients themselves. It is only the database.
-
-The way it works is that people and businesses send transactions all the time to the network, the nodes receive them and re-transmit all the information to all other participating nodes, including the miners, and the miners group these in blocks, which they then stamp with a cryptographic hash, called a proof of work, and send them to the rest of the network, which verifies the blocks and includes them in the database.
-
-Thus, new data is included in the database in blocks and this is why it is called a “chain of blocks” or “blockchain”.
-
-The main characteristic of a blockchain database is that all the data is fully transmitted and fully replicated in all participating nodes. This is a key security feature of these types of networks.
-
-As implied above, some machines are verifying nodes (they receive and transmit transactions and verify blocks sent by miners) and others are miners (they receive transactions and create blocks that they then send to verifying nodes for inclusion into the database).
-
-## What Is a Cryptocurrency?
-
-![Cryptocurrency](./what-is-a-cryptocurrency.png)
-
-A cryptocurrency is a form of money that is managed inside a blockchain database.
-
-The blockchain database is a ledger that contains information about the history of transactions, and the accounts and balances of the cryptocurrency.
-
-The cryptocurrency units are tokens that are created to compensate miners in proof of work blockchains, such as ETC, to pay them for their work when creating and stamping blocks cryptographically.
-
-Cryptocurrencies are money because their tokens are scarce, durable, costly to create, portable, divisible, fungible, and transferable, so they may be used for payments and as a store of value.
-
-The Ethereum Classic cryptocurrency is called ETC and its symbol in the market is $ETC.
-
-## Ethereum Classic is a Network, a Blockchain, and a Cryptocurrency
-
-![Network, Blockchain, and Cryptocurrency](./network-blockchain-cryptocurrency-banner.png)
-
-**Ethereum Classic is a network** because it is a system of machines, nodes, and a shared database called a blockchain. In particular, it is a public network and its software is open source so that anyone can audit and use it to participate in the system.
-
-**Ethereum Classic is a blockchain** because its database contains a ledger with accounts and balances, where transactions are fully transmitted and form a fully replicated chain of blocks.
-
-**Ethereum Classic is a cryptocurrency** because its ledger tracks a token called ETC that is scarce, durable, costly to create, portable, divisible, fungible, and transferable, so it may be used for payments and as a store of value.
+1. 网络、区块链和加密货币之间的区别
+2. 区块链软件与区块链协议的区别
+3. 区块链中是否有软件客户端和服务器?
+4. 以太坊虚拟机区块链和以太坊经典
+5. Core Geth详解
+6. 超级账本Hyperledger Besu详解
+7. Erigon详解 
 
 ---
 
-**Thank you for reading this article!**
+## 区块链，网络，和数字货币？
 
-To learn more about ETC please go to: https://ethereumclassic.org
+![以太坊经典，比特币，以太坊，狗狗币，莱特币。](./etc-btc-other-blockchains.png)
+
+当人们谈论以太坊经典或比特币时，他们通常交替地称它们为网络、区块链或加密货币。
+
+尽管在描述这些系统时，这三个术语在技术上是正确的，但概念之间存在着明显的差异。
+
+在本文中，我们将解释什么是网络，什么是区块链，什么是加密货币。
+
+了解这些差异将帮助我们理解不同的以太坊经典软件客户端是什么，以及如何运作。
+
+## 什么是网络？
+
+![网络](./what-is-a-network.png)
+
+计算机网络是一组机器，它们作为连接节点的系统工作，通过通信共享资源。
+
+对于参与网络的每台机器或节点，通常都有一个软件应用程序(称为节点软件客户端或简称软件客户端)，它包含一组规则或协议，用于组织和协调通信方法。
+
+计算机网络通常管理某种类型的数据库，这是系统通常负责的底层信息。
+
+网络可以是私有的，比如科技公司的内部系统;也可以是公共的，比如互联网或文件共享应用程序。
+
+当网络是私有时，它们通常被构造成分层系统，其中所有的机器都有不同的角色，有些机器比其他机器具有更重要的功能。
+
+当网络是公共时，它们通常结构为点对点网络，其中所有参与的节点都有类似的角色和功能。
+
+私有网络倾向于运行封闭源代码的软件，而公共网络倾向于运行开放源代码的软件，因此所有参与者都可以很容易地获得、审查和共享这些软件。
+
+## 什么是区块链？
+
+![区块链](./what-is-a-blockchain.png)
+
+严格地说，区块链是计算机网络管理的数据库，它有关于帐户、余额的信息，在ETC中，还有系统的智能合约。
+
+这意味着“区块链”不是机器的网络、节点，也不是节点软件客户端本身。它只是数据库。
+
+它的工作方式是，个人和企业一直向网络发送交易，节点接收它们并将所有信息重新传输给所有其他参与的节点，包括矿工。矿工将这些信息分组成区块，然后用一种称为工作证明的加密哈希标记这些区块，并将它们发送给网络的其他部分，后者验证这些块，并将它们包含在数据库中。
+
+因此，新的数据以区块的形式包含在数据库中，这就是它被称为“区块链”的原因。
+
+区块链数据库的主要特征是所有数据在所有参与节点中完全传输和完全复制。这是这些类型的网络的一个关键安全特性。
+
+如上所述，一些机器正在验证节点(它们接收和传输交易，并验证矿工发送的区块)，而另一些机器是矿工(它们接收交易并创建区块，然后将这些块发送给验证节点，以便将其包含到数据库中)。
+
+## 什么是加密货币？
+
+![加密货币](./what-is-a-cryptocurrency.png)
+
+加密货币是在区块链数据库中管理的一种货币形式。
+
+区块链数据库是一个分类账，包含有关交易历史的信息，以及加密货币的账户和余额。
+
+加密货币单位是为了在工作证明区块链(如ETC)中补偿矿工而创建的令牌，以支付他们在创建和加密区块时的工作。
+
+加密货币之所以是货币，是因为它们的代币稀缺、耐用、创建成本高、可携带、可分割、可替代和可转移，因此它们可以用于支付和作为价值存储。
+
+以太坊经典加密货币被称为ETC，其在市场中的符号是$ETC。
+
+## 以太坊经典是网络、区块链和加密货币
+
+![网络、区块链和加密货币](./network-blockchain-cryptocurrency-banner.png)
+
+以太坊经典是一个网络，因为它是一个由机器、节点和称为区块链的共享数据库组成的系统。特别是，它是一个公共网络，它的软件是开源的，因此任何人都可以审计并使用它参与系统。
+
+以太坊经典是一个区块链，因为它的数据库包含一个带有账户和余额的分类账，在那里交易被完全传输并形成一个完全复制的区块链。
+
+以太坊经典是一种加密货币，因为它的账本跟踪一种名为ETC的代币，这种代币稀有、耐用、创建成本高、可携带、可分割、可替代和可转移，所以它可以用于支付和作为价值存储。
+
+---
+
+**感谢您阅读本文！**
+
+要了解有关 ETC 的更多信息，请访问：https://ethereumclassic.org
