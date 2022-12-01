@@ -96,7 +96,7 @@ The Ethereum Classic cryptocurrency is called ETC and its symbol in the market i
 
 **Ethereum Classic is a blockchain** because its database contains a ledger with accounts and balances, where transactions are fully transmitted and form a fully replicated chain of blocks.
 
-**Ethereum Classic is a cryptocurrency** because its ledger tracks a token called ETC that is scarce, durable, costly to create, portable, divisible, fungible, and transferable, so it may be used for payments and as a store of value.
+**Ethereum Classic is a cryptocurrency** because its ledger tracks a coin called ETC that is scarce, durable, costly to create, portable, divisible, fungible, and transferable, so it may be used for payments and as a store of value.
 
 ---
 
