@@ -44,7 +44,7 @@ In the same way, permissionlessness in a blockchain as Ethereum Classic is not a
 
 Another thing that sounds counterintuitive is that the more zealous about its principles and intolerant about deviations the Ethereum Classic community is, then the more permissionless ETC will be.
 
-Indeed, ETC community members and the ecosystem at large; including core contributors, community participants, volunteer, miners, node operators, investors, dapp developers, and users; should memorize and know by heart the Ethereum Classic philosophy and principles just as Rabbis and Pastors cite the Bible by book, chapter, and verse.
+Indeed, ETC community members and the ecosystem at large; including core contributors, community participants, volunteers, miners, node operators, investors, dapp developers, and users; should memorize and know by heart the Ethereum Classic philosophy and principles just as Rabbis and Pastors cite the Bible by book, chapter, and verse.
 
 There shouldn't be a drop of misunderstanding or doubt in anyone, and everyone should defend the *Code Is Law* principle with all their hearts and souls.
 
