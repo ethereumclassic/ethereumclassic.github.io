@@ -1,5 +1,5 @@
 ---
-title: "Are There Software Clients and Servers in a Blockchain?"
+title: "区块链中是否有软件客户端和服务器？"
 date: 2022-12-01
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,110 +8,113 @@ linkImage: ./clients-servers-banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**欢迎由此收听或观看以下视频：**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L5B7IeJgbM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-**This is the third part of a series that will explain the three software clients currently operating or being implemented on Ethereum Classic.** 
+**这是本系列的第一部分，将解释目前在以太坊经典上运行或实现的三种软件客户端。**
 
-The series will consist of the following topics:
+该系列将包括以下主题:
 
-1. The Difference Between a Network, a Blockchain, and a Cryptocurrency 
-2. The Difference Between Blockchain Software and Blockchain Protocol
-3. Are There Software Clients and Servers in a Blockchain?
-4. Ethereum Virtual Machine Blockchains and Ethereum Classic
-5. Core Geth Explained
-6. Hyperledger Besu Explained
-7. Erigon Explained
-
----
-
-## Software Clients vs Software Servers
-
-![Clients vs Servers](./clients-servers-banner.png)
-
-Blockchains consist of computer networks and software applications that the machines in these systems must run to be able to participate. 
-
-The blockchain software applications are usually called “software clients”, however, there is more to the true roles and functions of these software nodes.
-
-In our previous article, we explained what is the difference between blockchain software and blockchain protocol. In this article we will explain what are software clients and servers and how they may be redefined in the context of blockchain networks.
-
-Learning these details will help us understand what are, and how the various Ethereum Classic software clients work.
-
-## What Are Software Servers?
-
-![Servers](./server.png)
-
-As the name indicates, servers provide information services to other applications or machines upon request. Usually they are structured and designed to provide large scale computing and data services.
-
-These information services may be to execute programs and return the results, store and process large amounts of data, to manage communications, provide big data and machine learning models, or business analytics.
-
-Examples are web servers, email servers, corporate mainframes applications, government data centers, and cloud services.
-
-They are usually controlled by corporations or governments to provide their products and services to clients, users, or beneficiaries, or for internal operations and systems.
-
-## What Are Software Clients?
-
-![Clients](./client.png)
-
-Clients are the applications that use the information services of servers. Usually they are small scale computing and data storage systems and they are normally user facing programs.
-
-Examples are web browsers, email apps, corporate terminals, government front office systems, business apps, and dashboards.
-
-They are normally installed in end user computers, phones, or tablets so people may conduct their day to day activities.
-
-## In What Settings do Clients and Servers Traditionally Interact?
-
-![Clients Use Multiple Servers](./clients-use-multiple-servers.png)
-
-Systems designs where there are defined client-server functions are a computing model organized to divide labour between machines and applications in order to make them more efficient and cheaper to operate.
-
-Multiple clients use the services of centralized servers so that the bulk of the work and storage of data is done by a few more powerful machines and applications. 
-
-Some examples may be airline terminals at airports and their company mainframes, websites and mobile apps and tech company data centers, and banking apps and bank servers, which process transactions and maintain accounts and balances.
-
-The great disadvantage of the client-server model is that it is centralized.
-
-## The Client-Server Model Is Dissolved in Peer-to-Peer Networks
-
-![Peer-to-Peer Client-Servers](./p-to-p-client-servers.png)
-
-In peer-to-peer networks, all machines and applications are meant to be equal to maximize decentralization, make sure there is redundancy, and minimize the downtime of the systems.
-
-This makes this model significantly more secure, but at the expense of efficiency.
-
-In peer-to-peer networks every machine and every node software application is both a server and a client. This is because the way they are organized is that all participants should be able to use the information of any other participant at any time, so they usually keep the data of the system distributed among all machines and applications.
-
-The great advantage of the peer-to-peer model is that it is decentralized.
-
-## Blockchains Follow the Peer-to-Peer Model
-
-![ETC Is a Peer-to-Peer Network](./etc-client-servers.png)
-
-Blockchains are peer-to-peer networks that maintain a fully replicated database in every node that contains the accounts, balances, and smart contracts of the system.
-
-This means that all the machines in a blockchain have both the role of client and server because they all depend on the other nodes for the following functions:
-
-1. **Send and receive new transactions:** When new transactions are received all nodes re-transmit them to all other nodes.
-2. **Send and receive new blocks:** When new blocks are received from miners all nodes re-transmit them to all other nodes.
-3. **Send and receive the whole blockchain to new machines joining the network:** This is called “initial blockchain download”.
-
-## The Software Clients-Servers of Ethereum Classic
-
-![ETC Three Client-Servers](./etc-3-client-servers.png)
-
-Ethereum Classic has three “software clients” which are really “software client-servers” of which two are operational, [Core Geth](https://github.com/etclabscore/core-geth) and [Hyperledger Besu](https://github.com/hyperledger/besu/), and one is in the process of being implemented on ETC, which is called [Erigon](https://github.com/ledgerwatch/erigon).
-
-Core Geth and Hyperledger Besu perform all the functions of the nodes in the blockchain, including storage of the blockchain, verification, and block mining, and Erigon focuses only on storage of the blockchain and verification, for now.
-
-However, they all perform the three client-server functions of transaction and block re-transmission and full replication, and initial blockchain download, described above.
-
-Another component that these client-servers have is the replicated Ethereum Virtual Machine or EVM. This will be the topic of our next article.
+1. 网络、区块链和加密货币之间的区别
+2. 区块链软件与区块链协议的区别
+3. 区块链中是否有软件客户端和服务器?
+4. 以太坊虚拟机区块链和以太坊经典
+5. Core Geth详解
+6. 超级账本Hyperledger Besu详解
+7. Erigon详解
 
 ---
 
-**Thank you for reading this article!**
+## 软件客户端与软件服务器
 
-To learn more about ETC please go to: https://ethereumclassic.org
+![客户端 vs 服务器](./clients-servers-banner.png)
+
+区块链由计算机网络和软件应用组成，这些系统中的机器必须运行才能参与其中。
+
+区块链软件应用程序通常被称为“软件客户端”，然而，这些软件节点的真正角色和功能还有更多。
+
+在上一篇文章中，我们解释了区块链软件和区块链协议之间的区别。在本文中，我们将解释什么是软件客户机和服务器，以及如何在区块链网络的上下文中重新定义它们。
+
+了解这些细节将帮助我们理解各种以太坊经典软件客户端是什么，以及如何工作。
+
+## 什么是软件服务器？
+
+![服务器](./server.png)
+
+顾名思义，服务器根据请求向其他应用程序或机器提供信息服务。它们通常是结构化的，旨在提供大规模的计算和数据服务。
+
+这些信息服务可能是执行程序并返回结果，存储和处理大量数据，管理通信，提供大数据和机器学习模型，或商业分析。
+
+例如web服务器、电子邮件服务器、企业大型机应用程序、政府数据中心和云服务。
+
+它们通常由公司或政府控制，以便向客户、用户或受益人提供产品和服务，或用于内部运营和系统。
+
+## 什么是软件客户端？
+
+![客户端](./client.png)
+
+客户端是使用服务器信息服务的应用程序。它们通常是小型计算和数据存储系统，通常是面向用户的程序。
+
+例如web浏览器、电子邮件应用程序、企业终端、政府前台办公室系统、商业应用程序和仪表板。
+
+它们通常安装在终端用户的电脑、手机或平板电脑中，以便人们可以进行日常活动。
+
+## 客户端和服务器通常在哪些设置下进行交互?
+
+![客户端对多个服务器的使用](./clients-use-multiple-servers.png)
+
+定义了客户-服务器功能的系统设计是一种计算模型，组织起来在机器和应用程序之间进行分工，以使它们的操作更高效、更便宜。
+
+多个客户机使用集中式服务器的服务，这样大量的工作和数据存储就由少数几个功能更强大的机器和应用程序完成。
+
+一些例子可能是机场的航空终端和他们的公司大型机，网站和移动应用程序和科技公司的数据中心，以及银行应用程序和银行服务器，它们处理交易和维护账户和余额。
+
+客户机-服务器模型的最大缺点是它是集中式的特性。
+
+## 客户-服务器模型在对等网络中被消解
+
+![对等网络的客户机-服务器](./p-to-p-client-servers.png)
+
+在对等网络中，所有机器和应用程序都应该是平等的，以最大限度地分散，确保冗余，并最大限度地减少系统的停机时间。
+
+这使得该模型显著地更加安全，但以效率为代价。
+
+在对等网络中，每台机器和每一个节点软件应用程序既是服务器又是客户端。这是因为它们的组织方式是，所有参与者都应该能够在任何时候使用任何其他参与者的信息，因此它们通常将系统的数据分布在所有机器和应用程序中。
+
+对等网络中最大的优点就是其去中心化的特征。
+
+## 区块链遵循对等网络模型
+
+![以太坊经典是一个对等网络](./etc-client-servers.png)
+
+区块链是对等网络，在包含系统账户、余额和智能合约的每个节点中维护一个完全复制的数据库。
+
+这意味着区块链中的所有机器同时具有客户机和服务器的角色，因为它们都依赖于其他节点来实现以下功能:
+
+
+1. **发送和接收新事务:** 当接收到新事务时，所有节点将其重新发送给所有其他节点。
+
+2. **发送和接收新区块:** 当从矿工接收到新区块时，所有节点将其重新发送给所有其他节点。
+
+3. **向加入网络的新机器发送和接收整个区块链:** 为“初始区块链下载”。
+
+## 以太坊经典的软件客户端-服务器
+
+![的三个客户端-服务器](./etc-3-client-servers.png)
+
+以太坊经典有三个“软件客户端”，它们是真正的“软件客户端-服务器”，其中两个是可操作的，[Core Geth](https://github.com/etclabscore/core-geth)和[Hyperledger Besu](https://github.com/hyperledger/besu/)，还有一个正在ETC上实现，称为[Erigon](https://github.com/ledgerwatch/erigon)。
+
+Core Geth和Hyperledger Besu执行区块链中所有节点的功能，包括区块链的存储、验证和区块挖掘，而Erigon目前只关注区块链的存储和验证。
+
+但是，它们都执行上述事务和区块重传输、完全复制和初始区块链下载这三个客户机-服务器功能。
+
+这些客户机-服务器的另一个组件是复制的以太坊虚拟机或EVM。这将是我们下一篇文章的主题。
+
+---
+
+**感谢您阅读本文！**
+
+要了解有关 ETC 的更多信息，请访问：https://ethereumclassic.org
