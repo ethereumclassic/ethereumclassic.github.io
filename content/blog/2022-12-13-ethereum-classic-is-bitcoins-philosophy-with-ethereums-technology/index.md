@@ -2,7 +2,7 @@
 title: "Ethereum Classic Is Bitcoin's Philosophy With Ethereum's Technology"
 date: 2022-12-13
 author: Donald McIntyre
-contributors: ["DonaldMcIntyre"]
+Contributors: ["DonaldMcIntyre"]
 tags: ["opinion", "education", "philosophy"]
 linkImage: ./etc-is-btc-eth.png
 ---
@@ -69,7 +69,7 @@ Ethereum and Ethereum Classic were one chain since inception in 2015, but due to
 
 ![ETC is the original chain and ETH is a fork.](./etc-is-the-original-chain.png)
 
-The controversy was that the Ethereum side wanted to manually confiscate the funds of a hacker to return them to the original owners, and the Ethereum Classic side wanted to uphold the philosophy immutability of the chain and not conifscate the funds, but to have people solve those things outside of the network. This principle in ETC became known as [*Code Is Law*](https://ethereumclassic.org/why-classic/code-is-law) and is its most fundamental tenet.
+The controversy was that the Ethereum side wanted to manually confiscate the funds of a hacker to return them to the original owners, and the Ethereum Classic side wanted to uphold the philosophy immutability of the chain and not confiscate the funds, but to have people solve those things outside of the network. This principle in ETC became known as [*Code Is Law*](https://ethereumclassic.org/why-classic/code-is-law) and is its most fundamental tenet.
 
 Since that split, Ethereum has decided to follow a philosophy called [weak subjectivity](https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity). This was the moral basis for migrating to the less secure proof of stake consensus mechanism, which is basically to run the network very much like the banking system. Weak subjectivity has a security of last resort that they call "social consensus" which means that, ultimately, anything that goes on inside the network may be modified, rectified, or manually managed by the participants in the network. This is absolutely antithetical to Bitcoin's and thus Ethereum Classic's philosophy of trust minimization and immutability.  
 
@@ -77,7 +77,7 @@ This is why in Ethereum Classic we say "ETC is BTC philosophy, with ETH technolo
 
 Due to its design choices, ETC has a system where both the currency and the decentralized applications are inside the same security environment of the proof of work blockchain. With this technology it is possible to design decentralized applications (dapps) where even if the founders or the company of a dapp disappear the smart contracts, accounts, and balances may still be perfectly safe inside the blockchain. 
 
-ETC is a fusion of the best of both worlds: The marvel of proof of work as a consensus mechanism with its true censorship resistance, permissionlessness, and immutability, and the computability, programability, and versatility of smart contracts.
+ETC is a fusion of the best of both worlds: The marvel of proof of work as a consensus mechanism with its true censorship resistance, permissionlessness, and immutability, and the computability, programmability, and versatility of smart contracts.
 
 In ETC the money and the dapps are decentralized, immutable, permissionless, and censorship resistant. This is the essence of the principle of *Code Is Law*, which is largely upheld by the combination of Bitcoin's invention of the proof of work consensus mechanism and Ethereum's innovation of smart contracts.
 
