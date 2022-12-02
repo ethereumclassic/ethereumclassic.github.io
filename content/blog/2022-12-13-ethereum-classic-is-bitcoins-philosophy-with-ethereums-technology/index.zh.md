@@ -56,7 +56,7 @@ The Ethereum Virtual Machine (EVM) model consists of the following components:
 1. A ledger with accounts and balances, and a cryptocurrency.
 2. A virtual machine that is replicated in all participating nodes of the network, making it a virtual decentralized computer.
 3. More than one hundred and twenty operation codes (opcodes) that the virtual machine may execute, making near [Turing complete](https://en.wikipedia.org/wiki/Turing_completeness).
-4. A programming language, called Solidity, that can produce code in the form of software programs that is executable by the virtual machine.
+4. A programming language, called Solidity, that can produce code in the form of software programs that are executable by the virtual machine.
 5. The ability to store these programs inside the network's database which is replicated in all participating nodes, making the programs decentralized, also known as "smart contracts".
 6. A gas system, that designates a number of computation units, called gas, that each opcode in the virtual machine consumes, and that must be paid for by users, so that all the nodes running the virtual machine may get paid for their work and know when to stop executing a program, solving the halting problem in a decentralized manner.
 7. Blocks of new transactions are created every 15 seconds.
