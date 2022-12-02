@@ -66,7 +66,7 @@ Ethereum Classic has exactly the same design as Ethereum, and shares the same fe
 
 Ethereum and Ethereum Classic were one chain since inception in 2015, but due to a controversy called [TheDAO](https://en.wikipedia.org/wiki/The_DAO_(organization))  in 2016, Ethereum split from the mainnet and departed with a completely different philosophy than ETC.
 
-![ETC is the original chain and ETH is a fork.](./etc-is-the-original-chain)
+![ETC is the original chain and ETH is a fork.](./etc-is-the-original-chain.png)
 
 The controversy was that the Ethereum side wanted to confiscate the funds of a hacker, and the Ethereum Classic side wanted to uphold the philosophy immutability of the chain. This principle in ETC became known as [*Code Is Law*](https://ethereumclassic.org/why-classic/code-is-law) and is its most fundamental tenet.
 
