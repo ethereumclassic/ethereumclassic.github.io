@@ -10,7 +10,7 @@ linkImage: ./etc-is-btc-eth.png
 ---
 **You can listen to or watch this video here:**
 
-[video]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wK-PyAOG0WM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 ![ETC is BTC philosophy with ETH technology.](./etc-is-btc-eth.png)
