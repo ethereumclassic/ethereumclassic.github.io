@@ -1,5 +1,5 @@
 ---
-title: "Permissionlessness Must not Permit Permissionness"
+title: "The Permissionless Paradox in Ethereum Classic"
 date: 2022-12-08
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
