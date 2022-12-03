@@ -19,7 +19,7 @@ In January of 2009 Satoshi Nakamoto launched the Bitcoin network. Previously, in
 
 However, Bitcoin as a technology provides a very simple task: It is a ledger that only holds accounts and balances and people can send transactions to move money from one account to another. That's it. Nothing more.  
 
-Nevertheless, the fact that it provides a simple service must not undermine the incredible innovation and philosophical objectives that it accomplished. The proof of work mechanism that Satoshi Nakamoto invented is a giant leap forward for humanity, comparable to the printing press in the 1440s or the internet in the 1990s. It is a historic change of paradigm in the way money works.
+Nevertheless, the fact that it provides a simple service must not undermine the incredible innovation and philosophical objectives that it accomplished. The proof of work mechanism that Satoshi Nakamoto invented is a giant leap forward for humanity, comparable to the printing press in the 1450s or the internet in the 1990s. It is a historic change of paradigm in the way money works.
 
 The philosophy and accomplishment of trust minimization in Bitcoin means that now individuals and businesses may control  and hold their money in their own custody without any intermediaries. They can also send transactions to make transfers in a permissionless and censorship resistant manner.
 
