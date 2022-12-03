@@ -10,17 +10,13 @@ linkImage: ./permissionlessness-banner.png
 ---
 **You can listen to or watch this video here:**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EjLsFN8iP6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LmHnVjMiE90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-Permissionlessness in Ethereum Classic does not mean permissionlessness in the community.
+![Permissionlessness in Ethereum Classic does not mean permissionlessness in the community.](./permissionlessness-banner.png)
 
-![ETC social layer and operating network.](./permissionlessness-banner.png)
-
-The title of this article is a purposeful paradox: How can something be permissionless but not permit permission. It is a paradox and not a contradiction because it is true. To maximize permissionlessness in a blockchain, you must reduce permissionlessness in the community that most influences that blockchain.
-
-In the ETC operating network, permissioned access is bad. In the ETC community, permissioned access is good.
+The permissionless paradox in Ethereum Classic is this: To maximize permissionlessness in the ETC blockchain, you must reduce permissionlessness in the community that most influences it. Or, to put it more bluntly, the ETC community should not be permissionless.
 
 By "ETC community" I mean the social media outlets such as the Discord server, the GitHub organization and its various repositories, the ECIP process, and other non-mainnet forums.
 
