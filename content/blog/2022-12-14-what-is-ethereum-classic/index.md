@@ -18,7 +18,7 @@ Ethereum Classic (ETC) is a cryptocurrency, a blockchain, and a world computer.
 
 ![Cryptocurrency, blockchain, and world computer.](./what-is-etc-banner.png)
 
-It is a cryptocurrency because it has a coin called Ether or ETC, which trades under the symbol $ETC, that has a fixed monetary policy and a capped supply of 210,700,000, making it not only suitable for global permissionless payments, but also for use as a store of value.
+It is a cryptocurrency because it has a coin called Ether or ETC, which trades under the symbol $ETC, that has a fixed monetary policy and a capped supply of 210,700,000 coins, making it not only suitable for global permissionless payments, but also for use as a store of value.
 
 ETC is a blockchain because it is a network of machines around the world which follow a censorship resistant protocol to manage a database that contains accounts and balances, and accepts blocks of new transactions every 15 seconds to move money from one account to another.
 
@@ -26,7 +26,7 @@ It is a world computer because it also stores decentralized programs, called sma
 
 ## Structure
 
-To accomplish the features mentioned above, ETC has a virtual machine called the [Ethereum Virtual Machine](https://ethereum.org/en/developers/docs/evm/), or EVM for short, that has more than [120 opcodes](https://ethervm.io/), which is replicated in all the network nodes, making it a decentralized virtual machine. This component enables the participating computers execute the decentralized software programs stored in the blockchain's ledger.
+To accomplish the features mentioned above, ETC has a virtual machine called the [Ethereum Virtual Machine](https://ethereum.org/en/developers/docs/evm/), or EVM for short, that has more than [120 opcodes](https://ethervm.io/), which is replicated in all the network nodes, making it a decentralized virtual machine. This component enables the participating computers to execute the decentralized software programs stored in the blockchain's ledger.
 
 The decentralized software programs, or smart contracts, are programmed in a software language called [Solidity](https://en.wikipedia.org/wiki/Solidity) that encodes them using the opcodes of the EVM so they can be executed inside the system.
 
@@ -54,7 +54,7 @@ There are four things that define the differences between Ethereum Classic and E
 
 3. **ETC has a fixed monetary policy and ETH does not:** ETC has a fixed monetary policy very similar to that of Bitcoin, with a cap of 210,700,000 coins, making it programmable digital gold. Ethereum does not have a fixed monetary policy, they have changed it six times since inception and it is uncertain what the supply will be in any given year.
 
-4. **ETC censorship resistant and ETH is not:** As miners who produce blocks to include new transactions in proof of work blockchains as ETC do not have to comply with financial regulations or international sanctions because they are not financial providers, and because they may move from place to place and mine anonymously, they can include all transactions sent to the network from anywhere inside the blocks. Ethereum proof of stake stakers are in a large measure regulated financial institutions based in western nations who have to comply with local and international restrictions and sanctions and this has mande Ethereum a predominantly [censored network](https://www.mevwatch.info/) because they are obligated to exclude transactions from certain sanctioned accounts.    
+4. **ETC is censorship resistant and ETH is not:** As miners who produce blocks to include new transactions in proof of work blockchains as ETC do not have to comply with financial regulations or international sanctions because they are not financial providers, and because they may move from place to place and mine anonymously, they can include all transactions sent to the network from anywhere inside the blocks. Ethereum proof of stake stakers are in a large measure regulated financial institutions based in western nations who have to comply with local and international restrictions and sanctions and this has made Ethereum a predominantly [censored network](https://www.mevwatch.info/) because they are obligated to exclude transactions from certain sanctioned accounts.    
 
 ## The Security vs Scalability Tradeoff
 
