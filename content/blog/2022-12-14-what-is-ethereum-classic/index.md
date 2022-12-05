@@ -10,7 +10,7 @@ linkImage: ./what-is-etc-banner.png
 ---
 **You can listen to or watch this video here:**
 
-<lala lala>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gG6un3SyZyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
