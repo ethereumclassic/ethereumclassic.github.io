@@ -40,6 +40,9 @@ search:
   txSearch: Čini se da ste unijeli Ethereum Classic adresu ili transakciju.
   blockScout: "Pretraži Blockscout Explorer:"
   explorers: ...ili provjerite neke druge [blockchain explorere](/network/explorers).
+qa:
+  show: Prikaži sve odgovore
+  hide: Sakrij sve odgovore
 ##
 ## Announcement Banner
 announcement:
