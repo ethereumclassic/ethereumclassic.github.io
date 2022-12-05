@@ -40,6 +40,9 @@ search:
   txSearch: Có vẻ như bạn đã nhập địa chỉ hoặc giao dịch Ethereum Classic.
   blockScout: "Tìm kiếm Blockscout Explorer:"
   explorers: ... hoặc xem một số [trình khám phá blockchain] (/ network / explorers) khác.
+qa:
+  show: Hiển thị tất cả câu trả lời
+  hide: Ẩn tất cả câu trả lời
 ##
 ## Announcement Banner
 announcement:
