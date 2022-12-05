@@ -74,7 +74,7 @@ In ETC, the backbone of dapps can be as trust minimized as the money, which make
 
 As mentioned in this article, the three pillars of Ethereum Classic are that it uses proof of work as its consensus mechanism, it has a fixed supply, and it supports smart contracts.
 
-![ETC pillars, principle, and benefits.](pillars-code-is-law)
+![ETC pillars, principle, and benefits.](pillars-code-is-law.png)
 
 The three pillars in its design and structure make true the principle of *Code Is Law* because ETC is concretely and tangibly decentralized, immutable, and permissionless.
 
