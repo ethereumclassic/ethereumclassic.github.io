@@ -1,9 +1,9 @@
 title: イーサリアムクラシック
 seo: "スマートコントラクトを実行する分散型コンピューティングプラットフォーム：ダウンタイム、検閲、第三者の干渉を受けずにプログラム通りに実行されるアプリケーション"
 #Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
-metaLocale: 米国
+metaLocale: ja_JP
 #Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
-htmlLang: エン
+htmlLang: ja
 published: 発行済み
 updated: 最終更新日
 author: 著者名
@@ -40,6 +40,9 @@ search:
   txSearch: イーサリアムクラシックのアドレスまたはトランザクションを入力したようです。
   blockScout: "Blockscout Explorerを検索します。"
   explorers: ...または、他の[ブロックチェーン探検家](/network/explorers)をチェックしてみてください。
+qa:
+  show: すべての回答を表示
+  hide: すべての回答を非表示
 ##
 ## Announcement Banner
 announcement:
