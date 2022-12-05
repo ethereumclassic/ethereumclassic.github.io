@@ -40,7 +40,7 @@ However, what makes Ethereum Classic and Bitcoin similar is that both use the ke
 
 The full name of the system is "Proof of Work Based Nakamoto Consensus" and it consists of making a subset of the machines of the network, called miners, perform a function called mining, which requires lots of computational work and expenditure of electricity. The result of this work is a cryptographic stamp that is added to blocks of transactions, hence the term "blockchain", which are produced in specific time intervals and then sent to the rest of the network to include them as the latest state of the system.
 
-Nakamoto Consensus achieves something that was not possible before, which is that computers in the network, no matter where they are in the world or who they belong to, can agree, without permission or supervision, in a decentralize manner, what is the latest state of the network.
+Nakamoto Consensus achieves something that was not possible before, which is that computers in the network, no matter where they are in the world or who they belong to, can agree, without permission or supervision, in a decentralizen manner, what is the latest state of the network.
 
 ## Difference With Ethereum
 
@@ -52,7 +52,7 @@ There are four things that define the differences between Ethereum Classic and E
 
 2. **ETC is proof of work and ETH is proof of stake:** Ethereum migrated from proof of work to proof of stake, which is less secure, but more scalable so this was more in line with their philosophy. ETC stayed and will stick to proof of work forever, so this means that it is truly decentralized, permissionless, and immutable.
 
-3. **ETC has a fixed monetary policy and ETH does not:** ETC has a fixed monetary policy very similar to that of Bitcoin, with a cap of 210,700,000 coins, making it programmable digital gold. Ethereum does not have a fixed monetary policy, they have changed it six times since inception and it is uncertain what the supply will be in any give year.
+3. **ETC has a fixed monetary policy and ETH does not:** ETC has a fixed monetary policy very similar to that of Bitcoin, with a cap of 210,700,000 coins, making it programmable digital gold. Ethereum does not have a fixed monetary policy, they have changed it six times since inception and it is uncertain what the supply will be in any given year.
 
 4. **ETC censorship resistant and ETH is not:** As miners who produce blocks to include new transactions in proof of work blockchains as ETC do not have to comply with financial regulations or international sanctions because they are not financial providers, and because they may move from place to place and mine anonymously, they can include all transactions sent to the network from anywhere inside the blocks. Ethereum proof of stake stakers are in a large measure regulated financial institutions based in western nations who have to comply with local and international restrictions and sanctions and this has mande Ethereum a predominantly [censored network](https://www.mevwatch.info/) because they are obligated to exclude transactions from certain sanctioned accounts.    
 
