@@ -44,7 +44,7 @@ search:
 ## Announcement Banner
 announcement:
   text: |
-    Deze website wordt nu in meerdere talen vertaald door middel van machine learning. Klik op het wereldbolpictogram rechtsboven op de pagina om van taal te veranderen. Als u wilt helpen bij het corrigeren van vertalingen, neem dan contact met ons op!
+    Deze website is nu vertaald in meerdere talen door middel van machine learning. Klik op de vlag rechtsboven op de pagina om de taal te wijzigen. Als je wilt helpen met het corrigeren van vertalingen, neem dan contact met ons op!
   button:
     text: "Help vertalen"
 ## Footer

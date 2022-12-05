@@ -44,7 +44,7 @@ search:
 ## Announcement Banner
 announcement:
   text: |
-    Laman web ini kini diterjemahkan ke dalam pelbagai bahasa melalui pembelajaran mesin. Klik ikon glob di bahagian atas sebelah kanan halaman untuk menukar bahasa. Jika anda ingin membantu terjemahan yang betul, sila hubungi kami!
+    Laman web ini kini diterjemahkan ke dalam pelbagai bahasa melalui pembelajaran mesin. Klik bendera di bahagian atas sebelah kanan halaman untuk menukar bahasa. Jika anda ingin membantu terjemahan yang betul, sila hubungi kami!
   button:
     text: "Bantu Terjemah"
 ## Footer
