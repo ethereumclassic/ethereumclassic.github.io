@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Virtual Machine Blockchains and Ethereum Classic"
+title: "以太坊虚拟机和以太坊经典"
 date: 2022-12-06
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,120 +8,121 @@ linkImage: ./evm-etc-banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**欢迎由此收听或观看以下视频：**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vedsLsb12Xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-**This is the fourth part of a series that will explain the three software clients currently operating or being implemented on Ethereum Classic.** 
+**这是本系列的第一部分，将解释目前在以太坊经典上运行或实现的三种软件客户端。**
 
-The series will consist of the following topics:
+该系列将包括以下主题:
 
-1. The Difference Between a Network, a Blockchain, and a Cryptocurrency 
-2. The Difference Between Blockchain Software and Blockchain Protocol
-3. Are There Software Clients and Servers in a Blockchain?
-4. Ethereum Virtual Machine Blockchains and Ethereum Classic
-5. Core Geth Explained
-6. Hyperledger Besu Explained
-7. Erigon Explained
+1. 网络、区块链和加密货币之间的区别
+2. 区块链软件与区块链协议的区别
+3. 区块链中是否有软件客户端和服务器?
+4. 以太坊虚拟机区块链和以太坊经典
+5. Core Geth详解
+6. 超级账本Hyperledger Besu详解
+7. Erigon详解
 
 ---
 
-## Non-programmable vs Programmable Blockchains
+## 不可编程和可编程区块链
 
-![EVM Blockchains](./evm-etc-banner.png)
+![以太坊虚拟机区块链](./evm-etc-banner.png)
 
-Depending on what components and design choices a blockchain has made, it may be a simple ledger with accounts, balances, and a cryptocurrency, or a more complex and versatile system with accounts, balances, a cryptocurrency, and smart contracts, making it programmable.
+根据区块链所做的组件和设计选择，它可能是一个具有帐户、余额和加密货币的简单账本，或者是一个具有帐户、余额、加密货币和智能合约的更复杂和通用的系统，使其可编程。
 
-In our previous article, we explained what are software clients and servers and defined blockchain node software as combined client-servers. In this article we will explain a major component of smart contracts blockchain client-servers called the Ethereum Virtual Machine, or EVM for short, and how this model has become an industry standard for programmability.
+在上一篇文章中，我们解释了什么是软件客户机和服务器，并将区块链节点软件定义为组合的客户机-服务器。在本文中，我们将解释智能合约区块链客户机-服务器的一个主要组件，称为以太坊虚拟机(简称EVM)，以及这个模型如何成为可编程性的行业标准。
 
-Learning these details will help us understand what are, and how the various Ethereum Classic software clients work.
+了解这些细节将带我们读懂不同以太坊经典软件客户端是如何运作的。
 
-## What Is The Ethereum Virtual Machine (EVM)?
+## 什么是以太坊虚拟机区块链
 
-![Eleven of the More than 120 Opcodes in the EVM](./evm-etc-opcodes.png)
+![EVM中120多个操作码中的11个](./evm-etc-opcodes.png)
 
-The EVM in blockchain client-servers is the innovation that brought smart contracts to the blockchain industry.
+区块链客户机-服务器中的EVM是为区块链行业带来智能合约的创新。
 
-It is a software component that behaves like a computing machine. As part of the node software, it is replicated in all machines in the network, therefore it’s a decentralized virtual machine.
+它是一种像计算机一样运行的软件组件。作为节点软件的一部分，它被复制到网络中的所有机器中，因此它是一个去中心化的虚拟机。
 
-The way it works is that it has over 120 computing operation codes, or opcodes for short, that together provide near full computability.
+它的工作方式是，通过120多个计算操作代码（或简称操作码）提供了几乎完全的可计算性。
 
-Because client-servers may be installed in many kinds of computers with diverse operating systems, the EVM enables nodes to operate in their local environments with their local machines, and at the same time interact with the global network of blockchain nodes with a single and compatible computing standard.
+由于客户机-服务器可以安装在具有不同操作系统的多种计算机中，因此EVM允许节点在其本地环境中使用其本地机器进行操作，同时使用单一且兼容的计算标准与区块链节点的全局网络进行交互。
 
-This assures a unified way of operating the network and executing smart contracts.
+这保证了网络操作和智能合约执行的统一性。
 
-## The EVM Model as a Standard
+## 将以太坊虚拟机作为标准
 
-![Many EVM Blockchains](./evm-etc-chains.png)
+![许多以太坊虚拟机区块链](./evm-etc-chains.png)
 
-Because many projects have imitated the EVM model to design their blockchains, then it has become a standard in the industry.
+由于很多项目都是模仿EVM模型来设计区块链的，因此它已经成为了行业内的标准。
 
-As a standard, changes that may happen in any system of the EVM family may be integrated into other systems.
+作为标准，在EVM家族的任何系统中可能发生的更改都可以集成到其他系统中。
 
-Because it is open source, anyone may contribute and anyone may copy changes or upgrades.
+因为它是开源的，任何人都可以贡献成果，任何人都可以复制更改或升级。
 
-It is important for all projects to keep their systems aligned with the EVM standard so there is more coordination, reduced switching and lock-in costs for developers and users, and increased interoperability between the networks.
+对于所有项目来说，保持它们的系统与EVM标准保持一致是很重要的，这样可以更好地进行协调，减少开发人员和用户的切换和锁定成本，并提高网络之间的互操作性。
 
-The EVM standard does not only include the EVM, but also the general format of the Ethereum protocol. 
 
-The protocol components are the following:
+EVM标准不仅包括EVM，还包括以太坊协议的通用格式。
 
-1. An EVM to execute opcodes.
-2. A GAS system to designate computing costs to each opcode to prevent spam and the halting problem.
-3. A programming language called Solidity so developers may build dapps that are executable by the EVM.
-4. State transition so the EVM may take inputs, execute programs, and produce new state outputs.
-5. Storage of software programs (smart contracts) in the ledger, turning them into decentralized programs.
+协议组件如下：
 
-## Which Are the EVM Blockchains in the Market?
+1. EVM执行操作码
+2. 一种为每个操作码指定计算成本的GAS系统，以防止垃圾邮件和停机问题。
+3. 一种叫做Solidity的编程语言使开发人员可以构建由EVM执行的dapps(去中心化APP）.
+4. 状态转换，以便EVM可以接受输入、执行程序并产生新的状态输出。
+5. 软件程序（智能合约）在帐本中的存储，将它们变成去中心化的程序。
 
-![EVM Blockchains](./evm-etc-standard.png)
+## 什么是市场中的以太坊虚拟机区块链？
 
-EVM blockchains are those blockchain projects that have adopted the EVM standard to design their systems, therefore have practically the same components described above.
+![以太坊虚拟机区块链](./evm-etc-standard.png)
 
-A list of top blockchains that follow this standard are:
+EVM区块链是那些采用EVM标准来设计其系统的区块链项目，因此实际上具有上述相同的组件。
 
-**Proof of Stake:**
+遵循这一标准的顶级区块链列表如下:
 
-- Ethereum
-- BNB Smart Chain
-- Cardano (through a sidechain)
-- Polkadot (through a parachain)
-- TRON
+持有量证明：
+
+- 以太坊
+- 币安智能链
+- 艾达币 （通过侧链）
+- 波卡币 （通过副链）
+- 波场
 - Solana
 - Avalanche
 - Polygon
 - EOS
 
-**Proof of Work**
+工作量证明：
 
-- Ethereum Classic
+- 以太坊经典
 
-## Ethereum Classic as an EVM Blockchain
+## 在以太坊虚拟机区块链上的以太坊经典
 
-![ETC Is the Largest Proof of Work EVM Blockchain in the World](./evm-etc-best.png)
+![ETC是世界上最大的工作证明EVM区块链](./evm-etc-best.png)
 
-As may be seen in the list above, Ethereum Classic is the only major proof of work smart contracts blockchain and the biggest in the world.
+从上面的列表中可以看到，以太坊经典是唯一的主要工作证明智能合约区块链，也是世界上最大的工作量证明区块链。
 
-Ethereum Classic is, indeed, the original EVM blockchain as Ethereum split from it in 2016 due to an incident called The DAO making it the second EVM compatible chain.
+事实上，以太坊经典是最初的EVM区块链，因为以太坊在2016年由于一个名为DAO的事件而从它分离，使其成为第二个EVM兼容链。
 
-Ethereum Classic has been updated to all the latest EVM standard features and upgrades, except some that were not aligned with its principle of “Code Is Law”, e.g. it did not migrate to Proof of Stake and has a fixed monetary policy.
+以太坊经典已经更新了所有最新的EVM标准功能和升级，除了一些不符合其“代码即法律”的原则。例如，它没有迁移到持有量证明，并有固定的货币政策。
 
-This means ETC will stay as a Proof of Work blockchain and is the largest, thus most secure smart contracts blockchain in the planet because it uses that consensus mechanism.
+这意味着ETC将继续作为工作证明区块链，并且是全球最大的工作量证明区块链。因此是最安全的智能合约区块链，因为它使用了这种共识机制。
 
-## The Ethereum Classic EVM Software Clients 
+## 以太坊经典EVM软件客户端 
 
-![ETC EVM Client-Servers](./evm-etc-client-servers.png)
+![以太坊经典EVM 客户端-服务器](./evm-etc-client-servers.png)
 
-Ethereum Classic has three software client-servers of which two are operational, [Core Geth](https://github.com/etclabscore/core-geth) and [Hyperledger Besu](https://github.com/hyperledger/besu/), and one is in the process of being implemented on ETC, which is called [Erigon](https://github.com/ledgerwatch/erigon).
+以太坊经典有三个软件客户端-服务器，其中两个是可操作的，[Core Geth](https://github.com/etclabscore/core-geth)和[Hyperledger Besu](https://github.com/hyperledger/besu/)，还有一个正在ETC上实现，称为[Erigon](https://github.com/ledgerwatch/erigon)。
 
-All three node client-servers comply with the ETC version of the EVM model and standard, but have some key differences that make them unique in their niches.
+所有三个节点客户机-服务器都遵循EVM模型和标准的ETC版本，但有一些关键的差异使它们在各自的领域中独一无二。
 
-This will be the topic of our next three articles where we will explain each one separately.
+这将是我们接下来三篇文章的主题，我们将分别对它们进行解释。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解有关 ETC 的更多信息，请访问：https://ethereumclassic.org
