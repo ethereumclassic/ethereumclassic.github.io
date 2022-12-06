@@ -36,7 +36,7 @@ Depending on what components and design choices a blockchain has made, it may be
 
 In our previous article, we explained what are software clients and servers and defined blockchain node software as combined client-servers. In this article we will explain a major component of smart contracts blockchain client-servers called the Ethereum Virtual Machine, or EVM for short, and how this model has become an industry standard for programmability.
 
-Learning these details will help us understand what are, and how the various Ethereum Classic software clients work.
+Learning these details will help us understand what they are, and how the various Ethereum Classic software clients work.
 
 ## What Is The Ethereum Virtual Machine (EVM)?
 
@@ -108,7 +108,7 @@ Ethereum Classic is, indeed, the original EVM blockchain as Ethereum split from 
 
 Ethereum Classic has been updated to all the latest EVM standard features and upgrades, except some that were not aligned with its principle of “Code Is Law”, e.g. it did not migrate to Proof of Stake and has a fixed monetary policy.
 
-This means ETC will stay as a Proof of Work blockchain and is the largest, thus most secure smart contracts blockchain in the planet because it uses that consensus mechanism.
+This means ETC will stay as a Proof of Work blockchain and is the largest, thus most secure smart contracts blockchain on the planet because it uses that consensus mechanism.
 
 ## The Ethereum Classic EVM Software Clients 
 
