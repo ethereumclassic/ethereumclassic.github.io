@@ -40,6 +40,9 @@ search:
   txSearch: Ethereum Classic 주소 또는 거래를 입력한 것 같습니다.
   blockScout: "Blockscout 탐색기 검색:"
   explorers: ...또는 다른 [블록체인 탐색기](/network/explorers)를 확인하십시오.
+qa:
+  show: 모든 답변 표시
+  hide: 모든 답변 숨기기
 ##
 ## Announcement Banner
 announcement:

@@ -40,6 +40,9 @@ search:
   txSearch: Nampaknya anda telah memasukkan alamat atau transaksi Ethereum Classic.
   blockScout: "Cari Blockscout Explorer:"
   explorers: ...atau lihat beberapa [penjelajah rantaian blok](/network/explorers) lain.
+qa:
+  show: Tunjukkan semua Jawapan
+  hide: Sembunyikan semua Jawapan
 ##
 ## Announcement Banner
 announcement:
