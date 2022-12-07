@@ -1,9 +1,9 @@
 title: Ethereum Classic
 seo: "Una plataforma informática descentralizada que ejecuta contratos inteligentes: aplicaciones que se ejecutan exactamente según lo programado, sin tiempos de inactividad, censura o interferencia de terceros"
 #Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
-metaLocale: es_US
+metaLocale: es_ES
 #Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
-htmlLang: en
+htmlLang: es
 published: Publicado
 updated: Última actualización
 author: Autor
@@ -40,6 +40,9 @@ search:
   txSearch: Parece que has introducido una dirección o transacción de Ethereum Classic.
   blockScout: "Buscar en el Explorador de Blockscouts:"
   explorers: ...o consultar otros [exploradores de blockchain](/red/exploradores).
+qa:
+  show: Mostrar todas las respuestas
+  hide: Ocultar todas las respuestas
 ##
 ## Announcement Banner
 announcement:

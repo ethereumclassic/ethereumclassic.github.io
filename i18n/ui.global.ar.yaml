@@ -40,6 +40,9 @@ search:
   txSearch: يبدو أنك أدخلت عنوان أو معاملة Ethereum Classic.
   blockScout: "البحث في مستكشف Blockscout:"
   explorers: ... أو تحقق من بعض [مستكشفات blockchain] الأخرى (/ network / explorers).
+qa:
+  show: عرض كل الإجابات
+  hide: إخفاء كل الإجابات
 ##
 ## Announcement Banner
 announcement:
