@@ -55,7 +55,7 @@ Nevertheless, contribution does not mean approval or adoption.
 
 An ECIP may be submitted to the process and there is a good chance it will be rejected if it is not aligned with the philosophy and principles of Ethereum Classic.
 
-There are even instances in the industry where proposals have been formally approved, but never adopted by actual blockchain network operators. These instances sometimes lead to network splits or forks.
+There are even instances in the industry where proposals have been formally approved, but never adopted by actual blockchain network operators. These instances sometimes led to network splits or forks.
 
 ETC in particular has a strict philosophy of permissionless access to the operating network, but that does not mean that there is permissionless access to propose any kind of changes. This apparent contradiction is called the permissionless paradox.
 
