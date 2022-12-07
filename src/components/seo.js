@@ -36,7 +36,7 @@ export default function Seo({
     : `${pageTitle} - ${ui.title}`;
   const author = data?.mdx?.meta?.author || i18n.author;
   const updated = data?.mdx?.meta?.updated || i18n.updated;
-  const published = data?.mdx?.meta?.published || i18n.published;
+  const published = data?.mdx?.meta?.date || i18n.date;
   const description = [
     data?.mdx?.meta?.seo,
     i18n.seo,
