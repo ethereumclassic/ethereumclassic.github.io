@@ -18,7 +18,7 @@ linkImage: ./etc-three-pillars-abstraction.png
 
 当您访问以太坊经典网站时，您会发现下面的图片对ETC区块链有很多象征意义。 
 
-![以太坊经典网站主页上的图像及其象征意义。](./etc-three-pillars-home-image.png)
+![以太坊经典网站主页上的图像及其象征意义。](./pillars-image-cn.png)
 
 正如上面所看到的，我们用每个部分的含义标记了图像的各个部分。三大支柱是:
 
@@ -36,7 +36,7 @@ linkImage: ./etc-three-pillars-abstraction.png
 
 在网站的图片旁边，有一段文字向新来者解释了什么是以太坊经典，并隐式列出了ETC支柱的五个好处以及代码及法律的原则。
 
-![三大支柱的好处](./etc-three-pillars-image-explained.png)
+![三大支柱的好处](./pillars-text-cn.png)
 
 在上文，我列出了代表代码即法律的关键字，而代码及法律是由ETC的三个支柱所支撑，其含义如下：
  
@@ -99,7 +99,7 @@ linkImage: ./etc-three-pillars-abstraction.png
 
 ## 总结
 
-![支柱 → 首要 → 好处](./etc-three-pillars-summary.png)
+![支柱 → 首要 → 好处](./pillars-benefits-cn.png)
 
 智能合约在区块链内部提供可编程性，这使应用程序具有与货币相同的安全性。
 
