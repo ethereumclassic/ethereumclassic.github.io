@@ -1,5 +1,5 @@
 ---
-title: "The Three Pillars of Ethereum Classic"
+title: "以太坊经典的三大支柱"
 date: 2022-12-07
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,109 +8,107 @@ linkImage: ./etc-three-pillars-abstraction.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**欢迎由此收听或观看文章内容：**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GJqwZvFRZMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-## Main Image on ethereumclassic.org and Its Symbolism
+## Ethereumclassic.org 上的主要图像及其象征意义
 
-When you go to the [Ethereum Classic website](https://ethereumclassic.org) you find the image below which has a lot of symbolism and meaning for the ETC blockchain. 
+当您访问以太坊经典网站时，您会发现下面的图片对ETC区块链有很多象征意义。 
 
-![The Image on the home of the Ethereum Classic website and its symbolism.](./etc-three-pillars-home-image.png)
+![以太坊经典网站主页上的图像及其象征意义。](./etc-three-pillars-home-image.png)
 
-As may be seen above we marked the sections of the image with the meaning of each section. The three pillars are:
+正如上面所看到的，我们用每个部分的含义标记了图像的各个部分。三大支柱是:
 
-- smart contracts or programmability, 
-- fixed supply which gives ETC its property of digital gold,
-- Proof of Work which is the heart of the network as it provides the security of the whole system.
+- 智能合约或可编程性，
+- 这让ETC拥有了数字黄金的属性
+- 工作量证明，它是网络的核心，因为它提供了整个系统的安全性。
 
-In the image, the three pillars hold up and support the main principle of the Ethereum Classic network, represented as justice scales in between sofware code, which means *Code Is Law*.
+在图中，这三根支柱支撑着以太坊经典网络的主要原则，表现为软件代码之间的正义天平，也就是code Is Law。
 
-In abstraction, the image symbolism on the home page may be represented as in the diagram below.
+抽象地说，主页上的图像符号可以如下图所示。
 
-![Abstract representation in a diagram.](./etc-three-pillars-abstraction.png)
+![抽象示意图](./etc-three-pillars-abstraction.png)
 
-## Explanatory Text Beside the Image
+## 图像说明
 
-Beside the image on the wesbite, there is a text that explains to newcomers what is Ethereum Classic and implicitly lists five benefits of the pillars of ETC as well as the principle of *Code Is Law*.
+在网站的图片旁边，有一段文字向新来者解释了什么是以太坊经典，并隐式列出了ETC支柱的五个好处以及代码及法律的原则。
 
-![Benefits of the Three Pillars.](./etc-three-pillars-image-explained.png)
+![三大支柱的好处](./etc-three-pillars-image-explained.png)
 
-From the text above I underlined the keywords that represent the benefits of the *Code Is Law* principle, which is upheld by the three pillars of ETC, and below I list them with their meaning:
+在上文，我列出了代表代码即法律的关键字，而代码及法律是由ETC的三个支柱所支撑，其含义如下：
+ 
+- 不可审查:ETC是抵制审查和不受限制的，因此不允许。
+- 不可阻挡:货币转账和去中心化应用是不可阻挡的。
+- 不可妥协:帐户、余额和去中心化的应用程序不能像传统系统那样被妥协。
+- 不可捕获:ETC不能被公司或特殊利益捕获。
 
-- **Survivability:** Because of ETC's security, accounts, balances, and smart contracts will survive in the long term.
-- **Censorship Resistance:** ETC is censorship resistant and unrestricted, therefore permissionless.
-- **Unstoppability:** Currency tranfers and decentralized applications are unstoppable.
-- **Uncompromisable:** Accounts, balances, and decentralized applications cannot be compromised as in traditional systems. 
-- **Uncapturable:** ETC cannot be captured by corporations or special interests.
+因此，三大支柱坚持了法典即法律的原则，法典即法律的原则保证了生存的好处、审查的阻力、并使ETC不受妥协和捕获。
 
-So, the three pillars uphold the principle of *Code Is Law*, and the principle of *Code Is Law* guarantees the benefits of survivability, censorship resistance, unstoppability, and make ETC uncompromisable and uncapturable.
+那么，问题来了:以太坊经典的三大支柱是如何保证“代码即法律”的原则及其主要利益的?
 
-Then, the question is: How do the three pillars of Ethereum Classic guarantee the principle of Code Is Law and its main benefits?
+这将是接下来文章将讲述的内容。
 
-This is what we will explain in the rest of this article.
+## 第一支柱：智能合约
 
-## Pillar 1: Smart Contracts
+![智能合约 - 可编程性](./etc-pillar-smart-contracts.png)
 
-![Smart Contracts -Programmability](./etc-pillar-smart-contracts.png)
+当我们使用手机或电脑上的传统网络和应用程序时，它们与科技公司和银行的中央服务器进行交互。这就带来了审查、没收、限制访问以及公司和政府操纵我们活动的风险。
 
-When we use the traditional web and apps on our phones or computers they interact with the central servers of tech companies and banks. This presents the risks of censorship, confiscation, restricted access, and manipulation of our activities by corporations and governments.
+如果通过应用程序使用去中心化的比特币，应用程序本身可能会被捕获的话有什么好处呢? 如果程序托管在中央数据中心和云服务中，那么让加密货币“可编程”又有什么好处呢?
 
-What good is a decentralized cryptocurrency as Bitcoin if to use it through applications, the applications themselves may be captured? What good would it be to supposedly make that cryptocurrency “programmable” if the programmes are hosted in centralized data centers and cloud services?
+由于以太坊经典中的智能合约是去中心化的软件程序，它们可以驱动应用程序，使其成为去中心化的应用程序(dapp)。这意味着ETC区块链上的dapp真正提供了去中心化的好处。
 
-As smart contracts inside Ethereum Classic are decentralized software programs, they can power applications, making them decentralized applications (dapps). This means dapps on the ETC blockchain truly provide the benefits decentralization. 
+也就是说，代码即法律的原则在ETC中是正确的。这使得应用程序具有与区块链中的货币相同的安全性。
 
-This is, that the Code Is Law principle is true in ETC and this enables applications to have the same security as the currency inside the blockchain.
+所谓的“安全”，我们指的是在网络上代码的长期生存能力，对审查的抵抗，dapp的不可阻挡性，因此它们将像传统系统一样不可妥协和不可捕获。
 
-By “security” we mean survivability in the long term of the code on the network, resistance against censorship, unstoppability of dapps, and hence that they will be uncompromisable and uncapturable as in traditional systems.
+## 第二支柱： 固定供应
 
-## Pillar 2: Fixed Supply
+![固定供应 - 数字黄金](./etc-pillar-fixed-supply.png)
 
-![Fixed Supply - Digital Gold](./etc-pillar-fixed-supply.png)
+由于工作证明区块链的安全模型在很大程度上取决于对其服务的需求(以以太坊经典为例，是一种安全且可编程的加密货币)，因此健全货币的属性必须是系统的关键组成部分，以提供经济激励来增加其需求。
 
-As the security model of a proof of work blockchain depends in a great measure on demand for its services (a secure and programmable cryptocurrency in the case of Ethereum Classic) then the properties of sound money must be a key component of the system to provide the economic incentives to increase its demand.
+健全的货币意味着原生代币必须是稀缺的、耐用的、昂贵的、便携的、可分割的、可替代的和可转移的。然而，区块链给世界带来的关于健全货币的更重要的创新是，货币也被信任最小化。
 
-Sound money means that the native token must be scarce, durable, costly to create, portable, divisible, fungible, and transferable. However, the more important innovation that blockchains brought to the world with regards to sound money was that the currency is also trust minimized.
+信任最小化意味着任何中央实体或特殊利益改变货币供应的能力被显著降低，或实际上被消除。
 
-Trust minimization means that the ability for any centralized entity or special interest to change the supply of the currency is significantly reduced, or practically eliminated.
+这大大提高了货币政策不会被随意修改和增加，从而想法币一样稀释持有人的财富和财产。
 
-This gives a much higher assurance that the monetary policy will not be arbitrarily modified and increased, diluting the wealth and property of holders, as it happens systematically with fiat money.
+因为ETC的加密货币是在协议中编程的，它的供应量逐渐减少，接近于零，供应上限为210,70万枚，然后它有这些我们想要的特征和属性，因此它是稳健的货币，并在全球范围内保护产权。
 
-Because ETC’s cryptocurrency is programmed in the protocol and it has a decreasing supply that tends to zero, with a supply cap of 210,700,000 coins, then it has these desirable features and properties that we seek, therefore it is sound money and secures property rights on a global scale.
+如果健全的货币增加了需求，而不断增长的需求增加了安全性，那么健全的货币就意味着长期的生存能力，审查的阻力，dapp的不可阻挡性，以及这个系统是不可妥协和不可捕获的。
 
-If sound money increases demand, and growing demand increases security, then sound money means survivability in the long term, censorship resistance, unstoppability of dapps, and that the system is uncompromisable and uncapturable.
+## 第三支柱：工作量证明
 
-## Pillar 3: Proof of Work
+![工作量证明 - 安全性](./etc-pillar-pow.png)
 
-![Proof of Work - Security](./etc-pillar-pow.png)
+基于工作证明的中本共识机制保证了权力下放，因为:
 
-The Proof of Work Based Nakamoto Consensus mechanism guarantees decentralization because it:
+实现共识:网络中的所有参与者都可以知道哪条链是正确和诚实的，因为很容易去除任何提出替代链作为构建合法区块的唯一方法的攻击者或冒名顶替者，只需要做大量的工作，消耗大量的能量。
 
-1. **Enables consensus:** All participants in the network can have the knowledge of which is the correct and honest chain because it is very easy to discard any attackers or imposters proposing alternative chains as the only way to build legitimate blocks is by doing a lot of work, consuming enormous amounts of energy.
+允许自由进出的链选择:同样的方法，丢弃那些没有做过工作的冒名顶替者，只包括做过工作的区块，使得工作证明区块链在任何时候都可以完全自由进出，不需要任何人的许可或指导。
 
-2. **Enables chain selection for free exit and entry:** The same method of discarding the imposters who did not do the work and only including the blocks that did the work make proof of work blockchains absolutely free to enter and exit at any time with no permission nor direction from anyone.
+保护交易:因为构建这些区块需要大量的机器工作和大量的电力支出，如果任何攻击者想要将区块链逆转到过去，以引入虚假交易、审查或消除账户或余额，他们将不得不重新做所有的工作。
 
-3. **Protects transactions:** Because to build the blocks requires so much work by machines and expenditure of enormous amounts of electricity, if any attacker wanted to reverse the chain of blocks to the past to introduce fake transactions, censor, or eliminate accounts or balances, they would have to do all the work again.
+创建货币的成本:每个区块的奖励(发行新的原生代币)只在构建区块的工作完成时发生。这一特性与现实世界中的黄金类似，使ETC成为数字黄金。
 
-4. **Imposes a cost to create the money:** The reward per block, which issues new native tokens, only happens if the work to build a block is done. This feature is what is analogous to gold in the real world and makes ETC digital gold.
+上述特性提供的去中心化是以太坊经典安全的核心，因此具有长期的生存能力、审查阻力、dapp的不可阻挡性，以及系统不可妥协和不可捕获。
 
-The decentralization provided by the above features is the heart of the security of Ethereum Classic, thus survivability in the long term, censorship resistance, unstoppability of dapps, and that the system is uncompromisable and uncapturable.
+## 总结
 
-## In Summary
+![支柱 → 首要 → 好处](./etc-three-pillars-summary.png)
 
-![Pillars -> Principles -> Benefits](./etc-three-pillars-summary.png)
+智能合约在区块链内部提供可编程性，这使应用程序具有与货币相同的安全性。
 
-**Smart contracts** provide programmability inside the blockchain and this enables applications to have the same security as the currency.
+固定供给以稳健货币的形式为网络的增长和变得更加安全提供了经济激励。
 
-**Fixed supply** provides economic incentives in the form of sound money for the network to grow and become more secure.
-
-**Proof of Work** makes the network truly decentralized, censorship resistant, immutable, and enables anyone in the world to participate permissionlessly.
+工作量证明使网络真正去中心化、抵制审查、不可改变，并使世界上的任何人都能不经许可地参与其中。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
-
+要了解有关 ETC 的更多信息，请访问：https://ethereumclassic.org
