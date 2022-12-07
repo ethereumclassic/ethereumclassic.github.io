@@ -22,7 +22,7 @@ const locales = {
   },
   es: {
     name: "Español",
-    enabled: false,
+    enabled: true,
     dayJsImport: "es",
   },
   fr: {

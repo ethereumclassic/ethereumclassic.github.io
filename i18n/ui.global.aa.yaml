@@ -40,6 +40,9 @@ search:
   txSearch: crwdns72318:0crwdne72318:0
   blockScout: "crwdns72320:0crwdne72320:0"
   explorers: crwdns72322:0crwdne72322:0
+qa:
+  show: crwdns108533:0crwdne108533:0
+  hide: crwdns108535:0crwdne108535:0
 ##
 ## Announcement Banner
 announcement:

@@ -32,7 +32,7 @@ items:
       whitepaper:
         question: Ethereum Classic에 백서가 있습니까?
         answer: |
-          이더리움은 이더리움 클래식의 포크이기 때문에 이더리움 [Whitepaper](https://ethereum.org/en/whitepaper/) 및 [Yellowpaper](https://ethereum.org/)과 같은 선행 문서를 포함하여 두 프로젝트 모두 2016년까지 동일한 역사를 공유합니다. github.io/yellowpaper/paper.pdf).
+          이더리움은 이더리움 클래식의 포크이기 때문에 이더리움 [Whitepaper](https://ethereum.org/en/whitepaper/) 및 [Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf)과 같은 선행 문서를 포함하여 두 프로젝트 모두 2016년까지 동일한 역사를 공유합니다.
 
           이더리움과의 분할 후 ETC 지지자들은 이더리움 클래식 프로젝트의 DNA의 일부가 된 철학의 차이점을 자세히 설명하는 여러 문서를 게시했습니다. Ethereum Classic의 창립 문서에 대한 자세한 내용은 [foundation](/knowledge/foundation) 섹션에서 읽을 수 있습니다.
       roadmap:

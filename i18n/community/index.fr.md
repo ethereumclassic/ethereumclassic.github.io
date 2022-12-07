@@ -1,5 +1,5 @@
 ---
-title: Communauté CTE
+title: Communauté ETC
 updated: 2022-02-22
 seo: Liens vers les canaux, les équipes et les événements qui constituent la communauté Ethereum Classic. Participez !
 ---
