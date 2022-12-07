@@ -40,6 +40,9 @@ search:
   txSearch: 看起来你已经输入了一个Ethereum Classic地址或交易。
   blockScout: "搜索Blockscout Explorer。"
   explorers: ...或查看其他一些[区块链探索者](/network/explorers)。
+qa:
+  show: 显示所有答案
+  hide: 隐藏所有答案
 ##
 ## Announcement Banner
 announcement:

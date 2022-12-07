@@ -40,6 +40,9 @@ search:
   txSearch: Похоже, что вы ввели адрес Ethereum Classic или транзакцию.
   blockScout: "Поиск в Blockscout Explorer:"
   explorers: ...или ознакомьтесь с другими [исследователями блокчейна](/network/explorers).
+qa:
+  show: Показать все ответы
+  hide: Скрыть все ответы
 ##
 ## Announcement Banner
 announcement:

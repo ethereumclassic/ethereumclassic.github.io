@@ -40,6 +40,9 @@ search:
   txSearch: Φαίνεται ότι έχετε εισάγει μια διεύθυνση ή μια συναλλαγή Ethereum Classic.
   blockScout: "Αναζήτηση Blockscout Explorer:"
   explorers: ...ή να δείτε μερικούς άλλους [blockchain explorers](/network/explorers).
+qa:
+  show: Εμφάνιση όλων των απαντήσεων
+  hide: Απόκρυψη όλων των απαντήσεων
 ##
 ## Announcement Banner
 announcement:

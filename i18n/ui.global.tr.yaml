@@ -40,6 +40,9 @@ search:
   txSearch: Bir Ethereum Classic adresi veya işlemi girmişsiniz gibi görünüyor.
   blockScout: "Blockscout Explorer'da arama yapın:"
   explorers: ...ya da diğer bazı [blockchain kaşiflerine] (/network/explorers) göz atın.
+qa:
+  show: Tüm Yanıtları Göster
+  hide: Tüm Yanıtları Gizle
 ##
 ## Announcement Banner
 announcement:

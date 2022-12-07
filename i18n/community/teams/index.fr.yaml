@@ -12,6 +12,6 @@ items:
       name:
         name: Nom de l'équipe
       social:
-        name: Social
+        name: Réseaux sociaux
       active:
         name: Actif

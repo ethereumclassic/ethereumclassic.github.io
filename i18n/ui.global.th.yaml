@@ -40,6 +40,9 @@ search:
   txSearch: ดูเหมือนว่าคุณได้ป้อนที่อยู่หรือธุรกรรม Ethereum Classic
   blockScout: "ค้นหา Blockscout Explorer:"
   explorers: ...หรือลองดู [นักสำรวจบล็อคเชน](/network/explorers) อื่นๆ
+qa:
+  show: แสดงคำตอบทั้งหมด
+  hide: ซ่อนคำตอบทั้งหมด
 ##
 ## Announcement Banner
 announcement:
