@@ -23,12 +23,12 @@ items:
       chat WeChat:
         name: WeChat (Chinese)
   Development Chat:
-    title: Chat sur le développement
+    title: Discussions développement
     items:
       Core-Geth dev:
         name: Core-Geth
       ETC Core dev:
-        name: Noyau de l'ETC
+        name: ETC Core
       Hyperledger Besu dev:
         name: Hyperledger Besu
   Telegram Groups:
@@ -37,15 +37,15 @@ items:
       telegram English:
         name: Anglais
       telegram Español:
-        name: Español
+        name: Espagnol
       telegram Italia:
-        name: Italie
+        name: Italien
       telegram Russia:
-        name: Russie
+        name: Russe
       telegram Viet Nam:
-        name: Viet Nam
+        name: Vietnamien
       telegram China:
-        name: 中文
+        name: Chinois
   Forums:
     title: Forums
     items:
@@ -54,9 +54,9 @@ items:
       forum BitcoinTalk:
         name: BitcoinTalk
       forum Archived BitcoinTalk:
-        name: Archivé BitcoinTalk
+        name: Archives BitcoinTalk
   Media:
-    title: Chaînes vidéo et listes de lecture
+    title: Chaînes Vidéo & Playlists
     items:
       media ETCfInv:
         name: ETC pour les investisseurs
@@ -71,9 +71,9 @@ items:
       media EVM61:
         name: EVM61
       media Explore The Chain:
-        name: Explorer la chaîne
+        name: Explore The Chain
       media Let's Talk ETC!:
-        name: Parlons-en ETC !
+        name: Let's Talk ETC!
   Twitter Accounts:
     title: Comptes Twitter
     items:
@@ -84,7 +84,7 @@ items:
       twitter English 2:
         name: "@eth_classic"
       twitter Español:
-        name: Español
+        name: Espagne
       twitter France:
         name: France
       twitter Germany:
