@@ -29,7 +29,10 @@ export default function Seo({
   const { isDark } = useTheme();
   const is404 = basePath === "404";
   const url = `${siteUrl}${path}`;
-  const image = `${siteUrl}${socialImage}`; // LODO extract first image from MDX, somehow
+  const pageImage =
+    data?.mdx?.fields?.featuredImage?.childImageSharp?.gatsbyImageData?.images
+      ?.fallback?.src || socialImage;
+  const image = `${siteUrl}${pageImage}`;
   const pageTitle = data?.mdx?.meta?.title || i18n.title || ui.title;
   const title = pageTitle.includes(ui.title)
     ? pageTitle
