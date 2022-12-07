@@ -11,6 +11,7 @@ import Icon from "./icon";
 import Button from "./button";
 import tw from "twin.macro";
 import { withTwoPassRendering } from "./twoPassRendering";
+import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
 
 function Question({ item: { question, answer }, showAll }) {
   const [showing, setShowing] = useState(showAll);
@@ -39,6 +40,9 @@ function Question({ item: { question, answer }, showAll }) {
 
 function GenericQuestions({ items }) {
   const [showAll, setShowAll] = useState(isSSR);
+  const {
+    ui: { qa },
+  } = useGlobals();
   useEffect(() => {
     const elementId = window.location.hash.slice(1);
     const element = document.getElementById(elementId);
@@ -57,7 +61,7 @@ function GenericQuestions({ items }) {
             icon={showAll ? "up" : "down"}
             onClick={() => setShowAll(!showAll)}
           >
-            {showAll ? "Hide all Answers" : "Show all Answers"}
+            {showAll ? qa.hide : qa.show}
           </Button>
         )}
       </div>
