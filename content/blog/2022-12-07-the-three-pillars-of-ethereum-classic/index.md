@@ -34,7 +34,7 @@ In abstraction, the image symbolism on the home page may be represented as in th
 
 ## Explanatory Text Beside the Image
 
-Beside the image on the wesbite, there is a text that explains to newcomers what is Ethereum Classic and implicitly lists five benefits of the pillars of ETC as well as the principle of *Code Is Law*.
+Beside the image on the website, there is a text that explains to newcomers what is Ethereum Classic and implicitly lists five benefits of the pillars of ETC as well as the principle of *Code Is Law*.
 
 ![Benefits of the Three Pillars.](./etc-three-pillars-image-explained.png)
 
