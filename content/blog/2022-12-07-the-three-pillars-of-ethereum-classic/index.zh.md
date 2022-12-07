@@ -30,7 +30,7 @@ linkImage: ./etc-three-pillars-abstraction.png
 
 抽象地说，主页上的图像符号可以如下图所示。
 
-![抽象示意图](./etc-three-pillars-abstraction.png)
+![抽象示意图](./pillars-abstract-cn.png)
 
 ## 图像说明
 
