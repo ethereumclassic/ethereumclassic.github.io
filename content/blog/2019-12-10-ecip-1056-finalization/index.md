@@ -20,10 +20,10 @@ The agenda for the call is the following:
 
 We will first have a client check-in with representatives of the 4 clients for ETC:
 
-- 1. Parity-Ethereum
-- 2. Hyperledger Best
-- 3. Multi-Geth
-- 4. Classic Geth
+1. Parity-Ethereum
+2. Hyperledger Best
+3. Multi-Geth
+4. Classic Geth
 
 Currently, the Agharta Hardfork is scheduled for mid-January 2020 and is currently in last call.
 
