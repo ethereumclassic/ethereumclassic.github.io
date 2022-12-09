@@ -8,7 +8,7 @@ tags: ["application", "development", "education"]
 
 ## Introduction
 
-![Internet](./375fe24deb.gif)
+![Internet](./375fe24deb.png)
 
 The Domain Name System (DNS) maps domains to Internet Protocol (IP) addresses.  Governments, corporations and other entities have attempted to censor this system for various reasons.  Therefore, it is desirable to create a censorship resistant alternative.  Furthermore, DNS like systems are useful for other purposes such as cryptocurrencies, inventory tracking and voting.
 
