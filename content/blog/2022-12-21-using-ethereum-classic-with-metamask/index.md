@@ -126,7 +126,7 @@ Once you have it in paper, you should make a couple of copies and keep them in s
 
 ### Steps to Back Up Your Wallet
 
-To back up your Metamask wallet, follow these instructions:
+To back up your MetaMask wallet, follow these instructions:
 
 1. Open the main menu and tap on “Security & Privacy”.
 2. Then, press the “Reveal Secret Recovery Phrase” button.
