@@ -29,9 +29,10 @@ export default function Seo({
   const { isDark } = useTheme();
   const is404 = basePath === "404";
   const url = `${siteUrl}${path}`;
-  const pageImage =
+  const dynamicImage =
     data?.mdx?.fields?.featuredImage?.childImageSharp?.gatsbyImageData?.images
-      ?.fallback?.src || socialImage;
+      ?.fallback?.src;
+  const pageImage = dynamicImage || socialImage;
   const image = `${siteUrl}${pageImage}`;
   const pageTitle = data?.mdx?.meta?.title || i18n.title || ui.title;
   const title = pageTitle.includes(ui.title)
@@ -151,7 +152,11 @@ export default function Seo({
           <meta key="og:locale" property="og:locale" content={ui.metaLocale} />,
           <meta key="og:url" property="og:url" content={url} />,
           // twitter tags
-          <meta key="twitter:card" name="twitter:card" content="summary" />,
+          <meta
+            key="twitter:card"
+            name="twitter:card"
+            content={dynamicImage ? "summary_large_image" : "summary"}
+          />,
           <meta key="twitter:title" name="twitter:title" content={title} />,
           <meta
             key="twitter:description"
