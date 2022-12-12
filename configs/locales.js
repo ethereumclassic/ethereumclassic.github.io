@@ -65,7 +65,7 @@ const locales = {
   },
   ko: {
     name: "한국어",
-    enabled: false,
+    enabled: true,
     dayJsImport: "ko",
   },
   nl: {
