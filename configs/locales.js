@@ -17,7 +17,7 @@ const locales = {
   },
   de: {
     name: "Deutsch",
-    enabled: true,
+    enabled: false,
     dayJsImport: "de",
   },
   es: {
@@ -27,35 +27,35 @@ const locales = {
   },
   fr: {
     name: "Français",
-    enabled: true,
+    enabled: false,
     dayJsImport: "fr",
   },
   el: {
     name: "Ελληνικά",
-    enabled: true,
+    enabled: false,
     dayJsImport: "el",
     flag: "gr",
   },
   hi: {
     name: "हिन्दी",
-    enabled: true,
+    enabled: false,
     dayJsImport: "hi",
     flag: "in",
   },
   hr: {
     name: "Hrvatski",
-    enabled: true,
+    enabled: false,
     dayJsImport: "hr",
   },
   ms: {
     name: "Malay",
-    enabled: true,
+    enabled: false,
     dayJsImport: "md",
     flag: "my",
   },
   it: {
     name: "Italiano",
-    enabled: true,
+    enabled: false,
     dayJsImport: "it",
   },
   ja: {
@@ -65,38 +65,38 @@ const locales = {
   },
   ko: {
     name: "한국어",
-    enabled: true,
+    enabled: false,
     dayJsImport: "ko",
   },
   nl: {
     name: "Nederlands",
-    enabled: true,
+    enabled: false,
     dayJsImport: "nl",
   },
   ru: {
     name: "русский",
-    enabled: true,
+    enabled: false,
     dayJsImport: "ru",
   },
   ar: {
     name: "اَلْعَرَبِيَّةُ",
-    enabled: true,
+    enabled: false,
     dayJsImport: "ar",
     flag: "eg",
   },
   th: {
     name: "ภาษาไทย",
-    enabled: true,
+    enabled: false,
     dayJsImport: "th",
   },
   tr: {
     name: "Türk",
-    enabled: true,
+    enabled: false,
     dayJsImport: "tr",
   },
   vi: {
     name: "Tiếng Việt",
-    enabled: true,
+    enabled: false,
     dayJsImport: "vi",
   },
 };
