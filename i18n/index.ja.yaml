@@ -1,5 +1,5 @@
 billboard:
-  text: イーサリアムの%%$$%%。
+  text: ザ %%$$%% イーサリアム
   ## must be kind of short, so they fit on the page
   randomWords:
     Decentralized: "分散型"
