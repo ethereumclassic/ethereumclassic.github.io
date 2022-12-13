@@ -28,7 +28,7 @@ This marks a separation between the operating network and the ETC community. The
 
 A system that seeks freedom, must not allow anti-freedom in the system.
 
-All the above ideas seem counterintuitive: If freedom is freedom, and permissionlessness in permissionlessness, then why should anything be prohibited or not allowed?
+All the above ideas seem counterintuitive: If freedom is freedom, and permissionlessness is permissionlessness, then why should anything be prohibited or not allowed?
 
 The answer is that freedom is not a normal state in nature. It is not, like many believe, "the law of the jungle". To the contrary, freedom is the result of artificial and very strict and thoroughly enforced rules. The "law of the jungle" is anti-freedom and only depends on brute force. In it, the destruction of life and liberty are permitted.
 

@@ -218,6 +218,10 @@ items:
         __link: https://signatory.dev/
         __name: Signatory
         description: An offline transaction and message signer for the Ethereum Stack.
+      Sidekik:
+        __link: https://sidekik.xyz/
+        __name: Sidekik
+        description: Debug, test, and grok smart contracts with a visual UI that lets you interact with local or deployed EVM-based smart contracts.
       SOLL:
         __link: https://github.com/second-state/soll
         __name: SOLL
