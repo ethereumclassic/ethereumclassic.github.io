@@ -92,5 +92,3 @@ The videos will be posted in a playlist on the Ethereum Classic Updates YouTube 
 **Thank you for reading this post!**
 
 To learn more about Ethereum Classic please go to: https://ethereumclassic.org/
-
-
