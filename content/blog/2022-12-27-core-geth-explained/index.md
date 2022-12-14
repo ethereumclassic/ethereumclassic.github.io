@@ -34,12 +34,6 @@ The series will consist of the following topics:
 
 In our previous four articles we have explained the basics of what are networks, blockchains, and cryptocurrencies; the differences between blockchain software and blockchain protocols; whether there are software clients and servers in cryptocurrency networks; and what is Ethereum Classic's position in the segment of Ethereum Virtual Machine (EVM) blockchains.
 
-In this article we will apply all this knowledge to explain what is the Ethereum Classic Core Geth software client and what are its unique features, types, and functions.
-
-## Reviewed Concepts in This series
-
-In our previous four articles we have explained the basics of what are networks, blockchains, and cryptocurrencies; the differences between blockchain software and blockchain protocols; whether there are software clients and servers in cryptocurrency networks; and what is Ethereum Classic's position in the segment of Ethereum Virtual Machine (EVM) blockchains.
-
 In this article we will apply all this knowledge to explain what is the Ethereum Classic Core Geth (also spelled CoreGeth) software client and what are its unique features, types, and functions.
 
 ## Ethereum Classic Is a Network, a Blockchain, and a Cryptocurrency
@@ -48,11 +42,11 @@ In this article we will apply all this knowledge to explain what is the Ethereum
 
 As we explained in the first post of this series:
 
-Ethereum Classic is a network because it is a system of machines, nodes, and a shared database called a blockchain. In particular, it is a public network and its software is open source so that anyone can audit and use it to participate in the system.
+**Ethereum Classic is a network** because it is a system of machines, nodes, and a shared database called a blockchain. In particular, it is a public network and its software is open source so that anyone can audit and use it to participate in the system.
 
-Ethereum Classic is a blockchain because its database contains a ledger with accounts and balances, where transactions are fully transmitted and form a fully replicated chain of blocks.
+**Ethereum Classic is a blockchain** because its database contains a ledger with accounts and balances, where transactions are fully transmitted and form a fully replicated chain of blocks.
 
-Ethereum Classic is a cryptocurrency because its ledger tracks a coin called ETC that is scarce, durable, costly to create, portable, divisible, fungible, and transferable, so it may be used for payments and as a store of value.
+**Ethereum Classic is a cryptocurrency** because its ledger tracks a coin called ETC that is scarce, durable, costly to create, portable, divisible, fungible, and transferable, so it may be used for payments and as a store of value.
 
 ## Core Geth Is the Ethereum Classic Network Node Software
 
