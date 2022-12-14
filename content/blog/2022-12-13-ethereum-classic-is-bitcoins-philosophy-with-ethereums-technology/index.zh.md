@@ -67,7 +67,7 @@ linkImage: ./etc-is-btc-eth-cn.png
 
 以太坊和以太坊经典自2015年成立以来一直是一条链，但由于2016年发生了一场名为[TheDAO](https://en.wikipedia.org/wiki/The_DAO_(organization))的争议，以太坊从主网中分离出来，并以与ETC完全不同的哲学离开。
 
-![ETC是原始链，ETH是分叉。](./etc-is-the-original-chain-cn.png)
+![ETC是原始链，ETH是分叉。](./etc-is-original-chain-cn.png)
 
 争议在于，以太坊方面希望手动没收黑客的资金，将其归还给原所有者，而以太坊经典方面则希望秉持链的不变性哲学，不没收资金，而是让人们在网络之外解决这些问题。这一原则在ETC中被称为[“代码即法律”](https://ethereumclassic.org/why-classic/code-is-law)，是其最基本的原则。
 
