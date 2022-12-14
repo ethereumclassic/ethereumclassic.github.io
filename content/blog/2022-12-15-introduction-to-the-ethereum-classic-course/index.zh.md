@@ -16,7 +16,7 @@ linkImage: ./etc-course-banner.png
 
 This is an introduction to the Ethereum Classic course.
 
-![ETC Course](./etc-course-banner-cn.png)
+![ETC Course](./etc-course-banner.png)
 
 Ethereum Classic (ETC) is one of the most important and valuable blockchains in the world. Indeed, it is the largest proof of work smart contracts blockchain, and the most secure system to host and operate decentralized applications.
 
