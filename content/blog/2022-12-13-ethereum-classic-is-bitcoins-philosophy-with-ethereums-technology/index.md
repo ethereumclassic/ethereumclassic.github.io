@@ -29,7 +29,7 @@ This stemmed from a strong [Cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk
 
 *"...but the main benefits are lost if a trusted third party is still required..."*
 
-To accomplish the goal of trust minimization, the technology of proof of work is fundamental. The main benefit of this consensus mechanism, called Nakamoto consensus, is that it provides a means for all participants in the network to arrive to the same exact state of the ledger every 10 minutes just by verifying the proof of work hash created by miners when sending a block of new transactions. 
+To accomplish the goal of trust minimization, the technology of proof of work is fundamental. The main benefit of this consensus mechanism, called Nakamoto consensus, is that it provides a means for all participants in the network to arrive at the same exact state of the ledger every 10 minutes just by verifying the proof of work hash created by miners when sending a block of new transactions. 
 
 Additionally, this same feature enables any participant to exit and enter the network whenever they want, without asking permission or without the supervision from anyone.
 
