@@ -40,7 +40,7 @@ However, what makes Ethereum Classic and Bitcoin similar is that both use the ke
 
 The full name of the system is "Proof of Work Based Nakamoto Consensus" and it consists of making a subset of the machines of the network, called miners, perform a function called mining, which requires lots of computational work and expenditure of electricity. The result of this work is a cryptographic stamp that is added to blocks of transactions, hence the term "blockchain", which are produced in specific time intervals and then sent to the rest of the network to include them as the latest state of the system.
 
-Nakamoto Consensus achieves something that was not possible before, which is that computers in the network, no matter where they are in the world or who they belong to, can agree, without permission or supervision, in a decentralizen manner, what is the latest state of the network.
+Nakamoto Consensus achieves something that was not possible before, which is that computers in the network, no matter where they are in the world or who they belong to, can agree, without permission or supervision, in a decentralized manner, what is the latest state of the network.
 
 ## Difference With Ethereum
 
