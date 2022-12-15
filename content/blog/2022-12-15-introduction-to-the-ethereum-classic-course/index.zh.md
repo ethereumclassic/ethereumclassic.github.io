@@ -4,93 +4,93 @@ date: 2022-12-15
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["education", "course"]
-linkImage: ./etc-course-banner.png
+linkImage: ./etc-course-banner-cn.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**欢迎由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YtWbwd2ItIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-This is an introduction to the Ethereum Classic course.
+这是以太坊经典课程的介绍。
 
-![ETC Course](./etc-course-banner.png)
+![ETC Course](./etc-course-banner-cn.png)
 
-Ethereum Classic (ETC) is one of the most important and valuable blockchains in the world. Indeed, it is the largest proof of work smart contracts blockchain, and the most secure system to host and operate decentralized applications.
+以太坊经典(ETC)是世界上最重要和最有价值的区块链之一。事实上，它是最大的工作量证明智能合约区块链，也是托管和运行去中心化应用程序的最安全的系统。
 
-This course is meant to be a detailed explanation of each part of Ethereum Classic, but to accomplish this task it is necessary to learn the background of the blockchain industry, how everything works, what is in store for the future of the sector, and how Ethereum Classic fits in all this.
+本课程旨在详细解释以太坊经典的每个部分，但为了完成这一任务，大家有必要了解区块链行业的背景，一切是如何运作的，该行业的未来是什么，以及以太坊经典如何适应这一切。
 
-The Ethereum Classic Course is organized in fours sections: 
+以太坊经典课程分为四个部分:
 
-1. History
-2. How ETC Works
-3. Industry Organization
-4. What Is in Store for the Future
+1. 历史
+2. ETC是如何运作的
+3. 产业组织
+4. 未来会发生什么
 
-Below are the classes with the topics that we will touch in each section.
+以下是课程内容详细目录
 
-## Part 1: History
+## 第一部分：历史
 
-1. Public Key Cryptography
-2. Cypherpunks
-3. The First Digital Currency Attempts
-4. Satoshi Nakamoto and Bitcoin
-5. Vitalik Buterin and Ethereum
-6. Ethereum Classic Is the Original Chain
-7. Ethereum Classic Philosophy of Code Is Law
-8. Programmable Digital Gold: The Ethereum Classic Monetary Policy
+1. 公钥密码学
+2. 密码朋克
+3. 第一次数字货币尝试
+4. 中本聪与比特币
+5. 维塔利克·布特林与以太坊
+6. 以太坊经典是原始链
+7. 以太坊经典的哲学是代码及法律
+8. 可编程数字黄金:以太坊经典货币政策
 
-## Part 2: How ETC Works
+## 第二部分：ETC是如何运作的
 
-9. The Units and Denominations of Ethereum Classic
-10. How Proof of Work (PoW) Works
-11. The PoW security model: The Physical vs the Social Layers
-12. What Is Proof of Stake?
-13. What Is Proof of Authority?
-14. What Are Smart Contracts?
-15. What Are Dapps?
-16. What Is WETC?
-17. What Are Private Keys, Public Keys, and Addresses?
-18. The Difference Between Wallets and Addresses
-19. What Are Raw Private Keys, Private Key JSON Files, and Secret Passphrases?
-20. What are Custodial and Non-custodial Wallets?
-21. What Are Hardware and Software Wallets?
-22. What Are Hot and Cold Wallets?
+9. 以太坊经典的单位和名称
+10. 工作量证明(PoW)是如何运作的
+11. PoW安全模型:物理层vs社会层
+12. 什么是权益证明?
+13. 什么是权威证明?
+14. 什么是智能合约？
+15. 什么是 Dapps?
+16. 什么是 WETC?
+17. 什么是私钥、公钥和地址?
+18. 钱包和地址的区别
+19. 什么是原始私钥、私钥JSON文件和秘密密码?
+20. 什么是托管钱包和非托管钱包?
+21. 什么是硬件钱包和软件钱包？
+22. 什么是热钱包和冷钱包？
 
-## Part 3: Industry Organization
+## 第三部分：产业组织
 
-23. What Are Native Cryptocurrencies?
-24. What Are Programmable Native Cryptocurrencies?
-25. What Are ERC-20 Tokens?
-26. What Are Convertible Stablecoins?
-27. What Are Algorithmic Stablecoins?
-28. What Are Privacy Coins?
-29. What Are Decentralized Finance (DeFi) Coins?
-30. What Are File Storage Coins?
-31. Where to Find Cryptocurrency Lists and Prices
-32. What Are Block Explorers?
-33. What Are Centralized and Decentralized Exchanges?
+23. 什么是原生加密货币?
+24. 什么是可编程原生加密货币?
+25. 什么是ERC-20代币?
+26. 什么是可兑换稳定币?
+27. 什么是算法稳定币?
+28. 什么是隐私币?
+29. 什么是去中心化金融(DeFi)币?
+30. 什么是文件存储币?
+31. 在哪里可以找到加密货币列表和价格
+32. 什么是区块探索器?
+33. 什么是中心化和去中心化的交易所?
 
-## Part 4: What Is in Store for the Future
+## 第四部分:未来会发生什么
 
-34. The Layers of the Blockchain Industry
-35. Non-Fungible Tokens
-36. Ownership Records and Property Registries on Blockchains
-37. DAOs
-38. Contracts Between Individuals and Businesses on the Blockchain
+34. 区块链行业的不同层次
+35. 非同质代币
+36. 区块链上的所有权记录和财产登记
+37. 分布式自主组织 DAOs
+38. 个人与企业在区块链上的合同
 
-As seen in this introduction the Ethereum Classic course promises to be a thorough educational experience about ETC and the industry in general and is divided in several sections with small units so they are easier to process and comprehend.
+正如在介绍中所看到的，以太坊经典课程承诺：这是关于ETC和整个行业的全方位教育体验。为使其更通俗易懂，课程分为几个小单元。
 
-The course will be delivered as one class per week in 5 to 15 minute videos and accompanying text posts so it is more versatile and flexible for people to learn in their preferred formats and timing.
+该课程将以每周5-15分钟的视频和随附的文本帖子的形式提供，以便大家可以根据自己喜欢的形式和时间学习，从而更加灵活。
 
-The videos will be posted in a playlist on the Ethereum Classic Updates YouTube channel and the blog posts will be listed in one page on the Ethereum Classic community website. 
+这些视频将在以太坊经典更新YouTube频道的播放列表中发布，博客文章将在以太坊经典社区网站的一个页面中列出。
 
 ---
 
-**Thank you for reading this post!**
+**感谢您阅读本篇文章**
 
-To learn more about Ethereum Classic please go to: https://ethereumclassic.org/
+想了解更多有关以太坊经典，欢迎访问: https://ethereumclassic.org/
 
 
