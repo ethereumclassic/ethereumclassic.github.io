@@ -46,7 +46,7 @@ The invention, in the late 70s, of public key cryptography solved this. The solu
 
 To send a message, the sender only needed to encrypt it with the public key of the receiver, and the receiver could use his secret key to decrypt it.
 
-The way it works is that there is a cryptographic function that transforms a very large number into another very large number. The the original or seed number is the secret or private key, and the resulting number, when passing the private key through the function, is the public key that may be known by anyone.
+The way it works is that there is a cryptographic function that transforms a very large number into another very large number. The original or seed number is the secret or private key, and the resulting number, when passing the private key through the function, is the public key that may be known by anyone.
 
 It is very easy to generate the public key, but by knowing the public key, it is practically impossible to figure out the private key. This was the fundamental solution to the safety of the system.
 
