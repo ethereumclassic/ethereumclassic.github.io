@@ -81,7 +81,7 @@ Below are the classes with the topics that we will touch in each section.
 37. DAOs
 38. Contracts Between Individuals and Businesses on the Blockchain
 
-As seen in this introduction, the Ethereum Classic course promises to be a thorough educational experience about ETC and the industry in general, and it is divided in several sections with small units so they are easier to process and comprehend.
+As seen in this introduction, the Ethereum Classic course promises to be a thorough educational experience about ETC and the industry in general. It is divided into several sections with small units so they are easier to process and comprehend.
 
 The course will be delivered as one class per week in 5 to 15 minute videos and accompanying text posts so it is more versatile and flexible for people to learn in their preferred formats and timing.
 
