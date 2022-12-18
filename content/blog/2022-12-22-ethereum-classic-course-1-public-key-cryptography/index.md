@@ -30,7 +30,7 @@ In this 1st class of the Ethereum Classic Course we will discuss one of the most
 
 For thousands of years and until the discovery of public key cryptography, the only way to transfer secure encrypted messages between parties was that all participants needed to know the same secret key to be able to encrypt and decrypt the messages.
 
-For example, the Caesar cipher was used by Julius Caesar to communicate securely with his generals. The system consisted of shiting the letters of the words by a number. This number was the “secret key” that Caesar and all his generals needed to know to be able to communicate
+For example, the Caesar cipher was used by Julius Caesar to communicate securely with his generals. The system consisted of shifting the letters of the words by a number. This number was the “secret key” that Caesar and all his generals needed to know to be able to communicate.
 
 For example, if the key was the number 3, then the letters of a word had to be shifted by 3 positions, so the letter A was written as a D.
 
