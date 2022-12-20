@@ -252,4 +252,6 @@ Good ideas are always welcome!
 
 **Thank you for reading this article!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+To start contributing to the ETC Community website go to: [https://github.com/ethereumclassic/ethereumclassic.github.io](https://github.com/ethereumclassic/ethereumclassic.github.io)
+
+To learn more about ETC go to: [https://ethereumclassic.org](https://ethereumclassic.org)
