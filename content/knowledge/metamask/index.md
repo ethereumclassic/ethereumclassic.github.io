@@ -70,7 +70,7 @@ After selecting “Custom RPC” you will see the form to add a network. It has 
 The next step, is to add Ethereum Classic’s specific information. Below is the network data I used:
 
 - Network Name: `Ethereum Classic`
-- New RPC URL: `https://www.ethercluster.com/etc`
+- New RPC URL: `https://etc.rivet.com`
 - Chain ID: `61`
 - Currency Symbol (optional): `ETC`
 - Block Explorer URL (optional): `https://blockscout.com/etc/mainnet/`
@@ -85,7 +85,7 @@ Although the “symbol” and “block explorer URL” are optional, I recommend
 
 Click “save” to add ETC to MetaMask.
 
-![Step 6](./06.png)
+![Step 6](./06-rivet.png)
 
 ## Step 7: View Ethereum Classic in the Networks Dropdown Menu
 
