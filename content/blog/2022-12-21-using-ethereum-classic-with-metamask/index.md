@@ -122,7 +122,7 @@ Your backup should be in paper and not in digital form because if you store your
 
 ![Back up your 12 word secret passphrase and MetaMask password on paper.](./etc-metamask-back-up.png)
 
-Once you have it in paper, you should make a couple of copies and keep them in safe places.
+Once you have it on paper, you should make a couple of copies and keep them in safe places.
 
 ### Steps to Back Up Your Wallet
 
