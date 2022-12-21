@@ -75,9 +75,7 @@ The next step, is to add Ethereum Classic’s specific information. Below is the
 - Currency Symbol (optional): `ETC`
 - Block Explorer URL (optional): `https://blockscout.com/etc/mainnet/`
 
-For the “RPC URL” I used the one provided for this purpose by the [ETC Cooperative](https://etccooperative.org/), which is from a product they built called [Ethercluster](https://ethercluster.com/)
-
-_[Editor Note] Ethercluster is now operated by [RIVET](https://rivet.cloud/). You can find more RPC Endpoints in the [network](/network/endpoints) section._
+For the “RPC URL” I used the endpoint provided for this purpose by a firm called [Rivet](https://rivet.link/), hire by the [ETC Cooperative](https://etccooperative.org) for this purpose. You can find more RPC Endpoints in the [network](/network/endpoints) section.
 
 The “Chain ID” must be “61” because that is the specific ID of the Ethereum Classic network for sending ETC transactions by wallets and nodes to the operating blockchain.
 
