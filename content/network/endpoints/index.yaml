@@ -31,22 +31,14 @@ items:
       rpcUrl:
         name: RPC URL
     items:
-      Ethercluster:
-        __rpcUrl: https://www.ethercluster.com/etc
-        __link: https://www.ethercluster.com
-        __name: Ethercluster
-      Ethercluster (Kotti):
-        __rpcUrl: https://www.ethercluster.com/kotti
-        __link: https://www.ethercluster.com
-        __name: Ethercluster (Kotti)
+      Rivet:
+        __rpcUrl: https://etc.rivet.link
+        __link: https://rivet.link
+        __name: Rivet
       Ethercluster (Mordor):
         __rpcUrl: https://www.ethercluster.com/mordor
         __link: https://www.ethercluster.com
         __name: Ethercluster (Mordor)
-      Ethercluster (Goerli):
-        __rpcUrl: https://www.ethercluster.com/goerli
-        __link: https://www.ethercluster.com
-        __name: Ethercluster (Goerli)
       ETC-Network.info BESU:
         __rpcUrl: https://besu.etc-network.info
         __link: https://www.etc-network.info
