@@ -1,5 +1,5 @@
 title: Public Endpoints
-__updated: 2022-02-22
+__updated: 2022-12-22
 __contribute: 1
 seo: A list of Remote Procedure Call (RPC) endpoints that can be used to interact with ETC via MetaMask and other applications.
 description: |
@@ -71,3 +71,4 @@ items:
         __link: https://services.tokenview.com
         __name: TokenView API
         __rpcUrl: <API Key Required>
+
