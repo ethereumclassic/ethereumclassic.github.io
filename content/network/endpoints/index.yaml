@@ -1,5 +1,5 @@
 title: Public Endpoints
-__updated: 2022-02-22
+__updated: 2022-12-22
 __contribute: 1
 seo: A list of Remote Procedure Call (RPC) endpoints that can be used to interact with ETC via MetaMask and other applications.
 description: |
@@ -11,7 +11,7 @@ description: |
 
   For more information on other networks, check out the [testnets](/development/testnets) section.
 
-  **It is recommended to select one of the realtime-monitored ETC RPC endpoints over at [ChainList.org](https://chainlist.org/en/chain/61).**
+  **It is recommended to select one of the realtime-monitored ETC RPC endpoints over at [ChainList.org](https://chainlist.org/chain/61).**
 __contributors:
   - arvicco
   - dax-classix
