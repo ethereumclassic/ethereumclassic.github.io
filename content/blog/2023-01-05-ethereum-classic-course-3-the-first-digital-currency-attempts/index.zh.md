@@ -16,7 +16,7 @@ linkImage: ./banner.png
 
 ## Cypherpunks Review
 
-![Cypherpunks work and ETC](./etc-course-3-intro.png)
+![Cypherpunks Work and ETC](./etc-course-3-intro.png)
 
 In the previous class we discussed that Ethereum Classic (ETC), and its incredibly secure and versatile functionality, is the product of decades of work by people who saw the potential of public key cryptography to create an internet free from centralization, capture, and manipulation by special interests.
 
