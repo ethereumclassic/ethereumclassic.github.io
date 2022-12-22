@@ -59,10 +59,6 @@ items:
         __rpcUrl: https://geth-at.etc-network.info
         __link: https://www.etc-network.info
         __name: ETC-Network.info GETH AT
-      ETC-Network.info GETH (Goerli):
-        __rpcUrl: https://geth-goerli.etc-network.info
-        __link: https://www.etc-network.info
-        __name: ETC-Network.info GETH (Goerli)
       ETC-Network.info GETH (Kotti):
         __rpcUrl: https://geth-kotti.etc-network.info
         __link: https://www.etc-network.info
