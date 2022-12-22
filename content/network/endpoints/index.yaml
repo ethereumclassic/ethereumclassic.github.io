@@ -11,7 +11,7 @@ description: |
 
   For more information on other networks, check out the [testnets](/development/testnets) section.
 
-  **It is recommended to select one of the realtime-monitored ETC RPC endpoints over at [ChainList.org](https://chainlist.org/en/chain/61).**
+  **It is recommended to select one of the realtime-monitored ETC RPC endpoints over at [ChainList.org](https://chainlist.org/chain/61).**
 __contributors:
   - arvicco
   - dax-classix
@@ -71,4 +71,3 @@ items:
         __link: https://services.tokenview.com
         __name: TokenView API
         __rpcUrl: <API Key Required>
-
