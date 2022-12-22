@@ -31,7 +31,7 @@ items:
       rpcUrl:
         name: RPC URL
     items:
-      Rivet:
+      ETC Cooperative:
         __rpcUrl: https://etc.rivet.link
         __link: https://rivet.link
         __name: Rivet
@@ -63,6 +63,10 @@ items:
         __rpcUrl: https://geth-mordor.etc-network.info
         __link: https://www.etc-network.info
         __name: ETC-Network.info GETH (Mordor)
+      RIVET API:
+        __link: https://rivet.cloud
+        __name: Rivet API
+        __rpcUrl: <API Key Required>
       BlockScout API:
         __link: https://blockscout.com/etc/mainnet/api-docs
         __name: BlockScout API
