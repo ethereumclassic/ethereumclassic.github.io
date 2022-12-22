@@ -20,7 +20,7 @@ linkImage: ./banner.png
 
 In the previous class we discussed that Ethereum Classic (ETC), and its incredibly secure and versatile functionality, is the product of decades of work by people who saw the potential of public key cryptography to create an internet free from centralization, capture, and manipulation by special interests.
 
-These were the Cypherpunks,
+These were the Cypherpunks.
 
 In this class of the Ethereum Classic Course we will explain how their first digital currency attempts worked and how they form part of Bitcoin and hence Ethereum Classic.
 
