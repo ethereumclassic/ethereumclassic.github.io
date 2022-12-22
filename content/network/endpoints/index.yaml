@@ -34,11 +34,11 @@ items:
       ETC Cooperative:
         __rpcUrl: https://etc.rivet.link
         __link: https://rivet.link
-        __name: Rivet
+        __name: ETC Cooperative
       ETC Cooperative (Mordor):
         __rpcUrl: https://www.ethercluster.com/mordor
         __link: https://www.ethercluster.com
-        __name: Ethercluster (Mordor)
+        __name: ETC Cooperative (Mordor)
       Hebe:
         __rpcUrl: https://etc.etcdesktop.com/
         __link: https://etcdesktop.com/
