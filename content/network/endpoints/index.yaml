@@ -39,6 +39,10 @@ items:
         __rpcUrl: https://www.ethercluster.com/mordor
         __link: https://www.ethercluster.com
         __name: Ethercluster (Mordor)
+      Hebe:
+        __rpcUrl: https://etc.etcdesktop.com/
+        __link: https://etcdesktop.com/
+        __name: ETC Desktop by HebeBlock
       ETC-Network.info BESU:
         __rpcUrl: https://besu.etc-network.info
         __link: https://www.etc-network.info
@@ -62,10 +66,6 @@ items:
       BlockScout API:
         __link: https://blockscout.com/etc/mainnet/api-docs
         __name: BlockScout API
-        __rpcUrl: <API Key Required>
-      RIVET API:
-        __link: https://rivet.cloud/
-        __name: RIVET
         __rpcUrl: <API Key Required>
       TokenView API:
         __link: https://services.tokenview.com
