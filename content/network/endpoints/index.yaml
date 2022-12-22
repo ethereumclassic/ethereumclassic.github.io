@@ -35,7 +35,7 @@ items:
         __rpcUrl: https://etc.rivet.link
         __link: https://rivet.link
         __name: Rivet
-      Ethercluster (Mordor):
+      ETC Cooperative (Mordor):
         __rpcUrl: https://www.ethercluster.com/mordor
         __link: https://www.ethercluster.com
         __name: Ethercluster (Mordor)
@@ -63,13 +63,9 @@ items:
         __rpcUrl: https://geth-mordor.etc-network.info
         __link: https://www.etc-network.info
         __name: ETC-Network.info GETH (Mordor)
-      RIVET API:
+      Rivet:
         __link: https://rivet.cloud
-        __name: Rivet API
-        __rpcUrl: <API Key Required>
-      BlockScout API:
-        __link: https://blockscout.com/etc/mainnet/api-docs
-        __name: BlockScout API
+        __name: Rivet
         __rpcUrl: <API Key Required>
       TokenView API:
         __link: https://services.tokenview.com
