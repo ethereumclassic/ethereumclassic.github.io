@@ -38,7 +38,7 @@ This would, in practice, enable a peer-to-peer email system with little to no sp
 
 ## Nick Szabo and Bit Gold
 
-![Bit Gold](./bit-gold.png)
+![Bit Gold](./bit-gold-course.png)
 
 When Nick Szabo read about HashCash in early 1998 he immediately established the connection of the proof of work stamps with digital gold, which is an analogy of gold in the real world, but applied to the digital world.
 
@@ -72,7 +72,7 @@ The system did not take off because the centralized server was a point of failur
 
 ## Bitcoin and Ethereum Classic
 
-![Bitcoin and Ethereum Classic](./btc-etc.png)
+![Bitcoin and Ethereum Classic](./btc-etc-course.png)
 
 What Satoshi Nakamoto did was to integrated all these pioneering ideas into Bitcoin, and then Ethereum Classic adopted the majority of Bitcoin’s model for its base security. 
 
