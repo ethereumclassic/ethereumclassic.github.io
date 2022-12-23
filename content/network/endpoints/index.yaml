@@ -39,10 +39,10 @@ items:
         __rpcUrl: https://www.ethercluster.com/mordor
         __link: https://www.ethercluster.com
         __name: ETC Cooperative (Mordor)
-      Hebe:
+      HebeBlock:
         __rpcUrl: https://etc.etcdesktop.com/
         __link: https://etcdesktop.com/
-        __name: ETC Desktop by HebeBlock
+        __name: HebeBlock
       ETC-Network.info BESU:
         __rpcUrl: https://besu.etc-network.info
         __link: https://www.etc-network.info
@@ -51,10 +51,6 @@ items:
         __rpcUrl: https://geth.etc-network.info
         __link: https://www.etc-network.info
         __name: ETC-Network.info GETH
-      ETC-Network.info ETCP:
-        __rpcUrl: https://rpc.etcplanets.com
-        __link: https://etcplanets.com
-        __name: ETC Planets RPC
       ETC-Network.info GETH (Kotti):
         __rpcUrl: https://geth-kotti.etc-network.info
         __link: https://www.etc-network.info
@@ -63,6 +59,14 @@ items:
         __rpcUrl: https://geth-mordor.etc-network.info
         __link: https://www.etc-network.info
         __name: ETC-Network.info GETH (Mordor)
+      ETC-Network.info ETCP:
+        __rpcUrl: https://rpc.etcplanets.com
+        __link: https://etcplanets.com
+        __name: ETC Planets RPC
+      TokenPocket:
+        __link: https://etc.mytokenpocket.vip/
+        __rpcUrl: http://mytokenpocket.vip
+        __name: TokenPocket
       Rivet:
         __link: https://rivet.cloud
         __name: Rivet
