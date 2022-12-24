@@ -51,7 +51,7 @@ items:
         __rpcUrl: https://besu-at.etc-network.info
         __link: https://www.etc-network.info
         __name: ETC-Network.info BESU
-       ETC-Network.info DE GETH:
+      ETC-Network.info DE GETH:
         __rpcUrl: https://geth-de.etc-network.info
         __link: https://www.etc-network.info
         __name: ETC-Network.info GETH
