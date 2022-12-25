@@ -14,7 +14,7 @@ items:
       policy:
         question: What is ETC's monetary policy?
         answer: |
-          Similar to Bitcoin, Ethereum Classic as a fixed emission curve, meaning that you can accurately forecast the total amount of ETC in existance at any point in the future. This prevents inflationary death spirals, and makes ETC a strong store of value.
+          Similar to Bitcoin, Ethereum Classic as a fixed emission curve, meaning that you can accurately forecast the total amount of ETC in existence at any point in the future. This prevents inflationary death spirals, and makes ETC a strong store of value.
 
           Read more about ETC's monetary policy in the [Sound Money](/why-classic/sound-money) section.
       elevator:
