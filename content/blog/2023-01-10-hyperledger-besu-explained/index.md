@@ -76,13 +76,13 @@ Therefore, Hyperledger Besu may also be used for proof of authority networks (us
 
 ## Origin of Hyperledger Besu
 
-The Hyperledger Besu software client was created by Consensys, a major blockchain company in the EVM sector, and was called Pantheon.
+The Hyperledger Besu software client was created by [Consensys](https://consensys.net/), a major blockchain company in the EVM sector, and was called [Pantheon](https://github.com/PegaSysEng/pantheon).
 
-Later, it was donated to the Hyperledger Foundation, which is part of the Linux Foundation. 
+Later, it was donated to the [Hyperledger Foundation](https://www.hyperledger.org/), which is part of the Linux Foundation. 
 
 Hyperledger is an open source organization that supports a suite of stable frameworks, tools and libraries for enterprise-grade blockchain.
 
-Pantheon was renamed to Hyperledger Besu and today supports private networks, Ethereum proof of stake, and Ethereum Classic proof of work.
+Pantheon was renamed to [Hyperledger Besu](https://www.hyperledger.org/use/besu) and today supports private networks, Ethereum proof of stake, and Ethereum Classic proof of work.
 
 ## Hyperledger Besu Unique Features
 
