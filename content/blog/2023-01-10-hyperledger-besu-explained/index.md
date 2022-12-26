@@ -42,11 +42,11 @@ In this video we will apply all this knowledge to explain what is the Hyperledge
 
 As we explained in the first post of this series:
 
-Ethereum Classic is a network because it is a system of machines, nodes, and a shared database called a blockchain. In particular, it is a public network and its software is open source so that anyone can audit and use it to participate in the system.
+**Ethereum Classic is a network** because it is a system of machines, nodes, and a shared database called a blockchain. In particular, it is a public network and its software is open source so that anyone can audit and use it to participate in the system.
 
-Ethereum Classic is a blockchain because its database contains a ledger with accounts and balances, where transactions are fully transmitted and form a fully replicated chain of blocks.
+**Ethereum Classic is a blockchain** because its database contains a ledger with accounts and balances, where transactions are fully transmitted and form a fully replicated chain of blocks.
 
-Ethereum Classic is a cryptocurrency because its ledger tracks a coin called ETC that is scarce, durable, costly to create, portable, divisible, fungible, and transferable, so it may be used for payments and as a store of value.
+**Ethereum Classic is a cryptocurrency** because its ledger tracks a coin called ETC that is scarce, durable, costly to create, portable, divisible, fungible, and transferable, so it may be used for payments and as a store of value.
 
 ## Hyperledger Besu Is a Node Client that Works With Ethereum Classic
 
@@ -100,19 +100,19 @@ The Hyperledger Besu client can be used for mining.
 
 As an Ethereum Classic node software Hyperledger Besu may be used for the following functions:
 
-Verifying node: Exchanges, large institutional investors, and crypto custody services need to run nodes able to verify their positions in the network directly. Hyperledger Besu may be perfectly used for this function.  
+**Verifying node:** Exchanges, large institutional investors, and crypto custody services need to run nodes able to verify their positions in the network directly. Hyperledger Besu may be perfectly used for this function.  
 
-Miner: As said before, Hyperledger Besu includes the full mining algorithm of Ethereum Classic, ETC Hash, therefore it may be used by both miners and mining pools to run their operations.
+**Miner:** As said before, Hyperledger Besu includes the full mining algorithm of Ethereum Classic, ETC Hash, therefore it may be used by both miners and mining pools to run their operations.
 
-Node as a Service (NaaS): Startups and companies who run NaaS services can use Hyperledger Besu to provide wallet queries to third parties, transaction processing, statistics and charts, and block explorer services.
+**Node as a Service (NaaS):** Startups and companies who run NaaS services can use Hyperledger Besu to provide wallet queries to third parties, transaction processing, statistics and charts, and block explorer services.
 
 ## Hyperledger Besu May Have Different Configurations Except Light Node
 
 Hyperledger Besu may be used with the following configurations:
 
-Archival node: A node that stores the block headers, the tree of hashed transactions (called Merkle Patricia tree), and all the original data of all transactions sent to the blockchain. This is the largest and most heavy to operate and longest to download kind of node.
+**Archival node:** A node that stores the block headers, the tree of hashed transactions (called Merkle Patricia tree), and all the original data of all transactions sent to the blockchain. This is the largest and most heavy to operate and longest to download kind of node.
 
-Full node: A node that stores the block headers and the Merkle Patricia tree, but does not store all the original transactions. This is a relatively secure kind of node, much faster to download, and lighter to operate than the archival node.
+**Full node:** A node that stores the block headers and the Merkle Patricia tree, but does not store all the original transactions. This is a relatively secure kind of node, much faster to download, and lighter to operate than the archival node.
 
 Hyperledger Besu may not be used as a light client or light node.
 
