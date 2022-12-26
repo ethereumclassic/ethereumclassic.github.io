@@ -92,7 +92,7 @@ You can find the ETC Safe wallet at:
 
 6. In the next screen you add the people and addresses who will control this wallet and what number of signatures are needed to send transactions. In this case, we added Alice, Bob, and Charlie and we selected 2-of-3 signatures to authorize transactions. When done, press "Continue".
 
-![Add Adresses as Permissions](./f.png)
+![Add Addresses as Permissions](./f.png)
 
 7. In the next step, for security reasons, you need to carefully review the settings of your new Safe wallet. Once you confirm that everything is alright, press “Create”.
 

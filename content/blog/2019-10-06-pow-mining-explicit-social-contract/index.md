@@ -137,9 +137,9 @@ Ethereum Classic. There may indeed be such a perception about the manifesto, but
 the document is inspiration, not gospel truth,
 and certainly not law.
 
-## The need for a written Consitution and Bill of Rights for Ethereum Classic.
+## The need for a written Constitution and Bill of Rights for Ethereum Classic.
 
-There is no written "Consitution" or "Bill of
+There is no written "Constitution" or "Bill of
 Rights" for Ethereum Classic. No proposal for
 such documents has ever been submitted to
 the ECIP process. We have never explicitly
@@ -149,7 +149,7 @@ the protocol itself.
 
 We depend on implicit social conformance and
 watchdogs to reject proposals which breach those
-baselines (ie. ProgPOW), but social comformance
+baselines (ie. ProgPOW), but social conformance
 to unwritten baseline assumptions is not a
 safe approach.
 
@@ -174,7 +174,7 @@ That is what we currently have.
 
 The author would advocate that Ethereum Classic
 needs to be a Republic, not a mob Democracy, and
-that we need a written Consitution and Bill of
+that we need a written Constitution and Bill of
 Rights to ensure our mutual future freedom.
 
 We need such rules to avoid the "Permissionless

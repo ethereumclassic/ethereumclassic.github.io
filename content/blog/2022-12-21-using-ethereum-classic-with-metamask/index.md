@@ -73,7 +73,7 @@ Because ETC is an EVM chain as Ethereum, then it has the same features. When you
 3. In the next step you will see the submitted transaction with two buttons below, “Speed up” and “Cancel”, press the “Cancel” button.
 4. In the next screen press “Yes, let’s try”.
 5. If your transaction was cancelled you will see it in the next screen.
-6. Note that the gas fee for the cancelation is 0.00001 ETC.
+6. Note that the gas fee for the cancellation is 0.00001 ETC.
 
 ![Canceling a sent transaction.](./etc-metamask-cancel.png)
 
