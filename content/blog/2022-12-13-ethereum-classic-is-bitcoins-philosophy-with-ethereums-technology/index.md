@@ -45,7 +45,7 @@ But Ethereum Classic does not operate like Bitcoin. ETC has the same exact desig
 
 What is an EVM blockchain? 
 
-Another of the Cypherpunks' goals was to integrate [smart contracts](https://en.wikipedia.org/wiki/Smart_contract), or decentralized software programmers, inside the digital currency network. What use is a decentralized currency as Bitcoin if to use it and program the money you need to use apps that are hosted in centralized servers, data centers, or cloud services?
+Another of the Cypherpunks' goals was to integrate [smart contracts](https://en.wikipedia.org/wiki/Smart_contract), or decentralized software programs, inside the digital currency network. What use is a decentralized currency as Bitcoin if to use it and program the money you need to use apps that are hosted in centralized servers, data centers, or cloud services?
 
 This was the solution that Vitalik Buterin invented in 2013: [Ethereum](https://ethereum.org/en/whitepaper/).
 
