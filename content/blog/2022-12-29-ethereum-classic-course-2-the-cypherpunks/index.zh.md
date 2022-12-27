@@ -4,7 +4,7 @@ date: 2022-12-29
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["education", "course"]
-linkImage: ./[image-name].png
+linkImage: ./etc-course-etc-cypherpunks.png
 ---
 
 ---
