@@ -1,5 +1,5 @@
 ---
-title: "Core Geth Explained"
+title: "Core Geth详解"
 date: 2022-12-27
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,158 +8,158 @@ linkImage: ./core-geth-explained-banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**欢迎由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rWEB28nXQ5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-**This is the fifth part of a series that will explain the three software clients currently operating or being implemented on Ethereum Classic.** 
+**这是该系列的第五部分，将解释目前在以太坊经典上运行或实现的三个软件客户端。** 
 
-The series will consist of the following topics:
+该系列将包括以下主题:
 
-1. The Difference Between a Network, a Blockchain, and a Cryptocurrency 
-2. The Difference Between Blockchain Software and Blockchain Protocol
-3. Are There Software Clients and Servers in a Blockchain?
-4. Ethereum Virtual Machine Blockchains and Ethereum Classic
-5. Core Geth Explained
-6. Hyperledger Besu Explained
-7. Erigon Explained
+1. 网络、区块链和加密货币之间的区别
+2. 区块链软件与区块链协议的区别
+3. 区块链中是否存在软件客户端和服务器?
+4. 以太坊虚拟机区块链和以太坊经典
+5. Core Geth详解
+6. 超级账本Besu详解
+7. Erigon详解
 
 ---
 
-## Reviewed Concepts in This series
+## 本系列中的回顾概念
 
-![Ethereum's Go-Ethereum and Ethereum Classic's Core Geth.](./core-geth-explained-banner.png)
+![以太坊的Go-Ethereum和以太坊经典的Core Geth.](./core-geth-explained-banner.png)
 
-In our previous four articles we have explained the basics of what are networks, blockchains, and cryptocurrencies; the differences between blockchain software and blockchain protocols; whether there are software clients and servers in cryptocurrency networks; and what is Ethereum Classic's position in the segment of Ethereum Virtual Machine (EVM) blockchains.
+在我们之前的四篇文章中，我们已经解释了什么是网络、区块链和加密货币的基础知识;区块链软件与区块链协议的区别;加密货币网络中是否存在软件客户端和服务器;以及以太坊经典在以太坊虚拟机(EVM)区块链中的位置。
 
-In this article we will apply all this knowledge to explain what is the Ethereum Classic Core Geth (also spelled CoreGeth) software client and what are its unique features, types, and functions.
+在本文中，我们将应用所有这些知识来解释什么是以太坊经典核心Geth(也拼写为CoreGeth)软件客户端，以及它的独特功能、类型和功能。
 
-## Ethereum Classic Is a Network, a Blockchain, and a Cryptocurrency
+## 以太坊经典是一个网络，一个区块链，一个加密货币
 
-![Ethereum Classic](./etc-network.png)
+![以太坊经典](./etc-network.png)
 
-As we explained in the first post of this series:
+正如我们在本系列的第一篇文章中解释的那样:
 
-**Ethereum Classic is a network** because it is a system of machines, nodes, and a shared database called a blockchain. In particular, it is a public network and its software is open source so that anyone can audit and use it to participate in the system.
+**以太坊经典是一个网络** 因为它是一个由机器、节点和名为区块链的共享数据库组成的系统。特别是，它是一个公共网络，其软件是开源的，因此任何人都可以审计并使用它来参与系统。
 
-**Ethereum Classic is a blockchain** because its database contains a ledger with accounts and balances, where transactions are fully transmitted and form a fully replicated chain of blocks.
+**以太坊经典是一个区块链** 因为它的数据库包含一个账户和余额的分类账，在那里交易被完全传输，并形成一个完全复制的区块链。
 
-**Ethereum Classic is a cryptocurrency** because its ledger tracks a coin called ETC that is scarce, durable, costly to create, portable, divisible, fungible, and transferable, so it may be used for payments and as a store of value.
+**以太坊经典是一种加密货币** 因为它的账本追踪一种叫做ETC的硬币，这种硬币稀缺、耐用、制造成本高、可携带、可分割、可替代、可转让，所以它可以用于支付和价值储存。
 
-## Core Geth Is the Ethereum Classic Network Node Software
-
+## Core Geth是以太坊经典网络节点软件 
 ![Core Geth](./core-geth-brand.png)
 
-Blockchains are peer to peer networks and each participating machine in the system is called a node. 
+区块链是点对点网络，系统中的每个参与机器称为一个节点。
 
-For a machine to be a node it needs to run a software application that contains the set of rules of the protocol of that particular network.
+一台机器要成为一个节点，它需要运行一个包含特定网络协议规则集的软件应用程序。
 
-Core Geth is, indeed, the Ethereum Classic network node software, also called “software client”.
+Core Geth实际上是以太坊经典网络节点软件，也被称为“软件客户端”。
 
-## Core Geth Is Both a Software Client and Server
+## Core Geth既是软件服务器又是软件客户端
 
-However, blockchain networks are not hierarchical systems where some machines have more clout than others or there are permissioned instances or privileges. In ETC all peer nodes are equal and all replicate the same exact state every 15 seconds.
+然而，区块链网络不是分层系统，其中一些机器比其他机器有更大的影响力，或者有被允许的实例或特权。在ETC中，所有对等节点都是相等的，并且每15秒复制一次完全相同的状态。
 
-This replication means that all nodes actually have the role of receiving transactions and blocks and retransmitting them to all other nodes. Similarly, when new nodes connect to the network, they consult with existing participating nodes what is the state of the network and then download from them all the history in what is called the Initial Block Download (IBD).
+这种复制意味着所有节点实际上都具有接收事务和区块，并将它们重新发送到所有其他节点的角色。类似地，当新节点连接到网络时，它们会咨询现有参与节点的网络状态，然后从它们那里下载所有历史记录，称为初始块下载(Initial Block download, IBD)。
 
-Due to this equal status of all nodes in the network and that all send and receive information from all other nodes, then there are no real distinct server and client roles, but they are all really servers and clients. 
+由于网络中所有节点的这种平等状态，以及所有节点都从所有其他节点发送和接收信息，因此没有真正不同的服务器和客户端角色，它们都是真正的服务器和客户端。
 
-## Core Geth Is a Full EVM Node Software
+## Core Geth是一个完整的EVM节点软件
 
-Core Geth is a node server and client that is compliant with all the EVM standard components and mining capabilities.
+Core Geth是一个节点服务器和客户端，它兼容所有EVM标准组件和挖掘功能。
 
-The general protocol components are the following:
+通用协议组件如下:
 
-1. An EVM to execute opcodes.
-2. A GAS system to designate computing costs to each opcode to prevent spam and the halting problem.
-3. A programming language called Solidity so developers may build dapps that are executable by the EVM.
-4. State transition so the EVM may take inputs, execute programs, and produce new state outputs.
-5. Storage of software programs (smart contracts) in the ledger, turning them into decentralized programs.
+1. 执行操作码的EVM。
+2. GAS系统指定每个操作码的计算成本，以防止垃圾邮件和停止问题。
+3.一种名为Solidity的编程语言，因此开发人员可以构建可由EVM执行的dapp。
+4. 状态转换，因此EVM可以接受输入，执行程序，并产生新的状态输出。
+5. 在账本中存储软件程序(智能合约)，将其转换为分散的程序。
 
-Core Geth works primarily for ETC, but may be run for other EVM blockchains as well.
+Core Geth主要适用于ETC，但也可以用于其他EVM区块链。
 
-## Unique Features
+## 特殊功能
 
-Ethereum Classic as a protocol, and thus Core Geth in particular, have several unique features that differentiate the client-server from other node software applications from other blockchains.
+以太坊经典作为一种协议，特别是Core Geth，具有几个独特的功能，可以将客户端-服务器与其他节点软件应用程序以及其他区块链区分开来。
 
-### ETC Hash
+### ETC 哈希
 
-One of these unique features is the ETC Hash mining algorithm.
+这些独特的功能之一是ETC哈希挖掘算法。
 
-As Ethereum was using the ETH Hash algorithm, Ethereum Classic had to differentiate its mining format to defend itself from 51% attacks that came from the Ethereum computing base. This led to the creation of ETC Hash.
+由于以太坊使用ETH哈希算法，以太坊经典必须区分其挖掘格式，以防御来自以太坊计算基础的51%攻击。这导致了ETC散列的创建。
 
-ETC Hash is a modification of ETH Hash where one component, the DAG, which is a large file that must be used during the mining process, was reduced in size and its size growth was slowed to permit smaller GPU miners; with GPU card capacities that had lower memories, such as 3GB, 4GB, and 6GB; mine and stay mining in Ethereum Classic for a longer period of time.
+ETC哈希是ETH哈希的修改版，其中一个组件DAG(挖矿过程中必须使用的大文件)的大小被减小，其增长被减缓，以允许拥有更小的GPU的矿工工作;GPU卡容量较低，如3GB、4GB和6GB;可以使挖矿并在以太坊经典中挖矿停留更长时间。
 
 ### MESS
 
-MESS stands for “Modified Exponential Subjective Scoring” and is another unique feature of ETC.
+MESS是“修正指数主观评分”的缩写，是ETC的另一个独特之处。
 
-The MESS scoring system created a process where existing nodes in the network would demand multiple times more hashing power from any alternative blockchain being proposed by any alternative mining group.
+MESS评分系统创建了一个过程，在这个过程中，网络中的现有节点将需要从任何替代挖矿组提出的任何替代区块链中获得数倍以上的哈希能力。
 
-This system minimized the probability of 51% attacks on ETC because for any attacking computing base, to be able to propose and have its alternative blockchain accepted by the network, it would have to build a much larger hash rate than the one existing in ETC.
+该系统最大限度地降低了对ETC进行51%攻击的概率，因为对于任何攻击计算基地来说，为了能够提出并让其替代方案区块链被网络接受，它必须建立比ETC中现有的更大的哈希率。
 
-Now that ETC is the leading proof of work blockchain in the GPU mining segment, this feature is not as useful as before, but it really provided protection while Ethereum was the major GPU blockchain.
+现在ETC是GPU挖掘领域区块链工作的主要证明，这个功能不像以前那么有用了，但当以太坊是主要的GPU区块链时，它确实提供了必不可少的保护作用。
 
-### Articulated Configurations
+### 精密的配置
 
-When smart contracts blockchains as Ethereum Classic, Ethereum, Binance Smart Chain, Polkadot, etc. make upgrades, they usually set a future block number to include the new features. To do this, all node operators are alerted of the hard fork block number, and, if they want to continue participating in the canonical chain, they need to upgrade their node software to include the new features.
+当智能合约区块链如以太坊经典、以太坊、币安智能链、Polkadot等进行升级时，他们通常会设置一个未来的区块号来包含新功能。要做到这一点，所有节点操作员都会收到硬分叉区块号的警告，如果他们想继续参与规范链，他们需要升级节点软件以包含新功能。
 
-New changes have been historically made in blocks of changes with no flexibility or ability to select individual features. Core Geth changed this with articulated configurations.
+从历史上看，新的更改都是在更改块中进行的，没有选择单个特性的灵活性或能力。Core Geth用铰接配置改变了这一点。
 
-This unique feature, allows Core Geth nodes to separate the individual changes of an upgrade and select which changes are to be activated upon the hard fork.
+这一独特的特性允许Core Geth节点分离升级的各个更改，并选择在硬分叉时激活哪些更改。
 
-This functionality has not only made ETC extremely flexible in carefully selecting what upgrades best fit its Code Is Law philosophy, but has also made Core Geth much better for testing new features, as well as able to support other chains.
+这一功能不仅使ETC在仔细选择最适合其“代码即法律”理念的升级方面非常灵活，而且还使Core Geth更好地测试新功能，并能够支持其他链。
 
-### Open RPC
+### 开放RPC
 
-RPCs or “Remote Procedure Calls” are a way in which machines in peer to peer networks as Ethereum Classic communicate by calling each other and sending each other the requested information. This process is usually done with JSON encoding, which is a file format.
+RPC或“远端程序呼叫（Remote Procedure Calls）”是点对点网络中的机器(如以太坊经典)通过相互调用和相互发送请求信息进行通信的一种方式。这个过程通常使用为JSON的文件格式的编码完成。
 
-However, there has to be a specification of the protocol for these JSON-RPC calls between machines.
+但是，对于机器之间的这些JSON-RPC呼叫，必须有一个协议规范。
 
-Open RPC was developed by ETC Labs, a past ETC core development company, and is a specification that defines a standard, programming language-agnostic interface description for JSON-RPC APIs (Application Programming Interfaces).
+开放RPC是由ETC实验室开发的，这是一家过去的ETC核心所开发的公司。它是一个为JSON-RPC API(Application Programming Interfaces 应用程序编程接口)定义标准、与编程语言无关的接口描述的规范。
 
-It is a unique tool of ETC from a user perspective, although it may be used by any other system, and is a good specification for a way to describe the API that uses JSON-RPC.
+从用户的角度来看，尽管它可以被任何其他系统使用，它是ETC的一个独特工具。并且，它是描述使用JSON-RPC API的一种很好的规范。
 
-It also generates its own documentation which is very complete and useful for node operators. 
+它还生成了自己的文档，保障了节点操作人员使用时的完整和实用性。
 
-### Parity Style Tracing Logs
+### Parity跟踪日志
 
-One of the most successful Ethereum node software clients was called Parity. The feature that distinguished it from the Go-Ethereum client, one of the original and most popular Ethereum clients, was that it kept a log of all node activity. 
+以太坊节点软件最成功的客户端之一被称为Parity。它与Go-Ethereum客户端(最初和最受欢迎的以太坊客户端之一)的区别在于，它保存了所有节点活动的日志。
 
-This log was very useful to track and trace the detailed operation of nodes, down times, reasons for downtimes, and general supervision of the system.
+该日志对于跟踪和跟踪节点的详细操作、停机时间、停机原因以及系统的一般监督非常有用。
 
-Core Geth integrated this feature so it has a full Parity style tracing log. This is a unique and very useful feature for node operators such as wallet providers, node as a service providers, exchanges, and block explorers.
+Core Geth集成了这个功能，所以它有一个完整的Parity风格跟踪日志。这是一个独特且非常实用的特性，适用于节点运营商。例如钱包提供商、节点即服务提供商、交易所和块浏览器。
 
-## Future Upgrades: The EVMC
+## 未来升级方向: 以太坊虚拟机
 
-Today, EVM chains, including ETC, usually support their own isolated EVM and format.
+今天，EVM链，包括ETC，通常支持他们自己独立的EVM和格式。
 
-The EVMC (Ethereum Virtual Machine Connector) system is a low level application binary interface (ABI) that will enable software clients as Core Geth to work with external EVMs as well as it own local one.
+EVMC(以太坊虚拟机连接器)系统是一个低级应用程序二进制接口(ABI)，它将使软件客户端如Core Geth能够与外部evm以及它自己的本地EVM一起工作。
 
-## Core Geth May Have Different Configurations
+## Core Geth 可能会有不同的配置
 
-Core Geth is a full featured Ethereum Classic client-server and may be used with the following configurations:
+Core Geth是一个功能齐全的以太坊经典客户端-服务器，可以与以下配置一起使用:
 
-**Archival node:** A node that stores the block headers, the tree of hashed transactions (called Merkle Patricia tree), and all the original data of all transactions sent to the blockchain. This is the largest and most heavy to operate and longest to download kind of node.
+**归档节点:** 存储区块头、散列交易树(称为Merkle Patricia树)以及发送到区块链的所有交易的所有原始数据的节点。这是最大、操作最重、下载时间最长的一类节点。
 
-**Full node:** A node that stores the block headers and the Merkle Patricia tree, but does not store all the original transactions. This is a relatively secure kind of node, much faster to download, and lighter to operate than the archival node.
 
-**Light node:** A node that only stores the block headers and nothing more. This is a very fast to download and the lightest to operate kind of node, but it is much less secure and more dependent as it always needs other nodes in the network to confirm hashed transactions from the Merkle Patricia tree to be able to verify them. 
+**完整节点:** 存储块头和Merkle Patricia树的节点，但不存储所有原始事务。这是一种相对安全的节点，下载速度比归档节点快得多，操作起来也更轻便。
 
-## Core Geth May Have Different Functions
 
-As a node software that is configurable and flexible, Core geth may be used for the following functions:
+**超轻节点:** 只存储块标头的节点。这是一种下载速度非常快、操作最轻的节点，但它的安全性要低得多，依赖性更强，因为它总是需要网络中的其他节点来确认Merkle Patricia树中的散列交易，以便能够验证它们。
 
-**Verifying node:** Exchanges, large institutional investors, and crypto custody services need to run nodes able to verify their positions in the network directly. As a fully featured, secure, and battle tested node client, Core Geth can perfectly be used for this function.  
+## Core Geth 可能会有不同功能
 
-**Miner:** Core Geth includes the full mining algorithm of Ethereum Classic, therefore it may be used by both miners and mining pools to run their operations.
+Core Geth是一款可配置、灵活的节点软件，可实现以下功能:
 
-**Node as a Service (NaaS):** Startups and companies who run NaaS services can use Core Geth to provide wallet queries to third parties, transaction processing, statistics and charts, and block explorer services.
+**验证节点:** 交易所、大型机构投资者和加密托管服务需要运行能够直接验证其在网络中的位置的节点。作为一个功能齐全、安全且经过实战测试的节点客户端，Core Geth可以完美地用于此功能。
 
+**矿工:** Core Geth包含以太坊经典的完整挖掘算法，因此矿工和矿池都可以使用它来运行他们的操作。
+
+**节点即服务(NaaS):** 运行NaaS服务的初创公司和公司可以使用Core Geth向第三方提供钱包查询、事务处理、统计和图表以及块浏览器服务。
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+想要了解更多有关ETC，请访问: https://ethereumclassic.org
