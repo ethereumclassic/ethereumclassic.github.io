@@ -32,7 +32,7 @@ What the Cypherpunks had feared originally in the 1980s was that the emerging in
 
 ## Cypherpunk Ideas and Principles
 
-![Cypherpunks Featured on Wired magazine in 1993.](./etc-course-cypherpunks-wired.png)
+![Cypherpunks Featured on Wired magazine in 1993.](./etc-course-cypherpunks-wired-zh.png)
 
 To solve the problem, in the late 80’s the Cypherpunks formed an online group of visionary computer scientists, engineers, and philosophers who started to work on possible solutions. Their main goals were four:
 
@@ -43,7 +43,7 @@ To solve the problem, in the late 80’s the Cypherpunks formed an online group 
 
 ## Cypherpunk People and Inventions: Tim May
 
-![Tim May](./etc-course-tim-may.png)
+![Tim May](./etc-course-tim-may-zh.png)
 
 Tim May was a founding father of the Cypherpunk movement and dedicated his time to explain the philosophy, explain terms and concepts, organize the mailing groups, and even the physical meetings they held in Silicon Valley.
 
@@ -55,7 +55,7 @@ He passed away in December of 2018.
 
 ## Cypherpunk People and Inventions: Adam Back
 
-![Adam Back](./etc-course-adam-back.png)
+![Adam Back](./etc-course-adam-back-zh.png)
 
 Adam Back is another Cypherpunk who in 1997 was working on a way to avoid spam in a peer-to-peer email system. If the internet were to be decentralized, then tech company email services should be avoided and each user should be able to prevent spam.
 
@@ -63,7 +63,7 @@ His solution was a system called HashCash that used proof of work; the heart of 
 
 ## Cypherpunk People and Inventions: Nick Szabo
 
-![Nick Szabo](./etc-course-nick-szabo.png)
+![Nick Szabo](./etc-course-nick-szabo-zh.png)
 
 Nick Szabo is a Cypherpunk and in 1994 invented the concept of smart contracts to create trust minimized autonomous agents that could largely replace the roles of third parties when people communicated or traded online.
 
@@ -83,7 +83,7 @@ The way B-money works as a network protocol is very much how Bitcoin was designe
 
 ## Cypherpunk People and Inventions: Hal Finney
 
-![Hal Finney](./etc-course-hal-finney.png)
+![Hal Finney](./etc-course-hal-finney-zh.png)
 
 Hal Finney was a legendary Cypherpunk and Bitcoiner as he had also tried to create a proof of work monetary system based on the Bit Gold model that he called RPOW which stands for Reusable Proofs of Work.
 
