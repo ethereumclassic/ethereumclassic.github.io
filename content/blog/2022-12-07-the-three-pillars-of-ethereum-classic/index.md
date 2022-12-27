@@ -26,7 +26,7 @@ As may be seen above we marked the sections of the image with the meaning of eac
 - fixed supply which gives ETC its property of digital gold,
 - Proof of Work which is the heart of the network as it provides the security of the whole system.
 
-In the image, the three pillars hold up and support the main principle of the Ethereum Classic network, represented as justice scales in between sofware code, which means *Code Is Law*.
+In the image, the three pillars hold up and support the main principle of the Ethereum Classic network, represented as justice scales in between software code, which means *Code Is Law*.
 
 In abstraction, the image symbolism on the home page may be represented as in the diagram below.
 
@@ -42,7 +42,7 @@ From the text above I underlined the keywords that represent the benefits of the
 
 - **Survivability:** Because of ETC's security, accounts, balances, and smart contracts will survive in the long term.
 - **Censorship Resistance:** ETC is censorship resistant and unrestricted, therefore permissionless.
-- **Unstoppability:** Currency tranfers and decentralized applications are unstoppable.
+- **Unstoppability:** Currency transfers and decentralized applications are unstoppable.
 - **Uncompromisable:** Accounts, balances, and decentralized applications cannot be compromised as in traditional systems. 
 - **Uncapturable:** ETC cannot be captured by corporations or special interests.
 
@@ -58,7 +58,7 @@ This is what we will explain in the rest of this article.
 
 When we use the traditional web and apps on our phones or computers they interact with the central servers of tech companies and banks. This presents the risks of censorship, confiscation, restricted access, and manipulation of our activities by corporations and governments.
 
-What good is a decentralized cryptocurrency as Bitcoin if to use it through applications, the applications themselves may be captured? What good would it be to supposedly make that cryptocurrency “programmable” if the programmes are hosted in centralized data centers and cloud services?
+What good is a decentralized cryptocurrency as Bitcoin if to use it through applications, the applications themselves may be captured? What good would it be to supposedly make that cryptocurrency “programmable” if the programmers are hosted in centralized data centers and cloud services?
 
 As smart contracts inside Ethereum Classic are decentralized software programs, they can power applications, making them decentralized applications (dapps). This means dapps on the ETC blockchain truly provide the benefits decentralization. 
 

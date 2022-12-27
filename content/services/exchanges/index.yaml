@@ -30,7 +30,7 @@ items:
   Trust-Minimizing Exchanges:
     __type: buttons
     title: Trust-Minimizing Exchanges
-    description: The following exchanges may not be *fully* decentralized exchanges, but operate in a less centralization manner than the centralized sections below. It is likely these products use non-custodial smart contracts to faciliate exchanges.
+    description: The following exchanges may not be *fully* decentralized exchanges, but operate in a less centralization manner than the centralized sections below. It is likely these products use non-custodial smart contracts to facilitate exchanges.
     items:
       dYdX:
         __link: https://trade.dydx.exchange/trade/ETC-USD

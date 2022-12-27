@@ -14,7 +14,7 @@ Many initiatives are raising capital with initial coin offerings (ICOs).  The Et
 
 ![ICO](./094886790b.png)
 
-An ICO is a method of raising funds with the sale of a new cryptocurrency.  These cryptocurrencies are often required to purchase goods and services from the issuing organizations.  For example, the ETH cryptocurrency (ether) is used to rent ETH system resources.  Upcoming ICOs are typically announced on [Bitcointalk.org](https://bitcointalk.org/index.php?board=159.0) forums and heavily marketed beforehand.  Buyers often purchase the new cryptocurrencies by sending bitcoins or ether to escrow accounts.  The initial prices are set, then supply and demand determines the future prices.  If the organizations are well managed, and their cryptocurrencies prove useful, they should both increase in value.  If prices skyrocket, miniscule cryptocurrency subdivisions can typically be used.  For example, ETC cryptocurrency tokens can be subdivided into as many as 10<sup>18</sup> pieces.
+An ICO is a method of raising funds with the sale of a new cryptocurrency.  These cryptocurrencies are often required to purchase goods and services from the issuing organizations.  For example, the ETH cryptocurrency (ether) is used to rent ETH system resources.  Upcoming ICOs are typically announced on [Bitcointalk.org](https://bitcointalk.org/index.php?board=159.0) forums and heavily marketed beforehand.  Buyers often purchase the new cryptocurrencies by sending bitcoins or ether to escrow accounts.  The initial prices are set, then supply and demand determines the future prices.  If the organizations are well managed, and their cryptocurrencies prove useful, they should both increase in value.  If prices skyrocket, minuscule cryptocurrency subdivisions can typically be used.  For example, ETC cryptocurrency tokens can be subdivided into as many as 10<sup>18</sup> pieces.
 
 Caution is required with ICOs as they are effectively *unregulated*.  Participants do not purchase ownership in companies, nor, many privileges protected by established case law.  There is great potential for innovation as well as scams.  [Smith & Crown]( https://www.smithandcrown.com) and [ICOrating](http://icorating.com/) are two resources that can assist with ICO research.
 
@@ -146,7 +146,7 @@ def valid(send_add:address, receiv_add:address, trans_amt:uint256):
 
 macro update_balance($send_add, $receiv_add, $trans_amt):
         #
-        # Updates balance with regards to tranfers.
+        # Updates balance with regards to transfers.
         #
 
         self.balance[$send_add]   -= $trans_amt
@@ -154,7 +154,7 @@ macro update_balance($send_add, $receiv_add, $trans_amt):
 
 macro update_approved($send_add, $trans_amt):
         #
-        # Updates approved with regards to tranfers.
+        # Updates approved with regards to transfers.
         #
 
         self.approved[$send_add][msg.sender] -= $trans_amt
