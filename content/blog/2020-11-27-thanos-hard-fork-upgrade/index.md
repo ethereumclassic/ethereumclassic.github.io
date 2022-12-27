@@ -22,7 +22,7 @@ Inspiration: [ECIP 1043: Fixed DAG limit restriction](https://ecips.ethereumclas
 
 The original intent of the DAG was to provide ASIC resistance to the mining protocol in order to prevent centralization of mining distributions and thereby provide for an objectively fair distribution of tokens. As evident by ASICs being developed that are capable of matching current GPU miners while being more energy efficient, the DAG has succeeded in leveling the playing field between GPU incumbents and ASIC challengers, avoiding ASIC takeover and domination, and leading to a competitive and large mining ecosystem. However the original parameters are proving too aggressive, resulting in obsoleting support for GPUs still in wide use today by miners.
 
-Calibrating these parameters to better reflect todays hardware markets and mining ecosystem will bring the DAG growth back in sync with commonly used GPUs. Allowing the DAG system to continue to serve it’s purpose far into the future.
+Calibrating these parameters to better reflect today's hardware markets and mining ecosystem will bring the DAG growth back in sync with commonly used GPUs. Allowing the DAG system to continue to serve it’s purpose far into the future.
 
 ## Rationale
 

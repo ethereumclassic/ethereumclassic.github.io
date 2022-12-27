@@ -1,7 +1,7 @@
 # DO NOT DELETE THIS COMMENT BLOCK
 # YOU CAN COPY AND PASE THE BLOCK BELOW AND UNCOMMENT/DELETE THE RELEVANT LINES TO ADD A NEW VIDEO
 #
-### START VIDEO TEMPALTE
+### START VIDEO TEMPLATE
 #
 # - title: "ETCCC012: Q&A with Afri, ETCDAO Gigs, Uncle Rate"
 #   date: 2022-02-08
@@ -9,11 +9,11 @@
 #   youtube: GCBv1VCN2tE
 #   tags: ["discussions", "explainers"]
 #   author: ETC Community Calls
-#   authorYoutube: c/channel_name OR channel/channel_id (appended to https://yotube.com)
+#   authorYoutube: c/channel_name OR channel/channel_id (appended to https://youtube.com)
 #   description: "OPTIONAL, Supports Markdown: Nishant Sharma [@nishantsharma87](https://twitter.com/nishantsharma87), PR and Community Relations at [Bitmain](https://www.bitmain.com/)."
 #   unlisted: true
 #
-### END VIDEO TEMPALTE
+### END VIDEO TEMPLATE
 #
 - title: "ETC Community Call 035 2022-12-13"
   date: 2022-12-13
@@ -769,7 +769,7 @@
   tags: ["mining"]
   date: 2021-07-07
   uploaded: 2021-07-07
-- title: "We Hit The Top But This Isnt The End - Ethereum Classic ETC Analysis And Price Prediction."
+- title: "We Hit The Top But This Isn't The End - Ethereum Classic ETC Analysis And Price Prediction."
   author: The Late Adopter
   authorYoutube: channel/UC2qjX8VEP5cgIimnm43hrjA
   tags: ["trading"]
