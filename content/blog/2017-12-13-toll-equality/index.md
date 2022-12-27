@@ -19,7 +19,7 @@ Small cars pay an average of &dollar;5 at most toll roads. Big 18 wheelers pay
 more depending on their weight. Intertoll Service Providers (ISPs) that manage
 the national toll road network (Intertoll) argue that heavier vehicles should
 pay greater fees since they cause more road wear. Former President O. Bammer
-required the Federal Cargo Commision (FCC) to begin a policy enforcing toll
+required the Federal Cargo Commission (FCC) to begin a policy enforcing toll
 equality: “This is the great moral issue of our time. Nothing less than the very
 survival of the Intertoll is at stake.” Unfortunately for President Bammer, his
 chosen successor lost in a stunning upset to now President Trunk. Gully Bull and

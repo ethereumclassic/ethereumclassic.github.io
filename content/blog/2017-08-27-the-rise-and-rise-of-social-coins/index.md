@@ -10,7 +10,7 @@ tags: ["education"]
 ImageSource: [MoneyMetals](https://www.moneymetals.com/).
 
 ## A new hope
-Never before in history mankind had as much available computing power, and also never had as much available human intelligence we have now - over 7.5 billion human brains. How come we are still very primitive in several aspects of life? The reason is trivial. Most individuals are not contributing at all for this global community we happen to be now, they are unfortunatelly marginalized by the system. To better illustrate the problem:
+Never before in history mankind had as much available computing power, and also never had as much available human intelligence we have now - over 7.5 billion human brains. How come we are still very primitive in several aspects of life? The reason is trivial. Most individuals are not contributing at all for this global community we happen to be now, they are unfortunately marginalized by the system. To better illustrate the problem:
 
 - 40% of mankind lives with less than 2.5 dollars per day;
 - 80% of mankind lives with less than 10 dollars per day;
