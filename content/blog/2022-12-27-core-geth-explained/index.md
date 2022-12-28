@@ -60,7 +60,7 @@ Core Geth is, indeed, the Ethereum Classic network node software, also called â€
 
 ## Core Geth Is Both a Software Client and Server
 
-However, blockchain networks are not hierarchical systems where some machines have more clout than others or there are permissioned instances or privileges. In ETC all peer nodes are equal and all replicate the same exact state every 15 seconds.
+However, blockchain networks are not hierarchical systems where some machines have more clout than others or there are permissioned instances or privileges. In ETC all online peer nodes are equal and all replicate the same exact state every 15 seconds.
 
 This replication means that all nodes actually have the role of receiving transactions and blocks and retransmitting them to all other nodes. Similarly, when new nodes connect to the network, they consult with existing participating nodes what is the state of the network and then download from them all the history in what is called the Initial Block Download (IBD).
 
@@ -104,7 +104,7 @@ Now that ETC is the leading proof of work blockchain in the GPU mining segment, 
 
 ### Articulated Configurations
 
-When smart contracts blockchains as Ethereum Classic, Ethereum, Binance Smart Chain, Polkadot, etc. make upgrades, they usually set a future block number to include the new features. To do this, all node operators are alerted of the hard fork block number, and, if they want to continue participating in the canonical chain, they need to upgrade their node software to include the new features.
+When smart contracts blockchains as Ethereum Classic, Ethereum, Binance Smart Chain, etc. make upgrades, they usually set a future block number to include the new features. To do this, all node operators are alerted of the hard fork block number, and, if they want to continue participating in the canonical chain, they need to upgrade their node software to include the new features.
 
 New changes have been historically made in blocks of changes with no flexibility or ability to select individual features. Core Geth changed this with articulated configurations.
 
