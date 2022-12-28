@@ -1,5 +1,5 @@
 ---
-title: "How to Contribute to ETC: The Community Website"
+title: "如何为ETC社区网站做贡献"
 date: 2023-01-03
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,15 +8,15 @@ linkImage: ./1.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**欢迎由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qiexydHMM3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-**This is the second part of a series that will explain how to contribute to Ethereum Classic in a variety of ways.**
+**这是本系列的第二部分，讲述如何用不同的方式为以太坊经典做出贡献**
 
-The videos and posts in the series will contain the title “How to Contribute to ETC:” with the following topic extensions: 
+该系列的视频和帖子将包含标题“如何为ETC做出贡献:”以及以下主题扩展: 
 
 1. The Improvement Proposal Process (ECIP)
 2. The Community Website
