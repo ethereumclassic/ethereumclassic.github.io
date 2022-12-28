@@ -28,13 +28,13 @@ In this 2nd class of the Ethereum Classic Course we will see how the pillars of 
 
 As we saw in the previous class, public key cryptography is a critical component of a blockchain such as ETC where the private key is what gives sovereignty over its wealth and apps to the individual, and through the address that it controls on the blockchain, the individual holds the crypto assets.
 
-What the Cypherpunks had feared originally in the 1980s was that the emerging internet at the time had a dual promise: A positive one, that it would bring incredible freedom of connection and communication between people around the world, and, a negative one, that corporations and governments would be prone to capture it with mass surveillance and arbitrary intervention.
+What the individuals who would later form the Cypherpunks had feared originally in the 1980s was that the emerging internet at the time had a dual promise: A positive one, that it would bring incredible freedom of connection and communication between people around the world, and, a negative one, that corporations and governments would be prone to capture it with mass surveillance and arbitrary intervention.
 
 ## Cypherpunk Ideas and Principles
 
 ![Cypherpunks Featured on Wired magazine in 1993.](./etc-course-cypherpunks-wired.png)
 
-To solve the problem, in the late 80’s the Cypherpunks formed an online group of visionary computer scientists, engineers, and philosophers who started to work on possible solutions. Their main goals were four:
+To solve the problem, in the late 90’s the Cypherpunks formed an online group of visionary computer scientists, engineers, and philosophers who started to work on possible solutions. Their main goals were four:
 
 1. **Privacy:** To avoid surveillance and censorship, they would use the new technology of public key cryptography to make sure people could communicate and transact with confidentiality.
 2. **Hard Money:** To liberate trade from the controls and debasement of government currency, they would study money and try to create a native medium of exchange and store of value for the internet. 
