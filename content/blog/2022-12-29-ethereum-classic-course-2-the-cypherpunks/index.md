@@ -34,7 +34,7 @@ What the individuals who would later form the Cypherpunks had feared originally 
 
 ![Cypherpunks Featured on Wired magazine in 1993.](./etc-course-cypherpunks-wired.png)
 
-To solve the problem, in the late 90’s the Cypherpunks formed an online group of visionary computer scientists, engineers, and philosophers who started to work on possible solutions. Their main goals were four:
+To solve the problem, in the early 90’s the Cypherpunks formed an online group of visionary computer scientists, engineers, and philosophers who started to work on possible solutions. Their main goals were four:
 
 1. **Privacy:** To avoid surveillance and censorship, they would use the new technology of public key cryptography to make sure people could communicate and transact with confidentiality.
 2. **Hard Money:** To liberate trade from the controls and debasement of government currency, they would study money and try to create a native medium of exchange and store of value for the internet. 
