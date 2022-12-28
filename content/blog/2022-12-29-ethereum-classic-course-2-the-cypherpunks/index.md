@@ -59,7 +59,7 @@ He passed away in December of 2018.
 
 Adam Back is another Cypherpunk who in 1997 was working on a way to avoid spam in a peer-to-peer email system. If the internet were to be decentralized, then tech company email services should be avoided and each user should be able to prevent spam.
 
-His solution was a system called HashCash that used proof of work; the heart of the technology in Bitcoin, and the heart of the consensus mechanism that ETC uses today; as a way of blocking spammers.
+As a way of blocking spammers, he designed a system using proof of work called HashCash. Proof of work is at the heart of the technology used in Bitcoin and is the consensus mechanism that ETC uses today.
 
 ## Cypherpunk People and Inventions: Nick Szabo
 
