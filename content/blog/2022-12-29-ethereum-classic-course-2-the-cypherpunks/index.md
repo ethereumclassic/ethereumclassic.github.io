@@ -97,7 +97,7 @@ Hal Finney passed away in August of 2014.
 
 ![The four technologies that form part of BTC and ETC.](./etc-course-pioneer-tech-btc-etc.png)
 
-In our next class we will explain the four precursor technologies invented by these Cypherpunks that eventually gave way and formed part of Bitcoin and what is now Ethereum Classic:
+In our next class we will explain the four precursor technologies invented by these Cypherpunks that eventually gave way to and formed part of Bitcoin and what is now Ethereum Classic:
 
 1. HashCash
 2. Bit Gold
