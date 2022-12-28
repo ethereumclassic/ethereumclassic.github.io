@@ -49,7 +49,7 @@ Tim May was a founding father of the Cypherpunk movement and dedicated his time 
 
 Mr. May was like a role model who provided counsel, motivation, and direction to the group.
 
-Like many Libertarians, his interests revolved around privacy, reducing arbitrary intervention on the internet, and he had a special disdain for the taxman.
+Like many Libertarians, his interests revolved around privacy, reducing arbitrary intervention on the internet, and he had a special disdain for the tax man.
 
 He passed away in December of 2018.
 
