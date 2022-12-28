@@ -1,111 +1,111 @@
 ---
-title: "Ethereum Classic Course: 2. The Cypherpunks"
+title: “以太坊经典课程: 2. 密码朋克"
 date: 2022-12-29
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["education", "course"]
-linkImage: ./etc-course-etc-cypherpunks.png
+linkImage: ./[image-name].png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**欢迎由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EV0cGsUnaYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-## Ethereum Classic and the Cypherpunks
+## 以太坊经典和密码朋克
 
-![ETC is a Cypherpunk Ideal.](./etc-course-etc-cypherpunks.png)
+![ETC是密码朋克的理想状态](./etc-course-etc-cypherpunks.png)
 
-Ethereum Classic (ETC), and its incredibly secure and versatile functionality, is the product of decades of work by people who saw the potential of public key cryptography to create an internet free from centralization, capture, and manipulation by special interests.
+以太坊经典(ETC)及其令人难以置信的安全和多功能功能，是人们数十年工作的产物，他们看到了公钥密码学的潜力，可以创建一个免受集中化、捕获和特殊利益操纵的互联网。
 
-In this 2nd class of the Ethereum Classic Course we will see how the pillars of ETC; namely, hard money, proof of work, and smart contracts; were components ideated and built through time by a group of visionary computer scientists, engineers, and polymaths who called themselves the Cypherpunks.
+在以太坊经典课程的第二节课中，我们将看到ETC的支柱 - 硬货币、工作证明和智能合约 - 是如何由一群有远见的计算机科学家、工程师和博学多才的人设计和建造的组件，以及他们是如何自称为密码朋克的。
 
-## Review of Public Key Cryptography
+## 公钥密码学综述
 
-![From Private Key to Address to Crypto Assets.](./etc-course-pub-key-review.png)
+![从私钥到地址到加密资产](./etc-course-pub-key-review.png)
 
-As we saw in the previous class, public key cryptography is a critical component of a blockchain such as ETC where the private key is what gives sovereignty over its wealth and apps to the individual, and through the address that it controls on the blockchain, the individual holds the crypto assets.
+正如我们在上一节课中看到的，公钥密码学是区块链(如ETC)的关键组成部分，其中私钥将其财富和应用程序的主权赋予个人，通过它在区块链上控制的地址，个人持有加密资产。
 
-What the Cypherpunks had feared originally in the 1980s was that the emerging internet at the time had a dual promise: A positive one, that it would bring incredible freedom of connection and communication between people around the world, and, a negative one, that corporations and governments would be prone to capture it with mass surveillance and arbitrary intervention.
+密码朋克最初在20世纪80年代所担心的是，当时新兴的互联网有两个承诺:一个是积极的 - 它将为世界各地的人们带来难以置信的联系和交流自由;另一个是消极的 - 公司和政府将倾向于通过大规模监视和任意干预来限制它。
 
-## Cypherpunk Ideas and Principles
+## 密码朋克思想和原则
 
-![Cypherpunks Featured on Wired magazine in 1993.](./etc-course-cypherpunks-wired-zh.png)
+![密码朋克在1993年登上Wired杂志](./etc-course-cypherpunks-wired-zh.png)
 
-To solve the problem, in the late 80’s the Cypherpunks formed an online group of visionary computer scientists, engineers, and philosophers who started to work on possible solutions. Their main goals were four:
+为了解决这个问题，在80年代末，密码朋克成立了一个由有远见的计算机科学家、工程师和哲学家组成的在线小组，他们开始研究可能的解决方案。小组的主要目标有四个:
 
-1. **Privacy:** To avoid surveillance and censorship, they would use the new technology of public key cryptography to make sure people could communicate and transact with confidentiality.
-2. **Hard Money:** To liberate trade from the controls and debasement of government currency, they would study money and try to create a native medium of exchange and store of value for the internet. 
-3. **Smart contracts:** To replace the role of prone-to-capture traditional agents and intermediaries, they needed to invent autonomous software entities that could fulfil their functions. 
-4. **Trust minimization:** To accomplish decentralization and a peer-to-peer internet with free speech and trade, the overarching principle would be trust minimization, or the significant reduction for the need of third parties to mediate in all human action.
+1. **隐私:** 为了避免监视和审查，他们会使用公钥加密的新技术，以确保人们可以在保密的情况下进行通信和交易。
+2. **硬货币:** 为了将贸易从政府货币的控制和贬值中解放出来，他们将研究货币，并试图为互联网创造一种原生的交换媒介和价值储存。
+3.**智能合约:** 为了取代易于捕获的传统代理和中介的角色，他们需要发明能够实现其功能的自主软件实体。
+4. **信任最小化:** 为了实现去中心化和具有言论自由和贸易自由的点对点互联网，首要原则将是信任最小化，或显著减少第三方在所有人类行为中调解的需求。
 
-## Cypherpunk People and Inventions: Tim May
+## 密码朋克之名人与发明: Tim May
 
 ![Tim May](./etc-course-tim-may-zh.png)
 
-Tim May was a founding father of the Cypherpunk movement and dedicated his time to explain the philosophy, explain terms and concepts, organize the mailing groups, and even the physical meetings they held in Silicon Valley.
+蒂姆·梅(Tim May)是密码朋克运动的创始人之一。他致力于解释理念、术语和概念、组织邮件组，甚至是他们在硅谷举行的实体会议。
 
-Mr. May was like a role model who provided counsel, motivation, and direction to the group.
+梅先生就像一个榜样，为团队提供建议、激励和方向。
 
-Like many Libertarians, his interests revolved around privacy, reducing arbitrary intervention on the internet, and he had a special disdain for the taxman.
+像许多自由意志主义者一样，他的兴趣围绕着隐私，减少对互联网的任意干预。他对税务人员特别鄙视。
 
-He passed away in December of 2018.
+梅先生于2018年12月去世。
 
-## Cypherpunk People and Inventions: Adam Back
+##  密码朋克之名人与发明: Adam Back
 
 ![Adam Back](./etc-course-adam-back-zh.png)
 
-Adam Back is another Cypherpunk who in 1997 was working on a way to avoid spam in a peer-to-peer email system. If the internet were to be decentralized, then tech company email services should be avoided and each user should be able to prevent spam.
+Adam Back是另一个密码朋克。他在1997年致力于在点对点电子邮件系统中避免垃圾邮件的方法。如果互联网要去中心化，那么应该避免科技公司的电子邮件服务，并使得每个用户都能够防止垃圾邮件。
 
-His solution was a system called HashCash that used proof of work; the heart of the technology in Bitcoin, and the heart of the consensus mechanism that ETC uses today; as a way of blocking spammers.
+他的解决方案是一个通过使用工作量证明使用名为HashCash（哈希现金）的系统;它拥有比特币技术的核心，以及ETC今天使用的共识机制的核心;该发明作为阻止垃圾邮件的一种方式。
 
-## Cypherpunk People and Inventions: Nick Szabo
+##  密码朋克之名人与发明: Nick Szabo
 
 ![Nick Szabo](./etc-course-nick-szabo-zh.png)
 
-Nick Szabo is a Cypherpunk and in 1994 invented the concept of smart contracts to create trust minimized autonomous agents that could largely replace the roles of third parties when people communicated or traded online.
+Nick Szabo是一名密码朋克。为了创建信任最小化的自主代理，他在1994年发明了智能合约的概念。这个概念可以在人们在线交流或交易时在很大程度上取代第三方的角色。
 
-When he read about HashCash in early 1998 he immediately established the connection of the proofs in the proof of work algorithm with digital gold, which is an analogy of gold in the real world, but applied to the digital world.
+当他在1998年初读到HashCash时，他立即建立了工作量证明算法中的证明与数字黄金的联系，数字黄金是现实世界中黄金的类比，但应用于数字世界。
 
-With this idea, he created a system called Bit Gold which became a precursor of Bitcoin and thus ETC.
+有了这个想法，他创建了一个名为比特金（Bit Gold）的系统，成为比特币和ETC的前身。
 
-As a polymath he also wrote key essays of Cypherpunk philosophy about the origins of money, why trusted third parties are security holes, and the inverse relationship between computational scalability and social scalability.
+作为一个博学的人，他还写了一些关于密码朋克哲学的关键文章。它们关于金钱的起源，为什么可信的第三方是安全漏洞，以及计算可扩展性和社会可扩展性之间的反比关系。
 
-## Cypherpunk People and Inventions: Wei Dai
+##  密码朋克之名人与发明: Wei Dai
 
 ![Wei Dai](./etc-course-wei-dai.png)
 
-Wei Dai discussed the ideas of proof of work and Bit Gold with Nick Szabo in early 1998 and in late 1998 came up with the idea of B-money, a variation of Bit Gold.
+戴伟在1998年初与Nick Szabo讨论了工作量证明和Bit Gold的想法，并在1998年底提出了Bit Gold的变体B-money。
 
-The way B-money works as a network protocol is very much how Bitcoin was designed and it is also the peer-to-peer and monetary reward method that Ethereum Classic uses. 
+B-money作为网络协议的工作方式与比特币的设计方式非常相似，它也是以太坊经典使用的点对点和货币奖励方法。
 
-## Cypherpunk People and Inventions: Hal Finney
+##  密码朋克之名人与发明: Hal Finney
 
 ![Hal Finney](./etc-course-hal-finney-zh.png)
 
-Hal Finney was a legendary Cypherpunk and Bitcoiner as he had also tried to create a proof of work monetary system based on the Bit Gold model that he called RPOW which stands for Reusable Proofs of Work.
+Hal Finney是一个传奇性的密码朋克人和比特币人。因为他也试图创建一个基于比特金模型的工作量证明货币系统，他称之为RPOW，代表可重用的工作量证明。
 
-Mr. Finney was the first user of Bitcoin and wrote a lot about the network and its future success. 
+Finney是比特币的第一个用户，他写了很多关于比特币网络及其未来成功的文章。
 
-Like HashCash, Bit Gold, and B-money, some of RPOW’s design was incorporated into Bitcoin by Satoshi Nakamoto and also forms part of ETC’s blueprint.
+与HashCash、Bit Gold和B-money一样，RPOW的一些设计被中本聪(Satoshi Nakamoto)纳入了比特币当中，也构成了ETC蓝图的一部分。
 
-Hal Finney passed away in August of 2014.
+哈尔·芬尼于2014年8月去世。
 
-## Next Class
+## 下节课亮点
 
-![The four technologies that form part of BTC and ETC.](./etc-course-pioneer-tech-btc-etc.png)
+![构成BTC和ETC部分的四种技术](./etc-course-pioneer-tech-btc-etc.png)
 
-In our next class we will explain the four precursor technologies invented by these Cypherpunks that eventually gave way and formed part of Bitcoin and what is now Ethereum Classic:
+在我们的下一节课中，我们将解释这些密码朋克们发明的四种先驱技术，以及这些技术是如何最终让位于比特币，并形成了现在的以太坊经典:
 
-1. HashCash
-2. Bit Gold
+1. HashCash 哈希现金
+2. Bit Gold 比特金
 3. B-money
 4. RPOW
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关以太坊经典，请访问: https://ethereumclassic.org
