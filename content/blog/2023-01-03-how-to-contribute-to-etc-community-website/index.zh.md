@@ -18,240 +18,243 @@ linkImage: ./1.png
 
 该系列的视频和帖子将包含标题“如何为ETC做出贡献:”以及以下主题扩展: 
 
-1. The Improvement Proposal Process (ECIP)
-2. The Community Website
-3. Community Tweets
-4. Community Volunteering
-5. Mining
-6. Operating a Node
-7. Donating Money
-8. Building a Dapp
+该系列的视频和文章将包含“如何为ETC做出贡献”的标题，并有以下主题扩展::
 
-## What Is the Community Website?
+1.改进建议流程(ECIP) 
+2.社区网站 
+3.社区推特 
+4.社区志愿服务 
+5.挖矿 
+6.操作节点 
+7.捐款 
+8.构建Dapp
 
-![Community website.](./2.png)
+## 什么是ETC社区网站?
 
-As Ethereum Classic is a decentralized blockchain network it has no presidents, CEOs, nor foundations centrally directing everything that happens inside and outside the ecosystem.
+![社区网站](./2.png)
 
-All infrastructure and resources are contributed and managed by volunteers, donors, and professionals hired by decentralist philanthropists. 
+由于以太坊经典是一个去中心化的区块链网络，它没有总裁、首席执行官，也没有基金会集中指导生态系统内外发生的一切。
 
-One of these resources is the community website located at ethereumclassic.org.
+所有的基础设施和资源都是由志愿者、捐赠者和分散主义慈善家雇佣的专业人士贡献和管理的。
 
-The website is a very complete catalogue of ecosystem articles, videos, links, tools, educational content, applications, and services.
+其中一个资源是位于ethereumclassic.org的社区网站。
 
-## Who Can Contribute to the Community Website?
+该网站是一个非常完整的生态系统文章、视频、链接、工具、教育内容、应用程序和服务的目录。
 
-Being an open source project, most people in the world may contribute to the Ethereum Classic community website.
+## 都有谁可以为社区网站做贡献?
 
-The process is located on a platform called GitHub and anyone who wishes to contribute must have an account there to propose their ideas.
+作为一个开源项目，世界上大多数人都可以为以太坊经典社区网站做出贡献。
 
-The ETC community website has administrators and editors, so all proposed content units and links will be analyzed and accepted based on how relevant they are for ETC and how they fit with its Code Is Law philosophy.
+这个过程位于一个名为GitHub的平台上，任何想要贡献的人都必须在那里有一个账户来提出他们的想法。
 
-## What Can Be Contributed to the Community Website?
+ETC社区网站有管理员和编辑，因此所有提议的内容单元和链接都将根据它们与ETC的相关性以及它们是否符合“代码即法律”哲学进行分析和接受建议。
 
-![A variety of content units.](./3.png)
+## 什么内容可以用作社区网站贡献?
 
-As may be seen in the news section, there are a variety of content units and types that may be proposed. A more comprehensive list is:
+![不同的内容单元](./3.png)
 
-1. Links to external articles
-2. Links to external videos
-3. Original posts
-4. Frequently asked questions
-5. The “Why Classic?” section
-6. The Knowledge base
-7. A Services page
-8. A Community Page
-9. A Network page
-10. A Mining page
-11. A Development page
-12. All other static pages (About, Sitemap, etc.)
+正如在首页最新消息部分可以看到的，网站可能会提出各种内容单元与类型。以下列表囊括了一个更全面的分类:
 
-In this post we will explain specifically how to contribute links to videos, links to external articles, and original posts to the ETC community website blog.
+1. 外部文章链接
+2. 外部视频链接
+3. 原创文章
+4. 常见问题
+5. “为什么是经典?”
+6. 知识库
+7. 服务页面
+8. 社区页面
+9. 网络界面
+10. 挖矿页面
+11. 开发页面
+12. 所有其他静态页面(关于、站点地图等)
 
-## Check Out the Readme File With Instructions
+在这篇文章中，我们将具体解释如何向ETC社区网站博客贡献视频链接、外部文章链接和原创文章。
 
-![Readme file.](./5.png)
+## 查看带有说明的自述文件
 
-As a good first step, if you wish to contribute, you may go to:
+![自述文件](./5.png)
+
+作为好的第一步，如果您想投稿，您可以访问:
 
 [https://github.com/ethereumclassic/ethereumclassic.github.io](https://github.com/ethereumclassic/ethereumclassic.github.io)
 
-That page is the home of the website repository inside GitHub. If you scroll down, you will find a “README” section with general instructions.
+该页面是GitHub中网站存储库的主页。如果您向下滚动，你会发现一个“README”部分的一般自述说明。
 
-In these instructions you will see there is an easy way to propose some simple content units and then a more complex process using the GitHub platform.
+在这些说明中，您将看到一些提出简单内容单元的方法。对于复杂的过程，您可以使用GitHub平台进行更改。
 
-Following we will explain both.
+下面我们将对两者进行详细的解释。
 
-## Contributing Article Links Via Easy Mode
+## 通过简单模式贡献文章链接
 
-![Article links via easy mode.](./6.png)
+![通过简单模式贡献文章链接](./6.png)
 
-If you know of an interesting link for a new article, news item, or analysis of ETC in any external website, then you can go to the “issues” section on the address below and start a new issue to propose the link to be included:
+如果您知道在任何外部网站上有关于新文章、新闻或ETC分析的有趣链接，您可以去下面地址的“问题”部分，开始一个新的问题，并上传需要包含的链接:
 
 [https://github.com/ethereumclassic/ethereumclassic.github.io/issues/new](https://github.com/ethereumclassic/ethereumclassic.github.io/issues/new)
 
-On the new issue page, write a title for the new issue, the reason why you wish to add the link, and then copy and paste the link.
+在新问题页面上，您需要为新的问题写一个标题，为什么你想添加链接，然后复制和粘贴链接。
 
-Then, press “Submit new issue”.
+然后，按“提交新问题”。
 
-The ETC community website admins will take it from there.
+ETC社区网站管理员将从那里接手接下来的工作。
 
-## Contributing Video Links Via Easy Mode
+## 通过简易模式贡献视频链接
 
-![Video links via easy mode.](./7.png)
+![简易模式贡献视频链接](./7.png)
 
-If you know of an interesting video, then you can go to the “issues” section on the address below and start a new issue to propose the link for the video to be included:
+如果您有一个有趣的视频想要分享，那么您可以去下面地址的“问题”部分，开始一个新的问题，上传视频的链接:
 
 [https://github.com/ethereumclassic/ethereumclassic.github.io/issues/new](https://github.com/ethereumclassic/ethereumclassic.github.io/issues/new)
 
-On the new issue page, write a title for the new issue, the reason why you wish to add the video, and then copy and paste the link to that video.
+在新问题页面上，为新问题写一个标题，你想添加视频的原因，然后复制并粘贴到该视频的链接。
 
-Then, press “Submit new issue”.
+然后，按“提交新问题”。
 
-The ETC community website admins will take it from there.
+ETC社区网站管理员将从那里接手接下来的工作。
 
-## Contributing Article Links Via GitHub Pull Request
+## 通过GitHub Pull Request贡献文章链接
 
-![Article links via GitHub process.](./8.png)
+![通过GitHub进程贡献文章链接](./8.png)
 
-For contributing an external article link using the GitHub process, you need to go to the home of the ETC website repo at:
-
-[https://github.com/ethereumclassic/ethereumclassic.github.io](https://github.com/ethereumclassic/ethereumclassic.github.io)
-
-From there click on the “content” folder. 
-
-In the next screen you will find all the types of content on the website in folders.
-
-Click on the “news” folder as shown in the image.
-
-![Open links yaml file.](./9.png)
-
-Now that you are inside the folder that contains links to external articles, open the file that is named “links.collection.en.yaml”.
-
-![Add link with correct format.](./10.png)
-
-Inside the document, you will see all the links that have been submitted in a column starting from the latest one.
-
-To add your link, you need to hit the edit button, add your link to the top of the column, and then go to the bottom of the page and click on “Propose changes”.
-
-Make sure to follow the exact format that is used for this document:
-
-```
-- date: yyyy-mm-dd
-   link:
-   author:
-   source:
-   title: “”
-   tags: [“”, “”]
-```
-
-## Contributing Video Links Via GitHub Pull Request
-
-![Video links via GitHub process.](./12.png)
-
-For contributing a video link using the GitHub process, you need to go to the home of the ETC website repo at:
+要使用GitHub进程贡献外部文章链接，您需要访问ETC网站的储存库主页:
 
 [https://github.com/ethereumclassic/ethereumclassic.github.io](https://github.com/ethereumclassic/ethereumclassic.github.io)
 
-From there click on the “content” folder. 
+从那里点击“内容”文件夹。
 
-In the next screen you will find all the types of content on the website in folders.
+在下一个屏幕中，您将在文件夹中找到网站上所有类型的内容。
 
-Click on the “videos” folder as shown in the image.
+如图所示，点击“新消息”文件夹。
 
-![Open videos yaml file.](./13.png)
+![打开链接yaml文件](./9.png)
 
-Now that you are inside the folder that contains links to videos, open the file that is named “videos.collection.en.yaml”.
+现在您已经进入了包含外部文章链接的文件夹，打开名为“links.collection.en.yaml”的文件。
 
-(You can select any other of the other files for other languages.)
+![添加格式正确的链接](./10.png)
 
-![Add video link with correct format.](./14.png)
+在文档内部，您将在从最新链接开始的一列中看到已提交的所有链接。
 
-Inside the document, you will see all the links to videos that have been submitted in a column starting from the latest one.
+要添加链接，您需要点击编辑按钮，将链接添加到列的顶部，然后转到页面底部，单击“建议更改”。
 
-To add your video link, you need to hit the edit button, add your link to the top of the column, and then go to the bottom of the page and click on “Propose changes”.
-
-Make sure to follow the exact format that is used for this document:
+请确保遵循本文档使用的确切格式:
 
 ```
-- title: ""
-  date: yyyy-mm-dd
-  uploaded: yyyy-mm-dd
-  youtube: 
-  tags: ["", “”]
-  author:
-  authorYoutube:
+- date: yyyy-mm-dd （日期：年-月-日）
+   link: （链接：）
+   author: （作者：）
+   source: （来源：）
+   title: “” （标题：“”）
+   tags: [“”, “”] （标签：["", ""]）
 ```
 
-## Contributing Full Articles
+## 通过GitHub Pull Request贡献外部视频链接
 
-![Fork the ETC community website.](./15.png)
+![通过GitHub进程贡献视频链接](./12.png)
 
-To contribute full articles you have to create a pull request on GitHub from a fork of the master branch of the website from your own GitHub profile.
-
-For this, you need to go to the home of the ETC community website repo at:
+为了使用GitHub进程贡献一个视频链接，你需要去ETC网站的储存库主页:
 
 [https://github.com/ethereumclassic/ethereumclassic.github.io](https://github.com/ethereumclassic/ethereumclassic.github.io)
 
-Then, hit the “Fork” button at the top right as shown in the image.
+从那里点击“内容”文件夹。
 
-![See your fork in your URL.](./16.png)
+在下一个屏幕中，您将在文件夹中找到网站上所有类型的内容。
 
-When you go to your fork of the ETC community website on your GitHub account, you will see at the top left that it is hosted on your GitHub URL.
+如图所示，点击“视频”文件夹。
 
-From the home of your fork of the ETC community website, then click on “content”.
+![打开视频yaml文件](./13.png)
 
-![Open blog folder.](./17.png)
+现在您已经进入了包含视频链接的文件夹，打开名为“videos.collection.en.yaml”的文件。
 
-As this is a copy of the ETC community website all the folders and files structure will be the same.
+(您可以选择其他语言的任何其他文件。)
 
-In the next screen, click on the “blog” folder as there is where the original articles published on the ETC community website are located.
+![添加带有正确格式的视频链接](./14.png)
 
-![Create new file.](./18.png)
+在文档中，您将看到所有已提交的视频链接，这些链接以最新的视频开始。
 
-In the next screen you will see the folders of all the existing posts since the creation of the website.
+要添加视频链接，您需要点击编辑按钮，将链接添加到列的顶部，然后转到页面底部，单击“建议更改”。
 
-To add your post, you need to open the dropdown menu on the top right that says “Add file” as seen in the image.
-
-From there, select “Create new file”.
-
-![Four things to complete your article.](./19.png)
-
-In the next screen you will need to do four things to create your new article:
-
-1. Write the proper folder extension name at the top with the format:
-
-/yyyy-mm-dd-my-article/index.md
-
-2. Then you need to write the correct header format:
+请确保遵循本文档使用的确切格式:
 
 ```
-title: ""
-date: yyyy-mm-dd
-author: 
-contributors: [""]
-tags: ["", ""]
-linkImage: ./[image-name].png
+- title: "" （标题：“”）
+  date: yyyy-mm-dd （日期：年-月-日）
+  uploaded: yyyy-mm-dd （已上传：年-月-日）
+  youtube: （油管：）
+  tags: ["", “”] （标签：["", ""]）
+  author: (作者：)
+  authorYoutube: （作者油管：）
 ```
 
-3. Write your content below the header.
+## 贡献完整的文章
 
-4. When your content is ready, then press the “Commit new file” button at the bottom of the page to create a new pull request on the ETC community website master branch.
+![ETC社区网站分叉](./15.png)
 
-The ETC community website admins will take it from there.
+要贡献完整的文章，您需要用自己的账号从GitHub主网站中创建一个分支的Pull Request。
 
-## You Are Welcome to Contribute!
+为此，您需要访问ETC社区网站存储库的主页:
 
-We hope that this explanation has clarified any doubts you may have had about how to contribute to the ETC website.
+[https://github.com/ethereumclassic/ethereumclassic.github.io](https://github.com/ethereumclassic/ethereumclassic.github.io)
 
-You are welcome to contribute to Ethereum Classic.
+然后，点击右上角的“分支”按钮，如图所示。
 
-Good ideas are always welcome!
+![从您的URL中找到您的分支](./16.png)
+
+当您在您的GitHub帐户上访问ETC社区网站的分支时，您会在左上角看到分支在您的GitHub URL上。
+
+从你的ETC社区网站的主页，然后点击“内容”。
+
+![打开博客Blog文件夹](./17.png)
+
+由于这是ETC社区网站的副本，所有文件夹和文件结构将是相同的。
+
+在下一个屏幕中，单击“博客”文件夹，因为那里是ETC社区网站上发布的原始文章的位置。
+
+![创建新文档](./18.png)
+
+在下一个屏幕中，您将看到自网站创建以来所有现有帖子的文件夹。
+
+要添加文章，您需要打开右上方的下拉菜单，上面写着“添加文件”，如图所示。
+
+从那里选择“创建新文件”。
+
+![完成您的文章需要四个条件](./19.png)
+
+在下一个屏幕中，您需要做四件事来创建新文章:
+
+1. 在顶部写上正确的文件夹扩展名，格式如下:
+
+/yyyy-mm-dd-my-article/index.md （/年-月-日-my-article/index.md）
+
+2. 然后您需要写正确的标题格式:
+
+```
+title: "" （标题：“”）
+date: yyyy-mm-dd （日期：年-月-日）
+author: （作者：）
+contributors: [""] （贡献者：[“”]）
+tags: ["", ""] （标签：[“”，“”]）
+linkImage: ./[image-name].png （图片链接：./[图片名称].png）
+```
+
+3. 把您的内容写在标题下面。
+
+4. 当您的内容准备好后，按下页面底部的“提交新文件”按钮，在ETC社区网站主分支上创建一个新的Pull Request。
+
+ETC社区网站管理员将从那里接手接下来的工作。
+
+
+## 欢迎您来贡献！
+
+我们希望这个解释已经解答了您对如何向ETC网站投稿的任何疑问。
+
+欢迎您为以太坊经典做出贡献。
+
+好的点子，总是受欢迎的!
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本篇文章!**
 
-To start contributing to the ETC Community website go to: [https://github.com/ethereumclassic/ethereumclassic.github.io](https://github.com/ethereumclassic/ethereumclassic.github.io)
+想开始为ETC社区网站贡献，请访问: [https://github.com/ethereumclassic/ethereumclassic.github.io](https://github.com/ethereumclassic/ethereumclassic.github.io)
 
-To learn more about ETC go to: [https://ethereumclassic.org](https://ethereumclassic.org)
+想要了解有关ETC的更多内容，请访问: [https://ethereumclassic.org](https://ethereumclassic.org)
