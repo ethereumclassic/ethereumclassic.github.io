@@ -50,7 +50,7 @@ The six EIPs included in the EOF upgrade are the following (summaries for each E
 
 - [EIP-4200](https://eips.ethereum.org/EIPS/eip-4200): Three new EVM jump instructions are introduced (RJUMP, RJUMPI and RJUMPV) which encode destinations as signed immediate values. These can be useful in the majority of (but not all) use cases and offer a cost reduction.
 
-- [EIP-4570](https://eips.ethereum.org/EIPS/eip-4570): Introduces the ability to have several code sections in EOF-formatted (EIP-3540) bytecode, each one representing a separate subroutine/function. Two new opcodes, CALLF and RETF, are introduced to call and return from such a function. Dynamic jump instructions are disallowed.
+- [EIP-4750](https://eips.ethereum.org/EIPS/eip-4750): Introduces the ability to have several code sections in EOF-formatted (EIP-3540) bytecode, each one representing a separate subroutine/function. Two new opcodes, CALLF and RETF, are introduced to call and return from such a function. Dynamic jump instructions are disallowed.
 
 - [EIP-5450](https://eips.ethereum.org/EIPS/eip-5450): Introduces extended validation of code sections to guarantee that neither stack underflow nor overflow can happen during execution of validated contracts.
 
