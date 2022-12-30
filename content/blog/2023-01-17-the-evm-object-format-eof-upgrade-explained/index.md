@@ -74,6 +74,8 @@ This means that, if everything goes according to plan, the Ethereum network EVM 
 
 ## ETC Cooperative’s Contribution to EOF
 
+![ETC Cooperative's will contribute to the EVM upgrade.](./eof-etc-coop.png)
+
 The ETC Cooperative is a non-profit organization that is dedicated to supporting the Ethereum Classic network. One of its functions is to maintain and upgrade the protocol and software clients of ETC: Core Geth and Hyperledger Besu.
 
 The core developers who perform these tasks are Isaac Ardis and Chris Ziogas (Core Geth), and Diego López León (Hyperledger Besu).
