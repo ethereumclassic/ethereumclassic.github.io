@@ -75,7 +75,7 @@ Nick Szabo是一名密码朋克。为了创建信任最小化的自主代理，�
 
 ##  密码朋克之名人与发明: Wei Dai
 
-![Wei Dai](./etc-course-wei-dai.png)
+![Wei Dai](./etc-course-wei-dai-anon.png)
 
 戴伟在1998年初与Nick Szabo讨论了工作量证明和Bit Gold的想法，并在1998年底提出了Bit Gold的变体B-money。
 
