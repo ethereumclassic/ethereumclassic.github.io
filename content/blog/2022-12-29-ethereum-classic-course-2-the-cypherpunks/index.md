@@ -75,7 +75,7 @@ As a polymath he also wrote key essays of Cypherpunk philosophy about the origin
 
 ## Cypherpunk People and Inventions: Wei Dai
 
-![Wei Dai](./etc-course-wei-dai.png)
+![Wei Dai](./etc-course-wei-dai-anon.png)
 
 Wei Dai discussed the ideas of proof of work and Bit Gold with Nick Szabo in early 1998 and in late 1998 came up with the idea of B-money, a variation of Bit Gold.
 
