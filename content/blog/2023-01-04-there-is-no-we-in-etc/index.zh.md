@@ -1,5 +1,5 @@
 ---
-title: "There Is No We in ETC"
+title: "以太坊经典中没有“我们”"
 date: 2023-01-04
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -7,42 +7,42 @@ tags: ["Opinion"]
 linkImage: ./no-we-in-etc.png
 ---
 
-There is this thing that when something happens and it is felt as a threat to Ethereum Classic, then people go to the various social media forums, like the weekly community call or the Discord server, and say things like:
+有一种情况是，当发生了一些事情，大家觉得这是对以太坊经典的威胁时，便会去各种社交媒体论坛（比如每周的社区电话或Discord服务器）说这样的话:
 
-"**We** have to solve this?" 
+"**我们** 需要解决这个问题吗?" 
 
-Or
+或者
 
-"What can **we** do to fix this?"
+"**我们** 要怎么做才能修改它?"
 
-The first thing to understand is that there is no **"we"** in Ethereum Classic. 
+首先需要考虑的问题是，以太坊经典中没有 **"我们"**. 
 
-This is because Ethereum Classic is decentralized and, if that is true, then there is no **"we"**. 
+这是因为ETC是去中心化的。如果ETC真正如此, 那么 **"我们"** 的概念便不会存在. 
 
-This is why years ago I used to argue against using terms like **"the community"** and **"we"** and things like that. 
+这就是为什么几年前使用诸如 **“社区”** 、**“我们”** 之类的术语会被反对。
 
-As if ETC were some sort of club, foundation, or corporation where **"we"** exist as a legal personhood, with fiduciary duty, financial liability, and registered somewhere, so **"we"** manage things, therefore **"we"** could be sued by the US Government or **"we"** could be prohibited by the Chinese Government, and things like that.
+就好像ETC是某种俱乐部、基金会或公司，其中 **“我们”** 作为法人存在，具有受托责任、财务责任，并在某处注册，所以 **“我们”** 管理事情，因此 **“我们”** 可能被政府起诉，或者 **“我们”** 可能被政府禁止，诸如此类。
 
-That doesn't exist.
+这些并不存在
 
-**"We"** just have to let governments scream to the air. Saying "ETC is prohibited" because "it's a security" or "it burns too much energy". 
+因为 **“我们”** 只能让政府向空中尖叫。说“ETC是被禁止的”，因为“它是一种证券”或“它消耗太多能量”。
 
-It doesn't matter. 
+这些都是无关紧要的。
 
-Ethereum Classic is going to still be there. Developers are going to still be able to send smart contracts and build apps on it, and people are going to still have their money there, and nobody can do anything about it. 
+以太坊经典仍然会在那里；开发人员仍然可以发送智能合约，并在上面构建应用程序；人们仍然会把钱存在那里，没有人可以对此做任何事情。
 
-Governments will migrate from the current state of denial, trying to stop the unstoppable for a while. But, then they will realize that it is futile. When this happens, when they see that Ethereum Classic is still there after all the efforts to stop it, then they will embrace it.
+各国政府将从目前的否认状态转变过来，试图暂时阻止不可阻挡的趋势。但是，他们会意识到这是徒劳的。当这种情况发生时，当他们看到以太坊经典在所有努力阻止它之后仍然存在时，他们就会接受它。
 
-There's nothing **"we"** can do, **"we"** doesn't exist, and there's nothing to do other than see how the government tries to prohibit Bitcoin as well as Ethereum Classic and see how they fail.
+这里没有什么是 **"我们"** 能做到, **"我们"** 并不存在, 除了看看政府如何试图禁止比特币和以太坊经典，看看它们是如何失败的，没有什么可做的。
 
-Because it's already solved. 
+因为这些顾虑已经被解决了。
 
-**"We"** already did what **"we"** had to do which is to create a truly decentralized, *Code Is Law*, digital gold, and programmable blockchain network.
+**“我们”** 已经做了 **“我们”** 必须做的事情，即创建一个真正去中心化的、*代码即法律* 的数字黄金和可编程的区块链网络。
 
-There's nothing else to do.
+除此之外，没有其他需要做的了。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本篇文章！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关以太坊经典，请访问: https://ethereumclassic.org
