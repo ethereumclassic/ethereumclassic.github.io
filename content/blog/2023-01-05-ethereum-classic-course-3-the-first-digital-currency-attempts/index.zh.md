@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Course: 3. The First Digital Currency Attempts"
+title: "以太坊经典课程: 3. 首次数字货币的尝试"
 date: 2023-01-05
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,13 +8,13 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**欢迎由此收听或观看本期视频:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2CEE6Chfrpg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-## Cypherpunks Review
+## 密码朋克回顾
 
 ![Cypherpunks Work and ETC](./etc-course-3-intro.png)
 
