@@ -18,68 +18,68 @@ linkImage: ./banner.png
 
 ![Cypherpunks Work and ETC](./etc-course-3-intro.png)
 
-In the previous class we discussed that Ethereum Classic (ETC), and its incredibly secure and versatile functionality, is the product of decades of work by people who saw the potential of public key cryptography to create an internet free from centralization, capture, and manipulation by special interests.
+在上节课中，我们讨论了以太坊经典(ETC)及其令人难以置信的安全和多用途功能是某一些人几十年工作的产物。这些人看到了公钥加密的潜力，以创建一个不受集中、捕获和特殊利益操纵的互联网。
 
-These were the Cypherpunks.
+他们就是密码朋克。
 
-In this class of the Ethereum Classic Course we will explain how their first digital currency attempts worked and how they form part of Bitcoin and hence Ethereum Classic.
+在本节以太坊经典课程中，我们将解释他们的第一次数字货币尝试如何工作，以及他们如何形成比特币和因此以太坊经典的一部分。
 
-## Adam Back and Hash Cash
+## Adam Back与哈希现金
 
-![HashCash](./hashcash.png)
+![哈希现金](./hashcash.png)
 
-HashCash used proof of work; the heart of the technology in Bitcoin, and the heart of the consensus mechanism that ETC uses today; as a way of blocking spam in a peer-to-peer email system.
+HashCash使用了工作证明;它是比特币技术的核心，以及ETC今天使用的共识机制的核心;作为点对点电子邮件系统中拦截垃圾邮件的一种方式。
 
-The way it worked was that the sender email server had to do a lot of work before sending the email, and had to post the proof of work stamp on the email for the receiving server to verify that the work was done.
+它的工作方式是，发送方电子邮件服务器在发送电子邮件之前必须做很多工作，并且必须在电子邮件上张贴工作证明戳，以便接收方服务器验证工作已经完成。
 
-If, for example, the work demanded was 1 minute of computational cycles per email, then for any attacker to send, say, 1 million spam emails, its server would have to work 1 million minutes to be able to perpetrate the attack.
+例如，如果每封邮件所需要的工作是1分钟的计算周期，那么对于任何攻击者来说，例如，发送100万封垃圾邮件，其服务器将必须工作100万分钟才能实施攻击。
 
-This would, in practice, enable a peer-to-peer email system with little to no spam.
+在实践中，这将使点对点电子邮件系统几乎没有垃圾邮件
 
-## Nick Szabo and Bit Gold
+## Nick Szabo与特金（Bit Gold）
 
-![Bit Gold](./bit-gold-course.png)
+![比特金](./bit-gold-course.png)
 
-When Nick Szabo read about HashCash in early 1998 he immediately established the connection of the proof of work stamps with digital gold, which is an analogy of gold in the real world, but applied to the digital world.
+当Nick Szabo在1998年初读到哈希现金时，他立即建立了工作量证明戳与数字黄金的纽带。数字黄金是现实世界中的黄金的类比，但适用于数字世界。
 
-With this idea, he created a system called Bit Gold which became a precursor of Bitcoin and thus ETC.
+基于这个想法，他创建了一个名为比特金的系统，这成为了比特币和ETC的前身。
 
-Bit Gold puts to work a group of machines in a network to create proof of work stamps, and each one of these stamps is treated as digital gold.
+比特金让一组机器在网络中工作以创建工作量证明戳，其中每一个戳都被视为数字黄金。
 
-This method ensured that the creation of the proof of work stamps would be very costly, as real gold is very costly to extract from nature, therefore making Bit Gold proofs a sound type of money, but on the internet.
+这种方法确保了制作工作量证明戳的将是非常昂贵的，因为从自然界提取真金是非常昂贵的。因此使比特金证明是一种可靠的货币，但是其运用是在互联网上。
 
-## Wei Dai and B-money
+## Wei Dai与B-money
 
 ![B-money](./b-money.png)
 
-Wei Dai discussed the ideas of proof of work and Bit Gold with Nick Szabo in early 1998 and in late 1998 came up with the idea of B-money, a variation of Bit Gold.
+戴维在1998年初与Nick Szabo讨论了工作量证明和比特金的想法，并在1998年底提出了B-money的想法，也就是比特金的变体。
 
-The way B-money worked as a network protocol was very much how Bitcoin was designed and it is also the peer-to-peer and monetary reward method that Ethereum Classic uses.
+B-money作为网络协议的工作方式与比特币的设计方式非常相似，也是以太坊经典使用的点对点和货币奖励方式。
 
-Basically, of all the nodes in the network a sub-group, called miners, would create Bit Gold and then send it to the rest of the network for verification. Once the rest of the network nodes confirmed that the proof of work stamps were legit, then they would credit the accounts of the miners, in the ledger they managed, units of a digital currency that was issued for these purposes.
+基本上，在网络中的所有节点中，有一个名为“矿工”的子组将创建比特金，然后将其发送到网络的其他部分进行验证。一旦其他网络节点确认工作证明印章是合法的，他们就会在他们管理的账本中，将为这些目的而发行的数字货币的单位记入矿工的账户。
 
-## Hal Finney and RPOW
+## Hal Finney与RPOW（可重复使用工作量证明）
 
 ![RPOW](./rpow.png)
 
-Hal Finney also tried to create a proof of work monetary system based on the Bit Gold model that he called RPOW which stands for Reusable Proofs of Work.
+Hal Finney还试图创建一个基于比特金模型的工作证明货币系统，他称之为RPOW，意思是可重复使用工作量证明。
 
-Like HashCash, Bit Gold, and B-money, some of RPOW’s design was incorporated into Bitcoin by Satoshi Nakamoto and also forms part of ETC’s blueprint.
+与哈希现金、比特金和B-money一样，RPOW的一些设计被中本聪(Satoshi Nakamoto)纳入了比特币，也构成了ETC蓝图的一部分。
 
-RPOW consisted of a centralized verifying server that would confirm that the proofs of work sent between users were legitimate. Users would create their own Bit Gold in their machines, and then send them to others by email as payments. 
+RPOW由一个集中的验证服务器组成，它将确认用户之间发送的工作量证明是可靠合法的，用户便可以在自己的机器中创建自己的比特金，然后通过电子邮件将其发送给其他人作为支付方式。
 
-The system did not take off because the centralized server was a point of failure, but the verification process was a key contribution to the industry.
+由于集中式服务器是一个故障点，该系统未能成功，但RPOW的验证过程是该行业的一个关键性贡献。
 
-## Bitcoin and Ethereum Classic
+## 比特币与以太坊经典
 
-![Bitcoin and Ethereum Classic](./btc-etc-course.png)
+![比特币与以太坊经典](./btc-etc-course.png)
 
-What Satoshi Nakamoto did was to integrated all these pioneering ideas into Bitcoin, and then Ethereum Classic adopted the majority of Bitcoin’s model for its base security. 
+中本聪所做的就是将所有这些开创性的想法整合到比特币中，然后以太坊经典(Ethereum Classic)在基础安全方面采用了比特币的大部分模式。
 
-In the next class we will explain this in detail.
+在下节课中，我们将详细解释这一点。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+想要了解更多有关以太坊经典的内容，请访问: https://ethereumclassic.org
