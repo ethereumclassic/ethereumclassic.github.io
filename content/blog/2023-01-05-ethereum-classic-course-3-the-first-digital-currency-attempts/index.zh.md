@@ -26,7 +26,7 @@ linkImage: ./banner.png
 
 ## Adam Back与哈希现金
 
-![哈希现金](./hashcash-zh.png)
+![哈希现金](./hashcash-zh)
 
 HashCash使用了工作证明;它是比特币技术的核心，以及ETC今天使用的共识机制的核心;作为点对点电子邮件系统中拦截垃圾邮件的一种方式。
 
@@ -38,7 +38,7 @@ HashCash使用了工作证明;它是比特币技术的核心，以及ETC今天�
 
 ## Nick Szabo与特金（Bit Gold）
 
-![比特金](./bit-gold-course-zh.png)
+![比特金](./bit-gold-course-zh)
 
 当Nick Szabo在1998年初读到哈希现金时，他立即建立了工作量证明戳与数字黄金的纽带。数字黄金是现实世界中的黄金的类比，但适用于数字世界。
 
@@ -50,7 +50,7 @@ HashCash使用了工作证明;它是比特币技术的核心，以及ETC今天�
 
 ## Wei Dai与B-money
 
-![B-money](./b-money-zh.png)
+![B-money](./b-money-zh)
 
 戴维在1998年初与Nick Szabo讨论了工作量证明和比特金的想法，并在1998年底提出了B-money的想法，也就是比特金的变体。
 
@@ -60,7 +60,7 @@ B-money作为网络协议的工作方式与比特币的设计方式非常相似�
 
 ## Hal Finney与RPOW（可重复使用工作量证明）
 
-![RPOW](./rpow-zh.png)
+![RPOW](./rpow-zh)
 
 Hal Finney还试图创建一个基于比特金模型的工作证明货币系统，他称之为RPOW，意思是可重复使用工作量证明。
 
@@ -72,7 +72,7 @@ RPOW由一个集中的验证服务器组成，它将确认用户之间发送的�
 
 ## 比特币与以太坊经典
 
-![比特币与以太坊经典](./btc-etc-course-zh.png)
+![比特币与以太坊经典](./btc-etc-course-zh)
 
 中本聪所做的就是将所有这些开创性的想法整合到比特币中，然后以太坊经典(Ethereum Classic)在基础安全方面采用了比特币的大部分模式。
 
