@@ -39,7 +39,7 @@ The Ethereum ledger stores accounts and balances as Bitcoin, but adds software p
 To accomplish this it has 4 major components:
 
 - The Ethereum Virtual Machine (EVM)
-- A programming language called Solidity
+- A programming language
 - State transition
 - The gas system
 
@@ -55,9 +55,9 @@ This assured a unified way of operating the network and executing smart contract
 
 ## A Programming Language
 
-For software programs to be sent and stored in the network, and executed by the EVM, there had to be a common and compatible programming language. 
+For software programs to be sent and stored in the network, and executed by the EVM, there had to be some programming languages that would be compatible and adapted for a blockchain environment.
 
-Solidity is the programming language created to write programs for Ethereum.
+Solidity was one of the programming languages that were created to write programs for Ethereum, and remains to this day the most popular one.
 
 It is syntactically similar to JavaScript, which is widely used by many developers around the world, but it is adapted so it may work on a decentralized peer-to-peer setting.
 
