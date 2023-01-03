@@ -66,7 +66,7 @@ Rivet's founder, Greg Lang had this to say in the announcement:
 
 *Greg Lang, Founder, Rivet"*
 
-# Summary
+## Summary
 
 THE LAST DAY FOR THE CURRENT ETHERCLUSTER RPC ENDPOINT IS JULY 1ST OF 2023.
 
