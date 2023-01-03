@@ -74,7 +74,7 @@ The system did not take off because the centralized server was a point of failur
 
 ![Bitcoin and Ethereum Classic](./btc-etc-course.png)
 
-What Satoshi Nakamoto did was to integrated all these pioneering ideas into Bitcoin, and then Ethereum Classic adopted the majority of Bitcoin’s model for its base security. 
+What Satoshi Nakamoto did was to integrate all these pioneering ideas into Bitcoin, and then Ethereum Classic adopted the majority of Bitcoin’s model for its base security. 
 
 In the next class we will explain this in detail.
 
