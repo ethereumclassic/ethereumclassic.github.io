@@ -30,8 +30,6 @@ We will explain how Ethereum works and why Ethereum Classic is the original chai
 
 ## Ethereum
 
-![Ethereum](./v-and-eth-eth.png)
-
 Ethereum used the same base technology as Bitcoin but added programmability and migrated to proof of stake as its consensus mechanism.
 
 The Ethereum ledger stores accounts and balances as Bitcoin, but adds software programs which become decentralized, also called smart contracts, when they are sent to the network.
@@ -99,7 +97,7 @@ The benefit of proof of stake as a consensus mechanism is that it is more scalab
 
 ## Ethereum Classic Is the Original Ethereum
 
-![ETC is the original ETH.](./v-and-eth-etc-is-eth.png)
+![Ethereum](./v-and-eth-eth-etc.png)
 
 Ethereum Classic and Ethereum were one blockchain in the beginning, but then in 2016, due to a controversy with a dapp called The DAO,  Ethereum split to form what it is today the Ethereum proof of stake network.
 
