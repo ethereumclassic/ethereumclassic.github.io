@@ -58,7 +58,7 @@ Rivet's founder, Greg Lang had this to say in the announcement:
 
 ***Support:***
 
-*Speaking of which, if you’re building on ETC and need support—or you have questions, comments, or feature requests, please join the Rivet discord server. We’ve got eyes on it 24/7 and we love hearing from buidlers—so don’t hesitate to reach out! Link: https://discord.gg/7qUCDHqD*
+*Speaking of which, if you’re building on ETC and need support—or you have questions, comments, or feature requests, please join the Rivet discord server. We’ve got eyes on it 24/7 and we love hearing from buidlers—so don’t hesitate to reach out! Link: https://discord.gg/zANTsgdGeH*
 
 *Discord not your thing? No worries! Hit us up at support@rivet.cloud and we’ll get right back with you.*
 
