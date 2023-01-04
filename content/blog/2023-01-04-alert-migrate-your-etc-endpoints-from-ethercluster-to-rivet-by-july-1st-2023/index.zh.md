@@ -58,7 +58,7 @@ Rivet的创始人Greg Lang在公告中说:
 
 ***支持:***
 
-*说到这里，如果您正在构建ETC并需要支持，或者您有问题、评论或功能请求，请加入Rivet discord服务器。我们24/7在线，我们喜欢听到来自构建者的消息，所以不要犹豫，欢迎联系我们! 链接: https://discord.gg/7qUCDHqD*
+*说到这里，如果您正在构建ETC并需要支持，或者您有问题、评论或功能请求，请加入Rivet discord服务器。我们24/7在线，我们喜欢听到来自构建者的消息，所以不要犹豫，欢迎联系我们! 链接: https://discord.gg/zANTsgdGeH*
 
 *如果您不方便使用Discord，欢迎发邮件联系我们： support@rivet.cloud 我们会尽快回复您的消息。*
 
