@@ -4,19 +4,19 @@ date: 2023-01-17
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["News", "Tutorial"]
-linkImage: ./eof-banner.png
+linkImage: ./eof-banner-2.png
 ---
 
 ---
 **You can listen to or watch this video here:**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PtthsvecqFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3R0KNvEYI9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
 ## The EVM Needs an Upgrade
 
-![ETH and ETC use the same EVM.](./eof-evm.png)
+![EVM in ETH and ETC.](./eof-evm-2.png)
 
 Ever since the launch of the Ethereum network in 2015, one of its most important components, the Ethereum Virtual Machine (EVM) has hardly ever been upgraded.
 
@@ -28,7 +28,7 @@ However, now that the merge to proof of stake has already occurred in that netwo
 
 ## The EVM Object Format (EOF)
 
-![EOF](./eof-eof.png)
+![EOF upgrades.](./eof-eof-2.png)
 
 The EVM Object Format (EOF) is a group of improvement proposals that have accumulated over the years, but that together form a consistent and logically sound upgrade for the Ethereum Virtual Machine.
 
@@ -40,9 +40,11 @@ The motivations for these proposals are to solve some inefficiencies, high execu
 
 ## EIPs Included in EOF
 
-![EIPs included in the EOF upgrade.](./eof-eips.png)
+![EIPs included.](./eof-eips-2.png)
 
 The six EIPs included in the EOF upgrade are the following (summaries for each EIP were extracted from the improvement proposals themselves):
+
+- [EIP-3860](https://eips.ethereum.org/EIPS/eip-3860): It limits the maximum size of initcode to 49152 and applies extra gas cost of 2 for every 32-byte chunk of initcode. 
 
 - [EIP-3540](https://eips.ethereum.org/EIPS/eip-3540): An extensible and versioned container format for the EVM with a once-off validation at deploy time. The version described here brings the tangible benefit of code and data separation, and allows for easy introduction of a variety of changes in the future.
 
@@ -54,35 +56,36 @@ The six EIPs included in the EOF upgrade are the following (summaries for each E
 
 - [EIP-5450](https://eips.ethereum.org/EIPS/eip-5450): Introduces extended validation of code sections to guarantee that neither stack underflow nor overflow can happen during execution of validated contracts.
 
-- [EIP-2938](https://eips.ethereum.org/EIPS/eip-2938): Introduces account abstraction (AA) which allows a contract to be the top-level account that pays fees and starts transaction execution.
-
-- [EIP-3690](https://eips.ethereum.org/EIPS/eip-3690): Introduces a section in the EOF format (EIP-3540) for storing the list of JUMPDESTs, validates the correctness of this list at the time of contract creation, and removes the need for JUMPDEST-analysis at execution time.
-
 ## When Are the EOF Upgrades Expected to Happen?
 
-The Ethereum mainnet ecosystem has two upgrades, also called hard forks, programmed for 2023 and the EIPs for EOF will be included in both.
+The Ethereum mainnet ecosystem has two upgrades, also called hard forks, programmed for 2023 and the EIPs for EOF will be included in the first one, called Shanghai, which is aimed to be performed in March of 2023.
 
-**Shanghai hard fork, March of 2023:** 
+Again, the EIPs included in this hard fork include:
 
-This upgrade will include EIP-3540, EIP-3670, EIP-4200, EIP-4570, and EIP-5450.
+- EIP-3860 “Limit and meter initcode”
+- EIP-3540 “EVM Object Format v1”
+- EIP-3670 “Code Validation”
+- EIP-4200 “Static relative jumps”
+- EIP-4750 “Functions”
+- EIP-5450 “Stack Validation”
 
-**Cancun hard fork, fall of 2023:** 
-
-This upgrade will include EIP-2938 and EIP-3690.
-
-This means that, if everything goes according to plan, the Ethereum network EVM will be fully upgraded by the end of 2023 and that the Ethereum Classic blockchain will be totally compatible with the new EVM standard specifications by the first half of 2024, as it usually waits from 3 to 6 months to follow new upgrades for security reasons and because it is a more conservative blockchain. 
+This means that, if everything goes according to plan, the Ethereum network EVM will be fully upgraded by the first half of 2023 and that the Ethereum Classic blockchain will be totally compatible with the new EVM standard specifications by the second half of 2023, as it usually waits from 3 to 6 months to follow new upgrades for security reasons and because it is a more conservative blockchain. 
 
 ## ETC Cooperative’s Contribution to EOF
 
-![ETC Cooperative's will contribute to the EVM upgrade.](./eof-etc-coop.png)
+![ETC Cooperative's contribution to EOF.](./eof-etc-coop-2.png)
 
-The ETC Cooperative is a non-profit organization that is dedicated to supporting the Ethereum Classic network. One of its functions is to maintain and upgrade the protocol and software clients of ETC: Core Geth and Hyperledger Besu.
+The ETC Cooperative is a non-profit organization that is dedicated to supporting the Ethereum Classic network. One of its functions is to maintain and upgrade the protocol and software clients of ETC: Core Geth, Hyperledger Besu, and Erigon for ETC.
 
-The core developers who perform these tasks are Isaac Ardis and Chris Ziogas (Core Geth), and Diego López León (Hyperledger Besu).
+The core developers who perform these tasks are Isaac Ardis and Chris Ziogas (Core Geth and Erigon for ETC), and Diego López León (Hyperledger Besu).
 
-The contribution of the ETC Cooperative to the EOF project is that core developers Isaac Ardis and Chris Ziogas will help in the upgrade process of Go-Ethereum, the upstream software client of Core Geth that works on the Ethereum network, and Diego López León will help in the upgrade of Hyperledger Besu, the master and only branch of the client that works with ETC.
+The contribution of the ETC Cooperative to the EOF project is that core developers Isaac Ardis and Chris Ziogas will help in the upgrade process of the Erigon software client, the upstream master branch of the Erigon for ETC client, and Diego López León will help in the upgrade of Hyperledger Besu, the master branch of the client that works with ETC.
 
-The benefit to ETC is that it will necessarily inherit the EOF upgrades as Core Geth is a downstream client to Go-Ethereum that will stay compatible with the EVM standard, and Hyperledger Besu supports the ETC network in its master branch.
+The benefit to Ethereum Classic is that it will necessarily inherit the EOF upgrades as Erigon for ETC is a downstream client to Erigon that will stay compatible with the EVM standard, and Hyperledger Besu supports the ETC network in its master branch.
+
+An additional contribution of the ETC Cooperative to the EOF upgrade is that it will be helping the Vyper team through contracts with engineers Charles Cooper and Harry Kalogirou. 
+
+Vyper is an alternative smart contract language, so this is another path for testing EOF.
 
 ## Expected Results of the EOF Upgrade
 
@@ -110,6 +113,6 @@ This upgrade is certainly a major project and change in the industry.
 
 **Thank you for reading this article!**
 
-To learn more about the EOF upgrade, please go here: https://notes.ethereum.org/@ipsilon/evm-object-format-overview
+To learn more about the EOF upgrade please go to: https://notes.ethereum.org/@ipsilon/eof1-checklist
 
 To learn more about ETC please go to: https://ethereumclassic.org
