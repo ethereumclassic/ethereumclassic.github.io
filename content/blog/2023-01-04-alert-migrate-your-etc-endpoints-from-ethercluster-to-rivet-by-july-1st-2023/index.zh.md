@@ -16,7 +16,7 @@ linkImage: ./etc-endpoint-alert-banner.png
 
 ## 重要告知:
 
-[以太坊经典合作社宣布](https://etccooperative.org/posts/2023-01-02-the-ethereum-classic-rpc-url-is-changing-from-ethercluster-to-rivet-zh) 由2023年7月1日起，ETC合作社将停止Ethercluster品牌下的以太坊经典的RPC端点，并将服务完全迁移到Rivet，一个区块链云服务。
+[以太坊经典合作社宣布](https://etccooperative.org/posts/2023-01-02-the-ethereum-classic-rpc-url-is-changing-from-ethercluster-to-rivet-cn)由2023年7月1日起，ETC合作社将停止Ethercluster品牌下的以太坊经典的RPC端点，并将服务完全迁移到Rivet，一个区块链云服务。
 
 ![从Ethercluster到Rivet.](./etc-endpoint-alert-banner.png)
 
