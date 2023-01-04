@@ -28,7 +28,7 @@ However, now that the merge to proof of stake has already occurred in that netwo
 
 ## The EVM Object Format (EOF)
 
-![EOF upgrades.](./eof-eof-2png)
+![EOF upgrades.](./eof-eof-2.png)
 
 The EVM Object Format (EOF) is a group of improvement proposals that have accumulated over the years, but that together form a consistent and logically sound upgrade for the Ethereum Virtual Machine.
 
