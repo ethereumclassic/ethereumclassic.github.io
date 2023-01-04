@@ -44,17 +44,17 @@ The motivations for these proposals are to solve some inefficiencies, high execu
 
 The six EIPs included in the EOF upgrade are the following (summaries for each EIP were extracted from the improvement proposals themselves):
 
-- EIP-3860: It limits the maximum size of initcode to 49152 and applies extra gas cost of 2 for every 32-byte chunk of initcode. 
+- [EIP-3860](https://eips.ethereum.org/EIPS/eip-3860): It limits the maximum size of initcode to 49152 and applies extra gas cost of 2 for every 32-byte chunk of initcode. 
 
-- EIP-3540: An extensible and versioned container format for the EVM with a once-off validation at deploy time. The version described here brings the tangible benefit of code and data separation, and allows for easy introduction of a variety of changes in the future.
+- [EIP-3540](https://eips.ethereum.org/EIPS/eip-3540): An extensible and versioned container format for the EVM with a once-off validation at deploy time. The version described here brings the tangible benefit of code and data separation, and allows for easy introduction of a variety of changes in the future.
 
-- EIP-3670: Introduces code validation at contract creation time for EOF formatted (EIP-3540) contracts. Rejects contracts which contain truncated PUSH-data or undefined instructions. Legacy bytecode (code which is not EOF formatted) is unaffected by this change.
+- [EIP-3670](https://eips.ethereum.org/EIPS/eip-3670): Introduces code validation at contract creation time for EOF formatted (EIP-3540) contracts. Rejects contracts which contain truncated PUSH-data or undefined instructions. Legacy bytecode (code which is not EOF formatted) is unaffected by this change.
 
-- EIP-4200: Three new EVM jump instructions are introduced (RJUMP, RJUMPI and RJUMPV) which encode destinations as signed immediate values. These can be useful in the majority of (but not all) use cases and offer a cost reduction.
+- [EIP-4200](https://eips.ethereum.org/EIPS/eip-4200): Three new EVM jump instructions are introduced (RJUMP, RJUMPI and RJUMPV) which encode destinations as signed immediate values. These can be useful in the majority of (but not all) use cases and offer a cost reduction.
 
-- EIP-4750: Introduces the ability to have several code sections in EOF-formatted (EIP-3540) bytecode, each one representing a separate subroutine/function. Two new opcodes, CALLF and RETF, are introduced to call and return from such a function. Dynamic jump instructions are disallowed.
+- [EIP-4750](https://eips.ethereum.org/EIPS/eip-4750): Introduces the ability to have several code sections in EOF-formatted (EIP-3540) bytecode, each one representing a separate subroutine/function. Two new opcodes, CALLF and RETF, are introduced to call and return from such a function. Dynamic jump instructions are disallowed.
 
-- EIP-5450: Introduces extended validation of code sections to guarantee that neither stack underflow nor overflow can happen during execution of validated contracts.
+- [EIP-5450](https://eips.ethereum.org/EIPS/eip-5450): Introduces extended validation of code sections to guarantee that neither stack underflow nor overflow can happen during execution of validated contracts.
 
 ## When Are the EOF Upgrades Expected to Happen?
 
