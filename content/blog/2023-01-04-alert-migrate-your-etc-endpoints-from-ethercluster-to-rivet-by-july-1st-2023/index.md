@@ -32,16 +32,6 @@ If you are a wallet service, node operator, mining pool, dapp developer, or any 
 
 The last day for the current Ethercluster RPC endpoint is July 1st of 2023.
 
-## Summary
-
-The migration is from:
-
-[https://ethercluster.com/etc](https://ethercluster.com/etc)
-
-To:
-
-[https://etc.rivet.link](https://etc.rivet.link)
-
 PLEASE MIGRATE AS SOON AS POSSIBLE SO YOUR SERVICE DOES NOT SUFFER ANY INTERRUPTIONS IF YOU LEAVE IT FOR THE LAST MINUTE!
 
 ---
