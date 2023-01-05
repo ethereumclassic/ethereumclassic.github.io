@@ -14,28 +14,28 @@ linkImage: ./etc-endpoint-alert-banner.png
 
 ---
 
-## IMPORTANT ALERT:
+## 重要公告:
 
-The [ETC Cooperative has announced](https://etccooperative.org/posts/2023-01-02-the-ethereum-classic-rpc-url-is-changing-from-ethercluster-to-rivet-en) that by July 1st of 2023 it will discontinue the RPC endpoint for Ethereum Classic under the Ethercluster brand and will fully migrate the service to Rivet, a blockchain cloud service.
+[ETC合作社宣布](https://etccooperative.org/posts/2023-01-02-the-ethereum-classic-rpc-url-is-changing-from-ethercluster-to-rivet-en) 从2023年7月1日起将停止Ethercluster品牌下的以太坊经典的RPC端点，并将服务完全迁移到Rivet，一个区块链云服务。
 
-![From Ethercluster to Rivet.](./etc-endpoint-alert-banner.png)
+![从Ethercluster到Rivet.](./etc-endpoint-alert-banner.png)
 
-The Ethercluster endpoint that will be discontinued by July 1st of 2023 is:
+将于2023年7月1日停止的Ethercluster端点是:
 
 [https://ethercluster.com/etc](https://ethercluster.com/etc)
 
-The migration may be done immediately to the following RPC endpoint:
+可立即迁移到以下RPC端点:
 
 [https://etc.rivet.link](https://etc.rivet.link)
 
-If you are a wallet service, node operator, mining pool, dapp developer, or any other kind of user of the Ethercluster endpoints, please migrate as soon as possible to avoid interruptions.
+如果您是一个钱包服务，节点操作员，矿池，dapp开发者，或任何其他类型的Ethercluster端点用户，请您尽快迁移，以避免中断。
 
-The last day for the current Ethercluster RPC endpoint is July 1st of 2023.
+当前Ethercluster RPC端点的最后一天是2023年7月1日。
 
-PLEASE MIGRATE AS SOON AS POSSIBLE SO YOUR SERVICE DOES NOT SUFFER ANY INTERRUPTIONS IF YOU LEAVE IT FOR THE LAST MINUTE!
+为了您的服务不会被中断，，请您尽快迁移！
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+想了解有关以太坊经典更多内容，请访问: https://ethereumclassic.org
