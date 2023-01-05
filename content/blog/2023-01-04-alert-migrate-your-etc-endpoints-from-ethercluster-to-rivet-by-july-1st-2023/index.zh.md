@@ -32,7 +32,7 @@ linkImage: ./etc-endpoint-alert-banner.png
 
 当前Ethercluster RPC端点的最后一天是2023年7月1日。
 
-为了您的服务不会被中断，，请您尽快迁移！
+为了您的服务不会被中断，请您尽快迁移！
 
 ---
 
