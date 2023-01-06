@@ -62,7 +62,7 @@ Hyperledger Besu is an Ethereum Classic network node software, also called “so
 
 However, blockchain networks are not hierarchical systems where some machines have more clout than others or there are permissioned instances or privileges. In ETC all peer nodes are equal and all replicate the same exact state every 15 seconds.
 
-This replication means that all nodes actually have the role of receiving transactions and blocks and retransmitting them to all other nodes. Similarly, when new nodes connect to the network, they consult with existing participating nodes what is the state of the network and then download from them all the history in what is called the Initial Block Download (IBD).
+This replication means that all nodes actually have the role of receiving transactions and blocks and retransmitting them to all other nodes. Similarly, when new nodes connect to the network, they consult with existing participating nodes on the state of the network and then download from them all the history in what is called the Initial Block Download (IBD).
 
 Due to this equal status of all nodes in the network and that all send and receive information from all other nodes, then there are no real distinct server and client roles, but they are all really servers and clients. 
 
