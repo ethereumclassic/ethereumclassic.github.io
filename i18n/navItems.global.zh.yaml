@@ -88,7 +88,7 @@ learn:
         tutorials:
           name: 教程
         mining:
-          name: 采矿业
+          name: 矿业
         conferences:
           name: 会议
           navItems:
@@ -186,19 +186,19 @@ play:
     #__link: /network/statistics
     #name: Statistics
     mining:
-      name: 采矿业
+      name: 矿业
       description: 矿池、软件和硬件要求将帮助你开采ETC以获得乐趣和利润
       navItems:
         hardware:
           name: 硬件设施
           description: 关于什么样的设备最适合用来开采ETC获利的信息
         software:
-          name: 软件
-          longName: 采矿软件
+          name: 挖矿软件
+          longName: 挖矿软件
           description: 可用于在各种操作系统上开采ETC的工具清单
         pools:
-          name: 游泳池
-          longName: 采矿池
+          name: 矿池
+          longName: 矿池
           description: 加入矿池后，你可以根据拥有的能量而不是发现的区块来获利。
     develop:
       name: 发展
