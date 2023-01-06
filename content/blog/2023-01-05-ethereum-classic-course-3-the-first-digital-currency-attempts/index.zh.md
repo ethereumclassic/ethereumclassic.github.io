@@ -26,7 +26,7 @@ linkImage: ./banner.png
 
 ## Adam Back与哈希现金
 
-![哈希现金](./hashcash-zh)
+![哈希现金](./hashcash-zh.png)
 
 HashCash使用了工作证明;它是比特币技术的核心，以及ETC今天使用的共识机制的核心;作为点对点电子邮件系统中拦截垃圾邮件的一种方式。
 
