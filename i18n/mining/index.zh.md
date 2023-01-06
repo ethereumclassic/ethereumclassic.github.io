@@ -1,5 +1,5 @@
 ---
-title: 采矿资源
+title: 挖矿资源
 seo: 为什么Ethereum Classic是加密货币挖矿的最佳长期选择，以及涵盖硬件、软件和矿池的资源集合。
 updated: 2022-02-22
 ---
@@ -10,4 +10,4 @@ updated: 2022-02-22
 
 挖矿是任何工作证明区块链最重要的元素之一，因为它提供了安全允许节点对网络的状态达成共识。 作为提供这种服务的交换，世界上任何一个人都可以在没有许可的情况下贡献哈希值，并根据排放曲线和交易费用在每个区块获得 ETC 的奖励。
 
-以下是为 Ethereum Classic 开发的采矿资源的非详尽集合。 如果你有关于采矿的问题，在 [Ethereum Classic Discord](/community/channels)，有一个活跃的采矿频道。
+以下是为 Ethereum Classic 开发的挖矿资源的非详尽集合。 如果你有关于挖矿的问题，在 [Ethereum Classic Discord](/community/channels)，有一个活跃的挖矿频道。
