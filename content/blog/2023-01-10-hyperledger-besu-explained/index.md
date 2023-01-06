@@ -122,7 +122,7 @@ To run Hyperledger Besu as an Ethereum Classic node, node operators and miners m
 
 [https://github.com/hyperledger/besu](https://github.com/hyperledger/besu)
 
-To activate it pointing to the ETC blockchain, the following command must be used to initiated it:
+To activate it pointing to the ETC blockchain, the following command must be used to initiate it:
 
 `--network=classic`
 
