@@ -9,7 +9,7 @@ items:
       hardware:
         question: 我需要什么硬件来开采ETC？
         answer: |
-          可用于开采Ethereum Classic的两个主要硬件类别是GPU和ASIC，每个类别中都有许多选择。你可以在[采矿硬件](/mining/hardware)部分找到关于如何决定使用什么的简短指南。
+          可用于开采Ethereum Classic的两个主要硬件类别是GPU和ASIC，每个类别中都有许多选择。你可以在[挖矿硬件](/mining/hardware)部分找到关于如何决定使用什么的简短指南。
       software:
         question: 我可以用什么软件来开采ETC？
         answer: |
@@ -21,7 +21,7 @@ items:
       pools:
         question: 什么是矿池？
         answer: |
-          由于Ethereum Classic享有很大的哈斯率，一个小的单人矿工不太可能幸运地自己挖到一个区块。出于这个原因，除非你有一个大型的采矿作业，否则单干的矿工通常会加入一个采矿池，以获得较小的更有规律的奖励，与他们贡献的哈希值成正比。
+          由于Ethereum Classic享有很大的哈斯率，一个小的单人矿工不太可能幸运地自己挖到一个区块。出于这个原因，除非你有一个大型的挖矿作业，否则单干的矿工通常会加入一个矿池，以获得较小的更有规律的奖励，与他们贡献的哈希值成正比。
       poolsList:
         question: 哪些矿池支持ETC？
         answer: |
