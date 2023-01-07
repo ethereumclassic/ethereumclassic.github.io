@@ -96,7 +96,7 @@ items:
       ether:
         question: 什么是以太？
         answer: |
-          以太币是Ethereum Classic的原生代币，是一种在数字货币交易所交易的加密货币，股票代码为**ETC**。以太币是作为对网络节点的奖励而产生的，这个过程被称为采矿，它验证了在Ethereum Classic的EVM上进行的计算。
+          以太币是Ethereum Classic的原生代币，是一种在数字货币交易所交易的加密货币，股票代码为**ETC**。以太币是作为对网络节点的奖励而产生的，这个过程被称为挖矿，它验证了在Ethereum Classic的EVM上进行的计算。
 
           以太币和ETC表示原生加密货币，用于支付安装新智能合约等任务。
           [什么是以太币和以太坊？](https://youtu.be/fjnovGRQrRE)
