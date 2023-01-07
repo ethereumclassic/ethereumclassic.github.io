@@ -1,5 +1,5 @@
 ---
-title: 采矿硬件指南
+title: 挖矿硬件指南
 contributors:
   - "IstoraMandiri"
   - "wpwrak"
@@ -8,7 +8,7 @@ contribute: true
 seo: 以太坊经典挖矿的硬件要求的简短解释，包括ETHash与ETCHash、SHA3、GPU和ASIC。
 ---
 
-挖掘Ethereum Classic与挖掘Ethereum几乎相同，支持相同的硬件和挖掘软件。 如果你是最近被驱逐的以太坊矿工，Ethereum Classic喜欢它的矿工并欢迎你，你可以使用你现有的硬件开始挖ETC，只需切换到支持Ethereum Classic的 [采矿池](/mining/pools)。
+挖掘Ethereum Classic与挖掘Ethereum几乎相同，支持相同的硬件和挖掘软件。 如果你是最近被驱逐的以太坊矿工，Ethereum Classic喜欢它的矿工并欢迎你，你可以使用你现有的硬件开始挖ETC，只需切换到支持Ethereum Classic的 [矿池](/mining/pools)。
 
 ## ETCHash
 
