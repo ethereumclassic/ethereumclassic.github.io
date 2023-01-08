@@ -1,5 +1,5 @@
 title: 개발 가이드
-seo: 이더리움 클래식에 배포하는 방법에 대한 설명과 함께 초보자와 고급 개발자 모두를 위한 튜토리얼 및 설명자 선택.
+seo: Ethereum Classic에 배포하는 방법에 대한 설명과 함께 초보자와 고급 개발자 모두를 위한 다양한 튜토리얼 및 설명자.
 description: |
   스마트 계약을 작성하고 Ethereum Classic에 배포하는 프로세스는 Ethereum의 경우와 동일합니다. Ethereum Classic의 목표 중 하나는 ETH와의 호환성을 유지하여 Ethereum에 배포된 모든 계약을 Ethereum Classic에 쉽게 재배포할 수 있도록 하는 것입니다.
 
@@ -80,7 +80,7 @@ items:
         description: ETC를 위한 첫 번째 스마트 계약을 구축하십시오.
       Kotti Solidity ETC Oh My:
         name: 코티, 솔리디티 등, 오마이!
-        description: 이 가이드는 Ethereum Classic의 Kotti 테스트넷에 대한 초기 구성과 ETC<>ETH 호환 dapp 개발을 위한 특정 버전의 Solidity를 보여줍니다. Kotti는 dapp 개발자에게 권장되는 테스트넷입니다. Mordor는 프로토콜 수준 테스트에 권장됩니다.
+        description: 이 가이드는 Ethereum Classic의 Kotti 테스트넷에 대한 초기 구성과 ETC<>ETH 호환 dapp 개발을 위한 특정 버전의 Solidity를 설명합니다. Kotti는 dapp 개발자에게 권장되는 테스트넷입니다. Mordor는 프로토콜 수준 테스트에 권장됩니다.
       How to contribute to Mordor Testnet:
         name: 모르도르 테스트넷에 기여하는 방법
         description: 이 가이드는 테스트넷 ETC를 채굴하고 Expedition으로 로컬 블록 탐색기를 실행하는 방법을 알려줍니다. Kotti는 dapp 개발자에게 권장되는 테스트넷입니다. Mordor는 프로토콜 수준 테스트에 권장됩니다.

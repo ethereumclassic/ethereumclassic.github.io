@@ -2,7 +2,7 @@
 updated: 2022-02-22
 contribute: true
 title: Événements
-seo: Un aperçu des événements réels et virtuels liés à Ethereum Classic. Le sommet de l'ETC et l'appel communautaire hebdomadaire sont ouverts à tous !
+seo: Un aperçu des événements réels et virtuels liés à Ethereum Classic. ETC Summit et l'appel communautaire hebdomadaire sont ouverts à tous !
 contributors:
   - IstoraMandiri
   - bobsummerwill
