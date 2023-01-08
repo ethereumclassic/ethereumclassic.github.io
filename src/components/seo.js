@@ -29,14 +29,18 @@ export default function Seo({
   const { isDark } = useTheme();
   const is404 = basePath === "404";
   const url = `${siteUrl}${path}`;
-  const image = `${siteUrl}${socialImage}`; // LODO extract first image from MDX, somehow
+  const dynamicImage =
+    data?.mdx?.fields?.featuredImage?.childImageSharp?.gatsbyImageData?.images
+      ?.fallback?.src;
+  const pageImage = dynamicImage || socialImage;
+  const image = `${siteUrl}${pageImage}`;
   const pageTitle = data?.mdx?.meta?.title || i18n.title || ui.title;
   const title = pageTitle.includes(ui.title)
     ? pageTitle
     : `${pageTitle} - ${ui.title}`;
   const author = data?.mdx?.meta?.author || i18n.author;
   const updated = data?.mdx?.meta?.updated || i18n.updated;
-  const published = data?.mdx?.meta?.published || i18n.published;
+  const published = data?.mdx?.meta?.date || i18n.date;
   const description = [
     data?.mdx?.meta?.seo,
     i18n.seo,
@@ -148,7 +152,11 @@ export default function Seo({
           <meta key="og:locale" property="og:locale" content={ui.metaLocale} />,
           <meta key="og:url" property="og:url" content={url} />,
           // twitter tags
-          <meta key="twitter:card" name="twitter:card" content="summary" />,
+          <meta
+            key="twitter:card"
+            name="twitter:card"
+            content={dynamicImage ? "summary_large_image" : "summary"}
+          />,
           <meta key="twitter:title" name="twitter:title" content={title} />,
           <meta
             key="twitter:description"

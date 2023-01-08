@@ -1,5 +1,5 @@
 title: Public Endpoints
-__updated: 2022-02-22
+__updated: 2022-12-22
 __contribute: 1
 seo: A list of Remote Procedure Call (RPC) endpoints that can be used to interact with ETC via MetaMask and other applications.
 description: |
@@ -11,7 +11,7 @@ description: |
 
   For more information on other networks, check out the [testnets](/development/testnets) section.
 
-  **It is recommended to select one of the realtime-monitored ETC RPC endpoints over at [ChainList.org](https://chainlist.org/en/chain/61).**
+  **It is recommended to select one of the realtime-monitored ETC RPC endpoints over at [ChainList.org](https://chainlist.org/chain/61).**
 __contributors:
   - arvicco
   - dax-classix
@@ -31,53 +31,49 @@ items:
       rpcUrl:
         name: RPC URL
     items:
-      Ethercluster:
-        __rpcUrl: https://www.ethercluster.com/etc
-        __link: https://www.ethercluster.com
-        __name: Ethercluster
-      Ethercluster (Kotti):
-        __rpcUrl: https://www.ethercluster.com/kotti
-        __link: https://www.ethercluster.com
-        __name: Ethercluster (Kotti)
-      Ethercluster (Mordor):
+      ETC Cooperative:
+        __rpcUrl: https://etc.rivet.link
+        __link: https://rivet.link
+        __name: ETC Cooperative
+      ETC Cooperative (Mordor):
         __rpcUrl: https://www.ethercluster.com/mordor
         __link: https://www.ethercluster.com
-        __name: Ethercluster (Mordor)
-      Ethercluster (Goerli):
-        __rpcUrl: https://www.ethercluster.com/goerli
-        __link: https://www.ethercluster.com
-        __name: Ethercluster (Goerli)
-      ETC-Network.info BESU:
-        __rpcUrl: https://besu.etc-network.info
+        __name: ETC Cooperative (Mordor)
+      HebeBlock:
+        __rpcUrl: https://etc.etcdesktop.com/
+        __link: https://etcdesktop.com/
+        __name: HebeBlock
+      ETC-Network.info DE BESU:
+        __rpcUrl: https://besu-de.etc-network.info
         __link: https://www.etc-network.info
         __name: ETC-Network.info BESU
-      ETC-Network.info GETH:
-        __rpcUrl: https://geth.etc-network.info
+      ETC-Network.info AT BESU:
+        __rpcUrl: https://besu-at.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info BESU
+      ETC-Network.info DE GETH:
+        __rpcUrl: https://geth-de.etc-network.info
         __link: https://www.etc-network.info
         __name: ETC-Network.info GETH
-      ETC-Network.info ETCP:
-        __rpcUrl: https://rpc.etcplanets.com
-        __link: https://etcplanets.com
-        __name: ETC Planets RPC
-      ETC-Network.info GETH (Goerli):
-        __rpcUrl: https://geth-goerli.etc-network.info
+      ETC-Network.info AT GETH:
+        __rpcUrl: https://geth-at.etc-network.info
         __link: https://www.etc-network.info
-        __name: ETC-Network.info GETH (Goerli)
-      ETC-Network.info GETH (Kotti):
-        __rpcUrl: https://geth-kotti.etc-network.info
-        __link: https://www.etc-network.info
-        __name: ETC-Network.info GETH (Kotti)
+        __name: ETC-Network.info GETH
       ETC-Network.info GETH (Mordor):
         __rpcUrl: https://geth-mordor.etc-network.info
         __link: https://www.etc-network.info
         __name: ETC-Network.info GETH (Mordor)
-      BlockScout API:
-        __link: https://blockscout.com/etc/mainnet/api-docs
-        __name: BlockScout API
-        __rpcUrl: <API Key Required>
-      RIVET API:
-        __link: https://rivet.cloud/
-        __name: RIVET
+      ETC Planets:
+        __rpcUrl: https://rpc.etcplanets.com
+        __link: https://etcplanets.com
+        __name: ETC Planets RPC
+      TokenPocket:
+        __link: https://etc.mytokenpocket.vip/
+        __rpcUrl: http://mytokenpocket.vip
+        __name: TokenPocket
+      Rivet:
+        __link: https://rivet.cloud
+        __name: Rivet
         __rpcUrl: <API Key Required>
       TokenView API:
         __link: https://services.tokenview.com

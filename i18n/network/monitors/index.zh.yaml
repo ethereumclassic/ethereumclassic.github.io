@@ -1,5 +1,5 @@
 title: 网络监控器
-seo: 检查Ethereum Classic网络健康状况的工具，以及一般的统计数据，如发行量、交易量和采矿盈利能力。
+seo: 检查Ethereum Classic网络健康状况的工具，以及一般的统计数据，如发行量、交易量和挖矿盈利能力。
 description: |
   下面是一些工具的选择，它们提供了对与Ethereum Classic相关的广泛指标的洞察力。它们共同提供了一个关于网络健康和状态的全方位分析。
 items:
@@ -18,7 +18,7 @@ items:
       Emerald Insights:
         description: Emerald Insights是Emerald项目的一部分，它应该提供关于Emerald使用的加密货币的统计、监测和高级信息。
       ForkWatch:
-        description: ForkWatch是一个NiceHash监控工具，它对NiceHash市场上特定算法的异常情况发出警报，特别是当租用BTC/TH/Day的价格发生变化时。这可以帮助特定硬币的利益相关者得到警告，以防采矿能力有可能被租借到特定网络的攻击中。
+        description: ForkWatch是一个NiceHash监控工具，它对NiceHash市场上特定算法的异常情况发出警报，特别是当租用BTC/TH/Day的价格发生变化时。这可以帮助特定硬币的利益相关者得到警告，以防挖矿能力有可能被租借到特定网络的攻击中。
       MiningPoolStats:
         description: 关于ETC上矿池状态的实时统计，包括区块分布、hashrate历史等。
       Nanopool:

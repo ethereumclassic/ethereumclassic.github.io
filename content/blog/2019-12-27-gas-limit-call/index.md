@@ -13,7 +13,6 @@ tags:
     "media",
   ]
 seo: There was a call on discord discussing limiting ETC's block gas limit
-linkImage: ./call.jpg
 ---
 
 ![Call Flavor Image](./call.jpg)

@@ -1,6 +1,6 @@
 ---
-title: "ETC website translated to Korean"
-date: 2022-11-27
+title: "ETC website translated to Spanish"
+date: 2022-12-05
 author: Istora
 tags: ["announcement"]
 ---

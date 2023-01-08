@@ -218,6 +218,10 @@ items:
         __link: https://signatory.dev/
         __name: Signatory
         description: An offline transaction and message signer for the Ethereum Stack.
+      Sidekik:
+        __link: https://sidekik.xyz/
+        __name: Sidekik
+        description: Debug, test, and grok smart contracts with a visual UI that lets you interact with local or deployed EVM-based smart contracts.
       SOLL:
         __link: https://github.com/second-state/soll
         __name: SOLL
@@ -243,10 +247,10 @@ items:
         __link: https://dappnode.io/
         __name: DappNode
         description: DAppNode facilitates running nodes, DApps and hosting P2P networks and economies.
-      Ethercluster:
-        __link: https://www.ethercluster.com/
-        __name: Ethercluster
-        description: Ethercluster is an open-sourced Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) providing Ethereum Classic (ETC) and Kotti endpoints for free.
+      Rivet:
+        __link: https://rivet.link/
+        __name: Rivet
+        description: Rivet is an Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) providing Ethereum Classic (ETC) endpoints.
       GetBlock:
         __name: GetBlock
         __link: https://getblock.io
