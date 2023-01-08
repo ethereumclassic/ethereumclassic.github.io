@@ -13,9 +13,9 @@ items:
       policy:
         question: ETC的货币政策是什么？
         answer: |
-          与比特币类似，Ethereum Classic作为一个固定的排放曲线，意味着你可以准确预测未来任何时候存在的ETC总量。这可以防止通货膨胀的死亡螺旋，并使ETC成为一个强大的价值存储。
+          类似于比特币，以太坊经典作为一个固定的排放曲线，这意味着你可以准确地预测未来任何时候存在的 ETC 总量。这可以防止通货膨胀死亡螺旋，并使 ETC 成为强大的价值储存手段。
 
-          在[健全的货币](/why-classic/sound-money)部分阅读更多关于ETC的货币政策。
+          在 [Sound Money](/why-classic/sound-money) 部分阅读有关 ETC 货币政策的更多信息。
       elevator:
         question: 以太坊经典版的电梯广告是什么？
         answer: |

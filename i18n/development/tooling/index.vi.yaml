@@ -45,6 +45,8 @@ items:
         description: Một IDE trong trình duyệt hữu ích có thể biên dịch và xuất bản các hợp đồng thông minh lên các mạng Ethereum khác nhau. Bao gồm một linter.
       Signatory:
         description: Một giao dịch ngoại tuyến và người ký thông báo cho Ethereum Stack.
+      Sidekik:
+        description: Gỡ lỗi, thử nghiệm và tìm kiếm các hợp đồng thông minh bằng giao diện người dùng trực quan cho phép bạn tương tác với các hợp đồng thông minh dựa trên EVM cục bộ hoặc đã triển khai.
       SOLL:
         description: Trình biên dịch LLVM cuối cùng cũng đến với Solidity. Với nó, chúng tôi có thể dễ dàng tạo các hợp đồng thông minh trên nhiều máy ảo blockchain. EVM trên Ethereum Classic và eWASM của ETH 2.0 là một trong những công cụ đầu tiên chúng tôi hỗ trợ.
       Sputnikvm:
@@ -59,8 +61,8 @@ items:
         description: BloqCloud cung cấp quyền truy cập luôn sẵn sàng, được tối ưu hóa cao vào các mạng blockchain. Kết nối nhanh chóng và mở rộng quy mô dễ dàng dựa trên nhu cầu của bạn - mà không phải lo lắng về việc quản lý cơ sở hạ tầng.
       DappNode:
         description: DAppNode tạo điều kiện cho việc chạy các nút, DApp và lưu trữ các mạng và nền kinh tế P2P.
-      Ethercluster:
-        description: Ethercluster là một cuộc gọi thủ tục từ xa (RPC) của Máy ảo Ethereum (EVM) có nguồn mở cung cấp miễn phí các điểm cuối Ethereum Classic (ETC) và Kotti.
+      Rivet:
+        description: Rivet là một Cuộc gọi thủ tục từ xa (RPC) của Máy ảo Ethereum (EVM) cung cấp các điểm cuối Ethereum Classic (ETC).
       GetBlock:
         description: GetBlock là một dịch vụ cung cấp kết nối cho các nút chính của tiền điện tử. Chúng hỗ trợ các công cụ như JSON-RPC, REST và WebSockets, tạo điều kiện đồng bộ hóa trực tiếp với blockchain. Không cần phải tự mình chạy một nút, nền tảng cho phép khách hàng của mình kết nối với một chuỗi khối thông qua một nút đầy đủ mà không phải trả phí.
       Google BigQuery:

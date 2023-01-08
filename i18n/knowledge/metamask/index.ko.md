@@ -71,14 +71,12 @@ ETC를 기본적으로 지원하는 MetaMask의 포크인 [Nifty Wallet](https:/
 다음 단계는 Ethereum Classic의 특정 정보를 추가하는 것입니다. 아래는 내가 사용한 네트워크 데이터입니다.
 
 - 네트워크 이름: `이더리움 클래식`
-- 새 RPC URL: `https://www.ethercluster.com/etc`
+- 새 RPC URL: `https://etc.rivet.link`
 - 체인 ID: `61`
 - 통화 기호(선택 사항): `ETC`
 - 블록 탐색기 URL(선택 사항): `https://blockscout.com/etc/mainnet/`
 
-"RPC URL"에는 [ETC Cooperative](https://etccooperative.org/)에서 제공한 URL을 사용했습니다. 이 URL은 [Ethercluster](https://ethercluster.com/)이라는 제품에서 만든 것입니다.
-
-_[편집자 주] Ethercluster는 이제 [RIVET](https://rivet.cloud/)에 의해 운영됩니다. [네트워크](/network/endpoints) 섹션에서 더 많은 RPC 종점을 찾을 수 있습니다._
+"RPC URL"의 경우 이 목적을 위해 [ETC Cooperative](https://etccooperative.org) 와 계약을 맺은 [Rivet](https://rivet.link/)이라는 회사에서 이 목적을 위해 제공한 끝점을 사용했습니다. [네트워크](/network/endpoints) 섹션에서 더 많은 RPC 종점을 찾을 수 있습니다.
 
 "Chain ID"는 "61"이어야 합니다. 지갑과 노드에서 운영하는 블록체인으로 ETC 트랜잭션을 보내기 위한 Ethereum Classic 네트워크의 특정 ID이기 때문입니다.
 
@@ -86,7 +84,7 @@ _[편집자 주] Ethercluster는 이제 [RIVET](https://rivet.cloud/)에 의해 
 
 MetaMask에 ETC를 추가하려면 "저장"을 클릭하십시오.
 
-![6단계](./06.png)
+![6단계](./06-rivet.png)
 
 ## 7단계: 네트워크 드롭다운 메뉴에서 Ethereum Classic 보기
 

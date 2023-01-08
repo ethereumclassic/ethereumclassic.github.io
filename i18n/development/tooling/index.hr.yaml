@@ -45,6 +45,8 @@ items:
         description: Koristan IDE unutar preglednika koji može sastaviti i objaviti pametne ugovore na raznim Ethereum mrežama. Uključuje linter.
       Signatory:
         description: Izvanmrežni potpisnik transakcija i poruka za Ethereum Stack.
+      Sidekik:
+        description: Otklanjanje pogrešaka, testiranje i grok pametnih ugovora s vizualnim korisničkim sučeljem koje vam omogućuje interakciju s lokalnim ili implementiranim pametnim ugovorima temeljenim na EVM-u.
       SOLL:
         description: LLVM kompajler konačno dolazi u Solidity. S njim možemo jednostavno stvoriti pametne ugovore na više blockchain VM-ova. EVM na Ethereum Classic i eWASM ETH 2.0 među prvima su koje podržavamo.
       Sputnikvm:
@@ -59,8 +61,8 @@ items:
         description: BloqCloud pruža visoko optimiziran, uvijek dostupan pristup blockchain mrežama. Povežite se brzo i lako skalirajte na temelju svojih potreba -- bez brige o upravljanju infrastrukturom.
       DappNode:
         description: DAppNode olakšava pokretanje čvorova, DApps i hosting P2P mreža i ekonomija.
-      Ethercluster:
-        description: Ethercluster je otvoreni izvor Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) koji pruža Ethereum Classic (ETC) i Kotti krajnje točke besplatno.
+      Rivet:
+        description: Rivet je Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) koji pruža Ethereum Classic (ETC) krajnje točke.
       GetBlock:
         description: GetBlock je usluga koja pruža vezu za glavne čvorove kriptovaluta. Podržavaju takve alate kao što su JSON-RPC, REST i WebSockets, što olakšava izravnu sinkronizaciju s blockchainom. Nema potrebe da sami pokrećete čvor, platforma svojim korisnicima omogućuje povezivanje s blockchainom putem punog čvora bez plaćanja naknade.
       Google BigQuery:

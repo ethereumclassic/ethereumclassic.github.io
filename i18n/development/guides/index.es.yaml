@@ -1,5 +1,5 @@
 title: Guías de desarrollo
-seo: Una selección de tutoriales y explicaciones tanto para principiantes como para desarrolladores avanzados, con una explicación de cómo desplegar en Ethereum Classic.
+seo: Una selección de tutoriales y explicaciones tanto para principiantes como para desarrolladores avanzados, con una explicación de cómo implementar en Ethereum Classic.
 description: |
   El proceso de creación y despliegue de contratos inteligentes en Ethereum Classic es el mismo que en Ethereum. Uno de los objetivos de Ethereum Classic es mantener la compatibilidad con ETH, de modo que cualquier contrato desplegado en Ethereum pueda ser fácilmente redistribuido en Ethereum Classic.
 
@@ -80,7 +80,7 @@ items:
         description: Construye tu primer contrato inteligente para ETC.
       Kotti Solidity ETC Oh My:
         name: Kotti, Solidity, ETC, ¡Oh My!
-        description: Esta guía ilustra una configuración inicial para la red de pruebas Kotti de Ethereum Classic y una versión específica de Solidity para el desarrollo de aplicaciones compatibles con ETC<>ETH. Kotti es la red de pruebas recomendada para los desarrolladores de aplicaciones. Mordor se recomienda para las pruebas a nivel de protocolo.
+        description: Esta guía ilustra una configuración inicial para la red de prueba Kotti de Ethereum Classic y una versión específica de Solidity para el desarrollo de dapp compatible con ETC<>ETH. Kotti es la red de prueba recomendada para los desarrolladores de dapp. Se recomienda Mordor para pruebas de nivel de protocolo.
       How to contribute to Mordor Testnet:
         name: Cómo contribuir a Mordor Testnet
         description: Esta guía le enseñará cómo minar testnet ETC y ejecutar su propio explorador de bloques local con Expedition. Kotti es la red de prueba recomendada para los desarrolladores de aplicaciones. Mordor se recomienda para las pruebas a nivel de protocolo.

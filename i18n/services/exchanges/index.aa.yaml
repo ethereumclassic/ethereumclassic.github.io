@@ -24,7 +24,7 @@ items:
   Trust-Minimizing Exchanges:
     __type: buttons
     title: crwdns71300:0crwdne71300:0
-    description: crwdns71302:0crwdne71302:0
+    description: crwdns108629:0crwdne108629:0
     items:
       dYdX:
         __link: https://trade.dydx.exchange/trade/ETC-USD
@@ -441,6 +441,9 @@ items:
       StealthEx:
         __link: https://stealthex.io/
         __name: StealthEx
+      Swapika:
+        __name: Swapika
+        __link: https://swapika.com/exchange-pairs/btc-to-etc
       SwapSpace:
         __name: SwapSpace
         __link: https://swapspace.co/?from=etc&to=btc&amount=1

@@ -1,15 +1,15 @@
 title: Openbare eindpunten
 seo: Een lijst van Remote Procedure Call (RPC) eindpunten die kunnen worden gebruikt voor interactie met ETC via MetaMask en andere toepassingen.
 description: |
-  Remote Procedure Call (RPC) Endpoints zijn uw toegangspoort tot Ethereum Classic, en laten u toe te communiceren met en gegevens te lezen van de ETC keten. Voor maximale betrouwbaarheid draait u een [ETC Client](/development/clients) lokaal; een lokaal endpoint wordt meestal beschikbaar gesteld op `http://localhost:8545`.
+  Remote Procedure Call (RPC)-eindpunten zijn uw toegangspoort tot Ethereum Classic en stellen u in staat om te communiceren met en gegevens uit de ETC-keten te lezen. Voor maximale betrouwbaarheid voer je lokaal een [ETC Client](/development/clients) uit; een lokaal eindpunt wordt meestal beschikbaar gesteld op `http://localhost:8545`. Er zijn ook openbare
 
-  Openbare Ethereum Classic RPC endpoints zijn ook beschikbaar, gratis voor de gemeenschap of als abonnementsdienst. Omdat u transacties lokaal kunt ondertekenen en uitzenden met behulp van een portemonnee zoals [MetaMask](/guides/metamask), kunnen openbare eindpunten worden gebruikt met behoud van uw privésleutels.
+  Classic RPC-eindpunten beschikbaar, die ofwel gratis aan de gemeenschap of als abonnementsservice worden verstrekt. Omdat u transacties lokaal kunt ondertekenen en uitzenden met behulp van een portemonnee zoals [MetaMask](/guides/metamask), kunnen openbare eindpunten worden gebruikt met behoud van uw privésleutels.
 
-  U kunt deze URL's gebruiken voor transacties en deployen naar ETC (of zijn testnetten) door uw wallet of deployment tool configuratie aan te passen. Zorg ervoor dat u ook uw Chain ID verandert in `61` voor Ethereum Classic mainnet.
+  U kunt deze URL's gebruiken om transacties uit te voeren en te implementeren in ETC (of zijn testnetten) door uw portemonnee of implementatietoolconfiguratie bij te werken. Zorg ervoor dat u ook uw Chain ID wijzigt in `61` voor het Ethereum Classic-mainnet.
 
-  Kijk voor meer informatie over andere netwerken op [testnets](/development/testnets).
+  Ga voor meer informatie over andere netwerken naar de sectie [testnets](/development/testnets).
 
-  **Het is aanbevolen om een van de realtime gecontroleerde ETC RPC eindpunten te selecteren op [ChainList.org](https://chainlist.org/en/chain/61).**
+  **Het wordt aanbevolen om een van de realtime-gecontroleerde ETC RPC-eindpunten te selecteren boven [ChainList.org](https://chainlist.org/chain/61).**
 items:
   endpoints:
     columnItems:

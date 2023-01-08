@@ -71,14 +71,12 @@ https://chainlist.org/en/chain/61 の「Connect-Wallet」をクリックする�
 次に、Ethereum Classicの固有の情報を追加します。 以下は、使用したネットワークデータです。
 
 - ネットワーク名 `イーサリアムクラシック`
-- 新しいRPCのURL： `https://www.ethercluster.com/etc`
+- 新しい RPC URL: `https://etc.rivet.link`
 - チェーン ID： `61`
 - 通貨記号(オプション)。 `ETC`
 - ブロックエクスプローラーURL(オプション)： `https://blockscout.com/etc/mainnet/`
 
-RPC URL」については、この目的のために [ETC Cooperative](https://etccooperative.org/)が提供するものを使いました。 これは、彼らが構築した [Ethercluster](https://ethercluster.com/)という製品に由来するものです。
-
-_[編集部注]Etherclusterは現在， [RIVET](https://rivet.cloud/)によって運営されています。 その他のRPCエンドポイントは、 [network](/network/endpoints) セクションに掲載されています。_
+「RPC URL」には、この目的のために [ETC Cooperative](https://etccooperative.org) によって契約された [Rivet](https://rivet.link/)という会社によってこの目的のために提供されたエンドポイントを使用しました。 その他のRPCエンドポイントは、 [network](/network/endpoints) セクションに掲載されています。
 
 チェーンID」は、ウォレットやノードによるETC取引を運用中のブロックチェーンに送信するためのイーサリアムクラシックネットワークの固有IDであるため、「61」でなければなりません。
 
@@ -86,7 +84,7 @@ _[編集部注]Etherclusterは現在， [RIVET](https://rivet.cloud/)によっ�
 
 保存」をクリックすると、ETCがMetaMaskに追加されます。
 
-![ステップ6](./06.png)
+![ステップ6](./06-rivet.png)
 
 ## 7. ネットワーク・ドロップダウン・メニューでEthereum Classicを表示する
 

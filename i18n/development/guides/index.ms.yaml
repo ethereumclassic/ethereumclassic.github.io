@@ -1,5 +1,5 @@
 title: Panduan Pembangunan
-seo: Pilihan tutorial dan penerangan untuk pembangun pemula dan lanjutan, dengan penerangan tentang cara menggunakan Ethereum Classic.
+seo: Pilihan tutorial dan penerangan untuk pembangun pemula dan lanjutan, dengan penjelasan tentang cara menggunakan Ethereum Classic.
 description: |
   Proses mengarang dan menggunakan Kontrak Pintar ke Ethereum Classic adalah sama seperti untuk Ethereum. Salah satu matlamat Ethereum Classic adalah untuk mengekalkan keserasian dengan ETH, supaya sebarang kontrak yang digunakan untuk Ethereum boleh digunakan semula dengan mudah ke Ethereum Classic.
 
@@ -80,7 +80,7 @@ items:
         description: Bina kontrak pintar pertama anda untuk DLL.
       Kotti Solidity ETC Oh My:
         name: Kotti, Solidity, DLL, Oh My!
-        description: Panduan ini menggambarkan konfigurasi awal untuk testnet Kotti Ethereum Classic dan versi spesifik Solidity untuk pembangunan dapp serasi ETC<>ETH. Kotti ialah testnet yang disyorkan untuk pembangun dapp. Mordor disyorkan untuk ujian tahap protokol.
+        description: Panduan ini menggambarkan konfigurasi awal untuk testnet Kotti Ethereum Classic dan versi khusus Solidity untuk ETC<>ETH pembangunan dapp serasi. Kotti ialah testnet yang disyorkan untuk pembangun dapp. Mordor disyorkan untuk ujian tahap protokol.
       How to contribute to Mordor Testnet:
         name: Bagaimana untuk menyumbang kepada Mordor Testnet
         description: Panduan ini akan mengajar anda cara melombong testnet DLL dan menjalankan penjelajah blok tempatan anda sendiri dengan Ekspedisi. Kotti ialah testnet yang disyorkan untuk pembangun dapp. Mordor disyorkan untuk ujian tahap protokol.
