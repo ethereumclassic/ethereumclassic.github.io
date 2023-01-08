@@ -11,7 +11,7 @@ description: |
 items:
   Trust-Minimizing Exchanges:
     title: 신뢰를 최소화하는 교환
-    description: 다음 거래소는 *완전히* 분산된 거래소가 아닐 수 있지만 아래의 중앙 집중식 섹션보다 덜 중앙 집중화 방식으로 운영됩니다. 이러한 제품은 교환을 용이하게 하기 위해 비보관 스마트 계약을 사용할 가능성이 높습니다.
+    description: 다음 거래소는 *완전한* 탈중앙화 거래소가 아닐 수 있지만 아래의 중앙화 섹션보다 덜 중앙화 방식으로 운영됩니다. 이러한 제품은 비수탁 스마트 계약을 사용하여 교환을 용이하게 할 가능성이 있습니다.
   Centralized Spot Markets:
     title: 중앙 집중식 현물 시장
   Centralized Derivative Markets:

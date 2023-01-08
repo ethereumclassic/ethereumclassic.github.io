@@ -45,6 +45,8 @@ items:
         description: IDE مفيد في المتصفح يمكنه تجميع ونشر العقود الذكية لشبكات Ethereum المختلفة. يشمل لينتر.
       Signatory:
         description: معاملة غير متصلة بالإنترنت وموقّع رسائل لمكدس Ethereum Stack.
+      Sidekik:
+        description: تصحيح الأخطاء واختبارها وفحص العقود الذكية باستخدام واجهة مستخدم مرئية تتيح لك التفاعل مع العقود الذكية المحلية أو المنشورة المستندة إلى EVM.
       SOLL:
         description: مترجم LLVM قادم أخيرًا إلى Solidity. باستخدامه ، يمكننا بسهولة إنشاء عقود ذكية عبر أجهزة افتراضية متعددة لـ blockchain. يعد EVM على Ethereum Classic و eWASM الخاص بـ ETH 2.0 من بين أول الأجهزة التي ندعمها.
       Sputnikvm:
@@ -59,8 +61,8 @@ items:
         description: يوفر BloqCloud وصولاً مُحسّنًا للغاية ومتاحًا دائمًا لشبكات blockchain. يمكنك الاتصال بسرعة وتوسيع نطاقه بسهولة بناءً على احتياجاتك - دون الحاجة إلى القلق بشأن إدارة البنية التحتية.
       DappNode:
         description: تسهل DAppNode تشغيل العقد و DApps واستضافة شبكات P2P والاقتصادات.
-      Ethercluster:
-        description: Ethercluster عبارة عن استدعاء إجراء عن بُعد لجهاز Ethereum Virtual (EVM) مفتوح المصدر (RPC) يوفر نقاط نهاية Ethereum Classic (ETC) و Kotti مجانًا.
+      Rivet:
+        description: Rivet عبارة عن استدعاء إجراء عن بُعد (RPC) لجهاز Ethereum Virtual Machine (EVM) يوفر نقاط نهاية Ethereum Classic (ETC).
       GetBlock:
         description: GetBlock هي خدمة توفر الاتصال لعقد العملات المشفرة الرئيسية. إنها تدعم أدوات مثل JSON-RPC و REST و WebSockets ، مما يسهل المزامنة المباشرة مع blockchain. ليست هناك حاجة لتشغيل عقدة بنفسك ، حيث تسمح المنصة لعملائها بالاتصال بـ blockchain عبر عقدة كاملة دون الحاجة إلى دفع رسوم.
       Google BigQuery:

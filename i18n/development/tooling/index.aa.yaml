@@ -218,6 +218,10 @@ items:
         __link: https://signatory.dev/
         __name: Signatory
         description: crwdns67036:0crwdne67036:0
+      Sidekik:
+        __link: https://sidekik.xyz/
+        __name: Sidekik
+        description: crwdns108547:0crwdne108547:0
       SOLL:
         __link: https://github.com/second-state/soll
         __name: SOLL
@@ -243,10 +247,10 @@ items:
         __link: https://dappnode.io/
         __name: DappNode
         description: crwdns67072:0crwdne67072:0
-      Ethercluster:
-        __link: https://www.ethercluster.com/
-        __name: Ethercluster
-        description: crwdns67078:0crwdne67078:0
+      Rivet:
+        __link: https://rivet.link/
+        __name: Rivet
+        description: crwdns108553:0crwdne108553:0
       GetBlock:
         __name: GetBlock
         __link: https://getblock.io

@@ -1,5 +1,5 @@
 title: Geliştirme Kılavuzları
-seo: Hem yeni başlayanlar hem de ileri düzey geliştiriciler için Ethereum Classic'e nasıl dağıtım yapılacağını açıklayan öğretici ve açıklayıcılardan oluşan bir seçki.
+seo: Hem yeni başlayanlar hem de ileri düzey geliştiriciler için Ethereum Classic'e nasıl konuşlandırılacağına dair bir açıklama içeren bir dizi öğretici ve açıklayıcı.
 description: |
   Ethereum Classic'e Akıllı Sözleşmeler yazma ve dağıtma süreci Ethereum için olanla aynıdır. Ethereum Classic'in hedeflerinden biri ETH ile uyumluluğu korumaktır, böylece Ethereum'a dağıtılan herhangi bir sözleşme Ethereum Classic'e kolayca yeniden dağıtılabilir.
 
@@ -80,7 +80,7 @@ items:
         description: ETC için ilk akıllı sözleşmenizi oluşturun.
       Kotti Solidity ETC Oh My:
         name: Kotti, Solidity, ETC, Oh My!
-        description: Bu kılavuz, Ethereum Classic'in Kotti test ağı ve ETC<>ETH uyumlu dapp geliştirme için Solidity'nin belirli bir sürümü için ilk yapılandırmayı göstermektedir. Kotti, uygulama geliştiricileri için önerilen test ağıdır. Protokol düzeyinde test için Mordor önerilir.
+        description: Bu kılavuz, Ethereum Classic'in Kotti test ağı için ilk yapılandırmayı ve ETC<>ETH uyumlu dapp geliştirme için belirli bir Solidity sürümünü göstermektedir. Kotti, Dapp geliştiricileri için önerilen test ağıdır. Mordor, protokol seviyesi testleri için önerilir.
       How to contribute to Mordor Testnet:
         name: Mordor Testnet'e nasıl katkıda bulunabilirsiniz?
         description: Bu kılavuz size testnet ETC madenciliğini nasıl yapacağınızı ve Expedition ile kendi yerel blok gezgininizi nasıl çalıştıracağınızı öğretecektir. Kotti, dapp geliştiricileri için önerilen testnettir. Mordor, protokol seviyesi testi için önerilir.

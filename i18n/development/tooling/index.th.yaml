@@ -45,6 +45,8 @@ items:
         description: IDE ในเบราว์เซอร์ที่มีประโยชน์ซึ่งสามารถรวบรวมและเผยแพร่สัญญาอัจฉริยะไปยังเครือข่าย Ethereum ต่างๆ รวมถึงผ้าสำลี
       Signatory:
         description: ธุรกรรมออฟไลน์และผู้ลงนามข้อความสำหรับ Ethereum Stack
+      Sidekik:
+        description: ดีบัก ทดสอบ และทำสัญญาอัจฉริยะด้วย UI ภาพที่ให้คุณโต้ตอบกับสัญญาอัจฉริยะที่ใช้ EVM ในเครื่องหรือปรับใช้
       SOLL:
         description: ในที่สุดคอมไพเลอร์ LLVM ก็มาถึง Solidity ด้วยสิ่งนี้ เราจึงสามารถสร้างสัญญาอัจฉริยะผ่าน VM บล็อคเชนหลายตัวได้อย่างง่ายดาย EVM บน Ethereum Classic และ eWASM ของ ETH 2.0 เป็นหนึ่งในกลุ่มแรกๆ ที่เราสนับสนุน
       Sputnikvm:
@@ -59,8 +61,8 @@ items:
         description: BloqCloud มอบการเข้าถึงเครือข่ายบล็อคเชนที่ได้รับการเพิ่มประสิทธิภาพสูงสุดและพร้อมใช้งานตลอดเวลา เชื่อมต่ออย่างรวดเร็วและปรับขนาดได้ง่ายตามความต้องการของคุณ โดยไม่ต้องกังวลเกี่ยวกับการจัดการโครงสร้างพื้นฐาน
       DappNode:
         description: DAppNode อำนวยความสะดวกในการรันโหนด DApps และการโฮสต์เครือข่าย P2P และเศรษฐกิจ
-      Ethercluster:
-        description: Ethercluster เป็นโอเพ่นซอร์ส Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) ที่ให้ Ethereum Classic (ETC) และ Kotti endpoints ฟรี
+      Rivet:
+        description: Rivet เป็น Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) ที่ให้บริการปลายทาง Ethereum Classic (ETC)
       GetBlock:
         description: GetBlock เป็นบริการที่ให้การเชื่อมต่อสำหรับโหนดของ cryptocurrencies ที่สำคัญ พวกเขาสนับสนุนเครื่องมือดังกล่าว เช่น JSON-RPC, REST และ WebSockets ซึ่งอำนวยความสะดวกในการซิงโครไนซ์โดยตรงกับบล็อกเชน ไม่จำเป็นต้องรันโหนดด้วยตัวเอง แพลตฟอร์มช่วยให้ลูกค้าเชื่อมต่อกับบล็อกเชนผ่านโหนดแบบเต็มโดยไม่ต้องเสียค่าธรรมเนียม
       Google BigQuery:

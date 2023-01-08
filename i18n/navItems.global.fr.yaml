@@ -10,7 +10,7 @@ learn:
           description: Voulez-vous apprendre à utiliser ETC ?
         researchers:
           name: Recherche
-          description: Vous venez d'entendre parler de Classic ?
+          description: Venez-vous d'entendre parler de Classic ?
         investors:
           name: Investisseurs
           description: Êtes-vous intéressé par l'achat d'ETC ?
@@ -24,17 +24,17 @@ learn:
           name: Contributeurs
           description: Voulez-vous aider le projet ?
     whyClassic:
-      name: Pourquoi classic ?
+      name: Pourquoi Classic ?
       description: Commencez ici pour connaître la raison d'être et la proposition de valeur unique d'Ethereum Classic.
       navItems:
         codeIsLaw:
-          name: Code is Law
+          name: Le code est la loi
         genesis:
           name: Genèse
         decentralism:
           name: Décentralisme
         soundMoney:
-          name: L'argent sain
+          name: Monnaie saine
         proofOfWork:
           name: Preuve de travail
     #etcVsEth:
@@ -86,7 +86,7 @@ learn:
         tutorials:
           name: Tutoriels
         mining:
-          name: Exploitation minière
+          name: Minage
         conferences:
           name: Conférences
           navItems:
@@ -124,11 +124,11 @@ play:
           name: Portefeuilles
           description: Logiciel permettant de stocker et de gérer les ETC, les jetons, les NFT et autres actifs.
         exchanges:
-          name: Échanges
-          description: Où acheter et négocier des ETC
+          name: Plateformes d'échange
+          description: Où acheter et échanger ETC
         apps:
           name: Apps
-          longName: Apps et protocole
+          longName: Apps et Protocole
           description: Ecosystème d'applications qui exploitent Ethereum Classic
           navItems:
             nfts:
@@ -140,17 +140,17 @@ play:
             interoperability:
               name: Interopérabilité
             finance:
-              name: Finances
+              name: Finance
             other:
               name: Autre
     community:
       name: Communauté
-      description: Si vous souhaitez communiquer avec des personnes qui s'intéressent au CTE, voici comment les trouver
+      description: Si vous cherchez à communiquer avec des personnes intéressées par ETC, voici comment les trouver
       navItems:
         channels:
           name: Chaînes
           longName: Canaux de médias sociaux
-          description: Une liste de comptes, de salons de discussion et de forums pour discuter du CTE avec d'autres personnes.
+          description: Une liste de comptes, de salons de discussion et de forums pour discuter d'ETC avec d'autres personnes
         teams:
           name: Équipes
           longName: Équipes de développeurs
@@ -171,7 +171,7 @@ play:
         endpoints:
           name: Points finaux
           longName: Points de terminaison RPC
-          description: Services publics et privés pour communiquer avec le réseau CTE
+          description: Services publics et privés pour communiquer avec le réseau ETC
         explorers:
           name: Explorateurs
           longName: Explorateurs de la chaîne de blocs
@@ -184,28 +184,28 @@ play:
     #__link: /network/statistics
     #name: Statistics
     mining:
-      name: Exploitation minière
-      description: Les pools, les logiciels et le matériel requis vous aideront à exploiter les ETC pour le plaisir et le profit.
+      name: Minage
+      description: Les pools, les logiciels et le matériel requis vous aideront à miner ETC pour le plaisir et le profit
       navItems:
         hardware:
           name: Matériel informatique
-          description: Informations sur le type d'équipement à utiliser pour exploiter de manière rentable les ETC
+          description: Informations sur le type d'équipement qu'il est préférable d'utiliser pour miner ETC de manière rentable
         software:
           name: Logiciel
           longName: Logiciel d'exploitation minière
-          description: Une liste d'outils pouvant être utilisés pour miner des ETC sur différents systèmes d'exploitation.
+          description: Une liste d'outils pouvant être utilisés pour miner ETC sur différents systèmes d'exploitation
         pools:
-          name: Piscines
+          name: Pools
           longName: Pools miniers
-          description: L'adhésion à un pool minier vous permet de réaliser des bénéfices en fonction de la puissance du minage plutôt que des blocs trouvés.
+          description: Rejoindre un pool de minage vous permet de profiter de la puissance de hachage plutôt que des blocs trouvés
     develop:
       name: Développement
-      description: Testnets, outils, clients et informations sur la manière de contribuer au protocole CTE lui-même.
+      description: Testnets, outils, clients et informations sur la manière de contribuer au protocole ETC lui-même.
       navItems:
         development:
           name: Guides
-          longName: Guides du développeur
-          description: Une collection de tutoriels sur la façon de construire des dapps sur Ethereum Classic.
+          longName: Guides développeur
+          description: Une collection de tutoriels sur la façon de construire des applications décentralisées sur Ethereum Classic.
         clients:
           name: Clients
           description: Le logiciel client est la colonne vertébrale du réseau et met en œuvre le protocole ETC.
@@ -229,7 +229,7 @@ extra:
   name: Extra
   navItems:
     news:
-      name: Nouvelles
+      name: Actualités
     blog:
       name: Blog
     about:
