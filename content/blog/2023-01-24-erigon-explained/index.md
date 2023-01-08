@@ -32,7 +32,7 @@ The series will consist of the following topics:
 
 In our first four articles we have explained the basics of what are networks, blockchains, and cryptocurrencies; the differences between blockchain software and blockchain protocols; whether there are software clients and servers in cryptocurrency networks; and what is Ethereum Classic's position in the segment of Ethereum Virtual Machine (EVM) blockchains.
 
-In this article we will apply all this knowledge to explain what is the Erigon software client that works with Ethereum Classic, and what are its features, types, and functions.
+In this article we will apply all this knowledge to explain what is the Erigon software client that will work with Ethereum Classic, and what are its features, types, and functions.
 
 ## Ethereum Classic Is a Network, a Blockchain, and a Cryptocurrency
 
@@ -54,9 +54,9 @@ Blockchains are peer to peer networks and each participating machine in the syst
 
 For a machine to be a node it needs to run a software application that contains the set of rules of the protocol of that particular network.
 
-Erigon is an Ethereum network node software, also called “software client”, and is in the process of being adapted to operate on with Ethereum Classic.
+Erigon is an Ethereum network node software, also called “software client”, and is in the process of being adapted to operate with Ethereum Classic.
 
-Therefore, Erigon for ETC is currently in an experimental stage, but may be downloaded for use and testing, however it is not considered stable yet.
+Therefore, Erigon for ETC is currently in an experimental stage, but may be downloaded for use and testing. However it is not considered stable yet.
 
 Core developers have expressed that ETC support is going well for now.
 
@@ -78,37 +78,37 @@ Erigon is a fork of Go-Ethereum, the most popular software client of the Ethereu
 
 It is a project by a team called “LedgerWatch” and its goal is to make nodes faster to synchronize and to reduce the on disk storage size.
 
-The strategy they are using is to optimize many processes of the node operation, but the main focus is on changing the synchronization method and modifying the data structure.
+The strategy they are following is to optimize many processes of how the node operates, but the main focus is on changing the synchronization method and modifying the data structure.
 
 ## Erigon Unique Features
 
-The synchronization method they used is called staging. 
+The synchronization method they use is called staging. 
 
-The method consists of, instead of downloading and verifying each block as they are retrieved, Erigon first downloads the whole chain, and separately processes the verification function locally offline.
+The method consists of, instead of downloading and verifying each block as they are retrieved from other peers, Erigon first downloads the whole chain and separately processes the verification function offline locally.
 
-For the data structure they made modifications to the Merkle tree to enable a faster write and faster synchronization.
+For the data structure, they made modifications to the Merkle tree to enable a faster write and faster synchronization.
 
 ## Erigon for ETC May Have Different Configurations
 
 When Erigon is fully adapted, it will be a fully featured Ethereum Classic client-server and may be enabled to be used with the following configurations:
 
-Archival node: A node that stores the block headers, the tree of hashed transactions (called Merkle Patricia tree), and all the original data of all transactions sent to the blockchain. This is the largest and most heavy to operate and longest to download kind of node.
+**Archival node:** A node that stores the block headers, the tree of hashed transactions (called Merkle Patricia tree), and all the original data of all transactions sent to the blockchain. This is the largest and most heavy to operate and longest to download kind of node.
 
-Full node: A node that stores the block headers and the Merkle Patricia tree, but does not store all the original transactions. This is a relatively secure kind of node, much faster to download, and lighter to operate than the archival node.
+**Full node:** A node that stores the block headers and the Merkle Patricia tree, but does not store all the original transactions. This is a relatively secure kind of node, much faster to download, and lighter to operate than the archival node.
 
-Light node: A node that only stores the block headers and nothing more. This is a very fast to download and the lightest to operate kind of node, but it is much less secure and more dependent as it always needs other nodes in the network to confirm hashed transactions from the Merkle Patricia tree to be able to verify them.
+**Light node:** A node that only stores the block headers and nothing more. This is a very fast to download and the lightest to operate kind of node, but it is much less secure and more dependent as it always needs other nodes in the network to confirm hashed transactions from the Merkle Patricia tree to be able to verify them.
 
 ## Erigon for ETC May Have Different Functions
 
 As a node software that is configurable and flexible, when Erigon is fully adapted to ETC, it may be enabled to be used for the following functions:
 
-Verifying node: Exchanges, large institutional investors, and crypto custody services need to run nodes able to verify their positions in the network directly. As a fully featured node client, Erigon may used for this function.
+**Verifying node:** Exchanges, large institutional investors, and crypto custody services need to run nodes able to verify their positions in the network directly. As a fully featured node client, Erigon for ETC may used for this function.
 
-Miner: When Erigon is stable it will include the full mining algorithm of Ethereum Classic, therefore it may be used by both miners and mining pools to run their operations.
+**Miner:** When Erigon for ETC is stable, it will include the full mining algorithm of Ethereum Classic, therefore it may be used by both miners and mining pools to run their operations.
 
-Node as a Service (NaaS): Startups and companies who run NaaS services may use Erigon to provide wallet queries to third parties, transaction processing, statistics and charts, and block explorer services.
+**Node as a Service (NaaS):** Startups and companies who run NaaS services may use Erigon to provide wallet queries to third parties, transaction processing, statistics and charts, and block explorer services.
 
-How to Run Erigon on Ethereum Classic
+## How to Run Erigon on Ethereum Classic
 
 To run Erigon as an experimental Ethereum Classic node, node operators and miners must go to the following repository on Github and download the client:
 
