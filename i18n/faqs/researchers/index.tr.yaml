@@ -8,11 +8,11 @@ items:
       what:
         question: Ethereum Classic nedir?
         answer: |
-          Ethereum Classic, herkesin izinsiz olarak merkezi olmayan uygulamalar oluşturmasına, dağıtmasına ve kullanmasına olanak tanıyan bir Proof of Work Akıllı Sözleşme Blok Zinciridir. Ethereum Classic, merkezi bir organizasyon komitesi olmadan dünyanın dört bir yanındaki insanlar tarafından inşa edilen tabandan gelen açık kaynaklı bir projedir.
+          Ethereum Classic, herkesin merkezi olmayan uygulamaları izinsiz olarak oluşturmasına, dağıtmasına ve kullanmasına izin veren bir Proof of Work Akıllı Sözleşme Blok Zinciridir. Ethereum Classic, merkezi bir organizasyon komitesi olmadan dünyanın her yerinden insanlar tarafından inşa edilen tabandan gelen açık kaynaklı bir projedir.
 
-          Felsefi olarak ETC, ademi merkeziyetçilik, sansüre direnç ve sağlam para ideallerine değer veren Bitcoin'e benzer. Teknolojik olarak ise bir EVM (Ethereum Sanal Makinesi) işleten Ethereum'a benzemektedir.
+          Felsefi olarak ETC, ademi merkeziyetçilik, sansür direnci ve sağlam para ideallerine değer vererek Bitcoin'e benzer. Teknolojik olarak, bir EVM (Ethereum Virtual Machine) çalıştıran Ethereum'a benzer.
 
-          Bu iki yaklaşımı birleştirmek, Ethereum Classic'i benzersiz bir konuma getirmekte ve Akıllı Sözleşmelerin esnekliği ve yeniliği ile birlikte cypherpunk ideallerine dayanan güçlü bir ademi merkeziyetçi temel sağlamaktadır.
+          Bu iki yaklaşımı birleştirmek, Akıllı Sözleşmelerin esnekliği ve yeniliği ile birlikte cypherpunk ideallerine dayanan güçlü bir ademi merkeziyetçi temel sağlayarak Ethereum Classic'i benzersiz bir konuma getirir.
       overview:
         question: Ethereum Classic, Ethereum'un bir kopyası mı?
         answer: |
