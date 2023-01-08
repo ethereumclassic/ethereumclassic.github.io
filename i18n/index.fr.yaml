@@ -4,12 +4,12 @@ billboard:
   randomWords:
     Decentralized: "Décentralisé"
     Original: "Original"
-    Veracious: "Veracious"
+    Veracious: "Véridique"
     Untainted: "Intact"
     Uncensored: "Non censuré"
     Untampered: "Inaltéré"
     Immutable: "Immuable"
-    Sound Money: "L'argent sain"
+    Sound Money: "Sound Money"
     Uncaptured: "Non capturé"
     SovereignGrade: "Grade souverain"
     Principled: "Fondé sur des principes"
@@ -43,7 +43,7 @@ intro:
 #Headers
 headings:
   headlines:
-    title: Évènement
+    title: Évènements
     button: Toutes les Actualités
   videos:
     title: Dernières vidéos
