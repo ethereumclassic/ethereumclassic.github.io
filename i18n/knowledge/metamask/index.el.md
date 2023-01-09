@@ -71,14 +71,12 @@ contributors:
 Το επόμενο βήμα είναι να προσθέσετε τις ειδικές πληροφορίες του Ethereum Classic. Ακολουθούν τα δεδομένα δικτύου που χρησιμοποίησα:
 
 - Όνομα δικτύου: `Ethereum Classic`
-- Νέα διεύθυνση URL RPC: `https://www.ethercluster.com/etc`
+- Νέα διεύθυνση URL RPC: `https://etc.rivet.link`
 - ID αλυσίδας: `61`
 - Σύμβολο νομίσματος (προαιρετικό): `ETC`
 - Αποκλεισμός διεύθυνσης URL της Εξερεύνησης (προαιρετικό): `https://blockscout.com/etc/mainnet/`
 
-Για το "RPC URL" χρησιμοποίησα αυτό που παρέχεται για το σκοπό αυτό από το [ETC Cooperative](https://etccooperative.org/), το οποίο προέρχεται από ένα προϊόν που δημιούργησαν με την ονομασία [Ethercluster](https://ethercluster.com/)
-
-_[Σημείωση συντάκτη] Το Ethercluster λειτουργεί τώρα από το [RIVET](https://rivet.cloud/). Μπορείτε να βρείτε περισσότερα RPC Endpoints στην ενότητα [network](/network/endpoints) ._
+Για τη "URL RPC" χρησιμοποίησα το τελικό σημείο που παρέχεται για αυτόν τον σκοπό από μια εταιρεία που ονομάζεται [Rivet](https://rivet.link/), η οποία έχει συναφθεί με το [ETC Cooperative](https://etccooperative.org) για αυτόν τον σκοπό. Μπορείτε να βρείτε περισσότερα RPC Endpoints στην ενότητα [network](/network/endpoints) .
 
 Το "Chain ID" πρέπει να είναι "61", επειδή αυτό είναι το ειδικό αναγνωριστικό του δικτύου Ethereum Classic για την αποστολή συναλλαγών ETC από πορτοφόλια και κόμβους στην αλυσίδα μπλοκ που λειτουργεί.
 
@@ -86,7 +84,7 @@ _[Σημείωση συντάκτη] Το Ethercluster λειτουργεί τώ
 
 Κάντε κλικ στο "save" για να προσθέσετε το ETC στο MetaMask.
 
-![Βήμα 6](./06.png)
+![Βήμα 6](./06-rivet.png)
 
 ## Βήμα 7: Προβολή του Ethereum Classic στο αναπτυσσόμενο μενού Networks
 

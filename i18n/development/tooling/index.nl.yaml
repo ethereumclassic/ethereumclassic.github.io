@@ -45,6 +45,8 @@ items:
         description: Een handige in-browser IDE die slimme contracten kan compileren en publiceren naar verschillende Ethereum netwerken. Inclusief een linter.
       Signatory:
         description: Een offline transactie en bericht ondertekenaar voor de Ethereum Stack.
+      Sidekik:
+        description: Debug, test en grok slimme contracten met een visuele gebruikersinterface waarmee u kunt communiceren met lokale of geïmplementeerde EVM-gebaseerde slimme contracten.
       SOLL:
         description: De LLVM compiler komt eindelijk naar Solidity. Hiermee kunnen we eenvoudig smart contracts maken over meerdere blockchain VM's. De EVM op Ethereum Classic en ETH 2.0's eWASM behoren tot de eerste die we ondersteunen.
       Sputnikvm:
@@ -59,8 +61,8 @@ items:
         description: BloqCloud levert sterk geoptimaliseerde, altijd beschikbare toegang tot blockchain-netwerken. Maak snel verbinding en schaal eenvoudig op basis van uw behoeften -- zonder dat u zich zorgen hoeft te maken over het beheer van de infrastructuur.
       DappNode:
         description: DAppNode faciliteert het runnen van nodes, DApps en het hosten van P2P netwerken en economieën.
-      Ethercluster:
-        description: Ethercluster is een open-sourced Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) die gratis Ethereum Classic (ETC) en Kotti eindpunten biedt.
+      Rivet:
+        description: Rivet is een Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) die Ethereum Classic (ETC) eindpunten levert.
       GetBlock:
         description: GetBlock is een dienst die verbinding biedt voor de belangrijkste knooppunten van cryptocurrencies. Ze ondersteunen tools als JSON-RPC, REST en WebSockets, wat directe synchronisatie met de blockchain mogelijk maakt. Het is niet nodig om zelf een node te draaien, het platform stelt zijn klanten in staat om via een volledige node verbinding te maken met een blockchain zonder daarvoor een vergoeding te hoeven betalen.
       Google BigQuery:

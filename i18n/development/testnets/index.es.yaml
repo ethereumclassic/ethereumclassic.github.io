@@ -1,5 +1,5 @@
 title: Redes de prueba
-seo: Información sobre las distintas redes de prueba de Ethereum Classic, que son redes disponibles públicamente que pueden utilizarse para probar contratos y actualizaciones del protocolo.
+seo: Información sobre las diversas redes de prueba de Ethereum Classic, con redes disponibles públicamente que se pueden usar para probar contratos y actualizaciones de protocolo.
 description: |
   Al desarrollar contratos en Ethereum Classic, al igual que con cualquier sistema de contratos de EVM, se aconseja utilizar una [red virtual] local (/desarrollo/herramienta), que le permite iterar rápidamente sin tener que esperar a que se minen los bloques. En algún momento, sin embargo, es posible que desee permitir que el público interactúe con una versión beta de su aplicación, y para ello se puede utilizar una red de prueba.
 
