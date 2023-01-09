@@ -71,14 +71,12 @@ contributors:
 下一步，是添加 Ethereum Classic 的具体信息。 以下是我使用的网络数据。
 
 - 网络名称。 `Ethereum Classic`
-- 新的 RPC URL: `https://www.ethercluster.com/etc`
+- 新的 RPC URL: `https://etc.rivet.link`
 - 链条编号: `61`
 - 货币符号(可选)。 `ETC`
 - 封锁浏览器的 URL(可选)： `https://blockscout.com/etc/mainnet/`
 
-对于 "RPC URL"，我使用了由 [ETC 合作组织](https://etccooperative.org/)，这是来自他们建立的一个名为 [Ethercluster 的产品](https://ethercluster.com/)，为此目的提供的一个 URL。
-
-_[编者注] Ethercluster 现在由 [RIVET](https://rivet.cloud/)。 你可以在 [网络](/network/endpoints) 部分找到更多的 RPC 端点。_
+对于“RPC URL”，我使用了一家名为 [Rivet](https://rivet.link/)的公司为此目的提供的端点，该公司为此与 [ETC Cooperative](https://etccooperative.org) 签约。 你可以在 [网络](/network/endpoints) 部分找到更多的 RPC 端点。
 
 链 ID "必须是 "61"，因为这是 Ethereum Classic 网络的特定 ID，用于由钱包和节点发送 ETC 交易到运营区块链。
 
@@ -86,7 +84,7 @@ _[编者注] Ethercluster 现在由 [RIVET](https://rivet.cloud/)。 你可以�
 
 点击 "保存"，将 ETC 添加到 MetaMask。
 
-![第6步](./06.png)
+![第6步](./06-rivet.png)
 
 ## 7. 7. 在网络下拉菜单中查看Ethereum Classic
 

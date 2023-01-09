@@ -1,5 +1,5 @@
 title: Testnet
-seo: Thông tin về các mạng thử nghiệm Ethereum Classic khác nhau, các mạng công khai có thể được sử dụng để kiểm tra các hợp đồng và nâng cấp giao thức.
+seo: Thông tin về các mạng thử nghiệm Ethereum Classic khác nhau, với các mạng có sẵn công khai có thể được sử dụng để kiểm tra hợp đồng và nâng cấp giao thức.
 description: |
   Khi phát triển các hợp đồng trên Ethereum Classic, cũng như với bất kỳ Hệ thống Hợp đồng EVM nào, bạn nên sử dụng [mạng ảo] (/ development / tooling) cục bộ, cho phép bạn nhanh chóng lặp lại mà không cần phải đợi các khối được khai thác. Tuy nhiên, tại một số thời điểm, bạn có thể muốn cho phép công chúng tương tác với phiên bản beta của ứng dụng của bạn và vì điều này, có thể sử dụng mạng thử nghiệm.
 

@@ -45,6 +45,8 @@ items:
         description: IDE dalam pelayar berguna yang boleh menyusun dan menerbitkan kontrak pintar ke pelbagai rangkaian Ethereum. Termasuk linter.
       Signatory:
         description: Transaksi luar talian dan penandatangan mesej untuk Ethereum Stack.
+      Sidekik:
+        description: Nyahpepijat, ujian dan kontrak pintar grok dengan UI visual yang membolehkan anda berinteraksi dengan kontrak pintar berasaskan EVM tempatan atau digunakan.
       SOLL:
         description: Pengkompil LLVM akhirnya datang ke Solidity. Dengan itu, kami boleh membuat kontrak pintar dengan mudah merentas berbilang VM blockchain. EVM pada Ethereum Classic dan eWASM ETH 2.0 adalah antara yang pertama kami sokong.
       Sputnikvm:
@@ -59,8 +61,8 @@ items:
         description: BloqCloud memberikan akses yang sangat dioptimumkan, sentiasa tersedia kepada rangkaian rantaian blok. Sambung dengan cepat dan skala dengan mudah berdasarkan keperluan anda -- tanpa perlu risau tentang mengurus infrastruktur.
       DappNode:
         description: DAppNode memudahkan menjalankan nod, DApps dan mengehos rangkaian dan ekonomi P2P.
-      Ethercluster:
-        description: Ethercluster ialah Panggilan Prosedur Jauh (RPC) Mesin Maya Ethereum (EVM) sumber terbuka yang menyediakan titik akhir Ethereum Classic (ETC) dan Kotti secara percuma.
+      Rivet:
+        description: Rivet ialah Panggilan Prosedur Jauh (RPC) Mesin Maya Ethereum (EVM) yang menyediakan titik akhir Ethereum Classic (ETC).
       GetBlock:
         description: GetBlock ialah perkhidmatan yang menyediakan sambungan untuk nod mata wang kripto utama. Mereka menyokong alat seperti JSON-RPC, REST, dan WebSockets, yang memudahkan penyegerakan terus dengan rantaian blok. Tidak perlu menjalankan nod sendiri, platform ini membenarkan pelanggannya menyambung ke blockchain melalui nod penuh tanpa perlu membayar yuran.
       Google BigQuery:

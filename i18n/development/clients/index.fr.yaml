@@ -12,7 +12,7 @@ items:
       release:
         name: Communiqués
       support:
-        name: Soutien
+        name: Support
     items:
       CoreGeth:
         description: Une implémentation Go hautement configurable du protocole Ethereum. Ce client est soutenu à long terme par l'équipe de développement de la coopérative ETC. Il s'agit d'un client recommandé par une équipe transparente bien connue.

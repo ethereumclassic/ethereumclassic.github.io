@@ -1,5 +1,5 @@
 title: Vodiči za razvoj
-seo: Odabir vodiča i objašnjenja za početnike i napredne programere, s objašnjenjem kako implementirati na Ethereum Classic.
+seo: Izbor vodiča i objašnjenja za početnike i napredne programere, s objašnjenjem kako implementirati na Ethereum Classic.
 description: |
   Proces izrade i implementacije pametnih ugovora na Ethereum Classic isti je kao i za Ethereum. Jedan od ciljeva Ethereum Classica je održavanje kompatibilnosti s ETH-om, tako da se bilo koji ugovor implementiran u Ethereum može lako ponovno rasporediti u Ethereum Classic.
 
@@ -80,7 +80,7 @@ items:
         description: Izgradite svoj prvi pametni ugovor za ETC.
       Kotti Solidity ETC Oh My:
         name: Kotti, Solidity, ITD, Oh Bože!
-        description: Ovaj vodič ilustrira početnu konfiguraciju za Kotti testnet Ethereum Classic i specifičnu verziju Solidityja za ETC<>ETH kompatibilan razvoj dappa. Kotti je preporučena testna mreža za dapp programere. Mordor se preporučuje za testiranje razine protokola.
+        description: Ovaj vodič ilustrira početnu konfiguraciju za Ethereum Classic's Kotti testnet i određenu verziju Solidityja za ETC<>ETH kompatibilan razvoj dappa. Kotti je preporučena testna mreža za dapp programere. Mordor se preporučuje za testiranje razine protokola.
       How to contribute to Mordor Testnet:
         name: Kako doprinijeti Mordor Testnetu
         description: Ovaj vodič će vas naučiti kako rudariti testnet ETC i pokrenuti vlastiti lokalni block explorer s Expeditionom. Kotti je preporučena testna mreža za dapp programere. Mordor se preporučuje za testiranje razine protokola.

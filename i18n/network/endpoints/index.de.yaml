@@ -1,15 +1,15 @@
 title: Öffentliche Endpunkte
 seo: Eine Liste von Remote Procedure Call (RPC)-Endpunkten, die zur Interaktion mit ETC über MetaMask und andere Anwendungen verwendet werden können.
 description: |
-  Remote Procedure Call (RPC)-Endpunkte sind Ihr Tor zu Ethereum Classic und ermöglichen es Ihnen, mit der ETC-Kette zu kommunizieren und Daten von ihr zu lesen. Für maximale Vertrauenswürdigkeit führen Sie einen [ETC-Client](/development/clients) lokal aus; ein lokaler Endpunkt wird normalerweise unter `http://localhost:8545` zur Verfügung gestellt.
+  Remote Procedure Call (RPC)-Endpunkte sind Ihr Tor zu Ethereum Classic und ermöglichen Ihnen, mit der ETC-Kette zu kommunizieren und Daten aus ihr zu lesen. Für maximale Vertrauenslosigkeit führen Sie lokal einen [ETC-Client](/development/clients) aus; ein lokaler Endpunkt wird normalerweise unter "http://localhost:8545" bereitgestellt.
 
-  Es gibt auch öffentliche Ethereum Classic RPC-Endpunkte, die entweder kostenlos für die Community oder als Abonnementdienst zur Verfügung gestellt werden. Da Sie Transaktionen lokal signieren und übertragen können, indem Sie eine Wallet wie [MetaMask](/guides/metamask) verwenden, können öffentliche Endpunkte verwendet werden, ohne dass Sie Ihre privaten Schlüssel verlieren.
+  Öffentliche Ethereum Classic RPC-Endpunkte sind ebenfalls verfügbar, entweder kostenlos für die Community oder als Abonnementdienst. Da Sie Transaktionen lokal mit einer Brieftasche wie [MetaMask](/guides/metamask) signieren und übertragen können, können öffentliche Endpunkte verwendet werden, während Sie Ihre privaten Schlüssel aufbewahren.
 
-  Sie können diese URLs zur Durchführung von Transaktionen und zur Bereitstellung für ETC (oder dessen Testnets) verwenden, indem Sie die Konfiguration Ihrer Wallet oder Ihres Bereitstellungstools aktualisieren. Stellen Sie sicher, dass Sie auch Ihre Chain ID auf `61` für das Ethereum Classic Mainnet ändern.
+  Sie können diese URLs für Transaktionen und Bereitstellungen auf ETC (oder seinen Testnetzen) verwenden, indem Sie Ihre Wallet- oder Bereitstellungstool-Konfiguration aktualisieren. Stellen Sie sicher, dass Sie auch Ihre Ketten-ID für das Ethereum Classic-Mainnet auf „61“ ändern.
 
   Weitere Informationen zu anderen Netzwerken finden Sie im Abschnitt [testnets](/development/testnets).
 
-  **Es wird empfohlen, einen der in Echtzeit überwachten ETC-RPC-Endpunkte unter [ChainList.org](https://chainlist.org/en/chain/61) zu wählen.
+  **Es wird empfohlen, einen der echtzeitüberwachten ETC-RPC-Endpunkte bei [ChainList.org](https://chainlist.org/chain/61) auszuwählen.**
 items:
   endpoints:
     columnItems:

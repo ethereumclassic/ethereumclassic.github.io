@@ -3,10 +3,10 @@ seo: Une collection de salons de discussion Ethereum Classic, de comptes Twitter
 description: |
   Voici une liste non exhaustive des groupes et canaux de discussion actifs sur Ethereum Classic.
 
-  Le principal centre d'activité de la communauté ETC se trouve actuellement sur [Discord](https://ethereumclassic.org/discord).
+  La communauté ETC se trouve principalement sur [Discord](https://ethereumclassic.org/discord).
 items:
   Chat Rooms:
-    title: Salles de chat
+    title: Salons de Discussion
     items:
       chat Discord:
         name: Discord (Communauté, Global)

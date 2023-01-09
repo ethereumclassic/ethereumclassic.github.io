@@ -45,6 +45,8 @@ items:
         description: Un IDE utile dans le navigateur qui peut compiler et publier des contrats intelligents sur divers réseaux Ethereum. Comprend un linter.
       Signatory:
         description: Un signataire de transactions et de messages hors ligne pour la pile Ethereum.
+      Sidekik:
+        description: Déboguez, testez et gérez des contrats intelligents avec une interface utilisateur visuelle qui vous permet d'interagir avec des contrats intelligents locaux ou déployés basés sur EVM.
       SOLL:
         description: Le compilateur LLVM arrive enfin dans Solidity. Grâce à lui, nous pouvons facilement créer des contrats intelligents sur plusieurs VM de blockchain. L'EVM sur Ethereum Classic et l'eWASM de ETH 2.0 sont parmi les premiers que nous prenons en charge.
       Sputnikvm:
@@ -59,8 +61,8 @@ items:
         description: BloqCloud offre un accès hautement optimisé et toujours disponible aux réseaux blockchain. Connectez-vous rapidement et évoluez facilement en fonction de vos besoins, sans avoir à vous soucier de la gestion de l'infrastructure.
       DappNode:
         description: DAppNode facilite le fonctionnement des nœuds, des DApps et l'hébergement des réseaux P2P et des économies.
-      Ethercluster:
-        description: Ethercluster est un appel de procédure à distance (RPC) de la machine virtuelle Ethereum (EVM) à source ouverte qui fournit gratuitement des points de terminaison Ethereum Classic (ETC) et Kotti.
+      Rivet:
+        description: Rivet est un appel de procédure distante (RPC) Ethereum Virtual Machine (EVM) fournissant des points de terminaison Ethereum Classic (ETC).
       GetBlock:
         description: GetBlock est un service qui fournit une connexion pour les nœuds des principales crypto-monnaies. Ils prennent en charge des outils tels que JSON-RPC, REST et WebSockets, ce qui facilite la synchronisation directe avec la blockchain. Il n'est pas nécessaire de faire fonctionner un nœud soi-même, la plateforme permet à ses clients de se connecter à une blockchain via un nœud complet sans avoir à payer de frais.
       Google BigQuery:
