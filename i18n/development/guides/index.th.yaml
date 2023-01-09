@@ -1,5 +1,5 @@
 title: คู่มือการพัฒนา
-seo: บทช่วยสอนและตัวอธิบายที่คัดสรรมาสำหรับทั้งผู้เริ่มต้นและนักพัฒนาขั้นสูง พร้อมคำอธิบายเกี่ยวกับวิธีการปรับใช้กับ Ethereum Classic
+seo: บทช่วยสอนและคำอธิบายที่ได้รับการคัดสรรสำหรับทั้งผู้เริ่มต้นและนักพัฒนาขั้นสูง พร้อมคำอธิบายวิธีการปรับใช้กับ Ethereum Classic
 description: |
   กระบวนการสร้างและปรับใช้ Smart Contracts กับ Ethereum Classic นั้นเหมือนกับขั้นตอนของ Ethereum หนึ่งในเป้าหมายของ Ethereum Classic คือการรักษาความเข้ากันได้กับ ETH เพื่อให้สัญญาใดๆ ที่ปรับใช้กับ Ethereum สามารถนำไปใช้กับ Ethereum Classic ใหม่ได้อย่างง่ายดาย
 
@@ -80,7 +80,7 @@ items:
         description: สร้างสัญญาอัจฉริยะครั้งแรกของคุณสำหรับ ETC
       Kotti Solidity ETC Oh My:
         name: Kotti, Solidity, ETC, Oh My!
-        description: คู่มือนี้แสดงให้เห็นถึงการกำหนดค่าเริ่มต้นสำหรับ Kotti testnet ของ Ethereum Classic และเวอร์ชันเฉพาะของ Solidity สำหรับการพัฒนา Dapp ที่เข้ากันได้กับ ETC<>ETH Kotti เป็นเครือข่ายทดสอบที่แนะนำสำหรับนักพัฒนา dapp แนะนำให้ใช้มอร์ดอร์สำหรับการทดสอบระดับโปรโตคอล
+        description: คู่มือนี้แสดงการกำหนดค่าเริ่มต้นสำหรับ Kotti testnet ของ Ethereum Classic และเวอร์ชันเฉพาะของ Solidity สำหรับการพัฒนา dapp ที่เข้ากันได้กับ ETC<>ETH Kotti เป็นเครือข่ายทดสอบที่แนะนำสำหรับนักพัฒนา Dapp แนะนำให้ใช้ Mordor สำหรับการทดสอบระดับโปรโตคอล
       How to contribute to Mordor Testnet:
         name: วิธีการมีส่วนร่วมใน Mordor Testnet
         description: คู่มือนี้จะสอนวิธีขุด testnet ETC และเรียกใช้ block explorer ในเครื่องของคุณเองด้วย Expedition Kotti เป็นเครือข่ายทดสอบที่แนะนำสำหรับนักพัฒนา dapp แนะนำให้ใช้มอร์ดอร์สำหรับการทดสอบระดับโปรโตคอล

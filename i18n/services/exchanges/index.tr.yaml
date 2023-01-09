@@ -11,7 +11,7 @@ description: |
 items:
   Trust-Minimizing Exchanges:
     title: Güveni Azaltan Değişimler
-    description: Aşağıdaki borsalar *tamamen* merkeziyetsiz borsalar olmayabilir, ancak aşağıdaki merkezi bölümlerden daha az merkeziyetsiz bir şekilde çalışırlar. Bu ürünlerin borsaları kolaylaştırmak için gözetim dışı akıllı sözleşmeler kullanması muhtemeldir.
+    description: Aşağıdaki borsalar *tamamen* merkezi olmayan borsalar olmayabilir, ancak aşağıdaki merkezi bölümlere göre daha az merkezi bir şekilde çalışır. Bu ürünlerin alışverişi kolaylaştırmak için gözetim dışı akıllı sözleşmeler kullanması muhtemeldir.
   Centralized Spot Markets:
     title: Merkezi Spot Piyasalar
   Centralized Derivative Markets:

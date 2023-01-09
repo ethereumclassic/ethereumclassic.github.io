@@ -1,5 +1,5 @@
 title: 開発ガイド
-seo: 初心者から上級者まで、Ethereum Classicへのデプロイ方法を解説したチュートリアルや解説書をご紹介しています。
+seo: Ethereum Classic へのデプロイ方法の説明を含む、初心者および上級開発者向けのチュートリアルと解説者のセレクション。
 description: |
   スマートコントラクトのオーサリングとEthereum Classicへのデプロイのプロセスは、Ethereumの場合と同じです。Ethereum Classicの目標の1つはETHとの互換性を維持することであり、Ethereumにデプロイされたコントラクトは簡単にEthereum Classicに再デプロイすることができる。
 
@@ -80,7 +80,7 @@ items:
         description: ETCのための最初のスマートコントラクトを構築します。
       Kotti Solidity ETC Oh My:
         name: Kotti、Solidity、ETC、Oh My!
-        description: このガイドでは、ETC<>ETH互換のダップ開発のために、Ethereum ClassicのKottiテストネットとSolidityの特定のバージョンの初期設定を説明します。Kottiは、ダップ開発者のための推奨テストネットです。プロトコルレベルのテストにはMordorを推奨します。
+        description: このガイドでは、Ethereum Classic の Kotti テストネットの初期構成と、ETC<>ETH 互換の dapp 開発用の Solidity の特定のバージョンについて説明します。 Kotti は、dapp 開発者に推奨されるテストネットです。 Mordor は、プロトコル レベルのテストに推奨されます。
       How to contribute to Mordor Testnet:
         name: Mordor Testnetへの貢献方法
         description: このガイドでは、テストネットのETCをマイニングし、Expeditionで独自のローカルブロックエクスプローラーを実行する方法を教えます。Kottiはダップ開発者に推奨されるテストネットです。Mordorはプロトコルレベルのテストに推奨されます。

@@ -75,7 +75,7 @@ const locales = {
   },
   ru: {
     name: "русский",
-    enabled: false,
+    enabled: true,
     dayJsImport: "ru",
   },
   ar: {

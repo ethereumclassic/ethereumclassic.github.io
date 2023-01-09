@@ -1,5 +1,5 @@
 title: Testne mreže
-seo: Informacije o raznim Ethereum Classic testnim mrežama, koje su javno dostupne mreže koje se mogu koristiti za testiranje ugovora i nadogradnji protokola.
+seo: Informacije o raznim Ethereum Classic testnim mrežama, s javno dostupnim mrežama koje se mogu koristiti za testiranje ugovora i nadogradnji protokola.
 description: |
   Prilikom razvijanja ugovora na Ethereum Classicu, kao i kod bilo kojeg EVM Contract Systema, savjetuje se korištenje lokalne [virtualne mreže](/development/tooling), koja vam omogućuje brzo ponavljanje bez čekanja da se blokovi rudare. Međutim, u nekom trenutku možda ćete poželjeti dopustiti javnosti interakciju s beta verzijom vaše aplikacije, a za to se može koristiti testnet.
 

@@ -12,9 +12,9 @@ items:
       policy:
         question: ETC'nin para politikası nedir?
         answer: |
-          Bitcoin'e benzer şekilde, Ethereum Classic de sabit bir emisyon eğrisine sahiptir, yani gelecekte herhangi bir noktada var olan toplam ETC miktarını doğru bir şekilde tahmin edebilirsiniz. Bu, enflasyonist ölüm sarmallarını önler ve ETC'yi güçlü bir değer deposu haline getirir.
+          Bitcoin'e benzer şekilde, sabit bir emisyon eğrisi olarak Ethereum Classic, gelecekte herhangi bir noktada var olan toplam ETC miktarını doğru bir şekilde tahmin edebileceğiniz anlamına gelir. Bu, enflasyonist ölüm sarmallarını önler ve ETC'yi güçlü bir değer deposu haline getirir.
 
-          ETC'nin para politikası hakkında daha fazla bilgiyi [Sound Money](/why-classic/sound-money) bölümünde bulabilirsiniz.
+          [Sound Money](/why-classic/sound-money) bölümünde ETC'nin para politikası hakkında daha fazla bilgi edinin.
       elevator:
         question: Ethereum Classic için asansör konuşması nedir?
         answer: |

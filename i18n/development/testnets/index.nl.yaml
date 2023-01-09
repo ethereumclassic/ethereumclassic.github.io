@@ -1,5 +1,5 @@
 title: Testnetten
-seo: Informatie over de verschillende Ethereum Classic testnets, welke publiekelijk beschikbare netwerken kunnen worden gebruikt om contracten en protocol upgrades te testen.
+seo: Informatie over de verschillende Ethereum Classic-testnetten, met openbaar beschikbare netwerken die kunnen worden gebruikt om contracten en protocolupgrades te testen.
 description: |
   Bij het ontwikkelen van contracten op Ethereum Classic, zoals bij elk EVM contractsysteem, wordt geadviseerd om een lokaal [virtueel netwerk](/development/tooling) te gebruiken, waarmee je snel kunt itereren zonder te hoeven wachten op blokken die gemined worden. Maar op een gegeven moment wilt u misschien het publiek laten interageren met een bètaversie van uw applicatie, en daarvoor kan een testnet worden gebruikt.
 

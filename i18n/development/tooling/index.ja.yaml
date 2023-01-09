@@ -45,6 +45,8 @@ items:
         description: スマートコントラクトをコンパイルし、様々なEthereumネットワークに公開できる便利なインブラウザーIDEです。リンターを含む。
       Signatory:
         description: Ethereum Stack 用のオフライントランザクションおよびメッセージサイナーです。
+      Sidekik:
+        description: ローカルまたはデプロイされた EVM ベースのスマート コントラクトを操作できるビジュアル UI を使用して、スマート コントラクトをデバッグ、テスト、および理解します。
       SOLL:
         description: LLVMコンパイラがついにSolidityに登場します。これを使えば、複数のブロックチェーンVMにまたがるスマートコントラクトを簡単に作成することができます。Ethereum ClassicのEVMとETH 2.0のeWASMは、私たちが最初にサポートするもののうちの1つです。
       Sputnikvm:
@@ -59,8 +61,8 @@ items:
         description: BloqCloudは、ブロックチェーンネットワークへの高度に最適化された、常に利用可能なアクセスを提供します。インフラ管理の心配をすることなく、ニーズに合わせて素早く接続し、簡単に拡張できます。
       DappNode:
         description: DAppNodeは、ノード、DAppsの実行、P2Pネットワークと経済のホスティングを容易にします。
-      Ethercluster:
-        description: Etherclusterは、Ethereum Classic(ETC)とKottiのエンドポイントを無償で提供するオープンソースのEthereum Virtual Machine(EVM)リモートプロシージャコール(RPC)である。
+      Rivet:
+        description: Rivet は、Ethereum Classic (ETC) エンドポイントを提供する Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) です。
       GetBlock:
         description: GetBlockは、主要な暗号通貨のノードへの接続を提供するサービスです。JSON-RPC、REST、WebSocketといったツールをサポートしており、ブロックチェーンとの直接同期を容易にする。自分でノードを動かす必要はなく、このプラットフォームでは、顧客が料金を支払うことなく、フルノードを介してブロックチェーンに接続することができる。
       Google BigQuery:

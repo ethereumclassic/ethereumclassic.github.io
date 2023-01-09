@@ -45,6 +45,8 @@ items:
         description: Eine nützliche In-Browser-IDE, die Smart Contracts kompilieren und in verschiedenen Ethereum-Netzwerken veröffentlichen kann. Enthält einen Linter.
       Signatory:
         description: Ein Offline-Transaktions- und Nachrichtensignierer für den Ethereum Stack.
+      Sidekik:
+        description: Debuggen, testen und groken Sie Smart Contracts mit einer visuellen Benutzeroberfläche, mit der Sie mit lokalen oder bereitgestellten EVM-basierten Smart Contracts interagieren können.
       SOLL:
         description: Der LLVM-Compiler ist endlich für Solidity verfügbar. Mit ihm können wir ganz einfach Smart Contracts über mehrere Blockchain-VMs hinweg erstellen. Der EVM auf Ethereum Classic und der eWASM von ETH 2.0 sind die ersten, die wir unterstützen.
       Sputnikvm:
@@ -59,8 +61,8 @@ items:
         description: BloqCloud bietet einen hochoptimierten, stets verfügbaren Zugang zu Blockchain-Netzwerken. Verbinden Sie sich schnell und skalieren Sie einfach nach Ihren Bedürfnissen - ohne sich um die Verwaltung der Infrastruktur kümmern zu müssen.
       DappNode:
         description: DAppNode ermöglicht das Betreiben von Knoten, DApps und das Hosten von P2P-Netzwerken und -Wirtschaften.
-      Ethercluster:
-        description: Ethercluster ist eine quelloffene Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC), die Ethereum Classic (ETC) und Kotti Endpunkte kostenlos zur Verfügung stellt.
+      Rivet:
+        description: Rivet ist ein Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC), der Ethereum Classic (ETC)-Endpunkte bereitstellt.
       GetBlock:
         description: GetBlock ist ein Dienst, der eine Verbindung zu den Knotenpunkten der wichtigsten Kryptowährungen herstellt. Sie unterstützen Tools wie JSON-RPC, REST und WebSockets, was eine direkte Synchronisierung mit der Blockchain ermöglicht. Es besteht keine Notwendigkeit, selbst einen Knoten zu betreiben. Die Plattform ermöglicht es ihren Kunden, sich über einen vollständigen Knoten mit einer Blockchain zu verbinden, ohne dafür eine Gebühr zahlen zu müssen.
       Google BigQuery:
