@@ -11,7 +11,7 @@ description: |
 items:
   Trust-Minimizing Exchanges:
     title: Échanges minimisant la confiance
-    description: Les échanges suivants ne sont peut-être pas *complètement* décentralisés, mais fonctionnent de manière moins centralisée que les sections centralisées ci-dessous. Il est probable que ces produits utilisent des smart contracts non centralisés pour faciliter les échanges.
+    description: Les échanges suivants peuvent ne pas être des échanges * entièrement * décentralisés, mais fonctionnent de manière moins centralisée que les sections centralisées ci-dessous. Il est probable que ces produits utilisent des contrats intelligents non dépositaires pour faciliter les échanges.
   Centralized Spot Markets:
     title: Marchés spot centralisés
   Centralized Derivative Markets:

@@ -71,14 +71,12 @@ Bir sonraki adım "Özel RPC "ye tıklamaktır.
 Bir sonraki adım, Ethereum Classic'e özgü bilgileri eklemektir. Aşağıda kullandığım ağ verileri yer almaktadır:
 
 - Ağ Adı: `Ethereum Classic`
-- Yeni RPC URL'si: `https://www.ethercluster.com/etc`
+- Yeni RPC URL'si: `https://etc.rivet.link`
 - Zincir Kimliği: `61`
 - Para Birimi Sembolü (isteğe bağlı): `ETC`
 - Explorer URL'sini Engelle (isteğe bağlı): `https://blockscout.com/etc/mainnet/`
 
-"RPC URL'si" için [ETC Cooperative](https://etccooperative.org/)tarafından bu amaçla sağlanan ve [Ethercluster](https://ethercluster.com/)adında oluşturdukları bir üründen gelen URL'yi kullandım.
-
-_[Editör Notu] Ethercluster artık [RIVET](https://rivet.cloud/)tarafından işletilmektedir. Daha fazla RPC Uç Noktasını [network](/network/endpoints) bölümünde bulabilirsiniz._
+“RPC URL” için, [ETC Cooperative](https://etccooperative.org) ile bu amaçla anlaşmalı olan [Rivet](https://rivet.link/)adlı bir firma tarafından bu amaç için sağlanan uç noktayı kullandım. Daha fazla RPC Uç Noktasını [network](/network/endpoints) bölümünde bulabilirsiniz.
 
 "Zincir Kimliği" "61" olmalıdır çünkü bu, cüzdanlar ve düğümler tarafından ETC işlemlerini işletim blok zincirine göndermek için Ethereum Classic ağının özel kimliğidir.
 
@@ -86,7 +84,7 @@ _[Editör Notu] Ethercluster artık [RIVET](https://rivet.cloud/)tarafından iş
 
 ETC'yi MetaMask'e eklemek için "kaydet "e tıklayın.
 
-![Adım 6](./06.png)
+![Adım 6](./06-rivet.png)
 
 ## Adım 7: Ağlar Açılır Menüsünde Ethereum Classic'i Görüntüleyin
 

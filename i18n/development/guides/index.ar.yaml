@@ -80,7 +80,7 @@ items:
         description: قم ببناء أول عقد ذكي خاص بك لـ ETC.
       Kotti Solidity ETC Oh My:
         name: كوتي ، صلابة ، إلخ ، أوه ماي!
-        description: يوضح هذا الدليل تكوينًا أوليًا لشبكة اختبار Kotti الخاصة بشركة Ethereum Classic وإصدار محدد من Solidity لتطوير تطبيق dapp المتوافق مع ETC <> ETH. Kotti هو testnet الموصى به لمطوري dapp. يوصى باستخدام موردور لاختبار مستوى البروتوكول.
+        description: يوضح هذا الدليل تكوينًا أوليًا لشبكة اختبار Kotti الخاصة بشركة Ethereum Classic وإصدارًا محددًا من Solidity لتطوير Dapp المتوافق مع ETC <> ETH. Kotti هو testnet الموصى به لمطوري dapp. يوصى باستخدام موردور لاختبار مستوى البروتوكول.
       How to contribute to Mordor Testnet:
         name: كيفية المساهمة في Mordor Testnet
         description: سيعلمك هذا الدليل كيفية تعدين testnet ETC وتشغيل مستكشف الكتل المحلي الخاص بك مع Expedition. Kotti هو testnet الموصى به لمطوري dapp. يوصى باستخدام موردور لاختبار مستوى البروتوكول.

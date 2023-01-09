@@ -1,15 +1,15 @@
 title: Puntos finales públicos
 seo: Una lista de puntos finales de llamadas a procedimientos remotos (RPC) que pueden utilizarse para interactuar con ETC a través de MetaMask y otras aplicaciones.
 description: |
-  Los puntos finales de llamada a procedimiento remoto (RPC) son su puerta de entrada a Ethereum Classic, y le permiten comunicarse con la cadena ETC y leer sus datos. Para obtener la máxima confianza, ejecute un [Cliente ETC] (/desarrollo/clientes) localmente; un punto final local suele estar disponible en `http://localhost:8545`.
+  Los puntos finales de llamada a procedimiento remoto (RPC) son su puerta de entrada a Ethereum Classic y le permiten comunicarse y leer datos de la cadena ETC. Para obtener la máxima confianza, ejecute un [Cliente ETC](/desarrollo/clientes) localmente; un punto final local suele estar disponible en `http://localhost:8545`.
 
-  También hay disponibles puntos finales RPC públicos de Ethereum Classic, proporcionados de forma gratuita a la comunidad o como un servicio de suscripción. Dado que puede firmar y emitir transacciones localmente utilizando un monedero como [MetaMask](/guides/metamask), los puntos finales públicos pueden utilizarse manteniendo la custodia de sus claves privadas.
+  Los terminales RPC de Ethereum Classic públicos también están disponibles, ya sea de forma gratuita para la comunidad o como un servicio de suscripción. Debido a que puede firmar y transmitir transacciones localmente usando una billetera como [MetaMask](/guides/metamask), se pueden usar puntos finales públicos mientras se mantiene la custodia de sus claves privadas.
 
-  Puede utilizar estas URL para realizar transacciones y desplegarlas en ETC (o en sus redes de prueba) actualizando la configuración de su monedero o de su herramienta de despliegue. Asegúrese también de cambiar su ID de cadena a `61` para la red principal de Ethereum Classic.
+  Puede usar estas URL para realizar transacciones e implementar en ETC (o sus redes de prueba) actualizando la configuración de su billetera o herramienta de implementación. Asegúrese de cambiar también su ID de cadena a `61` para la red principal de Ethereum Classic.
 
-  Para más información sobre otras redes, consulte la sección [testnets](/development/testnets).
+  Para obtener más información sobre otras redes, consulte la sección [testnets](/desarrollo/redes de prueba).
 
-  **Se recomienda seleccionar uno de los puntos finales RPC de ETC monitorizados en tiempo real en [ChainList.org](https://chainlist.org/en/chain/61).
+  **Se recomienda seleccionar uno de los puntos finales ETC RPC monitoreados en tiempo real en [ChainList.org](https://chainlist.org/chain/61).**
 items:
   endpoints:
     columnItems:
