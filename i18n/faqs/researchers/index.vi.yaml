@@ -8,11 +8,11 @@ items:
       what:
         question: Ethereum Classic là gì?
         answer: |
-          Ethereum Classic là một Blockchain Hợp đồng Thông minh Proof of Work cho phép bất kỳ ai cũng có thể xây dựng, triển khai và sử dụng các ứng dụng phi tập trung một cách được phép. Ethereum Classic là một dự án mã nguồn mở cấp cơ sở được xây dựng bởi mọi người trên khắp thế giới mà không có ủy ban tổ chức trung tâm.
+          Ethereum Classic là một Chuỗi khối hợp đồng thông minh Proof of Work cho phép mọi người xây dựng, triển khai và sử dụng các ứng dụng phi tập trung mà không cần xin phép. Ethereum Classic là một dự án mã nguồn mở cấp cơ sở được xây dựng bởi mọi người trên toàn thế giới mà không cần ban tổ chức trung tâm.
 
-          Về mặt triết học, ETC tương tự như Bitcoin, đánh giá lý tưởng của sự phân quyền, khả năng chống kiểm duyệt và tiền tốt. Về mặt công nghệ, nó tương tự như Ethereum, vận hành EVM (Máy ảo Ethereum).
+          Về mặt triết học, ETC tương tự như Bitcoin, đánh giá cao các lý tưởng về phân cấp, chống kiểm duyệt và tiền lành mạnh. Về mặt công nghệ, nó tương tự như Ethereum, vận hành EVM (Máy ảo Ethereum).
 
-          Kết hợp hai cách tiếp cận này đặt Ethereum Classic vào một vị trí độc nhất, cung cấp một nền tảng phi tập trung mạnh mẽ bắt nguồn từ lý tưởng cypherpunk cùng với sự linh hoạt và đổi mới của Hợp đồng thông minh.
+          Việc kết hợp hai cách tiếp cận này đặt Ethereum Classic ở một vị trí độc nhất, cung cấp một nền tảng phi tập trung mạnh mẽ bắt nguồn từ lý tưởng cypherpunk cùng với tính linh hoạt và đổi mới của Hợp đồng thông minh.
       overview:
         question: Ethereum Classic có phải là một sự tách rời của Ethereum không?
         answer: |

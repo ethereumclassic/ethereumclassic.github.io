@@ -12,9 +12,9 @@ items:
       policy:
         question: Quelle est la politique monétaire de l'ETC ?
         answer: |
-          Comme pour le Bitcoin, Ethereum Classic a une courbe d'émission fixe, ce qui signifie que vous pouvez prévoir avec précision le montant total d'ETC existant à tout moment dans le futur. Cela évite les spirales inflationnistes et fait de l'ETC une solide réserve de valeur.
+          Semblable à Bitcoin, Ethereum Classic a une courbe d'émission fixe, ce qui signifie que vous pouvez prévoir avec précision le montant total d'ETC existant à tout moment dans le futur. Cela empêche les spirales inflationnistes de la mort et fait d'ETC une solide réserve de valeur.
 
-          Pour en savoir plus sur la politique monétaire de l'ETC, consultez la section [Sound Money](/why-classic/sound-money).
+          En savoir plus sur la politique monétaire d'ETC dans la section [Sound Money](/why-classic/sound-money).
       elevator:
         question: Quel est le discours d'ascenseur pour Ethereum Classic ?
         answer: |

@@ -45,6 +45,8 @@ items:
         description: Akıllı sözleşmeleri derleyip çeşitli Ethereum ağlarında yayınlayabilen kullanışlı bir tarayıcı içi IDE. Bir linter içerir.
       Signatory:
         description: Ethereum Stack için çevrimdışı bir işlem ve mesaj imzalayıcı.
+      Sidekik:
+        description: Yerel veya devreye alınmış EVM tabanlı akıllı sözleşmelerle etkileşim kurmanıza izin veren görsel bir kullanıcı arabirimi ile akıllı sözleşmelerde hata ayıklayın, test edin ve grok yapın.
       SOLL:
         description: LLVM derleyicisi nihayet Solidity'ye geliyor. Bununla birlikte, birden fazla blok zinciri VM'sinde kolayca akıllı sözleşmeler oluşturabiliyoruz. Ethereum Classic'teki EVM ve ETH 2.0'ın eWASM'ı ilk desteklediklerimiz arasında.
       Sputnikvm:
@@ -59,8 +61,8 @@ items:
         description: BloqCloud, blockchain ağlarına yüksek düzeyde optimize edilmiş, her zaman kullanılabilir erişim sağlar. Altyapı yönetimi konusunda endişelenmenize gerek kalmadan hızlı bir şekilde bağlanın ve ihtiyaçlarınıza göre kolayca ölçeklendirin.
       DappNode:
         description: DAppNode, düğümleri, DApp'leri çalıştırmayı ve P2P ağlarını ve ekonomilerini barındırmayı kolaylaştırır.
-      Ethercluster:
-        description: Ethercluster, Ethereum Classic (ETC) ve Kotti uç noktalarını ücretsiz olarak sağlayan açık kaynaklı bir Ethereum Sanal Makinesi (EVM) Uzaktan Prosedür Çağrısıdır (RPC).
+      Rivet:
+        description: Rivet, Ethereum Classic (ETC) uç noktaları sağlayan bir Ethereum Sanal Makinesi (EVM) Uzaktan Prosedür Çağrısıdır (RPC).
       GetBlock:
         description: GetBlock, büyük kripto para birimlerinin düğümleri için bağlantı sağlayan bir hizmettir. Blok zinciri ile doğrudan senkronizasyonu kolaylaştıran JSON-RPC, REST ve WebSockets gibi araçları desteklemektedir. Kendiniz bir node çalıştırmanıza gerek yoktur, platform müşterilerinin bir ücret ödemek zorunda kalmadan tam bir node aracılığıyla bir blok zincirine bağlanmasına olanak tanır.
       Google BigQuery:

@@ -12,9 +12,9 @@ items:
       policy:
         question: '¿Cuál es la política monetaria de ETC?'
         answer: |
-          Al igual que Bitcoin, Ethereum Classic tiene una curva de emisión fija, lo que significa que se puede predecir con exactitud la cantidad total de ETC existente en cualquier momento en el futuro. Esto evita las espirales inflacionistas y convierte a ETC en un sólido depósito de valor.
+          Similar a Bitcoin, Ethereum Classic tiene una curva de emisión fija, lo que significa que puede pronosticar con precisión la cantidad total de ETC existente en cualquier momento en el futuro. Esto evita espirales de muerte inflacionarias y convierte a ETC en una sólida reserva de valor.
 
-          Lea más acerca de la política monetaria de ETC en la sección [Sound Money](/por qué-classic/sound-money).
+          Lea más sobre la política monetaria de ETC en la sección [Sound Money](/why-classic/sound-money).
       elevator:
         question: '¿Cuál es el discurso de ascensor de Ethereum Classic?'
         answer: |

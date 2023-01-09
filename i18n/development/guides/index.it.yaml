@@ -1,5 +1,5 @@
 title: Guide allo sviluppo
-seo: Una selezione di tutorial e spiegazioni per sviluppatori principianti e avanzati, con una spiegazione di come effettuare il deploy su Ethereum Classic.
+seo: Una selezione di tutorial e spiegazioni sia per i principianti che per gli sviluppatori avanzati, con una spiegazione su come eseguire il deployment su Ethereum Classic.
 description: |
   Il processo di creazione e distribuzione di Smart Contracts su Ethereum Classic è lo stesso di Ethereum. Uno degli obiettivi di Ethereum Classic è quello di mantenere la compatibilità con l'ETH, in modo che qualsiasi contratto distribuito su Ethereum possa essere facilmente riproposto su Ethereum Classic.
 
@@ -80,7 +80,7 @@ items:
         description: Costruite il vostro primo contratto intelligente per ETC.
       Kotti Solidity ETC Oh My:
         name: Kotti, Solidity, ETC, Oh My!
-        description: Questa guida illustra una configurazione iniziale per la testnet Kotti di Ethereum Classic e una versione specifica di Solidity per lo sviluppo di dapp compatibili con ETC<>ETH. Kotti è la testnet consigliata per gli sviluppatori di dapp. Mordor è consigliato per i test a livello di protocollo.
+        description: Questa guida illustra una configurazione iniziale per il testnet Kotti di Ethereum Classic e una versione specifica di Solidity per lo sviluppo di dapp compatibili con ETC<>ETH. Kotti è la testnet consigliata per gli sviluppatori di dapp. Mordor è consigliato per i test a livello di protocollo.
       How to contribute to Mordor Testnet:
         name: Come contribuire al Mordor Testnet
         description: Questa guida vi insegnerà come estrarre ETC dalla testnet ed eseguire il vostro esploratore di blocchi locale con Expedition. Kotti è la testnet consigliata per gli sviluppatori di dapp. Mordor è consigliata per i test a livello di protocollo.

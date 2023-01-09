@@ -1,5 +1,5 @@
 title: Testnets
-seo: Informations sur les différents testnets d'Ethereum Classic, des réseaux accessibles au public qui peuvent être utilisés pour tester les contrats et les mises à jour du protocole.
+seo: Informations sur les différents réseaux de test Ethereum Classic, avec des réseaux accessibles au public qui peuvent être utilisés pour tester les contrats et les mises à niveau de protocole.
 description: |
   Lors du développement de contrats sur Ethereum Classic, comme avec tout système de contrat EVM, il est conseillé d'utiliser un [réseau virtuel] local (/development/tooling), qui vous permet d'itérer rapidement sans avoir à attendre que les blocs soient minés. À un moment donné, cependant, vous pouvez souhaiter permettre au public d'interagir avec une version bêta de votre application, et pour cela, un testnet peut être utilisé.
 

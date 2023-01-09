@@ -45,6 +45,8 @@ items:
         description: 一个有用的浏览器IDE，可以编译和发布智能合约到各种Ethereum网络。包括一个linter。
       Signatory:
         description: 以太坊堆栈的一个离线交易和消息签名器。
+      Sidekik:
+        description: 使用可视化 UI 调试、测试和理解智能合约，让您可以与本地或部署的基于 EVM 的智能合约进行交互。
       SOLL:
         description: LLVM编译器终于来到了Solidity。有了它，我们可以在多个区块链虚拟机上轻松创建智能合约。以太坊经典上的EVM和ETH 2.0的eWASM是我们首批支持的。
       Sputnikvm:
@@ -59,8 +61,8 @@ items:
         description: BloqCloud提供高度优化的、始终可用的区块链网络访问。根据您的需求快速连接并轻松扩展--无需担心管理基础设施。
       DappNode:
         description: DAppNode为运行节点、DApps和托管P2P网络和经济提供便利。
-      Ethercluster:
-        description: Ethercluster是一个开源的以太坊虚拟机(EVM)远程程序调用(RPC)，免费提供Ethereum Classic(ETC)和Kotti端点。
+      Rivet:
+        description: Rivet 是一个以太坊虚拟机 (EVM) 远程过程调用 (RPC)，提供以太坊经典 (ETC) 端点。
       GetBlock:
         description: GetBlock是一个为主要加密货币的节点提供连接的服务。他们支持JSON-RPC、REST和WebSockets等工具，这有利于与区块链直接同步。不需要自己运行一个节点，该平台允许其客户通过一个完整的节点连接到区块链，而不需要支付费用。
       Google BigQuery:
