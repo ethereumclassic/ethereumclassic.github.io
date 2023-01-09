@@ -103,7 +103,7 @@ linkImage: ./[satoshi-bitcoin-banner].png
 
 所以，ETC和比特币有相同的两个基础支柱;固定供给和工作证明的协商一致机制;除此之外，它还添加了智能合约。这使得ETC的“代码即法律”原则是一个真实的陈述。因此，ETC赋予金钱和应用程序健全力、生存力、抗审查力、不可阻挡等好处，它们是不可妥协和不可捕捉的。
 
-![代码及法律的原则](./satoshi-bitcoin-etc.png)
+![代码及法律的原则](./satoshi-bitcoin-etc-zh.png)
 
 ---
 
