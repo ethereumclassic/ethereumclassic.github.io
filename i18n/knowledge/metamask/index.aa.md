@@ -70,14 +70,12 @@ crwdns69470:0crwdne69470:0 crwdns69472:0crwdne69472:0
 crwdns69494:0crwdne69494:0 crwdns69496:0crwdne69496:0
 
 - crwdns69498:0crwdne69498:0
-- crwdns69500:0crwdne69500:0
+- crwdns108559:0crwdne108559:0
 - crwdns69502:0crwdne69502:0
 - crwdns69504:0crwdne69504:0
 - crwdns69506:0crwdne69506:0
 
-crwdns69508:0crwdne69508:0
-
-_crwdns69510:0crwdne69510:0 crwdns69512:0crwdne69512:0_
+crwdns108561:0crwdne108561:0 crwdns69512:0crwdne69512:0
 
 crwdns69514:0crwdne69514:0
 
@@ -85,7 +83,7 @@ crwdns69516:0crwdne69516:0
 
 crwdns69518:0crwdne69518:0
 
-![crwdns69522:0crwdne69522:0](./06.png)
+![crwdns69522:0crwdne69522:0](./06-rivet.png)
 
 ## crwdns83168:0crwdne83168:0
 

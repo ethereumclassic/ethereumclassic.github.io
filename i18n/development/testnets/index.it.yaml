@@ -1,5 +1,5 @@
 title: Reti di prova
-seo: Informazioni sulle varie testnet di Ethereum Classic, reti disponibili pubblicamente che possono essere utilizzate per testare i contratti e gli aggiornamenti del protocollo.
+seo: Informazioni sui vari testnet di Ethereum Classic, con reti pubblicamente disponibili che possono essere utilizzate per testare contratti e aggiornamenti del protocollo.
 description: |
   Quando si sviluppano contratti su Ethereum Classic, come per qualsiasi sistema di contratti EVM, si consiglia di utilizzare una [rete virtuale] locale (/development/tooling), che consente di iterare rapidamente senza dover attendere il mining dei blocchi. A un certo punto, però, si potrebbe desiderare di consentire al pubblico di interagire con una versione beta della propria applicazione, e per questo si può utilizzare una testnet.
 

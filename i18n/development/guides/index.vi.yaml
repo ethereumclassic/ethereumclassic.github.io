@@ -1,5 +1,5 @@
 title: Hướng dẫn phát triển
-seo: Tuyển tập các hướng dẫn và giải thích cho cả người mới bắt đầu và nhà phát triển nâng cao, với giải thích về cách triển khai lên Ethereum Classic.
+seo: Tuyển tập các hướng dẫn và giải thích cho cả người mới bắt đầu và nhà phát triển nâng cao, với lời giải thích về cách triển khai Ethereum Classic.
 description: |
   Quá trình tạo và triển khai Hợp đồng thông minh cho Ethereum Classic cũng giống như đối với Ethereum. Một trong những mục tiêu của Ethereum Classic là duy trì khả năng tương thích với ETH, để bất kỳ hợp đồng nào được triển khai cho Ethereum đều có thể dễ dàng triển khai lại sang Ethereum Classic.
 
@@ -80,7 +80,7 @@ items:
         description: Xây dựng hợp đồng thông minh đầu tiên của bạn cho ETC.
       Kotti Solidity ETC Oh My:
         name: Kotti, Solidity, ETC, Oh My!
-        description: Hướng dẫn này minh họa cấu hình ban đầu cho testnet Kotti của Ethereum Classic và phiên bản Solidity cụ thể cho phát triển dapp tương thích với ETC <> ETH. Kotti là testnet được đề xuất cho các nhà phát triển dapp. Mordor được khuyến nghị để kiểm tra mức giao thức.
+        description: Hướng dẫn này minh họa cấu hình ban đầu cho mạng thử nghiệm Kotti của Ethereum Classic và một phiên bản cụ thể của Solidity để phát triển dapp tương thích với ETC<>ETH. Kotti là mạng thử nghiệm được đề xuất cho các nhà phát triển dapp. Mordor được khuyến nghị để kiểm tra cấp độ giao thức.
       How to contribute to Mordor Testnet:
         name: Cách đóng góp cho Mordor Testnet
         description: Hướng dẫn này sẽ dạy bạn cách khai thác testnet ETC và chạy trình khám phá khối cục bộ của riêng bạn với Expedition. Kotti là testnet được đề xuất cho các nhà phát triển dapp. Mordor được khuyến nghị để kiểm tra mức giao thức.

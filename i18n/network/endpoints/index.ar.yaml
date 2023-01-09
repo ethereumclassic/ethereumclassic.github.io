@@ -9,7 +9,7 @@ description: |
 
   لمزيد من المعلومات حول الشبكات الأخرى ، راجع قسم [testnets](/ development / testnets).
 
-  ** يوصى بتحديد إحدى نقاط نهاية ETC RPC الخاضعة للمراقبة في الوقت الفعلي في [ChainList.org](https://chainlist.org/en/chain/61).
+  ** يوصى بتحديد إحدى نقاط نهاية ETC RPC الخاضعة للمراقبة في الوقت الفعلي في [ChainList.org](https://chainlist.org/chain/61).
 items:
   endpoints:
     columnItems:

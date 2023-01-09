@@ -1,5 +1,5 @@
 title: Test Ağları
-seo: Sözleşmeleri ve protokol yükseltmelerini test etmek için kullanılabilecek halka açık ağlar olan çeşitli Ethereum Classic test ağları hakkında bilgi.
+seo: Sözleşmeleri ve protokol yükseltmelerini test etmek için kullanılabilecek halka açık ağlara sahip çeşitli Ethereum Classic test ağları hakkında bilgiler.
 description: |
   Ethereum Classic üzerinde sözleşmeler geliştirirken, herhangi bir EVM Sözleşme Sisteminde olduğu gibi, blokların çıkarılmasını beklemek zorunda kalmadan hızlı bir şekilde yineleme yapmanıza olanak tanıyan yerel bir [sanal ağ] (/development/tooling) kullanmanız önerilir. Bununla birlikte, bir noktada, halkın uygulamanızın beta sürümüyle etkileşime girmesine izin vermek isteyebilirsiniz ve bunun için bir testnet kullanılabilir.
 
