@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Course: 4. Satoshi Nakamoto and Bitcoin"
+title: "以太坊经典课程:4.中本聪与比特币"
 date: 2023-01-12
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,106 +8,105 @@ linkImage: ./[satoshi-bitcoin-banner].png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3gtE4z3NFaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-## Satoshi Nakamoto
+## 中本聪（Satoshi Nakamoto）
 
-Satoshi Nakamoto had such knowledge and focus on the same principles as Cypherpunks that it is very likely he was one.
+中本聪拥有知识并专注于与密码朋克相同的原则，他很可能就是其中之一。
 
-It is important to note that the fact that he used a pseudonym was very common among Cypherpunks. Ever since they had started working on cryptography and building systems for privacy, non-government money, and self sovereignty in the 1980s they had been frequently investigated, restricted, and surveilled by authorities.
+值得注意的是，他使用的假名在密码朋克中非常常见。自从他们在20世纪80年代开始研究密码学并建立隐私、非政府资金和主权系统以来，他们就经常受到当局的调查、限制和监视。
 
-In October of 2008, Satoshi released the Bitcoin white paper and in January of 2009 he launched the Bitcoin network.
+2008年10月，Satoshi发布了比特币白皮书，并于2009年1月推出了比特币网络。
 
-## Bitcoin
+## 比特币
 
 ![Bitcoin](./satoshi-bitcoin.png)
 
-The structure and service that Bitcoin provides is very simple. It is a ledger with accounts and balances and users may send new transactions to move money from one account to another.
+比特币提供的结构和服务非常简单。它是一个有账户和余额的分类账，用户可以发送新的交易，将资金从一个账户转移到另一个账户。
 
-That’s it. Nothing more!
+仅此而已，没有更多。
 
-However, this simplicity must not undermine the enormous feat it was. Only comparable to the invention of the internet or the printing press.
+然而，这种简单不能破坏它的伟大成就。只能与互联网或印刷机的发明相比。
 
-In the next sections we will explain how it works, what it accomplished, and what are the implications for Ethereum Classic.
+在下一节中，我们将解释它是如何工作的，它完成了什么，以及对以太坊经典的影响。
 
-## Full Transmission and Full Replication
+## 全传输和全复制
 
-Although not an innovation of Bitcoin, one of the main principles of the system is that all data must be fully transmitted and fully replicated in all the nodes of the network.
+虽然不是比特币的创新，但该系统的一个主要原则是，所有数据必须在网络的所有节点中完全传输和完全复制。
 
-Full transmission and full replication provide the most assurance of uptime and redundancy.
+全传输和全复制提供了正常运行时间和冗余的最大保证。
 
-The way it works is that each time a transaction is sent, it is re-transmitted by all nodes to all other nodes participating in the network so they can keep a replicated copy. This includes miners, who then proceed to build and stamp batches of data with these transactions.
+它的工作方式是，每次发送一个事务时，它被所有节点重新传输到参与网络的所有其他节点，以便它们可以保持一个复制副本。这包括挖矿者，他们接着使用这些交易构建和标记批量数据。
 
-## Proof of Work
+## 工作量证明
 
-The batches of data in the database of Bitcoin are called blocks and they are also fully transmitted and replicated:
+比特币数据库中的批量数据称为区块，也是完全传输和复制的:
 
-When miners receive the transactions, they package them into blocks every ten minutes and then stamp them with a cryptographic function called a hash.
+当矿工接收到交易时，他们每隔十分钟将交易打包成块，然后用一种称为哈希的加密函数戳记它们。
 
-These hashes or stamps require enormous amounts of work and consumption of electricity for computers to generate them. This is why the process is called “mining”.
+这些散列或戳记需要大量的工作和电力的消耗，以使计算机生成它们。这就是为什么这个过程被称为“挖掘”。
 
-Once the miners hash the blocks of transactions, then they send them back to the rest of the network for verification and full transmission and replication.
+一旦矿工对交易块进行散列，然后将它们发送回网络的其他部分进行验证，并进行完整的传输和复制。
 
-Once verified, the blocks are included as the next batch of transactions by all nodes in their local databases, forming a chain of blocks, hence the term blockchain.
+一旦经过验证，这些块将被本地数据库中的所有节点作为下一批事务包含进来，形成一个块链，因此术语为：区块链。
 
-## Fixed Monetary Policy
+## 固定货币政策
 
-The way Bitcoin is issued and distributed is by paying miners a reward for doing all the required work while spending enormous amounts of electricity.
+比特币的发行和分发方式是向矿工支付报酬，让他们在消耗大量电力的同时完成所有所需的工作。
 
-When a block is verified, a preset amount of Bitcoin is created and credited to the account of the miner.
+当一个区块被验证后，就会创建预设数量的比特币，并记入矿工的账户。
 
-The rewards schedule per block every ten minutes determines the supply of Bitcoin, and it was preset in periods of four years, where the payment per block has been decreasing by 50% in each period.
+每十分钟每个区块的奖励计划决定了比特币的供应，它以四年为周期进行预设，每个周期每个区块的支付都减少了50%。
 
-So, from 2009 to 2012, the payment was 50 bitcoins per block every ten minutes, four years later it was 25, then 12.50, 6.25, 3.125…and so on.
+所以，从2009年到2012年，每10分钟支付一个区块，也就是50个比特币。四年后是25，然后是12.50,6.25,3.125……
 
-This schedule guarantees that there will only be 21,000,000 bitcoins created by the year 2140 and no more will ever exist.
+这个时间表保证到2140年只会有2100万个比特币被创造出来，并且不会有更多的比特币存在。
 
-## Security Model
+## 安全模型
 
-Proof of work provided an unprecedented level of security, never seen before in computer science because of these four characteristics:
+工作证明提供了前所未有的安全级别，这在计算机科学中从未见过，因为有以下四个特点:
 
-**1. The cost of creating blocks is equal to the cost of creating the currency:** As seen above, the rewards are paid to miners only if they do the work required to hash blocks, therefore the cost of creating blocks is the same as creating the money.
+**1.创建区块的成本等于创建货币的成本:** 如上所示，只有矿工做了散列区块所需的工作，奖励才会付给他们，因此创建区块的成本和创建货币的成本是一样的。
 
-**2. Enables consensus between all computers:** Because the only block that will be accepted as the next block by all machines in the network will be the one that has all the work done, then it is very easy for all nodes to decide on the same exact block every 10 minutes. Any block sent by imposters that did not do the work will always be eliminated.
+**2.使所有计算机之间达成一致:** 因为网络中唯一被所有计算机接受作为下一个块的块将是完成所有工作的块，那么对于所有节点来说，每10分钟决定一个相同的块是非常容易的。任何由冒名顶替者发送的不做工作的区块将总是被消除。
 
-**3. Focal point for entry, exit, and reentry:** The same information, the great amount of work done by miners, that assures perfect consensus every ten minutes between all machines in the system, is the one that may be used by any new entrant into the system, or any machine that leaves and then wants to enter again, to know which is the correct chain of blocks just by verifying that the work was done. Any imposter chains that did not do the work will always be eliminated.
+**3.进入，退出，再进入的焦点:** 保证系统中所有机器之间每十分钟完全一致的相同信息、由矿工完成的大量工作，是任何新的进入系统的人可能使用的信息，或任何离开然后想要再次进入的机器通过已完成的验证工作来知道哪一个是正确的区块链。任何冒充者链，没有做的工作将永远被消除。
 
-**4. Protection of all the history of transactions:** For any transaction that has been sent and included in a block in Bitcoin to be reversed or deleted the same amount of work that was done for its inclusion must be done again. This prevents any attacker from reversing past transactions, and the older a transaction is the more difficult it is reverse or delete.
+**4.所有交易历史的保护:** 对于任何已经发送并包含在比特币区块中的交易，要被逆转或删除，必须重新做相同数量的工作。这可以防止任何攻击者逆转过去的事务。而且越早的事务越难以逆转或删除。
 
-## Nakamoto Consensus
+## 中本聪共识
+中本聪发明的系统被称为中本共识(Nakamoto Consensus)，包括以下内容:
 
-The system invented by Satoshi Nakamoto is called Nakamoto Consensus and includes all the components described above:
+1. 完全传输
+2. 完全复制
+3. 工作量证明
+4. 区块生产
+5. 固定供给
 
-1. Full transmission 
-2. Full replication
-3. Proof of work
-4. Block production
-5. Fixed supply
+这些共同保证了区块链的不变性和安全性。
 
-And, all these combined assure the immutability and security of the blockchain.
+## 它完成了什么？
 
-## What Does it Accomplish?
+如前所述，中本共识在保持去中心化的同时，实现了系统之前从未达到的安全和保障水平。
 
-As said before, Nakamoto Consensus accomplishes a level of safety and security of the system never reached before while keeping it decentralized.
+这使得信任最小化，意味着用户可以通过点对点的方式直接互动，发送和接收金钱，而不需要信任的第三方。因为第三方可能会被特殊利益捕获，限制自由和人类行为。
 
-This makes it trust minimized, meaning that users may interact directly between themselves in a peer-to-peer way, sending and receiving money, without the need of trusted third parties, who may be captured by special interests, restricting freedom and human action.
+就像互联网一样，比特币的设计初衷是在核战争中生存下来，最重要的是，它为互联网提供了硬通货。
 
-Just as the internet, Bitcoin is designed to survive a nuclear war, and, on top of that, it assures hard money for the internet.
+## 对以太坊经典的影响
 
-## Implications for Ethereum Classic
+以太坊经典使用与比特币相同的共识机制。然而，ETC为比特币的基础技术增加了存储和执行智能合约或去中心化程序的能力。这将ETC中的应用程序变成分散的应用程序，在区块链的高度安全环境中执行它们的代码。
 
-Ethereum Classic uses the same consensus mechanism as Bitcoin. However, ETC adds to the base technology of Bitcoin the ability to store and execute smart contracts or decentralized programs. This turns applications in ETC into decentralized applications which execute their code inside the highly secure environment of the blockchain. 
+所以，ETC和比特币有相同的两个基础支柱;固定供给和工作证明的协商一致机制;除此之外，它还添加了智能合约。这使得ETC的“代码即法律”原则是一个真实的陈述。因此，ETC赋予金钱和应用程序健全力、生存力、抗审查力、不可阻挡等好处，它们是不可妥协和不可捕捉的。
 
-So, ETC has the same two base pillars as Bitcoin; a fixed supply and the proof of work based consensus mechanism; but to that it added smart contracts. This makes ETC’s principle of Code Is Law a true statement. Therefore, ETC gives money and applications the benefits of soundness, survivability, censorship resistance, unstoppability, and they are uncompromisable and uncapturable.
-
-![ETC Code Is Law principle.](./satoshi-bitcoin-etc.png)
+![代码及法律的原则](./satoshi-bitcoin-etc.png)
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+想了解更多有关ETC的内容，请访问： https://ethereumclassic.org
