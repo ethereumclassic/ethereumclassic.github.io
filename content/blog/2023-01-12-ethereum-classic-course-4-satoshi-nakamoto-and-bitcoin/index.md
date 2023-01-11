@@ -68,7 +68,7 @@ This schedule guarantees that there will only be 21,000,000 bitcoins created by 
 
 ## Security Model
 
-Proof of work provided an unprecedented level of security, never seen before in computer science because of these four characteristics:
+Proof of work provided an unprecedented level of security never seen before in computer science because of these four characteristics:
 
 **1. The cost of creating blocks is equal to the cost of creating the currency:** As seen above, the rewards are paid to miners only if they do the work required to hash blocks, therefore the cost of creating blocks is the same as creating the money.
 
