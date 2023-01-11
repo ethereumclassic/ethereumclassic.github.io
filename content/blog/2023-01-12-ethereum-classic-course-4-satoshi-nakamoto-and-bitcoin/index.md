@@ -102,7 +102,7 @@ Just like the internet, Bitcoin is designed to survive a nuclear war. On top of 
 
 Ethereum Classic uses the same consensus mechanism as Bitcoin. However, ETC adds to the base technology of Bitcoin the ability to store and execute smart contracts or decentralized programs. This turns applications in ETC into decentralized applications which execute their code inside the highly secure environment of the blockchain. 
 
-So, ETC has the same two base pillars as Bitcoin; a fixed supply and the proof of work based consensus mechanism; but to that it added smart contracts. This makes ETC’s principle of Code Is Law a true statement. Therefore, ETC gives money and applications the benefits of soundness, survivability, censorship resistance, unstoppability, and they are uncompromisable and uncapturable.
+So, ETC has the same two base pillars as Bitcoin; a fixed supply and the proof of work based consensus mechanism; but to that it added smart contracts. This makes ETC’s principle of Code Is Law a true statement. Therefore, ETC gives money and applications the benefits of soundness, survivability, censorship resistance, and unstoppability making them uncompromisable and uncapturable.
 
 ![ETC Code Is Law principle.](./satoshi-bitcoin-etc.png)
 
