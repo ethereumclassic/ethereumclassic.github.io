@@ -1,15 +1,15 @@
 title: Genel Uç Noktalar
 seo: MetaMask ve diğer uygulamalar aracılığıyla ETC ile etkileşim kurmak için kullanılabilecek Uzak Prosedür Çağrısı (RPC) uç noktalarının bir listesi.
 description: |
-  Uzaktan Prosedür Çağrısı (RPC) Uç Noktaları, Ethereum Classic'e açılan ağ geçidinizdir ve ETC zinciriyle iletişim kurmanıza ve bu zincirden veri okumanıza olanak tanır. Maksimum güvenilirlik için, yerel olarak bir [ETC Client] (/development/clients) çalıştırırsınız; yerel bir uç nokta genellikle `http://localhost:8545` adresinde kullanıma sunulur.
+  Uzaktan Prosedür Çağrısı (RPC) Uç Noktaları, Ethereum Classic'e açılan kapınızdır ve ETC zinciriyle iletişim kurmanıza ve verileri okumanıza olanak tanır. Maksimum güvenirlik için, yerel olarak bir [ETC İstemcisi](/development/clients) çalıştırırsınız; yerel bir bitiş noktası genellikle "http://localhost:8545" adresinde sağlanır. Topluluğa ücretsiz olarak veya bir abonelik hizmeti olarak sağlanan Public
 
-  Halka açık Ethereum Classic RPC uç noktaları da mevcuttur ve topluluğa ücretsiz olarak ya da abonelik hizmeti olarak sağlanır. İşlemleri [MetaMask](/guides/metamask) gibi bir cüzdan kullanarak yerel olarak imzalayabildiğiniz ve yayınlayabildiğiniz için, özel anahtarlarınızın muhafazasını korurken genel uç noktaları kullanabilirsiniz.
+  Classic RPC uç noktaları da mevcuttur. [MetaMask](/guides/metamask) gibi bir cüzdan kullanarak yerel olarak işlemleri imzalayıp yayınlayabildiğiniz için, özel anahtarlarınızın gözetimi korunurken genel uç noktalar kullanılabilir.
 
-  Cüzdanınızı veya dağıtım aracı yapılandırmanızı güncelleyerek ETC'ye (veya test ağlarına) işlem yapmak ve dağıtmak için bu URL'leri kullanabilirsiniz. Ethereum Classic ana ağı için Zincir Kimliğinizi `61` olarak değiştirdiğinizden de emin olun.
+  Bu URL'leri, cüzdanınızı veya dağıtım aracı yapılandırmanızı güncelleyerek ETC'ye (veya test ağlarına) işlem yapmak ve dağıtmak için kullanabilirsiniz. Ayrıca Ethereum Classic ana ağı için Zincir Kimliğinizi "61" olarak değiştirdiğinizden emin olun.
 
-  Diğer ağlar hakkında daha fazla bilgi için [testnets](/development/testnets) bölümüne göz atın.
+  Diğer ağlar hakkında daha fazla bilgi için [testnets](/development/testnets) bölümüne bakın.
 
-  ** [ChainList.org](https://chainlist.org/en/chain/61) adresindeki gerçek zamanlı izlenen ETC RPC uç noktalarından birini seçmeniz önerilir.**
+  ** [ChainList.org]üzerinden gerçek zamanlı izlenen ETC RPC uç noktalarından birini seçmeniz önerilir (https://chainlist.org/chain/61).**
 items:
   endpoints:
     columnItems:

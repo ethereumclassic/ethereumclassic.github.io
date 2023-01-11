@@ -8,11 +8,11 @@ items:
       what:
         question: Qu'est-ce qu'Ethereum Classic ?
         answer: |
-          Ethereum Classic est une blockchain de type "Proof of Work Smart Contract" qui permet à quiconque de construire, déployer et utiliser des applications décentralisées sans autorisation. Ethereum Classic est un projet open-source de base construit par des personnes du monde entier sans comité d'organisation central.
+          Ethereum Classic est une chaîne de blocs de contrats intelligents de preuve de travail qui permet à quiconque de créer, déployer et utiliser sans autorisation des applications décentralisées. Ethereum Classic est un projet open source de base construit par des personnes du monde entier sans comité d'organisation central.
 
-          Sur le plan philosophique, ETC est similaire à Bitcoin, valorisant les idéaux de décentralisation, de résistance à la censure et de monnaie saine. Sur le plan technologique, il est similaire à Ethereum, car il exploite une EVM (Ethereum Virtual Machine).
+          Philosophiquement, ETC est similaire à Bitcoin, valorisant les idéaux de décentralisation, de résistance à la censure et de monnaie saine. Technologiquement, il est similaire à Ethereum, exploitant une EVM (Ethereum Virtual Machine).
 
-          La combinaison de ces deux approches place Ethereum Classic dans une position unique, offrant une base décentralisée solide ancrée dans les idéaux cypherpunk ainsi que la flexibilité et l'innovation des Smart Contracts.
+          La combinaison de ces deux approches place Ethereum Classic dans une position unique, offrant une base décentralisée solide ancrée dans les idéaux cypherpunk ainsi que la flexibilité et l'innovation des contrats intelligents.
       overview:
         question: Ethereum Classic est-il une arnaque d'Ethereum ?
         answer: |

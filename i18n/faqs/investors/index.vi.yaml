@@ -12,9 +12,9 @@ items:
       policy:
         question: Chính sách tiền tệ của ETC là gì?
         answer: |
-          Tương tự như Bitcoin, Ethereum Classic là một đường cong phát thải cố định, có nghĩa là bạn có thể dự báo chính xác tổng lượng ETC đang tồn tại tại bất kỳ thời điểm nào trong tương lai. Điều này ngăn chặn vòng xoáy lạm phát chết và làm cho ETC trở thành một kho lưu trữ giá trị mạnh mẽ.
+          Tương tự như Bitcoin, Ethereum Classic là một đường cong phát thải cố định, nghĩa là bạn có thể dự báo chính xác tổng lượng ETC tồn tại tại bất kỳ thời điểm nào trong tương lai. Điều này ngăn chặn vòng xoáy tử vong do lạm phát và làm cho ETC trở thành một kho lưu trữ giá trị mạnh mẽ.
 
-          Đọc thêm về chính sách tiền tệ của ETC trong phần [Sound Money] (/ why-classic / sound-money).
+          Đọc thêm về chính sách tiền tệ của ETC trong phần [Sound Money](/why-classic/sound-money).
       elevator:
         question: Quảng cáo chiêu hàng cho Ethereum Classic là gì?
         answer: |

@@ -45,6 +45,8 @@ items:
         description: Un utile IDE in-browser che può compilare e pubblicare contratti intelligenti su varie reti Ethereum. Include un liner.
       Signatory:
         description: Un firmatario di transazioni e messaggi offline per lo stack Ethereum.
+      Sidekik:
+        description: Debug, test e grok di contratti intelligenti con un'interfaccia utente visiva che ti consente di interagire con contratti intelligenti basati su EVM locali o distribuiti.
       SOLL:
         description: Il compilatore LLVM arriva finalmente su Solidity. Con esso possiamo creare facilmente contratti intelligenti su più macchine virtuali blockchain. L'EVM di Ethereum Classic e l'eWASM di ETH 2.0 sono tra i primi che supportiamo.
       Sputnikvm:
@@ -59,8 +61,8 @@ items:
         description: BloqCloud offre un accesso altamente ottimizzato e sempre disponibile alle reti blockchain. Collegatevi rapidamente e scalate facilmente in base alle vostre esigenze, senza dovervi preoccupare di gestire l'infrastruttura.
       DappNode:
         description: DAppNode facilita l'esecuzione di nodi, DApp e l'hosting di reti ed economie P2P.
-      Ethercluster:
-        description: Ethercluster è una macchina virtuale Ethereum (EVM) open-sourced che fornisce gratuitamente endpoint Ethereum Classic (ETC) e Kotti.
+      Rivet:
+        description: Rivet è una Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) che fornisce endpoint Ethereum Classic (ETC).
       GetBlock:
         description: GetBlock è un servizio che fornisce la connessione ai nodi delle principali criptovalute. Supporta strumenti come JSON-RPC, REST e WebSockets, che facilitano la sincronizzazione diretta con la blockchain. Non è necessario gestire un nodo in proprio, la piattaforma permette ai suoi clienti di connettersi a una blockchain tramite un nodo completo senza dover pagare una tariffa.
       Google BigQuery:

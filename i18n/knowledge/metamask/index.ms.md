@@ -71,14 +71,12 @@ Selepas memilih "RPC Tersuai" anda akan melihat borang untuk menambah rangkaian.
 Langkah seterusnya, ialah menambah maklumat khusus Ethereum Classic. Di bawah ialah data rangkaian yang saya gunakan:
 
 - Nama Rangkaian: `Ethereum Classic`
-- URL RPC Baharu: `https://www.ethercluster.com/etc`
+- URL RPC baharu: `https://etc.rivet.link`
 - ID Rantaian: `61`
 - Simbol Mata Wang (pilihan): `DLL`
 - Sekat URL Penjelajah (pilihan): `https://blockscout.com/etc/mainnet/`
 
-Untuk "URL RPC" saya menggunakan URL yang disediakan untuk tujuan ini oleh Koperasi [ETC](https://etccooperative.org/), iaitu daripada produk yang mereka bina dipanggil [Ethercluster](https://ethercluster.com/)
-
-_[Nota Editor] Ethercluster kini dikendalikan oleh [RIVET](https://rivet.cloud/). Anda boleh menemui lebih banyak Titik Akhir RPC dalam bahagian [rangkaian](/network/endpoints)._
+Untuk "URL RPC" saya menggunakan titik akhir yang disediakan untuk tujuan ini oleh firma yang dipanggil [Rivet](https://rivet.link/), yang dikontrak oleh Koperasi [ETC](https://etccooperative.org) untuk tujuan ini. Anda boleh menemui lebih banyak Titik Akhir RPC dalam bahagian [rangkaian](/network/endpoints).
 
 "ID Rantaian" mestilah "61" kerana itu adalah ID khusus rangkaian Ethereum Classic untuk menghantar transaksi ETC melalui dompet dan nod ke blok operasi.
 
@@ -86,7 +84,7 @@ Walaupun "simbol" dan "URL peneroka blok" adalah pilihan, saya syorkan menggunak
 
 Klik "simpan" untuk menambah ETC pada MetaMask.
 
-![Langkah 6](./06.png)
+![Langkah 6](./06-rivet.png)
 
 ## Langkah 7: Lihat Ethereum Classic dalam Menu Jatuh Turun Rangkaian
 
