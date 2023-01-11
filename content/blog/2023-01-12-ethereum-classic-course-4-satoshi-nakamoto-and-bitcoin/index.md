@@ -96,7 +96,7 @@ As said before, Nakamoto Consensus accomplishes a level of safety and security o
 
 This makes it trust minimized, meaning that users may interact directly between themselves in a peer-to-peer way, sending and receiving money, without the need of trusted third parties, who may be captured by special interests, restricting freedom and human action.
 
-Just as the internet, Bitcoin is designed to survive a nuclear war, and, on top of that, it assures hard money for the internet.
+Just like the internet, Bitcoin is designed to survive a nuclear war. On top of that, it assures hard money for the internet.
 
 ## Implications for Ethereum Classic
 
