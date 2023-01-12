@@ -14,7 +14,7 @@ linkImage: ./eth-etc-philosophies.png
 
 ---
 
-Design philosophies and principles are a big influence of how blockchains work. After the Ethereum (ETH) migration to proof of stake, which completely changes its security model, it seems appropriate to make a comparison of that system's and Ethereum Classic's (ETC) core philosophies.
+Design philosophies and principles are a big influence of how blockchains work. After the Ethereum (ETH) migration to proof of stake, which completely changed its security model, it seems appropriate to make a comparison of that system's and Ethereum Classic's (ETC) core philosophies.
 
 Ethereum's philosophical model may be called "Social Consensus" and Ethereum Classic's "Code Is Law". In this post, we will explain and compare both.
 
