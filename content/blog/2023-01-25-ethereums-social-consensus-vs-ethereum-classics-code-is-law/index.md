@@ -28,7 +28,7 @@ The terminology used by the Ethereum Foundation, ETH ecosystem, and community ha
 
 It is worth noting, though, that the term "weak subjectivity" is a sort of acknowledgement that using people's subjective opinions and voting to run a cryptocurrency network is a sort of misdeed, since they called it "weak" to try to give some reassurance.
 
-Social Consensus advocates claim that proof of stake and subjective agreement between network node operators is more secure than Code Is Law blockchains which use proof of work. This is false as Social Consensus doesn't even provide a focal point for participants to join, leave, and join again the network. This focal point provided by proof of work is the only way to make a blockchain permissionless, decentralized, and censorship resistant.
+Social Consensus advocates claim that proof of stake and subjective agreement between network node operators is more secure than Code Is Law blockchains which use proof of work. This is false as Social Consensus doesn't even provide a focal point for participants to join, leave, and join again the network. This focal point provided by the "most work done" rule in proof of work is the only way to make a blockchain permissionless, decentralized, and censorship resistant.
 
 The best chain selection mode that Social Consensus philosophy can provide is "ask a friend" or check with block explorers or some other website on the internet. 
 
