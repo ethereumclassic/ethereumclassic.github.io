@@ -42,7 +42,7 @@ The motivations for these proposals are to solve some inefficiencies, high execu
 
 ![EIPs included.](./eof-eips-2.png)
 
-The six EIPs included in the EOF upgrade are the following (summaries for each EIP were extracted from the improvement proposals themselves):
+The six EIPs considered part of the EOF upgrade are the following (summaries for each EIP were extracted from the improvement proposals themselves):
 
 - [EIP-3860](https://eips.ethereum.org/EIPS/eip-3860): It limits the maximum size of initcode to 49152 and applies extra gas cost of 2 for every 32-byte chunk of initcode. 
 
@@ -58,9 +58,9 @@ The six EIPs included in the EOF upgrade are the following (summaries for each E
 
 ## When Are the EOF Upgrades Expected to Happen?
 
-The Ethereum mainnet ecosystem has two upgrades, also called hard forks, programmed for 2023 and the EIPs for EOF will be included in the first one, called Shanghai, which is aimed to be performed in March of 2023.
+The Ethereum mainnet ecosystem has two upgrades, also called hard forks, programmed for 2023, Shanghai and Cancún, and the EIPs for EOF will likely be included in the second one, Cancún, which is aimed to be performed in the second half of 2023.
 
-Again, the EIPs included in this hard fork include:
+Again, the EIPs that will likely be included in this hard fork are:
 
 - EIP-3860 “Limit and meter initcode”
 - EIP-3540 “EVM Object Format v1”
@@ -69,7 +69,7 @@ Again, the EIPs included in this hard fork include:
 - EIP-4750 “Functions”
 - EIP-5450 “Stack Validation”
 
-This means that, if everything goes according to plan, the Ethereum network EVM will be fully upgraded by the first half of 2023 and that the Ethereum Classic blockchain will be totally compatible with the new EVM standard specifications by the second half of 2023, as it usually waits from 3 to 6 months to follow new upgrades for security reasons and because it is a more conservative blockchain. 
+This means that, if everything goes according to plan, the Ethereum network EVM will be fully upgraded by the end of 2023 and that the Ethereum Classic blockchain will be totally compatible with the new EVM standard specifications by the first half of 2024, as it usually waits from 3 to 6 months to follow new upgrades for security reasons and because it is a more conservative blockchain.
 
 ## ETC Cooperative’s Contribution to EOF
 
