@@ -14,7 +14,7 @@ linkImage: ./eth-etc-philosophies.png
 
 ---
 
-Design philosophies and principles are a big influence of how blockchains work. After the Ethereum (ETH) migration to proof of stake, which completely changes its security model, it seems appropriate to make a comparison of that system's and Ethereum Classic's (ETC) core philosophies.
+Design philosophies and principles are a big influence of how blockchains work. After the Ethereum (ETH) migration to proof of stake, which completely changed its security model, it seems appropriate to make a comparison of that system's and Ethereum Classic's (ETC) core philosophies.
 
 Ethereum's philosophical model may be called "Social Consensus" and Ethereum Classic's "Code Is Law". In this post, we will explain and compare both.
 
@@ -43,7 +43,7 @@ This focus on humans as sources of safety makes Social Consensus proponents beli
 
 Again, Social Consensus emphasizes that communities are good at consensus. 
 
-Because Social Consensus believes in human agency, then it also believes in very human methods. This leads them to think that proof of work is actually weaker because it incentivizes block producers only with rewards. That, on the other hand, proof of stake does this with rewards and penalties, therefore, they say, it must be more complete as an economic mechanism.
+Because Social Consensus believes in human agency, then it also believes in very human methods. This leads them to think that proof of work is actually weaker because it incentivizes block producers only with rewards; that proof of stake does this with rewards and penalties, therefore, they say, it must be more complete as an economic mechanism.
 
 Social Consensus proponents focus a lot on what they call efficiency, but their definition of efficiency is whether block producers and validators have to be paid more or less to participate in the network. The measurement of efficiency they use is to calculate the total amount of capital locked for producing blocks, multiplied by the total rewards needed to pay for this capital, multiplied by how much time such capital is locked. The claim is that because proof of stake demands less of these metrics, then it must be more efficient.
 
@@ -53,11 +53,11 @@ Social Consensus has nearly zero marginal cost and risk. Proof of work requires 
 
 And this is where they are confused. Proof of work is purposely costly and unscalable computationally precisely to guarantee the benefits of decentralization, which is correctly measured by its social scalability: Anyone in the world may use a Code Is Law blockchain. Only a subset of the world may use Social Consensus networks.
 
-Another deep misunderstanding of Social Consensus supporters is that they believe that proof of work y centralized through mining pools and ASIC computing. This kind of thinking is incomprehensible at this point because after 14 years of operation of Bitcoin, and 7 years of Ethereum as a proof of work chain until the migration to proof of stake, both chains have never been centralized or captured by mining pools, mining firms, ASIC producers, or any other kind of agent.
+Another deep misunderstanding of Social Consensus supporters is that they believe that proof of work is centralized through mining pools and ASIC computing. This kind of thinking is incomprehensible at this point because after 14 years of operation of Bitcoin, and 7 years of Ethereum as a proof of work chain until the migration to proof of stake, both chains have never been centralized or captured by mining pools, mining firms, ASIC producers, or any other kind of agent.
 
 To the contrary, proof of stake, with its Social Consensus philosophy, was captured [from the start](https://www.mevwatch.info/) when Ethereum migrated to that system as more than 70% of their blocks are censored by government agencies due to international sanctions policies.
 
-One of the strongest (and most erroneous) arguments in Social Consensus philosophy is that blockchains are technological and social designs where their safety is sourced from cryptography, economics, and social agreement. This leaves out the most important invention of Bitcoin, and the only reason the whole industry actually exists: Nakamoto Consensus.
+One of the strongest (and most erroneous) arguments in Social Consensus philosophy is that blockchains are technological and social designs where their safety is sourced from cryptography, economics, and social agreement. This leaves out the most important invention of Bitcoin, and the only reason why the whole industry actually exists: Nakamoto Consensus.
 
 Nakamoto Consensus is based on proof of work and can only be based on proof of work because it is the only way to assure the consensus of machines owned by strangers, spread across the world, who don't talk to each other, have no reason to trust each other, and who, in their complete isolation and without consulting anyone, reach absolute consensus on the state of the system every 10 minutes in the case of Bitcoin and every 15 seconds in the case of Ethereum Classic.
 
@@ -77,13 +77,13 @@ We would argue, that a Social Consensus network is not even a blockchain. Blocks
 
 The ultimate purpose of Social Consensus is to protect the planet, to do no harm to the environment, and to heal the climate. The whole reason of existence of Bitcoin, Ethereum Classic and other true blockchains is human flourishing through trust minimization. 
 
-Indeed, proof of work actually helps the environment as an externality because renewable energy is cheaper than fossil fuel electricity, and miners are constantly seeking to lower their costs so they naturally move to renewable energy sources, providing cash flow to that segment of the industry and promoting its growth. 
+Indeed, proof of work actually helps the environment as an externality much more than proof of stake because renewable energy is cheaper than fossil fuel electricity, and miners are constantly seeking to lower their costs so they naturally move to renewable energy sources, providing cash flow to that segment of the industry and promoting its growth. 
 
-As Social Consensus believes in human agency, but human agency is prone to cheating, then penalties through slashing are required. Also, forks to reverse the chain, confiscate funds, slash bad actors, and change the history of the chain by majority voting are perfectly fine in that philosophy. If trust in intermediaries and human intervention were never the problem, then why is "trust minimization" even a  concern?
+As Social Consensus believes in human agency, but human agency is prone to cheating, then penalties through slashing are required. Also, forks to reverse the chain, confiscate funds, slash bad actors, and change the history of the chain by majority voting are perfectly fine in that philosophy. If trust in intermediaries and human intervention were never the problem, then why was "trust minimization" even a  concern?
 
 Of course, Social Consensus has very little awareness of the perils that their actions and intervention will bring. It is unlikely that any actor in the network that is slashed by social consensus will passively accept a significant loss of their capital without a fight. Lawsuits and legal bureaucracy will be the name of the game in the Social Consensus world.
 
-In Social Consensus philosophy, "finality" is defined as a 66% vote of validators. This seems to be strong for the naive eye, but it is just a mirage. It really means that with just 33% of bad actors the network may be disrupted. This has been the vulnerability that has existed in computing networks since they were invented.
+In Social Consensus philosophy, "finality" is defined as a 66% vote of validators. This seems to be strong for the naive eye, but it is just a mirage. It really means that with only 33% of bad actors the network may be disrupted. This has been the vulnerability that has existed in computing networks since they were invented.
 
 To describe finality as a vote, is like saying that finality can be decreed by law or by a government. It is precisely because this is not true that Satoshi Nakamoto invented Bitcoin, Ethereum Classic exists, and Cypherpunks had been working on these technologies for decades.
 
@@ -105,7 +105,7 @@ Immutability, decentralization, and complete neutrality, which means no interven
 
 Code Is Law philosophy has the knowledge at its root that superficial things like funds recoveries, returns to legitimate owners, and other on-chain manual interventions are wrong, not right. And they are wrong because nothing guarantees that such human interventions will not be used against the capital, applications, and transactions of users.
 
-For Code Is Law to be true, and it is true in ETC, the ledger must be inviolable and immutable. "The greater good" is a false promise, it is actually completely opposite to the safety of the property, agreements, and transactions of individuals.
+For Code Is Law to be true, and it is true in ETC, the ledger must be inviolable and immutable. "The greater good" in Social Consensus is a false promise, it is actually completely opposite to the safety of the property, agreements, and transactions of individuals.
 
 Proof of work is the only mechanism known to man that guarantees permissionlessness, decentralization, censorship resistance, and immutability. And, these features guarantee no discrimination against any nationality, culture, creed, politics, race, or human condition. 
 
@@ -115,15 +115,15 @@ Code Is Law means trust minimization and that Ethereum Classic cannot be shut do
 
 If Social Consensus were used for any kind of "good" change, then what prevents it to be used for any change. The only solution is no social consensus. Thus, Code Is Law.
 
-Code Is Law mean no change and the sanctity of the ledger. Anyone, anywhere in the world can use ETC. This is only possible with complete neutrality, and neutrality is only possible with true immutability. "Governance" doesn't even exist in Code Is Law.  This is why neither ETC nor Bitcoin have foundations or leaders.
+Code Is Law means no change and the sanctity of the ledger. Anyone, anywhere in the world, even refrigerators, can use ETC. This is only possible with complete neutrality, and neutrality is only possible with true immutability. "Governance" doesn't even exist in Code Is Law. This is why neither ETC nor Bitcoin have foundations or leaders.
 
-Code Is law is about rough consensus, which is free adoption, free and unlimited participation, and no tyranny of the elites or voting majorities. This makes the blockchain anti-fragile.
+Code Is law is about rough consensus, which is free adoption, free and unlimited participation, and no tyranny of the elites or voting majorities. This makes the blockchain antifragile.
 
-Code Is Law does not means it supports crooks and thieves. Indeed, the worst crooks and thieves are kept out of it! And, the petty ones can be dealt with through the normal and time tested channels of legal systems and law enforcement.
+Code Is Law does not mean it supports crooks and thieves. Indeed, the worst crooks and thieves are actually kept out of it! And, the petty ones can be dealt with through the normal and time tested channels of legal systems and law enforcement.
 
 Code Is Law is on the blockchain. Executions and transactions are final and immutable. It has nothing to do with human law. It is like the laws of physics.
 
-The communities of Ethereum, Bitcoin, or Ethereum Classic cannot have the knowledge or capability for dealing with the disputes of billions of people worldwide. There is no such thing as blockchain justice. The resolution of these things must be carried outside of the blockchain.
+The communities of Ethereum, Bitcoin, or Ethereum Classic cannot have the knowledge or capability for dealing with the disputes of billions of people worldwide. There is no such thing as blockchain justice. The resolution of these things must be carried out outside of the blockchain.
 
 The only answer is neutrality, therefore the Code Is Law philosophy.  
 
