@@ -201,7 +201,7 @@ play:
           longName: 矿池
           description: 加入矿池后，你可以根据拥有的能量而不是发现的区块来获利。
     develop:
-      name: 发展
+      name: 开发者
       description: 测试网、工具、客户端，以及关于如何为ETC协议本身做出贡献的信息
       navItems:
         development:
@@ -209,7 +209,7 @@ play:
           longName: 开发者指南
           description: 关于如何在Ethereum Classic上构建dapp的教程集锦
         clients:
-          name: 客户
+          name: 客户端
           description: 客户端软件是网络的骨干，实现ETC协议。
         testnets:
           name: 测试网
