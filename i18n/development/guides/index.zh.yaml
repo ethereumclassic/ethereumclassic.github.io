@@ -1,4 +1,4 @@
-title: 发展指南
+title: 开发者指南
 seo: 为初学者和高级开发人员提供了一些教程和解释，并解释了如何部署到Ethereum Classic。
 description: |
   编写和部署智能合约到Ethereum Classic的过程与Ethereum是一样的。Ethereum Classic的目标之一是保持与ETH的兼容性，因此，任何部署在Ethereum上的合约都可以很容易地重新部署到Ethereum Classic。

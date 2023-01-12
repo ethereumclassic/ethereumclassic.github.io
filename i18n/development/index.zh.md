@@ -1,5 +1,5 @@
 ---
-title: 发展
+title: 开发者
 seo: 为那些希望了解更多关于向Ethereum Classic贡献或部署应用程序的开发者提供的资源集合。
 updated: 2022-02-22
 ---
