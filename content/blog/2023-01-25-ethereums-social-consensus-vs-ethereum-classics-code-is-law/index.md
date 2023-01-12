@@ -81,7 +81,7 @@ Indeed, proof of work actually helps the environment as an externality because r
 
 As Social Consensus believes in human agency, but human agency is prone to cheating, then penalties through slashing are required. Also, forks to reverse the chain, confiscate funds, slash bad actors, and change the history of the chain by majority voting are perfectly fine in that philosophy. If trust in intermediaries and human intervention were never the problem, then why is "trust minimization" even a  concern?
 
-Of course, Social Consensus has very little awareness of the perils that their actions and intervention will bring. It is unlikely that any actor in the network that is slashed by social consensus will passively accept a significant loss of their capital without a fight. Law suits and legal bureaucracy will be the name of the game in the Social Consensus world.
+Of course, Social Consensus has very little awareness of the perils that their actions and intervention will bring. It is unlikely that any actor in the network that is slashed by social consensus will passively accept a significant loss of their capital without a fight. Lawsuits and legal bureaucracy will be the name of the game in the Social Consensus world.
 
 In Social Consensus philosophy, "finality" is defined as a 66% vote of validators. This seems to be strong for the naive eye, but it is just a mirage. It really means that with just 33% of bad actors the network may be disrupted. This has been the vulnerability that has existed in computing networks since they were invented.
 
