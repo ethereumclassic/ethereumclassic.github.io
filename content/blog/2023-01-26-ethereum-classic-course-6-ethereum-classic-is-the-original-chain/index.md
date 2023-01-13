@@ -48,7 +48,7 @@ Today, ETC is the original chain with an uninterrupted history of transactions, 
 
 ## Ethereum Classic’s Design
 
-![ETC](./etc-course-logo.png)
+![ETC](./etc-course-etc-logo.png)
 
 As said above, Ethereum Classic uses the same base technology as Bitcoin but added programmability.
 
