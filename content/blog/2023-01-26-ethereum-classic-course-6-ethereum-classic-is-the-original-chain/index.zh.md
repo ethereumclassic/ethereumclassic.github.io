@@ -1,6 +1,6 @@
 ---
 title: "Ethereum Classic Course: 6. Ethereum Classic Is the Original Chain"
-date: 2023-01-25
+date: 2023-01-26
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["Course", "Education"]
