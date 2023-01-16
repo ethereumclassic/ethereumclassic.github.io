@@ -14,7 +14,7 @@ linkImage: ./eof-banner-2.png
 
 ---
 
-## 以太坊虚拟机EVM需要升级
+## 需升级的以太坊虚拟机EVM
 
 ![ETH和ETC的EVM](./eof-evm-2.png)
 
