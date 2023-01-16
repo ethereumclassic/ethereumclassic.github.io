@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Course: 5. Vitalik Buterin and Ethereum"
+title: "以太坊经典课程: 5. Vitalik Buterin(维塔利克·布特林)和以太坊"
 date: 2023-01-19
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -14,107 +14,107 @@ linkImage: ./v-and-eth-banner.png
 
 ---
 
-## Vitalik Buterin Is the Founder of Ethereum Classic
+## Vitalik Buterin是以太坊经典的创始人
 
-![Vitalik Buterin is the Founder of ETC.](./v-and-eth-etc-is-eth.png)
+![Vitalik Buterin是以太坊经典的创始人](./v-and-eth-etc-is-eth.png)
 
-Vitalik Buterin is not a Cypherpunk, but a brilliant individual who got involved early and at a young age in Bitcoin. Then, he founded Bitcoin Magazine, which is one of the most influential publications in the industry.
+Vitalik Buterin不是一个密码朋克，而是一个很早就参与比特币的聪明的人。随后，他创办了《比特币杂志》，这是业内最具影响力的出版物之一。
 
-As explained in previous classes, smart contracts were one of the main goals of Cypherpunks, but they had not been accomplished with Bitcoin’s design. 
+正如在之前的课程中所解释的，智能合约是Cypherpunks的主要目标之一，但在比特币的设计中还没有实现。
 
-In late 2013, Mr. Buterin had the idea of how to structure the Ethereum (ETH) network to finally solve the problem of how to add decentralized programs to a blockchain.
+2013年底，Buterin先生有了如何构建以太坊(ETH)网络的想法，最终解决了如何将去中心化程序添加到区块链的问题。
 
-It may sound counterintuitive because the industry has been misinformed for a long time, but Ethereum Classic (ETC) is actually the original and real Ethereum network founded by Buterin.
+这听起来可能违反直觉，因为业界长期以来一直被误导，但以太坊经典(ETC)实际上是由Buterin创建的原始和真实的以太坊网络。
 
-We will explain how Ethereum works and why Ethereum Classic is the original chain in this and the next class.
+我们将解释以太坊是如何工作的，以及为什么以太坊经典是这节课和下节课的原始链。
 
-## Ethereum
+## 以太坊
 
-![Ethereum](./v-and-eth-eth.png)
+![以太坊](./v-and-eth-eth.png)
 
-Ethereum used the same base technology as Bitcoin but added programmability and migrated to proof of stake as its consensus mechanism.
+以太坊使用了与比特币相同的基础技术，但增加了可编程性，并迁移到权益证明作为其共识机制。
 
-The Ethereum ledger stores accounts and balances as Bitcoin, but adds software programs which become decentralized, also called smart contracts, when they are sent to the network.
+以太坊账本以比特币的形式存储账户和余额，但添加了软件程序，当它们被发送到网络时，这些软件程序就会变得去中心化，也被称为智能合约。
 
-To accomplish this it has 4 major components:
+要做到这一点，它有4个主要组成部分:
 
-- The Ethereum Virtual Machine (EVM)
-- A programming language called Solidity
-- State transition
-- The gas system
+-以太坊虚拟机(EVM)
+-一种名为Solidity的编程语言
+-状态转换
+-Gas(矿工费)系统
 
-## The Ethereum Virtual Machine (EVM)
+## 以太坊虚拟机(EVM)
 
-The EVM is a software component that behaves like a computing machine. As part of the node software, it is replicated in all machines in the network, therefore it’s a decentralized virtual machine.
+EVM是一个像计算机一样工作的软件组件。作为节点软件的一部分，它被复制到网络中的所有机器中，因此它是一个去中心化的虚拟机。
 
-The way it works is that it has over 120 computing operation codes, or opcodes for short, that together provide near full computability.
+它的工作方式是，它有超过120个计算操作代码，或简称操作码，一起提供了接近完全的可计算性。
 
-Because node software clients may be installed in many kinds of computers with diverse operating systems, the EVM enables nodes to operate in their local environments with their local machines, and at the same time interact with the global network of blockchain nodes with a single and compatible computing standard.
+由于节点软件客户端可能安装在具有不同操作系统的多种计算机中，因此EVM使节点能够在其本地环境中使用其本地机器进行操作，同时使用单一且兼容的计算标准与区块链节点的全球网络进行交互。
 
-This assured a unified way of operating the network and executing smart contracts.
+这确保了统一的网络操作和执行智能合约的方式。
 
-## A Programming Language
+## 一种编程语言
 
-For software programs to be sent and stored in the network, and executed by the EVM, there had to be a common and compatible programming language. 
+为了在网络中发送和存储软件程序，并由EVM执行，该软件程序必须有一种通用的和兼容的编程语言。
 
-Solidity is the programming language created to write programs for Ethereum.
+Solidity是为以太坊编写程序而创建的编程语言。
 
-It is syntactically similar to JavaScript, which is widely used by many developers around the world, but it is adapted so it may work on a decentralized peer-to-peer setting.
+它在语法上类似于JavaScript，被世界各地的许多开发人员广泛使用，但它经过了调整，因此可以在分散的点对点设置上工作。
 
-## State Transition
+## 状态转换
 
-State transition is a computing model that Ethereum uses so that the EVM may take inputs, execute programs, and produce new state outputs. This is done on a per block basis.
+状态转换是以太坊使用的一种计算模型，这样EVM就可以获取输入、执行程序并产生新的状态输出。这是在每个区块的基础上完成的。
 
-Bitcoin, in contrast, does not have state transition as account balances are calculated by netting out all the history of transactions that point to each account.
+相比之下，比特币没有状态转换，因为账户余额是通过扣除指向每个账户的所有交易历史来计算的。
 
-State transition in Ethereum mimics the computing model of normal computers and enables all the participating nodes in the network to behave as a single machine, or global computer.
+以太坊中的状态转换模拟了普通计算机的计算模型，并使网络中的所有参与节点都能像一台机器或全局计算机一样运行。
 
-## The Gas System
+## Gas(矿工费)系统
 
-Basically, the 120 plus opcodes that work with the EVM have a specific cost in a unit called gas to be executed. When users send their transactions, they need to pay for the corresponding gas for miners to execute them.
+基本上，与EVM一起工作的120多个操作码在一个称为Gas的单元中有特定的执行成本。当用户发送他们的交易时，他们需要为矿工支付相应的gas(矿工费)来执行它们。
 
-This payment serves as compensation to miners and imposes a cost per transaction, which reduces spam significantly.
+这笔付款作为对矿工的补偿，并征收每笔交易的成本，这大大减少了垃圾邮件。
 
-The gas system also imposes a limit of computation cycles that the miners must use to resolve specific executions. If this limit is reached without results, then miners must stop and return the money to users. This solves what is called the halting problem, which is when machines get stuck when trying to resolve a computation.
+Gas系统还限制了矿工必须用来解决特定执行的计算周期。如果达到这一限制而没有结果，那么矿工必须停止并将钱退还给用户。这解决了所谓的“暂停问题”，即机器在试图解决计算时卡住。
 
-## What Does Ethereum Accomplish?
+## 以太坊成就了什么？
 
-As said before, smart contracts were a major goal for Cypherpunks.
+如前所述，智能合约是密码朋克的主要目标。
 
-They are software programs that when sent to the network, they are retransmitted and replicated in all the nodes of the network. This makes them decentralized software programs.
+智能合约是一种软件程序。当它们被发送到网络时，它们会被重传并复制到网络的所有节点中。这使得它们成为去中心化的软件程序。
 
-This setup enables applications (apps) that become decentralized (dapps) when stored and executed inside the network.
+这种设置使应用程序(Apps)在网络中存储和执行时变得去中心化(Dapps)。
 
-Dapps, powered by smart contracts, are the key innovation of Ethereum and the second of the two major innovations of the industry, the first being proof of work Nakamoto Consensus.
+由智能合约支持的Dapps是以太坊的关键创新，也是该行业两大创新中的第二项，第一个是工作证明中本共识。
 
-## The Migration to Proof of Stake
+## 权益证明的迁移
 
-One of the major changes in Ethereum’s history has been its migration to the proof of stake consensus mechanism in September of 2022.
+以太坊历史上的一个重大变化是它在2022年9月迁移到权益证明共识机制。
 
-Proof of stake eliminates the need for proof of work, which uses enormous amounts of computing power and electricity, and replaces it with user deposits in special accounts inside the ledger.
+权益证明消除了工作量证明的需要。工作量证明使用了大量的计算能力和电力，取而代之的是用户在账本内的特殊账户中存款。
 
-These deposits are called stakes and give their stakers the right to produce blocks, vote on them, and then include them in the blockchain. For this role, they get paid a reward per block.
+这些存款被称为股权，并赋予其股东生产区块的权利，对其进行投票，然后将其纳入区块链。对于这个角色，他们每个区块都会获得奖励。
 
-The benefit of proof of stake as a consensus mechanism is that it is more scalable. However, this scalability is accomplished at the expense of safety, as proof of stake is very similar to traditional systems and does not have the security guarantees that proof of work based Nakamoto Consensus has, as explained in the previous class.
+权益证明作为一种共识机制的好处是它更具可延展性。然而，这种可延展性是以牺牲安全性为代价的。因为权益证明与传统系统非常相似，如前一节课所述，它并不具有基于中本共识的工作量证明所具有的安全保证。
 
-## Ethereum Classic Is the Original Ethereum
+## 以太坊经典是原始的以太坊
 
-![ETC is the Original ETH.](./v-and-eth-eth-etc.png)
+![ETC是原始的ETH](./v-and-eth-eth-etc.png)
 
-Ethereum Classic and Ethereum were one blockchain in the beginning, but then in 2016, due to a controversy with a dapp called The DAO,  Ethereum split to form what it is today the Ethereum proof of stake network.
+以太坊经典和以太坊一开始是一个区块链，但在2016年，由于一个名为the DAO的Dapp争议，以太坊分裂形成了今天的以太坊权益证明网络。
 
-Ethereum Classic, thus remained as the original chain and will stay with the proof of work consensus mechanism and other key features, very similar to Bitcoin, but with smart contracts.
+自此之后，以太坊经典保留了原始链，并将保留工作量证明共识机制和其他关键功能，非常类似于比特币，但具有智能合约。
 
-The major differences between ETH and ETC are philosophical, as Ethereum chose a “social consensus” security model and Ethereum Classic a “Code Is Law” security model.
+ETH和ETC之间的主要区别是工作哲学上的区别。因为，以太坊选择了“社会共识”的安全模型，而以太坊经典选择了“代码即法律”的安全模型。
 
-Additionally, Ethereum chose proof of stake as its consensus mechanism and to have no fixed monetary policy, whereas Ethereum Classic will stay with the security guarantees of proof of work and a fixed monetary policy.
+此外，以太坊选择权益证明作为其共识机制，并且没有固定的货币政策。而以太坊经典将保留工作量证明的安全保证和固定的货币政策。
 
-Ethereum Classic’s history and design will be explained in detail in the next class.
+以太坊经典的历史和设计将在下一节课中进行详细讲解。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about Ethereum please go to: https://ethereum.org
+了解更多有关以太坊，请访问: https://ethereum.org
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关以太坊经典，请访问: https://ethereumclassic.org
