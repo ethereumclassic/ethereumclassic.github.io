@@ -1,5 +1,5 @@
 ---
-title: "The Innovation of Ethereum Classic Is Unstoppability"
+title: "以太坊经典的创新是其不可阻挡性"
 date: 2023-01-18
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,78 +8,78 @@ linkImage: ./etc-unstoppable-banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**欢迎由此收听或观看本期内容：**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7D613eZK3s4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-Before the existence of Ethereum Classic, applications were stoppable. After the existence of Ethereum Classic, applications hosted inside it became unstoppable.
+在以太坊经典存在之前，应用程序是可阻挡的。在以太坊经典存在之后，其中托管的应用程序变得不可阻挡。
 
-![ETC Unstoppability of Applications is the Innovation.](./etc-unstoppable-banner.png)
+![ETC不可停止性应用就是创新](./etc-unstoppable-banner.png)
 
-The reason for this is that the invention brought by Bitcoin, Nakamoto Consensus, solved the problem of peer-to-peer networks. The problem was that they could be disrupted with just one third of the participating nodes colluding to attack it. 
+原因是比特币带来的发明，中本共识，解决了点对点网络的问题。问题是，只要三分之一的参与节点串通起来攻击它，它们就会被打乱。
 
-Nakamoto Consensus raised this threshold to one half.
+中本共识将这一门槛提高到一半。
 
-Not only that, but the proof of work in Nakamoto Consensus added even more barriers to just collusion. Proof of work meant that the colluding participants needed have the necessary computing power to create blocks faster than the rest of the computing base in the system.
+不仅如此，中本共识的工作证明为共谋增加了更多障碍。工作量证明意味着参与共谋的参与者需要有必要的计算能力，以比系统中其他计算基础更快的速度创建区块。
 
-Another barrier to attacking the network imposed by proof of work based Nakamoto Consensus was that the colluding attackers would have to consume enormous amounts electricity.
+攻击基于工作量证明共识的网络的另一个障碍是，合谋的攻击者必须消耗大量的电力。
 
-Before Nakamoto Consensus attackers only needed 33% of participating nodes to disrupt a network, and there was no need to have powerful computers nor to use any significant amount of electricity. 
+在中本聪共识之前，攻击者只需要33%的参与节点就可以破坏一个网络，不需要强大的计算机，也不需要使用任何大量的电力。
 
-After Nakamoto Consensus, not only did they need to convince 51% of participants, but also needed to have an enormous computing base and burn enormous amounts of electricity to do it.
+在中本共识之后，他们不仅需要说服51%的参与者，还需要拥有庞大的计算基础，并消耗大量的电力。
 
-However, because of technical difficulties, Bitcoin does not host applications inside its highly secure environment. But, Ethereum Classic does. 
+然而，由于技术上的困难，比特币没有在其高度安全的环境中托管应用程序。但是，以太坊经典却有如此。
 
-This is what makes ETC so different and powerful.
+这就是为什么ETC如此与众不同和强大。
 
-Ethereum Classic has the technologies and systems that existed before; full transmission of the data and full replication of the database in all nodes of the peer-to-peer network; and it uses the first key innovation of Bitcoin; proof of work based Nakamoto Consensus; to keep the system coordinated and secure.
+以太坊经典拥有以前存在的技术和系统;在点对点网络的所有节点上实现数据的全传输和数据库的全复制;它使用了比特币的第一个关键创新;基于中本共识的工作量证明;保持系统的协调和安全。
 
-On top of this, ETC adds the second and only other major innovation that existed in the industry: Smart contracts.
+除此之外，ETC还增加了该行业存在的第二个也是唯一的其他主要创新:智能合约。
 
-In other words, Nakamoto Consensus and smart contracts are the only two innovations of the industry and Ethereum Classic has both.
+换句话说，中本共识和智能合约是业界仅有的两项创新，而以太坊经典两者都有。
 
-The key to making applications in Ethereum Classic unstoppable is precisely that they are hosted inside its highly secure environment.
+使以太坊经典中的应用程序不可阻挡的关键正是它们托管在其高度安全的环境中。
 
-Smart contracts are software programs that power applications, and when they are sent to ETC they are retransmitted and replicated in all the nodes of the system. This makes these applications decentralized, hence their name “decentralized applications” or “dapps”.
+智能合约是为应用程序提供动力的软件程序，当它们被发送到ETC时，它们会在系统的所有节点中重新传输和复制。这使得这些应用程序去中心化，因此它们被称为“去中心化应用程序”或“Dapps”。
 
-The unstoppability of dapps is accomplished by this decentralization, because it produces resistance to censorship, permissionlessness, and immutability.
+Dapp的不可阻挡性是通过这种去中心化来实现的，因为它产生了对审查、无许可和不可变性的抵抗。
 
-Decentralization is accomplished by the proof of work component of the system. Proof of work makes it very easy for all nodes in the network to know which is the correct chain of blocks just by checking whether the work was done.
+去中心化是由系统的工作量证明组件完成的。工作量证明使得网络中的所有节点都很容易通过检查“是否完成了工作”来知道哪条区块链是正确的。
 
-This is because if imposters were to send alternative blocks without such work done, then it would be very easy to discard them. And, to build such large computing base to compete with the existing one is extremely difficult.
+因为如果冒名顶替者在没有完成这些工作的情况下发送替代区块，那么将很容易丢失它们。而且，建立如此庞大的计算基础与现有的竞争是极其困难的。
 
-The same information of the proof of work that serves to reach consensus on the correct chain is also used to exit and re enter the chain, or to join the network for the first time. When any nodes want to join or re enter they only have to check which chain has the most work done to know, in their complete isolation, without checking with any other source in the universe, that that is the correct blockchain to join.
+用于就正确的链达成共识工作量证明的相同信息也用于：退出和重新进入链，或第一次加入网络。当任何节点想要加入或重新进入时，它们只需要检查哪条链做了最多的工作，在它们完全隔离的情况下，不与宇宙中的任何其他来源进行检查，就可以知道这是正确的区块链。
 
-This ability to run Ethereum Classic nodes or miners, and to send transactions without any need to check with others, without any supervision, is what makes it censorship resistant and permissionless.
+这种运行以太坊经典节点或矿工的能力，以及在不需要与他人检查的情况下发送交易的能力，使其具有抗审查性和无许可性。
 
-Immutability is accomplished by the sheer amounts of work and electricity needed to change or alter the blockchain. 
+不可变性是通过改变或改变区块链所需的大量工作和电力来实现的。
 
-Proof of work not only protects the data of the current block being processed, but also the whole history of the database. 
+工作量证明不仅可以保护正在处理的当前块的数据，还可以保护数据库的整个历史。
 
-In fact, the older a transaction or a dapp gets, the more difficult it is to alter it. 
+事实上，交易或dapp（的创建时间）越早，修改它就越困难。
 
-This is because any attacker would not only need to change the current block but the whole history of blocks, re doing all the work again and burning all the needed electricity again, to be able to make any changes to past transactions or dapps.
+这是因为任何攻击者不仅需要改变当前的区块，还需要改变区块的整个历史，重新做所有的工作，再次消耗所有所需的电力，才能对过去的交易或dapp做出任何改变。
 
-The only new inventions of the blockchain industry are Nakamoto Consensus and smart contracts, and both combined in Ethereum Classic produce unstoppable applications.
+区块链行业唯一的新发明是中本共识和智能合约，两者结合在以太坊经典中产生了不可阻挡的应用程序。
 
-This is the revolutionary paradigm change in the world. Nothing more.
+这是世界上革命性的范式变化。仅此而已。
 
-All the other gimmicks such as proof of stake, scalability, sharding of the database, and channels, which are hot buzzwords in the industry that only serve to suck the money of gullible investors and traders, already existed before and are widely used in centralized traditional industries.
+其他诸如权益证明、可延展性、数据库分片、渠道等噱头，都是行业内的热门流行语，只会吸走轻信的投资者和交易员的钱，这些噱头之前就已经存在，在中心化的传统行业中被广泛使用。
 
-The banking industry, for example, is a proof of stake system: There is a central authority that creates a protocol which says that to participate, banks need to make a deposit in the form of minimum capital. 
+例如，银行业是一个权益证明系统:有一个中央权威机构创建了一个协议，该协议规定，要参与进来，银行需要以最低资本的形式存入存款。
 
-Computational scalability already exists in the world with cloud services and large data centers that enable companies like Visa to process billions of transactions per day.
+云服务和大型数据中心使得像Visa这样的公司每天可以处理数十亿笔交易，计算可延展性已经在世界上存在。
 
-All this scalability in traditional systems is only accomplished with centralization: They all use sharding to break up the database so they can produce inputs and outputs faster and in parallel. They all use channels as all systems are layered, where the top layers handle large numbers of transactions and then accumulate and net out the results to send them to the lower layers.
+在传统系统中，所有这些可延展性只能通过集中化来实现:它们都使用分片来分解数据库，以便更快地并行地产生输入和输出。它们都使用通道，因为所有系统都是分层的。其中顶层处理大量事务，然后将结果累加并扣除，将它们发送到较低的层。
 
-This was all invented before and are hallmarks of centralized systems as they depend on trusted third parties to run them.
+这都是以前的发明，是集中式系统的标志，因为它们依赖于可信的第三方来运行它们。
 
-The only true innovation is the unstoppability of applications, and the only system that possesses that is Ethereum Classic.
+唯一真正的创新是应用程序的不可阻挡性，而唯一拥有这一点的系统是以太坊经典。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC的内容，请访问: https://ethereumclassic.org
