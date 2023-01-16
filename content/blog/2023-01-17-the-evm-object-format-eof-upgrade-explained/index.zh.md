@@ -1,5 +1,5 @@
 ---
-title: "The EVM Object Format (EOF) Upgrade Explained"
+title: "详解EVM对象格式(EOF)升级"
 date: 2023-01-17
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,111 +8,111 @@ linkImage: ./eof-banner-2.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**欢迎由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L3--VZDjRkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-## The EVM Needs an Upgrade
+## 以太坊虚拟机EVM需要升级
 
-![EVM in ETH and ETC.](./eof-evm-2.png)
+![ETH和ETC的EVM](./eof-evm-2.png)
 
-Ever since the launch of the Ethereum network in 2015, one of its most important components, the Ethereum Virtual Machine (EVM) has hardly ever been upgraded.
+自2015年以太坊网络推出以来，其最重要的组件之一以太坊虚拟机(EVM)几乎从未升级过。
 
-The EVM is a software component of all EVM compatible blockchains, including Ethereum Classic (ETC), that contains more than 120 operation codes (opcodes), which provide decentralized programmability to the networks.
+EVM是所有兼容EVM的区块链的软件组件，包括以太坊经典(ETC)，包含超过120个操作代码(操作代码)，为网络提供去中心化的可编程性。
 
-Through all these years there have been several improvement proposals to upgrade the EVM, but in general they have always been set aside to prioritize other goals such as the migration of Ethereum to proof of stake.
+这些年来，已经有一些改进建议来升级EVM，但总的来说，它们总是被搁置在一边，优先考虑其他目标，比如将以太坊迁移到权益证明。
 
-However, now that the merge to proof of stake has already occurred in that network, the EVM upgrades are being included in the next set of improvements.
+然而，现在在该网络中已经发生了对权益证明的合并，EVM升级将包含在下一组改进中。
 
-## The EVM Object Format (EOF)
+## EVM对象格式(EOF)
 
 ![EOF upgrades.](./eof-eof-2.png)
 
-The EVM Object Format (EOF) is a group of improvement proposals that have accumulated over the years, but that together form a consistent and logically sound upgrade for the Ethereum Virtual Machine.
+EVM对象格式(EOF)是一组多年积累的改进建议，但它们共同构成了以太坊虚拟机一致且逻辑合理的升级。
 
-Improvement proposals, called “Ethereum Improvement Proposals”, or EIPs for short, are formally structured documents that put forward ideas to the Ethereum ecosystem at large, of which Ethereum Classic is part, to make the system better from different technical standpoints.
+改进建议，称为“以太坊改进建议”，或简称为EIP，是正式的结构化文件。为从不同技术角度完善系统，它向以太坊生态系统提出想法，以太坊经典是其中的一部分。
 
-These EIPs together will completely change for the better the way the EVM works, and all blockchains who wish to be compatible with the general EVM standard, such as ETC, need to follow these changes.
+这些EIP一起将完全改变EVM的工作方式，所有希望与一般EVM标准兼容的区块链，如ETC，都需要遵循这些变化。
 
-The motivations for these proposals are to solve some inefficiencies, high execution costs, and security issues in the current design.
+这些建议的动机是解决当前设计中的一些低效率、高执行成本和安全问题。
 
-## EIPs Included in EOF
+## EIP包含在EOF中
 
-![EIPs included.](./eof-eips-2.png)
+![EIP已被包含](./eof-eips-2.png)
 
-The six EIPs considered part of the EOF upgrade are the following (summaries for each EIP were extracted from the improvement proposals themselves):
+六个EIP被认为是EOF升级的一部分，如下所示(每个EIP的摘要摘自改进建议本身):
 
-- [EIP-3860](https://eips.ethereum.org/EIPS/eip-3860): It limits the maximum size of initcode to 49152 and applies extra gas cost of 2 for every 32-byte chunk of initcode. 
+- [EIP-3860](https://eips.ethereum.org/EIPS/eip-3860):它将initcode最大的大小限制为49152，并为每个32字节的initcode块应用额外增加2的矿工成本。
 
-- [EIP-3540](https://eips.ethereum.org/EIPS/eip-3540): An extensible and versioned container format for the EVM with a once-off validation at deploy time. The version described here brings the tangible benefit of code and data separation, and allows for easy introduction of a variety of changes in the future.
+- [EIP-3540](https://eips.ethereum.org/EIPS/eip-3540):用于EVM的可扩展和版本控制的容器格式，在部署时进行一次性验证。这里描述的版本带来了代码和数据分离的实际好处，并允许在未来轻松引入各种更改。
 
-- [EIP-3670](https://eips.ethereum.org/EIPS/eip-3670): Introduces code validation at contract creation time for EOF formatted (EIP-3540) contracts. Rejects contracts which contain truncated PUSH-data or undefined instructions. Legacy bytecode (code which is not EOF formatted) is unaffected by this change.
+- [EIP-3670](https://eips.ethereum.org/EIPS/eip-3670):引入EOF格式(EIP-3540)合约创建时的代码验证。拒绝包含截断的PUSH-数据或未定义指令的契约。遗留字节码(非EOF格式的代码)不受此更改的影响。
 
-- [EIP-4200](https://eips.ethereum.org/EIPS/eip-4200): Three new EVM jump instructions are introduced (RJUMP, RJUMPI and RJUMPV) which encode destinations as signed immediate values. These can be useful in the majority of (but not all) use cases and offer a cost reduction.
+- [EIP-4200](https://eips.ethereum.org/EIPS/eip-4200):引入了三个新的EVM跳转指令(RJUMP、RJUMPI和RJUMPV)，它们将目的地编码为带符号的即时值。这些在大多数(但不是所有)用例中都有用，并且可以降低成本。
 
-- [EIP-4750](https://eips.ethereum.org/EIPS/eip-4750): Introduces the ability to have several code sections in EOF-formatted (EIP-3540) bytecode, each one representing a separate subroutine/function. Two new opcodes, CALLF and RETF, are introduced to call and return from such a function. Dynamic jump instructions are disallowed.
+- [EIP-4750](https://eips.ethereum.org/EIPS/eip-4750):引入了在EOF格式(EIP-3540)字节码中拥有多个代码段的能力，每个代码段表示一个单独的子例程/函数。引入了CALLF和RETF两个新的操作码来调用和返回这样的函数。不允许动态跳转指令。
 
-- [EIP-5450](https://eips.ethereum.org/EIPS/eip-5450): Introduces extended validation of code sections to guarantee that neither stack underflow nor overflow can happen during execution of validated contracts.
+- [EIP-5450](https://eips.ethereum.org/EIPS/eip-5450): 引入了代码段的扩展验证，以保证在执行经过验证的契约期间不会发生堆栈下溢或溢出。
 
-## When Are the EOF Upgrades Expected to Happen?
+## EOF升级会在什么时候开始？
 
-The Ethereum mainnet ecosystem has two upgrades, also called hard forks, programmed for 2023, Shanghai and Cancún, and the EIPs for EOF will likely be included in the second one, Cancún, which is aimed to be performed in the second half of 2023.
+以太坊主网生态系统有两个升级，也称为硬分叉，为2023年在上海和坎昆的编程。EOF的EIP可能会包括在第二个在坎昆的升级中，其目标是在2023年下半年执行。
 
-Again, the EIPs that will likely be included in this hard fork are:
+同样，可能包含在这个硬分叉中的EIP是:
 
-- EIP-3860 “Limit and meter initcode”
-- EIP-3540 “EVM Object Format v1”
-- EIP-3670 “Code Validation”
-- EIP-4200 “Static relative jumps”
-- EIP-4750 “Functions”
-- EIP-5450 “Stack Validation”
+- EIP-3860“限制和仪表初始化代码”
+- EIP-3540“EVM对象格式v1”
+- EIP-3670“代码验证”
+- EIP-4200“静态相对跳跃”
+- EIP-4750“功能”
+- EIP-5450“堆栈验证”
 
-This means that, if everything goes according to plan, the Ethereum network EVM will be fully upgraded by the end of 2023 and that the Ethereum Classic blockchain will be totally compatible with the new EVM standard specifications by the first half of 2024, as it usually waits from 3 to 6 months to follow new upgrades for security reasons and because it is a more conservative blockchain.
+这意味着，如果一切按计划进行，以太坊网络EVM将在2023年底全面升级，以太坊经典区块链将在2024年上半年与新的EVM标准规范完全兼容，因为出于安全原因，它通常需要等待3到6个月才能进行新的升级，而且因为它是一个更保守的区块链。
 
-## ETC Cooperative’s Contribution to EOF
+## ETC合作社对EOF的贡献
 
-![ETC Cooperative's contribution to EOF.](./eof-etc-coop-2.png)
+![ETC合作社对EOF的贡献](./eof-etc-coop-2.png)
 
-The ETC Cooperative is a non-profit organization that is dedicated to supporting the Ethereum Classic network. One of its functions is to maintain and upgrade the protocol and software clients of ETC: Core Geth, Hyperledger Besu, and Erigon for ETC.
+ETC合作社是一个非营利性组织，致力于支持以太坊经典网络。其功能之一是维护和升级ETC的协议和软件客户端:Core Geth, 超级账本Hyperledger Besu和Erigon ETC。
 
-The core developers who perform these tasks are Isaac Ardis and Chris Ziogas (Core Geth and Erigon for ETC), and Diego López León (Hyperledger Besu).
+执行这些任务的核心开发人员是Isaac Ardis和Chris Ziogas(ETC的Core Geth和Erigon)，以及Diego López León (超级账本Hyperledger Besu)。
 
-The contribution of the ETC Cooperative to the EOF project is that core developers Isaac Ardis and Chris Ziogas will help in the upgrade process of the Erigon software client, the upstream master branch of the Erigon for ETC client, and Diego López León will help in the upgrade of Hyperledger Besu, the master branch of the client that works with ETC.
+ETC合作对EOF项目的贡献在于，核心开发人员Isaac Ardis和Chris Ziogas将帮助Erigon软件客户端(Erigon for ETC客户端的上游主分支)的升级过程，Diego López León将帮助与ETC合作的客户端主分支Hyperledger Besu的升级。
 
-The benefit to Ethereum Classic is that it will necessarily inherit the EOF upgrades as Erigon for ETC is a downstream client to Erigon that will stay compatible with the EVM standard, and Hyperledger Besu supports the ETC network in its master branch.
+以太坊经典的好处是，它将必然继承EOF升级，因为Erigon for ETC是Erigon的下游客户端，将与EVM标准保持兼容，Hyperledger Besu在其主分支中支持ETC网络。
 
-An additional contribution of the ETC Cooperative to the EOF upgrade is that it will be helping the Vyper team through contracts with engineers Charles Cooper and Harry Kalogirou. 
+ETC合作公司对EOF升级的另一个贡献是，它将通过与工程师Charles Cooper和Harry Kalogirou的合同帮助Vyper团队。
 
-Vyper is an alternative smart contract language, so this is another path for testing EOF.
+Vyper是另一种智能合约语言，因此这是测试EOF的另一种途径。
 
-## Expected Results of the EOF Upgrade
+## EOF升级后的可见改变
 
-According to Bob Summerwill, ETC Cooperative’s executive director, EOF is basically adding structure and versioning around the bytecode which was missing in the EVM before. 
+根据ETC合作社的执行董事Bob Summerwill的说法，EOF基本上是在字节码周围添加结构和版本，这是以前EVM中所缺少的。
 
-EOF helps in implementing future upgrades without breaking backwards compatibility, and also adds better up-front analysis at compile time.
+EOF有助于在不破坏向后兼容性的情况下实现未来的升级，还在编译时增加了更好的预先分析。
 
-In other words, it will make the system cheaper, faster, and safer.
+换句话说，它将使系统更便宜、更快、更安全。
 
-Smart contract authors will see no difference in their work - just that the compiler output will get better and will cost less gas.
+智能合约作者在他们的工作中不会看到任何不同——只是编译器的输出将变得更好，将花费更少的矿工费。
 
-It is one of the very few EVM changes which Summerwill thinks is a “must have” prior to considering progress ossification of the ETC protocol.
+这是极少数的EVM变化之一，Summerwill认为在考虑ETC协议的进展僵化之前，这是“必须的”升级。
 
-## Conclusion
+## 总结
 
-The original design goals of the EVM were simplicity, reduction of ambiguity in the specification, space saving, specialization to expected use cases, high security, and optimization friendliness.
+EVM最初的设计目标是简单、减少规范中的歧义、节省空间，对预期用例专门化，并有高安全性和优化友好性。
 
-It has been amazing that to a great degree all these goals have been met. However, some problems have emerged and been identified over the years, and several proposals had been put forward, but delayed in time.
+令人惊讶的是，所有这些目标在很大程度上都得到了实现。但是，多年来出现和确定了一些问题。有几项建议被提出，但被及时推迟。
 
-The solution are the EOF upgrades and their accumulated EIPs.
+解决方案是EOF升级及其累积的EIP。
 
-This upgrade is certainly a major project and change in the industry.
+这次升级无疑是行业的重大项目和变革。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about the EOF upgrade please go to: https://notes.ethereum.org/@ipsilon/eof1-checklist
+了解有关EOF升级的更多内容，请访问: https://notes.ethereum.org/@ipsilon/eof1-checklist
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解有关以太坊经典的更多内容，请访问: https://ethereumclassic.org
