@@ -61,7 +61,7 @@ Smart contracts, which provide programmability to blockchains, thus enabling the
 
 Ethereum Classic is the largest blockchain in the world that has these two inventions integrated in the same system. Therefore, decentralized applications are truly unstoppable in ETC. This is its real life value proposition.
 
-![How unstoppability of dapps can only be achieved.](./etc-unstoppable.png)
+![How unstoppability of dapps can only be achieved.](./etc-unstoppability.png)
 
 ## The Ethereum Classic Foundational Documents
 
