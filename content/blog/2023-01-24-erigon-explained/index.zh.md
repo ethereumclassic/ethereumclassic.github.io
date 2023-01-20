@@ -1,5 +1,5 @@
 ---
-title: "Erigon Explained"
+title: "Erigon详解"
 date: 2023-01-24
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,120 +8,121 @@ linkImage: ./erigon-banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**欢迎由此观看或收听本期视频:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gBU56Ed4ltQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-**This is the seventh part of a series that will explain the three software clients currently operating or being implemented on Ethereum Classic**
+**这是该系列的第七部分，将解释目前在以太坊经典上运行或实现的三种软件客户端**
 
-The series will consist of the following topics:
+该系列将包括以下主题:
 
-1. The Difference Between a Network, a Blockchain, and a Cryptocurrency 
-2. The Difference Between Blockchain Software and Blockchain Protocol
-3. Are There Software Clients and Servers in a Blockchain?
-4. Ethereum Virtual Machine Blockchains and Ethereum Classic
-5. Core Geth Explained
-6. Hyperledger Besu Explained
-7. Erigon Explained
 
-## Reviewed Concepts in This series
+1. 网络、区块链和加密货币之间的区别
+2. 区块链软件与区块链协议的区别
+3. 区块链中是否存在软件客户端和服务器
+4. 以太坊虚拟机区块链和以太坊经典
+5. Core Geth详解
+6. 超级账本Hyperledger Besu详解
+7. Erigon详解
 
-![Erigon for ETC](./erigon-banner.png)
+## 本系列中的回顾概念
 
-In our first four articles we have explained the basics of what are networks, blockchains, and cryptocurrencies; the differences between blockchain software and blockchain protocols; whether there are software clients and servers in cryptocurrency networks; and what is Ethereum Classic's position in the segment of Ethereum Virtual Machine (EVM) blockchains.
+![ETC的Erigon](./erigon-banner.png)
 
-In this article we will apply all this knowledge to explain what is the Erigon software client that will work with Ethereum Classic, and what are its features, types, and functions.
+在我们的前四篇文章中，我们已经解释了什么是网络、区块链和加密货币的基础知识;区块链软件与区块链协议的区别;加密货币网络中是否存在软件客户端和服务器;以及以太坊经典在以太坊虚拟机(EVM)区块链中的位置。
 
-## Ethereum Classic Is a Network, a Blockchain, and a Cryptocurrency
+在本文中，我们将应用所有这些知识来解释什么是可以与以太坊经典一起工作的Erigon软件客户端，以及它的特性、类型和功能。
 
-![ETC Network](./etc-network.png)
+## 以太坊经典是一个网络、一个区块链、一个加密货币
 
-As we explained in the first post of this series:
+![ETC网络](./etc-network.png)
 
-Ethereum Classic is a network because it is a system of machines, nodes, and a shared database called a blockchain. In particular, it is a public network and its software is open source so that anyone can audit and use it to participate in the system.
+正如我们在本系列的第一篇文章中解释的那样:
 
-Ethereum Classic is a blockchain because its database contains a ledger with accounts and balances, where transactions are fully transmitted and form a fully replicated chain of blocks.
+以太坊经典是一个网络，因为它是一个由机器、节点和一个名为区块链的共享数据库组成的系统。特别是，它是一个公共网络，其软件是开源的，因此任何人都可以审计并使用它来参与系统。
 
-Ethereum Classic is a cryptocurrency because its ledger tracks a coin called ETC that is scarce, durable, costly to create, portable, divisible, fungible, and transferable, so it may be used for payments and as a store of value.
+以太坊经典是一个区块链，因为它的数据库包含一个账户和余额的分类账，在那里交易被完全传输，并形成一个完全复制的区块链。
 
-## Erigon Will Be a Node Client that Will Work With Ethereum Classic
+以太坊经典是一种加密货币，因为它的分类账跟踪一种名为ETC的硬币，这种硬币稀缺、耐用、制造成本高、可移植、可分割、可替代和可转让，因此它可以用于支付和价值储存。
+
+## Erigon将成为与以太坊经典一起运作的节点客户端
 
 ![Erigon](./erigon-brand.png)
 
-Blockchains are peer to peer networks and each participating machine in the system is called a node. 
+区块链是点对点网络，系统中的每个参与机器称为一个节点。
 
-For a machine to be a node it needs to run a software application that contains the set of rules of the protocol of that particular network.
+一台机器要成为一个节点，它需要运行一个包含特定网络协议规则集的软件应用程序。
 
-Erigon is an Ethereum network node software, also called “software client”, and is in the process of being adapted to operate with Ethereum Classic.
+Erigon是一个以太坊网络节点软件，也被称为“软件客户端”，并正在适应以太坊经典操作的过程中。
 
-Therefore, Erigon for ETC is currently in an experimental stage, but may be downloaded for use and testing. However it is not considered stable yet.
+因此，用于ETC的Erigon目前处于实验阶段，但可以下载用于使用和测试。然而，它还不是稳定的。
 
-Core developers have expressed that ETC support is going well for now.
+核心开发者表示，ETC支持目前进展顺利。
 
-## Erigon For ETC Will Be Both a Software Client and a Server
+Erigon For ETC将是一个软件客户端和服务器
 
-Blockchain networks are not hierarchical systems where some machines have more clout than others or there are permissioned instances or privileges. In ETC all peer nodes are equal and all replicate the same exact state every 15 seconds.
+区块链网络不是分层系统，其中一些机器比其他机器有更大的影响力，或者有被允许的实例或特权。在ETC中，所有对等节点都是相等的，并且每15秒复制一次完全相同的状态。
 
-This replication means that all nodes actually have the role of receiving transactions and blocks and retransmitting them to all other nodes. Similarly, when new nodes connect to the network, they consult with existing participating nodes on the state of the network and then download from them all the history in what is called the Initial Block Download (IBD).
+这种复制意味着所有节点实际上都具有接收事务、接受区块、并将它们重新发送到所有其他节点的角色。类似的，当新节点连接到网络时，它们会访问现有参与节点的网络状态，然后从它们那里下载所有历史记录，称为初始块下载(Initial Block download, IBD)。
 
-Due to this equal status of all nodes in the network and that all send and receive information from all other nodes, then there are no real distinct server and client roles, but they are all really servers and clients. 
+由于网络中所有节点的这种平等状态，以及所有节点都从所有其他节点发送和接收信息，因此没有真正不同的服务器和客户端角色，它们都是真正的服务器和客户端。
 
-## Erigon for ETC Will Be a Full EVM Node Software
+## Erigon for ETC将是一个完整的EVM节点软件
 
-Erigon for ETC will be a node server and client that will be compliant with all the EVM standard components in general and compatible with the mining capabilities of Ethereum Classic in particular.
+Erigon for ETC将是一个节点服务器和客户端，它将与所有EVM标准组件兼容，特别是与以太坊经典的挖掘功能兼容。
 
-## Origin of Erigon
+## Erigon的来源
 
-Erigon is a fork of Go-Ethereum, the most popular software client of the Ethereum network. 
+Erigon是以太坊网络中最流行的软件客户端Go-Ethereum的一个分支。
 
-It is a project by a team called “LedgerWatch” and its goal is to make nodes faster to synchronize and to reduce the on disk storage size.
+这是一个名为“LedgerWatch”的团队的项目，其目标是使节点更快地同步并减少磁盘上的存储空间。
 
-The strategy they are following is to optimize many processes of how the node operates, but the main focus is on changing the synchronization method and modifying the data structure.
+他们遵循的策略是优化节点运行的许多过程，但主要的焦点是更改同步方法和修改数据结构。
 
-## Erigon Unique Features
+## Erigon的独特特征
 
-The synchronization method they use is called staging. 
+他们使用的同步方法称为暂态(staging)。
 
-The method consists of, instead of downloading and verifying each block as they are retrieved from other peers, Erigon first downloads the whole chain and separately processes the verification function offline locally.
+该方法首先下载了整个区块链，并在本地离线单独处理验证函数，而不是在其他节点检索区块时下载并验证每个区块。
 
-For the data structure, they made modifications to the Merkle tree to enable a faster write and faster synchronization.
+对于数据结构，他们对Merkle树进行了修改，以实现更快的写入和同步。
 
-## Erigon for ETC May Have Different Configurations
+## Erigon for ETC可能会拥有不同配置
 
-When Erigon is fully adapted, it will be a fully featured Ethereum Classic client-server and may be enabled to be used with the following configurations:
+当Erigon完全被改编后，它将成为一个功能齐全的以太坊经典客户端-服务器，并可以通过以下配置使用:
 
-**Archival node:** A node that stores the block headers, the tree of hashed transactions (called Merkle Patricia tree), and all the original data of all transactions sent to the blockchain. This is the largest and most heavy to operate and longest to download kind of node.
+**归档节点:** 存储区块头、哈希交易树(称为Merkle Patricia树)以及发送到区块链的所有交易的所有原始数据的节点。这是最大最沉重的操作和最长的下载类型的节点。
 
-**Full node:** A node that stores the block headers and the Merkle Patricia tree, but does not store all the original transactions. This is a relatively secure kind of node, much faster to download, and lighter to operate than the archival node.
+**完整节点:** 存储区块头和Merkle Patricia树，但不存储所有原始交易的节点。这是一种相对安全的节点，下载速度比归档节点快得多，操作也更轻。
 
-**Light node:** A node that only stores the block headers and nothing more. This is a very fast to download and the lightest to operate kind of node, but it is much less secure and more dependent as it always needs other nodes in the network to confirm hashed transactions from the Merkle Patricia tree to be able to verify them.
+**轻量节点:** 一个只存储区块头信息的节点。这是一种下载速度非常快，操作最轻的节点，但它的安全性低，依赖性更强，因为它总是需要网络中的其他节点来确认来自Merkle Patricia树的哈希交易，以便能够验证它们。
 
-## Erigon for ETC May Have Different Functions
+## Erigon for ETC可能会有不同功能
 
-As a node software that is configurable and flexible, when Erigon is fully adapted to ETC, it may be enabled to be used for the following functions:
+作为一个可配置且灵活的节点软件，当Erigon完全适应ETC时，它可以用于以下功能:
 
-**Verifying node:** Exchanges, large institutional investors, and crypto custody services need to run nodes able to verify their positions in the network directly. As a fully featured node client, Erigon for ETC may used for this function.
+**验证节点:** 交易所、大型机构投资者和加密监管服务需要运行能够直接验证其在网络中的位置的节点。作为一个功能齐全的节点客户端，Erigon for ETC可以用于此功能。
 
-**Miner:** When Erigon for ETC is stable, it will include the full mining algorithm of Ethereum Classic, therefore it may be used by both miners and mining pools to run their operations.
+**矿工:** 当ETC的Erigon稳定时，它将包含以太坊经典的完整挖矿算法，因此它可能被矿工和矿池使用来运行他们的操作。
 
-**Node as a Service (NaaS):** Startups and companies who run NaaS services may use Erigon to provide wallet queries to third parties, transaction processing, statistics and charts, and block explorer services.
+**用于服务节点(NaaS):** 运行NaaS服务的初创公司和其他公司可以使用Erigon向第三方提供钱包查询、交易处理、统计和图表以及块资源管理器服务。
 
-## How to Run Erigon on Ethereum Classic
+## 如何在以太坊经典上运行Erigon
 
-To run Erigon as an experimental Ethereum Classic node, node operators and miners must go to the following repository on Github and download the client:
+要将Erigon作为实验性的以太坊经典节点运行，节点操作员和矿工必须到Github上的以下存储库并下载客户端:
 
 https://github.com/ETCCooperative/erigon
 
-To activate it pointing to the ETC blockchain, the following command must be used to initiated it:
+要激活它指向ETC区块链，必须使用以下命令启动它:
 
 ```--erigon –chain classic```
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章！**
 
-To learn more about Erigon for ETC please go here: https://github.com/ETCCooperative/erigon
+想要了解更多ETC Erigon，请访问: https://github.com/ETCCooperative/erigon
 
-To learn more about ETC please go to: https://ethereumclassic.org
+想要了解更多有关ETC的内容，请访问: https://ethereumclassic.org
