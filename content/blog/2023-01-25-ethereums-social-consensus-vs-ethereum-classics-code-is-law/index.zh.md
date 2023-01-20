@@ -1,5 +1,5 @@
 ---
-title: "Ethereum's Social Consensus vs Ethereum Classic's Code Is Law"
+title: "以太坊的社会共识 vs 以太坊经典的代码即法律"
 date: 2023-01-25
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,58 +8,58 @@ linkImage: ./eth-etc-philosophies.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期视频:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XF-AUbrnf9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-Design philosophies and principles are a big influence of how blockchains work. After the Ethereum (ETH) migration to proof of stake, which completely changed its security model, it seems appropriate to make a comparison of that system's and Ethereum Classic's (ETC) core philosophies.
+设计哲学和原则对区块链的工作方式有很大的影响。在以太坊(ETH)迁移到权益证明(Proof of Stake)之后，它完全改变了其安全模型，似乎是时候比较该系统和以太坊经典(ETC)的核心理念了。
 
-Ethereum's philosophical model may be called "Social Consensus" and Ethereum Classic's "Code Is Law". In this post, we will explain and compare both.
+以太坊的哲学模式可以称为“社会共识”，以太坊经典的“代码即法律”。在这篇文章中，我们将解释并比较这两者。
 
-We will write "Social Consensus" and "Code Is Law" with capital case when used as the names for the philosophies.
+“社会共识”、“代码即法律”等哲学的名称要用大写字母来表示。
 
-![Social Consensus vs Code Is Law. They are not the same.](./eth-etc-philosophies.png)
+![Social Consensus社会共识 vs Code Is Law代码及法律，两者不同](./eth-etc-philosophies.png)
 
-## Ethereum's Social Consensus
+## 以太坊的社会共识
 
-The terminology used by the Ethereum Foundation, ETH ecosystem, and community has varied with time. In different occasions their set of principles has been referred to as "weak subjectivity", "social slashing", "social information", or "people: the last line of defense". However, the latest name used with more frequency to describe their views has been "Social Consensus", so we are going to use this term to explain their general philosophical position.
+以太坊基金会、ETH生态系统和社区使用的术语随着时间的推移而变化。在不同的场合，他们的一套原则被称为“弱主观性”，“社会削减”，“社会信息”，或“人们:最后的防线”。然而，用于描述他们观点的最新名称是“社会共识”，因此我们将使用这个术语来解释他们的一般哲学立场。
 
-It is worth noting, though, that the term "weak subjectivity" is a sort of acknowledgement that using people's subjective opinions and voting to run a cryptocurrency network is a sort of misdeed, since they called it "weak" to try to give some reassurance.
+然而，值得注意的是，“弱主观性”一词是在某种程度上承认，使用人们的主观意见和投票来运行加密货币网络是一种不当行为，因为他们称它为“弱”，以试图提供一些保证。
 
-Social Consensus advocates claim that proof of stake and subjective agreement between network node operators is more secure than Code Is Law blockchains which use proof of work. This is false as Social Consensus doesn't even provide a focal point for participants to join, leave, and join again the network. This focal point provided by the "most work done" rule in proof of work is the only way to make a blockchain permissionless, decentralized, and censorship resistant.
+社会共识倡导者认为，与使用工作量证明的代码区块链相比，权益证明和网络节点运营商之间的主观协议更安全。这是错误的，因为社会共识甚至没有为参与者提供一个加入、离开和再次加入网络的焦点。由工作量证明中的“完成的工作量最多”规则提供的这个焦点是使区块链无许可、去中心化和抵制审查的唯一方法。
 
-The best chain selection mode that Social Consensus philosophy can provide is "ask a friend" or check with block explorers or some other website on the internet. 
+社会共识哲学所能提供的最佳链选择模式是“问朋友”，或者向区块探索者或互联网上的其他网站查询。
 
-This truly weak decision making process of Social Consensus and proof of stake stems from two beliefs they hold:
+这种真正软弱的社会共识和利益证明决策过程源于他们持有的两个信念:
 
-- That blockchain consensus is a human process, not a mechanical physical process.
-- That humans are pretty good at achieving consensus in the long run.
+-区块链共识是一个人类过程，而不是机械物理过程。
+-从长远来看，人类非常擅长达成共识。
 
-As Social Consensus has these principles as their core beliefs, then blockchains are built and used only for automation and scalability purposes. Just as computers and software programs in traditional centralized systems, for them, blockchains are just mere practical tools.
+由于社会共识的核心信念是这些原则，因此区块链的构建和使用仅用于自动化和可扩展性目的。就像传统中心化系统中的计算机和软件程序一样，对他们来说，区块链只是实用工具。
 
-This focus on humans as sources of safety makes Social Consensus proponents believe that both proof of stake and proof of work can ultimately be overpowered by state actors indifferently. For them, both systems are equally vulnerable, therefore whether they have human intervention as an embedded design feature is irrelevant.
+这种对人类作为安全来源的关注使社会共识的支持者认为，权益证明和工作量证明最终都可以被国家行为者冷漠地压倒。对于它们来说，两个系统都同样脆弱，因此它们是否有人工干预作为嵌入式设计特征是无关紧要的。
 
-Again, Social Consensus emphasizes that communities are good at consensus. 
+同样，社会共识强调的是社区擅长达成共识。
 
-Because Social Consensus believes in human agency, then it also believes in very human methods. This leads them to think that proof of work is actually weaker because it incentivizes block producers only with rewards; that proof of stake does this with rewards and penalties, therefore, they say, it must be more complete as an economic mechanism.
+因为社会共识相信人类的能动性，那么它也相信非常人类的方法。这导致他们认为工作量证明实际上更弱，因为它只用奖励来激励区块生产者;他们表示，权益证明机制通过奖励和惩罚实现了这一点，因此，作为一种经济机制，它必须更加完整。
 
-Social Consensus proponents focus a lot on what they call efficiency, but their definition of efficiency is whether block producers and validators have to be paid more or less to participate in the network. The measurement of efficiency they use is to calculate the total amount of capital locked for producing blocks, multiplied by the total rewards needed to pay for this capital, multiplied by how much time such capital is locked. The claim is that because proof of stake demands less of these metrics, then it must be more efficient.
+社会共识的支持者非常关注他们所谓的效率，但他们对效率的定义是，区块生产者和验证者是否必须获得更多或更少的报酬才能参与网络。他们使用的效率衡量方法是计算生产区块所锁定的总资本，乘以为这些资本支付的总回报，再乘以这些资本被锁定的时间。他们声称，因为权益证明对这些指标的要求更少，所以它一定更高效。
 
-The above is not only a bad definition of efficiency, but a lack of understanding of the economic implications of the different models. If proof of stake validators require a lower reward, thus a lower return on investment (ROI), it is because their role in the system has significantly less risk for them as they do not actually sink capital to recover it in the distant future with uncertainty. Proof of work miners make enormous commitments of capital that they sink in hardware, data centers, human resources, and electricity with the expectation that they will recover their investment with a reasonable ROI in the long term.
+上述不仅是对效率的一个糟糕定义，而且缺乏对不同模型的经济含义的理解。如果权益证明验证者要求较低的回报，从而较低的投资回报率(ROI)，这是因为他们在系统中的角色对他们来说风险明显较小，因为他们实际上不会在具有不确定性的遥远未来投入资本来收回资本。矿工们在硬件、数据中心、人力资源和电力方面投入了大量的资金，并期望从长期来看能够以合理的投资回报率收回投资。
 
-Social Consensus has nearly zero marginal cost and risk. Proof of work requires risk taking, competitive merit, and sunk capital.
+社会共识的边际成本和风险几乎为零。工作证明需要承担风险、竞争优势和投入资本。
 
-And this is where they are confused. Proof of work is purposely costly and unscalable computationally precisely to guarantee the benefits of decentralization, which is correctly measured by its social scalability: Anyone in the world may use a Code Is Law blockchain. Only a subset of the world may use Social Consensus networks.
+这就是他们困惑的地方。工作量证明是故意昂贵和不可扩展的计算精确地保证去中心化的好处，这是通过其社会可扩展性来正确衡量的:世界上任何人都可以使用Code is Law区块链。世界上只有一小部分人可以使用社会共识网络。
 
-Another deep misunderstanding of Social Consensus supporters is that they believe that proof of work is centralized through mining pools and ASIC computing. This kind of thinking is incomprehensible at this point because after 14 years of operation of Bitcoin, and 7 years of Ethereum as a proof of work chain until the migration to proof of stake, both chains have never been centralized or captured by mining pools, mining firms, ASIC producers, or any other kind of agent.
+社会共识支持者的另一个深刻误解是，他们认为工作量证明是通过矿池和ASIC计算集中的。这种想法在这一点上是不可理解的，因为在比特币运行了14年之后，在迁移到权益证明之前，以太坊作为工作证明链已经运行了7年，这两条链从未被矿池、矿业公司、ASIC生产商或任何其他类型的代理集中或捕获。
 
-To the contrary, proof of stake, with its Social Consensus philosophy, was captured [from the start](https://www.mevwatch.info/) when Ethereum migrated to that system as more than 70% of their blocks are censored by government agencies due to international sanctions policies.
+相反，当以太坊迁移到该系统时，由于国际制裁政策，超过70%的区块被政府机构审查，具有社会共识哲学的股权证明从[一开始](https://www.mevwatch.info/)就被捕获了。
 
-One of the strongest (and most erroneous) arguments in Social Consensus philosophy is that blockchains are technological and social designs where their safety is sourced from cryptography, economics, and social agreement. This leaves out the most important invention of Bitcoin, and the only reason why the whole industry actually exists: Nakamoto Consensus.
+社会共识哲学中最强有力(也是最错误的)的论点之一是，区块链是一种技术和社会设计，其安全性来自密码学、经济学和社会协议。这就忽略了比特币最重要的发明，也是整个行业存在的唯一原因:中本聪共识。
 
-Nakamoto Consensus is based on proof of work and can only be based on proof of work because it is the only way to assure the consensus of machines owned by strangers, spread across the world, who don't talk to each other, have no reason to trust each other, and who, in their complete isolation and without consulting anyone, reach absolute consensus on the state of the system every 10 minutes in the case of Bitcoin and every 15 seconds in the case of Ethereum Classic.
+中本共识是基于证据的工作,只能基于证据的工作,因为它是唯一的方式保证机器属于陌生人的共识,在世界各地传播,不互相交谈,没有理由相信彼此,和谁,在他们完全的隔离,没有咨询任何人,达到绝对一致的系统状态每10分钟的比特币每15秒的Ethereum经典。
 
 Cryptography, economics, and social agreement are just marginal tools and methods used to implement the system, they are not the keys to the design and its security. 
 
