@@ -61,91 +61,91 @@ linkImage: ./eth-etc-philosophies.png
 
 中本共识是基于证据的工作,只能基于证据的工作,因为它是唯一的方式保证机器属于陌生人的共识,在世界各地传播,不互相交谈,没有理由相信彼此,和谁,在他们完全的隔离,没有咨询任何人,达到绝对一致的系统状态每10分钟的比特币每15秒的Ethereum经典。
 
-Cryptography, economics, and social agreement are just marginal tools and methods used to implement the system, they are not the keys to the design and its security. 
+密码学、经济学和社会协议只是实现系统的边缘工具和方法，它们并不是系统设计及其安全性的关键。
 
-It was the enormous amount of electricity needed, the enormous amount of computational power required, the difficulty adjustment, and the importation of this information from the real physical world into the system that was the revolutionary solution to the problem of consensus and safety in the network.
+它需要大量的电力，需要大量的计算能力，调整的难度，以及将这些信息从真实的物理世界输入到系统中，这是解决网络一致性和安全性问题的革命性解决方案。
 
-Social Consensus' lack of acknowledgement of this truth and their naive refocusing on human virtue as a security measure is the major flaw of that philosophy.
+社会共识缺乏对这一真理的承认，以及天真地将人类美德作为一种安全措施重新聚焦，是这种哲学的主要缺陷。
 
-This flaw makes them believe in several falsehoods, one of which is that a blockchain is a sort of "crypto-economic organism" or some sort of righteous organization of people who will always be good for the world.
+这一缺陷让他们相信了一些谎言，其中之一是区块链是一种“加密经济有机体”或某种正义的组织，这些人将永远对世界有益。
 
-Social Consensus focuses on economics and virtue rather than physics and energy.
+社会共识关注的是经济和美德，而不是物理和能源。
 
-Social Consensus glorifies "the community", considers it the security of last resort, and believes that human voluntary agreement is what ultimately protects the accounts, property, dapps, and contracts inside a blockchain.
+社会共识推崇“社区”，认为它是最后的安全手段，并认为人类自愿协议是最终保护区块链内的账户、财产、dapp和合同的东西。
 
-We would argue, that a Social Consensus network is not even a blockchain. Blocks are defined as batches of data that have to be sealed with a proof of work hash that must cost block producers enormous amounts of capital and energy.  
+我们认为，社会共识网络甚至不是区块链。区块被定义为批量数据，这些数据必须用工作量证明哈希进行加密，这必须花费区块生产者大量的资本和能源。
 
-The ultimate purpose of Social Consensus is to protect the planet, to do no harm to the environment, and to heal the climate. The whole reason of existence of Bitcoin, Ethereum Classic and other true blockchains is human flourishing through trust minimization. 
+社会共识的最终目的是保护地球，不伤害环境，治愈气候。比特币、以太坊经典和其他真正的区块链存在的全部原因是人类通过信任最小化而繁荣。
 
-Indeed, proof of work actually helps the environment as an externality much more than proof of stake because renewable energy is cheaper than fossil fuel electricity, and miners are constantly seeking to lower their costs so they naturally move to renewable energy sources, providing cash flow to that segment of the industry and promoting its growth. 
+事实上，工作量证明比权益证明对环境的帮助要大得多，因为可再生能源比化石燃料电力更便宜，而且矿业公司不断寻求降低成本，因此自然而然地转向可再生能源，为该行业提供现金流，并促进其增长。
 
-As Social Consensus believes in human agency, but human agency is prone to cheating, then penalties through slashing are required. Also, forks to reverse the chain, confiscate funds, slash bad actors, and change the history of the chain by majority voting are perfectly fine in that philosophy. If trust in intermediaries and human intervention were never the problem, then why was "trust minimization" even a  concern?
+由于社会共识相信人类能动性，但人类能动性容易作弊，因此需要通过删减进行惩罚。此外，用叉来扭转链条，没收资金，砍掉坏人，并通过多数投票改变链条的历史，都是完全符合这种理念的。如果对中介机构的信任和人为干预从来都不是问题，那么为什么“信任最小化”甚至是一个问题?
 
-Of course, Social Consensus has very little awareness of the perils that their actions and intervention will bring. It is unlikely that any actor in the network that is slashed by social consensus will passively accept a significant loss of their capital without a fight. Lawsuits and legal bureaucracy will be the name of the game in the Social Consensus world.
+当然，社会共识很少意识到他们的行动和干预将带来的危险。在这个网络中，任何一个被社会共识削减的参与者都不太可能毫无反抗地被动地接受资本的重大损失。在社会共识的世界里，诉讼和法律官僚将皆为游戏。
 
-In Social Consensus philosophy, "finality" is defined as a 66% vote of validators. This seems to be strong for the naive eye, but it is just a mirage. It really means that with only 33% of bad actors the network may be disrupted. This has been the vulnerability that has existed in computing networks since they were invented.
+在社会共识哲学中，“最终性”被定义为66%的验证者投票。这对于天真的眼睛来说似乎是强大的，但这只是海市蜃楼。这实际上意味着，只有33%的不良参与者，网络可能会中断。这是自计算网络发明以来就存在的漏洞。
 
-To describe finality as a vote, is like saying that finality can be decreed by law or by a government. It is precisely because this is not true that Satoshi Nakamoto invented Bitcoin, Ethereum Classic exists, and Cypherpunks had been working on these technologies for decades.
+用投票来描述最终性，就像说最终性可以由法律或政府决定。正是因为这不是真的，所以中本聪发明了比特币，以太坊经典存在，而密码朋克已经在这些技术上工作了几十年。
 
-However, people are the last defense for Social Consensus advocates, governance is paramount as an emergency response, and The DAO hard fork is regarded as an accomplishment.
+然而，人是社会共识主张的最后防线，治理是至高无上的应急之策，而DAO硬分叉则被视为一种成就。
 
-## Ethereum Classic's Code Is Law
+## 以太坊经典的代码及法律
 
-In Ethereum Classic the term "Code Is Law" has been unequivocal, unambiguous, determined, and clear since the day that Ethereum split from the original blockchain on July 20th of 2016 on block 1,920,000.
+在以太坊经典中，自以太坊于2016年7月20日在1920,000区块上从原始区块链分离以来，术语“代码即法律”一直是确定和明确的。
 
-Code Is Law is as inextricably linked to proof of work as Social Consensus must escape it. Proof of work is the most secure consensus mechanism known to humankind for reaching consensus on the state of a peer to peer network.
+代码即法律与工作证明有着千丝万缕的联系，就像社会共识必须避开它一样。工作量证明机制是目前公认的对对等网络状态达成一致的最安全的共识机制。
 
-Code Is Law is a principles first philosophy, all the rest comes after.
+代码是法律，是原则第一的哲学，其余的都在后面。
 
-Code Is law means unstoppability, no downtime, censorship resistance, and the thorough minimization of the influence of third parties. These features are the only ones that can guarantee that the network will not be captured or influenced by special interests.
+代码即法律意味着不可阻挡，没有停机时间，审查阻力，以及彻底减少第三方的影响。只有这些特征才能保证网络不会被特殊利益捕获或影响。
 
-Code Is Law advocates believe in freedom from censorship, immutability, and that decentralized applications must run exactly as programmed.
+代码即法律的倡导者相信不受审查的自由、不变性，以及去中心化的应用程序必须完全按程序运行。
 
-Immutability, decentralization, and complete neutrality, which means no intervention by supposedly virtuous humans, is the only way to guarantee zero discrimination of anyone. Code Is Law beliefs include pseudo anonymity,  decentralization, a rejection of decisions by voting, and a rejection of irregular state changes  to the network.
+不变性、去中心化和完全中立，即不受所谓善良的人类的干预，是确保对任何人零歧视的唯一途径。代码即法律信仰包括伪匿名、去中心化、通过投票拒绝决定，以及拒绝网络的不规则状态变化。
 
-Code Is Law philosophy has the knowledge at its root that superficial things like funds recoveries, returns to legitimate owners, and other on-chain manual interventions are wrong, not right. And they are wrong because nothing guarantees that such human interventions will not be used against the capital, applications, and transactions of users.
+代码即法律哲学从根本上认为，资金回收、返还合法所有者和其他链上人工干预等表面上的事情是错误的 - 因为没有什么能保证这种人为干预不会被用于破坏用户的资本、应用程序和交易。
 
-For Code Is Law to be true, and it is true in ETC, the ledger must be inviolable and immutable. "The greater good" in Social Consensus is a false promise, it is actually completely opposite to the safety of the property, agreements, and transactions of individuals.
+为了验证代码即法律是真实的，账本必须是不可侵犯和不可改变的。社会共识中的“更大的利益”是一种虚假的承诺，它实际上完全相反于个人财产、协议和交易的安全。
 
-Proof of work is the only mechanism known to man that guarantees permissionlessness, decentralization, censorship resistance, and immutability. And, these features guarantee no discrimination against any nationality, culture, creed, politics, race, or human condition. 
+工作量证明是人类所知的唯一保证无许可、去中心化、抵制审查和不可变性的机制。而且，这些特点保证不歧视任何国家、文化、信仰、政治、种族或人类状况。
 
-Where Social Consensus believes "people are good" Code Is Law believes "people are the problem we were trying to solve in the first place!"
+当社会共识认为“人是好的”时，代码即法律认为“人就是我们最初试图解决的问题!”
 
-Code Is Law means trust minimization and that Ethereum Classic cannot be shut down or intervened. This has been proven multiple times in its history. Forks are only to fix bugs or make necessary upgrades. Nothing more.
+代码即法律意味着信任最小化，以太坊经典不能被关闭或干预。这在历史上已经被多次证明。分叉只是为了修复bug或进行必要的升级。仅此而已。
 
-If Social Consensus were used for any kind of "good" change, then what prevents it to be used for any change. The only solution is no social consensus. Thus, Code Is Law.
+如果社会共识被用于任何“好的”改变，那么是什么阻止了它被用于任何改变。唯一的解决办法是不达成社会共识。因此，法典就是法律。
 
-Code Is Law means no change and the sanctity of the ledger. Anyone, anywhere in the world, even refrigerators, can use ETC. This is only possible with complete neutrality, and neutrality is only possible with true immutability. "Governance" doesn't even exist in Code Is Law. This is why neither ETC nor Bitcoin have foundations or leaders.
+代码即法律意味着没有变化和账本的神圣不可侵犯。世界上任何地方的任何人，甚至冰箱都可以使用。这只有在完全中立的情况下才有可能，而中立只有在真正的不变性下才有可能。“治理”甚至不存在于法典即法律中。这就是为什么ETC和比特币都没有基金会或领导人。
 
-Code Is law is about rough consensus, which is free adoption, free and unlimited participation, and no tyranny of the elites or voting majorities. This makes the blockchain antifragile.
+代码即法律是关于粗略的共识，即自由采用，自由和无限的参与，没有精英或投票多数的暴政。这使得区块链抗脆弱。
 
-Code Is Law does not mean it supports crooks and thieves. Indeed, the worst crooks and thieves are actually kept out of it! And, the petty ones can be dealt with through the normal and time tested channels of legal systems and law enforcement.
+代码即法律并不意味着它支持骗子和小偷。事实上，最坏的骗子和小偷都被拒之门外。性质较小着可以通过法律制度和执法进行处理。
 
-Code Is Law is on the blockchain. Executions and transactions are final and immutable. It has nothing to do with human law. It is like the laws of physics.
+代码即法律在区块链频道播出。执行和事务是最终的和不可变的。这与人类的法律无关。这就像物理定律一样。
 
-The communities of Ethereum, Bitcoin, or Ethereum Classic cannot have the knowledge or capability for dealing with the disputes of billions of people worldwide. There is no such thing as blockchain justice. The resolution of these things must be carried out outside of the blockchain.
+以太坊、比特币或以太坊经典的社区无法拥有处理全球数十亿人的纠纷的知识或能力。没有所谓的区块链正义。这些事情的解决必须在区块链之外进行。
 
-The only answer is neutrality, therefore the Code Is Law philosophy.  
-
----
-### Sources:
-
-### Ethereum Social Consensus ideas and writings:
-
-- Proof of Stake: How I Learned to Love Weak Subjectivity: https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity
-- Proof of Stake Design Philosophy: https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51
-- What Is Social Coordination and Why It Is Needed: https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/faqs/#what-is-social-coordination
-- People: The Last Line of Defense: https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/attack-and-defense/#people-the-last-line-of-defense
-
-### Ethereum Classic foundational documents:
-
-- The Ethereum Classic Declaration of Independence: https://ethereumclassic.org/ETC_Declaration_of_Independence.pdf
-- Code is Law and the Quest for Justice: https://ethereumclassic.org/blog/2016-09-09-code-is-law
-- A Crypto-Decentralist Manifesto: https://ethereumclassic.org/blog/2016-07-11-crypto-decentralist-manifesto
-- Code is Law - Ethereum Classic community website: https://ethereumclassic.org/why-classic/code-is-law
+唯一的答案是中立，因此代码即法律是一种哲学。 
 
 ---
+### 来源:
 
-**Thank you for reading this article!**
+### 以太坊社会共识思想和著作:
 
-To learn more about ETC please go to: https://ethereumclassic.org
+- Proof of Stake: How I Learned to Love Weak Subjectivity（权益证明：我是如何学会爱上弱主观性的）: https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity
+- Proof of Stake Design Philosophy）（权益证明设计哲学）: https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51
+- What Is Social Coordination and Why It Is Needed（什么是社会写作以及它为什么是必不可少的）: https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/faqs/#what-is-social-coordination
+- People: The Last Line of Defense（人民群体：最后的防线）: https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/attack-and-defense/#people-the-last-line-of-defense
+
+### 以太坊经典基础文献:
+
+- 以太坊经典独立宣言: https://ethereumclassic.org/ETC_Declaration_of_Independence.pdf
+- 法典就是法律，是对正义的追求: https://ethereumclassic.org/blog/2016-09-09-code-is-law
+- 加密去中心化宣言: https://ethereumclassic.org/blog/2016-07-11-crypto-decentralist-manifesto
+- 代码及法律 - 以太坊经典社区网站: https://ethereumclassic.org/why-classic/code-is-law
+
+---
+
+**感谢您阅读本期文章!**
+
+了解更多有关以太坊经典内容: https://ethereumclassic.org
