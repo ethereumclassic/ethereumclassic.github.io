@@ -79,7 +79,7 @@ The ultimate purpose of Social Consensus is to protect the planet, to do no harm
 
 Indeed, proof of work actually helps the environment as an externality much more than proof of stake because renewable energy is cheaper than fossil fuel electricity, and miners are constantly seeking to lower their costs so they naturally move to renewable energy sources, providing cash flow to that segment of the industry and promoting its growth. 
 
-As Social Consensus believes in human agency, but human agency is prone to cheating, then penalties through slashing are required. Also, forks to reverse the chain, confiscate funds, slash bad actors, and change the history of the chain by majority voting are perfectly fine in that philosophy. If trust in intermediaries and human intervention were never the problem, then why was "trust minimization" even a  concern?
+As Social Consensus believes in human agency, but human agency is prone to cheating, then penalties through slashing are required. Also, forks to reverse the chain, confiscate funds, slash bad actors, and change the history of the chain by majority voting are perfectly fine in that philosophy. If trust in intermediaries and human intervention were never the problem, then why was "trust minimization" even a concern?
 
 Of course, Social Consensus has very little awareness of the perils that their actions and intervention will bring. It is unlikely that any actor in the network that is slashed by social consensus will passively accept a significant loss of their capital without a fight. Lawsuits and legal bureaucracy will be the name of the game in the Social Consensus world.
 
