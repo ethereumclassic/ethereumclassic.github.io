@@ -77,13 +77,13 @@ Erigon for ETC将是一个节点服务器和客户端，它将与所有EVM标准
 
 Erigon是以太坊网络中最流行的软件客户端Go-Ethereum的一个分支。
 
-这是一个名为“LedgerWatch”的团队的项目，其目标是使节点更快地同步并减少磁盘上的存储空间。
+这是一个 [同名](https://twitter.com/ErigonEth) 团队的项目，其目标是使节点更快地同步并减少磁盘存储大小。
 
 他们遵循的策略是优化节点运行的许多过程，但主要的焦点是更改同步方法和修改数据结构。
 
 ## Erigon的独特特征
 
-他们使用的同步方法称为暂态(staging)。
+他们使用的同步方法称为暂态([staging](https://erigon.substack.com/p/staged-sync-and-short-history-of))。
 
 该方法首先下载了整个区块链，并在本地离线单独处理验证函数，而不是在其他节点检索区块时下载并验证每个区块。
 
