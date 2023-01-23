@@ -83,7 +83,7 @@ As Social Consensus believes in human agency, but human agency is prone to cheat
 
 Of course, Social Consensus has very little awareness of the perils that such actions and interventions will bring. It is unlikely that any actor in the network that is slashed by social consensus will passively accept a significant loss of their capital without a fight. Lawsuits and legal bureaucracy will be the name of the game in the Social Consensus world.
 
-In Social Consensus philosophy, "finality" is defined as a 66% vote of validators. This seems to be strong for the naive eye, but it is just a mirage. It really means that with only 33% of bad actors the network may be disrupted. This has been the vulnerability that has existed in computing networks since they were invented.
+In Social Consensus philosophy, "finality" is defined as a 66% vote of validators. This seems to be strong to the naive eye, but it is just a mirage. It really means that with only 33% of bad actors, the network may be disrupted. This has been the vulnerability that has existed in computing networks since they were invented.
 
 To describe finality as a vote, is like saying that finality can be decreed by law or by a government. It is precisely because this is not true that Satoshi Nakamoto invented Bitcoin, Ethereum Classic exists, and Cypherpunks had been working on these technologies for decades.
 
