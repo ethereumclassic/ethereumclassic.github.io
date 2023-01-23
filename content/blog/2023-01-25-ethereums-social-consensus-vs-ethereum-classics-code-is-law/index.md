@@ -87,7 +87,7 @@ In Social Consensus philosophy, "finality" is defined as a 66% vote of validator
 
 To describe finality as a vote, is like saying that finality can be decreed by law or by a government. It is precisely because this is not true that Satoshi Nakamoto invented Bitcoin, Ethereum Classic exists, and Cypherpunks had been working on these technologies for decades.
 
-However, people are the last defense for Social Consensus advocates, governance is paramount as an emergency response, and The DAO hard fork is regarded as an accomplishment.
+However, people are the last defense for Social Consensus advocates, governance is paramount as an emergency response, and TheDAO hard fork is regarded as an accomplishment.
 
 ## Ethereum Classic's Code Is Law
 
