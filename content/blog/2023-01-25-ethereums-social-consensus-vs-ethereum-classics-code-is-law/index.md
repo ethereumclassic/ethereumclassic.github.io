@@ -43,7 +43,7 @@ This focus on humans as sources of safety makes Social Consensus proponents beli
 
 Again, Social Consensus emphasizes that communities are good at consensus. 
 
-Because Social Consensus believes in human agency, then it also believes in very human methods. This leads them to think that proof of work is actually weaker because it incentivizes block producers only with rewards; that proof of stake does this with rewards and penalties, therefore, they say, it must be more complete as an economic mechanism.
+Because Social Consensus believes in human agency, then it also believes in very human methods. This leads to the erroneous conclusion that proof of work is actually weaker because it incentivizes block producers only with rewards; that proof of stake does this with rewards and penalties, therefore, it must be more complete as an economic mechanism.
 
 Social Consensus proponents focus a lot on what they call efficiency, but their definition of efficiency is whether block producers and validators have to be paid more or less to participate in the network. The measurement of efficiency they use is to calculate the total amount of capital locked for producing blocks, multiplied by the total rewards needed to pay for this capital, multiplied by how much time such capital is locked. The claim is that because proof of stake demands less of these metrics, then it must be more efficient.
 
