@@ -125,7 +125,7 @@ As stated before, Trust Wallet supports multiple wallets with multiple crypto as
 11. In the next screen, you will see a list of crypto assets. Scroll down to find ETC. Then, tap on the key to its right to toggle it on.
 12. When you go back to the home screen you will find ETC activated in the list of crypto assets. When you go back to settings, you will see that you have two wallets and that you can navigate between them.
 
---
+---
 
 **Thank you for reading this Ethereum Classic tutorial!**
 
