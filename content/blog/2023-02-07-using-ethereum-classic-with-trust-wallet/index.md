@@ -79,7 +79,7 @@ To send ETC, follow these instructions:
 
 To just check you balance on Trust Wallet, you may see that on the home screen. If you wish to check your balance and transaction history for ETC, then tap on the ETC asset on the Home screen.
 
-![Ckecm balance and transaction history.](./6.png)
+![Ckeck balance and transaction history.](./6.png)
 
 On the next screen you will see the balance at the top and the list of transactions bellow. You may scroll down through the transaction history to see all transactions for that address.
 
