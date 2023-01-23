@@ -76,13 +76,13 @@ Erigon for ETC will be a node server and client that will be compliant with all 
 
 Erigon is a fork of Go-Ethereum, the most popular software client of the Ethereum network. 
 
-It is a project by a team called “LedgerWatch” and its goal is to make nodes faster to synchronize and to reduce the on disk storage size.
+It is a project by a team with the [same name](https://twitter.com/ErigonEth) and its goal is to make nodes faster to synchronize and to reduce the on disk storage size.
 
 The strategy they are following is to optimize many processes of how the node operates, but the main focus is on changing the synchronization method and modifying the data structure.
 
 ## Erigon Unique Features
 
-The synchronization method they use is called staging. 
+The synchronization method they use is called [staging](https://erigon.substack.com/p/staged-sync-and-short-history-of). 
 
 The method consists of, instead of downloading and verifying each block as they are retrieved from other peers, Erigon first downloads the whole chain and separately processes the verification function offline locally.
 
