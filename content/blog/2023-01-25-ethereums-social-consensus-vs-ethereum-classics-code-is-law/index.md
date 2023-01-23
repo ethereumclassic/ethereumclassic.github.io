@@ -55,7 +55,7 @@ And this is where they are confused. Proof of work is purposely costly and unsca
 
 Another deep misunderstanding held by Social Consensus supporters is that they believe that proof of work is centralized through mining pools and ASIC computing. This kind of thinking is incomprehensible at this point because after 14 years of operation of Bitcoin, and 7 years of Ethereum as a proof of work chain until the migration to proof of stake, neither chain has ever been centralized or captured by mining pools, mining firms, ASIC producers, or any other kind of agent.
 
-To the contrary, proof of stake, with its Social Consensus philosophy, was captured [from the start](https://www.mevwatch.info/) when Ethereum migrated to that system as more than 70% of their blocks are censored by government agencies due to international sanctions policies.
+To the contrary, proof of stake, with its Social Consensus philosophy, was captured [from the start](https://www.mevwatch.info/) when Ethereum migrated to that system as more than 70% of its blocks are censored on behalf of government agencies due to international sanctions policies.
 
 One of the strongest (and most erroneous) arguments in Social Consensus philosophy is that blockchains are technological and social designs where their safety is sourced from cryptography, economics, and social agreement. This leaves out the most important invention of Bitcoin, and the only reason why the whole industry actually exists: Nakamoto Consensus.
 
