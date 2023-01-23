@@ -53,7 +53,7 @@ Social Consensus has nearly zero marginal cost and risk. Proof of work requires 
 
 And this is where they are confused. Proof of work is purposely costly and unscalable computationally precisely to guarantee the benefits of decentralization, which is correctly measured by its social scalability: Anyone in the world may use a Code Is Law blockchain. Only a subset of the world may use Social Consensus networks.
 
-Another deep misunderstanding of Social Consensus supporters is that they believe that proof of work is centralized through mining pools and ASIC computing. This kind of thinking is incomprehensible at this point because after 14 years of operation of Bitcoin, and 7 years of Ethereum as a proof of work chain until the migration to proof of stake, both chains have never been centralized or captured by mining pools, mining firms, ASIC producers, or any other kind of agent.
+Another deep misunderstanding held by Social Consensus supporters is that they believe that proof of work is centralized through mining pools and ASIC computing. This kind of thinking is incomprehensible at this point because after 14 years of operation of Bitcoin, and 7 years of Ethereum as a proof of work chain until the migration to proof of stake, neither chain has ever been centralized or captured by mining pools, mining firms, ASIC producers, or any other kind of agent.
 
 To the contrary, proof of stake, with its Social Consensus philosophy, was captured [from the start](https://www.mevwatch.info/) when Ethereum migrated to that system as more than 70% of their blocks are censored by government agencies due to international sanctions policies.
 
