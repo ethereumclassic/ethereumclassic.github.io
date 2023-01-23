@@ -39,7 +39,7 @@ This truly weak decision making process of Social Consensus and proof of stake s
 
 As Social Consensus has these principles as its core beliefs, blockchains are built and used only for automation and scalability. Just as computers and software programs in traditional centralized systems, for them, blockchains are just mere practical tools.
 
-This focus on humans as sources of safety makes Social Consensus proponents believe that both proof of stake and proof of work can ultimately be overpowered by state actors indifferently. For them, both systems are equally vulnerable, therefore whether they have human intervention as an embedded design feature is irrelevant.
+This focus on humans as sources of safety makes Social Consensus proponents believe that proof of stake and proof of work can each ultimately be overpowered by state actors indifferently. For them, both systems are equally vulnerable, therefore whether they have human intervention as an embedded design feature is irrelevant.
 
 Again, Social Consensus emphasizes that communities are good at consensus. 
 
