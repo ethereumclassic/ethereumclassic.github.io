@@ -24,7 +24,7 @@ We will write "Social Consensus" and "Code Is Law" with capital case when used a
 
 ## Ethereum's Social Consensus
 
-The terminology used by the Ethereum Foundation, ETH ecosystem, and community has varied with time. In different occasions their set of principles has been referred to as "weak subjectivity", "social slashing", "social information", or "people: the last line of defense". However, the latest name used with more frequency to describe their views has been "Social Consensus", so we are going to use this term to explain their general philosophical position.
+The terminology used by the Ethereum Foundation, ETH ecosystem, and community has varied with time. On different occasions, their set of principles has been referred to as "weak subjectivity", "social slashing", "social information", or "people: the last line of defense". However, the latest name used with more frequency to describe their views has been "Social Consensus", so we are going to use this term to explain their general philosophical position.
 
 It is worth noting, though, that the term "weak subjectivity" is a sort of acknowledgement that using people's subjective opinions and voting to run a cryptocurrency network is a sort of misdeed, since they called it "weak" to try to give some reassurance.
 
