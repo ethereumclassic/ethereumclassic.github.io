@@ -14,7 +14,7 @@ linkImage: ./etc-tw-banner.png
 
 ---
 
-In this video we explain:
+In this tutorial we explain:
 
 1. How to create your first wallet on Trust Wallet.
 2. How to activate ETC.
