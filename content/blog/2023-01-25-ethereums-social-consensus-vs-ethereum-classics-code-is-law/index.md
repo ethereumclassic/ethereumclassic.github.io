@@ -75,7 +75,7 @@ Social Consensus glorifies "the community", considers it the security of last re
 
 We would argue that a Social Consensus network is not even a blockchain. Blocks are defined as batches of data that have to be sealed with a proof of work hash that must cost block producers enormous amounts of capital and energy.  
 
-The ultimate purpose of Social Consensus is to protect the planet, to do no harm to the environment, and to heal the climate. The whole reason of existence of Bitcoin, Ethereum Classic and other true blockchains is human flourishing through trust minimization. 
+The ultimate purpose of Social Consensus is to protect the planet, to do no harm to the environment, and to heal the climate. The whole reason for the existence of Bitcoin, Ethereum Classic and other true blockchains is human flourishing through trust minimization. 
 
 Indeed, proof of work actually helps the environment as an externality much more than proof of stake because renewable energy is cheaper than fossil fuel electricity, and miners are constantly seeking to lower their costs so they naturally move to renewable energy sources, providing cash flow to that segment of the industry and promoting its growth. 
 
