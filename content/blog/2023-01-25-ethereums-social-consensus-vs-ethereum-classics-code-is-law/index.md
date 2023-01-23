@@ -101,7 +101,7 @@ Code Is law means unstoppability, no downtime, censorship resistance, and the th
 
 Code Is Law advocates believe in freedom from censorship, immutability, and that decentralized applications must run exactly as programmed.
 
-Immutability, decentralization, and complete neutrality, which means no intervention by supposedly virtuous humans, is the only way to guarantee zero discrimination of anyone. Code Is Law beliefs include pseudo anonymity,  decentralization, a rejection of decisions by voting, and a rejection of irregular state changes  to the network.
+Immutability, decentralization, and complete neutrality, which means no intervention by supposedly virtuous humans, is the only way to guarantee zero discrimination against anyone. Code Is Law beliefs include pseudo-anonymity,  decentralization, a rejection of decisions by voting, and a rejection of irregular state changes to the network.
 
 Code Is Law philosophy has the knowledge at its root that superficial things like funds recoveries, returns to legitimate owners, and other on-chain manual interventions are wrong, not right. And they are wrong because nothing guarantees that such human interventions will not be used against the capital, applications, and transactions of users.
 
