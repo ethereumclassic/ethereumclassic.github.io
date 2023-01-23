@@ -67,7 +67,7 @@ It was the enormous amount of electricity needed, the enormous amount of computa
 
 Social Consensus' lack of acknowledgment of this truth and its naive refocusing on human virtue as a security measure is the major flaw of that philosophy.
 
-This flaw makes them believe in several falsehoods, one of which is that a blockchain is a sort of "crypto-economic organism" or some sort of righteous organization of people who will always be good for the world.
+This flaw fosters a belief in several falsehoods, one of which is that a blockchain is a sort of "crypto-economic organism" or some sort of righteous organization of people who will always be good for the world.
 
 Social Consensus focuses on economics and virtue rather than physics and energy.
 
