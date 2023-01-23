@@ -24,7 +24,7 @@ As explained in previous classes, smart contracts were one of the main goals of 
 
 In late 2013, Mr. Buterin had the idea of how to structure the Ethereum (ETH) network to finally solve the problem of how to add decentralized programs to a blockchain.
 
-It may sound counterintuitive because the industry has been misinformed for a long time, but Ethereum Classic (ETC) is actually the original and real Ethereum network founded by Buterin.
+It may sound counterintuitive because the industry has been misinformed for a long time, but Ethereum Classic (ETC) is actually the original and real Ethereum network founded by Mr. Buterin.
 
 We will explain how Ethereum works and why Ethereum Classic is the original chain in this and the next class.
 
