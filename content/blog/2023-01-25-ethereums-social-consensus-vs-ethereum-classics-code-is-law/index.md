@@ -65,7 +65,7 @@ Cryptography, economics, and social agreement are just marginal tools and method
 
 It was the enormous amount of electricity needed, the enormous amount of computational power required, the difficulty adjustment, and the importation of this information from the real physical world into the system that was the revolutionary solution to the problem of consensus and safety in the network.
 
-Social Consensus' lack of acknowledgement of this truth and their naive refocusing on human virtue as a security measure is the major flaw of that philosophy.
+Social Consensus' lack of acknowledgment of this truth and its naive refocusing on human virtue as a security measure is the major flaw of that philosophy.
 
 This flaw makes them believe in several falsehoods, one of which is that a blockchain is a sort of "crypto-economic organism" or some sort of righteous organization of people who will always be good for the world.
 
