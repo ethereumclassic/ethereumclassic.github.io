@@ -37,7 +37,7 @@ This truly weak decision making process of Social Consensus and proof of stake s
 - That blockchain consensus is a human process, not a mechanical physical process.
 - That humans are pretty good at achieving consensus in the long run.
 
-As Social Consensus has these principles as their core beliefs, then blockchains are built and used only for automation and scalability purposes. Just as computers and software programs in traditional centralized systems, for them, blockchains are just mere practical tools.
+As Social Consensus has these principles as its core beliefs, blockchains are built and used only for automation and scalability. Just as computers and software programs in traditional centralized systems, for them, blockchains are just mere practical tools.
 
 This focus on humans as sources of safety makes Social Consensus proponents believe that both proof of stake and proof of work can ultimately be overpowered by state actors indifferently. For them, both systems are equally vulnerable, therefore whether they have human intervention as an embedded design feature is irrelevant.
 
