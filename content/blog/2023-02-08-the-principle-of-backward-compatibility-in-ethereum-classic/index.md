@@ -16,7 +16,7 @@ linkImage: ./etc-bc-banner.png
 
 Immutability in Ethereum Classic (ETC) means that accounts, balances and smart contracts cannot be modified except by holders of corresponding private keys by entering transactions according to protocol rules.
 
-Immutability and backward compatibility are like two sides of the same coin: Immutability is a feature in space and time, but looking forward, as it promises that things that are done today should not be modified by third parties in the future. Backward compatibility is also a feature in space and time, but looking backward, as it promises that trusted third parties should not break today what users have done in the past.
+Immutability and backward compatibility are like two sides of the same coin: Immutability is a feature in space and time, but looking forward, as it promises that things that are done today should not be modified by third parties in the future. Backward compatibility is also a feature in space and time, but looking backward, as it promises that third parties should not break today what users have done in the past.
 
 Space relates to place and geography. It means that anyone, anywhere in the world, should be able to have access permissionlessly and without censorship to their money, smart contracts, and dapps. Time means that accounts, balances, transactions, and dapps entered in the present or the past should be immutable and no changes of the protocol in the future should break them or stop them from working.
 
@@ -46,11 +46,11 @@ All these ideas usually revolve around creating versions of the blockchain compo
 
 Some of the ideas being debated are:
 
-**EVM versioning:** Identifying [a version of the EVM](https://ethereum-magicians.org/t/evm-instruction-set-versioning/2286) every time there is a change or upgrade so that accounts and smart contracts can use that version. Then, all the future versions of the EVM will be included in the protocol and node software clients so they can be perpetuated in time.
+**EVM versioning:** Setting and identifying [a version of the EVM](https://ethereum-magicians.org/t/evm-instruction-set-versioning/2286) every time there is a change or upgrade so that accounts and smart contracts can use that version. Then, all the future versions of the EVM will be included in the protocol and node software clients so they can be perpetuated in time.
 
-**Account versioning:** Creating [account versions](https://etherplan.com/2019/10/26/backward-compatibility-what-is-account-versioning-in-ethereum-classic/9440/) and formats for regular and smart contract accounts that are related to specific EVM versions so they can call that EVM version each time they need to be executed. As all future EVM versions will be hosted in the blockchain, then no accounts or smart contracts would break if these features were added.
+**Account versioning:** Creating [account versions](https://etherplan.com/2019/10/26/backward-compatibility-what-is-account-versioning-in-ethereum-classic/9440/) and formats for regular and smart contract accounts that are related to specific EVM versions so they can call that EVM version each time they need to be executed. As all future EVM versions will be hosted on the blockchain, then no accounts or smart contracts would break if these features were added.
 
-**EVM Object Format (EOF) upgrade:** The two ideas debated above, and others related to them, are being included in an upgrade, [called EOF](https://ethereumclassic.org/blog/2023-01-17-the-evm-object-format-eof-upgrade-explained), that will greatly improve backward compatibility in EVM standard blockchains such as ETC.
+**EVM Object Format (EOF) upgrade:** Similar ideas as the above, and others related to them, are being worked on and tested, and will likely be included in an upgrade, [called EOF](https://ethereumclassic.org/blog/2023-01-17-the-evm-object-format-eof-upgrade-explained), that will greatly improve backward compatibility in EVM standard blockchains such as ETC.
 
 Backward compatibility is a very high priority in ETC so any innovation or upgrades that enhance this guarantee will very likely be adopted by the ecosystem.
 
