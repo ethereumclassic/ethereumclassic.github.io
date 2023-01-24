@@ -20,6 +20,8 @@ Immutability and backward compatibility are like two sides of the same coin: Imm
 
 Space relates to place and geography. It means that anyone, anywhere in the world, should be able to have access permissionlessly and without censorship to their money, smart contracts, and dapps. Time means that accounts, balances, transactions, and dapps entered in the present or the past should be immutable and no changes of the protocol in the future should break them or stop them from working.
 
+![Backward compatibility.](./etc-bc-banner.png)
+
 Both immutability and backward compatibility are related to the principle of *Code Is Law* in ETC in that decentralized applications (dapps) should always work as intended and designed, forever.
 
 Thus, immutability and backward compatibility have the same underlying goal: **No change**.
