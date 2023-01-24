@@ -40,7 +40,7 @@ The use cases that need backward compatibility are decentralized applications, c
 
 Examples of these use cases may be long term publicly traded bonds and debt obligations; long term business contracts and cash flows; legal persons and partnerships represented as DAOs on the blockchain; property registries; bilateral agreements between nations; university, hospital, and other types of endowments; church funds; national treasuries with complex administrative rules; long standing charities; family trusts; inheritance contracts and wills; and even plain and simple multisignature wallets.
 
-Fortunately, there are several efforts in the Ethereum Virtual Machine (EVM) segment of the blockchain industry, where Ethereum Classic is a major player, that have as an objective of assuring long term and reliable backward compatibility. 
+Fortunately, there are several efforts in the Ethereum Virtual Machine (EVM) segment of the blockchain industry, where Ethereum Classic is a major player, that have as an objective ensuring long term and reliable backward compatibility. 
 
 All these ideas usually revolve around creating versions of the blockchain components to be upgraded and then making smart contracts, accounts, and dapps work with their corresponding versions, regardless of when they were deployed.
 
