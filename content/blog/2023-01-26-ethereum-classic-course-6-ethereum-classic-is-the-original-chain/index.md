@@ -79,7 +79,7 @@ For software programs to be sent to, stored in, and executed by the network and 
 
 Solidity is one of the programming languages that was created for writing programs for the Ethereum Virtual Machine. It remains to this day the most popular language used for building dapps (decentralized applications) on Ethereum and Ethereum Classic.
 
-It is syntactically similar to JavaScript, which is widely used by many developers around the world, but it is adapted so it may work on a decentralized peer-to-peer setting.
+It is syntactically similar to JavaScript which is widely used by many developers around the world but has been adapted so it may work in a decentralized peer-to-peer setting.
 
 ## 3. State Transition
 
