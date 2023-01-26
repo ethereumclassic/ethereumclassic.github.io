@@ -26,7 +26,7 @@ The reason for this is that ETH split from ETC on July 20 of 2016. The cause for
 
 What happened is that the community at the time decided to confiscate the money from the hacker to return it to the original owners. The intervention occurred on block 1,920,000.
 
-Approximately 95% of the community went with Ethereum and 5% stayed with Ethereum Classic.
+Approximately 95% of the Ethereum community went with the proposed irregular network change, but 5% continued with the unaltered Ethereum network, becoming known as Ethereum Classic.
 
 By executing the fork and the confiscation, Ethereum broke the original immutability ethos, so this is when Ethereum Classic decided to follow a Code Is Law ethos by continuing with the original untampered chain. 
 
