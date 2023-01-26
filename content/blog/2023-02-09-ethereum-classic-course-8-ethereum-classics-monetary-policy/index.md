@@ -22,7 +22,7 @@ However, as explained in previous classes, in the beginning Ethereum Classic and
 
 When Ethereum split from Ethereum Classic on July 20th of 2016, the ETC ecosystem decided to follow a Code Is Law ethics and this had to include a more constrained monetary policy to guarantee the soundness of the currency.
 
-This prompted the community to adopt a new but  permanent monetary policy, mimicking that of Bitcoin. The change was implemented on block 5,000,000 which occurred on December 11th of 2017.
+This prompted the community to adopt a new but permanent monetary policy, mimicking that of Bitcoin. The change was implemented on block 5,000,000 which occurred on December 11th of 2017.
 
 In this class we will explain the monetary policy of Ethereum Classic by describing its components, which include the following:
 
@@ -86,7 +86,7 @@ For example, as the ETC blocks are produced every 15 seconds on average, and the
 
 As Ethereum Classic produces blocks every 15 seconds, instead of every ten minutes as Bitcoin, there are instances in which more than one valid block is produced by miners at any given time. However, only one block per round may be permitted, so to prevent any disincentive that miners may have for producing extra blocks in vain, there is a payment for these stale blocks, also called “uncle blocks”.
 
-Since inception, there has been a rate of production of uncle blocks of more or less 5.4%, which approximately 270,000 uncle blocks per era.
+Since inception, there has been a rate of production of uncle blocks of more or less 5.4%, which is approximately 270,000 uncle blocks per era.
 
 Uncle blocks were paid 4.375 ETC/ETH in the first era, but that payment was lowered to 0.125 ETC when the monetary policy was changed, and will be discounted, together with the normal block rewards, by 20% every 5,000,000 blocks.
 
