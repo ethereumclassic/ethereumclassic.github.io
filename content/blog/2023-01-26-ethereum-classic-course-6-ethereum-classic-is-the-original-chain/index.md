@@ -22,7 +22,7 @@ As we explained in the previous class, Ethereum (ETH) used the base technology o
 
 It may sound counterintuitive because the industry has been misinformed for a long time, but Ethereum Classic (ETC) is actually the original and real Ethereum network founded by Vitalik Buterin.
 
-The reason for this is that ETH split from ETC on July 20 of 2016. The cause for the split was The DAO hack and subsequent reversal of funds.
+This is true because the network we know as ETH today resulted from a chain split that occurred on July 20 of 2016. The cause was a hard fork introduced to the Ethereum network that created an irregular network state allowing the reversal of transactions that had exploited a programming error in the smart contract called "TheDAO".
 
 What happened is that the community at the time decided to confiscate the money from the hacker to return it to the original owners. The intervention occurred on block 1,920,000.
 
