@@ -77,7 +77,7 @@ This assures a unified way of operating the network and executing smart contract
 
 For software programs to be sent to, stored in, and executed by the network and its EVM, there have to be programming languages that are compatible and adapted for a blockchain environment.
 
-Solidity was one of the programming languages that were created to write programs for Ethereum, and remains to this day the most popular one for building dapps on Ethereum and Ethereum Classic.
+Solidity is one of the programming languages that was created for writing programs for the Ethereum Virtual Machine. It remains to this day the most popular language used for building dapps (decentralized applications) on Ethereum and Ethereum Classic.
 
 It is syntactically similar to JavaScript, which is widely used by many developers around the world, but it is adapted so it may work on a decentralized peer-to-peer setting.
 
