@@ -130,7 +130,7 @@ The lower number of 199,000,000 reflects the current average production of uncle
 
 This is why it is generally stated that ETC has a supply cap of 210,700,000, but it is very likely that it will be lower than that.
 
-![ETC controlled supply chart: projected inflation and issuance.](./etc-supply-cap.png)
+![ETC controlled supply chart: projected inflation and issuance.](./etc-capped-supply.png)
 
 ## 8. ETC’s Stock to Flow Ratio
 
