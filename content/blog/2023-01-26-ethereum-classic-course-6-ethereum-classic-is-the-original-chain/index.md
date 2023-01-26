@@ -28,7 +28,7 @@ What happened is that the community at the time decided to confiscate the money 
 
 Approximately 95% of the Ethereum community went with the proposed irregular network change, but 5% continued with the unaltered Ethereum network, becoming known as Ethereum Classic.
 
-By executing the fork and the confiscation, Ethereum broke the original immutability ethos, so this is when Ethereum Classic decided to follow a Code Is Law ethos by continuing with the original untampered chain. 
+By executing the fork and the confiscation of funds, Ethereum broke its original immutability ethos. This is when Ethereum Classic decided to follow a "Code Is Law" ethos by continuing with the original untampered Ethereum chain. 
 
 ETC is the same uninterrupted history of transactions to this day, and will continue forever.
 
