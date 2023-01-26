@@ -54,7 +54,7 @@ As said above, Ethereum Classic uses the same base technology as Bitcoin but add
 
 The Ethereum Classic ledger stores accounts and balances as does the Bitcoin ledger, but it adds software programs known as smart contracts that become decentralized when sent to the network.
 
-To accomplish this it has 6 major components:
+To accomplish this Ethereum Classic has 6 major components:
 
 1. The Ethereum Virtual Machine (EVM)
 2. A programming language
