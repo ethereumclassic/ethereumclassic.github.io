@@ -75,7 +75,7 @@ This assures a unified way of operating the network and executing smart contract
 
 ## 2. A Programming Language
 
-For software programs to be sent and stored in the network, and executed by the EVM, there had to be some programming languages that would be compatible and adapted for a blockchain environment.
+For software programs to be sent to, stored in, and executed by the network and its EVM, there have to be programming languages that are compatible and adapted for a blockchain environment.
 
 Solidity was one of the programming languages that were created to write programs for Ethereum, and remains to this day the most popular one for building dapps on Ethereum and Ethereum Classic.
 
