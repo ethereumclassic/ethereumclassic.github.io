@@ -52,7 +52,7 @@ Today, ETC is the original chain with an uninterrupted history of transactions, 
 
 As said above, Ethereum Classic uses the same base technology as Bitcoin but added programmability.
 
-The Ethereum Classic ledger stores accounts and balances as Bitcoin, but adds software programs which become decentralized, also called smart contracts, when they are sent to the network.
+The Ethereum Classic ledger stores accounts and balances as does the Bitcoin ledger, but it adds software programs known as smart contracts that become decentralized when sent to the network.
 
 To accomplish this it has 6 major components:
 
