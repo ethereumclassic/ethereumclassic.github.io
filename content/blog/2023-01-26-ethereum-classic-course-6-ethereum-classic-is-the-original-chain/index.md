@@ -103,7 +103,7 @@ One of the unique features of Ethereum Classic is the ETChash mining algorithm.
 
 As Ethereum was using the ETHash algorithm, Ethereum Classic had to differentiate its mining format to defend itself from 51% attacks that came from the Ethereum computing base. This led to the creation of ETChash.
 
-ETChash is a modification of ETHash where one component, the DAG, which is a large file that must be used during the mining process, was reduced in size and its size growth was slowed to permit smaller GPU miners; with GPU card capacities that had lower memories, such as 3GB, 4GB, and 6GB; mine and stay mining in Ethereum Classic for a longer period of time.
+ETChash is a modification of ETHash wherein one component, a large file called the DAG that must be used during the mining process, was reduced in size and slowed in size growth. This permits miners using GPU cards with a lower amount of memory, such as 3GB, 4GB, or 6GB of VRAM, to mine and stay mining on Ethereum Classic for a longer period of time.
 
 ## 6. A Fixed Monetary Policy
 
