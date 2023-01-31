@@ -14,7 +14,7 @@ linkImage: ./etc-code-is-law-banner.png
 
 ---
 
-As we explained in our previous class, Ethereum Classic (ETC) decided to follow a Code Is Law ethos by continuing with the original untampered chain when Ethereum (ETH) split from the mainnet due to The DAO hack.
+As we explained in our previous class, Ethereum Classic (ETC) decided to follow a Code Is Law ethos by continuing with the original untampered chain when Ethereum (ETH) split from the mainnet due to TheDAO hack.
 
 ETH decided to tamper with the history of transactions to reverse the chain, but ETC is the same uninterrupted history of transactions to this day, and will continue forever.
 
