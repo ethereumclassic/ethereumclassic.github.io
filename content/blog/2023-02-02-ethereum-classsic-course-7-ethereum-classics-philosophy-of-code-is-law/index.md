@@ -32,7 +32,7 @@ Immutable and final means that they can never be changed again.
 
 These guarantees enable human action on a global scale without any restrictions or barriers and assure a level of fairness and basic rights never achieved before.
 
-The key to maintaining this secure environment is to keep it as neutral as possible, and the only way to maximize neutrality is to make it as rigid and strict as the laws of physics. Hence, the term Code Is Law. It is an analogy to physics.
+The key to maintaining this secure environment is to keep it as neutral as possible. The only way to maximize neutrality is to make it as rigid and strict as the laws of physics, hence the term Code Is Law. It is an analogy to physics.
 
 This last concept is important, because Code Is Law does not mean “the law of the jungle”. Humans will always have disputes and problems to solve, but Code Is Law relegates these issues to be resolved outside of the secure internal environment of the blockchain.
 
