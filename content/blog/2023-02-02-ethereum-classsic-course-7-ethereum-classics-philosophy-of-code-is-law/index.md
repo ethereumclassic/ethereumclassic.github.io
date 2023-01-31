@@ -85,7 +85,7 @@ Link: https://ethereumclassic.org/blog/2016-07-11-crypto-decentralist-manifesto
 
 “It’s this whole snake’s nest that could be avoided by refusing to be dragged into conflict resolution and quest for justice as related to smart contract execution. And it only requires sticking to principles of blockchain neutrality and immutability.
 
-So, code is law on the blockchain. All executions are final, all transactions are immutable. For everything else, there is a time-tested way to adjudicate legal disputes and carry out the administration of justice. It’s called legal system.”
+So, code is law on the blockchain. All executions are final, all transactions are immutable. For everything else, there is a time-tested way to adjudicate legal disputes and carry out the administration of justice. It’s called [the] legal system.”
 
 Link: https://ethereumclassic.org/blog/2016-09-09-code-is-law
 
