@@ -34,7 +34,7 @@ These guarantees enable human action on a global scale without any restrictions 
 
 The key to maintaining this secure environment is to keep it as neutral as possible. The only way to maximize neutrality is to make it as rigid and strict as the laws of physics, hence the term Code Is Law. It is an analogy to physics.
 
-This last concept is important, because Code Is Law does not mean “the law of the jungle”. Humans will always have disputes and problems to solve, but Code Is Law relegates these issues to be resolved outside of the secure internal environment of the blockchain.
+This last concept is important because Code Is Law does not mean “the law of the jungle”. Humans will always have disputes and problems to solve, but Code Is Law relegates these issues to be resolved outside of the secure internal environment of the blockchain.
 
 So, Code Is Law means safety, immutability, and finality of the blockchain. Any conflicts or disagreements must be resolved between the parties through the traditional legal systems.
 
