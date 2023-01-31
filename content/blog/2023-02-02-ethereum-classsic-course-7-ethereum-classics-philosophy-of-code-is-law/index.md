@@ -48,7 +48,7 @@ Smart contracts are decentralized software agents that replace trusted third par
 
 These three pillars combined guarantee that the network is truly decentralized and immutable, and these characteristics make possible and true the principle of Code Is Law.
 
-Code Is Law; the fact that all decentralized applications in the system will run as designed with no possibility of tampering, and that transactions will be posted and never reversed; guarantees the benefits of long term survivability, censorship resistance, and unstoppability of Ethereum Classic, and makes it uncompromisable and uncapturable.
+Code Is Law: all decentralized applications in the system will run as designed with no possibility of tampering and transactions will be posted and never reversed. It guarantees the benefits of long-term survivability, censorship resistance, and unstoppability of Ethereum Classic making it uncompromisable and uncapturable.
 
 ![Pillars and benefits of Code Is Law](./etc-pillars.png)
 
