@@ -35,10 +35,10 @@ To manage a decentralized system as ETC is a very counterintuitive endeavour as 
 
 Some of the resources that need to be sorted out in a decentralized manner are the canonical social media accounts for the project.
 
-After some trials and errors, and several controversies, the Ethereum Classic ecosystem has come up with a very innovative method for contributing and producing social media posts on the Twitter platform.
+After some trials and errors, and several [controversies](https://etccooperative.org/posts/2023-02-01-pledge-to-the-ethereum-classic-community-with-regard-to-the-eth_classic-twitter-account-en), the Ethereum Classic ecosystem has come up with a very innovative method for contributing and producing social media posts on the Twitter platform.
 
-The system consists of two accounts, @eth_classic
-and @etc_network, and it uses GitHub as the platform to propose, approve, and publish the tweets.
+The system consists of two accounts, [@eth_classic](https://twitter.com/eth_classic)
+and [@etc_network](https://twitter.com/ETC_Network), and it uses GitHub as the platform to propose, approve, and publish the tweets.
 
 In this post we explain how it works.
 
