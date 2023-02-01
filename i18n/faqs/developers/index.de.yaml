@@ -32,7 +32,7 @@ items:
         answer: |
           Ja. Wenn Sie Ihren eigenen Ethereum Classic-Knoten nicht synchronisieren möchten, gibt es eine Reihe von öffentlichen Endpunkten, die Sie kostenlos nutzen können.
 
-          Sehen Sie sich den Abschnitt [RPC Endpoints](/network/endpoints) an, sowie [ChainList.org](https://chainlist.org/en/chain/61).
+          Sehen Sie sich den Abschnitt [RPC Endpoints](/network/endpoints) an, sowie [ChainList.org](https://chainlist.org/chain/61).
       grants:
         question: Kann ich eine Finanzierung erhalten, um auf Ethereum Classic aufzubauen?
         answer: |

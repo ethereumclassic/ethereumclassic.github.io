@@ -32,7 +32,7 @@ items:
         answer: |
           نعم. إذا كنت لا تريد المزامنة ، فقم بتشغيل عقدة Ethereum Classic الخاصة بك ، فهناك عدد من نقاط النهاية العامة المتاحة مجانًا للاستخدام.
 
-          راجع قسم [RPC Endpoints] (/ network / endpoints) وكذلك [ChainList.org](https://chainlist.org/en/chain/61).
+          راجع قسم [RPC Endpoints] (/ network / endpoints) وكذلك [ChainList.org](https://chainlist.org/chain/61).
       grants:
         question: هل يمكنني الحصول على تمويل للبناء على Ethereum Classic؟
         answer: |
