@@ -140,7 +140,7 @@ The body of the tweet must be 240 characters or less and may include text, links
 
 Then, press the “Propose file” button.
 
-![](./12.png)
+![](./21.png)
 
 6. In the next screen, you need to press the “Create pull request” button to push the new tweet proposal to the admins of the ETC Twitter system.
 
