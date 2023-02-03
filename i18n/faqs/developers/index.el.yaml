@@ -1,6 +1,6 @@
 title: Συχνές ερωτήσεις για προγραμματιστές
 seo: Συχνές ερωτήσεις για όσους επιθυμούν να συνεισφέρουν ή να δημιουργήσουν εφαρμογές στο Ethereum Classic.
-info: 'Δεν μπορείτε να βρείτε απάντηση στην ερώτησή σας εδώ; Δοκιμάστε να ρωτήσετε στον διακομιστή της κοινότητας ETC [discord](https://ethereumclassic.org/discord). Συγκεκριμένα, μπορεί να σας ενδιαφέρει το κανάλι `#dev-general` του ETC Discord.'
+info: "Δεν μπορείτε να βρείτε απάντηση στην ερώτησή σας εδώ; Δοκιμάστε να ρωτήσετε στον διακομιστή της κοινότητας ETC [discord](https://ethereumclassic.org/discord). Συγκεκριμένα, μπορεί να σας ενδιαφέρει το κανάλι `#dev-general` του ETC Discord."
 description: Θέλετε να μάθετε πώς να δημιουργήσετε μια εφαρμογή ή ένα πρωτόκολλο πάνω στο Ethereum Classic; Αυτή η σελίδα είναι για εσάς.
 items:
   questions:
@@ -32,7 +32,7 @@ items:
         answer: |
           Ναι. Αν δεν θέλετε να συγχρονίσετε τον δικό σας κόμβο Ethereum Classic, υπάρχουν διαθέσιμα πολλά δημόσια τερματικά σημεία που είναι δωρεάν προς χρήση.
 
-          Ελέγξτε την ενότητα [RPC Endpoints](/network/endpoints), καθώς και το [ChainList.org](https://chainlist.org/en/chain/61).
+          Ελέγξτε την ενότητα [RPC Endpoints](/network/endpoints), καθώς και το [ChainList.org](https://chainlist.org/chain/61).
       grants:
         question: Μπορώ να βρω χρηματοδότηση για να χτίσω στο Ethereum Classic;
         answer: |
