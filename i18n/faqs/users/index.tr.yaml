@@ -16,7 +16,7 @@ items:
       metmask:
         question: ETC'yi MetaMask ile nasıl kullanabilirim?
         answer: |
-          Ethereum Classic'i MetaMask'a [CoinList.org](https://coinlist.org/en/chain/61) web sitesi üzerinden kolayca ekleyebilirsiniz. MetaMask'ı özel bir Ethereum Classic RPC düğümü kullanacak şekilde manuel olarak yapılandırmak istiyorsanız, [MetaMask](/guides/metamask) kılavuzuna göz atabilirsiniz.
+          Ethereum Classic'i MetaMask'a [CoinList.org](https://coinlist.org/chain/61) web sitesi üzerinden kolayca ekleyebilirsiniz. MetaMask'ı özel bir Ethereum Classic RPC düğümü kullanacak şekilde manuel olarak yapılandırmak istiyorsanız, [MetaMask](/guides/metamask) kılavuzuna göz atabilirsiniz.
       missingEtc:
         question: MetaMask ile bir donanım cüzdanı kullanırken neden ETC'mi göremiyorum?
         answer: |

@@ -1,6 +1,6 @@
 title: คำถามที่พบบ่อยสำหรับนักพัฒนาซอฟต์แวร์
 seo: คำถามที่พบบ่อยสำหรับผู้ที่ต้องการมีส่วนร่วมหรือสร้างแอปพลิเคชันบน Ethereum Classic
-info: 'ไม่พบคำตอบสำหรับคำถามของคุณที่นี่? ลองถามในเซิร์ฟเวอร์ ETC community [discord](https://ethereumclassic.org/discord) โดยเฉพาะอย่างยิ่ง คุณอาจพบช่องทาง `#dev-general` ที่น่าสนใจของ ETC Discord'
+info: "ไม่พบคำตอบสำหรับคำถามของคุณที่นี่? ลองถามในเซิร์ฟเวอร์ ETC community [discord](https://ethereumclassic.org/discord) โดยเฉพาะอย่างยิ่ง คุณอาจพบช่องทาง `#dev-general` ที่น่าสนใจของ ETC Discord"
 description: ต้องการเรียนรู้วิธีสร้างแอปพลิเคชันหรือโปรโตคอลบน Ethereum Classic หรือไม่? หน้านี้เหมาะสำหรับคุณ
 items:
   questions:
@@ -32,7 +32,7 @@ items:
         answer: |
           ใช่. หากคุณไม่ต้องการซิงค์ให้รันโหนด Ethereum Classic ของคุณเอง มีจุดสิ้นสุดสาธารณะจำนวนมากที่ใช้งานได้ฟรี
 
-          ดูส่วน [RPC Endpoints](/network/endpoints) และ [ChainList.org](https://chainlist.org/en/chain/61)
+          ดูส่วน [RPC Endpoints](/network/endpoints) และ [ChainList.org](https://chainlist.org/chain/61)
       grants:
         question: ฉันสามารถรับเงินทุนเพื่อสร้างบน Ethereum Classic ได้หรือไม่
         answer: |
