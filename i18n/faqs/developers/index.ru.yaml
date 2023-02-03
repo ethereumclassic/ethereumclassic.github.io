@@ -1,6 +1,6 @@
 title: Вопросы и ответы разработчиков
 seo: Часто задаваемые вопросы для тех, кто хочет внести свой вклад или создать приложения на Ethereum Classic.
-info: 'Не можете найти ответ на свой вопрос здесь? Попробуйте задать вопрос на сервере сообщества ETC [discord](https://ethereumclassic.org/discord). В частности, вас может заинтересовать канал ETC Discord `#dev-general`.'
+info: "Не можете найти ответ на свой вопрос здесь? Попробуйте задать вопрос на сервере сообщества ETC [discord](https://ethereumclassic.org/discord). В частности, вас может заинтересовать канал ETC Discord `#dev-general`."
 description: Хотите узнать, как создать приложение или протокол на базе Ethereum Classic? Эта страница для вас.
 items:
   questions:
@@ -32,7 +32,7 @@ items:
         answer: |
           Да. Если вы не хотите синхронизировать собственный узел Ethereum Classic, существует ряд общедоступных конечных точек, которые можно использовать бесплатно.
 
-          Посмотрите раздел [RPC Endpoints](/network/endpoints), а также [ChainList.org](https://chainlist.org/en/chain/61).
+          Посмотрите раздел [RPC Endpoints](/network/endpoints), а также [ChainList.org](https://chainlist.org/chain/61).
       grants:
         question: Могу ли я получить финансирование для строительства на Ethereum Classic?
         answer: |
