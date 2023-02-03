@@ -1,5 +1,5 @@
 ---
-title: "Using Ethereum Classic With Trust Wallet"
+title: "在信任钱包Trust Wallet中使用以太坊经典"
 date: 2023-02-07
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,127 +8,127 @@ linkImage: ./etc-tw-banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此观看或收听本期视频:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8rI_ADTDcGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-In this tutorial we explain:
+在本教程中，我们将解释:
 
-1. How to create your first wallet on Trust Wallet.
-2. How to activate ETC.
-3. How to receive ETC for the first time.
-4. How to send ETC.
-5. How to check your balance and transaction history.
-6. How to back up your wallet (again).
-7. How to create more wallets inside your Trust Wallet app.
+1. 如何创建你的第一个信任钱包。
+2. 如何激活ETC。
+3. 如何第一次收到ETC。
+4. 如何发送ETC。
+5. 如何查看您的余额和交易记录。
+6. 如何（再次）备份您的钱包。
+7. 如何在您的信任钱包应用程序中创建更多的钱包。
 
-![Using ETC with Trust Wallet.](./etc-tw-banner.png)
+![在信任钱包中使用以太坊经典](./etc-tw-banner.png)
 
-## Create Your First Wallet on Trust Wallet
+## 在信任钱包上创建第一个钱包
 
-Trust Wallet supports multiple wallets in the app with multiple crypto assets inside each wallet. To create your first wallet with Trust Wallet follow these instructions:
+信任钱包支持应用程序中的多个钱包，每个钱包中都有多个加密资产。要使用信任钱包创建第一个钱包，请遵循以下说明:
 
-![Create first wallet.](./1.png)
+![创建第一个钱包](./1.png)
 
-1. Download Trust Wallet, open it, and tap “Create a new wallet”.
-2. Then, read and check all the disclaimer boxes and press “Continue”.
-3. In the next screen, read the privacy policy and terms of service and check the box if you accept them.
-4. In the next step, for security reasons, set up a six digit passcode for your Trust Wallet app.
+1. 下载信任钱包，打开它，点击“创建一个新钱包”。
+2. 然后，阅读并勾选所有免责声明框，然后按“继续”。
+3. 在下一个屏幕中，阅读隐私政策和服务条款，并勾选是否接受它们。
+4. 下一步，出于安全考虑，为你的信任钱包应用程序设置一个六位数字的密码。
 
-![Back up passphrase.](./2.png)
+![备份密码短语](./2.png)
 
-5. In the next step, you will see a twelve word secret phrase which you must write down on paper and keep in a safe place.
-6. Write the twelve words down and keep them in a safe place as this is the only way to recover your wallet in case you lose it. Then, press “Continue”.
-7. In the next step, you need to re-enter the same twelve words in their correct order to prove you have written them down. Then, press “Continue”.
-8. In the next screen, you will see that your first wallet was created on Trust wallet.
+5. 在下一步中，你将看到一个12个单词的密码短语，您需要把它写在纸上并放在安全的地方。
+6. 把这12个字写下来，放在安全的地方，因为这是您丢失钱包时找回钱包的唯一方法。然后，按“继续”键。
+7. 下一步，您需要按正确的顺序重新输入这12个单词，以证明您已经把它们写下来了。然后，按“继续”键。
+8. 在下一个屏幕中，您将看到您的第一个钱包是在信任钱包上创建的。
 
-## How to Activate Ethereum Classic in a Trust Wallet
+## 如何在信任钱包中激活以太坊经典
 
-Trust Wallet shows you Bitcoin, Ethereum, BNB Beacon Chain, and BNB Smart Chain as their default crypto assets. To add Ethereum Classic, follow these steps:
+信任钱包向您显示比特币，以太坊，BNB信标链和BNB智能链作为默认加密资产。想添加以太坊经典，请遵循以下步骤:
 
-![Activate ETC.](./3.png)
+![激活ETC](./3.png)
 
-1. Click on the toggle icon on the top right of the app.
-2. In the next screen, you will see a list of crypto assets. Scroll down to find ETC. Then, tap on the key to its right to toggle it on.
-3. When you go back to the home screen you will find ETC activated in the list of crypto assets.
+1. 点击应用右上方的切换图标。
+2. 在下一个屏幕中，您将看到一个加密资产列表。向下滚动找到ETC。然后，轻按它右边的键将其打开。
+3. 当您回到主屏幕时，您会发现ETC在加密资产列表中被激活。
 
-## How to Receive ETC
+## 如何接收ETC
 
-Once you have ETC activated in your Trust Wallet you can start using it. To receive ETC for the first time into your Trust Wallet ETC address, follow these instructions:
+一旦您在信任钱包中激活了ETC，您就可以开始使用它了。想在您的信任钱包中第一次接收ETC，请遵循以下说明:
 
-![Receive ETC.](./4.png)
+![接收ETC](./4.png)
 
-1. Tap on the ETC asset on the home.
-2. In the next screen, you will see the “Send” and “Receive” buttons below the ETC icon. Tap on “Receive”
-3. In the next screen, you will see a QR code that you may show others to send you ETC, you may copy the actual address to send it to others, or you may use the “share” button to share your address by text or other means.
+1. 点击主页上的ETC资产。
+2. 在下一个界面中，您将看到ETC图标下面的“发送”和“接收”按钮。点击“接收”
+3. 在接下来的画面中，您会看到一个二维码，您可以展示给需要发送ETC给您的人，也可以复制实际地址发送给别人，或可以使用“分享”按钮通过文字或其他方式分享您的地址。
 
-## How to Send ETC
+## 如何发送ETC
 
-To send ETC, follow these instructions:
+如需发送ETC，请见以下教程。
 
-![Send ETC.](./5.png)
+![发送ETC](./5.png)
 
-1. Tap the “Send” button on the home screen.
-2. Select ETC as the crypto asset you wish to send.
-3. In the next screen, enter the address you are sending ETC to and the amount (for this example we chose “Max”). Then, press “Next”.
-4. In the last step, go over the transaction to check if it’s correct. If it’s correct, then press “Confirm”.
+1. 点击主界面的“发送”按钮。
+2. 选择ETC作为您希望发送的加密资产。
+3. 在下一个界面中，输入您要发送ETC的地址和金额(本例中我们选择“Max”)。然后，按“下一步”。
+4. 在最后一步，检查交易是否正确。如正确，请按“确认”。
 
-## Checking Your Balance and Transaction History
+## 检查您的余额和交易历史
 
-To just check you balance on Trust Wallet, you may see that on the home screen. If you wish to check your balance and transaction history for ETC, then tap on the ETC asset on the Home screen.
+如您想查看信任钱包上的余额，您可以在主界面上看到。如您想查看您的ETC余额和交易历史，请在主界面上轻按“ETC资产”。
 
-![Ckeck balance and transaction history.](./6.png)
+![检查余额和交易历史](./6.png)
 
-On the next screen you will see the balance at the top and the list of transactions bellow. You may scroll down through the transaction history to see all transactions for that address.
+在下一个界面上，您将看到顶部的余额和下面的交易列表。您可以向下滚动交易历史以查看该地址的所有交易。
 
-## Back Up Your Wallet (Again)
+## （再次）备份您的钱包
 
-If for any reason you need to back up your Trust Wallet again, then follow these instructions:
+如果出于任何原因，您需要再次备份您的信任钱包，请遵循以下说明:
 
-![Back up your wallet again!](./7.png)
+![再次备份您的钱包](./7.png)
 
-1. On the home screen, tap on the “Settings” button on the bottom right of the screen.
-2. In the next step, select “Wallets” at the top of the menu.
-3. In the next screen, you will see your wallet name with an information icon “i” to its right. Tap on the “i” icon.
-4. In the next step, you will see there is an option to “Show Secret Phrase”. Tap on it.
+1. 在主界面，轻按屏幕右下方的“设置”按钮。
+2. 在下一步中，选择菜单顶部的“钱包”。
+3. 在下一个界面中，您将看到您的钱包名称，其右侧有一个信息图标“i”。点击“i”图标。
+4. 在下一步中，您将看到有一个选项“显示密码短语”。点击它。
 
-![Remember to write it on paper.](./8.png)
+![记得把它记录在纸上](./8.png)
 
-5. In the next screen, read and check all the disclaimer boxes and press “Continue”.
-6. In the next step, for security reasons, you will need to enter your passcode so Trust Wallet may reveal your twelve word secret phrase.
-7. After entering your passcode, you will see the twelve words so you can back them up again.
+5. 在下一个屏幕中，阅读并勾选所有免责声明框，然后按“继续”。
+6. 在下一步中，出于安全原因，您需要输入密码，这样信任钱包就可以显示您的12个单词的密码短语。
+7. 输入密码后，您将看到12个单词，因此您可以再次备份它们。
 
-## How to Create More Wallets With ETC
+## 如何与ETC创建更多的钱包
 
-As stated before, Trust Wallet supports multiple wallets with multiple crypto assets in them. To create more wallets with ETC in them, follow these instructions:
+如前所述，信任钱包支持多个钱包，其中包含多个加密资产。要创建更多带有ETC的钱包，请遵循以下说明:
 
-![Create more wallets with ETC.](./9.png)
+![与ETC创建更多钱包](./9.png)
 
-1. On the home screen, tap on the “Setting” icon on the bottom right.
-2. In the next step, tap on the “Wallet” option in the menu.
-3. In the next screen, tap on the “+” symbol on the top right corner of the screen.
-4. In the next step, tap on “Create a new wallet”.
+1. 在主界面，轻按右下角的“设置”图标。
+2. 下一步，点击菜单中的“钱包”选项。
+3. 在下一个屏幕中，点击屏幕右上角的“+”符号。
+4. 在下一步，点击“创建一个新钱包”。
 
-![Back new secret passphrase.](./10.png)
+![备份新的密码短语](./10.png)
 
-5. Then, read and check all the disclaimer boxes and press “Continue”.
-6. In the next screen, you will see a new set of twelve words which will be the new secret passphrase for this new wallet.
-7. Back up your new secret passphrase for your new wallet by writing it on paper and putting it in a safe place.
-8. In the next step, re-enter the twelve words back into Trust Wallet as requested to confirm that you backed them up.
+5. 然后，阅读并勾选所有免责声明框，然后按“继续”。
+6. 在下一个屏幕中，您将看到一组新的12个单词，这将是这个新钱包的新秘密密码。
+7. 备份您新钱包的新密码，把它写在纸上，放在安全的地方。
+8. 在下一步中，按照请求将12个单词重新输入进信任钱包，以确认您已将其备份。
 
-![Add ETC.](./11.png)
+![添加ETC](./11.png)
 
-9. Then, Trust Wallet will take you automatically to the home screen of your new wallet. You will notice that your wallet has a different name than the original one.
-10. To activate ETC in this new wallet, click on the toggle icon on the top right of the app.
-11. In the next screen, you will see a list of crypto assets. Scroll down to find ETC. Then, tap on the key to its right to toggle it on.
-12. When you go back to the home screen you will find ETC activated in the list of crypto assets. When you go back to settings, you will see that you have two wallets and that you can navigate between them.
+9.  然后，信任钱包将自动带您到您的新钱包主界面。您会注意到您钱包的名字与原先不同。
+10. 要在这个新钱包中激活ETC，请单击应用程序右上方的切换图标。
+11. 在下一个屏幕中，您将看到一个加密资产列表。向下滚动找到ETC。然后，轻按它右边按键打开它。
+12. 当您回到主屏幕时，您会发现ETC在加密资产列表中被激活。当您回到设置，您会看到有两个钱包，您可以在它们之间探索。
 
 ---
 
-**Thank you for reading this Ethereum Classic tutorial!**
+**感谢您阅读这篇以太坊经典教程!**
 
-To start using Trust Wallet with ETC go to: https://trustwallet.com
+开始与ETC使用信任钱包: https://trustwallet.com
 
-To learn more about ETC go to: https://ethereumclassic.org
+了解更多关于ETC的信息，请访问: https://ethereumclassic.org
