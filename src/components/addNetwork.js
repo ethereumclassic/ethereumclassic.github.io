@@ -9,7 +9,7 @@ export default function AddNetworkButton() {
       iconLeft="link"
       button
       transparent
-      to="https://chainlist.org/en/chain/61"
+      to="https://chainlist.org/chain/61"
     >
       {ui.metaMask}
     </Link>
