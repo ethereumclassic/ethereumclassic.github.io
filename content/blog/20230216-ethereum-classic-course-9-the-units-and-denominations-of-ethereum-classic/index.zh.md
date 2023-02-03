@@ -41,11 +41,17 @@ In Bitcoin, the whole unit of the currency is called bitcoin or BTC, its symbol 
 For computing and machine purposes, this small unit is the one actually used as the whole unit. Consequently the currency is denominated as follows:
 
 1 is a Satoshi (one unit)
+
 10 a Finney (ten)
+
 100 a microBitcoin (one hundred)
+
 100,000 a milliBitcoin (one hundred thousand)
+
 1,000,000 a centiBitcoin (one million)
+
 10,000,000 a deciBitcoin (ten million)
+
 100,000,000 a BTC or Bitcoin (one hundred million)
 
 Multiplying 1 satoshi by ten gives one Finney, then a microBitcoin (one hundred), a milliBitcoin (one hundred thousand), a centiBitcoin (one million), a deciBitcoin (ten million), and finally a Bitcoin (one hundred million satoshis).
@@ -55,11 +61,17 @@ The name "Satoshi" was given to this atomic unit in honor of Satoshi Nakamoto, t
 For human readability, the units and denominations of Bitcoin are inverted in applications and wallets to show them as the normal whole unit of one BTC, and from there they are divisible by the quantities described above:
 
 1 is a Bitcoin (one)
+
 0.1 a deciBitcoin (ten)
+
 0.01 a centiBitcoin (one hundred)
+
 0.00001 a milliBitcoin (one hundred thousand)
+
 0.000001 a microBitcoin (one million)
+
 0.0000001 a Finney (ten million)
+
 0.00000001 a Satoshi (one hundred million)
 
 The above expressions are quantitatively identical as in the previous section, it is just a different way of expressing them.
