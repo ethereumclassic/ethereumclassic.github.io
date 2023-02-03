@@ -1,6 +1,6 @@
 title: FAQ per gli sviluppatori
 seo: Domande frequenti per chi vuole contribuire o costruire applicazioni su Ethereum Classic.
-info: 'Non riuscite a trovare una risposta alla vostra domanda qui? Provate a chiedere nel server della comunità ETC [discord](https://ethereumclassic.org/discord). In particolare, potrebbe essere interessante il canale `#dev-general` di ETC Discord.'
+info: "Non riuscite a trovare una risposta alla vostra domanda qui? Provate a chiedere nel server della comunità ETC [discord](https://ethereumclassic.org/discord). In particolare, potrebbe essere interessante il canale `#dev-general` di ETC Discord."
 description: Volete imparare a costruire un'applicazione o un protocollo su Ethereum Classic? Questa pagina è per voi.
 items:
   questions:
@@ -32,7 +32,7 @@ items:
         answer: |
           Sì. Se non si vuole eseguire la sincronizzazione del proprio nodo Ethereum Classic, sono disponibili diversi endpoint pubblici che possono essere utilizzati gratuitamente.
 
-          Consultate la sezione [RPC Endpoints] (/network/endpoints) e [ChainList.org](https://chainlist.org/en/chain/61).
+          Consultate la sezione [RPC Endpoints] (/network/endpoints) e [ChainList.org](https://chainlist.org/chain/61).
       grants:
         question: Posso ottenere finanziamenti per costruire su Ethereum Classic?
         answer: |
