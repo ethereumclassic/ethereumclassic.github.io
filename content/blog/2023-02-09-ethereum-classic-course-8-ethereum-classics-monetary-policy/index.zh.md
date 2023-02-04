@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Course: 8. Ethereum Classic's Monetary Policy"
+title: "以太坊经典课程:8.以太坊经典的货币政策"
 date: 2023-02-09
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,146 +8,144 @@ linkImage: ./etc-mp-banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**欢迎由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ugUsGjM3K6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-![ETC supply at the time of this writing.](./1.png)
+![撰写本文时的ETC供应](./1.png)
 
-When checking sources as CoinMarketCap, at the time of this writing, the supply of ETC was 139,080,468 coins and was growing at a rate of 2.56 coins per block.
+在CoinMarketCap核实来源时，在撰写本文时，ETC的供应量为139,080,468个硬币，并以每个区块2.56个硬币的速度增长。
 
-However, as explained in previous classes, in the beginning Ethereum Classic and Ethereum were one blockchain and the monetary policy consisted of perpetually issuing 5 ETC/ETH per block to pay miners for their work.
+然而，正如在前面的课程中所解释的那样，在一开始，以太坊经典和以太坊是一个区块链，货币政策包括永久地在每个区块发行5个ETC/ETH来支付矿工的工作。
 
-When Ethereum split from Ethereum Classic on July 20th of 2016, the ETC ecosystem decided to follow a Code Is Law ethics and this had to include a more constrained monetary policy to guarantee the soundness of the currency.
+当以太坊在2016年7月20日从以太坊经典中分离出来时，ETC生态系统决定遵循“代码即法律”道德，这必须包括更严格的货币政策，以保证货币的稳健。
 
-This prompted the community to adopt a new but permanent monetary policy, mimicking that of Bitcoin. The change was implemented on block 5,000,000 which occurred on December 11th of 2017.
+这促使社区采取了一种新的但永久性的货币政策，模仿比特币。这一变化是在2017年12月11日发生的5,000,000区块上实施的。
 
-In this class we will explain the monetary policy of Ethereum Classic by describing its components, which include the following:
+在本节课中，我们将通过描述以太坊经典的组成部分来解释其货币政策，其中包括以下内容:
 
-1. The pre-mine
-2. Eras
-3. Block rewards
-4. Uncle blocks
+1. 预挖矿（Pre-mine)
+2. 时代
+3. 区块奖励
+4. 叔块
 5. The fifthening
-6. Inflation rate
-7. Supply cap
-8. Stock-to-flow ratio
+6. 通货膨胀率
+7. 供应限制
+8. 库存与流动比率
 
-We will refer to the cryptocurrency of the original unified chain as ETC/ETH, and as ETC or ETH when mentioning them separately after the Ethereum split. 
+我们将原统一链的加密货币称为ETC/ETH，以太坊分裂后分别提及ETC或ETH。 
 
-## 1. The Pre-Mine
+## 1. 预挖矿
 
-![The ETC/ETH pre-mine was 72,009,990.](./2.png)
+![ETC/ETH预挖矿量为72,009,990](./2.png)
 
-In early 2014, Vitalik Buterin and his founding team did a presale, also called “pre-mine”, of ETC/ETH to finance the initial development of Ethereum for approximately 18 months. 
+2014年初，Vitalik Buterin和他的创始团队对ETC/ETH进行了预售，也称为“预挖矿”，为以太坊的初始开发提供了大约18个月的资金。
 
-This resulted in the eventual issuance; on the genesis block, before any mining ever took place, hence “pre-mine”; of 60,009,990 ETC/ETH, which were allocated in July of 2015 to the initial supporters who invested in the pre-sale.
+这导致了最终的发行;在起源区块，在任何采矿发生之前，因此称为“pre-mine”;60,009,990 ETC/ETH，于2015年7月分配给投资预售的最初支持者。
 
-To this, the founding team allocated to themselves and the Ethereum Foundation another 12,000,000 ETC/ETH.
+为此，创始团队为自己和以太坊基金会再分配了1200万ETC/ETH。
 
-So, this brought the total pre-mine issuance of ETC/ETH to 72,009,990, and this forms part of the current supply of ETC and ETH in their respective networks.
+## 2. 时代
 
-## 2. Eras
+![每个时代持续500万个区块](./3.png)
 
-![Each era lasts 5,000,000 blocks.](./3.png)
+如前所述，从500万区块开始，ETC将其无限供应的货币政策改变为比特币的上限供应模式。
 
-As mentioned before, starting on block 5,000,000, ETC changed its monetary policy of unlimited supply to a capped supply model as Bitcoin’s.
+接下来的计划是，每500万个区块，或28个月，ETC将每个区块的付款折价20%给矿工。这样，它就类似于比特币的时间表，即每48个月向矿工支付50%的折扣。
 
-The schedule followed was that every 5,000,000 blocks, or 28 months, ETC would discount by 20% the payment per block to miners. In this way, it would resemble Bitcoin’s schedule, which discounts the payment to miners by 50%, but every 48 months.
+这意味着，在每个时代，矿工的工资将减少20%，如下所示:
 
-This means that in every era, miners would get paid 20% less as follows:
+- 时代1，从区块1到5,000,000:5等
+- 时代2，从区块5,000,001到10,000,000:4 ETC
+- 时代3，从区块10,000,001到15,000,000:3.20 ETC
+- 时代4，从区块15,000,001到20,000,000:2.56 ETC(当前时代)…
 
-- Era 1, from block 1 to 5,000,000: 5 ETC
-- Era 2, from block 5,000,001 to 10,000,000: 4 ETC
-- Era 3, from block 10,000,001 to 15,000,000: 3.20 ETC
-- Era 4, from block 15,000,001 to 20,000,000: 2.56 ETC (current era)...
+.．.以此类推，直到大约在2140年，区块奖励将完全减少。
 
-...and so on until block rewards will diminish completely by approximately the year 2140.
+## 3. 区块奖励
 
-## 3. Block Rewards
+![区块奖励从5开始，并在此基础上打折](./4.png)
 
-![Block rewards started at 5 and are discounted from there.](./4.png)
+区块奖励是一种公平发行货币的方法，也是一种通过生产区块来补偿矿工以确保网络安全的方法。
 
-Block rewards are the method of issuing the money fairly and of compensating miners to secure the network by producing blocks.
+它被描述为“公平”，因为这些币被发行并支付给实际为网络执行工作的个人和实体。矿工保护网络，因为他们的工作给任何不良行为者篡改区块链带来了巨大的成本。
 
-It is described as “fair” because the coins are being issued and paid to people and entities who actually perform work for the network. Miners secure the network because their work imposes an enormous cost for any bad actors to tamper with the blockchain.
+此外，这种货币只有在完成重大工作后才发行，这使得它成为可靠的货币，因为它的成本和稀缺令人难以忘怀。
 
-Additionally, the fact that the currency is issued only after performing significant work makes it sound money as it is unforgeably costly and scarce.
+区块频率和区块奖励是货币政策的关键组成部分，因为它们决定了发行的时间，从而决定了通货膨胀率和库存流量比。
 
-Block frequency and block rewards are the key components of the monetary policy because they determine the timing of the issuance, thus inflation rate and stock-to-flow ratio.
+例如，ETC区块平均每15秒产生一次，当前的区块奖励为2.56 ETC，那么，在这个时代，货币的发行速度为每年5382144次。而且，通货膨胀率将每28个月降低20%。
 
-For example, as the ETC blocks are produced every 15 seconds on average, and the current block rewards are 2.56 ETC, then, in this era, the rate of currency issuance is 5,382,144 per year. And, this rate of inflation will be reduced by 20% every 28 months.
+## 4. 叔块
 
-## 4. Uncle Blocks
+![平均每个时代有27万个叔块](./5.png)
 
-![There are, on average, 270,000 uncle blocks per era.](./5.png)
+以太坊经典每15秒产生一个区块，而不是比特币每10分钟产生一个区块，在任何给定时间都有矿工产生多个有效区块的实例。然而，每轮可能只允许一个区块，因此为了防止矿工徒劳地生产额外的区块，对这些陈旧的区块有一种支付，也称为“叔块”。
 
-As Ethereum Classic produces blocks every 15 seconds, instead of every ten minutes as Bitcoin, there are instances in which more than one valid block is produced by miners at any given time. However, only one block per round may be permitted, so to prevent any disincentive that miners may have for producing extra blocks in vain, there is a payment for these stale blocks, also called “uncle blocks”.
+自成立以来，叔块的生产速度大约为5.4%，每时代大约有27万个叔块。
 
-Since inception, there has been a rate of production of uncle blocks of more or less 5.4%, which is approximately 270,000 uncle blocks per era.
-
-Uncle blocks were paid 4.375 ETC/ETH in the first era, but that payment was lowered to 0.125 ETC when the monetary policy was changed, and will be discounted, together with the normal block rewards, by 20% every 5,000,000 blocks.
+叔块在第一个时代支付4.375 ETC/ETH，但随着货币政策的变化，该支付降低到0.125 ETC，并将与正常的区块奖励一起，每500万个区块折扣20%。
 
 ## 5. The Fifthening
 
-![Fifth-ening means a discount of 20% or 1/5.](./6.png)
+![Fifth-ening是指八折或五分之一的折扣](./6.png)
 
-The event of the fifthening is celebrated by the ETC community every 28 months or 5,000,000 blocks and it happens on the date when the block of the next era is mined. 
+ETC社区每28个月或500万个区块庆祝第5个时代的事件，它发生在下一个时代的区块被开采的日期。
 
-For example, we are in the 4th era and the 5th era will start on block 20,000,001, which will happen sometime in August of 2024.
+例如，我们正处于第4个时代，第5个时代将从区块20,000,001开始，这将在2024年8月的某个时候发生。
 
-It is called the fifthening (fifth-ening) because the discount of 20% in each era is equivalent to one fifth of the block rewards and annual issuance.
+之所以称为the fifthening(五分之一)，是因为每个时代20%的折扣相当于五分之一的区块奖励和年度发行。
 
-The importance of the fifthening is that the annual supply rate is lowered, making ETC sounder money as time passes by. This soundness is reflected in both a lower annualized inflation rate and a higher stock-to-flow ratio.
+The fifthening的重要性在于，随着时间的推移，年供应率降低了，ETC的货币变得更加稳健。这种稳健性反映在较低的年化通胀率和较高的库存流量比上。
 
-## 6. Inflation Rate
+## 6. 通货膨胀率
 
-![ETC projected inflation rate by era compared with other assets.](./7.png)
+![ETC与其他资产相比，预测了不同时代的通货膨胀率](./7.png)
 
-What is called the inflation rate is the rate of production or issuance of new currency per year. 
+所谓的通货膨胀率是每年生产或发行新货币的速度。
 
-When Ethereum Classic and Ethereum were one chain the annual rate of coin production was very high, at more than 14%, because the base was small and issuance was still high.
+当以太坊经典和以太坊是一条链时，每年的代币产量非常高，超过14%。因为基数很小，发行量仍然很高。
 
-However, as the ETC eras have been progressing, its inflation rate has been drastically reduced. 
+然而，随着ETC时代的发展，它的通货膨胀率已经大大降低。
 
-The production rate in this current era 4 is 3.91%, which is similar to the production rate of silver.
+当前时代4的产量为3.91%，与银的产量相似。
 
-By the year 2032, in era 7, the issuance rate of ETC will be similar to gold’s.
+到2032年，即第七时代，ETC的发行率将与黄金的发行率相似。
 
-And, by the year 2036, in era 9, it will be close or lower than the real estate annual production rate.
+到第9时代的2036年，将接近或低于房地产的年生产速度。
 
-![ETC inflation rate table by era.](./etc-inflation.png)
+![按时代分列的ETC通货膨胀率表](./etc-inflation.png)
 
-## 7. Supply Cap
+## 7. 供应限制
 
-![ETC supply cap will be between 199,000,000 and 210,700,000.](./9.png)
+![ETC供应上限将在199,000,000至210,700,000之间](./9.png)
 
-Given the eras of ETC every 5,000,000 blocks, the block rewards and frequencies mentioned above, the discounts per era, the average uncle block rate of 270,000 per era, and the fact that it is divisible by 0.000000000000000001 (1e-18), then the ETC maximum supply in all of its history will be in a range of between 199,000,000 to 210,700,000 ETC.
+考虑到ETC每5,000,000个区块的时代，上面提到的区块奖励和频率，每个时代的折扣，每个时代的平均叔块率为270,000，以及它能被0.000000000000000001 (1e-18)除的事实，那么ETC历史上的最大供应将在199,000,000到210,700,000 ETC之间。
 
-The lower number of 199,000,000 reflects the current average production of uncle blocks of 5.4%, but in the unlikely scenario that uncle blocks are produced 100% of the time, then the maximum supply would be 210,700,000.
+199,000,000这个较低的数字反映了目前叔块的平均产量为5.4%，但在叔块不太可能100%生产的的情况下，那么最大供应将是210700,000。
 
-This is why it is generally stated that ETC has a supply cap of 210,700,000, but it is very likely that it will be lower than that.
+这就是为什么一般认为ETC的供应上限为210,700,000，但很可能会低于这一数字。
 
-![ETC controlled supply chart: projected inflation and issuance.](./etc-capped-supply.png)
+![ETC控制供应图:预计通货膨胀和发行](./etc-capped-supply.png)
 
-## 8. ETC’s Stock to Flow Ratio
+## 8. ETC的库存与流动比率
 
-![ETC projected stock-to-flow ratio by era compared to other assets.](./11.png)
+![与其他资产相比，ETC预计按时代划分的库存与流动比率。](./11.png)
 
-The stock-to-flow (S2F) ratio is a measure that is used to predict the value of commodities in the market, and is a very similar concept as inflation, but it is expressed as the current stock of a commodity divided by the new annual production or issuance.
+库存流动比(S2F)是一种用来预测市场上商品价值的指标，与通货膨胀的概念非常相似，但它表示为一种商品的当前库存除以新的年度生产或发行。
 
-For example, as there are 185,000 tonnes of gold in the world, and there are approximately 3,000 additional tonnes extracted every year, then the stock-to-flow ratio of gold is 61.67 (185,000 / 3,000 = 61.67) which corresponds to a 1.62% inflation rate. The higher the S2F ratio is, the more valuable the commodity should be.
+例如，世界上有185,000吨黄金，每年大约有3,000吨额外的黄金被提取，那么黄金的库存与流动比率为61.67(185,000 / 3,000 = 61.67)，对应的通货膨胀率为1.62%。S2F比值越高，商品越有价值。
 
-As we have fairly accurate projections of the stock and issuance of ETC at all times, because its monetary policy is transparent and predictable, we can calculate what will be its stock-to-flow ratio in the future.
+由于我们在任何时候都对ETC的存量和发行量有相当准确的预测，因为它的货币政策是透明的和可预测的，所以我们可以计算出它未来的存量与流量比是多少。
 
-By 2025, the S2F ratio of ETC will be similar to that of silver at 24.91; by 2032, it will be similar to gold’s at 59.98; and, by 2036, it will be similar or higher than that of real estate at 100.40
+到2025年，ETC的S2F比将与银的24.91相似;到2032年，它将与黄金的59.98相近;而且，到2036年，它将与房地产的100.40相似或更高。
 
-![ETC Stock to Flow Ratio table by era.](./etc-stock-to-flow-ratio.png)
+![ETC按时代划分的库存流量比表](./etc-stock-to-flow-ratio.png)
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC相关内容，请访问: https://ethereumclassic.org
