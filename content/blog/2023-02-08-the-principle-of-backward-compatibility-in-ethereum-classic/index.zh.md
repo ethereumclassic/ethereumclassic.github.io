@@ -1,5 +1,5 @@
 ---
-title: "The Principle of Backward Compatibility in Ethereum Classic"
+title: "以太坊经典中的向后兼容原则"
 date: 2023-02-08
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,54 +8,54 @@ linkImage: ./etc-bc-banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**欢迎由此观看或收听本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3G0taRQRBYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-Immutability in Ethereum Classic (ETC) means that accounts, balances and smart contracts cannot be modified except by holders of corresponding private keys by entering transactions according to protocol rules.
+以太坊经典(ETC)中的不可篡改性意味着帐户、余额和智能合约不能被修改，除非由相应私钥的持有者根据协议规则输入交易。
 
-Immutability and backward compatibility are like two sides of the same coin: Immutability is a feature in space and time, but looking forward, as it promises that things that are done today should not be modified by third parties in the future. Backward compatibility is also a feature in space and time, but looking backward, as it promises that third parties should not break today what users have done in the past.
+不可变性和向后兼容性就像一枚硬币的两面:不可变性是空间和时间上的特征，但展望未来，它承诺今天所做的事情在未来不应该被第三方修改。向后兼容性也是空间和时间上的一个特性，但向后看，它保证第三方不应该破坏今天用户过去所做的事情。
 
-Space relates to place and geography. It means that anyone, anywhere in the world, should be able to have access permissionlessly and without censorship to their money, smart contracts, and dapps. Time means that accounts, balances, transactions, and dapps entered in the present or the past should be immutable and no changes of the protocol in the future should break them or stop them from working.
+空间与地点和地理有关。这意味着世界上任何地方的任何人都应该能够在不受许可和审查的情况下访问他们的货币、智能合约和dapp。时间意味着现在或过去输入的账户、余额、交易和dapp应该是不可变的，未来协议的任何更改都不应该破坏它们或阻止它们工作。
 
-![Backward compatibility.](./etc-bc-banner.png)
+![向后兼容](./etc-bc-banner.png)
 
-Both immutability and backward compatibility are related to the principle of *Code Is Law* in ETC in that decentralized applications (dapps) should always work as intended and designed, forever.
+不可变性和向后兼容性都与ETC中的“代码即法律”原则有关，即去中心化应用程序(dapps)应该永远按照预期和设计工作。
 
-Thus, immutability and backward compatibility have the same underlying goal: **No change**.
+因此，不可变性和向后兼容性具有相同的潜在目标: **不改变**.
 
-No change means reduced chances of manipulation and also guarantees that the flow of economic transactions between people and businesses will continue uninterrupted. All this contributes to the reliability of the system on a global scale for a long time.
+不改变意味着篡改的可能性降低，也保证了人和企业之间的经济交易流动将不间断地继续下去。所有这些都有助于在全球范围内长期保持系统的可靠性。
 
-The problem that the principle of backward compatibility addresses specifically is that when making changes through hard forks, implementing upgrades and fixing things as time passes by, sometimes existing smart contracts break rendering them unusable.
+向后兼容原则具体解决的问题是，随着时间的推移，当通过硬分叉进行更改、实现升级和修复问题时，有时现有的智能合约会失效，导致它们无法使用。
 
-This is a very serious problem.
+这是一个非常严重的问题。
 
-Imagine applications, agreements, benefactors and beneficiaries depending on continuous streams of cash flows on a highly secure and decentralized system as Ethereum Classic, but when an upgrade is made, then the code powering such affairs breaks and stops working.
+想象一下，应用程序、协议、捐助者和受益人依赖于一个高度安全和去中心化的系统(如以太坊经典)上的持续现金流，但当进行升级时，支持这些事务的代码就会中断并停止工作。
 
-From a safety perspective, future upgrades that break backward compatibility are security holes as they may be used as stealth attack vectors, disguised as upgrades and bug fixes, but that really break things. This vulnerability reduces the finality of accounts, balances, transactions, and decentralized applications as the upgrades themselves may be leveraged by bad actors to change or stop things from working.
+从安全角度来看，未来破坏向后兼容性的升级是安全漏洞，因为它们可能被用作隐形攻击载体，伪装成升级和bug修复，但这确实会破坏事情。此漏洞降低了帐户、余额、交易和去中心化应用程序的终局性，因为不良行为者可能利用升级本身来改变或阻止工作。
 
-The use cases that need backward compatibility are decentralized applications, contracts, and agreements that should work for a long time. And "long time" here means decades or even centuries.
+需要向后兼容的用例是去中心化的应用程序、契约和协议，它们应该长期工作。“Long time”在这里的意思是几十年甚至几百年。
 
-Examples of these use cases may be long term publicly traded bonds and debt obligations; long term business contracts and cash flows; legal persons and partnerships represented as DAOs on the blockchain; property registries; bilateral agreements between nations; university, hospital, and other types of endowments; church funds; national treasuries with complex administrative rules; long standing charities; family trusts; inheritance contracts and wills; and even plain and simple multisignature wallets.
+这些用例的例子可能是长期公开交易的债券和债务;长期经营合同和现金流;在区块链上代表DAOs的法人和合伙企业;财产登记;国家间的双边协议;大学、医院和其他类型的捐赠基金;教会基金;行政规则复杂的国库;长期存在的慈善机构;家族信托基金;继承合同和遗嘱;甚至是简单的多重签名钱包。
 
-Fortunately, there are several efforts in the Ethereum Virtual Machine (EVM) segment of the blockchain industry, where Ethereum Classic is a major player, that have as an objective ensuring long term and reliable backward compatibility. 
+幸运的是，在区块链行业的以太坊虚拟机(EVM)部分，以太坊经典是一个主要的参与者，并努力确保长期和可靠的向后兼容性。
 
-All these ideas usually revolve around creating versions of the blockchain components to be upgraded and then making smart contracts, accounts, and dapps work with their corresponding versions, regardless of when they were deployed.
+所有这些想法通常都围绕着创建要升级的区块链组件版本，然后让智能合约、帐户和dapp与相应的版本一起工作，而不管它们是什么时候部署的。
 
-Some of the ideas being debated are:
+正在讨论的一些观点是:
 
-**EVM versioning:** Setting and identifying [a version of the EVM](https://ethereum-magicians.org/t/evm-instruction-set-versioning/2286) every time there is a change or upgrade so that accounts and smart contracts can use that version. Then, all the future versions of the EVM will be included in the protocol and node software clients so they can be perpetuated in time.
+**EVM版本控制:** 每次有更改或升级时设置和识别[EVM的版本](https://ethereum-magicians.org/t/evm-instruction-set-versioning/2286)，以便帐户和智能合约可以使用该版本。然后，EVM的所有未来版本都将包含在协议和节点软件客户端中，以便它们能够及时永久保存。
 
-**Account versioning:** Creating [account versions](https://etherplan.com/2019/10/26/backward-compatibility-what-is-account-versioning-in-ethereum-classic/9440/) and formats for regular and smart contract accounts that are related to specific EVM versions so they can call that EVM version each time they need to be executed. As all future EVM versions will be hosted on the blockchain, then no accounts or smart contracts would break if these features were added.
+**账户版本控制:** 为与特定EVM版本相关的常规和智能合约帐户创建[帐户版本](https://etherplan.com/2019/10/26/backward-compatibility-what-is-account-versioning-in-ethereum-classic/9440/)和格式，以便每次需要执行时都可以调用该EVM版本。由于所有未来的EVM版本都将托管在区块链上，因此如果添加了这些功能，就不会有帐户或智能合约崩溃的情况存在。
 
-**EVM Object Format (EOF) upgrade:** Similar ideas as the above, and others related to them, are being worked on and tested, and will likely be included in an upgrade, [called EOF](https://ethereumclassic.org/blog/2023-01-17-the-evm-object-format-eof-upgrade-explained), that will greatly improve backward compatibility in EVM standard blockchains such as ETC.
+**EVM对象格式(EOF)升级:** 与上述类似的想法，以及与之相关的其他想法，正在研究和测试中，并可能会包括在升级中，[称为EOF](https://ethereumclassic.org/blog/2023-01-17-the-evm-object-format-eof-upgrade-explained)。这将大大提高EVM标准区块链(如ETC)的向后兼容性。
 
-Backward compatibility is a very high priority in ETC so any innovation or upgrades that enhance this guarantee will very likely be adopted by the ecosystem.
+向后兼容性在ETC中是非常优先的，因此任何增强这一保证的创新或升级都很可能被生态系统所采用。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC内容，请访问： https://ethereumclassic.org
