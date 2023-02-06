@@ -111,7 +111,7 @@ As stated before, Trust Wallet supports multiple wallets with multiple crypto as
 3. In the next screen, tap on the “+” symbol on the top right corner of the screen.
 4. In the next step, tap on “Create a new wallet”.
 
-![Back new secret passphrase.](./10.png)
+![Back up new secret passphrase.](./10.png)
 
 5. Then, read and check all the disclaimer boxes and press “Continue”.
 6. In the next screen, you will see a new set of twelve words which will be the new secret passphrase for this new wallet.
