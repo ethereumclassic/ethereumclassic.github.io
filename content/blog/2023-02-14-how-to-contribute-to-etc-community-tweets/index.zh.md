@@ -1,5 +1,5 @@
 ---
-title: "How to Contribute to ETC: Community Tweets"
+title: "如何为ETC做贡献: 社区推文"
 date: 2023-02-14
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,28 +8,28 @@ linkImage: ./etc-tweets-banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-m01TAjZK7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-This is the third part of a series that will explain how to contribute to Ethereum Classic in a variety of ways. 
+这是该系列的第三部分，将解释如何以各种方式为以太坊经典做出贡献. 
 
-The videos and posts in the series will contain the title “How to Contribute to ETC:” with the following topic extensions: 
+该系列的视频和文章将包含“如何为ETC做贡献”的标题，并附带以下主题扩展: 
 
-1. The Improvement Proposal Process (ECIP)
-2. The Community Website
-3. Community Tweets
-4. Community Volunteering
-5. Mining
-6. Operating a Node
-7. Donating Money
-8. Building a Dapp
+1. 改进建议程序(ECIP)
+2. 社区网站
+3. 社区微博
+4. 社区志愿服务
+5. 矿业
+6. 操作节点
+7. 捐款
+8. 构建Dapp
 
-## What Are Community Tweets?
+## 什么是社区推文?
 
-![The ETC @eth_classic and @etc_network accounts on Twitter.](./etc-tweets-banner.png)
+![推特上的ETC @eth_classic和@etc_network账号](./etc-tweets-banner.png)
 
 To manage a decentralized system as ETC is a very counterintuitive endeavour as we, humans, are used to centralized organizations.
 
