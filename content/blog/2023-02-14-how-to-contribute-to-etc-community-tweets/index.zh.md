@@ -22,7 +22,7 @@ linkImage: ./etc-tweets-banner.png
 2. 社区网站
 3. 社区微博
 4. 社区志愿服务
-5. 矿业
+5. 挖矿业
 6. 操作节点
 7. 捐款
 8. 构建Dapp
@@ -31,30 +31,30 @@ linkImage: ./etc-tweets-banner.png
 
 ![推特上的ETC @eth_classic和@etc_network账号](./etc-tweets-banner.png)
 
-To manage a decentralized system as ETC is a very counterintuitive endeavour as we, humans, are used to centralized organizations.
+管理像ETC这样的去中心化系统是一种非常违反直觉的操作，因为我们人类习惯了中心化的组织。
 
-Some of the resources that need to be sorted out in a decentralized manner are the canonical social media accounts for the project.
+一些需要以分散的方式进行整理的资源正是社交媒体帐户。
 
-After some trials and errors, and several [controversies](https://etccooperative.org/posts/2023-02-01-pledge-to-the-ethereum-classic-community-with-regard-to-the-eth_classic-twitter-account-cn), the Ethereum Classic ecosystem has come up with a very innovative method for contributing and producing social media posts on the Twitter platform.
+经过一些尝试和错误，以及一些[争议](https://etccooperative.org/posts/2023-02-01-pledge-to-the-ethereum-classic-community-with-regard-to-the-eth_classic-twitter-account-cn)，以太坊经典生态系统提出了一种非常创新的方法，用于在推特平台上，鼓励大众贡献并发表社交媒体推文。
 
-The system consists of two accounts, [@eth_classic](https://twitter.com/eth_classic)
-and [@etc_network](https://twitter.com/ETC_Network), and it uses GitHub as the platform to propose, approve, and publish the tweets.
+系统由两个账号组成，[@eth_classic](https://twitter.com/eth_classic)
+和[@etc_network](https://twitter.com/ETC_Network)，它使用GitHub作为平台来提出、批准和发布推文。
 
-In this post we explain how it works.
+在这篇文章中我们将解释它是如何运作的。
 
-## Who Can Contribute to Community Tweets?
+## 谁可以为社区推文做贡献?
 
-Being an open source project, most people in the world may contribute to the Ethereum Classic community tweets.
+作为一个开源项目，世界上大多数人都可以为以太坊经典社区的推文做出贡献。
 
-As mentioned before, the process is located on a platform called GitHub and anyone who wishes to contribute must have an account there to propose their tweets.
+如前所述，这个过程位于一个名为GitHub的平台上，任何想要发表推文的人都必须在那里有一个账户。
 
-The ETC community Twitter accounts have administrators, so all proposed content units, images, and links will be analyzed and accepted based on how relevant they are for ETC, how they fit with its Code Is Law philosophy, and if they comply with the ethical guidelines.
+ETC社区的Twitter帐户有管理员，因此所有提议的内容单元、图像和链接都将根据它们与ETC的相关性、它们是否符合“代码即法律”哲学以及它们是否符合道德准则来分析和接受。
 
-## What Kind of Tweets Are Permitted?
+## 什么样的推文是允许发表的?
 
-The guidelines are different for each account. 
+每个账户的指导方针是不同的。
 
-The @eth_classic account is considered more well known and is intended to be more formal. In the readme file of this account, the instructions as to what is allowed to tweet are as follows:
+@eth_classic帐户被认为更广为人知，并且更正式。在这个账号的自述文件中，关于发布内容的说明如下:
 
 • Dignity: No obscenities, explicit language, racism, sexism, etc.
 • Neutrality: No attacking or promoting of non-ETC projects, no drama.
