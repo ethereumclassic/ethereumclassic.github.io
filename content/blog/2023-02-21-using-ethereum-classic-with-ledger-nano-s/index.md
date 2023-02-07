@@ -210,4 +210,6 @@ You are all set!
 
 **Thank you for reading this article!**
 
+To start using ETC with Ledger Nano S go to: https://www.ledger.com
+
 To learn more about ETC please go to: https://ethereumclassic.org
