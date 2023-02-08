@@ -78,7 +78,7 @@ Additionally, the fact that the currency is issued only after performing signifi
 
 Block frequency and block rewards are the key components of the monetary policy because they determine the timing of the issuance, thus inflation rate and stock-to-flow ratio.
 
-For example, as the ETC blocks are produced every 15 seconds on average, and the current block rewards are 2.56 ETC, then, in this era, the rate of currency issuance is 5,382,144 per year. And, this rate of inflation will be reduced by 20% every 28 months.
+For example, as the ETC blocks are produced every 15 seconds on average, and the current block rewards are 2.56 ETC, then, in this era, the rate of currency issuance is 5,382,144 per year. This rate of inflation will be reduced by 20% every 28 months.
 
 ## 4. Uncle Blocks
 
