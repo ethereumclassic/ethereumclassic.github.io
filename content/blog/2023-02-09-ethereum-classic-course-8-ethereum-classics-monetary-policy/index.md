@@ -108,7 +108,7 @@ The importance of the fifthening is that the annual supply rate is lowered, maki
 
 What is called the inflation rate is the rate of production or issuance of new currency per year. 
 
-When Ethereum Classic and Ethereum were one chain the annual rate of coin production was very high, at more than 14%, because the base was small and issuance was still high.
+When Ethereum Classic and Ethereum were one chain, the annual rate of coin production was very high, more than 14%, because the base was small and issuance was still high.
 
 However, as the ETC eras have been progressing, its inflation rate has been drastically reduced. 
 
