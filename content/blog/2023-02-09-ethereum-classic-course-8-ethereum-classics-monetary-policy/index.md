@@ -22,7 +22,7 @@ However, as explained in previous classes, in the beginning Ethereum Classic and
 
 When Ethereum split from Ethereum Classic on July 20th of 2016, the ETC ecosystem decided to follow a Code Is Law ethic which must include a more constrained monetary policy to guarantee the soundness of the currency.
 
-This prompted the community to adopt a new but permanent monetary policy, mimicking that of Bitcoin. The change was implemented on block 5,000,000 which occurred on December 11th of 2017.
+This prompted the community to adopt a new but permanent monetary policy mimicking that of Bitcoin. The change was implemented on block 5,000,000 which occurred on December 11th of 2017.
 
 In this class we will explain the monetary policy of Ethereum Classic by describing its components, which include the following:
 
