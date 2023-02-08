@@ -136,7 +136,7 @@ This is why it is generally stated that ETC has a supply cap of 210,700,000, but
 
 ![ETC projected stock-to-flow ratio by era compared to other assets.](./11.png)
 
-The stock-to-flow (S2F) ratio is a measure that is used to predict the value of commodities in the market, and is a very similar concept as inflation, but it is expressed as the current stock of a commodity divided by the new annual production or issuance.
+Stock-to-flow (S2F) ratio is a measure that is used to predict the value of commodities in the market. It is a concept very similar to inflation expressed as the current stock of a commodity divided by the new annual production or issuance.
 
 For example, as there are 185,000 tonnes of gold in the world, and there are approximately 3,000 additional tonnes extracted every year, then the stock-to-flow ratio of gold is 61.67 (185,000 / 3,000 = 61.67) which corresponds to a 1.62% inflation rate. The higher the S2F ratio is, the more valuable the commodity should be.
 
