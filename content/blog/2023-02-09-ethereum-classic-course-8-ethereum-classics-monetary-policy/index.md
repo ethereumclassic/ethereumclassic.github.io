@@ -20,7 +20,7 @@ When checking sources as CoinMarketCap, at the time of this writing, the supply 
 
 However, as explained in previous classes, in the beginning Ethereum Classic and Ethereum were one blockchain and the monetary policy consisted of perpetually issuing 5 ETC/ETH per block to pay miners for their work.
 
-When Ethereum split from Ethereum Classic on July 20th of 2016, the ETC ecosystem decided to follow a Code Is Law ethics and this had to include a more constrained monetary policy to guarantee the soundness of the currency.
+When Ethereum split from Ethereum Classic on July 20th of 2016, the ETC ecosystem decided to follow a Code Is Law ethic which must include a more constrained monetary policy to guarantee the soundness of the currency.
 
 This prompted the community to adopt a new but permanent monetary policy, mimicking that of Bitcoin. The change was implemented on block 5,000,000 which occurred on December 11th of 2017.
 
