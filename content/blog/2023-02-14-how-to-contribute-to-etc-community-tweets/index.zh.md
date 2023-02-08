@@ -56,35 +56,35 @@ ETC社区的Twitter帐户有管理员，因此所有提议的内容单元、图�
 
 @eth_classic帐户被认为更广为人知，并且更正式。在这个账号的自述文件中，关于发布内容的说明如下:
 
-• Dignity: No obscenities, explicit language, racism, sexism, etc.
-• Neutrality: No attacking or promoting of non-ETC projects, no drama.
-• Seriousness: No memes, jokes, quips, hot takes, etc.
-• Accuracy: No linking to overly opinionated, biased or unverifiable information.
-• Relevance: No spam, non-ETC related content, limit tweets about the same topic.
-• Subtlety: Don't tell people to buy ETC directly, instead tell them why.
-• Safety: No links to scams, no encouraging the purchase of assets. 
+•尊重性:没有淫秽，露骨的语言，种族主义，性别歧视等。
+•中立性:不攻击或宣传非ETC项目，不搞闹剧。
+•严肃性:没有表情包、笑话、妙语、热拍等。
+•准确性:不涉及过于固执己见、有偏见或无法核实的信息。
+•相关性:没有垃圾邮件，非ETC相关内容，限制关于同一主题的推文。
+•微妙性:不要直接告诉人们购买ETC，而是告诉他们为什么。
+•安全性:不涉及骗局，不鼓励购买资产。
 
-The @etc_network account is less well known and is intended to be less formal and serious. For example, some memes will be permitted.
+@etc_network帐户不太知名，意图不算正式和严肃。所以某些表情包将被允许使用。
 
-## How to Create Tweets in the @eth_classic account
+## 如何在@eth_classic帐号中创建推文
 
 ![](./1.png)
 
-1. The first step is to go to:
+1. 第一步，请访问
 
 github.com/ethereumclassic/tweets-eth_classic
 
-Then, open the “tweets” folder.
+然后，打开“tweet”文件夹。
 
 ![](./2.png)
 
-2. In the tweets folder you will see all the past tweets that have already been posted on Twitter.
+2. 在tweets文件夹中，您将看到所有已经在Twitter上发布的过去的推文
 
-Press the “Add file” dropdown menu at the top right of the box.
+按下方框右上方的“添加文件”下拉菜单。
 
 ![](./3.png)
 
-3. In the dropdown menu, you will see an option that says “Create new file”. Press that option.
+3. 在下拉菜单中，你会看到一个“创建新文件”的选项。按这个选项。
 
 ![](./4.png)
 
