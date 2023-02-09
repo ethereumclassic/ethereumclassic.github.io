@@ -88,91 +88,91 @@ github.com/ethereumclassic/tweets-eth_classic
 
 ![](./4.png)
 
-4. In the next screen you will see that you will be able to edit the URL extension of this document and the body of the document.
+4. 在下一个界面中，您将看到可编辑文档的URL扩展名和文档主体。
 
-The URL extension must follow the format “YYMMDD-text.tweet”. For example, we typed “230214-message.tweet” where the word “message” is the text we wish to use for this URL.
+URL扩展名必须遵循“YYMMDD-text.tweet”格式。例如，我们输入“230214-message”。“tweet”，其中“message”是我们希望用于此URL的文本。
 
-The body of the tweet must be 240 characters or less and may include text, links, and hashtags.
+推文的主体必须不超过240个字符，可以包括文本、链接和标签。
 
 ![](./5.png)
 
-5. Once you are done entering the URL of the document and the body of the tweet, then you have to go down in the same page and write a description for the action you are initiating. In this case, we described our contribution as “This is a new tweet I wish to contribute”. 
+5. 一旦您输入了文档的URL和推文的文本主体，那么您必须在同一页面下为您发起的操作写一个描述。在这种情况下，我们将我们的贡献描述为“这是我希望贡献的一条新推文”（“This is a new tweet I wish to contribute”）。
 
-Then, press the “Propose file” button.
+然后，按下“propose file”按钮。
 
 ![](./6.png)
 
-6. In the next screen, you need to press the “Draft pull request” button to push the new tweet proposal to the admins of the ETC Twitter system.
+6. 在下一个屏幕中，您需要按下“Draft pull request”按钮，将新的tweet提议推送给ETC推特系统的管理员。
 
-Because the @eth_classic account has more restrictions because it is a sort of canonical handle for ETC, it will be approved and pushed to Twitter only if two admins review the proposed tweet.
+因为@eth_classic帐户有更多的限制(因为它是ETC的一种规范句柄)，只有当两个管理员审查提议的推文时，它才会被批准并推送到推特。
 
-## How to Create Tweets in the @etc_network account
+## 如何在@etc_network帐户中创建推文
 
 ![](./7.png)
 
-1. To create a tweet for the @etc_network handle, the first step is to go to:
+1. 要为@etc_network句柄创建一个tweet，第一步是转到:
 
 github.com/ethereumclassic/tweets-etc_network
 
-Then, open the “tweets” folder.
+然后，打开“tweets”文件夹.
 
 ![](./8.png)
 
-2. In the tweets folder you will see all the past tweets that have already been posted on Twitter.
+2. 在tweets文件夹中，您将看到所有已经在推特上发布的过去的推文。
 
-Press the “Add file” dropdown menu at the top right of the box.
+按下方框右上方的“添加文件”下拉菜单。
 
 ![](./9.png)
 
-3. In the dropdown menu, you will see an option that says “Create new file”. Press that option.
+3. 在下拉菜单中，您会看到一个“创建新文件”（“Create new file”）的选项。请点击这个选项。
 
 ![](./10.png)
 
-4. In the next screen you will see that you will be able to edit the URL extension of this document and the body of the document.
+4. 在下一个界面中，您将看到您可编辑文档的URL扩展名和文档主体。
 
-The URL extension must follow the format “YYMMDD-text.tweet”. For example, we typed “230214-message.tweet” where the word “message” is the text we wish to use for this URL.
+URL扩展名必须遵循“YYMMDD-text.tweet”格式。例如，我们输入“230214-message”。“tweet”，其中“message”是我们希望用于此URL的文本。
 
-The body of the tweet must be 240 characters or less and may include text, links, and hashtags.
+推文的主体必须不超过240个字符，可以包括文本、链接和标签。
 
 ![](./11.png)
 
-5. Once you are done entering the URL of the document and the body of the tweet, then you have to go down in the same page and write a description for the action you are initiating. In this case, we described our contribution as “This is a new tweet I wish to contribute”. 
+5. 一旦输入了文档的URL和推文的文本主体，您必须在同一页面下，为您发起的操作写一个描述。在这种情况下，我们将我们的贡献描述为“这是我希望贡献的一条新推文”“This is a new tweet I wish to contribute”）。
 
-Then, press the “Propose file” button.
+然后，按下“propose file”按钮。
 
 ![](./21.png)
 
-6. In the next screen, you need to press the “Create pull request” button to push the new tweet proposal to the admins of the ETC Twitter system.
+6. 在下一个屏幕中，您需要按下“Create pull request”按钮，将新的推文提议推送给ETC推特系统的管理员。
 
-Because the @etc_network account has less restrictions, it will be approved and pushed to Twitter with only one admin review.
+因为@etc_network帐户的限制较少，它将被批准并推送到Twitter，只需要一次管理审核。
 
-## Other Tweet Formats and Styles
+## 其他推文格式和样式
 
 ![](./13.png)
 
-The readme files in each of the ETC community tweet repositories on GitHub have instructions on how to enter the following kinds of tweets:
+在GitHub上每个ETC社区推文库中的自述文件都有关于如何输入以下类型推文的说明:
 
-- Simple Tweet (the type we showed in this post)
-- Retweets
-- Replies
-- Media
-- Polls
-- Threading
+- 简单的推文(我们在这篇文章中展示的类型)
+- 转发
+- 回复
+- 媒体形式推文
+- 投票
+- 线索推文
 
-## You Are Welcome to Contribute!
+## 欢迎您的投稿!
 
-We hope that this explanation has clarified any doubts you may have had about how to contribute to ETC community tweets.
+我们希望这个教程已经解决了您对如何向ETC社区推文投稿的任何疑问。
 
-You are welcome to contribute to Ethereum Classic.
+欢迎您为以太坊经典做出贡献。
 
-Good tweets and memes are always welcome!
+好的推文和memes总是受欢迎的!
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To contribute tweets to the @eth_classic account go to: https://github.com/ethereumclassic/tweets-eth_classic
+如您希望向@eth_classic帐户贡献推文，请访问: https://github.com/ethereumclassic/tweets-eth_classic
 
-To contribute tweets to the @etc_network account go to: https://github.com/ethereumclassic/tweets-etc_network
+如您希望向@etc_network帐户贡献推文，请访问: https://github.com/ethereumclassic/tweets-etc_network
 
-To learn more about Ethereum Classic go to: https://ethereumclassic.org
+想了解更多关于以太坊经典的信息，请访问: https://ethereumclassic.org
