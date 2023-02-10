@@ -82,7 +82,7 @@ Nick Szabo's essay "[Trusted Third Parties are Security Holes](https://nakamotoi
 
 However, the reverse incentives will likely occur with Ethereum's proof of stake: As they continue building the system by adding fixes and patches to close the myriad of security holes that it has, they will end up with a set of centralized validators, just like banking, and the only difference will be that the database will be completely replicated among these validators. 
 
-However, when these cartelized pools and node operators realize that they may trust each other because they know each other, have the same special interests, and are all buddies in the same state sponsored regulatory framework, then one day they will say to themselves "why do we replicate the data in public nodes, locking so much capital in staking, if we can reduce costs and be more efficient just by using our own data centers and cloud services?". 
+Then, when these cartelized pools and node operators realize that they may trust each other because they know each other, have the same special interests, and are all buddies in the same state sponsored regulatory framework, then one day they will say to themselves "why do we replicate the data in public nodes, locking so much capital in staking, if we can reduce costs and be more efficient just by using our own data centers and cloud services?". 
 
 Then, the world will realize that proof of stake was just a slow, tedious, and complexity-obfuscated way of re-building a new centralized banking system, bit by bit, without anyone noticing.
 
