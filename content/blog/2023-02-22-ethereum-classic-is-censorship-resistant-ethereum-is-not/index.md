@@ -86,7 +86,7 @@ However, when these cartelized pools and node operators realize that they may tr
 
 Then, the world will realize that proof of stake was just a slow, tedious, and complexity-obfuscated way of re-building a new centralized banking system, bit by bit, without anyone noticing.
 
-Thus, in the end, their glorified "[cryptoeconomic](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51)" pseudo-science will drive the system to total centralization.
+Thus, in the end, their glorified "[cryptoeconomic](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51)" pseudoscience will drive the system to total centralization.
 
 ---
 
