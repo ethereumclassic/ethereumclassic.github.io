@@ -104,7 +104,7 @@ Then, press the “Propose file” button.
 
 6. In the next screen, you need to press the “Draft pull request” button to push the new tweet proposal to the admins of the ETC Twitter system.
 
-Because the @eth_classic account has more restrictions because it is a sort of canonical handle for ETC, it will be approved and pushed to Twitter only if two admins review the proposed tweet.
+The @eth_classic account has more restrictions because it is considered a canonical handle for ETC. Tweet proposals will only be pushed to Twitter if two admins review and approve the proposed tweet.
 
 ## How to Create Tweets in the @etc_network account
 
