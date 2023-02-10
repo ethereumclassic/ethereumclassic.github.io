@@ -31,7 +31,7 @@ The videos and posts in the series will contain the title “How to Contribute t
 
 ![The ETC @eth_classic and @etc_network accounts on Twitter.](./etc-tweets-banner.png)
 
-To manage a decentralized system as ETC is a very counterintuitive endeavour as we, humans, are used to centralized organizations.
+To manage a decentralized system as ETC is a very counterintuitive endeavor as we humans are used to centralized organizations.
 
 Some of the resources that need to be sorted out in a decentralized manner are the canonical social media accounts for the project.
 
