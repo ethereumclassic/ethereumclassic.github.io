@@ -34,7 +34,8 @@ A cryptographic stamp or hash is a process by which any arbitrary piece of data 
 
 For example, the word “Hello” may be transformed into the number:
 
-`0b8a44ac991e2b263e8623cfbeefc1cffe8c1c0de57b3e2bf1673b4f35e660e89abd18afb7ac93cf215eba36dd1af67698d6c9ca3fdaaf734ffc4bd5a8e34627`
+`0b8a44ac991e2b263e8623cfbeefc1cffe8c1c0de57b3e2bf1673b4f35e660e8
+9abd18afb7ac93cf215eba36dd1af67698d6c9ca3fdaaf734ffc4bd5a8e34627`
 
 No matter what is the input, large or small, the function will always generate a large number which will represent the data given.
 
