@@ -1,5 +1,5 @@
 ---
-title: "What Does Security Mean in Ethereum Classic?"
+title: "在以太坊经典中安全意味着什么?"
 date: 2023-02-15
 author: Donald McIntyre
 disclaimer: opinion
@@ -9,57 +9,57 @@ linkImage: ./etc-security-banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期视频:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XGF1IvfQq18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-The first problem with the concept of security is that it is the absence of something. This makes it difficult for the great majority of people to feel or reason about, especially those living in advanced nations.
+安全概念的第一个问题是，它是某物的缺失。这使得绝大多数人，特别是那些生活在发达国家的人，很难去感受或推理。
 
-If we want a detailed explanation of what is security, then we could say that it is the absence of hazards that increase risks of perils that may cause losses. This may be simplified to the phrase "the absence of danger".
+如果我们想要一个关于什么是安全的详细解释，那么我们可以说，是没有危险增加了可能造成损失的危险的风险。这可以简化为短语“没有危险”。
 
-The second problem of the concept of security is that for a great deal of things; especially matters of money, wealth, information, and contracts; the key to achieving it is to actually eliminate human agency. But, the great majority of people believe that the more "good people" are in charge the more secure things are. We are conditioned to think that people create security, when in reality, people are the most common source of insecurity.
+安全概念的第二个问题是，对于很多事情;尤其是金钱、财富、信息和合同的问题;实现这一目标的关键是真正消除人类的代理。但是，绝大多数人认为，“好人”越多，事情就越安全。我们习惯于认为是人创造了安全感，但实际上，人是最常见的不安全感的来源。
 
-The third problem with the concept of security is that it is different for different cultures and regions. As mentioned above, the lack of true danger in advanced societies makes the great majority of individuals and organizations using blockchains do it for superficial purposes, which normally range between trading and making money to the excitement of technological innovation.
+安全概念的第三个问题是，不同文化和地区的安全概念是不同的。如上所述，发达社会缺乏真正的危险，使得绝大多数使用区块链的个人和组织都是出于表面目的，这些目的通常介于交易和赚钱到技术创新的兴奋之间。
 
-The above leads people to do stupid things such as creating more and more proof of stake and proof of authority blockchains that are worth hundreds of billions of dollars, but useless in terms of the true promise of the blockchain: The absence of danger.
+上述情况导致人们做一些愚蠢的事情，比如创建越来越多的股权证明和权威证明区块链，这些区块链价值数千亿美元，但在区块链的真正承诺方面毫无用处:没有危险。
 
-Only a fraction of users in the world are using blockchains and Ethereum Classic for their true value of security. 
+世界上只有一小部分用户使用区块链和以太坊经典来实现其真正的安全价值。
 
-However, everything will change because the world will be a dark place very soon. 
+然而，一切都会改变，因为世界很快就会变成一个黑暗的地方。
 
-The forces of centralism are strong and will get stronger in an accelerating technologically driven world:
+集中化的力量是强大的，并将在一个加速发展的技术驱动的世界中变得更加强大:
 
-- Censorship is already spreading and will be rampant. Even our thoughts will be produced and controlled by the state, if not a global government.
-- Social credit scores and id's will eliminate our privacy and render us naked in front of the global empire.
-- Control of behavior through biased AI agents will be more prevalent than individual sovereignty and representative governance. Indeed, the guise of representation will continue to exist, but for what use if our vote will be decided by the central controller?
-- Disinformation will be only produced by official sources (supposed conspiracy theories and subversive information sources will the the new truth).
-- In essence, there will be straight central manipulation of entire societies.
-- The name of the game will be the stripping of wealth through direct means such as taxes and indirect means such as inflation (i.e. Modern Monetary Theory).
+-审查制度已经在蔓延，并将变得猖獗。即使我们的思想也将由国家产生和控制，如果不是一个全球政府的话。
+-社会信用评分和身份证将消除我们的隐私，让我们在全球帝国面前赤身裸体。
+-通过有偏见的人工智能代理控制行为将比个人主权和代表性治理更普遍。事实上，代表的幌子将继续存在，但如果我们的投票将由中央控制器决定，那又有什么用呢?
+-虚假信息只会由官方来源制造(所谓的阴谋论和颠覆性信息来源将成为新的真相)。
+-本质上，整个社会将直接受到中央控制。
+-游戏的名称将是通过税收等直接手段和通货膨胀等间接手段(即现代货币理论)来剥夺财富。
 
-Then, the current traders and investment opportunists will see that they are truly naked and will change their focus to security. And, those playing with their little proof of stake and proof of authority toys of innovation, in their pompous university labs, will fail miserably and re-focus their projects to the presently abstract concept of security.
+然后，当前的交易员和投资机会主义者会看到他们真的是赤裸裸的，并将注意力转向安全。而且，那些在他们浮夸如谈的大学实验室里玩着他们的小赌注证明和创新的权威玩具的人，将悲惨地失败，并将他们的项目重新集中在目前抽象的安全概念上。
 
-Because security will not be abstract anymore, it will be very tangible and real.
+因为安全将不再是抽象的，它将是非常有形和真实的。
 
 ![ETC is a refuge.](./etc-security-banner.png)
 
-So, the meaning of security in Ethereum Classic will be this: It will be a refuge for those escaping centralization on a global scale, arbitrary confiscation, persecution, and tyranny.
+因此，以太坊经典中的安全含义将是:它将是那些逃离全球范围内集权、任意没收、迫害和暴政的人的避难所。
 
-ETC will be a real life instrument of Life, Liberty, and Property. Not just a written text on an old piece of parchment with fancy signatures.
+ETC将是生命、自由和财产的真正的生命工具。而不仅仅是写在一张旧羊皮纸上的文字和花哨的签名。
 
-This is when Ethereum Classic will shine as a shield for the world. A shield against the beast of globalization. Suddenly, everybody will want to escape the overlord.
+这是以太坊经典将作为世界的盾牌发光的时候。抵御全球化猛兽的盾牌。突然间，每个人都想逃离这个霸王。
 
-ETC is a haven of basic rights, and basic rights are represented in it by means of a fully replicated ledger with accounts, balances, assets, programs, and smart contracts, which crosses all borders and reaches everyone in the world regardless of their country, culture, ideology, beliefs, gender, race, or any other human condition.
+ETC是基本权利的天堂，基本权利通过一个包含账户、余额、资产、程序和智能合同的完全复制的分类账来体现在其中，这些分类账跨越所有边界，覆盖世界上的每个人，无论他们的国家、文化、意识形态、信仰、性别、种族或任何其他人类状况。
 
-People who believe in human agency think of finality and immutability as the result of human decision making. For example, in proof of stake systems they believe that a two thirds vote by the block validators produces finality. As if people were the guarantors of last resort. This makes proof of stake only suitable to protect people's wealth and applications from what may be called unauthorized theft.
+相信人类能动性的人认为，人类决策的结果是最终的和不变的。例如，在股权证明系统中，他们认为区块验证者的三分之二投票会产生最终结果。仿佛人们是最后的担保人。这使得股权证明只适用于保护人们的财富和申请免受可能被称为未经授权的盗窃。
 
-However, when it comes to authorized theft; the arbitrary over taxation, confiscation, censorship, limitation, or elimination of people's Life, Liberty and Property by tyrannical law; then proof of stake advocates are either absolutely or totally in favor of such situations.
+然而，当涉及授权盗窃时;专制的法律对人民的生命、自由和财产任意征税、没收、审查、限制或消灭;那么，权益证明的提倡者要么绝对地，要么完全地支持这种情况。
 
-Ethereum Classic security is true because it is a sanctuary against any kind of theft.
+以太坊经典安全是真实的，因为它是防止任何类型盗窃的避难所。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读这篇文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+想要了解更多关于ETC的信息，请访问: https://ethereumclassic.org
