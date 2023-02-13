@@ -50,7 +50,7 @@ ETC will be a real life instrument of Life, Liberty, and Property. Not just a wr
 
 This is when Ethereum Classic will shine as a shield for the world; a shield against the beast of globalization. Suddenly, everybody will want to escape the overlord.
 
-ETC is a haven of basic rights, and basic rights are represented in it by means of a fully replicated ledger with accounts, balances, assets, programs, and smart contracts, which crosses all borders and reaches everyone in the world regardless of their country, culture, ideology, beliefs, gender, race, or any other human condition.
+ETC is a haven of basic rights. Basic rights are represented in it by means of a fully replicated ledger with accounts, balances, assets, programs, and smart contracts which crosses all borders and reaches everyone in the world regardless of their country, culture, ideology, beliefs, gender, race, or any other human condition.
 
 People who believe in human agency think of finality and immutability as the result of human decision making. For example, in proof of stake systems they believe that a two thirds vote by the block validators produces finality. As if people were the guarantors of last resort. This makes proof of stake only suitable to protect people's wealth and applications from what may be called unauthorized theft.
 
