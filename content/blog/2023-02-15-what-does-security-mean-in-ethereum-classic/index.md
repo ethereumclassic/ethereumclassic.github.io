@@ -54,7 +54,7 @@ ETC is a haven of basic rights. Basic rights are represented in it by means of a
 
 People who believe in human agency think of finality and immutability as the result of human decision-making. For example, in proof of stake systems, they believe that a two-thirds vote by the block validators produces finality as if people were the guarantors of last resort. This makes proof of stake only suitable to protect people's wealth and applications from what may be called unauthorized theft.
 
-However, when it comes to authorized theft; the arbitrary over taxation, confiscation, censorship, limitation, or elimination of people's Life, Liberty and Property by tyrannical law; then proof of stake advocates are either absolutely or totally in favor of such situations.
+However, when it comes to authorized theft, the arbitrary over-taxation, confiscation, censorship, limitation, or elimination of people's Life, Liberty, and Property by tyrannical law, then proof of stake advocates are either absolutely compliant or totally in favor of such situations.
 
 Ethereum Classic security is true because it is a sanctuary against any kind of theft.
 
