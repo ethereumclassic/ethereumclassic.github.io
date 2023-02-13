@@ -52,7 +52,7 @@ This is when Ethereum Classic will shine as a shield for the world; a shield aga
 
 ETC is a haven of basic rights. Basic rights are represented in it by means of a fully replicated ledger with accounts, balances, assets, programs, and smart contracts which crosses all borders and reaches everyone in the world regardless of their country, culture, ideology, beliefs, gender, race, or any other human condition.
 
-People who believe in human agency think of finality and immutability as the result of human decision making. For example, in proof of stake systems they believe that a two thirds vote by the block validators produces finality. As if people were the guarantors of last resort. This makes proof of stake only suitable to protect people's wealth and applications from what may be called unauthorized theft.
+People who believe in human agency think of finality and immutability as the result of human decision-making. For example, in proof of stake systems, they believe that a two-thirds vote by the block validators produces finality as if people were the guarantors of last resort. This makes proof of stake only suitable to protect people's wealth and applications from what may be called unauthorized theft.
 
 However, when it comes to authorized theft; the arbitrary over taxation, confiscation, censorship, limitation, or elimination of people's Life, Liberty and Property by tyrannical law; then proof of stake advocates are either absolutely or totally in favor of such situations.
 
