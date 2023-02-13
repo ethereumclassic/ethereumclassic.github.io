@@ -19,7 +19,7 @@ The first problem with the concept of security is that it is the absence of some
 
 If we want a detailed explanation of security, we could say that it is "the absence of hazards which increase the risk of perils that could cause loss". This may be simplified to the phrase "the absence of danger".
 
-The second problem of the concept of security is that for a great deal of things; especially matters of money, wealth, information, and contracts; the key to achieving it is to actually eliminate human agency. But, the great majority of people believe that the more "good people" are in charge the more secure things are. We are conditioned to think that people create security, when in reality, people are the most common source of insecurity.
+The second problem with the concept of security is that for many things; especially matters of money, wealth, information, and contracts; the key to achieving it is to actually eliminate human agency. The great majority of people believe that the more "good people" are in charge the more secure things are. We are conditioned to think that people create security when in reality people are the most common source of insecurity.
 
 The third problem with the concept of security is that it is different for different cultures and regions. As mentioned above, the lack of true danger in advanced societies makes the great majority of individuals and organizations using blockchains do it for superficial purposes, which normally range between trading and making money to the excitement of technological innovation.
 
