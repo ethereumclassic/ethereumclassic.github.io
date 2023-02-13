@@ -17,7 +17,7 @@ linkImage: ./etc-security-banner.png
 
 The first problem with the concept of security is that it is the absence of something. This makes it difficult for the great majority of people to feel or reason about, especially those living in advanced nations.
 
-If we want a detailed explanation of what is security, then we could say that it is the absence of hazards that increase risks of perils that may cause losses. This may be simplified to the phrase "the absence of danger".
+If we want a detailed explanation of security, we could say that it is "the absence of hazards which increase the risk of perils that could cause loss". This may be simplified to the phrase "the absence of danger".
 
 The second problem of the concept of security is that for a great deal of things; especially matters of money, wealth, information, and contracts; the key to achieving it is to actually eliminate human agency. But, the great majority of people believe that the more "good people" are in charge the more secure things are. We are conditioned to think that people create security, when in reality, people are the most common source of insecurity.
 
