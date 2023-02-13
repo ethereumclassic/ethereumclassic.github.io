@@ -48,7 +48,7 @@ So, the meaning of security in Ethereum Classic will be this: It will be a refug
 
 ETC will be a real life instrument of Life, Liberty, and Property. Not just a written text on an old piece of parchment with fancy signatures.
 
-This is when Ethereum Classic will shine as a shield for the world. A shield against the beast of globalization. Suddenly, everybody will want to escape the overlord.
+This is when Ethereum Classic will shine as a shield for the world; a shield against the beast of globalization. Suddenly, everybody will want to escape the overlord.
 
 ETC is a haven of basic rights, and basic rights are represented in it by means of a fully replicated ledger with accounts, balances, assets, programs, and smart contracts, which crosses all borders and reaches everyone in the world regardless of their country, culture, ideology, beliefs, gender, race, or any other human condition.
 
