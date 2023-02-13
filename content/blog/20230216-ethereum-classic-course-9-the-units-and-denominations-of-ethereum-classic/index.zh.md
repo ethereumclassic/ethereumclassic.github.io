@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Course: 9. The Units and Denominations of Ethereum Classic"
+title: "以太坊经典课程:9。以太坊经典的单位和面额"
 date: 2023-02-16
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,164 +8,164 @@ linkImage: ./etc-units-denominations.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此观看或收听本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D31MuLYrW94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-In the previous class we explained Ethereum Classic’s monetary policy. A monetary policy is one aspect of money which focuses on its creation or issuance and how much stock there should be to make the money useful and sound.
+在上一节课中，我们解释了以太坊经典的货币政策。货币政策是货币的一个方面，它侧重于货币的创造或发行，以及应该有多少存量才能使货币良好实用。
 
-Ethereum Classic has an absolute supply cap of 210,700,000 ETC and a fixed monetary policy that will discount by 20% the block rewards to miners every 5,000,000 blocks, which is equivalent to every 28 months.
+以太坊经典的绝对供应上限为210,70万等，并有固定的货币政策，每500万个区块将向矿工提供20%的区块奖励，这相当于频率周期为28个月。
 
-In this class we will explain another aspect of money which is divisibility. ETC is highly divisible and to explain how its units and denominations work we will explain first how the dollar works, then Bitcoin, Ethereum, and finally Ethereum Classic.
+在这节课中，我们将解释金钱的另一个方面，即其可分性。ETC是高度可分的，为了解释它的单位和面额是如何工作的，我们将首先解释美元是如何工作的，随后是比特币、以太坊，以及以太坊经典。
 
-## The Units and Denominations of the Dollar
+## 美元的单位和面额
 
-![The dollar units and denominations.](./dollar.png)
+![美元单位和面额](./dollar.png)
 
-The great majority of traditional currencies in all nations are structured the same way. They have a whole unit and then they are divided by one hundred, which is the smallest possible or atomic unit.
+所有国家的绝大多数传统货币的结构都是相同的。它们有一个完整的单位，然后除以100，即是最小的原子单位。
 
-In the case of the US dollar, for example, the whole unit is the dollar. Then, it may be divided into one hundred units called cents.
+以美元为例，整个单位是美元。然后，它可以分为100个单位，称为美分。
 
-In the middle, there are names given to different dollar quantities: Twenty five cents are called a quarter, ten cents are called a dime, and five cents are called a nickel.
+在中间，不同的美元数量有不同的名称:25美分被称为25美分，10美分被称为10美分，5美分被称为5美分。
 
-The same logic applies to Bitcoin, Ethereum, and Ethereum Classic, but with different divisibility.
+同样的逻辑适用于比特币、以太坊和以太坊经典，但可分性不同。
 
-## The Units and Denominations of Bitcoin
+## 比特币的单元和面值
 
-![The Bitcoin units and denominations.](./bitcoin.png)
+![比特币的单元和面值.](./bitcoin.png)
 
-In Bitcoin, the whole unit of the currency is called bitcoin or BTC, its symbol in the market is $BTC, and it is divisible by one hundred million.
+在比特币中，整个货币单位被称为比特币或BTC，其在市场上的符号为$BTC，且能被1亿整除。
 
-For computing and machine purposes, this small unit is the one actually used as the whole unit. Consequently the currency is denominated as follows:
+对于计算机和机器来说，这个小单元实际上是作为整个单元使用的。因此，货币的计价如下:
 
-1 is a Satoshi (one unit)
+1 是一个Satoshi (一个单元)
 
-10 a Finney (ten)
+10 是Finney (十)
 
-100 a microBitcoin (one hundred)
+100 是microBitcoin (一百)
 
-100,000 a milliBitcoin (one hundred thousand)
+100,000 是milliBitcoin (十万)
 
-1,000,000 a centiBitcoin (one million)
+1,000,000 是centiBitcoin (一百万)
 
-10,000,000 a deciBitcoin (ten million)
+10,000,000 是deciBitcoin (一千万)
 
-100,000,000 a BTC or Bitcoin (one hundred million)
+100,000,000 是BTC或Bitcoin (一亿)
 
-Multiplying 1 satoshi by ten gives one Finney, then a microBitcoin (one hundred), a milliBitcoin (one hundred thousand), a centiBitcoin (one million), a deciBitcoin (ten million), and finally a Bitcoin (one hundred million satoshis).
+用1个satoshi乘10是一个Finney, 然后是microBitcoin (一百), 一个milliBitcoin (十万), 一个centiBitcoin (一百万), 一个deciBitcoin (一千万), 然后最后一个比特币(一个亿的satoshis).
 
-The name "Satoshi" was given to this atomic unit in honor of Satoshi Nakamoto, the inventor of Bitcoin.
+为了纪念比特币的发明者中本聪(Satoshi Nakamoto)，这个原子单元被命名为“Satoshi”。
 
-For human readability, the units and denominations of Bitcoin are inverted in applications and wallets to show them as the normal whole unit of one BTC, and from there they are divisible by the quantities described above:
+为了便于人类阅读，比特币的单位和面额在应用程序和钱包中被倒置，以显示它们为一个比特币的正常整体单位，从那里它们可以被上述数量整除:
 
-1 is a Bitcoin (one)
+1是比特币(一)
 
-0.1 a deciBitcoin (ten)
+0.1个deciBitcoin (十)
 
-0.01 a centiBitcoin (one hundred)
+0.01个centiBitcoin (一百)
 
-0.00001 a milliBitcoin (one hundred thousand)
+0.00001个milliBitcoin (十万)
 
-0.000001 a microBitcoin (one million)
+0.000001个microBitcoin (一百万)
 
-0.0000001 a Finney (ten million)
+0.0000001个Finney (一千万)
 
-0.00000001 a Satoshi (one hundred million)
+0.00000001个Satoshi (一个亿)
 
-The above expressions are quantitatively identical as in the previous section, it is just a different way of expressing them.
+上述表达式在数量上与上一节相同，只是表达方式不同而已。
 
-## The Units and Denominations of Ethereum
+## 以太坊的单元和面值
 
-![The Ethereum units and denominations.](./ethereum.png)
+![以太坊的单元和面值](./ethereum.png)
 
-In Ethereum, the whole unit of the currency is called ether or ETH, its symbol in the market is $ETH, and it is divisible by one quintillion, or a 1 with 18 zeros (1,000,000,000,000,000,000).
+在以太坊，货币的整个单位被称为ether或ETH，它在市场上的符号是$ETH，它可以被1的万亿分之一整除，或有18个零的1整除 (1,000,000,000,000,000,000).
 
-As with Bitcoin, for computing and machine purposes, this small unit is the one actually used as the whole unit. Consequently the currency is denominated as follows:
+与比特币一样，为了计算和机器的目的，这个小单位实际上是作为整个单位使用的。因此，货币的计价如下:
 
-1 is a Wei (one)
+1是Wei (一)
 
-1,000 a Kilowei (one thousand)
+1,000是Kilowei (一千)
 
-1,000,000 a Megawei (one million)
+1,000,000是Megawei (一百万)
 
-1,000,000,000 a Gigawei (one billion)
+1,000,000,000是Gigawei (十亿)
 
-1,000,000,000,000 a Szabo (one trillion)
+1,000,000,000,000是Szabo (一兆)
 
-1,000,000,000,000,000 a Finney (one quadrillion)
+1,000,000,000,000,000是Finney (一千兆)
 
-1,000,000,000,000,000,000 an ETH or Ether (one quintillion)
+1,000,000,000,000,000,000是ETH或Ether (一百万兆)
 
-Multiplying 1 Wei by one thousand gives a Kilowei, then a Megawei (one million), Gigawei (one billion), a Szabo (one trillion), a Finney (one quadrillion), and finally an ether (one quintillion Wei).
+用1wei乘以1000得到了kilwei，然后是Megawei(100万)、Gigawei(10亿)、Szabo(1一兆)、Finney(1千兆)，最后是ether(1百万兆)。
 
-The name "Wei" was given to this atomic unit in honor of Wei Dai, who is the cypherpunk who had the idea of the first cryptocurrency network design in late 1998.
+这个原子单元的名字 “wei” 是为了纪念Wei Dai，他是一个密码朋克，在1998年底提出了第一个加密货币网络设计的想法。
 
-As in Bitcoin, for human readability, the units and denominations of Ethereum are inverted in applications and wallets to show them as the normal whole unit of one ETH, and from there they are divisible by the quantities described above:
+与比特币一样，为了人类的可读性，以太坊的单位和面额在应用程序和钱包中被倒置，以显示它们是一个ETH的正常整体单位，从那里，它们可以被上述数量整除:
 
-1 ETH or Ether (one)
+1 ETH或Ether (一)
 
-0.001 is a Finney (one thousand)
+0.001是Finney (一千)
 
-0.000001 a Szabo (one million)
+0.000001是Szabo (一百万)
 
-0.000000001 a Gigawei (one billion)
+0.000000001是Gigawei (一亿)
 
-0.000000000001 a Megawei (one trillion)
+0.000000000001是Megawei (一兆)
 
-0.000000000000001 a Kilowei (one quadrillion)
+0.000000000000001是Kilowei (一千兆)
 
-0.000000000000000001 a Wei (one quintillion)
+0.000000000000000001是Wei (一百万兆)
 
-The above expressions are quantitatively identical as in the previous section, it is just a different way of expressing them.
+上述表达式在数量上与上一节相同，只是表达方式不同而已。
 
-## The Units and Denominations of Ethereum Classic
+## 以太坊经典的单元和面值
 
-![The Ethereum Classic units and denominations.](./ethereum-classic.png)
+![以太坊经典的单元和面值](./ethereum-classic.png)
 
-In Ethereum Classic, the units and denominations work the same as in Ethereum. The whole unit of the currency is called ether or ETC, its symbol in the market is $ETC, and it is divisible by one quintillion.
+在以太坊经典中，单位和面额的工作方式与以太坊相同。货币的整个单位被称为ether或ETC，它在市场上的符号是$ETC，它可以被1万亿分之一整除。
 
-As ETH and BTC, for computing and machine purposes, this unit is the one actually used as the whole unit. Consequently the currency is denominated as follows:
+与ETH和BTC一样，出于计算和机器的目的，该单元实际上是作为整个单元使用的单元。因此，货币的计价如下:
 
-1 is a Wei (one)
+1是Wei (一)
 
-1,000 a Kilowei (one thousand)
+1,000是Kilowei (一千)
 
-1,000,000 a Megawei (one million)
+1,000,000是Megawei (一百万)
 
-1,000,000,000 a Gigawei (one billion)
+1,000,000,000是Gigawei (十亿)
 
-1,000,000,000,000 a Szabo (one trillion)
+1,000,000,000,000是Szabo (一兆)
 
-1,000,000,000,000,000 a Finney (one quadrillion)
+1,000,000,000,000,000是Finney (一千兆)
 
-1,000,000,000,000,000,000 an ETC or Ether (one quintillion)
+1,000,000,000,000,000,000是ETC或Ether (一百万兆)
 
-As seen above, the minimal atomic denomination of ETC is 1 Wei, which is one quintillionth of an ether.
+如上所述，ETC的最小原子单位是1 wei，也就是ether的1 / 10次方分之一。
 
-Multiplying 1 Wei by one thousand gives a Kilowei, then a Megawei (one million), Gigawei (one billion), a Szabo (one trillion), a Finney (one quadrillion), and finally an ether (one quintillion Wei).
+用1wei乘以1000得到了kilwei，然后是Megawei(100万)、Gigawei(10亿)、Szabo(1一兆)、Finney(1千兆)，最后是ether(1百万兆)。
 
-As with Bitcoin and Ethereum, for human readability, the units and denominations of Ethereum Classic are inverted in applications and wallets to show them as the normal whole unit of one ETC, and from there they are divisible by the quantities described above:
+与比特币和以太坊一样，为了人类的可读性，以太坊经典的单位和面额在应用程序和钱包中被倒置，以显示它们为一个等的正常整体单位，从那里，它们可以被上述数量整除:
 
-1 ETC or Ether (one)
+1 ETC或Ether (一)
 
-0.001 is a Finney (one thousand)
+0.001是Finney (一千)
 
-0.000001 a Szabo (one million)
+0.000001是Szabo (一百万)
 
-0.000000001 a Gigawei (one billion)
+0.000000001是Gigawei (一亿)
 
-0.000000000001 a Megawei (one trillion)
+0.000000000001是Megawei (一兆)
 
-0.000000000000001 a Kilowei (one quadrillion)
+0.000000000000001是Kilowei (一千兆)
 
-0.000000000000000001 a Wei (one quintillion)
+0.000000000000000001是Wei (一百万兆)
 
-The above expressions are quantitatively identical as in the previous section, it is just a different way of expressing them.
+上述表达式在数量上与上一节相同，只是表达方式不同而已。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，请访问: https://ethereumclassic.org
