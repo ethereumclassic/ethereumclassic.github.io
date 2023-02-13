@@ -31,7 +31,7 @@ However, everything will change because the world will be a dark place very soon
 
 The forces of centralism are strong and will get stronger in an accelerating technologically driven world:
 
-- Censorship is already spreading and will be rampant. Even our thoughts will be produced and controlled by the state, if not a global government.
+- Censorship is already spreading and will become rampant. Even our thoughts will be produced and controlled by the state, if not by a global government.
 - Social credit scores and id's will eliminate our privacy and render us naked in front of the global empire.
 - Control of behavior through biased AI agents will be more prevalent than individual sovereignty and representative governance. Indeed, the guise of representation will continue to exist, but for what use if our vote will be decided by the central controller?
 - Disinformation will be only produced by official sources (supposed conspiracy theories and subversive information sources will the the new truth).
