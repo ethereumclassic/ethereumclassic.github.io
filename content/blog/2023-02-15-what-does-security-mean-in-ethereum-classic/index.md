@@ -23,7 +23,7 @@ The second problem with the concept of security is that for many things; especia
 
 The third problem with the concept of security is that it is viewed differently in different cultures and regions. As mentioned above, the lack of true danger in advanced societies means that the great majority of individuals and organizations using blockchains do so for superficial purposes which normally range between trading and making money to the excitement of technological innovation.
 
-The above leads people to do stupid things such as creating more and more proof of stake and proof of authority blockchains that are worth hundreds of billions of dollars, but useless in terms of the true promise of the blockchain: The absence of danger.
+The above leads people to do stupid things such as creating more and more proof of stake and proof of authority blockchains that are worth hundreds of billions of dollars but are useless in terms of the true promise of the blockchain: the absence of danger.
 
 Only a fraction of users in the world are using blockchains and Ethereum Classic for their true value of security. 
 
