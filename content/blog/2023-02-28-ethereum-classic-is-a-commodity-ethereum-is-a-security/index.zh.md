@@ -16,7 +16,7 @@ linkImage: ./eth-etc-howey-test-banner.png
 
 ## The Howey Test
 
-To determine whether a unit of value, contract, or transaction is a security the U.S. Securities and Exchange Commission (SEC) uses what is called the Howey test, which was the basis for a ruling by the Supreme Court in 1946 that defined what was security.
+To determine whether a unit of value, contract, or transaction is a security the U.S. Securities and Exchange Commission (SEC) [uses](https://www.sec.gov/corpfin/framework-investment-contract-analysis-digital-assets) what is called the Howey test, which was the basis for a ruling by the Supreme Court in 1946 that defined what was security.
 
 Under the test, a unit of value, contract, or transaction qualifies as a security if it has the following elements:
 
@@ -25,7 +25,7 @@ Under the test, a unit of value, contract, or transaction qualifies as a securit
 3. A reasonable expectation of profit
 4. Derived from the efforts of others
 
-Bitcoin (BTC) and Ethereum (ETH), and thus Ethereum Classic (ETC) after Ethereum split from it in 2016, were determined to be commodities by the Commodity Futures Trading Commission (CFTC) in 2015 because they were decentralized, therefore had no common enterprise directing them and their returns were not derived from the efforts of others.
+Bitcoin (BTC) and Ethereum (ETH), and thus Ethereum Classic (ETC) after Ethereum split from it in 2016, were determined to [be commodities](https://www.cftc.gov/digitalassets/index.htm) by the Commodity Futures Trading Commission (CFTC) in 2015 because they were decentralized, therefore had no common enterprise directing them and their returns were not derived from the efforts of others.
 
 The question is if Ethereum, now under its proof of stake (PoS) consensus mechanism, still qualifies as a commodity.
 
@@ -83,9 +83,9 @@ In ETC, the same reasons why it was a commodity before remains today: There is n
 
 From 2014 to 2016 both Ethereum and Ethereum Classic were one project, so we refer to them in this period as ETH/ETC. 
 
-The project was financed with a crowdsale. Based on the Howey test it may be inferred that the ETH/ETC crowdsale was, indeed, a security. 
+The project was financed with a crowdsale. Based on the Howey test it may be inferred that the ETH/ETC [crowdsale was, indeed, a security](https://twitter.com/WendellMoone/status/1623760982672564226). 
 
-It was founded by Vitalik Buterin; then he partnered with several individuals to form a group of co-founders; they promised the expectation of profits out of the investment; created a foundation with the name of the network, even registering its trademarks; sold a unit of value previous to the creation of the cryptocurrency to gather funds for development; and promoted the crowdsale and Ethereum’s features, benefits, and appreciation potential just like any initial public offering of a stock would have been promoted.
+It was [founded](https://en.wikipedia.org/wiki/Ethereum) by Vitalik Buterin; then he partnered with several individuals to form a group of co-founders; they promised the expectation of profits out of the investment; created a foundation with the name of the network, even registering its trademarks; sold a unit of value previous to the creation of the cryptocurrency to gather funds for development; and promoted the crowdsale and Ethereum’s features, benefits, and appreciation potential just like any initial public offering of a stock would have been promoted.
 
 However, this status as a security was likely limited to the period between the crowdsale and the launch of the network on July 30th of 2015. 
 
