@@ -102,7 +102,7 @@ Multiplying 1 Wei by one thousand gives a Kilowei, then a Megawei (one million),
 
 The name "Wei" was given to this atomic unit in honor of Wei Dai, who is the cypherpunk who had the idea of the first cryptocurrency network design in late 1998.
 
-As in Bitcoin, for human readability, the units and denominations of Ethereum are inverted in applications and wallets to show them as the normal whole unit of one ETH, and from there they are divisible by the quantities described above:
+As in Bitcoin, for human readability, the units and denominations of Ethereum are inverted in applications and wallets to show them as the normal whole unit of one ETH. From there they are divisible by the quantities described above:
 
 1 ETH or Ether (one)
 
