@@ -146,7 +146,7 @@ As seen above, the minimal atomic denomination of ETC is 1 Wei, which is one qui
 
 Multiplying 1 Wei by one thousand gives a Kilowei, then a Megawei (one million), Gigawei (one billion), a Szabo (one trillion), a Finney (one quadrillion), and finally an ether (one quintillion Wei).
 
-As with Bitcoin and Ethereum, for human readability, the units and denominations of Ethereum Classic are inverted in applications and wallets to show them as the normal whole unit of one ETC, and from there they are divisible by the quantities described above:
+As with Bitcoin and Ethereum, for human readability, the units and denominations of Ethereum Classic are inverted in applications and wallets to show them as the normal whole unit of one ETC. As with Bitcoin and Ethereum, they are again divisible by the quantities described above:
 
 1 ETC or Ether (one)
 
