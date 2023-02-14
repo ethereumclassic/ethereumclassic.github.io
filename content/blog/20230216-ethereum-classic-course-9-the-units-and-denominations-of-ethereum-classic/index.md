@@ -58,7 +58,7 @@ Multiplying 1 satoshi by ten gives one Finney, then a microBitcoin (one hundred)
 
 The name "Satoshi" was given to this atomic unit in honor of Satoshi Nakamoto, the inventor of Bitcoin.
 
-For human readability, the units and denominations of Bitcoin are inverted in applications and wallets to show them as the normal whole unit of one BTC, and from there they are divisible by the quantities described above:
+For human readability, the units and denominations of Bitcoin are inverted in applications and wallets to show them as the normal whole unit of one BTC and from there are divisible by the quantities described above:
 
 1 is a Bitcoin (one)
 
