@@ -97,13 +97,13 @@ This step may be interpreted to be an exchange and exit of the initial common en
 
 From here, the project became a truly decentralized, proof of work based, public blockchain. 
 
-![The Ethereum split.](./4.png)
+![The Ethereum split.](./7.png)
 
 Even when Ethereum split from the ETC mainnet in 2016 due to the DAO hard fork, ETH kept its decentralization because it remained as a proof of work blockchain.
 
 This period lasted until September 15th of 2022.
 
-![The ETH migration to Proof of Stake.](./5.png)
+![The ETH migration to Proof of Stake.](./8.png)
 
 Starting in September 15th of 2022, Ethereum cannot be described as a decentralized project because it migrated to Proof of Stake. Indeed, the moment it migrated, 51% of the blocks were censored by mega-staking pools to comply with international sanctions imposed by the U.S. Office of Foreign Assets Control (OFAC). And, a few months later up to 70% of its blocks were censored.
 
