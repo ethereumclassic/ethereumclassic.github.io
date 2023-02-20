@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Is Censorship Resistant, Ethereum Is Not"
+title: "以太坊经典是抗审查的，而以太坊并不是"
 date: 2023-02-22
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,89 +8,89 @@ linkImage: ./etc-is-eth-is-not.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Io_VVWL17Yc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-Bitcoin (BTC) was launched in January of 2009 and has been working uncensored ever since.
+比特币(BTC)于2009年1月推出，自那以后一直在无审查的情况下运行。
 
-Ethereum Classic (ETC) has been working since July of 2015 and it has never been censored to this day. 
+以太坊经典(ETC)自2015年7月以来一直在工作，至今从未被审查过。
 
-When Ethereum (ETH) migrated to proof of stake (PoS) in September of 2022, it was [censored](https://www.mevwatch.info/) [immediately](https://twitter.com/koeppelmann/status/1580893089077809153).
+当以太坊(ETH)在2022年9月迁移到权益证明(PoS)时，它被[审查](https://www.mevwatch.info/)[立即](https://twitter.com/koeppelmann/status/1580893089077809153)。
 
-Why is this?
+为什么会这样呢?
 
-![ETC is censorship resistant, ETH is not.](./etc-is-eth-is-not.png)
+![ETC是抗审查的, 而ETH不是.](./etc-is-eth-is-not.png)
 
-The reason is that Ethereum Classic uses proof of work (PoW) based Nakamoto Consensus and Ethereum uses proof of stake as its consensus mechanism.
+原因是以太坊经典使用基于中本共识的工作量证明(PoW)，以太坊使用权益证明作为其共识机制。
 
-To be fair, if all block producers (miners or stakers/validators) in any of these systems were to be captured by governments or agreed on a censorship strategy, then both proof of work and proof of stake consensus systems would be censored.
+公平地说，如果这些系统中的所有区块生产者(矿工或股东/验证者)都被政府捕获或同意审查策略，那么工作量证明和权益证明共识系统都将被审查。
 
-But, what makes ETC's proof of work more resistant to these problems?
+但是，是什么让ETC的工作量证明对这些问题更有抵抗力呢?
 
-The answer is a series of features that differentiate PoW from PoS. In essence, it is much easier to group and capture stakers in a proof of stake system than miners in a proof of work system.
+答案是区分PoW和PoS的一系列特征。从本质上讲，在权益证明系统中对权益者进行分组和捕获要比工作量证明系统中的矿工容易得多。
 
-To begin with, the economics of proof of stake consensus in Ethereum have made it practically impossible for small stakers to produce and validate blocks independently. To run your own validator node, you need to deposit 32 ETH in an account (more than $52,000 at the time of this writing) and install complex infrastructure that requires [two](https://ethereum.org/en/developers/docs/nodes-and-clients/) Ethereum nodes: an execution layer (EL) client and a consensus layer (CL) client. 
+首先，以太坊的权益证明共识经济学使得小股东几乎不可能独立地生产和验证区块。要运行您自己的验证器节点，您需要在一个账户中存入32个ETH(在撰写本文时已经超过52,000美元)，并安装需要[两个](https://ethereum.org/en/developers/docs/nodes-and-clients/)以太坊节点的复杂基础设施:一个执行层(EL)客户端和一个共识层(CL)客户端。
 
-In addition to this, proof of stake in Ethereum imposes [penalties](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/rewards-and-penalties/) for as trivial things as being offline to more serious offenses as proposing invalid blocks. This makes it a financially dangerous endeavor to run nodes, risking your capital if you don't have a large and professional operation managing a sophisticated data center that is available and correct all the time.
+除此之外，以太坊的权益证明会对离线等微不足道的事情施加[惩罚](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/rewards-and-penalties/)，对提出无效区块等更严重的违法行为也会施加惩罚。这使得运行节点在财务上是一种危险的尝试，如果您没有一个大型而专业的操作来管理一个随时可用且正确的复杂数据中心，就会冒着资金风险。
 
-For the above reasons, Ethereum block production and validation is largely performed through staking pools. 
+由于上述原因，以太坊的区块生产和验证主要是通过赌注池来执行的。
 
-This by itself wouldn't be such a bad problem. After all, ETC mining is also largely channeled through mining pools. The problem is that, because of proof of stake's design, pools are organized in ways that foster much more centralization and capture than in proof of work networks.
+这本身并不是一个糟糕的问题。毕竟，ETC挖矿在很大程度上也是通过矿池进行的。问题是，由于权益证明的设计，池的组织方式比工作量证明网络更集中化和捕获。
 
-In proof of stake pools, the staking capital is actually separated from the validators, also called node operators (NOs). 
+在权益证明池中，权益资本实际上与验证者(也称为节点操作符NOs)分离。
 
-This means that there may be hundreds of thousands of individuals who stake their ETH in small amounts through pools, but they don't actually run any machine or software to validate or produce blocks. They just receive stake tokens representing the ETH that they deposited. Aside from that, they delegate 100% of the responsibility and operation to the staking pools.
+这意味着可能有成千上万的人通过池少量地押注他们的ETH，但他们实际上并不运行任何机器或软件来验证或生产区块。他们只是收到代表他们所存入的ETH的权益代币。除此之外，他们将100%的责任和操作委托给赌注池。
 
-Then, the staking pools usually do one of two things, they either run their own node operation in professional data centers, or they hire in the open market a set of controlled node operators.
+然后，赌注池通常会做两件事中的一件，他们要么在专业的数据中心运行自己的节点操作，要么在公开市场上雇佣一组受控制的节点操作员。
 
-These two models are well represented by centralized crypto exchanges, such as Coinbase, Kraken, and Binance; who take staking deposits from their clients and then run their own validator nodes; and Liquid Staking Derivatives (LSD) pools, such as Lido and RocketPool; who take deposits from their users through smart contracts on Ethereum and then hire a set of NOs who run the machines with the EL and CL clients and receive the staking deposits from the pools, sharing the earnings.
+这两种模式在集中式加密交易所(如Coinbase、Kraken和Binance)中得到了很好的代表;他们从客户那里收取保证金，然后运行自己的验证器节点;以及液体押注衍生品(LSD)池，如Lido和RocketPool;他们通过以太坊上的智能合约从用户那里收取存款，然后雇佣一组NOs与EL和CL客户一起运行的机器，并从池中收取赌注存款，分享收益。
 
-*Note: Kraken has actually closed its staking services due to regulatory [controls and capture]() as we write this post, confirming our hypothesis in real time! Further down we comment on the effects of these events.*
+*注:在我们写这篇文章的时候，Kraken实际上已经由于监管[控制和捕获]()关闭了它的赌注服务，实时证实了我们的假设!我们进一步评论这些事件的影响*
 
-In both cases (the centralized crypto exchanges and the LSD pools) there is already some sort of filtering and censorship just to participate.
+在这两种情况下(集中式加密交易所和LSD池)，仅仅是参与就已经存在某种过滤和审查。
 
-In the case of the centralized crypto exchanges, they filter who may stake or not by using the traditional know your customer (KYC) and anti-money laundering (AML) rules from the countries where they operate. In other words, staking through these services is not permissionless nor censorship resistant. Stakers need to actually show them their passports and prove they are a good citizens to be able to stake through them.
+在集中式加密交易所的情况下，他们通过使用传统的了解客户(KYC)和反洗钱(AML)规则来过滤谁可能参与或不参与。换句话说，通过这些服务进行赌注不是不允许的，也不是抵制审查的。投注者需要出示他们的护照，并证明他们是一个好公民，才能通过他们下注。
 
-In the case of the LSD pools, they don't filter who may stake, as that is done through smart contracts on Ethereum, so anyone may make a deposit, but they filter and censor who can run validator nodes and be their NOs. 
+在LSD池的情况下，他们不会过滤谁可以下注，因为这是通过以太坊上的智能合约完成的，所以任何人都可以存入，但他们会过滤和审查谁可以运行验证器节点并成为他们的NOs。
 
-This is done through a selection process through a "[sub-governance group](https://operatorportal.lido.fi/apply-to-be-a-lido-node-operator)" and then by voting the final candidates through a DAO, in the case of Lido, or through an algorithm, where they constantly filter who are the most profitable NOs to allocate the staked ETH and reject all the others, in the case of RocketPool.
+这是通过一个“[子治理组](https://operatorportal.lido.fi/apply-to-be-a-lido-node-operator)”的选择过程来完成的，然后通过一个DAO(在Lido的情况下)或通过一个算法投票选出最终的候选人，在这个算法中，他们不断过滤谁是最有利可图的NOs，以分配所下注的ETH，并拒绝所有其他的NOs(在RocketPool的情况下)。
 
-The fact that regulated and centralized exchanges [have a large share](https://beaconcha.in/pools) of pooled stake deposits is already a source of capture and censorship in Ethereum's proof of stake consensus system, but that the pools that are supposed to be "decentralized" actually control who may be the NOs is an additional source of [centralization](https://notes.ethereum.org/@djrtwo/risks-of-lsd) and thus of eventual censorship and cartelization as expressed even by the [Ethereum Foundation](https://notes.ethereum.org/@djrtwo/risks-of-lsd).
+事实上，受监管和集中的交易所[拥有很大份额](https://beaconcha.in/pools)的汇集股权存款已经成为以太坊股权证明共识系统的捕获和审查来源，但是，被认为是“去中心化”的池实际上控制着谁可能是NOs，这是[中心化](https://notes.ethereum.org/@djrtwo/risk -of-lsd)的另一个来源，因此，就像[以太坊基金会](https://notes.ethereum.org/@djrtwo/risks-of-lsd)所表达的那样，最终的审查和联盟化。
 
-Once we understand the huge flaw that is the risk of centralization described above in proof of stake networks, then we can list a host of additional centralization vectors and drivers that are already causing the current high rate of block censorship in Ethereum, and will likely bring all sorts of additional capture problems in the future that will never be present in proof of work blockchains as ETC.
+一旦我们理解了上述权益证明网络中中心化风险的巨大缺陷，那么我们就可以列出一系列额外的中心化向量和驱动因素，这些因素已经导致了以太坊目前的高区块审查率，并可能在未来带来各种额外的捕获问题，这些问题永远不会出现在工作量证明区块链中，如ETC。
 
-**Staking pools and node operators/validators are static and easy to find:** Staking in Ethereum PoS requires static accounts on the network, therefore it is easy to track and find NOs and to which pools they work for. If to this we add that they are dependent hired contractors by the pools, or that the pools are themselves the NOs in the case of centralized exchanges, then we can see that they are easy to capture and control by special interests and abusive government regulation. In ETC, mining is a process of deploying capital in large data centers, purchasing enormous amounts electricity, working hard to win blocks by merit, and miners and pools may use different accounts on a block by block basis. This is done all over the world as cheap electricity generation resources are naturally distributed around the globe, creating diseconomies of scale. Mining pools are consequently also distributed around the world, there has been historically and empirically a significant rotation of players in the industry, and neither mining nor mining pools have ever held dominant or controlling positions in the market.
+**赌注池和节点操作符/验证器是静态的，很容易找到:** 在以太坊PoS中下注需要网络上的静态帐户，因此很容易跟踪和找到NOs以及它们为哪个池运行。如果我们补充说，他们依赖于池雇佣的承包商，或者在中心化交易所的情况下，池本身就是NOs，那么我们可以看到，他们很容易被特殊利益集团和政府监管所捕获和控制。在ETC中，挖矿是一个将资金部署在大型数据中心、购买大量电力、通过实力努力赢得区块的过程，矿工和矿池可能会在一个区块一个区块的基础上使用不同的账户。廉价的发电资源自然分布在全球各地，这造成了规模不经济。因此，矿池也分布在世界各地。从历史和经验来看，行业中的参与者都有显著的轮换，无论是挖矿还是矿池，都从未在市场上占据主导或控制地位。
+ 
+**赌注池吸收的存款是有价证券:** 正如我们上面提到的，美国证券交易委员会已经决定，在交易所的赌注存款是有价证券，因此完全受政府监管。LSDs被包括在这个定义中只是时间问题。因此，所有的赌注都将受到监管，从而增加捕获和审查。在ETC的工作证明中，挖矿不是通过存入可能被解释为证券的资金来完成的，矿池或挖矿操作也不被视为金融服务，而只是简单的计算仓库和数据中心。
 
-**Staking pools take deposits that are securities:** As we mentioned above, the Securities and Exchange Commission in the United States has decided that staking deposits in exchanges are securities, therefore completely subject to government regulation. It is a matter of time until the LSDs are also included in this definition. Therefore, all staking will be subject to regulation, thus additional capture and censorship. In ETC's proof of work, mining is not done by depositing money that may be interpreted as a security, nor are mining pools or mining operations considered financial services, but just plain computing warehouses and data centers.
+**赌注池和节点运营商在账本内:** 许多理想主义的以太坊内部人士和开发人员表示，如果赌注池通过增加审查和对无权限进行限制而表现糟糕，他们将呼吁[社会共识](https://ethereumclassic.org/blog/2023-01-25-ethereums-social-consensus-vs-ethereum-classics-code-is-law)。这是一项非常困难的任务，因为当一组交易所和LSD池通过其联盟股东和NOs捕获网络时，它们将以股权验证账户和为这些存款提供资金的智能合约的形式植入区块链本身。这意味着工作量证明区块链所拥有的[最后手段](https://etherplan.com/2019/05/18/proof-of-work-has-division-of-power-proof-of-stake-does-not/7619/)，即进行协议更改并远离攻击者，是不可能的，因为整个区块生产行业都在账本内。在ETC的工作证明中，矿工以块哈希的形式将能量导入区块链，这是在外部完成的，他们没有发言权，如果生态系统用不同的挖矿算法脱离他们，可能会很容易被取代。由于这种可能的最后手段，在工作量证明中，矿工谦卑地服从于生态系统的其余部分，而不是相反。
 
-**Staking pools and node operators are inside the ledger:** Many idealist Ethereum insiders and developers say that they will appeal to [Social Consensus](https://ethereumclassic.org/blog/2023-01-25-ethereums-social-consensus-vs-ethereum-classics-code-is-law) if staking pools behave badly by increasing censorship and imposing restrictions to permissionlessness. This is a very difficult task to achieve because when a set of exchanges and LSD pools capture the network with their cartelized stakers and NOs they will be planted inside the blockchain itself in the form of the staking validator accounts and the smart contracts that fund those deposits. This means that the [action of last resort](https://etherplan.com/2019/05/18/proof-of-work-has-division-of-power-proof-of-stake-does-not/7619/) that proof of work blockchains have, to make a protocol change and fork away from the attackers, is impossible because the whole block producing industry is inside the ledger. In ETC's proof of work, miners import energy into the blockchain in the form of block hashes, this is done externally and they have no say and may be easily replaced if the ecosystem forks away from them with a different mining algorithm. Because of this possible action of last resort, in proof of work, miners are humbly submitted to the rest of the ecosystem, not the other way around.
+**赌注池都将是受监管的金融机构:** 正如集中式交易所在赌注池业务中的增长和市场份额所看到的那样，现在美国证券交易委员会已经将这种业务定义为一种证券，我们现在可以更清楚地观察到，金融机构将成为以太坊权益证明的主要股东、节点运营商和池运营商。没有其他类型的企业或机构将被允许管理赌注池和验证操作。由于资本和分销领域的激烈竞争，Lido、RocketPool和其他“去中心化”的矿池很难不被迫关闭、不被受监管的金融机构接管，或者只是失去市场份额。这将把以太坊，以及就此而言的任何权益证明系统，变成一个高度监管的传统金融系统。
 
-**Staking pools will all be regulated financial institutions:** As seen with the growth and market share of centralized exchanges in the staking pool business, and now that the SEC has defined such business as a security, we can now more clearly observe that financial institutions are going to be the main stakers, node operators, and pool operators in Ethereum proof of stake. There will be no other kind of business or institution that will be allowed to manage staking pools and validation operations. It will be very difficult for Lido, RocketPool, and the other "decentralized" pools to not be either forced to shut down, taken over by regulated financial institutions, or just lose market share because of the strong competition in capital and distribution. This will turn Ethereum, and any proof of stake system for that matter, into a hyper-regulated traditional financial system. 
+**赌注池遭受不受限制的规模经济:** 就像银行系统一样，赌注行业将由3或4个卡特尔实体主导。这是因为以太坊内部的资本流动可能不受本地或现实世界的限制。这些规模经济将有利于少数大型集中池，由金融机构管理，他们将能够与NOs谈判更低的费用，总是有更多的资本用于营销和分销，并为他们的股权储户提供最佳的偿付能力保证，所有这些都加强了他们的卡特尔化。这使得它比工作量证明更容易集中资本，从而控制网络。一旦池子达到大规模，它们在任何司法管辖区都将更容易被捕获。正如前面提到的，相反，工作量证明具有规模不经济，因为它的物理操作和能源使用的规模总是有当地的政治限制，廉价的发电自然分布在全球各地，池实际上不控制区块生产，而且自2009年以来，该行业一直在不断轮换参与者。
 
-**Staking pools suffer unrestricted economies of scale:** Just as the banking system, the staking industry will be dominated by 3 or 4 cartelized entities. This is because capital inside Ethereum may flow with no local or real world restrictions. These economies of scale will favor a few large centralized pools, managed by financial institutions, who will be able to negotiate lower fees with NOs, always have more capital for marketing and distribution, and present the best solvency guarantees to their stake depositors, all this reinforcing their cartelization. This makes it much easier than in proof of work to concentrate capital and thus control of the network. Once pools achieve large scales, they will be even more capturable in any jurisdiction. As mentioned before, to the contrary, proof of work has diseconomies of scale because it will always have local political constraints for the size of its physical operations and energy use, cheap electricity generation is naturally distributed around the globe, pools actually do not control block production, eand the industry has been constantly rotating its players since 2009.
+**赌注池和验证者必须一直在线:** 事实上，权益证明的设计有许多ETC工作证明没有的限制，比如锁定存款，活罚，以及大幅削减，这使得在法律变化或地缘政治问题时很难退出系统重新安置或隐藏。当中国在2021年突然禁止比特币挖矿时，大部分哈希币在几周内转移到哈萨克斯坦、巴拉圭和加拿大等新地点。不仅如此，目前，即使制裁仍在实施，中国已经使近20%的份额重新成为比特币哈希率的主要参与者，证明矿工可以在雷达下操作。ETC也是如此。但是，一旦权益证明验证器基础设施到位，在需要时退出、移动、隐藏和重新进入网络是非常困难和昂贵的。这将锁定池和验证器，迫使它们遵守所处理的任何司法管辖区。
 
-**Staking pools and validators must be online all the time:** The fact that the design of proof of stake has many restrictions that ETC's proof of work does not, such as locked deposits, liveness penalties, and slashing, makes it very difficult to exit the system to relocate or hide in case of legal changes or geopolitical problems. When China suddenly prohibited Bitcoin mining in 2021, the majority of the hashrate moved to new locations, such as Kazakhstan, Paraguay, and Canada, in a matter of weeks. Not only that, but currently, even with the sanctions still in place, China has re-emerged as a leading BTC hashrate player with nearly 20% share, proving that miners can fly under the radar. This is the case with ETC as well. But, once proof of stake validator infrastructure is in place, it is very difficult and costly to exit, move, hide, and re-enter the network whenever needed. This locks down pools and validators forcing them to comply with whatever jurisdictions they are dealing with.
+**在权益证明中，除了中心化和捕获池之外，没有其他选择:** 一旦权益证明池行业中心化，以太坊用户就没有追索权来进入最终可能由主导卡特尔之外的某些利益相关者处理的交易。由于上述原因，权益证明中的池化卡特尔必然对系统拥有近100%的控制权。在ETC的工作证明中，由于进入和退出是真正无许可的，没有惩罚，并且挖矿基地可能在世界上的任何地方，那么总是会有一组拥有足够份额的矿工，他们会很高兴地为可能无法由卡特尔和审查池处理的交易赚取费用。事实上，这些矿池和矿工实际上总是拥有很大的市场份额，因为他们的收入将始终高于被审查的矿池和矿工，使他们能够投资不断增长的基础设施和电力，从而击败被捕获的同行。在权益证明中，特殊利益捕获是一种好处，在工作量证明中则是一种严重的劣势。
 
-**In proof of stake, there is no alternative to centralized and captured pools:** Once the staking pool industry is centralized, there is no recourse by Ethereum users to enter transactions that could eventually be processed by some staker outside of the dominating cartels. For the reasons stated above, the pooling cartel in proof of stake will necessarily have nearly 100% control of the system. In ETC's proof of work, because entry and exit is truly permissionless, there are no penalties, and the mining base may be anywhere in the world, then there will always be a set of miners with sufficient share that will gladly earn the fees for transactions that may not be processed by cartelized and censoring pools. Indeed, these pools and miners will actually always have a significant market share because they will consistently earn more than the censored ones, enabling them to invest in ever growing infrastructure and electricity, thus outcompeting their captured peers. In proof of stake, special interest capture is a benefit, in proof of work it is a serious disadvantage.
+**工作量证明不具有工作量证明所具有的去中心化保证:** 工作量证明保证矿工和矿池可以随时更改，从一个地方迁移到另一个地方，并随时退出和进入网络，因为它具有权益证明所不具有的两个保证:它实现了共识，而无需与世界上任何人进行验证，除非在最新的区块中验证工作证明;它实现了自由进入和退出，而无需与世界上任何人进行验证，除非只需检查网络上完成的大部分工作。权益证明是一种系统，其中权益者、池和验证者被锁定在各自的位置上，由于其如上所述的设计限制，很容易捕获和审查，并且它不提供工作量证明所提供的无许可链选择焦点。这表明这两个系统是多么不同，工作量证明是区块链行业的真正发明。权益证明只是传统的中心化银行系统，但经过了重新架构，使其看起来去中心化。
 
-**Proof of stake does not have the decentralization guarantees that proof of work has:** Proof of work guarantees that miners and mining pools may change all the time, migrate from place to place, and exit and enter the network whenever they please because it has the two guarantees that proof of stake does not have: It enables consensus without having to check with anyone in the world except by just verifying the proof of work in the latest block, and it enables free entry and exit without having to check with anyone in the world except by just checking the most work done on the network. Proof of stake is a system where stakers, pools, and validators are locked in their places and easy to capture and censor due it its design restrictions as described above, and it doesn't provide the permissionless chain selection focal point that proof of work does. This shows how different both systems are and that proof of work was the real invention of the blockchain industry. Proof of stake is just the traditional centralized banking system but reframed to make it look decentralized.
+Nick Szabo的文章“[可信第三方是安全漏洞](https://nakamotoinstitute.org/trusted-third-parties/)”解释了为什么可信第三方会增加网络和计算系统的风险。这创造了激励机制，让像[中本聪](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)和[哈尔芬尼](https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist))这样的人可以构建去中心化的点对点系统，而POW是解决这个问题的最佳发明。
 
-Nick Szabo's essay "[Trusted Third Parties are Security Holes](https://nakamotoinstitute.org/trusted-third-parties/)" explained why trusted third parties were hazards that increased the risk to networks and computing systems. This created incentives so that people like [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) and [Hal Finney](https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist)) could build decentralized peer-to-peer systems, and POW has been the best invention to solve this problem.
+然而，以太坊的权益证明可能会产生相反的激励:随着他们继续通过添加修复程序和补丁来关闭系统中的无数安全漏洞来构建系统，他们最终会得到一组集中的验证器，就像银行一样，唯一的区别是数据库将在这些验证器之间完全复制。
 
-However, the reverse incentives will likely occur with Ethereum's proof of stake: As they continue building the system by adding fixes and patches to close the myriad of security holes that it has, they will end up with a set of centralized validators, just like banking, and the only difference will be that the database will be completely replicated among these validators. 
+然后，当这些卡特尔化的池和节点运营商意识到，他们可能会因为彼此认识、有相同的特殊利益、都是同一个国家支持的监管框架中的伙伴而相互信任时，那么有一天他们会对自己说:“如果我们仅仅通过使用自己的数据中心和云服务就可以降低成本、提高效率，那么为什么我们要在公共节点上复制数据、锁定这么多资本?”
 
-Then, when these cartelized pools and node operators realize that they may trust each other because they know each other, have the same special interests, and are all buddies in the same state sponsored regulatory framework, then one day they will say to themselves "why do we replicate the data in public nodes, locking so much capital in staking, if we can reduce costs and be more efficient just by using our own data centers and cloud services?". 
+到那时，世界将意识到，权益证明只是一种缓慢、乏味和复杂的方式，一点一点地重建一个新的集中式银行系统，没有人会注意到。
 
-This is when the world will realize that proof of stake was just a slow, tedious, and complexity-obfuscated way of re-building a new centralized banking system, bit by bit, without anyone noticing.
-
-Thus, in the end, their glorified "[cryptoeconomic](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51)" pseudoscience will drive the system to total centralization.
+因此，最终，他们被美化的“[加密经济学](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51)”的伪科学将推动系统完全集中。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC内容，请访问: https://ethereumclassic.org
 
