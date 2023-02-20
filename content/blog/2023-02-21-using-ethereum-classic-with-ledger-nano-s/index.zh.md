@@ -181,31 +181,31 @@ https://www.ledger.com/start
 
 ## 11. 连接Ledger Live手机应用程序到您的账本
 
-Now that you have your Ledger Live on your computer installed and associated with your Ledger Nano S device, you may also set up and use the Ledger Live app on your phone.
+现在，您已经在您的计算机上安装了Ledger Live，并与Ledger Nano S设备关联，您还可以在您的手机上设置和使用Ledger Live应用程序。
 
-To start, download Ledger Live on your phone. Then, press “Get started” and select “Yes, I do” when the app asks you if you own a Ledger.
+首先，在你的手机上下载Ledger Live。然后，当应用程序询问你是否拥有一个账本时，按”开始”并选择 “是的，我拥有”（“Yes, I do”）。
 
-In the next screen, select “Set up my ledger”. Then, you will see instructions on what to do on you computer Ledger Live app.
+在下一个界面中，选择“设置我的账本”。然后，您将看到有关在您计算机Ledger Live应用程序的说明。
 
 ![链接Ledger Live手机app.](./22.png)
 
-On your Ledger Live on your computer, open the settings menu on the top right hand corner of the screen. Then, select the Accounts tab on the top menu of the settings page.
+在计算机上的Ledger Live上，打开屏幕右上角的设置菜单。然后，选择设置页面顶部菜单上的帐户选项卡。
 
-Inside the accounts section, press the “Export” button to show a QR code in the next screen.
+在账户部分，按下“导出”按钮，在下一个界面中显示二维码。
 
 ![导出](./23.png)
 
-When you see the QR code on your computer screen, get the phone app and press the “I am ready to scan” button.
+当您在电脑屏幕上看到二维码时，打开手机应用程序，按下“我准备扫描”按钮。
 
-Scan the QR code on your computer screen to synchronize the Ledger Live phone app with your computer app.
+扫描计算机屏幕上的QR码，将Ledger Live手机应用程序与计算机应用程序同步。
 
 ![扫描](./24.png)
 
-Once it synchronizes, the Ledger Live phone app will show you your ETC account on the phone and the option to import settings.
+一旦它同步，Ledger Live手机应用程序将向您显示您手机上ETC帐户和导入设置的选项。
 
-Press “Import” to set up your ETC account on your phone.
+按“导入”键即可您手机上设置您的ETC账户。
 
-After a while, your Ledger Live phone app will show the same account as on your computer.
+一段时间后，您的Ledger Live手机应用程序将显示与计算机上相同的账户。
 
 ![导入](./25.png)
 
