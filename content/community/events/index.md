@@ -4,6 +4,8 @@ contribute: true
 title: Events
 seo: An overview of real world and virtual Ethereum Classic related events. ETC Summit and the weekly Community Call are welcome to all!
 contributors:
+  - IstoraMandiri
+  - bobsummerwill
   - TheCrowbill
 ---
 
