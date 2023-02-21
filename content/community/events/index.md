@@ -4,8 +4,7 @@ contribute: true
 title: Events
 seo: An overview of real world and virtual Ethereum Classic related events. ETC Summit and the weekly Community Call are welcome to all!
 contributors:
-  - IstoraMandiri
-  - bobsummerwill
+  - TheCrowbill
 ---
 
 Magic happens when people come together and share ideas, and participants throughout the ETC community have spontaneously organized to form real life and online gatherings to focus their attention on improving Ethereum Classic.
