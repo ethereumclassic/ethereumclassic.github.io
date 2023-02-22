@@ -370,9 +370,6 @@ items:
       Delta-Exchange_Perp:
         __link: https://www.delta.exchange/app/futures/trade/ETC/ETCUSDT
         __name: Delta Exchange
-      FTX_Perp:
-        __link: https://ftx.com/trade/ETC-PERP
-        __name: FTX
       Gate_Perp:
         __link: https://www.gate.io/futures_trade/USDT/ETC_USDT
         __name: Gate.io
