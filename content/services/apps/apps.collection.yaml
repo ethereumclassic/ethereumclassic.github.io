@@ -48,19 +48,19 @@
 ### END APP TEMPLATE
 #
 # ADD YOUR NEW APP HERE
- - title: ghostNFT
-   date: 2023-02-20
-   type: nfts
-   description: Empowering NFT collection creators and holders through cross-chain NFT collateralization
-   links:
-     - name: Launch App
-       link: https://app.nft.ghostchain.io/#/classic
-     - name: Website
-       link: https://nft.ghostchain.io/
-       icon: home
-     - name: Documentation
-       link: https://blog.ghostchain.io/wp-content/uploads/2022/12/ghostNFT_Litepaper.pdf
-       icon: book
+- title: ghostNFT
+  date: 2023-02-20
+  type: nfts
+  description: Empowering NFT collection creators and holders through cross-chain NFT collateralization
+  links:
+    - name: Launch App
+      link: https://app.nft.ghostchain.io/#/classic
+    - name: Website
+      link: https://nft.ghostchain.io/
+      icon: home
+    - name: Documentation
+      link: https://blog.ghostchain.io/wp-content/uploads/2022/12/ghostNFT_Litepaper.pdf
+      icon: book
 - title: Shiba Classic
   date: 2022-10-25
   type: other
