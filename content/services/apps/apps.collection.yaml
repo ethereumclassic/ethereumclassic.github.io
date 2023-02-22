@@ -51,40 +51,16 @@
  - title: ghostNFT
    date: 2023-02-20
    type: NFT
-#   image: ./images/project_name.jpg
-#   author: Author Name Here
-#   authorLink: https://author-website.com/
-#   verifiedContract: https://blockscout.com/etc/mainnet/address/0x0000000000000000000000000000000000000000/contracts
-#   # NOTE, openSource link MUST MEET https://en.wikipedia.org/wiki/The_Open_Source_Definition
-#   openSource: https://blockscout.com/etc/mainnet/address/0x0000000000000000000000000000000000000000/contracts
-#   audit: https://example.com
-#   testSuite: https://example.com
-#   ipfsFrontend: https://example.com
    description: Empowering NFT collection creators and holders through cross-chain NFT collateralization
    links:
-#     - name: Launch App
-#       link: https://app.example.com
+     - name: Launch App
+       link: https://app.nft.ghostchain.io/#/classic
      - name: Website
        link: https://nft.ghostchain.io/
        icon: home
      - name: Documentation
        link: https://blog.ghostchain.io/wp-content/uploads/2022/12/ghostNFT_Litepaper.pdf
        icon: book
-#     - name: Github
-#       link: https://github.com/example
-#       icon: github
-#     - name: Twitter
-#       link: https://twitter.com/example
-#       icon: twitter
-#     - name: Discord
-#       link: https://discord.gg/example
-#       icon: discord
-#     - name: Telegram
-#       link: https://t.me/example
-#       icon: telegram
-#     - name: Medium
-#       link: https://medium.com/example
-#       icon: medium
 - title: Shiba Classic
   date: 2022-10-25
   type: other
