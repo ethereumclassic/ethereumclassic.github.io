@@ -50,7 +50,7 @@
 # ADD YOUR NEW APP HERE
  - title: ghostNFT
    date: 2023-02-20
-   type: NFT
+   type: nfts
    description: Empowering NFT collection creators and holders through cross-chain NFT collateralization
    links:
      - name: Launch App
