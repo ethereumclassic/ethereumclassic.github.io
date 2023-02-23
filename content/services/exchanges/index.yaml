@@ -480,3 +480,11 @@ items:
       Tradim:
         __link: https://tradim.io/
         __name: Tradim
+  Other:
+    __type: buttons
+    title: Other Exchange Services
+    description: The following services may not be decentralized.
+    items:
+      BestChange:
+        __link: https://www.bestchange.com/etc-to-btc.html
+        __name: BestChange
