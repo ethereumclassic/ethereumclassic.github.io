@@ -82,7 +82,7 @@ As an example of how important trust minimization is, and how it had been the ce
 
 ![Trusted third party mentioned in the diagram.](./2.png)
 
-A trusted third party is shown in the top part of the diagram to illustrate the traditional banking system. No trusted third party is shown in the bottom part as an indication of a more secure model.*
+A trusted third party is shown in the top part of the diagram to illustrate the traditional banking system. No trusted third party is shown in the bottom part as an indication of a more secure model.
 
 **In the Conclusion:**
 
