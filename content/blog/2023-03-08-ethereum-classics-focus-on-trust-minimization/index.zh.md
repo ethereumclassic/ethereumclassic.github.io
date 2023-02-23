@@ -48,7 +48,7 @@ At the operating network layer, the way of achieving this level of global distri
 
 ## Satoshi Nakamoto’s Focus on Trust Minimization
 
-As an example of how important trust minimization is, and how it had been the central goal of Cypherpunks when building systems, Satoshi Nakamoto mentioned trust minimization directly or indirectly 14 times in the Bitcoin white paper.
+As an example of how important trust minimization is, and how it had been the central goal of Cypherpunks when building systems, Satoshi Nakamoto mentioned trust minimization directly or indirectly 14 times in the [Bitcoin white paper](https://bitcoin.org/bitcoin.pdf).
 
 **Mention of trust minimization in the abstract:**
 
@@ -82,7 +82,7 @@ As an example of how important trust minimization is, and how it had been the ce
 
 ![Trusted third party mentioned in the diagram.](./2.png)
 
-A trusted third party is shown in the top part of the diagram to illustrate the traditional banking system. No trusted third party is shown in the bottom part as an indication of a more secure model.*
+A trusted third party is shown in the top part of the diagram to illustrate the traditional banking system. No trusted third party is shown in the bottom part as an indication of a more secure model.
 
 **In the Conclusion:**
 
