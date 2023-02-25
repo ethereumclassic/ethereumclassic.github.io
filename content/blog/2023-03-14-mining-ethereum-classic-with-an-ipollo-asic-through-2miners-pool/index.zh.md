@@ -171,4 +171,8 @@ https://etc.2miners.com/account/0x69f0da9aC5196e8817af39a2F1E0d43209946039
 
 **Thank you for reading this article!**
 
+To check out the various iPollo ASIC miner models for ETC go to: https://ipollo.com/collections/etc-miner
+
+To check out the 2miners mining pool for ETC go to: https://etc.2miners.com
+
 To learn more about ETC please go to: https://ethereumclassic.org
