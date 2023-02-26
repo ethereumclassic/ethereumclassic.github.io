@@ -105,7 +105,7 @@ This period lasted until September 15th of 2022.
 
 ![The ETH migration to Proof of Stake.](./8.png)
 
-Starting in September 15th of 2022, Ethereum cannot be described as a decentralized project because it migrated to Proof of Stake. Indeed, the moment it migrated, 51% of the blocks were censored by mega-staking pools to comply with international sanctions imposed by the U.S. Office of Foreign Assets Control (OFAC). And, a few months later up to 70% of its blocks were censored.
+Beginning September 15th of 2022, Ethereum cannot be described as a decentralized project because it migrated to Proof of Stake. Indeed, the moment it migrated, 51% of the blocks were censored by mega-staking pools to comply with international sanctions imposed by the U.S. Office of Foreign Assets Control (OFAC). A few months later, up to 70% of its blocks were censored.
 
 As said before, PoS depends on large and entrenched pool operators that control the network. This, together with the control and influence that the Ethereum Foundation had from before, and the fact that the developers have incredible clout in the decisions about the protocol (for example, changing the supply of the token 6 times in its history) make it a centralized project dependent on others from the units’ of value perspective.
 
