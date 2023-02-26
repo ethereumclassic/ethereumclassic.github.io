@@ -40,7 +40,7 @@ https://ipollo.com/products/ipollo-v1-mini-se-plus
 Amazon (USA):
 https://www.amazon.com/dp/B0BHPLSX7V
 
-Disclaimer: we have no relationship with iPollo or Amazon, nor do we get any commissions or affiliate fees.
+*Disclaimer: we have no relationship with iPollo or Amazon, nor do we get any commissions or affiliate fees.*
 
 ![Buy at iPollo or Amazon.](./1.png)
 
@@ -59,7 +59,7 @@ The other three components that need to be provided by you to set up the mining 
 2. A local LAN, which is your internet connection from home or office (we use Cox in this example)
 3. Your computer so you can manage the iPollo ASIC app from your browser
 
-Because we use a MacBook Pro computer we needed to connect the iPollo to our local LAN using the Ethernet, but if you use a Windows computer, you may find the iPollo rig over the WiFi networks list in your PC.
+*Note: Because we use a MacBook Pro computer we needed to connect the iPollo to our local LAN using the Ethernet, but if you use a Windows computer, you may find the iPollo rig over the WiFi networks list in your PC.*
 
 ![iPollo unboxing.](./2.png)
 
