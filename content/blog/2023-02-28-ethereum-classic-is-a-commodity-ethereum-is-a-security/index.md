@@ -67,7 +67,7 @@ As said before, although both ETH and ETC may be used purely as units of exchang
 
 For the same reasons that Ethereum is now a common enterprise, it is also a system where the expectation of the success of the system, and thus its future profits, are derived from the efforts of others. 
 
-These “others” will be perfectly identifiable, as they will be 4 or 5 large staking pools and the Ethereum Foundation, and all together will act as a single enterprise. 
+These “others” are easily identifiable as they will be the four or five large staking pools and the Ethereum Foundation who, all together, will act as a single enterprise. 
 
 The PoS system is not a free merit system as PoW but a totally collaborative partnership between the pools and the validators, and the validators are essentially the same as the pools because they are their submissive contractors.
 
