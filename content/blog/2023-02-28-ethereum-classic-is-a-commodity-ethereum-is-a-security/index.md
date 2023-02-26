@@ -49,7 +49,7 @@ Since its migration to proof of stake in September of 2022, ETH is a common ente
 
 These pools may filter who may stake and/or who may be part of their validator set, or may be the node operators themselves who validate blocks and transactions. 
 
-These few entities will be static, meaning they will seldom rotate from the industry because of the moat in their businesses, will act in coordination with the Ethereum Foundation, and all together combined will clearly form a common enterprise directing the future of the system.
+These few entities will remain mostly static. Seldom will any rotate away from the industry because of the moat inherent to their business models. They will act in conjunction with the Ethereum Foundation and, coordinating together, will clearly form a common enterprise directing the future of the system.
 
 This level of centralization and the lack of the proof of work cryptographic stamps when producing blocks completely eliminate the chain selection point, thus the attributes of free exit and entry, permissionlessness, censorship resistance, and immutability in Ethereum, making it a common enterprise with traditional centralized features and controls.
 
