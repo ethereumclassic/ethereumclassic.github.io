@@ -71,7 +71,7 @@ These “others” are easily identifiable as they will be the four or five larg
 
 The proof of stake system used by ETH is not a free merit system like that found in systems using proof of work. It is, rather, a collaborative relationship wherein the validators are not equal, independent free actors because they are essentially contractors subordinate to the pools.
 
-In the system, validators divide their tasks on a per block basis where one produces a block, then sends it to the other validators who vote on the block, and then send it to the the rest of the network who must accept them without objection.
+In the ETH system, validators divide their tasks on a per-block basis where one produces a block, then sends it to the other validators who vote on the block, then send it to the rest of the network who must accept it without objection.
 
 Because ETC is PoW and decentralized, miners may pop up or leave whenever they want from anywhere in the world, compete to build blocks in their complete isolation, send them to the rest of the network for verification, and get paid based on their sole merit. No other filters or conditions exist. 
 
