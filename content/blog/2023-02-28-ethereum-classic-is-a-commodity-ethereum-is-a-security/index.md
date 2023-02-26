@@ -111,7 +111,7 @@ As said before, PoS depends on large and entrenched pool operators that control 
 
 ![BTC remains a commodity and ETC as well.](./6.png)
 
-In the meantime, Bitcoin has always maintained its status as a commodity as determined by the CFTC in 2015, and ETC is functionally a commodity, just like BTC, because it has exactly the same consensus design with its decentralist guarantees.
+In the meantime, Bitcoin has always maintained its status as a commodity as determined by the CFTC in 2015. ETC is functionally a commodity, just like BTC, because it has exactly the same consensus design with its decentralist guarantees.
 
 ## Conclusion
 
