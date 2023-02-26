@@ -55,7 +55,7 @@ This level of centralization in Ethereum combined with the lack of cryptographic
 
 Ethereum Classic, however, remains a commodity because it uses and will continue to use the decentralized proof of work method of consensus for the foreseeable future. 
 
-Therefore, there aren’t and will never be enterprises or groups who will control ETC, and mining and owning the coin will always be totally separate activities. 
+Therefore, there are not and can never be enterprises or groups that control ETC. Mining the coin and owning the coin will always be totally separate activities.
 
 ETC has no foundation directing the roadmap of the system, and producing or verifying blocks are free, decentralized, and merit based activities.
 
