@@ -99,7 +99,7 @@ From here, the project became a truly decentralized, proof of work based, public
 
 ![The Ethereum split.](./7.png)
 
-Even when Ethereum split from the ETC mainnet in 2016 due to the DAO hard fork, ETH kept its decentralization because it remained as a proof of work blockchain.
+Even after Ethereum split from the ETC mainnet in 2016 due to the TheDAO hard fork, ETH kept its decentralization because it remained a proof of work blockchain.
 
 This period lasted until September 15th of 2022.
 
