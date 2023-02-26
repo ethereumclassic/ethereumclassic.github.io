@@ -1,5 +1,5 @@
 ---
-title: "Using Ethereum Classic With MyCrypto"
+title: "通过MyCrypto使用以太坊经典"
 date: 2023-03-01
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,149 +8,145 @@ linkImage: ./1.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期视频:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o4n6pqRyA1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-MyCrypto is a special kind of wallet app because it offers multiple services and even connects to other wallets.
+MyCrypto是一种特殊的钱包应用，因为它提供多种服务，甚至可以连接到其他钱包。
 
-In this post we will explain how to connect MyCrypto to the Ethereum Classic (ETC) network, see wallet information, reveal private keys, check transactions, send ETC to other addresses, create new addresses, and just view address information without connecting the private keys. 
+在这篇文章中，我们将解释如何将MyCrypto连接到以太坊经典(ETC)网络，查看钱包信息，显示私钥，检查交易，将ETC发送到其他地址，创建新地址，以及只查看地址信息而不连接私钥。
 
-![ETC and MyCrypto.](./1.png)
+![ETC和MyCrypto.](./1.png)
 
-## 1. Download MyCrypto
+## 1.下载MyCrypto
 
-The first step is to download MyCrypto into your computer by going to:
+将MyCrypto下载到电脑里的第一步便是访问
 
 https://mycrypto.com/
 
-Then open it.
+然后打开该链接。
 
-![Download MyCrypto.](./2.png)
+![下载MyCrypto.](./2.png)
 
-## 2. Change the default network to Ethereum Classic
+## 2.将默认网络设置成以太坊经典
 
-The default network in MyCrypto is Ethereum. To use it with ETC you need to change the network. To do so follow these steps:
+MyCrypto的默认网络是以太坊。要在ETC上使用它，您需要改变网络。要做到这一点，请遵循以下步骤:
 
-1. Click on “Change Network” at the bottom of the left menu.
-2. On the same menu, a list of networks will appear where you will see that Ethereum is selected.
-3. Click on Ethereum Classic.
-4. You will note at the bottom of the left menu that ETC is now the default chain.
+1. 点击左侧菜单底部的“更改网络”。
+2. 在同一菜单上，将出现一个网络列表，您将看到以太坊被选中。
+3. 点击以太坊经典。
+4. 您将在左侧菜单底部注意到ETC现在是默认链。
 
-![Chagnge default network to ETC.](./3.png)
+![将默认网络设置成以太坊经典](./3.png)
 
-## 3. See wallet information
+## 3.查看钱包信息
 
-To see the information of your ETC wallets, you need to connect the wallet type you use (Ledger, Trezor, Parity Signer, raw private key, keystore file, or mnemonic phrase) by clicking on the appropriate button.
+要查看您的ETC钱包的信息，您需要通过单击相应的按钮连接您使用的钱包类型(Ledger, Trezor, Parity Signer，原始私钥，keystore文件或助记短语)。
 
-When you connect your wallet from any of the types you use, you will land on the same default page for all of them.
+当您连接您的钱包时，您将登陆到相同的默认页面。
 
-To simply see wallet information of any address, click on the top menu the button that says “Wallet Info”.
+要简单地查看任何地址的钱包信息，请单击顶部菜单上的“钱包信息”按钮。
 
-![Address information.](./4.png)
+![地址信息](./4.png)
 
-## 4. Reveal private keys
+## 4. 显示私钥
 
-To reveal the private keys of any of your ETC addresses from any type of wallet you use, select the type of wallet and connect the address you wish to use.
+要从您使用的任何类型的钱包中显示您的任何ETC地址的私钥，请选择钱包类型并连接您希望使用的地址。
 
-Then, click on “Wallet Info”.
+然后，点击“钱包信息”。
 
-You will note that there is a field with the hidden private key for your address. Click on the eye icon on the right of that field to reveal your private key for that address.
+您将注意到有一个字段包含您的地址的隐藏私钥。单击该字段右侧的眼睛图标，显示该地址的私钥。
 
-Below you will see that a QR code for that address is also revealed.
+![您地址的私钥](./5.png)
 
-![The private key of your address.](./5.png)
+## 5.检查交易
 
-## 5. Check transactions
+要查看您使用MyCrypto进行的最近交易的列表，请选择您希望使用的钱包类型并连接您想要检查交易的地址。
 
-To see a list of your recent transactions that you made using MyCrypto, select the wallet type you wish to use and connect the address you want to check transactions for.
+在下一个屏幕中，选择顶部菜单上的“Recent Transactions”（最近交易）按钮。
 
-In the next screen, select the “Recent Transactions” button on the top menu.
+在下一个屏幕中，您将看到该地址的最近交易。
 
-In the next screen you will see the recent transactions for that address.
+![交易列表](./6.png)
 
-![Transaction list.](./6.png)
+## 6.发送ETC到其他地址
 
-## 6. Send ETC to other addresses
+要将ETC发送到其他地址，请选择您将使用的钱包类型。然后，点击顶部菜单上的“发送以太币和代币”按钮。
 
-To send ETC to other addresses, select the wallet type you will use. Then, click on the “Send Ether & Tokens” button on the top menu.
+在下一个屏幕中，将您希望发送ETC的地址粘贴在“to address”字段中，并设置您希望发送的金额。
 
-In the next screen paste the address you wish to send ETC to in the “To Address” field and set the amount you wish to send.
+然后，按“发送交易”。
 
-Then, press “Send Transaction”. 
+![发送ETC](./7.png)
 
-In the next step, you need to check the transaction details. If they are ok, then press “Send”.
+在下一个屏幕中，MyCrypto将向您显示带有交易信息的消息，并为您提供验证或检查您发送的交易的链接。
 
-![Send ETC.](./7.png)
+![交易已发送](./8.png)
 
-In the next screen, MyCrypto will show you a message with the transaction information and give you links to verify or check your sent transaction. 
+## 7.使用密钥存储文件创建更多地址
 
-![Transaction sent.](./8.png)
+在MyCrypto中，您可以使用您使用的钱包类型(例如分类帐，Trezor，奇偶校验签名者，keystore文件或助记短语)创建更多地址。要使用Ledger、Trezor或Parity签名者创建更多地址，请遵循各自产品的指导方针。要使用密钥存储文件创建一个新的钱包，请执行以下操作:
 
-## 7. Create more addresses with keystore files
+1. 在左侧菜单中选择“创建新钱包”。
+2. 在下一个屏幕中选择“Generate a Wallet”（生成钱包）。
+3.在下一步中，选择“Generate a Keystore File”（生成密钥存储文件）。
 
-In MyCrypto you may create more addresses using the wallet types you use (e.g. Ledger, Trezor, Parity Signer, keystore file, or mnemonic phrase). To create more addresses with Ledger, Trezor, or Parity Signer follow the respective product’s guidelines. To create a new wallet using a keystore file, do the following:
+![创建更多地址](./9.png)
 
-1. Select “Create New Wallet” on the left menu.
-2. In the next screen select “Generate a Wallet”.
-3. In the next step, select “Generate a Keystore File”.
+4. 在下一个屏幕中，MyCrypto将要求您为这个特定的密钥存储库文件创建一个12个字符的密码(请记住将此密码记录在安全的地方，因为没有它就无法访问您的地址)。
+5. 在下一步中，当您准备好时，按“下载密钥存储库文件”。
+6. 下一步是将文件保存到计算机上。按“保存”。
 
-![Creating more addresses.](./9.png)
+现在，您在计算机上的一个新的密钥存储库文件中有了一个新地址。
 
-4. In the next screen, MyCrypto will ask you to create a 12 character password for this particular keystore file (remember to record this password somewhere safe as without it there is no way to access your address).
-5. In the next step, press “Download Keystore File” when you are ready.
-6. The next step is to save the file on your computer. Press “Save”.
+![已保存密钥存储文件](./10.png)
 
-Now you have a new address in a new keystore file on your computer.
+### 额外的纸质钱包
 
-![Keystore file saved.](./10.png)
+作为一个选项，MyCrypto会自动创建并显示与密钥存储库文件相关联的纸质钱包。如果您希望使用此地址作为纸钱包，请按“保存纸钱包”。
 
-### Extra Paper Wallet
+在下一步中，将纸质钱包保存在计算机上，就像之前保存密钥存储库文件一样。
 
-As an option, MyCrypto automatically creates and shows you a paper wallet associated with your keystore file. If you wish to use this address as a paper wallet, then press “Save Paper Wallet”.
+如果您不愿意为这个地址存储纸质钱包，而只使用密钥存储库文件，那么您可以丢弃这个页面并继续使用MyCrypto。
 
-In the next step, save the paper wallet on your computer as you saved your keystore file before.
+![纸质钱包](./11.png)
 
-If you prefer not to store a paper wallet for this address and only use the keystore file, then you can just discard this page and move on to use MyCrypto.
+## 8.生成一个新的秘密密码
 
-![Paper wallet.](./11.png)
+与使用密钥存储文件创建新地址相同，可以使用助记短语(也称为秘密密码短语)创建更多地址。
 
-## 8. Generate a new secret passphrase
+要生成一个新的12个单词的秘密密码，请执行以下操作:
 
-In the same way that you may create a new address using a keystore file, you may create more addresses with a mnemonic phrase, also known as secret passphrase.
+1. 在左侧菜单中选择“创建新钱包”。
+2. 在下一个屏幕中选择“Generate a Wallet”（生成一个钱包）。
+3. 在下一步中，选择“生成一个助记短语”。
 
-To generate a new 12 word secret passphrase do the following:
+![新的秘密短语](./12.png)
 
-1. Select “Create New Wallet” on the left menu.
-2. In the next screen select “Generate a Wallet”.
-3. In the next step, select “Generate a Mnemonic Phrase.
+4. 在下一个屏幕中，MyCrypto将向您显示新的12个单词的秘密密码。把它写下来，在初始设置后，把它放在一个安全的地方，因为这是唯一的方法来控制和恢复您的地址。按“确认短语”。
+5. 在下一个屏幕中，选择所提供表单中单词的正确顺序，以确认它们的书写正确。
+6. 完成后，按“确认短语”。
 
-![New secret passphrase.](./12.png)
+![秘密短语确认](./13.png)
 
-4. In the next screen, MyCrypto will show you your new 12 word secret passphrase. Write it down and, after the initial setup, put it away in a safe place as it is the only way to control and recover your addresses. Press “Confirm Phrase”.
-5. In the next screen, select the correct order of the words in the form provided to confirm that you have written them correctly.
-6. Once completed, press “Confirm Phrase”.
+## 9.只查看地址而不使用私钥
 
-![Passphrase confirmed.](./13.png)
+如要查看地址的简单资料，例如资产及结余，你可以在没有私钥的情况下使用该地址。
 
-## 9. Just view addresses without using the private keys
+要查看地址而不使用私钥去“查看和发送”在MyCrypto的左侧菜单。
 
-To view an address’ simple information such as the assets and balances, you may use it without your private key.
+然后，输入你想查看的地址，按“查看地址”。
 
-To just view addresses without using the private keys go to “View & Send” in the left menu of MyCrypto.
+在下一个屏幕中，您将看到地址信息。
 
-Then, enter the address you wish to check information for and press “View Address”.
-
-In the next screen you will see the address information.
-
-![Just vew adress.](./14.png)
+![只查看地址](./14.png)
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期内容！**
 
-To use ETC with MyCrypto please go to: https://mycrypto.com
+通过MyCrypto使用ETC，请访问: https://mycrypto.com
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，请访问: https://ethereumclassic.org
