@@ -53,7 +53,7 @@ These few entities will remain mostly static. Seldom will any rotate away from t
 
 This level of centralization in Ethereum combined with the lack of cryptographic stamps when producing blocks without proof of work completely eliminates the chain selection point, thus nullifying the attributes of free exit and entry, permissionlessness, censorship resistance, and immutability without which Ethereum becomes a common enterprise with traditional centralized features and controls.
 
-ETC remains a commodity because it is and will remain Proof of Work (PoW) for the foreseeable future. 
+Ethereum Classic, however, remains a commodity because it uses and will continue to use the decentralized proof of work method of consensus for the foreseeable future. 
 
 Therefore, there aren’t and will never be enterprises or groups who will control ETC, and mining and owning the coin will always be totally separate activities. 
 
