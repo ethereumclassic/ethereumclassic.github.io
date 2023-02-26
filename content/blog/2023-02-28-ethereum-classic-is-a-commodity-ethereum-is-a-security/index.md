@@ -75,7 +75,7 @@ In the ETH system, validators divide their tasks on a per-block basis where one 
 
 Because ETC uses proof of work and is, therefore, decentralized, miners may pop up or leave whenever they want from anywhere in the world, compete to build blocks in complete isolation, send blocks produced to the rest of the network for verification, and get paid based on their sole merit. No other filters or conditions exist. 
 
-In ETC, the same reasons why it was a commodity before remains today: There is no common enterprise, therefore the future value of the token is just determined by future general adoption by the market, but not from a defined and collaborative group of centralized pool operators or managers as in Ethereum.
+For ETC, the same reasons why it was deemed a commodity in 2015 remain valid today: There is no common enterprise, therefore the future value of the token is solely dependent upon future general adoption by the market, not by the activities of a defined collaborative group of centralized operators or managers as is now the case with Ethereum.
 
 ## A Historical Perspective of ETC’s and ETH’s Legal Status
 
