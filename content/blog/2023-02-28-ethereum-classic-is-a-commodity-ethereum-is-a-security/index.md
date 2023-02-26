@@ -65,7 +65,7 @@ As said before, although both ETH and ETC may be used purely as units of exchang
 
 ### 4. Derived from the efforts of others: 
 
-For the same reasons that Ethereum is now a common enterprise it is also a system where the expectation of the success of the system, and thus its future profits, are derived from the efforts of others. 
+For the same reasons that Ethereum is now a common enterprise, it is also a system where the expectation of the success of the system, and thus its future profits, are derived from the efforts of others. 
 
 These “others” will be perfectly identifiable, as they will be 4 or 5 large staking pools and the Ethereum Foundation, and all together will act as a single enterprise. 
 
