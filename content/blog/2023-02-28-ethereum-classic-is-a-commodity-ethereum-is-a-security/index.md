@@ -57,7 +57,7 @@ Ethereum Classic, however, remains a commodity because it uses and will continue
 
 Therefore, there are not and can never be enterprises or groups that control ETC. Mining the coin and owning the coin will always be totally separate activities.
 
-ETC has no foundation directing the roadmap of the system, and producing or verifying blocks are free, decentralized, and merit based activities.
+ETC has no foundation directing the roadmap of the system. Producing or verifying blocks are free, decentralized, and merit-based activities.
 
 ### 3. A reasonable expectation of profit: 
 
