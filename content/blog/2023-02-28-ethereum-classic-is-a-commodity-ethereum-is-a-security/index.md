@@ -16,7 +16,7 @@ linkImage: ./eth-etc-howey-test-banner.png
 
 ## The Howey Test
 
-To determine whether a unit of value, contract, or transaction is a security the U.S. Securities and Exchange Commission (SEC) [uses](https://www.sec.gov/corpfin/framework-investment-contract-analysis-digital-assets) what is called the Howey test, which was the basis for a ruling by the Supreme Court in 1946 that defined what was security.
+To determine whether a unit of value, contract, or transaction is a security the U.S. Securities and Exchange Commission (SEC) [uses](https://www.sec.gov/corpfin/framework-investment-contract-analysis-digital-assets) what is called the Howey test, which was the basis for a ruling by the Supreme Court in 1946 that defined what is a security.
 
 Under the test, a unit of value, contract, or transaction qualifies as a security if it has the following elements:
 
