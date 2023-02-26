@@ -51,7 +51,7 @@ These pools may filter who may stake and/or who may be part of their validator s
 
 These few entities will remain mostly static. Seldom will any rotate away from the industry because of the moat inherent to their business models. They will act in conjunction with the Ethereum Foundation and, coordinating together, will clearly form a common enterprise directing the future of the system.
 
-This level of centralization and the lack of the proof of work cryptographic stamps when producing blocks completely eliminate the chain selection point, thus the attributes of free exit and entry, permissionlessness, censorship resistance, and immutability in Ethereum, making it a common enterprise with traditional centralized features and controls.
+This level of centralization in Ethereum combined with the lack of cryptographic stamps when producing blocks without proof of work completely eliminates the chain selection point, thus nullifying the attributes of free exit and entry, permissionlessness, censorship resistance, and immutability without which Ethereum becomes a common enterprise with traditional centralized features and controls.
 
 ETC remains a commodity because it is and will remain Proof of Work (PoW) for the foreseeable future. 
 
