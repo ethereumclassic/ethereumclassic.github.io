@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Is a Commodity, Ethereum Is a Security"
+title: "以太坊经典是一种商品，以太坊是一种证券"
 date: 2023-02-28
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,133 +8,132 @@ linkImage: ./eth-etc-howey-test-banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期视频:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gn7OO_qXhwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-## The Howey Test
+## Howey测试
 
-To determine whether a unit of value, contract, or transaction is a security the U.S. Securities and Exchange Commission (SEC) [uses](https://www.sec.gov/corpfin/framework-investment-contract-analysis-digital-assets) what is called the Howey test, which was the basis for a ruling by the Supreme Court in 1946 that defined what was security.
+为了确定一个价值单位、合同，或交易是否是证券，[美国证券交易委员会(SEC)](https://www.sec.gov/corpfin/framework-investment-contract-analysis-digital-assets)使用所谓的Howey测试，这是1946年最高法院裁定什么是证券的基础。
 
-Under the test, a unit of value, contract, or transaction qualifies as a security if it has the following elements:
+根据测试，如果一个价值单位、合同或交易具有以下要素，那么它就有资格成为证券:
 
-1. An investment of money
-2. In a common enterprise
-3. A reasonable expectation of profit
-4. Derived from the efforts of others
+1. 金钱投资
+2. 在一个普通企业中
+3. 合理的利润预期
+5. 源自其他人的努力
 
-Bitcoin (BTC) and Ethereum (ETH), and thus Ethereum Classic (ETC) after Ethereum split from it in 2016, were determined to [be commodities](https://www.cftc.gov/digitalassets/index.htm) by the Commodity Futures Trading Commission (CFTC) in 2015 because they were decentralized, therefore had no common enterprise directing them and their returns were not derived from the efforts of others.
+比特币(BTC)和以太坊(ETH)，以及以太坊在2016年从以太坊分离出来后的以太坊经典(ETC)，在2015年被商品期货交易委员会(CFTC)确定为[商品](https://www.cftc.gov/digitalassets/index.htm)，因为它们是去中心化的，因此没有共同的企业指导它们，它们的回报不是来自其他人的努力。
 
-The question is if Ethereum, now under its proof of stake (PoS) consensus mechanism, still qualifies as a commodity.
+问题是，以太坊现在在其权益证明(PoS)共识机制下，是否仍然有资格作为一种商品。
 
-## Comparing ETC and ETH Using the Howey Test
+## 使用Howey检验比较ETC和ETH
 
-![ETC, ETH, and the Howey test.](./1.png)
+![ETC,ETH,和Howey测试](./1.png)
 
-The table above serves to compare ETH and ETC as to how they fare with regards to the Howey test.
+上表用于比较ETH和ETC在Howey测试中的表现。
 
-As seen in the table, in our opinion Ethereum now passes the test, therefore should be categorized as a security, because it involves all four elements while ETC is still a decentralized project so it should remain a commodity.
+如表中所示，在我们看来，以太坊现在通过了测试，因此应该被归类为证券，因为它涉及所有四个元素。但是由于ETC仍然是一个去中心化的项目，因此它应该仍然是一种商品。
 
-In the following sections we explain our comparison and rationale.
+在下面的部分中，我们将解释我们的比较和基本原理。
 
-### 1. An Investment of Money:
+### 1.金钱投资:
 
-In the first element of the Howey test, it is clear that both ETH and ETC are an investment of money in a unit of value. Many people use both cryptocurrencies just as way to pay for things, thus as units of exchange rather than as investments, but for many others they are stores of value and ways of trading in the market for profit.
+在Howey测试的第一个元素中，很明显，ETH和ETC都是对一个价值单位的货币投资。许多人使用这两种加密货币只是作为一种支付方式，因此是一种交换单位，而不是投资。但对许多人来说，它们是价值储存和在市场上进行利润交易的方式。
 
-### 2. In a common enterprise: 
+### 2.在一个普通企业中:
 
-Since its migration to proof of stake in September of 2022, ETH is a common enterprise because proof of stake is centralized. The model uses capital instead of proof of work based mining to determine who produces blocks. This makes the staking business have strong economies of scale which inexorably concentrate the industry into very few and entrenched staking pools. 
+自2022年9月迁移到股权证明以来，ETH是一个常见的企业，因为股权证明是集中的。该模型使用资本而不是基于工作量证明的挖掘来确定谁生产区块。这使得押注业务具有强大的规模经济，不可避免地将该行业集中到极少数且根深蒂固的押注池中。
 
-These pools may filter who may stake and/or who may be part of their validator set, or may be the node operators themselves who validate blocks and transactions. 
+这些池可以过滤谁可能参与和/或谁可能是验证器集的一部分，或者可能是验证块和事务的节点操作符本身。
 
-These few entities will be static, meaning they will seldom rotate from the industry because of the moat in their businesses, will act in coordination with the Ethereum Foundation, and all together combined will clearly form a common enterprise directing the future of the system.
+这几个实体将是静态的，这意味着他们很少会从行业中轮换，因为他们业务的壕沟，他们将与以太坊基金会协调行动，所有这些结合起来将明显形成一个共同的企业，指导系统的未来。
 
-This level of centralization and the lack of the proof of work cryptographic stamps when producing blocks completely eliminate the chain selection point, thus the attributes of free exit and entry, permissionlessness, censorship resistance, and immutability in Ethereum, making it a common enterprise with traditional centralized features and controls.
+这种程度的中心化，以及在生产区块时缺乏工作量证明加密戳，完全消除了链的选择点，从而使以太坊具有自由进出、无许可、抗审查和不可更改的属性，使其成为具有传统中心化功能和控制的常见企业。
 
-ETC remains a commodity because it is and will remain Proof of Work (PoW) for the foreseeable future. 
+ETC仍然是一种商品，因为在可预见的未来，它仍然是工作量证明(PoW)。
 
-Therefore, there aren’t and will never be enterprises or groups who will control ETC, and mining and owning the coin will always be totally separate activities. 
+因此，不会也永远不会有企业或集团来控制ETC，挖矿和拥有比特币将永远是完全独立的活动。
 
-ETC has no foundation directing the roadmap of the system, and producing or verifying blocks are free, decentralized, and merit based activities.
+ETC没有指导系统路线图的基础，区块的生产或验证是自由的、去中心化的、基于价值的活动。
 
-### 3. A reasonable expectation of profit: 
+### 3.合理的利润预期:
 
-As said before, although both ETH and ETC may be used purely as units of exchange, they may also be used as a store of value for price appreciation, therefore both qualify as having a reasonable expectation of profit.
+如前所述，虽然ETH和ETC都可以纯粹用作交换单位，但它们也可以用作价格升值的价值储存，因此两者都有合理的利润预期。
 
-### 4. Derived from the efforts of others: 
+### 4. 源自其他人的努力: 
 
-For the same reasons that Ethereum is now a common enterprise it is also a system where the expectation of the success of the system, and thus its future profits, are derived from the efforts of others. 
+由于同样的原因，以太坊现在是一个普通的企业，它也是一个系统，在这个系统中，对系统成功的期望，以及它未来的利润，都来自于其他人的努力。
 
-These “others” will be perfectly identifiable, as they will be 4 or 5 large staking pools and the Ethereum Foundation, and all together will act as a single enterprise. 
+这些“其他人”将是完全可识别的，因为它们将是4或5个大型赌注池和以太坊基金会，所有这些都将作为一个单一的企业。
 
-The PoS system is not a free merit system as PoW but a totally collaborative partnership between the pools and the validators, and the validators are essentially the same as the pools because they are their submissive contractors.
+PoS系统不是像PoW那样的绩效系统，而是池和验证者之间的完全协作伙伴关系，验证者本质上与池相同，因为他们之间是承包商的关系。
 
-In the system, validators divide their tasks on a per block basis where one produces a block, then sends it to the other validators who vote on the block, and then send it to the the rest of the network who must accept them without objection.
+在系统中，验证者以每个区块为基础划分任务，其中一个生成一个区块，然后将其发送给对区块进行投票的其他验证者，然后将其发送给网络的其余部分，这些网络必须无异议地接受它们。
 
-Because ETC is PoW and decentralized, miners may pop up or leave whenever they want from anywhere in the world, compete to build blocks in their complete isolation, send them to the rest of the network for verification, and get paid based on their sole merit. No other filters or conditions exist. 
+因为ETC是PoW和去中心化的，矿工可以随时从世界任何地方出现或离开，在完全隔离的情况下竞争构建区块，将它们发送到网络的其他地方进行验证，并根据他们唯一的优点获得报酬。不存在其他过滤器或条件。
 
-In ETC, the same reasons why it was a commodity before remains today: There is no common enterprise, therefore the future value of the token is just determined by future general adoption by the market, but not from a defined and collaborative group of centralized pool operators or managers as in Ethereum.
+在ETC中，它以前是一种商品的原因今天仍然存在:没有共同的企业，因此代币的未来价值只是由市场未来的普遍采用来决定，而不是像以太坊那样由一个定义好的集中式池运营商或管理者组成的协作组来决定。
 
-## A Historical Perspective of ETC’s and ETH’s Legal Status
+## 以历史角度解读ETC和ETH法律地位
 
-![The crowdsale.](./2.png)
+![众筹](./2.png)
 
-From 2014 to 2016 both Ethereum and Ethereum Classic were one project, so we refer to them in this period as ETH/ETC. 
+从2014年到2016年，以太坊和以太坊经典都是一个项目，所以我们在这段时间称之为ETH/ETC。
 
-The project was financed with a crowdsale. Based on the Howey test it may be inferred that the ETH/ETC [crowdsale was, indeed, a security](https://twitter.com/WendellMoone/status/1623760982672564226). 
+这个项目的资金来自众筹。根据Howey检验，可以推断ETH/ETC[众卖确实是一种证券](https://twitter.com/WendellMoone/status/1623760982672564226)。
 
-It was [founded](https://en.wikipedia.org/wiki/Ethereum) by Vitalik Buterin; then he partnered with several individuals to form a group of co-founders; they promised the expectation of profits out of the investment; created a foundation with the name of the network, even registering its trademarks; sold a unit of value previous to the creation of the cryptocurrency to gather funds for development; and promoted the crowdsale and Ethereum’s features, benefits, and appreciation potential just like any initial public offering of a stock would have been promoted.
+它由Vitalik Buterin[创立](https://en.wikipedia.org/wiki/Ethereum);然后，他与几个人合作，组成了一个联合创始人小组;他们承诺期望从投资中获得利润;用网络的名字创建了一个基金会，甚至注册了它的商标;在加密货币创建之前出售一个单位的价值，以筹集开发资金;并推广了众筹和以太坊的功能、好处和升值潜力，就像任何首次公开发行股票一样。
 
-However, this status as a security was likely limited to the period between the crowdsale and the launch of the network on July 30th of 2015. 
+然而，这种证券的地位可能仅限于众筹和2015年7月30日网络推出之间的这段时间。
 
-![ETH/ETC launch.](./3.png)
+![ETH/ETC发行](./3.png)
 
-On July 30th of 2015, the initial securities of the project were transformed into the ETH cryptocurrency, which was subsequently categorized as a commodity by the CFTC.
+2015年7月30日，该项目的初始证券转换为ETH加密货币，随后被CFTC归类为商品。
 
-This step may be interpreted to be an exchange and exit of the initial common enterprise between investors, Vitalik Buterin, his partners, and the Ethereum Foundation as the director of the project.
+这一步可以解释为投资者、Vitalik Buterin及其合作伙伴和以太坊基金会作为项目总监之间的初始共同企业的交换和退出。
 
-From here, the project became a truly decentralized, proof of work based, public blockchain. 
+从这里开始，这个项目变成了一个真正去中心化、基于工作量证明的公共区块链。
 
-![The Ethereum split.](./7.png)
+![以太坊分裂](./7.png)
 
-Even when Ethereum split from the ETC mainnet in 2016 due to the DAO hard fork, ETH kept its decentralization because it remained as a proof of work blockchain.
+即使以太坊在2016年因DAO硬分叉从ETC主网中分离出来，ETH仍然保持着去中心化，因为它仍然是工作证明区块链。
 
-This period lasted until September 15th of 2022.
+这段时间一直持续到2022年9月15日。
 
-![The ETH migration to Proof of Stake.](./8.png)
+![ETH迁移到权益证明](./8.png)
 
-Starting in September 15th of 2022, Ethereum cannot be described as a decentralized project because it migrated to Proof of Stake. Indeed, the moment it migrated, 51% of the blocks were censored by mega-staking pools to comply with international sanctions imposed by the U.S. Office of Foreign Assets Control (OFAC). And, a few months later up to 70% of its blocks were censored.
+从2022年9月15日开始，以太坊不能被描述为一个去中心化的项目，因为它迁移到了权益证明。事实上，在它迁移的那一刻，51%的区块受到了大型赌注池的审查，以遵守美国外国资产控制办公室(OFAC)实施的国际制裁。几个月后，多达70%的区块被审查。
 
-As said before, PoS depends on large and entrenched pool operators that control the network. This, together with the control and influence that the Ethereum Foundation had from before, and the fact that the developers have incredible clout in the decisions about the protocol (for example, changing the supply of the token 6 times in its history) make it a centralized project dependent on others from the units’ of value perspective.
+如前所述，PoS依赖于控制网络的大型和根深蒂固的池运营商。这一点，加上以太坊基金会以前拥有的控制和影响力，以及开发人员在协议决策中具有令人难以置信的影响力(例如，在其历史上改变了6次令币的供应)，使其成为一个从单位价值角度依赖于其他人的集中式项目。
 
-![BTC remains a commodity and ETC as well.](./6.png)
+![和比特币一样，ETC仍然是一种商品](./6.png)
 
-In the meantime, Bitcoin has always maintained its status as a commodity as determined by the CFTC in 2015, and ETC is functionally a commodity, just like BTC, because it has exactly the same consensus design with its decentralist guarantees.
+与此同时，比特币一直保持着CFTC在2015年确定的商品地位，ETC在功能上也是一种商品，就像BTC一样，因为它具有完全相同的共识设计和去中心化保证。
 
-## Conclusion
+## 总结
 
-It is worth noting that anything built on top of Ethereum Classic may be a commodity or a security. As a generalized and decentralized computing system, whatever the designs of dapps, layer 2 systems, and tokens may be will determine their status.
+值得注意的是，任何建立在以太坊经典之上的东西都可能是一种商品或证券。作为一个广义和去中心化的计算系统，无论dapp、第二层系统和令牌的设计如何，都将决定它们的地位。
 
-DAOs inside ETC structured as corporate stock, bonds, or derivatives will be securities. ERC-20 tokens that create coins, meme coins, or other tokens that don’t fall under the Howey test may be classified as commodities.
+ETC内部结构为公司股票、债券或衍生品的DAO都将是证券。ERC-20代币可以创建币、迷因币或其他不属于Howey测试的代币，它们可以被归类为商品。
 
-However, ETC as the base layer of these technologies is still a generic commodity.
+然而，ETC作为这些技术的基础层仍然是一种通用商品。
 
-The proof of stake algorithm in Ethereum implies a constant collaboration between validators, who are contractors of the pool operators. They produce blocks, vote on these blocks, and then send them to the rest of the network who have to accept them without question.
+以太坊中的权益证明算法意味着验证者之间的持续合作，验证者是池运营商的承包商。他们生产区块，对这些区块进行投票，然后将这些区块发送给网络的其他部分，这些部分必须毫无疑问地接受它们。
 
-Additionally, participation by stakers from the public or node operators to run validating clients is filtered and restricted by pool operators. There is no decentralized free entry and exit from the system, therefore it is clearly a common enterprise.
+此外，来自公共或节点操作员的涉众对运行验证客户端的参与将被池操作员过滤和限制。没有去中心化的自由进出系统，因此它显然是一个普通的企业。
 
-ETH/ETC went through a centralized sale process when it was promoted during the crowdfunding, but then it became a decentralized blockchain when it was launched and was a proof of work system. 
+ETH/ETC在众筹期间的推广过程中经历了一个中心化的销售过程，但随后它在推出时就变成了一个去中心化的区块链，是一个工作量证明系统。
 
-When ETH split from the ETC mainnet in 2016, ETC was separated from the main community of developers and leaders of the Ethereum Foundation and became even more decentralized at the social layer. This is when its Code Is Law principle was established.
+当ETH在2016年从ETC主网中分离出来时，ETC从以太坊基金会的开发者和领导者的主要社区中分离出来，在社交层变得更加去中心化。这就是它的“代码即法律”原则确立的时候。
 
-ETC never had a defined group of promoters. In fact, all the different groups of constituents in ETC rotate and migrate constantly.
+ETC从来没有一个明确的启动者群体。事实上，ETC中所有不同的组成部分都在不断地轮换和迁移。
 
-For all the reasons stated above, we conclude that Ethereum Classic remains a commodity and Ethereum is a security.
-
+基于上述所有原因，我们得出的结论是，以太坊经典仍然是一种商品，以太坊是一种证券。
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC内容，请访问: https://ethereumclassic.org
