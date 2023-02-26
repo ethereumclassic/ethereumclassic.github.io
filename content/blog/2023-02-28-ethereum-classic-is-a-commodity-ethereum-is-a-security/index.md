@@ -83,7 +83,7 @@ In ETC, the same reasons why it was a commodity before remains today: There is n
 
 From 2014 to 2016 both Ethereum and Ethereum Classic were one project, so we refer to them in this period as ETH/ETC. 
 
-The project was financed with a crowdsale. Based on the Howey test it may be inferred that the ETH/ETC [crowdsale was, indeed, a security](https://twitter.com/WendellMoone/status/1623760982672564226). 
+The project was financed with a crowdsale. Based on the Howey test, it may be inferred that the ETH/ETC [crowdsale was, indeed, a security](https://twitter.com/WendellMoone/status/1623760982672564226). 
 
 It was [founded](https://en.wikipedia.org/wiki/Ethereum) by Vitalik Buterin; then he partnered with several individuals to form a group of co-founders; they promised the expectation of profits out of the investment; created a foundation with the name of the network, even registering its trademarks; sold a unit of value previous to the creation of the cryptocurrency to gather funds for development; and promoted the crowdsale and Ethereum’s features, benefits, and appreciation potential just like any initial public offering of a stock would have been promoted.
 
