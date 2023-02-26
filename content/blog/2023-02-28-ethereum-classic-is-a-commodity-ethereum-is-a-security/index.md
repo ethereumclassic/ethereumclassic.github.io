@@ -73,7 +73,7 @@ The proof of stake system used by ETH is not a free merit system like that found
 
 In the ETH system, validators divide their tasks on a per-block basis where one produces a block, then sends it to the other validators who vote on the block, then send it to the rest of the network who must accept it without objection.
 
-Because ETC is PoW and decentralized, miners may pop up or leave whenever they want from anywhere in the world, compete to build blocks in their complete isolation, send them to the rest of the network for verification, and get paid based on their sole merit. No other filters or conditions exist. 
+Because ETC uses proof of work and is, therefore, decentralized, miners may pop up or leave whenever they want from anywhere in the world, compete to build blocks in complete isolation, send blocks produced to the rest of the network for verification, and get paid based on their sole merit. No other filters or conditions exist. 
 
 In ETC, the same reasons why it was a commodity before remains today: There is no common enterprise, therefore the future value of the token is just determined by future general adoption by the market, but not from a defined and collaborative group of centralized pool operators or managers as in Ethereum.
 
