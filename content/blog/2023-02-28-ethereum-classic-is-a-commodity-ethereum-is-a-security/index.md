@@ -27,7 +27,7 @@ Under the test, a unit of value, contract, or transaction qualifies as a securit
 
 Bitcoin (BTC) and Ethereum (ETH), and thus Ethereum Classic (ETC) after Ethereum split from it in 2016, were determined to [be commodities](https://www.cftc.gov/digitalassets/index.htm) by the Commodity Futures Trading Commission (CFTC) in 2015 because they were decentralized, therefore had no common enterprise directing them and their returns were not derived from the efforts of others.
 
-The question is if Ethereum, now under its proof of stake (PoS) consensus mechanism, still qualifies as a commodity.
+The question is whether Ethereum, now under its proof of stake (PoS) consensus mechanism, still qualifies as a commodity.
 
 ## Comparing ETC and ETH Using the Howey Test
 
