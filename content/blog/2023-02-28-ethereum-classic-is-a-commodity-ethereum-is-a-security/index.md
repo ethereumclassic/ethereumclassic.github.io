@@ -69,7 +69,7 @@ For the same reasons that Ethereum is now a common enterprise, it is also a syst
 
 These “others” are easily identifiable as they will be the four or five large staking pools and the Ethereum Foundation who, all together, will act as a single enterprise. 
 
-The PoS system is not a free merit system as PoW but a totally collaborative partnership between the pools and the validators, and the validators are essentially the same as the pools because they are their submissive contractors.
+The proof of stake system used by ETH is not a free merit system like that found in systems using proof of work. It is, rather, a collaborative relationship wherein the validators are not equal, independent free actors because they are essentially contractors subordinate to the pools.
 
 In the system, validators divide their tasks on a per block basis where one produces a block, then sends it to the other validators who vote on the block, and then send it to the the rest of the network who must accept them without objection.
 
