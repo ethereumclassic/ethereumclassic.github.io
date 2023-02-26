@@ -131,7 +131,7 @@ When ETH split from the ETC mainnet in 2016, ETC was separated from the main com
 
 ETC never had a defined group of promoters. In fact, all the different groups of constituents in ETC rotate and migrate constantly.
 
-For all the reasons stated above, we conclude that Ethereum Classic remains a commodity and Ethereum is a security.
+For all the reasons stated above, we conclude that Ethereum Classic remains a commodity while Ethereum has reverted to being a security.
 
 ---
 
