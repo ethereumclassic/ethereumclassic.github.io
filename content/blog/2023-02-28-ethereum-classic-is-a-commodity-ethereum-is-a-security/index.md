@@ -95,7 +95,7 @@ On July 30th of 2015, the initial securities of the project were transformed int
 
 This step may be interpreted to be an exchange and exit of the initial common enterprise between investors, Vitalik Buterin, his partners, and the Ethereum Foundation as the director of the project.
 
-From here, the project became a truly decentralized, proof of work based, public blockchain. 
+From there, the project became a truly decentralized, proof of work based, public blockchain. 
 
 ![The Ethereum split.](./7.png)
 
