@@ -111,7 +111,7 @@ Once on that screen, change the default mining algorithm from ETHASH to ETCHASH 
 
 Now you need to go to 2miners to get your credentials or configuration data. For this, go to:
 
-etc.2miners.com/help 
+https://etc.2miners.com/help 
 
 Once there, create an ETC wallet as per the instructions or use an existing wallet you already have, if you wish.
 
