@@ -44,7 +44,7 @@ But, how do the security models in each layer work? And, how do they work combin
 
 As we mentioned before, proof of work is the key security component of the physical layer, or live operating network.
 
-The way it works is that there must be demand for ETC’s decentralized computing. If there is demand, then people will buy the cryptocurrency to use it, and as an investment, making the price rise. When the ETC price rises, then mining becomes more profitable. When miners becomes more profitable, they put more machines with more hashing power to build blocks for the network. When more hashing power is dedicated to the network, then it becomes more secure. And, when ETC is more secure, then demand for its decentralized computing grows, which, in turn, makes the price go up further, continuing the virtuous circle.
+In order for the system to work, there must be demand for ETC’s decentralized computing. When there is demand, people buy the cryptocurrency to use it and as an investment causing the price to rise. When the ETC price rises, mining becomes more profitable. When mining becomes more profitable, miners place more machines in service adding more hashing power to build blocks for the network. With more hashing power dedicated to the ETC network, it becomes more secure. When ETC is more secure, demand for its decentralized computing grows, which, in turn, makes the price go up further, thus continuing the virtuous circle.
 
 ## 4. Social Layer: Coordination Problem Security
 
