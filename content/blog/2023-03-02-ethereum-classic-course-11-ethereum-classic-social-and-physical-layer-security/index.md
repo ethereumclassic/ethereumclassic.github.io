@@ -30,7 +30,7 @@ In this class we will explain what are the physical and social layers, their sec
 
 The physical layer, which is the live operating network, is the most well known and consists of the protocol rules, the software clients that people must run in their machines to participate, cryptography, and the energy PoW uses that protects the blockchain.
 
-The social layer consists of all the node operators (e.g. exchanges, wallets, dapps, startups, Node as a Service (NaaS) providers, block explorers, and independent participants) mining pools, and independent miners. It also includes the developers who conduct research & development to advance the protocol and fix bugs when necessary. All these constituents, plus users and investors who own the native cryptocurrency, decide whether to adopt changes through an improvement proposal process and by running the protocol through software clients.
+The social layer consists of all the node operators (e.g. exchanges, wallets, dapps, startups, Node as a Service (NaaS) providers, block explorers, and independent participants), mining pools, and independent miners. It also includes the developers who conduct research and development to advance the protocol and fix bugs when necessary. All these constituents, plus users and investors who own the native cryptocurrency, decide whether to adopt changes through an improvement proposal process and by running the protocol through software clients.
 
 Although the physical layer may be highly secure and indestructible, the truth is that if all the constituents in the network at the social layer were to agree on bad changes or corrupt practices, they could, technically, do it. 
 
