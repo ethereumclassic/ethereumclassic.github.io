@@ -61,7 +61,7 @@ The other three components that need to be provided by you to set up the mining 
 
 *Note: Because we use a MacBook Pro computer we needed to connect the iPollo to our local LAN using the Ethernet, but if you use a Windows computer, you may find the iPollo rig over the WiFi networks list in your PC.*
 
-![iPollo unboxing.](./2.png)
+![iPollo unboxing.](./14.png)
 
 ## 3. iPollo ASIC Rig Setup and Connection
 
