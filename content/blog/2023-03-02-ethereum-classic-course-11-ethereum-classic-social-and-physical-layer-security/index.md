@@ -62,7 +62,7 @@ The way these two security virtuous circles work combined; with proof of work as
 
 ## 6. Social Layer Attacks and Defense Mechanisms
 
-But, what are the possible attacks at the social layer and what are the defense mechanisms?
+But what are the possible attacks at the social layer and what are the defense mechanisms?
 
 **Proposals for bad changes:** These are fixes or upgrades that reduce decentralization. Usually these proposals need to go through the Ethereum Classic Improvement Proposal process (ECIP). The way the global ecosystem defends ETC against this type of attack is by opposing and not approving such changes, or not adopting them if for some reason they are approved.
 
