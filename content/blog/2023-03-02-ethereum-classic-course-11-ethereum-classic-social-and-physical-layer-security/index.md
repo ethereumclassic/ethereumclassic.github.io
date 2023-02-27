@@ -68,7 +68,7 @@ But what are the possible attacks at the social layer and what are the defense m
 
 **Censorship:** When Ethereum migrated to proof of stake, it became more than 60% censored by the US Office of Foreign Assets Control (OFAC) nearly immediately because staking pools are centralized. The way ETC prevents this is by having miners join and leave the network whenever they want, wherever they are in the world, taking advantage of the lowest electricity prices possible wherever they may be. This level of decentralization is only possible with the attributes of proof of work explained in previous classes and this is why the PoW mining business is practically impossible to capture.
 
-**External restrictions of use:** As mining is decentralized an practically impossible to capture, then external restrictions such as know your customer (KYC) and anti-money laundering (AML) prohibitions are only effective to users in their own geographies. But, as long as transactions or a smart contracts are sent to ETC from anywhere at anytime, and they comply with protocol rules, ETC will always process and execute them. 
+**External restrictions of use:** As mining is decentralized and practically impossible to capture, then external restrictions such as know your customer (KYC) and anti-money laundering (AML) prohibitions are only effective upon users in their own jurisdictional geographies. So long as transactions or smart contracts are sent to ETC, from anywhere at any time, that comply with protocol rules, ETC will always process and execute them. 
 
 **Backward compatibility:** Sometimes there are upgrades that break past smart contracts. These must be stopped at the social layer and are stopped in the same way as proposals for bad changes. 
 
