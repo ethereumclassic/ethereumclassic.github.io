@@ -69,6 +69,14 @@ socialItems:
     __link: https://discord.gg/5wDyd6u6pU
     __icon: discord
     name: ETC Coop Discord
+  twitterEthclassic:
+    __link: https://twitter.com/eth_classic
+    __icon: twitter
+    name: eth_classic Twitter
+  twitterEtcnetwork:
+    __link: https://twitter.com/ETC_Network
+    __icon: twitter
+    name: ETC_Network Twitter
   githubOrg:
     __link: https://github.com/ethereumclassic
     __icon: github
@@ -81,10 +89,6 @@ socialItems:
     __link: https://reddit.com/r/ethereumclassic
     __icon: reddit
     name: Reddit
-  twitter:
-    __link: https://twitter.com/eth_classic
-    __icon: twitter
-    name: Twitter
 appTypes:
   finance:
     __color: green
