@@ -34,7 +34,7 @@ The social layer consists of all the node operators (e.g. exchanges, wallets, da
 
 Although the physical layer may be highly secure and indestructible, the truth is that if all the constituents in the network at the social layer were to agree on bad changes or corrupt practices, they could, technically, do it. 
 
-However, this is extremely difficult because blockchain communities are usually very conservative and principled ecosystems and there is usually ample activism that analyzes and filters proposals and potential changes. This is why the combined systems of the social and physical layers are the complete story of how Ethereum Classic is protected.
+However, this is extremely difficult because blockchain communities are usually very conservative and principled ecosystems where there is usually ample activism that analyzes and filters proposals and potential changes. This is why the combined systems of the social and physical layers are the complete story of how Ethereum Classic is protected.
 
 But, how do the security models in each layer work? And, how do they work combined?
 
