@@ -4,6 +4,7 @@ date: 2023-02-28
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["Opinion"]
+disclaimer: opinion
 linkImage: ./eth-etc-howey-test-banner.png
 ---
 
