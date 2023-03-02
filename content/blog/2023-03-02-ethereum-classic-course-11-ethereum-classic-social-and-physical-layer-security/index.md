@@ -64,7 +64,7 @@ The way these two security virtuous circles work combined; with proof of work as
 
 But what are the possible attacks at the social layer and what are the defense mechanisms?
 
-**Proposals for bad changes:** These are fixes or upgrades that reduce decentralization. Usually these proposals need to go through the Ethereum Classic Improvement Proposal process (ECIP). The way the global ecosystem defends ETC against this type of attack is by opposing and not approving such changes, or not adopting them if for some reason they are approved.
+**Proposals for bad changes:** These are fixes or upgrades that reduce decentralization. Usually these proposals need to go through the Ethereum Classic Improvement Proposal (ECIP) process. The way the global ecosystem defends ETC against this type of attack is by opposing and not approving such changes, or not adopting them if for some reason they are approved.
 
 **Censorship:** When Ethereum migrated to proof of stake, it became more than 60% censored by the US Office of Foreign Assets Control (OFAC) nearly immediately because staking pools are centralized. The way ETC prevents this is by having miners join and leave the network whenever they want, wherever they are in the world, taking advantage of the lowest electricity prices possible wherever they may be. This level of decentralization is only possible with the attributes of proof of work explained in previous classes and this is why the PoW mining business is practically impossible to capture.
 
