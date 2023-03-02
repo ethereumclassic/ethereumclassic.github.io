@@ -483,7 +483,7 @@ items:
   Other:
     __type: buttons
     title: Other Exchange Services
-    description: The following services may not be decentralized.
+    description: The following services do not fall into any of the above categories. These services may or may not be decentralized.
     items:
       BestChange:
         __link: https://www.bestchange.com/etc-to-btc.html
