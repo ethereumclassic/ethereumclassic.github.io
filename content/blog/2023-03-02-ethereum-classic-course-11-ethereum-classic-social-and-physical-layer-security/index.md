@@ -32,7 +32,7 @@ The physical layer, which is the live operating network, is the most well known 
 
 The social layer consists of all the node operators (e.g. exchanges, wallets, dapps, startups, Node as a Service (NaaS) providers, block explorers, and independent participants), mining pools, and independent miners. It also includes the developers who conduct research and development to advance the protocol and fix bugs when necessary. All these constituents, plus users and investors who own the native cryptocurrency, decide whether to adopt changes through an improvement proposal process and by running the protocol through software clients.
 
-Although the physical layer may be highly secure and indestructible, the truth is that if all the constituents in the network at the social layer were to agree on bad changes or corrupt practices, they could, technically, do it. 
+Although the physical layer may be highly secure and indestructible, the truth is that if all the constituents in the network at the social layer were to agree on bad changes or corrupt practices, they could, technically, implement them.
 
 However, this is extremely difficult because blockchain communities are usually very conservative and principled ecosystems where there is usually ample activism that analyzes and filters proposals and potential changes. This is why the combined systems of the social and physical layers are the complete story of how Ethereum Classic is protected.
 
