@@ -106,11 +106,11 @@ In other words, it is measured in how many times per second miners should calcul
 
 The quantities used in the industry to set difficulty targets are usually the following:
 
-Kilohashes per second (KH/s) = 1,000 H/s
-Megahashes per second (MH/s) = 1,000,000 H/s
-Gigahashes per second (GH/s) = 1,000,000,000 H/s
-Terahashes per second TH/s = 1,000,000,000,000 H/s
-Petahashes per second (PH/s) = 1,000,000,000,000,000 H/s
+- Kilohashes per second (KH/s) = 1,000 H/s
+- Megahashes per second (MH/s) = 1,000,000 H/s
+- Gigahashes per second (GH/s) = 1,000,000,000 H/s
+- Terahashes per second TH/s = 1,000,000,000,000 H/s
+- Petahashes per second (PH/s) = 1,000,000,000,000,000 H/s
 
 ## ETC’s Current Network Difficulty
 
