@@ -2,7 +2,6 @@
 title: "Proof of Work Is Not Voting"
 date: 2022-11-18
 author: Donald McIntyre
-disclaimer: opinion
 contributors: ["DonaldMcIntyre"]
 disclaimer: opinion
 tags: ["education", "philosophy"]
