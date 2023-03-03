@@ -3,7 +3,7 @@ title: "通过MetaMask小狐狸使用以太坊经典"
 date: 2022-12-21
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["education", "tutorial"]
+tags: ["education", "guide"]
 linkImage: ./etc-metamask-banner.png
 ---
 

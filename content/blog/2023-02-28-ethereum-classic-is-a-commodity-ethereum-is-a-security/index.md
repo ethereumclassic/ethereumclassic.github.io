@@ -3,8 +3,8 @@ title: "Ethereum Classic Is a Commodity, Ethereum Is a Security"
 date: 2023-02-28
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Opinion"]
 disclaimer: opinion
+tags: ["philosophy"]
 linkImage: ./eth-etc-howey-test-banner.png
 ---
 

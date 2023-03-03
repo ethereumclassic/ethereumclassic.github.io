@@ -3,7 +3,7 @@ title: "以太坊经典课程: 介绍"
 date: 2022-12-15
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["education", "course"]
+tags: ["education", "series"]
 linkImage: ./etc-course-banner-cn.png
 ---
 

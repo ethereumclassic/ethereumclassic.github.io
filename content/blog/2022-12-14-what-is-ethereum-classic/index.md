@@ -3,7 +3,8 @@ title: "What Is Ethereum Classic?"
 date: 2022-12-14
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["opinion", "education", "philosophy"]
+disclaimer: opinion
+tags: ["education", "philosophy"]
 linkImage: ./what-is-etc-banner.png
 ---
 

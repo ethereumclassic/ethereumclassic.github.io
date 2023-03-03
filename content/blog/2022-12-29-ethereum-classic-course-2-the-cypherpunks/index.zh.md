@@ -3,7 +3,7 @@ title: "以太坊经典课程: 2. 密码朋克"
 date: 2022-12-29
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["education", "course"]
+tags: ["education", "series"]
 linkImage: ./etc-course-etc-cypherpunks.png
 ---
 

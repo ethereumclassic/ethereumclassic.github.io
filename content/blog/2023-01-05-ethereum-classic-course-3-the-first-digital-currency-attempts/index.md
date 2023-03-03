@@ -3,7 +3,7 @@ title: "Ethereum Classic Course: 3. The First Digital Currency Attempts"
 date: 2023-01-05
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Education", "Course"]
+tags: ["education", "series"]
 linkImage: ./banner.png
 ---
 

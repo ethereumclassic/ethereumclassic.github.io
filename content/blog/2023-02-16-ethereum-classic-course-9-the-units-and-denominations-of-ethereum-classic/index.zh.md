@@ -3,7 +3,7 @@ title: "以太坊经典课程:9。以太坊经典的单位和面额"
 date: 2023-02-16
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Course", "Education"]
+tags: ["series", "education"]
 linkImage: ./etc-units-denominations.png
 ---
 

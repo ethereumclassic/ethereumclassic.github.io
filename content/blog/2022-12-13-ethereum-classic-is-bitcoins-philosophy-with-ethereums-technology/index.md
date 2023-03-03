@@ -3,7 +3,8 @@ title: "Ethereum Classic Is Bitcoin's Philosophy With Ethereum's Technology"
 date: 2022-12-13
 author: Donald McIntyre
 Contributors: ["DonaldMcIntyre"]
-tags: ["opinion", "education", "philosophy"]
+disclaimer: opinion
+tags: ["education", "philosophy"]
 linkImage: ./etc-is-btc-eth.png
 ---
 

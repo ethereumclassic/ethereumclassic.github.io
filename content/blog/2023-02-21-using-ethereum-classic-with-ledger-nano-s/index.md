@@ -3,7 +3,7 @@ title: "Using Ethereum Classic With Ledger Nano S"
 date: 2023-02-21
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Course", "Education"]
+tags: ["series", "education"]
 linkImage: ./1.png
 ---
 

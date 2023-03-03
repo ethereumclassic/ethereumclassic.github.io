@@ -3,7 +3,7 @@ title: "区块链中是否有软件客户端和服务器？"
 date: 2022-12-01
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["education", "infrastructure"]
+tags: ["education"]
 linkImage: ./clients-servers-banner.png
 ---
 

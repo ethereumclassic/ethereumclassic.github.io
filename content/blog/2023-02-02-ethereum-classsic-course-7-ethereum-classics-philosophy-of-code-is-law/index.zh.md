@@ -3,7 +3,7 @@ title: "以太坊经典课程: 7.以太坊经典的“代码即法律”哲学"
 date: 2023-02-02
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Course", "Education"]
+tags: ["series", "education"]
 linkImage: ./etc-code-is-law-banner.png
 ---
 
