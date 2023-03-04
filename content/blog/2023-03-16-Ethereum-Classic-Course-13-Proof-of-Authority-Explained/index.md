@@ -24,8 +24,6 @@ However, PoA still provides a replicated and shared database as in a PoW or PoS 
 
 ## How Does PoA Work?
 
-![Proof of Authority validators.](./reputation.png)
-
 In PoA, designated trusted actors are chosen to produce and validate blocks for the network.
 
 One of the validators is selected to produce a block per round.
