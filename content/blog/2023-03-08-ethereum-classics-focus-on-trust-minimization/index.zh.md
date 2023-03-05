@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic's Focus on Trust Minimization"
+title: "以太坊经典对信任最小化的关注"
 date: 2023-03-08
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,19 +8,19 @@ linkImage: ./1.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**欢迎由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I9t3xHtAA48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-## What Is Trust Minimization?
+## 什么是信任最小化？
 
-A common misconception in the blockchain industry is that these systems are “trustless”, but this is not the correct term nor definition. 
+区块链行业的一个常见误解是，这些系统是“不可信的”，但这不是正确的术语或定义。
 
-The truth is that blockchains such as Ethereum Classic (ETC) are “trust minimized” because there is still some dependency on third parties, and this is precisely why the focus should be on keeping it this way.
+事实是，像以太坊经典(ETC)这样的区块链是“信任最小化”的，因为仍然有一些对第三方的依赖，这正是为什么重点应该保持这种方式。
 
-This dependency we are talking about may be illustrated by giving 6 examples:
+我们所谈论的这种依赖性可以通过以下6个例子来说明:
 
 **1. Dependency on miners:** Miners receive transactions from the network, hash them using enormous amounts of computational power and electricity, and then send the blocks to the rest of the network to include them in the blockchain. This means the network depends on the miner base to guarantee its security.
 
