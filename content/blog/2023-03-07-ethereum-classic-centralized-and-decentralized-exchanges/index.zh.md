@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic, Centralized, and Decentralized Exchanges"
+title: "以太坊经典, 中心化、和去中心化的交易所"
 date: 2023-03-07
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,84 +8,82 @@ linkImage: ./2.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此观看或收听本期内容：**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AdmPWn3XOYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-## ETC in Centralized Exchanges and Decentralized Exchanges in ETC
+## 中心化交易所中的ETC和去中心化交易所中的ETC
 
 ![ETC, CEXs, and DEXs.](./2.png)
 
-We are still in a transition stage in the blockchain industry and the world where old style centralization and new paradigm decentralization are still coexisting.
+区块链行业和世界仍处于过渡阶段，旧的中心化和新范式的去中心化仍在共存。
 
-The first steps to buy cryptocurrencies such as Bitcoin (BTC) and Ethereum Classic (ETC) were small companies that served as bridges between fiat money and cryptocurrencies. This is how today’s exchange biggest brands started.
+购买比特币(BTC)和以太坊经典(ETC)等加密货币的第一步是作为法定货币和加密货币之间桥梁的公司。这就是今天最大品牌交易所的起源。
 
-As ETC is one of the main coins in the market, but at the same time is the largest proof of work smart contracts blockchain in the world, it trades in centralized exchanges (CEXs), but is also host of new era decentralized exchanges (DEXs).
+由于ETC是市场上的主要货币之一，但同时也是世界上最大的工作量证明智能合约区块链，它在中心化交易所(cex)进行交易，同时也是新时代去中心化交易所(DEXs)的主机。
 
-In this tutorial, we will explain what are centralized and decentralized exchanges and what role ETC plays in them.  
+在本教程中，我们将解释什么是中心化和去中心化的交易所，以及ETC在其中扮演的角色。
 
 ## What Are Centralized Exchanges?
 
 ![CEXs](./3.png)
 
-When people need to trade cryptocurrencies they have to find places on the internet where buyers and sellers meet to place their orders.
+集中式交易所是那些拥有这些买家和卖家作为客户的公司，并提供在线簿册，在那里他们的报价被公布，这样他们就可以匹配他们之间的交易。对于这项服务，他们对每笔交易收取费用。
 
-Centralized exchanges are companies that have these buyers and sellers as customers and provide an online book where their offers are published so they can match the trades between them. For this service they charge a fee per trade.
+在与这些实体进行交易时，用户必须遵守当地法律，因此必须提供身份证件、背景信息，并证明他们是好公民，才能获得交易许可。
 
-When trading with these entities, users must comply with local laws, therefore provide their identity documents, background information, and prove they are good citizens before receiving permission to trade.
+这些交易公司已经成为该行业的庞然大物，每天处理数十亿美元的交易，并拥有数十亿美元的估值。例如Coinbase, 必安和Kraken。
 
-These trading houses have become behemoths in the industry, handling billions of dollars in trades on a daily basis and commanding billion dollar valuations. Examples of these are Coinbase, Binance, and Kraken.
+## ETC在许多中心化交易所进行交易
 
-## ETC Trades in Many Centralized Exchanges
-
-As we said before, ETC is one of the main cryptocurrencies in the world and the largest proof of work smart contracts blockchain. As such, it is widely traded and listed in [many centralized exchanges](https://coinmarketcap.com/currencies/ethereum-classic/markets/) including:
+如前所述，ETC是世界上主要的加密货币之一，也是最大的工作量证明智能合约区块链。因此，它被广泛交易并在许多[中心化交易所](https://coinmarketcap.com/currencies/ethereum-classic/markets/)上市，包括:
 
 - Coinbase
-- Binance
+- 必安
 - Kraken
 - BitHumb
 - KuCoin
 - BitFinex
 - Bittrex
 - Poloniex
-- Huobi
+- 火币
 
-## What Are Decentralized Exchanges?
+## 什么是去中心化的交易所?
 
 ![DEXs](./4.png)
 
-Decentralized exchanges do the same thing as centralized exchanges, match buyers’ and sellers’ orders, but by means of a decentralized smart contract on a smart contracts blockchain.
+去中心化交易所做的事情和中心化交易所一样，匹配买家和卖家的订单，但通过智能合约上的去中心化智能合约区块链。
 
-Players in this segment include Uniswap, PancakeSwap, ETCswap, and HebeSwap.
+这一领域的参与者包括Uniswap、PancakeSwap、etswwap和HebeSwap。
 
-This setup makes the entities themselves decentralized and anyone with an account on the blockchain may provide liquidity or enter sell or buy orders. No documentation or identity proofs are required.
+这种设置使得实体本身去中心化，任何在区块链上拥有账户的人都可以提供流动性或输入卖出或买入订单。不需要文件或身份证明。
 
-ETC actually trades in decentralized exchanges such as PancakeSwap, hosted in the [Binance Smart Chain](https://tradingstrategy.ai/trading-view/binance/biswap/etc-bnb), ETCswap, and HebeSwap, these last two hosted in the Ethereum Classic blockchain itself.
+ETC实际上是在去中心化的交易所进行交易，如PancakeSwap，托管在[币安智能链](https://tradingstrategy.ai/trading-view/binance/biswap/etc-bnb), ETCswap, 和HebeSwap, 最后两个托管在以太坊经典区块链本身.
 
-## Decentralized Exchanges in ETC
+## ETC的去中心化交易
 
-![ETCswap and HebeSwap.](./5.png)
+![ETCswap和HebeSwap.](./5.png)
 
-As said before, because ETC is the largest proof of work smart contracts blockchain it hosts decentralized finance dapps some of which are decentralized exchanges.
+如前所述，因为ETC是最大的工作证明智能合约区块链，它托管去中心化的金融dapps，其中一些是去中心化的交易所。
 
-The two main examples are ETCswap and HebeSwap. 
+两个主要的例子是etswwap和HebeSwap。
 
-## What Is Wrapped ETC (WETC)?
+## 什么是Wrapped ETC (WETC)?
 
 ![WETC](./6.png)
 
-When external coins such as BTC or ETC are listed in decentralized exchanges, such as Uniswap in Ethereum or PancakeSwap in Binance Smart Chain, they cannot be traded unless they are represented as ERC-20 tokens inside those networks. For this, there are services that hold BTC and ETC and then issue ERC-20 tokens on those chains.
+当BTC或ETC等外部货币在去中心化交易所中列出时，例如以太坊中的Uniswap或币安智能链中的PancakeSwap，除非它们在这些网络中以ERC-20代币的形式表示，否则它们无法进行交易。为此，有一些服务持有BTC和ETC，然后在这些链上发行ERC-20令牌。
 
-For example, WBTC trades on Uniswap inside Ethereum, and [WETC](https://wrappedether.org/) trades on PancakeSwap inside Binance Smart Chain.
+例如，WBTC在以太坊内部的Uniswap上进行交易，[WETC](https://wrappedether.org/)在币安智能链内部的PancakeSwap上进行交易。
 
-WETC is short for “wrapped ETC” which is the term used for this setup.
+WETC是“Wrapped ETC”的缩写，这是用于这种设置的术语。
 
-Because the native ETC coin in the Ethereum Classic blockchain is not compatible with the ERC-20 standard used by exchanges, it is actually traded as WETC as well on ETCswap and HebeSwap inside the ETC blockchain.
+由于以太坊经典区块链中的原生ETC币与交易所使用的ERC-20标准不兼容，因此它实际上也在ETC区块链中的etswwap和HebeSwap上作为WETC进行交易。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，请访问: https://ethereumclassic.org
