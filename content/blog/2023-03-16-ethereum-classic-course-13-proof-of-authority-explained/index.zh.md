@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Course: 13. Proof of Authority Explained"
+title: "以太坊经典课程:13.权力证明的解释"
 date: 2023-03-16
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,62 +8,60 @@ linkImage: ./etc-course-poa-banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期视频:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TtRT7aQGwbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-## Proof of Authority Purpose
+## 权力证明的目的
 
-Proof of Authority (PoA) consensus is meant to avoid investment in computational power and energy as in Proof of Work (PoW) consensus.
+权威证明(PoA)共识旨在避免像工作量证明(PoW)共识那样在计算能力和能量上的投资。
 
-It is also made to avoid investment in staking deposits as in Proof of Stake (PoS) consensus.
+它也是为了避免投资于股权证明(PoS)共识中的股权存款。
 
-However, PoA still provides a replicated and shared database as in a PoW or PoS network, so that known operators in trust groups; such as banks, governments, and corporations and its customers and providers; may interact more efficiently than in siloed traditional systems.
+然而，PoA仍然提供了一个复制和共享的数据库，就像在PoW或PoS网络中一样，因此信任组中的已知操作员;例如银行、政府、企业及其客户和供应商;可能比传统的竖井系统更有效地相互作用。
 
-## How Does PoA Work?
+## PoA是如何运作的?
 
-![Proof of Authority validators risk their reputation.](./rep.png)
+![权威证明验证者冒着失去声誉的风险](./rep.png)
 
-In PoA, designated trusted actors are chosen to produce and validate blocks for the network.
+在PoA中，选择指定的可信参与者为网络生成和验证区块。
 
-One of the validators is selected to produce a block per round.
+每轮选中一个验证器来生成一个区块。
 
-Then, they send the block to the rest of the validators.
+然后，它们将块发送给其他验证器。
 
-When the rest of the validators receive they block, they vote on it by supermajority of 2/3 rds or unanimously, depending on the network.
+当其他验证者收到他们阻塞的消息时，他们会根据网络的不同，以2/3的绝对多数或一致投票。
 
-After being approved, the block is sent to the rest of the network participants who accept it as the next canonical state of the network.
+在被批准后，该块被发送到接受它作为网络的下一个规范状态的其他网络参与者。
 
-## Centralization
+## 中心化
 
-The whole purpose of blockchains is decentralization, but PoA networks are clearly centralized.
+区块链的全部目的是去中心化，但PoA网络显然是中心化的。
 
-PoA is useful for certain use cases between trusted participants such as banks, governments, and corporations with their constituents and business ecosystems, as mentioned before.
+如前所述，PoA对于可信参与者之间的某些用例非常有用，例如银行、政府和公司及其成员和业务生态系统。
 
-The reason for which least a supermajority of 2/3 rds is needed to vote on blocks to validate them is to neutralize the 1/3 who could disrupt the network because systems that are not Proof of Work have only a 1/3 fault tolerance.
+至少需要2/3的绝对多数才能对区块进行投票来验证它们的原因是为了抵消可能破坏网络的1/3，因为没有工作量证明的系统只有1/3的容错性。
 
-PoA blockchains are characterized by a limited number of actors who run the network nodes.
+## 使用权威证明共识的激励机制
 
-## Incentives to Use Proof of Authority Consensus
+使用PoA系统的主要动机是控制。许多组织和行业需要控制他们的网络，以便能够过滤谁可以使用它们，输入交易，并查看托管在其中的数据。
 
-The primary incentive to use a PoA system is control. Many organizations and industries need to control their networks to be able to filter who may use them, enter transactions, and see the data hosted in them.
+由于PoA区块链也可以向验证者支付区块奖励，这可能是一种参与的激励，特别是当它们是使用PoA和PoS共识机制混合的公共网络时。
 
-As PoA blockchains may also pay a block reward to validators, this may be an incentive for participation, especially when they are public networks which use a hybrid of PoA and PoS consensus mechanisms.
+另一个动机是在受信任的参与者之间共享数据，以获得数据的冗余，或者在工作量证明系统中称为复制。
 
-Another incentive is to share data between the trusted participants to have redundancy of the data, or what is called replication in proof of work systems.
+## 与PoW和PoS的比较
 
-## Comparisons With PoW and PoS
+在PoW中，需要工作来生产区块以获得区块奖励。
 
-In PoW, work is required to produce blocks to earn the block rewards.
+在PoS中，验证者希望获得奖励，而不是通过削减和惩罚失去他们的赌注资本。
 
-In PoS, validators want to earn rewards and not lose their staked capital through slashing and penalties.
-
-In PoA, validators want to earn rewards or the benefits of participating in the system and not lose their reputation. This is the security assumption of the system.
+在PoA中，验证者希望获得参与系统的奖励或好处，而不失去他们的声誉。这是系统的安全假设。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，请访问: https://ethereumclassic.org
