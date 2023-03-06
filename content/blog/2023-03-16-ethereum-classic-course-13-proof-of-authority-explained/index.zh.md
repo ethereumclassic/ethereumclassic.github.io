@@ -24,7 +24,7 @@ linkImage: ./etc-course-poa-banner.png
 
 ## PoA是如何运作的?
 
-![权威证明验证者冒着失去声誉的风险](./rep.png)
+![权威证明验证者冒着失去声誉的风险](./rep-zh.png)
 
 在PoA中，选择指定的可信参与者为网络生成和验证区块。
 
