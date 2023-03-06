@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Course: 12. Proof of Stake Explained"
+title: "以太坊经典课程12. 权益证明详解"
 date: 2023-03-09
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,88 +8,88 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7jGOPq3RLjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-![Proof of Stake pools.](./1.png)
+![权益证明池.](./1.png)
 
-## Proof of Stake Purpose
+## 权益证明的目的
 
-As we explained in class 5 of this course about Ethereum, proof of stake (PoS) eliminates the need for proof of work (PoW), which uses enormous amounts of computing power and electricity, and replaces it with user deposits in special accounts inside the ledger.
+正如我们在本课程第5节课中关于以太坊的解释，权益证明(PoS)消除了工作量证明(PoW)的需要，PoW使用了大量的计算能力和电力，并将其替换为账本内特殊账户中的用户存款。
 
-These deposits are called stakes and give their stakers the right to produce blocks, vote on them, and then include them in the blockchain. For this role, they get paid a reward per block.
+这些存款被称为股权，并赋予其股东生产区块的权利，对其进行投票，然后将其纳入区块链。对于这个角色，他们每个区块都会获得奖励。
 
-The stated benefits of proof of stake are that it uses less electricity and it is more scalable. However, these saving in energy and scalability are accomplished at the expense of safety, as proof of stake is very similar to traditional systems as it does not have the decentralization guarantees that proof of work based Nakamoto Consensus has.
+权益证明的好处是它使用更少的电力，并且更具可扩展性。然而，这些节能和可扩展性是以牺牲安全性为代价的，因为权益证明与传统系统非常相似，因为它不具有基于中本共识的工作量证明所具有的去中心化保证。
 
-## Staking
+## 权益质押
 
-Initially, the idea was that stakers were going to run a validator node, deposit capital in an account that would remain locked for several months, and produce and validate blocks for the network.
+最初的想法是，股东将运行一个验证器节点，将资金存入一个将被锁定几个月的账户，并为网络生成和验证区块。
 
-However, by the time Ethereum migrated to the proof of stake consensus mechanism in September 15th of 2022, the dominant model was to use staking pools to participate in the system.
+然而，当以太坊在2022年9月15日迁移到权益证明共识机制时，主导模式是使用权益池参与系统。
 
-This means now that the functions in staking have been deconstructed into three roles: staking (stakers deposit money), validating (network node operators run the validator software clients), and pooling (organizations that organize large pools of capital and hire validators).
+这意味着现在权益质押的功能已经被解构为三个角色:权益质押（质押者存款)、验证(网络节点运营商运行验证器软件客户端)和池(组织大型资本池并雇用验证器的组织)。
 
-Stakers in Ethereum now only make deposits in staking pools and don’t worry about the rest. In exchange, they receive a proxy token that represents the coins they staked so they can sell them in the market, recovering their capital whenever they want. For doing this, they receive rewards that derive from the block production process.
+以太坊的股东现在只在权益质押池中存款，不用担心其他的。作为交换，他们会收到一个代表他们所押注的硬币的代理代币，这样他们就可以在市场上出售它们，随时可以收回资本。为此，他们获得了来自区块生产过程的奖励。
 
-## Validators
+## 区块链验证者
 
-In this deconstructed format described above, validators are the participants who run nodes in the network that produce and validate blocks.
+在上面描述的这种解构格式中，验证者是在网络中运行产生和验证区块的节点的参与者。
 
-Depending on the arrangement with the staking pools for which they work, these node operators bear the risk of the various penalties that the PoS system imposes for being offline, sending invalid blocks, or affirming wrong blocks.
+根据与他们工作的持有量池的安排，这些节点操作员承担PoS系统因离线、发送无效区块或确认错误区块而施加的各种惩罚的风险。
 
-Because of this, the validating node business has become a very specialized activity as sophisticated operations are needed to maintain very reliable data centers, with high uptimes, and ample redundancy to make sure their task is done as reliably and correctly as possible.
+因此，验证节点业务已经成为一项非常专业的活动，因为需要复杂的操作来维护非常可靠的数据中心，具有高正常运行时间和足够的冗余，以确保他们的任务尽可能可靠和正确地完成。
 
-## Staking Pools
+## 权益质押池
 
-Staking pools serve the role of aggregating capital from regular users and running themselves or hiring validating node operators to deploy that capital to earn rewards.
+权益质押池的作用是聚集来自常规用户的资本，并自行运行或雇用验证节点操作员来部署这些资本以获得奖励。
 
-Staking pools have evolved into two main models for now:
+权益质押池目前已经演变成两种主要模式:
 
-1. Exchange Sponsored Pools: These staking pools are managed by well known exchanges such as Coinbase or Binance. They offer their customers the possibility of staking their coins, and then they turn around and use this capital to run their own nodes in their own data centers to produce and validate blocks in the networks they target. These pools give their staking customers proxy tokens such as cbETH (Coinbase Wrapped Staked ETH) and BETH (Binance staked ETH).
-2. Liquid Staking Derivatives (LSD) pools: Pools such as Lido and RocketPool are considered “liquid staking derivatives” pools because they invented the method of exchanging staked coins for proxy tokens. The way they work is that they deploy a smart contract in the blockchain and let anyone deposit coins to use as staking capital. Then, they hire node operators to deploy this capital and validate and produce blocks.
+1. 交易所赞助池:这些权益质押池由Coinbase或币安等知名交易所管理。他们为客户提供投币的可能性，然后他们转身使用这些资本在自己的数据中心运行自己的节点，在目标网络中生产和验证区块。这些池为他们的代币客户提供代理代币，如cbETH (Coinbase封装的有价ETH)和BETH(币安有价ETH)。
+2. 液体押注衍生品(LSD)池:Lido和RocketPool等池被认为是“液体押注衍生品”池，因为它们发明了将押注硬币兑换为代理代币的方法。他们的工作方式是在区块链中部署智能合约，允许任何人存入硬币作为权益资本。然后，他们雇佣节点操作员来部署这些资本，并验证和生产区块。
 
-## Block Production Process
+## 区块生产流程
 
-It is important to note, that even if the market has evolved into the staking pool model mainly, technically, however risky and unprofitable, it is entirely possible for end users to set up their own validating nodes, deposit their own capital, and produce and validate blocks directly.
+值得注意的是，即使市场在技术上主要演变为权益池模型，无论风险和无利可图，最终用户完全有可能建立自己的验证节点，存入自己的资金，并直接生产和验证区块。
 
-Regardless of the model followed, the block production process works as a voting mechanism:
+无论遵循哪种模型，区块生产过程都是一种投票机制:
 
-1. Of the validator set, one is chosen to produce the next block.
-2. When the block is produced, it is sent to a committee of validators formed for that block.
-3. The committee must vote with a supermajority of 2/3rds to validate the block.
-4. Once the block is validated, then it is sent to the rest of the network for inclusion as the last state of the network.
+1. 在验证者集中，选择一个来生成下一个块。
+2. 当生成块时，它被发送到为该块组成的验证者委员会。
+3. 该委员会必须以2/3的绝对多数投票才能生效。
+4. 一旦区块被验证，它就会被发送到网络的其他部分，作为网络的最后一个状态。
 
-## Centralization Risks
+## 中心化风险
 
-The main centralization risks of the proof of stake model revolve around the economies of scale of the system and how easy it is to capture the various staking operations.
+权益证明模型的主要集中化风险围绕着系统的规模经济以及捕获各种权益证明操作的容易程度。
 
-**Staking pools and node operators/validators are static and easy to find:** Staking requires static accounts on the network, therefore it is easy to track and find validators and pools.
+**标记池和节点操作符/验证器是静态的，很容易找到:** 标记需要网络上的静态帐户，因此很容易跟踪和找到验证器和池。
 
-**Staking pools take deposits that are securities:** The Securities and Exchange Commission in the United States has decided that staking deposits in exchanges are securities, therefore completely subject to government regulation.
+**权益质押池吸收的存款是有价证券:** 美国证券交易委员会已经决定，在交易所的赌注存款是有价证券，因此完全受政府监管。
 
-**Staking pools and node operators are inside the ledger:** In contrast to PoW mining, which is external, staking is an activity that happens inside the ledger of the blockchain. This means that if pools and validators get censored and captured, there is no way of separating from them as they would tag along even if the network splits.
+**权益质押池和节点操作符在账本内部:** 与外部的PoW挖矿相比，注记是发生在区块链账本内部的活动。这意味着如果池和验证器被审查和捕获，则无法将它们分离，因为即使网络分裂，它们也会跟随标记。
 
-**Staking pools will all be regulated financial institutions:** As seen with the growth and market share of centralized exchanges in the staking pool business, and now that the SEC has defined such business as a security, we can now more clearly observe that financial institutions are going to be the main stakers, node operators, and pool operators in Ethereum and other proof of stake networks.
+**权益质押池将全部是受监管的金融机构:** 正如集中式交易所在赌注池业务中的增长和市场份额所见，现在美国证券交易委员会已将此类业务定义为证券，我们现在可以更清楚地观察到，金融机构将成为以太坊和其他权益证明网络的主要股东、节点运营商和池运营商。
 
-**Staking pools suffer unrestricted economies of scale:** Just as the banking system, the staking industry will be dominated by 3 or 4 cartelized entities. This is because capital inside the network may flow with no local or real world restrictions.
+**权益质押池遭受不受限制的规模经济:** 就像银行系统一样，权益质押行业将由3或4个卡特尔实体主导。这是因为网络内的资本流动可能不受本地或现实世界的限制。
 
-**Staking pools and validators must be online all the time:** The fact that the design of proof of stake has many restrictions that proof of work does not, such as locked deposits, liveness penalties, and slashing, makes it very difficult to exit the system to relocate or hide in case of legal changes or geopolitical problems.
+**权益质押池和验证者必须一直在线:** 事实上，权益证明的设计有许多工作证明没有的限制，比如锁定存款，活罚，以及大幅削减，这使得在法律变化或地缘政治问题时很难退出系统重新安置或隐藏。
 
-**In proof of stake, there is no alternative to centralized and captured pools:** Once the staking pool industry is centralized, there is no recourse by users to enter transactions that could eventually be processed by some staker outside of the dominating cartels. For the reasons stated above, the pooling cartel in proof of stake will necessarily have nearly 100% control of the system.
+**在权益证明中，除了中心化和捕获池之外，没有其他选择:** 一旦权益池行业中心化，用户就没有追索权来输入最终可能由主导卡特尔之外的某些利益相关者处理的交易。由于上述原因，权益证明中的池化卡特尔必然对系统拥有近100%的控制权。
 
-**Proof of stake does not have the decentralization guarantees that proof of work has:** Proof of work guarantees that miners and mining pools may change all the time, migrate from place to place, and exit and enter the network whenever they please because it has the two guarantees that proof of stake does not have: It enables consensus without having to check with anyone in the world except by just verifying the proof of work in the latest block, and it enables free entry and exit without having to check with anyone in the world except by just checking the most work done on the network.
+**工作量证明不具有工作量证明所具有的去中心化保证:** 工作量证明保证矿工和矿池可以随时更改，从一个地方迁移到另一个地方，并随时退出和进入网络，因为它具有权益证明所不具有的两个保证:它实现了共识，而无需与世界上任何人进行验证，除非在最新的区块中验证工作证明;它实现了自由进入和退出，而无需与世界上任何人进行验证，除非只需检查网络上完成的大部分工作。
 
-## Benefits
+## 好处
 
-The main benefit promoted by proof of stake advocates is that it saves 99% of the electricity that proof of work uses and thus helps the planet. It is true that it saves energy, but it is doubtful that large proof of work blockchains as Bitcoin and Ethereum Classic cause any harm to the environment. In fact, proof of work mining is actually performed using renewable energy in its majority, promoting and accelerating the migration to that electricity generation model.
+权益证明的倡导者宣扬的主要好处是，它节省了工作量证明使用的99%的电力，从而帮助了地球。它确实节省了能源，但比特币和以太坊经典等大型工作量证明区块链是否会对环境造成任何损害，这一点值得怀疑。事实上，工作量证明挖矿实际上主要是使用可再生能源进行的，促进并加速了向这种发电模式的迁移。
 
-The other benefit touted is that PoS is better for implementing new scaling solutions compared to the proof of work architecture. This is true, but in the end, both in PoS and PoW the great majority of high volume, low value transactions will be executed in layer 2 systems and above, so this benefit hardly has any marginal value over PoW.
+另一个被吹捧的好处是，与工作量证明架构相比，PoS更适合实现新的扩展解决方案。这是正确的，但最终，无论是PoS还是PoW，绝大多数高容量、低价值的交易都将在第二层系统或更高的系统中执行，因此这种好处几乎没有任何边际价值。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期内容!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多ETC相关内容，请访问: https://ethereumclassic.org
