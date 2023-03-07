@@ -98,7 +98,7 @@ So, the difficulty adjustment is to increase or decrease the target that the cry
 
 The network is constantly measuring how much time elapses between blocks. When it gets above or below certain parameters, then the difficulty is adjusted higher or lower to get back to the target 13 seconds per block, on average.
 
-This is a more technical explanation given to us by Ethereum Classic core developer, Doego López León, who maintains the ETC instance of the [Hyperledger Besu](https://ethereumclassic.org/blog/2023-01-10-hyperledger-besu-explained) node software client:
+This is a more technical explanation given to us by Ethereum Classic core developer, Diego López León, who maintains the ETC instance of the [Hyperledger Besu](https://ethereumclassic.org/blog/2023-01-10-hyperledger-besu-explained) node software client:
 
 1. The mining difficulty in ETC adjusts every block
 2. The target block time for ETC is 13 seconds. This means that the network aims to produce a new block every 13 seconds on average. However, the actual block time may vary slightly due to factors such as network congestion and mining variance.
