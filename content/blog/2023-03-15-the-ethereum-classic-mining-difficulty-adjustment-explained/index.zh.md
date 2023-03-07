@@ -64,7 +64,7 @@ For new entrants, the way of knowing if they are joining the right network is ju
 
 But, what would happen if the dedicated computing power increases or decreases significantly?
 
-As Bitcoin has a block time of 10 minutes, Ethereum Classic has a block time of 15 seconds. This means that a block, together with its new issuance of coins as a reward for miners, is built every 15 seconds stabilizing the creation of the money and the amount of data accumulated by the network. 
+As Bitcoin has a target block time of 10 minutes, Ethereum Classic has a target block time of 13 seconds. This means that a block, together with its new issuance of coins as a reward for miners, is built on average every 13 seconds stabilizing the creation of the money and the amount of data accumulated by the network. 
 
 Block times would become either very fast or very slow with increases or decreases in computing power dedicated to the system. This may happen as computing becomes more efficient with innovation as time passes, when miners just buy more machines and point them to the network, or when they decide to turn off their machines because profitability is low.
 
@@ -78,9 +78,9 @@ The solution to keep the blocks at a steady and stable rate is by adjusting the 
 
 As said before, the hashrate of ETC may grow when machines become more efficient as time passes by, or when miners just buy more machines increasing the computing power dedicated to the network. 
 
-When this happens, blocks may become much faster than 15 seconds. To slow them down again, the network adjusts the difficulty higher so it may take about 15 seconds again, on average, to build blocks.
+When this happens, blocks may become much faster than 13 seconds. To slow them down again, the network adjusts the difficulty higher so it may take about 13 seconds again, on average, to build blocks.
 
-When hashrate shrinks for any reason, then blocks become too slow. To speed them up, the network adjusts the difficulty lower so it may fine tune the block times back to around 15 seconds, on average. 
+When hashrate shrinks for any reason, then blocks become too slow. To speed them up, the network adjusts the difficulty lower so it may fine tune the block times back to around 13 seconds, on average. 
 
 ## How Proof of Work Works
 
@@ -88,7 +88,7 @@ When hashrate shrinks for any reason, then blocks become too slow. To speed them
 
 The best way to explain the difficulty adjustment is by explaining how proof of work works. It all start with miners receiving and preparing the block data. When they have it together, then they hash the data to create a cryptographic stamp for that information. When they create the stamp, they check if the stamp hit a target imposed by the network. If the target is not hit, which happens the great majority of times, then miners have to go back and re-hash the information, producing a new stamp, that they have to check again. This may happen quadrillions of times per second and this is why there is so much work involved, with so much computing power and electricity usage in PoW mining.
 
-When any miner finally hits the target, which happens, on average, every 15 seconds in ETC, then it sends the finished block to the rest of the network so it may be verified and the miner may get his reward. 
+When any miner finally hits the target, which happens, on average, every 13 seconds in ETC, then it sends the finished block to the rest of the network so it may be verified and the miner may get his reward. 
 
 ## Difficulty Adjustment Means to Adjust the Target
 
@@ -96,7 +96,15 @@ When any miner finally hits the target, which happens, on average, every 15 seco
 
 So, the difficulty adjustment is to increase or decrease the target that the cryptographic stamp must hit for the block hash to be considered valid. An adjustment to a larger target means it is easier to hit so block times are reduced. An adjustment to a smaller target means it is harder to hit, thus increasing the block times.
 
-The network is constantly measuring how much time elapses between blocks. When it gets above or below certain parameters, then the difficulty is adjusted higher or lower to get back to the target 15 seconds per block, on average.
+The network is constantly measuring how much time elapses between blocks. When it gets above or below certain parameters, then the difficulty is adjusted higher or lower to get back to the target 13 seconds per block, on average.
+
+This is a more technical explanation given to us by Ethereum Classic core developer, Diego López León, who maintains the ETC instance of the [Hyperledger Besu](https://ethereumclassic.org/blog/2023-01-10-hyperledger-besu-explained) node software client:
+
+1. The mining difficulty in ETC adjusts every block
+2. The target block time for ETC is 13 seconds. This means that the network aims to produce a new block every 13 seconds on average. However, the actual block time may vary slightly due to factors such as network congestion and mining variance.
+3. The mining difficulty is expressed as a number called the difficulty target. This target is a 256-bit number that represents the maximum value of a valid hash that can be used to mine a block. Miners need to find a hash that is less than or equal to this target in order to create a valid block.
+4. The difficulty is adjusted using a formula that takes into account the time it took to mine the previous block and the ideal block time of 13 seconds. If the previous block was mined too quickly, the difficulty will decrease, and if it took too long to mine, the difficulty will increase.
+5. The threshold for a valid block hash is determined by the current difficulty target. Miners must find a hash that is lower than or equal to the current difficulty target in order for the block to be considered valid.
 
 ## How Difficulty Is Measured
 
@@ -118,7 +126,7 @@ The quantities used in the industry to set difficulty targets are usually the fo
 
 For example, ETC’s current network difficulty at the time of this writing is 1.63 petahashes per second.
 
-This means that miners collectively should work at a rate of 1,630,000,000,000,000 hashes per second to discover, on average, a block every 15 seconds.
+This means that, at the time of this writing, miners collectively should work at a rate of 1,630,000,000,000,000 hashes per second to discover, on average, a block every 13 seconds.
 
 ---
 
