@@ -48,6 +48,32 @@
 ### END APP TEMPLATE
 #
 # ADD YOUR NEW APP HERE
+- title: TurbineSwap
+  date: 2023-03-03
+  image: https://i.ibb.co/923cbCs/Untitled-design-4.png
+  author: Rohit Kumar Gupta
+  authorLink: https://github.com/IamRohitKGupta
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x2800e69B8c5d6b7ACA3Da2A91D8917d2Edb549DB/contracts#address-tabs
+  description: Swap, provide LP, and grab your audience on the leading multi dapp protocol on Ethereum Classic. 
+  type: finance
+  links:
+    - name: Launch ETC DApp
+      link: https://etc.turbineswap.com/#/swap
+    - name: Homepage
+      link: https://turbineswap.com/
+      icon: home
+    - name: Documentation
+      link: https://turbineswap.gitbook.io/turbine-swap-docs/
+      icon: book
+    - name: Twitter
+      link: https://twitter.com/TurbineSwap
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/TurbineSwap
+      icon: telegram
+    - name: Discord
+      link: https://discord.com/invite/EES32tr2fG
+      icon: discord
 - title: ghostNFT
   date: 2023-02-20
   type: nfts
