@@ -3,7 +3,8 @@ title: "以太坊经典中的无许可悖论"
 date: 2022-12-08
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["opinion", "education", "philosophy"]
+disclaimer: opinion
+tags: ["education", "philosophy"]
 linkImage: ./permissionlessness-banner-cn.png
 ---
 

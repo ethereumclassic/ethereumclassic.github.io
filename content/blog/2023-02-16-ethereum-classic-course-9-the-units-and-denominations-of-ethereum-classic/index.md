@@ -3,7 +3,7 @@ title: "Ethereum Classic Course: 9. The Units and Denominations of Ethereum Clas
 date: 2023-02-16
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Course", "Education"]
+tags: ["series", "education"]
 linkImage: ./etc-units-denominations.png
 ---
 

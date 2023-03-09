@@ -3,7 +3,7 @@ title: "Ethereum Classic Course: 2. The Cypherpunks"
 date: 2022-12-29
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["education", "course"]
+tags: ["education", "series"]
 linkImage: ./etc-course-etc-cypherpunks.png
 ---
 

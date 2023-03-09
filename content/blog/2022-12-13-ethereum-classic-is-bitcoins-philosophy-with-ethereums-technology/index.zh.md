@@ -3,7 +3,8 @@ title: "拥有比特币哲学和以太坊技术的以太坊经典"
 date: 2022-12-13
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["opinion", "education", "philosophy"]
+disclaimer: opinion
+tags: ["education", "philosophy"]
 linkImage: ./etc-is-btc-eth-cn.png
 ---
 

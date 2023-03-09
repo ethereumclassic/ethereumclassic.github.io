@@ -3,7 +3,8 @@ title: "以太坊经典中的向后兼容原则"
 date: 2023-02-08
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Opinion"]
+disclaimer: opinion
+tags: ["philosophy"]
 linkImage: ./etc-bc-banner.png
 ---
 

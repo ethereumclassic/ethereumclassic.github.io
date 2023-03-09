@@ -2,9 +2,9 @@
 title: "在以太坊经典中安全意味着什么?"
 date: 2023-02-15
 author: Donald McIntyre
-disclaimer: opinion
 contributors: ["DonaldMcIntyre"]
-tags: ["Opinion"]
+disclaimer: opinion
+tags: ["philosophy"]
 linkImage: ./etc-security-banner.png
 ---
 

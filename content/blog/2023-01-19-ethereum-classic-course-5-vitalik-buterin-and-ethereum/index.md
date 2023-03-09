@@ -3,7 +3,7 @@ title: "Ethereum Classic Course: 5. Vitalik Buterin and Ethereum"
 date: 2023-01-19
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Education", "Course"]
+tags: ["education", "series"]
 linkImage: ./v-and-eth-banner.png
 ---
 

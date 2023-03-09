@@ -3,7 +3,7 @@ title: "以太坊经典课程: 5. Vitalik Buterin(维塔利克·布特林)和以
 date: 2023-01-19
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Education", "Course"]
+tags: ["education", "series"]
 linkImage: ./v-and-eth-banner.png
 ---
 

@@ -3,7 +3,7 @@ title: "The Difference Between Blockchain Software and Blockchain Protocol"
 date: 2022-11-30
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["education", "infrastructure"]
+tags: ["education"]
 linkImage: ./blockchain-software-vs-protocol-banner.png
 ---
 

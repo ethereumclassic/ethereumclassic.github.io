@@ -3,7 +3,7 @@ title: "如何为ETC做贡献: 社区推文"
 date: 2023-02-14
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Tutorials", "Education"]
+tags: ["guide", "education"]
 linkImage: ./etc-tweets-banner.png
 ---
 

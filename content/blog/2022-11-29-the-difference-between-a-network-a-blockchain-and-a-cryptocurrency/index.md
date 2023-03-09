@@ -3,7 +3,7 @@ title: "The Difference Between a Network, a Blockchain, and a Cryptocurrency"
 date: 2022-11-29
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["education", "infrastructure"]
+tags: ["education"]
 linkImage: ./network-blockchain-cryptocurrency-banner.png
 ---
 
