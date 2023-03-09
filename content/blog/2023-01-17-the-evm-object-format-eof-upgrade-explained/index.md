@@ -3,7 +3,7 @@ title: "The EVM Object Format (EOF) Upgrade Explained"
 date: 2023-01-17
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["News", "Tutorial"]
+tags: ["guide"]
 linkImage: ./eof-banner-2.png
 ---
 

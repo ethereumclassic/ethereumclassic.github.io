@@ -3,7 +3,7 @@ title: "以太坊经典课程: 1. 公钥密码学"
 date: 2022-12-22
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["education", "course"]
+tags: ["education", "series"]
 linkImage: ./etc-course-1-banner.png
 ---
 

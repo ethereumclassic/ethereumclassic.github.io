@@ -3,7 +3,8 @@ title: "Ethereum's Social Consensus vs Ethereum Classic's Code Is Law"
 date: 2023-01-25
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Opinion", "Philosophy"]
+disclaimer: opinion
+tags: ["philosophy"]
 linkImage: ./eth-etc-philosophies.png
 ---
 

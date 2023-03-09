@@ -3,7 +3,7 @@ title: "Alert: Migrate Your ETC Endpoints From Ethercluster to Rivet by July 1st
 date: 2023-01-04
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["News", "Announcement"]
+tags: ["announcement"]
 linkImage: ./etc-endpoint-alert-banner.png
 ---
 

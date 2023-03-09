@@ -2,9 +2,9 @@
 title: "What Does Security Mean in Ethereum Classic?"
 date: 2023-02-15
 author: Donald McIntyre
-disclaimer: opinion
 contributors: ["DonaldMcIntyre"]
-tags: ["Opinion"]
+disclaimer: opinion
+tags: ["philosophy"]
 linkImage: ./etc-security-banner.png
 ---
 
