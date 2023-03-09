@@ -124,4 +124,8 @@ Both ETC and BTC are sound money and transferable permissionlessly over the inte
 
 **Thank you for reading this article!**
 
+To monitor the ETC fifthening clock go to: https://etcis.money/
+
+Tomonitor the Bitcoin halving clock go to: https://buybitcoinworldwide.com/halving/
+
 To learn more about ETC please go to: https://ethereumclassic.org
