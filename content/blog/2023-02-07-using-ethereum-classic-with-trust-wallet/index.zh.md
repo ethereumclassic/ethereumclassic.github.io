@@ -3,7 +3,7 @@ title: "在信任钱包Trust Wallet中使用以太坊经典"
 date: 2023-02-07
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Education", "Tutorial"]
+tags: ["education", "guide"]
 linkImage: ./etc-tw-banner.png
 ---
 

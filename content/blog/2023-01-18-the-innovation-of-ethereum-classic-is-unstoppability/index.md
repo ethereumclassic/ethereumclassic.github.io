@@ -3,7 +3,7 @@ title: "The Innovation of Ethereum Classic Is Unstoppability"
 date: 2023-01-18
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["News", "Opinion"]
+tags: ["philosophy"]
 linkImage: ./etc-unstoppable-banner.png
 ---
 

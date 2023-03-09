@@ -3,7 +3,7 @@ title: "Using Ethereum Classic With Trust Wallet"
 date: 2023-02-07
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Education", "Tutorial"]
+tags: ["education", "guide"]
 linkImage: ./etc-tw-banner.png
 ---
 

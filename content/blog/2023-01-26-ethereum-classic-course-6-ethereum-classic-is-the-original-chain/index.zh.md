@@ -3,7 +3,7 @@ title: "以太坊经典课程: 6. 以太坊经典是原始链"
 date: 2023-01-26
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Course", "Education"]
+tags: ["series", "education"]
 linkImage: ./etc-course-banner.png
 ---
 

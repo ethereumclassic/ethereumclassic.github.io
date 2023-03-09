@@ -3,7 +3,7 @@ title: "Ethereum Virtual Machine Blockchains and Ethereum Classic"
 date: 2022-12-06
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["education", "infrastructure"]
+tags: ["education"]
 linkImage: ./evm-etc-banner.png
 ---
 

@@ -3,7 +3,7 @@ title: "Erigon Explained"
 date: 2023-01-24
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Education", "Infrastructure"]
+tags: ["education"]
 linkImage: ./erigon-banner.png
 ---
 

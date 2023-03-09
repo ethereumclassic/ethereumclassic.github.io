@@ -3,7 +3,7 @@ title: "以太坊的社会共识 vs 以太坊经典的代码即法律"
 date: 2023-01-25
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Opinion", "Philosophy"]
+tags: ["philosophy"]
 linkImage: ./eth-etc-philosophies.png
 ---
 

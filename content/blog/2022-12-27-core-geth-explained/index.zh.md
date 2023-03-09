@@ -3,7 +3,7 @@ title: "Core Geth详解"
 date: 2022-12-27
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["education", "infrastructure"]
+tags: ["education"]
 linkImage: ./core-geth-explained-banner.png
 ---
 

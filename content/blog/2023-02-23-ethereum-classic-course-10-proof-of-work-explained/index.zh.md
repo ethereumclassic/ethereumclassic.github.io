@@ -3,7 +3,7 @@ title: "以太坊经典课程: 10. 工作量证明详解"
 date: 2023-02-23
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Course", "Education"]
+tags: ["series", "education"]
 linkImage: ./pow-explained-banner.png
 ---
 

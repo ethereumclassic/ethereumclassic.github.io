@@ -3,7 +3,7 @@ title: "Ethereum Classic Course: 8. Ethereum Classic's Monetary Policy"
 date: 2023-02-09
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Course", "Education"]
+tags: ["series", "education"]
 linkImage: ./etc-mp-banner.png
 ---
 

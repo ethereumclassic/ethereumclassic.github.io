@@ -3,7 +3,7 @@ title: "网络、区块链和加密货币之间的区别"
 date: 2022-11-29
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["education", "infrastructure"]
+tags: ["education"]
 linkImage: ./network-blockchain-cryptocurrency-banner.png
 ---
 
