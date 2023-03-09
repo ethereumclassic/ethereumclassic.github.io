@@ -3,7 +3,7 @@ title: "以太坊经典课程12. 权益证明详解"
 date: 2023-03-09
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["course", "education"]
+tags: ["series", "education"]
 linkImage: ./banner.png
 ---
 
