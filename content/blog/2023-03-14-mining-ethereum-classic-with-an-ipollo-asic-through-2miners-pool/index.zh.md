@@ -3,7 +3,7 @@ title: "Mining Ethereum Classic With An iPollo ASIC Through 2Miners Pool"
 date: 2023-03-14
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Infrastructure", "Tutorial"]
+tags: ["mining", "guide"]
 linkImage: ./banner.png
 ---
 
