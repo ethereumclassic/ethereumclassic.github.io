@@ -18,7 +18,7 @@ Now, ETC is like a young oak that has survived the initial challenges of growth 
 
 ## Cutting Through the Weeds
 
-ETC has quietly built a foundation that can weather the storm of the crypto market's short-term thinking. Like a great oak tree, ETC has taken its time to establish deep roots that provide stability for growth in the long run. Rapid growth in other project may have gained more attention in the short term, but it will likely cause them to burn out too quickly.
+ETC has quietly built a foundation that can weather the storm of the crypto market's short-term thinking. Like a great oak tree, ETC has taken its time to establish deep roots that provide stability for growth in the long run. Rapid growth in other projects may have gained more attention in the short term, but it will likely cause them to burn out too quickly.
 
 However, ETC's slow and steady approach is paying off. The groundwork has been laid, and the stage is set for a sudden and explosive burst of unbridled growth - what some in the industry call "The Hockey Stick." ETC's mature and stable foundation will enable it to rise above the noise and absorb all the sunlight in the crypto space.
 
