@@ -42,7 +42,7 @@ The whole purpose of blockchains is decentralization, but PoA networks are clear
 
 PoA is useful for certain use cases between trusted participants such as banks, governments, and corporations with their constituents and business ecosystems, as mentioned before.
 
-The reason for which least a supermajority of 2/3 rds is needed to vote on blocks to validate them is to neutralize the 1/3 who could disrupt the network because systems that are not Proof of Work have only a 1/3 fault tolerance.
+The reason why at least a supermajority of 2/3 rds votes is needed for block validation is to neutralize the 1/3 who could disrupt the network because systems that are not Proof of Work have only a 1/3 fault tolerance.
 
 PoA blockchains are characterized by a limited number of actors who run the network nodes.
 
