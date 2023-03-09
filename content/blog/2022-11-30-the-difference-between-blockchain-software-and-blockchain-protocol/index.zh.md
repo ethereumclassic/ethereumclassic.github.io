@@ -3,7 +3,7 @@ title: "区块链软件与区块链协议的区别"
 date: 2022-11-30
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["education", "infrastructure"]
+tags: ["education"]
 linkImage: ./blockchain-software-vs-protocol-banner.png
 ---
 

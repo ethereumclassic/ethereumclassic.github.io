@@ -3,7 +3,8 @@ title: "以太坊经典是抗审查的，而以太坊并不是"
 date: 2023-02-22
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Opinion"]
+disclaimer: opinion
+tags: ["philosophy"]
 linkImage: ./etc-is-eth-is-not.png
 ---
 

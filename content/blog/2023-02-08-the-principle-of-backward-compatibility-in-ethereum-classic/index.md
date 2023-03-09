@@ -3,7 +3,7 @@ title: "The Principle of Backward Compatibility in Ethereum Classic"
 date: 2023-02-08
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Opinion"]
+tags: ["philosophy"]
 linkImage: ./etc-bc-banner.png
 ---
 
