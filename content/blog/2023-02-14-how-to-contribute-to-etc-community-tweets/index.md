@@ -3,7 +3,7 @@ title: "How to Contribute to ETC: Community Tweets"
 date: 2023-02-14
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Tutorials", "Education"]
+tags: ["guide", "education", "series"]
 linkImage: ./etc-tweets-banner.png
 ---
 

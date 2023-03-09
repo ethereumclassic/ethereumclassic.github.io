@@ -3,7 +3,7 @@ title: "以太坊经典的创新是其不可阻挡性"
 date: 2023-01-18
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["News", "Opinion"]
+tags: ["philosophy"]
 linkImage: ./etc-unstoppable-banner.png
 ---
 

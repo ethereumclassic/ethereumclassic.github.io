@@ -3,7 +3,7 @@ title: "如何为ETC做出贡献:改进建议流程(ECIP)"
 date: 2022-12-20
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["tutorial", "education"]
+tags: ["guide", "education"]
 linkImage: ./ecip-process-banner.png
 ---
 

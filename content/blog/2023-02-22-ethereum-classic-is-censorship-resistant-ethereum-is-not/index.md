@@ -3,7 +3,8 @@ title: "Ethereum Classic Is Censorship Resistant, Ethereum Is Not"
 date: 2023-02-22
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Opinion"]
+disclaimer: opinion
+tags: ["philosophy"]
 linkImage: ./etc-is-eth-is-not.png
 ---
 

@@ -3,7 +3,7 @@ title: "How to Contribute to ETC: The Community Website"
 date: 2023-01-03
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["tutorials", "education"]
+tags: ["guide", "education", "series"]
 linkImage: ./1.png
 ---
 

@@ -3,7 +3,7 @@ title: "Ethereum Classic Course: 4. Satoshi Nakamoto and Bitcoin"
 date: 2023-01-12
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["education", "course"]
+tags: ["education", "series"]
 linkImage: ./satoshi-bitcoin-banner.png
 ---
 

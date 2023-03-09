@@ -3,7 +3,7 @@ title: "Using Ethereum Classic With MyCrypto"
 date: 2023-03-01
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Tutorial"]
+tags: ["guide"]
 linkImage: ./1.png
 ---
 

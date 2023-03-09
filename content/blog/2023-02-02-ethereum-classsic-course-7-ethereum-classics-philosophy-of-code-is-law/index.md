@@ -3,7 +3,7 @@ title: "Ethereum Classic Course: 7. Ethereum Classic's Philosophy of Code Is Law
 date: 2023-02-02
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Course", "Education"]
+tags: ["series", "education"]
 linkImage: ./etc-code-is-law-banner.png
 ---
 

@@ -3,7 +3,7 @@ title: "Ethereum Classic Course: 1. Public Key Cryptography"
 date: 2022-12-22
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["education", "course"]
+tags: ["education", "series"]
 linkImage: ./etc-course-1-banner.png
 ---
 

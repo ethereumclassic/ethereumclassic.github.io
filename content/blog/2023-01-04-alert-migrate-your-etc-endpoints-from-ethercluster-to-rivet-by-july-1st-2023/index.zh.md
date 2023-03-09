@@ -3,7 +3,7 @@ title: "重要告知:2023年7月1日之前请将您的ETC端点从Ethercluster�
 date: 2023-01-04
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["News", "Announcement"]
+tags: ["announcement"]
 linkImage: ./etc-endpoint-alert-banner.png
 ---
 
