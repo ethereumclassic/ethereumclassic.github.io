@@ -32,7 +32,7 @@ One of the validators is selected to produce a block per round.
 
 Then, they send the block to the rest of the validators.
 
-When the rest of the validators receive they block, they vote on it by supermajority of 2/3 rds or unanimously, depending on the network.
+When the rest of the validators receive the block, they vote on it by supermajority of 2/3 rds or unanimously, depending on the network.
 
 After being approved, the block is sent to the rest of the network participants who accept it as the next canonical state of the network.
 
