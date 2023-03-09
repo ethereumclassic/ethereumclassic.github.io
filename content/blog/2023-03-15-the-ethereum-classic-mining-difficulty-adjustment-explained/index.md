@@ -3,7 +3,7 @@ title: "The Ethereum Classic Mining Difficulty Adjustment Explained"
 date: 2023-03-15
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["infrastructure"]
+tags: ["mining", "education"]
 linkImage: ./etc-difficulty-banner.png
 ---
 
