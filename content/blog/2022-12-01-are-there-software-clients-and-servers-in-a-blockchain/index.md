@@ -3,7 +3,7 @@ title: "Are There Software Clients and Servers in a Blockchain?"
 date: 2022-12-01
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["education", "infrastructure"]
+tags: ["education"]
 linkImage: ./clients-servers-banner.png
 ---
 

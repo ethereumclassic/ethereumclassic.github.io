@@ -59,6 +59,7 @@ export default function NewsFilters({ i18n, pageContext, inline }) {
         inline={inline}
         icon="tag"
         title={i18n.tags}
+        // TODO sort properly
         items={allTags.map((tag) => ({
           key: tag,
           link: `/${basePath}/tag/${tag}`,

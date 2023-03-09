@@ -3,7 +3,7 @@ title: "以太坊经典课程:4.中本聪与比特币"
 date: 2023-01-12
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["education", "course"]
+tags: ["education", "series"]
 linkImage: ./satoshi-bitcoin-banner.png
 ---
 

@@ -3,7 +3,7 @@ title: "通过MyCrypto使用以太坊经典"
 date: 2023-03-01
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Tutorial"]
+tags: ["guide"]
 linkImage: ./1.png
 ---
 

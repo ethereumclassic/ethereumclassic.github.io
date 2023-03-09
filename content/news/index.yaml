@@ -18,13 +18,12 @@ tagNames:
   mining: Mining
   podcast: Podcasts
   teams: Teams
-  tech: Technology
   trading: Trading
   wallet: Wallets
   video: Videos
-  news: Headlines
-  opinion: Opinion
+  news: External Links
   philosophy: Philosophy
+  series: Series
 __contributors:
   - pyskell
   - dax-classix

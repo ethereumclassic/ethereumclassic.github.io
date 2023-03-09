@@ -3,7 +3,7 @@ title: 通过Ledger Nano S使用以太坊经典
 date: 2023-02-21
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Course", "Education"]
+tags: ["series", "education"]
 linkImage: ./1.png
 ---
 

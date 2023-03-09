@@ -3,7 +3,8 @@ title: "The Permissionless Paradox in Ethereum Classic"
 date: 2022-12-08
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["opinion", "education", "philosophy"]
+disclaimer: opinion
+tags: ["education", "philosophy"]
 linkImage: ./permissionlessness-banner.png
 ---
 
