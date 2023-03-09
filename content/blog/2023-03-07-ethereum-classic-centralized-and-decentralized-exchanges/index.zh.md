@@ -3,7 +3,7 @@ title: "以太坊经典, 中心化、和去中心化的交易所"
 date: 2023-03-07
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Tutorials", "Education"]
+tags: ["Education"]
 linkImage: ./2.png
 ---
 
