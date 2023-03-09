@@ -3,7 +3,7 @@ title: "Ethereum Classic Course: 11. Ethereum Classic Social and Physical Layer 
 date: 2023-03-02
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Course", "Education"]
+tags: ["series", "education"]
 linkImage: ./etc-social-physical-banner.png
 ---
 
