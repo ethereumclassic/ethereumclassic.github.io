@@ -3,7 +3,7 @@ title: "以太坊虚拟机和以太坊经典"
 date: 2022-12-06
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["education", "infrastructure"]
+tags: ["education"]
 linkImage: ./evm-etc-banner.png
 ---
 

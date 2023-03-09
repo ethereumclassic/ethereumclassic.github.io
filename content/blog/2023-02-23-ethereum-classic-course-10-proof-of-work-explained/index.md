@@ -3,7 +3,7 @@ title: "Ethereum Classic Course: 10. Proof of Work Explained"
 date: 2023-02-23
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Course", "Education"]
+tags: ["series", "education"]
 linkImage: ./pow-explained-banner.png
 ---
 

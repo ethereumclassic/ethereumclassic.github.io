@@ -3,7 +3,7 @@ title: "超级账本Hyperledger Besu详解"
 date: 2023-01-10
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["education", "infrastructure"]
+tags: ["education"]
 linkImage: ./h-besu-banner-article.png
 ---
 

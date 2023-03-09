@@ -3,7 +3,7 @@ title: "Ethereum Classic Course: Introduction"
 date: 2022-12-15
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["education", "course"]
+tags: ["education", "series"]
 linkImage: ./etc-course-banner.png
 ---
 
