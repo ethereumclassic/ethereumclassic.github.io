@@ -3,7 +3,7 @@ title: "Ethereum Classic Course: 12. Proof of Stake Explained"
 date: 2023-03-09
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["course", "education"]
+tags: ["series", "education"]
 linkImage: ./banner.png
 ---
 
