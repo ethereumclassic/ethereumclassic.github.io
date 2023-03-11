@@ -38,7 +38,11 @@ items:
       grants:
         question: Can I get funding to build on Ethereum Classic?
         answer: |
-          As Ethereum Classic has no centralized treasury, all development is necessarily either self-funded or via third party funding. In the past various third parties operated grants programs, and [ETC Cooperative](https://etccooperative.org/) has announced that it will launch a new grants program soon.
+          Yes. There are a number of past and present programs to encourage development on ETC.
+                    
+          A recent example is [ETC Grants DAO](https://etcgrantsdao.io), which launched an ETC grants program in 2023.
+          
+          As Ethereum Classic has no centralized treasury, all contributions to the project are externally funded. This includes contirbutors donating their time, and financial incentives from third party funding.
       ecips:
         question: How can I help with development of Ethereum Classic protocol?
         answer: |
