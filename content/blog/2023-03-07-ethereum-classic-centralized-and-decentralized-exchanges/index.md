@@ -3,7 +3,7 @@ title: "Ethereum Classic, Centralized, and Decentralized Exchanges"
 date: 2023-03-07
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Tutorials", "Education"]
+tags: ["education"]
 linkImage: ./2.png
 ---
 
