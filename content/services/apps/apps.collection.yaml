@@ -76,8 +76,13 @@
       icon: discord
 - title: ghostNFT
   date: 2023-02-20
+  image: ./images/GHOST_Logo.png
+  author: GHOST
+  authorLink: https://ghostchain.io/
   type: nfts
   description: Empowering NFT collection creators and holders through cross-chain NFT collateralization
+  openSource: https://github.com/realGhostChain/ERC721Envious
+  testSuite: https://github.com/realGhostChain/ERC721Envious
   links:
     - name: Launch App
       link: https://app.nft.ghostchain.io/#/classic
@@ -85,8 +90,20 @@
       link: https://nft.ghostchain.io/
       icon: home
     - name: Documentation
-      link: https://blog.ghostchain.io/wp-content/uploads/2022/12/ghostNFT_Litepaper.pdf
+      link: https://docs.ghostchain.io/
       icon: book
+    - name: Twitter
+      link: https://twitter.com/realGhostChain
+      icon: twitter
+    - name: Medium
+      link: https://ghostchain.medium.com/
+      icon: medium     
+    - name: Telegram
+      link: https://t.me/realGhostChain
+      icon: telegram      
+    - name: Github
+      link: https://github.com/realGhostChain/
+      icon: github  
 - title: Shiba Classic
   date: 2022-10-25
   type: other
