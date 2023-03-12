@@ -3,7 +3,7 @@ title: "以太坊经典对信任最小化的关注"
 date: 2023-03-08
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Philosophy"]
+tags: ["philosophy"]
 linkImage: ./1.png
 ---
 
