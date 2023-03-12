@@ -3,7 +3,7 @@ title: "Ethereum Classic's Focus on Trust Minimization"
 date: 2023-03-08
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Philosophy"]
+tags: ["philosophy"]
 linkImage: ./1.png
 ---
 
