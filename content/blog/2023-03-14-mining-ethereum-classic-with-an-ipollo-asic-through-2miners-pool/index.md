@@ -18,7 +18,7 @@ linkImage: ./banner.png
 
 ![iPollo, ETC, and 2miners.](./banner.png)
 
-Since the migration of Ethereum to the proof of stake consensus algorithm in September of 2015, the hashrate of Ethereum Classic (ETC) has increased enormously.
+Since the migration of Ethereum to the proof of stake consensus algorithm in September of 2022, the hashrate of Ethereum Classic (ETC) has increased enormously.
 
 As a consequence, by both hashrate and market cap, ETC is now the largest proof of work smart contracts blockchain in the world.
 
