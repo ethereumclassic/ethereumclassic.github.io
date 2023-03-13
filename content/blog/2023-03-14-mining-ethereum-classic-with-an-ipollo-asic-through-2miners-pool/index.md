@@ -75,7 +75,7 @@ Then, you need to connect the transformer to the iPollo ASIC miner as shown in t
 
 Now that your mining rig is connected and powered, you have to find its IP address in your local LAN so you may access its app from your browser from your computer (your computer needs to be connected through ethernet cable or WiFi to the local LAN as well).
 
-To do this, go to the IP address of your LAN modem (this may be Googled or requested to your internet provider if you don’t have it) access the app of your local LAN modem, find the iPollo machine in the “connected devices” section or equivalent, and then click on it to see its specific IP address.
+To do this, go to the IP address of your LAN modem (this may be Googled or requested from your internet provider if you don’t have it) access the app of your local LAN modem, find the iPollo machine in the “connected devices” section or equivalent, and then click on it to see its specific IP address.
 
 In our example we use Cox as our internet provider, and the iPollo rig IP address is 192.168.0.180.
 
