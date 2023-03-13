@@ -127,7 +127,7 @@ Then, get the instruction shown further below on that page for “ASIC Settings�
 
 ## 9. Enter Your Configuration on Your iPollo
 
-Now, you have to go back to the iPollo ASIC miner app and enter your configuration in the “Miner Configuration” page. In our example, we used the account shown below with the extension “ASIC_ID”, but you may use any ID number like ASIC_1 or ASIC_28, etc. The ID is in case you have several miners pointing to 2miners so you may identify them independently
+Now, you have to go back to the iPollo ASIC miner app and enter your configuration on the “Miner Configuration” page. In our example, we used the account shown below with the extension “ASIC_ID”, but you may use any ID number like ASIC_1 or ASIC_28, etc. The ID is in case you have several miners pointing to 2miners so you may identify them independently.
 
 Enter your configuration in the fields provided as shown in the image and press “Save & Apply”. Our miner configuration data in this example was: 
 
