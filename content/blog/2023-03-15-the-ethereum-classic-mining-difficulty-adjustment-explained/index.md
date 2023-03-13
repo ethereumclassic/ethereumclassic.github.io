@@ -103,7 +103,7 @@ This is a more technical explanation given to us by Ethereum Classic core develo
 1. The mining difficulty in ETC adjusts every block
 2. The target block time for ETC is 13 seconds. This means that the network aims to produce a new block every 13 seconds on average. However, the actual block time may vary slightly due to factors such as network congestion and mining variance.
 3. The mining difficulty is expressed as a number called the difficulty target. This target is a 256-bit number that represents the maximum value of a valid hash that can be used to mine a block. Miners need to find a hash that is less than or equal to this target in order to create a valid block.
-4. The difficulty is adjusted using a formula that takes into account the time it took to mine the previous block and the ideal block time of 13 seconds. If the previous block was mined too quickly, the difficulty will decrease, and if it took too long to mine, the difficulty will increase.
+4. The difficulty is adjusted using a formula that takes into account the time it took to mine the previous block and the ideal block time of 13 seconds. If the previous block was mined too quickly, the difficulty is increased, and if it took too long to mine, the difficulty will be decreased.
 5. The threshold for a valid block hash is determined by the current difficulty target. Miners must find a hash that is lower than or equal to the current difficulty target in order for the block to be considered valid.
 
 ## How Difficulty Is Measured
