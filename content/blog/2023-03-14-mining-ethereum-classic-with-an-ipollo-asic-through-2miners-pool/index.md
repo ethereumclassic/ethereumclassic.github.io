@@ -115,7 +115,7 @@ https://etc.2miners.com/help
 
 Once there, create an ETC wallet as per the instructions or use an existing wallet you already have, if you wish.
 
-Then, get the instruction shown further below in that page for “ASIC Settings”. The instructions are:
+Then, get the instruction shown further below on that page for “ASIC Settings”. The instructions are:
 
 **URL: stratum+tcp://etc.2miners.com:1010**
 
