@@ -26,7 +26,7 @@ As many individuals and businesses are planning to enter the mining business, an
 
 In this post we explain how to mine ETC with an iPollo ASIC mining rig, using the 2miners mining pool.
 
-![ETC hasrate growth.](./intro.png)
+![ETC hashrate growth.](./intro.png)
 
 ## 1. Buy the iPollo Mining Rig
 
