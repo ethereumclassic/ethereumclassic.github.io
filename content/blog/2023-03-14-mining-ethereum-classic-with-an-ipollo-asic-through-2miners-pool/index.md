@@ -151,7 +151,7 @@ You must wait 5 to 10 minutes for your iPollo to talk to 2miners and establish a
 
 Then, you will want to see if the work of your iPollo is actually being accepted by the 2miners mining pool. For this, go to the “Information Overview” tab on the left menu to see the statistics.
 
-In our example, the device number “0” (our machine) is enabled and active. For the URL which it is pointed to, it has performed 44 works of which 8 have been accepted, and 6:38 minutes have elapsed since we started mining.
+In our example, the device number “0” (our machine) is enabled and active. For the URL to which it is pointed, it has performed 44 works of which 8 have been accepted, and 6:38 minutes have elapsed since we started mining.
 
 From now on, your machine will be mining for 2 miners as long as it is on.
 
