@@ -1,5 +1,5 @@
 ---
-title: "The Ethereum Classic Mining Difficulty Adjustment Explained"
+title: "以太坊经典挖矿难度调整详解"
 date: 2023-03-15
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,128 +8,128 @@ linkImage: ./etc-difficulty-banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PgAaPaNdrHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-## Blockchain Networks Need a Consensus Mechanism
+## 区块链网络需要共识机制
 
-A network of peer-to-peer computers as Ethereum Classic (ETC); that maintains a ledger with accounts, balances, and smart contracts; with owners from different parts of the world, from different cultures, who speak different languages, have different worldviews, and don’t know or trust each other, need a secure consensus mechanism to update and keep the latest state of the system.
+一个点对点计算机网络，如以太坊经典(ETC);它维护一个包含账户、余额和智能合约的分类账;对于来自世界各地、不同文化、讲不同语言、有不同世界观、彼此不了解或不信任的所有者来说，需要一个安全的共识机制来更新和保持系统的最新状态。
 
-The reason that digital currencies hadn’t existed before Bitcoin was because there was no such consensus mechanism invented yet.
+数字货币在比特币之前不存在的原因是，当时还没有这种共识机制被发明出来。
 
-Previous solutions to consensus were too insecure as they only guaranteed fault tolerance up to a threshold of one third of failing or dishonest nodes.
+以前的共识解决方案太不安全了，因为它们只保证了故障或不诚实节点的三分之一的容错阈值。
 
-## Proof of Work Is the Solution to Consensus
+## 工作量证明是共识的解决方案
 
-The invention of proof of work (PoW) based consensus by Satoshi Nakamoto when he launched Bitcoin in 2009 solved this problem. Nakamoto Consensus, as it is known, raised the threshold of fault tolerance from one third of participating nodes to one half plus one, also known symbolically as 51%.
+中本聪(Satoshi Nakamoto)在2009年推出比特币时发明的基于共识的工作量证明(PoW)解决了这个问题。众所周知，“中本共识”将参与节点的容错阈值从三分之一提高到二分之一加一，也被象征性地称为51%。
 
-Not only did it raise the security margin of the system, but it also guaranteed an unprecedented level of decentralization, permissionlessness, and censorship resistance.
+它不仅提高了系统的安全边际，而且还保证了前所未有的去中心化、无许可性和抗审查性。
 
-Additionally, it brought a high degree of monetary soundness to the cryptocurrency inside the network because the cost of producing the money is the same as producing the blocks using PoW.
+此外，它为网络内部的加密货币带来了高度的货币稳健性，因为生产货币的成本与使用PoW生产区块的成本相同。
 
-Ethereum Classic uses the same consensus method as Bitcoin.
+以太坊经典使用与比特币相同的共识方法。
 
-## PoW Uses Computing Power and Energy
+## PoW使用计算能力和能源
 
-Proof of work consensus uses enormous computing power and enormous amounts of energy in the form of electricity to build blocks.
+工作量证明共识使用了巨大的计算能力和大量电力形式的能量来构建区块。
 
-The fact that these large investments in machines and energy are required is precisely why all participating nodes may reach global consensus on a block per block basis and enter and exit the system whenever they wish. 
+事实上，这些在机器和能源上的大量投资是必需的，这正是为什么所有参与节点可以在每个区块的基础上达成全球共识，并随时进入和退出系统的原因。
 
-This is all done with no central administrators directing them, without any permissions, and without the need for node operators to identify themselves.
+这一切都是在没有中央管理员指导的情况下完成的，不需要任何权限，也不需要节点操作符标识自己。
 
-## PoW Produces a Cryptographic Stamp
+## PoW产生一个加密戳
 
-A cryptographic stamp or hash is the result of this work. It is like an inviolable engraving that authenticates the transactions per block.
+加密戳或散列就是这项工作的结果。它就像一个不可侵犯的雕刻，验证每个区块的交易。
 
-This is because to produce the stamp requires enormous amounts of computing power and electricity consumption.
+这是因为制作邮票需要大量的计算能力和电力消耗。
 
-This feature makes the blocks and the blockchain practically impossible to forge or tamper with.
+这一特性使得区块和区块链几乎不可能被伪造或篡改。
 
-It also makes the cryptocurrency sound money because it imposes such a cost to produce it, very much like gold in the real world.
+它还使加密货币成为健全的货币，因为它的生产成本很高，非常像现实世界中的黄金。
 
-## The Cryptographic Stamp Is What Enables Consensus
+## 加密戳是实现共识的原因
 
-The cryptographic stamp is what keeps all participating nodes informed of what is the next correct block and which is the correct blockchain.
+加密戳是用来通知所有参与节点下一个正确块和正确区块链的。
 
-This double role is key for the network because participating nodes may always stay up to date with the blockchain, and exit and enter whenever they wish, without anyone directing them.
+这种双重角色对于网络来说非常关键，因为参与的节点可以始终保持区块链的最新状态，并且可以随时退出和进入，无需任何人指挥。
 
-The way for online nodes to know which is the correct next block is just by checking the proof of work in each block. 
+在线节点知道哪个是正确的下一个区块的方法只是通过检查每个区块中的工作证明。
 
-For new entrants, the way of knowing if they are joining the right network is just by checking the blockchain with the most accumulated work done.
+对于新进入者，知道他们是否加入了正确的网络的方法只是通过检查区块链的累积工作最多。
 
-## However, Changes in Hashrate Messes Things Up
+## 然而，哈希值的变化会把事情搞砸
 
-But, what would happen if the dedicated computing power increases or decreases significantly?
+但是，如果专用计算能力显著增加或减少会发生什么呢?
 
-As Bitcoin has a target block time of 10 minutes, Ethereum Classic has a target block time of 13 seconds. This means that a block, together with its new issuance of coins as a reward for miners, is built on average every 13 seconds stabilizing the creation of the money and the amount of data accumulated by the network. 
+比特币的目标区块时间为10分钟，以太坊经典的目标区块时间为13秒。这意味着一个区块，连同作为矿工奖励的新发行的硬币，平均每13秒就会建立起来，稳定货币的创造和网络积累的数据量。
 
-Block times would become either very fast or very slow with increases or decreases in computing power dedicated to the system. This may happen as computing becomes more efficient with innovation as time passes, when miners just buy more machines and point them to the network, or when they decide to turn off their machines because profitability is low.
+随着系统专用计算能力的增加或减少，块时间将变得非常快或非常慢。随着时间的推移，随着创新，计算变得更加高效，当矿工只是购买更多的机器并将它们指向网络时，或者当他们因为盈利能力低而决定关闭机器时，这种情况可能会发生。
 
-If blocks become very fast, then the issuance of the currency would increase, raising inflation, and bloating the network with too many blocks. If blocks become very slow, the issuance would be very deflationary, and the use of the network would become impractical as transactions would take too long to execute.
+如果区块变得非常快，那么货币的发行就会增加，从而提高通货膨胀率，并使网络因太多的区块而膨胀。如果区块变得非常缓慢，发行将非常通货紧缩，网络的使用将变得不切实际，因为交易执行时间太长。
 
-## The Solution Is the Difficulty Adjustment
+## 解决方法就是调整难度
 
-![It is difficult to get the cryptographic stamp on target.](./etc-difficulty-banner.png)
+![要在目标上获得加密戳是很困难的。](./etc-difficulty-banner.png)
 
-The solution to keep the blocks at a steady and stable rate is by adjusting the mining difficulty.
+保持区块稳定稳定的解决方案是通过调整采矿难度。
 
-As said before, the hashrate of ETC may grow when machines become more efficient as time passes by, or when miners just buy more machines increasing the computing power dedicated to the network. 
+如前所述，随着时间的推移，当机器变得更高效时，或者当矿工购买更多的机器来增加网络的计算能力时，ETC的哈希率可能会增长。
 
-When this happens, blocks may become much faster than 13 seconds. To slow them down again, the network adjusts the difficulty higher so it may take about 13 seconds again, on average, to build blocks.
+当这种情况发生时，块可能会比13秒快得多。为了再次减慢它们的速度，网络将难度调整得更高，因此平均来说，构建区块可能需要大约13秒。
 
-When hashrate shrinks for any reason, then blocks become too slow. To speed them up, the network adjusts the difficulty lower so it may fine tune the block times back to around 13 seconds, on average. 
+当哈希率因任何原因收缩时，区块就会变得太慢。为了加快速度，网络将难度调整得更低，这样它可能会将阻塞时间调整到平均13秒左右。
 
-## How Proof of Work Works
+## 工作量证明如何工作
 
-![Hitting the PoW target.](./1.png)
+![达成PoW目标](./1.png)
 
-The best way to explain the difficulty adjustment is by explaining how proof of work works. It all start with miners receiving and preparing the block data. When they have it together, then they hash the data to create a cryptographic stamp for that information. When they create the stamp, they check if the stamp hit a target imposed by the network. If the target is not hit, which happens the great majority of times, then miners have to go back and re-hash the information, producing a new stamp, that they have to check again. This may happen quadrillions of times per second and this is why there is so much work involved, with so much computing power and electricity usage in PoW mining.
+解释难度调整的最好方法是解释工作量证明是如何工作的。这一切都从矿工接收和准备区块数据开始。当他们在一起时，然后他们散列数据，为该信息创建一个加密标记。当他们创建戳记时，他们检查戳记是否击中了网络施加的目标。如果目标没有达到，这在绝大多数情况下都会发生，那么矿工就必须返回并重新散列信息，产生一个新的戳记，他们必须再次检查。这可能每秒发生千万亿次，这就是为什么在PoW挖矿中有这么多的计算能力和电力消耗。
 
-When any miner finally hits the target, which happens, on average, every 13 seconds in ETC, then it sends the finished block to the rest of the network so it may be verified and the miner may get his reward. 
+当任何矿工最终击中目标时(在ETC中平均每13秒发生一次)，然后它将完成的区块发送到网络的其他部分，这样它就可以得到验证，矿工就可以获得奖励。
 
-## Difficulty Adjustment Means to Adjust the Target
+## 难度调整是指调整目标
 
-![Increases or decreases in the target adjust the block times.](./2.png)
+![增加或减少目标调整块时间](./2.png)
 
-So, the difficulty adjustment is to increase or decrease the target that the cryptographic stamp must hit for the block hash to be considered valid. An adjustment to a larger target means it is easier to hit so block times are reduced. An adjustment to a smaller target means it is harder to hit, thus increasing the block times.
+因此，难度调整是增加或减少加密标记必须命中的目标，以便块散列被认为有效。调整为更大的目标意味着更容易命中，从而减少格挡时间。调整到一个更小的目标意味着它更难击中，从而增加格挡时间。
 
-The network is constantly measuring how much time elapses between blocks. When it gets above or below certain parameters, then the difficulty is adjusted higher or lower to get back to the target 13 seconds per block, on average.
+该网络不断测量区块之间的时间间隔。当它高于或低于某些参数时，那么难度就会调整到更高或更低的水平，平均而言，每个区块会回到目标13秒。
 
-This is a more technical explanation given to us by Ethereum Classic core developer, Diego López León, who maintains the ETC instance of the [Hyperledger Besu](https://ethereumclassic.org/blog/2023-01-10-hyperledger-besu-explained) node software client:
+这是以太坊经典核心开发者Diego López León给我们的一个更技术性的解释，他维护着[Hyperledger Besu](https://ethereumclassic.org/blog/2023-01-10-hyperledger-besu-explained)节点软件客户端的ETC实例:
 
-1. The mining difficulty in ETC adjusts every block
-2. The target block time for ETC is 13 seconds. This means that the network aims to produce a new block every 13 seconds on average. However, the actual block time may vary slightly due to factors such as network congestion and mining variance.
-3. The mining difficulty is expressed as a number called the difficulty target. This target is a 256-bit number that represents the maximum value of a valid hash that can be used to mine a block. Miners need to find a hash that is less than or equal to this target in order to create a valid block.
-4. The difficulty is adjusted using a formula that takes into account the time it took to mine the previous block and the ideal block time of 13 seconds. If the previous block was mined too quickly, the difficulty will decrease, and if it took too long to mine, the difficulty will increase.
-5. The threshold for a valid block hash is determined by the current difficulty target. Miners must find a hash that is lower than or equal to the current difficulty target in order for the block to be considered valid.
+1. ETC的挖掘难度调整每个区块
+2. ETC的目标块时间是13秒。这意味着网络的目标是平均每13秒产生一个新区块。然而，由于网络拥塞和挖掘方差等因素，实际的阻塞时间可能略有不同。
+3. 挖掘难度用一个数字表示，称为难度目标。这个目标是一个256位的数字，表示可用于挖掘区块的有效哈希的最大值。为了创建一个有效的区块，矿工需要找到一个小于或等于这个目标的哈希值。
+4. 难度是使用一个公式来调整的，该公式考虑了挖掘前一个区块所需的时间和理想的区块时间为13秒。如果之前的区块挖得太快，难度就会降低，如果挖得太久，难度就会增加。
+5. 有效块哈希的阈值由当前难度目标确定。矿工必须找到一个低于或等于当前难度目标的哈希，以便区块被认为是有效的。
 
-## How Difficulty Is Measured
+## 困难是如何被衡量的
 
-Network difficulty is measured as the number of hashes per second, on average, that must be performed by all miners combined to hit the desired block times. 
+网络难度衡量的是平均每秒所有矿工必须执行的哈希数，以达到所需的区块时间。
 
-In other words, it is measured in how many times per second miners should calculate a hash function to create a cryptographic stamp that hits the target.
+换句话说，它是通过矿工每秒应该计算多少次哈希函数来创建击中目标的加密戳记来衡量的。
 
-The quantities used in the industry to set difficulty targets are usually the following:
+行业中用于设定难度目标的数量通常如下:
 
-- Kilohashes per second (KH/s) = 1,000 H/s
-- Megahashes per second (MH/s) = 1,000,000 H/s
-- Gigahashes per second (GH/s) = 1,000,000,000 H/s
-- Terahashes per second TH/s = 1,000,000,000,000 H/s
-- Petahashes per second (PH/s) = 1,000,000,000,000,000 H/s
+- 每秒Kilohashes(KH/s) = 1,000 H/s
+- 每秒Megahashes(MH/s) = 1,000,000 H/s
+- 每秒Gigahashes(GH/s) = 1,000,000,000 H/s
+- 每秒Terahashes(TH/s) = 1,000,000,000,000 H/s
+- 每秒Petahashes(PH/s) = 1,000,000,000,000,000 H/s
 
-## ETC’s Current Network Difficulty
+## ETC当前的网络困难
 
-![ETC difficulty. ](./3.png)
+![ETC的困难](./3.png)
 
-For example, ETC’s current network difficulty at the time of this writing is 1.63 petahashes per second.
+例如，在撰写本文时，ETC当前的网络难度为每秒1.63 petahashes。
 
-This means that, at the time of this writing, miners collectively should work at a rate of 1,630,000,000,000,000 hashes per second to discover, on average, a block every 13 seconds.
+这意味着，在撰写本文时，矿工集体应以每秒1,630,000,000,000,000哈希的速度工作，平均每13秒发现一个区块。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC内容，请访问: https://ethereumclassic.org
