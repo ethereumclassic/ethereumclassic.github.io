@@ -143,7 +143,7 @@ Enter your configuration in the fields provided as shown in the image and press 
 
 Once you saved and applied your miner configuration data, your iPollo ASIC rig will start mining for 2miners. You may go to the “Running Overview” tab on the left menu to see the activity of your miner live.
 
-You must wait 5 to 10 minutes for your iPollo to talk to 2miners and establish a connection. After a while, you will see that the line in the chart will start to go up, increasing the hashrate that is pointing to your 2miners account. You will also see other stats as the temperature of your machine, the RPM of the fan, and the current hashrate output of your iPollo.
+You must wait 5 to 10 minutes for your iPollo to talk to 2miners and establish a connection. After a while, you will see that the line in the chart will start to go up, increasing the hashrate that is pointing to your 2miners account. You will also see other stats such as the temperature of your machine, the RPM of the fan, and the current hashrate output of your iPollo.
 
 ![Check mining stats.](./10.png)
 
