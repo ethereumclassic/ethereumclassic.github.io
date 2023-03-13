@@ -86,7 +86,7 @@ When hashrate shrinks for any reason, then blocks become too slow. To speed them
 
 ![Hitting the PoW target.](./1.png)
 
-The best way to explain the difficulty adjustment is by explaining how proof of work works. It all start with miners receiving and preparing the block data. When they have it together, then they hash the data to create a cryptographic stamp for that information. When they create the stamp, they check if the stamp hit a target imposed by the network. If the target is not hit, which happens the great majority of times, then miners have to go back and re-hash the information, producing a new stamp, that they have to check again. This may happen quadrillions of times per second and this is why there is so much work involved, with so much computing power and electricity usage in PoW mining.
+The best way to explain the difficulty adjustment is by explaining how proof of work works. It all starts with miners receiving and preparing the block data. When they have it together, then they hash the data to create a cryptographic stamp for that information. When they create the stamp, they check if the stamp hit a target imposed by the network. If the target is not hit, which happens the great majority of times, then miners have to go back and re-hash the information, producing a new stamp, that they have to check again. This may happen quadrillions of times per second and this is why there is so much work involved, with so much computing power and electricity usage in PoW mining.
 
 When any miner finally hits the target, which happens, on average, every 13 seconds in ETC, then it sends the finished block to the rest of the network so it may be verified and the miner may get his reward. 
 
