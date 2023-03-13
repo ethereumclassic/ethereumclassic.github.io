@@ -159,7 +159,7 @@ From now on, your machine will be mining for 2 miners as long as it is on.
 
 ## 12. Check Your Miner Statistics at 2miners Regularly 
 
-As your iPollo ASIC miner is participating in a mining pool, you will get revenues according to its policies very soon as the pool goes producing blocks for ETC. You can check your account and balances in the URL shown below by entering you account as the extension (in this example we are showing the account we used for this example):
+As your iPollo ASIC miner is participating in a mining pool, you will get revenues according to its policies very soon as the pool goes producing blocks for ETC. You can check your account and balances in the URL shown below by entering your account as the extension (in this example we are showing the account we used for this example):
 
 https://etc.2miners.com/account/0x69f0da9aC5196e8817af39a2F1E0d43209946039
 
