@@ -15,6 +15,7 @@ __contributors:
   - IstoraMandiri
   - ProphetDaniel
   - pyskell
+  - TheCrowbill
   - TheEnthusiasticAs
   - ericfish
   - Jamyye
@@ -206,6 +207,9 @@ items:
       Ownbit:
         __link: https://ownbit.io/
         __name: Ownbit
+      Plisio:
+        __link: https://plisio.net/personal
+        __name: Plisio Wallet
       TokenPocket:
         __link: https://tokenpocket.pro/
         __name: TokenPocket
