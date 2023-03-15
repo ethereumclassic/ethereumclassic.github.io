@@ -32,7 +32,7 @@ items:
       rpc:
         question: Are there public RPC endpoints I can use to deploy to ETC?
         answer: |
-          Yes. If you don't want to sync run your own Ethereum Classic node, there are a number of public endpoints available that are free to use.
+          Yes. If you don't want to run, sync, and maintain your own Ethereum Classic node, there are a number of public endpoints available that are free to use.
 
           Check out the [RPC Endpoints](/network/endpoints) section, as well as [ChainList.org](https://chainlist.org/chain/61).
       grants:
