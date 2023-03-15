@@ -28,7 +28,7 @@ items:
       deployment:
         question: How do I deploy to the Ethereum Classic blockchain?
         answer: |
-          First, acquire some ETC to pay for the gas to deploy your contract, then simply ensure you deploy to to the Ethereum Classic network (Chain ID 61), rather than the Ethereum network (Chain ID 1).
+          First, acquire some ETC to pay for the gas to deploy your contract, then simply ensure you deploy to the Ethereum Classic network (Chain ID 61), rather than the Ethereum network (Chain ID 1).
       rpc:
         question: Are there public RPC endpoints I can use to deploy to ETC?
         answer: |
