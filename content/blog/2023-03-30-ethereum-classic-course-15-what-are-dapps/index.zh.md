@@ -34,7 +34,7 @@ In terms of hardware format, your phone as a device sends a message to the corpo
 
 ## What Are Dapps?
 
-![Decentralized applications.](./3.png)
+![Decentralized applications.](./33.png)
 
 When we use applications that are hosted inside a blockchain as Ethereum Classic (ETC) or Ethereum (ETH), then we are using decentralized applications, or dapps, because they are not hosted in centralized data centers and servers but in decentralized networks that are called blockchains.
 
