@@ -56,8 +56,8 @@ ETC生态系统是一个由全球参与者组成的网络，其中许多人是�
 他们通过几个社交渠道参与，其中最受欢迎的是：
 
 - ETC Discord: https://ethereumclassic.org/discord
-- 关注推特[@eth_classic](https://twitter.com/eth_classic) and [@etc_network](https://twitter.com/etc_network)
-- ETC电报: [@ethclassic_army](https://t.me/ethclassic_army) and [@KimiCapital](https://t.me/KimiCapital)
+- 关注推特[@eth_classic](https://twitter.com/eth_classic)和[@etc_network](https://twitter.com/etc_network)
+- ETC电报: [@ethclassic_army](https://t.me/ethclassic_army)和[@KimiCapital](https://t.me/KimiCapital)
 - ETC Cooperative Discord: https://discord.gg/5wDyd6u6pU
 - GitHub讨论: https://github.com/ethereumclassic 
 - Reddit: https://reddit.com/r/EthereumClassic
