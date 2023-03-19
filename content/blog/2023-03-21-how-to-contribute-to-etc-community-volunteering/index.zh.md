@@ -16,9 +16,9 @@ linkImage: ./etc-volunteering-banner.png
 
 ![ETC志愿活动](./1.png)
 
-这是本系列文章的第四部分，将解释如何以多种方式为Ethereum Classic (ETC)做出贡献。
+这是本系列文章的第四部分，将解释如何以多种方式为以太坊经典做出贡献。
 
-该系列的视频和帖子将包含标题“How to Contribute to ETC:”，后跟以下主题扩展：
+该系列的视频和帖子将包含标题“如何为以太坊经典做贡献”，后跟以下主题扩展：
 
 1.改进提案流程（ECIP）
 2.社区网站
