@@ -8,124 +8,125 @@ linkImage: ./etc-fifthening-banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JaNkywXLg2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-## What is the Fifthening in ETC?
+## 什么是以太坊经典的五分化（Fifthening）?
 
-![The ETC fifthening.](./1.png)
+![以太经典的fifthening.](./1.png)
 
-Ethereum Classic’s monetary policy has a rule that every 5,000,000 blocks it will reduce the mining reward by 20%. This is called the fifthening because it is a 1/5 cut in the issuance of the coin.
+ETC的货币政策规定，每挖出 500 万个区块就会将挖矿奖励减少20%。这被称为 fifthening，因为这是硬币发行量的五分之一削减。
 
-The mining reward is the amount of ETC that is issued to pay for miners to produce blocks for the network.
+挖矿奖励是发放给矿工的ETC数量，以支付他们为网络生成区块的费用。
 
-In ETC, a block is currently being produced every 13.1525 seconds on average.
+在ETC中，平均每13.1525秒就会生成一个区块。
 
-The historial schedule of payments per block to miners by the Ethereum Classic network has been the following:
+以太经典网络向矿工支付每个区块的历史奖励计划如下：
 
-**Era 1:** 5.00 ETC, from block 0, which happened on June 30, 2015
+**时代1：** 5.00ETC，自2015年6月30日的第 0 个区块开始
 
-**Era 2:** 4.00 ETC, from block 5,000,000, which happened on December 11, 2017
+**时代2：** 4.00ETC，自2017年12月11日的第5,000,000个区块开始
 
-**Era 3:** 3.20 ETC, from block 10,000,000 which happened on March 17, 2020
+**时代3：** 3.20ETC，自2020年3月17日的第10,000,000个区块开始
 
-**Era 4:** 2.56 ETC, from block 15,000,000 which happened on April 25, 2022
+**时代4：** 2.56ETC，自2022年4月25日的第15,000,000个区块开始
 
-Because ETC is now on block 17,088,524 as of this writing, it is paying 2.56 ETC per block as we are in era 4.
+因为截至本文撰写时ETC已经达到了第 17,088,524 个区块，所以我们处于Era 4，每个区块的奖励是2.56ETC。
 
-In the next era, which will be era 5, the block reward will be reduced to 2.048 ETC.
+在下一个时代（即 Era 5）中，每个区块的奖励将减少到2.048ETC。
 
-## When Will ETC’s Next Fifthening Happen?
+## ETC 的下一个Fifthening何时发生？
 
-To estimate when the next ETC fifthening will happen we need to know how many blocks are left to the next fifthening. Then, we need to multiply that number of blocks by the average block time of the network in seconds. This will give us the number of seconds left to the next fifthening. If we transform that amount into days, then we will be able to add the result to the current date and determine when the next fifthening will happen.
+要估算下一个ETC fifthening何时发生，我们需要知道距离下一个fifthening还有多少个区块。然后，我们需要将该区块数量乘以网络的平均区块时间（以秒为单位）。这将给出距离下一个fifthening的剩余秒数。如果我们将该数量转换为天数，则我们将能够将结果添加到当前日期并确定下一个fifthening何时发生。
 
-**Following the above logic we will do the following calculation:**
+**按照上述逻辑，我们将进行以下计算:**
 
-Current ETC block at the time of this writing: 17,088,524
+本文撰写时的当前 ETC 区块：17,088,524
 
-Next fifthening block number: 20,000,000
+下一个 fifthening 区块号：20,000,000
 
-Blocks left to the next fifthening: 20,000,000 - 17,088,524 = 2,911,476
+距离下一个 fifthening 的区块数：20,000,000 - 17,088,524 = 2,911,476
 
-Seconds left to the next fifthening: 2,911,476 x 13.1525 = 38,293,188
+距离下一个 fifthening 的剩余秒数：2,911,476 x 13.1525 = 38,293,188
 
-Days left to the next fifthening: 38,293,188 / 60 / 60 / 24 = 443.2081
+距离下一个 fifthening 的剩余天数：38,293,188 / 60 / 60 / 24 = 443.2081
 
-Current date at the time of this writing: March 8, 2023
+本文撰写时的当前日期：2023 年 3 月 8 日
 
-**Current date + 443.2081 days = May 25, 2024**
+**当前日期 + 443.2081天=2024年5月25日**
 
-## What is the Halving in Bitcoin?
+## 比特币中的减半是什么？
 
-![The BTC halving.](./2.png)
+![BTC减半](./2.png)
 
-Bitcoin’s monetary policy has a rule that every 210,000 blocks it will reduce the mining reward by 50%. This is called the halving because it is a 1/2 cut in the issuance of the coin.
+比特币的货币政策规定，每210,000个区块将把挖矿奖励减少50%。这被称为减半，因为它是发行硬币的1/2切割。
 
-The mining reward is the amount of BTC that is issued to pay for miners to produce blocks for the network.
+挖矿奖励是发行比特币的数量，以支付矿工为网络生产区块。
 
-In BTC, a block is currently being produced every 9.2660 minutes on average.
+在比特币中，目前平均每9.2660分钟生产一个区块。
 
-The historial schedule of payments per block to miners by the Bitcoin network has been the following:
+比特币网络向矿工支付每个区块的历史付款计划如下：
 
-**Era 1:** 50.00 BTC, from block 0, which happened on January 03, 2009
+**时代1：** 50.00 BTC，从第0个区块开始，即2009年1月3日
 
-**Era 2:** 25.00 BTC, from block 210,000, which happened on November 28, 2012
+**时代2：** 25.00 BTC，从第210,000个区块开始，即2012年11月28日
 
-**Era 3:** 12.50 BTC, from block 420,000 which happened on July 09, 2016
+**时代3：** 12.50 BTC，从第420,000个区块开始，即2016年7月9日
 
-**Era 4:** 6.25 BTC, from block 630,000 which happened on May 11, 2020
+**时代4：** 6.25 BTC，从第630,000个区块开始，即2020年5月11日
 
-Because Bitcoin is now on block 779,961 as of this writing, it is paying 6.25 BTC per block as we are in era 4.
+由于在撰写本文时比特币已经到达了第779,961个区块，因此我们处于第4个时代，每个区块支付6.25 BTC。
 
-In the next era, which will be era 5, the block reward will be reduced to 3.125 BTC.
+在下一个时代中，即第5个时代，区块奖励将减少到3.125 BTC。
 
-## When Will Bitcoin’s Next Halving Happen?
+## 比特币的下一次减半将在什么时候发生？
 
-To estimate when the next BTC halving will happen we need to know how many blocks are left to the next halving. Then, we need to multiply that number of blocks by the average block time of the network in minutes. This will give us the number of minutes left to the next halving. If we transform that amount into days, then we will be able to add the result to the current date and determine when the next halving will happen.
+为了估计下一个比特币减半将发生的时间，我们需要知道下一个减半还剩多少个区块。然后，我们需要将该区块数量乘以网络的平均区块时间（以分钟为单位）。这将给我们下一个减半剩余的时间。如果我们将该金额转换为天数，那么我们将能够将结果添加到当前日期并确定下一个减半将发生的时间。
 
-**Following the above logic we will do the following calculation:**
+**根据以上逻辑，我们将进行以下计算：**
+根据以上逻辑，我们将进行以下计算：
 
-Current BTC block at the time of this writing: 779,961
+当前比特币区块编号：779,961
 
-Next halving block number: 840,000
+下一个减半区块编号：840,000
 
-Blocks left to the next halving: 840,000 - 779,961 = 60,039
+距下一个减半还剩的区块数：840,000 - 779,961 = 60,039
 
-Minutes left to the next halving: 60,039 x 9.2660 = 556,321
+距下一个减半还剩的分钟数：60,039 x 9.2660 = 556,321
 
-Days left to the next halving: 556,321 / 60 / 24 = 386.33
+距下一个减半还剩的天数：556,321 / 60 / 24 = 386.33
 
-Current date at the time of this writing: March 8, 2023
+撰写本文时的当前日期：2023年3月8日
 
-**Current date + 386.33 days = March 29, 2024**
+**当前日期+386.33天=2024年3月29日**
 
-## Why Are the Fifthening and the Halving Important?
+## 为什么五分化和减半很重要？
 
-![ETC and BTC.](./3.png)
+![ETC和BTC.](./3.png)
 
-The  most important feature of the ETC and BTC currencies is that they are considered digital gold because they require enormous amounts of work and energy to create them. 
+ETC和BTC货币最重要的特点是它们被认为是数字黄金，因为创建它们需要巨大的工作量和能源。
 
-In addition to this cost of production, both Ethereum Classic and Bitcoin have capped supplies as their monetary policies reduce the payments to miners in the quantities explained above.
+除了生产成本之外，以太坊经典和比特币的货币政策还会减少支付给矿工的数量，从而使它们的供应量受到限制。
 
-These characteristics of both coins mimic the scarcity of gold in the real world, giving them great demand as decentralized and permissionless units of exchange and stores of value.
+这两种货币的特点模仿了现实世界黄金的稀缺性，使它们作为分散且无需许可的交换和储值单位具有极大的需求。
 
-The fifthening and the halving are important because they approximate the inflation rate of ETC and BTC to that of gold, which is historically around 1.7%. As both ETC and BTC issuances will eventually go to zero, they will actually have lower inflation rates than gold.
+五分化和减半的重要性在于它们将ETC和BTC的通货膨胀率近似于黄金，而历史上黄金的通货膨胀率约为1.7%。随着ETC和BTC的发行量最终降至零，它们的通货膨胀率实际上将低于黄金。
 
-The current inflation rate of BTC is 1.84% and by the next halving, in March of 2024, it will go down to 0.92%.
+比特币的当前通货膨胀率为1.84%，到2024年3月的下一次减半时，将降至0.92%。
 
-The current inflation rate of ETC is 4.83% and by the next fifthening in May of 2024 it will go down to 3.87%. By the year 2032, ETC will have an inflation rate of 1.67%, very similar to that of gold, and lower than the current inflation of Bitcoin.
+以太坊经典的当前通货膨胀率为4.83%，到2024年5月的下一次分叉时，将降至3.87%。到2032年，ETC的通货膨胀率将为1.67%，非常接近黄金，低于比特币的当前通货膨胀率。
 
-Both ETC and BTC are sound money and transferable permissionlessly over the internet.
+ETC和BTC都是可靠的货币，可以在互联网上无需许可地转移。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To monitor the ETC fifthening clock go to: https://etcis.money/
+想查看ETC的分叉倒计时，请访问: https://etcis.money/
 
-Tomonitor the Bitcoin halving clock go to: https://buybitcoinworldwide.com/halving/
+想查看BTC的分叉倒计时，请访问: https://buybitcoinworldwide.com/halving/
 
-To learn more about ETC please go to: https://ethereumclassic.org
+想了解更多有关ETC，请访问: https://ethereumclassic.org
