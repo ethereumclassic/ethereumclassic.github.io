@@ -140,7 +140,7 @@ A great way of doing this is by starting your own ETC YouTube channel and/or blo
 - [PatientMoney](https://www.youtube.com/@PatientMoney)
 - [SavageProfits](https://www.youtube.com/@SavageProfits)
 - [StonkInsights](https://www.youtube.com/@stonkinsights)
-- Ethereum Classic Updates: https://www.youtube.com/@ETCupdates
+- [Ethereum Classic Updates](https://www.youtube.com/@ETCupdates)
 
 ---
 
