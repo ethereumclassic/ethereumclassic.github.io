@@ -35,7 +35,7 @@ Open source software projects tend to have large shares of volunteering because 
 
 Public blockchains must be open source projects as transparency and free participation are critical elements of their design. Consequently, the profiles of these projects tend to be similar to passionate grassroots movements.
 
-ETC is no different. It’s history is a history of survival after TheDAO hard fork, fighting for ideals against all odds, and a principled existence. All these driven by volunteers who believe in the project and its values.
+ETC is no different. Its history is a history of survival after TheDAO hard fork, fighting for ideals against all odds, and a principled existence. All these are driven by volunteers who believe in the project and its values.
 
 In this post we explain the different ways in which people may volunteer in the ETC ecosystem.
 
