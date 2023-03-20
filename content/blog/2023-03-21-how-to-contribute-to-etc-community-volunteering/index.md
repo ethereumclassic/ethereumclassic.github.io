@@ -81,7 +81,7 @@ The ECIP process, the main system for proposing new protocol and software change
 
 As mentioned in the previous section, the Ethereum Classic community maintains two Twitter accounts to disseminate significant information about Ethereum Classic and promote the use of the ETC network. The public may submit proposals for tweets to be sent from these accounts using the community's “Twitter Together” system.
 
-This is done through a website called GitHub, in the repositories of these two accounts, which are located at:
+Found on the GitHub website,  repositories for these two accounts are located at:
 
 - Eth_Classic account: 
 
