@@ -136,7 +136,7 @@ One of the most valuable ways of volunteering for ETC is by using your talents a
 
 A great way of doing this is by starting your own ETC YouTube channel and/or blog. Examples of these are:
 
-- Etherplan: https://etherplan.com
+- [Etherplan](https://etherplan.com)
 - PatientMoney: https://www.youtube.com/@PatientMoney
 - SavageProfits: https://www.youtube.com/@SavageProfits
 - StonkInsights: https://www.youtube.com/@stonkinsights
