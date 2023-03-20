@@ -91,7 +91,7 @@ https://github.com/ethereumclassic/tweets-eth_classic
 
 https://github.com/ethereumclassic/tweets-etc_network
 
-Anyone may go there and submit their tweets by following the instructions. The tweets will be filtered and managed by the ETC admins who take care that the content adjusts to the rules and ETC’s principles.
+Anyone with tweet suggestions may submit them by following the instructions found in the repositories' README.ml file. Tweets are filtered and managed by volunteer ETC admins who take care that the content adheres to Twitter's rules and ETC’s principles.
 
 ## Debating Proposals of the ECIP Process
 
