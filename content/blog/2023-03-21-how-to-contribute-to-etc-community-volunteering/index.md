@@ -99,7 +99,7 @@ As ETC is an open source project, any changes to its protocol or software must g
 
 This is a critical function in the ecosystem as these potential changes could modify the network’s security model, thus presenting a risk to its integrity.
 
-For these reasons, there are many volunteers who read each proposal and analyze them thoroughly before emitting their opinions about them. Sometimes they may support changes and other times vehemently oppose them.
+For this reason, there are many volunteers who read each proposal and analyze it thoroughly before emitting their opinions about it. Sometimes they may support changes and other times vehemently oppose them.
 
 This is a very important function that anyone who has the time, knowledge, and dedication may do. And, it is one of the ways in which the safety and purpose of the ETC blockchain is preserved. 
 
