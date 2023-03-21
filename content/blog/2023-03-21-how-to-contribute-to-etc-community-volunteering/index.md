@@ -65,7 +65,6 @@ They all participate through several social channels of which the most popular a
 
 ## Moderating Social Channels
 
-![ECIP editors.](./3.png)
 
 A more advanced way of participation is by moderating social channels.
 
