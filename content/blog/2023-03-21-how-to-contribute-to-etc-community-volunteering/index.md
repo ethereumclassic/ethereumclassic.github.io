@@ -128,6 +128,8 @@ Anyone in the world may contribute valuable information including:
 - A Development page
 - All other static pages (About, Sitemap, etc.)
 
+For more details on how to contribute items for inclusion on the ETC website see an earlier article from this series entitled ["How to Contribute to ETC: The Community Website"](https://www.ethereumclassic.org/blog/2023-01-03-how-to-contribute-to-etc-community-website).
+
 ## Research, Writing, and Producing Videos
 
 ![ETC contributors.](./6.png)
