@@ -134,7 +134,7 @@ For more details on how to contribute items for inclusion on the ETC website see
 
 ![ETC contributors.](./6.png)
 
-One of the most valuable ways of volunteering for ETC is by using your talents and knowledge to advance the network. There are many contributors who do research, write, and produce videos regularly for Ethereum Classic.
+One of the most valuable ways of volunteering for ETC is by using your talents and knowledge to advance the network. There are many contributors who regularly do research, write, and produce videos about Ethereum Classic.
 
 A great way of doing this is by starting your own ETC YouTube channel and/or blog. Examples of these are:
 
