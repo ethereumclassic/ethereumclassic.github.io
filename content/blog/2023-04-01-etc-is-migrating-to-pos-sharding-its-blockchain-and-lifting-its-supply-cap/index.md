@@ -29,7 +29,7 @@ Bob Summerwill, ETC's CEO, said that sharding is a key milestone for Ethereum Cl
 
 ## Recent Bank Bailouts Pushes the Community to Lift the Supply Cap
 
-After the nerve wrecking days of the recent financial crisis, the ETC community has come to the realization that a fixed supply and an algorithmic monetary policy is not only evil but one of the worse ways to protect people's property on a global scale. The best method is to be able to print money whenever the community deems necessary, bringing four solutions to the world at the same time, with no cost whatsoever to ETC constituents:
+After the nerve-wracking days of the recent financial crisis, the ETC community has come to the realization that a fixed supply and an algorithmic monetary policy are not only evil but are among the worst ways to protect people's property on a global scale. The best method is to be able to print money whenever the community deems it necessary, bringing four solutions to the world at the same time, with no cost whatsoever to ETC constituents:
 
 - Debtors receive debt forgiveness instantaneously
 - Financial intermediaries can never go broke
