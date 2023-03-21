@@ -94,6 +94,8 @@ Anyone with tweet suggestions may submit them by following the instructions foun
 
 ## Debating Proposals of the ECIP Process
 
+![ECIP editors.](./3.png)
+
 As ETC is an open source project, any changes to its protocol or software must go through a public process called the Ethereum Classic Improvement Proposal (ECIP) process.
 
 This is a critical function in the ecosystem as these potential changes could modify the network’s security model, thus presenting a risk to its integrity.
