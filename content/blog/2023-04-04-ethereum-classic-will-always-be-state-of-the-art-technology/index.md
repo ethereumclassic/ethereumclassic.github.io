@@ -14,7 +14,7 @@ linkImage: ./etc-banner.png
 
 ---
 
-![ETC is part of a larger ecosystem.](./etc-development.png)
+![ETC is part of a larger ecosystem.](./etc-banner.png)
 
 As we have pointed out before in our article “The Innovation of Ethereum Classic Is Unstoppability”, ETC is not about the latest bells and whistles, but about decentralization, permissionlessness, censorship resistance, and immutability.
 
