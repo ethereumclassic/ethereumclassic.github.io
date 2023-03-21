@@ -14,8 +14,6 @@ linkImage: ./etc-banner.png
 
 ---
 
-![ETC is part of a larger ecosystem.](./etc-banner.png)
-
 As we have pointed out before in our article “[The Innovation of Ethereum Classic Is Unstoppability](https://ethereumclassic.org/blog/2023-01-18-the-innovation-of-ethereum-classic-is-unstoppability)”, ETC is not about the latest bells and whistles, but about decentralization, permissionlessness, censorship resistance, and immutability.
 
 These features give the Ethereum Classic blockchain the true benefits of the Code Is Law philosophy as accounts, balances, and dapps are truly unstoppable.
@@ -27,6 +25,8 @@ To the contrary, Ethereum Classic is, and will always be, state of the art techn
 The difference between ETC and other networks that primarily seek innovation is that ETC will only integrate that innovation which affirms and enhances its principles.
 
 ## Ethereum Classic Is Part of a Larger Ecosystem
+
+![ETC is part of a larger ecosystem.](./etc-banner.png)
 
 ETC is part of a larger ecosystem called the [EVM standard](https://ethereumclassic.org/blog/2022-12-06-ethereum-virtual-machine-blockchains-and-ethereum-classic). 
 
