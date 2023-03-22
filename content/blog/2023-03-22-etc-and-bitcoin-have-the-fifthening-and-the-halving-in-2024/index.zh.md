@@ -1,5 +1,5 @@
 ---
-title: "ETC和比特币将于2024年进行五分化和分叉"
+title: "ETC和比特币将于2024年进行分叉"
 date: 2023-03-22
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
