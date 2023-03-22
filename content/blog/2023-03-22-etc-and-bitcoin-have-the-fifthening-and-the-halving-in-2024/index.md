@@ -40,7 +40,7 @@ In the next era, which will be era 5, the block reward will be reduced to 2.048 
 
 ## When Will ETC’s Next Fifthening Happen?
 
-To estimate when the next ETC fifthening will happen we need to know how many blocks are left to the next fifthening. Then, we need to multiply that number of blocks by the average block time of the network in seconds. This will give us the number of seconds left to the next fifthening. If we transform that amount into days, then we will be able to add the result to the current date and determine when the next fifthening will happen.
+To estimate when the next ETC fifthening will happen we need to know how many blocks are left until the next fifthening. Then, we need to multiply that number of blocks by the average block time of the network in seconds. This will give us the number of seconds left until the next fifthening. If we transform that amount into days, then we will be able to add the result to the current date and determine when the next fifthening will happen.
 
 **Following the above logic we will do the following calculation:**
 
