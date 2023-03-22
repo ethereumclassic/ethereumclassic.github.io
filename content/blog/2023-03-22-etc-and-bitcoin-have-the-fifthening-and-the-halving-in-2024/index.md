@@ -50,7 +50,7 @@ Next fifthening block number: 20,000,000
 
 Blocks left until the next fifthening: 20,000,000 - 17,088,524 = 2,911,476
 
-Seconds left to the next fifthening: 2,911,476 x 13.1525 = 38,293,188
+Seconds left until the next fifthening: 2,911,476 x 13.1525 = 38,293,188
 
 Days left to the next fifthening: 38,293,188 / 60 / 60 / 24 = 443.2081
 
