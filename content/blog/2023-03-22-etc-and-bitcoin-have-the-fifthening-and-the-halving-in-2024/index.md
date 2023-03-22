@@ -48,7 +48,7 @@ Current ETC block at the time of this writing: 17,088,524
 
 Next fifthening block number: 20,000,000
 
-Blocks left to the next fifthening: 20,000,000 - 17,088,524 = 2,911,476
+Blocks left until the next fifthening: 20,000,000 - 17,088,524 = 2,911,476
 
 Seconds left to the next fifthening: 2,911,476 x 13.1525 = 38,293,188
 
