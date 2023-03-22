@@ -94,7 +94,7 @@ Next halving block number: 840,000
 
 Blocks left to the next halving: 840,000 - 779,961 = 60,039
 
-Minutes left to the next halving: 60,039 x 9.2660 = 556,321
+Minutes left until the next halving: 60,039 x 9.2660 = 556,321
 
 Days left until the next halving: 556,321 / 60 / 24 = 386.33
 
