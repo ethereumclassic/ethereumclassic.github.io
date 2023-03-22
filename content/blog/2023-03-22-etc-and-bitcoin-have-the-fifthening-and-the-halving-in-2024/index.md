@@ -84,7 +84,7 @@ In the next era, which will be era 5, the block reward will be reduced to 3.125 
 
 ## When Will Bitcoin’s Next Halving Happen?
 
-To estimate when the next BTC halving will happen we need to know how many blocks are left to the next halving. Then, we need to multiply that number of blocks by the average block time of the network in minutes. This will give us the number of minutes left to the next halving. If we transform that amount into days, then we will be able to add the result to the current date and determine when the next halving will happen.
+To estimate when the next BTC halving will happen we need to know how many blocks are left until the next halving. Then, we need to multiply that number of blocks by the average block time of the network in minutes. This will give us the number of minutes left until the next halving. If we transform that amount into days, then we will be able to add the result to the current date and determine when the next halving will happen.
 
 **Following the above logic we will do the following calculation:**
 
