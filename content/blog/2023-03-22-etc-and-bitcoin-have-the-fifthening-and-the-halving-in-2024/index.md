@@ -96,7 +96,7 @@ Blocks left to the next halving: 840,000 - 779,961 = 60,039
 
 Minutes left to the next halving: 60,039 x 9.2660 = 556,321
 
-Days left to the next halving: 556,321 / 60 / 24 = 386.33
+Days left until the next halving: 556,321 / 60 / 24 = 386.33
 
 Current date at the time of this writing: March 8, 2023
 
