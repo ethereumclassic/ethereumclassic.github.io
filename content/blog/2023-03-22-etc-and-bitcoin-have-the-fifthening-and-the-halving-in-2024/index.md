@@ -92,7 +92,7 @@ Current BTC block at the time of this writing: 779,961
 
 Next halving block number: 840,000
 
-Blocks left to the next halving: 840,000 - 779,961 = 60,039
+Blocks left until the next halving: 840,000 - 779,961 = 60,039
 
 Minutes left until the next halving: 60,039 x 9.2660 = 556,321
 
