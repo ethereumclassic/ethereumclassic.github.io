@@ -13,11 +13,11 @@ On February 21 2023 Forbes magazine published an article about Ethereum Classic 
 
 In the piece they made an attempt to describe the blockchain, a series of assertions about it, and comparisons to Ethereum (ETH). 
 
-Some of the information they presented was correct, but most of the statements were long lasting recycled mistakes circulating in non-ETC circles.
+Some of the information they presented was correct, but most of the statements were long lasting recycled mistakes about Ethereum Classic.
 
 In this post we will address these issues. 
 
-The article was divided in seven sections which contain from three to five paragraphs each. We will write our responses marking the sections and paragraphs in which we found the issues to clarify.
+The original article was divided in seven sections which contain from three to five paragraphs each. We will write our responses marking the sections and paragraphs in which we found the issues to clarify.
 
 It is our hope that Forbes may read this response and perhaps make corrections to its write-up or reference this post as a bona fide response.
 
@@ -59,7 +59,7 @@ As we wrote above, these two paragraphs are correct and contradict what is impli
 
 ### Our response:
 
-This part is largely correct, but again, seems to imply a misconception. Ethereum Classic is practically the same as Ethereum. Users, who have accounts, balances, and utilize dapps, and developers, who write and deploy smart contracts on ETC, experience no difference when using ETH or ETC.
+This part is largely correct, but again, seems to imply a misconception. Ethereum Classic is practically the same as Ethereum. Users, who have accounts, balances, and utilize dapps, and developers, who write and deploy smart contracts on ETC, experience practically no difference when using ETH or ETC.
 
 Under the hood, though, the consensus mechanism that keeps all machines participating in the network is, indeed, different as Ethereum has migrated to proof of stake from proof of work.
 
@@ -67,7 +67,7 @@ At the core infrastructure, running ETC or ETH nodes, or being a miner or mining
 
 However, the EVM design standard and format, which both Ethereum Classic and Ethereum follow, which impacts users and dapp developers, is practically the same for both.
 
-As blockchains are open source projects, any system may adopt the upgrades and changes of any other system within the standard. This maintains operational parity between all blockchains and means that ETC and ETH will always be state of the art technology as both will always be up-to-date in their functionality and features.
+As blockchains are open source projects, any system may adopt the upgrades and changes of any other system within the standard. This maintains operational parity between all blockchains and means that ETC and ETH will always be state of the art technology as both will always be up to date in their functionality and features.
 
 **For more information:**
 
@@ -87,7 +87,7 @@ However, it is important to differentiate what parts of a blockchain are meant t
 
 As property and title systems with smart contracts as ETC and ETH are, what is crucial to keep as secure and immutable as possible, to ensure censorship resistance and permissionalessness, are the actual accounts, balances, and decentralized programmes, or dapps, deployed in the networks, not the code as stated above.
 
-These sensitive items are contained in what is called the “blockchain” per se, which is the database of the system. This is what ETH violated and ETC did not because of its adherence to true blockchain principles.
+These sensitive items are contained in what is called the “blockchain” per se, which is the database of the system. This is what ETH violated by doing The DAO reversal and ETC did not because of its adherence to true blockchain principles.
 
 If the code and protocol of the blockchain network itself were immutable, then neither Ethereum, Ethereum Classic, or even Bitcoin for that matter, would classify as blockchains anymore as all have upgraded their systems from time to time.
 
@@ -118,7 +118,7 @@ This is because proof of work, which is the major invention by Satoshi Nakamoto,
 - It protects the history of transactions by imposing a cryptographic barrier.
 - The cost of creating the money is very high making the cryptocurrency analogous to gold in the real world.
 
-The proof of stake mechanism adopted by Ethereum loses all these guarantees because there is no extremely costly to produce cryptographic stamp or hash that serves as a focal point for the system to follow. 
+The proof of stake mechanism adopted by Ethereum loses all these guarantees because there is no extremely costly-to-produce cryptographic stamp or hash that serves as a focal point for the system to follow. 
 
 In proof of stake, to know which is the correct chain to join, nodes must check with trusted third parties what is the latest state. Because of this, there is no focal point for all machines in the network to follow but whatever the mining pools dictate. There is no cryptographic protection of the history of accounts, balances, transactions, and smart contracts. And, the cost of creating the money is near zero, making the cryptocurrency analogous to fiat money in the real world.
 
@@ -139,7 +139,7 @@ In proof of stake, to know which is the correct chain to join, nodes must check 
 
 ### Our response:
 
-The above information is correct, but what deserves clarification are the related comments that continue below.
+The above information is correct, but what deserves clarification are the related comments that continue in the next part.
 
 ### The second and third paragraphs of this section read:
 
@@ -159,17 +159,15 @@ That Ethereum is now largely centralized and that it is prone to censorship is t
 
 ### Our response:
 
-Miners are a clear demonstration of the high level of permissionlessness and censorship resistance of the proof of work consensus mechanism in ETC. These network participants may move from any place in the world to any other in search of the cheapest electricity prices, they may connect and disconnect from the network whenever they wish, and they can do all these things without any real restrictions as long as they have an internet connection and a low cost electricity source. Even in China, where cryptocurrencies and mining are prohibited, more than 20% of proof of work mining is taking place.
+Miners are a clear demonstration of the high level of permissionlessness and censorship resistance of the proof of work consensus mechanism in ETC. These network participants may move from any place in the world to any other in search of the cheapest electricity prices, they may connect and disconnect from the network whenever they wish, and they can do all these things without any real restrictions as long as they have an internet connection and a low cost source of electricity. Even in China, where cryptocurrencies and mining are prohibited, more than 20% of proof of work mining is taking place.
 
-Proof of stake has many restrictions. For example, capital staked must remain locked for long periods of time, staking pools are largely static and identifiable entities who must comply with national constraints wherever they are located, and there are very strong economies of scale that make these players very large and static, thus very vulnerable to capture.
+Proof of stake has many restrictions. For example, capital staked must remain locked for long periods of time, staking pools are largely static and identifiable entities who must comply with national constraints wherever they are located, and there are very strong economies of scale that make these players very large and entrenched, thus very vulnerable to capture.
 
-It is true that highly secure blockchains as ETC are the usual choice by purists who favor a libertarian, censorship-resistant, decentralized model, whereas crypto pragmatists point toward the more adaptable and malleable nature of Ethereum and proof of stake. 
+However, this must not be seen as a mere difference of opinion. That blockchains must be immutable and extremely secure is true, and that some flexibility and “pragmatism” are ok is false. 
 
-However, this must not be seen as a mere difference of opinion. That blockchains must be immutable and extremely secure is true, and that some flexibility and “pragmatism” are ok is false.
+The whole purpose of the blockchain industry is decentralization because trusted third parties are security holes. To be a "pragmatist" because ETH is adaptable and malleable is not to be pragmatist, it is to fall for the temptation of centralism.
 
-The whole purpose of the blockchain industry is decentralization because trusted third parties are threats to people's wealth and wellbeing. 
-
-Migrating to technology that basically replicates the traditional fiat systems and all their flaws is an oxymoron for any blockchain system, and seeking shallow goals as “scaling” or “innovation” is to totally miss the point of the blockchain industry paradigm.
+Migrating to technology that basically goes back to replicating the traditional fiat systems and all their flaws is an oxymoron for any blockchain system, and seeking shallow goals as “scaling” and “innovation” is to totally miss the point of the blockchain industry paradigm.
 
 **For more information:**
 
@@ -193,17 +191,17 @@ Migrating to technology that basically replicates the traditional fiat systems a
 
 There are no advantages of moving to proof of stake. The Ethereum ecosystem was deceived and Ethereum Classic made the right choice to stay with proof of work. This will be noticed with big market movements when the time comes (which are very near because of the multiple economic and geopolitical crises unfolding in the world today).
 
-That the effects of proof of work are bad to climate change is an ongoing fallacy that would be actually very good for the planet if prestigious publications could correct with deeper research.
+That the effects of proof of work are bad to climate change is an ongoing fallacy that would be actually very good for the planet if prestigious publications as Forbes could correct with deeper research.
 
 These are some of the reasons that the fallacy that proof of work is bad is wrong:
 
-1. Wind/solar are intermittent and unreliable, proof of work provides stability using electricity during surplus and switching off during deficits.
-2. Proof of work provides a critical mass of cash flow to renewables to be economically viable, actually accelerating migration to green energy.
+1. Wind/solar are intermittent and unreliable, proof of work provides stability using electricity during surplus and switching off these soruces during deficits.
+2. Proof of work provides a critical mass of cash flow to renewables to be economically viable, actually accelerating the migration to green energy.
 3. Proof of work is increasingly capturing methane as an energy source probably making it carbon-negative eventually.
 4. The "energy per transaction" argument is a fallacy because one transaction in a blockchain may represent thousands of transactions off-chain or in layer 2 systems.
-5. Proof of work is not "wasteful" from a human flourishing perspective as it provides an incredible and unprecedented level of basic rights to people on a global scale. 
-6. Proof of work actually uses electricity that would be wasted anyway because miners are like ants eating crumbs, they don’t use the central courses of energy for humanity, but marginal discards.
-7. The "then, you must hate the planet" tagline is actually the opposite because of all the reasons above!
+5. Proof of work is not "wasteful" from a human flourishing perspective as it provides security, hard money, and an incredible and unprecedented level of inviolable basic rights to people on a global scale.
+6. Proof of work actually uses electricity that would be wasted anyway because miners are like ants eating crumbs, they don’t use the central sources of energy for humanity, but marginal discards.
+7. The "if you love proof of work, then you must hate the planet" tagline is actually the opposite because of all the reasons above!
 
 **For more information:**
 
@@ -223,13 +221,13 @@ These are some of the reasons that the fallacy that proof of work is bad is wron
 
 These two paragraphs are incorrect with regards to the idea that scalability is a problem to any blockchain, and they contradict the notion that Ethereum Classic could even have a problem if scalability or any other part of the technology stack were an issue.
 
-First, scalability is not an issue in Ethereum Classic, Ethereum, Bitcoin or any blockchain because the blockchain industry will be layered and higher layers will command higher volumes of transactions while netting and settling them in the lower, more secure layers (which will likely be proof of work systems). This is how technology has worked for decades and the blockchain industry is no exception.
+First, scalability is not an issue in Ethereum Classic, Ethereum, Bitcoin or any blockchain because the blockchain industry will be layered and higher layers will command higher volumes of transactions while netting and settling them in the lower, more secure layers (which will likely be proof of work systems). This order from scalable to secure is how technology has worked for decades and the blockchain industry is no exception.
 
-With regards to “resistance to change”, ETC has no resistance to change when it is about upgrading its technology, adding new useful features, fixing bugs, or keeping up with the EVM standard as described previously in this article.
+With regards to “resistance to change”, ETC has no resistance to change when it is about upgrading its technology, adding new useful features, fixing bugs, or keeping up with the EVM standard as described previously.
 
 Therefore, the contradiction in which the Forbes argument above incurs is that if the Ethereum community is working to improve the scaling situation, thanks to the much greater attention on it from developers, whatever improvements they may create will be implemented in Ethereum Classic as well.
 
-Again, ETH and ETC, except for the consensus layer, are practically the same technology stack. In fact, ETC core developers are active participants in the larger EVM format ecosystem, constantly working to integrate new EIPs or participating in the debates and definitions of these protocols.
+Again, ETH and ETC, except for the consensus layer, are practically the same technology stack. In fact, ETC core developers are active participants in the larger EVM format ecosystem, constantly working to integrate new EIPs into ETC or participating in the debates and definitions of these protocols.
 
 **For more information:**
 
@@ -247,13 +245,13 @@ Again, ETH and ETC, except for the consensus layer, are practically the same tec
 
 To the contrary, Ethereum has moved from strength to weakness and Ethereum Classic has moved from weakness to strength.
 
-Weakness in Ethereum is shown in two dimensions. The first is that it discarded proof of work as the consensus mechanism eliminating the major improvements that this technology brought to the world, namely to reach consensus with a 51% fault tolerance on a global scale, in a peer-to-peer fully replicated network, with the highest levels of permissionlessness and censorship resistance man has ever seen.
+Weakness in Ethereum is shown in two dimensions. The first is that it discarded proof of work as the consensus mechanism eliminating the major improvements that this technology brought to the world, namely to reach consensus with a 51% fault tolerance on a global scale, on a peer-to-peer, fully replicated network, with the highest levels of permissionlessness and censorship resistance man has ever seen.
 
-The second one is that to build a proof of stake system, because of its inherent insecurity, developers have to create an incredibly complex protocol, with incredibly complex software clients (indeed, now to run an Ethereum proof of stake node, operators need to run two clients at the same time, not one) with 10 times or more lines of code than in proof of work systems.
+The second one is that to build a proof of stake system, because of its inherent insecurity, developers have to create an incredibly complex protocol, with incredibly complex software clients (indeed, now to run an Ethereum proof of stake node, operators need to run two clients at the same time, not one) with ten times or more lines of code than in proof of work systems.
 
-This complexity in itself is a security hole because by now no one in the world may understand the whole Ethereum system and such volumes of information and moving parts only create hazards and risks where hackers and attackers may put their hands to corrupt or tamper with the system.
+This complexity and volume in itself is a security hole because, by now, no one in the world may understand the whole Ethereum system and such amounts of information and moving parts only create hazards and risks where hackers and attackers may put their hands on to corrupt and tamper the system.
 
-Ethereum Classic, just by staying with the proof of work mechanism, has advanced in the most secure and simplest way, actually improving its position in the market and its security profile because by now it is the largest proof of work smart contracts blockchain in the world and the only such system that may guarantee the benefits of trust minimization and decentralization on a global scale.
+Ethereum Classic, just by staying with the proof of work mechanism, has advanced in the most secure and simplest way, actually improving its position in the market and its security profile because, by now, it is the largest proof of work smart contracts blockchain in the world, and the only such system that may guarantee the benefits of trust minimization and decentralization on a global scale.
 
 **For more information:**
 
@@ -273,7 +271,7 @@ Ethereum Classic, just by staying with the proof of work mechanism, has advanced
 
 ETC will likely climb to be one of the top four blockchains in the world. This is because ETC actually does not occupy Ethereum’s position in the market. 
 
-As a proof of stake blockchain, ETH cannot be a secure base layer system. Only proof of work networks as Bitcoin and ETC may position themselves in that space. 
+As a proof of stake blockchain, ETH cannot be a secure base layer system. Only proof of work networks as Bitcoin and ETC may position themselves in that segment. 
 
 In the near future these things will become more defined in the industry and the great majority of the proof of stake blockchains will diminish while ETC will likely continue to climb in the ranks.
 
@@ -291,7 +289,7 @@ In the near future these things will become more defined in the industry and the
 
 As previously described in our responses above, scalability is not an issue in the blockchain industry and energy consumption is a fallacy because proof of work actually helps the planet by accelerating the migration to renewable energy.
 
-ETH and ETC will actually not compete in them market. Ethereum will have a certain position in the market as layer 2 scalable system and Ethereum Classic will have a different position as a base layer, highly secure blockchain. Both will be very valuable, but arguably, Ethereum Classic more valuable than Ethereum due to its true security guarantees.
+ETH and ETC will actually not compete in them market. Ethereum will have a certain position in the market as a layer 2 scalable system and Ethereum Classic will have a different position as a base layer, highly secure blockchain. Both will be very valuable, but arguably, Ethereum Classic more valuable than Ethereum due to its true security guarantees.
 
 ### The second paragraph of this section reads:
 
@@ -305,7 +303,7 @@ As explained before, Ethereum Classic is not staying largely the same. It is act
 
 In fact, Ethereum Classic and Ethereum will both ossify in the near future, precisely because adding components, introducing fixes, and complex design to make them work is actually a huge danger to these systems.
 
-When ETC is regarded as an “immutable” system its because of its guarantees with regards to accounts, balances, and dapps. This is its true and distinguishing value.
+When ETC is regarded as an “immutable” system it is because of its guarantees with regards to accounts, balances, and dapps. This is its true and distinguishing value, and is only possible with the real decentralization that proof of work provides.
 
 **For more information:**
 
@@ -317,7 +315,7 @@ When ETC is regarded as an “immutable” system its because of its guarantees 
 
 ### Our response:
 
-Given that Ethereum Classic’s security guarantees are its virtues, and this includes immutability, which is one of the most important or the most important feature that the blockchain industry has provided to the world, and that ETC is entirely practical because it is perfectly usable with virtually unlimited scalability through layer 2 systems, and that its technology stack will always be state of the art because it is part of the EVM standard, then the above statement is incorrect, and ETC is perfectly positioned to reap the rewards of its design choices and will increasingly gain traction, as it has been the case for a long time, to be one of the largest blockchains in the world.
+Given that Ethereum Classic’s security guarantees are its virtues, and this includes immutability, which is one of the most important or the most important feature that the blockchain industry has provided to the world, and that ETC is entirely practical because it is perfectly usable with virtually unlimited scalability through layer 2 systems, and that its technology stack will always be state of the art because it is part of the EVM standard, then the above statement is incorrect, and ETC is perfectly positioned to reap the rewards of its design choices and will increasingly gain traction, as it has been the case for a long time, to become one of the largest blockchains in the world.
 
 ### The fourth paragraph of this section reads:
 
