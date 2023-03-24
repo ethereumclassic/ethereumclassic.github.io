@@ -118,6 +118,19 @@ This is because proof of work, which is the major invention by Satoshi Nakamoto,
 - It protects the history of transactions by imposing a cryptographic barrier.
 - The cost of creating the money is very high making the cryptocurrency analogous to gold in the real world.
 
+The proof of stake mechanism adopted by Ethereum loses all these guarantees because there is no extremely costly to produce cryptographic stamp or hash that serves as a focal point for the system to follow. 
+
+In proof of stake, to know which is the correct chain to join, nodes must check with trusted third parties what is the latest state. Because of this, there is no focal point for all machines in the network to follow but whatever the mining pools dictate. There is no cryptographic protection of the history of accounts, balances, transactions, and smart contracts. And, the cost of creating the money is near zero, making the cryptocurrency analogous to fiat money in the real world.
+
+**For more information:**
+
+- Ethereum Classic Is Censorship Resistant, Ethereum Is Not: https://ethereumclassic.org/blog/2023-02-22-ethereum-classic-is-censorship-resistant-ethereum-is-not 
+
+- Censorship & State Capture with Nic Carter & Lane Rettig: https://www.whatbitcoindid.com/podcast/censorship-state-capture 
+
+- Why Proof of Stake Is Less Secure Than Proof of Work: https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/ 
+
+
 ## Section: Miners Move to Ethereum Classic after the Merge
 
 ### The first paragraph of this section reads:
