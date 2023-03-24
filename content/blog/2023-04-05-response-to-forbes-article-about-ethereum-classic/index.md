@@ -9,6 +9,8 @@ linkImage: ./etc-forbes.png
 
 On February 21 2023 Forbes magazine published an article about Ethereum Classic (ETC) written by contributor [Dan Ashmore](https://www.forbes.com/advisor/author/dashmore/) and reviewed by editor [Michael Adams](https://www.forbes.com/advisor/author/madams/) titled “[What Is Ethereum Classic?](https://www.forbes.com/advisor/investing/cryptocurrency/what-is-ethereum-classic/)”.
 
+![Forbes article about ETC.](./etc-forbes.png)
+
 In the piece they made an attempt to describe the blockchain, a series of assertions about it, and comparisons to Ethereum (ETH). 
 
 Some of the information they presented was correct, but most of the statements were long lasting recycled mistakes circulating in non-ETC circles.
