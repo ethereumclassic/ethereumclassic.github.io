@@ -8,6 +8,13 @@ tags: ["media"]
 linkImage: ./etc-forbes.png
 ---
 
+---
+**You can listen to or watch this video here:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HUG3n2oIRIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
 On February 21 2023 Forbes magazine published an article about Ethereum Classic (ETC) written by contributor [Dan Ashmore](https://www.forbes.com/advisor/author/dashmore/) and reviewed by editor [Michael Adams](https://www.forbes.com/advisor/author/madams/) titled “[What Is Ethereum Classic?](https://www.forbes.com/advisor/investing/cryptocurrency/what-is-ethereum-classic/)”.
 
 ![Forbes article about ETC.](./etc-forbes.png)
@@ -196,7 +203,7 @@ That the effects of proof of work are bad to climate change is an ongoing fallac
 
 These are some of the reasons that the fallacy that proof of work is bad is wrong:
 
-1. Wind/solar are intermittent and unreliable, proof of work provides stability using electricity during surplus and switching off these soruces during deficits.
+1. Wind/solar are intermittent and unreliable, proof of work provides stability using electricity during surplus and switching off these sources during deficits.
 2. Proof of work provides a critical mass of cash flow to renewables to be economically viable, actually accelerating the migration to green energy.
 3. Proof of work is increasingly capturing methane as an energy source probably making it carbon-negative eventually.
 4. The "energy per transaction" argument is a fallacy because one transaction in a blockchain may represent thousands of transactions off-chain or in layer 2 systems.
