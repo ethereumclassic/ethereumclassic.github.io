@@ -3,6 +3,7 @@ title: "Response To Forbes Article About Ethereum Classic"
 date: 2023-04-05
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
+disclaimer: opinion
 tags: ["media"]
 linkImage: ./etc-forbes.png
 ---
