@@ -18,7 +18,7 @@ linkImage: ./etc-wetc-banner.png
 
 ![Native coins and ERC-20 tokens.](./1.png)
 
-Native cryptocurrencies are the coins inside blockchains that are used to pay for block producers and for transaction fees. They are a fundamental component of the protocols of these systems. 
+Native cryptocurrencies are the coins inside blockchains that are used to pay block producers and transaction fees. They are a fundamental component of the protocols of these systems. 
 
 They are “native” because they are the ones issued on a per block basis, by protocol, to pay for miners or validators in proof of work or proof of stake blockchains. 
 
@@ -26,7 +26,7 @@ Examples of native cryptocurrencies are $ETC in the Ethereum Classic (ETC) block
 
 ERC-20 tokens are coins created using smart contracts inside smart contracts blockchains such as ETC or Ethereum.
 
-These are not native because they are not used for block rewards or transactions fees, they are just created freely by dapp developers, and may be used for many things.
+These are not native because they are not used for block rewards or transaction fees, they are just created freely by dapp developers, and may be used for many things.
 
 Examples of ERC-20 tokens may be SHIBA Inu Classic in ETC or SHIBA Inu in Ethereum.
 
@@ -34,11 +34,11 @@ Examples of ERC-20 tokens may be SHIBA Inu Classic in ETC or SHIBA Inu in Ethere
 
 ![ETCSwap and Hebe Swap use ERC-20 tokens.](./2.png)
 
-When Ethereum Classic and Ethereum were one blockchain in 2015, the native coin was created and issued to pay for block rewards and transaction fees to miners. When Ethereum split from ETC, then their  cryptocurrencies $ETH and $ETC became their native coins respectively.
+When Ethereum Classic and Ethereum were one blockchain in 2015, the native coin was created and issued to pay for block rewards and transaction fees to miners. When Ethereum split from ETC, their cryptocurrencies $ETH and $ETC became their native coins respectively.
 
 However, as both Ethereum Classic and Ethereum are smart contracts blockchains, now developers may create many ERC-20 tokens inside ETC and ETH for their dapps or many other use cases.
 
-Because ERC-20 tokens are a standard that the great majority of developers are using, it has turned into the de facto format for all tokens. This has prompted all dapp developers to build capabilities for ERC-20 tokens, but to make their dapps compatible with the native cryptocurrencies adds more complexity.
+Because ERC-20 tokens are a standard that the great majority of developers are using, it has turned into the de facto format for nearly all tokens. This has prompted all dapp developers to build capabilities for ERC-20 tokens, but to make their dapps compatible with the native cryptocurrencies adds more complexity.
 
 To avoid this complexity, a cool way to solve the problem was to create an ERC-20 smart contract that would transform $ETC into $WETC.
 
