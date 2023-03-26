@@ -9,7 +9,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**欢迎由此收听或观看本期视频:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ltV3gnrmHo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -69,11 +69,11 @@ ETC 对全球用户来说价值非常高。
 
 因为它是一种工作量证明的区块链，具有固定的货币政策和智能合约，它提供了随着时间推移，世界将越来越需要的东西：不可阻挡性。
 
-ETC 真正去中心化、信任最小化，因此具有抗审查、无需许可和不可变性等无法估量的价值，为全球数百万人提供了庇护所。
+ETC真正去中心化、信任最小化，因此具有抗审查、无需许可和不可变性等无法估量的价值，为全球数百万人提供了庇护所。
 
 随着政府和企业通过技术越来越多地合作，以实现中央化和控制货币、言论和财产，甚至设想建立一个中央世界政府，削减人民的基本权利，对真正的去中心化计算和货币的需求将相应增加。人们将能够通过使用 ETC 作为庇护所来逃离这个反乌托邦世界的暴政。
 
-由于所有这些原因，以太经典具有巨大的价值。
+所有这些原因，赋予了以太坊经典巨大的价值。
 
 ---
 
