@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Ossification and Social Scalability"
+title: "以太坊经典的的钙化和社会可扩展性"
 date: 2023-03-29
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,98 +8,97 @@ linkImage: ./etc-ossification-banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期视频:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wfas7sUqnzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
+区块链的全部目的是去中心化。
 
-The whole purpose of blockchains is decentralization. 
+去中心化是指在个人和企业之间的经济交易中，减少对任何特定的可信任第三方作为中介的依赖。
 
-Decentralization means to reduce the dependency on any particular trusted third party to act as intermediary in economic transactions between individuals and businesses.
+这种信任最小化的原因是为了减少受信任的第三方通常最终对系统用户施加的可能限制。
 
-The reason for this trust minimization is to reduce the possible restrictions that trusted third parties usually end up imposing on users of the system. 
+可信第三方通常施加的限制可能包括交易成本、锁定成本，甚至完全阻止对服务的访问。
 
-Restrictions that trusted third parties usually impose may range from transactional costs, lock-in costs, to even blocking access to services altogether.
+系统越集中，受信任的第三方限制它的风险就越大。因此，在如何设计区块链时要谨慎，尽可能降低集中化的风险，是该行业的关键任务。
 
-The more centralized a system is, the more risk it has for a trusted third party to restrict it. Therefore, being careful in how a blockchain is designed, where the risks of centralization are reduced as much as possible, is a crucial task of the industry.
+在信任最小化、变更、复杂性和协议政治之间取得平衡是本文的主题。
 
-Striking a balance between trust minimization, change, complexity, and protocol politics is the topic of this post.
+## 什么是社会可扩展性
 
-## What Is Social Scalability?
+![计算可扩展性必须下降，社会可扩展性才能上升。](./etc-ossification-banner.png)
 
-![Computational scalability must go down for social scalability to go up.](./etc-ossification-banner.png)
+“社会可扩展性”一词是由Nick Szabo在他的经典帖子 “[Money, blockchains, and social scalability](http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html)”中首次提出的。
 
-The term “social scalability” was coined by Nick Szabo in his seminal post “[Money, blockchains, and social scalability](http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html)”.
+Szabo定义的社会可扩展性是指一个系统能够被越来越多的用户使用，而不会遇到减少或阻碍新用户使用的限制。
 
-Social scalability, as defined by Szabo, is the ability of a system to be used by increasing numbers of users without encountering restrictions that reduce or blocks new entrants from using it.
+一个不具备社会可扩展性的系统的一个很好的例子是银行系统。在美国这样的先进经济体中，有近600万户家庭没有银行账户。在美国之外，绝大多数国家的无银行账户人口比例在7%至50%以上。
 
-A good example of a system that is not socially scalable is the banking system. In an advanced economy as the United States, there are nearly 6 million households that are unbanked. Outside of the US, the great majority of countries has unbanked population shares that range from 7% to north of 50%.
+这种排斥的原因有两个。第一个原因是政府为了“安全原因”控制人民，在金融机构上强加严格的监管，以过滤出可能不是犯罪分子的潜在客户。第二个原因是由于这些监管，金融机构获得和服务客户变得非常昂贵，因此它们只把市场营销和分销的努力集中在中高收入人群上。
 
-The reasons for these exclusion levels are two. The first is that governments, in their ambition to control the people for “security reasons”, impose strict regulations on financial institutions to filter out potential customers who may not prove that they are not criminals. The second is that due to these regulations, it becomes very costly for financial institutions to acquire and service customers, therefore they concentrate their marketing and distribution efforts only to the middle and higher income segments of their markets.
+在基于工作量证明的Nakamoto共识区块链行业中，像以太经典（ETC）、比特币（BTC）和莱特币（LTC）这样的网络在牺牲计算可扩展性的情况下专注于高社会可扩展性。
 
-In the proof of work based Nakamoto Consensus sector of the blockchain industry, networks such as Ethereum Classic (ETC), Bitcoin (BTC), and Litecoin (LTC) focus on high social scalability at the expense of computational scalability. 
+这意味着在ETC的情况下，完全复制数据、对其进行哈希处理，然后再次完全复制块，生成完全相同的账本、账户余额和智能合约的副本的过程非常计算效率低下，但这是实现去中心化的唯一方式，使全世界所有人都可以无限制地访问系统。
 
-This means that the process of full replication of the data, hashing it, and then fully replicating the blocks again, producing an exact replica of exactly the same ledger with the same accounts, balances, and smart contracts, in the case of ETC, is extremely computationally inefficient, but it is the only way of producing a level of decentralization that enables everyone in the world to access the systems with no restrictions. 
+这就是计算可扩展性为社会可扩展性做出的折衷。
 
-This is the tradeoff of computational scalability for social scalability.
+由于点对点网络的物理特性，任何专注于计算可扩展性的系统必须牺牲去中心化，因此也就失去了社会可扩展性。
 
-Because of the physics of peer-to-peer networks, whichever system focuses on computational scalability must sacrifice decentralization, thus social scalability.
+这或多或少就像政府为了追求完全和纯粹的安全而牺牲了相当多的人口，这些人必须被排除在基本服务之外，比如银行服务。
 
-This is more or less how governments, seeking total and pure security, sacrifice considerable numbers of their populations who must remain excluded from basic services such as banking.
+## 什么是ETC的钙化?
 
-## What Is ETC Ossification?
+正如我们之前所说，小心设计区块链，尽量减少中心化风险，是这个行业的关键任务。
 
-As we said before, being careful in how a blockchain is designed, where the risks of centralization are reduced as much as possible, is a crucial task of the industry.
+另一方面，这些系统需要不时地更新新功能，并且每当它们出现时，必须修复错误。
 
-On the other hand, these systems need to be updated with new features every now and then, and, whenever they appear, bugs must be fixed.
+然而，区块链越频繁地升级，就越容易引入糟糕或错误的修改到系统中。
 
-However, the more frequently a blockchain is upgraded, the more risk there is for bad or faulty modifications to be introduced into the system.
+这个问题通常被称为“攻击面”，这意味着系统的表面越大，就越容易在其中挖掘漏洞。换句话说，它的代码和规则越多，就越容易找到攻击它的方法。
 
-This problem is usually called “attack surface”, which means that the larger the surface of the system is, the easier it will be to poke holes in it. In other words, the more code and rules it has, the easier it will be to find ways to attack it.
+这就是为什么术语“钙化”通常被使用并成为行业目标的原因。钙化意味着达到一个足够功能的网络，以保证其升级和错误修复的完全停止。然后，所有新功能和功能都可以在更高层次的顶部继续构建。
 
-This is why the term “ossification” is usually used and is a goal in the industry. Ossification means to reach a point where the network is sufficiently functional to warrant a complete halt in its upgrades and bug fixes. Then, all new features and functionality may continue to be built on top in higher layers.
+在像以太坊经典这样的网络中，攻击面问题有三个角度：复杂性、政治和变化。
 
-In the case of networks as Ethereum Classic, the attack surface problem has three angles: Complexity, politics, and change.
+## 复杂性
 
-## Complexity
+复杂度攻击面：构建系统所需的规则和代码越复杂，黑客发现攻击方式的隐藏路径就越多。
 
-The complexity attack surface: The more complex rules and code needed to build the system, the more hidden ways hackers will find to attack it.
+复杂性还会增加隐藏的错误或未预见的故障的风险。
 
-Complexity also raises the risk of hidden bugs or unforeseen failures.
+减少这个攻击面的方法是减少复杂性或达到钙化点，使系统足够功能，以支持所有外部互补协议的新功能和创新。
 
-The way of reducing this surface is by reducing complexity or reaching a point of ossification where the system is functional enough to support all new features and innovation in external complementary protocols.
+例如，卷积、通道和其他在ETC之上构建的扩展系统，而不是将其内部分片或将它们整合到网络中。
 
-Examples of this may be rollups, channels, and other scaling systems built on top of ETC, instead of sharding it internally or integrating them into the network.
+## 协议政治
 
-## Protocol Politics
+争议攻击面：争议越多的决策，就越有机会说服生态系统接受减少去中心化的不良升级。
 
-The argument attack surface: The more decisions to argue over, the more the opportunity to convince the ecosystem to accept bad upgrades that reduce decentralization.
+在区块链网络中，有几个组成部分参与讨论新的变更提案。这些辩论可能变得非常激烈，甚至有时会有毒性。有时，拥有足够预算、魅力或影响力的方面可能实际上会说服参与者做出可怕的更改。这些例子中最著名的是以太坊从工作量证明到完全容易集中的权益证明的迁移。
 
-In blockchain networks there are several constituents that participate in the debates when there are new proposals for change. These debates may become very passionate and even toxic at times. Sometimes, parties with enough budgets, charisma, or influence may actually convince participants to make horrible changes. The most famous of these examples is the migration of Ethereum from proof of work to proof of stake, a totally prone to centralization system.
+这些过程将开发人员、经济节点运营商和矿工变成了为自身利益而战的政治动物。
 
-These processes turn developers, economic node operators, and miners into political animals fighting for their self interest.
+钙化将完全避免这个问题，因为不再有通过花哨的论点和技巧来欺骗生态系统的可能性。
 
-Ossification would avoid this problem entirely as there would be no possibility of tricking the ecosystem with fancy arguments and gimmicks anymore.
+## 改变
 
-## Change
+改变的攻击面：更多的变化和升级，就有更多的机会引入错误规则或漏洞。
 
-The change attack surface: The more changes and upgrades there are, the more opportunities to introduce faulty rules or bugs.
+与协议政治类似，即使是必要的和有益的变化频率，也是对系统的风险。
 
-Similar to protocol politics, just the frequency of change, even if necessary and benevolent, is a risk to the system. 
+过去曾经发生过比特币出现一个没有被人发现的漏洞，当发现时，他们不得不进行紧急更改。
 
-It has happened in the past, for example, that Bitcoin had a bug nobody had seen, and when it was discovered they had to introduce an urgent change.
+除了可能仍存在的隐藏漏洞， 钙化将消除这种风险，至少不会引入新的错误和漏洞，因为不会向协议引入新的代码或规则。
 
-Save hidden bugs that may still be there, ossification would eliminate this risk, at least of introducing new bugs and errors, because there would be no introduction of new code or rules to the protocol.
+## 寻求平衡
 
-## Striking a Balance
+寻求信任最小化、改变、复杂性、和协议政治之间平衡的最好办法是通过减少变化来达到协议钙化，并且允许新的功能和设计目标到达更高的层度。
 
-The best way to strike a balance between trust minimization, change, complexity, and protocol politics is to reduce change by reaching protocol ossification and letting all new features and design goals to be built on higher layers.
-
-This is how we achieve the most social scalability.
+这也是让我们将社会扩展性达到最佳的方法。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期内容!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关以太坊经典，请访问: https://ethereumclassic.org
