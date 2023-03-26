@@ -15,68 +15,68 @@ linkImage: ./banner.png
 
 ---
 
-The fact that Ethereum Classic (ETC) is a proof of work blockchain, with fixed monetary policy, and smart contracts gives it features that make it very valuable.
+以太坊经典（ETC）作为一种工作量证明的区块链，具有固定的货币政策和智能合约功能，使其非常有价值。
 
-The main benefits of these features are true decentralization, soundness of the money, and programmability.
+这些特点的主要好处是真正的去中心化、货币的稳定性和可编程性。
 
-Decentralization means trust minimization, which makes it secure. And, by secure we mean that it is immutable, permissionless, and censorship resistant on a global scale.
+去中心化意味着最小化信任，这使它更加安全。这里说的安全，我们指的是它在全球范围内是不可变、无需许可和抗审查的。
 
-All these benefits combined make ETC valuable to many types of participants around the world for various reasons that we will explain in this post.
+所有这些好处结合在一起使ETC对世界各地的许多类型的参与者都具有价值，出于各种原因，我们将在本文中解释这些原因。
 
 ![ETC's value.](./banner.png)
 
-## ETC Is Sound Money
+## ETC是稳健的货币
 
-ETC is sound money because its coin is scarce, durable, costly to create, portable, divisible, fungible, and transferable. These features are basic physical attributes we evolved to demand so we could have a unit of value to exchange for goods and services and to use as a store value for future spending.
+ETC是稳健的货币，因为它的货币供应是稀缺的、持久的、难以创造的、可携带、可分割、可替代和可转移的。这些特点是我们演变出来的基本物理属性，我们要求它们，以便我们可以交换货物和服务，并用作未来支出的价值存储。
 
-A basic need of humans is to work to provide value to others so we can be rewarded for that value to sustain ourselves, our families, and our communities.
+人类的基本需求为他人提供价值，以便我们可以因为这种价值而获得回报，以维持自己、家庭和社区。
 
-With sound money we reduced transactional costs and we introduced a unit of value that could be distributed between ourselves to divide labour, thus foster the explosion of innovation that resulted in our current modern age.
+通过稳健的货币，我们减少了交易成本，并引入了一种可以在我们之间分配的价值单位，以分工合作，从而促进了创新的爆炸，导致了我们当前的现代时代。
 
-ETC is sound money that provides all these benefits because its currency is very costly to create due to proof of work, and it has a fixed monetary policy which guarantees that the stock of the coin will not exceed 210,700,000 units, and it will be distributed fairly and at a decreasing rate in the next 120 years.
+ETC是稳健的货币，提供所有这些好处，因为它的货币供应非常昂贵，由于工作量证明的原因，并且它有一个固定的货币政策，保证货币的存量不超过21,070万个单位，并且在未来120年内公平分配，且分配速度逐渐减少。
 
-## ETC Is Programmable
+## ETC是可编程的
 
-In addition to being sound money, the native cryptocurrency of ETC is programmable through smart contracts. 
+除了作为有价值的货币外，ETC的本地加密货币还可以通过智能合约进行编程。
 
-Smart contracts are software programs that application developers may write and when they send them to the network they become decentralized as they are replicated across all nodes in the system, making them decentralized applications or dapps, for short.
+智能合约是应用程序开发人员编写的软件程序，当他们将其发送到网络时，它们会被复制到系统中的所有节点上，从而使它们成为去中心化应用程序或dapp。
 
-This programmability, combined with its decentralization and the soundness of its money, gives ETC incredible value and versatility for users and developers alike.
+这种可编程性，加上其去中心化和货币的稳定性，为用户和开发人员提供了难以置信的价值和多功能性。
 
-Smart contracts are a key for further trust minimization, making ETC even more valuable than simple ledger systems as Bitcoin and Litecoin, because decentralized applications are like autonomous agents that replace the need for service providers hosted in proprietary data centers or cloud services.
+智能合约是进一步信任最小化的关键，使ETC比比特币和莱特币等简单账本系统更具价值，因为去中心化应用程序就像自主代理，取代了托管在专有数据中心或云服务中的服务提供商的需求。
 
-## ETC Is Good Business For Miners
+## ETC对于矿工是有利的业务
 
-As ETC is the largest proof of work smart contracts blockchain in the world, and has a market capitalization in the billions, it is a very good business for proof of work miners. 
+作为全球最大的工作量证明智能合约区块链，并拥有数十亿美元的市值，ETC对于工作量证明矿工来说是非常有利可图的。
 
-Because ETC still has a long way to run as it rises further to become one of the top 2 blockchains in the world, miners are flocking to the network for the opportunity to put to work their GPUs and ASIC machines, and many of them are accumulating ETC for the long term rather than liquidating it to pay their bills or to exchange for other assets.
+因为ETC还有很长的路要走，它将进一步上升成为全球前两个区块链之一，矿工们正在涌向网络，利用他们的GPU和ASIC机器，他们中的许多人正在长期积累ETC而不是将其出售以支付账单或交换其他资产。
 
-ETC is currently the fourth largest mining computing base after Bitcoin, DogeCoin, and Litecoin, but in the short term it will likely surpass DOGE and LTC to become the second largest mining base in the world.
+ETC目前是比特币、狗狗币和莱特币之后的第四大挖掘计算基础，但在短期内，它很可能会超过DOGE和LTC，成为世界上第二大挖掘基础。
 
-## ETC Is Good Business for Economic Nodes
+## ETC对于经济节点也是有利的业务
 
-Economic nodes are those nodes in the blockchain that are operated by businesses that use ETC to generate revenues. Examples of these are exchanges, wallet providers, block explorers, node as a service (NaaS) providers, data services, crypto custody services, and many others.
+经济节点是区块链中由企业运营的节点，这些节点使用ETC来产生收入。其中包括交易所、钱包提供商、区块浏览器、节点即服务（NaaS）提供商、数据服务、加密货币托管服务等。
 
-Historically, trading volume in ETC against fiat and other cryptocurrencies has ranked very high in exchanges. This makes ETC a very good business for these players as well as for software and hardware wallet providers.
+从历史上看，在交易所中，ETC与法定货币和其他加密货币的交易量排名非常高。这使ETC对这些参与者以及软件和硬件钱包提供商来说都是非常好的业务。
 
-ETC is listed in most top exchanges and featured in most top wallet brands. As it is widely used by the public globally, it is featured in many data services and various blockchain access and custody providers.
+ETC在大多数顶级交易所上市，并在大多数顶级钱包品牌中推荐。由于全球公众广泛使用它，它也出现在许多数据服务和各种区块链访问和托管服务中。
 
-Because running an ETC node is simple and straightforward, many of these businesses are node operators who value the ability to verify the data, transactions, and blocks by themselves. This is the basis of the saying “run your own node!” in the industry.
+因为运行 ETC 节点简单直接，许多这些企业都是节点运营商，他们重视自己验证数据、交易和区块的能力。这就是该行业中“运行自己的节点！”的基础。
 
-## ETC Is Good for Global Users
+## ETC对全球的用户的都有利
 
-ETC is incredibly valuable for users globally. 
+ETC 对全球用户来说价值非常高。
 
-Because it is a proof of work blockchain, with a fixed monetary policy, and smart contracts, it provides something that the world will increasingly demand as time passes by: Unstoppability.
+因为它是一种工作量证明的区块链，具有固定的货币政策和智能合约，它提供了随着时间推移，世界将越来越需要的东西：不可阻挡性。
 
-The fact that ETC is truly decentralized, trust minimized, and thus censorship resistant, permissionless, and immutable is of an incalculable value for millions across the planet.
+ETC 真正去中心化、信任最小化，因此具有抗审查、无需许可和不可变性等无法估量的价值，为全球数百万人提供了庇护所。
 
-As governments and corporations cooperate more and more to centralize and control the money, speech, and property through technology, and even imagine a central world government, reducing basic rights of the people everywhere, the demand for real decentralized computing and money will rise proportionately. People will be able to escape the tyranny of this dystopian world by using ETC as their refuge.
+随着政府和企业通过技术越来越多地合作，以实现中央化和控制货币、言论和财产，甚至设想建立一个中央世界政府，削减人民的基本权利，对真正的去中心化计算和货币的需求将相应增加。人们将能够通过使用 ETC 作为庇护所来逃离这个反乌托邦世界的暴政。
 
-For all of these reasons, Ethereum Classic has enormous value.
+由于所有这些原因，以太经典具有巨大的价值。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期内容!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+想要了解更多有关ETC相关内容，请访问: https://ethereumclassic.org
