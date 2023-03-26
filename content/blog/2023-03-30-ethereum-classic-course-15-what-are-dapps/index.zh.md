@@ -75,6 +75,7 @@ Dapps将扩展到全面的银行服务、电子商务、社交媒体、财产登
 https://ethereumclassic.org/services/apps
 
 很快，会有更多的应用程序，如财产注册、国债、电子商务dapp、债券、DAO，以及更多高价值的用例。
+
 ---
 
 **感谢您阅读本期文章!**
