@@ -39,7 +39,7 @@ ETC is sound money that provides all these benefits because its currency is very
 
 In addition to being sound money, the native cryptocurrency of ETC is programmable through smart contracts. 
 
-Smart contracts are software programs that application developers may write and when they send them to the network they become decentralized as they are replicated across all nodes in the system, making them decentralized applications or dapps, for short.
+Smart contracts are software programs that application developers write that,  when sent to the network, become decentralized as they are replicated across all nodes in the system thus making them decentralized applications, or d'apps for short.
 
 This programmability, combined with its decentralization and the soundness of its money, gives ETC incredible value and versatility for users and developers alike.
 
