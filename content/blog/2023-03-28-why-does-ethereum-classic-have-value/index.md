@@ -67,7 +67,7 @@ Because running an ETC node is simple and straightforward, many of these busines
 
 ETC is incredibly valuable for users globally. 
 
-Because it is a proof of work blockchain, with a fixed monetary policy, and smart contracts, it provides something that the world will increasingly demand as time passes by: Unstoppability.
+Because it is a proof-of-work blockchain with a fixed monetary policy and smart contracts, ETC provides something that the world will increasingly demand as time passes: unstoppability.
 
 The fact that ETC is truly decentralized, trust minimized, and thus censorship resistant, permissionless, and immutable is of an incalculable value for millions across the planet.
 
