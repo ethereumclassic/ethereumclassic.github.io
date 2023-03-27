@@ -49,7 +49,7 @@ Smart contracts are a key for further trust minimization, making ETC even more v
 
 As ETC is the largest proof-of-work smart contracts blockchain in the world and has a market capitalization in the billions, it is a very good business for proof-of-work miners. 
 
-Because ETC still has a long way to run as it rises further to become one of the top 2 blockchains in the world, miners are flocking to the network for the opportunity to put to work their GPUs and ASIC machines, and many of them are accumulating ETC for the long term rather than liquidating it to pay their bills or to exchange for other assets.
+Because ETC still has a long way to rise on its run to become one of the top two blockchains in the world, miners are flocking to the network for the opportunity to put their GPUs and ASIC machines to work, many of whom are accumulating ETC for the long term rather than liquidating to pay bills or exchanging for other assets.
 
 ETC is currently the fourth largest mining computing base after Bitcoin, DogeCoin, and Litecoin, but in the short term it will likely surpass DOGE and LTC to become the second largest mining base in the world.
 
