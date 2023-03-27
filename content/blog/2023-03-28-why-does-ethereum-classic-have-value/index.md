@@ -27,7 +27,7 @@ All these benefits combined make ETC valuable to many types of participants arou
 
 ## ETC Is Sound Money
 
-ETC is sound money because its coin is scarce, durable, costly to create, portable, divisible, fungible, and transferable. These features are basic physical attributes we evolved to demand so we could have a unit of value to exchange for goods and services and to use as a store value for future spending.
+ETC is sound money because its coin is scarce, durable, costly to create, portable, divisible, fungible, and transferable. These features are basic physical attributes we evolved to demand so we could have a unit of value to exchange for goods and services and to use as a store of value for future spending.
 
 A basic need of humans is to work to provide value to others so we can be rewarded for that value to sustain ourselves, our families, and our communities.
 
