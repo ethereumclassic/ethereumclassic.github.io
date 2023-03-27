@@ -51,7 +51,7 @@ As ETC is the largest proof-of-work smart contracts blockchain in the world and 
 
 Because ETC still has a long way to rise on its run to become one of the top two blockchains in the world, miners are flocking to the network for the opportunity to put their GPUs and ASIC machines to work, many of whom are accumulating ETC for the long term rather than liquidating to pay bills or exchanging for other assets.
 
-ETC is currently the fourth largest mining computing base after Bitcoin, DogeCoin, and Litecoin, but in the short term it will likely surpass DOGE and LTC to become the second largest mining base in the world.
+ETC currently ranks fourth largest mining computing base following Bitcoin, DogeCoin, and Litecoin but in the near future will likely surpass DOGE and LTC to become the second-largest mining base in the world.
 
 ## ETC Is Good Business for Economic Nodes
 
