@@ -47,7 +47,7 @@ Smart contracts are a key for further trust minimization, making ETC even more v
 
 ## ETC Is Good Business For Miners
 
-As ETC is the largest proof of work smart contracts blockchain in the world, and has a market capitalization in the billions, it is a very good business for proof of work miners. 
+As ETC is the largest proof-of-work smart contracts blockchain in the world and has a market capitalization in the billions, it is a very good business for proof-of-work miners. 
 
 Because ETC still has a long way to run as it rises further to become one of the top 2 blockchains in the world, miners are flocking to the network for the opportunity to put to work their GPUs and ASIC machines, and many of them are accumulating ETC for the long term rather than liquidating it to pay their bills or to exchange for other assets.
 
