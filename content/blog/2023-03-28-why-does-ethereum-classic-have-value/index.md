@@ -55,7 +55,7 @@ ETC currently ranks fourth largest mining computing base following Bitcoin, Doge
 
 ## ETC Is Good Business for Economic Nodes
 
-Economic nodes are those nodes in the blockchain that are operated by businesses that use ETC to generate revenues. Examples of these are exchanges, wallet providers, block explorers, node as a service (NaaS) providers, data services, crypto custody services, and many others.
+Economic nodes are those nodes in the ETC network that are operated by businesses that use ETC to generate revenues. Examples of these are exchanges, wallet providers, block explorers, node-as-a-service (NaaS) providers, data services, crypto custody services, and many others.
 
 Historically, trading volume in ETC against fiat and other cryptocurrencies has ranked very high in exchanges. This makes ETC a very good business for these players as well as for software and hardware wallet providers.
 
