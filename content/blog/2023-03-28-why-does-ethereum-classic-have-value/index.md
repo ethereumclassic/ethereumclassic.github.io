@@ -33,7 +33,7 @@ A basic need of humans is to work to provide value to others so we can be reward
 
 With sound money we reduced transactional costs and we introduced a unit of value that could be distributed between ourselves to divide labour, thus foster the explosion of innovation that resulted in our current modern age.
 
-ETC is sound money that provides all these benefits because its currency is very costly to create due to proof of work, and it has a fixed monetary policy which guarantees that the stock of the coin will not exceed 210,700,000 units, and it will be distributed fairly and at a decreasing rate in the next 120 years.
+ETC is sound money that provides all these benefits because its currency is very costly to create due to proof of work, it has a fixed monetary policy that guarantees that the stock of the coin will not exceed 210,700,000 units, and it will be distributed fairly, at a decreasing rate, over the next 120 years.
 
 ## ETC Is Programmable
 
