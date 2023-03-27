@@ -71,7 +71,7 @@ Because it is a proof-of-work blockchain with a fixed monetary policy and smart 
 
 The fact that ETC is truly decentralized, trust minimized, and thus censorship resistant, permissionless, and immutable is of an incalculable value for millions across the planet.
 
-As governments and corporations cooperate more and more to centralize and control the money, speech, and property through technology, and even imagine a central world government, reducing basic rights of the people everywhere, the demand for real decentralized computing and money will rise proportionately. People will be able to escape the tyranny of this dystopian world by using ETC as their refuge.
+As governments and corporations cooperate more and more to centralize and control money, speech, and property through technology; even imagining a central world government reducing the basic rights of people everywhere; the demand for real decentralized computing and money will rise proportionately. People will be able to escape the tyranny of this dystopian world by using ETC as their refuge.
 
 For all of these reasons, Ethereum Classic has enormous value.
 
