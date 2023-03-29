@@ -46,7 +46,7 @@ This is the tradeoff of computational scalability for social scalability.
 
 Because of the physics of peer-to-peer networks, whichever system focuses on computational scalability must sacrifice decentralization, thus social scalability.
 
-This is more or less how governments, seeking total and pure security, sacrifice considerable numbers of their populations who must remain excluded from basic services such as banking.
+This is more or less the reason why governments seeking total and pure security sacrifice considerable numbers of their populations to remain excluded from basic services such as banking.
 
 ## What Is ETC Ossification?
 
