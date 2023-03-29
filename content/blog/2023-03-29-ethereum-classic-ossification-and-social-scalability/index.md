@@ -22,7 +22,7 @@ Trust minimization is important in order to reduce the possible restrictions tha
 
 Restrictions that trusted third parties usually impose may range from transactional costs, lock-in costs, to even blocking access to services altogether.
 
-The more centralized a system is, the more risk it has for a trusted third party to restrict it. Therefore, being careful in how a blockchain is designed, where the risks of centralization are reduced as much as possible, is a crucial task of the industry.
+The more centralized a system is, the greater risk it has for a trusted third party to restrict it. Therefore, being careful in how a blockchain is designed, where the risks of centralization are reduced as much as possible, is a crucial task of the industry.
 
 Striking a balance between trust minimization, change, complexity, and protocol politics is the topic of this post.
 
