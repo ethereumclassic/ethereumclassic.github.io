@@ -90,7 +90,7 @@ Similar to protocol politics, the frequency of changes made, even if necessary a
 
 It has happened in the past, for example, that Bitcoin had a bug nobody had seen, and when it was discovered they had to introduce an urgent change.
 
-Save hidden bugs that may still be there, ossification would eliminate this risk, at least of introducing new bugs and errors, because there would be no introduction of new code or rules to the protocol.
+Except for those hidden and already present in the code, ossification eliminates the introduction of new bugs or errors because there would be no new code or rules deployed to the protocol.
 
 ## Striking a Balance
 
