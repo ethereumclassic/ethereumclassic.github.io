@@ -76,7 +76,7 @@ Examples of this may be rollups, channels, and other scaling systems built on to
 
 The argument attack surface: The more decisions to argue over, the more the opportunity to convince the ecosystem to accept bad upgrades that reduce decentralization.
 
-In blockchain networks there are several constituents that participate in the debates when there are new proposals for change. These debates may become very passionate and even toxic at times. Sometimes, parties with enough budgets, charisma, or influence may actually convince participants to make horrible changes. The most famous of these examples is the migration of Ethereum from proof of work to proof of stake, a totally prone to centralization system.
+In blockchain networks there are several constituents that participate in the debates when there are new proposals for change. These debates may become very passionate and even toxic at times. Sometimes, parties with enough budgets, charisma, or influence may actually convince participants to make horrible changes. The most famous of these examples is the migration of Ethereum from proof-of-work to proof-of-stake, a system prone to total centralization.
 
 These processes turn developers, economic node operators, and miners into political animals fighting for their self interest.
 
