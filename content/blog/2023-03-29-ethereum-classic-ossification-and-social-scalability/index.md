@@ -18,7 +18,7 @@ The whole purpose of blockchains is decentralization.
 
 Decentralization means to reduce the dependency on any particular trusted third party to act as intermediary in economic transactions between individuals and businesses.
 
-The reason for this trust minimization is to reduce the possible restrictions that trusted third parties usually end up imposing on users of the system. 
+Trust minimization is important in order to reduce the possible restrictions that trusted third parties can and usually do impose on users of their system. 
 
 Restrictions that trusted third parties usually impose may range from transactional costs, lock-in costs, to even blocking access to services altogether.
 
