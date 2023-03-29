@@ -36,7 +36,7 @@ Social scalability, as defined by Szabo, is the ability of a system to be used b
 
 A good example of a system that is not socially scalable is the banking system. In an advanced economy such as the United States, there are nearly six million households that are unbanked. Outside of the US, the great majority of countries have unbanked population shares that range from 7% to upwards of 50%.
 
-The reasons for these exclusion levels are two. The first is that governments, in their ambition to control the people for “security reasons”, impose strict regulations on financial institutions to filter out potential customers who may not prove that they are not criminals. The second is that due to these regulations, it becomes very costly for financial institutions to acquire and service customers, therefore they concentrate their marketing and distribution efforts only to the middle and higher income segments of their markets.
+The reason for these exclusion levels is twofold. The first is that governments, in their ambition to control people while touting “security reasons”, impose strict regulations on financial institutions to filter out potential customers who may not be able to prove that they are not criminals. The second is that due to these regulations, it becomes very costly for financial institutions to acquire and service customers, therefore they concentrate their marketing and distribution efforts only on the middle and higher-income segments of their markets.
 
 In the proof of work based Nakamoto Consensus sector of the blockchain industry, networks such as Ethereum Classic (ETC), Bitcoin (BTC), and Litecoin (LTC) focus on high social scalability at the expense of computational scalability. 
 
