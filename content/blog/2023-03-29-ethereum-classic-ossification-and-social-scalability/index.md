@@ -96,7 +96,7 @@ Except for those hidden and already present in the code, ossification eliminates
 
 The best way to strike a balance between trust minimization, change, complexity, and protocol politics is to reduce change by reaching protocol ossification and letting all new features and design goals to be built on higher layers.
 
-This is how we achieve the most social scalability.
+In this way, the highest level of social scalability is achieved.
 
 ---
 
