@@ -86,7 +86,7 @@ Ossification would avoid this problem entirely as there would be no possibility 
 
 The change attack surface: The more changes and upgrades there are, the more opportunities to introduce faulty rules or bugs.
 
-Similar to protocol politics, just the frequency of change, even if necessary and benevolent, is a risk to the system. 
+Similar to protocol politics, the frequency of changes made, even if necessary and benevolent, is a risk to the system. 
 
 It has happened in the past, for example, that Bitcoin had a bug nobody had seen, and when it was discovered they had to introduce an urgent change.
 
