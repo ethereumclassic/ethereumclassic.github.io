@@ -32,7 +32,7 @@ Striking a balance between trust minimization, change, complexity, and protocol 
 
 The term “social scalability” was coined by Nick Szabo in his seminal post “[Money, blockchains, and social scalability](http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html)”.
 
-Social scalability, as defined by Szabo, is the ability of a system to be used by increasing numbers of users without encountering restrictions that reduce or blocks new entrants from using it.
+Social scalability, as defined by Szabo, is the ability of a system to be used by increasing numbers of users without encountering restrictions that reduces or blocks new entrants from using it.
 
 A good example of a system that is not socially scalable is the banking system. In an advanced economy as the United States, there are nearly 6 million households that are unbanked. Outside of the US, the great majority of countries has unbanked population shares that range from 7% to north of 50%.
 
