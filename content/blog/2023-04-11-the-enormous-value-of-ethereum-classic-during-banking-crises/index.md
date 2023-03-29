@@ -3,7 +3,7 @@ title: "The Enormous Value of Ethereum Classic During Banking Crises"
 date: 2023-04-11
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-disclaimer: ["opinion"]
+disclaimer: opinion
 tags: ["philosophy", "education"]
 linkImage: ./etc-banking-crises.png
 ---
