@@ -18,7 +18,7 @@ The major paradigm shift that a blockchain as Ethereum Classic (ETC) brings to t
 
 It does this in two ways. First, people and businesses may hold their wealth with their own private keys under their own addresses on the blockchain directly, and this gives them direct and exclusive control. 
 
-Second, it separates the property registry from the state and corporations and moves it to the secure environment of the blockchain, this guarantees the immutability of property.
+Second, it separates the property registry from the state and corporations and moves it to the secure environment of the blockchain, and this guarantees the immutability of property.
 
 In addition to the above, a programmable blockchain as ETC has the extra benefit that smart contracts may be written and deployed in it making them decentralized autonomous agents. These decentralized applications can perfectly replace trusted third parties altogether by providing the same services (banking, payments, investing, insurance, property registries, contracts, etc.) as traditional centralized institutions, but in a totally decentralized, thus permissionless and censorship resistant way.
 
