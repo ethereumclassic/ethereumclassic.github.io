@@ -22,6 +22,8 @@ Second, it separates the property registry from the state and corporations and m
 
 In addition to the above, a programmable blockchain as ETC has the extra benefit that smart contracts may be written and deployed in it making them decentralized autonomous agents. These decentralized applications can perfectly replace trusted third parties altogether by providing the same services (banking, payments, investing, insurance, property registries, contracts, etc.) as traditional centralized institutions, but in a totally decentralized, thus permissionless and censorship resistant way.
 
+![Security of ETC holdings.](./etc-vault.png)
+
 However, this presents a new and huge responsibility to users. This responsibility is that, from now on, people and businesses will have to know how to manage their private keys in secure ways to ensure that their ETC, and crypto wealth in general, will not be lost to crime, confiscation, or error.
 
 This is the subject of this post.
