@@ -43,7 +43,7 @@ A raw private key, or private key, is like a secret password that controls an ad
 
 A private key looks more or less like this:
 
-`36fdbed2213dd215e1c81b4d581697a9f006f24567953ab067677132108e11c8`
+```36fdbed2213dd215e1c81b4d581697a9f006f24567953ab067677132108e11c8```
 
 This key is associated, by means of a cryptographic mathematical function, to your address on Ethereum Classic. The address is public and anyone may see it, but the only way to sign transactions and move assets or interact with decentralized applications on the network is through the private key.
 
