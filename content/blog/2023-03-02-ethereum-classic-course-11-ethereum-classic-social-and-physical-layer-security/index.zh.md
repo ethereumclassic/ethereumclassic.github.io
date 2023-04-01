@@ -3,7 +3,7 @@ title: "以太坊经典课程: 11.以太坊经典社会和物理层安全"
 date: 2023-03-02
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Course", "Education"]
+tags: ["series", "education"]
 linkImage: ./etc-social-physical-banner.png
 ---
 

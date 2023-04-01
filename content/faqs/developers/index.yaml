@@ -28,17 +28,21 @@ items:
       deployment:
         question: How do I deploy to the Ethereum Classic blockchain?
         answer: |
-          First, acquire some ETC to pay for the gas to deploy your contract, then simply ensure you deploy to to the Ethereum Classic network (Chain ID 61), rather than the Ethereum network (Chain ID 1).
+          First, acquire some ETC to pay for the gas to deploy your contract, then simply ensure you deploy to the Ethereum Classic network (Chain ID 61), rather than the Ethereum network (Chain ID 1).
       rpc:
         question: Are there public RPC endpoints I can use to deploy to ETC?
         answer: |
-          Yes. If you don't want to sync run your own Ethereum Classic node, there are a number of public endpoints available that are free to use.
+          Yes. If you don't want to run, sync, and maintain your own Ethereum Classic node, there are a number of public endpoints available that are free to use.
 
           Check out the [RPC Endpoints](/network/endpoints) section, as well as [ChainList.org](https://chainlist.org/chain/61).
       grants:
         question: Can I get funding to build on Ethereum Classic?
         answer: |
-          As Ethereum Classic has no centralized treasury, all development is necessarily either self-funded or via third party funding. In the past various third parties operated grants programs, and [ETC Cooperative](https://etccooperative.org/) has announced that it will launch a new grants program soon.
+          Yes. There are a number of past and present programs to encourage development on ETC.
+                    
+          A recent example is [ETC Grants DAO](https://etcgrantsdao.io), which launched an ETC grants program in 2023.
+          
+          As Ethereum Classic has no centralized treasury, all contributions to the project are externally funded. This includes contributors donating their time, and financial incentives from third party funding.
       ecips:
         question: How can I help with development of Ethereum Classic protocol?
         answer: |
