@@ -66,6 +66,5 @@ By nurturing the growth of Ethereum Classic, we are not only investing in its pr
 
 Let us be the ones to water the tree of Ethereum Classic today, so that the generations to come may enjoy the fruits of our labor and find shelter in the shade of a thriving and resilient network.
 
-[![Blessed are those who plant trees under whose shade they might never sit](./blessed.jpg)](https://twitter.com/ETC_Network/status/1593780847945056257
-)
+[![](./blessed.jpg)](https://twitter.com/ETC_Network/status/1593780847945056257)
 
