@@ -38,7 +38,7 @@ Imagine a lush and fertile forest where two trees stand side by side. The first 
 
 In the world of cryptocurrencies, Ethereum Classic (ETC) is like the mighty oak, steadfast and deeply rooted in its core principles and PoW consensus mechanism. Many other projects, on the other hand, are venturing into uncharted territory with the PoS consensus mechanism, exposing themselves to unforeseen risks and challenges, much like the shallow-rooted tree in the storm.
 
-# Hard Wood Truths
+## Hard Wood Truths
 
 ETC's longevity is a hard truth that sets it apart from other crypto projects. Like a mighty oak tree that has survived countless storms, ETC has stood the test of time and continues to grow stronger with each passing cycle.
 
