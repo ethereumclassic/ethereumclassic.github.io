@@ -39,7 +39,6 @@ items:
       chat Discord Ethereum Dev:
         __link: https://discord.gg/a4KbpYFjrw
         __icon: discord
-        __primary: 1
         name: Discord (Ethereum Dev Channel)
       chat Facebook English:
         __link: https://www.facebook.com/groups/ethereum.hongkong/
