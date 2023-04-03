@@ -64,7 +64,7 @@ As so many dapps support the ERC-20 smart contract standard, then WETC has becom
 
 This is especially true for swap decentralized exchanges where users may trade $WETC for many other kinds of ERC-20 tokens.
 
-In the future many external assets, such as stocks, bonds, mutuals funds, ETFs, derivatives, and futures contracts will be represented as ERC-20 tokens inside blockchains and will be traded in decentralized swap exchanges.
+In the future, many external assets such as stocks, bonds, mutual funds, ETFs, derivatives, and futures contracts will be represented as ERC-20 tokens inside blockchains and will be traded in decentralized swap exchanges.
 
 ## WETC May Exist in Several Blockchains
 
