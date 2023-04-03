@@ -14,7 +14,7 @@ linkImage: ./etc-wetc-banner.png
 
 ---
 
-## 原生加密货币vs ERC-20代币
+## 原生加密货币和ERC-20代币
 
 ![原生加密货币vs ERC-20代币](./1.png)
 
