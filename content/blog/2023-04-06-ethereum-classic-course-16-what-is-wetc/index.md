@@ -24,7 +24,7 @@ They are “native” because they are the ones issued on a per block basis, by 
 
 Examples of native cryptocurrencies are $ETC in the Ethereum Classic (ETC) blockchain, $BTC in Bitcoin (BTC), and $ETH in Ethereum (ETH).
 
-ERC-20 tokens are coins created using smart contracts inside smart contracts blockchains such as ETC or Ethereum.
+An ERC-20 token is created using smart contracts deployed on EVM (Ethereum Virtual Machine) blockchains such as ETC or Ethereum.
 
 These are not native because they are not used for block rewards or transaction fees, they are just created freely by dapp developers, and may be used for many things.
 
