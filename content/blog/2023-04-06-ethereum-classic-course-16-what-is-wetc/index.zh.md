@@ -24,7 +24,7 @@ linkImage: ./etc-wetc-banner.png
 
 原生加密货币的例子有以太坊经典(ETC)区块链中的$ETC，比特币(BTC)中的$BTC和以太坊(ETH)中的$ETH。
 
-ERC-20代币是在ETC或以太坊等智能合约区块链中使用智能合约创建的代币。
+ERC-20代币是在ETC或以太坊等智能合约（Smart Contract）区块链中使用智能合约创建的代币。
 
 它们不是原生的，因为它们不用于区块奖励或交易费用，它们只是由dapp开发人员自由创建的，并且可以用于许多事宜。
 
@@ -72,7 +72,7 @@ Wrapped ETC或WETC，市场上使用符号$WETC，是可转换成ETC和反之的
 
 A由于ERC-20代币可以代表区块链外的资产，因此甚至来自其他区块链的货币也可以表示为ERC-20代币。
 
-例如，WETC可以存在于Ethereum Classic内用于dapps，但也可以存在于Ethereum、Binance Smart Chain和许多其他智能合约区块链中。
+例如，WETC可以存在于以太坊经典内用于dapps，但也可以存在于以太坊、必安智能链和许多其他智能合约区块链中。
 
 这促进了所谓的区块链互操作性。
 
