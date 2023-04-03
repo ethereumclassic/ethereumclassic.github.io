@@ -60,7 +60,7 @@ For example, if a user sends 100 $WETC to the Wrapped ETC smart contract, then i
 
 ![WETC and dapps.](./4.png)
 
-As so many dapps support the ERC-20 smart contract standard, then WETC has become a convenient way to keep some money to use them.
+With the majority of dapps on the ETC network supporting the ERC-20 token standard, WETC has since become a convenient way to use and interact with them.
 
 This is especially true for swap decentralized exchanges where users may trade $WETC for many other kinds of ERC-20 tokens.
 
