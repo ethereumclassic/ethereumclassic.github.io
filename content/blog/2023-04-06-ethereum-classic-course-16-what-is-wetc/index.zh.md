@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Course: 16. What Is WETC?"
+title: "以太坊经典课程: 16. 什么是WETC?"
 date: 2023-04-06
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,80 +8,80 @@ linkImage: ./etc-wetc-banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q03_NutyP7Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-## Native Cryptocurrencies vs ERC-20 Tokens
+## 原生加密货币vs ERC-20代币
 
-![Native coins and ERC-20 tokens.](./1.png)
+![原生加密货币vs ERC-20代币](./1.png)
 
-Native cryptocurrencies are the coins inside blockchains that are used to pay block producers and transaction fees. They are a fundamental component of the protocols of these systems. 
+原生加密货币是区块链中的硬币，用于支付区块生产者和交易费用。它们是这些系统协议的基本组成部分。
 
-They are “native” because they are the ones issued on a per block basis, by protocol, to pay for miners or validators in proof of work or proof of stake blockchains. 
+它们是“原生的”，因为它们是根据协议以每个区块为基础发行的，用于支付工作量证明或权益证明区块链中的矿工或验证者。
 
-Examples of native cryptocurrencies are $ETC in the Ethereum Classic (ETC) blockchain, $BTC in Bitcoin (BTC), and $ETH in Ethereum (ETH).
+原生加密货币的例子有以太坊经典(ETC)区块链中的$ETC，比特币(BTC)中的$BTC和以太坊(ETH)中的$ETH。
 
-ERC-20 tokens are coins created using smart contracts inside smart contracts blockchains such as ETC or Ethereum.
+ERC-20代币是在ETC或以太坊等智能合约区块链中使用智能合约创建的代币。
 
-These are not native because they are not used for block rewards or transaction fees, they are just created freely by dapp developers, and may be used for many things.
+它们不是原生的，因为它们不用于区块奖励或交易费用，它们只是由dapp开发人员自由创建的，并且可以用于许多事情。
 
-Examples of ERC-20 tokens may be SHIBA Inu Classic in ETC or SHIBA Inu in Ethereum.
+ERC-20代币的例子可能是ETC中的SHIBA INU经典或以太坊中的SHIBA INU。
 
-## Dapps Use the ERC-20 Token Standard
+## Dapps 使用 ERC-20 代币标准
 
-![ETCSwap and Hebe Swap use ERC-20 tokens.](./2.png)
+![ETCSwap和Hebe Swap使用 ERC-20 代币标准](./2.png)
 
-When Ethereum Classic and Ethereum were one blockchain in 2015, the native coin was created and issued to pay for block rewards and transaction fees to miners. When Ethereum split from ETC, their cryptocurrencies $ETH and $ETC became their native coins respectively.
+在2015年，当以太坊经典和以太坊还是一个区块链时，本地代币被创建并发行，用于支付给矿工的区块奖励和交易手续费。当以太坊与以太坊经典分开后，它们的加密货币$ETH和$ETC分别成为它们的本地代币。
 
-However, as both Ethereum Classic and Ethereum are smart contracts blockchains, now developers may create many ERC-20 tokens inside ETC and ETH for their dapps or many other use cases.
+然而，由于以太坊经典和以太坊都是智能合约区块链，开发人员现在可以在ETC和ETH中创建许多ERC-20代币，用于他们的Dapps或许多其他用例。
 
-Because ERC-20 tokens are a standard that the great majority of developers are using, it has turned into the de facto format for nearly all tokens. This has prompted all dapp developers to build capabilities for ERC-20 tokens, but to make their dapps compatible with the native cryptocurrencies adds more complexity.
+由于ERC-20代币是大多数开发人员正在使用的标准，它已经成为了几乎所有代币的事实标准。这促使所有Dapp开发人员构建支持ERC-20代币的功能，但使其Dapp与本地加密货币兼容会增加更多的复杂性。
 
-To avoid this complexity, a cool way to solve the problem was to create an ERC-20 smart contract that would transform $ETC into $WETC.
+为了避免这种复杂性，解决问题的一个好办法是创建一个ERC-20智能合约，将$ETC转换为$WETC。
 
-## ETC in an ERC-20 Smart Contract Is WETC
+## 在 ERC-20 智能合约中的 ETC 是 WETC
 
-![Create or redeem WETC.](./3.png)
+![创建或兑换WETC.](./3.png)
 
-Wrapped ETC or WETC, which goes by the symbol $WETC in the market, is an ERC-20 token that is convertible into ETC and vice versa.
+Wrapped ETC或WETC，市场上使用符号$WETC，是可转换成ETC和反之的ERC-20代币。
 
-To create new $WETC users need to send $ETC into a smart contract and the smart contract will return $WETC to their account.
+要创建新的$WETC，用户需要将$ETC发送到智能合约，智能合约将返回$WETC到他们的账户。
 
-For example, if a user sends 100 $ETC to the Wrapped ETC smart contract, then it will return 100 $WETC to the user’s account.
+例如，如果用户向包装的ETC智能合约发送100个$ETC，则它将返回100个$WETC到用户的账户。
 
-Whenever users wish to transform their $WETC back into $ETC, they can send their $WETC to the smart contract and it will return $ETC to their account.
+每当用户想要将他们的$WETC转换回$ETC时，他们可以将他们的$WETC发送到智能合约，智能合约将返回$ETC到他们的账户。
 
-For example, if a user sends 100 $WETC to the Wrapped ETC smart contract, then it will return 100 $ETC to the user’s account.
+例如，如果用户向包装的ETC智能合约发送100个$WETC，则它将返回100个$ETC到用户的账户。
 
-## WETC Works With All Dapps That Support The ERC-20 Standard
+## WETC与支持ERC-20标准的所有Dapps兼容
 
-![WETC and dapps.](./4.png)
+![WETC和dapps.](./4.png)
 
-As so many dapps support the ERC-20 smart contract standard, then WETC has become a convenient way to keep some money to use them.
+由于许多dapps支持ERC-20智能合约标准，因此WETC已成为一种方便的方式来存储一些资金以便使用。
 
-This is especially true for swap decentralized exchanges where users may trade $WETC for many other kinds of ERC-20 tokens.
+这对于交换型去中心化交易所特别适用，用户可以在这些交易所中交易$WETC和许多其他种类的ERC-20代币。
 
-In the future many external assets, such as stocks, bonds, mutuals funds, ETFs, derivatives, and futures contracts will be represented as ERC-20 tokens inside blockchains and will be traded in decentralized swap exchanges.
+将来，许多外部资产，例如股票、债券、共同基金、ETF、衍生品和期货合约，都将表示为区块链内的ERC-20代币，并将在去中心化交换所中交易。
 
-## WETC May Exist in Several Blockchains
+## WETC可能存在于多个区块链中
 
-![WETC in several blockchains.](./5.png)
+![WETC可能存在于多个区块链中](./5.png)
 
-As ERC-20 tokens may represent assets outside blockchains, then even coins from other blockchains may be represented as ERC-20 tokens.
+A由于ERC-20代币可以代表区块链外的资产，因此甚至来自其他区块链的货币也可以表示为ERC-20代币。
 
-For example, WETC may exist inside Ethereum Classic to use with dapps, but also inside Ethereum, Binance Smart Chain, and many other smart contracts blockchains.
+例如，WETC可以存在于Ethereum Classic内用于dapps，但也可以存在于Ethereum、Binance Smart Chain和许多其他智能合约区块链中。
 
-This facilitates what is called blockchain interoperability.
+这促进了所谓的区块链互操作性。
 
-However, for now the technology that is called “bridges” which does these connections, is not as secure as the blockchain environment, so it is always safer to return back any wrapped tokens to their original chains whenever possible.
+然而，目前被称为“桥梁”的技术用于建立这些连接，不像区块链环境那样安全，因此尽可能将任何封装的代币返回到它们的原始链上更安全。
 
-Examples of wrapped tokens that exist in multiple chains are WETC, WETH, WBTC, WBNB, and many others.
+存在于多个链中的封装代币的示例包括WETC、WETH、WBTC、WBNB等等。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，请访问: https://ethereumclassic.org
