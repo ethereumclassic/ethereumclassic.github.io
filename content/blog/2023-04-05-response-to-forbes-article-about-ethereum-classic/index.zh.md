@@ -130,207 +130,207 @@ linkImage: ./etc-forbes.png
 
 - 以太坊经典是抗审查的，以太坊却不是: https://ethereumclassic.org/blog/2023-02-22-ethereum-classic-is-censorship-resistant-ethereum-is-not 
 
--审查和国家捕获，对话Nic Carter & Lane Rettig: https://www.whatbitcoindid.com/podcast/censorship-state-capture
+- 审查和国家捕获，对话Nic Carter & Lane Rettig: https://www.whatbitcoindid.com/podcast/censorship-state-capture
 
--为什么权益证明不如工作量证明安全:https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/
+- 为什么权益证明不如工作量证明安全:https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/
 
 
 ## 部分:合并后矿工迁移到以太坊经典
 
 ### 本节第一段如下:
 
-*“After the merge, miners moved to Ethereum Classic, helping throw the smaller crypto into the limelight. The ETC hash rate, a measure of the total power being used by mining, jumped 280% in the aftermath of the merge, highlighting the extent miners have migrated to Ethereum Classic.”*
+*“合并后，矿工们转向以太经典，使得这个小型加密货币受到了瞩目。合并后，以太经典的哈希率（衡量矿机使用的总体能力）增长了280％，突显了矿工迁移到以太经典的程度。”*
 
-### Our response:
+### 我们的回应：
 
-The above information is correct, but what deserves clarification are the related comments that continue in the next part.
+以上信息是正确的，但需要澄清的是接下来的相关评论。
 
-### The second and third paragraphs of this section read:
+### 本节第二和第三段的内容如下：
 
-*“The main driver of this spike was staking pools run by centralized companies. An Ethereum staking pool is a tool that allows multiple ETH holders to pool their tokens together to access validator status. Ethereum requires 32 ETH, roughly $44,000 at the time of this writing, to obtain a “set of validator keys.*
+*“这种激增的主要推动力是由中心化公司运营的质押池。以太坊质押池是一种工具，允许多个ETH持有者将他们的代币汇集在一起，以获得验证器的身份。以太坊需要32个ETH，约合本文撰写时的44000美元，才能获得“验证器密钥组。*
 
-*Before the merge, the U.S. Treasury sanctioned Tornado Cash, a virtual currency mixer that helped obfuscate the origin and destination of funds on the Ethereum blockchain. The Treasury accused Tornado Cash of facilitating money laundering. This shed further light on the concern with Ethereum’s proof-of-stake mechanism.”*
+*在合并之前，美国财政部制裁了Tornado Cash，这是一种虚拟货币混合器，可以在以太坊区块链上掩盖资金的来源和目的地。财政部指控Tornado Cash协助洗钱。这进一步凸显了以太坊的股权证明机制的问题。”*
 
-### Our response:
+### 我们的回应：
 
-The driver of the spike in mining in ETC has nothing to do with the Ethereum staking pools, that proof of stake is a centralized system, the validator deposit, or the Tornado Cash sanction. The driver was that when ETH migrated to proof of stake, a huge stock of mining machines in the market were orphaned and the largest compatible blockchain to mine left was Ethereum Classic. This made ETC the largest proof of work smart contracts blockchain in the world. An incredibly valuable market position.
+ETC挖矿激增与以太坊的质押池、股权证明、验证者押金或Tornado Cash制裁无关。导致激增的原因是当以太坊迁移到股权证明时，市场上有大量的挖矿机器被孤立，而唯一剩下的兼容区块链是以太经典。这使得ETC成为世界上最大的智能合约POW区块链，这是一个非常有价值的市场位置。
 
-That Ethereum is now largely centralized and that it is prone to censorship is true, but not related to the mining spike in ETC.
+以太坊现在基本上是集中化的，容易受到审查，这是事实，但与ETC挖矿激增无关。
 
-### The fourth paragraph of this section reads:
+### 本节第四段的内容如下：
 
-*“This conflict highlights the ideological divergence between Ethereum and Ethereum Classic. Crypto purists favor a libertarian, censorship-resistant, decentralized model, whereas crypto pragmatists point toward the more adaptable and malleable nature of Ethereum as the way to go.”*
+*“这种冲突突显了以太坊和以太经典之间的意识形态分歧。加密货币纯粹主义者倾向于自由主义、抗审查和去中心化的模式，而加密货币实用主义者则指向以太坊更适应和可塑的本质。”*
 
-### Our response:
+### 我们的回应：
 
-Miners are a clear demonstration of the high level of permissionlessness and censorship resistance of the proof of work consensus mechanism in ETC. These network participants may move from any place in the world to any other in search of the cheapest electricity prices, they may connect and disconnect from the network whenever they wish, and they can do all these things without any real restrictions as long as they have an internet connection and a low cost source of electricity. Even in China, where cryptocurrencies and mining are prohibited, more than 20% of proof of work mining is taking place.
+矿工清楚地展示了以工作证明共识机制的ETC高度无许可和抗审查的特点。这些网络参与者可以从世界上任何地方移动到另一个地方，寻找最便宜的电价，他们可以随时连接和断开网络，只要他们有互联网连接和低成本的电源，就可以无限制地进行这些操作。即使在禁止加密货币和挖矿的中国，超过20%的工作证明挖矿仍在进行。
 
-Proof of stake has many restrictions. For example, capital staked must remain locked for long periods of time, staking pools are largely static and identifiable entities who must comply with national constraints wherever they are located, and there are very strong economies of scale that make these players very large and entrenched, thus very vulnerable to capture.
+权益证明有许多限制。例如，锁定的资本必须长期保持锁定状态，权益池是基本静态且可识别的实体，无论它们位于何处，都必须遵守国家的限制，并且有非常强的规模经济使这些参与者非常大和牢固，因此非常容易被攻占。
 
-However, this must not be seen as a mere difference of opinion. That blockchains must be immutable and extremely secure is true, and that some flexibility and “pragmatism” are ok is false. 
+但是，这不应被视为一种意见分歧。区块链必须是不可变的和极其安全的是真实的，而一些灵活性和“实用主义”是错误的。
 
-The whole purpose of the blockchain industry is decentralization because trusted third parties are security holes. To be a "pragmatist" because ETH is adaptable and malleable is not to be pragmatist, it is to fall for the temptation of centralism.
+区块链行业的整个目的是去中心化，因为可信第三方是安全漏洞。成为“实用主义者”因为ETH是可适应和可塑的，这不是实用主义者，而是陷入中心主义的诱惑。
 
-Migrating to technology that basically goes back to replicating the traditional fiat systems and all their flaws is an oxymoron for any blockchain system, and seeking shallow goals as “scaling” and “innovation” is to totally miss the point of the blockchain industry paradigm.
+迁移到基本上复制传统法定系统及其所有缺陷的技术，对于任何区块链系统来说都是一个自相矛盾的说法，追求“扩展”和“创新”等浅显的目标完全错过了区块链行业范例的核心。
 
-**For more information:**
+**更多信息:
 
-- Ethereum Classic's Focus on Trust Minimization: https://ethereumclassic.org/blog/2023-03-08-ethereum-classics-focus-on-trust-minimization 
+- 以太坊经典关注信任最小化：https://ethereumclassic.org/blog/2023-03-08-ethereum-classics-focus-on-trust-minimization
 
-- Trusted Third Parties are Security Holes: https://nakamotoinstitute.org/trusted-third-parties/ 
+- 可信第三方是安全漏洞：https://nakamotoinstitute.org/trusted-third-parties/
 
-- Satoshi Nakamoto Mentioned Trust Minimization 14 Times in the Bitcoin White Paper: https://etherplan.com/2020/02/29/satoshi-nakamoto-mentioned-trust-minimization-14-times-in-the-bitcoin-white-paper/10210/ 
+- 比特币白皮书中14次提到了信任最小化：https://etherplan.com/2020/02/29/satoshi-nakamoto-mentioned-trust-minimization-14-times-in-the-bitcoin-white-paper/10210/
 
-## Section: Advantages of Ethereum vs. Ethereum Classic
+## 部分：以太坊与以太经典的优势
 
-### The first to third paragraphs of this section read:
+### 本节的前三段如下：
 
-*“Most of the Ethereum community backed the proof-of-stake conversion. Proponents cited a few big advantages.*
+*“大部分以太坊社区支持 PoS 转换。支持者列出了几个重要的优点。*
 
-*First, the energy impact of the merge significantly reduced Ethereum’s energy consumption by 99.9% from the previous proof-of-work consensus mechanism.*
+*首先，与之前的 PoW 共识机制相比，合并的能源影响将以太坊的能源消耗大幅减少了 99.9%。*
 
-*That means Ethereum Classic miners remain huge energy consumers. To put into perspective, Bitcoin mining is said to consume a quantity of electricity every year, slightly greater than Kazakhstan’s annual consumption.”*
+*这意味着以太经典矿工仍然是巨大的能源消费者。为了说明这一点，据说比特币挖矿每年消耗的电力略高于哈萨克斯坦的年度消耗。”*
 
-### Our response:
+### 我们的回应：
+转向 PoS 没有任何优势。以太坊生态系统被欺骗了，以太经典做出了正确的选择，留在 PoW 上。随着时机的到来（由于当今世界上多重经济和地缘政治危机正在展开），这将在市场上引起重大的动荡。
 
-There are no advantages of moving to proof of stake. The Ethereum ecosystem was deceived and Ethereum Classic made the right choice to stay with proof of work. This will be noticed with big market movements when the time comes (which are very near because of the multiple economic and geopolitical crises unfolding in the world today).
+对于 PoW 对气候变化的影响不好是一个持续存在的谬误，如果知名刊物如 Forbes 能进行更深入的研究并进行更正，这将实际上非常有益于地球。
 
-That the effects of proof of work are bad to climate change is an ongoing fallacy that would be actually very good for the planet if prestigious publications as Forbes could correct with deeper research.
+以下是一些证明 PoW 是好的的原因：
 
-These are some of the reasons that the fallacy that proof of work is bad is wrong:
+1. 风/太阳能是间歇性和不可靠的，PoW 利用电力提供稳定性，并在电力短缺时关闭这些能源。
+2. PoW 为可再生能源提供了关键的现金流，使之经济可行，实际上加速了向绿色能源的过渡。
+3. PoW 越来越多地捕获甲烷作为能源来源，最终可能使其呈现负碳。
+4. “每笔交易的能量”论点是错误的，因为区块链中的一笔交易可能代表了离线或第二层系统中的数千笔交易。
+5. 从人类繁荣的角度来看，PoW 并不是“浪费”的，因为它提供了安全性、硬通货和一个前所未有的、不可侵犯的全球基本权利水平。
+6. 事实上，PoW 实际上利用了本来会被浪费的电力，因为矿工就像吃面包屑的蚂蚁一样，他们不使用人类的中央能源来源，而是使用边角料。
+7. 如果 "你喜欢工作量证明，那你一定讨厌地球" 的说法是错误的，正由以上所说。
 
-1. Wind/solar are intermittent and unreliable, proof of work provides stability using electricity during surplus and switching off these sources during deficits.
-2. Proof of work provides a critical mass of cash flow to renewables to be economically viable, actually accelerating the migration to green energy.
-3. Proof of work is increasingly capturing methane as an energy source probably making it carbon-negative eventually.
-4. The "energy per transaction" argument is a fallacy because one transaction in a blockchain may represent thousands of transactions off-chain or in layer 2 systems.
-5. Proof of work is not "wasteful" from a human flourishing perspective as it provides security, hard money, and an incredible and unprecedented level of inviolable basic rights to people on a global scale.
-6. Proof of work actually uses electricity that would be wasted anyway because miners are like ants eating crumbs, they don’t use the central sources of energy for humanity, but marginal discards.
-7. The "if you love proof of work, then you must hate the planet" tagline is actually the opposite because of all the reasons above!
+**更多信息：**
 
-**For more information:**
+- Cypherpunk开始和工作量证明的案例：https://etccooperative.org/posts/2023-03-13-outline-of-bob-summerwills-speech-at-ethdenver-2023-en
 
-- Cypherpunk Beginnings and the Case for Proof Of Work: https://etccooperative.org/posts/2023-03-13-outline-of-bob-summerwills-speech-at-ethdenver-2023-en
+- Michael Saylor和Jack Dorsey致信EPA驳斥比特币能源FUD：https://bitcoinmagazine.com/markets/michael-saylor-jack-dorsey-pen-letter-to-epa-refuting-bitcoin-energy-fud
 
-- Michael Saylor, Jack Dorsey Pen Letter to EPA Refuting Bitcoin Energy Fud: https://bitcoinmagazine.com/markets/michael-saylor-jack-dorsey-pen-letter-to-epa-refuting-bitcoin-energy-fud 
+- 比特币挖矿委员会：https://bitcoinminingcouncil.com
 
-- Bitcoin Mining Council: https://bitcoinminingcouncil.com 
+### 本节的第四和第五段内容如下：
 
-### The fourth and fifth paragraphs of this section read:
+*“以太坊经典在可扩展性方面存在缺陷。由于其不太灵活的代码，加密分析师并不乐观地认为 ETC 能够克服可扩展性问题，这是大规模加密货币采用的一个巨大障碍。*
 
-*“Ethereum Classic has disadvantages when it comes to scalability. Thanks to its less malleable code, crypto analyst are not optimistic that ETC can overcome the scalability issues, which are a big stumbling block to mass crypto adoption.*
+*虽然可扩展性对于以太坊来说也是一个问题，但社区正在努力改善情况。由于以太坊受到开发者更大的关注——而 ETC 则对变革持抵制态度——很容易理解以太坊为什么更受欢迎。”*
 
-*While scalability is also a problem for Ethereum, the community is working to improve the situation. Thanks to the much greater attention on Ethereum from developers—ETC’s resistance to change—it’s easy to see why Ethereum is so much more popular.”*
+### 我们的回应：
 
-### Our response:
+这两段对于可扩展性是问题以及对以太经典是否可能遇到可扩展性或技术堆栈中的任何其他问题都存在缺陷。
 
-These two paragraphs are incorrect with regards to the idea that scalability is a problem to any blockchain, and they contradict the notion that Ethereum Classic could even have a problem if scalability or any other part of the technology stack were an issue.
+首先，可扩展性对于以太坊经典、以太坊、比特币或任何区块链来说都不是问题，因为区块链行业将会分层，较高层将支配更高的交易量，同时在较低、更安全的层次上进行清算和结算（这些层级可能是工作量证明系统）。从可扩展到安全的这种排序方式是技术几十年来一直遵循的方式，区块链行业也不例外。
 
-First, scalability is not an issue in Ethereum Classic, Ethereum, Bitcoin or any blockchain because the blockchain industry will be layered and higher layers will command higher volumes of transactions while netting and settling them in the lower, more secure layers (which will likely be proof of work systems). This order from scalable to secure is how technology has worked for decades and the blockchain industry is no exception.
+关于“对变革的抵制”，当涉及升级技术、添加新功能、修复漏洞或遵循以太坊虚拟机标准时，以太坊经典并不会对变革抵制。
 
-With regards to “resistance to change”, ETC has no resistance to change when it is about upgrading its technology, adding new useful features, fixing bugs, or keeping up with the EVM standard as described previously.
+因此，福布斯文章所存在的矛盾之处在于，如果以太坊社区正在努力改善可扩展性问题，由于对以太坊的开发者更大的关注，无论他们做出什么改进，都将在以太坊经典中实施。
 
-Therefore, the contradiction in which the Forbes argument above incurs is that if the Ethereum community is working to improve the scaling situation, thanks to the much greater attention on it from developers, whatever improvements they may create will be implemented in Ethereum Classic as well.
+再次强调，除了共识层之外，ETH和ETC实际上是相同的技术堆栈。事实上，ETC核心开发人员积极参与更大的EVM格式生态系统，并不断努力将新的EIP整合到ETC中，或参与这些协议的辩论和定义。
 
-Again, ETH and ETC, except for the consensus layer, are practically the same technology stack. In fact, ETC core developers are active participants in the larger EVM format ecosystem, constantly working to integrate new EIPs into ETC or participating in the debates and definitions of these protocols.
+**更多信息:**
 
-**For more information:**
+- 区块链行业的未来格局将由格式之争、分层和系统性风险定义：https://etherplan.com/2019/06/15/the-format-war-layering-and-systemic-risk-will-define-the-future-landscape-of-the-blockchain-industry/7820/
 
-- The Format War, Layering, and Systemic Risk Will Define the Future Landscape of the Blockchain Industry: https://etherplan.com/2019/06/15/the-format-war-layering-and-systemic-risk-will-define-the-future-landscape-of-the-blockchain-industry/7820/ 
+- EVM对象格式（EOF）升级解释：https://ethereumclassic.org/blog/2023-01-17-the-evm-object-format-eof-upgrade-explained
 
-- The EVM Object Format (EOF) Upgrade Explained: https://ethereumclassic.org/blog/2023-01-17-the-evm-object-format-eof-upgrade-explained 
+## 部分：以太坊经典价格
 
-## Section: Ethereum Classic Price
+### 这一部分的第一段内容为：
 
-### The first paragraph of this section reads:
+*“多年来，以太坊越来越强大，成为继比特币之后市值第二大加密货币。”*
 
-*“Ethereum has moved from strength to strength over the years, becoming the second largest crypto by market capitalization after Bitcoin.”*
+### 我们的回应：
+相反，以太坊从强大走向了疲软，而以太经典从疲软走向了强大。
 
-### Our response:
+以太坊的疲软表现在两个方面。首先，它放弃了作为共识机制的工作量证明，消除了这项技术为世界带来的主要改进，即通过全球范围内的点对点、完全复制网络，在最高程度的无权限和防止审查的情况下实现51%的故障容错。
 
-To the contrary, Ethereum has moved from strength to weakness and Ethereum Classic has moved from weakness to strength.
+第二个方面是为了构建一个权益证明系统，由于其固有的不安全性，开发人员必须创建一个非常复杂的协议，使用比工作量证明系统更多十倍以上的代码量和非常复杂的软件客户端（现在运行以太坊权益证明节点，操作人员需要同时运行两个客户端，而不是一个）。
 
-Weakness in Ethereum is shown in two dimensions. The first is that it discarded proof of work as the consensus mechanism eliminating the major improvements that this technology brought to the world, namely to reach consensus with a 51% fault tolerance on a global scale, on a peer-to-peer, fully replicated network, with the highest levels of permissionlessness and censorship resistance man has ever seen.
+这种复杂性和数量本身就是一个安全漏洞，因为现在世界上没有人能够理解整个以太坊系统，这种大量的信息和移动部分只会在黑客和攻击者可能在其中操作以破坏和篡改系统的风险和危险。
 
-The second one is that to build a proof of stake system, because of its inherent insecurity, developers have to create an incredibly complex protocol, with incredibly complex software clients (indeed, now to run an Ethereum proof of stake node, operators need to run two clients at the same time, not one) with ten times or more lines of code than in proof of work systems.
+以太坊经典仅仅通过保持工作证明机制，以最安全和简单的方式取得了进展，实际上提高了市场地位和安全性，因为现在它是世界上最大的工作证明智能合约区块链，也是唯一一个可以在全球范围内保证信任最小化和分散化优势的系统。
 
-This complexity and volume in itself is a security hole because, by now, no one in the world may understand the whole Ethereum system and such amounts of information and moving parts only create hazards and risks where hackers and attackers may put their hands on to corrupt and tamper the system.
 
-Ethereum Classic, just by staying with the proof of work mechanism, has advanced in the most secure and simplest way, actually improving its position in the market and its security profile because, by now, it is the largest proof of work smart contracts blockchain in the world, and the only such system that may guarantee the benefits of trust minimization and decentralization on a global scale.
 
-**For more information:**
+**更多信息:**
 
-- Vitalik Buterin: Updated roadmap diagram!: https://twitter.com/VitalikButerin/status/1588669782471368704 
+- 维塔利克·布特林: 更新的路线图!: https://twitter.com/VitalikButerin/status/1588669782471368704 
 
-- Proof-of-Stake and Stablecoins: A Blockchain Centralization Dilemma: https://www.lynalden.com/proof-of-stake/ 
+- 权益证明和稳定币: 一个中心化区块链的困境: https://www.lynalden.com/proof-of-stake/ 
 
-- Why Does Ethereum Classic have value? https://ethereumclassic.org/blog/2023-03-28-why-does-ethereum-classic-have-value 
+- 为什么以太坊经典有价值? https://ethereumclassic.org/blog/2023-03-28-why-does-ethereum-classic-have-value 
 
-### The second and third paragraphs of this section read:
+### 本节第二和第三段：
 
-*“While ETH’s current market cap is around $200 billion, forked ETC’s current market cap is a mere $3.1 billion. Yet despite being 36 times smaller than Ethereum, ETC still places in the top 25 cryptocurrencies by market cap.*
+*“尽管ETH的当前市值约为2000亿美元，分叉的ETC的当前市值仅为31亿美元。尽管比以太坊小了36倍，ETC仍然排名前25位的加密货币之一。*
 
-*Ethereum Classic has largely traded like smaller cryptocurrencies, and it’s tightly correlated but more volatile than Bitcoin and Ethereum.”*
+*以太坊经典大多像更小的加密货币一样交易，它与比特币和以太坊的相关性很高，但更加波动。”*
 
-### Our response:
+### 我们的回应:
 
-ETC will likely climb to be one of the top four blockchains in the world. This is because ETC actually does not occupy Ethereum’s position in the market. 
+ETC 很可能会成为全球排名前四的区块链之一。这是因为 ETC 实际上并没有占据以太坊在市场上的地位。
 
-As a proof of stake blockchain, ETH cannot be a secure base layer system. Only proof of work networks as Bitcoin and ETC may position themselves in that segment. 
+作为一种权益证明区块链，ETH 无法成为安全的基础层系统。只有像比特币和 ETC 这样的工作量证明网络才能在该领域定位。
 
-In the near future these things will become more defined in the industry and the great majority of the proof of stake blockchains will diminish while ETC will likely continue to climb in the ranks.
+在不久的将来，这些事情将在行业中变得更加明确，大多数权益证明区块链将会减少，而 ETC 很可能会继续攀升排名。
 
-**For more information:**
+**更多信息:**
 
-- What Is Ethereum Classic’s Contribution to the Blockchain Industry? https://etherplan.com/2021/04/20/what-is-ethereum-classics-contribution-to-the-blockchain-industry/15717/ 
+- 以太坊经典对区块链行业的贡献是什么？ https://etherplan.com/2021/04/20/what-is-ethereum-classics-contribution-to-the-blockchain-industry/15717/ 
 
-## Section: Should You Invest in Ethereum Classic?
+## 部分: 您应该投资于以太坊经典吗？
 
-### The first paragraph of this section reads:
+### 本节的第一段如下：
 
-*“Given issues concerning scalability and energy consumption, as well as the continued mainstream adoption of Ethereum, it’s difficult to imagine Ethereum Classic ever gaining a foothold like Ethereum.”*
+*“考虑到可扩展性和能源消耗方面的问题，以及以太坊的持续主流采用，很难想象以太坊经典会像以太坊一样获得立足之地。”*
 
-### Our response:
+### 我们的回应:
 
-As previously described in our responses above, scalability is not an issue in the blockchain industry and energy consumption is a fallacy because proof of work actually helps the planet by accelerating the migration to renewable energy.
+正如我们在上面的回答中所描述的那样，可扩展性在区块链行业中不是一个问题，而能源消耗是一个谬论，因为工作量证明实际上通过加速向可再生能源的转移来帮助地球。
 
-ETH and ETC will actually not compete in them market. Ethereum will have a certain position in the market as a layer 2 scalable system and Ethereum Classic will have a different position as a base layer, highly secure blockchain. Both will be very valuable, but arguably, Ethereum Classic more valuable than Ethereum due to its true security guarantees.
+ETH 和 ETC 实际上不会在市场上竞争。以太坊将在市场上具有一定的位置，作为第二层可扩展系统，而以太坊经典将作为基础层高度安全的区块链具有不同的位置。两者都非常有价值，但可以说，以太坊经典比以太坊更有价值，因为它具有真正的安全保证。
 
-### The second paragraph of this section reads:
+### 本节的第二段如下：
 
-*“ETH is working to improve its drawbacks, while Ethereum Classic is staying largely the same.”*
+*“ETH 正在努力改善其缺点，而以太坊经典基本保持不变。”*
 
-### Our response:
+### 我们的回应:
 
-Again, Ethereum is making its drawbacks worse by constantly adding patches and fixes to its stack that increase complexity which is a major source of risk and attack vectors. On top of this, it is driving its system to centralization which is exactly opposite of what a blockchain should do.
+再次强调，以太坊通过不断添加修补程序和修复程序来增加复杂性，这是风险和攻击向量的主要来源，进而使其缺陷变得更糟，从而推动其系统向中心化发展，这正好与区块链的初衷相反。
 
-As explained before, Ethereum Classic is not staying largely the same. It is actually on par with Ethereum technologically and will always be state of the art technology.
+正如前面所解释的，以太经典并没有保持不变。在技术上，它实际上与以太坊处于同一水平，并且始终是最先进的技术。
 
-In fact, Ethereum Classic and Ethereum will both ossify in the near future, precisely because adding components, introducing fixes, and complex design to make them work is actually a huge danger to these systems.
+事实上，以太经典和以太坊都将在不久的将来凝固，这正是因为添加组件，引入修复程序和复杂设计以使它们正常工作实际上对这些系统构成了巨大的危险。
 
-When ETC is regarded as an “immutable” system it is because of its guarantees with regards to accounts, balances, and dapps. This is its true and distinguishing value, and is only possible with the real decentralization that proof of work provides.
+当以太经典被视为“不可变”系统时，这是因为它对账户、余额和dapps的保证。这是它真正的、与众不同的价值所在，而只有通过真正的去中心化，即PoW提供的方式，才能实现这一点。
 
-**For more information:**
+**更多信息:**
 
-- Ethereum Classic Ossification and Social Scalability: https://ethereumclassic.org/blog/2023-03-29-ethereum-classic-ossification-and-social-scalability 
+- 以太坊经典的钙化和社会可扩展性: https://ethereumclassic.org/blog/2023-03-29-ethereum-classic-ossification-and-social-scalability 
 
-### The third paragraph of this section reads:
+### 本节第三段如下：
 
-*“The virtues of altering the code can be debated, but no matter how virtuous or immutable Ethereum Classic is, if it is not practical enough to be used on a global stage, it won’t ever gain the kind of traction that more suitable cryptocurrencies will.”*
+*“修改代码的优点可能会引起争议，但是无论以太经典多么有价值或不可变，如果它在全球范围内不够实用，它永远不会像更适合的加密货币那样获得足够的关注。”* 
 
-### Our response:
+### 我们的回应:
 
-Given that Ethereum Classic’s security guarantees are its virtues, and this includes immutability, which is one of the most important or the most important feature that the blockchain industry has provided to the world, and that ETC is entirely practical because it is perfectly usable with virtually unlimited scalability through layer 2 systems, and that its technology stack will always be state of the art because it is part of the EVM standard, then the above statement is incorrect, and ETC is perfectly positioned to reap the rewards of its design choices and will increasingly gain traction, as it has been the case for a long time, to become one of the largest blockchains in the world.
+鉴于以太经典的安全保证是它的优点，包括不可变性，这是区块链行业向世界提供的最重要的特征之一或最重要的特征，而以太经典完全实用，因为它可通过第二层系统实现几乎无限的可扩展性，并且其技术堆栈将始终是最先进的，因为它是EVM标准的一部分，那么上述陈述是不正确的，以太经典完全有条件在全球范围内获得更广泛的认可，这一点长期以来已经得到证明，并逐渐成为世界上最大的区块链之一。
 
-### The fourth paragraph of this section reads:
+### 本届第四段如下
 
-*“Unless ETC solves more of its problems or there is an unforeseen negative development with Ethereum, the prospects for Ethereum Classic taking over the big stage is remote at best.”*
+*“除非以太经典解决更多问题或以太坊出现了无法预料的负面发展，否则以太经典接管大舞台的前景充其量很遥远。”*
 
-### Our response:
+### 我们的回应:
 
-For all the reasons we have given in this response, we can’t disagree more with this final statement.
+尽管我们在这一回应中给出了所有的理由，但我们不能更反对这一最后声明。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC相关内容，请访问: https://ethereumclassic.org
