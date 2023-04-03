@@ -126,18 +126,18 @@ linkImage: ./etc-forbes.png
 
 在权益证明中，为了确定要加入哪个正确的区块链，节点必须向可信第三方检查最新状态。因此，没有所有机器在网络中遵循的焦点，而是由挖矿池决定。没有加密保护账户、余额、交易和智能合约的历史记录。而且，创造货币的成本接近于零，使得加密货币在现实世界中类似于法定货币。
 
-**For more information:**
+**更多信息:**
 
-- Ethereum Classic Is Censorship Resistant, Ethereum Is Not: https://ethereumclassic.org/blog/2023-02-22-ethereum-classic-is-censorship-resistant-ethereum-is-not 
+- 以太坊经典是抗审查的，以太坊却不是: https://ethereumclassic.org/blog/2023-02-22-ethereum-classic-is-censorship-resistant-ethereum-is-not 
 
-- Censorship & State Capture with Nic Carter & Lane Rettig: https://www.whatbitcoindid.com/podcast/censorship-state-capture 
+-审查和国家捕获，对话Nic Carter & Lane Rettig: https://www.whatbitcoindid.com/podcast/censorship-state-capture
 
-- Why Proof of Stake Is Less Secure Than Proof of Work: https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/ 
+-为什么权益证明不如工作量证明安全:https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/
 
 
-## Section: Miners Move to Ethereum Classic after the Merge
+## 部分:合并后矿工迁移到以太坊经典
 
-### The first paragraph of this section reads:
+### 本节第一段如下:
 
 *“After the merge, miners moved to Ethereum Classic, helping throw the smaller crypto into the limelight. The ETC hash rate, a measure of the total power being used by mining, jumped 280% in the aftermath of the merge, highlighting the extent miners have migrated to Ethereum Classic.”*
 
