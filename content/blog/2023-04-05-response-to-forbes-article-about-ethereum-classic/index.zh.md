@@ -1,5 +1,5 @@
 ---
-title: "Response To Forbes Article About Ethereum Classic"
+title: "回应福布斯关于以太坊经典的文章"
 date: 2023-04-05
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -9,126 +9,122 @@ linkImage: ./etc-forbes.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HUG3n2oIRIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-On February 21 2023 Forbes magazine published an article about Ethereum Classic (ETC) written by contributor [Dan Ashmore](https://www.forbes.com/advisor/author/dashmore/) and reviewed by editor [Michael Adams](https://www.forbes.com/advisor/author/madams/) titled “[What Is Ethereum Classic?](https://www.forbes.com/advisor/investing/cryptocurrency/what-is-ethereum-classic/)”.
+2023年2月21日，福布斯杂志发表了一篇由贡献者[Dan Ashmore](https://www.forbes.com/advisor/author/dashmore/)撰写并又[Michael Adams](https://www.forbes.com/advisor/author/madams/)编辑的关于以太坊经典(ETC)的文章。文章题为“[What Is Ethereum Classic?（什么是以太坊经典）](https://www.forbes.com/advisor/investing/cryptocurrency/what-is-ethereum-classic/)”.
 
-![Forbes article about ETC.](./etc-forbes.png)
+![福布斯有关以太坊经典的文章](./etc-forbes.png)
 
-In the piece they made an attempt to describe the blockchain, a series of assertions about it, and comparisons to Ethereum (ETH). 
+在这篇文章中，他们试图描述区块链，提出了一系列关于它的声明，并与以太坊（ETH）进行了比较。
 
-Some of the information they presented was correct, but most of the statements were long lasting recycled mistakes about Ethereum Classic.
+他们提供的一些信息是正确的，但大多数陈述都是长期以来对以太坊经典的错误再次循环。
 
-In this post we will address these issues. 
+在这篇文章中，我们将解决这些问题。
 
-The original article was divided in seven sections which contain from three to five paragraphs each. We will write our responses marking the sections and paragraphs in which we found the issues to clarify.
+原始文章分为七个部分，每个部分包含三至五段。我们将标记我们发现问题的部分和段落以进行澄清。
 
-It is our hope that Forbes may read this response and perhaps make corrections to its write-up or reference this post as a bona fide response.
+我们希望福布斯能够阅读此响应，并可能对其撰写进行更正，或将此文章作为真正的回应参考。
 
-## Section: What Is Ethereum Classic?
+## 部分：什么是以太坊经典？
 
-### The fourth paragraph of this section reads:
+### 此部分的第四段写道：
  
-*“Ethereum Classic was produced by a fork of the original Ethereum blockchain. Like many other blockchain forks, ETC was created following an ideological and technical divide within the community.”*
+*“以太坊经典是通过对原始以太坊区块链进行分叉产生的。与许多其他区块链分叉一样，ETC是由社区内的意识形态和技术分歧而创建的。”*
 
-### Our response:
+### 我们的回应：
 
-It is correct to state that a blockchain fork results in a new chain which splits, due to disagreements, from the original one, but the above paragraph seems to imply that Ethereum Classic was the one to be originated at the time of the fork.
+断言区块链分叉会产生一个新的链，由于分歧而与原始链分离，这是正确的，但上面的段落似乎暗示着以太坊经典是在分叉时产生的那个链。
 
-As the next section by Forbes states, Ethereum Classic is the original, unaltered Ethereum blockchain. The system that split from the mainnet was Ethereum. Ethereum is today a blockchain with an irregular state change in its history and ETC is the original chain which went live on July 30 2015 that has remained immutable since genesis.
+正如福布斯接下来的部分所述，以太坊经典是原始的、未经修改的以太坊区块链。从主网分裂出来的系统是以太坊。以太坊是一个历史上发生过不规则状态变化的区块链，而ETC是于2015年7月30日上线的原始链，自起源以来一直保持不变。
 
-**For more information:**
+**更多信息:**
 
-- Ethereum Classic Course: 6. Ethereum Classic Is the Original Chain: https://ethereumclassic.org/blog/2023-01-26-ethereum-classic-course-6-ethereum-classic-is-the-original-chain 
+- 以太坊经典课程：6. 以太坊经典是原始链：https://ethereumclassic.org/blog/2023-01-26-ethereum-classic-course-6-ethereum-classic-is-the-original-chain
 
-## Section: Ethereum Classic and the DAO
+## 部分：以太坊经典与DAO
 
-### The third and fourth paragraphs of this section read:
+### 此部分的第三和第四段写道：
 
-*“Due to the size of the hack, some in the Ethereum community proposed that the ETH blockchain should be reversed to compensate the exploited users. Others argued that this would set a worrying precedent and that blockchain should be immutable by its very nature.*
+*“由于黑客攻击规模的巨大，一些以太坊社区成员提议应该逆转ETH区块链以补偿被利用的用户。其他人则认为这将树立令人担忧的先例，而区块链应该天生就是不可变的。*
 
-*A vote was held to settle the disagreement, and the pro-fork side received more than 85% of the votes. The ETH blockchain was forked, and the minority side maintained the original, unaltered Ethereum blockchain, christening it Ethereum Classic.”*
+*进行了投票来解决争议，支持分叉方获得了超过85％的投票。ETH区块链被分叉，少数派维持了原始、未修改的以太坊区块链，并将其命名为以太坊经典。”*
 
-### Our response:
+### 我们的回应：
 
-As we wrote above, these two paragraphs are correct and contradict what is implied in the previous section. Ethereum Classic is, indeed, the original, unaltered Ethereum blockchain.
+正如我们上面所写的那样，这两个段落是正确的，与前面部分所暗示的相矛盾。实际上，以太坊经典是原始的、未经修改的以太坊区块链。
 
-## Section: Ethereum vs. Ethereum Classic
+## 部分：以太坊与以太坊经典
 
-### The first and second paragraphs of this section read:
+### 此部分的第一和第二段写道：
 
-*“Ethereum and Ethereum Classic are pretty similar when it comes to basic functionality. Most of Ethereum’s major features are also present on Ethereum Classic.*
+*“在基本功能方面，以太坊和以太坊经典非常相似。大多数以太坊的主要功能也存在于以太坊经典中。*
 
-*But there are vital differences between ETH and ETC. Most importantly, Ethereum Classic is incompatible with updates to the Ethereum blockchain.”*
+*但是ETH和ETC之间有重要的区别。最重要的是，以太坊经典与以太坊区块链的更新不兼容。”*
 
-### Our response:
+### 我们的回应：
 
-This part is largely correct, but again, seems to imply a misconception. Ethereum Classic is practically the same as Ethereum. Users, who have accounts, balances, and utilize dapps, and developers, who write and deploy smart contracts on ETC, experience practically no difference when using ETH or ETC.
+这部分在很大程度上是正确的，但似乎仍暗示了一个误解。在实际使用以太坊或以太坊经典时，用户（有账户、余额和使用dapp的用户）和开发人员（在ETC上编写和部署智能合约的开发人员）几乎没有任何区别。
 
-Under the hood, though, the consensus mechanism that keeps all machines participating in the network is, indeed, different as Ethereum has migrated to proof of stake from proof of work.
+但在底层，维持所有参与网络的机器的共识机制确实不同，因为以太坊从工作证明迁移到了权益证明。
 
-At the core infrastructure, running ETC or ETH nodes, or being a miner or mining pool in ETC, or validator or staking pool in ETH, are incompatible activities.
+在核心基础设施方面，运行ETC或ETH节点或成为ETC中的矿工或矿池或成为ETH中的验证者或质押池都是不兼容的活动。
 
-However, the EVM design standard and format, which both Ethereum Classic and Ethereum follow, which impacts users and dapp developers, is practically the same for both.
+但是，以太坊经典和以太坊都遵循的EVM设计标准和格式会对用户和dapp开发人员产生影响，这方面对两者几乎是相同的。
 
-As blockchains are open source projects, any system may adopt the upgrades and changes of any other system within the standard. This maintains operational parity between all blockchains and means that ETC and ETH will always be state of the art technology as both will always be up to date in their functionality and features.
+由于区块链是开源项目，任何系统都可以采用标准中的其他系统的升级和更改。这维持了所有区块链之间的操作平衡，并意味着ETC和ETH将始终是最先进的技术，因为它们的功能和特性始终是最新的。
 
-**For more information:**
+**更多信息:**
 
-- Ethereum Virtual Machine Blockchains and Ethereum Classic: https://ethereumclassic.org/blog/2022-12-06-ethereum-virtual-machine-blockchains-and-ethereum-classic 
+- 以太坊虚拟机区块链和以太经典: https://ethereumclassic.org/blog/2022-12-06-ethereum-virtual-machine-blockchains-and-ethereum-classic
 
-- Ethereum Classic Will Always Be State of the Art Technology: https://ethereumclassic.org/blog/2023-04-04-ethereum-classic-will-always-be-state-of-the-art-technology 
+- 以太经典将永远是最先进的技术: https://ethereumclassic.org/blog/2023-04-04-ethereum-classic-will-always-be-state-of-the-art-technology
 
-### The fourth paragraph of this section reads:
+### 本节第四段内容如下：
 
-*“In the eyes of the Ethereum Classic community, the blockchain and code will always be immutable. It preserves the pre-merge, proof-of-work system. And that means miners are still required to validate ETC transactions.”*
+*“在以太坊经典社区看来，区块链和代码将永远不变。它保留了合并之前的工作量证明系统。这意味着矿工仍然需要验证 ETC 交易。”*
 
-### Our response:
+### 我们的回应:
 
-That Ethereum Classic preserves the pre-merge, proof of work system, and that miners will continue to mine blocks for ETC is correct.
+以太坊经典保留了合并之前的工作量证明系统，矿工将继续为 ETC 挖矿，这一点是正确的。
 
-However, it is important to differentiate what parts of a blockchain are meant to be immutable and which parts are not. 
+然而，需要区分哪些部分是区块链的不可变部分，哪些部分是可变的。
 
-As property and title systems with smart contracts as ETC and ETH are, what is crucial to keep as secure and immutable as possible, to ensure censorship resistance and permissionalessness, are the actual accounts, balances, and decentralized programmes, or dapps, deployed in the networks, not the code as stated above.
+对于像 ETC 和 ETH 这样的智能合约资产和所有权系统，保护实际账户、余额和分布式程序（即 dapp）的安全和不可变性至关重要，以确保抗审查和无需许可。这些敏感项目包含在所谓的“区块链”中，即系统的数据库。这是 ETH 通过进行 DAO 回滚所违反的，而 ETC 由于坚持真正的区块链原则而没有违反。
 
-These sensitive items are contained in what is called the “blockchain” per se, which is the database of the system. This is what ETH violated by doing The DAO reversal and ETC did not because of its adherence to true blockchain principles.
+如果区块链网络的代码和协议本身是不可变的，那么无论是以太坊、以太经典还是比特币都不再属于区块链范畴，因为所有这些系统都不时地升级它们的系统。事实上，以太坊和以太经典在实际上步伐一致，复制了所有重要的功能，根据计数方式不同，更改了它们的协议和软件代码超过五次。
 
-If the code and protocol of the blockchain network itself were immutable, then neither Ethereum, Ethereum Classic, or even Bitcoin for that matter, would classify as blockchains anymore as all have upgraded their systems from time to time.
+然而，在某些情况下，ETH 仅自己进行了更改，而 ETC 没有采用（例如，向权益证明的迁移），在其他情况下，ETC 进行了更改，而 ETH 没有采用（例如，停用难度炸弹）。
 
-Indeed, Ethereum and Ethereum Classic have been upgraded in practical lockstep, replicating all the important features, changing their protocols and software codes, more than five times depending on how you count.
+**更多信息:**
 
-However, in some cases, ETH has made changes by itself that ETC has not adopted (e.g. the migration to proof of stake) and in other cases ETC has made changes that ETH has not adopted (e.g. the deactivation of the difficulty bomb). 
+- 以太经典将永远是最先进的技术: https://ethereumclassic.org/blog/2023-04-04-ethereum-classic-will-always-be-state-of-the-art-technology
 
-**For more information:**
+- 以太坊的历史: https://ethereum.org/en/history/
 
-- Ethereum Classic Will Always Be State of the Art Technology: https://ethereumclassic.org/blog/2023-04-04-ethereum-classic-will-always-be-state-of-the-art-technology 
+- 以太经典的历史: https://ethereumclassic.org/knowledge/history
 
-- The history of Ethereum: https://ethereum.org/en/history/ 
+### 此部分的第五段落为：
 
-- Ethereum Classic History: https://ethereumclassic.org/knowledge/history 
+*“支持合并和反对以太坊2.0的人认为，工作量证明机制比权益证明机制更安全和去中心化。”*
 
-### The fifth paragraph of this section reads:
+### 我们的回应:
 
-*“Proponents of the merge and detractors of Ethereum 2.0 argue that a proof-of-work mechanism is more secure and decentralized than proof of stake.”*
+这是正确的。工作量证明机制客观上比权益证明机制更安全。这一点的证明是，当以太坊在2022年9月迁移到权益证明时，它在超过60%的区块中立即被审查。
 
-### Our response:
+这是因为工作量证明机制是中本聪的主要发明，由于它要求工作和电力支出，因此它保证了以下四个方面：
 
-This is correct. Proof of work is objectively more secure than proof of stake. A demonstration of this was that when Ethereum migrated to proof of stake in September of 2022 it was immediately censored in more than 60% of its blocks.
+- 它使参与网络的所有机器之间达成共识。
+- 它是自由进出系统的一个焦点。
+- 它通过强制执行密码学障碍来保护交易历史记录。
+- 创建货币的成本非常高，使加密货币类似于现实世界中的黄金。
 
-This is because proof of work, which is the major invention by Satoshi Nakamoto, guarantees four things due to the work and electricity expenditure it demands:
+以太坊采用的权益证明机制失去了所有这些保证，因为没有极其昂贵的密码学标记或哈希函数作为系统遵循的焦点。
 
-- It enables consensus between all the machines participating in the network.
-- It is a focal point for free exit and entry from the system.
-- It protects the history of transactions by imposing a cryptographic barrier.
-- The cost of creating the money is very high making the cryptocurrency analogous to gold in the real world.
-
-The proof of stake mechanism adopted by Ethereum loses all these guarantees because there is no extremely costly-to-produce cryptographic stamp or hash that serves as a focal point for the system to follow. 
-
-In proof of stake, to know which is the correct chain to join, nodes must check with trusted third parties what is the latest state. Because of this, there is no focal point for all machines in the network to follow but whatever the mining pools dictate. There is no cryptographic protection of the history of accounts, balances, transactions, and smart contracts. And, the cost of creating the money is near zero, making the cryptocurrency analogous to fiat money in the real world.
+在权益证明中，为了确定要加入哪个正确的区块链，节点必须向可信第三方检查最新状态。因此，没有所有机器在网络中遵循的焦点，而是由挖矿池决定。没有加密保护账户、余额、交易和智能合约的历史记录。而且，创造货币的成本接近于零，使得加密货币在现实世界中类似于法定货币。
 
 **For more information:**
 
