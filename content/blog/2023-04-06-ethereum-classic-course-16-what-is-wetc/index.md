@@ -76,7 +76,7 @@ For example, WETC may exist inside Ethereum Classic to use with dapps, but also 
 
 This facilitates what is called blockchain interoperability.
 
-However, for now the technology that is called “bridges” which does these connections, is not as secure as the blockchain environment, so it is always safer to return back any wrapped tokens to their original chains whenever possible.
+For now, the technology that handles the connections between different blockchain networks, known as "bridges", is not as secure as the blockchain environments they connect, Therefore, it is safer to return wrapped tokens to their original chains whenever possible.
 
 Examples of wrapped tokens that exist in multiple chains are WETC, WETH, WBTC, WBNB, and many others.
 
