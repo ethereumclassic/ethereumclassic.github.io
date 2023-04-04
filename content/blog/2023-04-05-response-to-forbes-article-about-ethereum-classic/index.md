@@ -311,7 +311,7 @@ As explained before, Ethereum Classic is not staying largely the same. It is act
 
 In fact, Ethereum Classic and Ethereum will both ossify in the near future, precisely because adding components, introducing fixes, and complex design to make them work is actually a huge danger to these systems.
 
-When ETC is regarded as an “immutable” system it is because of its guarantees with regards to accounts, balances, and dapps. This is its true and distinguishing value, and is only possible with the real decentralization that proof of work provides.
+When ETC is regarded as an “immutable” system it is because of its guarantees with regard to accounts, balances, and dapps. This is its true and distinguishing value, only possible with the real decentralization that proof of work provides.
 
 **For more information:**
 
