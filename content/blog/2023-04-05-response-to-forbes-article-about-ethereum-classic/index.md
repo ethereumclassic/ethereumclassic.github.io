@@ -208,7 +208,7 @@ Here are some points which refute the fallacy that proof of work is harmful:
 3. Proof of work networks increasingly capture methane as an energy source reducing emissions to carbon-negative eventually.
 4. That proof of work blockchains use excessive "energy per transaction" is a false argument because one transaction on the blockchain may represent thousands of transactions made off-chain or in layer 2 systems.
 5. Proof of work networks are not "wasteful" when viewed from a perspective that values humanity's flourishing. They provide security, hard money, and an incredible and unprecedented level of inviolable basic rights to people on a global scale.
-6. Proof of work actually uses electricity that would be wasted anyway because miners are like ants eating crumbs, they don’t use the central sources of energy for humanity, but marginal discards.
+6. Proof of work networks use electricity that would otherwise be wasted because miners, like ants eating crumbs, don’t use the central sources of energy for humanity, but rather its marginal discards.
 7. The "if you love proof of work, then you must hate the planet" tagline is actually the opposite because of all the reasons above!
 
 **For more information:**
