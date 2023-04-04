@@ -257,7 +257,7 @@ Weakness in Ethereum is shown in two dimensions. The first is that it discarded 
 
 The second one is that to build a proof of stake system, because of its inherent insecurity, developers have to create an incredibly complex protocol, with incredibly complex software clients (indeed, now to run an Ethereum proof of stake node, operators need to run two clients at the same time, not one) with ten times or more lines of code than in proof of work systems.
 
-This complexity and volume in itself is a security hole because, by now, no one in the world may understand the whole Ethereum system and such amounts of information and moving parts only create hazards and risks where hackers and attackers may put their hands on to corrupt and tamper the system.
+This complexity and volume in itself is a security hole because, by now, no one in the world may understand the whole Ethereum system and such amounts of information and moving parts only create hazards and risks where hackers and attackers may put their hands to corrupt and tamper with the system.
 
 Ethereum Classic, just by staying with the proof of work mechanism, has advanced in the most secure and simplest way, actually improving its position in the market and its security profile because, by now, it is the largest proof of work smart contracts blockchain in the world, and the only such system that may guarantee the benefits of trust minimization and decentralization on a global scale.
 
