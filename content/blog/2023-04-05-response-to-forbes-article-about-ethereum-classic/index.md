@@ -173,7 +173,7 @@ Proof of stake has many restrictions. For example, capital staked must remain lo
 
 However, this must not be seen as a mere difference of opinion. That blockchains must be immutable and extremely secure is true, and that some flexibility and “pragmatism” are ok is false. 
 
-The whole purpose of the blockchain industry is decentralization because trusted third parties are security holes. To be a "pragmatist" because ETH is adaptable and malleable is not to be pragmatist, it is to fall for the temptation of centralism.
+The whole purpose of the blockchain industry is decentralization because trusted third parties are security holes. That ETH is "adaptable and malleable" is not pragmatism. It is, rather, a failure to uphold the original intent of decentralized immutability and a fall for the temptation of centralism.
 
 Migrating to technology that basically goes back to replicating the traditional fiat systems and all their flaws is an oxymoron for any blockchain system, and seeking shallow goals as “scaling” and “innovation” is to totally miss the point of the blockchain industry paradigm.
 
