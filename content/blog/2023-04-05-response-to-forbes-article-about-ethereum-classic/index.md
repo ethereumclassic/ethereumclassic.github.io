@@ -199,7 +199,7 @@ Migrating to technology that basically goes back to replicating the traditional 
 
 There are no advantages of moving to proof of stake. The Ethereum ecosystem was deceived and Ethereum Classic made the right choice to stay with proof of work. This will be noticed with big market movements when the time comes (which are very near because of the multiple economic and geopolitical crises unfolding in the world today).
 
-That the effects of proof of work are bad to climate change is an ongoing fallacy that would be actually very good for the planet if prestigious publications as Forbes could correct with deeper research.
+That proof of work blockchain networks have a negative impact on Earth's climate is an ongoing fallacy.  Actually, it would be more widely known that in many ways ETC and other proof of work networks are very good for the planet if prestigious publications such as Forbes would report correctly after conducting deeper research.
 
 These are some of the reasons that the fallacy that proof of work is bad is wrong:
 
