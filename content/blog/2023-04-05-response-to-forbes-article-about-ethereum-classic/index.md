@@ -201,7 +201,7 @@ There are no advantages of moving to proof of stake. The Ethereum ecosystem was 
 
 That proof of work blockchain networks have a negative impact on Earth's climate is an ongoing fallacy.  Actually, it would be more widely known that in many ways ETC and other proof of work networks are very good for the planet if prestigious publications such as Forbes would report correctly after conducting deeper research.
 
-These are some of the reasons that the fallacy that proof of work is bad is wrong:
+Here are some points which refute the fallacy that proof of work is harmful:
 
 1. Wind/solar are intermittent and unreliable, proof of work provides stability using electricity during surplus and switching off these sources during deficits.
 2. Proof of work provides a critical mass of cash flow to renewables to be economically viable, actually accelerating the migration to green energy.
