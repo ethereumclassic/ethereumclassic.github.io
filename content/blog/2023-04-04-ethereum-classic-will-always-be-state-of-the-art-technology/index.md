@@ -46,7 +46,7 @@ Now, as the largest proof of work smart contracts blockchain in the world, ETC h
 
 ## Operational Parity With Ethereum
 
-As an EVM blockchain ETC is in a peer group with several other systems such as Ethereum, BNB Smart Chain, Cardano, Polkadot, TRON, Solana, Avalanche, Polygon, and EOS.
+As an EVM blockchain ETC is in a peer group with several other systems such as Ethereum, BNB Smart Chain, Cardano (through a sidechain), Polkadot (through a parachain), TRON, Solana (through the Neon EVM), Avalanche, Polygon, Optimism, and EOS.
 
 Usually, the research and development lead is maintained by the Ethereum community, but any changes or upgrades originated from any of the technologies in the ecosystem will usually trigger updates in the rest of the members because to be on par with the standard is very important for compatibility and usage of the systems.
 
