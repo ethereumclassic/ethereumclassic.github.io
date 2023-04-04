@@ -203,7 +203,7 @@ That proof of work blockchain networks have a negative impact on Earth's climate
 
 Here are some points which refute the fallacy that proof of work is harmful:
 
-1. Wind/solar are intermittent and unreliable, proof of work provides stability using electricity during surplus and switching off these sources during deficits.
+1. Wind and solar can be intermittent and unreliable sources of power. Proof of work networks provide stability by using electricity during surplus hours and then switching away from these sources during deficits.
 2. Proof of work provides a critical mass of cash flow to renewables to be economically viable, actually accelerating the migration to green energy.
 3. Proof of work is increasingly capturing methane as an energy source probably making it carbon-negative eventually.
 4. The "energy per transaction" argument is a fallacy because one transaction in a blockchain may represent thousands of transactions off-chain or in layer 2 systems.
