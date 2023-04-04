@@ -233,7 +233,7 @@ First, scalability is not an issue in Ethereum Classic, Ethereum, Bitcoin or any
 
 With regard to “resistance to change”, ETC has no resistance to change that upgrades its technology, adds new useful features, fixes bugs, or keeps current the EVM standard as described previously.
 
-Therefore, the contradiction in which the Forbes argument above incurs is that if the Ethereum community is working to improve the scaling situation, thanks to the much greater attention on it from developers, whatever improvements they may create will be implemented in Ethereum Classic as well.
+The contradiction which the Forbes argument above incurs is that if the Ethereum community is working to improve the scaling situation thanks to the much greater attention given it by developers, whatever improvements they may create will be implemented in Ethereum Classic as well.
 
 Again, ETH and ETC, except for the consensus layer, are practically the same technology stack. In fact, ETC core developers are active participants in the larger EVM format ecosystem, constantly working to integrate new EIPs into ETC or participating in the debates and definitions of these protocols.
 
