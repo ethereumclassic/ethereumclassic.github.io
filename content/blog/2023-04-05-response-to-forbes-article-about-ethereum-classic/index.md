@@ -251,7 +251,7 @@ Again, ETH and ETC, except for the consensus layer, are practically the same tec
 
 ### Our response:
 
-To the contrary, Ethereum has moved from strength to weakness and Ethereum Classic has moved from weakness to strength.
+On the contrary, Ethereum has moved from strength to weakness and Ethereum Classic has moved from weakness to strength.
 
 Weakness in Ethereum is shown in two dimensions. The first is that it discarded proof of work as the consensus mechanism eliminating the major improvements that this technology brought to the world, namely to reach consensus with a 51% fault tolerance on a global scale, on a peer-to-peer, fully replicated network, with the highest levels of permissionlessness and censorship resistance man has ever seen.
 
