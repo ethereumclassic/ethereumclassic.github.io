@@ -157,7 +157,7 @@ The above information is correct, but what deserves clarification are the relate
 
 ### Our response:
 
-The driver of the spike in mining in ETC has nothing to do with the Ethereum staking pools, that proof of stake is a centralized system, the validator deposit, or the Tornado Cash sanction. The driver was that when ETH migrated to proof of stake, a huge stock of mining machines in the market were orphaned and the largest compatible blockchain to mine left was Ethereum Classic. This made ETC the largest proof of work smart contracts blockchain in the world. An incredibly valuable market position.
+The driving factor behind the spike in ETC mining hashrate has nothing to do with the Ethereum staking pools, that proof of stake is a centralized system, the validator deposit, or the Tornado Cash sanction. The reality was that as ETH migrated to proof of stake leaving a huge stock of mining machines orphaned, the largest compatible blockchain left to mine was Ethereum Classic. This made ETC the largest proof-of-work smart contracts blockchain in the world; an incredibly valuable market position.
 
 That Ethereum is now largely centralized and that it is prone to censorship is true, but not related to the mining spike in ETC.
 
