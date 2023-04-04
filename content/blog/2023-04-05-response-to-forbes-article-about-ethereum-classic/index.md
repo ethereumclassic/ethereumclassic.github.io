@@ -25,7 +25,7 @@ Some of the information they presented was correct, but most of the statements w
 
 In this post we will address these issues. 
 
-The original article was divided in seven sections which contain from three to five paragraphs each. We will write our responses marking the sections and paragraphs in which we found the issues to clarify.
+The original article was divided into seven sections which contain three to five paragraphs each. We will write our responses marking the sections and paragraphs in which we found the issues to clarify.
 
 It is our hope that Forbes may read this response and perhaps make corrections to its write-up or reference this post as a bona fide response.
 
