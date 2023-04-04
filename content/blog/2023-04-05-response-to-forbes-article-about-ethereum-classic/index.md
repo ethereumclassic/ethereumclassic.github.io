@@ -231,7 +231,7 @@ These two paragraphs are incorrect with regards to the idea that scalability is 
 
 First, scalability is not an issue in Ethereum Classic, Ethereum, Bitcoin or any blockchain because the blockchain industry will be layered and higher layers will command higher volumes of transactions while netting and settling them in the lower, more secure layers (which will likely be proof of work systems). This order from scalable to secure is how technology has worked for decades and the blockchain industry is no exception.
 
-With regards to “resistance to change”, ETC has no resistance to change when it is about upgrading its technology, adding new useful features, fixing bugs, or keeping up with the EVM standard as described previously.
+With regard to “resistance to change”, ETC has no resistance to change that upgrades its technology, adds new useful features, fixes bugs, or keeps current the EVM standard as described previously.
 
 Therefore, the contradiction in which the Forbes argument above incurs is that if the Ethereum community is working to improve the scaling situation, thanks to the much greater attention on it from developers, whatever improvements they may create will be implemented in Ethereum Classic as well.
 
