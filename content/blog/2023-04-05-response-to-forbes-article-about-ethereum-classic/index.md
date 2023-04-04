@@ -227,7 +227,7 @@ Here are some points which refute the fallacy that proof of work is harmful:
 
 ### Our response:
 
-These two paragraphs are incorrect with regards to the idea that scalability is a problem to any blockchain, and they contradict the notion that Ethereum Classic could even have a problem if scalability or any other part of the technology stack were an issue.
+These two paragraphs are incorrect with regard to the idea that scalability is a problem for any blockchain. They contradict the notion that Ethereum Classic could even have a problem if scalability or any other part of the technology stack were an issue.
 
 Scalability is not an issue for Ethereum Classic, Ethereum, Bitcoin, nor any other blockchain network because the blockchain industry is layered with higher layers commanding higher volumes of transactions while netting and settling them in the lower, more secure layers (which likely are proof of work systems). This hierarchy, from scalable to secure, is how technology has worked for decades and the blockchain industry is no exception.
 
