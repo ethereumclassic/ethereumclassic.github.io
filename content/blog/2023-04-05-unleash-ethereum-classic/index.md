@@ -6,6 +6,8 @@ contributor: [TheCrowbill]
 tags: ["philosophy", "opinion"]
 ---
 
+![Sketching a future for Ethereum Classic](./Sketching-ETC.gif)
+
 ## It started with a question…
 
 Without a doubt, Ethereum Classic is a world-class, highly secure, fully EVM-compatible blockchain network. Since its inception as the original Ethereum, it has been recognized as having the potential to empower humankind’s freedom from dependence on the conventional centralized institutions and untrustworthy “trusted” third parties who created and control what some have called the modern-day system of global enslavement: the world-wide central bank-based corporate-controlled financial system and economy.
