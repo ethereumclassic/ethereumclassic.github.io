@@ -76,9 +76,17 @@ For example, WETC may exist inside Ethereum Classic to use with dapps, but also 
 
 This facilitates what is called blockchain interoperability.
 
-For now, the technology that handles the connections between different blockchain networks, known as "bridges", is not as secure as the blockchain environments they connect, Therefore, it is safer to return wrapped tokens to their original chains whenever possible.
+For now, the technology that handles the connections between different blockchain networks, known as "bridges", is not as secure as the blockchain environments they connect. Therefore, it is safer to return wrapped tokens to their original chains whenever possible.
 
 Examples of wrapped tokens that exist in multiple chains are WETC, WETH, WBTC, WBNB, and many others.
+
+## WETC Versions on Ethereum Classic
+
+Currently there are two versions of WETC in the Ethereum Classic blockchain. We do ot vet nor sponsor these projects, but we list them here for your convenience. It is important to know that there may be many smart contracts that transform native cryptocurrencies into their wrapped versions, but not all of them are legitimate. Because decentralized systems as ETC are permissionless, then any team may build these dapps, so it is prudent to do your own research when looking to use them.
+
+Wrapped ETC (WETC) by Hebe Swap: https://hebeswap.com/wetc.html
+
+Wrapped ETC (WETC) by Ethereum Classic DAO Initiative: https://wrappedether.org/
 
 ---
 
