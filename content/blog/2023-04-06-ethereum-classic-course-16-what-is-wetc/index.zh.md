@@ -80,6 +80,14 @@ A由于ERC-20代币可以代表区块链外的资产，因此甚至来自其他�
 
 存在于多个链中的封装代币的示例包括WETC、WETH、WBTC、WBNB等等。
 
+## 以太坊经典上的 WETC 版本
+
+目前以太坊经典区块链中有两个版本的 WETC。我们既不审查也不赞助这些项目，但为了您的方便，我们将它们列在这里。重要的是要知道，可能有许多智能合约将本地加密货币转换为不同区块链上的包装版本，但并非所有合约都是合法的。因为像 ETC 这样的去中心化系统是无需许可的，所以任何团队都可以构建这些 dapp，所以在寻找使用这些产品时进行自己的研究是明智的。
+
+Hebe Swap 的 Wrapped ETC (WETC)：https://hebeswap.com/wetc.html
+
+Ethereum Classic DAO Initiative 的 Wrapped ETC (WETC)：https://wrappedether.org/
+
 ---
 
 **感谢您阅读本期文章!**
