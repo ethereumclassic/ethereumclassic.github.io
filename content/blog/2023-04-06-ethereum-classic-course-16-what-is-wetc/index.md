@@ -82,7 +82,7 @@ Examples of wrapped tokens that exist in multiple chains are WETC, WETH, WBTC, W
 
 ## WETC Versions on Ethereum Classic
 
-Currently there are two versions of WETC in the Ethereum Classic blockchain. We do not vet nor sponsor these projects, but we list them here for your convenience. It is important to know that there may be many smart contracts that transform native cryptocurrencies into their wrapped versions on different blockchains, but not all of them may be legitimate. Because decentralized systems as ETC are permissionless, then any team may build these dapps, so it is prudent to do your own research when looking to use these products.
+Currently there are two versions of WETC in the Ethereum Classic blockchain. We do not vet nor sponsor these projects, but we list them here for your convenience.
 
 Wrapped ETC (WETC) by Hebe Swap: https://hebeswap.com/wetc.html
 
