@@ -22,12 +22,13 @@ module.exports = {
     // "gatsby-plugin-perf-budgets",
     // "gatsby-plugin-webpack-bundle-analyser-v2",
     "gatsby-plugin-netlify",
+    "gatsby-plugin-robots-txt",
     "gatsby-plugin-image",
     "gatsby-transformer-sharp",
     "gatsby-plugin-sharp",
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-emotion",
-    `gatsby-remark-images`,
+    "gatsby-remark-images",
     {
       resolve: `gatsby-plugin-env-variables`,
       options: {
