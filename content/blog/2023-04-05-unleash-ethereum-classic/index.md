@@ -2,11 +2,12 @@
 title: "Unleashing Ethereum Classic: A Call to Action for the ETC Community"
 date: 2023-04-05
 author: Keith Hall Barnett
-contributor: [TheCrowbill]
-tags: ["philosophy", "opinion"]
+contributors: [TheCrowbill]
+tags: ["philosophy"]
+disclaimer: opinion
 ---
 
-![Sketching a future for Ethereum Classic](./Sketching-ETC.gif)
+![Sketching a future for Ethereum Classic](./Sketching-ETC.jpg)
 
 ## It started with a question…
 
@@ -48,4 +49,9 @@ It’s time to shine.
 
 It’s time to forge.
 
-*“If Not Us, Who? If Not Now, When?”* — Ronald Reagan quoting the prophet Hillel
+> If Not Us, Who? If Not Now, When?
+> - Ronald Reagan quoting the prophet Hillel
+
+---
+
+This post was originally published to https://medium.com/@TheCrowbill/unleashing-ethereum-classic-95a1125a8fde
