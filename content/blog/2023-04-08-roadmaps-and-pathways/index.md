@@ -94,7 +94,7 @@ One potential path for Ethereum Classic is the adoption of the Erigon client, wh
 
 ### Upgradability and EVM Object Format
 
-Another possible direction for ETC is the implementation of the [EVM Object Format](https://notes.ethereum.org/@ipsilon/evm-object-format-overview#Motivation) (EOF), which would enable upgradability of the Ethereum Virtual Machine (EVM). EOF is particularly useful for ETC as it opens to door to backwards-incompatible updates while maintaining the "Code is Law" principle. This also paves the way for more easily adopting EVM innovations made by other projects.
+Another possible direction for ETC is the implementation of the [EVM Object Format](https://notes.ethereum.org/@ipsilon/evm-object-format-overview#Motivation) (EOF), which would enable upgradability of the Ethereum Virtual Machine (EVM). EOF is particularly useful for ETC as it opens the door to backwards-incompatible updates while maintaining the "Code is Law" principle. This also paves the way for more easily adopting EVM innovations made by other projects.
 
 ### Cryptographic Primitives for L2 and Privacy
 
