@@ -36,7 +36,7 @@ Instead, ETC has a "Decentralized Roadmap", which is continuously open to debate
 
 ## Evolutionary Pathways
 
-In the ever-evolving world of cryptocurrencies, predicting the future is a difficult task. Traditional roadmaps often fail meet their goals or adapt to the rapid changes in the landscape and become outdated or inaccurate. Acknowledging this reality, it's not only principal-compatible, but more pragmatic to focus on a general sense of direction rather than pretending to know the destination.
+In the ever-evolving world of cryptocurrencies, predicting the future is a difficult task. Traditional roadmaps often fail to meet their goals or adapt to the rapid changes in the landscape and become outdated or inaccurate. Acknowledging this reality, it's not only principal-compatible, but more pragmatic to focus on a general sense of direction rather than pretending to know the destination.
 
 This is where the concept of a "pathway" comes into play, capturing the spirit of Ethereum Classic's decentralized, emergent development approach. Unlike top-down decision-making imposed by centralized roadmaps, an evolutionary pathway allows for innovative ideas to emerge organically from anywhere within the community and be implemented if they gain consensus. 
 
