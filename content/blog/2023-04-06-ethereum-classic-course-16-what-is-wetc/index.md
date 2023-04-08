@@ -84,11 +84,11 @@ Examples of wrapped tokens that exist in multiple chains are WETC, WETH, WBTC, W
 
 Currently there are multiple versions of WETC deployed on the Ethereum Classic blockchain. We do not vet nor sponsor these projects, but we list them here for your convenience.
 
-Solidity >=0.4.22 <0.6: [The Canonical Wrapped Ether (WETC) Initiative](https://wrappedether.org) by [Ethereum Classic DAO](https://ethereumclassic.com).
-Verified Contract: [0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a](https://blockscout.com/etc/mainnet/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/contracts#address-tabs)
+[The Canonical Wrapped Ether (WETC) Initiative](https://wrappedether.org) by [Ethereum Classic DAO](https://ethereumclassic.com).
+Solidity >=0.4.22 <0.6 Verified Contract: [0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a](https://blockscout.com/etc/mainnet/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/contracts#address-tabs)
 
-Solidity ^0.4.18 <0.4.21: [Wrapped ETC (WETC)](https://hebeswap.com/wetc.html) by [HebeBlock](https://hebeblock.com/)
-Verified Contract: [0x82A618305706B14e7bcf2592D4B9324A366b6dAd](https://blockscout.com/etc/mainnet/address/0x82A618305706B14e7bcf2592D4B9324A366b6dAd/contracts#address-tabs)
+[Wrapped ETC (WETC)](https://hebeswap.com/wetc.html) by [HebeBlock](https://hebeblock.com/)
+Solidity ^0.4.18 <0.4.21 Verified Contract: [0x82A618305706B14e7bcf2592D4B9324A366b6dAd](https://blockscout.com/etc/mainnet/address/0x82A618305706B14e7bcf2592D4B9324A366b6dAd/contracts#address-tabs)
 
 ---
 
