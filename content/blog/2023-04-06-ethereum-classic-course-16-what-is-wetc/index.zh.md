@@ -84,12 +84,13 @@ A由于ERC-20代币可以代表区块链外的资产，因此甚至来自其他�
 
 目前以太坊经典区块链中有两个版本的 WETC。我们既不审查也不赞助这些项目，但为了您的方便，我们将它们列在这里。
 
+1. [The Canonical Wrapped Ether (WETC) Initiative](https://wrappedether.org) 的 [Ethereum Classic DAO](https://ethereumclassic.com).
+ * Solidity >=0.4.22 <0.6
+ *  经核实的合同: [0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a](https://blockscout.com/etc/mainnet/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/contracts#address-tabs)
+2. [Wrapped ETC (WETC)](https://hebeswap.com/wetc.html) 的 [HebeBlock](https://hebeblock.com/)
+ * Solidity ^0.4.18 <0.4.21 
+ * 经核实的合同: [0x82A618305706B14e7bcf2592D4B9324A366b6dAd](https://blockscout.com/etc/mainnet/address/0x82A618305706B14e7bcf2592D4B9324A366b6dAd/contracts#address-tabs)
 
-[The Canonical Wrapped Ether (WETC) Initiative](https://wrappedether.org) 的 [Ethereum Classic DAO](https://ethereumclassic.com).
-Solidity >=0.4.22 <0.6 Verified Contract: [0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a](https://blockscout.com/etc/mainnet/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/contracts#address-tabs)
-
-[Wrapped ETC (WETC)](https://hebeswap.com/wetc.html) 的 [HebeBlock](https://hebeblock.com/)
-Solidity ^0.4.18 <0.4.21 Verified Contract: [0x82A618305706B14e7bcf2592D4B9324A366b6dAd](https://blockscout.com/etc/mainnet/address/0x82A618305706B14e7bcf2592D4B9324A366b6dAd/contracts#address-tabs)
 
 ---
 
