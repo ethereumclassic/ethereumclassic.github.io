@@ -1,5 +1,5 @@
 ---
-title: "The Enormous Value of Ethereum Classic During Banking Crises"
+title: "以太坊经典在银行危机中的巨大价值"
 date: 2023-04-11
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
