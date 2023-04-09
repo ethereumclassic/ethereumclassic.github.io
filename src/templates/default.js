@@ -26,8 +26,10 @@ export const pageQuery = graphql`
             gatsbyImageData(
               placeholder: NONE
               formats: [PNG]
-              layout: CONSTRAINED
+              layout: FIXED
               width: 1200
+              height: 630
+              transformOptions: { fit: COVER, cropFocus: ATTENTION }
             )
           }
         }
