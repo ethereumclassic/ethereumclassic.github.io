@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Course: 17. What Are Private Keys, Public Keys, and Addresses?"
+title: "以太坊经典课程:17. 什么是私钥、公钥和地址?"
 date: 2023-04-13
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,77 +8,78 @@ linkImage: ./etc-class-17-banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**欢迎由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cxJa0xRz4mE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-![Cryptography in ETC.](./1.png)
+![ETC中的密码学](./1.png)
 
-In the first class of this course we learned what is public key cryptography and in the last few classes we saw how Ethereum Classic works. 
+在本课程的第一节课中，我们学习了什么是公钥密码学，而在最近几节课中，我们了解了以太经典是如何运作的。
 
-In this class we will review the concepts of public key cryptography again, and then we will focus in the next few classes on how to manage your addresses and crypto assets in ETC.
+在本节课中，我们将再次回顾公钥密码学的概念，然后在接下来的几节课中，我们将重点介绍如何管理您在以太经典中的地址和加密资产。
 
-The topics we will cover are: 
+我们将要涵盖的主题包括：
 
-- What Are Private Keys, Public Keys, and Addresses? (this class).
-- The Difference Between Wallets and Addresses (class 18)
-- What Are Raw Private Keys, Private Key JSON Files, and Secret Passphrases? (Class 19)
-- What are Custodial and Non-custodial Wallets? (class 20)
-- What Are Hardware and Software Wallets? (class 21)
-- What Are Hot and Cold Wallets? (class 22)
+- 什么是私钥、公钥和地址？（本课）
+- 钱包和地址的区别（第18课）
+- 什么是原始私钥、私钥 JSON 文件和秘密口令？（第19课）
+- 什么是托管和非托管钱包？（第20课）
+- 什么是硬件和软件钱包？（第21课）
+- 什么是冷热钱包？（第22课）
 
-## Public Key Cryptography
 
-![The private key and the public key.](./2.png)
+## 公钥密码学
 
-As we learned in the first class, the way public key cryptography works is that there is a cryptographic mathematical function that transforms a very large number into another very large number. 
+![私钥和公钥](./2.png)
 
-The first number is the secret or private key, and the resulting number, when passing the private key through the function, is the public key that may be known by anyone.
+正如我们在第一课中学到的，公钥密码学的工作原理是有一个加密数学函数，可以将一个非常大的数字转换成另一个非常大的数字。
 
-It is very easy to generate the public key, but by knowing the public key, it is practically impossible to figure out the private key.
+第一个数字是私钥，通过这个函数得出的结果数字就是公钥，任何人都可以知道公钥。
 
-This system is what is used now for the account system in blockchains such as Ethereum Classic, Ethereum, and Bitcoin.
+生成公钥非常容易，但是通过知道公钥来推断私钥几乎是不可能的。
 
-## Your Public Key Is Your Address on the Blockchain
+现在，这个系统被用于像以太经典、以太坊和比特币这样的区块链账户系统。
 
-![Public key = address.](./3.png)
+## 您的公钥是区块链上的地址
 
-The public key is your address on the blockchain. “Address” is just another name for your public key. 
+![公钥 = 地址](./3.png)
 
-Some people call these addresses “accounts”, but this is a misnomer as we will see in the next section.
+公钥是您在区块链上的地址。 “地址”只是您的公钥的另一个名称。
 
-The way it works is that your address in ETC is only controlled by your private key. So, when you have the private key of an address on the blockchain with a balance of ETC, you have exclusive access, possession, and control of that ETC.
+有些人将这些地址称为“账户”，但这是一个错误的叫法，我们将在下一节中看到。
 
-## Your Address and Your Crypto Assets
+它的工作方式是，您在ETC上的地址仅由您的私钥控制。 因此，当您拥有具有ETC余额的区块链地址的私钥时，您全权拥有、占有和控制该ETC。
 
-![Your ETC are under your address.](./4.png)
+## 您的地址和加密资产
 
-As an analogy, we could say that the address is like a bank account but on the blockchain. 
+![您的ETC在地址下方](./4.png)
 
-However, the bank account represents what the bank owes you, so you have no control over it. This is why calling an address an “account” is a misnomer.
+作为类比，我们可以说，地址就像区块链上的银行账户。
 
-Your address is completely under your exclusive control and no one else has access to it, this is the major paradigm change brought by the blockchain industry.
+但是，银行账户代表银行欠您的，因此您对其没有控制权。这就是称地址为“账户”的原因是错误的原因。
 
-Under that address is where crypto assets are sent by others, received by users, and stored.
+您的地址完全受到您的独家控制，没有其他人可以访问它，这是区块链行业带来的主要范式变革。
 
-The only way to access or send crypto assets to other addresses is to sign transactions using the private key.
+在该地址下，其他人发送的加密资产由用户接收并存储。
 
-With regards to keeping your ETC secure, it is important to know that, because now you are in control, if you lose your private keys, then you may lose your ETC and other crypto assets.
+访问或向其他地址发送加密资产的唯一方法是使用私钥签署交易。
 
-## Address Formats In Different Blockchains
+关于保护您的ETC安全，重要的是要知道，因为现在您有控制权，如果您丢失了私钥，则可能会丢失您的ETC和其他加密资产。
 
-![ETC and ETH are the same, BTC is different.](./5.png)
+## 不同区块链的地址格式
 
-As we also explained in the first class, although all blockchains use the same public key cryptography model for users to manage and control their assets, the formats of the addresses may vary.
+![ETC和ETH拥有相同地址格式，BTC不同](./5.png)
 
-For example, Ethereum Classic and Ethereum public addresses are identical because they are both fully compatible under the Ethereum Virtual Machine standard and both share the same formats. This means that the same private and public keys may be used on both blockchains.
+正如我们在第一课中解释的那样，尽管所有区块链都使用相同的公钥密码学模型来让用户管理和控制他们的资产，但地址的格式可能会有所不同。
 
-However, in Bitcoin, the design choice was that the public key had to be processed with an additional function to transform the public key into a special base 58 number to make it more human readable and avoid the confusion of some special characters.
+例如，以太经典和以太坊公共地址是相同的，因为它们都完全兼容以太坊虚拟机标准，并且都共享相同的格式。这意味着可以在两个区块链上使用相同的私钥和公钥。
+
+然而，在比特币中，设计选择是必须使用一个额外的函数处理公钥，将公钥转换成一个特殊的58进制数，使其更易于人类阅读，并避免一些特殊字符的混淆。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC内容，请访问: https://ethereumclassic.org
