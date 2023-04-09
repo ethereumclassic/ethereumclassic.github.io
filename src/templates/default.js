@@ -46,6 +46,7 @@ export const pageQuery = graphql`
         disclaimer
         updated
         info
+        tags
       }
     }
     contributors: allContributorAvatar(filter: { page: { eq: $basePath } }) {

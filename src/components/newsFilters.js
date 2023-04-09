@@ -2,6 +2,7 @@ import React from "react";
 import tw from "twin.macro";
 
 import LocalizedLink from "../../plugins/translations-plugin/src/components/localizedLink";
+import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
 
 import Icon from "./icon";
 
@@ -42,6 +43,9 @@ function NewsFilterBlock({ items, title, icon, inline }) {
 }
 
 export default function NewsFilters({ i18n, pageContext, inline }) {
+  const {
+    ui: { tagNames, tags },
+  } = useGlobals();
   const { allYears, allTags, basePath, filter } = pageContext;
   return (
     <>
@@ -59,12 +63,12 @@ export default function NewsFilters({ i18n, pageContext, inline }) {
       <NewsFilterBlock
         inline={inline}
         icon="tag"
-        title={i18n.tags}
+        title={tags}
         items={allTags
           .map((tag) => ({
             key: tag,
             link: `/${basePath}/tag/${tag}`,
-            name: i18n.tagNames[tag] || tag,
+            name: tagNames[tag] || tag,
             selected: filter === tag,
           }))
           // sort by name but make `blog` appear first
