@@ -27,13 +27,14 @@ function NewsFilterBlock({ items, title, icon, inline }) {
           key={key}
           to={link}
           css={[
-            tw`inline-flex hocus:text-shade-darker text-shade-neutral mr-2 mb-1 px-1.5 py-0.5 bg-backdrop-light shadow-sm rounded-md hover:bg-shade-lightest`,
+            tw`inline-flex items-center hocus:text-shade-darker text-shade-neutral mr-2 mb-1 px-1.5 py-0.5 bg-backdrop-light shadow-sm rounded-md hover:bg-shade-lightest`,
             selected
               ? tw`font-bold text-primary-dark bg-primary-lightest`
               : tw`font-normal`,
           ]}
         >
-          {name}
+          {key === "blog" && <Icon icon="news" tw="w-3 mr-2" />}
+          <span>{name}</span>
         </LocalizedLink>
       ))}
     </div>
@@ -59,13 +60,19 @@ export default function NewsFilters({ i18n, pageContext, inline }) {
         inline={inline}
         icon="tag"
         title={i18n.tags}
-        // TODO sort properly
-        items={allTags.map((tag) => ({
-          key: tag,
-          link: `/${basePath}/tag/${tag}`,
-          name: i18n.tagNames[tag] || tag,
-          selected: filter === tag,
-        }))}
+        items={allTags
+          .map((tag) => ({
+            key: tag,
+            link: `/${basePath}/tag/${tag}`,
+            name: i18n.tagNames[tag] || tag,
+            selected: filter === tag,
+          }))
+          // sort by name but make `blog` appear first
+          .sort((a, b) => {
+            if (a.key === "blog") return -1;
+            if (b.key === "blog") return 1;
+            return a.name.localeCompare(b.name);
+          })}
       />
     </>
   );
