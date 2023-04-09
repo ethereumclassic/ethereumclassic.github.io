@@ -9,140 +9,142 @@ linkImage: ./etc-banking-crises.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 *<iframe width="560" height="315" src="https://www.youtube.com/embed/OUmnaqJGiIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>**
 
 ---
 
-In recent days we have experienced the rollercoaster ride of a banking crisis. Not only this, but the crisis was instigated and provoked by higher political forces who are seeking to destroy the crypto industry to install their worldview and paradigm of ultra-regulated centralized money.
+最近几天我们经历了银行危机的大起大落。不仅如此，这场危机还是由寻求摧毁加密货币行业、安装他们世界观和超级监管集中货币范式的高级政治势力引发和挑起的。
 
-However, those who had money on a blockchain as Ethereum Classic (ETC) were much less affected emotionally and financially than those who held fiat money in banks or cryptocurrencies in crypto exchanges.
+然而，那些在以太经典（ETC）等区块链上拥有资金的人，在情感和财务上受到的影响要比那些持有银行法定货币或在加密货币交易所持有加密货币的人少得多。
 
-![ETC is a rock.](./etc-banking-crises.png)
+这明显标志着以太经典作为财富所有权和获取的新范式的巨大重要性。
 
-This distinctly marked the enormous importance of ETC as a new paradigm of wealth ownership and access.
+在这篇文章中，我们将解释这种现象的一些方面。
 
-In this post we will explain some of the aspects of this phenomenon.
+![ETC是磐石](./etc-banking-crises.png)
 
-## Debt Money vs Physical Money
+这明显标志着以太经典作为财富所有权和获取的新范式的巨大重要性。
 
-Fractional reserve money means that banks may take deposits and lend money creating more money in the process in an economic phenomenon called monetary multiplier effect. Not only this, but bank deposits are short term debt while the bank loans are long term obligations. These two things combined basically make the banking system structurally insolvent.
+在这篇文章中，我们将解释这种现象的一些方面。
 
-In this system of debt money, a depositor has a legal claim that he owns a debt. This is a double risk because he is depending on the property rights consistency of the local jurisdiction for the legal claim plus the solvency of the depository institution for the debt itself.
+## 债务货币 vs 实物货币
 
-In physical money, owners have possession and control of the money directly independently of the property rights consistency of the local jurisdiction or the solvency of any entity.
+部分储备货币意味着银行可以接受存款并借出资金，从而在经济现象中创造更多的货币，这被称为货币乘数效应。不仅如此，银行存款是短期债务，而银行贷款是长期义务。这两个因素结合起来基本上使银行体系结构上破产。
 
-Ethereum Classic works this way. When users have their private keys that control addresses inside the network which have balances of ETC, then these users have a physical asset that they and only they possess and control.
+在这种债务货币体系中，存款人拥有合法主张，认为他拥有债务。这是一种双重风险，因为他依赖于当地司法管辖区的财产权一致性以及存款机构的偿付能力。
 
-This is the fundamental change in the paradigm. Blockchains as ETC transfer the wealth from the hands of third parties into the hands of the original owners. 
+在实物货币中，所有者直接拥有和控制货币，独立于当地司法管辖区的财产权一致性或任何实体的偿付能力。
 
-In this paradigm, the dependency on the will of the government or the solvency of an institution is non-existent.
+以太经典就是这样运作的。当用户拥有控制网络内具有ETC余额的地址的私钥时，这些用户拥有一项他们独有的、实物资产，他们拥有并控制。
 
-## Price vs Debasement vs Default vs Return Risks
+这是范式中的根本变化。作为以太经典的区块链将财富从第三方手中转移到原始所有者手中。 
 
-However, the risks of owning money are more complex. There are several risks of owning one kind of money or another, but people usually confound them in their minds making the risks difficult to differentiate. Following are explanations of the four main types of risks of owning a money.
+在这个范式中，对政府意志或机构偿付能力的依赖不存在。
 
-### Price Risk
+## 价格风险 vs 贬值风险 vs 违约风险 vs 回报风险
 
-Although the fiat money paradigm in developed nations has convinced many that the money is stable, the truth is that money has a market price and it may fluctuate, usually to the downside. In extreme cases as in countries like Venezuela or Argentina, the price of money may fluctuate 10% to 30% or more in a month and most likely downward.
+然而，拥有货币的风险更为复杂。拥有某种货币或另一种货币存在着几种风险，但人们通常在心中混淆它们，使风险难以区分。以下是拥有货币的四种主要类型的风险的解释。
 
-When gold, silver, and copper were commonly used money, people had to check their prices frequently to pay and settle transactions.
+### 价格风险
 
-The above is to illustrate that one may hold money, and just by holding it one may experience variations in the value of that money merely by the volatility in the market and the price of money against goods and services in the economy.
+虽然发达国家的法定货币范式已经让许多人相信货币是稳定的，但事实上，货币有市场价格，而且它可能波动，通常是向下波动。在像委内瑞拉或阿根廷这样的国家，货币价格可能在一个月内波动10%至30%甚至更多，而且很可能向下波动。
 
-ETC is no exception. It has been at $4 a few years ago, then at nearly $200, and now it’s holding relatively steady at around $20. However, as hard and sound cryptocurrencies as Bitcoin and Ethereum Classic mature, their values will likely stabilize and become much less volatile in the future. And, just for their soundness, their general direction in value should be upward rather than downward.
+当黄金、白银和铜被普遍用作货币时，人们不得不经常检查它们的价格以支付和结算交易。
 
-### Debasement Risk
+以上是为了说明一个人可能持有货币，仅仅通过持有货币，一个人可能会因市场波动和货币价格与经济中的商品和服务的关系而经历货币价值的变化。
 
-When people own money, they may have a number of units of the currency and experience no change in their holdings. However, the variations in the aggregate supply of the currency does change its value.
+ETC也不例外。几年前它的价格曾经是4美元，然后接近200美元，现在它的价格相对稳定在20美元左右。然而，随着比特币和以太经典等坚实和可靠的加密货币成熟，它们的价值可能会稳定下来，并且在未来变得更加稳定，而且仅仅因为它们的坚实可靠，它们的总体价值应该向上而不是向下。
 
-It is not the same to own a fixed number of units of a currency where the overall supply of that currency is fixed or very stable, versus owning a fixed number of units of a currency that is being printed in large quantities on a yearly basis with no limit in sight.
+### 贬值风险
 
-ETC has solved this problem by having a fixed supply with an algorithmic and immutable monetary policy that guarantees that the money will be issued at a slow and steady pace over the next 120 years where the maximum amount that will ever exist will be 210,700,000 coins.
+当人们拥有货币时，他们可能拥有一定数量的货币单位，但是他们的持有量并没有变化。然而，货币的总供应量的变化确实会改变其价值。
 
-### Default Risk
+拥有固定数量的货币单位，其货币总供应量是固定或非常稳定的，与拥有固定数量的货币单位，其货币每年印刷的数量大量增加且没有限制的情况不同。
 
-When one has the money, whether fiat or ETC, in a financial institution or exchange then one has exposure to default risk.
+ETC通过拥有固定的供应量、算法和不可变的货币政策来解决了这个问题，这保证了货币在未来120年内将以缓慢而稳定的速度发行，而最大可能存在的数量将是210,700,000个硬币。
 
-Default risk is different than price or debasement risks. It is the possibility that the depository institution will not be able to return the deposit to the owner, thus creating a permanent loss independent of the price of the unit or its soundness or dilution.
+### 违约风险
 
-ETC has no default risk because it is not a fractional reserve system, and the protocol does not lend ETC away running fractional, credit, or maturity risks. In Ethereum Classic, the holding of the currency in an address mimics the holding of a physical object. It is the closest thing to physical possession and control, but over a communications channel.
+当一个人将钱，无论是法定货币还是ETC，存放在金融机构或交易所时，就存在着违约风险。
 
-### Return Risk
+违约风险不同于价格或贬值风险。它是指存款机构无法将存款归还给所有者的可能性，因此会产生永久性的损失，独立于货币单位的价格、其稳健性或稀释程度。
 
-Many people feel that holding ETC in a static address is lame and a bad deal because their holdings are not receiving any returns in the form of interest.
+ETC没有违约风险，因为它不是一种分数准备制度，协议不会借出ETC，也不会运行分数、信贷或到期风险。在以太经典中，将货币保存在一个地址中就像拥有物理对象一样。这是最接近实际物理占有和控制，但通过通信渠道进行的。
 
-This has driven many to use lending services, whether centralized in the traditional world or decentralized on the  blockchain, to deposit their crypto in the hope that they will get an interest return.
+### 回报风险
 
-This practice is fine, but the main risk is that, in search of returns, users may actually lose all their capital, as seen in recent bankruptcies of crypto exchanges, or their holdings may be hacked and stolen from complex applications as bridges and smart contracts that are part of the backbone of lending and yield dapps.
+许多人认为，在静态地址中持有ETC很无聊，也是个坏交易，因为他们的持有并未获得任何利息回报。
 
-The differential in returns may not only be the price difference between the static and safe holding, but also whether the holding itself is still existent!
+这已经促使很多人使用借贷服务，无论是传统世界中的中心化服务，还是区块链上的去中心化服务，将他们的加密货币存入，希望能获得利息回报。
 
-In this sense ETC provides the option for users to just hold it safely and statically in ETC addresses.  
+这种做法是可以的，但主要风险在于，为了追求回报，用户实际上可能会失去所有资本，正如近期加密货币交易所破产或他们的持有可能会被黑客攻击和盗窃一样，这些应用程序是借贷和收益Dapps的基础。
 
-## Legal and Technical Access Risks
+回报差异不仅可以体现在静态和安全持有之间的价格差异上，还可以体现在持有本身是否仍然存在上！
 
-Now that we know the four main types of risks, the legal and technical access risks must be addressed.
+在这个意义上，ETC为用户提供了在ETC地址中安全地、静态地持有它的选择。
 
-Access risks are not about value gains or losses as with price, debasement, default, or return risks. They are about legally or physically having access to the money. 
+## 法律和技术访问风险
 
-Physical access is significantly diminished in the banking system and even more during banking crises. In the last few months individuals and businesses couldn’t move their money at all from troubled institutions, or for a while couldn’t even open accounts at other banks to move the deposits that were available.
+现在我们知道了四种主要的风险类型，必须解决法律和技术访问风险。
 
-Legals risks to access may be as described above, where institutions or regulators may legally restrict access to users’ money while they sort out the solvency of the institutions.
+访问风险与价格、贬值、违约或回报风险不同，它们与合法地或物理地获得金钱有关。
 
-There are other legal access problems, for example government may legally confiscate hard assets en masse as it happened just before World War II in the US where the government mandated all citizens to give their gold to the central bank to back the currency.
+在银行系统中，物理访问大大降低，甚至在银行危机期间更加如此。在过去的几个月里，个人和企业完全无法从陷入困境的机构转移资金，或者一段时间内甚至无法在其他银行开户以转移可用存款。
 
-Other legal access restrictions may be simple prohibitions and forced liquidations of the hard assets. This has been common place in countries as Argentina, and will likely be common in many nations under the coming Central Bank Digital Currency (CBDC) regimes as the control by the national banks will be absolute and technical. 
+对访问的法律风险可能如上所述，即机构或监管机构可能在他们整理机构的偿付能力时合法地限制用户对其资金的访问。
 
-Speaking of technical access, this is not about arbitrary government or corporate control, but more about what are the tools and applications necessary to be able to manage one’s private keys and addresses, and thus the digital assets.
+还有其他法律访问问题，例如政府可能在大规模没收硬资产方面合法行事，就像二战前在美国发生的那样，政府命令所有公民将他们的黄金交给中央银行以支持货币。
 
-It is perfectly possible that the internet may suffer blackouts in extreme situations, that apps may be difficult to use or broken, or that they may be hosted in centralized servers under the control of risky or clumsy trusted third parties.
+其他法律访问限制可能是简单的禁令和强制清算硬资产。这在阿根廷等国家很普遍，在即将到来的中央银行数字货币（CBDC）制度下，这将在许多国家中变得常见，因为国家银行的控制将是绝对的和技术性的。
 
-All these considerations are important when deciding how much and how to allocate the custody of money.
+说到技术访问，这不是关于任意的政府或企业控制，而更多的是关于什么样的工具和应用程序是必要的，以便能够管理自己的私钥和地址，从而管理数字资产。
 
-ETC provides guarantees that no matter what the legal or technical access problems for a user may be, that the accounts and balances will always be there, immutable, whenever the user regains access.
+在极端情况下，互联网可能会遭受断电，应用程序可能难以使用或失效，或者它们可能托管在由风险或笨拙的第三方信任方控制的集中式服务器中。
 
-## Holding ETC In Exchanges vs Non-Custodial Wallets
+在决定如何分配资产托管时，所有这些考虑因素都非常重要。
 
-The analysis of the above risks brings us to the issue of how to hold ETC to be as safe as possible, avoiding as much as possible the possibility of bank debt default or arbitrary intervention.
+ETC提供了保证，无论用户遇到什么法律或技术访问问题，其帐户和余额始终会存在，不可变，只要用户恢复访问即可。
 
-In this crisis, many have moved their fiat money to crypto, depositing it in exchanges believing that they may be safer than holding money in the banks. 
+## 将ETC存放在交易所与非托管钱包中的比较
 
-This can’t be further from the truth.
+上述风险的分析使我们关注如何尽可能安全地持有ETC，尽可能避免银行债务违约或任意干预的可能性。
 
-The only way of holding crypto safely is by owning proof of work native cryptocurrencies as ETC and holding them directly inside the blockchain in addresses that one controls through non-custodial wallets such as software wallets or hardware wallet.
+在这次危机中，许多人将其法定货币转移到了加密货币中，将其存放在交易所中，认为这可能比将钱存在银行中更安全。
 
-Holding crypto in exchanges has, indeed, a different risk combination than fiat, but in terms of default risk specifically it is actually the same or higher than financial institutions.
+这一想法完全是错误的。
 
-Fiat money at banks may be bailed out by central banks. In crypto exchanges it will be a permanent loss. Banks are supported by the elites, special interests, and the political class. 
+安全持有加密货币的唯一方法是拥有作为ETC的工作证明本地加密货币，并直接在区块链中的地址上持有，并通过非托管钱包（例如软件钱包或硬件钱包）控制这些地址。
 
-Exchanges are virtually under attack by these groups and regulators are acting as obstruction agents putting obstacles and pushing these services into submission or to directly shut them down.
+在交易所中持有加密货币确实具有不同的风险组合，但是特别是在违约风险方面，它实际上与金融机构相同或更高。
 
-Again, the only way to own ETC safely is by controlling the private keys directly.
+银行中的法定货币可能会得到中央银行的救助。在加密货币交易所中，这将是永久性的损失。银行得到精英阶层、特殊利益集团和政治阶层的支持。交易所几乎受到这些集团的攻击，监管机构充当障碍代理人，将这些服务置于难以承受的压力下，或直接关闭它们。
 
-## The Gold Ownership Fallacy
+再次强调，安全地拥有ETC的唯一方法是直接控制私钥。
 
-Unfortunately there are many who are falling for a trick in the blockchain industry which is owning gold or other external assets through these systems. When one owns the native cryptocurrency or a token inside a blockchain it is a true possession because the assets are also inside the network. 
+## 黄金拥有谬论
 
-When one owns gold, an external physical asset, through a blockchain, it is exactly the same as having a gold certificate in a bank or broker. There is no guarantee that whichever setup was created to represent the gold on the blockchain, that that setup will be safe and that the gold will be actually there.
+不幸的是，许多人在区块链行业中陷入了一个陷阱，即通过这些系统拥有黄金或其他外部资产。当一个人拥有区块链内的原生加密货币或代币时，这是真正的拥有，因为资产也在网络内部。
 
-The only way to own gold safely is to have it physically in one’s possession, just as owning ETC through the private key is the real direct possession and control of the asset.
+当一个人通过区块链拥有黄金或其他外部实物资产时，这完全就像在银行或经纪人处拥有黄金证书一样。不能保证为在区块链上代表黄金的任何设置是安全的，也不能保证黄金实际上在那里。
 
-## The Power and Responsibility of Self Custody
+拥有黄金的唯一安全方式是将其实物形式保存在自己手头，就像通过私钥拥有 ETC 一样是真正的直接拥有和控制资产。
 
-In summary, holding ETC in an address that one controls through the private key is the most revolutionary, secure, and conservative way of owing the money.
+## 自我托管的权力和责任
 
-ETC does not have fractional reserve, debt, debasement, or default risks, has manageable legal and technical access risks, and manageable price and return risks if held static in addresses.
+总之，通过私钥控制的地址持有 ETC 是拥有货币最革命性、最安全和最保守的方式。
 
-This is why it is enormously valuable during banking crises.
+ETC 不具有部分储备、债务、贬值或违约风险，如果静态地保存在地址中，则具有可管理的法律和技术访问风险以及可管理的价格和回报风险。
 
-However, this poses a new dilemma, which is a consequence of the change of paradigm that a true decentralized blockchain as ETC brings to the world, which is that users now need to start learning how to manage their private keys in a safe way so that the risk of losing them, thus losing possession of the ETC, is minimized.
+这就是在银行危机期间它非常有价值的原因。
 
-But this will be a topic of another post!
+然而，这带来了一个新的困境，这是一个真正去中心化的区块链（如 ETC）带给世界的范式转变的结果，即用户现在需要开始学习如何以安全的方式管理其私钥，以使失去私钥的风险和失去 ETC 的所有权最小化。
+
+但这将是另一篇文章的主题！
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC相关内容，请访问: https://ethereumclassic.org
