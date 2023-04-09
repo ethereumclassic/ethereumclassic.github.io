@@ -1,5 +1,5 @@
 ---
-title: "How to Keep Your ETC Secure"
+title: "如何保证您ETC的安全"
 date: 2023-04-12
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,149 +8,147 @@ linkImage: ./etc-vault.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期视频:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AUGBqTf1veY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-The major paradigm shift that a blockchain as Ethereum Classic (ETC) brings to the world is that it transfers the possession and control of wealth from trusted third parties to the original owners.
+区块链，如以太坊经典，所带来的最重要的范式转变是将财富的所有权和控制权从信任的第三方转移到原始所有者手中。
 
-It does this in two ways. First, people and businesses may hold their wealth with their own private keys under their own addresses on the blockchain directly, and this gives them direct and exclusive control. 
+它以两种方式实现这一点。首先，人们和企业可以直接在区块链上使用自己的私钥在自己的地址中持有自己的财富，这使得他们直接且独占地掌控着财富。
 
-Second, it separates the property registry from the state and corporations and moves it to the secure environment of the blockchain, and this guarantees the immutability of property.
+其次，它将财产登记簿与国家和企业分离，并将其移至区块链的安全环境中，从而保证财产的不可变性。
 
-In addition to the above, a programmable blockchain as ETC has the extra benefit that smart contracts may be written and deployed in it making them decentralized autonomous agents. These decentralized applications can perfectly replace trusted third parties altogether by providing the same services (banking, payments, investing, insurance, property registries, contracts, etc.) as traditional centralized institutions, but in a totally decentralized, thus permissionless and censorship resistant way.
+除上述之外，像ETC这样的可编程区块链还有额外的好处，即可以编写和部署智能合约，从而使它们成为分散自治的代理人。这些分散的应用程序完全可以通过以完全分散、无需许可和无法审查的方式提供与传统中心化机构相同的服务（银行、支付、投资、保险、财产登记簿、合同等），从而完全取代信任的第三方。
 
-![Security of ETC holdings.](./etc-vault.png)
+![ETC股份的安全](./etc-vault.png)
 
-However, this presents a new and huge responsibility to users. This responsibility is that, from now on, people and businesses will have to know how to manage their private keys in secure ways to ensure that their ETC, and crypto wealth in general, will not be lost to crime, confiscation, or error.
+然而，这给用户带来了新的巨大责任。这一责任是，从现在开始，个人和企业必须知道如何以安全的方式管理他们的私钥，以确保他们的ETC和加密财富不会因犯罪、没收或错误而丢失。
 
-This is the subject of this post.
+这就是这篇文章的主题。
 
-## Private Keys
+## 私钥
 
-With regards to keeping your ETC secure, it is important to know two things from the start: 
+关于保持ETC安全，从一开始就要知道两件事情：
 
-- If you keep your crypto assets in trusted third parties as centralized exchanges or other financial institutions, then they have control over them, not you.
-- If you keep your crypto assets under your private keys on the blockchain, then you have exclusive control over them, nobody else.
+- 如果您将加密资产存放在中心化交易所或其他金融机构等可信第三方中，那么他们将控制这些资产，而不是您。
+- 如果您将加密资产保存在区块链上的私钥下，则您独有控制这些资产，没有其他人可以控制。
 
-With this is mind we will explain what are the different formats of private keys.
+有了这个理解，我们将解释私钥的不同格式。
 
-### Raw Private Keys
+### 原始私钥
 
-A raw private key, or private key, is like a secret password that controls an address on the blockchain. Your ETC are under this address, which is known to the public. 
+原始私钥或私钥就像控制区块链上的地址的秘密密码。你的ETC在这个地址下，这个地址是公众都知道的。
 
-A private key looks more or less like this:
+私钥通常是这样的:
 
 ```36fdbed2213dd215e1c81b4d581697a9f006f24567953ab067677132108e11c8```
 
-This key is associated, by means of a cryptographic mathematical function, to your address on Ethereum Classic. The address is public and anyone may see it, but the only way to sign transactions and move assets or interact with decentralized applications on the network is through the private key.
+该密钥通过加密数学函数与您在以太坊经典上的地址相关联。该地址是公开的，任何人都可以看到它，但签署交易、移动资产或与网络上去中心化应用程序交互的唯一方法是通过私钥。
 
-### Secret Passphrases
+### 秘密短语
 
-Secret passphrases may be now the most popular way of storing raw private keys. They are usually sets of 12 to 24 secret words from which, by means of a cryptographic algorithm, your addresses and private keys on the blockchain may be generated.
+秘密短语现在可能是存储原始私钥最受欢迎的方式。它们通常是由12到24个秘密单词组成，通过密码学算法，你的地址和在区块链上的私钥可以被生成出来。
 
-Secret passphrases, also called mnemonic phrases, are very convenient because with one set of 12 or 24 words you may generate addresses and their corresponding private keys in several blockchains and hold all your assets under them.
+秘密短语，也称为记忆短语，非常方便，因为只需一个12或24个单词的组合，就可以在多个区块链上生成地址及其相应的私钥，并在其下持有所有资产。
 
-### Keystore JSON Files
+### Keystore JSON文件
 
-This was a popular way of generating addresses and private keys for Ethereum Classic and Ethereum in the early days. JSON means “JavaScript Object Notation” and is a type of file that is used for machines to communicate with other machines.
+这是早期在以太坊经典和以太坊上生成地址和私钥的流行方式。JSON代表“JavaScript对象表示法”，是一种用于机器之间通信的文件类型。
 
-Under this format, there is a standard that is used to generate single addresses and private keys on Ethereum Classic and other blockchains.
+在这个格式下，有一个标准用于在以太坊经典和其他区块链上生成单个地址和私钥。
 
-### Custodial vs Non-custodial Wallets
+### 托管钱包 vs 非托管钱包
 
-Many people have their coins at Coinbase, Binance or other financial institutions and call their accounts “wallets”. This can’t be further from the truth. A wallet is another name for an address on the blockchain directly. When you have your ETC on Coinbase, Binance or other centralized exchanges, you have an account with them and they owe you your coins, but you do not have possession or control of them. This trusted third party risk is exactly what blockchains as ETC seek to avoid.
+许多人把他们在 Coinbase、Binance 或其他金融机构中持有的数字货币称作“钱包”，但这实际上与事实相去甚远。钱包是区块链上地址的另一个名称。当您将 ETC 放在 Coinbase、Binance 或其他中心化交易所上时，您有一个属于他们的账户，他们欠您的数字货币，但您并不拥有它们的实际所有权和控制权。这种信任第三方的风险正是 ETC 这类区块链希望避免的。
 
-On the other hand, whether you have raw private keys, secret passphrases, or private key JSON files, if you use them through non-custodial wallets, then you control your ETC and nobody else.
+另一方面，如果您拥有原始私钥、秘密密码或私钥 JSON 文件，并通过非托管钱包使用它们，那么您就控制着您的 ETC，没有其他人能够干涉。
 
-Popular non-custodial wallet brands are Metamask, Trust Wallet, and Exodus. These applications may be downloaded to your devices, they usually generate the 12 or 24 word secret passphrases for you, and then you may manage your ETC and other crypto assets from there.
+Metamask、Trust Wallet 和 Exodus 是一些广受欢迎的非托管钱包品牌。您可以将这些应用程序下载到您的设备上，它们通常会为您生成 12 或 24 个单词的秘密密码，然后您可以从中管理您的 ETC 和其他数字货币资产。
 
-### Software Wallets
+### 软件钱包
 
-When you are using your devices such as your computer or your phone, and you have a non-custodial wallet as the ones mentioned above, you are using what are called software wallets. This is because they are just software apps on your devices and you manage your ETC or crypto assets from there.
+当您使用计算机或手机等设备，并使用上述非托管钱包时，您正在使用所谓的软件钱包。因为它们只是您设备上的软件应用程序，您可以从中管理您的 ETC 或数字货币资产。
 
-Software wallets usually give you your 12 or 24 word secret passphrase for you to store safely, and then they keep the encrypted private keys in your devices for convenient use and to sign transactions on a day to day basis.
+软件钱包通常会为您提供 12 或 24 个单词的秘密密码，让您安全地储存，然后在您的设备上保留加密私钥以方便日常使用和签署交易。
 
-### Hardware Wallets
+### 硬件钱包
 
-Hardware wallets are a more secure way of keeping your private keys because they are devices separated from your computer and your phone that store your encrypted private keys, and they are never connected to the internet so a huge attack vector is eliminated for hackers and criminals to capture your ETC.
+硬件钱包是一种更安全的保管私钥的方式，因为它们是与您的计算机和手机分离的设备，存储着您的加密私钥，并且从未连接到互联网，因此消除了黑客和罪犯攻击的巨大风险，从而保护了您的ETC。
 
-However, hardware wallets are a little less convenient to use as a tradeoff to their security because you have to connect them to your devices every time you want to sign a transaction. But, the tradeoff is worth it, because remember that if someone captures your private keys and they steal your ETC, then they may be lost forever.
+然而，硬件钱包相对不太方便使用，这是为了权衡其安全性，因为每次要签署交易时都必须将其连接到您的设备上。但是，这种权衡是值得的，因为请记住，如果有人捕获了您的私钥并窃取了您的ETC，那么它们可能永远丢失。
 
-Hardware wallets also give you a 12 or 24 word secret passphrase in case you lose them. This means that your private keys and addresses on the blockchain are recoverable as long as you stored the secret passphrase safely. 
+硬件钱包还会给您提供12或24个单词的秘密密码，以防您遗失。这意味着只要您安全地存储了秘密密码，您在区块链上的私钥和地址就是可恢复的。
 
-## Private Key Security Management
+## 私钥安全管理
 
-Now that we know what are the different private key formats and different types of wallets, we may describe how to keep them as safe as possible.
+现在我们知道了不同的私钥格式和不同类型的钱包，我们可以描述如何尽可能安全地保护它们。
 
-### Paper vs Digital Storage
+### 纸质和数字存储
+无论您通过原始私钥或秘密密码控制区块链上的地址，都可以以数字或纸质形式存储。
 
-Whether you control addresses on the blockchain through raw private keys or secret passphrases, they may be stored in digital or paper form.
+在行业内，惯例是最好的私钥和秘密密码存储方式是将它们写在纸上或打印出来，制作两到三份副本，然后将这些纸质副本存放在安全的地方，就像您存放最重要的东西和文件（例如护照，合同，遗嘱，信托协议等）的方式一样。
 
-It is conventional wisdom in the industry that the best way to store private keys and secret passphrases is by writing them on paper or printing them, making two or three copies, and then storing those paper copies in safe places, more or less how you would store the most important things and documents you may hold such as passports, contracts, last wills, trust agreements, etc.
+keystore JSON文件通常以数字形式存储，原始私钥和密钥也可以以数字形式存储。
 
-The keystore JSON file is usually stored in digital form, and the raw private keys and secret passphrases may also be stored in digital form. 
+在这些情况下，最好的方法是在两到三个闪存盘（也称为拇指盘，USB钥匙，存储棒，磁盘驱动器等）上存储副本，然后将它们放在一个安全的地方。
 
-In these cases the best way to do it is to store copies in two or three pendrives (a.k.a. thumb drives, USB keys, memory sticks, disc drives, etc.) and to put them in a safe place.
+有时，一个好的设置是拥有一部旧手机或电脑，并将这些数字副本存储在这些设备中。
 
-Sometimes, a good setup is to have an old phone or computer and to store these digital copies in such devices.
+所有这些数字副本设置的重要之处，与硬件钱包的概念类似，是让您的私钥、秘密密码或keystore JSON文件与互联网断开连接，因此无法通过网络被黑客和罪犯访问。
 
-The important thing about all these digital copy setups, similar to the concept of hardware wallets, is for your private keys, secret passphrases, or keystore JSON files to be disconnected from the internet, therefore inaccessible to hackers and criminals over cyberspace.
+### 不要使用云服务
 
-### Do Not Use Cloud Services
+这是许多新手常犯的错误。对于您来说，绝对不能将任何 ETC 私钥、秘密口令、密钥存储文件（或任何其他类型的加密数据、密码或私人信息）存储在云服务中，例如 Google Drive、iCloud、Microsoft OneDrive 或 Dropbox。
 
-This is a typical mistake by many newbies. It is imperative for you to NOT store any of your ETC private keys, secret passphrases, or keystore JSON files (or any kind of crypto data, passwords, or private information for that matter) in cloud services, such as Google Drive, iCloud, Microsoft OneDrive, or Dropbox. 
+这是因为这些服务可以访问您的所有文件，即使它们已加密。
 
-This is because they have access to all your files, even if they are encrypted.
+它们拥有解密您存储在它们那里的所有文件的私钥。
 
-They own the private keys to decrypt all your files that you store with them.
+以 Dropbox 的文档为例：
 
-As an example, following is the text of Dropbox’s documentation:
+***谁可以看到我的 Dropbox 帐户中的内容？***
 
-***Who can see the stuff in my Dropbox account?***
+*像大多数主要的在线服务一样，Dropbox 的工作人员偶尔需要访问用户的文件内容 (1) 当法律有要求时；(2) 当需要确保我们的系统和功能按设计的方式工作时 (例如，调试性能问题，确保我们的搜索功能返回相关结果，开发图像搜索功能，改进内容建议等)；或 (3) 为了强制执行我们的服务条款和可接受使用政策。访问用户文件内容的权限仅限于少数人。*
 
-*Like most major online services, Dropbox personnel will, on rare occasions, need to access users’ file content (1) when legally required to do so; (2) when necessary to ensure that our systems and features are working as designed (e.g., debugging performance issues, making sure that our search functionality is returning relevant results, developing image search functionality, refining content suggestions, etc.); or (3) to enforce our Terms of Service and Acceptable Use Policy. Access to users’ file content is limited to a small number of people.*
+链接: https://help.dropbox.com/security/file-access
 
-Link: https://help.dropbox.com/security/file-access
+同样，以数字形式存储原始私钥、秘密密码短语或密钥存储库JSON文件的最安全方法是将它们保存在您自己控制的独立设备中。这意味着您必须有良好的规则和策略来保证这些东西的安全性和可访问性。
 
-Again, the most secure way to store your raw private keys, secret passphrases, or keystore JSON files in digital form is by keeping them in separate devices under your own control. This means that you must have good rules and policies with regards to keeping these things secure and accessible.
+### 不要通过电子邮件或短信进行发送
 
-### Never Send Them by Email or Text
+这是人们经常犯的另一个错误（例如，历史上使用密码时的错误）。永远不要通过电子邮件或短信发送原始私钥、秘密口令或私钥JSON文件，也不要通过直接消息或社交媒体私信系统（如Twitter DM或Facebook Messenger）发送。
 
-This is another mistake people do (and have done historically with passwords, for example). Never send raw private keys, secret passphrases, or private key JSON files by email or text. Neither through direct messaging or social media private messaging systems such as Twitter DMs or Facebook Messenger.
+所有技术公司，无论大小，都可以访问您的消息、电子邮件和信息，无论是否加密，因为从法律上讲，他们需要能够回应政府的调查要求，并且通常在其服务条款中指出，出于安全和管理方面的原因，他们必须具有此类访问权限。
 
-All tech companies, small or large, have access to your messages, emails, and information, whether encrypted or not, because, legally, they need to be able to respond to government inquiries and they usually put on their terms of services that they must have access for security and housekeeping reasons.
+将您的原始私钥、秘密口令或keystore JSON文件分发或传达给家庭成员、商业伙伴、律师或任何需要知道它们的人的唯一方法是传输您所持有的纸质副本、制作新的副本或直接将U盘或设备传输给他们。
 
-The only way to distribute or communicate your raw private keys, secret passphrases, or keystore JSON files to family members, business partners, lawyers, or anyone who needs to know them is by transferring the paper copies you hold, making new copies, or transferring pendrives or devices to them physically and directly.
+永远不要使用技术公司控制的通信渠道或存储服务。永远不要。
 
-Never use tech company controlled communications channels or storage services. Never.
+## 冷存储和热存储应存多少
 
-## How Much to Put in Cold and Hot Storage
+保护您的ETC安全的最后一个重要概念是:了解冷存储和热存储。
 
-The last concept that is important to know about keeping your ETC secure is to understand the concepts of cold storage and hot storage.
+### 冷存储
+上述有关硬件钱包或将原始私钥、秘密口令或keystore JSON文件存储在U盘或不再使用的旧设备中的示例是因为通过互联网，黑客和犯罪分子可能会获取您的信息。
 
-### Cold Storage
+冷存储意味着您在Ethereum Classic区块链上拥有一个地址，控制该地址的原始私钥、秘密口令或keystore JSON文件存储在与互联网隔离的设备或纸张中。
 
-The examples given above about hardware wallets or keeping raw private keys, secret passphrases, or keystore JSON files in pendrives or old devices that you don’t use anymore and are not connected to the internet is because, through the internet, your information may be captured by hackers and criminals.
+这种设置对于日常使用非常不方便，因此通常人们以这种格式存储他们约80%或90%的加密货币储蓄，因为通常剩余的比例是长期持有。
 
-Cold storage means that you have an address with ETC on the Ethereum Classic blockchain and that the raw private key, secret passphrase, or keystore JSON file that controls that address is stored in a device or piece of paper that is separated from the internet. 
+对于冷存储，人们通常使用硬件钱包，如Ledger或Trezor，这些钱包很少用于移动ETC，但非常安全。
 
-This setup is very inconvenient for daily use so, usually, people store in this format more or less 80% or 90% of their savings in crypto because it is usually the proportion that is left for long term holding.
+### 热存储
 
-For cold storage, people usually use the hardware wallets, such as Ledger or Trezor, that are seldom used to move ETC, but are highly secure.
+如果您使用任何流行的软件钱包品牌，则这些钱包通常是热钱包，因为它们在您日常使用的设备中保存加密密钥，并且经常连接到互联网。
 
-### Hot Storage
+对于日常使用的设置，传统的智慧是使用这些钱包来持有您的ETC和其他加密资产的大约10％至20％。
 
-If you use any of the popular brands of software wallets, those are usually hot wallets because they hold your encrypted keys inside your devices that are used on a  daily basis and are frequently connected to the internet.
-
-For setups to use on a daily basis, the conventional wisdom is to use these wallets to hold more or less 10% to 20% of your ETC and other crypto assets. 
-
-Hot wallets are usually the most common brands such as Metamask, Trust Wallet, and Exodus.
+热钱包通常是最常见的品牌，如Metamask，Trust Wallet和Exodus。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多ETC相关内容，请访问: https://ethereumclassic.org
