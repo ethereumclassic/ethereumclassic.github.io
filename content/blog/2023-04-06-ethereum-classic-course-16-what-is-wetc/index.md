@@ -76,9 +76,20 @@ For example, WETC may exist inside Ethereum Classic to use with dapps, but also 
 
 This facilitates what is called blockchain interoperability.
 
-For now, the technology that handles the connections between different blockchain networks, known as "bridges", is not as secure as the blockchain environments they connect, Therefore, it is safer to return wrapped tokens to their original chains whenever possible.
+For now, the technology that handles the connections between different blockchain networks, known as "bridges", is not as secure as the blockchain environments they connect. Therefore, it is safer to return wrapped tokens to their original chains whenever possible.
 
 Examples of wrapped tokens that exist in multiple chains are WETC, WETH, WBTC, WBNB, and many others.
+
+## WETC Versions on Ethereum Classic
+
+Currently there are multiple versions of WETC deployed on the Ethereum Classic blockchain. We do not vet nor sponsor these projects, but we list them here for your convenience.
+
+1. [The Canonical Wrapped Ether (WETC) Initiative](https://wrappedether.org) by [Ethereum Classic DAO](https://ethereumclassic.com).
+ * Solidity >=0.4.22 <0.6
+ *  Verified Contract: [0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a](https://blockscout.com/etc/mainnet/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/contracts#address-tabs)
+2. [Wrapped ETC (WETC)](https://hebeswap.com/wetc.html) by [HebeBlock](https://hebeblock.com/)
+ * Solidity ^0.4.18 <0.4.21 
+ * Verified Contract: [0x82A618305706B14e7bcf2592D4B9324A366b6dAd](https://blockscout.com/etc/mainnet/address/0x82A618305706B14e7bcf2592D4B9324A366b6dAd/contracts#address-tabs)
 
 ---
 
