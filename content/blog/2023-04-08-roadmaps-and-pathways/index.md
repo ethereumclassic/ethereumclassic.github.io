@@ -113,3 +113,16 @@ Ethereum Classic, thanks to its EVM compatibility, can benefit from the migratio
 Why cling to a multi-year development plan with deadlines when such goals are unenforceable in a decentralized project? Traditional roadmaps often serve either as mere marketing gimmicks to appeal to corporate-style thinkers and financiers, or signal a project's excessive centralization.
 
 Both within and beyond the realm of cryptocurrencies, truly decentralized projects like Ethereum Classic must adopt a development approach that transcends the conventional concept of a roadmap. Free from top-down dictates, an evolutionary pathway is not only necessary for decentralization but also fosters a more adaptable and sustainable progression. By adhering to the ECIP process and championing a permissionless, meritocratic, and measured approach to development and direction, Ethereum Classic ensures its status as a robust and reliable platform for the future.
+
+## Feedback: What about dApps?
+
+A comment regarding this article was shared on the [ETC Community Discord Server](https://ethereumclassic.org/discord), and a response to it is provided below.
+
+> [...] I understand that ETC itself does not have and does not need a roadmap, but projects looking to grow an economy on ETC would still benefit from one. For example, the roadmap on [ClassicDAO.one](https://classicdao.one/) is not one that is necessary a fixed and specific outcome to which we are looking to complete, other than the general advancement of defi on ETC, but as stated in your article, any traditional style roadmap makes its given project not decentralized. How should I interpret that?
+> - Wedergarten
+
+ETC, as a mature network, has different goals and requirements than individual projects built on it. It provides a neutral and decentralized platform, while projects built on top have the freedom to choose their level of decentralization. This means that although ETC may not be compatible with a traditional roadmap, individual projects might still find one beneficial in guiding their initial development.
+
+New projects often start with a degree of centralization and, as they mature and gain adoption, they naturally become more decentralized. Once a truly decentralized project reaches a certain level of adoption, traditional roadmaps become unfeasible, with development guided more by community-driven consensus, technology, and evolving market dynamics.
+
+The question isn't whether a project should have a roadmap, but whether it can feasibly continue to employ one as it becomes increasingly decentralized. Both Ethereum (Classic) and Bitcoin were initially developed with fixed development milestones in mind, but once these projects were brought to life, it became crucial for their creators to "do a Satoshi": relinquish control, and allow them to evolve and flourish autonomously.
