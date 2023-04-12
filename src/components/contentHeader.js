@@ -10,9 +10,9 @@ import Md from "./markdownDynamic";
 
 function SubItem({ children, icon, ...rest }) {
   return (
-    <div tw="text-shade-light flex items-center" {...rest}>
+    <div tw="text-shade-light flex items-center mr-4" {...rest}>
       {icon && <Icon icon={icon} tw="h-3 mr-1" />}
-      {children}
+      <span tw="whitespace-nowrap">{children}</span>
     </div>
   );
 }
@@ -25,6 +25,12 @@ export default function ContentHeader({ mdx, i18n, pre, ...rest }) {
   const header = articleHeader || title;
   const disclaimer = mdx?.meta?.disclaimer || i18n.disclaimer;
   const info = mdx?.meta?.info || i18n.info;
+  const tags = mdx?.meta?.tags
+    ?.map((tag) => ({
+      key: tag,
+      name: ui.tagNames[tag] || tag,
+    }))
+    .sort((a, b) => a.name.localeCompare(b.name));
   return (
     <>
       <div tw="flex" {...rest}>
@@ -44,7 +50,7 @@ export default function ContentHeader({ mdx, i18n, pre, ...rest }) {
               </h1>
             )}
           </div>
-          <div tw="flex space-x-4">
+          <div tw="flex flex-wrap">
             {date && (
               <SubItem title={ui.published}>
                 <FormattedDate long date={date} />
@@ -58,6 +64,11 @@ export default function ContentHeader({ mdx, i18n, pre, ...rest }) {
             {author && (
               <SubItem icon="pen" title={ui.author}>
                 {author}
+              </SubItem>
+            )}
+            {tags && (
+              <SubItem icon="tag" title={ui.tags}>
+                {tags.map(({ name }) => name).join(", ")}
               </SubItem>
             )}
           </div>
