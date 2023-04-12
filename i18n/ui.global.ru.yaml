@@ -105,3 +105,25 @@ appModal:
   checkListRating: Уровень контрольного списка без доверия
   warning: "**Предупреждение:** Это приложение, представленное пользователем, НЕ проверено и НЕ гарантирует безопасность; используйте на свой страх и риск и всегда проводите собственное исследование!"
   added: Добавлено
+tags: Теги
+tagNames:
+  blog: Блог ETC
+  announcement: Объявления
+  application: Приложения
+  development: Развитие
+  education: Образование
+  event: События
+  exchange: Обмен
+  guide: Гиды
+  hardfork: Жесткие вилки
+  media: СМИ
+  mining: Горное дело
+  podcast: Подкасты
+  teams: Команды
+  tech: Технология
+  trading: Торговля
+  wallet: Кошельки
+  video: Видео
+  news: Заголовки
+  opinion: Мнение
+  philosophy: Философия
