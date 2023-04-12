@@ -2,9 +2,13 @@ import { graphql } from "gatsby";
 
 import GlobalLayout from "../components/globalLayout";
 import News from "../components/news";
+import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
 
 export default function NewsTempalte(props) {
-  const categoryTitle = props.i18n.tagNames[props.pageContext.filter];
+  const {
+    ui: { tagNames },
+  } = useGlobals();
+  const categoryTitle = tagNames[props.pageContext.filter];
   const title = categoryTitle
     ? `${categoryTitle} - ${props.i18n.title}`
     : props.i18n.title;
