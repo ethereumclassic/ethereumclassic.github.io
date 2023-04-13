@@ -14,7 +14,7 @@ linkImage: ./etc-dappnode-banner.png
 
 ---
 
-![ETC Mainnet and Testnet on DappNode.](./etc-dappnode-banner.pmg)
+![ETC Mainnet and Testnet on DappNode.](./etc-dappnode-banner.png)
 
 ## What Is a Blockchain Node?
 
@@ -40,7 +40,7 @@ As long as there is an internet connection, in a proof of work blockchain as Eth
 
 ## What Is DappNode?
 
-![DappNode Home.](./dappnode-home.pmg)
+![DappNode Home.](./dappnode-home.png)
 
 Because running nodes is relatively costly due to the size of the blockchain (an ETC full node size is currently around 80 GB), it is difficult to run them on regular computers, much less on machines that are meant for daily use.
 
@@ -50,7 +50,7 @@ DappNode is one such company with its product DappNode Home which is a device th
 
 ## Use Cases of DappNode With Ethereum Classic
 
-![ETC node use cases.](./use-cases.pmg)
+![ETC node use cases.](./use-cases.png)
 
 As said before, running your own node has higher security guarantees than using trusted third parties, gives higher control to users and teams, and it is faster than using remote cloud node services.
 
@@ -76,7 +76,7 @@ https://dappnode.com/shop
 
 When you get the device, you have to set it up by following the instructions and connect it to your local WiFi at home or office.
 
-![Get your DappNode.](./1.pmg)
+![Get your DappNode.](./1.png)
 
 ## 2. Checkout the Dashboard
 
@@ -88,7 +88,7 @@ In the sample dashboard below we have already installed the ETC Core Geth for th
 
 In the next few sections we will show how to connect an ETC Core Geth mainnet node.
 
-![Dashboard.](./2.pmg)
+![Dashboard.](./2.png)
 
 ## 3. Install the Ethereum Classic Core Geth Mainnet Node 
 
@@ -100,7 +100,7 @@ As you may see, the Mordor version is already installed.
 
 To install the Mainnet version, click on “GET”.
 
-![Install Core Geth Mainnet.](./3.pmg)
+![Install Core Geth Mainnet.](./3.png)
 
 ## 4. Press Install
 
@@ -108,13 +108,13 @@ In the next screen you will see the “INSTALL” button and some information ab
 
 Press “INSTALL”.
 
-![INSTALL Core Geth Mainnet.](./4.pmg)
+![INSTALL Core Geth Mainnet.](./4.png)
 
 ## 5. See Install Stats
 
 In the next screen you will see the status of the download.
 
-![Install stats.](./5.pmg)
+![Install stats.](./5.png)
 
 ## 6. See Your Chains on the Dashboard
 
@@ -122,7 +122,7 @@ If you go to the “Dashboard” tab on the left menu again, you will see the Mo
 
 The blockchain takes a few hours to download.
 
-![Chains on dashboard.](./6.pmg)
+![Chains on dashboard.](./6.png)
 
 ## 7. Check Out the Grafana Dashboard Stats
 
@@ -130,13 +130,13 @@ In the meantime you may want to checkout the Grafana dashboards to see the node 
 
 To go to the Grafana dashboard, click on the “Packages” tab on the left menu and then select “Dms”.
 
-![Go to Grafana dashboards.](./7.pmg)
+![Go to Grafana dashboards.](./7.png)
 
 ## 8. Click on Dashboards
 
 In the next screen you need to click on the dms.dappnode/dashboards link.
 
-![Dashboards.](./8.pmg)
+![Dashboards.](./8.png)
 
 ## 9. Select the ETC Mainnet Core Geth Instance
 
@@ -144,7 +144,7 @@ In the next screen you will be on the Grafana app that is integrated into your l
 
 Select the Mainnet network.
 
-![Select ETC Core Geth Mainnet.](./9.pmg)
+![Select ETC Core Geth Mainnet.](./9.png)
 
 ## 10. See All Node Data
 
@@ -152,7 +152,7 @@ In the next screen, you will see all the stats of your ETC Core Geth mainnet nod
 
 In our example, the data was not yet updated, but when your node is fully synchronized it will be populated with the stats. 
 
-![Node data.](./10.pmg)
+![Node data.](./10.png)
 
 ## 11. Check Out All Other Blockchain Nodes You May Run With DappNode
 
