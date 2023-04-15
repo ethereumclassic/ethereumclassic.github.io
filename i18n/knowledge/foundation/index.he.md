@@ -1,15 +1,15 @@
 ---
-title: The Ethereum Classic Foundation
+title: קרן Ethereum Classic
 updated: 2022-02-22
-seo: An explanation of why blockchains that have a Foundation based on ideas and principles are far more powerful than those that are made of people.
+seo: הסבר מדוע בלוקצ'יין שיש להם בסיס המבוסס על רעיונות ועקרונות הם הרבה יותר חזקים מאלה שעשויים מאנשים.
 ---
 
-The Ethereum Classic Foundation does not consist of people; it is an idea.
+קרן Ethereum Classic אינה מורכבת מאנשים; זה רעיון.
 
-![Decentralization, Sound Money, and Proof of Work uphold Code is Law](../../../src/images/foundation.png)
+![ביזור, כסף טוב והוכחת עבודה מקיימים את הקוד הוא חוק](../../../src/images/foundation.png)
 
-Compared to other blockchains whose development is guided by corruptible centralized institutions, The Ethereum Classic Foundation is a set of principles designed shepherds decision-making in a way that maximizes ETC's longevity and prevents it from being captured. As an idea, it is immune from many forms of attack, is robust, and can stand the test of time.
+בהשוואה ל-blockchains אחרים שפיתוחם מונחה על ידי מוסדות ריכוזיים מושחתים, The Ethereum Classic Foundation היא מערכת של עקרונות שתוכננה קבלת החלטות של רועים באופן שממקסם את אורך החיים של ETC ומונע את לכידתו. כרעיון, הוא חסין מצורות רבות של התקפה, הוא חזק ויכול לעמוד במבחן הזמן.
 
-There is no top-down control over Ethereum Classic, which leads to an [antifragility](https://en.wikipedia.org/wiki/Antifragility), and is achieved by participants maintaining and refining a doctrine of decentralization that can be easily articulated, understood, and perpetuated over time.
+אין שליטה מלמעלה למטה על Ethereum Classic, מה שמוביל לאנטי שבירות [](https://en.wikipedia.org/wiki/Antifragility), ומושג על ידי משתתפים המשמרים ומשכללים דוקטרינת ביזור שניתן לבטא, להבין ולהנציח בקלות לאורך זמן.
 
-For Ethereum Classic, its Foundation is its strongest and most crucial element. ETC exists in response to The DAO [incident](/why-classic/genesis), and in recognition that all of a blockchain's utility and value is ultimately downstream of principles. Through the continuous [pursuit](/why-classic/decentralism) of _decentralization maximalism_, ETC's technological and social layers are configured to prevent outside forces from compromising a chain and overruling _Code is Law_.
+עבור Ethereum Classic, הבסיס שלה הוא האלמנט החזק והמכריע ביותר שלה. ETC קיים בתגובה לתקרית DAO [](/why-classic/genesis), ומתוך הכרה שכל התועלת והערך של בלוקצ'יין הם בסופו של דבר במורד העקרונות. באמצעות המרדף המתמשך [](/why-classic/decentralism) מתוך _מקסימליזציה של ביזור_, השכבות הטכנולוגיות והחברתיות של ETC מוגדרות למנוע מכוחות חיצוניים להתפשר על שרשרת ולעקוף _הקוד הוא חוק_.
