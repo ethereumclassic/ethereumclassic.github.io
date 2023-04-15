@@ -25,18 +25,10 @@ items:
           Lihat bahagian [panduan pembangunan](/panduan/pembangunan), serta bahagian [development](/pembangunan) untuk tutorial dan alatan untuk membantu anda menggunakan Klasik.
       deployment:
         question: Bagaimanakah cara saya menggunakan blok Ethereum Classic?
-        answer: |
-          Mula-mula, dapatkan beberapa ETC untuk membayar gas untuk menggunakan kontrak anda, kemudian hanya pastikan anda menggunakan rangkaian Ethereum Classic (ID Rantaian 61), dan bukannya rangkaian Ethereum (ID Rantaian 1).
       rpc:
         question: Adakah terdapat titik akhir RPC awam yang boleh saya gunakan untuk digunakan ke ETC?
-        answer: |
-          ya. Jika anda tidak mahu menyegerakkan jalankan nod Ethereum Classic anda sendiri, terdapat beberapa titik akhir awam tersedia yang percuma untuk digunakan.
-
-          Lihat bahagian [RPC Endpoints](/network/endpoints), serta [ChainList.org](https://chainlist.org/en/chain/61).
       grants:
         question: Bolehkah saya mendapatkan pembiayaan untuk membina Ethereum Classic?
-        answer: |
-          Oleh kerana Ethereum Classic tidak mempunyai perbendaharaan berpusat, semua pembangunan semestinya sama ada dibiayai sendiri atau melalui pembiayaan pihak ketiga. Pada masa lalu pelbagai pihak ketiga mengendalikan program geran, dan [ETC Cooperative](https://etccooperative.org/) telah mengumumkan bahawa ia akan melancarkan program geran baharu tidak lama lagi.
       ecips:
         question: Bagaimanakah saya boleh membantu dengan pembangunan protokol Ethereum Classic?
         answer: |
