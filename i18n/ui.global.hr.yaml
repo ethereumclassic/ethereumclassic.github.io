@@ -1,7 +1,7 @@
 title: Ethereum Classic
 seo: "Decentralizirana računalna platforma koja pokreće pametne ugovore: aplikacije koje rade točno onako kako je programirano bez zastoja, cenzure ili uplitanja treće strane"
 #Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
-metaLocale: en_US
+metaLocale: hr_HR
 #Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
 htmlLang: hr
 published: Objavljeno
@@ -58,6 +58,10 @@ socialItems:
     name: Razdor
   discordCoop:
     name: ETC Coop Discord
+  twitterEthclassic:
+    name: eth_classic Twitter
+  twitterEtcnetwork:
+    name: ETC_Network Twitter
   githubOrg:
     name: Github
   githubLabs:
@@ -103,3 +107,25 @@ appModal:
   checkListRating: Razina kontrolne liste bez povjerenja
   warning: "**Upozorenje:** Ova aplikacija koju su poslali korisnici NIJE provjerena i NIJE zajamčeno da je sigurna; koristite na vlastitu odgovornost i uvijek sami istražite!"
   added: Dodano
+## Tags
+tags: Oznake
+tagNames:
+  blog: ETC blog
+  announcement: Obavijesti
+  application: aplikacije
+  development: Razvoj
+  education: Obrazovanje
+  event: Događaji
+  exchange: Razmjene
+  guide: Vodiči
+  hardfork: Hard Forks
+  media: Mediji
+  mining: Rudarstvo
+  podcast: Podcasti
+  teams: Timovi
+  trading: Trgovanje
+  wallet: Novčanici
+  video: Video zapisi
+  news: Vanjske poveznice
+  philosophy: Filozofija
+  series: Niz
