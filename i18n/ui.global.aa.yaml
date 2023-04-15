@@ -70,12 +70,12 @@ socialItems:
     __icon: discord
     name: crwdns72356:0crwdne72356:0
   twitterEthclassic:
-    __link: crwdns108681:0crwdne108681:0
-    __icon: crwdns108683:0crwdne108683:0
+    __link: https://twitter.com/eth_classic
+    __icon: twitter
     name: crwdns108685:0crwdne108685:0
   twitterEtcnetwork:
-    __link: crwdns108687:0crwdne108687:0
-    __icon: crwdns108689:0crwdne108689:0
+    __link: https://twitter.com/ETC_Network
+    __icon: twitter
     name: crwdns108691:0crwdne108691:0
   githubOrg:
     __link: https://github.com/ethereumclassic
