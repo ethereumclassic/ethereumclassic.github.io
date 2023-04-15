@@ -1,13 +1,13 @@
 ---
-title: Network Tools
-seo: A selection of tools and resources for inspecting and interacting with the Ethereum Classic network. RPC Endpoints, Blockchain Explorers, and Network Monitors.
+title: כלי רשת
+seo: מבחר כלים ומשאבים לבדיקה ואינטראקציה עם רשת Ethereum Classic. RPC Endpoints, Blockchain Explorers וצגי רשת.
 updated: 2022-02-22
 contributors:
   - cyberus7569
 ---
 
-This section contains a selection of tools and resources for inspecting and interacting with the Ethereum Classic network.
+חלק זה מכיל מבחר של כלים ומשאבים לבדיקה ואינטראקציה עם רשת Ethereum Classic.
 
-Ethereum Classic mainnet is an Ethereum Virtual Proof of Work blockchain, using the ETCHash algorithm (a modification of ETHash), with a Chain ID of 61.
+Ethereum Classic mainnet הוא blockchain של Ethereum Virtual Proof of Work, המשתמש באלגוריתם ETCHash (שינוי של ETHash), עם מזהה שרשרת של 61.
 
-If you are looking to run your own [ETC Client](/development/clients), you can find more information in the [Development](/development) section.
+אם אתה מחפש להפעיל [ETC Client](/development/clients)משלך, תוכל למצוא מידע נוסף בסעיף [Development](/development).
