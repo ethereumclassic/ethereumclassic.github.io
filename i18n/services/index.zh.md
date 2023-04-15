@@ -1,19 +1,19 @@
 ---
-title: 服务
+title: Services
 updated: 2022-02-22
-seo: 构成丰富的生态系统的服务目录，它位于Ethereum Classic之上，包括钱包、交易所和去中心化应用程序。
+seo: A directory of services that make up the rich ecosystem that sits on top of Ethereum Classic, including Wallets, Exchanges and Decentralized Applications.
 ---
 
-在Ethereum Classic区块链之上是一个丰富的应用生态系统，包括钱包、交易所和去中心化应用。 随着这些服务的数量随着时间的推移而增加，整个网络的效用和价值也在增加。
+On top of the Ethereum Classic blockchain is a rich ecosystem of applications, including Wallets, Exchanges and Decentralized Applications. As the number of these services grows over time, so does the utility and value of the network as a whole.
 
-## 重要警告
+## Important Warning
 
-以太坊经典版作为一个中立的无权限协议，没有办法对部署在它上面的东西进行把关，所以用户防止成为不良项目的受害者的唯一保护措施就是保持警惕和一定程度的谨慎，确保他们正在互动的东西有一个他们可以接受的完整性。
+Ethereum Classic, as a neutral permissionless protocol, has no means to gate-keep what is deployed to it, so the only protection users have against falling victim to bad projects is vigilance and a level of prudence, making sure that what they are interacting with has a level of integrity they are comfortable with.
 
-在相关的地方，本节将尝试提供一些提示，说明什么是一个好项目的标志。 _黄金标准_ 是一个有跟踪记录的团队，发布具有完整测试套件和广泛审计的开放源代码，但这取决于个人，根据他们的使用情况、财务承诺和风险偏好，自行决定他们需要何种程度的保证。
+Where it is relevant, this section will try to provide some hints as to what are signs of a good project. The _gold standard_ is a team with a track record publishing open source code with a full test suite and extensive audits, but it is up to individuals to decide for themselves what level of assurance they need depending on their use case, financial commitment, and risk appetite.
 
-即使是 _黄金标准的_ 项目也会偶尔成为错误、黑客和地毯式攻击的受害者，因此要始终遵循加密货币的第一条规则： **，不要投资你无法承受的损失**。
+Even _gold standard_ projects will occasionally fall victim to bugs, hacks and rugpulls, so always follow the first rule of crypto: **don't invest what you can't afford to lose**.
 
-应谨慎对待网站上的所有外部资源链接，因为它们是社区提交的，没有经过审查，不能保证安全。
+All the links to external resources on the website should be treated with caution, as they are community submitted, are not vetted, and cannot be guaranteed to be safe.
 
-请采取预防措施，并在使用一个应用程序之前做自己的研究。
+Please take precautions and do your own research before using an application.
