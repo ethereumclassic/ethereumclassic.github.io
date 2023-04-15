@@ -6,11 +6,14 @@ seo: Μια επισκόπηση των πραγματικών και εικον
 contributors:
   - IstoraMandiri
   - bobsummerwill
+  - TheCrowbill
 ---
 
 Η μαγεία συμβαίνει όταν οι άνθρωποι συναντιούνται και μοιράζονται ιδέες, και οι συμμετέχοντες σε όλη την κοινότητα του ETC έχουν οργανωθεί αυθόρμητα για να σχηματίσουν πραγματικές και διαδικτυακές συγκεντρώσεις για να εστιάσουν την προσοχή τους στη βελτίωση του Ethereum Classic.
 
 ## Κοινοτικές κλήσεις
+
+UPDATE:  Regular, weekly Community Calls are currently on hiatus.
 
 Κάθε Πέμπτη, συνήθως στις 1500 UTC, πραγματοποιείται μια ομαδική φωνητική συνομιλία στον διακομιστή Ethereum Classic [Discord](https://ethereumclassic.org/discord) . Η κλήση θα μεταδοθεί στο [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos), αλλά μπορείτε επίσης να συμμετάσχετε 1 ώρα πριν από τη ζωντανή μετάδοση, στις 14:00 UTC, για να συνομιλήσετε ανεπίσημα στο Green Room.
 
