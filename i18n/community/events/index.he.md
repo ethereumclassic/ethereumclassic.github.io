@@ -1,44 +1,44 @@
 ---
 updated: 2022-02-22
 contribute: true
-title: Events
-seo: An overview of real world and virtual Ethereum Classic related events. ETC Summit and the weekly Community Call are welcome to all!
+title: אירועים
+seo: סקירה כללית של אירועים הקשורים לעולם האמיתי ו-Ethereum Classic הוירטואלי. פסגת ETC ושיחת הקהילה השבועית מוזמנים לכולם!
 contributors:
   - IstoraMandiri
   - bobsummerwill
-  - TheCrowbill
+  - העורב
 ---
 
-Magic happens when people come together and share ideas, and participants throughout the ETC community have spontaneously organized to form real life and online gatherings to focus their attention on improving Ethereum Classic.
+קסם מתרחש כאשר אנשים מתכנסים ומשתפים רעיונות, והמשתתפים ברחבי קהילת ETC התארגנו באופן ספונטני ליצירת מפגשים אמיתיים ואינטרנט כדי למקד את תשומת לבם לשיפור Ethereum Classic.
 
-## Community Calls
+## שיחות קהילה
 
-UPDATE:  Regular, weekly Community Calls are currently on hiatus.
+עדכון: שיחות קהילה קבועות ושבועיות נמצאות כעת בהפסקה.
 
-Every Thursday, usually at UTC 1500, a group voice chat takes place in the Ethereum Classic [Discord](https://ethereumclassic.org/discord) server. The call is streamed to [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos), but you can also join 1 hour before we go live, at 1400 UTC, to chat off the record in the Green Room.
+בכל יום חמישי, בדרך כלל בשעה UTC 1500, מתקיים צ'אט קולי קבוצתי בשרת Ethereum Classic [Discord](https://ethereumclassic.org/discord). השיחה מוזרמת ל [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos), אבל אתה יכול גם להצטרף שעה אחת לפני העלייה לשידור חי, בשעה 1400 UTC, כדי לשוחח בצ'אט לא לציטוט בחדר הירוק.
 
-Occasionally a special guest will join the chat for Questions and Answers with the community. These calls are usually recorded, and you can find these recordings on the ETC Community Calls [repository](https://github.com/ethereumclassic/community-calls).
+מדי פעם אורח מיוחד יצטרף לצ'אט לשאלות ותשובות עם הקהילה. שיחות אלה מוקלטות בדרך כלל, ותוכל למצוא את ההקלטות הללו במאגר שיחות קהילת ETC [](https://github.com/ethereumclassic/community-calls).
 
-Everybody, regardless of level of involvement in ETC, is welcome to join this chat and there is usually time available to open the floor to questions if you'd like to bring something up.
+כולם, ללא קשר לרמת המעורבות ב-ETC, מוזמנים להצטרף לצ'אט הזה ובדרך כלל יש זמן פנוי לפתוח את הרצפה לשאלות אם תרצו להעלות משהו.
 
-## ETC Summit
+## פסגת ETC
 
-Since Ethereum Classic's inception (barring global travel restrictions), each year an ETC Summit has been held in various cities all over the world.
+מאז הקמתה של Ethereum Classic (ללא הגבלות נסיעות גלובליות), מדי שנה מתקיימת פסגת ETC בערים שונות בכל רחבי העולם.
 
-These in-person conferences allow otherwise internet-only community members to meet and great in the flesh, to better coordinate and hash out ideas, maybe over a drink or two.
+הכנסים האישיים הללו מאפשרים לחברי קהילה באינטרנט בלבד להיפגש ולהיות נהדרים על בשרם, לתאם טוב יותר ולהעלות רעיונות, אולי על משקה או שניים.
 
-Some community members also take the stage and present ideas on a number of topics related to Ethereum Classic.
+חלק מחברי הקהילה גם עולים לבמה ומציגים רעיונות על מספר נושאים הקשורים ל-Ethereum Classic.
 
-So far, the following summits have been held:
+עד כה נערכו הפסגות הבאות:
 
-- 2019 Vancouver
-- 2018 Seoul
-- 2017 Hong Kong
+- 2019 ונקובר
+- 2018 סיאול
+- 2017 הונג קונג
 
-Videos of the presentations are available under the [Videos > Conferences](/videos/conferences) section.
+סרטונים של המצגות זמינים בסעיף [סרטונים > ועידות](/videos/conferences).
 
-## Core Dev Calls
+## שיחות מפתח מפתח
 
-The ETC Core Devs Call is a technical discussion call for developers working on the Ethereum Classic clients and/or ECIP process.
+קריאת ETC Core Devs היא שיחת דיון טכנית למפתחים העובדים על לקוחות Ethereum Classic ו/או תהליך ECIP.
 
-These calls have no set schedule, but occur fairly frequently throughout the year. Proposed calls are announced in the form of GitHub issues in the [ECIPs repo](https://github.com/ethereumclassic/ECIPs/issues?q=is%3Aissue+Devs+Call).
+לשיחות אלו אין לוח זמנים מוגדר, אך מתרחשות בתדירות גבוהה למדי במהלך השנה. שיחות מוצעות מוכרזות בצורה של בעיות GitHub ב [ECIPs repo](https://github.com/ethereumclassic/ECIPs/issues?q=is%3Aissue+Devs+Call).
