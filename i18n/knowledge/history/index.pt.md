@@ -1,10 +1,10 @@
 ---
-title: Classic History
+title: História Clássica
 updated: 2022-09-02
 contribute: true
-seo: A historical timeline covering all the major events, the ups and downs, that lead to the current state of affairs in the wonderful world of Ethereum Classic.
+seo: Uma linha do tempo histórica cobrindo todos os principais eventos, os altos e baixos, que levaram ao estado atual das coisas no maravilhoso mundo do Ethereum Classic.
 ---
 
-The following timeline documents the formative events that created and defined Ethereum Classic, and all major events to the present day.
+A linha do tempo a seguir documenta os eventos formativos que criaram e definiram o Ethereum Classic e todos os principais eventos até os dias atuais.
 
-For a more detailed investigation into the creation of ETC, please check out [Genesis](/why-classic/genesis).
+Para uma investigação mais detalhada sobre a criação do ETC, confira [Genesis](/why-classic/genesis).
