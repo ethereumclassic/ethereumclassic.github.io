@@ -1,11 +1,11 @@
 ---
-title: Development
-seo: A collection of resources for developers who are looking to learn more about contributing or deploying applications to Ethereum Classic.
+title: Desenvolvimento
+seo: Uma coleção de recursos para desenvolvedores que desejam aprender mais sobre como contribuir ou implantar aplicativos no Ethereum Classic.
 updated: 2022-02-22
 ---
 
-This section contains a list of resources that developers planning to contribute or deploy to Ethereum Classic may find useful.
+Esta seção contém uma lista de recursos que os desenvolvedores que planejam contribuir ou implantar no Ethereum Classic podem achar úteis.
 
-If you are just getting started with development on Ethereum Classic, check out the [development guides](/guides/development) section.
+Se você está apenas começando com o desenvolvimento no Ethereum Classic, confira a seção [guias de desenvolvimento](/guides/development).
 
-If you have experience developing on Ethereum, you'll be pleased to find out that nearly all the development concepts and tools used with Ethereum are compatible with Ethereum Classic, so your typical workflow is unlikely to change when you deploy to Classic.
+Se você tem experiência em desenvolvimento no Ethereum, ficará satisfeito em descobrir que quase todos os conceitos e ferramentas de desenvolvimento usados com o Ethereum são compatíveis com o Ethereum Classic, portanto, é improvável que seu fluxo de trabalho típico mude quando você implanta no Classic.
