@@ -1,5 +1,16 @@
 title: 테스트넷
 seo: 계약 및 프로토콜 업그레이드를 테스트하는 데 사용할 수 있는 공개적으로 사용 가능한 네트워크가 있는 다양한 Ethereum Classic 테스트넷에 대한 정보.
+description: |
+  EVM 계약 시스템과 마찬가지로 Ethereum Classic에서 계약을 개발할 때 블록이 채굴될 때까지 기다릴 필요 없이 빠르게 반복할 수 있는 로컬 [가상 네트워크](/development/tooling)를 사용하는 것이 좋습니다. 그러나 어느 시점에서 대중이 애플리케이션의 베타 버전과 상호 작용하도록 허용하고 싶을 수 있으며 이를 위해 테스트넷을 사용할 수 있습니다.
+
+  Ethereum Classic은 Ethereum의 업스트림 EVM과의 호환성을 유지하므로 일부 사소한 경우를 제외하고 계약은 동일하게 작동합니다. 즉, 인기 있는 이더리움 테스트넷은 대부분 이더리움 클래식 계약의 공개 테스트에 사용될 수 있으며 인기가 높기 때문에 사용자 테스트에 더 적합할 수 있습니다.
+
+  또한 Ethereum Classic에는 EVM의 Ethereum Classic 버전을 운영하는 자체 테스트넷이 있으며 이러한 네트워크 중 하나에 배포하는 것도 프로덕션 릴리스 전에 적극 권장됩니다. 이러한 퍼블릭 테스트넷은 수도꼭지도 제공하므로 테스트넷 ETC를 쉽게 획득하고 코드를 배포할 수 있습니다.
+
+  수도꼭지가 제대로 작동하지 않으면 Ethereum Classic Community [Discord](https://ethereumclassic.org/discord)에 가입하여 테스트넷 자금을 핑하십시오. dev-general 대화방의 누군가가 당신을 도울 것입니다.
+
+   [chainlist.org](https://chainlist.org)를 사용하여 적절한 RPC 엔드포인트 및 탐색기로 web3 지갑을 구성할 수 있습니다.
+  지갑 구성: [Kotti](https://chainlist.org/chain/6), [Mordor](https://chainlist.org/chain/63)
 items:
   testnets:
     i18n:
