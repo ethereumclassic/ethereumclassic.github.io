@@ -25,10 +25,22 @@ items:
           Consultate la sezione [guide allo sviluppo](/guide/sviluppo) e la sezione [development](/sviluppo) per le esercitazioni e gli strumenti che vi aiuteranno a distribuire su Classic.
       deployment:
         question: Come si effettua il deploy sulla blockchain di Ethereum Classic?
+        answer: |
+          Innanzitutto, acquisisci un po' di ETC per pagare il gas per implementare il tuo contratto, quindi assicurati semplicemente di implementare la rete Ethereum Classic (Chain ID 61), piuttosto che la rete Ethereum (Chain ID 1).
       rpc:
         question: Esistono endpoint RPC pubblici che posso utilizzare per distribuire su ETC?
+        answer: |
+          SÌ. Se non desideri eseguire, sincronizzare e mantenere il tuo nodo Ethereum Classic, sono disponibili numerosi endpoint pubblici che possono essere utilizzati gratuitamente.
+
+          Consulta la sezione [RPC Endpoints](/network/endpoints) e [ChainList.org](https://chainlist.org/chain/61).
       grants:
         question: Posso ottenere finanziamenti per costruire su Ethereum Classic?
+        answer: |
+          SÌ. Esistono numerosi programmi passati e presenti per incoraggiare lo sviluppo dell'ETC.
+
+          Un esempio recente è [ETC Grants DAO](https://etcgrantsdao.io), che ha lanciato un programma di sovvenzioni ETC nel 2023.
+
+          Poiché Ethereum Classic non ha una tesoreria centralizzata, tutti i contributi al progetto sono finanziati esternamente. Ciò include contributori che donano il loro tempo e incentivi finanziari da finanziamenti di terze parti.
       ecips:
         question: Come posso contribuire allo sviluppo del protocollo Ethereum Classic?
         answer: |
