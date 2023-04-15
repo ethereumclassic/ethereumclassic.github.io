@@ -1,13 +1,5 @@
 title: Testnetze
 seo: Informationen über die verschiedenen Ethereum Classic-Testnetze mit öffentlich zugänglichen Netzwerken, die zum Testen von Verträgen und Protokoll-Upgrades verwendet werden können.
-description: |
-  Bei der Entwicklung von Verträgen auf Ethereum Classic ist es wie bei jedem EVM-Vertragssystem ratsam, ein lokales [virtuelles Netzwerk] (/development/tooling) zu verwenden, mit dem Sie schnell iterieren können, ohne auf das Mining von Blöcken warten zu müssen. Irgendwann möchten Sie jedoch der Öffentlichkeit die Möglichkeit geben, mit einer Betaversion Ihrer Anwendung zu interagieren, wofür ein Testnetz verwendet werden kann.
-
-  Da Ethereum Classic die Kompatibilität mit dem vorgelagerten EVM von Ethereum beibehält, verhalten sich die Verträge abgesehen von einigen kleineren Randfällen identisch. Das bedeutet, dass beliebte Ethereum-Testnets wie [Kovan](https://kovan-testnet.github.io/website/) größtenteils für das öffentliche Testen von Ethereum-Classic-Verträgen verwendet werden können, und aufgrund ihrer Beliebtheit kann dies für Benutzertests vorzuziehen sein.
-
-  Darüber hinaus verfügt Ethereum Classic über eigene Testnetze, die die Ethereum Classic-Version des EVM betreiben, und die Bereitstellung in einem dieser Netze wird vor der Produktionsfreigabe ebenfalls dringend empfohlen. Diese öffentlichen Testnetze bieten auch Faucets an, so dass Sie problemlos Testnet-ETC erwerben und Ihren Code bereitstellen können.
-
-  Einige dieser Netzwerke, wie z. B. Astor, testen experimentelle Versionen von ETC mit Funktionen, die im Ethereum Classic Mainnet noch nicht existieren.
 items:
   testnets:
     i18n:
