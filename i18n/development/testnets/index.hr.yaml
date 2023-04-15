@@ -1,5 +1,16 @@
 title: Testne mreže
 seo: Informacije o raznim Ethereum Classic testnim mrežama, s javno dostupnim mrežama koje se mogu koristiti za testiranje ugovora i nadogradnji protokola.
+description: |
+  Prilikom razvijanja ugovora na Ethereum Classicu, kao i kod bilo kojeg EVM sustava ugovora, savjetuje se korištenje lokalne [virtualne mreže](/development/tooling), koja vam omogućuje brzo ponavljanje bez čekanja da se blokovi rudare. Međutim, u nekom trenutku možda ćete poželjeti dopustiti javnosti interakciju s beta verzijom vaše aplikacije, a za to se može koristiti testnet.
+
+  Budući da Ethereum Classic održava kompatibilnost s Ethereumovim uzvodnim EVM-om, osim nekih manjih rubnih slučajeva, ugovori će se ponašati identično. To znači da se popularne mreže za testiranje Ethereuma većinom mogu koristiti za javno testiranje Ethereum Classic ugovora, a zbog svoje popularnosti ovo bi moglo biti bolje za testiranje korisnika.
+
+  Osim toga, Ethereum Classic ima vlastite testne mreže koje upravljaju Ethereum Classic verzijom EVM-a, a implementacija na jednu od tih mreža također se toplo preporučuje prije izdavanja u produkciju. Ove javne mreže za testiranje također pružaju slavine, tako da možete lako nabaviti testnet ETC i implementirati svoj kod.
+
+  Ako slavina ne radi ispravno, pridružite se Ethereum Classic Community [Discord](https://ethereumclassic.org/discord) kako biste pingali sredstva za testnet. Netko u dev-general chatroomu će vam pomoći.
+
+  Možete koristiti [chainlist.org](https://chainlist.org) da konfigurirate svoj web3 novčanik s odgovarajućim RPC krajnjim točkama i istraživačima.
+  Konfigurirajte novčanik: [Kotti](https://chainlist.org/chain/6), [Mordor](https://chainlist.org/chain/63)
 items:
   testnets:
     i18n:
