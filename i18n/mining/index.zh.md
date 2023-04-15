@@ -1,13 +1,13 @@
 ---
-title: Mining Resources
-seo: Why Ethereum Classic is a great long term choice for cryptocurrency mining, and a collection of resources covering Hardware, Software and Mining Pools.
+title: 挖矿资源
+seo: 为什么Ethereum Classic是加密货币挖矿的最佳长期选择，以及涵盖硬件、软件和矿池的资源集合。
 updated: 2022-02-22
 ---
 
-With Ethereum's imminent/recent switch to Proof of Stake a.k.a. "The Merge", Ethereum Classic becomes the largest Proof of Work Smart Contract Platform and inherits many of the miners that previously mined Ethereum. As Ethereum Classic's hashing algorithm is almost identical to ETHash, so it supports the same hardware, and mining ETC should be as simple switching to a mining pool that supports ETC.
+随着以太坊即将/刚刚转换为股权证明(Proof of Stake)，又称为 随着以太坊即将/刚刚转换为股权证明(Proof of Stake)，又称为 随着以太坊即将/刚刚转换为股权证明(Proof of Stake)，又称为 随着以太坊即将/刚刚转换为股权证明(Proof of Stake)，又称为 "合并 "后，Ethereum Classic成为最大的工作证明智能合约平台，并继承了许多以前开采Ethereum的矿工。 由于Ethereum Classic的散列算法与ETHash几乎相同，所以它支持相同的硬件，挖ETC应该是切换到支持ETC的矿池那么简单。
 
-Ethereum Classic has a long term [commitment](/why-classic/proof-of-work) to Proof of Work, a tried and true consensus mechanism that provides a solid foundation on which to Build Unstoppable Applications. This commitment is not out of happenstance, but as an intentional design choice over other mechanisms, such as Proof of Stake, that come with inherent security trade-offs.
+以太坊经典有一个长期的 [，](/why-classic/proof-of-work) 工作证明，这是一个久经考验的共识机制，为建立不可阻挡的应用程序提供了一个坚实的基础。 这种承诺并不是出于偶然，而是一种有意的设计选择，而不是其他机制，如权益证明，这些机制有内在的安全权衡。
 
-Mining is one of the most important elements of any Proof of Work blockchain, as it provides security allows nodes to reach consensus about the state of the network. In exchange for providing this service, anyone in the world, without permission, can contribute hash power and be rewarded every block with ETC, based on the emission curve and transaction fees.
+挖矿是任何工作证明区块链最重要的元素之一，因为它提供了安全允许节点对网络的状态达成共识。 作为提供这种服务的交换，世界上任何一个人都可以在没有许可的情况下贡献哈希值，并根据排放曲线和交易费用在每个区块获得 ETC 的奖励。
 
-Below is a non-exhaustive collection of mining resources developed for Ethereum Classic. If you have questions about mining, there is an active Mining channel in the [Ethereum Classic Discord](/community/channels).
+以下是为 Ethereum Classic 开发的挖矿资源的非详尽集合。 如果你有关于挖矿的问题，在 [Ethereum Classic Discord](/community/channels)，有一个活跃的挖矿频道。
