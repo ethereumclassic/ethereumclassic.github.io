@@ -1,19 +1,19 @@
 ---
-title: Services
+title: שירותים
 updated: 2022-02-22
-seo: A directory of services that make up the rich ecosystem that sits on top of Ethereum Classic, including Wallets, Exchanges and Decentralized Applications.
+seo: מדריך שירותים המרכיבים את המערכת האקולוגית העשירה שיושבת על גבי Ethereum Classic, כולל ארנקים, חילופים ויישומים מבוזרים.
 ---
 
-On top of the Ethereum Classic blockchain is a rich ecosystem of applications, including Wallets, Exchanges and Decentralized Applications. As the number of these services grows over time, so does the utility and value of the network as a whole.
+על גבי הבלוקצ'יין Ethereum Classic ישנה מערכת אקולוגית עשירה של יישומים, כולל ארנקים, בורסות ויישומים מבוזרים. ככל שמספר השירותים הללו גדל עם הזמן, כך גם התועלת והערך של הרשת כולה גדלים.
 
-## Important Warning
+## אזהרה חשובה
 
-Ethereum Classic, as a neutral permissionless protocol, has no means to gate-keep what is deployed to it, so the only protection users have against falling victim to bad projects is vigilance and a level of prudence, making sure that what they are interacting with has a level of integrity they are comfortable with.
+ל-Ethereum Classic, כפרוטוקול נייטרלי ללא הרשאות, אין אמצעים לשמור על מה שנפרס אליו, כך שההגנה היחידה שיש למשתמשים מפני נפילות קורבן לפרויקטים גרועים היא ערנות ורמה של זהירות, לוודא שמה שהם מקיימים איתו אינטראקציה יש רמת יושרה שהם נוחים איתה.
 
-Where it is relevant, this section will try to provide some hints as to what are signs of a good project. The _gold standard_ is a team with a track record publishing open source code with a full test suite and extensive audits, but it is up to individuals to decide for themselves what level of assurance they need depending on their use case, financial commitment, and risk appetite.
+היכן שזה רלוונטי, חלק זה ינסה לספק כמה רמזים לגבי מה הם סימנים לפרויקט טוב. תקן הזהב _הוא צוות עם רקורד שמפרסם קוד קוד פתוח עם חבילת בדיקות מלאה וביקורות מקיפות, אבל זה תלוי ביחידים להחליט בעצמם לאיזו רמת ביטחון הם צריכים בהתאם למקרה השימוש שלהם,_ הפיננסית שלהם, ותיאבון לסיכון.
 
-Even _gold standard_ projects will occasionally fall victim to bugs, hacks and rugpulls, so always follow the first rule of crypto: **don't invest what you can't afford to lose**.
+אפילו _פרויקטים של תקן זהב_ יפלו מדי פעם קורבן לבאגים, פריצות ופולסים, אז תמיד פעל לפי הכלל הראשון של הקריפטו: **אל תשקיע את מה שאתה לא יכול להרשות לעצמך להפסיד**.
 
-All the links to external resources on the website should be treated with caution, as they are community submitted, are not vetted, and cannot be guaranteed to be safe.
+יש להתייחס בזהירות לכל הקישורים למשאבים חיצוניים באתר, שכן הם נמסרים לקהילה, אינם נבדקים, ולא ניתן להבטיח שהם בטוחים.
 
-Please take precautions and do your own research before using an application.
+נא לנקוט באמצעי זהירות ולעשות מחקר משלך לפני השימוש באפליקציה.
