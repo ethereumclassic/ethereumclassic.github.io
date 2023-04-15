@@ -1,19 +1,19 @@
 ---
-title: Services
+title: Serviços
 updated: 2022-02-22
-seo: A directory of services that make up the rich ecosystem that sits on top of Ethereum Classic, including Wallets, Exchanges and Decentralized Applications.
+seo: Um diretório de serviços que compõem o rico ecossistema que fica no topo do Ethereum Classic, incluindo carteiras, trocas e aplicativos descentralizados.
 ---
 
-On top of the Ethereum Classic blockchain is a rich ecosystem of applications, including Wallets, Exchanges and Decentralized Applications. As the number of these services grows over time, so does the utility and value of the network as a whole.
+No topo da blockchain Ethereum Classic está um rico ecossistema de aplicativos, incluindo carteiras, trocas e aplicativos descentralizados. À medida que o número desses serviços aumenta com o tempo, também aumenta a utilidade e o valor da rede como um todo.
 
-## Important Warning
+## Aviso Importante
 
-Ethereum Classic, as a neutral permissionless protocol, has no means to gate-keep what is deployed to it, so the only protection users have against falling victim to bad projects is vigilance and a level of prudence, making sure that what they are interacting with has a level of integrity they are comfortable with.
+O Ethereum Classic, como um protocolo sem permissão neutro, não tem meios de controlar o que é implantado nele; portanto, a única proteção que os usuários têm contra serem vítimas de projetos ruins é vigilância e um nível de prudência, certificando-se de que o que eles estão tem um nível de integridade com o qual se sentem confortáveis.
 
-Where it is relevant, this section will try to provide some hints as to what are signs of a good project. The _gold standard_ is a team with a track record publishing open source code with a full test suite and extensive audits, but it is up to individuals to decide for themselves what level of assurance they need depending on their use case, financial commitment, and risk appetite.
+Onde for relevante, esta seção tentará fornecer algumas dicas sobre quais são os sinais de um bom projeto. O _padrão de ouro_ é uma equipe com um histórico de publicação de código-fonte aberto com um conjunto de testes completo e auditorias extensas, mas cabe aos indivíduos decidirem por si mesmos qual nível de garantia precisam, dependendo de seu caso de uso, compromisso financeiro, e apetite ao risco.
 
-Even _gold standard_ projects will occasionally fall victim to bugs, hacks and rugpulls, so always follow the first rule of crypto: **don't invest what you can't afford to lose**.
+Mesmo projetos _padrão ouro_ ocasionalmente serão vítimas de bugs, hacks e desorganizações, então sempre siga a primeira regra da criptografia: **não invista o que você não pode perder**.
 
-All the links to external resources on the website should be treated with caution, as they are community submitted, are not vetted, and cannot be guaranteed to be safe.
+Todos os links para recursos externos no site devem ser tratados com cautela, pois são enviados pela comunidade, não são examinados e não podem ser garantidos como seguros.
 
-Please take precautions and do your own research before using an application.
+Por favor, tome precauções e faça sua própria pesquisa antes de usar um aplicativo.
