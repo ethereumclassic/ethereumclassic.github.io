@@ -64,8 +64,6 @@ socialItems:
     name: ETC Labs Github
   reddit:
     name: レディット
-  twitter:
-    name: ツイッター
 appTypes:
   finance:
     name: ファイナンス
