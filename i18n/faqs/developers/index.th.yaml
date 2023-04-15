@@ -25,18 +25,10 @@ items:
           ดูส่วน [คู่มือการพัฒนา](/guides/development) รวมถึงส่วน [development](/การพัฒนา) สำหรับบทแนะนำและเครื่องมือที่จะช่วยให้คุณปรับใช้กับคลาสสิก
       deployment:
         question: ฉันจะปรับใช้กับ Ethereum Classic blockchain ได้อย่างไร
-        answer: |
-          ขั้นแรก ซื้อ ETC เพื่อจ่ายก๊าซเพื่อปรับใช้สัญญาของคุณ จากนั้นเพียงให้แน่ใจว่าคุณปรับใช้กับเครือข่าย Ethereum Classic (Chain ID 61) แทนที่จะเป็นเครือข่าย Ethereum (Chain ID 1)
       rpc:
         question: มีจุดสิ้นสุด RPC สาธารณะที่ฉันสามารถใช้เพื่อปรับใช้กับ ETC ได้หรือไม่
-        answer: |
-          ใช่. หากคุณไม่ต้องการซิงค์ให้รันโหนด Ethereum Classic ของคุณเอง มีจุดสิ้นสุดสาธารณะจำนวนมากที่ใช้งานได้ฟรี
-
-          ดูส่วน [RPC Endpoints](/network/endpoints) และ [ChainList.org](https://chainlist.org/en/chain/61)
       grants:
         question: ฉันสามารถรับเงินทุนเพื่อสร้างบน Ethereum Classic ได้หรือไม่
-        answer: |
-          เนื่องจาก Ethereum Classic ไม่มีคลังเก็บส่วนกลาง การพัฒนาทั้งหมดจึงจำเป็นต้องได้รับทุนด้วยตนเองหรือผ่านการระดมทุนจากบุคคลที่สาม ในอดีตบุคคลที่สามต่างๆ ดำเนินโครงการให้ทุน และ [สหกรณ์ ETC](https://etccooperative.org/) ได้ประกาศว่าจะเปิดตัวโปรแกรมการให้ทุนใหม่เร็วๆ นี้
       ecips:
         question: ฉันจะช่วยในการพัฒนาโปรโตคอล Ethereum Classic ได้อย่างไร
         answer: |
