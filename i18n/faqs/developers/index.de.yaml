@@ -25,10 +25,22 @@ items:
           Im Abschnitt [Entwicklungsanleitungen](/guides/development) sowie im Abschnitt [development](/development) finden Sie Anleitungen und Tools, die Ihnen bei der Bereitstellung von Classic helfen.
       deployment:
         question: Wie kann ich auf der Ethereum Classic-Blockchain bereitstellen?
+        answer: |
+          Erwerben Sie zunächst etwas ETC, um das Gas für die Bereitstellung Ihres Vertrags zu bezahlen, und stellen Sie dann einfach sicher, dass Sie im Ethereum Classic-Netzwerk (Ketten-ID 61) und nicht im Ethereum-Netzwerk (Ketten-ID 1) bereitstellen.
       rpc:
         question: Gibt es öffentliche RPC-Endpunkte, die ich für die Bereitstellung auf ETC verwenden kann?
+        answer: |
+          Ja. Wenn Sie Ihren eigenen Ethereum Classic-Knoten nicht ausführen, synchronisieren und warten möchten, stehen eine Reihe öffentlicher Endpunkte zur Verfügung, die kostenlos verwendet werden können.
+
+          Sehen Sie sich den Abschnitt [RPC Endpoints](/network/endpoints) sowie [ChainList.org](https://chainlist.org/chain/61) an.
       grants:
         question: Kann ich eine Finanzierung erhalten, um auf Ethereum Classic aufzubauen?
+        answer: |
+          Ja. Es gibt eine Reihe früherer und gegenwärtiger Programme zur Förderung der Entwicklung von ETC.
+
+          Ein aktuelles Beispiel ist [ETC Grants DAO](https://etcgrantsdao.io), das 2023 ein ETC-Stipendienprogramm ins Leben gerufen hat.
+
+          Da Ethereum Classic keine zentrale Kasse hat, werden alle Beiträge zum Projekt extern finanziert. Dazu gehören Mitwirkende, die ihre Zeit spenden, und finanzielle Anreize aus Drittmitteln.
       ecips:
         question: Wie kann ich bei der Entwicklung des Ethereum Classic-Protokolls helfen?
         answer: |
