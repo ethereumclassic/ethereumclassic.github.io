@@ -1,13 +1,13 @@
 ---
-title: 网络工具
-seo: 用于检查和与Ethereum Classic网络互动的精选工具和资源。 RPC端点、区块链探索者和网络监控者。
+title: Network Tools
+seo: A selection of tools and resources for inspecting and interacting with the Ethereum Classic network. RPC Endpoints, Blockchain Explorers, and Network Monitors.
 updated: 2022-02-22
 contributors:
   - cyberus7569
 ---
 
-本节包含一些用于检查和与Ethereum Classic网络互动的工具和资源。
+This section contains a selection of tools and resources for inspecting and interacting with the Ethereum Classic network.
 
-以太坊经典主网是一个以太坊虚拟工作证明区块链，使用ETCHash算法(ETHash的一种修改)，链ID为61。
+Ethereum Classic mainnet is an Ethereum Virtual Proof of Work blockchain, using the ETCHash algorithm (a modification of ETHash), with a Chain ID of 61.
 
-如果您希望运行自己的 [ETC 客户端](/development/clients)，您可以在 [开发](/development) 部分找到更多信息。
+If you are looking to run your own [ETC Client](/development/clients), you can find more information in the [Development](/development) section.
