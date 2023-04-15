@@ -64,8 +64,6 @@ socialItems:
     name: ETC实验室Github
   reddit:
     name: 睿迪特(Reddit)公司
-  twitter:
-    name: 推特
 appTypes:
   finance:
     name: 金融
