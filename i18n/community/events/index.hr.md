@@ -6,11 +6,14 @@ seo: Pregled događaja vezanih uz stvarni i virtualni Ethereum Classic. ETC Summ
 contributors:
   - IstoraMandiri
   - bobsummerwill
+  - TheCrowbill
 ---
 
 Čarolija se događa kada se ljudi okupljaju i dijele ideje, a sudionici diljem ETC zajednice spontano su se organizirali kako bi formirali okupljanja u stvarnom životu i na mreži kako bi svoju pozornost usmjerili na poboljšanje Ethereum Classica.
 
 ## Pozivi zajednice
+
+UPDATE:  Regular, weekly Community Calls are currently on hiatus.
 
 Svakog četvrtka, obično u UTC 1500, održava se grupni glasovni chat na poslužitelju Ethereum Classic [Discord](https://ethereumclassic.org/discord). Poziv se prenosi na [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos), ali također se možete pridružiti 1 sat prije nego što krenemo uživo, u 14:00 UTC, da razgovarate bez snimanja u Green Roomu.
 
