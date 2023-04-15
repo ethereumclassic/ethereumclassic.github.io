@@ -1,6 +1,6 @@
 ---
 title: ECIPs
-seo: A summary of the Ethereum Classic Improvement Proposal (ECIP) process, and a list of accepted ECIPs.
+seo: סיכום של תהליך Ethereum Classic Improvement Proposal (ECIP), ורשימת ECIPs מקובלים.
 license: CC-BY
 contribute: true
 updated: 2022-02-22
@@ -10,35 +10,35 @@ contributors:
   - TheEnthusiasticAs
 ---
 
-## [Ethereum Classic Improvement Proposals](https://ecips.ethereumclassic.org/)
+## [הצעות שיפור קלאסיות של Ethereum](https://ecips.ethereumclassic.org/)
 
-### Summary
+### סיכום
 
-This document is a summary of the Ethereum Classic Improvement Proposal (ECIP) process. To view the full description of the ECIP process please read ECIP-1000 which is the formal document generally acknowledged by the Ethereum Classic (ETC) ecosystem, by rough consensus, as the most suitable system to propose new standard changes to the ETC protocol, informational documents, or ECIP process suggestions.
+מסמך זה הוא סיכום של תהליך Ethereum Classic Improvement Proposal (ECIP). כדי לראות את התיאור המלא של תהליך ה-ECIP אנא קרא את ECIP-1000 שהוא המסמך הפורמלי המוכר על ידי מערכת האקולוגית Ethereum Classic (ETC), בהסכמה גסה, כמערכת המתאימה ביותר להצעת שינויים סטנדרטיים חדשים בפרוטוקול ETC, מידע מידע מסמכים, או הצעות לתהליך ECIP.
 
-### Getting Started
+### מתחילים
 
-After reading ECIP-1000, fork the repository and add your ECIP to it, using the provided ECIP markdown template. Submit by creating a Pull Request to the Ethereum Classic ECIPs repository.
+לאחר קריאת ECIP-1000, חלק את המאגר והוסף אליו את ה-ECIP שלך, באמצעות תבנית הסימון של ECIP המסופקת. שלח על ידי יצירת Pull Request למאגר Ethereum Classic ECIPs.
 
-### Types of Participants
+### סוגי משתתפים
 
-As you will see by reading this summary and the other documents suggested above, there are several parties that participate in the life cycle of an ECIP:
+כפי שתראה בקריאת סיכום זה ושאר המסמכים שהוצעו לעיל, ישנם מספר גורמים המשתתפים במחזור החיים של ECIP:
 
-- **ECIP Author:** This is you! The author is the person interested in improving ETC by making a new ECIP. Therefore, responsible for learning how the process works, so he or she can effectively propose protocol changes, informational or procedural improvements. The author is also responsible for following up on the ECIP life cycle throughout all the status steps, from 'draft' to 'active' as described below, so the proposal becomes a reality. If not, it is possible that the ECIP will be eventually rejected.
-- **Editors:** Editors are developers, mainly ETC volunteers, members of the Ethereum Classic Github Organization whose responsibilities include, but are not limited to, assigning numbers to ECIPs, merging them, listing them in the ECIP directory, checking if they are ready, sound and complete, if the status steps are followed, and to check their motivation, accuracy and proper licensing terms.
-- **Developer Teams:** ETC has several developer companies and volunteer developers who work on different node clients. Because these developers are dedicated to maintaining the core protocol of Ethereum Classic, they are categorized as "core developers" or "core developer teams". Core developers are in charge of making new proposals or reviewing and accepting or rejecting proposals from other developers or teams. When they accepts new changes, they merge them into the respective clients they maintain for the ETC network.
-- **Implementors:** Once an ECIP is accepted and merged, the last step is for miners, mining pools, wallet operators, exchanges, and other full node operators to implement the changes by installing or upgrading their nodes to integrate the new changes. These operating network participants are called "implementors".
-- **Users:** Users or end users may be regular consumers, businesses, governments, non-economic node operators, investors, or other kinds of users who see when the implementors upgraded their systems and adopt the new rules for sending transactions and managing smart contracts or using applications on top of ETC. Discussion Participants: According the ECIP process, when moving ECIPs forward, authors will open for discussion their proposals. These discussions are located in public forums, Github or developer calls. Discussion participants may be core or volunteer Ethereum Classic client developers, any developers on Github willing to contribute their well reasoned opinions, and other interested stakeholders or participants in the ETC ecosystems.
+- **מחבר ECIP:** זה אתה! המחבר הוא האדם המעוניין לשפר את ETC על ידי יצירת ECIP חדש. לכן, אחראי ללמוד כיצד התהליך עובד, כך שהוא או היא יכולים להציע ביעילות שינויים בפרוטוקול, שיפורים מידע או פרוצדורלי. המחבר אחראי גם לעקוב אחר מחזור החיים של ECIP לאורך כל שלבי הסטטוס, מ"טיוטה" ועד "פעיל" כמתואר להלן, כך שההצעה הופכת למציאות. אם לא, ייתכן שה-ECIP יידחה בסופו של דבר.
+- **עורכים:** עורכים הם מפתחים, בעיקר מתנדבי ETC, חברים בארגון Ethereum Classic Github שתחומי האחריות שלהם כוללים, בין היתר, הקצאת מספרים ל-ECIPs, מיזוגם, רישוםם בספריית ECIP, בדיקה אם הם מוכנים, תקינים ומלאים, אם יבוצעו שלבי הסטטוס, ולבדוק את המוטיבציה, הדיוק ותנאי הרישוי הנכונים שלהם.
+- **צוותי מפתחים:** ETC יש כמה חברות מפתחים ומפתחים מתנדבים שעובדים על לקוחות צומת שונים. מכיוון שמפתחים אלו מחויבים לשמור על פרוטוקול הליבה של Ethereum Classic, הם מסווגים כ"מפתחי ליבה" או "צוותי מפתחים ליבה". מפתחי הליבה אחראים על הגשת הצעות חדשות או סקירה וקבלה או דחייה של הצעות ממפתחים או צוותים אחרים. כאשר הם מקבלים שינויים חדשים, הם ממזגים אותם לתוך הלקוחות המתאימים שהם מתחזקים עבור רשת ETC.
+- **מיישמים:** ברגע ש-ECIP יתקבל ומיזוג, השלב האחרון הוא עבור כורים, בריכות כרייה, מפעילי ארנקים, בורסות ומפעילי צמתים מלאים אחרים ליישם את השינויים על ידי התקנה או שדרוג הצמתים שלהם כדי לשלב את השינויים החדשים. משתתפי הרשת המפעילים הללו נקראים "מממשים".
+- **משתמשים:** משתמשים או משתמשי קצה עשויים להיות צרכנים רגילים, עסקים, ממשלות, מפעילי צמתים לא כלכליים, משקיעים או סוגים אחרים של משתמשים שרואים מתי המיישמים שדרגו את המערכות שלהם ומאמצים את הכללים החדשים לשליחת עסקאות וניהול חוזים חכמים או שימוש ביישומים על גבי ETC. משתתפי דיון: על פי תהליך ה-ECIP, בעת העברת ECIP קדימה, המחברים יפתחו לדיון בהצעותיהם. דיונים אלו ממוקמים בפורומים ציבוריים, ב- Github או בשיחות מפתחים. משתתפי הדיון עשויים להיות מפתחי לקוח Ethereum Classic או מתנדבים, כל מפתח ב-Github שמוכן לתרום את דעותיהם המנומקות, ובעלי עניין אחרים או משתתפים אחרים במערכות האקולוגיות של ETC.
 
-### Contributing Steps
+### שלבים תורמים
 
-- Review ECIP-1000.
-- Fork the repository by clicking "Fork" in the top right.
-- Add your ECIP to your fork of the repository. There is a ECIP markdown template.
-- Submit a Pull Request to Ethereum Classic's ECIPs repository.
+- עיין ב-ECIP-1000.
+- מזלג את המאגר על ידי לחיצה על "מזלג" בפינה השמאלית העליונה.
+- הוסף את ה-ECIP שלך למזלג המאגר שלך. יש תבנית סימון ECIP.
+- שלח בקשת משיכה למאגר ה-ECIPs של Ethereum Classic.
 
-ECIPs Website: https://ecips.ethereumclassic.org/
+אתר ECIPs: https://ecips.ethereumclassic.org/
 
-## Accepted ECIPs
+## ECIPs מקובלים
 
-The following features were approved and integrated into the Ethereum Classic protocol.
+התכונות הבאות אושרו והשתלבו בפרוטוקול Ethereum Classic.
