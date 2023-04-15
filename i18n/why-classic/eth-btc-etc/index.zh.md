@@ -1,91 +1,91 @@
 ---
-title: 乙醇+BTC=等
+title: ETH + BTC = ETC
 updated: 2022-02-22
 disclaimer: opinion
-seo: 通过将以太坊的技术与比特币的理念和安全性相结合，以太坊经典在能够提供一个真正的去中心化的智能合约平台方面独树一帜。
+seo: By combining the technology of Ethereum with the philosophy and security of Bitcoin, Ethereum Classic stands alone in being able to provide a truly decentralized Smart Contract Platform.
 ---
 
-## 关键点
+## Key Points
 
-- 以太坊经典版是为了应对中心化带来的问题而存在的，它很快意识到并采用了比特币去中心化设计决定的天才。
-- 与 ETH 一样，ETC 是一个图灵完整的智能合约平台。
-- 与 BTC 一样，ETC 也有一个神奇的起源，这是不可能再现的。
-- 与 BTC 一样，ETC "没有任何官方东西"，防止 "官方 "捕获。
-- 与 BTC 一样，ETC 旨在提供一个可靠的安全基础层，并通过保守地升级协议来实现。
-- 与 BTC 一样，ETC 在社区互动中需要不断地怀疑。
+- Ethereum Classic, existing in response to problems enabled by centralization, quickly realized and adopted the genius of Bitcoin's decentralist design decisions.
+- Like ETH, ETC is a Turing Complete Smart Contract Platform.
+- Like BTC, ETC has a miraculous origin, which is impossible to recreate.
+- Like BTC, ETC has "no official anything", preventing "official" capture.
+- Like BTC, ETC aims to provide a reliable secure base layer and does so by upgrading the protocol conservatively.
+- Like BTC, ETC requires constant skepticism in community interactions.
 
-## 简介
+## Introduction
 
-对于那些已经有点熟悉加密货币生态系统的人来说，存在一个相当简单的启发式方法，可以切中以太坊经典试图实现的目的。
+For those already somewhat familiar with the cryptocurrency ecosystem, a quite simple heuristic exists that cuts to the chase of what Ethereum Classic is attempting to achieve.
 
-> 以太坊经典版采用了比特币的理念，并将其应用于以太坊的技术。
+> Ethereum Classic takes the philosophy of Bitcoin and applies it to the technology of Ethereum
 > 
-> - 以太坊经典的CEO，如果有的话
+> - The CEO of Ethereum Classic, if one existed
 
-![乙醇+BTC=等](./ethbtcetc.png)
+![ETH + BTC = ETC](./ethbtcetc.png)
 
-在 DAO 黑客事件之前，许多参与以太坊的人都认为，以太坊正是希望做到这一点：建立在比特币提供的完善的核心理念之上，但以图灵完整智能合约平台的形式添加额外的功能。
+Many of those involved with Ethereum before the DAO Hack were under the impression that Ethereum was hoping to do precisely this: be built on top of the well-established core ideas that Bitcoin provided but add on additional functionality in the form of a Turing Complete Smart Contract Platform.
 
-但正如 The DAO Hack 所显示的，情况并非如此。 现在被称为 Ethereum™ 的东西与比特币创建时体现的去中心化价值观没有什么关系。
+But as The DAO Hack showed, this was not the case. What is now known as Ethereum™ has very little to do with the decentralist values that Bitcoin was created to embody.
 
-以太坊基金会放弃用来吸引捐款的去中心化价值观的决定是不幸的，但创造了一个真空，最终进一步完善了这些价值观的意义和重要性，并孕育了一个项目，其使命是继续 _原有的以太坊愿景_。
+The decision for The Ethereum Foundation to abandon the decentralist values that were used to entice contributions was unfortunate but created a vacuum that ultimately further refined the meaning and importance of those values and birthed a project whose mission was to continue that _Original Ethereum Vision_.
 
-以太坊经典版，甚至比比特币本身更重要，它的存在是对去中心化价值的重要性的明确提醒。 当时有很多人不理解他们的意义，但也有很多人看到了这样一个事实：权力下放是非常重要的，而不仅仅是一个需要克服的烦人的障碍。
+Ethereum Classic, even more so than Bitcoin itself, exists as an explicit reminder about the importance of decentralist values. There were many who didn't understand their significance at the time, but many others saw the truth that decentralization was the very point, not just an annoying obstacle to overcome.
 
-自链式分裂以来，以太坊经典的设计选择和理念已经认识到了构建原始比特币协议时的天才决定。 ETC 尽可能地模仿这种追求权力下放的成功以及随之而来的现实世界的成就。
+Since the chain split, the design choices and philosophy of Ethereum Classic have come to recognize the genius decisions made when constructing the original Bitcoin protocol. As much as possible, ETC emulates this success in the pursuit of decentralism and the real world achievements that followed.
 
-## 无暇受孕2.0
+## Immaculate Conception 2.0
 
-与比特币一样，由于其神奇的起源情况，以太坊经典可以被视为一个神圣的实体。
+Much like Bitcoin, Ethereum Classic can be considered a divine entity due to the circumstances of its miraculous origin.
 
-正如之前探讨的 [，](/why-classic/genesis#the-immaculate-conception)，Ethereum Classic 的创建故事几乎可以肯定不可能再重现或偶然发生。 不仅导致其诞生的事件极其不可能，而且 ETC 的存在现在对其他项目也是一个警告，这些项目可能会避免类似的有争议的硬分叉，或者至少只在减轻连锁分裂的可能性的情况下进行。
+As explored [earlier](/why-classic/genesis#the-immaculate-conception), Ethereum Classic's creation story is almost certainly impossible to recreate or happen by accident ever again. Not only were the events leading up to its birth extremely improbable, but ETC's very existence now serves as a warning to other projects, which are likely to avoid similar controversial hard forks, or at least only do them while mitigating the possibility of a chain split.
 
-> 当时没有市场，因此也没有货币价值，有了这个，它从一开始就没有被利润激励所腐蚀。     
+> There were no markets and therefore no monetary value, and with this, it has not corrupted by the profit incentive from inception.  
 > ...  
-> <<<<<<< HEAD
+> This is not the case with other coins [ed: except ETC]; all launched with founders looking to profit, having backing from investors who are looking for bit exits and naturally retail foaming at the mouth looking to flip their positions too.
 > 
-> - [比特币手册，为什么不会有下一个比特币？](https://thebitcoinmanual.com/articles/why-there-wont-be-a-next-bitcoin/)
+> - [The Bitcoin Manual, Why There Won't Be A Next Bitcoin](https://thebitcoinmanual.com/articles/why-there-wont-be-a-next-bitcoin/)
 
-在某些方面，以太坊经典的构思甚至比比特币更 "无懈可击"；它根本不是由任何人计划的，而且与比特币不同，以太坊经典没有中本聪，这意味着没有中本聪返回并影响决策，这在比特币中理论上是可能的。
+In some ways, Ethereum Classic's conception is even more "immaculate" than Bitcoin's; it was not planned at all, by anyone, and unlike Bitcoin, Ethereum Classic has no Satoshi, meaning that there is no Satoshi to return and influence decision-making, which is theoretically possible in Bitcoin.
 
-以太坊经典也是唯一一个以追随者为基础的区块链项目的种子，该项目 100%专注于去中心化的原则。 尽管有风险，他们还是反对官方的 Ethereum™ 项目，特别是因为他们对 The DAO 事件和中心化所带来的滥用的反应而进行自我选择。
+Ethereum Classic is also the only blockchain project seeded with a follower base that was 100% focused on the principles of decentralism. Despite the risks, they went against the official Ethereum™ project, self-selecting specifically because of their reaction to The DAO incident and the abuses enabled by centralization.
 
-## 没有官方的任何东西
+## No Official Anything
 
-与比特币一样，Ethereum Classic 没有官方开发者、维护者或领导者。 它没有官方标志，没有官方网站，没有官方会议。 以太坊经典不能有官方的 _，什么_ ，因为没有个人或团体有权声称他们以任何官方身份代表 ETC。
+Like Bitcoin, Ethereum Classic has no official developers, maintainers, or leaders. It has no official logo, no official website, no official conferences. Ethereum Classic cannot have an official _anything_ because no individual or group has the authority to claim they represent ETC in any official capacity.
 
-这是区块链世界中罕见的品质和巨大的力量。 这意味着没有任何官方的 _东西_ ，可以被拿下、捕获或妥协，也没有官方实体可以起诉竞争的分叉侵犯版权。
+This is a rare quality and massive strength in the world of blockchains. It means no official _thing_ can be taken down, captured, or compromised, and there is no official entity that can sue competing forks for copyright infringement.
 
-_没有官方的任何东西_ ，这是 Ethereum Classic 项目的大部分力量的来源，但它也有缺点，因为没有中央的真相来源可以协调。 相反，存在一个 "做的民主"，任何人都可以做出贡献，根据所做的事情，拿起和使用，这些贡献成为以太坊经典的一部分。 这使得它成为一个独特的项目，对贡献者具有吸引力，因为简直没有什么可以阻止 _，你_ ，与其他人一样接近官方。
+_No official anything_ is the source of much of the strength of the Ethereum Classic project, but it also has drawbacks as there is no central source of truth to coordinate from. Instead, a "do-ocracy" exists where anyone can contribute and based on what is done, picked up, and used, those contributions become part of Ethereum Classic. This makes it a unique project and attractive to contributors as literally nothing can stop _you_ from being as close to official as anyone else.
 
-## 安全基础层
+## Secure Base Layer
 
-以太坊经典社区内许多人的观点是，上述 [区块链的三难问题](/why-classic/decentralism#the-blockchain-trilemma) ，至少在以后的基础上是无法克服的。 出于这个原因，Ethereum Classic 目前的路线图不包括 Ethereum™ 将尝试的更奇特的 "解决方案"。
+The view of many within the Ethereum Classic community is that the aforementioned [Blockchain Trilemma](/why-classic/decentralism#the-blockchain-trilemma) is insurmountable, at least on the base later. For this reason, Ethereum Classic's current roadmap does not include the more exotic "solutions" that will be attempted by Ethereum™.
 
-从本质上讲，没有已知的 _"一刀切 "的_ ，可以在不损害重要安全假设的情况下应用于基础层，所以对于 ETC 这个协议来说，如果没有一些重大的技术进步，最好由应用或次级协议根据使用情况提供各种不同的权衡和实施优化，让用户选择采用哪种方式。
+Essentially, there is no known _one size fits all_ approach to scaling throughput that can be applied on the base layer without compromising an important security assumption, so for ETC as a protocol, barring some significant technological advancement, it is best left up to applications or secondary protocols to provide various different trade-offs and implement optimizations depending on the use case, giving users the choice of which to adopt.
 
-以太坊经典社区的许多人也对增加区块大小的尝试持谨慎态度，因为在 "臃肿 "和增加 _同步时间_ 和硬件要求方面，很可能会出现不利影响，如果不加以控制，可能会使以太坊经典节点难以运行，导致中心化。 一些人认为应该进一步减少区块气体的限制，而另一些人则着眼于 _零知识证明_ ，这些技术可以减少需要储存在链上的数据量。
+Many in the Ethereum Classic community are also wary of attempts to increase the block size, due to the adverse effects that are likely to appear down the road in terms of "bloat" and the increased _time to sync_ and hardware requirements, which, if left unchecked, may make it difficult to run an Ethereum Classic node, leading to centralization. Some argue the block gas limit should be reduced further, while others look towards _Zero Knowledge Proof_ technologies that can reduce the amount of data needed to be stored on chain.
 
-人们普遍认为，分层扩展区块链的方法可以提高吞吐量，同时以不乱于基础层的方式满足 _Blockchain Trilemma_。 个人可以在不影响 L1 的情况下安全地试验不同的 L2 系统，并可以根据应用和用户要求对各种权衡进行微调。
+There is general agreement that a layered approach to scaling blockchains can increase throughput while satisfying the _Blockchain Trilemma_ in a way that does not mess with the base layer. Individuals can safely experiment with different L2 systems without affecting L1, and can fine-tune the various trade-offs depending on the application and user requirements.
 
-## 慢慢地吻
+## KISS Slowly
 
-基础层需要在几个方面都是安全的；既要在技术上减少错误，又要在社会经济上对各种形式的攻击有保障。
+The base layer needs to be secure in several ways; both technologically with fewer bugs and socioeconomically secure against various forms of attack.
 
-由于单点故障可能存在于许多领域，而且往往是隐蔽的，在所有条件相同的情况下， _，不那么复杂的系统更容易保持分散性_。 额外的复杂性不仅会产生更多的技术错误和漏洞，而且还会在不可预见的游戏理论难题中产生潜在的中心故障点，并以更高的维护要求的形式导致能够为维护工作做出贡献的开发人员数量减少。 如果一个系统太过复杂，任何人都无法推理，那么不妨由其作者来掌握，他们对系统应该如何操作、维护和升级拥有唯一的权力。
+Because single points of failure can exist in many areas and are often hidden, all things being equal, it is easier to maintain decentralization in systems that are _less complex_. Additional complexity creates not just more technical bugs and exploits, but also potential central points of failure, in unforeseen game-theory quandaries and in the form of higher upkeep requirements leading to a reduced pool of developers able to contribute to maintenance. If a system is too complex for anyone to reason with, it may as well be captured by its authors, who have sole authority on how it should be operated, maintained, and upgraded.
 
-比特币和 ETC 一样，将自己定位为 "老牌可靠 "的系统，不需要快速创新，而是有条不紊地慢慢做，不破坏它之前建立的保障。 这是通过对协议升级采取保守的方法、"慢慢来，不要破坏东西 "的精神，以及在各层提供创新，而不是试图对基本协议实施激进的改变来实现的。
+Bitcoin, as with ETC, positions itself as the "good old reliable" system that does not need to innovate quickly, but instead, do so slowly and methodically without breaking it's previously established guarantees. This is achieved through a conservative approach to protocol upgrades, a "Move Slowly and Don't Break Things" ethos, and the delivery of innovation in layers, rather than attempting to implement radical changes to the base protocol.
 
-像比特币一样，这种方法并不排除创新。 相反，它只是要求采取谨慎和有条不紊的 [，](/knowledge/future#upgrade-process) 来进行协议升级。
+Like Bitcoin, this approach does not preclude innovation. Instead, it simply demands a careful and methodical [approach](/knowledge/future#upgrade-process) to protocol upgrades.
 
-## 不要相信，要核实
+## Don't Trust, Verify
 
-真正的去中心化项目的标志之一是，社会层的参与者之间存在着健康的不信任。 虽然这听起来可能有违直觉，但这是确保社会层免受多种形式攻击的原因。
+One of the hallmarks of genuinely decentralized projects is that a healthy level of distrust exists amongst participants in the social layer. While this may sound counter-intuitive, it is what secures the social layer against many forms of attack.
 
-任何个人都可能在任何时候受到影响，因此所有参与者必须在沟通和决策中保持一种永远怀疑的观点，判断 _，而不是个人和声誉。 否则就是集中决策的关键失败之一，集中决策可能是权宜之计，但却很脆弱，因为当决策是基于权力而不是仅仅基于功绩时，它允许可怕的决定不仅仅是偶尔发生，而是继续不受检查，被加倍追究，并像滚雪球一样失去控制。
+Any individual could become compromised at any point, so all participants must maintain an ever-skeptical perspective in communications and decision-making, judging _ideas_ rather than individuals and reputations. To do otherwise is to make one of the key failures of centralized decision-making, which may be expedient, but is fragile, as when decisions are made based on authority rather than merit alone, it allows terrible decisions not just to occur occasionally, but continue unchecked, double-downed on, and snowball out of control.
 
-由于这个原因， _毒性的概念_ ，作为对抗性加密货币社会空间的一般方法，仍然是一个公开的辩论，并被一些人认为是合法的，坦率的，尽管是不光彩的策略，以导航讨论。 有些人认为毒性是一种免疫反应，它能淘汰某些类型的依靠民粹主义来推进特定提案的口若悬河的坏演员。 毒性并不兼容所有的个性，Ethereum Classic 也有相当一部分有毒和无毒的参与者。 请注意，在大多数情况下，加密货币领域的磨蹭不是针对个人的，相反，是关于默认为纯粹的基于想法而不是基于个性的讨论。
+For this reason the concept of *toxicity* as a general approach to the adversarial cryptocurrency social space remains an open debate and is considered by some to be a legitimate, frank, albeit unsavory strategy for navigating discussions. Some consider toxicity a form of immune response that weeds out certain types of smooth-talking bad actors who rely on populism to forward a particular proposal. Toxicity is not compatible with all personalities, and the Ethereum Classic has its fair share of both toxic and non-toxic participants. Be advised that in most cases, abrasiveness in the cryptocurrency space is not personal, but on the contrary, about defaulting to a purely idea-based rather than personality-based discussion.
 
 ---
 
-接下来，让我们仔细看看 Ethereum Classic 由于受到比特币的启发而采用的一些实际的技术实现细节；健全的货币和工作证明。
+Next, let's take a closer look at some practical technical implementation details that Ethereum Classic has adopted thanks to inspiration from Bitcoin; Sound Money, and Proof of Work.
