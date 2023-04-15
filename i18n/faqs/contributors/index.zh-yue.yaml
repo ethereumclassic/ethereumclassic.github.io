@@ -1,0 +1,43 @@
+title: 貢獻者常見問題解答
+seo: 那些希望加入 ETC 社區並為 Ethereum Classic 做出貢獻的人的常見問題解答。
+info: 在這裡找不到問題的答案？嘗試在 ETC 社區 [discord](https://ethereumclassic.org/discord) 服務器中詢問。
+description: 如果您想了解如何參與 Ethereum Classic 社區，那麼您來對地方了。
+items:
+  questions:
+    items:
+      developer:
+        question: 我需要成為開發人員才能為 Ethereum Classic 做出貢獻嗎？
+        answer: 一點也不。雖然開發人員在構建基礎設施方面提供了關鍵價值，但可以說非開發人員扮演著更重要的角色。無論您的才華如何，您都可以通過其他方式提供幫助，例如通過協調和幫助傳播 Ethereum Classic 的信息，進而招募更多的開發人員和其他招聘人員。
+      channels:
+        question: 我怎樣才能加入 ETC 社區？
+        answer: 您無需請求許可即可加入。剛開始貢獻！
+      tasks:
+        question: 我可以幫助完成哪些任務？
+        answer: '[Ethereum Classic Volunteer GitHub 存儲庫](https://github.com/ethereumclassic/volunteer) 中維護了項目需要您幫助的事項列表。'
+      where:
+        question: Ethereum Classic 的支持者大多在哪裡閒逛？
+        answer: 講英語的 ETC 社區主要活躍於 [Discord](https://ethereumclassic.org/discord)。您可以在 [社交頻道](/community/channels) 部分找到其他社區論壇，包括其他語言的論壇。
+      ecips:
+        question: 我如何建議改進 Ethereum Classic？
+        answer: 要建議協議升級，您可以使用 [Ethereum Classic 改進提案](/development/ecips) 流程，但值得首先在 ETC [社交渠道](/community/channels) 之一中與其他社區成員集思廣益。
+      toxicity:
+        question: 聽說ETC社區有毒。真的嗎？
+        answer: |
+          因為沒有人需要許可才能成為 ETC 社區的一員，所以它吸引了各種各樣的角色，從非常友善到有時更令人討厭。此外，更廣泛的加密貨幣領域的許多 ETCer 和參與者都是偽匿名的，因此過濾器較少。不要以一個人的態度代表整個社區，也請不要因此而放棄貢獻。
+
+          如果您喜歡更溫和的對話，請嘗試 [ETC Coop Discord](https://discord.gg/5wDyd6u6pU)，它對交流中的禮貌實施了更嚴格的規則。
+      events:
+        question: 有任何以太坊經典活動嗎？
+        answer: 是的，舉行年度會議、每週社區電話會議和不定期的開發人員電話會議。您可以在 [events](/community/events) 部分找到有關現在、過去和未來事件的更多信息。
+      website:
+        question: 如何將我的應用程序、視頻或文章添加到該網站？
+        answer: 請查看本網站的 [GitHub 存儲庫](https://github.com/ethereumclassic/ethereumclassic.github.io) 以獲取說明。
+      tweets:
+        question: 我如何推薦推文？
+        answer: '[@eth_classic](https://github.com/ethereumclassic/tweets-eth_classic) 和 [@ETC_Network](https://github.com/ethereumclassic/tweets-etc_network) Twitter 帳戶接受社區建議的推文。只需使用主題標籤“#ETCtweets”發布您建議的推文，社區就會在“#ETCtweets”Discord 線程中對其進行審核。'
+      grants:
+        question: 我可以通過為 Ethereum Classic 做貢獻而獲得報酬嗎？
+        answer: |
+          付款的主要方式是通過溫暖模糊的幸福感，知道您通過幫助一項重要技術為人類的未來做出貢獻。
+
+          除此之外，您還應該通過關注社區內的對話來關注偶爾的贈款計劃。
