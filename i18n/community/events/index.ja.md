@@ -6,11 +6,14 @@ seo: 現実世界と仮想世界のイーサリアムクラシック関連イベ
 contributors:
   - IstoraMandiri
   - bobsummerwill
+  - TheCrowbill
 ---
 
 魔法は人々が集まり、アイデアを共有することで生まれます。 ETCコミュニティの参加者は、自発的に現実とオンラインの集まりを形成し、Ethereum Classicの改善に注意を集中させています。
 
 ## コミュニティ・コール
+
+UPDATE:  Regular, weekly Community Calls are currently on hiatus.
 
 毎週木曜日、通常UTC 1500に、Ethereum Classic [Discord](https://ethereumclassic.org/discord) サーバーでグループボイスチャットが行われます。 [](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos)また、ライブ中継の1時間前、1400UTCからグリーンルームでオフレコチャットに参加することも可能です。
 
