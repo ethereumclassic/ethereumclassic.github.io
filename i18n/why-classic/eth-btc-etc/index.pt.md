@@ -2,90 +2,90 @@
 title: ETH + BTC = ETC
 updated: 2022-02-22
 disclaimer: opinion
-seo: By combining the technology of Ethereum with the philosophy and security of Bitcoin, Ethereum Classic stands alone in being able to provide a truly decentralized Smart Contract Platform.
+seo: Ao combinar a tecnologia do Ethereum com a filosofia e segurança do Bitcoin, o Ethereum Classic é o único capaz de fornecer uma plataforma de contrato inteligente verdadeiramente descentralizada.
 ---
 
-## Key Points
+## Pontos chave
 
-- Ethereum Classic, existing in response to problems enabled by centralization, quickly realized and adopted the genius of Bitcoin's decentralist design decisions.
-- Like ETH, ETC is a Turing Complete Smart Contract Platform.
-- Like BTC, ETC has a miraculous origin, which is impossible to recreate.
-- Like BTC, ETC has "no official anything", preventing "official" capture.
-- Like BTC, ETC aims to provide a reliable secure base layer and does so by upgrading the protocol conservatively.
-- Like BTC, ETC requires constant skepticism in community interactions.
+- O Ethereum Classic, existindo em resposta aos problemas possibilitados pela centralização, rapidamente percebeu e adotou a genialidade das decisões de design descentralizador do Bitcoin.
+- Como o ETH, o ETC é uma plataforma de contrato inteligente completa da Turing.
+- Como o BTC, o ETC tem uma origem milagrosa, impossível de recriar.
+- Como o BTC, o ETC não tem "nada oficial", impedindo a captura "oficial".
+- Como o BTC, o ETC visa fornecer uma camada de base segura e confiável e o faz atualizando o protocolo de forma conservadora.
+- Como o BTC, o ETC requer ceticismo constante nas interações da comunidade.
 
-## Introduction
+## Introdução
 
-For those already somewhat familiar with the cryptocurrency ecosystem, a quite simple heuristic exists that cuts to the chase of what Ethereum Classic is attempting to achieve.
+Para aqueles que já estão um pouco familiarizados com o ecossistema de criptomoedas, existe uma heurística bastante simples que vai direto ao ponto do que o Ethereum Classic está tentando alcançar.
 
-> Ethereum Classic takes the philosophy of Bitcoin and applies it to the technology of Ethereum
+> Ethereum Classic pega a filosofia do Bitcoin e a aplica à tecnologia do Ethereum
 > 
-> - The CEO of Ethereum Classic, if one existed
+> - O CEO da Ethereum Classic, se existisse
 
 ![ETH + BTC = ETC](./ethbtcetc.png)
 
-Many of those involved with Ethereum before the DAO Hack were under the impression that Ethereum was hoping to do precisely this: be built on top of the well-established core ideas that Bitcoin provided but add on additional functionality in the form of a Turing Complete Smart Contract Platform.
+Muitos dos envolvidos com o Ethereum antes do DAO Hack tinham a impressão de que o Ethereum esperava fazer exatamente isso: ser construído sobre as ideias centrais bem estabelecidas que o Bitcoin fornecia, mas adicionar funcionalidades adicionais na forma de um Turing Complete Smart Plataforma de Contratos.
 
-But as The DAO Hack showed, this was not the case. What is now known as Ethereum™ has very little to do with the decentralist values that Bitcoin was created to embody.
+Mas, como o DAO Hack mostrou, esse não era o caso. O que agora é conhecido como Ethereum™ tem muito pouco a ver com os valores descentralistas que o Bitcoin foi criado para incorporar.
 
-The decision for The Ethereum Foundation to abandon the decentralist values that were used to entice contributions was unfortunate but created a vacuum that ultimately further refined the meaning and importance of those values and birthed a project whose mission was to continue that _Original Ethereum Vision_.
+A decisão da The Ethereum Foundation de abandonar os valores descentralizados que foram usados para atrair contribuições foi infeliz, mas criou um vácuo que acabou refinando ainda mais o significado e a importância desses valores e deu origem a um projeto cuja missão era continuar essa _Visão Original Ethereum_.
 
-Ethereum Classic, even more so than Bitcoin itself, exists as an explicit reminder about the importance of decentralist values. There were many who didn't understand their significance at the time, but many others saw the truth that decentralization was the very point, not just an annoying obstacle to overcome.
+O Ethereum Classic, ainda mais que o próprio Bitcoin, existe como um lembrete explícito sobre a importância dos valores descentralizados. Muitos não entenderam seu significado na época, mas muitos outros viram a verdade de que a descentralização era o objetivo, não apenas um obstáculo irritante a ser superado.
 
-Since the chain split, the design choices and philosophy of Ethereum Classic have come to recognize the genius decisions made when constructing the original Bitcoin protocol. As much as possible, ETC emulates this success in the pursuit of decentralism and the real world achievements that followed.
+Desde a divisão da cadeia, as escolhas de design e a filosofia do Ethereum Classic passaram a reconhecer as decisões geniais tomadas ao construir o protocolo Bitcoin original. Tanto quanto possível, a ETC emula esse sucesso na busca do descentralismo e nas conquistas do mundo real que se seguiram.
 
-## Immaculate Conception 2.0
+## Imaculada Conceição 2.0
 
-Much like Bitcoin, Ethereum Classic can be considered a divine entity due to the circumstances of its miraculous origin.
+Assim como o Bitcoin, o Ethereum Classic pode ser considerado uma entidade divina devido às circunstâncias de sua origem milagrosa.
 
-As explored [earlier](/why-classic/genesis#the-immaculate-conception), Ethereum Classic's creation story is almost certainly impossible to recreate or happen by accident ever again. Not only were the events leading up to its birth extremely improbable, but ETC's very existence now serves as a warning to other projects, which are likely to avoid similar controversial hard forks, or at least only do them while mitigating the possibility of a chain split.
+Conforme explorado [anteriormente](/why-classic/genesis#the-immaculate-conception), a história da criação do Ethereum Classic é quase certamente impossível de recriar ou acontecer por acidente novamente. Não apenas os eventos que levaram ao seu nascimento eram extremamente improváveis, mas a própria existência da ETC agora serve como um aviso para outros projetos, que provavelmente evitarão hard forks controversos semelhantes, ou pelo menos apenas os farão enquanto mitigam a possibilidade de uma divisão da cadeia. .
 
-> There were no markets and therefore no monetary value, and with this, it has not corrupted by the profit incentive from inception.  
+> Não havia mercados e, portanto, nenhum valor monetário e, com isso, não foi corrompido pelo incentivo ao lucro desde o início.  
 > ...  
-> This is not the case with other coins [ed: except ETC]; all launched with founders looking to profit, having backing from investors who are looking for bit exits and naturally retail foaming at the mouth looking to flip their positions too.
+> Este não é o caso com outras moedas [ed: exceto ETC]; todos lançados com fundadores que buscam lucrar, tendo o apoio de investidores que estão procurando por pequenas saídas e, naturalmente, espumando pela boca procurando mudar suas posições também.
 > 
-> - [The Bitcoin Manual, Why There Won't Be A Next Bitcoin](https://thebitcoinmanual.com/articles/why-there-wont-be-a-next-bitcoin/)
+> - [O manual do Bitcoin, por que não haverá um próximo Bitcoin](https://thebitcoinmanual.com/articles/why-there-wont-be-a-next-bitcoin/)
 
-In some ways, Ethereum Classic's conception is even more "immaculate" than Bitcoin's; it was not planned at all, by anyone, and unlike Bitcoin, Ethereum Classic has no Satoshi, meaning that there is no Satoshi to return and influence decision-making, which is theoretically possible in Bitcoin.
+De certa forma, a concepção do Ethereum Classic é ainda mais "imaculada" do que a do Bitcoin; não foi planejado de forma alguma, por ninguém, e ao contrário do Bitcoin, o Ethereum Classic não tem Satoshi, o que significa que não há Satoshi para retornar e influenciar a tomada de decisões, o que é teoricamente possível no Bitcoin.
 
-Ethereum Classic is also the only blockchain project seeded with a follower base that was 100% focused on the principles of decentralism. Despite the risks, they went against the official Ethereum™ project, self-selecting specifically because of their reaction to The DAO incident and the abuses enabled by centralization.
+O Ethereum Classic também é o único projeto blockchain semeado com uma base de seguidores 100% focada nos princípios de descentralização. Apesar dos riscos, eles foram contra o projeto oficial Ethereum™, se auto-selecionando especificamente por causa de sua reação ao incidente do DAO e os abusos possibilitados pela centralização.
 
-## No Official Anything
+## nada oficial
 
-Like Bitcoin, Ethereum Classic has no official developers, maintainers, or leaders. It has no official logo, no official website, no official conferences. Ethereum Classic cannot have an official _anything_ because no individual or group has the authority to claim they represent ETC in any official capacity.
+Como o Bitcoin, o Ethereum Classic não possui desenvolvedores, mantenedores ou líderes oficiais. Não tem logotipo oficial, site oficial, conferências oficiais. O Ethereum Classic não pode ter um oficial _nada_ porque nenhum indivíduo ou grupo tem autoridade para reivindicar que representa a ETC em qualquer capacidade oficial.
 
-This is a rare quality and massive strength in the world of blockchains. It means no official _thing_ can be taken down, captured, or compromised, and there is no official entity that can sue competing forks for copyright infringement.
+Esta é uma qualidade rara e uma força enorme no mundo das blockchains. Isso significa que nenhuma _coisa_ oficial pode ser retirada, capturada ou comprometida, e não há nenhuma entidade oficial que possa processar forks concorrentes por violação de direitos autorais.
 
-_No official anything_ is the source of much of the strength of the Ethereum Classic project, but it also has drawbacks as there is no central source of truth to coordinate from. Instead, a "do-ocracy" exists where anyone can contribute and based on what is done, picked up, and used, those contributions become part of Ethereum Classic. This makes it a unique project and attractive to contributors as literally nothing can stop _you_ from being as close to official as anyone else.
+_Nenhum oficial nada_ é a fonte de grande parte da força do projeto Ethereum Classic, mas também tem desvantagens, pois não há uma fonte central de verdade para coordenar. Em vez disso, existe uma "do-ocracy" onde qualquer um pode contribuir e com base no que é feito, coletado e usado, essas contribuições se tornam parte do Ethereum Classic. Isso o torna um projeto único e atraente para os contribuidores, já que literalmente nada pode impedir _you_ de ser tão próximo do oficial quanto qualquer outro.
 
-## Secure Base Layer
+## Camada Base Segura
 
-The view of many within the Ethereum Classic community is that the aforementioned [Blockchain Trilemma](/why-classic/decentralism#the-blockchain-trilemma) is insurmountable, at least on the base later. For this reason, Ethereum Classic's current roadmap does not include the more exotic "solutions" that will be attempted by Ethereum™.
+A visão de muitos dentro da comunidade Ethereum Classic é que o já mencionado [Blockchain Trilemma](/why-classic/decentralism#the-blockchain-trilemma) é intransponível, pelo menos na base mais tarde. Por esse motivo, o roteiro atual do Ethereum Classic não inclui as "soluções" mais exóticas que serão tentadas pelo Ethereum™.
 
-Essentially, there is no known _one size fits all_ approach to scaling throughput that can be applied on the base layer without compromising an important security assumption, so for ETC as a protocol, barring some significant technological advancement, it is best left up to applications or secondary protocols to provide various different trade-offs and implement optimizations depending on the use case, giving users the choice of which to adopt.
+Essencialmente, não existe uma abordagem conhecida de _tamanho único para todos_ para dimensionar a taxa de transferência que pode ser aplicada na camada base sem comprometer uma importante suposição de segurança; portanto, para o ETC como um protocolo, exceto por algum avanço tecnológico significativo, é melhor deixar para aplicativos ou protocolos secundários para fornecer várias compensações diferentes e implementar otimizações dependendo do caso de uso, dando aos usuários a escolha de qual adotar.
 
-Many in the Ethereum Classic community are also wary of attempts to increase the block size, due to the adverse effects that are likely to appear down the road in terms of "bloat" and the increased _time to sync_ and hardware requirements, which, if left unchecked, may make it difficult to run an Ethereum Classic node, leading to centralization. Some argue the block gas limit should be reduced further, while others look towards _Zero Knowledge Proof_ technologies that can reduce the amount of data needed to be stored on chain.
+Muitos na comunidade Ethereum Classic também desconfiam das tentativas de aumentar o tamanho do bloco, devido aos efeitos adversos que provavelmente aparecerão no futuro em termos de "inchaço" e o aumento _tempo para sincronizar_ e requisitos de hardware, que, se não for verificado, pode dificultar a execução de um nó Ethereum Classic, levando à centralização. Alguns argumentam que o limite de gás do bloco deve ser reduzido ainda mais, enquanto outros buscam tecnologias _Zero Knowledge Proof_ que podem reduzir a quantidade de dados necessários para serem armazenados na cadeia.
 
-There is general agreement that a layered approach to scaling blockchains can increase throughput while satisfying the _Blockchain Trilemma_ in a way that does not mess with the base layer. Individuals can safely experiment with different L2 systems without affecting L1, and can fine-tune the various trade-offs depending on the application and user requirements.
+Há um consenso geral de que uma abordagem em camadas para escalar blockchains pode aumentar a taxa de transferência enquanto satisfaz o _Blockchain Trilemma_ de uma maneira que não mexe com a camada base. Os indivíduos podem experimentar com segurança diferentes sistemas L2 sem afetar o L1 e podem ajustar as várias compensações, dependendo da aplicação e dos requisitos do usuário.
 
-## KISS Slowly
+## Beije lentamente
 
-The base layer needs to be secure in several ways; both technologically with fewer bugs and socioeconomically secure against various forms of attack.
+A camada de base precisa ser segura de várias maneiras; tanto tecnologicamente com menos bugs quanto socioeconomicamente seguro contra várias formas de ataque.
 
-Because single points of failure can exist in many areas and are often hidden, all things being equal, it is easier to maintain decentralization in systems that are _less complex_. Additional complexity creates not just more technical bugs and exploits, but also potential central points of failure, in unforeseen game-theory quandaries and in the form of higher upkeep requirements leading to a reduced pool of developers able to contribute to maintenance. If a system is too complex for anyone to reason with, it may as well be captured by its authors, who have sole authority on how it should be operated, maintained, and upgraded.
+Como pontos únicos de falha podem existir em muitas áreas e muitas vezes estão ocultos, tudo sendo igual, é mais fácil manter a descentralização em sistemas que são _menos complexos_. A complexidade adicional cria não apenas mais bugs e exploits técnicos, mas também pontos centrais potenciais de falha, em dilemas imprevistos da teoria dos jogos e na forma de requisitos de manutenção mais altos, levando a um grupo reduzido de desenvolvedores capazes de contribuir com a manutenção. Se um sistema for muito complexo para qualquer pessoa raciocinar, ele também pode ser capturado por seus autores, que têm autoridade exclusiva sobre como ele deve ser operado, mantido e atualizado.
 
-Bitcoin, as with ETC, positions itself as the "good old reliable" system that does not need to innovate quickly, but instead, do so slowly and methodically without breaking it's previously established guarantees. This is achieved through a conservative approach to protocol upgrades, a "Move Slowly and Don't Break Things" ethos, and the delivery of innovation in layers, rather than attempting to implement radical changes to the base protocol.
+O Bitcoin, assim como a ETC, se posiciona como o "bom e velho sistema confiável" que não precisa inovar rapidamente, mas sim de forma lenta e metódica, sem quebrar as garantias previamente estabelecidas. Isso é alcançado por meio de uma abordagem conservadora para atualizações de protocolo, um ethos "Mova-se devagar e não quebre as coisas" e a entrega de inovação em camadas, em vez de tentar implementar mudanças radicais no protocolo básico.
 
-Like Bitcoin, this approach does not preclude innovation. Instead, it simply demands a careful and methodical [approach](/knowledge/future#upgrade-process) to protocol upgrades.
+Como o Bitcoin, essa abordagem não impede a inovação. Em vez disso, ele simplesmente exige uma abordagem [cuidadosa e metódica](/knowledge/future#upgrade-process) para atualizações de protocolo.
 
-## Don't Trust, Verify
+## Não confie, verifique
 
-One of the hallmarks of genuinely decentralized projects is that a healthy level of distrust exists amongst participants in the social layer. While this may sound counter-intuitive, it is what secures the social layer against many forms of attack.
+Uma das marcas de projetos genuinamente descentralizados é que existe um nível saudável de desconfiança entre os participantes da camada social. Embora isso possa parecer contra-intuitivo, é o que protege a camada social contra muitas formas de ataque.
 
-Any individual could become compromised at any point, so all participants must maintain an ever-skeptical perspective in communications and decision-making, judging _ideas_ rather than individuals and reputations. To do otherwise is to make one of the key failures of centralized decision-making, which may be expedient, but is fragile, as when decisions are made based on authority rather than merit alone, it allows terrible decisions not just to occur occasionally, but continue unchecked, double-downed on, and snowball out of control.
+Qualquer indivíduo pode ficar comprometido a qualquer momento, então todos os participantes devem manter uma perspectiva sempre cética nas comunicações e na tomada de decisões, julgando _ideias_ em vez de indivíduos e reputações. Fazer o contrário é cometer uma das principais falhas da tomada de decisão centralizada, que pode ser conveniente, mas é frágil, pois quando as decisões são tomadas com base na autoridade e não apenas no mérito, isso permite que decisões terríveis não ocorram apenas ocasionalmente, mas continue desmarcado, dobrado e bola de neve fora de controle.
 
-For this reason the concept of *toxicity* as a general approach to the adversarial cryptocurrency social space remains an open debate and is considered by some to be a legitimate, frank, albeit unsavory strategy for navigating discussions. Some consider toxicity a form of immune response that weeds out certain types of smooth-talking bad actors who rely on populism to forward a particular proposal. Toxicity is not compatible with all personalities, and the Ethereum Classic has its fair share of both toxic and non-toxic participants. Be advised that in most cases, abrasiveness in the cryptocurrency space is not personal, but on the contrary, about defaulting to a purely idea-based rather than personality-based discussion.
+Por esta razão, o conceito de *toxicidade* como uma abordagem geral para o espaço social adversário da criptomoeda permanece um debate aberto e é considerado por alguns como uma estratégia legítima, franca, embora desagradável para navegar nas discussões. Alguns consideram a toxicidade uma forma de resposta imune que elimina certos tipos de malfeitores de fala mansa que dependem do populismo para encaminhar uma proposta específica. A toxicidade não é compatível com todas as personalidades, e o Ethereum Classic tem seu quinhão de participantes tóxicos e não tóxicos. Esteja ciente de que, na maioria dos casos, a abrasividade no espaço da criptomoeda não é pessoal, mas, ao contrário, sobre o padrão de uma discussão puramente baseada em ideias, em vez de baseada em personalidade.
 
 ---
 
-Next, let's take a closer look at some practical technical implementation details that Ethereum Classic has adopted thanks to inspiration from Bitcoin; Sound Money, and Proof of Work.
+A seguir, vamos dar uma olhada em alguns detalhes práticos de implementação técnica que o Ethereum Classic adotou graças à inspiração do Bitcoin; Dinheiro Seguro e Prova de Trabalho.
