@@ -25,10 +25,22 @@ items:
           Pogledajte odjeljak [vodiči za razvoj](/guides/development), kao i odjeljak [development](/development) za vodiče i alate koji će vam pomoći u implementaciji na Classic.
       deployment:
         question: Kako mogu implementirati na Ethereum Classic blockchain?
+        answer: |
+          Prvo nabavite malo ETC-a da platite plin za implementaciju svog ugovora, a zatim jednostavno osigurajte implementaciju na Ethereum Classic mreži (Chain ID 61), umjesto na Ethereum mreži (Chain ID 1).
       rpc:
         question: Postoje li javne RPC krajnje točke koje mogu koristiti za implementaciju na ETC?
+        answer: |
+          Da. Ako ne želite pokrenuti, sinkronizirati i održavati vlastiti Ethereum Classic čvor, postoji niz dostupnih javnih krajnjih točaka koje su besplatne za korištenje.
+
+          Provjerite odjeljak [RPC krajnje točke](/network/endpoints), kao i [ChainList.org](https://chainlist.org/chain/61).
       grants:
         question: Mogu li dobiti sredstva za izgradnju na Ethereum Classic?
+        answer: |
+          Da. Postoji niz prošlih i sadašnjih programa za poticanje razvoja ETC-a.
+
+          Nedavni primjer je [ETC Grants DAO](https://etcgrantsdao.io), koji je pokrenuo program bespovratnih sredstava za ETC 2023.
+
+          Budući da Ethereum Classic nema centraliziranu riznicu, svi doprinosi projektu financiraju se izvana. To uključuje suradnike koji doniraju svoje vrijeme i financijske poticaje od financiranja trećih strana.
       ecips:
         question: Kako mogu pomoći u razvoju Ethereum Classic protokola?
         answer: |
