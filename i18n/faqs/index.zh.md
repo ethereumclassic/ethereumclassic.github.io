@@ -1,8 +1,8 @@
 ---
-title: Frequently Asked Questions
-seo: Quick answers to common questions about Ethereum Classic.
+title: 常见问题
+seo: 关于Ethereum Classic的常见问题的快速解答。
 ---
 
-Looking for quick answers to common questions about Ethereum Classic? You are in the right place. If you can't find an answer in this section, please join us on [Discord](https://ethereumclassic.org/discord), where community members can help you with your question.
+寻找关于Ethereum Classic的常见问题的快速答案？ 你是在正确的地方。 如果你在本节中找不到答案，请加入我们 [Discord](https://ethereumclassic.org/discord)，社区成员可以帮助你解决你的问题。
 
-### To begin, select your use case
+### 要开始，请选择你的用例
