@@ -1,8 +1,8 @@
 ---
-title: Frequently Asked Questions
-seo: Quick answers to common questions about Ethereum Classic.
+title: perguntas frequentes
+seo: Respostas rápidas para perguntas comuns sobre o Ethereum Classic.
 ---
 
-Looking for quick answers to common questions about Ethereum Classic? You are in the right place. If you can't find an answer in this section, please join us on [Discord](https://ethereumclassic.org/discord), where community members can help you with your question.
+Procurando respostas rápidas para perguntas comuns sobre o Ethereum Classic? Você está no lugar certo. Se você não conseguir encontrar uma resposta nesta seção, junte-se a nós em [Discord](https://ethereumclassic.org/discord), onde os membros da comunidade podem ajudá-lo com sua pergunta.
 
-### To begin, select your use case
+### Para começar, selecione seu caso de uso
