@@ -1,125 +1,125 @@
 ---
-title: Using MetaMask with ETC
+title: Usando MetaMask com ETC
 date: 2021-03-02
 updated: 2022-07-05
 author: Donald McIntyre, Etherplan
-seo: A step-by-step guide covering how to use MetaMask with Ethereum Classic to send ETC and interact with decentralized applications.
-info: This article was [created by Etherplan](https://etherplan.com/2021/03/02/how-to-connect-metamask-to-ethereum-classic/15512/). For more Ethereum Classic tutorials, theory, and cryptocurrency concepts, please check out [etherplan.com](https://etherplan.com).
+seo: Um guia passo a passo sobre como usar o MetaMask com Ethereum Classic para enviar ETC e interagir com aplicativos descentralizados.
+info: Este artigo foi [criado por Etherplan](https://etherplan.com/2021/03/02/how-to-connect-metamask-to-ethereum-classic/15512/). Para mais tutoriais, teoria e conceitos de criptomoeda do Ethereum Classic, confira [etherplan.com](https://etherplan.com).
 contributors:
   - DonaldMcIntyre
 ---
 
-**⚠️ Update**  
-You can now easily add ETC to MetaMask by clicking "Connect-Wallet" on https://chainlist.org/chain/61
+**⚠️ Atualização**  
+Agora você pode adicionar facilmente ETC ao MetaMask clicando em "Connect-Wallet" em https://chainlist.org/chain/61
 
-You can also find this link at the bottom of every page on this website.
+Você também pode encontrar este link na parte inferior de todas as páginas deste site.
 
 ---
 
-[MetaMask](https://metamask.io) can be used as a wallet to manage your ETC and Tokens, as well as interact with applications that support it. This post explains how to start using MetaMask with the Ethereum Classic (ETC) network.
+[MetaMask](https://metamask.io) pode ser usado como uma carteira para gerenciar seu ETC e Tokens, bem como interagir com aplicativos que o suportam. Este post explica como começar a usar o MetaMask com a rede Ethereum Classic (ETC).
 
-You may also consider [Nifty Wallet](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid?ucbcb=1), a fork of MetaMask that supports ETC out of the box.
+Você também pode considerar [Nifty Wallet](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid?ucbcb=1), um fork do MetaMask que suporta ETC pronto para uso.
 
-## Step 1: Log Into MetaMask
+## Etapa 1: faça login no MetaMask
 
-The first step is to log in to unlock your MetaMask.
+O primeiro passo é fazer login para desbloquear sua MetaMask.
 
-![Step 1](./01.png)
+![Passo 1](./01.png)
 
-## Step 2: View Initial Screen
+## Passo 2: Visualize a Tela Inicial
 
-You will see your normal initial screen. In this case the default network is Ethereum (ETH) and your account will be shown as usual. As you use other networks, they will show as the default when you unlock your MetaMask if they were the last ones used.
+Você verá sua tela inicial normal. Neste caso, a rede padrão é Ethereum (ETH) e sua conta será exibida normalmente. À medida que você usa outras redes, elas aparecerão como padrão quando você desbloquear sua MetaMask, caso tenham sido as últimas usadas.
 
-In my case, it shows Ethereum as the initial network, and I have a zero balance in my ETH account `0x48c1...EfF3`.
+No meu caso, mostra Ethereum como a rede inicial e tenho saldo zero na minha conta ETH `0x48c1...EfF3`.
 
-![Step 2](./02.png)
+![Passo 2](./02.png)
 
-## Step 3: Open the Networks Dropdown Menu
+## Etapa 3: abra o menu suspenso de redes
 
-The next step is to open the networks dropdown menu. You can do this by clicking on the bar where you see the default network.
+O próximo passo é abrir o menu suspenso de redes. Você pode fazer isso clicando na barra onde você vê a rede padrão.
 
-As it may be seen above, the default list of networks is the Ethereum mainnet and its most popular testnets.
+Como pode ser visto acima, a lista padrão de redes é a mainnet Ethereum e suas testnets mais populares.
 
-The “Local Host 8545” would be a connection to an Ethereum node if you were running one in your machine.
+O “Local Host 8545” seria uma conexão com um nó Ethereum se você estivesse executando um em sua máquina.
 
-“Custom RPC” is the option to add custom networks, in this case ETC.
+“Custom RPC” é a opção de adicionar redes customizadas, neste caso ETC.
 
-“RPC” stands for “remote procedure call”, which is the term for the protocol machines use for programs to call other programs in remote machines.
+“RPC” significa “chamada de procedimento remoto”, que é o termo para as máquinas de protocolo usadas para programas para chamar outros programas em máquinas remotas.
 
-![Step 3](./03.png)
+![etapa 3](./03.png)
 
-## Step 4: Select Custom RPC
+## Etapa 4: selecione RPC personalizado
 
-So, the next step is to click on “Custom RPC”.
+Então, o próximo passo é clicar em “Custom RPC”.
 
-![Step 4](./04.png)
+![Passo 4](./04.png)
 
-## Step 5: View the New Network Form
+## Etapa 5: visualizar o novo formulário de rede
 
-After selecting “Custom RPC” you will see the form to add a network. It has a security message at the top and five options with empty fields to enter the new network you want to use:
+Depois de selecionar “Custom RPC” você verá o formulário para adicionar uma rede. Possui uma mensagem de segurança na parte superior e cinco opções com campos vazios para inserir a nova rede que deseja utilizar:
 
-- Network Name: The name of the network you want to add.
-- New RPC URL: A URL for the network RPC you want to add.
-- Chain ID: The ID to send and direct transactions to the network you want to add.
-- Currency Symbol (optional): The currency symbol of the network you want to add. For example, “ETH” is the symbol for Ethereum, and “ETC” is the symbol for Ethereum Classic.
-- Block Explorer URL (optional): MetaMask has links to blockchain explorers per network to check account history, new transactions sent, and balances on them, so here you would add a block explorer for the network you want to add.
+- Nome da Rede: O nome da rede que você deseja adicionar.
+- Nova URL RPC: uma URL para a rede RPC que você deseja adicionar.
+- Chain ID: O ID para enviar e direcionar as transações para a rede que você deseja adicionar.
+- Símbolo da moeda (opcional): O símbolo da moeda da rede que você deseja adicionar. Por exemplo, “ETH” é o símbolo do Ethereum e “ETC” é o símbolo do Ethereum Classic.
+- URL do Block Explorer (opcional): MetaMask tem links para blockchain explorers por rede para verificar o histórico da conta, novas transações enviadas e saldos nelas, então aqui você adicionaria um block explorer para a rede que deseja adicionar.
 
-![Step 5](./05.png)
+![Passo 5](./05.png)
 
-## Step 6: Enter the Ethereum Classic Network Information
+## Etapa 6: insira as informações da rede Ethereum Classic
 
-The next step, is to add Ethereum Classic’s specific information. Below is the network data I used:
+O próximo passo é adicionar as informações específicas do Ethereum Classic. Abaixo estão os dados de rede que usei:
 
-- Network Name: `Ethereum Classic`
-- New RPC URL: `https://etc.rivet.link`
-- Chain ID: `61`
-- Currency Symbol (optional): `ETC`
-- Block Explorer URL (optional): `https://blockscout.com/etc/mainnet/`
+- Nome da rede: `Ethereum Classic`
+- Nova URL RPC: `https://etc.rivet.link`
+- ID da cadeia: `61`
+- Símbolo da moeda (opcional): `ETC`
+- URL do Block Explorer (opcional): `https://blockscout.com/etc/mainnet/`
 
-For the “RPC URL” I used the endpoint provided for this purpose by a firm called [Rivet](https://rivet.link/), contracted by the [ETC Cooperative](https://etccooperative.org) for this purpose. You can find more RPC Endpoints in the [network](/network/endpoints) section.
+Para a “URL RPC” utilizei o endpoint disponibilizado para este fim por uma empresa chamada [Rivet](https://rivet.link/), contratada pela [ETC Cooperativa](https://etccooperative.org) para este fim. Você pode encontrar mais RPC Endpoints na seção [rede](/network/endpoints).
 
-The “Chain ID” must be “61” because that is the specific ID of the Ethereum Classic network for sending ETC transactions by wallets and nodes to the operating blockchain.
+O “Chain ID” deve ser “61” porque esse é o ID específico da rede Ethereum Classic para enviar transações ETC por carteiras e nós para o blockchain operacional.
 
-Although the “symbol” and “block explorer URL” are optional, I recommend using “ETC” as the symbol because that is the widely known market symbol of the network, and BlockScout as the blockchain explorer because that is the one I usually use (but you can add your preferred one!).
+Embora o “símbolo” e o “URL do explorador de blocos” sejam opcionais, recomendo usar “ETC” como símbolo, porque esse é o símbolo de mercado amplamente conhecido da rede, e BlockScout como o explorador de blockchain porque é o que eu costumo usar ( mas você pode adicionar o seu preferido!).
 
-Click “save” to add ETC to MetaMask.
+Clique em “salvar” para adicionar ETC ao MetaMask.
 
-![Step 6](./06-rivet.png)
+![Passo 6](./06-rivet.png)
 
-## Step 7: View Ethereum Classic in the Networks Dropdown Menu
+## Etapa 7: visualize o Ethereum Classic no menu suspenso de redes
 
-Once ETC is added, you will see in the networks dropdown menu that it is added to the list of networks.
+Depois que o ETC for adicionado, você verá no menu suspenso de redes que ele foi adicionado à lista de redes.
 
-![Step 7](./07.png)
+![Passo 7](./07.png)
 
-## Step 8: You May View Your Same Account but on ETC
+## Etapa 8: você pode visualizar sua mesma conta, mas no ETC
 
-If you go to your account, you will notice that it is the same as your ETH account. In my case, it is the same `0x48c1...EfF3` account.
+Se você acessar sua conta, notará que é igual à sua conta ETH. No meu caso, é a mesma conta `0x48c1...EfF3`.
 
-This is because both ETH and ETC use the same account format, so accounts on Ethereum may also be used in Ethereum Classic.
+Isso ocorre porque tanto o ETH quanto o ETC usam o mesmo formato de conta, portanto, as contas no Ethereum também podem ser usadas no Ethereum Classic.
 
-In fact, you may remember that I had a zero balance in my ETH account, but now a balance of 1 ETC may be seen in the same account, but on Ethereum Classic. This is because I sent 1 ETC to this account in the Ethereum Classic network for this demonstration.
+Na verdade, você deve se lembrar que eu tinha um saldo zero na minha conta ETH, mas agora um saldo de 1 ETC pode ser visto na mesma conta, mas no Ethereum Classic. Isso porque enviei 1 ETC para esta conta na rede Ethereum Classic para esta demonstração.
 
-Note also that the ETC network is now the one showing in the networks bar, and the “ETC” symbol is now used to show the balance.
+Observe também que a rede ETC agora é a que aparece na barra de redes, e o símbolo “ETC” agora é usado para mostrar o saldo.
 
-![Step 8](./08.png)
+![Passo 8](./08.png)
 
-## Step 9: You May Move Back to Ethereum With the Same Account
+## Etapa 9: você pode voltar ao Ethereum com a mesma conta
 
-So, as both networks use the same account format you may move back to the Ethereum mainnet and you will be able to see your ETH account with the same number again.
+Portanto, como ambas as redes usam o mesmo formato de conta, você pode voltar para a rede principal Ethereum e poderá ver sua conta ETH com o mesmo número novamente.
 
-![Step 9](./09.png)
+![Passo 9](./09.png)
 
-## Step 10: You May Move Back to Ethereum Classic With the Same Account
+## Etapa 10: você pode voltar ao Ethereum Classic com a mesma conta
 
-To use the ETC network, simply select Ethereum Classic again in the networks dropdown menu where you will see your ETC balances again.
+Para usar a rede ETC, basta selecionar Ethereum Classic novamente no menu suspenso de redes, onde você verá seus saldos ETC novamente.
 
-![Step 10](./10.png)
+![Passo 10](./10.png)
 
 //
 
-I wish you success investing in and using ETC!
+Desejo-lhe sucesso ao investir e usar o ETC!
 
 ---
 
-** Code is Law **
+**Código é Lei**
