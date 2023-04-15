@@ -1,5 +1,5 @@
 title: crwdns66614:0crwdne66614:0
-__updated: crwdns108755:0crwdne108755:0
+__updated: 2023-04-03
 __contribute: 1
 seo: crwdns108541:0crwdne108541:0
 description: |
@@ -53,6 +53,6 @@ items:
         __type: testnet
         __networkId: 7
         __link: https://github.com/eth-classic/mordor
-        __faucet: crwdns108759:0crwdne108759:0
+        __faucet: https://mordor.canhaz.net/
         __consensusAlgo: pow
         __miningAlgo: Etchash
