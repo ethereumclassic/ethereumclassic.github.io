@@ -1,44 +1,44 @@
 ---
 updated: 2022-02-22
 contribute: true
-title: Events
-seo: An overview of real world and virtual Ethereum Classic related events. ETC Summit and the weekly Community Call are welcome to all!
+title: Eventos
+seo: Uma visão geral dos eventos reais e virtuais relacionados ao Ethereum Classic. O ETC Summit e o Community Call semanal são bem-vindos a todos!
 contributors:
   - IstoraMandiri
   - bobsummerwill
   - TheCrowbill
 ---
 
-Magic happens when people come together and share ideas, and participants throughout the ETC community have spontaneously organized to form real life and online gatherings to focus their attention on improving Ethereum Classic.
+A mágica acontece quando as pessoas se reúnem e compartilham ideias, e os participantes de toda a comunidade ETC se organizaram espontaneamente para formar encontros reais e online para focar sua atenção na melhoria do Ethereum Classic.
 
-## Community Calls
+## Chamadas da comunidade
 
-UPDATE:  Regular, weekly Community Calls are currently on hiatus.
+ATUALIZAÇÃO: Chamadas comunitárias regulares e semanais estão atualmente em hiato.
 
-Every Thursday, usually at UTC 1500, a group voice chat takes place in the Ethereum Classic [Discord](https://ethereumclassic.org/discord) server. The call is streamed to [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos), but you can also join 1 hour before we go live, at 1400 UTC, to chat off the record in the Green Room.
+Toda quinta-feira, geralmente em UTC 1500, um chat de voz em grupo ocorre no servidor Ethereum Classic [Discord](https://ethereumclassic.org/discord). A chamada é transmitida para [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos), mas você também pode entrar 1 hora antes de entrarmos ao vivo, às 14h UTC, para conversar sem registro na Green Room.
 
-Occasionally a special guest will join the chat for Questions and Answers with the community. These calls are usually recorded, and you can find these recordings on the ETC Community Calls [repository](https://github.com/ethereumclassic/community-calls).
+Ocasionalmente, um convidado especial participará do bate-papo para perguntas e respostas com a comunidade. Essas chamadas geralmente são gravadas e você pode encontrar essas gravações no repositório ETC Community Calls [](https://github.com/ethereumclassic/community-calls).
 
-Everybody, regardless of level of involvement in ETC, is welcome to join this chat and there is usually time available to open the floor to questions if you'd like to bring something up.
+Todos, independentemente do nível de envolvimento no ETC, são bem-vindos a participar deste bate-papo e geralmente há tempo disponível para abrir a palavra para perguntas, se você quiser trazer algo à tona.
 
-## ETC Summit
+## Cúpula ETC
 
-Since Ethereum Classic's inception (barring global travel restrictions), each year an ETC Summit has been held in various cities all over the world.
+Desde o início do Ethereum Classic (salvo restrições globais de viagens), a cada ano um ETC Summit é realizado em várias cidades em todo o mundo.
 
-These in-person conferences allow otherwise internet-only community members to meet and great in the flesh, to better coordinate and hash out ideas, maybe over a drink or two.
+Essas conferências presenciais permitem que os membros da comunidade, de outra forma apenas na Internet, se encontrem e se sintam bem ao vivo, para melhor coordenar e discutir ideias, talvez com uma ou duas bebidas.
 
-Some community members also take the stage and present ideas on a number of topics related to Ethereum Classic.
+Alguns membros da comunidade também sobem ao palco e apresentam ideias sobre vários tópicos relacionados ao Ethereum Classic.
 
-So far, the following summits have been held:
+Até o momento, foram realizadas as seguintes cúpulas:
 
 - 2019 Vancouver
-- 2018 Seoul
+- 2018 Seul
 - 2017 Hong Kong
 
-Videos of the presentations are available under the [Videos > Conferences](/videos/conferences) section.
+Os vídeos das apresentações estão disponíveis na seção [Vídeos > Conferências](/videos/conferences).
 
-## Core Dev Calls
+## Chamadas de desenvolvimento principal
 
-The ETC Core Devs Call is a technical discussion call for developers working on the Ethereum Classic clients and/or ECIP process.
+A ETC Core Devs Call é uma chamada de discussão técnica para desenvolvedores que trabalham nos clientes Ethereum Classic e/ou processo ECIP.
 
-These calls have no set schedule, but occur fairly frequently throughout the year. Proposed calls are announced in the form of GitHub issues in the [ECIPs repo](https://github.com/ethereumclassic/ECIPs/issues?q=is%3Aissue+Devs+Call).
+Essas ligações não têm horário definido, mas ocorrem com bastante frequência ao longo do ano. As chamadas propostas são anunciadas na forma de problemas do GitHub no repositório [ECIPs](https://github.com/ethereumclassic/ECIPs/issues?q=is%3Aissue+Devs+Call).
