@@ -26,10 +26,22 @@ items:
           请查看[开发指南](/guides/development)部分，以及 [development](/development)部分的教程和工具，以帮助你部署到Classic。
       deployment:
         question: 我如何部署到Ethereum Classic区块链？
+        answer: |
+          首先，获取一些 ETC 来支付 gas 以部署你的合约，然后只需确保你部署到以太坊经典网络（链 ID 61），而不是以太坊网络（链 ID 1）。
       rpc:
         question: 是否有公共的RPC端点，我可以用来部署到ETC？
+        answer: |
+          是的。如果您不想运行、同步和维护自己的 Ethereum Classic 节点，可以免费使用许多可用的公共端点。
+
+          查看 [RPC 端点](/network/endpoints) 部分，以及 [ChainList.org](https://chainlist.org/chain/61)。
       grants:
         question: 我可以获得资金来建立在Ethereum Classic上吗？
+        answer: |
+          是的。有许多过去和现在的计划来鼓励 ETC 的发展。
+
+          最近的一个例子是 [ETC Grants DAO](https://etcgrantsdao.io)，它于 2023 年启动了 ETC 赠款计划
+
+          由于 Ethereum Classic 没有集中的金库，因此对该项目的所有贡献都是外部资助的。这包括贡献者贡献他们的时间，以及来自第三方资金的经济激励。
       ecips:
         question: 我怎样才能帮助开发Ethereum Classic协议？
         answer: |
