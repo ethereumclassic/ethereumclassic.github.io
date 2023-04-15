@@ -2,90 +2,90 @@
 title: ETH + BTC = ETC
 updated: 2022-02-22
 disclaimer: opinion
-seo: By combining the technology of Ethereum with the philosophy and security of Bitcoin, Ethereum Classic stands alone in being able to provide a truly decentralized Smart Contract Platform.
+seo: על ידי שילוב הטכנולוגיה של Ethereum עם הפילוסופיה והאבטחה של הביטקוין, Ethereum Classic עומד לבד ביכולת לספק פלטפורמת חוזים חכמה מבוזרת באמת.
 ---
 
-## Key Points
+## נקודות מפתח
 
-- Ethereum Classic, existing in response to problems enabled by centralization, quickly realized and adopted the genius of Bitcoin's decentralist design decisions.
-- Like ETH, ETC is a Turing Complete Smart Contract Platform.
-- Like BTC, ETC has a miraculous origin, which is impossible to recreate.
-- Like BTC, ETC has "no official anything", preventing "official" capture.
-- Like BTC, ETC aims to provide a reliable secure base layer and does so by upgrading the protocol conservatively.
-- Like BTC, ETC requires constant skepticism in community interactions.
+- Ethereum Classic, הקיים בתגובה לבעיות שהתאפשרה על ידי ריכוזיות, הבין ואימצה במהירות את הגאונות של החלטות העיצוב המבוזרות של ביטקוין.
+- כמו ETH, ETC היא פלטפורמת חוזים חכמים של טיורינג.
+- כמו BTC, ל-ETC יש מקור מופלא, שאי אפשר לשחזר.
+- כמו BTC, ל-ETC "אין שום דבר רשמי", ומונעים לכידה "רשמית".
+- כמו BTC, ETC שואפת לספק שכבת בסיס מאובטחת אמינה ועושה זאת על ידי שדרוג הפרוטוקול באופן שמרני.
+- כמו BTC, ETC דורש ספקנות מתמדת באינטראקציות בקהילה.
 
-## Introduction
+## מבוא
 
-For those already somewhat familiar with the cryptocurrency ecosystem, a quite simple heuristic exists that cuts to the chase of what Ethereum Classic is attempting to achieve.
+למי שכבר מכיר מעט את המערכת האקולוגית של מטבעות קריפטוגרפיים, קיים היוריסטיקה פשוטה למדי שחותכת את המרדף אחר מה ש-Ethereum Classic מנסה להשיג.
 
-> Ethereum Classic takes the philosophy of Bitcoin and applies it to the technology of Ethereum
+> Ethereum Classic לוקח את הפילוסופיה של ביטקוין ומיישם אותה על הטכנולוגיה של Ethereum
 > 
-> - The CEO of Ethereum Classic, if one existed
+> - מנכ"ל Ethereum Classic, אם היה קיים
 
 ![ETH + BTC = ETC](./ethbtcetc.png)
 
-Many of those involved with Ethereum before the DAO Hack were under the impression that Ethereum was hoping to do precisely this: be built on top of the well-established core ideas that Bitcoin provided but add on additional functionality in the form of a Turing Complete Smart Contract Platform.
+רבים מהמעורבים ב-Ethereum לפני ה-DAO Hack התרשמו ש-Ethereum קיווה לעשות בדיוק את זה: להיבנות על גבי רעיונות הליבה המבוססים היטב שביטקוין סיפק אך להוסיף פונקציונליות נוספת בצורה של Turing Complete Smart פלטפורמת חוזה.
 
-But as The DAO Hack showed, this was not the case. What is now known as Ethereum™ has very little to do with the decentralist values that Bitcoin was created to embody.
+אבל כפי שהראה ה-DAO Hack, זה לא היה המקרה. למה שידוע כיום בשם Ethereum™ יש מעט מאוד קשר לערכים המבוזרים שביטקוין נוצר כדי לגלם.
 
-The decision for The Ethereum Foundation to abandon the decentralist values that were used to entice contributions was unfortunate but created a vacuum that ultimately further refined the meaning and importance of those values and birthed a project whose mission was to continue that _Original Ethereum Vision_.
+ההחלטה של קרן Ethereum לנטוש את הערכים הביזוריים ששימשו לפתות תרומות הייתה מצערת אך יצרה ואקום שבסופו של דבר חידד עוד יותר את המשמעות והחשיבות של אותם ערכים והוליד פרויקט שהמשימה שלו הייתה להמשיך את החזון _של Ethereum_.
 
-Ethereum Classic, even more so than Bitcoin itself, exists as an explicit reminder about the importance of decentralist values. There were many who didn't understand their significance at the time, but many others saw the truth that decentralization was the very point, not just an annoying obstacle to overcome.
+Ethereum Classic, אפילו יותר מהביטקוין עצמו, קיים כתזכורת מפורשת לגבי חשיבותם של ערכים מביזורים. היו רבים שלא הבינו את משמעותם באותה תקופה, אבל רבים אחרים ראו את האמת שהביזור הוא העיקר, לא רק מכשול מעצבן להתגבר עליו.
 
-Since the chain split, the design choices and philosophy of Ethereum Classic have come to recognize the genius decisions made when constructing the original Bitcoin protocol. As much as possible, ETC emulates this success in the pursuit of decentralism and the real world achievements that followed.
+מאז פיצול השרשרת, בחירות העיצוב והפילוסופיה של Ethereum Classic הביעו את ההחלטות הגאוניות שהתקבלו בעת בניית פרוטוקול הביטקוין המקורי. ככל האפשר, ETC מחקה את ההצלחה הזו במרדף אחר ביזורנות והישגי העולם האמיתי שבאו לאחר מכן.
 
-## Immaculate Conception 2.0
+## התעברות ללא רבב 2.0
 
-Much like Bitcoin, Ethereum Classic can be considered a divine entity due to the circumstances of its miraculous origin.
+בדומה לביטקוין, Ethereum Classic יכול להיחשב כישות אלוהית בשל נסיבות המקור המופלא שלה.
 
-As explored [earlier](/why-classic/genesis#the-immaculate-conception), Ethereum Classic's creation story is almost certainly impossible to recreate or happen by accident ever again. Not only were the events leading up to its birth extremely improbable, but ETC's very existence now serves as a warning to other projects, which are likely to avoid similar controversial hard forks, or at least only do them while mitigating the possibility of a chain split.
+כפי שנחקר [מוקדם יותר](/why-classic/genesis#the-immaculate-conception), את סיפור היצירה של Ethereum Classic כמעט בוודאות בלתי אפשרי לשחזר או לקרות בטעות לעולם. לא רק שהאירועים שהובילו להולדתו היו בלתי סבירים ביותר, אלא שעצם קיומה של ETC משמש כעת כאזהרה לפרויקטים אחרים, שסביר להניח שימנעו מזלגות קשיחים שנויים במחלוקת דומים, או לפחות עושים אותם תוך הקטנת האפשרות של פיצול שרשרת. .
 
-> There were no markets and therefore no monetary value, and with this, it has not corrupted by the profit incentive from inception.  
+> לא היו שווקים ולכן גם לא ערך כספי, ובכך הוא לא השחית בתמריץ הרווח מתחילתו.  
 > ...  
-> This is not the case with other coins [ed: except ETC]; all launched with founders looking to profit, having backing from investors who are looking for bit exits and naturally retail foaming at the mouth looking to flip their positions too.
+> זה לא המקרה עם מטבעות אחרים [ed: חוץ ETC]; כולם הושקו עם מייסדים שרוצים להרוויח, עם גיבוי ממשקיעים שמחפשים אקזיטים ביט ובאופן טבעי קצף קצף על הפה ומחפשים גם להעיף את עמדותיהם.
 > 
-> - [The Bitcoin Manual, Why There Won't Be A Next Bitcoin](https://thebitcoinmanual.com/articles/why-there-wont-be-a-next-bitcoin/)
+> - [מדריך הביטקוין, מדוע לא יהיה ביטקוין הבא](https://thebitcoinmanual.com/articles/why-there-wont-be-a-next-bitcoin/)
 
-In some ways, Ethereum Classic's conception is even more "immaculate" than Bitcoin's; it was not planned at all, by anyone, and unlike Bitcoin, Ethereum Classic has no Satoshi, meaning that there is no Satoshi to return and influence decision-making, which is theoretically possible in Bitcoin.
+במובנים מסוימים, התפיסה של Ethereum Classic היא אפילו יותר "ללא רבב" מזו של הביטקוין; זה לא תוכנן כלל, על ידי אף אחד, ובניגוד לביטקוין, ל-Ethereum Classic אין סאטושי, כלומר אין סאטושי לחזור ולהשפיע על קבלת החלטות, מה שאפשר תיאורטית בביטקוין.
 
-Ethereum Classic is also the only blockchain project seeded with a follower base that was 100% focused on the principles of decentralism. Despite the risks, they went against the official Ethereum™ project, self-selecting specifically because of their reaction to The DAO incident and the abuses enabled by centralization.
+Ethereum Classic הוא גם פרויקט הבלוקצ'יין היחיד עם בסיס עוקבים שהתמקד ב-100% בעקרונות הביזור. למרות הסיכונים, הם יצאו נגד פרויקט Ethereum™ הרשמי, ובחרו בעצמם במיוחד בגלל תגובתם לתקרית ה-DAO וההתעללות שהתאפשרה על ידי הריכוזיות.
 
-## No Official Anything
+## שום דבר רשמי
 
-Like Bitcoin, Ethereum Classic has no official developers, maintainers, or leaders. It has no official logo, no official website, no official conferences. Ethereum Classic cannot have an official _anything_ because no individual or group has the authority to claim they represent ETC in any official capacity.
+בדומה לביטקוין, ל-Ethereum Classic אין מפתחים, מתחזקים או מנהיגים רשמיים. אין לו לוגו רשמי, אין אתר רשמי, אין כנסים רשמיים. Ethereum Classic לא יכול להיות רשמי _שום דבר_ כי לאף אדם או קבוצה אין סמכות לטעון שהם מייצגים ETC בשום תפקיד רשמי.
 
-This is a rare quality and massive strength in the world of blockchains. It means no official _thing_ can be taken down, captured, or compromised, and there is no official entity that can sue competing forks for copyright infringement.
+זוהי איכות נדירה וחוזק מסיבי בעולם הבלוקצ'יין. זה אומר שאי אפשר להוריד, ללכוד או להתפשר על דבר _רשמי_ , ואין ישות רשמית שיכולה לתבוע מזלגות מתחרות על הפרת זכויות יוצרים.
 
-_No official anything_ is the source of much of the strength of the Ethereum Classic project, but it also has drawbacks as there is no central source of truth to coordinate from. Instead, a "do-ocracy" exists where anyone can contribute and based on what is done, picked up, and used, those contributions become part of Ethereum Classic. This makes it a unique project and attractive to contributors as literally nothing can stop _you_ from being as close to official as anyone else.
+_שום דבר רשמי_ הוא המקור להרבה מהכוח של פרויקט Ethereum Classic, אבל יש לו גם חסרונות מכיוון שאין מקור מרכזי של אמת שאפשר לתאם ממנו. במקום זאת, קיימת "דו-אוקרטיה" שבה כל אחד יכול לתרום ובהתבסס על מה שנעשה, נאסף ומשתמש, התרומות הללו הופכות לחלק מ-Ethereum Classic. זה הופך אותו לפרויקט ייחודי ואטרקטיבי עבור תורמים, כי פשוטו כמשמעו</em> דבר לא יכול למנוע _להיות קרוב לרשמי כמו כל אחד אחר.</p>
 
-## Secure Base Layer
+## שכבת בסיס מאובטחת
 
-The view of many within the Ethereum Classic community is that the aforementioned [Blockchain Trilemma](/why-classic/decentralism#the-blockchain-trilemma) is insurmountable, at least on the base later. For this reason, Ethereum Classic's current roadmap does not include the more exotic "solutions" that will be attempted by Ethereum™.
+השקפתם של רבים בקהילת Ethereum Classic היא ש [Blockchain Trilemma](/why-classic/decentralism#the-blockchain-trilemma) הנזכרת לעיל היא בלתי עבירה, לפחות בבסיס מאוחר יותר. מסיבה זו, מפת הדרכים הנוכחית של Ethereum Classic אינה כוללת את ה"פתרונות" האקזוטיים יותר שינסה Ethereum™.
 
-Essentially, there is no known _one size fits all_ approach to scaling throughput that can be applied on the base layer without compromising an important security assumption, so for ETC as a protocol, barring some significant technological advancement, it is best left up to applications or secondary protocols to provide various different trade-offs and implement optimizations depending on the use case, giving users the choice of which to adopt.
+בעיקרו של דבר, אין גישה ידועה של _one size fits all_ לשינוי תפוקה שניתן ליישם על שכבת הבסיס מבלי להתפשר על הנחת אבטחה חשובה, כך שעבור ETC כפרוטוקול, ללא התקדמות טכנולוגית משמעותית כלשהי, עדיף להשאיר עד יישומים או פרוטוקולים משניים כדי לספק פשרות שונות וליישם אופטימיזציות בהתאם למקרה השימוש, מה שנותן למשתמשים את הבחירה באיזה לאמץ.
 
-Many in the Ethereum Classic community are also wary of attempts to increase the block size, due to the adverse effects that are likely to appear down the road in terms of "bloat" and the increased _time to sync_ and hardware requirements, which, if left unchecked, may make it difficult to run an Ethereum Classic node, leading to centralization. Some argue the block gas limit should be reduced further, while others look towards _Zero Knowledge Proof_ technologies that can reduce the amount of data needed to be stored on chain.
+רבים בקהילת Ethereum Classic נזהרים גם מניסיונות להגדיל את גודל הבלוק, בשל ההשפעות השליליות שצפויות להופיע בהמשך הדרך במונחים של "נפיחות" והזמן המוגדל של _לסינכרון_ ודרישות החומרה, אשר, אם לא מסומן, עלול להקשות על הפעלת צומת Ethereum Classic, מה שיוביל לריכוזיות. יש הטוענים שיש להפחית עוד יותר את מגבלת הגז, בעוד שאחרים מסתכלים לעבר טכנולוגיות _Zero Knowledge Proof_ שיכולות להפחית את כמות הנתונים הדרושה לאחסנה בשרשרת.
 
-There is general agreement that a layered approach to scaling blockchains can increase throughput while satisfying the _Blockchain Trilemma_ in a way that does not mess with the base layer. Individuals can safely experiment with different L2 systems without affecting L1, and can fine-tune the various trade-offs depending on the application and user requirements.
+ישנה הסכמה כללית שגישה שכבתית להגדלת קנה המידה של בלוקצ'יין יכולה להגדיל את התפוקה תוך עמידה ב _Blockchain Trilemma_ באופן שאינו מתעסק עם שכבת הבסיס. אנשים יכולים להתנסות בבטחה עם מערכות L2 שונות מבלי להשפיע על L1, ויכולים לכוונן את הפשרות השונות בהתאם לדרישות האפליקציה והמשתמש.
 
-## KISS Slowly
+## לנשק לאט
 
-The base layer needs to be secure in several ways; both technologically with fewer bugs and socioeconomically secure against various forms of attack.
+שכבת הבסיס צריכה להיות מאובטחת בכמה דרכים; הן מבחינה טכנולוגית עם פחות באגים והן מאובטח מבחינה סוציו-אקונומית מפני צורות שונות של התקפה.
 
-Because single points of failure can exist in many areas and are often hidden, all things being equal, it is easier to maintain decentralization in systems that are _less complex_. Additional complexity creates not just more technical bugs and exploits, but also potential central points of failure, in unforeseen game-theory quandaries and in the form of higher upkeep requirements leading to a reduced pool of developers able to contribute to maintenance. If a system is too complex for anyone to reason with, it may as well be captured by its authors, who have sole authority on how it should be operated, maintained, and upgraded.
+מכיוון שנקודות כשל בודדות יכולות להתקיים בתחומים רבים ולעיתים קרובות הן מוסתרות, כשכל הדברים שווים, קל יותר לשמור על ביזור במערכות שהן _פחות מורכבות_. מורכבות נוספת יוצרת לא רק באגים וניצולים טכניים נוספים, אלא גם נקודות פוטנציאליות מרכזיות של כישלון, בהתלבטויות בלתי צפויות של תורת המשחקים ובצורה של דרישות תחזוקה גבוהות יותר המובילות למאגר מצומצם של מפתחים המסוגלים לתרום לתחזוקה. אם מערכת מורכבת מדי מכדי שמישהו יוכל להגיב איתה, היא עשויה גם להיתפס על ידי מחבריה, שיש להם הסמכות הבלעדית לגבי אופן ההפעלה, התחזוקה והשדרוג שלה.
 
-Bitcoin, as with ETC, positions itself as the "good old reliable" system that does not need to innovate quickly, but instead, do so slowly and methodically without breaking it's previously established guarantees. This is achieved through a conservative approach to protocol upgrades, a "Move Slowly and Don't Break Things" ethos, and the delivery of innovation in layers, rather than attempting to implement radical changes to the base protocol.
+ביטקוין, כמו עם ETC, ממצב את עצמו כמערכת "הישנה והטובה האמינה" שאינה צריכה לחדש במהירות, אלא במקום זאת, לעשות זאת לאט ושיטתי מבלי לשבור את הערבויות שנקבעו בעבר. זה מושג באמצעות גישה שמרנית לשדרוגי פרוטוקולים, אתוס "זוז לאט ואל תשבור דברים", והגשת חדשנות בשכבות, במקום ניסיון ליישם שינויים קיצוניים בפרוטוקול הבסיס.
 
-Like Bitcoin, this approach does not preclude innovation. Instead, it simply demands a careful and methodical [approach](/knowledge/future#upgrade-process) to protocol upgrades.
+כמו ביטקוין, גישה זו אינה מונעת חדשנות. במקום זאת, זה פשוט דורש גישת [זהירה ושיטתית](/knowledge/future#upgrade-process) לשדרוגי פרוטוקול.
 
-## Don't Trust, Verify
+## אל תאמין, ודא
 
-One of the hallmarks of genuinely decentralized projects is that a healthy level of distrust exists amongst participants in the social layer. While this may sound counter-intuitive, it is what secures the social layer against many forms of attack.
+אחד מסימני ההיכר של פרויקטים מבוזרים באמת הוא שקיימת רמה בריאה של חוסר אמון בקרב המשתתפים ברובד החברתי. למרות שזה אולי נשמע מנוגד לאינטואיציה, זה מה שמבטיח את הרובד החברתי מפני צורות רבות של התקפה.
 
-Any individual could become compromised at any point, so all participants must maintain an ever-skeptical perspective in communications and decision-making, judging _ideas_ rather than individuals and reputations. To do otherwise is to make one of the key failures of centralized decision-making, which may be expedient, but is fragile, as when decisions are made based on authority rather than merit alone, it allows terrible decisions not just to occur occasionally, but continue unchecked, double-downed on, and snowball out of control.
+כל אדם עלול להיפגע בכל נקודה, ולכן כל המשתתפים חייבים לשמור על פרספקטיבה ספקנית תמידית בתקשורת ובקבלת החלטות, לשפוט _רעיונות_ במקום אנשים ומוניטין. לעשות אחרת זה לעשות את אחד הכשלים המרכזיים של קבלת החלטות ריכוזית, שאולי מועילה, אבל היא שברירית, שכן כאשר החלטות מתקבלות על סמך סמכות ולא בזכות בלבד, היא מאפשרת להחלטות איומות לא רק להתרחש מדי פעם, אלא המשך ללא סימון, ירידה כפולה וכדור שלג יצא משליטה.
 
-For this reason the concept of *toxicity* as a general approach to the adversarial cryptocurrency social space remains an open debate and is considered by some to be a legitimate, frank, albeit unsavory strategy for navigating discussions. Some consider toxicity a form of immune response that weeds out certain types of smooth-talking bad actors who rely on populism to forward a particular proposal. Toxicity is not compatible with all personalities, and the Ethereum Classic has its fair share of both toxic and non-toxic participants. Be advised that in most cases, abrasiveness in the cryptocurrency space is not personal, but on the contrary, about defaulting to a purely idea-based rather than personality-based discussion.
+מסיבה זו המושג של *רעילות* כגישה כללית למרחב החברתי של מטבעות קריפטוגרפיים היריביים נותר דיון פתוח ונחשב בעיני חלק לאסטרטגיה לגיטימית, כנה, אם כי לא טעימה, לניווט בדיונים. יש הרואים ברעילות סוג של תגובה חיסונית שמנכאת סוגים מסוימים של שחקנים רעים שמדברים בצורה חלקה, המסתמכים על פופוליזם כדי להעביר הצעה מסוימת. רעילות אינה תואמת את כל האישים, ול-Ethereum Classic יש חלק נכבד של משתתפים רעילים ולא רעילים כאחד. שימו לב שברוב המקרים, שחיקה בתחום המטבעות הקריפטוגרפיים אינה אישית, אלא להיפך, על ברירת מחדל לדיון מבוסס רעיון בלבד ולא מבוסס אישיות.
 
 ---
 
-Next, let's take a closer look at some practical technical implementation details that Ethereum Classic has adopted thanks to inspiration from Bitcoin; Sound Money, and Proof of Work.
+לאחר מכן, בואו נסתכל מקרוב על כמה פרטי יישום טכניים מעשיים שאימץ Ethereum Classic הודות להשראה מביטקוין; כסף טוב והוכחת עבודה.
