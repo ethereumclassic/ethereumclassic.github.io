@@ -1,18 +1,18 @@
 ---
-title: Why Ethereum Classic?
+title: Por que Ethereum Clássico?
 updated: 2022-02-22
 showNext: true
-seo: Ethereum Classic's reason for being including its Genesis, mission of Decentralization and the bright future it enables thanks to Code is Law.
+seo: A razão de ser do Ethereum Classic incluindo sua gênese, missão de descentralização e o futuro brilhante que ele permite graças ao código é lei.
 disclaimer: opinion
-info: "**Note:** In the following sections, *Ethereum™* refers to the post DAO Fork [Ethereum Foundation](https://ethereum.org) Mainnet Chain, not to be confused with the Ethereum *protocol*, which is used many blockchain projects including Ethereum Classic"
+info: "**Observação:** Nas seções a seguir, *Ethereum™* refere-se à Cadeia Mainnet post DAO Fork [Ethereum Foundation](https://ethereum.org), não confundir com o *protocolo* Ethereum, que é usou muitos projetos de blockchain, incluindo Ethereum Classic"
 ---
 
-Following the rapid growth of the cryptocurrency space, many new players enter the scene, and while scrolling down a list of projects ranked by market cap, some notice a blockchain called _Ethereum Classic_.
+Após o rápido crescimento do espaço das criptomoedas, muitos novos jogadores entram em cena e, ao rolar uma lista de projetos classificados por valor de mercado, alguns notam um blockchain chamado _Ethereum Classic_.
 
-They see a name and logo that is similar to the famous Ethereum™ and may assume that this _Classic_ thing is some sort of copy-cat project trying to cash in on ETH's success. In a market saturated with such projects, and with limited research time, many people may reasonably give Ethereum Classic a pass without much thought.
+Eles veem um nome e um logotipo semelhantes ao famoso Ethereum™ e podem presumir que essa coisa _Classic_ é algum tipo de projeto imitador tentando lucrar com o sucesso do ETH. Em um mercado saturado com tais projetos e com tempo de pesquisa limitado, muitas pessoas podem razoavelmente dar um passe ao Ethereum Classic sem pensar muito.
 
-But some, like yourself, decide to dive a little deeper, and they discover some interesting facts that debunk that initial skepticism. Their journey down the rabbit hole begins when they find out that Ethereum Classic is not a clone of Ethereum™, but a continuation of the *original* Ethereum launched in 2015, which The Ethereum Foundation forked away from by launching a new protocol one year later in 2016.
+Mas alguns, como você, decidem mergulhar um pouco mais fundo e descobrem alguns fatos interessantes que desmentem o ceticismo inicial. A jornada deles pela toca do coelho começa quando eles descobrem que o Ethereum Classic não é um clone do Ethereum™, mas uma continuação do *original* Ethereum lançado em 2015, do qual a The Ethereum Foundation se separou ao lançar um novo protocolo um ano depois em 2016.
 
-Applications on Ethereum Classic have been operating uninterrupted for a year longer than on Ethereum™, making ETC the longest running and most reliable Smart Contract Platform. More importantly, Ethereum Classic has never and will never stop or interfere with Smart Contracts deployed to it, as unstoppability is what makes blockchains useful and valuable.
+Os aplicativos no Ethereum Classic operam ininterruptamente há um ano a mais do que no Ethereum ™, tornando o ETC a plataforma de contrato inteligente mais confiável e mais antiga. Mais importante, o Ethereum Classic nunca e nunca irá parar ou interferir com os Smart Contracts implantados nele, pois a imparabilidade é o que torna os blockchains úteis e valiosos.
 
-Unlike Ethereum™, on Classic, _Code is Law_. This means that "applications run exactly as programmed without downtime, censorship, or third party interference." Ethereum Classic has evolved its ability to deliver on this promise by maxing-out the characteristics that yield decentralization, unstoppability, and censorship resistance against strong external forces. It is the only major Smart Contract Platform that has proven its ability to uphold this promise.
+Ao contrário do Ethereum™, no Classic, _Code é Law_. Isso significa que "os aplicativos são executados exatamente como programados, sem tempo de inatividade, censura ou interferência de terceiros". O Ethereum Classic desenvolveu sua capacidade de cumprir essa promessa maximizando as características que geram descentralização, imparabilidade e resistência à censura contra fortes forças externas. É a única grande plataforma de contrato inteligente que provou sua capacidade de cumprir essa promessa.
