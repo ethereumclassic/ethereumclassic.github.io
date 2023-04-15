@@ -1,213 +1,213 @@
 ---
-title: Proof of Work
+title: הוכחת עבודה
 updated: 2022-02-22
 disclaimer: opinion
-seo: An argument for why Proof of Stake is not a suitable solution for blockchains that wish to deliver monumental change, and why Proof of Work is the only known consensus mechanism that can.
+seo: טיעון מדוע Proof of Stake אינו פתרון מתאים לבלוקצ'יין שרוצים לספק שינוי מונומנטלי, ומדוע Proof of Work הוא מנגנון הקונצנזוס הידוע היחיד שיכול.
 ---
 
-## Key Points
+## נקודות מפתח
 
-- Ethereum Classic is committed to remaining on Proof of Work indefinitely in pursuit of _decentralization maximalism_.
-- Proof of Work is a tried and true consensus mechanism, the only one known to provide _Sovereign Grade Censorship Resistance_.
-- Proof of Stake comes with known security trade-offs, including: additional complexity, 33% attacks, vulnerability to financial manipulation, centralization of staking custody, the APR arms race, nothing at stake, removal of checks and balances, and the rich get richer.
-- Candidly, the decision to use Proof of Stake is likely financially motivated, rather than the given reason of environmental concern.
+- Ethereum Classic מחויבת להישאר על הוכחת עבודה ללא הגבלת זמן במרדף אחר מקסימום ביזור __.
+- הוכחת עבודה היא מנגנון קונצנזוס מנוסה ונכון, היחיד שידוע כמספק _התנגדות לצנזורה ריבונית_.
+- הוכחת הימור מגיעה עם פשרות ביטחוניות ידועות, לרבות: מורכבות נוספת, 33% התקפות, פגיעות למניפולציות פיננסיות, ריכוז משמורת, מרוץ החימוש של APR, שום דבר על כף המאזניים, הסרת איזונים ובלמים, והעשירים מתעשרים. .
+- למען האמת, ההחלטה להשתמש בהוכחת הימור היא כנראה ממניעים פיננסיים, ולא מהסיבה הנתונה לדאגה סביבתית.
 
-## Introduction
+## מבוא
 
-On a technical level, one of the biggest differentiators between Ethereum Classic and its sibling Ethereum™ is ETC's commitment to remain on Proof of Work. Some might assume that this is due to a lack of development, ambition or ability to move to a "more advanced" Proof of Stake system, but this section aims to dispel that myth by explaining the reasoning behind Ethereum Classic's very intentional decision to stay with Proof of Work in the name of decentralization and security.
+ברמה הטכנית, אחד המבדילים הגדולים ביותר בין Ethereum Classic לאחיו Ethereum™ הוא המחויבות של ETC להישאר ב-Proof of Work. חלקם עשויים להניח שזה נובע מחוסר פיתוח, אמביציה או יכולת לעבור למערכת "מתקדמת יותר" של הוכחת הימור, אבל סעיף זה נועד להפיג את המיתוס הזה על ידי הסבר ההיגיון מאחורי ההחלטה המאוד מכוונת של Ethereum Classic להישאר עם הוכחת עבודה בשם הביזור והביטחון.
 
-## The Engine of the Future
+## המנוע של העתיד
 
-A blockchain's consensus mechanism is its engine. It is the most critical piece of technological infrastructure, from which all security, value and utility depends on. Like an engine, if it stops working correctly, all other systems that rely on it functioning become useless, or worse, a danger to its users.
+מנגנון הקונצנזוס של בלוקצ'יין הוא המנוע שלו. זוהי החלק הקריטי ביותר של תשתית טכנולוגית, שממנה תלויים כל האבטחה, הערך והתועלת. כמו מנוע, אם הוא מפסיק לפעול כהלכה, כל שאר המערכות המסתמכות על תפקודו הופכות לחסרות תועלת, או גרוע מכך, לסכנה למשתמשים בו.
 
-As with automobile engines, different types of consensus mechanisms are available to blockchain architects when designing a protocol. The choice of which to use reveals much about which attributes in the [Blockchain Trilemma](/why-classic/decentralism#the-blockchain-trilemma) trade-off are considered a priority. As a chain's consensus mechanism is so important, for _Sovereign Grade_ systems, it is the very last thing that should be on the chopping block when it comes to design constraints and security trade-offs.
+כמו עם מנועי רכב, סוגים שונים של מנגנוני קונצנזוס זמינים לאדריכלי בלוקצ'יין בעת תכנון פרוטוקול. הבחירה באיזה שימוש חושפת הרבה לגבי אילו תכונות ב [Blockchain Trilemma](/why-classic/decentralism#the-blockchain-trilemma) trade-off נחשבות בראש סדר העדיפויות. מכיוון שמנגנון הקונצנזוס של רשת הוא כל כך חשוב, עבור מערכות _Sovereign Grade_ , זה הדבר האחרון שצריך להיות על אבן החיתוך בכל הנוגע לאילוצי תכנון וחילופי אבטחה.
 
-The first popular blockchain, Bitcoin, uses Proof of Work; a relatively simple, tried and true consensus mechanism that essentially converts electricity into security. The application of Proof of Work as a consensus mechanism for blockchain execution was the keystone crowning achievement in the genius design of Bitcoin. Its application solved the [Byzantine Generals Problem](https://en.wikipedia.org/wiki/Byzantine_fault) and thus provided a decentralized solution to double spending, a discovery that made blockchain technology as we know it viable.
+הבלוקצ'יין הפופולרי הראשון, ביטקוין, משתמש בהוכחת עבודה; מנגנון קונצנזוס פשוט יחסית, מנוסה ונכון שבעצם הופך חשמל לאבטחה. היישום של הוכחת עבודה כמנגנון קונצנזוס לביצוע בלוקצ'יין היה הישג המפתח בעיצוב הגאוני של הביטקוין. היישום שלה פתר את בעיית [הגנרלים הביזנטים](https://en.wikipedia.org/wiki/Byzantine_fault) ובכך סיפק פתרון מבוזר להוצאה כפולה, תגלית שהפכה את טכנולוגיית הבלוקצ'יין כפי שאנו מכירים אותה לבת-קיימא.
 
-Proof of Work is both empirically and theoretically secure from an economic game theory perspective, and chains using it have been operating faithfully for over a decade. With enough hashrate, PoW chains have shown to be unstoppable even by powerful nation states. Presently, no party on the planet can conventionally muster the electricity and hardware required to launch a sustained attack against Bitcoin's consensus mechanism, which makes it sovereign.
+הוכחת עבודה מאובטחת מבחינה אמפירית ותיאורטית מנקודת מבט של תורת המשחקים הכלכלית, ורשתות המשתמשות בה פועלות נאמנה כבר למעלה מעשור. עם מספיק hashrate, רשתות PoW הראו בלתי ניתנות לעצירה אפילו על ידי מדינות לאום חזקות. נכון לעכשיו, אף צד על פני כדור הארץ לא יכול לגייס באופן קונבנציונלי את החשמל והחומרה הנדרשים כדי לפתוח במתקפה מתמשכת נגד מנגנון הקונצנזוס של ביטקוין, מה שהופך אותו לריבוני.
 
-Proof of Work is not designed to be 100% "perfect", and as with all systems, it has a limited set of guarantees. Most famously, Proof of Work chains are subject to *51% attacks*, which Ethereum Classic has fallen victim to on multiple occasions, but persists nonetheless. In PoW systems, 51% attacks are a feature, not a bug, and accepting them is the trade-off required to allow for objective computer-verifiable rules about which version of a chain should be considered "correct"; whichever has the most hashrate contributed to it, regardless of who contributes that hashrate.
+הוכחת עבודה אינה מתוכננת להיות "מושלמת" ב-100%, וכמו בכל המערכות, יש לה מערך מוגבל של ערבויות. המפורסם ביותר, רשתות הוכחת עבודה כפופות להתקפות של *51%*, ש-Ethereum Classic נפלה קורבן להן במספר הזדמנויות, אך בכל זאת נמשכת. במערכות PoW, 51% התקפות הן תכונה, לא באג, וקבלתן היא הפשרה הנדרשת כדי לאפשר כללים אובייקטיביים הניתנים לאימות מחשב לגבי איזו גרסה של שרשרת צריכה להיחשב כ"נכונה"; מי שתרם לו הכי הרבה hashrate, ללא קשר למי תורם את ההאשרייט הזה.
 
-The timeless wisdom of _if it ain't broke, don't fix it_ comes to mind, and there must be a seriously important reason to change this state of affairs.
+החוכמה הנצחית של _אם זה לא שבור, אל תתקן את זה_ עולה בראש, ובטח יש סיבה חשובה מאוד לשנות את מצב העניינים הזה.
 
-## Compromised Consensus
+## קונצנזוס נפגע
 
-An alternative consensus mechanism to Proof of Work that became popular is Proof of Stake, which became a "must have feature" for many second generation blockchain projects. Instead of converting electricity into hashrate and security, Proof of Stake has been described as "virtual mining", where stakers lock up capital in return for the ability to create blocks, and claim a block reward by doing so.
+מנגנון קונצנזוס חלופי להוכחת עבודה שהפך לפופולרי הוא הוכחת הימור, שהפכה ל"פיצ'ר חובה" עבור פרויקטי בלוקצ'יין רבים מהדור השני. במקום להמיר חשמל ל-hashrate ואבטחה, הוכחת הימור תוארה כ"כרייה וירטואלית", שבה מחזיקים נועלים הון בתמורה ליכולת ליצור בלוקים, ותובעים תגמול חסום על ידי כך.
 
-The primary justification for PoS is environmentalism; it was hoped that PoS would be able to provide the same or better security guarantees than PoW without consuming large amounts of energy.
+ההצדקה העיקרית ל-PoS היא איכות הסביבה; קיוו ש-PoS יוכל לספק ערבויות אבטחה זהות או טובות יותר מאשר PoW מבלי לצרוך כמויות גדולות של אנרגיה.
 
-Straight off the bat, the idea that Proof of Stake could provide not just the same but _better_ security guarantees than Proof of Work, with not just the same but _less_ energy expenditure, should have rung alarm bells for those who understand that _there is no such thing as a free lunch_. But for many this essential truth was able to hand-waved away, as the interdisciplinary convolutions of different Proof of Stake systems created a kind of technological [gish gallop](https://en.wikipedia.org/wiki/Gish_gallop), where fixes upon fixes made PoS protocols increasingly complex and obscure moving targets that became difficult to unpack, and the _free lunch_ myth was smuggled along.
+ישר, הרעיון שהוכחת הימור יכולה לספק לא רק את אותה</em> אבטחה _טובה יותר מאשר הוכחת עבודה, עם לא רק אותה הוצאות אלא _פחות_ הוצאות אנרגיה, היה צריך לצלצל בפעמוני אזעקה למי שמבין את זה _אין דבר כזה ארוחת צהריים חינם_. אבל עבור רבים האמת המהותית הזו הצליחה להתרחק ביד, שכן הפיתולים הבין-תחומיים של מערכות הוכחת הימור השונות יצרו מעין דהירה טכנולוגית של [גיש](https://en.wikipedia.org/wiki/Gish_gallop), שבה תיקונים על תיקונים הפכו את פרוטוקולי ה-PoS למורכבים יותר ויותר למטרות נעות שהפכו לקשות. לפרוק, ומיתוס _ארוחת צהריים חינם_ הוברח יחד.</p>
 
-Nothing epitomizes the subtle and insidious nature of centralization like the myth of Proof of Stake. On the surface, it is a noble attempt to correct the worst aspects of blockchain technology and make it compatible with a sustainable future, but upon closer inspection, this dangerous idea sacrifices the most liberating qualities of the technology in exchange for less than noble objectives.
+שום דבר לא מייצג את האופי העדין והערמומי של הריכוזיות כמו המיתוס של הוכחת הימור. על פני השטח, זהו ניסיון אצילי לתקן את ההיבטים הגרועים ביותר של טכנולוגיית הבלוקצ'יין ולהפוך אותה לתואמת לעתיד בר קיימא, אך בבדיקה מעמיקה יותר, הרעיון המסוכן הזה מקריב את התכונות המשחררות ביותר של הטכנולוגיה בתמורה למטרות פחות נעלות.
 
-In reality, the popularity of Proof of Stake risks not only squandering time and resources, but if its adoption proceeds unchallenged, Proof of Stake could condemn the future to one that operates on captured systems masquerading as neutral; where developments in the cryptocurrency space contribute not towards human flourishing but to the ever-growing power of an ultra-elite, at the expense of open utility for all.
+במציאות, הפופולריות של Proof of Stake מסתכנת לא רק בבזבוז זמן ומשאבים, אבל אם אימוצו ימשיך ללא עוררין, Proof of Stake עשויה לדון את העתיד לכזה שפועל על מערכות נלכדות המתחזות לנייטרליות; שבו ההתפתחויות בתחום המטבעות הקריפטוגרפיים לא תורמים לפריחה אנושית אלא לכוח ההולך וגדל של אולטרה-עלית, על חשבון שימוש פתוח לכולם.
 
-In short, Proof of Work is a sound, battle tested consensus mechanism that correctly prioritizes the delivery of the critical qualities that give rise to a blockchain's utility and value proposition. Proof of Stake, on the other hand, sacrifices these elements in return for prioritizing non-critical secondary ideals, such as reducing carbon emissions, or more truthfully, maximizing returns for large whales.
+בקצרה, הוכחת עבודה היא מנגנון קונצנזוס מוצק, שנבדק בקרב, שמתעדף נכון את אספקת האיכויות הקריטיות המולידות את התועלת והערך של הבלוקצ'יין. הוכחת הימור, לעומת זאת, מקריבה את האלמנטים הללו בתמורה לתעדוף אידיאלים משניים לא קריטיים, כמו הפחתת פליטת פחמן, או יותר נכון, מקסום התשואה עבור לווייתנים גדולים.
 
-## Security Trade-offs
+## פשרות ביטחוניות
 
-The claim that "Proof of Stake is more secure than Proof of Work", is a "[not even wrong](https://en.wikipedia.org/wiki/Not_even_wrong)" statement, due to the nuance in the definition of "secure", and how to square this off with the plurality of Proof of Stake systems that have their own economic, social and technical trade-offs.
+הטענה ש"הוכחת הימור מאובטחת יותר מהוכחת עבודה", היא אמירה "[אפילו לא שגויה](https://en.wikipedia.org/wiki/Not_even_wrong)", בשל הניואנסים בהגדרה של "מאובטח", וכיצד ליישב זאת עם ריבוי ההוכחה של מערכות Stake שיש להן פשרות כלכליות, חברתיות וטכניות משלהן.
 
-A Google spreadsheet cannot be 51% attacked, but does this make it "more secure" than Bitcoin? The answer to this is "it depends on what you mean by _secure_". In the case of Blockchain systems, as [explored](/why-classic/decentralism), it depends on whether a robust, decentralized, permissionless system that can stand the test of time and achieve _Sovereign Grade Censorship Resistance_ is needed. For _this_ kind of security, a Google spreadsheet is far, far _less_ "secure" than Bitcoin, as it can be taken over by a single party, Google, with zero effort.
+לא ניתן לתקוף גיליון אלקטרוני של גוגל ב-51%, אבל האם זה הופך אותו ל"מאובטח" יותר מביטקוין? התשובה לכך היא "תלוי למה אתה מתכוון ב _מאובטח_". במקרה של מערכות בלוקצ'יין, כפי שחקר [](/why-classic/decentralism), זה תלוי אם יש צורך במערכת חזקה, מבוזרת וחסרת הרשאות שיכולה לעמוד במבחן הזמן ולהשיג _התנגדות לצנזורה ריבונית_. עבור סוג אבטחה _זה, גיליון אלקטרוני של גוגל הוא הרבה, _פחות_ "מאובטח" מביטקוין, מכיוון שניתן להשתלט עליו על ידי גורם* , גוגל, ללא מאמץ.
 
-In this sense, Proof of Stake is much like a Google spreadsheet. Lack of clarity around security guarantees, and the difficulty in measuring them, makes it impossible for even the highly technical users to see past the marketing claims made by many PoS projects. As a result, the true nature of these systems and their potential failure modes is obfuscated, compared with the explicit, well understood, and less complicated guarantees of Proof of Work systems.
+במובן הזה, הוכחת הימור דומה מאוד לגיליון אלקטרוני של גוגל. חוסר בהירות סביב ערבויות אבטחה, והקושי למדוד אותן, לא מאפשר אפילו למשתמשים הטכניים ביותר לראות מעבר לטענות השיווקיות של פרויקטי PoS רבים. כתוצאה מכך, האופי האמיתי של מערכות אלו ומצבי הכשל הפוטנציאליים שלהן מעורפל, בהשוואה להבטחות המפורשות, המובנות היטב והפחות מסובכות של מערכות הוכחת עבודה.
 
-As each PoS system has its unique set of flaws, appraising them individually is impractical. Still, some general problems are more or less applicable to all Proof of Stake systems compared to Proof of Work, which will be explored below to demonstrate that chains implicitly make security trade-offs when they decide to use PoS over PoW.
+מכיוון שלכל מערכת PoS יש את מערך הפגמים הייחודי שלה, הערכתם בנפרד אינה מעשית. ובכל זאת, כמה בעיות כלליות חלות פחות או יותר על כל מערכות ה-Proof of Stake בהשוואה ל-Proof of Stake, אשר ייבדקו להלן כדי להדגים שרשתות עושות פשרות אבטחה באופן מרומז כשהן מחליטות להשתמש ב-PoS על PoW.
 
-### Self-Referential Security
+### אבטחה הפניה עצמית
 
-Proof of Work is unique in that it can objectively bridge the gap between the "real world" and the "digital world" using the common language of compute cycles, which, when translated into hashrate, can be verified trustlessly by software. Blockchains that use Proof of Work rely on unforgeable measurements from outside their system to reach consensus about their internal state, converting energy into security in the most direct and efficient way, while offloading the responsibility of generating those measurements to the outside world.
+הוכחת עבודה היא ייחודית בכך שהיא יכולה לגשר באופן אובייקטיבי על הפער בין "העולם האמיתי" ל"העולם הדיגיטלי" באמצעות השפה הנפוצה של מחזורי מחשוב, אשר, כאשר מתורגמים ל-hashrate, ניתן לאמת ללא אמון על ידי תוכנה. רשתות בלוק שמשתמשות ב-Proof of Work מסתמכות על מדידות בלתי ניתנות לזיוף מחוץ למערכת שלהם כדי להגיע להסכמה לגבי מצבם הפנימי, תוך המרת אנרגיה לאבטחה בצורה הישירה והיעילה ביותר, תוך הורדת האחריות להפקת המדידות הללו לעולם החיצון.
 
-Proof of Work is very much like a combustion engine that consumes energy and converts it into valuable work in the form of security for the chain, incentivizing honest mining and ensuring that 51% attacks are costly.
+הוכחת עבודה דומה מאוד למנוע בעירה שצורך אנרגיה וממיר אותה לעבודה בעלת ערך בצורת אבטחה לשרשרת, תמריץ כרייה כנה ומבטיח ש-51% התקפות יקרות.
 
-![Proof of Work Engine](./engine.jpg)
+![מנוע הוכחה לעבודה](./engine.jpg)
 
-Instead of sourcing security from outside their system, Proof of Stake blockchains are secured by self-referencing their own state, and, as such, these protocols onboard additional responsibilities, complexity, and attack surface that can compromise how this security is generated.
+במקום להשיג אבטחה מחוץ למערכת שלהם, רשתות ה-Proof of Stake מאובטחות על ידי התייחסות עצמית למצב שלהם, וככאלה, הפרוטוקולים הללו על גבי תחומי אחריות, מורכבות ותקיפה נוספים שעלולים לסכן את האופן שבו אבטחה זו נוצרת.
 
-This self-referencing of security can be described as a kind of perpetual motion machine that breaks the laws of thermodynamics. On the surface, the veil of complexity may trick observers into assuming it can self sustain for a long period, but in reality, an unnoticed constraint means it is bound to grind to a halt in the not too distant future.
+ניתן לתאר את ההתייחסות העצמית הזו לביטחון כמעין מכונת תנועה מתמדת השוברת את חוקי התרמודינמיקה. על פני השטח, מעטה המורכבות עשוי להערים על צופים להניח שהוא יכול להחזיק בעצמו לתקופה ארוכה, אבל למעשה, אילוץ שלא יבחינו בו פירושו שהוא עתיד להיעצר בעתיד הלא רחוק.
 
-![Proof of Stake Perpetual Motion Machine](./overbalance.jpg)
+![הוכחה של מכונת תנועה תמידית](./overbalance.jpg)
 
-### Complexity and Attack Surface
+### מורכבות ומשטח התקפה
 
-As with all software systems, additional complexity creates a greater attack surface for malicious actors to take advantage of and exploit, with potentially catastrophic results. In the context of blockchains, which are economic as well as software systems, this problem is compounded, and many of the potential exploits that lay dormant in such systems may not appear until a significant economic value is at risk.
+כמו בכל מערכות התוכנה, מורכבות נוספת יוצרת משטח התקפה גדול יותר עבור שחקנים זדוניים לנצלם ולנצלם, עם תוצאות קטסטרופליות שעלולות להיות. בהקשר של בלוקצ'יין, שהם מערכות כלכליות כמו גם תוכנה, בעיה זו מורכבת, ורבים מהניצולים הפוטנציאליים שהיו רדומים במערכות כאלה עשויים שלא להופיע עד שערך כלכלי משמעותי נמצא בסיכון.
 
-Subtle game theory bugs and exploits in blockchains are extremely difficult, in some cases impossible to identify, test and eliminate before going into production. One major defense is adhering to the sound technical principle of [Keep It Simple, Stupid](https://en.wikipedia.org/wiki/KISS_principle), an approach abandoned by Proof of Stake projects when they reject the simple elegance Proof of Work and embrace more complex and exploitable alternatives that offer little to no pragmatic benefit to the network.
+באגים וניצולים עדינים של תורת המשחקים בבלוקצ'יין הם קשים ביותר, במקרים מסוימים בלתי אפשרי לזהות, לבדוק ולחסל לפני הכניסה לייצור. אחת ההגנה העיקריות היא הקפדה על העיקרון הטכני הקול של [Keep It Simple, Stupid](https://en.wikipedia.org/wiki/KISS_principle), גישה שננטשה על ידי פרויקטים של Proof of Stake כאשר הם דוחים את האלגנטיות הפשוטה Proof of Work ומאמצים אלטרנטיבות מורכבות יותר וניתנות לניצול שמציעות תועלת פרגמטית מועטה או לא. לרשת.
 
-### Unbalance of Power
+### חוסר איזון כוח
 
-As [explored earlier](/why-classic/decentralism/#balancing-power), removing miners from a blockchain's socioeconomic model takes away an important regulating force that would otherwise prevent capture; keeping other parties honest through the threat of vetoing poor decisions by the selective mining of chains. On Proof of Stake chains, investors and "miners" (stakers) are the same group, so any abuse of power by this group remains relatively unchecked, and the chain is likely to tend to fork in ways that benefit this group at the expense of others, such as by increasing staking rewards.
+כפי ש [נחקר קודם לכן](/why-classic/decentralism/#balancing-power), הסרת כורים מהמודל הסוציו-אקונומי של בלוקצ'יין מסירה כוח ויסות חשוב שאחרת ימנע לכידה; שמירת צדדים אחרים כנים באמצעות האיום של הטלת וטו על החלטות גרועות על ידי כרייה סלקטיבית של רשתות. רשתות ה-Proof of Stake, משקיעים ו"כורים" (מסיירים) הם אותה קבוצה, כך שכל ניצול לרעה של כוח על ידי קבוצה זו נותר בלתי מסומן יחסית, וסביר שהרשת תטה להתפצל בדרכים שיועילו לקבוצה זו על חשבון אחרים, כגון על ידי הגדלת פרסי ההימור.
 
-### Money isn't Power
+### כסף זה לא כוח
 
-The ultimate source of security on Proof of Work networks is a combination of electricity and hardware manufacturing distribution. Both of these are distributed geographically, and new providers can emerge organically. For large Proof of Work networks like Bitcoin, the resources required to muster an attack against the network are outside the means of any worldly organization, including nation states, which either do not have enough affordable electricity going spare or cannot secure the hardware required to mount an attack.
+מקור האבטחה האולטימטיבי ברשתות הוכחת עבודה הוא שילוב של הפצת חשמל וייצור חומרה. שני אלה מופצים גיאוגרפית, וספקים חדשים יכולים להופיע באופן אורגני. עבור רשתות הוכחת עבודה גדולות כמו ביטקוין, המשאבים הנדרשים לגיוס מתקפה נגד הרשת נמצאים מחוץ לאמצעים של כל ארגון עולמי, כולל מדינות לאום, שאו שאין להן מספיק חשמל במחיר סביר או שאינן יכולות לאבטח את החומרה הנדרשת להתקנה התקפה.
 
-This is why the high energy usage of Proof of Work networks is not "wasted". Instead, the high energy usage is what secures the network against attack by making such attacks prohibitively expensive and logistically impractical. Importantly, electricity sources are distributed globally, and unlike financial resources, are not easy to transport and impossible to centralize in a world of competing nation states that lay claim to geographical boundaries.
+זו הסיבה שצריכת האנרגיה הגבוהה של רשתות הוכחת עבודה לא "מבוזבזת". במקום זאת, צריכת האנרגיה הגבוהה היא מה שמבטיח את הרשת מפני התקפה על ידי הפיכת התקפות כאלה ליקרות בצורה בלתי רגילה ובלתי מעשיים מבחינה לוגיסטית. חשוב לציין, מקורות החשמל מופצים ברחבי העולם, ובניגוד למשאבים פיננסיים, אינם קלים להובלה ואי אפשר לרכז אותם בעולם של מדינות לאום מתחרות אשר תועלות בעלות על גבולות גיאוגרפיים.
 
-Proof of Stake chains are vulnerable to a whole suite of economic attacks thanks to modern financial weaponry and the value of the network being directly tied to security through staking. Unlike mining hardware and electricity, capital can be printed out of thin air in fiat systems and resources can be pulled together from all over the globe at the press of a button. The economic levers available to central banks and other organizations that may be threatened by blockchain technology are vast and sophisticated. The value of all Proof of Stake networks combined is a tiny drop compared to the broader economy, which has massive swathes of liquid capital that can be borrowed, leveraged, and put to use by a single company with a chip on its shoulder.
+רשתות "Proof of Stake" פגיעות לסדרה שלמה של התקפות כלכליות הודות לנשק פיננסי מודרני ולערך של הרשת הקשורה ישירות לאבטחה באמצעות הימור. שלא כמו חומרה וחשמל לכרייה, ניתן להדפיס הון יש מאין במערכות פיאט ולחבר משאבים מכל רחבי העולם בלחיצת כפתור. המנופים הכלכליים העומדים לרשות הבנקים המרכזיים וארגונים אחרים שעלולים להיות מאוימים על ידי טכנולוגיית הבלוקצ'יין הם עצומים ומתוחכמים. הערך של כל רשתות ה-Proof of Stake ביחד הוא צניחה זעירה בהשוואה לכלכלה הרחבה יותר, שיש בה חלקים עצומים של הון נזיל שניתן ללוות, למנף ולהפעיל חברה בודדת עם שבב על הכתף.
 
-Modern financial institutions threatened by blockchain technology are sure to wage economic war against Proof of Stake, who cannot just mess with the price, but by doing so, potentially cause total system failure. Through the creation of derivative markets and price manipulation, attackers are able to buy up voting rights on the network and hinder or destroy the ability to reach consensus through staking attacks.
+מוסדות פיננסיים מודרניים המאוימים על ידי טכנולוגיית הבלוקצ'יין בטוחים לנהל מלחמה כלכלית נגד הוכחת הימור, שלא יכולה פשוט להתעסק עם המחיר, אלא על ידי כך לגרום לכשל מערכתי מוחלט. באמצעות יצירת שווקי נגזרים ומניפולציה של מחירים, התוקפים מסוגלים לרכוש זכויות הצבעה ברשת ולהפריע או להרוס את היכולת להגיע לקונצנזוס באמצעות התקפות הימור.
 
-### Miner Attrition vs The Rich Get Richer
+### שחיקה של כורים לעומת העשירים תתעשרו
 
-In Proof of Work systems, beyond ongoing electricity costs, miners must continually upgrade hardware, expending additional resources to remain competitive. The effect of this is that the pool of individuals who can mine profitably is constantly shifting. If a miner is bad at mining, they will eventually lose their ability to earn a living, as they are out-competed by other miners.
+במערכות הוכחת עבודה, מעבר לעלויות החשמל השוטפות, הכורים חייבים לשדרג ללא הרף חומרה, ולהוציא משאבים נוספים כדי להישאר תחרותיים. ההשפעה של זה היא שמאגר האנשים שיכולים לכרות ברווחים משתנה כל הזמן. אם כורה גרוע בכרייה, הם יאבדו בסופו של דבר את יכולתו להתפרנס, מכיוון שהם מתחרים על ידי כורים אחרים.
 
-This is good for decentralization, as a constantly shifting pool of miners means that no one miner can hold on to a significant portion of a network for any significant amount of time unless they are actively working in the best interests of the network by providing ever-increasing amounts of hashrate. To achieve this, miners must invest in research and development, infrastructure, and scaling up operations, all the while paying close attention to happenings in the social layer, deciding how to balance power and which forks to mine.
+זה טוב לביזור, שכן מאגר כורים שמשתנה ללא הרף אומר שאף כורה לא יכול להחזיק בחלק משמעותי של הרשת במשך כל פרק זמן משמעותי, אלא אם כן הוא פועל באופן פעיל לטובת האינטרסים של הרשת על ידי אספקת כמויות הולכות וגדלות של האשראט. כדי להשיג זאת, הכורים חייבים להשקיע במחקר ופיתוח, בתשתיות ובהגדלת הפעילות, תוך כדי תשומת לב רבה להתרחשויות ברובד החברתי, להחליט כיצד לאזן את הכוח ובאיזה מזלגות לכרות.
 
-This vital and multifaceted role is lobotomized from Proof of Stake systems. Instead, replacing this constant struggle with the relatively static distribution of how much stake a given staker has access to, with very little to be gained by investing in innovation or other externalities. How much a staker profits or losses is entirely within their control and by doing nothing they can continuously increase their stack with no risk of being out-competed.
+התפקיד החיוני והרב-גוני הזה עובר לובוטום ממערכות הוכחה של הימור. במקום זאת, החלפת המאבק המתמיד הזה בהתפלגות הסטטית יחסית של כמות ההימור שיש למחזיק נתון גישה אליו, עם מעט מאוד מה להרוויח על ידי השקעה בחדשנות או בהשפעות חיצוניות אחרות. כמות הרווחים או ההפסדים של המחזיק הוא לגמרי בשליטתו ועל ידי שום דבר הם יכולים להגדיל ללא הרף את הערימה שלו ללא סיכון להיות מחוץ לתחרות.
 
-On top of this, due to economies of scale, gas fees, and the proportion of funds that must be staked compared to the funds that must for day to day living costs, in Proof of Stake systems, _the rich get richer_ at a _faster rate_, which centralizes the distribution of a network's value towards the richest stakers over time.
+נוסף על כך, עקב יתרונות גודל, עמלות גז ושיעור הכספים שיש להעמיד בהשוואה לכספים שצריכים לעלות עלויות המחיה היומיומיות, במערכות הוכחת הימור, _העשירים מתעשרים_ בכל פעם. _קצב מהיר יותר_, המרכז את חלוקת ערך הרשת כלפי המשתתפים העשירים ביותר לאורך זמן.
 
-With no attrition to correct this trend, lack of turnover in the staking ecosystem means that a power-block of mega-whales accumulates an ever-increasing portion of all Proof of Stake networks, making them increasingly susceptible to takeover as the Nakamoto coefficient approaches 0. There is no reason that rent-seeking Proof of Stake staking dynasties don't continue for generations, as big stakers pass their increasingly large bags to the next generation, making it just a matter of time before Proof of Stake networks are explicitly captured as the value in the network and the power to decide winning forks is drawn to the top.
+ללא שום שחיקה לתקן את המגמה הזו, חוסר תחלופה במערכת האקולוגית של ההימור פירושו שחסום כוח של מגה-לווייתנים צובר חלק הולך וגדל מכל רשתות הוכחת הימור, מה שהופך אותם רגישים יותר ויותר להשתלטות ככל שמקדם Nakamoto מתקרב ל-0 . אין שום סיבה ששושלות הוכחה להימור מחפשות שכר דירה לא יימשכו במשך דורות, שכן בעלי עניין גדולים מעבירים את התיקים ההולכים וגדלים שלהם לדור הבא, מה שהופך את זה רק לעניין של זמן עד שרשתות הוכחת הימור ייתפסו במפורש בתור הערך ברשת והכוח להחליט על מזלגות מנצחים נמשכים לפסגה.
 
-### Not Permissionless
+### לא חסר רשות
 
-Permissionlessness, unsurprisingly, is a property that allows new users to onboard into a system without the permission of someone already in said system. All other things being equal, permissionless systems can be more decentralized over time than permissioned systems, as they are indiscriminately open to new participants.
+חוסר הרשאה, באופן לא מפתיע, הוא מאפיין המאפשר למשתמשים חדשים להיכנס למערכת ללא אישור של מישהו שכבר נמצא במערכת האמורה. כל שאר הדברים שווים, מערכות חסרות הרשאה יכולות להיות מבוזרות יותר לאורך זמן מאשר מערכות מורשות, מכיוון שהן פתוחות ללא הבחנה למשתתפים חדשים.
 
-Mining, and in turn, Proof of Work, is permissionless, as anyone (or anything) can contribute hashrate to the network and have an equal chance of being able to mine a block based on the hashrate they contribute. Each hash is like a lottery ticket, and the more tickets purchased the higher the chance of finding a block and getting that sweet, sweet block reward.
+כרייה, ובתמורה, הוכחת עבודה, היא ללא רשות, מכיוון שכל אחד (או כל דבר) יכול לתרום hashrate לרשת ויש לו סיכוי שווה להיות מסוגל לכרות בלוק על סמך ההאשרייט שהוא תורם. כל חשיש הוא כמו כרטיס לוטו, וככל שנרכשים יותר כרטיסים כך גדל הסיכוי למצוא בלוק ולקבל את הפרס המתוק והמתוק הזה.
 
-Because there are no gatekeepers, Proof of Work consensus mechanisms _can't_ care _how_ hashrate is created, or _who_ contributed. This is an essential quality if a chain is to remain neutral and uncaptured because if gatekeepers did exist, they would be able to reject work based on a contributor's identity or location, locking them out, and by doing so, centralizing, and capturing the network.
+מכיוון שאין שומרי סף, מנגנוני קונצנזוס של הוכחת עבודה _לא יכול_ אכפת _איך נוצר_ hashrate, או _מי_ תרם. זוהי תכונה חיונית אם שרשרת תישאר נייטרלית ולא נתפסת, מכיוון שאם שומרי סף היו קיימים, הם יוכלו לדחות עבודה על סמך זהות או מיקומו של התורם, לנעול אותם בחוץ, ועל ידי כך, לרכז וללכוד את הרשת. .
 
-Proof of Stake systems are _not_ permissionless. The only way to acquire currency needed to transact and stake is by _buying_ it from someone who already has said currency; they need _permission_ from someone inside the network to use the network, with existing holders being the gatekeepers.
+מערכות הוכחת הימור הן _לא_ חסרות רשות. הדרך היחידה לרכוש מטבע הדרוש לביצוע עסקה והימור היא על ידי _קניית_ אותו ממישהו שכבר אמר מטבע; הם צריכים _הרשאות_ ממישהו בתוך הרשת כדי להשתמש ברשת, כאשר המחזיקים הקיימים הם שומרי הסף.
 
-In a sense, all Proof of Stake networks are already _soft captured_, as holders of PoS coins could collectively decide (or be coerced) to stop trading with users from some particular class or jurisdiction, and these users have no way to make transactions on the network regardless of the price they are willing to pay.
+במובן מסוים, כל הרשתות של Proof of Stake כבר נמצאות _soft captured_, שכן מחזיקי מטבעות PoS יכולים להחליט ביחד (או להיאלץ) להפסיק לסחור עם משתמשים ממעמד מסוים או מתחום שיפוט מסוים, ולמשתמשים אלה אין דרך לבצע עסקאות ברשת ללא קשר למחיר שהם מוכנים לשלם.
 
-Take the example of a person from a less developed or isolated nation with little to no ability to transact in dollars; without access to the banking system, and thus onboarding through exchanges, and with nobody willing to do an OTC deal in cash in their area, they can always acquire Proof of Work currencies by simply purchasing some hardware to mine it. This same user is locked out of Proof of Stake blockchains, making those networks less accessible, less useful, and less valuable.
+קחו את הדוגמה של אדם ממדינה פחות מפותחת או מבודדת עם יכולת מועטה עד ללא יכולת לבצע עסקאות בדולרים; ללא גישה למערכת הבנקאית, ובכך להיכנס דרך בורסות, ובלי שאף אחד לא מוכן לעשות עסקת OTC במזומן באזור שלו, הם תמיד יכולים לרכוש מטבעות של הוכחת עבודה פשוט על ידי רכישת חומרה כדי לכרות אותה. אותו משתמש ננעל מחוץ ל-Proof of Stake blockchains, מה שהופך את הרשתות הללו לפחות נגישות, פחות שימושיות ופחות בעלות ערך.
 
-### Centralization of Staking on Exchanges
+### ריכוז ההימור בבורסה
 
-The high technical barrier and _fear of messing up_ when running a node and manually staking makes it out of reach for the vast majority of casual holders in the crypto space, so almost all are likely to use third party services, usually exchanges, to stake.
+המחסום הטכני הגבוה והפחד של _מלבלגן_ בעת הפעלת צומת והימור ידני, מרחיקים אותו מהישג ידם של הרוב המכריע של המחזיקים המזדמנים בחלל הקריפטו, כך שכמעט כולם עשויים להשתמש בשירותי צד שלישי, בדרך כלל בורסות, כדי לְהַמֵר.
 
-Staking on exchanges is strictly better from a user experience perspective. It has the additional benefit of allowing users to instantly unstake funds with no penalty, as a large excess liquidity enables exchanges to arbitrage the lock-up period that most Proof of Stake chains impose, on behalf of users.
+ההימור על חילופים עדיף בהחלט מנקודת מבט של חווית משתמש. יש לו יתרון נוסף בכך שהוא מאפשר למשתמשים לבטל מיד את הכספים ללא קנס, מכיוון שעודף נזילות גדול מאפשר לבורסות לארביטראז' את תקופת הנעילה שרוב רשתות ה-Proof of Stake מטילות, בשם המשתמשים.
 
-The result is that for most Proof of Stake blockchains, exchanges will, and probably already do, handle the vast majority of a staking activity. This seriously undermines the illusion of decentralization on these projects and makes the capture of the chain far more likely.
+התוצאה היא שעבור רוב רשתות ה-Proof of Stake הבלוקצ'יין, הבורסות יטפלו, וכנראה כבר יעשו זאת, ברוב המכריע של פעילות ההימור. זה מערער ברצינות את האשליה של ביזור בפרויקטים אלה והופך את לכידת השרשרת לסבירה הרבה יותר.
 
-To illustrate, consider the following plausible scenario:
+לשם המחשה, שקול את התרחיש הסביר הבא:
 
-If an "undesirable" application is operating on a large Proof of Stake chain, a government or powerful multinational organization could compel all exchanges under their authority to simultaneously freeze the funds of that chain. Assuming they hold a certain threshold of staked assets between them, this portion of the stake could be used to either halt the network or force through future hard forks, holding the chain to ransom and censoring whichever applications they desire.
+אם אפליקציה "לא רצויה" פועלת בשרשרת גדולה של הוכחת הימור, ממשלה או ארגון רב-לאומי רב עוצמה יכול לחייב את כל הבורסות שבסמכותם להקפיא בו-זמנית את הכספים של אותה שרשרת. בהנחה שהם מחזיקים בסף מסוים של נכסים מוחזקים ביניהם, חלק זה של ההימור יכול לשמש כדי לעצור את הרשת או לכפות על מזלגות קשיחים עתידיים, להחזיק את השרשרת לפדיון ולצנזר את היישומים שהם רוצים.
 
-In Proof of Work, this kind of attack is impossible thanks to the separation of concerns and the geographically decentralized nature of electricity sources.
+בהוכחת עבודה, תקיפה מסוג זה היא בלתי אפשרית הודות להפרדת הדאגות והאופי המבוזר הגיאוגרפית של מקורות החשמל.
 
-### The APR Arms Race
+### מרוץ החימוש באפריל
 
-Proof of Stake chains compete with each other for liquid staking capital that, unlike mining hardware that is bound to specific algorithms, can freely move between _all_ PoS chains by trading in open markets. This means that over time, all Proof of Stake chains will be under pressure to increase staking rewards, and in turn inflation rates, to entice enough stakers to stake on their chain. As a result, a "race to the bottom" is likely to engulf all Proof of Stake chains, as they enter into an ever-increasing _APR arms race_.
+רשתות "Proof of Stake" מתחרות זו בזו על הון הימור נוזלי, שבניגוד לחומרת כרייה המחוברת לאלגוריתמים ספציפיים, יכולים לנוע בחופשיות בין _כל_ רשתות ה-PoS על ידי מסחר בשווקים פתוחים. משמעות הדבר היא שלאורך זמן, כל רשתות הוכחת הימור יהיו תחת לחץ להגדיל את תגמולי ההימור, ובתמורה את שיעורי האינפלציה, כדי לפתות מספיק משתתפים להירתם בשרשרת שלהם. כתוצאה מכך, "מירוץ לתחתית" צפוי לבלוע את כל שרשראות הוכחת הימור, כאשר הן נכנסות למרוץ חימוש הולך וגדל _אפריל_.
 
-For example, if Chain A offers a 12% staking reward, why would stakers stake Chain B's 3% reward, when they could simply stake A and sell those rewards for B, ending up with more B than they would by staking B directly? This forces chain B to increase their reward, which then encourages A to do the same, and so on.
+לדוגמה, אם רשת א' מציעה פרס על 12% מהימור, מדוע שהמעריצים יחזיקו את 3% הפרס של רשת ב', כאשר הם יכולים פשוט להמר על A ולמכור את התגמולים הללו עבור B, ולסיים עם יותר B מאשר על ידי החזקה ב' ישירות? זה מאלץ את שרשרת B להגדיל את התגמול שלהם, ואז מעודד את A לעשות את אותו הדבר, וכן הלאה.
 
-This situation is great news for large stakers, but terrible for users who have a relatively larger portion of their funds not staked to use the network, and will be taxed exorbitant fees for simply not staking. How this plays out in the long run is unknowable, but it risks damaging the utility and value of all PoS networks, leading to a death spiral of ever-increasing debasement.
+המצב הזה הוא חדשות נהדרות לבעלי עניין גדולים, אבל נורא למשתמשים שחלק גדול יחסית מהכספים שלהם לא מרוכזים בשימוש ברשת, ויחויבו בעמלות מופרזות על פשוט לא להמר. איך זה מתרחש בטווח הארוך לא ניתן לדעת, אבל זה מסתכן בפגיעה בתועלת ובערך של כל רשתות ה-PoS, מה שמוביל לספירלת מוות של השפלה הולכת וגוברת.
 
-### 33% Attacks
+### 33% התקפות
 
-Proof of Stake chains can be permanently disrupted if an attacker acquires 33% of staked assets, necessarily less than 33% of all coins.
+שרשראות הוכחת הימור עלולות להשתבש לצמיתות אם תוקף רוכש 33% מהנכסים בהימור, בהכרח פחות מ-33% מכלל המטבעות.
 
-> So if the average PoS protocol has 70%+ of it’s tokens staked, you’d need to acquire ~25% of the protocol’s total outstanding tokens to launch an attack. Although every PoS is different, 33% is generally only enough to halt the chain so it can’t come to consensus and produce new blocks, not to actually perform a double spend. For that you’d need a whopping 66%.
+> אז אם בפרוטוקול ה-PoS הממוצע יש 70%+ מהאסימונים שלו, תצטרך לרכוש ~25% מסך כל האסימונים המצטיינים של הפרוטוקול כדי לפתוח בהתקפה. למרות שכל PoS שונה, 33% מספיקים בדרך כלל רק כדי לעצור את השרשרת כך שהיא לא יכולה להגיע לקונצנזוס ולייצר בלוקים חדשים, לא לבצע הוצאה כפולה בפועל. בשביל זה תצטרך עצום של 66%.
 > 
-> - [Viktor Bunin](https://viktorbunin.medium.com/proof-of-stakes-security-model-is-being-dramatically-misunderstood-4ed7b19ca419)
+> - [ויקטור בונין](https://viktorbunin.medium.com/proof-of-stakes-security-model-is-being-dramatically-misunderstood-4ed7b19ca419)
 
-Some argue that there is no _direct_ economic incentive to cause such an attack because the attacker risks devaluing their holdings, which may be true, but this is also an admission that Proof of Stake chains are susceptible to 33% halting via _indirect_ economic incentives such as shorting. More importantly, PoS chains are susceptible to 33% attacks from actors such as nation states, where financial incentives are not the primary motivation, suggesting that _Sovereign Grade Censorship Resistance_ is not an object of concern.
+יש הטוענים שאין תמריץ כלכלי _ישיר_ לגרום למתקפה כזו מכיוון שהתוקף מסתכן בפיחות של אחזקותיו, מה שאולי נכון, אבל זו גם הודאה שרשתות הוכחת הימור רגישות לעצירה של 33% באמצעות _עקיף_ תמריצים כלכליים כגון שורט. חשוב מכך, רשתות PoS רגישות להתקפות של 33% מצד שחקנים כמו מדינות לאום, שבהן תמריצים פיננסיים אינם המניע העיקרי, מה שמרמז על כך ש _התנגדות לצנזורה ריבונית_ אינה מושא לדאגה.
 
 ### Perpetually Pure Pwnage
 
-Proof of Stake's _33% attack_ is a much bigger problem than Proof of Work's _51% attack_, the latter of which is not permanent as it has an ongoing external electricity cost, making them impractically expensive to perform for sustained periods. Moreover, because 51% attacks have an up front cost and are, unlike 33% attacks, not guaranteed to be successful, there is diminished incentive to perform them, let alone front the cost of persisting them.
+הוכחת התקפה של _33%_ של Proof of Stake היא בעיה הרבה יותר גדולה מהתקפת _51% של Proof of Work_, שהאחרונה אינה קבועה מכיוון שיש לה עלות חשמל חיצונית מתמשכת, מה שהופך אותם ליקרים באופן בלתי מעשי לביצוע לתקופות ממושכות. יתרה מכך, מכיוון של-51% התקפות יש עלות מקדימה, ושלא כמו 33% התקפות, לא מובטח שהן יצליחו, יש ירידה בתמריץ לבצע אותן, שלא לדבר על העלות של התקפותן.
 
-While 51% attacks in Proof of Work systems can be damaging, they only really directly affect those who are exposed to double spends; mostly exchanges, and not long term holders who do not transact frequently. In contrast, 33% attacks can halt the chain in perpetuity on PoS networks.
+בעוד ש-51% התקפות במערכות הוכחת עבודה יכולות להזיק, הן משפיעות ישירות רק על אלה שנחשפים להוצאות כפולות; בעיקר בורסות, ולא מחזיקים לטווח ארוך שאינם מבצעים עסקאות תכופות. לעומת זאת, 33% התקפות יכולות לעצור את השרשרת לנצח ברשתות PoS.
 
-On PoS chains, once an attacker achieves a certain threshold of stake, the chain can never recover; as the attacker does not need to commit external resources, they cannot be unseated. The only solution to this failure state is hard-forking away the attacker, which breaks _Code is Law_, defeats the purpose of having a blockchain, adds subjectivity, and further centralizes the chain.
+בשרשראות PoS, ברגע שתוקף משיג סף סיכון מסוים, השרשרת לעולם לא תוכל להתאושש; מכיוון שהתוקף אינו צריך להטיל משאבים חיצוניים, לא ניתן לבטל אותם. הפתרון היחיד למצב הכשל הזה הוא הוצאת התוקף בצורה קשה, מה ששובר את קוד _הוא חוק_, מביס את המטרה של בלוקצ'יין, מוסיף סובייקטיביות ומרכז עוד יותר את השרשרת.
 
-### Nothing at Stake
+### שום דבר על הכף
 
-In Proof of Work, if a fork occurs, miners have to decide which side of a fork to mine as there is an external electricity cost associated with the creation of blocks. If miners mine the "wrong" fork, their reward will become valueless, and they will have wasted the electricity spent mining it, so they must choose what to mine wisely; there is the _cost of electricity_ at stake.
+בהוכחת עבודה, אם מתרחש מזלג, הכורים צריכים להחליט איזה צד של מזלג לכרות מכיוון שיש עלות חשמל חיצונית הקשורה ליצירת בלוקים. אם כורים כורים את המזלג ה"לא נכון", התגמול שלהם יהפוך חסר ערך, והם יבזבזו את החשמל שהושקע בכרייתו, ולכן עליהם לבחור מה לכרות בחוכמה; יש עלות _של חשמל_ על כף המאזניים.
 
-In contrast, on Proof of Stake, if a fork happens, the staked resources, being part of the system's internal state, are split across the fork and are doubled. Stakers have equal assets on both sides of a fork and are incentivized to validate both sides, as they are unsure which side will prevail. This is known as the [nothing at stake problem](https://medium.com/coinmonks/understanding-proof-of-stake-the-nothing-at-stake-theory-1f0d71bc027). It is likely to encourage forks by making it cheaper and less risky to perform fork, making it easier to attack chains through fork-based shenanigans, and complicating reaching consensus about which side of a split is the "true" version.
+לעומת זאת, ב-Proof of Stake, אם מתרחש מזלג, המשאבים המוחזקים, שהם חלק מהמצב הפנימי של המערכת, מפוצלים על פני המזלג ומוכפלים. ל-stakers יש נכסים שווים משני צידי המזלג והם מתמריצים לאמת את שני הצדדים, מכיוון שהם לא בטוחים איזה צד ינצח. זה ידוע בתור בעיית [כלום על כף המאזניים](https://medium.com/coinmonks/understanding-proof-of-stake-the-nothing-at-stake-theory-1f0d71bc027). סביר להניח שזה יעודד מזלגות על ידי כך שזה יהיה זול יותר ופחות מסוכן לבצע מזלג, מה שיקל על תקיפת שרשראות באמצעות שרשראות מבוססות מזלג, ויקשה להגיע להסכמה לגבי איזה צד של פיצול הוא הגרסה ה"אמיתית".
 
-It is commonly claimed that the concept of _slashing_ is a solution to the nothing at stake problem, a technique that uses cryptographic proofs to punish stakers that validate the "wrong" side of a split. This is all well and good but slashing only works when forks are running protocols that can validate each other's proofs.
+מקובל לטעון שהמושג של _חיתוך_ הוא פתרון לבעיית הכלום שעל כף המאזניים, טכניקה שמשתמשת בהוכחות קריפטוגרפיות כדי להעניש את הגורמים המאמתים את הצד ה"שגוי" של פיצול. הכל טוב ויפה אבל חיתוך עובד רק כאשר מזלגות מריצים פרוטוקולים שיכולים לאמת את ההוכחות של זה.
 
-An attacker could push for a controversial hard fork that intentionally made the fork's slashing proof invalid on the old version of the chain, optionally making reverse untrue, and re-introducing the nothing at stake problem while encouraging validators to validate both chains, sowing chaos and splitting the value of the network.
+תוקף יכול לדחוף למזלג קשיח שנוי במחלוקת שהפך בכוונה את הוכחת החיתוך של המזלג לבלתי חוקית בגרסה הישנה של השרשרת, אופציונלי להפוך את ההיפוך לא נכון, ולהציג מחדש את בעיית הכלום על כף המאזניים תוך עידוד המאמתים לאמת את שתי השרשראות, לזרוע כאוס ו פיצול ערך הרשת.
 
-Unlike a malicious Proof of Work fork where miners would waste electricity mining the new fork, validators on this new Proof of Stake fork not only might as well validate it, as there is nothing at stake, but are incentivized to do so as it could well end up being the winning chain - the only side that has value in the future.
+בניגוד למזלג זדוני של הוכחת עבודה שבו כורים יבזבזו חשמל בכריית המזלג החדש, נותני תוקף על מזלג הוכחת היתד החדש הזה לא רק עשויים לאמת אותו, מכיוון שאין שום דבר על כף המאזניים, אלא הם מתמריצים לעשות זאת כפי שהוא יכול בהחלט. בסופו של דבר להיות השרשרת המנצחת - הצד היחיד שיש לו ערך בעתיד.
 
-### Disrupted Dispute Resolution
+### יישוב סכסוכים משובש
 
-Alternatively, assuming that both sides of a split _do_ recognize each other's slashing proofs, the chain then has a different problem: the resolution of legitimate differences in opinion that would result in chain split on Proof of Work networks.
+לחלופין, בהנחה ששני הצדדים של פיצול _עד_ מזהים זה את ההוכחות החותכות של זה, לשרשרת יש בעיה אחרת: פתרון הבדלי דעות לגיטימיים שיביאו לפיצול שרשרת ברשתות הוכחת עבודה.
 
-Ethereum Classic itself is an excellent example of the "ultimate dispute resolution mechanism" of Proof of Work chains, as explained no better than on the [Ethereum.org website](https://ethereum.org/en/governance/#dao-fork).
+Ethereum Classic עצמו הוא דוגמה מצוינת ל"מנגנון יישוב סכסוכים אולטימטיבי" של רשתות הוכחת עבודה, כפי שהוסבר לא טוב יותר מאשר באתר [Ethereum.org](https://ethereum.org/en/governance/#dao-fork).
 
-While heavily dependent on implementation details of the protocol, in general, Proof of Stake changes the dynamic of hard forking in favor of the majority stakers over the underdogs, and in many cases simply destroys the underdog chain, forcing them to hard fork to a new protocol if they disagree with a controversial fork.
+למרות שהיא תלויה במידה רבה בפרטי היישום של הפרוטוקול, באופן כללי, הוכחת הימור משנה את הדינמיקה של ההתפצלות הקשה לטובת הרוב המתמודדים על פני האנדרדוגים, ובמקרים רבים פשוט הורסת את שרשרת האנדרדוג, ומאלצת אותם להתפצל לחדש. פרוטוקול אם הם לא מסכימים עם מזלג שנוי במחלוקת.
 
-Unlike in Proof of Work, where the classic chain enjoys the advantage of maintaining the status quo and miners having to actively make a switch to a new fork, on Proof of Stake chains, the majority of forkers have the advantage, as the legacy side of a controversial fork has to implement their own defensive hard forks to avoid being slashed by the majority. New forks enjoy the option of either slashing or not-slashing validators on the old chain, optimizing the punishment of laggards to get their desired outcome, and manipulating the economics of a hard fork decision.
+שלא כמו ב-Proof of Work, שם הרשת הקלאסית נהנית מהיתרון של שמירה על הסטטוס קוו וכורים צריכים לעבור באופן אקטיבי למזלג חדש, ברשתות Proof of Stake, לרוב המזלגים יש את היתרון, שכן הצד המורשת של מזלג שנוי במחלוקת צריך ליישם מזלגות קשיחים הגנה משלהם כדי להימנע מנחתך על ידי הרוב. מזלגות חדשים נהנים מהאפשרות לחתוך או לא לחתוך את המאמתים בשרשרת הישנה, אופטימיזציה של עונשם של מפגרים כדי להשיג את התוצאה הרצויה להם, ולתמרן את הכלכלה של החלטה קשה.
 
-_Note: The following three Proof of Stake criticisms are courtesy of [etherplan.com](https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/)_
+_הערה: שלוש הביקורות הבאות על הוכחת הימור הן באדיבות [etherplan.com](https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/)_
 
-### Subjective fork choice
+### בחירת מזלג סובייקטיבי
 
-The fork choice is the decision rule network participants have to use when presented with more than one chain when it splits, when they join for the first time, or when they leave and join again. As an external physical signal, PoW enables a clear objective fork choice in the form of the “longest proof of work chain“. It is objective because only with the computing power of the whole network is that the longest chain can be established.
+בחירת המזלג היא כלל ההחלטה שעל משתתפי הרשת להשתמש בהם כאשר מציגים בפניהם יותר משרשרת אחת כאשר היא מתפצלת, כאשר הם מצטרפים בפעם הראשונה, או כאשר הם עוזבים ומצטרפים שוב. כאות פיזי חיצוני, PoW מאפשר בחירת מזלג אובייקטיבי ברורה בצורה של "שרשרת ההוכחה הארוכה ביותר לעבודה". זה אובייקטיבי כי רק עם כוח המחשוב של כל הרשת ניתן להקים את השרשרת הארוכה ביותר.
 
-As PoS systems don’t count with such an objective quantity to decide the correct chain, they have to use a subjective decision-making process by the participants. This means they need to consult off chain with block explorers, developers, miners or other sources to be able to decide what chain to follow. This applies, in case of splits, to participating nodes in the network, new entrants, and nodes who leave and join again.
+מכיוון שמערכות PoS אינן נחשבות עם כמות אובייקטיבית כזו כדי להחליט על השרשרת הנכונה, הן צריכות להשתמש בתהליך קבלת החלטות סובייקטיבי של המשתתפים. זה אומר שהם צריכים להתייעץ מחוץ לרשת עם חוקרים בלוקים, מפתחים, כורים או מקורות אחרים כדי להיות מסוגלים להחליט באיזו שרשרת לעקוב. זה חל, במקרה של פיצולים, על צמתים משתתפים ברשת, מצטרפים חדשים וצמתים שעוזבים ומצטרפים שוב.
 
-### Unforgible Costliness
+### עלות בלתי נשכחת
 
-One of the basic physical features of sound money is that it is very costly to produce to guarantee it can’t be forged. PoW provides this costliness of the tokens as miners incur in huge costs, in data centers and electricity, to be able to build blocks. This makes PoW tokens, as $ETC and $BTC, unforgeable in practice.
+אחת התכונות הפיזיות הבסיסיות של כסף קולי היא שזה מאוד יקר להפקה כדי להבטיח שלא ניתן לזייף. PoW מספק את העלות הזו של האסימונים שכן הכורים כרוכים בעלויות עצומות, במרכזי נתונים וחשמל, כדי להיות מסוגלים לבנות בלוקים. זה הופך את אסימוני PoW, כמו $ETC ו $BTC, לבלתי ניתנים לזיוף בפועל.
 
-It is simple to objectively verify that a holder's BTC or ETC is not counterfeit because of an external objective measurement embedded into every block header, but this proof does not exist in Proof of Stake systems. In PoS systems, because the database with accounts and balances is trivial to write by nodes and stakers in the system, there is no objective costliness, and verifying the authenticity holdings is far more complex, error-prone, and potentially requires expensive hardware.
+זה פשוט לאמת באופן אובייקטיבי שה-BTC או ETC של המחזיק אינם מזויפים בגלל מדידה אובייקטיבית חיצונית המוטמעת בכל כותרת בלוק, אבל הוכחה זו לא קיימת במערכות הוכחת הימור. במערכות PoS, מכיוון שמסד הנתונים עם חשבונות ויתרות הוא טריוויאלי לכתיבה על ידי צמתים ואינטרסים במערכת, אין עלות אובייקטיבית, ואימות החזקות האותנטיות הוא הרבה יותר מורכב, מועד לשגיאות, ועלול לדרוש חומרה יקרה.
 
-### Accumulated Work
+### עבודה מצטברת
 
-As miners in PoW blockchains work on a block by block basis, that work is not only a barrier for dishonest nodes to tamper with the current or latest blocks, but that work actually accumulates as the chain is built. This means blocks that are buried further away in the chain become exponentially more difficult for attackers to change or forge. For example, at the time of this writing, it would take 340 days with 100% of the current hashing power in the Bitcoin network to be able to reverse the entire chain.
+מכיוון שכורים ב-PoW blockchains עובדים על בסיס בלוק אחר בלוק, העבודה הזו היא לא רק מחסום עבור צמתים לא ישרים להתעסק עם הבלוקים הנוכחיים או האחרונים, אלא שהעבודה הזו מצטברת למעשה עם בניית השרשרת. המשמעות היא שבלוקים שקבורים רחוק יותר בשרשרת הופכים להיות קשים יותר לתוקפים לשנות או לזייף באופן אקספוננציאלי. לדוגמה, בזמן כתיבת שורות אלה, יידרשו 340 ימים עם 100% מכוח הגיבוב הנוכחי ברשת הביטקוין כדי להיות מסוגל להפוך את כל השרשרת.
 
-In PoS distributed ledgers, because they don’t use PoW, to reverse the entire chain is trivial in terms of computational work, so it can be done in a few minutes.
+ב-PoS ספרי חשבונות מבוזרים, מכיוון שהם לא משתמשים ב-PoW, להפוך את כל השרשרת היא טריוויאלית מבחינת עבודה חישובית, כך שניתן לעשות זאת תוך מספר דקות.
 
-## Hotel Towels
+## מגבות למלון
 
-Even if the environmentalist argument for Proof of Stake is taken at face value, it is clear that PoS requires chains to sacrifice many security guarantees otherwise provided by Proof of Work. Proof of Stake chains trade away censorship resistance in return for the promise of less energy consumption. Aside from marketing gimmicks, this trade-off seems to make little sense when pragmatically evaluating the responsibility and utility of blockchains compared to other available technologies. There is no free lunch, after all.
+גם אם הטיעון הסביבתי ל-Proof of Stake נלקח כערך נקוב, ברור ש-PoS דורשת מהרשתות להקריב ערבויות אבטחה רבות שסופקו אחרת על ידי הוכחת עבודה. רשתות Proof of Stake מחליפות את ההתנגדות לצנזורה בתמורה להבטחה לצריכת אנרגיה נמוכה יותר. מלבד גימיקים שיווקיים, נראה שהפשרה הזו לא הגיונית כאשר מעריכים באופן פרגמטי את האחריות והתועלת של בלוקצ'יין בהשוואה לטכנולוגיות זמינות אחרות. אחרי הכל אין ארוחת צהריים חינם.
 
-But when the environmentalist claim is _not_ taken at face value, the choice to use Proof of Stake starts to make sense. Much like a hotel that requests that guests reuse towels to "save the planet", the PoS environmentalist position is conveniently one that also happens to enrich the holders of said currencies, who can generate passive income by staking. In their eyes, staking allows them to reap the rewards of providing the very same service that miners would otherwise provide; "virtual mining" with next to no expense other than the opportunity cost of locking up stake.
+אבל כשהטענה של שומרי הסביבה היא _ולא_ כערך נקוב, הבחירה להשתמש ב-Proof of Stake מתחילה להיות הגיונית. בדומה למלון המבקש מאורחים לעשות שימוש חוזר במגבות כדי "להציל את כדור הארץ", עמדת הסביבה של PoS היא בנוחות גם עמדה שמעשרת את בעלי המטבעות האמורים, שיכולים לייצר הכנסה פסיבית על ידי הימור. בעיניהם, ההימור מאפשר להם לקצור את הפירות של מתן אותו שירות בדיוק שכורים היו מספקים אחרת; "כרייה וירטואלית" ללא שום הוצאה מלבד העלות ההזדמנותית של נעילת מניות.
 
-Well-intentioned or otherwise, this massive economic incentive explains why despite the security downgrades explored above, it is no wonder that PoS became such a popular choice among cryptocurrency holders and has managed to recruit many avid promoters.
+עם כוונה טובה או אחרת, התמריץ הכלכלי האדיר הזה מסביר מדוע למרות הורדות האבטחה שנחקרו לעיל, אין זה פלא ש-PoS הפך לבחירה כה פופולרית בקרב בעלי מטבעות קריפטוגרפיים והצליח לגייס מקדמים נלהבים רבים.
 
-> Proof of Stake is like the hotel asking you to reuse towels to save the planet. On the surface it's for noble intentions, but in reality it's making them money and giving you a worse service.
+> הוכחת הימור היא כמו המלון שמבקש ממך לעשות שימוש חוזר במגבות כדי להציל את כדור הארץ. על פני השטח זה מכוונות נעלות, אבל במציאות זה להרוויח להם כסף ולתת לך שירות גרוע יותר.
 
-For all the known downsides, the projects that nevertheless opt for Proof of Stake must either be _extremely_ concerned about energy usage, or possibly more believably, are primarily concerned that staking will economically benefit stakers. However, this concern itself is misguided, as a project can only have long term value if it provides utility, which is undermined by the centralization and trade-offs necessitated by Proof of Stake.
+למרות כל החסרונות הידועים, הפרויקטים שבוחרים בכל זאת ב-Proof of Stake חייבים להיות</em> _משימוש באנרגיה, או אולי יותר אמין, מודאגים בעיקר מכך שהימור יועיל כלכלית לבעלי עניין. עם זאת, דאגה זו עצמה מוטעית, שכן לפרויקט יכול להיות ערך לטווח ארוך רק אם הוא מספק תועלת, אשר מתערערת על ידי הריכוזיות והחלונות הנדרשים על ידי הוכחת הימור.</p>
 
-It may be that holders of such coins believe they are providing a comparable service to mining, but they are not converting an external real world expense into a security benefit, as with mining. Instead, they are _shuffling deck chairs on the Titanic_ by redistributing value from elsewhere in the network to themselves by taxing non-stakers through inflation.
+יכול להיות שמחזיקים במטבעות כאלה מאמינים שהם מספקים שירות דומה לכרייה, אבל הם לא ממירים הוצאה חיצונית בעולם האמיתי להטבה ביטחונית, כמו בכרייה. במקום זאת, הם _מדשדשים כיסאות נוח בטיטאניק_ על ידי חלוקה מחדש של ערך ממקום אחר ברשת לעצמם על ידי מיסוי מי שאינם שותפים באמצעות אינפלציה.
 
-In any case, because of the inherent trade-offs required in Proof of Stake systems, it is yet another sign that _Sovereign Grade Censorship Resistance_ is not a priority on these chains. As such, they cannot be recommended for deployments that have the potential to disrupt powerful institutions.
+בכל מקרה, בגלל הפשרות המובנות הנדרשות במערכות הוכחת הימור, זהו סימן נוסף לכך ש _התנגדות לצנזורה ריבונית_ אינה בראש סדר העדיפויות ברשתות אלו. ככאלה, לא ניתן להמליץ עליהם לפריסות שיש להן פוטנציאל לשבש מוסדות רבי עוצמה.
