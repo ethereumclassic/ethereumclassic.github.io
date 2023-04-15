@@ -1,5 +1,16 @@
 title: Reti di prova
 seo: Informazioni sui vari testnet di Ethereum Classic, con reti pubblicamente disponibili che possono essere utilizzate per testare contratti e aggiornamenti del protocollo.
+description: |
+  Quando si sviluppano contratti su Ethereum Classic, come con qualsiasi sistema di contratti EVM, si consiglia di utilizzare una [rete virtuale] locale (/development/tooling), che consente di iterare rapidamente senza dover attendere l'estrazione dei blocchi. Ad un certo punto, tuttavia, potresti voler consentire al pubblico di interagire con una versione beta della tua applicazione e, per questo, può essere utilizzata una testnet.
+
+  Poiché Ethereum Classic mantiene la compatibilità con l'EVM upstream di Ethereum, a parte alcuni casi limite minori, i contratti si comporteranno in modo identico. Ciò significa che le popolari reti di test Ethereum possono, per la maggior parte, essere utilizzate per i test pubblici dei contratti Ethereum Classic e, a causa della loro popolarità, ciò potrebbe essere preferibile per i test degli utenti.
+
+  Inoltre, Ethereum Classic ha le proprie testnet che gestiscono la versione Ethereum Classic di EVM e anche la distribuzione su una di queste reti è altamente consigliata prima del rilascio della produzione. Queste reti di test pubbliche forniscono anche rubinetti, quindi puoi facilmente acquisire testnet ETC e distribuire il tuo codice.
+
+  Se un faucet non funziona correttamente, unisciti alla Ethereum Classic Community [Discord](https://ethereumclassic.org/discord) per cercare fondi testnet. Qualcuno nella chat room dev-general ti aiuterà.
+
+  Puoi utilizzare [chainlist.org](https://chainlist.org) per configurare il tuo portafoglio web3 con gli endpoint e gli esploratori RPC appropriati.
+  Configura portafoglio: [Kotti](https://chainlist.org/chain/6), [Mordor](https://chainlist.org/chain/63)
 items:
   testnets:
     i18n:
