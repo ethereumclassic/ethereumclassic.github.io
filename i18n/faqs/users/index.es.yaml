@@ -15,6 +15,8 @@ items:
           También puedes utilizar MetaMask con Ethereum Classic.
       metmask:
         question: '¿Cómo se utiliza el ETC con MetaMask?'
+        answer: |
+          Puede agregar fácilmente Ethereum Classic a MetaMask a través del sitio web [CoinList.org](https://coinlist.org/chain/61). Si desea configurar MetaMask manualmente para usar un nodo RPC Ethereum Classic personalizado, puede consultar la guía [MetaMask](/guides/metamask).
       missingEtc:
         question: '¿Por qué no puedo ver mi ETC cuando uso un monedero hardware con MetaMask?'
         answer: |
