@@ -64,8 +64,6 @@ socialItems:
     name: ईटीसी लैब्स जीथब
   reddit:
     name: reddit
-  twitter:
-    name: ट्विटर
 appTypes:
   finance:
     name: वित्त
