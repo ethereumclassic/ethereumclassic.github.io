@@ -1,6 +1,6 @@
 ---
 updated: 2022-02-22
-title: Investor Resources
+title: משאבי משקיעים
 contributors:
   - arvicco
   - dax-classix
@@ -10,13 +10,13 @@ contributors:
   - ProphetDaniel
   - pyskell
   - TheEnthusiasticAs
-seo: Research materials for investors looking to learn more about Ethereum Classic's long term value proposition.
+seo: חומרי מחקר למשקיעים המעוניינים ללמוד עוד על הצעת הערך לטווח ארוך של Ethereum Classic.
 ---
 
-Ethereum Classic presents a unique investment opportunity as it is one of the few truly neutral blockchain projects. The protocol treats all participants equally. This means that if you purchase ETC, you are contributing directly to the network's security, and there is no central organization that disproportionately benefits from this contribution.
+Ethereum Classic מציג הזדמנות השקעה ייחודית מכיוון שהוא אחד מפרויקטי הבלוקצ'יין הנייטרליים באמת. הפרוטוקול מתייחס לכל המשתתפים באופן שווה. המשמעות היא שאם אתה רוכש ETC, אתה תורם ישירות לאבטחת הרשת, ואין ארגון מרכזי שמרוויח באופן לא פרופורציונלי מהתרומה הזו.
 
-On chains that have an undiluted premine or a dev team that receives a portion of the block reward, not only does this group tax your contribution, but it will be diverted away from network security, either directly from miners or in the form of negative price pressure as value is liquidated to pay for this group's expenses.
+ברשתות שיש להן פרימיין לא מדולל או צוות מפתחים שמקבל חלק מתגמול החסימה, לא רק שהקבוצה הזו מטילה מס על התרומה שלך, אלא שהיא תופנה מאבטחת הרשת, ישירות מכורים או בצורה של מחיר שלילי לחץ עם חיסול הערך כדי לשלם עבור הוצאות הקבוצה.
 
-Ethereum Classic, thanks to the [ultrafair redistribution](/why-classic/genesis#free-money-and-the-ultrafair-redistribution), does not have a central organization that is continually liquidating their premine, which pushes the price down at the expense of holders. Moreover, as with Bitcoin, ETC has a known future supply rather than one that can be inflated away at the whim of an opaque organizing committee, which redistributes value away from holders.
+ל-Ethereum Classic, הודות לחלוקה מחדש [אולטרה-הוגנת](/why-classic/genesis#free-money-and-the-ultrafair-redistribution), אין ארגון מרכזי שמחסל ללא הרף את השכר שלהם, מה שמוריד את המחיר על חשבון המחזיקים. יתרה מכך, כמו בביטקוין, ל-ETC יש היצע עתידי ידוע ולא כזה שניתן לנפח אותו בגחמה של ועדה מארגנת אטומה, שמחלקה מחדש ערך מהמחזיקים.
 
-The following materials discuss relevant information aimed at investors and those looking to understand the potential upside and value proposition of ETC.
+החומרים הבאים דנים במידע רלוונטי המכוון למשקיעים ולאלו המעוניינים להבין את היתרונות הפוטנציאליים והצעת הערך של ETC.
