@@ -1,35 +1,35 @@
 ---
-title: 挖矿硬件指南
+title: Mining Hardware Guide
 contributors:
   - "IstoraMandiri"
   - "wpwrak"
 updated: 2022-02-22
 contribute: true
-seo: 以太坊经典挖矿的硬件要求的简短解释，包括ETHash与ETCHash、SHA3、GPU和ASIC。
+seo: A short explanation of the Hardware Requirements for Mining Ethereum Classic, covering ETHash vs ETCHash, SHA3, GPUs, and ASICs.
 ---
 
-挖掘Ethereum Classic与挖掘Ethereum几乎相同，支持相同的硬件和挖掘软件。 如果你是最近被驱逐的以太坊矿工，Ethereum Classic喜欢它的矿工并欢迎你，你可以使用你现有的硬件开始挖ETC，只需切换到支持Ethereum Classic的 [矿池](/mining/pools)。
+Mining Ethereum Classic is almost identical to mining Ethereum, and supports the same hardware and mining software. If you are a recently evicted Ethereum miner, Ethereum Classic loves its miners and welcomes you, and you can start mining ETC using your existing hardware by simply switching to a [mining pool](/mining/pools) that supports Ethereum Classic.
 
 ## ETCHash
 
-ETC挖矿算法与以太坊的ETHash几乎相同，只是做了一个小的升级，使其对矿工更加友好。 2020年底，在 [Thanos升级期间](/blog/2020-11-27-thanos-hard-fork-upgrade)，ETC实施了 [ECIP-1099](https://ecips.ethereumclassic.org/ECIPs/ecip-1099)，该算法将ETHash算法调整为后来的ETCHash。
+The ETC Mining algorithm is almost identical to Ethereum's ETHash, with a small upgrade that made it more miner friendly. In late 2020, during the [Thanos upgrade](/blog/2020-11-27-thanos-hard-fork-upgrade), ETC implemented [ECIP-1099](https://ecips.ethereumclassic.org/ECIPs/ecip-1099), which tweaked the ETHash algorithm into what became known as ETCHash.
 
-基本上，在2020年，以太坊的DAG超过了4GB，这意味着许多拥有4GB内存的GPU将无法继续挖掘ETH。 作为回应，Ethereum Classic调整了它的算法，以确保4GB的卡能够继续挖掘ETC，直到 [大约2025年中期](https://minerstat.com/dag-size-calculator)。
+Basically, in 2020, Ethereum's DAG exceeded 4 GB, meaning that many GPUs with 4 GB of memory would be unable to continue mining ETH. In response, Ethereum Classic tweaked it's algorithm to ensure that cards with 4 GB would be able to continue mining ETC until [approximately mid-2025](https://minerstat.com/dag-size-calculator).
 
-## 硬件要求
+## Hardware Requirements
 
-有两种主要的硬件可以用来开采Ethereum Classic，并从中获利。
+There are two main types of hardware that can be used to profitably mine Ethereum Classic.
 
-### GPU
+### GPUs
 
-一般来说，挖掘Ethereum Classic的最佳显卡是最省电的显卡，至少有4GB的内存。 在挑选GPU之前，寻找专门关于挖ETCHash的评论。 你可以在网上搜索"[当年]开采Ethereum Classic的最佳GPU "以获得建议，并访问 [WhatToMine](https://whattomine.com/coins?e4g=true) 以获得更多信息。
+Generally, the best graphics cards to mine Ethereum Classic are the most power efficient cards with at least 4 GB of memory. Before picking a GPU, look for reviews specifically about mining ETCHash. You can search online for the "Best GPUs for mining Ethereum Classic in [current year]" for suggestions, and visit [WhatToMine](https://whattomine.com/coins?e4g=true) for more info.
 
-### 集成电路
+### ASICs
 
-ASIC，即特定应用集成电路，是专门制造的芯片，顾名思义，是为开采一种特定算法而设计的。 最初，由于DAG的内存密集型要求，ETHash对ASIC相当抵触，但随着时间的推移，像所有有利可图的算法一样，有很大的动力为ETHash建立ASIC，这些ASIC确实进入了市场。
+ASICs, or Application Specific Integrated Circuits, are specially manufactured chips that are designed, as the name suggests, to mine just one specific algorithm. Originally, due to the memory-intense requirements of the DAG, ETHash was fairly resistant to ASICs, but with time, like all profitable algorithms, there was a big incentive to build ASICs for ETHash, which did come to market.
 
-一系列的ASIC矿机Ethereum Classic是可用的，可以通过在网上搜索 "ETHash ASIC Miners "找到，并检查制造商的规格是否支持ETCHash。
+A range of ASIC miners Ethereum Classic are available and can be found by searching online for "ETHash ASIC Miners", and check the manufacturer's specification for whether it supports ETCHash.
 
-## 支持
+## Support
 
-如果需要ETC社区其他矿工的进一步帮助和指导，你可以在 [Discord](https://ethereumclassic.org/discord)的#mining频道中联系。
+For further help and guidance from other miners in the ETC community, you can reach out in the #mining channel on [Discord](https://ethereumclassic.org/discord).
