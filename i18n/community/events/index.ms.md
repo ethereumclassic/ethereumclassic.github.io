@@ -13,7 +13,7 @@ Keajaiban berlaku apabila orang ramai berkumpul dan berkongsi idea, dan para pes
 
 ## Panggilan Komuniti
 
-UPDATE:  Regular, weekly Community Calls are currently on hiatus.
+KEMASKINI: Panggilan Komuniti biasa mingguan sedang ditangguhkan.
 
 Setiap Khamis, biasanya pada UTC 1500, sembang suara kumpulan berlaku dalam pelayan Ethereum Classic [Discord](https://ethereumclassic.org/discord). Panggilan distrim ke [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos), tetapi anda juga boleh menyertai 1 jam sebelum kami membuat siaran langsung, pada 1400 UTC, untuk bersembang tanpa rekod di Bilik Hijau.
 
