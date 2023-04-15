@@ -1,0 +1,45 @@
+title: תיאוריה ומחקר
+seo: אוסף מאמרים המכסים מגוון רחב של נושאים הקשורים לפילוסופיה, ההיסטוריה והצעת הערך הייחודית של Ethereum Classic.
+description: |
+  מעל ומעבר לדיירי הליבה של Ethereum Classic, נוצרה אסכולה שלמה המבוססת על ההשלכות של The Hard Fork והמשך של The Original Ethereum Vision.
+
+  אוסף של מאמרים נאסף להלן החוקר את ההשפעה של ETC, ההיסטוריה שלה, ומגוון רחב יותר של נושאי תיאוריה ומחקר, כדי לעזור לקדם את הבנתך את העמדה הייחודית והפוטנציאל הבלתי מוגבל של Ethereum Classic.
+items:
+  links:
+    items:
+      Etherplan:
+        name: אתרפלן
+        description: Etherplan של דונלד מקינטייר הוא תיאוריה ומקור מחקר בולט של Ethereum Classic. McIntyre אחראית על כתיבת כמה מהמאמרים הבאים.
+      Ethereum Classic Vision:
+        name: Ethereum Classic Vision
+        description: איך Ethereum Classic תהיה פלטפורמת מחשוב מצליחה ומדוע ETC היא חנות מצוינת של ערך.
+      Ethereum Classic vs. Ethereum 2.0, What is the Difference?:
+        name: Ethereum Classic לעומת Ethereum 2.0, מה ההבדל?
+        description: ניתן לומר ש-Ethereum Classic היא מערכת שמרנית, המתמקדת באבטחה, וה-Ethereum 2.0 הקרובה היא מערכת המנוהלת בהדרגה, המתמקדת בביצועים.
+      Phyro's Recap of ETC History:
+        name: סיכום היסטוריית ETC של Phyro
+        description: |
+          סקירה מפורטת של הסיפור מאחורי ETC על ידי ETCer לטווח ארוך.
+          *תוכל גם לקרוא עוד על היסטוריית ETC ב [roadmap](/knowledge/roadmap).*
+      /blog/2016-12-06-why/:
+        name: למה שאבחר להפעיל את האפליקציה שלי ב-Ethereum / Classic במקום World Wide Web?
+        description: הטבות דרך הרשת העולמית
+      Ethereum Classic Opportunities:
+        name: הזדמנויות קלאסיות של Ethereum
+        description: סקירה כללית של הפוטנציאל הפראי של Ethereum Classic
+      How to Have a Vision for Ethereum Classic Without Creating a Governance Orgy:
+        name: כיצד לקבל חזון עבור Ethereum Classic מבלי ליצור אורגיית ממשל
+        description: גישה לשמירה על התקדמות תוך הימנעות מבעיות של ממשל בלוקצ'יין
+      The Ethereum Classic vs Ethereum 1.x Dichotomy:
+        name: הדיכוטומיה של Ethereum Classic לעומת Ethereum 1.x
+        description: מה יהיו מערכת היחסים של ETC עם ETH 1.X כאשר Ethereum יעבור ל-Proof of Stake?
+      Why Proof of Stake is Less Secure Than Proof of Work:
+        name: מדוע הוכחת הימור פחות בטוחה מהוכחת עבודה
+        description: על ידי עיגון לבסיס פיזי של הוכחת עבודה, הרובד הסובייקטיבי רוכש סדרי גודל יותר אובייקטיביות, ובכך ביטחון.
+      Ethereum Classic (ETC) Wiki:
+        name: Wiki של Ethereum Classic (ETC).
+        description: כמה פילוסופיות ליבה של שרשרת ETC של Ethereum.
+      Categories of Decentralization:
+        name: קטגוריות של ביזור
+        link: https://taek.org/posts-categories-of-decentralization
+        description: חמש קטגוריות שנועדו לספק קו בסיס חזק להנמקה לגבי הנחות האמון שנעשות על ידי פלטפורמה או פרוטוקול, מבלי לנסות ללכוד כל פרט חשוב או לספק ודאות ודאית שפרוטוקול אחד מבוזר יותר מאחר.
