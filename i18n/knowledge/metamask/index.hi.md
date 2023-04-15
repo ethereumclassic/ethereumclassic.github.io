@@ -9,8 +9,8 @@ contributors:
   - DonaldMcIntyre
 ---
 
-**️ अपडेट**  
-अब आप https://chainlist.org/en/chain/61 पर "कनेक्ट-वॉलेट" पर क्लिक करके आसानी से मेटामास्क में ईटीसी जोड़ सकते हैं।
+**⚠️ Update**  
+You can now easily add ETC to MetaMask by clicking "Connect-Wallet" on https://chainlist.org/chain/61
 
 आप इस वेबसाइट के प्रत्येक पृष्ठ के नीचे यह लिंक भी पा सकते हैं।
 
