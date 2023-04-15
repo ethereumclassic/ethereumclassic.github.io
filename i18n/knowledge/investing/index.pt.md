@@ -1,6 +1,6 @@
 ---
 updated: 2022-02-22
-title: Investor Resources
+title: Recursos do Investidor
 contributors:
   - arvicco
   - dax-classix
@@ -10,13 +10,13 @@ contributors:
   - ProphetDaniel
   - pyskell
   - TheEnthusiasticAs
-seo: Research materials for investors looking to learn more about Ethereum Classic's long term value proposition.
+seo: Materiais de pesquisa para investidores que desejam saber mais sobre a proposta de valor de longo prazo do Ethereum Classic.
 ---
 
-Ethereum Classic presents a unique investment opportunity as it is one of the few truly neutral blockchain projects. The protocol treats all participants equally. This means that if you purchase ETC, you are contributing directly to the network's security, and there is no central organization that disproportionately benefits from this contribution.
+O Ethereum Classic apresenta uma oportunidade única de investimento, pois é um dos poucos projetos blockchain verdadeiramente neutros. O protocolo trata todos os participantes igualmente. Isso significa que, se você adquirir o ETC, estará contribuindo diretamente para a segurança da rede, não havendo nenhuma organização central que se beneficie desproporcionalmente com essa contribuição.
 
-On chains that have an undiluted premine or a dev team that receives a portion of the block reward, not only does this group tax your contribution, but it will be diverted away from network security, either directly from miners or in the form of negative price pressure as value is liquidated to pay for this group's expenses.
+Em cadeias que possuem uma pré-mineração não diluída ou uma equipe de desenvolvimento que recebe uma parte da recompensa do bloco, esse grupo não apenas tributa sua contribuição, mas também será desviado da segurança da rede, diretamente dos mineradores ou na forma de preço negativo pressão porque o valor é liquidado para pagar as despesas deste grupo.
 
-Ethereum Classic, thanks to the [ultrafair redistribution](/why-classic/genesis#free-money-and-the-ultrafair-redistribution), does not have a central organization that is continually liquidating their premine, which pushes the price down at the expense of holders. Moreover, as with Bitcoin, ETC has a known future supply rather than one that can be inflated away at the whim of an opaque organizing committee, which redistributes value away from holders.
+O Ethereum Classic, graças à redistribuição [ultrafair](/why-classic/genesis#free-money-and-the-ultrafair-redistribution), não possui uma organização central que esteja continuamente liquidando sua premine, o que reduz o preço às custas dos detentores. Além disso, como acontece com o Bitcoin, o ETC tem um suprimento futuro conhecido, em vez de um que pode ser inflado ao capricho de um comitê organizador opaco, que redistribui valor para longe dos detentores.
 
-The following materials discuss relevant information aimed at investors and those looking to understand the potential upside and value proposition of ETC.
+Os materiais a seguir discutem informações relevantes destinadas a investidores e àqueles que procuram entender o potencial de valorização e a proposta de valor da ETC.
