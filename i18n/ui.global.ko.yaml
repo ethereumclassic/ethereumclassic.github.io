@@ -64,8 +64,6 @@ socialItems:
     name: ETC Labs Github
   reddit:
     name: 레딧
-  twitter:
-    name: 트위터
 appTypes:
   finance:
     name: 재원
