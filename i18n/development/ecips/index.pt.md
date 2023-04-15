@@ -1,6 +1,6 @@
 ---
 title: ECIPs
-seo: A summary of the Ethereum Classic Improvement Proposal (ECIP) process, and a list of accepted ECIPs.
+seo: Um resumo do processo Ethereum Classic Improvement Proposal (ECIP) e uma lista de ECIPs aceitos.
 license: CC-BY
 contribute: true
 updated: 2022-02-22
@@ -10,35 +10,35 @@ contributors:
   - TheEnthusiasticAs
 ---
 
-## [Ethereum Classic Improvement Proposals](https://ecips.ethereumclassic.org/)
+## [Propostas de melhoria do Ethereum Classic](https://ecips.ethereumclassic.org/)
 
-### Summary
+### Resumo
 
-This document is a summary of the Ethereum Classic Improvement Proposal (ECIP) process. To view the full description of the ECIP process please read ECIP-1000 which is the formal document generally acknowledged by the Ethereum Classic (ETC) ecosystem, by rough consensus, as the most suitable system to propose new standard changes to the ETC protocol, informational documents, or ECIP process suggestions.
+Este documento é um resumo do processo Ethereum Classic Improvement Proposal (ECIP). Para visualizar a descrição completa do processo ECIP, leia ECIP-1000, que é o documento formal geralmente reconhecido pelo ecossistema Ethereum Classic (ETC), por consenso aproximado, como o sistema mais adequado para propor novas alterações padrão no protocolo ETC, informações documentos ou sugestões de processos ECIP.
 
-### Getting Started
+### Começando
 
-After reading ECIP-1000, fork the repository and add your ECIP to it, using the provided ECIP markdown template. Submit by creating a Pull Request to the Ethereum Classic ECIPs repository.
+Depois de ler o ECIP-1000, bifurque o repositório e adicione seu ECIP a ele, usando o modelo de marcação ECIP fornecido. Envie criando uma solicitação pull para o repositório Ethereum Classic ECIPs.
 
-### Types of Participants
+### Tipos de Participantes
 
-As you will see by reading this summary and the other documents suggested above, there are several parties that participate in the life cycle of an ECIP:
+Como você verá ao ler este resumo e os demais documentos sugeridos acima, são várias as partes que participam do ciclo de vida de um ECIP:
 
-- **ECIP Author:** This is you! The author is the person interested in improving ETC by making a new ECIP. Therefore, responsible for learning how the process works, so he or she can effectively propose protocol changes, informational or procedural improvements. The author is also responsible for following up on the ECIP life cycle throughout all the status steps, from 'draft' to 'active' as described below, so the proposal becomes a reality. If not, it is possible that the ECIP will be eventually rejected.
-- **Editors:** Editors are developers, mainly ETC volunteers, members of the Ethereum Classic Github Organization whose responsibilities include, but are not limited to, assigning numbers to ECIPs, merging them, listing them in the ECIP directory, checking if they are ready, sound and complete, if the status steps are followed, and to check their motivation, accuracy and proper licensing terms.
-- **Developer Teams:** ETC has several developer companies and volunteer developers who work on different node clients. Because these developers are dedicated to maintaining the core protocol of Ethereum Classic, they are categorized as "core developers" or "core developer teams". Core developers are in charge of making new proposals or reviewing and accepting or rejecting proposals from other developers or teams. When they accepts new changes, they merge them into the respective clients they maintain for the ETC network.
-- **Implementors:** Once an ECIP is accepted and merged, the last step is for miners, mining pools, wallet operators, exchanges, and other full node operators to implement the changes by installing or upgrading their nodes to integrate the new changes. These operating network participants are called "implementors".
-- **Users:** Users or end users may be regular consumers, businesses, governments, non-economic node operators, investors, or other kinds of users who see when the implementors upgraded their systems and adopt the new rules for sending transactions and managing smart contracts or using applications on top of ETC. Discussion Participants: According the ECIP process, when moving ECIPs forward, authors will open for discussion their proposals. These discussions are located in public forums, Github or developer calls. Discussion participants may be core or volunteer Ethereum Classic client developers, any developers on Github willing to contribute their well reasoned opinions, and other interested stakeholders or participants in the ETC ecosystems.
+- **ECIP Autor:** Este é você! O autor é a pessoa interessada em melhorar a ETC fazendo um novo ECIP. Portanto, responsável por aprender como funciona o processo, para que possa efetivamente propor alterações de protocolo, melhorias informativas ou processuais. O autor também é responsável por acompanhar o ciclo de vida do ECIP em todas as etapas do status, de 'rascunho' a 'ativo' conforme descrito abaixo, para que a proposta se torne uma realidade. Caso contrário, é possível que o ECIP seja eventualmente rejeitado.
+- **Editores:** Editores são desenvolvedores, principalmente voluntários ETC, membros da Organização Ethereum Classic Github cujas responsabilidades incluem, mas não estão limitadas a, atribuir números a ECIPs, fundi-los, listá-los no diretório ECIP, verificar se estão prontos, sólidas e completas, se as etapas de status forem seguidas, e para verificar sua motivação, precisão e termos de licenciamento adequados.
+- **Equipes de desenvolvedores:** A ETC possui várias empresas de desenvolvedores e desenvolvedores voluntários que trabalham em diferentes clientes de nó. Como esses desenvolvedores se dedicam a manter o protocolo principal do Ethereum Classic, eles são categorizados como "desenvolvedores principais" ou "equipes de desenvolvedores principais". Os desenvolvedores principais são responsáveis por fazer novas propostas ou revisar e aceitar ou rejeitar propostas de outros desenvolvedores ou equipes. Ao aceitar novas alterações, eles as mesclam nos respectivos clientes que mantêm para a rede ETC.
+- **Implementadores:** Depois que um ECIP é aceito e mesclado, a última etapa é para mineradores, pools de mineração, operadores de carteira, trocas e outros operadores de nó completo para implementar as alterações instalando ou atualizando seus nós para integrar as novas alterações. Esses participantes da rede operacional são chamados de "implementadores".
+- **Usuários:** Usuários ou usuários finais podem ser consumidores regulares, empresas, governos, operadores de nós não econômicos, investidores ou outros tipos de usuários que veem quando os implementadores atualizaram seus sistemas e adotaram as novas regras para enviar transações e gerenciar contratos inteligentes ou usando aplicativos em cima do ETC. Participantes da discussão: De acordo com o processo ECIP, ao avançar os ECIPs, os autores abrirão para discussão suas propostas. Essas discussões estão localizadas em fóruns públicos, Github ou chamadas de desenvolvedores. Os participantes da discussão podem ser desenvolvedores principais ou voluntários do cliente Ethereum Classic, qualquer desenvolvedor no Github disposto a contribuir com suas opiniões bem fundamentadas e outras partes interessadas ou participantes nos ecossistemas ETC.
 
-### Contributing Steps
+### Etapas de Contribuição
 
-- Review ECIP-1000.
-- Fork the repository by clicking "Fork" in the top right.
-- Add your ECIP to your fork of the repository. There is a ECIP markdown template.
-- Submit a Pull Request to Ethereum Classic's ECIPs repository.
+- Revise o ECIP-1000.
+- Bifurque o repositório clicando em "Fork" no canto superior direito.
+- Adicione seu ECIP à bifurcação do repositório. Existe um modelo de remarcação ECIP.
+- Envie uma solicitação pull para o repositório ECIPs do Ethereum Classic.
 
-ECIPs Website: https://ecips.ethereumclassic.org/
+Site ECIPs: https://ecips.ethereumclassic.org/
 
-## Accepted ECIPs
+## ECIPs aceitos
 
-The following features were approved and integrated into the Ethereum Classic protocol.
+Os seguintes recursos foram aprovados e integrados ao protocolo Ethereum Classic.
