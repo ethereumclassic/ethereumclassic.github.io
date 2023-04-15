@@ -1,11 +1,11 @@
 ---
-title: Development
-seo: A collection of resources for developers who are looking to learn more about contributing or deploying applications to Ethereum Classic.
+title: התפתחות
+seo: אוסף של משאבים עבור מפתחים שמחפשים ללמוד עוד על תרומה או פריסה של יישומים ל-Ethereum Classic.
 updated: 2022-02-22
 ---
 
-This section contains a list of resources that developers planning to contribute or deploy to Ethereum Classic may find useful.
+סעיף זה מכיל רשימה של משאבים שמפתחים המתכננים לתרום או לפרוס ל-Ethereum Classic עשויים למצוא בהם שימוש.
 
-If you are just getting started with development on Ethereum Classic, check out the [development guides](/guides/development) section.
+אם אתה רק מתחיל בפיתוח ב-Ethereum Classic, עיין בסעיף [מדריכי פיתוח](/guides/development).
 
-If you have experience developing on Ethereum, you'll be pleased to find out that nearly all the development concepts and tools used with Ethereum are compatible with Ethereum Classic, so your typical workflow is unlikely to change when you deploy to Classic.
+אם יש לך ניסיון בפיתוח ב-Ethereum, תשמח לגלות שכמעט כל מושגי הפיתוח וכלי הפיתוח המשמשים עם Ethereum תואמים ל-Ethereum Classic, כך שזרימת העבודה הטיפוסית שלך לא תשתנה כשתפרוס ל-Classic.
