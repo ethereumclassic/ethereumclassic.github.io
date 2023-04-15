@@ -69,6 +69,14 @@ socialItems:
     __link: https://discord.gg/5wDyd6u6pU
     __icon: discord
     name: crwdns72356:0crwdne72356:0
+  twitterEthclassic:
+    __link: crwdns108681:0crwdne108681:0
+    __icon: crwdns108683:0crwdne108683:0
+    name: crwdns108685:0crwdne108685:0
+  twitterEtcnetwork:
+    __link: crwdns108687:0crwdne108687:0
+    __icon: crwdns108689:0crwdne108689:0
+    name: crwdns108691:0crwdne108691:0
   githubOrg:
     __link: https://github.com/ethereumclassic
     __icon: github
@@ -81,10 +89,6 @@ socialItems:
     __link: https://reddit.com/r/ethereumclassic
     __icon: reddit
     name: crwdns72374:0crwdne72374:0
-  twitter:
-    __link: https://twitter.com/eth_classic
-    __icon: twitter
-    name: crwdns72380:0crwdne72380:0
 appTypes:
   finance:
     __color: green
@@ -140,3 +144,25 @@ appModal:
   checkListRating: crwdns72456:0crwdne72456:0
   warning: "crwdns72458:0crwdne72458:0"
   added: crwdns72460:0crwdne72460:0
+## Tags
+tags: crwdns108693:0crwdne108693:0
+tagNames:
+  blog: crwdns108695:0crwdne108695:0
+  announcement: crwdns108697:0crwdne108697:0
+  application: crwdns108699:0crwdne108699:0
+  development: crwdns108701:0crwdne108701:0
+  education: crwdns108703:0crwdne108703:0
+  event: crwdns108705:0crwdne108705:0
+  exchange: crwdns108707:0crwdne108707:0
+  guide: crwdns108709:0crwdne108709:0
+  hardfork: crwdns108711:0crwdne108711:0
+  media: crwdns108713:0crwdne108713:0
+  mining: crwdns108715:0crwdne108715:0
+  podcast: crwdns108717:0crwdne108717:0
+  teams: crwdns108719:0crwdne108719:0
+  trading: crwdns108721:0crwdne108721:0
+  wallet: crwdns108723:0crwdne108723:0
+  video: crwdns108725:0crwdne108725:0
+  news: crwdns108727:0crwdne108727:0
+  philosophy: crwdns108729:0crwdne108729:0
+  series: crwdns108731:0crwdne108731:0
