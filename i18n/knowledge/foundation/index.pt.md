@@ -1,15 +1,15 @@
 ---
-title: The Ethereum Classic Foundation
+title: A Fundação Clássica Ethereum
 updated: 2022-02-22
-seo: An explanation of why blockchains that have a Foundation based on ideas and principles are far more powerful than those that are made of people.
+seo: Uma explicação de por que as blockchains que têm uma Fundação baseada em ideias e princípios são muito mais poderosas do que aquelas feitas de pessoas.
 ---
 
-The Ethereum Classic Foundation does not consist of people; it is an idea.
+A Ethereum Classic Foundation não consiste em pessoas; é uma ideia.
 
-![Decentralization, Sound Money, and Proof of Work uphold Code is Law](../../../src/images/foundation.png)
+![Descentralização, dinheiro sólido e prova de trabalho defendem que o código é lei](../../../src/images/foundation.png)
 
-Compared to other blockchains whose development is guided by corruptible centralized institutions, The Ethereum Classic Foundation is a set of principles designed shepherds decision-making in a way that maximizes ETC's longevity and prevents it from being captured. As an idea, it is immune from many forms of attack, is robust, and can stand the test of time.
+Comparado a outros blockchains cujo desenvolvimento é guiado por instituições centralizadas corruptíveis, o Ethereum Classic Foundation é um conjunto de princípios projetados para orientar a tomada de decisões de uma forma que maximiza a longevidade da ETC e evita que ela seja capturada. Como ideia, é imune a muitas formas de ataque, é robusto e pode resistir ao teste do tempo.
 
-There is no top-down control over Ethereum Classic, which leads to an [antifragility](https://en.wikipedia.org/wiki/Antifragility), and is achieved by participants maintaining and refining a doctrine of decentralization that can be easily articulated, understood, and perpetuated over time.
+Não há controle de cima para baixo sobre o Ethereum Classic, o que leva a uma antifragilidade [](https://en.wikipedia.org/wiki/Antifragility), e é alcançado pelos participantes que mantêm e refinam uma doutrina de descentralização que pode ser facilmente articulada, compreendida e perpetuada ao longo do tempo.
 
-For Ethereum Classic, its Foundation is its strongest and most crucial element. ETC exists in response to The DAO [incident](/why-classic/genesis), and in recognition that all of a blockchain's utility and value is ultimately downstream of principles. Through the continuous [pursuit](/why-classic/decentralism) of _decentralization maximalism_, ETC's technological and social layers are configured to prevent outside forces from compromising a chain and overruling _Code is Law_.
+Para o Ethereum Classic, sua Fundação é o elemento mais forte e crucial. A ETC existe em resposta ao incidente DAO [](/why-classic/genesis), e em reconhecimento de que toda a utilidade e valor de uma blockchain é, em última análise, downstream de princípios. Por meio da contínua [busca](/why-classic/decentralism) de _maximalismo de descentralização_, as camadas tecnológicas e sociais da ETC são configuradas para impedir que forças externas comprometam uma cadeia e anulem _Código é Lei_.
