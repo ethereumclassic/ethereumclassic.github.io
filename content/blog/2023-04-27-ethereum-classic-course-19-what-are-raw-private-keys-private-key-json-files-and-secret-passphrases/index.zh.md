@@ -20,13 +20,15 @@ In this class we will go a step further and see how you can store your private k
 
 We will study what are raw private keys, private key JSON files, and secret passphrases, also known as mnemonic phrases.
 
+![Private keys are the core of the system.](./1.png)
+
 The core of the system is the private key as seen in the image. From the private key we derive the public key, which is also called the address, and under the address we hold our crypto assets on the public blockchain.
 
 It’s also important to consider how to keep your private keys secure, so we will touch on this here as well.
 
 ## What Are Raw Private Keys?
 
-![Raw private key.](./1.png)
+![Raw private key.](./2.png)
 
 As we explained before, a raw private key, or private key, is like a secret password that controls an address on the blockchain. Your ETC are under this address, which is known to the public.
 
@@ -42,7 +44,7 @@ The “raw” private key is basically the number itself with no extra formattin
 
 ## What Are Private Key JSON Files?
 
-![Private key JSON file..](./2.png)
+![Private key JSON file..](./3.png)
 
 This was a popular way of generating addresses and private keys for Ethereum Classic and Ethereum in the early days. 
 
@@ -56,7 +58,7 @@ The private key JSON file is a more elaborate format for storing private keys.
 
 ## What Are Secret Passphrases?
 
-![12 word secret passphrase.](./3.png)
+![12 word secret passphrase.](./4.png)
 
 Secret passphrases may be the most popular way of storing raw private keys now a days. 
 
@@ -66,7 +68,7 @@ Secret passphrases, also called mnemonic phrases, are very convenient because wi
 
 ## How to Keep Your Private Keys Secure
 
-![Keep your private keys safe.](./4.png)
+![Keep your private keys safe.](./5.png)
 
 With regards to keeping our private keys secure, it is important to know two things from the start:
 
@@ -88,7 +90,7 @@ The important thing about all these digital copy setups, similar to the concept 
 
 ## Do Not Use Cloud Services
 
-![Do NOT use these services to store your private keys.](./5.png)
+![Do NOT use these services to store your private keys.](./6.png)
 
 This is a typical mistake by many newbies. 
 
@@ -108,7 +110,7 @@ They own the private keys to decrypt all your files that you store with them.
 
 ## Do Not Send Them by Email or Text
 
-![Do NOT send private keys by email or text.](./6.png)
+![Do NOT send private keys by email or text.](./7.png)
 
 As demonstrated above, all tech companies, small or large, have access to your messages, emails, and information, whether encrypted or not, because, legally, they need to be able to respond to government inquiries and they usually put on their terms of services that they must have access for security and housekeeping reasons.
 
