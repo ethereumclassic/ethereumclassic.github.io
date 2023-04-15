@@ -25,18 +25,10 @@ items:
           Bekijk de [ontwikkelingsgidsen](/guides/development) sectie, evenals de [development](/development) sectie voor tutorials en hulpmiddelen om u te helpen implementeren naar Classic.
       deployment:
         question: Hoe zet ik in op de Ethereum Classic blockchain?
-        answer: |
-          Koop eerst wat ETC om te betalen voor het gas om uw contract in te zetten, en zorg er dan gewoon voor dat u inzet op het Ethereum Classic netwerk (Chain ID 61), in plaats van op het Ethereum netwerk (Chain ID 1).
       rpc:
         question: Zijn er openbare RPC eindpunten die ik kan gebruiken om naar ETC te deployen?
-        answer: |
-          Ja. Als u uw eigen Ethereum Classic node niet wilt synchroniseren, zijn er een aantal openbare eindpunten beschikbaar die gratis te gebruiken zijn.
-
-          Bekijk de [RPC Endpoints](/network/endpoints) sectie, evenals [ChainList.org](https://chainlist.org/en/chain/61).
       grants:
         question: Kan ik financiering krijgen om op Ethereum Classic te bouwen?
-        answer: |
-          Aangezien Ethereum Classic geen gecentraliseerde schatkist heeft, wordt alle ontwikkeling noodzakelijkerwijs ofwel zelf gefinancierd ofwel via financiering door derden. In het verleden hebben verschillende derde partijen beursprogramma's uitgevoerd, en [ETC Cooperative](https://etccooperative.org/) heeft aangekondigd dat het binnenkort een nieuw beursprogramma zal lanceren.
       ecips:
         question: Hoe kan ik helpen met de ontwikkeling van het Ethereum Classic protocol?
         answer: |
