@@ -1,5 +1,16 @@
 title: Test Ağları
 seo: Sözleşmeleri ve protokol yükseltmelerini test etmek için kullanılabilecek halka açık ağlara sahip çeşitli Ethereum Classic test ağları hakkında bilgiler.
+description: |
+  Herhangi bir EVM Sözleşme Sisteminde olduğu gibi Ethereum Classic üzerinde sözleşmeler geliştirirken, blokların çıkarılmasını beklemek zorunda kalmadan hızlı bir şekilde yineleme yapmanızı sağlayan yerel bir [sanal ağ](/development/tooling) kullanmanız önerilir. Yine de bir noktada, halkın uygulamanızın beta sürümüyle etkileşime girmesine izin vermek isteyebilirsiniz ve bunun için bir testnet kullanılabilir.
+
+  Ethereum Classic, Ethereum'un yukarı akış EVM'si ile uyumluluğu koruduğundan, bazı küçük uç durumlar dışında, sözleşmeler aynı şekilde davranacaktır. Bu, popüler Ethereum test ağlarının çoğunlukla Ethereum Classic sözleşmelerinin halka açık testi için kullanılabileceği ve popülerlikleri nedeniyle kullanıcı testi için tercih edilebileceği anlamına gelir.
+
+  Ek olarak, Ethereum Classic'in EVM'nin Ethereum Classic sürümünü çalıştıran kendi test ağları vardır ve üretim sürümünden önce bu ağlardan birine dağıtılması da şiddetle tavsiye edilir. Bu genel test ağları aynı zamanda bağlantı sağlar, böylece testnet ETC'sini kolayca edinebilir ve kodunuzu dağıtabilirsiniz.
+
+  Musluk düzgün çalışmıyorsa, testnet fonlarına ping atmak için lütfen Ethereum Classic Community [Discord](https://ethereumclassic.org/discord) katılın. Dev-general sohbet odasından biri size yardımcı olacaktır.
+
+  Web3 cüzdanınızı uygun RPC uç noktaları ve kaşiflerle yapılandırmak için [chainlist.org](https://chainlist.org) kullanabilirsiniz.
+  Cüzdanı Yapılandırma: [Kotti](https://chainlist.org/chain/6), [Mordor](https://chainlist.org/chain/63)
 items:
   testnets:
     i18n:
