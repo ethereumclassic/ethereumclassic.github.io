@@ -6,11 +6,14 @@ seo: ภาพรวมของเหตุการณ์ที่เกี่
 contributors:
   - IstoraMandiri
   - bobsummerwill
+  - TheCrowbill
 ---
 
 เวทมนตร์เกิดขึ้นเมื่อผู้คนมารวมกันและแบ่งปันความคิด และผู้เข้าร่วมทั่วทั้งชุมชน ETC ได้จัดระเบียบอย่างเป็นธรรมชาติเพื่อสร้างชีวิตจริงและการชุมนุมออนไลน์เพื่อมุ่งเน้นความสนใจในการปรับปรุง Ethereum Classic
 
 ## การโทรในชุมชน
+
+UPDATE:  Regular, weekly Community Calls are currently on hiatus.
 
 ทุกวันพฤหัสบดี โดยปกติเวลา UTC 1500 การแชทด้วยเสียงแบบกลุ่มจะเกิดขึ้นในเซิร์ฟเวอร์ Ethereum Classic [Discord](https://ethereumclassic.org/discord) การโทรถูกสตรีมไปที่ [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos)แต่คุณยังสามารถเข้าร่วมได้ 1 ชั่วโมงก่อนที่เราจะถ่ายทอดสด เวลา 1400 UTC เพื่อแชทนอกบันทึกในห้องสีเขียว
 
