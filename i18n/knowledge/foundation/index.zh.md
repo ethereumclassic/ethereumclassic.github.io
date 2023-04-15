@@ -1,15 +1,15 @@
 ---
-title: The Ethereum Classic Foundation
+title: 以太坊经典基金会
 updated: 2022-02-22
-seo: An explanation of why blockchains that have a Foundation based on ideas and principles are far more powerful than those that are made of people.
+seo: 解释了为什么拥有基于理念和原则的基金会的区块链要比由人组成的区块链强大得多。
 ---
 
-The Ethereum Classic Foundation does not consist of people; it is an idea.
+以太坊经典基金会并不是由人组成的，它是一个想法。
 
-![Decentralization, Sound Money, and Proof of Work uphold Code is Law](../../../src/images/foundation.png)
+![去中心化、健全的货币和工作证明坚持代码就是法律](../../../src/images/foundation.png)
 
-Compared to other blockchains whose development is guided by corruptible centralized institutions, The Ethereum Classic Foundation is a set of principles designed shepherds decision-making in a way that maximizes ETC's longevity and prevents it from being captured. As an idea, it is immune from many forms of attack, is robust, and can stand the test of time.
+与其他区块链的发展由易受腐蚀的中心化机构指导相比，以太坊经典基金会是一套原则，旨在以最大化ETC的寿命并防止其被捕获的方式来指导决策。 作为一种理念，它对多种形式的攻击具有免疫力，很强大，可以经受时间的考验。
 
-There is no top-down control over Ethereum Classic, which leads to an [antifragility](https://en.wikipedia.org/wiki/Antifragility), and is achieved by participants maintaining and refining a doctrine of decentralization that can be easily articulated, understood, and perpetuated over time.
+对Ethereum Classic没有自上而下的控制，这导致了 [反脆弱性](https://en.wikipedia.org/wiki/Antifragility)，并通过参与者维护和完善去中心化的学说来实现，这种学说很容易被阐明、理解，并随着时间的推移得以延续。
 
-For Ethereum Classic, its Foundation is its strongest and most crucial element. ETC exists in response to The DAO [incident](/why-classic/genesis), and in recognition that all of a blockchain's utility and value is ultimately downstream of principles. Through the continuous [pursuit](/why-classic/decentralism) of _decentralization maximalism_, ETC's technological and social layers are configured to prevent outside forces from compromising a chain and overruling _Code is Law_.
+对于Ethereum Classic来说，其基金会是其最强大和最关键的元素。 ETC的存在是对The DAO [事件的回应](/why-classic/genesis)，并认识到区块链的所有效用和价值最终是在原则的下游。 通过不断追求 [](/why-classic/decentralism) ， _，去中心化最大化_，ETC的技术和社会层被配置为防止外部力量损害一个链条，推翻 _代码就是法律_。
