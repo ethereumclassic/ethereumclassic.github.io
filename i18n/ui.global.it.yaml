@@ -1,7 +1,7 @@
 title: Ethereum Classic
 seo: "Una piattaforma informatica decentralizzata che esegue contratti intelligenti: applicazioni che vengono eseguite esattamente come programmate senza tempi di inattività, censure o interferenze di terze parti."
 #Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
-metaLocale: it_US
+metaLocale: it_IT
 #Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
 htmlLang: it
 published: Pubblicato
@@ -58,6 +58,10 @@ socialItems:
     name: Discordia
   discordCoop:
     name: ETC Coop Discord
+  twitterEthclassic:
+    name: eth_classic Twitter
+  twitterEtcnetwork:
+    name: ETC_Rete Twitter
   githubOrg:
     name: Github
   githubLabs:
@@ -103,3 +107,25 @@ appModal:
   checkListRating: Livello della lista di controllo senza fiducia
   warning: "**Attenzione:** Questa applicazione presentata dagli utenti non è stata verificata e non è garantita come sicura; usatela a vostro rischio e pericolo e fate sempre le vostre ricerche!"
   added: Aggiunto
+## Tags
+tags: Tag
+tagNames:
+  blog: Blog ETC
+  announcement: Annunci
+  application: App
+  development: Sviluppo
+  education: Formazione scolastica
+  event: Eventi
+  exchange: Scambi
+  guide: Guide
+  hardfork: Forchette dure
+  media: Media
+  mining: Estrazione
+  podcast: Podcast
+  teams: Squadre
+  trading: Commercio
+  wallet: Portafogli
+  video: Video
+  news: Link esterno
+  philosophy: Filosofia
+  series: Serie
