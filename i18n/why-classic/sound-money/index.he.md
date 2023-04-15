@@ -1,78 +1,78 @@
 ---
-title: Sound Money
+title: כסף קול
 updated: 2022-02-22
 disclaimer: opinion
-seo: An overview of the useful features of money that give it value, and how some blockchains, including Ethereum Classic and Bitcoin, intentionally apply these features to their monetary policy to ensure decentralization and longevity.
+seo: סקירה כללית של התכונות השימושיות של כסף שנותנות לו ערך, וכיצד חלק מה- blockchains, כולל Ethereum Classic ו- Bitcoin, מיישמים בכוונה את התכונות הללו על המדיניות המוניטרית שלהם כדי להבטיח ביזור ואריכות ימים.
 ---
 
-## Key Points
+## נקודות מפתח
 
-- Sound Money is a concept predating the internet that inspired the invention of Bitcoin and blockchain technology.
-- Money can be considered sound if it has several quantifiable properties, and these properties are encoded into ETC.
-- One important property is _scarcity_, which ETC gets from its _fixed emission curve_ leading to a _known future supply_.
-- If a project does not have a _known future supply_, maintainers can arbitrarily inflate the value of a currency away from holders.
-- This risk remains present on all chains that do not have a _fixed emissions curve_, including Ethereum™.
+- Sound Money הוא רעיון שקדם לאינטרנט שהיווה השראה להמצאת הביטקוין וטכנולוגיית הבלוקצ'יין.
+- כסף יכול להיחשב קול אם יש לו כמה מאפיינים שניתנים לכימות, ומאפיינים אלה מקודדים ל-ETC.
+- תכונה חשובה אחת היא מחסור __, אשר ETC מקבל מ _עקומת הפליטה הקבועה שלו_ המובילה לאספקה עתידית __.
+- אם לפרויקט אין אספקה עתידית ידועה __, מתחזקים יכולים לנפח באופן שרירותי את ערכו של מטבע הרחק מהמחזיקים.
+- סיכון זה נשאר קיים בכל הרשתות שאין להן עקומת פליטות קבועה __, כולל Ethereum™.
 
-## Introduction
+## מבוא
 
-The backbone of strong economies, the provider of stability, the incentiviser of healthy [time preference](https://www.youtube.com/watch?v=k5XbLm3pEfI), the creator of prosperity. Sound money is the antidote to many of the problems created by the financial abuses of centralization in the wider world, and is the core concept that spurred the creation of Bitcoin.
+עמוד השדרה של כלכלות חזקות, ספק היציבות, התמריץ של העדפת זמן בריאה [](https://www.youtube.com/watch?v=k5XbLm3pEfI), יוצר השגשוג. כסף קול הוא התרופה לרבות מהבעיות שנוצרו כתוצאה מההתעללות הפיננסית של ריכוזיות בעולם הרחב, והוא תפיסת הליבה שדחפה את יצירת הביטקוין.
 
-From the [Austrian School of Economics](https://mises.org/topics/bitcoin) many of the theories behind Bitcoin, including [Sound Money](https://mises.org/library/principle-sound-money), saw their philosophical gestation. Decades before Bitcoin was technologically conceivable, economists such as Ludwig von Mises, Fredreick Hayek and Milton Friedman were professing the dangers of fiat money and the advantage of systems of finance that are free from manipulation by central authorities.
+מבית הספר לכלכלה האוסטרי [](https://mises.org/topics/bitcoin) רבות מהתיאוריות מאחורי הביטקוין, כולל [Sound Money](https://mises.org/library/principle-sound-money), ראו את ההיריון הפילוסופי שלהן. עשרות שנים לפני שהביטקוין היה מתקבל על הדעת מבחינה טכנולוגית, כלכלנים כמו לודוויג פון מיזס, פרדריק האייק ומילטון פרידמן הצהירו על הסכנות של כסף פיאט ועל היתרון של מערכות פיננסיות ללא מניפולציות של רשויות מרכזיות.
 
-## Properties of Sound Money
+## מאפיינים של כסף קול
 
-Money is the lifeblood that transports energy and information around an economy, which is why well-designed currency is critical for a functional society. It was identified that money must serve three purposes: as a unit of account, a store of value, and a medium of exchange. These three functions are facilitated by several [properties](https://cryptowhat.com/properties-of-sound-money/), which were intentionally engineered into the design of Bitcoin and inherited by ETC:
+כסף הוא עורק החיים שמעביר אנרגיה ומידע ברחבי כלכלה, וזו הסיבה שמטבע מעוצב היטב הוא קריטי עבור חברה מתפקדת. זוהה שכסף חייב לשרת שלוש מטרות: כיחידת חשבון, מאגר ערך ואמצעי חליפין. שלושת הפונקציות הללו מופעלות על ידי כמה מאפיינים [](https://cryptowhat.com/properties-of-sound-money/), שהונדסו בכוונה בעיצוב הביטקוין ועברו בירושה על ידי ETC:
 
-- **Divisibility:** ETC is divisible up to 18 decimal places. This means that ETC can be split into 1,000,000,000,000,000,000 smaller units if needed. Denominations of ETC can be written in `wei`, the smallest ETC unit currently available.
-- **Transferability:** Since ETC isn’t tied to any banks or governments, it’s easily transferable across countries and between users on a global scale. This gives ETC an advantage over paper money and precious metals, which aren't as easily transferable across long distances.
-- **Fungibility:** Each ETC is worth precisely what it’s valued at on the market. One ETC won’t have different values based on previous ETC transactions—unlike some currencies where older bills are often worth less than newer ones. This is called fungibility, and it’s a property ETC shares with physical commodities like gold and silver.
-- **Durability:** ETC is incredibly durable. It is ultimately just information, so it can be stored on a computer or in a digital wallet, or even offline on a piece of paper or metal. This makes ETC much more durable than traditional forms of money like paper currency which can be easily destroyed or lost.
-- **Portability:** ETC is highly portable. You can carry it on a thumb drive, phone, write it down on paper, or remember it as a seed phrase.
-- **Scarcity:** ETC has a finite supply that will be released over time. This makes it scarcer than most other forms of currency.
+- **חלוקה:** ETC מתחלק עד 18 מקומות עשרוניים. המשמעות היא שניתן לפצל את ETC ל-1,000,000,000,000,000,000 יחידות קטנות יותר במידת הצורך. ניתן לכתוב ערכים של ETC ב `wei`, יחידת ה-ETC הקטנה ביותר הזמינה כרגע.
+- **יכולת העברה:** מכיוון ש-ETC אינו קשור לשום בנקים או ממשלות, ניתן להעברה בקלות בין מדינות ובין משתמשים בקנה מידה גלובלי. זה נותן ל-ETC יתרון על פני כסף נייר ומתכות יקרות, שאינן ניתנות להעברה בקלות למרחקים ארוכים.
+- **יציבות:** כל ETC שווה בדיוק את מה שהוא מוערך בו בשוק. ל-ETC אחד לא יהיו ערכים שונים בהתבסס על עסקאות ETC קודמות - בניגוד למטבעות מסוימים שבהם שטרות ישנים יותר שווים לרוב פחות מהחדשים יותר. זה נקרא ניתוק, וזה נכס ש-ETC חולק עם סחורות פיזיות כמו זהב וכסף.
+- **עמידות:** ETC הוא עמיד להפליא. בסופו של דבר זה רק מידע, כך שניתן לאחסן אותו במחשב או בארנק דיגיטלי, או אפילו במצב לא מקוון על פיסת נייר או מתכת. זה הופך את ETC להרבה יותר עמיד מצורות כסף מסורתיות כמו מטבע נייר שניתן להרוס או לאבד בקלות.
+- **ניידות:** ETC הוא נייד מאוד. אתה יכול לשאת אותו על כונן אצבע, טלפון, לרשום אותו על נייר, או לזכור אותו כביטוי זרע.
+- **מחסור:** ETC יש היצע סופי שישוחרר עם הזמן. זה הופך אותו לדל יותר מרוב צורות המטבע האחרות.
 
-## Known Future Supply
+## היצע עתידי ידוע
 
-ETC has all the properties of Sound Money. It’s decentralized, uncensorable, divisible, transferable, fungible, durable and scarce. The cornerstone of a blockchain's sound monetary policy is scarcity via a _known future supply_. Just like Bitcoin, but unlike Ethereum™, Classic has a _fixed emission curve_. A [fixed amount](https://etcis.money/) of ETC created as a block reward for miners, which means that holders of ETC can accurately calculate the total amount of ETC in existence at any point in time.
+ל-ETC יש את כל המאפיינים של Sound Money. זה מבוזר, בלתי ניתן לצנזור, ניתן לחלוקה, ניתן להעברה, ניתן לשינוי, עמיד ודל. אבן היסוד של מדיניות מוניטרית נכונה של בלוקצ'יין היא מחסור באמצעות אספקה עתידית __. בדיוק כמו ביטקוין, אבל בניגוד ל-Ethereum™, ל- Classic יש עקומת פליטה קבועה של __. [סכום קבוע](https://etcis.money/) של ETC שנוצר כפרס בלוק לכורים, מה שאומר שבעלי ETC יכולים לחשב במדויק את הסכום הכולל של ETC שקיים בכל נקודת זמן.
 
-Ethereum Classic's fixed emission curve was introduced by [ECIP-1017](https://ecips.ethereumclassic.org/ECIPs/ecip-1017). The emission schedule, also known as 5M20, reduces the block reward by 20% every 5,000,000 blocks. Socially, this block reward reduction event has taken the moniker of "The Fifthening."
+עקומת הפליטה הקבועה של Ethereum Classic הוצגה על ידי [ECIP-1017](https://ecips.ethereumclassic.org/ECIPs/ecip-1017). לוח הזמנים של הפליטה, הידוע גם בשם 5M20, מפחית את תגמול הבלוק ב-20% כל 5,000,000 בלוקים. מבחינה חברתית, אירוע הפחתת פרס החסימה הזה קיבל את הכינוי של "החמישייה".
 
-| Est. Date      | 5M20 Era | Block       | Block Reward | Total Era Emission     |
-| -------------- | -------- | ----------- | ------------ | ---------------------- |
-| 2015-07-30     | Era 1    | 1           | 5 ETC        | 25,000,000 ETC         |
-| 2017-12-11     | Era 2    | 5,000,001   | 4 ETC        | 20,000,000 ETC         |
-| 2020-03-17     | Era 3    | 10,000,001  | 3.2 ETC      | 16,000,000 ETC         |
-| 2022-04-15     | Era 4    | 15,000,001  | 2.56 ETC     | 12,800,000 ETC         |
-| 2024-05-07     | Era 5    | 20,000,001  | 2.048 ETC    | 10,240,000 ETC         |
-| ~Every 2 Years | N+1      | N+5,000,000 | -20%         | Total ~200,000,000 ETC |
+| הערכה תַאֲרִיך | עידן 5M20 | לַחסוֹם     | תגמול חסום | פליטת עידן כוללת         |
+| -------------- | --------- | ----------- | ---------- | ------------------------ |
+| 30-07-2015     | עידן 1    | 1           | 5 וכו'     | 25,000,000 וכו'          |
+| 2017-12-11     | עידן 2    | 5,000,001   | 4 וכו'     | 20,000,000 וכו'          |
+| 2020-03-17     | עידן 3    | 10,000,001  | 3.2 וכו'   | 16,000,000 וכו'          |
+| 2022-04-15     | עידן 4    | 15,000,001  | 2.56 וכו'  | 12,800,000 וכו'          |
+| 2024-05-07     | עידן 5    | 20,000,001  | 2.048 וכו' | 10,240,000 וכו'          |
+| ~ כל שנתיים    | N+1       | N+5,000,000 | -20%       | סך הכל ~200,000,000 וכו' |
 
-_Note: due to fluctuating uncle rate, the exact emission amount will deviate slightly, but not significantly._
+_הערה: עקב תנודות בשיעור הדוד, כמות הפליטה המדויקת תסטה מעט, אך לא משמעותית._
 
-A _fixed emissions curve_ means that the rate of inflation is predictable, and in the case of ETC, is continually decreasing over time. As the value of the network increases, the value of all ETC increases predictably according to this rate, rather than some unknown future rate that could be much lower. ETC's commitment to a fixed emission curve is enshrined into both the protocol and its social layer, and thanks to Proof of Work, any hard fork that attempts to manipulate inflation will result in a permanent chain split, massively disincentivizing such a change to the point of it being _extremely_ unlikely to be contemplated, let alone be attempted, let alone be successful.
+עקומת פליטות קבועה __ פירושה שקצב האינפלציה ניתן לחיזוי, ובמקרה של ETC, הוא יורד ללא הרף לאורך זמן. ככל שערך הרשת עולה, הערך של כל ה-ETC עולה באופן צפוי בהתאם לקצב הזה, ולא קצב עתידי לא ידוע כלשהו שיכול להיות נמוך בהרבה. המחויבות של ETC לעקומת פליטה קבועה מעוגנת הן בפרוטוקול והן ברובד החברתי שלו, ובזכות הוכחת עבודה, כל מזלג קשה שינסה לתמרן את האינפלציה יביא לפיצול שרשרת קבוע, שיבטל באופן מסיבי משינוי כזה עד כדי כך ש. זה _קיצוני_ לא סביר שיישקל, שלא לדבר על ניסיון, שלא לדבר על הצלחה.
 
-A _known future supply_ not only provides a prosperous alternative to the legacy fiat system, but also a critical sociotechnological role in the blockchains that utilize it as the basis for keeping a project decentralized. The monetary policy of a blockchain is a common agreement that all participants voluntarily engage with. It keeps all parties aligned economically and helps prevent groups from accumulating unfair influence over others. This unwavering neutrality is what keeps all participants on an equal footing.
+אספקה עתידית __ לא רק מספקת אלטרנטיבה משגשגת למערכת הפיאט המורשת, אלא גם תפקיד סוציו-טכנולוגי קריטי ב-blockchains המנצלים אותה כבסיס לשמירה על מבוזר של פרויקט. המדיניות המוניטרית של בלוקצ'יין היא הסכם משותף שכל המשתתפים בו מתקשרים מרצונם. זה שומר על כל הצדדים מיושרים מבחינה כלכלית ועוזר למנוע מקבוצות לצבור השפעה בלתי הוגנת על אחרים. הנייטרליות הבלתי מעורערת הזו היא שמחזיקה את כל המשתתפים בשוויון.
 
-Sound money, and it's ability to hold value over time, is a core property of the incentivization mechanisms that encourage participation, as while it does not guarantee that an asset will appreciate, it at least provides a means to calculate future earnings potential given the future growth of a project. It means that holders are guaranteed to benefit fairly from a project's upside.
+כסף בריא, ויכולתו להחזיק ערך לאורך זמן, הוא מאפיין ליבה של מנגנוני התמריצים המעודדים השתתפות, שכן הוא אמנם אינו מבטיח שנכס יתייקר, אך לפחות מספק אמצעי לחישוב פוטנציאל הרווחים העתידי בהתחשב בעתיד צמיחה של פרויקט. זה אומר שלמחזיקים מובטח להפיק תועלת הוגנת מהיתרונות של הפרויקט.
 
-## Unsound Money
+## כסף לא בריא
 
-Be it fiat or cryptocurrencies, redistribution of funds via inflation or currency debasement is one of the oldest tricks in the book for meddling central planners with a misplaced sense of authority. In times of trouble, they inevitably use this mechanism to ensure that when the ship goes down, those who control the keys to the castle will be the first on the life rafts, as they can redistribute whatever dregs of value remain to themselves at the expense of holders of the currency, all in the name of safety and stability, of course.
+בין אם מדובר במטבעות פיאט או קריפטוגרפיים, חלוקה מחדש של כספים באמצעות אינפלציה או השפלה של מטבעות היא אחד הטריקים העתיקים ביותר בספר להתערבות של מתכננים מרכזיים עם תחושת סמכות שגויה. בעיתות צרה, הם בהכרח משתמשים במנגנון הזה כדי להבטיח שכאשר הספינה יורדת, אלו השולטים במפתחות הטירה יהיו הראשונים על רפסודות ההצלה, שכן הם יכולים לחלק מחדש את כל שאריות הערך שנותרו לעצמם על חשבון של מחזיקי המטבע, הכל בשם הבטיחות והיציבות כמובן.
 
-This failure state is a type of rugpull that can only exist in projects that are not sufficiently decentralized. The redistribution of value away from holders to some specific group (be it miners, stakers, or developers) can only happen when the [balance of power](/why-classic/decentralism#balancing-power) is uneven, such that some participants can push through changes to the protocol that put their interests before others.
+מצב כשל זה הוא סוג של משיכה שיכולה להתקיים רק בפרויקטים שאינם מבוזרים מספיק. חלוקה מחדש של ערך הרחק מהמחזיקים לקבוצה ספציפית כלשהי (בין אם מדובר בכורים, משקיעים או מפתחים) יכולה להתרחש רק כאשר מאזן הכוחות [אינו אחיד, כך שחלק מהמשתתפים](/why-classic/decentralism#balancing-power) לדחוף שינויים בפרוטוקול המעמידים את האינטרסים שלהם לפני אחרים.
 
-The alternative to a _known future supply_ is an _unknown future supply_, leading to an unbounded degree of inflation or currency debasement down the road. In small amounts inflation may be unnoticeable and be drowned out by the day to day volatility of markets, but it nevertheless amounts to a tax on holders of the currency that do not enjoy the immediate benefits of the [Cantillon Effect](https://cointelegraph.com/explained/from-cash-to-crypto-the-cantillon-effect-vs-the-nakamoto-effect).
+האלטרנטיבה לאספקה עתידית ידועה _היא _היצע עתידי לא_*, המוביל לרמה בלתי מוגבלת של אינפלציה או ירידה במטבעות בהמשך הדרך. בכמויות קטנות האינפלציה עשויה להיות בלתי מורגשת ולטבוע בתנודתיות היומיומית של השווקים, אך היא בכל זאת מסתכמת במס על מחזיקי המטבע שאינם נהנים מהיתרונות המיידיים של אפקט [קנטילון](https://cointelegraph.com/explained/from-cash-to-crypto-the-cantillon-effect-vs-the-nakamoto-effect).
 
-In extreme cases, chains with a policy of maintaining an _unknown future supply_ can lead to [Zimbabwe-like hyperinflation](https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe), which is an ever-present dark cloud that hangs over all holders of these currencies. Although these projects may not need to turn on the inflation tap today, it may become "necessary" for whatever reason in the future. Be it development funding issues or the [race to the bottom](/why-classic/proof-of-work#the-apr-arms-race) of competing with other chains' Proof of Stake yields, without the precedent of a fixed emission curve, the central organizing committee of such projects can easily conjure up any number of justifications for appropriating value away from holders as the only way for the project to continue.
+במקרים קיצוניים, רשתות בעלות מדיניות של שמירה על אספקה עתידית לא ידועה _יכולות להוביל [אינפלציה דמוית זימבבואה](https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe), שהיא_ אפל שקיים תמיד מעל כל מחזיקי המטבעות הללו. למרות שפרויקטים אלה אולי לא יצטרכו לפתוח את ברז האינפלציה היום, זה עלול להפוך ל"הכרחי" מכל סיבה שהיא בעתיד. בין אם מדובר בנושאי מימון פיתוח או במירוץ [לתחתית](/why-classic/proof-of-work#the-apr-arms-race) של תחרות עם תשואות הוכחת הימור של רשתות אחרות, ללא התקדים של עקומת פליטה קבועה, הוועדה המארגנת המרכזית של פרויקטים כאלה יכולה בקלות להעלות על הדעת כל מספר של הצדקות לניכוס. ערך הרחק מהמחזיקים כדרך היחידה להמשך הפרויקט.
 
-![A One Hundred Trillion Zimbabwe Dollar Note](./zimbabwedollar.jpg)
+![שטר של מאה טריליון דולר זימבבואה](./zimbabwedollar.jpg)
 
-Some promoters of cryptocurrencies, perhaps unintentionally, gaslight their fellow holders into believing that the checks and balances provided by _fixed future supply_ are a hindrance, postulating that it is somehow in the financial interests of holders not to have one.
+כמה מהמקדמים של מטבעות קריפטוגרפיים, אולי בלי כוונה, מאירים את עמיתיהם להאמין שהאיזונים והבלמים שמספקים _אספקה עתידית קבועה_ הם מכשול, ומניחים שזה איכשהו באינטרסים הפיננסיים של המחזיקים שלא יהיה כזה.
 
-The idea of _ultrasound money_, a synonym of _unsound money_, means that the future supply of a currency is unknown, and while maintainers pinky-promise that it will never be higher than it needs to be, that could be anything from zero to infinity. An _ultrasound_ future supply is subject to tinkering based on an undefined and unpredictable criterion, meaning its central authority reserves the unrestricted right to redistribute funds away from holders in the future.
+הרעיון של _אולטרסאונד כסף_, מילה נרדפת ל _unsound money_, פירושו שההיצע העתידי של מטבע אינו ידוע, ובעוד ששומרים פינקי-מבטיחים שהוא לעולם לא יהיה גבוה ממה שהוא צריך להיות, זה יכול להיות כל דבר אפס עד אינסוף. אספקה עתידית של _אולטרסאונד_ נתונה להתעסקות בהתבסס על קריטריון לא מוגדר ובלתי צפוי, כלומר הרשות המרכזית שלה שומרת לעצמה את הזכות הבלתי מוגבלת לחלק מחדש כספים מהמחזיקים בעתיד.
 
-> Yeah, your boring old car might be safe, but check out this bad boy over here. We removed the breaks and seat belts, so now it's ultrasafe.
+> כן, אולי המכונית הישנה והמשעממת שלך בטוחה, אבל בדוק את הילד הרע הזה כאן. הסרנו את ההפסקות ואת חגורות הבטיחות, אז עכשיו זה בטוח במיוחד.
 > 
-> - Advocates of ~~Ultrasound Money~~ Ultrasafe Vehicles
+> - תומכים של ~~אולטרסאונד Money~~ רכבים בטיחותיים במיוחד
 
-![Used Car Salesman Explaining Ultrasafe Vehicles](./ultrasafe.jpg)
+![מוכר מכוניות משומשות מסביר על רכבים בטיחותיים במיוחד](./ultrasafe.jpg)
 
-Regrettably, in contrast with Ethereum Classic, perhaps to provide optionality in the future for attracting Proof of Stake collateral, Ethereum™ is one of many cryptocurrency projects that maintains a policy of _unknown future supply_, which in turn means that holders are exposed to the risk of unbounded future inflation.
+למרבה הצער, בניגוד ל-Ethereum Classic, אולי כדי לספק אופציונליות בעתיד למשיכת בטחונות מסוג Proof of Stake, Ethereum™ הוא אחד מפרויקטים רבים של מטבעות קריפטוגרפיים ששומרים על מדיניות של _אספקה עתידית לא ידועה_, מה שבתורו אומר שהמחזיקים חשופים ל הסיכון לאינפלציה עתידית בלתי מוגבלת.
