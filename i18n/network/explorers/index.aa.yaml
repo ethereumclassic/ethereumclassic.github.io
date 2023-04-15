@@ -47,13 +47,13 @@ items:
         __name: Nova Explorer
         __etc: https://explorer.novanetwork.io/?network=Ethereum%20Classic
       BlockScout_ETC-Network.info:
-        __name: crwdns108733:0crwdne108733:0
-        __etc: crwdns108735:0crwdne108735:0
+        __name: ETC-Network.info BlockScout
+        __etc: https://explorer-blockscout.etc-network.info/
       Alethio_ETC-Network.info:
-        __name: crwdns108737:0crwdne108737:0
-        __etc: crwdns108739:0crwdne108739:0
+        __name: ETC-Network.info Alethio
+        __etc: https://explorer-alethio.etc-network.info/
       Expedition_ETC-Network.info:
-        __name: crwdns108741:0crwdne108741:0
-        __etc: crwdns108743:0crwdne108743:0
-        __kotti: crwdns108745:0crwdne108745:0
-        __mordor: crwdns108747:0crwdne108747:0
+        __name: ETC-Network.info Expedition
+        __etc: https://explorer-expedition.etc-network.info/?network=Ethereum+Classic+at+etc-network.info+BESU+-+DE
+        __kotti: https://explorer-expedition.etc-network.info/?network=Ethereum+Classic+at+etc-network.info+GETH+Kotti
+        __mordor: https://explorer-expedition.etc-network.info/?network=Ethereum+Classic+at+etc-network.info+GETH+Mordor
