@@ -58,7 +58,7 @@ The private key JSON file is a more elaborate format for storing private keys.
 
 ## What Are Secret Passphrases?
 
-![12 word secret passphrase.](./4.png)
+![12 word secret passphrase (do not use this sample as your mnemonic phrase).](./4.png)
 
 Secret passphrases may be the most popular way of storing raw private keys now a days. 
 
