@@ -64,8 +64,6 @@ socialItems:
     name: ETC Labs جيثب
   reddit:
     name: رديت
-  twitter:
-    name: تويتر
 appTypes:
   finance:
     name: تمويل
