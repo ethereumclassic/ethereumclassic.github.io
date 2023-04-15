@@ -1,9 +1,9 @@
 title: Ethereum Klassiek
 seo: "Een gedecentraliseerd computerplatform waarop slimme contracten draaien: toepassingen die precies draaien zoals geprogrammeerd, zonder downtime, censuur of inmenging van derden."
 #Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
-metaLocale: en_US
+metaLocale: nl_NL
 #Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
-htmlLang: en
+htmlLang: nl
 published: Gepubliceerd
 updated: Laatst bijgewerkt
 author: Auteur
@@ -58,6 +58,10 @@ socialItems:
     name: Discord
   discordCoop:
     name: ETC Coop Discord
+  twitterEthclassic:
+    name: eth_classic Twitter
+  twitterEtcnetwork:
+    name: ETC_Netwerk Twitter
   githubOrg:
     name: Github
   githubLabs:
@@ -103,3 +107,25 @@ appModal:
   checkListRating: Controlelijst zonder vertrouwen Niveau
   warning: "**Waarschuwing:** Deze door gebruikers ingediende app is NIET doorgelicht en NIET gegarandeerd veilig; gebruik op eigen risico, en doe altijd je eigen onderzoek!"
   added: 'Toegevoegd:'
+## Tags
+tags: Labels
+tagNames:
+  blog: ETC-blog
+  announcement: Aankondigingen
+  application: Apps
+  development: Ontwikkeling
+  education: Onderwijs
+  event: Evenementen
+  exchange: Uitwisselingen
+  guide: Gidsen
+  hardfork: Harde vorken
+  media: Media
+  mining: Mijnbouw
+  podcast: Podcasts
+  teams: Teams
+  trading: Handel
+  wallet: Portefeuilles
+  video: Videos
+  news: Externe links
+  philosophy: Filosofie
+  series: Serie
