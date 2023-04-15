@@ -1,222 +1,222 @@
 ---
-title: Decentralism
+title: ביזורנות
 updated: 2022-02-22
 disclaimer: opinion
-seo: A thesis explaining the decentralist values that underpin Ethereum Classic's principles and core value proposition which enable it to deliver a bright future, in contrast to the dark path of centralization taken by many other blockchains.
+seo: תזה המסבירה את הערכים המבוזרים העומדים בבסיס העקרונות והצעת ערך הליבה של Ethereum Classic המאפשרים לה לספק עתיד מזהיר, בניגוד לנתיב האפל של ריכוזיות שנקטו בלוקצ'יין רבים אחרים.
 contributors:
   - "IstoraMandiri"
   - "DonaldMcIntyre"
 ---
 
-## Key Points
+## נקודות מפתח
 
-- Decentralism favors decentralization; having fewer single points of failure in a system, making it difficult to capture.
-- In blockchain systems, decentralization is extremely important. To make a blockchain useful, a certain threshold must be met, depending on the application.
-- Many projects use the difficulty of measuring decentralization to obfuscate their true susceptibility to capture.
-- Social and technological layers can be captured through various means, so they must both be decentralized, and should not rely on a central group.
-- Ethereum Classic aims for a _Sovereign Grade_ level of decentralization, meaning that no worldly organization can capture it.
-- Ethereum Classic applies a _principles first approach_, _decentralization maximalism_, _checks and balances_ and _protocol neutrality_ to achieve long term capture prevention.
+- ביזור מעדיף ביזור; יש פחות נקודות כשל בודדות במערכת, מה שמקשה על לכידה.
+- במערכות בלוקצ'יין, ביזור חשוב ביותר. כדי להפוך בלוקצ'יין שימושי, יש לעמוד בסף מסוים, בהתאם לאפליקציה.
+- פרויקטים רבים משתמשים בקושי של מדידת ביזור כדי לטשטש את הרגישות האמיתית שלהם ללכידה.
+- ניתן לתפוס רבדים חברתיים וטכנולוגיים באמצעים שונים, ולכן הם חייבים להיות מבוזרים, ואין להסתמך על קבוצה מרכזית.
+- Ethereum Classic שואפת לרמת ביזור _ריבונית בדרגה_ , כלומר אף ארגון עולמי לא יכול לתפוס אותה.
+- Ethereum Classic מיישמת גישה של _עקרונות תחילה_, _מקסימליזציה של ביזור_, _בוחנים ומאזנים_ ו _ניטרליות פרוטוקול_ כדי להשיג מניעת לכידה לטווח ארוך.
 
-## Introduction
+## מבוא
 
-One of the first publications about Ethereum Classic that came out after The DAO Hard fork was [A Crypto-Decentralist Manifesto](/blog/2016-07-11-crypto-decentralist-manifesto). In protest of The Fork, it underlined the classic decentralized approach to organizing blockchain projects. This document set the tone for ETC's future development. Since its creation, much has been discovered about the nature of the elusive but vital concept.
+אחד הפרסומים הראשונים על Ethereum Classic שיצא לאחר The DAO Hard fork היה [A Manifesto Crypto-Decentralist](/blog/2016-07-11-crypto-decentralist-manifesto). במחאה על The Fork, הוא הדגיש את הגישה המבוזרת הקלאסית לארגון פרויקטי בלוקצ'יין. מסמך זה נתן את הטון לפיתוח העתידי של ETC. מאז יצירתו, התגלה הרבה על טיבו של המושג החמקמק אך החיוני.
 
-> Decentralized, Immutable, Unstoppable.
+> מבוזר, בלתי ניתן לשינוי, בלתי ניתן לעצירה.
 > 
-> - Ethereum Classic Website, 2016
+> - אתר Ethereum Classic, 2016
 
-This series of buzzwords is a recipe for unlocking the true value potential of blockchain technology. First you need decentralization, which enables immutability, allowing unstoppability, and making possible the [bright future](/why-classic/code-is-law) we discussed earlier.
+סדרה זו של מילות באזז היא מתכון לפתיחת פוטנציאל הערך האמיתי של טכנולוגיית הבלוקצ'יין. ראשית אתה צריך ביזור, המאפשר חוסר שינוי, מאפשר אי-עצירה, ומאפשר את [העתיד הבהיר](/why-classic/code-is-law) שדיברנו עליו קודם לכן.
 
-## Quantifying Decentralization
+## כימות ביזור
 
-> Decentralization is the process by which the activities of an organization, particularly those regarding planning and decision-making, are distributed or delegated away from a central, authoritative location or group.
+> ביזור הוא התהליך שבו פעילויות של ארגון, במיוחד אלה הנוגעות לתכנון וקבלת החלטות, מופצות או מואצלות הרחק ממקום או קבוצה מרכזיים וסמכותיים.
 > 
-> - [Wikipedia](https://en.wikipedia.org/wiki/Decentralization)
+> - [ויקיפדיה](https://en.wikipedia.org/wiki/Decentralization)
 
-Decentralism favors decentralization, a property that exists in many systems and forms throughout nature. It is not a binary property, but a spectrum that ebbs and flows through time. It's difficult to articulate a hard and fast definition for decentralization in all contexts, but it can be visually understood fairly intuitively.
+ביזורנות מעדיפה ביזור, תכונה הקיימת במערכות ובצורות רבות ברחבי הטבע. זה לא תכונה בינארית, אלא ספקטרום שנחלש וזורם בזמן. קשה לנסח הגדרה קשה ומהירה לביזור בכל ההקשרים, אבל ניתן להבין אותה ויזואלית באופן אינטואיטיבי למדי.
 
-![As a system becomes more decentralized, it has fewer choke points, making it harder to capture](./decentralization.jpg)
+![ככל שמערכת הופכת מבוזרת יותר, יש לה פחות נקודות חנק, מה שמקשה על לכידה](./decentralization.jpg)
 
-In the realm of blockchain projects, there are many ways of measuring decentralization, with one rough quantification being "the ratio of people needed to be compromised in order to take over the system". That is to say, if an attacker wanted to control or censor a chain, a project that required them to compromise 80% of participants is _more decentralized_ than a project that only required 10% to be compromised.
+בתחום פרויקטי הבלוקצ'יין, ישנן דרכים רבות למדידת ביזור, כאשר כימות גס אחד הוא "יחס האנשים שצריך להתפשר כדי להשתלט על המערכת". כלומר, אם תוקף רצה לשלוט או לצנזר רשת, פרויקט שדרש ממנו להתפשר על 80% מהמשתתפים הוא _יותר מבוזר_ מאשר פרויקט שנדרש רק 10% כדי להתפשר.
 
-This measurement is known as the [Nakamoto coefficient](https://minima.global/blog/the-nakamoto-coefficient-an-attempt-to-quantify-decentralization), and while it is an excellent conceptual tool, is a fairly low-resolution one-dimensional measurement. In reality, decentralized systems can be designed to make capture less likely by assigning different groups with different responsibilities. Due to their diversity of responsibilities and backgrounds, difficulty in capturing a network then becomes linked not simply to the ratio of people, but a complicated mesh of overlapping strengths and weaknesses of different actors within the system.
+מדידה זו ידועה כ [Nakamoto מקדם](https://minima.global/blog/the-nakamoto-coefficient-an-attempt-to-quantify-decentralization), ולמרות שהיא כלי רעיוני מצוין, היא מדידה חד-ממדית ברזולוציה נמוכה למדי. במציאות, ניתן לעצב מערכות מבוזרות כדי להפחית את הסיכוי ללכידה על ידי הקצאת קבוצות שונות בעלות אחריות שונה. בשל מגוון האחריות והרקע שלהם, הקושי בלכידת רשת הופך להיות מקושר לא רק ליחס האנשים, אלא לרשת מסובכת של חוזקות וחולשות חופפות של שחקנים שונים בתוך המערכת.
 
-For example, in Proof of Work blockchains, an accurate measurement of decentralization would attempt to take into account mining by reward, clients by codebase, developers by commits, exchanges by volume, nodes by count, and ownership by value distribution, etc. But even this more nuanced approach is far from perfect, as a single snapshot measurement does not yield much insight into whether a system can maintain decentralization over time.
+לדוגמה, ב-Proof of Work blockchains, מדידה מדויקת של ביזור תנסה לקחת בחשבון כרייה לפי תגמול, לקוחות לפי בסיס קוד, מפתחים לפי התחייבויות, החלפות לפי נפח, צמתים לפי ספירה ובעלות לפי חלוקת ערך וכו'. אבל אפילו הגישה הניואנסית הזו רחוקה מלהיות מושלמת, שכן מדידת תמונת מצב בודדת אינה מניבה תובנה רבה אם מערכת יכולה לשמור על ביזור לאורך זמן.
 
-Whichever way it is quantified, attackers that wish to "own" the system have a more difficult job the more decentralized a project is. To defend against take-overs, projects need to reach a sufficient level of decentralization, which means minimizing the number of central points of failure and bottlenecks, which can exist in many places in the system.
+בכל דרך שהיא מכמתת, לתוקפים שרוצים "להחזיק" את המערכת יש עבודה קשה יותר ככל שהפרויקט מבוזר יותר. כדי להתגונן מפני השתלטות, פרויקטים צריכים להגיע לרמת ביזור מספקת, כלומר צמצום מספר נקודות הכשל המרכזיות וצווארי הבקבוק, שיכולים להתקיים במקומות רבים במערכת.
 
-### The Blockchain Trilemma
+### טרילמה של הבלוקצ'יין
 
-> The underlying structure of decentralized networks comes with unique challenges as compared to centralized networks. As early as the 1980s, computer scientists developed what’s called the CAP theorem to articulate perhaps the most major of these challenges. According to the CAP theorem, decentralized data stores — of which blockchain is an iteration — can only provide two of three guarantees simultaneously: consistency, availability, and partition tolerance (CAP). In the context of modern distributed networks, this theorem has evolved into the blockchain trilemma. This is the popular belief that public blockchains must sacrifice either security, decentralization, or scalability in their infrastructure.
+> המבנה הבסיסי של רשתות מבוזרות מגיע עם אתגרים ייחודיים בהשוואה לרשתות ריכוזיות. כבר בשנות ה-80, מדעני מחשבים פיתחו את מה שמכונה משפט CAP כדי לבטא אולי את האתגרים העיקריים ביותר. על פי משפט ה-CAP, מאגרי מידע מבוזרים - שבלוקצ'יין הוא איטרציה שלהם - יכולים לספק רק שתיים מתוך שלוש ערבויות בו-זמנית: עקביות, זמינות וסובלנות מחיצות (CAP). בהקשר של רשתות מבוזרות מודרניות, המשפט הזה התפתח לטרילמה של הבלוקצ'יין. זוהי האמונה הרווחת ש-blockchains ציבוריים חייבים להקריב או אבטחה, ביזור או מדרגיות בתשתית שלהם.
 > 
-> - The Blockchain Trilemma, [Gemini.com](https://www.gemini.com/cryptopedia/blockchain-trilemma-decentralization-scalability-definition#section-what-is-the-blockchain-trilemma)
+> - טרילמה של הבלוקצ'יין, [Gemini.com](https://www.gemini.com/cryptopedia/blockchain-trilemma-decentralization-scalability-definition#section-what-is-the-blockchain-trilemma)
 
-![The Blockchain Trilemma](./trilemma.png)
+![טרילמה של הבלוקצ'יין](./trilemma.png)
 
-The Blockchain Trilemma describes a technological limitation that applies to all blockchain protocols. A similar concept also applies to the social layer of a blockchain project, with a sliding scale of top down vs bottom up decision-making.
+הטרילמה של הבלוקצ'יין מתארת מגבלה טכנולוגית החלה על כל פרוטוקולי הבלוקצ'יין. תפיסה דומה חלה גם על הרובד החברתי של פרויקט בלוקצ'יין, עם סולם הזזה של קבלת החלטות מלמעלה למטה לעומת מלמטה למעלה.
 
-Like creating a video game character, all projects must place themselves somewhere in the space of these sociotechnological dimensions, allocating ability points and sacrificing some attributes for others. The selection defines a blockchain's class, abilities and effectiveness in battle.
+כמו יצירת דמות משחק וידאו, כל הפרויקטים חייבים למקם את עצמם במקום כלשהו במרחב של הממדים הסוציו-טכנולוגיים הללו, להקצות נקודות יכולת ולהקריב תכונות מסוימות עבור אחרים. הבחירה מגדירה את המעמד של הבלוקצ'יין, היכולות והיעילות בקרב.
 
-As we will see, as far as the protocol's attributes and underlying philosophy goes, Ethereum Classic has maxed-out it's decentralization and security, intentionality sacrificing both transaction scalability and top down social organization so that more essential skills can be strengthened.
+כפי שנראה, בכל הנוגע לתכונות הפרוטוקול ולפילוסופיה הבסיסית של הפרוטוקול, Ethereum Classic מיצתה את הביזור והאבטחה שלו, כוונה שהקריבה הן את מדרגיות העסקאות והן את הארגון החברתי מלמעלה למטה, כך שניתן לחזק מיומנויות חיוניות יותר.
 
-ETC chose to max-out these skills because for a blockchain protocol to scale its base protocol it must make trade-offs in decentralization and security, which may not appear as apparent costs immediately, but in the long run is bound to damage the utility and value of the network. In short, for ETC, scalability is less important than security and decentralization, and this technical trade-off is also mirrored in the social layer; decentralization trumps the expediency of central rule.
+ETC בחרה למקסם את המיומנויות הללו מכיוון שכדי שפרוטוקול בלוקצ'יין ירחיב את פרוטוקול הבסיס שלו הוא חייב לבצע פשרות בביזור ואבטחה, שאולי לא יופיעו כעלויות נראות לעין באופן מיידי, אך בטווח הארוך עלולים לפגוע בשירות ערך הרשת. בקיצור, עבור ETC, מדרגיות פחות חשובה מאבטחה וביזור, וההחלפה הטכנית הזו משתקפת גם ברובד החברתי; ביזור גובר על כדאיות השלטון המרכזי.
 
-Today, most blockchain projects have abandoned the idea of maxing-out decentralization in exchange for scalability and the benefits of coordinating from a central group. This may well be useful for short term bootstrapping as it allows the funding of extravagant development or marketing budgets, and there is no obvious downside in an environment that is not antagonistic, but unless the project tapers-off this dependence on centralization, which may be impossible due to the incentivization structures it creates, the network is exposed to take-over through the capture of this relatively centralized set up.
+כיום, רוב פרויקטי הבלוקצ'יין נטשו את הרעיון של מיצוי הביזור בתמורה להרחבה וליתרונות התיאום מקבוצה מרכזית. זה בהחלט עשוי להיות שימושי עבור אתחול לטווח קצר מכיוון שהוא מאפשר מימון של תקציבי פיתוח או שיווק אקסטרווגנטיים, ואין חיסרון ברור בסביבה שאינה אנטגוניסטית, אלא אם הפרויקט מפחית את התלות הזו בריכוזיות, אשר עשויה להיות בלתי אפשרי בגלל מבני התמריצים שהיא יוצרת, הרשת חשופה להשתלטות באמצעות לכידת המערך הריכוזי יחסית הזה.
 
-### Sovereign Grade Censorship Resistance
+### התנגדות לצנזורה בדרגה ריבונית
 
-One question that should be asked when evaluating different blockchain projects is "is it decentralized enough?". The answer to this entirely depends on the use case's [threat model](https://en.wikipedia.org/wiki/Threat_model), which depends on what kind of applications need to be run on a given chain. The question can be reframed as "who would want to stop the applications on this chain from running, and can the chain resist their attempts at censorship?".
+שאלה אחת שצריכה להישאל בעת הערכת פרויקטי בלוקצ'יין שונים היא "האם זה מבוזר מספיק?". התשובה לכך תלויה לחלוטין במודל האיום [של מקרה השימוש](https://en.wikipedia.org/wiki/Threat_model), שתלוי באיזה סוג אפליקציות צריך להפעיל בשרשרת נתונה. ניתן לנסח מחדש את השאלה כ"מי ירצה למנוע מהיישומים בשרשרת זו לפעול, והאם השרשרת יכולה להתנגד לניסיונות הצנזורה שלהם?".
 
-For example, in the case of Bitcoin, its main application is the coin itself: digital scarcity and the ability to transfer it without censorship. It competes with many currencies and assets, including the US dollar, and therefore it must withstand attacks from very powerful entities to persist. Many of Bitcoin's [predecessors](https://blog.dassetx.com/the-known-and-possible-influences-of-satoshi-nakamoto-part-1-privately-issued-digital-currencies-before-bitcoin) were shut down because they had central points of failure, and Bitcoin was explicitly designed to circumvent this kind of censorship by being sufficiently decentralized.
+לדוגמה, במקרה של ביטקוין, היישום העיקרי שלו הוא המטבע עצמו: מחסור דיגיטלי והיכולת להעביר אותו ללא צנזורה. היא מתחרה במטבעות ונכסים רבים, כולל הדולר האמריקאי, ולכן היא חייבת לעמוד בהתקפות של ישויות חזקות מאוד כדי להתמיד. רבים מקודמיו [של ביטקוין](https://blog.dassetx.com/the-known-and-possible-influences-of-satoshi-nakamoto-part-1-privately-issued-digital-currencies-before-bitcoin) נסגרו בגלל שהיו להם נקודות כשל מרכזיות, והביטקוין תוכנן במפורש לעקוף סוג זה של צנזורה על ידי מבוזר מספיק.
 
-In contrast, some blockchains require less censorship resistance than Bitcoin and only intend to, for example, enable the transfer of virtual baseball cards, or have other uncontroversial use cases. As no powerful external forces want to stop these applications, censorship resistance is unnecessary. It may even be seen as a benefit if some central party can override the state of the chain in certain circumstances, so having the whole chain operated by a handful of authorities is acceptable for this use case. In these cases, where the use case is not important enough for a well-funded organization to shut down, it might make sense to sacrifice decentralization for scalability, and other non-blockchain technologies may be more appropriate.
+לעומת זאת, חלק מהבלוקצ'יין דורשים פחות התנגדות לצנזורה מביטקוין ומתכוונים רק לאפשר, למשל, העברה של כרטיסי בייסבול וירטואליים, או לקיים מקרי שימוש אחרים שאינם שנויים במחלוקת. מכיוון שאף כוחות חיצוניים חזקים לא רוצים לעצור את היישומים הללו, התנגדות לצנזורה מיותרת. ייתכן שאפילו יראו בכך יתרון אם גורם מרכזי כלשהו יכול לעקוף את מצב השרשרת בנסיבות מסוימות, כך שהשרשרת כולה מופעלת על ידי קומץ רשויות מקובלת במקרה שימוש זה. במקרים אלה, שבהם מקרה השימוש אינו חשוב מספיק כדי שארגון ממומן היטב ייסגר, אולי הגיוני להקריב את הביזור לצורך מדרגיות, וטכנולוגיות אחרות שאינן בלוקצ'יין עשויות להיות מתאימות יותר.
 
-Ethereum Classic, even back in 2015 when it was known as Ethereum, set out to achieve ambitions on a level at least as prone to censorship as Bitcoin.
+Ethereum Classic, עוד בשנת 2015 כשהיא נודעה בשם Ethereum, יצאה להשיג שאיפות ברמה של לפחות נטייה לצנזורה כמו ביטקוין.
 
-> Ethereum is a decentralized computing platform that executes smart contracts. Applications are ran exactly as programmed without the possibility of censorship, downtime, or third-party interference.
+> Ethereum היא פלטפורמת מחשוב מבוזרת המבצעת חוזים חכמים. יישומים מופעלים בדיוק כפי שתוכנתו ללא אפשרות של צנזורה, השבתה או הפרעות של צד שלישי.
 > 
 > - Ethereum.org, 2015
 
-Ethereum's Smart Contract Platform was designed to not only support Bitcoin's base currency use case, but also any kind of blockchain application. Because of this, it is highly likely to attract attempts at censorship from legacy system incumbents at risk being disrupted.
+פלטפורמת החוזה החכמה של Ethereum תוכננה לא רק לתמוך במקרה השימוש במטבע הבסיסי של ביטקוין, אלא גם בכל סוג של יישום בלוקצ'יין. בגלל זה, סביר מאוד שהוא ימשוך ניסיונות צנזורה מבעלי מערכת מדור קודם בסיכון לשיבושים.
 
-To provide a solution on a global level that would need to stave off attacks from other sovereign institutions such as nation states and multinational organizations, Ethereum, like Bitcoin, would need to reach a level of decentralization that made it impossible for any of these groups censor it; _Sovereign Grade Censorship Resistance_ is required.
+כדי לספק פתרון ברמה גלובלית שיצטרך להדוף התקפות של מוסדות ריבונים אחרים כמו מדינות לאום וארגונים רב לאומיים, Ethereum, כמו ביטקוין, יצטרך להגיע לרמת ביזור שאיפשרה כל אחת מהקבוצות הללו לצנזר זה; _נדרשת התנגדות לצנזורה בדרגה ריבונית_.
 
-A critical threshold is reached with this level of uncensorability. As no other institution can censor the network, applications become significantly more useful, becoming _trustless_. They no longer rely on the trust or permission of some other company or government to operate, and, on these platforms, it is the users, rather than the providers who get to decide what goes on.
+מגיעים לסף קריטי עם רמה זו של חוסר צנזורה. מכיוון שאף מוסד אחר אינו יכול לצנזר את הרשת, יישומים הופכים שימושיים יותר באופן משמעותי, והופכים ל _חסרי אמון_. הם כבר לא מסתמכים על האמון או ההרשאה של חברה או ממשלה אחרת לפעול, ובפלטפורמות האלה, המשתמשים, ולא הספקים, הם שמחליטים מה קורה.
 
-_Code is Law_ can only operate on chains that have achieved _Sovereign Grade Censorship Resistance_. This level is required to prevent other entities from censoring its operation, and this in turn requires the chain to max-out it's decentralization attributes and constantly maintain them without compromise. _Code is Law_ requires _decentralization maximalism_.
+_קוד הוא חוק_ יכול לפעול רק על רשתות שהשיגו _התנגדות לצנזורה בדרגה ריבונית_. רמה זו נדרשת כדי למנוע מגופים אחרים לצנזר את פעולתה, וזה בתורו מחייב את השרשרת למקסם את תכונות הביזור שלה ולתחזק אותן כל הזמן ללא פשרות. _קוד הוא חוק_ דורש _ביזור מקסימליזם_.
 
-## Centralization Failure States
+## מצבי כשל בריכוזיות
 
-Before we explore the solution to the problem of centralization, we must first understand how a lack of decentralization can quickly regress into full-blown failure.
+לפני שנחקור את הפתרון לבעיית הריכוזיות, עלינו להבין תחילה כיצד חוסר ביזור יכול לחזור במהירות לכישלון מלא.
 
-Today, even more so than when Ethereum (Classic) was launched in 2015, it is increasingly apparent that censorship is becoming the weapon of choice of a dying legacy system attempting to cling on to relevance. As these old institutions become increasingly threatened by change, it seems likely that ever-more drastic measures will be taken to defend their position.
+כיום, אפילו יותר מאשר כאשר Ethereum (קלאסי) הושק ב-2015, ניכר יותר ויותר שהצנזורה הופכת לנשק המועדף של מערכת מורשת גוססת המנסה להיאחז ברלוונטיות. ככל שהמוסדות הישנים הללו מאוימים יותר ויותר משינוי, נראה כי יינקטו צעדים דרסטיים יותר ויותר כדי להגן על עמדתם.
 
-Before the internet and blockchain technology entered the scene, these institutions had reality pretty much on lockdown as society was heavily reliant on centralized control points for value and information transfer, which was readily exploited. With cryptography, Satoshi retorted just in the Nick of time, turning the tables on [the logic of violence](https://cryptonews.net/en/news/bitcoin/2927549/), and providing humanity with a path towards an alternative emergent order.
+לפני שהאינטרנט וטכנולוגיית הבלוקצ'יין נכנסו לזירה, למוסדות הללו היה מציאות די על נעילה, שכן החברה הייתה תלויה במידה רבה בנקודות בקרה מרכזיות להעברת ערך ומידע, אשר נוצלה בקלות. עם קריפטוגרפיה, סאטושי השיב בדיוק בזמן, הפך את השולחן ל [את ההיגיון של אלימות](https://cryptonews.net/en/news/bitcoin/2927549/)וסיפקה לאנושות נתיב לקראת סדר מתהווה חלופי.
 
-As time goes on, the attacks against free, fair and open alternatives to the status quo will ramp up. As a result, the cryptocurrency ecosystem will enter a new phase, a highly antagonistic phase, where the uncensorability of blockchain technology will truly be put to the test, and the central points of failure in cryptocurrency systems that have them will be sought out and exploited. For use cases that incumbents disapprove, only the _Sovereign Grade_ will survive.
+ככל שיעבור הזמן, ההתקפות נגד חלופות חופשיות, הוגנות ופתוחות לסטטוס קוו יגברו. כתוצאה מכך, המערכת האקולוגית של מטבעות קריפטוגרפיים תיכנס לשלב חדש, שלב מאוד אנטגוניסטי, שבו חוסר הצנזורה של טכנולוגיית הבלוקצ'יין באמת תעמוד למבחן, ונקודות הכשל המרכזיות במערכות המטבעות הקריפטוגרפיות יחפשו וינוצלו. . עבור מקרי שימוש שבעלי התפקידים לא מאשרים, רק ה _דרג ריבון_ ישרוד.
 
-In the future, to maintain utility and value, blockchains must resist a range of social, economic and technological attacks that will be deployed against them. The list of attacks is ever-growing and new forms of attack are sure to be conjured up and countered, but for now, at the very least, the more obvious known failure states must be avoided.
+בעתיד, כדי לשמור על תועלת וערך, על הבלוקצ'יין להתנגד למגוון של התקפות חברתיות, כלכליות וטכנולוגיות שייפרסו נגדם. רשימת ההתקפות הולכת וגדלה וצורות חדשות של התקפות בטוח יועלו ויתמודדו, אך לעת עתה, לכל הפחות, יש להימנע ממצבי הכשל הידועים יותר.
 
-### The Ephemeral Foundation
+### קרן ארעית
 
-Historically, the number one cause of death for blockchain projects is when the teams responsible for maintaining them no longer operate. Simply put, if a project depends on a central organizing committee or developer team, it will only last for as long as that organization does.
+היסטורית, סיבת המוות מספר אחת לפרויקטי בלוקצ'יין היא כאשר הצוותים האחראים לתחזוקתם אינם פועלים עוד. במילים פשוטות, אם פרויקט תלוי בוועדה מארגנת מרכזית או בצוות מפתחים, הוא יימשך רק כל עוד ארגון זה.
 
-Organizations can cease to operate for many reasons. Be it a simple rugpull, running out of funds, getting hacked, getting hammered by regulators, traffic accidents, or any other reason, these factors are often outside the control of this team, so it is down to luck or the approval of regulators whether a project can survive.
+ארגונים יכולים להפסיק לפעול מסיבות רבות. בין אם זו משיכה פשוטה, אוזל הכספים, פריצה, חבטות על ידי רגולטורים, תאונות דרכים או כל סיבה אחרת, גורמים אלו נמצאים לעתים קרובות מחוץ לשליטת הצוות הזה, אז זה תלוי במזל או באישור הרגולטורים אם פרויקט יכול לשרוד.
 
-In many cases, the existence of a central team disincentives others from contributing to a project, as they are not on a level playing field. Third parties will always be second class citizens compared to this central organizing committee, who are calling the shots and disproportionately benefitting from price action in the case of a premine or development tax, which further solidifies reliance on this team to maintain and direct the project, and, at the very least, prevents a natural organizational hierarchy from emerging.
+במקרים רבים, קיומו של צוות מרכזי מונע מאחרים לתרום לפרויקט, מכיוון שהם אינם במגרש שווים. צדדים שלישיים יהיו תמיד אזרחים סוג ב' בהשוואה לוועדה המארגנת המרכזית הזו, שפועלים ונהנים באופן לא פרופורציונלי מפעולת מחיר במקרה של שכר טרחה או מס פיתוח, מה שמגבש עוד יותר את ההסתמכות על הצוות הזה כדי לתחזק ולכוון את הפרויקט. ולכל הפחות, מונע מהיררכיה ארגונית טבעית להיווצר.
 
-This reliance on a central team may provide direction and big budgets in the short term, but it burdens the protocol with a kind of "centralization debt" that is difficult to pay off. Eventually, like all organizations, the central team will cease to operate. Unless the project sheds this reliance, it is likely to become either abandoned or maladapted to life without this group.
+ההסתמכות הזו על צוות מרכזי עשויה לתת כיוון ותקציבים גדולים בטווח הקצר, אבל היא מעמיסה על הפרוטוקול מעין "חוב ריכוזיות" שקשה לפרוע. בסופו של דבר, כמו כל הארגונים, הצוות המרכזי יפסיק לפעול. אלא אם הפרויקט מסיר את ההסתמכות הזו, סביר להניח שהוא יהפוך לנטוש או לא מותאם לחיים ללא הקבוצה הזו.
 
-### Meatspace Capture
+### לכידת Meatspace
 
-For high value projects that have an overreliance on centralized teams, as time goes on, a fate far more insidious than mere abandonment becomes increasingly likely. Like clockwork, as with all top-down centralized institutions, they become captured by special interests through various manipulative techniques.
+עבור פרויקטים בעלי ערך גבוה שיש להם הסתמכות יתרה על צוותים מרכזיים, ככל שעובר הזמן, גורל ערמומי הרבה יותר מסתם נטישה הופך לסביר יותר ויותר. כמו שעון, כמו בכל המוסדות הריכוזיים מלמעלה למטה, הם נלכדים בתחומי עניין מיוחדים באמצעות טכניקות מניפולטיביות שונות.
 
-Suppose a powerful institution feels threatened by new technology. Rather than stamping it out, which may be impossible, it is far more effective to simply compromise and disrupt its operation by influencing the direction of development in a way that does not fundamentally upset the status quo.
+נניח שמוסד חזק מרגיש מאוים על ידי טכנולוגיה חדשה. במקום להכחיד אותו, מה שעלול להיות בלתי אפשרי, הרבה יותר יעיל פשוט להתפשר ולשבש את פעולתו על ידי השפעה על כיוון ההתפתחות באופן שאינו מפר את הסטטוס קוו מיסודו.
 
-This can be achieved by turning influencers and the leadership of an organization into puppets, whose strings are pulled through a variety of carrots and sticks. Humans are fallible and are susceptible to all degrees of manipulation and extortion; peer pressure, angry mobs, politics, kickbacks, bribes, psyops, honey traps, kompromat, physical threats, imprisonment, or worse.
+ניתן להשיג זאת על ידי הפיכת משפיענים והנהגת ארגון לבובות, שהחוטים שלהן נמשכים במגוון גזרים ומקלות. בני אדם ניתנים לטעויות והם רגישים לכל דרגות המניפולציות והסחיטה; לחץ חברתי, אספסוף כועס, פוליטיקה, תרומות, שוחד, פסיופס, מלכודות דבש, קומפרומט, איומים פיזיים, מאסר או גרוע מכך.
 
-With enough key targets under the thumb of an attacker, they can control the future of a chain through their authority, making subtle incremental changes that further increase their grip and control over decision-making.
+עם מספיק מטרות מפתח מתחת לאגודל של תוקף, הם יכולים לשלוט בעתיד של שרשרת באמצעות הסמכות שלהם, לבצע שינויים מצטברים עדינים שמגבירים עוד יותר את האחיזה והשליטה שלהם בקבלת החלטות.
 
-One of the most problematic elements of this type of failure state is that it can be done in a way that is undetectable. It may be that the level to which a central team is compromised is unknown, and capture only becomes obvious when it is too late to do anything about it.
+אחד המרכיבים הבעייתיים ביותר במצבי כשל מסוג זה הוא שניתן לעשות זאת בצורה שאינה ניתנת לזיהוי. יכול להיות שהרמה שאליה צוות מרכזי נפגע אינה ידועה, והלכידה מתבהרת רק כאשר מאוחר מדי לעשות משהו בנידון.
 
-Even if a centralized team is not overtly compromised, the very potential of this compromise can sow distrust and uneasiness. Conspiracy theories and the questioning of decision-making may undermine a project's leadership and stability if they appear not to be driven by merit alone, and simple divide and conquer tactics deployed against the organizing committee may be enough to paralyze the project.
+גם אם צוות ריכוזי לא נפגע באופן גלוי, עצם הפוטנציאל של הפשרה הזו יכול לזרוע אי אמון ואי נוחות. תיאוריות קונספירציה והטלת ספק בקבלת ההחלטות עלולים לערער את המנהיגות והיציבות של הפרויקט אם נראה שהן אינן מונעות על ידי הכשרון בלבד, וטקטיקות פשוטות של חלוקה וכבש נגד הוועדה המארגנת עשויות להספיק כדי לשתק את הפרויקט.
 
-This failure state shows an inherent contradiction within any blockchain project that relies on a central organizing committee. While the protocol may be decentralized on paper, in reality the project is beholden to a central group which can and will be bent to the will of anyone who feels that the cost of doing so is worth it.
+מצב כשל זה מראה על סתירה אינהרנטית בתוך כל פרויקט בלוקצ'יין המסתמך על ועדה מארגנת מרכזית. אמנם הפרוטוקול עשוי להיות מבוזר על הנייר, אך למעשה הפרויקט נתון לקבוצה מרכזית שיכולה ותהיה כפופה לרצונו של כל מי שמרגיש שהעלות של ביצוע זה שווה את זה.
 
-### Kabuki Coins
+### מטבעות קאבוקי
 
-Centralization, like gravity, is constantly pulling and looking for any weakness in a sociotechnological structure to find its breaking point. For a system to overcome this force long term, it must ensure that no central point of failure can be exploited, which means designing robust countermeasures that constantly push back against centralization not just in one place but in all areas.
+הריכוזיות, כמו כוח המשיכה, כל הזמן מושכת ומחפשת כל חולשה במבנה סוציו-טכנולוגי כדי למצוא את נקודת השבירה שלו. כדי שמערכת תתגבר על הכוח הזה לטווח ארוך, עליה להבטיח שלא ניתן לנצל שום נקודת כשל מרכזית, כלומר תכנון אמצעי נגד חזקים שדוחקים ללא הרף נגד ריכוזיות לא רק במקום אחד אלא בכל התחומים.
 
-Because of this, there is no point in having decentralization in half measures. A chain is only as strong as its weakest link, and a blockchain is only as decentralized as its most centralized bottleneck. For this reason, _all_ parts of a blockchain project, both technically and socially, must strive for _decentralization maximalism_.
+בגלל זה, אין טעם לקיים ביזור בחצי מדדים. שרשרת חזקה רק כמו החוליה החלשה ביותר שלה, ובלוקצ'יין מבוזר רק כמו צוואר הבקבוק הריכוזי ביותר שלה. מסיבה זו, _כל_ החלקים של פרויקט בלוקצ'יין, הן מבחינה טכנית והן מבחינה חברתית, חייבים לשאוף _ביזור_.
 
-Unfortunately, within the cryptocurrency ecosystem the importance of _decentralization maximalism_ is not widely understood or adopted, to the point where the term _decentralization theater_ has become a common way to describe many _so-called_ decentralized systems.
+לרוע המזל, בתוך המערכת האקולוגית של מטבעות קריפטוגרפיים החשיבות של מקסימליזם _ביזור_ אינה מובנת או מאומצת באופן נרחב, עד לנקודה שבה המונח _תיאטרון ביזור_ הפך לדרך נפוצה לתאר _רבות מה שנקרא_ מערכות מבוזרות.
 
-These projects have subtle single points of failure within their systems, but promoters shift the focus to other "decentralized" areas. This is an effective tactic, as proving that a system has potentially capturable central points of failure requires intimate knowledge of the system, and can be very difficult or impossible for the layman, due to the technical skill and insider knowledge required to evaluate properly.
+לפרויקטים אלו יש נקודות כשל בודדות במערכות שלהם, אך היזמים מעבירים את המיקוד לאזורים "מבוזרים" אחרים. זוהי טקטיקה אפקטיבית, שכן להוכיח שלמערכת יש נקודות כשל מרכזיות שעלולות לתפוס אותה דורשת היכרות אינטימית של המערכת, ויכולה להיות קשה מאוד או בלתי אפשרית עבור ההדיוט, בשל המיומנות הטכנית והידע הפנימי הנדרש כדי להעריך כראוי.
 
-Like the parable of the buildings built on rock and sand, to the untrained eye, two projects may appear to be properly constructed, and under normal conditions they both operate as intended. But under the surface, one project has a fatal flaw that will only lead to ruin in times of stress and will likely end up causing damage to those who expect the project to stand the test of time.
+כמו משל המבנים הבנויים על סלע וחול, לעין בלתי מאומנת, שני פרויקטים עשויים להיראות בנויים כהלכה, ובתנאים רגילים שניהם פועלים כמתוכנן. אבל מתחת לפני השטח, לפרויקט אחד יש פגם קטלני שרק יוביל להרס בעתות לחץ וסביר להניח שיגרום נזק למי שמצפה שהפרויקט יעמוד במבחן הזמן.
 
-![Blockchains, like buildings, can be built on strong and weak foundations](./rocksand.jpeg)
+![בלוקצ'יין, כמו בניינים, יכולים להיבנות על יסודות חזקים וחלשים](./rocksand.jpeg)
 
-## Classic Problems Require Classic Solutions
+## בעיות קלאסיות דורשות פתרונות קלאסיים
 
-Corruption is a problem as old as civilization. While it might not have reared its ugly head in the cryptocurrency space yet, as the technology becomes more influential, it is bound to attract forces that wish to bridle its power and shape it towards a future where, far from liberating humanity, blockchains become tools for optimizing enslavement.
+שחיתות היא בעיה ישנה כמו הציוויליזציה. אמנם היא אולי עדיין לא הרימה את ראשה המכוער במרחב המטבעות הקריפטוגרפיים, אבל ככל שהטכנולוגיה הופכת משפיעה יותר, היא חייבת למשוך כוחות שרוצים לרסן את כוחה ולעצב אותו לקראת עתיד שבו, הרחק מלשחרר את האנושות, הבלוקצ'יין הופכים לכלים לייעול השעבוד.
 
-In the long run, whatever happens, decentralized blockchains will prevail eventually. Still, if humanity wishes to avoid a dark-ages style period of hampered innovation and stagnation, the word must be spread about the dangers of centralization so that it can be dealt with before they take hold. Luckily, a window of opportunity exists to counter the inevitable ongoing attempts to capture blockchains. For now, projects that strive for _decentralization maximalism_ still exist and are available to those who wish to use them.
+בטווח הארוך, מה שלא יקרה, הבלוקצ'יין המבוזר ינצח בסופו של דבר. ובכל זאת, אם האנושות מעוניינת להימנע מתקופת סגנון של עידן חשוך של חדשנות וקיפאון מעוכבים, יש להפיץ את הבשורה על סכנות הריכוזיות כדי שניתן יהיה להתמודד איתה לפני שהן תופסות אחיזה. למרבה המזל, קיים חלון הזדמנויות להתמודדות עם הניסיונות המתמשכים הבלתי נמנעים ללכידת בלוקצ'יין. לעת עתה, פרויקטים השואפים ל _ביזור מקסימליזם_ עדיין קיימים וזמינים למי שרוצה להשתמש בהם.
 
-While it's still voluntary, rather than relying on authority figures or marketing campaigns, individuals can reason from first principles and reflect on lessons from the past to reach their own conclusions about which blockchains are likely to provide long term value and are worth interacting with.
+למרות שזה עדיין בהתנדבות, במקום להסתמך על דמויות סמכות או קמפיינים שיווקיים, אנשים יכולים לחשוב מהעקרונות הראשונים ולהרהר על לקחים מהעבר כדי להגיע למסקנות משלהם לגבי אילו בלוקצ'יין צפויים לספק ערך ארוך טווח ושווה ליצור איתם אינטראקציה.
 
-By going back to the roots of blockchain technology, economic theory and the lessons of history, the wisdom in the design decisions behind Bitcoin becomes clear, and this logic can be reapplied to other technological advancements in the space, including Smart Contract Platforms such as Ethereum Classic.
+על ידי חזרה לשורשי טכנולוגיית הבלוקצ'יין, התיאוריה הכלכלית ולקחי ההיסטוריה, מתבררת החוכמה בהחלטות העיצוב מאחורי הביטקוין, וניתן להחיל את ההיגיון הזה מחדש על התקדמות טכנולוגית אחרת במרחב, כולל פלטפורמות חוזים חכמים כמו Ethereum קלַאסִי.
 
-### Principles First
+### ראשית עקרונות
 
-While institutions and the humans that make them are fallible, fickle and fragile, ideas are bulletproof. It is self-evident that technology as important and influential as blockchain must be built upon something more than just people. A well-developed philosophy must act as a strong foundation to guide the actions of otherwise capturable bags of meat.
+בעוד שמוסדות ובני האדם שיוצרים אותם הם ניתנים לשגיאה, הפכפכים ושבירים, רעיונות הם חסיני כדורים. ברור מאליו שטכנולוגיה חשובה ומשפיעה כמו בלוקצ'יין חייבת להיות בנויה על משהו יותר מסתם אנשים. פילוסופיה מפותחת חייבת לשמש בסיס חזק כדי להנחות את הפעולות של שקיות בשר שניתנות לתפיסה אחרת.
 
-Good ideas stand on their own, can be debated in public, and are valid regardless of who proclaims them, making them perfect for constructing a harness to restrain and protect the future of a blockchain project. That is why The Ethereum Classic Foundation is not a *group*, but its *principles*, which come first and inform decision-making.
+רעיונות טובים עומדים בפני עצמם, ניתנים לוויכוח בציבור והם תקפים ללא קשר למי מכריז עליהם, מה שהופך אותם למושלמים לבניית רתמה כדי לרסן ולהגן על עתידו של פרויקט בלוקצ'יין. לכן The Ethereum Classic Foundation היא לא קבוצת **, אלא *העקרונות שלה*, שקודם כל ומודיעים על קבלת החלטות.
 
-Pragmatism is downstream of maintaining and adhering to sound principles, as they enable both practical survivability, long term sustainability, and act as a form of advertising that attracts quality contributors. The principles first approach goes a long way to ensuring that a project can maintain its course for many generations to come, as it is guided not by the ever-changing interests of a central group, but by external philosophical reference points that, even with high a turnover of contributors, can be perpetuated and refined in public to direct the future of the project.
+פרגמטיות היא במורד הזרם של שמירה והקפדה על עקרונות תקינים, שכן הם מאפשרים שרידות מעשית, קיימות לטווח ארוך, ופועלים כסוג של פרסום המושך תורמים איכותיים. גישת העקרונות הראשונה עושה דרך ארוכה כדי להבטיח שפרויקט יוכל לשמור על מסלולו במשך דורות רבים קדימה, שכן הוא מונחה לא על ידי האינטרסים המשתנים ללא הרף של קבוצה מרכזית, אלא על ידי נקודות התייחסות פילוסופיות חיצוניות שאפילו עם גבוהות מחזור של תורמים, ניתן להנציח ולשכלל בפומבי כדי לכוון את עתיד הפרויקט.
 
-Having no central group to call the shots means that any individual or group can fill any role, as long as they are faithfully interpreting and executing ETC's principles and values, as understood by stakeholders. If some feel that a hard fork diverges from the values they signed up for, they can continue the existing version of the chain. The risk of a chain split means all participants are incentivized to work together to solve differences, and neither side of a debate can overrule the other if the disagreement is unresolvable.
+חוסר קבוצה מרכזית שתתנהל פירושו שכל אדם או קבוצה יכולים למלא כל תפקיד, כל עוד הם מפרשים ומוציאים לפועל בנאמנות את העקרונות והערכים של ETC, כפי שהם מובנים לבעלי העניין. אם חלק מרגישים שמזלג קשה סוטה מהערכים עליהם נרשמו, הם יכולים להמשיך את הגרסה הקיימת של השרשרת. הסיכון של פיצול שרשרת פירושו שכל המשתתפים מקבלים תמריץ לעבוד יחד כדי לפתור הבדלים, ואף אחד מהצדדים של הוויכוח לא יכול לעקוף את השני אם אי ההסכמה אינה ניתנת לפתרון.
 
-### Protocol Neutrality
+### נייטרליות פרוטוקול
 
-As the night is young in the blockchain game, the problem of [Ephemeral Foundations](#the-ephemeral-foundation) may not be so obvious. Whether conned, crushed, or otherwise captured, the noble intentions that run the show for many blockchain projects are certain to come to an end, and with them, if their chains are not able to shed reliance, so do their ambitions.
+מכיוון שהלילה צעיר במשחק הבלוקצ'יין, הבעיה של [ארעיות](#the-ephemeral-foundation) אולי לא כל כך ברורה. בין אם מרומים, מרוסקים או נלכדים בדרך אחרת, הכוונות האצילות שמנהלות את התוכנית עבור פרויקטים רבים של בלוקצ'יין בטוח יגיעו לקיצו, ואיתם, אם הרשתות שלהם לא מצליחות להשיל את ההסתמכות, כך גם השאיפות שלהם.
 
-This problem is made worse when the decision-making systems within a blockchain project rely on a central group for extended periods. Alternative mechanisms for organizing the project are unable to evolve, as decision-making is expected to come from the top down rather than bottom up. As a result, opaque autocracy becomes the standard, which ossifies and becomes fragile, rather than allowing for an anti-fragile open meritocracy to flourish.
+בעיה זו מחמירה כאשר מערכות קבלת ההחלטות בפרויקט בלוקצ'יין מסתמכות על קבוצה מרכזית לתקופות ממושכות. מנגנונים חלופיים לארגון הפרויקט אינם מסוגלים להתפתח, שכן קבלת ההחלטות צפויה לבוא מלמעלה למטה ולא מלמטה למעלה. כתוצאה מכך, אוטוקרטיה אטומה הופכת לסטנדרט, שמתגבר והופכת שברירית, במקום לאפשר למריטוקרטיה פתוחה אנטי-שברירית לפרוח.
 
-This manifests in a _centralization gravity well_, where reliance on central decision-making snowballs as outside contribution becomes more difficult, so the project relies more and more heavily on top-down leadership, and the cycle repeats.
+זה מתבטא בבאר כוח משיכה של _ריכוזיות_, שבה ההסתמכות על כדורי שלג מרכזיים בקבלת החלטות כתרומה מבחוץ הופכת קשה יותר, כך שהפרויקט מסתמך יותר ויותר על מנהיגות מלמעלה למטה, והמחזור חוזר על עצמו.
 
-Because of this, in the future, projects that rely on centralized organizations will one by one fall victim to this reliance, and the truth will be realized that only projects without this reliance can sustain themselves for long periods. As the wild valuations that cryptocurrencies currently enjoy depends on the hope that these projects have some degree of longevity, it will become increasingly evident that only truly decentralized projects are worth contributing money, talent or time to, and the market will reallocate accordingly.
+בשל כך, בעתיד, פרויקטים הנשענים על ארגונים ריכוזיים יפלו בזה אחר זה קורבן להסתמכות זו, והאמת תיווכח שרק פרויקטים ללא הסתמכות זו יכולים לקיים את עצמם לתקופות ארוכות. מכיוון שהערכות השווי הפרועות שמהן נהנים כיום מטבעות קריפטוגרפיים תלויות בתקווה שלפרויקטים אלו יש מידה מסוימת של אריכות ימים, יתברר יותר ויותר שרק פרויקטים מבוזרים באמת ראויים לתרום להם כסף, כישרון או זמן, והשוק יתחלק מחדש בהתאם.
 
-Only the projects with long term value propositions will remain, which means only those that don't rely on central organizing committees will remain. By the same logic, it will become apparent that, all things being equal, the projects perceived to be the least dependent on central groups will attract the most contribution and value.
+יישארו רק הפרויקטים עם הצעות ערך ארוכות טווח, מה שאומר שיישארו רק אלו שאינם מסתמכים על ועדות מארגנות מרכזיות. על פי אותו היגיון, יתברר כי, כל השאר, הפרויקטים הנתפסים כפחות תלויים בקבוצות מרכזיות ימשכו את מירב התרומה והערך.
 
-Instead of relying on unsustainable cash injections from central authorities, projects must evolve to sustain themselves purely on natural contributions, such as those through the _Buy and Contribute_ strategy, whereby individuals buy into a project and economically incentivize themselves to contribute to it.
+במקום להסתמך על הזרקת מזומנים בלתי ברת קיימא מרשויות מרכזיות, פרויקטים חייבים להתפתח כדי לקיים את עצמם אך ורק על תרומות טבעיות, כגון אלו באמצעות אסטרטגיית _Buy and Contribute_ , לפיה אנשים קונים לפרויקט וממריצים את עצמם כלכלית לתרום לו.
 
-This strategy works best when an individual is reaping the full reward of their contribution, which can only happen when a protocol is neutral. Neutral protocols treat all participants on the same equal footing and do not grant any special privileges to specific parties. Decentralized blockchain projects will compete with each other on this basis; only the most neutral projects, those without a Foundation, Dev Tax, or undiluted premine, will attract the type of natural contribution that enables long term sustainability.
+אסטרטגיה זו פועלת בצורה הטובה ביותר כאשר אדם קוצר את מלוא התמורה של תרומתו, מה שיכול לקרות רק כאשר פרוטוקול הוא ניטרלי. פרוטוקולים ניטרליים מתייחסים לכל המשתתפים באותה רמה ואינם מעניקים הרשאות מיוחדות לגורמים ספציפיים. פרויקטי בלוקצ'יין מבוזרים יתחרו זה בזה על בסיס זה; רק הפרויקטים הנייטרליים ביותר, אלה ללא קרן, מס פיתוח או שכר לא מדולל, ימשכו סוג של תרומה טבעית המאפשרת קיימות לטווח ארוך.
 
-### Balancing Power
+### איזון כוח
 
-As echoed by the structure of existing institutions such as the government of the United States of America, to rein in bad decision-making and prevent one group from hijacking a system as a whole for selfish interests, a balance of power between different players needs to exist in systems that wish to maintain longevity. This concept is known as _checks and balances_.
+כפי שהדהד המבנה של מוסדות קיימים כמו ממשלת ארצות הברית של אמריקה, כדי לרסן קבלת החלטות גרועה ולמנוע מקבוצה אחת לחטוף מערכת כולה למען אינטרסים אנוכיים, מאזן כוחות בין שחקנים שונים צריך קיימים במערכות שרוצות לשמור על אריכות ימים. מושג זה ידוע כ _בלמים ואיזונים_.
 
-![The US Government is an example of a system that implements checks and balances](./congress.png)
+![ממשלת ארה"ב היא דוגמה למערכת המיישמת בלמים ואיזונים](./congress.png)
 
-As with the US Government, checks and balances are an essential feature of Proof of Work blockchains, where three major power groups exist and balance each other's power.
+בדומה לממשלת ארה"ב, בלמים ואיזונים הם תכונה חיונית של בלוקצ'יין הוכחת עבודה, שבהן קיימות שלוש קבוצות כוח מרכזיות ומאזנות זו את כוחה של זו.
 
-| Group      | Role                                      | Veto                   |
-| ---------- | ----------------------------------------- | ---------------------- |
-| Developers | Maintain clients and infrastructure       | Stop maintaining code  |
-| Miners     | Provide security against 51% attacks      | Mine a different chain |
-| Financiers | Provide liquidity and finance initiatives | Sell holdings          |
+| קְבוּצָה   | תַפְקִיד                  | וֵטוֹ               |
+| ---------- | ------------------------- | ------------------- |
+| מפתחים     | תחזוקת לקוחות ותשתיות     | תפסיק לשמור על הקוד |
+| כורים      | ספק אבטחה מפני 51% התקפות | שלי שרשרת אחרת      |
+| אנשי כספים | לספק יוזמות נזילות ומימון | למכור אחזקות        |
 
-The alignment of three major powers in Proof of Work blockchains provides stability. They each add value to the system in entirely different ways. Each holds the system to account through the power of veto, which ensures that no other groups can screw things up too badly. Whether a government or a blockchain, things tend to go wrong when these checks and balances are interfered with.
+היישור של שלוש כוחות עיקריים ב-Proof of Work blockchains מספק יציבות. כל אחד מהם מוסף ערך למערכת בדרכים שונות לחלוטין. כל אחת מהן מחייבת את המערכת בכוח הווטו, מה שמבטיח שאף קבוצה אחרת לא יכולה לפשל את הדברים בצורה גרועה מדי. בין אם מדובר בממשלה או בלוקצ'יין, דברים נוטים להשתבש כאשר מפריעים לבלמים ואיזונים אלה.
 
-Note that this configuration of three is important, as it also means that the collective can overcome consensus issues through a simple majority rule. This odd-number electorate is a common pattern in distributed systems. A deadlock can ensue with only two participants, as no third party is there to resolve the dispute.
+שים לב שתצורה זו של שלוש חשובה, שכן היא גם אומרת שהקולקטיב יכול להתגבר על בעיות קונצנזוס באמצעות שלטון רוב רגיל. ציבור הבוחרים האי-זוגי הזה הוא דפוס נפוץ במערכות מבוזרות. מבוי סתום יכול להיווצר עם שני משתתפים בלבד, מכיוון שאין צד שלישי כדי לפתור את המחלוקת.
 
-The result is a symphony of balanced power, held together by competing interests that incentivize either voluntary engagement or ostracism of bad behavior. Miners provide security and get a block reward, which only has value if the network is useful thanks to developers and other providers maintaining the protocol and building out infrastructure, facilitated by traders providing liquidity and investors speculating and funding projects.
+התוצאה היא סימפוניה של כוח מאוזן, המוחזקת יחד על ידי אינטרסים מתחרים המעודדים מעורבות מרצון או נידוי מהתנהגות רעה. הכורים מספקים אבטחה ומקבלים תגמול חסום, שיש לו ערך רק אם הרשת מועילה הודות למפתחים וספקים אחרים ששומרים על הפרוטוקול ובניית תשתית, בהקלה על ידי סוחרים המספקים נזילות ומשקיעים המספקים ספקולציות ומממנים פרויקטים.
 
-Like struts holding up the base of a tower, these well-placed incentives rely on each other for support. Together, as long as they are correctly distributed, they can yield a new structure greater than the sum of their parts, and can stand potentially for millennia.
+כמו תמוכות המחזיקות את בסיס המגדל, התמריצים הממוקמים היטב מסתמכים זה על זה לתמיכה. יחד, כל עוד הם מחולקים בצורה נכונה, הם יכולים להניב מבנה חדש הגדול מסכום החלקים שלהם, ויכולים לעמוד בפוטנציאל במשך אלפי שנים.
 
-On top of this, a diversity of roles makes a system more challenging to take down by encouraging participation from parties with differing interests, profiles, and weaknesses. As multiple layers of defense, the more diverse the pool of participants securing the chain, the harder it is for an attacker to compromise, as a diversity of weaknesses requires a diversity of attacks, and a higher cost is needed to capture the system. Even with the same number of participants, a system with more separation of concerns can be considered more decentralized and difficult to capture because of this diversity.
+נוסף על כך, מגוון תפקידים הופך את המערכת למאתגרת יותר להורדה על ידי עידוד השתתפות של גורמים בעלי תחומי עניין, פרופילים וחולשות שונים. ככל שכבות הגנה מרובות, ככל שמאגר המשתתפים המאבטח את השרשרת מגוון יותר, כך קשה יותר לתוקף להתפשר, מכיוון שמגוון נקודות חולשה דורש מגוון התקפות, ויש צורך בעלות גבוהה יותר כדי ללכוד את המערכת. אפילו עם אותו מספר משתתפים, מערכת עם יותר הפרדה בין חששות יכולה להיחשב מבוזרת יותר וקשה ללכוד בגלל הגיוון הזה.
 
-The blueprint introduced by Bitcoin was also used by many other cryptocurrencies including Ethereum, which essentially copied the fundamentals, tweaked some variables, and (brilliantly) added a Turing-complete virtual machine, the EVM. Much like an architectural blueprint, encoding the structure of a real world building, it would be seemingly unwise to remove one or more of the crucial struts preventing the structure from collapsing into a centralized mess.
+התוכנית שהציג ביטקוין שימשה גם מטבעות קריפטוגרפיים רבים אחרים, כולל Ethereum, שבעצם העתיק את היסודות, שיפר כמה משתנים, והוסיף (באופן מבריק) מכונה וירטואלית מלאה בטיורינג, ה-EVM. בדומה לשרטוט אדריכלי, המקודד את המבנה של בניין בעולם האמיתי, זה יהיה לכאורה לא חכם להסיר אחת או יותר מהתמוכות המכריעות המונעות מהמבנה לקרוס לבלאגן ריכוזי.
 
-If a project wants to survive long term, it must have enough of these necessary incentive structure struts to be properly balanced. If Bitcoin is a sturdy tripod made of miners, developers and traders, by sawing off one of these legs, for example, by switching to Proof of Stake and firing the miners, the result is a two-legged barstool; one that can be straddled for a while, but even the faintest breeze will cause it to become a dangerous liability.
+אם פרויקט רוצה לשרוד לטווח ארוך, עליו להיות מספיק מתמוכות מבנה התמריצים ההכרחיות הללו כדי להיות מאוזנים כראוי. אם הביטקוין הוא חצובה יציבה העשויה מכורים, מפתחים וסוחרים, על ידי ניסור אחת מהרגליים הללו, למשל, על ידי מעבר ל-Proof of Stake ופיטורי הכורים, התוצאה היא כיסא בר עם שתי רגליים; כזה שאפשר להתיישב עליו לזמן מה, אבל אפילו משב רוח קלוש יגרום לו להפוך לאחריות מסוכנת.
 
-### Decentralization Maximalism
+### ביזור מקסימום
 
-_Decentralization maximalism_ is the only known mechanism to shore off the forces of centralization long term. It is not a predefined set of rules but a general philosophy or way of thinking that seeks to reduce the number of central points of failure throughout a system.
+_מקסימליזם ביזור_ הוא המנגנון היחיד הידוע לחיזוק כוחות הריכוזיות לטווח ארוך. אין זו מערכת כללים מוגדרת מראש אלא פילוסופיה כללית או דרך חשיבה המבקשת לצמצם את מספר נקודות הכשל המרכזיות במערכת.
 
-It demands that decentralization be pursued holistically in all areas, in protocol's design, and the social layer, where possible. The goal is to make the protocol secure from take-over and the social layer secure from capture. Satoshi Nakamoto being anonymous and going silent is the classic example of this philosophy being applied to the Bitcoin project, the success of which is wise to emulate.
+היא דורשת שהביזור ייעשה בצורה הוליסטית בכל התחומים, בתכנון הפרוטוקול, וברובד החברתי, במידת האפשר. המטרה היא להפוך את הפרוטוקול למאובטח מהשתלטות ואת הרובד החברתי מאובטח מפני לכידה. סאטושי נקמוטו הוא אנונימי ושותק הוא הדוגמה הקלאסית לפילוסופיה זו המיושמת בפרויקט הביטקוין, שאת הצלחתו כדאי לחקות.
 
-Where it makes sense, by definition, this approach demands no compromise. Even the smallest of sacrifices, infractions, or exceptions should be, unless entirely unavoidable with some overall worthwhile trade-off in the context of known stopping criteria, intolerable. As centralization is difficult to get rid of, it typically accumulates over time and will pile up until the system becomes captured in one way or another.
+היכן שזה הגיוני, בהגדרה, גישה זו אינה דורשת פשרה. אפילו הקורבנות הקטנים ביותר, הפרות או חריגים צריכים להיות בלתי נסבלים, אלא אם הם בלתי נמנעים לחלוטין עם איזושהי פשרה שווה הכוללת בהקשר של קריטריונים ידועים לעצירה. מכיוון שקשה להיפטר מהריכוזיות, היא בדרך כלל מצטברת עם הזמן ויערם עד שהמערכת תיתפס בדרך זו או אחרת.
 
-Whatever the crossroad, _decentralization maximalism_ requires eternal vigilance and the knowledge that systems naturally tend towards centralization, so every decision made must consider the cost paid in centralization debt, to keep the system debt-free long term.
+לא משנה מה צומת הדרכים, _מקסימליזם ביזור_ דורש ערנות נצחית וידיעה שמערכות נוטות באופן טבעי לריכוזיות, ולכן כל החלטה שתתקבל חייבת לשקול את העלות המשולמת בחוב ריכוזיות, כדי לשמור על המערכת נטולת חובות לטווח ארוך.
 
-## Onward
+## הָלְאָה
 
-If humanity wishes to avoid another dark age, it must embrace systems that can resist the corrupt forces threatening to capture blockchain technology's future. Only systems that strive for _decentralization maximalism_ can achieve this, but of all blockchain projects that exist today, only a handful recognize this requirement.
+אם האנושות רוצה להימנע מעידן אפל נוסף, עליה לאמץ מערכות שיכולות להתנגד לכוחות המושחתים המאיימים לכבוש את עתידה של טכנולוגיית הבלוקצ'יין. רק מערכות השואפות ל _ביזור מקסימליזציה_ יכולות להשיג זאת, אבל מכל פרויקטי הבלוקצ'יין הקיימים כיום, רק מעטים מזהים את הדרישה הזו.
 
-The innovations that Ethereum brought to the world in the form of a Turing Complete Smart Contract Platform provide a great leap forward in terms of the utility and potential of blockchain uses cases, but as evidenced The DAO Fork and the switch to Proof of Stake, the direction the project is being taken makes it susceptible to capture and unable to achieve _Sovereign Grade Censorship Resistance_.
+החידושים ש-Ethereum הביא לעולם בצורה של פלטפורמת Turing Complete Smart Contract מספקים קפיצת מדרגה גדולה מבחינת התועלת והפוטנציאל של מקרי שימוש בבלוקצ'יין, אך כפי שהוכח The DAO Fork והמעבר להוכחת הימור, הכיוון שבו הפרויקט נלקח הופך אותו לרגיש ללכידה ואינו מסוגל להשיג _התנגדות לצנזורה בדרגה ריבונית_.
 
-In the not too distant future, as attacks against blockchains ramp up, this need will be all too clear. As one by one, so-called decentralized projects reveal their true colors and succumb to corruption in the form of capture by special interests. As a result, only the genuinely decentralized will remain.
+בעתיד הלא רחוק, ככל שהתקפות נגד בלוקצ'יין יגדלו, הצורך הזה יהיה ברור מדי. בתור אחד אחד, מה שנקרא פרויקטים מבוזרים חושפים את הצבעים האמיתיים שלהם ונכנעים לשחיתות בצורה של לכידה על ידי אינטרסים מיוחדים. כתוצאה מכך יישארו רק המבוזרים באמת.
 
-By combining the technology of Ethereum with the philosophy of Bitcoin, Ethereum Classic provides a secure, multipurpose, decentralized blockchain, and a free, fair and flourishing alternative to what might be a grim and centralized future.
+על ידי שילוב הטכנולוגיה של Ethereum עם הפילוסופיה של ביטקוין, Ethereum Classic מספק בלוקצ'יין מאובטח, רב תכליתי, מבוזר, ואלטרנטיבה חינמית, הוגנת ופורחת למה שעשוי להיות עתיד קודר וריכוזי.
