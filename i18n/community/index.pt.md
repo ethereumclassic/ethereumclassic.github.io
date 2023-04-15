@@ -1,15 +1,15 @@
 ---
-title: ETC Community
+title: Comunidade ETC
 updated: 2022-02-22
-seo: Links to the Channels, Teams and Events that make up the Ethereum Classic community. Get involved!
+seo: Links para os Canais, Equipes e Eventos que compõem a comunidade Ethereum Classic. Envolver-se!
 ---
 
-Ethereum Classic is something far more than just some lines of code.
+Ethereum Classic é algo muito mais do que apenas algumas linhas de código.
 
-Those lines of code that define the Ethereum Classic protocol have a magical property that, thanks to economic incentives and game theory, enable otherwise totally unrelated individuals to come together and organize far more effectively, peacefully and powerfully than any other organizational structure known today.
+Essas linhas de código que definem o protocolo Ethereum Classic têm uma propriedade mágica que, graças aos incentivos econômicos e à teoria dos jogos, permite que indivíduos totalmente não relacionados se reúnam e se organizem de maneira muito mais eficaz, pacífica e poderosa do que qualquer outra estrutura organizacional conhecida hoje.
 
-Limited not by geography, united in vision, and armed with the most powerful techno-socio-economic tools ever invented, they have the potential to revolutionize the world on a global scale.
+Não limitados pela geografia, unidos em visão e armados com as mais poderosas ferramentas tecnossocioeconômicas já inventadas, eles têm o potencial de revolucionar o mundo em escala global.
 
-Ethereum Classic does not just enable, but consists of its community; a highly decentralized, diverse, multi-talented and dedicated collection of individuals and groups from all over the planet. Their mission is to spread the good word of Classic and reinforce its pool of talent so that together, we can [upgrade](/why-classic/code-is-law) the systems of the world.
+O Ethereum Classic não apenas habilita, mas consiste em sua comunidade; uma coleção altamente descentralizada, diversificada, multi-talentosa e dedicada de indivíduos e grupos de todo o planeta. Sua missão é espalhar a boa palavra do Classic e reforçar seu pool de talentos para que, juntos, possamos [atualizar](/why-classic/code-is-law) os sistemas do mundo.
 
-Whoever you are, and whatever your skills, you are welcome to join us.
+Seja você quem for, e quaisquer que sejam suas habilidades, você está convidado a se juntar a nós.
