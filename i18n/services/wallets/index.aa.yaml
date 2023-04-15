@@ -15,9 +15,10 @@ __contributors:
   - IstoraMandiri
   - ProphetDaniel
   - pyskell
-  - TheEnthusiasticAs
-  - ericfish
-  - Jamyye
+  - crwdns108645:0crwdne108645:0
+  - crwdns108647:0crwdne108647:0
+  - crwdns108649:0crwdne108649:0
+  - crwdns108651:0crwdne108651:0
 title: crwdns71958:0crwdne71958:0
 seo: crwdns71960:0crwdne71960:0
 description: |
@@ -134,10 +135,6 @@ items:
       Coin Wallet:
         __link: https://coin.space/
         __name: Coin Wallet
-      Coinbase Wallet:
-        __link: https://wallet.coinbase.com/
-        __primary: 1
-        __name: Coinbase Wallet
       Coinomi:
         __link: https://www.coinomi.com/
         __name: Coinomi
@@ -150,6 +147,7 @@ items:
       Emerald Wallet:
         __link: https://emerald.cash/
         __name: Emerald Wallet
+        __primary: 0
       Ethos:
         __link: https://www.ethos.io/universal-wallet/
         __name: Ethos
@@ -160,8 +158,9 @@ items:
         __link: https://evercoin.com
         __name: Evercoin
       Exodus:
-        __link: https://www.exodus.io/
+        __link: crwdns108655:0crwdne108655:0
         __name: Exodus
+        __primary: 0
       Guarda:
         __link: https://guarda.com/
         __name: Guarda
@@ -198,6 +197,9 @@ items:
       Ownbit:
         __link: https://ownbit.io/
         __name: Ownbit
+      Plisio:
+        __link: crwdns108659:0crwdne108659:0
+        __name: crwdns108661:0crwdne108661:0
       TokenPocket:
         __link: https://tokenpocket.pro/
         __name: TokenPocket
