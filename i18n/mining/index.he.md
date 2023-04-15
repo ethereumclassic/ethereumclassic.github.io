@@ -1,13 +1,13 @@
 ---
-title: Mining Resources
-seo: Why Ethereum Classic is a great long term choice for cryptocurrency mining, and a collection of resources covering Hardware, Software and Mining Pools.
+title: משאבי כרייה
+seo: מדוע Ethereum Classic הוא בחירה מצוינת לטווח ארוך עבור כריית מטבעות קריפטוגרפיים, ואוסף של משאבים המכסים חומרה, תוכנה ומאגרי כרייה.
 updated: 2022-02-22
 ---
 
-With Ethereum's imminent/recent switch to Proof of Stake a.k.a. "The Merge", Ethereum Classic becomes the largest Proof of Work Smart Contract Platform and inherits many of the miners that previously mined Ethereum. As Ethereum Classic's hashing algorithm is almost identical to ETHash, so it supports the same hardware, and mining ETC should be as simple switching to a mining pool that supports ETC.
+עם המעבר הקרוב/האחרון של Ethereum ל-Proof of Stake aka "המיזוג", Ethereum Classic הופך לפלטפורמת החוזה החכמה של הוכחת עבודה הגדולה ביותר וירשת רבים מהכורים שכרות בעבר את Ethereum. מכיוון שאלגוריתם הגיבוב של Ethereum Classic כמעט זהה ל-ETHash, כך שהוא תומך באותה חומרה, וכריית ETC צריכה להיות מעבר פשוט למאגר כרייה שתומך ב-ETC.
 
-Ethereum Classic has a long term [commitment](/why-classic/proof-of-work) to Proof of Work, a tried and true consensus mechanism that provides a solid foundation on which to Build Unstoppable Applications. This commitment is not out of happenstance, but as an intentional design choice over other mechanisms, such as Proof of Stake, that come with inherent security trade-offs.
+ל-Ethereum Classic יש התחייבות ארוכת טווח של [](/why-classic/proof-of-work) להוכחת עבודה, מנגנון קונצנזוס מנוסה ואמיתי המספק בסיס איתן לבנות עליו יישומים בלתי ניתנים לעצירה. מחויבות זו אינה מקרי, אלא כבחירה עיצובית מכוונת על פני מנגנונים אחרים, כגון הוכחת הימור, שמגיעים עם פשרות אבטחה אינהרנטיות.
 
-Mining is one of the most important elements of any Proof of Work blockchain, as it provides security allows nodes to reach consensus about the state of the network. In exchange for providing this service, anyone in the world, without permission, can contribute hash power and be rewarded every block with ETC, based on the emission curve and transaction fees.
+כרייה היא אחד המרכיבים החשובים ביותר בכל בלוקצ'יין של הוכחת עבודה, מכיוון שהיא מספקת אבטחה ומאפשרת לצמתים להגיע להסכמה לגבי מצב הרשת. בתמורה למתן שירות זה, כל אחד בעולם, ללא רשות, יכול לתרום כוח חשיש ולהתגמל בכל בלוק עם ETC, בהתבסס על עקומת הפליטה ודמי העסקאות.
 
-Below is a non-exhaustive collection of mining resources developed for Ethereum Classic. If you have questions about mining, there is an active Mining channel in the [Ethereum Classic Discord](/community/channels).
+להלן אוסף לא ממצה של משאבי כרייה שפותחו עבור Ethereum Classic. אם יש לך שאלות על כרייה, יש ערוץ כרייה פעיל ב [Ethereum Classic Discord](/community/channels).
