@@ -1,0 +1,20 @@
+title: Repositórios Git
+description: Uma miscelânea de diversos repositórios de código aberto para desenvolvedores Ethereum Classic.
+items:
+  repos:
+    items:
+      EthereumClassic:
+        name: Organização principal do Github
+        description: A organização principal do Ethereum Classic Github, contendo vários repositórios, uma seleção dos quais destacaremos abaixo...
+      eth-classic:
+        name: Organização alternativa do Github
+        description: Outra organização Github gerenciada pela comunidade que inclui configurações testnet, ETCHash, Besu, etc.
+      etcLabs:
+        name: Laboratórios ETC
+        description: Organização contendo muitos repositórios Ethereum Classic anteriormente mantidos pelo ETC Labs, incluindo core-geth.
+      website:
+        name: Site ETC
+        description: O código-fonte deste mesmo site, incluindo instruções sobre como contribuir.
+      awesomeEtc:
+        name: Incrível ETC
+        description: Uma lista incrível de recursos para o projeto Ethereum Classic (ETC).
