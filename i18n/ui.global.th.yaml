@@ -1,9 +1,9 @@
 title: Ethereum Classic
 seo: "แพลตฟอร์มการคำนวณแบบกระจายศูนย์ที่รันสัญญาอัจฉริยะ: แอปพลิเคชันที่ทำงานตรงตามที่ตั้งโปรแกรมไว้โดยไม่มีการหยุดทำงาน การเซ็นเซอร์ หรือการแทรกแซงจากบุคคลที่สาม"
 #Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
-metaLocale: th_US
+metaLocale: th_TH
 #Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
-htmlLang: en
+htmlLang: th
 published: ที่ตีพิมพ์
 updated: อัพเดทล่าสุด
 author: ผู้เขียน
@@ -58,6 +58,10 @@ socialItems:
     name: ความไม่ลงรอยกัน
   discordCoop:
     name: ETC Coop Discord
+  twitterEthclassic:
+    name: eth_classic ทวิตเตอร์
+  twitterEtcnetwork:
+    name: ETC_เครือข่ายทวิตเตอร์
   githubOrg:
     name: Github
   githubLabs:
@@ -103,3 +107,25 @@ appModal:
   checkListRating: ระดับรายการตรวจสอบที่น่าเชื่อถือ
   warning: "**คำเตือน:** แอปที่ผู้ใช้ส่งมานี้ไม่ได้รับการตรวจสอบและไม่รับประกันว่าจะปลอดภัย ใช้ความเสี่ยงของคุณเองและทำวิจัยของคุณเองเสมอ!"
   added: เพิ่ม
+## Tags
+tags: แท็ก
+tagNames:
+  blog: บล็อก ETC
+  announcement: ประกาศ
+  application: แอพ
+  development: การพัฒนา
+  education: การศึกษา
+  event: เหตุการณ์
+  exchange: การแลกเปลี่ยน
+  guide: คู่มือ
+  hardfork: ฮาร์ดฟอร์ค
+  media: สื่อ
+  mining: เหมืองแร่
+  podcast: พอดคาสต์
+  teams: ทีม
+  trading: ซื้อขาย
+  wallet: กระเป๋าสตางค์
+  video: วิดีโอ
+  news: ลิงค์ภายนอก
+  philosophy: ปรัชญา
+  series: ชุด
