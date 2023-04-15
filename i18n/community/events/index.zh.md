@@ -6,11 +6,14 @@ seo: 现实世界和虚拟的Ethereum Classic相关事件的概述。 ETC峰会�
 contributors:
   - IstoraMandiri
   - bobsummerwill
+  - TheCrowbill
 ---
 
 当人们聚集在一起并分享想法时，神奇的事情就会发生，整个ETC社区的参与者已经自发地组织起来，形成现实生活和在线聚会，将他们的注意力集中在改善Ethereum Classic。
 
 ## 社区电话
+
+UPDATE:  Regular, weekly Community Calls are currently on hiatus.
 
 每周四，通常在UTC 1500，在Ethereum Classic [Discord](https://ethereumclassic.org/discord) 服务器上进行小组语音聊天。 这次电话会议将在 [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos)，但你也可以在我们直播前一小时，即UTC时间14点加入，在绿色房间里进行非正式的交谈。
 
