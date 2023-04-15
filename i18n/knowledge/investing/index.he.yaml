@@ -1,0 +1,24 @@
+items:
+  links:
+    items:
+      Grayscale's ETC Research Report:
+        name: דוח המחקר ETC של Grayscale
+        description: הדוח של Grayscale על הצעת הערך של Ethereum Classic. דן במקורות של ETH ו-ETC, הזדמנות ההשקעה ש-ETC מציגה כסחורה בעלת ערך שיכול להניע את האינטרנט של הדברים, וכיצד הקצאה אסטרטגית ל-ETC יכולה לשפר את היעילות של תיקי המשקיעים.
+      etcIsMoney:
+        name: ETC זה כסף
+        description: תזכורת צבעונית ודעתנית לגבי התכונות של "כסף קשה" וכיצד הם קשורים לאתריום קלאסיק
+      The Ethereum Classic Monetary Policy Explained:
+        name: המדיניות המוניטרית הקלאסית של Ethereum מוסברת
+        description: מפרט את המדיניות המוניטרית המוגבלת של ETC, בדומה לזו של ביטקוין ובניגוד ל-ETH. ההיצע הכולל של ETC יתכנס לכמות שבין 199 מיליון ל-210 מיליון במהלך המאה הבאה. מסביר גם את צמצום ההיצע החדש של 20% ("חמישים") כל 5 מיליון בלוקים, ואת הכלכלה של הקצאת ההשקה הראשונית.
+      The Logic of why Ethereum Classic will Rise 1000x in the Medium to Long Term:
+        name: ההיגיון מדוע Ethereum Classic יעלה פי 1000 בטווח הבינוני עד הארוך
+        description: Etherplan מסביר מדוע Ethereum Classic *אולי* לראות כמה תשואות חיוביות בעתיד הנראה לעין.
+      Why Does Ethereum Classic Have Value?:
+        name: למה ל-Ethereum Classic יש ערך?
+        description: Etherplan בוחנת את הצעת הערך של ETC ומדוע לרשת יש ערך בסיסי כ"זהב דיגיטלי שניתן לתכנות".
+      Decentralized Finance (DeFi) on ETC Explained:
+        name: פיננסים מבוזרים (DeFi) על ETC הסבר
+        description: בוחן כיצד ניתן לאחסן עושר בבלוקצ'יין על ידי בעליו ולמנף אותו באמצעות יישומי פיננסים מבוזרים. DeFi מעניקה למשתתפים שליטה ושקיפות רבה יותר בכספים שלהם בהשוואה למערכת הבנקאית המסורתית.
+      Grayscale Ethereum Classic Trust (ETCG):
+        name: Ethereum Classic Trust (ETCG) בגווני אפור
+        description: Ethereum Classic Trust של Grayscale מאפשר למשקיעים לקבל חשיפה לתנועת המחירים של ETC באמצעות כלי השקעה מסורתיים. ETCG נסחרת בבורסה באמצעות תיווך, וניתן להחזיק אותה על ידי חשבונות פרישה (IRA/401K). נמנע מהאתגרים של משקיעים שקונים ואחסון ETC.
