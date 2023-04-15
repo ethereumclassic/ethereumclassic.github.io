@@ -22,3 +22,6 @@ items:
   NFT Marketplaces:
     title: Places de marché NFT
     description: Les places de marché NFT suivantes ne sont pas nécessairement des places de marché *complètement* décentralisées.
+  Other:
+    title: Autres services d'échange
+    description: Les services suivants n'entrent dans aucune des catégories ci-dessus. Ces services peuvent ou non être décentralisés.
