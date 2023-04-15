@@ -1,79 +1,79 @@
 ---
-title: Code is Law
+title: Código é lei
 updated: 2022-02-22
 disclaimer: opinion
-seo: An explanation of the concept of "Code is Law", and how Ethereum Classic is one of the few blockchain projects that allow this bright future to unfold.
+seo: Uma explicação do conceito de "Código é Lei" e como o Ethereum Classic é um dos poucos projetos de blockchain que permitem que esse futuro brilhante se desdobre.
 ---
 
-## Key Points
+## Pontos chave
 
-- Blockchain technology and Smart Contracts have the potential to unlock a new era of human flourishing.
-- _The_ value that Smart Contract Platforms introduce is _Code is Law_; the ability to _Build Unstoppable Applications_.
-- If positively engaged with, _Code is Law_ will be hugely beneficial; those who attempt to stifle its adoption will be left behind.
-- Change is likely to disrupt powerful institutions, who may fight against technology that threatens their position.
-- Only blockchains committed to _Code is Law_ are suitable to take on this challenge; others will become captured.
-- Today, most blockchain projects, including Ethereum™, are not committed to _Code is Law_, undermining their value proposition.
+- A tecnologia Blockchain e os Contratos Inteligentes têm o potencial de abrir uma nova era de prosperidade humana.
+- _O valor_ que as Plataformas de Contrato Inteligente introduzem é _Código é Lei_; a capacidade de _Criar aplicativos imparáveis_.
+- Se engajado positivamente com, _Code is Law_ será extremamente benéfico; aqueles que tentarem sufocar sua adoção serão deixados para trás.
+- É provável que a mudança interrompa instituições poderosas, que podem lutar contra a tecnologia que ameaça sua posição.
+- Apenas blockchains comprometidos com _Code is Law_ são adequados para enfrentar esse desafio; outros serão capturados.
+- Hoje, a maioria dos projetos de blockchain, incluindo Ethereum™, não está comprometida com _Code is Law_, prejudicando sua proposta de valor.
 
-## Introduction
+## Introdução
 
-For Ethereum Classic, principles come first, and ETC's story begins with a phrase that most succinctly captures its core philosophy; _Code is Law_.
+Para Ethereum Classic, os princípios vêm em primeiro lugar, e a história da ETC começa com uma frase que captura de forma mais sucinta sua filosofia central; _Código é Lei_.
 
-_Code is Law_ puts the "Unstoppable" in "Build Unstoppable Applications", a philosophy lauded enthusiastically by The Ethereum Project up until The DAO Hack. But what exactly is _Code is Law_, and why did Etherians outside of Ethereum Classic decide to abandon it?
+_Code is Law_ coloca o "Unstoppable" em "Build Unstoppable Applications", uma filosofia elogiada entusiasticamente pelo The Ethereum Project até o DAO Hack. Mas o que exatamente é _Code is Law_, e por que os Etherians fora do Ethereum Classic decidiram abandoná-lo?
 
-## A Vision for the Future
+## Uma Visão para o Futuro
 
-Many who think deeply about the potential of blockchain technology have a "eureka" moment, where it all _clicks_, and the wild valuations of the cryptocurrency space suddenly feel a little meager. They realize a future can exist where all agreements between people are ultimately governed not by corruptible institutions but by the cold hard logic of Smart Contract code.
+Muitos que pensam profundamente sobre o potencial da tecnologia blockchain têm um momento "eureka", onde tudo _cliques_, e as avaliações selvagens do espaço da criptomoeda de repente parecem um pouco escassas. Eles percebem que pode existir um futuro onde todos os acordos entre as pessoas são regidos não por instituições corruptíveis, mas pela lógica dura e fria do código do Contrato Inteligente.
 
-In this future, individuals decide for themselves which contracts they wish to engage with, rather than rolling the dice via the geographical monopolies they happen to be born into. There are no middlemen as rent-seeking in all areas is replaced by disintermediation, market competition, and price optimization. This reality is fairer, cheaper, interoperable, and global. It becomes a universal solvent that lubricates the ossified machinery of old.
+Nesse futuro, os indivíduos decidem por si mesmos com quais contratos desejam se envolver, em vez de jogar os dados por meio dos monopólios geográficos em que nasceram. Não há intermediários, pois o rent-seeking em todas as áreas é substituído pela desintermediação, competição de mercado e otimização de preços. Essa realidade é mais justa, mais barata, interoperável e global. Torna-se um solvente universal que lubrifica a velha maquinaria ossificada.
 
-A new era of human flourishing is unleashed, as society is unshackled from the inefficiency and opacity of corruption. It will be nothing short of a new renaissance, a beaming ray of hope in the face of darker alternatives, and to top it off, it is achievable within our lifetimes.
+Uma nova era de florescimento humano é desencadeada, à medida que a sociedade se liberta da ineficiência e opacidade da corrupção. Será nada menos que um novo renascimento, um raio radiante de esperança diante de alternativas mais sombrias e, ainda por cima, é alcançável em nossas vidas.
 
-## Virtual Jurisdictions
+## Jurisdições virtuais
 
-In this future, one or more global "virtual jurisdictions" exist, over and above, in some cases instead of, the geography-based legal frameworks that operate today. These new jurisdictions will be preferred as they offer something their traditional alternatives cannot provide consistently: transparency, fairness and incorruptibility.
+Neste futuro, uma ou mais "jurisdições virtuais" globais existem, além, em alguns casos, em vez das estruturas legais baseadas na geografia que operam hoje. Essas novas jurisdições serão preferidas porque oferecem algo que suas alternativas tradicionais não podem oferecer de forma consistente: transparência, justiça e incorruptibilidade.
 
-Unlike the legal jurisdictions that exist today that are regularly manipulated by the whims of the powerful, future virtual jurisdictions will be governed by the principle of _Code is Law_, meaning that for the first time, humanity can operate under _actual_, as opposed to the guise of, Rule of Law, codified not in esoteric and misinterpretable legal texts, but in pure mathematics.
+Ao contrário das jurisdições legais que existem hoje e que são regularmente manipuladas pelos caprichos dos poderosos, as futuras jurisdições virtuais serão regidas pelo princípio de _Code is Law_, o que significa que pela primeira vez a humanidade pode operar sob _reais_, como oposto ao disfarce de Estado de Direito, codificado não em textos legais esotéricos e mal interpretados, mas em matemática pura.
 
-_Code is Law_ is made possible by blockchain technology, and is a straightforward concept that keeps these virtual jurisdictions sovereign. It means that the code of a Smart Contract is the ultimate arbiter of the outcome of an on-chain interaction, as opposed to some overriding force from outside the network. As a result, _applications_ are _unstoppable_, and run exactly as programmed without downtime, censorship, or third party interference.
+_Code is Law_ é possibilitado pela tecnologia blockchain e é um conceito direto que mantém essas jurisdições virtuais soberanas. Isso significa que o código de um contrato inteligente é o árbitro final do resultado de uma interação na cadeia, em oposição a alguma força primordial de fora da rede. Como resultado, _aplicativos_ são _ininterruptos_e executados exatamente como programados, sem tempo de inatividade, censura ou interferência de terceiros.
 
-When individuals voluntarily engage with Smart Contracts on a chain that follows _Code is Law_, they accept the outcome of whatever logic is defined within those contracts. If a contract is poorly written or has a mistake, it is not the responsibility of the wider network to "make whole" parties who are not happy with a given outcome. In short, there are no do-overs, bailouts or refunds, unless pre-programmed.
+Quando os indivíduos se envolvem voluntariamente com contratos inteligentes em uma cadeia que segue _Code is Law_, eles aceitam o resultado de qualquer lógica definida nesses contratos. Se um contrato está mal escrito ou tem um erro, não é responsabilidade da rede mais ampla "compensar" as partes que não estão satisfeitas com um determinado resultado. Resumindo, não há recomeços, resgates ou reembolsos, a menos que sejam pré-programados.
 
-## The Value of Blockchains
+## O Valor das Blockchains
 
-Upon reflection, it becomes apparent that _Code is Law_ is the _only_ way that Smart Contracts can be fairly or usefully interpreted. On blockchains that do not uphold _Code is Law_, the outcome of transactions is not governed by individual choice via contract code, but ultimately at the behest of "governance" from the legacy system, including all the drawbacks that introducing a blockchain was meant to alleviate.
+Após reflexão, torna</em> se aparente que _Código é Lei_ é a _única maneira de os Contratos Inteligentes serem interpretados de forma justa ou útil. Em blockchains que não suportam _Code is Law_, o resultado das transações não é governado por escolha individual via código de contrato, mas, em última análise, a pedido da "governança" do sistema legado, incluindo todas as desvantagens que a introdução de um blockchain significava para aliviar.</p>
 
-For those who want to "Build _Unstoppable_ Applications", the apparent truth is that _Code is Law_ is the very thing that makes blockchains valuable. It is why they exist. Without _Code is Law_, there are much more efficient ways to "Build _Stoppable_ Applications", such as Amazon Web Services, so why bother with a blockchain at all?
+Para aqueles que querem "criar _aplicativos imparáveis_ ", a aparente verdade é que _Código é a Lei_ é exatamente o que torna as blockchains valiosas. É por isso que eles existem. Sem _Código é a Lei_, existem maneiras muito mais eficientes de "Criar _Aplicativos Stoppable_ ", como Amazon Web Services, então por que se preocupar com um blockchain?
 
-## Not without a Fight
+## Não sem uma luta
 
-While these new systems will unlock immense value for the vast majority, they are bound to be opposed by those who unfairly benefit from the status quo.
+Embora esses novos sistemas tragam imenso valor para a grande maioria, eles certamente sofrerão a oposição daqueles que se beneficiam injustamente do status quo.
 
-In transparent and incorruptible _Code is Law_ jurisdictions, those who cannot provide real value on a level playing field will go extinct. For this reason, in a futile attempt to stop progress, truly decentralized blockchains will experience significant pushback from incumbent institutions for whom this fairer reality poses an existential threat.
+Em jurisdições transparentes e incorruptíveis do Código _é a Lei_ , aqueles que não puderem fornecer valor real em condições equitativas serão extintos. Por esta razão, em uma tentativa fútil de parar o progresso, as blockchains verdadeiramente descentralizadas sofrerão um retrocesso significativo das instituições estabelecidas para quem esta realidade mais justa representa uma ameaça existencial.
 
-If [history](https://www.eff.org/wp/riaa-v-people-five-years-later) is anything to go by, attempts will be made to stifle the adoption of these empowering new technologies. Projects that are not sufficiently decentralized, those that are not _Sovereign Grade_, will become captured by the very institutions they promise to disrupt. This is why _Code is Law_ and the high degree of decentralization required to underpin it must be the primary goal of blockchains that wish to survive and provide long term value.
+Se [história](https://www.eff.org/wp/riaa-v-people-five-years-later) servir de referência, serão feitas tentativas para sufocar a adoção dessas novas tecnologias empoderadoras. Projetos que não são suficientemente descentralizados, aqueles que não são _Grau Soberano_, serão capturados pelas próprias instituições que prometem desmantelar. É por isso que o Código _é a Lei_ e o alto grau de descentralização necessário para sustentá-lo deve ser o objetivo principal das blockchains que desejam sobreviver e fornecer valor a longo prazo.
 
-## Where Code isn't Law
+## Onde Código não é Lei
 
-The concept of _Code is Law_ is potentially provocative and disruptive to the existing global order, but it need not be reflexively rallied against. Like all powerful technologies, _how and where_ they are applied determines who benefits from their application. Like the internet before blockchain, the genie is out of the bottle. This will undoubtedly change the existing landscape, but society will benefit by engaging with the technology positively.
+O conceito de Código _é a Lei_ é potencialmente provocativo e perturbador para a ordem global existente, mas não precisa ser combatido reflexivamente. Como todas as tecnologias poderosas, _como e onde_ elas são aplicadas determina quem se beneficia de sua aplicação. Como a internet antes do blockchain, o gênio saiu da garrafa. Sem dúvida, isso mudará o cenário existente, mas a sociedade se beneficiará ao se envolver positivamente com a tecnologia.
 
-How we engage depends on recognizing the boundaries of _Code is Law_, and understanding that, like the embers of a fire, it can only exist in unique circumstances and has to be nurtured and matured into the raging source of light it has the potential to become.
+A forma como nos envolvemos depende do reconhecimento dos limites do Código _, que é a Lei_, e da compreensão de que, como as brasas de um incêndio, ele só pode existir em circunstâncias únicas e deve ser nutrido e amadurecido na fonte de luz furiosa que tem o potencial tornar-se.
 
-### The Old World
+### o velho mundo
 
-The phrase isn't _only Code is Law_. The concept of _Code is Law_ is ambivalent about how any particular local constabulary handles the unstoppability of Smart Contracts in their off-chain jurisdiction. Cryptocurrency theft, for example, is considered illegal in many places, and _Code is Law_ proponents can consistently support the return of stolen funds while also opposing the reversing of malicious transactions.
+A frase não é _apenas o Código é a Lei_. O conceito de Código _é a Lei_ é ambivalente sobre como qualquer polícia local em particular lida com a imparabilidade dos Contratos Inteligentes em sua jurisdição fora da cadeia. O roubo de criptomoeda, por exemplo, é considerado ilegal em muitos lugares, e os proponentes do Código _é a Lei_ podem apoiar consistentemente o retorno de fundos roubados, ao mesmo tempo em que se opõem à reversão de transações maliciosas.
 
-As there are many legal jurisdictions and various approaches to policing, *Code is Law* blockchains recognize that to remain globally relevant and accessible, they must be neutral and follow their *own* contractual agreements. Off-chain concerns are outside the responsibility of the chain, whose only role is to ensure that transactions are _not_ reversible through third party interference with the protocol.
+Como existem muitas jurisdições legais e várias abordagens para o policiamento, *Code is Law* blockchains reconhecem que, para permanecer globalmente relevantes e acessíveis, eles devem ser neutros e seguir seus *próprios* acordos contratuais. As preocupações fora da cadeia estão fora da responsabilidade da cadeia, cujo único papel é garantir que as transações sejam _e não_ reversíveis por meio de interferência de terceiros no protocolo.
 
-_Code is Law_ blockchains are opt-in systems that can have off-chain consequences that depend on how they are used. In the same way that fire can be used for both warmth and destruction, as a new technological primitive, restricting its use will only hinder the restrictor, who will be left behind as others take advantage of it. There is no question that a big challenge exists in figuring out how the world interfaces with this new tech, but that depends on cultural biases and is not necessarily within the control of technologists. In any case, please don't shoot the messenger.
+_Code is Law_ blockchains são sistemas opt-in que podem ter consequências fora da cadeia que dependem de como são usados. Da mesma forma que o fogo pode ser usado tanto para aquecer quanto para destruir, como um novo primitivo tecnológico, restringir seu uso apenas atrapalhará o restritor, que ficará para trás enquanto outros se aproveitam dele. Não há dúvida de que existe um grande desafio em descobrir como o mundo se relaciona com essa nova tecnologia, mas isso depende de preconceitos culturais e não está necessariamente sob o controle dos tecnólogos. De qualquer forma, por favor, não atire no mensageiro.
 
-### Outside the Contract Layer
+### Fora da camada de contrato
 
-A common misconception about _Code is Law_ is that it applies to all parts of a blockchain's technology stack, including the node clients' code. This is nonsensical, as blockchain nodes are written in conventional programming languages and operate in traditional execution environments, where code couldn't be law if it wanted to. Instead, blockchain clients are written to participate in a given blockchain's _protocol_, whose operation creates a new decentralized execution environment; a _Contract Layer_ that sits on top, where _Code is Law_ can operate.
+Um equívoco comum sobre o Código _é a Lei_ é que ele se aplica a todas as partes da pilha de tecnologia de uma blockchain, incluindo o código dos clientes do nó. Isso não faz sentido, pois os nós da blockchain são escritos em linguagens de programação convencionais e operam em ambientes de execução tradicionais, onde o código não poderia ser lei mesmo que quisesse. Em vez disso, os clientes de blockchain são escritos para participar de um determinado protocolo _de blockchain_, cuja operação cria um novo ambiente de execução descentralizado; uma Camada</em> _Contratos que fica no topo, onde o Código _é a Lei_ pode operar.</p>
 
-### 9 out of 10 Chains
+### 9 de 10 cadeias
 
-Some chains have abandoned the idea of _Code is Law_ entirely. Indeed, the vast majority of blockchain projects today do not give much if any priority to _unstoppability_, _decentralization_ or _censorship resistance_, and are therefore unable to deliver on the bright future alluded to above. These projects may certainly carve out niches in areas that won't shake things up too much, but the moment they pose a threat to powerful incumbents, they will be easily manipulated, captured or otherwise compromised, and will therefore ultimately fail to deliver seriously monumental change.
+Algumas cadeias abandonaram completamente a ideia de que o Código _é a Lei_. De fato, a grande maioria dos projetos de blockchain hoje não dá muita prioridade a _imparabilidade_, _descentralização_ ou _resistência à censura_e, portanto, são incapazes de entregar o futuro brilhante mencionado acima. Esses projetos certamente podem criar nichos em áreas que não vão agitar muito as coisas, mas no momento em que representarem uma ameaça para poderosos titulares, eles serão facilmente manipulados, capturados ou comprometidos de outra forma e, portanto, acabarão falhando em entregar projetos seriamente monumentais. mudar.
 
-Sadly, this is true for ETC's younger, albeit weightier sibling, Ethereum™, a project that once shared these principles, but after only a year, split away, rebooting a new chain with new rules, going down a new path, and explicitly disavowing _Code is Law_.
+Infelizmente, isso é verdade para o irmão mais novo, embora mais pesado, da ETC, Ethereum™, um projeto que já compartilhou esses princípios, mas depois de apenas um ano se separou, reiniciando uma nova cadeia com novas regras, seguindo um novo caminho e negando explicitamente _Código é Lei_.
 
-To understand what happened, we must now reflect on Ethereum Classic's shared history with Ethereum™ and revisit the incident that led to ETC's genesis.
+Para entender o que aconteceu, devemos agora refletir sobre a história compartilhada do Ethereum Classic com o Ethereum™ e revisitar o incidente que levou à gênese do ETC.
