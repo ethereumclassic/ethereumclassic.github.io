@@ -1,18 +1,18 @@
 ---
-title: Why Ethereum Classic?
+title: למה Ethereum Classic?
 updated: 2022-02-22
 showNext: true
-seo: Ethereum Classic's reason for being including its Genesis, mission of Decentralization and the bright future it enables thanks to Code is Law.
+seo: הסיבה של Ethereum Classic לכלול את בראשית שלה, משימת הביזור והעתיד המזהיר שהיא מאפשרת הודות לקוד היא החוק.
 disclaimer: opinion
-info: "**Note:** In the following sections, *Ethereum™* refers to the post DAO Fork [Ethereum Foundation](https://ethereum.org) Mainnet Chain, not to be confused with the Ethereum *protocol*, which is used many blockchain projects including Ethereum Classic"
+info: "**הערה:** בסעיפים הבאים, *Ethereum™* מתייחס ל-DAO Fork [Ethereum Foundation](https://ethereum.org) Mainnet Chain, לא להתבלבל עם *פרוטוקול* Ethereum, שהוא השתמש בפרויקטים רבים של בלוקצ'יין כולל Ethereum Classic"
 ---
 
-Following the rapid growth of the cryptocurrency space, many new players enter the scene, and while scrolling down a list of projects ranked by market cap, some notice a blockchain called _Ethereum Classic_.
+בעקבות הצמיחה המהירה של תחום המטבעות הקריפטוגרפיים, שחקנים חדשים רבים נכנסים לזירה, ותוך כדי גלילה מטה של רשימת פרויקטים המדורגים לפי שווי שוק, יש שמבחינים בבלוקצ'יין בשם _Ethereum Classic_.
 
-They see a name and logo that is similar to the famous Ethereum™ and may assume that this _Classic_ thing is some sort of copy-cat project trying to cash in on ETH's success. In a market saturated with such projects, and with limited research time, many people may reasonably give Ethereum Classic a pass without much thought.
+הם רואים שם ולוגו הדומים ל-Ethereum™ המפורסם ועשויים להניח שהדבר הזה _Classic_ הוא סוג של פרויקט העתקה שמנסה להרוויח כסף מההצלחה של ETH. בשוק רווי בפרויקטים כאלה, ועם זמן מחקר מוגבל, אנשים רבים עשויים לתת ל-Ethereum Classic לעבור ללא מחשבה רבה.
 
-But some, like yourself, decide to dive a little deeper, and they discover some interesting facts that debunk that initial skepticism. Their journey down the rabbit hole begins when they find out that Ethereum Classic is not a clone of Ethereum™, but a continuation of the *original* Ethereum launched in 2015, which The Ethereum Foundation forked away from by launching a new protocol one year later in 2016.
+אבל חלקם, כמוך, מחליטים לצלול קצת יותר לעומק, והם מגלים כמה עובדות מעניינות שמפריכות את הספקנות הראשונית הזו. המסע שלהם במורד חור הארנב מתחיל כשהם מגלים ש-Ethereum Classic אינו שיבוט של Ethereum™, אלא המשך של *Ethereum המקורי* שהושק ב-2015, שקרן Ethereum התרחקה ממנו על ידי השקת פרוטוקול חדש שנה לאחר מכן. בשנת 2016.
 
-Applications on Ethereum Classic have been operating uninterrupted for a year longer than on Ethereum™, making ETC the longest running and most reliable Smart Contract Platform. More importantly, Ethereum Classic has never and will never stop or interfere with Smart Contracts deployed to it, as unstoppability is what makes blockchains useful and valuable.
+יישומים ב-Ethereum Classic פעלו ללא הפרעה במשך שנה יותר מאשר ב-Ethereum™, מה שהופך את ETC לפלטפורמת החוזה החכמה הארוכה והאמינה ביותר. חשוב מכך, Ethereum Classic מעולם לא יפסיק או יפריע לחוזים חכמים שנפרסו אליו, שכן אי-עצירה היא מה שהופך את הבלוקצ'יין לשימושי ובעל ערך.
 
-Unlike Ethereum™, on Classic, _Code is Law_. This means that "applications run exactly as programmed without downtime, censorship, or third party interference." Ethereum Classic has evolved its ability to deliver on this promise by maxing-out the characteristics that yield decentralization, unstoppability, and censorship resistance against strong external forces. It is the only major Smart Contract Platform that has proven its ability to uphold this promise.
+בניגוד ל-Ethereum™, ב-Classic, קוד _הוא חוק_. המשמעות היא ש"אפליקציות פועלות בדיוק כפי שתוכנתו ללא זמן השבתה, צנזורה או הפרעות של צד שלישי". Ethereum Classic פיתחה את יכולתה לעמוד בהבטחה זו על ידי מיצוי המאפיינים המניבים ביזור, אי-עצירה והתנגדות לצנזורה כנגד כוחות חיצוניים חזקים. זוהי פלטפורמת החוזה החכמה הגדולה היחידה שהוכיחה את יכולתה לקיים הבטחה זו.
