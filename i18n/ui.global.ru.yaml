@@ -1,9 +1,9 @@
 title: Ethereum Classic
 seo: "Децентрализованная вычислительная платформа, на которой работают смарт-контракты: приложения, которые выполняются точно по программе без простоев, цензуры или вмешательства третьих сторон."
 #Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
-metaLocale: en_US
+metaLocale: ru_RU
 #Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
-htmlLang: en
+htmlLang: ru
 published: Опубликовано
 updated: Последнее обновление
 author: Автор
@@ -58,6 +58,10 @@ socialItems:
     name: Discord
   discordCoop:
     name: ETC Coop Discord
+  twitterEthclassic:
+    name: eth_classic Твиттер
+  twitterEtcnetwork:
+    name: ETC_Network Твиттер
   githubOrg:
     name: Github
   githubLabs:
@@ -103,3 +107,25 @@ appModal:
   checkListRating: Уровень контрольного списка без доверия
   warning: "**Предупреждение:** Это приложение, представленное пользователем, НЕ проверено и НЕ гарантирует безопасность; используйте на свой страх и риск и всегда проводите собственное исследование!"
   added: Добавлено
+## Tags
+tags: Теги
+tagNames:
+  blog: Блог ETC
+  announcement: Объявления
+  application: Программы
+  development: Разработка
+  education: Образование
+  event: События
+  exchange: Обмены
+  guide: Гиды
+  hardfork: Хардфорки
+  media: СМИ
+  mining: Добыча
+  podcast: Подкасты
+  teams: Команды
+  trading: Трейдинг
+  wallet: Кошельки
+  video: Видео
+  news: Внешние ссылки
+  philosophy: Философия
+  series: Ряд
