@@ -13,7 +13,7 @@ contributors:
 
 ## Κοινοτικές κλήσεις
 
-UPDATE:  Regular, weekly Community Calls are currently on hiatus.
+ΕΝΗΜΕΡΩΣΗ: Οι τακτικές, εβδομαδιαίες κλήσεις κοινότητας είναι επί του παρόντος σε παύση.
 
 Κάθε Πέμπτη, συνήθως στις 1500 UTC, πραγματοποιείται μια ομαδική φωνητική συνομιλία στον διακομιστή Ethereum Classic [Discord](https://ethereumclassic.org/discord) . Η κλήση θα μεταδοθεί στο [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos), αλλά μπορείτε επίσης να συμμετάσχετε 1 ώρα πριν από τη ζωντανή μετάδοση, στις 14:00 UTC, για να συνομιλήσετε ανεπίσημα στο Green Room.
 
