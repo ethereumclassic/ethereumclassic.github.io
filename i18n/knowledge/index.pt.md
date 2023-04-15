@@ -1,14 +1,14 @@
 ---
-title: Knowledge Base
+title: Base de conhecimento
 updated: 2022-02-22
 disclaimer: opinion
-seo: A hub of information about the History, Future, Philosophy and Economics of Ethereum Classic, documenting the why, how and where of the decentralized version of Ethereum.
+seo: Um hub de informações sobre a história, futuro, filosofia e economia do Ethereum Classic, documentando o porquê, como e onde da versão descentralizada do Ethereum.
 ---
 
-Ethereum Classic, despite having no central organizing committee, has managed to attract many kinds of participants at various points in time who have come and gone and all contributed and shaped it in their own way. ETC's greatest strength lies in its philosophy and principles, which can be spread even without billions of dollars of marketing because their value is self-evident, and bright minds gravitate toward them.
+O Ethereum Classic, apesar de não ter um comitê organizador central, conseguiu atrair muitos tipos de participantes em vários momentos que vieram e se foram e todos contribuíram e moldaram à sua maneira. A maior força da ETC reside em sua filosofia e princípios, que podem ser divulgados mesmo sem bilhões de dólares em marketing porque seu valor é evidente e mentes brilhantes gravitam em torno deles.
 
-There is no way to compete traditionally with a billion dollar budget VC-backed blockchain in the short term. Those projects are sure to attract immediate attention, but this reliance on centralized funding and direction comes at the price of long term sustainability.
+Não há como competir tradicionalmente com um blockchain apoiado por VC com orçamento de bilhões de dólares no curto prazo. Esses projetos certamente atrairão atenção imediata, mas essa dependência de financiamento e direção centralizados tem o preço da sustentabilidade a longo prazo.
 
-As the good word of Ethereum Classic is spread, and people get deeper into understanding the true value of blockchains, ETC is going to keep delivering on the _Original Ethereum Vision_ of "Build Unstoppable Applications" and will become quietly, steadily but inevitably more useful and valuable, without a central budget in sight.
+À medida que a boa palavra do Ethereum Classic se espalha e as pessoas se aprofundam na compreensão do verdadeiro valor dos blockchains, a ETC continuará entregando a _Original Ethereum Vision_ de "Criar aplicativos imparáveis" e se tornará silenciosa, constante, mas inevitavelmente mais útil e valioso, sem um orçamento central à vista.
 
-This section contains a selection of contributions from community members that feed into the source of ETC's strength, by providing intel and philosophical ordnance that can be deployed in the battle of winning hearts and minds.
+Esta seção contém uma seleção de contribuições de membros da comunidade que alimentam a fonte da força da ETC, fornecendo informações e munições filosóficas que podem ser empregadas na batalha para conquistar corações e mentes.
