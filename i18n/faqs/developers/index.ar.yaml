@@ -25,10 +25,22 @@ items:
           راجع قسم [أدلة التطوير] (/ guides / development) ، بالإضافة إلى قسم [development](/ development) للاطلاع على البرامج التعليمية والأدوات التي تساعدك على النشر في Classic.
       deployment:
         question: كيف يمكنني النشر في Ethereum Classic blockchain؟
+        answer: |
+          أولاً ، احصل على بعض ETC للدفع مقابل الغاز لنشر العقد الخاص بك ، ثم تأكد ببساطة من النشر إلى شبكة Ethereum Classic (معرف السلسلة 61) ، بدلاً من شبكة Ethereum (معرف السلسلة 1).
       rpc:
         question: هل توجد نقاط نهاية RPC عامة يمكنني استخدامها للنشر إلى ETC؟
+        answer: |
+          نعم. إذا كنت لا ترغب في تشغيل عقدة Ethereum Classic الخاصة بك ومزامنتها وصيانتها ، فهناك عدد من نقاط النهاية العامة المتاحة مجانًا للاستخدام.
+
+          راجع قسم [RPC Endpoints] (/ network / endpoints) وكذلك [ChainList.org](https://chainlist.org/chain/61).
       grants:
         question: هل يمكنني الحصول على تمويل للبناء على Ethereum Classic؟
+        answer: |
+          نعم. هناك عدد من البرامج السابقة والحالية لتشجيع التطوير على ETC.
+
+          المثال الأخير هو [ETC Grants DAO] (https://etcgrantsdao.io) ، الذي أطلق برنامج منح ETC في عام 2023.
+
+          نظرًا لأن Ethereum Classic ليس لديها خزانة مركزية ، فإن جميع المساهمات في المشروع ممولة من الخارج. وهذا يشمل المساهمين الذين يتبرعون بوقتهم ، والحوافز المالية من تمويل طرف ثالث.
       ecips:
         question: كيف يمكنني المساعدة في تطوير بروتوكول Ethereum Classic؟
         answer: |
