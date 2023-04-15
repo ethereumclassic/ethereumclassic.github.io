@@ -1,125 +1,125 @@
 ---
-title: Using MetaMask with ETC
+title: שימוש ב-MetaMask עם ETC
 date: 2021-03-02
 updated: 2022-07-05
 author: Donald McIntyre, Etherplan
-seo: A step-by-step guide covering how to use MetaMask with Ethereum Classic to send ETC and interact with decentralized applications.
-info: This article was [created by Etherplan](https://etherplan.com/2021/03/02/how-to-connect-metamask-to-ethereum-classic/15512/). For more Ethereum Classic tutorials, theory, and cryptocurrency concepts, please check out [etherplan.com](https://etherplan.com).
+seo: מדריך שלב אחר שלב המכסה כיצד להשתמש ב-MetaMask עם Ethereum Classic כדי לשלוח ETC ולקיים אינטראקציה עם יישומים מבוזרים.
+info: מאמר זה [נוצר על ידי Etherplan](https://etherplan.com/2021/03/02/how-to-connect-metamask-to-ethereum-classic/15512/). למדריכים נוספים של Ethereum Classic, תיאוריה ומושגים של מטבעות קריפטוגרפיים, אנא עיין ב [etherplan.com](https://etherplan.com).
 contributors:
   - DonaldMcIntyre
 ---
 
-**⚠️ Update**  
-You can now easily add ETC to MetaMask by clicking "Connect-Wallet" on https://chainlist.org/chain/61
+**⚠️ עדכון**  
+עכשיו אתה יכול להוסיף בקלות ETC ל- MetaMask על ידי לחיצה על "התחבר-ארנק" ב-https://chainlist.org/chain/61
 
-You can also find this link at the bottom of every page on this website.
+אתה יכול גם למצוא קישור זה בתחתית כל עמוד באתר זה.
 
 ---
 
-[MetaMask](https://metamask.io) can be used as a wallet to manage your ETC and Tokens, as well as interact with applications that support it. This post explains how to start using MetaMask with the Ethereum Classic (ETC) network.
+[MetaMask](https://metamask.io) יכול לשמש כארנק לניהול ה-ETC והאסימונים שלך, כמו גם לקיים אינטראקציה עם יישומים התומכים בו. פוסט זה מסביר כיצד להתחיל להשתמש ב-MetaMask עם רשת Ethereum Classic (ETC).
 
-You may also consider [Nifty Wallet](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid?ucbcb=1), a fork of MetaMask that supports ETC out of the box.
+אתה יכול גם לשקול את [Nifty Wallet](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid?ucbcb=1), מזלג של MetaMask שתומך ב-ETC מחוץ לקופסה.
 
-## Step 1: Log Into MetaMask
+## שלב 1: היכנס ל- MetaMask
 
-The first step is to log in to unlock your MetaMask.
+הצעד הראשון הוא להתחבר כדי לבטל את נעילת ה- MetaMask שלך.
 
-![Step 1](./01.png)
+![שלב 1](./01.png)
 
-## Step 2: View Initial Screen
+## שלב 2: הצג מסך ראשוני
 
-You will see your normal initial screen. In this case the default network is Ethereum (ETH) and your account will be shown as usual. As you use other networks, they will show as the default when you unlock your MetaMask if they were the last ones used.
+אתה תראה את המסך הראשוני הרגיל שלך. במקרה זה רשת ברירת המחדל היא Ethereum (ETH) והחשבון שלך יוצג כרגיל. כאשר אתה משתמש ברשתות אחרות, הן יופיעו כברירת המחדל כאשר אתה פותח את הנעילה של MetaMask שלך אם הן היו האחרונות שבהן השתמשת.
 
-In my case, it shows Ethereum as the initial network, and I have a zero balance in my ETH account `0x48c1...EfF3`.
+במקרה שלי, הוא מציג את Ethereum כרשת הראשונית, ויש לי יתרה אפס בחשבון ETH שלי `0x48c1...EfF3`.
 
-![Step 2](./02.png)
+![שלב 2](./02.png)
 
-## Step 3: Open the Networks Dropdown Menu
+## שלב 3: פתח את התפריט הנפתח רשתות
 
-The next step is to open the networks dropdown menu. You can do this by clicking on the bar where you see the default network.
+השלב הבא הוא פתיחת התפריט הנפתח של הרשתות. אתה יכול לעשות זאת על ידי לחיצה על הסרגל שבו אתה רואה את רשת ברירת המחדל.
 
-As it may be seen above, the default list of networks is the Ethereum mainnet and its most popular testnets.
+כפי שניתן לראות לעיל, רשימת ברירת המחדל של רשתות היא ה-Ethereum mainnet ורשתות הבדיקה הפופולריות ביותר שלה.
 
-The “Local Host 8545” would be a connection to an Ethereum node if you were running one in your machine.
+"המארח המקומי 8545" יהיה חיבור לצומת Ethereum אם הפעלת אחד במחשב שלך.
 
-“Custom RPC” is the option to add custom networks, in this case ETC.
+"Custom RPC" היא האפשרות להוסיף רשתות מותאמות אישית, במקרה זה ETC.
 
-“RPC” stands for “remote procedure call”, which is the term for the protocol machines use for programs to call other programs in remote machines.
+"RPC" מייצג "קריאה לפרוצדורה מרוחקת", שזה המונח לפרוטוקול שמכונות משתמש בהן עבור תוכניות להתקשר לתוכניות אחרות במכונות מרוחקות.
 
-![Step 3](./03.png)
+![שלב 3](./03.png)
 
-## Step 4: Select Custom RPC
+## שלב 4: בחר RPC מותאם אישית
 
-So, the next step is to click on “Custom RPC”.
+אז, השלב הבא הוא ללחוץ על "RPC מותאם אישית".
 
-![Step 4](./04.png)
+![שלב 4](./04.png)
 
-## Step 5: View the New Network Form
+## שלב 5: הצג את טופס הרשת החדשה
 
-After selecting “Custom RPC” you will see the form to add a network. It has a security message at the top and five options with empty fields to enter the new network you want to use:
+לאחר בחירת " RPC מותאם אישית " תראה את הטופס להוספת רשת. יש לו הודעת אבטחה בחלק העליון וחמש אפשרויות עם שדות ריקים כדי להיכנס לרשת החדשה שבה ברצונך להשתמש:
 
-- Network Name: The name of the network you want to add.
-- New RPC URL: A URL for the network RPC you want to add.
-- Chain ID: The ID to send and direct transactions to the network you want to add.
-- Currency Symbol (optional): The currency symbol of the network you want to add. For example, “ETH” is the symbol for Ethereum, and “ETC” is the symbol for Ethereum Classic.
-- Block Explorer URL (optional): MetaMask has links to blockchain explorers per network to check account history, new transactions sent, and balances on them, so here you would add a block explorer for the network you want to add.
+- שם רשת: שם הרשת שברצונך להוסיף.
+- כתובת URL חדשה של RPC: כתובת URL עבור RPC הרשת שברצונך להוסיף.
+- מזהה שרשרת: המזהה לשליחת והפניית עסקאות לרשת שברצונך להוסיף.
+- סמל מטבע (אופציונלי): סמל המטבע של הרשת שברצונך להוסיף. לדוגמה, "ETH" הוא הסמל של Ethereum, ו-"ETC" הוא הסמל של Ethereum Classic.
+- URL של Block Explorer (אופציונלי): ל- MetaMask יש קישורים לחוקר בלוקצ'יין בכל רשת כדי לבדוק את היסטוריית החשבון, עסקאות חדשות שנשלחו ויתרות עליהן, אז כאן תוסיף סייר בלוק לרשת שברצונך להוסיף.
 
-![Step 5](./05.png)
+![שלב 5](./05.png)
 
-## Step 6: Enter the Ethereum Classic Network Information
+## שלב 6: הזן את פרטי הרשת של Ethereum Classic
 
-The next step, is to add Ethereum Classic’s specific information. Below is the network data I used:
+השלב הבא, הוא הוספת המידע הספציפי של Ethereum Classic. להלן נתוני הרשת שבהם השתמשתי:
 
-- Network Name: `Ethereum Classic`
-- New RPC URL: `https://etc.rivet.link`
-- Chain ID: `61`
-- Currency Symbol (optional): `ETC`
-- Block Explorer URL (optional): `https://blockscout.com/etc/mainnet/`
+- שם רשת: `Ethereum Classic`
+- כתובת URL חדשה ל-RPC: `https://etc.rivet.link`
+- מזהה שרשרת: `61`
+- סמל מטבע (אופציונלי): `וכו'`
+- כתובת האתר של Block Explorer (אופציונלי): `https://blockscout.com/etc/mainnet/`
 
-For the “RPC URL” I used the endpoint provided for this purpose by a firm called [Rivet](https://rivet.link/), contracted by the [ETC Cooperative](https://etccooperative.org) for this purpose. You can find more RPC Endpoints in the [network](/network/endpoints) section.
+עבור "כתובת ה-RPC" השתמשתי בנקודת הקצה שסופקה למטרה זו על ידי חברה בשם [Rivet](https://rivet.link/), שהתקשרה עם [ETC Cooperative](https://etccooperative.org) למטרה זו. תוכל למצוא עוד נקודות קצה RPC בסעיף [רשת](/network/endpoints).
 
-The “Chain ID” must be “61” because that is the specific ID of the Ethereum Classic network for sending ETC transactions by wallets and nodes to the operating blockchain.
+"מזהה השרשרת" חייב להיות "61" כי זהו המזהה הספציפי של רשת Ethereum Classic לשליחת עסקאות ETC על ידי ארנקים וצמתים לבלוקצ'יין הפועל.
 
-Although the “symbol” and “block explorer URL” are optional, I recommend using “ETC” as the symbol because that is the widely known market symbol of the network, and BlockScout as the blockchain explorer because that is the one I usually use (but you can add your preferred one!).
+למרות ש-"סמל" ו-"URL של סייר בלוק" הם אופציונליים, אני ממליץ להשתמש ב-"ETC" כסמל מכיוון שזהו סמל השוק הידוע של הרשת, וב-BlockScout בתור סייר הבלוקצ'יין כי זה הסמל שאני משתמש בו בדרך כלל ( אבל אתה יכול להוסיף את המועדף עליך!).
 
-Click “save” to add ETC to MetaMask.
+לחץ על "שמור" כדי להוסיף ETC ל- MetaMask.
 
-![Step 6](./06-rivet.png)
+![שלב 6](./06-rivet.png)
 
-## Step 7: View Ethereum Classic in the Networks Dropdown Menu
+## שלב 7: הצג את Ethereum Classic בתפריט הנפתח של רשתות
 
-Once ETC is added, you will see in the networks dropdown menu that it is added to the list of networks.
+לאחר הוספת ETC, תראה בתפריט הנפתח של הרשתות שהוא נוסף לרשימת הרשתות.
 
-![Step 7](./07.png)
+![שלב 7](./07.png)
 
-## Step 8: You May View Your Same Account but on ETC
+## שלב 8: אתה יכול לראות את אותו החשבון שלך אבל ב-ETC
 
-If you go to your account, you will notice that it is the same as your ETH account. In my case, it is the same `0x48c1...EfF3` account.
+אם תעבור לחשבון שלך, תבחין שהוא זהה לחשבון ה-ETH שלך. במקרה שלי, זה אותו חשבון `0x48c1...EfF3`.
 
-This is because both ETH and ETC use the same account format, so accounts on Ethereum may also be used in Ethereum Classic.
+הסיבה לכך היא שגם ETH וגם ETC משתמשים באותו פורמט חשבון, כך שניתן להשתמש בחשבונות ב-Ethereum גם ב-Ethereum Classic.
 
-In fact, you may remember that I had a zero balance in my ETH account, but now a balance of 1 ETC may be seen in the same account, but on Ethereum Classic. This is because I sent 1 ETC to this account in the Ethereum Classic network for this demonstration.
+למעשה, אתם אולי זוכרים שהייתה לי יתרה אפסית בחשבון ה-ETH שלי, אבל כעת ניתן לראות יתרה של 1 ETC באותו חשבון, אבל ב-Ethereum Classic. הסיבה לכך היא ששלחתי 1 ETC לחשבון זה ברשת Ethereum Classic עבור ההדגמה הזו.
 
-Note also that the ETC network is now the one showing in the networks bar, and the “ETC” symbol is now used to show the balance.
+שימו לב גם שרשת ה-ETC היא כעת זו שמופיעה בסרגל הרשתות, והסמל "ETC" משמש כעת להצגת היתרה.
 
-![Step 8](./08.png)
+![שלב 8](./08.png)
 
-## Step 9: You May Move Back to Ethereum With the Same Account
+## שלב 9: אתה יכול לחזור ל-Ethereum עם אותו חשבון
 
-So, as both networks use the same account format you may move back to the Ethereum mainnet and you will be able to see your ETH account with the same number again.
+לכן, מכיוון ששתי הרשתות משתמשות באותו פורמט חשבון, אתה עשוי לחזור ל-Ethereum mainnet ותוכל לראות שוב את חשבון ה-ETH שלך עם אותו מספר.
 
-![Step 9](./09.png)
+![שלב 9](./09.png)
 
-## Step 10: You May Move Back to Ethereum Classic With the Same Account
+## שלב 10: אתה יכול לחזור ל-Ethereum Classic עם אותו חשבון
 
-To use the ETC network, simply select Ethereum Classic again in the networks dropdown menu where you will see your ETC balances again.
+כדי להשתמש ברשת ETC, פשוט בחר שוב ב-Ethereum Classic בתפריט הנפתח של הרשתות שבו תראה שוב את יתרות ה-ETC שלך.
 
-![Step 10](./10.png)
+![שלב 10](./10.png)
 
 //
 
-I wish you success investing in and using ETC!
+אני מאחל לך הצלחה בהשקעה ושימוש ב-ETC!
 
 ---
 
-** Code is Law **
+**קוד זה חוק**
