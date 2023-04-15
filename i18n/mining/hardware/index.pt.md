@@ -1,35 +1,35 @@
 ---
-title: Mining Hardware Guide
+title: Guia de hardware de mineração
 contributors:
   - "IstoraMandiri"
   - "wpwrak"
 updated: 2022-02-22
 contribute: true
-seo: A short explanation of the Hardware Requirements for Mining Ethereum Classic, covering ETHash vs ETCHash, SHA3, GPUs, and ASICs.
+seo: Uma breve explicação dos requisitos de hardware para mineração Ethereum Classic, cobrindo ETHash vs ETCHash, SHA3, GPUs e ASICs.
 ---
 
-Mining Ethereum Classic is almost identical to mining Ethereum, and supports the same hardware and mining software. If you are a recently evicted Ethereum miner, Ethereum Classic loves its miners and welcomes you, and you can start mining ETC using your existing hardware by simply switching to a [mining pool](/mining/pools) that supports Ethereum Classic.
+A mineração Ethereum Classic é quase idêntica à mineração Ethereum e suporta o mesmo hardware e software de mineração. Se você é um minerador Ethereum recentemente despejado, o Ethereum Classic ama seus mineradores e lhe dá as boas-vindas, e você pode começar a minerar ETC usando seu hardware existente simplesmente mudando para um pool de mineração [](/mining/pools) que suporta Ethereum Classic.
 
 ## ETCHash
 
-The ETC Mining algorithm is almost identical to Ethereum's ETHash, with a small upgrade that made it more miner friendly. In late 2020, during the [Thanos upgrade](/blog/2020-11-27-thanos-hard-fork-upgrade), ETC implemented [ECIP-1099](https://ecips.ethereumclassic.org/ECIPs/ecip-1099), which tweaked the ETHash algorithm into what became known as ETCHash.
+O algoritmo ETC Mining é quase idêntico ao ETHash da Ethereum, com uma pequena atualização que o tornou mais amigável ao minerador. No final de 2020, durante a atualização [Thanos](/blog/2020-11-27-thanos-hard-fork-upgrade), a ETC implementou [ECIP-1099](https://ecips.ethereumclassic.org/ECIPs/ecip-1099), que ajustou o algoritmo ETHash no que ficou conhecido como ETCHash.
 
-Basically, in 2020, Ethereum's DAG exceeded 4 GB, meaning that many GPUs with 4 GB of memory would be unable to continue mining ETH. In response, Ethereum Classic tweaked it's algorithm to ensure that cards with 4 GB would be able to continue mining ETC until [approximately mid-2025](https://minerstat.com/dag-size-calculator).
+Basicamente, em 2020, o DAG da Ethereum ultrapassou 4 GB, o que significa que muitas GPUs com 4 GB de memória seriam incapazes de continuar minerando ETH. Em resposta, o Ethereum Classic ajustou seu algoritmo para garantir que cartões com 4 GB pudessem continuar minerando ETC até [aproximadamente em meados de 2025](https://minerstat.com/dag-size-calculator).
 
-## Hardware Requirements
+## Requisitos de Hardware
 
-There are two main types of hardware that can be used to profitably mine Ethereum Classic.
+Existem dois tipos principais de hardware que podem ser usados para extrair lucro do Ethereum Classic.
 
 ### GPUs
 
-Generally, the best graphics cards to mine Ethereum Classic are the most power efficient cards with at least 4 GB of memory. Before picking a GPU, look for reviews specifically about mining ETCHash. You can search online for the "Best GPUs for mining Ethereum Classic in [current year]" for suggestions, and visit [WhatToMine](https://whattomine.com/coins?e4g=true) for more info.
+Geralmente, as melhores placas gráficas para minerar Ethereum Classic são as placas mais eficientes em termos de energia com pelo menos 4 GB de memória. Antes de escolher uma GPU, procure comentários especificamente sobre a mineração ETCHash. Você pode pesquisar online pelas "Melhores GPUs para minerar Ethereum Classic em [ano atual]" para obter sugestões e visitar [WhatToMine](https://whattomine.com/coins?e4g=true) para obter mais informações.
 
-### ASICs
+### ASIC
 
-ASICs, or Application Specific Integrated Circuits, are specially manufactured chips that are designed, as the name suggests, to mine just one specific algorithm. Originally, due to the memory-intense requirements of the DAG, ETHash was fairly resistant to ASICs, but with time, like all profitable algorithms, there was a big incentive to build ASICs for ETHash, which did come to market.
+ASICs, ou Application Specific Integrated Circuits, são chips especialmente fabricados que são projetados, como o nome sugere, para minerar apenas um algoritmo específico. Originalmente, devido aos requisitos de memória intensa do DAG, o ETHash era bastante resistente a ASICs, mas com o tempo, como todos os algoritmos lucrativos, houve um grande incentivo para construir ASICs para ETHash, que chegou ao mercado.
 
-A range of ASIC miners Ethereum Classic are available and can be found by searching online for "ETHash ASIC Miners", and check the manufacturer's specification for whether it supports ETCHash.
+Uma variedade de mineradores ASIC Ethereum Classic está disponível e pode ser encontrada pesquisando online por "ETHash ASIC Miners" e verifique as especificações do fabricante para saber se ele suporta ETCHash.
 
-## Support
+## Apoiar
 
-For further help and guidance from other miners in the ETC community, you can reach out in the #mining channel on [Discord](https://ethereumclassic.org/discord).
+Para obter mais ajuda e orientação de outros mineradores da comunidade ETC, você pode entrar em contato no canal #mining em [Discord](https://ethereumclassic.org/discord).
