@@ -6,14 +6,14 @@ seo: Ein Überblick über reale und virtuelle Ereignisse im Zusammenhang mit Eth
 contributors:
   - IstoraMandiri
   - bobsummerwill
-  - TheCrowbill
+  - DerCrowbill
 ---
 
 Magie entsteht, wenn Menschen zusammenkommen und Ideen austauschen, und die Teilnehmer der ETC-Community haben sich spontan zu realen und Online-Treffen zusammengefunden, um ihre Aufmerksamkeit auf die Verbesserung von Ethereum Classic zu richten.
 
 ## Gemeinschaftsanrufe
 
-UPDATE:  Regular, weekly Community Calls are currently on hiatus.
+UPDATE: Regelmäßige, wöchentliche Community Calls werden derzeit unterbrochen.
 
 Jeden Donnerstag, in der Regel um UTC 1500, findet ein Gruppen-Voice-Chat auf dem Ethereum Classic [Discord](https://ethereumclassic.org/discord) Server statt. Der Aufruf wird auf [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos)gestreamt, aber Sie können auch eine Stunde vor der Live-Schaltung um 1400 UTC teilnehmen, um im Green Room inoffiziell zu chatten.
 
