@@ -11,8 +11,12 @@ import Disclaimer from "./disclaimer";
 import TwContainer from "./twContainer";
 import NoItems from "./noItems";
 import RssLink from "./rssLink";
+import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
 
 export default function News({ pageContext, data, i18n }) {
+  const {
+    ui: { tagNames },
+  } = useGlobals();
   return (
     <TwContainer grid>
       <main tw="col-span-full md:col-span-9 relative mt-5 md:mt-8">
@@ -23,7 +27,7 @@ export default function News({ pageContext, data, i18n }) {
             </h1>
             {pageContext.filter && (
               <h2 tw="font-display text-primary-dark leading-6 font-semibold tracking-wide text-lg">
-                {i18n.tagNames[pageContext.filter] || pageContext.filter}
+                {tagNames[pageContext.filter] || pageContext.filter}
               </h2>
             )}
           </div>

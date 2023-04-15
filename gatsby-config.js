@@ -22,12 +22,13 @@ module.exports = {
     // "gatsby-plugin-perf-budgets",
     // "gatsby-plugin-webpack-bundle-analyser-v2",
     "gatsby-plugin-netlify",
+    "gatsby-plugin-robots-txt",
     "gatsby-plugin-image",
     "gatsby-transformer-sharp",
     "gatsby-plugin-sharp",
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-emotion",
-    `gatsby-remark-images`,
+    "gatsby-remark-images",
     {
       resolve: `gatsby-plugin-env-variables`,
       options: {
@@ -56,10 +57,11 @@ module.exports = {
       resolve: "gatsby-plugin-algolia",
       options: require("./configs/search"),
     },
-    {
-      resolve: "gatsby-plugin-feed",
-      options: require("./configs/rss")({ locales, defaultLocale, siteUrl }),
-    },
+    // TODO enable after generating locales
+    // {
+    //   resolve: "gatsby-plugin-feed",
+    //   options: require("./configs/rss")({ locales, defaultLocale, siteUrl }),
+    // },
     {
       resolve: "gatsby-source-filesystem",
       options: {

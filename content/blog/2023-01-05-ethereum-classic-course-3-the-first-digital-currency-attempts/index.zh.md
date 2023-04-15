@@ -3,7 +3,7 @@ title: "以太坊经典课程: 3. 首次数字货币的尝试"
 date: 2023-01-05
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["Education", "Course"]
+tags: ["education", "series"]
 linkImage: ./banner.png
 ---
 

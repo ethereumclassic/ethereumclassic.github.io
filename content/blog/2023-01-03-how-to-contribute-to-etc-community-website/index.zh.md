@@ -3,7 +3,7 @@ title: "如何为ETC社区网站做贡献"
 date: 2023-01-03
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["tutorials", "education"]
+tags: ["guide", "education"]
 linkImage: ./1.png
 ---
 

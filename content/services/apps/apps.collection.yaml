@@ -1,5 +1,5 @@
 # DO NOT DELETE THIS COMMENT BLOCK
-# YOU CAN COPY AND PASE THE BLOCK BELOW AND UNCOMMENT/DELETE THE RELEVANT LINES TO ADD A NEW APP
+# YOU CAN COPY AND PASTE THE BLOCK BELOW AND UNCOMMENT/DELETE THE RELEVANT LINES TO ADD A NEW APP
 #
 # PLEASE ENSURE THAT SPACING IS CORRECT, ONE INDENTATION IS TWO SPACES. YAML MUST BE FORMATTED CORRECTLY.
 #
@@ -48,6 +48,81 @@
 ### END APP TEMPLATE
 #
 # ADD YOUR NEW APP HERE
+- title: Wrapped ETC
+  date: 2023-03-27
+  image: ./images/wrappedetc.png
+  author: HebeBlock
+  authorLink: https://hebeblock.com
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x82A618305706B14e7bcf2592D4B9324A366b6dAd/contracts
+  openSource: https://blockscout.com/etc/mainnet/address/0x82A618305706B14e7bcf2592D4B9324A366b6dAd/contracts
+  description: WETC is the wrapped version of ETC. Wrapped tokens, like WETC or Wrapped Bitcoin, are tokenized versions of cryptocurrencies that are pegged to the value of the original coin and can be unwrapped at any point.
+  type: interoperability
+  links:
+    - name: Wrapped ETC
+      link: https://blockscout.com/etc/mainnet/address/0x82A618305706B14e7bcf2592D4B9324A366b6dAd/read-contract
+      icon: link
+    - name: Website
+      link: https://hebeswap.com/wetc.html
+      icon: link
+    - name: Twitter
+      link: https://twitter.com/EtcHebeBlock
+      icon: twitter
+- title: TurbineSwap
+  date: 2023-03-03
+  image: https://i.ibb.co/923cbCs/Untitled-design-4.png
+  author: Rohit Kumar Gupta
+  authorLink: https://github.com/IamRohitKGupta
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x2800e69B8c5d6b7ACA3Da2A91D8917d2Edb549DB/contracts#address-tabs
+  description: Swap, provide LP, and grab your audience on the leading multi dapp protocol on Ethereum Classic. 
+  type: finance
+  links:
+    - name: Launch ETC DApp
+      link: https://etc.turbineswap.com/#/swap
+    - name: Homepage
+      link: https://turbineswap.com/
+      icon: home
+    - name: Documentation
+      link: https://turbineswap.gitbook.io/turbine-swap-docs/
+      icon: book
+    - name: Twitter
+      link: https://twitter.com/TurbineSwap
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/TurbineSwap
+      icon: telegram
+    - name: Discord
+      link: https://discord.com/invite/EES32tr2fG
+      icon: discord
+- title: ghostNFT
+  date: 2023-02-20
+  image: ./images/GHOST_Logo.png
+  author: GHOST
+  authorLink: https://ghostchain.io/
+  type: nfts
+  description: Empowering NFT collection creators and holders through cross-chain NFT collateralization
+  openSource: https://github.com/realGhostChain/ERC721Envious
+  testSuite: https://github.com/realGhostChain/ERC721Envious
+  links:
+    - name: Launch App
+      link: https://app.nft.ghostchain.io/#/classic
+    - name: Website
+      link: https://nft.ghostchain.io/
+      icon: home
+    - name: Documentation
+      link: https://docs.ghostchain.io/
+      icon: book
+    - name: Twitter
+      link: https://twitter.com/realGhostChain
+      icon: twitter
+    - name: Medium
+      link: https://ghostchain.medium.com/
+      icon: medium     
+    - name: Telegram
+      link: https://t.me/realGhostChain
+      icon: telegram      
+    - name: Github
+      link: https://github.com/realGhostChain/
+      icon: github  
 - title: Shiba Classic
   date: 2022-10-25
   type: other
@@ -431,7 +506,7 @@
     - name: Launch App
       link: https://nftlist.hebeswap.com/
     - name: Twitter
-      link: https://twitter.com/BlockHebe
+      link: https://twitter.com/EtcHebeBlock
       icon: twitter
     - name: Telegram
       link: https://t.me/hebeOffice
@@ -502,7 +577,7 @@
       link: https://hens.domains/
       icon: home
     - name: Twitter
-      link: https://twitter.com/BlockHebe
+      link: https://twitter.com/EtcHebeBlock
       icon: twitter
     - name: Telegram
       link: https://t.me/hebeOffice
@@ -522,7 +597,7 @@
     - name: Launch App
       link: https://easy.hebeswap.com/#/
     - name: Twitter
-      link: https://twitter.com/BlockHebe
+      link: https://twitter.com/EtcHebeBlock
       icon: twitter
     - name: Telegram
       link: https://t.me/hebeOffice
@@ -621,7 +696,7 @@
       link: https://block-hebe.gitbook.io/hebeblock/
       icon: book
     - name: Twitter
-      link: https://twitter.com/BlockHebe
+      link: https://twitter.com/EtcHebeBlock
       icon: twitter
     - name: Telegram
       link: https://t.me/hebeOffice

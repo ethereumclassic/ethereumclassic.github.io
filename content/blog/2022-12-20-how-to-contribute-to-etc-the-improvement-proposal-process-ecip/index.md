@@ -3,7 +3,7 @@ title: "How to Contribute to ETC: The Improvement Proposal Process (ECIP)"
 date: 2022-12-20
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["tutorial", "education"]
+tags: ["guide", "education", "series"]
 linkImage: ./ecip-process-banner.png
 ---
 

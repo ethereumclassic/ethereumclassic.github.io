@@ -15,6 +15,7 @@ __contributors:
   - IstoraMandiri
   - ProphetDaniel
   - pyskell
+  - TheCrowbill
   - TheEnthusiasticAs
   - ericfish
   - Jamyye
@@ -144,10 +145,6 @@ items:
       Coin Wallet:
         __link: https://coin.space/
         __name: Coin Wallet
-      Coinbase Wallet:
-        __link: https://wallet.coinbase.com/
-        __primary: 1
-        __name: Coinbase Wallet
       Coinomi:
         __link: https://www.coinomi.com/
         __name: Coinomi
@@ -160,6 +157,7 @@ items:
       Emerald Wallet:
         __link: https://emerald.cash/
         __name: Emerald Wallet
+        __primary: 1
       Ethos:
         __link: https://www.ethos.io/universal-wallet/
         __name: Ethos
@@ -170,8 +168,9 @@ items:
         __link: https://evercoin.com
         __name: Evercoin
       Exodus:
-        __link: https://www.exodus.io/
+        __link: https://www.exodus.com/
         __name: Exodus
+        __primary: 1
       Guarda:
         __link: https://guarda.com/
         __name: Guarda
@@ -208,6 +207,9 @@ items:
       Ownbit:
         __link: https://ownbit.io/
         __name: Ownbit
+      Plisio:
+        __link: https://plisio.net/personal
+        __name: Plisio Wallet
       TokenPocket:
         __link: https://tokenpocket.pro/
         __name: TokenPocket
