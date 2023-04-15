@@ -1,0 +1,17 @@
+title: 開發團隊
+seo: 以前或目前正在為以太坊經典做出貢獻的主要組織列表。
+description: |
+  Ethereum Classic 是一個去中心化的開發生態系統，這意味著沒有“官方”團隊或正式的層次結構。這個全球開發社區是一個無需許可的“do-ocracy”，任何人都可以參與其中。個人和團隊為自己選擇任務並執行它們。我們通過[以太坊經典改進提案 (ECIP)](https://ecips.ethereumclassic.org/) 流程共同建立[粗略共識](https://en.wikipedia.org/wiki/Rough_consensus)。
+
+  這是自 2015 年 7 月 30 日項目創世區塊以來為以太坊經典做出貢獻的傑出團隊的列表。以太坊經典生態系統感謝個人、志願者和團隊在所有協議級別的開發工作。
+items:
+  teams:
+    columnItems:
+      year:
+        name: 年
+      name:
+        name: 隊名
+      social:
+        name: 社會的
+      active:
+        name: 積極的
