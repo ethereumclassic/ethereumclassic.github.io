@@ -1,11 +1,11 @@
 ---
-title: 开发者
-seo: 为那些希望了解更多关于向Ethereum Classic贡献或部署应用程序的开发者提供的资源集合。
+title: Development
+seo: A collection of resources for developers who are looking to learn more about contributing or deploying applications to Ethereum Classic.
 updated: 2022-02-22
 ---
 
-本节包含一个资源清单，计划为Ethereum Classic做贡献或部署的开发者可能会发现它很有用。
+This section contains a list of resources that developers planning to contribute or deploy to Ethereum Classic may find useful.
 
-如果你刚刚开始在Ethereum Classic上进行开发，请查看 [开发指南](/guides/development) 部分。
+If you are just getting started with development on Ethereum Classic, check out the [development guides](/guides/development) section.
 
-如果你有在以太坊上开发的经验，你会高兴地发现，几乎所有用于以太坊的开发概念和工具都与以太坊经典兼容，所以当你部署到经典时，你的典型工作流程不太可能改变。
+If you have experience developing on Ethereum, you'll be pleased to find out that nearly all the development concepts and tools used with Ethereum are compatible with Ethereum Classic, so your typical workflow is unlikely to change when you deploy to Classic.
