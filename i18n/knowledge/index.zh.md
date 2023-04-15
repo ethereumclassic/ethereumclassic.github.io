@@ -1,14 +1,14 @@
 ---
-title: 知识库
+title: Knowledge Base
 updated: 2022-02-22
 disclaimer: opinion
-seo: 一个关于以太坊经典的历史、未来、哲学和经济学的信息枢纽，记录了以太坊去中心化版本的原因、方式和地点。
+seo: A hub of information about the History, Future, Philosophy and Economics of Ethereum Classic, documenting the why, how and where of the decentralized version of Ethereum.
 ---
 
-以太坊经典尽管没有中央组织委员会，但在不同的时间点上成功地吸引了许多种类的参与者，他们来来去去，都以自己的方式贡献和塑造了它。 ETC最大的优势在于它的理念和原则，即使没有数十亿美元的营销也能传播，因为它们的价值是不言而喻的，而且聪明的头脑会向它们倾斜。
+Ethereum Classic, despite having no central organizing committee, has managed to attract many kinds of participants at various points in time who have come and gone and all contributed and shaped it in their own way. ETC's greatest strength lies in its philosophy and principles, which can be spread even without billions of dollars of marketing because their value is self-evident, and bright minds gravitate toward them.
 
-在短期内，没有办法在传统上与10亿美元预算的VC支持的区块链竞争。 这些项目肯定会立即吸引人们的注意，但这种对集中式资金和指导的依赖是以长期的可持续性为代价的。
+There is no way to compete traditionally with a billion dollar budget VC-backed blockchain in the short term. Those projects are sure to attract immediate attention, but this reliance on centralized funding and direction comes at the price of long term sustainability.
 
-随着Ethereum Classic的良好口碑被传播，人们更深入地了解区块链的真正价值，ETC将不断实现 _原有的Ethereum Vision_ "构建不可阻挡的应用程序"，并将在没有中央预算的情况下，悄悄地、稳定地但不可避免地变得更加有用和有价值。
+As the good word of Ethereum Classic is spread, and people get deeper into understanding the true value of blockchains, ETC is going to keep delivering on the _Original Ethereum Vision_ of "Build Unstoppable Applications" and will become quietly, steadily but inevitably more useful and valuable, without a central budget in sight.
 
-本节包含了社区成员的一些贡献，它们为ETC的力量之源提供了情报和哲学军火，可以在赢得人心的战斗中部署。
+This section contains a selection of contributions from community members that feed into the source of ETC's strength, by providing intel and philosophical ordnance that can be deployed in the battle of winning hearts and minds.
