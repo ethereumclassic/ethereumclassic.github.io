@@ -1,74 +1,74 @@
 ---
-title: Future Classic
+title: קלאסי עתידי
 contribute: true
 contributors:
   - pyskell
   - IstoraMandiri
 updated: 2022-08-25
 disclaimer: opinion
-seo: An overview of the future development roadmap and how decisions are made in the Ethereum Classic ecosystem, based on its history, principles.
+seo: סקירה כללית של מפת הדרכים של הפיתוח העתידי וכיצד מתקבלות החלטות במערכת האקולוגית של Ethereum Classic, בהתבסס על ההיסטוריה והעקרונות שלה.
 ---
 
-Unlike many other blockchain projects, Ethereum Classic does not have a central organizing committee calling the shots, so what gets implemented in the protocol is determined through an organic, meritocratic, emergent system, rather than top-down. While this approach is not designed at first to yield explosive expansion, the trade-off is made for long term sustainability, and Ethereum Classic's persistence has put it in a strong position for its next stage of growth when network effects begin to snowball adoption.
+בניגוד להרבה פרויקטים אחרים של בלוקצ'יין, ל-Ethereum Classic אין ועדה מארגנת מרכזית שפועלת, כך שמה שייושם בפרוטוקול נקבע באמצעות מערכת אורגנית, מריטוקרטית, מתהווה, ולא מלמעלה למטה. למרות שגישה זו לא נועדה בהתחלה להניב התרחבות נפיצה, הפשרה נעשית לקיימות לטווח ארוך, וההתמדה של Ethereum Classic העמידה אותה בעמדה חזקה לקראת שלב הצמיחה הבא שלה כאשר השפעות הרשת מתחילות לאמץ כדור שלג.
 
-In this section, we will unpack this process, take a high level overview of the current state of ETC, and briefly cover some potential upgrades currently being discussed that may be on the horizon for ETC.
+בחלק זה, נפרק את התהליך הזה, ניקח סקירה ברמה גבוהה של המצב הנוכחי של ETC, ונכסה בקצרה כמה שדרוגים פוטנציאליים הנידונים כעת ועשויים להיות באופק עבור ETC.
 
-## Upgrade Process
+## תהליך השדרוג
 
-Ethereum Classic, like Bitcoin, does not have a roadmap in the traditional software development sense, but rather a process that allows good features to be implemented if and when they come along and are approved by the community.
+ל-Ethereum Classic, כמו לביטקוין, אין מפת דרכים במובן המסורתי של פיתוח תוכנה, אלא תהליך שמאפשר ליישם תכונות טובות אם וכאשר הן מגיעות ויאושרו על ידי הקהילה.
 
 ### ECIPs
 
-The [Ethereum Classic Improvement Proposal (ECIP) process](/development/ecips) is how upgrades to Ethereum Classic are discussed, and rigorously vetted by its developer community. This process is open, and anyone can contribute by drafting an ECIP that may one day be included in Ethereum Classic.
+תהליך [Ethereum Classic Improvement Proposal (ECIP)](/development/ecips) הוא האופן שבו שדרוגים ל-Ethereum Classic נידונים, ונבדקים בקפדנות על ידי קהילת המפתחים שלו. תהליך זה פתוח, וכל אחד יכול לתרום על ידי ניסוח ECIP שעשוי יום אחד להיכלל ב-Ethereum Classic.
 
-### Move Slowly & Don't Break Things
+### זז לאט & אל תשבור דברים
 
-Typically, implementing new features requires overwhelming support or, at least, no significant opposition from the Ethereum Classic community, making ETC, like BTC, fairly cautious in its technological development. With no central group biasing decisions about what upgrades are implemented, the threat of a chain split due to significant pushback means that Hard Forks on ETC tend to be safe, incremental and above all non-contentious.
+בדרך כלל, הטמעת תכונות חדשות דורשת תמיכה גורפת או, לפחות, ללא התנגדות משמעותית מצד קהילת Ethereum Classic, מה שהופך את ETC, כמו BTC, לזהיר למדי בפיתוח הטכנולוגי שלה. ללא החלטות מוטות קבוצתיות מרכזיות לגבי אילו שדרוגים מיושמים, האיום של פיצול שרשרת עקב דחיקה משמעותית פירושו שה-Hard Forks ב-ETC נוטים להיות בטוחים, מצטברים ומעל הכל ללא מחלוקת.
 
-Rather than a "move fast and break things" mentality, which can cause financial harm if things go wrong, significant updates are typically mulled, refined and tested over long periods before being implemented into the protocol so that consensus can be properly reached _before_ a fork.
+במקום מנטליות "לזוז מהר ולשבור דברים", שעלולה לגרום לנזק כספי אם דברים משתבשים, עדכונים משמעותיים בדרך כלל נבחנים, מעודנים ונבדקים על פני תקופות ארוכות לפני שהם מיושמים בפרוטוקול, כך שניתן להגיע לקונצנזוס כראוי _לפני_ מזלג.
 
-Additionally, care is taken to ensure that, as much as possible, contracts that were deployed as far back in 2015 can faithfully operate in perpetuity and that _Code is Law_ is maintained.
+בנוסף, מקפידים לוודא, עד כמה שניתן, חוזים שנפרסו כבר בשנת 2015 יוכלו לפעול בנאמנות לנצח וכי קוד _הוא חוק_ יישמר.
 
-This does not mean that ETC is unable to innovate opportunistically. One such example is the [Thanos fork](/knowledge/forks#thanos), which took advantage of Ethereum's increasing DAG size sweep up security by allowing an otherwise abandoned category of GPUs to mine ETC, which was an easy win-win upgrade for Ethereum Classic.
+זה לא אומר ש-ETC לא מסוגלת לחדש באופן אופורטוניסטי. דוגמה אחת כזו היא המזלג [Thanos](/knowledge/forks#thanos), שניצל את גודל ה-DAG ההולך וגובר של Ethereum לטאטא את האבטחה על ידי מתן אפשרות לקטגוריה נטושה אחרת של GPUs לכרות ETC, שהיה שדרוג קל לניצחון עבור Ethereum Classic.
 
-### Inherited Innovation
+### חדשנות בירושה
 
-Ethereum Classic maintains compatibility with Ethereum Virtual Machine, it inherits all the innovations that happen on other EVM chains, including contract systems, developer tooling, libraries and other general concepts funded by and developed primarily for these other chains.
+Ethereum Classic שומרת על תאימות עם Ethereum Virtual Machine, היא יורשת את כל החידושים שקורים ברשתות EVM אחרות, כולל מערכות חוזים, כלי מפתחים, ספריות ומושגים כלליים אחרים הממומנים על ידי ופותחו בעיקר עבור רשתות אחרות אלו.
 
-Optimistic Rollups, a promising Layer 2 technology that enhances scalability via off-chain transactions, is an excellent example of this. Thanks to the nature of Free Open Source Software, millions of dollars of research and development were spent by projects and teams that had no association with Ethereum Classic. This innovation, thanks to generalized EVM compatibility, has indirectly increased the utility and value of ETC.
+Optimistic Rollups, טכנולוגיית Layer 2 מבטיחה המשפרת את יכולת ההרחבה באמצעות עסקאות מחוץ לשרשרת, היא דוגמה מצוינת לכך. הודות לאופי תוכנת הקוד הפתוח החינמית, מיליוני דולרים של מחקר ופיתוח הוצאו על ידי פרויקטים וצוותים שלא היו להם קשר עם Ethereum Classic. חידוש זה, הודות לתאימות EVM כללית, העלה בעקיפין את התועלת והערך של ETC.
 
-### Ethereum as a Testnet
+### Ethereum כ-Testnet
 
-One advantage of this approach is that Ethereum Classic can stand by while watching other chains take on the risk of implementing new features. Only after they have shown to be safe and effective, good features can be implemented with minimal risk and development effort.
+יתרון אחד של גישה זו הוא ש-Ethereum Classic יכול לעמוד מנגד תוך כדי צפייה ברשתות אחרות לוקחות על עצמן את הסיכון ביישום תכונות חדשות. רק לאחר שהוכיחו שהם בטוחים ויעילים, ניתן ליישם תכונות טובות במינימום סיכון ומאמץ פיתוח.
 
-In this way, other EVM chains can be seen as incentivized testnets of Ethereum Classic, with much more rigorous testing than a traditional testnet could provide.
+בדרך זו, ניתן לראות ברשתות EVM אחרות כרשתות בדיקה מתומרות של Ethereum Classic, עם בדיקות קפדניות הרבה יותר ממה שרשת בדיקות מסורתית יכולה לספק.
 
-## Looking Ahead
+## להסתכל קדימה
 
-As of writing, 2022 has just arrived, and ETC is beginning the year experiencing a surge of activity. A litany of new [apps](/services/apps) and users have organically coalesced, and the ETC ecosystem is starting to show signs of network effects, which will snowball adoption as the network becomes more useful and valuable.
+נכון לכתיבת שורות אלו, 2022 בדיוק הגיעה, ו-ETC מתחילה את השנה חווה עלייה בפעילות. אוסף של [אפליקציות חדשות](/services/apps) ומשתמשים התלכדו באופן אורגני, והמערכת האקולוגית של ETC מתחילה להראות סימנים של השפעות רשת, מה שיגרום לאימוץ של כדור שלג ככל שהרשת תהיה שימושית ובעלת ערך יותר.
 
-Recent growth is partly thanks to a growing army of Ethereum Classic content creators and influencers who have been creating [videos](/videos) and memes, driving adoption through social media.
+הצמיחה האחרונה היא חלקית הודות לצבא הולך וגדל של יוצרי תוכן ומשפיענים מסוג Ethereum Classic שיצרו [סרטונים](/videos) וממים, מה שמניע את האימוץ דרך המדיה החברתית.
 
-### The Merge
+### המיזוג
 
-Ethereum™ mainnet chain, although experiencing some minor delays, is looking increasingly close to completing a migration away from Proof of Work to Proof of Stake, known as _The Merge_. For Ethereum Classic this will be an extremely relevant event, as it seems likely newly evicted GPU miners will be looking towards other chains to mine, and Ethereum Classic is an obvious choice.
+רשת Ethereum™ mainnet, למרות שחווה כמה עיכובים קלים, נראית קרובה יותר ויותר להשלמת מעבר מ-Proof of Work ל-Proof of Stake, המכונה _The Merge_. עבור Ethereum Classic זה יהיה אירוע רלוונטי ביותר, מכיוון שסביר להניח שכורי GPU שפונו לאחרונה יחפשו רשתות אחרות לכרות, ו- Ethereum Classic היא בחירה ברורה.
 
-The migration of miners from ETH to ETC will likely bring a new wave of interest to the Ethereum Classic ecosystem, increase the security of the network, and accelerate adoption and network value.
+ההגירה של כורים מ-ETH ל-ETC תביא ככל הנראה גל חדש של עניין למערכת האקולוגית של Ethereum Classic, תגביר את האבטחה של הרשת ותאיץ את האימוץ ואת ערך הרשת.
 
-Additionally, if there are any short term problems during or after "The Merge", perhaps due to unforeseen game theory problems or protocol exploits due to additional complexity, Ethereum Classic will be ready and waiting to provide a fallback chain that remains on the tried and true Ethereum protocol of today. In the long term, the move to Proof of Stake will likely result in further centralization of Ethereum™ mainnet, which makes it vulnerable to other kinds of social attacks, which again, ETC will remain immune to.
+בנוסף, אם יש בעיות כלשהן לטווח הקצר במהלך או אחרי "המיזוג", אולי בגלל בעיות בלתי צפויות בתורת המשחקים או ניצול פרוטוקול עקב מורכבות נוספת, Ethereum Classic יהיה מוכן ומחכה לספק שרשרת חוזרת שתישאר על ניסיון פרוטוקול Ethereum האמיתי של היום. בטווח הארוך, המעבר ל-Proof of Stake יגרום ככל הנראה לריכוזיות נוספת של Ethereum™ mainnet, מה שהופך אותו לפגיע לסוגים אחרים של התקפות חברתיות, ששוב, ETC יישאר חסין בפניהן.
 
-### EVM Versioning
+### גירסת EVM
 
-With Ethereum Classic aiming to maintain _Code is Law_ for many decades, if not centuries to come, a feature of major utility will be that of _versioning_ of deployed contracts. This provides several significant advantages to the long term operation and maintenance of Ethereum Classic, notably that it makes it far easier to maintain _Code is Law_ whilst still providing flexibility for upgrading contract execution in the future.
+כאשר Ethereum Classic שואף לשמור על קוד _הוא חוק_ במשך עשורים רבים, אם לא מאות שנים קדימה, תכונה של השירות העיקרי יהיה זה של _גרסאות_ של חוזים פרוסים. זה מספק מספר יתרונות משמעותיים לתפעול ולתחזוקה לטווח ארוך של Ethereum Classic, במיוחד שזה מקל בהרבה על השמירה על קוד _הוא חוק_ , תוך מתן גמישות לשדרוג ביצוע החוזה בעתיד.
 
-Rather than worrying about whether a protocol change, such as gas repricing, would break old contracts, versioning would mean deployed code is guaranteed to always run on a compatible version of the EVM based on the block number it was deployed to. In additional, future contracts could opt-in to functionality that would otherwise break old contracts, meaning Ethereum Classic can provide new technology like signature schemes, add or modify opcode behavior, etcetera, without affecting existing applications.
+במקום לדאוג אם שינוי בפרוטוקול, כגון תמחור גז, ישבור חוזים ישנים, ניהול גרסאות פירושו שהקוד שנפרס מובטח שפועל תמיד על גרסה תואמת של ה-EVM בהתבסס על מספר הבלוק אליו נפרס. בנוסף, חוזים עתידיים יכולים להצטרף לפונקציונליות שאחרת הייתה מפרה חוזים ישנים, כלומר Ethereum Classic יכול לספק טכנולוגיה חדשה כמו סכימות חתימה, להוסיף או לשנות התנהגות אופקוד וכו', מבלי להשפיע על יישומים קיימים.
 
-Even though they are running on a different version of the EVM, future contracts would still be able to communicate with old contracts over the same (or translated) API to maintain interoperability. There appears to be no apparent downside to versioning other than the additional complexity required to implement it.
+למרות שהם פועלים על גרסה אחרת של ה-EVM, חוזים עתידיים עדיין יוכלו לתקשר עם חוזים ישנים על אותו API (או מתורגם) כדי לשמור על יכולת פעולה הדדית. נראה שאין חסרון ברור לגירסאות מלבד המורכבות הנוספת הנדרשת כדי ליישם אותה.
 
-### Layer 2
+### שכבה 2
 
-It is becoming increasingly clear that the only reasonable ways to scale blockchains is in layers. With Bitcoin's Lightning Network spearheading this promising new domain, Ethereum is following in the form of State Channels, Optimistic Rollups, zk-Rollups, and other emergent technologies.
+מתברר יותר ויותר שהדרכים ההגיוניות היחידות להגדלת הבלוקצ'יין היא בשכבות. כשרשת Lightning של ביטקוין עומדת בראש התחום החדש והמבטיח הזה, Ethereum עוקבת אחריו בצורה של ערוצי מדינה, רשימות אופטימיות, zk-Rollups וטכנולוגיות מתפתחות אחרות.
 
-Layer 2 promises to provide adequate assurances of decentralization and trustlessness, with much greater transaction throughput by managing state off-chain and using the base chain for settling this state. In theory, there is no upper bound to the number of transactions per second in many Layer 2 systems, and can satisfy civilization-scale usage requirements.
+שכבה 2 מבטיחה לספק הבטחות נאותות של ביזור וחוסר אמון, עם תפוקת עסקה גדולה בהרבה על ידי ניהול המדינה מחוץ לשרשרת ושימוש בשרשרת הבסיס להסדרת מצב זה. בתיאוריה, אין גבול עליון למספר העסקאות בשנייה במערכות רבות של שכבה 2, והוא יכול לעמוד בדרישות השימוש בקנה מידה של ציוויליזציה.
 
-With Ethereum Classic's EVM and commitment to Proof of Work that will eventually dominate mining in ETCHash, it will be one of the few choices for a Sovereign Grade base layer that can support a full range of L2 solutions.
+עם ה-EVM של Ethereum Classic והמחויבות להוכחת עבודה שתשלוט בסופו של דבר בכרייה ב-ETCHash, זו תהיה אחת האפשרויות הבודדות עבור שכבת בסיס Sovereign Grade שיכולה לתמוך במגוון שלם של פתרונות L2.
