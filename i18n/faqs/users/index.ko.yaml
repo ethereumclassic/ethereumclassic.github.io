@@ -15,8 +15,6 @@ items:
           이더리움 클래식과 함께 MetaMask를 사용할 수도 있습니다.
       metmask:
         question: MetaMask와 함께 ETC를 어떻게 사용합니까?
-        answer: |
-          [CoinList.org](https://coinlist.org/en/chain/61) 웹사이트를 통해 이더리움 클래식을 MetaMask에 쉽게 추가할 수 있습니다. 사용자 정의 Ethereum Classic RPC 노드를 사용하도록 MetaMask를 수동으로 구성하려는 경우 [MetaMask](/guides/metamask) 가이드를 확인할 수 있습니다.
       missingEtc:
         question: MetaMask와 함께 하드웨어 지갑을 사용할 때 내 ETC를 볼 수 없는 이유는 무엇입니까?
         answer: |
