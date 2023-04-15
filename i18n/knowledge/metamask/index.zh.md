@@ -1,10 +1,10 @@
 ---
-title: 在ETC中使用MetaMask
+title: Using MetaMask with ETC
 date: 2021-03-02
 updated: 2022-07-05
 author: Donald McIntyre, Etherplan
-seo: 一个逐步的指南，涵盖了如何使用MetaMask与Ethereum Classic来发送ETC并与去中心化的应用程序互动。
-info: 这篇文章是[由Etherplan创建](https://etherplan.com/2021/03/02/how-to-connect-metamask-to-ethereum-classic/15512/)。 更多Ethereum Classic教程、理论和加密货币概念，请查看 [etherplan.com](https://etherplan.com)。
+seo: A step-by-step guide covering how to use MetaMask with Ethereum Classic to send ETC and interact with decentralized applications.
+info: This article was [created by Etherplan](https://etherplan.com/2021/03/02/how-to-connect-metamask-to-ethereum-classic/15512/). For more Ethereum Classic tutorials, theory, and cryptocurrency concepts, please check out [etherplan.com](https://etherplan.com).
 contributors:
   - DonaldMcIntyre
 ---
@@ -12,114 +12,114 @@ contributors:
 **⚠️ Update**  
 You can now easily add ETC to MetaMask by clicking "Connect-Wallet" on https://chainlist.org/chain/61
 
-你也可以在本网站每个页面的底部找到这个链接。
+You can also find this link at the bottom of every page on this website.
 
 ---
 
-[MetaMask](https://metamask.io) 可以作为一个钱包来管理你的 ETC 和代币，并与支持它的应用程序互动。 这篇文章解释了如何在 Ethereum Classic(ETC)网络中开始使用 MetaMask。
+[MetaMask](https://metamask.io) can be used as a wallet to manage your ETC and Tokens, as well as interact with applications that support it. This post explains how to start using MetaMask with the Ethereum Classic (ETC) network.
 
-你也可以考虑 [Nifty Wallet](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid?ucbcb=1)，这是 MetaMask 的分叉，支持 ETC 的开箱即用。
+You may also consider [Nifty Wallet](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid?ucbcb=1), a fork of MetaMask that supports ETC out of the box.
 
-## 1. 1. 登录到MetaMask
+## Step 1: Log Into MetaMask
 
-第一步是登录，解锁你的 MetaMask。
+The first step is to log in to unlock your MetaMask.
 
-![步骤1](./01.png)
+![Step 1](./01.png)
 
-## 2. 2. 查看初始屏幕
+## Step 2: View Initial Screen
 
-你会看到正常的初始屏幕。 在这种情况下，默认网络是以太坊(ETH)，你的账户将照常显示。 当你使用其他网络时，如果这些网络是最后使用的，当你解锁 MetaMask 时，它们将显示为默认网络。
+You will see your normal initial screen. In this case the default network is Ethereum (ETH) and your account will be shown as usual. As you use other networks, they will show as the default when you unlock your MetaMask if they were the last ones used.
 
-在我的案例中，它显示以太坊为初始网络，我的 ETH 账户中的余额为零 `0x48c1...EfF3`。
+In my case, it shows Ethereum as the initial network, and I have a zero balance in my ETH account `0x48c1...EfF3`.
 
-![第2步](./02.png)
+![Step 2](./02.png)
 
-## 3. 3. 打开网络下拉菜单
+## Step 3: Open the Networks Dropdown Menu
 
-下一步是打开网络下拉菜单。 你可以通过点击你看到默认网络的栏来实现。
+The next step is to open the networks dropdown menu. You can do this by clicking on the bar where you see the default network.
 
-正如上面所看到的，默认的网络列表是以太坊主网和其最流行的测试网。
+As it may be seen above, the default list of networks is the Ethereum mainnet and its most popular testnets.
 
-如果你在你的机器上运行一个以太坊节点，"本地主机 8545 "将是一个与以太坊节点的连接。
+The “Local Host 8545” would be a connection to an Ethereum node if you were running one in your machine.
 
-"自定义 RPC "是添加自定义网络的选项，在这里是 ETC。
+“Custom RPC” is the option to add custom networks, in this case ETC.
 
-"RPC "是 "远程过程调用 "的意思，它是机器用于调用远程机器中其他程序的协议的术语。
+“RPC” stands for “remote procedure call”, which is the term for the protocol machines use for programs to call other programs in remote machines.
 
-![第3步](./03.png)
+![Step 3](./03.png)
 
-## 4. 4. 选择自定义RPC
+## Step 4: Select Custom RPC
 
-因此，下一步是点击 "自定义 RPC"。
+So, the next step is to click on “Custom RPC”.
 
-![第四步](./04.png)
+![Step 4](./04.png)
 
-## 5. 5. 查看新网络表格
+## Step 5: View the New Network Form
 
-选择 "自定义 RPC "后，你会看到添加网络的表格。 它的顶部有一条安全信息，并有五个带有空栏的选项，可以输入你想使用的新网络。
+After selecting “Custom RPC” you will see the form to add a network. It has a security message at the top and five options with empty fields to enter the new network you want to use:
 
-- 你想添加的网络的名称。
-- 新的RPC URL。 你想添加的网络RPC的URL。
-- 链ID：用于发送和引导交易到你想添加的网络的ID。
-- 货币符号(可选)。 你想添加的网络的货币符号。 例如，"ETH "是以太坊的符号，而 "ETC "是以太坊经典的符号。
-- 区块链浏览器的URL(可选)。 MetaMask在每个网络上都有区块链探索器的链接，以检查账户历史、发送的新交易以及其上的余额，所以这里你要为你想添加的网络添加一个区块探索器。
+- Network Name: The name of the network you want to add.
+- New RPC URL: A URL for the network RPC you want to add.
+- Chain ID: The ID to send and direct transactions to the network you want to add.
+- Currency Symbol (optional): The currency symbol of the network you want to add. For example, “ETH” is the symbol for Ethereum, and “ETC” is the symbol for Ethereum Classic.
+- Block Explorer URL (optional): MetaMask has links to blockchain explorers per network to check account history, new transactions sent, and balances on them, so here you would add a block explorer for the network you want to add.
 
-![第5步](./05.png)
+![Step 5](./05.png)
 
-## 6. 6. 输入Ethereum Classic网络信息
+## Step 6: Enter the Ethereum Classic Network Information
 
-下一步，是添加 Ethereum Classic 的具体信息。 以下是我使用的网络数据。
+The next step, is to add Ethereum Classic’s specific information. Below is the network data I used:
 
-- 网络名称。 `Ethereum Classic`
-- 新的 RPC URL: `https://etc.rivet.link`
-- 链条编号: `61`
-- 货币符号(可选)。 `ETC`
-- 封锁浏览器的 URL(可选)： `https://blockscout.com/etc/mainnet/`
+- Network Name: `Ethereum Classic`
+- New RPC URL: `https://etc.rivet.link`
+- Chain ID: `61`
+- Currency Symbol (optional): `ETC`
+- Block Explorer URL (optional): `https://blockscout.com/etc/mainnet/`
 
-对于“RPC URL”，我使用了一家名为 [Rivet](https://rivet.link/)的公司为此目的提供的端点，该公司为此与 [ETC Cooperative](https://etccooperative.org) 签约。 你可以在 [网络](/network/endpoints) 部分找到更多的 RPC 端点。
+For the “RPC URL” I used the endpoint provided for this purpose by a firm called [Rivet](https://rivet.link/), contracted by the [ETC Cooperative](https://etccooperative.org) for this purpose. You can find more RPC Endpoints in the [network](/network/endpoints) section.
 
-链 ID "必须是 "61"，因为这是 Ethereum Classic 网络的特定 ID，用于由钱包和节点发送 ETC 交易到运营区块链。
+The “Chain ID” must be “61” because that is the specific ID of the Ethereum Classic network for sending ETC transactions by wallets and nodes to the operating blockchain.
 
-虽然 "符号 "和 "区块探索器 URL "是可选的，但我建议使用 "ETC "作为符号，因为这是广为人知的网络市场符号，使用 BlockScout 作为区块链探索器，因为这是我通常使用的(但你可以添加你的首选！
+Although the “symbol” and “block explorer URL” are optional, I recommend using “ETC” as the symbol because that is the widely known market symbol of the network, and BlockScout as the blockchain explorer because that is the one I usually use (but you can add your preferred one!).
 
-点击 "保存"，将 ETC 添加到 MetaMask。
+Click “save” to add ETC to MetaMask.
 
-![第6步](./06-rivet.png)
+![Step 6](./06-rivet.png)
 
-## 7. 7. 在网络下拉菜单中查看Ethereum Classic
+## Step 7: View Ethereum Classic in the Networks Dropdown Menu
 
-一旦 ETC 被添加，你会在网络下拉菜单中看到它被添加到网络列表中。
+Once ETC is added, you will see in the networks dropdown menu that it is added to the list of networks.
 
-![第七步](./07.png)
+![Step 7](./07.png)
 
-## 8. 8. 你可以在ETC上查看你的同一个账户
+## Step 8: You May View Your Same Account but on ETC
 
-如果你去看你的账户，你会发现它和你的 ETH 账户是一样的。 在我的案例中，是同一个 `0x48c1...EfF3` 账户。
+If you go to your account, you will notice that it is the same as your ETH account. In my case, it is the same `0x48c1...EfF3` account.
 
-这是因为 ETH 和 ETC 都使用相同的账户格式，所以以太坊上的账户也可能用于以太坊经典。
+This is because both ETH and ETC use the same account format, so accounts on Ethereum may also be used in Ethereum Classic.
 
-事实上，你可能记得，我的 ETH 账户中的余额为零，但现在在同一个账户中可能会看到 1 个 ETC 的余额，但在 Ethereum Classic 上。 这是因为我为这个演示向以太坊经典网络中的这个账户发送了 1 个 ETC。
+In fact, you may remember that I had a zero balance in my ETH account, but now a balance of 1 ETC may be seen in the same account, but on Ethereum Classic. This is because I sent 1 ETC to this account in the Ethereum Classic network for this demonstration.
 
-还要注意的是，ETC 网络现在是显示在网络栏中的网络，而且现在用 "ETC "符号来显示余额。
+Note also that the ETC network is now the one showing in the networks bar, and the “ETC” symbol is now used to show the balance.
 
-![第8步](./08.png)
+![Step 8](./08.png)
 
-## 第9步：你可以用同一个账户移回以太坊
+## Step 9: You May Move Back to Ethereum With the Same Account
 
-因此，由于两个网络都使用相同的账户格式，你可以移回以太坊主网，你将能够再次看到你的 ETH 账户的号码。
+So, as both networks use the same account format you may move back to the Ethereum mainnet and you will be able to see your ETH account with the same number again.
 
-![第9步](./09.png)
+![Step 9](./09.png)
 
-## 第十步。 你可以用同一个账户移回Ethereum Classic
+## Step 10: You May Move Back to Ethereum Classic With the Same Account
 
-要使用 ETC 网络，只需在网络下拉菜单中再次选择 Ethereum Classic，你将再次看到你的 ETC 余额。
+To use the ETC network, simply select Ethereum Classic again in the networks dropdown menu where you will see your ETC balances again.
 
-![第十步](./10.png)
+![Step 10](./10.png)
 
 //
 
-我祝愿你在投资和使用 ETC 方面取得成功!
+I wish you success investing in and using ETC!
 
 ---
 
-**守则是法律 **
+** Code is Law **
