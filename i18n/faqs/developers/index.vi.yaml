@@ -26,17 +26,21 @@ items:
       deployment:
         question: Làm cách nào để triển khai chuỗi khối Ethereum Classic?
         answer: |
-          Đầu tiên, hãy mua một số ETC để trả tiền gas để triển khai hợp đồng của bạn, sau đó chỉ cần đảm bảo bạn triển khai tới mạng Ethereum Classic (Chain ID 61), thay vì mạng Ethereum (Chain ID 1).
+          Trước tiên, hãy mua một số ETC để trả phí gas triển khai hợp đồng của bạn, sau đó chỉ cần đảm bảo bạn triển khai vào mạng Ethereum Classic (Chain ID 61), thay vì mạng Ethereum (Chain ID 1).
       rpc:
         question: Có điểm cuối RPC công khai nào mà tôi có thể sử dụng để triển khai tới ETC không?
         answer: |
-          Đúng. Nếu bạn không muốn đồng bộ hóa, hãy chạy nút Ethereum Classic của riêng mình, có một số điểm cuối công khai có sẵn miễn phí để sử dụng.
+          Đúng. Nếu bạn không muốn chạy, đồng bộ hóa và duy trì nút Ethereum Classic của riêng mình, thì có một số điểm cuối công khai miễn phí sử dụng.
 
-          Kiểm tra phần [RPC Endpoints] (/ network / endpoints), cũng như [ChainList.org](https://chainlist.org/chain/61).
+          Hãy xem phần [RPC Endpoints](/network/endpoints), cũng như [ChainList.org](https://chainlist.org/chain/61).
       grants:
         question: Tôi có thể nhận được tài trợ để xây dựng trên Ethereum Classic không?
         answer: |
-          Vì Ethereum Classic không có kho bạc tập trung, tất cả sự phát triển nhất thiết phải tự tài trợ hoặc thông qua tài trợ của bên thứ ba. Trong quá khứ, nhiều bên thứ ba đã điều hành các chương trình tài trợ và [ETC HTX] (https://etccooperative.org/) đã thông báo rằng họ sẽ sớm khởi chạy một chương trình tài trợ mới.
+          Đúng. Có một số chương trình trong quá khứ và hiện tại để khuyến khích phát triển trên ETC.
+
+          Một ví dụ gần đây là [ETC Grants DAO](https://etcgrantsdao.io), đã khởi chạy chương trình tài trợ ETC vào năm 2023.
+
+          Vì Ethereum Classic không có quỹ tập trung nên tất cả các khoản đóng góp cho dự án đều được tài trợ từ bên ngoài. Điều này bao gồm những người đóng góp đóng góp thời gian của họ và các ưu đãi tài chính từ nguồn tài trợ của bên thứ ba.
       ecips:
         question: Làm cách nào để giúp tôi phát triển giao thức Ethereum Classic?
         answer: |

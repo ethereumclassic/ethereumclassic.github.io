@@ -1,0 +1,20 @@
+title: Git Repositories
+description: אוסף של מאגרי קוד פתוח שונים עבור מפתחי Ethereum Classic.
+items:
+  repos:
+    items:
+      EthereumClassic:
+        name: ארגון Github הראשי
+        description: ארגון Github הראשי של Ethereum Classic, המכיל מספר מאגרים, מבחר מהם נדגיש להלן...
+      eth-classic:
+        name: ארגון Github אלטרנטיבי
+        description: קהילה אחרת ניהלה ארגון Github הכולל תצורות testnet, ETCHash, Besu וכו'.
+      etcLabs:
+        name: ETC Labs
+        description: ארגון המכיל מאגרי Ethereum Classic רבים שנשמרו בעבר על ידי ETC Labs, כולל core-geth.
+      website:
+        name: אתר ETC
+        description: קוד המקור של אתר זה, כולל הוראות כיצד לתרום.
+      awesomeEtc:
+        name: מדהים וכו'
+        description: רשימה מדהימה של משאבים עבור פרויקט Ethereum Classic (ETC).

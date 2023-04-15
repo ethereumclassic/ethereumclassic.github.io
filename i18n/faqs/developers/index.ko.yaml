@@ -26,17 +26,21 @@ items:
       deployment:
         question: Ethereum Classic 블록체인에 어떻게 배포합니까?
         answer: |
-          먼저 ETC를 획득하여 계약을 배포하는 가스 비용을 지불한 다음 이더리움 네트워크(체인 ID 1)가 아닌 이더리움 클래식 네트워크(체인 ID 61)에 배포하도록 하십시오.
+          먼저 일부 ETC를 획득하여 계약을 배포하기 위한 가스 비용을 지불한 다음 Ethereum 네트워크(Chain ID 1)가 아닌 Ethereum Classic 네트워크(Chain ID 61)에 배포해야 합니다.
       rpc:
         question: ETC에 배포하는 데 사용할 수 있는 공용 RPC 끝점이 있습니까?
         answer: |
-          예. 자체 Ethereum Classic 노드를 동기화하지 않으려면 무료로 사용할 수 있는 여러 공용 끝점이 있습니다.
+          예. 자신의 Ethereum Classic 노드를 실행, 동기화 및 유지 관리하고 싶지 않다면 무료로 사용할 수 있는 여러 퍼블릭 엔드포인트가 있습니다.
 
           [RPC Endpoints](/network/endpoints) 섹션과 [ChainList.org](https://chainlist.org/chain/61)을 확인하십시오.
       grants:
         question: Ethereum Classic을 구축하기 위한 자금을 받을 수 있습니까?
         answer: |
-          Ethereum Classic에는 중앙 집중식 재무가 없기 때문에 모든 개발은 필연적으로 자체 자금 또는 제3자 자금 지원을 통해 이루어집니다. 과거에는 다양한 제3자가 보조금 프로그램을 운영했으며 [ETC Cooperative](https://etccooperative.org/)에서는 곧 새로운 보조금 프로그램을 시작할 것이라고 발표했습니다.
+          예. ETC 개발을 장려하기 위한 과거 및 현재 프로그램이 많이 있습니다.
+
+          최근의 예로는 2023년에 ETC 보조금 프로그램을 시작한 [ETC Grants DAO](https://etcgrantsdao.io)가 있습니다.
+
+          Ethereum Classic에는 중앙 집중식 자금이 없기 때문에 프로젝트에 대한 모든 기부금은 외부에서 자금을 조달합니다. 여기에는 시간을 기부하는 기여자와 제3자 자금을 통한 금전적 인센티브가 포함됩니다.
       ecips:
         question: Ethereum Classic 프로토콜의 개발을 어떻게 도울 수 있습니까?
         answer: |

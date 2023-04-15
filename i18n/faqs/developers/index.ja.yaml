@@ -26,17 +26,21 @@ items:
       deployment:
         question: Ethereum Classicブロックチェーンにデプロイするにはどうすればよいですか？
         answer: |
-          まず、コントラクトを展開するためのガス代としてETCを入手し、イーサリアムネットワーク(チェーンID1)ではなく、イーサリアムクラシックネットワーク(チェーンID61)に展開することを確認するだけでよいでしょう。
+          まず、コントラクトをデプロイするためのガス代を支払う ETC を取得します。次に、イーサリアム ネットワーク (チェーン ID 1) ではなく、イーサリアム クラシック ネットワーク (チェーン ID 61) にデプロイすることを確認します。
       rpc:
         question: ETCにデプロイするために使用できるパブリックRPCエンドポイントはありますか？
         answer: |
-          はい。独自のEthereum Classicノードを同期して実行したくない場合は、無料で使用できるパブリックエンドポイントが多数あります。
+          はい。独自の Ethereum Classic ノードを実行、同期、および維持したくない場合は、無料で使用できるパブリック エンドポイントが多数あります。
 
-          RPC Endpoints](/network/endpoints) セクションや、 [ChainList.org](https://chainlist.org/chain/61) をチェックしてみてください。
+          [RPC エンドポイント](/network/endpoints) セクションと [ChainList.org](https://chainlist.org/chain/61) を確認してください。
       grants:
         question: イーサリアムクラシックで構築するための資金調達は可能ですか？
         answer: |
-          イーサリアムクラシックには中央集権的な国庫がないため、すべての開発は必然的に自己資金かサードパーティによる資金調達になります。過去には様々な第三者が助成金プログラムを運営しており、[ETC Cooperative](https://etccooperative.org/)は近々新しい助成金プログラムを立ち上げると発表しています。
+          はい。 ETC の開発を奨励する過去および現在のプログラムが多数あります。
+
+          最近の例は、
+
+          年に ETC 助成金プログラムを開始した [ETC Grants DAO](https://etcgrantsdao.io) です。これには、寄稿者が時間を寄付したり、第三者の資金提供による金銭的インセンティブが含まれます。
       ecips:
         question: Ethereum Classicプロトコルの開発にはどのように協力すればよいですか？
         answer: |

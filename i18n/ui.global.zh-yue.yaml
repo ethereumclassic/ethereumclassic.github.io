@@ -1,0 +1,131 @@
+title: 以太經典
+seo: "一個運行智能合約的去中心化計算平台：應用程序完全按照編程運行，沒有停機、審查或第三方乾擾"
+#Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
+metaLocale: zh_hk
+#Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
+htmlLang: zh-Hant
+published: 發表
+updated: 最近更新時間
+author: 作者
+timeline:
+  chronological: 按時間順序
+  reversed: 反轉
+disclaimers:
+  verify:
+    title: 不要信任，驗證。
+    text: 外部鏈接是非官方的社區提交。
+  opinion:
+    title: 自以為是的內容
+    text: 此頁面不一定反映所有 ETC 利益相關者的觀點。
+next: 繼續閱讀
+prev: 上一篇
+contribute: 如果您想通過向此頁面添加或更正信息來做出貢獻，請在 [Discord](https://discord.com/invite/dwxb6nf) 上留言或在 [GitHub](https://github.com/ethereumclassic) 上創建問題/ethereumclassic.github.io)
+contributors: "此頁面的存在部分歸功於以下貢獻者："
+allLanguages: 所有語言
+noResults: 沒有結果
+netlify: 本網站由 Netlify 提供支持
+crowdin: 使用 Crowdin 進行本地化
+metaMask: 將 ETC 添加到 MetaMask
+helpTranslate: 通過幫助翻譯這個網站來支持ETC！
+noItems: 抱歉，此頁為空！
+search:
+  box: 搜索
+  noResults: 沒有結果...
+  poweredBy: 由 Algolia 提供支持
+  generalInfo: 一般信息
+  blogArticles: 博客文章
+  videos: 影片
+  applications: 應用
+  newsLinks: 新聞鏈接
+  txSearch: 看起來您輸入了以太坊經典地址或交易。
+  blockScout: "搜索 Blockscout 瀏覽器："
+  explorers: ...或查看其他一些 [區塊鏈瀏覽器](/network/explorers)。
+qa:
+  show: 顯示所有答案
+  hide: 隱藏所有答案
+##
+## Announcement Banner
+announcement:
+  text: |
+    這個網站現在通過機器學習被翻譯成多種語言。單擊頁面右上角的標誌以更改語言。如果您想幫助更正翻譯，請聯繫我們！
+  button:
+    text: "幫助翻譯"
+## Footer
+signOff: 用 `<3` 為最初的以太坊願景製作
+socialHilight: ETC 社區在 Discord 上很活躍
+socialItems:
+  discord:
+    name: 不和諧
+  discordCoop:
+    name: ETC Coop 不和諧
+  twitterEthclassic:
+    name: eth_classic 推特
+  twitterEtcnetwork:
+    name: ETC_網絡推特
+  githubOrg:
+    name: Github
+  githubLabs:
+    name: ETC 實驗室 Github
+  reddit:
+    name: 紅迪網
+appTypes:
+  finance:
+    name: 金融
+  games:
+    name: 遊戲
+  identity:
+    name: 身份
+  interoperability:
+    name: 互操作性
+  nfts:
+    name: NFTs
+  other:
+    name: 其他
+appLinks:
+  homepage: 主頁
+  app: 應用網站
+  twitter: 推特
+  github: Github
+newsTypes:
+  news:
+    name: 關聯
+  blog:
+    name: 博客
+  application:
+    name: 應用程序
+    prefix: "應用程序"
+  video:
+    name: 視頻
+    prefix: "視頻"
+## App Modal
+appModal:
+  verifiedContract: 合同
+  openSource: 開源
+  audit: 審核
+  testSuite: 測試套件
+  ipfsFrontend: IPFS前端
+  checkListRating: 去信任清單級別
+  warning: "**警告：**此用戶提交的應用程序未經審查且不保證安全；使用風險自負，並始終進行自己的研究！"
+  added: 添加
+## Tags
+tags: 標籤
+tagNames:
+  blog: 等博客
+  announcement: 公告
+  application: 應用
+  development: 發展
+  education: 教育
+  event: 事件
+  exchange: 交易所
+  guide: 導遊
+  hardfork: 硬分叉
+  media: 媒體
+  mining: 礦業
+  podcast: 播客
+  teams: 團隊
+  trading: 貿易
+  wallet: 錢包
+  video: 影片
+  news: 外部鏈接
+  philosophy: 哲學
+  series: 系列

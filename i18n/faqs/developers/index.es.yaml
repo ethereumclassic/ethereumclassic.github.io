@@ -26,17 +26,21 @@ items:
       deployment:
         question: "¿Cómo se despliega en la blockchain de Ethereum Classic?"
         answer: |
-          En primer lugar, adquiere algunos ETC para pagar el gas para desplegar tu contrato, luego simplemente asegúrate de desplegarlo en la red de Ethereum Classic (Chain ID 61), en lugar de la red de Ethereum (Chain ID 1).
+          Primero, adquiera algo de ETC para pagar el gas para implementar su contrato, luego simplemente asegúrese de implementarlo en la red Ethereum Classic (ID de cadena 61), en lugar de la red Ethereum (ID de cadena 1).
       rpc:
         question: "¿Existen puntos finales RPC públicos que pueda utilizar para desplegar en ETC?"
         answer: |
-          Sí. Si no quieres sincronizar tu propio nodo de Ethereum Classic, hay una serie de endpoints públicos disponibles que son de uso gratuito.
+          Sí. Si no desea ejecutar, sincronizar y mantener su propio nodo Ethereum Classic, hay varios puntos finales públicos disponibles que son de uso gratuito.
 
-          Consulta la sección [RPC Endpoints](/network/endpoints), así como [ChainList.org](https://chainlist.org/chain/61).
+          Consulte la sección [RPC Endpoints](/network/endpoints), así como [ChainList.org](https://chainlist.org/chain/61).
       grants:
         question: "¿Puedo obtener financiación para construir en Ethereum Classic?"
         answer: |
-          Como Ethereum Classic no tiene una tesorería centralizada, todo el desarrollo se financia necesariamente por sí mismo o a través de la financiación de terceros. En el pasado, varias terceras partes gestionaron programas de subvenciones, y [ETC Cooperative](https://etccooperative.org/) ha anunciado que lanzará un nuevo programa de subvenciones en breve.
+          Sí. Hay una serie de programas pasados y presentes para fomentar el desarrollo de ETC.
+
+          Un ejemplo reciente es [ETC Grants DAO](https://etcgrantsdao.io), que lanzó un programa de subvenciones ETC en 2023.
+
+          Dado que Ethereum Classic no tiene una tesorería centralizada, todas las contribuciones al proyecto se financian externamente. Esto incluye colaboradores que donan su tiempo e incentivos financieros de fondos de terceros.
       ecips:
         question: "¿Cómo puedo ayudar al desarrollo del protocolo Ethereum Classic?"
         answer: |

@@ -10,7 +10,7 @@ contributors:
 ---
 
 **⚠️ Update**  
-Sie können ETC jetzt einfach zu MetaMask hinzufügen, indem Sie auf https://chainlist.org/chain/61 auf "Connect-Wallet" klicken.
+Sie können ETC jetzt ganz einfach zu MetaMask hinzufügen, indem Sie auf „Connect-Wallet“ auf https://chainlist.org/chain/61 klicken
 
 Sie finden diesen Link auch am Ende jeder Seite dieser Website.
 

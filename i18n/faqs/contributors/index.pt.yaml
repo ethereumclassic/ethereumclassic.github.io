@@ -1,0 +1,43 @@
+title: Perguntas frequentes do colaborador
+seo: Perguntas frequentes para quem deseja ingressar na comunidade ETC e contribuir com o Ethereum Classic.
+info: Não consegue encontrar uma resposta para sua pergunta aqui? Tente perguntar no servidor ETC community [discord](https://ethereumclassic.org/discord).
+description: Se você gostaria de saber como se envolver na comunidade Ethereum Classic, você está no lugar certo.
+items:
+  questions:
+    items:
+      developer:
+        question: Preciso ser um desenvolvedor para contribuir com o Ethereum Classic?
+        answer: De jeito nenhum. Embora os desenvolvedores forneçam valor crítico na construção de infraestrutura, um papel indiscutivelmente mais importante é desempenhado pelos não desenvolvedores. Quaisquer que sejam seus talentos, você pode ajudar de outras maneiras, como coordenar e ajudar a divulgar o Ethereum Classic e, por sua vez, recrutar mais desenvolvedores e outros recrutadores.
+      channels:
+        question: Como posso participar da comunidade ETC?
+        answer: Você não precisa pedir permissão para entrar. Basta começar a contribuir!
+      tasks:
+        question: Em quais tarefas posso ajudar?
+        answer: Uma lista de coisas com as quais o projeto poderia usar sua ajuda é mantida no [repositório Ethereum Classic Volunteer GitHub](https://github.com/ethereumclassic/volunteer).
+      where:
+        question: Onde os apoiadores do Ethereum Classic costumam ficar?
+        answer: A comunidade ETC de língua inglesa é mais ativa em [Discord](https://ethereumclassic.org/discord). Você pode encontrar outros fóruns da comunidade, incluindo aqueles em outros idiomas, na seção [Canais sociais](/community/channels).
+      ecips:
+        question: Como posso sugerir melhorias para o Ethereum Classic?
+        answer: Para sugerir atualizações de protocolo, você pode usar o processo [Ethereum Classic Improvement Proposal](/development/ecips), mas vale a pena fazer um brainstorming com outros membros da comunidade em um dos ETC [Social Channels](/community/channels) primeiro.
+      toxicity:
+        question: Ouvi dizer que a comunidade ETC é tóxica. Isso é verdade?
+        answer: |
+          Como ninguém precisa de permissão para fazer parte da comunidade ETC, ela atrai todos os tipos de personagens, desde extremamente simpáticos até, às vezes, um pouco mais desagradáveis. Além disso, muitos ETCers e participantes no espaço mais amplo de criptomoedas são pseudoanônimos, portanto, têm menos filtros. Não tome a atitude de uma pessoa como representante de toda a comunidade e, por favor, não deixe que isso o impeça de contribuir.
+
+          Se você preferir uma conversa mais moderada, experimente o [ETC Coop Discord](https://discord.gg/5wDyd6u6pU), que impõe regras mais rígidas sobre polidez na comunicação.
+      events:
+        question: Existem eventos Ethereum Classic?
+        answer: Sim, são realizadas conferências anuais, chamadas semanais para a comunidade e chamadas irregulares para desenvolvedores. Você pode descobrir mais sobre eventos presentes, passados e futuros na seção [events](/community/events).
+      website:
+        question: Como posso adicionar meu aplicativo, vídeo ou artigo a este site?
+        answer: Confira o [repositório GitHub] deste site (https://github.com/ethereumclassic/ethereumclassic.github.io) para obter instruções.
+      tweets:
+        question: Como posso sugerir tweets?
+        answer: 'As contas do Twitter [@eth_classic](https://github.com/ethereumclassic/tweets-eth_classic) e [@ETC_Network](https://github.com/ethereumclassic/tweets-etc_network) aceitam tweets sugeridos pela comunidade. Basta twittar seu tweet sugerido com a hashtag `#ETCtweets`, e ele será analisado pela comunidade no tópico do Discord `#ETCtweets`.'
+      grants:
+        question: Posso ser pago para contribuir com o Ethereum Classic?
+        answer: |
+          A principal forma de pagamento é por meio de sentimentos calorosos de bem-estar, sabendo que você está contribuindo para o futuro da humanidade ajudando ao longo de uma importante tecnologia.
+
+          Fora isso, existem programas de bolsas ocasionais que você deve ficar de olho acompanhando as conversas dentro da comunidade.

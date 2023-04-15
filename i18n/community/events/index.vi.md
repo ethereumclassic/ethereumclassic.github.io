@@ -6,11 +6,14 @@ seo: Tổng quan về thế giới thực và các sự kiện liên quan đến
 contributors:
   - IstoraMandiri
   - bobsummerwill
+  - Crowbill
 ---
 
 Điều kỳ diệu xảy ra khi mọi người đến với nhau và chia sẻ ý tưởng, và những người tham gia trên khắp cộng đồng ETC đã tự tổ chức để tạo thành các cuộc họp trực tuyến và cuộc sống thực để tập trung sự chú ý của họ vào việc cải thiện Ethereum Classic.
 
 ## Kêu gọi cộng đồng
+
+CẬP NHẬT: Các cuộc gọi cộng đồng thường xuyên, hàng tuần hiện đang bị gián đoạn.
 
 Thứ Năm hàng tuần, thường vào lúc 1500 UTC, một cuộc trò chuyện thoại nhóm diễn ra trong máy chủ Ethereum Classic [Discord](https://ethereumclassic.org/discord). Cuộc gọi được truyền trực tuyến tới [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos), nhưng bạn cũng có thể tham gia 1 giờ trước khi chúng tôi phát trực tiếp, lúc 1400 UTC, để trò chuyện không lưu nội dung trò chuyện trong Green Room.
 

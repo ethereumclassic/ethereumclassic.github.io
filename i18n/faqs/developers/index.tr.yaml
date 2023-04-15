@@ -26,17 +26,21 @@ items:
       deployment:
         question: Ethereum Classic blok zincirine nasıl dağıtım yapabilirim?
         answer: |
-          Öncelikle, sözleşmenizi dağıtmak için gereken gazın parasını ödemek üzere bir miktar ETC alın, ardından Ethereum ağı (Zincir Kimliği 1) yerine Ethereum Classic ağına (Zincir Kimliği 61) dağıttığınızdan emin olun.
+          İlk olarak, sözleşmenizi dağıtmak için gazı ödemek üzere bir miktar ETC edinin, ardından Ethereum ağı (Chain ID 1) yerine Ethereum Classic ağına (Chain ID 61) konuşlandırdığınızdan emin olun.
       rpc:
         question: ETC'ye dağıtmak için kullanabileceğim genel RPC uç noktaları var mı?
         answer: |
-          Evet. Kendi Ethereum Classic düğümünüzü senkronize etmek istemiyorsanız, kullanımı ücretsiz olan bir dizi genel uç nokta mevcuttur.
+          Evet. Kendi Ethereum Classic düğümünüzü çalıştırmak, senkronize etmek ve bakımını yapmak istemiyorsanız, kullanımı ücretsiz olan bir dizi genel uç nokta vardır.
 
-          RPC Endpoints](/network/endpoints) bölümüne ve [ChainList.org](https://chainlist.org/chain/61) adresine göz atın.
+          [RPC Endpoints](/network/endpoints) bölümüne ve ayrıca [ChainList.org](https://chainlist.org/chain/61) göz atın.
       grants:
         question: Ethereum Classic üzerine inşa etmek için fon alabilir miyim?
         answer: |
-          Ethereum Classic'in merkezi bir hazinesi olmadığından, tüm geliştirmeler ya kendi kendini finanse etmekte ya da üçüncü taraf finansmanı yoluyla gerçekleştirilmektedir. Geçmişte çeşitli üçüncü taraflar hibe programları yürütmüştür ve [ETC Cooperative] (https://etccooperative.org/) yakında yeni bir hibe programı başlatacağını duyurmuştur.
+          Evet. ETC'de gelişmeyi teşvik etmek için bir dizi geçmiş ve şimdiki program vardır.
+
+          Yakın tarihli bir örnek, 2023'te bir ETC hibe programı başlatan [ETC Grants DAO](https://etcgrantsdao.io)'dur.
+
+          Ethereum Classic'in merkezi bir hazinesi olmadığından, projeye yapılan tüm katkılar harici olarak finanse edilir. Buna, zamanlarını bağışlayan katkıda bulunanlar ve üçüncü taraf finansmanından sağlanan mali teşvikler dahildir.
       ecips:
         question: Ethereum Classic protokolünün geliştirilmesine nasıl yardımcı olabilirim?
         answer: |

@@ -3,11 +3,14 @@ seo: Maklumat tentang pelbagai testnet Ethereum Classic, dengan rangkaian tersed
 description: |
   Apabila membangunkan kontrak pada Ethereum Classic, seperti mana-mana Sistem Kontrak EVM, adalah dinasihatkan untuk menggunakan [rangkaian maya](/pembangunan/perkakas) setempat, yang membolehkan anda melelang dengan cepat tanpa perlu menunggu blok untuk dilombong. Walau bagaimanapun, pada satu ketika, anda mungkin ingin membenarkan orang ramai berinteraksi dengan versi beta aplikasi anda, dan untuk ini, testnet boleh digunakan.
 
-  Memandangkan Ethereum Classic mengekalkan keserasian dengan EVM huluan Ethereum, selain daripada beberapa kes kelebihan kecil, kontrak akan berkelakuan sama. Ini bermakna bahawa testnet Ethereum yang popular seperti [Kovan](https://kovan-testnet.github.io/website/) boleh, sebahagian besarnya, digunakan untuk ujian awam kontrak Ethereum Classic, dan kerana popularitinya, ini mungkin lebih baik untuk ujian pengguna.
+  Memandangkan Ethereum Classic mengekalkan keserasian dengan EVM huluan Ethereum, selain daripada beberapa kes kelebihan kecil, kontrak akan berkelakuan sama. Ini bermakna bahawa testnet Ethereum yang popular boleh, sebahagian besarnya, digunakan untuk ujian awam kontrak Ethereum Classic, dan kerana popularitinya, ini mungkin lebih baik untuk ujian pengguna.
 
   Selain itu, Ethereum Classic mempunyai testnet sendiri yang mengendalikan versi Ethereum Classic EVM, dan penggunaan ke salah satu rangkaian ini juga sangat disyorkan sebelum pengeluaran pengeluaran. Testnet awam ini juga menyediakan faucet, jadi anda boleh memperoleh testnet ETC dan menggunakan kod anda dengan mudah.
 
-  Beberapa rangkaian ini, seperti Astor, menguji versi percubaan ETC dengan ciri yang belum wujud dalam mainnet Ethereum Classic.
+  Jika paip tidak berfungsi dengan betul, sila sertai Komuniti Klasik Ethereum [Discord](https://ethereumclassic.org/discord) untuk ping dana testnet. Seseorang dalam ruang sembang dev-general akan membantu anda.
+
+  Anda boleh menggunakan [chainlist.org](https://chainlist.org) untuk mengkonfigurasi dompet web3 anda dengan titik akhir dan peneroka RPC yang sesuai.
+  Konfigurasikan Dompet: [Kotti](https://chainlist.org/chain/6), [Mordor](https://chainlist.org/chain/63)
 items:
   testnets:
     i18n:

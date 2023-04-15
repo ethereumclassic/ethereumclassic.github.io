@@ -1,7 +1,7 @@
 title: 以太坊经典
 seo: "一个运行智能合约的去中心化计算平台：完全按照程序运行的应用程序，没有停机、审查或第三方干扰"
 #Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
-metaLocale: zh_cn
+metaLocale: zh_CN
 #Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
 htmlLang: zh
 published: 已出版
@@ -58,14 +58,16 @@ socialItems:
     name: 纪元
   discordCoop:
     name: ETC合作论坛
+  twitterEthclassic:
+    name: eth_classic 推特
+  twitterEtcnetwork:
+    name: ETC_网络推特
   githubOrg:
     name: Github
   githubLabs:
     name: ETC实验室Github
   reddit:
     name: 睿迪特(Reddit)公司
-  twitter:
-    name: 推特
 appTypes:
   finance:
     name: 金融
@@ -105,25 +107,25 @@ appModal:
   checkListRating: 不信任检查表水平
   warning: "**警告：** 这个用户提交的应用程序没有经过审查，也不保证安全；使用时风险自负，一定要做自己的研究！***。"
   added: 添加
+## Tags
 tags: 标签
 tagNames:
-  blog: ETC博客
+  blog: 等博客
   announcement: 公告
   application: 应用
-  development: 发展
+  development: 开发者
   education: 教育
-  event: 活动
-  exchange: 交流会
-  guide: 指南
-  hardfork: 硬叉子
+  event: 事件
+  exchange: 交易所
+  guide: 导游
+  hardfork: 硬分叉
   media: 媒体
   mining: 矿业
   podcast: 播客
   teams: 团队
-  tech: 技术
   trading: 贸易
   wallet: 钱包
-  video: 视频
-  news: 头条新闻
-  opinion: 观点
+  video: ZH VIDEO
+  news: 外部链接
   philosophy: 哲学
+  series: 系列
