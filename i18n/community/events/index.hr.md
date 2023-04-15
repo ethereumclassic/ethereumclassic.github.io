@@ -13,7 +13,7 @@ contributors:
 
 ## Pozivi zajednice
 
-UPDATE:  Regular, weekly Community Calls are currently on hiatus.
+AŽURIRANJE: Redoviti, tjedni pozivi zajednice trenutno su u prekidu.
 
 Svakog četvrtka, obično u UTC 1500, održava se grupni glasovni chat na poslužitelju Ethereum Classic [Discord](https://ethereumclassic.org/discord). Poziv se prenosi na [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos), ali također se možete pridružiti 1 sat prije nego što krenemo uživo, u 14:00 UTC, da razgovarate bez snimanja u Green Roomu.
 
