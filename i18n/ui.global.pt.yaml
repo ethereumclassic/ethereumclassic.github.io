@@ -1,0 +1,131 @@
+title: Ethereum Clássico
+seo: "Uma plataforma de computação descentralizada que executa contratos inteligentes: aplicativos executados exatamente como programados, sem tempo de inatividade, censura ou interferência de terceiros"
+#Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
+metaLocale: pt_PT
+#Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
+htmlLang: pt
+published: Publicados
+updated: Ultima atualização
+author: Autor
+timeline:
+  chronological: cronológico
+  reversed: Invertida
+disclaimers:
+  verify:
+    title: Não confie, verifique.
+    text: Links externos são envios não oficiais da comunidade.
+  opinion:
+    title: Conteúdo opinativo
+    text: Esta página não reflete necessariamente a visão de todas as partes interessadas da ETC.
+next: Continue lendo
+prev: artigo anterior
+contribute: Se você gostaria de contribuir adicionando ou corrigindo informações a esta página, por favor, deixe uma mensagem em [Discord](https://discord.com/invite/dwxb6nf) ou crie um problema em [GitHub](https://github.com/ethereumclassic /ethereumclassic.github.io)
+contributors: "Esta página existe graças em parte aos seguintes colaboradores:"
+allLanguages: Todas as línguas
+noResults: Sem resultados
+netlify: Este site é alimentado por Netlify
+crowdin: Localização com Crowdin
+metaMask: Adicionar ETC à MetaMask
+helpTranslate: Apoie a ETC ajudando a traduzir este site!
+noItems: Desculpe, esta página está vazia!
+search:
+  box: Procurar
+  noResults: Sem Resultados...
+  poweredBy: Desenvolvido por Algolia
+  generalInfo: Informações gerais
+  blogArticles: Artigos de blog
+  videos: Vídeos
+  applications: Formulários
+  newsLinks: Links de notícias
+  txSearch: Parece que você inseriu um endereço ou transação Ethereum Classic.
+  blockScout: "Pesquisa Blockscout Explorer:"
+  explorers: ...ou confira alguns outros [exploradores de blockchain](/network/explorers).
+qa:
+  show: Mostrar todas as respostas
+  hide: Ocultar todas as respostas
+##
+## Announcement Banner
+announcement:
+  text: |
+    Este site agora é traduzido para vários idiomas por meio do aprendizado de máquina. Clique na bandeira no canto superior direito da página para alterar o idioma. Se você quiser ajudar a corrigir traduções, entre em contato conosco!
+  button:
+    text: "Ajuda Traduzir"
+## Footer
+signOff: Feito com `<3` para o Ethereum Vision Original
+socialHilight: A comunidade ETC está ativa no Discord
+socialItems:
+  discord:
+    name: Discórdia
+  discordCoop:
+    name: ETC Coop Discord
+  twitterEthclassic:
+    name: eth_classic Twitter
+  twitterEtcnetwork:
+    name: ETC_Network Twitter
+  githubOrg:
+    name: GithubGenericName
+  githubLabs:
+    name: ETC Labs Github
+  reddit:
+    name: Reddit
+appTypes:
+  finance:
+    name: Finança
+  games:
+    name: jogos
+  identity:
+    name: Identidade
+  interoperability:
+    name: Interoperabilidade
+  nfts:
+    name: NFTs
+  other:
+    name: Outro
+appLinks:
+  homepage: Pagina inicial
+  app: Site de aplicativos
+  twitter: Twitter
+  github: GithubGenericName
+newsTypes:
+  news:
+    name: Link
+  blog:
+    name: blog
+  application:
+    name: Aplicativo
+    prefix: "Aplicativo"
+  video:
+    name: Vídeo
+    prefix: "Vídeo"
+## App Modal
+appModal:
+  verifiedContract: Contrato
+  openSource: Código aberto
+  audit: auditado
+  testSuite: Suíte de teste
+  ipfsFrontend: Interface IPFS
+  checkListRating: Nível de lista de verificação sem confiança
+  warning: "**Aviso:** Este aplicativo enviado pelo usuário NÃO foi verificado e NÃO é garantido como seguro; use por sua conta e risco e sempre faça sua própria pesquisa!"
+  added: Adicionado
+## Tags
+tags: Tag
+tagNames:
+  blog: Blog ETC
+  announcement: Anúncios
+  application: aplicativos
+  development: Desenvolvimento
+  education: Educação
+  event: Eventos
+  exchange: Trocas
+  guide: Guias
+  hardfork: Hard forks
+  media: meios de comunicação
+  mining: Mineração
+  podcast: podcasts
+  teams: Equipes
+  trading: Negociação
+  wallet: Carteiras
+  video: Vídeos
+  news: Links externos
+  philosophy: Filosofia
+  series: Series
