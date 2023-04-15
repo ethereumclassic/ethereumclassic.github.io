@@ -1,78 +1,78 @@
 ---
-title: Sound Money
+title: 健全的货币
 updated: 2022-02-22
 disclaimer: opinion
-seo: An overview of the useful features of money that give it value, and how some blockchains, including Ethereum Classic and Bitcoin, intentionally apply these features to their monetary policy to ensure decentralization and longevity.
+seo: 概述赋予货币价值的有用特征，以及一些区块链，包括以太坊经典和比特币，如何有意将这些特征应用于其货币政策，以确保去中心化和长效性。
 ---
 
-## Key Points
+## 关键点
 
-- Sound Money is a concept predating the internet that inspired the invention of Bitcoin and blockchain technology.
-- Money can be considered sound if it has several quantifiable properties, and these properties are encoded into ETC.
-- One important property is _scarcity_, which ETC gets from its _fixed emission curve_ leading to a _known future supply_.
-- If a project does not have a _known future supply_, maintainers can arbitrarily inflate the value of a currency away from holders.
-- This risk remains present on all chains that do not have a _fixed emissions curve_, including Ethereum™.
+- 健全货币是一个早于互联网的概念，它启发了比特币和区块链技术的发明。
+- 如果货币有几个可量化的属性，就可以认为是健全的，这些属性被编码成 ETC。
+- 一个重要的属性是 _稀缺性_，ETC 从其 _固定的排放曲线_ ，导致一个已知的未来供应 \_。
+- 如果一个项目没有一个 _已知的未来供应_，维护者可以任意抬高货币的价值，使其远离持有人。
+- 这种风险在所有没有 _固定排放曲线的链上仍然存在_，包括 Ethereum™。
 
-## Introduction
+## 简介
 
-The backbone of strong economies, the provider of stability, the incentiviser of healthy [time preference](https://www.youtube.com/watch?v=k5XbLm3pEfI), the creator of prosperity. Sound money is the antidote to many of the problems created by the financial abuses of centralization in the wider world, and is the core concept that spurred the creation of Bitcoin.
+强大经济的支柱，稳定的提供者，健康 [时间偏好的激励者](https://www.youtube.com/watch?v=k5XbLm3pEfI)，繁荣的创造者。 健全的货币是解决更广泛的世界中金融滥用中心化所造成的许多问题的解药，也是刺激比特币创建的核心概念。
 
-From the [Austrian School of Economics](https://mises.org/topics/bitcoin) many of the theories behind Bitcoin, including [Sound Money](https://mises.org/library/principle-sound-money), saw their philosophical gestation. Decades before Bitcoin was technologically conceivable, economists such as Ludwig von Mises, Fredreick Hayek and Milton Friedman were professing the dangers of fiat money and the advantage of systems of finance that are free from manipulation by central authorities.
+从 [奥地利经济学派](https://mises.org/topics/bitcoin) ，比特币背后的许多理论，包括 [健全货币](https://mises.org/library/principle-sound-money)，看到了他们的哲学酝酿。 在比特币在技术上可以想象的几十年前，路德维希-冯-米塞斯、弗雷德里克-哈耶克和米尔顿-弗里德曼等经济学家就在宣称法定货币的危险和不受中央当局操纵的金融系统的优势。
 
-## Properties of Sound Money
+## 稳健货币的属性
 
-Money is the lifeblood that transports energy and information around an economy, which is why well-designed currency is critical for a functional society. It was identified that money must serve three purposes: as a unit of account, a store of value, and a medium of exchange. These three functions are facilitated by several [properties](https://cryptowhat.com/properties-of-sound-money/), which were intentionally engineered into the design of Bitcoin and inherited by ETC:
+货币是在一个经济体中运输能量和信息的命脉，这就是为什么设计良好的货币对一个正常运作的社会至关重要。 人们发现，货币必须有三种用途：作为记账单位、价值储存和交换媒介。 这三个功能是由几个 [，](https://cryptowhat.com/properties-of-sound-money/)，这是在比特币的设计中有意设计的，并由 ETC 继承。
 
-- **Divisibility:** ETC is divisible up to 18 decimal places. This means that ETC can be split into 1,000,000,000,000,000,000 smaller units if needed. Denominations of ETC can be written in `wei`, the smallest ETC unit currently available.
-- **Transferability:** Since ETC isn’t tied to any banks or governments, it’s easily transferable across countries and between users on a global scale. This gives ETC an advantage over paper money and precious metals, which aren't as easily transferable across long distances.
-- **Fungibility:** Each ETC is worth precisely what it’s valued at on the market. One ETC won’t have different values based on previous ETC transactions—unlike some currencies where older bills are often worth less than newer ones. This is called fungibility, and it’s a property ETC shares with physical commodities like gold and silver.
-- **Durability:** ETC is incredibly durable. It is ultimately just information, so it can be stored on a computer or in a digital wallet, or even offline on a piece of paper or metal. This makes ETC much more durable than traditional forms of money like paper currency which can be easily destroyed or lost.
-- **Portability:** ETC is highly portable. You can carry it on a thumb drive, phone, write it down on paper, or remember it as a seed phrase.
-- **Scarcity:** ETC has a finite supply that will be released over time. This makes it scarcer than most other forms of currency.
+- **可分割性。 ** ETC可以被除到小数点后18位。 这意味着如果需要的话，ETC 可以被分成 1,000,000,000,000,000 个小单位。 ETC 的面额可以用 `wei`，这是目前最小的 ETC 单位。
+- ** 由于 ETC 不与任何银行或政府挂钩，它很容易在全球范围内跨国家和用户之间转移。 这使 ETC 比纸币和贵金属更具优势，因为纸币和贵金属不容易远距离转移。
+- **可变性。 ** 每个ETC的价值正是它在市场上的估值。 一个 ETC 不会因为以前的 ETC 交易而有不同的价值--不像某些货币，老的钞票往往比新的钞票价值低。 这被称为可替换性，它是 ETC 与黄金和白银等实物商品的共同属性。
+- **耐用性。 ** ETC 是非常耐用的。 它最终只是信息，所以它可以存储在电脑或数字钱包中，甚至可以离线存储在一张纸或金属上。 这使得 ETC 比纸币等传统形式的货币更耐用，因为纸币很容易被破坏或丢失。
+- **便携性。 ** ETC是高度便携的。 你可以把它放在优盘、手机上，写在纸上，或者作为一个种子短语来记住它。
+- **稀缺性。 ** ETC的供应是有限的，将随着时间的推移而释放。 这使得它比大多数其他形式的货币更稀缺。
 
-## Known Future Supply
+## 已知的未来供应
 
-ETC has all the properties of Sound Money. It’s decentralized, uncensorable, divisible, transferable, fungible, durable and scarce. The cornerstone of a blockchain's sound monetary policy is scarcity via a _known future supply_. Just like Bitcoin, but unlike Ethereum™, Classic has a _fixed emission curve_. A [fixed amount](https://etcis.money/) of ETC created as a block reward for miners, which means that holders of ETC can accurately calculate the total amount of ETC in existence at any point in time.
+ETC 具有健全货币的所有属性。 它是分散的、不可审查的、可分割的、可转让的、可替换的、持久的和稀缺的。 区块链健全的货币政策的基石是通过一个 _已知的未来供应量的稀缺性_。 就像比特币一样，但与 Ethereum™ 不同的是，Classic 有一个 _固定的排放曲线_。 作为矿工的区块奖励而创建的 ETC 的一个 [定量](https://etcis.money/) ，这意味着 ETC 的持有者可以准确地计算出在任何时间点存在的 ETC 的总量。
 
-Ethereum Classic's fixed emission curve was introduced by [ECIP-1017](https://ecips.ethereumclassic.org/ECIPs/ecip-1017). The emission schedule, also known as 5M20, reduces the block reward by 20% every 5,000,000 blocks. Socially, this block reward reduction event has taken the moniker of "The Fifthening."
+以太坊经典的固定排放曲线是由 [ECIP-1017](https://ecips.ethereumclassic.org/ECIPs/ecip-1017)。 排放时间表，也被称为 5M20，每 5,000,000 个区块的奖励减少 20%。 在社会上，这一减少奖励的活动被冠以 "五周年 "的称号。
 
-| Est. Date      | 5M20 Era | Block       | Block Reward | Total Era Emission     |
-| -------------- | -------- | ----------- | ------------ | ---------------------- |
-| 2015-07-30     | Era 1    | 1           | 5 ETC        | 25,000,000 ETC         |
-| 2017-12-11     | Era 2    | 5,000,001   | 4 ETC        | 20,000,000 ETC         |
-| 2020-03-17     | Era 3    | 10,000,001  | 3.2 ETC      | 16,000,000 ETC         |
-| 2022-04-15     | Era 4    | 15,000,001  | 2.56 ETC     | 12,800,000 ETC         |
-| 2024-05-07     | Era 5    | 20,000,001  | 2.048 ETC    | 10,240,000 ETC         |
-| ~Every 2 Years | N+1      | N+5,000,000 | -20%         | Total ~200,000,000 ETC |
+| 遗产。 日期     | 5M20 时代 | 区块          | 块状奖赏      | 年代的总排放量            |
+| ---------- | ------- | ----------- | --------- | ------------------ |
+| 2015-07-30 | 第1纪元    | 1           | 5 ETC     | 25,000,000 ETC     |
+| 2017-12-11 | 第2纪元    | 5,000,001   | 4 ETC     | 20,000,000 ETC     |
+| 2020-03-17 | 第三纪元    | 10,000,001  | 3.2 ETC   | 16,000,000 ETC     |
+| 2022-04-15 | 第四纪元    | 15,000,001  | 2.56 ETC  | 12,800,000 ETC     |
+| 2024-05-07 | 第五纪元    | 20,000,001  | 2.048 ETC | 10,240,000 ETC     |
+| ~每两年一次     | N+1     | N+5,000,000 | -20%      | 共计~200,000,000 ETC |
 
-_Note: due to fluctuating uncle rate, the exact emission amount will deviate slightly, but not significantly._
+_注意：由于叔叔率的波动，准确的排放量会略有偏差，但不明显。_
 
-A _fixed emissions curve_ means that the rate of inflation is predictable, and in the case of ETC, is continually decreasing over time. As the value of the network increases, the value of all ETC increases predictably according to this rate, rather than some unknown future rate that could be much lower. ETC's commitment to a fixed emission curve is enshrined into both the protocol and its social layer, and thanks to Proof of Work, any hard fork that attempts to manipulate inflation will result in a permanent chain split, massively disincentivizing such a change to the point of it being _extremely_ unlikely to be contemplated, let alone be attempted, let alone be successful.
+一个 _固定的排放曲线_ ，意味着通货膨胀率是可预测的，在 ETC 的情况下，随着时间的推移不断减少。 随着网络价值的增加，所有 ETC 的价值都会根据这个比率可预测地增加，而不是某个可能低得多的未来未知比率。 ETC 对固定排放曲线的承诺被写入了协议和它的社会层，由于工作证明，任何试图操纵通货膨胀的硬分叉都会导致永久性的链式分裂，极大地抑制了这种变化，以至于它 \_，极不可能被考虑，更不用说被尝试，更不用说成功。
 
-A _known future supply_ not only provides a prosperous alternative to the legacy fiat system, but also a critical sociotechnological role in the blockchains that utilize it as the basis for keeping a project decentralized. The monetary policy of a blockchain is a common agreement that all participants voluntarily engage with. It keeps all parties aligned economically and helps prevent groups from accumulating unfair influence over others. This unwavering neutrality is what keeps all participants on an equal footing.
+一个 _，已知的未来供应_ ，不仅为传统的法币系统提供了一个繁荣的替代方案，而且在利用它作为保持项目去中心化的基础的区块链中发挥了关键的社会技术作用。 区块链的货币政策是一个所有参与者自愿参与的共同协议。 它使所有各方在经济上保持一致，并有助于防止团体对其他团体积累不公平的影响力。 这种坚定不移的中立性是使所有参与者处于平等地位的原因。
 
-Sound money, and it's ability to hold value over time, is a core property of the incentivization mechanisms that encourage participation, as while it does not guarantee that an asset will appreciate, it at least provides a means to calculate future earnings potential given the future growth of a project. It means that holders are guaranteed to benefit fairly from a project's upside.
+健全的货币，以及它的长期保值能力，是鼓励参与的激励机制的核心属性，因为虽然它不能保证资产会升值，但至少提供了一种考虑到项目未来增长而计算未来收益潜力的方法。 这意味着保证持有人能够公平地从项目的上涨中获益。
 
-## Unsound Money
+## 不健全的货币
 
-Be it fiat or cryptocurrencies, redistribution of funds via inflation or currency debasement is one of the oldest tricks in the book for meddling central planners with a misplaced sense of authority. In times of trouble, they inevitably use this mechanism to ensure that when the ship goes down, those who control the keys to the castle will be the first on the life rafts, as they can redistribute whatever dregs of value remain to themselves at the expense of holders of the currency, all in the name of safety and stability, of course.
+无论是法定货币还是加密货币，通过通货膨胀或货币贬值来重新分配资金是书中最古老的伎俩之一，这些伎俩是由具有错误权威感的爱管闲事的中央计划者实施的。 在困难时期，他们不可避免地利用这一机制来确保当船沉没时，那些控制城堡钥匙的人将是第一个上救生艇的人，因为他们可以以牺牲货币持有者的利益为代价，将剩余的任何价值渣滓重新分配给自己，当然，这一切都是以安全和稳定为名。
 
-This failure state is a type of rugpull that can only exist in projects that are not sufficiently decentralized. The redistribution of value away from holders to some specific group (be it miners, stakers, or developers) can only happen when the [balance of power](/why-classic/decentralism#balancing-power) is uneven, such that some participants can push through changes to the protocol that put their interests before others.
+这种失败状态是一种地毯式的，只能存在于没有充分分散的项目中。 权力平衡不平衡时，价值从持有者手中重新分配给某些特定的群体(无论是矿工、造币商还是开发者)才会发生，这样一些参与者可以通过改变协议来推动他们的利益高于其他人。
 
-The alternative to a _known future supply_ is an _unknown future supply_, leading to an unbounded degree of inflation or currency debasement down the road. In small amounts inflation may be unnoticeable and be drowned out by the day to day volatility of markets, but it nevertheless amounts to a tax on holders of the currency that do not enjoy the immediate benefits of the [Cantillon Effect](https://cointelegraph.com/explained/from-cash-to-crypto-the-cantillon-effect-vs-the-nakamoto-effect).
+除了 _已知的未来供应_ ，另一个选择是 _未知的未来供应_，导致无限制的通货膨胀或货币贬值的程度。 少量的通货膨胀可能不引人注意，并被市场的日常波动所淹没，但它仍然相当于对货币持有者征税，因为他们不能享受 [Cantillon 效应的直接好处](https://cointelegraph.com/explained/from-cash-to-crypto-the-cantillon-effect-vs-the-nakamoto-effect)。
 
-In extreme cases, chains with a policy of maintaining an _unknown future supply_ can lead to [Zimbabwe-like hyperinflation](https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe), which is an ever-present dark cloud that hangs over all holders of these currencies. Although these projects may not need to turn on the inflation tap today, it may become "necessary" for whatever reason in the future. Be it development funding issues or the [race to the bottom](/why-classic/proof-of-work#the-apr-arms-race) of competing with other chains' Proof of Stake yields, without the precedent of a fixed emission curve, the central organizing committee of such projects can easily conjure up any number of justifications for appropriating value away from holders as the only way for the project to continue.
+在极端情况下，具有维持 _未知未来供应的政策的连锁店_ ，可能导致 [类似津巴布韦的恶性通货膨胀](https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe)，这是笼罩在这些货币所有持有者头上的永远的乌云。 尽管这些项目今天可能不需要打开通货膨胀的水龙头，但在未来可能会因为某种原因而变得 "必要"。 无论是发展资金问题，还是 ，与其他连锁店的权益证明收益率竞争，没有固定排放曲线的先例，这种项目的中央组织委员会可以很容易地想象出任何数量的理由，将价值从持有者手中侵占，作为项目继续进行的唯一途径。
 
-![A One Hundred Trillion Zimbabwe Dollar Note](./zimbabwedollar.jpg)
+![一张一百兆的津巴布韦元纸币](./zimbabwedollar.jpg)
 
-Some promoters of cryptocurrencies, perhaps unintentionally, gaslight their fellow holders into believing that the checks and balances provided by _fixed future supply_ are a hindrance, postulating that it is somehow in the financial interests of holders not to have one.
+加密货币的一些推广者，也许是无意的，对他们的同胞进行气化，让他们相信 _，固定的未来供应_ ，提供的制衡是一种阻碍，假设没有制衡在某种程度上是符合持有人的经济利益。
 
-The idea of _ultrasound money_, a synonym of _unsound money_, means that the future supply of a currency is unknown, and while maintainers pinky-promise that it will never be higher than it needs to be, that could be anything from zero to infinity. An _ultrasound_ future supply is subject to tinkering based on an undefined and unpredictable criterion, meaning its central authority reserves the unrestricted right to redistribute funds away from holders in the future.
+_超音速货币_，是 *不健全货币*的同义词，意味着一种货币的未来供应量是未知的，虽然维护者粉墨登场，承诺它永远不会高于需要，但那可能是零到无限的任何东西。 一个 _ultrasound_ ，未来的供应量会根据一个未定义和不可预测的标准进行调整，这意味着其中央当局保留了不受限制的权利，在未来将资金从持有人手中重新分配。
 
-> Yeah, your boring old car might be safe, but check out this bad boy over here. We removed the breaks and seat belts, so now it's ultrasafe.
+> 是的，你那无聊的旧车可能是安全的，但看看这里的这个坏小子。 我们去掉了刹车和安全带，所以现在它是超安全的。
 > 
-> - Advocates of ~~Ultrasound Money~~ Ultrasafe Vehicles
+> - 倡导~~超音速的钱~~超安全的车辆
 
-![Used Car Salesman Explaining Ultrasafe Vehicles](./ultrasafe.jpg)
+![二手车销售员解释超安全车辆](./ultrasafe.jpg)
 
-Regrettably, in contrast with Ethereum Classic, perhaps to provide optionality in the future for attracting Proof of Stake collateral, Ethereum™ is one of many cryptocurrency projects that maintains a policy of _unknown future supply_, which in turn means that holders are exposed to the risk of unbounded future inflation.
+遗憾的是，与 Ethereum Classic 相比，也许是为了在未来提供吸引权益证明抵押品的可选性，Ethereum™ 是许多加密货币项目中的一个，它保持了 _未知的未来供应政策_，这反过来意味着持有人面临着未来无限制的通货膨胀风险。
