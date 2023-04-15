@@ -1,0 +1,18 @@
+title: תוכנת כורה
+seo: רשימה של חבילות תוכנה שניתן להשתמש בהן לכריית מטבעות הקריפטו ETC ב-Ethereum Classic.
+description: "אלגוריתם הכרייה של Proof-of-Work עבור רשת Ethereum Classic הוא [ETCHash](https://github.com/eth-classic/etchash) מאז ה-28 בנובמבר 2020."
+items:
+  table:
+    columnItems:
+      name:
+        name: שֵׁם
+      windowsAmd:
+        name: Windows AMD
+      windowsNvidia:
+        name: Windows Nvidia
+      linuxAmd:
+        name: לינוקס AMD
+      linuxNvidia:
+        name: לינוקס Nvidia
+      guide:
+        text: להנחות
