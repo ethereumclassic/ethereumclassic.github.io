@@ -1,0 +1,156 @@
+title: 開髮指南
+seo: 為初學者和高級開發人員選擇的教程和解釋器，並解釋瞭如何部署到 Ethereum Classic。
+description: |
+  將智能合約編寫和部署到 Ethereum Classic 的過程與 Ethereum 相同。 Ethereum Classic 的目標之一是保持與 ETH 的兼容性，以便部署到 Ethereum 的任何合約都可以輕鬆地重新部署到 Ethereum Classic。
+
+  這意味著以太坊上存在的大多數現有教程、庫和開發工具也可以與以太坊經典一起使用。在大多數情況下，唯一的區別是更改配置選項以部署到以太坊經典而不是測試網或以太坊主網。
+
+  主要的例外是與第三方系統（例如穩定幣或預言機）的交互，這些系統僅部署到 ETH 而尚未部署到 ETC。緩慢但肯定地，這些服務的 ETC 版本將被遷移過來，甚至可能由您遷移！您可以在 [應用部分](/services/apps) 中跟踪當前可用的服務。
+
+  因此，我們強烈建議瀏覽 [Ethereum.org 網站上的開發人員資源](https://ethereum.org/en/developers/)，其中包含大量最新信息。此外，此頁面上的鏈接包含特定於在 Ethereum Classic 上進行開發的指南。
+
+  您還可以在 [Videos > Development](/videos/development) 部分找到有關使用 Ethereum Classic 進行開發的視頻教程。
+items:
+  tutorials:
+    title: 入門
+    description: 以下是一些有用的教程和演練的非詳盡列表，可幫助您開始以太坊經典開發。
+    items:
+      Kotti Testnet Setup Guide:
+        name: Kotti 測試網設置指南
+        description: 使用 Jade Desktop 在 1 分鐘內啟動並運行 Kotti TestNet
+      Signatory Client:
+        name: 簽約客戶
+        description: 視頻演示描述了 Signatory Client——一個可以安裝在單板計算機（如 Raspberry PI）上的自助式硬件錢包。
+      Besu Client Setup Guide:
+        name: Besu 客戶端設置指南
+        description: 開始使用 Hyperledger Besu。
+      Raspberry Pi Node Setup Guide:
+        name: 樹莓派節點設置指南
+        description: 有關如何在 Raspberry Pi 上設置以太坊節點的詳細指南
+      CryptoZombies:
+        name: 加密殭屍
+        description: 通過構建您自己的遊戲來學習編寫以太坊 DApp。
+      Hitchhikers Guide to Smart Contracts:
+        name: 智能合約漫遊指南
+        description: 使用 Truffle、Test-RPC 和 Solidity 在以太坊上構建智能合約。
+      A 101 Noob Intro to Programming Smart Contracts on Ethereum:
+        name: 以太坊智能合約編程新手 101 簡介
+        description: 智能合約教程，側重於在編寫代碼之前建立理解。
+      Setup MetaMask for Ethereum Classic:
+        name: 為 Ethereum Classic 設置 MetaMask
+        description: 如何使用 Ethercluster 在 MetaMask 上設置 Ethereum Classic 支持
+      Parity Tutorial:
+        name: Parity DApp 教程
+        description: 關於如何編寫 DApp 的 10 部分教程。
+      Start Ethereum DApp Development Career:
+        name: 開始以太坊 DApp 開發生涯
+        description: 開始開發 DApp 的非正式指南。
+      Full Stack DApp Tutorial Series:
+        name: 全棧 DApp 教程系列
+        description: 使用各種框架的全棧 DApp。
+      Ethereum Builders Guide:
+        name: 以太坊建設者指南
+        description: 用於在以太坊上構建的 Gitbook，可以更深入地理解技術功能。
+      Introduction to OpenRPC Webinar:
+        name: OpenRPC 網絡研討會簡介
+        description: 在本視頻中，您將學習 JSON-RPC 和 OpenRPC 的基礎知識。
+      Learning Solidity Tutorial Series:
+        name: 學習 Solidity 教程系列
+        description: 使用 Metamask 和 Remix IDE 構建智能合約。
+      End to End DApp Tutorial:
+        name: 端到端 DApp 教程
+        description: 使用 Metamask、Truffle、Remix、React 和 IPFS 創建一個賭博 DApp。
+      How to write secure smart contracts:
+        name: 如何編寫安全的智能合約
+        description: 回顧編程語言和最佳實踐，幫助您編寫安全的智能合約。
+      Programming Decentralized Money:
+        name: 編程去中心化貨幣
+        description: 構建智能合約應用程序的簡單指南。
+      How to create a token and ICO on Ethereum Classic:
+        name: 如何在 Ethereum Classic 上創建代幣和 ICO
+        description: 完成本指南後，您將了解如何在 Ethereum Classic 區塊鏈上創建 ERC223 代幣以及該代幣的 ICO。
+      How to use Brave Browser with Ethereum dApps:
+        name: 如何將 Brave Browser 與以太坊 dApp 一起使用
+        description: Brave Browser 是訪問以太坊區塊鏈上 DApp 的最簡單、最安全的方式。 Web 3.0 終於可以為所有人所用！
+      Vyper and Brownie Contract Development on EVM Chains:
+        name: EVM 鏈上的 Vyper 和 Brownie 合約開發
+        description: 為了慶祝 ETC 與 Vyper 的集成，我們決定為 Vyper 構建一個智能合約以部署到 ETC。
+      Adventures in Classical Ether:
+        name: 經典以太歷險記
+        description: 為 ETC 構建您的第一個智能合約。
+      Kotti Solidity ETC Oh My:
+        name: Kotti、Solidity、ETC，我的天啊！
+        description: 本指南說明了 Ethereum Classic 的 Kotti 測試網的初始配置和用於 ETC<>ETH 兼容 dapp 開發的特定版本的 Solidity。 Kotti 是 dapp 開發者推薦的測試網。建議將 Mordor 用於協議級別測試。
+      How to contribute to Mordor Testnet:
+        name: 如何為魔多測試網做出貢獻
+        description: 本指南將教您如何挖掘測試網 ETC 並使用 Expedition 運行您自己的本地區塊瀏覽器。 Kotti 是 dapp 開發者推薦的測試網。建議將 Mordor 用於協議級別測試。
+      Migrate to Hyperledger Besu - Switch from OpenEthereum or Multi-Geth:
+        name: 遷移到 Hyperledger Besu - 從 OpenEthereum 或 Multi-Geth 切換
+        description: 本指南應幫助您從 OpenEthereum 或 Multi-Geth 客戶端遷移到 Hyperledger Besu 客戶端。
+      Ethereum Classic on Raspberry Pi:
+        name: Raspberry Pi 上的以太坊經典
+        description: 本指南將分為幾個部分，並將記錄我對 IoT、ETC 和 Raspberries 的所有探索。
+      Ethercluster An Open-Source Alternative to Infura:
+        name: Ethercluster，Infura 的開源替代品
+        description: 構建您自己的基於以太坊的可擴展 RPC 基礎設施的指南。
+      Analyzing Ethereum Classic with Google BigQuery:
+        name: 使用 Google BigQuery 分析 Ethereum Classic
+        description: 使用 BigQuery 分析 Ethereum Classic 的指南。該指南使用以太坊經典中量化去中心化的示例。
+      Creating Your Own Smart Contract Languages Using LLVM:
+        name: 使用 LLVM 創建你自己的智能合約語言
+        description: 本文展示了我們如何使用 EVM-LLVM 製作 Kaleidoscope 玩具語言來生成區塊鏈可部署的智能合約。
+      ERC20 to ERC223 upgrade path:
+        name: ERC20到ERC223升級路徑
+        description: ERC223 是一種現代代幣標準，具有更便宜的費用並保護投資者免於丟失代幣。 Team Saturn 展示瞭如何升級現有的 ERC20 代幣。
+      Continuity for an Augmented world:
+        name: 增強世界的連續性
+        description: 使用 Ethereum Classic 構建去中心化廣告系統的指南。
+      Deployment Automation for Goerli testnet in 10 minutes:
+        name: 10 分鐘實現 Goerli 測試網自動化部署
+        description: 快速部署新的 Goerli 權威證明跨客戶端測試網絡的簡短教程。本指南可應用於 Ethereum Classic 的 Kotti 測試網。
+      Monitoring in PegaSys Plus:
+        name: PegaSys Plus 中的監控
+        description: PegaSys 設置網絡監控儀表板的簡短教程。
+      Using OpenRPC Mock Server to test against an Ethereum JSON-RPC API:
+        name: 使用 OpenRPC 模擬服務器針對以太坊 JSON-RPC API 進行測試
+        description: open-rpc-mock-server 允許開發人員在本地和輕量級環境中針對他們的 API 運行和測試。
+      Introduction to Pristine An open standard and template for open-source projects:
+        name: Pristine 簡介 — 開源項目的開放標準和模板。
+        description: Pristine 本身就是一個存儲庫，其中包含項目的約定和規範，以傳達您正在解決的問題、簡化入職流程、構建和使用可組合工具、促進開源貢獻和參與，並促進 Github 本身的問題和功能討論。
+      Jade Suite Overview and Workshop:
+        name: Jade Suite 概述和工作坊
+        description: 使用 Jade 工具套件使 Ethereum Classic 應用程序的開發和配置變得簡單快捷
+      Various Ethereum Solidity Tutorials:
+        name: 各種以太坊和 Solidity 教程
+        description: 如何創建智能合約、部署您自己的 DApp、創建令牌等等 — 從初級到中級主題。
+  advanced:
+    title: 高級概念
+    description: 區塊鏈背後的技術很深，涉及許多領域。這裡有一小部分文章可以幫助您開始探索兔子洞的旅程。
+    items:
+      2018-03-15-signatures:
+        name: 遍歷以太坊經典數字簽名代碼
+        description: 數字簽名保護交易。這些涉及橢圓曲線密碼學和橢圓曲線數字簽名算法 (ECDSA)。
+      2018-03-19-rlp:
+        name: 遞歸長度前綴編碼
+        description: Ethereum Classic (ETC) 使用遞歸長度前綴 (RLP) 編碼來存儲和發送數據結構。
+      2018-01-31-difficulty:
+        name: 以太坊經典挖礦難度參數簡單解讀
+        description: 挖礦難度參數對某些人來說可能看起來很神秘。這篇文章表明它有一個漂亮的易於理解的解釋。
+      2018-01-26-implicit-info:
+        name: 隱含的以太坊經典區塊鏈信息
+        description: 對於初學者來說，以太坊經典 (ETC) 區塊鏈似乎缺少一些必要的信息。此信息隱式包含在區塊鏈中，這可能會導致混淆。
+      2017-12-04-light-clients:
+        name: 以太坊經典輕客戶端如何安全運行
+        description: 以太坊經典 (ETC) 輕客戶端是不維護整個 ETC 區塊鏈副本的客戶端。
+      2017-04-28-blocks:
+        name: "ETC區塊解釋：三個類別"
+        description: 區塊可以分為區塊頭、交易列表和叔叔區塊頭列表。
+      2017-04-18-keys:
+        name: "公鑰和私鑰：一點啟示"
+        description: 私鑰用於轉移資金、安裝程序和運行程序。
+      2017-03-30-accounts-and-states:
+        name: 帳戶和狀態解釋
+        description: 以太坊經典 (ETC) 區塊鏈使不可阻擋、可靠、可審計、無需信任和安全的世界計算機成為可能。要了解這個系統，了解賬戶和狀態很重要。
+      2017-02-10-hashes:
+        name: "哈希：簡介以及為什麼它們是互聯網和區塊鏈的基礎"
+        description: '“單向散列函數”一詞聽起來神秘而古怪，但散列函數是現代密碼學的主力軍。'
