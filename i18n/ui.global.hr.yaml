@@ -64,8 +64,6 @@ socialItems:
     name: ETC Labs Github
   reddit:
     name: Reddit
-  twitter:
-    name: Cvrkut
 appTypes:
   finance:
     name: Financije
