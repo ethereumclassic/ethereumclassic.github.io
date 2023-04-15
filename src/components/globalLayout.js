@@ -7,7 +7,6 @@ import Footer from "./footer";
 import Header from "./header";
 import Seo from "./seo";
 import Announcement from "./announcement";
-import Json from "./json";
 
 export default function GlobalLayout({ children, ...props }) {
   return (
