@@ -6,14 +6,14 @@ seo: Gerçek dünya ve sanal Ethereum Classic ile ilgili etkinliklere genel bir 
 contributors:
   - IstoraMandiri
   - bobsummerwill
-  - TheCrowbill
+  - Kargaga
 ---
 
 İnsanlar bir araya gelip fikirlerini paylaştığında sihir gerçekleşir ve ETC topluluğundaki katılımcılar, dikkatlerini Ethereum Classic'i geliştirmeye odaklamak için gerçek hayatta ve çevrimiçi toplantılar oluşturmak üzere kendiliğinden organize oldular.
 
 ## Topluluk Çağrıları
 
-UPDATE:  Regular, weekly Community Calls are currently on hiatus.
+GÜNCELLEME: Düzenli, haftalık Topluluk Görüşmeleri şu anda ara veriyor.
 
 Her Perşembe, genellikle UTC 1500'de, Ethereum Classic [Discord](https://ethereumclassic.org/discord) sunucusunda bir grup sesli sohbet gerçekleştirilir. Görüşme [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos)adresinde yayınlanmaktadır, ancak canlı yayına geçmeden 1 saat önce, UTC ile 1400'de Yeşil Oda'da kayıt dışı sohbet etmek için de katılabilirsiniz.
 
