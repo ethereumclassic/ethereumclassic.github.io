@@ -9,8 +9,8 @@ contributors:
   - DonaldMcIntyre
 ---
 
-**⚠️ Update**  
-You can now easily add ETC to MetaMask by clicking "Connect-Wallet" on https://chainlist.org/chain/61
+**⚠️ Güncelleme**  
+Artık https://chainlist.org/chain/61 adresindeki "Connect-Wallet" seçeneğine tıklayarak ETC'yi MetaMask'a kolayca ekleyebilirsiniz.
 
 Bu bağlantıyı bu web sitesindeki her sayfanın altında da bulabilirsiniz.
 
