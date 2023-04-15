@@ -1,78 +1,78 @@
 ---
-title: Sound Money
+title: Dinheiro de som
 updated: 2022-02-22
 disclaimer: opinion
-seo: An overview of the useful features of money that give it value, and how some blockchains, including Ethereum Classic and Bitcoin, intentionally apply these features to their monetary policy to ensure decentralization and longevity.
+seo: Uma visão geral dos recursos úteis do dinheiro que lhe dão valor e como alguns blockchains, incluindo Ethereum Classic e Bitcoin, aplicam intencionalmente esses recursos à sua política monetária para garantir descentralização e longevidade.
 ---
 
-## Key Points
+## Pontos chave
 
-- Sound Money is a concept predating the internet that inspired the invention of Bitcoin and blockchain technology.
-- Money can be considered sound if it has several quantifiable properties, and these properties are encoded into ETC.
-- One important property is _scarcity_, which ETC gets from its _fixed emission curve_ leading to a _known future supply_.
-- If a project does not have a _known future supply_, maintainers can arbitrarily inflate the value of a currency away from holders.
-- This risk remains present on all chains that do not have a _fixed emissions curve_, including Ethereum™.
+- Sound Money é um conceito anterior à internet que inspirou a invenção do Bitcoin e da tecnologia blockchain.
+- O dinheiro pode ser considerado sólido se tiver várias propriedades quantificáveis e essas propriedades estiverem codificadas na ETC.
+- Uma propriedade importante é _escassez_, que a ETC obtém de sua _curva de emissão fixa_ levando a uma _oferta futura conhecida_.
+- Se um projeto não tiver um suprimento futuro conhecido __, os mantenedores podem inflar arbitrariamente o valor de uma moeda para longe dos detentores.
+- Este risco permanece presente em todas as cadeias que não possuem uma curva de emissões fixa __, incluindo Ethereum™.
 
-## Introduction
+## Introdução
 
-The backbone of strong economies, the provider of stability, the incentiviser of healthy [time preference](https://www.youtube.com/watch?v=k5XbLm3pEfI), the creator of prosperity. Sound money is the antidote to many of the problems created by the financial abuses of centralization in the wider world, and is the core concept that spurred the creation of Bitcoin.
+A espinha dorsal de economias fortes, o provedor de estabilidade, o incentivador da saudável preferência temporal [](https://www.youtube.com/watch?v=k5XbLm3pEfI), o criador da prosperidade. O dinheiro sólido é o antídoto para muitos dos problemas criados pelos abusos financeiros da centralização no mundo mais amplo e é o conceito central que estimulou a criação do Bitcoin.
 
-From the [Austrian School of Economics](https://mises.org/topics/bitcoin) many of the theories behind Bitcoin, including [Sound Money](https://mises.org/library/principle-sound-money), saw their philosophical gestation. Decades before Bitcoin was technologically conceivable, economists such as Ludwig von Mises, Fredreick Hayek and Milton Friedman were professing the dangers of fiat money and the advantage of systems of finance that are free from manipulation by central authorities.
+Da [Escola Austríaca de Economia](https://mises.org/topics/bitcoin) muitas das teorias por trás do Bitcoin, incluindo [Sound Money](https://mises.org/library/principle-sound-money), viram sua gestação filosófica. Décadas antes de o Bitcoin ser tecnologicamente concebível, economistas como Ludwig von Mises, Fredreick Hayek e Milton Friedman professavam os perigos do dinheiro fiduciário e a vantagem dos sistemas financeiros livres de manipulação pelas autoridades centrais.
 
-## Properties of Sound Money
+## Propriedades da moeda sólida
 
-Money is the lifeblood that transports energy and information around an economy, which is why well-designed currency is critical for a functional society. It was identified that money must serve three purposes: as a unit of account, a store of value, and a medium of exchange. These three functions are facilitated by several [properties](https://cryptowhat.com/properties-of-sound-money/), which were intentionally engineered into the design of Bitcoin and inherited by ETC:
+O dinheiro é a força vital que transporta energia e informações em uma economia, e é por isso que uma moeda bem projetada é fundamental para uma sociedade funcional. Foi identificado que o dinheiro deve servir a três propósitos: como unidade de conta, reserva de valor e meio de troca. Essas três funções são facilitadas por várias propriedades [](https://cryptowhat.com/properties-of-sound-money/), que foram intencionalmente projetadas no design do Bitcoin e herdadas pela ETC:
 
-- **Divisibility:** ETC is divisible up to 18 decimal places. This means that ETC can be split into 1,000,000,000,000,000,000 smaller units if needed. Denominations of ETC can be written in `wei`, the smallest ETC unit currently available.
-- **Transferability:** Since ETC isn’t tied to any banks or governments, it’s easily transferable across countries and between users on a global scale. This gives ETC an advantage over paper money and precious metals, which aren't as easily transferable across long distances.
-- **Fungibility:** Each ETC is worth precisely what it’s valued at on the market. One ETC won’t have different values based on previous ETC transactions—unlike some currencies where older bills are often worth less than newer ones. This is called fungibility, and it’s a property ETC shares with physical commodities like gold and silver.
-- **Durability:** ETC is incredibly durable. It is ultimately just information, so it can be stored on a computer or in a digital wallet, or even offline on a piece of paper or metal. This makes ETC much more durable than traditional forms of money like paper currency which can be easily destroyed or lost.
-- **Portability:** ETC is highly portable. You can carry it on a thumb drive, phone, write it down on paper, or remember it as a seed phrase.
-- **Scarcity:** ETC has a finite supply that will be released over time. This makes it scarcer than most other forms of currency.
+- **Divisibilidade:** ETC é divisível até 18 casas decimais. Isso significa que o ETC pode ser dividido em 1.000.000.000.000.000.000 unidades menores, se necessário. As denominações de ETC podem ser escritas em `wei`, a menor unidade ETC atualmente disponível.
+- **Transferibilidade:** Como o ETC não está vinculado a nenhum banco ou governo, é facilmente transferível entre países e entre usuários em escala global. Isso dá ao ETC uma vantagem sobre papel-moeda e metais preciosos, que não são tão facilmente transferíveis por longas distâncias.
+- **Fungibilidade:** Cada ETC vale exatamente o que é avaliado no mercado. Um ETC não terá valores diferentes com base em transações ETC anteriores - ao contrário de algumas moedas em que as notas mais antigas geralmente valem menos do que as mais novas. Isso é chamado de fungibilidade e é uma propriedade que a ETC compartilha com commodities físicas como ouro e prata.
+- **Durabilidade:** ETC é incrivelmente durável. Em última análise, são apenas informações, portanto podem ser armazenadas em um computador ou em uma carteira digital, ou mesmo off-line em um pedaço de papel ou metal. Isso torna o ETC muito mais durável do que as formas tradicionais de dinheiro, como papel-moeda, que pode ser facilmente destruído ou perdido.
+- **Portabilidade:** ETC é altamente portátil. Você pode carregá-lo em um pen drive, telefone, anotá-lo no papel ou lembrá-lo como uma frase inicial.
+- **Escassez:** ETC tem um suprimento finito que será liberado com o tempo. Isso o torna mais escasso do que a maioria das outras formas de moeda.
 
-## Known Future Supply
+## Fornecimento futuro conhecido
 
-ETC has all the properties of Sound Money. It’s decentralized, uncensorable, divisible, transferable, fungible, durable and scarce. The cornerstone of a blockchain's sound monetary policy is scarcity via a _known future supply_. Just like Bitcoin, but unlike Ethereum™, Classic has a _fixed emission curve_. A [fixed amount](https://etcis.money/) of ETC created as a block reward for miners, which means that holders of ETC can accurately calculate the total amount of ETC in existence at any point in time.
+ETC tem todas as propriedades do Sound Money. É descentralizado, não censurável, divisível, transferível, fungível, durável e escasso. A pedra angular da política monetária sólida de um blockchain é a escassez por meio de um suprimento futuro conhecido __. Assim como o Bitcoin, mas ao contrário do Ethereum™, o Classic tem uma curva de emissão fixa __. Um valor fixo [](https://etcis.money/) de ETC criado como uma recompensa em bloco para mineradores, o que significa que os detentores de ETC podem calcular com precisão o valor total de ETC existente a qualquer momento.
 
-Ethereum Classic's fixed emission curve was introduced by [ECIP-1017](https://ecips.ethereumclassic.org/ECIPs/ecip-1017). The emission schedule, also known as 5M20, reduces the block reward by 20% every 5,000,000 blocks. Socially, this block reward reduction event has taken the moniker of "The Fifthening."
+A curva de emissão fixa do Ethereum Classic foi introduzida por [ECIP-1017](https://ecips.ethereumclassic.org/ECIPs/ecip-1017). O cronograma de emissão, também conhecido como 5M20, reduz a recompensa do bloco em 20% a cada 5.000.000 de blocos. Socialmente, esse evento de redução de recompensa em bloco recebeu o apelido de "The Fifthening".
 
-| Est. Date      | 5M20 Era | Block       | Block Reward | Total Era Emission     |
-| -------------- | -------- | ----------- | ------------ | ---------------------- |
-| 2015-07-30     | Era 1    | 1           | 5 ETC        | 25,000,000 ETC         |
-| 2017-12-11     | Era 2    | 5,000,001   | 4 ETC        | 20,000,000 ETC         |
-| 2020-03-17     | Era 3    | 10,000,001  | 3.2 ETC      | 16,000,000 ETC         |
-| 2022-04-15     | Era 4    | 15,000,001  | 2.56 ETC     | 12,800,000 ETC         |
-| 2024-05-07     | Era 5    | 20,000,001  | 2.048 ETC    | 10,240,000 ETC         |
-| ~Every 2 Years | N+1      | N+5,000,000 | -20%         | Total ~200,000,000 ETC |
+| Husa. Data     | Era 5M20 | Bloquear    | Bloquear Recompensa | Emissão Total da Era    |
+| -------------- | -------- | ----------- | ------------------- | ----------------------- |
+| 30/07/2015     | Era 1    | 1           | 5 ETC               | 25.000.000 ETC          |
+| 11/12/2017     | Era 2    | 5.000.001   | 4 ETC               | 20.000.000 ETC          |
+| 17-03-2020     | Era 3    | 10.000.001  | 3.2 EPT             | 16.000.000 ETC          |
+| 15/04/2022     | Era 4    | 15.000.001  | 2.56 ETC            | 12.800.000 ETC          |
+| 2024-05-07     | Era 5    | 20.000.001  | 2.048 ETC           | 10.240.000 ETC          |
+| ~A cada 2 anos | N+1      | N+5.000.000 | -20%                | Total ~ 200.000.000 ETC |
 
-_Note: due to fluctuating uncle rate, the exact emission amount will deviate slightly, but not significantly._
+_Nota: devido à flutuação da taxa de tio, a quantidade exata de emissão irá desviar ligeiramente, mas não significativamente._
 
-A _fixed emissions curve_ means that the rate of inflation is predictable, and in the case of ETC, is continually decreasing over time. As the value of the network increases, the value of all ETC increases predictably according to this rate, rather than some unknown future rate that could be much lower. ETC's commitment to a fixed emission curve is enshrined into both the protocol and its social layer, and thanks to Proof of Work, any hard fork that attempts to manipulate inflation will result in a permanent chain split, massively disincentivizing such a change to the point of it being _extremely_ unlikely to be contemplated, let alone be attempted, let alone be successful.
+Uma curva de emissões fixas __ significa que a taxa de inflação é previsível e, no caso da ETC, está diminuindo continuamente ao longo do tempo. À medida que o valor da rede aumenta, o valor de todos os ETC aumenta previsivelmente de acordo com essa taxa, em vez de uma taxa futura desconhecida que pode ser muito menor. O compromisso da ETC com uma curva de emissão fixa está consagrado tanto no protocolo quanto em sua camada social e, graças ao Proof of Work, qualquer hard fork que tente manipular a inflação resultará em uma divisão permanente da cadeia, desincentivando maciçamente tal mudança a ponto de sendo _extremamente_ improvável de ser contemplado, muito menos de ser tentado, muito menos de ser bem-sucedido.
 
-A _known future supply_ not only provides a prosperous alternative to the legacy fiat system, but also a critical sociotechnological role in the blockchains that utilize it as the basis for keeping a project decentralized. The monetary policy of a blockchain is a common agreement that all participants voluntarily engage with. It keeps all parties aligned economically and helps prevent groups from accumulating unfair influence over others. This unwavering neutrality is what keeps all participants on an equal footing.
+Um suprimento futuro conhecido __ não apenas fornece uma alternativa próspera ao sistema fiduciário legado, mas também um papel sociotecnológico crítico nas blockchains que o utilizam como base para manter um projeto descentralizado. A política monetária de um blockchain é um acordo comum com o qual todos os participantes se envolvem voluntariamente. Mantém todas as partes alinhadas economicamente e ajuda a evitar que grupos acumulem influência injusta sobre outros. Essa neutralidade inabalável é o que mantém todos os participantes em pé de igualdade.
 
-Sound money, and it's ability to hold value over time, is a core property of the incentivization mechanisms that encourage participation, as while it does not guarantee that an asset will appreciate, it at least provides a means to calculate future earnings potential given the future growth of a project. It means that holders are guaranteed to benefit fairly from a project's upside.
+Dinheiro sólido e sua capacidade de manter valor ao longo do tempo são uma propriedade essencial dos mecanismos de incentivo que incentivam a participação, pois, embora não garanta que um ativo se valorize, pelo menos fornece um meio de calcular o potencial de ganhos futuros, considerando o futuro. crescimento de um projeto. Isso significa que os detentores têm a garantia de se beneficiarem de forma justa do lado positivo de um projeto.
 
-## Unsound Money
+## Dinheiro inseguro
 
-Be it fiat or cryptocurrencies, redistribution of funds via inflation or currency debasement is one of the oldest tricks in the book for meddling central planners with a misplaced sense of authority. In times of trouble, they inevitably use this mechanism to ensure that when the ship goes down, those who control the keys to the castle will be the first on the life rafts, as they can redistribute whatever dregs of value remain to themselves at the expense of holders of the currency, all in the name of safety and stability, of course.
+Seja fiduciário ou criptomoedas, a redistribuição de fundos via inflação ou desvalorização da moeda é um dos truques mais antigos do livro para intrometer planejadores centrais com um senso de autoridade equivocado. Em tempos difíceis, eles inevitavelmente usam esse mecanismo para garantir que, quando o navio afundar, aqueles que controlam as chaves do castelo sejam os primeiros nos botes salva-vidas, pois podem redistribuir qualquer escória de valor para si mesmos às custas dos detentores da moeda, tudo em nome da segurança e da estabilidade, claro.
 
-This failure state is a type of rugpull that can only exist in projects that are not sufficiently decentralized. The redistribution of value away from holders to some specific group (be it miners, stakers, or developers) can only happen when the [balance of power](/why-classic/decentralism#balancing-power) is uneven, such that some participants can push through changes to the protocol that put their interests before others.
+Esse estado de falha é um tipo de puxão que só pode existir em projetos que não são suficientemente descentralizados. A redistribuição de valor dos detentores para algum grupo específico (sejam mineradores, interessados ou desenvolvedores) só pode acontecer quando o equilíbrio [de poder](/why-classic/decentralism#balancing-power) é desigual, de modo que alguns participantes podem promover mudanças no protocolo que colocam seus interesses antes outros.
 
-The alternative to a _known future supply_ is an _unknown future supply_, leading to an unbounded degree of inflation or currency debasement down the road. In small amounts inflation may be unnoticeable and be drowned out by the day to day volatility of markets, but it nevertheless amounts to a tax on holders of the currency that do not enjoy the immediate benefits of the [Cantillon Effect](https://cointelegraph.com/explained/from-cash-to-crypto-the-cantillon-effect-vs-the-nakamoto-effect).
+A alternativa para uma oferta futura _conhecida_ é uma oferta futura _desconhecida_, levando a um grau ilimitado de inflação ou desvalorização da moeda no futuro. Em pequenas quantidades, a inflação pode passar despercebida e ser abafada pela volatilidade diária dos mercados, mas, no entanto, representa um imposto para os detentores da moeda que não usufruem dos benefícios imediatos do [Efeito Cantillon](https://cointelegraph.com/explained/from-cash-to-crypto-the-cantillon-effect-vs-the-nakamoto-effect).
 
-In extreme cases, chains with a policy of maintaining an _unknown future supply_ can lead to [Zimbabwe-like hyperinflation](https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe), which is an ever-present dark cloud that hangs over all holders of these currencies. Although these projects may not need to turn on the inflation tap today, it may become "necessary" for whatever reason in the future. Be it development funding issues or the [race to the bottom](/why-classic/proof-of-work#the-apr-arms-race) of competing with other chains' Proof of Stake yields, without the precedent of a fixed emission curve, the central organizing committee of such projects can easily conjure up any number of justifications for appropriating value away from holders as the only way for the project to continue.
+Em casos extremos, as cadeias com uma política de manutenção de uma _oferta futura desconhecida_ podem levar a [hiperinflação semelhante ao Zimbábue](https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe), que é uma nuvem negra sempre presente que paira sobre todos os detentores dessas moedas. Embora esses projetos possam não precisar abrir a torneira da inflação hoje, eles podem se tornar "necessários" por qualquer motivo no futuro. Sejam questões de financiamento de desenvolvimento ou a corrida [para o fundo](/why-classic/proof-of-work#the-apr-arms-race) de competir com os rendimentos de Proof of Stake de outras cadeias, sem o precedente de uma curva de emissão fixa, o comitê organizador central de tais projetos pode facilmente invocar qualquer número de justificativas para a apropriação valor longe dos titulares como a única maneira de o projeto continuar.
 
-![A One Hundred Trillion Zimbabwe Dollar Note](./zimbabwedollar.jpg)
+![Nota de cem trilhões de dólares do Zimbábue](./zimbabwedollar.jpg)
 
-Some promoters of cryptocurrencies, perhaps unintentionally, gaslight their fellow holders into believing that the checks and balances provided by _fixed future supply_ are a hindrance, postulating that it is somehow in the financial interests of holders not to have one.
+Alguns promotores de criptomoedas, talvez involuntariamente, incitam seus colegas detentores a acreditar que os cheques e saldos fornecidos por _oferta futura fixa_ são um obstáculo, postulando que, de alguma forma, é do interesse financeiro dos detentores não ter um.
 
-The idea of _ultrasound money_, a synonym of _unsound money_, means that the future supply of a currency is unknown, and while maintainers pinky-promise that it will never be higher than it needs to be, that could be anything from zero to infinity. An _ultrasound_ future supply is subject to tinkering based on an undefined and unpredictable criterion, meaning its central authority reserves the unrestricted right to redistribute funds away from holders in the future.
+A ideia de _dinheiro de ultrassom_, um sinônimo de _dinheiro infundado_, significa que o suprimento futuro de uma moeda é desconhecido e, embora os mantenedores prometam que nunca será mais alto do que o necessário, isso pode ser qualquer coisa, desde zero ao infinito. Um fornecimento futuro de _ultrassom_ está sujeito a ajustes com base em um critério indefinido e imprevisível, o que significa que sua autoridade central se reserva o direito irrestrito de redistribuir fundos para longe dos detentores no futuro.
 
-> Yeah, your boring old car might be safe, but check out this bad boy over here. We removed the breaks and seat belts, so now it's ultrasafe.
+> Sim, seu carro velho e chato pode estar seguro, mas dê uma olhada nesse bad boy aqui. Removemos os freios e os cintos de segurança, agora é ultraseguro.
 > 
-> - Advocates of ~~Ultrasound Money~~ Ultrasafe Vehicles
+> - Defensores do ~~Dinheiro do Ultrassom~~ Veículos Ultraseguros
 
-![Used Car Salesman Explaining Ultrasafe Vehicles](./ultrasafe.jpg)
+![Vendedor de carros usados explicando veículos ultraseguros](./ultrasafe.jpg)
 
-Regrettably, in contrast with Ethereum Classic, perhaps to provide optionality in the future for attracting Proof of Stake collateral, Ethereum™ is one of many cryptocurrency projects that maintains a policy of _unknown future supply_, which in turn means that holders are exposed to the risk of unbounded future inflation.
+Lamentavelmente, em contraste com o Ethereum Classic, talvez para fornecer opcionalidade no futuro para atrair garantias de Proof of Stake, o Ethereum™ é um dos muitos projetos de criptomoeda que mantém uma política de _suprimento futuro desconhecido_, o que, por sua vez, significa que os detentores estão expostos a o risco de inflação futura ilimitada.
