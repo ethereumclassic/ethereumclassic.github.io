@@ -6,11 +6,14 @@ seo: Een overzicht van echte en virtuele Ethereum Classic gerelateerde gebeurten
 contributors:
   - IstoraMandiri
   - bobsummerwill
+  - TheCrowbill
 ---
 
 Magie gebeurt wanneer mensen samenkomen en ideeën delen, en deelnemers in de hele ETC-gemeenschap hebben zich spontaan georganiseerd om real life en online bijeenkomsten te vormen om hun aandacht te richten op het verbeteren van Ethereum Classic.
 
 ## Communautaire oproepen
+
+UPDATE:  Regular, weekly Community Calls are currently on hiatus.
 
 Elke donderdag, meestal om UTC 1500, vindt er een groepsgesprek plaats in de Ethereum Classic [Discord](https://ethereumclassic.org/discord) server. Het gesprek wordt gestreamd naar [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos), maar u kunt ook 1 uur voordat we live gaan, om 1400 UTC, deelnemen om off the record te chatten in de Green Room.
 
