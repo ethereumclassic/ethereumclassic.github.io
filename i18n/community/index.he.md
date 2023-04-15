@@ -1,15 +1,17 @@
 ---
-title: ETC Community
+title: קהילת ETC
 updated: 2022-02-22
-seo: Links to the Channels, Teams and Events that make up the Ethereum Classic community. Get involved!
+seo: קישורים לערוצים, לצוותים ולאירועים המרכיבים את קהילת Ethereum Classic. להתערב!
 ---
 
-Ethereum Classic is something far more than just some lines of code.
+Ethereum Classic הוא משהו הרבה יותר מסתם כמה שורות קוד.
 
-Those lines of code that define the Ethereum Classic protocol have a magical property that, thanks to economic incentives and game theory, enable otherwise totally unrelated individuals to come together and organize far more effectively, peacefully and powerfully than any other organizational structure known today.
+שורות הקוד האלה שמגדירות את פרוטוקול Ethereum Classic הן בעלות תכונה קסומה, שבזכות תמריצים כלכליים ותורת המשחקים, מאפשרות לאנשים אחרים לגמרי לא קשורים להתכנס ולהתארגן בצורה יעילה, שלווה ועוצמתית הרבה יותר מכל מבנה ארגוני אחר המוכר היום.
 
-Limited not by geography, united in vision, and armed with the most powerful techno-socio-economic tools ever invented, they have the potential to revolutionize the world on a global scale.
+מוגבלים לא על ידי גיאוגרפיה, מאוחדים בחזון, וחמושים בכלים הטכנו-חברתיים-כלכליים החזקים ביותר שהומצאו אי פעם, יש להם פוטנציאל לחולל מהפכה בעולם בקנה מידה עולמי.
 
-Ethereum Classic does not just enable, but consists of its community; a highly decentralized, diverse, multi-talented and dedicated collection of individuals and groups from all over the planet. Their mission is to spread the good word of Classic and reinforce its pool of talent so that together, we can [upgrade](/why-classic/code-is-law) the systems of the world.
+Ethereum Classic לא רק מאפשר, אלא מורכב מהקהילה שלה; אוסף מבוזר ביותר, מגוון, רב כשרונות ומסור של יחידים וקבוצות מכל רחבי כדור הארץ. המשימה שלהם היא להפיץ את</a>
 
-Whoever you are, and whatever your skills, you are welcome to join us.
+המערכות בעולם.</p> 
+
+מי שלא תהיה, ולא משנה מה כישוריך, אתה מוזמן להצטרף אלינו.
