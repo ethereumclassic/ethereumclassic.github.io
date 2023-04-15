@@ -1,9 +1,9 @@
 title: Ethereum Klassisch
 seo: "Eine dezentralisierte Computerplattform, auf der intelligente Verträge ausgeführt werden: Anwendungen, die genau wie programmiert ablaufen, ohne Ausfallzeiten, Zensur oder Einmischung Dritter"
 #Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
-metaLocale: en_US
+metaLocale: de_DE
 #Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
-htmlLang: en
+htmlLang: de
 published: Veröffentlicht
 updated: Zuletzt aktualisiert
 author: Autor
@@ -58,6 +58,10 @@ socialItems:
     name: Diskord
   discordCoop:
     name: ETC Coop Diskord
+  twitterEthclassic:
+    name: eth_classic Twitter
+  twitterEtcnetwork:
+    name: ETC_Network Twitter
   githubOrg:
     name: Github
   githubLabs:
@@ -103,3 +107,25 @@ appModal:
   checkListRating: Vertrauenslose Checkliste Level
   warning: "**Warnung:** Diese von Nutzern eingereichte App wurde NICHT überprüft und ist NICHT garantiert sicher; die Nutzung erfolgt auf eigene Gefahr, und Sie sollten immer Ihre eigenen Nachforschungen anstellen!"
   added: Hinzugefügt
+## Tags
+tags: Stichworte
+tagNames:
+  blog: ETC-Blog
+  announcement: Ankündigungen
+  application: Anwendungen
+  development: Entwicklung
+  education: Ausbildung
+  event: Veranstaltungen
+  exchange: Austausch
+  guide: Führer
+  hardfork: Harte Gabeln
+  media: Medien
+  mining: Bergbau
+  podcast: Podcasts
+  teams: Mannschaften
+  trading: Handel
+  wallet: Geldbörsen
+  video: Videos
+  news: Externe Links
+  philosophy: Philosophie
+  series: Serie
