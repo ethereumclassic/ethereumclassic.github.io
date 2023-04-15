@@ -25,10 +25,22 @@ items:
           Classic'e dağıtım yapmanıza yardımcı olacak öğreticiler ve araçlar için [geliştirme kılavuzları] (/guides/development) bölümünün yanı sıra [development](/development) bölümüne göz atın.
       deployment:
         question: Ethereum Classic blok zincirine nasıl dağıtım yapabilirim?
+        answer: |
+          İlk olarak, sözleşmenizi dağıtmak için gazı ödemek üzere bir miktar ETC edinin, ardından Ethereum ağı (Chain ID 1) yerine Ethereum Classic ağına (Chain ID 61) konuşlandırdığınızdan emin olun.
       rpc:
         question: ETC'ye dağıtmak için kullanabileceğim genel RPC uç noktaları var mı?
+        answer: |
+          Evet. Kendi Ethereum Classic düğümünüzü çalıştırmak, senkronize etmek ve bakımını yapmak istemiyorsanız, kullanımı ücretsiz olan bir dizi genel uç nokta vardır.
+
+          [RPC Endpoints](/network/endpoints) bölümüne ve ayrıca [ChainList.org](https://chainlist.org/chain/61) göz atın.
       grants:
         question: Ethereum Classic üzerine inşa etmek için fon alabilir miyim?
+        answer: |
+          Evet. ETC'de gelişmeyi teşvik etmek için bir dizi geçmiş ve şimdiki program vardır.
+
+          Yakın tarihli bir örnek, 2023'te bir ETC hibe programı başlatan [ETC Grants DAO](https://etcgrantsdao.io)'dur.
+
+          Ethereum Classic'in merkezi bir hazinesi olmadığından, projeye yapılan tüm katkılar harici olarak finanse edilir. Buna, zamanlarını bağışlayan katkıda bulunanlar ve üçüncü taraf finansmanından sağlanan mali teşvikler dahildir.
       ecips:
         question: Ethereum Classic protokolünün geliştirilmesine nasıl yardımcı olabilirim?
         answer: |
