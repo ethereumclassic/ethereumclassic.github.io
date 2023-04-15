@@ -1,10 +1,10 @@
 ---
-title: Classic History
+title: היסטוריה קלאסית
 updated: 2022-09-02
 contribute: true
-seo: A historical timeline covering all the major events, the ups and downs, that lead to the current state of affairs in the wonderful world of Ethereum Classic.
+seo: ציר זמן היסטורי המכסה את כל האירועים הגדולים, העליות והמורדות, המובילים למצב העניינים הנוכחי בעולם המופלא של Ethereum Classic.
 ---
 
-The following timeline documents the formative events that created and defined Ethereum Classic, and all major events to the present day.
+ציר הזמן הבא מתעד את האירועים המעצבים שיצרו והגדירו את Ethereum Classic, ואת כל האירועים המרכזיים עד היום.
 
-For a more detailed investigation into the creation of ETC, please check out [Genesis](/why-classic/genesis).
+לחקירה מפורטת יותר על יצירת ETC, אנא עיין ב [בראשית](/why-classic/genesis).
