@@ -1,213 +1,213 @@
 ---
-title: 工作证明
+title: Proof of Work
 updated: 2022-02-22
 disclaimer: opinion
-seo: 论证了为什么权益证明不适合希望实现巨变的区块链的解决方案，以及为什么工作证明是唯一已知的可以达成共识的机制。
+seo: An argument for why Proof of Stake is not a suitable solution for blockchains that wish to deliver monumental change, and why Proof of Work is the only known consensus mechanism that can.
 ---
 
-## 关键点
+## Key Points
 
-- 以太坊经典致力于无限期地留在工作证明上，以追求 _，去中心化最大化_。
-- 工作证明是一种久经考验的共识机制，是目前已知的唯一能提供 _主权级抗审查的机制_。
-- 权证伴随着已知的安全权衡，包括：额外的复杂性、33%的攻击、对金融操纵的脆弱性、赌注保管的集中化、APR军备竞赛、没有什么利害关系、取消检查和平衡，以及富人更富。
-- 坦率地说，使用 "权益证明 "的决定可能是出于经济上的动机，而不是出于对环境的关注。
+- Ethereum Classic is committed to remaining on Proof of Work indefinitely in pursuit of _decentralization maximalism_.
+- Proof of Work is a tried and true consensus mechanism, the only one known to provide _Sovereign Grade Censorship Resistance_.
+- Proof of Stake comes with known security trade-offs, including: additional complexity, 33% attacks, vulnerability to financial manipulation, centralization of staking custody, the APR arms race, nothing at stake, removal of checks and balances, and the rich get richer.
+- Candidly, the decision to use Proof of Stake is likely financially motivated, rather than the given reason of environmental concern.
 
-## 简介
+## Introduction
 
-在技术层面上，Ethereum Classic和它的兄弟姐妹Ethereum™之间最大的区别之一是ETC承诺保持在工作证明上。 有些人可能会认为这是由于缺乏开发、野心或能力来转移到 "更先进的 "权益证明系统，但本节旨在通过解释Ethereum Classic非常有意地决定以去中心化和安全的名义保持工作证明的原因来消除这种神话。
+On a technical level, one of the biggest differentiators between Ethereum Classic and its sibling Ethereum™ is ETC's commitment to remain on Proof of Work. Some might assume that this is due to a lack of development, ambition or ability to move to a "more advanced" Proof of Stake system, but this section aims to dispel that myth by explaining the reasoning behind Ethereum Classic's very intentional decision to stay with Proof of Work in the name of decentralization and security.
 
-## 未来的引擎
+## The Engine of the Future
 
-区块链的共识机制是其引擎。 它是技术基础设施中最关键的部分，所有的安全、价值和效用都依赖于此。 就像发动机一样，如果它停止正常工作，所有依靠它运作的其他系统都会变得毫无用处，或者更糟糕的是，对其用户造成危险。
+A blockchain's consensus mechanism is its engine. It is the most critical piece of technological infrastructure, from which all security, value and utility depends on. Like an engine, if it stops working correctly, all other systems that rely on it functioning become useless, or worse, a danger to its users.
 
-与汽车引擎一样，区块链架构师在设计协议时可以使用不同类型的共识机制。 选择使用哪一种，在很大程度上揭示了 [区块链三难](/why-classic/decentralism#the-blockchain-trilemma) ，哪些属性被认为是优先考虑的。 由于一个链的共识机制非常重要，对于 _Sovereign Grade_ 系统来说，在涉及到设计限制和安全权衡时，它是最不应该被砍掉的东西。
+As with automobile engines, different types of consensus mechanisms are available to blockchain architects when designing a protocol. The choice of which to use reveals much about which attributes in the [Blockchain Trilemma](/why-classic/decentralism#the-blockchain-trilemma) trade-off are considered a priority. As a chain's consensus mechanism is so important, for _Sovereign Grade_ systems, it is the very last thing that should be on the chopping block when it comes to design constraints and security trade-offs.
 
-第一个流行的区块链，比特币，使用工作证明；这是一个相对简单的、久经考验的共识机制，本质上是将电力转换为安全。 工作证明作为区块链执行的共识机制的应用是比特币天才设计中的关键性的最高成就。 它的应用解决了 [拜占庭将军问题](https://en.wikipedia.org/wiki/Byzantine_fault) ，从而为双重消费提供了一个去中心化的解决方案，这一发现使我们所知的区块链技术变得可行。
+The first popular blockchain, Bitcoin, uses Proof of Work; a relatively simple, tried and true consensus mechanism that essentially converts electricity into security. The application of Proof of Work as a consensus mechanism for blockchain execution was the keystone crowning achievement in the genius design of Bitcoin. Its application solved the [Byzantine Generals Problem](https://en.wikipedia.org/wiki/Byzantine_fault) and thus provided a decentralized solution to double spending, a discovery that made blockchain technology as we know it viable.
 
-从经济博弈论的角度来看，工作证明在经验上和理论上都是安全的，使用它的连锁店已经忠实地运作了十多年。 有了足够的哈斯林，PoW链已经显示出即使是强大的民族国家也无法阻挡。 目前，地球上没有任何一方能以常规方式聚集电力和硬件，对比特币的共识机制发起持续的攻击，这使得它具有主权。
+Proof of Work is both empirically and theoretically secure from an economic game theory perspective, and chains using it have been operating faithfully for over a decade. With enough hashrate, PoW chains have shown to be unstoppable even by powerful nation states. Presently, no party on the planet can conventionally muster the electricity and hardware required to launch a sustained attack against Bitcoin's consensus mechanism, which makes it sovereign.
 
-工作证明的设计并不是100%的 "完美"，与所有系统一样，它有一套有限的保证。 最有名的是，工作证明链会受到 *51%的攻击*，以太坊经典已经多次成为受害者，但仍然存在。 在PoW系统中，51%的攻击是一个特点，而不是一个错误，接受它们是一种权衡，以允许客观的计算机可验证的规则，即哪个版本的链应该被认为是 "正确的"；哪个版本的链贡献了最多的hashrate，无论谁贡献了这个hashrate。
+Proof of Work is not designed to be 100% "perfect", and as with all systems, it has a limited set of guarantees. Most famously, Proof of Work chains are subject to *51% attacks*, which Ethereum Classic has fallen victim to on multiple occasions, but persists nonetheless. In PoW systems, 51% attacks are a feature, not a bug, and accepting them is the trade-off required to allow for objective computer-verifiable rules about which version of a chain should be considered "correct"; whichever has the most hashrate contributed to it, regardless of who contributes that hashrate.
 
-我想到了永恒的智慧： _，如果它没有坏，就不要修理它_ ，而且必须有一个严重的重要理由来改变这种状态。
+The timeless wisdom of _if it ain't broke, don't fix it_ comes to mind, and there must be a seriously important reason to change this state of affairs.
 
-## 妥协的共识
+## Compromised Consensus
 
-工作证明的另一种共识机制开始流行，那就是股权证明，它成为许多第二代区块链项目的 "必备功能"。 权益证明不是将电力转化为哈斯勒特和安全，而是被描述为 "虚拟挖矿"，在这里，建立者锁定资本以换取创建区块的能力，并通过这样做要求区块奖励。
+An alternative consensus mechanism to Proof of Work that became popular is Proof of Stake, which became a "must have feature" for many second generation blockchain projects. Instead of converting electricity into hashrate and security, Proof of Stake has been described as "virtual mining", where stakers lock up capital in return for the ability to create blocks, and claim a block reward by doing so.
 
-PoS的主要理由是环保；人们希望PoS能够在不消耗大量能源的情况下提供与PoW相同或更好的安全保证。
+The primary justification for PoS is environmentalism; it was hoped that PoS would be able to provide the same or better security guarantees than PoW without consuming large amounts of energy.
 
-直截了当地讲，"股权证明 "比 "工作证明 "不仅能提供同样的安全保障，而且 _，能源消耗也更少 _，这个想法应该给那些了解 _，没有免费午餐的人敲响警钟_。 但对许多人来说，这个基本的事实能够被随手挥去，因为不同的权益证明系统的跨学科组合创造了一种技术 [gish gallop](https://en.wikipedia.org/wiki/Gish_gallop)，在那里，修复的修复使PoS协议变得越来越复杂和模糊的移动目标，变得难以解开， _免费午餐_ 的神话被偷渡。
+Straight off the bat, the idea that Proof of Stake could provide not just the same but _better_ security guarantees than Proof of Work, with not just the same but _less_ energy expenditure, should have rung alarm bells for those who understand that _there is no such thing as a free lunch_. But for many this essential truth was able to hand-waved away, as the interdisciplinary convolutions of different Proof of Stake systems created a kind of technological [gish gallop](https://en.wikipedia.org/wiki/Gish_gallop), where fixes upon fixes made PoS protocols increasingly complex and obscure moving targets that became difficult to unpack, and the _free lunch_ myth was smuggled along.
 
-没有什么比 "利害关系证明 "的神话更能体现出集权的微妙和阴险。 从表面上看，这是一个高尚的尝试，旨在纠正区块链技术最糟糕的方面，并使其与可持续发展的未来兼容，但仔细观察，这个危险的想法牺牲了技术最自由的品质，以换取不那么高尚的目标。
+Nothing epitomizes the subtle and insidious nature of centralization like the myth of Proof of Stake. On the surface, it is a noble attempt to correct the worst aspects of blockchain technology and make it compatible with a sustainable future, but upon closer inspection, this dangerous idea sacrifices the most liberating qualities of the technology in exchange for less than noble objectives.
 
-在现实中，权益证明的流行不仅有可能浪费时间和资源，而且如果它的采用不受质疑，权益证明可能会谴责未来，因为它是在伪装成中立的捕获系统上运行的；加密货币领域的发展不是为了人类的繁荣，而是为了不断增长的极端精英的权力，牺牲所有人的开放效用。
+In reality, the popularity of Proof of Stake risks not only squandering time and resources, but if its adoption proceeds unchallenged, Proof of Stake could condemn the future to one that operates on captured systems masquerading as neutral; where developments in the cryptocurrency space contribute not towards human flourishing but to the ever-growing power of an ultra-elite, at the expense of open utility for all.
 
-简而言之，"工作证明 "是一个健全的、经过战斗考验的共识机制，它能正确地优先提供产生区块链效用和价值主张的关键品质。 另一方面，"利益证明 "牺牲了这些要素，以换取优先考虑非关键的次要理想，如减少碳排放，或者更真实地讲，为大鲸鱼争取最大的回报。
+In short, Proof of Work is a sound, battle tested consensus mechanism that correctly prioritizes the delivery of the critical qualities that give rise to a blockchain's utility and value proposition. Proof of Stake, on the other hand, sacrifices these elements in return for prioritizing non-critical secondary ideals, such as reducing carbon emissions, or more truthfully, maximizing returns for large whales.
 
-## 安全权衡
+## Security Trade-offs
 
-声称 "权益证明比工作证明更安全"，是一个 "[，甚至没有错](https://en.wikipedia.org/wiki/Not_even_wrong)"的说法，因为 "安全 "的定义有细微差别，以及如何将其与有自己的经济、社会和技术权衡的多个权益证明系统相平衡。
+The claim that "Proof of Stake is more secure than Proof of Work", is a "[not even wrong](https://en.wikipedia.org/wiki/Not_even_wrong)" statement, due to the nuance in the definition of "secure", and how to square this off with the plurality of Proof of Stake systems that have their own economic, social and technical trade-offs.
 
-一个谷歌电子表格不能被攻击51%，但这是否意味着它比比特币 "更安全"？ 这个问题的答案是 "这取决于你对 _安全_"的理解。 就区块链系统而言，正如 [探讨的那样](/why-classic/decentralism)，这取决于是否需要一个强大的、去中心化的、无许可的系统，能够经得起时间的考验，实现 _主权级抗审查_。 对于 _这种_ 种安全性，Google 电子表格比比特币的“安全性”要远，远__，因为它 谷歌可以零努力地接管。
+A Google spreadsheet cannot be 51% attacked, but does this make it "more secure" than Bitcoin? The answer to this is "it depends on what you mean by _secure_". In the case of Blockchain systems, as [explored](/why-classic/decentralism), it depends on whether a robust, decentralized, permissionless system that can stand the test of time and achieve _Sovereign Grade Censorship Resistance_ is needed. For _this_ kind of security, a Google spreadsheet is far, far _less_ "secure" than Bitcoin, as it can be taken over by a single party, Google, with zero effort.
 
-在这个意义上，权益证明很像谷歌电子表格。 由于安全保障不明确，而且难以衡量，即使是技术性很强的用户也不可能看透许多PoS项目的营销主张。 因此，与工作证明系统的明确、良好的理解和不太复杂的保证相比，这些系统的真实性质及其潜在的失败模式被混淆了。
+In this sense, Proof of Stake is much like a Google spreadsheet. Lack of clarity around security guarantees, and the difficulty in measuring them, makes it impossible for even the highly technical users to see past the marketing claims made by many PoS projects. As a result, the true nature of these systems and their potential failure modes is obfuscated, compared with the explicit, well understood, and less complicated guarantees of Proof of Work systems.
 
-由于每个PoS系统都有其独特的缺陷，单独评估它们是不现实的。 不过，与工作证明相比，一些一般性的问题或多或少地适用于所有的权益证明系统，下面将探讨这些问题，以证明链在决定使用PoS而不是PoW时隐含着安全权衡。
+As each PoS system has its unique set of flaws, appraising them individually is impractical. Still, some general problems are more or less applicable to all Proof of Stake systems compared to Proof of Work, which will be explored below to demonstrate that chains implicitly make security trade-offs when they decide to use PoS over PoW.
 
-### 自力更生的安全
+### Self-Referential Security
 
-工作证明的独特之处在于，它可以客观地弥合 "现实世界 "和 "数字世界 "之间的差距，使用计算周期的共同语言，当转换为哈希值时，可以通过软件进行无信任的验证。 使用工作证明(Proof of Work)的区块链依靠来自其系统外的不可伪造的测量值来达成关于其内部状态的共识，以最直接和最有效的方式将能量转化为安全，同时将产生这些测量值的责任卸给外部世界。
+Proof of Work is unique in that it can objectively bridge the gap between the "real world" and the "digital world" using the common language of compute cycles, which, when translated into hashrate, can be verified trustlessly by software. Blockchains that use Proof of Work rely on unforgeable measurements from outside their system to reach consensus about their internal state, converting energy into security in the most direct and efficient way, while offloading the responsibility of generating those measurements to the outside world.
 
-工作证明非常像一个内燃机，它消耗能量并将其转化为有价值的工作，以保障链的安全，激励诚实挖矿，并确保51%的攻击是有代价的。
+Proof of Work is very much like a combustion engine that consumes energy and converts it into valuable work in the form of security for the chain, incentivizing honest mining and ensuring that 51% attacks are costly.
 
-![工作证明引擎](./engine.jpg)
+![Proof of Work Engine](./engine.jpg)
 
-权证区块链不是从其系统外部获取安全，而是通过自我引用自己的状态来保证安全，因此，这些协议搭载了额外的责任、复杂性和攻击面，可能会损害这种安全的产生方式。
+Instead of sourcing security from outside their system, Proof of Stake blockchains are secured by self-referencing their own state, and, as such, these protocols onboard additional responsibilities, complexity, and attack surface that can compromise how this security is generated.
 
-这种安全的自我参照可以被描述为一种打破热力学定律的永动机。 从表面上看，复杂的面纱可能会欺骗观察者，让他们以为它可以长期自我维持，但实际上，一个未被注意到的制约因素意味着它必将在不远的将来陷入停顿。
+This self-referencing of security can be described as a kind of perpetual motion machine that breaks the laws of thermodynamics. On the surface, the veil of complexity may trick observers into assuming it can self sustain for a long period, but in reality, an unnoticed constraint means it is bound to grind to a halt in the not too distant future.
 
-![赌注证明永动机](./overbalance.jpg)
+![Proof of Stake Perpetual Motion Machine](./overbalance.jpg)
 
-### 复杂度和攻击面
+### Complexity and Attack Surface
 
-就像所有的软件系统一样，额外的复杂性为恶意行为者创造了更大的攻击面，使其可以利用和开发，并可能造成灾难性的结果。 在区块链的背景下，区块链既是经济系统，也是软件系统，这个问题更加复杂，许多潜伏在此类系统中的潜在漏洞可能在重大经济价值面临风险时才出现。
+As with all software systems, additional complexity creates a greater attack surface for malicious actors to take advantage of and exploit, with potentially catastrophic results. In the context of blockchains, which are economic as well as software systems, this problem is compounded, and many of the potential exploits that lay dormant in such systems may not appear until a significant economic value is at risk.
 
-区块链中微妙的博弈论错误和漏洞是非常困难的，在某些情况下，在投入生产前不可能识别、测试和消除。 一个主要的防御措施是坚持合理的技术原则： [Keep It Simple, Stupid](https://en.wikipedia.org/wiki/KISS_principle)，当股权证明项目拒绝简单优雅的工作证明而接受更复杂和可利用的替代方案，对网络几乎没有任何实际好处时，就放弃了这个方法。
+Subtle game theory bugs and exploits in blockchains are extremely difficult, in some cases impossible to identify, test and eliminate before going into production. One major defense is adhering to the sound technical principle of [Keep It Simple, Stupid](https://en.wikipedia.org/wiki/KISS_principle), an approach abandoned by Proof of Stake projects when they reject the simple elegance Proof of Work and embrace more complex and exploitable alternatives that offer little to no pragmatic benefit to the network.
 
-### 权力的不平衡
+### Unbalance of Power
 
-正如 [早前探讨的那样](/why-classic/decentralism/#balancing-power)，将矿工从区块链的社会经济模型中移除，就会失去一种重要的调节力量，否则就会防止被捕获；通过威胁否决链上的选择性开采的不良决定，使其他各方保持诚实。 在Proof of Stake链上，投资者和 "矿工"(stakers)是同一个群体，所以这个群体的任何滥用权力行为都相对不受控制，链上很可能倾向于以牺牲其他群体利益的方式进行分叉，如增加赌注奖励。
+As [explored earlier](/why-classic/decentralism/#balancing-power), removing miners from a blockchain's socioeconomic model takes away an important regulating force that would otherwise prevent capture; keeping other parties honest through the threat of vetoing poor decisions by the selective mining of chains. On Proof of Stake chains, investors and "miners" (stakers) are the same group, so any abuse of power by this group remains relatively unchecked, and the chain is likely to tend to fork in ways that benefit this group at the expense of others, such as by increasing staking rewards.
 
-### 钱不是权力
+### Money isn't Power
 
-工作证明网络的最终安全来源是电力和硬件制造分布的结合。 这两种情况都是按地域分布的，新的供应商可以有机地出现。 对于像比特币这样的大型工作证明网络，对网络进行攻击所需的资源是任何世俗组织都无法做到的，包括民族国家，它们要么没有足够的可负担的电力备用，要么无法保证发动攻击所需的硬件。
+The ultimate source of security on Proof of Work networks is a combination of electricity and hardware manufacturing distribution. Both of these are distributed geographically, and new providers can emerge organically. For large Proof of Work networks like Bitcoin, the resources required to muster an attack against the network are outside the means of any worldly organization, including nation states, which either do not have enough affordable electricity going spare or cannot secure the hardware required to mount an attack.
 
-这就是为什么工作证明网络的高能耗并没有被 "浪费"。 相反，高能量的使用是确保网络免受攻击的原因，因为它使这种攻击的成本过高，而且在后勤上不可行。 重要的是，电力资源分布在全球，与金融资源不同，不容易运输，也不可能在一个以地理边界为诉求的民族国家竞争的世界中集中。
+This is why the high energy usage of Proof of Work networks is not "wasted". Instead, the high energy usage is what secures the network against attack by making such attacks prohibitively expensive and logistically impractical. Importantly, electricity sources are distributed globally, and unlike financial resources, are not easy to transport and impossible to centralize in a world of competing nation states that lay claim to geographical boundaries.
 
-由于现代金融武器和网络的价值通过赌注与安全直接挂钩，股权证明链很容易受到一整套经济攻击。 与挖矿硬件和电力不同，资本可以在法币系统中凭空打印出来，只要按一下按钮就可以从全球各地拉来资源。 中央银行和其他可能受到区块链技术威胁的组织可利用的经济杠杆是巨大而复杂的。 与更广泛的经济相比，所有权益证明网络的价值只是很小的一滴，后者拥有大量的流动资本，可以借入、撬动，并由一家公司投入使用。
+Proof of Stake chains are vulnerable to a whole suite of economic attacks thanks to modern financial weaponry and the value of the network being directly tied to security through staking. Unlike mining hardware and electricity, capital can be printed out of thin air in fiat systems and resources can be pulled together from all over the globe at the press of a button. The economic levers available to central banks and other organizations that may be threatened by blockchain technology are vast and sophisticated. The value of all Proof of Stake networks combined is a tiny drop compared to the broader economy, which has massive swathes of liquid capital that can be borrowed, leveraged, and put to use by a single company with a chip on its shoulder.
 
-受到区块链技术威胁的现代金融机构肯定会对权益证明(Proof of Stake)发动经济战争，他们不能只是搞乱价格，而是通过这样做，有可能造成系统的全面崩溃。 通过创建衍生市场和操纵价格，攻击者能够买下网络的投票权，并通过钉子攻击阻碍或破坏达成共识的能力。
+Modern financial institutions threatened by blockchain technology are sure to wage economic war against Proof of Stake, who cannot just mess with the price, but by doing so, potentially cause total system failure. Through the creation of derivative markets and price manipulation, attackers are able to buy up voting rights on the network and hinder or destroy the ability to reach consensus through staking attacks.
 
-### 矿工减员与富人致富的关系
+### Miner Attrition vs The Rich Get Richer
 
-在工作证明系统中，除了持续的电力成本，矿工必须不断地升级硬件，消耗额外的资源以保持竞争力。 这样做的效果是，能够挖矿获利的个人群体在不断变化。 如果一个矿工不善于挖矿，他们最终会失去谋生的能力，因为他们会被其他矿工所淘汰。
+In Proof of Work systems, beyond ongoing electricity costs, miners must continually upgrade hardware, expending additional resources to remain competitive. The effect of this is that the pool of individuals who can mine profitably is constantly shifting. If a miner is bad at mining, they will eventually lose their ability to earn a living, as they are out-competed by other miners.
 
-这对去中心化有好处，因为不断变化的矿工池意味着没有一个矿工能在相当长的时间内掌握网络的重要部分，除非他们通过提供不断增加的哈斯勒姆数量积极为网络的最佳利益工作。 为了实现这一目标，矿工们必须投资于研发、基础设施和扩大业务规模，同时密切关注社会层发生的事情，决定如何平衡权力和开采哪些分叉。
+This is good for decentralization, as a constantly shifting pool of miners means that no one miner can hold on to a significant portion of a network for any significant amount of time unless they are actively working in the best interests of the network by providing ever-increasing amounts of hashrate. To achieve this, miners must invest in research and development, infrastructure, and scaling up operations, all the while paying close attention to happenings in the social layer, deciding how to balance power and which forks to mine.
 
-这一重要的、多方面的作用被从权益证明系统中切除。 相反，取代这种不断斗争的是，特定的造价者能获得多少股权的相对静态分布，在创新或其他外部因素方面的投资很少。 赌徒盈利或亏损多少完全在他们的控制范围内，通过什么都不做，他们可以不断增加自己的赌注，没有被竞争淘汰的风险。
+This vital and multifaceted role is lobotomized from Proof of Stake systems. Instead, replacing this constant struggle with the relatively static distribution of how much stake a given staker has access to, with very little to be gained by investing in innovation or other externalities. How much a staker profits or losses is entirely within their control and by doing nothing they can continuously increase their stack with no risk of being out-competed.
 
-除此之外，由于规模经济、加油费，以及与必须用于日常生活费用的资金相比，在股权证明系统中， _，富者愈富_ ，以更快的速度 __，这使得一个网络的价值分配随着时间的推移向最富有的投保人集中。
+On top of this, due to economies of scale, gas fees, and the proportion of funds that must be staked compared to the funds that must for day to day living costs, in Proof of Stake systems, _the rich get richer_ at a _faster rate_, which centralizes the distribution of a network's value towards the richest stakers over time.
 
-由于没有自然减员来纠正这一趋势，赌注生态系统缺乏营业额，这意味着一个由巨型鲸鱼组成的权力集团在所有赌注证明网络中积累了越来越多的部分，使得它们在中本聪系数接近0时越来越容易被接管。 寻租的权益证明王朝没有理由不延续几代人，因为大赌客将他们越来越大的袋子传给了下一代，使得权益证明网络中的价值和决定获胜分叉的权力被明确抓取，这只是时间问题。
+With no attrition to correct this trend, lack of turnover in the staking ecosystem means that a power-block of mega-whales accumulates an ever-increasing portion of all Proof of Stake networks, making them increasingly susceptible to takeover as the Nakamoto coefficient approaches 0. There is no reason that rent-seeking Proof of Stake staking dynasties don't continue for generations, as big stakers pass their increasingly large bags to the next generation, making it just a matter of time before Proof of Stake networks are explicitly captured as the value in the network and the power to decide winning forks is drawn to the top.
 
-### 不是无许可的
+### Not Permissionless
 
-不出所料，无权限是一种属性，允许新用户在没有已经在该系统中的人的许可下进入该系统。 在其他条件相同的情况下，随着时间的推移，无权限系统可以比有权限系统更加分散，因为它们对新的参与者不加区分地开放。
+Permissionlessness, unsurprisingly, is a property that allows new users to onboard into a system without the permission of someone already in said system. All other things being equal, permissionless systems can be more decentralized over time than permissioned systems, as they are indiscriminately open to new participants.
 
-挖矿，以及反过来说，工作证明是无权限的，因为任何人(或任何东西)都可以向网络贡献哈希值，并有同等机会能够根据他们贡献的哈希值挖出一个区块。 每个哈希值就像一张彩票，购买的彩票越多，找到一个区块并获得甜美的区块奖励的机会就越高。
+Mining, and in turn, Proof of Work, is permissionless, as anyone (or anything) can contribute hashrate to the network and have an equal chance of being able to mine a block based on the hashrate they contribute. Each hash is like a lottery ticket, and the more tickets purchased the higher the chance of finding a block and getting that sweet, sweet block reward.
 
-因为没有守门人，工作证明的共识机制 _，不能_ ，也不能关心 _，如何创建_ hashrate，或者 _，谁贡献了_。 如果一个产业链要保持中立和不被俘获，这是一个基本的品质，因为如果守门人真的存在，他们将能够根据贡献者的身份或位置拒绝作品，把他们锁在外面，并通过这样做，集中和俘获网络。
+Because there are no gatekeepers, Proof of Work consensus mechanisms _can't_ care _how_ hashrate is created, or _who_ contributed. This is an essential quality if a chain is to remain neutral and uncaptured because if gatekeepers did exist, they would be able to reject work based on a contributor's identity or location, locking them out, and by doing so, centralizing, and capturing the network.
 
-权证系统是 _，而不是_ 无权限。 获得交易和入股所需货币的唯一途径是通过 _，从已经拥有上述货币的人那里购买_ ；他们需要 _，从网络内部的人那里获得许可_ ，现有持有人是守门人。
+Proof of Stake systems are _not_ permissionless. The only way to acquire currency needed to transact and stake is by _buying_ it from someone who already has said currency; they need _permission_ from someone inside the network to use the network, with existing holders being the gatekeepers.
 
-从某种意义上说，所有的权益证明网络已经是 _软捕获_，因为PoS币的持有者可以集体决定(或被胁迫)停止与某些特定阶层或管辖区的用户进行交易，而这些用户无论愿意支付什么价格，都没有办法在网络上进行交易。
+In a sense, all Proof of Stake networks are already _soft captured_, as holders of PoS coins could collectively decide (or be coerced) to stop trading with users from some particular class or jurisdiction, and these users have no way to make transactions on the network regardless of the price they are willing to pay.
 
-以一个来自欠发达或孤立国家的人为例，他们几乎没有能力进行美元交易；由于无法进入银行系统，因此无法通过交易所上岗，而且在他们的地区没有人愿意进行现金的场外交易，他们总是可以通过简单地购买一些硬件来挖掘工作证明货币。 同样的用户被锁定在权益证明区块链之外，使这些网络的可访问性、实用性和价值降低。
+Take the example of a person from a less developed or isolated nation with little to no ability to transact in dollars; without access to the banking system, and thus onboarding through exchanges, and with nobody willing to do an OTC deal in cash in their area, they can always acquire Proof of Work currencies by simply purchasing some hardware to mine it. This same user is locked out of Proof of Stake blockchains, making those networks less accessible, less useful, and less valuable.
 
-### 交易所押注的集中化
+### Centralization of Staking on Exchanges
 
-_在运行节点和手动押注时，高技术门槛和_ ，害怕搞砸，这使得加密货币领域的绝大多数临时持有者无法企及，所以几乎所有的人都可能使用第三方服务，通常是交易所，来押注。
+The high technical barrier and _fear of messing up_ when running a node and manually staking makes it out of reach for the vast majority of casual holders in the crypto space, so almost all are likely to use third party services, usually exchanges, to stake.
 
-严格来说，从用户体验的角度来看，在交易所设赌是更好的。 它的额外好处是允许用户即时解押资金而不受罚，因为大量过剩的流动性使交易所能够代表用户套利大多数Proof of Stake链所规定的锁定期。
+Staking on exchanges is strictly better from a user experience perspective. It has the additional benefit of allowing users to instantly unstake funds with no penalty, as a large excess liquidity enables exchanges to arbitrage the lock-up period that most Proof of Stake chains impose, on behalf of users.
 
-其结果是，对于大多数股权证明区块链来说，交易所将，而且可能已经在处理绝大部分的赌注活动。 这严重破坏了这些项目的权力下放的假象，并使产业链被抓住的可能性大大增加。
+The result is that for most Proof of Stake blockchains, exchanges will, and probably already do, handle the vast majority of a staking activity. This seriously undermines the illusion of decentralization on these projects and makes the capture of the chain far more likely.
 
-为了说明这一点，请考虑以下合理的情况。
+To illustrate, consider the following plausible scenario:
 
-如果一个 "不受欢迎的 "应用在大量的Proof of Stake链上运行，一个政府或强大的跨国组织可以迫使其管辖的所有交易所同时冻结该链的资金。 假设他们之间持有一定门槛的赌注资产，这部分赌注可以用来停止网络或强制通过未来的硬分叉，对链子进行赎金，并审查他们想要的任何应用程序。
+If an "undesirable" application is operating on a large Proof of Stake chain, a government or powerful multinational organization could compel all exchanges under their authority to simultaneously freeze the funds of that chain. Assuming they hold a certain threshold of staked assets between them, this portion of the stake could be used to either halt the network or force through future hard forks, holding the chain to ransom and censoring whichever applications they desire.
 
-在 "工作证明 "中，由于关注点的分离，以及电力来源在地理上的分散性，这种攻击是不可能的。
+In Proof of Work, this kind of attack is impossible thanks to the separation of concerns and the geographically decentralized nature of electricity sources.
 
-### APR军备竞赛
+### The APR Arms Race
 
-权证链相互竞争流动的权证资本，与束缚于特定算法的挖矿硬件不同，权证资本可以通过公开市场的交易在 _所有_ PoS链之间自由流动。 这意味着，随着时间的推移，所有的Proof of Stake连锁店都将面临增加赌注奖励的压力，反过来也是通货膨胀率，以吸引足够的赌客在其连锁店上赌注。 因此，"竞合 "可能会吞噬所有的利益链证明，因为它们进入了一个不断增长的 _APR军备竞赛_。
+Proof of Stake chains compete with each other for liquid staking capital that, unlike mining hardware that is bound to specific algorithms, can freely move between _all_ PoS chains by trading in open markets. This means that over time, all Proof of Stake chains will be under pressure to increase staking rewards, and in turn inflation rates, to entice enough stakers to stake on their chain. As a result, a "race to the bottom" is likely to engulf all Proof of Stake chains, as they enter into an ever-increasing _APR arms race_.
 
-例如，如果连锁店A提供12%的押注奖励，那么押注者为什么要押注连锁店B的3%的奖励，因为他们可以简单地押注A，并将这些奖励卖给B，最后得到的B比直接押注B要多？ 这迫使连锁店B增加他们的奖励，然后鼓励A也这样做，以此类推。
+For example, if Chain A offers a 12% staking reward, why would stakers stake Chain B's 3% reward, when they could simply stake A and sell those rewards for B, ending up with more B than they would by staking B directly? This forces chain B to increase their reward, which then encourages A to do the same, and so on.
 
-这种情况对大额赌客来说是个好消息，但对那些有相对较大部分资金没有赌注来使用网络的用户来说就很糟糕了，他们仅仅因为没有赌注就要被征收高昂的费用。 从长远来看，这种情况如何发展是不可知的，但它有可能损害所有PoS网络的效用和价值，导致一个日益贬值的死亡漩涡。
+This situation is great news for large stakers, but terrible for users who have a relatively larger portion of their funds not staked to use the network, and will be taxed exorbitant fees for simply not staking. How this plays out in the long run is unknowable, but it risks damaging the utility and value of all PoS networks, leading to a death spiral of ever-increasing debasement.
 
-### 33%的攻击
+### 33% Attacks
 
-如果攻击者获得33%的赌注资产，必然少于所有硬币的33%，那么赌注证明链就会永久中断。
+Proof of Stake chains can be permanently disrupted if an attacker acquires 33% of staked assets, necessarily less than 33% of all coins.
 
-> 因此，如果平均PoS协议有70%以上的代币被抵押，那么你需要获得该协议总流通代币的~25%来发动攻击。 虽然每个PoS都不一样，但33%一般只够停止链子，使其无法达成共识并产生新的区块，而不是真正进行双重消费。 为此，你需要一个高达66%的比例。
+> So if the average PoS protocol has 70%+ of it’s tokens staked, you’d need to acquire ~25% of the protocol’s total outstanding tokens to launch an attack. Although every PoS is different, 33% is generally only enough to halt the chain so it can’t come to consensus and produce new blocks, not to actually perform a double spend. For that you’d need a whopping 66%.
 > 
-> - [维克多-布宁](https://viktorbunin.medium.com/proof-of-stakes-security-model-is-being-dramatically-misunderstood-4ed7b19ca419)
+> - [Viktor Bunin](https://viktorbunin.medium.com/proof-of-stakes-security-model-is-being-dramatically-misunderstood-4ed7b19ca419)
 
-有些人认为，没有 _直接_ 经济动机来造成这样的攻击，因为攻击者有贬值他们所持股份的风险，这可能是真的，但这也是承认股权证明链很容易通过 _间接_ 经济动机(如做空)而导致33%的停止。 更重要的是，PoS链很容易受到来自民族国家等行为者的33%的攻击，其中经济激励不是主要动机，这表明 _主权级审查制度的阻力_ ，不是一个值得关注的对象。
+Some argue that there is no _direct_ economic incentive to cause such an attack because the attacker risks devaluing their holdings, which may be true, but this is also an admission that Proof of Stake chains are susceptible to 33% halting via _indirect_ economic incentives such as shorting. More importantly, PoS chains are susceptible to 33% attacks from actors such as nation states, where financial incentives are not the primary motivation, suggesting that _Sovereign Grade Censorship Resistance_ is not an object of concern.
 
-### 永远的纯洁的Pwnage
+### Perpetually Pure Pwnage
 
-权证的 _33%的攻击_ ，比工作证明的 _51%的攻击_，后者不是永久性的，因为它有一个持续的外部电力成本，使他们持续执行的成本不实际。 此外，由于51%的攻击有前期成本，而且与33%的攻击不同，不能保证成功，所以执行这些攻击的动力就会减弱，更不用说前期的持续成本。
+Proof of Stake's _33% attack_ is a much bigger problem than Proof of Work's _51% attack_, the latter of which is not permanent as it has an ongoing external electricity cost, making them impractically expensive to perform for sustained periods. Moreover, because 51% attacks have an up front cost and are, unlike 33% attacks, not guaranteed to be successful, there is diminished incentive to perform them, let alone front the cost of persisting them.
 
-虽然工作证明系统中51%的攻击可能具有破坏性，但它们只真正直接影响那些暴露于双重消费的人；主要是交易所，而不是不经常交易的长期持有人。 相比之下，33%的攻击可以在PoS网络上永久地停止链。
+While 51% attacks in Proof of Work systems can be damaging, they only really directly affect those who are exposed to double spends; mostly exchanges, and not long term holders who do not transact frequently. In contrast, 33% attacks can halt the chain in perpetuity on PoS networks.
 
-在PoS链上，一旦攻击者达到一定的股权门槛，该链就永远无法恢复；由于攻击者不需要投入外部资源，他们就无法被解除。 解决这种失败状态的唯一办法是硬分叉掉攻击者，这破坏了 _《代码是法律》_，违背了拥有区块链的目的，增加了主观性，并进一步集中了链。
+On PoS chains, once an attacker achieves a certain threshold of stake, the chain can never recover; as the attacker does not need to commit external resources, they cannot be unseated. The only solution to this failure state is hard-forking away the attacker, which breaks _Code is Law_, defeats the purpose of having a blockchain, adds subjectivity, and further centralizes the chain.
 
-### 没有什么利害关系
+### Nothing at Stake
 
-在工作量证明中，如果发生分叉，矿工必须决定在分叉的哪一边挖矿，因为创建区块会有外部电力成本。 如果矿工开采了 "错误的 "分叉，他们的奖励将变得毫无价值，而且他们浪费了开采的电力，所以他们必须明智地选择开采的内容；这关系到 _的电力成本_。
+In Proof of Work, if a fork occurs, miners have to decide which side of a fork to mine as there is an external electricity cost associated with the creation of blocks. If miners mine the "wrong" fork, their reward will become valueless, and they will have wasted the electricity spent mining it, so they must choose what to mine wisely; there is the _cost of electricity_ at stake.
 
-相反，在Proof of Stake上，如果发生分叉，作为系统内部状态的一部分，被分叉的资源会被分割，并被加倍。 造币商在分叉的两边都有相等的资产，并被激励去验证两边，因为他们不确定哪边会占上风。 这就是所谓的 [无关紧要的问题](https://medium.com/coinmonks/understanding-proof-of-stake-the-nothing-at-stake-theory-1f0d71bc027)。 这可能会鼓励分叉，因为它使执行分叉的成本和风险更低，使通过分叉的诡计攻击链变得更容易，并使达成关于哪一方是 "真正 "版本的共识变得复杂。
+In contrast, on Proof of Stake, if a fork happens, the staked resources, being part of the system's internal state, are split across the fork and are doubled. Stakers have equal assets on both sides of a fork and are incentivized to validate both sides, as they are unsure which side will prevail. This is known as the [nothing at stake problem](https://medium.com/coinmonks/understanding-proof-of-stake-the-nothing-at-stake-theory-1f0d71bc027). It is likely to encourage forks by making it cheaper and less risky to perform fork, making it easier to attack chains through fork-based shenanigans, and complicating reaching consensus about which side of a split is the "true" version.
 
-人们通常声称， _slashing_ 的概念是对一无所获问题的一种解决方案，这种技术使用加密证明来惩罚验证分裂的 "错误 "一方的立碑人。 这一切都很好，但只有当分叉运行的协议能够验证对方的证明时，砍掉才会起作用。
+It is commonly claimed that the concept of _slashing_ is a solution to the nothing at stake problem, a technique that uses cryptographic proofs to punish stakers that validate the "wrong" side of a split. This is all well and good but slashing only works when forks are running protocols that can validate each other's proofs.
 
-攻击者可以推动一个有争议的硬分叉，故意让分叉的割裂证明在旧版本的链上无效，可选择让反向不真实，重新引入无所谓的问题，同时鼓励验证者验证两个链，播种混乱，分裂网络的价值。
+An attacker could push for a controversial hard fork that intentionally made the fork's slashing proof invalid on the old version of the chain, optionally making reverse untrue, and re-introducing the nothing at stake problem while encouraging validators to validate both chains, sowing chaos and splitting the value of the network.
 
-与恶意的工作证明分叉不同，矿工们会浪费电力去挖新的分叉，而这个新的权益证明分叉的验证者不仅可以验证它，因为没有任何利害关系，而且有动力这样做，因为它很可能最终成为胜利的链条--未来唯一有价值的一方。
+Unlike a malicious Proof of Work fork where miners would waste electricity mining the new fork, validators on this new Proof of Stake fork not only might as well validate it, as there is nothing at stake, but are incentivized to do so as it could well end up being the winning chain - the only side that has value in the future.
 
-### 中断的争端解决
+### Disrupted Dispute Resolution
 
-另外，假设分裂的双方 _，确实_ ，承认对方的砍价证明，那么链上就有一个不同的问题：解决合法的意见分歧，这将导致工作证明网络上的链分裂。
+Alternatively, assuming that both sides of a split _do_ recognize each other's slashing proofs, the chain then has a different problem: the resolution of legitimate differences in opinion that would result in chain split on Proof of Work networks.
 
-以太坊经典本身就是工作证明链的 "终极争端解决机制 "的一个很好的例子，这一点在 [Ethereum.org网站](https://ethereum.org/en/governance/#dao-fork)。
+Ethereum Classic itself is an excellent example of the "ultimate dispute resolution mechanism" of Proof of Work chains, as explained no better than on the [Ethereum.org website](https://ethereum.org/en/governance/#dao-fork).
 
-虽然在很大程度上取决于协议的实施细节，但总的来说，权益证明改变了硬分叉的动态，有利于多数人的分叉，而不是劣势者的分叉，在许多情况下，简单地破坏了劣势链，迫使他们在不同意有争议的分叉时硬分叉到一个新协议。
+While heavily dependent on implementation details of the protocol, in general, Proof of Stake changes the dynamic of hard forking in favor of the majority stakers over the underdogs, and in many cases simply destroys the underdog chain, forcing them to hard fork to a new protocol if they disagree with a controversial fork.
 
-在工作量证明中，经典链享有维持现状的优势，矿工们不得不主动进行切换到新的分叉，与此不同的是，在权益证明链上，大多数分叉者拥有优势，因为有争议的分叉的遗留方不得不实施自己的防御性硬分叉，以避免被大多数人砍掉。 新分叉享有对旧链上的验证者进行砍伐或不砍伐的选择，优化对落后者的惩罚以获得他们想要的结果，并操纵硬分叉决策的经济性。
+Unlike in Proof of Work, where the classic chain enjoys the advantage of maintaining the status quo and miners having to actively make a switch to a new fork, on Proof of Stake chains, the majority of forkers have the advantage, as the legacy side of a controversial fork has to implement their own defensive hard forks to avoid being slashed by the majority. New forks enjoy the option of either slashing or not-slashing validators on the old chain, optimizing the punishment of laggards to get their desired outcome, and manipulating the economics of a hard fork decision.
 
-_注：以下三条股权证明的批评意见是由 [etherplan.com](https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/)提供的。_
+_Note: The following three Proof of Stake criticisms are courtesy of [etherplan.com](https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/)_
 
-### 主观的叉子选择
+### Subjective fork choice
 
-分叉选择是网络参与者在遇到多个链子时必须使用的决策规则，当它分裂时，当他们第一次加入时，或当他们离开并再次加入时。 作为一个外部物理信号，PoW以 "最长的工作证明链 "的形式实现了明确的客观分叉选择。 它是客观的，因为只有在整个网络的计算能力下，才能建立最长的链条。
+The fork choice is the decision rule network participants have to use when presented with more than one chain when it splits, when they join for the first time, or when they leave and join again. As an external physical signal, PoW enables a clear objective fork choice in the form of the “longest proof of work chain“. It is objective because only with the computing power of the whole network is that the longest chain can be established.
 
-由于PoS系统并不以这样的客观数量来决定正确的链条，它们必须使用参与者的主观决策过程。 这意味着他们需要向链外的区块探索者、开发者、矿工或其他来源咨询，以便能够决定跟随什么链。 在分裂的情况下，这适用于网络中的参与节点、新加入的节点以及离开后再次加入的节点。
+As PoS systems don’t count with such an objective quantity to decide the correct chain, they have to use a subjective decision-making process by the participants. This means they need to consult off chain with block explorers, developers, miners or other sources to be able to decide what chain to follow. This applies, in case of splits, to participating nodes in the network, new entrants, and nodes who leave and join again.
 
-### 难以忘怀的代价
+### Unforgible Costliness
 
-健全的货币的基本物理特征之一是，它的生产成本很高，以保证它不能被伪造。 PoW提供了代币的这种成本性，因为矿工在数据中心和电力方面产生了巨大的成本，以便能够建立区块。 这使得PoW代币，如 $ETC 和 $BTC，在实践中是不可伪造的。
+One of the basic physical features of sound money is that it is very costly to produce to guarantee it can’t be forged. PoW provides this costliness of the tokens as miners incur in huge costs, in data centers and electricity, to be able to build blocks. This makes PoW tokens, as $ETC and $BTC, unforgeable in practice.
 
-客观地验证持有人的BTC或ETC不是伪造的很简单，因为每个区块头中都嵌入了外部客观测量，但这种证明在权益证明系统中并不存在。 在PoS系统中，由于带有账户和余额的数据库是由系统中的节点和建立者编写的，因此不存在客观的成本性，而验证真实性持有量要复杂得多，容易出错，并可能需要昂贵的硬件。
+It is simple to objectively verify that a holder's BTC or ETC is not counterfeit because of an external objective measurement embedded into every block header, but this proof does not exist in Proof of Stake systems. In PoS systems, because the database with accounts and balances is trivial to write by nodes and stakers in the system, there is no objective costliness, and verifying the authenticity holdings is far more complex, error-prone, and potentially requires expensive hardware.
 
-### 积累的工作
+### Accumulated Work
 
-由于PoW区块链中的矿工是按区块工作的，这些工作不仅是不诚实的节点篡改当前或最新区块的障碍，而且这些工作实际上是随着链的建立而积累的。 这意味着埋在链中更远处的区块，对于攻击者来说，改变或伪造的难度成倍增加。 例如，在写这篇文章的时候，以目前比特币网络中100%的哈希运算能力，需要340天才能逆转整个链条。
+As miners in PoW blockchains work on a block by block basis, that work is not only a barrier for dishonest nodes to tamper with the current or latest blocks, but that work actually accumulates as the chain is built. This means blocks that are buried further away in the chain become exponentially more difficult for attackers to change or forge. For example, at the time of this writing, it would take 340 days with 100% of the current hashing power in the Bitcoin network to be able to reverse the entire chain.
 
-在PoS分布式账本中，因为不使用PoW，要逆转整个链子的计算工作是微不足道的，所以可以在几分钟内完成。
+In PoS distributed ledgers, because they don’t use PoW, to reverse the entire chain is trivial in terms of computational work, so it can be done in a few minutes.
 
-## 酒店毛巾
+## Hotel Towels
 
-即使从表面上看权益证明的环保主义论点，很明显，PoS要求链上的人牺牲许多安全保障，否则工作证明就会提供。 证明桩链以抵制审查制度为代价，换取更少的能源消耗的承诺。 除了营销噱头之外，在务实地评估区块链与其他可用技术相比的责任和效用时，这种权衡似乎没有什么意义。 毕竟，没有免费的午餐。
+Even if the environmentalist argument for Proof of Stake is taken at face value, it is clear that PoS requires chains to sacrifice many security guarantees otherwise provided by Proof of Work. Proof of Stake chains trade away censorship resistance in return for the promise of less energy consumption. Aside from marketing gimmicks, this trade-off seems to make little sense when pragmatically evaluating the responsibility and utility of blockchains compared to other available technologies. There is no free lunch, after all.
 
-但当环保主义者的主张被 _，而不是_ 照单全收时，选择使用 "利害关系证明 "就开始有意义了。 就像酒店要求客人重复使用毛巾以 "拯救地球 "一样，PoS环保主义者的立场恰好也使上述货币的持有者获益，他们可以通过押注产生被动收入。 在他们眼里，赌注允许他们获得提供与矿工相同的服务的回报；"虚拟挖矿"，除了锁定赌注的机会成本外，几乎没有其他支出。
+But when the environmentalist claim is _not_ taken at face value, the choice to use Proof of Stake starts to make sense. Much like a hotel that requests that guests reuse towels to "save the planet", the PoS environmentalist position is conveniently one that also happens to enrich the holders of said currencies, who can generate passive income by staking. In their eyes, staking allows them to reap the rewards of providing the very same service that miners would otherwise provide; "virtual mining" with next to no expense other than the opportunity cost of locking up stake.
 
-不管是出于好意还是其他原因，这种巨大的经济激励解释了为什么尽管有上面探讨的安全降级，也难怪PoS成为加密货币持有者中如此受欢迎的选择，并成功招募了许多狂热的推广者。
+Well-intentioned or otherwise, this massive economic incentive explains why despite the security downgrades explored above, it is no wonder that PoS became such a popular choice among cryptocurrency holders and has managed to recruit many avid promoters.
 
-> 证明桩就像酒店要求你重复使用毛巾以拯救地球。 表面上看是出于高尚的目的，但实际上是在为他们赚钱，给你提供更差的服务。
+> Proof of Stake is like the hotel asking you to reuse towels to save the planet. On the surface it's for noble intentions, but in reality it's making them money and giving you a worse service.
 
-对于所有已知的缺点，仍然选择股权证明的项目必须要么是 _，要么是对能源使用极为关注，或者可能更可信的是，他们主要关注的是股权证明将在经济上使投票人受益。 然而，这种担忧本身是被误导的，因为一个项目只有在提供效用的情况下才会有长期的价值，而权益证明所需的集中化和权衡则削弱了这种价值。
+For all the known downsides, the projects that nevertheless opt for Proof of Stake must either be _extremely_ concerned about energy usage, or possibly more believably, are primarily concerned that staking will economically benefit stakers. However, this concern itself is misguided, as a project can only have long term value if it provides utility, which is undermined by the centralization and trade-offs necessitated by Proof of Stake.
 
-可能这类硬币的持有者认为他们正在提供与挖矿相当的服务，但他们并没有像挖矿那样将外部现实世界的支出转化为安全利益。 相反，他们正在 _，在泰坦尼克号上洗牌，_ ，通过通货膨胀向非制造者征税，将价值从网络中的其他地方重新分配给自己。
+It may be that holders of such coins believe they are providing a comparable service to mining, but they are not converting an external real world expense into a security benefit, as with mining. Instead, they are _shuffling deck chairs on the Titanic_ by redistributing value from elsewhere in the network to themselves by taxing non-stakers through inflation.
 
-在任何情况下，由于权益证明系统需要固有的权衡，这又一次表明， _主权级抗审查_ ，不是这些链上的优先事项。 因此，不能推荐它们用于有可能破坏强大机构的部署。
+In any case, because of the inherent trade-offs required in Proof of Stake systems, it is yet another sign that _Sovereign Grade Censorship Resistance_ is not a priority on these chains. As such, they cannot be recommended for deployments that have the potential to disrupt powerful institutions.
