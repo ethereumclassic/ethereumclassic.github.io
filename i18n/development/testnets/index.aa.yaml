@@ -1,9 +1,9 @@
 title: crwdns66614:0crwdne66614:0
-__updated: 2022-02-22
+__updated: crwdns108755:0crwdne108755:0
 __contribute: 1
 seo: crwdns108541:0crwdne108541:0
 description: |
-  crwdns66622:0[Kovan]crwdne66622:0
+  crwdns108757:0[Discord]crwdnd108757:0[chainlist.org]crwdnd108757:0[Kotti]crwdnd108757:0[Mordor]crwdne108757:0
 __contributors:
   - gitr0n1n
   - IstoraMandiri
@@ -53,30 +53,6 @@ items:
         __type: testnet
         __networkId: 7
         __link: https://github.com/eth-classic/mordor
-        __faucet: 'https://easy.hebeswap.com/#/faucet'
-        __consensusAlgo: pow
-        __miningAlgo: Etchash
-      Testnet Astor:
-        __name: Astor
-        __type: experimental
-        __link: https://astor.host/
-        __consensusAlgo: pow
-        __miningAlgo: Keccak256
-      Testnet Helmsdeep:
-        __name: Helmsdeep
-        __type: experimental
-        __link: https://github.com/chippr-robotics/chippr-bots/tree/staging/packages/testnets/helmsdeep
-        __consensusAlgo: pow
-        __miningAlgo: Etchash
-      Testnet Keccak Besu:
-        __name: Keccak Besu
-        __type: experimental
-        __link: https://github.com/whiteblock/keccak-besu-testnet
-        __consensusAlgo: pow
-        __miningAlgo: Keccak256
-      Testnet Sagano:
-        __name: Sagano
-        __type: experimental
-        __link: https://docs.mantisclient.io/first-steps/client-quickstart
+        __faucet: crwdns108759:0crwdne108759:0
         __consensusAlgo: pow
         __miningAlgo: Etchash
