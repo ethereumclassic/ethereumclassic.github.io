@@ -64,8 +64,6 @@ socialItems:
     name: ETC Labs Github
   reddit:
     name: Reddit
-  twitter:
-    name: Twitter
 appTypes:
   finance:
     name: Οικονομικά
