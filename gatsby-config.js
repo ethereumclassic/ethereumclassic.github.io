@@ -57,11 +57,10 @@ module.exports = {
       resolve: "gatsby-plugin-algolia",
       options: require("./configs/search"),
     },
-    // TODO enable after generating locales
-    // {
-    //   resolve: "gatsby-plugin-feed",
-    //   options: require("./configs/rss")({ locales, defaultLocale, siteUrl }),
-    // },
+    {
+      resolve: "gatsby-plugin-feed",
+      options: require("./configs/rss")({ locales, defaultLocale, siteUrl }),
+    },
     {
       resolve: "gatsby-source-filesystem",
       options: {
