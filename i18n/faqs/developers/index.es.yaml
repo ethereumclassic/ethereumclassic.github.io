@@ -1,12 +1,12 @@
 title: Preguntas frecuentes de los desarrolladores
 seo: Preguntas frecuentes para aquellos que quieren contribuir o crear aplicaciones en Ethereum Classic.
-info: "¿No encuentra respuesta a su pregunta aquí? Prueba a preguntar en el servidor de la comunidad ETC [discord](https://ethereumclassic.org/discord). En concreto, puede que te interese el canal `#dev-general` de ETC Discord."
-description: "¿Quieres aprender a construir una aplicación o protocolo sobre Ethereum Classic? Esta página es para ti."
+info: '¿No encuentra respuesta a su pregunta aquí? Prueba a preguntar en el servidor de la comunidad ETC [discord](https://ethereumclassic.org/discord). En concreto, puede que te interese el canal `#dev-general` de ETC Discord.'
+description: '¿Quieres aprender a construir una aplicación o protocolo sobre Ethereum Classic? Esta página es para ti.'
 items:
   questions:
     items:
       types:
-        question: "¿Qué tipo de aplicaciones puedo crear en el ETC?"
+        question: '¿Qué tipo de aplicaciones puedo crear en el ETC?'
         answer: |
           Como ETC utiliza el EVM de turing completo, cualquier tipo de sistema de contrato inteligente puede desplegarse en ETC; desde Multisigs, hasta DeFi, pasando por NFTs, hasta donde sus sueños puedan llevarle. Cualquier aplicación que pueda desplegarse en Ethereum también puede desplegarse en Ethereum Classic.
 
@@ -14,27 +14,27 @@ items:
 
           Para ver algunos ejemplos de aplicaciones que se han desplegado en Ethereum Classic, consulte la sección [apps](/services/apps).
       eth:
-        question: "¿Cuál es la diferencia entre ETH y ETC a la hora de escribir aplicaciones?"
+        question: '¿Cuál es la diferencia entre ETH y ETC a la hora de escribir aplicaciones?'
         answer: |
           No hay ninguna diferencia a la hora de escribir contratos; puedes utilizar las mismas herramientas para desarrolladores y el mismo lenguaje de programación (en particular, Solidity) que utilizarías con Ethereum.
 
           La principal diferencia con Ethereum es que ETC tiene un ecosistema de aplicaciones diferente, por lo que los contratos desplegados existentes con los que puedes interactuar directamente son diferentes. Si necesita conectarse a un activo existente en Ethereum, podría utilizar un activo envuelto, [puentes de cadena cruzada] (/servicios/aplicaciones/interoperabilidad), o incluso podría considerar el despliegue de su propia versión de estos activos.
       development:
-        question: "¿Cómo puedo desarrollar aplicaciones para Ethereum Classic?"
+        question: '¿Cómo puedo desarrollar aplicaciones para Ethereum Classic?'
         answer: |
           Consulta la sección [guías de desarrollo](/guides/development), así como la sección [development](/development) para ver tutoriales y herramientas que te ayudarán a desplegar en Classic.
       deployment:
-        question: "¿Cómo se despliega en la blockchain de Ethereum Classic?"
+        question: '¿Cómo se despliega en la blockchain de Ethereum Classic?'
         answer: |
           Primero, adquiera algo de ETC para pagar el gas para implementar su contrato, luego simplemente asegúrese de implementarlo en la red Ethereum Classic (ID de cadena 61), en lugar de la red Ethereum (ID de cadena 1).
       rpc:
-        question: "¿Existen puntos finales RPC públicos que pueda utilizar para desplegar en ETC?"
+        question: '¿Existen puntos finales RPC públicos que pueda utilizar para desplegar en ETC?'
         answer: |
           Sí. Si no desea ejecutar, sincronizar y mantener su propio nodo Ethereum Classic, hay varios puntos finales públicos disponibles que son de uso gratuito.
 
           Consulte la sección [RPC Endpoints](/network/endpoints), así como [ChainList.org](https://chainlist.org/chain/61).
       grants:
-        question: "¿Puedo obtener financiación para construir en Ethereum Classic?"
+        question: '¿Puedo obtener financiación para construir en Ethereum Classic?'
         answer: |
           Sí. Hay una serie de programas pasados y presentes para fomentar el desarrollo de ETC.
 
@@ -42,6 +42,6 @@ items:
 
           Dado que Ethereum Classic no tiene una tesorería centralizada, todas las contribuciones al proyecto se financian externamente. Esto incluye colaboradores que donan su tiempo e incentivos financieros de fondos de terceros.
       ecips:
-        question: "¿Cómo puedo ayudar al desarrollo del protocolo Ethereum Classic?"
+        question: '¿Cómo puedo ayudar al desarrollo del protocolo Ethereum Classic?'
         answer: |
           Puedes presentar propuestas de actualización de protocolos a través del proceso [ECIP](/development/ecips). Puedes ayudar a mantener las bases de código de los clientes visitando los repositorios de GitHub de [clients](/desarrollo/clientes) en los que te gustaría ayudar.

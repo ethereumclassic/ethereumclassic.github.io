@@ -329,7 +329,7 @@ Como resultado da divisão da cadeia, todos os endereços que continham Ether an
 
 Durante esses primeiros dias de descoberta de preços, muitos pro-forkers estavam ansiosos para vender seu ETC "sem valor" a taxas ridiculamente baixas, despejando grandes quantidades de ETC sob a suposição de que era uma "corrida para o fundo" de um mercado moribundo, empurrando o preço para um valor tão baixo quanto 0,01 ETH por ETC. Isso pode ter causado preocupação temporária, mas permitiu que os apoiadores da ETC com mãos de diamante fechassem alguns negócios únicos na vida.
 
-Isso cresceu em um frenesi de vendas no mercado com forkers proeminentes alegando que a venda de seu ETC era "dinheiro grátis". Para eles, foi uma negociação sem custo, pois a ETC não tinha valor, mas, na realidade, eles participaram de um dos eventos de redistribuição baseados no mercado mais justos de criptomoedas de todos os tempos. O ETC "sem valor" foi transferido essencialmente de graça dos ardentes pró-forkers para aqueles que viam um futuro na Lei</em>do Código _, no que pode ser reconhecido hoje como uma "Redistribuição Ultrafair".</p>
+Isso cresceu em um frenesi de vendas no mercado com forkers proeminentes alegando que a venda de seu ETC era "dinheiro grátis". Para eles, foi uma negociação sem custo, pois a ETC não tinha valor, mas, na realidade, eles participaram de um dos eventos de redistribuição baseados no mercado mais justos de criptomoedas de todos os tempos. O ETC "sem valor" foi transferido essencialmente de graça dos ardentes pró-forkers para aqueles que viam um futuro na Lei do Código, no que pode ser reconhecido hoje como uma "Redistribuição Ultrafair".
 
 ![Descoberta de preços ETC pós-fork, com pico de 0,4 ETH/ETC](./polo.png)
 
@@ -412,7 +412,7 @@ Como os projetos de blockchain podem evitar desastres semelhantes no futuro? For
 
 ### Código é Lei?
 
-Para o leigo, o Ethereum™ ainda se comercializa em contratos inteligentes e na ideia de que seu código deve ser o árbitro final das interações contratuais. "Build Unstoppable Applications" foi o principal slogan da Ethereum.org até 2019, muitos anos depois que o contrato DAO foi interrompido. A realidade clara é que a utilidade do Contrato Inteligente depende do cumprimento da Lei</em> do Código _, caso contrário, eles podem ser censurados arbitrariamente por forças externas.</p>
+Para o leigo, o Ethereum™ ainda se comercializa em contratos inteligentes e na ideia de que seu código deve ser o árbitro final das interações contratuais. "Build Unstoppable Applications" foi o principal slogan da Ethereum.org até 2019, muitos anos depois que o contrato DAO foi interrompido. A realidade clara é que a utilidade do Contrato Inteligente depende do cumprimento da Lei do Código, caso contrário, eles podem ser censurados arbitrariamente por forças externas.
 
 No entanto, a história do Ethereum™ sugere uma relação questionável com o conceito de imparabilidade e _Code is Law_. A contradição direta desse conceito no passado do Ethereum™ significa que o projeto está agora em uma posição esquizofrênica onde é simultaneamente a favor e contra a ideia de _Code is Law_.
 

@@ -40,7 +40,7 @@ Quando os indivíduos se envolvem voluntariamente com contratos inteligentes em 
 
 ## O Valor das Blockchains
 
-Após reflexão, torna</em> se aparente que _Código é Lei_ é a _única maneira de os Contratos Inteligentes serem interpretados de forma justa ou útil. Em blockchains que não suportam _Code is Law_, o resultado das transações não é governado por escolha individual via código de contrato, mas, em última análise, a pedido da "governança" do sistema legado, incluindo todas as desvantagens que a introdução de um blockchain significava para aliviar.</p>
+Após reflexão, torna se aparente que _Código é Lei_ é a única maneira de os Contratos Inteligentes serem interpretados de forma justa ou útil. Em blockchains que não suportam _Code is Law_, o resultado das transações não é governado por escolha individual via código de contrato, mas, em última análise, a pedido da "governança" do sistema legado, incluindo todas as desvantagens que a introdução de um blockchain significava para aliviar.
 
 Para aqueles que querem "criar _aplicativos imparáveis_ ", a aparente verdade é que _Código é a Lei_ é exatamente o que torna as blockchains valiosas. É por isso que eles existem. Sem _Código é a Lei_, existem maneiras muito mais eficientes de "Criar _Aplicativos Stoppable_ ", como Amazon Web Services, então por que se preocupar com um blockchain?
 
@@ -68,7 +68,7 @@ _Code is Law_ blockchains são sistemas opt-in que podem ter consequências fora
 
 ### Fora da camada de contrato
 
-Um equívoco comum sobre o Código _é a Lei_ é que ele se aplica a todas as partes da pilha de tecnologia de uma blockchain, incluindo o código dos clientes do nó. Isso não faz sentido, pois os nós da blockchain são escritos em linguagens de programação convencionais e operam em ambientes de execução tradicionais, onde o código não poderia ser lei mesmo que quisesse. Em vez disso, os clientes de blockchain são escritos para participar de um determinado protocolo _de blockchain_, cuja operação cria um novo ambiente de execução descentralizado; uma Camada</em> _Contratos que fica no topo, onde o Código _é a Lei_ pode operar.</p>
+Um equívoco comum sobre o Código _é a Lei_ é que ele se aplica a todas as partes da pilha de tecnologia de uma blockchain, incluindo o código dos clientes do nó. Isso não faz sentido, pois os nós da blockchain são escritos em linguagens de programação convencionais e operam em ambientes de execução tradicionais, onde o código não poderia ser lei mesmo que quisesse. Em vez disso, os clientes de blockchain são escritos para participar de um determinado protocolo _de blockchain_, cuja operação cria um novo ambiente de execução descentralizado; uma Camada Contratos que fica no topo, onde o Código _é a Lei_ pode operar.
 
 ### 9 de 10 cadeias
 
