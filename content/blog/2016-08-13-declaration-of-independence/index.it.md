@@ -42,7 +42,7 @@ Tuttavia, così facendo, hanno compromesso un pilastro fondamentale di Ethereum 
 
 ## Il codice di principi classico di Ethereum
 
-Crediamo in una blockchain *, resistente alla censura e* autorizzazione. Crediamo nella visione originale di Ethereum come un computer mondiale che non può essere spento, che esegue contratti intelligenti irreversibili. Crediamo in una forte separazione delle preoccupazioni, in cui i fork di sistema della base di codice sono possibili solo quando si correggono vulnerabilità a livello di protocollo, bug o si forniscono aggiornamenti di funzionalità. Crediamo nell'intento originale di costruire e mantenere una piattaforma</em> sviluppo *resistente alla censura, affidabile e immutabile.</p>
+Crediamo in una blockchain *, resistente alla censura e* autorizzazione. Crediamo nella visione originale di Ethereum come un computer mondiale che non può essere spento, che esegue contratti intelligenti irreversibili. Crediamo in una forte separazione delle preoccupazioni, in cui i fork di sistema della base di codice sono possibili solo quando si correggono vulnerabilità a livello di protocollo, bug o si forniscono aggiornamenti di funzionalità. Crediamo nell'intento originale di costruire e mantenere una piattaforma di sviluppo *resistente alla censura, affidabile e immutabile*.
 
 Qui sono scritti i valori dichiarati con cui concordano i partecipanti all'interno della comunità di Ethereum Classic. Incoraggiamo che questi principi non vengano modificati tramite editto da alcun individuo o fazione che affermi di esercitare potere, autorità o credibilità per farlo.
 
