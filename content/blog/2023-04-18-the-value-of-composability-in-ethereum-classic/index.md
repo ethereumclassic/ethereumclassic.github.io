@@ -30,7 +30,7 @@ From a developer perspective, composability is also extremely valuable because a
 
 All the components and services inside ETC are like lego blocks that both users and developers may put together as they please. This has enabled a very unique experience in this type of technology.
 
-This level of composability is very likely an unintended benefit not anticipated by Satoshi Nakamoto when he invented Bitcoin, although he did envision that it would have smart contracts eventually, an idea that proved very difficult come true due to that system’s design.
+This level of composability is very likely an unintended benefit not anticipated by Satoshi Nakamoto when he invented Bitcoin, although he did envision that it would have smart contracts eventually, an idea that proved very difficult to come true due to that system’s design.
 
 ## Composability vs Interoperability
 
