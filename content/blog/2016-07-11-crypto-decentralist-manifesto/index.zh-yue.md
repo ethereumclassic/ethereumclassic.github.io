@@ -44,8 +44,8 @@ tags:
 
 **PDF版本：**
 
-- [英語](/A_Crypto-Decentralist_Manifesto.pdf)
-- [越南](/A_Crypto-Decentralist_Manifesto_vietnamese.pdf)
-- [русский](/A_Crypto-Decentralist_Manifesto_russian.pdf)
-- [德國](/A_Crypto-Decentralist_Manifesto_german.pdf)
-- [意大利語](/A_Crypto-Decentralist_Manifesto_italian.pdf)
+- [英語](https://ethereumclassic.org/A_Crypto-Decentralist_Manifesto.pdf)
+- [越南](https://ethereumclassic.org/A_Crypto-Decentralist_Manifesto_vietnamese.pdf)
+- [русский](https://ethereumclassic.org/A_Crypto-Decentralist_Manifesto_russian.pdf)
+- [德國](https://ethereumclassic.org/A_Crypto-Decentralist_Manifesto_german.pdf)
+- [意大利語](https://ethereumclassic.org/A_Crypto-Decentralist_Manifesto_italian.pdf)

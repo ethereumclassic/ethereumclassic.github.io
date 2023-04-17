@@ -44,8 +44,8 @@ Fonte: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9
 
 **Versione PDF:**
 
-- [Inglese](/A_Crypto-Decentralist_Manifesto.pdf)
-- [Tiếng Việt](/A_Crypto-Decentralist_Manifesto_vietnamese.pdf)
-- [russo](/A_Crypto-Decentralist_Manifesto_russian.pdf)
-- [Deutsche](/A_Crypto-Decentralist_Manifesto_german.pdf)
-- [Italiano](/A_Crypto-Decentralist_Manifesto_italian.pdf)
+- [Inglese](https://ethereumclassic.org/A_Crypto-Decentralist_Manifesto.pdf)
+- [Tiếng Việt](https://ethereumclassic.org/A_Crypto-Decentralist_Manifesto_vietnamese.pdf)
+- [russo](https://ethereumclassic.org/A_Crypto-Decentralist_Manifesto_russian.pdf)
+- [Deutsche](https://ethereumclassic.org/A_Crypto-Decentralist_Manifesto_german.pdf)
+- [Italiano](https://ethereumclassic.org/A_Crypto-Decentralist_Manifesto_italian.pdf)

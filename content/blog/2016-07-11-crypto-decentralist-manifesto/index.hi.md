@@ -44,8 +44,8 @@ tags:
 
 **पीडीएफ संस्करण:**
 
-- [अंग्रेज़ी](/A_Crypto-Decentralist_Manifesto.pdf)
-- [Tieng वियतनाम](/A_Crypto-Decentralist_Manifesto_vietnamese.pdf)
-- [Русский](/A_Crypto-Decentralist_Manifesto_russian.pdf)
-- [ड्यूश](/A_Crypto-Decentralist_Manifesto_german.pdf)
-- [Italiano](/A_Crypto-Decentralist_Manifesto_italian.pdf)
+- [अंग्रेज़ी](https://ethereumclassic.org/A_Crypto-Decentralist_Manifesto.pdf)
+- [Tieng वियतनाम](https://ethereumclassic.org/A_Crypto-Decentralist_Manifesto_vietnamese.pdf)
+- [Русский](https://ethereumclassic.org/A_Crypto-Decentralist_Manifesto_russian.pdf)
+- [ड्यूश](https://ethereumclassic.org/A_Crypto-Decentralist_Manifesto_german.pdf)
+- [Italiano](https://ethereumclassic.org/A_Crypto-Decentralist_Manifesto_italian.pdf)

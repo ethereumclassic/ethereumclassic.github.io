@@ -88,4 +88,4 @@ Isto tako, otvoreno ćemo se oduprijeti “tiraniji većine” i nećemo dopusti
 
 **PDF verzija:**
 
--[engleski](/ETC_Declaration_of_Independence.pdf) -[中文](/ETC_Declaration_of_Independence_chinese.pdf) -[ruski](/ETC_Declaration_of_Independence_russian.pdf) -[Tiếng Việt](/ETC_Declaration_of_Independence_vietnamese.pdf) -[njemački](/ETC_Declaration_of_Independence_german.pdf) -[talijanski](/ETC_Declaration_of_Independence_italian.pdf)
+-[Engleski](https://ethereumclassic.org/ETC_Declaration_of_Independence.pdf) -[中文](https://ethereumclassic.org//ETC_Declaration_of_Independence_chinese.pdf) -[ruski](https://ethereumclassic.org//ETC_Declaration_of_Independence_russian.pdf) -[Tiếng Việt](https://ethereumclassic.org//ETC_Declaration_of_Independence_vietnamese.pdf) -[Deutsche](https://ethereumclassic.org//ETC_Declaration_of_Independence_german.pdf) -[Italiano](https://ethereumclassic.org//ETC_Declaration_of_Independence_italian.pdf)

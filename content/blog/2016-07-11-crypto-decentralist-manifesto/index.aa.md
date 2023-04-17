@@ -44,8 +44,8 @@ crwdns109137:0crwdne109137:0
 
 **crwdns109139:0crwdne109139:0**
 
-- [crwdns109143:0crwdne109143:0](/A_Crypto-Decentralist_Manifesto.pdf)
-- [crwdns109147:0crwdne109147:0](/A_Crypto-Decentralist_Manifesto_vietnamese.pdf)
-- [crwdns109151:0crwdne109151:0](/A_Crypto-Decentralist_Manifesto_russian.pdf)
-- [crwdns109155:0crwdne109155:0](/A_Crypto-Decentralist_Manifesto_german.pdf)
-- [crwdns109159:0crwdne109159:0](/A_Crypto-Decentralist_Manifesto_italian.pdf)
+- [crwdns109143:0crwdne109143:0](https://ethereumclassic.org/A_Crypto-Decentralist_Manifesto.pdf)
+- [crwdns109147:0crwdne109147:0](https://ethereumclassic.org/A_Crypto-Decentralist_Manifesto_vietnamese.pdf)
+- [crwdns109151:0crwdne109151:0](https://ethereumclassic.org/A_Crypto-Decentralist_Manifesto_russian.pdf)
+- [crwdns109155:0crwdne109155:0](https://ethereumclassic.org/A_Crypto-Decentralist_Manifesto_german.pdf)
+- [crwdns109159:0crwdne109159:0](https://ethereumclassic.org/A_Crypto-Decentralist_Manifesto_italian.pdf)

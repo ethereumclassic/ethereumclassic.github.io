@@ -88,4 +88,4 @@ tags:
 
 **पीडीएफ संस्करण:**
 
--[अंग्रेजी](/ETC_Declaration_of_Independence.pdf) -[中文](/ETC_Declaration_of_Independence_chinese.pdf) -[रूसी](/ETC_Declaration_of_Independence_russian.pdf) -[Tiếng Việt](/ETC_Declaration_of_Independence_vietnamese.pdf) -[ड्यूश](/ETC_Declaration_of_Independence_german.pdf) -[इटालियनो](/ETC_Declaration_of_Independence_italian.pdf)
+-[अंग्रेजी](https://ethereumclassic.org/ETC_Declaration_of_Independence.pdf) -[中文](https://ethereumclassic.org//ETC_Declaration_of_Independence_chinese.pdf) -[रूसी](https://ethereumclassic.org//ETC_Declaration_of_Independence_russian.pdf) -[Tiếng Việt](https://ethereumclassic.org//ETC_Declaration_of_Independence_vietnamese.pdf) -[ड्यूश](https://ethereumclassic.org//ETC_Declaration_of_Independence_german.pdf) -[इटालियनो](https://ethereumclassic.org//ETC_Declaration_of_Independence_italian.pdf)
