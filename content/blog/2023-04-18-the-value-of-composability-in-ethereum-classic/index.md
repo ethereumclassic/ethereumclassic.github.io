@@ -54,7 +54,7 @@ If a blockchain is limited to more or less 1.5 million transactions per day, the
 
 As may be guessed, just for the fact that transactions, thus some dapps or their components, will be moved to higher layer systems to satisfy transaction volumes, composability will be affected as everything is not inside the same network.
 
-Ethereum Classic has this kind of constraint, it will be able to comfortably handle up to about 1.5 million transactions per day, but if users need all of their things to be done at the base layer, then they will likely end up paying higher fees in exchange for the security guarantees.
+Ethereum Classic has this kind of constraint. It will be able to comfortably handle up to about 1.5 million transactions per day, but if users need all of their things to be done at the base layer they will likely end up paying higher fees in exchange for the security guarantees.
 
 ## Sharding, Sidechains, and Parachains are Anti-Composability
 
