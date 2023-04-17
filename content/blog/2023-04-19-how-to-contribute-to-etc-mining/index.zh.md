@@ -1,5 +1,5 @@
 ---
-title: "How to Contribute to ETC: Mining"
+title: "如何为做贡献: 挖矿"
 date: 2023-04-19
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,90 +8,88 @@ linkImage: ./etc-mine.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**欢迎由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TbsxAUtlcjk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-This is the fifth part of a series that will explain how to contribute to Ethereum Classic (ETC) in a variety of ways. 
+这是本系列文章的第五部分，将解释如何以各种方式为以太坊经典做出贡献。
 
-The videos and posts in the series will contain the title “How to Contribute to ETC:” with the following topic extensions: 
+系列中的视频和文章将包含标题“如何为以太坊经典作贡献”以及以下主题扩展：
 
-1. The Improvement Proposal Process (ECIP)
-2. The Community Website
-3. Community Tweets
-4. Community Volunteering
-5. Mining
-6. Operating a Node
-7. Donating Money
-8. Building a Dapp
+1.改进提案流程（ECIP）
+2.社区网站
+3.社区推文
+4.社区志愿服务
+5.挖矿
+6.运行节点
+7.捐款
+8.构建Dapp
 
-## What Is Mining?
+## 什么是挖矿？
 
-The Ethereum Classic (ETC) blockchain is a network of computers around the world dedicated to maintaining a ledger with accounts, balances, and decentralized software programs called smart contracts.
+以太坊经典（ETC）区块链是全球专门维护包含账户、余额和名为智能合约的分散软件程序的分类账的计算机网络。
 
-For users to move money or use the smart contract decentralized applications (dapps) in ETC they need to send transactions to the network. These transactions are transmitted and replicated to all computers in the system.
+为了让用户在ETC中移动资金或使用智能合约分散式应用程序（dapp），他们需要将交易发送到网络中。这些交易被传输并复制到系统中的所有计算机。
 
-The way that transactions are included in the database of the network, which is also fully replicated in all participating computers, is by having a subgroup of the machines do a lot of computational work, burning a lot of electricity, to generate a cryptographic stamp, also called hash, to seal batches of transactions, called blocks, that they then send to the rest of the network for verification and inclusion into the database (hence the term blockchain).
+将交易包括在网络数据库中的方式（该数据库也完全复制在所有参与计算机中）是由一组机器进行大量的计算工作，消耗大量的电力，以生成密码戳（也称为哈希）来封存一批被称为区块的交易，然后将其发送到网络的其余部分进行验证并纳入数据库（因此称为区块链）。
 
-The process of creating the cryptographic stamp, which requires a lot of computational work, is called mining, and the computers that do this work are called miners.
+进行计算工作以创建密码戳的过程被称为挖矿，执行此项工作的计算机被称为矿工。
 
-## The Mining Business
+## 挖矿业务
 
-![Mining ETC.](./etc-mine.png)
+![挖矿ETC.](./etc-mine.png)
 
-Contributing to ETC by mining is both a way of supporting the network and a good business!
+通过挖矿为ETC做出贡献不仅是支持网络的方式，也是一个好的商业机会！
 
-The way it works is that each time a miner produces a block that is included in the blockchain, the network pays that miner a reward with newly issued coins.
+其工作原理是，每当一个矿工生成一个被纳入区块链的区块时，网络就会以新发行的硬币作为奖励向该矿工支付报酬。
 
-The block reward payment has a decreasing schedule. In the first 5 million block era, which started in 2015, Ethereum Classic paid 5 ETC per block, in the next 5 million block era it paid 20% less or 4 ETC per block, then 3.2 ETC in the next era, 2.56 in the next (which is the current era), and will continue discounting 20% every era going forward until the payments diminish completely.
+区块奖励支付有一个递减的时间表。在2015年开始的前500万区块时代中，以太经典每个区块支付5个ETC，接下来的500万区块时代支付比上一个时代少20%的奖励，即每个区块支付4个ETC，然后在下一个时代支付3.2个ETC，在接下来的时代支付2.56个ETC（即当前时代），并将继续在未来的每个时代以20%的折扣率递减，直到支付完全消失。
 
-As ETC will have a supply cap of 210,700,000 ETC, and at the time of this writing there were 140,313,583 already issued, then there are 70,386,417 still to be issued. This is an estimated value of $1,407,728,340 in revenues at current ETC prices of around $20, of which $770,231,821 will be paid to miners in the next 10 years. 
+由于ETC将有210,700,000个ETC的供应上限，在撰写本文时已经发行了140,313,583个，因此仍有70,386,417个ETC尚未发行。这是当前ETC价格约为20美元的收入估计值为14,077,283,400美元，其中7,702,318,210美元将在未来10年支付给矿工。
 
-However, because of its fixed monetary policy, continued growth, excellent positioning, and security guarantees, mining revenues are likely to be significantly higher.
+但由于其固定的货币政策、持续的增长、优越的位置和安全保障，挖矿收入很可能会显著高于这个数值。
 
-## Ethereum Classic’s Potential
+## 以太经典的潜力
 
-As described in the previous section, ETC has a very valuable position in the market. It is the largest proof of work smart contracts blockchain in the world, has a market value of around $3 billion at the time of this writing, and is the fourth largest proof of work blockchain in the world after Bitcoin, DogeCoin, and Litecoin.
+正如上一节所述，ETC在市场上拥有非常有价值的地位。它是世界上最大的工作量证明智能合约区块链，在本文撰写时市值约为30亿美元，是仅次于比特币、狗狗币和莱特币的世界第四大工作量证明区块链。
 
-As nearly all the other smart contract blockchains in the market are proof of stake, a much less secure consensus mechanism that tends to centralization, ETC may be considered the most secure programmable decentralized platform in the world.
+由于市场上几乎所有其他智能合约区块链都是股权证明，这种共识机制的安全性较低且容易集中化，因此ETC可能被认为是世界上最安全的可编程分散平台。
 
-The above, coupled with its strong core principles and its capped supply, promise an incredible potential for the ETC. 
+以上加上其强大的核心原则和有限的供应量，为ETC带来了难以想象的潜力。
 
-This potential may be harvested by miners as the business itself is a way of acquiring ETC at discounted prices due to its profitability.
+这种潜力可以通过挖矿来实现，因为挖矿本身是一种以优惠价格获得ETC的方式，因为其盈利能力。
 
-## Ethereum Classic’s Mining Algorithm
+## 以太经典的挖矿算法
 
-One of Ethereum Classic’s unique features is the ETC Hash mining algorithm.
+以太经典的独特之处之一是ETC Hash挖矿算法。
 
-As Ethereum was using the ETH Hash algorithm before it migrated to proof of stake, Ethereum Classic had to differentiate its mining format to defend itself from 51% attacks that came from the Ethereum computing base. This led to the creation of ETC Hash.
+由于以太坊在迁移到股权证明之前使用的是ETH Hash算法，因此以太经典必须区分其挖矿格式，以保护自己免受来自以太坊计算基础的51％攻击。这导致了ETC Hash的创建。
 
-ETC Hash is a modification of ETH Hash where one component, the DAG, which is a large file that must be used during the mining process, was reduced in size and its size growth was slowed to permit smaller GPU miners; with GPU card capacities that had lower memories, such as 3GB, 4GB, and 6GB; mine and stay mining in Ethereum Classic for a longer period of time.
+ETC Hash是ETH Hash的修改版，其中一个组件DAG，它是在挖矿过程中必须使用的大型文件，已经缩小了，并且其大小的增长已经减缓，以允许拥有较低存储器容量的GPU卡（例如3GB、4GB和6GB）的矿工在以太经典中进行挖矿并保持挖矿时间更长。
 
-The above is a significant benefit for smaller miners who may have these machines or may acquire them cheaply in the secondary market.
+对于那些可能拥有这些机器或可以在二级市场上以低廉的价格购买它们的小型矿工来说，这是一个重大的好处。
 
-## Mining Gear
+## 挖矿设备
 
-Ethereum Classic may be efficiently mined with ASIC machines, which are especially configured computers to exclusively mine the ETC Hash and ETH Hash algorithms, or GPU machines which are regular graphics processing computing devices that may mine ETC with the correct software and configuration. ETC is very inefficient to mine with CPU machines.
+以太经典可以使用专门配置的ASIC矿机进行高效挖掘，也可以使用GPU矿机，只需正确的软件和配置即可。使用CPU矿机挖掘ETC效率非常低。
 
-Because the market has become very competitive, it is advisable to acquire ASIC machines to mine ETC. We have reviewed the [iPollo V1 Mini SE Plus ASIC miner](https://ethereumclassic.org/blog/2023-03-14-mining-ethereum-classic-with-an-ipollo-asic-through-2miners-pool) and will soon publish a post about the Bitmain Antminer E9 ASIC miner.
+由于市场竞争日趋激烈，建议购买ASIC矿机挖掘ETC。我们已经评测了[iPollo V1 Mini SE Plus ASIC miner](https://ethereumclassic.org/blog/2023-03-14-mining-ethereum-classic-with-an-ipollo-asic-through-2miners-pool)，并即将发布有关Bitmain Antminer E9 ASIC miner的文章。
 
-These mining machines may be acquired in the following links:
+以下链接可以购买这些挖矿设备：
 
-**Buy iPollo:** https://ipollo.com/products/ipollo-v1-mini-se-plus
+**iPollo:** https://ipollo.com/products/ipollo-v1-mini-se-plus
 
-**Buy Antminer:** https://bt-miners.com/products/bitmain-antminer-e9
+**Antminer:** https://bt-miners.com/products/bitmain-antminer-e9
 
-## Mining Pools
+## 挖矿池
 
-Mining pools are companies that aggregate many miners around the world who provide their computing power to produce blocks. 
+挖矿池是公司，它们汇集了全球许多矿工的计算能力来生产区块。
 
-The benefit of mining pools is that they smooth out the cash flows for miners because blocks are found more frequently by participating in a larger computing base and they distribute the payments evenly in time. 
+挖矿池的好处是它们平滑了矿工的现金流，因为通过参与较大的计算基础，更频繁地发现区块，它们会逐渐地分配支付。作为交换，挖矿池收取一定比例的奖励支付作为佣金，通常在1%至3%之间。
 
-In exchange for this service mining pools charge a percentage of the reward payments as a commission that usually ranges between 1% and 3%.
-
-Popular mining pools in ETC are:
+以太经典中流行的挖矿池有：
 
 **F2pool:** https://f2pool.io/mining/guides/how-to-mine-ethereum-classic/
 
@@ -105,6 +103,6 @@ Popular mining pools in ETC are:
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+更多ETC相关内容，欢迎访问: https://ethereumclassic.org
