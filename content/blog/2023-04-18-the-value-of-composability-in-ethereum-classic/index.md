@@ -81,7 +81,7 @@ In our example, the initial purchase transaction of the home in an exchange, tog
 
 Then, as time passes by, if the buyer were to default or not pay many monthly payments, then the lien smart contract could be automatically activated removing the property from the buyer until they become current or the property may be liquidated in the real estate NFT market again to pay for the loan.
 
-The above could be done as well in the case of car purchases, and many other types complex transactions that are now possible due to composability in ETC.
+The above could be done as well in the case of car purchases, and many other types of complex transactions that are now possible due to composability in ETC.
 
 ---
 
