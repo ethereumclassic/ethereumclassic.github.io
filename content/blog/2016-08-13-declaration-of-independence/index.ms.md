@@ -42,7 +42,7 @@ Walau bagaimanapun, dengan berbuat demikian, mereka berkompromi dengan tiang ter
 
 ## Kod Prinsip Klasik Ethereum
 
-Kami percaya pada *blok terdesentralisasi, tahan penapisan, tanpa kebenaran*. Kami percaya pada visi asal Ethereum sebagai komputer dunia yang tidak boleh ditutup, menjalankan kontrak pintar yang tidak dapat dipulihkan. Kami percaya pada pemisahan kebimbangan yang kukuh, di mana garpu sistem pangkalan kod hanya boleh dilakukan, apabila membetulkan kelemahan tahap protokol, pepijat atau menyediakan peningkatan fungsi. Kami percaya pada niat asal untuk membina</em> *tahan penapisan, tidak amanah dan tidak berubah.</p>
+Kami percaya pada *blok terdesentralisasi, tahan penapisan, tanpa kebenaran*. Kami percaya pada visi asal Ethereum sebagai komputer dunia yang tidak boleh ditutup, menjalankan kontrak pintar yang tidak dapat dipulihkan. Kami percaya pada pemisahan kebimbangan yang kukuh, di mana garpu sistem pangkalan kod hanya boleh dilakukan, apabila membetulkan kelemahan tahap protokol, pepijat atau menyediakan peningkatan fungsi. Kami percaya pada niat asal untuk membina tahan penapisan, tidak amanah dan tidak berubah.
 
 Di sini ditulis nilai yang diisytiharkan oleh peserta dalam komuniti Ethereum Classic bersetuju. Kami menggalakkan agar prinsip ini tidak diubah melalui edik oleh mana-mana individu atau puak yang mendakwa menggunakan kuasa, kuasa atau kredibiliti untuk berbuat demikian.
 

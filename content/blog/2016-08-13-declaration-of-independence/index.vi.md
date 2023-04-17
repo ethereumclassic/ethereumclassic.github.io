@@ -42,7 +42,7 @@ Tuy nhiên, khi làm như vậy, họ đã xâm phạm một trụ cột cốt l
 
 ## Quy tắc nguyên tắc Ethereum Classic
 
-Chúng tôi tin vào *blockchain phi tập trung, chống kiểm duyệt,* blockchain. Chúng tôi tin vào tầm nhìn ban đầu về Ethereum như một máy tính thế giới không thể tắt, chạy các hợp đồng thông minh không thể đảo ngược. Chúng tôi tin tưởng vào sự tách biệt mạnh mẽ giữa các mối quan tâm, trong đó chỉ có thể thực hiện các nhánh hệ thống của cơ sở mã, khi khắc phục các lỗ hổng, lỗi ở cấp độ giao thức hoặc cung cấp các bản nâng cấp chức năng. Chúng tôi tin tưởng vào mục đích ban đầu là xây dựng và duy trì</em> nền tảng phát triển *chống kiểm duyệt, không tin cậy và không thay đổi.</p>
+Chúng tôi tin vào *blockchain phi tập trung, chống kiểm duyệt,* blockchain. Chúng tôi tin vào tầm nhìn ban đầu về Ethereum như một máy tính thế giới không thể tắt, chạy các hợp đồng thông minh không thể đảo ngược. Chúng tôi tin tưởng vào sự tách biệt mạnh mẽ giữa các mối quan tâm, trong đó chỉ có thể thực hiện các nhánh hệ thống của cơ sở mã, khi khắc phục các lỗ hổng, lỗi ở cấp độ giao thức hoặc cung cấp các bản nâng cấp chức năng. Chúng tôi tin tưởng vào mục đích ban đầu là xây dựng và duy trì nền tảng phát triển chống kiểm duyệt, không tin cậy và không thay đổi.
 
 Dưới đây là các giá trị được khai báo mà những người tham gia trong cộng đồng Ethereum Classic đồng ý. Chúng tôi khuyến khích rằng những nguyên tắc này không bị thay đổi thông qua sắc lệnh bởi bất kỳ cá nhân hoặc phe phái nào tuyên bố sử dụng quyền lực, thẩm quyền hoặc uy tín để làm như vậy.
 

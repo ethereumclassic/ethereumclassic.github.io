@@ -42,7 +42,7 @@ Sin embargo, al hacerlo, comprometieron un pilar central de Ethereum solo para h
 
 ## El Código de Principios Clásico de Ethereum
 
-Creemos en una cadena de bloques *descentralizada, resistente a la censura y sin permisos*. Creemos en la visión original de Ethereum como una computadora mundial que no se puede apagar, ejecutando contratos inteligentes irreversibles. Creemos en una fuerte separación de preocupaciones, donde las bifurcaciones del sistema de la base de código solo son posibles, al corregir vulnerabilidades a nivel de protocolo, errores o proporcionar actualizaciones de funcionalidad. Creemos en la intención original de construir y mantener una plataforma</em> *, confiable y resistente a la censura.</p>
+Creemos en una cadena de bloques *descentralizada, resistente a la censura y sin permisos*. Creemos en la visión original de Ethereum como una computadora mundial que no se puede apagar, ejecutando contratos inteligentes irreversibles. Creemos en una fuerte separación de preocupaciones, donde las bifurcaciones del sistema de la base de código solo son posibles, al corregir vulnerabilidades a nivel de protocolo, errores o proporcionar actualizaciones de funcionalidad. Creemos en la intención original de construir y mantener una plataforma de desarrollo *resistente a la censura, sin confianza e inmutable*.
 
 Aquí están escritos los valores declarados por los cuales los participantes dentro de la comunidad Ethereum Classic están de acuerdo. Alentamos a que estos principios no se cambien mediante edicto por parte de ningún individuo o facción que afirme ejercer el poder, la autoridad o la credibilidad para hacerlo.
 
