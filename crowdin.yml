@@ -5,3 +5,6 @@ files:
       - "**/*.collection.*"
       - "**/blog/**/*.md"
     translation: /i18n/**/%file_name%.%two_letters_code%.%file_extension%
+  # one-off blog post translation
+  - source: "/content/blog/2023-04-17-languages-enabled/index.md"
+    translation: /content/blog/2023-04-17-languages-enabled/index.%two_letters_code%.md
