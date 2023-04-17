@@ -1,5 +1,5 @@
 ---
-title: "The Value of Composability in Ethereum Classic"
+title: "以太坊经典中可组合性的价值"
 date: 2023-04-18
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,83 +8,83 @@ linkImage: ./etc-composability.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**欢迎由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Alxz8pDfMhg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-## What Is Composability?
+## 什么是组合性？
 
-In traditional systems, when you try to book a flight, a hotel, a car rental, and pay everything at once with a credit card with the condition that the dates and prices you reserved are exactly what you selected, the process of closing and paying that composed transaction is very difficult technologically because all the services are hosted in many isolated datacenters of the different providers. 
+在传统系统中，当您尝试预订航班、酒店、租车，并使用信用卡一次性支付所有费用，条件是您预订的日期和价格正是您选择的，由于所有服务都托管在不同供应商的许多孤立数据中心中，因此关闭和支付组合交易的过程在技术上非常困难。
 
-Consequently, it is very likely that the transaction will be partitioned and executed sequentially with a high risk that any of the service terms may have changed or with no availability by the time the transactions are processed in each system.
+因此，很可能会将交易分成多个步骤顺序执行，并且由于每个系统在处理交易时可能会更改任何服务条款或无法提供可用性，因此存在很高的风险。
 
-If all these services were on a blockchain as Ethereum Classic (ETC) they would be hosted in the same system in the form of smart contracts and the transaction would be executed instantaneously in a single block.
+如果所有这些服务都在以太坊经典（ETC）等区块链上作为智能合约的形式托管在同一系统中，那么交易将在单个区块中即时执行。
 
-This ability of a system to host all the services in the same place as modular components that may interact together in many ways and combinations is called composability.
+系统具有在同一位置托管所有服务的能力，作为模块化组件，可以以许多方式和组合互动，这种能力被称为组合性。
 
-![A single database.](./etc-composability.png)
+![一个单独的数据库](./etc-composability.png)
 
-From a developer perspective, composability is also extremely valuable because all the ecosystem of smart contracts inside ETC becomes a collection of services that may be reused and leveraged, thus reducing development time and increasing innovation.
+从开发人员的角度来看，组合性也非常有价值，因为在 ETC 内的所有智能合约生态系统都成为了可以重用和利用的服务集合，从而减少了开发时间并增加了创新。
 
-All the components and services inside ETC are like lego blocks that both users and developers may put together as they please. This has enabled a very unique experience in this type of technology.
+ETC 内部的所有组件和服务都像乐高积木一样，用户和开发人员都可以随意组合。这使得这种技术拥有非常独特的体验。
 
-This level of composability is very likely an unintended benefit not anticipated by Satoshi Nakamoto when he invented Bitcoin, although he did envision that it would have smart contracts eventually, an idea that proved very difficult come true due to that system’s design.
+这种组合性水平很可能是中本聪在发明比特币时没有预料到的意外收益，尽管他确实预见到它最终会拥有智能合约，但由于该系统的设计问题，这个想法证明非常难以实现。
 
-## Composability vs Interoperability
+## 组合性与互操作性
 
-The heart of composability in ETC and other smart contract networks is the replicated database, which is what we know as the blockchain. 
+ETC 和其他智能合约网络中组合性的核心是被称为区块链的复制数据库。
 
-The blockchain is a ledger that stores accounts, balances, and smart contracts, and it is replicated because each time a new transaction or smart contract is sent to the network it is distributed and copied in every node of the system. 
+区块链是一个账户、余额和智能合约的存储账本，它是被复制的，因为每次将新的交易或智能合约发送到网络时，它都会被分布和复制在系统的每个节点中。
 
-This feature was originally intended to provide a high degree of redundancy for security reasons, but also proved to have additional benefits such as composability.
+这个特性最初是为了出于安全原因提供高度冗余，但同时也证明具有额外的好处，例如组合性。
 
-Interoperability, on the other hand, is the ability of different blockchains to interact with one another. This is distinct from composability because it needs everything inside the same network, while interoperability is the ability of doing things with resources and services from different isolated networks.
+另一方面，互操作性是不同区块链之间相互交互的能力。这与组合性不同，因为它需要一切在同一个网络内，而互操作性是利用来自不同隔离网络的资源和服务进行操作的能力。
 
-Therefore, composability is lost when services are hosted in different blockchains. 
+因此，当服务托管在不同的区块链中时，组合性就会丧失。
 
-## Composability vs Layering
+## 组合性与分层
 
-Similar to interoperability, layering also affects composability. 
+与互操作性类似，分层也会影响组合性。
 
-Layering is similar to interoperability, but instead of looking to interact with other blockchains, it seeks to increase scalability of transactions.
+分层与互操作性类似，但它不是寻求与其他区块链进行交互，而是寻求增加交易的可扩展性。
 
-If a blockchain is limited to more or less 1.5 million transactions per day, then it falls short of consumer level needs that run in the billions per day. Layering basically moves the high volume and low value transactions out of the base layer blockchain to higher layer systems that process these quantities more efficiently and then settle final netted transactions on the lower layer unscalable system.
+如果一个区块链每天只能处理大约150万个交易，那么它将无法满足以每天数十亿个交易运行的消费级需求。分层基本上是将高交易量和低价值的交易从基础层区块链移动到更高层系统，以更高效地处理这些数量，然后在较低层不可扩展的系统上结算最终的净交易。
 
-As may be guessed, just for the fact that transactions, thus some dapps or their components, will be moved to higher layer systems to satisfy transaction volumes, composability will be affected as everything is not inside the same network.
+可以猜到，由于交易、因此某些 dapp 或其组件将被移动到更高层系统以满足交易量，因此组合性将受到影响，因为一切不在同一个网络内。
 
-Ethereum Classic has this kind of constraint, it will be able to comfortably handle up to about 1.5 million transactions per day, but if users need all of their things to be done at the base layer, then they will likely end up paying higher fees in exchange for the security guarantees.
+以太经典有这种限制，它将能够轻松处理每天高达大约150万个交易，但如果用户需要所有的东西都在基础层上完成，那么他们很可能会为了安全保证而支付更高的费用。
 
-## Sharding, Sidechains, and Parachains are Anti-Composability
+## 分片、侧链和平行链是反可组合性的
 
-Sharding, sidechains, and parachains are anti-composability because they break up the blockchain and divide it in silos, thus disconnecting smart contracts that could interact in real time.
+分片、侧链和平行链是反可组合性的，因为它们将区块链分解成了独立的分区，从而断开了可以实时交互的智能合约。
 
-Because the base layer beacon chains that they use don’t actually record the states of every smart contract, then composability is broken, even if all the shards, sidechains, and parachains are connected through them.
+由于它们使用的基础层信标链实际上并不记录每个智能合约的状态，因此即使所有分片、侧链和平行链通过它们相互连接，组合性也会被破坏。
 
-The idea of breaking up a blockchain is not only contrary to the principle of security of a blockchain given by replication, but it forces node operators to actually run all the separate components anyway just to preserve a basic goal of these systems: self verification.
+将区块链分解的想法不仅违反了区块链通过复制提供的安全性原则，而且强制节点运营商必须实际运行所有独立的组件，以保持这些系统的一个基本目标：自我验证。
 
-## Composability Design in Service Modules
+## 服务模块中的可组合性设计
 
-To give an example of how composability will be of extraordinary value in Ethereum Classic, imagine someone buying a home where all these things are hosted inside the network:
+为了举例说明可组合性将在以太坊经典中具有非凡价值，想象一下有人在网络中购买了一套房屋，其中所有这些内容都托管在网络中：
 
-- The home is represented as an NFT in ETC
-- There is a real estate NFT exchange in ETC
-- The official property registry and title of the home is inside ETC
-- The mortgage loan is a smart contract in ETC
-- The lien and its loan enforcement rules is a smart contract in ETC
-- The mortgage payments are done inside ETC
+- 房屋在ETC中表示为NFT
+- 在ETC中有一个房地产NFT交易所
+- 房屋的官方产权登记和所有权在ETC中
+- 抵押贷款是一个在ETC中的智能合约
+- 留置权及其贷款执行规则是一个在ETC中的智能合约
+- 抵押贷款支付在ETC内完成
 
-All of the above can be significantly automated and coordinated in composable transactions, simplifying the whole process in ways that would never be possible in traditional isolated systems controlled by trusted third parties.
+所有以上内容都可以通过可组合交易进行显著的自动化和协调，以简化整个流程，这在由可信任的第三方控制的传统隔离系统中是不可能实现的。
 
-In our example, the initial purchase transaction of the home in an exchange, together with the mortgage loan, the registration in the official property registry, the title, and automated monthly payments could be configured and setup in one single transaction.
+在我们的例子中，房屋的初始购买交易、抵押贷款、官方产权登记、所有权和自动化的每月付款可以在一个单一的交易中进行配置和设置。
 
-Then, as time passes by, if the buyer were to default or not pay many monthly payments, then the lien smart contract could be automatically activated removing the property from the buyer until they become current or the property may be liquidated in the real estate NFT market again to pay for the loan.
+然后，随着时间的推移，如果买家拖欠或未支付许多月付款，则留置权智能合约可以自动激活，从买家手中夺取房产，直到他们变得现金流充裕或房产可能在房地产NFT市场上再次流转以支付贷款。
 
-The above could be done as well in the case of car purchases, and many other types complex transactions that are now possible due to composability in ETC.
+以上内容在购买汽车等复杂交易的情况下也可以实现，这都是由ETC的可组合性所带来的。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC内容，请访问: https://ethereumclassic.org
