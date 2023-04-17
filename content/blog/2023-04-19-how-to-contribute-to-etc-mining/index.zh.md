@@ -3,7 +3,7 @@ title: "如何为做贡献: 挖矿"
 date: 2023-04-19
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["series"]
+tags: ["系列"]
 linkImage: ./etc-mine.png
 ---
 
