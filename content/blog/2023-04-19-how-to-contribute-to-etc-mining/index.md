@@ -77,7 +77,7 @@ Ethereum Classic may be efficiently mined with ASIC machines, which are especial
 
 Because the market has become very competitive, it is advisable to acquire ASIC machines to mine ETC. We have reviewed the [iPollo V1 Mini SE Plus ASIC miner](https://ethereumclassic.org/blog/2023-03-14-mining-ethereum-classic-with-an-ipollo-asic-through-2miners-pool) and will soon publish a post about the Bitmain Antminer E9 ASIC miner.
 
-These mining machines may be acquired in the following links:
+These mining machines may be acquired from the following links:
 
 **Buy iPollo:** https://ipollo.com/products/ipollo-v1-mini-se-plus
 
