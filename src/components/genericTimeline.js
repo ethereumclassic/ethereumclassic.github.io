@@ -42,7 +42,7 @@ function GenericTimelineItem({
       <div tw="relative pb-8">
         {!last ? (
           <span
-            tw="absolute top-4 left-4 -ml-px h-full w-0.5 bg-shade-lighter"
+            tw="absolute top-4 left-4 rtl:left-auto rtl:right-4 -ml-px h-full w-0.5 bg-shade-lighter"
             aria-hidden="true"
           />
         ) : null}
@@ -108,7 +108,7 @@ export default function GenericTimeline({ items }) {
   return (
     <>
       <div tw="p-6 bg-backdrop-light rounded-md relative shadow">
-        <div tw="absolute right-0 -top-12">
+        <div tw="absolute right-0 rtl:left-0 rtl:right-auto -top-12">
           <Button
             primary
             icon={reversed ? "sortUp" : "sortDown"}

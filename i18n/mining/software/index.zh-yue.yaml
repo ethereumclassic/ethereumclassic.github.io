@@ -1,0 +1,18 @@
+title: 礦工軟件
+seo: 可用於在 Ethereum Classic 上挖掘加密貨幣 ETC 的軟件包列表。
+description: "自 2020 年 11 月 28 日起，以太坊經典網絡的工作量證明挖掘算法為 [ETCHash](https://github.com/eth-classic/etchash)。"
+items:
+  table:
+    columnItems:
+      name:
+        name: 姓名
+      windowsAmd:
+        name: 視窗AMD
+      windowsNvidia:
+        name: Windows 英偉達
+      linuxAmd:
+        name: Linux 超微
+      linuxNvidia:
+        name: Linux 英偉達
+      guide:
+        text: 指導

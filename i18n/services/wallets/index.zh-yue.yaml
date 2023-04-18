@@ -1,0 +1,30 @@
+title: 錢包
+seo: 網絡錢包、擴展程序、軟件錢包、硬件錢包和其他保護 ETC 的方法的來源。
+description: |
+  有多種錢包可供選擇以保護和使用 ETC。每個選項在安全性和便利性之間提供了不同的平衡。請根據您的要求研究最佳選擇。
+
+  ## 我應該使用哪個錢包？
+
+  以下建議並非背書，僅用於幫助新用戶快速找到可能適合他們的選項。
+
+  - 如果您想要一個簡單的移動應用程序，[Trust Wallet](https://trustwallet.com/ethereum-classic-wallet) 易於使用並支持包括 ETC 在內的多種貨幣。
+  - 如果您想持有少量 ETC 用於去中心化應用程序，請嘗試 [MetaMask](/guides/metamask) 並將其連接到 Ethereum Classic。
+  - 如果您的企業接受 ETC，您可能只想創建一個 [exchange](/services/exchanges) 帳戶，您可以使用該帳戶以當地貨幣出售它。
+  - 如果您持有的金額較大，強烈建議購買[硬件錢包](#hardware-wallets)。
+  - 對於更高級的用例，請自行研究並嘗試以下幾個選項。
+items:
+  web:
+    title: 網絡錢包
+    description: 可以使用網頁訪問這些 Web3 錢包。它們不應該用於保護大量資金，但允許您無需下載即可輕鬆與 ETC 交互。
+  browsers:
+    title: 瀏覽器集成錢包
+    description: 這些 Web3 錢包集成在網絡瀏覽器中。通常，他們會將您的帳戶信息注入網站，以便您可以在瀏覽器中與 Ethereum Classic dapps 無縫交互。
+  hardware:
+    title: 硬件錢包
+    description: 硬件錢包是專為長期存儲而設計的安全錢包。
+  software:
+    title: 軟件錢包
+    description: 軟件錢包是專為短期存儲而設計的桌面或移動設備。
+  other:
+    title: 其他錢包產品
+    description: 這些產品是加密錢包的免費產品，例如恢復種子存儲。

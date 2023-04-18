@@ -1,0 +1,19 @@
+title: 公共端點
+seo: 可用於通過 MetaMask 和其他應用程序與 ETC 交互的遠程過程調用 (RPC) 端點列表。
+description: |
+  遠程過程調用 (RPC) 端點是您通往 Ethereum Classic 的門戶，並允許您與 ETC 鏈進行通信並從中讀取數據。為了最大限度地免信任，您可以在本地運行 [ETC 客戶端](/development/clients)；本地端點通常在“http://localhost:8545”上可用。
+
+  公共以太坊經典 RPC 端點也可用，免費提供給社區或作為訂閱服務。因為您可以使用諸如 [MetaMask](/guides/metamask) 之類的錢包在本地簽署和廣播交易，所以可以使用公共端點同時維護您的私鑰。
+
+  您可以通過更新您的錢包或部署工具配置，使用這些 URL 進行交易並部署到 ETC（或其測試網）。確保您還將 Ethereum Classic 主網的 Chain ID 更改為“61”。
+
+  有關其他網絡的更多信息，請查看 [testnets](/development/testnets) 部分。
+
+  **建議在 [ChainList.org](https://chainlist.org/chain/61) 上選擇實時監控的 ETC RPC 端點之一。**
+items:
+  endpoints:
+    columnItems:
+      name:
+        name: 服務
+      rpcUrl:
+        name: RPC 網址

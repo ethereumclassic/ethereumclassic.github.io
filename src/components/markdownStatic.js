@@ -25,6 +25,13 @@ export default function MarkdownStatic({ mdx, i18n }) {
               return <p {...props} />;
             }
           },
+          // flip for left to right locales
+          li: (props) => (
+            <li
+              tw="rtl:before:left-auto rtl:before:right-0 rtl:pl-0 rtl:pr-7"
+              {...props}
+            />
+          ),
           // style image wrappers
           figure: (props) => <figure tw="text-center font-bold" {...props} />,
           span: (props) => {

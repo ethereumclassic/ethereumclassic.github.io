@@ -6,11 +6,14 @@ seo: 실제 세계 및 가상 이더리움 클래식 관련 이벤트에 대한 
 contributors:
   - IstoraMandiri
   - bobsummerwill
+  - 크로우빌
 ---
 
 사람들이 모여 아이디어를 공유하고 ETC 커뮤니티의 참가자들이 자발적으로 조직하여 실제 생활과 온라인 모임을 구성하여 이더리움 클래식을 개선하는 데 집중할 때 마법이 일어납니다.
 
 ## 커뮤니티 콜
+
+업데이트: 정기 주간 커뮤니티 콜이 현재 중단되었습니다.
 
 매주 목요일, 일반적으로 UTC 1500에 그룹 음성 채팅이 Ethereum Classic [Discord](https://ethereumclassic.org/discord) 서버에서 진행됩니다. 통화는 [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos)로 스트리밍되지만 생방송 1시간 전인 1400 UTC에 참여하여 Green Room에서 녹음된 내용을 채팅할 수도 있습니다.
 

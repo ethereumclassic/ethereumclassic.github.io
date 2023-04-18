@@ -1,0 +1,47 @@
+title: Perguntas frequentes do desenvolvedor
+seo: Perguntas frequentes para quem deseja contribuir ou criar aplicativos no Ethereum Classic.
+info: 'Não consegue encontrar uma resposta para sua pergunta aqui? Tente perguntar no servidor ETC community [discord](https://ethereumclassic.org/discord). Especificamente, você pode achar interessante o canal `#dev-general` do ETC Discord.'
+description: Quer aprender a construir um aplicativo ou protocolo em cima do Ethereum Classic? Esta página é para você.
+items:
+  questions:
+    items:
+      types:
+        question: Que tipo de aplicativos posso criar no ETC?
+        answer: |
+          Como o ETC usa o EVM completo, qualquer tipo de sistema de contrato inteligente pode ser implantado no ETC; de Multisigs, a DeFi, a NFTs, para onde quer que seus sonhos possam levá-lo. Qualquer aplicativo que pode ser implantado no Ethereum também pode ser implantado no Ethereum Classic.
+
+          Algumas outras cadeias têm um histórico de censurar certos aplicativos e transações, portanto, se você deseja garantir que seu aplicativo seja executado exatamente como programado, sem tempo de inatividade, censura ou interferência de terceiros, considere a implantação no Ethereum Classic!
+
+          Para alguns exemplos de aplicativos que foram implantados no Ethereum Classic, confira a seção [apps](/services/apps).
+      eth:
+        question: Qual é a diferença entre ETH e ETC ao escrever aplicativos?
+        answer: |
+          Não há diferença ao redigir contratos; você pode usar as mesmas ferramentas de desenvolvedor e linguagem de programação (principalmente, Solidity) que usaria com Ethereum.
+
+          A principal diferença com o Ethereum é que o ETC possui um ecossistema de aplicativos diferente, portanto, os contratos implantados existentes com os quais você pode interagir diretamente são diferentes. Se você precisar se conectar a um ativo existente no Ethereum, poderá usar um ativo agrupado, [pontes entre cadeias](/services/apps/interoperability) ou até mesmo considerar a implantação de sua própria versão desses ativos.
+      development:
+        question: Como posso desenvolver aplicativos para Ethereum Classic?
+        answer: |
+          Confira a seção [guias de desenvolvimento](/guides/development), bem como a seção [development](/development) para obter tutoriais e ferramentas para ajudá-lo a implantar no Classic.
+      deployment:
+        question: Como faço para implantar no blockchain Ethereum Classic?
+        answer: |
+          Primeiro, adquira algum ETC para pagar o gás para implantar seu contrato e, em seguida, simplesmente certifique-se de implantar na rede Ethereum Classic (Chain ID 61), em vez da rede Ethereum (Chain ID 1).
+      rpc:
+        question: Existem endpoints RPC públicos que posso usar para implantar no ETC?
+        answer: |
+          Sim. Se você não deseja executar, sincronizar e manter seu próprio nó Ethereum Classic, há vários endpoints públicos disponíveis que são gratuitos.
+
+          Confira a seção [RPC Endpoints](/network/endpoints), bem como [ChainList.org](https://chainlist.org/chain/61).
+      grants:
+        question: Posso obter financiamento para construir no Ethereum Classic?
+        answer: |
+          Sim. Há uma série de programas passados e presentes para encorajar o desenvolvimento da ETC.
+
+          Um exemplo recente é [ETC Grants DAO](https://etcgrantsdao.io), que lançou um programa de concessões ETC em 2023.
+
+          Como o Ethereum Classic não possui tesouraria centralizada, todas as contribuições para o projeto são financiadas externamente. Isso inclui colaboradores que doam seu tempo e incentivos financeiros de financiamento de terceiros.
+      ecips:
+        question: Como posso ajudar no desenvolvimento do protocolo Ethereum Classic?
+        answer: |
+          Você pode enviar propostas para atualizações de protocolo por meio do processo [ECIP](/development/ecips). Você pode ajudar a manter as bases de código do cliente visitando os repositórios GitHub do [clients](/development/clients) com o qual gostaria de ajudar.

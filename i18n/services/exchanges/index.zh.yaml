@@ -22,3 +22,6 @@ items:
   NFT Marketplaces:
     title: NFT Marketplaces
     description: 以下的NFT市场可能不是*完全的去中心化的市场。
+  Other:
+    title: 其他兑换服务
+    description: 以下服务不属于上述任何类别。这些服务可能会也可能不会去中心化。

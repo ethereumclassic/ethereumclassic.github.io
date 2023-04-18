@@ -1,0 +1,20 @@
+title: Git 存儲庫
+description: 為 Ethereum Classic 開發人員提供的各種開源存儲庫的大雜燴。
+items:
+  repos:
+    items:
+      EthereumClassic:
+        name: Github 主要組織
+        description: 主要的以太坊經典 Github 組織，包含許多存儲庫，我們將在下面重點介紹其中的一部分……
+      eth-classic:
+        name: 另類 Github 組織
+        description: 另一個社區管理的 Github 組織，包括測試網配置、ETCHash、Besu 等。
+      etcLabs:
+        name: 等實驗室
+        description: 包含許多以前由 ETC Labs 維護的以太坊經典存儲庫的組織，包括 core-geth。
+      website:
+        name: 網站
+        description: 這個網站的源代碼，包括如何貢獻的說明。
+      awesomeEtc:
+        name: 真棒等
+        description: 以太坊經典 (ETC) 項目的絕佳資源列表。

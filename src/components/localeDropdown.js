@@ -34,7 +34,7 @@ export default function LocaleDropdown() {
             <Listbox.Button tw="relative bg-backdrop-light border border-shade-lighter rounded-md shadow-sm pl-3 pr-10 py-2 text-left cursor-default sm:text-sm">
               <span tw="flex items-center">
                 <Icon
-                  icon={current.key}
+                  icon={current.flag || current.key}
                   alt=""
                   tw="flex-shrink-0 h-6 w-6 rounded-full"
                 />

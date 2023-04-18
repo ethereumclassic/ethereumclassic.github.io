@@ -1,0 +1,109 @@
+title: 用戶常見問題
+seo: 那些在日常使用 Ethereum Classic 中尋求幫助的人的常見問題解答。
+info: 在這裡找不到問題的答案？嘗試在 ETC 社區 [discord](https://ethereumclassic.org/discord) 服務器中詢問。
+description: 如果您想發送和接收 ETC，使用部署到 Ethereum Classic 的應用程序之一，或者擔心如何安全地使用它，此頁面適合您。
+items:
+  using:
+    items:
+      comparison:
+        question: 我可以像使用以太坊 (ETH) 一樣使用以太坊經典 (ETC) 嗎？
+        answer: |
+          是的，以太坊經典以與以太坊幾乎完全相同的方式為最終用戶運作。您只需確保您使用的錢包、應用程序、交易所或其他服務支持 Classic。
+
+          Ethereum Classic 在技術上與以太坊非常相似，在適用於兩條鏈的用戶指南、教程和演練中共享大量工作，這就是為什麼 [Ethereum.org 上的社區指南](https://ethereum.org/ en/learn/) 是強烈推薦的閱讀材料。
+
+          您還可以將 MetaMask 與 Ethereum Classic 結合使用。
+      metmask:
+        question: 我如何將 ETC 與 MetaMask 一起使用？
+        answer: |
+          您可以通過 [CoinList.org](https://coinlist.org/chain/61) 網站輕鬆地將 Ethereum Classic 添加到 MetaMask。如果您想手動配置 MetaMask 以使用自定義 Ethereum Classic RPC 節點，您可以查看 [MetaMask](/guides/metamask) 指南。
+      missingEtc:
+        question: 為什麼在使用 MetaMask 硬件錢包時看不到我的 ETC？
+        answer: |
+          MetaMask 的一個[已知錯誤](https://github.com/MetaMask/metamask-extension/issues/16272) 是它無法識別使用 Ledger Live（和其他一些硬件錢包）創建的 ETC。您可以通過將 ETC 從 Ledger Live 發送到您使用同一設備設置的 MetaMask 錢包來解決此問題。
+      help:
+        question: 我不小心將 ETC 發送到我的 ETH 地址，我該如何恢復？
+        answer: |
+          第 1 步：別擔心。只要您將它發送到您控製或生成的帳戶，您就有可能收回您的資金。
+
+          根據您使用的軟件或交易所，有多種不同的恢復方法，因此無法在此處一一列舉。在線搜索“[服務名稱] 恢復丟失的 ETC”。您可能需要聯繫您正在使用的服務的支持代理。
+
+          例如，[Ledger錢包](https://support.ledger.com/hc/zh-cn/articles/360019363320-Eth-recovery-)
+      metmaskFailign:
+        question: 為什麼我的 MetaMask 交易失敗？
+        answer: |
+          為了防止多次創建交易，每個以太坊經典交易都包含一個稱為隨機數的數字，該數字會在您每次發送交易時遞增。
+
+          有時，特別是如果您以低 gas 費用發送交易，您的交易可能會卡在內存池中。在這種情況下，MetaMask 可能無法為後續交易正確設置隨機數。
+
+          您可以強制 MetaMask 使用正確的隨機數，方法是在 [BlockScout](https://blockscout.com/etc/mainnet/) 上檢查您上次成功交易的隨機數，將其增加 1，然後 [在 MetaMask 中手動設置隨機數](https://help.tokensets.com/en/articles/4089766-how-to-push-through-a-stuck-transaction)。
+      explorers:
+        question: 我如何查看我的以太坊經典交易？
+        answer: |
+          最受歡迎和功能齊全的 Ethereum Classic 瀏覽器是 [BlockScout](https://blockscout.com/etc/mainnet/)，但在 [block explorers](/network/explorers) 部分也有幾個可用的替代方案。
+      exchange:
+        question: 我怎樣才能得到ETC？
+        answer: |
+          Ethereum Classic 幾乎列在所有主要的加密貨幣 [exchange]（/服務/交易所）上，您可以在其中使用法定貨幣購買 ETC 或為其交易其他加密貨幣。
+
+          如果你有相當現代的顯卡，你也可以 [mine](/mining) 自己使用。
+      wallets:
+        question: 你推薦我使用哪個錢包來使用 Ethereum Classic？
+        answer: |
+          根據您的用例，有許多不同類型的錢包可用。查看 [wallets](/services/wallets) 部分了解更多信息。
+      apps:
+        question: 以太坊經典網絡上運行著哪些應用程序？
+        answer: |
+          從中心化交易所、DEX、DeFi、NFT、跨鏈橋等等。查看 [services](/services) 部分以了解更多信息。
+      defi:
+        question: 以太坊經典有 DeFi 嗎？
+        answer: |
+          是的。 Ethereum Classic 上存在一個小型但不斷發展的去中心化金融生態系統，請參閱 [finance](/services/apps/finance) 應用程序類別以獲取更新。
+      staking:
+        question: 我可以質押我的 ETC 嗎？
+        answer: |
+          不，至少不像你在股權證明區塊鏈上那樣。 ETC 是工作量證明區塊鏈，因此您只能挖礦，不能抵押，為網絡提供安全保障。
+
+          可能有一些 [借貸協議](/services/apps/finance) 允許您借出 ETC 以獲得收益，但這些不是以太坊經典協議本身的一部分，並且具有交易對手風險。
+      safety:
+        question: 我聽說以太經典被 51% 攻擊了。使用安全嗎？
+        answer: |
+          2020 年，以太經典的哈希率處於歷史低位，導致了一系列 51% 攻擊。據信，攻擊者通過雙花攻擊出租哈希率和目標交易所，總共損失了約 1000 萬美元的 ETC。
+
+          作為回應，Ethereum Classic 客戶和更廣泛的生態系統實施了一系列對策，例如在交易所、ECIP-1099 和 MESS 上延長確認時間。由於這些對策已經到位，因此沒有再發生 51% 攻擊。
+
+          此外，自從以太坊在 2022 年轉向權益證明以來，ETC 成為最大的 GPU 可挖礦鏈，自上次 51% 攻擊以來，其哈希率提高了 50 倍至 100 倍。這使得租用一個算力池來執行另一次 51% 攻擊的可能性極小，即使是這樣，在沒有任何成功保證的情況下這樣做的成本也會高得令人望而卻步。
+
+          與所有工作量證明區塊鏈一樣，發生 51% 攻擊的可能性是協議設計的必要部分。隨著時間的推移，以太坊經典不再以這種方式受到攻擊，利益相關者可以越來越相信 51% 攻擊已成為過去。
+
+          無論如何，51% 攻擊者以小農戶為目標在經濟上沒有意義，而且他們無法“竊取”您的 ETC。相反，他們通常通過雙花提款來瞄準交易所。從歷史上看，交易所已經能夠吸收這些相對小規模的攻擊，並已按照描述實施反制措施。
+      deposit:
+        question: 為什麼存入 ETC 需要這麼長時間？
+        answer: |
+          上述問題中提到，作為 51% 攻擊的對策，一些交易所對 Ethereum Classic 的充值時間非常長。這有助於防止交易所成為雙花攻擊的受害者，但這意味著用戶需要等待更多時間才能確認存款。
+
+          由於 ETC 的算力最近大幅增加，交易所很可能會減少完成存款所需的確認次數。
+      blockchain:
+        question: 什麼是區塊鏈？
+        answer: |
+          區塊鍊是一種特殊類型的分佈式數據庫。區塊鏈最大的特點就是無人控制！沒有人需要每個人都信任來管理它。這就是為什麼他們被稱為不信任的。用戶在_transactions_中提交任務，這些任務被分組到_blocks_中，這些_blocks_鏈接在一起形成_chains_。
+
+          - [區塊鏈如何工作 - 簡單解釋](https://youtu.be/SSo_EIwHSd4)
+          - [7 分鐘了解區塊鏈](https://youtu.be/yubzJw0uiE4)
+          - [傻瓜式區塊鏈技術 -區塊鏈簡單解釋](https://youtu.be/2yJqjTiwpxM)
+          - [區塊鏈解釋](https://youtu.be/QphJEO9ZX6s)
+      ether:
+        question: 什麼是以太幣？
+        answer: |
+          以太幣是 Ethereum Classic 的原生代幣，是一種在數字貨幣交易所交易的加密貨幣，股票代碼為 **ETC**。以太幣是作為對網絡節點的獎勵而創建的，用於稱為挖掘的過程，該過程驗證在 Ethereum Classic 的 EVM 上執行的計算。
+
+          Ether 和 ETC 表示用於支付安裝新智能合約等任務的原生加密貨幣。
+          【什麼是以太幣和以太坊？】(https://youtu.be/fjnovGRQrRE)
+      gas:
+        question: 什麼是煤氣？
+        answer: |
+          Gas 是內部交易定價機制，用於減少垃圾郵件和在網絡上分配資源。它是一個用於表示執行諸如安裝新智能合約等任務所需的_資源_量的單位。
+
+          - [以太坊氣體解釋](https://youtu.be/hQ78FVSv-vs)
+          - [以太與氣體的區別 |程序員解釋](https://youtu.be/cZ0rYWJzeow)
+          - [Gas Price and Transaction Nonce](https://mirror.xyz/0x4B0728B9B1E45583bFb8bD738C9C6c8906f2841d/gYK5HwZjAHZuoZXb5FcwcKbGedfX7MbCNt7Dei6oye)

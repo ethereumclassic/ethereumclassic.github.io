@@ -1,0 +1,35 @@
+title: 影片
+description: 關於以太坊經典的視頻集，按類別組織。
+support: 通過提交您自己的視頻來支持 ETC！
+changeLanguage: 此頁面僅顯示您當前所選語言的視頻。更多內容，請查看英文視頻。
+tags:
+  explainers:
+    title: 解說員
+    description: 解釋以太坊經典哲學、歷史和技術概念的教育視頻。
+  tutorials:
+    title: 教程
+    description: 涵蓋如何在 Ethereum Classic 上使用和開發的指南。
+  development:
+    title: 發展
+    description: 涵蓋面向開發人員的 Ethereum Classic 技術相關主題的視頻。
+  trading:
+    title: 貿易
+    description: 涵蓋 ETC 的技術和基本面分析、價格預測和投資建議。
+  discussions:
+    title: 討論
+    description: 長篇討論，包括播客、辯論和每週一次的社區電話會議
+  mining:
+    title: 礦業
+    description: 視頻涵蓋如何挖掘 ETC、硬件、軟件和利潤預期。請務必同時查看 [mining](/mining) 部分以獲取更多信息。
+  conferences:
+    title: 會議
+    description: 以太坊經典峰會是一年一度的活動，在全球多個城市舉行。本節包含來自 ETC 峰會和其他會議或聚會的演講。
+  etc-summit-2018:
+    title: 2018年ETC峰會
+    description: 第二屆以太坊經典峰會於 2018 年 9 月 12 日在韓國首爾舉行
+  etc-summit-2019:
+    title: 2019年ETC峰會
+    description: 第三屆以太坊經典峰會於 2019 年 10 月 3 日在加拿大溫哥華舉行
+  etc-summit-2017:
+    title: 2017年ETC峰會
+    description: 首屆以太坊經典峰會於2017年11月13日在香港舉行

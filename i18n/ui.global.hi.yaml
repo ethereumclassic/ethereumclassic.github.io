@@ -1,9 +1,9 @@
 title: एथेरियम क्लासिक
 seo: "एक विकेन्द्रीकृत कंप्यूटिंग प्लेटफॉर्म जो स्मार्ट कॉन्ट्रैक्ट चलाता है: ऐसे एप्लिकेशन जो बिना डाउनटाइम, सेंसरशिप या तीसरे पक्ष के हस्तक्षेप के बिल्कुल प्रोग्राम किए गए हैं।"
 #Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
-metaLocale: hi_US
+metaLocale: hi_IN
 #Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
-htmlLang: एन
+htmlLang: hi
 published: प्रकाशित
 updated: आखरी अपडेट
 author: लेखक
@@ -19,7 +19,7 @@ disclaimers:
     text: यह पृष्ठ आवश्यक रूप से सभी ईटीसी हितधारकों के दृष्टिकोण को नहीं दर्शाता है।
 next: जारी रखें पढ़ रहे हैं
 prev: पिछला लेख
-contribute: अगर आप इस पेज पर जानकारी जोड़कर या सुधार कर योगदान देना चाहते हैं, तो कृपया [Discord](https://discord.com/invite/dwxb6nf) पर एक संदेश छोड़ें या [GitHub]पर एक समस्या बनाएं (https://github.com/ethereumclassic /ethereumclassic.github.io)
+contribute: अगर आप इस पेज पर जानकारी जोड़कर या सुधार कर योगदान देना चाहते हैं, तो कृपया [Discord](https://discord.com/invite/dwxb6nf) पर एक संदेश छोड़ें या [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io) पर एक समस्या बनाएं
 contributors: "यह पृष्ठ निम्नलिखित योगदानकर्ताओं के लिए धन्यवाद के रूप में मौजूद है:"
 allLanguages: सारी भाषाएँ
 noResults: कोई परिणाम नहीं
@@ -58,14 +58,16 @@ socialItems:
     name: कलह
   discordCoop:
     name: ईटीसी कॉप कलह
+  twitterEthclassic:
+    name: एथ_क्लासिक ट्विटर
+  twitterEtcnetwork:
+    name: ETC_नेटवर्क ट्विटर
   githubOrg:
     name: Github
   githubLabs:
     name: ईटीसी लैब्स जीथब
   reddit:
     name: reddit
-  twitter:
-    name: ट्विटर
 appTypes:
   finance:
     name: वित्त
@@ -105,3 +107,25 @@ appModal:
   checkListRating: भरोसेमंद चेकलिस्ट स्तर
   warning: "**चेतावनी:** इस उपयोगकर्ता द्वारा सबमिट किए गए ऐप की जांच नहीं की गई है और सुरक्षित होने की गारंटी नहीं है; अपने जोखिम पर उपयोग करें, और हमेशा अपना शोध स्वयं करें!"
   added: जोड़ा
+## Tags
+tags: टैग
+tagNames:
+  blog: ईटीसी ब्लॉग
+  announcement: घोषणाएं
+  application: ऐप्स
+  development: विकास
+  education: शिक्षा
+  event: आयोजन
+  exchange: एक्सचेंजों
+  guide: गाइड
+  hardfork: कठिन कांटे
+  media: मिडिया
+  mining: खुदाई
+  podcast: पॉडकास्ट
+  teams: टीमें
+  trading: व्यापार
+  wallet: पर्स
+  video: वीडियो
+  news: बाहरी संबंध
+  philosophy: दर्शन
+  series: शृंखला

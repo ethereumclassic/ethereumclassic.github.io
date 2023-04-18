@@ -1,0 +1,32 @@
+items:
+  table:
+    number: 數字
+    author: 作者
+    columnItems:
+      title:
+        name: 標題
+      author:
+        name: 作者
+    items:
+      Delay Difficulty Bomb Explosion:
+        title: 延遲難度炸彈爆炸
+      Long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks:
+        title: IO 密集型操作的長期 gas 成本變化，以減輕交易垃圾郵件攻擊
+      Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule:
+        title: 貨幣政策和以太坊經典排放時間表的最終修改
+      Monetary policy rounding specification:
+        title: 貨幣政策舍入規範
+      Remove Difficulty Bomb:
+        title: 移除難度炸彈
+      Clique proof-of-authority consensus protocol:
+        title: Clique 權威證明共識協議
+      Status Codes:
+        title: 狀態碼
+      Atlantis EVM and Protocol Upgrades:
+        title: Atlantis EVM 和協議升級
+      Agharta EVM and Protocol Upgrades:
+        title: Agharta EVM 和協議升級
+      Phoenix EVM and Protocol Upgrades:
+        title: Phoenix EVM 和協議升級
+      Calibrate Epoch Duration:
+        title: 校準紀元持續時間

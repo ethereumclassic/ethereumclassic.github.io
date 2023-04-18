@@ -1,0 +1,53 @@
+billboard:
+  text: O %%$$%% Ethereum
+  ## must be kind of short, so they fit on the page
+  randomWords:
+    Decentralized: "descentralizado"
+    Original: "Original"
+    Veracious: "veraz"
+    Untainted: "imaculado"
+    Uncensored: "sem censura"
+    Untampered: "Não adulterado"
+    Immutable: "Imutável"
+    Sound Money: "Dinheiro de som"
+    Uncaptured: "não capturado"
+    SovereignGrade: "Grau Soberano"
+    Principled: "princípios"
+    Unstoppable: "imparável"
+    Proof of Work: "Prova de Trabalho"
+    Leaderless: "sem líder"
+    Antifragile: "Antifrágil"
+    Code is Law: "Código é lei"
+    Classic: "Clássico"
+    Permisionless: "sem permissão"
+    Global: "Global"
+## feature
+feature:
+  title: perguntas frequentes
+  subtitle: Nova Seção
+  text: Encontre rapidamente as respostas que procura navegando nas Perguntas frequentes organizadas por caso de uso.
+  button: Perguntas respondidas
+## intro
+intro:
+  title: Crie aplicativos imparáveis
+  content: |
+    Como as instituições estabelecidas estão cada vez mais ameaçadas pelo potencial selvagem da tecnologia blockchain, apenas criptomoedas verdadeiramente descentralizadas e seguras sobreviverão.
+
+    Existente em resposta à censura contratual na cadeia irmã Ethereum™ (ETH) e para defender e preservar o princípio de *Código é Lei*, Ethereum Classic (ETC) provou sua capacidade de resistir à censura contra todas as probabilidades e entregar o *original * Visão Ethereum de aplicativos *imparáveis*.
+
+    Ao combinar a tecnologia do Ethereum™ (ETH) com a filosofia do Bitcoin (BTC), o Ethereum Classic (ETC) está posicionado de forma única para ser a plataforma de contratos inteligentes de camada básica do futuro, à medida que outras cadeias são comprometidas ou capturadas por interesses especiais .
+
+    Bem-vindo e, por favor, seja convidado a descobrir o passado, presente e futuro do Ethereum Classic; seus princípios, proposta de valor, comunidade e muito mais - para entender *por que Classic*.
+  button:
+    text: Por que Clássico?
+#Headers
+headings:
+  headlines:
+    title: Manchetes
+    button: Todas as notícias
+  videos:
+    title: Últimos vídeos
+    button: Todos os vídeos
+  apps:
+    title: Aplicativos mais recentes
+    button: Todos os aplicativos

@@ -22,3 +22,6 @@ items:
   NFT Marketplaces:
     title: Thị trường NFT
     description: Các thị trường NFT sau đây có thể không phải là thị trường phi tập trung * hoàn toàn *.
+  Other:
+    title: Dịch vụ trao đổi khác
+    description: Các dịch vụ sau đây không thuộc bất kỳ loại nào ở trên. Các dịch vụ này có thể hoặc không thể được phân cấp.
