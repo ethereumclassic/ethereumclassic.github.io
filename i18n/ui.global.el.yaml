@@ -1,9 +1,9 @@
 title: Ethereum Classic
 seo: "Μια αποκεντρωμένη υπολογιστική πλατφόρμα που εκτελεί έξυπνα συμβόλαια: εφαρμογές που εκτελούνται ακριβώς όπως έχουν προγραμματιστεί χωρίς διακοπή λειτουργίας, λογοκρισία ή παρέμβαση τρίτων."
 #Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
-metaLocale: en_US
+metaLocale: el_GR
 #Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
-htmlLang: en
+htmlLang: el
 published: Δημοσιευμένο
 updated: Τελευταία ενημέρωση
 author: Συγγραφέας
@@ -58,14 +58,16 @@ socialItems:
     name: Discord
   discordCoop:
     name: ETC Coop Discord
+  twitterEthclassic:
+    name: eth_classic Twitter
+  twitterEtcnetwork:
+    name: ETC_Network Twitter
   githubOrg:
     name: Github
   githubLabs:
     name: ETC Labs Github
   reddit:
     name: Reddit
-  twitter:
-    name: Twitter
 appTypes:
   finance:
     name: Οικονομικά
@@ -105,3 +107,25 @@ appModal:
   checkListRating: Επίπεδο λίστας ελέγχου χωρίς εμπιστοσύνη
   warning: "**Προειδοποίηση:** Αυτή η εφαρμογή που έχει υποβληθεί από χρήστες ΔΕΝ έχει ελεγχθεί και ΔΕΝ είναι εγγυημένα ασφαλής.Χρησιμοποιήστε την με δική σας ευθύνη και κάντε πάντα τη δική σας έρευνα!"
   added: Προστέθηκε
+## Tags
+tags: Ετικέτες
+tagNames:
+  blog: ETC Blog
+  announcement: Ανακοινώσεις
+  application: Εφαρμογές
+  development: Ανάπτυξη
+  education: Εκπαίδευση
+  event: Εκδηλώσεις
+  exchange: Ανταλλαγές
+  guide: Οδηγοί
+  hardfork: Hard Forks
+  media: Μεσο ΜΑΖΙΚΗΣ ΕΝΗΜΕΡΩΣΗΣ
+  mining: Εξόρυξη
+  podcast: Podcast
+  teams: Της ομάδας
+  trading: Εμπορία
+  wallet: Πορτοφόλια
+  video: Βίντεο
+  news: Εξωτερικοί σύνδεσμοι
+  philosophy: Φιλοσοφία
+  series: Σειρά

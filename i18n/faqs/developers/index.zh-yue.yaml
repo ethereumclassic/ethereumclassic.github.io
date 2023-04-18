@@ -1,0 +1,47 @@
+title: 開發者常見問題解答
+seo: 針對那些希望在 Ethereum Classic 上做出貢獻或構建應用程序的人的常見問題解答。
+info: '在這裡找不到問題的答案？嘗試在 ETC 社區 [discord](https://ethereumclassic.org/discord) 服務器中詢問。具體來說，您可能會對 ETC Discord 的“#dev-general”頻道感興趣。'
+description: 想了解如何在 Ethereum Classic 之上構建應用程序或協議？此頁面適合您。
+items:
+  questions:
+    items:
+      types:
+        question: 我可以在 ETC 上構建什麼樣的應用程序？
+        answer: |
+          由於ETC使用圖靈完備的EVM，任何類型的智能合約系統都可以部署到ETC上；從多重簽名，到 DeFi，再到 NFT，再到夢想可以帶你去的任何地方。任何可以部署到以太坊的應用程序也可以部署到以太坊經典。
+
+          其他一些鏈有審查某些應用程序和交易的歷史，所以如果你想確保你的應用程序完全按照編程運行而不會停機、審查或第三方乾擾，那麼請考慮部署到 Ethereum Classic！
+
+          有關已部署到 Ethereum Classic 的一些應用示例，請查看 [apps](/services/apps) 部分。
+      eth:
+        question: ETH和ETC在寫應用的時候有什麼區別？
+        answer: |
+          寫合同時沒有區別；您可以使用與以太坊相同的開發工具和編程語言（尤其是 Solidity）。
+
+          與以太坊的主要區別在於 ETC 具有不同的應用程序生態系統，因此您可以直接與之交互的現有已部署合約是不同的。如果您需要插入以太坊上的現有資產，您可以使用包裝資產、[跨鏈橋](/services/apps/interoperability)，或者您甚至可以考慮部署您自己的這些資產版本。
+      development:
+        question: 我如何為 Ethereum Classic 開發應用程序？
+        answer: |
+          查看 [開髮指南](/guides/development) 部分，以及 [development](/development) 部分，獲取幫助您部署到 Classic 的教程和工具。
+      deployment:
+        question: 如何部署到 Ethereum Classic 區塊鏈？
+        answer: |
+          首先，獲取一些 ETC 來支付 gas 以部署你的合約，然後只需確保你部署到以太坊經典網絡（鏈 ID 61），而不是以太坊網絡（鏈 ID 1）。
+      rpc:
+        question: 是否有可用於部署到 ETC 的公共 RPC 端點？
+        answer: |
+          是的。如果您不想運行、同步和維護自己的 Ethereum Classic 節點，可以免費使用許多可用的公共端點。
+
+          查看 [RPC 端點](/network/endpoints) 部分，以及 [ChainList.org](https://chainlist.org/chain/61)。
+      grants:
+        question: 我可以獲得資金來構建 Ethereum Classic 嗎？
+        answer: |
+          是的。有許多過去和現在的計劃來鼓勵 ETC 的發展。
+
+          最近的一個例子是 [ETC Grants DAO](https://etcgrantsdao.io)，它於 2023 年啟動了 ETC 贈款計劃
+
+          由於 Ethereum Classic 沒有集中的金庫，因此對該項目的所有貢獻都是外部資助的。這包括貢獻者貢獻他們的時間，以及來自第三方資金的經濟激勵。
+      ecips:
+        question: 我如何幫助開發 Ethereum Classic 協議？
+        answer: |
+          您可以通過 [ECIP](/development/ecips) 流程提交協議升級提案。您可以通過訪問您想要幫助的 [clients](/development/clients) 的 GitHub 存儲庫來幫助維護客戶端代碼庫。

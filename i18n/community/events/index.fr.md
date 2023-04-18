@@ -6,11 +6,14 @@ seo: Un aperçu des événements réels et virtuels liés à Ethereum Classic. E
 contributors:
   - IstoraMandiri
   - bobsummerwill
+  - LeCrowbill
 ---
 
 La magie opère lorsque les gens se rassemblent et partagent des idées, et les participants de la communauté ETC se sont spontanément organisés pour former des rassemblements dans la vie réelle et en ligne afin de concentrer leur attention sur l'amélioration d'Ethereum Classic.
 
 ## Appels communautaires
+
+MISE À JOUR : les appels communautaires réguliers et hebdomadaires sont actuellement interrompus.
 
 Tous les jeudis, généralement à 1500 UTC, un chat vocal de groupe a lieu sur le serveur [Discord d'Ethereum Classic](https://ethereumclassic.org/discord). La conférence est diffusée en continu sur [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos), mais vous pouvez également nous rejoindre une heure avant le début de la conférence, à 14 heures UTC, pour discuter de manière informelle dans le salon vert.
 

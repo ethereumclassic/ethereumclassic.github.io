@@ -6,11 +6,14 @@ seo: Un resumen de los eventos relacionados con Ethereum Classic en el mundo rea
 contributors:
   - IstoraMandiri
   - bobsummerwill
+  - elcuervo
 ---
 
 La magia sucede cuando la gente se reúne y comparte ideas, y los participantes de toda la comunidad ETC se han organizado espontáneamente para formar reuniones en la vida real y en línea para centrar su atención en la mejora de Ethereum Classic.
 
 ## Llamadas comunitarias
+
+ACTUALIZACIÓN: Las llamadas comunitarias regulares y semanales están actualmente en pausa.
 
 Todos los jueves, normalmente a las 1500 UTC, tiene lugar un chat de voz en grupo en el servidor de Discord de Ethereum Classic [](https://ethereumclassic.org/discord). La llamada se transmite en [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos), pero también puede unirse una hora antes de que salgamos en directo, a las 1400 UTC, para charlar extraoficialmente en la Sala Verde.
 

@@ -1,0 +1,305 @@
+title: 事件時間表
+items:
+  frontierRelease:
+    title: 以太坊推出
+    text: Vitalik Buterin 和以太坊基金會通過 Frontier 版本創建了第一個基於區塊鏈的圖靈完備智能合約平台。
+  frontierThawingUpgrade:
+    title: 邊境解凍升級
+    text: 該網絡在第 200,000 個區塊實施了“冰河時代”，引入了難度炸彈，該機制旨在將網絡的共識機制從工作量證明轉移到權益證明。
+  homesteadUpgrade:
+    title: 家園升級
+    text: Homestead 是以太坊平台的第二個主要版本發布。
+  slockItCreatesThe Dao:
+    title: Slock.it 創建 DAO
+    text: Slock.it 構建 The DAO 以太坊合約； Dejavu 完成了安全審計。
+  the DaoCrowdsaleBegins:
+    title: DAO 眾籌開始
+    text: 部署DAO智能合約；公眾向其發送價值以換取 DAO 代幣。
+  securityProposal:
+    title: 安全提案
+    text: Slock.it 宣布了一項 150 萬美元的提案，由眾籌以以太幣支付，“以保證 The DAO 的完整性”。
+  moratoriumCalled:
+    title: 呼籲暫停
+    text: 在眾籌的最後一天，DAO 策展人 Vlad Zamfir 呼籲暫停 The DAO，理由是存在許多博弈論安全問題。
+  the DaoCrowdsaleEnds:
+    title: DAO 眾籌結束
+    text: 眾籌完成，成為世界上最大的眾籌，籌集了令人難以置信的 1.5 億美元。
+  recursiveCallBugDiscovered:
+    title: 發現遞歸調用錯誤
+    text: Peter Vessenes 公開披露了在許多 Solidity 合約中被忽視的嚴重安全漏洞的存在。
+  noFundsAtRisk:
+    title: 無風險資金
+    text: Stephan Tual 公開聲稱，儘管存在新發現的嚴重安全漏洞，但 DAO 資金是安全的。
+  the DAOIsHacked:
+    title: DAO 被黑
+    text: 隨著重入漏洞的出現，以太幣從 The DAO 中緩慢而悄無聲息地流失。
+  panicHitsTheMarkets:
+    title: 恐慌衝擊市場
+    text: 隨著 Griff Green 宣布 The DAO 遭到黑客攻擊，以太幣的價格被削減了一半。
+  theCountdownBegins:
+    title: 倒計時開始
+    text: DAO 的拆分機制提供了大約一個月的時間來找到回收資金的解決方案；基金會和社區開發人員競相實施軟分叉。
+  robinHoodGroupAnnounced:
+    title: 羅賓漢集團宣布
+    text: 一群“白帽”黑客保護了 70% 的 The DAO 資金，但需要採取協議級別的行動來挽救黑客分割的剩餘 30%。
+  softForkTheDao:
+    title: "DAO 戰爭：軟分叉投票"
+    text: 以太坊基金會發布了一個“軟分叉”客戶端來審查來自黑客的交易；礦池投票通過降低氣體限制來啟用它。
+  softForkVulnerability:
+    title: 軟分叉漏洞
+    text: 在 Soft Fork 實施中發現了嚴重的拒絕服務漏洞，礦工們很快決定不使用它。
+  hardForkDebate:
+    title: 硬分叉辯論
+    text: 以太坊社區就實施硬分叉的優缺點進行了多日的激烈爭論。
+  hardForkSpecAnnounced:
+    title: 硬分叉規範公佈
+    text: 唯一剩下的選擇是有爭議的硬分叉。規範由 Slock.it 和以太坊基金會成員確定和公佈。
+  lastMinuteCarbonvote:
+    title: 最後一分鐘碳投票
+    text: 提前 12 小時通知，以太坊基金會使用有爭議的第三方“代幣投票”來確定硬分叉應該默認打開；宣布共識，並發布更新的客戶端。
+  daoBailoutHardFork:
+    title: DAO 救助硬分叉
+    text: 隨著大約 80% 的節點更新到新客戶端，社區緊張地等待 DAO Bailout 分叉激活塊 1,920,000 的到來。
+  newEthereumIsBorn:
+    title: 新叉鏈
+    text: 分叉鏈誕生了！以太坊基金會於 2016 年 7 月 20 日創建了以太坊的修改版本，以扭轉 DAO 盜竊行為。作為商標權人，以太坊基金會將以太坊（ETH）品牌應用在新的分叉鏈上。
+  ethereumRenamedToClassic:
+    title: 原創非分叉鏈
+    text: 隨著原始非分叉鏈在數小時內消失的預測，許多人驚訝地發現礦工繼續支持原始鏈。 Bisq 和 OTC 服務台為這些代幣提供了價格發現訂單簿。市場參與者重新命名這條非分叉鏈 Ethereum Classic (ETC)。
+  missionAccomplished:
+    title: 任務完成！
+    text: ETH 社區鬆了一口氣，因為 DAO 分叉代碼已成功實現，沒有明顯的缺陷；香檳軟木塞在全球各地流行。新連鎖店的誕生是成功的！
+  poloniexListsETC:
+    title: Poloniex 上線 ETC
+    text: 最大的以太坊交易所表示對原始鏈的長期支持，Poloniex 列出了 ETC。許多交易所迅速效仿。
+  etheriansInDisarray:
+    title: 以太斷裂
+    text: 火焰戰爭開始於 subreddits。隨著經濟問題的尖酸刻薄的口角開始佔據參與者，因為它涉及到分裂的現實。
+  ethereumClassicsupporters:
+    title: 以太坊經典支持者
+    text: Ethereum Classic 的支持者從 Ethereum subreddits 分支出來，形成了自己的社交渠道。
+  geth-ETC-Support:
+    title: Geth 支持以太坊經典
+    text: Geth 發布了對 Ethereum Classic 網絡的支持。該節點從客戶端移除了所有 DAO 代碼，並且不需要額外的標誌來使用以太坊經典網絡。
+  parity-ETC-Support:
+    title: Parity 支持以太坊經典
+    text: Parity 1.2.3 版本標誌著對 Ethereum Classic 的長期支持，它解決了 Ethereum HF 和 Ethereum Classic 鏈的網絡穩定性問題，並對事務跟踪 API 進行了一些更改。
+  51Pool:
+    title: 51% 攻擊威脅
+    text: ETH 支持者組成了一個名為 51Pool.org 的礦池，計劃通過策劃 51% 攻擊來摧毀 ETC 網絡。
+  minerSupport:
+    title: 礦工支持ETC
+    text: 在ETC網絡發展到無法再攻擊的時候，ETH礦工公開聲明不攻擊ETC。為了防止傷害無辜的以太坊經典持有者，ETHash 礦工投入資源開採 ETC。
+  attackRhg:
+    title: RHG 攻擊 ETC
+    text: Robin Hood Group 試圖從 DAO 分叉中拋售大量被盜的 ETC。 Poloniex 凍結了他們的資金。
+  classicDeclaresIndependence:
+    title: 經典宣告獨立
+    text: 在鏈分裂的 ETH 側的無情攻擊之後，以太坊經典支持者堅定地宣布他們獨立於新的 ETH 鏈。
+  classicRebuilds:
+    title: 久經沙場，堅韌不拔
+    text: 隨著 ETC 以穩定的價格從 ETH 攻擊中脫穎而出，以太坊經典證明了其對市場的彈性。網絡核心原則在 DAO 救助期間被激發。支持者開始從灰燼中重建。
+  unlockedDaoFunds:
+    title: DAO 資金在 ETC 上解鎖
+    text: DAO 代幣持有者和 DAO 黑客可以使用數百萬之前鎖定或凍結的 ETC。面對巨大的市場拋售，ETC 的價格表現非常出色。
+  codeIsLaw:
+    title: 代碼就是法律
+    text: 在 ETH 攻擊期間，以太坊經典支持者發出了許多戰斗口號。他們開始闡明他們的核心原則，並向公眾驗證 ETC 網絡的存在。
+  gasReprice:
+    title: Gas 重新定價升級
+    text: 由於技術堆棧中的漏洞，兩個以太坊網絡都受到攻擊。 ETC 開發人員可快速確保順利且無爭議的網絡升級，以修補被利用的漏洞。
+  etcMonetaryPolicy:
+    title: ETC貨幣政策
+    text: Ethereum Classic 的支持者爭論 ETC 的排放時間表和貨幣政策。
+  grothendieckTeam:
+    title: 格洛騰迪克團隊
+    text: IOHK 向 Ethereum Classic 委託了一個由 7 名全職開發人員組成的團隊
+  dieHardUpgrade:
+    title: 虎膽升級
+    text: Ethereum Classic 解決了重放攻擊並延遲了網絡升級中的難度炸彈。
+  etcDEVTeamAnnouncement:
+    title: ETCD開發團隊
+    text: 一個由長期 ETC 貢獻者和志願者組成的團隊更名為 ETCDEV 團隊。
+  monetaryPolicyAdopted:
+    title: 貨幣政策共識
+    text: Ethereum Classic 圍繞 210.7M ETC 固定上限貨幣政策和受比特幣啟發的有限排放時間表（稱為 5M20）達成共識；每 500 萬個區塊減少 20% 的區塊獎勵。
+  etcInvestmentFund:
+    title: ETCG投資基金
+    text: Grayscale 推出了第一個非比特幣加密貨幣基金，使傳統投資者能夠將 ETC 添加到他們的投資組合中，並享受傳統投資資產的所有稅收優惠。
+  etcCommonwealth:
+    title: 英聯邦隊
+    text: 一個開發團隊以 Ethereum Commonwealth 的名義成立。
+  mantis-Launch:
+    title: 螳螂發射
+    text: 這個 beta 客戶端 Mantis 將於今天發布，這是 Grothendieck 團隊七個月的工作成果，IOHK 團隊致力於以太坊經典。
+  etcCoop:
+    title: ETC合作團隊
+    text: Grayscale 通過贊助 ETC Cooperative 團隊的一部分 ETCG 管理費來表示對以太坊經典協議開發的長期支持。向非營利組織捐款可免稅。
+  etcSummitHK:
+    title: 2017年ETC峰會
+    text: 第一屆年度以太坊經典會議在香港舉行。
+  gothamUpgrade:
+    title: 哥譚升級
+    text: Gotham 升級建立了受比特幣啟發的可預測貨幣政策和排放時間表。 5M20，每5M塊出塊獎勵減少20%。
+  era2:
+    title: 5M20時代2
+    text: Ethereum Classic 的 5M20 排放時間表進入 Era 2。區塊獎勵減少 20% 至每個區塊 4 ETC。
+  multi-Geth-Launch:
+    title: 多 Geth 啟動
+    text: Multi-Geth 客戶端項目啟動。這是從 Ethereum Foundation 版本 fork 出來的 go-ethereum 客戶端，旨在緊跟上游變化，支持多個以太坊網絡。我們剛剛添加了對 Ethereum Classic 網絡的 alpha 支持。
+  defuseDifficultyBomb:
+    title: 拆除難度炸彈
+    text: ETC 安全地禁用難度炸彈，將原來的以太坊項目切換到 PoS。 Ethereum Classic 表示長期致力於將工作量證明作為一種網絡共識機制。
+  etclabs:
+    title: ETC 實驗室團隊
+    text: Ethereum Classic Labs 為新興的 ETC 項目提供資金、行業聯繫和辦公空間；在舊金山和新加坡設有辦公空間。
+  kotti:
+    title: Kotti 測試網啟動
+    text: ETC Cooperative 資助 Kotti 測試網的開發，這是一個權威證明測試網，旨在提供與姐妹鏈 ETH 的 Görli 測試網的互操作性測試。 PoA 成為 dapp 開發測試的首選測試網環境。
+  etcSummitSeoul:
+    title: 2018年ETC峰會
+    text: 第二屆年度以太坊經典會議在韓國首爾舉行。
+  coinbase:
+    title: Coinbase 列出 ETC
+    text: 美國最大的加密貨幣交易所表示對原始以太坊鏈的長期支持；以太坊經典。
+  etcLabsIncubator:
+    title: 孵化器計劃啟動
+    text: Ethereum Classic Labs 啟動了一個孵化器計劃。 ETC Labs 承諾每年與多達 24 家基於 Ethereum Classic 的初創公司合作。
+  51Attack:
+    title: 51% 攻擊
+    text: Ethereum Classic 在其網絡上經歷了第一次成功的鏈重組攻擊。有彈性的 ETC 從灰燼中重生。
+  51AttackReturn:
+    title: 白帽攻擊者
+    text: 51% 攻擊者似乎是一名白帽黑客，並將被盜資金返還給受感染的交易所。中心化交易所全面加強對工作量證明硬幣的 51% 攻擊監控。
+  atlantisConsensus:
+    title: 亞特蘭蒂斯粗略共識
+    text: Ethereum Classic 核心開發者就 ECIP-1054 達成了粗略的共識，以實現 ETH 的 Spurious Dragon 和 Byzantium 網絡協議升級。
+  atlantisUpgrade:
+    title: 亞特蘭蒂斯升級
+    text: Ethereum Classic 核心開發人員實施 ETH 的 Spurious Dragon 和 Byzantium 網絡協議升級，以保持與其姐妹鏈的操作對等。
+  etcSummitVancouver:
+    title: 2019年ETC峰會
+    text: 第三屆年度以太坊經典會議在加拿大溫哥華舉行。
+  mordorLaunch:
+    title: 魔多發射
+    text: 核心開發人員通過用 Mordor 替換 Kensington、Morden 和 Nazgul 測試網絡來消除測試網絡冗餘，Mordor 是用於協議級別測試的 Ethash PoW 測試網絡。
+  besu-ETC-Support:
+    title: Besu 支持以太坊經典
+    text: Hyperledger Besu 向其以太坊客戶端添加了以太坊經典支持，旨在為公共和私有許可網絡用例提供企業友好型服務。
+  aztlanConsensus:
+    title: 阿茲特蘭粗糙共識
+    text: Ethereum Classic 核心開發者就 ECIP-1061 達成粗略共識，力圖實現 ETH 的伊斯坦布爾網絡協議升級。
+  aghartaConsensus:
+    title: Agharta 粗略共識
+    text: Ethereum Classic 核心開發者就 ECIP-1056 達成粗略共識，力圖實現 ETH 的君士坦丁堡和彼得堡網絡協議升級。
+  aghartaUpgrade:
+    title: Agharta 升級
+    text: Ethereum Classic 核心開發人員實施 ETH 的君士坦丁堡和彼得斯堡網絡協議升級，以保持與其姊妹鏈的運營對等。
+  core-Geth-Launch:
+    title: Core-Geth 發布
+    text: ETC Core 團隊從 Multi-Geth 客戶端項目中分叉出來。該項目名為 Core-Geth，是以太坊/go-ethereum 的下游項目，旨在使以太坊協議可訪問和可擴展到多樣化的生態系統。
+  phoenixFixConsensus:
+    title: Phoenix Fix 粗略共識
+    text: 在 Aztlán 測試網實施期間，以太坊經典核心開發人員發現 ECIP 1061 規範的複雜性，以添加 ETH 的伊斯坦布爾網絡協議升級。正如預期的那樣，ETC 測試網發現了問題，核心開發人員指定了針對這些問題的補丁。
+  ecip1050-Status-Codes:
+    title: ECIP 1050 狀態代碼
+    text: ECIP 1050 狀態代碼移至最終狀態。該標準概述了一組與 HTTP 狀態相同的通用狀態代碼。這提供了一組共享的信號，允許智能合約自主地對情況做出反應，向用戶公開本地化的錯誤消息，等等。
+  aztlanBugs:
+    title: 測試網捕捉錯誤
+    text: 在 Aztlán 測試網實施期間，以太坊經典核心開發人員發現 ECIP 1061 和 1078 規範的複雜性，以添加 ETH 的伊斯坦布爾網絡協議升級。 ETC Core 的 Meowbits 記錄了這些發現。正如預期的那樣，ETC 測試網發現了問題，核心開發人員重新開始設計。
+  aztlanRejected:
+    title: 阿茲特蘭拒絕了
+    text: 根據 Aztlán 測試網實施期間發現的問題，發現 Phoenix Fix 不足以解決問題，並且兩個測試網都已損壞；出於安全性和穩定性方面的考慮，核心開發人員建議拒絕 ecips-1061、1078、1086，並繼續從頭開始編寫新提案。
+  phoenixConsensus:
+    title: 鳳凰粗糙共識
+    text: Ethereum Classic核心開發者就ECIP-1088達成粗略共識，力圖實現ETH的伊斯坦布爾網絡協議升級。測試網實施揭示了先前在規範 ECIP-1061 和 ECIP-1078 中嘗試的問題。
+  phoenixMordor:
+    title: 鳳凰魔多測試
+    text: Phoenix 測試從 999,983 區塊的 Mordor PoW 測試網上開始。核心開發團隊表示這是一個複雜的實現。測試可能會發現延遲此網絡升級的問題，但以太坊經典永遠不會急於升級主網。網絡安全優先於開發速度和任意時間表。
+  era3:
+    title: 5M20時代3
+    text: 根據受比特幣啟發的 5M20 排放時間表，以太坊經典的區塊獎勵減少 20% 至每個區塊 3.2 ETC。
+  phoenixKotti:
+    title: 鳳凰科蒂測試
+    text: Phoenix 測試開始於區塊 2,200,013 的 Kotti PoA 測試網上。核心開發團隊表示這是一個複雜的實現。測試可能會發現延遲此網絡升級的問題，但以太坊經典永遠不會急於升級主網。
+  phoenixUpgrade:
+    title: 鳳凰升級
+    text: Ethereum Classic 核心開發人員實施 ETH 的伊斯坦布爾網絡協議升級，以保持與其姊妹鏈的操作對等。
+  client-Deprecation-Attacks:
+    title: 客戶端棄用攻擊
+    text: 在 DAO 救助硬分叉 4 週年之際，以 ETH 為中心的客戶端維護者策劃了對以太坊經典的社會攻擊。客戶端維護人員宣布棄用以太坊經典支持，然後執行錯誤信息營銷活動，理由是 ETC 網絡將失去 70% 的哈希率以及其他謊言。
+  51Attack2:
+    title: "51% 攻擊 #2"
+    text: Ethereum Classic 在其網絡上經歷了第二次成功的鏈重組攻擊。
+  51Attack3:
+    title: "51% 攻擊 #3"
+    text: Ethereum Classic 在其網絡上經歷了第三次成功的鏈重組攻擊。
+  51Attack4:
+    title: "51% 攻擊 #4"
+    text: Ethereum Classic 在其網絡上經歷了第四次成功的鏈重組攻擊。
+  messClientFunctionality:
+    title: MESS 客戶端功能
+    text: Core-Geth 客戶端實現標誌以應用可選的 MESS 功能作為對以太坊經典網絡 51% 攻擊的響應。
+  thanosMordor:
+    title: 滅霸魔多測試
+    text: Thanos 測試開始於區塊 2,520,000 的 Mordor PoW 測試網上。
+  thanosUpgrade:
+    title: 滅霸升級
+    text: Ethereum Classic 實施 Thanos 升級以重新校準 DAG 計算中使用的紀元長度。
+  etchash:
+    title: ETChash
+    text: Ethereum Classic 實施 Thanos Upgrade，將挖礦算法從 ETHash 調整為 ETCHash。
+  manis-ETC-Stupport:
+    title: Mantis ETC 客戶端復興
+    text: 隨著 Mantis 客戶端和 GUI 的複興，Input Output Global 表示支持以太坊經典網絡。
+  gethBugs:
+    title: Geth 客戶端錯誤
+    text: 2021 年 8 月分裂以太坊基金會主網的 Geth 利用軟件漏洞分裂了以太坊經典主網。建議每個人更新他們的客戶端。
+  lcetcc:
+    title: 讓我們保持以太坊經典經典
+    text: 一位有關的 ETC 參與者寫了一篇長篇反駁文章，反對 ECIP-1098 的實施。
+  treasuryDebate:
+    title: IOHK 財政部提案撤回
+    text: 在就 ECIP-1098 是否會與 ETC 價值融合進行了長達一年的討論之後，ETC Coop 和 IOHK 在網絡層面撤回了對財政部提案的支持。
+  magnetoUpgrade:
+    title: 萬磁王昇級
+    text: Ethereum Classic 核心開發人員實施 ETH 的柏林網絡協議升級，以保持與其姊妹鏈的操作對等。
+  mystiqueUpgrade:
+    title: 神秘升級
+    text: Ethereum Classic 核心開發人員實施 ETH 的倫敦網絡協議升級，以保持與其姊妹鏈的操作對等。
+  etcFlood:
+    title: ETC 歡迎新算力
+    text: Ethereum Classic 承諾支持 ETChash 挖礦算法和當前的挖礦生態系統。這將 Ethereum Classic 定位為一個網絡，可以很好地吸收大多數被剝奪權利的 Ethash 礦工，ETH 網絡轉向權益證明共識。
+  etcdao:
+    title: 以太坊經典 DAO
+    text: 穩定和長期的資金證明是以太坊經典的一個問題，2016 年被以太坊基金會放棄。為了解決網絡的 LTS 資金問題，以太坊經典 DAO 的使命是通過未來證明網絡的發展開源開發基金。資金是通過使用 EthereumClassic.com 上託管的 ETC DeFi 堆棧產生的
+  era4:
+    title: 5M20時代4
+    text: 根據受比特幣啟發的 5M20 排放時間表，以太坊經典的區塊獎勵減少 20% 至每個區塊 2.56 ETC。隨著網絡達到歷史新高，ETChash 挖礦 hasrate 繼續轉向 ETC。
+  sha3Withdrawn:
+    title: ETC Coop SHA3 提案撤回
+    text: 經過三年多的有爭議的辯論，Bob Summerwill 承認有爭議的硬分叉 ECIP-1049 將在網絡上引起並撤回該提案。 ECIP-1049 支持者的錯誤信息活動造成的負面社會成本繼續對網絡的公眾認知產生負面影響。然而，通過其具有彈性的社區，以太坊經典仍然處於有利地位，可以在合併後的世界中在 ETChash 上蓬勃發展。
+  etcswap:
+    title: ETC互換
+    text: Ethereum Classic DAO 推出了它的第一個產品——ETCswap。這確保了該網絡距離以太坊經典開源開發的穩定資金更近了一步。專業的去中心化協議棧將部署在 Ethereum Classic 上。
+  vitalikEndorsesETC:
+    title: Vitalik Buterin 支持以太坊經典
+    text: 以太坊最著名的聯合創始人 Vitalik Buterin 對最初的以太坊網絡——以太坊經典為那些重視工作量證明鏈的人提供了支持。
+  antpoolETCDAOTreasuryFund:
+    title: 蟻池
+    text: AntPool 以 1000 萬美元的投資支持以太坊經典生態系統。 Antpool 設立了一個國庫基金，目標是支持 Ethereum Classic 上的專業開發生態系統。
+  hashrateSurges:
+    title: ETC 算力激增
+    text: 隨著即將到來的以太坊合併繼續在加密貨幣領域引起興奮，以太坊的姐妹以太坊經典 (ETC) 自 2022 年 6 月以來哈希率增長了 83%。
+  twitter-Account-Capture:
+    title: Twitter 帳戶企業捕獲
+    text: 在合併前幾天，Charles Hoskinson 公開表示有意“重新利用”以太坊經典的主要 Twitter 帳戶。由於未交付 Mantis 客戶端的沉沒成本以及 IOHK 的 2021 年集中財務提案 (ECIP-1098) 遭到拒絕，他證明了這一行動是合理的。
+  ethMerge:
+    title: ETH 轉向股權證明
+    text: 以太坊基金會將最大的 EVM 網絡升級為權益證明共識。這次合併事件鞏固了以太坊經典作為最大的工作量證明 EVM 網絡的地位。 Ethereum Classic 的網絡安全性得到提升，因為它成為所有 Ethash 衍生挖礦算法的頂點網絡。鳳凰升起。
+  twitter-Account-Rebranded:
+    title: 推特賬號更名
+    text: 2021 年，由於 ETC 社區對 IOHK 中心化金庫的社會排斥，Charles Hoskinson 將 Ethereum Classic 的主要 Twitter 帳戶轉移到名為 Ergo 的第三方開源項目。爾格團隊將該帳戶重新命名為他們自己的項目。 Bob Summerwill 收到一個新註冊的 Twitter 帳戶，主要 Twitter 帳戶的 twitter handle 有 0 個歷史記錄和 0 個關注者。
+  aBrightFuture:
+    title: 光明的未來
+    text: 隨著生態系統的持續有機增長，獨立開發團隊和網絡參與者遵循使以太坊經典成為如此獨特網絡的原則。該網絡是真正分散的、不可變的和不可阻擋的。代碼就是法律。

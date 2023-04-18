@@ -1,9 +1,9 @@
 title: إيثريوم كلاسيك
 seo: "منصة الحوسبة اللامركزية التي تدير العقود الذكية: التطبيقات التي تعمل تمامًا كما تمت برمجتها دون توقف أو رقابة أو تدخل طرف ثالث"
 #Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
-metaLocale: ar_US
+metaLocale: ar_AR
 #Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
-htmlLang: en
+htmlLang: ar
 published: نشرت
 updated: آخر تحديث
 author: مؤلف
@@ -19,7 +19,7 @@ disclaimers:
     text: لا تعكس هذه الصفحة بالضرورة وجهة نظر جميع أصحاب المصلحة في ETC.
 next: أكمل القراءة
 prev: المقال السابق
-contribute: إذا كنت ترغب في المساهمة بإضافة المعلومات أو تصحيحها إلى هذه الصفحة ، فيرجى ترك رسالة على [Discord](https://discord.com/invite/dwxb6nf) أو إنشاء مشكلة على [GitHub](https://github.com/ethereumclassic /ethereumclassic.github.io)
+contribute: إذا كنت ترغب في المساهمة بإضافة المعلومات أو تصحيحها إلى هذه الصفحة ، فيرجى ترك رسالة على [Discord](https://discord.com/invite/dwxb6nf) أو إنشاء مشكلة على [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io)
 contributors: "هذه الصفحة موجودة جزئياً بفضل المساهمين التاليين:"
 allLanguages: كل اللغات
 noResults: لا نتائج
@@ -58,14 +58,16 @@ socialItems:
     name: الخلاف
   discordCoop:
     name: الخلاف التعاونية الخ
+  twitterEthclassic:
+    name: eth_classic تويتر
+  twitterEtcnetwork:
+    name: ETC_Network Twitter
   githubOrg:
     name: جيثب
   githubLabs:
     name: ETC Labs جيثب
   reddit:
     name: رديت
-  twitter:
-    name: تويتر
 appTypes:
   finance:
     name: تمويل
@@ -105,3 +107,25 @@ appModal:
   checkListRating: مستوى قائمة المراجعة غير الموثوقة
   warning: "** تحذير: ** هذا التطبيق الذي أرسله المستخدم لم يتم فحصه وليس مضمونًا أنه آمن ؛ استخدمها على مسؤوليتك الخاصة ، وقم دائمًا بإجراء البحوث الخاصة بك!"
   added: مضاف
+## Tags
+tags: العلامات
+tagNames:
+  blog: مدونة ETC
+  announcement: الإعلانات
+  application: تطبيقات
+  development: تطوير
+  education: تعليم
+  event: الأحداث
+  exchange: التبادلات
+  guide: خطوط إرشاد
+  hardfork: هارد فوركس
+  media: وسائط
+  mining: التعدين
+  podcast: المدونة الصوتية
+  teams: فرق
+  trading: تجارة
+  wallet: محافظ
+  video: أشرطة فيديو
+  news: روابط خارجية
+  philosophy: فلسفة
+  series: مسلسل

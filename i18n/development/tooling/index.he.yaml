@@ -1,0 +1,75 @@
+title: כלים למפתחים
+seo: אוסף של כלים לשיפור הפיתוח של אפליקציות Ethereum Classic ופיתוח חוויה.
+description: |
+  דף זה מכיל רשימה של משאבים שמפתחים יישומים על גבי Ethereum Classic עשויים למצוא בהם שימוש. הקפד לבדוק גם את [סביבת המפתחים של Ethereum.org](https://ethereum.org/en/developers/local-environment/), מכיוון שרבים מהכלים הללו נשארים רלוונטיים בעת הפיתוח עבור Ethereum Classic.
+items:
+  prices:
+    title: מקורות מחיר
+    description: אתרים וממשקי API אלה מספקים את המחיר של ETC לשימוש באפליקציה שלך.
+  processors:
+    title: מעבדי תשלומים
+    description: ניתן להשתמש בממשקי API אלה כדי לקבל תשלומי ETC באתר או באפליקציה שלך.
+  dex:
+    title: ניסיון בפיתוח
+    description: מבחר לא ממצה של כלים למפתחים שיכולים לסייע בפיתוח יישומי Ethereum Classic, כולל כ-IDEs, ספריות, מסגרות בדיקה, מאפי באגים, *וכו'.
+    items:
+      BUIDL IDE:
+        description: Second State BUIDL IDE הוא IDE מבוסס אינטרנט שאינו דורש הורדה או התקנה של תוכנה. הוא מספק סביבת פיתוח ופריסה נקודתית עבור מפתחי חוזים חכמים ו-dapp.
+      Dappkit:
+        description: תשתית אגנוסטית עם ביצועים גבוהים וספריות למפתחים לבנייה וקנה מידה של יישומים מבוזרים. בקיצור, Firebase עבור Dapps שיתופי.
+      Embark Framework:
+        description: מסגרת עבור יישומים מבוזרים ללא שרת באמצעות Ethereum, IPFS ופלטפורמות אחרות.
+      Emerald Platform:
+        description: פלטפורמה לבניית Dapps עבור blockchain ETC.
+      ESerialize:
+        description: המטרה של מודול זה היא לספק פונקציות קלות להסדרה ולדה-סריאליזציה של נתונים עבור ערימת Ethereum.
+      Ethereum JSON-RPC API:
+        description: מפרט של שיטות JSON-RPC שלקוח בלוקצ'יין מבוסס EVM חייב ליישם.
+      Eth Fiddle:
+        description: עורך מקוון לחוזים חכמים.
+      EVM-LLVM:
+        description: לא רק שמפתחים יכולים להשתמש בהיקף גדול של שפות תכנות (חלודה לחוזים חכמים!) מלבד Solidity כדי למקד את ה-Ethereum Virtual Machine (EVM), הם גם יכולים ליהנות מיד מכלי פיתוח שונים שנבנו סביב תשתית LLVM.
+      Ganache:
+        description: בלוקצ'יין אישי של Ethereum להפעלת בדיקות.
+      Jade Suite:
+        description: חבילת הכלים של Jade מאפשרת למפתחים ליצור יישומים מבוזרים בין עמית לעמית על גבי בלוקצ'יין מבוססי EVM כמו Ethereum Classic.
+      Mythx:
+        description: MythX הוא שירות ניתוח האבטחה המוביל עבור חוזים חכמים של Ethereum. המשימה שלנו היא להבטיח שצוותי פיתוח ימנעו טעויות יקרות ולהפוך את Ethereum לפלטפורמה בטוחה ואמינה יותר.
+      Open-RPC:
+        description: מפרט ה-OpenRPC מגדיר תיאור ממשק רגיל, אגנוסטי של שפת תכנות עבור ממשקי API של JSON-RPC 2.0.
+      OpenZeppelin:
+        description: מסגרת שנבדקה בקרב של חוזים חכמים מאובטחים הניתנים לשימוש חוזר.
+      Quorum:
+        description: Quorum היא פלטפורמת בלוקצ'יין בקוד פתוח המשלבת את החדשנות של קהילת Ethereum הציבורית עם שיפורים לתמיכה בצרכי הארגון.
+      Remix Online IDE:
+        description: IDE שימושי בדפדפן שיכול להרכיב ולפרסם חוזים חכמים לרשתות Ethereum שונות. כולל לינטר.
+      Signatory:
+        description: חותם עסקאות והודעות לא מקוונות עבור ערימת Ethereum.
+      Sidekik:
+        description: בצע ניקוי באגים, בדוק ופתח חוזים חכמים עם ממשק משתמש חזותי המאפשר לך ליצור אינטראקציה עם חוזים חכמים מקומיים או פרוסים מבוססי EVM.
+      SOLL:
+        description: מהדר LLVM סוף סוף מגיע ל-Solidity. בעזרתו, אנו יכולים ליצור חוזים חכמים בקלות על פני מספר VMs בלוקצ'יין. ה-EVM על Ethereum Classic ו-eWASM של ETH 2.0 הם בין הראשונים שבהם אנו תומכים.
+      Sputnikvm:
+        description: SputnikVM הוא יישום עצמאי בקוד פתוח של Ethereum Virtual Machine (EVM). היא שואפת להיות מכונה וירטואלית יעילה וניתנת לחיבור עבור בלוקצ'יין שונים מבוססי Ethereum.
+      Truffle Suite:
+        description: סביבת פיתוח ברמה עולמית, מסגרת בדיקה וצינור נכסים עבור blockchains באמצעות Ethereum Virtual Machine (EVM), במטרה להקל על החיים כמפתח.
+  nodeTools:
+    title: פריסת צומת
+    description: כלים אלה מקלים על יצירת אשכול צמתים לפריסות ייצור או ביצוע מדע נתונים עם מערכי נתונים ציבוריים.
+    items:
+      Bloq Cloud:
+        description: BloqCloud מספקת גישה מותאמת במיוחד, זמינה תמיד לרשתות בלוקצ'יין. התחבר במהירות והגדל בקלות בהתבסס על הצרכים שלך - ללא צורך לדאוג לניהול תשתית.
+      DappNode:
+        description: DAppNode מאפשר הפעלת צמתים, DApps ואירוח רשתות וכלכלות P2P.
+      Rivet:
+        description: Rivet היא מכונה וירטואלית של Ethereum (EVM) Remote Procedure Call (RPC) המספקת נקודות קצה של Ethereum Classic (ETC).
+      GetBlock:
+        description: GetBlock הוא שירות המספק חיבור לצמתים של מטבעות הקריפטו הגדולים. הם תומכים בכלים כאלה כמו JSON-RPC, REST ו-WebSockets, מה שמאפשר סנכרון ישיר עם הבלוקצ'יין. אין צורך להפעיל צומת בעצמך, הפלטפורמה מאפשרת ללקוחותיה להתחבר לבלוקצ'יין דרך צומת מלא מבלי לשלם עמלה.
+      Google BigQuery:
+        description: Google Cloud פרסם מערכי נתונים המורכבים מהיסטוריית עסקאות בלוקצ'יין עבור Ethereum Classic, כדי לעזור לך להבין טוב יותר מטבעות קריפטוגרפיים. כללה גם קבוצה של שאילתות ותצוגות הממפות את כל מערכי הנתונים של blockchain למבנה נתונים של ספר בעל כניסה כפולה המאפשרת מטא-אנליזות מרובות שרשרת, כמו גם אינטגרציה עם מערכות עיבוד רשומות פיננסיות קונבנציונליות.
+      Raspberry Pi Node:
+        description: מדריך מפורט כיצד להגדיר צומת Ethereum Classic ב-Raspberry Pi.
+      Rivet Cloud:
+        description: נקודות קצה Ethereum ו-Ethereum Classic ניתנות להרחבה, זמינות במיוחד, שבאמת פשוט עובדות.
+      QuikNode:
+        description: QuikNodes קלים, תמיד פועלים, עם חיבור אינטרנט מהיר לסנכרון בלוקצ'יין מהיר, ולעולם אינך צריך לדאוג שיגמר שטח הדיסק.

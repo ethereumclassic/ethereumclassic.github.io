@@ -37,8 +37,6 @@ items:
     title: 软件钱包
     description: 软件钱包是为短期存储而设计的桌面或移动设备。
     items:
-      Coinbase Wallet:
-        __primary: 1
       Trust Wallet:
         __primary: 1
   other:

@@ -1,9 +1,9 @@
 title: Ethereum Classic
 seo: "Platform pengkomputeran terdesentralisasi yang menjalankan kontrak pintar: aplikasi yang berjalan tepat seperti yang diprogramkan tanpa masa henti, penapisan atau gangguan pihak ketiga"
 #Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
-metaLocale: en_US
+metaLocale: ms_MY
 #Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
-htmlLang: en
+htmlLang: ms
 published: Diterbitkan
 updated: Kemas kini terakhir
 author: Pengarang
@@ -19,7 +19,7 @@ disclaimers:
     text: Halaman ini tidak semestinya menggambarkan pandangan semua pihak berkepentingan ETC.
 next: Teruskan membaca
 prev: Artikel Sebelumnya
-contribute: Jika anda ingin menyumbang dengan menambah atau membetulkan maklumat pada halaman ini, sila hantar mesej pada [Discord](https://discord.com/invite/dwxb6nf) atau buat isu pada [GitHub](https://github.com/ethereumclassic /ethereumclassic.github.io)
+contribute: Jika anda ingin menyumbang dengan menambah atau membetulkan maklumat pada halaman ini, sila hantar mesej pada [Discord](https://discord.com/invite/dwxb6nf) atau buat isu pada [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io)
 contributors: "Halaman ini wujud sebahagiannya terima kasih kepada penyumbang berikut:"
 allLanguages: Semua Bahasa
 noResults: Tiada keputusan
@@ -58,14 +58,16 @@ socialItems:
     name: Perselisihan
   discordCoop:
     name: ETC Coop Discord
+  twitterEthclassic:
+    name: Twitter eth_classic
+  twitterEtcnetwork:
+    name: Twitter ETC_Network
   githubOrg:
     name: Github
   githubLabs:
     name: ETC Labs Github
   reddit:
     name: Reddit
-  twitter:
-    name: Twitter
 appTypes:
   finance:
     name: Kewangan
@@ -105,3 +107,25 @@ appModal:
   checkListRating: Tahap Senarai Semak Tanpa Amanah
   warning: "**Amaran:** Apl yang diserahkan pengguna ini TIDAK disemak dan TIDAK dijamin selamat; gunakan atas risiko anda sendiri, dan sentiasa lakukan penyelidikan anda sendiri!"
   added: Ditambah
+## Tags
+tags: Tag
+tagNames:
+  blog: Blog DLL
+  announcement: Pengumuman
+  application: Apl
+  development: Pembangunan
+  education: Pendidikan
+  event: Peristiwa
+  exchange: Pertukaran
+  guide: Pemandu
+  hardfork: Garpu Keras
+  media: Media
+  mining: perlombongan
+  podcast: Podcast
+  teams: Pasukan
+  trading: Perdagangan
+  wallet: Dompet
+  video: Video
+  news: Pautan Luaran
+  philosophy: Falsafah
+  series: Siri

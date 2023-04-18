@@ -1,0 +1,19 @@
+title: Terminais Públicos
+seo: Uma lista de terminais de chamada de procedimento remoto (RPC) que podem ser usados para interagir com o ETC via MetaMask e outros aplicativos.
+description: |
+  Os endpoints de chamada de procedimento remoto (RPC) são sua porta de entrada para o Ethereum Classic e permitem que você se comunique e leia dados da cadeia ETC. Para máxima falta de confiança, execute um [ETC Client](/development/clients) localmente; um terminal local geralmente é disponibilizado em `http://localhost:8545`.
+
+  Public Ethereum Classic RPC endpoints também estão disponíveis, fornecidos gratuitamente para a comunidade ou como um serviço de assinatura. Como você pode assinar e transmitir transações localmente usando uma carteira como [MetaMask](/guides/metamask), os endpoints públicos podem ser usados enquanto mantém a custódia de suas chaves privadas.
+
+  Você pode usar esses URLs para transacionar e implantar no ETC (ou em suas redes de teste) atualizando sua carteira ou a configuração da ferramenta de implantação. Certifique-se também de alterar seu Chain ID para `61` para a rede principal Ethereum Classic.
+
+  Para obter mais informações sobre outras redes, consulte a seção [testnets](/development/testnets).
+
+  **Recomenda-se selecionar um dos endpoints ETC RPC monitorados em tempo real em [ChainList.org](https://chainlist.org/chain/61).**
+items:
+  endpoints:
+    columnItems:
+      name:
+        name: Serviço
+      rpcUrl:
+        name: URL RPC

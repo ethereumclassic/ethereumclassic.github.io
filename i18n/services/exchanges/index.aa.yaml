@@ -16,6 +16,7 @@ __contributors:
   - ProphetDaniel
   - pyskell
   - redsn0w0
+  - TheCrowbill
   - TheEnthusiasticAs
 seo: crwdns71294:0crwdne71294:0
 description: |
@@ -364,9 +365,6 @@ items:
       Delta-Exchange_Perp:
         __link: https://www.delta.exchange/app/futures/trade/ETC/ETCUSDT
         __name: Delta Exchange
-      FTX_Perp:
-        __link: https://ftx.com/trade/ETC-PERP
-        __name: FTX
       Gate_Perp:
         __link: https://www.gate.io/futures_trade/USDT/ETC_USDT
         __name: Gate.io
@@ -476,3 +474,11 @@ items:
       Tradim:
         __link: https://tradim.io/
         __name: Tradim
+  Other:
+    __type: buttons
+    title: crwdns108669:0crwdne108669:0
+    description: crwdns108671:0crwdne108671:0
+    items:
+      BestChange:
+        __link: https://www.bestchange.com/ethereum-classic-to-bitcoin.html
+        __name: BestChange

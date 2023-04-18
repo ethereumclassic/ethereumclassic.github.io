@@ -1,0 +1,36 @@
+title: רשתות בדיקה
+seo: מידע על רשתות הבדיקה השונות של Ethereum Classic, עם רשתות זמינות לציבור שניתן להשתמש בהן לבדיקת חוזים ושדרוגי פרוטוקולים.
+description: |
+  בעת פיתוח חוזים ב-Ethereum Classic, כמו בכל מערכת חוזי EVM, מומלץ להשתמש [רשת וירטואלית] מקומית (/פיתוח/כלים), המאפשרת לבצע איטרציה מהירה מבלי להמתין לכריית בלוקים. עם זאת, בשלב מסוים, ייתכן שתרצה לאפשר לציבור ליצור אינטראקציה עם גרסת בטא של האפליקציה שלך, ולשם כך ניתן להשתמש ב-testnet.
+
+  מכיוון ש-Ethereum Classic שומרת על תאימות ל-EVM במעלה הזרם של Ethereum, מלבד כמה מקרי קצה קטנים, חוזים יתנהגו באופן זהה. המשמעות היא שרשתות בדיקות Ethereum פופולריות יכולות, לרוב, לשמש לבדיקה פומבית של חוזי Ethereum Classic, ובגלל הפופולריות שלהן זה עשוי להיות עדיף לבדיקת משתמשים.
+
+  בנוסף, ל-Ethereum Classic יש רשתות בדיקה משלה שמפעילות את גרסת ה-Ethereum Classic של ה-EVM, וגם פריסה לאחת מהרשתות הללו מומלצת מאוד לפני שחרור הייצור. רשתות בדיקה ציבוריות אלו מספקות גם ברזים, כך שתוכל לרכוש בקלות testnet ETC ולפרוס את הקוד שלך.
+
+  אם ברז אינו פועל כהלכה, אנא הצטרף לקהילה Ethereum Classic [Discord](https://ethereumclassic.org/discord) כדי לבצע פינג עבור כספי testnet. מישהו בחדר הצ'אט הכללי של המפתחים יעזור לך.
+
+  אתה יכול להשתמש [chainlist.org](https://chainlist.org) כדי להגדיר את ארנק ה-web3 שלך עם נקודות הקצה והסיירים המתאימות של RPC.
+  הגדר את הארנק: [Kotti](https://chainlist.org/chain/6), [Mordor](https://chainlist.org/chain/63)
+items:
+  testnets:
+    i18n:
+      pow: הוכחת עבודה
+      poa: הוכחת סמכות
+      testnet: Testnet
+      experimental: נִסיוֹנִי
+      faucet: בֶּרֶז
+    columnItems:
+      name:
+        name: שֵׁם
+      faucet:
+        text: בֶּרֶז
+      type:
+        name: סוּג
+      miningAlgo:
+        name: אַלגוֹרִיתְם
+      consensusAlgo:
+        name: סוג קונצנזוס
+      networkId:
+        name: ת. ז רשת
+      chainId:
+        name: ChainID

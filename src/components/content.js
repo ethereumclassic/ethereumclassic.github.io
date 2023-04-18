@@ -11,6 +11,7 @@ import Generic from "./generic";
 
 import MarkdownStatic from "./markdownStatic";
 import TwContainer from "./twContainer";
+import { useLocalization } from "../../plugins/translations-plugin/src/components/localizationProvider";
 
 function mapToc(item, i18n = item) {
   if (item.title) {
@@ -23,6 +24,11 @@ function mapToc(item, i18n = item) {
 }
 
 export default function Content(props) {
+  // use with dir={rtl && "rtl"} for right to left languages
+  const {
+    current: { rtl },
+  } = useLocalization();
+
   const { data = {}, i18n = {}, children, max } = props;
   const { mdx, contributors } = data;
   const { sub, current } = useNavigation();
@@ -64,7 +70,7 @@ export default function Content(props) {
         )}
         {children || (
           <>
-            <article tw="prose max-w-none">
+            <article tw="prose max-w-none" dir={rtl && "rtl"}>
               <ContentHeader {...{ mdx, i18n }} />
               {mdx && <MarkdownStatic {...{ mdx, i18n }} />}
               {(!mdx || (mdx && i18n.items)) && <Generic {...{ i18n }} />}

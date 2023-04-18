@@ -1,6 +1,6 @@
 title: Soalan Lazim Pembangun
 seo: Soalan Lazim untuk mereka yang ingin menyumbang atau membina aplikasi pada Ethereum Classic.
-info: "Tidak dapat mencari jawapan kepada soalan anda di sini? Cuba tanya dalam pelayan komuniti ETC [discord](https://ethereumclassic.org/discord). Secara khusus, anda mungkin menemui saluran `#dev-general` ETC Discord yang diminati."
+info: 'Tidak dapat mencari jawapan kepada soalan anda di sini? Cuba tanya dalam pelayan komuniti ETC [discord](https://ethereumclassic.org/discord). Secara khusus, anda mungkin menemui saluran `#dev-general` ETC Discord yang diminati.'
 description: Ingin belajar cara membina aplikasi atau protokol di atas Ethereum Classic? Halaman ini adalah untuk anda.
 items:
   questions:
@@ -30,13 +30,17 @@ items:
       rpc:
         question: Adakah terdapat titik akhir RPC awam yang boleh saya gunakan untuk digunakan ke ETC?
         answer: |
-          ya. Jika anda tidak mahu menyegerakkan jalankan nod Ethereum Classic anda sendiri, terdapat beberapa titik akhir awam tersedia yang percuma untuk digunakan.
+          ya. Jika anda tidak mahu menjalankan, menyegerakkan dan mengekalkan nod Ethereum Classic anda sendiri, terdapat beberapa titik akhir awam tersedia yang boleh digunakan secara percuma.
 
           Lihat bahagian [RPC Endpoints](/network/endpoints), serta [ChainList.org](https://chainlist.org/chain/61).
       grants:
         question: Bolehkah saya mendapatkan pembiayaan untuk membina Ethereum Classic?
         answer: |
-          Oleh kerana Ethereum Classic tidak mempunyai perbendaharaan berpusat, semua pembangunan semestinya sama ada dibiayai sendiri atau melalui pembiayaan pihak ketiga. Pada masa lalu pelbagai pihak ketiga mengendalikan program geran, dan [ETC Cooperative](https://etccooperative.org/) telah mengumumkan bahawa ia akan melancarkan program geran baharu tidak lama lagi.
+          ya. Terdapat beberapa program masa lalu dan sekarang untuk menggalakkan pembangunan di ETC.
+
+          Contoh terbaru ialah [ETC Grants DAO](https://etcgrantsdao.io), yang melancarkan program geran ETC pada tahun 2023.
+
+          Memandangkan Ethereum Classic tidak mempunyai perbendaharaan berpusat, semua sumbangan kepada projek dibiayai secara luaran. Ini termasuk penyumbang menyumbangkan masa mereka, dan insentif kewangan daripada pembiayaan pihak ketiga.
       ecips:
         question: Bagaimanakah saya boleh membantu dengan pembangunan protokol Ethereum Classic?
         answer: |

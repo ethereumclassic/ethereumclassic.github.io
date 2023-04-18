@@ -11,11 +11,16 @@ import LandingVideos from "./landingVideos";
 import LandingApps from "./landingApps";
 import LandingArtwork from "./landingArtwork";
 import LandingFeature from "./landingFeature";
+import { useLocalization } from "../../plugins/translations-plugin/src/components/localizationProvider";
 
 export default function Landing({
   data: { headlines, videos, videosEn, apps },
   i18n: { billboard, intro, feature, headings },
 }) {
+  // use with dir={rtl && "rtl"} for right to left languages
+  const {
+    current: { rtl },
+  } = useLocalization();
   return (
     <>
       <LandingArtwork i18n={billboard} />
@@ -23,7 +28,7 @@ export default function Landing({
         <LandingFeature i18n={feature} />
         <LandingHeadlines items={headlines.edges} i18n={headings.headlines} />
         <div tw="grid grid-cols-1 items-center gap-24 md:grid-cols-2">
-          <div tw="prose">
+          <div tw="prose" dir={rtl && "rtl"}>
             <h3>{intro.title}</h3>
             <Md>{intro.content}</Md>
           </div>
