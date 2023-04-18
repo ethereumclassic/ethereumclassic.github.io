@@ -1,0 +1,35 @@
+title: סרטונים
+description: אוסף סרטונים על Ethereum Classic, מאורגן לפי קטגוריות.
+support: תמכו ב-ETC על ידי שליחת סרטונים משלכם!
+changeLanguage: דף זה מציג רק סרטונים בשפה שבחרת כרגע. לתוכן נוסף, עיין בסרטונים באנגלית.
+tags:
+  explainers:
+    title: מסבירים
+    description: סרטונים חינוכיים המסבירים את הפילוסופיה הקלאסית של Ethereum, היסטוריה ומושגים טכניים.
+  tutorials:
+    title: הדרכות
+    description: מדריכים המכסים כיצד להשתמש ולפתח ב-Ethereum Classic.
+  development:
+    title: התפתחות
+    description: סרטונים המכסים נושאים הקשורים לטכנולוגיית Ethereum Classic למפתחים.
+  trading:
+    title: מִסְחָר
+    description: ניתוח טכני ויסודי, תחזיות מחירים וייעוץ השקעות המכסים ETC.
+  discussions:
+    title: דיונים
+    description: דיונים ארוכים הכוללים פודקאסטים, דיונים ושיחות קהילה שבועיות
+  mining:
+    title: כְּרִיָה
+    description: סרטונים המכסים כיצד לכרות ETC, חומרה, תוכנה וציפיות רווח. הקפד לבדוק גם את קטע [mining](/כרייה) לקבלת מידע נוסף.
+  conferences:
+    title: ועידות
+    description: Ethereum Classic Summit הוא אירוע שנתי הנערך בערים שונות ברחבי העולם. חלק זה מכיל הרצאות מ-ETC Summit ומכנסים או מפגשים אחרים.
+  etc-summit-2018:
+    title: פסגת ETC 2018
+    description: הפסגה השנייה של Ethereum Classic התקיימה בסיאול, קוריאה ב-12 בספטמבר 2018
+  etc-summit-2019:
+    title: פסגת ETC 2019
+    description: הפסגה השלישית של Ethereum Classic התקיימה בוונקובר, קנדה ב-3 באוקטובר 2019
+  etc-summit-2017:
+    title: פסגת ETC 2017
+    description: הפסגה הראשונה של Ethereum Classic התקיימה בהונג קונג ב-13 בנובמבר 2017

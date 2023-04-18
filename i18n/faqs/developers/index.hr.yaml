@@ -1,6 +1,6 @@
 title: Često postavljana pitanja za programere
 seo: Često postavljana pitanja za one koji žele doprinijeti ili izraditi aplikacije na Ethereum Classic.
-info: "Ovdje ne možete pronaći odgovor na svoje pitanje? Pokušajte pitati na poslužitelju ETC zajednice [discord](https://ethereumclassic.org/discord). Konkretno, mogao bi vas zanimati ETC Discordov kanal `#dev-general`."
+info: 'Ovdje ne možete pronaći odgovor na svoje pitanje? Pokušajte pitati na poslužitelju ETC zajednice [discord](https://ethereumclassic.org/discord). Konkretno, mogao bi vas zanimati ETC Discordov kanal `#dev-general`.'
 description: Želite li naučiti kako izgraditi aplikaciju ili protokol povrh Ethereum Classic? Ova stranica je za vas.
 items:
   questions:
@@ -26,17 +26,21 @@ items:
       deployment:
         question: Kako mogu implementirati na Ethereum Classic blockchain?
         answer: |
-          Prvo nabavite malo ETC-a da platite plin za implementaciju svog ugovora, a zatim jednostavno osigurajte implementaciju na Ethereum Classic mrežu (Chain ID 61), umjesto na Ethereum mrežu (Chain ID 1).
+          Prvo nabavite malo ETC-a da platite plin za implementaciju svog ugovora, a zatim jednostavno osigurajte implementaciju na Ethereum Classic mreži (Chain ID 61), umjesto na Ethereum mreži (Chain ID 1).
       rpc:
         question: Postoje li javne RPC krajnje točke koje mogu koristiti za implementaciju na ETC?
         answer: |
-          Da. Ako ne želite sinkronizirati pokretanje vlastitog Ethereum Classic čvora, postoji niz dostupnih javnih krajnjih točaka koje su besplatne za korištenje.
+          Da. Ako ne želite pokrenuti, sinkronizirati i održavati vlastiti Ethereum Classic čvor, postoji niz dostupnih javnih krajnjih točaka koje su besplatne za korištenje.
 
           Provjerite odjeljak [RPC krajnje točke](/network/endpoints), kao i [ChainList.org](https://chainlist.org/chain/61).
       grants:
         question: Mogu li dobiti sredstva za izgradnju na Ethereum Classic?
         answer: |
-          Budući da Ethereum Classic nema centraliziranu riznicu, sav se razvoj nužno financira sam ili putem financiranja treće strane. U prošlosti su razne treće strane upravljale programima bespovratnih sredstava, a [ETC Cooperative](https://etccooperative.org/) najavila je da će uskoro pokrenuti novi program bespovratnih sredstava.
+          Da. Postoji niz prošlih i sadašnjih programa za poticanje razvoja ETC-a.
+
+          Nedavni primjer je [ETC Grants DAO](https://etcgrantsdao.io), koji je pokrenuo program bespovratnih sredstava za ETC 2023.
+
+          Budući da Ethereum Classic nema centraliziranu riznicu, svi doprinosi projektu financiraju se izvana. To uključuje suradnike koji doniraju svoje vrijeme i financijske poticaje od financiranja trećih strana.
       ecips:
         question: Kako mogu pomoći u razvoju Ethereum Classic protokola?
         answer: |

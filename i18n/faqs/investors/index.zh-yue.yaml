@@ -1,0 +1,41 @@
+title: 投資者常見問題
+seo: 為那些希望了解 Ethereum Classic 的價值主張或購買和交易 ETC 的人準備的常見問題解答。
+info: '在這裡找不到問題的答案？嘗試在 ETC 社區 [discord](https://ethereumclassic.org/discord) 服務器中詢問。具體來說，您可能會對 ETC Discord 的“#trading-talk”頻道感興趣。'
+description: 有興趣投資 Ethereum Classic 並想了解更多關於它的價值主張？下面是一些常見相關問題的答案。
+items:
+  questions:
+    items:
+      trade:
+        question: 我在哪裡可以購買和交易 ETC？
+        answer: |
+          Ethereum Classic 幾乎在每個主要（和體面的次要）交易所都上市，並且有鏈上 DEX。您可以在 [exchanges](/services/exchanges) 部分找到更多信息。
+      policy:
+        question: ETC的貨幣政策是什麼？
+        answer: |
+          與比特幣類似，以太坊經典作為一個固定的排放曲線，這意味著你可以準確地預測未來任何時候存在的 ETC 總量。這可以防止通貨膨脹死亡螺旋，並使 ETC 成為強大的價值儲存手段。
+
+          在 [Sound Money](/why-classic/sound-money) 部分閱讀有關 ETC 貨幣政策的更多信息。
+      elevator:
+        question: Ethereum Classic 的電梯推介是什麼？
+        answer: |
+          通過採用比特幣的不變性和穩健貨幣方法，並將其與以太坊智能合約的表現力相結合，以太坊經典提供了一些獨特的東西：一個*真正*不可阻擋的應用程序平台。
+      valueProp:
+        question: Ethereum Classic 的價值主張有何特別之處？
+        answer: |
+          簡而言之，以太坊經典是為數不多的植根於比特幣開創的原始密碼朋克意識形態的區塊鏈項目之一。因此，ETC 高度重視中立性和抗審查性。它沒有可俘獲的中央領導班子，也不會試圖以分權為代價“迅速行動”。相反，Ethereum Classic 遵循永恆的原則，這些原則賦予項目穩定性和長壽性。
+
+          Ethereum Classic 也可以看作是一個備份計劃。隨著時間的推移和加密貨幣空間受到更多敵意，審查制度很有可能成為所有鏈的問題，而那些沒有做好準備的鏈將會倒下。
+
+          要真正了解 Ethereum Classic 的價值主張，請查看 [Why Classic?](/why-classic) 部分。
+      profit:
+        question: 購買ETC會盈利嗎？
+        answer: |
+          *免責聲明：這不是投資建議。*投資任何資產都沒有任何保證，尤其是在波動較大的加密貨幣領域。始終遵循加密貨幣的第一條規則：*不要投資你不能承受損失的東西*。
+
+          Ethereum Classic 具有比特幣的哲學、不變性方法和穩健的貨幣政策，使其在這個意義上優於以太坊。同時，以太經典繼承了 EVM 生態系統中發生的創新，使其在這個意義上優於比特幣。
+
+          這些哲學和技術優勢使一些人預測，ETC 不僅有可能超越以太坊的市值，而且在足夠長的時間範圍內（可能超過比特幣）成為按市值計算最有價值的區塊鏈。
+
+          Ethereum Classic 目前的估值僅為其最接近的可比鏈 Ethereum 的一小部分，並且如果出於任何原因 Ethereum 不再可行，Ethereum Classic 很可能會像合併後哈希率一樣吸收大部分這個值。
+
+          無論您做出何種投資決定，都不要指望一夜暴富。 Ethereum Classic 長期存在於其中。

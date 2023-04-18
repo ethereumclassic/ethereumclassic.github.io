@@ -1,0 +1,35 @@
+title: צגי רשת
+seo: כלים לבדיקת תקינות רשת Ethereum Classic, וסטטיסטיקות כלליות כגון הנפקה, ספירת עסקאות ורווחיות כרייה.
+description: |
+  להלן מבחר כלים המספקים תובנות למגוון רחב של מדדים הקשורים ל-Ethereum Classic. יחד הם מספקים ניתוח ספקטרום מלא של בריאות ומצב הרשת.
+items:
+  monitors:
+    items:
+      etc-network.info:
+        description: אתר קטן שיעזור לך לנווט בשירותים הניתנים על ידי etc-network.info.
+      ETCNodes:
+        description: סייר הצומת המרכזי של Ethereum Classic.
+      2Miners:
+        description: לוח המחוונים הסטטיסטיים של Ethereum Classic מספק את הנתונים הסטטיסטיים החשובים ביותר של blockchain, גרפים ומדדי ביצועים אחרים שנלכדו ישירות מצמתים מקוונים.
+      CoinMetrics:
+        description: נתונים היסטוריים מפורטים המכסים מספר מדדים כגון מחיר, hashrate, ספירת כתובות, ספירת עסקאות וכו'.
+      CoinWarz:
+        description: מידע כרייה של Ethereum Classic - כולל מחשבון כרייה Ethereum Classic, רשימה של חומרת כרייה Ethereum Classic, קושי ב-Ethereum Classic עם תרשימים היסטוריים, תרשימי hashrate של Ethereum Classic, כמו גם המחיר הנוכחי של Ethereum Classic.
+      Emerald Insights:
+        description: Emerald Insights הוא חלק מפרויקט Emerald, שאמור לספק נתונים סטטיסטיים, ניטור ופיסות מידע מתקדמות על מטבעות קריפטוגרפיים שבהם משתמשת Emerald.
+      ForkWatch:
+        description: ForkWatch הוא כלי ניטור NiceHash שמתריע על חריגות באלגוריתמים ספציפיים בשוק NiceHash, במיוחד כאשר מחיר השכרת BTC/TH/Day משתנה. זה עוזר לבעלי עניין של מטבעות ספציפיים להזהיר במקרה שכוח כרייה יושכר בפוטנציה להתקפה נכנסת על רשת ספציפית.
+      MiningPoolStats:
+        description: נתונים סטטיסטיים בזמן אמת על מצב בריכות הכרייה ב-ETC, כולל הפצת בלוקים, היסטוריית hashrate וכו'.
+      Nanopool:
+        description: קושי היסטורי, קושי, זמן חסימה ומחיר.
+      PoolDetective:
+        description: בריכות כרייה הן שחקנים חשובים במטבעות קריפטוגרפיים להוכחת עבודה. אבל מי עוקב אחר מה שהם אומרים לכורים שלהם לעבוד עליו? יוזמת המטבעות הדיגיטליים של MIT החלה בפרויקט בקיץ 2019 כדי להתחיל לנטר את התנהגות בריכות הכרייה.
+      TokenView:
+        description: סטטיסטיקת רשת היסטורית סטנדרטית.
+      WhatToMine:
+        description: מחשבון רווחיות לכריית Ethereum Classic ורשתות נוספות.
+      Kotti Stats:
+        description: סטטיסטיקות רשת עבור Ethereum Classic Kotti Testnet.
+      ua-mining:
+        description: לוח המחוונים לסטטיסטיקה של Ethereum Classic.

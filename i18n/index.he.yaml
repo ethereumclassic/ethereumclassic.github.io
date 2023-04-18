@@ -1,0 +1,53 @@
+billboard:
+  text: ה-%%$$%% את'ריום
+  ## must be kind of short, so they fit on the page
+  randomWords:
+    Decentralized: "מבוזר"
+    Original: "מְקוֹרִי"
+    Veracious: "אמיתי"
+    Untainted: "לא מוכתם"
+    Uncensored: "לא מצונזר"
+    Untampered: "ללא התעסקות"
+    Immutable: "בלתי ניתן לשינוי"
+    Sound Money: "כסף קול"
+    Uncaptured: "לא נתפס"
+    SovereignGrade: "כיתה ריבונית"
+    Principled: "עקרוני"
+    Unstoppable: "בלתי ניתן לעצירה"
+    Proof of Work: "הוכחת עבודה"
+    Leaderless: "חסרי מנהיגים"
+    Antifragile: "אנטי שביר"
+    Code is Law: "קוד זה חוק"
+    Classic: "קלַאסִי"
+    Permisionless: "ללא רשות"
+    Global: "גלוֹבָּלִי"
+## feature
+feature:
+  title: שאלות נפוצות
+  subtitle: מדור חדש
+  text: מצא במהירות את התשובות שאתה מחפש על ידי ניווט בשאלות נפוצות המאורגנות לפי מקרה שימוש.
+  button: שאלות נענו
+## intro
+intro:
+  title: בניית יישומים בלתי ניתנים לעצירה
+  content: |
+    ככל שמוסדות מכהנים מאוימים יותר ויותר מהפוטנציאל הפרוע של טכנולוגיית הבלוקצ'יין, רק מטבעות קריפטוגרפיים מבוזרים ומאובטחים באמת ישרדו.
+
+    קיימת בתגובה לצנזורה על חוזים על הרשת האחות Ethereum™ (ETH) וכדי לקיים ולשמר את העיקרון של *קוד זה חוק*, Ethereum Classic (ETC) הוכיחה את יכולתה להתנגד לצנזורה כנגד כל הסיכויים, ולספק את *המקורי * חזון Ethereum של אפליקציות *בלתי ניתנות לעצירה*.
+
+    על ידי שילוב הטכנולוגיה של Ethereum™ (ETH) עם הפילוסופיה של ביטקוין (BTC), Ethereum Classic (ETC) ממוקמת באופן ייחודי להיות פלטפורמת החוזים החכמים בשכבת הבסיס של העתיד, כאשר רשתות אחרות נפגעות או נתפסות על ידי אינטרסים מיוחדים .
+
+    ברוך הבא, ובבקשה תוזמן לגלות את העבר, ההווה והעתיד של Ethereum Classic; העקרונות שלה, הצעת הערך, הקהילה ועוד - כדי להבין *למה קלאסי*.
+  button:
+    text: למה קלאסי?
+#Headers
+headings:
+  headlines:
+    title: כותרות
+    button: כל החדשות
+  videos:
+    title: הסרטונים האחרונים
+    button: כל הסרטונים
+  apps:
+    title: יישומים אחרונים
+    button: כל האפליקציות

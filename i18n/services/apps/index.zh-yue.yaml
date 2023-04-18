@@ -1,0 +1,23 @@
+title: 應用程序和協議
+seo: 建立在 Ethereum Classic 之上的去中心化應用程序和協議； NFT、遊戲、身份系統、DEX、金融產品等等……
+description: Ethereum Classic 擁有越來越多的去中心化應用程序和協議。此頁面概述了 ETC 網絡的發展狀況。
+support: 通過提交您自己的應用程序來支持 ETC！
+types:
+  nfts:
+    title: NFTs
+    description: 不可替代代幣是不可偽造的收藏品，在 2021 年及以後席捲了加密貨幣領域。
+  games:
+    title: 遊戲
+    description: 融入以太坊經典區塊鏈的互動遊戲進入了娛樂的新領域。
+  identity:
+    title: 身份系統
+    description: 可互操作的身份將在創建抗女巫攻擊的去中心化系統中發揮作用，促進聲譽和治理。
+  interoperability:
+    title: 互操作性
+    description: 允許在區塊鏈之間共享價值和數據的跨鏈技術增強了網絡效應，並為所有參與者做大了蛋糕。
+  finance:
+    title: 金融
+    description: 去中心化金融 (DeFi)、去中心化交易所 (DEX)、去中心化自治組織 (DAO)，無論首字母縮寫詞是什麼，區塊鏈技術在構建這些新型經濟工具方面表現出色。
+  other:
+    title: 其他
+    description: 所有如此獨特的應用程序和協議不屬於現有類別。

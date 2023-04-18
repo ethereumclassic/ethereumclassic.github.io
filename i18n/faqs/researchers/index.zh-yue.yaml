@@ -1,0 +1,91 @@
+title: 研究員常見問題解答
+seo: 那些正在研究或試圖了解 Ethereum Classic 基礎知識的人的常見問題解答。
+info: 在這裡找不到問題的答案？嘗試在 ETC 社區 [discord](https://ethereumclassic.org/discord) 服務器中詢問。
+description: 如果您剛剛聽說 Ethereum Classic 並想了解更多，或者已經持有 ETC 但想更深入地了解它存在的原因，那麼此頁面適合您。
+items:
+  questions:
+    items:
+      what:
+        question: 什麼是以太坊經典？
+        answer: |
+          Ethereum Classic 是一種工作量證明智能合約區塊鏈，它允許任何人在未經許可的情況下構建、部署和使用去中心化應用程序。 Ethereum Classic 是一個草根開源項目，由全世界的人共同構建，沒有中央組委會。
+
+          從哲學上講，ETC 類似於比特幣，重視去中心化、抗審查和穩健貨幣的理念。從技術上講，它類似於以太坊，運行一個 EVM（以太坊虛擬機）。
+
+          結合這兩種方法使以太坊經典處於獨特的地位，提供了植根於密碼朋克理想的強大去中心化基礎以及智能合約的靈活性和創新。
+      overview:
+        question: Ethereum Classic 是以太坊的盜版嗎？
+        answer: |
+          不是。事實上，以太坊是以太坊經典的一個分支。
+
+          2014 年， [Ethereum](https://ethereum.org/what-is-ethereum/) 創始人開始研究下一代區塊鏈，其目標是實施一個通用的、信任最小化的智能合約平台。
+
+          2016 年，在一次有爭議的硬分叉之後，該協議的新版本（現稱為以太坊）通過生成具有新共識規則的新網絡而啟動。 Ethereum Classic 繼續遵循非分叉協議，其使命是繼續“構建不可阻擋的應用程序”的原始以太坊願景。
+      eth:
+        question: 以太坊經典和以太坊有什麼區別？
+        answer: |
+          Ethereum Classic 和 Ethereum 曾經是同一個項目，但由於理念不同，社區在 2016 年分裂。2022 年，Ethereum 轉向權益證明，而 Classic 仍然使用工作量證明。這標誌著兩條鏈之間的第一個重大技術差異。
+
+          除了共識機制，ETC 和 ETH 在技術上仍然非常相似，ETC 保持 EVM 兼容性，因此部署到以太坊的合約也可以輕鬆部署到 Ethereum Classic。
+
+          您可以在 [history]（/knowledge/history）和 [geneis]（/why-classic/genesis）部分了解更多關於以太坊和以太坊經典之間的分裂。
+      whitepaper:
+        question: 以太坊經典有白皮書嗎？
+        answer: |
+          因為以太坊是以太坊經典的一個分支，所以這兩個項目在 2016 年之前共享相同的歷史，包括之前的文檔，例如以太坊 [Whitepaper](https://ethereum.org/en/whitepaper/) 和 [Yellowpaper](https://ethereum. github.io/yellowpaper/paper.pdf）。
+
+          與以太坊分道揚鑣後，ETC 的支持者發表了一系列詳細說明理念差異的文件，這些文件成為以太坊經典項目 DNA 的一部分。您可以在 [foundation](/knowledge/foundation) 部分閱讀更多關於 Ethereum Classic 的創始文件。
+      roadmap:
+        question: 我在哪裡可以找到 Ethereum Classic 的路線圖？
+        answer: |
+          與比特幣類似，作為一個沒有自上而下領導的去中心化項目，沒有正式的執行路線圖。該協議通過 [Ethereum Classic 改進提案](/development/ecips) (ECIP) 流程的基層協作不斷改進。
+
+          您可以在 [future](/knowledge/future) 部分找到更多關於潛在升級的信息。
+      origins:
+        question: 為什麼以太坊經典存在？
+        answer: |
+          Ethereum Classic 的使命是延續“代碼即法律”理念所體現的“構建不可阻擋的應用程序”的原始以太坊願景。
+
+          在技術層面上，以太坊經典作為以太坊的延續而存在，以太坊於 2016 年從 ETC 中分離出來，並停止在其上運行的應用程序的執行。您可以在 [geneis](/why-classic/genesis) 部分了解此事件的詳細信息。
+      codeIsLaw:
+        question: '“代碼即法律”是什麼意思？'
+        answer: |
+          “代碼即法律”是一種理想，任何權威都無法干預鏈上有效合約和交易的運作，從而帶來許多有希望的好處，這些好處有可能極大地改善世界狀況。
+
+          替代方案“代碼不是法律”一直是區塊鏈技術出現之前的標準狀態，腐敗的鏈下決策過程決定了合同和交易的結果。
+
+          您可以在 [Code is Law](/why-classic/code-is-law) 部分了解更多關於此概念的細微差別。
+      decentralization:
+        question: 我為什麼要關心權力下放？
+        answer: |
+          權力下放是“代碼即法律”的先決條件。它允許參與者在公平的競爭環境中運作，並釋放了區塊鏈技術的基本價值。許多區塊鏈項目，儘管他們聲稱，沒有充分去中心化，使它們容易被捕獲和審查。
+
+          您可以在 [decentralism](/why-classic/decentralism) 部分了解更多相關信息。
+      who:
+        question: 誰負責以太坊經典項目？
+        answer: |
+          與比特幣類似，沒有一個實體負責以太坊經典項目。相反，遵循一套共同原則的個人和團隊在未經許可的草根統治中做出貢獻。雖然這種組織結構有一些缺點，但它也使項目不受某些類型的捕獲的影響，從而提高了長期生存能力。
+
+          因此，ETC 中沒有自上而下的領導和“沒有官方的任何東西”，包括這個網站甚至以太坊經典客戶端軟件。儘管如此，仍有一些傑出的團隊在生態系統中運作，根據他們的聲譽、業績記錄和貢獻獲得非正式影響。
+
+          您可以在 [community]（/community）和 [foundation]（/knowledge/foundation）部分了解更多關於 Ethereum Classic 自組織社區的信息。
+      proofOfWork:
+        question: 為什麼 Ethereum Classic 不使用權益證明？
+        answer: |
+          由於 Ethereum Classic 高度重視抗審查性，因此社區決定繼續使用久經考驗的工作量證明共識機制。各種權益證明無法提供與 PoW 相同的安全保證的原因有很多，但簡而言之，它們都涉及安全性或去中心化權衡，這使它們更容易受到審查。
+
+          您可以在 [工作量證明](/why-classic/proof-of-work) 部分了解有關以太坊經典不切換到權益證明的決定的更多信息。
+      stats:
+        question: 我如何了解 Ethereum Classic 的網絡狀態？
+        answer: |
+          你可以在[network monitors](/network/monitors)和[blockchain explorer](/network/explorers)部分找到關於ETC健康和狀態的信息，以及各種 [exchanges](/services/exchanges)的價格信息.
+
+          值得注意的是，網站 [etc-network.info](https://etc-network.info/) 維護著許多監控服務。
+      news:
+        question: 我如何了解 ETC 的最新動態？
+        answer: |
+          [News](/news) 部分會定期更新重要新聞和社區博客文章，您還可以在其中找到 RSS 提要。
+
+          社區 [社交渠道](/community/channels) 也提供許多更新資源。值得注意的是，以太坊經典社區 [Discord Server](https://ethereumclassic.org/discord) 和 [/r/ethereumclassic](https://reddit.com/r/ethereumclassic)。
+
+          您還可以在 [Ethereum Classic Github](https://github.com/ethereumclassic) 和 [ETC Labs Github](https://github.com/etclabscore) 組織中關注開發更新。

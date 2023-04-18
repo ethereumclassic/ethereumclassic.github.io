@@ -1,0 +1,51 @@
+title: 協議升級
+seo: 過去硬分叉的歷史；以太坊經典接受的協議升級。
+description: |
+  以太坊經典儘管歷史悠久，但並不反對所有類型的硬分叉。離得很遠;硬分叉允許升級協議、修復錯誤並添加功能，以進一步實現使開發人員能夠“構建不可阻擋的應用程序”的目標。
+
+  以太坊經典永遠不會實施的硬分叉類型是像 [The DAO Fork](/why-classic/genesis) 這樣的硬分叉，它們不解決協議本身的缺陷或增強，而是覆蓋 *Code is Law * 通過修改應用層的智能合約。
+
+  Ethereum Classic 在戰略上與上游 Ethereum 的 EVM 保持最大的兼容性，這意味著部署到 ETH 的合約也可以部署到 ETC，Ethereum Classic 繼承了以太坊研究中誕生的許多有價值的創新。
+items:
+  forks:
+    title: ETC 分叉歷史
+    items:
+      Frontier:
+        title: 邊境
+        text: 在“構建不可阻擋的應用程序”的口號下推出，Frontier 是以太坊項目的實時但準系統實施。它遵循成功的奧林匹克測試階段。它適用於技術用戶，特別是開發人員。區塊的氣體限制為 5,000。這個“解凍”期使礦工能夠開始他們的運營，並讓早期採用者不必“匆忙”地安裝他們的客戶端。
+      Ice Age:
+        title: 冰河世紀
+        text: 邊界解凍分叉取消了每個區塊 5,000 gas 的限制，並將默認 gas 價格設置為 51 gwei。這允許交易——交易需要 21,000 gas。
+      Homestead:
+        title: 家園
+        text: Homestead 前叉著眼於未來。它包括一些協議更改和網絡更改，使以太坊能夠進行進一步的網絡升級。
+      Gas Reprice:
+        title: 天然氣重新定價
+        text: ECIP-1015 是 Ethereum Classic 在 DAO 硬分叉之後的第一個獨立協議升級，它涉及 IO 密集型操作的長期 gas 成本變化，以減輕交易垃圾郵件攻擊。
+      Die Hard:
+        title: 死硬死硬的頑固的
+        text: Die Hard 分叉延遲了難度炸彈，重新定價 EXP 操作碼並實施重放保護，將 ETC 的鏈 ID 設置為 61。
+      Gotham:
+        title: 哥譚市
+        text: ECIP 1017 通過引入 ETC 的最大絕對數量上限和一種隨著時間的推移降低排放的方法，使以太坊經典更像比特幣。
+      Defuse Difficulty Bomb:
+        title: 拆除難度炸彈
+        text: 難度炸彈被延遲，沒有其他變化。
+      Atlantis:
+        title: 亞特蘭蒂斯
+        text: 在代號為 Atlantis 的硬分叉中，在 Ethereum Classic 網絡上啟用了出色的 Ethereum Foundation Spurious Dragon 和 Byzantium 網絡協議升級，以實現這些網絡之間的最大兼容性。
+      Agharta:
+        title: 阿加爾塔
+        text: 在代號為 Agharta 的硬分叉中，在以太坊經典網絡上啟用了出色的以太坊基金會君士坦丁堡和彼得斯堡網絡協議升級，以實現這些網絡之間的最大兼容性。
+      Phoenix:
+        title: 鳳凰
+        text: 在代號為 Phoenix 的硬分叉中，在 Ethereum Classic 網絡上啟用了出色的 Ethereum Foundation Istanbul 網絡協議升級，以實現這些網絡之間的最大兼容性。
+      Thanos:
+        title: 滅霸
+        text: ECIP 1099 校準了 DAG 計算中使用的紀元長度，從 ETHash 切換到 ETCHash，它通過允許具有 4GB 內存的 GPU 來挖掘 ETC 來提高網絡的安全性。
+      Magneto:
+        title: 萬磁王
+        text: 啟用以太坊基金會柏林網絡協議升級功能，實現與以太坊的最大兼容性。
+      Mistique:
+        title: 神秘感
+        text: 啟用以太坊基金會倫敦網絡協議升級功能，保持與以太坊的最大兼容性。

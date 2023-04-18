@@ -38,19 +38,27 @@ items:
       ETC-Network.info DE BESU:
         __rpcUrl: https://besu-de.etc-network.info
         __link: https://www.etc-network.info
-        __name: ETC-Network.info BESU
+        __name: ETC-Network.info BESU DE
       ETC-Network.info AT BESU:
         __rpcUrl: https://besu-at.etc-network.info
         __link: https://www.etc-network.info
-        __name: ETC-Network.info BESU
+        __name: ETC-Network.info BESU AT
+      ETC-Network.info DE ERIGON:
+        __rpcUrl: https://erigon-de.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info erigon DE
+      ETC-Network.info AT ERIGON:
+        __rpcUrl: https://erigon-at.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info ERIGON AT
       ETC-Network.info DE GETH:
         __rpcUrl: https://geth-de.etc-network.info
         __link: https://www.etc-network.info
-        __name: ETC-Network.info GETH
+        __name: ETC-Network.info GETH DE
       ETC-Network.info AT GETH:
         __rpcUrl: https://geth-at.etc-network.info
         __link: https://www.etc-network.info
-        __name: ETC-Network.info GETH
+        __name: ETC-Network.info GETH AT
       ETC-Network.info GETH (Mordor):
         __rpcUrl: https://geth-mordor.etc-network.info
         __link: https://www.etc-network.info

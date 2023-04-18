@@ -1,0 +1,30 @@
+title: Carteiras
+seo: Uma fonte de carteiras da web, extensões, carteiras de software, carteiras de hardware e outras formas de proteger o ETC.
+description: |
+  Existem muitas opções de carteiras para escolher para proteger e usar ETC. Cada opção oferece um equilíbrio diferente entre segurança e conveniência. Por favor, pesquise a melhor opção dependendo de suas necessidades.
+
+  ## Qual carteira devo usar?
+
+  As sugestões a seguir não são endossos e servem apenas para ajudar novos usuários a encontrar rapidamente uma opção que provavelmente funcione para eles.
+
+  - Se você deseja um aplicativo móvel simples, [Trust Wallet](https://trustwallet.com/ethereum-classic-wallet) é fácil de usar e suporta muitas moedas, incluindo ETC.
+  - Se você deseja armazenar pequenas quantidades de ETC para uso com aplicativos descentralizados, tente [MetaMask](/guides/metamask) e conecte-o ao Ethereum Classic.
+  - Se você está aceitando ETC para o seu negócio, provavelmente deseja apenas criar uma conta [exchange](/services/exchanges) que pode ser usada para vendê-la em sua moeda local.
+  - Se você possui valores maiores, é altamente recomendável comprar uma [Hardware Wallet](#hardware-wallets).
+  - Para casos de uso mais avançados, faça sua própria pesquisa e tente algumas opções abaixo.
+items:
+  web:
+    title: Carteiras Web
+    description: Essas carteiras Web3 podem ser acessadas usando uma página da web. Eles não devem ser usados para garantir grandes quantias, mas permitem que você interaja facilmente com o ETC sem downloads.
+  browsers:
+    title: Carteiras integradas ao navegador
+    description: Essas carteiras Web3 são integradas em navegadores da web. Normalmente, eles injetam sites com as informações da sua conta para permitir que você interaja perfeitamente com os dapps Ethereum Classic em seu navegador.
+  hardware:
+    title: Carteiras de hardware
+    description: As carteiras de hardware são carteiras seguras projetadas para armazenamento de longo prazo.
+  software:
+    title: Carteiras de Software
+    description: As carteiras de software são dispositivos desktop ou móveis projetados para armazenamento de curto prazo.
+  other:
+    title: Outros produtos de carteira
+    description: Esses produtos são gratuitos para carteiras criptográficas, como armazenamento de sementes de recuperação.

@@ -158,3 +158,6 @@ export { default as in } from "flag-icon-css/flags/1x1/in.svg";
 export { default as gr } from "flag-icon-css/flags/1x1/gr.svg";
 export { default as my } from "flag-icon-css/flags/1x1/my.svg";
 export { default as it } from "flag-icon-css/flags/1x1/it.svg";
+export { default as hk } from "flag-icon-css/flags/1x1/hk.svg";
+export { default as pt } from "flag-icon-css/flags/1x1/pt.svg";
+export { default as il } from "flag-icon-css/flags/1x1/il.svg";

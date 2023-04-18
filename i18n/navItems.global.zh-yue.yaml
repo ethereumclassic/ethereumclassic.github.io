@@ -1,0 +1,240 @@
+learn:
+  name: 學習
+  navItems:
+    faqs:
+      name: 常見問題
+      description: 各利益相關方的常見問題
+      navItems:
+        users:
+          name: 用戶
+          description: 想學習如何使用 ETC？
+        researchers:
+          name: 研究人員
+          description: 剛剛聽說經典？
+        investors:
+          name: 投資者
+          description: 有興趣購買 ETC 嗎？
+        miners:
+          name: 礦工
+          description: 需要有關如何開採 ETC 的信息？
+        developers:
+          name: 開發商
+          description: 想要建立在 ETC 之上？
+        contributors:
+          name: 貢獻者
+          description: 想幫助項目？
+    whyClassic:
+      name: 為什麼經典？
+      description: 從這裡開始了解 Ethereum Classic 存在的原因和獨特的價值主張
+      navItems:
+        codeIsLaw:
+          name: 代碼就是法律
+        genesis:
+          name: 創世紀
+        decentralism:
+          name: 分散主義
+        soundMoney:
+          name: 穩健貨幣
+        proofOfWork:
+          name: 工作證明
+    #etcVsEth:
+    #__link: /why-classic/etc-vs-eth
+    #name: ETC vs ETH
+    knowledge:
+      name: 知識
+      description: 進一步閱讀支撐 ETC 的基礎
+      navItems:
+        foundation:
+          name: 基礎
+          description: 構成 ETC 堅實哲學基礎的核心原則
+        theory:
+          name: 理論
+          longName: 理論與研究
+          description: 通過社區的文章更深入地了解以太坊經典的邏輯
+        investing:
+          name: 投資
+          longName: 投資者資源
+          description: 有關 Ethereum Classic 的價值主張及其潛在收益的信息
+        forks:
+          name: 叉子
+          longName: 協議升級
+          description: 為 ETC 添加功能或錯誤修復的過去和未來硬分叉的編年史
+        history:
+          name: 歷史
+          longName: 經典歷史
+          description: 迄今為止以太坊經典歷史上所有重大事件的時間表
+        future:
+          name: 未來
+          longName: 未來經典
+          description: 概述 ETC 中的決策制定過程，以及它可能引領協議的方向
+        metamask:
+          name: 元掩碼
+          longName: 將 MetaMask 與 ETC 結合使用
+          description: 如何配置 MetaMask 和替代方案以與 dapps 交互
+    videos:
+      name: 影片
+      description: 一系列視頻和播客，讓您隨時了解 ETC 概念和事件
+      navItems:
+        explainers:
+          name: 解說員
+        discussions:
+          name: 討論
+        trading:
+          name: 貿易
+        development:
+          name: 發展
+        tutorials:
+          name: 教程
+        mining:
+          name: 礦業
+        conferences:
+          name: 會議
+          navItems:
+            2017:
+              name: 2017香港
+            2018:
+              name: 2018首爾
+            2019:
+              name: 2019溫哥華
+        other:
+          name: 其他
+#memes:
+#__link: /memes
+#__icon: images
+#name: Memes
+#description: Spreading the good word of ETC involves winning the battle of hearts and minds through the whimsicalities of information warfare
+#navItems:
+#mediaKit:
+#__link: /memes/media-kit
+#name: Media Kit
+#charts:
+#__link: /memes/charts
+#name: Charts
+#etc:
+#__link: /memes/etc
+#name: Etcetera
+play:
+  name: 玩
+  navItems:
+    services:
+      name: 服務
+      description: 與 ETC 集成的應用程序、錢包和交易所； 100% 未經審核，所以要小心地毯拉扯！
+      navItems:
+        wallets:
+          name: 錢包
+          description: 用於存儲和管理 ETC、代幣、NFT 和其他資產的軟件
+        exchanges:
+          name: 交易所
+          description: 在哪裡購買和交易 ETC
+        apps:
+          name: 應用
+          longName: 應用程序和協議
+          description: 利用 Ethereum Classic 的應用程序生態系統
+          navItems:
+            nfts:
+              name: NFTs
+            games:
+              name: 遊戲
+            identity:
+              name: 身份
+            interoperability:
+              name: 互操作性
+            finance:
+              name: 金融
+            other:
+              name: 其他
+    community:
+      name: 社區
+      description: 如果你渴望與對 ETC 感興趣的人交流，這裡是找到他們的方法
+      navItems:
+        channels:
+          name: 頻道
+          longName: 社交媒體渠道
+          description: 與他人討論 ETC 的帳戶、聊天室和論壇列表
+        teams:
+          name: 團隊
+          longName: 開發團隊
+          description: 關於誰在 Ethereum Classic 上工作的信息
+        events:
+          name: 事件
+          description: 加入 ETC 社區，參加全年定期舉辦的社交活動
+    #bounties:
+    #__link: /community/bounties
+    #name: Bounties
+    #dao:
+    #__link: /community/daos
+    #name: DAOs
+    network:
+      name: 網絡
+      description: RPC 端點、資源管理器、網絡監視器和其他面向技術人員的資源
+      navItems:
+        endpoints:
+          name: 端點
+          longName: RPC 端點
+          description: 與 ETC 網絡通信的公共和私人服務
+        explorers:
+          name: 探索者
+          longName: 區塊鏈探索者
+          description: 檢查鏈中交易、區塊和其他見解的工具
+        monitors:
+          name: 監視器
+          longName: 網絡監視器
+          description: 使用各種指標檢查網絡健康和狀態的工具
+    #statistics:
+    #__link: /network/statistics
+    #name: Statistics
+    mining:
+      name: 礦業
+      description: 礦池、軟件和硬件要求將幫助您挖掘 ETC 以獲得樂趣和利潤
+      navItems:
+        hardware:
+          name: 硬件
+          description: 關於哪種設備最適合用於有利可圖的 ETC 挖礦的信息
+        software:
+          name: 軟件
+          longName: 挖礦軟件
+          description: 可用於在各種操作系統上挖掘 ETC 的工具列表
+        pools:
+          name: 游泳池
+          longName: 礦池
+          description: 加入礦池可讓您根據哈希算力而不是找到的區塊獲利
+    develop:
+      name: 發展
+      description: 測試網、工具、客戶端以及有關如何為 ETC 協議本身做出貢獻的信息
+      navItems:
+        development:
+          name: 導遊
+          longName: 開發人員指南
+          description: 關於如何在 Ethereum Classic 上構建 dapps 的教程集
+        clients:
+          name: 客戶
+          description: 客戶端軟件是網絡的骨幹，實現了ETC協議
+        testnets:
+          name: 測試網
+          description: 用於在生產前公開測試應用程序和協議升級的網絡
+        tooling:
+          name: 工裝
+          longName: 開發者工具
+          description: 他們說一個工人和他的工具一樣好，所以一定要選擇好的工具！
+        repos:
+          name: 資料庫
+          longName: Git 存儲庫
+          description: 以太坊經典相關項目回購列表，供您觀賞
+        ecips:
+          name: ECIPs
+          description: Ethereum Classic 改進提案概述和批准的提案
+news:
+  name: 消息
+extra:
+  name: 額外的
+  navItems:
+    news:
+      name: 消息
+    blog:
+      name: 博客
+    about:
+      name: 關於
+    rss:
+      name: RSS訂閱
+    siteMap:
+      name: 網站地圖
