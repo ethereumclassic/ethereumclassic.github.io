@@ -35,7 +35,7 @@ For users to move money or use the smart contract decentralized applications (da
 
 The way that transactions are included in the database of the network, which is also fully replicated in all participating computers, is by having a subgroup of the machines do a lot of computational work, burning a lot of electricity, to generate a cryptographic stamp, also called hash, to seal batches of transactions, called blocks, that they then send to the rest of the network for verification and inclusion into the database (hence the term blockchain).
 
-The process of creating the cryptographic stamp, which requires a lot of computational work, is called mining, and the computers that do this work are called miners.
+The process of creating the cryptographic stamp, which requires a lot of computational work, is called mining and the computers that do this work are called miners.
 
 ## The Mining Business
 
