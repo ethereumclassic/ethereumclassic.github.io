@@ -1,9 +1,9 @@
 title: Ethereum Classic
 seo: "Một nền tảng máy tính phi tập trung chạy các hợp đồng thông minh: các ứng dụng chạy chính xác như được lập trình mà không có thời gian chết, kiểm duyệt hoặc sự can thiệp của bên thứ ba"
 #Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
-metaLocale: en_US
+metaLocale: vi_VN
 #Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
-htmlLang: en
+htmlLang: vi
 published: Được phát hành
 updated: Cập nhật mới nhất
 author: Tác giả
@@ -19,7 +19,7 @@ disclaimers:
     text: Trang này không nhất thiết phản ánh quan điểm của tất cả các bên liên quan đến ETC.
 next: Tiếp tục đọc
 prev: Bài báo trước
-contribute: Nếu bạn muốn đóng góp bằng cách thêm hoặc sửa thông tin vào trang này, vui lòng gửi thông báo trên [Discord](https://discord.com/invite/dwxb6nf) hoặc tạo sự cố trên [GitHub](https://github.com/ethereumclassic /ethereumclassic.github.io)
+contribute: Nếu bạn muốn đóng góp bằng cách thêm hoặc sửa thông tin vào trang này, vui lòng gửi thông báo trên [Discord](https://discord.com/invite/dwxb6nf) hoặc tạo sự cố trên [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io)
 contributors: "Trang này tồn tại một phần nhờ vào những người đóng góp sau:"
 allLanguages: Tất cả các ngôn ngữ
 noResults: Ko có kết quả
@@ -58,14 +58,16 @@ socialItems:
     name: Bất hòa
   discordCoop:
     name: ETC Coop Discord
+  twitterEthclassic:
+    name: eth_classic Twitter
+  twitterEtcnetwork:
+    name: ETC_Mạng Twitter
   githubOrg:
     name: Github
   githubLabs:
     name: ETC Labs Github
   reddit:
     name: Reddit
-  twitter:
-    name: Twitter
 appTypes:
   finance:
     name: Tài chính
@@ -105,3 +107,25 @@ appModal:
   checkListRating: Mức độ tin cậy của danh sách kiểm tra
   warning: "** Cảnh báo: ** Ứng dụng do người dùng gửi này KHÔNG được kiểm duyệt và KHÔNG được đảm bảo là an toàn; tự chịu rủi ro khi sử dụng và luôn tự nghiên cứu!"
   added: Thêm
+## Tags
+tags: thẻ
+tagNames:
+  blog: Blog ETC
+  announcement: thông báo
+  application: ứng dụng
+  development: Phát triển
+  education: Giáo dục
+  event: Sự kiện
+  exchange: trao đổi
+  guide: hướng dẫn
+  hardfork: dĩa cứng
+  media: Phương tiện truyền thông
+  mining: Khai thác mỏ
+  podcast: Podcast
+  teams: Đội
+  trading: Thương mại
+  wallet: ví
+  video: Video
+  news: Liện kết ngoại
+  philosophy: Triết lý
+  series: Loạt

@@ -1,0 +1,23 @@
+title: Aplicativos e protocolos
+seo: Aplicativos e protocolos descentralizados construídos sobre o Ethereum Classic; NFTs, Jogos, Sistemas de Identidade, DEXs, Produtos Financeiros e muito mais...
+description: O Ethereum Classic hospeda uma coleção crescente de aplicativos e protocolos descentralizados. Esta página é uma visão geral do estado do desenvolvimento da rede ETC.
+support: Apoie a ETC enviando seus próprios aplicativos!
+types:
+  nfts:
+    title: NFTs
+    description: Tokens não fungíveis são itens colecionáveis infalsificáveis que conquistaram o espaço das criptomoedas em 2021 e além.
+  games:
+    title: jogos
+    description: Os jogos interativos consagrados no blockchain Ethereum Classic alcançam novas fronteiras de entretenimento.
+  identity:
+    title: Sistemas de Identidade
+    description: A identidade interoperável desempenhará um papel importante na criação de sistemas descentralizados resistentes a Sybil, facilitando a reputação e a governança.
+  interoperability:
+    title: Interoperabilidade
+    description: A tecnologia de cadeia cruzada que permite que valor e dados sejam compartilhados entre blockchains aprimora o efeito de rede e aumenta o bolo para todos os envolvidos.
+  finance:
+    title: Finança
+    description: Finanças Descentralizadas (DeFi), Trocas Descentralizadas (DEXs), Organizações Autônomas Descentralizadas (DAOs), seja qual for o acrônimo, a tecnologia blockchain se destaca na construção desses novos veículos econômicos.
+  other:
+    title: Outro
+    description: Todos os aplicativos e protocolos que são tão exclusivos que não se encaixam em uma categoria existente.

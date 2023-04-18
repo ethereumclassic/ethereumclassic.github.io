@@ -1,9 +1,9 @@
 title: Ethereum Classic
 seo: "Une plateforme informatique décentralisée qui exécute des contrats intelligents : des applications qui s'exécutent exactement comme elles ont été programmées, sans temps d'arrêt, censure ou interférence de tiers."
 #Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
-metaLocale: en_US
+metaLocale: fr_FR
 #Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
-htmlLang: sur
+htmlLang: fr
 published: Publié sur
 updated: Dernière mise à jour
 author: Auteur
@@ -58,14 +58,16 @@ socialItems:
     name: Discord
   discordCoop:
     name: Discord ETC Coop
+  twitterEthclassic:
+    name: Twitter eth_classique
+  twitterEtcnetwork:
+    name: ETC_NetworkTwitter
   githubOrg:
     name: Github
   githubLabs:
     name: Github d'ETC Labs
   reddit:
     name: Reddit
-  twitter:
-    name: Twitter
 appTypes:
   finance:
     name: Finances
@@ -105,3 +107,25 @@ appModal:
   checkListRating: Niveau de la liste de contrôle sans confiance
   warning: "**Avertissement : ** Cette application soumise par un utilisateur n'est PAS contrôlée et n'est PAS garantie comme étant sûre ; utilisez-la à vos propres risques et faites toujours vos propres recherches !"
   added: Ajouté
+## Tags
+tags: Mots clés
+tagNames:
+  blog: Blog du CTE
+  announcement: Annonces
+  application: Apps
+  development: Développement
+  education: Éducation
+  event: Événements
+  exchange: Échanges
+  guide: Guides
+  hardfork: Fourches dures
+  media: Médias
+  mining: Exploitation minière
+  podcast: Podcasts
+  teams: Équipes
+  trading: Commerce
+  wallet: Portefeuilles
+  video: Vidéos
+  news: Liens externes
+  philosophy: Philosophie
+  series: Série

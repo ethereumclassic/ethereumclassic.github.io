@@ -22,3 +22,6 @@ items:
   NFT Marketplaces:
     title: NFT Pazaryerleri
     description: Aşağıdaki NFT pazaryerleri *tamamen* merkeziyetsiz pazaryerleri olmayabilir.
+  Other:
+    title: Diğer Değişim Hizmetleri
+    description: Aşağıdaki hizmetler yukarıdaki kategorilerin hiçbirine girmez. Bu hizmetler merkezi olmayan olabilir veya olmayabilir.

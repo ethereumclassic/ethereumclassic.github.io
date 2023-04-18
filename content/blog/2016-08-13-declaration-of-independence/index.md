@@ -5,16 +5,6 @@ author: Ethereum Classic
 tags: ["announcement", "development", "teams", "hardfork", "education"]
 ---
 
-<b>PDF Version:</b>
- <a href="/ETC_Declaration_of_Independence.pdf">English</a>
- <a href="/ETC_Declaration_of_Independence_chinese.pdf">中文</a>
- <a href="/ETC_Declaration_of_Independence_russian.pdf">русский</a>
- <a href="/ETC_Declaration_of_Independence_vietnamese.pdf">Tiếng Việt</a>
- <a href="/ETC_Declaration_of_Independence_german.pdf">Deutsche</a>
- <a href="/ETC_Declaration_of_Independence_italian.pdf">Italiano</a>
-
----
-
 Let it be known to the entire world that on July 20th, 2016, at block 1,920,000, we as a community of sovereign individuals stood united by a common vision to continue the original Ethereum blockchain that is truly *free from censorship, fraud or third party interference*. In realizing, that the blockchain represents absolute truth, we stand by it, supporting its immutability and its future. We do not make this declaration lightly, or without forethought to the consequences of our actions.
 
 ## Looking Back
@@ -90,3 +80,14 @@ We likewise will openly resist the “tyranny of the majority,” and will not a
 8. https://bitcoin.org/bitcoin.pdf
 9. https://github.com/ethereumclassic
 10. Anti-fragile: “Things, That Gain from Disorder” by Nassim Nicholas Taleb
+
+---
+
+**PDF Version:**
+
+-[English](https://ethereumclassic.org/ETC_Declaration_of_Independence.pdf)
+-[中文](https://ethereumclassic.org//ETC_Declaration_of_Independence_chinese.pdf)
+-[русский](https://ethereumclassic.org//ETC_Declaration_of_Independence_russian.pdf)
+-[Tiếng Việt](https://ethereumclassic.org//ETC_Declaration_of_Independence_vietnamese.pdf)
+-[Deutsche](https://ethereumclassic.org//ETC_Declaration_of_Independence_german.pdf)
+-[Italiano](https://ethereumclassic.org//ETC_Declaration_of_Independence_italian.pdf)

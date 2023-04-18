@@ -1,0 +1,305 @@
+title: ציר זמן של אירועים
+items:
+  frontierRelease:
+    title: Ethereum השקות
+    text: Vitalik Buterin ו-The Ethereum Foundation יוצרים את פלטפורמת החוזה החכם הראשונה מבוססת בלוקצ'יין של Turing עם מהדורת Frontier.
+  frontierThawingUpgrade:
+    title: שדרוג הפשרת גבולות
+    text: הרשת מיישמת 'עידן הקרח' בבלוק 200,000 ומציגה את פצצת הקושי, מנגנון שנועד להרחיק את מנגנון הקונצנזוס של הרשת מ-Proof-of-Work ל-Proof-of-Stake.
+  homesteadUpgrade:
+    title: שדרוג הבית
+    text: Homestead היא מהדורת הגרסה העיקרית השנייה של פלטפורמת Ethereum.
+  slockItCreatesThe Dao:
+    title: Slock.it יוצר את ה-DAO
+    text: Slock.it בונה את חוזה Ethereum DAO; ביקורת אבטחה הושלמה על ידי Dejavu.
+  the DaoCrowdsaleBegins:
+    title: מכירת ההמונים של DAO מתחילה
+    text: החוזה החכם של DAO נפרס; חברי הציבור שולחים לו ערך בתמורה לאסימוני DAO.
+  securityProposal:
+    title: הצעת ביטחון
+    text: Slock.it מכריזה על הצעה של 1.5 מיליון דולר, ששולמה ב-Ether על ידי קרן ההמונים, "כדי להבטיח את שלמות ה-DAO".
+  moratoriumCalled:
+    title: מורטוריום נקרא
+    text: ביום האחרון של מכירת ההמונים, אוצר ה-DAO, ולאד זמפיר, קורא להקפיא על ה-DAO, תוך שהוא מצטט בעיות אבטחה תיאורטיות רבות למשחק.
+  the DaoCrowdsaleEnds:
+    title: מכירת ההמונים של DAO מסתיימת
+    text: מכירת ההמונים מסתיימת והופכת לגדולה בעולם ומגייסת סכום מדהים של 150 מיליון דולר.
+  recursiveCallBugDiscovered:
+    title: התגלה באג בקריאה רקורסיבית
+    text: Peter Vessenes חושף בפומבי את קיומה של פגיעות אבטחה קריטית שהתעלמה ממנה בחוזי Solidity רבים.
+  noFundsAtRisk:
+    title: אין קרנות בסיכון
+    text: סטפן טואל טוען בפומבי שכספי ה-DAO בטוחים למרות פגם האבטחה הקריטי שהתגלה לאחרונה.
+  the DAOIsHacked:
+    title: ה-DAO נפרץ
+    text: האתר מתנקז לאט ובשקט מה-DAO כאשר באג הכניסה מחדש מוחל.
+  panicHitsTheMarkets:
+    title: הפאניקה מכה בשווקים
+    text: המחיר של אתר נחתך בחצי כאשר Griff Green מכריז שה-DAO נפרץ.
+  theCountdownBegins:
+    title: הספירה לאחור מתחילה
+    text: מנגנון הפיצול של ה-DAO נותן כחודש למציאת פתרון שיחזיר את הכספים; מפתחי קרן וקהילה מתחרים ליישם מזלג רך.
+  robinHoodGroupAnnounced:
+    title: קבוצת רובין הוד הודיעה
+    text: קבוצה של האקרים עם 'כובע לבן' מאבטחת 70% מהכספים של ה-DAO, אך נדרשת פעולה ברמת הפרוטוקול כדי לחסוך את 30% הנותרים לפיצול ההאקר.
+  softForkTheDao:
+    title: "DAO Wars: Soft Fork Vote"
+    text: קרן Ethereum משחררת לקוח 'Soft Fork' כדי לצנזר עסקאות המגיעות מההאקר; בריכות כרייה מצביעות לאפשר זאת על ידי הורדת מגבלת הגז.
+  softForkVulnerability:
+    title: פגיעות של Soft Fork
+    text: פגמים קריטיים במניעת שירות נמצאים ביישום Soft Fork, הכורים מחליטים במהירות לא להשתמש בו.
+  hardForkDebate:
+    title: Hard Fork Debate
+    text: ימים רבים של ויכוחים אינטנסיביים נמשכים בקהילת Ethereum לגבי היתרונות והחסרונות של יישום Hard Fork.
+  hardForkSpecAnnounced:
+    title: הוכרז מפרט Hard Fork
+    text: האפשרות היחידה שנותרה היא הארד פורק שנוי במחלוקת. מפרט נקבע ומוכרז על ידי חברי Slock.it ו-Ethereum Foundation.
+  lastMinuteCarbonvote:
+    title: הצבעת קרבון ברגע האחרון
+    text: בהתראה של 12 שעות, קרן Ethereum משתמשת ב'הצבעת מטבע' שנויה במחלוקת של צד שלישי כדי לקבוע שיש להפעיל את ה-Hard Fork כברירת מחדל; הוכרז קונצנזוס, ומשוחרר לקוח מעודכן.
+  daoBailoutHardFork:
+    title: DAO Bailout Hard Fork
+    text: כשכ-80% מהצמתים מתעדכנים ללקוח החדש, הקהילה ממתינה בעצבנות להגעתו של בלוק הפעלת המזלג של DAO Bailout 1,920,000.
+  newEthereumIsBorn:
+    title: שרשרת מזלג חדשה
+    text: שרשרת מפוצלת נולדת! קרן Ethereum יוצרת גרסה שונה של Ethereum ב-20 ביולי 2016 כדי לבטל את גניבת ה-DAO. כבעלי זכויות בסימן מסחרי, קרן Ethereum מיישמת את המותג Ethereum (ETH) על רשת המזלג החדשה.
+  ethereumRenamedToClassic:
+    title: שרשרת מקורית ללא מזלג
+    text: עם תחזיות שהשרשרת המקורית ללא מזלג תיעלם תוך שעות, רבים מופתעים לגלות שהכורים ממשיכים לתמוך בשרשרת המקורית. שולחנות Bisq ו-OTC מעניקים לאסימונים אלה ספר הזמנות לגילוי מחירים. משתתפי השווקים ממתגים מחדש את הרשת הלא-מזלגית הזו Ethereum Classic (ETC).
+  missionAccomplished:
+    title: המשימה הושלמה!
+    text: קהילת ETH פולטת אנחת רווחה כאשר קוד המזלג של DAO מיושם בהצלחה ללא פגמים ברורים; פקקי שמפניה מפוצצים בכל רחבי העולם. לידתה של רשת חדשה היא הצלחה!
+  poloniexListsETC:
+    title: רשימות פולוניקס וכו'
+    text: בורסת Ethereum הגדולה ביותר מאותתת על תמיכה ארוכת טווח בשרשרת המקורית, פולוניקס רושמת ETC. החלפות רבות עוקבות אחריהן במהירות.
+  etheriansInDisarray:
+    title: שבר אתרים
+    text: מלחמות הלהבה מתחילות ב-subreddits. כאשר יריקות זונות טעונות כלכלית מתחילות לתפוס את המשתתפים כשהם משלימים עם מציאות הפיצול.
+  ethereumClassicsupporters:
+    title: תומכי Ethereum Classic
+    text: תומכי Ethereum Classic מסתעפים מ-Ethereum subreddits ויוצרים ערוצים חברתיים משלהם.
+  geth-ETC-Support:
+    title: Geth תומך ב-Ethereum Classic
+    text: Geth משחררת תמיכה ברשת Ethereum Classic. לצומת זה הוסר כל קוד ה-DAO מהלקוח ואינו דורש דגלים נוספים כדי להשתמש ברשת Ethereum Classic.
+  parity-ETC-Support:
+    title: Parity תומך ב-Ethereum Classic
+    text: זוגיות מסמנת תמיכה ארוכת טווח ב-Ethereum Classic עם גרסה 1.2.3 הנותנת מענה לבעיות יציבות רשת עבור רשתות Ethereum HF ו-Ethereum Classic, ומביאה כמה שינויים ב-API למעקב אחר עסקאות.
+  51Pool:
+    title: 51% איום התקפה
+    text: תומכי ETH יוצרים מאגר כרייה בשם 51Pool.org עם תוכניות להרוס את רשת ETC על ידי תזמור של התקפה של 51%.
+  minerSupport:
+    title: תמיכת כורים וכו'
+    text: לאחר שרשת ETC גדלה לנקודה שבה הם כבר לא יכלו לתקוף אותה, כורי ETH מצהירים בפומבי שלא לתקוף את ETC. כדי למנוע פגיעה במחזיקי Ethereum Classic תמימים, כורי ETHash מתחייבים משאבים לכריית ETC.
+  attackRhg:
+    title: התקפות RHG וכו'
+    text: קבוצת רובין הוד מנסה לשווק לזרוק כמות גדולה של ETC גנוב ממזלג DAO. פולוניקס מקפיאה את הכספים שלהם.
+  classicDeclaresIndependence:
+    title: קלאסיקה מכריזה על עצמאות
+    text: לאחר התקפות בלתי פוסקות מצד ה-ETH של פיצול הרשת, תומכי Ethereum Classic עומדים איתן ומצהירים על עצמאותם מרשת ETH החדשה.
+  classicRebuilds:
+    title: נבדק בקרב ועמיד
+    text: Ethereum Classic מוכיח את עמידותו בשווקים כאשר ETC יוצא מהמתקפות ETH עם מחיר מייצב. עקרונות הליבה של הרשת מגולוונים במהלך ה-DAO Bailout. התומכים מתחילים לבנות מחדש מהאפר.
+  unlockedDaoFunds:
+    title: פתיחת קרנות DAO ב-ETC
+    text: מיליוני ETC נעולים או קפואים בעבר הופכים לזמינים למחזיקי אסימוני DAO וההאקר של DAO. המחיר של ETC מחזיק מעמד בצורה יוצאת דופן מול מזבלות עצומות בשוק.
+  codeIsLaw:
+    title: קוד זה חוק
+    text: במהלך התקפות ETH, קריאות קרב רבות יוצאות מתומכי Ethereum Classic. הם מתחילים להבהיר את עקרונות הליבה שלהם ולאמת את קיומה של רשת ETC לציבור.
+  gasReprice:
+    title: שדרוג מחיר גז
+    text: שתי רשתות Ethereum מותקפות עקב נקודות תורפה בערימת הטכנולוגיה. מפתחי ETC מבטיחים במהירות שדרוג רשת חלק וללא מחלוקת לתיקון פגיעויות מנוצלות.
+  etcMonetaryPolicy:
+    title: מדיניות מוניטרית ETC
+    text: תומכי Ethereum Classic מתלבטים בלוח הזמנים של הפליטות והמדיניות המוניטרית של ETC.
+  grothendieckTeam:
+    title: צוות גרוטנדיק
+    text: IOHK מתחייבת ל-Ethereum Classic צוות של 7 מפתחים במשרה מלאה
+  dieHardUpgrade:
+    title: שדרוג Die Hard
+    text: Ethereum Classic מטפל בהתקפות שידור חוזר ומעכב את פצצת הקושי בשדרוג הרשת.
+  etcDEVTeamAnnouncement:
+    title: צוות ETCDEV
+    text: צוות של תורמים ומתנדבים ארוכי טווח של ETC ממתג מחדש כצוות ETCDEV.
+  monetaryPolicyAdopted:
+    title: קונצנזוס מדיניות מוניטרית
+    text: Ethereum Classic יוצר קונצנזוס סביב מדיניות מוניטרית של 210.7M ETC בשווי קבוע עם לוח פליטה מוגבל בהשראת ביטקוין בשם 5M20; הפחתה של 20% בתגמול בלוק כל 5 מיליון בלוק.
+  etcInvestmentFund:
+    title: קרן השקעות ETCG
+    text: Grayscale משיקה את קרן הקריפטו הראשונה ללא ביטקוין המאפשרת למשקיעים מסורתיים להוסיף ETC לתיק שלהם עם כל הטבות המס של נכס השקעה מסורתי.
+  etcCommonwealth:
+    title: צוות חבר העמים
+    text: צוות פיתוח נוצר תחת השם Ethereum Commonwealth.
+  mantis-Launch:
+    title: השקת שלמה
+    text: השחרור של לקוח הבטא הזה, Mantis, יתקיים היום והוא השיא של שבעה חודשי עבודה של צוות Grothendieck, מפתחי IOHK המוקדשים ל-Ethereum Classic.
+  etcCoop:
+    title: צוות שיתופי ETC
+    text: גווני אפור מסמנים תמיכה ארוכת טווח בפיתוח פרוטוקול Ethereum Classic על ידי חסות לצוות ה-ETC Cooperative עם חלק מדמי הניהול שלהם ב-ETCG. תרומות לעמותות ניתנות לניכוי מס.
+  etcSummitHK:
+    title: פסגת ETC 2017
+    text: הכנס השנתי הראשון של Ethereum Classic מתקיים בהונג קונג.
+  gothamUpgrade:
+    title: שדרוג Gotham
+    text: השדרוג של Gotham קבע מדיניות מוניטרית צפויה ולוחות פליטות בהשראת ביטקוין. 5M20, תגמול החסימה יקטן ב-20% כל 5 מיליון בלוקים.
+  era2:
+    title: 5M20 עידן 2
+    text: לוח הזמנים של פליטות 5M20 של Ethereum Classic נכנס לעידן 2. תגמולי בלוק מופחתים ב-20% ל-4 ETC לכל בלוק.
+  multi-Geth-Launch:
+    title: השקת Multi-Geth
+    text: פרויקט הלקוח Multi-Geth יוצא לדרך. זהו לקוח go-ethereum שחולק מהגרסה של Ethereum Foundation, שמטרתו לעקוב מקרוב אחר שינויים במעלה הזרם ולתמוך במספר רשתות Ethereum. זה עתה הוספנו תמיכת אלפא לרשת Ethereum Classic.
+  defuseDifficultyBomb:
+    title: לנטרל פצצת קושי
+    text: ETC משבית בבטחה את פצצת הקושי כדי להעביר את פרויקט Ethereum המקורי ל-PoS. Ethereum Classic מסמן מחויבות ארוכת טווח להוכחת עבודה כמנגנון קונצנזוס רשת.
+  etclabs:
+    title: צוות ETC Labs
+    text: Ethereum Classic Labs מספקת מימון, קשרים לתעשייה ושטחי משרדים לפרויקטי ETC מתפתחים; עם שטחי משרדים בסן פרנסיסקו וסינגפור.
+  kotti:
+    title: Kotti Testnet משיקה
+    text: ETC Cooperative מממן את הפיתוח של Kotti testnet, רשת בדיקות הוכחת סמכות שנבנתה כדי לספק בדיקות הדדיות עם Görli Testnet של הרשת האחות ETH. PoA הופכת לסביבת testnet המועדפת לבדיקות פיתוח dapp.
+  etcSummitSeoul:
+    title: פסגת ETC 2018
+    text: הכנס השנתי השני של Ethereum Classic מתקיים בסיאול, דרום קוריאה.
+  coinbase:
+    title: רשימות Coinbase וכו'
+    text: בורסת המטבעות הקריפטו הגדולה ביותר בארה"ב מאותתת על תמיכה ארוכת טווח בשרשרת Ethereum המקורית; Ethereum Classic.
+  etcLabsIncubator:
+    title: השקת תוכנית החממה
+    text: Ethereum Classic Labs משיקה תוכנית חממה. ETC Labs מתחייבת לעבוד עם עד 24 סטארטאפים מבוססי Ethereum Classic מדי שנה.
+  51Attack:
+    title: 51% התקפה
+    text: Ethereum Classic חווה את התקפת ארגון מחדש של הרשת המוצלחת הראשונה ברשת שלה. ה-ETC הגמיש עולה מהאפר.
+  51AttackReturn:
+    title: תוקף Whitehat
+    text: נראה שהתוקף 51% הוא האקר לבן ומחזיר כספים גנובים לבורסה שנפגעה. בורסות מרכזיות מהדקות את ניטור התקפות של 51% על מטבעות הוכחת עבודה בכל רחבי הלוח.
+  atlantisConsensus:
+    title: קונצנזוס גס של אטלנטיס
+    text: מפתחי הליבה של Ethereum Classic מגיעים להסכמה גסה בנוגע ל-ECIP-1054 במאמץ ליישם את שדרוגי פרוטוקולי הרשת Spurious Dragon ו-Bizantium של ETH.
+  atlantisUpgrade:
+    title: שדרוג אטלנטיס
+    text: מפתחי הליבה של Ethereum Classic מיישמים את שדרוגי פרוטוקול הרשת Spurious Dragon ו-Bizantium של ETH כדי לשמור על שוויון תפעולי עם השרשרת האחות שלה.
+  etcSummitVancouver:
+    title: פסגת ETC 2019
+    text: כנס Ethereum Classic השנתי השלישי מתקיים בוונקובר, קנדה.
+  mordorLaunch:
+    title: מורדור משיקה
+    text: מפתחי ליבה הסירו את יתירות ה-testnet על ידי החלפת רשתות הבדיקה של Kensington, Morden ו-Nazgul ב-Mordor, רשת בדיקות Ethash PoW לבדיקת רמת פרוטוקול.
+  besu-ETC-Support:
+    title: Besu תומך ב-Ethereum Classic
+    text: Hyperledger Besu מוסיף תמיכה ב-Ethereum Classic ללקוח ה-Ethereum שלהם שנועד להיות ידידותי לארגונים עבור מקרים של שימוש ברשת ציבורית ופרטית כאחד.
+  aztlanConsensus:
+    title: קונצנזוס גס של אזטלן
+    text: מפתחי הליבה של Ethereum Classic מגיעים להסכמה גסה לגבי ECIP-1061 במאמץ ליישם את שדרוג פרוטוקול הרשת באיסטנבול של ETH.
+  aghartaConsensus:
+    title: אגרטה קונצנזוס גס
+    text: מפתחי הליבה של Ethereum Classic מגיעים להסכמה גסה לגבי ECIP-1056 במאמץ ליישם את שדרוגי פרוטוקולי הרשת של קונסטנטינופול ופטרבורג של ETH.
+  aghartaUpgrade:
+    title: שדרוג אגרטה
+    text: מפתחי הליבה של Ethereum Classic מיישמים את שדרוגי פרוטוקולי הרשת של קונסטנטינופול ופטרבורג של ETH כדי לשמור על שוויון תפעולי עם השרשרת האחות שלה.
+  core-Geth-Launch:
+    title: השקת Core-Geth
+    text: צוות ETC Core מתרחק מפרויקט הלקוח Multi-Geth. הפרויקט נקרא Core-Geth, מאמץ אתריום/גו-אתריום במורד הזרם להפוך את פרוטוקול האת'ריום לנגיש ולהרחבה עבור מערכת אקולוגית מגוונת.
+  phoenixFixConsensus:
+    title: פיניקס פיקס קונצנזוס גס
+    text: במהלך יישומי Aztlán testnet, מפתחי הליבה של Ethereum Classic מגלים סיבוכים עם מפרט ECIP 1061 כדי להוסיף שדרוג פרוטוקול רשת איסטנבול של ETH. כמתוכנן, רשתות הבדיקות של ETC תופסות את הבעיות ומפתחי הליבה מפרטים תיקון לבעיות.
+  ecip1050-Status-Codes:
+    title: קודי סטטוס ECIP 1050
+    text: ECIP 1050 Status Codes עוברים למצב סופי. תקן זה מתאר קבוצה משותפת של קודי סטטוס באותו אופן כמו סטטוסי HTTP. זה מספק קבוצה משותפת של אותות כדי לאפשר לחוזים חכמים להגיב למצבים באופן אוטונומי, לחשוף הודעות שגיאה מקומיות למשתמשים וכן הלאה.
+  aztlanBugs:
+    title: רשתות בדיקות תופסות באגים
+    text: במהלך יישומי Aztlán testnet, מפתחי הליבה של Ethereum Classic מגלים סיבוכים עם מפרטי ECIP 1061 ו-1078 כדי להוסיף שדרוג פרוטוקול רשת איסטנבול של ETH. Meowbits מ-ETC Core מתעדת את הממצאים. כמתוכנן, רשתות הבדיקה של ETC תופסות את הבעיות ומפתחי הליבה חוזרים ללוח השרטוטים.
+  aztlanRejected:
+    title: אזטלן נדחה
+    text: בהתבסס על הבעיות שהתגלו במהלך הטמעת רשת הבדיקות של Aztlán, נמצא ש-Phoenix Fix אינו תיקון מספיק ושתי רשתות הבדיקות נשברות; מפתחי הליבה מציעים לדחות את ecips-1061, 1078, 1086 עקב דאגות אבטחה ויציבות ולהמשיך בכתיבת הצעה חדשה מאפס.
+  phoenixConsensus:
+    title: פיניקס קונצנזוס גס
+    text: מפתחי הליבה של Ethereum Classic מגיעים לקונצנזוס גס על ECIP-1088 במאמץ ליישם את שדרוג פרוטוקול הרשת של ETH באיסטנבול. יישומי Testnet חשפו בעיות עם ניסיונות קודמים במפרטים ECIP-1061 ו-ECIP-1078.
+  phoenixMordor:
+    title: בדיקת הפניקס מורדור
+    text: בדיקות הפניקס מתחילות ברשת הבדיקות Mordor PoW בבלוק 999,983. צוותי פיתוח ליבה סימנו כי מדובר ביישום מורכב. בדיקות עשויות לחשוף בעיות המעכבות שדרוג רשת זה, אך Ethereum Classic לעולם לא ימהר לשדרג את הרשת המרכזית. אבטחת הרשת היא בראש סדר העדיפויות על פני מהירות הפיתוח וקווי זמן שרירותיים.
+  era3:
+    title: 5M20 עידן 3
+    text: תגמולי הבלוק של Ethereum Classic מופחתים ב-20% ל-3.2 ETC לכל בלוק, בהתאם ללוח הזמנים של פליטות 5M20 בהשראת הביטקוין.
+  phoenixKotti:
+    title: בדיקת פיניקס קוטי
+    text: בדיקות הפניקס מתחילות ברשת הבדיקות של Kotti PoA בבלוק 2,200,013. צוותי פיתוח ליבה סימנו כי מדובר ביישום מורכב. בדיקות עשויות לחשוף בעיות המעכבות שדרוג רשת זה, אך Ethereum Classic לעולם לא ימהר לשדרג את הרשת המרכזית.
+  phoenixUpgrade:
+    title: שדרוג פניקס
+    text: מפתחי הליבה של Ethereum Classic מיישמים את שדרוגי פרוטוקול הרשת באיסטנבול של ETH כדי לשמור על שוויון תפעולי עם הרשת האחות שלה.
+  client-Deprecation-Attacks:
+    title: התקפות ביטול משימוש לקוח
+    text: ביום השנה ה-4 ל-DAO Bailout Hard Fork, מתחזקות לקוחות ממוקדי ETH מתזמרים מתקפה חברתית על Ethereum Classic. מנהלי הלקוחות מכריזים על ביטול התמיכה ב-Ethereum Classic, ואז יבצעו מסע פרסום שיווקי שגוי תוך ציטוט של רשת ETC יאבד 70% מה-hashrate בין שאר אי-אמת.
+  51Attack2:
+    title: "51% התקפה מס' 2"
+    text: Ethereum Classic חווה את התקפת ארגון מחדש של הרשת המוצלחת השנייה ברשת שלה.
+  51Attack3:
+    title: "51% התקפה מס' 3"
+    text: Ethereum Classic חווה את התקפת ארגון מחדש של הרשת המוצלחת השלישית ברשת שלה.
+  51Attack4:
+    title: "51% התקפה מס' 4"
+    text: Ethereum Classic חווה את התקפת ארגון מחדש של הרשת המוצלחת הרביעית ברשת שלה.
+  messClientFunctionality:
+    title: פונקציונליות לקוח MESS
+    text: לקוח Core-Geth מיישם את הדגלים כדי להחיל את הפונקציונליות האופציונלית של MESS כתגובה להתקפות 51% של רשתות Ethereum Classic.
+  thanosMordor:
+    title: בדיקת Thanos Mordor
+    text: בדיקות Thanos מתחילות ברשת הבדיקות של Mordor PoW בבלוק 2,520,000.
+  thanosUpgrade:
+    title: שדרוג ת'אנוס
+    text: Ethereum Classic מיישמת את שדרוג Thanos כדי לכייל מחדש את אורך העידן המשמש בחישובי DAG.
+  etchash:
+    title: ETChash
+    text: Ethereum Classic מיישמת את שדרוג Thanos כדי להתאים את אלגוריתם הכרייה מ-ETHash ל-ETCHash.
+  manis-ETC-Stupport:
+    title: Revival Client Mantis ETC
+    text: Input Output Global מאותת על תמיכה ברשת Ethereum Classic עם החייאה של לקוח Mantis ו-GUI.
+  gethBugs:
+    title: באגים של לקוח Geth
+    text: באגי התוכנה של Geth שפיצלו את הרשת המרכזית של Ethereum Foundation באוגוסט 2021 מפצלים את הרשת המרכזית של Ethereum Classic. מומלץ לכל אחד לעדכן את לקוחותיו.
+  lcetcc:
+    title: בואו נשמור על Ethereum קלאסיק
+    text: משתתף ETC מודאג כתב הפרכה ארוכה שטענה נגד יישום ECIP-1098.
+  treasuryDebate:
+    title: הצעת משרד האוצר של IOHK נסוגה
+    text: לאחר דיון ארוך של שנה בשאלה האם ECIP-1098 יקבל ערכי ETC, ETC Coop, ואחריו IOHK משכים את התמיכה בהצעת האוצר ברמת הרשת.
+  magnetoUpgrade:
+    title: שדרוג מגנטו
+    text: מפתחי הליבה של Ethereum Classic מיישמים את שדרוגי פרוטוקול רשת ברלין של ETH כדי לשמור על שוויון תפעולי עם הרשת האחות שלה.
+  mystiqueUpgrade:
+    title: שדרוג מיסטיק
+    text: מפתחי הליבה של Ethereum Classic מיישמים את שדרוגי פרוטוקול הרשת בלונדון של ETH כדי לשמור על שוויון תפעולי עם הרשת האחות שלה.
+  etcFlood:
+    title: ETC מברכת את ה-Hashrate החדש
+    text: Ethereum Classic מתחייבת לתמיכה באלגוריתם הכרייה של ETChash ובמערכת האקולוגית הנוכחית של הכרייה. זה ממצב את Ethereum Classic כרשת הממוקמת היטב לקלוט את רוב כורי ה-Ethash חסרי הזכויות עם המהלך של רשת ETH להוכחת הסכמה על הימור.
+  etcdao:
+    title: Ethereum Classic DAO
+    text: מימון יציב וארוך טווח מתגלה כבעיה עבור Ethereum Classic עם נטישה על ידי קרן Ethereum בשנת 2016. במאמץ לפתור את בעיית מימון ה-LTS של הרשת, Ethereum Classic DAO נוצר עם משימה להוכיח עתיד את פיתוח הרשת באמצעות קרן פיתוח בקוד פתוח. המימון נוצר עם שימוש בערימת ETC DeFi המתארחת ב-EthereumClassic.com
+  era4:
+    title: 5M20 עידן 4
+    text: תגמולי הבלוק של Ethereum Classic מופחתים ב-20% ל-2.56 ETC לכל בלוק, בהתאם ללוח הזמנים של פליטות 5M20 בהשראת הביטקוין. קצב כריית ETChash ממשיך לעבור ל-ETC כשהרשת מגיעה לשיאים של כל הזמנים.
+  sha3Withdrawn:
+    title: הצעת ETC Coop SHA3 בוטלה
+    text: לאחר יותר משלוש שנים של ויכוחים מעוררי מחלוקת, בוב סאמרוויל מכיר במחלוקת הקשה שיגרום ECIP-1049 לרשת ומושך את ההצעה. המחיר החברתי השלילי שנגרם על ידי מסע המידע השגוי של תומכי ECIP-1049 ממשיך להשפיע לרעה על התפיסה הציבורית של הרשת. עם זאת, באמצעות הקהילה הגמישה שלה, Ethereum Classic נשאר במיקום טוב לשגשג ב-ETChash בעולם שלאחר המיזוג.
+  etcswap:
+    title: ETCswap
+    text: Ethereum Classic DAO משיקה את המוצר הראשון שלה - ETCswap. זה מבטיח שהרשת נמצאת צעד אחד קרוב יותר למימון יציב לפיתוח קוד פתוח ב-Ethereum Classic. ערימת פרוטוקולים מבוזרת מקצועית תיפרס על Ethereum Classic.
+  vitalikEndorsesETC:
+    title: Vitalik Buterin מאשר את Ethereum Classic
+    text: Vitalik Buterin, המייסד המשותף הבולט ביותר של Ethereum, נותן תמיכה לרשת Ethereum המקורית - Ethereum Classic למי שמעריך רשתות Proof-of-Work.
+  antpoolETCDAOTreasuryFund:
+    title: נמלים
+    text: AntPool תומך באקוסיסטם של Ethereum Classic עם השקעה של 10 מיליון דולר. Antpool מזרימה קרן אוצר במטרה לתמוך באקוסיסטם הפיתוח המקצועי ב-Ethereum Classic.
+  hashrateSurges:
+    title: עליות האשראט ETC
+    text: מכיוון שהמיזוג הקרוב של Ethereum ממשיך לעורר התרגשות במרחב הקריפטו, Ethereum Classic (ETC), אחותו של Ethereum, ראתה עלייה של 83% ב-hashrate מאז יוני, 2022.
+  twitter-Account-Capture:
+    title: תפיסה ארגונית בחשבון טוויטר
+    text: ימים לפני המיזוג, צ'ארלס הוסקינסון מאותת בפומבי על כוונה "לחדש" את חשבון הטוויטר הראשי של Ethereum Classic. הוא מצדיק את הפעולה הזו בשל עלויות שקועות בלקוח מנטיס שלא נמסר ודחיית הצעת האוצר הריכוזית של IOHK לשנת 2021 (ECIP-1098).
+  ethMerge:
+    title: המעבר של ETH להוכחת הימור
+    text: קרן Ethereum משדרגת את רשת ה-EVM הגדולה ביותר לקונצנזוס של הוכחת סיכון. אירוע המיזוג הזה מסמל את Ethereum Classic כרשת ה-EVM הגדולה ביותר של הוכחת עבודה. אבטחת הרשת של Ethereum Classic מתגברת כשהיא הופכת לרשת השיא של כל אלגוריתמי הכרייה הנגזרות של Ethash. הפניקס עולה.
+  twitter-Account-Rebranded:
+    title: חשבון טוויטר מיתוג מחדש
+    text: נפל מהדחייה החברתית של קהילת ETC לאוצר הריכוזי של IOHK בשנת 2021, צ'ארלס הוסקינסון מעביר את חשבון הטוויטר הראשי של Ethereum Classic לפרויקט קוד פתוח של צד שלישי בשם Ergo. צוות Ergo ממתג מחדש את החשבון לפרויקט משלו. לבוב סאמרוויל נשלח חשבון טוויטר שנרשם לאחרונה עם חשבונות הטוויטר העיקריים שמטפלים בו עם 0 היסטוריה ו-0 עוקבים.
+  aBrightFuture:
+    title: עתיד מזהיר
+    text: ככל שהמערכת האקולוגית ממשיכה לצמוח באופן אורגני, צוותי הפיתוח העצמאיים ומשתתפי הרשת מונחים על ידי עקרונות שהופכים את Ethereum Classic לרשת ייחודית כל כך. הרשת היא באמת מבוזרת, בלתי ניתנת לשינוי ובלתי ניתנת לעצירה. קוד זה חוק.

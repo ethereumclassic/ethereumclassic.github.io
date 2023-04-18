@@ -1,0 +1,36 @@
+title: Testnets
+seo: Informações sobre as várias testnets Ethereum Classic, com redes publicamente disponíveis que podem ser usadas para testar contratos e atualizações de protocolo.
+description: |
+  Ao desenvolver contratos no Ethereum Classic, como em qualquer sistema de contrato EVM, é recomendável usar uma [rede virtual] local (/development/tooling), que permite iterar rapidamente sem ter que esperar a mineração de blocos. Em algum momento, porém, você pode querer permitir que o público interaja com uma versão beta do seu aplicativo e, para isso, uma testnet pode ser usada.
+
+  Como o Ethereum Classic mantém a compatibilidade com o EVM upstream do Ethereum, exceto alguns casos de borda menores, os contratos se comportarão de forma idêntica. Isso significa que as populares redes de testes Ethereum podem, em sua maioria, ser usadas para testes públicos de contratos Ethereum Classic e, devido à sua popularidade, isso pode ser preferível para testes de usuários.
+
+  Além disso, o Ethereum Classic tem suas próprias redes de teste que operam a versão Ethereum Classic do EVM, e a implantação em uma dessas redes também é altamente recomendada antes do lançamento da produção. Esses testnets públicos também fornecem faucets, para que você possa adquirir facilmente o testnet ETC e implantar seu código.
+
+  Se uma faucet não estiver funcionando corretamente, junte-se à Ethereum Classic Community [Discord](https://ethereumclassic.org/discord) para fazer ping para fundos de testnet. Alguém na sala de bate-papo geral do desenvolvedor irá ajudá-lo.
+
+  Você pode usar [chainlist.org](https://chainlist.org) para configurar sua carteira web3 com os endpoints e exploradores RPC apropriados.
+  Configurar carteira: [Kotti](https://chainlist.org/chain/6), [Mordor](https://chainlist.org/chain/63)
+items:
+  testnets:
+    i18n:
+      pow: Prova de Trabalho
+      poa: Prova de Autoridade
+      testnet: Testnet
+      experimental: Experimental
+      faucet: Torneira
+    columnItems:
+      name:
+        name: Nome
+      faucet:
+        text: Torneira
+      type:
+        name: Tipo
+      miningAlgo:
+        name: Algoritmo
+      consensusAlgo:
+        name: Tipo de consenso
+      networkId:
+        name: ID de rede
+      chainId:
+        name: ChainID

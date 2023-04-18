@@ -1,13 +1,16 @@
 title: 测试网
 seo: 有关各种以太坊经典测试网的信息，以及可用于测试合约和协议升级的公开可用网络。
 description: |
-  在Ethereum Classic上开发合约时，就像任何EVM合约系统一样，建议使用本地[虚拟网络](/development/tooling)，它允许你快速迭代，而不必等待区块被开采。不过，在某些时候，你可能希望允许公众与你的应用程序的测试版本进行互动，为此，可以使用测试网。
+  在 Ethereum Classic 上开发合约时，与任何 EVM 合约系统一样，建议使用本地 [虚拟网络](/development/tooling)，这样您可以快速迭代，而无需等待区块被挖掘。但是，在某些时候，您可能希望允许公众与您的应用程序的测试版进行交互，为此，可以使用测试网。
 
-  由于Ethereum Classic与Ethereum的上游EVM保持兼容，除了一些小的边缘情况外，合约的行为是相同的。这意味着流行的以太坊测试网，如 [Kovan](https://kovan-testnet.github.io/website/)，在大多数情况下，可以用于以太坊经典合约的公开测试，并且由于其受欢迎程度，这可能是用户测试的首选。
+  由于 Ethereum Classic 保持与 Ethereum 的上游 EVM 的兼容性，除了一些较小的边缘情况外，合约将表现相同。这意味着流行的以太坊测试网在很大程度上可以用于以太坊经典合约的公开测试，并且由于它们的流行，这可能更适合用户测试。
 
-  此外，Ethereum Classic有自己的测试网，运行Ethereum Classic版本的EVM，在生产发布之前，也强烈建议部署到这些网络之一。这些公共测试网也提供龙头，所以你可以很容易地获得测试网ETC并部署你的代码。
+  此外，Ethereum Classic 有自己的测试网，运行 EVM 的 Ethereum Classic 版本，强烈建议在生产发布之前部署到其中一个网络。这些公共测试网还提供水龙头，因此您可以轻松获取测试网 ETC 并部署您的代码。
 
-  其中一些网络，如Astor，测试ETC的实验性版本，其功能在Ethereum Classic主网中还不存在。
+  如果水龙头无法正常工作，请加入以太坊经典社区 [Discord](https://ethereumclassic.org/discord) ping 测试网资金。 dev-general 聊天室中的某个人会帮助您。
+
+  您可以使用 [chainlist.org](https://chainlist.org) 使用适当的 RPC 端点和浏览器配置您的 web3 钱包。
+  配置钱包： [Kotti](https://chainlist.org/chain/6), [Mordor](https://chainlist.org/chain/63)
 items:
   testnets:
     i18n:

@@ -26,17 +26,21 @@ items:
       deployment:
         question: Wie kann ich auf der Ethereum Classic-Blockchain bereitstellen?
         answer: |
-          Erwerben Sie zunächst einige ETC, um das Gas für die Bereitstellung Ihres Vertrags zu bezahlen, und stellen Sie dann einfach sicher, dass Sie den Vertrag im Ethereum Classic-Netzwerk (Chain ID 61) und nicht im Ethereum-Netzwerk (Chain ID 1) bereitstellen.
+          Erwerben Sie zunächst etwas ETC, um das Gas für die Bereitstellung Ihres Vertrags zu bezahlen, und stellen Sie dann einfach sicher, dass Sie im Ethereum Classic-Netzwerk (Ketten-ID 61) und nicht im Ethereum-Netzwerk (Ketten-ID 1) bereitstellen.
       rpc:
         question: Gibt es öffentliche RPC-Endpunkte, die ich für die Bereitstellung auf ETC verwenden kann?
         answer: |
-          Ja. Wenn Sie Ihren eigenen Ethereum Classic-Knoten nicht synchronisieren möchten, gibt es eine Reihe von öffentlichen Endpunkten, die Sie kostenlos nutzen können.
+          Ja. Wenn Sie Ihren eigenen Ethereum Classic-Knoten nicht ausführen, synchronisieren und warten möchten, stehen eine Reihe öffentlicher Endpunkte zur Verfügung, die kostenlos verwendet werden können.
 
-          Sehen Sie sich den Abschnitt [RPC Endpoints](/network/endpoints) an, sowie [ChainList.org](https://chainlist.org/chain/61).
+          Sehen Sie sich den Abschnitt [RPC Endpoints](/network/endpoints) sowie [ChainList.org](https://chainlist.org/chain/61) an.
       grants:
         question: Kann ich eine Finanzierung erhalten, um auf Ethereum Classic aufzubauen?
         answer: |
-          Da Ethereum Classic über keine zentrale Kasse verfügt, muss die gesamte Entwicklung entweder selbst oder über Drittmittel finanziert werden. In der Vergangenheit haben verschiedene Drittparteien Förderprogramme durchgeführt, und die [ETC Cooperative] (https://etccooperative.org/) hat angekündigt, dass sie bald ein neues Förderprogramm starten wird.
+          Ja. Es gibt eine Reihe früherer und gegenwärtiger Programme zur Förderung der Entwicklung von ETC.
+
+          Ein aktuelles Beispiel ist [ETC Grants DAO](https://etcgrantsdao.io), das 2023 ein ETC-Stipendienprogramm ins Leben gerufen hat.
+
+          Da Ethereum Classic keine zentrale Kasse hat, werden alle Beiträge zum Projekt extern finanziert. Dazu gehören Mitwirkende, die ihre Zeit spenden, und finanzielle Anreize aus Drittmitteln.
       ecips:
         question: Wie kann ich bei der Entwicklung des Ethereum Classic-Protokolls helfen?
         answer: |

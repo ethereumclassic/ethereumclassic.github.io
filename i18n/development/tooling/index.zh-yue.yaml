@@ -1,0 +1,75 @@
+title: 開發者工具
+seo: 一組用於增強以太坊經典應用程序開發和開發運營體驗的工具。
+description: |
+  此頁麵包含一個資源列表，那些在 Ethereum Classic 之上開發應用程序的人可能會覺得有用。請務必查看 [Ethereum.org 開發者環境](https://ethereum.org/en/developers/local-environment/) 頁面，因為其中許多工具在為 Ethereum Classic 開發時仍然相關。
+items:
+  prices:
+    title: 價格來源
+    description: 這些網站和 API 提供了在您的應用程序中使用的 ETC 的價格。
+  processors:
+    title: 支付處理器
+    description: 這些 API 可用於在您的網站或應用程序中接受 ETC 付款。
+  dex:
+    title: 開發經驗
+    description: 可以幫助開發以太坊經典應用程序的開發人員工具的非詳盡選擇，包括 IDE、庫、測試框架、調試器等*。
+    items:
+      BUIDL IDE:
+        description: Second State BUIDL IDE 是一種基於 Web 的 IDE，無需下載或安裝軟件。它為智能合約和dapp開發者提供一站式的開發和部署環境。
+      Dappkit:
+        description: 一個與賬本無關的高性能基礎設施和庫，供開發人員構建和擴展去中心化應用程序。簡而言之，Dapps 的協作 Firebase。
+      Embark Framework:
+        description: 使用以太坊、IPFS 和其他平台的無服務器分散應用程序框架。
+      Emerald Platform:
+        description: 為 ETC 區塊鏈構建 Dapps 的平台。
+      ESerialize:
+        description: 該模塊的目標是提供簡單的函數來序列化和反序列化以太坊堆棧的數據。
+      Ethereum JSON-RPC API:
+        description: 基於 EVM 的區塊鏈客戶端必須實現的 JSON-RPC 方法規範。
+      Eth Fiddle:
+        description: 智能合約的在線編輯器。
+      EVM-LLVM:
+        description: 開發人員不僅可以使用除 Solidity 之外的大量編程語言（用於智能合約的 Rust！）來針對以太坊虛擬機 (EVM)，他們還可以立即受益於圍繞 LLVM 基礎設施構建的各種開發工具。
+      Ganache:
+        description: 用於運行測試的個人以太坊區塊鏈。
+      Jade Suite:
+        description: Jade 工具套件使開發人員能夠在基於 EVM 的區塊鏈（如 Ethereum Classic）之上創建點對點去中心化應用程序。
+      Mythx:
+        description: MythX 是以太坊智能合約的首要安全分析服務。我們的使命是確保開發團隊避免代價高昂的錯誤，並使以太坊成為更安全、更值得信賴的平台。
+      Open-RPC:
+        description: OpenRPC 規範為 JSON-RPC 2.0 API 定義了標準的、與編程語言無關的接口描述。
+      OpenZeppelin:
+        description: 經過實戰檢驗的安全、可重複使用的智能合約框架。
+      Quorum:
+        description: Quorum 是一個開源區塊鏈平台，它將公共以太坊社區的創新與支持企業需求的增強相結合。
+      Remix Online IDE:
+        description: 一個有用的瀏覽器內 IDE，可以編譯智能合約並將其發佈到各種以太坊網絡。包括棉絨。
+      Signatory:
+        description: 以太坊堆棧的離線交易和消息簽名者。
+      Sidekik:
+        description: 使用可視化 UI 調試、測試和理解智能合約，讓您可以與本地或部署的基於 EVM 的智能合約進行交互。
+      SOLL:
+        description: LLVM 編譯器終於來到了 Solidity。有了它，我們可以輕鬆地跨多個區塊鏈虛擬機創建智能合約。 Ethereum Classic 上的 EVM 和 ETH 2.0 的 eWASM 是我們最先支持的。
+      Sputnikvm:
+        description: SputnikVM 是以太坊虛擬機 (EVM) 的開源獨立實現。它的目標是成為一個高效的、可插拔的虛擬機，適用於不同的基於以太坊的區塊鏈。
+      Truffle Suite:
+        description: 使用以太坊虛擬機 (EVM) 的世界級區塊鏈開發環境、測試框架和資產管道，旨在讓開發人員的生活更輕鬆。
+  nodeTools:
+    title: 節點部署
+    description: 這些工具使為生產部署啟動節點集群或使用公共數據集執行數據科學變得容易。
+    items:
+      Bloq Cloud:
+        description: BloqCloud 提供高度優化的、始終可用的區塊鍊網絡訪問。根據您的需求快速連接並輕鬆擴展——無需擔心管理基礎架構。
+      DappNode:
+        description: DAppNode 促進運行節點、DApps 和託管 P2P 網絡和經濟體。
+      Rivet:
+        description: Rivet 是一個以太坊虛擬機 (EVM) 遠程過程調用 (RPC)，提供以太坊經典 (ETC) 端點。
+      GetBlock:
+        description: GetBlock 是一項為主要加密貨幣節點提供連接的服務。它們支持 JSON-RPC、REST 和 WebSockets 等工具，這有助於與區塊鏈直接同步。無需自己運行節點，該平台允許其客戶通過完整節點連接到區塊鏈而無需支付費用。
+      Google BigQuery:
+        description: Google Cloud 發布了由 Ethereum Classic 的區塊鏈交易歷史組成的數據集，以幫助您更好地了解加密貨幣。還包括一組查詢和視圖，將所有區塊鏈數據集映射到復式賬簿數據結構，支持多鏈元分析，以及與傳統財務記錄處理系統的集成。
+      Raspberry Pi Node:
+        description: 有關如何在 Raspberry Pi 上設置 Ethereum Classic 節點的詳細指南。
+      Rivet Cloud:
+        description: 可無限擴展、高度可用的以太坊和以太坊經典端點，真正發揮作用。
+      QuikNode:
+        description: QuikNodes 很簡單，始終在線，具有快速的互聯網連接以實現快速的區塊鏈同步，而且您永遠不必擔心磁盤空間不足。

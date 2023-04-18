@@ -22,3 +22,6 @@ items:
   NFT Marketplaces:
     title: NFT tržnice
     description: Sljedeća NFT tržišta možda nisu *potpuno* decentralizirana tržišta.
+  Other:
+    title: Ostale usluge mjenjačnice
+    description: Sljedeće usluge ne spadaju ni u jednu od gore navedenih kategorija. Ove usluge mogu, ali i ne moraju biti decentralizirane.

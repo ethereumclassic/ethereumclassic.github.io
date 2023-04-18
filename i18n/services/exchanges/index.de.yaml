@@ -22,3 +22,6 @@ items:
   NFT Marketplaces:
     title: NFT-Marktplätze
     description: Bei den folgenden NFT-Marktplätzen handelt es sich nicht unbedingt um *vollständig* dezentralisierte Marktplätze.
+  Other:
+    title: Andere Exchange-Dienste
+    description: Die folgenden Dienste fallen in keine der oben genannten Kategorien. Diese Dienste können dezentralisiert sein oder nicht.

@@ -1,0 +1,109 @@
+title: Perguntas frequentes do usuário
+seo: Perguntas frequentes para quem busca ajuda no dia a dia do uso do Ethereum Classic.
+info: Não consegue encontrar uma resposta para sua pergunta aqui? Tente perguntar no servidor ETC community [discord](https://ethereumclassic.org/discord).
+description: Se você deseja enviar e receber ETC, usar um dos aplicativos implantados no Ethereum Classic ou está preocupado em como usá-lo com segurança, esta página é para você.
+items:
+  using:
+    items:
+      comparison:
+        question: Posso usar o Ethereum Classic (ETC) da mesma forma que o Ethereum (ETH)?
+        answer: |
+          Sim, o Ethereum Classic opera para o usuário final exatamente da mesma maneira que o Ethereum. Você só precisa garantir que a carteira, aplicativo, bolsa ou outro serviço que você está usando seja compatível com o Classic.
+
+          Ethereum Classic, sendo tecnologicamente muito semelhante ao Ethereum, compartilha um corpo de trabalho em guias de usuário, tutoriais e orientações que se aplicam a ambas as cadeias, razão pela qual os [guias da comunidade no Ethereum.org](https://ethereum.org/ en/learn/) são leituras altamente recomendadas.
+
+          Você também pode usar MetaMask com Ethereum Classic.
+      metmask:
+        question: Como eu uso ETC com MetaMask?
+        answer: |
+          Você pode facilmente adicionar o Ethereum Classic ao MetaMask através do site [CoinList.org](https://coinlist.org/chain/61). Se você deseja configurar manualmente o MetaMask para usar um nó Ethereum Classic RPC personalizado, consulte o guia [MetaMask](/guides/metamask).
+      missingEtc:
+        question: Por que não consigo ver meu ETC ao usar uma carteira de hardware com MetaMask?
+        answer: |
+          Um [bug conhecido](https://github.com/MetaMask/metamask-extension/issues/16272) com o MetaMask é que ele não reconhecerá o ETC criado com o Ledger Live (e algumas outras carteiras de hardware). Você pode contornar isso enviando ETC do Ledger Live para a carteira MetaMask que você configurou usando o mesmo dispositivo.
+      help:
+        question: Enviei ETC acidentalmente para meu endereço ETH, como posso recuperá-lo?
+        answer: |
+          Passo 1: Não se preocupe. Contanto que você o tenha enviado para uma conta que você controla ou gerou, provavelmente poderá recuperar seus fundos.
+
+          Dependendo do software ou troca que você está usando, existem vários métodos diferentes de recuperação, portanto, nem todos podem ser listados aqui. Pesquise online por "[nome do serviço] recuperar ETC perdida". Você pode ter que entrar em contato com um agente de suporte do serviço que está usando.
+
+          Por exemplo, [Carteira Ledger](https://support.ledger.com/hc/en-us/articles/360019363320-Eth-recovery-)
+      metmaskFailign:
+        question: Por que minha transação está falhando com o MetaMask?
+        answer: |
+          Para evitar que as transações sejam criadas várias vezes, cada transação do Ethereum Classic inclui um número chamado nonce que aumenta cada vez que você envia uma transação.
+
+          Às vezes, especialmente se você enviar uma transação com uma taxa de gás baixa, sua transação pode ficar presa no mempool. Nesse caso, o MetaMask pode não definir o nonce corretamente para transações subsequentes.
+
+          Você pode forçar o MetaMask a usar o nonce correto verificando o nonce da sua última transação bem-sucedida em [BlockScout](https://blockscout.com/etc/mainnet/), aumentando-o em 1 e [configurando o nonce manualmente no MetaMask ](https://help.tokensets.com/en/articles/4089766-how-to-push-through-a-stuck-transaction).
+      explorers:
+        question: Como posso visualizar minhas transações Ethereum Classic?
+        answer: |
+          O explorador Ethereum Classic mais popular e completo é [BlockScout](https://blockscout.com/etc/mainnet/), mas também existem várias alternativas disponíveis na seção [block explorers](/network/explorers).
+      exchange:
+        question: Como posso obter ETC?
+        answer: |
+          O Ethereum Classic está listado em praticamente todas as principais criptomoedas [exchange](/services/exchanges), onde você pode comprar ETC com moeda fiduciária ou trocar outras criptomoedas por ela.
+
+          Se você possui uma placa de vídeo razoavelmente moderna, também pode [mine](/minerar) por conta própria.
+      wallets:
+        question: Qual carteira você recomenda que eu use com o Ethereum Classic?
+        answer: |
+          Existem muitos tipos diferentes de carteira disponíveis, dependendo do seu caso de uso. Confira a seção [wallets](/services/wallets) para mais informações.
+      apps:
+        question: Quais aplicativos estão sendo executados na rede Ethereum Classic?
+        answer: |
+          Tudo, desde trocas centralizadas, DEXs, DeFi, NFTs, pontes de cadeia cruzada e muito mais. Confira a seção [services](/services) para saber mais.
+      defi:
+        question: O Ethereum Classic tem DeFi?
+        answer: |
+          Sim. Um pequeno, mas crescente ecossistema financeiro descentralizado existe no Ethereum Classic, consulte a categoria de aplicativos [finance](/services/apps/finance) para atualizações.
+      staking:
+        question: Posso apostar minha ETC?
+        answer: |
+          Não, pelo menos não como você faria em um blockchain Proof of Stake. O ETC é um blockchain Proof of Work, então você pode apenas minerar, não apostar, para fornecer segurança à rede.
+
+          Pode haver alguns [protocolos de empréstimo](/services/apps/finance) que permitem que você empreste seu ETC por um rendimento, mas eles não fazem parte do próprio protocolo Ethereum Classic e vêm com risco de contraparte.
+      safety:
+        question: Ouvi dizer que o Ethereum Classic foi 51% atacado. É seguro usar?
+        answer: |
+          Em 2020, o Ethereum Classic tinha um hashrate historicamente muito baixo, o que levou a uma série de ataques de 51%. Acredita-se que os invasores alugaram hashrate e trocaram alvos com ataques de gasto duplo, que no total perderam cerca de US$ 10 milhões em ETC.
+
+          Em resposta, os clientes Ethereum Classic e o ecossistema mais amplo implementaram uma série de contramedidas, como tempos de confirmação mais longos nas trocas, ECIP-1099 e MESS. Desde que essas contramedidas foram implementadas, não houve mais ataques de 51%.
+
+          Além disso, desde a mudança da Ethereum para Proof of Stake em 2022, a ETC se tornou a maior cadeia minerável por GPU, aumentando sua taxa de hash de 50x para 100x desde o último ataque de 51%. Isso tornou extremamente improvável que um pool de hashrate esteja disponível para alugar para executar outro ataque de 51% e, mesmo que fosse, seria proibitivamente caro fazê-lo sem qualquer garantia de sucesso.
+
+          Como acontece com todos os blockchains Proof of Work, o potencial de ocorrência de ataques de 51% é uma parte necessária do design do protocolo. À medida que o tempo passa e o Ethereum Classic continua a não ser mais atacado dessa maneira, as partes interessadas podem estar cada vez mais confiantes de que os ataques de 51% são coisa do passado.
+
+          Em qualquer caso, não faz sentido financeiro para os invasores de 51% visar pequenos proprietários e eles não são capazes de "roubar" sua ETC. Em vez disso, eles normalmente visam as trocas por saques de gastos duplos. Historicamente, as trocas foram capazes de absorver esses ataques de escala relativamente pequena e implementar contramedidas conforme descrito.
+      deposit:
+        question: Por que demora tanto para depositar ETC?
+        answer: |
+          Conforme mencionado na pergunta acima, como contramedida para ataques de 51%, algumas bolsas têm tempos de depósito extremamente longos para o Ethereum Classic. Isso ajuda a proteger a exchange de ser vítima de um ataque de gasto duplo, mas significa que os usuários precisam esperar mais tempo para que os depósitos sejam confirmados.
+
+          Como o hashrate do ETC aumentou significativamente recentemente, é provável que as exchanges reduzam o número de confirmações necessárias para depósitos concluídos.
+      blockchain:
+        question: O que é uma Blockchain?
+        answer: |
+          Um blockchain é um tipo especial de banco de dados distribuído. O atributo mais significativo dos blockchains é que ninguém os controla! Não há ninguém em quem todos precisem confiar para gerenciá-lo. É por isso que eles são referidos como sendo confiáveis. Os usuários enviam tarefas em _transações_ que são agrupadas em _blocos_ que são vinculados para formar _chains_.
+
+          - [Como funciona um blockchain - Simplesmente explicado](https://youtu.be/SSo_EIwHSd4)
+          - [Blockchain em 7 minutos](https://youtu.be/yubzJw0uiE4)
+          - [Blockchain Technology for Dummies - Blockchain explicado de forma simples](https://youtu.be/2yJqjTiwpxM)
+          - [Blockchain explicado](https://youtu.be/QphJEO9ZX6s)
+      ether:
+        question: O que é Éter?
+        answer: |
+          Ether é o token nativo do Ethereum Classic é uma criptomoeda negociada em bolsas de moeda digital sob o símbolo **ETC**. O Ether é criado como uma recompensa aos nós da rede por um processo conhecido como mineração, que valida os cálculos realizados no EVM do Ethereum Classic.
+
+          Ether e ETC denotam a criptomoeda nativa usada para pagar por tarefas como a instalação de novos contratos inteligentes.
+          [O que é Ether e Ethereum?](https://youtu.be/fjnovGRQrRE)
+      gas:
+        question: O que é Gás?
+        answer: |
+          Gas é um mecanismo interno de precificação de transações, é usado para mitigar spam e alocar recursos na rede. É uma unidade usada para denotar a quantidade de _recursos_ necessários para realizar tarefas como a instalação de novos contratos inteligentes.
+
+          - [Gás Ethereum Explicado](https://youtu.be/hQ78FVSv-vs)
+          - [Diferença Ether vs Gas | O programador explica](https://youtu.be/cZ0rYWJzeow)
+          - [Preço do gás e Nonce de transação](https://mirror.xyz/0x4B0728B9B1E45583bFb8bD738C9C6c8906f2841d/gYK5HwZjAHZuoZXb5FcwcKbGedfX7MbyeCNt7Dei6oCnt7Dei6oCNT7Dei6oM)
