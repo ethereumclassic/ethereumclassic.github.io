@@ -1,0 +1,36 @@
+title: 測試網
+seo: 有關各種以太坊經典測試網的信息，以及可用於測試合約和協議升級的公開可用網絡。
+description: |
+  在 Ethereum Classic 上開發合約時，與任何 EVM 合約系統一樣，建議使用本地 [虛擬網絡](/development/tooling)，這樣您就可以快速迭代，而無需等待區塊被挖掘。但是，在某些時候，您可能希望允許公眾與您的應用程序的測試版進行交互，為此，可以使用測試網。
+
+  由於 Ethereum Classic 保持與 Ethereum 的上游 EVM 的兼容性，除了一些較小的邊緣情況外，合約將表現相同。這意味著流行的以太坊測試網在很大程度上可以用於以太坊經典合約的公開測試，並且由於它們的流行，這可能更適合用戶測試。
+
+  此外，Ethereum Classic 有自己的測試網，運行 EVM 的 Ethereum Classic 版本，強烈建議在生產發布之前部署到其中一個網絡。這些公共測試網還提供水龍頭，因此您可以輕鬆獲取測試網 ETC 並部署您的代碼。
+
+  如果水龍頭無法正常工作，請加入以太坊經典社區 [Discord](https://ethereumclassic.org/discord) ping 測試網資金。 dev-general 聊天室中的某個人會幫助您。
+
+  您可以使用 [chainlist.org](https://chainlist.org) 使用適當的 RPC 端點和瀏覽器配置您的 web3 錢包。
+  配置錢包： [Kotti](https://chainlist.org/chain/6), [Mordor](https://chainlist.org/chain/63)
+items:
+  testnets:
+    i18n:
+      pow: 工作證明
+      poa: 授權證明
+      testnet: 測試網
+      experimental: 實驗性的
+      faucet: 龍頭
+    columnItems:
+      name:
+        name: 姓名
+      faucet:
+        text: 龍頭
+      type:
+        name: 類型
+      miningAlgo:
+        name: 算法
+      consensusAlgo:
+        name: 共識類型
+      networkId:
+        name: 網絡ID
+      chainId:
+        name: 鏈號

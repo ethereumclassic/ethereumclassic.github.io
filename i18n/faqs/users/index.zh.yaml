@@ -17,7 +17,7 @@ items:
       metmask:
         question: 如何使用ETC和MetaMask？
         answer: |
-          你可以通过 [CoinList.org](https://coinlist.org/chain/61)网站轻松地将Ethereum Classic添加到MetaMask。如果你想手动配置MetaMask以使用自定义Ethereum Classic RPC节点，你可以查看 [MetaMask](/guides/metamask)指南。
+          您可以通过 [CoinList.org](https://coinlist.org/chain/61) 网站轻松地将 Ethereum Classic 添加到 MetaMask。如果您想手动配置 MetaMask 以使用自定义 Ethereum Classic RPC 节点，您可以查看 [MetaMask](/guides/metamask) 指南。
       missingEtc:
         question: 为什么使用MetaMask的硬件钱包时看不到我的ETC？
         answer: |

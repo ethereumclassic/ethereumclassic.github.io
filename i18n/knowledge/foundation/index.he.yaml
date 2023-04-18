@@ -1,0 +1,33 @@
+items:
+  main:
+    title: עקרונות ליבה
+    description: חלק זה מכיל מבחר מהמאמרים החשובים ביותר שצוללים עמוק לתוך הפילוסופיה הבסיסית של קרן Ethereum Classic. אלו הם הרעיונות שבסופו של דבר שומרים על חזון Ethereum המקורי.
+    items:
+      Declaration of Independence:
+        name: הכרזת העצמאות
+        description: הצהרה של סיבת קיומו של ETC, רשימה של תלונות ותיאור של עקרונותיה ומטרותיה. זהו אחד ממסמכי היסוד המוקדמים של Ethereum Classic, שפורסם במקור באוגוסט 2016 ותורגם לשפות רבות.
+      A Crypto-Decentralist Manifesto:
+        name: מניפסט קריפטו-מבוזר
+        description: עוד מסמך משפיע מימיה הראשונים של Ethereum Classic. הוא מתאר את ערכי הליבה של ביזור, ומסייע בקבלת החלטות בתוך קהילת ETC.
+      Ethereum Classic Vision:
+        name: Ethereum Classic Vision
+        description: איך Ethereum Classic תהיה פלטפורמת מחשוב מצליחה ומדוע ETC היא חנות מצוינת של ערך.
+      keepEtcClassic:
+        name: בואו נשמור על Ethereum קלאסיק
+        description: תזכורת מעמיקה לגבי חשיבות ההגנה על עקרונות Ethereum Classic, בתגובה להצעת האוצר (שנמשכה כעת).
+  past:
+    title: הכתפיים של ענקים
+    description: Ethereum Classic לא יכול היה להתקיים ללא פרויקטים פורצי דרך אחרים כמו היסוד המקורי של הבלוקצ'יין והפילוסופיה המבוזרת של הביטקוין, וטכנולוגיית פלטפורמת החוזה החכם של טיורינג שסופקה על ידי The Ethereum Project.
+    items:
+      The idea of Smart Contracts:
+        name: הרעיון של חוזים חכמים
+        description: פוסט הרעיון של ניק סאבו לגבי חוזים חכמים מ-1997.
+      Bitcoin A Peer-to-Peer Electronic Cash System:
+        name: "ביטקוין: מערכת מזומנים אלקטרונית עמית לעמית"
+        description: הספר הלבן המקורי של Satoshi Nakamoto עדיין מומלץ לקריאה לכל מי שלומד כיצד פועלים ביטקוין ובלוקצ'יין.
+      ethWhitepaper:
+        name: "נייר לבן של Ethereum"
+        description: הספר הלבן המקורי של Ethereum מסביר כיצד התועלת של טכנולוגיית הבלוקצ'יין משתחררת על ידי "פתרון הבעיה הפוליטית של ההחלטה מי ישפיע על הקונצנזוס", והמושג של DAOs, Stablecoins וכו'.
+      ethYellowPaper:
+        name: "Ethereum Yellowpaper"
+        description: התיאור הטכני המקורי של פרוטוקול Ethereum, מאת גאווין ווד

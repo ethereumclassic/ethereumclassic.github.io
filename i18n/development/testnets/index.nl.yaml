@@ -1,13 +1,16 @@
 title: Testnetten
 seo: Informatie over de verschillende Ethereum Classic-testnetten, met openbaar beschikbare netwerken die kunnen worden gebruikt om contracten en protocolupgrades te testen.
 description: |
-  Bij het ontwikkelen van contracten op Ethereum Classic, zoals bij elk EVM contractsysteem, wordt geadviseerd om een lokaal [virtueel netwerk](/development/tooling) te gebruiken, waarmee je snel kunt itereren zonder te hoeven wachten op blokken die gemined worden. Maar op een gegeven moment wilt u misschien het publiek laten interageren met een bètaversie van uw applicatie, en daarvoor kan een testnet worden gebruikt.
+  Bij het ontwikkelen van contracten op Ethereum Classic, zoals bij elk EVM-contractsysteem, is het raadzaam om een lokaal [virtueel netwerk](/development/tooling) te gebruiken, waardoor je snel kunt herhalen zonder te hoeven wachten tot blokken worden gedolven. Op een gegeven moment wilt u misschien het publiek toestaan om te communiceren met een bètaversie van uw applicatie, en hiervoor kan een testnet worden gebruikt.
 
-  Aangezien Ethereum Classic compatibel blijft met Ethereum's upstream EVM, zullen contracten, afgezien van enkele kleine randgevallen, zich identiek gedragen. Dit betekent dat populaire Ethereum testnets zoals [Kovan](https://kovan-testnet.github.io/website/) voor het grootste deel kunnen worden gebruikt voor het openbaar testen van Ethereum Classic contracten, en vanwege hun populariteit kan dit de voorkeur genieten voor het testen door gebruikers.
+  Ethereum Classic compatibel blijft met de stroomopwaartse EVM van Ethereum, zullen contracten, afgezien van enkele kleine randgevallen, zich identiek gedragen. Dit betekent dat populaire Ethereum-testnetten grotendeels kunnen worden gebruikt voor openbare tests van Ethereum Classic-contracten, en vanwege hun populariteit kan dit de voorkeur hebben voor gebruikerstesten.
 
-  Daarnaast heeft Ethereum Classic zijn eigen testnetten die de Ethereum Classic-versie van de EVM exploiteren, en het inzetten op een van deze netwerken wordt ook ten zeerste aanbevolen vóór de productierelease. Deze publieke testnetten bieden ook faucets, zodat u gemakkelijk testnet ETC kunt verwerven en uw code kunt implementeren.
+  Bovendien heeft Ethereum Classic zijn eigen testnetten die de Ethereum Classic-versie van de EVM bedienen, en implementatie op een van deze netwerken wordt ook ten zeerste aanbevolen voordat de productie wordt vrijgegeven. Deze openbare testnetten bieden ook kranen, zodat u eenvoudig testnet ETC kunt aanschaffen en uw code kunt implementeren.
 
-  Sommige van deze netwerken, zoals Astor, testen experimentele versies van ETC met functies die nog niet bestaan in het Ethereum Classic mainnet.
+  Als een kraan niet goed werkt, word dan lid van de Ethereum Classic Community [Discord](https://ethereumclassic.org/discord) om te pingen voor testnet-fondsen. Iemand in de dev-algemene chatroom zal je helpen.
+
+  U kunt [chainlist.org](https://chainlist.org) gebruiken om uw web3-portemonnee te configureren met de juiste RPC-eindpunten en verkenners.
+  Portefeuille configureren: [Kotti](https://chainlist.org/chain/6), [Mordor](https://chainlist.org/chain/63)
 items:
   testnets:
     i18n:

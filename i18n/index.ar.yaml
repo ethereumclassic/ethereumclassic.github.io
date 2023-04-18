@@ -1,5 +1,5 @@
 billboard:
-  text: إن ٪٪ $$ ٪٪ Ethereum
+  text: إن %%$$%% Ethereum
   ## must be kind of short, so they fit on the page
   randomWords:
     Decentralized: "لامركزية"

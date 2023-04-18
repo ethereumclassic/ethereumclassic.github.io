@@ -1,0 +1,131 @@
+title: Ethereum Classic
+seo: "פלטפורמת מחשוב מבוזרת שמפעילה חוזים חכמים: יישומים הפועלים בדיוק כפי שתוכנתו ללא השבתה, צנזורה או הפרעות של צד שלישי"
+#Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
+metaLocale: he_HE
+#Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
+htmlLang: he
+published: יצא לאור
+updated: עודכן לאחרונה
+author: מְחַבֵּר
+timeline:
+  chronological: כּרוֹנוֹלוֹגִי
+  reversed: הפוך
+disclaimers:
+  verify:
+    title: אל תאמין, ודא.
+    text: קישורים חיצוניים הם הגשת קהילה לא רשמית.
+  opinion:
+    title: תוכן בעל דעה
+    text: דף זה אינו משקף בהכרח את השקפתם של כל מחזיקי העניין של ETC.
+next: המשך לקרוא
+prev: מאמר קודם
+contribute: אם תרצה לתרום על ידי הוספה או תיקון מידע לדף זה, אנא שלח הודעה ב [Discord](https://discord.com/invite/dwxb6nf) או צור בעיה ב [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io)
+contributors: "עמוד זה קיים בין השאר הודות לתורמים הבאים:"
+allLanguages: כל השפות
+noResults: אין תוצאות
+netlify: אתר זה מופעל על ידי Netlify
+crowdin: לוקליזציה עם Crowdin
+metaMask: הוסף ETC ל- MetaMask
+helpTranslate: תמכו ב-ETC על ידי עזרה בתרגום אתר זה!
+noItems: מצטערים, הדף הזה ריק!
+search:
+  box: לחפש
+  noResults: אין תוצאות...
+  poweredBy: מופעל על ידי אלגוליה
+  generalInfo: מידע כללי
+  blogArticles: מאמרים בבלוג
+  videos: סרטונים
+  applications: יישומים
+  newsLinks: קישורי חדשות
+  txSearch: נראה שהזנת כתובת או עסקה של Ethereum Classic.
+  blockScout: "חפש ב-Blockscout Explorer:"
+  explorers: ...או בדוק כמה [חוקרי blockchain](/network/explorers) אחרים.
+qa:
+  show: הצג את כל התשובות
+  hide: הסתר את כל התשובות
+##
+## Announcement Banner
+announcement:
+  text: |
+    אתר זה מתורגם כעת למספר שפות באמצעות למידת מכונה. לחץ על הדגל בפינה השמאלית העליונה של הדף כדי לשנות שפה. אם תרצה לעזור לתקן תרגומים, אנא צור איתנו קשר!
+  button:
+    text: "עזרה בתרגום"
+## Footer
+signOff: מיוצר עם '<3' עבור חזון Ethereum המקורי
+socialHilight: קהילת ETC פעילה בדיסקורד
+socialItems:
+  discord:
+    name: מַחֲלוֹקֶת
+  discordCoop:
+    name: ETC Coop Discord
+  twitterEthclassic:
+    name: eth_classic טוויטר
+  twitterEtcnetwork:
+    name: ETC_Network Twitter
+  githubOrg:
+    name: Github
+  githubLabs:
+    name: ETC Labs Github
+  reddit:
+    name: Reddit
+appTypes:
+  finance:
+    name: לְמַמֵן
+  games:
+    name: משחקים
+  identity:
+    name: זהות
+  interoperability:
+    name: יכולת פעולה הדדית
+  nfts:
+    name: NFTs
+  other:
+    name: אַחֵר
+appLinks:
+  homepage: דף הבית
+  app: אתר אפליקציה
+  twitter: טוויטר
+  github: Github
+newsTypes:
+  news:
+    name: קישור
+  blog:
+    name: בלוג
+  application:
+    name: אפליקציה
+    prefix: "אפליקציה"
+  video:
+    name: וִידֵאוֹ
+    prefix: "וִידֵאוֹ"
+## App Modal
+appModal:
+  verifiedContract: חוֹזֶה
+  openSource: קוד פתוח
+  audit: מבוקר
+  testSuite: חבילת בדיקות
+  ipfsFrontend: IPFS Frontend
+  checkListRating: רמת רשימת ביקורת חסרת אמון
+  warning: "**אזהרה:** אפליקציה זו שנשלחה על ידי המשתמש אינה נבדקת ואינה מובטחת שהיא בטוחה; השתמש על אחריותך בלבד, ותמיד עשה מחקר משלך!"
+  added: נוסף
+## Tags
+tags: תגים
+tagNames:
+  blog: בלוג ETC
+  announcement: הכרזות
+  application: אפליקציות
+  development: התפתחות
+  education: חינוך
+  event: אירועים
+  exchange: החלפות
+  guide: מדריכים
+  hardfork: הארד פורקס
+  media: כְּלֵי תִקְשׁוֹרֶת
+  mining: כְּרִיָה
+  podcast: פודקאסטים
+  teams: צוותים
+  trading: מִסְחָר
+  wallet: ארנקים
+  video: סרטונים
+  news: קישורים חיצוניים
+  philosophy: פִילוֹסוֹפִיָה
+  series: סִדרָה

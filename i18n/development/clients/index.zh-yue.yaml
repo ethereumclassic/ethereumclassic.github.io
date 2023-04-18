@@ -1,0 +1,20 @@
+title: 節點客戶端
+seo: 下載有關各種以太坊經典節點客戶端的鏈接和信息。
+description: |
+  客戶端是可用於以各種模式運行以太坊經典協議的軟件包；全節點、存檔節點、快速同步客戶端等。客戶端允許您運行主網或測試網節點，通過挖掘驗證塊，並通過 API 與網絡連接。
+
+  您可以在 [tooling](/development/tooling) 部分找到其他工具來幫助管理客戶端部署。
+items:
+  clients:
+    buttonItems:
+      guide:
+        name: 指導
+      release:
+        name: 發布
+      support:
+        name: 支持
+    items:
+      CoreGeth:
+        description: 以太坊協議的高度可配置的 Go 實現。該客戶由 ETC Cooperative 開發團隊提供長期支持。這是知名透明團隊的推薦客戶。
+      Hyperledger Besu:
+        description: 基於 Java 的企業級 Apache 2.0 許可以太坊客戶端。該客戶由 ETC 合作團隊提供長期支持。這是知名透明團隊的推薦客戶。

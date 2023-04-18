@@ -1,5 +1,5 @@
 billboard:
-  text: Το %%$$%%% Ethereum
+  text: Το %%$$%% Ethereum
   ## must be kind of short, so they fit on the page
   randomWords:
     Decentralized: "Αποκεντρωμένο"

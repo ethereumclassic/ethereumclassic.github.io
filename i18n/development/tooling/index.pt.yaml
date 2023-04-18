@@ -1,0 +1,75 @@
+title: Ferramentas de desenvolvimento
+seo: Uma coleção de ferramentas para aprimorar o desenvolvimento de aplicativos Ethereum Classic e a experiência de devops.
+description: |
+  Esta página contém uma lista de recursos que podem ser úteis para aqueles que desenvolvem aplicativos sobre o Ethereum Classic. Certifique-se de verificar também a página [ambiente de desenvolvedor Ethereum.org](https://ethereum.org/en/developers/local-environment/), pois muitas dessas ferramentas permanecem relevantes ao desenvolver para o Ethereum Classic.
+items:
+  prices:
+    title: Fontes de preços
+    description: Esses sites e APIs fornecem o preço do ETC para uso em seu aplicativo.
+  processors:
+    title: Processadores de pagamento
+    description: Essas APIs podem ser usadas para aceitar pagamentos ETC em seu site ou aplicativo.
+  dex:
+    title: Experiência de Desenvolvimento
+    description: Uma seleção não exaustiva de ferramentas de desenvolvedor que podem ajudar no desenvolvimento de aplicativos Ethereum Classic, incluindo IDEs, bibliotecas, estruturas de teste, depuradores, *etc*.
+    items:
+      BUIDL IDE:
+        description: O Second State BUIDL IDE é um IDE baseado na Web que não requer download ou instalação de software. Ele fornece um ambiente de desenvolvimento e implantação completo para desenvolvedores de contratos inteligentes e dapp.
+      Dappkit:
+        description: Uma infraestrutura e bibliotecas independentes de contabilidade e de alto desempenho para desenvolvedores criarem e dimensionarem aplicativos descentralizados. Resumindo, Firebase colaborativo para Dapps.
+      Embark Framework:
+        description: Estrutura para aplicativos descentralizados sem servidor usando Ethereum, IPFS e outras plataformas.
+      Emerald Platform:
+        description: Plataforma para construção de Dapps para blockchain ETC.
+      ESerialize:
+        description: O objetivo deste módulo é fornecer funções fáceis para serializar e desserializar dados para o Ethereum Stack.
+      Ethereum JSON-RPC API:
+        description: Uma especificação de métodos JSON-RPC que um cliente blockchain baseado em EVM deve implementar.
+      Eth Fiddle:
+        description: Editor online para contratos inteligentes.
+      EVM-LLVM:
+        description: Os desenvolvedores não apenas podem usar um amplo escopo de linguagens de programação (Rust para contratos inteligentes!) Além do Solidity para direcionar a Ethereum Virtual Machine (EVM), como também podem se beneficiar imediatamente de várias ferramentas de desenvolvimento construídas em torno da infraestrutura LLVM.
+      Ganache:
+        description: Blockchain Ethereum pessoal para executar testes.
+      Jade Suite:
+        description: O conjunto de ferramentas Jade capacita os desenvolvedores a criar aplicativos descentralizados ponto a ponto sobre blockchains baseados em EVM, como o Ethereum Classic.
+      Mythx:
+        description: MythX é o principal serviço de análise de segurança para contratos inteligentes Ethereum. Nossa missão é garantir que as equipes de desenvolvimento evitem erros dispendiosos e tornem o Ethereum uma plataforma mais segura e confiável.
+      Open-RPC:
+        description: A Especificação OpenRPC define uma descrição de interface padrão independente de linguagem de programação para APIs JSON-RPC 2.0.
+      OpenZeppelin:
+        description: Estrutura testada em batalha de contratos inteligentes seguros e reutilizáveis.
+      Quorum:
+        description: Quorum é uma plataforma blockchain de código aberto que combina a inovação da comunidade pública Ethereum com melhorias para atender às necessidades corporativas.
+      Remix Online IDE:
+        description: Um IDE útil no navegador que pode compilar e publicar contratos inteligentes para várias redes Ethereum. Inclui linter.
+      Signatory:
+        description: Uma transação offline e assinante de mensagens para o Ethereum Stack.
+      Sidekik:
+        description: Depure, teste e grok contratos inteligentes com uma interface de usuário visual que permite interagir com contratos inteligentes baseados em EVM locais ou implantados.
+      SOLL:
+        description: O compilador LLVM está finalmente chegando ao Solidity. Com ele, podemos criar facilmente contratos inteligentes em várias VMs de blockchain. O EVM no Ethereum Classic e o eWASM do ETH 2.0 estão entre os primeiros que oferecemos suporte.
+      Sputnikvm:
+        description: SputnikVM é uma implementação autônoma de código aberto da Ethereum Virtual Machine (EVM). O objetivo é ser uma máquina virtual eficiente e conectável para diferentes blockchains baseados em Ethereum.
+      Truffle Suite:
+        description: Um ambiente de desenvolvimento de classe mundial, estrutura de teste e pipeline de ativos para blockchains usando a Ethereum Virtual Machine (EVM), com o objetivo de facilitar a vida do desenvolvedor.
+  nodeTools:
+    title: Implantação de nós
+    description: Essas ferramentas facilitam a criação de um cluster de nós para implantações de produção ou executam ciência de dados com conjuntos de dados públicos.
+    items:
+      Bloq Cloud:
+        description: O BloqCloud oferece acesso altamente otimizado e sempre disponível a redes blockchain. Conecte-se rapidamente e dimensione facilmente com base em suas necessidades, sem precisar se preocupar com o gerenciamento da infraestrutura.
+      DappNode:
+        description: O DAppNode facilita a execução de nós, DApps e hospedagem de redes P2P e economias.
+      Rivet:
+        description: O Rivet é uma chamada de procedimento remoto (RPC) da máquina virtual Ethereum (EVM) que fornece terminais Ethereum Classic (ETC).
+      GetBlock:
+        description: GetBlock é um serviço que fornece conexão para os nós das principais criptomoedas. Eles suportam ferramentas como JSON-RPC, REST e WebSockets, o que facilita a sincronização direta com o blockchain. Não há necessidade de executar um nó sozinho, a plataforma permite que seus clientes se conectem a um blockchain por meio de um nó completo sem ter que pagar uma taxa.
+      Google BigQuery:
+        description: O Google Cloud lançou conjuntos de dados que consistem no histórico de transações de blockchain para Ethereum Classic, para ajudar você a entender melhor a criptomoeda. Também incluiu um conjunto de consultas e visualizações que mapeiam todos os conjuntos de dados blockchain para uma estrutura de dados de livro de entrada dupla que permite meta-análises multi-cadeia, bem como integração com sistemas convencionais de processamento de registros financeiros.
+      Raspberry Pi Node:
+        description: Um guia detalhado sobre como configurar um nó Ethereum Classic em um Raspberry Pi.
+      Rivet Cloud:
+        description: Endpoints Ethereum e Ethereum Classic infinitamente escaláveis e altamente disponíveis que realmente funcionam.
+      QuikNode:
+        description: Os QuikNodes são fáceis, sempre ativados, com uma conexão rápida à Internet para sincronização rápida de blockchain, e você nunca precisa se preocupar em ficar sem espaço em disco.

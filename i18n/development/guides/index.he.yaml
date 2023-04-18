@@ -1,0 +1,156 @@
+title: מדריכי פיתוח
+seo: מבחר מדריכים ומסבירים למפתחים מתחילים ומתקדמים כאחד, עם הסבר כיצד לפרוס ל-Ethereum Classic.
+description: |
+  תהליך הכתיבה והפריסה של חוזים חכמים ל-Ethereum Classic זהה לזה של Ethereum. אחת המטרות של Ethereum Classic היא לשמור על תאימות עם ETH, כך שכל חוזה שנפרס ל-Ethereum יכול להיפרס מחדש בקלות ל-Ethereum Classic.
+
+  המשמעות היא שרוב ההדרכות, הספריות וכלי הפיתוח הקיימים ב-Ethereum ניתנים לשימוש גם עם Ethereum Classic. ברוב המקרים, ההבדל היחיד הוא שינוי אפשרות תצורה לפריסה ל-Ethereum Classic ולא ל-testnet או Ethereum mainnet.
+
+  החריג העיקרי הוא אינטראקציות עם מערכות צד שלישי כגון Stablecoins או Oracles, שנפרסות רק ב-ETH ועדיין אינן ב-ETC. לאט אבל בטוח, גרסאות ETC של שירותים אלה יועברו, אולי אפילו על ידך! אתה יכול לעקוב אחר השירותים הזמינים כעת ב[קטע אפליקציות](/services/apps).
+
+  מסיבה זו, אנו ממליצים בחום לחקור את [משאבי מפתחים באתר Ethereum.org](https://ethereum.org/en/developers/), שיש בו שפע של מידע עדכני. בנוסף, קישורים בדף זה מכילים מדריכים ספציפיים לפיתוח ב-Ethereum Classic.
+
+  תוכל למצוא גם מדריכי וידאו על פיתוח עם Ethereum Classic בקטע [סרטונים > פיתוח](/סרטונים/פיתוח).
+items:
+  tutorials:
+    title: מתחילים
+    description: הנה רשימה לא ממצה של כמה הדרכות והדרכות מועילות כדי להתחיל בפיתוח Ethereum Classic.
+    items:
+      Kotti Testnet Setup Guide:
+        name: מדריך ההתקנה של Kotti Testnet
+        description: הפעלה והפעלה של Kotti TestNet תוך דקה אחת עם Jade Desktop
+      Signatory Client:
+        name: לקוח חותם
+        description: סרטון הדגמה מתאר Signatory Client - ארנק חומרה עשה זאת בעצמך שניתן להתקין על מחשב בעל לוח יחיד, כמו Raspberry PI.
+      Besu Client Setup Guide:
+        name: מדריך הגדרת לקוח של Besu
+        description: התחל להשתמש ב-Hyperledger Besu.
+      Raspberry Pi Node Setup Guide:
+        name: מדריך ההתקנה של Raspberry Pi Node
+        description: מדריך מפורט כיצד להגדיר צומת Ethereum ב-Raspberry Pi
+      CryptoZombies:
+        name: זומבים קריפטו
+        description: למד לקוד את Ethereum DApps על ידי בניית משחק משלך.
+      Hitchhikers Guide to Smart Contracts:
+        name: מדריך טרמפיסטים לחוזים חכמים
+        description: בנה חוזים חכמים על Ethereum באמצעות טראפל, Test-RPC ו-Solidity.
+      A 101 Noob Intro to Programming Smart Contracts on Ethereum:
+        name: מבוא 101 Noob לתכנות חוזים חכמים ב-Ethereum
+        description: מדריך חוזים חכם עם התמקדות בבניית הבנה לפני קוד.
+      Setup MetaMask for Ethereum Classic:
+        name: הגדר את MetaMask עבור Ethereum Classic
+        description: כיצד להגדיר תמיכה קלאסית של Ethereum ב- MetaMask עם Ethercluster
+      Parity Tutorial:
+        name: מדריך Parity DApp
+        description: מדריך בן 10 חלקים כיצד לכתוב DApps.
+      Start Ethereum DApp Development Career:
+        name: התחל את קריירת הפיתוח של Ethereum DApp
+        description: מדריך לא רשמי לתחילת פיתוח DApps.
+      Full Stack DApp Tutorial Series:
+        name: סדרת הדרכות DApp מלאה
+        description: ערימה מלאה של DApps באמצעות מסגרות שונות.
+      Ethereum Builders Guide:
+        name: מדריך לבוני Ethereum
+        description: Gitbook לבנייה על Ethereum שמעמיקה בהבנת הפונקציונליות הטכנית.
+      Introduction to OpenRPC Webinar:
+        name: היכרות עם OpenRPC Webinar
+        description: בסרטון זה תלמדו את היסודות של JSON-RPC ו-OpenRPC.
+      Learning Solidity Tutorial Series:
+        name: סדרת הדרכות מוצקות למידה
+        description: בניית חוזים חכמים עם Metamask ו-Remix IDE.
+      End to End DApp Tutorial:
+        name: מדריך DApp מקצה לקצה
+        description: צור DApp להימורים באמצעות Metamask, Truffle, Remix, React ו-IPFS.
+      How to write secure smart contracts:
+        name: איך לכתוב חוזים חכמים מאובטחים
+        description: סקירה של שפות תכנות ושיטות עבודה מומלצות שיעזרו לך לכתוב חוזים חכמים מאובטחים.
+      Programming Decentralized Money:
+        name: תכנות כסף מבוזר
+        description: מדריך פשוט לבניית יישומי חוזים חכמים.
+      How to create a token and ICO on Ethereum Classic:
+        name: כיצד ליצור אסימון ו-ICO ב-Ethereum Classic
+        description: לאחר שתעבור על המדריך הזה, תלמד כיצד ליצור אסימון ERC223 ב-Ethereum Classic blockchain ו-ICO עבור האסימון הזה.
+      How to use Brave Browser with Ethereum dApps:
+        name: כיצד להשתמש בדפדפן אמיץ עם Ethereum dApps
+        description: דפדפן אמיץ הוא הדרך הפשוטה והמאובטחת ביותר לגשת אל DApps ב- Ethereum blockchain. Web 3.0 סוף סוף נגיש לכולם!
+      Vyper and Brownie Contract Development on EVM Chains:
+        name: פיתוח חוזים של Vyper ובראוני ברשתות EVM
+        description: כדי לחגוג את השילוב של ETC עם Vyper, החלטנו לבנות חוזה חכם עבור Vyper לפריסה ל-ETC.
+      Adventures in Classical Ether:
+        name: הרפתקאות באתר הקלאסי
+        description: בנה את החוזה החכם הראשון שלך עבור ETC.
+      Kotti Solidity ETC Oh My:
+        name: Kotti, Solidity, ETC, Oh My!
+        description: מדריך זה ממחיש תצורה ראשונית עבור Kotti testnet של Ethereum Classic וגרסה ספציפית של Solidity לפיתוח Dapp תואם ETC<>ETH. Kotti היא רשת הבדיקות המומלצת למפתחי dapp. מורדור מומלץ לבדיקת רמת פרוטוקול.
+      How to contribute to Mordor Testnet:
+        name: כיצד לתרום ל- Mordor Testnet
+        description: מדריך זה ילמד אותך כיצד לכרות testnet ETC ולהפעיל סייר בלוקים מקומי משלך עם Expedition. Kotti היא רשת הבדיקות המומלצת למפתחי dapp. מורדור מומלץ לבדיקת רמת פרוטוקול.
+      Migrate to Hyperledger Besu - Switch from OpenEthereum or Multi-Geth:
+        name: העבר אל Hyperledger Besu - עבור מ-OpenEthereum או Multi-Geth
+        description: מדריך זה אמור לעזור לך במעבר מלקוחות OpenEthereum או Multi-Geth ללקוח Hyperledger Besu.
+      Ethereum Classic on Raspberry Pi:
+        name: Ethereum Classic על Raspberry Pi
+        description: מדריך זה יחולק למספר חלקים ויתעד את החקירה שלי ב-IoT, ETC וכל מה שקשור לפטל.
+      Ethercluster An Open-Source Alternative to Infura:
+        name: Ethercluster, אלטרנטיבה בקוד פתוח לאינפורה
+        description: מדריך לבניית תשתית RPC המבוססת על Ethereum ניתנת להרחבה משלך.
+      Analyzing Ethereum Classic with Google BigQuery:
+        name: ניתוח Ethereum Classic עם Google BigQuery
+        description: מדריך לשימוש ב-BigQuery לניתוח Ethereum Classic. המדריך משתמש בדוגמה של כימות ביזור ב-Ethereum Classic.
+      Creating Your Own Smart Contract Languages Using LLVM:
+        name: יצירת שפות חוזה חכמות משלך באמצעות LLVM
+        description: מאמר זה מראה כיצד אנו יכולים להשתמש ב-EVM-LLVM כדי להפוך את שפת הצעצועים של קלידוסקופ ליצור חוזים חכמים הניתנים לפריסה של בלוקצ'יין.
+      ERC20 to ERC223 upgrade path:
+        name: נתיב שדרוג ERC20 ל-ERC223
+        description: ERC223 הוא תקן טוקן מודרני בעל עמלות זולות יותר ומגן על המשקיעים מפני אובדן אסימונים. צוות שבתאי מראה כיצד לשדרג אסימוני ERC20 קיימים.
+      Continuity for an Augmented world:
+        name: המשכיות לעולם מוגבר
+        description: מדריך לבניית מערכת פרסום מבוזרת עם Ethereum Classic.
+      Deployment Automation for Goerli testnet in 10 minutes:
+        name: אוטומציה של פריסה עבור Goerli testnet תוך 10 דקות
+        description: מדריך קצר לפריסה מהירה של רשת הבדיקות חוצה-לקוחות החדשה של Goerli הוכחת סמכות. ניתן ליישם מדריך זה על רשת הבדיקות Kotti של Ethereum Classic.
+      Monitoring in PegaSys Plus:
+        name: ניטור ב-PegaSys Plus
+        description: מדריך קצר להגדרת לוח מחוונים לניטור רשת על ידי PegaSys.
+      Using OpenRPC Mock Server to test against an Ethereum JSON-RPC API:
+        name: שימוש ב-OpenRPC Mock Server כדי לבדוק מול Ethereum JSON-RPC API
+        description: ה-open-rpc-mock-server מאפשר למפתחים להפעיל ולבדוק מול ממשקי ה-API שלהם בסביבה מקומית וקלת משקל.
+      Introduction to Pristine An open standard and template for open-source projects:
+        name: מבוא ל-Pristine - תקן פתוח ותבנית לפרויקטים בקוד פתוח.
+        description: Pristine הוא מאגר בתוך עצמו המכיל מוסכמות ומפרטים לפרויקט כדי לתקשר את הבעיה שאתה פותר, להקל על ההטמעה, לבנות ולהשתמש בכלים הניתנים לחיבור, לקדם תרומה ומעורבות בקוד פתוח, ולקדם את הנושא והדיון בתכונה ב-Github עצמו.
+      Jade Suite Overview and Workshop:
+        name: סקירה וסדנה של סוויטת ג'ייד
+        description: הפוך את הפיתוח וההגדרה של אפליקציות Ethereum Classic לקלים ומהירים באמצעות חבילת הכלים של Jade
+      Various Ethereum Solidity Tutorials:
+        name: הדרכות שונות של Ethereum וסולידיטי
+        description: כיצד ליצור חוזים חכמים, לפרוס אפליקציות DApp משלך, ליצור אסימונים ועוד - מנושאים למתחילים ועד לנושאים בינוניים.
+  advanced:
+    title: מושגים מתקדמים
+    description: הטכנולוגיה מאחורי הבלוקצ'יין היא עמוקה ומגיעה לתחומים רבים. הנה מבחר קטן של מאמרים שיעזרו לך להתחיל את המסע שלך במורד חור הארנב.
+    items:
+      2018-03-15-signatures:
+        name: טיול דרך קוד חתימה דיגיטלית קלאסית של Ethereum
+        description: חתימות דיגיטליות מאבטחות עסקאות. אלה כוללים קריפטוגרפיה של עקומה אליפטית ואלגוריתם החתימה הדיגיטלית של עקומה אליפטית (ECDSA).
+      2018-03-19-rlp:
+        name: קידוד קידומת אורך רקורסיבי
+        description: Ethereum Classic (ETC) משתמש בקידוד Recursive Length Prefix (RLP) כדי לאחסן ולשלוח מבני נתונים.
+      2018-01-31-difficulty:
+        name: פרשנות פשוטה של פרמטר קושי הכרייה הקלאסי של Ethereum
+        description: פרמטר קושי הכרייה עשוי להיראות מסתורי לחלקם. מאמר זה מראה שיש לו פרשנות קלה להבנה.
+      2018-01-26-implicit-info:
+        name: מידע מרומז על Ethereum Classic Blockchain
+        description: למתחילים, ייתכן שחלק מהמידע הדרוש חסר ב-Ethereum Classic (ETC) blockchain. מידע זה כלול באופן מרומז בבלוקצ'יין מה שעלול להוביל לבלבול.
+      2017-12-04-light-clients:
+        name: כיצד לקוחות Ethereum Classic Light יכולים לפעול בצורה מאובטחת
+        description: לקוחות לייט Ethereum Classic (ETC) הם לקוחות שאינם שומרים עותק של כל הבלוקצ'יין של ETC.
+      2017-04-28-blocks:
+        name: "בלוקים ETC הסבר: שלוש הקטגוריות"
+        description: ניתן לחלק בלוקים לכותרות, רשימות עסקאות ורשימות כותרות דוד.
+      2017-04-18-keys:
+        name: "מפתחות ציבוריים ופרטיים: קצת הארה"
+        description: מפתחות פרטיים משמשים להעברת כספים, התקנת תוכניות והפעלת תוכניות.
+      2017-03-30-accounts-and-states:
+        name: חשבונות ומדינות מוסבר
+        description: Blockchain Ethereum Classic (ETC) מאפשר מחשב עולמי בלתי ניתן לעצירה, אמין, ניתן לביקורת, חסר אמון ומאובטח. כדי להבין מערכת זו, חשוב להבין חשבונות ומדינות.
+      2017-02-10-hashes:
+        name: "Hashes: הקדמה ומדוע הם מהווים בסיס לאינטרנט ול- Blockchains"
+        description: הביטוי 'פונקציית גיבוב חד-כיוונית' אולי נשמע מופרך וחנון, אבל פונקציות גיבוב הן סוסי העבודה של ההצפנה המודרנית.

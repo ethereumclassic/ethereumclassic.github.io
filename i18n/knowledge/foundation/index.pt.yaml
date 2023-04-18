@@ -1,0 +1,33 @@
+items:
+  main:
+    title: Princípios Fundamentais
+    description: Esta seção contém uma seleção dos artigos mais importantes que se aprofundam na filosofia subjacente da The Ethereum Classic Foundation. Essas são as ideias que, em última análise, mantêm a visão original do Ethereum.
+    items:
+      Declaration of Independence:
+        name: Declaração de independência
+        description: Uma declaração da razão de ser da ETC, uma lista de queixas e uma descrição de seus princípios e objetivos. É um dos primeiros documentos fundadores do Ethereum Classic, publicado originalmente em agosto de 2016 e traduzido para vários idiomas.
+      A Crypto-Decentralist Manifesto:
+        name: Um Manifesto Cripto-Descentralista
+        description: Outro documento influente dos primeiros dias do Ethereum Classic. Ele descreve os valores centrais da descentralização e ajuda a informar a tomada de decisões dentro da comunidade ETC.
+      Ethereum Classic Vision:
+        name: Ethereum Visão Clássica
+        description: Como o Ethereum Classic será uma plataforma de computação de sucesso e por que o ETC é uma excelente reserva de valor.
+      keepEtcClassic:
+        name: Vamos manter o Ethereum Classic Classic
+        description: Um lembrete detalhado sobre a importância de defender os princípios do Ethereum Classic, em resposta a uma proposta do Tesouro (agora retirada).
+  past:
+    title: Os ombros dos gigantes
+    description: O Ethereum Classic não poderia existir sem outros projetos pioneiros, como a base blockchain original e a filosofia descentralista do Bitcoin, e a tecnologia de plataforma Smart Contract Turing-complete fornecida pelo The Ethereum Project.
+    items:
+      The idea of Smart Contracts:
+        name: A ideia dos contratos inteligentes
+        description: A ideia de Nick Szabo de contratos inteligentes é postada em 1997.
+      Bitcoin A Peer-to-Peer Electronic Cash System:
+        name: "Bitcoin: um sistema de dinheiro eletrônico ponto a ponto"
+        description: O whitepaper original de Satoshi Nakamoto ainda é uma leitura recomendada para qualquer um que esteja estudando como o Bitcoin e Blockchains funcionam.
+      ethWhitepaper:
+        name: "Ethereum Whitepaper"
+        description: O whitepaper original da Ethereum explica como a utilidade da tecnologia blockchain é desencadeada por "resolver o problema político de decidir quem influencia o consenso", e o conceito de DAOs, Stablecoins, etc.
+      ethYellowPaper:
+        name: "Ethereum Yellowpaper"
+        description: A descrição técnica original do protocolo Ethereum, por Gavin Wood

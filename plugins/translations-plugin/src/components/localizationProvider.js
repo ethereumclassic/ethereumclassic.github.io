@@ -1,10 +1,12 @@
 // TODO refactor useLocales into this plugin to map them once, and include dev...
+// TODO move this into it's own compontent ratehr than being part of the plugin, or extend such that ti does not depend on config
+// TODO split this out into a separate repo
 
 import React, { useContext } from "react";
 import dayjs from "dayjs/dayjs.min.js";
 import localizedPlugin from "dayjs/plugin/localizedFormat";
 
-import { dev } from "../../../../configs/locales";
+import { locales, dev, enabled } from "../../../../configs/locales";
 
 // TODO if the build is too big
 // figure out how to do this dynamically but also work with SSR
@@ -54,16 +56,27 @@ function LocalizationProvider({
     dayjs.locale(dayJsImport || locale);
   }
 
+  const localeItems = Object.keys(locales).map((key) => ({
+    ...locales[key],
+    key,
+  }));
+
+  const current = { ...locales[locale], key: locale };
+
   return (
     <LocaleContext.Provider
       value={{
-        locale,
-        defaultLocale,
-        isDefaultLocale,
         basePath,
-        globals,
+        current,
         dayjs,
+        defaultLocale,
         dev,
+        enabled,
+        globals,
+        isDefaultLocale,
+        locale,
+        localeItems,
+        locales,
       }}
     >
       {children}

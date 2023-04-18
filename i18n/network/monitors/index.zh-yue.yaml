@@ -1,0 +1,35 @@
+title: 網絡監視器
+seo: 用於檢查 Ethereum Classic 網絡健康狀況的工具，以及發行量、交易數量和挖礦盈利能力等一般統計數據。
+description: |
+  以下是一系列工具，可讓您深入了解與以太坊經典相關的各種指標。它們共同提供了對網絡健康和狀態的全面分析。
+items:
+  monitors:
+    items:
+      etc-network.info:
+        description: 一個幫助您瀏覽 etc-network.info 提供的服務的小網站。
+      ETCNodes:
+        description: 以太坊經典主網節點瀏覽器。
+      2Miners:
+        description: Ethereum Classic 統計儀表板提供最重要的區塊鏈統計數據、圖表和其他直接從在線節點捕獲的性能指標。
+      CoinMetrics:
+        description: 詳細的歷史數據涵蓋了許多指標，例如價格、哈希率、地址數、交易數等。
+      CoinWarz:
+        description: Ethereum Classic 挖礦信息 - 包括 Ethereum Classic 挖礦計算器、Ethereum Classic 挖礦硬件列表、Ethereum Classic 難度歷史圖表、Ethereum Classic 哈希率圖表以及當前 Ethereum Classic 價格。
+      Emerald Insights:
+        description: Emerald Insights 是 Emerald 項目的一部分，該項目旨在提供有關 Emerald 使用的加密貨幣的統計數據、監控和高級信息。
+      ForkWatch:
+        description: ForkWatch 是一個 NiceHash 監控工具，可以提醒 NiceHash 市場上特定算法的異常情況，尤其是當租用 BTC/TH/Day 的價格發生變化時。這有助於警告特定代幣的利益相關者，以防可能租用挖礦算力來攻擊特定網絡。
+      MiningPoolStats:
+        description: 關於 ETC 礦池狀態的實時統計數據，包括區塊分佈、哈希率歷史等。
+      Nanopool:
+        description: 歷史難度、難度、出塊時間和價格。
+      PoolDetective:
+        description: 礦池是工作量證明加密貨幣的重要參與者。但是誰來監督他們告訴礦工做什麼工作呢？麻省理工學院的數字貨幣計劃於 2019 年夏季啟動了一個項目，開始監控礦池的行為。
+      TokenView:
+        description: 標準歷史網絡統計數據。
+      WhatToMine:
+        description: 用於挖掘 Ethereum Classic 和其他鏈的盈利能力計算器。
+      Kotti Stats:
+        description: Ethereum Classic Kotti 測試網的網絡統計數據。
+      ua-mining:
+        description: 以太坊經典統計儀表板。

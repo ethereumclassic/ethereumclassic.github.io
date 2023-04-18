@@ -1,0 +1,85 @@
+title: Perguntas frequentes sobre mineradores
+seo: Perguntas frequentes para aqueles que procuram minerar o blockchain Proof of Work do Ethereum Classic.
+info: 'Não consegue encontrar uma resposta para sua pergunta aqui? Tente perguntar no servidor ETC community [discord](https://ethereumclassic.org/discord). Especificamente, você pode achar interessante o canal `#trading` do ETC Discord.'
+description: Você é um minerador ou está interessado em aprender a minerar ETC? Esta página é para você.
+items:
+  questions:
+    items:
+      hardware:
+        question: De que hardware preciso para minerar ETC?
+        answer: |
+          As duas principais categorias de hardware que podem ser usadas para minerar Ethereum Classic são GPUs e ASICs, e dentro de cada categoria há muitas opções. Você pode encontrar um pequeno guia sobre como decidir o que usar na seção [hardware de mineração](/mineração/hardware).
+      software:
+        question: Que software posso usar para minerar ETC?
+        answer: |
+          Dependendo do seu sistema operacional, há várias opções disponíveis. Confira o [software de mineração](/mining/software) para encontrar as ferramentas certas para você. Você também encontra tutoriais em vídeo online pesquisando "Como minerar Ethereum Classic".
+      switch:
+        question: Eu estava anteriormente minerando ETH. O que preciso fazer para mudar para ETC?
+        answer: |
+          O algoritmo de hash do Ethereum Classic é quase idêntico ao ETHash, então ele suporta o mesmo hardware, e a mineração ETC deve ser tão simples quanto mudar para um pool de mineração que suporte ETC.
+      pools:
+        question: O que é um pool de mineração?
+        answer: |
+          Como o Ethereum Classic desfruta de um grande hashrate, é muito improvável que um pequeno minerador solo tenha a sorte de minerar um bloco por conta própria. Por esse motivo, a menos que você tenha uma grande operação de mineração, os mineradores solo geralmente se juntam a um pool de mineração para receber recompensas menores e mais regulares, proporcionais ao hashrate com o qual contribuem.
+      poolsList:
+        question: Quais pools de mineração suportam ETC?
+        answer: |
+          Você pode encontrar uma lista de pools que suportam Ethereum Classic na seção [mining pools](/mining/pools) e métricas sobre o tamanho desses pools na seção [network monitors](/network/monitors).
+      bestPool:
+        question: Qual pool de mineração é melhor?
+        answer: |
+          Procure um pool com taxas baixas e grande o suficiente para encontrar blocos com bastante regularidade. Você não deve necessariamente querer se juntar ao maior pool, pois equilibrar o hashrate entre diferentes pools ajuda a manter o Ethereum Classic descentralizado.
+      schedule:
+        question: É lucrativo minerar ETC?
+        answer: |
+          O Ethereum Classic é atualmente a maior criptomoeda minerável por GPU em termos de receita líquida, com o maior valor total em dólares de recompensas em bloco.
+
+          Como em todas as operações de mineração de criptomoeda, se você pode ou não obter lucro depende de vários fatores, como eficiência e escala de hardware, mas é amplamente determinado pelo custo da eletricidade em sua área local.
+
+          Alguns usuários podem decidir minerar com prejuízo, pois isso permite que eles adquiram ETC "frescos" para transações que não têm nenhuma proveniência.
+      ethash:
+        question: O que é o algoritmo de mineração do Ethereum Classic?
+        answer: |
+          O Ethereum Classic usa o algoritmo de mineração [ETCHash](https://github.com/eth-classic/etchash), um primo próximo do ETHash da Ethereum, com um tamanho DAG menor. O hardware que estava sendo usado para minerar ETH pré-fusão também pode ser usado para minerar ETC.
+      emission:
+        question: Qual é a recompensa do bloco Ethereum Classic?
+        answer: |
+          Atualmente, a principal fonte de receita para os mineradores vem da recompensa de base fixa, conforme descrito no ECIP-1017. A cada 5 milhões de blocos, essa recompensa é reduzida em 20%, de forma semelhante ao halving do Bitcoin.
+
+          Existem também 3 fontes adicionais de receita que os mineradores devem levar em consideração ao calcular a lucratividade, que dependem muito do uso da rede:
+
+          - Taxas de transação
+          - Taxa de tio
+          - MEV (Valor Extraível do Minerador)
+      asics:
+        question: O algoritmo de mineração do Ethereum Classic é ASIC resistente?
+        answer: |
+          O ETHash foi originalmente projetado para ser difícil de memória, com o objetivo de tornar inviável o uso de ASICs (como aqueles projetados para o algoritmo SHA256 do Bitcoin).
+
+          Com o tempo, percebeu-se que [não existe resistência ASIC](https://bobsummerwill.com/2020/02/02/asic-resistance-is-a-myth/). Eventualmente, todos os algoritmos de mineração, se lucrativos, criarão um incentivo para os projetistas de chips criarem otimizações para esse algoritmo específico, o que aconteceu para o ETHash (e foi herdado pelo ETCHash).
+
+          A partir de 2022, estarão disponíveis ASICs que podem extrair ETCHash de 2x a 6x mais energia com eficiência do que GPUs, e é provável que essa tendência continue.
+      rewards:
+        question: Que porcentagem da recompensa em bloco da ETC vai para os mineradores?
+        answer: |
+          100%. Ao contrário de muitos outros projetos, que têm uma % de recompensas de bloco indo para um sistema de tesouraria centralizado, a ETC permanece totalmente neutra a esse respeito. Em 2021 uma [proposta de tesouraria](https://etccooperative.org/posts/2021-09-20-withdraws-support-for-ecip-1098) como esta foi rejeitada pela comunidade ETC.
+      sha3:
+        question: O Ethereum Classic está mudando seu algoritmo de mineração para SHA3?
+        answer: |
+          Muito improvável neste momento.
+
+          Antes do Ethereum mudar para Proof of Stake, havia um debate em andamento sobre a mudança do ETC para SHA3, em parte para se defender do "The Flood" do hashrate latente que poderia ser usado para atacar 51% da cadeia após a fusão.
+
+          Desde o The Merge, longe de ser atacado, o ETC se tornou o "predador máximo" da família ETHash de algoritmos de mineração, tornando muito mais difícil o ataque de 51%. Mudar para um algoritmo SHA3 completamente novo sacrificaria essa posição segura e não está mais sendo debatido ativamente.
+      pos:
+        question: A ETC mudará para Proof of Stake no futuro?
+        answer: |
+          Embora qualquer mudança para o Ethereum Classic seja tecnicamente *possível*, uma mudança para o Proof of Stake é praticamente insustentável, já que um consenso se formou em torno da superioridade do Proof of Work em termos de resistência à censura. Qualquer proposta para introduzir Proof of Stake no Ethereum Classic seria inicialmente ridicularizada e, se forçada no código do cliente, causaria uma divisão da cadeia, resultando em duas cadeias. Aconteça o que acontecer, haverá uma versão do Ethereum Classic que permaneceu na Prova de Trabalho, tornando as tentativas de implementar o PoS infrutíferas.
+
+          Você pode ler mais na seção [Proof of Work](/why-classic/proof-of-work).
+      uncle:
+        question: O que é um tio?
+        answer: |
+          Vários mineradores competem para enviar blocos ao blockchain. Inevitavelmente, alguns mineradores perderão a competição. O blockchain faz referência aos blocos perdedores para tornar o blockchain mais seguro. Esses blocos perdedores que contribuem para a segurança do blockchain são chamados de _uncles_. O termo vem do fato de que os blocos têm blocos _parentes_ anteriores. Os blocos perdedores não são os pais, mas ainda estão relacionados aos pais. Portanto, eles são como tios.
+
+          - [Tudo sobre Ethereum - Tios](https://youtu.be/iIhxtuIhT_g)
