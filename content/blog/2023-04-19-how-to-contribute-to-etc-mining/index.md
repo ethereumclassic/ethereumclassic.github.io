@@ -45,7 +45,7 @@ Contributing to ETC by mining is both a way of supporting the network and a good
 
 The way it works is that each time a miner produces a block that is included in the blockchain, the network pays that miner a reward with newly issued coins.
 
-The block reward payment has a decreasing schedule. In the first 5 million block era, which started in 2015, Ethereum Classic paid 5 ETC per block, in the next 5 million block era it paid 20% less or 4 ETC per block, then 3.2 ETC in the next era, 2.56 in the next (which is the current era), and will continue discounting 20% every era going forward until the payments diminish completely.
+The block reward paid to miners is decreased on a pre-determined schedule. For the first era of five million blocks which started in 2015, Ethereum Classic's block reward was 5 ETC per block. Era two, the next five million blocks, saw that reward reduced by 20% to 4 ETC per block. It then decreased to 3.2 ETC for the next era. The latest reduction makes the reward for the current era 2.56 ETC per block. Rewards will continue to be discounted by 20% every era of five million blocks going forward until the payments diminish completely.
 
 As ETC will have a supply cap of 210,700,000 ETC, and at the time of this writing there were 140,313,583 already issued, then there are 70,386,417 still to be issued. This is an estimated value of $1,407,728,340 in revenues at current ETC prices of around $20, of which $770,231,821 will be paid to miners in the next 10 years. 
 
