@@ -103,7 +103,7 @@ Popular mining pools in ETC are:
 
 **Antpool:** https://support.antpool.com/hc/en-us/articles/5984283054745-ETC-Mining-Instruction
 
-*Disclaimer: The fact that we mention some mining gear and mining pool brands and services in this article does not necessarily constitute or imply their endorsement, recommendation, or favoring by this website or its administrators. We have no commercial relationship with these brands and we do not perceive any fees or affiliate marketing commissions. Do your own reserach before acquiring mining gear or using a mining pool.*
+*Disclaimer: The fact that we mention some mining gear and mining pool brands and services in this article does not necessarily constitute or imply their endorsement, recommendation, or favoring by this website or its administrators. We have no commercial relationship with these brands and we do not receive any fees or affiliate marketing commissions. Do your own research before acquiring mining gear or using a mining pool.*
 
 ---
 
