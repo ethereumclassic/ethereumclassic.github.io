@@ -67,7 +67,7 @@ One of Ethereum Classic’s unique features is the ETC Hash mining algorithm.
 
 As Ethereum was using the ETH Hash algorithm before it migrated to proof of stake, Ethereum Classic had to differentiate its mining format to defend itself from 51% attacks that came from the Ethereum computing base. This led to the creation of ETC Hash.
 
-ETC Hash is a modification of ETH Hash where one component, the DAG, which is a large file that must be used during the mining process, was reduced in size and its size growth was slowed to permit smaller GPU miners; with GPU card capacities that had lower memories, such as 3GB, 4GB, and 6GB; mine and stay mining in Ethereum Classic for a longer period of time.
+ETC Hash is a modification of ETH Hash wherein one component, the DAG, a large file that must be used during the mining process, was reduced in size and its growth slowed to permit GPU miners with 3GB, 4GB, and 6GB; of memory per GPU card to mine Ethereum Classic for a longer period of time before DAG growth exceeds their hardware limitations..
 
 The above is a significant benefit for smaller miners who may have these machines or may acquire them cheaply in the secondary market.
 
