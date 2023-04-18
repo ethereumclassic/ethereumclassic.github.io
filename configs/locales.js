@@ -15,9 +15,16 @@ const locales = {
     enabled: true,
     dayJsImport: "zh",
   },
+  ar: {
+    name: "اَلْعَرَبِيَّةُ",
+    enabled: true,
+    dayJsImport: "ar",
+    flag: "eg",
+    rtl: true, // right to left
+  },
   de: {
     name: "Deutsch",
-    enabled: false,
+    enabled: true,
     dayJsImport: "de",
   },
   es: {
@@ -25,37 +32,38 @@ const locales = {
     enabled: true,
     dayJsImport: "es",
   },
-  fr: {
-    name: "Français",
-    enabled: false,
-    dayJsImport: "fr",
-  },
   el: {
     name: "Ελληνικά",
-    enabled: false,
+    enabled: true,
     dayJsImport: "el",
     flag: "gr",
   },
+  fr: {
+    name: "Français",
+    enabled: true,
+    dayJsImport: "fr",
+  },
+  he: {
+    name: "עִבְרִית",
+    enabled: true,
+    dayJsImport: "he",
+    flag: "il",
+    rtl: true,
+  },
   hi: {
     name: "हिन्दी",
-    enabled: false,
+    enabled: true,
     dayJsImport: "hi",
     flag: "in",
   },
   hr: {
     name: "Hrvatski",
-    enabled: false,
+    enabled: true,
     dayJsImport: "hr",
-  },
-  ms: {
-    name: "Malay",
-    enabled: false,
-    dayJsImport: "md",
-    flag: "my",
   },
   it: {
     name: "Italiano",
-    enabled: false,
+    enabled: true,
     dayJsImport: "it",
   },
   ja: {
@@ -68,36 +76,47 @@ const locales = {
     enabled: true,
     dayJsImport: "ko",
   },
+  ms: {
+    name: "Malay",
+    enabled: true,
+    dayJsImport: "md",
+    flag: "my",
+  },
   nl: {
     name: "Nederlands",
-    enabled: false,
+    enabled: true,
     dayJsImport: "nl",
+  },
+  pt: {
+    name: "Português",
+    enabled: true,
+    dayJsImport: "pt",
   },
   ru: {
     name: "русский",
     enabled: true,
     dayJsImport: "ru",
   },
-  ar: {
-    name: "اَلْعَرَبِيَّةُ",
-    enabled: false,
-    dayJsImport: "ar",
-    flag: "eg",
-  },
   th: {
     name: "ภาษาไทย",
-    enabled: false,
+    enabled: true,
     dayJsImport: "th",
   },
   tr: {
     name: "Türk",
-    enabled: false,
+    enabled: true,
     dayJsImport: "tr",
   },
   vi: {
     name: "Tiếng Việt",
-    enabled: false,
+    enabled: true,
     dayJsImport: "vi",
+  },
+  "zh-yue": {
+    name: "粵語",
+    enabled: true,
+    flag: "hk",
+    dayJsImport: "zh-hk",
   },
 };
 

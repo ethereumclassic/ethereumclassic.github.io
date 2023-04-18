@@ -58,14 +58,16 @@ socialItems:
     name: Discordia
   discordCoop:
     name: ETC Coop Discord
+  twitterEthclassic:
+    name: eth_clásico Twitter
+  twitterEtcnetwork:
+    name: ETC_Red Twitter
   githubOrg:
     name: Github
   githubLabs:
     name: ETC Labs Github
   reddit:
     name: Reddit
-  twitter:
-    name: Twitter
 appTypes:
   finance:
     name: Finanzas
@@ -105,7 +107,8 @@ appModal:
   checkListRating: Nivel de la lista de control de confianza
   warning: "**Advertencia:** Esta aplicación enviada por los usuarios NO ha sido verificada y NO se garantiza que sea segura; utilízala bajo tu propio riesgo y haz siempre tu propia investigación."
   added: Añadido
-tags: "Etiquetas:"
+## Tags
+tags: 'Etiquetas:'
 tagNames:
   blog: Blog de ETC
   announcement: Anuncios
@@ -118,12 +121,11 @@ tagNames:
   hardfork: Horquillas duras
   media: Medios de comunicación
   mining: Minería
-  podcast: Podcasts
+  podcast: podcasts
   teams: Equipos
-  tech: Tecnología
   trading: Comercio
   wallet: Billeteras
   video: Vídeos
-  news: Titulares
-  opinion: Opinión
+  news: Enlaces externos
   philosophy: Filosofía
+  series: Serie

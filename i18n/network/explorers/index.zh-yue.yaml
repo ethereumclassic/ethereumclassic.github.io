@@ -1,0 +1,13 @@
+title: 區塊鏈探索者
+seo: Ethereum Classic 和各種 ETC 測試網的區塊鏈瀏覽器服務列表。
+description: |
+  Blockchain Explorers 提供了一種方便的方式來深入了解給定鏈的當前和過去狀態，允許您檢查塊、交易和賬戶餘額的內容。
+
+  以下第三方探索者獨立驗證以太坊經典及其測試網的狀態。它們通常用於檢查交易是否已廣播和確認，但許多提供更高級的功能，例如歷史賬戶餘額、合同驗證等。
+items:
+  explorers:
+    columnItems:
+      kotti:
+        text: 科蒂
+      mordor:
+        text: 魔多

@@ -1,0 +1,20 @@
+title: לקוחות צומת
+seo: הורדת קישורים ומידע על לקוחות Ethereum Classic Node השונים.
+description: |
+  לקוחות הם חבילות תוכנה שניתן להשתמש בהן כדי להפעיל את פרוטוקול Ethereum Classic במצבים שונים; צמתים מלאים, ארכיון צמתים, לקוחות סנכרון מהיר וכו'. לקוחות מאפשרים לך להפעיל צומת mainnet או testnet, לאמת בלוקים באמצעות כרייה ולהתממשק עם הרשת באמצעות API.
+
+  תוכל למצוא כלים נוספים שיסייעו בניהול פריסות לקוח בסעיף [tooling](/פיתוח/כלים).
+items:
+  clients:
+    buttonItems:
+      guide:
+        name: להנחות
+      release:
+        name: משחרר
+      support:
+        name: תמיכה
+    items:
+      CoreGeth:
+        description: יישום Go להגדרה מאוד של פרוטוקול Ethereum. לקוח זה נתמך לטווח ארוך על ידי צוות הפיתוח של ETC Cooperative. מדובר בלקוח מומלץ מצוות שקוף ידוע.
+      Hyperledger Besu:
+        description: לקוח Ethereum ברמת ארגונית מבוסס Java, Apache 2.0. לקוח זה נתמך לטווח ארוך על ידי צוותי ETC Cooperative. מדובר בלקוח מומלץ מצוות שקוף ידוע.

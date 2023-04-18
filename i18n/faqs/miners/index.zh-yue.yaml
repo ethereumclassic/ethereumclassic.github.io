@@ -1,0 +1,85 @@
+title: 礦工常見問題
+seo: 那些希望挖掘以太坊經典工作量證明區塊鏈的人的常見問題解答。
+info: '在這裡找不到問題的答案？嘗試在 ETC 社區 [discord](https://ethereumclassic.org/discord) 服務器中詢問。具體來說，您可能會發現感興趣的 ETC Discord 的“#trading”頻道。'
+description: 您是礦工還是有興趣學習如何開採 ETC？此頁面適合您。
+items:
+  questions:
+    items:
+      hardware:
+        question: 開採 ETC 需要什麼硬件？
+        answer: |
+          可用於挖掘以太坊經典的兩個主要硬件類別是 GPU 和 ASIC，每個類別中都有許多選項。您可以在 [挖礦硬件](/mining/hardware) 部分找到有關如何決定使用什麼的簡短指南。
+      software:
+        question: 什麼軟件可以挖ETC？
+        answer: |
+          根據您的操作系統，有許多可用的選項。查看 [挖礦軟件](/mining/software) 以找到適合您的工具。您還可以通過搜索“如何挖掘 Ethereum Classic”在線查找視頻教程。
+      switch:
+        question: 我之前在挖 ETH。我需要做什麼才能切換到 ETC？
+        answer: |
+          Ethereum Classic的哈希算法與ETHash幾乎相同，所以支持的硬件相同，挖ETC應該和支持ETC的礦池一樣簡單。
+      pools:
+        question: 什麼是礦池？
+        answer: |
+          由於 Ethereum Classic 擁有很大的哈希率，小型獨立礦工不太可能幸運地自己開採一個區塊。出於這個原因，除非您有大型挖礦業務，否則獨立礦工通常會加入礦池以獲得更小的更定期的獎勵，獎勵與他們貢獻的哈希率成正比。
+      poolsList:
+        question: 哪些礦池支持ETC？
+        answer: |
+          您可以在 [mining pools](/mining/pools) 部分找到支持 Ethereum Classic 的礦池列表，並在 [network monitors](/network/monitors) 部分找到這些礦池大小的指標。
+      bestPool:
+        question: 哪個礦池最好？
+        answer: |
+          尋找一個費用低且足夠大以相當定期地找到區塊的礦池。您不一定想加入最大的礦池，因為在不同礦池之間平衡哈希率有助於保持 Ethereum Classic 去中心化。
+      schedule:
+        question: 挖ETC有利可圖嗎？
+        answer: |
+          就淨收入而言，以太坊經典是目前最大的 GPU 可挖加密貨幣，具有最大的區塊獎勵總美元價值。
+
+          與所有加密貨幣挖礦業務一樣，您能否獲利取決於許多因素，例如硬件效率和規模，但在很大程度上取決於您所在地區的電力成本。
+
+          一些用戶可能會決定虧本開採，因為這使他們能夠為沒有任何來源的交易獲取“新鮮的”ETC。
+      ethash:
+        question: Ethereum Classic 的挖礦算法是什麼？
+        answer: |
+          Ethereum Classic 使用 [ETCHash](https://github.com/eth-classic/etchash) 挖掘算法，它是 Ethereum 的 ETHash 的近親，具有更小的 DAG 大小。用於挖掘合併前 ETH 的硬件也可用於挖掘 ETC。
+      emission:
+        question: 什麼是以太坊經典區塊獎勵？
+        answer: |
+          目前，礦工的主要收入來源來自固定基礎獎勵，如 ECIP-1017 中所述。每 500 萬個區塊，這種獎勵減少 20%，類似於比特幣減半。
+
+          礦工在計算盈利能力時還應考慮 3 種額外的收入來源，這在很大程度上取決於網絡使用情況：
+
+          - 交易費用
+          - 叔叔費率
+          - MEV（礦工可提取價值）
+      asics:
+        question: Ethereum Classic 的挖礦算法是否具有 ASIC 抗性？
+        answer: |
+          ETHash 最初被設計成內存困難的，目的是使 ASIC（例如為比特幣的 SHA256 算法設計的）不可行。
+
+          隨著時間的推移，人們意識到 [沒有 ASIC 阻力這樣的東西](https://bobsummerwill.com/2020/02/02/asic-resistance-is-a-myth/)。最終，所有挖礦算法，如果有利可圖，都會激勵芯片設計者針對特定算法進行優化，這發生在 ETHash 上（並被 ETCHash 繼承）。
+
+          到 2022 年，可用的 ASIC 開採 ETCHash 的能源效率比 GPU 高 2 到 6 倍，而且這種趨勢很可能會持續下去。
+      rewards:
+        question: ETC 的區塊獎勵有多少百分比分配給了礦工？
+        answer: |
+          100%。與許多其他項目不同，有一定比例的區塊獎勵進入中心化的財務系統，ETC 在這方面保持完全中立。 2021 年，ETC 社區拒絕了像這樣的 [財政部提案](https://etccooperative.org/posts/2021-09-20-withdraws-support-for-ecip-1098)。
+      sha3:
+        question: Ethereum Classic 是否正在將其挖掘算法切換為 SHA3？
+        answer: |
+          在這一點上不太可能。
+
+          在以太坊轉向股權證明之前，關於 ETC 轉向 SHA3 的爭論一直在進行，部分原因是為了抵禦潛在哈希率的“洪水”，這種潛在哈希率可用於在合併後對鏈進行 51% 的攻擊。
+
+          自 Merge 以來，ETC 遠未受到攻擊，反而成為 ETHash 挖礦算法家族的“頂級掠奪者”，這使得 51% 攻擊變得更加困難。切換到全新的 SHA3 算法會犧牲這個安全位置，並且不再被積極討論。
+      pos:
+        question: ETC 將來會轉向權益證明嗎？
+        answer: |
+          雖然對以太坊經典的任何改變在技術上都是*可能的*，但轉向權益證明實際上是站不住腳的，因為圍繞工作量證明在審查抵抗方面的優勢已經形成了共識。任何在 Ethereum Classic 上引入權益證明的提議最初都會被嘲笑，如果強加到客戶端代碼中，將導致鏈分裂，從而產生兩條鏈。無論發生什麼，都會有一個基於工作量證明的以太坊經典版本，使得實施 PoS 的嘗試基本上沒有結果。
+
+          您可以在 [工作證明](/why-classic/proof-of-work) 部分閱讀更多內容。
+      uncle:
+        question: 什麼是叔叔？
+        answer: |
+          幾個礦工競相向區塊鏈提交區塊。不可避免地，一些礦工將輸掉競爭。區塊鏈引用丟失的區塊，使區塊鏈更加安全。這些有助於區塊鏈安全的丟失塊被稱為_uncles_。該術語來自塊具有前面的 _parent_ 塊的事實。失敗的障礙不是父母，但仍然與父母有關。因此他們就像叔叔一樣。
+
+          - [關於以太坊的一切 - 叔叔們](https://youtu.be/iIhxtuIhT_g)

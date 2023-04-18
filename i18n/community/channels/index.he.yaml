@@ -1,0 +1,112 @@
+title: ערוצים חברתיים
+seo: אוסף של חדרי צ'אט Ethereum Classic, חשבונות טוויטר, קבוצות דיון, פורומים, פודקאסטים, מאגרים ואתרי אינטרנט אזוריים.
+description: |
+  להלן רשימה לא ממצה של ערוצי דיון וקבוצות פעילים של Ethereum Classic.
+
+  מרכז הפעילות העיקרי בקהילת ETC כיום הוא ב [Discord](https://ethereumclassic.org/discord).
+items:
+  Chat Rooms:
+    title: חדרי צ'אט
+    items:
+      chat Discord:
+        name: דיסקורד (קהילה, גלובלי)
+      chat Discord Coop:
+        name: דיסקורד (ETC Coop)
+      chat Facebook English:
+        name: פייסבוק (אנגלית)
+      chat Facebook Vietnam:
+        name: פייסבוק (וייטנאמית)
+      chat Kakao Korea:
+        name: קקאו (קוריאנית)
+      chat Slack:
+        name: Slack (אנגלית)
+      chat WeChat:
+        name: WeChat (中文)
+  Development Chat:
+    title: צ'אט פיתוח
+    items:
+      Core-Geth dev:
+        name: Core-Geth
+      ETC Core dev:
+        name: ליבת ETC
+      Hyperledger Besu dev:
+        name: Hyperledger Besu
+  Telegram Groups:
+    title: קבוצות טלגרם
+    items:
+      telegram English:
+        name: אנגלית
+      telegram Español:
+        name: Español
+      telegram Italia:
+        name: איטליה
+      telegram Russia:
+        name: רוּסִיָה
+      telegram Viet Nam:
+        name: וייטנאם
+      telegram China:
+        name: 中文
+  Forums:
+    title: פורומים
+    items:
+      forum RedditEthereumClassic:
+        name: Reddit r/EthereumClassic
+      forum BitcoinTalk:
+        name: BitcoinTalk
+      forum Archived BitcoinTalk:
+        name: BitcoinTalk בארכיון
+  Media:
+    title: ערוצי וידאו ורשימות השמעה
+    items:
+      media ETCfInv:
+        name: ETC למשקיעים
+      media EthereumClassicCC:
+        name: שיחות קהילה ETC
+      media EthereumClassic:
+        name: הודעות ועדכונים ETC (Odysee)
+      media EthereumClassicNews:
+        name: חדשות ETC (Odysee)
+      media Etherplan:
+        name: אתרפלן
+      media EVM61:
+        name: EVM61
+      media Explore The Chain:
+        name: חקור את השרשרת
+      media Let's Talk ETC!:
+        name: בואו נדבר וכו'!
+  Twitter Accounts:
+    title: חשבונות טוויטר
+    items:
+      twitter China:
+        name: חרסינה
+      twitter English 1:
+        name: "@ETC_Network"
+      twitter English 2:
+        name: "@eth_classic"
+      twitter Español:
+        name: Español
+      twitter France:
+        name: צָרְפַת
+      twitter Germany:
+        name: גֶרמָנִיָה
+      twitter Italia:
+        name: איטליה
+      twitter Japan:
+        name: יפן
+      twitter Korea 1:
+        name: קוריאה
+      twitter Korea 2:
+        name: קוריאה
+      twitter Netherlands:
+        name: הולנד
+      twitter Turkey:
+        name: טורקיה
+      twitter Viet Nam:
+        name: וייטנאם
+  Regional Website:
+    title: אתר אזורי
+    items:
+      website ETC Hub:
+        name: ETCHub.io
+      website EthereumClassic.cn:
+        name: EthereumClassic.cn

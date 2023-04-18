@@ -1,0 +1,45 @@
+title: Teoria e Pesquisa
+seo: Uma coleção de artigos que cobrem uma ampla gama de tópicos relacionados à filosofia, história e proposta de valor única do Ethereum Classic.
+description: |
+  Acima e além dos principais inquilinos do Ethereum Classic, surgiu toda uma escola de pensamento baseada nas consequências do The Hard Fork e na continuação da The Original Ethereum Vision.
+
+  Uma coleção de artigos foi reunida abaixo que explora o impacto da ETC, sua história e uma gama mais ampla de teoria e tópicos de pesquisa, para ajudar a aprofundar sua compreensão da posição única e do potencial ilimitado do Ethereum Classic.
+items:
+  links:
+    items:
+      Etherplan:
+        name: Etherplan
+        description: O Etherplan de Donald McIntyre é uma proeminente teoria e fonte de pesquisa do Ethereum Classic. McIntyre é responsável pela autoria de vários dos seguintes artigos.
+      Ethereum Classic Vision:
+        name: Ethereum Visão Clássica
+        description: Como o Ethereum Classic será uma plataforma de computação de sucesso e por que o ETC é uma excelente reserva de valor.
+      Ethereum Classic vs. Ethereum 2.0, What is the Difference?:
+        name: Ethereum Classic vs. Ethereum 2.0, qual é a diferença?
+        description: Pode-se dizer que o Ethereum Classic é um sistema de execução conservadora, focado na segurança, e o próximo Ethereum 2.0 é um sistema de execução progressiva, focado no desempenho.
+      Phyro's Recap of ETC History:
+        name: Recapitulação de Phyro da história da ETC
+        description: |
+          Uma visão geral detalhada da história por trás do ETC por um ETCer de longo prazo.
+          *Você também pode ler mais sobre a história da ETC no [roadmap](/conhecimento/roteiro).*
+      /blog/2016-12-06-why/:
+        name: Por que eu escolheria executar meu aplicativo no Ethereum / Classic em vez da World Wide Web?
+        description: Benefícios sobre a World Wide Web
+      Ethereum Classic Opportunities:
+        name: Oportunidades clássicas do Ethereum
+        description: Uma visão geral do potencial selvagem do Ethereum Classic
+      How to Have a Vision for Ethereum Classic Without Creating a Governance Orgy:
+        name: Como ter uma visão para o Ethereum Classic sem criar uma orgia de governança
+        description: Uma abordagem para manter o progresso enquanto evita os problemas de governança de blockchain
+      The Ethereum Classic vs Ethereum 1.x Dichotomy:
+        name: A Dicotomia Ethereum Classic vs Ethereum 1.x
+        description: Qual será a relação da ETC com o ETH 1.X quando o Ethereum mudar para Proof of Stake?
+      Why Proof of Stake is Less Secure Than Proof of Work:
+        name: Por que o Proof of Stake é menos seguro que o Proof of Work
+        description: Ao se ancorar em uma base física de prova de trabalho, a camada subjetiva adquire ordens de magnitude a mais de objetividade e, portanto, de segurança.
+      Ethereum Classic (ETC) Wiki:
+        name: Wiki Ethereum Clássico (ETC)
+        description: Algumas filosofias centrais da cadeia ETC da Ethereum.
+      Categories of Decentralization:
+        name: Categorias de Descentralização
+        link: https://taek.org/posts-categories-of-decentralization
+        description: Cinco categorias destinadas a fornecer uma linha de base robusta para raciocinar sobre as suposições de confiança feitas por uma plataforma ou protocolo, sem tentar capturar todos os detalhes importantes ou fornecer certeza definitiva de que um protocolo é mais descentralizado do que outro.

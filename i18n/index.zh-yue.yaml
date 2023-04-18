@@ -1,0 +1,53 @@
+billboard:
+  text: '%%$$%% 以太坊'
+  ## must be kind of short, so they fit on the page
+  randomWords:
+    Decentralized: "去中心化"
+    Original: "原來的"
+    Veracious: "真誠的"
+    Untainted: "未受污染"
+    Uncensored: "未經審查"
+    Untampered: "未經篡改"
+    Immutable: "不變的"
+    Sound Money: "穩健貨幣"
+    Uncaptured: "未捕獲"
+    SovereignGrade: "主權級"
+    Principled: "有原則的"
+    Unstoppable: "勢不可擋"
+    Proof of Work: "工作證明"
+    Leaderless: "群龍無首"
+    Antifragile: "反脆弱"
+    Code is Law: "代碼就是法律"
+    Classic: "經典的"
+    Permisionless: "未經許可"
+    Global: "全球的"
+## feature
+feature:
+  title: 常見問題
+  subtitle: 新科
+  text: 通過瀏覽按用例組織的常見問題，快速找到您正在尋找的答案。
+  button: 回答的問題
+## intro
+intro:
+  title: 構建不可阻擋的應用程序
+  content: |
+    隨著現有機構越來越受到區塊鏈技術巨大潛力的威脅，只有真正去中心化和安全的加密貨幣才能生存。
+
+    為了應對姊妹鏈以太坊™ (ETH) 的合同審查並堅持和維護*代碼即法律*的原則，以太坊經典 (ETC) 已證明其有能力抵制審查，並提供*原始的* *不可阻擋*應用程序的以太坊願景。
+
+    通過將 Ethereum™ (ETH) 的技術與比特幣 (BTC) 的理念相結合，Ethereum Classic (ETC) 具有獨特的定位，可以成為未來的基礎層智能合約平台，因為其他鏈會受到損害或被特殊利益集團俘獲.
+
+    歡迎，請受邀去發現以太坊經典的過去、現在和未來；它的原則、價值主張、社區等 - 了解*為什麼經典*。
+  button:
+    text: 為什麼經典？
+#Headers
+headings:
+  headlines:
+    title: 頭條新聞
+    button: 所有新聞
+  videos:
+    title: 最新影片
+    button: 所有視頻
+  apps:
+    title: 最新應用
+    button: 所有應用

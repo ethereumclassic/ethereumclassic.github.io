@@ -22,3 +22,6 @@ items:
   NFT Marketplaces:
     title: Mercati NFT
     description: I seguenti marketplace NFT potrebbero non essere *completamente* decentralizzati.
+  Other:
+    title: Altri servizi di cambio
+    description: I seguenti servizi non rientrano in nessuna delle suddette categorie. Questi servizi possono o meno essere decentralizzati.

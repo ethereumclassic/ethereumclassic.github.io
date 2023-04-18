@@ -22,3 +22,6 @@ items:
   NFT Marketplaces:
     title: NFT Marktplaatsen
     description: De volgende NFT marktplaatsen zijn mogelijk niet *volledig* gedecentraliseerd.
+  Other:
+    title: Andere wisseldiensten
+    description: De volgende diensten vallen niet in een van de bovenstaande categorieën. Deze diensten kunnen al dan niet gedecentraliseerd zijn.
