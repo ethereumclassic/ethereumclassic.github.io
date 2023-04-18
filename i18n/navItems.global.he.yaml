@@ -1,0 +1,240 @@
+learn:
+  name: לִלמוֹד
+  navItems:
+    faqs:
+      name: שאלות נפוצות
+      description: שאלות נפוצות על ידי בעלי עניין שונים
+      navItems:
+        users:
+          name: משתמשים
+          description: רוצה ללמוד איך להשתמש ב-ETC?
+        researchers:
+          name: חוקרים
+          description: רק שמעת על קלאסיק?
+        investors:
+          name: משקיעים
+          description: מעוניין לקנות ETC?
+        miners:
+          name: כורים
+          description: צריך מידע על איך לכרות ETC?
+        developers:
+          name: מפתחים
+          description: רוצה לבנות על ETC?
+        contributors:
+          name: תורמים
+          description: רוצים לעזור לפרויקט?
+    whyClassic:
+      name: למה קלאסי?
+      description: התחל כאן כדי לקבל את הירידה בסיבת היותה של Ethereum Classic והצעת הערך הייחודית
+      navItems:
+        codeIsLaw:
+          name: קוד זה חוק
+        genesis:
+          name: בראשית
+        decentralism:
+          name: ביזורנות
+        soundMoney:
+          name: כסף קול
+        proofOfWork:
+          name: הוכחת עבודה
+    #etcVsEth:
+    #__link: /why-classic/etc-vs-eth
+    #name: ETC vs ETH
+    knowledge:
+      name: יֶדַע
+      description: קריאה נוספת על היסודות העומדים בבסיס ETC
+      navItems:
+        foundation:
+          name: קרן
+          description: עקרונות הליבה המהווים את הבסיס הפילוסופי האיתן של ETC
+        theory:
+          name: תֵאוֹרִיָה
+          longName: תיאוריה ומחקר
+          description: צלילה עמוקה יותר לתוך ההיגיון של Ethereum Classic עם קטעים מהקהילה
+        investing:
+          name: השקעות
+          longName: משאבי משקיעים
+          description: מידע על הצעת הערך של Ethereum Classic והפוטנציאל שלו לרווחים חולים
+        forks:
+          name: מזלגות
+          longName: שדרוגי פרוטוקול
+          description: כרוניקה של Hard Forks בעבר ובעתיד שהוסיפו פונקציונליות או תיקוני באגים ל-ETC
+        history:
+          name: הִיסטוֹרִיָה
+          longName: היסטוריה קלאסית
+          description: ציר זמן של כל האירועים המרכזיים בהיסטוריה של Ethereum Classics עד היום
+        future:
+          name: עתיד
+          longName: קלאסי עתידי
+          description: סקירה כללית של תהליך קבלת ההחלטות ב-ETC, ולאן הוא עשוי להוביל את הפרוטוקול
+        metamask:
+          name: MetaMask
+          longName: שימוש ב-MetaMask עם ETC
+          description: כיצד להגדיר את MetaMask וחלופות לאינטראקציה עם dapps
+    videos:
+      name: סרטונים
+      description: אוסף של סרטונים ופודקאסטים כדי לעדכן אותך על מושגים והתרחשויות של ETC
+      navItems:
+        explainers:
+          name: מסבירים
+        discussions:
+          name: דיונים
+        trading:
+          name: מִסְחָר
+        development:
+          name: התפתחות
+        tutorials:
+          name: הדרכות
+        mining:
+          name: כְּרִיָה
+        conferences:
+          name: ועידות
+          navItems:
+            2017:
+              name: 2017 הונג קונג
+            2018:
+              name: 2018 סיאול
+            2019:
+              name: 2019 ונקובר
+        other:
+          name: אַחֵר
+#memes:
+#__link: /memes
+#__icon: images
+#name: Memes
+#description: Spreading the good word of ETC involves winning the battle of hearts and minds through the whimsicalities of information warfare
+#navItems:
+#mediaKit:
+#__link: /memes/media-kit
+#name: Media Kit
+#charts:
+#__link: /memes/charts
+#name: Charts
+#etc:
+#__link: /memes/etc
+#name: Etcetera
+play:
+  name: לְשַׂחֵק
+  navItems:
+    services:
+      name: שירותים
+      description: אפליקציות, ארנקים ובורסות המשתלבות עם ETC; 100% לא מבוקר, אז היזהרו משיכות השטיח!
+      navItems:
+        wallets:
+          name: ארנקים
+          description: תוכנה לאחסון וניהול ETC, Tokens, NFTs ונכסים אחרים
+        exchanges:
+          name: החלפות
+          description: היכן לקנות ולסחור וכו'
+        apps:
+          name: אפליקציות
+          longName: אפליקציות ופרוטוקול
+          description: מערכת אקולוגית של יישומים הממנפים את Ethereum Classic
+          navItems:
+            nfts:
+              name: NFTs
+            games:
+              name: משחקים
+            identity:
+              name: זהות
+            interoperability:
+              name: יכולת פעולה הדדית
+            finance:
+              name: לְמַמֵן
+            other:
+              name: אַחֵר
+    community:
+      name: קהילה
+      description: אם אתה משתוקק לתקשורת עם אנשים שמתעניינים ב-ETC, הנה איך למצוא אותם
+      navItems:
+        channels:
+          name: ערוצים
+          longName: ערוצי מדיה חברתית
+          description: רשימה של חשבונות, חדרי צ'אט ופורומים לדיון ETC עם אחרים
+        teams:
+          name: צוותים
+          longName: צוותי מפתחים
+          description: מידע על מי עובד על Ethereum Classic
+        events:
+          name: אירועים
+          description: הצטרף לקהילת ETC באירועים חברתיים קבועים המתרחשים במהלך השנה
+    #bounties:
+    #__link: /community/bounties
+    #name: Bounties
+    #dao:
+    #__link: /community/daos
+    #name: DAOs
+    network:
+      name: רֶשֶׁת
+      description: נקודות קצה RPC, סיירים, צגי רשת ומשאבים אחרים עבור בעלי נטייה טכנית
+      navItems:
+        endpoints:
+          name: נקודות קצה
+          longName: נקודות קצה RPC
+          description: שירותים ציבוריים ופרטיים לתקשורת עם רשת ETC
+        explorers:
+          name: חוקרים
+          longName: חוקרים בלוקצ'יין
+          description: כלים לבדיקת השרשרת עבור עסקאות, בלוקים ותובנות אחרות
+        monitors:
+          name: מוניטורים
+          longName: צגי רשת
+          description: כלים לבדיקת תקינות ומצב הרשת עם מדדים שונים
+    #statistics:
+    #__link: /network/statistics
+    #name: Statistics
+    mining:
+      name: כְּרִיָה
+      description: דרישות בריכות, תוכנה וחומרה יעזרו לך לכרות ETC בשביל הכיף והרווח
+      navItems:
+        hardware:
+          name: חוּמרָה
+          description: מידע על איזה סוג של ציוד עדיף להשתמש עבור כרייה רווחית ETC
+        software:
+          name: תוֹכנָה
+          longName: תוכנת כרייה
+          description: רשימה של כלים שניתן להשתמש בהם כדי לכרות ETC במערכות הפעלה שונות
+        pools:
+          name: בריכות
+          longName: בריכות כרייה
+          description: הצטרפות למאגר כרייה מאפשרת לך להרוויח בהתבסס על כוח hash ולא בלוקים שנמצאו
+    develop:
+      name: התפתחות
+      description: רשתות בדיקה, כלים, לקוחות ומידע על איך לתרום לפרוטוקול ETC עצמו
+      navItems:
+        development:
+          name: מדריכים
+          longName: מדריכים למפתחים
+          description: אוסף של תיאוריות על איך לבנות Dapps על Ethereum Classic
+        clients:
+          name: לקוחות
+          description: תוכנת לקוח היא עמוד השדרה של הרשת ומיישמת את פרוטוקול ETC
+        testnets:
+          name: רשתות בדיקה
+          description: רשתות לבדיקה פומבית של אפליקציות ושדרוגי פרוטוקול לפני ייצור
+        tooling:
+          name: כלי עבודה
+          longName: כלים למפתחים
+          description: הם אומרים שפועל טוב כמו הכלים שלו, אז הקפד לבחור טובים!
+        repos:
+          name: מאגרים
+          longName: Git Repositories
+          description: רשימה של מאגר פרויקטים הקשורים ל-Ethereum Classic להנאת הצפייה שלך
+        ecips:
+          name: ECIPs
+          description: סקירה של הצעות שיפור קלאסיות של Ethereum והצעות מאושרות
+news:
+  name: חֲדָשׁוֹת
+extra:
+  name: תוֹסֶפֶת
+  navItems:
+    news:
+      name: חֲדָשׁוֹת
+    blog:
+      name: בלוג
+    about:
+      name: על אודות
+    rss:
+      name: הזנת RSS
+    siteMap:
+      name: מפת אתר

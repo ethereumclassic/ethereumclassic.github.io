@@ -16,7 +16,7 @@ items:
       metmask:
         question: MetaMaskでETCを利用するにはどうすればよいですか？
         answer: |
-          [CoinList.org](https://coinlist.org/chain/61) ウェブサイトを通じて、Ethereum ClassicをMetaMaskに簡単に追加することができます。カスタムEthereum Classic RPCノードを使用するようにMetaMaskを手動で設定したい場合は、 [MetaMask](/guides/metamask) ガイドを確認できます。
+          [CoinList.org](https://coinlist.org/chain/61) Web サイトを介して、イーサリアム クラシックを MetaMask に簡単に追加できます。カスタムの Ethereum Classic RPC ノードを使用するように MetaMask を手動で構成する場合は、 [MetaMask](/guides/metamask) ガイドを参照してください。
       missingEtc:
         question: MetaMaskでハードウェアウォレットを使用しているときに、ETCが表示されないのはなぜですか？
         answer: |

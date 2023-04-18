@@ -1,0 +1,24 @@
+items:
+  links:
+    items:
+      Grayscale's ETC Research Report:
+        name: Grayscale 的 ETC 研究報告
+        description: Grayscale 關於 Ethereum Classic 價值主張的報告。討論 ETH 和 ETC 的起源，ETC 作為一種可以為物聯網提供動力的價值存儲商品所呈現的投資機會，以及對 ETC 的戰略配置如何提高投資者投資組合的效率。
+      etcIsMoney:
+        name: ETC就是錢
+        description: 關於“硬通貨”的品質及其與以太坊經典的關係的豐富多彩和自以為是的提醒
+      The Ethereum Classic Monetary Policy Explained:
+        name: 以太坊經典貨幣政策解釋
+        description: 列出了 ETC 的上限貨幣政策，類似於比特幣但不同於 ETH。下個世紀，ETC 的總供應量將集中在 1.99 億到 2.1 億之間。還解釋了每 500 萬個區塊減少 20% 的新供應量（“fifthening”），以及初始啟動分配的經濟性。
+      The Logic of why Ethereum Classic will Rise 1000x in the Medium to Long Term:
+        name: 以太經典中長期漲1000倍的邏輯
+        description: Etherplan 解釋了為什麼 Ethereum Classic *可能*在可預見的未來看到一些有利的回報。
+      Why Does Ethereum Classic Have Value?:
+        name: 為什麼以太坊經典有價值？
+        description: Etherplan 研究了 ETC 的價值主張，以及為什麼該網絡具有作為“可編程數字黃金”的基本價值。
+      Decentralized Finance (DeFi) on ETC Explained:
+        name: ETC 上的去中心化金融 (DeFi) 解釋
+        description: 探討財富的所有者如何將其存儲在區塊鏈上，並通過去中心化金融應用程序加以利用。與傳統銀行系統相比，DeFi 為參與者提供了更大的資金控制權和透明度。
+      Grayscale Ethereum Classic Trust (ETCG):
+        name: 灰度以太坊經典信託 (ETCG)
+        description: Grayscale 的 Ethereum Classic Trust 使投資者能夠通過傳統投資工具接觸 ETC 的價格變動。 ETCG 通過經紀在股票市場上交易，可以由退休賬戶 (IRA/401K) 持有。避免投資者購買和存儲 ETC 的挑戰。

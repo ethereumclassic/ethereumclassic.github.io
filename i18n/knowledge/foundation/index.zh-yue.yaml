@@ -1,0 +1,33 @@
+items:
+  main:
+    title: 核心原則
+    description: 本節包含精選的最重要的文章，這些文章深入探討了以太坊經典基金會的基本理念。這些想法最終使最初的以太坊願景得以繼續。
+    items:
+      Declaration of Independence:
+        name: 獨立宣言
+        description: 一份 ETC 存在理由的聲明，一份申訴清單，以及對其原則和目標的描述。它是 Ethereum Classic 的早期創始文件之一，最初於 2016 年 8 月出版，並被翻譯成多種語言。
+      A Crypto-Decentralist Manifesto:
+        name: 加密去中心化宣言
+        description: 以太坊經典早期的另一份有影響力的文件。它概述了權力下放的核心價值，並有助於為 ETC 社區內的決策制定提供信息。
+      Ethereum Classic Vision:
+        name: 以太坊經典願景
+        description: Ethereum Classic 將如何成為一個成功的計算平台，以及為什麼 ETC 是一個優秀的價值存儲。
+      keepEtcClassic:
+        name: 讓我們保持以太坊經典經典
+        description: 為回應（現已撤回的）財政部提案，深入提醒捍衛以太坊經典原則的重要性。
+  past:
+    title: 巨人的肩膀
+    description: 如果沒有其他開創性的項目，例如比特幣的原始區塊鏈基礎和去中心化哲學，以及以太坊項目提供的圖靈完備智能合約平台技術，以太坊經典就不可能存在。
+    items:
+      The idea of Smart Contracts:
+        name: 智能合約的理念
+        description: Nick Szabo 於 1997 年提出的智能合約想法。
+      Bitcoin A Peer-to-Peer Electronic Cash System:
+        name: "比特幣：一種點對點的電子現金系統"
+        description: 中本聰的原始白皮書仍被推薦給任何研究比特幣和區塊鏈如何工作的人閱讀。
+      ethWhitepaper:
+        name: "以太坊白皮書"
+        description: 原始以太坊白皮書解釋了區塊鏈技術的效用是如何通過“解決決定誰影響共識的政治問題”以及 DAO、穩定幣等的概念來釋放的。
+      ethYellowPaper:
+        name: "以太坊黃皮書"
+        description: Gavin Wood 對以太坊協議的原始技術描述

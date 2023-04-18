@@ -1,0 +1,240 @@
+learn:
+  name: Aprender
+  navItems:
+    faqs:
+      name: perguntas frequentes
+      description: Perguntas frequentes de vários stakeholders
+      navItems:
+        users:
+          name: Usuários
+          description: Quer aprender a usar o ETC?
+        researchers:
+          name: Pesquisadores
+          description: Acabou de ouvir falar do Clássico?
+        investors:
+          name: investidores
+          description: Interessado em comprar ETC?
+        miners:
+          name: mineiros
+          description: Precisa de informações sobre como minerar ETC?
+        developers:
+          name: Desenvolvedores
+          description: Quer construir na ETC?
+        contributors:
+          name: Contribuintes
+          description: Quer ajudar o projeto?
+    whyClassic:
+      name: Por que Clássico?
+      description: Comece aqui para saber tudo sobre a razão de ser do Ethereum Classic e sua proposta de valor única
+      navItems:
+        codeIsLaw:
+          name: Código é lei
+        genesis:
+          name: Gênese
+        decentralism:
+          name: descentralismo
+        soundMoney:
+          name: Dinheiro de som
+        proofOfWork:
+          name: Prova de Trabalho
+    #etcVsEth:
+    #__link: /why-classic/etc-vs-eth
+    #name: ETC vs ETH
+    knowledge:
+      name: Conhecimento
+      description: Leitura adicional sobre os fundamentos que sustentam a ETC
+      navItems:
+        foundation:
+          name: Fundação
+          description: Os princípios fundamentais que formam a sólida base filosófica da ETC
+        theory:
+          name: Teoria
+          longName: Teoria e Pesquisa
+          description: Um mergulho mais profundo na lógica do Ethereum Classic com peças da comunidade
+        investing:
+          name: Investir
+          longName: Recursos do Investidor
+          description: Informações sobre a proposta de valor do Ethereum Classic e seu potencial para ganhos insanos
+        forks:
+          name: Garfos
+          longName: Atualizações de protocolo
+          description: Uma crônica de hard forks passados e futuros que adicionaram funcionalidade ou correções de bugs ao ETC
+        history:
+          name: História
+          longName: História Clássica
+          description: Uma linha do tempo de todos os principais eventos da história do Ethereum Classics até os dias atuais
+        future:
+          name: Futuro
+          longName: Futuro Clássico
+          description: Uma visão geral do processo de tomada de decisão na ETC e onde isso pode levar o protocolo
+        metamask:
+          name: MetaMask
+          longName: Usando MetaMask com ETC
+          description: Como configurar o MetaMask e alternativas para interagir com dapps
+    videos:
+      name: Vídeos
+      description: Uma coleção de vídeos e podcasts para mantê-lo informado sobre os conceitos e acontecimentos da ETC
+      navItems:
+        explainers:
+          name: Explicadores
+        discussions:
+          name: Discussões
+        trading:
+          name: Negociação
+        development:
+          name: Desenvolvimento
+        tutorials:
+          name: Tutoriais
+        mining:
+          name: Mineração
+        conferences:
+          name: conferências
+          navItems:
+            2017:
+              name: 2017 Hong Kong
+            2018:
+              name: 2018 Seul
+            2019:
+              name: 2019 Vancouver
+        other:
+          name: Outro
+#memes:
+#__link: /memes
+#__icon: images
+#name: Memes
+#description: Spreading the good word of ETC involves winning the battle of hearts and minds through the whimsicalities of information warfare
+#navItems:
+#mediaKit:
+#__link: /memes/media-kit
+#name: Media Kit
+#charts:
+#__link: /memes/charts
+#name: Charts
+#etc:
+#__link: /memes/etc
+#name: Etcetera
+play:
+  name: Jogar
+  navItems:
+    services:
+      name: Serviços
+      description: Aplicativos, carteiras e trocas que se integram ao ETC; 100% não auditado, então cuidado com os puxões do tapete!
+      navItems:
+        wallets:
+          name: Carteiras
+          description: Software para armazenar e gerenciar ETC, Tokens, NFTs e outros ativos
+        exchanges:
+          name: Trocas
+          description: Onde comprar e negociar ETC
+        apps:
+          name: aplicativos
+          longName: Aplicativos e protocolo
+          description: Ecossistema de aplicativos que utilizam o Ethereum Classic
+          navItems:
+            nfts:
+              name: NFTs
+            games:
+              name: jogos
+            identity:
+              name: Identidade
+            interoperability:
+              name: Interoperabilidade
+            finance:
+              name: Finança
+            other:
+              name: Outro
+    community:
+      name: Comunidade
+      description: Se você deseja se comunicar com pessoas interessadas em ETC, veja como encontrá-las
+      navItems:
+        channels:
+          name: Canais
+          longName: Canais de mídia social
+          description: Uma lista de contas, salas de bate-papo e fóruns para discutir ETC com outras pessoas
+        teams:
+          name: Equipes
+          longName: Equipes de desenvolvedores
+          description: Informações sobre quem está trabalhando no Ethereum Classic
+        events:
+          name: Eventos
+          description: Junte-se à comunidade ETC em eventos sociais regulares que acontecem ao longo do ano
+    #bounties:
+    #__link: /community/bounties
+    #name: Bounties
+    #dao:
+    #__link: /community/daos
+    #name: DAOs
+    network:
+      name: Rede
+      description: RPC Endpoints, Explorers, Network Monitors e outros recursos para o técnico inclinado
+      navItems:
+        endpoints:
+          name: Terminais
+          longName: Pontos finais de RPC
+          description: Serviços públicos e privados de comunicação com a rede ETC
+        explorers:
+          name: exploradores
+          longName: Exploradores de Blockchain
+          description: Ferramentas para inspecionar a cadeia em busca de transações, bloqueios e outros insights
+        monitors:
+          name: Monitores
+          longName: Monitores de rede
+          description: Ferramentas para verificar a integridade e o status da rede com várias métricas
+    #statistics:
+    #__link: /network/statistics
+    #name: Statistics
+    mining:
+      name: Mineração
+      description: Os requisitos de pools, software e hardware ajudarão você a minerar ETC por diversão e lucro
+      navItems:
+        hardware:
+          name: hardware
+          description: Informações sobre que tipo de equipamento é melhor usar para mineração lucrativa ETC
+        software:
+          name: Programas
+          longName: Software de Mineração
+          description: Uma lista de ferramentas que podem ser usadas para minerar ETC em vários sistemas operacionais
+        pools:
+          name: piscinas
+          longName: Piscinas de Mineração
+          description: Participar de um pool de mineração permite lucrar com base no poder de hash em vez dos blocos encontrados
+    develop:
+      name: Desenvolvimento
+      description: Testnets, ferramentas, clientes e informações sobre como contribuir com o próprio protocolo ETC
+      navItems:
+        development:
+          name: Guias
+          longName: Guias do desenvolvedor
+          description: Uma coleção de tutoriais sobre como construir dapps no Ethereum Classic
+        clients:
+          name: clientes
+          description: O software cliente é a espinha dorsal da rede e implementa o protocolo ETC
+        testnets:
+          name: Testnets
+          description: Redes para testes públicos de aplicativos e atualizações de protocolo antes da produção
+        tooling:
+          name: ferramentas
+          longName: Ferramentas do desenvolvedor
+          description: Dizem que um trabalhador é tão bom quanto suas ferramentas, então certifique-se de escolher as boas!
+        repos:
+          name: Repositórios
+          longName: Repositórios Git
+          description: Uma lista de repositórios de projetos relacionados ao Ethereum Classic para seu prazer visual
+        ecips:
+          name: ECIPs
+          description: Visão geral das propostas de melhoria do Ethereum Classic e propostas aprovadas
+news:
+  name: Notícias
+extra:
+  name: Extra
+  navItems:
+    news:
+      name: Notícias
+    blog:
+      name: blog
+    about:
+      name: Sobre
+    rss:
+      name: Feed RSS
+    siteMap:
+      name: Mapa do site

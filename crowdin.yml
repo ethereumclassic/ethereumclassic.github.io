@@ -5,3 +5,10 @@ files:
       - "**/*.collection.*"
       - "**/blog/**/*.md"
     translation: /i18n/**/%file_name%.%two_letters_code%.%file_extension%
+  # one-off blog post translations
+  - source: "/content/blog/2023-04-17-languages-enabled/index.md"
+    translation: /content/blog/2023-04-17-languages-enabled/index.%two_letters_code%.md
+  - source: "/content/blog/2016-08-13-declaration-of-independence/index.md"
+    translation: /content/blog/2016-08-13-declaration-of-independence/index.%two_letters_code%.md
+  - source: "/content/blog/2016-07-11-crypto-decentralist-manifesto/index.md"
+    translation: /content/blog/2016-07-11-crypto-decentralist-manifesto/index.%two_letters_code%.md
