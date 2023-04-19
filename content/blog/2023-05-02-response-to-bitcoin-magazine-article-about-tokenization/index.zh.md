@@ -21,6 +21,8 @@ Link: https://bitcoinmagazine.com/culture/dont-tokenize-use-bitcoin
 
 In the piece, Mr. Koss argued against tokenization of assets on the blockchain, pointing out how they supposedly perpetuate the financial problems that Bitcoin seeks to solve, and highlighted the problem of asset tokenization lack of security.
 
+![Bitcoin Magazine post about tokenzation.](./etc-btc-magazine.png)
+
 In this post we are going to respond to this article by arguing in favor of tokenization on the blockchain, explaining its benefits. 
 
 The Bitcoin Magazine opinion editorial has 7 paragraphs, and we will respond to each one below. 
