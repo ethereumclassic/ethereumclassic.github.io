@@ -2,7 +2,7 @@
 // combines blog and newslinks into single queriable NewsItem type
 
 const types = {
-  NewsLinksCollection: { tag: "news" },
+  NewsLinksCollection: { tag: "news", tags: ["external"] },
   VideosCollection: { tag: "video", ignoreTags: true, linkPrefix: "/videos" },
   ServicesAppsCollection: {
     tag: "application",
@@ -31,13 +31,16 @@ exports.onCreateNode = async (
   }
 
   function createNewsItem(obj) {
-    const { tag, ignoreTags, linkPrefix } = obj.newsType
-      ? { tag: obj.newsType }
-      : types[node.internal.type];
+    const {
+      tag,
+      tags = [],
+      ignoreTags,
+      linkPrefix,
+    } = obj.newsType ? { tag: obj.newsType } : types[node.internal.type];
     const newsItem = {
       ...obj,
       newsType: tag,
-      tags: ignoreTags ? [tag] : [...obj.tags, "news"],
+      tags: ignoreTags ? [tag] : [...obj.tags, ...tags, "news"],
       link:
         obj.link || (obj.slug && linkPrefix && `${linkPrefix}/#${obj.slug}`),
       id: createNodeId(`${node.id} >>> NEWS ITEM`),
