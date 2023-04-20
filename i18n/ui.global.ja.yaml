@@ -126,6 +126,7 @@ tagNames:
   trading: 取引
   wallet: 財布
   video: 動画
-  news: 外部リンク
+  news: 表紙
+  external: 外部リンク
   philosophy: 哲学
   series: シリーズ
