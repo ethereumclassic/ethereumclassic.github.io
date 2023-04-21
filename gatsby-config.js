@@ -22,7 +22,6 @@ module.exports = {
     // "gatsby-plugin-perf-budgets",
     // "gatsby-plugin-webpack-bundle-analyser-v2",
     "gatsby-plugin-netlify",
-    "gatsby-plugin-robots-txt",
     "gatsby-plugin-image",
     "gatsby-transformer-sharp",
     "gatsby-plugin-sharp",
@@ -44,6 +43,12 @@ module.exports = {
       options: {
         color: `#34d399`,
         showSpinner: false,
+      },
+    },
+    {
+      resolve: "gatsby-plugin-robots-txt",
+      options: {
+        sitemap: `${siteUrl}/sitemap-0.xml`,
       },
     },
     {
