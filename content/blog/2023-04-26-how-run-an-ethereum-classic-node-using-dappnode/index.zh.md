@@ -50,7 +50,7 @@ DappNode就是这样一家公司，他们的产品DappNode Home是一种连接�
 
 ## 在以太坊经典上使用DappNode的用例
 
-![ETC节点使用用例](./use-cases.png)
+![ETC节点使用用例](./use-cases_zh.png)
 
 如前所述，运行自己的节点比使用受信任的第三方具有更高的安全保证，为用户和团队提供更高的控制权，并且比使用远程云节点服务更快。
 
@@ -130,7 +130,7 @@ https://dappnode.com/shop
 
 要进入Grafana控制面板，请单击左侧菜单中的“软件包”选项卡，然后选择“Dms”。
 
-![Go to Grafana dashboards.](./7.png)
+![进入Grafana控制版](./7.png)
 
 ## 8. 点击控制面板
 
