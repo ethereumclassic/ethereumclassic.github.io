@@ -1,5 +1,5 @@
 ---
-title: "The Meaning of Finality in Ethereum Classic"
+title: "终局在以太坊经典中的含义"
 date: 2023-04-25
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -9,98 +9,96 @@ linkImage: ./etc-finality-banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7QVY5-arvPQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-## What Is Finality?
+## 什么是终局？
 
-Finality means that something has come to an end irreversibly and permanently.
+终局意味着某件事已经不可逆转地和永久性地结束了。
 
-In the context of a blockchain as Ethereum Classic (ETC), finality is the moment at which transferred funds become the physical possession of the receiving party, therefore the receiver has irreversible and permanent control over the funds.
+终局在以太坊经典（Ethereum Classic，ETC）中指的是一种确保交易不可逆转和永久性的特性。当一笔交易被确认后，它就会被写入区块链，并且不能被更改或撤销。这意味着资金已经彻底转移，并且接收方对这笔资金具有永久性的控制权。
 
-This quality has been the subject of analysis in economics and legal circles for centuries. It is imperative for the health of a society for economic transactions to become final in order to bring assurance to economic agents that they can carry on with their continued business, thus general prosperity. The goal of finality is certainty.
+这种终局特性是保证以太坊经典系统安全性和稳定性的关键因素之一。在这个系统中，交易终局确保了所有参与方的交易记录都是准确和可信的，而且不会出现潜在的欺诈或恶意行为。
 
-Imagine a chain of many business payments where one in the middle is reversed or corrupted. If this were to happen, then probably all the transactions that came after it would need to be reversed as well, significantly disrupting the economy.
+终局也是以太坊经典与其他区块链系统的区别之一。例如，以太坊（Ethereum）网络采用的是最终性（finality）的概念，而不是终局，这意味着在一定情况下，已经确认的交易可能会被撤销或替换。
 
-![Finality broken.](./etc-finality-banner.png)
+![打破终局](./etc-finality-banner.png)
 
-Finality in the blockchain industry has been the subject of debate, but many confuse the different types of finality, leading some to believe that insecure systems as proof of stake chains are final, when they are really not.
+区块链行业中的终局一直是争论的话题，但是许多人混淆了不同类型的终局，这导致一些人认为像权益证明链这样不安全的系统是终局的，而实际上并不是。
 
-## Physical Finality
+## 物理终局
 
-Because Ethereum Classic is a proof of work blockchain it offers physical finality. Physical finality means that once a payment becomes final it is practically impossible to physically reverse it.
+由于以太坊经典采用工作量证明的区块链，它提供了物理终局。物理终局意味着一旦付款变得最终，它几乎不可能被物理地撤销。
 
-ETC provides these guarantees because the proof of work consensus mechanism enables all participating machines to achieve consensus on a single history of transactions in a truly decentralized and permissionless way. 
+ETC提供这些保证是因为工作量证明共识机制使得所有参与的机器能够以真正去中心化和无需许可的方式达成对交易历史的单一共识。这使得账本与地址余额的完全复制成为可能，同时提供了计算屏障以防止撤销交易，因为必须重新进行所有的计算工作和能源开支才能撤销单个交易。
 
-This enables the full replication of the ledger with the addresses and balances, and at the same time provides a computational barrier to reversing the payments as all the computational work and expenditure of energy would have to be done again to reverse single transactions.
+因此，ETC的工作量证明使得能够以非常高的安全性实现终局，从而获得确定性。
 
-For these reasons, ETC’s proof of work makes it possible to achieve finality with a very high level of security, thus certainty.
+这种安全性和去中心化程度保证了在区块链中获得ETC的访问、拥有和绝对控制，只要用户拥有私钥。
 
-This level of security and decentralization guarantees access, possession, and absolute control of ETC inside the blockchain as long as users have their private keys.
+## 法律终局
 
-## Legal Finality
+在传统系统中，由于撤销交易的成本非常低且几乎没有障碍，终局必须通过法律手段来实现。这是与工作量证明区块链的关键区别。
 
-In traditional systems, because they may be reversed at a very low cost and with hardly any barriers, finality must be given by legal means. This is the key difference with proof of work blockchains.
+法律终局提供的确定性要比物理终局少得多。
 
-Legal finality provides much less certainty than physical finality.
+物理终局比法律终局更加绝对，因为无论法律如何规定，掌握地址私钥的人才是唯一可以移动资产的人。
 
-Physical finality is more absolute than legal finality because, regardless of what the law says, whoever controls ETC in an address with their private keys is the only one who may move them.
+在传统系统中，绝大多数人的钱存放在银行里，这些钱只是银行与他们之间的债务。这些钱不在他们的掌控中。如果由于任何原因，政府做出了通过银行撤销交易或宣布对资金的国家没收等任意决定，这些资产就会变得极为脆弱，可能会被剥夺其合法所有者的所有权。
 
-In traditional systems, the great majority of people have their money in banks, and this money is only debt the banks have with them. The money is not in their possession. If for any reason, there are arbitrary government decisions to reverse transactions through banks or declare national confiscations of funds, those funds are extremely vulnerable and may be removed from their rightful owners.
+在像ETC这样的区块链上，无论政府如何决定，只有拥有私钥的用户才能支配他们的资产。
 
-On blockchains as ETC, whatever the government determines does not change the fact that only the users with the private keys can dispose of their money.
+这是遏制暴政行为和合法化盗窃的一种重要手段和预防形式。
 
-This is a big deterrence and form of prevention against tyrannical behavior and legalized theft.
+## 实体与法律上的最终性
 
-## Physical vs Legal Finality
+然而，需要注意的是，在正常情况下，实体最终性和法律最终性都是可取的。
 
-However, it is very important to note that, in normal circumstances, both physical and legal finality are desirable. 
+一个人可能在他们的地址中拥有ETC，但他们可能不是合法的所有者。例如，黑客可能通过攻击系统窃取ETC，人们可能会意外地将他们的私钥交给陌生人，或者遗产可能会受到挑战，某人可能不得不向其他人转移资金。
 
-It is perfectly possible that a person may have ETC in their address, but they are not the rightful owners. For example hackers may steal ETC by hacking systems, people may accidentally lose their private keys to strangers who take control of them, or an inheritance may be challenged where someone may have to transfer funds to someone else.
+法律程序始终是解决人类纠纷的必要系统。
 
-The legal process will always be a necessary system to resolve disputes between humans. 
+然而，区块链对人与法律系统之间发生的任何事情都是盲目的。只要交易是正确签名并使用正确的私钥发送，ETC将执行这些交易并在一定数量的确认后使其最终。
 
-However, the blockchain is blind to whatever happens between people or in the legal system. As long as transactions are sent and signed with the correct private keys, ETC will always execute them and make them final after a certain number of confirmations.
+这是减少经常不公平和武断对待人们的钱的一种很好的方式，并保证只有通过适当和公正的法律程序才能恢复和解决事情，而不是通过突然和不稳定的手段。
 
-This is a great way of reducing the frequently unfair and arbitrary treatment of people’s money and guaranteeing that only through proper and fair legal procedure things will be restored and resolved, not through abrupt and erratic means.
+## 社交最终性
 
-## Social Finality
+在区块链行业中，最大的谬误之一是，权益证明系统拥有所谓的“社交共识”作为最后的安全保障，并且这种社区伦理是比实体最终性更好的保证。
 
-One of the most egregious fallacies promoted in the blockchain industry is that proof of stake systems have what they call “social consensus” as the security of last resort, and that this community ethics is somehow a better guarantee than physical finality.
+这完全不是事实，因为法律和社交最终性都有相同的执行来源：人和他们的主观意见。
 
-This can’t be further from the truth because both legal and social finality have the same source of enforcement: People and their subjective opinions.
+权益证明分类帐和传统分类帐一样容易受到影响。此外，权益证明节点、验证器等是这些系统中静态、易于跟踪的参与者。这使得它们在实质上与传统系统相同，当局可以轻松地迫使它们撤销交易或没收资金。法律盗窃或滥用没有任何遏制措施。
 
-Proof of stake ledgers are as cheaply malleable as traditional ledgers. On top of this, stakers, staking pools, and validators are static, easy to track players in these systems. This makes them practically identical to traditional systems as authorities can easily force them to reverse transactions or confiscate funds. There is no deterrence to legal theft or abuse.
+实体最终性与法律、个人观点或任何公平或不公平的感觉无关。它只是一个客观和中立的屏障，通过强大的力量和能量保证转移的最终性。只有通过私钥才能移动资金。
 
-Physical finality is not related to law, personal opinions, or any sense of fairness or unfairness, for that matter. It is just an objective and neutral barrier that guarantees that transfers are final by sheer force and energy. Only through private keys may funds be moved.
+## 实现最终性与不可变性
 
-## Finality vs Immutability
+最终性并不等同于不可变性，但不可变性能够实现最终性。
 
-Finality is not immutability, but immutability does enable finality.
+需要注意的是，以ETC为代表的工作量证明区块链确保最终性，一种确定性质量，因为在经过一定数量的确认之后，交易变得不可变。
 
-It is important to note that proof of work blockchains as ETC guarantee finality, a quality of certainty, because transactions become immutable after a certain number of confirmations.
+当一个人接收到资金时，应该等待几个确认，以更加确定这笔交易不会在51%攻击中被实际撤销。在经过一定数量的确认后，就可以认为转账不可更改，即最终。
 
-When one receives funds, one should wait several confirmations to have more certainty that the transaction will not be physically reversed with a 51% attack. After this number of confirmations, then one may consider a transfer immutable, thus final.
+不可变性是一种物理质量，而最终性是一种经济和法律质量。再次强调，一个人可能会因为错误地接收到资金或者盗窃而实现物理上的最终性，但这并不意味着法律上的最终性。
 
-Immutability is a physical quality, finality is an economic and legal quality. Again, one may receive a transfer by mistake or steal money, and that transaction will have physical finality after a number of confirmations, but that does not mean legal finality.
+此外，最终性并不是一个终点，因为人们可以将这些资金再次转移，继续经济和人类行动的链条。
 
-Also, finality is not really an end per se as one may transfer those funds again to continue the chain of events in an economy and human action.
+## 结论
 
-## Conclusion
+与权益证明的支持者所说的相反，无论是律师还是计算机科学家，人类都不是最终性的良好来源。
 
-Contrary to what proof of stake advocates say, humans, whether lawyers or computer scientists, are not good sources of finality. 
+这就是为什么我们的银行存款，即使由法律和技术保证，也会存在高度的不确定性，因为它们随时可能会被一笔签字或按下键盘上的键移除。
 
-This is why our bank deposits, guaranteed by the law and technology, are subject to high degrees of uncertainty because they can always be removed at the stroke of a pen or by pressing a key on a keyboard.
+物理最终性不是人们可以选择遵循的抽象规则。物理最终性是绝对的。工作量证明链在经过一定数量的确认之后，用纯粹的力量提供了更高程度的最终性，无论是否与法律相符。
 
-Physical finality is not an abstraction or rule that people may choose to follow. Physical finality is absolute. Proof of work chains, after a certain number of confirmations, offer a higher degree of finality, whether corresponding to law or not, with sheer force. 
-
-However, a combination of legal and physical finality may very well be the best balance so that human action may be enhanced and promoted by increasing certainty, reducing abuse, and incentivizing positive and healthy economic prosperity.
+然而，法律和物理最终性的结合可能是最好的平衡，以增加确定性、减少滥用并激励积极和健康的经济繁荣。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+更多有关ETC内容，请访问: https://ethereumclassic.org
