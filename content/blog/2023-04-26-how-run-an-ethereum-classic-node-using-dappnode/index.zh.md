@@ -82,9 +82,9 @@ https://dappnode.com/shop
 
 一旦设置完成，DappNode的说明将告诉您如何通过Web浏览器连接设备。
 
-当您输入本地网络地址时，您将看到本地DappNode的主页，并且您将会进入仪表板。
+当您输入本地网络地址时，您将看到本地DappNode的主页，并且您将会进入控制面板。
 
-在下面的示例仪表板中，我们已经为Mordor测试网安装了ETC Core Geth。
+在下面的示例控制面板中，我们已经为Mordor测试网安装了ETC Core Geth。
 
 在接下来的几节中，我们将展示如何连接ETC Core Geth主网节点。
 
