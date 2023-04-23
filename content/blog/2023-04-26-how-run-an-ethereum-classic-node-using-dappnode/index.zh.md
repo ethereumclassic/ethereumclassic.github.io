@@ -48,7 +48,7 @@ linkImage: ./etc-dappnode-banner.png
 
 DappNode就是这样一家公司，他们的产品DappNode Home是一种连接到家庭或办公室本地WiFi网络的设备，用户可以在其中设置不同的区块链节点，包括ETC。
 
-## 在Ethereum Classic上使用DappNode的用例
+## 在以太坊经典上使用DappNode的用例
 
 ![ETC节点使用用例](./use-cases.png)
 
