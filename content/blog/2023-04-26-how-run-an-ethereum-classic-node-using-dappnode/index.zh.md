@@ -1,5 +1,5 @@
 ---
-title: "How to Run an Ethereum Classic Node Using Dapp Node"
+title: "如何使用DappNode运行以太坊经典节点"
 date: 2023-04-26
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,160 +8,157 @@ linkImage: ./etc-dappnode-banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WoFInpj3Y2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-![ETC Mainnet and Testnet on DappNode.](./etc-dappnode-banner.png)
+![DappNode上的ETC主网和测试网](./etc-dappnode-banner.png)
 
-## What Is a Blockchain Node?
+## 什么是区块链节点?
 
-Blockchains are peer-to-peer networks of computers where each node is a machine running a software client that enables it to communicate with other nodes. 
+区块链是计算机的点对点网络，其中每个节点都是一台运行软件客户端的机器，使其能够与其他节点通信。
 
-All new transaction data is transmitted to all participating machines and is replicated in all of them. Consensus on which is the latest state of the database, also known as the blockchain, is reached through a consensus mechanism, which may usually be a proof of work or proof of stake algorithm.
+所有新的交易数据被传输到所有参与的机器，并在所有机器中复制。关于数据库的最新状态(也称为区块链)的共识是通过共识机制达成的，该机制通常可以是工作量证明或权益证明算法。
 
-Because the security paradigm of blockchains is to replicate the same identical database in as many machines as possible, so there may be as much redundancy and self verification as possible, without the need to trust third parties, then the more nodes in as many diverse regions, cultures, and parts of the world as possible, the better.
+因为区块链的安全范式是在尽可能多的机器上复制相同的数据库，所以可能会有尽可能多的冗余和自我验证，而不需要信任第三方，那么在尽可能多的不同地区、文化和世界各地的节点越多越好。
 
-A blockchain node is one of these participating machines running the software client that contains the protocol to be able to be a member of the network.
+区块链节点是运行软件客户端的参与机器之一，该客户端包含能够成为网络成员的协议。
 
-## Benefits of Running a Node
+## 运行节点的好处
 
-As blockchains have miner nodes and verifying nodes, to run more verifying nodes also increases the security of the network.
+由于区块链有矿工节点和验证节点，运行更多的验证节点也增加了网络的安全性。
 
-Running a node provides higher security to users and dapp developers as well. It is also very important for exchanges, investors, institutions, and general blockchain services.
+运行节点也为用户和dapp开发人员提供了更高的安全性。它对交易所、投资者、机构和一般bb0服务也非常重要。
 
-Running a node is a way to access the blockchain directly, thus more securely, to query accounts, balances, and dapps, and to send transactions.
+运行节点是直接访问区块链的一种方式，因此更安全，可以查询帐户、余额和dapp，并发送交易。
 
-By accessing the network directly, rather than through trusted third parties, end users, developer teams, and all other economic node operators gain the highest degree of security possible because they may query the chain and send transactions without risk of fraud.
+通过直接访问网络，而不是通过可信的第三方，最终用户、开发团队和所有其他经济节点运营商获得了最高程度的安全性，因为他们可以查询链并发送交易，而不会有欺诈风险。
 
-As long as there is an internet connection, in a proof of work blockchain as Ethereum Classic (ETC) running a node provides the highest degree of censorship resistance and permissionlessness when interacting with the system.
+只要有互联网连接，在区块链作为以太坊经典(ETC)的工作证明中，运行节点在与系统交互时提供最高程度的审查阻力和无权限性。
 
-## What Is DappNode?
+## 什么是DappNode?
 
-![DappNode Home.](./dappnode-home.png)
+![Dapp节点主页](./dappnode-home.png)
 
-Because running nodes is relatively costly due to the size of the blockchain (an ETC full node size is currently around 80 GB), it is difficult to run them on regular computers, much less on machines that are meant for daily use.
+因为区块链的大小较大（ETC全节点大小目前约为80GB），因此运行节点相对成本较高，难以在普通计算机上运行，更不用说在日常使用的机器上运行。
 
-To solve this problem, there are companies that have developed very practical specialized devices that are only dedicated to running blockchain nodes.
+为了解决这个问题，有些公司开发了非常实用的专用设备，专门用于运行区块链节点。
 
-DappNode is one such company with its product DappNode Home which is a device that connects to the local WiFi network at home or office, and from there users may set up different blockchain nodes, including ETC.
+DappNode就是这样一家公司，他们的产品DappNode Home是一种连接到家庭或办公室本地WiFi网络的设备，用户可以在其中设置不同的区块链节点，包括ETC。
 
-## Use Cases of DappNode With Ethereum Classic
+## 在Ethereum Classic上使用DappNode的用例
 
-![ETC node use cases.](./use-cases.png)
+![ETC节点使用用例](./use-cases.png)
 
-As said before, running your own node has higher security guarantees than using trusted third parties, gives higher control to users and teams, and it is faster than using remote cloud node services.
+如前所述，运行自己的节点比使用受信任的第三方具有更高的安全保证，为用户和团队提供更高的控制权，并且比使用远程云节点服务更快。
 
-**Some of the use cases for running an ETC node on DappNode are the following:**
+**运行ETC节点的一些用例如下:**
 
-**Your local wallet:** Instead of using third parties, users may have their non-custodial wallet in their local machines connect to the blockchain through their own direct nodes.
+**本地钱包:** 用户可以在本地计算机上运行非托管钱包，并通过自己的直接节点连接到区块链，而不是使用第三方。
 
-**Access globally:** DappNode may be setup to provide access through VPN connection to its owners even if they are away, anywhere in the world.
+**全球访问:** DappNode可以设置为提供VPN连接，即使用户身处世界各地也可以访问它。
 
-**Make public:** The node may be set up as a public endpoint, providing access to the blockchain to the public.
+**公开访问:** 可以将节点设置为公共端点，向公众提供访问区块链的机会。
 
-**Your dapp:** Dapp developer teams may use their DappNode to provide access to the chain for their dapps so they don’t have to depend on the large centralized cloud node providers.
+**您的Dapp:** Dapp开发团队可以使用他们的DappNode为他们的dapp提供访问链的方式，以便他们不必依赖大型集中式云节点提供商。
 
-**Automatic updates:** DappNode may be set up to update the Ethereum Classic software client automatically so no upgrades, bug fixes, or hard forks are missed.
+**自动更新:**  DappNode可以设置为自动更新Ethereum Classic软件客户端，以便不会错过升级、错误修复或硬分叉。
 
-**Censorship resistant:** By running a full node, the level of security achieved is the highest possible.
+**抗审查:** 运行完整节点，所达到的安全级别是最高的。
 
-## 1. Get DappNode and Install it.
+## 1. 获取DappNode并安装它。
 
-To run an ETC mainnet or testnet Core Geth node, the first thing you need to do is to buy a DappNode Home at this address:
+要运行ETC主网或测试网的Core Geth节点，您需要做的第一件事是在以下地址购买DappNode Home：
 
 https://dappnode.com/shop
 
-When you get the device, you have to set it up by following the instructions and connect it to your local WiFi at home or office.
+获得设备后，您必须按照说明进行设置，并将其连接到家庭或办公室的本地WiFi网络。
 
-![Get your DappNode.](./1.png)
+![获得DappNode.](./1.png)
 
-## 2. Checkout the Dashboard
+## 2. 查看控制面板
 
-Once set up, the DappNode instructions will let you know how to connect to the device through your web browser.
+一旦设置完成，DappNode的说明将告诉您如何通过Web浏览器连接设备。
 
-When you type the local area network address, you will see the home of your local DappNode and you will land on the dashboard.
+当您输入本地网络地址时，您将看到本地DappNode的主页，并且您将会进入仪表板。
 
-In the sample dashboard below we have already installed the ETC Core Geth for the Mordor testnet.
+在下面的示例仪表板中，我们已经为Mordor测试网安装了ETC Core Geth。
 
-In the next few sections we will show how to connect an ETC Core Geth mainnet node.
+在接下来的几节中，我们将展示如何连接ETC Core Geth主网节点。
 
-![Dashboard.](./2.png)
+![控制面板](./2.png)
 
-## 3. Install the Ethereum Classic Core Geth Mainnet Node 
+## 3. 安装ETC Core Geth主网节点
 
-To begin with, go to the “DAppStore” tab on the left menu.
+首先，转到左侧菜单上的“DAppStore”选项卡。
 
-There you will see a search field where you will type “Ethereum Classic” so that the two packages of ETC Core Geth will appear below.
+在那里，您将看到一个搜索字段，在其中键入“Ethereum Classic”，以便下面出现两个ETC Core Geth软件包。
 
-As you may see, the Mordor version is already installed.
+您可以看到，Mordor版本已经安装了。
 
-To install the Mainnet version, click on “GET”.
+要安装主网版本，请单击“GET”。
 
-![Install Core Geth Mainnet.](./3.png)
+![安装Core Geth主网](./3.png)
 
 ## 4. Press Install
 
-In the next screen you will see the “INSTALL” button and some information about the ETC Core Geth node client.
+在下一个屏幕上，您将看到“INSTALL”按钮和有关ETC Core Geth节点客户端的一些信息。
 
-Press “INSTALL”.
+点击“INSTALL”。
 
-![INSTALL Core Geth Mainnet.](./4.png)
+![安装（INSTALL） Core Geth主网](./4.png)
 
-## 5. See Install Stats
+## 5. 查看安装状态
+在下一个界面中，您将看到下载的状态。
 
-In the next screen you will see the status of the download.
+![安装状态](./5.png)
 
-![Install stats.](./5.png)
+## 6. 在控制面板上查看您的链
 
-## 6. See Your Chains on the Dashboard
+如果您再次转到左侧菜单中的“控制面板”选项卡，您将看到Mordor实例以及新的主网实例。
 
-If you go to the “Dashboard” tab on the left menu again, you will see the Mordor instance and now the new Mainnet instance as well.
+区块链需要几个小时来下载。
 
-The blockchain takes a few hours to download.
+![控制面板上的链](./6.png)
 
-![Chains on dashboard.](./6.png)
+## 7. 检查Grafana仪表板状态
 
-## 7. Check Out the Grafana Dashboard Stats
+同时，您可能希望查看Grafana仪表板，以查看运行时的节点状态。
 
-In the meantime you may want to checkout the Grafana dashboards to see the node stats when it is running.
-
-To go to the Grafana dashboard, click on the “Packages” tab on the left menu and then select “Dms”.
+要进入Grafana仪表板，请单击左侧菜单中的“软件包”选项卡，然后选择“Dms”。
 
 ![Go to Grafana dashboards.](./7.png)
 
-## 8. Click on Dashboards
+## 8. 点击控制面板
 
-In the next screen you need to click on the dms.dappnode/dashboards link.
+在下一个界面中，您需要单击dms.dappnode/dashboards链接。
 
-![Dashboards.](./8.png)
+![控制面板](./8.png)
 
-## 9. Select the ETC Mainnet Core Geth Instance
+## 9. 选择 ETC Mainnet Core Geth 实例
 
-In the next screen you will be on the Grafana app that is integrated into your local DappNode and you will see that you may select the Mainnet or Mordor networks.
+在下一个屏幕上，您将进入集成在本地 DappNode 中的 Grafana 应用程序，并且您将看到您可以选择 Mainnet 或 Mordor 网络。选择 Mainnet 主网。
 
-Select the Mainnet network.
+![选择ETC Core Geth主网](./9.png)
 
-![Select ETC Core Geth Mainnet.](./9.png)
+## 10. 查看所有节点数据
 
-## 10. See All Node Data
+在下一个屏幕上，您将看到您的 ETC Core Geth 主网节点的所有统计数据。
 
-In the next screen, you will see all the stats of your ETC Core Geth mainnet node.
+在我们的示例中，数据尚未更新，但是当您的节点完全同步时，它将被填充统计数据。
 
-In our example, the data was not yet updated, but when your node is fully synchronized it will be populated with the stats. 
+![节点数据](./10.png)
 
-![Node data.](./10.png)
+## 11. 查看您可以在 DappNode 上运行的所有其他区块链节点
 
-## 11. Check Out All Other Blockchain Nodes You May Run With DappNode
+如果您希望运行更多节点，例如比特币、以太坊或其他节点，您可以再次转到左侧菜单上的“DAppStore”选项卡，并等待页面加载完成，以选择您想要运行的节点包。
 
-If you wish to run more nodes such as Bitcoin, Ethereum, or others, you may go to the “DAppStore” tab again on the left menu and wait until the page is populated with all the possible node packages for you to choose which one you would like to run.
-
-![Other possible nodes.](./11.png)
+![其他肯能的节点](./11.png)
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，请访问: https://ethereumclassic.org
