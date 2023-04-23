@@ -102,7 +102,7 @@ https://dappnode.com/shop
 
 ![安装Core Geth主网](./3.png)
 
-## 4. Press Install
+## 4. 点击安装
 
 在下一个屏幕上，您将看到“INSTALL”按钮和有关ETC Core Geth节点客户端的一些信息。
 
@@ -111,6 +111,7 @@ https://dappnode.com/shop
 ![安装（INSTALL） Core Geth主网](./4.png)
 
 ## 5. 查看安装状态
+
 在下一个界面中，您将看到下载的状态。
 
 ![安装状态](./5.png)
@@ -123,11 +124,11 @@ https://dappnode.com/shop
 
 ![控制面板上的链](./6.png)
 
-## 7. 检查Grafana仪表板状态
+## 7. 检查Grafana控制面板状态
 
-同时，您可能希望查看Grafana仪表板，以查看运行时的节点状态。
+同时，您可能希望查看Grafana控制面板，以查看运行时的节点状态。
 
-要进入Grafana仪表板，请单击左侧菜单中的“软件包”选项卡，然后选择“Dms”。
+要进入Grafana控制面板，请单击左侧菜单中的“软件包”选项卡，然后选择“Dms”。
 
 ![Go to Grafana dashboards.](./7.png)
 
