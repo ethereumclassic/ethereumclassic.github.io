@@ -35,7 +35,7 @@ Because Ethereum Classic is a proof of work blockchain it offers physical finali
 
 ETC provides these guarantees because the proof of work consensus mechanism enables all participating machines to achieve consensus on a single history of transactions in a truly decentralized and permissionless way. 
 
-This enables the full replication of the ledger with the addresses and balances, and at the same time provides a computational barrier to reversing the payments as all the computational work and expenditure of energy would have to be done again to reverse single transactions.
+This enables the full replication of the ledger with the addresses and balances while at the same time providing a computational barrier to the reversal of payments as all of the computational work and expenditure of energy would have to be done again in order to reverse single transactions.
 
 For these reasons, ETC’s proof of work makes it possible to achieve finality with a very high level of security, thus certainty.
 
