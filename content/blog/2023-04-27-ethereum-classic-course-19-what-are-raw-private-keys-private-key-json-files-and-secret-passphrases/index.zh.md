@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Course: 19. What Are Raw Private Keys, Private Key JSON Files, and Secret Passphrases?"
+title: "以太坊经典课程：19. 什么是原始私钥、私钥 JSON 文件和秘密口令？"
 date: 2023-04-27
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,118 +8,116 @@ linkImage: ./etc-pk-pk-mnemonic.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1zMg9FpxEyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-In the last few classes we went over what are private keys, public keys, and addresses (class 17), and the difference between wallets and addresses (class 18).
+在最近几节课中，我们讲解了私钥、公钥和地址（第17课），以及钱包和地址之间的区别（第18课）。
 
-In this class we will go a step further and see how you can store your private keys.
+在本课中，我们将进一步了解如何存储私钥。我们将学习什么是原始私钥、私钥 JSON 文件和秘密口令（也称为助记词短语）。
 
-We will study what are raw private keys, private key JSON files, and secret passphrases, also known as mnemonic phrases.
+![系统的核心是私钥](./1.png)
 
-![Private keys are the core of the system.](./1.png)
+系统的核心是私钥，如图所示。从私钥我们可以派生出公钥（也称为地址），我们的加密资产存放在公共区块链上的这个地址下。
 
-The core of the system is the private key as seen in the image. From the private key we derive the public key, which is also called the address, and under the address we hold our crypto assets on the public blockchain.
+同时，考虑如何保护私钥的安全也非常重要，我们将在这里讨论这个问题。
 
-It’s also important to consider how to keep your private keys secure, so we will touch on this here as well.
+## 什么是原始私钥？
 
-## What Are Raw Private Keys?
+![原始私钥？](./2.png)
 
-![Raw private key.](./2.png)
+如前所述，原始私钥或私钥就像控制区块链上某个地址的秘密密码。您的 ETC 就存放在这个地址下，这个地址是公开的。
 
-As we explained before, a raw private key, or private key, is like a secret password that controls an address on the blockchain. Your ETC are under this address, which is known to the public.
-
-A private key looks more or less like this:
+私钥看起来大致如下：
 
 ```
 36fdbed2213dd215e1c81b4d581697a9f006f24567953ab067677132108e11c8
 ```
 
-The private key is associated, by means of a cryptographic mathematical function, to your address on Ethereum Classic. The address is public and anyone may see it, but the only way to sign transactions and move assets or interact with decentralized applications on the network is through the private key.
+通过加密数学函数，私钥与您在以太坊经典上的地址相关联。地址是公开的，任何人都可以看到它，但是通过私钥是唯一的方式来签署交易、移动资产或与网络上的去中心化应用进行交互。
 
-The “raw” private key is basically the number itself with no extra formatting.
+“原始”私钥基本上就是这个数字本身，没有额外的格式。
 
-## What Are Private Key JSON Files?
+## 什么是私钥 JSON 文件?
 
-![Private key JSON file..](./3.png)
+![私钥 JSON 文件](./3.png)
 
-This was a popular way of generating addresses and private keys for Ethereum Classic and Ethereum in the early days. 
+这是以太坊经典和以太坊早期生成地址和私钥的一种流行方式。
 
-JSON means “JavaScript Object Notation” and is a type of file that is used for machines to communicate with other machines.
+JSON 是“JavaScript 对象表示法”的缩写，是一种用于机器之间通信的文件类型。
 
-Under this format, there is a standard that is used to generate single addresses and private keys on Ethereum Classic and other blockchains.
+在此格式下，有一个标准用于在以太坊经典和其他区块链上生成单个地址和私钥。
 
-Usually, to generate a private key JSON file, one needs to enter a password so the private key is encrypted.
+通常，为了生成私钥 JSON 文件，需要输入密码，以便对私钥进行加密。
 
-The private key JSON file is a more elaborate format for storing private keys.
+私钥 JSON 文件是一种更为复杂的格式，用于存储私钥。
 
-## What Are Secret Passphrases?
+## 什么是秘密短语?
 
-![12 word secret passphrase (do not use this sample as your mnemonic phrase).](./4.png)
+![12词秘密短语 (不要用这个例子作为你的助记短语).](./4.png)
 
-Secret passphrases may be the most popular way of storing raw private keys now a days. 
+近期使用秘密密码短语存储原始私钥可能是最流行的方法。
 
-They are usually sets of 12 to 24 secret words from which, by means of a cryptographic algorithm, your addresses and private keys on the blockchain may be generated.
+通常，秘密密码短语是由12到24个秘密单词组成的，通过密码学算法，您可以在区块链上生成您的地址和私钥。
 
-Secret passphrases, also called mnemonic phrases, are very convenient because with one set of 12 or 24 words you may generate addresses and their corresponding private keys in several blockchains and hold all your assets under them.
+秘密密码短语，也称为记忆短语，非常方便，因为使用12或24个单词集合，您可以在几个区块链上生成地址和其对应的私钥，并在其中保存所有资产。
 
-## How to Keep Your Private Keys Secure
+## 如何保护您的私钥
 
-![Keep your private keys safe.](./5.png)
+![保护您的私钥](./5.png)
 
-With regards to keeping our private keys secure, it is important to know two things from the start:
+在保护我们的私钥方面，从一开始就需要知道两件事：
 
-- If we keep our crypto assets in trusted third parties as centralized exchanges or other financial institutions, then they have control over our assets, not us.
+-  如果我们将加密资产存放在受信任的第三方中心化交易所或其他金融机构中，那么他们会控制我们的资产，而不是我们自己。
 
-- If we keep our crypto assets under our private keys on the blockchain, then we have exclusive control over our assets, nobody else.
+-  如果我们将加密资产存储在区块链上的私钥下，那么我们将独占控制我们的资产，而没有其他人。
 
-Whether you control addresses on the blockchain through raw private keys or secret passphrases, they may be stored in digital or paper form.
+无论是通过原始私钥还是秘密密码短语控制区块链上的地址，它们都可以以数字或纸张形式存储。
 
-It is conventional wisdom in the industry that the best way to store private keys and secret passphrases is by writing them on paper or printing them, making two or three copies, and then storing those paper copies in safe places.
+业内普遍认为，存储私钥和秘密密码短语的最佳方式是将它们写在纸上或打印出来，制作两到三个副本，然后将这些纸张副本存放在安全的地方。
 
-The keystore JSON file is usually stored in digital form, and the raw private keys and secret passphrases may also be stored in digital form.
+密钥存储JSON文件通常以数字形式存储，原始私钥和秘密密码短语也可以以数字形式存储。
 
-In these cases the best way to do it is to store copies in two or three pen drives (a.k.a. thumb drives, USB keys, memory sticks, disc drives, etc.) and to put them in a safe place.
+在这些情况下，最佳的存储方式是在两到三个笔记本电脑、U盘（又名拇指驱动器、USB键、内存棒、磁盘驱动器等）中存储副本，并将它们放在一个安全的地方。
 
-Sometimes, a good setup is to have an old phone or computer and to store these digital copies in such devices.
+有时，一个好的设置是使用旧手机或电脑，并将这些数字副本存储在这些设备中。
 
-The important thing about all these digital copy setups, similar to the concept of hardware wallets, is for your private keys, secret passphrases, or keystore JSON files to be disconnected from the internet, therefore unreachable over cyberspace.
+所有这些数字副本设置中的重要事项，类似于硬件钱包的概念，是使您的私钥、秘密密码短语或密钥存储JSON文件与互联网断开连接，因此在网络上无法访问。
 
-## Do Not Use Cloud Services
+## 不要使用云服务
 
-![Do NOT use these services to store your private keys.](./6.png)
+![不要通过云服务储存私钥](./6.png)
 
-This is a typical mistake by many newbies. 
+这是许多新手常犯的一个错误。
 
-It is imperative for you to NOT store any of your ETC private keys, secret passphrases, or keystore JSON files in cloud services, such as Google Drive, iCloud, Microsoft OneDrive, or Dropbox.
+绝对不要将任何ETC私钥、秘密密码或keystore JSON文件存储在云服务中，比如Google Drive、iCloud、Microsoft OneDrive或Dropbox。
 
-This is because they have access to all your files, even if they are encrypted.
+这是因为他们可以访问您的所有文件，即使它们已加密。
 
-They own the private keys to decrypt all your files that you store with them.
+他们拥有解密您存储在他们那里的所有文件的私钥。
 
-**As an example, following is the text of Dropbox’s documentation:**
+**以下是Dropbox文档的示例：**
 
-*Who can see the stuff in my Dropbox account?*
+*谁可以看到我的Dropbox账户中的东西？*
 
-*Like most major online services, Dropbox personnel will, on rare occasions, need to access users’ file content (1) when legally required to do so; (2) when necessary to ensure that our systems and features are working as designed (e.g., debugging performance issues, making sure that our search functionality is returning relevant results, developing image search functionality, refining content suggestions, etc.); or (3) to enforce our Terms of Service and Acceptable Use Policy. Access to users’ file content is limited to a small number of people.*
+*像大多数主要在线服务一样，Dropbox的工作人员偶尔需要访问用户的文件内容(1)在法律要求这样做时；(2)在必要时，确保我们的系统和功能按设计方式工作(例如，调试性能问题，确保我们的搜索功能返回相关结果，开发图像搜索功能，改进内容建议等)；或者(3)执行我们的服务条款和可接受使用政策。对用户的文件内容的访问仅限于少数人。*
 
-*Link: https://help.dropbox.com/security/file-access*
+*链接: https://help.dropbox.com/security/file-access*
 
-## Do Not Send Them by Email or Text
+## 不要通过电子邮件或短信发送它们
 
-![Do NOT send private keys by email or text.](./7.png)
+![请勿通过电子邮箱或者短信发送私钥](./7.png)
 
-As demonstrated above, all tech companies, small or large, have access to your messages, emails, and information, whether encrypted or not, because, legally, they need to be able to respond to government inquiries and they usually put on their terms of services that they must have access for security and housekeeping reasons.
+正如上面所示，所有的科技公司，无论大小，都可以访问您的信息、邮件和消息，无论它们是否加密，因为在法律上，它们需要能够回应政府的查询，而且通常在服务条款中规定，为了安全和日常操作的原因，它们必须有访问权限。
 
-The only way to distribute or communicate your raw private keys, secret passphrases, or keystore JSON files to others is by transferring the paper copies you hold, making new copies, or transferring pendrives or devices to them physically and directly.
+将您的原始私钥、秘密密码或keystore JSON文件分发或传达给他人的唯一方法是通过传输您持有的纸质副本、制作新副本或将pendrives或设备直接和实际地转移到他们身上。
 
-Never send raw private keys, secret passphrases, or private key JSON files by email or text. Neither through direct messaging or social media private messaging systems such as Twitter DMs or Facebook Messenger.
+永远不要通过电子邮件或短信发送原始私钥、秘密密码或私钥JSON文件。也不要通过直接消息或社交媒体私信系统，例如推特私信或Facebook Messenger。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多ETC相关内容，请访问: https://ethereumclassic.org
