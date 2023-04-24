@@ -69,7 +69,7 @@ This is a great way of reducing the frequently unfair and arbitrary treatment of
 
 ## Social Finality
 
-One of the most egregious fallacies promoted in the blockchain industry is that proof of stake systems have what they call “social consensus” as the security of last resort, and that this community ethics is somehow a better guarantee than physical finality.
+One of the most egregious fallacies promoted in the blockchain industry is that proof of stake systems having what is called “social consensus”, a community ethic, as its security of last resort is somehow a better guarantee than physical finality.
 
 This can’t be further from the truth because both legal and social finality have the same source of enforcement: People and their subjective opinions.
 
