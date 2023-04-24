@@ -39,7 +39,7 @@ This enables the full replication of the ledger with the addresses and balances 
 
 For these reasons, ETC’s proof of work makes it possible to achieve finality with a very high level of security, thus certainty.
 
-This level of security and decentralization guarantees access, possession, and absolute control of ETC inside the blockchain as long as users have their private keys.
+This level of security and decentralization guarantees access, possession, and absolute control of ETC inside the blockchain so long as users have their private keys.
 
 ## Legal Finality
 
