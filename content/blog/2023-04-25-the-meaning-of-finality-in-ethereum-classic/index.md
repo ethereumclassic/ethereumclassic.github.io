@@ -27,7 +27,7 @@ Imagine a chain of many business payments where one in the middle is reversed or
 
 ![Finality broken.](./etc-finality-banner.png)
 
-Finality in the blockchain industry has been the subject of debate, but many confuse the different types of finality, leading some to believe that insecure systems as proof of stake chains are final, when they are really not.
+Finality in the blockchain industry has been the subject of debate, but many confuse the different types of finality leading some to believe that insecure systems as proof of stake chains are final when, in reality, they are not.
 
 ## Physical Finality
 
