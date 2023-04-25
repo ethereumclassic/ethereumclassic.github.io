@@ -49,7 +49,7 @@ Legal finality provides much less certainty than physical finality.
 
 Physical finality is more absolute than legal finality because, regardless of what the law says, whoever controls ETC in an address with their private keys is the only one who may move them.
 
-In traditional systems, the great majority of people have their money in banks, and this money is only debt the banks have with them. The money is not in their possession. If for any reason, there are arbitrary government decisions to reverse transactions through banks or declare national confiscations of funds, those funds are extremely vulnerable and may be removed from their rightful owners.
+In traditional systems, the great majority of people have their money in banks. Actually, this money is a debt the banks have with their depositors. The money is not in their possession. If for any reason there are arbitrary government decisions to reverse transactions through banks or declare national confiscations of funds, those funds are extremely vulnerable and may be removed from their rightful owners.
 
 On blockchains as ETC, whatever the government determines does not change the fact that only the users with the private keys can dispose of their money.
 
