@@ -35,9 +35,9 @@ Both software wallets and hardware wallets are non-custodial wallets that may be
 
 ![Software wallets.](./3.png)
 
-Software Wallets that you install on your phone or computer are typically non-custodial software wallets.
+Software wallets that you install on your phone or computer are typically non-custodial software wallets.
 
-These apps usually give you 12 to 24 words as you secret passphrase so that you may store them in a secure place.
+These apps usually give you 12 to 24 words as your secret passphrase so that you may store them in a secure place.
 
 However, even if the secret passphrase may be secure, the encrypted private keys remain inside your phone or computer in what is sometimes called a “vault file”.
 
