@@ -4,7 +4,7 @@ date: 2023-05-10
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["education"]
-linkImage: ./etc-btc-banner.png
+linkImage: ./etc-btc-table.png
 ---
 
 ---
@@ -14,9 +14,7 @@ linkImage: ./etc-btc-banner.png
 
 ---
 
-In this post we will compare the Ethereum Classic (ETC) and Bitcoin (BTC) monetary policies. 
-
-![ETC and BTC monetary policies.](./etc-btc-banner.png)
+In this post we will compare the Ethereum Classic (ETC) and Bitcoin (BTC) monetary policies.
 
 Bitcoin was the first blockchain ever and currently has the same original monetary policy with no changes since genesis. Ethereum Classic was originally one chain with Ethereum, so it had that system’s monetary policy, which is basically to have none at all as the core developer team has changed it manually many times, and will likely continue doing so.
 
