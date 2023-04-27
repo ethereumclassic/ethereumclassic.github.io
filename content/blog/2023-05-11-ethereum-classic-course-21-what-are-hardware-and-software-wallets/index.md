@@ -69,7 +69,7 @@ Popular software wallet brands that may be used with ETC are:
 
 ## Hardware Wallet Brands
 
-![Hardware wallet brands.](./5.png)
+![Hardware wallet brands.](./6.png)
 
 Popular hardware wallet brands that may be used with ETC are:
 
