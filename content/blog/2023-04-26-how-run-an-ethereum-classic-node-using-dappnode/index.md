@@ -1,5 +1,5 @@
 ---
-title: "How to Run an Ethereum Classic Node Using Dapp Node"
+title: "How to Run an Ethereum Classic Node Using DappNode"
 date: 2023-04-26
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
