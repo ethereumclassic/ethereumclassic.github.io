@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Course: 20. What Are Custodial and Non-custodial Wallets?"
+title: "以太坊经典课程: 20. 什么是托管钱包和非托管钱包？"
 date: 2023-05-04
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,74 +8,71 @@ linkImage: ./etc-course-custody.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0V4UzW3g_xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-![Custody](./1.png)
+![托管](./1.png)
 
-The term custody means the protective care of something. In the context of the blockchain industry, it means the custody of cryptocurrencies, such as Ethereum Classic’s ETC, and other crypto assets.
+“托管”一词意味着对某物的保护性照顾。在区块链行业中，它指的是加密货币（如以太经典的ETC）和其他加密资产的托管。
 
-As we have explained in previous classes, it is all about the private keys. 
+正如我们在之前的课程中所解释的那样，这与私钥有关。
 
-Because cryptocurrencies and crypto assets are held under public addresses on the blockchain, then whoever has possession and control of the corresponding private keys has exclusive custody of anything under those addresses.
+由于加密货币和加密资产存放在区块链上的公共地址下，因此谁拥有对应的私钥，谁就拥有该地址下的所有权和控制权。
 
-To explain the difference between custodial and non-custodial wallets, in the next few sections we will explain how this paradigm works in traditional systems, centralized exchanges, custodial wallets, and non-custodial wallets.
+为了解释托管钱包和非托管钱包之间的区别，在接下来的几个章节中，我们将解释传统系统、中心化交易所、托管钱包和非托管钱包中这一范式的工作原理。
 
-## Custody in Traditional Systems
+## 传统系统中的托管
 
-![Financial institutions control the assets.](./2.png)
+![金融机构控制资产](./2.png)
 
-When using financial institutions as banks or brokers, owners of assets deposit them with the providers, therefore the providers gain custody of them.
+当使用银行或经纪商等金融机构时，资产的所有者将其存入提供者处，因此提供者获得了资产的托管权。
 
-Today, this format is so prevalent that hardly any financial asset, whether currencies, stocks, bonds, mutual funds, commodities, or any other, are held by the owners but by financial providers.
+如今，这种格式是如此普遍，以至于几乎任何金融资产，无论是货币、股票、债券、共同基金、商品还是其他任何资产，都不是由所有者持有，而是由金融提供者持有。
 
-Although we may think that we have free access and control of our financial wealth, this access is permissioned, meaning that financial providers have real possession and control of the assets and they just grant us permission to them under certain conditions.
+尽管我们可能认为我们可以自由访问和控制我们的财富，但这种访问是有条件的，这意味着金融提供者实际拥有资产的所有权和控制权，只是根据特定条件授予我们许可权。
 
-This means that our financial assets are really liabilities of financial institutions, we do not have any control over them. This is what creates the risks of loss and persistent financial crises.
+这意味着我们的金融资产实际上是金融机构的负债，我们对它们没有任何控制权。这就是导致损失和持续的金融危机风险的原因。
 
-## Custody in Centralized Exchanges
+## 中心化交易所的托管
 
-![Centralized exchanges control the assets.](./3.png)
+![中心化交易所控制资产](./3.png)
 
-One of the worst developments in the crypto industry has been the widely popular use of centralized exchanges where people use them as their crypto wallets.
+在这种情况下，尽管我们可能认为我们的资产是安全的，因为我们已经从法币转向了加密货币，但事实上它们和传统系统一样不安全！
 
-In this case, although we may think that our assets are safe because we moved from fiat to crypto, the truth is that they are as unsafe as in the traditional system!
+当我们将我们的加密货币和加密资产保存在中心化交易所内，例如 Coinbase、Binance、Kraken 等等，我们只有来自这些交易所的负债或 I.O.U.。
 
-When we hold our cryptocurrencies and crypto assets inside centralized exchanges as Coinbase, Binance, Kraken and others, we only have a liability, or I.O.U., from those exchanges. 
+我们没有资产的所有权和控制权。他们拥有。
 
-We do not have possession and control of our assets. They do.
+## 托管钱包中的托管
 
-## Custody in Custodial Wallets
+![托管钱包控制资产](./4.png)
 
-![Custodial wallets control the assets.](./4.png)
+许多人都会上当受骗使用托管钱包。
 
-Many fall for the trick of custodial wallets. 
+像 BitGo 和 Blockchain.com 这样的品牌就是托管钱包。
 
-Brands such as BitGo and Blockchain.com are custodial wallets. 
+这意味着他们会在区块链上为您持有加密货币和加密资产。您实际上没有对它们拥有所有权和控制权。这是因为您没有自己地址的私钥，但他们有！
 
-This means they hold your cryptocurrencies and crypto assets for you on the blockchain. You do not actually have possession and control over them. This is because you don’t have the private keys to your addresses, but they do!
+事实上，您拥有他们的应用程序、用户 ID 和密码，或者您使用了两步验证或其他“高度安全”的方法来登录您与他们的帐户，这并不意味着您拥有这些资产。
+非托管钱包的托管方式
 
-The fact that you have their app, a user ID, and a password, or that you used two-factor authentication or other “highly secure” methods to log in to your account with them does not mean you have the assets.
+## 非托管钱包的托管方式
 
-Custodial wallets have exactly the same risks as traditional financial institutions and centralized exchanges.
+![您自己控制资产](./5.png)
 
-## Custody in Non-custodial Wallets
+真正的范式转变是当您将自己的加密货币和加密资产保存在您自己控制并自行备份的地址下时。这样您就拥有了真正的自我托管。
 
-![You control the assets.](./5.png)
+允许您生成自己的私钥并以各种形式存储它们的钱包应用程序称为非托管钱包。
 
-The real paradigm change is when you hold your cryptocurrencies and crypto assets under your own addresses that you control and you have backed up yourself. In this way you have true self custody. 
+一些最受欢迎的非托管钱包品牌包括Metamask、Trust Wallet、Exodus、Ledger和Trezor。
 
-The wallet apps that let your generate your own private keys and store them in various forms are called non-custodial wallets.
-
-Some of the most popular brands of non-custodial wallets are Metamask, Trust Wallet, Exodus, Ledger, and Trezor.
-
-Within the non-custodial wallet paradigm, in the next two classes we will explain what are software and hardware wallets (class 21), and what are hot and cold wallets (class 22). 
+在非托管钱包的范式下，在接下来的两个课程中，我们将解释什么是软件钱包和硬件钱包（第21课），以及什么是热钱包和冷钱包（第22课）。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期内容!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，请访问: https://ethereumclassic.org
