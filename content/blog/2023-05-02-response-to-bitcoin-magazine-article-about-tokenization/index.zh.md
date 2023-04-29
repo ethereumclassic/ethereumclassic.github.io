@@ -1,5 +1,5 @@
 ---
-title: "Response to Bitcoin Magazine Article About Tokenization"
+title: "回应《比特币杂志》（Bitcoin Magazine）关于代币化的文章"
 date: 2023-05-02
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -9,116 +9,118 @@ linkImage: ./etc-btc-magazine.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**欢迎收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZdV9zkJLlb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-On April 6 2023 Bitcoin Magazine published a guest post by Mickey Koss, a West Point graduate with a degree in economics who spent four years in the infantry before transitioning to the Finance Corps.
+2023年4月6日，《比特币杂志》发表了一篇客座文章，作者是米基·科斯（Mickey Koss），他毕业于西点军校，拥有经济学学位，并在步兵部队服役四年后转入财务兵团。
 
-Link: https://bitcoinmagazine.com/culture/dont-tokenize-use-bitcoin
+链接: https://bitcoinmagazine.com/culture/dont-tokenize-use-bitcoin
+
+在这篇文章中，科斯先生反对在区块链上代币化资产，指出它们据称延续了比特币试图解决的金融问题，并强调了代币化资产缺乏安全性的问题。
 
 In the piece, Mr. Koss argued against tokenization of assets on the blockchain, pointing out how they supposedly perpetuate the financial problems that Bitcoin seeks to solve, and highlighted the problem of asset tokenization lack of security.
 
-![Bitcoin Magazine post about tokenzation.](./etc-btc-magazine.png)
+![比特币杂志上有关代币化](./etc-btc-magazine.png)
 
-In this post we are going to respond to this article by arguing in favor of tokenization on the blockchain, explaining its benefits. 
+在本文中，我们将回应这篇文章，支持区块链上的代币化，并解释其好处。
 
-The Bitcoin Magazine opinion editorial has 7 paragraphs, and we will respond to each one below. 
+《比特币杂志》的意见编辑有7段，我们将在下面回应每一段。
 
-### Mr. Koss Wrote:
+### 科斯先生写道：
 
-*“The demand for tokenizing assets like real estate is not a solution to, but rather a symptom of, the problems that bad money perpetuates. Real estate should be reduced to its utility value as a dwelling or place of business, rather than used as a store of value by proxy if we ever hope to solve the growing gap in wealth inequality.”*
+*“像房地产这样的资产进行代币化的需求并不是解决问题的办法，而是坏钱延续问题的症状。房地产应该被降低到其作为住所或商业场所的效用价值，而不是通过代理用作价值储存，如果我们希望解决不断增长的财富不平等问题。”*
 
-### Our response:
+### 我们的回应：
 
-The emergence and growth of truly decentralized proof of work coins with capped supplies such as Bitcoin (BTC) and Ethereum Classic (ETC) will certainly deflate the valuation premiums that many kinds of assets, including real estate, have accrued due to the irresponsible, political, and corrupt management of fiat currencies.
+真正去中心化、供应量有限的工作量证明（PoW）加密货币，如比特币（BTC）和以太坊经典（ETC），的出现和发展，肯定会降低许多种资产（包括房地产）的估值溢价，这是由于不负责任、政治化和腐败的法定货币管理而造成的扭曲。
 
-However, the demand for tokenizing assets has nothing to do with the distortions that the fiat monetary system has created. The tokenization of physical assets external to the blockchain on systems as Ethereum Classic is a change of paradigm of property registry systems.
+然而，对资产进行代币化的需求与法定货币体系所造成的扭曲无关。在以太坊经典等系统中，将外部的实物资产进行代币化，是财产登记系统范式的一种改变。
 
-It is very likely that in the future, all sort of property records, from real estate, motor vehicles, corporate books, to shipping containers in the supply chain will be moved to the blockchain.
+未来很可能所有种类的财产记录，从房地产、汽车、企业账簿，到供应链中的集装箱，都会被移至区块链上。
 
-### Mr. Koss Wrote:
+### 科斯先生写道：
 
-*“Blockworks highlighted this “advancement” in technology without properly addressing the potential side effects that widespread asset tokenization may cause. In the comments section, tokenization is touted as a means for individuals who are unable to purchase a home of their own to participate in the real estate market. But why are houses so expensive in the first place?”*
+*“Blockworks强调了这种技术的“进步”，却没有正确地解决广泛资产tokenization可能引起的潜在副作用。在评论部分，tokenization被吹捧为让无法购买自己房屋的个人参与房地产市场的一种手段。但是，为什么房子首先如此昂贵呢？”*
 
-### Our response:
+### 我们的回应：
 
-Widespread tokenization will happen regardless of side effects because blockchains are permissionless. And, tokenization will happen because they are an upgrade to property systems. In regions such as Latin America, Africa, and even in North America, the lack of security of municipal and state property records have been a source of underdevelopment, theft, and extremely high transactional costs.
+无论副作用如何，普及代币化都会发生，因为区块链是无需许可的。代币化将发生，因为它们是财产系统的升级。在拉丁美洲、非洲乃至北美等地区，市政和国家财产记录的不安全性一直是落后、盗窃和交易成本极高的源头。
 
-With its transparency, speed, and low transactional costs, the blockchain promises to significantly improve property registries, transfers, and thus asset markets worldwide.
+区块链具有透明性、速度和低交易成本的优势，承诺显着改善全球财产登记、转移和资产市场。
 
-Real estate tokenization is not about investment or giving access to the “little guy” to participate. We agree with this assessment. Tokens that represent physical assets are about better title systems, with reduced corruption, theft, and confiscation.
+房地产代币化不是投资或让“小家伙”参与的问题。我们同意这一观点。代表实物资产的代币是关于更好的所有权系统，减少腐败、盗窃和没收。
 
-### Mr. Koss Wrote:
+### 科斯先生写道：
 
-*“[Houses are so expensive in the first place] because they are being used as stores of value, a former function of fiat money that is no longer possible due to decades of fiscal and monetary alchemy that has decimated peoples’ purchasing power.”*
+*“（房子之所以那么贵）是因为它们被用作价值储存，这是前货币职能的一种，由于几十年的财政和货币炼金术已经摧毁了人们的购买力，它已经不再可能。”*
 
-### Our response:
+### 我们的回应：
 
-We agree that houses are expensive in the first place, way higher than their utility value, because of decades of fiscal and monetary alchemy and outright fiat induced corruption. But, this is a problem totally unrelated to the blockchain or where the assets are registered and transferred. 
+我们同意房子之所以那么贵的原因，远远超过其实用价值，是由于几十年的财政和货币炼金术以及公然的政府腐败所致，但这与区块链或资产注册和转移的位置完全无关。
 
-A programmable blockchain as ETC, which is also proof of work and has a fixed monetary policy, is especially capable to take on the task of managing property records. One of the basic problems in impoverished nations are their unreliable registries.
+作为一种可编程的区块链，ETC尤其能够承担管理财产记录的任务，同时具有固定的货币政策和工作量证明。贫穷国家的一个基本问题是他们不可靠的登记机构。
 
-Programmable proof of work blockchains as ETC solve this by providing and incredibly secure and cheap environment to keep those records with a high degree of transparency and thus accountability. This will likely significantly reduce the problems that have haunted many cultures for centuries.
+工作量证明的可编程区块链能够解决这个问题，提供一个非常安全和便宜的环境来保持这些记录，具有高度透明度和因此高度问责性。这可能会显著减少困扰许多文化数百年的问题。
 
-Proof of work is highlighted above because it is the only true consensus mechanism that makes a blockchain truly decentralized, therefore secure.
+上文中强调了工作量证明，因为它是使区块链真正去中心化
 
-### Mr. Koss Wrote:
+### 科斯先生写道：
 
-*“Tokenizing assets like real estate will only make matters worse as crowds shove money into the market, driving prices higher. It becomes a self-fulfilling prophecy. People buy houses because they know the prices will go up, then the prices do go up and more demand comes in to chase the gains. Every investor following their individual incentives puts owning a home further out of reach for the average citizen. This is not a solution.”*
+*“将房地产等资产进行代币化只会让问题变得更糟，因为人们将资金涌入市场，推高房价。这将成为一个自我实现的预言。人们购买房屋是因为他们知道价格会上涨，然后价格确实上涨，更多的需求涌入追逐收益。每个投资者都按照自己的激励行动，让普通公民拥有房屋的难度更大了。这不是一个解决方案。”*
 
-### Our response:
+### 我们的回应：
 
-It is not possible to make matters worse by improving the property records system at the national, provincial and municipal levels. Better property systems make better markets and thus better access and prices to the general public.
+改善国家、省份和市级的房地产记录系统不可能让问题变得更糟。更好的房地产系统会创造更好的市场，从而为广大公众提供更好的获得资产的机会和更合理的价格。
 
-Indeed, tokenization will likely accelerate the price deflation of real estate assets and homes. This will not only happen because people will save in BTC and ETC, draining home premiums, but because the uncertainty of legal property itself will be removed.
+实际上，代币化可能会加速房地产资产和房屋价格的通缩。这不仅是因为人们将比特币和以太经典中的资金进行储蓄，从而降低房屋溢价，还因为合法财产的不确定性将被消除。
 
-That people are now experimenting with the technology, playing with NFTs, speculating, scamming, and losing money is just the prelude and the training wheels phase of the system. All these activities are only serving as a learning process and showing the abilities of the technology. 
+现在人们正在尝试这项技术，玩弄NFT、投机、欺诈和亏损只是这个系统的前奏和起步阶段。所有这些活动只是为了学习过程，展示技术的能力。
 
-### Mr. Koss Wrote:
+### 科斯先生写道：
 
-*“Furthermore, a “blockchain” is simply a ledger, or record of who owns what. With Ethereum especially, there is no meaningful link to the real world which would allow for native contract enforcement, preventing rug pulls of these token holders. The whole system ultimately relies upon legacy law enforcement and the judicial system to uphold the property rights of these investors — a system that appears to be increasingly hostile in enforcement actions against the crypto industry writ large.”*
+*“此外，“区块链”只是一个分类账或记录谁拥有什么的系统。尤其是在以太坊上，没有实质性的联系能够允许本地合同执行，防止这些代币持有者被拉黑。整个系统最终依赖于传统的执法机构和司法系统来维护这些投资者的财产权——这一系统似乎在针对加密行业的执法行动上越来越敌视。”*
 
-### Our response:
+### 我们的回应：
 
-Exactly! A programmable blockchain is a ledger with a record of who owns what, but in the case of ETC (not Ethereum), incredibly secure. 
+没错！可编程区块链是一个记录谁拥有什么的账本，但在ETC（而不是以太坊）的情况下，非常安全。
 
-There is no meaningful link between current systems and physical assets either! We would argue the current systems are even less linked than if assets were represented on the blockchain.
+现有系统和实物资产之间也没有实质性的联系！我们认为，当前系统的联系甚至比资产在区块链上表示的联系还要弱。
 
-Yes, the whole system will always be dependent on laws and their enforcement. This will never be delinked even for onchain assets as BTC and ETC. You may have 1 BTC or 100 ETC in the account you control through your private key, but that does not mean that the asset is your property. Legal property is not the same as physical access and control. The latter is what blockchains guarantee, not the former. 
+是的，整个系统始终取决于法律及其执行。即使对于像BTC和ETC这样的在链上资产，这种联系也永远不会断开。您可能通过私钥控制的账户拥有1 BTC或100 ETC，但这并不意味着资产是您的财产。法律财产不同于实物控制。后者是区块链所保证的，而不是前者。
 
-The law will eventually adapt and futile resistance will wither.
+法律最终会适应，徒劳的抵抗会消失。
 
-### Mr. Koss Wrote:
+### 科斯先生写道：
 
-*“Bitcoin adoption is fundamentally different, a fact that crypto folks seem to misunderstand completely. Rather than mindlessly tokenizing assets, Bitcoin seeks to fix the monetary issues that drive a desire to do so in the first place. By serving as an actual store of value, bitcoin will drain the monetary premium that real estate has accrued over the past decades due to the broken monetary system. Under a bitcoin standard, housing will ultimately collapse to its utility value, making houses affordable once more to the everyday citizen.”*
+*“比特币的采用方式有根本不同，这是加密人士似乎完全误解的事实。比起毫无头绪地将资产进行代币化，比特币旨在解决首先驱动这种渴望的货币问题。通过作为实际价值存储，比特币将消耗由于破碎的货币系统而导致的房地产所积累的货币溢价。在比特币标准下，房屋最终将崩溃到其效用价值，使房屋对普通公民再次实惠。”*
 
-### Our response:
+### 我们的回应：
 
-Mindlessly tokenizing any assets for short term speculation is silly, but the real benefits of transferring and legally recognizing property records on truly secure blockchains will be great for society. The same guarantees that BTC and ETC bring to their native currencies will be enjoyed by these property systems. 
+盲目地将任何资产代币化以进行短期投机是愚蠢的，但将财产记录转移和合法认证到真正安全的区块链上将对社会带来巨大的好处。 BTC和ETC为其原生货币带来的保障将适用于这些财产系统。
 
-That Bitcoin and Ethereum Classic will be used as sound money and as stores of value will definitely drain the premiums of all other assets, but valuation is a different concept than property registration and transfer. Proof of work blockchains provide a new set guarantees for property in general, including real estate.
+比特币和以太坊经典将被用作坚实的货币和价值存储，肯定会消耗所有其他资产的溢价，但估值是与财产登记和转让不同的概念。工作量证明区块链为财产提供了一组新的保障，包括房地产。
 
-### Mr. Koss Wrote:
+### 科斯先生写道：
 
-*“Tokenization is just another perpetuation of the current system in a faux peer-to-peer wrapper, disguised as financial innovation. Don’t let the new shiny thing distract you from what’s broken. Fix the money, and all of these things become meaningless.”*
+*“代币化只是将当前系统包装成一个伪点对点形式的另一种延续，伪装成金融创新。不要让新的闪亮物品分散你的注意力，而忽视了存在的问题。修复货币，所有这些东西都将变得毫无意义。”*
 
-### Our response:
+### 我们的回应：
 
-We agree that there is no innovation in moving property records to a blockchain, just like sound money is no innovation in itself as Bitcoin is an imitation of gold in the real world.
+我们同意将财产记录移至区块链并不是创新，就像比特币本身并不是创新一样，它是现实世界中黄金的模仿品。
 
-The only two innovations that the blockchain industry have brought to the world are:
+区块链行业为世界带来的仅有的两个创新是：
 
-- Achieving consensus on the state of the property ledger on a global scale in a totally decentralized way through proof of work.
+- 通过工作证明在全球范围内以完全去中心化的方式达成财产分类帐状态的共识。
 
-- Making the ledger programmable with smart contracts, thus enabling a myriad of applications inside the secure environment of the blockchain.
+- 利用智能合约使账簿可编程，从而在区块链的安全环境内实现无数应用。
 
-Due to the above two innovations, the money will be fixed, distorted asset valuations will be solved, and amazing property registries will be widely recognized and used. 
+由于上述两个创新，货币将得到修复，扭曲的资产估值将得到解决，惊人的财产登记将被广泛认可和使用。
 
 ---
 
-**Thank you for reading this article!**
+**感谢阅读本文!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关 ETC 的信息，请访问：https://ethereumclassic.org
