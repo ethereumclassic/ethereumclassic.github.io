@@ -21,8 +21,6 @@ linkImage: ./etc-btc-magazine.png
 
 在这篇文章中，科斯先生反对在区块链上代币化资产，指出它们据称延续了比特币试图解决的金融问题，并强调了代币化资产缺乏安全性的问题。
 
-In the piece, Mr. Koss argued against tokenization of assets on the blockchain, pointing out how they supposedly perpetuate the financial problems that Bitcoin seeks to solve, and highlighted the problem of asset tokenization lack of security.
-
 ![比特币杂志上有关代币化](./etc-btc-magazine.png)
 
 在本文中，我们将回应这篇文章，支持区块链上的代币化，并解释其好处。
