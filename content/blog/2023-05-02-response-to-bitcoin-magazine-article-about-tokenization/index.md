@@ -87,7 +87,7 @@ Exactly! A programmable blockchain is a ledger with a record of who owns what, b
 
 There is no meaningful link between current systems and physical assets either! We would argue the current systems are even less linked than if assets were represented on the blockchain.
 
-Yes, the whole system will always be dependent on laws and their enforcement. This will never be delinked even for onchain assets as BTC and ETC. You may have 1 BTC or 100 ETC in the account you control through your private key, but that does not mean that the asset is your property. Legal property is not the same as physical access and control. The latter is what blockchains guarantee, not the former. 
+Yes, the whole system will always be dependent on laws and their enforcement. This will never be delinked even for on-chain assets such as BTC and ETC. You may have 1 BTC or 100 ETC in the account you control through your private key, but that does not mean that the asset is your property. Legal property is not the same as physical access and control. The latter is what blockchains guarantee, not the former. 
 
 The law will eventually adapt and futile resistance will wither.
 
