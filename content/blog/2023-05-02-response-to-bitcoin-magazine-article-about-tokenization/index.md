@@ -99,7 +99,7 @@ The law will eventually adapt and futile resistance will wither.
 
 Mindlessly tokenizing any assets for short term speculation is silly, but the real benefits of transferring and legally recognizing property records on truly secure blockchains will be great for society. The same guarantees that BTC and ETC bring to their native currencies will be enjoyed by these property systems. 
 
-That Bitcoin and Ethereum Classic will be used as sound money and as stores of value will definitely drain the premiums of all other assets, but valuation is a different concept than property registration and transfer. Proof of work blockchains provide a new set guarantees for property in general, including real estate.
+That Bitcoin and Ethereum Classic will be used as sound money and as stores of value will definitely drain the premiums of all other assets, but valuation is a different concept than property registration and transfer. Proof of work blockchains provide a new set of guarantees for property in general, including real estate.
 
 ### Mr. Koss Wrote:
 
