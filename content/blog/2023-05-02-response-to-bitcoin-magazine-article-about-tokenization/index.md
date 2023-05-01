@@ -61,7 +61,7 @@ We agree that houses are expensive in the first place, way higher than their uti
 
 A programmable blockchain as ETC, which is also proof of work and has a fixed monetary policy, is especially capable to take on the task of managing property records. One of the basic problems in impoverished nations are their unreliable registries.
 
-Programmable proof of work blockchains as ETC solve this by providing and incredibly secure and cheap environment to keep those records with a high degree of transparency and thus accountability. This will likely significantly reduce the problems that have haunted many cultures for centuries.
+Programmable proof of work blockchains such as ETC solve this by providing an incredibly secure and cheap environment to keep those records with a high degree of transparency and thus accountability. This will likely significantly reduce the problems that have haunted many cultures for centuries.
 
 Proof of work is highlighted above because it is the only true consensus mechanism that makes a blockchain truly decentralized, therefore secure.
 
