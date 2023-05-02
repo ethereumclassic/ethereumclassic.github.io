@@ -37,7 +37,7 @@ The emergence and growth of truly decentralized proof of work coins with capped 
 
 However, the demand for tokenizing assets has nothing to do with the distortions that the fiat monetary system has created. The tokenization of physical assets external to the blockchain on systems as Ethereum Classic is a change of paradigm of property registry systems.
 
-It is very likely that in the future, all sort of property records, from real estate, motor vehicles, corporate books, to shipping containers in the supply chain will be moved to the blockchain.
+It is very likely that in the future, all sorts of property records, from real estate, motor vehicles, corporate books, to shipping containers in the supply chain, will be moved to the blockchain.
 
 ### Mr. Koss Wrote:
 
