@@ -14,7 +14,7 @@ linkImage: ./etc-attackable-banner.png
 
 ---
 
-![ETC must be attackable.](!/etc-attackable-banner.ong)
+![ETC must be attackable.](!/etc-attackable-banner.png)
 
 ## How Do Blockchains Work?
 
