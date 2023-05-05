@@ -68,7 +68,7 @@ Custodial wallets have exactly the same risks as traditional financial instituti
 
 The real paradigm change is when you hold your cryptocurrencies and crypto assets under your own addresses that you control and you have backed up yourself. In this way you have true self custody. 
 
-The wallet apps that let your generate your own private keys and store them in various forms are called non-custodial wallets.
+The wallet apps that let you generate your own private keys and store them in various forms are called non-custodial wallets.
 
 Some of the most popular brands of non-custodial wallets are Metamask, Trust Wallet, Exodus, Ledger, and Trezor.
 
