@@ -70,6 +70,8 @@ As with hardware wallets, the best way to use paper wallets is to receive crypto
 
 ## Cold and Hot Wallet Setups
 
+![Various hot and cold setups.](./6.png)
+
 We are all different and have different preferences and realities, so we may have different ways of setting up cold and hot wallets. It is all about the security vs convenience tradeoff. Following, we present four frequently used setup models.
 
 **Cold Hard Wallet + Centralized Exchange**
