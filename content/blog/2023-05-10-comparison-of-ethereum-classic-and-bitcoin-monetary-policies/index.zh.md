@@ -22,7 +22,7 @@ linkImage: ./etc-btc-table.png
 
 在下表中，我们将比较两个区块链的货币政策，并在以下部分中解释表中的每个特性。
 
-![ETC and BTC monetary policies compared.](./etc-btc-table.png)
+![ETC和BTC货币政策比对](./etc-btc-table-zh.png)
 
 ## 数字黄金
 
