@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Course: 22. What Are Hot and Cold Wallets?"
+title: "以太坊经典课程: 22. 什么是冷钱包和热钱包?"
 date: 2023-05-18
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,92 +8,93 @@ linkImage: ./etc-course-22.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6pwLR-0H3Jw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-![Hot and cold wallets.](./1.png)
+![冷钱包和热钱包](./1.png)
 
-To learn how to manage our crypto assets, in the previous classes we learned what are private keys, public keys, and addresses (class 17), the difference between wallets and addresses (class 18), what are raw private keys, private key JSON files, and secret passphrases (class 19), and what are custodial and non-custodial wallets (class 20).
 
-To close this segment in the Ethereum Classic course about crypto asset and private key management, we will explain the last important concept: hot vs cold wallets.
+为了学习如何管理我们的加密资产，在之前的课程中，我们学习了什么是私钥、公钥和地址（第17课），钱包和地址的区别（第18课），什么是原始私钥、私钥JSON文件和秘密密码（第19课），以及什么是托管钱包和非托管钱包（第20课）。
 
-The previous classes dealt with the different formats available to keep our crypto assets secure, this class will be more about how to find a balance between security and convenience.
+为了结束以太坊经典课程中有关加密资产和私钥管理的部分，我们将解释最后一个重要概念：热钱包与冷钱包。
 
-The whole point of the blockchain industry is for you to have control of your wealth, however self custody implies knowing the risks and implications of the hot and cold wallet setups.
+之前的课程涉及了不同格式的使用，以保护我们的加密资产安全，而本节课程将更多地介绍如何在安全和便利之间找到平衡。
 
-## Hot Wallets
+整个区块链行业的目的是让您掌控自己的财富，但自我托管意味着了解热钱包和冷钱包设置的风险和影响。
 
-![Hot wallets.](./2.png)
+## 热钱包
 
-The definition of a hot wallet may be that it is a non-custodial wallet where the private keys are inside the app which is installed inside a phone or computer for daily use.
+![热钱包](./2.png)
 
-In other words, the hot wallet is in your phone or computer and you can open it and send transactions at will with no other steps or hurdles.
+热钱包的定义可能是一种非托管钱包，其中私钥存储在安装在手机或计算机上供日常使用的应用程序中。
 
-This is the most convenient way of holding your crypto because it is readily accessible and easy to use. However, the problem is that this easy access also makes it easier for hackers or malicious players who may steal your phone or computer or even use them while you are away from your desk or distracted to gain access and steal your crypto.
+换句话说，热钱包在您的手机或计算机中，您可以随意打开它并发送交易，无需其他步骤或障碍。
 
-The typical hot wallet setup is to have all your ETC on a Metamask wallet on your phone, for example.
+这是持有您的加密货币最便捷的方式，因为它可以随时访问和使用。然而，问题在于这种便利的访问方式也使黑客或恶意玩家更容易窃取您的手机或计算机，甚至在您离开桌子或注意力不集中时使用它们来获取访问权限并窃取您的加密货币。
 
-## Cold Wallets
+典型的热钱包设置是将您的所有ETC存储在手机上的Metamask小狐狸钱包中。
 
-![Cold wallets.](./3.png)
+## 冷钱包
 
-The key of cold wallets, similar to but not exactly the same as hardware wallets, is to separate the private keys from the devices that we employ for daily use.
+![冷钱包](./3.png)
 
-When you have a wallet app to see your crypto positions and prices, but you have the private keys segregated in another place, then it doesn’t matter whether you get hacked, lose your phone or computer, they are stolen, or if someone gains access while you are distracted. It is impossible to move ETC or any crypto asset if the private keys are not present to sign transactions.
+冷钱包的关键，类似但并不完全相同于硬件钱包，是将私钥与我们日常使用的设备分离。
 
-The other key of cold wallets is that the private keys (or secret passphrases or private key JSON files) must be in places where they are never connected to the internet and they must never be used.
+当您有一个钱包应用程序用于查看您的加密货币持仓和价格，但您将私钥隔离在另一个地方时，无论您是否被黑客攻击、丢失手机或电脑、它们被盗或者有人在您分心的时候获得了访问权限，都无法移动ETC或任何加密货币资产，因为私钥不在那里签署交易。
 
-This means that a typical cold wallet is and address where you only received crypto and hardly ever send any.
+冷钱包的另一个关键是，私钥（或秘密密码或私钥JSON文件）必须放在永远不连接到互联网的地方，并且永远不得使用。
 
-The security guarantees of the above setup is that it will be impossible for hackers to gain access to your private keys over the internet and that no metadata of your transactions is ever transmitted to the blockchain.
+这意味着典型的冷钱包是一个只接收加密货币，几乎不会发送任何加密货币的地址。
 
-## Hardware Wallets Are Not Necessarily Cold Wallets
+上述设置的安全保证是，黑客不可能通过互联网访问您的私钥，并且您的交易元数据永远不会传输到区块链上。
 
-![Hardware hot and cold wallets.](./4.png)
+## 硬件钱包并不一定是冷钱包
 
-We said before that a cold wallet is not exactly the same as a hardware wallet because if a hardware wallet is used all the time to receive and send ETC and other crypto assets, then it is constantly being exposed to risk, frequently connected to the internet, and sending transactions with their metadata all the time.
+![硬件钱包并不一定是冷钱包](./4.png)
 
-Hardware wallets are, indeed, excellent products to use as cold wallets because they are, by design, created to be disconnected from the internet, but if they become a tool for frequent use, for example at businesses, then they may easily fall under the definition of hot wallets.  
+我们之前说过，冷钱包并不完全等同于硬件钱包，因为如果硬件钱包经常用于接收和发送ETC和其他加密货币资产，那么它就会不断面临风险，频繁连接到互联网，并且一直发送具有元数据的交易。
 
-## Paper Wallets Are Not Necessarily Cold Wallets
+硬件钱包确实是作为冷钱包使用的绝佳产品，因为它们的设计是为了断开与互联网的连接，但如果它们成为经常使用的工具，例如在企业中使用，那么它们很容易满足热钱包的定义。
 
-![Paper hot and cold wallets.](./5.png)
+## 纸钱包不一定是冷钱包
 
-The conventional wisdom in the blockchain industry is that the best way to keep private keys and secret passphrases secure is to print them on paper and to store them in safe places. This wisdom is correct and we recommend this setup for the majority of cases. 
+![纸钱包不一定是冷钱包](./5.png)
 
-However, the same problem may be true for paper wallets as for hardware wallets. If paper wallets end up being used, through QR codes, to frequently receive and send ETC and other crypto assets, then they may easily fall under the definition of hot wallets because they are frequently exposed to risk.
+区块链行业的传统智慧是将私钥和私钥密码打印在纸上，并将其存储在安全的地方，这种智慧是正确的，我们推荐这种设置来保护私钥和私钥密码。
 
-As with hardware wallets, the best way to use paper wallets is to receive crypto in them, to hardly ever send any, and to put them away in safe places for the long term.
+然而，纸钱包和硬件钱包面临的问题可能是相同的。如果通过二维码，纸钱包经常用于接收和发送ETC和其他加密资产，那么它们可能很容易被定义为热钱包，因为它们经常面临风险。
 
-## Cold and Hot Wallet Setups
+与硬件钱包一样，最好使用纸钱包是将加密货币接收到其中，尽可能不发送任何交易，并将其放置在安全的地方长期保管。
 
-![Various hot and cold setups.](./6.png)
+## 冷钱包和热钱包设置
 
-We are all different and have different preferences and realities, so we may have different ways of setting up cold and hot wallets. It is all about the security vs convenience tradeoff. Following, we present four frequently used setup models.
+![不同冷钱包和热钱包设置](./6.png)
 
-**Cold Hard Wallet + Centralized Exchange**
+我们每个人都有不同的喜好和现实情况，因此我们可能有不同的设置冷钱包和热钱包的方式。这都是关于安全与便利之间的权衡。以下是四种常用的设置模型。
 
-Because the majority of people buy crypto in centralized exchanges, they have the convenience of having the connections to their bank accounts and may have other perks such as debit cards. 
+**冷硬件钱包+中心化交易所**
 
-In this case, what many do is that they have a hardware wallet where they send the majority of their investments in crypto, and leave a small portion in their centralized exchange accounts for daily use, payments, etc.
+由于大多数人在中心化交易所购买加密货币，他们具有将银行账户与加密货币连接起来的便利，并可能拥有其他福利，例如借记卡。
 
-**Cold Hardware Wallet + Hot Software Wallet**
+在这种情况下，许多人会使用硬件钱包将大部分的加密投资发送到其中，并将一小部分留在他们的中心化交易所帐户中供日常使用、支付等。
 
-Another setup that many use is to have a hot wallet in their phone, such as MetaMask or Trust Wallet, or on their computer, such as Exodus or Emerald, and then move the majority of their crypto to a hardware wallet, such as Ledger or Trezor. In this way they may have some crypto for easy access and daily use, but the majority is safe in a cold hardware wallet.
+**冷硬件钱包 + 热软件钱包**
 
-**Cold Software Wallet on an Old Phone or Computer**
+许多人使用的另一种设置是在他们的手机上，例如 MetaMask 或 Trust Wallet，或在他们的计算机上，例如 Exodus 或 Emerald 中拥有热钱包，然后将大部分加密货币转移到硬件钱包中，例如 Ledger 或 Trezor。这样，他们可以轻松访问并日常使用一些加密货币，但大部分资产则安全地保存在冷硬件钱包中。
 
-If you don’t wish to buy hardware wallets, you may get an old phone or computer that you seldom connect to the internet and install a software wallet app to use as a cold wallet. Then you may move the majority of your crypto there and keep the rest in a hot wallet.
+**冷软件钱包放在旧手机或电脑上**
 
-**Paper Wallet + Software Wallet**
+如果你不想购买硬件钱包，可以使用一部很少连接到互联网的旧手机或电脑，并安装一个软件钱包应用程序用作冷钱包。然后，你可以将大部分加密货币移动到那里，并将其余部分保留在热钱包中。
 
-Finally, as with a cold hardware wallet, you may have a hot wallet in your phone, such as MetaMask or Trust Wallet, or on your computer, such as Exodus or Emerald, and then move the majority of your crypto to paper wallets. In this way you may have some crypto for easy access and daily use in the software wallet, but the majority is safe in cold paper wallets.
+**纸质钱包 + 软件钱包**
+
+最后，就像使用冷硬件钱包一样，你可以在你的手机上，例如 MetaMask 或 Trust Wallet，或在你的计算机上，例如 Exodus 或 Emerald 中拥有热钱包，然后将大部分加密货币转移到纸质钱包中。这样，你可以在软件钱包中轻松访问并日常使用一些加密货币，但大部分则安全地保存在冷纸质钱包中。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC内容，请访问: https://ethereumclassic.org
