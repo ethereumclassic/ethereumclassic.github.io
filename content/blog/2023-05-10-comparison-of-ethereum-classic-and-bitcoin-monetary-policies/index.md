@@ -18,7 +18,7 @@ In this post we will compare the Ethereum Classic (ETC) and Bitcoin (BTC) moneta
 
 Bitcoin was the first blockchain ever and currently has the same original monetary policy with no changes since genesis. Ethereum Classic was originally one chain with Ethereum, so it had that system’s monetary policy, which is basically to have none at all as the core developer team has changed it manually many times, and will likely continue doing so.
 
-When Ethereum (ETH) forked away from ETC in 2016, the Ethereum Classic core developer team decided to establish a monetary policy as similar as possible as that of Bitcoin. 
+When Ethereum (ETH) forked away from ETC in 2016, the Ethereum Classic core developer team decided to establish a monetary policy as similar as possible to that of Bitcoin. 
 
 In the table below we compare both blockchains’ monetary policies and in the following sections we will explain each feature in the table.
 
