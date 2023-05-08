@@ -48,7 +48,7 @@ Both ETC and BTC have a capped supply of their coins. This means that the total 
 
 Given the frequency of payments to miners, the number of coins issued per block, and its discount schedule, Bitcoin will have a maximum supply of 21,000,000 BTC.
 
-Given Ethereum Classic’s frequency of payments to miners, the number of coins it issues per block, and its discount schedule, it will have a maximum supply of ETC of 210,700,000.
+Given Ethereum Classic’s frequency of payments to miners, the number of coins it issues per block, and its discount schedule, there will be a maximum supply of ETC numbering 210,700,000.
 
 Note that Ethereum Classic’s maximum supply is similar to Bitcoin’s but 10 times higher. This was done purposefully to associate both cryptocurrencies reputationally and to make it easy for the market to understand ETC’s schedule.
 
