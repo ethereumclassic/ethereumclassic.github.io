@@ -58,7 +58,7 @@ Ethereum Classic’s block time is 13 seconds per block and Bitcoin’s block ti
 
 This means that ETC miners create 6,646 blocks per day and BTC miners create 144 blocks in the same period.
 
-The block time of a blockchain is important because it establishes how fast the coins will be created, thus regulates the supply. 
+The block time of a blockchain is important because it establishes how fast the coins will be created, thus regulating the supply. 
 
 By modulating the block times and the number of coins created per block then a blockchain can control the monetary policy in time and supply levels. 
 
