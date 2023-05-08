@@ -80,7 +80,7 @@ Bitcoin’s discount per era is 50%. This means that since genesis, BTC has paid
 
 ## Pre-Mine
 
-Because Ethereum Classic and Ethereum were one single project since the beginning, and the project started with a crowd sale that resulted in an initial issuance, or what is called a “pre-mine”, then both ETC and ETH have a pre-mine stock of coins that were created at genesis block.
+Because Ethereum Classic and Ethereum were once a single project that started with the crowd sale of an initial issuance of coins called a “pre-mine”, both ETC and ETH have a pre-mined stock of coins that were created at the genesis block.
 
 ETC’s premine stock is 72,000,000 ETC of the current 140,600,000 supply number.
 
