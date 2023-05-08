@@ -44,7 +44,7 @@ As said before, ETC started with no monetary policy other than a fixed payment p
 
 ## Capped Supply
 
-Both ETC and BTC have a capped supply of their coins. This means that it’s known what is the total amount that will ever exist for each blockchain.
+Both ETC and BTC have a capped supply of their coins. This means that the total number of coins that will ever exist for each blockchain is known.
 
 Given the frequency of payments to miners, the number of coins issued per block, and its discount schedule, Bitcoin will have a maximum supply of 21,000,000 BTC.
 
