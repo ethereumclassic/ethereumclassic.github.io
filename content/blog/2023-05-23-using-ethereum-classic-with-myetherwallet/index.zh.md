@@ -3,7 +3,7 @@ title: "Using Ethereum Classic With MyEtherWallet"
 date: 2023-05-23
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["guide"]
+tags: ["series", "guide"]
 linkImage: ./banner.png
 ---
 
