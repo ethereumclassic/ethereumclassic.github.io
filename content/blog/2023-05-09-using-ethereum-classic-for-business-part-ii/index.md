@@ -14,11 +14,11 @@ linkImage: ./etc-business-ii.png
 
 ---
 
-In our previous post we explained what interesting tools and features on ETC may be used for business. 
+In our [previous post](https://ethereumclassic.org/blog/2023-05-03-using-ethereum-classic-for-business-part-i) we explained what interesting tools and features on ETC may be used for business. 
 
 ![ETC for business.](./etc-business-ii.png)
 
-We described eight of these use cases including regular payments using providers such as NOWpayments, international payments due to ETC’s secure crossborder capability, the use as treasury reserves due to the cryptocurrency’s soundness, that it may be used for dapps that provide useful services, businesses may migrate their existing dapps to ETC, all sorts of contracts from corporate to commercial may be created on it, to use different accounts for different purposes, and that all this may be managed with multi-signature setups for enhanced security. 
+We described eight of these use cases including regular payments using providers such as [NOWpayments](https://nowpayments.io/supported-coins/ethereum-classic-payments), international payments due to ETC’s secure crossborder capability, the use as treasury reserves due to the cryptocurrency’s soundness, that it may be used for dapps that provide useful services, businesses may migrate their existing dapps to ETC, all sorts of contracts from corporate to commercial may be created on it, to use different accounts for different purposes, and that all this may be managed with multi-signature setups for enhanced security. 
 
 In this post we will give some examples of types of businesses who may use ETC using the tools and features mentioned above.
 
