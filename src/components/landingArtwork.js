@@ -6,6 +6,9 @@ import { useIntervalWhen } from "rooks";
 
 import TwContainer from "./twContainer";
 import { ParallaxProvider, Parallax } from "react-scroll-parallax";
+import Icon from "./icon";
+import styled from "@emotion/styled";
+import asanoha from "../images/asanoha.svg";
 
 function RandomWords({ words }) {
   const shuffled = words.slice(0, 1).concat(shuffle(words.slice(1)));
@@ -13,17 +16,17 @@ function RandomWords({ words }) {
   useIntervalWhen(() => {
     setState({ arr, i: i === arr.length - 1 ? 0 : i + 1 });
   }, 800);
-  return <span tw="whitespace-nowrap light:text-black">{arr[i]} </span>;
+  return <span tw="whitespace-nowrap text-green-300">{arr[i]} </span>;
 }
 
 function Text({ text, randomWords }) {
   return (
-    <div tw="flex flex-col md:text-left text-center font-display tracking-wider font-bold text-[6vw] md:text-[4vw] lg:text-5xl lg:leading-normal text-primary-lightest dark:text-primary-darkest">
+    <div tw="flex flex-col md:text-left text-center font-display tracking-wider font-bold text-[6vw] md:text-[4vw] lg:text-6xl lg:leading-normal text-primary-lightest">
       {text.split("%%").map((str) =>
         str === "$$" ? (
           <RandomWords key={str} words={Object.values(randomWords)} />
         ) : (
-          <span key={str} tw="whitespace-nowrap text-primary-neutral">
+          <span key={str} tw="whitespace-nowrap text-white">
             {str.trim()}{" "}
           </span>
         )
@@ -272,7 +275,52 @@ function LandingArtworkInner({ i18n }) {
   );
 }
 
+// const FadingBackgroundDiv = styled.div`
+//   ${tw`relative w-full h-full overflow-hidden`}
+//   &:before {
+//     content: "";
+//     ${tw`absolute w-full h-full`}
+//     background-image: linear-gradient(to bottom, rgba(255,0,0,0.5), rgba(0,255,0,0.5)), url('${asanoha}');
+//     background-repeat: repeat;
+//     mask-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.9));
+//     -webkit-mask-image: linear-gradient(
+//       to top,
+//       rgba(0, 0, 0, 0),
+//       rgba(0, 0, 0, 0.9)
+//     );
+//   }
+// `;
+
+const FadingBackgroundDiv = styled.div`
+  ${tw`w-full h-full overflow-hidden inset-0 absolute`}
+  &:after {
+    content: "";
+    ${tw`absolute w-full h-full`}
+    background-image: linear-gradient(to bottom, rgba(74, 222, 128, 0.08), rgba(74, 222, 128, 0.01));
+    mask-image: url("${asanoha}");
+    mask-repeat: repeat;
+    -webkit-mask-image: url("${asanoha}");
+    -webkit-mask-repeat: repeat;
+  }
+`;
+
 export default function LandingArtwork({ i18n }) {
+  return (
+    <div tw="h-96 sm:h-[44rem] md:h-[34rem] relative bg-green-900 overflow-hidden shadow-[inset_0_-2px_4px_rgba(0,0,0,0.6)]">
+      <FadingBackgroundDiv />
+      <div tw="absolute w-full h-full">
+        <TwContainer tw="h-full flex items-center z-10">
+          {/* <div tw="text-6xl">Ethereum Classic</div> */}
+          <div className="text-center md:text-right">
+            <Icon tw="h-[40rem] -my-40 mx-24 text-green-400" icon="etc" />
+          </div>
+          <div>
+            <Text {...i18n} />
+          </div>
+        </TwContainer>
+      </div>
+    </div>
+  );
   return (
     <ParallaxProvider>
       <LandingArtworkInner {...{ i18n }} />
