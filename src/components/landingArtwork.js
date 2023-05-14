@@ -6,7 +6,7 @@ import Icon from "./icon";
 import styled from "@emotion/styled";
 import asanoha from "../images/asanoha.svg";
 
-function RandomWords({ words }) {
+function RandomWords({ words, ...props }) {
   const typeSpeed = 80;
   const deleteSpeed = 18;
   const pause = 600;
@@ -47,7 +47,7 @@ function RandomWords({ words }) {
   }, [isDeleting, loopNum, text, typingSpeed, words]);
 
   return (
-    <span tw="whitespace-nowrap text-green-300 font-mono">
+    <span tw="whitespace-nowrap" {...props}>
       {text || <>&nbsp;</>}
     </span>
   );
@@ -61,12 +61,12 @@ function Text({ text, randomWords, ...rest }) {
           <RandomWords
             key={str}
             words={Object.values(randomWords)}
-            tw="text-green-300 font-mono"
+            tw="text-green-700 dark:text-green-300 font-mono"
           />
         ) : (
           <span
             key={str}
-            tw="whitespace-nowrap font-display tracking-widest text-white font-thin"
+            tw="whitespace-nowrap font-display tracking-widest font-thin"
           >
             {str.trim()}{" "}
           </span>
@@ -77,35 +77,32 @@ function Text({ text, randomWords, ...rest }) {
 }
 
 const Pattern = styled.div`
-  ${tw`w-full h-full overflow-hidden inset-0 absolute`}
-  &:after {
-    content: "";
-    ${tw`absolute w-full h-full`}
-    background-image: linear-gradient(to top left, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.05));
-    mask-image: url("${asanoha}");
-    mask-repeat: repeat;
-    -webkit-mask-image: url("${asanoha}");
-    -webkit-mask-repeat: repeat;
-  }
-`;
-
-const Background = styled.div`
-  box-shadow: inset 0 0 5rem 0rem rgba(0, 0, 0, 0.4);
+  mask-repeat: repeat;
+  mask-size: 103px;
+  mask-position: center;
+  mask-image: url("${asanoha}");
+  margin-left: 2px;
+  margin-top: 6px;
 `;
 
 export default function LandingArtwork({ i18n }) {
   return (
-    <Background tw="relative overflow-hidden bg-gradient-to-br from-gray-900 to-gray-600">
-      <Pattern />
-      <TwContainer tw="relative flex flex-col md:flex-row items-center z-10 my-24 text-center md:text-left">
-        <div>
+    <div tw="bg-gradient-to-b from-backdrop-light bg-opacity-30">
+      <TwContainer tw="flex flex-col md:flex-row items-center p-10 gap-10 z-10 text-center md:text-left justify-center">
+        <div tw="relative">
+          <div tw="absolute inset-0 z-0">
+            <Pattern tw="absolute dark:bg-pulse bg-darkpulse inset-[-75vh] md:inset-[-75vw]" />
+          </div>
           <Icon
-            tw="h-60 lg:h-72 mb-20 md:mb-0 md:mx-20 lg:mx-36 text-green-300"
+            tw="relative h-48 w-48 md:m-10 xl:m-20 lg:w-56 lg:h-56 text-green-700 dark:text-white"
             icon="etc"
           />
         </div>
-        <Text tw="flex flex-col text-5xl lg:text-6xl space-y-4" {...i18n} />
+        <Text
+          tw="relative text-3xl md:text-4xl space-y-2 md:space-y-4 lg:space-y-5 lg:text-5xl flex flex-col text-shade-dark w-[30rem]"
+          {...i18n}
+        />
       </TwContainer>
-    </Background>
+    </div>
   );
 }

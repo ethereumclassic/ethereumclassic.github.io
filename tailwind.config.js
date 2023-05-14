@@ -9,6 +9,12 @@ module.exports = {
   theme: {
     // actual colors defined in globalStyles.js
     extend: {
+      backgroundImage: {
+        pulse:
+          "radial-gradient(rgba(110, 231, 183, 0.95), rgba(110, 231, 183, 0.15) 9%, rgba(110, 231, 183, 0) 50%)",
+        darkpulse:
+          "radial-gradient(rgba(5, 150, 105, 0.75), rgba(5, 150, 105, 0.10) 9%, rgba(5, 150, 105, 0) 60%)",
+      },
       fontFamily: {
         display: ["Poppins", "Helvetica", "sans-serif"],
       },
