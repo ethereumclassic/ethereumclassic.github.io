@@ -42,7 +42,7 @@ The way it works is that miners in the blockchain create blocks of transactions 
 
 The above system guarantees that ETC will be sound money as gold was in the old days, hence the term “digital gold”.
 
-ETH is not digital gold because it is a proof of stake blockchain and validators do not have to do any work to produce blocks or earn rewards. They just receive transactions, package them into batches they call blocks to steal some lure from proof of work blockchains, and they vote on them to affirm their validity.
+ETH is not digital gold because it is a proof of stake blockchain and validators do not have to do any work to produce blocks or earn rewards. They just receive transactions, package them into batches they call blocks to steal some of the allure of proof of work blockchains, and then vote on them to affirm their validity.
 
 The above means that to produce the coin in Ethereum is practically costless, thus the currency cannot be compared to gold.
 
