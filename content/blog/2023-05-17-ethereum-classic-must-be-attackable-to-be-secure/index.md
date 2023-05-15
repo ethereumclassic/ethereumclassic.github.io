@@ -22,7 +22,7 @@ A blockchain is an incredibly simple and rudimentary concept. It is a ledger wit
 
 The only addition that a programmable network as Ethereum Classic (ETC) has is that the ledger also stores software programs that can move money around. This makes it suitable to deploy decentralized applications that are very convenient for many use cases.
 
-However, the magic of a blockchain as ETC is that it replicates all the data of the ledger in all the machines that participate in it through a consensus mechanism. This is what makes it decentralized, and thus extremely secure.
+However, the magic of a blockchain like ETC is that it replicates all the data of the ledger in all the machines that participate in it through a consensus mechanism. This is what makes it decentralized, and thus extremely secure.
 
 Security in this case means two things, first that nobody can control the system, therefore it is immutable and there is no censorship or confiscation, and second, despite not having a central administrator controlling it, it is very difficult to reverse transactions and steal money through what are called double spends or 51% attacks.
 
