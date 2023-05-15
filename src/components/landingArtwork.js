@@ -4,7 +4,7 @@ import tw from "twin.macro";
 import TwContainer from "./twContainer";
 import Icon from "./icon";
 import styled from "@emotion/styled";
-import asanoha from "../images/asanoha.svg";
+import asanoha from "../images/asanoha2.svg";
 import { useDidMount } from "rooks";
 
 function RandomWords({ words, ...props }) {
@@ -83,24 +83,20 @@ function Text({ text, randomWords, ...rest }) {
 }
 
 const Pattern = styled.div`
-  mask-repeat: repeat;
-  mask-size: 103px;
   mask-position: center;
   mask-image: url("${asanoha}");
-  margin-left: 2px;
-  margin-top: 6px;
 `;
 
 export default function LandingArtwork({ i18n }) {
   return (
     <div tw="bg-gradient-to-b from-white dark:from-black">
-      <TwContainer tw="flex flex-col md:flex-row items-center p-10 gap-10 z-10 text-center md:text-left justify-center">
+      <TwContainer tw="flex flex-col md:flex-row items-center p-10 gap-10 md:p-20 md:gap-20 xl:gap-32 z-10 text-center md:text-left justify-center">
         <div tw="relative">
           <div tw="absolute inset-0 z-0">
-            <Pattern tw="absolute dark:bg-pulse bg-darkpulse inset-[-120vh] md:inset-[-100vw] xl:inset-[-75vw]" />
+            <Pattern tw="absolute dark:bg-pulse bg-darkpulse inset-[-60rem] md:inset-[-55rem] lg:inset-[-65rem] xl:inset-[-75rem]" />
           </div>
           <Icon
-            tw="relative h-48 w-48 md:m-10 xl:m-20 lg:w-56 lg:h-56 text-green-800 dark:text-green-200"
+            tw="relative h-48 lg:h-56 text-green-800 dark:text-green-200"
             icon="etc"
           />
         </div>

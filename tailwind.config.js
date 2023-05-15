@@ -10,10 +10,12 @@ module.exports = {
     // actual colors defined in globalStyles.js
     extend: {
       backgroundImage: {
+        // for dark mode
         pulse:
-          "radial-gradient(rgba(110, 231, 183, 0.95), rgba(110, 231, 183, 0.2) 9%, rgba(110, 231, 183, 0) 50%)",
+          "radial-gradient(rgba(110, 231, 183, 0.95), rgba(110, 231, 183, 0.2) 9%, rgba(110, 231, 183, 0.06) 13%, rgba(110, 231, 183, 0) 50%)",
+        // for light mode
         darkpulse:
-          "radial-gradient(rgba(5, 150, 105, 0.75), rgba(5, 150, 105, 0.10) 9%, rgba(5, 150, 105, 0) 60%)",
+          "radial-gradient(rgba(5, 150, 105, 0.4), rgba(5, 150, 105, 0.1) 10%, rgba(5, 150, 105, 0) 50%)",
       },
       fontFamily: {
         display: ["Poppins", "Helvetica", "sans-serif"],
