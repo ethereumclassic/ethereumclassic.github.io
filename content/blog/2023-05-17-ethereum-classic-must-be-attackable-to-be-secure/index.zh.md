@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Must Be Attackable to Be Secure"
+title: "以太经典必须具有攻击性才能确保安全性"
 date: 2023-05-17
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./etc-attackable-banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GF8lxfsqdi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,62 +16,59 @@ linkImage: ./etc-attackable-banner.png
 
 ![ETC must be attackable.](./etc-attackable-banner.png)
 
-## How Do Blockchains Work?
+## 区块链是如何运作？
 
-A blockchain is an incredibly simple and rudimentary concept. It is a ledger with accounts and balances that accepts new transactions to move money from one account to the other. It’s as simple as that!
+区块链是一个非常简单和基础的概念。它是一个带有账户和余额的分类账，接受新的交易来将资金从一个账户移动到另一个账户。就是这么简单！
 
-The only addition that a programmable network as Ethereum Classic (ETC) has is that the ledger also stores software programs that can move money around. This makes it suitable to deploy decentralized applications that are very convenient for many use cases.
+作为可编程网络的以太经典（ETC）唯一的附加功能是，分类账还存储可以移动资金的软件程序。这使得它适用于部署分布式应用程序，非常方便于许多用例。
 
-However, the magic of a blockchain as ETC is that it replicates all the data of the ledger in all the machines that participate in it through a consensus mechanism. This is what makes it decentralized, and thus extremely secure.
+然而，以太经典等区块链的魔力在于，通过共识机制，它在参与其中的所有机器中复制分类账的所有数据。这就是它分散化的原因，因此非常安全。
 
-Security in this case means two things, first that nobody can control the system, therefore it is immutable and there is no censorship or confiscation, and second, despite not having a central administrator controlling it, it is very difficult to reverse transactions and steal money through what are called double spends or 51% attacks.
+在这种情况下，安全性意味着两个方面，首先是没有人能够控制系统，因此它是不可变的，没有审查或没收，其次，尽管没有中央管理员控制它，但很难通过所谓的双重支付或51%攻击来撤销交易和窃取资金。
 
-The question then is, how does ETC achieve this secure decentralized consensus on a global scale?
+那么问题是，以太经典如何在全球范围内实现这种安全的分散化共识呢？
 
-## How Does Nakamoto Consensus Work?
+## 中本聪共识是如何工作的？
 
-The challenge was how to get all participating machines in the system to achieve consensus every 13 seconds on what was the latest state of the ledger.
+挑战在于如何让系统中的所有参与机器在每13秒内就分类账的最新状态达成共识。
 
-The way ETC does this is that users constantly send transactions to the network, these transactions are re-sent to all nodes in the system, and many of these nodes are miners. When miners receive the new transactions, they accumulate them in a block and stamp them with a cryptographic hash. This hash is extremely costly to create because it requires enormous amounts of computational power and electricity to calculate. This is what is called “proof of work”. Once they create the stamp, they put it in the block and send it to the rest of the network for verification.
+ETC实现这一点的方法是，用户不断向网络发送交易，这些交易被重新发送到系统中的所有节点，其中许多节点是矿工。当矿工接收到新的交易时，他们将其累积在一个块中，并用密码哈希值进行标记。由于这个哈希值需要巨大的计算能力和电力才能计算出来，因此它非常昂贵，这就是所谓的“工作证明”。一旦他们创建了标记，就将其放入块中并发送到网络的其余部分进行验证。
 
-The verification process is where the security point is revealed. All other nodes that are not miners, are verifiers and their role is to make sure that the transactions in the block are correct and that the work was done to create the cryptographic stamp. If the work was done, then they accept the block. If the work was not done, then they know it is an imposter trying to trick them, so they reject it. This is the key of the whole system!
+验证过程就是安全点被揭示的地方。所有不是矿工的其他节点都是验证者，他们的角色是确保块中的交易正确，并且工作已经完成以创建密码哈希标记。如果工作已经完成，他们就接受这个块。如果工作没有完成，他们就知道这是一个骗子试图欺骗他们，因此他们就拒绝它。这就是整个系统的关键！
 
-It is only through large amounts of work that the network may achieve consensus in a decentralized manner.
+只有通过大量的工作，网络才能以分散的方式达成共识。
 
-## What Is an Attack?
+## 什么是攻击?
 
-So, what does this kind of consensus mechanism achieve in terms of the two security types we described before?
+那么，在我们之前描述的这两种安全类型方面，这种共识机制实现了什么？
 
-**True decentralization:** This is the most important type of security. Nakamoto Consensus achieves true decentralization because any machine in the world may know the latest state of the ledger and enter and exit the network just by verifying the proofs of work of all the blocks. This is an incredible level of permissionlessness and censorship resistance, never achieved before in computer science. It is the most important type of security because the whole point of blockchains is to avoid centralized entities that can corrupt the system, introduce censorship, or be captured by special interests. Proof of work is an objective and neutral way of participating in the network.
+**真正的去中心化:** 这是最重要的安全类型。中本聪共识实现了真正的去中心化，因为世界上任何一台计算机都可以通过验证所有区块的工作证明来知道分类帐的最新状态，并进入和退出网络。这是一种令人难以置信的无许可和抗审查的水平，在计算机科学中以前从未实现过。这是最重要的安全类型，因为区块链的整个目的是避免可能破坏系统、引入审查或被特殊利益控制的集中实体。工作证明是参与网络的客观和中立方式。
 
-**Resistance against 51% attacks:** 51% attacks are a secondary kind of security. They happen when someone has the computing power, usually 51% of mining power, to overwhelm the system so they can delete a previous transaction in the network and steal money from a victim. This is a kind of attack that is always possible in a blockchain as long as someone may accumulate 51% of computing power of the network. It is a secondary type of security because the double spend attack has a very limited scope and may be avoided by using more block confirmations. Additionally, it is not really a hack of the system, it is just a reorganization of transactions.
+**抵抗51%攻击:** 51%攻击是第二种安全类型。当某人拥有计算能力，通常是网络中51%的挖矿能力时，他们就可以攻击该系统，从而删除网络中的先前交易并从受害者那里窃取资金。只要某人可以累积网络计算能力的51％，这种攻击就始终可能发生。这是一种范围非常有限的攻击类型，可以通过使用更多的区块确认来避免。此外，这实际上并不是系统的黑客攻击，而只是交易重新组织。
 
-## How Is Security in ETC Maximized?
+## 如何最大化ETC的安全性?
 
-So, now that we know how Ethereum Classic achieves consensus, that proof of work is the critical way of achieving this consensus in a truly decentralized way, and that decentralization is the most important security type in a blockchain, then we can figure out how security is maximized.
+式，去中心化是区块链中最重要的安全类型，因此我们可以了解如何最大化安全性。
 
-Security is maximized in ETC first, by keeping the proof of work based Nakamoto Consensus mechanism as its only way of updating the state every 13 seconds. Second, by having the greatest hash rate as possible. 
+ETC的安全性首先通过保持基于工作证明的Nakamoto Consensus机制作为其每13秒更新状态的唯一方式来最大化。其次是尽可能拥有最大的哈希率。
 
-The more demand there is for decentralized computing, the more demand for ETC there will be, the more the price will go up, the more miners will want to direct their hash power to Ethereum Classic to earn their mining rewards. This is the only way to secure the network.
+对于分散计算的需求越高，对于ETC的需求就越大，价格就越高，矿工就会希望将他们的哈希功率指向Ethereum Classic以获得挖矿奖励。这是确保网络安全的唯一方式。
 
-Therefore, true blockchain security is achieved in a purely objective way.
+因此，真正的区块链安全是通过一种纯客观的方式实现的。
 
-## A Purely Objective Form of Security Must Be Attackable
+## 一种真正客观的安全形式必须是可攻击的
 
-The two objective parameters that secure ETC are:
+保护ETC的两个客观参数是：
 
-- Proof of work as the chain selection point for nodes globally to know the latest state, and to freely enter and exit the system.
+- 作为全球节点了解最新状态、自由进出系统的链选择点的工作证明。
+- 矿工之间的最大算力竞争，以获取区块奖励，从而最大限度地减少51%攻击的可能性。
 
-- The most hashrate competition between miners to earn block rewards so the hashrate is as large as possible to minimize 51% attacks.
+然而，这两个客观参数实际上是相互关联的，因为更多的算力会产生一个更强的工作证明焦点，从而确保更多的去中心化。但真相是，即使是极其不可能，拥有51%算力的人也可能会变得恶意，因此实际上不可能消除这种风险。
 
-Paradoxically, though both objective parameters above are related as more hashrate produces a stronger proof of work focal point that assures more decentralization, the truth is that it is not possible to actually eliminate the risk that someone with 51% of the hashrate, however unlikely, may become malicious.
-
-It is not possible because the only way to assure a purely objective and neutral way for thousands of machines around the world to agree on a single identical state every 13 seconds is to only follow the chain of blocks with the most work done.
-
-This is the reason for the counterintuitive statement that Ethereum Classic must be attackable to be secure.
+这是因为只有遵循完成工作量最大的区块链才能保证全球数千台机器以纯客观和中立的方式同意每13秒钟一次的单一相同状态。这就是为什么存在这样一个反直觉的陈述，即以太坊经典必须是可攻击的才能保持安全。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC相关内容，请访问: https://ethereumclassic.org
