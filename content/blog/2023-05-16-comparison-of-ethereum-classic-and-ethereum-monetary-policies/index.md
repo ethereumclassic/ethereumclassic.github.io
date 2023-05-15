@@ -30,7 +30,7 @@ Before delving into comparisons, it is important to note that Ethereum's system 
 
 This means that the staking industrial complex will perpetually get richer, creating mega-validators, while the rest of the economy will be constantly starved of money to pay for fees.
 
-While there will alway be some coin to pay for fees, there is a giant constant wealth transfer from the economy to the staking cartel.
+While there will always be some coin to pay for fees, there exists a giant continuing wealth transfer from the economy at large to the exclusive staking cartel. These factors should be taken into consideration in any analysis of Ethereum.
 
 ## Digital Gold
 
