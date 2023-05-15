@@ -18,7 +18,7 @@ In this post we will compare the Ethereum Classic (ETC) and Ethereum (ETH) monet
 
 When Ethereum forked away from ETC in 2016, the Ethereum Classic core developer team decided to establish a monetary policy as similar as possible to that of Bitcoin. The change occurred in December 2017; since then it has remained and will remain the same forever.
 
-Since genesis, Ethereum has had 5 monetary policies and they will likely keep changing them forever.
+Since the genesis block, Ethereum has had five monetary policies and will likely keep changing forever.
 
 In the table below we compare both blockchains’ monetary policies and in the following sections we will explain each feature in the table.
 
