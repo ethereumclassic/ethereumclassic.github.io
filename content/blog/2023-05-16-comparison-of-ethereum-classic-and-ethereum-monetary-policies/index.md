@@ -66,7 +66,7 @@ Given Ethereum Classic’s frequency of payments to miners, the number of coins 
 
 ETH does not have a capped supply, but has a two way system with an issuance schedule and a coin burning mechanism. These two combined sometimes produce a net issuance of coins and sometimes a net redemption of coins. It all depends on the amounts of staked ETH by validators and the levels of transaction fees.
 
-However, whether Ethereum has a capped supply or not , or if they burn coins or not, is inconsequential in a centralized network with a manually managed monetary policy because they may change the rules at any time. 
+However, whether Ethereum has a capped supply or not, or if they burn coins or not, is inconsequential in a centralized network with a manually managed monetary policy because they may change the rules at any time. 
 
 ## Block Time
 
