@@ -5,11 +5,17 @@ import TwContainer from "./twContainer";
 import Icon from "./icon";
 import styled from "@emotion/styled";
 import asanoha from "../images/asanoha.svg";
+import { useDidMount } from "rooks";
 
 function RandomWords({ words, ...props }) {
   const typeSpeed = 80;
   const deleteSpeed = 18;
   const pause = 600;
+
+  const [mounted, setMounted] = useState(false);
+
+  useDidMount(() => setMounted(true));
+
   const [isDeleting, setIsDeleting] = useState(false);
   const [loopNum, setLoopNum] = useState(0);
   const [typingSpeed, setTypingSpeed] = useState(typeSpeed);
@@ -48,7 +54,7 @@ function RandomWords({ words, ...props }) {
 
   return (
     <span tw="whitespace-nowrap" {...props}>
-      {text || <>&nbsp;</>}
+      {!mounted ? words[0] : text || <>&nbsp;</>}
     </span>
   );
 }
@@ -87,14 +93,14 @@ const Pattern = styled.div`
 
 export default function LandingArtwork({ i18n }) {
   return (
-    <div tw="bg-gradient-to-b from-backdrop-light bg-opacity-30">
+    <div tw="bg-gradient-to-b from-white dark:from-black">
       <TwContainer tw="flex flex-col md:flex-row items-center p-10 gap-10 z-10 text-center md:text-left justify-center">
         <div tw="relative">
           <div tw="absolute inset-0 z-0">
-            <Pattern tw="absolute dark:bg-pulse bg-darkpulse inset-[-75vh] md:inset-[-75vw]" />
+            <Pattern tw="absolute dark:bg-pulse bg-darkpulse inset-[-75vh] md:inset-[-100vw] xl:inset-[-75vw]" />
           </div>
           <Icon
-            tw="relative h-48 w-48 md:m-10 xl:m-20 lg:w-56 lg:h-56 text-green-700 dark:text-white"
+            tw="relative h-48 w-48 md:m-10 xl:m-20 lg:w-56 lg:h-56 text-green-800 dark:text-green-200"
             icon="etc"
           />
         </div>
