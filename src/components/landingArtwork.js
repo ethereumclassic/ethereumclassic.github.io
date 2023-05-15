@@ -97,7 +97,7 @@ export default function LandingArtwork({ i18n }) {
       <TwContainer tw="flex flex-col md:flex-row items-center p-10 gap-10 z-10 text-center md:text-left justify-center">
         <div tw="relative">
           <div tw="absolute inset-0 z-0">
-            <Pattern tw="absolute dark:bg-pulse bg-darkpulse inset-[-75vh] md:inset-[-100vw] xl:inset-[-75vw]" />
+            <Pattern tw="absolute dark:bg-pulse bg-darkpulse inset-[-120vh] md:inset-[-100vw] xl:inset-[-75vw]" />
           </div>
           <Icon
             tw="relative h-48 w-48 md:m-10 xl:m-20 lg:w-56 lg:h-56 text-green-800 dark:text-green-200"
@@ -105,7 +105,7 @@ export default function LandingArtwork({ i18n }) {
           />
         </div>
         <Text
-          tw="relative text-3xl md:text-4xl space-y-2 md:space-y-4 lg:space-y-5 lg:text-5xl flex flex-col text-shade-dark w-[30rem]"
+          tw="relative text-3xl md:text-4xl space-y-2 md:space-y-4 lg:space-y-5 lg:text-5xl flex flex-col text-shade-dark w-[22rem]"
           {...i18n}
         />
       </TwContainer>
