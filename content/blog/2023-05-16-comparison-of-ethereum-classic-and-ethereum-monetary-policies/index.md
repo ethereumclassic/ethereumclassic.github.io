@@ -90,7 +90,7 @@ After each era ETC discounts the payment to miners.
 
 ## Discount Per Era
 
-In Ethereum Classic, the discount per era is 20%. 
+In Ethereum Classic, the discount per era is 20%. This means that since the genesis block, ETC has paid miners 5 ETC per block in the first era, then 4 ETC, then 3.20, and is now paying 2.56 per block during the current era.
 This means that since genesis, ETC has paid miners 5 ETC per block in the first era, then 4 ETC, then 3.20, and now is paying 2.56 which is the current era.
 
 Ethereum never had eras, but has manually changed its monetary policy many times.
