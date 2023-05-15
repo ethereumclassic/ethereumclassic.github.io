@@ -26,7 +26,7 @@ In the table below we compare both blockchains’ monetary policies and in the f
 
 ## Ethereum’s Tendency to Centralization and Mega-Validators
 
-Before making the comparisons, it is important to note, as will be seen in the next sections, that Ethereum is a system that will tend to centralization, therefore censorship and arbitrary manipulation, not only because proof of stake does not impose any cost to changing the ledger, there is no objective focal point for exit and entry, and staking has very efficient economies of scale, but also because its monetary policy pays the staking industry, which will be dominated by very few players, enormous amounts of money per year, but at the same time burns coins from regular users who pay fees.
+Before delving into comparisons, it is important to note that Ethereum's system tends towards centralization, making it vulnerable to censorship and arbitrary manipulation. This is because proof of stake does not impose any cost for changing the ledger, lacks an objective focal point for entry and exit, and allows for highly efficient economies of scale for those staking. Additionally, the monetary policy of Ethereum compensates the staking industry with substantial amounts of money each year, leading to domination by a select few players while regular users who pay transaction fees effectively end up burning coins.
 
 This means that the staking industrial complex will perpetually get richer, creating mega-validators, while the rest of the economy will be constantly starved of money to pay for fees.
 
