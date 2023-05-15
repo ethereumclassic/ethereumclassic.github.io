@@ -94,7 +94,7 @@ In Ethereum Classic, the discount per era is 20%. This means that since the gene
 
 Ethereum never had eras, but has manually changed its monetary policy many times.
 
-Since genesis, ETH has paid miners 5 ETH per block until October of 2017 when they reduced the payment to 3. In February of 2019 they reduced the miner payment to 2 ETH per block. In August of 2021 they implemented EIP-1559 which started the coin burn system in which part of the transaction fees are burned thus reducing supply. And, in September of 2022 they migrated from proof of work to proof of stake where they changed the payment rate to validators to a variable system.
+Starting with its genesis block, ETH has paid miners 5 ETH per block until October 2017 when the payment was reduced to 3 ETH. In February 2019, the miner payment was again reduced to 2 ETH per block. Then, in August 2021, with the implementation of EIP-1559, the coin burn system was started in which part of the transaction fees are burned thus reducing supply. Finally, in September 2022, ETH was migrated from proof of work to proof of stake where the payment rate to validators was changed to a variable system.
 
 ## Pre-Mine
 
