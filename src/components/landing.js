@@ -22,7 +22,7 @@ export default function Landing({
     current: { rtl },
   } = useLocalization();
   return (
-    <>
+    <div tw="w-full overflow-x-hidden">
       <LandingArtwork i18n={billboard} />
       <TwContainer tw="py-10 space-y-20">
         <LandingFeature i18n={feature} />
@@ -53,6 +53,6 @@ export default function Landing({
           <LandingApps items={apps.edges} i18n={headings.apps} />
         </div>
       </TwContainer>
-    </>
+    </div>
   );
 }

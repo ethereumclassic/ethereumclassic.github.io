@@ -12,7 +12,7 @@ export default function GlobalLayout({ children, ...props }) {
   return (
     <NavigationProvider {...props}>
       <Seo {...props} />
-      <div tw="flex flex-col min-h-screen overflow-x-hidden">
+      <div tw="flex flex-col min-h-screen">
         <Header />
         <main tw="flex-1">
           <Announcement />
