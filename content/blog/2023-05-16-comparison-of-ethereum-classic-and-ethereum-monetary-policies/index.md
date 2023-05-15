@@ -54,7 +54,7 @@ ETC’s monetary policy is algorithmic because in 2017 it migrated to a schedule
 
 The supply algorithm is a set of simple and transparent mathematical rules that establish what number of coins will be paid to miners per block, the frequency of the payments, and a schedule that will decrease these payments as time passes by.
 
-ETH’s monetary policy is manual, not algorithmic, because it has been changed several times and will likely change many times more in the future given that proof of stake tends to centralization.
+ETH’s monetary policy is manual, not algorithmic, because it has been changed several times and will likely change many more times in the future given that proof of stake tends towards centralization.
 
 The fact that it has a software algorithm that determines payments to validators does not mean it is algorithmic as long as developers may change the rules whenever they please.
 
