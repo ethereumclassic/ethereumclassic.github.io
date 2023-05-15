@@ -38,6 +38,7 @@
 [[redirects]]
   from = "/discord"
   to = "https://discord.com/invite/hQs894U"
+  status = 302
 
 # 2019 Redirects
 [[redirects]]
