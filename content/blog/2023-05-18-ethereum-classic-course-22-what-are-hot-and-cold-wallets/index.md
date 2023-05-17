@@ -46,7 +46,7 @@ When you have a wallet app to see your crypto positions and prices, but you have
 
 The other key of cold wallets is that the private keys (or secret passphrases or private key JSON files) must be in places where they are never connected to the internet and they must never be used.
 
-This means that a typical cold wallet is and address where you only received crypto and hardly ever send any.
+This means that a typical cold wallet is an address where you only receive crypto and hardly, if ever, send any.
 
 The security guarantees of the above setup is that it will be impossible for hackers to gain access to your private keys over the internet and that no metadata of your transactions is ever transmitted to the blockchain.
 
