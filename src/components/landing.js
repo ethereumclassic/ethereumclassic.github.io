@@ -24,7 +24,21 @@ export default function Landing({
   return (
     <div tw="w-full overflow-x-hidden">
       <LandingArtwork i18n={billboard} />
-      <TwContainer tw="py-10 space-y-20">
+      <TwContainer tw="py-10 space-y-20 relative">
+        <div tw="text-center">
+          <Link
+            to="https://powsummit.com/"
+            tw="inline-block bg-white p-2 rounded-md shadow-2xl"
+            title="Proof of Work Summit 2023, 25th - 27th September, Prage"
+          >
+            <StaticImage
+              src="../images/powsummit.png"
+              alt="Proof of Work Summit 2023, 25th - 27th September, Prage"
+              // layout="fluid"
+              height={100}
+            />
+          </Link>
+        </div>
         <LandingFeature i18n={feature} />
         <LandingHeadlines items={headlines.edges} i18n={headings.headlines} />
         <div tw="grid grid-cols-1 items-center gap-24 md:grid-cols-2">
