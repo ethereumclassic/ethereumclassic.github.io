@@ -30,7 +30,7 @@ In the following sections we will explain each step.
 
 The first step to buy crypto is to have a bank account that you may connect to a crypto exchange to move your fiat money there. This is the best method to start buying ETC. 
 
-It is also possible to wire the money or use other local money transfer methods in your country. Exchanges such as Coinbase, Kraken, and Binance have worked very well to establish rails to move your fiat money easily to them. 
+It is also possible to wire the money or use other local money transfer methods in your country. Exchanges such as [Coinbase](https://coinbase.com), [Kraken](https://kraken.com), and [Binance](https://binance.com) have worked very well to establish rails to move your fiat money easily to them. 
 
 Some may even use Paypal (international), credit cards (international), Mercado Pago (Latin America), SEPA (Europe), or other methods available to you locally.
 
@@ -83,9 +83,11 @@ In the meantime you need to get a non-custodial or hardware wallet so you can mo
 
 The most widely used wallets for ETC and in general are either software wallets or hardware wallets. Some popular brands are the following:
 
-Software wallets: MetaMask, Trust Wallet, or Exodus.
+Software wallets: [MetaMask](https://metamask.io), [Trust Wallet](https://trustwallet.com), or [Exodus](https://exodus.com).
 
-Hardware wallets: Ledger or Trezor.
+Hardware wallets: [Ledger](https://ledger.com) or [Trezor](https://trezor.io).
+
+*Disclaimer: We do not endorse nor earn commissions from the exchange or wallet brands listed in this post, we just list them here for your convenience. Do your own research.*
 
 ## Move Your $ETC
 
