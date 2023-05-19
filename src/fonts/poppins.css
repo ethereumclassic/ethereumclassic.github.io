@@ -25,3 +25,10 @@
   font-weight: bold;
   font-style: italic;
 }
+
+@font-face {
+  font-family: "Poppins";
+  src: url("./Poppins/Poppins-ExtraLight.woff2") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
