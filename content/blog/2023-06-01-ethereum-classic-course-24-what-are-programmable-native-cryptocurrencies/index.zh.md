@@ -14,20 +14,18 @@ linkImage: ./banner.png
 
 ---
 
-![ETC is BTC philosophy with ETH technology.](./11.png)
-
 In the previous class of the Ethereum Classic (ETC) course we explained what are the native cryptocurrencies, the original invention of the industry, how they gain economic value, and why the proof of work versions of them are digital gold.
 
 In this class we will explain what are programmable digital cryptocurrencies, why ETC is called programmable digital gold, and why it has an enhanced level of trust minimization as compared to non-programmable digital gold.
 
 In the next few classes we will cover these other topics:
 
-Class 25: What Are ERC-20 Tokens?
-Class 26: What Are Convertible Stablecoins?
-Class 27: What Are Algorithmic Stablecoins?
-Class 28: What Are Privacy Coins?
-Class 29: What Are Decentralized Finance (DeFi) Coins?
-Class 30: What Are File Storage Coins?
+- Class 25: What Are ERC-20 Tokens?
+- Class 26: What Are Convertible Stablecoins?
+- Class 27: What Are Algorithmic Stablecoins?
+- Class 28: What Are Privacy Coins?
+- Class 29: What Are Decentralized Finance (DeFi) Coins?
+- Class 30: What Are File Storage Coins?
 
 ## What Are Non-Programmable Native Cryptocurrencies?
 
@@ -62,6 +60,8 @@ ETC has the incredibly valuable position of being the largest proof of work (dec
 ## Why Is Ethereum Classic More Trust Minimized?
 
 As ETC’s native cryptocurrency is proof of work and programmable it is the most trust minimized system in the whole blockchain industry because not only the accounts and balances are inside the secure environment of the blockchain, but also the autonomous agents, which are smart contracts or dapps, are hosted in it.
+
+![ETC is BTC philosophy with ETH technology.](./11.png)
 
 Autonomous agents replace trusted third parties in the real world because they can fulfill all their duties but in a totally decentralized way, and in ETC they are inside the highly secure environment of its proof of work network.
 
