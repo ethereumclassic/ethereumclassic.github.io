@@ -14,7 +14,7 @@ linkImage: ./banner.png
 
 ---
 
-![ETC is BTC philosophy with ETH technology.](./1.png)
+![ETC is BTC philosophy with ETH technology.](./11.png)
 
 In the previous class of the Ethereum Classic (ETC) course we explained what are the native cryptocurrencies, the original invention of the industry, how they gain economic value, and why the proof of work versions of them are digital gold.
 
