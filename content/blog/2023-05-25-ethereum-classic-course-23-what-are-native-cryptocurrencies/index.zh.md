@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Course: 23. What Are Native Cryptocurrencies?"
+title: "以太坊经典课程：23. 什么是本地加密货币?"
 date: 2023-05-25
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,66 +8,66 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BJrSEcP1ccg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-In this segment of the Ethereum Classic (ETC) Course we will enter a study of the industry and its different segments and categories.
+在以太经典（Ethereum Classic，简称ETC）课程的这一部分中，我们将进入对该行业及其不同领域和类别的研究。
 
-![BTC and ETC are native cryptocurrencies.](./1.png)
+![BTC和ETC皆为本地加密货币](./1.png)
 
-One way of classifying blockchains is by describing the use cases of their coins. In this class 23 we will explain what are the native cryptocurrencies, the original invention of the industry, and in the next seven classes will explain the other types as follows:
+对区块链进行分类的一种方式是描述其货币的使用案例。在第23课中，我们将解释什么是本地加密货币，这是该行业最初的发明，并在接下来的七节课中按照以下方式解释其他类型：
 
-- Class 24: What Are Programmable Native Cryptocurrencies?
-- Class 25: What Are ERC-20 Tokens?
-- Class 26: What Are Convertible Stablecoins?
-- Class 27: What Are Algorithmic Stablecoins?
-- Class 28: What Are Privacy Coins?
-- Class 29: What Are Decentralized Finance (DeFi) Coins?
-- Class 30: What Are File Storage Coins?
+- 第24课：什么是可编程的本地加密货币？
+- 第25课：什么是ERC-20代币？
+- 第26课：什么是可转换稳定币？
+- 第27课：什么是算法稳定币？
+- 第28课：什么是隐私币？
+- 第29课：什么是去中心化金融（DeFi）币？
+- 第30课：什么是文件存储币？
 
-## What Are Fiat Currencies and How Do they Gain Economic Value? 
+## 什么是法定货币，以及它们如何获得经济价值？
 
-![Fiat currencies are printed by governments with no backing.](./2.png)
+![法币是由政府无偿发行的](./2.png)
 
-The first forms of money were valuable personal decor and commodities such as rare sea shells, ostrich egg shells, beads, salt, black pepper, copper, silver, and gold.
+最早形式的货币是有价值的个人装饰品和商品，例如稀有的海贝壳、鸵鸟蛋壳、珠子、盐、黑胡椒、铜、银和黄金。
 
-The first attempt at state money was for kings and empires to mint coins using gold, silver, and copper to standardize their use with a credible stamp from the monarchic power.
+最早的国家货币尝试是国王和帝国铸造金、银和铜币，以标准化它们的使用，并在上面刻上可信的君主权力的标记。
 
-The final stage of creation of money by decree, also known as fiat money, with no valuable substance or object to back it, was the official delinking of money from gold in 1971 by the US government where the fiat currency format became the norm globally.
+货币的最后一阶段是通过法令发行，也被称为法定货币，它没有任何有价值的物质或物品作为支撑。1971年，美国政府正式将货币与黄金解除联系，使得法定货币成为全球的常态。
 
-The key to the economic value of fiat currencies since then has been that they are imposed by law as exclusive legal tender to cancel loans and pay taxes, and that the state promises not to print too much of them.
+自那时以来，法定货币的经济价值关键在于，它们被法律强制规定为唯一的法定支付工具，用于偿还贷款和支付税款，并且国家承诺不会无限制地印刷它们。
 
-## What Are Blockchains?
+## 什么是区块链?
 
-However, because governments have generally not kept their promise, one of the main goals of Satoshi Nakamoto when creating Bitcoin (BTC) was to separate money from the state because of its long string of abuses.
+然而，由于政府通常未能遵守承诺，中本聪在创建比特币（Bitcoin，简称BTC）时的主要目标之一是将货币与国家分离，因为货币被滥用的情况屡见不鲜。
 
-For this he invented Bitcoin which is a peer to peer network of nodes which all hold the same exact copy of a ledger with accounts and balances. Users of the network may send transactions to move money from one account to another. When these transactions are sent to nodes they retransmit them to the rest of the network so they can be fully replicated. Then, a subgroup of the nodes do what is called proof of work mining to include those transactions into blocks, which are then sent to the rest of the network for inclusion in a chain of blocks stored in the system. Hence, the term “blockchain”.
+为此，他发明了比特币，这是一个点对点的节点网络，所有节点都保存着完全相同的账户和余额账本副本。网络的用户可以发送交易，将资金从一个账户转移到另一个账户。当这些交易被发送到节点时，它们会被重新传输给网络的其他节点，以便进行完全的复制。然后，节点的一个子组进行所谓的工作证明挖矿，将这些交易包含在区块中，然后将这些区块发送给网络的其他部分，以便将其包含在系统中存储的一个区块链中。因此，出现了“区块链”这个术语。
 
-The question is, why would many people all over the world put their computers to work in a peer-to-peer network on a ledger with a made up private coin?
+问题是，为什么世界各地的许多人会在一个由虚构的私有货币支持的账本上将他们的计算机投入到点对点网络中运作呢？
 
-## What Are Native Cryptocurrencies and How Do they Gain Economic Value?
+## 什么是本地加密货币，它们如何获得经济价值？
 
-The answer by Satoshi Nakamoto was to make sure that the Bitcoin cryptocurrency would be sound money by making it algorithmic, thus not managed by humans, with a capped supply, and a fair distribution by issuing it to miners to pay them for their work.
+中本聪的答案是通过使比特币加密货币成为算法化货币，从而确保它成为健全的货币。因此，它不由人类管理，有限的供应量，并通过向矿工发行来公平分配，以支付他们的工作。
 
-Both Bitcoin and Ethereum Classic work exactly the same way and they are called native cryptocurrencies because they are the money of the networks by protocol, issued exclusively to pay block rewards to miners, and for users to pay fees so that miners may include their transactions inside the blocks.
+比特币和以太经典的工作方式完全相同，它们被称为本地加密货币，因为它们是由协议发行的网络货币，专门用于支付给矿工的区块奖励，并用于用户支付手续费，以便矿工可以将他们的交易包含在区块中。
 
-Similar to fiat currencies, BTC and ETC gain economic value because, by default, they have a use case from inception, which is to pay for the work that miners do and for transactions to be included.
+与法定货币类似，比特币（BTC）和以太经典（ETC）之所以获得经济价值，是因为它们从一开始就有一个使用案例，即支付矿工的工作和包含交易。
 
-## Why Are Proof of Work Cryptocurrencies Digital Gold?
+## 为什么工作证明加密货币被称为数字黄金？
 
-Proof of work cryptocurrencies are digital gold because they mimic the production of gold in the real world.
+工作证明加密货币被称为数字黄金，因为它们模仿了现实世界中黄金的生产过程。
 
-Gold is very costly to produce by gold miners and this is why it is scarce and has a high value per unit. 
+黄金的生产对黄金矿工来说非常昂贵，这就是为什么黄金稀缺且每单位价值高的原因。
 
-Similarly, proof of work coins such as BTC and ETC require miners to do enormous amounts of work, spending enormous amounts of electricity, to build blocks, and only then they issue coins to them. This means that BTC and ETC are also very costly to create, thus scarce and valuable per unit.
+同样，比特币（BTC）和以太经典（ETC）等工作证明币需要矿工做大量的工作，消耗大量的电力来构建区块，然后才向他们发行货币。这意味着创建比特币和以太经典也非常昂贵，因此每单位货币稀缺且有价值。
 
-In contrast, proof of stake and proof of authority coins are also native cryptocurrencies, but do not have this quality of digital gold because their creation is cheap, trivial, and manipulable by humans, just like fiat currencies.
+相比之下，权益证明和授权证明的币种也是本地加密货币，但它们没有数字黄金的特质，因为它们的创建廉价、微不足道，并且可以被人为操纵，就像法定货币一样。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，请访问: https://ethereumclassic.org
