@@ -1,5 +1,5 @@
 ---
-title: "Why Programmability Makes Ethereum Classic More Trust Minimized, Part I"
+title: "为什么可编程性使ETC可以做到信任最小化, 第一部分"
 date: 2023-05-24
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,64 +8,64 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WhsWlFqEG3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-## What Is Trust Minimization?
+## 什么是信任最小化？
 
-Trust is the belief that someone or something will be true, benevolent, and have our best interests at heart. However, it is good wisdom to understand that usually the best persons to have our best interests are ourselves. This applies to individuals, families, friends, communities, and nations. 
+信任是对某人或某事物真实、善意和关心我们最佳利益的信念。然而，有明智的看法是 - 通常对我们带来利益最多的人往往是我们自己。这适用于个人、家庭、朋友、社区和国家。
 
-One of the premises of Cypherpunks, the group who worked for decades on the technologies that eventually led to the creation of Bitcoin, is that wherever trust is deposited, that trust will always be abused.
+密码朋克（Cypherpunks）是一个为了几十年的时间致力于最终导致比特币创建的技术的团体。他们的一个前提是，无论信任被寄托在哪里，这种信任总是会被滥用。
 
-This is why the whole point of blockchain technology is to minimize trust in third parties. Third parties may be banks, governments, corporations, or tech companies. Because, in the course of human action, nearly every interaction is mediated by these trusted third parties, and they have systematically abused their trusted positions, then it has become imperative to reduce their role and influence. 
+这就是为什么区块链技术的整个目的是最小化对第三方的信任。第三方可以是银行、政府、公司或科技公司。因为在人类行动过程中，几乎每一次互动都是通过这些受信任的第三方进行的，并且它们系统地滥用了它们的受信任地位，因此减少它们的角色和影响已经变得迫在眉睫。
 
-Trust minimization is the dilution of trust in these third parties by transferring and distributing their roles to decentralized technologies such as blockchains.
+信任最小化是通过将它们的角色转移和分散到诸如区块链等分散化技术中，从而减少对这些第三方的信任。
 
-## Why Is Trust Minimization Necessary?
+## 为什么信任最小化是必要的？
 
-Trusted third parties, such as banks, governments, corporations, or tech companies, are security holes because they hold our money, wealth, property records, and personal data, manage everything on centralized servers, and they can be hacked or they can commit outright fraud.
+银行、政府、公司或科技公司等受信任的第三方是安全漏洞，因为它们持有我们的资金、财富、财产记录和个人数据，管理着集中式服务器上的一切，并且它们可能会被黑客攻击或者实施公然欺诈行为。
 
-Trust minimization technologies have existed for millennia. Ever since humans started to divide government, establishing voting systems, courts, and legislatures, they have been attempting to separate responsibilities in different persons or entities to minimize the possibility of arbitrary abuse.
+信任最小化技术已存在了几千年。自从人类开始分割政府、建立投票系统、法院和立法机构以来，人们一直试图将不同的责任分离给不同的人或实体，以最小化滥用的可能性。
 
-Trust minimization is necessary because the more uncertainty and cost, both monetary and bureaucratic, of the role of trusted third parties, the less human activity may flourish.
+信任最小化是必要的，因为对于受信任的第三方的角色，不确定性和成本（包括货币和官僚成本）越大，人类活动的发展空间就越小。
 
-## What Are Autonomous Agents?
+## 什么是自治代理？
 
-Autonomous agents are software programs that may autonomously executed their code when individuals and businesses send them transactions.
+自治代理是软件程序，当个人和企业向它们发送交易时，它们可以自主执行其代码。
 
-A famous example given by Nick Szabo, the father of smart contracts, the technology that enables autonomous agents, was the vending machine. When someone goes to a vending machine, they have to put a specific amount of money into it, and when the machine confirms that it received the payment then it gives a soda or a snack to the purchaser.
+尼克·萨博（Nick Szabo）是智能合约的创始人，智能合约是使自治代理成为可能的技术。他举了一个著名的例子，就是自动售货机。当有人去自动售货机时，他们必须投入一定金额的钱，当机器确认收到付款后，它会将饮料或零食提供给购买者。
 
-The vending machine is not operated by humans and responds only to strictly objectives rules. It is also protected by a hard box that would be very costly to break relative to the value that any burglar would get from it. This is why they may be installed in many places and they may act autonomously and objectively to provide a service.
+自动售货机不由人类操作，只响应严格的客观规则。它还受到一个坚固的箱子的保护，相对于任何盗贼能够从中获得的价值来说，破坏它将非常昂贵。这就是为什么它们可以安装在许多地方，可以自主客观地提供服务。
 
-Software autonomous agents have the promise that they may be much more complex than vending machines and may replace the need of trusted third parties in many of our interactions in the course of business, social relationships, and human action in general.
+软件自治代理有一个承诺，即它们可以比自动售货机更复杂，并且可以在商业、社交关系和人类行动的许多互动中取代对受信任的第三方的需求。
 
-## How Can Autonomous Agents Be in Ethereum Classic?
+## 自主代理如何存在于以太坊经典（ETC）中？
 
-![ETC is more trust minimized.](./banner.png)
+![ETC更加信任最小化](./banner.png)
 
-The solution to the problem of trust that blockchains such as Ethereum Classic (ETC) bring to the world is an extreme form of distributed computing that is practically impossible to manipulate by third parties.
+像以太坊经典（ETC）这样的区块链解决方案为世界带来的信任问题是一种极端形式的分布式计算，几乎不可能被第三方操纵。
 
-Autonomous agents could not be fully trusted before ETC, even if they were software programs that contained objective rules, because they would run on government or corporate servers so trusted third parties would still have total control over them.
+在ETC之前，即使是包含客观规则的软件程序也无法完全信任，因为它们在政府或企业服务器上运行，因此仍然由受信任的第三方完全控制。
 
-Ethereum Classic solves this because it is a decentralized blockchain system were developers may deploy smart contracts and these programs get immediately replicated among all participating machines in the network. 
+以太坊经典通过成为一个去中心化的区块链系统来解决这个问题，开发者可以部署智能合约，并且这些程序会立即在网络中的所有参与机器之间进行复制。
 
-This means that there is no trusted third party controlling these autonomous agents anymore.
+这意味着不再有受信任的第三方控制这些自主代理。
 
-## Why Are Autonomous Agents in ETC Truly Trust Minimized?
+## 为什么ETC中的自主代理真正实现了信任最小化？
 
-The level of general computing decentralization that ETC has achieved had never been possible in computer science, but now is possible in Ethereum Classic because it is a fully replicated, proof of work blockchain, has a fixed and algorithmic monetary policy, and is programmable.
+ETC实现的计算分散化水平在计算机科学中以前是不可能的，但现在在以太经典中变成了可能，因为它是一个完全复制的工作量证明的区块链，具有固定且算法化的货币政策，并且可编程。
 
-Fully replicated, proof of work blockchain: Full replication is the distribution of the database of the system in all participating nodes. This means that all accounts, balances, and decentralized programs inside ETC are copied everywhere making it extremely difficult to tamper with them. Proof of work allows this replication by providing a reliable signaling system that all nodes in the network may follow to be in lockstep with each other in the same exact state of the database every 13 seconds.
+完全复制的工作量证明区块链：完全复制是将系统的数据库分发到所有参与的节点。这意味着ETC中的所有账户、余额和去中心化程序都在各处进行了复制，使得对其进行篡改变得极其困难。工作量证明通过提供可靠的信号系统，使得网络中的所有节点可以按照相同的数据库状态每13秒进行同步。
 
-Fixed and algorithmic monetary policy: As the miners that perform the proof of work get paid in the currency of the system, and the money in itself is sound, then they are incentivized to participante to earn ETC. The soundness of ETC is rooted in that it has a capped supply, a limited issuance rate, and that these rules are nearly impossible to manipulate by any third party.
+固定和算法化的货币政策：由于执行工作量证明的矿工会以系统的货币支付报酬，并且货币本身是稳定的，他们有动力参与并获得ETC。ETC的稳定性根源于其有限的供应量、有限的发行速度以及这些规则几乎不可能被任何第三方操纵。
 
-Programmable: The programmability of ETC is what enables it to host software programs that may perfectly act as autonomous agents, thus replacing trusted third parties in the mediation of human action.
+可编程性：ETC的可编程性使其能够托管可完美充当自主代理的软件程序，从而取代了在人类行为中的信任第三方的中介作用。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，请访问: https://ethereumclassic.org
