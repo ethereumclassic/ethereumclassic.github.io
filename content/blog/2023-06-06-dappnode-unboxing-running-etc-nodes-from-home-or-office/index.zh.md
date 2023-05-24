@@ -7,7 +7,9 @@ tags: ["guide"]
 linkImage: ./dappnode-unboxing.png
 ---
 
-As we showed in our previous post about DappNode, our core developer Chris Ziogas has integrated the ETC Core Geth software client to the DappNode dappstore for the ETC mainnet and the Mordor testnet. In this post we will show four videos with the unboxing of a new DappNode device, then connecting it to the power feed and to your local router at home or office, connecting it to your computer so you can manage your nodes on the device, and finally installing the ETC Core Geth client both for the mainnet and the testnet.
+As we showed in our [previous post about DappNode](https://ethereumclassic.org/blog/2023-04-26-how-run-an-ethereum-classic-node-using-dappnode), our core developer Chris Ziogas has integrated the ETC Core Geth software client to the DappNode dappstore for the ETC mainnet and the Mordor testnet. In this post we will show four videos with the unboxing of a new DappNode device, then connecting it to the power feed and to your local router at home or office, connecting it to your computer so you can manage your nodes on the device, and finally installing the ETC Core Geth client both for the mainnet and the testnet.
+
+To buy your first DappNode, please go here: [https://dappnode.com/en-us/shop](https://dappnode.com/en-us/shop)
 
 ## 1. DappNode Unboxing
 
@@ -26,6 +28,8 @@ Here we show how to connect to the wall, to the local WiFi router, and set it up
 In this segment we show how to associate your newly installed DappNode to your computer, whether it is a Mac or Windows, and how to start managing your DappNode, changing passwords, and going over each section of the user interface.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hbQUmCsw03Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+To learn more about how to set up your DappNode go to the User Guide by DappNode: [https://docs.dappnode.io/](https://docs.dappnode.io/)
 
 ## 4. Installing the ETC Core Geth Mainnet and Testnet Node Clients
 
