@@ -10,18 +10,6 @@ linkImage: ./banner.png
 ---
 **您可以由此收听或观看本期内容:**
 
----
-title: "How to Start Using ETC From Scratch"
-date: 2023-05-31
-author: Donald McIntyre
-contributors: ["DonaldMcIntyre"]
-tags: ["education"]
-linkImage: ./banner.png
----
-
----
-**您可以由此收听或观看本期内容:**
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PnDydbdpKCU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
@@ -86,140 +74,40 @@ linkImage: ./banner.png
 
 当您找到与您的法定货币对应的货币对时，点击“购买”按钮购买ETC。然后，它将出现在您的账户中。
 
-## Get a Non-Custodial Wallet or Hardware Wallet
+## 获取非托管钱包或硬件钱包
 
-![Get a non-custodial or hardware wallet.](./4.png)
+![获取非托管钱包或硬件钱包](./4.png)
 
-Once you bought your ETC and they appear in your account, there may be a waiting period until they are free for you to move them away from the exchange. This period is the time that it takes for you fiat money to actually move from your bank to your account at the exchange. This may be seconds if you are using an instant service, or 2 or 3 days if you are using older traditional systems such as ACH in the US or wire transfers.
+一旦您购买了ETC并在您的账户中显示出来，可能需要等待一段时间，直到它们可以自由地从交易所中转移出来。这段时间是您的法定货币实际从银行转移到交易所账户的时间。如果您使用即时服务，这可能只需几秒钟，但如果您使用较旧的传统系统（如美国的ACH或电汇），可能需要2至3天的时间。
 
-In the meantime you need to get a non-custodial or hardware wallet so you can move your ETC out of the exchange. As mentioned before, exchanges are as risky or more than banks, so if you keep your coins there you lose all the benefits of decentralization and self custody of truly secure proof of work blockchains such as Ethereum Classic.
+在此期间，您需要获取一个非托管钱包或硬件钱包，以便能够将您的ETC从交易所中转移出来。如前所述，交易所的风险与银行相当甚至更高，因此如果您将您的代币保留在那里，您将失去去中心化和自我保管真正安全的工作量证明区块链（如以太经典）的所有优势。
 
-The most widely used wallets for ETC and in general are either software wallets or hardware wallets. Some popular brands are the following:
+最常用的ETC和一般钱包类型通常为软件钱包或硬件钱包。以下是一些知名品牌：
 
-Software wallets: [MetaMask](https://metamask.io), [Trust Wallet](https://trustwallet.com), or [Exodus](https://exodus.com).
+软件钱包: [MetaMask](https://metamask.io), [Trust Wallet](https://trustwallet.com)或[Exodus](https://exodus.com).
 
-Hardware wallets: [Ledger](https://ledger.com) or [Trezor](https://trezor.io).
+硬件钱包: [Ledger](https://ledger.com)或[Trezor](https://trezor.io).
 
-*Disclaimer: We do not endorse nor earn commissions from the exchange or wallet brands listed in this post, we just list them here for your convenience. Do your own research.*
+*免责声明：我们不对本文中列出的交易所或钱包品牌背书，也不从中获得佣金，我们只是为您的便利而列出它们。请自行进行研究。*
 
-## Move Your $ETC
+## 转移您的ETC
 
-![Move your $ETC.](./5.png)
+![转移您的$ETC.](./5.png)
 
-When you select your wallet, make sure you went through the whole process of writing down your 12 or 24 word secret passphrase and stored it in a safe place. 
+当您选择钱包时，请确保完成了整个过程，包括记录下您的12或24个单词的秘密密码，并将其存放在安全的地方。
 
-When using software or hardware non-custodial wallets you are your own bank. This means that you, and only you are responsible for your ETC because you are holding your private keys. 
+当使用非托管的软件或硬件钱包时，您就是自己的银行。这意味着您，只有您一个人对您的ETC负责，因为您掌握着您的私钥。
 
-Nevertheless, this is the most important thing to learn: That only by moving your ETC away from centralized services is how you will get the benefits of decentralization, censorship resistance, and permissionlessness. But this comes with great responsibility because if you lose your secret passphrase, private keys, or you get hacked, you may lose your ETC.
+然而，这是最重要的事情要学会的：只有通过将您的ETC移出集中式服务，您才能获得去中心化、抗审查和无需许可的好处。但这也意味着您要承担巨大的责任，因为如果您丢失了秘密密码、私钥或者被黑客攻击，您可能会丢失您的ETC。
 
-Once you set up your non-custodial wallet, then press “Receive” in the ETC asset in your wallet app and it will show you an address to receive your coins. Copy it.
+设置完非托管钱包后，在您的钱包应用程序中点击ETC资产的“接收”按钮，它会显示一个接收您代币的地址。复制它。
 
-Then, go to your crypto exchange and press the “Send” button from your account, paste the ETC address, make sure that it is correct, and then press send. It will take several seconds or a few minutes to see your ETC on your wallet address.
+然后，转到您的加密货币交易所，在您的账户中点击“发送”按钮，粘贴ETC地址，确保地址是正确的，然后点击发送。您需要等待几秒钟或几分钟才能在您的钱包地址上看到您的ETC。
 
-Congratulations! Now you have bought and safely stored your ETC.
-
----
-
-**Thank you for reading this article!**
-
-To learn more about ETC please go to: https://ethereumclassic.org
-
+恭喜！现在您已经购买并安全存储了您的ETC。
 
 ---
 
-![Five steps to buy ETC for the first time.](./banner.png)
+**感谢您阅读本期文章!**
 
-As many new entrants ask how to buy Ethereum Classic (ETC) for the first time, this post will answer how the process works from scratch.
-
-We are all used to the traditional banking system, so we understand bank accounts, payments, moving fiat money, using credit cards, getting paid, doing wire transfers, using apps, writing checks, and all the usual stuff. The problem is that crypto is very different.
-
-The steps to buy ETC from scratch start with your bank account where you have your fiat money, then selecting a crypto exchange, buying ETC in the exchange, getting a non-custodial wallet or hardware wallet, and finally moving your ETC away from the centralized exchange.
-
-In the following sections we will explain each step.
-
-## Bank Account With Fiat Money
-
-![Bank account.](./1.png)
-
-The first step to buy crypto is to have a bank account that you may connect to a crypto exchange to move your fiat money there. This is the best method to start buying ETC. 
-
-It is also possible to wire the money or use other local money transfer methods in your country. Exchanges such as [Coinbase](https://coinbase.com), [Kraken](https://kraken.com), and [Binance](https://binance.com) have worked very well to establish rails to move your fiat money easily to them. 
-
-Some may even use Paypal (international), credit cards (international), Mercado Pago (Latin America), SEPA (Europe), or other methods available to you locally.
-
-In some regions it is important to have your money in a larger bank. For example, smaller regional banks in the US do not connect to Coinbase, so users had to open accounts at the larger banks such as Chase, Wells Fargo, Citi, or Bank of America.
-
-If you have your fiat money set up and available to transfer, then the next step is to select a crypto exchange. 
-
-## Select a Crypto Exchange
-
-![Select crypto exchange.](./2.png)
-
-To keep it easy, it is advisable to use the most widely used crypto exchanges. This does not mean that they are secure and solvent. To the contrary, in this post we will explain how to escape them as soon as you buy your ETC! 
-
-However, to use exchanges such as Coinbase (US and international), Kraken (US and international), and Binance (international) is the best way to start and they all support ETC.
-
-If you select any of these exchanges, the steps to open the accounts are pretty standardized: You need to provide documentation to identify yourself, when they approve you they open your account, then you need to connect your bank account or use any other available transfer system, and then you move your cash to your account at the exchange.
-
-Bear in mind that using crypto exchanges is exactly the same as using banks, they are centralized institutions with all the same risks or even higher than banks because they are not guaranteed by governments.
-
-Once you moved your cash, the next step is to buy ETC.
-
-## Buy $ETC
-
-![Buy $ETC.](./3.png)
-
-The official symbol of ETC as a cryptocurrency is $ETC, but when you have your account at Coinbase, Kraken, or Binance, they all show the ETC markets in pairs of currencies. 
-
-The format is to put first ETC, the cryptocurrency you are buying, and second the fiat currency that you are using to purchase it. For example, if you are buying ETC with US dollars, then you need to find the market for the pair “ETC/USD”.
-
-At Coinbase, Kraken, or Binance you will find all these pairs and many more:
-
-ETC/USD (United States)
-ETC/EUR (European Union)
-ETC/GBP (United Kingdom)
-ETC/JPY (Japan)
-ETC/ARS (Argentina)
-ETC/CNY (China)
-ETC/INR (India)
-ETC/BRL (Brazil)
-
-When you find the pair for your fiat currency, then press the “Buy” button and purchase ETC. Then, it will appear in your account.
-
-## Get a Non-Custodial Wallet or Hardware Wallet
-
-![Get a non-custodial or hardware wallet.](./4.png)
-
-Once you bought your ETC and they appear in your account, there may be a waiting period until they are free for you to move them away from the exchange. This period is the time that it takes for you fiat money to actually move from your bank to your account at the exchange. This may be seconds if you are using an instant service, or 2 or 3 days if your are using older traditional systems such as ACH in the US or wire transfers.
-
-In the meantime you need to get a non-custodial or hardware wallet so you can move your ETC out of the exchange. As mentioned before, exchanges are as risky or more than banks, so if you keep your coins there you lose all the benefits of decentralization and self custody of truly secure proof of work blockchains such as Ethereum Classic.
-
-The most widely used wallets for ETC and in general are either software wallets or hardware wallets. Some popular brands are the following:
-
-Software wallets: [MetaMask](https://metamask.io), [Trust Wallet](https://trustwallet.com), or [Exodus](https://exodus.com).
-
-Hardware wallets: [Ledger](https://ledger.com) or [Trezor](https://trezor.io).
-
-*Disclaimer: We do not endorse nor earn commissions from the exchange or wallet brands listed in this post, we just list them here for your convenience. Do your own research.*
-
-## Move Your $ETC
-
-![Move your $ETC.](./5.png)
-
-When you select your wallet, make sure you went through the whole process of writing down your 12 or 24 word secret passphrase and stored it in a safe place. 
-
-When using software or hardware non-custodial wallets you are your own bank. This means that you, and only you are responsible for your ETC because you are holding your private keys. 
-
-Nevertheless, this is the most important thing to learn: That only by moving your ETC away from centralized services is how you will get the benefits of decentralization, censorship resistance, and permissionlessness. But this comes with great responsibility because if you lose your secret passphrase, private keys, or you get hacked, you may lose your ETC.
-
-Once you set up your non-custodial wallet, then press “Receive” in the ETC asset in your wallet app and it will show you an address to receive your coins. Copy it.
-
-Then, go to your crypto exchange and press the “Send” button from your account, paste the ETC address, make sure that it is correct, and then press send. It will take several seconds or a few minutes to see your ETC on your wallet address.
-
-Congratulation! Now you have bought and safely stored your ETC.
-
----
-
-**Thank you for reading this article!**
-
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，请访问: https://ethereumclassic.org
