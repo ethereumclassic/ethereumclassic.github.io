@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Course: 24. What Are Programmable Native Cryptocurrencies?"
+title: "以太坊经典课程: 24. 什么是可编程本地加密货币?"
 date: 2023-06-01
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,69 +8,69 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WvGttc5lAGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-In the previous class of the Ethereum Classic (ETC) course we explained what are the native cryptocurrencies, the original invention of the industry, how they gain economic value, and why the proof of work versions of them are digital gold.
+在以太坊经典（ETC）课程的上一堂课中，我们解释了什么是本地加密货币，它们是行业的原始创新，如何获得经济价值，以及为什么它们的工作证明版本被称为数字黄金。
 
-In this class we will explain what are programmable digital cryptocurrencies, why ETC is called programmable digital gold, and why it has an enhanced level of trust minimization as compared to non-programmable digital gold.
+在本课中，我们将解释什么是可编程数字加密货币，为什么ETC被称为可编程数字黄金，并且与不可编程数字黄金相比，它为最小化信任提供了更高水平的增强。
 
-In the next few classes we will cover these other topics:
+在接下来的几节课中，我们将涵盖以下其他主题：
 
-- Class 25: What Are ERC-20 Tokens?
-- Class 26: What Are Convertible Stablecoins?
-- Class 27: What Are Algorithmic Stablecoins?
-- Class 28: What Are Privacy Coins?
-- Class 29: What Are Decentralized Finance (DeFi) Coins?
-- Class 30: What Are File Storage Coins?
+- 第25课：什么是ERC-20代币？
+- 第26课：什么是可转换稳定币？
+- 第27课：什么是算法稳定币？
+- 第28课：什么是隐私币？
+- 第29课：什么是去中心化金融（DeFi）币？
+- 第30课：什么是文件存储币？
 
-## What Are Non-Programmable Native Cryptocurrencies?
+## 什么是非可编程本地加密货币？
 
-As we explained in the previous class, native cryptocurrencies are the coins that are issued to pay for miner rewards and for fees to have transactions included in blocks. They are designed into the base protocol of a blockchain network and have economic value because of their default use cases.
+正如我们在之前的课程中解释的那样，本地加密货币是用于支付矿工奖励和交易手续费的硬币，用于将交易包括在区块中。它们被设计成区块链网络的基本协议，并且由于其默认用途而具有经济价值。
 
-Of all the native cryptocurrencies some are non-programmable and others are programmable. 
+在所有的本地加密货币中，有些是非可编程的，而其他一些是可编程的。
 
-Bitcoin, for example, is merely a ledger with accounts and balances and people can only move coins from one account to the other in that system. This is a model of a non-programmable coin because inside Bitcoin it is impossible to host decentralized software programs.
+比特币，例如，仅仅是一个带有账户和余额的分类账，人们只能在该系统中将硬币从一个账户转移到另一个账户。这是非可编程币的模型，因为在比特币内部无法托管去中心化软件程序。
 
-Other non-programmable coins are Litecoin, Monero, and DogeCoin. 
+其他非可编程币包括莱特币、门罗币和狗狗币。
 
-## What Are Programmable Native Cryptocurrencies?
+## 什么是可编程本地加密货币？
 
-On the other hand, Ethereum Classic is an example of a programmable coin. ETC is the same as Bitcoin in that it is a ledger with accounts and balances, but it also has space in its ledger to store decentralized software programs.
+另一方面，以太经典是可编程币的一个例子。ETC与比特币相同，它是一个带有账户和余额的分类账，但它还有空间来存储去中心化软件程序。
 
-These decentralized software programs can have their own ETC addresses, hold ETC, move ETC when called, and do all these things with complex rules and conditions. This is what makes the ETC coin a programmable native cryptocurrency.
+这些去中心化软件程序可以拥有自己的ETC地址，持有ETC，在调用时移动ETC，并以复杂的规则和条件执行所有这些操作。这就是使ETC成为可编程本地加密货币的原因。
 
-Inside ETC it is possible to have smart contracts with all sorts of programmability and functions, from banking, to insurance, to decentralized exchanges, property registries, NFTs, decentralized auctions, bonds and stock issuance, DAOs, and many more kinds of use cases.
+在ETC内部，可以拥有各种可编程性和功能的智能合约，从银行业务、保险业务到去中心化交易所、财产登记、非同质化代币（NFT）、去中心化拍卖、债券和股票发行、DAO等各种用例。
 
-## What Is Programmable Digital Gold?
+## 什么是可编程数字黄金？
 
-The quality of digital gold is something that both Bitcoin and ETC enjoy because both coins are issued only after enormous amounts of computational work is done by miners, thus making them scarce and valuable, just like gold is in the real world.
+数字黄金的特质是比特币和以太经典都享有的，因为这两种加密货币只有在矿工进行了大量计算工作之后才会发行，从而使它们变得稀缺和有价值，就像现实世界中的黄金一样。
 
-Although Bitcoin is the largest digital gold asset, ETC is the largest programmable digital gold asset in the world. This is because the native coin of Ethereum Classic is programmable with smart contracts at the same time as being digital gold.
+尽管比特币是最大的数字黄金资产，但以太经典是全球最大的可编程数字黄金资产。这是因为以太坊经典的本地币可以在成为数字黄金的同时与智能合约一起可编程。
 
-As Ethereum is an insecure proof of stake system, its coin is not digital gold, therefore, even if it supports smart contracts, it is not programmable digital gold.
+由于以太坊是一个不安全的权益证明系统，它的币不是数字黄金，因此，即使它支持智能合约，也不是可编程数字黄金。
 
-The best description for ETC is that it is Bitcoin’s philosophy with Ethereum’s technology.
+对于以太经典最好的描述是，它拥有比特币的理念和以太坊的技术。
 
-ETC has the incredibly valuable position of being the largest proof of work (decentralized), fixed monetary policy (digital gold), and smart contracts (programmable) blockchain in the world, therefore it is poised for a large and dominant market share in the future.
+以太经典具有非常宝贵的地位，它是全球最大的工作量证明（去中心化）、固定货币政策（数字黄金）和智能合约（可编程）的区块链，因此它在未来有望占据大部分市场份额并具有主导地位。
 
-## Why Is Ethereum Classic More Trust Minimized?
+## 为什么以太经典具有更小的信任度？
 
-As ETC’s native cryptocurrency is proof of work and programmable it is the most trust minimized system in the whole blockchain industry because not only the accounts and balances are inside the secure environment of the blockchain, but also the autonomous agents, which are smart contracts or dapps, are hosted in it.
+由于以太经典的本地加密货币是工作量证明且可编程的，它是整个区块链行业中最小信任度的系统，因为不仅账户和余额位于区块链的安全环境内，而且自治代理（智能合约或dapp）也托管在其中。
 
-![ETC is BTC philosophy with ETH technology.](./11.png)
+![以太经典是比特币理念与以太坊技术的结合](./11.png)
 
-Autonomous agents replace trusted third parties in the real world because they can fulfill all their duties but in a totally decentralized way, and in ETC they are inside the highly secure environment of its proof of work network.
+自治代理在现实世界中取代了受信任的第三方，因为它们可以以完全去中心化的方式履行所有职责，而在以太经典中，它们位于其工作量证明网络的高度安全环境内。
 
-This combination, proof of work plus programmability, avoids insecure setups like the need to jump from the blockchain to corporate cloud services and back to get the services of apps, avoids the need to do complex and insecure cross-chain connections, and avoids the use of dapps in external insecure proof of stake networks such as Ethereum, Binance Smart Chain, Cardano, and others.
+这种工作量证明加可编程性的组合避免了不安全的设置，例如需要从区块链跳转到企业云服务，再返回以获取应用程序的服务；避免了进行复杂且不安全的跨链连接的需求；避免了在外部不安全的权益证明网络（如以太坊、币安智能链、Cardano等）中使用去中心化应用程序（dapp）。
 
-In Ethereum Classic, not only the digital gold is hosted, but also the fully trust minimized autonomous agents, therefore a maximum level of trust minimization is achieved for users and businesses on a global scale.
+在以太经典中，不仅托管了数字黄金，而且完全信任最小化的自治代理，因此在全球范围内实现了用户和企业的最大程度信任最小化。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，请访问: https://ethereumclassic.org
