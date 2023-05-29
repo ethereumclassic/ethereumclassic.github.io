@@ -79,7 +79,7 @@ items:
 
           In response, Ethereum Classic clients and the wider ecosystem since implemented a number of countermeasures, such as longer confirmation times on exchanges, ECIP-1099, and MESS. Since these countermeasures have been in place, there have been no further 51% attacks. 
 
-          Moreover, since Ethereum's switch to Proof of Stake in 2022, ETC became the largest GPU-minable chain, increasing it's hash rate by 50x to 100x since the last 51% attack. This has made it exceedingly unlikely that a pool of hashrate is available to rent out to perform another 51% attack, and even if it was, would prohibitively expensive to do so without any guararuntee of success.
+          Moreover, since Ethereum's switch to Proof of Stake in 2022, ETC became the largest GPU-minable chain, increasing its hash rate by 50x to 100x since the last 51% attack. This has made it exceedingly unlikely that a pool of hashrate is available to rent out to perform another 51% attack, and even if it was, would prohibitively expensive to do so without any guarantee of success.
 
           As with all Proof of Work blockchains, the potential for 51% attacks to occur is a necessary part of the protocol's design. As time goes on and Ethereum Classic continues to no longer be attacked in this way, stakeholders can be increasingly confident that 51% attacks are a thing of a past. 
 
