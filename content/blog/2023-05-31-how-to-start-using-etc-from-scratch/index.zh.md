@@ -1,4 +1,16 @@
 ---
+title: "如何从零起步ETC"
+date: 2023-05-31
+author: Donald McIntyre
+contributors: ["DonaldMcIntyre"]
+tags: ["education"]
+linkImage: ./banner.png
+---
+
+---
+**您可以由此收听或观看本期内容:**
+
+---
 title: "How to Start Using ETC From Scratch"
 date: 2023-05-31
 author: Donald McIntyre
@@ -8,82 +20,71 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
-
----
-title: "How to Start Using ETC From Scratch"
-date: 2023-05-31
-author: Donald McIntyre
-contributors: ["DonaldMcIntyre"]
-tags: ["education"]
-linkImage: ./banner.png
----
-
----
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PnDydbdpKCU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-![Five steps to buy ETC for the first time.](./banner.png)
+![五步购买ETC](./banner.png)
 
-As many new entrants ask how to buy Ethereum Classic (ETC) for the first time, this post will answer how the process works from scratch.
+对于许多首次购买以太经典（ETC）的新进入者，本文将解答从零开始的购买过程。
 
-We are all used to the traditional banking system, so we understand bank accounts, payments, moving fiat money, using credit cards, getting paid, doing wire transfers, using apps, writing checks, and all the usual stuff. The problem is that crypto is very different.
+我们都习惯了传统的银行系统，因此我们了解银行账户、支付、转移法定货币、使用信用卡、收到付款、进行电汇、使用应用程序、写支票以及其他常规操作。问题是，加密货币与这些非常不同。
 
-The steps to buy ETC from scratch start with your bank account where you have your fiat money, then selecting a crypto exchange, buying ETC in the exchange, getting a non-custodial wallet or hardware wallet, and finally moving your ETC away from the centralized exchange.
+从零开始购买ETC的步骤从您的银行账户开始，您在其中拥有法定货币，然后选择一个加密货币交易所，在交易所购买ETC，获取一个非托管钱包或硬件钱包，最后将您的ETC从集中式交易所转移走。
 
-In the following sections we will explain each step.
+接下来的几节中，我们将解释每个步骤。
 
-## Bank Account With Fiat Money
+## 法币的银行账户
 
-![Bank account.](./1.png)
+![银行账户](./1.png)
 
-The first step to buy crypto is to have a bank account that you may connect to a crypto exchange to move your fiat money there. This is the best method to start buying ETC. 
+购买加密货币的第一步是拥有一个银行账户，您可以将其连接到加密货币交易所以便将法定货币转移至该交易所。这是购买ETC的最佳方法。
 
-It is also possible to wire the money or use other local money transfer methods in your country. Exchanges such as Coinbase, Kraken, and Binance have worked very well to establish rails to move your fiat money easily to them. 
+您也可以通过电汇或使用您所在国家的其他本地货币转账方式。Coinbase、Kraken和Binance等交易所已经非常成功地建立了通道，使您能够轻松将法定货币转移到它们那里。
 
-Some may even use Paypal (US and international), credit cards (US and international), Mercado Pago (Latin America), SEPA (Europe), or other methods available to you locally.
+有些人甚至可以使用PayPal（美国和国际）、信用卡（美国和国际）、Mercado Pago（拉丁美洲）、SEPA（欧洲）或其他您当地可用的方法。
 
-In some regions it is important to have your money in a larger bank. For example, smaller regional banks in some US states do not connect to Coinbase, so users had to open accounts at the larger banks such as US Bank, Chase, Wells Fargo, Citi, or Bank of America.
+在某些地区，将您的资金放在较大的银行中很重要。例如，在一些美国州份，较小的地区银行无法连接到Coinbase，因此用户不得不在美国银行、JP摩根大通、富国银行、花旗银行或美国银行等较大的银行开设账户。
 
-If you have your fiat money set up and available to transfer, then the next step is to select a crypto exchange. 
+如果您已经设置好并可以转移的法定货币，那么下一步是选择一个加密货币交易所。
 
-## Select a Crypto Exchange
+## 选择一个加密货币交易所
 
-![Select crypto exchange.](./2.png)
+![选择交易所](./2.png)
 
-To keep it easy, it is advisable to use the most widely used crypto exchanges. This does not mean that they are secure and solvent. To the contrary, in this post we will explain how to escape them as soon as you buy your ETC! 
+为了简化操作，建议使用最广泛使用的加密货币交易所。这并不意味着它们是安全和有偿付能力的。相反，在本文中，我们将解释如何在购买ETC后尽快避免使用它们！
 
-However, to use exchanges such as Coinbase (US and international), Kraken (US and international), and Binance (international) is the best way to start and they all support ETC.
+然而，使用Coinbase（美国和国际）、Kraken（美国和国际）和Binance（国际）等交易所是开始的最佳方式，它们都支持ETC。
 
-If you select any of these exchanges, the steps to open an account are pretty standardized: You need to provide documentation to identify yourself, when they approve you they open your account, then you need to connect your bank account or use any other available transfer system, and finally you move your cash to your account at the exchange.
+如果您选择使用这些交易所之一，开设账户的步骤相当标准化：您需要提供身份验证文件，他们审核通过后会为您开设账户，然后您需要连接您的银行账户或使用其他可用的转账系统，最后将资金转移到交易所的账户上。
 
-Bear in mind that using crypto exchanges is exactly the same as using banks, they are centralized institutions with all the same risks or even higher than banks because they are not guaranteed by governments.
+请记住，使用加密货币交易所与使用银行完全相同，它们是集中化的机构，具有与银行相同甚至更高的风险，因为它们不受政府保障。
 
-Once you moved your cash, the next step is to buy ETC.
+一旦您转移了资金，下一步就是购买ETC。
 
-## Buy $ETC
+## 购买$ETC
 
-![Buy $ETC.](./3.png)
+![购买$ETC.](./3.png)
 
-The official symbol of ETC as a cryptocurrency is $ETC, but when you have your account at Coinbase, Kraken, or Binance, they all show the ETC markets in pairs of currencies. 
+作为加密货币，ETC的官方符号是$ETC，但是当您在Coinbase、Kraken或Binance上开设账户时，它们都会以货币对的形式显示ETC的市场。
 
-The format is to put first ETC, the cryptocurrency you are buying, and second the fiat currency that you are using to purchase it. For example, if you are buying ETC with US dollars, then you need to find the market for the pair “ETC/USD”.
+格式是将首先放置您要购买的加密货币ETC，然后是您用于购买的法定货币。例如，如果您用美元购买ETC，则需要找到“ETC/USD”货币对的市场。
 
-At Coinbase, Kraken, or Binance you will find all these pairs and many more:
+在Coinbase、Kraken或Binance上，您会找到所有这些货币对以及更多：
 
-- ETC/USD (United States Dollar)
-- ETC/EUR (European Union Euro)
-- ETC/GBP (British Pound)
-- ETC/JPY (Japanese Yen)
-- ETC/ARS (Argentine Peso)
-- ETC/CNY (Chinese Yuan)
-- ETC/INR (Indian Rupee)
-- ETC/BRL (Brazilian Real)
+- ETC/USD（美元）
+- ETC/EUR（欧元）
+- ETC/GBP（英镑）
+- ETC/JPY（日元）
+- ETC/ARS（阿根廷比索）
+- ETC/CNY（人民币）
+- ETC/INR（印度卢比）
+- ETC/BRL（巴西雷亚尔）
 
-When you find the pair for your fiat currency, then press the “Buy” button and purchase ETC. Then, it will appear in your account.
+
+当您找到与您的法定货币对应的货币对时，点击“购买”按钮购买ETC。然后，它将出现在您的账户中。
 
 ## Get a Non-Custodial Wallet or Hardware Wallet
 
