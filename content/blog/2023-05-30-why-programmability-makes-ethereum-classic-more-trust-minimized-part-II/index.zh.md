@@ -1,5 +1,5 @@
 ---
-title: "Why Programmability Makes Ethereum Classic More Trust Minimized, Part II"
+title: "为什么可编程性使以太经典更加信任最小化，第二部分"
 date: 2023-05-30
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,82 +8,82 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QkIDeNLZ3ic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-![The quadrants in which different networks are located.](./1.png)
+![不同网络所处的象限](./1.png)
 
-In [part I](https://deploy-preview-1210--ethereumclassic.netlify.app/blog/2023-05-24-why-programmability-makes-ethereum-classic-more-trust-minimized-part-I) of this two part series we explained why Ethereum Classic (ETC) can host truly trust minimized autonomous agents inside its secure environment.
+在[第一部分中](https://deploy-preview-1210--ethereumclassic.netlify.app/blog/2023-05-24-why-programmability-makes-ethereum-classic-more-trust-minimized-part-I)，我们解释了为什么以太经典（ETC）可以在其安全环境中托管真正信任最小化的自治代理。
 
-The reasons we gave were three: 
+我们给出的原因有三个：
 
-**ETC is a fully replicated, proof of work blockchain:** Full replication is the distribution of the database of the system in all participating nodes. This means that all accounts, balances, and decentralized programs inside ETC are copied everywhere making it extremely difficult to tamper with them. Proof of work allows this replication by providing a reliable signaling system that all nodes in the network may follow to be in lockstep with each other in the same exact state of the database every 13 seconds.
+**ETC是一个完全复制的工作量证明区块链:**  全部复制是将系统的数据库在所有参与节点中分发。这意味着ETC内部的所有账户、余额和分布式程序都被复制到每个地方，使得篡改它们变得极为困难。工作量证明通过提供可靠的信号系统，使得网络中的所有节点可以在每13秒钟保持同步，处于完全相同的数据库状态。
 
-**ETC has a fixed and algorithmic monetary policy:** As the miners that perform the proof of work get paid in the currency of the system, and the money in itself is sound, then they are incentivized to participante to earn ETC. The soundness of ETC is rooted in that it has a capped supply, a limited issuance rate, and that these rules are nearly impossible to manipulate by any third party.
+**ETC具有固定和算法性的货币政策:** 由于执行工作量证明的矿工会以系统的货币支付报酬，而货币本身是可靠的，因此他们有动力参与并赚取ETC。ETC的可靠性源于其有限的供应量、有限的发行速度，以及这些规则几乎不可能被任何第三方操控。
 
-**Smart contracts on ETC make it programmable:** The programmability of ETC is what enables it to host software programs that may perfectly act as autonomous agents, thus replacing trusted third parties in the mediation of human action inside the secure environment of the blockchain.
+**ETC上的智能合约使其具有可编程性:** ETC的可编程性使其能够托管可以完美充当自治代理的软件程序，从而在区块链的安全环境中取代了信任的第三方，用于人类行为的调解。
 
-In this post we will describe the different quadrants in the diagram above and explain why the combination of proof of work plus programmability is the most trust minimized model for a blockchain.
+在本文中，我们将描述上图中的不同象限，并解释为什么工作量证明加上可编程性的组合是区块链中最信任最小化的模型。
 
-## Proof of Stake, Non-Programmable Networks 
+## 权益证明、不可编程网络
 
-![PoS, non-programmable quadrant.](./2.png)
+![PoS, 不可编程象限](./2.png)
 
-Note that I called the systems in this quadrant “networks” and not “blockchains”. This is because a blockchain is a system where miners group transactions into blocks of data, stamp them with a hash that cost them enormous amounts of work, energy, and money, and then send them to the rest of the network for verification and inclusion in the chain of blocks, or blockchain. Any system that doesn’t do this is not a blockchain, it is just a traditional system with very low security disguised as a blockchain.
+请注意，我称这个象限中的系统为“网络”，而不是“区块链”。这是因为区块链是一个将交易分组为数据块、用大量的工作、能源和资金为其盖章的哈希，并将其发送给网络的其余部分进行验证和包含在块链中的系统。任何不执行这一过程的系统都不是区块链，而只是一个低安全性的传统系统，伪装成区块链。
 
-For the same reason, that they do not use proof of work as their consensus mechanism, proof of stake or proof of authority networks, are wholly inadequate and insecure for holding accounts with balances of money, let alone running software agents that purport to disintermediate banks and other trusted third parties.
+出于相同的原因，不使用工作量证明作为共识机制的权益证明或授权证明网络，对于持有具有资金余额的账户，更不用说运行自称能够绕过银行和其他信任第三方的软件代理的系统，它们是完全不足和不安全的。
 
-Indeed, networks like Ripple and Stellar, both proof of authority networks which is very similar to proof of stake, are controlled and managed by corporations or foundations and the node operators are financial institutions themselves, thus they comply with all national and banking regulations wherever they operate. This makes them fully trusted and vulnerable technologies, just like traditional systems. 
+实际上，Ripple和Stellar等网络都是授权证明网络，非常类似于权益证明，它们由公司或基金会控制和管理，节点运营者本身就是金融机构，因此无论它们在哪里运作，都要遵守所有国家和银行的监管规定。这使它们成为完全可信且易受攻击的技术，就像传统系统一样。
 
-Dash, is a combined proof of work and proof of stake network, but as any other thing, its security is as good as its weakest link. Therefore, it is as insecure as any proof of stake system. On top of that, as a sign of how manipulable these systems may be, Dash has a built-in treasury where developers suck money from the system, a source of potential corruption and centralization, and a voting system called “governance” that enables “rule by the majority” which is totally contrary to blockchain security design.
+Dash是一种结合了工作量证明和权益证明的网络，但与其他任何事物一样，它的安全性取决于它最薄弱的环节。因此，它与任何权益证明系统一样不安全。此外，作为这些系统可操纵性的一个迹象，Dash内置了一个从系统中吸取资金的财政部门，这是潜在腐败和中心化的来源，还有一个名为“治理”的投票系统，实现了“多数统治”，这完全违背了区块链安全设计的原则。
 
-## Proof of Stake and Programmable Networks 
+## 权益证明和可编程网络
 
-![PoS, programmable quadrant.](./3.png)
+![PoS, 可编程象限](./3.png)
 
-Note that I refer to these systems as “networks” and not “blockchains” like in the previous section. They have the same problems, proof of stake is a traditional centralized system disguised as a blockchain. 
+请注意，我将这些系统称为“网络”，而不像前面一节中称之为“区块链”。它们具有相同的问题，权益证明是一个伪装成区块链的传统中心化系统。
 
-They are extremely complex technologies that even their creators find it difficult to understand because they have so many parts and tens of thousands of lines of code.
+它们是非常复杂的技术，即使是它们的创建者也很难理解，因为它们有很多部分和成千上万行的代码。
 
-The fact that proof of stake networks may be programmable does not make them any better. These systems have the same flaw as traditional technologies: It doesn’t matter how well designed the autonomous agents (dapps) may be in them, and how objective and fair their protocols may be, they are still controlled by few participants that dominate the networks in which they are hosted, usually a foundation or corporation that sponsors the system, a few developers, and the large staking pools.
+权益证明网络可能是可编程的，但这并不使它们变得更好。这些系统和传统技术有着相同的缺陷：无论这些自主代理（dapp）在设计上有多好，它们的协议有多客观和公正，它们仍然受到少数主导网络的参与者的控制，通常是一个支持该系统的基金会或公司、少数开发者和大型权益池。
 
-The above means that in networks such as Ethereum, Binance Smart Chain, and Cardano, you may have what they call “decentralized exchanges”, “NFT markets”, “Decentralized Autonomous Organizations”, property registries, lending dapps, insurance dapps, or whatever “DeFi” more, but they are all still under the constant threat of intervention and control by special interests.
+上述意味着在像以太坊、币安智能链和卡尔达诺这样的网络中，你可能拥有所谓的“去中心化交易所”、“NFT市场”、“去中心化自治组织”、财产注册、借贷dapp、保险dapp或任何“去中心化金融”等等，但它们仍然面临着特殊利益干预和控制的不断威胁。
 
-## Proof of Work, Non-Programmable Blockchains 
+## 工作量证明, 不可编程区块链
 
-![PoW, non-programmable quadrant.](./4.png)
+![PoW,不可编程象限](./4.png)
 
-Proof of work is indeed the truly secure consensus mechanism that enables any computer in the world join and leave the system without the possibility of censorship or prohibitions of any kind. This is proved by China that at the time of this writing still prohibits cryptocurrencies and mining in the mainland, but 22% of Bitcoin mining is still performed in that country! This is how secure and permissionless this paradigm is.
+工作量证明确实是一种真正安全的共识机制，它使得世界上的任何计算机都可以加入和离开系统，而没有任何形式的审查或禁止。这一点可以通过中国来证明，在本文撰写时，中国仍禁止加密货币和在境内进行挖矿，但中国仍承担着22%的比特币挖矿量！这就是这种范式的安全性和无需权限性。
 
-The problem is that if a blockchain is proof of work but not programmable, then it is extremely secure with regards to the accounts and balances that it holds inside its secure environment, but anything that is outside must necessarily be less secure.
+问题在于，如果一个区块链是工作量证明的，但不可编程，那么它在持有账户和余额方面是极其安全的，但对于在其安全环境之外的任何事物，必然会较不安全。
 
-For example, on Bitcoin, DogeCoin, and Litecoin we may have our accounts and balances, but if we want to use them with autonomous agents and dapps, then those must exist outside the highly secure environments of the blockchains.
+例如，在比特币、狗狗币和莱特币上，我们可以拥有自己的账户和余额，但如果我们想与自主代理和dapp一起使用它们，那么这些必须存在于区块链的高度安全环境之外。
 
-This is the case with Wrapped BTC. It is used with dapps inside Ethereum, an insecure proof of stake system, and on top of that if anyone wishes to redeem their BTC, the actual coins are in another network, Bitcoin, held in trust by traditional trusted third parties!
+这就是包装的比特币（Wrapped BTC）的情况。它在以太坊这个不安全的权益证明系统中与dapp一起使用，而且如果任何人希望赎回他们的比特币，实际的比特币仍在另一个网络中（比特币网络），由传统可信赖的第三方机构托管！
 
-Any connections between networks must be insecure. The only secure system that guarantees decentralization is proof of work, and that only works inside the peer-to-peer connections within a system.
+网络之间的任何连接都必然是不安全的。唯一能保证去中心化的安全系统就是工作量证明，而且它只在系统内的点对点连接中有效。
 
-An even worse situation would be if the “autonomous agents” are hosted in corporate cloud services.
+更糟糕的情况是，“自主代理”被托管在企业云服务中。
 
-## Proof of Work and Programmable Blockchains 
+## 工作量证明和可编程区块链
 
-![PoW, programmable quadrant: ETC.](./5.png)
+![PoW, 可编程象限: ETC.](./5.png)
 
-So, all that was explained above leaves us with the last option, and indeed this option is the sweet spot of security and autonomy of software agents.
+因此，以上所述的一切都留给我们最后的选择，而且实际上这个选择是软件代理的安全性和自治性的最佳平衡点。
 
-Proof of work and programmable blockchains are the most trust minimized systems in the whole blockchain industry because not only the accounts and balances are inside the secure environment of the blockchain but also the autonomous agents are hosted in it.
+工作量证明和可编程区块链是整个区块链行业中最大程度上减少信任的系统，因为不仅账户和余额位于区块链的安全环境内，自主代理也托管在其中。
 
-This combination avoids the need to jump from the blockchain to corporate cloud services and back to get the services of apps, avoids the need to do complex and insecure cross-chain connections, and avoids the use of dapps in external insecure networks such as Ethereum, Binance Smart Chain, Cardano, and others.
+这种组合避免了从区块链跳转到企业云服务再返回以获取应用程序的服务的需求，避免了进行复杂且不安全的跨链连接，并避免了在以太坊、币安智能链、Cardano等外部不安全网络中使用dapp的需求。
 
-In Ethereum Classic, not only the digital gold is hosted, but also the fully trust minimized autonomous agents, therefore the maximum level of trust minimization is achieved for users and businesses on a global scale.
+在以太经典中，托管的不仅是数字黄金，还有完全减少信任的自主代理，因此在全球范围内为用户和企业实现了最大程度的信任减少。
 
-ETC has the incredibly valuable position of being the largest proof of work, fixed monetary policy, programmable blockchain in the world, therefore it is poised for a large and dominant market share in the future.
+ETC在全球范围内拥有工作量证明、固定货币政策和可编程区块链这一非常有价值的地位，因此它在未来有望占据巨大且主导性的市场份额。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
