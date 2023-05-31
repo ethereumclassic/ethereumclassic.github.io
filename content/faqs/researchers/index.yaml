@@ -1,7 +1,7 @@
 title: Researcher FAQs
 seo: Frequently Asked Questions for those researching or trying to understand the basics of Ethereum Classic.
 info: Can't find an answer to your question here? Try asking in the ETC community [discord](https://ethereumclassic.org/discord) server.
-description: If you have just heard about Ethereum Classic and want to learn more, or already hold ETC but want a deeper understanding of it's reason for being, this page is for you.
+description: If you have just heard about Ethereum Classic and want to learn more, or already hold ETC but want a deeper understanding of its reason for being, this page is for you.
 __contribute: 1
 items:
   questions:
@@ -56,11 +56,11 @@ items:
 
           The alternative, "Code isn't Law", has been the standard state of affairs before the dawn of blockchain technology, whereby corruptible off-chain decision making processes determine the result of contracts and transactions. 
 
-          You can learn more more about the nuance of this concept in the [Code is Law](/why-classic/code-is-law) section.
+          You can learn more about the nuance of this concept in the [Code is Law](/why-classic/code-is-law) section.
       decentralization:
         question: Why should I care about decentralization?
         answer: |
-          Decentralization is a pre-requisit for "Code is Law". It allows participants to operate on a level playing field, and is what unlocks the fundamental value of blockchain technology. Many blockchain projects, despite their claims, are not sufficiently decentralized, making them susceptible to capture and censorship.
+          Decentralization is a pre-requisite for "Code is Law". It allows participants to operate on a level playing field, and is what unlocks the fundamental value of blockchain technology. Many blockchain projects, despite their claims, are not sufficiently decentralized, making them susceptible to capture and censorship.
 
           You can learn more about this in the [decentralism](/why-classic/decentralism) section.
       who:
