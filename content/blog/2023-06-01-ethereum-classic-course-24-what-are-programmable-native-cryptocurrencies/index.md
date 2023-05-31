@@ -47,7 +47,7 @@ Inside ETC it is possible to have smart contracts with all sorts of programmabil
 
 ## What Is Programmable Digital Gold?
 
-The quality of digital gold is something that both Bitcoin and ETC enjoy because both coins are issued only after enormous amounts of computational work is done by miners, thus making them scarce and valuable, just like gold is in the real world.
+The quality of digital gold is something that both Bitcoin and ETC enjoy because both coins are issued only after enormous amounts of computational work are done by miners, thus making them scarce and valuable, just like gold is in the physical world.
 
 Although Bitcoin is the largest digital gold asset, ETC is the largest programmable digital gold asset in the world. This is because the native coin of Ethereum Classic is programmable with smart contracts at the same time as being digital gold.
 
