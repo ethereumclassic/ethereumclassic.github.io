@@ -40,13 +40,13 @@ Some testnets are Proof of Work, and others may be Proof of Stake or Proof of Au
 
 Testnets are used by core developers, dapp developers, people, and businesses for the following cases:
 
-To test upgrades: Every time there are protocol changes or upgrades to the Ethereum Virtual Machine (EVM), blockchain core developers test all these changes in the corresponding testnets. The testnets go through rehearsal runs, implementing upgrades at specific block numbers, just as it would eventually occur on the mainnet.
+**To test upgrades:** Every time there are protocol changes or upgrades to the Ethereum Virtual Machine (EVM), blockchain core developers test all these changes in the corresponding testnets. The testnets go through rehearsal runs, implementing upgrades at specific block numbers, just as it would eventually occur on the mainnet.
 
-To test bug fixes: In the same way as with upgrades, bug fixes of the protocol or the software clients are also tested previously on testnets to ensure that they provide the desired solutions.
+**To test bug fixes:** In the same way as with upgrades, bug fixes of the protocol or the software clients are also tested previously on testnets to ensure that they provide the desired solutions.
 
-To test smart contracts: When people or businesses wish to test smart contacts before deployment on the mainnet, they may use testnets to try and run all the features to check that they work correctly.
+**To test smart contracts:** When people or businesses wish to test smart contacts before deployment on the mainnet, they may use testnets to try and run all the features to check that they work correctly.
 
-To test dapps: Dapp developers test their applications, features, and functions on testnets before sending them to full production on the mainnet.
+**To test dapps:** Dapp developers test their applications, features, and functions on testnets before sending them to full production on the mainnet.
 
 ## The ETC Mordor Testnet
 
