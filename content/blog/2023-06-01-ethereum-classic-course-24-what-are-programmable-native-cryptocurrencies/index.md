@@ -59,7 +59,7 @@ ETC has the incredibly valuable position of being the largest proof of work (dec
 
 ## Why Is Ethereum Classic More Trust Minimized?
 
-As ETC’s native cryptocurrency is proof of work and programmable it is the most trust minimized system in the whole blockchain industry because not only the accounts and balances are inside the secure environment of the blockchain, but also the autonomous agents, which are smart contracts or dapps, are hosted in it.
+As ETC’s native cryptocurrency is proof of work and programmable it is the most trust minimized system in the whole blockchain industry because not only are the accounts and balances inside the secure environment of the blockchain but also the autonomous agents, which are smart contracts or dapps, are hosted in it.
 
 ![ETC is BTC philosophy with ETH technology.](./11.png)
 
