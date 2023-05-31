@@ -4,7 +4,7 @@ date: 2023-06-14
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["philosophy"]
-linkImage: ./people-law-etc.png
+linkImage: ./people-law-etc-banner.png
 ---
 
 ---
