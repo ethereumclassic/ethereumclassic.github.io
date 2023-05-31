@@ -128,7 +128,7 @@ To set up an etherbase, the command that must be entered is “--miner.etherbase
 --miner.etherbase 0xdf7d7e053933b5cc24372f878c90e62dadad5d42
 ```
 
-The full instruction for mining on Mordor are in the following link:
+The full instructions for mining on Mordor are in the following link:
 
 https://etclabscore.github.io/core-geth/JSON-RPC-API/modules/miner/
 
