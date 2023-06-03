@@ -24,9 +24,9 @@ To change the endpoint on your MetaMask browser extension or your MetaMask mobil
 
 To change your ETC endpoints on your MetaMask browser extension or mobile app, please follow the instructions in this post.
 
-# Change the Endpoint on Your MetaMask Browser Extension
+## Change the Endpoint on Your MetaMask Browser Extension
 
-## 1. Open Your MetaMask Browser Extension
+### 1. Open Your MetaMask Browser Extension
 
 The first thing your need to do is to open your MetaMask browser extension as usual. 
 
@@ -34,7 +34,7 @@ Then click on the circle on the top right to open the main menu.
 
 ![Open MetaMask browser extension.](./1.png)
 
-## 2. Click on “Settings”
+### 2. Click on “Settings”
 
 In the next step you will see that the menu opens.
 
@@ -42,13 +42,13 @@ Click on the “Settings”option.
 
 ![Click on settings.](./2.png)
 
-## 3. Click on “Networks”
+### 3. Click on “Networks”
 
 In the next screen, click on “Networks” to see all the networks listed on your MetaMask browser extension.
 
 ![Click on networks.](./3.png)
 
-## 4. Click on “Ethereum Classic”
+### 4. Click on “Ethereum Classic”
 
 In this case I have Ethereum, the default chain on MetaMask, and I have both the Ethereum Classic mainnet and the Mordor testnet. You may have other networks listed on your MetaMask, though.
 
@@ -58,7 +58,7 @@ Click on “Ethereum Classic” to open and see its settings.
 
 ![Click on Ethereum Classic](./4.png)
 
-## 5. See if “Ethercluster” Is Your Current ETC URL Endpoint
+### 5. See if “Ethercluster” Is Your Current ETC URL Endpoint
 
 Next, a window will open on your browser on the Metamask settings page for the Ethereum Classic network.
 
@@ -74,7 +74,7 @@ See the next screen.
 
 ![See Ethercluster.](./5.png)
 
-## 6. Change the ETC Endpoint to RIVET
+### 6. Change the ETC Endpoint to RIVET
 
 If it is Ethercluster, go ahead and delete the Ethercluster URL and then type:
 
@@ -88,9 +88,9 @@ Now your MetaMask browser extension will work fine after July 1st of 2023.
 
 ![You are all set!](./6.png)
 
-# Change the Endpoint on Your MetaMask Mobile App
+## Change the Endpoint on Your MetaMask Mobile App
 
-## 1. Open Your MetaMask Mobile App
+### 1. Open Your MetaMask Mobile App
 
 The first thing your need to do is to open your MetaMask mobile app as usual. 
 
@@ -98,7 +98,7 @@ Then, tap on the menu icon on the top left to open the main menu.
 
 ![Open MetaMask mobile app.](./7.png)
 
-## 2. Tap on “Settings”
+### 2. Tap on “Settings”
 
 In the next step you will see that the menu opens.
 
@@ -106,13 +106,13 @@ Tap on the “Settings”option.
 
 ![Tap on settings.](./8.png)
 
-## 3. Tap on “Networks”
+### 3. Tap on “Networks”
 
 In the next screen, tap on “Networks” to see all the networks listed on your MetaMask mobile app.
 
 ![Tap on networks.](./9.png)
 
-## 4. Tap on “Ethereum Classic”
+### 4. Tap on “Ethereum Classic”
 
 In this case I have Ethereum and its testnets, the default chains on MetaMask, and I have the Ethereum Classic mainnet. You may have other networks listed on your MetaMask mobile app, though.
 
@@ -122,7 +122,7 @@ Tap on the “Ethereum Classic” network to open and see its settings.
 
 ![Tap on Ethereum Classic.](./10.png)
 
-## 5. See if “Ethercluster” Is Your Current ETC URL Endpoint
+### 5. See if “Ethercluster” Is Your Current ETC URL Endpoint
 
 Next, you will see a screen with the Metamask settings for the Ethereum Classic network.
 
@@ -138,7 +138,7 @@ See the next screen.
 
 ![See Ethercluster.](./11.png)
 
-## 6. Change the ETC Endpoint to RIVET
+### 6. Change the ETC Endpoint to RIVET
 
 If it is Ethercluster, go ahead and delete the Ethercluster URL and then type:
 
