@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Course: 25. What Are ERC-20 Tokens?"
+title: "以太坊经典课程: 25. 什么是ERC-20代币?"
 date: 2023-06-08
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,81 +8,81 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x3k7csDrpsw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-![ERC-20 standard tokens.](./1.png)
+![ERC-20标准代币.](./1.png)
 
-In the previous class of the Ethereum Classic (ETC) course we explained what are programmable native cryptocurrencies, the second most important invention of the blockchain industry, how they gain economic value, and why the proof of work versions of them are programmable digital gold.
+在以太坊经典（ETC）课程的前一节课中，我们解释了可编程本地加密货币的概念，这是区块链行业中第二重要的发明，以及它们如何获得经济价值以及为什么它们的工作证明版本是可编程数字黄金。
 
-In this class we will explain what are ERC-20 tokens by explaining first what are units of value, then going over the concepts of native and programmable native cryptocurrencies, explaining what are non-native tokens, and, finally, what is the ERC-20 standard and what are ERC-20 tokens used for.
+在本节课中，我们将通过首先解释价值单位的概念，然后介绍本地和可编程本地加密货币的概念，解释非本地代币是什么，最后介绍ERC-20标准以及ERC-20代币的用途，来解释什么是ERC-20代币。
 
-In the next few classes we will cover these other topics:
+在接下来的几节课中，我们将涵盖以下其他主题：
 
-- Class 26: What Are Convertible Stablecoins?
-- Class 27: What Are Algorithmic Stablecoins?
-- Class 28: What Are Privacy Coins?
-- Class 29: What Are Decentralized Finance (DeFi) Coins?
-- Class 30: What Are File Storage Coins?
+- 第26课：什么是可转换稳定币？
+- 第27课：什么是算法稳定币？
+- 第28课：什么是隐私币？
+- 第29课：什么是去中心化金融（DeFi）币？
+- 第30课：什么是文件存储币？
 
-## What Are Units of Value or Tokens?
+## 什么是价值单位或代币？
 
-A unit of value or token is like a placeholder to mark a point or the presence of an object, or a mapping of the presence of an object. Units of value may be used for many things, but one of the most popular use cases is money.
+价值单位或代币类似于一个占位符，用于标记一个点或物体的存在，或者标记物体的存在与否的映射关系。价值单位可以用于很多事情，但其中最常见的用途之一是货币。
 
-When money was backed, these units of value, tokens, or currencies, were mapped to the presence of a precious metal in a vault somewhere. Now, with the introduction of fiat money, tokens are issued and transferred with nothing backing them. Nevertheless, they are still units of value, however abused, because they have a role in helping organize economic activities such as trade.  
+在货币有担保的时候，这些价值单位、代币或货币与某个贵金属在某个保险库中的存在相对应。现在，随着法定货币的引入，代币的发行和转移已经没有任何后盾支持。尽管如此，它们仍然是价值单位，尽管可能被滥用，因为它们在帮助组织贸易等经济活动方面发挥着作用。
 
-Tokens that are used as currency or other financial applications have the feature that they are fungible, which means that any unit of the same type is interchangeable with any other, and all have exactly the same value.
+作为货币或其他金融应用的代币具有可互换性的特点，这意味着同一类型的任何单位都可以与其他单位互换，并且它们都具有完全相同的价值。
 
-## What Are Native and Programmable Native Cryptocurrencies?
+## 什么是本地和可编程本地加密货币？
 
-As explained in previous classes blockchain protocols have embedded by design cryptocurrencies in them that are issued to pay for miner rewards and transaction fees. 
+正如在之前的课程中所解释的，区块链协议在设计中嵌入了加密货币，用于支付矿工奖励和交易手续费。
 
-This default economic use case gives them value as miners perform a lot of work and spend capital in electricity to produce blocks and include transactions in those blocks based on the incentive they have to earn the tokens of the system.
+这种默认的经济用途使它们具有价值，因为矿工需要进行大量的工作并花费电力成本来产生区块，并根据他们获得系统代币的激励将交易包含在这些区块中。
 
-They are described as “native” because they are issued by the base protocol and are a fundamental component of the ruleset.
+它们被称为“本地”是因为它们由基础协议发行，并且是规则集的基本组成部分。
 
-The addition of smart contracts in some blockchains have made their native cryptocurrencies programmable because they may now be moved around according to rules and conditions set by these software programmes.
+在一些区块链中引入智能合约使得它们的本地加密货币变得可编程，因为它们现在可以根据由这些软件程序设定的规则和条件进行移动。
 
-## What Are Non-Native Tokens or Cryptocurrencies?
+## 什么是非本地代币或加密货币？
 
-Because programmable blockchains such as Ethereum Classic host smart contracts or decentralized software programmes, new units of value, cryptocurrencies, or tokens, may be created in them.
+由于可编程区块链（如以太坊经典）托管智能合约或分散式软件程序，因此可以在其中创建新的价值单位、加密货币或代币。
 
-These are non-native tokens or crypto currencies because they are not part of the base protocols of these networks and they have no economic use case at the protocol layer.
+这些被称为非本地代币或加密货币，因为它们不是这些网络基础协议的一部分，并且在协议层面上没有经济用途。
 
-Any number of smart contracts may be deployed on ETC to issue non-native tokens.
+在以太坊经典上可以部署任意数量的智能合约来发行非本地代币
 
-## What Are ERC-20 Tokens?
+## 什么是ERC-20代币?
 
-The Ethereum Request for Comment (ERC) number 20, thus “ERC-20”, document in the Ethereum network established a standard for how to issue non-native tokens inside Ethereum.
+以太坊网络中的“以太坊请求评论”（ERC）编号20的文档建立了一种在以太坊内发行非本地代币的标准，因此被称为“ERC-20”。
 
-The standard created generic methods for certain actions. For example, for the transfer of tokens from one account to another, to get the current token balance of an account, get the total supply of the token available on the network, and approve whether an amount of a token from an account can be spent by a third-party account.
+该标准为特定操作创建了通用方法。例如，用于从一个账户转移代币到另一个账户，获取账户的当前代币余额，获取网络上可用的代币总供应量，并批准某个账户的代币金额是否可以被第三方账户花费。
 
-This standard is used by the majority of Ethereum compatible blockchains including Ethereum Classic.
+这个标准被大多数以太坊兼容的区块链使用，包括以太坊经典。
 
-All the tokens created in Ethereum and Ethereum Classic using this standard are called “ERC-20 tokens”.
+在以太坊和以太坊经典中使用这个标准创建的所有代币都被称为“ERC-20代币”。
 
-## What Are ERC-20 Tokens Used for?
+## ERC-20代币的用途是什么？
 
-As generic placeholder objects or units of value, ERC-20 tokens may be used for many things.
+作为通用的占位符对象或价值单位，ERC-20代币可以用于许多事情。
 
-A list of some use cases may be as follows:
+以下是一些使用案例的列表：
 
-- Reputation points in online platforms
-- Skills of characters in games
-- Lottery tickets
-- Financial assets
-- Derivatives
-- Fiat currencies
-- Units representing precious metals
-- Wrapped tokens (the representation of other tokens)
+- 在在线平台上的声誉积分
+- 游戏中角色的技能
+- 彩票票券
+- 金融资产
+- 衍生品
+- 法定货币
+- 代表贵金属的单位
+- 封装的代币（其他代币的表示）
 
-Another popular use case that has developed in the industry is to issue tokens for Decentralized Autonomous Organizations (DAOs) so that these token holders may vote on protocol upgrades and changes, distribution of capital, or changes to the rules of their underlying decentralized applications.
+在行业中发展起来的另一个受欢迎的用例是为去中心化自治组织（DAO）发行代币，以便这些代币持有者可以对协议升级和更改、资本分配或底层分布式应用程序规则的变更进行投票。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
