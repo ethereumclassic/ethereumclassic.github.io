@@ -17,13 +17,13 @@ linkImage: ./dappnode-unboxing.png
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mPtDuj7duC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## 2. Connecting Your DappNode to Your Home or Office Router
+## 2. 连接您的DappNode到家庭或办公室路由器
 
 在这里，我们展示如何将DappNode连接到墙壁、本地WiFi路由器，并将其设置在您的媒体区域或家庭/办公室中的路由器和电缆连接区域。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/grVPLo7KNAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## 3. 连接您的DappNode到家庭或办公室路由器
+## 3. 将您的计算机（Mac或Windows）连接到DappNode
 
 在这个部分中，我们将展示如何将您新安装的DappNode与您的计算机关联，无论是Mac还是Windows，并展示如何开始管理您的DappNode，更改密码，并了解用户界面的每个部分。
 
