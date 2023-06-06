@@ -164,4 +164,6 @@ In our next post we will explain how to use the Ethereum Classic multisig wallet
 
 **Thank you for reading this article!**
 
+*The ETC Cooperative thanks the Safe team for the multisignature wallet redesign.*
+
 To learn more about ETC please go to: https://ethereumclassic.org
