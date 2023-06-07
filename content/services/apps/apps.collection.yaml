@@ -48,6 +48,31 @@
 ### END APP TEMPLATE
 #
 # ADD YOUR NEW APP HERE
+- title: in Argentum Veritas
+  date: 2023-06-07
+  image: https://i.ibb.co/bH1Mx3W/iav.jpg
+  author: In Argentum Veritas
+  authorLink: https://inargentumveritas.app
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x09a9E6D00B07f7C991b98575F75d16811C9c50a4/contracts
+  openSource: https://blockscout.com/etc/mainnet/address/0x09a9E6D00B07f7C991b98575F75d16811C9c50a4/contracts
+  description: ERC20s, Airdrops to NFT Owners, DEX.
+  type: Other
+  links:
+    - name: In Argentum Veritas
+      link: https://blockscout.com/etc/mainnet/address/0x09a9E6D00B07f7C991b98575F75d16811C9c50a4/contracts
+      icon: link
+    - name: xTr 
+      link: https://blockscout.com/etc/mainnet/token/0x29364Fe5B156f1747D9dAC290094e98C8DF3CCE6/contracts
+      icon: link
+    - name: Swap
+      link: https://blockscout.com/etc/mainnet/address/0x1180B6C9581057ffb5f764974AD40105Bc23D7F4/contracts
+      icon: link
+    - name: Twitter
+      link: https://twitter.com/ArgentumVeritas
+      icon: twitter
+    - name: Discord
+      link: https://discord.gg/Mh6Mz35G48
+      icon: discord
 - title: Wrapped ETC
   date: 2023-03-27
   image: ./images/wrappedetc.png
