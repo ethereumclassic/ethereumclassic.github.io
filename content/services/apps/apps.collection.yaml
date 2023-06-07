@@ -50,7 +50,7 @@
 # ADD YOUR NEW APP HERE
 - title: in Argentum Veritas
   date: 2023-06-07
-  image: https://i.ibb.co/bH1Mx3W/iav.jpg
+  image: ./images/iav.jpg
   author: In Argentum Veritas
   authorLink: https://inargentumveritas.app
   verifiedContract: https://blockscout.com/etc/mainnet/address/0x09a9E6D00B07f7C991b98575F75d16811C9c50a4/contracts
