@@ -59,10 +59,13 @@
   type: other
   links:
     - name: In Argentum Veritas
-      link: https://blockscout.com/etc/mainnet/address/0x09a9E6D00B07f7C991b98575F75d16811C9c50a4/contracts
+      link: https://inargentumveritas.app
+      icon: link
+    - name: Airdrop for ETCPunks
+      link: https://blockscout.com/etc/mainnet/address/0x527fdC99F01158Bf699A168743a542d7f14ff93A/contracts
       icon: link
     - name: xTr 
-      link: https://blockscout.com/etc/mainnet/token/0x29364Fe5B156f1747D9dAC290094e98C8DF3CCE6/contracts
+      link: https://blockscout.com/etc/mainnet/address/0x29364Fe5B156f1747D9dAC290094e98C8DF3CCE6/contracts
       icon: link
     - name: Swap
       link: https://blockscout.com/etc/mainnet/address/0x1180B6C9581057ffb5f764974AD40105Bc23D7F4/contracts
