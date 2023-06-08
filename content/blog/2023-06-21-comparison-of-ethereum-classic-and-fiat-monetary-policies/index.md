@@ -62,7 +62,7 @@ Given Ethereum Classic’s frequency of payments to miners, the number of coins 
 
 Fiat money does not have a cap and is decided subjectively by government officials. As said before, they meet frequently and decide how much base money they will print or redeem in the market. This is a recipe for biased manipulation of the supply as the government itself is the largest consumer of newly minted money, and this has led to ballooning deficits, unmanageable national debt, inflation, and chronic depreciation of the value of fiat money around the world.
 
-![Federal Reserve's assets, which are analogous to monetary base.](./2.png)
+![Federal Reserve's assets, which are analogous to base money.](./2.png)
 
 The above chart is a perfect example of how the issuance of base money has grown uncontrollably in the last 20 years in the US. In 2002 the total base money, as represented by the central bank’s assets, was $712 billion. In 2023, it is more than $8.38 trillion. This is an average of more than 13% money issuance per year.
 
