@@ -39,7 +39,7 @@ Stablecoins are either convertible or algorithmic. In this class we will explain
 
 ## What Are Algorithmic Stablecoins?
 
-![Algorithmic stablecoins are backed by other cryptoassets.](./1.png)
+![Algorithmic stablecoins are backed by other crypto assets.](./1.png)
 
 Algorithmic stablecoins are one of the two general categories of stablecoins. The most popular and the main example of an algorithmic stablecoin is DAI.
 
