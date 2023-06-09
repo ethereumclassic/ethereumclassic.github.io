@@ -28,7 +28,7 @@
     "autoprefixer": "^10.4.12",
     "dayjs": "^1.11.5",
     "flag-icon-css": "^4.1.6",
-    "gatsby": "4.25.4",
+    "gatsby": "4.25.7",
     "gatsby-plugin-algolia": "^0.26.0",
     "gatsby-plugin-env-variables": "^2.2.0",
     "gatsby-plugin-feed": "4.24.0",
