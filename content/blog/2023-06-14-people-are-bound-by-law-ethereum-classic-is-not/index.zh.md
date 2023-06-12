@@ -1,5 +1,5 @@
 ---
-title: "People Are Bound by Law, Ethereum Classic Is Not"
+title: "人受法律约束，以太坊经典不受约束。"
 date: 2023-06-14
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,74 +8,74 @@ linkImage: ./people-law-etc-banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BkPt6lzKAVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-Some in the blockchain industry are predicting the end of law, regulation, and even government due to the decentralization features and benefits of blockchain technology.
+在区块链行业中，一些人预测由于区块链技术的去中心化特性和优势，法律、监管甚至政府将会终结。
 
-An anarcho-capitalist world is envisioned by those who see that cryptography can seal property and economic transactions between humans without the need of trusted third parties.
+那些认为密码学可以在人们之间封存财产和经济交易而无需信任第三方的人，设想了一个无政府资本主义的世界。
 
-But, this can’t be further from the truth with regards to law.
+然而，与法律相关的观点与此相去甚远。
 
-There have always been natural forces and elements; such as gravity, light, the continents, the oceans, and the atmosphere; that have been decentralized and trust minimized, but that never reduced nor eliminated the need for law and government between humans.
+自然力量和元素，如重力、光线、大陆、海洋和大气层，一直以来都是去中心化和最小化信任的，但这并没有减少或消除人类之间对法律和政府的需求。
 
-In this post we contrast the status of people and Ethereum Classic (ETC) with regards to these topics.
+在本文中，我们对比了人类和以太坊经典（ETC）在这些问题上的地位。
 
-## People Are Governed by Law
+## 人受法律管辖
 
-Human action must be governed by rules, this cannot be delegated to blockchains. Genes have embedded rules that define the organism, and the organism has embedded rules that generate the culture of groups and societies.
+人类行为必须受规则的约束，这是不能委托给区块链的。基因中包含了定义生物体的规则，而生物体内部的规则则形成了群体和社会的文化。
 
-Culture is defined by beliefs and religion, and religion always contains the natural moral and ethical laws that are to be followed by humans.
- 
-As tribes turned into city states, and city states into nations, we developed complex systems with constitutions, legislative bodies, laws, and law enforcement.
+文化由信仰和宗教所定义，而宗教始终包含了人类应遵循的自然道德和伦理法则。
 
-Whether human action is conducted on trust minimized platforms or not, that each man or woman is doing what is right or wrong, what is legal or ilegal, or what is disputable or not, is entirely a different thing.
+随着部落转变为城邦，城邦转变为国家，我们发展出了具有宪法、立法机构、法律和执法机构的复杂体系。
 
-Similarly, whether a person has control of a private key and sends a transaction to Ethereum Classic has nothing to do with law.
+无论人类行为是否在最小化信任的平台上进行，每个男人或女人所做的是对还是错、合法还是非法、争议性与否，完全是不同的事情。
 
-## ETC Is Governed by Protocol
+同样，一个人是否控制着私钥并发送交易到以太坊经典与法律无关。
 
-ETC is governed by an unbreakable protocol that starts with a set of principles by its designers, then those principles are defined in the protocol rules, which constitute a logical system of actions and reactions that reinforce each other and are completely consistent.
+## 以太坊经典受协议管辖
 
-Protocol rules give rise to the phenotype of Ethereum Classic, which is the ledger, the accounts, the structure and standards of smart contacts, and the EVM, which in itself is a sort of physical container and implementer of the rules.
+以太坊经典受不可动摇的协议所管辖，它始于设计者设定的一系列原则，然后这些原则被定义在协议规则中，构成了一种逻辑上相互作用且完全一致的行动与反应系统。
 
-Cryptography is like the strong bones, thick skin, fangs, and claws of the system, which are its defense mechanism that makes it practically impossible to break into its components.
- 
-Proof of Work is the signaling system that keeps the whole network together, but at the same time ensures that all components may connect and disconnect autonomously and without any restrictions.
+协议规则产生了以太坊经典的表现型，其中包括账本、账户、智能合约的结构和标准，以及以太虚拟机（EVM），它本身就是规则的一种物理容器和执行者。
 
-ETC’s monetary policy seals the whole platform by providing incentives that, the more they are followed, the stronger they get, therefore the more unbreakable the system becomes.
+密码学就像系统的坚固骨骼、厚实皮肤、尖牙和利爪，是其防御机制，使得系统几乎无法被攻破。
 
-## However, There Will Always be Overlap
+工作量证明是保持整个网络的信号系统，但同时确保所有组件可以自主连接和断开，没有任何限制。
 
-Nevertheless, although ETC is completely objective and separated from the law, the intersection between the blockchain and human action will always need to be mediated by law.
+以太坊经典的货币政策通过提供激励机制，使整个平台变得完整无缺。这些激励机制越被遵循，系统就越强大，因此系统越无法被攻破。
 
-**Monetary supply:** ETC is digital gold, but whether it may be used to cancel debts depends on legal tender laws in all nations.
+## 然而，始终存在交叉点
 
-**Paying taxes:** Trading and investment in ETC, ERC-20 tokens, and NFTs may happen inside the decentralized network, but tax laws are as inevitable as death!
+尽管以太坊经典是完全客观且独立于法律之外的，但区块链与人类行为之间的交叉点始终需要通过法律来进行调节。
 
-**Hacking accounts or private keys:** Thousands of people and businesses have been hacked, or their keys have been stolen, or they left them somewhere exposed. The only way to recover crypto assets in such cases is through criminal law and law enforcement.
+**货币供应：** ETC是数字黄金，但它是否可以用来偿还债务取决于各国的法定货币法律。
 
-**Custody:** An enormous portion of ETC and other coins are held in custody by third parties such as exchanges and custodians. This all depends on securities and banking laws.
+**缴纳税务:** 在去中心化网络内进行ETC、ERC-20代币和NFT的交易和投资可能会发生，但税法就像死亡一样不可避免！
 
-**Property registries:** As NFTs become real estate, land, vehicles, boats, containers, works of art, airplanes, and other assets of the physical world, ETC will be the property registry of these objects. However, to be recognized as such, and whether those objects are rightfully owned, is an exclusive prerogative of the law. ETC only guarantees the trust minimized physical possession and control.
+**账户或私钥被黑客攻击：** 数千人和企业遭受了黑客攻击，或者他们的私钥被盗，或者他们将私钥暴露在某个地方。在这种情况下，唯一能够恢复加密资产的方法是通过刑法和执法机关。
 
-**Inheritance:** As crypto asset owners, which will include all the types of assets listed in the previous point, will want to do their estate planning, inheritance and trust laws will actually govern and determine how smart contracts will be set up, not the other way around.
+**托管:** 大量的ETC和其他加密货币由交易所和托管机构等第三方托管。这一切都取决于证券和银行法律.
 
-## ETC Will Always Work As Designed, Regardless of the Law
+**财产登记:** 随着NFT成为房地产、土地、车辆、船只、集装箱、艺术品、飞机和其他实物世界的资产，ETC将成为这些物品的财产登记。然而，要被认可为财产，并确定这些物品是否合法拥有，这是法律的专属权力。ETC只能保证最小化信任的物理占有和控制。
 
-In Ethereum Classic, as long as transactions and smart contracts are sent according to protocol rules, they will always be executed. 
+**继承:**  作为加密资产的所有者，包括前面提到的所有类型的资产，将希望进行财产规划、继承和信托法将实际上管理和确定如何设置智能合约，而不是相反。
 
-Whatever is the legal situation outside of the blockchain is a totally separate thing.
+## 无论法律如何，ETC将始终按设计运行
 
-This is the incredibly valuable guarantee that ETC brings to the world, a completely neutral and programmable monetary system that functions just as the timeless natural forces and elements that humanity has been successfully using for millions of years.
+在以太坊经典中，只要按照协议规则发送交易和智能合约，它们就会始终执行。
 
-And, people will always be governed by law, regardless of decentralized or trust minimized platforms.
+区块链之外的法律情况是完全独立的事情。
+
+这是以太坊经典为世界带来的极其有价值的保证，它是一个完全中立和可编程的货币系统，就像人类已经成功使用了数百万年的永恒自然力量和元素一样。
+
+而无论是在去中心化还是在最小化信任的平台上，人们始终会受到法律的约束。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，请访问: https://ethereumclassic.org
