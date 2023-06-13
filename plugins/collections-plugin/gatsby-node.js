@@ -76,7 +76,7 @@ exports.onCreateNode = async (
 
     const type = _.upperFirst(_.camelCase(deduped));
 
-    const slugDate = obj.uploaded || obj.published || obj.date;
+    const slugDate = obj.uploaded || obj.date;
     const slugPrefix = slugDate
       ? new Date(slugDate).toISOString().split("T")[0] + "-"
       : "";
