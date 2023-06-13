@@ -52,7 +52,7 @@ Testnets are used by core developers, dapp developers, people, and businesses fo
 
 The Ethereum Classic (ETC) Mordor testnet is the parallel clone network of ETC that is used as the environment to try and test upgrades, bug fixes, smart contracts, and dapps before they are implemented and used in the real world.
 
-As a testnet, Mordor is not meant to be immutable like the ETC mainnet. It is actually made to be changed, broken fixed, and restarted whenever necessary. This is the value of the testnet as a playground to run all the risks before deployment to the real world.
+As a testnet, Mordor is not meant to be immutable like the ETC mainnet. It is actually made to be changed, broken, fixed, and restarted whenever necessary. This is the value of the testnet as a playground to run all the risks before deployment to the real world.
 
 Whereas the ETC network has the chain ID 61, Mordor uses the chain ID 63, and the genesis block of Mordor is not the same as the ETC network, so node peers check all these different parameters before joining.
 
