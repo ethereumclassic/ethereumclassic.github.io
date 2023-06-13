@@ -28,7 +28,7 @@ But, where are all these systems, upgrades, and components ran and tried before 
 
 ## What Are Testnets?
 
-To ensure that all the things mentioned in the previous section may be tried and checked previously to being deployed in the real world, blockchain communities maintain what are called testnets.
+To ensure that all the things mentioned in the previous section may be tried and checked prior to being deployed in the real world, blockchain communities maintain what are called testnets.
 
 Testnets are basically clones of the mainnets so their role is to provide an as identical as possible environment to be able to test all new systems and components.
 
