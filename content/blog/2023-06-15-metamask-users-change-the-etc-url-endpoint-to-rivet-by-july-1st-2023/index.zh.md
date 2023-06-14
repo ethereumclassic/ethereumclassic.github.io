@@ -1,5 +1,5 @@
 ---
-title: "MetaMask Users: Change the ETC URL Endpoint to RIVET by July 1st 2023"
+title: "小狐狸Metamask用户: 将ETC URL端点更改为RIVET，截止日期为2023年7月1日。"
 date: 2023-06-15
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,152 +8,152 @@ linkImage: ./rivet-banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RnL9lrTI9NA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-If you are reading this, like tens of thousands of people around the world, it is most likely that you have your MetaMask set to point to the Ethercluster Ethereum Classic (ETC) URL endpoint which is used by your MetaMask mobile app or browser extension to send transactions and to query your ETC balances, tokens, and NFTs.
+如果您正在阅读这篇文章，那么和全球成千上万的人一样，您很可能已经将MetaMask设置为指向Ethercluster Ethereum Classic (ETC) URL端点。该端点用于您的MetaMask移动应用程序或浏览器扩展发送交易、查询您的ETC余额、代币和非同质化代币（NFT）。
 
-However, the Ethercluster URL will be discontinued on July 1st of 2023 by the ETC Cooperative who announced this the first week of January of this year:
+然而，Ethercluster URL将于2023年7月1日停止使用，这是ETC合作社在今年1月的第一周宣布的：
 
 https://etccooperative.org/posts/2023-01-02-the-ethereum-classic-rpc-url-is-changing-from-ethercluster-to-rivet-en
 
-To change the endpoint on your MetaMask browser extension or your MetaMask mobile app is very simple. The new URL endpoint to use is the one provided by RIVET, a professional infrastructure team that was hired by the ETC Cooperative for this task.
+在MetaMask浏览器扩展程序或移动应用上更改端点非常简单。新的URL端点是由RIVET提供的，RIVET是一支专业基础设施团队，被ETC合作社雇佣来完成这项任务。
 
-To change your ETC endpoints on your MetaMask browser extension or mobile app, please follow the instructions in this post.
+要在MetaMask浏览器扩展程序或移动应用上更改您的ETC端点，请按照此文章中的说明进行操作。
 
-## Change the Endpoint on Your MetaMask Browser Extension
+## 在您的MetaMask浏览器扩展程序中更改端点
 
-### 1. Open Your MetaMask Browser Extension
+### 1. 打开您的MetaMask浏览器扩展程序
 
-The first thing your need to do is to open your MetaMask browser extension as usual. 
+首先，像往常一样打开您的MetaMask浏览器扩展程序。
 
-Then click on the circle on the top right to open the main menu.
+然后点击右上角的圆圈，打开主菜单。
 
-![Open MetaMask browser extension.](./1.png)
+![打开您的MetaMask浏览器扩展程序](./1.png)
 
-### 2. Click on “Settings”
+### 2. 点击“设置”
 
-In the next step you will see that the menu opens.
+在下一步中，您将看到菜单打开了。
 
-Click on the “Settings”option.
+点击“设置”选项。
 
-![Click on settings.](./2.png)
+![点击“设置”](./2.png)
 
-### 3. Click on “Networks”
+### 3. 点击“网络”
 
-In the next screen, click on “Networks” to see all the networks listed on your MetaMask browser extension.
+在下一个界面上，点击“网络”以查看在您的MetaMask浏览器扩展程序中列出的所有网络。
 
-![Click on networks.](./3.png)
+![点击“网络”](./3.png)
 
-### 4. Click on “Ethereum Classic”
+### 4. 点击“Ethereum Classic”
 
-In this case I have Ethereum, the default chain on MetaMask, and I have both the Ethereum Classic mainnet and the Mordor testnet. You may have other networks listed on your MetaMask, though.
+在这种情况下，我有以太坊（MetaMask上的默认链），以及以太坊经典主网和Mordor测试网络。您的MetaMask上可能列出了其他网络。
 
-If you happen to have the “Mordor” testnet, that one will not change, so it may stay as it is. 
+如果您恰好有“Mordor”测试网络，那个网络不会更改，所以可以保持原样。
 
-Click on “Ethereum Classic” to open and see its settings.
+点击“Ethereum Classic”以打开并查看其设置。
 
-![Click on Ethereum Classic](./4.png)
+![点击Ethereum Classic](./4.png)
 
-### 5. See if “Ethercluster” Is Your Current ETC URL Endpoint
+### 5. 检查“Ethercluster”是否为您当前的ETC URL端点
 
-Next, a window will open on your browser on the Metamask settings page for the Ethereum Classic network.
+接下来，浏览器中将打开一个窗口，显示Ethereum Classic网络的MetaMask设置页面。
 
-If you see that you have the Ethercluster URL as your endpoint (RPC Url), which is this one:
+如果您看到您的端点（RPC Url）是Ethercluster URL，就像这样：
 
 https://www.ethercluster.com/etc
 
-Then, it must be changed to this one:
+那么，它必须更改为以下网址：
 
 https://etc.rivet.link
 
-See the next screen.
+请参考下一界面。
 
 ![See Ethercluster.](./5.png)
 
-### 6. Change the ETC Endpoint to RIVET
+### 6. 将ETC端点更改为RIVET
 
-If it is Ethercluster, go ahead and delete the Ethercluster URL and then type:
+如果当前使用的是Ethercluster，请删除Ethercluster URL，然后输入以下内容：
 
 https://etc.rivet.link
 
-When you replaced the URL endpoint, press “Save”.
+替换URL端点后，点击“保存”。
 
-Congratulations! You have changed the URL endpoint to RIVET. 
+恭喜！您已成功将URL端点更改为RIVET。
 
-Now your MetaMask browser extension will work fine after July 1st of 2023.
+现在，在2023年7月1日之后，您的MetaMask浏览器扩展程序将正常工作。
 
 ![You are all set!](./6.png)
 
-## Change the Endpoint on Your MetaMask Mobile App
+## 在您的MetaMask移动应用中更改端点
 
-### 1. Open Your MetaMask Mobile App
+### 1. 打开您的MetaMask移动应用
 
-The first thing your need to do is to open your MetaMask mobile app as usual. 
+首先，像往常一样打开您的MetaMask移动应用。
 
-Then, tap on the menu icon on the top left to open the main menu.
+然后，点击左上角的菜单图标，打开主菜单。
 
-![Open MetaMask mobile app.](./7.png)
+![打开您的MetaMask移动应用](./7.png)
 
-### 2. Tap on “Settings”
+### 2. 点击“设置”
 
-In the next step you will see that the menu opens.
+在下一步中，您将看到菜单打开了。
 
-Tap on the “Settings”option.
+点击“设置”选项。
 
-![Tap on settings.](./8.png)
+![点击“设置”](./8.png)
 
-### 3. Tap on “Networks”
+### 3. 点击“网络”
 
-In the next screen, tap on “Networks” to see all the networks listed on your MetaMask mobile app.
+在下一个屏幕上，点击“网络”以查看在您的MetaMask移动应用中列出的所有网络。
 
-![Tap on networks.](./9.png)
+![点击“网络”](./9.png)
 
-### 4. Tap on “Ethereum Classic”
+### 4. 点击“Ethereum Classic”
 
-In this case I have Ethereum and its testnets, the default chains on MetaMask, and I have the Ethereum Classic mainnet. You may have other networks listed on your MetaMask mobile app, though.
+在这种情况下，我有以太坊及其测试网络（MetaMask上的默认链），以及以太坊经典主网。您的MetaMask移动应用上可能列出了其他网络。
 
-If you happen to have the ETC “Mordor” testnet, that one will not change, so it may stay as it is. 
+如果您恰好有ETC的“Mordor”测试网络，那个网络不会更改，所以可以保持原样。
 
-Tap on the “Ethereum Classic” network to open and see its settings.
+点击“Ethereum Classic”网络以打开并查看其设置。
 
-![Tap on Ethereum Classic.](./10.png)
+![点击“Ethereum Classic”](./10.png)
 
-### 5. See if “Ethercluster” Is Your Current ETC URL Endpoint
+### 5. 检查“Ethercluster”是否为您当前的ETC URL端点
 
-Next, you will see a screen with the Metamask settings for the Ethereum Classic network.
+接下来，您将看到一个屏幕，显示Ethereum Classic网络的MetaMask设置。
 
-If you see that you have the Ethercluster URL as your endpoint (RPC Url), which is this one:
+如果您看到您的端点（RPC Url）是Ethercluster URL，就像这样：
 
 https://www.ethercluster.com/etc
 
-Then, it must be changed to this one:
+那么，它必须更改为以下网址：
 
 https://etc.rivet.link
 
-See the next screen.
+请看下一界面
 
-![See Ethercluster.](./11.png)
+![查看Ethercluster.](./11.png)
 
-### 6. Change the ETC Endpoint to RIVET
+### 6. 将ETC端点更改为RIVET
 
-If it is Ethercluster, go ahead and delete the Ethercluster URL and then type:
+如果当前使用的是Ethercluster，请删除Ethercluster URL，然后输入以下内容：
 
 https://etc.rivet.link
 
-When you replaced the URL endpoint, tap “Save”.
+替换URL端点后，点击“保存”。
 
-Congratulations! You have changed the URL endpoint to RIVET. 
+恭喜！您已成功将URL端点更改为RIVET。
 
-Now your MetaMask mobile app will work fine after July 1st of 2023.
+现在，在2023年7月1日之后，您的MetaMask移动应用将正常工作。
 
-![You are all set!](./12.png)
+![完成!](./12.png)
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
