@@ -4,7 +4,7 @@ date: 2023-06-28
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["education"]
-linkImage: ./banner.png
+linkImage: ./banner1600.png
 ---
 
 ---
@@ -14,9 +14,9 @@ linkImage: ./banner.png
 
 ---
 
-![Transaction security.](./banner.png)
+![Transaction security.](./banner1600.png)
 
-In the [previous post](https://ethereumclassic.org/zh/blog/2023-06-27-the-life-cycle-of-an-etc-transaction) we explained the life cycle of a transaction until it is included in the Ethereum Classic (ETC) blockchain.
+In the [previous post](https://ethereumclassic.org/blog/2023-06-27-the-life-cycle-of-an-etc-transaction) we explained the life cycle of a transaction until it is included in the Ethereum Classic (ETC) blockchain.
 
 We described how plain and dapp or web3 transactions are processed, what miners do to produce blocks to include them in the blockchain, how to know whether a transaction has been included, and we stated that usually the receivers of ETC are the ones who have to be more careful with transaction security.
 
@@ -26,7 +26,7 @@ The variables we will consider are the stage in which a transaction is, the fact
 
 ## Sending a Transaction Is Not Enough to Consider it Secure
 
-![Steps for a transaction to be included in the blockchain.](./2.png)
+![Steps for a transaction to be included in the blockchain.](./22.png)
 
 As seen in the diagram in this section, and as explained in our previous article, an ETC transaction may go through up to seven steps before being included in a block.
 
@@ -40,7 +40,7 @@ For higher value transactions, there are other things to consider.
 
 ## How Transactions Are More Secure As Time Passes By
 
-![More blocks, more security.](./1.png)
+![More blocks, more security.](./11.png)
 
 The beauty of proof of work blockchains is that they have physical security because the deeper transactions are in the blockchain, the more secure they get.
 
@@ -91,7 +91,7 @@ With this logic, we can make these calculations for different transactions value
 
 ## How to Check Transaction Block Confirmations
 
-![Transaction on the ETC blockchain.](./3.png)
+![Transaction on the ETC blockchain.](./33.png)
 
 As we explained in our previous post, the way to check the statistics of a transaction is to use block explorers. The main block explorer for ETC is [Blockscout](https://blockscout.com/etc/mainnet).
 
