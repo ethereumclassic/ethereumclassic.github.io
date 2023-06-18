@@ -104,7 +104,7 @@ In the next step, Ethereum Classic multisig will ask you to enter all the owners
 
 Then, you need to enter the ETC addresses controlled by Donald, Bob, and Alice that will be used to sign transactions for this multisig wallet.
 
-Finally, you need to set the threshold of how many signatures are needed to sign transactions in this multisig wallet. For example, you may chose, 1 of 3, 2 of 3, or 3 of 3. 
+Finally, you need to set the threshold of how many signatures are needed to sign transactions in this multisig wallet. For example, you may choose, 1 of 3, 2 of 3, or 3 of 3. 
 
 In this case, we chose 2 of 3. This means that a minimum of 2 persons need to sign to send transactions to move funds from this wallet.
 
