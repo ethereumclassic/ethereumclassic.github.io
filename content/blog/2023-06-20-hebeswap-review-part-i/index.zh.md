@@ -18,7 +18,7 @@ linkImage: ./banner.png
 
 ![HebeBlock团队](./1.png)
 
-[HebeBlock](https://hebeblock.com/)简称Hebe）是一支源自中国的团队，致力于在以太经典（ETC）上构建dapps。团队由三名软件工程师组成，包括创始人张先生、Java开发者CC和前端工程师Candy。
+[HebeBlock](https://hebeblock.com/)（简称Hebe）是一支源自中国的团队，致力于在以太经典（ETC）上构建dapps。团队由三名软件工程师组成，包括创始人张先生、Java开发者CC和前端工程师Candy。
 
 Hebe是该团队所建立和部署在ETC网络上的多个产品的品牌。张先生、CC和Candy在ETC生态系统中工作了多年，并且是社区的重要参与者。
 
