@@ -1,5 +1,5 @@
 ---
-title: "Using the Newly Redesigned Ethereum Classic Multisig Wallet"
+title: "使用全新设计的以太坊经典多签钱包"
 date: 2023-06-19
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,162 +8,161 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I6yS8SR_P6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-In November of 2022, the ETC Cooperative [launched](https://ethereumclassic.org/blog/2022-11-11-the-ethereum-classic-safe-multisignature-wallet-explained) the Ethereum Classic Safe Multisignature wallet that has been renamed to "Ethereum Classic Multisig" and was totally redesigned.
+在2022年11月，ETC合作社推出了重新命名为“Ethereum Classic Multisig”的以太坊经典多签名钱包，并进行了全面重新设计。
 
-In this post we will show the new user interface and explain how to create a new ETC multisignature wallet on the Ethereum Classic network.
+在本文中，我们将展示新的用户界面，并解释如何在以太坊经典网络上创建一个新的ETC多签名钱包。
 
-In the next few posts we will explain how to use the multisignature wallet and how to export and import them to the application.
+在接下来的几篇文章中，我们将解释如何使用多签名钱包，以及如何将其导出和导入到应用程序中。
 
-Please follow the steps below to create a new Ethereum Classic multisignature wallet.
+请按照以下步骤创建一个新的以太坊经典多签名钱包。
 
-## 1. Go to Ethereum Classic Multisig
+## 1.前往以太坊经典多签钱包
 
-The first thing is to go to the Ethereum Classic multisignature wallet at this address: https://multisig.etccooperative.org
+T首先，前往ETC多签名钱包的地址: https://multisig.etccooperative.org
 
 ![](./banner.png)
 
-## 2. Set Network
-
-Once on the home, you need to set what network you will work on. For this, go to the dropdown menu on the top right and click on it to select the network.
+## 2.设置网络
+在首页上，您需要设置您将要使用的网络。为此，请转到右上角的下拉菜单，并单击以选择网络。
 
 ![](./1.png)
 
-## 3. Select "Classic"
+## 3.选择“classic”
 
-When you see the dropdown menu, you will see two options "Classic" and "Mordor". 
+当您看到下拉菜单时，您会看到两个选项："Classic"和"Mordor"。
 
-Classic is the ETC mainnet or main blockchain, and Mordor is a testnet for developers. In our case, we are going to deploy an ETC multisig wallet on the ETC blockchain so we will select "Classic".
+Classic是ETC的主网或主区块链，而Mordor是供开发人员使用的测试网络。在我们的情况下，我们将在ETC区块链上部署一个ETC多签名钱包，因此我们将选择"Classic"。
 
 ![](./2.png)
 
-## 4. Connect a Wallet
+## 4.连接钱包
 
-In the next step, we have to connect a wallet to the Ethereum Classic multisig, so for that click on the dropdown menu that says "connect wallet" in red on the top right, beside the networks dropdown menu.
+在接下来的步骤中，我们需要将钱包连接到ETC多签名钱包，因此请点击右上角的红色下拉菜单，上面标有"connect wallet"。
 
 ![](./3.png)
 
-## 5. Press "Connect"
+## 5.点击"Connect"（连接）
 
-In the next step, a button that says "Connect" will appear. Click on it. 
+在接下来的步骤中，将出现一个标有"Connect"的按钮。请点击它。
 
 ![](./4.png)
 
-## 6. Select the Wallet to Use
+## 6.选择钱包进行使用
 
-In the next step, a menu with several options will appear. We will connect our MetaMask wallet for this example, but you may use any of the options provided.
+在接下来的步骤中，将出现一个带有多个选项的菜单。在本示例中，我们将连接我们的MetaMask钱包，但您也可以使用提供的其他选项之一。
 
 ![](./5.png)
 
-## 7. We Log In to Our MetaMask (You May Use the Wallet You Selected)
+## 7.登陆Metamask(您可以使用您选择的钱包)
 
-In the next step, MetaMask will open automatically and we need to log in.
+在接下来的步骤中，MetaMask将自动打开，我们需要登录。
 
 ![](./6.png)
 
-## 8. Select an Address to Use
+## 8.选择要使用的地址
 
-In the next step, MetaMask will ask us which ETC wallet we wish to connect. We have only one, so we selected that one and pressed "Next" on MetaMask. 
+在接下来的步骤中，MetaMask将询问我们要连接的ETC钱包。我们只有一个钱包，因此我们选择了该钱包，并在MetaMask上点击了"Next"。
 
 ![](./7.png)
 
-## 9. Press "Connect"
+## 9.点击"Connect"
 
-Now MetaMask is ready to connect with Ethereum Classic multisig, press the "Connect" button.
+现在MetaMask已准备好与ETC多签名钱包连接，请点击"Connect"按钮。
 
 ![](./8.png)
 
-## 10. Create New Multisig Wallet
+## 10.创建新的多签名钱包
 
-Now that we have selected the ETC blockchain to deploy the new ETC multisig wallet that we will create and the wallet that we will use, we can go ahead and create a new multisig wallet.
+现在，我们已经选择了ETC区块链来部署我们将要创建的新的ETC多签名钱包，并选择了要使用的钱包，我们可以继续创建一个新的多签名钱包。
 
-Click on "Create new Safe".
+点击"Create new Safe"。
 
 ![](./9.png)
 
-## 11. Field to Name New Multisig Wallet
+## 11.命名新的多签名钱包字段
 
-In the next step, ETC multisig will provide a field to name this wallet.
+在接下来的步骤中，ETC多签名钱包将提供一个字段用于命名该钱包
 
 ![](./10.png)
 
-## 12. Enter a Name
+## 12.输入名称
 
-Go ahead and enter a name. We used the term "DBA - Multisig", but you may use whatever name is best for your use case. Then, press "Next".
+请继续输入一个名称。我们使用了"DBA - Multisig"这个术语，但您可以根据您的用例使用任何最适合的名称。然后，点击"Next"。
 
 ![](./11.png)
 
-## 13. Enter the Owners of the New Multisig Wallet
+## 13.输入新的多签名钱包的所有者
 
-In the next step, Ethereum Classic multisig will ask you to enter all the owners for this wallet. We used the "Add new owner" link to add three persons who will control this wallet: Donald, Bob, and Alice.
+在接下来的步骤中，Ethereum Classic多签名钱包将要求您输入该钱包的所有者。我们使用"Add new owner"链接添加了三个人，他们将控制该钱包：Donald、Bob和Alice。
 
-Then, you need to enter the ETC addresses controlled by Donald, Bob, and Alice that will be used to sign transactions for this multisig wallet.
+然后，您需要输入由Donald、Bob和Alice控制的ETC地址，这些地址将用于为该多签名钱包签署交易。
 
-Finally, you need to set the threshold of how many signatures are needed to sign transactions in this multisig wallet. For example, you may chose, 1 of 3, 2 of 3, or 3 of 3. 
+最后，您需要设置在该多签名钱包中签署交易所需的签名数量的阈值。例如，您可以选择1 of 3、2 of 3或3 of 3。
 
-In this case, we chose 2 of 3. This means that a minimum of 2 persons need to sign to send transactions to move funds from this wallet.
+在这种情况下，我们选择了2 of 3。这意味着至少需要2个人签署才能从该钱包中发送交易并转移资金。
 
-To proceed, press "Next".
+要继续，请点击"Next"。
 
 ![](./12.png)
 
-## 14. Review Your Choices
+## 14.检查您的选择
 
-In the next step, Ethereum Classic multisig will ask you to review your choices and will show you the estimated network fees to deploy your wallet. 
+在接下来的步骤中，Ethereum Classic多签名钱包将要求您检查您的选择，并显示部署钱包的预计网络费用。
 
-If everything looks ok, then press "Next" to deploy your new multisig wallet on the ETC network.
+如果一切看起来都没问题，然后点击"Next"来在ETC网络上部署您的新多签名钱包。
 
 ![](./13.png)
 
-## 15. Multisig Wallet Address Created, Confirm Wallet Creation
+## 15.创建多签名钱包地址，确认钱包创建
 
-In the next step, notice that your new wallet address was created. This is the address that needs to be used from now on to receive and send ETC when using this multisignature wallet. Do not use the addresses provided for the persons to sign. Those are only to sign transactions, not to send and receive funds.
+在接下来的步骤中，请注意您的新钱包地址已经创建。这是以后使用该多签名钱包时需要使用的地址，用于接收和发送ETC。请不要使用为个人提供的地址进行发送和接收资金。
 
-Now, Ethereum Classic multisig will invoke your wallet again to send the transaction and smart contract to the ETC blockchain. 
+现在，ETC多签名钱包将再次调用您的钱包以发送交易和智能合约到ETC区块链。
 
-Our MetaMask wallet opened and we clicked on "Confirm" to proceed. 
+我们的MetaMask钱包已经打开，我们点击"Confirm"继续。
 
 ![](./14.png)
 
-## 16. Check Status and Wait
+## 16.检查状态并等待
 
-In the next screen, Ethereum Classic multisig will show you the status of the deployment of your new multisig wallet, which is a smart contract on the ETC network.
+在接下来的界面上，ETC多签名钱包将显示您的新多签名钱包（在ETC网络上是一个智能合约）的部署状态。
 
-You will need to wait several minutes for the smart contract to be deployed on the ETC blockchain and for the Ethereum Classic multisig app to associate with it.
+您需要等待几分钟，让智能合约在ETC区块链上部署，并让ETC多签名应用程序与之关联。
 
 ![](./15.png)
 
-## 17. Wait for Processing, Do Not Close the Window
+## 17.等待处理，请勿关闭窗口
 
-After a while you will see that the "processing" step is on. You still need to wait a moment to proceed. Do not close your window.
+过一段时间后，您将看到"processing"步骤已经开始。您仍然需要等待片刻才能继续。请不要关闭窗口。
 
 ![](./16.png)
 
-## 18. Ethereum Classic Multisig Processed, Check on the Home 
+## 18.ETC多签名已处理，请在主页上查看
 
-After a few minutes, our Ethereum Classic multisig application will tell you that you may start using your new multisig wallet, but it will take a bit longer to be completely functional. 
+几分钟后，我们的ETC多签名应用程序将告诉您，您可以开始使用您的新多签名钱包，但完全功能可能需要更长时间。
 
-In the meantime we went to the home to see if our wallet is there.
+在此期间，我们前往主页查看我们的钱包是否存在。
 
 ![](./17.png)
 
-## 19. Ethereum Classic Multisig Wallet Created!
+## 19.ETC多签名钱包已创建！
 
-Now, on the home of the Ethereum Classic multisig application, we may see that our wallet was created.
+现在，在ETC多签名应用程序的主页上，我们可以看到我们的钱包已创建。
 
 ![](./18.png)
 
-In our next post we will explain how to use the Ethereum Classic multisig wallet we created!
+在我们的下一篇文章中，我们将解释如何使用我们创建的ETC多签名钱包！
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章**
 
-*The ETC Cooperative thanks the Safe team for the multisignature wallet redesign.*
+*ETC合作社感谢Safe团队对多签名钱包进行的重新设计工作。*
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
