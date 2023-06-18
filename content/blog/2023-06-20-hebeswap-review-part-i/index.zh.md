@@ -1,5 +1,5 @@
 ---
-title: "HebeSwap Review Part I"
+title: "HebeSwap评测第一部分"
 date: 2023-06-20
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,110 +8,110 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/26ZpZiWWEsw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-## The HebeBlock Team
+## HebeBlock团队
 
-![HebeBlock team.](./1.png)
+![HebeBlock团队](./1.png)
 
-[HebeBlock](https://hebeblock.com/) (Hebe for short) is a team of Chinese origin that is dedicated to building dapps on Ethereum Classic (ETC). They are composed of three software engineers, including the founder, Zhang, a Java developer, CC, and Candy, who is a front end engineer.
+[HebeBlock](https://hebeblock.com/)简称Hebe）是一支源自中国的团队，致力于在以太经典（ETC）上构建dapps。团队由三名软件工程师组成，包括创始人张先生、Java开发者CC和前端工程师Candy。
 
-Hebe is the brand that groups several of the products they have built and deployed in the ETC network. Zhang, CC, and Candy have been working in the ETC ecosystem for several years and are key participants in the community.
+Hebe是该团队所建立和部署在ETC网络上的多个产品的品牌。张先生、CC和Candy在ETC生态系统中工作了多年，并且是社区的重要参与者。
 
-At the developer level, they maintain several nodes of the Mordor testnet of the ETC community, they mine it, and distribute [free mETC](https://easy.hebeswap.com/#/), the cryptocurrency of the testnet, to other developers who wish to try their dapps on Mordor.
+在开发者层面，他们维护着ETC社区的Mordor测试网络的多个节点，进行挖矿，并向其他希望在Mordor上尝试他们的dapps的开发者分发[免费的mETC（测试网络的加密货币）](https://easy.hebeswap.com/#/)。
 
-## The Founder’s Commitment to Ethereum Classic
+## 创始人对以太经典的承诺
 
-![Hebe's commitment.](./2.png)
+![Hebe承诺](./2.png)
 
-Hebe’s team has always maintained a firm commitment to ETC and they are a very prolific builder in the ecosystem. 
+Hebe团队一直坚定地致力于ETC，并在该生态系统中是非常多产的建设者。
 
-In a recent statement made to us, the founder expressed the following:
+在最近的一份给我们的声明中，创始人表达了以下观点：
 
-*At HebeSwap, we passionately believe in the unwavering potential of Ethereum Classic being the original Ethereum, the largest smart contract capable proof of work chain and its core values of decentralization, security, and immutability. Our commitment to these principles drives us to develop products that not only bolster the ETC ecosystem but also attract new users to join our thriving community. Together, we're fostering a more inclusive, sustainable, and resilient future for digital finance. Embrace the revolution with HebeSwap – where Ethereum Classic's vision comes to life.*
+*在HebeSwap，我们对以太经典始终充满激情，认为它是最初的以太坊、最大的智能合约能力的工作量证明链，以及其分散化、安全性和不可变性的核心价值观。我们对这些原则的承诺驱使我们开发产品，不仅增强ETC生态系统，还吸引新用户加入我们蓬勃发展的社区。我们共同为数字金融的包容性、可持续性和弹性未来努力。与HebeSwap一起拥抱革命，让以太经典的愿景变为现实。*
 
 ## Hebe Products
 
 ![Hebe Products.](./3.png)
 
-Hebe has deployed and maintains 11 dapps on the Ethereum Classic blockchain.
+Hebe在以太经典区块链上部署并维护了11个dapp。
 
-The most prominent of these are:
+其中最重要的包括：
 
-- HebeSwap, a decentralized exchange (DEX) [link](https://hebeswap.com/)
-- Hens, an ETC domain name system [link](https://app.hens.domains/)
-- Hebe Wallet, a non custodial crypto wallet [link](https://hebe.cc/)
-- EtcScan, an ETC blockchain explorer [link](https://etcerscan.com/)
-- Hebe Token Factory, a dapp for people to issue their own ERC-20 tokens [link](https://easy.hebeswap.com/#/)
+- HebeSwap，去中心化交易所（DEX） [链接](https://hebeswap.com/)
+- Hens，以太经典域名系统 [链接](https://app.hens.domains/)
+- Hebe Wallet，非托管加密钱包 [链接](https://hebe.cc/)
+- EtcScan，以太经典区块链浏览器 [链接](https://etcerscan.com/)
+- Hebe Token Factory，用于发行自己的ERC-20代币的dapp [链接](https://easy.hebeswap.com/#/)
 
-## The HEBE Token
+## HEBE代币
 
 ![HEBE on CoinMarketCap.](./4.png)
 
-Like many DeFi teams have done, the Hebe team has launched the HEBE token, which trades in their HebeSwap decentralized exchange and is listed on CoinMarketCap with the symbol “HEBE”, to finance their operation.
+与许多DeFi团队一样，Hebe团队推出了HEBE代币，该代币在他们的HebeSwap去中心化交易所上交易，并在CoinMarketCap上以“HEBE”符号进行列出，用于为他们的运营提供资金。
 
-The total supply of the token is 500,000,000 HEBE, of which there are 92,000,000 already issued.
+该代币的总供应量为5亿个HEBE，其中已发行的数量为9200万个。
 
-The token is issued at a rate of 1,000,000 per month.
+该代币的发行速度为每月100万个。
  
-## A Future Governance DAO
+## 未来的治理DAO
 
-The HEBE token will be used for governance purposes as well.
+HEBE代币也将用于治理目的。
 
-The HebeBlock team projects that they will be launching a DAO so the community may vote on development, upgrades, and compensation issues.
+HebeBlock团队计划推出一个DAO，让社区可以对开发、升级和补偿问题进行投票。
 
-They estimate that when the token rises in value as the ecosystem grows, that the monthly issuance may be significantly reduced. For this they will have the DAO setup for the community to vote on these issues.
+他们预计随着生态系统的发展，当代币价值上升时，每月的发行量可能会大幅减少。为此，他们将设置DAO，让社区对这些问题进行投票。
 
-Owning HEBE tokens gives and will give users other benefits such as staking in liquidity pools (LPs), earning income from dapp fees, and other perks.
+持有HEBE代币将给用户带来其他福利，例如在流动性池中进行质押（staking），从dapp费用中获得收入以及其他特权。
 
-## Staking HEBE, ETC, and Other Coins
+## 质押HEBE、ETC和其他代币
 
 ![Staking on liquidity pools.](./5.png)
 
-As to providing liquidity to the HebeSwap system of ERC-20 token trading pairs, users may purchase HEBE and match it with ETC, USDT, or other tokens to add volume to the corresponding LPs.
+对于提供流动性给HebeSwap的ERC-20代币交易对系统，用户可以购买HEBE并将其与ETC、USDT或其他代币匹配，以增加相应流动性池的交易量。
 
-They call this “Staking” or “liquidity mining” as an analogy to earning passive income from providing capital in proof of stake chains or from mining ETC.
+他们将此称为“质押”或“流动性挖矿”，类比于在权益证明链上提供资金或挖矿以获取被动收入的方式，如挖掘ETC。
 
-The way it works, is that users may deposit cryptocurrencies into the liquidity pools in the proportions of the market price for each pair. Then, when traders pay commissions when they buy and sell these pairs, part of the commissions goes to pay interest to the liquidity providers.
+具体操作方式是，用户可以按照每对交易对的市场价格比例将加密货币存入流动性池中。然后，当交易者在购买和销售这些交易对时支付手续费，其中一部分手续费将用于支付给流动性提供者的利息。
 
-## Total Value Locked  Statistics
+## 总锁定价值统计
 
 ![TVL.](./6.png)
 
-HebeSwap is the largest DEX dapp on the ETC DeFi ecosystem with a [total value locked (TVL)](https://defillama.com/chain/EthereumClassic?tvl=true) of around $350,000.
+HebeSwap是ETC DeFi生态系统中最大的去中心化交易所（DEX）dapp，其[总锁定价值（TVL）](https://defillama.com/chain/EthereumClassic?tvl=true)约为35万美元。
 
-HebeSwap has 9 tokens listed of which 8 are ERC-20 tokens and one is ETC.
+HebeSwap上列出了9种代币，其中8种是ERC-20代币，另一种是ETC。
 
-## External Tokens Through Multichain
+## 通过Multichain引入的外部代币
 
 ![Multichain tokens.](./7.png)
 
-All the external tokens, meaning the tokens that are not issued inside ETC but exist in other chains, are bridged into the Ethereum Classic network through a technology called Multichain.
+所有外部代币，也就是不在ETC内部发行但存在于其他链上的代币，都是通过名为Multichain的技术桥接到Ethereum Classic网络上的。
 
-An example of a cross-chain ERC-20 token that trades on HebeSwap through Multichain is USDT.
+一个通过Multichain在HebeSwap上交易的跨链ERC-20代币的例子是USDT。
 
-## Wrapped ETC
+## 包装的ETC
 
 ![WETC.](./8.png)
 
-Wrapped ETC (WETC) is a way to send ETC to a smart contract and to transform it into an ERC-20 token so it is easier to use and trade in many dapps.
+包装的ETC（WETC）是一种将ETC发送到智能合约，并将其转换为ERC-20代币的方式，以便在许多dapp中更容易使用和交易。
 
-The Hebe team has launched one of the most popular WETC smart contracts and has more than 11,000 ETC wrapped.
+Hebe团队推出了其中一个最受欢迎的WETC智能合约，已经包装了超过11,000个ETC。
 
-## Using HebeSwap to Trade ERC-20 Tokens on Ethereum Classic
+## 在ETC上使用HebeSwap交易ERC-20代币
 
-As said before, HebeSwap has become the largest decentralized exchange in Ethereum Classic, it is growing organically and is a fundamental piece of infrastructure for the ecosystem
+正如前面所述，HebeSwap已成为ETC上最大的去中心化交易所，它正在有机地增长，并成为该生态系统的基础设施的重要组成部分。
 
-In it, users may trade ETC for WETC, and then trade several other ERC-20 tokens. As liquidity grows in time, more native ERC-20 tokens will be listed and more cross-chain tokens will be brought to ETC that will be available on the DEX as well.
+在HebeSwap上，用户可以将ETC交换为WETC，并交易其他多种ERC-20代币。随着时间的推移，随着流动性的增长，将有更多原生ERC-20代币上市，也会引入更多的跨链代币到ETC，这些代币也将在该去中心化交易所上提供交易。
 
-In part II of this series, we will provide a tutorial of how to trade on the HebeSwap DEX, for example buying HEBE and exchanging ETC for WETC.
+在这个系列的第二部分，我们将提供一个教程，介绍如何在HebeSwap DEX上进行交易，例如购买HEBE并将ETC交换为WETC。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
