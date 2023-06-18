@@ -99,7 +99,7 @@ Classic是ETC的主网或主区块链，而Mordor是供开发人员使用的测�
 
 ## 13.输入新的多签名钱包的所有者
 
-在接下来的步骤中，Ethereum Classic多签名钱包将要求您输入该钱包的所有者。我们使用"Add new owner"链接添加了三个人，他们将控制该钱包：Donald、Bob和Alice。
+在接下来的步骤中，ETC多签名钱包将要求您输入该钱包的所有者。我们使用"Add new owner"链接添加了三个人，他们将控制该钱包：Donald、Bob和Alice。
 
 然后，您需要输入由Donald、Bob和Alice控制的ETC地址，这些地址将用于为该多签名钱包签署交易。
 
