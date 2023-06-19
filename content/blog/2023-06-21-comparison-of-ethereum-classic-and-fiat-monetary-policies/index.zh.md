@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Ethereum Classic and Fiat Monetary Policies"
+title: "以太坊经典和法定货币的货币政策比较"
 date: 2023-06-21
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,139 +8,139 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aoY6XT6MHM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-![ETC vs fiat currencies.](./banner.png)
+![ETC和法币](./banner.png)
 
-In this post we will make a comparison of the Ethereum Classic (ETC) and fiat monetary policies.
+在本文中，我们将比较以太坊经典和法定货币的货币政策。
 
-We will use ETC as base money and fiat money as base money. This is, that we will describe ETC’s issuance and stock at the network protocol layer without taking into account any fractional reserve multiplier that may occur at the exchanges and dapps that use crypto for margin lending and lending in general.
+我们将以ETC作为基础货币，以法定货币作为基础货币。也就是说，我们将描述ETC在网络协议层面上的发行和存量，而不考虑在使用加密货币进行保证金借贷和一般借贷的交易所和去中心化应用（dapps）中可能发生的任何保留比例乘数。
 
-In the same way, we will use the classical policies pertaining fiat money with regards to what is called “base money” or the money that the central bank issues without taking into account the multiplier of the money that occurs in the fractional reserve system that is managed by the rest of the banks of the economy.
+同样地，我们将使用与法定货币相关的传统政策来描述中央银行发行的基础货币，而不考虑在由经济中其他银行管理的保留比例制度中发生的货币乘数。
 
-When referring to “fiat money” generically, we will mainly describe the way the United States Federal Reserve manages the base money. However, this is nearly identical in all monetary systems in all national currencies across the world.
+当泛指"法定货币"时，我们主要描述美联储管理基础货币的方式。然而，这在世界范围内的所有国家货币的货币体系中几乎是相同的。
 
-We start with the comparison table below and then we will explain each line.
+我们从下面的比较表开始，然后解释每一行。
+  
+![ETC和法币货币政策的比较](./1.png)
 
-![Comparison between ETC and fiat monetary policies.](./1.png)
+## 数字黄金
 
-## Digital Gold
+ETC是数字黄金，而法定货币则不是。
 
-ETC is digital gold and fiat money is not.
+ETC之所以被称为数字黄金，是因为它是一种工作量证明的区块链，这种共识机制的目的是使创建ETC的成本与在现实世界中开采黄金的成本相当。
 
-ETC is digital gold because it is a proof of work blockchain and the purpose of that consensus mechanism is to make it as costly to create ETC as it is costly to produce gold in the real world.
+其工作方式是区块链中的矿工创建交易区块，并通过进行大量的计算工作和消耗大量电力来对其进行密码学加密。然后，当区块被网络中的其他节点接受时，矿工将按照算法获得新发行的代币。
 
-The way it works is that miners in the blockchain create blocks of transactions, and to stamp them cryptographically they need to do a lot of computational work, which uses a lot of electricity. Then, when the blocks are accepted by the rest of the network, the miners are credited newly issued coins by the algorithm.
+上述系统确保ETC将成为像古代黄金一样的有价值的货币，因此有了"数字黄金"这一术语。
 
-The above system guarantees that ETC will be sound money as gold was in the old days, hence the term “digital gold”.
+法定货币既不是黄金，也不是数字黄金，因为：a）几十年前就取消了金本位制度，b）几乎没有任何成本来印刷更多的法定货币。
 
-Fiat money is not gold nor digital gold because a) it ended the gold standard decades ago and b) there is hardly any cost whatsoever to print more fiat currency.
+法定货币的运作方式是只有政府的国库被允许印刷纸币和铸造硬币，而中央银行则独家负责通过在银行账户中记账的方式创建货币。
 
-The way fiat money works is that only the treasury of the government is allowed to print physical paper money and mint coins, and the central bank is exclusively allowed to create money by crediting it in the accounts of banks.
+由于这两种货币创造方法的边际成本非常低，因此几乎没有资本或能源投入到货币的生产中，因此可以随时创造任意数量的货币。这仅仅取决于政府的意愿。
 
-As both of these money creation methods have very low marginal costs, then there is no capital nor energy invested to produce the money, hence any amounts may be created at any time. It is just the will of the government to decide. 
+因此，法定货币无法像黄金或数字黄金那样稀缺。
 
-Therefore, fiat money can’t be scarce as gold or digital gold.
+## 算法化
 
-## Algorithmic
+ETC的货币政策是算法化的，因为在2017年，它迁移到了一个固定的计划中，将整个未来的分发量以软件的形式以供应算法的方式确定下来。
 
-ETC’s monetary policy is algorithmic because in 2017 it migrated to a schedule that is set in stone as it establishes the whole future distribution in the software in the form of a supply algorithm.
+供应算法是一组简单而透明的数学规则，确定每个区块将支付给矿工的代币数量、支付频率以及随着时间推移逐渐减少的支付计划。
 
-The supply algorithm is a set of simple and transparent mathematical rules that establish what number of coins will be paid to miners per block, the frequency of the payments, and a schedule that will decrease these payments as time passes by.
+法定货币由中央银行家委员会决定，他们每隔几个月会开会。他们评估经济状况和政府财政状况，并决定是扩大基础货币存量还是缩减它。他们还决定设置利率的水平。因此，法定货币不是算法化的，而是由技术专家管理的。
 
-Fiat money is decided by a committee of central bankers that meets every few months. They evaluate the state of the economy and of government finances, and they decide whether to expand the base money stock or whether to contract it. They also decide at what level they will set interest rates. Therefore, fiat money is not algorithmic, but managed by technocrats.
+## 有限供应
 
-## Capped Supply
+ETC的代币供应是有限的。这意味着我们知道ETC的总量将永远不会超过多少。
 
-ETC has a capped supply of its coin. This means that it’s known what is the total amount of ETC that will ever exist.
+根据以太坊经典向矿工支付的频率、每个区块发行的代币数量以及其折扣计划，其最大供应量将为2,107,000,000个ETC。
 
-Given Ethereum Classic’s frequency of payments to miners, the number of coins it issues per block, and its discount schedule, it will have a maximum supply of 210,700,000 ETC.
+法定货币没有上限，并由政府官员主观决定。正如之前所说，他们经常开会，决定在市场上印刷或回收多少基础货币。这是一种导致供应偏向性操纵的做法，因为政府本身是新印钞票的最大消费者，这导致财政赤字膨胀、难以管理的国家债务、通货膨胀以及全球法定货币价值的持续贬值。
 
-Fiat money does not have a cap and is decided subjectively by government officials. As said before, they meet frequently and decide how much base money they will print or redeem in the market. This is a recipe for biased manipulation of the supply as the government itself is the largest consumer of newly minted money, and this has led to ballooning deficits, unmanageable national debt, inflation, and chronic depreciation of the value of fiat money around the world.
+![美联储的资产，类似于基础货币。](./2.png)
 
-![Federal Reserve's assets, which are analogous to base money.](./2.png)
+上面的图表是过去20年来美国基础货币发行无法控制增长的完美例证。在2002年，中央银行资产所代表的总基础货币为7120亿美元。而到2023年，这个数字已经超过了8.38万亿美元。这平均每年超过13%的货币发行量增长。
 
-The above chart is a perfect example of how the issuance of base money has grown uncontrollably in the last 20 years in the US. In 2002 the total base money, as represented by the central bank’s assets, was $712 billion. In 2023, it is more than $8.38 trillion. This is an average of more than 13% money issuance per year.
+## 区块时间
 
-## Block Time
+以太坊经典的区块时间为每个区块13秒。这意味着每天ETC矿工会创建6,646个区块。
 
-Ethereum Classic’s block time is 13 seconds per block. This means that ETC miners create 6,646 blocks per day.
+区块链的区块时间很重要，因为它决定了代币的创建速度，从而调控了供应量，为经济提供了确定性。
 
-The block time of a blockchain is important because it establishes how fast the coins will be created, thus regulates the supply, providing certainty to the economy. 
+通过调节区块时间和每个区块创建的代币数量，区块链可以永久地控制货币政策和供应水平。
 
-By modulating the block times and the number of coins created per block a blockchain can control the monetary policy in time and supply levels forever.
+法定货币在政府希望时创造，并且除了每隔几个月中央银行的简短通讯之外，没有关于基础货币供应预测的指导或确定性。
 
-Fiat money is created whenever the government wishes and there is no guidance or certainty as to the base money supply projection other than the brief communications of the central bank every few months.
+## 时代
 
-## Eras
+以太坊经典的发行被划分为时代。法定货币的发行是不可预测的，并且由一个委员会在任意时刻决定。
 
-Ethereum Classic’s issuance is divided in eras. Fiat money issuance is unpredictable and decided arbitrarily by a committee whenever they wish.
+以太坊经典的时代以区块为单位进行衡量，在每个时代中，支付给矿工的代币发行量将保持不变。
 
-Eras in ETC are measured in blocks in which the payments to miners, thus the issuance of coins, will be the same for each era.
+以太坊经典的时代持续5百万个区块，根据每个区块13秒的时间计算，每个时代大约为2年。
 
-Ethereum Classic’s eras last 5 million blocks which, at 13 seconds per block, turns out to be more or less 2 years per era.
+每个时代结束后，ETC会对支付给矿工的代币进行折扣。
 
-After each era ETC discounts the payment to miners.
+## 时代折扣
 
-## Discount Per Eras
+在以太坊经典中，每个时代的折扣率为20%。
+这意味着自从创世纪以来，ETC每个区块支付给矿工的代币数量在第一个时代是5个ETC，然后是4个ETC，然后是3.20个ETC，现在支付的是2.56个ETC，即当前时代。
 
-In Ethereum Classic, the discount per era is 20%. 
-This means that since genesis, ETC has paid miners 5 ETC per block in the first era, then 4 ETC, then 3.20, and now is paying 2.56 which is the current era.
+法定货币的发行没有时代概念，是由政府任意决定的，没有参数或限制。
 
-Fiat money issuance has no eras, is decided arbitrarily by the government, and there are no parameters or limits to their actions.
+这导致了上面所示的美联储资产图表中出现的模式。关于货币供应没有确定性，容易受到滥用和过度发行的影响，导致持续通货膨胀，并让政府过度支出，导致国家破产和贫困。
 
-This results in patterns as the one seen in the Federal Reserve’s assets (which is analogous to the monetary base) chart above. There is no certainty as to the money supply, it is prone to abuse and over emission, creating chronic inflation, and letting the government loose to overspend, leading nations to bankruptcy and poverty.
+## 预挖
 
-## Pre-Mine
+因为以太坊经典和以太坊从一开始就是一个项目，并且该项目通过众筹销售开始，从而产生了初始发行量，或者所谓的"预挖"，因此ETC和ETH都有一个在创世区块创建的预挖代币库存。
 
-Because Ethereum Classic and Ethereum were one single project since the beginning, and the project started with a crowd sale that resulted in an initial issuance, or what is called a “pre-mine”, then both ETC and ETH have a pre-mine stock of coins that were created at genesis block.
+以太坊经典的预挖代币库存为72,000,000个ETC，占当前供应量的140,600,000个ETC。
 
-This premine stock for Ethereum Classic was 72,000,000 ETC of the current supply of 140,600,000.
+法定货币有无限的预挖。这是因为，正如许多中央银行家在国家电视台上著名地解释过的那样，他们可以随时通过计算机终端向经济中增加数万亿单位的货币。
 
-Fiat money has an infinite pre-mine. This is because, as many central bankers have famously explained on national television, they can just go to a computer terminal and add trillions of units of the currency to the economy whenever they wish.
+这意味着中央银行拥有无限的货币库存，只是取决于他们何时使用其中的多少。
 
-This means that central banks have an infinite stock of the currency, it’s just their prerogative how much they will use of it at any time.
+## 发行量
 
-## Issuance
+以太坊经典目前处于第4个时代，该时代的区块范围为15,000,001至20,000,000。这意味着每个区块支付给矿工的代币数量为2.56个ETC，如前所述。
 
-The current era in ETC is era 4 which is between block 15,000,001 and 20,000,000. This means it is paying 2.56 ETC per block to miners as explained before.
+接下来的每个时代，发放的代币数量将以20%的折扣率递减，分别为2.048个ETC，1.6384个ETC，1.311072个ETC，直到在大约2140年完全减少为止。
 
-The next payments will be discounted by 20% per era lowering them to 2.048 ETC, then 1.6384, 1.311072, and so on until it diminishes completely approximately by the year 2140.
+正如在本文中多次提到的，中央银行可以随时发行货币。除了政府官员的意见和偏见外，没有任何计划、确定性或限制。
 
-As said several times before in this post, central banks may issue currency whenever they wish. There is no program, certainty, or limitations whatsoever other than the government officials’ opinions and biases.
+## 销毁代币
 
-## Coin Burning
+法定货币有一种销毁代币的机制，而以太坊经典则没有。
 
-Fiat money has a coin burning mechanism and ETC does not.
+法定货币的销毁机制可以通过首先描述其发行方式来解释。为了发行货币，中央银行可以采取两种方式：a) 在银行需要贷款时，直接向其账户信贷新发行的货币，b) 购买政府债券以资助国家，或者在开放市场上购买其他证券，都使用新发行的货币。
 
-The way the coin burning works in fiat money may be explained by describing how it is issued first. To issue money, central bankers may do two thing, a) credit newly issued money in the accounts of banks directly when they require loans, and b) buy government bonds to finance the state, or buy other securities in the open market, all with newly issued currency.
+要销毁货币，中央银行通常只需等待其提供的贷款或购买的证券到期，然后交易对手必须偿还利息和分期付款。
 
-To burn money, central banks usually just wait until the loans they gave or securities they bought mature and the counterparties have to pay back the interest and amortizations.
+这就是为什么在上面的美联储资产图表中，有时库存实际上会暂时减少的原因。
 
-This is why in the chart of the Fed’s assets above, there are periods when the stock actually was reduced albeit temporarily.
+## 当前发行速率
 
-## Current Issuance Rate
+如果我们计算以太坊经典每年产生的区块数量，并将其乘以区块奖励支付，那么我们将得到每年发行的总代币数量。如果我们将其除以当前供应量，那么我们将知道当前的通胀率。
 
-If we calculate the number of blocks ETC produces per year and multiply that by the block reward payments, then we will get the total number of coins issued per year. If we divide that by the current supply, then we will know the current inflation rate.
+由于以太坊经典每13秒产生一个区块，这相当于每年产生2,425,790个区块。如果我们将该数字乘以每个区块发行的2.56个ETC，我们将得到当前时代每年发行的6,210,022个ETC。如果我们将这个数字除以当前供应量的140,600,000个ETC，那么我们得到当前的通胀率为4.42%。
 
-Because ETC produces blocks every 13 seconds, this equals to 2,425,790 blocks per year. If we multiply that number by 2.56 ETC issued per block, we will get 6,210,022 ETC issued per year in the current era. If we divide this by the current supply of 140,600,000 ETC, then we get a current inflation rate of 4.42%.
+如上所示的美联储资产图表显示，美国法定货币的平均发行速率在过去20年中为13%。在许多国家，这个数字更高得可怕。
 
-As shown in the Federal Reserve’s assets chart above, the average issuance rate of fiat base money in the US has been 13% in the last 20 years. In many nations it is catastrophically higher.
+## 叔区块
 
-## Uncle Blocks
+法定货币没有区块，因此也没有叔区块。以太坊经典有叔区块。
 
-Fiat money does not have blocks, thus uncle blocks. Ethereum Classic has uncle blocks. 
+在以太坊经典中，每次创建一个区块时，可能会有多达两个额外的区块，这些区块会因为建造它们的工作而获得微小的费用。之所以这样设计，是因为由于ETC的挖矿算法，存在着矿工在每轮中建造多个区块的可能性。
 
-Each time a block is created in ETC, there may be up to two extra blocks that will get paid a minimal fee for the effort of building them. This was done because due to ETC’s mining algorithm, there is a probability that more than one block may be built by miners per round.
-
-However, the uncle block rate is around 5% per era in ETC, meaning that only in 5% of occurrences there are actually other blocks created in the network. In addition to this, the payments to uncles are very low (they are currently 0.32 ETC for both uncles whenever they appear) and they are discounted by 20% per era as the other rewards, so the impact on the supply and issuance in ETC is minimal.
+然而，以太坊经典中每个时代的叔区块率约为5%，这意味着只有在5%的情况下实际上会在网络中创建其他区块。除此之外，叔区块的奖励非常低（目前它们为每个叔区块的0.32个ETC），并且像其他奖励一样，它们每个时代都会以20%的折扣率递减，因此对ETC的供应和发行影响很小。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
