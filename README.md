@@ -10,7 +10,7 @@
 
 Become a contributor to the [ethereumclassic.org](https://ethereumclassic.org/) website!
 
-If you want submit content or make updates to ethereumclassic.org, you can do so in a number of ways:
+If you want to submit content or make updates to ethereumclassic.org, you can do so in a number of ways:
 
 ### Contributions App
 
