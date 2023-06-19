@@ -10,32 +10,33 @@
 
 Become a contributor to the [ethereumclassic.org](https://ethereumclassic.org/) website!
 
-### General Instructions
+If you want submit content or make updates to ethereumclassic.org, you can do so in a number of ways:
 
-If you want to modify content or add blog articles, you can do so in a number of ways:
+### Contributions App
 
-- Easy Mode: Create an issue with suggested changes (a maintainer will implement the changes)
-- Edit on GitHub: Edit directly via the GitHub UI; you can also manually edit content by modifying files in the `content` directory
+You can easily make submissions of Apps, Videos, News and Service Links (Exchanges, Wallets, Pools, etc.) using https://etc.contributions.app/.
 
-### Easy Mode
+For other more complex content updates, you can:
+
+### Create an Issue
 
 If you're not familiar with GitHub making a pull request seems complicated, then you can simply input your content suggestion or news article into a [New Issue](https://github.com/ethereumclassic/ethereumclassic.github.io/issues/new/choose) and another contributor can make a PR for you. Also, you can reach out for help from other contributors in the [discord #website](https://ethereumclassic.org/discord) channel.
 
-### Submit Links and Content on GitHub
+### Submit Content via Github
 
-_VIDEO TUTORIALS COMING SOON!_
+A written and video tutorial on how to contribute is available at https://ethereumclassic.org/blog/2023-01-03-how-to-contribute-to-etc-community-website/.
 
-If you'd like to submit an Ethereum Classic related article to the website's News section, please follow the instructions below.
+In short, if you'd like to submit relevant content to the website, please follow the instructions below.
 
 New GitHub contributors can follow this [contribution guide](https://guides.github.com/activities/forking/) to contribute to repositories.
 
 1. Fork this repository to your personal GitHub account.
-1. Navigate to and open the relevant file:
+1. Navigate to and open the relevant file, eg:
    - `content/news/links.collection.en.yaml`
    - `content/videos/videos.collection.en.yaml`
    - `content/services/apps/apps.collection.en.yaml`
 1. Review the existing format of the articles in the file.
-1. Add your article to the file. Ensure the formatting is correct. Save your changes.
+1. Add your content to the file. Ensure the formatting is correct. Save your changes.
    - Note: The items are listed in reverse chronological order with the most recent items at the top of the document. Please add your article to the top of the list in-line with this order.
 1. Make a Pull Request from the active branch in your repo to the `ethereumclassic:master` branch using the big green button.
    - Instructions: [Creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
