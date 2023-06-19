@@ -491,3 +491,6 @@ items:
       BestChange:
         __link: https://www.bestchange.com/ethereum-classic-to-bitcoin.html
         __name: BestChange
+      CoinMarketCap Markets List:
+        __name: CoinMarketCap Markets List
+        __link: https://coinmarketcap.com/currencies/ethereum-classic/markets/
