@@ -439,6 +439,9 @@ items:
       FixedFloat:
         __link: https://fixedfloat.com/
         __name: FixedFloat
+      FLASHIFT:
+        __link: https://exchange.flashift.app/?currency_from=btc&currency_to=etc&amount=0.1
+        __name: FLASHIFT
       SimpleSwap:
         __link: https://simpleswap.io/coins/ethereum-classic
         __name: SimpleSwap
@@ -488,3 +491,6 @@ items:
       BestChange:
         __link: https://www.bestchange.com/ethereum-classic-to-bitcoin.html
         __name: BestChange
+      CoinMarketCap Markets List:
+        __name: CoinMarketCap Markets List
+        __link: https://coinmarketcap.com/currencies/ethereum-classic/markets/

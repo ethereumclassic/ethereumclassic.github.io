@@ -3,7 +3,7 @@ __updated: 2022-02-22
 __contribute: 1
 seo: A history of past hard forks; the protocol upgrades that were accepted for Ethereum Classic.
 description: |
-  Ethereum Classic, despite its histroy, is not against all types of Hard Fork. Far from it; Hard Forking allows the protocol to be upgraded, to fix bugs, and add features that further the goal of enabling developers to "Build Unstoppable Applications".
+  Ethereum Classic, despite its history, is not against all types of Hard Fork. Far from it; Hard Forking allows the protocol to be upgraded, to fix bugs, and add features that further the goal of enabling developers to "Build Unstoppable Applications".
 
   The types of Hard Fork that Ethereum Classic will never implement are those like [The DAO Fork](/why-classic/genesis), which do not address a defect in or enhancement of the protocol itself, but instead override *Code is Law* by modifying Smart Contracts in the application layer.
 
@@ -43,7 +43,7 @@ items:
         __color: red
         __link: /blog/2016-10-17-gas-reprice-hard-fork/
         __date: 2016-10-24
-        text: ECIP-1015 was Ethereum Classic's First independent protocol upgrade after the DAO Hard Fork, which involed long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks.
+        text: ECIP-1015 was Ethereum Classic's First independent protocol upgrade after the DAO Hard Fork, which involved long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks.
         __block: 2,500,000
       Die Hard:
         title: Die Hard
@@ -51,7 +51,7 @@ items:
         __color: pink
         __link: /blog/2017-01-17-die-hard-fork-upgrade/
         __date: 2017-01-13
-        text: The Die Hard fork delayed the difficulty bomb, repriced the EXP opcode and implemented replay protection, setting ETC's Chain ID to 61.
+        text: The Die Hard fork delayed the difficulty bomb, reprised the EXP opcode and implemented replay protection, setting ETC's Chain ID to 61.
         __block: 3,000,000
       Gotham:
         title: Gotham

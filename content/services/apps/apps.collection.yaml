@@ -1,53 +1,50 @@
-# DO NOT DELETE THIS COMMENT BLOCK
-# YOU CAN COPY AND PASTE THE BLOCK BELOW AND UNCOMMENT/DELETE THE RELEVANT LINES TO ADD A NEW APP
-#
-# PLEASE ENSURE THAT SPACING IS CORRECT, ONE INDENTATION IS TWO SPACES. YAML MUST BE FORMATTED CORRECTLY.
-#
-# PLEASE ADD NEW APPS TO THE TOP OF THE LIST
-#
-### START APP TEMPLATE
-#
-# - title: Project Name
-#   date: 2022-01-01
-#   type: games
-#   image: ./images/project_name.jpg
-#   author: Author Name Here
-#   authorLink: https://author-website.com/
-#   verifiedContract: https://blockscout.com/etc/mainnet/address/0x0000000000000000000000000000000000000000/contracts
-#   # NOTE, openSource link MUST MEET https://en.wikipedia.org/wiki/The_Open_Source_Definition
-#   openSource: https://blockscout.com/etc/mainnet/address/0x0000000000000000000000000000000000000000/contracts
-#   audit: https://example.com
-#   testSuite: https://example.com
-#   ipfsFrontend: https://example.com
-#   description: Example Description
-#   links:
-#     - name: Launch App
-#       link: https://app.example.com
-#     - name: Website
-#       link: https://example.com
-#       icon: home
-#     - name: Documentation
-#       link: https://docs.example.com
-#       icon: book
-#     - name: Github
-#       link: https://github.com/example
-#       icon: github
-#     - name: Twitter
-#       link: https://twitter.com/example
-#       icon: twitter
-#     - name: Discord
-#       link: https://discord.gg/example
-#       icon: discord
-#     - name: Telegram
-#       link: https://t.me/example
-#       icon: telegram
-#     - name: Medium
-#       link: https://medium.com/example
-#       icon: medium
-#
-### END APP TEMPLATE
-#
-# ADD YOUR NEW APP HERE
+- date: 2023-06-18
+  title: ETC Prime Apes
+  description: A Premium HD Art Collection of 11.1k Unique & Epic Prime Apes!
+  image: ./images/230618-0203-etc-prime-apes.jpeg
+  type: nfts
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x9cE28c9deBAff2F9a2386252C04678ade5F0dce6/contracts#address-tabs
+  author: Prime Apes Society
+  authorLink: https://etcprime.webflow.io/
+  links:
+    - name: Launch App
+      link: https://etcprimeapesociety.netlify.app/
+    - name: LinkTree
+      link: https://linktr.ee/etcprimeapesociety
+      icon: link
+    - name: Telegram
+      link: https://t.me/ETCPrimeApes
+      icon: telegram
+    - name: ETC Planets
+      link: https://www.etcplanets.com/collection/ETCPRIME
+- title: in Argentum Veritas
+  date: 2023-06-07
+  image: ./images/iav.jpg
+  author: In Argentum Veritas
+  authorLink: https://inargentumveritas.app
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x09a9E6D00B07f7C991b98575F75d16811C9c50a4/contracts
+  openSource: https://blockscout.com/etc/mainnet/address/0x09a9E6D00B07f7C991b98575F75d16811C9c50a4/contracts
+  description: ERC20s, Airdrops to NFT Owners, DEX.
+  type: other
+  links:
+    - name: In Argentum Veritas
+      link: https://inargentumveritas.app
+      icon: link
+    - name: Airdrop for ETCPunks
+      link: https://blockscout.com/etc/mainnet/address/0x527fdC99F01158Bf699A168743a542d7f14ff93A/contracts
+      icon: link
+    - name: xTr
+      link: https://blockscout.com/etc/mainnet/address/0x29364Fe5B156f1747D9dAC290094e98C8DF3CCE6/contracts
+      icon: link
+    - name: Swap
+      link: https://blockscout.com/etc/mainnet/address/0x1180B6C9581057ffb5f764974AD40105Bc23D7F4/contracts
+      icon: link
+    - name: Twitter
+      link: https://twitter.com/ArgentumVeritas
+      icon: twitter
+    - name: Discord
+      link: https://discord.gg/Mh6Mz35G48
+      icon: discord
 - title: Wrapped ETC
   date: 2023-03-27
   image: ./images/wrappedetc.png
@@ -73,7 +70,7 @@
   author: Rohit Kumar Gupta
   authorLink: https://github.com/IamRohitKGupta
   verifiedContract: https://blockscout.com/etc/mainnet/address/0x2800e69B8c5d6b7ACA3Da2A91D8917d2Edb549DB/contracts#address-tabs
-  description: Swap, provide LP, and grab your audience on the leading multi dapp protocol on Ethereum Classic. 
+  description: Swap, provide LP, and grab your audience on the leading multi dapp protocol on Ethereum Classic.
   type: finance
   links:
     - name: Launch ETC DApp
@@ -116,13 +113,13 @@
       icon: twitter
     - name: Medium
       link: https://ghostchain.medium.com/
-      icon: medium     
+      icon: medium
     - name: Telegram
       link: https://t.me/realGhostChain
-      icon: telegram      
+      icon: telegram
     - name: Github
       link: https://github.com/realGhostChain/
-      icon: github  
+      icon: github
 - title: Shiba Classic
   date: 2022-10-25
   type: other
@@ -318,7 +315,6 @@
     - name: Telegram
       link: https://t.me/thenovanetwork
       icon: telegram
-
 - title: Nova USD Stablecoin
   date: 2022-09-01
   image: ./images/nusd.png
@@ -343,7 +339,6 @@
     - name: Telegram
       link: https://t.me/thenovanetwork
       icon: telegram
-
 - title: ClassicDAO
   date: 2022-08-12
   image: ./images/IMG_5280.png

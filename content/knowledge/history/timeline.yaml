@@ -7,7 +7,7 @@ items:
     __color: blue
     __icon: rocket
     __link: https://blog.ethereum.org/2015/07/30/ethereum-launches/
-    text: Vitalik Buterin and The Ethereum Foundation create the first blockchain-based Turing-complete smart contract platform with the Frontier release.
+    text: Vitalik Buterin and The Ethereum Foundation created the first blockchain-based Turing-complete smart contract platform with the Frontier release.
   frontierThawingUpgrade:
     title: Frontier Thawing Upgrade
     __block: 200,000
@@ -650,7 +650,7 @@ items:
     __color: green
     __icon: cubes
     __link: /blog/2022-03-18-etc-welcomes-ethash-miners
-    text: Ethereum Classic commits support to the ETChash mining algorithm and the current mining ecosystem. This positions Ethereum Classic as a network well positioned to absorbed a majority of the disenfranchised Ethash miners with ETH network's move to proof of stake consensus.
+    text: Ethereum Classic commits support to the ETChash mining algorithm and the current mining ecosystem. This positions Ethereum Classic as a network well positioned to absorb a majority of the disenfranchised Ethash miners with ETH network's move to proof of stake consensus.
   etcdao:
     title: Ethereum Classic DAO
     __date: 2022-04-11
@@ -665,14 +665,14 @@ items:
     __color: green
     __icon: coins
     __link: https://etcis.money
-    text: Ethereum Classic's block rewards are reduced by 20% to 2.56 ETC per block, as per the bitcoin-inspired 5M20 emission schedule. ETChash mining hasrate continues to turn over to ETC with the network reaching All-Time Highs.
+    text: Ethereum Classic's block rewards are reduced by 20% to 2.56 ETC per block, as per the bitcoin-inspired 5M20 emission schedule. ETChash mining hashrate continues to turn over to ETC with the network reaching All-Time Highs.
   sha3Withdrawn:
     title: ETC Coop SHA3 Proposal Withdrawn
     __date: 2022-05-20
     __color: orange
     __icon: timesCircle
     __link: https://github.com/ethereumclassic/ECIPs/pull/486
-    text: After more than three years of contentious debate, Bob Summerwill acknowledges the contentious hardfork ECIP-1049 would cause on the network and withdraws the proposal. The negative social cost caused by the ECIP-1049 proponents misinformation campaign continues to negatively effect the network's public perception. However through its resilient community, Ethereum Classic remains well-positioned to thrive on ETChash in a post-merge world.
+    text: After more than three years of contentious debate, Bob Summerwill acknowledges the contentious hardfork ECIP-1049 would cause on the network and withdraws the proposal. The negative social cost caused by the ECIP-1049 proponent's misinformation campaign continues to negatively affect the network's public perception. However through its resilient community, Ethereum Classic remains well-positioned to thrive on ETChash in a post-merge world.
   etcswap:
     title: ETCswap
     __date: 2022-06-18
