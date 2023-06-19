@@ -3,7 +3,7 @@ title: "ETC Ecosystem Spotlight: HebeSwap Part I"
 date: 2023-06-20
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-disclaimers: promotional
+disclaimer: promotional
 tags: ["guide", "teams"]
 linkImage: ./banner.png
 ---
