@@ -76,7 +76,7 @@ As to providing liquidity to the HebeSwap system of ERC-20 token trading pairs, 
 
 They call this “Staking” or “liquidity mining” as an analogy to earning passive income from providing capital in proof of stake chains or from mining ETC.
 
-The way it works, is that users may deposit cryptocurrencies into the liquidity pools in the proportions of the market price for each pair. Then, when traders pay commissions when they buy and sell these pairs, part of the commissions goes to pay interest to the liquidity providers.
+The way it works is that users may deposit cryptocurrencies into the liquidity pools in the proportions of the market price for each pair. Then, when traders pay commissions as they buy and sell these pairs, part of the commissions is paid as interest to the liquidity providers.
 
 ## Total Value Locked  Statistics
 
