@@ -94,13 +94,13 @@ items:
       ETC Mining Club:
         __name: ETC Mining Club
         __link: https://www.etcmining.club/
-      ETC-POOL:
-        __name: ETC-POOL
-        __link: https://etc-pool.com/
       ETC Pool US:
         __name: ETCPool.us
         __link: https://etcpool.us/
         __primary: 1
+      ETC-POOL:
+        __name: ETC-POOL
+        __link: https://etc-pool.com/
       Ethermine:
         __name: Ethermine
         __link: https://etc.ethermine.org/
@@ -170,6 +170,9 @@ items:
       Prohashing:
         __name: Prohashing
         __link: https://prohashing.com/
+      RICHPOOL:
+        __name: RICHPOOL
+        __link: https://richpool.pro/
       RociMining:
         __name: Roci Mining
         __link: http://rocimining.co.uk/

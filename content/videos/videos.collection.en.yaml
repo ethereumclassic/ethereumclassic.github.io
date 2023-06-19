@@ -1,796 +1,905 @@
-# DO NOT DELETE THIS COMMENT BLOCK
-# YOU CAN COPY AND PASE THE BLOCK BELOW AND UNCOMMENT/DELETE THE RELEVANT LINES TO ADD A NEW VIDEO
-#
-### START VIDEO TEMPLATE
-#
-# - title: "ETCCC012: Q&A with Afri, ETCDAO Gigs, Uncle Rate"
-#   date: 2022-02-08
-#   uploaded: 2022-02-08
-#   youtube: GCBv1VCN2tE
-#   tags: ["discussions", "explainers"]
-#   author: ETC Community Calls
-#   authorYoutube: c/channel_name OR channel/channel_id (appended to https://youtube.com)
-#   description: "OPTIONAL, Supports Markdown: Nishant Sharma [@nishantsharma87](https://twitter.com/nishantsharma87), PR and Community Relations at [Bitmain](https://www.bitmain.com/)."
-#   unlisted: true
-#
-### END VIDEO TEMPLATE
-#
-- title: "Why Programmability Makes Ethereum Classic More Trust Minimized, Part I"
-  date: 2023-05-24 
+- title: What is NEXT for Ethereum Classic │ What the DATA is Saying │ ETC Price Prediction
+  date: 2023-06-19
+  uploaded: 2023-05-04
+  youtube: lmozyKclO0s
+  authorYoutube: channel/UCR6nLaa6ee2xJFi4e1wXOeA
+  author: Financial Journey
+  tags:
+    - explainers
+    - trading
+- title: Why Programmability Makes Ethereum Classic More Trust Minimized, Part I
+  date: 2023-05-24
   uploaded: 2023-05-24
   youtube: WhsWlFqEG3c
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Using Ethereum Classic With MyEtherWallet"
-  date: 2023-05-24 
+- title: Using Ethereum Classic With MyEtherWallet
+  date: 2023-05-24
   uploaded: 2023-05-23
   youtube: Uv0oOHj23Gs
-  tags: ["explainers", "tutorials"]
+  tags:
+    - explainers
+    - tutorials
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "Ethereum Classic Course: 22. What Are Hot and Cold Wallets?"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2023-05-18
   youtube: 6pwLR-0H3Jw
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Ethereum Classic Must be Attackable to Be Secure"
-  date: 2023-05-24 
+- title: Ethereum Classic Must be Attackable to Be Secure
+  date: 2023-05-24
   uploaded: 2023-05-17
   youtube: GF8lxfsqdi0
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Comparison of Ethereum Classic and Ethereum Monetary Policies"
-  date: 2023-05-24 
+- title: Comparison of Ethereum Classic and Ethereum Monetary Policies
+  date: 2023-05-24
   uploaded: 2023-05-16
   youtube: Hl1uKGW-40I
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "Ethereum Classic Course: 21. What Are Hardware and Software Wallets?"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2023-05-11
   youtube: 3xWJSPLf5Z0
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Comparison of Ethereum Classic and Bitcoin Monetary Policies"
-  date: 2023-05-24 
+- title: Comparison of Ethereum Classic and Bitcoin Monetary Policies
+  date: 2023-05-24
   uploaded: 2023-05-10
   youtube: cSrFtGc0D8g
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Using Ethereum Classic for Business, Part II"
-  date: 2023-05-24 
+- title: Using Ethereum Classic for Business, Part II
+  date: 2023-05-24
   uploaded: 2023-05-09
   youtube: yFpzH7UyijA
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "Ethereum Classic Course: 20. What Are Custodial and Non custodial Wallets?"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2023-05-04
   youtube: 0V4UzW3g_xk
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Using Ethereum Classic for Business, Part I"
-  date: 2023-05-24 
+- title: Using Ethereum Classic for Business, Part I
+  date: 2023-05-24
   uploaded: 2023-05-03
   youtube: _gJoMDXS1h8
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Response to Bitcoin Magazine Article About Tokenization"
-  date: 2023-05-24 
+- title: Response to Bitcoin Magazine Article About Tokenization
+  date: 2023-05-24
   uploaded: 2023-05-02
   youtube: ZdV9zkJLlb4
-  tags: ["explainers", "other"]
+  tags:
+    - explainers
+    - other
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "Ethereum Classic Course: 19. What Are Raw Private Keys, Private Key JSON Files & Secret Passphrases?"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2023-04-27
   youtube: 1zMg9FpxEyk
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "How to Run an Ethereum Classic Node Using DappNode"
-  date: 2023-05-24 
+- title: How to Run an Ethereum Classic Node Using DappNode
+  date: 2023-05-24
   uploaded: 2023-04-26
   youtube: WoFInpj3Y2Y
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "The Meaning of Finality in Ethereum Classic"
-  date: 2023-05-24 
+- title: The Meaning of Finality in Ethereum Classic
+  date: 2023-05-24
   uploaded: 2023-04-25
   youtube: 7QVY5-arvPQ
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "Ethereum Classic Course: 18. The Difference Between Wallets and Addresses"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2023-04-20
   youtube: Vd_ALJRbC3A
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "How to Contribute to ETC: Mining"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2023-04-19
   youtube: TbsxAUtlcjk
-  tags: ["explainers", "mining"]
+  tags:
+    - explainers
+    - mining
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "The Value of Composability in Ethereum Classic"
-  date: 2023-05-24 
+- title: The Value of Composability in Ethereum Classic
+  date: 2023-05-24
   uploaded: 2023-04-18
   youtube: Alxz8pDfMhg
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Ethereum Classic Course 17 What Are Private Keys, Public Keys, and Addresses?"
-  date: 2023-05-24 
+- title: Ethereum Classic Course 17 What Are Private Keys, Public Keys, and Addresses?
+  date: 2023-05-24
   uploaded: 2023-04-13
   youtube: cxJa0xRz4mE
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "How to Keep Your ETC Secure"
-  date: 2023-05-24 
+- title: How to Keep Your ETC Secure
+  date: 2023-05-24
   uploaded: 2023-04-12
   youtube: AUGBqTf1veY
-  tags: ["explainers", "tutorials"]
+  tags:
+    - explainers
+    - tutorials
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "The Enormous Value of Ethereum Classic During Banking Crises"
-  date: 2023-05-24 
+- title: The Enormous Value of Ethereum Classic During Banking Crises
+  date: 2023-05-24
   uploaded: 2023-04-11
   youtube: OUmnaqJGiIM
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "Ethereum Classic Course: 16. What Is WETC?"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2023-04-06
   youtube: Q03_NutyP7Q
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Response to Forbes Article About Ethereum Classic"
-  date: 2023-05-24 
+- title: Response to Forbes Article About Ethereum Classic
+  date: 2023-05-24
   uploaded: 2023-04-05
   youtube: HUG3n2oIRIw
-  tags: ["explainers", "other"]
+  tags:
+    - explainers
+    - other
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Ethereum Classic Will Always Be State of the Art Technology"
-  date: 2023-05-24 
+- title: Ethereum Classic Will Always Be State of the Art Technology
+  date: 2023-05-24
   uploaded: 2023-04-04
   youtube: tVjFoqpwrFc
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "Ethereum Classic Course: 15. What Are Dapps?"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2023-03-30
   youtube: 1ZDBhpGhjVA
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Ethereum Classic Ossification and Social Scalability"
-  date: 2023-05-24 
+- title: Ethereum Classic Ossification and Social Scalability
+  date: 2023-05-24
   uploaded: 2023-03-29
   youtube: wfas7sUqnzs
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Why Does Ethereum Classic have Value?"
-  date: 2023-05-24 
+- title: Why Does Ethereum Classic have Value?
+  date: 2023-05-24
   uploaded: 2023-03-28
   youtube: ltV3gnrmHo4
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "Ethereum Classic Course: 14. What Are Smart Contracts?"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2023-03-23
   youtube: 81xZPZXU3_w
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "ETC and Bitcoin Have the Fifthening and the Halving in 2024"
-  date: 2023-05-24 
+- title: ETC and Bitcoin Have the Fifthening and the Halving in 2024
+  date: 2023-05-24
   uploaded: 2023-03-22
   youtube: JaNkywXLg2M
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "How to Contribute to ETC: Community Volunteering"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2023-03-21
   youtube: 1dVSwqU6MOs
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "Ethereum Classic Course: 13. Proof of Authority Explained"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2023-03-16
   youtube: TtRT7aQGwbQ
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "The Ethereum Classic Mining Difficulty Adjustment Explained"
-  date: 2023-05-24 
+- title: The Ethereum Classic Mining Difficulty Adjustment Explained
+  date: 2023-05-24
   uploaded: 2023-03-14
   youtube: PgAaPaNdrHw
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Mining Ethereum Classic With An iPollo ASIC Through 2Miners Pool"
-  date: 2023-05-24 
+- title: Mining Ethereum Classic With An iPollo ASIC Through 2Miners Pool
+  date: 2023-05-24
   uploaded: 2023-03-14
   youtube: GszUmy3L48M
-  tags: ["tutorials", "mining"]
+  tags:
+    - tutorials
+    - mining
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "Ethereum Classic Course: 12. Proof of Stake Explained"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2023-03-09
   youtube: 7jGOPq3RLjs
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Ethereum Classic's Focus on Trust Minimization"
-  date: 2023-05-24 
+- title: Ethereum Classic's Focus on Trust Minimization
+  date: 2023-05-24
   uploaded: 2023-03-08
   youtube: I9t3xHtAA48
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Ethereum Classic, Centralized, and Decentralized Exchanges"
-  date: 2023-05-24 
+- title: Ethereum Classic, Centralized, and Decentralized Exchanges
+  date: 2023-05-24
   uploaded: 2023-03-07
   youtube: AdmPWn3XOYI
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "Ethereum Classic Course: 11. Ethereum Classic Social and Physical Layer Security"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2023-03-02
   youtube: 0FPTokHcgAE
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdate"
-- title: "Using Ethereum Classic With MyCrypto"
-  date: 2023-05-24 
+- title: Using Ethereum Classic With MyCrypto
+  date: 2023-05-24
   uploaded: 2023-03-01
   youtube: o4n6pqRyA1c
-  tags: ["explainers", "tutorials"]
+  tags:
+    - explainers
+    - tutorials
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Ethereum Classic Is a Commodity, Ethereum Is a Security"
-  date: 2023-05-24 
+- title: Ethereum Classic Is a Commodity, Ethereum Is a Security
+  date: 2023-05-24
   uploaded: 2023-02-28
   youtube: gn7OO_qXhwI
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "Ethereum Classic Course: 10. Proof of Work Explained"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2023-02-23
   youtube: zi0w6NGpIqI
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Ethereum Classic Is Censorship Resistant, Ethereum Is Not"
-  date: 2023-05-24 
+- title: Ethereum Classic Is Censorship Resistant, Ethereum Is Not
+  date: 2023-05-24
   uploaded: 2023-02-22
   youtube: Io_VVWL17Yc
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Using Ethereum Classic With Ledger Nano S"
-  date: 2023-05-24 
+- title: Using Ethereum Classic With Ledger Nano S
+  date: 2023-05-24
   uploaded: 2023-02-21
   youtube: tMLRRV_uFuQ
-  tags: ["explainers", "tutorials"]
+  tags:
+    - explainers
+    - tutorials
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "Ethereum Classic Course: 9. The Units and Denominations of Ethereum Classic"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2023-02-16
   youtube: D31MuLYrW94
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "What Does Security Mean in Ethereum Classic?"
-  date: 2023-05-24 
+- title: What Does Security Mean in Ethereum Classic?
+  date: 2023-05-24
   uploaded: 2023-02-15
   youtube: XGF1IvfQq18
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "How to Contribute to ETC: Community Tweets"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2023-02-14
   youtube: -m01TAjZK7g
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "Ethereum Classic Course: 8. Ethereum Classic's Monetary Policy"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2023-02-09
   youtube: ugUsGjM3K6c
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "The Principle of Backward Compatibility in Ethereum Classic"
-  date: 2023-05-24 
+- title: The Principle of Backward Compatibility in Ethereum Classic
+  date: 2023-05-24
   uploaded: 2023-02-08
   youtube: 3G0taRQRBYU
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Using Ethereum Classic With Trust Wallet"
-  date: 2023-05-24 
+- title: Using Ethereum Classic With Trust Wallet
+  date: 2023-05-24
   uploaded: 2023-02-07
   youtube: 8rI_ADTDcGw
-  tags: ["explainers", "tutorials"]
+  tags:
+    - explainers
+    - tutorials
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "Ethereum Classic Course: 7. Ethereum Classic's Philosophy of Code Is Law"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2023-02-02
   youtube: 2-gE-DqcJdk
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "Ethereum Classic Course: 6. Ethereum Classic Is the Original Chain"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2023-01-26
   youtube: HksfzNs48uo
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Ethereum’s Social Consensus vs Ethereum Classic’s Code Is Law"
-  date: 2023-05-24 
+- title: Ethereum’s Social Consensus vs Ethereum Classic’s Code Is Law
+  date: 2023-05-24
   uploaded: 2023-01-25
   youtube: XF-AUbrnf9s
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Erigon Explained"
-  date: 2023-05-24 
+- title: Erigon Explained
+  date: 2023-05-24
   uploaded: 2023-01-24
   youtube: gBU56Ed4ltQ
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "Ethereum Classic Course: 5. Vitalik Buterin and Ethereum"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2023-01-19
   youtube: oA6if9LobV0
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "The Innovation of Ethereum Classic Is Unstoppability"
-  date: 2023-05-24 
+- title: The Innovation of Ethereum Classic Is Unstoppability
+  date: 2023-05-24
   uploaded: 2023-01-18
   youtube: 7D613eZK3s4
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "The EVM Object Format EOF Upgrade Explained"
-  date: 2023-05-24 
+- title: The EVM Object Format EOF Upgrade Explained
+  date: 2023-05-24
   uploaded: 2023-01-17
   youtube: L3--VZDjRkY
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "Ethereum Classic Course: 4. Satoshi Nakamoto and Bitcoin"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2023-01-12
   youtube: 3gtE4z3NFaI
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Hyperledger Besu Explained"
-  date: 2023-05-24 
+- title: Hyperledger Besu Explained
+  date: 2023-05-24
   uploaded: 2023-01-10
   youtube: zmFdK2JlSsI
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "Ethereum Classic Course: 3. The First Digital Currency Attempts"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2023-01-05
   youtube: 2CEE6Chfrpg
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "How to Contribute to ETC: The Community Website"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2023-01-03
   youtube: qiexydHMM3A
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "Ethereum Classic Course: 2. The Cypherpunks"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2022-12-31
   youtube: Jo6rIKZ-sIM
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Core Geth Explained"
-  date: 2023-05-24 
+- title: Core Geth Explained
+  date: 2023-05-24
   uploaded: 2022-12-27
   youtube: rWEB28nXQ5M
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "Ethereum Classic Course: 1. Public Key Cryptography"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2022-12-22
   youtube: dolcI5kfsec
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Using Ethereum Classic With Metamask"
-  date: 2023-05-24 
+- title: Using Ethereum Classic With Metamask
+  date: 2023-05-24
   uploaded: 2022-12-21
   youtube: 85xAV8jzpQQ
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "How to Contribute to ETC: The Improvement Proposal Process (ECIP)"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2022-12-20
   youtube: ktt_4ATtiWM
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
 - title: "Ethereum Classic Course: Introduction"
-  date: 2023-05-24 
+  date: 2023-05-24
   uploaded: 2022-12-15
   youtube: YtWbwd2ItIM
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "What Is Ethereum Classic?"
-  date: 2023-05-24 
+- title: What Is Ethereum Classic?
+  date: 2023-05-24
   uploaded: 2022-12-14
   youtube: gG6un3SyZyo
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Ethereum Classic Is Bitcoin's Philosophy With Ethereum's Technology"
-  date: 2023-05-24 
+- title: Ethereum Classic Is Bitcoin's Philosophy With Ethereum's Technology
+  date: 2023-05-24
   uploaded: 2022-12-13
   youtube: wK-PyAOG0WM
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "The Permissionless Paradox in Ethereum Classic"
-  date: 2023-05-24 
+- title: The Permissionless Paradox in Ethereum Classic
+  date: 2023-05-24
   uploaded: 2022-12-08
   youtube: LmHnVjMiE90
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "The Three Pillars of Ethereum Classic"
-  date: 2023-05-24 
+- title: The Three Pillars of Ethereum Classic
+  date: 2023-05-24
   uploaded: 2022-12-07
   youtube: GJqwZvFRZMY
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Ethereum Virtual Machine Blockchains and Ethereum Classic"
-  date: 2023-05-24 
+- title: Ethereum Virtual Machine Blockchains and Ethereum Classic
+  date: 2023-05-24
   uploaded: 2022-12-06
   youtube: vedsLsb12Xo
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Are There Software Clients and Servers in a Blockchain?"
-  date: 2023-05-24 
+- title: Are There Software Clients and Servers in a Blockchain?
+  date: 2023-05-24
   uploaded: 2022-12-01
   youtube: L5B7IeJgbM8
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "The Difference Between Blockchain Software and Blockchain Protocol"
-  date: 2023-05-24 
+- title: The Difference Between Blockchain Software and Blockchain Protocol
+  date: 2023-05-24
   uploaded: 2022-11-30
   youtube: xLYGn_x3CSo
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "The Difference Between a Network, a Blockchain, and a Cryptocurrency"
-  date: 2023-05-24 
+- title: The Difference Between a Network, a Blockchain, and a Cryptocurrency
+  date: 2023-05-24
   uploaded: 2022-11-29
   youtube: 6TQwkkbz4yA
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "Proof of Work Is Not Voting"
-  date: 2023-05-24 
+- title: Proof of Work Is Not Voting
+  date: 2023-05-24
   uploaded: 2022-11-16
   youtube: 2qBTZ46J74Y
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "The Ethereum Classic Safe Multisignature Wallet Explained"
-  date: 2023-05-24 
-  uploaded: 2022-11-11 
+- title: The Ethereum Classic Safe Multisignature Wallet Explained
+  date: 2023-05-24
+  uploaded: 2022-11-11
   youtube: OvMEwgYyvyc
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Ethereum Classic Updates
   authorYoutube: "@ETCupdates"
-- title: "The ETC Grants DAO Explained With Bob Summerwill"
+- title: The ETC Grants DAO Explained With Bob Summerwill
   date: 2023-01-31
   uploaded: 2023-01-31
   youtube: hJKUP5SEbDY
-  tags: ["community", "development"]
-  author: "ETC Cooperative"
+  tags:
+    - community
+    - development
+  author: ETC Cooperative
   authorYoutube: "@ETCCooperative"
-  description: "This multimillion dollar grants DAO has been eagerly expected by the Ethereum Classic ecosystem"
-- title: "ETC Community Call 035 2022-12-13"
+  description: This multimillion dollar grants DAO has been eagerly expected by the Ethereum Classic ecosystem
+- title: ETC Community Call 035 2022-12-13
   date: 2022-12-13
   uploaded: 2022-12-13
   youtube: 4Hkmbjre1oY
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "Ethereum VS Ethereum Classic: What's The Difference?"
   date: 2022-12-12
   uploaded: 2022-09-04
   youtube: w5pgnuwJcaU
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: CoinGecko
   authorYoutube: "@CoinGeckoTV"
-- title: "The Biggest Ethereum Classic Holders Revealed!"
+- title: The Biggest Ethereum Classic Holders Revealed!
   date: 2022-12-12
   uploaded: 2022-12-07
   youtube: d4jZlFr22gM
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Savage Profits
   authorYoutube: "@SavageProfits"
-- title: "ETC Community Call 034 2022-12-06"
+- title: ETC Community Call 034 2022-12-06
   date: 2022-12-06
   uploaded: 2022-12-06
   youtube: _YnwH61qnGk
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
-- title: "ETC Community Call 033 2022-11-29"
+- title: ETC Community Call 033 2022-11-29
   date: 2022-12-06
   uploaded: 2022-11-29
   youtube: 37_m-uLXSdc
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
-- title: "ETC Community Call 032 2022-11-22"
+- title: ETC Community Call 032 2022-11-22
   date: 2022-11-22
   uploaded: 2022-11-24
   youtube: 3brfnEPc3ng
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
-- title: "ETC Community Call 031 2022-11-15"
+- title: ETC Community Call 031 2022-11-15
   date: 2022-11-15
   uploaded: 2022-11-15
   youtube: mpezIlWrcNY
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
-- title: "ETC Community Call 030 2022-10-25"
+- title: ETC Community Call 030 2022-10-25
   date: 2022-10-25
   uploaded: 2022-10-25
   youtube: MSd9VIPoE8U
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
-- title: "The Ethereum Classic Monetary Policy Explained"
+- title: The Ethereum Classic Monetary Policy Explained
   date: 2022-10-19
   uploaded: 2022-10-19
   youtube: 2zXqFTFJLic
-  tags: ["explainers", "education"]
+  tags:
+    - explainers
+    - education
   author: Emerald
   authorYoutube: channel/UCOL-czP85bLI9XlGilbXkyg
-- title: "What's Happening with ETC? - Bob Summerwill"
+- title: What's Happening with ETC? - Bob Summerwill
   date: 2020-03-20
   uploaded: 2020-03-20
   youtube: yWX-GZAQxYA
-  tags: ["conferences"]
+  tags:
+    - conferences
   author: ETH Denver
   authorYoutube: c/ETHDenver
-- title: "ETC Community Call 029 2022-10-18"
+- title: ETC Community Call 029 2022-10-18
   date: 2022-10-18
   uploaded: 2022-10-18
   youtube: sJtNaRr5eP4
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
-- title: "ETC Community Call 028 2022-10-11"
+- title: ETC Community Call 028 2022-10-11
   date: 2022-10-11
   uploaded: 2022-10-11
   youtube: zvL9hu46kZQ
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
-- title: "What Is WETC?"
+- title: What Is WETC?
   date: 2022-10-08
   uploaded: 2022-10-08
   youtube: xJtqXMBz0UA
-  tags: ["education"]
+  tags:
+    - education
   author: Emerald
   authorYoutube: channel/UCOL-czP85bLI9XlGilbXkyg
-- title: "ETC Community Call 027 2022.10.04"
+- title: ETC Community Call 027 2022.10.04
   date: 2022-10-04
   uploaded: 2022-10-04
   youtube: NBJyNWahfEI
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
-- title: "ETC Community Call 026 2022.09.27"
+- title: ETC Community Call 026 2022.09.27
   date: 2022-08-03
   uploaded: 2022-08-03
   youtube: fuDIwsaFBPs
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
-- title: "ETC Community Call 025 2022.07.05"
+- title: ETC Community Call 025 2022.07.05
   date: 2022-07-05
   uploaded: 2022-07-05
   youtube: O6pGuZo1FGc
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
-- title: "ETC Community Call 024 2022.06.28"
+- title: ETC Community Call 024 2022.06.28
   date: 2022-06-28
   uploaded: 2022-06-28
   youtube: ycStZqlXEgQ
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
-- title: "Ethereum Classic Twitter Account Turns Into Ergo"
+- title: Ethereum Classic Twitter Account Turns Into Ergo
   date: 2022-10-10
   uploaded: 2022-10-10
   youtube: zl-KPeS-Owk
-  tags: ["other"]
+  tags:
+    - other
   author: Son of a Tech
   authorYoutube: channel/UC0WNX0de8I1fgKUrjxiPaRA
-- title: "Twitter battle ensues after Charles Hoskinson gives Ethereum Classic's Twitter account to Ergo"
+- title: Twitter battle ensues after Charles Hoskinson gives Ethereum Classic's Twitter account to Ergo
   date: 2022-10-07
   uploaded: 2022-10-07
   youtube: zT_WCQEF1JE
-  tags: ["other"]
+  tags:
+    - other
   author: MineSum10
   authorYoutube: channel/UCS-OYnmtzCYXXB7DiVGf7-g
-- title: "ETHEREUM CLASSIC Profits Are Looking GOOD!!!"
+- title: ETHEREUM CLASSIC Profits Are Looking GOOD!!!
   date: 2022-08-31
   uploaded: 2022-08-31
   youtube: _QODsQJS5zA
-  tags: ["education", "mining"]
+  tags:
+    - education
+    - mining
   author: Rabid Mining
   authorYoutube: channel/UCR4HApCTYNfOuZ0nIENAqPg
-- title: "YouTuber TechLead discusses his Ethereum Classic strategy"
+- title: YouTuber TechLead discusses his Ethereum Classic strategy
   date: 2022-08-20
   uploaded: 2022-08-20
   youtube: nyaBsK3PaC0
-  tags: ["education", "trading"]
+  tags:
+    - education
+    - trading
   author: TechLead
   authorYoutube: channel/UC4xKdmAXFh4ACyhpiQ_3qBw
 - title: "EthCC5 Talk: Vitalik Buterin endorses Ethereum Classic (35 min timestamp)"
   date: 2022-07-22
   uploaded: 2022-07-22
   youtube: kGjFTzRTH3Q
-  tags: ["education", "mining"]
+  tags:
+    - education
+    - mining
   author: Grand Amphi Theatre
   authorYoutube: channel/UC_kOxlaYNOTtNwtwySZ0B8w
-- title: "Aftermath of the Great Ethereum Hashrate Migration"
+- title: Aftermath of the Great Ethereum Hashrate Migration
   date: 2022-05-16
   uploaded: 2022-05-16
   youtube: gegvMBwTaMg
-  tags: ["mining"]
+  tags:
+    - mining
   author: Red Panda Mining
   authorYoutube: channel/UCAGsnTCpw7pvhR4RAlEQGzg
-- title: "The Great Ethereum Hashrate Migration Results?"
+- title: The Great Ethereum Hashrate Migration Results?
   date: 2022-05-14
   uploaded: 2022-05-14
   youtube: 8_-xIgf_oIM
-  tags: ["mining"]
+  tags:
+    - mining
   author: Son of a Tech
   authorYoutube: channel/UC0WNX0de8I1fgKUrjxiPaRA
-- title: "How to JOIN The Great Ethereum Hashrate MIGRATION!"
+- title: How to JOIN The Great Ethereum Hashrate MIGRATION!
   date: 2022-05-12
   uploaded: 2022-05-12
   youtube: 8iM8y89t8GQ
-  tags: ["mining"]
+  tags:
+    - mining
   author: Red Panda Mining
   authorYoutube: channel/UCAGsnTCpw7pvhR4RAlEQGzg
-- title: "Ethereum Difficulty Bomb Not Delayed"
+- title: Ethereum Difficulty Bomb Not Delayed
   date: 2022-05-05
   uploaded: 2022-05-05
   youtube: 1k4Sk2LWSZE
-  tags: ["mining"]
+  tags:
+    - mining
   author: Son of a Tech
   authorYoutube: channel/UC0WNX0de8I1fgKUrjxiPaRA
-- title: "The Great Ehtereum Hashrate Migration"
+- title: The Great Ehtereum Hashrate Migration
   date: 2022-05-04
   uploaded: 2022-05-04
   youtube: aWTfCVpubcQ
-  tags: ["mining"]
+  tags:
+    - mining
   author: Son of a Tech
   authorYoutube: channel/UC0WNX0de8I1fgKUrjxiPaRA
 - title: "ETCCC023: 2021 Retrospective, 2022 Budget and Roadmap"
   date: 2022-05-03
   uploaded: 2022-05-03
   youtube: KMCprPEzEv0
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
-- title: "Ethereum Classic Fifthening AFTERMATH"
+- title: Ethereum Classic Fifthening AFTERMATH
   date: 2022-04-29
   uploaded: 2022-04-29
   youtube: IJfZk213kws
-  tags: ["mining"]
+  tags:
+    - mining
   author: Red Panda Mining
   authorYoutube: channel/UCAGsnTCpw7pvhR4RAlEQGzg
 - title: "ETCCC021: Funding Discussion, Open Develop via ETC DAO Progressing, ETC DeFi Stack on Horizon, Mining Pools Funding Clients"
   date: 2022-04-12
   uploaded: 2022-04-12
   youtube: J1bJqafKtXI
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETCCC020: April Fools, Vitalik Defends BTC Maximalism"
   date: 2022-04-05
   uploaded: 2022-04-05
   youtube: DyDAMD0Zg6U
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
-# - title: "Why Ethereum Classic Might Be The Best Investment In Crypto (Sleeping Giant)"
-#   date: 2022-03-30
-#   uploaded: 2022-03-30
-#   youtube: FeXXk__bH6c
-#   tags: ["explainers"]
-#   author: Nick Of Jupiter
-#   authorYoutube: channel/UCCnTOrkCE5alR2RYFVNdrjg
 - title: "ETCCC019: Price Rises, Mainstream Articles, Mining Deep Dive"
   date: 2022-03-29
   uploaded: 2022-03-29
   youtube: iW00VZNhkjY
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETCCC018: The Fithening, Fixed Supply and Protocol Complexity"
   date: 2022-03-22
   uploaded: 2022-03-22
   youtube: zMdr7GpZI9s
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETCCC017: Proof of Stake Discussion and Community Updates"
   date: 2022-03-15
   uploaded: 2022-03-15
   youtube: Gbaa9TLXW9Y
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETCCC016: Principles and Philosophy with Donald McIntyre"
   date: 2022-03-08
   uploaded: 2022-03-08
   youtube: PQG0kD_67No
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "Etherplan Blockchain Course Part 2: Categorization and Use Cases"
@@ -798,34 +907,39 @@
   uploaded: 2022-03-02
   author: Donald McIntyre
   authorYoutube: c/Etherplan
-  tags: ["explainers"]
+  tags:
+    - explainers
   youtube: 53A7MNTbkmg
 - title: "ETCCC015: Reaching Rough Consensus"
   date: 2022-03-01
   uploaded: 2022-03-01
   youtube: llM1So2jB5k
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
-- title: "What is Ethereum Classic (ETC) - Explained"
+- title: What is Ethereum Classic (ETC) - Explained
   date: 2019-12-23
   uploaded: 2019-12-23
   author: Atlas
   authorYoutube: channel/UCQuW4GoxxR9-GH3oW3BrpZw
-  tags: ["explainers"]
+  tags:
+    - explainers
   youtube: RaD0x33PP0I
 - title: "Etherplan Blockchain Course Part 1: History"
   date: 2022-02-28
   uploaded: 2022-02-28
   author: Donald McIntyre
   authorYoutube: c/Etherplan
-  tags: ["explainers"]
+  tags:
+    - explainers
   youtube: rbIm7vIApWo
 - title: "ETCCC014: Dev Call 22, DAO Hacker Unmasked, New Website, Conference Plans"
   date: 2022-02-22
   uploaded: 2022-02-22
   youtube: UD7t7qMNoyk
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETC Core Devs Call 22: Proposed Rejection of ECIP-1049"
@@ -833,472 +947,503 @@
   uploaded: 2022-02-21
   author: Ethereum Classic Trade Signals
   authorYoutube: channel/UCRlAmF--BxLB0WabI0DjUxw
-  tags: ["discussions"]
+  tags:
+    - discussions
   youtube: lpdZgsAbPXo
-- title: "Ethereum Classic is a Sleeping Giant"
+- title: Ethereum Classic is a Sleeping Giant
   date: 2022-02-20
   uploaded: 2022-02-20
   author: Son of a Tech
   authorYoutube: channel/UC0WNX0de8I1fgKUrjxiPaRA
-  tags: ["trading"]
+  tags:
+    - trading
   youtube: 7eopeJfin84
 - title: "ETCCC013: The SHA3 Debate Continues, Hybrid PoW"
   date: 2022-02-15
   uploaded: 2022-02-15
   youtube: HQ9IKu3PVkA
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
-- title: "ETHEREUM CLASSIC MYSTIQUE UPGRADE ! | ECOSYSTEM UPDATE!"
+- title: ETHEREUM CLASSIC MYSTIQUE UPGRADE ! | ECOSYSTEM UPDATE!
   date: 2022-02-12
   uploaded: 2022-02-12
   author: Savage Profits
   youtube: btlFEYm2AsQ
-  tags: ["explainers"]
+  tags:
+    - explainers
   authorYoutube: channel/UCn-FM8TsJ0c8kFXYZEI0jmA
 - title: "ETCCC012: Q&A with Afri, ETCDAO Gigs, Uncle Rate"
   date: 2022-02-08
   uploaded: 2022-02-08
   youtube: GCBv1VCN2tE
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETCCC011: SHA3 Next Steps, ETCDAO Rising"
   date: 2022-02-01
   uploaded: 2022-02-01
   youtube: ad_grFagA5k
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETCCC010: DAO Approaches, Obelus, The SHA3 Debate Continues..."
   date: 2022-01-25
   uploaded: 2022-01-25
   youtube: 6DRZEaKkpb4
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETCCC009: Q&A with Code Burns: Multisig Fund"
   date: 2022-01-18
   uploaded: 2022-01-18
   youtube: GlRpBhsN7Ck
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETCCC008: The Merge Opportunities, SHA3, Mystique Merged, Soteria"
   date: 2022-01-11
   uploaded: 2022-01-11
   youtube: Kirnjy04PkY
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETCCC007: Hebe, App Audits, Mutisig Test, Call Access, Website"
   date: 2022-01-04
   uploaded: 2022-01-04
   youtube: qnfoGh6UZyM
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETCCC006: Development Tiers, Roadmap, Erigon, Corporates, SHA3"
   date: 2021-12-28
   uploaded: 2021-12-28
   youtube: hLeaPLoTYOE
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "ETCCC005: Q&A With Bob Summewill (Edit)"
   date: 2021-12-21
   uploaded: 2021-12-21
   youtube: HaDANZN-ZUU
-  tags: ["discussions"]
+  tags:
+    - discussions
   author: ETC Community Calls
   authorYoutube: channel/UCp07VPnC1ejyAp5gMvvA4dw
 - title: "Ethereum vs Ethereum Classic: What is the difference?"
   author: Ameer Rosic
   authorYoutube: channel/UCaPSoa3hoxgouMd8YdlUwXQ
-  tags: ["explainers"]
+  tags:
+    - explainers
   youtube: 7lwKClbkXYI
   date: 2017-04-06
   uploaded: 2017-04-06
-- title: "Dual Mine ETH/ETC With ZIL - Boost Your 3GB/4GB GPU Profits!"
+- title: Dual Mine ETH/ETC With ZIL - Boost Your 3GB/4GB GPU Profits!
   author: Mining Chamber
   authorYoutube: channel/UC1dH33m7DoQxS4cSZ4Vs5hg
-  tags: ["mining"]
+  tags:
+    - mining
   youtube: 83KU1AE2kN0
   date: 2021-02-12
   uploaded: 2021-02-12
-- title: "Ethereum Classic ETC will soon be $7000! Here is is why."
+- title: Ethereum Classic ETC will soon be $7000! Here is is why.
   author: Patient Money
   authorYoutube: channel/UCwYQN0KEjNspygAR9YstzYg
-  tags: ["trading"]
+  tags:
+    - trading
   youtube: RYwsVBVN6Ss
   date: 2021-02-14
   uploaded: 2021-02-14
-- title: "What to Mine on 4GB Cards? Ravencoin or Ethereum Classic"
+- title: What to Mine on 4GB Cards? Ravencoin or Ethereum Classic
   author: The Hobbyist Miner
   authorYoutube: channel/UCX_MdaGkjJwY8vGvytybE7w
-  tags: ["mining"]
+  tags:
+    - mining
   youtube: XOrygRkdiFk
   date: 2021-03-23
   uploaded: 2021-03-23
-- title: "Ethereum, Ethereum Classic and Callisto Network, a Common History."
+- title: Ethereum, Ethereum Classic and Callisto Network, a Common History.
   author: Callisto Network
-  tags: ["development"]
+  tags:
+    - development
   authorYoutube: channel/UC1WMae32v_eJ8qOtLQqM26Q
   youtube: 9Njsudrh51k
   date: 2021-07-16
   uploaded: 2021-07-16
 - title: "Ethereum Classic Cryptocurrency (ETC) : The Crypto No One Is Talking About!"
   author: Mike Tha Investor
-  tags: ["trading"]
+  tags:
+    - trading
   authorYoutube: channel/UCFP_z9W12Ex9lCw8Zqu04fA
   youtube: MhxufctkaZ4
   date: 2021-01-10
   uploaded: 2021-01-10
-- title: "How To Mine Ethereum Classic ETC On Windows"
+- title: How To Mine Ethereum Classic ETC On Windows
   author: IMineBlocks
-  tags: ["mining"]
+  tags:
+    - mining
   authorYoutube: channel/UCjYHcWGAjUVqU49D2JOKD3w
   youtube: jgfsIxAiiHY
   date: 2017-01-26
   uploaded: 2017-01-26
-- title: "$500 Ethereum Classic Mining Rig Budget Build"
+- title: $500 Ethereum Classic Mining Rig Budget Build
   author: The Hobbyist Miner
   authorYoutube: channel/UCX_MdaGkjJwY8vGvytybE7w
-  tags: ["mining"]
+  tags:
+    - mining
   youtube: FPcTBiToIcU
   date: 2021-05-31
   uploaded: 2021-05-31
-- title: "Ethereum Classic HUGE BUY Opportunity + ETC Price Prediction 2021"
+- title: Ethereum Classic HUGE BUY Opportunity + ETC Price Prediction 2021
   author: The Right Trader
   authorYoutube: channel/UCkpMhY4N4ZjpqKMIjzLplKw
-  tags: ["trading"]
+  tags:
+    - trading
   youtube: kN87dsPVrHE
   date: 2021-02-11
   uploaded: 2021-02-11
-- title: "I Mined Ethereum Classic for 48hrs!"
+- title: I Mined Ethereum Classic for 48hrs!
   author: Son of a Tech
   authorYoutube: channel/UC0WNX0de8I1fgKUrjxiPaRA
-  tags: ["mining"]
+  tags:
+    - mining
   youtube: 6FyM5iU1k5A
   date: 2021-05-09
   uploaded: 2021-05-09
-- title: "What is Ethereum Classic? - ETC Beginners Guide"
+- title: What is Ethereum Classic? - ETC Beginners Guide
   author: UnbankedHQ
   authorYoutube: channel/UCqNyT4SjTzsJ1FF2dpUI_TA
-  tags: ["explainers"]
+  tags:
+    - explainers
   youtube: F1zn2Ynw9xw
   date: 2020-08-12
   uploaded: 2020-08-12
-- title: "Should You Buy Ethereum Classic? (Store of Value)"
+- title: Should You Buy Ethereum Classic? (Store of Value)
   author: Mike Tha Investor
-  tags: ["trading"]
+  tags:
+    - trading
   authorYoutube: channel/UCFP_z9W12Ex9lCw8Zqu04fA
   youtube: HmLZueCu3fY
   date: 2021-04-21
   uploaded: 2021-04-21
-- title: "Should You Buy Ethereum Classic? (Store of Value)"
+- title: Should You Buy Ethereum Classic? (Store of Value)
   author: Mike Tha Investor
   authorYoutube: channel/UCFP_z9W12Ex9lCw8Zqu04fA
-  tags: ["trading"]
+  tags:
+    - trading
   youtube: HmLZueCu3fY
   date: 2021-04-21
   uploaded: 2021-04-21
-- title: "Ethereum Classic ETC and Dogecoin Live... price targets"
+- title: Ethereum Classic ETC and Dogecoin Live... price targets
   author: Patient Money
   authorYoutube: channel/UCwYQN0KEjNspygAR9YstzYg
   youtube: VghT_3h3As0
-  tags: ["trading"]
+  tags:
+    - trading
   date: 2021-05-07
   uploaded: 2021-05-07
-- title: "How to Mine Ethereum Classic - ETC Mining Pool Setup"
+- title: How to Mine Ethereum Classic - ETC Mining Pool Setup
   author: 2Miners
   authorYoutube: channel/UCFdwTGZwcW90lFLRwnQtEfw
   youtube: XAoz2voThOM
-  tags: ["mining"]
+  tags:
+    - mining
   date: 2019-07-02
   uploaded: 2019-07-02
-- title: "ETHEREUM CLASSIC CAN NOW HIT $1000! | DON'T SELL HERES WHY!"
+- title: ETHEREUM CLASSIC CAN NOW HIT $1000! | DON'T SELL HERES WHY!
   author: Savage Profits
-  tags: ["trading"]
+  tags:
+    - trading
   authorYoutube: channel/UCn-FM8TsJ0c8kFXYZEI0jmA
   youtube: KtsNpKS0LgM
   date: 2021-05-05
   uploaded: 2021-05-05
 - title: "Ethereum Classic: Warning To Investors! ⚠️"
   author: Investing Made Simple - Nathan Sloan
-  tags: ["trading"]
+  tags:
+    - trading
   authorYoutube: channel/UCz4XY6NPKaMUWNWMONTw3NQ
   youtube: 3UScMusGq8o
   date: 2021-08-26
   uploaded: 2021-08-26
-- title: "Live Stream! Amazon / XRP, Ethereum Classic 51% Attack, TRON Price Rise"
+- title: Live Stream! Amazon / XRP, Ethereum Classic 51% Attack, TRON Price Rise
   author: The Modern Investor
-  tags: ["trading"]
+  tags:
+    - trading
   authorYoutube: channel/UC-5HLi3buMzdxjdTdic3Aig
   youtube: 5UqfYIiAPDc
   date: 2019-01-08
   uploaded: 2019-01-08
-- title: "EMERGENCY VIDEO!!! - Ethereum Classic ETC Analysis And Price Prediction."
+- title: EMERGENCY VIDEO!!! - Ethereum Classic ETC Analysis And Price Prediction.
   author: The Late Adopter
-  tags: ["trading"]
+  tags:
+    - trading
   authorYoutube: channel/UC2qjX8VEP5cgIimnm43hrjA
   youtube: Mz9DjGSczxw
   date: 2021-05-07
   uploaded: 2021-05-07
-- title: "Ethereum vs Ethereum Classic (Why Did They Split)"
+- title: Ethereum vs Ethereum Classic (Why Did They Split)
   author: Aimstone
   authorYoutube: channel/UC7S9sRXUBrtF0nKTvLY3fwg
-  tags: ["explainers"]
+  tags:
+    - explainers
   youtube: IOuEgLKqqjE
   date: 2018-06-12
   uploaded: 2018-06-12
-- title: "Ethereum Classic | ETC"
+- title: Ethereum Classic | ETC
   author: Son of a Tech
-  tags: ["explainers"]
+  tags:
+    - explainers
   authorYoutube: channel/UC0WNX0de8I1fgKUrjxiPaRA
   youtube: IBW0JtIGem8
   date: 2021-05-08
   uploaded: 2021-05-08
-#  404
-# - title: "ETHEREUM CLASSIC Price Prediction 2021!!!!! ETC Cryptocurrency - Ethereum Classic Coin - Crypto News"
-#   author: Mind Math Money
-#   authorYoutube: channel/UCTdlDD6JgJeplt4axozFmSQ
-#   tags: ["trading"]
-#   youtube: Tbg1ydZbotA
-#   date: 2021-05-07
-#   uploaded: 2021-05-07
-# 404
-# - title: "Easily Mine Ethereum Classic On Any Computer | How To Mine Ethereum Classic 2021 | How To Stake ETC"
-#   tags: ["mining"]
-#   author: Fractal Media
-#   authorYoutube: channel/UCUvqZ03tD5fM4nw33PrPQ-w
-#   youtube: PBSW9CILf0w
-#   date: 2021-03-13
-#   uploaded: 2021-03-13
-- title: "ETHEREUM CLASSIC IS EXPLODING!!! (BETTER THAN DOGE)"
+- title: ETHEREUM CLASSIC IS EXPLODING!!! (BETTER THAN DOGE)
   author: Michael Wrubel
-  tags: ["trading"]
+  tags:
+    - trading
   authorYoutube: channel/UClWUQqWTL6xSK2Bx1bRlKPw
   youtube: 9eZMv-QxD00
   date: 2021-05-06
   uploaded: 2021-05-06
-- title: "ETC Price Prediction 2021! Ethereum Classic Price Prediction 2021!"
+- title: ETC Price Prediction 2021! Ethereum Classic Price Prediction 2021!
   author: AJ FIVE
   authorYoutube: channel/UChhWCFiv82JByk-TSN2ENNQ
-  tags: ["trading"]
+  tags:
+    - trading
   youtube: W9eK3f6Eapw
   date: 2021-05-06
   uploaded: 2021-05-06
-- title: "ETHEREUM VS ETHEREUM CLASSIC | Which One Is Best?"
+- title: ETHEREUM VS ETHEREUM CLASSIC | Which One Is Best?
   author: Satoshi Stacker
-  tags: ["explainers"]
+  tags:
+    - explainers
   authorYoutube: channel/UCGDjpwZV-bU-sLSnhInCfKQ
   youtube: EKO6YXNqoMw
   date: 2021-05-08
   uploaded: 2021-05-08
-- title: "Ethereum Classic ETC and Doge watch. Doge on SNL?"
+- title: Ethereum Classic ETC and Doge watch. Doge on SNL?
   author: Patient Money
-  tags: ["trading"]
+  tags:
+    - trading
   authorYoutube: channel/UCwYQN0KEjNspygAR9YstzYg
   youtube: jtBtMc1q1x8
   date: 2021-05-05
   uploaded: 2021-05-05
-- title: "ETHEREUM CLASSIC REACHED 15 BILLION MARKET CAP! | HERES WHY THIS IS IMPORTANT"
+- title: ETHEREUM CLASSIC REACHED 15 BILLION MARKET CAP! | HERES WHY THIS IS IMPORTANT
   author: Savage Profits
-  tags: ["trading"]
+  tags:
+    - trading
   authorYoutube: channel/UCn-FM8TsJ0c8kFXYZEI0jmA
   youtube: 0WTghta8Ig8
   date: 2021-05-05
   uploaded: 2021-05-05
 - title: "COINS TO WATCH: Interesting Development With Ripple, Litecoin, Cardano, Ethereum Classic, & BAT! 👍"
   author: Altcoin Daily
-  tags: ["trading"]
+  tags:
+    - trading
   authorYoutube: channel/UCbLhGKVY-bJPcawebgtNfbw
   youtube: I0lWK0yNmuU
   date: 2020-01-26
   uploaded: 2020-01-26
-- title: "CRYPTO & BITCOIN NEWS! DOGECOIN 303X, WHEN $1? | Ethereum Classic To $200? | PROPERTY PRICES BOOM!"
+- title: CRYPTO & BITCOIN NEWS! DOGECOIN 303X, WHEN $1? | Ethereum Classic To $200? | PROPERTY PRICES BOOM!
   author: Jason Pizzino
   authorYoutube: channel/UCIb34uXDsfTq4PJKW0eztkA
-  tags: ["trading"]
+  tags:
+    - trading
   youtube: eVDukHR3Sy8
   date: 2021-05-07
   uploaded: 2021-05-07
 - title: "Ethereum Classic vs Ethereum 2 0 : What's The Difference?"
   author: Mike Tha Investor
-  tags: ["explainers"]
+  tags:
+    - explainers
   authorYoutube: channel/UCFP_z9W12Ex9lCw8Zqu04fA
   youtube: UZHkf69ZLt4
   date: 2021-01-24
   uploaded: 2021-01-24
-- title: "Ethereum Classic Shut Down, Ethereum To $1 And DASH Instant Transactions"
+- title: Ethereum Classic Shut Down, Ethereum To $1 And DASH Instant Transactions
   author: The Modern Investor
   authorYoutube: channel/UC-5HLi3buMzdxjdTdic3Aig
-  tags: ["trading"]
+  tags:
+    - trading
   youtube: UCFYMbbOxKQ
   date: 2018-12-04
   uploaded: 2018-12-04
 - title: "🔴LIVE: Ethereum Classic Exploding! What you must know!"
   author: Dapp University
   authorYoutube: channel/UCY0xL8V6NzzFcwzHCgB8orQ
-  tags: ["trading"]
+  tags:
+    - trading
   youtube: mEREXjUG2m4
   date: 2021-05-05
   uploaded: 2021-05-05
-- title: "RX 470 HashRates Mining RavenCoin & Ethereum Classic"
+- title: RX 470 HashRates Mining RavenCoin & Ethereum Classic
   author: The Hobbyist Miner
   authorYoutube: channel/UCX_MdaGkjJwY8vGvytybE7w
-  tags: ["mining"]
+  tags:
+    - mining
   youtube: 4kMqMb4pklo
   date: 2021-03-05
   uploaded: 2021-03-05
-- title: "WHY ETHEREUM CLASSIC IS DROPPING! | PORTFOLIO REVEALS"
+- title: WHY ETHEREUM CLASSIC IS DROPPING! | PORTFOLIO REVEALS
   author: Savage Profits
   authorYoutube: channel/UCn-FM8TsJ0c8kFXYZEI0jmA
-  tags: ["trading"]
+  tags:
+    - trading
   youtube: aC_3E8WbMf8
   date: 2021-05-05
   uploaded: 2021-05-05
-- title: "ETHEREUM CLASSIC WILL EXPLODE! ETC Price Prediction 2021 - WHY ETC WILL PUMP MORE?"
+- title: ETHEREUM CLASSIC WILL EXPLODE! ETC Price Prediction 2021 - WHY ETC WILL PUMP MORE?
   author: Finpact
   authorYoutube: channel/UCOVbQfSl8fhfowYdIJfe6ZA
-  tags: ["trading"]
+  tags:
+    - trading
   youtube: JdYK_grPVZc
   date: 2021-05-11
   uploaded: 2021-05-11
-- title: "The Truth About Ethereum Classic..."
+- title: The Truth About Ethereum Classic...
   author: The Bitcoin Express
   authorYoutube: channel/UCEjgpiDPhTErrJm6zeNeAAw
-  tags: ["explainers"]
+  tags:
+    - explainers
   youtube: 6myrEGieUPY
   date: 2021-05-08
   uploaded: 2021-05-08
-- title: "Ethereum Classic Price Prediction to $500 (Buy ETC Now, Don't Miss Out!)"
+- title: Ethereum Classic Price Prediction to $500 (Buy ETC Now, Don't Miss Out!)
   author: The Right Trader
   authorYoutube: channel/UCkpMhY4N4ZjpqKMIjzLplKw
-  tags: ["trading"]
+  tags:
+    - trading
   youtube: IAXA5VU2bZU
   date: 2021-05-14
   uploaded: 2021-05-14
-- title: "HOW TO PLAY ETHEREUM CLASSIC | VERY IMPORTANT INFO!!"
+- title: HOW TO PLAY ETHEREUM CLASSIC | VERY IMPORTANT INFO!!
   author: Savage Profits
   authorYoutube: channel/UCn-FM8TsJ0c8kFXYZEI0jmA
-  tags: ["trading"]
+  tags:
+    - trading
   youtube: KoIO5WWZ_Sg
   date: 2021-05-05
   uploaded: 2021-05-05
 - title: "ETC Bull Run?! | Ethereum Classic Price Prediction Today | NEWS & Market Analysis | April 2021 "
   author: Mango Research
   authorYoutube: channel/UCy5liYXdiF2toahFF7W3fEQ
-  tags: ["trading"]
+  tags:
+    - trading
   youtube: 86ZOQrTRtF0
   date: 2021-04-16
   uploaded: 2021-04-16
-- title: "Soft Fork vs Hard Fork in Crypto (ETH Classic, Litecoin, BTC Cash...)"
+- title: Soft Fork vs Hard Fork in Crypto (ETH Classic, Litecoin, BTC Cash...)
   author: Whiteboard Crypto
   authorYoutube: channel/UCsYYksPHiGqXHPoHI-fm5sg
-  tags: ["explainers"]
+  tags:
+    - explainers
   youtube: Bu1GcyyFZ7w
   date: 2021-08-11
   uploaded: 2021-08-11
-- title: "New Ethereum Classic ETC price target and history."
+- title: New Ethereum Classic ETC price target and history.
   author: Patient Money
   authorYoutube: channel/UCwYQN0KEjNspygAR9YstzYg
-  tags: ["trading"]
+  tags:
+    - trading
   youtube: AoFfEXual5s
   date: 2021-05-05
   uploaded: 2021-05-05
-- title: "Minergate fix for Ethereum/classic (unknown error)"
+- title: Minergate fix for Ethereum/classic (unknown error)
   author: BTCMad
   authorYoutube: channel/UCt4dMhyr2aHYCCu4vlt8B2Q
-  tags: ["mining"]
+  tags:
+    - mining
   youtube: 8tAjywzu7mw
   date: 2017-04-05
   uploaded: 2017-04-05
-# 404
-# - title: "Ethereum Classic (ETC) Cryptocurrency Review"
-#   author: Louis Thomas
-#   tags: ["explainers"]
-#   authorYoutube: channel/UCpceefaJ9vs4RYUTsO9Y3FA
-#   youtube: VVaVPp-05tc
-#   date: 2017-08-08
-#   uploaded: 2017-08-08
 - title: "Ethereum Classic: Complete Review of ETC"
   author: Coin Bureau
   authorYoutube: channel/UCqK_GSMbpiV8spgD3ZGloSw
-  tags: ["explainers"]
+  tags:
+    - explainers
   youtube: xcenZlBdmzM
   date: 2019-11-12
   uploaded: 2019-11-12
-- title: "MSI GTX 1650 super Ethereum Classic (ETC) Hashrate"
+- title: MSI GTX 1650 super Ethereum Classic (ETC) Hashrate
   author: jtravaglini
   authorYoutube: channel/UCWZblQkb3VJqsSdzJDQQVqw
-  tags: ["mining"]
+  tags:
+    - mining
   youtube: ZPGz-XwqGgU
   date: 2020-12-09
   uploaded: 2020-12-09
 - title: "Ethereum Classic - Mantis: IOHK Development Update - April 2021"
   author: IOHK
   authorYoutube: channel/UCBJ0p9aCW-W82TwNM-z3V2w
-  tags: ["development"]
+  tags:
+    - development
   youtube: Cnhle3zmbpY
   date: 2021-04-22
   uploaded: 2021-04-22
-- title: "Goldman Sachs Crypto Custody, Ethereum Classic Price Jump And Watch Where You Put Your Money"
+- title: Goldman Sachs Crypto Custody, Ethereum Classic Price Jump And Watch Where You Put Your Money
   author: The Modern Investor
   authorYoutube: channel/UC-5HLi3buMzdxjdTdic3Aig
-  tags: ["trading"]
+  tags:
+    - trading
   youtube: Kxa9d3yE0qs
   date: 2018-08-07
   uploaded: 2018-08-07
-#  404
-# - title: "Ethereum Civil War 💣 Ethereum Cash vs Ethereum Gold vs Ethereum Classic"
-#   author: David Hay
-#   authorYoutube: channel/UCw6fLrKYh0IelO6OJuF2Jiw
-#   tags: ["explainers"]
-#   youtube: JOgUyu25K08
-#   date: 2017-10-19
-#   uploaded: 2017-10-19
 - title: "The DAO Hack: The Story of Ethereum Classic"
   author: Junion
   authorYoutube: channel/UCH-dH9smpH1IMccMe75pwbQ
   youtube: rNeLuBOVe8A
-  tags: ["explainers"]
+  tags:
+    - explainers
   featured: true
   date: 2021-07-01
   uploaded: 2021-07-01
-- title: "RTX 3080TI Ethereum Classic Hashrate Predictions"
+- title: RTX 3080TI Ethereum Classic Hashrate Predictions
   author: Son of a Tech
   authorYoutube: channel/UC0WNX0de8I1fgKUrjxiPaRA
   youtube: 0C24kQ8Das8
   date: 2021-05-07
   uploaded: 2021-05-07
-  tags: ["mining"]
-- title: "How To Create Ethereum Classic Wallet Address and Send / Receive ETC"
+  tags:
+    - mining
+- title: How To Create Ethereum Classic Wallet Address and Send / Receive ETC
   author: IMineBlocks
   authorYoutube: channel/UCjYHcWGAjUVqU49D2JOKD3w
   youtube: VU-QO5cLFPE
-  tags: ["tutorials"]
+  tags:
+    - tutorials
   date: 2017-06-22
   uploaded: 2017-06-22
-- title: "ETC Top Bullish Altcoin | Ethereum Classic Price Prediction | NEWS & Price Analysis | May 2021 🏮"
+- title: ETC Top Bullish Altcoin | Ethereum Classic Price Prediction | NEWS & Price Analysis | May 2021 🏮
   author: Mango Research
   authorYoutube: channel/UCy5liYXdiF2toahFF7W3fEQ
   youtube: WWCW2iEQSDY
-  tags: ["trading"]
+  tags:
+    - trading
   date: 2021-05-04
   uploaded: 2021-05-04
-- title: "R9 380 4GB Ethereum Classic Mining Rig Build"
+- title: R9 380 4GB Ethereum Classic Mining Rig Build
   author: The Hobbyist Miner
   authorYoutube: channel/UCX_MdaGkjJwY8vGvytybE7w
   youtube: PJWvsqdzOsw
-  tags: ["mining"]
+  tags:
+    - mining
   date: 2021-07-07
   uploaded: 2021-07-07
-- title: "We Hit The Top But This Isn't The End - Ethereum Classic ETC Analysis And Price Prediction."
+- title: We Hit The Top But This Isn't The End - Ethereum Classic ETC Analysis And Price Prediction.
   author: The Late Adopter
   authorYoutube: channel/UC2qjX8VEP5cgIimnm43hrjA
-  tags: ["trading"]
+  tags:
+    - trading
   youtube: IJDdl1QYL8s
   date: 2021-05-08
   uploaded: 2021-05-08
@@ -1306,40 +1451,46 @@
   author: IOHK
   authorYoutube: channel/UCBJ0p9aCW-W82TwNM-z3V2w
   youtube: wUjtRvj83SI
-  tags: ["development"]
+  tags:
+    - development
   date: 2021-03-15
   uploaded: 2021-03-15
-- title: "p106 90 3gb mining rig mining ethereum classic ETC"
+- title: p106 90 3gb mining rig mining ethereum classic ETC
   author: jtravaglini
   authorYoutube: channel/UCWZblQkb3VJqsSdzJDQQVqw
   youtube: 4eTUDikXztY
-  tags: ["mining"]
+  tags:
+    - mining
   date: 2020-12-01
   uploaded: 2020-12-01
-- title: "IOHK | Ethereum Classic Summit - Charles Hoskinson Keynote"
+- title: IOHK | Ethereum Classic Summit - Charles Hoskinson Keynote
   author: IOHK
   authorYoutube: channel/UCBJ0p9aCW-W82TwNM-z3V2w
   youtube: ZPlP4YChZC0
-  tags: ["explainers"]
+  tags:
+    - explainers
   date: 2018-10-15
   uploaded: 2018-10-15
-- title: "Ethereum Classic Flip Bitcoin? ETC Classic Price Prediction & News Analysis Update"
+- title: Ethereum Classic Flip Bitcoin? ETC Classic Price Prediction & News Analysis Update
   author: Dabolt
   authorYoutube: channel/UCm4NRubG29ZjnGg9JhGI_sg
-  tags: ["trading"]
+  tags:
+    - trading
   youtube: wk_EgWb_tII
   date: 2021-05-06
   uploaded: 2021-05-06
-- title: "When Will The Bleeding End? - Ethereum Classic ETC Analysis And Price Prediction."
+- title: When Will The Bleeding End? - Ethereum Classic ETC Analysis And Price Prediction.
   author: The Late Adopter
   authorYoutube: channel/UC2qjX8VEP5cgIimnm43hrjA
   youtube: 1qxKH1m7vE8
-  tags: ["trading"]
+  tags:
+    - trading
   date: 2021-05-09
   uploaded: 2021-05-09
-- title: "Ethereum Classic ETC market commentary October 27th 2021 - It is going to $200 and then $1,000."
+- title: Ethereum Classic ETC market commentary October 27th 2021 - It is going to $200 and then $1,000.
   author: Etherplan
-  tags: ["trading"]
+  tags:
+    - trading
   authorYoutube: c/Etherplan
   youtube: OwUhudI0vmA
   date: 2021-10-27
@@ -1348,7 +1499,8 @@
   date: 2021-05-15
   uploaded: 2021-05-15
   youtube: 5_WGgiumARc
-  tags: ["explainers"]
+  tags:
+    - explainers
   author: Coin Bureau
   authorYoutube: channel/UCqK_GSMbpiV8spgD3ZGloSw
   featured: true
@@ -1356,7 +1508,9 @@
   date: 2021-08-26
   uploaded: 2021-08-26
   youtube: V-4beZtUalo
-  tags: ["discussions", "trading"]
+  tags:
+    - discussions
+    - trading
   description: Ethereum Classic Today? Donald McIntyre Talks ETC Future and more.
   author: Mike Tha Investor
   authorYoutube: channel/UCFP_z9W12Ex9lCw8Zqu04fA
@@ -1364,486 +1518,622 @@
   date: 2021-09-11
   uploaded: 2021-09-11
   youtube: dmLKnnzqmVU
-  tags: ["explainers"]
-  description: "Ethereum Classic is the original unchanged Ethereum blockchain, without The DAO’s hacked funds given back to them."
+  tags:
+    - explainers
+  description: Ethereum Classic is the original unchanged Ethereum blockchain, without The DAO’s hacked funds given back to them.
   author: Whiteboard Crypto
   authorYoutube: channel/UCsYYksPHiGqXHPoHI-fm5sg
 - title: What makes Ethereum Classic valuable? Why should you HODL?
   date: 2017-01-10
   uploaded: 2017-01-10
   youtube: ZS9mICog9cU
-  tags: ["trading"]
-  description: "In This Video I go through a look into ethereum classic and explain what makes it valuable and if you should hodl"
+  tags:
+    - trading
+  description: In This Video I go through a look into ethereum classic and explain what makes it valuable and if you should hodl
   author: Savage Profits
   authorYoutube: channel/UCn-FM8TsJ0c8kFXYZEI0jmA
-- title: "Closing Statements - Day 2"
+- title: Closing Statements - Day 2
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: qYSjHeX-E98
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Executive Director of [ETC Cooperative](https://etccooperative.org/)."
+  description: Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Executive Director of [ETC Cooperative](https://etccooperative.org/).
 - title: "ETC Summit 2019: Closing Keynote"
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: QgRyZ3GI9FM
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Charles Hoskinson [@IOHK_Charles](https://twitter.com/IOHK_Charles), Co-Founder/CEO of [IOHK](https://iohk.io/) and Co-Founder of the Ethereum Project."
-- title: "Redefining Governments Through Trusted Blockchain Applications"
+  description: Charles Hoskinson [@IOHK_Charles](https://twitter.com/IOHK_Charles), Co-Founder/CEO of [IOHK](https://iohk.io/) and Co-Founder of the Ethereum Project.
+- title: Redefining Governments Through Trusted Blockchain Applications
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: _Wh8LXZ_3sc
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Edilson Osorio Junior - [@eddieoz](https://twitter.com/eddieoz), Founder of [OriginalMy](https://originalmy.com/)."
+  description: Edilson Osorio Junior - [@eddieoz](https://twitter.com/eddieoz), Founder of [OriginalMy](https://originalmy.com/).
 - title: '"Capture" Was Already Always Happening: The Complexity of Power in Blockchain Ecosystems'
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: Z3QFiknPAQ8
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Chelsea Palmer [@chiselinc](https://twitter.com/chiselinc), Organizer of [DogeCon](http://www.dogecon.lol/)."
+  description: Chelsea Palmer [@chiselinc](https://twitter.com/chiselinc), Organizer of [DogeCon](http://www.dogecon.lol/).
 - title: "ETC Summit Community Panel: Chelsea Palmer, Donald McIntyre, Kevin Lord, Terry Culver, Yaz Khoury"
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: w0K53USTxXk
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Executive Director of [ETC Cooperative](https://etccooperative.org/)."
+  description: Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Executive Director of [ETC Cooperative](https://etccooperative.org/).
 - title: "ETC Summit Platform Panel: Afri Schoedon, Shane Jonas, Wei Tang, Zachary Belford, Zachary Mitton"
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: 4GQ5HAosBPs
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Yaz Khoury [@Yazanator](https://twitter.com/Yazanator), Director of Developer Relations at [ETC Cooperative](https://etccooperative.org/)."
+  description: Yaz Khoury [@Yazanator](https://twitter.com/Yazanator), Director of Developer Relations at [ETC Cooperative](https://etccooperative.org/).
 - title: "ETC Summit Mining Panel: Alex Tsankov, Nishant Sharma, Werner Almesberger, Henry Quan"
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: tCSSC24KeQA
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Executive Director of [ETC Cooperative](https://etccooperative.org/)."
-- title: "Ethereum Classic Ethash ASICs"
+  description: Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Executive Director of [ETC Cooperative](https://etccooperative.org/).
+- title: Ethereum Classic Ethash ASICs
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: ao6pDv_UvTs
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Werner Almesberger [@LinzhiCorp](https://twitter.com/LinzhiCorp), System Architect at [Linzhi](https://linzhi.io/)."
-- title: "Building Trust as a Miner or Miner-Maker"
+  description: Werner Almesberger [@LinzhiCorp](https://twitter.com/LinzhiCorp), System Architect at [Linzhi](https://linzhi.io/).
+- title: Building Trust as a Miner or Miner-Maker
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: 07Bbkzh2s8c
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Nishant Sharma [@nishantsharma87](https://twitter.com/nishantsharma87), PR and Community Relations at [Bitmain](https://www.bitmain.com/)."
+  description: Nishant Sharma [@nishantsharma87](https://twitter.com/nishantsharma87), PR and Community Relations at [Bitmain](https://www.bitmain.com/).
 - title: "ECIP-1049: Why Ethereum Classic Should Adopt SHA3 Proof of Work"
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: qgEkMlqYvuU
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Alex Tsankov [@antsankov](https://twitter.com/antsankov), Open Source Developer at [Block Reaction](https://blockreaction.nyc/)."
-- title: "Ethereum Classic's EVM LLVM Project"
+  description: Alex Tsankov [@antsankov](https://twitter.com/antsankov), Open Source Developer at [Block Reaction](https://blockreaction.nyc/).
+- title: Ethereum Classic's EVM LLVM Project
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: 11puWcx6Zf4
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Alan Li [@etc_core](https://twitter.com/etc_core), Lead Compiler Engineer at [ETC Core](https://etccore.io/)."
+  description: Alan Li [@etc_core](https://twitter.com/etc_core), Lead Compiler Engineer at [ETC Core](https://etccore.io/).
 - title: "Merging Blockchains: A Technical Perspective"
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: UhkEYWdI44w
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Wei Tang [@sorpaas](https://twitter.com/sorpaas), Core Developer at [Parity](https://www.parity.io/)."
-- title: "Is Open Source Software Immortal?"
+  description: Wei Tang [@sorpaas](https://twitter.com/sorpaas), Core Developer at [Parity](https://www.parity.io/).
+- title: Is Open Source Software Immortal?
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: OYXowtoGq2g
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Zachary Belford [@belfordz](https://twitter.com/belfordz), Co-Lead Tooling Developer at [ETC Core](https://etccore.io/)."
-- title: "A Peripheral Observer and Fan's View of Ethereum Classic"
+  description: Zachary Belford [@belfordz](https://twitter.com/belfordz), Co-Lead Tooling Developer at [ETC Core](https://etccore.io/).
+- title: A Peripheral Observer and Fan's View of Ethereum Classic
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: BwnQIlehGyw
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Sunny Aggarwal [@sunnya97](https://twitter.com/sunnya97), Researcher and Core Dev at [Tendermint](https://tendermint.com/) and [Cosmos](https://cosmos.network/)."
-- title: "Positive Sum Games Between Ethereum and Ethereum Classic"
+  description: Sunny Aggarwal [@sunnya97](https://twitter.com/sunnya97), Researcher and Core Dev at [Tendermint](https://tendermint.com/) and [Cosmos](https://cosmos.network/).
+- title: Positive Sum Games Between Ethereum and Ethereum Classic
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: BG69gdPvxH4
   featured: true
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Virgil Griffith [@virgilgr](https://twitter.com/virgilgr), Special Projects at the [Ethereum Foundation](https://ethereum.org/)."
-- title: "Thanks to Terry"
+  description: Virgil Griffith [@virgilgr](https://twitter.com/virgilgr), Special Projects at the [Ethereum Foundation](https://ethereum.org/).
+- title: Thanks to Terry
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: 7bit7p3ZqRI
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Executive Director of [ETC Cooperative](https://etccooperative.org/)."
-- title: "A New Open Source Deal for Web3"
+  description: Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Executive Director of [ETC Cooperative](https://etccooperative.org/).
+- title: A New Open Source Deal for Web3
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: t4EboVi03Yc
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Boris Mann [@bmann](https://twitter.com/bmann), Co-Founder of [FISSION](https://fission.codes/)."
-- title: "Opening Address - Day 2"
+  description: Boris Mann [@bmann](https://twitter.com/bmann), Co-Founder of [FISSION](https://fission.codes/).
+- title: Opening Address - Day 2
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: sUWrlzY_sTQ
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Executive Director of [ETC Cooperative](https://etccooperative.org/)."
-- title: "Full Day 2 - October 4th, 2019"
+  description: Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Executive Director of [ETC Cooperative](https://etccooperative.org/).
+- title: Full Day 2 - October 4th, 2019
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: TNsWR7jXllQ
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
   description: null
-- title: "Developer Relations in Ethereum Classic"
+- title: Developer Relations in Ethereum Classic
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: 4V3_u-fW7A4
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Yaz Khoury [@Yazanator](https://twitter.com/Yazanator), Director of Developer Relations at [ETC Cooperative](https://etccooperative.org/)."
-- title: "The Need for Cross Chain Collaboration"
+  description: Yaz Khoury [@Yazanator](https://twitter.com/Yazanator), Director of Developer Relations at [ETC Cooperative](https://etccooperative.org/).
+- title: The Need for Cross Chain Collaboration
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: c_ts4qw0EEc
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Aidan Hyman [@Aidan_IH](https://twitter.com/Aidan_IH), Co-Founder/CEO of [ChainSafe](https://chainsafe.io/)."
+  description: Aidan Hyman [@Aidan_IH](https://twitter.com/Aidan_IH), Co-Founder/CEO of [ChainSafe](https://chainsafe.io/).
 - title: "Fireside Chat: Improving Investor Access to Ethereum Classic"
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: 3OVswN5CjqA
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Michael Sonnenshein [@Sonnenshein](https://twitter.com/Sonnenshein), Managing Director of [Grayscale](https://grayscale.co/)."
+  description: Michael Sonnenshein [@Sonnenshein](https://twitter.com/Sonnenshein), Managing Director of [Grayscale](https://grayscale.co/).
 - title: "Metronome - First Cross-Chain Cryptocurrency: Chain Hop From ETH to ETC"
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: EQTxaWmP3zA
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Manoj Patidar [@manojpatidarr](https://twitter.com/manojpatidarr), Principal Engineer at [Bloq](https://www.bloq.com/)."
-- title: "State of the Ethereum Classic Testnets"
+  description: Manoj Patidar [@manojpatidarr](https://twitter.com/manojpatidarr), Principal Engineer at [Bloq](https://www.bloq.com/).
+- title: State of the Ethereum Classic Testnets
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: sURnZEeIqBU
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Afri Schoeden [@a4fri](https://twitter.com/a4fri), [Ethereum Classic](https://ethereumclassic.org/) Core Developer."
-- title: "Collaborative Machine Learning on Ethereum Classic"
+  description: Afri Schoeden [@a4fri](https://twitter.com/a4fri), [Ethereum Classic](https://ethereumclassic.org/) Core Developer.
+- title: Collaborative Machine Learning on Ethereum Classic
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: nuHffCjDC3Y
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Cody Burns [@dontpanicburns](https://twitter.com/dontpanicburns), Blockchain Architect for [Accenture](https://www.accenture.com/)."
+  description: Cody Burns [@dontpanicburns](https://twitter.com/dontpanicburns), Blockchain Architect for [Accenture](https://www.accenture.com/).
 - title: "POA Network: Development Tools in the ETC Ecosystem"
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: qqDhMXJHIxM
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Andrew Gross [@poanetwork](https://twitter.com/poanetwork), Technical Writer for [POA Network](https://www.poa.network/)."
+  description: Andrew Gross [@poanetwork](https://twitter.com/poanetwork), Technical Writer for [POA Network](https://www.poa.network/).
 - title: "Radical Ideals: Experiments in Sustaining Open Source Software"
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: ikkiWdsvHb0
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Scott Moore [@notscottmoore](https://twitter.com/notscottmoore), Developer Relations Lead at [Gitcoin](https://gitcoin.co/)."
-- title: "Infrastructure for Decentralizing Distributed Networks"
+  description: Scott Moore [@notscottmoore](https://twitter.com/notscottmoore), Developer Relations Lead at [Gitcoin](https://gitcoin.co/).
+- title: Infrastructure for Decentralizing Distributed Networks
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: P0dKybSjeMg
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Aaron Lowry [@Aaron_Lowry](https://twitter.com/Aaron_Lowry), Co-Founder/CEO of [Ethernode](https://ethernode.io/)."
-- title: "The Year Ahead for Ethereum Classic Labs"
+  description: Aaron Lowry [@Aaron_Lowry](https://twitter.com/Aaron_Lowry), Co-Founder/CEO of [Ethernode](https://ethernode.io/).
+- title: The Year Ahead for Ethereum Classic Labs
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: rbHbWliIx9Q
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Terry Culver [@realetclassic](https://twitter.com/realetclassic), CEO of [Ethereum Classic Labs](https://etclabs.org/) and [ETC Core](https://etccore.io/)."
+  description: Terry Culver [@realetclassic](https://twitter.com/realetclassic), CEO of [Ethereum Classic Labs](https://etclabs.org/) and [ETC Core](https://etccore.io/).
 - title: "Ethereum Classic's ECIP-1050: One Byte of Context"
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: L4IDAwoJF9c
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Brooklyn Zelenka [@expede](https://twitter.com/expede), Co-Founder/CTO of [FISSION](https://fission.codes/)."
-- title: "Adding Merkle-Mountain-Ranges and Fly-Proofs to ETC"
+  description: Brooklyn Zelenka [@expede](https://twitter.com/expede), Co-Founder/CTO of [FISSION](https://fission.codes/).
+- title: Adding Merkle-Mountain-Ranges and Fly-Proofs to ETC
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: uA1dw1qDytM
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Zac Mitton [@VoltzRoad](https://twitter.com/VoltzRoad), Open Source Software Engineer at [Voltz Road](https://voltzroad.com/)."
-- title: "Bridging the Decentralized Services Gap"
+  description: Zac Mitton [@VoltzRoad](https://twitter.com/VoltzRoad), Open Source Software Engineer at [Voltz Road](https://voltzroad.com/).
+- title: Bridging the Decentralized Services Gap
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: 0mmJ0zmWDVA
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Zane Starr [@zanecstarr](https://twitter.com/zanecstarr), Tooling Developer at [ETC Core](https://etccore.io/)."
-- title: "The Future of JSON-RPC Tooling"
+  description: Zane Starr [@zanecstarr](https://twitter.com/zanecstarr), Tooling Developer at [ETC Core](https://etccore.io/).
+- title: The Future of JSON-RPC Tooling
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: stK9-cGsGJM
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Shane Jonas [@shanejonas](https://twitter.com/shanejonas), Co-Lead Tooling Developer at [ETC Core](https://etccore.io/)."
-- title: "Atlantis Protocol Upgrade and The ETC Roadmap"
+  description: Shane Jonas [@shanejonas](https://twitter.com/shanejonas), Co-Lead Tooling Developer at [ETC Core](https://etccore.io/).
+- title: Atlantis Protocol Upgrade and The ETC Roadmap
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: q4x-7zm2eeg
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Afri Schoeden [@a4fri](https://twitter.com/a4fri), [Ethereum Classic](https://ethereumclassic.org/) Core Developer."
-- title: "Ethereum Classic Principles, Vision and Opportunity"
+  description: Afri Schoeden [@a4fri](https://twitter.com/a4fri), [Ethereum Classic](https://ethereumclassic.org/) Core Developer.
+- title: Ethereum Classic Principles, Vision and Opportunity
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: b8XlpTPD_9k
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Donald McIntyre [@MyEtherPlan](https://twitter.com/MyEtherplan), Researcher, Writer, and Podcaster [Etherplan](https://etherplan.com/)."
-- title: "The State of Ethereum Classic"
+  description: Donald McIntyre [@MyEtherPlan](https://twitter.com/MyEtherplan), Researcher, Writer, and Podcaster [Etherplan](https://etherplan.com/).
+- title: The State of Ethereum Classic
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: jS_y7J0cCDo
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Anthony Lusardi [@pyskell](https://twitter.com/pyskell), Former Director, USA of [ETC Cooperative](https://etccooperative.org/)."
-- title: "Opening Address - Day 1"
+  description: Anthony Lusardi [@pyskell](https://twitter.com/pyskell), Former Director, USA of [ETC Cooperative](https://etccooperative.org/).
+- title: Opening Address - Day 1
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: a-kgpkelvWE
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
-  description: "Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Executive Director of [ETC Cooperative](https://etccooperative.org/)."
-- title: "Full Day 1 - October 3rd, 2019"
+  description: Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Executive Director of [ETC Cooperative](https://etccooperative.org/).
+- title: Full Day 1 - October 3rd, 2019
   date: 2019-10-03
   uploaded: 2019-10-03
   youtube: Msi6EItbslk
-  tags: ["conferences", "etc-summit-2019"]
+  tags:
+    - conferences
+    - etc-summit-2019
   author: ETC Summit 2019
   description: null
-- title: "State of ETC"
+- title: State of ETC
   date: 2018-09-12
   uploaded: 2018-09-12
   author: ETC Summit 2018
   youtube: FZ2poxSjYrM
   description: Anthony Lusardi [@pyskell](https://twitter.com/pyskell), Director, USA of [ETC Cooperative](https://etccooperative.org/).
-  tags: ["conferences", "etc-summit-2018"]
-- title: "ETCDEVs Past Present and Future"
+  tags:
+    - conferences
+    - etc-summit-2018
+- title: ETCDEVs Past Present and Future
   date: 2018-09-12
   uploaded: 2018-09-12
   author: ETC Summit 2018
   youtube: 41Hv6QlXB50
   description: Darcy Reno, Program Manager, [ETCDEV](https://twitter.com/etcdev).
-  tags: ["conferences", "etc-summit-2018"]
-- title: "Ethereum Classic Development IOHK Team Grothendieck"
+  tags:
+    - conferences
+    - etc-summit-2018
+- title: Ethereum Classic Development IOHK Team Grothendieck
   date: 2018-09-12
   uploaded: 2018-09-12
   author: ETC Summit 2018
   youtube: R2zyWXXPdfo
   description: Tom Flynn, [IOHK](https://iohk.io/).
-  tags: ["conferences", "etc-summit-2018"]
-- title: "Building the ETC Ecosystem"
+  tags:
+    - conferences
+    - etc-summit-2018
+- title: Building the ETC Ecosystem
   date: 2018-09-12
   uploaded: 2018-09-12
   author: ETC Summit 2018
   youtube: TCLLMnafJKE
   description: Terry Culver [@realetclassic](https://twitter.com/realetclassic), CEO of [Ethereum Classic Labs](https://etclabs.org/).
-  tags: ["conferences", "etc-summit-2018"]
-- title: "Towards a Multichain Future"
+  tags:
+    - conferences
+    - etc-summit-2018
+- title: Towards a Multichain Future
   date: 2018-09-12
   uploaded: 2018-09-12
   author: ETC Summit 2018
   youtube: F_RqL1vyT9s
   description: Bob Summerwill [@BobSummerwill](https://twitter.com/BobSummerwill), Varro Technologies.
-  tags: ["conferences", "etc-summit-2018"]
-- title: "The Enhancement of ETC's Ecosystem"
+  tags:
+    - conferences
+    - etc-summit-2018
+- title: The Enhancement of ETC's Ecosystem
   date: 2018-09-12
   uploaded: 2018-09-12
   author: ETC Summit 2018
   youtube: IJlilbdf8bI
   description: Jiwon Joung
-  tags: ["conferences", "etc-summit-2018"]
-- title: "Interoperable Cross Chain Transfers on ETC to Other Blockchains"
+  tags:
+    - conferences
+    - etc-summit-2018
+- title: Interoperable Cross Chain Transfers on ETC to Other Blockchains
   date: 2018-09-12
   uploaded: 2018-09-12
   author: ETC Summit 2018
   youtube: 7xs-4mF0CLE
   description: Dionysis Zindros [@dionyziz](https://twitter.com/dionyziz), [IOHK](https://iohk.io/).
-  tags: ["conferences", "etc-summit-2018"]
-- title: "IoT Live Demonstration"
+  tags:
+    - conferences
+    - etc-summit-2018
+- title: IoT Live Demonstration
   date: 2018-09-12
   uploaded: 2018-09-12
   author: ETC Summit 2018
   youtube: ZF1n5sx3b-g
   description: Cody Burns [@dontpanicburns](https://twitter.com/dontpanicburns), Blockchain Architect for [Accenture](https://www.accenture.com/).
-  tags: ["conferences", "etc-summit-2018"]
-- title: "From SNARKs to Sidechains Synergies and Opportunities"
+  tags:
+    - conferences
+    - etc-summit-2018
+- title: From SNARKs to Sidechains Synergies and Opportunities
   date: 2018-09-12
   uploaded: 2018-09-12
   author: ETC Summit 2018
   youtube: BibyW8y3Ht0
   description: Rob Viglione [@robviglione](https://twitter.com/robviglione), CEO [Horizen Labs](https://twitter.com/horizenlabs).
-  tags: ["conferences", "etc-summit-2018"]
-- title: "ETCDEV’s Emerald Platform Build DApps on ETC"
+  tags:
+    - conferences
+    - etc-summit-2018
+- title: ETCDEV’s Emerald Platform Build DApps on ETC
   date: 2018-09-12
   uploaded: 2018-09-12
   author: ETC Summit 2018
   youtube: vAzYCLMnAe0
   description: Shane Jonas [@shanejonas](https://twitter.com/shanejonas) and Zachary Belford [@belfordz](https://twitter.com/belfordz), [ETCDEV](https://twitter.com/etcdev).
-  tags: ["conferences", "etc-summit-2018"]
-- title: "Forkonomy, Blockchains and Time Travel Possible Futures for ETC"
+  tags:
+    - conferences
+    - etc-summit-2018
+- title: Forkonomy, Blockchains and Time Travel Possible Futures for ETC
   date: 2018-09-12
   uploaded: 2018-09-12
   author: ETC Summit 2018
   youtube: 0KRDIDtEyFc
   description: Wassim Alsindi [@WassimAlsindi](https://twitter.com/WassimAlsindi)
-  tags: ["conferences", "etc-summit-2018"]
-- title: "ETCDEV’s Solution for Scaling ETC"
+  tags:
+    - conferences
+    - etc-summit-2018
+- title: ETCDEV’s Solution for Scaling ETC
   date: 2018-09-12
   uploaded: 2018-09-12
   author: ETC Summit 2018
   youtube: fOnaShsesGc
   description: Igor Artamanov [@splix](https://twitter.com/splix), CEO, [ETCDEV](https://twitter.com/etcdev).
-  tags: ["conferences", "etc-summit-2018"]
-- title: "ETC in The Korean Community"
+  tags:
+    - conferences
+    - etc-summit-2018
+- title: ETC in The Korean Community
   date: 2018-09-12
   uploaded: 2018-09-12
   author: ETC Summit 2018
   youtube: vW62mqglz3s
   description: Kim Gyung Seop
-  tags: ["conferences", "etc-summit-2018"]
-- title: "BlockScout - An Opensource EVM Blockchain Explorer"
+  tags:
+    - conferences
+    - etc-summit-2018
+- title: BlockScout - An Opensource EVM Blockchain Explorer
   date: 2018-09-12
   uploaded: 2018-09-12
   author: ETC Summit 2018
   youtube: BmmTWf_CHho
   description: Igor Barinov [@barinov](https://twitter.com/barinov), CEO, [POA.network](https://www.poa.network/)
-  tags: ["conferences", "etc-summit-2018"]
-- title: "ASICs - A Manufacturer's Perspective"
+  tags:
+    - conferences
+    - etc-summit-2018
+- title: ASICs - A Manufacturer's Perspective
   date: 2018-09-12
   uploaded: 2018-09-12
   author: ETC Summit 2018
   youtube: QrhpmpIREHU
   description: Chen Min, CEO, [Linzhi](https://linzhi.io/)
-  tags: ["conferences", "etc-summit-2018"]
-- title: "Global Liquidity and Market Dynamics"
+  tags:
+    - conferences
+    - etc-summit-2018
+- title: Global Liquidity and Market Dynamics
   date: 2018-09-12
   uploaded: 2018-09-12
   author: ETC Summit 2018
   youtube: O0Mw8AaidoQ
   description: Matt Beck, Tom Lee, Mike Moro, and Jack Liu
-  tags: ["conferences", "etc-summit-2018"]
-- title: "Cryptocurrency vs Traditional Financial Industry"
+  tags:
+    - conferences
+    - etc-summit-2018
+- title: Cryptocurrency vs Traditional Financial Industry
   date: 2018-09-12
   uploaded: 2018-09-12
   author: ETC Summit 2018
   youtube: SjBUUV4hnzE
   description: James Wo [@realjameswo](https://twitter.com/realjameswo), Founder of [Ethereum Classic Labs](https://etclabs.org/)
-  tags: ["conferences", "etc-summit-2018"]
-- title: "The Dynamics of the Cryptocurrency Market in Korea"
+  tags:
+    - conferences
+    - etc-summit-2018
+- title: The Dynamics of the Cryptocurrency Market in Korea
   date: 2018-09-12
   uploaded: 2018-09-12
   author: ETC Summit 2018
   youtube: H3ug8JM6GkY
   description: Seyoung Nam
-  tags: ["conferences", "etc-summit-2018"]
-- title: "Immutability and Censorship Resistance Panel"
+  tags:
+    - conferences
+    - etc-summit-2018
+- title: Immutability and Censorship Resistance Panel
   date: 2018-09-12
   uploaded: 2018-09-12
   author: ETC Summit 2018
   youtube: afUZK2lzpag
-  description: "Anthony Lusardi, Alison Alexis, Wassim Alsindi, Kong Gao, and Virgil Griffith"
-  tags: ["conferences", "etc-summit-2018"]
-- title: "How Millennials are Powering Wall Street’s Interest in Crypto"
+  description: Anthony Lusardi, Alison Alexis, Wassim Alsindi, Kong Gao, and Virgil Griffith
+  tags:
+    - conferences
+    - etc-summit-2018
+- title: How Millennials are Powering Wall Street’s Interest in Crypto
   date: 2018-09-12
   uploaded: 2018-09-12
   author: ETC Summit 2018
   youtube: _9EvliyakZ8
   description: "[Tom Lee](https://twitter.com/fundstrat), [Fundstrat](https://www.fundstrat.com/)"
-  tags: ["conferences", "etc-summit-2018"]
-- title: "Avoiding Contentious Changes How ETC's Community Does it Differently"
+  tags:
+    - conferences
+    - etc-summit-2018
+- title: Avoiding Contentious Changes How ETC's Community Does it Differently
   date: 2018-09-12
   uploaded: 2018-09-12
   author: ETC Summit 2018
   youtube: WVvR57EImzo
-  description: "Kevin Lord [@IOHK_Kevin](https://twitter.com/IOHK_Kevin), [IOHK](https://iohk.io/)"
-  tags: ["conferences", "etc-summit-2018"]
-- title: "Positive Sum Games Between ETC and ETH"
+  description: Kevin Lord [@IOHK_Kevin](https://twitter.com/IOHK_Kevin), [IOHK](https://iohk.io/)
+  tags:
+    - conferences
+    - etc-summit-2018
+- title: Positive Sum Games Between ETC and ETH
   date: 2018-09-12
   uploaded: 2018-09-12
   author: ETC Summit 2018
   youtube: 99AXeF9za48
   description: Virgil Griffith [@virgilgr](https://twitter.com/virgilgr), Special Projects at the [Ethereum Foundation](https://ethereum.org/).
-  tags: ["conferences", "etc-summit-2018"]
-- title: "Institutional Adoption of Cryptoassets"
+  tags:
+    - conferences
+    - etc-summit-2018
+- title: Institutional Adoption of Cryptoassets
   date: 2018-09-12
   uploaded: 2018-09-12
   author: ETC Summit 2018
   youtube: 30bwKABXECM
   description: Kayvon Pirestani
-  tags: ["conferences", "etc-summit-2018"]
-- title: "ETC in The East"
+  tags:
+    - conferences
+    - etc-summit-2018
+- title: ETC in The East
   date: 2018-09-12
   uploaded: 2018-09-12
   author: ETC Summit 2018
   youtube: Gas_aRSVzcs
   description: Christian Xu [@CRSXu](https://twitter.com/CRSXu)
-  tags: ["conferences", "etc-summit-2018"]
-- title: "The Road Ahead - ETC Summit 2018"
+  tags:
+    - conferences
+    - etc-summit-2018
+- title: The Road Ahead - ETC Summit 2018
   date: 2018-09-12
   uploaded: 2018-09-12
   author: ETC Summit 2018
   youtube: Rt-IebzAbJU
-  description: "Charles Hoskinson [@IOHK_Charles](https://twitter.com/IOHK_Charles), Co-Founder/CEO of [IOHK](https://iohk.io/)"
-  tags: ["conferences", "etc-summit-2018"]
+  description: Charles Hoskinson [@IOHK_Charles](https://twitter.com/IOHK_Charles), Co-Founder/CEO of [IOHK](https://iohk.io/)
+  tags:
+    - conferences
+    - etc-summit-2018
 - title: IOHK - ETC Hong Kong Summit
   date: 2017-11-13
   uploaded: 2017-11-13
   author: ETC Summit 2017
   youtube: UFxlBg3UCpU
   description: Promotional video from IOHK for ETC Summit 2017.
-  tags: ["conferences", "etc-summit-2017"]
+  tags:
+    - conferences
+    - etc-summit-2017
 - title: Making Ethereum Classic a Utilitarian Platform
   date: 2017-11-13
   uploaded: 2017-11-13
   author: ETC Summit 2017
   youtube: vYvbzjETbxI
   description: Charles Hoskinson [@IOHK_Charles](https://twitter.com/IOHK_Charles), Co-Founder/CEO of [IOHK](https://iohk.io/) and Co-Founder of the Ethereum Project.
-  tags: ["conferences", "etc-summit-2017"]
+  tags:
+    - conferences
+    - etc-summit-2017
 - title: Since the Hard Fork
   date: 2017-11-13
   uploaded: 2017-11-13
   author: ETC Summit 2017
   youtube: -LKJuVB2XuE
   description: Alan Verbner [@alanverbner](https://twitter.com/alanverbner), Ethereum Classic Developer, Team Grothendieck, [IOHK](https://iohk.io/).  [SLIDES](https://etcsummit.com/wp-content/uploads/2017/11/ETC-Alan_V.pptx)
-  tags: ["conferences", "etc-summit-2017"]
+  tags:
+    - conferences
+    - etc-summit-2017
 - title: The Road Ahead
   date: 2017-11-13
   uploaded: 2017-11-13
   author: ETC Summit 2017
   youtube: Lvsi5KlWt_c
   description: Alan McSherry, Ethereum Classic Developer | Team Grothendieck Manager, [IOHK](https://iohk.io/).
-  tags: ["conferences", "etc-summit-2017"]
+  tags:
+    - conferences
+    - etc-summit-2017
   unlisted: false
