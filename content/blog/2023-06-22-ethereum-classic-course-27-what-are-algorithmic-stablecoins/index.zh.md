@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Course: 27. What Are Algorithmic Stablecoins?"
+title: "以太坊经典课程：第27课 算法稳定币是什么?"
 date: 2023-06-22
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,70 +8,57 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J1s7uyDgIZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-In the previous class of the Ethereum Classic (ETC) course we explained what are stablecoins, convertible stablecoins in particular, how they work, and their risks. 
+稳定币是追求价值稳定的加密货币，通常模仿像美元这样的法定货币的价值，通过与资产进行挂钩或抵押来维持其价值，这些资产可以是与它们模仿的法定货币相同的货币，也可以是其他作为担保储备支持其价值的加密货币。
 
-In this class we will explain what are algorithmic stablecoins, starting with a description of what are stablecoins in general, the two categories that exist, what are algorithmic stablecoins in particular, showing how they work, and, finally, their risks.
+最流行的稳定币包括：
 
-In the next few classes we will cover these other topics:
+USDT - 由Tether Limited Inc.发行。
+USDC - 由由Circle和Coinbase组成的Center共同发行。
+BUSD - 由Binance发行。
+DAI - 由Maker DAO发行。
+稳定币可以分为可兑换和算法稳定币。在本课中，我们将解释后者。
 
-- Class 28: What Are Privacy Coins?
-- Class 29: What Are Decentralized Finance (DeFi) Coins?
-- Class 30: What Are File Storage Coins?
+## 什么是算法稳定币？
 
-## What Are Stablecoins?
+![算法稳定币是由其他加密资产作为支撑。](./1.png)
 
-Stablecoins are cryptocurrencies that seek to have a stable value, usually mimicking the value of a fiat currency like the US dollar, that are pegged or collateralized by assets that may be the same fiat currencies they seek to mimic or other cryptocurrencies that serve as guarantee reserves to back their value.
+算法稳定币是稳定币的两个主要类别之一。其中最受欢迎且主要的算法稳定币示例是 DAI。
 
-The most popular stablecoins are:
+这些加密货币与它们模仿的法定货币保持一比一的锚定。
 
-- USDT - Issued by Tether Limited Inc.
-- USDC - Issued by Center, a consortium formed by Circle and Coinbase.
-- BUSD - Issued by Binance.
-- DAI - Issued by Maker DAO.
+算法稳定币是由其他加密货币（如比特币、以太坊、USDC等）作为担保，而不是像可兑换稳定币一样通过模仿的法定货币的外部储备进行担保。
 
-Stablecoins are either convertible or algorithmic. In this class we will explain the latter.
+算法稳定币本身在诸如 ETC 的区块链中是 ERC-20 代币。
 
-## What Are Algorithmic Stablecoins?
+## 算法稳定币的工作原理
 
-![Algorithmic stablecoins are backed by other crypto assets.](./1.png)
+1. 持有符合条件的加密资产的任何人可以将它们发送到算法稳定币保险库智能合约中以生成稳定币代币。
 
-Algorithmic stablecoins are one of the two general categories of stablecoins. The most popular and the main example of an algorithmic stablecoin is DAI.
+2. 当算法稳定币保险库智能合约收到加密资产时，它按照一定的比例创建（铸造）稳定币代币。例如，某人可以发送 300 美元的加密资产，并获得 100 美元的稳定币或 100 个稳定币。
 
-These cryptocurrencies maintain a peg of one-to-one with a fiat currency that they seek to mimic.
+3. 一旦算法稳定币发行，它们可以用于支付、交易其他代币、非同质化代币（NFT）或加密资产，或者只是将其保持为稳定币。
 
-Algorithmic stablecoins are guaranteed by other cryptocurrencies, such as Bitcoin, Ethereum, USDC, etc., and not by external reserves of the fiat currencies they seek to mimic as do convertible stablecoins.
+4. 算法稳定币与法定货币保持1比1的价值的方式是，如果稳定币的交易价格高于1美元，那么人们会将更多的加密资产兑换为稳定币以降低其价格。反之亦然，如果稳定币的交易价格低于1美元，人们会购买它并将其兑换回加密资产。
 
-The algorithmic stablecoins themselves inside blockchains such as ETC are ERC-20 tokens.
+5. 当算法稳定币保险库智能合约从用户处收到稳定币代币时，它会赎回这些代币并返还相应的抵押品。用户在赎回算法稳定币时需要支付费用。
+   
+## 算法稳定币的风险是什么？
 
-## How do Algorithmic Stablecoins Work?
+尽管这些稳定币的名称暗示其机制是算法驱动或自动化的，但事实上，维持算法稳定币稳定的所有参数和比例都是由一个DAO决定的，DAO的代币持有人基于市场分析和主观意见对所有变量进行投票。
 
-1. Anyone with eligible crypto assets inside a programmable blockchain may send them to an algorithmic stablecoin vault smart contract to generate the stablecoin tokens.
+这意味着如果支持算法稳定币的总体抵押加密资产崩溃或失败超出投票成员的估计范围，那么稳定币可能会失去与相应法定货币的等值性。
 
-2. When the algorithmic stablecoin vault smart contract receives crypto assets, then it creates (mints) the stablecoin tokens in a proportion according to a set margin. For example, someone may send $300 in crypto assets and receive $100 in the stablecoins or 100 stablecoins.
-
-3. Once the algorithmic stablecoins are issued, they may be used for payments, to trade other tokens, NFTs, or crypto assets, or just hold them as a stablecoin.
-
-4. The way the value of the algorithmic stablecoin is kept 1-to-1 to the fiat currency is that if it trades above $1, then people will convert more crypto assets into the stablecoin and lower its price. The same happens in reverse. If the stablecoin trades bellow $1, then people will buy it and convert it back into crypto assets.
-
-5. When the algorithmic stablecoin vault smart contract receives the stablecoin tokens from a user, it redeems them and sends back the corresponding collateral. Users pay a fee when redeeming algorithmic stablecoins.
-
-## What Are the Risks of Algorithmic Stablecoins?
-
-Although the name of these stablecoins implies that their mechanics are algorithmic or automated, the truth is that all the parameters and ratios to maintain the stability of the algorithmic stablecoins are decided by a DAO of who’s token owners vote on all the variables based on their market analysis and subjective opinions.
-
-This means that if the aggregate collateral crypto assets that back the algorithmic stablecoins crash or fail beyond the estimates of the voting members, then the stablecoins may lose their parity with their corresponding fiat currencies.
-
-Algorithmic stablecoins are very complex systems and require many parts to be carefully calibrated to function properly.
+算法稳定币是非常复杂的系统，需要精心校准多个部分才能正常运作。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
 
