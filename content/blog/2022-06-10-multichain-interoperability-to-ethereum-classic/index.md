@@ -2,8 +2,6 @@
 title: "Ecosystem Spotlight: Multichain Brings Interoperability to Ethereum Classic"
 author: EthClassicDAO
 date: 2022-06-10
-tags: ["series"]
-info: "The *Ecosystem Spotlight* series brings attention to notable third party projects operating in the Ethereum Classic space. The articles in this series, along with all other content on this website, *are not* and *can not* be considered official endorsements. Content is provided for informational purposes only, and do not reflect the views of all ETC stakeholders. Always do your own research."
 ---
 
 # Updates of Recently Exposed Centralisation Risk in this Bridging Product

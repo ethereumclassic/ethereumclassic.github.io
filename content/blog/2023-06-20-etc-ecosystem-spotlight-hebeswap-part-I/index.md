@@ -3,9 +3,8 @@ title: "Ecosystem Spotlight: HebeSwap Part I"
 date: 2023-06-20
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
-tags: ["guide", "teams", "series"]
+tags: ["guide", "teams"]
 linkImage: ./banner.png
-info: "The *Ecosystem Spotlight* series brings attention to notable third party projects operating in the Ethereum Classic space. The articles in this series, along with all other content on this website, *are not* and *can not* be considered official endorsements. Content is provided for informational purposes only, and do not reflect the views of all ETC stakeholders. Always do your own research."
 ---
 
 ---
@@ -116,7 +115,3 @@ In part II of this series, we will provide a tutorial of how to trade on the Heb
 **Thank you for reading this article!**
 
 To learn more about ETC please go to: https://ethereumclassic.org
-
----
-
-*Update 23-06-20*: This article has had minor edits to increase neutrality.
