@@ -1,8 +1,12 @@
 ---
-title: "Multichain Brings Interoperability to Ethereum Classic"
+title: "Ecosystem Spotlight: Multichain Brings Interoperability to Ethereum Classic"
 author: EthClassicDAO
 date: 2022-06-10
+tags: ["series"]
+info: "The *Ecosystem Spotlight* series brings attention to notable third party projects operating in the Ethereum Classic space. The articles in this series, along with all other content on this website, *are not* and *can not* be considered official endorsements. Content is provided for informational purposes only, and do not reflect the views of all ETC stakeholders. Always do your own research."
 ---
+
+Update: https://twitter.com/EthClassicDAO/status/1661949980389830656
 
 ![Ethereum Classic added to Multichain Cross-Chain Router Protocol](./multichain-integration-ethereum-classic.png)
 
@@ -67,3 +71,7 @@ So what does this all mean for Ethereum Classic participants?
 Join the decentralized and open [ETC community](https://ethereumclassic.org/discord) in building the Web3 future on Ethereum Classic, the Original Ethereum Vision.
 
 ![Multichain connects Ethereum Classic to the EVM ecosystem](./etc-buzz.png)
+
+---
+
+*Update 23-06-20:* Update title and add disclaimer.
