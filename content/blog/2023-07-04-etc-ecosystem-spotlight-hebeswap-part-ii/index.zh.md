@@ -16,6 +16,8 @@ linkImage: ./banner.png
 
 ## Trading HEBE and WETC on HebeSwap
 
+![HebeSwap](logo.png)
+
 This is part two of a two part ETC ecosystem series about the decentralized exchange, HebeSwap. You can read part one in the link below:
 
 Link: https://ethereumclassic.org/blog/2023-06-20-etc-ecosystem-spotlight-hebeswap-part-I
