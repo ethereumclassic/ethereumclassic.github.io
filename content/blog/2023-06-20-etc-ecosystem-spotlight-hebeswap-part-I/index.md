@@ -1,5 +1,5 @@
 ---
-title: "ETC Ecosystem Spotlight: HebeSwap Part I"
+title: "Ecosystem Spotlight: HebeSwap Part I"
 date: 2023-06-20
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -28,11 +28,11 @@ At the developer level, they maintain several nodes of the Mordor testnet of the
 
 ![Hebe's commitment.](./2.png)
 
-Hebe’s team has always maintained a firm commitment to ETC and they are a very prolific builder in the ecosystem. 
+Hebe’s team has made a firm commitment to ETC and they are a prolific builder in the ecosystem. 
 
-In a recent statement made to us, the founder expressed the following:
+In a recent statement made to the author, the founder expressed the following:
 
-*At HebeSwap, we passionately believe in the unwavering potential of Ethereum Classic being the original Ethereum, the largest smart contract capable proof of work chain and its core values of decentralization, security, and immutability. Our commitment to these principles drives us to develop products that not only bolster the ETC ecosystem but also attract new users to join our thriving community. Together, we're fostering a more inclusive, sustainable, and resilient future for digital finance. Embrace the revolution with HebeSwap – where Ethereum Classic's vision comes to life.*
+> At HebeSwap, we passionately believe in the unwavering potential of Ethereum Classic being the original Ethereum, the largest smart contract capable proof of work chain and its core values of decentralization, security, and immutability. Our commitment to these principles drives us to develop products that not only bolster the ETC ecosystem but also attract new users to join our thriving community. Together, we're fostering a more inclusive, sustainable, and resilient future for digital finance. Embrace the revolution with HebeSwap – where Ethereum Classic's vision comes to life.
 
 ## Hebe Products
 
@@ -104,7 +104,7 @@ The Hebe team has launched one of the most popular WETC smart contracts and has 
 
 ## Using HebeSwap to Trade ERC-20 Tokens on Ethereum Classic
 
-As said before, HebeSwap has become the largest decentralized exchange in Ethereum Classic, it is growing organically and is a fundamental piece of infrastructure for the ecosystem
+As said before, HebeSwap has become the largest decentralized exchange in Ethereum Classic. It continues to grow and is an important piece of infrastructure in the ecosystem.
 
 In it, users may trade ETC for WETC, and then trade several other ERC-20 tokens. As liquidity grows in time, more native ERC-20 tokens will be listed and more cross-chain tokens will be brought to ETC that will be available on the DEX as well.
 
