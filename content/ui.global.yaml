@@ -48,14 +48,17 @@ qa:
 announcement:
   __color: green
   __enabled: 1
-  __allPages: 0
-  __alli18nPages: 1
+  __allPages: 1
+  __onlyi18n: 1
   __icon: language
   text: |
     This website is now translated into multiple languages through machine learning. Click the flag at the top right of the page to change language. If you'd like to help correct translations, please contact us!
   button:
     __link: https://github.com/ethereumclassic/ethereumclassic.github.io#translations
     text: "Help Translate"
+## Global Disclaimer
+disclaimer: |
+  The content on this website is user-generated and solely for informational purposes. Do not interpret any content as an endorsement of any product or service. There's "no official anything" in Ethereum Classic. Always do your own research, and remember: don't trust, verify!
 ## Footer
 signOff: Made with `<3` for the Original Ethereum Vision
 socialHilight: The ETC community is active on Discord
