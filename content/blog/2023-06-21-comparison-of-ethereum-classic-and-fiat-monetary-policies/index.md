@@ -118,7 +118,7 @@ As said several times before in this post, central banks may issue currency when
 
 Fiat money has a coin burning mechanism and ETC does not.
 
-The way the coin burning works in fiat money may be explained by describing how it is issued first. To issue money, central bankers may do two thing, a) credit newly issued money in the accounts of banks directly when they require loans, and b) buy government bonds to finance the state, or buy other securities in the open market, all with newly issued currency.
+The way coin burning works in fiat money may be explained by describing how it is issued first. To issue money, central bankers may do two things, a) credit newly issued money to the accounts of banks directly when they require loans, and b) buy government bonds to finance the state, or buy other securities in the open market, all with newly issued currency.
 
 To burn money, central banks usually just wait until the loans they gave or securities they bought mature and the counterparties have to pay back the interest and amortizations.
 
