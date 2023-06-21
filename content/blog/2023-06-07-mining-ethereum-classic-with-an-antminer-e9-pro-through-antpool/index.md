@@ -9,7 +9,7 @@ linkImage: ./etc-antminer.png
 
 Ethereum Classic (ETC) has [grown](https://2miners.com/etc-network-hashrate) significantly in hashrate since Ethereum [merged](https://ethereum.org/en/roadmap/merge/) to the proof of stake consensus mechanism. Ever since, a series of companies have focused their efforts to build high power ETC specific ASIC mining machines. One of those companies has been Bitmain, who also [has invested $10,000,000 in a grants fund](https://www.coindesk.com/business/2022/07/26/antpool-supports-ethereum-classic-ecosystem-with-10m-investment/) to finance projects on the now largest proof of work smart contracts blockchain in the world.
 
-In this post we show the [Bitamin Antminer E9 Pro ASIC miner](https://shop.bitmain.com/product/detail?pid=00020230318213033303FiTP3CK3062C) unboxing, connection, setup, how to start mining, and stats.
+In this post we show the [Bitmain Antminer E9 Pro ASIC miner](https://shop.bitmain.com/product/detail?pid=00020230318213033303FiTP3CK3062C) unboxing, connection, setup, how to start mining, and stats.
 
 ## 1. Antminer E9 Pro Unboxing
 
