@@ -68,7 +68,7 @@ In this post we will explain how to use the DEX to trade ETC for HEBE and how to
 
 ![](10.png)
 
-11. In the next step, HebeSwap will call our Metamask wallet again to relay the transaction. MetaMask will open and show us the data of the transaction that will sent to the ETC network, including the gas fees. To continue press “Confirm”. 
+11. In the next step, HebeSwap will call our Metamask wallet again to relay the transaction. MetaMask will open and show us the data of the transaction that will be sent to the ETC network, including the gas fees. To continue press “Confirm”. 
 
 ![](11.png)
 
