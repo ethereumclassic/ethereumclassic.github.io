@@ -47,7 +47,7 @@ These cryptocurrencies maintain a peg of one-to-one with a fiat currency that th
 
 Algorithmic stablecoins are guaranteed by other cryptocurrencies, such as Bitcoin, Ethereum, USDC, etc., and not by external reserves of the fiat currencies they seek to mimic as do convertible stablecoins.
 
-The algorithmic stablecoins themselves inside blockchains such as ETC are ERC-20 tokens.
+The algorithmic stablecoins themselves are ERC-20 tokens inside blockchains such as ETC.
 
 ## How do Algorithmic Stablecoins Work?
 
