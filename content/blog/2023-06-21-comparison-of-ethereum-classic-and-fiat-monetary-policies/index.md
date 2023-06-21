@@ -134,7 +134,7 @@ As shown in the Federal Reserve’s assets chart above, the average issuance rat
 
 ## Uncle Blocks
 
-Fiat money does not have blocks, thus uncle blocks. Ethereum Classic has uncle blocks. 
+Fiat money does not have blocks, thus no uncle blocks. Ethereum Classic has uncle blocks. 
 
 Each time a block is created in ETC, there may be up to two extra blocks that will get paid a minimal fee for the effort of building them. This was done because due to ETC’s mining algorithm, there is a probability that more than one block may be built by miners per round.
 
