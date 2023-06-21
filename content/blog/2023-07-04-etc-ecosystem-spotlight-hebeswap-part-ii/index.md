@@ -1,5 +1,5 @@
 ---
-title: "ETC Ecosystem Spotlight: HebeSwap Part II"
+title: "Ecosystem Spotlight: HebeSwap Part II"
 date: 2023-07-04
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
