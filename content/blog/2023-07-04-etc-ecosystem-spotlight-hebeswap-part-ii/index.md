@@ -82,7 +82,7 @@ In this post we will explain how to use the DEX to trade ETC for HEBE and how to
 
 ![](13.png)
 
-2. In the menu that displays, select WETC.
+2. In the menu that displays select WETC.
 
 ![](14.png)
 
