@@ -40,7 +40,7 @@ The above system guarantees that ETC will be sound money as gold was in the old 
 
 Fiat money is not gold nor digital gold because a) the gold standard ended decades ago and b) there is hardly any cost whatsoever to print more fiat currency.
 
-The way fiat money works is that only the treasury of the government is allowed to print physical paper money and mint coins, and the central bank is exclusively allowed to create money by crediting it in the accounts of banks.
+The way fiat money works is that only the treasury of the government is allowed to print physical paper money and mint coins, and the central bank is exclusively allowed to create money by crediting it to the accounts of banks.
 
 As both of these money creation methods have very low marginal costs, then there is no capital nor energy invested to produce the money, hence any amounts may be created at any time. It is just the will of the government to decide. 
 
