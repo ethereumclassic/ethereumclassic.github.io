@@ -78,7 +78,7 @@ In this post we will explain how to use the DEX to trade ETC for HEBE and how to
 
 ## How to Transform ETC into WETC on HebeSwap
 
-1. To transform ETC into the wrapped ETC token WETC, on HebeSwap, connect your wallet as explained in the previous section, then press on “Select a token”. 
+1. To transform ETC into the wrapped ETC token WETC on HebeSwap connect your wallet as explained in the previous section then press “Select a token”. 
 
 ![](13.png)
 
