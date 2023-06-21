@@ -90,7 +90,7 @@ In this post we will explain how to use the DEX to trade ETC for HEBE and how to
 
 ![](15.png)
 
-4. In the next screen, HebeSwap will show us how much ETC we will invest, in our case, it will be 2.34092 ETC, and that we will get the exact same amount of WETC because it is a token that is convertible one-to-one with ETC. To execute the trade, press “Wrap”.
+4. In the next screen, HebeSwap will show us how much ETC we will invest. In our case, it will be 2.34092 ETC which will get the exact same amount of WETC because it is a token that is convertible one-to-one with ETC. To execute the trade, press “Wrap”.
 
 ![](16.png)
 
