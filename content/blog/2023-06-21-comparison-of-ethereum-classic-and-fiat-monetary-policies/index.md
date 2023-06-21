@@ -78,7 +78,7 @@ Fiat money is created whenever the government wishes and there is no guidance or
 
 ## Eras
 
-Ethereum Classic’s issuance is divided in eras. Fiat money issuance is unpredictable and decided arbitrarily by a committee whenever they wish.
+Ethereum Classic’s issuance is divided into eras. Fiat money issuance is unpredictable and decided arbitrarily by a committee whenever they wish.
 
 Eras in ETC are measured in blocks in which the payments to miners, thus the issuance of coins, will be the same for each era.
 
