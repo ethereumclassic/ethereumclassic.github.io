@@ -42,7 +42,7 @@ Fiat money is not gold nor digital gold because a) the gold standard ended decad
 
 The way fiat money works is that only the treasury of the government is allowed to print physical paper money and mint coins, and the central bank is exclusively allowed to create money by crediting it to the accounts of banks.
 
-As both of these money creation methods have very low marginal costs, then there is no capital nor energy invested to produce the money, hence any amounts may be created at any time. It is just the will of the government to decide. 
+As both of these money-creation methods have very low marginal costs, there is neither capital nor energy invested to produce the money, hence any amounts may be created at any time. It is just the will of the government to decide. 
 
 Therefore, fiat money can’t be scarce as gold or digital gold.
 
