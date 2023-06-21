@@ -102,7 +102,7 @@ In this post we will explain how to use the DEX to trade ETC for HEBE and how to
 
 ![](18.png)
 
-7. Once MetaMask opens, you will see your WETC balance. In our case, it is 2.34092, which is the amount of ETC we transformed to WETC.
+7. Once MetaMask opens you will see your WETC balance. In our case, it is 2.34092 which is the amount of ETC we transformed to WETC.
 
 ![](19.png)
 
