@@ -56,7 +56,7 @@ In this post we will explain how to use the DEX to trade ETC for HEBE and how to
 
 ![](7.png)
 
-8. Once, we selected the pair ETC/HEBE to trade, we need to enter the amount of ETC we want to trade. For this example, we will select “MAX” to invest all our ETC balance in this wallet.
+8. Once we have selected the pair to trade, ETC/HEBE, we need to enter the amount of ETC we want to trade. For this example, we will select “MAX” to invest the entire ETC balance in this wallet.
 
 ![](8.png)
 
