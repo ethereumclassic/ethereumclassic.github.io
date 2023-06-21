@@ -86,7 +86,7 @@ In this post we will explain how to use the DEX to trade ETC for HEBE and how to
 
 ![](14.png)
 
-3. In the next step, enter the amount of ETC you wish to transform into WETC. For this example, we will press on “MAX”.
+3. In the next step enter the amount of ETC you wish to transform into WETC. For this example, we will press “MAX”.
 
 ![](15.png)
 
