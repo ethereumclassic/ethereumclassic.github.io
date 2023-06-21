@@ -55,7 +55,7 @@ The algorithmic stablecoins themselves are ERC-20 tokens inside blockchains such
 
 2. When the algorithmic stablecoin vault smart contract receives crypto assets, then it creates (mints) the stablecoin tokens in a proportion according to a set margin. For example, someone may send $300 in crypto assets and receive $100 in the stablecoins or 100 stablecoins.
 
-3. Once the algorithmic stablecoins are issued, they may be used for payments, to trade other tokens, NFTs, or crypto assets, or just hold them as a stablecoin.
+3. Once the algorithmic stablecoins are issued, they may be used for payments, to trade for other tokens, NFTs, or crypto assets, or just to hold them as a stablecoin.
 
 4. The way the value of the algorithmic stablecoin is kept 1-to-1 to the fiat currency is that if it trades above $1, then people will convert more crypto assets into the stablecoin and lower its price. The same happens in reverse. If the stablecoin trades bellow $1, then people will buy it and convert it back into crypto assets.
 
