@@ -20,7 +20,7 @@ In this post we will make a comparison of the Ethereum Classic (ETC) and fiat mo
 
 We will use ETC as base money and fiat money as base money. This is, that we will describe ETC’s issuance and stock at the network protocol layer without taking into account any fractional reserve multiplier that may occur at the exchanges and dapps that use crypto for margin lending and lending in general.
 
-In the same way, we will use the classical policies pertaining fiat money with regards to what is called “base money” or the money that the central bank issues without taking into account the multiplier of the money that occurs in the fractional reserve system that is managed by the rest of the banks of the economy.
+In the same way, we will use the classical policies pertaining to fiat money with regards to what is called “base money,” the money that is issued by the central bank, without taking into account the multiplier that occurs in the fractional reserve system managed by the other banks of the economy.
 
 When referring to “fiat money” generically, we will mainly describe the way the United States Federal Reserve manages the base money. However, this is nearly identical in all monetary systems in all national currencies across the world.
 
