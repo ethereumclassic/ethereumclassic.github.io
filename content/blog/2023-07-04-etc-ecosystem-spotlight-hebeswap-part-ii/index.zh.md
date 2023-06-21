@@ -28,7 +28,7 @@ In this post we will explain how to use the DEX to trade ETC for HEBE and how to
 
 ## How to Trade ETC for HEBE on HebeSwap
 
-1. Go to app.hebeswap.com/#/swap. Then, connect your wallet to the HebeSwap decentralized application (dapp) by pressing “Connect to a wallet” at the top right or pressing the button “Connect Wallet” at the center of the home page.
+1. Go to [app.hebeswap.com/#/swap](https://app.hebeswap.com/#/swap). Then, connect your wallet to the HebeSwap decentralized application (dapp) by pressing “Connect to a wallet” at the top right or pressing the button “Connect Wallet” at the center of the home page.
 
 ![](1.png)
 
