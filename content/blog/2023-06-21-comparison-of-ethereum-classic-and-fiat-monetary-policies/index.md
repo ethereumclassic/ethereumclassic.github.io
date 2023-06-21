@@ -38,7 +38,7 @@ The way it works is that miners in the blockchain create blocks of transactions,
 
 The above system guarantees that ETC will be sound money as gold was in the old days, hence the term “digital gold”.
 
-Fiat money is not gold nor digital gold because a) it ended the gold standard decades ago and b) there is hardly any cost whatsoever to print more fiat currency.
+Fiat money is not gold nor digital gold because a) the gold standard ended decades ago and b) there is hardly any cost whatsoever to print more fiat currency.
 
 The way fiat money works is that only the treasury of the government is allowed to print physical paper money and mint coins, and the central bank is exclusively allowed to create money by crediting it in the accounts of banks.
 
