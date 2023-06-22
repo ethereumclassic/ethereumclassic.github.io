@@ -160,6 +160,9 @@ items:
         __name: Nanopool
         __link: https://etc.nanopool.org/
         __primary: 1
+      OKMINER:
+        __name: OKMINER
+        __link: https://okminer.com
       Open ETC Pool:
         __name: Open ETC Pool
         __link: https://github.com/etclabscore/open-etc-pool
