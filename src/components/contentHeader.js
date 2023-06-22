@@ -33,7 +33,7 @@ export default function ContentHeader({ mdx, i18n, pre, ...rest }) {
     }))
     .sort((a, b) => a.name.localeCompare(b.name));
   return (
-    <>
+    <header>
       <div tw="flex" {...rest}>
         <div tw="flex-auto">
           <div tw="space-y-2">
@@ -81,13 +81,18 @@ export default function ContentHeader({ mdx, i18n, pre, ...rest }) {
         )}
       </div>
       {globalDisclaimer && (
-        <div tw="text-xs mt-4 text-shade-light italic">{ui.disclaimer}</div>
+        <div
+          tw="text-xs mt-4 text-shade-light italic select-none"
+          role="presentation"
+        >
+          {ui.disclaimer}
+        </div>
       )}
       {info && (
         <Md tw="text-sm bg-backdrop-light p-3 my-6 shadow-sm rounded-md" unwrap>
           {info}
         </Md>
       )}
-    </>
+    </header>
   );
 }
