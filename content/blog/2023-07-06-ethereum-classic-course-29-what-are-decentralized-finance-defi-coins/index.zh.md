@@ -40,7 +40,7 @@ The main method that is used to conduct all these kinds of processes is to issue
 
 Many times the tokens earn an interest or dividend, or “passive income” as it has been referred to, as the underlying applications charge fees to users. Another benefit is that token holders may vote on protocol upgrades proposed by the developer teams. In other cases, in protocols that need financial parameter decisions, such as algorithmic stablecoins, users may vote on margin levels and other product safety policies. 
 
-# DeFi Token Categories
+## DeFi Token Categories
 
 There are two main categories of DeFi tokens:
 
