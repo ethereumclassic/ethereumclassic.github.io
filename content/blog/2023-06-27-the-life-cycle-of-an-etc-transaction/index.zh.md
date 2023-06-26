@@ -1,5 +1,5 @@
 ---
-title: "The Life Cycle of an ETC Transaction"
+title: "ETC以太坊经典交易的生命周期"
 date: 2023-06-27
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,89 +8,89 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PD_aluJ_MVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-![Plain and web3 transactions.](./banner.png)
+![普通和web3交易](./banner.png)
 
-Ethereum Classic (ETC) is a peer-to-peer network of computers around the world that hold a fully replicated copy of a ledger with accounts, balances, and smart contracts. 
+以太经典（ETC）是一个全球范围内的点对点计算机网络，持有一个包含账户、余额和智能合约的完全复制的分类帐。
 
-To change the state of accounts, that is, to move money from one account to another, or to interact with smart contracts, the network is constantly receiving transactions sent by users worldwide.
+为了改变账户的状态，也就是将资金从一个账户转移到另一个账户，或者与智能合约进行交互，网络会不断接收来自全球用户的交易。
 
-When a transaction is sent to any node in ETC, it immediately retransmits it to the rest of the network to ensure that all nodes receive it. This happens within milliseconds.
+当一笔交易被发送到ETC网络中的任何一个节点时，该节点会立即将其转发给网络中的其他节点，以确保所有节点都收到该交易。这个过程在毫秒级别内完成。
 
-Of all the nodes, a subset are what are called “miners” and these machines are the ones that do the work in “proof of work” to produce blocks, including these transactions into the blockchain, which is the name of the replicated ledger.
+在所有的节点中，有一部分被称为“矿工”，这些机器通过“工作量证明”来生成区块，包括将这些交易写入区块链（即复制的分类帐）。
 
-So, the questions are: What happens when a transaction is sent to ETC? When is a transaction accepted by the network? When is a transaction final or secure?
+所以，问题是：当一笔交易被发送到ETC时会发生什么？交易何时被网络接受？交易何时是最终的或安全的？
 
-## Plain Transaction
+## 普通交易
 
-![Plain transaction.](./1.png)
+![普通交易.](./1.png)
 
-There are two kinds of transactions that users typically send to ETC using their wallets: plain transactions or dapp or web3 transactions.
+用户通常使用钱包向以太经典（ETC）发送两种类型的交易：普通交易或dapp或web3交易。
 
-A plain transaction is usually to just move ETC from one address to another. The way it works is as follows:
+普通交易通常用于将ETC从一个地址转移到另一个地址。其工作方式如下：
 
-1. The user enters the amount to send and the receiving address in the wallet app he or she is using and presses send
-2. The wallet app sends the transaction to a remote node of the ETC network that it uses to process transactions
-3. The remote node receives the transaction, confirms that the sending address has a sufficient balance, and that the transaction is correctly signed with the private key
-4. The transaction is sent to the rest of the network
-5. The rest of the network also verifies and processes the transaction and includes it in the blockchain forever
+1. 用户在使用的钱包应用中输入要发送的金额和接收地址，然后点击发送。
+2. 钱包应用将交易发送到所使用的远程ETC网络节点以处理交易。
+3. 远程节点接收交易，确认发送地址具有足够的余额，并且交易已使用私钥正确签名。
+4. 交易被发送到网络中的其他节点。
+5. 其他节点也会验证和处理该交易，并将其永久地包含在区块链中
 
-## Dapp or Web3 Transaction
+## Dapp或Web3交易
 
-![Dapp or web3 transaction.](./2.png)
+![Dapp或Web3交易](./2.png)
 
-A dapp or web3 transaction uses more steps and it calls smart contracts on the blockchain to execute more complex operations. The way it works is as follows:
+Dapp或Web3交易使用更多的步骤，并调用区块链上的智能合约来执行更复杂的操作。其工作方式如下：
 
-1. The user goes to a dapp or web3 website and connects his or her wallet to that application
-2. The user initiates a transaction, for example a DeFi trade or buying or selling an NFT, and presses send on the dapp or web3 application
-3. The dapp or web3 application generates the transaction, which is usually to interact with a smart contract on the blockchain, and feeds it back to the user’s wallet
-4. The user’s wallet then asks the user to accept and sign the transaction with his or her private key and sends it to a remote node of the ETC network that it uses to process transactions
-5. The remote node receives the transaction and verifies that it is correct and signed
-6. The transaction is sent to the rest of the network
-7. The rest of the network also verifies and processes the transaction and includes it in the blockchain forever
+1. 用户访问Dapp或Web3网站，并将其钱包连接到该应用程序。
+2. 用户启动一个交易，例如DeFi交易或购买/销售NFT，并在Dapp或Web3应用程序上点击发送。
+3. Dapp或Web3应用程序生成交易，通常是与区块链上的智能合约进行交互，并将其反馈给用户的钱包。
+4. 用户的钱包要求用户使用其私钥接受和签署交易，然后将其发送到所使用的远程ETC网络节点以处理交易。
+5. 远程节点接收交易并验证其正确性和签名。
+6. 交易被发送到网络中的其他节点。
+7. 其他节点也会验证和处理该交易，并将其永久地包含在区块链中。
 
-## What Do Miners Do?
+## 矿工需要做什么？
 
-![The work of miners.](./3.png)
+![矿工需要做什么？](./3.png)
 
-When we say above that the network “verifies and processes the transaction and includes it in the blockchain forever” what we mean is that the subgroup of the network nodes which are the miners get the transactions and include them in blocks. The way they do this is as follows:
+当我们上面提到网络“验证和处理交易，并将其永久地包含在区块链中”时，我们指的是网络中的子组——矿工节点获取这些交易并将它们包含在区块中。他们的工作方式如下：
 
-1. Mempool: All the new transactions are accumulated in a pool of unprocessed transactions called the “mempool” which stands for “memory pool”
-2. Proof of Work: Miners grab as many transactions as they can wich pay the highest fees (this is why it is important to send transactions with the correct gas fees), create a batch, and then hash them cryptographically in a process called proof of work
-3. Block: After doing a lot of computational work and spending a lot of electricity, they stamp the batch of transactions with a cryptographic hash and create what is called a block of transactions
-4. Network: When they have the block ready, then they immediately send it to the rest of the network for verification and full replication in all nodes of the system
+1. 内存池：所有新的交易都会积累在一个未处理交易的池子中，称为“内存池”（mempool）。
+2. 工作量证明：矿工选择尽可能多的支付较高费用的交易（这就是为什么发送交易时正确设置矿工费很重要），将它们创建为一个批次，并进行加密哈希运算，这个过程称为工作量证明。
+3. 区块：经过大量计算工作和消耗大量电力后，矿工使用加密哈希为交易批次盖上戳，创建了所谓的交易区块。
+4. 网络：当他们准备好区块后，立即将其发送到网络中的其他节点进行验证，并在系统的所有节点中进行完全复制。
 
-## How Can I Know if a Transaction Is Included in the Chain?
+## 如何知道交易是否已包含在区块链中？
 
-![Transaction on a block explorer.](./4.png)
+![区块链浏览器上的交易.](./4.png)
 
-When any transaction sent by a user goes through all the steps mentioned above, then it will be recorded in the blockchain forever, as said before.
+当用户发送的任何交易通过上述所有步骤时，它将永久地记录在区块链中，如前所述。
 
-Transactions themselves may take between 13 seconds (one block time) to 39 seconds (three block times) to be included into the ETC blockchain if it was sent with the correct gas fees. This is because miners create blocks in ETC every 13 seconds and sometimes the full replication and inclusion of a transaction into a block may take between one to three blocks.
+如果交易使用正确的矿工费发送，交易本身可能需要13秒（一个区块时间）到39秒（三个区块时间）才能被包含在ETC区块链中。这是因为ETC的矿工每13秒创建一个区块，并且有时将交易完全复制并包含在区块中可能需要一到三个区块的时间。
 
-If a transaction has very low fees or if there is a lot of traffic in the network it may take longer.
+如果交易的矿工费很低或者网络中有很多交通量，可能需要更长时间。
 
-Once transactions are processed, users may check if they were included into the network by going to an ETC  block explorer such as [Blockscout](https://blockscout.com/etc/mainnet/).
+一旦交易被处理，用户可以通过访问ETC的区块链浏览器（如[Blockscout](https://blockscout.com/etc/mainnet/)来检查它们是否被包含在网络中。
 
-In the image above you may see a sample transaction on Blockscout, the main ETC explorer. You may check it out by going to the following link:
+在上面的图像中，您可以看到Blockscout，主要的ETC区块链浏览器上的一个示例交易。您可以通过以下链接查看它：
 
 https://blockscout.com/etc/mainnet/tx/0x486c889edde1857c99aa925eb48bdfe494ca7653abed7045c2ebb3b315098ece
 
-## The Different Risks of Senders vs Receivers
+## 发送方与接收方的不同风险
 
-In an economic transaction, when sending money from one address to another in ETC, the one usually bearing the risk is the receiver. 
+在ETC中进行经济交易时，通常承担风险的是接收方。
 
-This is because the transaction may have been sent, but it may be uncertain when it will finally be included into the blockchain, if the sender entered the correct gas fees, if it was included in a finalized block or a stale block (also called uncle block), or if it may be reversed by a 51% attack.
+这是因为虽然交易可能已经发送，但无法确定何时将最终包含在区块链中，发送方是否输入了正确的矿工费，它是否包含在已经确认的区块或陈旧的区块（也称为叔区块）中，或者它是否可能被51%攻击撤销。
 
-To know more about how calculate these risks, and when to rest assured that a transaction is final, please see our next post entitled “What Is a Good Number of Block Confirmations?” which will be published after this one!
+要了解更多关于如何计算这些风险以及何时确保交易是最终的信息，请参阅我们接下来的文章，“什么是良好的区块确认数？”该文章将在本文之后发布！
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
