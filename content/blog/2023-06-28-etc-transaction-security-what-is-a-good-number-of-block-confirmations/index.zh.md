@@ -1,5 +1,5 @@
 ---
-title: "ETC Transaction Security: What Is a Good Number of Block Confirmations?"
+title: "ETC交易的安全性：什么是良好的区块确认数？"
 date: 2023-06-28
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,117 +8,117 @@ linkImage: ./banner1600.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GdZhTavyLCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-![Transaction security.](./banner1600.png)
+![交易安全性](./banner1600.png)
 
-In the [previous post](https://ethereumclassic.org/blog/2023-06-27-the-life-cycle-of-an-etc-transaction) we explained the life cycle of a transaction until it is included in the Ethereum Classic (ETC) blockchain.
+在[之前的文章](https://ethereumclassic.org/blog/2023-06-27-the-life-cycle-of-an-etc-transaction)中，我们解释了交易的生命周期，直到它被包含在以太坊经典区块链中。
 
-We described how plain and dapp or web3 transactions are processed, what miners do to produce blocks to include them in the blockchain, how to know whether a transaction has been included, and we stated that usually the receivers of ETC are the ones who have to be more careful with transaction security.
+我们描述了如何处理普通交易和dapp或web3交易，矿工如何生成区块并将其包含在区块链中，如何确定交易是否已包含，以及通常情况下接收ETC的人在交易安全方面需要更加小心。
 
-In this post, we will explain how many block confirmations are necessary to consider transactions final or secure. The main concept to understand is that transactions are more secure the more blocks are built on top of them.
+在本文中，我们将解释需要多少个区块确认才能将交易视为最终或安全。要理解的主要概念是，交易在其之上构建的区块越多，其安全性就越高。
 
-The variables we will consider are the stage in which a transaction is, the fact that sometimes there may be more than one block as candidates for the canonical chain, and determining confirmation security thresholds based on the value of transactions vs the value of blocks.
+我们将考虑的变量包括交易所处的阶段，有时可能有多个区块作为规范链的候选项，并基于交易价值与区块价值之间的比值确定确认安全阈值。
 
-## Sending a Transaction Is Not Enough to Consider it Secure
+## 仅发送交易还不足以被视为安全
 
-![Steps for a transaction to be included in the blockchain.](./22.png)
+![交易被包含在区块链中的步骤如下](./22.png)
 
-As seen in the diagram in this section, and as explained in our previous article, an ETC transaction may go through up to seven steps before being included in a block.
+正如本节中的图表所示，并且正如我们在先前的文章中解释的那样，在被包含在一个区块中之前，ETC交易可能需要经历多达七个步骤。
 
-Any transaction that is not included in a block yet is insecure because it is not even entered into the history of the ledger. 
+任何尚未包含在区块中的交易都是不安全的，因为它甚至还未被记录在账本的历史中。
 
-For those who can’t wait more than 13 to 39 seconds; which is 1 to 3 blocks in ETC at 13 seconds per block, the typical time that an ETC transaction takes to be included; they should wait at least until the transaction is included in 1 block and posted on the blockchain.
+对于那些无法等待超过13至39秒的人来说，也就是ETC每个区块13秒所需的时间，ETC交易通常需要被包含的时间，他们至少应该等待交易被包含在1个区块中并在区块链上发布。
 
-This kind of low security may be adequate for low value transactions, for example between $1 and $100 dollars. 
+对于低价值交易（例如1美元到100美元之间），这种较低的安全性可能是足够的。
 
-For higher value transactions, there are other things to consider.
+对于更高价值的交易，还有其他要考虑的因素。
 
-## How Transactions Are More Secure As Time Passes By
+## 随着时间的推移，交易变得更加安全
 
-![More blocks, more security.](./11.png)
+![更多区块，更加安全](./11.png)
 
-The beauty of proof of work blockchains is that they have physical security because the deeper transactions are in the blockchain, the more secure they get.
+工作量证明（Proof of Work）区块链的美妙之处在于，随着交易在区块链中的深度增加，它们变得更加安全。
 
-As blocks cost a lot of computational power and electricity to produce, in ETC it is currently around $38.40 dollars per block every 13 seconds, then the latest blocks may be easier to revert by dishonest actors. But, to revert older blocks to delete or change transactions, it would require redoing all the blocks in the chain all over again, making it extremely costly for attackers.
+由于在ETC中生成区块需要大量的计算能力和电力，每个区块的成本目前约为38.40美元，每13秒产生一个区块。因此，最新的区块可能更容易被不诚实的参与者回滚。但是，要回滚较旧的区块以删除或更改交易，就需要重新执行整个区块链中的所有区块，对攻击者来说成本极高。
 
-The cost per block is the reward per block by the current ETC market price. ETC is paying 2.56 ETC per block and the market price at the time of this writing is $15, therefore the cost per block is $38.40.
+每个区块的成本是当前ETC市场价格下的每个区块奖励。ETC每个区块支付2.56个ETC，而本文撰写时的市场价格为15美元，因此每个区块的成本为38.40美元。
 
-As examples, below is a list of how much it would cost at current ETC price to revert a transaction by its age:
+以下是以当前ETC价格计算的示例，回滚一笔交易所需的成本：
 
-- 1 day = 6,646 blocks = $255,206
-- 1 week = 46,522 blocks = $1,786,445
-- 1 month = 199,380 blocks = $7,565,192
-- 1 year = 2,425,790 blocks = $93,150,336
+- 1天 = 6,646个区块 = 255,206美元
+- 1周 = 46,522个区块 = 1,786,445美元
+- 1个月 = 199,380个区块 = 7,565,192美元
+- 1年 = 2,425,790个区块 = 93,150,336美元
 
-## Avoiding Uncle Block Risk
+## 避免叔块风险
 
-One of the occurrences in proof of work blockchains is that sometimes there may be more than one valid block mined in a round. This happens very rarely in Bitcoin because the block time in that network is 10 minutes, but happens 5% of the time in ETC because the block frequency of 13 seconds increases the chances of this phenomenon. In ETC, these extra valid blocks are called “uncle blocks”.
+在工作量证明区块链中，有时会在同一轮内挖掘出多个有效的区块。在比特币中，由于区块时间为10分钟，这种情况发生得非常少，但在ETC中发生的概率为5%，因为13秒的区块频率增加了这种现象发生的机会。在ETC中，这些额外的有效区块被称为“叔块”。
 
-In both Bitcoin and Ethereum Classic this situation is solved by using the “chain with the most work done” rule, which means that if half the network is working on one block and the other on another, but any side sends a new block first, then the new block establishes the chain with the most work done and all the other nodes throw away the one that was left behind and align with the winning side.
+无论是比特币还是以太坊经典，都通过使用“工作量最大的链”规则来解决这种情况，这意味着如果一半的网络在一个区块上工作，另一半在另一个区块上工作，但任何一方先发送一个新的区块，那么新的区块将建立工作量最大的链，所有其他节点都会丢弃落后的那个区块，并与获胜方保持一致。
 
-In Bitcoin, this dilemma is solved in one block, so the security measure to use to make sure that a transaction will not be thrown away with a losing block is to wait for 2 block confirmations or 20 minutes.
+在比特币中，这个困境在一个区块内解决，因此确保交易不会在一个失败的区块中被丢弃的安全措施是等待2个区块确认或20分钟。
 
-In ETC, because of the way the protocol is designed and the frequency of the blocks, it was established that the situation was going to be clear after 7 blocks or a minute and a half, so this is the number of confirmations that needs to be used to make sure that a transaction will be on the winning chain.
+在ETC中，由于协议的设计方式和区块的频率，人们认为在7个区块或一个半分钟后情况会变得清晰，因此需要使用7个确认来确保交易将位于获胜的链上。
 
-However, that a transaction is accepted on a block and that the uncle block risk is avoided with 7 confirmations, is still not sufficient to consider it safe.
+然而，仅仅接受交易并通过7次确认避免叔块风险仍然不足以将其视为安全。
 
-## Avoiding Transaction Reversal Risk
+## 避免交易撤销风险
 
-The true risk of a proof of work blockchain is what is called a 51% attack. These attacks are perpetrated by accumulating sufficient hash power to create a longer chain than the one considered the longest one, and then suddenly sending it to the rest of the network which will immediately adopt it as the canonical chain because it is the one with the most work done.
+工作量证明区块链真正的风险是所谓的51%攻击。攻击者通过积累足够的哈希算力来创建比被认为是最长链更长的链，然后突然将其发送给网络的其他节点，其他节点会立即接受它作为主链，因为它是工作量最大的链。
 
-Attackers usually do this to delete a previous transaction they had sent, in effect recovering the money they had sent to a victim. Because the victim thought that they had received the money, they had given the attacker something of value in exchange for the payment. Whenever a 51% attack is done, it usually targets an exchange because the attackers use the fake transaction to send them crypto, then purchase another token and withdraw it, so when they delete the previous transfer they end up with both the money they used to purchase the new token in the first place and the new token.
+攻击者通常这样做是为了删除他们之前发送的交易，实际上是收回他们发送给受害者的资金。因为受害者认为他们已经收到了资金，所以他们曾经为了付款而交付了有价值的东西给攻击者。每当进行51%攻击时，通常会针对一个交易所，因为攻击者使用虚假交易向交易所发送加密货币，然后购买另一种代币并将其提取，因此当他们删除之前的转账时，他们最终获得了用于购买新代币的资金和新代币。
 
-The way to protect yourself from this kind of attack is to use many confirmations, more specifically, a number that is proportional to the amount of money received.
+保护自己免受这种攻击的方法是使用许多确认，更具体地说，是与收到的资金金额成比例的确认数。
 
-The logic of this defense mechanism is to use sufficient confirmations to make it economically unfeasible for the attacker to make any money.
+这种防御机制的逻辑是使用足够的确认使攻击者无法从中获利。
 
-This is how it works: If each block has a cost to build, then, when receiving crypto assets, one should wait a number of confirmations that would make the value of that number of blocks equal or greater to the value of the crypto assets received.
+具体做法如下：如果每个区块构建的成本都是固定的，那么在接收加密资产时，应等待足够多的确认，使得这些确认所代表的区块价值等于或大于所收到的加密资产的价值。
 
-For example, if a block in ETC currently costs $38.40 to build, and someone sends you $384.00 in ETC, then if you just wait 10 blocks you would be safe because if any attacker were to spend more capital in making blocks to reverse that transaction they would lose money.
+例如，如果在ETC中每个区块的构建成本目前为38.40美元，而有人向您发送了384.00美元的ETC，那么只需等待10个区块，您就会安全，因为如果有任何攻击者在逆转该交易方面投入更多资金制造区块，他们将会亏钱。
 
-With this logic, we can make these calculations for different transactions values to be safe:
+根据这种逻辑，我们可以为不同的交易金额进行以下安全计算：
 
-- $1,000 -> wait 26 blocks
-- $5,000 -> wait 130 blocks
-- $10,000 -> wait 260 blocks
-- $100,000 -> wait 2,604 blocks
-- $1,000,000 -> wait 26,041 blocks
+- 1000美元 -> 等待26个区块
+- 5000美元 -> 等待130个区块
+- 10000美元 -> 等待260个区块
+- 100000美元 -> 等待2604个区块
+- 1000000美元 -> 等待26041个区块
 
-## How to Check Transaction Block Confirmations
+## 如何检查交易的区块确认次数
 
-![Transaction on the ETC blockchain.](./33.png)
+![在ETC区块链上的交易](./33.png)
 
-As we explained in our previous post, the way to check the statistics of a transaction is to use block explorers. The main block explorer for ETC is [Blockscout](https://blockscout.com/etc/mainnet).
+如我们在之前的文章中解释的那样，检查交易的统计信息的方法是使用区块浏览器。ETC的主要区块浏览器是[Blockscout](https://blockscout.com/etc/mainnet).
 
-Each transaction on the ETC blockchain has a transaction ID called “transaction hash”. By entering that ID on Blockscout, you can check all its information and in one section at the top is shows the confirmation times with the tag “Confirmed by”.
+每个在ETC区块链上的交易都有一个称为"交易哈希"的交易ID。通过在Blockscout上输入该ID，您可以查看该交易的所有信息，并且在顶部的一个部分中，它显示了确认次数，使用"Confirmed by"标签进行标注。
 
-In the transaction in the image, for example, there have been 6,585 confirmations since that transaction was sent.
+例如，在上图中的交易中，从该交易发送以来已经有6,585次确认。
 
-You may check out this transaction in the image by going to the following link:
+您可以通过访问以下链接查看该图中的交易：
 
 https://blockscout.com/etc/mainnet/tx/0x486c889edde1857c99aa925eb48bdfe494ca7653abed7045c2ebb3b315098ece
 
-By the time you see it it will have many more confirmations!
+当您查看时，它将会有更多的确认次数！
 
-## Counterparty Trust
+## 对手方的信任
 
-Ironically, the highest value transactions may be the ones that are dependent the most on trust between the parties!
+具有讽刺意味的是，价值最高的交易可能是最依赖各方之间信任的交易！
 
-Many times we see mega transactions on the ETC blockchain and other networks. These may be in the hundreds of millions of dollars.
+在ETC区块链和其他网络上，我们经常看到巨额交易。这些交易的价值可能达到数亿美元。
 
-However, if someone sends, for example, $150 million in ETC to someone else, they would have to wait 3,906,250 confirmations or 1.6 years to be safe!
+然而，如果有人向他人发送了1.5亿美元的ETC，他们将需要等待3,906,250次确认，或者1.6年才能安全！
 
-Nevertheless, these types of transactions do happen every now and then and are usually internal transactions within the same corporation, usually exchanges, or between entities that have a long standing relationship.
+尽管如此，这类交易偶尔还是会发生，并且通常是同一公司内部的交易，通常是在交易所之间进行，或者是在长期存在的关系实体之间进行。
 
-This means that there is trust between the sender and the receiver, so they know that there will be no 51% attack. Or, at least, they have done their due diligence to make sure that that possibility is very limited, or near zero!
+这意味着发送方和接收方之间存在信任，因此他们知道不会发生51%攻击。或者至少，他们已经尽了自己的职责，确保这种可能性非常有限，或者接近零！
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
