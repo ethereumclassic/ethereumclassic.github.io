@@ -20,6 +20,7 @@ function SubItem({ children, icon, ...rest }) {
 export default function ContentHeader({ mdx, i18n, pre, ...rest }) {
   const { ui, section } = useGlobals();
   const preHeader = pre || section?.header || {};
+  const globalDisclaimer = section?.globalDisclaimer;
   const articleHeader = mdx?.headings?.[0]?.value;
   const { title, date, author, updated } = mdx?.meta || i18n;
   const header = articleHeader || title;
@@ -32,7 +33,7 @@ export default function ContentHeader({ mdx, i18n, pre, ...rest }) {
     }))
     .sort((a, b) => a.name.localeCompare(b.name));
   return (
-    <>
+    <header>
       <div tw="flex" {...rest}>
         <div tw="flex-auto">
           <div tw="space-y-2">
@@ -79,11 +80,19 @@ export default function ContentHeader({ mdx, i18n, pre, ...rest }) {
           </div>
         )}
       </div>
+      {globalDisclaimer && (
+        <div
+          tw="text-xs mt-4 text-shade-light italic select-none"
+          role="presentation"
+        >
+          {ui.disclaimer}
+        </div>
+      )}
       {info && (
         <Md tw="text-sm bg-backdrop-light p-3 my-6 shadow-sm rounded-md" unwrap>
           {info}
         </Md>
       )}
-    </>
+    </header>
   );
 }

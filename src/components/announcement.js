@@ -30,16 +30,19 @@ export default function Announcement() {
     },
   } = useLocalization();
   const { basePath } = useLocaleItems();
+
   if (!announcement.enabled) {
     return null;
   }
-  if (
-    !announcement.allPages &&
-    basePath !== "" &&
-    (isDefaultLocale || !announcement.alli18nPages)
-  ) {
+
+  if (isDefaultLocale && announcement.onlyi18n) {
     return null;
   }
+
+  if (basePath !== "" && !announcement.allPages) {
+    return null;
+  }
+
   const col = palette[announcement.color || "green"];
   return (
     <div css={[tw`z-20 relative`, col.bg]}>
