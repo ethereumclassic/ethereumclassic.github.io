@@ -102,7 +102,7 @@ https://ethereumclassic.org/network/endpoints
 
 The most commonly used endpoint to access Mordor is provided by the ETC Cooperative and it is the following:
 
-https://www.ethercluster.com/mordor
+https://rpc.mordor.etccooperative.org/
 
 ## Getting Mordor Coins for Testing and Paying Transaction Fees
 
