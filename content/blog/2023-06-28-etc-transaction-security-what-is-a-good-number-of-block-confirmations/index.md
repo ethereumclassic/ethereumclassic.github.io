@@ -93,7 +93,7 @@ With this logic, we can make these calculations for different transactions value
 
 ![Transaction on the ETC blockchain.](./33.png)
 
-As we explained in our previous post, the way to check the statistics of a transaction is to use block explorers. The main block explorer for ETC is [Blockscout](https://blockscout.com/etc/mainnet).
+As explained in our previous post, the way to check the statistics of a transaction is to use a block explorer. The most commonly used block explorer for ETC is [Blockscout](https://blockscout.com/etc/mainnet).
 
 Each transaction on the ETC blockchain has a transaction ID called “transaction hash”. By entering that ID on Blockscout, you can check all its information and in one section at the top is shows the confirmation times with the tag “Confirmed by”.
 
