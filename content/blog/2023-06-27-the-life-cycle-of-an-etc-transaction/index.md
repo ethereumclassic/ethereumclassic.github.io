@@ -87,7 +87,7 @@ In an economic transaction, when sending money from one address to another in ET
 
 This is because the transaction may have been sent, but it may be uncertain when it will finally be included in the blockchain, if the sender entered the correct gas fees, if it was included in a finalized block or a stale block (also called uncle block), or if it may be reversed by a 51% attack.
 
-To know more about how calculate these risks, and when to rest assured that a transaction is final, please see our next post entitled “What Is a Good Number of Block Confirmations?” which will be published after this one!
+To learn more about calculating these risks and when to rest assured that a transaction is final, please see our next post entitled “What Is a Good Number of Block Confirmations?” which will be published after this one!
 
 ---
 
