@@ -77,7 +77,7 @@ If a transaction has very low fees or if there is a lot of traffic in the networ
 
 Once transactions are processed, users may check if they were included in the network by going to an ETC block explorer such as [Blockscout](https://blockscout.com/etc/mainnet/).
 
-In the image above you may see a sample transaction on Blockscout, the main ETC explorer. You may check it out by going to the following link:
+The image above is of a sample transaction on Blockscout, the most well-known ETC block explorer. You may check it out by clicking on the following link:
 
 https://blockscout.com/etc/mainnet/tx/0x486c889edde1857c99aa925eb48bdfe494ca7653abed7045c2ebb3b315098ece
 
