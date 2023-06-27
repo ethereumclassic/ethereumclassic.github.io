@@ -71,7 +71,7 @@ When we say above that the network “verifies and processes the transaction and
 
 When any transaction sent by a user goes through all the steps mentioned above, it will then be recorded in the blockchain forever, as said before.
 
-Transactions themselves may take between 13 seconds (one block time) to 39 seconds (three block times) to be included into the ETC blockchain if it was sent with the correct gas fees. This is because miners create blocks in ETC every 13 seconds and sometimes the full replication and inclusion of a transaction into a block may take between one to three blocks.
+Transactions themselves may take between 13 seconds (one block time) to 39 seconds (three block times) to be included in the ETC blockchain if it was sent with the correct gas fees. This is because miners create blocks in ETC every 13 seconds and sometimes the full replication and inclusion of a transaction into a block may take between one to three blocks.
 
 If a transaction has very low fees or if there is a lot of traffic in the network it may take longer.
 
