@@ -28,8 +28,8 @@ items:
         __link: https://rivet.link
         __name: ETC Cooperative
       ETC Cooperative (Mordor):
-        __rpcUrl: https://www.ethercluster.com/mordor
-        __link: https://www.ethercluster.com
+        __rpcUrl: https://rpc.mordor.etccooperative.org
+        __link: https://www.etccooperative.org
         __name: ETC Cooperative (Mordor)
       HebeBlock:
         __rpcUrl: https://etc.etcdesktop.com/
