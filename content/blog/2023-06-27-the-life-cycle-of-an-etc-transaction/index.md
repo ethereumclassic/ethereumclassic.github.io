@@ -61,7 +61,7 @@ A dapp or web3 transaction uses more steps and it calls smart contracts on the b
 When we say above that the network “verifies and processes the transaction and includes it in the blockchain forever” what we mean is that the subgroup of the network nodes which are the miners get the transactions and include them in blocks. The way they do this is as follows:
 
 1. Mempool: All the new transactions are accumulated in a pool of unprocessed transactions called the “mempool” which stands for “memory pool”
-2. Proof of Work: Miners grab as many transactions as they can wich pay the highest fees (this is why it is important to send transactions with the correct gas fees), create a batch, and then hash them cryptographically in a process called proof of work
+2. Proof of Work: Miners grab as many transactions as possible, giving preference to those that pay the highest fees. (This is why it is important to send transactions with the correct gas fees included.) A batch of transactions is created by each miner which is then hashed cryptographically in a process called proof of work
 3. Block: After doing a lot of computational work and spending a lot of electricity, they stamp the batch of transactions with a cryptographic hash and create what is called a block of transactions
 4. Network: When they have the block ready, then they immediately send it to the rest of the network for verification and full replication in all nodes of the system
 
