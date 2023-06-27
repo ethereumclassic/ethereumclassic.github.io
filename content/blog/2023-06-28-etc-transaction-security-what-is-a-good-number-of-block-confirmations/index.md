@@ -107,7 +107,7 @@ By the time you see it, it will have many more confirmations!
 
 ## Counterparty Trust
 
-Ironically, the highest value transactions may be the ones that are dependent the most on trust between the parties!
+Ironically, the highest-value transactions may be the ones that are the most dependent on trust between the parties!
 
 Many times we see mega transactions on the ETC blockchain and other networks. These may be in the hundreds of millions of dollars.
 
