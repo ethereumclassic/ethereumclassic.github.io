@@ -75,7 +75,7 @@ Transactions themselves may take between 13 seconds (one block time) to 39 secon
 
 If a transaction has very low fees or if there is a lot of traffic in the network it may take longer.
 
-Once transactions are processed, users may check if they were included into the network by going to an ETC  block explorer such as [Blockscout](https://blockscout.com/etc/mainnet/).
+Once transactions are processed, users may check if they were included in the network by going to an ETC block explorer such as [Blockscout](https://blockscout.com/etc/mainnet/).
 
 In the image above you may see a sample transaction on Blockscout, the main ETC explorer. You may check it out by going to the following link:
 
