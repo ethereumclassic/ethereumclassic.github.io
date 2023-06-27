@@ -28,7 +28,7 @@ We will consider the stage of the transaction, the possibility of more than one 
 
 ![Steps for a transaction to be included in the blockchain.](./22.png)
 
-As seen in the diagram in this section, and as explained in our previous article, an ETC transaction may go through up to seven steps before being included in a block.
+As seen in the diagram in this section and as explained in our previous article, an ETC transaction may go through up to seven steps before being included in a block.
 
 Any transaction that is not included in a block yet is insecure because it is not even entered into the history of the ledger. 
 
