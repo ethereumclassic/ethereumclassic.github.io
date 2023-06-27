@@ -16,7 +16,7 @@ linkImage: ./banner1600.png
 
 ![Transaction security.](./banner1600.png)
 
-In the [previous post](https://ethereumclassic.org/blog/2023-06-27-the-life-cycle-of-an-etc-transaction) we explained the life cycle of a transaction until it is included in the Ethereum Classic (ETC) blockchain.
+In the [previous post](https://ethereumclassic.org/blog/2023-06-27-the-life-cycle-of-an-etc-transaction) we explained the life cycle of a transaction from its creation until it is included in the Ethereum Classic (ETC) blockchain.
 
 We described how plain and dapp or web3 transactions are processed, what miners do to produce blocks to include them in the blockchain, how to know whether a transaction has been included, and we stated that usually the receivers of ETC are the ones who have to be more careful with transaction security.
 
