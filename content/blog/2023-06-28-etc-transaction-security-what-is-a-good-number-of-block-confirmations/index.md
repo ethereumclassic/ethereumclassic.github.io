@@ -103,7 +103,7 @@ You may check out the transaction in the image by going to the following link:
 
 https://blockscout.com/etc/mainnet/tx/0x486c889edde1857c99aa925eb48bdfe494ca7653abed7045c2ebb3b315098ece
 
-By the time you see it it will have many more confirmations!
+By the time you see it, it will have many more confirmations!
 
 ## Counterparty Trust
 
