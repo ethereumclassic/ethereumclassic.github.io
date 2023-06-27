@@ -20,7 +20,7 @@ In the [previous post](https://ethereumclassic.org/blog/2023-06-27-the-life-cycl
 
 We described how plain and dapp or web3 transactions are processed, what miners do to produce blocks to include them in the blockchain, how to know whether a transaction has been included, and we stated that usually the receivers of ETC are the ones who have to be more careful with transaction security.
 
-In this post, we will explain how many block confirmations are necessary to consider transactions final or secure. The main concept to understand is that transactions are more secure the more blocks are built on top of them.
+In this post, we will explain how many block confirmations are necessary for transactions to be considered final or secure. The main concept to understand is that transactions become more secure as more blocks are built on top of them.
 
 The variables we will consider are the stage in which a transaction is, the fact that sometimes there may be more than one block as candidates for the canonical chain, and determining confirmation security thresholds based on the value of transactions vs the value of blocks.
 
