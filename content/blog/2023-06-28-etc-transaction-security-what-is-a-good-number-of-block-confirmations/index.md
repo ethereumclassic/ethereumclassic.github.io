@@ -99,7 +99,7 @@ Each transaction on the ETC blockchain has a transaction ID called the “transa
 
 In the transaction in the image, for example, there have been 6,585 confirmations since that transaction was sent.
 
-You may check out this transaction in the image by going to the following link:
+You may check out the transaction in the image by going to the following link:
 
 https://blockscout.com/etc/mainnet/tx/0x486c889edde1857c99aa925eb48bdfe494ca7653abed7045c2ebb3b315098ece
 
