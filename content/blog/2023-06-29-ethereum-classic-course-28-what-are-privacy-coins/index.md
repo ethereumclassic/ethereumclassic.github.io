@@ -27,7 +27,7 @@ In the next two classes we will cover these other topics:
 
 Blockchains such as Ethereum Classic (ETC) and Bitcoin (BTC) are very transparent in the sense that all transactions, smart contracts, balances, and even the code of the software clients are public information, so anyone may audit them and check if everything is working as designed. 
 
-Privacy in these systems is given by the fact that users may control their addresses by just holding secret private keys, so their corresponding public addresses are not tied to their identities, persons, or entities. For this reason, if users are diligent in keeping the privacy of their movements on the blockchain, then a certain level of privacy is possible.
+Privacy in these systems is given by the fact that users control their addresses just by holding the addresses' secret private keys so that the corresponding public addresses are not tied to their identities, persons, or entities. For this reason, so long as users are diligent in keeping their movements on the blockchain private and unassociated with their identity, then a certain level of privacy is possible.
 
 Nevertheless, with advances in data science, the capture of information from many sources, and triangling economic transactions, it is becoming easier and more common for external observers to figure out who owns what inside these public and transparent systems.
 
