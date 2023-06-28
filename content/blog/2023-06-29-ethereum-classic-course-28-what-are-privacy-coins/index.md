@@ -79,7 +79,7 @@ The industry has over 70 networks offering privacy using the techniques mentione
 
 The combined market capitalization of this segment of the industry is $5.3 billion at the time of this writing.
 
-In the image in this section you may see the top ten privacy coins on CoinMarketCap.
+The accompanying image shows the top ten privacy coins listed on CoinMarketCap.
 
 ## Risks of Privacy Coins
 
