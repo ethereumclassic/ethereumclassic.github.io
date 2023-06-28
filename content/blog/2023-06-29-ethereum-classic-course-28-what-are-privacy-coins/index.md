@@ -53,7 +53,7 @@ After a large number of tries, if the sender perfectly answers all the questions
 
 Zcash is the cryptocurrency that has implemented this method to create a privacy blockchain. It is the second largest privacy coin in the industry with a market capitalization of $405 million at the time of this writing. 
 
-On Zcash users may opt to send private or transparent transactions.
+On Zcash, users may opt to send private or transparent transactions.
 
 ## Privacy Methods: Combined Techniques
 
