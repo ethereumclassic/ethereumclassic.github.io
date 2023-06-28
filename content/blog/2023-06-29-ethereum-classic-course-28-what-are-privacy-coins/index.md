@@ -35,7 +35,7 @@ Nevertheless, thanks to advancements in data science, the capture of information
 
 ![Privacy.](./1.png)
 
-In the context described above, and to enhance individual user security, privacy coins have made the tradeoff of reducing transparency of their systems to increase the secrecy of transactions, addresses, and balances.
+In the above context, and in order to enhance the security of individual users, privacy coins have made the tradeoff of reducing the transparency of their systems in order to increase the secrecy of transactions, addresses, and balances.
 
 Privacy coins use different methods to encrypt or hide sender addresses, amounts, and receiver addresses of transactions on their blockchains.
 
