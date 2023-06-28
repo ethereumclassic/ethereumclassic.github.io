@@ -1,3 +1,24 @@
+- date: 2023-06-28
+  title: "Etcbillboard "
+  description: |-
+    Billboard advertising , Promoting goods  and services for several advertisers with pixels in  the Ethereum Classic blockchain ✨
+    https://t.me/etcbillboard✨
+  image: ./images/230628-1956-etcbillboard.jpeg
+  type: nfts
+  author: Etcbillboard
+  authorLink: https://t.me/etcbillboard
+  links:
+    - name: Launch App
+      link: https://etcbillboard.com/
+    - icon: twitter
+      name: "Twitter "
+      link: https://twitter.com/etcbillboard?t=fBO64mIV_5hUZwNS4HXBsw&s=09
+    - icon: telegram
+      name: Telegram
+      link: https://t.me/etcbillboard
+    - icon: twitter
+      name: Twitter Etcbanner
+      link: https://twitter.com/etcbanner?t=zUlkYVwFqX0W2pmEzaseAQ&s=09
 - date: 2023-06-18
   title: ETC Prime Apes
   description: A Premium HD Art Collection of 11.1k Unique & Epic Prime Apes!
