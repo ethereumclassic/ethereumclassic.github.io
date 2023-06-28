@@ -23,7 +23,9 @@ MetaMask the the most massively used wallet in the Ethereum EVM blockchain segme
 
 Link to post: https://ethereumclassic.org/blog/2022-12-21-using-ethereum-classic-with-metamask
 
-Link to video: https://youtu.be/85xAV8jzpQQ
+Video: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/85xAV8jzpQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Using Ethereum Classic With Trust Wallet
 
@@ -31,7 +33,9 @@ Trust Wallet is widely used as well and was exclusively an Android and iOS mobil
 
 Link to post: https://ethereumclassic.org/blog/2023-02-07-using-ethereum-classic-with-trust-wallet
 
-Link to video: https://youtu.be/8rI_ADTDcGw 
+Video: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8rI_ADTDcGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
 ## Using Ethereum Classic With Ledger Nano S
 
@@ -39,7 +43,9 @@ Ledger Nano S is one of the three models of the Ledger family of hardware wallet
 
 Link to post: https://ethereumclassic.org/blog/2023-02-21-using-ethereum-classic-with-ledger-nano-s
 
-Link to video: https://youtu.be/tMLRRV_uFuQ
+Video: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tMLRRV_uFuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Using Ethereum Classic With MyCrypto
 
@@ -47,7 +53,9 @@ MyCrypto is a special kind of wallet app because it offers multiple services and
 
 Link to post: https://ethereumclassic.org/blog/2023-03-01-using-ethereum-classic-with-mycrypto
 
-Link to video: https://youtu.be/o4n6pqRyA1c
+Video: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o4n6pqRyA1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Using Ethereum Classic With MyEtherWallet
 
@@ -55,7 +63,9 @@ MyEtherWallet (MEW) features are very much the same as MyCrypto. Indeed, MEW was
 
 Link to post: https://ethereumclassic.org/blog/2023-05-23-using-ethereum-classic-with-myetherwallet
 
-Link to video: https://youtu.be/Uv0oOHj23Gs
+Video: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uv0oOHj23Gs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Using Ethereum Classic With Exodus
 
@@ -63,7 +73,9 @@ Exodus was born as a desktop wallet and now has desktop and mobile apps that sup
 
 Link to post: https://ethereumclassic.org/blog/2023-07-11-using-ethereum-classic-with-exodus
 
-Link to video: https://youtu.be/vXKem76WbD4 
+Video: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vXKem76WbD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
