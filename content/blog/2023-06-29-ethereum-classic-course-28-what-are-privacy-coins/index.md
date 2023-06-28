@@ -16,7 +16,7 @@ linkImage: ./banner.png
 
 In the previous class of the Ethereum Classic (ETC) course we explained what are stablecoins, algorithmic stablecoins in particular, how they work, and their risks. 
 
-In this class we will explain what are privacy coins, starting with what is the default privacy level in standard blockchains, what are the main methods used by privacy coins for achieving deeper privacy, and what are the risks of privacy coins.
+In this class, privacy coins will be explained starting with defining the default privacy level in standard blockchains, the main methods that are used by privacy coins for achieving deeper privacy, and the risks associated with using privacy coins.
 
 In the next two classes we will cover these other topics:
 
