@@ -83,7 +83,7 @@ The accompanying image shows the top ten privacy coins listed on CoinMarketCap.
 
 ## Risks of Privacy Coins
 
-A general risk for these coins, that is usually pointed out, is that the transparency of the traditional blockchains makes them easy to audit and reveal bugs or flaws that can subsequently be fixed, but if privacy coins hide all or part of the information, then it is impossible to audit their design, function, monetary supply, and other key metrics.
+A commonly known general risk for privacy coins is that the transparency of the traditional blockchains makes them easy to audit, revealing bugs or flaws that can subsequently be fixed, but if privacy coins hide all or part of that information, it becomes impossible to audit the design, function, monetary supply, or other key metrics of the blockchain.
 
 A risk for individual users, is that these blockchains offer privacy at the blockchain layer, but counterparties may still reveal to competitors, authorities, or any other third parties the data of their dealings.
 
