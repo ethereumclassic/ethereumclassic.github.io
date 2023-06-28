@@ -29,7 +29,7 @@ Blockchains such as Ethereum Classic (ETC) and Bitcoin (BTC) are very transparen
 
 Privacy in these systems is given by the fact that users control their addresses just by holding the addresses' secret private keys so that the corresponding public addresses are not tied to their identities, persons, or entities. For this reason, so long as users are diligent in keeping their movements on the blockchain private and unassociated with their identity, then a certain level of privacy is possible.
 
-Nevertheless, with advances in data science, the capture of information from many sources, and triangling economic transactions, it is becoming easier and more common for external observers to figure out who owns what inside these public and transparent systems.
+Nevertheless, thanks to advancements in data science, the capture of information from a variety of sources, and the triangulation of economic transactions, outside observers are finding it easier and easier to figure out who owns what within these public transparent systems.
 
 ## What Are Privacy Coins?
 
