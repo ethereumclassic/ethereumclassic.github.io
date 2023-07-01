@@ -7,7 +7,6 @@
   authorLink: https://twitter.com/etcherium
   verifiedContract: https://thirdweb.com/ethereum-classic/0x5Fd01b0b5c31AdDed91B4E32d153cB935DdA33b0
   openSource: https://thirdweb.com/ethereum-classic/0x5Fd01b0b5c31AdDed91B4E32d153cB935DdA33b0/sources
-  audit: https://thirdweb.com/ethereum-classic/0x5Fd01b0b5c31AdDed91B4E32d153cB935DdA33b0
   links:
     - name: Launch App
       link: https://etczuki.etcherium.org/
@@ -20,6 +19,9 @@
     - name: Telegram comminity
       link: https://t.me/etcgarden
       icon: telegram
+    - name: Docs
+      link: https://thirdweb.com/ethereum-classic/0x5Fd01b0b5c31AdDed91B4E32d153cB935DdA33b0
+      icon: book
 - date: 2023-06-28
   title: Etcbillboard
   description: Billboard advertising, Promoting goods and services for several advertisers with pixels in the Ethereum Classic blockchain ✨
