@@ -108,7 +108,7 @@ In the future, users will not interact with single blockchains as today when usi
 
 In this context, dapps will need decentralized websites to serve their users because any central point of failure in the value chain would defeat the whole purpose of trust minimization.
 
-## As today’s websites host their backend code, images, videos, text files, and data in centralized servers, in the future these same components will be hosted in decentralized networks, thus enabling decentralized websites, or what is called the “web3”.
+As today’s websites host their backend code, images, videos, text files, and data in centralized servers, in the future these same components will be hosted in decentralized networks, thus enabling decentralized websites, or what is called the “web3”.
 
 Some of these networks will be smart contract blockchains for the backend code; others will be file storage coins for the images, videos, and text files; and others will be specialized database storage chains.
 
