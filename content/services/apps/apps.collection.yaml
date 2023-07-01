@@ -1,7 +1,28 @@
+- date: 2023-07-01
+  title: ETCZuki Community Marketplace
+  description: Marketplace launched by community for community ETZuki NFT Project. No fees. Audited. Transparent.
+  image: ./images/230701-1355-etczuki-community-marketplace.png
+  type: nfts
+  author: Etcher
+  authorLink: https://twitter.com/etcherium
+  verifiedContract: https://thirdweb.com/ethereum-classic/0x5Fd01b0b5c31AdDed91B4E32d153cB935DdA33b0
+  openSource: https://thirdweb.com/ethereum-classic/0x5Fd01b0b5c31AdDed91B4E32d153cB935DdA33b0/sources
+  audit: https://thirdweb.com/ethereum-classic/0x5Fd01b0b5c31AdDed91B4E32d153cB935DdA33b0
+  links:
+    - name: Launch App
+      link: https://etczuki.etcherium.org/
+    - name: Marketplace Support
+      link: https://twitter.com/etcherium
+      icon: twitter
+    - name: ETCZuki project
+      link: https://etczuki.com
+      icon: link
+    - name: Telegram comminity
+      link: https://t.me/etcgarden
+      icon: telegram
 - date: 2023-06-28
   title: Etcbillboard
-  description: |-
-    Billboard advertising, Promoting goods and services for several advertisers with pixels in the Ethereum Classic blockchain ✨
+  description: Billboard advertising, Promoting goods and services for several advertisers with pixels in the Ethereum Classic blockchain ✨
   image: ./images/230628-1956-etcbillboard.jpeg
   type: nfts
   author: Etcbillboard
