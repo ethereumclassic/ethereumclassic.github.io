@@ -19,7 +19,7 @@
       icon: link
     - name: Telegram comminity
       link: https://t.me/etcgarden
-  title: ETCZuki
+- title: ETCZuki
   description: ETCZuki is an NFT project on the Ethereum Classic blockchain that offers anime-inspired, high-quality artwork. All ETCZUKI NFT’s are unique. But ETCZuki is more than just art - it's a garden where minters can connect and share their passion for NFT’s and Ethereum Classic culture.
   image: ./images/230701-0105-etczuki.jpeg
   type: nfts
