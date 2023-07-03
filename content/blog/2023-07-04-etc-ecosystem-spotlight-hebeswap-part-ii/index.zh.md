@@ -28,7 +28,7 @@ linkImage: ./banner.png
 
 ## 如何在HebeSwap上交易ETC获取HEBE
 
-1. 前往[app.hebeswap.com/#/swap](https://app.hebeswap）然后，通过点击右上角的“连接钱包”或在首页中央点击“连接钱包”按钮，将您的钱包连接到HebeSwap去中心化应用程序（dapp）。
+1. 前往 [app.hebeswap.com/#/swap](https://app.hebeswap.com/#/swap)。然后，通过点击右上角的“连接钱包”或在首页中央点击“连接钱包”按钮，将您的钱包连接到HebeSwap去中心化应用程序（dapp）。
 (Note: The provided URL is for reference only and may change. Please ensure you visit the official HebeSwap website for the most up-to-date information.)
 
 （注意：提供的URL仅供参考，可能会更改。请确保您访问官方HebeSwap网站以获取最新信息。）
