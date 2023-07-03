@@ -1,3 +1,63 @@
+- date: 2023-07-01
+  title: ETCZuki Community Marketplace
+  description: Marketplace launched by community for community ETZuki NFT Project. No fees. Audited. Transparent.
+  image: ./images/230701-1355-etczuki-community-marketplace.png
+  type: nfts
+  author: Etcher
+  authorLink: https://twitter.com/etcherium
+  verifiedContract: https://thirdweb.com/ethereum-classic/0x5Fd01b0b5c31AdDed91B4E32d153cB935DdA33b0
+  audit: https://thirdweb.com/ethereum-classic/0x5Fd01b0b5c31AdDed91B4E32d153cB935DdA33b0
+  openSource: https://thirdweb.com/ethereum-classic/0x5Fd01b0b5c31AdDed91B4E32d153cB935DdA33b0/sources
+  links:
+    - name: Launch App
+      link: https://etczuki.etcherium.org/
+    - name: Marketplace Support
+      link: https://twitter.com/etcherium
+      icon: twitter
+    - name: ETCZuki project
+      link: https://etczuki.com
+      icon: link
+    - name: Telegram comminity
+      link: https://t.me/etcgarden
+- date: 2023-07-01
+  title: ETCZuki
+  description: ETCZuki is an NFT project on the Ethereum Classic blockchain that offers anime-inspired, high-quality artwork. All ETCZUKI NFT’s are unique. But ETCZuki is more than just art - it's a garden where minters can connect and share their passion for NFT’s and Ethereum Classic culture.
+  image: ./images/230701-0105-etczuki.jpeg
+  type: nfts
+  author: ETCZuki
+  authorLink: https://etczuki.com/index.html#team
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x44b6ad1DcceC2A512088997766cC39D0cf3f5D12/contracts#address-tabs
+  links:
+    - name: Launch App
+      link: https://etczuki.com/
+    - name: Discord
+      link: https://discord.gg/zREvKfjNxs
+      icon: discord
+    - name: Twitter
+      link: https://twitter.com/etczuki
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/etczukinft
+      icon: telegram
+- date: 2023-06-28
+  title: Etcbillboard
+  description: Billboard advertising, Promoting goods and services for several advertisers with pixels in the Ethereum Classic blockchain ✨
+  image: ./images/230628-1956-etcbillboard.jpeg
+  type: nfts
+  author: Etcbillboard
+  authorLink: https://t.me/etcbillboard
+  links:
+    - name: Launch App
+      link: https://etcbillboard.com/
+    - icon: twitter
+      name: Twitter
+      link: https://twitter.com/etcbillboard
+    - icon: telegram
+      name: Telegram
+      link: https://t.me/etcbillboard
+    - icon: twitter
+      name: Twitter Etcbanner
+      link: https://twitter.com/etcbanner
 - date: 2023-06-18
   title: ETC Prime Apes
   description: A Premium HD Art Collection of 11.1k Unique & Epic Prime Apes!
