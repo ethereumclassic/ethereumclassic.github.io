@@ -1,4 +1,25 @@
 - date: 2023-07-01
+  title: ETCZuki Community Marketplace
+  description: Marketplace launched by community for community ETZuki NFT Project. No fees. Audited. Transparent.
+  image: ./images/230701-1355-etczuki-community-marketplace.png
+  type: nfts
+  author: Etcher
+  authorLink: https://twitter.com/etcherium
+  verifiedContract: https://thirdweb.com/ethereum-classic/0x5Fd01b0b5c31AdDed91B4E32d153cB935DdA33b0
+  audit: https://thirdweb.com/ethereum-classic/0x5Fd01b0b5c31AdDed91B4E32d153cB935DdA33b0
+  openSource: https://thirdweb.com/ethereum-classic/0x5Fd01b0b5c31AdDed91B4E32d153cB935DdA33b0/sources
+  links:
+    - name: Launch App
+      link: https://etczuki.etcherium.org/
+    - name: Marketplace Support
+      link: https://twitter.com/etcherium
+      icon: twitter
+    - name: ETCZuki project
+      link: https://etczuki.com
+      icon: link
+    - name: Telegram comminity
+      link: https://t.me/etcgarden
+- date: 2023-07-01
   title: ETCZuki
   description: ETCZuki is an NFT project on the Ethereum Classic blockchain that offers anime-inspired, high-quality artwork. All ETCZUKI NFT’s are unique. But ETCZuki is more than just art - it's a garden where minters can connect and share their passion for NFT’s and Ethereum Classic culture.
   image: ./images/230701-0105-etczuki.jpeg
