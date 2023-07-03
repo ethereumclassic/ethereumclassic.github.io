@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Course: 29. What Are Decentralized Finance (DeFi) Coins?"
+title: "以太经典课程：29. 什么是去中心化金融（DeFi）代币？"
 date: 2023-07-06
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x3YzWOhs1uE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,74 +16,74 @@ linkImage: ./banner.png
 
 ![DeFi coins.](./1.png)
 
-In the previous class of the Ethereum Classic (ETC) course we explained what are privacy coins, starting with what is the default privacy level in standard blockchains, what are the main methods used by privacy coins for achieving deeper privacy, and what are the risks of privacy coins. 
+在以太经典（ETC）课程的上一堂课中，我们解释了什么是隐私币，从标准区块链的默认隐私级别开始，介绍了隐私币实现更深层隐私的主要方法，以及隐私币的风险。
 
-In this class we will explain what are decentralized finance (DeFi) coins, starting with what is DeFi, what are DeFi coins themselves, the categories of DeFi tokens, examples of DeFi tokens, what is the segment’s market capitalization, and what are the risks of DeFi tokens.
+在本节课中，我们将解释什么是去中心化金融（DeFi）代币，从什么是DeFi开始，介绍DeFi代币本身，DeFi代币的分类，DeFi代币的示例，该领域的市值以及DeFi代币的风险。
 
-In the next class #30, we will cover what are file storage coins
+在接下来的第30节课中，我们将介绍文件存储币是什么。
 
-## What Is DeFi?
+## 什么是DeFi？
 
-Traditional financial services such as banks, brokers, insurance companies, mutual fund companies, credit cards, and payment systems are centralized because they hold our money and are the central counterparties of our financial contracts, such as deposits, loans, insurance, and investment management. These types of services may be called “CeFi” for “centralized finance”.
+传统金融服务如银行、券商、保险公司、共同基金公司、信用卡和支付系统都是集中化的，因为它们持有我们的资金并且是我们金融合同的中央交易对手，例如存款、贷款、保险和投资管理。这些类型的服务可以称为“CeFi”（中心化金融）。
 
-“DeFi” stands for “decentralized finance” and are represented by software programmes inside programmable blockchains such as Ethereum Classic (ETC). 
+“DeFi”代表“去中心化金融”，并且通过可编程区块链（如以太经典ETC）中的软件程序来实现。
 
-These software programmes are created to replace all functions of finance; from banking, to insurance, to trading, to investing; and as they are inside ETC, they are decentralized and trust minimized. 
+这些软件程序被创建来取代金融的各个方面，包括银行、保险、交易和投资等。由于它们位于ETC内部，它们是去中心化的，信任程度降低。
 
-The idea of DeFi is to achieve a level to decentralization where there is no group, special interest, or trusted third party that may tamper or restrict access to users’ money or financial products.
+DeFi的理念是实现去中心化的程度，使得没有任何团体、特殊利益或可信任的第三方可以篡改或限制用户的资金或金融产品的访问。
 
-## What Are DeFi Coins?
+## 什么是DeFi代币？
 
-As developers have been building many kinds of protocols that mimic financial services but in an autonomous way inside blockchains such as ETC, they found ways to finance their work, decide how to coordinate and upgrade their systems, and make other kinds of technical decisions with regards to the underlying financial products.
+随着开发者在以太经典等区块链内构建了许多模拟金融服务的协议，他们找到了一种方法来融资、决定如何协调和升级系统，并对基础金融产品进行其他类型的技术决策。
 
-The main method that is used to conduct all these kinds of processes is to issue tokens that are linked to the various DeFi decentralized applications (dapps). These tokens are bought by the public to finance the developer teams, and holders may receive several benefits. 
+用于进行所有这些过程的主要方法是发行与各种DeFi去中心化应用（dapp）相关联的代币。这些代币被公众购买以资助开发团队，并且持有者可能获得多种收益。
 
-Many times the tokens earn an interest or dividend, or “passive income” as it has been referred to, as the underlying applications charge fees to users. Another benefit is that token holders may vote on protocol upgrades proposed by the developer teams. In other cases, in protocols that need financial parameter decisions, such as algorithmic stablecoins, users may vote on margin levels and other product safety policies. 
+通常，这些代币会产生利息或股息，也被称为“被动收入”，因为底层应用向用户收取费用。另一个好处是代币持有者可以对开发团队提出的协议升级进行投票。在其他情况下，在需要金融参数决策（如算法稳定币）的协议中，用户可以对保证金水平和其他产品安全策略进行投票。
 
-## DeFi Token Categories
+## DeFi代币的类别
 
-There are two main categories of DeFi tokens:
+DeFi代币主要分为两大类别：
 
-**Dapp DAO tokens:** These are ERC-20 tokens issued by a decentralized autonomous organization (DAO), so that they may have more functions other than just transferable and fungible units of value. When a dapp is linked to a DAO, holders of the tokens may earn interest, vote through the DAO to govern the protocol, or make decisions on parameters of the underlying DeFi services.
+**Dapp DAO代币:** 这些是由去中心化自治组织（DAO）发行的ERC-20代币，因此它们可能具有除了可转移和互换的价值单位之外的更多功能。当一个dapp与DAO相连时，代币持有者可以通过DAO赚取利息，在协议治理方面进行投票，或者对基础DeFi服务的参数进行决策。
 
-**Dapp tokens:** These are ERC-20 tokens issued without any connection to a DAO, so they are just plain ERC-20 tokens that serve as units of value that are transferable. However, these may receive interest or dividends, or may have special features such as new issuance or burn schedules.
+**Dapp代币:** 这些是没有与DAO任何关联的ERC-20代币，因此它们只是作为可转移的价值单位的普通ERC-20代币。然而，这些代币可能会获得利息或股息，或者具有特殊功能，如新发行或销毁计划。
 
-DeFi dapps such as decentralized exchanges (DEXs), complex algorithmic stablecoins, and even staking pools have used either dapp DAO tokens or plain dapp tokens to finance their development, decide upgrades, or set product parameters. 
+DeFi dapp，如去中心化交易所（DEX）、复杂的算法稳定币，甚至质押池，都使用了dapp DAO代币或普通的dapp代币来融资开发、决定升级或设置产品参数。
 
-## DeFi Token Examples
+## DeFi代币示例
 
-We present below four DeFi token examples that have used dapp DAOs or plain dapp tokens:
+以下是四个使用dapp DAO或普通dapp代币的DeFi代币示例：
 
-**Uniswap:** Uniswap (UNI) is the largest DeFi dapp DAO token in the market valued at $2.8 billion at the time of this writing. It is used to make decisions as to upgrades of the DEX platform, to provide liquidity to liquidity pools, and it receives dividends from fees that are charged to users.
+**Uniswap:** Uniswap（UNI）是市场上最大的DeFi dapp DAO代币，根据本文撰写时的估值为28亿美元。它用于决策DEX平台的升级，为流动性池提供流动性，并从向用户收取的费用中获得股息。
 
-**Maker DAO:** Maker DAO (MKR) has a market capitalization of $697 million at the time of this writing and is the token that is used to govern and manage the risk of the algorithmic stablecoin Dai. The Maker DAO token is used to vote on protocol upgrades, it receives dividends from fees charged to Dai users, and is used to decide safety parameters of the crypto assets that back Dai, such as margin levels and what crypto assets are acceptable as collateral.
+**Maker DAO:** Maker DAO（MKR）根据本文撰写时的市值为6.97亿美元，是用于治理和管理算法稳定币Dai风险的代币。Maker DAO代币用于对协议升级进行投票，从向Dai用户收取的费用中获得股息，并用于决定支持Dai的加密资产的安全参数，如保证金水平和可接受的加密资产作为抵押品。
 
-**Lido DAO:** Lido DAO (LDO) has a market capitalization of $1.69 billion at the time of this writing. It serves as the governance token for the Lido staking pool that operates on Ethereum and other proof of stake blockchains. LDO holders vote on pool upgrades, board adjustments, and receive dividends from the protocol. It also has economic value as users may stake it on the Lido platform to receive rewards and use it to pay for fees.
+**Lido DAO:** Lido DAO（LDO）根据本文撰写时的市值为16.9亿美元。它是在以太坊和其他权益证明区块链上运行的Lido质押池的治理代币。LDO持有者对质押池升级和理事会调整进行投票，并从协议中获得股息。它还具有经济价值，因为用户可以在Lido平台上质押它以获得奖励并用于支付费用。
 
-**Hebe:** HEBE is a plain token that was issued by HebeBlock, the team that built and deployed the HebeSwap DEX on ETC and other dapps. As it is a plain token, it is used to finance the HebeBlock team, to provide liquidity in the DEX, and it receives an interest from fees charged to users. However, it does not have voting capabilities yet, but the HebeBlock team have plans to migrate HEBE to a full DAO token so users may vote on upgrades and other important issues on their platform. 
+**Hebe:** HEBE是由HebeBlock发行的普通代币，HebeBlock团队在ETC和其他dapp上构建和部署了HebeSwap DEX。作为普通代币，它用于为HebeBlock团队提供资金，为DEX提供流动性，并从向用户收取的费用中获得利息。然而，它目前没有投票功能，但HebeBlock团队计划将HEBE迁移到完整的DAO代币，以便用户可以对其平台的升级和其他重要问题进行投票。
 
-## DeFi Coins Market Capitalization
+## DeFi代币的市值
 
-![DeFi market capitalization.](./2.png)
+![DeFi代币的市值](./2.png)
 
-In the image in this section we show the top fifteen DeFi tokens by market capitalization from the [Messari](https://messari.io/screener/defi-assets-7EE8EDB1) research service.
+在本节的图片中，我们展示了由[Messari](https://messari.io/screener/defi-assets-7EE8EDB1)研究服务提供的市值排名前15的DeFi代币。
 
-The platform tracks 165 DeFi tokens.
+该平台跟踪了165个DeFi代币。
 
-The total market capitalization of this list is around $15 billion at the time of this writing.
+这个列表的总市值在撰写本文时约为150亿美元。
 
-## Risks of DeFi Tokens
+## DeFi代币的风险
 
-There are three main risks of DeFi tokens are as follows:
+DeFi代币存在以下三个主要风险：
 
-**Fraud:** One of the issues that has plagued the DeFi industry, as many hackers and dishonest developers have done, is that they promise the launch of a DeFi protocol, especially in alternative chains such as Binance Smart Chain, Cardano, or Avalanche, they receive the funding from the public, but then they shut down and disappear stealing the money, creating what is commonly called a “rug pull”. 
+**欺诈风险:** DeFi行业一直面临的问题之一是欺诈，许多黑客和不诚实的开发者承诺推出DeFi协议，尤其是在Binance Smart Chain、Cardano或Avalanche等替代链上，他们从公众那里获得资金，然后关闭并消失，窃取资金，形成了通常所说的“抢跑”。
 
-**Centralization:** As these dapps are deployed on trust minimized blockchains such as ETC, they give the impression of security and decentralization, but when they are “governed” by a set of investors that vote through the DeFi tokens, then these systems may be prone to centralization overtime. Another risk vector is that the protocols themselves may have centralization features such as ID filters and KYC rules embedded in them, even if they are inside blockchains.
+**中心化风险:** 尽管这些dapp部署在诸如ETC等信任最小化的区块链上，给人们带来了安全和去中心化的印象，但当它们由一组通过DeFi代币进行投票的投资者“治理”时，这些系统可能会随着时间的推移倾向于中心化。另一个风险因素是这些协议本身可能具有中心化特征，例如嵌入其中的身份过滤器和KYC规则，即使它们存在于区块链中。
 
-**Classification as securities:** As regulators around the world grapple with fraud, market volatility, and consumer losses, especially during bear markets, they are increasing their pressure to regulate and control DeFi protocols and their tokens. One of the risks of this is that they may be classified as securities, which would significantly reduce their scope as to where they trade, what entities may broker them, how they have to be registered and distributed, who may buy them, and in which jurisdictions. All these measures may cause the tokens to plummet in value as their markets get restricted by bureaucracy.
+**被归类为证券:** 随着全球监管机构应对欺诈、市场波动和消费者损失的问题，尤其是在熊市期间，它们正在加大对DeFi协议及其代币的监管和控制力度。其中一个风险是它们可能被归类为证券，这将大大限制它们的交易范围、可以进行经纪的实体、必须如何注册和分发、谁可以购买以及在哪些司法管辖区内。所有这些措施可能导致代币的价值暴跌，因为市场受到官僚主义的限制。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
