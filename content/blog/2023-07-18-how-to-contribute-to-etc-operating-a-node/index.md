@@ -101,11 +101,11 @@ https://github.com/etclabscore/core-geth/releases
 
 Once you download it, you must go to the command line of your machine (below I am showing the example on my Mac) and type the following command to start Core-Geth pointing to Ethereum Classic:
 
-'''
+```
 /Users/donaldmcintyre/Desktop/geth --classic
-'''
+```
 
-Because Core-Geth is a downstream client to Geth, which is the Ethereum client, then it starts pointing to Ethereum by default. This is why ETC node operators must add the '''--classic''' string to run their nodes.
+Because Core-Geth is a downstream client to Geth, which is the Ethereum client, then it starts pointing to Ethereum by default. This is why ETC node operators must add the ```--classic``` string to run their nodes.
 
 ## Operating a Node: DappNode
 
