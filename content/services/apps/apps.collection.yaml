@@ -1,3 +1,24 @@
+- date: 2023-07-05
+  title: ETCMC DAO MEMBERSHIP
+  description: |-
+    The ETCMC DAO membership mint site.
+    Mint your membership NFT's and help to build the ETC network.
+  image: ./images/230705-2003-etcmc-dao-membership.png
+  type: nfts
+  author: Seth Mccormack
+  authorLink: https://www.etcmc.org/
+  verifiedContract: https://blockscout.com/etc/mainnet/token/0x1D606b6490510bBEbcADb256041dC50975C5E43D
+  openSource: https://blockscout.com/etc/mainnet/address/0x1D606b6490510bBEbcADb256041dC50975C5E43D/contracts#address-tabs
+  ipfsFrontend: https://white-determined-jaguar-140.mypinata.cloud/ipfs/QmWUiqS3GABXWHmEg2uFVYxBqKNs2z2TKHBxT3u26KDUUV
+  links:
+    - name: Launch App
+      link: https://etcmc-membership-mint.netlify.app/
+    - name: ETCMC Twitter account
+      link: https://twitter.com/ETCMC777
+      icon: link
+    - name: ETCMC Telegram
+      link: https://t.me/+tZVSbPGAaWM1YTFk
+      icon: link
 - date: 2023-07-01
   title: ETCZuki Community Marketplace
   description: Marketplace launched by community for community ETZuki NFT Project. No fees. Audited. Transparent.
