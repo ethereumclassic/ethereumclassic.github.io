@@ -25,6 +25,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       audit: String
       testSuite: String
       ipfsFrontend: String
+      image: File @fileByRelativePath
     }
     
     type AppLinks {
