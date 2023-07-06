@@ -1,7 +1,8 @@
 - date: 2023-07-05
   title: ETCMC DAO MEMBERSHIP
-  description: |-
+  description: |
     The ETCMC DAO membership mint site.
+
     Mint your membership NFTs and help to build the ETC network.
   image: ./images/230705-2003-etcmc-dao-membership.png
   type: nfts
