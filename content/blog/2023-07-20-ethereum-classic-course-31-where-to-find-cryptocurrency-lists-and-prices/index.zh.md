@@ -99,7 +99,9 @@ In my iOS CoinGecko app, as may be seen in the image in this section, I also lis
 
 The tokens in the list include the symbols, their latest price, the 24 hour change, the market capitalization, and their rank in the CoinGecko global list.
 
-## Messari has around 700 thousand visits per month, but it is a much more advanced research product than CoinMarketCap or CoinGecko.
+## Messari
+
+Messari has around 700 thousand visits per month, but it is a much more advanced research product than CoinMarketCap or CoinGecko.
 
 ![Messari](./8.png)
 
