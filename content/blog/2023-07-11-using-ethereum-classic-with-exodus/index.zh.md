@@ -1,5 +1,5 @@
 ---
-title: "通过Exodus适用以太坊经典"
+title: "通过Exodus使用以太坊经典"
 date: 2023-07-11
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
