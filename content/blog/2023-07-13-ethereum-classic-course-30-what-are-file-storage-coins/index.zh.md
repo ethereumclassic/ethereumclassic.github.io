@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Course: 30. What Are File Storage Coins?"
+title: "以太经典课程：30. 什么是文件存储币？"
 date: 2023-07-13
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,126 +8,126 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**欢迎由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xk3Uw1AM1M0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-![File storage coins.](./1.png)
+![w文件储存币](./1.png)
 
-In the previous class of the Ethereum Classic (ETC) course we explained what are decentralized finance (DeFi) coins, starting with what is DeFi, what are DeFi coins themselves, the categories of DeFi tokens, examples of DeFi tokens, what is the segment’s market capitalization, and what are the risks of DeFi tokens.
+在以太经典（ETC）课程的上一堂课中，我们解释了去中心化金融（DeFi）币是什么，从什么是DeFi开始，什么是DeFi币本身，DeFi代币的分类，DeFi代币的示例，该领域的市值以及DeFi代币的风险。
 
-In this class we will explain what are file storage coins, starting with what are file storage networks, then what is the IPFS network and protocol, what are file storage coins themselves, examples of file storage coins, what is the sector’s market capitalization, what are the uses of file storage coins for the web3, and what are the risks of file storage coins.
+在本节课中，我们将解释文件存储币是什么，从什么是文件存储网络开始，然后是IPFS网络和协议是什么，什么是文件存储币本身，文件存储币的示例，该领域的市值，文件存储币在web3中的用途，以及文件存储币的风险。
 
-This is the last class of this segment of the course that explains the different categories of coins in the blockchain industry.
+这是课程的这一部分中解释区块链行业中不同币种类别的最后一堂课。
 
-## What Are File Storage Networks?
+## 什么是文件存储网络？
 
-As we have learned in this course, the blockchain industry has several types of networks which focus on different solutions and niches. For example, we have learned about simple networks with native cryptocurrencies, accounts, and balances; programmable cryptocurrencies, which host smart contracts; and others such as ERC-20 tokens, stablecoins, privacy coins, and DeFi coins.
+正如我们在这门课程中学到的，区块链行业有几种类型的网络，专注于不同的解决方案和领域。例如，我们学到了具有本机加密货币、账户和余额的简单网络；支持智能合约的可编程加密货币；以及其他类型，如ERC-20代币、稳定币、隐私币和DeFi币。
 
-File storage networks are another big segment in the market. These systems are usually a combination of a network of peers that provide disk space to store files for users, and a blockchain with a ledger that serves as a payments system for the different functions in their corresponding networks.
+文件存储网络是市场上的另一个重要领域。这些系统通常是由提供磁盘空间存储用户文件的节点网络和具有账本功能的区块链组成，后者作为其相应网络中不同功能的支付系统。
 
-In essence, these technologies seek to disintermediate the big centralized global cloud services such as AWS, Google Cloud, Microsoft Azure, IBM Cloud, etc.
+从本质上讲，这些技术旨在去中心化大型全球云服务，如AWS、谷歌云、微软Azure、IBM云等。
 
-## What Is IPFS?
+## 什么是IPFS？
 
 ![IPFS.](./2.png)
 
-IPFS is a peer-to-peer content addressed network and protocol where content units, which are stored in many nodes, have unique addresses, instead of addresses belonging to whole websites as in the traditional internet. For example, instead of “HTTP” addresses for entire websites, content unit addresses have “IPFS” addresses plus a hash, so each image, video, and file has its own address on the internet. 
+IPFS是一个点对点的内容寻址网络和协议，其中内容单元存储在许多节点中，并具有独特的地址，而不是像传统互联网中的整个网站一样具有地址。例如，与整个网站的“HTTP”地址不同，内容单元的地址具有“IPFS”地址加上哈希值，因此每个图像、视频和文件在互联网上都有自己的地址。
 
-The way this decentralized protocol hosts files is by breaking them down into chunks, and each chunk may be stored in different machines in the network. Yes, each chunk has its own address!
+这种去中心化协议托管文件的方式是将文件分成块，并且每个块可以存储在网络中的不同机器上。是的，每个块都有自己的地址！
 
-Routing to find content chunks and then putting them together as the original file is done through a distributed hash table (DHT) that participating nodes in the system update frequently.
+通过分布式哈希表（DHT）进行内容块的路由查找，并将它们组合为原始文件。系统中的参与节点频繁更新。
 
-The protocol is like an opt-in system, so not all of participating nodes have the obligation to upload, download, and share content. If users run the IPFS software in their computers, they may upload content, and when they retrieve content they may or may not opt to be file storage services for those content units. However, many do.
+该协议类似于一种自愿加入的系统，因此并非所有参与节点都有义务上传、下载和共享内容。如果用户在其计算机上运行IPFS软件，他们可以上传内容，并且在检索内容时可以选择是否成为这些内容单元的文件存储服务。然而，很多人都这样做。
 
-## What Are File Storage Coins?
+## 什么是文件存储币？
 
-As mentioned before, file storage blockchains are usually a combination of a network of peers that provides storage space through a file sharing protocol as IPFS, and a blockchain with a ledger that serves as a payments system to compensate these providers.
+如前所述，文件存储区块链通常是由一个节点网络和一个提供支付系统以补偿这些提供者的账本的区块链组成，通过IPFS等文件共享协议提供存储空间。
 
-Therefore, the file storage cryptocurrency itself is hosted on the blockchain side of the system. In some file storage networks the coin is used to pay each time a file is stored in the network. In others it is used to pay each time a file is downloaded.
+因此，文件存储加密货币本身托管在系统的区块链侧。在一些文件存储网络中，该币种用于每次存储文件时支付费用。在其他情况下，它用于每次下载文件时支付费用。
 
-The economic value of file storage coins is that they are demanded by users to pay for decentralized file storage services. The idea is that with a cryptocurrency and payment mechanism, storage providers will be more incentivized to hold files and service the network efficiently. 
+文件存储币的经济价值在于用户需求，用于支付去中心化文件存储服务的费用。其想法是通过加密货币和支付机制，存储提供者将更有动力保持文件并有效地为网络提供服务。
 
-The typical players in these systems are users, who store and retrieve files, storage providers, who provide their disk space to the network, and retrieval providers, who search and make popular files available more widely.
+这些系统中的典型参与者是用户，他们存储和检索文件；存储提供者，他们为网络提供他们的磁盘空间；以及检索提供者，他们搜索并使更广泛地可用的文件更受欢迎。
 
-## Examples of File Storage Coins: Filecoin
+## 文件存储币示例：Filecoin
 
 ![Filecoin.](./3.png)
 
-Filecoin is a blockchain that uses the IPFS protocol for file storage and has a ledger with the “FIL” coin that is used to pay for providers. It has three main types of users: Content users and uploaders, storage providers, and retrieval providers.
+Filecoin是一种使用IPFS协议进行文件存储的区块链，并使用“FIL”币作为支付提供者的货币。它有三种主要类型的用户：内容使用者和上传者、存储提供者和检索提供者。
 
-Storage providers are IPFS protocol nodes, but they actually get paid in FIL by users to store their files. IPFS and Filecoin are two different networks that use the IPFS protocol (IPFS just happens to have the same name because it was started by the same founder who started Filecoin).
+存储提供者是IPFS协议节点，但实际上他们通过FIL收取用户的费用来存储其文件。IPFS和Filecoin是两个不同的网络，它们使用IPFS协议（IPFS之所以有相同的名称，是因为它是由Filecoin的创始人创办的）。
 
-Storage providers must inform with a certain frequency to the peer-to-peer network of the integrity of the data they store as a proof of storage. Content users are the ones who use the network to store their data. Retrieval providers are like brokers that get paid to be in touch with users and retrieve from storage providers the most popular content units to deliver them faster to users.
+存储提供者必须定期向点对点网络提供他们存储的数据的完整性作为存储证明。内容使用者是使用网络来存储他们的数据的人。检索提供者类似于经纪人，他们获得报酬与用户保持联系，并从存储提供者那里检索最受欢迎的内容单元，以更快地交付给用户。
 
-In essence Filecoin is like a marketplace where data storage around the world is put for sale and the protocol acts as the pricing and payment system where users compensate storage and retrieval providers for their content to be stored and delivered efficiently. 
+实质上，Filecoin就像一个市场，全球的数据存储都放在销售中，协议充当定价和支付系统，用户为存储和检索提供者支付费用，以使其内容得到有效的存储和交付。
 
-Storage providers gain reputation the more they prove they can do their job correctly.
+存储提供者通过证明他们可以正确执行工作来获得声誉。
 
-The current market capitalization of FIL at the time of this writing is $1.70 billion.
+截至撰写本文时，FIL的当前市值为17亿美元。
 
-## Examples of File Storage Coins: Bittorrent
+## 文件存储币示例：BitTorrent
 
 ![BitTorrent.](./4.png)
 
-BitTorrent is a pioneering file sharing protocol and network that started in the early 2000s. It was acquired by the TRON Foundation in 2018 to integrate the “BTT” token to its ecosystem with the goal of creating a decentralized file sharing system for web3 and streaming services.
+BitTorrent是一种先进的文件共享协议和网络，始于2000年代初。它于2018年被TRON基金会收购，并将“BTT”代币整合到其生态系统中，旨在为web3和流媒体服务创建一个去中心化的文件共享系统。
 
-It is similar to Filecoin in that it is a content addressed network, and content units are broken up in chunks and stored in many peers in the system. BTT is the token that is used in this case. 
+它与Filecoin类似，是一个内容寻址网络，内容单元被分割成块并存储在系统中的多个节点中。在这种情况下，使用的代币是BTT。
 
-Users pay storage providers so that their files may be downloaded faster. 
+用户支付存储提供者以使其文件能够更快地下载。
 
-A “torrent” is a group of chunks of data that, together, compose a single content unit, these are the ones that are distributed and stored in the network. 
+“Torrent”是由数据块组成的数据组，它们一起构成一个单一的内容单元，这些数据块是分布和存储在网络中的。
 
-“Seeding” is the act of holding data and sharing it for the rest of the network. Basically, when users download data, such as movies or other files, they automatically turn into seeds of those files.
+“Seeding”是保留数据并与网络其他部分共享的行为。基本上，当用户下载电影或其他文件等数据时，它们自动转变为这些文件的种子。
 
-A “swarm” is a group of machines that hold chunks of a single content unit, and when they are uploading the chunks, they act like a swarm that collectively provides the data. 
+“Swarm”是一组持有单个内容单元块的机器，当它们上传块时，它们就像一个集体提供数据的群体。
 
-BTT is actually a TRC-20 token that is booked in the TRON blockchain, so Bittorrent does not actually have an independent distributed ledger with accounts and balances, but uses TRON.
+BTT实际上是TRON区块链中的一种TRC-20代币，因此Bittorrent实际上没有独立的分布式账本，没有账户和余额，而是使用TRON。
 
-The current market capitalization of BTT at the time of this writing is $444 million.
+截至撰写本文时，BTT的当前市值为4.44亿美元。
 
-## Market Capitalization of the File Storage Segment
+## 文件存储领域的市值
 
-![File storage coins market capitalization.](./5.png)
+![文件存储领域的市值](./5.png)
 
-At the time of this writing the market capitalization of the file storage segment in the blockchain industry is $2.14 billion, according to Messari.
+撰写本文时，据Messari统计，区块链行业中文件存储领域的市值为21.4亿美元。
 
-Link: 
+链接：
 
 https://messari.io/screener/file-storage-A75CCE80
 
-Filecoin and BitTorrent are the largest and most well known coins in the sector.
+Filecoin和BitTorrent是该领域最大且最知名的币种。
 
-## Uses for Web3
+## 用于Web3的用途
 
-As we will see in the next 8 classes of the Ethereum Classic course, the blockchain industry will be divided in layers and many components will exist in each layer. These layers will be organized by security vs scalability degrees where the most secure but less scalable proof of work coins will constitute the base layer, and the rest of the more scalable but less secure systems, including proof of stake, will exist on top of the security layer.
+正如我们将在接下来的8节《Ethereum Classic课程》中所看到的，区块链行业将被划分为不同的层级，并且每个层级中都会存在许多组件。这些层级将根据安全性和可扩展性的程度进行组织，其中最安全但可扩展性较低的工作量证明币将构成基础层级，而其他可扩展性更高但安全性较低的系统，包括权益证明，将存在于安全层级之上。
 
-In the future, users will not interact with single blockchains as today when using dapps or executing transactions. Transactions will cross multiple chains, so user facing wallets and dapps will use the best services from each one.
+在未来，用户在使用去中心化应用程序（dapps）或执行交易时将不再与单个区块链进行交互。交易将跨越多个链，因此面向用户的钱包和dapps将使用每个链条中最好的服务。
 
-In this context, dapps will need decentralized websites to serve their users because any central point of failure in the value chain would defeat the whole purpose of trust minimization.
+在这种情况下，dapps将需要去中心化的网站来为其用户提供服务，因为价值链中的任何中心化故障都将破坏信任最小化的整个目标。
 
-As today’s websites host their backend code, images, videos, text files, and data in centralized servers, in the future these same components will be hosted in decentralized networks, thus enabling decentralized websites, or what is called the “web3”.
+如今的网站将其后端代码、图像、视频、文本文件和数据托管在集中式服务器中，而在未来，这些相同的组件将托管在去中心化网络中，从而实现去中心化网站，或称为“web3”。
 
-Some of these networks will be smart contract blockchains for the backend code; others will be file storage coins for the images, videos, and text files; and others will be specialized database storage chains.
+其中一些网络将用于托管后端代码的智能合约区块链，另一些将用于存储图像、视频和文本文件的文件存储币，而另一些将用于专用数据库存储链。
 
-The combination of all these components, plus the many more types of blockchains that exist, will create for the end user the full experience of the web as we know it today, but much more secure. 
+所有这些组件的组合，以及其他更多类型的区块链，将为最终用户提供与今天所知的Web相同的完整体验，但安全性更高。
 
-Web3 is a term that comes after the static web1 of the 90s, and the social media centered web2 of the 2000s.
+Web3是继90年代的静态Web1和2000年代以社交媒体为中心的Web2之后出现的一个术语。
 
-## Risks of File Storage Coins
+## 文件存储币的风险
 
-However, even though file storage networks and coins use decentralized ledgers and peer-to-peer protocols to manage large amounts of data, this does not mean that they are completely decentralized.
+然而，尽管文件存储网络和币使用去中心化账本和点对点协议来管理大量数据，但这并不意味着它们完全去中心化。
 
-The file storage protocols side of these networks are just peer-to-peer file systems where the files are not actually stored in all the nodes, but just those who want to store them as they expect to get paid for serving them. 
+这些网络中的文件存储协议只是点对点文件系统，实际上并不是所有节点都存储文件，而只有那些希望存储文件并期望得到报酬的节点才会存储。
 
-On the other hand, the decentralized ledgers that hold the accounts and balances of the file storage coins and conduct the payments for file storage providers are all proof of stake or proof of authority systems. These are much less secure that proof of work networks.
+另一方面，用于保存文件存储币的账户和余额以及为文件存储提供者进行支付的去中心化账本均为权益证明或授权证明系统。这些系统的安全性远远低于工作量证明网络。
 
-Although file storage systems are a huge leap forward in trust minimization, they still need to improve to serve the future web3 in a truly decentralized way.
+尽管文件存储系统在信任最小化方面取得了巨大进展，但它们仍然需要改进，以真正去中心化的方式为未来的Web3服务。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
