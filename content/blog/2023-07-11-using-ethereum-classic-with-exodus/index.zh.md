@@ -1,5 +1,5 @@
 ---
-title: "Using Ethereum Classic With Exodus"
+title: "通过Exodus适用以太坊经典"
 date: 2023-07-11
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vXKem76WbD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,236 +16,235 @@ linkImage: ./banner.png
 
 ![](banner.png)
 
-In this article we will guide you through the installation and general use of Ethereum Classic (ETC) with the Exodus wallet for desktop.
+在本文中，我们将指导您如何在桌面上使用Exodus钱包安装和使用以太经典（ETC）。
 
-## Download and Install Exodus for Desktop
+## 下载并安装桌面版Exodus
 
-1. The first thing you need to do is go to https://www.exodus.com/download and download the Exodus package for your computer. 
+1. 首先，您需要访问 https://www.exodus.com/download 并下载适用于您的计算机的Exodus软件包。
 
-In our case we selected Exodus for Mac.
+在我们的情况下，我们选择了Mac版的Exodus。
 
 ![](1.png)
 
-2. Once installed, when you open Exodus, the first thing you will see is the portfolio screen with some initial steps to follow and offers. Before doing anything, the best practice is to back up your Exodus wallet.
+2. 安装完成后，打开Exodus时，您将首先看到投资组合界面以及一些初始步骤和优惠。在进行任何操作之前，最佳实践是备份您的Exodus钱包。
 
 ![](1-1.png)
 
-## Backing Up Your Exodus Wallet
+## 备份您的Exodus钱包
 
-1. To back up your Exodus wallet, click on the “Settings” menu at the top right corner of the screen.
+1. 要备份Exodus钱包，请单击屏幕右上角的“设置”菜单。
 
 ![](2.png)
 
-2. In the next step, click on the “Backup” tab on the top horizontal menu. 
+2. 在下一步中，点击顶部水平菜单上的“备份”选项卡。
 
 ![](3.png)
 
-3. In the next step, enter a strong password which will be the global password for your Exodus wallet. This password will be requested for many steps that require security when using the wallet.
+3. 在接下来的步骤中，设置一个强密码，该密码将成为您的Exodus钱包的全局密码。在使用钱包时，许多需要安全性的步骤都会要求输入此密码。
 
-To continue, press “NEXT”.
+继续请点击下一步“NEXT”.
 
 ![](4.png)
 
-4. In the next screen, Exodus will ask you to enter your password again to confirm it. Once this is done, press on “NEXT”.
+4. 在下一个界面中，Exodus将要求您再次输入密码以确认。完成后，点击“下一步”。
 
 ![](5.png)
 
-5. In the next screen, Exodus will give you some important security recommendations which you need to follow. To reveal your 12 word secret passphrase so you may back it up, press on the “VIEW SECRET PHRASE” button.
-
+5. 在下一个界面中，Exodus将给出一些重要的安全建议，您需要遵循这些建议。为了查看您的12个单词秘密密码短语以备份它，点击“查看秘密短语”按钮。
+   
 ![](6.png)
 
-6. In the next screen, you will be able to roll over on each of the words to reveal them. As you go seeing them, write them down on paper in the same exact order and make sure not to make any spelling mistakes. 
-
-Once you copied them, press “DONE” to continue.
+6. 在下一个界面中，您将能够将鼠标悬停在每个单词上以显示它们。当您看到它们时，按照完全相同的顺序将它们写在纸上，确保不出现任何拼写错误。
+复制完成后，点击“完成”继续。
 
 ![](7.png)
 
-7. In the next step, Exodus will check if you wrote the 12 word secret phrase correctly. For this it will ask you the order of a random word in your list. In our case, it asked which was the 11th word, which we answered it was “math”. When you answer yours, then press “DONE”.
+7. 在下一步中，Exodus将检查您是否正确地写下了12个单词的秘密短语。为此，它将要求您列出列表中的一个随机单词的顺序。在我们的情况下，它要求我们回答第11个单词是什么，我们回答是“math”。当您回答完毕后，点击“完成”。
 
 ![](8.png)
 
-8. In the next screen, Exodus will confirm that your backup is complete. Now you can go back to the portfolio home by clicking on the wallet logo on the top left corner.
+8. 在下一个界面中，Exodus将确认您的备份已完成。现在，您可以通过点击左上角的钱包标志返回投资组合主页。
 
 ![](8-1.png)
 
-## Enable Ethereum Classic on Exodus Wallet
+## 在Exodus钱包上启用以太经典（ETC）
 
-1. Once back on the home of Exodus, to enable ETC as an asset, click on the “Settings” button again on the top right corner of the wallet.
+1. 返回到Exodus的主页后，再次点击钱包右上角的“设置”按钮，以启用ETC作为资产。
 
 ![](9-1.png)
 
-2. In the next screen, select the “Assets” tab on the top horizontal menu.
+2. 在下一个界面中，选择顶部水平菜单上的“资产”选项卡。
 
 ![](10.png)
 
-3. In the next screen, you will see a long list of crypto assets. Scroll down to find “Ethereum Classic”, which will be below “Ethereum”. As you can see “Ethereum” is checked, but ETC is not. 
+3. 在下一个界面中，您将看到一个长列表的加密资产。向下滚动以找到“Ethereum Classic”，它将位于“Ethereum”下方。您会发现“Ethereum”被选中，但ETC没有被选中。
 
-To add ETC, roll over the small box on its left.
+要添加ETC，请将鼠标悬停在其左侧的小框上。
 
 ![](11.png)
 
-4. On the box you will see that you can put a check on ETC as an asset. Click on the box so you check it and activate ETC on Exodus. 
+4. 在框中，您可以选中ETC作为资产。点击框中的选择框，以选中它并在Exodus上激活ETC。
 
 ![](12.png)
 
-5. Once ETC is checked, click on the wallet logo on the top left corner to see ETC on the home page.
+5. 选中ETC后，点击左上角的钱包标志，以在主页上查看ETC。
 
 ![](13.png)
 
-6. When you go to the wallet home and scroll down, you will find ETC within the assets list. In our case, we unchecked all assets except Bitcoin, Ethereum, DogeCoin, Litecoin, and Ethereum Classic so we don’t have so much clutter on the home.
+6. 当您返回钱包主页并向下滚动时，您会在资产列表中找到ETC。在我们的情况下，我们取消了除了比特币、以太坊、狗狗币、莱特币和以太经典之外的所有资产的选中，这样在主页上就不会有太多混乱的资产显示。
 
 ![](14.png)
 
-7. If you go to the menu at the top of the assets list and click on “OVERVIEW”, you will see on the right side of the list the “balance”, “value”, and “portfolio” columns to track your crypto assets’ valuations and shares within your portfolio.
+7. 如果您转到资产列表上方的菜单并点击“概览”，您将在列表的右侧看到“余额”、“价值”和“投资组合”列，以跟踪您的加密资产在投资组合中的估值和份额。
 
 ![](15.png)
 
-## Receive ETC on Your Exodus Wallet
+## 在Exodus钱包上接收以太经典（ETC）
 
-1. To receive ETC, first you need to click on the Ethereum Classic row area on the wallet.
+1. 要接收ETC，首先需要点击钱包中的以太经典区域。
 
 ![](15-1.png)
 
-2. In the next screen, you will see the ETC asset home on Exodus. In it, press the “Receive” button.
+2. 在下一个界面中，您将看到Exodus上的以太经典资产主页。在其中，点击“接收”按钮。
 
 ![](16.png)
 
-3. In the next screen, you will see your ETC address. Copy it to send it to others, or show the QR code to others so they may send you ETC.
+3. 在下一个界面中，您将看到您的ETC地址。复制该地址以便发送给他人，或向他人展示二维码，以便他们可以向您发送ETC。
 
 ![](17.png)
 
-4. For this example, we sent ourselves 2 ETC. As you may see, our new balance now shows on our ETC asset home.
+4. 以本示例为例，我们向自己发送了2个ETC。如您所见，我们的ETC资产主页现在显示了我们的新余额。
 
 ![](18.png)
 
-5. If we click on the logo on the top left corner to go back to our portfolio home, we will see that now the portfolio shows a pie chart with our assets. In this case we only have one, but if you have more it would show you all assets in their total value and percentage proportions.
+5. 如果我们点击左上角的标志返回到投资组合主页，我们将看到现在投资组合显示了一个饼图，显示了我们的资产。在这种情况下，我们只有一个资产，但如果您有更多资产，它将显示所有资产的总价值和百分比比例。
 
 ![](19.png)
 
-6. When you scroll down in the wallet home page, you will see your assets in list form and ETC will show in order by its value relative to the rest of the assets in the portfolio. In our case it now shows first because it is our only asset with a balance in our Exodus wallet. 
+6. 当您在钱包主页向下滚动时，您将以列表形式看到您的资产，而ETC将按其相对于投资组合中其他资产的价值排序。在我们的情况下，它现在显示在首位，因为它是我们Exodus钱包中唯一有余额的资产。
 
 ![](20.png)
 
-## Send ETC From Your Exodus Wallet
+## 从Exodus钱包发送以太经典（ETC）
 
-1. To send ETC, click on the “Ethereum Classic” asset row area on your Exodus wallet.
+1. 要发送ETC，请点击Exodus钱包上的“以太经典”资产区域。
 
 ![](20-1.png)
 
-2. In the next screen, you will go back to the ETC asset home. To send ETC, press on the “Send” button.
+2. 在下一个界面中，您将返回到以太经典资产主页。要发送ETC，请点击“发送”按钮。
 
 ![](21.png)
 
-3. In the next step, paste the address to which you are sending and enter the amount of ETC you wish to send. In our case we selected “ALL” to send all our balance of ETC to the address we posted in the recipient’s field.
+3. 在下一步中，粘贴您要发送的地址，并输入您希望发送的ETC数量。在我们的情况下，我们选择了“全部”以将我们的所有ETC余额发送到我们在收件人字段中输入的地址。
 
 ![](22.png)
 
-4. When you fill the fields, you will see the amount you selected. To continue, press “Send”.
+4. 当您填写完字段后，您将看到您选择的金额。要继续，请点击“发送”。
 
 ![](23.png)
 
-5. In the next screen, Exodus will show you the data of the transaction you are sending to the ETC blockchain. If everything is ok, then press “Send”.
+5. 在下一个界面中，Exodus将向您显示您要发送到ETC区块链的交易数据。如果一切正常，请点击“发送”。
 
 ![](24.png)
 
-6. If the transaction was processed and sent correctly, Exodus will let you know with a success notification. 
+6. 如果交易已经被处理并正确发送，Exodus将通过成功通知向您告知。
 
-Press “ok” to go back to the ETC asset page. 
+   点击“确定”返回到ETC资产页面。
 
 ![](25.png)
 
-7. In the next screen you will see that now your ETC balance is zero or less than before depending on how much you decided to send.
+7. 在下一个界面中，您将看到您的ETC余额现在为零，或比之前少，具体取决于您决定发送多少。
 
 ![](26.png)
 
-8. When you go back to the wallet home you will see the portfolio balance change as well. In our case it is zero because we sent all of our ETC and it was the only asset we had on our Exodus wallet.
+8. 当您返回到钱包主页时，您还将看到投资组合余额发生变化。在我们的情况下，它为零，因为我们发送了我们的所有ETC，而且它是我们Exodus钱包中唯一的资产。
 
 ![](27.png)
 
-9. If you scroll down, you will also see your ETC asset relocate in the list according to its value or network market capitalization. In our case, it went down to the bottom of the list again because all of our accounts are at zero and Exodus then orders them by each blockchain’s market capitalization.
+9. 如果您向下滚动，您还将看到您的ETC资产根据其价值或网络市值在列表中重新排列。在我们的情况下，它又回到了列表的底部，因为我们所有的账户余额都为零，Exodus会按照每个区块链的市值对其进行排序。
 
 ![](28.png)
 
-## Export Your Address From Exodus Wallet
+## 从Exodus钱包导出您的地址
 
-1. To export your ETC address from Exodus, click on the ETC asset row area.
+1. 要从Exodus导出您的ETC地址，请点击ETC资产区域。
 
 ![](29.png)
 
-2. When on the ETC asset home, click on the three dot dropdown menu on the right of the asset screen. Then, press on the “Export Address” link.
+2. 在ETC资产主页上，点击资产屏幕右侧的三个点下拉菜单。然后，点击“导出地址”链接。
 
 ![](30.png)
 
-3. In the next screen, Exodus will report success of the download as it was downloaded to your computer. 
+3. 在下一个界面中，Exodus将显示下载成功，并将其下载到您的计算机上。
 
-Exodus will also show you where in your computer the folder was downloaded to. 
+Exodus还将向您显示下载文件夹在计算机上的位置。
 
-Press “OK” to go back to the asset page.
+点击“确定”返回到资产页面。
 
 ![](31.png)
 
-4. When you go to your computer, you will see a new folder named “exodus-exports”. When you open it you will see a .cvs file compatible with Excel or Google Sheets.  
+4. 当您转到计算机上时，您会看到一个名为“exodus-exports”的新文件夹。当您打开它时，您会看到一个与Excel或Google Sheets兼容的.csv文件。
 
 ![](32.png)
 
-## Reveal the Private Key of Your ETC Address
+## 显示您的ETC地址的私钥
 
-1. If for any reason you need the private key of your ETC address on Exodus, you may reveal it by clicking again on the three dot dropdown menu on the right of the ETC asset page. In the menu, click on “View Private Keys”.
+1. 如果由于任何原因您需要在Exodus上显示您的ETC地址的私钥，您可以再次点击ETC资产页面右侧的三个点下拉菜单。在菜单中，点击“查看私钥”。
 
 ![](33.png)
 
-2. In the next page, Exodus will give you a security warning, be sure to follow the warning. To reveal your private key, press on “YES, I’M SURE”. 
+2. 在下一个页面中，Exodus将向您发出安全警告，请确保遵循警告提示。要显示您的私钥，请点击“是的，我确定”。
 
 ![](34.png)
 
-3. Because this is a high security step, Exodus will ask you for your global password before unlocking your ETC address private key. When you enter your password press “UNLOCK NOW”.
+3. 由于这是一个高安全性的步骤，Exodus将在解锁您的ETC地址私钥之前要求您输入全局密码。输入密码后，点击“立即解锁”。
 
 ![](35.png)
 
-4. In the next screen, Exodus will show you a pop up screen with your ETC address and its corresponding private key.
+4. 在下一个界面中，Exodus将显示一个弹出屏幕，显示您的ETC地址及其相应的私钥。
 
 ![](36.png)
 
-## Restore Your Exodus Wallet Using Your 12 Word Secret Passphrase
+## 使用12个单词的秘密短语恢复您的Exodus钱包
 
-1. If you lost your computer, or it got corrupted, or for any reason you need to restore your 12 word passphrase, then install Exodus again on your machine and open it. 
+1. 如果您的计算机丢失、损坏，或者由于任何原因您需要恢复您的12个单词的秘密短语，那么请在您的计算机上重新安装Exodus并打开它。
 
-On the home, you will see on the right the option to “Import Wallet”. Click on it.
+在主页上，您将在右侧看到“导入钱包”的选项。点击它。
 
 ![](37.png)
 
-2. In the screen screen, Exodus will tell you that it needs to restart to be able to import your existing 12 word passphrase.
+2. 在下一个界面中，Exodus将告诉您它需要重新启动才能导入您现有的12个单词的秘密短语。
 
 ![](38.png)
 
-3. In the next step, you will see a blank form so you may enter your 12 word secret passphrase. 
+3. 在下一步中，您将看到一个空白表单，可以输入您的12个单词的秘密短语。 
 
 ![](39.png)
 
-4. Enter your 12 word secret passphrase and then press the arrow on the right.
+4. 输入您的12个单词的秘密短语，然后点击右侧的箭头。
 
-WARNING: DO NOT USE THE 12 WORDS IN THIS EXAMPLE, THEY ARE A DUMMY SET JUST FOR THIS GUIDE. EVERY USER MUST HAVE THEIR OWN UNIQUE SECRET PASSPHRASE.
+警告：不要使用本示例中的12个单词，它们只是用于本指南的示例。每个用户都必须有自己独特的秘密短语。
 
 ![](40.png)
 
-5. If the 12 words were entered correctly, then Exodus will show you a message saying “Restore Complete”. 
+5. 如果正确输入了这12个单词，Exodus将向您显示一个消息，显示“恢复完成”。
 
-Press “OK”.
+点击“确定”。
 
 ![](41.png)
 
-6. In the next screen, Exodus will ask you to enter a global password again to protect your wallet. When you enter it, press “NEXT”.
+6. 在下一个界面中，Exodus将再次要求您输入全局密码以保护您的钱包。输入密码后，点击“下一步”。
 
 ![](42.png)
 
-7. In the next screen, confirm your password. 
+7. 在下一个界面中，确认您的密码。
 
-Once you enter your password again, press “NEXT” to continue using Exodus as usual.
+再次输入密码后，点击“下一步”继续使用Exodus。
 
 ![](43.png)
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
