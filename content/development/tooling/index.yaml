@@ -178,14 +178,14 @@ items:
         __link: https://eserialize.com/?input=string&output=hex
         __name: ESerialize
         description: The goal of this module is to provide easy functions to serialize and deserialize data for the Ethereum Stack.
-      Ethereum JSON-RPC API:
-        __link: https://github.com/etclabscore/ethereum-json-rpc-specification
-        __name: Ethereum JSON-RPC API
-        description: A specification of JSON-RPC methods that an EVM-based blockchain client must implement.
       Eth Fiddle:
         __link: https://ethfiddle.com/
         __name: Eth Fiddle
         description: Online editor for smart contracts.
+      Ethereum JSON-RPC API:
+        __link: https://github.com/etclabscore/ethereum-json-rpc-specification
+        __name: Ethereum JSON-RPC API
+        description: A specification of JSON-RPC methods that an EVM-based blockchain client must implement.
       EVM-LLVM:
         __link: https://github.com/etclabscore/evm_llvm
         __name: EVM-LLVM
@@ -218,14 +218,14 @@ items:
         __link: https://remix.ethereum.org/
         __name: Remix Online IDE
         description: A useful in-browser IDE that can compile and publish smart contracts to various Ethereum networks. Includes a linter.
-      Signatory:
-        __link: https://signatory.dev/
-        __name: Signatory
-        description: An offline transaction and message signer for the Ethereum Stack.
       Sidekik:
         __link: https://sidekik.xyz/
         __name: Sidekik
         description: Debug, test, and grok smart contracts with a visual UI that lets you interact with local or deployed EVM-based smart contracts.
+      Signatory:
+        __link: https://signatory.dev/
+        __name: Signatory
+        description: An offline transaction and message signer for the Ethereum Stack.
       SOLL:
         __link: https://github.com/second-state/soll
         __name: SOLL
@@ -234,6 +234,10 @@ items:
         __link: https://github.com/ETCDEVTeam/sputnikvm
         __name: Sputnikvm
         description: SputnikVM is an open source standalone implementation of Ethereum Virtual Machine (EVM). It aims to be an efficient, pluggable virtual machine for different Ethereum-based blockchains.
+      thirdweb:
+        __name: thirdweb
+        __link: https://thirdweb.com/ethereum-classic
+        description: Everything you need to connect your apps or games to decentralized networks. Powerful tools that simplify web3 development.
       Truffle Suite:
         __link: https://www.trufflesuite.com/
         __name: Truffle Suite
