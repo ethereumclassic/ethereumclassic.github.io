@@ -19,7 +19,7 @@ Following we list the six posts and corresponding videos that we have written an
 
 ## Using Ethereum Classic With MetaMask
 
-MetaMask the the most massively used wallet in the Ethereum EVM blockchain segment with more than 25 million monthly active users during the 2021 peak. It was the first browser extension for web3 use and then it added mobile support with their popular MetaMask for iOS and Android apps. To add ETC to MetaMask it is necessary to go through some manual steps that are described in the post. It is good for holding ETC, other ETC ERC-20 tokens, and trading and holding NFTs on ETC.
+MetaMask is the most massively used wallet in the Ethereum EVM blockchain segment with more than 25 million monthly active users during the 2021 peak. It was the first browser extension for web3 use and then it added mobile support with their popular MetaMask for iOS and Android apps. To add ETC to MetaMask it is necessary to go through some manual steps described in the post. It is suitable for holding ETC, other ETC ERC-20 tokens, and trading and holding NFTs on ETC.
 
 Link to post: https://ethereumclassic.org/blog/2022-12-21-using-ethereum-classic-with-metamask
 
