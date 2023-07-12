@@ -102,7 +102,7 @@ Filecoin and BitTorrent are the largest and most well known coins in the sector.
 
 ## Uses for Web3
 
-As we will see in the next 8 classes of the Ethereum Classic course, the blockchain industry will be divided in layers and many components will exist in each layer. These layers will be organized by security vs scalability degrees where the most secure but less scalable proof of work coins will constitute the base layer, and the rest of the more scalable but less secure systems, including proof of stake, will exist on top of the security layer.
+As we will see in the next 8 classes of the Ethereum Classic course, the blockchain industry will be divided into layers and many components will exist in each layer. These layers will be organized by security vs scalability degrees where the most secure but less scalable proof of work coins will constitute the base layer, and the rest of the more scalable but less secure systems, including proof of stake, will exist on top of the security layer.
 
 In the future, users will not interact with single blockchains as today when using dapps or executing transactions. Transactions will cross multiple chains, so user facing wallets and dapps will use the best services from each one.
 
