@@ -120,7 +120,7 @@ Web3 is a term that comes after the static web1 of the 90s, and the social media
 
 However, even though file storage networks and coins use decentralized ledgers and peer-to-peer protocols to manage large amounts of data, this does not mean that they are completely decentralized.
 
-The file storage protocols side of these networks are just peer-to-peer file systems where the files are not actually stored in all the nodes, but just those who want to store them as they expect to get paid for serving them. 
+The file storage protocol side of these networks is just peer-to-peer file systems where the files are not actually stored in all the nodes, but just those who want to store them as they expect to get paid for serving them. 
 
 On the other hand, the decentralized ledgers that hold the accounts and balances of the file storage coins and conduct the payments for file storage providers are all proof of stake or proof of authority systems. These are much less secure that proof of work networks.
 
