@@ -69,7 +69,7 @@ Video:
 
 ## Using Ethereum Classic With Exodus
 
-Exodus was born as a desktop wallet and now has desktop and mobile apps that support Mac, Windows, iOS, and android. It also launched a browser extension to be present in the web3 revolution. Its focus is on esthetics and to be the best design and user experience. It natively supports ETC and it is very easy to activate. Exodus may be used with many other Ethereum and non Ethereum EVM blockchains as well. One of its focuses is security, so it features easy connections to hardware wallets so users may keep their private keys off their day to day devices.
+Exodus was born as a desktop wallet and now has desktop and mobile apps that support Mac, Windows, iOS, and Android. It also launched a browser extension to be present in the web3 revolution. Its focus is on aesthetics and to be the best design and user experience. It natively supports ETC and it is very easy to activate. Exodus may be used with many other Ethereum and non-Ethereum EVM blockchains as well.  For added security, it features easy connections to hardware wallets so users may keep their private keys off their day-to-day devices.
 
 Link to post: https://ethereumclassic.org/blog/2023-07-11-using-ethereum-classic-with-exodus
 
