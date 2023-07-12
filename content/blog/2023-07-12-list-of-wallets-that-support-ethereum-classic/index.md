@@ -11,7 +11,7 @@ Ethereum Classic (ETC) is a widely supported cryptocurrency in the blockchain in
 
 We have covered the major wallet brands, and we will produce series about mining pools and exchanges as well.
 
-In this post, we list the six major wallets that we described in our "Using Ethereum Classic With" series. We do not recommend any over others as it depends on users to select the model and style that best fit their needs.
+In this post, we list the six major wallets we have described in our "Using Ethereum Classic With" series. We do not recommend any wallet over any other as it is up to users to select the model and style that best fits their individual needs.
 
 The features and use cases for each brand are very distinct, so it is worth exploring all these alternatives before making a choice. All are non-custodial wallets, though, as the whole purpose of the blockchain industry is trust minimization!
 
