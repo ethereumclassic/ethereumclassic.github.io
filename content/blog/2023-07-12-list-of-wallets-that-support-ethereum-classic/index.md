@@ -39,7 +39,7 @@ Video:
 
 ## Using Ethereum Classic With Ledger Nano S
 
-Ledger Nano S is one of the three models of the Ledger family of hardware wallets. It is being upgraded as we write this post with Ledger Nano S Plus, so we will write a new post about the new upgrade, However, the installed base of Ledger Nano S users in enormous so this post will have a long shelf life. We will also cover the other two models of the Ledger family. Ledger nano S or Plus is a good alternative for users with larger amounts of ETC who want a higher degree of security than the classical mobile, browser extension, and desktop alternatives.
+Ledger Nano S is one of the three models of the Ledger family of hardware wallets. It is being upgraded as we write this post with Ledger Nano S Plus, so we will write a new post about the new upgrade. However, the installed base of Ledger Nano S users is enormous so this post will have a long shelf life. We also cover the other two models of the Ledger family. Ledger Nano S or Plus is a good alternative for users with larger amounts of ETC who want a higher degree of security than the classical mobile, browser extension, and desktop alternatives.
 
 Link to post: https://ethereumclassic.org/blog/2023-02-21-using-ethereum-classic-with-ledger-nano-s
 
