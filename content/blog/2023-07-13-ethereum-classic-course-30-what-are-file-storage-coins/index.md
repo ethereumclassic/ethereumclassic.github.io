@@ -60,7 +60,7 @@ Filecoin is a blockchain that uses the IPFS protocol for file storage and has a 
 
 Storage providers are IPFS protocol nodes, but they actually get paid in FIL by users to store their files. IPFS and Filecoin are two different networks that use the IPFS protocol (IPFS just happens to have the same name because it was started by the same founder who started Filecoin).
 
-Storage providers must inform with a certain frequency to the peer-to-peer network of the integrity of the data they store as a proof of storage. Content users are the ones who use the network to store their data. Retrieval providers are like brokers that get paid to be in touch with users and retrieve from storage providers the most popular content units to deliver them faster to users.
+As proof of storage, storage providers must inform the peer-to-peer network of the integrity of the data they store on a regular basis. Users are the ones who store their data on the network. Retrieval providers are like brokers who get paid to communicate with users and retrieve popular content from storage providers for quicker delivery. 
 
 In essence Filecoin is like a marketplace where data storage around the world is put for sale and the protocol acts as the pricing and payment system where users compensate storage and retrieval providers for their content to be stored and delivered efficiently. 
 
