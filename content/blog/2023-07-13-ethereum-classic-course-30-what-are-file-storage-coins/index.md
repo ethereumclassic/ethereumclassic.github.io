@@ -122,7 +122,7 @@ However, even though file storage networks and coins use decentralized ledgers a
 
 The file storage protocol side of these networks is just peer-to-peer file systems where the files are not actually stored in all the nodes, but just those who want to store them as they expect to get paid for serving them. 
 
-On the other hand, the decentralized ledgers that hold the accounts and balances of the file storage coins and conduct the payments for file storage providers are all proof of stake or proof of authority systems. These are much less secure that proof of work networks.
+On the other hand, the decentralized ledgers that hold the accounts and balances of the file storage coins and conduct the payments for file storage providers are all proof of stake or proof of authority systems. These are much less secure than proof of work networks.
 
 Although file storage systems are a huge leap forward in trust minimization, they still need to improve to serve the future web3 in a truly decentralized way.
 
