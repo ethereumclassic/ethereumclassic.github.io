@@ -62,7 +62,7 @@ Storage providers are IPFS protocol nodes, but they actually get paid in FIL by 
 
 As proof of storage, storage providers must inform the peer-to-peer network of the integrity of the data they store on a regular basis. Users are the ones who store their data on the network. Retrieval providers are like brokers who get paid to communicate with users and retrieve popular content from storage providers for quicker delivery. 
 
-In essence Filecoin is like a marketplace where data storage around the world is put for sale and the protocol acts as the pricing and payment system where users compensate storage and retrieval providers for their content to be stored and delivered efficiently. 
+In essence, Filecoin is a marketplace where data storage around the world is put up for sale and the protocol acts as the pricing and payment system where users compensate storage and retrieval providers for their content to be stored and delivered efficiently. 
 
 Storage providers gain reputation the more they prove they can do their job correctly.
 
