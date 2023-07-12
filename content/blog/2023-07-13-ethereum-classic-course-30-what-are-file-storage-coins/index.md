@@ -74,7 +74,7 @@ The current market capitalization of FIL at the time of this writing is $1.70 bi
 
 BitTorrent is a pioneering file sharing protocol and network that started in the early 2000s. It was acquired by the TRON Foundation in 2018 to integrate the “BTT” token to its ecosystem with the goal of creating a decentralized file sharing system for web3 and streaming services.
 
-It is similar to Filecoin in that it is a content addressed network, and content units are broken up in chunks and stored in many peers in the system. BTT is the token that is used in this case. 
+It is similar to Filecoin in that it is a content-addressed network where content units are broken up into chunks and stored by many peers in the system. BTT is the token that is used in this case. 
 
 Users pay storage providers so that their files may be downloaded faster. 
 
