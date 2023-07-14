@@ -64,7 +64,7 @@ items:
         description: Mining pools are important players in proof-of-work cryptocurrencies. But who monitors what they tell their miners to work on? MIT's Digital Currency Initiative started a project in the summer of 2019 to start monitoring the behavior of mining pools.
       Tokenview:
         __name: Tokenview
-        __link: https://tokenview.io
+        __link: https://etc.tokenview.io
         description: Tokenview provides a General Multi-Crypto Blockchain Explorer by number of public blockchains covered, a Fast and Stable blockchain API service, serving millions of users, businesses, projects and financial institutions since 2017. 
       ua-mining:
         __name: ua-mining
