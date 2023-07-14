@@ -241,6 +241,7 @@ items:
       Tokenview:
         __name: Tokenview
         __link: https://services.tokenview.io
+        description: A unified framework to interact with over 120+ blockchains. Tokenview blockchain APIs has powerful endpoints that simplify complex blockchain data into single API calls. Code for all supported blockchains using unified API calls. From here to easily get transaction, address, gas, contract, token, NFT, logs and any information from chain. And Yes you can also send tx to chain. One-click configuration with APIKey helps developers to Use, to Create, to Build.
       Truffle Suite:
         __link: https://www.trufflesuite.com/
         __name: Truffle Suite
