@@ -1,3 +1,11 @@
+- date: 2023-07-06
+  title: "Draft ECIP 1109: Spiral EVM and Protocol Upgrades"
+  link: https://ecips.ethereumclassic.org/ECIPs/ecip-1109
+  author: Christos Ziogas, Diego López León, Isaac Ardis
+  tags:
+    - announcement
+    - development
+    - hardfork
 - date: 2023-06-18
   title: "POW Summit 2023 Speaker Spotlight: Bob Summerwill"
   link: https://etccooperative.org/posts/2023-06-16-pow-summit-2023-speaker-spotlight-4-en

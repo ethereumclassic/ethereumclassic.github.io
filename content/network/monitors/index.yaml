@@ -18,14 +18,6 @@ items:
   monitors:
     __type: links
     items:
-      etc-network.info:
-        __name: etc-network.info
-        __link: https://etc-network.info
-        description: A small site to help you navigate services provided by etc-network.info.
-      ETCNodes:
-        __name: ETCNodes
-        __link: https://etcnodes.org/
-        description: Ethereum Classic mainnet node explorer.
       2Miners:
         __name: 2Miners
         __link: https://2miners.com/etc-stats/
@@ -42,10 +34,22 @@ items:
         __name: Emerald Insights
         __link: https://insights.emeraldpay.io/
         description: Emerald Insights is a part of the Emerald project, which is supposed to provide statistics, monitoring, and advanced pieces of information about cryptocurrencies used by Emerald.
+      etc-network.info:
+        __name: etc-network.info
+        __link: https://etc-network.info
+        description: A small site to help you navigate services provided by etc-network.info.
+      ETCNodes:
+        __name: ETCNodes
+        __link: https://etcnodes.org/
+        description: Ethereum Classic mainnet node explorer.
       ForkWatch:
         __name: Fork Watch
         __link: https://www.forkwatch.io/
         description: ForkWatch is a NiceHash monitoring tool that alerts about anomalies on specific algorithms on the NiceHash market, especially when the price of renting BTC/TH/Day changes. This helps stakeholders of specific coins be warned in case mining power is potentially rented for an incoming attack on a specific network.
+      Kotti Stats:
+        __name: Kotti Stats
+        __kotti: http://stats.kotti.goerli.net/
+        description: Network stats for the Ethereum Classic Kotti Testnet.
       MiningPoolStats:
         __name: MiningPoolStats
         __link: https://miningpoolstats.stream/ethereumclassic
@@ -58,19 +62,15 @@ items:
         __name: Pool Detective
         __link: https://pooldetective.org/
         description: Mining pools are important players in proof-of-work cryptocurrencies. But who monitors what they tell their miners to work on? MIT's Digital Currency Initiative started a project in the summer of 2019 to start monitoring the behavior of mining pools.
-      TokenView:
-        __name: TokenView
-        __link: https://etc.tokenview.com/en/charts
-        description: Standard historical network stats.
-      WhatToMine:
-        __name: WhatToMine
-        __link: https://whattomine.com/coins/162-etc-ethash
-        description: Profitability calculator for mining Ethereum Classic and other chains.
-      Kotti Stats:
-        __name: Kotti Stats
-        __kotti: http://stats.kotti.goerli.net/
-        description: Network stats for the Ethereum Classic Kotti Testnet.
+      Tokenview:
+        __name: Tokenview
+        __link: https://etc.tokenview.io
+        description: Tokenview provides a General Multi-Crypto Blockchain Explorer by number of public blockchains covered, a Fast and Stable blockchain API service, serving millions of users, businesses, projects and financial institutions since 2017. 
       ua-mining:
         __name: ua-mining
         __link: https://etc-stats.ua-mining.com
         description: Ethereum Classic stats dashboard.
+      WhatToMine:
+        __name: WhatToMine
+        __link: https://whattomine.com/coins/162-etc-ethash
+        description: Profitability calculator for mining Ethereum Classic and other chains.
