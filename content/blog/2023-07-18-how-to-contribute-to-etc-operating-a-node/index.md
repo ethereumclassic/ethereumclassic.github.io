@@ -93,7 +93,7 @@ Souce: https://twitter.com/ETCMC777/status/1674582793769156612
 
 ![Running an ETC Core-Geth node.](./1.png)
 
-One way of operating a node is by download the Ethereum Classic software client, which is called Core-Geth.
+One way of operating a node begins by downloading the Ethereum Classic client software called Core-Geth.
 
 To Download Core-Geth, please go to:
 
