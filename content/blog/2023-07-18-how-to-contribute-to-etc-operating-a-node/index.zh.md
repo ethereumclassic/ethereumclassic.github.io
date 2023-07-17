@@ -90,7 +90,7 @@ ETC作为一种无需许可的工作量证明区块链，是全球计算机网�
 
 来源: https://twitter.com/ETCMC777/status/1674582793769156612
 
-## 运营一个节点: Core-Geth
+## 运营节点: Core-Geth
 
 ![Running an ETC Core-Geth node.](./1.png)
 
@@ -104,7 +104,7 @@ https://github.com/etclabscore/core-geth/releases
 
 由于Core-Geth是Geth的下游客户端，而Geth是Ethereum的客户端，因此它默认指向Ethereum。这就是为什么ETC节点运营者必须添加--classic字符串来运行他们的节点。
 
-## 运行节点：DappNode
+## 运营节点：DappNode
 
 如果从您的常规计算机运行节点对其造成了太大的负担，或者您不喜欢使用命令行，那么购买一个单独的硬件节点可能是个不错的主意。
 
@@ -120,7 +120,7 @@ https://ethereumclassic.org/blog/2023-04-26-how-run-an-ethereum-classic-node-usi
 
 https://ethereumclassic.org/blog/2023-06-06-dappnode-unboxing-running-etc-nodes-from-home-or-office
 
-## 运行节点：ETCMC
+## 运营节点：ETCMC
 
 如前所述，有一个名为ETCMC的ETC生态系统团队，他们生产了另一个专用于ETC网络的硬件节点。这是一个即插即用的设备，我们很快将撰写一份介绍它的指南。
 
