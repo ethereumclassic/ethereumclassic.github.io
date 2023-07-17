@@ -1,5 +1,5 @@
 ---
-title: "How to Contribute to ETC: Operating a Node"
+title: "如何对ETC做贡献：运行节点"
 date: 2023-07-18
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JMuTgV-cWJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,123 +16,122 @@ linkImage: ./banner.png
 
 ![ETC nodes.](./banner.png)
 
-This is the sixth part of a series that will explain how to contribute to Ethereum Classic (ETC) in a variety of ways. 
 
-The videos and posts in the series will contain the title “How to Contribute to ETC:” with the following topic extensions: 
+这是一系列文章的第六部分，将解释如何以多种方式为Ethereum Classic (ETC)做出贡献。
 
-1. The Improvement Proposal Process (ECIP)
-2. The Community Website
-3. Community Tweets
-4. Community Volunteering
-5. Mining
-6. Operating a Node
-7. Donating Money
-8. Building a Dapp
+该系列的视频和文章标题都将包含“如何为ETC做贡献：”，并附带以下主题扩展：
 
-## How Does ETC Work? (Mining and Verifying Nodes)
+1. 改进提案流程 (ECIP)
+2. 社区网站
+3. 社区推文
+4. 社区志愿服务
+5. 挖矿
+6. 运行节点
+7. 捐款
+8. 构建Dapp
 
-ETC, as a permissionless proof of work blockchain, is a network of computers around the world. As such, it receives transactions from users constantly. When nodes in the system receive transactions, they re-send them to the rest of the network. In a matter of milliseconds, these transactions get fully replicated in all participating nodes.
+## ETC如何运作？（挖矿和验证节点）
 
-A subgroup of the machines in the network are what are called “miners”. Miners receive these transactions, accumulate them in batches and seal them with a cryptographic stamp, or hash, that requires a lot of computational work to create.
+ETC作为一种无需许可的工作量证明区块链，是全球计算机网络。因此，它不断地接收来自用户的交易。当系统中的节点接收到交易时，它们会重新将其发送到整个网络。在几毫秒的时间内，这些交易会在所有参与节点中完全复制。
 
-Therefore, miners are block producers, which is one of the two types of nodes in the network. When miners produce blocks, they send them to the rest of the network for verification.
+网络中的一组机器被称为“矿工”。矿工接收这些交易，将它们批量累积，并使用密码戳或哈希对它们进行封存，以便创建一个需要大量计算工作的区块。
 
-The rest of the network are node operators who verify that all the transactions inside a block are correct and that the miners did the work required by the protocol. 
+因此，矿工是区块的产生者，这是网络中两种类型的节点之一。当矿工生成区块时，它们将其发送到网络的其他部分进行验证。
 
-Therefore, node operators are verifiers which is the other type of node in the network. 
+网络的其他部分是节点运营者，他们验证区块中的所有交易是否正确，并且矿工是否按照协议要求进行了工作。
 
-## Full Replication and Global Redundancy in ETC
+因此，节点运营者是验证者，这是网络中的另一种节点类型。
 
-Full replication of transactions and blocks, as described in the previous section, is important because it is one of the two fundamental security mechanisms of a blockchain as Ethereum Classic.
+## ETC中的全面复制和全球冗余
 
-Full replication guarantees absolute redundancy, meaning that all nodes in the system have an identical and complete copy of the blockchain database, which contains the accounts, cryptocurrency balances, and smart contracts of the network.
+如前一节所述，交易和区块的全面复制是Ethereum Classic的两个基本安全机制之一。
 
-Redundancy guarantees what the internet itself guarantees, which is that no matter what happens in the world, even a nuclear war, ETC will still be working as long as there are some live operating nodes with a full copy of the ledger with the transactions, smart contracts, and activity of the chain.
+全面复制确保了绝对冗余，意味着系统中的所有节点都拥有区块链数据库的相同完整副本，其中包含网络的账户、加密货币余额和智能合约。
 
-That this replication is global is important because the more ETC nodes are distributed across nations, ethnicities, and cultures the more resistant the social layer of the system is to arbitrary change. Therefore, the property and agreements in the blockchain enjoy stronger integrity.
+冗余保证了互联网本身的保证，即无论世界发生什么情况，即使发生核战争，只要还有一些具有完整账本副本的运行节点，ETC仍将继续运行，包含着链上的交易、智能合约和活动。
 
-## The Importance of Operating a Node in ETC
+这种复制是全球范围的，这很重要，因为ETC节点越分布在不同国家、民族和文化中，社会层面对任意更改的抵抗力就越强。因此，区块链中的财产和协议具有更强的完整性。
 
-The first reason that operating a node contributes to ETC is that the more nodes, the stronger ETC becomes. This is because of the reasons explained above: More nodes means more verification of miners’ work; more nodes means more redundancy of the database; and more nodes may also mean more diversity in terms of regions and cultures.
+## 运行ETC节点的重要性
 
-However, running a node is not only a systemwide benefit, but it has the most benefits at the individual level as well. Self verification of transactions and blocks means reducing dependency on others to know one’s accounts and balances, and interacting with the network and its decentralized applications, or dapps.
+运行ETC节点对ETC的贡献首先体现在，节点数量越多，ETC就越强大。这是因为前面所述的原因：更多的节点意味着对矿工工作的更多验证；更多的节点意味着数据库的更多冗余；而且更多的节点可能意味着地区和文化方面的更多多样性。
 
-The most centralized setup for owning or participating in ETC is using an exchange to buy the coins and hold them there. In this setup, not only are the coins in the possession of a third party, but access to the network is also mediated by it.
+然而，运行节点不仅仅对整个系统有益，对个人而言也有很多好处。自我验证交易和区块意味着减少对他人了解自己账户和余额的依赖，同时能与网络及其去中心化应用程序（dapps）进行交互。
 
-Using a non-custodial wallet is good, but if the wallet connects to a cloud node service to query one’s accounts and balances, to send transactions, and to interact with dapps, then it is not secure either because there is always the risk that those nodes may become corrupted or abuse their trusted position.
+在拥有或参与ETC方面，最为集中化的设置是使用交易所购买代币并将其保留在那里。在这种设置中，代币不仅在第三方手中，而且对网络的访问也由第三方进行中介。
 
-Using a non-custodial wallet and operating a node to interact with ETC is the best setup for sealing the security completely by maximally reducing one’s dependency on trusted third parties.
+使用非托管钱包是不错的选择，但如果该钱包连接到云节点服务以查询自己的账户和余额、发送交易并与dapps进行交互，那么也并不安全，因为这些节点可能会受到损坏或滥用其信任位置的风险。
 
-An Ethereum Classic ecosystem team called ETCMC who provides a plug-and-play hardware node product recently stated the following on social media:
+使用非托管钱包并运行节点来与ETC进行交互是最佳设置，可以通过最大程度地减少对可信第三方的依赖来完全保障安全性。
 
-*“Why running your own #EthereumClassic node is one of the best ways to contribute to #ETC*
+一个名为ETCMC的Ethereum Classic生态系统团队最近在社交媒体上发表了以下观点，关于他们提供的即插即用硬件节点产品：
 
-*1. Decentralization:*
+*“为什么运行自己的 #EthereumClassic 节点是为 #ETC 做贡献的最佳途径*
 
-*Running your own node contributes to the decentralization of the ETC network. By participating in the network as a node operator, you help distribute the responsibility of maintaining and validating the blockchain. This enhances the network's resilience and reduces the reliance on centralized infrastructure.*
+*1. 去中心化:*
 
-*2. Data Integrity:* 
+*运行自己的节点有助于ETC网络的去中心化。作为节点运营者参与网络，有助于分散维护和验证区块链的责任。这增强了网络的弹性，并减少了对中心化基础设施的依赖。*
 
-*When you run your own node, you independently verify the transactions and smart contracts on the ETC blockchain. You have direct access to the entire blockchain history and can validate transactions without relying on external sources. This ensures the integrity and trustworthiness of the data you interact with.*
+*2. 数据完整性:*
 
-*3. Privacy and Security:*
+*运行自己的节点时，您可以独立验证ETC区块链上的交易和智能合约。您可以直接访问整个区块链历史，并且可以在不依赖外部来源的情况下验证交易。这确保了您与之交互的数据的完整性和可信性。*
 
-*By running your own node, you have better control over your data and transactions. You don't have to rely on third-party nodes or trust their infrastructure. Running a node enables you to keep your transactions private and secure by not exposing sensitive data to external services.*
+*3. 隐私与安全:*
 
-*4. Development and Testing:*
+*通过运行自己的节点，您可以更好地控制您的数据和交易。您无需依赖第三方节点或信任它们的基础设施。运行节点使您能够将交易保持私密和安全，不会将敏感数据暴露给外部服务。*
 
-*If you are a developer or building applications on top of the ETC blockchain, running your own node gives you a local environment for development and testing. You can experiment with smart contracts, interact with the blockchain, and debug your applications without relying on external nodes or services.*
+*4. 开发和测试:*
 
-*5. Network Participation:*
+*如果您是开发者或正在基于ETC区块链构建应用程序，运行自己的节点为您提供了一个本地开发和测试环境。您可以尝试智能合约、与区块链交互，并调试应用程序，而无需依赖外部节点或服务。*
 
-*Running your own ETC node allows you to actively participate in the Ethereum Classic network. By running a node, you contribute to the network's overall security, reliability, and decentralization. You become part of the network infrastructure, helping to validate transactions, propagate blocks, and maintain the integrity of the blockchain. Running your own node also allows you to have direct access to the Ethereum Classic network, enabling you to interact with smart contracts, explore the blockchain's history, and build applications that leverage the ETC ecosystem.*
+*5. 网络参与:*
 
-Souce: https://twitter.com/ETCMC777/status/1674582793769156612
+*运行自己的ETC节点使您能够积极参与Ethereum Classic网络。通过运行节点，您为网络的整体安全性、可靠性和去中心化做出了贡献。您成为网络基础设施的一部分，有助于验证交易、传播区块和维护区块链的完整性。运行自己的节点还允许您直接访问Ethereum Classic网络，使您能够与智能合约进行交互、探索区块链的历史，并构建利用ETC生态系统的应用程序。*
 
-## Operating a Node: Core-Geth
+来源: https://twitter.com/ETCMC777/status/1674582793769156612
+
+## 运营一个节点: Core-Geth
 
 ![Running an ETC Core-Geth node.](./1.png)
 
-One way of operating a node is by download the Ethereum Classic software client, which is called Core-Geth.
-
-To Download Core-Geth, please go to:
+要下载Core-Geth，请访问以下链接：
 
 https://github.com/etclabscore/core-geth/releases
 
-Once you download it, you must go to the command line of your machine (below I am showing the example on my Mac) and type the following command to start Core-Geth pointing to Ethereum Classic:
+下载完成后，您需要进入您计算机的命令行界面（下面我将以我的Mac为例），并键入以下命令以启动Core-Geth并连接到Ethereum Classic：
 
-```/Users/donaldmcintyre/Desktop/geth --classic```
+/Users/donaldmcintyre/Desktop/geth --classic
 
-Because Core-Geth is a downstream client to Geth, which is the Ethereum client, then it starts pointing to Ethereum by default. This is why ETC node operators must add the ```--classic``` string to run their nodes.
+由于Core-Geth是Geth的下游客户端，而Geth是Ethereum的客户端，因此它默认指向Ethereum。这就是为什么ETC节点运营者必须添加--classic字符串来运行他们的节点。
 
-## Operating a Node: DappNode
+## 运行节点：DappNode
 
-If operating a node from your regular computer is too much strain on it or if you prefer not to use the command line, then it may be a good idea to buy a separate hardware node to do the task.
+如果从您的常规计算机运行节点对其造成了太大的负担，或者您不喜欢使用命令行，那么购买一个单独的硬件节点可能是个不错的主意。
 
-One option is to buy the DappNode device, which ETC core developers update regularly with the Core-Geth client so DappNode users may run ETC nodes as well.
+其中一个选择是购买DappNode设备，ETC核心开发人员定期通过Core-Geth客户端更新该设备，因此DappNode用户也可以运行ETC节点。
 
-We wrote two posts describing DappNode and how to use it:
+我们撰写了两篇关于DappNode及其使用方法的文章：
 
-“How to Run an Ethereum Classic Node Using DappNode”
+“如何使用DappNode运行Ethereum Classic节点”
 
 https://ethereumclassic.org/blog/2023-04-26-how-run-an-ethereum-classic-node-using-dappnode
 
-“DappNode Unboxing: Running ETC Nodes From Home or Office”
+“DappNode开箱：在家或办公室运行ETC节点”
 
 https://ethereumclassic.org/blog/2023-06-06-dappnode-unboxing-running-etc-nodes-from-home-or-office
 
-## Operating a Node: ETCMC
+## 运行节点：ETCMC
 
-As mentioned before, there is an ETC ecosystem team called ETCMC that has produced another hardware node that is dedicated to the network. It is a plug-and-play device, and we will write a guide covering it very soon.
+如前所述，有一个名为ETCMC的ETC生态系统团队，他们生产了另一个专用于ETC网络的硬件节点。这是一个即插即用的设备，我们很快将撰写一份介绍它的指南。
 
-To learn more about this product, please go here:
+要了解有关此产品的更多信息，请访问以下链接：
 
-https://www.etcmc.org/etcmc-etc-node 
+https://www.etcmc.org/etcmc-etc-node
 
-*Disclaimer: We have no interest nor commercial relationship with any of the brands and products mentioned in this post. We just describe them and post links to their informational material for your convenience.*
+*免责声明：我们与本文提及的任何品牌和产品均无兴趣或商业关系。我们只是描述它们并发布链接以方便您获取相关信息。*
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
