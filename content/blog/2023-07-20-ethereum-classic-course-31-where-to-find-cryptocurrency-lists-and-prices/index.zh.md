@@ -31,7 +31,7 @@ linkImage: ./banner.png
 
 CoinMarketCap是行业中使用最广泛的加密货币列表，每月访问量超过8000万次。用户可以在其中找到所有加密货币和代币的排名，这是根据市值列出的粗略、未经过滤的列表。
 
-CoinMarketCap的链接是：coinmarketcap.com
+CoinMarketCap的链接是：[coinmarketcap.com](coinmarketcap.com)
 
 该网站提供的数据包括每种加密货币或代币的市值、整个行业的总市值、比特币在整个市场中的份额以及每种加密货币或代币的交易量，还包括许多其他统计信息。
 
