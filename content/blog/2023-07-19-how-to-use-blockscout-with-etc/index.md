@@ -16,7 +16,7 @@ linkImage: ./banner.png
 
 ![Blockscout and Ethereum Classic.](banner.png)
 
-The two first things I noticed when using a blockchain, the Bitcoin blockchain at the time, for the first time in 2013 was that money would move from one place to another in ten to sixty minutes and that every single transaction was public, totally transparent, and traceable through some special websites. After 23 years of working in banking and finance this was a mind boggling experience and a huge change in paradigm.
+Two things I initially noticed when I used a blockchain, the Bitcoin blockchain, for the first time back in 2013 were that money would move from one place to another in ten to sixty minutes and that every single transaction was public, totally transparent, and traceable through some special websites. After twenty-three years of working in banking and finance, this was a mind-boggling experience and a huge change in paradigm.
 
 It was incredible to see that one could send one BTC from the state of Colorado to Tokyo (I was living in Denver and using Mt. Gox at the time!) and it would get there in a question of minutes. And, while the deposit was in transit, I could go to one of these websites and see how the transaction was being processed live!
 
