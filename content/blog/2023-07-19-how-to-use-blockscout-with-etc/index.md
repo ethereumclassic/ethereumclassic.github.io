@@ -44,7 +44,7 @@ Blockchain.com -> Bitcoin (BTC)
 
 Etherscan.io -> Ethereum (ETH)
 
-In the rest of this article we will focus on Blockscout, a popular explorer for ETC.
+For the rest of this article, we will focus on Blockscout, a popular explorer for ETC.
 
 ## Blockscout Works With Ethereum Classic and Mordor Testnet
 
