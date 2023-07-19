@@ -132,7 +132,7 @@ As a comparison, that same block on the Ethereum blockchain has much different i
 
 ## Search ETC by Token Symbol: WETC
 
-1. Just as we may search dapp tokens, we can also search wrapped tokens, such as WETC, on Blockscout because they are also ERC-20 tokens. To do this just enter “WETC” on the right hand side corner field and press enter.
+1. Just as we may search dapp tokens, we can also search wrapped tokens, such as WETC, on Blockscout because they are also ERC-20 tokens. To do this just enter “WETC” on the right-hand side corner field and press `Enter`.
 
 ![](12.png)
 
