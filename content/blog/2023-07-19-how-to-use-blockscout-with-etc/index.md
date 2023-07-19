@@ -116,7 +116,7 @@ As a comparison, that same block on the Ethereum blockchain has much different i
 
 ![](8-5.png)
 
-3. Going back to ETC block 1,920,000, if you scroll down you will be able to see the list of all the transaction on that block. 
+3. Going back to ETC block 1,920,000, if you scroll down you will be able to see the list of all the transactions on that block. 
 
 ![](9.png)
 
