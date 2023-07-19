@@ -108,7 +108,7 @@ https://blockscout.com/etc/mainnet/address/0xd4e36Ae112915C9b18700505ee5898B562a
 
 2. In the next screen you will see that the block also has its specific URL. In the body of the page, the top box shows the statistics of the block. These include: block height, the timestamp, how many transactions it contained, which was the miner that mined the block, block size in bytes, the block cryptographic stamp or hash, the hash of the previous block or parent hash, the mining difficulty, total difficulty of the chain up to this block, the gas used, the gas limit of this block, the nonce used to create the block hash, and the miner reward, which was 5 ETC at the time in 2016.
 
-As you may see, because ETC is the original chain and did not do TheDAO hard fork, then this is a typical and boring block!
+Because ETC is the original chain and did not participate in TheDAO hard fork, this is a typical and boring block!
 
 ![](8.png)
 
