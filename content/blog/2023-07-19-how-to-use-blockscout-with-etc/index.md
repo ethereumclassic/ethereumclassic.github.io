@@ -74,7 +74,7 @@ On the home page, at the top right is the basic information of the ETC blockchai
 
 1. To search for an ETC address using Blockscout, one should use the search field at the top right-hand corner of the home page to paste in an ETC address and press `Enter`.
 
-[Just for fun, we used for this example one of the largest addresses in ETC, which must belong to one of the big exchanges. To see a list of the largest addresses in ETC you can also do this on Blockcout! The page is: https://blockscout.com/etc/mainnet/accounts]
+[Just for fun, in this example we used an address with one of the largest balances in ETC which likely belongs to one of the big exchanges. To see a list of addresses with the largest balances in ETC, which you can also do on Blockscout, point your browser to: https://blockscout.com/etc/mainnet/accounts].
 
 ![](2.png)
 
