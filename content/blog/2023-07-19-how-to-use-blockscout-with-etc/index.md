@@ -60,7 +60,7 @@ https://blockscout.com/etc/mordor
 
 ![Blockscout for Mordor.](intro-c.png)
 
-In the next sections we will explain how to use Blockscout with the Ethereum Classic blockchain. 
+In the next sections, we will explain how to use Blockscout with the Ethereum Classic blockchain. 
 
 ## The Blockscout Home
 
