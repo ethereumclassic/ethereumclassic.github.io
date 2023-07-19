@@ -32,7 +32,7 @@ These websites that show everything that is happening inside blockchains are wha
 
 Block explorers are websites that run full archival nodes of the various blockchains, index the information of the networks’ databases, and show the information to the public.
 
-This is a new level of transparency in the world of finance, not only because the information is available, but because ordinary users can use these third party services to track and audit the blockchains. In banking all this information is a black box.
+This is a new level of transparency in the world of finance, not only because the information is available, but because ordinary users can use these third-party services to track and audit the blockchains. In banking all this information is a black box.
 
 The data on these websites may be organized by block, by transactions, or address, and often have more statistics and charts that are useful to analyze the activity in the networks.
 
