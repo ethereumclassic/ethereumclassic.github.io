@@ -112,7 +112,7 @@ Because ETC is the original chain and did not participate in TheDAO hard fork, t
 
 ![](8.png)
 
-As a comparison, the same block on the Ethereum blockchain has different information and actually has a note saying “dao-hard-fork (Hex:0x64616f2d686172642d666f726b)”.
+As a comparison, that same block on the Ethereum blockchain has much different information. It even contains a note reading “dao-hard-fork (Hex:0x64616f2d686172642d666f726b)”!
 
 ![](8-5.png)
 
