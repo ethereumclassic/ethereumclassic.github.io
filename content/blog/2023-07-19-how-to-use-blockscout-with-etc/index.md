@@ -122,7 +122,7 @@ As a comparison, that same block on the Ethereum blockchain has much different i
 
 ## Search ETC by Token Symbol: HEBE
 
-1. Another thing that may be done on Blockscout is to search tokens by their symbol. For example, to search the HEBE token issued by the HebeBlock team, you just need to type its symbol “HEBE” on the top right hand corner field and press enter.
+1. Another thing that may be done on Blockscout is to search tokens by their symbol. For example, to search the HEBE token issued by the HebeBlock team, you just need to type its symbol “HEBE” in the top right-hand corner field and press `Enter`.
 
 ![](10.png)
 
