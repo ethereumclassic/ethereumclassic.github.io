@@ -102,7 +102,7 @@ https://blockscout.com/etc/mainnet/address/0xd4e36Ae112915C9b18700505ee5898B562a
 
 ## Search ETC by Block Number
 
-1. In the same way that you look up ETC addresses or transactions on Blockscout, you can also search individual blocks by their number. For this example, just for fun, we typed in the search field the block number 1,920,000, which is the infamous block in which the Ethereum network split from ETC in 2016. You may enter the block number you wish to search, then press enter.
+1. In the same way that ETC addresses or transactions can be looked up on Blockscout, one can also search individual blocks by their number. For this example, just for fun, we typed in the search field the block number 1,920,000 which is the infamous block in which the Ethereum network split from ETC in 2016. Enter any block number for which you wish to search in the top right-hand search field described above then press `Enter`.
 
 ![](7.png)
 
