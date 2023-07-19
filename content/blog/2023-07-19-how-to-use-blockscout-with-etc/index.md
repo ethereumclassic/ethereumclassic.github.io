@@ -36,7 +36,7 @@ This is a new level of transparency in the world of finance, not only because th
 
 The data on these websites may be organized by block, by transactions, or address, and often have more statistics and charts that are useful to analyze the activity in the networks.
 
-Examples of popular block explorers and what is the blockchain for which they are most identified for are:
+Some examples of popular block explorers and the blockchains with which they are most often associated are:
 
 Blockscout.com -> Ethereum Classic (ETC)
 
