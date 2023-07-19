@@ -78,7 +78,7 @@ On the home page, at the top right is the basic information of the ETC blockchai
 
 ![](2.png)
 
-2. In the next screen, Blockscout will show you a box at the top with the main statistics of that address. This includes: the balance, tokens it holds (if any), total transactions done in this address, token transfers, total gas used in this address, and the latest block in which the balance was updated.
+2. On the next screen, Blockscout will show a box at the top of the page with the main statistics for that address. This includes the balance, tokens it holds (if any), the total number of transactions done with this address, token transfers, total gas used by this address, and the latest block in which the balance was updated.
 
 Note that the address has its own URL on Blockscout, which is: 
 
