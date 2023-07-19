@@ -64,7 +64,7 @@ In the next sections, we will explain how to use Blockscout with the Ethereum Cl
 
 ## The Blockscout Home
 
-To use Blockscout with Ethereum Classic users need to type https://blockscout.com/etc/mainnet on their browsers and go to the website.
+In order to use Blockscout with Ethereum Classic, users should point their browser to https://blockscout.com/etc/mainnet which will take them to the Blockscout home page.
 
 On the home page, on the top right, it has the basic information of the ETC blockchain, including average block time, total transactions since inception, total blocks (or block height), and total wallet addresses created inside the ledger. On the top left it has a chart with the market price and other statistics, and in the body of the page the latest  blocks and transactions. To search for addresses, specific transactions, blocks, or tokens, there is a field on the top right hand corner to enter the search query.
 
