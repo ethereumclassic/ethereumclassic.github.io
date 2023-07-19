@@ -92,7 +92,7 @@ https://blockscout.com/etc/mainnet/address/0xd4e36Ae112915C9b18700505ee5898B562a
 
 ## Search ETC by Transaction (TX)
 
-1. On Blockscout, you can search individual transactions as well. To search a specific transaction, you need to enter the transaction hash on the top right hand corner field and press enter.
+1. On Blockscout, you can also search individual transactions. To search for a specific transaction, enter the transaction hash in the top right-hand corner field and press `Enter`.
 
 ![](5.png)
 
