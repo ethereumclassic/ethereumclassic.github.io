@@ -96,7 +96,7 @@ https://blockscout.com/etc/mainnet/address/0xd4e36Ae112915C9b18700505ee5898B562a
 
 ![](5.png)
 
-2. In the next screen you will see that the transaction URL is also unique for each transaction. On the body of the page you will see the top box with the following data points: transaction hash (also called transaction ID), result (if the transaction has been processed successfully), status, the block number in which it was included, timestamp, from which and to which addresses the money was moved, value of the transaction, the fee, and the gas price.
+2. In the next screen, one can see that the website URL is also unique for each transaction. In the body of the page, the top box shows the following data points: transaction hash (also called transaction ID), result (if the transaction has been processed successfully), status, the block number in which it was included, timestamp, from which and to which addresses the ETC was moved, the value of the transaction, the fee, and the gas price.
 
 ![](6.png)
 
