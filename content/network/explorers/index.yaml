@@ -60,3 +60,6 @@ items:
         __etc: https://explorer-expedition.etc-network.info/?network=Ethereum+Classic+at+etc-network.info+BESU+-+DE
         __kotti: https://explorer-expedition.etc-network.info/?network=Ethereum+Classic+at+etc-network.info+GETH+Kotti
         __mordor: https://explorer-expedition.etc-network.info/?network=Ethereum+Classic+at+etc-network.info+GETH+Mordor
+      Etcerscan:
+        __name: Etcerscan
+        __etc: https://etcerscan.com/
