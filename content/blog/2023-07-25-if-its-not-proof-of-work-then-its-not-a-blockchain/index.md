@@ -15,6 +15,8 @@ linkImage: ./banner.png
 
 ---
 
+![](./banner.png)
+
 After the invention of Bitcoin, people with no understanding started to falsely question the "inefficiency" and "waste of energy" of the proof of work consensus mechanism. 
 
 Then, they invented replacement systems such as proof of stake; which uses deposits of money inside the network to produce blocks instead of energy; and proof of authority; which uses the "reputation" of the validators as the only guarantee that they will respect the system's protocol.
@@ -44,8 +46,6 @@ The stamps are extremely costly to produce, therefore very difficult to violate.
 These stamps are the only way to guarantee that all the participating computers in the system will follow exactly the same state of the chain, at the same time, without even consulting with one another or receiving orders from higher authorities who control the system. This is what makes a real blockchain truly decentralized. All alternatives are inexorably centralized. Just like corporate cloud services.
 
 The term "block" denotes hardness and power; very much like true bricks, blocks of concrete, or stones; similar to how ancient city walls were protective barriers against invaders.
-
-![Blocks of cardboard vs blocks of gold.](./banner.png)
 
 A wall made of cardboard is no protection, is easy to build by imposters, and easy to discard by those who seek truly protective walls made of really hard materials.
 
