@@ -14,7 +14,7 @@ linkImage: ./banner.png
 
 ---
 
-![](./0.png)
+![](./explorers.png)
 
 In the previous class 31, we saw where to find cryptocurrency lists and prices by describing the quotation services CoinMarketCap, CoinGecko, and Messari. 
 
