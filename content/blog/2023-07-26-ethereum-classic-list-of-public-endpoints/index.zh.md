@@ -22,7 +22,7 @@ Mordor测试网络：https://rpc.mordor.etccooperative.org
 
 以下是ETC合作社公告的链接：https://etccooperative.org/posts/2023-06-24-important-announcement-migrate-the-etc-and-mordor-rpc-endpoints-by-july-24-2023-en
 
-![ETC RPC endpoints.](./banner.png)
+![ETC RPC endpoints.](./banner2.png)
 
 在本文中，我们将解释公共RPC端点是什么，供钱包、挖矿池、独立矿工、去中心化应用（DApps）、开发团队或其他端点用户使用，以及以太经典（ETC）主网和Mordor测试网络的端点位置，并指出可以从不同提供者处找到端点列表。
 
