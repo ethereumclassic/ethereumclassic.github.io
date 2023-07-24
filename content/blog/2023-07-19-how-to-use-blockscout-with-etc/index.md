@@ -4,7 +4,7 @@ date: 2023-07-19
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["guide"]
-linkImage: ./banner.png
+linkImage: ./banner2.png
 ---
 
 ---
@@ -14,7 +14,7 @@ linkImage: ./banner.png
 
 ---
 
-![Blockscout and Ethereum Classic.](banner.png)
+![Blockscout and Ethereum Classic.](banner2.png)
 
 Two things I initially noticed when I used a blockchain, the Bitcoin blockchain, for the first time back in 2013 were that money would move from one place to another in ten to sixty minutes and that every single transaction was public, totally transparent, and traceable through some special websites. After twenty-three years of working in banking and finance, this was a mind-boggling experience and a huge change in paradigm.
 
