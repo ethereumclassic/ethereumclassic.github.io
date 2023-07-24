@@ -22,7 +22,7 @@ Mordor testnet: https://rpc.mordor.etccooperative.org
 
 Following is the link to the ETC Cooperative’s announcement: https://etccooperative.org/posts/2023-06-24-important-announcement-migrate-the-etc-and-mordor-rpc-endpoints-by-july-24-2023-en 
 
-![ETC RPC endpoints.](./banner.png)
+![ETC RPC endpoints.](./banner2.png)
 
 In this post we will explain what are public RPC endpoints for use by wallets, mining pools, solo miners, dapps, developer teams, or other kinds of endpoint users, what are the endpoints for the Ethereum Classic (ETC) mainnet and the Mordor testnet, and where to find the lists of endpoints from different providers.
 
