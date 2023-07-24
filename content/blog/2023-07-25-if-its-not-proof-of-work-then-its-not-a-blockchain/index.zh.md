@@ -1,5 +1,5 @@
 ---
-title: "If It's Not Proof of Work, Then It's Not a Blockchain"
+title: "若非工作量证明，即非区块链"
 date: 2023-07-25
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -9,74 +9,72 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容：**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ETM6yO39wvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-After the invention of Bitcoin, people with no understanding started to falsely question the "inefficiency" and "waste of energy" of the proof of work consensus mechanism. 
+在比特币问世之后，一些对其不了解的人开始错误地质疑“工作量证明”共识机制的“低效性”和“能源浪费”。
 
-Then, they invented replacement systems such as proof of stake; which uses deposits of money inside the network to produce blocks instead of energy; and proof of authority; which uses the "reputation" of the validators as the only guarantee that they will respect the system's protocol.
+于是，他们发明了替代性系统，如“权益证明”（proof of stake），它使用网络内的货币存款来生成区块，而不是使用能源；以及“权威证明”（proof of authority），它仅依赖验证者的“声誉”作为他们遵守系统协议的唯一保证。
 
-These replacement systems are not blockchains, they are imposters.
+这些替代性系统并非区块链，它们是冒充者。
 
-## What Is a blockchain?
+## 什么是区块链？
 
-A blockchain is chain of blocks of data that are sealed and linked by proof of work stamps or hashes. It is the database of the system that is replicated in all nodes of the network for maximum redundancy, thus security. 
+区块链是一系列通过工作量证明的时间戳或哈希密封的数据块链。它是系统的数据库，在网络的所有节点中进行复制，以实现最大的冗余性和安全性。
 
-The blockchain is not the network itself, nor the aggregate of machines and miners of the system. However, many in the industry call these systems "blockchains" for simplicity.
+区块链并不是网络本身，也不是系统中的机器和矿工的聚合体。然而，出于简单起见，许多行业内的人将这些系统称为“区块链”。
 
-In computer science, a group of data, or selection of records from a set of data, is called a "batch". When a batch of Ethereum Classic (ETC) transactions, a proof of work blockchain, is grouped and then is sealed with a proof of work stamp or hash, then it is called a "block". If it is not sealed, then it remains just an unprotected batch of data.
+在计算机科学中，一组数据或从一组数据中选择的记录被称为“批次”。当以太经典（ETC）交易的一批被分组，并用工作量证明的时间戳或哈希密封，那么它就被称为“区块”。如果没有被密封，那么它仅仅是一批未受保护的数据。
 
-Only proof of work cryptographically sealed batches of data, in a competitive miner environment such as ETC or Bitcoin, are very difficult to tamper with blocks.
+只有在竞争激烈的矿工环境中，如ETC或比特币，通过密码学密封的数据批次才非常难以篡改成区块。
 
-Batches of data created with no work by people or entities who made cash deposits in a network, or are just trusted because they have "good reputation", are not blocks, they are just what they are, unprotected and easy to tamper with batches of data. 
+而由于人或实体在网络中作出现金存款而创建的没有经过工作量证明的数据批次，或者仅仅因为他们有“良好声誉”而受到信任的批次，不是区块，它们只是它们本身，是容易被篡改的未经保护的数据批次。
 
-Imitating the format of blocks does not make a system a blockchain proper.
+## 只有工作量证明的区块链才是真正的区块链
 
-## Only Proof of Work Chains of Blocks Are Blockchains
+真正区块链的全部意义在于付出大量的工作来创建封印区块的时间戳或哈希。
 
-The whole point of a true blockchain is to do a lot of work to create the stamps or hashes, that seal the blocks.
+这些时间戳的生成成本极高，因此非常难以被破坏。
 
-The stamps are extremely costly to produce, therefore very difficult to violate.
+这些时间戳是确保系统中所有参与的计算机将在同一时间遵循完全相同的链状态的唯一方式，它们甚至不需要相互协商或接收来自控制系统的上级机构的命令。这就是真正的区块链之所以真正分散的原因。所有其他替代方案无可避免地是集中化的。就像企业云服务一样。
 
-These stamps are the only way to guarantee that all the participating computers in the system will follow exactly the same state of the chain, at the same time, without even consulting with one another or receiving orders from higher authorities who control the system. This is what makes a real blockchain truly decentralized. All alternatives are inexorably centralized. Just like corporate cloud services.
-
-The term "block" denotes hardness and power; very much like true bricks, blocks of concrete, or stones; similar to how ancient city walls were protective barriers against invaders.
+术语“区块”表示坚固和强大，就像真正的砖块、混凝土块或石头一样，类似于古代城墙作为保护屏障来抵御入侵者。
 
 ![Blocks of cardboard vs blocks of gold.](./banner.png)
 
-A wall made of cardboard is no protection, is easy to build by imposters, and easy to discard by those who seek truly protective walls made of really hard materials.
+纸板制成的墙无法提供保护，冒名顶替者可以轻易建造，那些寻求真正由非常坚固材料构成的保护墙也可以轻易丢弃。
 
-A chain of blocks made of very costly proof of work stamps is very easy to identify and select versus a chain made with no work at all. It is like comparing blocks of cardboard versus blocks of gold. All nodes in the system can easily identify the real chain just by assaying the material, they don't need any more information. This is the true invention of Satoshi Nakamoto.
+用非常昂贵的工作量证明时间戳制作的区块链，与根本没有经过工作量证明的链相比，非常容易辨认和选择。这就像比较纸板和黄金制成的块一样。系统中的所有节点可以通过检验材料轻松识别真实的链，他们不需要任何其他信息。这就是Satoshi Nakamoto的真正发明。
 
-To say that proof of stake or proof of authority systems (and all the variations in between) are blockchains is like saying that a door is locked, but it doesn't have a lock. Or, that a letter from a king is "sealed", but it doesn't have a wax seal with his imprint. Or that a network is decentralized, but it is really centralized.
+声称权益证明或权威证明系统（以及其中所有的变种）是区块链，就像说一扇门被锁上了，但它没有锁一样。或者说国王的信件是“封好的”，但它没有蜡封印和他的印记。或者说一个网络是分散的，但实际上是集中化的。
 
-It is a lie that many can't see because they are misguided by those systems' promoters, who use difficult technical terms, convoluted designs, and long unreadable pseudo-scientific papers to trick the masses to accept their ideas with no questioning for fear of missing out.
+这是一个谎言，许多人看不到，因为他们被这些系统的推崇者所误导，他们使用复杂的技术术语、复杂的设计和难以阅读的伪科学论文来欺骗大众接受他们的想法，而不敢质疑，生怕错过机会。
 
-## ETC's Proof of Work Consensus Mechanism Is Not "Inefficient" nor "Wastes Energy"
+## ETC的工作量证明共识机制既不“低效”也不“浪费能源”
 
-The fallacy that proof of work is inefficient is debunked with two arguments:
+关于工作量证明低效的谬误可以通过以下两个论点得到反驳：
 
-1. The high cost of producing the cryptographic stamp is precisely the whole point of the method. Without that work done, then there would be no information available for all participants to discern which is the correct block or chain in the network in a decentralized way.
+1. 生产加密时间戳的高成本正是这种方法的全部意义所在。如果没有完成这项工作，那么所有参与者将无法以分散化的方式确定网络中正确的区块或链的信息。
 
-2. The true inefficiency is NOT proof of work. Proof of work, proof of stake, and proof of authority are equally inefficient in terms of scalability (the ability to process larger amount of transactions per unit of time) because the rule of full replication of the data is what obligates the protocol design to create smaller blocks or batches of data that fit less transactions per block or batch. And, to create the block or batches of data in intervals not shorter than twelve seconds. Proof of this is that when Ethereum moved from proof of work to proof of stake in September 15 2022 it did not increase scalability at all! It is today the same unscalable system with the same high fees as before! It was never proof of work the source of "inefficiency".
+2. 真正的低效率并不在于工作量证明本身。工作量证明、权益证明和权威证明在可扩展性（每单位时间处理更多交易的能力）方面同样低效，因为完全复制数据的规则使得协议设计必须创建较小的区块或数据批次，每个区块或批次可以容纳的交易数量较少，并且区块或批次的创建间隔不得短于十二秒。作为证明，当以太坊在2022年9月15日从工作量证明转向权益证明时，并没有提高可扩展性！它如今仍然是同样不可扩展的系统，与之前的高手续费一样！工作量证明从来不是“低效”的根源。
 
-The fallacy that proof of work wastes energy is debunked by four arguments:
+关于工作量证明浪费能源的谬误可以通过以下四个论点得到反驳：
 
-1. Proof of work enables consensus between all computers in a global permissionless peer-to-peer network with the highest security guaranty known to man.
+1. 工作量证明使全球无权限的对等网络中的所有计算机达成共识，具有人类所知的最高安全性保证。
 
-2. Provides a focal point for entry, exit, and reentry of any participant in world in their complete isolation without any certification, license, special interest dispensation, or authority approval. 
+2. 为世界上任何参与者的进入、退出和重新进入提供了一个焦点，这些参与者在完全孤立的情况下进行，无需任何认证、许可、特殊利益豁免或授权批准。
 
-3. Protects all the history of transactions of the ledger by forming a practically inviolable chain of stamps that, collectively, are extremely costly to recreate and would take a very long time to do.
+3. 通过形成一条几乎无法被侵犯的时间戳链来保护账本的所有交易历史记录，这些时间戳共同构成了极其昂贵且需要很长时间才能重建的链。
 
-4. Creates hard money because the cost of creating blocks is equal to the cost of creating the cryptocurrency, just like gold in the physical world.
+4. 创建硬通货，因为创建区块的成本等于创建加密货币的成本，就像在物理世界中的黄金一样。
 
-All these benefits combined have unprecedented value for human action across the world, which is hardly a waste. And, only networks that use the consensus mechanism that provides such benefits are blockchains.
+所有这些优势的结合对全球范围内的人类行为具有前所未有的价值，这绝不是浪费。而且，只有使用能够提供这些优势的共识机制的网络才是真正的区块链。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
