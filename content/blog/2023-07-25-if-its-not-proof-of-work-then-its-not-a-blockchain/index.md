@@ -25,7 +25,7 @@ These replacement systems are not blockchains, they are imposters.
 
 ## What Is a blockchain?
 
-A blockchain is chain of blocks of data that are sealed and linked by proof of work stamps or hashes. It is the database of the system that is replicated in all nodes of the network for maximum redundancy, thus security. 
+A blockchain is a chain of blocks of data that are sealed and linked by proof of work stamps or hashes. It is the database of the system that is replicated in all nodes of the network for maximum redundancy, thus security. 
 
 The blockchain is not the network itself, nor the aggregate of machines and miners of the system. However, many in the industry call these systems "blockchains" for simplicity.
 
