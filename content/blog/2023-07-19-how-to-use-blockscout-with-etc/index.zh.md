@@ -4,7 +4,7 @@ date: 2023-07-19
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["guide"]
-linkImage: ./banner.png
+linkImage: ./banner2.png
 ---
 
 ---
@@ -14,7 +14,7 @@ linkImage: ./banner.png
 
 ---
 
-![Blockscout and Ethereum Classic.](banner.png)
+![Blockscout and Ethereum Classic.](banner2.png)
 
 2013年我第一次使用区块链，当时是比特币区块链，有两件事给我留下了深刻印象。第一是资金在十到六十分钟内从一个地方转移到另一个地方，第二是每一笔交易都是公开的，完全透明的，并且可以通过特定的网站进行追踪。在银行和金融领域工作了23年后，这是一次令人难以置信的经历，也是一个巨大的范式转变。
 
