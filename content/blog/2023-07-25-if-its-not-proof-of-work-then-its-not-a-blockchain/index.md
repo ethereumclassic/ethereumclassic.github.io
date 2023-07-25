@@ -39,7 +39,7 @@ Imitating the format of blocks does not make a system a blockchain proper.
 
 ## Only Proof of Work Chains of Blocks Are Blockchains
 
-The whole point of a true blockchain is to do a lot of work to create the stamps or hashes, that seal the blocks.
+The whole point of a true blockchain is to do a lot of work to create the stamps or hashes that seal the blocks.
 
 The stamps are extremely costly to produce, therefore very difficult to violate.
 
