@@ -52,7 +52,7 @@ However, there are more options and these are published in various lists on the 
 
 ## List on the Ethereum Classic Community Website
 
-To see more options of all the RPC endpoints that you may use to connect to the ETC blockchain or the Mordor testnet, you may go to the Ethereum Classic community website to the following link:
+To see more options of all the RPC endpoints that you may use to connect to the ETC blockchain or the Mordor testnet, you may go to the Ethereum Classic community website at the following link:
 
 https://ethereumclassic.org/network/endpoints
 
