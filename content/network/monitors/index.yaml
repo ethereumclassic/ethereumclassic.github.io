@@ -46,10 +46,6 @@ items:
         __name: Fork Watch
         __link: https://www.forkwatch.io/
         description: ForkWatch is a NiceHash monitoring tool that alerts about anomalies on specific algorithms on the NiceHash market, especially when the price of renting BTC/TH/Day changes. This helps stakeholders of specific coins be warned in case mining power is potentially rented for an incoming attack on a specific network.
-      Kotti Stats:
-        __name: Kotti Stats
-        __kotti: http://stats.kotti.goerli.net/
-        description: Network stats for the Ethereum Classic Kotti Testnet.
       MiningPoolStats:
         __name: MiningPoolStats
         __link: https://miningpoolstats.stream/ethereumclassic
