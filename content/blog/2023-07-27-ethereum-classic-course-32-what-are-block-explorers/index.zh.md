@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Course: 32. What Are Block Explorers?"
+title: "以太坊经典课程：第32课，什么是区块链浏览器？"
 date: 2023-07-27
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mxG9fDqOZ6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,146 +16,144 @@ linkImage: ./banner.png
 
 ![](./explorers.png)
 
-In the previous class 31, we saw where to find cryptocurrency lists and prices by describing the quotation services CoinMarketCap, CoinGecko, and Messari. 
+在上一节课（第31课）中，我们介绍了CoinMarketCap、CoinGecko和Messari等行情服务，从而了解到了在哪里可以找到加密货币列表和价格。
 
-In this class we will learn what was the transparency paradigm change that the blockchain industry brought as compared to banking, how data exists in a blockchain as Ethereum Classic (ETC), what are block explorers, and a description of several block explorers that support ETC. 
+在本课中，我们将学习区块链行业相对于银行业带来的透明性范式转变，以及以太坊经典（ETC）这样的区块链中数据是如何存在的，什么是区块浏览器，并描述一些支持ETC的区块浏览器。
 
-In the next class 33 we will explain what are centralized and decentralized exchanges.
+在下一节课（第33课）中，我们将解释什么是中心化和去中心化交易所。
 
-## The Paradigm Change in Transparency
+## 透明性的范式变革
 
-When we make payments with credit cards and mobile apps, or use banking transfer systems such as wire transfers or other settlement systems, we usually initiate the payments and then many hours or days must pass for all the steps of the process to go through and the money to be moved from the initiating account to the destination account. 
+当我们使用信用卡、移动应用进行支付，或使用银行转账系统（如电汇或其他结算系统）时，我们通常会发起支付，然后必须经过数小时或数天的时间，才能完成整个过程并将资金从发起账户转移到目标账户。
 
-From an end user perspective, or even for insiders in different parts of the process, there is no transparency of what is the state of these movements of money. The system is a black box for everyone. Only when funds are debited from one account and, long after, credited in the other do the parties of a transaction have visibility of the payment.
+从终端用户的角度，甚至对于流程中的内部人员而言，这些资金流动的状态都是不透明的。整个系统对所有人都是一个黑盒子。只有在资金从一个账户中扣除，并在较长时间后存入另一个账户时，交易各方才能看到支付的情况。
 
-The blockchain industry changed this completely with complete transparency. When anyone sends a transaction to a blockchain such as ETC, the whole lifecycle of that transaction is visible by anyone running a node or using special websites that index all this data and offer it for free for anyone to search and audit.
+而区块链行业通过完全透明的方式彻底改变了这一点。当任何人向像ETC这样的区块链发送交易时，所有交易的整个生命周期对于运行节点或使用特殊网站的任何人来说都是可见的。这些特殊网站会索引所有这些数据，并为任何人免费提供搜索和审计的功能。
 
-The longest it takes in the blockchain industry for a transaction to settle is ten minutes, which is the time it takes for the Bitcoin network to process blocks. In ETC this happens every 13 seconds.
+在区块链行业，交易结算的最长时间是十分钟，这是比特币网络处理区块的时间。而在ETC中，这个时间是每13秒一次。
 
-The interesting thing is that not only the transfers are faster, global, and transparent, but that users may constantly monitor their transactions on the special websites mentioned above that are sort of third party witnesses of all the action.
+有趣的是，不仅转账更快、全球化且透明，而且用户可以在上述特殊网站上不断监控他们的交易，这些网站可以看作是所有交易活动的第三方见证。
 
-## How Does Blockchain Data Exist in ETC and Other Blockchains?
+## 以太坊经典（ETC）和其他区块链中的数据是如何存在的？
 
-When any transaction is sent to a blockchain such as ETC, it is received by nodes and re-transmitted immediately to the rest of the of the network. Each node has a full copy of all transactions, therefore everyone may know the state of all transfers live, even if they have not been included in a block yet. The state or place where transactions are in this stage is called the mempool.
+当任何交易被发送到像以太坊经典（ETC）这样的区块链时，它会被节点接收并立即转发到整个网络中。每个节点都有所有交易的完整副本，因此每个人都可以实时了解所有转账的状态，即使它们尚未包含在区块中。这个阶段交易所处的状态或位置被称为内存池（mempool）。
 
-Then, transactions that are correctly signed, have the right balances, and are formed according to protocol rules will eventually be included in a block by miners.
+然后，经过正确签名、具有正确余额并符合协议规则的交易最终将由矿工纳入一个区块中。
 
-When Miners create new blocks of transactions, they send them to the rest of the network for full replication as happens with individual transactions.
+当矿工创建新的交易区块时，他们将这些区块发送到整个网络，以进行完全复制，就像对个别交易所做的那样。
 
-When all nodes in the network receive the new blocks, they add them to what is called the chain of blocks, or blockchain, which is the end  state of all blocks, transactions, and data of the system.
+当网络中的所有节点接收到新的区块时，它们将其添加到所谓的区块链，也就是所有区块、交易和系统数据的最终状态。
 
-As mentioned above, the blockchain, as a database, is replicated in all nodes of the system, so anyone running a node has all the information of the history and what is going on in the network.
+如上所述，区块链作为一个数据库在系统的所有节点中进行了复制，因此任何运行节点的用户都可以获取历史信息以及网络中正在发生的情况。
 
-## What Are Block Explorers?
+## 什么是区块浏览器？
 
-Block explorers are the special websites mentioned before that run nodes of the various blockchains, including ETC, index the information of their databases, and show the information to the public on demand.
+区块浏览器是之前提到的特殊网站，它们运行各种区块链（包括ETC），对其数据库中的信息进行索引，并根据需求向公众展示这些信息。
 
-This is a new level of transparency in the world of finance, not only because the information is available, but because ordinary users can use these third party services to track and audit the blockchains.
+这是金融世界中的一种新的透明度水平，不仅因为信息是可获取的，而且普通用户可以使用这些第三方服务来跟踪和审计区块链。
 
-The data on these websites may be organized by block, by transaction, or by address, and often have more statistics and charts that are useful to analyze the activity in the networks.
+这些网站上的数据可以按照区块、交易或地址进行组织，并经常具有更多的统计数据和图表，有助于分析网络中的活动情况。
 
-Examples of popular block explorers, and what is the blockchain for which they are most identified for, are:
+以下是几个支持ETC的热门区块浏览器及其主要标识的区块链：
 
-Blockscout.com -> Ethereum Classic (ETC)
+Blockscout.com -> 以太坊经典（ETC）
+Blockchain.com -> 比特币（BTC）
+Etherscan.io -> 以太坊（ETH）
 
-Blockchain.com -> Bitcoin (BTC)
-
-Etherscan.io -> Ethereum (ETH)
-
-In the following sections we will describe several block explorers that support ETC.
+接下来的章节中，我们将描述几个支持以太坊经典的区块浏览器。
 
 ## Blockscout
 
 ![Blockscout](./1.png)
 
-Blockscout is the most popular ETC block explorer and is maintained by the ETC Cooperative. To use Blockscout with ETC you may go to the following link:
+Blockscout是最受欢迎的以太坊经典（ETC）区块浏览器，由ETC合作社维护。您可以通过以下链接使用Blockscout查看ETC的信息：
 
 https://blockscout.com/etc/mainnet
 
-Blockscout enables users to search the ETC blockchain by address, transaction, block, or token symbol.
+Blockscout允许用户通过地址、交易、区块或代币符号来搜索ETC区块链。
 
-**Address:** Users may enter the address they wish to check and see the balance, tokens it holds, total transactions, token transfers, total gas used, and the latest block in which the balance was updated.
+**地址：** 用户可以输入他们想要查询的地址，然后查看该地址的余额、持有的代币、总交易次数、代币转账次数、总使用的Gas量以及最近一次更新余额的区块。
 
-**Transaction:** Users may enter a transaction ID and see the status, the block number in which it was included, timestamp, from which and to which addresses the money was moved, value of the transaction, the fee, and the gas price.
+**交易:** 用户可以输入交易ID，然后查看交易的状态、所在区块号、时间戳、资金从哪个地址转出，转入哪个地址，交易的价值、手续费和Gas价格。
 
-**Block:** Users may enter a block number and see its timestamp, how many transactions it contained, which was the miner that mined the block, block size in bytes, the block cryptographic stamp or hash, the hash of the previous block or parent hash, the mining difficulty, total difficulty of the chain up to this block, the gas used, the gas limit, the nonce used to create the block hash, and the miner reward.
+**区块:**  用户可以输入区块号，然后查看该区块的时间戳、包含的交易数量、挖矿该区块的矿工、区块大小（以字节为单位）、区块的加密戳或哈希值、上一个区块的哈希值（父哈希）、挖矿难度、链上截至该区块的总难度、Gas使用量、Gas限制、用于创建区块哈希的随机数（Nonce）以及矿工奖励。
 
-**Token symbol:** Users may search tokens by their symbol. For example, to see the HebeSwap token they can enter HEBE and its profile page and stats will appear. The same with WETC, the ETC wrapped token that is used on dapps.
+**代币符号:** 用户可以通过代币符号搜索代币。例如，要查看HebeSwap代币，他们可以输入HEBE，并会显示其概要页面和统计数据。对于WETC，这是在去中心化应用中使用的以太坊经典包装代币，也是一样的操作方式。
 
 ## EtcBlockExplorer
 
 ![EtcBlockExplorer](./2.png)
 
-EtcBlockExplorer is maintained by the team that created the Guarda wallet. To use EtcBlockExplorer with ETC you may go to:
+EtcBlockExplorer由创建Guarda钱包的团队维护。您可以通过以下链接使用EtcBlockExplorer查看ETC的信息：
 
 https://etcblockexplorer.com
 
-EtcBlockExplorer enables users to search the ETC blockchain by address, transaction, or block, and also has a section that shows the mempool.
+EtcBlockExplorer允许用户通过地址、交易或区块来搜索ETC区块链，并且还有一个显示内存池（mempool）的部分。
 
-**Address:** Users may enter the address they wish to check and see the balance, the transaction history, non-contract transactions, and token balances.
+**地址:** 用户可以输入他们想要查询的地址，然后查看该地址的余额、交易历史、非合约交易和代币余额（如果有的话）。
 
-**Transaction:** Users may enter a transaction ID and see the block in which it was included, the value, the transaction fee, timestamp, the raw code of the transaction, and number of confirmations.
+**交易:** 用户可以输入交易ID，然后查看该交易所在的区块、价值、交易手续费、时间戳、交易的原始代码和确认数。
 
-**Block:** Users may enter a block number and see the block stamp or hash, number of transactions, timestamp, bytes, the nonce, and the difficulty.
+**区块:** 用户可以输入区块号，然后查看该区块的戳或哈希值、交易数量、时间戳、字节数、Nonce（随机数）和难度。
 
-**Mempool:** By clicking on the link “Mempool” on the home, users may check the mempool of the ETC pending transactions.
+**内存池:** 通过在首页点击“Mempool”链接，用户可以查看ETC待处理交易的内存池。
 
 ## BlockExplorer.one
 
 ![BlockExplorer.one](./3.png)
 
-BlockExplorer.one is maintained by a company with the same name. To use BlockExplorer.one with ETC you may go to:
+BlockExplorer.one由一家同名公司维护。您可以通过以下链接使用BlockExplorer.one查看ETC的信息：
 
 https://blockexplorer.one/ethereum-classic/mainnet
 
-BlockExplorer.one enables users to search the ETC blockchain by address, transaction, or block, and also has a market data list and page for Ethereum Classic.
+BlockExplorer.one允许用户通过地址、交易或区块来搜索ETC区块链，并且还提供了一个Ethereum Classic的市场数据列表和页面。
 
-**Address:** Users may enter the address they wish to check and see the balance, total received, total sent, the transactions in the address, and the tokens it holds, if any.
+**地址：** 用户可以输入他们想要查询的地址，然后查看该地址的余额、总接收金额、总发送金额、地址中的交易和代币余额（如果有）。
 
-**Transaction:** Users may enter a transaction ID and see the amount, the transaction block number, fee, number of confirmations, and the date and time of the transaction.
+**交易：** 用户可以输入交易ID，然后查看交易金额、交易所在区块号、手续费、确认数以及交易的日期和时间。
 
-**Block:** Users may enter a block number and see the received time, total transactions, confirmations, difficulty, reward, block hash, gas limit, and gas used.
+**区块：** 用户可以输入区块号，然后查看接收时间、总交易数、确认数、难度、奖励、区块哈希、Gas限制和Gas使用量。
 
-**Market data:** By clicking on the “More Market Data” link on the ETC page, users may go to the token list quotation service and by clicking on “ETC” they can see its market data page.
+**市场数据：** 通过在ETC页面点击“More Market Data”链接，用户可以进入代币列表行情服务，并点击“ETC”可以查看其市场数据页面。
 
 ## EtcScan
 
 ![EtcScan](./4.png)
 
-EtcScan is maintained by the team who created the HebeSwap decentralized exchange. To use EtcScan with ETC you may go to:
+EtcScan由创建HebeSwap去中心化交易所的团队维护。您可以通过以下链接使用EtcScan查看ETC的信息：
 
 https://etcscan.cc
 
-EtcScan enables users to search the ETC blockchain by address, transaction, block, token, or ETC domain name.
+EtcScan允许用户通过地址、交易、区块、代币或ETC域名来搜索ETC区块链。
 
-**Address:** Users may enter an address and see the balance, tokens, and transactions. They also have the option to enter a name tag for the address by pressing on the “Submit info” link.
+**地址：** 用户可以输入地址，然后查看该地址的余额、代币和交易。他们还可以通过点击“Submit info”链接来输入地址的名字标签。
 
-**Transaction:** By entering a transaction ID, users may see the status, block, confirmations, timestamp, “from” and “to” addresses, value, fee, and gas price.
+**交易：** 通过输入交易ID，用户可以查看交易的状态、所在区块、确认数、时间戳、“发件人”和“收件人”地址、交易价值、手续费和Gas价格。
 
-**Block:** Users may enter a block number and see the block hash, timestamp, confirmations, the miner, transactions, block reward, total difficulty, block size, gas used, the gas limit, nonce, next block hash, and previous block hash.
+**区块：** 用户可以输入区块号，然后查看该区块的哈希值、时间戳、确认数、矿工、交易数、区块奖励、总难度、区块大小、Gas使用量、Gas限制、Nonce、下一个区块哈希和上一个区块哈希。
 
-**Token:** Users may search tokens by their symbol.
+**代币：** 用户可以通过代币符号搜索代币。
 
-**ETC domain name:** There is a domain name system in ETC, created by the same team, called “Hens”. Users may enter their domain name on EtcScan, for example “domain.etc”, and see the data for that account.
+**ETC域名：** ETC中有一个域名系统，由同一团队创建，称为“Hens”。用户可以在EtcScan上输入他们的ETC域名，例如“domain.etc”，然后查看该账户的数据。
 
 ## TokenView
 
 ![TokenView](./5.png)
 
-TokenView is maintained by the Tokenview team. To use TokenView with ETC you may go to:
+TokenView由Tokenview团队维护。您可以通过以下链接使用TokenView查看ETC的信息：
 
 https://etc.tokenview.io
 
-TokenView enables users to search the ETC blockchain by address, transaction, or block. It also has two sections, “Whale Tracking” and “Rich List”, which track large ETC transactions and addresses.
+TokenView允许用户通过地址、交易或区块来搜索ETC区块链。它还有两个部分，“Whale Tracking”（鲸鱼追踪）和“Rich List”（富豪榜），用于跟踪大额ETC交易和地址。
 
-**Address:** Users may enter the address they wish to check and see the balance, token balances, and a list of transactions. Addresses may also be labelled by logging in.
+**地址：** 用户可以输入他们想要查询的地址，然后查看该地址的余额、代币余额和交易列表。用户登录后，还可以为地址添加标签。
 
-**Transaction:** Users may enter a transaction ID and see the status, block number, time, the “from” and “to” addresses, amount, fees, gas used, and gas limit, among other data points. 
+**交易：** 用户可以输入交易ID，然后查看交易的状态、所在区块号、时间、交易的“发件人”和“收件人”地址、金额、手续费、Gas使用量、Gas限制等其他数据点。
 
-**Block:** Users may enter a block number and see the time, size in bytes, fees, number of transactions, gas used, gas limit, mining and total difficulty, block reward, confirmations, previous and next block hashes, the miner, the nonce, and other data points.
+**区块：** 用户可以输入区块号，然后查看该区块的时间、字节数、手续费、交易数量、Gas使用量、Gas限制、挖矿难度和总难度、区块奖励、确认数、上一个区块哈希和下一个区块哈希、矿工、Nonce等其他数据点。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
