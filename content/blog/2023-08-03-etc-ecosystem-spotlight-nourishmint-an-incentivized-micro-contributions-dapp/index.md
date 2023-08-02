@@ -9,13 +9,13 @@ linkImage: ./nourishmint-banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**You can watch this interview and presentation here:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1nPnG8YHEFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-In this interview we speak with Istora, an Ethereum Classic volunteer and important contributor, about his project, NourishMint. 
+In the above interview we speak with Istora, an Ethereum Classic volunteer and important contributor, about his project, NourishMint. 
 
 NourishMint is an incentivized micro-contributions dapp that will help benefactors distribute donations to contributors who help causes with small, but repetitive work and actions.
 
