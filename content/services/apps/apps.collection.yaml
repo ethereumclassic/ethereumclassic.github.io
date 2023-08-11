@@ -1,3 +1,20 @@
+- date: 2023-07-28
+  title: ETCFROGB
+  description: ETCFROGB is a cryptomining NFT. Mint your 🐸 NFTs and secure the ETC blockchain while receiving monthly dividends!
+  image: ./images/etcfrogb.jpg
+  type: nfts
+  author: Tricky Mick
+  authorLink: https://www.frogbogs.art/
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x5925630e4D0AB569A40E600064Da2930b4838Da3/contracts#address-tabs
+  links:
+    - name: Launch App
+      link: https://www.frogbogs.art/
+    - name: ETCFROGB Twitter
+      link: https://twitter.com/ETCFROGB
+      icon: link
+    - name: ETCFROGB Telegram
+      link: https://t.me/ETCFrogB
+      icon: link
 - date: 2023-07-05
   title: ETCMC DAO MEMBERSHIP
   description: The ETCMC DAO membership mint site. Mint your membership NFTs and help to build the ETC network.
