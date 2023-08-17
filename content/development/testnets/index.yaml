@@ -52,7 +52,7 @@ items:
         __chainId: 6
         __type: testnet
         __networkId: 6
-        __link: https://github.com/goerli/testnet
+        __link: https://github.com/eth-classic/kotti
         __faucet: http://kottifaucet.me/
         __consensusAlgo: poa
         __miningAlgo: Clique
