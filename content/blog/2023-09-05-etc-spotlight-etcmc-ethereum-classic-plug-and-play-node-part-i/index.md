@@ -14,7 +14,7 @@ linkImage: ./etcmc-banner.png
 
 ---
 
-![ETC and ETCMC.](banner.png)
+![ETCMC](etcmc-banner.png)
 
 ## What Is a Blockchain Node?
 
