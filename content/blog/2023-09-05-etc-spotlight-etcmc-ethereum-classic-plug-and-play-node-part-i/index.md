@@ -4,7 +4,7 @@ date: 2023-09-05
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["guide"]
-linkImage: ./banner.png
+linkImage: ./etcmc-banner.png
 ---
 
 ---
