@@ -4,10 +4,16 @@ date: 2023-09-06
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["guide"]
-linkImage: ./banner.png
+linkImage: ./etcmc-banner.png
 ---
 
 In this opportunity we interviewed Seth McCormack, founder of [ETCMC](https://etcmc.org). 
+
+---
+**You can listen to or watch this interview here:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OOHzxCZ0iZw?si=EEIWaqR4apf5O19x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+---
 
 We asked him the following questions: 
 
