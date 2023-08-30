@@ -124,8 +124,6 @@ When you go to the “Dashboard” tab, you will find the hashrate of your worke
 
 ## 6. We Wish You Success!
 
-![](8.png)
-
 We wish you success and happy ETC mining!
 
 You may watch this whole explanation in video form here:
