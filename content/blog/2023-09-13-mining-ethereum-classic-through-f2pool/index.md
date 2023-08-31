@@ -131,9 +131,6 @@ As time passes by you will see your earnings here and you will be able to withdr
 
 We wish you a happy ETC mining!
 
-
-
-
 ---
 
 **Thank you for reading this article!**
