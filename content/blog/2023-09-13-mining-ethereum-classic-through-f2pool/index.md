@@ -14,7 +14,7 @@ linkImage: ./f2pool-banner.png
 
 ---
 
-![ETC Mining Pool Ranks.](1.png)
+![ETC Mining Pool Ranks.](11.png)
 
 F2Pool is the largest mining pool in Ethereum Classic (ETC) and the third largest in Bitcoin (BTC). 
 
@@ -24,7 +24,7 @@ In this post, we will explain how to get started with the first steps, how to st
 
 ## 1. Make Sure You Have the Right Mining Gear
 
-![](2.png)
+![](12.png)
 
 We have been using ASIC miners to create these guides to mine ETC. ASICs are the most competitive gear to stay ahead in this highly competitive market.
 
@@ -38,7 +38,7 @@ In the following sections we will explain how to set up your iPollo to mine thro
 
 ## 2. Get an ETC Account
 
-![](3.png)
+![](13.png)
 
 To start mining through F2Pool you will need an ETC address so they may send you your reanings.
 
@@ -57,7 +57,7 @@ For this guide we decided to use our MetaMask wallet and use our address there.
 
 ## 3. Open an Account on F2Pool
 
-![](4.png)
+![](14.png)
 
 The next step is to open an account on F2Pool.
 
@@ -71,7 +71,7 @@ We had to enter our email, then verify it, then opened the account and had to re
 
 ## 4. Add Your ETC Address to F2Pool
 
-![](5.png)
+![](15.png)
 
 Once your account is opened, you need to add your ETC address to your F2Pool profile so they pay you, as we said before.
 
@@ -87,7 +87,7 @@ Then press “OK”.
 
 ## 5. Add F2Pool Settings to Your Miner and Start Mining
 
-![](6.png)
+![](16.png)
 
 Now that you have your F2Pool account created and ready, the next step is to configure your miner to start mining ETC through this pool.
 
@@ -109,7 +109,7 @@ To start mining press “Save & Apply” below.
 
 ## 6. Check Your Mining Statistics
 
-![](7.png)
+![](17.png)
 
 Now that your F2Pool account and your ASIC miner are configured and connected, and mining has started, you will need to wait a few minutes for them to communicate and synchronize and for the work to be transferred from your miner to the pool.
 
@@ -117,11 +117,11 @@ When some time has passed, you will notice on your miner dashboard that the hash
 
 For example, in our case, you may see in the image that the hashrate dedicated to F2Pool is more than 435 MH/s (we don’t know why this product produces such consistent high hashrate if it is specified to produce 280 MH/s as per the manufacturer’s specifications).
 
-![](8.png)
+![](18.png)
 
 If you go to your account on F2Pool again, you should see your ETC dashboard, and if you click on the “worker” tab, the work should be reflected in the hashrate chart, and the worker should be identified below.
 
-![](9.png)
+![](19.png)
 
 If you click on the “Revenue” tab, then you will see you financial statistics with the “Total Income”, “Total Payout”, “Yesterday’s Revenue”, and “Today’s Estimated Revenue” metrics.
 
