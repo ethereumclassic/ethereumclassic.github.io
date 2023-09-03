@@ -1,3 +1,21 @@
+- date: 2023-09-03
+  title: ETCNFT Marketplace
+  description: Explore all your best NFT collections with the new Traits Rank, which is based on trait occurrences and rarity rank. ETCNFT is a new generation NFT marketplace that provides order book trading for NFTs in ERC-721 and ERC-1155 formats without fees. ETCNFT is powered by Ethereum Classic.
+  image: ./images/230903-1150-etcnft-marketplace.jpeg
+  type: nfts
+  author: Etcher
+  authorLink: https://www.etcherium.org/
+  verifiedContract: https://thirdweb.com/ethereum-classic/0x5Fd01b0b5c31AdDed91B4E32d153cB935DdA33b0
+  audit: https://thirdweb.com/ethereum-classic/0x5Fd01b0b5c31AdDed91B4E32d153cB935DdA33b0
+  links:
+    - name: Launch App
+      link: https://etcnft.org/
+    - name: Twitter
+      link: https://twitter.com/etcherium
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/etcherium
+      icon: telegram
 - date: 2023-07-28
   title: ETCFROGB
   description: ETCFROGB is a cryptomining NFT. Mint your 🐸 NFTs and secure the ETC blockchain while receiving monthly dividends!
