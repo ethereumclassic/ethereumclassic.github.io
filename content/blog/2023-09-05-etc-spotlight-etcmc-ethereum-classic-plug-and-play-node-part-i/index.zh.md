@@ -59,7 +59,7 @@ linkImage: ./etcmc-banner.png
 
 ## Ethereum Classic与ETCMC的用例
 
-![](1.png)
+![](1-cn.png)
 
 如前所述，运行您自己的节点比使用可信第三方拥有更高的安全性保证，为用户和团队提供更高的控制权，而且比使用远程云节点服务更快。
 
