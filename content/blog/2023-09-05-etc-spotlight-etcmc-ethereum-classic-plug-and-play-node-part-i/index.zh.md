@@ -1,5 +1,5 @@
 ---
-title: "ETC Spotlight: ETCMC Ethereum Classic Plug and Play Node, Part I"
+title: "ETCMC以太经典即插即用节点，第一部分"
 date: 2023-09-05
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./etcmc-banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yqyrDG5nlkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,95 +16,81 @@ linkImage: ./etcmc-banner.png
 
 ![ETCMC](./etcmc-banner.png)
 
-## What Is a Blockchain Node?
+## 什么是区块链节点？
+区块链是一种点对点计算机网络，其中每个节点都是运行软件客户端的机器，使其能够与其他节点进行通信。
 
-Blockchains are peer-to-peer networks of computers where each node is a machine running a software client that enables it to communicate with other nodes. 
+所有新的交易数据都传输到所有参与的机器，并在所有机器上复制。关于哪个是数据库的最新状态，也称为区块链，是通过共识机制来达成的，通常可以是工作证明或股权证明算法。
 
-All new transaction data is transmitted to all participating machines and is replicated in all of them. Consensus on which is the latest state of the database, also known as the blockchain, is reached through a consensus mechanism, which may usually be a proof of work or proof of stake algorithm.
+由于区块链的安全范 paradigm 式是在尽可能多的机器中复制相同的数据库，以便尽可能多地进行冗余和自我验证，而无需信任第三方，因此在尽可能多的不同地区、文化和世界各地的部分拥有更多的节点越好。
 
-Because the security paradigm of blockchains is to replicate the same identical database in as many machines as possible, so there may be as much redundancy and self verification as possible, without the need to trust third parties, then the more nodes in as many diverse regions, cultures, and parts of the world as possible, the better.
+区块链节点是这些参与机器之一，运行着包含协议的软件客户端，以便成为网络的成员。
 
-A blockchain node is one of these participating machines running the software client that contains the protocol to be able to be a member of the network.
+## 运行节点的好处
+由于区块链有矿工节点和验证节点，运行更多的验证节点还增加了网络的安全性。
 
-## Benefits of Running a Node
+运行节点为用户和dapp开发者提供了更高的安全性。对于交易所、投资者、机构和一般的区块链服务也非常重要。
 
-As blockchains have miner nodes and verifying nodes, to run more verifying nodes also increases the security of the network.
+运行节点是一种直接访问区块链的方式，因此更安全，可以查询账户、余额和dapps，并发送交易。
 
-Running a node provides higher security to users and dapp developers as well. It is also very important for exchanges, investors, institutions, and general blockchain services.
+通过直接访问网络，而不是通过可信第三方，最终用户、开发团队和所有其他经济节点运营商可以获得最高程度的安全性，因为他们可以查询链并发送交易，而无需担心欺诈。
 
-Running a node is a way to access the blockchain directly, thus more securely, to query accounts, balances, and dapps, and to send transactions.
+只要有互联网连接，在以太经典（ETC）等工作证明区块链中，运行节点提供了与系统互动时最高程度的抗审查和无需许可性。
 
-By accessing the network directly, rather than through trusted third parties, end users, developer teams, and all other economic node operators gain the highest degree of security possible because they may query the chain and send transactions without risk of fraud.
+**ETCMC团队最近在社交媒体上表示如下：**
 
-As long as there is an internet connection, in a proof of work blockchain as Ethereum Classic (ETC) running a node provides the highest degree of censorship resistance and permissionlessness when interacting with the system.
+“为什么运行您自己的 #EthereumClassic 节点是为 #ETC 做出贡献的最佳方式之一：
 
-**The ETCMC team recently stated the following on social media:**
+1. 去中心化：
+运行自己的节点有助于去中心化的ETC网络。通过作为节点运营商参与网络，您有助于分配维护和验证区块链的责任。这增强了网络的弹性并减少了对中央基础设施的依赖。
 
-“Why running your own #EthereumClassic node is one of the best ways to contribute to #ETC
+2. 数据完整性：
+当您运行自己的节点时，您可以独立验证ETC区块链上的交易和智能合约。您可以直接访问整个区块链历史，无需依赖外部来源验证交易。这确保了您与之交互的数据的完整性和可信性。
 
-1. Decentralization: 
+3. 隐私和安全性：
 
-Running your own node contributes to the decentralization of the ETC network. By participating in the network as a node operator, you help distribute the responsibility of maintaining and validating the blockchain. This enhances the network's resilience and reduces the reliance on centralized infrastructure.
+通过运行您自己的节点，您可以更好地控制您的数据和交易。您不必依赖第三方节点或信任它们的基础设施。运行节点使您能够通过不将敏感数据暴露给外部服务来保持交易的隐私和安全。
 
-2. Data Integrity: 
+4. 开发和测试：
+如果您是开发人员或在ETC区块链之上构建应用程序，运行您自己的节点为开发和测试提供了本地环境。您可以尝试智能合约，与区块链互动，并调试应用程序，而无需依赖外部节点或服务。
 
-When you run your own node, you independently verify the transactions and smart contracts on the ETC blockchain. You have direct access to the entire blockchain history and can validate transactions without relying on external sources. This ensures the integrity and trustworthiness of the data you interact with.
+5. 网络参与：
+运行您自己的ETC节点允许您积极参与以太经典网络。通过运行节点，您为网络的整体安全性、可靠性和去中心化做出贡献。您成为网络基础设施的一部分，有助于验证交易、传播区块，并维护区块链的完整性。运行您自己的节点还允许您直接访问以太经典网络，使您能够与智能合约互动、探索区块链的历史，并构建利用ETC生态系统的应用程序。”
 
-3. Privacy and Security: 
+来源：https://twitter.com/ETCMC777/status/1674582793769156612
 
-By running your own node, you have better control over your data and transactions. You don't have to rely on third-party nodes or trust their infrastructure. Running a node enables you to keep your transactions private and secure by not exposing sensitive data to external services.
-
-4. Development and Testing:
-
-If you are a developer or building applications on top of the ETC blockchain, running your own node gives you a local environment for development and testing. You can experiment with smart contracts, interact with the blockchain, and debug your applications without relying on external nodes or services.
-
-5. Network Participation: 
-
-Running your own ETC node allows you to actively participate in the Ethereum Classic network. By running a node, you contribute to the network's overall security, reliability, and decentralization. You become part of the network infrastructure, helping to validate transactions, propagate blocks, and maintain the integrity of the blockchain. Running your own node also allows you to have direct access to the Ethereum Classic network, enabling you to interact with smart contracts, explore the blockchain's history, and build applications that leverage the ETC ecosystem."
-
-Souce: https://twitter.com/ETCMC777/status/1674582793769156612
-
-## What Is ETCMC?
-
-Because running nodes is relatively costly due to the size of the blockchain (an ETC full node size is currently around 80 GB), it is difficult to run them on regular computers, much less on machines that are meant for daily use.
-
-To solve this problem, there are companies that have developed very practical specialized devices that are only dedicated to running blockchain nodes.
-
-[ETCMC](https://etcmc.org) is one such company with its product [Ethereum Classic Plug and Play Node](https://www.etcmc.org/etcmc-etc-node), which is a device that connects to the local WiFi network at home or office, and from there users may set up their ETC nodes, either for the mainnet or the Mordor testnet.
-
-## Use Cases of ETCMC With Ethereum Classic
+## Ethereum Classic与ETCMC的用例
 
 ![](1.png)
 
-As said before, running your own node has higher security guarantees than using trusted third parties, gives higher control to users and teams, and it is faster than using remote cloud node services.
+如前所述，运行您自己的节点比使用可信第三方拥有更高的安全性保证，为用户和团队提供更高的控制权，而且比使用远程云节点服务更快。
 
-Some of the use cases for running an ETC node on ETCMC are the following:
+在ETCMC上运行ETC节点的一些用例如下：
 
-**Your local wallet:** Instead of using third parties, users may have their non-custodial wallet in their local machines connect to the blockchain through their own direct nodes.
+**您的本地钱包：** 用户可以在本地计算机上拥有他们的非托管钱包，通过他们自己的直接节点连接到区块链，而不是使用第三方。
 
-**Access globally:** ETCMC may be setup to provide access through VPN connection to its owners even if they are away, anywhere in the world.
+**全球访问：** 即使在世界各地，ETCMC可以通过VPN连接提供给其所有者。
 
-**Make public:** This is a feature planned for the future. The node will be set up as a public endpoint, providing access to the blockchain to the public.
+**公开访问：** 这是一个未来计划的功能。节点将被设置为公共端点，向公众提供对区块链的访问。
 
-**Your dapp:** Dapp developer teams may use their ETCMC ETC node to provide access to the chain for their dapps so they don’t have to depend on the large centralized cloud node providers.
+**您的dapp：** Dapp开发团队可以使用他们的ETCMC ETC节点为他们的dapp提供对链的访问，以便不必依赖大型集中式云节点提供商。
 
-**Updates:** ETCMC and the Ethereum Classic client may be updated from the user interface so no upgrades, bug fixes, or hard forks are missed.
+**更新：** 可以从用户界面更新ETCMC和以太经典客户端，以确保不会错过任何升级、错误修复或硬分叉。
 
-**Censorship resistant:** By running a full node, the level of security achieved is the highest possible.
+**抗审查：** 通过运行完整节点，可以实现最高级别的安全性。
 
-## Stay Tuned!
+## 请敬请期待
 
-In part II of this series, we will do an interview with ETCMC founder Seth Mccormack where we will talk about the following topics:
+在本系列的第二部分中，我们将采访ETCMC创始人Seth Mccormack，我们将讨论以下主题：
 
-- What is your background?
-- Please describe the ETCMC product
-- Once you buy it, how do you set it up?
-- What is the ETCMC DAO?
-- What is the ETCPOW token?
-- How many ETCMC nodes are running right now in the ETC network?
+您的背景是什么？
+请描述一下ETCMC的产品。
+一旦购买了它，如何设置它？
+什么是ETCMC DAO？
+什么是ETCPOW代币？
+目前在ETC网络中有多少个ETCMC节点在运行？
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
