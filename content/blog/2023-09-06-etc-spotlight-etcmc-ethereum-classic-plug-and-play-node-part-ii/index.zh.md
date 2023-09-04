@@ -13,6 +13,7 @@ linkImage: ./etcmc-banner.png
 **由此收听或观看本期采访:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OOHzxCZ0iZw?si=EEIWaqR4apf5O19x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ---
 
 我们向他提出了以下问题：
