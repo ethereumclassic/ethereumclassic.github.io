@@ -1,5 +1,5 @@
 ---
-title: "ETC Spotlight: ETCMC Ethereum Classic Plug and Play Node, Part II"
+title: "以太经典聚焦：ETCMC 以太经典即插即用节点，第二部分"
 date: 2023-09-06
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -7,35 +7,30 @@ tags: ["guide"]
 linkImage: ./etcmc-banner.png
 ---
 
-In this opportunity we interviewed Seth McCormack, founder of [ETCMC](https://etcmc.org). 
+我们有幸采访了Seth McCormack，[ETCMC](https://etcmc.org)创始人之一。
 
 ---
-**You can listen to or watch this interview here:**
+**由此收听或观看本期采访:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OOHzxCZ0iZw?si=EEIWaqR4apf5O19x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ---
 
-We asked him the following questions: 
+我们向他提出了以下问题：
 
-- What is your background? 
-- Please describe the ETCMC product 
-- Once you buy it, how do you set it up? 
-- What is the ETCMC DAO? 
-- What is the ETCPOW token? 
-- How many ETCMC nodes are running right now in the ETC network? 
+- 您的背景是什么？
+- 请描述一下ETCMC的产品。
+- 一旦购买了它，如何设置它？
+- 什么是ETCMC DAO？
+- 什么是ETCPOW代币？
+- 目前在ETC网络中有多少个ETCMC节点在运行？
+- 除上述问题外，Seth还解释了ETCMC的整个商业模式以及ETCMC DAO的运作方式，包括资金分配给代币持有人。
 
-In addition to the above, Seth explained the whole business model of ETCMC and how the ETCMC DOA will work, including the distribution of funds to token holders. 
+35%的收入将用于平台开发，30%将用于资助ETC上的项目的投资基金，而35%将作为红利分配给ETCPOW代币的所有者。
 
-35% of income will go to platform development, 30% to an investment fund that will finance projects on ETC, and 35% will be distributed as dividends to ETCPOW token owners. 
-
-He also explained that ETCMC will operate a mining pool as well as a mining farm dedicated to ETC.
-
-**You can listen to or watch this interview here:**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OOHzxCZ0iZw?si=EEIWaqR4apf5O19x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+他还解释了ETCMC将运营一个矿池以及一个专用于ETC的矿场。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
