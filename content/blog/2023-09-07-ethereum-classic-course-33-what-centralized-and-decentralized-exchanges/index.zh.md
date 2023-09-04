@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Course: 33. What Are Centralized and Decentralized Exchanges?"
+title: "以太坊经典课程: 33. 什么是中心化和去中心化交易所?"
 date: 2023-09-07
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,82 +8,82 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this interview here:**
+**有次收听本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yZBrIVkgJd4?si=T0G6DWG2Dx2OUnmm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-In the previous classes, 31 and 32, we saw where to find cryptocurrency lists and prices and what are block explorers. 
+在之前的第31和32课中，我们了解到了如何找到加密货币列表和价格，以及什么是区块链浏览器。
 
-In this class, 33, we will explain what are centralized and decentralized exchanges to actually buy and sell cryptocurrencies. 
+在本第33课中，我们将解释什么是中心化和去中心化交易所，以实际购买和出售加密货币。
 
-We will describe what are exchanges in the first place, then what are centralized exchanges (CEXs), what are decentralized exchanges (DEXs), how DEXs work, and which are the various and up-and-coming DEXs in Ethereum Classic (ETC). 
+首先，我们将描述交易所是什么，然后介绍中心化交易所（CEXs）和去中心化交易所（DEXs），以及DEXs的工作原理，以及以太经典（ETC）中各种新兴的DEXs。
 
-In the next class, 34, we will explore the future of the cryptocurrency industry and how it may evolve.
+在下一课中，第34课，我们将探讨加密货币行业的未来以及它可能的发展方向。
 
-## What Is an Exchange?
+## 什么是交易所
 
 ![Exchanges](1.png)
 
-An exchange is a physical or virtual location in which buyers and sellers meet to buy and sell goods or financial assets.
+交易所是买家和卖家相遇以购买和销售商品或金融资产的物理或虚拟地点。
 
-The function of the exchange is to provide a common place with strict rules so that traders and investors may negotiate and match their orders.
+交易所的功能是提供一个共同的地方，设有严格的规则，以便交易员和投资者可以进行协商并匹配他们的订单。
 
-A common place may be a hall in a building in the case of physical exchanges, or a website on the internet in the case virtual exchanges. Strict rules means that there are enforced parameters that traders must follow to enter and settle orders, and everyone must follow the ethical standards.
+共同的地方可以是物理交易所的情况下的建筑物中的大厅，也可以是虚拟交易所的情况下的互联网上的网站。严格的规则意味着有强制执行的参数，交易员必须遵循这些参数以进入和结算订单，每个人都必须遵守道德标准。
 
-In financial exchanges, buyers and sellers negotiate and trade financial assets such as stocks, bonds, or cryptocurrencies.
+在金融交易所中，买家和卖家协商和交易金融资产，如股票、债券或加密货币。
 
-As the trades are executed between the parties, the corresponding prices are usually published on quotation services and web pages so the public may be aware of the value of the various assets.
+随着交易在各方之间执行，相应的价格通常会在报价服务和网页上发布，以便公众可以了解各种资产的价值。
 
-## What Is a Centralized Exchange (CEX)?
+## 什么是中心化交易所(CEX)?
 
 ![CEXs](2.png)
 
-A centralized exchange is a physical or virtual location that serves as a meeting point for trading assets, with a strict set of rules, that is owned by a company, an industry group, a non-profit organization, or a government.
+中心化交易所是由公司、行业组织、非营利组织或政府拥有的、具有一套严格规则的物理或虚拟场所，用作交易资产的集合点。
 
-For example a CEX that focuses on cryptocurrencies may be a company such as [Coinbase](https://coinbase.com) that provides its servers over the internet for its customers to open accounts, send money, and start exchanging BTC, ETC, ETH, and other tokens.
+例如，专注于加密货币的中心化交易所（CEX）可能是像[Coinbase](https://coinbase.com)这样的公司，它通过互联网提供服务器，供客户开设账户、发送资金并开始交易比特币（BTC）、以太经典（ETC）、以太坊（ETH）和其他代币。
 
-Centralized exchanges must follow regulations, so they may be very restrictive, demanding customers to present evidence of identity and residence, performing background checks, and asking what is the source of their funds.
+中心化交易所必须遵守监管规定，因此它们可能非常严格，要求客户提供身份和居住地的证明，进行背景检查，并询问其资金来源。
 
-Another risk of CEXs is that they may go bankrupt and customers may lose their deposits and assets.
+中心化交易所的另一个风险是它们可能破产，导致客户失去存款和资产。
 
-## What Is a Decentralized Exchange (DEX)?
+## 什么是去中心化交易所(DEX)?
 
 ![DEXs](3.png)
 
-A decentralized exchange is a virtual location that exists inside a smart contracts blockchain. It is decentralized because the software programs that power these exchanges are replicated in all participating computers of the blockchain globally.
+去中心化交易所是存在于智能合约区块链内部的虚拟场所。它是去中心化的，因为支持这些交易所的软件程序在全球范围内的区块链的所有参与计算机中都有复制。
 
-Because blockchains are decentralized, immutable, and censorship resistant, and users may have their addresses, also known as accounts, in them with no restrictions, then it is not necessary to prove identity or residence, pass through background checks, or report on source of funds.
+因为区块链是去中心化的、不可变的、抗审查的，用户可以在其中拥有他们的地址，也被称为账户，没有任何限制，所以不需要证明身份或居住地、经过背景检查或报告资金来源。
 
-Because DEXs are not owned by anyone, but are just smart contracts on the blockchain, then there is no risk of bankruptcy as the deposits are linked to their respective addresses.
+由于DEXs没有任何所有者，而只是区块链上的智能合约，因此不存在破产的风险，因为存款与它们各自的地址相关联。
 
-Another important advantage of DEXs is that transactions are executed and paid in the same action, there is no separation between trade and settlement.
+DEXs的另一个重要优势是交易和支付在同一操作中执行，没有交易和结算之间的分离。
 
-## How do Decentralized Exchanges Work?
+## 去中心化交易所是如何工作的？
 
-Rather than working with databases that match bids and offers, decentralized exchanges work with what are called liquidity pools. The participants in liquidity pools are liquidity providers (LPs) and traders.
+与使用数据库匹配买卖订单的中心化交易所不同，去中心化交易所使用所谓的流动性池。流动性池的参与者是流动性提供者（LPs）和交易员。
 
-If the trading pair ETC/BTC is enabled in a DEX, then LPs can send, for example, an aggregate of 2,000 ETC and 100 BTC to the pool. This proportion has an implied price of 0.05 BTC for each ETC.
+如果在DEX中启用了交易对ETC/BTC，那么LPs可以将，例如，总共2,000 ETC和100 BTC发送到流动性池。这个比例对应的隐含价格是每个ETC 0.05 BTC。
 
-When traders see this, they may send either ETC or BTC to the liquidity pool to exchange coins. For example, a trader could send 1 BTC to the liquidity pool and would get back 20 ETC to his address. This would leave the liquidity pool with 1,980 ETC and 101 BTC, thus changing the implied price to 0.051 BTC per ETC.
+当交易员看到这一点时，他们可以向流动性池发送ETC或BTC来进行币种交换。例如，交易员可以向流动性池发送1 BTC，然后从流动性池获得20 ETC。这将使流动性池剩下1,980 ETC和101 BTC，从而将隐含价格改变为每个ETC 0.051 BTC。
 
-When other traders see these changes, they may want to arbitrage and, for example, exchange 20 ETC for 1 BTC and return the price back lower to 0.05.
+当其他交易员看到这些变化时，他们可能希望进行套汇，例如，交换20 ETC以获得1 BTC，并将价格降低到0.05。
 
-Traders pay a commission for each transaction and LPs receive passive income from the liquidity pool for their service.
+交易员每笔交易支付佣金，而LPs则因为提供流动性池服务而获得被动收入
 
-## Decentralized Exchanges in Ethereum Classic
+## 在去中心化交易所中的以太经典
 
 ![ETCswap, HebeSwap, and iZiSwap](4.png)
 
-As a smart contracts platform, ETC has two decentralized exchanges currently in operation, [ETCswap](https://etcswap.org) and [HebeSwap](https://hebeswap.com).
+作为一个智能合约平台，ETC目前有两个运营中的去中心化交易所，分别是[ETCswap](https://etcswap.org)和[HebeSwap](https://hebeswap.com)。
 
-There is another project called iZUMi who is building a third exchange that will work on ETC called [iZiSwap](https://izumi-finance.online/trade/swap).
+还有另一个名为iZUMi的项目正在建设第三个可以在ETC上运行的交易所，名为[iZiSwap](https://izumi-finance.online/trade/swap)。
 
-As Ethereum Classic is the largest proof of work and smart contracts blockchain in the world, and proof of stake blockchains as Ethereum and Cardano are centralized, this kind of exchange infrastructure will be in great demand in the times to come as the world will increasingly need trust minimized exchange alternatives to trade globally.
+由于以太经典是全球最大的工作证明和智能合约区块链，而以太坊和卡尔达诺等权益证明区块链是中心化的，因此在未来，这种交易所基础设施将会越来越受欢迎，因为世界将越来越需要无需信任的全球交易替代方案。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
