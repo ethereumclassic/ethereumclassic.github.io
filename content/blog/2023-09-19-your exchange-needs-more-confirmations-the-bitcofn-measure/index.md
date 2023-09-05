@@ -4,7 +4,7 @@ date: 2023-09-19
 author: Anonymous
 contributors: ["Anonymous"]
 tags: ["education"]
-linkImage: ./banner.jpeg
+linkImage: ./banner.png
 ---
 
 The following article was originally published on December 17 2018 by an author who wishes to remain anonymous.
