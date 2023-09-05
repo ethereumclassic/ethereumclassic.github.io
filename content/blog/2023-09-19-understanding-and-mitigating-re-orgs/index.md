@@ -1,7 +1,7 @@
 ---
 title: "Understanding (and Mitigating) Re-Orgs"
 date: 2023-09-19
-author: Donald McIntyre
+author: Anonymous
 contributors: ["Anonymous"]
 tags: ["education"]
 linkImage: ./banner.jpg
