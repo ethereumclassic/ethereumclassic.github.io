@@ -54,7 +54,7 @@ Because these ERC-20 tokens are convertible at any time for the fiat currency th
 
 ## Size of the Stablecoin Sector
 
-![Stablecoin sector. Updated on September 5 2023.](2.png)
+![Stablecoin sector. Updated on September 5 2023.](22.png)
 
 As may be seen in the chart above [from CoinMarketCap](https://coinmarketcap.com/view/stablecoin/), which was updated on September 5th of 2023, the top 9 stablecoins in the market have an aggregate market capitalization of more than $121 billion.
 
