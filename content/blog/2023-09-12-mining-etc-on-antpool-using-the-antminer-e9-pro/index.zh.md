@@ -38,7 +38,7 @@ https://ethereumclassic.org/blog/2023-06-07-mining-ethereum-classic-with-an-antm
 
 如果您打算在家里或办公室进行挖掘，且有正常的空调，或者温度在摄氏75度（约摄氏24度）左右，那么它将正常工作。
 
-## 2. 链接
+## 2. 连接
 
 ![](2.png)
 
