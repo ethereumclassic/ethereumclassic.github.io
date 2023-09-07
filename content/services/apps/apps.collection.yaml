@@ -2,7 +2,7 @@
   title: NerveNetwork
   description: NerveNetwork is a decentralized digital asset service network.NerveNetwork aims to connect all isolated blockchains and establish a cross-chain asset exchange network, providing all necessary underlying support for DeFi ecosystem.Let every digital asset holder experiences a truly secure, free and transparent DeFi application service. 
   image:  ./images/nervenetwork.jpeg
-  type: Bridge & Infrastructure
+  type: interoperability
   author: NerveNetwork
   authorLink: https://nerve.network/
   verifiedContract: https://blockscout.com/etc/mainnet/address/0x3758AA66caD9F2606F1F501c9CB31b94b713A6d5/contracts#address-tabs
