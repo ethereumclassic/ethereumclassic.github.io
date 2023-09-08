@@ -24,13 +24,13 @@ In this class, 35, we will explain NFTs in the following sections.
 
 The topics that we will cover are:
 
-What Are Non-Fungible Tokens (NFTs)?
-Examples of Collectable NFTs
-How NFTs Are Built
-The ERC-721 Smart Contract
-Famous NFTs
-Cars Will Be NFTs and Bought and Sold on the Blockchain
-Real Estate Will Be NFTs and Bought and Sold on the Blockchain
+- What Are Non-Fungible Tokens (NFTs)?
+- Examples of Collectable NFTs
+- How NFTs Are Built
+- The ERC-721 Smart Contract
+- Famous NFTs
+- Cars Will Be NFTs and Bought and Sold on the Blockchain
+- Real Estate Will Be NFTs and Bought and Sold on the Blockchain
 
 ## What Are Non-Fungible Tokens (NFTs)?
 
