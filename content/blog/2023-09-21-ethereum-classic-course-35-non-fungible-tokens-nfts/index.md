@@ -29,8 +29,8 @@ The topics that we will cover are:
 - How NFTs Are Built
 - The ERC-721 Smart Contract
 - Famous NFTs
-- Cars Will Be NFTs and Bought and Sold on the Blockchain
-- Real Estate Will Be NFTs and Bought and Sold on the Blockchain
+
+In the next class, 36, we will explain how property registries and ownership records will work on the blockchain.
 
 ## What Are Non-Fungible Tokens (NFTs)?
 
@@ -90,29 +90,10 @@ At the time, [Cryptokitties](https://www.cryptokitties.co/) caused excitement an
 
 On the Ethereum Classic blockchain one of the first and most popular NFT projects is [ETCPunks](https://etcpunks.com/) which sold 10,000 NFTs at 2 ETC a piece.
 
-## Cars Will Be NFTs and Bought and Sold on the Blockchain
+–--
 
-![](7.png)
+In the next class, 36, we will explain how NFTs, as well as ERC-20 tokens, will be used for other important functions.
 
-Because NFTs may represent any digital or physical object as long as there is unique metadata to associate to it, then movable objects such as cars will likely be registered, transferred, and traded on programmable blockchains such as ETC.
-
-And, because ETC is composable, very complex transactions will be enabled with smart contracts. 
-
-For example, an individual will be able to go to a website, see the car he wants to buy, check car loans and rates, and execute the purchase in one single transaction that would pay for the car, take the car loan, and also transfer full ownership to him. If he were to default on his payments, then the smart contract would proceed to deactivate the car and transfer ownership to the lender.
-
-Car renting could also be done using cars represented as NFTs on the blockchains. As long as the driver has paid for the rent, then the car will be active and the insurance will provide coverage.
-
-## Real Estate Will Be NFTs and Bought and Sold on the Blockchain
-
-![](8.png)
-
-In the same way that cars may be registered on programmable blockchains, real estate property registries may also be transferred to these systems enabling complex transactions, while making them more reliable, secure, composable, and instant.
-
-For example, a house could be listed on Ethereum Classic and the buyer could make the down payment, take a mortgage loan, and purchase the home in one transaction. The property title and the mortgage contract would be closed instantly in the same transaction, and everything could be settled and paid in 13 seconds.
-
-And, similar to the car loan and property rights, if the owner were to default on his payments to the mortgage lender, then smart contracts could be coded with the rules of engagement of the jurisdictions in question and proceed to foreclosure or other legal steps.
-
-The same kind of conditions could be programmed when renting homes, staying at hotel rooms, AirBnBs, and other uses of real estate properties.
 
 ---
 
