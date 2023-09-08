@@ -4,7 +4,7 @@ date: 2023-09-21
 author: Donald McIntyre
 contributors: ["Donald McIntyre"]
 tags: ["education", "series"]
-linkImage: ./banner.png
+linkImage: ./banner-nfts.png
 ---
 
 ---
