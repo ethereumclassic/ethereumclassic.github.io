@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Course: 34. The Layers of the Blockchain Industry"
+title: "以太坊经典课程: 34. 区块链行业的不同层次"
 date: 2023-09-14
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,102 +8,102 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this interview here:**
+**由此收听或观看本期访谈:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5n0xckraF4k?si=er2C-RspM04GPy4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-## The Internet Is Layered
+## 互联网是分层的
 
 ![The internet OSI model.](1.png)
 
-In general, technology is always built in layers and components. 
+一般来说，技术总是以分层和组件的方式构建的。
 
-For example, the internet itself is not one single product that we call “the internet” that moves information from one point to the other.
+例如，互联网本身不是我们所称的“互联网”的一个单一产品，用于将信息从一点传输到另一点。
 
-As seen in the image in this section, the Open Systems Interconnection (OSI) model is the conceptual framework used for thinking about and layering the internet.
+正如在本节的图像中所示，开放系统互连（OSI）模型是用于思考和分层互联网的概念框架。
 
-In the same way, computing systems, other kinds of networks, and even entire industries are usually formed of layers and components.
+同样，计算系统、其他类型的网络甚至整个行业通常都由不同的层次和组件组成。
 
-Each of these layers and components may be protocols in themselves or parts of larger protocols.
+这些层次和组件中的每一个都可以是自己的协议或更大协议的一部分。
 
-## Banking Is Layered
+## 银行业也是分层的
 
 ![Infrastructure of the Mexican banking industry.](2.png)
 
-For its financial use cases, a good analogy for the blockchain industry is how the banking industry is divided in layers and components.
+对于其金融用途来说，区块链行业的一个很好的类比是银行业如何分为不同的层次和组件。
 
-In the image in this section you may see an example of the Mexican banking industry. All the components together form what we may call “banking”, but the whole system is divided in layers and components.
+在本节的图像中，您可以看到墨西哥银行业的一个例子。所有这些组件共同构成了我们可以称之为“银行业”的东西，但整个系统被分为各种层次和组件。
 
-A banking system in a country like America, Mexico, or any other starts with a central bank at the base layer; then a system of banking institutions; then payments and transfers systems, such as checking, credit cards, wire systems, and fintech; and, at the top, the applications and user interfaces through the web, mobile apps, or physical branches.
+像美国、墨西哥或其他国家的银行体系都是从底层的中央银行开始；然后是一系列银行机构；接着是支付和转账系统，如支票、信用卡、电汇系统和金融科技；最后是通过网络、移动应用或实体分支的应用程序和用户界面。
 
-The way they work together is that users generate transactions through the interfaces; then these are processed en masse by the transfer and payments systems; which then send them to the banking institutions, who net them out and allocate the balances to the corresponding accounts; and, finally, the banking institutions settle large netted balances between themselves through the central bank at the base layer.
+它们共同运作的方式是用户通过界面生成交易；然后这些交易被批量处理的转账和支付系统处理；然后将它们发送给银行机构，由银行机构进行净结算并将余额分配给相应的账户；最后，银行机构通过底层的中央银行结算大额净结算余额。
 
-## The Blockchain Industry Will Be Layered
+## 区块链行业将会分层
 
 ![The layers of the blockchain industry.](3.png)
 
-In the same way as the internet and banking, the blockchain industry will be divided in layers and components.
+与互联网和银行业一样，区块链行业也将被分成不同的层次和组件。
 
-Because the blockchain industry is about decentralized protocols and systems, then the layers will very likely be organized by security levels.
+因为区块链行业涉及到去中心化的协议和系统，所以这些层次很可能会根据安全级别进行组织。
 
-The systems at the base layer will be the working horses and secure networks, such as proof of work blockchains, and the higher layers will be the more scalable and performing systems, such as proof of stake networks, and scaling technologies.
+底层的系统将是运作稳定且安全的网络，例如工作量证明区块链，而更高层次将是更具可扩展性和性能的系统，例如权益证明网络和扩展技术。
 
-On top of these will be the decentralized applications and web3 layers, and, at the top, the end user interfaces.
+在这些层次之上将是去中心化的应用程序和Web3层，最上层将是最终用户界面。
 
-As described for the banking industry, users will generate transactions en masse through the wallets and interfaces; then these will be processed by the web3 and decentralized applications; then they will be netted and allocated into accounts by the proof of stake systems and scaling solutions; and, finally, the large netted transactions will be settled at the base proof of work blockchains.
+与银行业类似，用户将通过钱包和界面大规模生成交易；然后这些交易将由Web3和去中心化应用程序处理；然后它们将通过权益证明系统和扩展解决方案进行净结算和分配到账户中；最后，大规模净交易将在基本的工作量证明区块链上结算。
 
-Ethereum Classic (ETC) promises to be a core backend blockchain due to its proof of work consensus mechanism, and status as programmable digital gold. 
+以太经典（ETC）由于其工作量证明共识机制和可编程数字黄金的地位，承诺成为核心的后端区块链。
 
-## Proof of Work (POW) Will Be the Base Layer (L1)
+## 工作量证明（POW）将成为最基层（L1）
 
 ![POW as the base layer.](4.png)
 
-One interesting thing about blockchain design dynamics is that proof of work is highly secure but unscalable and proof of stake and other scaling technologies are less secure but highly scalable.
+关于区块链设计动态的一个有趣之处在于，工作量证明具有很高的安全性但不可扩展，而权益证明和其他扩展技术具有较低的安全性但可扩展性强。
 
-This presents a complementation because proof of work blockchains such as Bitcoin, Ethereum Classic, Doge, Litecoin, and Monero may be used as the base layer of the industry, and proof of stake systems such as Ethereum, BNB, Solana, Cardano, and Polkadot may be used as the second layer. By doing this, the base layer would gain scalability and the second layer would gain security.
+这呈现出一种互补性，因为比特币、以太经典、狗狗币、莱特币和门罗等工作量证明区块链可以作为行业的底层，而以太坊、币安币、Solana、卡尔达诺和Polkadot等权益证明系统可以作为第二层。通过这样做，底层将获得可扩展性，而第二层将获得安全性。
 
-In this scenario, it is very likely that there will be 3 or 4 very large proof of work blockchains and the rest will be insignificant. Because blockchains are like operating systems, it is very likely that the top chain will have more or less a 50% market share, and that system will very likely be Bitcoin. Then a system such as ETC will have a 25% share because it is like Bitcoin but programmable, and then another two chains such as Litecoin and Monero may also prevail with smaller market shares. 
+在这种情况下，很可能会有3或4个非常大的工作量证明区块链，其余的将变得不重要。因为区块链就像操作系统一样，所以最顶层的链很可能占据50%的市场份额，而这个系统很可能是比特币。然后，像ETC这样的系统将占据25%的份额，因为它类似于比特币但可编程，然后其他两个链，如莱特币和门罗，也可能以较小的市场份额脱颖而出。
 
-## Proof of Stake (POS) and Scaling Solutions Will be the Second Layer (L2)
+## 权益证明（POS）和扩展解决方案将成为第二层（L2）
 
 ![POS and Scaling](5.png)
 
-Standalone proof of stake networks by themselves are very similar to traditional systems. They are prone to centralization and it is trivial to arbitrarily modify ledgers, account balances, and property systems in them because they lack the cryptographic work that is needed to stamp or hash transactions to protect them.
+独立的权益证明网络本身与传统系统非常相似。它们容易集中化，并且可以随意修改账本、账户余额和财产系统，因为它们缺乏保护交易所需的密码工作。
 
-What proof of stake does have is that they are fully replicated ledgers, they may be scaled through scaling technologies such as channels and rollups, and they may anchor their states to the proof of work base layer.
+但权益证明具有的是它们是完全复制的账本，它们可以通过通道和Rollup等扩展技术进行扩展，并且它们可以将它们的状态锚定到工作量证明的最基层。
 
-Once networks such as Ethereum, BNB, Solana, Cardano, Polkadot, and the others anchor their states on proof of work blockchains such as Bitcoin and Ethereum Classic, then their own states will become much more stable and secure.
+一旦像以太坊、币安币、Solana、卡尔达诺、Polkadot和其他区块链网络将它们的状态锚定到比特币和以太经典等工作量证明区块链上，那么它们自己的状态将变得更加稳定和安全。
 
-Scaling and programming technologies such as Lightning Network, Liquid, RSK, and rollups may also be connected to the base layer blockchains directly.
+扩展和编程技术，如闪电网络、Liquid、RSK和Rollup，也可以直接连接到最基层区块链。
 
-## Decentralized Applications (Dapps) and Web3 Will Be the Third Layer (L3)
+## 去中心化应用程序（Dapps）和Web3将成为第三层（L3）
 
 ![Dapps and Web3.](6.png)
 
-Once the base layer and layer 2 are consolidated as explained above, then decentralized applications (dapps) and web3 applications will have a technology platform on which to connect that will offer both security and scalability.
+一旦基础层和第二层按照上述解释得以巩固，那么去中心化应用程序（Dapps）和Web3应用程序将拥有一个技术平台，该平台将同时提供安全性和可扩展性。
 
-Dapps and web3 applications will connect to many components in the base layer and layer 2, using the best service from each protocol. This means they will work on multiple components, rather than on single blockchains as it is today.
+Dapps和Web3应用程序将连接到基础层和第二层的许多组件，利用每个协议的最佳服务。这意味着它们将在多个组件上运行，而不是像今天一样仅在单一区块链上运行。
 
-Examples of these systems that work on single blockchains today but will be open to multiple components are dapps such as Uniswap, PancakeSwap, Compound, Aave, NFTs, stablecoins, and decentralized domain name services amongst others.
+今天在单一区块链上运行但将对多个组件开放的示例包括Uniswap、PancakeSwap、Compound、Aave、NFT、稳定币和去中心化域名服务等Dapps。
 
-Web 3 will work like websites today, but the backend code will reside on programmable blockchains, the databases will be stored on data storage blockchains, and the images may be like NFTs stored in file systems such as IPFS.
+Web 3将像今天的网站一样工作，但后端代码将驻留在可编程区块链上，数据库将存储在数据存储区块链上，而图像可能会像存储在IPFS等文件系统中的NFT一样。
 
-## Wallets and User Interfaces Will be the Fourth Layer (L4)
+## 钱包和用户界面将成为第四层（L4）
 
 ![Wallets and other user interfaces.](7.png)
 
-Above all the stack will be the end user interfaces such as wallets, browser extensions, browsers, etc.
+在整个堆栈的顶部将是最终用户界面，如钱包、浏览器扩展、浏览器等。
 
-Wallets today already have browsers inside, and many brands already operate with many blockchains and coins.
+现在的钱包已经内置了浏览器，许多品牌已经在许多区块链和代币上运营。
 
-There will be services for every type of user and every taste. 
+将会有适用于每种类型用户和口味的服务。
 
-Systems such as Binance and Coinbase will provide centralized services and exchange; custodial wallets such as Blockchain.com and CashApp will provide centralized payments rails; non-custodial wallet and smart contract interfaces such as MyEtherWallet and MyCrypto will provide access without asking for or touching the private keys; non-custodial wallets and browser extensions such as MetaMask and Trust Wallet will serve as apps holding users’ private keys and to connect to dapps and web3; and the hardware wallets such as ledger and Trezor will provide the highest level of security by separating the private keys from the internet completely.
+诸如币安和Coinbase等系统将提供集中化的服务和交易；托管钱包，如Blockchain.com和CashApp，将提供集中化的支付通道；非托管钱包和智能合约界面，如MyEtherWallet和MyCrypto，将提供无需索取或触碰私钥即可访问的功能；非托管钱包和浏览器扩展，如MetaMask和Trust Wallet，将作为保存用户私钥并连接到Dapps和Web3的应用程序；硬件钱包，如Ledger和Trezor，将通过完全将私钥与互联网隔离来提供最高级别的安全性。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
