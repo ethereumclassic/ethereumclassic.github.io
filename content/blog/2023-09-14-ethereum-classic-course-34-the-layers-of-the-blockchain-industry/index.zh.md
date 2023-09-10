@@ -42,7 +42,7 @@ linkImage: ./banner.png
 
 ## 区块链行业将会分层
 
-![The layers of the blockchain industry.](3.png)
+![The layers of the blockchain industry.](3-zh.png)
 
 与互联网和银行业一样，区块链行业也将被分成不同的层次和组件。
 
@@ -58,7 +58,7 @@ linkImage: ./banner.png
 
 ## 工作量证明（POW）将成为最基层（L1）
 
-![POW as the base layer.](4.png)
+![POW as the base layer.](4-zh.png)
 
 关于区块链设计动态的一个有趣之处在于，工作量证明具有很高的安全性但不可扩展，而权益证明和其他扩展技术具有较低的安全性但可扩展性强。
 
@@ -68,7 +68,7 @@ linkImage: ./banner.png
 
 ## 权益证明（POS）和扩展解决方案将成为第二层（L2）
 
-![POS and Scaling](5.png)
+![POS and Scaling](5-zh.png)
 
 独立的权益证明网络本身与传统系统非常相似。它们容易集中化，并且可以随意修改账本、账户余额和财产系统，因为它们缺乏保护交易所需的密码工作。
 
@@ -80,7 +80,7 @@ linkImage: ./banner.png
 
 ## 去中心化应用程序（Dapps）和Web3将成为第三层（L3）
 
-![Dapps and Web3.](6.png)
+![Dapps and Web3.](6-zh.png)
 
 一旦基础层和第二层按照上述解释得以巩固，那么去中心化应用程序（Dapps）和Web3应用程序将拥有一个技术平台，该平台将同时提供安全性和可扩展性。
 
@@ -92,7 +92,7 @@ Web 3将像今天的网站一样工作，但后端代码将驻留在可编程区
 
 ## 钱包和用户界面将成为第四层（L4）
 
-![Wallets and other user interfaces.](7.png)
+![Wallets and other user interfaces.](7-zh.png)
 
 在整个堆栈的顶部将是最终用户界面，如钱包、浏览器扩展、浏览器等。
 
