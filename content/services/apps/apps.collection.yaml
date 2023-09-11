@@ -1,3 +1,25 @@
+- date: 2023-09-06
+  title: NerveNetwork
+  description: NerveNetwork is a decentralized digital asset service network.NerveNetwork aims to connect all isolated blockchains and establish a cross-chain asset exchange network, providing all necessary underlying support for DeFi ecosystem.Let every digital asset holder experiences a truly secure, free and transparent DeFi application service. 
+  image:  ./images/nervenetwork.jpeg
+  type: interoperability
+  author: NerveNetwork
+  authorLink: https://nerve.network/
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x3758AA66caD9F2606F1F501c9CB31b94b713A6d5/contracts#address-tabs
+  audit: https://drive.google.com/file/d/1_BwgpNjSHCX8_YXZYpq50CnDfRRI-K9T/view?usp=sharing
+  links:
+    - name: Launch App
+      link: https://nerve.network/
+      icon: home
+    - name: Twitter
+      link: https://twitter.com/nerve_network
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/NerveNetwork
+      icon: telegram
+    - name: Discord
+      link: https://discord.gg/PBkHeD7
+      icon: discord 
 - date: 2023-09-03
   title: ETCNFT Marketplace
   description: Explore all your best NFT collections with the new Traits Rank, which is based on trait occurrences and rarity rank. ETCNFT is a new generation NFT marketplace that provides order book trading for NFTs in ERC-721 and ERC-1155 formats without fees. ETCNFT is powered by Ethereum Classic.

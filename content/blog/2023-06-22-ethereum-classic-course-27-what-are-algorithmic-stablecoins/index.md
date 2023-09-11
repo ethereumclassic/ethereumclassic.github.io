@@ -49,6 +49,21 @@ Algorithmic stablecoins are guaranteed by other cryptocurrencies, such as Bitcoi
 
 The algorithmic stablecoins themselves are ERC-20 tokens inside blockchains such as ETC.
 
+## Size of the Stablecoin Sector
+
+![Stablecoin sector. Updated on September 5 2023.](22.png)
+
+As may be seen in the chart above [from CoinMarketCap](https://coinmarketcap.com/view/stablecoin/), which was updated on September 5th of 2023, the top 9 stablecoins in the market have an aggregate market capitalization of more than $121 billion.
+
+Of the group, the most used are:
+
+- USDT - Issued by Tether Limited Inc - which has a market capitalization of more than $82 billion, and is the largest player in the convertible stablecoin sector of the blockchain indsutry.
+- USDC - Issued by Center, a consortium founded by Circle and Coinbase - which has a market capitalization of more than $25 billion.
+- BUSD - Issued by Binance - with a market capitalization of 2.8 billion.
+- DAI - Issued by Maker DAO which is the largest of the algorithmic stablecoins, with a market capitalization of $5.3 billion.
+
+The new entrant in the top convertible stablecoins since we wrote this article in June of 2023 is TrueUSD, which was launched by TrustToken, and has a market capitalization of $3.2 billion.
+
 ## How do Algorithmic Stablecoins Work?
 
 1. Anyone with eligible crypto assets inside a programmable blockchain may send them to an algorithmic stablecoin vault smart contract to generate the stablecoin tokens.
