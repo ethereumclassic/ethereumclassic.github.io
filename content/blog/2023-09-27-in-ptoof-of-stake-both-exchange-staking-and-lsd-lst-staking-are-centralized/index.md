@@ -29,7 +29,7 @@ There are 4 components and one overarching constraint in LSD/LST systems:
 
 - POS has penalties and slashing, which impose a system of terror.
 
-**Explanation of how the components and the constraint mentioned make POS networks centralized:**
+**Explanation of how the components and the constraint mentioned above make POS networks centralized:**
 
 - The LSD/LST's have no effect on the staking method. It only makes the stakers hyper leveraged speculators because they can stake and re-stake their ETH coins multiple times in multiple protocols and this creates the typical banking fractional reserve problem where one unit of value is used multiple times, in multiple ways, in the economy.
     
