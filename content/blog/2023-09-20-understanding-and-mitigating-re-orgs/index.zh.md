@@ -73,7 +73,7 @@ linkImage: ./banner.jpg
 
 PoW是对博弈论和财务动机进行的令人难以置信的实验，我们以前从未见过这样的实验。如果您对这个行业感兴趣，您应该至少付出一些努力来了解PoW的创新，了解其局限性、未经探索的方面，并享受观察这一切的过程。归根结底，PoW是我们唯一拥有的允许实现最大程度去中心化、无需许可和抵抗审查的网络的共识算法，这种网络自然会抵制权力的集中。PoW不能解决技术问题，它解决了人的问题。
 
-您可以在 [nakamotoinstitute.org](http://web.archive.org/web/20190529192405/https://nakamotoinstitute.org/)、[密码学邮件列表存档](http://web.archive.org/web/201905291924）
+您可以在 [nakamotoinstitute.org](http://web.archive.org/web/20190529192405/https://nakamotoinstitute.org/)、[密码学邮件列表存档](http://web.archive.org/web/201905291924)
 
 ---
 
