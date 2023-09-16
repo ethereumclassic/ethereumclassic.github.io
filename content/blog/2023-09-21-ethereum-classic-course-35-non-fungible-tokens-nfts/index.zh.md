@@ -82,7 +82,7 @@ ERC-721智能合约使用区块链的账户系统来维护所有NFTs的财产注
 
 ## 著名的NFTs
 
-![](6.png)
+![](6-zh.png)
 
 NFTs于2017年首次问世，第一个产品是Cryptokitties。
 
