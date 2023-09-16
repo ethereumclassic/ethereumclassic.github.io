@@ -1,5 +1,5 @@
 ---
-title: "Understanding (and Mitigating) Re-Orgs"
+title: "了解(并减轻) 重新组织"
 date: 2023-09-20
 author: Anonymous
 contributors: ["Anonymous"]
@@ -7,76 +7,76 @@ tags: ["education"]
 linkImage: ./banner.jpg
 ---
 
-The following article was originally published on May 21 2019 by an author who wishes to remain anonymous.
+以下文章最初由一位希望保持匿名的作者于2019年5月21日发布。
 
 ---
 
-Applying Proof of Work (PoW) to digital currency is an amazing innovation that was first actualized by Satoshi Nakamoto and builds on ideas from Wei Dai, Nick Szabo, Adam Back, and many others.
+将工作量证明（Proof of Work，PoW）应用于数字货币是一项令人惊叹的创新，最初由中本聪（Satoshi Nakamoto）实现，并借鉴了魏戴（Wei Dai）、尼克·萨博（Nick Szabo）、亚当·贝克（Adam Back）等许多人的思想。
 
-Unfortunately the importance of this innovation is exceeded only by woeful misunderstanding of how PoW works. This article seeks to clarify how they happen, when they negatively affect payment recipients  **(they rarely do)**, deterring double spends, and whether re-orgs are a Good Thing™.
+不幸的是，对PoW工作原理的误解远远超过了这一创新的重要性（**它们很少出现**）。本文旨在澄清它们是如何发生的、何时会对收款方产生负面影响、如何防止双重花费，以及重新组织（re-orgs）是否是一件好事™。
 
-This is the first of many articles on this topic, with future ones taking a deeper look at some of the ideas proposed below. If you have any thoughts, comments, or feedback please feel free to reach out.
+这是关于这个主题的众多文章中的第一篇，未来的文章将更深入地探讨以下提出的一些思想。如果您有任何想法、评论或反馈，请随时联系我们。
 
-## What Is A Re-Org?
+## 什么是重新组织（Re-Org）？
 
-A re-org is simply what happens when your node is aware of Chain A, but then sees a bigger Chain B and switches to it. This happens on occasion and most of the time it is a non-issue. However, Chain B might have parts of its transaction history that don’t match Chain A and this can,  **under certain conditions**, cause issues for those receiving transactions on a blockchain.
+重新组织（Re-Org）简而言之是指当您的节点意识到链A，但随后看到了更大的链B并切换到链B时发生的情况。这种情况偶尔会发生，大多数情况下不会成为问题。然而，链B可能具有其交易历史的某些部分与链A不匹配，这在**某些条件下**可能会对在区块链上接收交易的人造成问题。
 
-## What Happens to Transactions in Chain A?
+## 链A上的交易会发生什么？
 
-Most transactions from Chain A will be placed by miners onto Chain B, they’ll get the fees from the transactions, and most users won’t even notice that their transaction “moved” from the shorter Chain A to the longer Chain B.
+链A上的大多数交易将被矿工放入链B，他们将获得交易的手续费，而大多数用户甚至不会注意到他们的交易已从较短的链A“转移到”较长的链B。
 
-Most importantly is that Chain A and B will share the overwhelming majority of the same history, so if you have Chain A and Chain B split at 10 AM today and you received coins last night then your coins are entirely unaffected.
+最重要的是，链A和链B将共享绝大部分相同的历史记录，因此如果链A和链B在今天上午10点分开，而您昨晚收到了硬币，那么您的硬币将不受任何影响。
 
-Typically only a small bit of the tip of the chain can be re-org’d off, with it becoming cost prohibitive to remove parts of the chain that are even a couple days old.
+通常，只有链的顶端的一小部分可能会发生重新组织，如果尝试删除甚至只有几天的链的部分变得成本高昂，这将不划算。
 
-## When Is A Re-Org Bad?
+## 何时会发生不良的重新组织（Re-Org）？
 
-This depends on who you are, re-orgs will affect HODL’rs, Exchanges/Payment Processors, and Miners in different ways.
+这取决于您的身份，重新组织对HODL'rs（持币者）、交易所/支付处理器和矿工会产生不同影响。
 
-Firstly, re-orgs without double spends are occasional and uneventful things. Here’s a  [partially complete list](http://web.archive.org/web/20190529192405/https://www.blockchain.com/btc/orphaned-blocks)  of them on Bitcoin.
+首先，没有双重花费的重新组织是偶尔发生且无足轻重的事情。以下是比特币上的一部分[部分完整列表](http://web.archive.org/web/20190529192405/https://www.blockchain.com/btc/orphaned-blocks)。
 
-Re-orgs are only bad when someone creates a double spend to defraud someone they’ve sent a payment to. Creating a double spend is akin to writing a bad check for a large amount of money, receiving the goods, and letting the check bounce.
+只有当有人创建双重花费以欺骗他们发送付款的人时，重新组织才会变得糟糕。创建双重花费类似于用大笔金额的不良支票支付并领取货物，然后让支票被拒付。
 
-When a double spend is created through a re-org it largely affects recipients of a transaction. There may be some collateral issues with old transactions being pushed out of the chain but these are often remined, and unless your exchange is actively trying to steal from you they’ll rebroadcast your missing transaction.
+当双重花费通过重新组织创建时，它主要会影响交易的接收方。可能会有一些与旧交易被推出链外的附带问题，但通常这些问题会被重新确认，除非您的交易所积极尝试窃取您的资金，否则它们会重新广播您的丢失交易。
 
-## How Does a Double Spend (or Re-org) Affect You?
+## 双重花费（或重新组织）如何影响您？
 
-**HODL’rs**: A double spend is almost never bad for you, the longer your coins are in your wallet the more work that is piled on top of it and the less likely it is you’d ever be double spent. On Bitcoin ~1,900 BTC ($11 million) of new work is added to the chain  **every single day**. After 3 months it’s going to cost  **over a billion dollars**  for someone to double spend you. Much better than the FDIC insurance on your bank account in my non-fiduciary opinion.
+**HODL'rs（持币者）**：对您来说，双重花费几乎永远不会对您造成不良影响。您的硬币在您的钱包中存放的时间越长，越多的工作将累积在其上，您的硬币被双重花费的可能性就越小。在比特币上，每天都会添加约1,900个比特币（价值1100万美元）的新工作到链上。经过3个月，某人要想双重花费您的硬币需要花费**超过十亿美元**。在我非受托人的意见中，这比您银行账户上的FDIC保险要好得多。
 
-![Safety first.](banner.jpg)
+![安全第一。](banner.jpg)
 
-**Exchanges/Payment Processors**: Double spends are the worst for you and you’re the primary target of them, but I probably don’t need to tell you this. What you should be aware of is that there are many ways to mitigate double spends without immediately resorting to nuclear options (though they are still options).
+**交易所/支付处理器**：对您来说，双重花费是最糟糕的情况，您是它们的主要目标，但我可能不需要告诉您这一点。您应该知道的是，有许多方法可以减轻双重花费的影响，而不立即采取核选项（尽管它们仍然是选项）。
 
-**Miners**: Are largely unaffected by double spends themselves but can be negatively impacted by the re-org used to achieve the double spend. In this case they lose  [block rewards](http://web.archive.org/web/20190529192405/https://bitcoin.org/en/glossary/block-reward)  (block subsidy +  [transaction fees](http://web.archive.org/web/20190529192405/https://bitcoin.org/en/glossary/transaction-fee)).
+**矿工**：双重花费本身对矿工影响不大，但可能会受到用于实现双重花费的重新组织的负面影响。在这种情况下，他们将失去[区块奖励](http://web.archive.org/web/20190529192405/https://bitcoin.org/en/glossary/block-reward)（区块补贴+[交易费用](http://web.archive.org/web/20190529192405/https://bitcoin.org/en/glossary/transaction-fee)）。
 
-## How May an Exchange Deter Double Spends?**
+## 交易所如何防止双重花费？
 
-1.  **Wait Longer**: Exchanges can simply wait longer before confirming transactions, by waiting more blocks they increase the initial cost of a double spend attack, the higher the initial cost the more money an attacker needs to spend in order to achieve a successful attack. Risking 2 BTC ($11,600) to get away with 200 BTC ($1,160,000) is a low-risk theft. Risking 1,000 BTC ($5,800,000) to get away with 200 BTC is much higher risk.
+1. **延长等待时间**：交易所可以在确认交易之前等待更长时间，通过等待更多的区块，可以增加双重花费攻击的初始成本。初始成本越高，攻击者需要花费的金额就越多，以实现成功攻击。冒着风险使用2比特币（11,600美元）来获得200比特币（1,160,000美元）是一种低风险的盗窃。冒着风险使用1,000比特币（5,800,000美元）来获得200比特币则风险更高。
 
-Cost of re-orgs varies substantially between chains. To get an idea of confirmation equivalents between chains check out  [howmanyconfs.com](http://web.archive.org/web/20190529192405/https://howmanyconfs.com/)  which normalizes all chains to ~6 Bitcoin blocks and read their  [GitHub README](http://web.archive.org/web/20190529192405/https://github.com/lukechilds/howmanyconfs.com#how-are-these-values-calculated)  which has a substantial amount of information and thoughts on this topic.
+   重新组织的成本在不同区块链之间存在很大差异。要了解各链之间的确认等价性，可以查看 [howmanyconfs.com](http://web.archive.org/web/20190529192405/https://howmanyconfs.com/)，该网站将所有链归一化为约6个比特币区块，以及阅读它们的 [GitHub README](http://web.archive.org/web/20190529192405/https://github.com/lukechilds/howmanyconfs.com#how-are-these-values-calculated)，其中包含大量与此主题相关的信息和思考。
 
-Important to note is that you  **do not need to harm UX/usability of your exchange; you can improve it while simultaneously becoming more secure.**  You can take the approach that many exchanges do when handling cash deposits. Credit them almost immediately, allow trading, and wait an appropriate amount of time/confirmations before allowing withdrawals.
+   需要注意的是，您**无需损害交易所的用户体验/可用性；您可以在同时提高安全性的同时改进用户体验**。您可以采取许多交易所在处理现金存款时采用的方法。几乎立即将资金划入账户，允许交易，然后在允许提款之前等待适当的时间/确认。
 
-2.  **Account for Transaction Value**: A 2 BTC transaction is not equivalent to a 1,000 BTC transaction. The amount of confirmations you decide to wait should be proportional to the underlying value of the transaction. A simple, but by no means complete, metric is to wait until total block rewards exceed transaction value for the payments you’ve received in a given block. For example, if you receive 100 total BTC in block 575,000 on Bitcoin then you will want to wait at least 8 blocks (100/13.25) before confirming that 100 BTC. 13.25 is currently the average total block reward for successfully mining a block on Bitcoin and only used for example purposes. This particular method of deterrence warrants more investigation and may benefit from an additional “safety multiplier”. Game theorists please DM me on Twitter.
+2. **考虑交易价值**：2比特币交易不等同于1,000比特币交易。您决定等待的确认数应与交易的基础价值成比例。一个简单但并非完整的度量标准是等待直到总区块奖励超过您在给定区块中收到的支付的交易价值。例如，如果您在比特币的第575,000区块中收到总共100比特币，那么您将至少要等待8个区块（100/13.25）来确认这100比特币。13.25是目前在比特币上成功挖掘一个区块的平均总区块奖励，仅用于示例目的。这种威慑方法需要进一步研究，并可能受益于额外的“安全乘数”。博弈论者请私信我Twitter。
 
-3.  **Be Mindful of Hardware Sets; especially GPUs**: Presently there are two hardware sets that mine Cryptocurrencies, ASICs dedicated to a specific hashing algorithm, and GPUs. This means that the Dagger-Hashimoto PoW algorithm on the Ethereum network is presently the majority for the GPU hardware type. All other GPU-mined chains, regardless of their PoW algorithm, are minority chains as switching costs between algorithms are trivial.
+3. **注意硬件组合，尤其是GPU**：目前有两种硬件组合用于挖掘加密货币，即专用于特定哈希算法的ASIC和GPU。这意味着以太坊网络上的Dagger-Hashimoto PoW算法目前是GPU硬件类型的主流。所有其他GPU挖掘的区块链，无论其PoW算法如何，都是少数派链，因为在算法之间切换的成本很低。
 
-Currently market inefficiencies create the perception that GPU-mined algorithms are distinct from each other. However this is only due to open market places (ie. Nice Hash, Genesis Mining) selling hashrate at the algorithm and chain level rather than the general GPU level. You can observe the ease of switching between GPU-mined algorithms by taking a look at auto-switching mining pools (ex. MiningPoolHub) which allow miners to automatically switch their hashrate between networks and GPU-mined algorithms. It is inadvisable to rely exclusively on market inefficiencies to prevent exploitation of minority GPU-mined blockchains.
+   目前，市场的低效性导致了对GPU挖掘算法彼此独立的观念。然而，这仅仅是由于公开市场（如NiceHash、Genesis Mining）按算法和链级别出售哈率，而不是一般的GPU级别。您可以通过查看自动切换挖矿池（例如MiningPoolHub）来观察在GPU挖掘算法之间轻松切换的便利性，该挖矿池允许矿工在网络和GPU挖掘算法之间自动切换他们的哈率。仅依赖市场低效性来防止对少数派GPU挖掘的区块链进行剥削是不明智的。
 
-## Are Re-orgs a Good Thing™?
+## 重新组织是一件好事™吗？
 
-Re-orgs are simply a vital component of PoW/Nakamoto Consensus, they are not in and of themselves good or bad. Re-orgs are necessary and irremovable from Nakamoto consensus because they remove trusted middlemen so that someone receiving a blockchain only needs to verify that it’s the longest one they’re aware of.
+重新组织只是PoW/Nakamoto共识的一个重要组成部分，它们本身不是好事或坏事。重新组织是Nakamoto共识中必不可少且无法移除的，因为它们消除了信任的中间人，使得接收区块链的人只需验证它是他们所知的最长区块链即可。
 
-In exchange for re-orgs we get PoW blockchains that are expensive to disrupt, and make long term censorship and DoS attacks impossible because they require sustained spending and consumption of finite resources.
+作为对重新组织的交换，我们得到了昂贵且难以破坏的PoW区块链，这使得长期审查和DoS攻击变得不可能，因为它们需要持续的花费和消耗有限资源。
 
-## **In Summary**
+## 总结
 
-PoW is an incredible experiment in game theory and financial motivations the likes of which we have not seen before. If you’re interested in this industry then you should take at least some effort to understand the innovation that is PoW, learn its limitations, its unexplored dimensions, and enjoy watching this all play out. Ultimately PoW is the only consensus algorithm that we have which allows for a maximally decentralized, permissionless, and censorship-resistant network which naturally resists concentration of power. PoW doesn’t solve technological issues, it solves human issues.
+PoW是对博弈论和财务动机进行的令人难以置信的实验，我们以前从未见过这样的实验。如果您对这个行业感兴趣，您应该至少付出一些努力来了解PoW的创新，了解其局限性、未经探索的方面，并享受观察这一切的过程。归根结底，PoW是我们唯一拥有的允许实现最大程度去中心化、无需许可和抵抗审查的网络的共识算法，这种网络自然会抵制权力的集中。PoW不能解决技术问题，它解决了人的问题。
 
-You can read more on these topics, and similar ones at:  [nakamotoinstitute.org](http://web.archive.org/web/20190529192405/https://nakamotoinstitute.org/),  [the cryptography mailing list archives](http://web.archive.org/web/20190529192405/http://www.metzdowd.com/pipermail/cryptography/2009-January/), and  [the libbitcoin wiki](http://web.archive.org/web/20190529192405/https://github.com/libbitcoin/libbitcoin-system/wiki).
+您可以在 [nakamotoinstitute.org](http://web.archive.org/web/20190529192405/https://nakamotoinstitute.org/)、[密码学邮件列表存档](http://web.archive.org/web/201905291924
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC: https://ethereumclassic.org
