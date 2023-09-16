@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Course: 35. Non-Fungible Tokens (NFTs)"
+title: "以太坊经典课程: 35. 非同质化代币（NFTs）"
 date: 2023-09-21
 author: Donald McIntyre
 contributors: ["Donald McIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner-nfts.png
 ---
 
 ---
-**You can listen to or watch this interview here:**
+**由此收听或观看此次访谈:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v8Isn4i6Ww8?si=EMyAqiRt7c_SIZOZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,87 +16,86 @@ linkImage: ./banner-nfts.png
 
 ![](1.png)
 
-One of the major technologies that have caught the attention and been used by the public on the blockchain industry have been NFTs. 
+在区块链行业中引起公众关注并被广泛使用的一项重要技术是NFTs（非同质化代币）。
 
-The term “NFT” stands for non-fungible token.
+术语“NFT”代表非同质化代币。
 
-In this class, 35, we will explain NFTs in the following sections. 
+在本课程第35节中，我们将在以下几个部分中解释NFTs。
 
-The topics that we will cover are:
+我们将涵盖的主题包括：
 
-- What Are Non-Fungible Tokens (NFTs)?
-- Examples of Collectable NFTs
-- How NFTs Are Built
-- The ERC-721 Smart Contract
-- Famous NFTs
+- 什么是非同质化代币（NFTs）？
+- 可收藏的NFTs示例
+- NFTs是如何构建的
+- ERC-721智能合约
+- 著名的NFTs
 
-In the next class, 36, we will explain how property registries and ownership records will work on the blockchain.
+在下一课，第36课中，我们将解释财产登记和所有权记录如何在区块链上运作。
 
-## What Are Non-Fungible Tokens (NFTs)?
+## 什么是非同质化代币（NFTs）？
 
 ![](2.png)
 
-Non-fungible tokens are smart contracts on a programmable blockchain. The standard used is called the ERC-721. Instead of being ERC-20 standard fungible units, they are non-fungible or unique objects on a blockchain.
+非同质化代币是可编程区块链上的智能合约。所使用的标准称为ERC-721。与ERC-20标准的可互换单位不同，它们是区块链上的非同质化或独特对象。
 
-NFTs may be associated with physical or digital objects, such as cars or real estate, through metadata.
+NFTs可以与物理或数字对象关联，例如汽车或房地产，通过元数据。
 
-The important features of this kind of non-fungible objects are that they are transferable, they can be bought and sold, and the blockchain serves as the property registry.
+这种非同质化对象的重要特点是它们可以转让，可以买卖，并且区块链充当财产登记处。
 
-NFTs may serve many use cases. The most well known are digital collectibles, but they could also be associated to other unique things such as intellectual property (music, movies, etc.), movable property (cars, trucks, boats, airplanes, etc.), real estate (homes, apartments, land, farms, etc.), other kinds of registrable goods, cash flows (discounted invoices, promissory notes, etc.), contracts, containers, pallets, and other goods and objects in the supply chain in general.
+NFTs可以用于许多用途。最知名的是数字收藏品，但它们也可以与其他独特的事物相关联，如知识产权（音乐、电影等）、动产（汽车、卡车、船只、飞机等）、房地产（住宅、公寓、土地、农场等）、其他可登记的货物、现金流（贴现发票、本票等）、合同、容器、托盘以及一般供应链中的其他货物和物体。
 
-## Examples of Collectable NFTs
+## 可收藏的NFTs示例
 
 ![](3.png)
 
-Just like in the real world there exists baseball card collecting, NFTs have enabled the collection of digital cards or images, which sometimes have been called “digital art”.
+就像在现实世界中存在棒球卡片收藏一样，NFTs使数字卡片或图像的收藏成为可能，有时被称为“数字艺术”。
 
-This is because NFT smart contracts may convert digital images into unique digital objects on the blockchain that are transferable. This uniqueness has attracted collectors who have invested millions in buying these objects.
+这是因为NFT智能合约可以将数字图像转化为区块链上可转让的独特数字对象。这种独特性吸引了投资者，他们已经投资了数百万美元来购买这些对象。
 
-An example of a highly valued real life collectible is the [Honus Wagner baseball card](https://www.mlb.com/news/rare-t206-honus-wagner-baseball-card-sold-for-7-25-million) that was sold for $7.25 million dollars on August 3 2022.
+一个高价值的现实世界可收藏示例是于2022年8月3日以725万美元的价格售出的 [Honus Wagner 棒球卡片](https://www.mlb.com/news/rare-t206-honus-wagner-baseball-card-sold-for-7-25-million)。
 
-In the case of NFTs, the image of the Larva Labs [CryptoPunk number 7523](https://www.cnbc.com/2021/06/10/covid-alien-cryptopunk-nft-sells-for-11point7-million-in-sothebys-auction.html) was sold for $11.75 million dollars on June 10 2021.
+至于NFTs，在2021年6月10日，Larva Labs的 [CryptoPunk编号7523的图像](https://www.cnbc.com/2021/06/10/covid-alien-cryptopunk-nft-sells-for-11point7-million-in-sothebys-auction.html) 以1175万美元的价格出售。
 
-## How NFTs Are Built
+## NFTs的构建方式
 
 ![](4.png)
 
-NFTs work by associating crypto wallets such as MetaMask to websites or apps. The websites or apps serve as user interfaces, to display the NFTs, for the primary sales or minting, to do transfers, to buy and sell them in the secondary market, and to check account balances.
+NFTs的构建方式是将加密钱包（如MetaMask）与网站或应用程序关联起来。这些网站或应用程序充当用户界面，用于展示NFTs，进行主要销售或铸币，进行转账，在二级市场上买卖它们，并查看账户余额。
 
-The ERC-721 smart contracts are inside a programmable blockchain such as Ethereum Classic (ETC). The smart contract is the backend logic of the system, it executes all movements that originate from the web or app, and maintains the property registry of the NFTs.
+ERC-721智能合约位于可编程区块链内，例如Ethereum Classic（ETC）。智能合约是系统的后端逻辑，执行源自网络或应用程序的所有操作，并维护NFTs的财产注册。
 
-The digital objects and metadata of NFTs may be stored in decentralized file storage networks such as IPFS. To manage the creation and stock of NFTs on these networks interfaces like Pinata provide tools and services that make it easier.
+NFTs的数字对象和元数据可以存储在去中心化的文件存储网络（如IPFS）中。为了管理这些网络上NFTs的创建和库存，像Pinata这样的接口提供了简化操作的工具和服务。
 
-Finally, for the system to interact with the underlying blockchain it needs to connect to that blockchain’s nodes who receive and process the transactions.
+最后，为了使系统与基础区块链交互，它需要连接到该区块链的节点，这些节点接收并处理交易。
 
-## The ERC-721 Smart Contract
+## ERC-721智能合约
 
 ![](5.png)
 
-As explained in class 25 of this course, on programmable blockchains developers may deploy ERC-20 tokens that are fungible tokens which may be used to pay for things, vote on DAOs, or as product or corporate fidelity points, amongst many other use cases.
+正如本课程第25课所解释的那样，在可编程区块链上，开发人员可以部署ERC-20代币，这些代币是可互换的代币，可用于支付、在DAO上投票，或作为产品或企业忠诚积分等多种用途。
 
-For unique objects that are not fungible, but that represent things in cyberspace or the real world, the ERC-721 token format was created.
+对于不可互换但代表网络空间或现实世界中的物体的唯一对象，创建了ERC-721代币格式。
 
-The ERC-721 smart contract holds the metadata of objects inside a blockchain. It is the back end logic of an NFT system which executes all transactions that start on the web or from NFT apps.
+ERC-721智能合约保存了区块链中对象的元数据。它是NFT系统的后端逻辑，执行所有从网络或NFT应用程序启动的交易。
 
-The ERC-721 smart contract uses the blockchain’s account system to maintain the property registry of all NFTs.
+ERC-721智能合约使用区块链的账户系统来维护所有NFTs的财产注册。
 
-## Famous NFTs
+## 著名的NFTs
 
 ![](6.png)
 
-NFTs were invented in 2017 and the first product to launch was Crytpokitties.
+NFTs于2017年首次问世，第一个产品是Cryptokitties。
 
-At the time, [Cryptokitties](https://www.cryptokitties.co/) caused excitement and furor as users rushed to buy their NFTs and the transaction count on Ethereum skyrocketed, causing GAS fees to skyrocket as well.
+当时，Cryptokitties引起了轰动和狂热，用户纷纷购买他们的NFTs，导致以太坊上的交易数量激增，进而导致GAS费用飙升。
 
-On the Ethereum Classic blockchain one of the first and most popular NFT projects is [ETCPunks](https://etcpunks.com/) which sold 10,000 NFTs at 2 ETC a piece.
-
-–--
-
-In the next class, 36, we will explain how NFTs, as well as ERC-20 tokens, will be used for other important functions.
-
+在Ethereum Classic区块链上，最早和最受欢迎的NFT项目之一是ETCPunks，以每个2 ETC的价格出售了10,000个NFT。
 
 ---
 
-**Thank you for reading this article!**
+在下一课，第36课中，我们将解释NFTs以及ERC-20代币将如何用于其他重要功能。
 
-To learn more about ETC please go to: https://ethereumclassic.org
+---
+
+**感谢您阅读本期文章!**
+
+了解更多有关ETC: https://ethereumclassic.org
