@@ -1,5 +1,5 @@
 ---
-title: "Your Exchange Needs More Confirmations: The BitConf Measure"
+title: "您的交易所需要更多的确认：BitConf度量标准"
 date: 2023-09-19
 author: Anonymous
 contributors: ["Anonymous"]
@@ -7,36 +7,32 @@ tags: ["education"]
 linkImage: ./banner.png
 ---
 
-The following article was originally published on December 17 2018 by an author who wishes to remain anonymous.
+以下文章最初由一位希望保持匿名的作者于2018年12月17日发布。
 
 ---
 
-In cryptocurrency we regularly advise against accepting zero-conf transactions but are entirely happy to accept weakly-conf’d transactions for convenience. And we need to stop. Cryptocurrencies naturally settle to over time, but how fast they settle varies. We need to stop making unreasonable demands of confirmation time.
+在加密货币领域，我们经常建议不接受零确认交易，但对于便利起见，我们完全愿意接受弱确认的交易。但我们需要停止这样做。加密货币在自然情况下会随着时间解决，但解决速度有所不同。我们需要停止对确认时间提出不合理的要求。
 
-> $81,000 of security, and $3,000 of security are not equivalent. Whatever the threshold is, it should be normalized so that all networks have the same security when it comes to deposits and accepting payments.
+> 81000美元的安全性和3000美元的安全性并不相等。不管阈值是多少，都应该被规范化，以便在存款和接受付款方面，所有网络都具有相同的安全性。
 
-How blocks see themselves vs. how they actually are.
+区块链自身看待自己与其实际情况。
 
-Your typical Cryptocurrency exchange requires a different number of confirmations/blocks depending on which Cryptocurrency you’re using. For example, Bitcoin is typically 2, Litecoin is 6, Ethereum is 36, and Ethereum Classic is 72.
+您典型的加密货币交易所需要不同数量的确认/区块，这取决于您使用的加密货币。例如，比特币通常需要2个确认，莱特币需要6个，以太坊需要36个，以太经典需要72个。
 
-Okay, great, there are different amounts of blocks needed for each network to sufficiently deter attacks that result in reversed transactions. Except these numbers are not at all equivalent. 6 Litecoin blocks are much cheaper to mine than 1 Bitcoin block.
+好的，很好，对于每个网络，确保足够防止导致交易被撤销的攻击所需的区块数是不同的。除了这些数字根本不等同。挖掘6个莱特币块比挖掘1个比特币块要便宜得多。
 
-A Bitcoin block is ~$40,500; we’ll call this 1 BitConf, the equivalent PoW security of mining a single Bitcoin block. So 2 BitConfs is $81,000 of security.
+一个比特币块约值40500美元；我们称之为1 BitConf，挖掘单个比特币块的等效PoW安全性。因此，2个BitConf的安全性为81000美元。
 
-A Litecoin block is ~$500, or 0.01234 BitConfs. 6 Litecoin blocks are $3,000 of security.
+一个莱特币块约值500美元，或者0.01234个BitConf。6个莱特币块的安全性为3000美元。
 
-It’s 27x cheaper to 51% attack Litecoin than Bitcoin on any exchange that waits 6 blocks for a Litecoin and 2 for Bitcoin. For your exchange to have the same security on Litecoin as Bitcoin you need to wait 162 blocks, or 6.75 hours for confirmation. This is the security of the Litecoin network.
+在等待6个莱特币块和2个比特币块的交易所上，51%攻击莱特币比比特币便宜27倍。为了使您的交易所在莱特币和比特币上具有相同的安全性，您需要等待162个区块，或6.75小时的确认时间。这是莱特币网络的安全性。
 
-For Ethereum, each block costs $252 and you need 321 of them (or 1.2 hours) for the same confirmation strength as Bitcoin. Ethereum Classic is $14 per block and needs 5,785 blocks or about 1 day to reach 2 BitConfs.
+对于以太坊，每个区块的成本为252美元，您需要321个区块（或1.2小时）才能达到与比特币相同的确认强度。以太经典每个区块14美元，需要5785个区块，或大约1天的时间才能达到2个BitConf的安全性。
 
-Maybe an exchange doesn’t need to wait 2 BitConfs, maybe a fraction of a BitConf is enough. Maybe it varies based on how much they’re depositing, a sane attacker is not going to spend $10,000 to double spend $1,000 on your exchange. But $81,000 of security, and $3,000 of security are not equivalent. Whatever the threshold is, it should be normalized so that all networks have the same security when it comes to deposits and accepting payments.
+也许一个交易所不需要等待2个BitConf，也许一小部分BitConf就足够了。也许这取决于他们存入了多少资金，一个理智的攻击者不会花费10000美元来双倍花费您交易所上的1000美元。但81000美元的安全性和3000美元的安全性并不相等。不管阈值是多少，都应该被规范化，以便在存款和接受付款方面，所有网络都具有相同的安全性。
 
-P.S. It’s also viable to credit deposits instantly & wait confirmations for withdrawals. Some exchanges already do this with cash deposits, start doing it with all deposits.
+附：也可以立即将存款记入帐户并等待确认后再提款。一些交易所已经在现金存款方面采取了这种做法，请开始在所有存款方面采取这种做法。
 
-*Thanks to  Rocco.*
+**感谢您阅读本文！**
 
----
-
-**Thank you for reading this article!**
-
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于以太经典的信息，请访问：https://ethereumclassic.org
