@@ -2,7 +2,6 @@
 title: "Your Exchange Needs More Confirmations: The BitConf Measure"
 date: 2023-09-19
 author: Anonymous
-contributors: ["Anonymous"]
 tags: ["education"]
 linkImage: ./banner.png
 ---
