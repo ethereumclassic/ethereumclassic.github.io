@@ -1,7 +1,7 @@
 - date: 2023-09-20
   title: Nabox
   description: Nabox is a cross-chain DID application built for Web3.With Nabox, you can manage assets across different blockchains whether for DeFi, GameFi, NFT, and other use cases that come up. Nabox is your gateway to the multi-chain world.
-  image:  ./images/nabox.jpeg
+  image:  ./images/nabox.png
   type: wallet
   author: Nabox
   authorLink: https://nabox.io/
@@ -24,7 +24,7 @@
 - date: 2023-09-20
   title: SwapBox
   description: SwapBox aggregates mainstream DEXs to provide users with asset exchange and asset cross-chain exchange, and intelligently find the best exchange path.
-  image:  ./images/swapbox.jpeg
+  image:  ./images/swapbox.png
   type: DeFi
   author: Nabox
   authorLink: https://nabox.io/
