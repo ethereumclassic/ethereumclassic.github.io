@@ -4,7 +4,7 @@ date: 2023-10-23
 author: Donald McIntyre
 contributors: ["Donald McIntyre"]
 tags: ["education"]
-linkImage: ./banner.png
+linkImage: ./strict-rules-banner.png
 ---
 
 ---
@@ -13,6 +13,8 @@ linkImage: ./banner.png
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H3CMiQ9Mekc?si=tpnWGxLGh8ICUG38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
+
+![](./strict-rules-banner.png)
 
 There is a common misconception in society that things like freedom and self sovereignty are concepts that promote unrestrained behavior which may lead to abuse and injustice. That people need central authority to control them.
 
@@ -45,6 +47,8 @@ With rules-based institutions like the family, marriage, church, constitutions, 
 The global economy trades close to $100 trillion dollars per year and the great majority is conducted peacefully due to rules such as private property, freedom of contract, and equality in front of the law.
 
 ## Ethereum Classic Is a Set of Strict Rules
+
+![](./banner.png)
 
 In our current modern society, the major source of violence and injustice are trusted third parties, such as governments and big corporations, who frequently violate our rights, but under the guise of the law or for “our protection”.
 
