@@ -20,7 +20,6 @@
     - name: Discord
       link: http://discord.gg/mQVXZJXMkn
       icon: discord
-
 - date: 2023-09-20
   title: SwapBox
   description: SwapBox aggregates mainstream DEXs to provide users with asset exchange and asset cross-chain exchange, and intelligently find the best exchange path.
