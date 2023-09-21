@@ -1,5 +1,5 @@
 ---
-title: "In Proof of Stake, Both Exchange Staking and LSD/LST Staking Are Centralized"
+title: "在权益证明中，无论是交易所的权益投入还是LSD/LST的权益投入，都是集中化的"
 date: 2023-09-27
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
