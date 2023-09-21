@@ -3,7 +3,7 @@ title: "Buying and Trading ETC Through Coinbase"
 date: 2023-10-04
 author: Donald McIntyre
 contributors: ["Donald McIntyre"]
-tags: ["guide"]
+tags: ["guide", "series"]
 linkImage: ./coinbase-banner.png
 ---
 
