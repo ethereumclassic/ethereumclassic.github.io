@@ -8,49 +8,49 @@ tags: ["phylosophy"]
 linkImage: ./banner.png
 ---
 
-In Proof of Stake (POS) networks, both exchange staking and "decentralized" staking are centralized. Ethereum is 100% censorable. If they [indicate](https://www.mevwatch.info/) that less than that is censored, it is just that authorities have not enforced their capacity over 100% of the network, yet.
+在权益证明（POS）网络中，无论是交易所的权益投入还是“去中心化”的权益投入都是集中化的。以太坊是100%可审查的。如果它们[表明](https://www.mevwatch.info/)不到100%被审查，那只是因为当局尚未对网络的100%实施控制。
 
-There is no such thing as staking being decentralized because of calls to goodness. [Social consensus](https://ethereumclassic.org/blog/2023-01-25-ethereums-social-consensus-vs-ethereum-classics-code-is-law) is broken by definition ("social" means the community rules, and blockchains were invented precisely to avoid trusted third parties!).
+权益投入之所以不能被称为去中心化，是因为善意呼叫不存在。[社会共识](https://ethereumclassic.org/blog/2023-01-25-ethereums-social-consensus-vs-ethereum-classics-code-is-law)在定义上是破碎的（“社会”意味着社区规则，而区块链的发明正是为了避免信任的第三方存在！）。
 
-Liquid staking derivatives (LSD), also called liquid staking token (LST) staking, on Lido or RocketPool are [openly and obviously centralized](https://ethereumclassic.org/blog/2023-02-22-ethereum-classic-is-censorship-resistant-ethereum-is-not) for anyone with 101 level of economics. 
+流动权益衍生品（LSD），也称为流动权益代币（LST）权益投入，无论对于具备101级经济知识的任何人来说，都是[明显的集中化](https://ethereumclassic.org/blog/2023-02-22-ethereum-classic-is-censorship-resistant-ethereum-is-not)。
 
-It is not necessary to mention why staking through centralized exchanges is centralized, but LSD staking is as broken as BitcoinCash (BCH), with its 32 megabyte block size, is broken by design. LSD/LST or "decentralized" staking is centralized. 
+无需提及通过中心化交易所进行的权益投入为什么是集中化的，但LSD权益投入与比特币现金（BCH）一样由设计上存在问题。LSD/LST或“去中心化”权益投入是集中化的。
 
-There are 4 components and one overarching constraint in LSD/LST systems: 
+LSD/LST系统中有4个组成部分和一个主要限制：
 
-**Components:**
- 
-- The liquid staking derivatives or tokens per se (LSD/LST).
-- The stakers who put the money to stake.
-- The pool smart contract, which is really a team of developers plus some investors directing everything.
-- The validators, who are the operators that put the data centers with machines to validate.
+**组成部分：**
 
-**Overarching constraint:**
+- 权益衍生品或代币（LSD/LST）本身。
+- 投入资金的权益者。
+- 池智能合同，实际上是一个由开发者和一些投资者组成的团队，指导着一切。
+- 验证者，是将数据中心和机器用于验证的运营商。
 
-- POS has penalties and slashing, which impose a system of terror.
+**主要限制：**
 
-**Explanation of how the components and the constraint mentioned above make POS networks centralized:**
+- POS具有惩罚和减少的规则，强加了一种恐怖体系。
 
-- The LSD/LST's have no effect on the staking method. It only makes the stakers hyper leveraged speculators because they can stake and re-stake their ETH coins multiple times in multiple protocols and this creates the typical banking fractional reserve problem where one unit of value is used multiple times, in multiple ways, in the economy.
-    
-- The stakers who put money are anonymous for now, but since pools such as LIDO and RocketPool are obviously securities and they are centralized organizations disguised as smart contracts, they will very soon be forced to do KYC and AML to all their clients, including the stakers. So the smart contract is worth zero, it has no use whatsoever.
-    
-- The pool smart contract is just a fronting that hides a standard legal setup organization behind where you have partners (the team plus investors) controlling it. Whenever or wherever you have two or more persons get together to form a business, then you have a legal partnership under most laws everywhere. DAOs are that. They are useful to implement the legal rules of partnerships and corporations, but they are not "decentralized" nor "autonomous".
-    
-- The validators are vetted and filtered by LIDO/RocketPool. They have to be because they have to ensure that they minimize downtime and penalties. This is the final straw that kills POS.
+**解释上述提到的组成部分和限制如何使POS网络集中化：**
 
-- What Vitalik has been saying for years, that the penalties and slashing are the key "cryptoeconomic" security guarantee of POS is not true. It is the key to centralization because it is impossible for nodes around the world to guarantee the uptime and consistency of large centralized data centers that are located in strategic places. Therefore, everybody has to flock to the big pools.
+- LSD/LST对权益投入方法没有影响。它只使权益者成为高度杠杆的投机者，因为他们可以将他们的ETH硬币多次在多个协议中进行权益投入和再投入，这会导致典型的银行存款储备问题，其中一个价值单位在经济中以多种方式多次使用。
 
-**POS has so efficient economies of scale because of two reasons:**
+- 目前，将资金投入的权益者是匿名的，但由于LIDO和RocketPool等池明显是证券，并且它们是伪装成智能合同的中心化组织，因此它们很快将被迫对所有客户（包括权益者）进行KYC和AML。因此智能合同毫无价值，没有任何用途。
 
-- Staking is frictionless as it is just a deposit in the ledger, therefore power law is unlimited.
+- 池智能合同只是隐藏在标准法律设置组织背后的一个掩护，您可以在那里找到合作伙伴（团队加上投资者）来控制它。无论何时何地，两个或两个以上的人聚在一起组成企业，那么在大多数地方的大多数法律下，您都有一个法律合伙关系。DAO就是如此。它们有助于实施合作伙伴和公司的法律规则，但它们不是“去中心化”或“自治”的。
 
-- The penalties impose a system of terror that leads everybody to stake through the centralized players because the bigger they are the less vulnerable they will be to the failures and penalties.
+- 验证者经过LIDO/RocketPool的审查和筛选。这是必须的，因为他们必须确保最小化停机时间和惩罚。这是推翻权益证明的最后一根稻草。
 
-And we have not mentioned the legal dramas that are coming in all POS systems as the slashing in itself is a recipe for constant litigation between the pools, the devs, and the foundations and promoters of these systems.
+- 多年来，Vitalik一直在说，惩罚和减少是POS的关键“加密经济学”安全保障，但这并不正确。这是集中化的关键，因为世界各地的节点不可能保证位于战略位置的大型中央数据中心的稳定性和一致性。因此，每个人都必须涌向大池。
+
+**POS之所以具有如此高效的规模经济，是因为有两个原因：**
+
+- 权益投入是无摩擦的，因为它只是在分类帐中的存款，因此幂律是无限的。
+
+- 惩罚规则强制实施了一种恐怖体系，导致所有人都通过中心化的参与者进行权益投入，因为它们越大，就越不容易受到故障和惩罚的影响。
+
+我们还没有提到即将在所有POS系统中出现的法律纠纷，因为削减本身就是池、开发人员和这些系统的基金会和推广者之间不断诉讼的导火索。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC: https://ethereumclassic.org
