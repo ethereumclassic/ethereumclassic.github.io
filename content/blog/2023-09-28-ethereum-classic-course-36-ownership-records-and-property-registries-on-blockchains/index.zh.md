@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Course: 36. Ownership Records and Property Registries on Blockchains"
+title: "在权益证明中，无论是交易所的权益投入还是LSD/LST的权益投入，都是集中化的"
 date: 2023-09-28
 author: Donald McIntyre
 contributors: ["Donald McIntyre"]
