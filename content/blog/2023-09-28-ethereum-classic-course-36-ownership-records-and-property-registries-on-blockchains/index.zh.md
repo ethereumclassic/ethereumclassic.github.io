@@ -1,5 +1,5 @@
 ---
-title: "在权益证明中，无论是交易所的权益投入还是LSD/LST的权益投入，都是集中化的"
+title: "以太经典课程：36. 区块链上的所有权记录和财产登记"
 date: 2023-09-28
 author: Donald McIntyre
 contributors: ["Donald McIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this interview here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/srxeVLmK6TU?si=wOOxcJJFLcmqKOjd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,68 +16,68 @@ linkImage: ./banner.png
 
 ![](1.png)
 
-In our previous class, 35, we explained what are non-fungible tokens (NFTs) and how they may be used not only for digital images or art, but also to represent all sorts of registrable objects. 
+在我们之前的第35节课中，我们解释了什么是非同质代币（NFTs）以及它们不仅可以用于数字图像或艺术，还可以用来代表各种可登记对象。
 
-As long as digital or real world objects have unique metadata to associate to them; such as address, manufacturer, brand, serial numbers, etc; then, they may be connected to NFTs and held and transferred inside programmable blockchains, such as Ethereum Classic (ETC).
+只要数字或现实世界的对象具有可关联的唯一元数据，比如地址、制造商、品牌、序列号等，它们就可以与NFT关联，并在可编程区块链（如以太坊经典ETC）内进行持有和转移。
 
-In this class, 36, we will explore how both NFTs and ERC-20 tokens; which are fungible tokens, as explained in class 25; together with the blockchain’s account system, may be used to recreate ownership records and property registries on these networks.
+在第36课中，我们将探讨NFTs和可替代代币（ERC-20代币，如第25课所解释的）以及区块链的账户系统如何一起使用，以在这些网络上重新创建所有权记录和财产登记。
 
-## Cars Will Be NFTs and Bought and Sold on the Blockchain
+## 汽车将成为NFTs，并在区块链上买卖
 
 ![](2.png)
 
-As said above, because NFTs may represent any digital or physical object as long as there is unique metadata to associate to them, then movable objects, such as cars, will likely be registered, transferred, and traded on programmable blockchains, such as ETC.
+正如上面所说，因为NFT可以代表任何数字或物理对象，只要有唯一的元数据可关联，可移动的对象，如汽车，很可能会在可编程区块链（如ETC）上进行注册、转移和交易。
 
-And, because ETC is composable, very complex transactions will be enabled with smart contracts. 
+而且，由于ETC具有可组合性，智能合同将能够实现非常复杂的交易。
 
-For example, an individual will be able to go to a website, see the car he wants to buy, check car loans and rates, and execute the purchase in one single transaction that would pay for the car, take the car loan, and also transfer full ownership to him. If he were to default on his payments, then the smart contract would proceed to deactivate the car and transfer ownership to the lender.
+例如，个人可以访问网站，查看他想购买的汽车，查看汽车贷款和利率，并在一笔交易中执行购买，该交易将支付汽车的费用，贷款购车，同时将完全所有权转移给他。如果他没有按时偿还贷款，那么智能合约将继续停用汽车并将所有权转移到贷款人名下。
 
-Car renting could also be done using cars represented as NFTs on the blockchains. As long as the driver has paid for the rent, then the car will be active and the insurance will provide coverage.
+使用区块链上表示为NFT的汽车，也可以进行汽车租赁。只要驾驶员支付了租金，汽车就会处于激活状态，并且保险将提供保障。
 
-## Real Estate Will Be NFTs and Bought and Sold on the Blockchain
+## 房地产将成为NFTs，并在区块链上买卖
 
 ![](3.png)
 
-In the same way that cars may be registered on programmable blockchains, real estate property registries may also be transferred to these systems enabling complex transactions, while making them more reliable, secure, composable, and instant.
+与汽车可以在可编程区块链上进行注册类似，房地产产权登记也可以转移到这些系统中，从而实现复杂的交易，同时使它们更加可靠、安全、可组合和即时。
 
-For example, a house could be listed on Ethereum Classic and the buyer could make the down payment, take a mortgage loan, and purchase the home in one transaction. The property title and the mortgage contract would be closed instantly in the same transaction, and everything could be settled and paid in 13 seconds.
+例如，一栋房子可以在以太经典上列出，买家可以在一笔交易中支付首付款，获得抵押贷款，并购买房屋。产权和抵押合同将在同一交易中即时关闭，一切都可以在13秒内完成和支付。
 
-And, similar to the car loan and property rights, if the owner were to default on his payments to the mortgage lender, then smart contracts could be coded with the rules of engagement of the jurisdictions in question and proceed to foreclosure or other legal steps.
+与汽车贷款和产权类似，如果房主没有按时偿还抵押贷款给贷款人，那么智能合同可以编码成符合相关法域的规则，并进行处置或其他法律步骤。
 
-The same kind of conditions could be programmed when renting homes, staying at hotel rooms, AirBnBs, and other uses of real estate properties.
+同样的条件也可以在租赁住房、入住酒店客房、AirBnB和其他房地产属性的使用中进行编程。
 
-## Corporations, Partnerships, and Nonprofits Will Be ERC-20 Tokens and Booked on Blockchains
+## 公司、合伙企业和非营利组织将成为ERC-20代币，并记录在区块链上
 
 ![](4.png)
 
-As the firm is a registrable object, then all kinds of legal personhood, such as corporations, partnerships, and nonprofits, will be registered on blockchains such as ETC.
+因为公司是可注册的对象，所以所有种类的法律主体，比如公司、合伙企业和非营利组织，都将在区块链上进行注册，比如ETC。
 
-The protocol’s account system will be used as the addresses that owners will use to control their shares; and ERC-20 smart contracts will be the legally recognized entities themselves, which will have all the corporate rules integrated into them.
+协议的账户系统将用作业主用来控制他们的股份的地址；ERC-20智能合同将是法律上承认的实体本身，它们将集成所有公司规则。
 
-Shareholders or partners will control their percentages in these firms through their tokens, they will vote on corporate decisions, implement reorganizations, and execute transfers, mergers and acquisitions through these decentralized programs.
+股东或合伙人将通过他们的代币来控制这些公司的百分比，他们将对公司决策进行投票，执行重组，并通过这些去中心化程序执行转让、合并和收购。
 
-The ERC-20 token smart contracts will receive the corporate revenues and make payments to all constituents, including dividends, salaries, accounts payable, and taxes.
+ERC-20代币智能合同将收到公司收入，并向所有成员进行支付，包括红利、工资、应付账款和税收。
 
-In the case of for profit organizations, their shares will trade on decentralized exchanges inside ETC, which were explained on class 33 of this course.
+对于盈利组织，它们的股份将在ETC内的去中心化交易所上交易，这在本课程第33节中已经解释过。
 
-## Relationship Between the Law and Property on the Blockchain
+## 法律与区块链上的财产之间的关系
 
 ![](5.png)
 
-It is important to differentiate between law and blockchain.
+重要的是要区分法律和区块链。
 
-The blockchain only enforces possession and control of objects, it is not a legal instrument in itself. It is more or less like driving a car because you have the keys; that you have control over it does not necessarily mean that you own it, it could also mean that you rented it or even stole it.
+区块链只强制执行物体的拥有和控制，它本身并不是法律工具。这有点像因为你拥有车钥匙而能够开车；你对它有控制权并不一定意味着你拥有它，也可能意味着你租赁了它，甚至是偷了它。
 
-Ownership and property are legal abstractions that are enforced outside of the blockchain. The blockchain is the physical aid where the property may be booked and enforced.
+所有权和财产是在区块链之外强制执行的法律抽象概念。区块链是物业可以被记录和执行的物理工具。
 
-Additionally, that transactions and transfers occur on the blockchain does not change that people will not have disputes about the ownership of things. A person may have 1,000 ETC in their account because they inherited them, but a sibling may be suing because they think they correspond to them.
+此外，交易和转移发生在区块链上并不会改变人们不会就拥有物品的问题发生争议。一个人可能有1000个ETC在他们的账户中，因为他们继承了它们，但兄弟姐妹可能会因为认为这些ETC应该属于他们而提起诉讼。
 
-Disputes will continue to be resolved through legal systems.
+争端将继续通过法律系统解决。
 
-However, it is very likely that blockchains will eventually be officially recognized as property registries, and all registrable property and legal contracts governing them will, indeed, be booked in them.
+但很可能区块链最终会被正式认可为财产登记，所有可登记的财产和管理它们的法律合同将在其中进行记录。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，请访问: https://ethereumclassic.org
