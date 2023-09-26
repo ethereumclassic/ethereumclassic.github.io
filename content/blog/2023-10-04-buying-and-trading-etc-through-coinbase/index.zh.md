@@ -1,5 +1,5 @@
 ---
-title: "Buying and Trading ETC Through Coinbase"
+title: "通过Cointbase交易ETC"
 date: 2023-10-04
 author: Donald McIntyre
 contributors: ["Donald McIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./coinbase-banner.png
 ---
 
 ---
-**You can listen to or watch this interview here:**
+**由此收听或观看本次访谈:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YpmOSvWV4w4?si=CZ_w8HeEZ7zqPw6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,126 +16,127 @@ linkImage: ./coinbase-banner.png
 
 ![](./coinbase-banner.png)
 
-## What Is Coinbase?
+## 什么是Coinbase?
 
-Coinbase is a centralized cryptocurrency exchange.
 
-A centralized cryptocurrency exchange (CEX) is a virtual location on the internet that serves as a meeting point for trading crypto assets such as Bitcoin (BTC) and Ethereum Classic (ETC).
+中心化的加密货币交易所（CEX）是互联网上的虚拟场所，用作比特币（BTC）和以太坊经典（ETC）等加密资产交易的会议点。
 
-Coinbase provides its servers over the internet for its customers to open accounts, send money, and start exchanging BTC, ETC, Ethereum (ETH), and other tokens.
+Coinbase通过互联网提供其服务器，供客户开设账户、发送资金并开始交易BTC、ETC、以太坊（ETH）和其他代币。
 
-CEXs must follow regulations, so they may be very restrictive, demanding customers to present evidence of identity and residence, performing background checks, and asking what is the source of their funds.
+CEX必须遵守法规，因此可能会非常严格，要求客户提供身份和居住地的证明，进行背景调查，并询问资金来源。
 
-Among the risks of centralized exchanges is that they may go bankrupt and customers may lose their deposits and assets.
+中心化交易所的风险之一是它们可能破产，导致客户失去存款和资产。
 
-Coinbase in particular is one of the largest cryptocurrency exchanges in the world, it started operations in the United States in 2012, and now has a vast international presence.
+特别是Coinbase是世界上最大的加密货币交易所之一，它于2012年开始在美国运营，现在在全球拥有广泛的业务。
 
-## Moving Your ETC to Non-Custodial Wallets
+## 将您的ETC转移到非托管钱包
 
 ![](./8.png)
 
-Although you may be using a centralized cryptocurrency exchange for buying and trading in Ethereum Classic, the best way to manage your ETC is to buy them in the centralized exchanges but then moving them to non-custodial wallets that you control.
+虽然您可能使用中心化的加密货币交易所来购买和交易以太坊经典（ETC），但管理您的ETC的最佳方式是在中心化交易所购买后，将它们转移到您自己控制的非托管钱包中。
 
-The steps are as follows:
+以下是操作步骤：
 
-1. You start with your cash in your bank account
-2. You move your cash to the crypto exchange
-3. You buy ETC at the crypto exchange
-4. You get a non-custodial wallet or hardware wallet
-5. You move all your ETC to your non-custodial wallet
+1. 首先，您的现金位于银行账户中。
+2. 将您的现金转移到加密货币交易所。
+3. 在加密货币交易所购买ETC。
+4. 获取一个非托管钱包或硬件钱包。
+5. 将所有的ETC转移到您的非托管钱包中。
 
-The above method is the most secure method because you end up with your ETC on the blockchain directly, under your own control with your private keys, rather than at the centralized exchange, under their control.
+上述方法是最安全的方法，因为最终您的ETC将直接存储在区块链上，由您拥有私钥控制，而不是由中心化交易所控制。
 
-In other words, it is more trust minimized.
+换句话说，这种方式最大程度地减少了信任。
 
-## Opening a Coinbase Account
+## 开设Coinbase账户
 
 ![](./1.png)
 
-The first step to create your account on Coinbase will be to select the type of user you are, individual or business (in this post we will refer to individual users), and then proceed to the following stages.
+首先，创建您的Coinbase账户的步骤是选择您是个人用户还是商业用户（在本文中，我们将提到个人用户），然后继续以下步骤。
 
-As an individual, you need to enter your email and select a strong password. Then Coinbase will ask you to verify your email. Coinbase will also ask you for your cell phone number and ask you to verify it as well.
+作为个人用户，您需要输入您的电子邮件地址并选择一个强密码。然后，Coinbase将要求您验证您的电子邮件。Coinbase还会要求您提供您的手机号码并要求您进行验证。
 
-The next step is to add your personal information, which will include your full name, your address, and a government ID.
+接下来的步骤是添加您的个人信息，包括您的全名、地址和政府身份证明。
 
-Coinbase uses identity verification in order to comply with Know Your Customer (KYC) laws. This means you will need to get an identity document, such as drivers license or passport, take photos of it and submit them to Coinbase through your computer or your Coinbase phone app.
+Coinbase使用身份验证以遵守了解您的客户（KYC）法规。这意味着您需要获得身份证明文件，例如驾驶执照或护照，拍摄照片并通过您的计算机或Coinbase手机应用程序将其提交给Coinbase。
 
-## Connecting a Bank Account and Depositing Money
+## 连接银行账户和存款
 
 ![](./2.png)
 
-After creating your account on Coinbase, you will be prompted to connect a bank account to your Coinbase profile. This is to move fiat money to your Coinbase account and then be able to buy ETC.
+在创建Coinbase账户后，您将被提示将银行账户连接到您的Coinbase个人资料。这是为了将法定货币转移到您的Coinbase账户，然后可以购买ETC。
 
-The payment methods available to connect in the United States are bank accounts, debit cards (no credit cards yet), wire transfers, direct deposits, and gift cards. 
+在美国，可用的付款方式包括银行账户、借记卡（尚无信用卡）、电汇、直接存款和礼品卡。
 
-As may be seen in the background of the image in this section, we have our bank accounts, a debit card, and our PayPal account connected to Coinbase. This means that Coinbase also accepts PayPal to receive and send funds.
+如本节图片背景所示，我们将我们的银行账户、借记卡和PayPal账户连接到了Coinbase。这意味着Coinbase也接受PayPal来接收和发送资金。
 
-## The Two Ways of Buying ETC on Coinbase
+## 在Coinbase购买ETC的两种方式
 
 ![](./3.png)
 
-Once you are all set with an account and transferred fiat money to your Coinbase account, you will be ready to buy ETC.
+一旦您已经创建了账户并将法定货币转移到了您的Coinbase账户，您将准备好购买ETC。
 
-There are two ways of buying ETC, the first one is the more rudimentary, which is to click on the “Buy & Sell” button on the top right of the Coinbase website or on your app. This method is just to buy and leave your ETC in your account, or to transfer them to your non-custodial wallet.
+购买ETC有两种方式，第一种是更为基本的，即在Coinbase网站右上角或您的应用程序上单击“购买与出售”按钮。此方法仅是购买并将您的ETC保留在您的账户中，或将它们转移到您的非托管钱包中。
 
 ![](./4.png)
 
-The second way is to use “Coinbase Advanced”, which is a professional trading platform for traders or large volume customers.
+第二种方式是使用“Coinbase Advanced”，这是专业交易平台，供交易员或大量交易的客户使用。
 
-In both cases the commissions vary according to your accumulated trading volume. But, they hover around 0.6% for medium and small trades.
+在两种情况下，佣金根据您的累计交易量而异。但对于中小额交易，佣金大约在0.6%左右。
 
-Once you buy your ETC, they will be credited to your account and stay there until you move them or sell them again.
+一旦购买了您的ETC，它们将被记入您的账户，并保留在那里，直到您将它们移动或再次出售。
 
-## Sending ETC
+## 发送ETC
 
 ![](./5.png)
 
-When you buy ETC on Coinbase they will become available to withdraw after a few days so you will be able to send them to your non-custodial wallet or other destinations.
+当您在Coinbase购买ETC后，它们将在几天后可以提取，因此您将能够将它们发送到您的非托管钱包或其他目的地。
 
-It may take a few days because your cash from the bank actually takes several days to move from your bank to Coinbase. However, if you live in a jurisdiction that has instant bank transfers or other fast money transfer systems, you may have your purchased ETC available for withdrawal sooner.
+可能需要几天的时间，因为您从银行获得的现金实际上需要几天的时间从银行转移到Coinbase。但是，如果您居住在具有即时银行转账或其他快速资金转移系统的司法管辖区，您购买的ETC可能会更快地可用于提取。
 
-The way to send your ETC to your non-custodial wallet or to any other destination is by clicking on the “Send & Receive” button on the top right of the website or on your app.
+将ETC发送到您的非托管钱包或任何其他目的地的方法是单击网站或应用程序右上角的“发送与接收”按钮。
 
-When the box opens, then you can put the ETC address of your non-custodial wallet, or you can send to any other address, or an email, or phone number.
+当弹出窗口打开时，您可以输入您的非托管钱包的ETC地址，或者发送到任何其他地址、电子邮件或电话号码。
 
-Sending by email or phone number is for transferring to other Coinbase customers, or for sending ETC to someone who does not have an account on Coinbase yet. In this case, they will receive a notification to open an account.
+通过电子邮件或电话号码发送是为了向其他Coinbase客户转账，或者向尚未在Coinbase上注册账户的人发送ETC。在这种情况下，他们将收到一条通知，要求他们开设一个账户。
 
-## Receiving ETC
+## 接收ETC
 
 ![](./6.png)
 
-To receive ETC, you click on the same “Send & Receive” button mentioned in the previous section.
+要接收ETC，您需要单击前面提到的“发送与接收”按钮。
 
-When the box opens, you need to click on the “Receive” tab, so an address to receive ETC will be displayed together with its corresponding QR code that you may show to others to scan it.
+在弹出窗口打开时，您需要单击“接收”选项卡，以显示接收ETC的地址以及相应的QR码，您可以向其他人展示该QR码以进行扫描。
 
-When receiving ETC, you will see your new balance within 13 to 39 seconds, but it will not be available for trading or withdrawal for 3,000 confirmation, which is around 11 hours. Confirmation times vary per exchange and per coin.
+当接收ETC时，您将在13至39秒内看到您的新余额，但要进行交易或提取，需要等待3,000次确认，约为11小时。确认时间因交易所和代币而异。
 
-## Using the Coinbase Visa Debit Card With ETC
+## 使用带有ETC的Coinbase Visa借记卡
 
 ![](./7.png)
 
-A cool feature on Coinbase is that you can apply for their Visa debit card that has a cashback rate of 1% to 4%.
+Coinbase的一个很酷的功能是您可以申请他们的Visa借记卡，该卡的返现率为1%至4%。
 
-This cashback is not credited in your local currency, but in crypto. You may choose in which coin you wish to receive your cashback on the “Card” page on your Coinbase account.
+这个返现不以您的本地货币形式存入，而是以加密货币形式存入。您可以在Coinbase账户的“卡”页面上选择以哪种代币形式接收
 
-As may be seen in the image in this section, we selected to pay our purchases in ETC and receive our cashback in BTC because Coinbase does not have ETC listed as a cashback coin yet.
+返现。
 
-The way it works is that the Visa card is a debit card and actually pays merchants in your local fiat money. What they do is that they sell some ETC to cover your purchases each time you buy something.
+如本节中的图像所示，我们选择用ETC支付购物并以BTC形式接收返现，因为Coinbase尚未将ETC列为返现代币。
 
-This is a convenient way to have your money in ETC, but at the same time use it for your daily expenses.
+其工作原理是Visa卡是一张借记卡，实际上以您的本地法定货币支付商家。他们每次您购物时都会出售一些ETC来支付您的购物。
 
-## Who Uses Coinbase for Buying and Selling ETC?
+这是一种方便的方式，既可以将您的资金存放在ETC中，又可以用于您的日常开支。
 
-**Investors:** ETC is an excellent long term investment alternative. This has attracted many investors who use exchanges such as Coinbase to transfer their fiat money to exchange it for Ethereum Classic. However, these ETC buyers should think of moving their holdings to non-custodial wallets as explained before, so their assets may be more secure.
+## 谁在Coinbase上购买和出售ETC？
 
-**Miners:** A segment that uses exchanges frequently to trade ETC are miners. Ethereum Classic miners earn an average of 17,000 ETC per day, but they have to pay for their operations, which include payroll, data center costs, and electricity costs. For this they usually liquidate some of their daily earnings on exchanges such as Coinbase to transform them into cash to pay for their bills.
+**投资者：** ETC是一个极好的长期投资选择。这吸引了许多投资者使用诸如Coinbase之类的交易所将其法定货币转移到以太坊经典交换。然而，这些购买ETC的人应考虑按照前面所述将其资产转移到非托管钱包，以使其更安全。
 
-**Speculators:** Trading volumes on ETC are relatively high globally and much of this is by speculators who trade daily on exchanges such as Coinbase. These participants are beneficial to the ecosystem as they provide liquidity to all other buyers and sellers.
+**矿工：** 经常使用交易所交易ETC的一个群体是矿工。以太坊经典矿工每天平均赚取17,000 ETC，但他们必须支付运营成本，包括工资、数据中心成本和电费。因此，他们通常在Coinbase等交易所上变现部分每天的收入，以将其转换为现金以支付账单。
 
-**Merchants:** Although still small, the use of ETC for buying a selling things in the broader economy is growing. Merchants who let their customers purchase items with ETC will use centralized exchanges as Coinbase to liquidate their holdings for paying for their business expenses.
+**投机者：** 全球范围内ETC的交易量相对较高，其中很大一部分是由诸如Coinbase之类的交易所上的投机者进行的日常交易。这些参与者对生态系统有益，因为它们为所有其他买家和卖家提供了流动性。
+
+**商家：** 尽管规模仍然较小，但在更广泛的经济中使用ETC进行购买和销售的情况正在增加。让客户使用ETC购买物品的商家将使用中心化交易所如Coinbase来变现其持有以支付其业务开支。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC: https://ethereumclassic.org
