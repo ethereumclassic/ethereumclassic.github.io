@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Is a Set of Strict Rules, Not the Law of the Jungle"
+title: "以太坊经典是一套严格的规则，而不是丛林法则。"
 date: 2023-10-23
 author: Donald McIntyre
 contributors: ["Donald McIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./strict-rules-banner.png
 ---
 
 ---
-**You can listen to or watch this interview here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H3CMiQ9Mekc?si=tpnWGxLGh8ICUG38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,116 +16,114 @@ linkImage: ./strict-rules-banner.png
 
 ![](./strict-rules-banner.png)
 
-There is a common misconception in society that things like freedom and self sovereignty are concepts that promote unrestrained behavior which may lead to abuse and injustice. That people need central authority to control them.
+社会中存在一个普遍的误解，认为像自由和自我主权这样的概念会促使不受限制的行为，可能导致滥用和不公正。人们需要中央权威来控制他们。
 
-In the blockchain industry in particular, especially in the proof of work segment, with blockchains such as Ethereum Classic (ETC), the misconception centers around its values of decentralization, censorship resistance, and trust minimization.
+特别是在区块链行业，尤其是在工作证明领域，如以太坊经典（ETC）等区块链中，这种误解围绕着去中心化、抗审查和信任最小化的价值观展开。
 
-The belief is that in such a permissionless environment, with no central authoritative control imposing ethics and morality, the law of the jungle would prevail and that violence and unfairness would become the norm.
+人们认为，在这种无需许可的环境中，没有中央权威控制伦理和道德，丛林法则将占主导地位，暴力和不公正将成为常态。
 
-In this post we will explain why a blockchain such as ETC actually promotes the opposite of what these misconceptions are.
+在这篇文章中，我们将解释为什么像ETC这样的区块链实际上推广了这些误解的反面。
 
-## What Is the Law of the Jungle?
+### 什么是丛林法则？
 
-Wilderness is violence and force. 
+荒野是暴力和武力的代名词。
 
-People think that because they watch documentaries about beautiful animals in the savannah or jungle, that they are these happy peaceful beings, with plenty of food, mating partners, and shelter.
+人们认为，因为他们观看了有关大草原或丛林中美丽动物的纪录片，它们是幸福和和平的生物，拥有充足的食物、交配伴侣和住所。
 
-The truth is that the “law of the jungle” is about survival, force, abuse, fighting, death, and constant hunger.
+事实上，“丛林法则”涉及生存、武力、滥用、争斗、死亡和不断的饥饿。
 
-For example, the typical lion in Tanzania eats every 3 or 4 days, can pass up to 14 days without drinking water, has to frequently patrol its territory against enemy prides, engages in fights against other lions to protect his females and cubs, and has to fight off hyenas each time they hunt an animal for food.
+例如，坦桑尼亚的典型狮子每3到4天吃一次饭，可以连续14天不喝水，必须经常巡逻其领土以对抗敌对的雄狮群，与其他狮子为了保护雌性和幼崽而发生争斗，并在每次猎食时与鬣狗战斗。
 
-Man has created a totally different environment with civilization, which is the opposite of the law of the jungle.
+人类创造了一个与丛林法则完全不同的文明环境。
 
-## Freedom Does Not Exist in Nature
+### 自由在自然界中不存在
 
-Freedom is civilization and peace.
+自由是文明和和平。
 
-Freedom does not exist in the wild. Rules such as basic rights, life, property, and liberty are carefully analyzed, thought out, and perfected systems that have evolved over centuries of trials and errors.
+自由在野外是不存在的。基本权利、生命、财产和自由等规则是经过精心分析、思考和完善的系统，经过数个世纪的试验和错误而演化而来。
 
-With rules-based institutions like the family, marriage, church, constitutions, the republic, and democracy, man has created a world where abuse and injustice have been significantly reduced.
+通过家庭、婚姻、教堂、宪法、共和国和民主等规则性机构，人类创造了一个减少滥用和不公正的世界。
 
-The global economy trades close to $100 trillion dollars per year and the great majority is conducted peacefully due to rules such as private property, freedom of contract, and equality in front of the law.
+全球经济每年交易近100万亿美元，其中绝大多数交易都在和平的情况下进行，这归功于私有财产、自由契约和法律面前的平等等规则。
 
-## Ethereum Classic Is a Set of Strict Rules
+### 以太坊经典是一套严格的规则
 
-![](./banner.png)
+在我们现代社会中，暴力和不公正的主要根源是信任的第三方，如政府和大公司，它们经常侵犯我们的权利，但以法律或“为了我们的保护”的名义行事。
 
-In our current modern society, the major source of violence and injustice are trusted third parties, such as governments and big corporations, who frequently violate our rights, but under the guise of the law or for “our protection”.
+这些微妙的滥用的例子包括缺乏隐私、基本银行和支付的障碍、虚假发行货币以及对主要技术应用和平台的审查。
 
-Examples of these subtle abuses are the lack of privacy, barriers to basic banking and payments, spurious issuance of the money, and censorship on major tech apps and platforms.
+以太坊经典是为了最小化信任的第三方在我们日常事务中的影响而创建的。
 
-Ethereum Classic was created to minimize the influence of trusted third parties in our day to day affairs. 
+为了实现这一目标，ETC是一套所有用户、节点运营者和矿工必须遵循才能享受其好处的严格规则。
 
-To accomplish this, ETC is a set of strict rules that all users, node operators, and miners must follow to be able to take advantage of its benefits.
+我们在以下部分解释了其中一些规则。
 
-We explain some of these rules in the following sections.
+## 完全复制规则
 
-### The Rule of Full Replication
+像以太坊经典这样的区块链的最基本安全策略是完全复制其数据库，也称为“区块链”。
 
-The most basic security strategy of a blockchain such as Ethereum Classic is the full replication of its database, also called the “blockchain”.
+ETC区块链包含所有用户的帐户和余额，并包含所有支持去中心化应用程序（DApp）的智能合约，这些DApp在其高度安全的环境中运行。
 
-The ETC blockchain contains all users’ accounts and balances, and has all the smart contracts that power the decentralized applications (dapps) inside its highly secure environment.
+该区块链在全球网络中的所有节点上都会复制。其思想是尽可能多地在世界各地的计算机上复制所有帐户、余额和智能合约，以使它们尽可能分散，并且不受人为或自然事件的干扰。
 
-The blockchain is replicated on all nodes globally in the network. The idea is to have all the accounts, balances, and smart contracts replicated in as many computers around the world as possible so they may be as decentralized as possible, and impossible to take down by man or natural events.
+## 验证规则
 
-### The Rule of Verification
+ETC有两种类型的参与机器：矿工和节点运营者。
 
-ETC has two types of participating machines: miners and node operators.
+矿工负责接收交易并将它们打包成块，使用工作证明。节点运营者负责接收这些来自矿工的块，验证所有交易是否正确，块是否格式正确以及是否完成了工作证明。
 
-Miners are in charge of receiving transactions and packing them into blocks using proof of work. Node operators are in charge of receiving these blocks from miners, verifying that all the transactions are correct, that the blocks were well formed, and that the proof of work was done.
+当这些事情得到确认后，节点运营者将最新的块添加到区块链中。
 
-When these things are confirmed, then node operators add the latest block to the blockchain.
+这一验证规则保持了交易、帐户、余额和块的完整性，并使数据库变得透明和统一。
 
-This rule of verification keeps the integrity of transactions, accounts, balances, and blocks, and keeps the database transparent and unified.
+在区块链行业中运行自己的节点是一个重要原则，因为这是了解帐户和余额是否合法而无需信任第三方的最佳方式。
 
-To run your own node is a key tenet in the blockchain industry because it is the best way to know that accounts and balances are legitimate without trusting third parties.
+## 块奖励规则
 
-### The Rule of Block Rewards
+硬币的发行是在创建块时完成的。
 
-The issuance of coins is done each time blocks are created.
+矿工将机器投入工作，花费大量电力创建块，他们之所以这样做的动机是，每次构建被节点运营者接受的块时，他们会得到新币的支付。
 
-The incentive that miners have to put their machines to work, spending a lot of electricity creating blocks, is that they get paid with new coins each time they build blocks that are accepted by the node operators.
+目前，以太坊经典每个块支付给矿工2.56个ETC。每天创建6,646个块，这意味着每天支付给矿工17,014个ETC。
 
-Ethereum Classic is currently paying miners 2.56 ETC per block. As there are 6,646 blocks created per day, this is a total payment to miners of 17,014 ETC each day.
+矿工有这种激励是ETC区块链安全模型的第二个组成部分，他们通过他们的工作来保护数据库。对于攻击者来说，试图篡改链以修改过去的交易将非常昂贵，因为这将需要重新进行工作证明。
 
-That miners have this incentive is what adds the second component of the security model of the ETC blockchain, which is that they secure the database with the work they do. It would be extremely costly for attackers to tamper with the chain to try to modify past transactions as this would require to do the proof of work all over again.
+## 难度调整规则 
 
-### The Rule of Difficulty Adjustment
+由于矿工计算基础会因经济和地缘政治条件的波动而波动，因此必须有一种调节块创建的方式来保持稳定。
 
-Because the miner computing base fluctuates due to economic and geopolitical conditions, then there has to be a way of regulating the creation of blocks to keep it steady.
+当矿工减少他们的计算能力时，块变得较慢，为了解决这个问题，协议会降低工作证明的难度，以使块能够更快地创建。
 
-When miners reduce their computing power, the blocks get slower, and to solve this the protocol reduces the difficulty of the proof of work so that blocks may be created faster.
+当矿工在网络中增加他们的计算能力时，块变得更快，因此协议会增加难度，以使块变得更慢。
 
-The opposite occurs when miners increase their computing power in the network. When this happens, then blocks become much faster, therefore the protocol increases the difficulty in order for blocks to become slower.
+这种难度调整的微调系统保持了块的平均时间稳定，同时稳定了硬币的发行。
 
-This fine tuning system of the difficulty adjustment keeps the block times steady, on average, and stabilizes the issuance of coins.
+## 最多工作完成规则
 
-### The Rule of Most Work Done
+为了使全球网络上的所有节点能够以分散的方式每隔13秒在完全相同的区块链版本上同步，创建了“最多工作完成规则”。
 
-For all nodes on the network globally to be able to synchronize every 13 second on the same exact version of the blockchain in a decentralized way, the rule of most work done was created.
+当节点希望加入系统、离开并再次加入时，唯一确定它们是否遵循正确链的方法是验证工作证明，遵循完成工作最多的链，拒绝任何可能冒充的攻击链。
 
-When nodes wish to join the system, or leave and join again, the only way to know whether they are following the correct chain is to verify the proof of work, follow the chain with the most work done, and reject any attacker chains that may be posing as imposters.
+这一规则使全球网络中的所有参与机器都能够保持同步，无论它们在世界的任何地方，而无需与可信第三方核实。
 
-This rule aligns all participating machines in the network to be in lockstep, in their complete isolation, from wherever they may be in the world, without the need of checking with trusted third parties.
+### 硬通货规则
 
-### The Rule of Hard Money
+诸如ETC这样的工作证明区块链的主要目标之一是从信任的第三方（在本例中是政府）手中夺走发行货币的能力。历史上充斥着政府滥用这一特权的例子。
 
-One of the main objectives of proof of work blockchains such as ETC is to take away from trusted third parties, in this case governments, the ability to issue the money. History is plagued with examples of government abuse of this privilege.
+硬通货规则是ETC中的硬币仅在矿工创建块时才会生成，这意味着需要做大量工作。这模仿了黄金在现实世界中的工作方式，生产成本如此之高，以至于它变得稀缺，而这种稀缺性保持了其价值。
 
-The rule of hard money is that the coins in ETC are only created when miners produce the blocks, which means by doing a lot of work. This mimics how gold works in the real world, it is so costly to produce that it becomes scarce, and this scarcity preserves its value.
+ETC的货币硬度的另一个助力因素是，它有一项与比特币非常相似的固定货币政策。每两年，矿工的区块奖励会降低20%，最终，ETC的最大库存将达到210,700,000枚。
 
-The other thing that aids in the hardness of ETC’s currency is that it has a fixed monetary policy very similar to that of Bitcoin. Every two years the block rewards to miners are discounted by 20% and, eventually, there will be a maximum stock of 210,700,000 ETC.
+## ETC的规则实现了无需许可
 
-## ETC Rules Produce Permissionlessness
+所有这些规则的结合形成了一个系统，使网络中的所有参与者以和平的方式行事，协调他们的行动，即使他们可能位于不同的大陆，有不同的文化，不同的宗教，以及说不同的语言。
 
-All these rules combined, form a system that makes all participants in the network behave in a peaceful way, coordinating their actions, even if they may be in different continents, different cultures, different religions, and speaking different languages.
+国家甚至可能处于战争状态，比如当前的乌克兰和俄罗斯的情况，但尽管如此，他们的公民仍然可以运营节点，挖矿ETC，并复制数据库，每13秒就能达成共识。
 
-Nations may even be at war, such as is currently the case of Ukraine and Russia, but nevertheless their citizens may be operating nodes, mining ETC, and replicating the database, reaching consensus collaboratively every 13 seconds.
-
-In essence, the rules of ETC make the system decentralized, trust minimized, and censorship resistant, which in turn produce permissionlessness, which is a most fair and just way of aiding positive human action on a global scale.
+实质上，ETC的规则使系统去中心化，最小化信任，抗审查，从而实现了无需许可，这是在全球范围内促进积极人类行为的最公平和公正的方式。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
