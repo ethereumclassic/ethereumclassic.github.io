@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Course: 37. Decentralized Autonomous Organizations (DAOs)"
+title: "以太坊经典课程: 37. 去中心化自治组织 (DAOs)"
 date: 2023-10-05
 author: Donald McIntyre
 contributors: ["Donald McIntyre"]
@@ -8,118 +8,118 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this interview here:**
+**您可以在这里收听或观看这个访谈:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zwr33NBOeH0?si=ZhUufFhbHp5Bdmuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-In the previous class, 36, we explained how ownership records and property registries will likely work on blockchains such as Ethereum Classic (ETC).
+在之前的第36课中，我们解释了在以太坊经典（ETC）等区块链上所有权记录和财产登记可能是如何工作的。
 
-As legal persons such as corporations, partnerships, and nonprofits are registrable objects that exist outside of blockchains, we explained how these could be transported to programmable blockchains with the aid of ERC-20 tokens.
+由于法人实体，如公司、合伙企业和非营利组织是存在于区块链之外的可注册对象，我们解释了如何借助ERC-20代币的帮助将它们转移到可编程区块链上。
 
-In this class, 37, we will expand on how individuals or groups will create and manage these kinds of organizations on blockchains that will be defined as decentralized autonomous organizations or DAOs.
+在本课程的第37课中，我们将深入探讨个人或团体如何在被定义为去中心化自治组织或DAO的区块链上创建和管理这些类型的组织。
 
-## What Is the Firm?
+## 什么是公司？
 
 ![](./1.png)
 
-In economics we could say that there are different types of economic agents, the most basic of which are the individual and the firm.
+在经济学中，我们可以说有不同类型的经济主体，其中最基本的是个人和公司。
 
-The firm is basically a group of individuals who decide to form an organization to pursue a certain goal, which may be for profit or nonprofit.
+公司基本上是一群决定组成一个组织来追求某种目标（可以是盈利或非盈利的）的个人。
 
-In the broader economy, activity is divided between the market and firms. Firms, are organizations that individuals form because it would be too costly to procure the services of the group, with its division of labour and specialization, in the free market on a daily basis. It is more efficient to establish stable contracts where the work is continuous and agreed upon once, rather than to search, hire, and train the same resources all over again more frequently.
+在更广泛的经济中，活动分为市场和公司。公司是个人组成的组织，因为在自由市场上，每天都购买该组的服务，具有劳动分工和专业化，因此形成这些组织将更加高效。建立稳定的合同，工作连续进行并且只需一次协议达成，比经常寻找、雇佣和培训相同资源更为高效。
 
-In modern times, the firm has acquired legal personhood.
+在现代，公司已获得法律主体地位。
 
-## How Do Firms Exist in the Real World?
+## 现实世界中公司如何存在？
 
-A firm or legal person may be an individual or a group that is recognized as a person for legal purposes such as for entering into contracts, hiring employees, buying and selling, getting permits and licenses, or to support a cause or a set of beneficiaries.
+公司或法人可以是个人或一群被视为法律上的人的个人或团体，例如用于签订合同、雇佣员工、买卖、获取许可和执照，或支持某一事业或一组受益人。
 
-Although there are more variations, legal persons usually exist today in many jurisdictions as corporations, partnerships, or nonprofits. These classifications determine the legal and fiscal status of these organizations such as the extent of their liability; how ownership, control, and shares are distributed; and what tax treatment they will get.
+尽管还有更多的变种，但在许多司法管辖区中，法人通常以公司、合伙企业或非营利组织的形式存在。这些分类决定了这些组织的法律和财务地位，例如它们的责任范围、所有权、控制权和股份的分配方式，以及它们将获得的税收待遇。
 
-In any of the cases, these organizations consist of coordinating the work of people, under a certain set of rules, to manage treasuries or cash flows.
+在所有这些情况下，这些组织的工作包括协调人们的工作，在一定的规则下管理财政或现金流。
 
-## What Are DAOs?
+## 什么是DAOs？
 
-The acronym “DAO” stands for “decentralized autonomous organization”. The term “autonomous” is a misnomer as these entities depend on the instructions of their token holders to perform actions, but it refers more to the fact that their code is immutable once deployed on the blockchain.
+缩写“DAO”代表“去中心化自治组织”。尽管术语“自治”是一个错误的称谓，因为这些实体依赖于其代币持有人的指示来执行操作，但它更多地指的是它们的代码一旦部署在区块链上就无法更改。
 
-Technically, DAOs are smart contracts on blockchains such as Ethereum Classic that use the native account system of ETC, and add the functionality of ERC-20 tokens to distribute ownership, control, and shares of the persons who participate in the organization.
+从技术上讲，DAOs是基于诸如以太坊经典（ETC）之类的区块链上的智能合约，它们使用ETC的本地账户系统，并添加了ERC-20代币的功能，以分配参与组织的个人的所有权、控制和股份。
 
-When they eventually become recognized legally, DAOs will act as legal persons and have shares (or tokens), shareholders, partners, revenues, and payments, and they will follow regulations and pay taxes.
+当它们最终在法律上被承认时，DAOs将作为法律主体，拥有股份（或代币）、股东、合作伙伴、收入和付款，并遵循法规并支付税款。
 
-Just like their traditional counterparts, their tokens will be transferable and tradeable in markets such as decentralized exchanges, and mergers and acquisitions will be possible as well.
+与传统对应物一样，它们的代币将可以在去中心化交易所等市场上转让和交易，同时合并和收购也将成为可能。
 
-## How Will DAOs Fulfill the Role of the Firm?
+## DAOs将如何履行公司的角色？
 
 ![](./2.png)
 
-As said before, DAOs are smart contracts inside blockchains such as ETC. 
+如前所述，DAOs是存在于以太坊经典等区块链上的智能合约。
 
-As organizations that respond to human groups, a way to describe them could be divided in four parts:
+作为响应人类群体的组织，可以将它们描述为以下四个部分：
 
-1. Shareholder control
+1. 股东控制
 
-2. Rules
+2. 规则
 
-3. Treasury
+3. 财政
 
-4. Objectives
+4. 目标
 
-### 1. Shareholder Control
+### 1. 股东控制
 
 ![](./3.png)
 
-Shareholder control is the facet of DAOs that concerns all its governance aspects.
+股东控制涉及DAO的所有治理方面。
 
-Just as traditional legal persons and organizations have ownership shares, voting, transfers, revenues, expenses, and tax liabilities, DAOs will have ownership tokens, voting through these tokens, token transfers, revenues, expenses, and even tax liabilities.
+正如传统法人和组织拥有所有权股份、投票、股份转让、收入、支出和税务责任一样，DAOs将拥有所有权代币、通过这些代币进行投票、代币转让、收入、支出，甚至税务责任。
 
-DAO smart contracts will execute transactions sent by their token holders through their crypto wallets and implement every instruction, as traditional corporations do.
+DAO智能合约将执行由其代币持有人通过他们的加密钱包发送的交易，并实施每一项指令，就像传统公司一样。
 
-DAOs will provide an unprecedented level of transparency never seen before, and their records will be orders of magnitude more secure than when stored in traditional systems.
+DAOs将提供前所未有的透明度水平，其记录将比存储在传统系统中安全得多。
 
-### 2. Rules
+### 2. 规则
 
 ![](./4.png)
 
-In traditional legal persons, the bylaws are the sets of rules that govern things like the location and jurisdiction of their offices, processing and approving the budget, things concerning shareholders’ and directors’ meetings, voting rights, and powers and duties of directors and management.
+在传统法人中，公司章程是管理诸如办事处的位置和管辖权、处理和批准预算、关于股东和董事会会议、投票权以及董事和管理层权力和职责等事项的规则集。
 
-In DAOs all these rules will be coded in their smart contracts and token holders and authorized management will executed their rights and obligations by using their crypto wallets and sending transactions to the decentralized autonomous organization.
+在DAOs中，所有这些规则将编码在它们的智能合约中，代币持有人和授权管理人员将使用他们的加密钱包，并向去中心化自治组织发送交易来执行他们的权利和义务。
 
-### 3. Treasury
+### 3. 财政
 
 ![](./5.png)
 
-One of the most important roles of blockchains is securing wealth and treasure.
+区块链的最重要作用之一是保护财富和宝藏。
 
-DAOs will hold the treasuries of corporations, partnerships, and nonprofits. They will receive the revenues, pay all expenses, pay dividends, and execute these transactions in a composable and automated way.
+DAOs将持有公司、合伙企业和非营利组织的财政。它们将收到收入，支付所有支出，支付股息，并以可组合和自动化的方式执行这些交易。
 
-Composability will enable that when income is received, then proportional payments will automatically be sent to all constituents of the organization, such as providers, employees, and token holders.
+可组合性将使得当收入收到时，相应的付款将自动发送给组织的所有成员，如供应商、员工和代币持有人。
 
-This will enable what may be called “continuous cash flows” or “continuous treasuries”, which is the continuous receipt of revenues and continuous payment of contracts, wages, and dividends rather than at set weekly, monthly, quarterly, or annual periods, as it is today.
+这将实现所谓的“连续现金流”或“连续财政”，即持续收入和持续支付合同、工资和股息，而不是像今天一样在固定的每周、每月、每季度或每年时段内进行。
 
-### 4. Objectives
+### 4. 目标
 
 ![](./6.png)
 
-As corporations, partnerships, and nonprofits work today in traditional systems, DAOs will also have specific goals, work in specific industries or economic sectors, and will have either for or nonprofit objectives.
+正如今天的公司、合伙企业和非营利组织在传统系统中工作一样，DAOs也将有具体的目标，工作在特定的行业或经济部门，并且将有盈利或非盈利的目标。
 
-DAOs will be formed by people or groups for investment purposes, charity, trusts, to provide funding for loans, for pensions funds, and for business in general.
+DAOs将由个人或团体为投资、慈善事业、信托、提供贷款融资、养老金基金以及一般业务目的而组成。
 
-## DAOs and the Law
+## DAOs与法律
 
-It is important to note that corporate personhood is a legal abstraction that will only exist in traditional legal systems, therefore will not be replaced per se. 
+需要注意的是，法人地位是一种法律抽象概念，仅存在于传统法律体系中，因此不会被本质上替代。
 
-The law between people will not be dissolved or replaced by blockchain systems. The law will adapt to blockchain systems. The fact that people are associated through DAOs does not exempt them from their legal and fiscal obligations.
+人与人之间的法律将不会因为区块链系统而消失或被替代。法律将适应区块链系统。与DAOs相关的事实并不免除它们的法律和财务义务。
 
-Raw DAOs are considered partnerships with no limited liability, they are not exempt from legal and tax liability, and DAO tokens can be considered securities.
+原始的DAOs被视为没有有限责任的合伙企业，它们不免于法律和税务责任，DAO代币可以被视为证券。
 
-Smart contract code is just “the law” inside a blockchain, this is what is meant in ETC by “code is law”.
+智能合约代码只是区块链内部的“法律”，这是以太坊经典（ETC）中所指的“代码即法律”。
 
-However, all legal entities will very likely be booked on blockchains such as Ethereum Classic, eventually.
+然而，所有法律实体很可能最终会被记录在以太坊经典等区块链上。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
