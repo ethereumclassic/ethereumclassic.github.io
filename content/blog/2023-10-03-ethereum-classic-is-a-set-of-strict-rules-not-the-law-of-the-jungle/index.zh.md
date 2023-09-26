@@ -1,5 +1,5 @@
 ---
-title: "以太坊经典是一套严格的规则，而不是丛林法则。"
+title: "以太坊经典是一套严格的规则，而不是丛林法则"
 date: 2023-10-23
 author: Donald McIntyre
 contributors: ["Donald McIntyre"]
