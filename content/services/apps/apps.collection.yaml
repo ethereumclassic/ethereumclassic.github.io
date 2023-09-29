@@ -1,3 +1,47 @@
+- date: 2023-09-20
+  title: Nabox
+  description: Nabox is a cross-chain DID application built for Web3.With Nabox, you can manage assets across different blockchains whether for DeFi, GameFi, NFT, and other use cases that come up. Nabox is your gateway to the multi-chain world.
+  image:  ./images/nabox.png
+  type: interoperability
+  author: Nabox
+  authorLink: https://nabox.io/
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0xd1F3BE686D64e1EA33fcF64980b65847aA43D79C/contracts#address-tabs
+  audit: https://skynet.certik.com/projects/nabox
+  links:
+    - name: Launch App
+      link: https://nabox.io/
+      icon: home
+    - name: Twitter
+      link: https://twitter.com/naboxwallet
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/naboxcommunity
+      icon: telegram
+    - name: Discord
+      link: http://discord.gg/mQVXZJXMkn
+      icon: discord
+- date: 2023-09-20
+  title: SwapBox
+  description: SwapBox aggregates mainstream DEXs to provide users with asset exchange and asset cross-chain exchange, and intelligently find the best exchange path.
+  image:  ./images/swapbox.png
+  type: finance
+  author: Nabox
+  authorLink: https://nabox.io/
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0xd1F3BE686D64e1EA33fcF64980b65847aA43D79C/contracts#address-tabs
+  audit: https://skynet.certik.com/projects/nabox
+  links:
+    - name: Launch App
+      link: https://swapbox.nabox.io/
+      icon: home
+    - name: Twitter
+      link: https://twitter.com/naboxwallet
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/naboxcommunity
+      icon: telegram
+    - name: Discord
+      link: http://discord.gg/mQVXZJXMkn
+      icon: discord
 - date: 2023-09-06
   title: NerveNetwork
   description: NerveNetwork is a decentralized digital asset service network.NerveNetwork aims to connect all isolated blockchains and establish a cross-chain asset exchange network, providing all necessary underlying support for DeFi ecosystem.Let every digital asset holder experiences a truly secure, free and transparent DeFi application service. 
