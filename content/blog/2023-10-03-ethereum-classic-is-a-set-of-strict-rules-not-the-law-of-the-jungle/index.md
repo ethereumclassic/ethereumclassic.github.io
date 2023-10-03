@@ -1,6 +1,6 @@
 ---
 title: "Ethereum Classic Is a Set of Strict Rules, Not the Law of the Jungle"
-date: 2023-10-23
+date: 2023-10-03
 author: Donald McIntyre
 contributors: ["Donald McIntyre"]
 tags: ["education"]
