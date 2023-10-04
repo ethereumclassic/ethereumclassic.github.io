@@ -4,7 +4,7 @@ date: 2023-10-17
 author: Donald McIntyre
 contributors: ["Donald McIntyre"]
 tags: ["education", "series"]
-linkImage: ./banner.png
+linkImage: ./banner-1.png
 ---
 
 ---
@@ -14,7 +14,7 @@ linkImage: ./banner.png
 
 ---
 
-![](./banner.png)
+![](./banner-1.png)
 
 The Ethereum Classic cryptocurrency, ETC, exists inside the ETC blockchain, which is a proof of work network. In this post we will explain what is a cryptocurrency, a blockchain, a consensus mechanism, proof of work, and why proof of work is superior to other consensus mechanisms in the industry.
 
