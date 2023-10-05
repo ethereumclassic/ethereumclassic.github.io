@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Is a Proof of Work Cryptocurrency Blockchain"
+title: "以太坊经典是一个工作量证明的加密货币区块链"
 date: 2023-10-17
 author: Donald McIntyre
 contributors: ["Donald McIntyre"]
