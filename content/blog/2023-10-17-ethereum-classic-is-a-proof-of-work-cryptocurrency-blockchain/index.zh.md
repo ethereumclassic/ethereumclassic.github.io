@@ -8,7 +8,7 @@ linkImage: ./banner-1.png
 ---
 
 ---
-**You can listen to or watch this interview here:**
+**您可以由此观看此次访谈:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hh6qsIeXaYI?si=1MEQgIgTgU7dbR88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,74 +16,76 @@ linkImage: ./banner-1.png
 
 ![](./banner-1.png)
 
-The Ethereum Classic cryptocurrency, ETC, exists inside the ETC blockchain, which is a proof of work network. In this post we will explain what is a cryptocurrency, a blockchain, a consensus mechanism, proof of work, and why proof of work is superior to other consensus mechanisms in the industry.
+以太经典加密货币（ETC）存在于以太经典区块链，它是一个工作量证明网络。在本文中，我们将解释什么是加密货币、区块链、共识机制、工作量证明，以及为什么工作量证明在行业中优于其他共识机制。
 
-This is part one of a four part series that will explain what is Ethereum Classic from four angles. The titles of this series will be:
+这是一个四部分系列的第一部分，将从四个角度解释以太经典是什么。本系列的标题将是：
 
-1. Ethereum Classic Is a Proof of Work Cryptocurrency Blockchain
+1. 以太经典是一种工作量证明加密货币区块链
 
-2. Ethereum Classic Has a Supply Cap Like Bitcoin
+2. 以太经典像比特币一样有供应上限
 
-3. Ethereum Classic Is a Smart Contracts Cryptocurrency Blockchain
+3. 以太经典是智能合约加密货币区块链
 
-4. Ethereum Classic Is Property Rights on a Global Scale
+4. 以太经典是全球范围内的财产权
 
-## What Is a Cryptocurrency?
+## 什么是加密货币？
 
-When a group of computer scientists in the 90’s called Cypherpunks started to search for ways to create and implement a form of money native to the internet, they imagined systems that would imitate gold, but digitally.
+当90年代的计算机科学家群体Cypherpunks开始寻找在互联网上创建和实施一种本地货币形式的方法时，他们想象了一种模拟黄金但以数字形式存在的系统。
 
-Although the components existed, it was very difficult to close all the loopholes to recreate this digital gold they were seeking. 
+尽管组成部分存在，但关闭重现他们所寻求的数字黄金的所有漏洞非常困难。
 
-However, they did imagine a design where a new unit of value would be issued in exchange for computational work that some computers in a network would do. This gave rise to Bitcoin (BTC) in 2009 and then Ethereum Classic (ETC) in 2015.
+然而，他们确实想象了一种设计，其中一些网络中的计算机将以计算工作的形式发行新的价值单位。这导致了2009年的比特币（BTC）以及2015年的以太经典（ETC）。
 
-When a unit of value or token is issued in exchange for computational work in a network, it is called a cryptocurrency. The prefix “crypto” refers to the fact that these networks use cryptography as part of their critical components and to generate the computational work.
+当以计算工作的形式发行一个价值单位或代币时，它被称为加密货币。前缀“crypto”指的是这些网络使用密码学作为其关键组成部分和生成计算工作的一部分。
 
-## What Is a Blockchain?
+## 什么是区块链？
 
-The networks in which these cryptocurrencies exist are called blockchains.
+这些加密货币存在的网络被称为区块链。
 
-The term “blockchain” derives from the phrase “chain of blocks” because the way these system process transactions involves receiving them, packaging them into batches, sealing the batches with a cryptographic stamp, and then adding them as a new block to the database, forming a chain of blocks.
+术语“区块链”源自短语“区块链”，因为这些系统处理交易的方式涉及接收交易、将其打包成批次、用密码戳封存批次，然后将其作为新的区块添加到数据库，形成一个区块链。
 
-BTC adds a new block of transactions every 10 minutes and ETC does it every 13 seconds.
+BTC每10分钟添加一个新的交易区块，而ETC则每13秒添加一个。
 
-In the cryptocurrency industry the terms “cryptocurrency” or “blockchain” are used interchangeably to refer to them. For example, Ethereum Classic may be called “ETC” or a “cryptocurrency” or a “blockchain”.
+在加密货币行业中，术语“加密货币”或“区块链”可互换使用来指代它们。例如，以太经典可能被称为“ETC”或“加密货币”或“区块链”。
 
-The way all computers globally reach consensus every 10 minutes or 13 seconds in these networks is by means of a consensus mechanism.
+全球所有计算机每10分钟或13秒通过共识机制达成共识的方式是通过一系列共识机制来完成的。
 
-## What Is a Consensus Mechanism?
+## 什么是共识机制？
 
-All participating machines hold a copy of the same exact blockchain, or database, on a global scale.
+所有参与的计算机都持有全球范围内完全相同的区块链或数据库的副本。
 
-A consensus mechanism is a series of steps that computers in blockchains must go through to know which is the latest block in the system so they can all have the same exact copy of the chain of blocks.
+共识机制是区块链中的计算机必须经过的一系列步骤，以了解系统中最新的区块是哪一个，以便它们都有相同的区块链副本。
 
-This full replication of the database in all nodes is the central security feature of blockchains. The idea is that because the accounts and balances of the cryptocurrency are replicated in as many machines as possible worldwide, that it will be practically impossible to corrupt them or to take them down by man or natural events.
+在所有节点中完全复制数据库是区块链的中央安全功能。其思想是，由于加密货币的帐户和余额在全球尽可能多的机器中都有副本，因此几乎不可能通过人为或自然事件来破坏或关闭它们。
 
-The main invention of the blockchain industry is the proof of work based consensus mechanism called “Nakamoto Consensus” in honor of its creator, Satoshi Nakamoto. 
+区块链行业的主要发明是基于工作量证明的共识机制，称为“中本聪共识”，以纪念其创始人中本聪。
 
-Nakamoto Consensus is important because it is the method in proof of work blockchains used to have all computers in the system synchronized globally.
+中本聪共识非常重要，因为它是工作量证明区块链中所有计算机在全球同步的方法。
 
-## What Is Proof of Work?
+## 什么是工作量证明？
 
-One of the components of the Nakamoto Consensus mechanism is what is called “proof of work”.
+中本聪共识机制的组成部分之一是所谓的“工作量证明”。
 
-As said before, when a subgroup of the computers in a blockchain network, also known as “miners”, do a lot of work to seal a new batch or block of transactions, using a cryptographic stamp, they send the block to the rest of the network for verification and inclusion in the chain.
+如前所述，区块链网络中的一组计算机子集，也称为“矿工”，通过进行大量工作来封存新的交易批次或区块，使用密码戳，然后将区块发送到网络的其余部分进行验证并纳入链中。
 
-The revolutionary discovery by Satoshi Nakamoto when he created Bitcoin was that the information of the proof of work stamp itself was sufficient for all the machines in the network to know which was the correct block in every round in a totally decentralized way and permissionlessly, without the need to consult with any authority of central administrator.
+中本聪在创建比特币时的一项革命性发现是，工作量证明戳的信息本身足以使网络中的所有计算机在每一轮中都知道正确的区块，这是完全去中心化的方式，无需咨询任何中央权威或管理员。
 
-This feature gave blockchains that use proof of work the unique quality of being censorship resistant with the highest level of security known to man.
+这个特性使得使用工作量证明的区块链具有对抗审查的能力，是人类所知的最高安全级别。
 
-## Why Is a Proof of Work Cryptocurrency Blockchain Superior?
+## 为什么工作量证明加密货币区块链更优越？
 
-Despite the revolutionary invention by Satoshi Nakamoto explained above, there are many “blockchains” in the industry that actually use other less secure consensus mechanisms.
+尽管中本聪上面解释的革命性发明，但在该行业中存在许多实际使用其他不太安全的共识机制的“区块链”。
 
-To save energy, “proof of stake” is one of these methods that uses “stakers” rather than miners. Instead of doing a lot of computational work to seal blocks, stakers just make a monetary deposit on the blockchain and gain the right to produce blocks. This method is significantly less secure because it is prone to centralization as nodes don’t have an objective method to know which is the correct block in every round.
+为了节省能源，“权益证明”是其中一种方法，它使用“权益者”而不是矿工。权益者只需在区块链上进行货币存款，即可获得生成区块的权利。这种方法明显不够安全，因为容易集中化，因为节点没有客观方法来知道每一轮中哪个是正确的区块。
 
-To guarantee participation of trusted entities, “proof of authority” is yet another method used in several cryptocurrencies. This method simply designates trusted entities such as companies, foundations, or banks to run nodes that accept new transactions and verify them for the rest of the system. Proof of authority is centralized by design, therefore the least secure of the systems described in this post.
+为了保证受信任实体的参与，“权威证明”是用于几种加密货币的另一种方法。这种方法简单地指定了受信任的实体，如
 
-As said before, proof of work is the most secure and decentralized consensus mechanism in a computer network known to man because it guarantees the access and participation in the blockchain by any node globally, regardless of their country, race, religion, language, or politics, without any censorship or permission.
+公司、基金会或银行，来运行接受新交易并为系统的其余部分验证它们的节点。权威证明是设计上集中化的，因此是本文中描述的系统中最不安全的。
+
+如前所述，工作量证明是人类已知的最安全和最去中心化的计算机网络共识机制，因为它保证了任何节点全球范围内的区块链访问和参与，无论其国家、种族、宗教、语言或政治立场如何，都不受任何审查或许可的影响。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
