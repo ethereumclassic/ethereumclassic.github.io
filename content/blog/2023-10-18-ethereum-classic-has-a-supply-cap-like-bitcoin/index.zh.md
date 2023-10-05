@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Has a Supply Cap Like Bitcoin"
+title: "以太经典具有与比特币相似的供应上限"
 date: 2023-10-18
 author: Donald McIntyre
 contributors: ["Donald McIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this interview here:**
+**您可以由此收观看本次访谈:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_0pMfKwCH7Y?si=Pkl0tq_DCgVmc03C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,84 +16,84 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-The Ethereum Classic cryptocurrency, ETC, has a supply cap like Bitcoin (BTC) because it has a very similar monetary policy. Both ETC and BTC have the same fundamental assumptions and may be considered “digital gold”.
+以太经典加密货币（ETC）与比特币（BTC）一样，具有供应上限，因为它拥有非常类似的货币政策。ETC和BTC都有相同的基本假设 - 被视为“数字黄金”。
 
-This is part two of a four part series that will explain what is Ethereum Classic from four angles. The titles of this series will be:
+这是四部分系列的第二部分，将从四个角度解释以太经典是什么。本系列的标题将是：
 
-1. Ethereum Classic Is a Proof of Work Cryptocurrency Blockchain
+1. 以太经典是一种工作量证明加密货币区块链
 
-2. Ethereum Classic Has a Supply Cap Like Bitcoin
+2. 以太经典像比特币一样有供应上限
 
-3. Ethereum Classic Is a Smart Contracts Cryptocurrency Blockchain
+3. 以太经典是智能合约加密货币区块链
 
-4. Ethereum Classic Is Property Rights on a Global Scale
+4. 以太经典是全球范围内的财产权
 
-## What Is a Cryptocurrency?
+## 什么是加密货币？
 
-When a group of computer scientists in the 90’s called Cypherpunks started to search for ways to create and implement a form of money native to the internet, they imagined systems that would imitate gold, but digitally.
+当90年代的计算机科学家群体Cypherpunks开始寻找在互联网上创建和实施一种本地货币形式的方法时，他们想象了一种模拟黄金但以数字形式存在的系统。
 
-Although the components existed, it was very difficult to close all the loopholes to recreate this digital gold they were seeking. 
+尽管组成部分存在，但关闭重现他们所寻求的数字黄金的所有漏洞非常困难。
 
-However, they did imagine a design where a new unit of value would be issued in exchange for computational work that some computers in a network would do. This gave rise to Bitcoin (BTC) in 2009 and then Ethereum Classic (ETC) in 2015.
+然而，他们确实想象了一种设计，其中一些网络中的计算机将以计算工作的形式发行新的价值单位。这导致了2009年的比特币（BTC）以及2015年的以太经典（ETC）。
 
-When a unit of value or token is issued in exchange for computational work in a network, it is called a cryptocurrency. Cryptocurrencies that are created only after a lot of computational work has been done may be considered digital gold because they seek to mimic the economics and scarcity of gold in the real world.
+当以计算工作的形式发行一个价值单位或代币时，它被称为加密货币。只有在完成大量计算工作后才创建的加密货币，可以被视为数字黄金，因为它们试图模仿现实世界中黄金的经济学和稀缺性。
 
-## What Is Hard Money?
+## 什么是硬通货？
 
-Money is just another product in the free market, but to be adopted as a medium of exchange, unit of account, and store of value it needs to be divisible, fungible, portable, easily transferred, and scarce. 
+货币只是自由市场上的另一种产品，但要被采纳为交换媒介、账户单位和价值存储工具，它需要是可分割的、可替代的、便携的、易于转移的，以及稀缺的。
 
-This last quality of money, scarcity, is what defines its utility as a store of value, and scarcity can also be defined as hardness.
+货币的这个最后一个特质，稀缺性，定义了其作为价值存储工具的实用性，稀缺性也可以被定义为硬度。
 
-Thus, hard money is that which is very scarce. This is why gold had been such a good form of money for thousands of years, only to be replaced by fiat currency in the last century.
+因此，硬通货是非常稀缺的货币。这就是为什么黄金在数千年来一直是一种良好的货币形式，直到上个世纪被法定货币取代。
 
-Fiat money is not very hard because the cost of creating it is very low. This has led many governments to print enormous amounts of their currencies. 
+法定货币不太硬，因为创造它的成本非常低。这导致许多政府印刷了大量他们的货币。
 
-An example is the US dollar, which had a stock of $754 billion in 2003 and 20 years later it has inflated to more than $8 trillion.
+以美元为例，2003年时它的存量为7540亿美元，20年后已膨胀到超过8万亿美元。
 
-## Bit Gold as an Analogy of Gold
+## 比特黄金作为黄金的类比
 
-So, the challenge was to create a native form of money that could not only be a good medium of exchange and unit of account, but that could also have the properties of gold as a good store of value.
+因此，挑战是创建一种原生货币形式，它不仅可以成为良好的交换媒介和账户单位，还可以具有黄金作为良好价值存储工具的属性。
 
-The brilliant idea to create scarcity in cyberspace was to make computers work a lot, processing enormous amounts of computing cycles, to produce a cryptographic stamp that would serve as a proof that the work was done.
+在网络空间中创建稀缺性的卓越想法是让计算机大量工作，处理大量的计算周期，以产生将用作工作证明的密码戳。
 
-These proofs of work, could then be stored in a ledger and transferred between people who wanted to buy and sell things or just keep them as a store of value, similar to how gold works in the real world.
+然后，这些工作证明可以存储在分类帐中，并在希望购买和出售物品或仅将其保留为价值存储工具的人之间传递，类似于黄金在现实世界中的运作方式。
 
-This is at the heart of blockchains and cryptocurrencies such as Bitcoin and ETC. These networks have computers called miners that produce these proofs, also called Bit Gold, and they are paid in the cryptocurrencies for their work.
+这是区块链和比特币、ETC等加密货币的核心。这些网络有被称为矿工的计算机，它们产生这些证明，也称为比特黄金，他们会因为他们的工作而获得加密货币的报酬。
 
-## Bit Gold vs Fiat Community Tokens
+## 比特黄金与法定社区代币
 
-Note that in the previous section, we explained that miners produce Bit Gold, but that the Bit Gold is not actually the money in those networks.
+请注意，在前面的部分中，我们解释了矿工生产比特黄金，但比特黄金实际上并不是这些网络中的货币。
 
-Because it was a difficult engineering task to produce and make the raw Bit Gold the currency, then the systems were designed to create what could be called “fiat community tokens” which are issued and paid to miners each time they produce the proofs of work.
+由于将原始比特黄金变成货币是一项困难的工程任务，因此系统被设计为创建可以称为“法定社区代币”的东西，这些代币由开发人员在区块链上编程，每当矿工产生工作证明时，这些代币就会被发行并支付给他们。
 
-In Bitcoin the coin is called BTC and is currently paying miners 6.25 new units of these coins each time a miner creates a proof of work, which happens every ten minutes.
+在比特币中，这个代币被称为BTC，目前每当一个矿工创建一个工作证明时，都会支付给矿工6.25个新单位的这些代币，这每隔十分钟发生一次。
 
-In Ethereum Classic the coin is called ETC and is currently paying miners 2.56 new units of these coins each time a miner creates a proof of work, which happens every 13 seconds.
+在以太经典中，这个代币被称为ETC，目前每当一个矿工创建一个工作证明时，都会支付给矿工2.56个新单位的这些代币，这每隔13秒发生一次。
 
-These coins may be called “fiat community tokens” because they were programmed on the blockchains by developers rather than being the proofs of work themselves.
+这些代币可以称为“法定社区代币”，因为它们是由开发人员在区块链上手动编程而不是自己成为工作证明。
 
-## How Are Bitcoin and ETC Supplies Capped?
+## 比特币和ETC如何限制供应？
 
-However, even if these coins were programmed manually rather than created with real work, spending a lot of electricity in computing cycles, they can still be called “digital gold” because of two reasons:
+然而，即使这些代币是手动编程而不是通过真正的工作创建的，通过在计算周期中消耗大量电力，它们仍然可以被称为“数字黄金”，原因有两个：
 
-1. The coins are created only after a lot of work was done by the miners and they present the proofs of their work. These proofs have to be verified by the rest of the network before the miners get paid in newly issued coins.
+1. 这些代币只有在矿工完成了大量工作并展示了他们的工作证明后才会被创建。这些工作证明必须由网络的其余部分进行验证，然后矿工才能获得新发行代币的报酬。
 
-2. Both Bitcoin and ETC have monetary policies programmed in their protocols that effectively establish a cap in the total production of coins that will ever exist in each of them.
+2. 比特币和ETC都在其协议中编程了货币政策，有效地规定了它们历史上将存在的代币总量上限。
 
-In the case of Bitcoin the payment to miners is discounted by 50% every four years which establishes a total issuance in its history of 21,000,000 coins.
+就比特币而言，对矿工的支付将每四年折价50%，从而在其历史上规定了2,100万枚代币的总发行量。
 
-In the case of ETC the payment to miners is discounted by 20% every two years which establishes a total issuance in its history of 210,700,000 coins.
+至于以太经典，对矿工的支付将每两年折价20%，从而在其历史上规定了2,107,000,000枚代币的总发行量。
 
-## ETC Is Hard Money
+## ETC是硬通货
 
-As seen above, ETC has a very similar monetary policy as Bitcoin, and both cryptocurrencies have supply caps for the whole of their histories.
+正如上文所述，以太经典与比特币具有非常相似的货币政策，这两种加密货币在其整个历史上都有供应上限。
 
-That the coins are created only after a lot of work has been done is similar to gold in the real world because it recreates its physical scarcity but on the internet.
+代币只有在完成大量工作后才会被创建，这与现实世界中的黄金相似，因为它在互联网上重新创建了其物理稀缺性。
 
-The combination of proof of work and ETC’s fixed monetary policy, that establishes a supply cap of 210,700,000 coins, makes ETC hard money.
+工作证明和ETC的固定货币政策的结合，规定了2,107,000,000枚代币的发行上限，使ETC成为硬通货。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
