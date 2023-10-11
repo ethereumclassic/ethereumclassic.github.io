@@ -219,3 +219,8 @@ items:
         __link: http://ethereumclassic.cn/
         __icon: etc
         name: EthereumClassic.cn
+  processors:
+    items:
+      NOWPayments:
+        __name: NOWPayments
+        __link: https://nowpayments.io/
