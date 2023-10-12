@@ -1,9 +1,9 @@
 ---
-title: "Ethereum Classic Course: 35. Non-Fungible Tokens (NFTs)"
-date: 2023-09-21
+title: "Proof of Work Is Good for Humanity"
+date: 2023-10-26
 author: Donald McIntyre
 contributors: ["Donald McIntyre"]
-tags: ["education", "series"]
+tags: ["philosophy"]
 linkImage: ./banner.png
 ---
 
