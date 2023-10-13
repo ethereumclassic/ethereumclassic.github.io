@@ -105,9 +105,6 @@ items:
       Bitladon:
         __link: https://www.bitladon.com/ethereum-classic
         __name: Bitladon
-      CoinsBee:
-        __link: https://www.coinsbee.com/
-        __name: CoinsBee
       CoinDirect:
         __link: https://www.coindirect.com/
         __name: CoinDirect
@@ -120,6 +117,9 @@ items:
       CoinPayments:
         __link: https://www.coinpayments.net/
         __name: CoinPayments
+      CoinsBee:
+        __link: https://www.coinsbee.com/
+        __name: CoinsBee
       Cryptomate:
         __link: https://cryptomate.co.uk/buy-ethereum-classic/
         __name: Cryptomate
@@ -136,8 +136,8 @@ items:
         __link: https://www.litebit.eu/en/buy/ethereumclassic#rate-tile-ethereumclassic
         __name: LiteBit
       NOWPayments:
-        __link: https://nowpayments.io/
         __name: NOWPayments
+        __link: https://nowpayments.io/
       Paxful:
         __link: https://paxful.com/sell-bitcoin/ethereum-classic-etc
         __name: Paxful
