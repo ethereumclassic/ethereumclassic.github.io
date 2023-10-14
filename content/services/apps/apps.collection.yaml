@@ -1,7 +1,24 @@
+- date: 2023-10-06
+  title: ETCMW MostWanted
+  description: "ETC Most Wanted project provides opportunities to earn, build, play and socialize for all Ethereum Classic believers. ETCMW NFT is your key to all project infrastructure, it represents onchain as an enhanced ERC721 tokens with new existing features. Each ETCMW is completely unique, with a set of distinguishing traits and has one of the following roles: Common, Investor, Miner or Dev."
+  image: ./images/231006-0643-etcmw-mostwanted.png
+  type: nfts
+  author: Etcher
+  authorLink: https://etcherium.org
+  verifiedContract: https://etc.blockscout.com/token/0xb1D14553b9a826c020158008E0653B56F7EFa652
+  openSource: https://github.com/ksandr84on/etcmw_sc
+  links:
+    - name: Launch App
+      link: https://etcmw.org
+    - name: thirdweb
+      link: https://thirdweb.com/ethereum-classic/0xb1D14553b9a826c020158008E0653B56F7EFa652
+      icon: link
+    - name: Sourcify.eth
+      link: https://sourcify.dev/#/lookup/0xb1D14553b9a826c020158008E0653B56F7EFa652
 - date: 2023-09-20
   title: Nabox
   description: Nabox is a cross-chain DID application built for Web3.With Nabox, you can manage assets across different blockchains whether for DeFi, GameFi, NFT, and other use cases that come up. Nabox is your gateway to the multi-chain world.
-  image:  ./images/nabox.png
+  image: ./images/nabox.png
   type: interoperability
   author: Nabox
   authorLink: https://nabox.io/
@@ -23,7 +40,7 @@
 - date: 2023-09-20
   title: SwapBox
   description: SwapBox aggregates mainstream DEXs to provide users with asset exchange and asset cross-chain exchange, and intelligently find the best exchange path.
-  image:  ./images/swapbox.png
+  image: ./images/swapbox.png
   type: finance
   author: Nabox
   authorLink: https://nabox.io/
@@ -44,8 +61,8 @@
       icon: discord
 - date: 2023-09-06
   title: NerveNetwork
-  description: NerveNetwork is a decentralized digital asset service network.NerveNetwork aims to connect all isolated blockchains and establish a cross-chain asset exchange network, providing all necessary underlying support for DeFi ecosystem.Let every digital asset holder experiences a truly secure, free and transparent DeFi application service. 
-  image:  ./images/nervenetwork.jpeg
+  description: NerveNetwork is a decentralized digital asset service network.NerveNetwork aims to connect all isolated blockchains and establish a cross-chain asset exchange network, providing all necessary underlying support for DeFi ecosystem.Let every digital asset holder experiences a truly secure, free and transparent DeFi application service.
+  image: ./images/nervenetwork.jpeg
   type: interoperability
   author: NerveNetwork
   authorLink: https://nerve.network/
@@ -63,7 +80,7 @@
       icon: telegram
     - name: Discord
       link: https://discord.gg/PBkHeD7
-      icon: discord 
+      icon: discord
 - date: 2023-09-03
   title: ETCNFT Marketplace
   description: Explore all your best NFT collections with the new Traits Rank, which is based on trait occurrences and rarity rank. ETCNFT is a new generation NFT marketplace that provides order book trading for NFTs in ERC-721 and ERC-1155 formats without fees. ETCNFT is powered by Ethereum Classic.
