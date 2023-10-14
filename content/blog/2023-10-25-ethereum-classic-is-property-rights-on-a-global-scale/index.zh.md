@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Is Property Rights on a Global Scale"
+title: "以太坊经典是全球范围内的财产权"
 date: 2023-10-25
 author: Donald McIntyre
 contributors: ["Donald McIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this interview here:**
+**由此收听或观看此次访谈:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iS7iu8qiBpA?si=fhtX7KCjRWAourqz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,88 +16,82 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-Because of its replicated ledger, the account system, and that it can host all sorts of assets, Ethereum Classic (ETC) is not only a cryptocurrency, but a technology that enables property titles and registries to exist inside its highly secure and neutral system. This enables property rights on a global scale that cross all borders.
+由于其复制的账本、账户系统以及它可以托管各种资产，以太坊经典（ETC）不仅仅是一种加密货币，而且是一种技术，可以使财产权和登记存在于其高度安全和中立的系统内。这使得跨越所有边界的全球范围内的财产权成为可能。
 
-This is part four of a four part series that will explain what is Ethereum Classic from four angles. The titles of this series will be:
+这是一个四部分系列的第四部分，将从四个角度解释以太坊经典是什么。本系列的标题将是：
 
-1. Ethereum Classic Is a Proof of Work Cryptocurrency Blockchain
+1. 以太坊经典是一种工作证明加密货币区块链
+2. 以太坊经典像比特币一样有供应上限
+3. 以太坊经典是一种智能合约加密货币区块链
+4. 以太坊经典是全球范围内的财产权
 
-2. Ethereum Classic Has a Supply Cap Like Bitcoin
+## 财产权的概念
 
-3. Ethereum Classic Is a Smart Contracts Cryptocurrency Blockchain
+在自然界中，没有权利，更不用说财产了，只有强制控制。一个例子可能是狮子标记并保卫他们的领土。
 
-4. Ethereum Classic Is Property Rights on a Global Scale
+对物体的控制是拥有该物体并可能与财产相关，但也可能仅意味着拥有和控制，而不拥有。
 
-## Property Rights as a Concept
+拥有是将物体置于我们的支配范围内。然而，拥有物体并不意味着拥有财产或控制权。例如，我可以在车道上有一辆汽车，但我没有钥匙，它可能在那里是因为被盗。
 
-In nature there are no rights, much less property, only forceful control. An example may be when lions mark and defend their territory.
+财产是通过法律由人类创造的。财产形式化了上述领土、控制、拥有和支配的概念。如果我们在我们的领域内拥有一个物体，我们就拥有它，我们可能拥有控制权，我们可能对它拥有合法财产权。
 
-Control of an object is the product of possession of such object and may be related to property, but it may also mean it is only possessed and controlled but not owned.
+所有这些都可以由以太坊经典等区块链上的智能合同启用。
 
-Possession is to have the object in our domain. However, to possess an object does not mean to have property or control. For example I may have a car in my driveway, but I don’t have the keys and it may be there because it was stolen.
+## 当今的财产登记
 
-Property is a creation of man through law. Property formalizes the concepts above of territory, control, possession, and domain. If we have an object in our domain, we have possession, we may have control, and we may have legal property to it.
+一旦将物理或信息对象识别为财产，它们可以在代表这些对象的所有权和所有权的书籍和账本中进行注册。
 
-Ownership is the legal relationship between a person or firm with an object.
+对于可注册的物体，如房地产、车辆、知识产权、专利等，它们相应的登记簿和账本通常由市政、州政、省政或国家政府保管和维护。
 
-All these things may be enabled by smart contracts on a blockchain such as Ethereum Classic.
+最初，它们是具有特殊账本设计的实体书籍，记录了所有者的名称、对象的具体数据、前一位所有者、购买日期等信息。
 
-## How Are Property Registries Today?
+现在，这些相同的登记簿通常保存在计算机系统中，作为与上述纸质副本相同信息的数据库。
 
-Once physical or informational objects are recognized as property they may be registered in books and ledgers that represent title and ownership of such objects.
+## 以太坊经典的账户系统作为财产登记
 
-In the cases of registrable objects such as real estate, vehicles, intellectual property, patents, and others, their corresponding registry books and ledgers are usually kept and maintained by municipal, state, provincial, or national governments.
+以太坊经典可能是一种更安全的财产登记技术，因为它的账本完全复制在世界各地的许多计算机上，它完全分散化，而且是一种工作证明区块链，这使得它几乎不可能被人为或自然干扰。
 
-Originally, they were physical books with special ledger designs that registered the names of the owners, the objects’ specific data, the previous owner, dates of purchase, etc.
+在其核心，ETC包含一个账户系统，其中每个公共地址只能由私钥控制，而这个私钥只能由持有者控制。这个基础设施使ETC成为在世界各地的各个地方被合法承认后拥有财产登记的最佳选择。
 
-Now these same registries are usually held in computer systems as databases with the same information as their paper counterparts described above. 
+像ERC-20代币和NFTs（ERC-721代币）这样的标准进一步增强了ETC作为财产系统的功能，因为它们可以用来代表公司股份、投票权，甚至现实世界中的物体。
 
-## The ETC Account System as a Property Registry
-
-ETC may be a much more secure property registry technology as its ledger is fully replicated across many computers around the world, it is completely decentralized, and it is a proof of work blockchain, which makes it practically impossible to tamper with by man or nature.
-
-At its heart, ETC contains an account system, where each public address is only controlled by a private key, and this private key is only controlled by whoever possesses it. This base infrastructure makes ETC optimal to hold property registries when they become recognized legally in various parts of the world.
-
-Standards such as ERC-20 tokens and NFTs (ERC-721 tokens) further enhance ETC as a property system as they may be used to represent shares of firms, voting rights, and even physical objects in the real world.
-
-As Ethereum Classic is programmable, it enables all of the above, but it may also provide additional benefits such as markets where these objects may be traded, trusts and wills to manage the transfer of assets given specific conditions, and the ability to perform complex transactions, all with very fast settlements and very low risks.
-
-## Types of Property Possible on ETC
+由于以太坊经典是可编程的，它可以实现以上所有功能，但它还可以提供额外的好处，比如可以在其中交易这些物体的市场，可以用信托和遗嘱来管理在特定条件下的资产转移，以及可以执行复杂的交易，而且结算非常快速，风险非常低。
 
 ![](./1.png)
 
-Given the attributes explained above, ETC may host several types of property that may be available seamlessly on a global scale. These property categories may include:
+鉴于上面解释的属性，ETC可能可以托管多种类型的财产，这些财产可以在全球范围内无缝获得。这些财产类别可能包括：
 
-**The ETC Coin:** The ETC coin itself is the first asset that is possessed, held, and controlled using the Ethereum Classic blockchain. It is also widely legally recognized as property, and this implies recognizing the underlying ledger as a property registry.
+**ETC代币：** ETC代币本身是使用以太坊经典区块链拥有、持有和控制的第一资产。它也被广泛法律承认为财产，这意味着承认底层账本作为财产登记。
 
-**Fungible Tokens:** Fungible tokens enabled by ERC-20 smart contracts are another form of property in ETC that may be programmable with rules ranging from voting to financial rights. 
+**可替代代币：** 由ERC-20智能合同启用的可替代代币是ETC中的另一种财产形式，可以根据投票和金融权利等各种规则进行编程。
 
-**Non-Fungible Tokens:** Non-fungible tokens enabled by ERC-721 smart contracts started as GIFs and JPEGs but their potential may expand to representing all kinds of property in digital and physical form.
+**不可替代代币：** 由ERC-721智能合同启用的不可替代代币最初是GIF和JPEG，但它们的潜力可能扩展到代表数字和实物形式的所有种类的财产。
 
-**Real Estate:** An example of real world assets that may be represented as NFTs and bought and sold inside ETC are real estate properties. Homes, apartments, land, and other real estate will likely be booked and traded in the system, and complex transactions and rules including mortgages and liens will be integrated seamlessly. 
+**房地产：** 作为NFT代表并在ETC内购买和销售的现实世界资产的一个示例是房地产属性。房屋、公寓、土地和其他房地产可能会在系统中预订和交易，包括按揭和留置权在内的复杂交易和规则将无缝整合。
 
-**Movable Property:** Just as real estate, movable property such as cars, motorcycles, and trucks may be hosted on ETC as NFTs, and traded in markets as well a be managed with complex transactions involving loans, or renting, or leasing.
+**动产：** 与房地产一样，动产，如汽车、摩托车和卡车，也可以作为NFT代币托管在ETC上，并在市场上交易，还可以通过涉及贷款、租赁或租赁的复杂交易进行管理。
 
-**Firms:** Firms such as corporations, partnerships, and nonprofits may be represented inside ETC by means of ERC-20 tokens and decentralized organizations (DAOs). These DAOs may issue shares, have voting rights, and integrate all corporate governance and bylaws typical of traditional legal persons.
+**公司：** 公司，如公司、合伙企业和非营利组织，可以通过ERC-20代币和分散组织（DAOs）在ETC内部表示。这些DAO可以发行股份，拥有投票权，并集成所有传统法律主体通常具有的公司治理和章程。
 
-**Securities:** As said above, company shares may exist inside ETC instead of traditional depository and clearing services. Also, the issuance and administration of debt securities may be possible as well as derivatives and futures contracts.
+**证券：** 如前所述，公司股份可以存在于ETC中，而不是传统的存管和结算服务。此外，债券的发行和管理也是可能的，以及衍生品和期货合同。
 
-**Trusts:** Trusts are possible in ETC by means of smart contacts. Grantors may establish programmable trusts and fund them with property on ETC to be managed by trustees who may provide their services and charge for them.
+**信托：** 通过智能合同，ETC中可以实现信托。授予者可以建立可编程信托，并用ETC上的财产资助信托，由受托人管理，受托人可以提供其服务并为其收费。
 
-## The Relationship of Law and Property on ETC
+## 法律与ETC上的财产的关系
 
-It is important to differentiate between the law and the ETC blockchain.
+重要的是要区分法律和ETC区块链之间的区别。
 
-Ethereum Classic only enforces possession and control of objects, it is not a legal instrument in itself. Similar to the example given before, it is more or less like driving a car because you have the keys; that you have possession and control over it does not necessarily mean that you own it.
+以太坊经典只强制执行对物体的拥有和控制，它本身不是法律工具。与前面给出的例子类似，这更或多是像因为你有钥匙而驾驶一辆汽车；你拥有和控制它不一定意味着你拥有它。
 
-Property and ownership are legal abstractions that are enforced outside of the blockchain. ETC is the physical aid where the property may be booked and enforced.
+财产和所有权是在区块链之外强制执行的法律抽象。ETC是财产可能被预订和执行的物理辅助。
 
-Additionally, that transactions and transfers occur on the blockchain does not change that people will not have disputes about the ownership of things. Disputes will continue to be resolved through legal systems.
+此外，交易和转让发生在区块链上并不会改变人们对物品所有权的争议。争议将继续通过法律体系解决。
 
-However, it is very likely that Ethereum Classic will eventually be officially recognized as property registry technology in general, and all registrable assets and legal contracts governing these properties will exist in ETC.
+然而，很可能以太坊经典最终会被正式承认为通用财产登记技术，所有可登记的资产和管理这些财产的法律合同都将存在于ETC中。
+
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC: https://ethereumclassic.org
