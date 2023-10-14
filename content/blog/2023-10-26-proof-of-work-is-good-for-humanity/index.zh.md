@@ -1,5 +1,5 @@
 ---
-title: "Proof of Work Is Good for Humanity"
+title: "工作量证明对人类发展有益"
 date: 2023-10-26
 author: Donald McIntyre
 contributors: ["Donald McIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this interview here:**
+**由此收听或观看本期访谈:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4SxRr3IFDZo?si=-X-Icy-ecgqZLKoh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,92 +16,90 @@ linkImage: ./banner.png
 
 ![](banner.png)
 
-Everybody talks about blockchains and crypto, but very few know about decentralization.
+每个人都在谈论区块链和加密货币，但很少有人了解分散化。
 
-The real invention of the blockchain industry is not “money” or “Bitcoin” or “blockchain”.
+区块链行业真正的发明不是“货币”或“比特币”或“区块链”。
 
-The revolutionary invention is the proof of work (POW) based Nakamoto Consensus. 
+革命性的发明是基于工作证明（POW）的中本聪共识。
 
-Nakamoto Consensus uses the POW as a focal point for all the machines connected to the network to be on the same page every 10 minutes, in the case of Bitcoin (BTC), and every 13 seconds, in the case of Ethereum Classic (ETC).
+中本聪共识将POW作为所有连接到网络的机器的焦点，使它们每隔10分钟（比特币的情况）或每隔13秒（以太坊经典的情况）都保持在同一个页面上。存在这一焦点的事实是分散化的关键，因为系统中的每个节点都可以在任何时候自由加入、退出和再次加入，而无需与除了工作证明本身的信息之外的任何人或任何其他东西进行核实。
 
-The fact that this focal point exists is the key to decentralization because every node in the system can join, exit, and join again whenever they wish, without the need of checking with anyone or anything else other than the information of the proof of work itself.
+这对人类有巨大的好处。
 
-This has enormous benefits for humanity.
+## 工作证明的作用是什么？
 
-## What Does Proof of Work Do?
+但在解释POW的好处之前，值得了解它是如何工作的。
 
-But, before explaining the benefits of POW it is worth learning how it works.
+POW区块链，如ETC，不断接收新的交易。当网络中的任何一台机器收到新交易时，它们会立即将其转发给网络中的其他机器以进行完全复制。这意味着系统中的所有计算机都有每个交易的副本。
 
-A POW blockchain such as ETC is constantly receiving new transactions. When any machine in the network receives a new transaction they immediately retransmit it to the rest of the network for full replication. This means that all computers in the system have a copy of each transaction.
+网络中的一组机器，称为矿工，获取了这些交易的批次，并使用称为哈希的密码戳封存它们。这个哈希是消耗大量工作和电力来创建的，因此称为“工作证明”。
 
-A subgroup of the machines in the network called miners get batches of these transaction and seal them with a cryptographic stamp called a hash. This hash is what consumes so much work and power to create, hence “proof of work”. 
+当矿工中的任何一台首先创建密码哈希时，它将新的交易块，其中包括该戳，发送到网络的其他部分进行全面复制。当网络的其他部分验证交易和块的哈希后，它们将其添加为链中的最后一个块，并为矿工的工作支付一定数量的硬币。
 
-When any of the miners creates the cryptographic hash first, it sends the new block of transactions, which includes the stamp, to the rest of the network for full replication. When the rest of the network verifies the transactions and the hash of the block, they add it as the last block in the chain and pay the miner a set number of coins for their work.
+## 工作证明的优势是什么？
 
-## What Are the Advantages of Proof of Work?
+上述描述的方法具有保持网络分散化的几个优势。分散化很重要，因为它减少了可以篡改区块链的受信任第三方的影响。
 
-The method described above has several advantages that keep the network decentralized. Decentralization is important because it reduces the influence of trusted third parties who can tamper with the blockchain.
+第一个优势是创建块时投入了大量工作，因此，当网络中的其他节点接收它时，它们通过验证戳就知道它是正确的。如果冒充者或攻击者向他们发送替代块，它们将丢弃它们，因为只有经过工作的块才会被接受。
 
-The first advantage is that so much work was put into creating the block that, when the rest of the nodes in the network receive it, they know it is the correct one just by verifying the stamp. If imposters or attackers were sending them alternative blocks they would discard them because only blocks with the work done would be accepted.
+第二个优势是，当新节点想要加入网络时，非常容易通过验证自从创世以来链上的所有工作来检查哪个是合法的区块链。通过这样做，任何机器都可以自由加入、离开或再次加入，甚至无需与任何第三方进行咨询。这是无需许可和抵制审查的关键！
 
-The second advantage is that when new nodes want to join the network, it is very easy to check which is the legitimate blockchain just by verifying all the work done in the chain of blocks since genesis. By doing this, any machine can actually join, leave, or join again without even consulting with any third party. This is the key to permissionlessness and censorship resistance!
+POW的另一个优势是，要创建硬币，必须完成大量的工作。这类似于黄金在现实世界中的运作方式，从而使硬币变得稀缺。
 
-The other advantage of POW is that to create the coins, a lot of work has to be done. This is similar to how gold works in the real world, thus making the coins scarce.
+## 工作证明对气候有益！
 
-## Proof of Work Is Good for the Climate!
+POW挖矿现在是全球可持续供电的最大产业。超过56%的能源来自可再生能源。
 
-POW mining is now the single most sustainably powered global industry in the world. Over 56% of the energy it uses comes from renewable sources. 
+出于相同的原因，POW的碳排放正在逐渐降低。
 
-Because of the same reasons, carbon emissions in POW are trending lower.
+此外，由于甲烷气体的温室效应是二氧化碳的84倍，而且由于POW挖矿非常便携，可以根据市场情况随时启动和关闭，POW矿工正在利用从油井中滞留的甲烷来为其计算机供电，从而将甲烷转化为二氧化碳，实际上使其成为碳负数！
 
-Additionally, as methane gas is 84 times more warming than CO2, and because POW mining is very mobile, and may be turned on and off due to market conditions, POW miners are using the methane that is stranded from oil wells to power their computers, thus transforming the methane into CO2 which actually makes it carbon negative!
+## 工作证明为贫困地区提供动力
 
-## Proof of Work Provides Power to Poor Areas
+如上所述，由于POW挖矿非常便携，可以根据市场情况随时启动和关闭，因此通常会寻找价格便宜的偏远和滞留的能源来源。
 
-As said above, because POW mining is very mobile, and may be turned on and off due to market conditions, it usually seeks cheap sources of energy that may be remote and stranded. 
+这为这些能源来源提供了资金，使它们在贫困地区蓬勃发展。
 
-This provides financing to these sources and makes them flourish in poor areas. 
+例如，在非洲，遥远地区正在出现小型水电发电机，为这些地区首次提供电力，因为POW矿工首先使用这些能源，提供了大部分需求，从而使它们在当地分发给其他消费者变得经济可行。
 
-For example, in Africa there are small hydropower generators popping up in remote regions, providing electricity for the first time in these areas, because POW miners use these sources first, providing the bulk of the demand, thus making them economically viable to distribute to other consumers locally.
+## 工作证明是全球范围内的财产权
 
-## Proof of Work Is Property Rights on a Global Scale
+财产和所有权在世界各地都非常薄弱，即使在发达经济体中也是如此。然而，承认ETC等区块链作为财产登记将是一场革命。
 
-Property and ownership are very weak across the world, even in advanced economies. However, the recognition of blockchains such as ETC as property registries would be revolutionary.
+ETC代币本身是使用以太坊经典POW区块链拥有、持有和控制的第一资产。它也被广泛法律承认为财产，这意味着承认底
 
-The ETC coin itself is the first asset that is possessed, held, and controlled using the Ethereum Classic POW blockchain. It is also widely legally recognized as property, and this implies recognizing the underlying ledger as a property registry.
+层账本作为财产登记。
 
-The ETC account system, the ERC-20 and ERC-721 standards, combined with POW will enable property rights globally which will cross all borders seamlessly, improving property rights everywhere.
+ETC的账户系统、ERC-20和ERC-721标准，结合POW，将使全球范围内的财产权得以实现，无缝跨越所有边界，从而提高财产权。
 
-Some of the registrable objects that could be managed on POW blockchains will include NFTs, fungile tokens, real estate, vehicles, corporations, nonprofits, securities, and trusts among many others.
+一些可登记的对象包括NFT、可替代代币、房地产、车辆、公司、非营利组织、证券和信托等。
 
-## Proof of Work Is Digital Gold
+## 工作量证明是数字黄金
 
 ![](./1.png)
 
-As said before, because the coins in POW blockchains are only created after miners have spent a lot of capital and electricity building the blocks, these cryptocurrencies are considered digital gold.
+正如前面所说，因为在POW区块链中，只有在矿工投入大量资本和电力来构建区块后，这些加密货币才会被创建，所以这些加密货币被认为是数字黄金。
 
-The term “digital old” denotes the hardness of the money. This means that the currency is scarce and does not lose value as time passes by, but, to the contrary, it maintains or gains value.
+术语“数字黄金”表示货币的硬度。这意味着货币是稀缺的，不会随着时间的推移贬值，相反，它会保持或增值。
 
-This is counterintuitive in today’s world of fiat currencies, which are all inflationary. But, the economic consequences and the relabalacing of wealth in the world would be significantly impacted if POW cryptocurrencies were adopted as global reserves. Which will likely happen.
+这在今天的法定货币世界中是违背直觉的，因为所有的法定货币都是通货膨胀的。但是，如果POW加密货币被采用为全球储备，这将显著影响全球的经济后果和财富的重新平衡。这很可能会发生。
 
-## Proof of Work Is Unprecedented Security In Computer Science
+## 工作证明在计算机科学中具有前所未有的安全性
 
-The reason why cryptocurrencies as Bitcoin didn’t exist before was because network designs to that point in computer science had a fault tolerance of 1/3 of the participating nodes. This means that if 33% of the machines in the network were to attack the system, they could do it.
+比特币等加密货币之前不存在的原因是因为计算机科学中的网络设计在容错能力上有着1/3的参与节点。这意味着如果网络中的33%的机器攻击系统，他们可以成功。
 
-As said at the beginning of this post, the brilliant invention of POW raised the fault tolerance threshold to 50% of nodes. Not only that, but because of its strong cryptography and energy wall of protection, the only thing that these attacks may do is to double spend coins, which is a narrow kind of attack and may be avoided by waiting more confirmations in these blockchains.
+正如本文开头所说，POW的杰出发明将容错阈值提高到了50%的节点。不仅如此，由于其强大的密码学和能源保护墙，这些攻击可能做的唯一的事情就是双重花费硬币，这是一种狭义的攻击，可以通过在这些区块链上等待更多的确认来避免。
 
-## Proof of Work Is Good for Humanity
+## 工作证明有益于人类
 
-So, POW is clean, it provides a focal point for all nodes in the network to join and leave whenever they wish without checking with third parties, it provides hard money, and it enables consensus among all machines to be on exactly the same state of the system globally every round.
+因此，POW是清洁的，它为网络中的所有节点提供了加入和离开的焦点，而无需与第三方进行核实。它提供了硬通货，并使所有机器在全球范围内每轮都保持完全相同的状态，从而实现了信任最小化、无需许可和抵制审查，使其成为人类已知的最安全的计算机网络。
 
-These features combined produce trust minimization, permissionlessness, and censorship resistance on blockchains making them the most secure computer networks known to man.
+这些事物对世界有巨大的好处，它们有益于气候，为世界偏远地区的贫困人口提供了电力，有益于全球范围内的财产和其他权利，为全球范围内的人们提供了坚实的货币以储蓄，并为计算机系统带来了前所未有的安全性。
 
-The great benefits to the world of these things are that they are good for the climate, they provide electricity to the poor in remote regions of the world, good for property and other rights on a global scale, they provide hard money for people worldwide to save, and bring unprecedented security to computer systems in general.
-
-Proof of work is, indeed, good for humanity!
+工作证明确实有益于人类！
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
