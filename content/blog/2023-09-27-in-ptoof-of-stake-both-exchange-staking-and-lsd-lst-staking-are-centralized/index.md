@@ -4,7 +4,7 @@ date: 2023-09-27
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 disclaimer: opinion
-tags: ["phylosophy"]
+tags: ["Philosophy"]
 linkImage: ./banner.png
 ---
 
