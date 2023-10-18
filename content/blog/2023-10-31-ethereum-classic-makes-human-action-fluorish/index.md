@@ -14,6 +14,8 @@ linkImage: ./banner.png
 
 ---
 
+![](./banner.png)
+
 ## Purpose of Man
 
 From a biological perspective it may be argued that the purpose of man is to seek food, shelter, and to reproduce.
