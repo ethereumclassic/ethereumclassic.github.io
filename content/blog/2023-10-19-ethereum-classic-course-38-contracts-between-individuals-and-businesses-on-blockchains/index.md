@@ -2,13 +2,13 @@
 title: "Ethereum Classic Course: 38. Contracts Between Individuals and Businesses on the Blockchain"
 date: 2023-10-19
 author: Donald McIntyre
-contributors: ["Donald McIntyre"]
+contributors: ["DonaldMcIntyre"]
 tags: ["education", "series"]
 linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this interview here:**
+**You can listen to or watch this video here:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8T_fHNsm_nM?si=89S4yVfgmc1ZyWR6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

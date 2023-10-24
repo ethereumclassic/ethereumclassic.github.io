@@ -2,7 +2,7 @@
 title: "以太坊经典是一套严格的规则，而不是丛林法则"
 date: 2023-10-03
 author: Donald McIntyre
-contributors: ["Donald McIntyre"]
+contributors: ["DonaldMcIntyre"]
 tags: ["education"]
 linkImage: ./strict-rules-banner.png
 ---

@@ -2,7 +2,7 @@
 title: "以太经典具有与比特币相似的供应上限"
 date: 2023-10-18
 author: Donald McIntyre
-contributors: ["Donald McIntyre"]
+contributors: ["DonaldMcIntyre"]
 tags: ["education", "series"]
 linkImage: ./banner.png
 ---

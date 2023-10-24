@@ -2,13 +2,13 @@
 title: "Ethereum Classic Course: 35. Non-Fungible Tokens (NFTs)"
 date: 2023-09-21
 author: Donald McIntyre
-contributors: ["Donald McIntyre"]
+contributors: ["DonaldMcIntyre"]
 tags: ["education", "series"]
 linkImage: ./banner-nfts.png
 ---
 
 ---
-**You can listen to or watch this interview here:**
+**You can listen to or watch this video here:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v8Isn4i6Ww8?si=EMyAqiRt7c_SIZOZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
