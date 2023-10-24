@@ -2,7 +2,7 @@
 title: "以太经典课程：36. 区块链上的所有权记录和财产登记"
 date: 2023-09-28
 author: Donald McIntyre
-contributors: ["Donald McIntyre"]
+contributors: ["DonaldMcIntyre"]
 tags: ["education", "series"]
 linkImage: ./banner.png
 ---
