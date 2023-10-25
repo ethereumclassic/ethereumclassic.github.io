@@ -46,7 +46,7 @@ We have no agreements nor perceive any revenues, fees, or commissions from any b
 
 ## 2. Jasminer X16-Q Unboxing
 
-![](./2.png)
+![](./2.JPG)
 
 When you receive your Jasminer X16-Q, you will get it with a server power cord, an ethernet cable, and an antenna if you wish to use WiFi to connect it.
 
@@ -58,7 +58,7 @@ As seen in the image, we have our Jasminer ASIC, the ethernet cable, the power c
 
 ## 3. Jasminer X16-Q Connection
 
-![](./3.png)
+![](./3.JPG)
 
 The next step to start mining ETC with your Jasminer X16-Q is to connect all the parts and to turn it on.
 
