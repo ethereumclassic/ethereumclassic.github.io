@@ -2,7 +2,7 @@
 title: "以太坊经典课程: 38. 个人与企业间在区块链上的合约"
 date: 2023-10-19
 author: Donald McIntyre
-contributors: ["Donald McIntyre"]
+contributors: ["DonaldMcIntyre"]
 tags: ["education", "series"]
 linkImage: ./banner-1.png
 ---
