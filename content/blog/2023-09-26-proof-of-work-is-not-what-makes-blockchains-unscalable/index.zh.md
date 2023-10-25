@@ -2,7 +2,7 @@
 title: "工作量证明并不是导致区块链不可扩展的原因。"
 date: 2023-09-26
 author: Donald McIntyre
-contributors: ["Donald McIntyre"]
+contributors: ["DonaldMcIntyre"]
 tags: ["education"]
 linkImage: ./banner.png
 ---
