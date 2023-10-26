@@ -2,7 +2,7 @@
 title: "以太坊经典课程: 35. 非同质化代币（NFTs）"
 date: 2023-09-21
 author: Donald McIntyre
-contributors: ["Donald McIntyre"]
+contributors: ["DonaldMcIntyre"]
 tags: ["education", "series"]
 linkImage: ./banner-nfts.png
 ---

@@ -2,7 +2,7 @@
 title: "以太坊经典课程: 37. 去中心化自治组织 (DAOs)"
 date: 2023-10-05
 author: Donald McIntyre
-contributors: ["Donald McIntyre"]
+contributors: ["DonaldMcIntyre"]
 tags: ["education", "series"]
 linkImage: ./banner-1.png
 ---

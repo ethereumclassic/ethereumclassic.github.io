@@ -2,13 +2,13 @@
 title: "Proof of Work Is Not What Makes Blockchains Unscalable"
 date: 2023-09-26
 author: Donald McIntyre
-contributors: ["Donald McIntyre"]
+contributors: ["DonaldMcIntyre"]
 tags: ["education"]
 linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this interview here:**
+**You can listen to or watch this video here:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q7Imiz1AfFs?si=SdywKUXF1pTOhGqe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
