@@ -2,13 +2,13 @@
 title: "Ethereum Classic Is a Proof of Work Cryptocurrency Blockchain"
 date: 2023-10-17
 author: Donald McIntyre
-contributors: ["Donald McIntyre"]
+contributors: ["DonaldMcIntyre"]
 tags: ["education", "series"]
 linkImage: ./banner-1.png
 ---
 
 ---
-**You can listen to or watch this interview here:**
+**You can listen to or watch this video here:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hh6qsIeXaYI?si=1MEQgIgTgU7dbR88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

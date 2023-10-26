@@ -2,7 +2,7 @@
 title: "通过Cointbase交易ETC"
 date: 2023-10-04
 author: Donald McIntyre
-contributors: ["Donald McIntyre"]
+contributors: ["DonaldMcIntyre"]
 tags: ["guide", "series"]
 linkImage: ./coinbase-banner.png
 ---

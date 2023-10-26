@@ -2,13 +2,13 @@
 title: "Ethereum Classic Course: 37. Decentralized Autonomous Organizations (DAOs)"
 date: 2023-10-05
 author: Donald McIntyre
-contributors: ["Donald McIntyre"]
+contributors: ["DonaldMcIntyre"]
 tags: ["education", "series"]
 linkImage: ./banner-1.png
 ---
 
 ---
-**You can listen to or watch this interview here:**
+**You can listen to or watch this video here:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zwr33NBOeH0?si=ZhUufFhbHp5Bdmuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
