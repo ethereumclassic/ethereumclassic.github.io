@@ -2,13 +2,13 @@
 title: "Ethereum Classic Is a Set of Strict Rules, Not the Law of the Jungle"
 date: 2023-10-03
 author: Donald McIntyre
-contributors: ["Donald McIntyre"]
+contributors: ["DonaldMcIntyre"]
 tags: ["education"]
 linkImage: ./strict-rules-banner.png
 ---
 
 ---
-**You can listen to or watch this interview here:**
+**You can listen to or watch this video here:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H3CMiQ9Mekc?si=tpnWGxLGh8ICUG38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
