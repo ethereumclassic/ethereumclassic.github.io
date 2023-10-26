@@ -25,7 +25,7 @@ export default function Landing({
     <div tw="w-full overflow-x-hidden">
       <LandingArtwork i18n={billboard} />
       <TwContainer tw="py-10 space-y-20 relative">
-        <div tw="text-center">
+        {/* <div tw="text-center">
           <Link
             to="https://powsummit.com/"
             tw="inline-block bg-white p-2 rounded-md shadow-2xl"
@@ -38,7 +38,7 @@ export default function Landing({
               height={100}
             />
           </Link>
-        </div>
+        </div> */}
         <LandingFeature i18n={feature} />
         <LandingHeadlines items={headlines.edges} i18n={headings.headlines} />
         <div tw="grid grid-cols-1 items-center gap-24 md:grid-cols-2">
