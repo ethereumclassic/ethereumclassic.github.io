@@ -1,5 +1,5 @@
 ---
-title: "Proof of Stake Is Broken Because of its Incentives"
+title: "权益证明因其激励机制而失效"
 date: 2023-11-08
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听本期访谈:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wyZUxolbTuY?si=MyGPxtTk8UyNvRwP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,94 +16,96 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-We have produced many articles and videos explaining the benefits of proof of work (POW) and why it is a truly decentralized technology.
+我们已经制作了许多文章和视频，解释了工作证明（POW）的好处，以及为什么它是一种真正去中心化的技术。
 
-It is worth noting that Bitcoin (BTC) and Ethereum Classic (ETC) have been working with a 99% plus uptime since 2009 and 2015 respectively in a totally decentralized way.
+值得注意的是，比特币（BTC）和以太坊经典（ETC）自2009年和2015年以来一直以99%以上的正常运行时间在完全去中心化的方式下运行。
 
-However, in proof of stake (POS) the same cannot be said. Since Ethereum migrated to that consensus mechanism, it has [been censored](https://www.coindesk.com/tech/2022/10/14/censored-ethereum-blocks-hit-the-51-threshold-over-the-past-24-hours) and has had problems with [staking pool centralization](https://www.coindesk.com/consensus-magazine/2023/09/29/opposing-centralization-in-ethereum-staking).
+然而，在权益证明（POS）方面，情况并非如此。自以太坊迁移到这种共识机制以来，它已经[受到审查](https://www.coindesk.com/tech/2022/10/14/censored-ethereum-blocks-hit-the-51-threshold-over-the-past-24-hours)，并且存在[权益池集中问题](https://www.coindesk.com/consensus-magazine/2023/09/29/opposing-centralization-in-ethereum-staking)。
 
-In this post we will explain the main design flaws of POS and why it it is broken, in other words, centralized.
+在这篇文章中，我们将解释POS的主要设计缺陷以及为什么它已经破裂，换句话说，变得中心化。
 
-## No Economic Friction
+## 没有经济摩擦
 
-In any industry there is always a tendency for concentration. What level of concentration usually depends on frictional costs that impede economic scale of single players.
+在任何行业中，总会存在一种集中趋势。集中程度通常取决于妨碍单个参与者经济规模的摩擦成本。
 
-For example, in the legal industry there are hundreds of thousands of law firms because humans are not scalable. Individual lawyers only have a set number of hours to work and that is the number they can sell. Therefore, to increase supply, more lawyers are needed, increasing the number of law firms.
+例如，在法律行业，有数以千计的律所，因为人类不具备可扩展性。个体律师只有固定数量的工作小时，这就是他们可以出售的数量。因此，为了增加供应，需要更多的律师，从而增加了律所的数量。
 
-On the other hand, in banking there are usually three or four banks that dominate the industry with huge market shares because that business is largely powered by technology, which reduces friction, and the larger the banks get the more secure and appealing they are to the public.
+另一方面，在银行业通常有三家或四家主导业界的银行，因为这个业务主要由技术驱动，减少了摩擦，而且银行规模越大，对公众越安全和吸引人。
 
-Proof of stake has a similar concentration pattern as in banking, but its frictional costs are even lower.
+权益证明具有与银行业类似的集中模式，但其摩擦成本更低。
 
-In POS, stakers worldwide have their deposits inside a single network, and having money in a staking pool or not is trivial cost wise. People can stake any amount in staking pools such as Lido, Coinbase, or RocketPool, and immediately get a liquid token that represents the ETH they staked. 
+在POS中，全球的权益持有者将其存款放在一个网络中，而将资金放入权益池或不放入在成本方面都不重要。人们可以将任何数量的资金放入权益池，如Lido、Coinbase或RocketPool，立刻获得代表其权益的ETH的流动代币。
 
-This increased efficiency, and the fact that the larger the staking pools are they appear more secure and appealing, has created mega staking pools like Lido, that regularly control more than 33% of staked coins, crossing the fault tolerance threshold in POS chains, meaning that they can disrupt the operation of the system.
+这种提高的效率以及权益池规模越大，看起来越安全和吸引人，已经创造了像Lido这样的超大权益池，经常控制超过33%的权益币，超越了POS链的容错阈值，这意味着他们可以干扰系统的运行。
 
-The above means that anyone anywhere in the world can stake, staking is frictionless, they can stake in any pool they wish, but they all wish to stake in the big and secure ones, and, therefore, the bias to centralization is accentuated.
+上述情况意味着世界各地的任何人都可以进行权益投票，权益投票是无摩擦的，他们可以选择在任何池中进行权益投票，但他们都愿意在大型和安全的池中进行权益投票，因此，中心化的偏见被加重。
 
-In proof of work, there are economies of scale as well, but because there are much higher frictional costs, then mining has always been concentrated but nevertheless decentralized.
+在工作证明中，也存在规模经济，但由于摩擦成本更高，因此采矿一直是集中的但仍然是去中心化的。
 
-POW demands that miners sink capital into machines, then they have to spend enormous amounts of electricity in creating blocks, and only then they perceive a return in coins.
+POW要求矿工将资本投入机器，然后在创建区块时花费大量电力，然后才能获得硬币回报。
 
-Additionally, the distribution of electricity sources is dispersed all around the world, making it difficult to centralize operations.
+此外，电力来源的分散分布在世界各地，使中心化运营变得更加困难。
 
-On top of this all, the fault tolerance threshold in POW networks is 51% making it even more difficult to reach a disrupting share in those systems.
+此外，POW网络中的容错阈值为51%，这使得更难达到这些系统的干扰份额。
 
-## Staking Penalties Induce Bad behavior
+## 权益惩罚引发不良行为
 
-Proof of work has a positive incentive system of participation: If a miner produces a block that conforms to the rules, then it is accepted and rewarded, if it does not conform, then it is rejected and nothing else happens.
+工作证明具有积极的参与激励系统：如果矿工产生符合规则的区块，那么它会被接受并获得奖励，如果不符合规则，则会被拒绝，不会发生其他事情。
 
-Proof of stake has a negative incentive system: If stakers produce blocks that conform to the rules, then they are rewarded, but if they don’t, or even have unstable behavior like being offline, then they get penalized.
+权益证明具有负激励系统：如果权益持有者产生符合规则的区块，他们会得到奖励，但如果不符合规则，或者甚至有不稳定的行为，比如离线，那么他们将受到惩罚。
 
-The penalization system in proof of stake creates perverse incentives that we explain below.
+权益证明中的惩罚系统创造了我们下面解释的恶劣激励。
 
-### It Leads to Staking Pool Centralization
+### 它导致了权益池的集中
 
-Because there are several types of penalties in POS, and to avoid them largely depends on that validators must be working persistently and with nor errors, then the public prefers to delegate the technical operation of this type of data infrastructure to more sophisticated players.
+因为POS中存在各种类型的惩罚，而避免这些惩罚在很大程度上取决于验证者必须持续工作，没有错误，所以公众更愿意将这种数据基础设施的技术运营委托给更有经验的参与者。
 
-This means that there are millions of ETH staked, but most of them are in the largest staking pools such as Lido, Coinbase, RocketPool, Binance, and Kraken.
+这意味着有数百万ETH被抵押，但其中大部分都在像Lido、Coinbase、RocketPool、Binance和Kraken这样的最大权益池中。
 
-In POW mining, miners may have failures in their operations, interruption due to unstable flows of electricity, down internet connection, or they may even be banned like in the case of China in 2021, but they won’t suffer any penalties, and they can regroup and start mining again whenever they wish.
+在POW挖矿中，矿工可能会在运营中出现故障，电力不稳定流、互联网连接中断，甚至可能被像2021年中国那样禁止，但他们不会受到任何惩罚，他们可以随时重新组织并开始挖矿。
 
-### It Leads to Litigation
+### 它导致了诉讼
 
-In such a complex set of rules as in POS, with arbitrary definitions of "bad behavior" and subsequent high penalties, this opens the door for legal interpretations of what is "good" or "bad" similar to traditional legal systems.
+在POS中存在如此复杂的规则，存在
 
-A such, this leads POS to be a litigious system where disgruntled stakers, validators, and pools may start lawsuits against developers, the Ethereum Foundation, and early investors to recover past penalties. 
+对“恶劣行为”的武断定义以及随后的高额惩罚，这打开了解释何为“好”或“坏”的法律解释的大门，类似于传统的法律体系。
 
-A system with rewards, performance clauses, and monetary penalties is more suitable for a traditional kind of contract rather than "Code Is Law" systems as blockchains should be. 
+因此，POS成为一个容易引发诉讼的系统，不满的权益持有者、验证者和权益池可能会起诉开发者、以太坊基金会和早期投资者以恢复以前的惩罚。
 
-Additionally, there is the possibility that the designers have not thought of all the “good” and “bad” behavior scenarios, as they have clearly failed for the economic behaviors, and this may create unforeseen legal conflicts.
+一个具有奖励、绩效条款和经济处罚的系统更适合于传统的合同，而不适合于区块链应该是“法律即代码”的系统。
 
-### It Induces the Stockholm Syndrome
+此外，设计者可能尚未考虑到所有的“好”和“坏”行为情景，正如他们明显在经济行为方面失败一样，这可能会导致意想不到的法律冲突。
 
-This has not been detected in POS yet, but we pose the following rhetorical question:
+### 它诱发了斯德哥尔摩综合症
 
-In such a strict, complex set of rules as proof of stake, where validators need to be part of the majority 2/3s of the system in order not to get penalized, wouldn't many of them start to validate epochs (groups of blocks) and voting for individual blocks regardless of validity, out of fear of the penalty rather than because the transactions and blocks are true and verified?
+尽管在POS中尚未发现这一问题，但我们提出以下反问：
 
-This is something that could already be happening now, and the system clearly induces validators to just go with the flow as sheep do even if they may be going in the wrong direction.
+在如此严格、复杂的权益证明规则下，验证者需要成为系统的大多数2/3，以免受到惩罚，那么他们中的许多人是否会开始验证区块（区块组）并投票支持个别区块，而不考虑其有效性，只是出于对惩罚的恐惧而这么做，而不是因为交易和区块是真实和经过验证的？
 
-## The Rich Get Richer (And Control Everything)
+这是可能已经在发生的事情，而且这个系统明显鼓励验证者像绵羊一样随波逐流，即使他们可能正在走错方向。
 
-Finally, there is an economic effect that proof of stake has that has been made worse by EIP-1559 and is particularly perverse in Ethereum. 
+## 富者愈富（并控制一切）
 
-EIP-1559 is a set of rules introduced in the network that has no use other than creating a convoluted burning mechanism so that ETH coin supply would plateau and then start decreasing. Basically it burns more or less half of the fees each time a transaction is executed. The other half is earned by the miners.
+最后，权益证明有一个经济效应，由于EIP-1559而变得更糟，特别是在以太坊。
 
-This in itself is a gimmick just to make individual coins more valuable, which is ethically dubious.
+EIP-1559是引入到网络中的一组规则，除了创建一个复杂的销毁机制以使ETH的货币供应稳定并开始减少以外没有其他用途。基本上，每次执行交易时会燃烧大约一半的手续费。另一半由矿工获得。
 
-But it is perverse in a broader economic and social way as it introduces the [Cantillon effect](https://en.wikipedia.org/wiki/Richard_Cantillon) in Ethereum, which is that the rich get richer and the poor get poorer.
+这本身只是为了使个别硬币更有价值而采取的噱头，这在道义上是可疑的。
 
-We explain this system bias mechanism as follows:
+但从更广泛的经济和社会角度来看，它引入了以太坊中的[坎蒂隆效应](https://en.wikipedia.org/wiki/Richard_Cantillon)，即富者愈富，穷者愈贫。
 
-1. Stakers (read "rich people" and "staking elites") have their surplus and savings parked in staking pools and earn a constant income, increasing their nominal amounts with the rewards and their wealth overtime as the coins gain value due to the reduction in supply.
+我们解释这一系统偏向机制如下：
 
-2. The general economy, composed of people who save very little or live paycheck to paycheck, use the currency for daily expenses but every time they transact, a fraction is burned.
+1. 权益持有者（即“富人”和“权益精英”）将其剩余和储蓄存放在权益池中，获得持续的收入，随着奖励和硬币因供应减少而增值，他们的名义金额也在增加。
 
-At a macro level, this scheme produces a transfer of wealth from the poor to the rich. The stock used by the poor is diminishing as the stock used by the rich is increasing. 
+2. 一般经济由那些几乎不储蓄或靠工资度日的人组成，他们用货币进行日常支出，但每次进行交易时都会燃烧一部分。
 
-Another effect is that the large coin holders will eventually be very few and will have even more control over the system than what they already have in the present.
+在宏观层面，这一方案导致贫富之间的财富转移。穷人使用的货币减少，而富人使用的货币增加。
+
+另一个效果是，大的硬币持有者最终将非常少，并且将对系统拥有更多的控制权，比目前已经拥有的控制权更多。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
