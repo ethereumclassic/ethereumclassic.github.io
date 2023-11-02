@@ -1,5 +1,5 @@
 ---
-title: "Mining Ethereum Classic With the Jasminer X16-Q High Throughput Quiet Server"
+title: "使用茉莉矿机Jasminer X16-Q高通量静音服务器挖掘以太经典"
 date: 2023-11-07
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听本期视频:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U0htDxAIkJw?si=vGxHcXxf0_e8w4IK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,176 +16,175 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-As a proof of work blockchain, mining is an important function in Ethereum Classic (ETC). 
+作为工作证明区块链，挖矿是以太经典（ETC）中的一个重要功能。
 
-The miners’ job is to constantly gather transactions, group them into batches, and to do a lot of work, spending a lot of electricity, to create a cryptographic stamp to seal the blocks. 
+矿工的工作是不断收集交易，将它们分组成批次，并进行大量工作，消耗大量电力，以创建用于封存区块的加密印记。
 
-Then, they send the blocks to the rest of the network, which verifies the transactions and the cryptographic stamps, and pays the miners with newly created ETC coins.
+然后，他们将区块发送给网络的其余部分，网络验证交易和加密印记，然后用新创建的ETC代币支付矿工。
 
-This process is vital to the permissionlessness and censorship resistance of ETC as the proofs of work themselves are the focal points that keep the network decentralized on a global scale.
+这个过程对于ETC的无许可性和抗审查性至关重要，因为工作证明本身是保持全球范围内网络去中心化的关键点。
 
-In this post we will explain how to contribute, and make money, mining ETC using the Jasminer X16-Q High Throughput Quiet Server. 
+在本文中，我们将解释如何通过使用Jasminer X16-Q高通量静音服务器来参与挖矿，赚取ETC代币。
 
-## 1. Buying the Jasminer X16-Q
+## 1. 购买Jasminer X16-Q
 
 ![](./1.png)
 
-The first step is to buy the Jasminer X16-Q. We found three possible places: the Jasminer manufacturer, Amazon, and Miner Bros. 
+第一步是购买Jasminer X16-Q。我们找到了三个可能的购买地点：Jasminer制造商、亚马逊和矿工兄弟。
 
-In the Jasminer website it may say it is “out of stock”, but management told us at the POW Summit that they have units available.
+在Jasminer网站上，可能会显示“缺货”，但管理层在POW峰会上告诉我们他们有现货可供购买。
 
-Links to where you may purchase the Jasminer X16-Q are:
+您可以在以下链接购买Jasminer X16-Q：
 
-- Jasminer.com: https://www.jasminer.com/#/productDetail/908ad3781bff473ba9155276caa84456
+- Jasminer.com：https://www.jasminer.com/#/productDetail/908ad3781bff473ba9155276caa84456
 
-- Amazon: https://www.amazon.com/Jasminer-Ethereum-throughput-Compatible-100V-240V/dp/B0CJBJJXC
+- 亚马逊：https://www.amazon.com/Jasminer-Ethereum-throughput-Compatible-100V-240V/dp/B0CJBJJXC
 
-- Miner Bros: https://www.cryptominerbros.com/product/jasminer-x16-q-ethereum-classic-miner
+- 矿工兄弟：https://www.cryptominerbros.com/product/jasminer-x16-q-ethereum-classic-miner
 
-We have no agreements nor perceive any revenues, fees, or commissions from any brands mentioned in this post.
+我们对在本文中提到的任何品牌都没有协议，也不收取任何收入、费用或佣金。
 
-## 2. Jasminer X16-Q Unboxing
+## 2. Jasminer X16-Q拆箱
 
 ![](./2.JPG)
 
-When you receive your Jasminer X16-Q, you will get it with a server power cord, an ethernet cable, and an antenna if you wish to use WiFi to connect it.
+当您收到Jasminer X16-Q时，您将获得一个服务器电源线、一个以太网电缆，以及一个天线（如果您希望使用WiFi进行连接）。
 
-In our case, we will connect it through our local WiFi router using the ethernet cable.
+在我们的情况下，我们将使用以太网电缆通过本地WiFi路由器连接它。
 
-We also need a power step up transformer because in our location in Oklahoma, USA we have 110 volt electricity, but the Jasminer uses a 200 to 240 volt input.
+此外，我们需要一个电源升压变压器，因为在美国俄克拉荷马州的我们所在地，电压为110伏特，但Jasminer使用的是200至240伏特的输入电压。
 
-As seen in the image, we have our Jasminer ASIC, the ethernet cable, the power cord, our transformer (with its power cord), and our internet router aligned for connection and setup.
+正如图像所示，我们有我们的Jasminer ASIC、以太网电缆、电源线、变压器（带电源线）以及用于连接和设置的互联网路由器。
 
-## 3. Jasminer X16-Q Connection
+## 3. Jasminer X16-Q链接
 
 ![](./3.JPG)
 
-The next step to start mining ETC with your Jasminer X16-Q is to connect all the parts and to turn it on.
+以下是使用Jasminer X16-Q开始挖掘ETC的下一步，连接所有部件并打开它。
 
-As seen in the image, you have to connect 3 things:
+如图所示，您需要连接以下3个部分：
 
-1. The Jasminer ASIC to the transformer if you are using one (if not, then connect it directly to the wall).
+1. 如果您使用变压器，将Jasminer ASIC连接到变压器（如果不使用变压器，则直接连接到墙上）。
 
-2. The transformer to the power outlet on the wall.
+2. 将变压器连接到墙上的电源插座。
 
-3. The Jasminer ASIC to your router using the ethernet cable.
+3. 使用以太网电缆将Jasminer ASIC连接到您的路由器。
 
-Once you have all the parts connected turn on the power button on the back of the Jasminer.
+一旦您连接好所有部件，请打开Jasminer背面的电源按钮。
 
-## 4. Experience How Quiet the Jasminer X16-Q Is!
+## 4. 感受Jasminer X16-Q的静音程度
 
-One thing that is true to its brand promise is that when you connect and start running your Jasminer, it is incredibly quiet!
+品牌的承诺之一是，当您连接并开始运行Jasminer时，它非常安静！
 
-In the short video in this section we demonstrate how quiet the ASIC is:
-
+在本节的短视频中，我们展示了ASIC有多安静：
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tG_jkCD2JC0?si=qTxjVekhkqs07Bqq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## 5. Finding and Logging in to the Jasminer X16-Q User Interface
+## 5. 查找并登录到Jasminer X16-Q用户界面
 
 ![](./4.png)
 
-When you have all the parts connected and running, then you need to go to your PC and log in to the user interface of your Jasminer X16-Q.
+当您已连接并运行所有部件后，您需要前往您的电脑并登录到Jasminer X16-Q的用户界面。
 
-To be able to do this your Jasminer and your PC must be connected to the same router.
+为了能够这样做，您的Jasminer和电脑必须连接到同一个路由器。
 
-The IP address to login to the Jasminer UI is: 
+登录到Jasminer UI的IP地址是：
 
-https://192.168.0.142 
+https://192.168.0.142
 
-The default ID and password are: 
+默认的ID和密码为：
 
-**ID:** root
+**ID：** root
 
-**Password:** root
+**密码：** root
 
-When you log in, then you must change your password in the “Settings” tab.
+登录后，您必须在“设置”选项卡中更改您的密码。
 
-## 6. Getting the Mining Pool Configuration Information
+## 6. 获取矿池配置信息
 
 ![](./5.png)
 
-Once you have your Jasminer all setup and ready to mine, then you need to go to your mining pool to get the configuration information to point your Jasminer X16-Q to it.
+## 一旦您已经设置好Jasminer，并准备开始挖矿，您需要前往您的矿池以获取配置信息，以将您的Jasminer X16-Q指向该矿池。
 
-In our case we will use F2Pool, the largest mining pool in the ETC ecosystem, to configure and point our Jasminer.
+在我们的情况下，我们将使用F2Pool，ETC生态系统中最大的矿池，来配置和指向我们的Jasminer。
 
-The link to find the configuration data is:
+找到配置数据的链接是：
 
 https://f2pool.io/mining/guides/how-to-mine-ethereum-classic/
 
-From there you will see, copy, and enter the following data points into your Jasminer:
+从那里，您将看到、复制并输入以下数据点到您的Jasminer：
 
-**Pool URL:** stratum+tcp://etc.f2pool.com:8118
+**矿池URL：** stratum+tcp://etc.f2pool.com:8118
 
-**User/Worker:** accountName.workerName
+**用户/矿工：** 帐户名.矿工名
 
-**Password:** Your choice
+**密码：** 您的选择
 
-In the following section we explain how to do this.
+在接下来的部分，我们将解释如何操作。
 
-## 7. Configuring the Jasminer X16-Q With the Mining Pool Data
+## 7. 使用矿池数据配置Jasminer X16-Q
 
 ![](./6.png)
 
-To configure your miner to point to your mining pool, go to the the “Settings” tab again, and then click the “Miner” link.
+要将您的矿工指向矿池，请再次前往“设置”选项卡，然后单击“矿工”链接。
 
-In the next screen you will see forms with fields to enter the data for several pools. This is for backup in case one pool is down, so your miner can jump to the other.
+在下一个屏幕上，您将看到表格，其中有多个矿池的数据输入字段。这是为了备份，以防一个矿池宕机，这样您的矿工可以切换到另一个矿池。
 
-As F2pool gave us only one ETC pool URL to use, we will add it to the “Pool 1” section.
+由于F2pool只提供了一个ETC矿池URL供使用，我们将其添加到“矿池1”部分。
 
-Copy and paste the pool URL in the corresponding field. Then, the worker name must be your user ID on F2pool, followed by a dot, and then followed by a number or name you may give to your miner.
+复制并粘贴矿池URL到相应的字段中。然后，矿工名称必须是您在F2pool上的用户ID，后面跟着一个点，然后是您为您的矿工指定的编号或名称。
 
-In our case we used our F2pool user name and the number “28” as the name of our Jasminer:
+在我们的情况下，我们使用了我们的F2pool用户名和“28”作为我们Jasminer的名称：
 
 **donald1968.28**
 
-The password may be whatever you wish, we used “123”.
+密码可以是您希望的任何内容，我们使用了“123”。
 
-To save your data press “SUBMIT” at the bottom of the page.
+要保存您的数据，请按页面底部的“提交”按钮。
 
-## 8. Checking the Mining Statistics on the Jasminer X16-Q
+## 8. 在Jasminer X16-Q上检查挖矿统计数据
 
 ![](./7.png)
 
-Once you press “SUBMIT” in the previous step, then you are mining ETC!
+一旦您在前一步中按下“提交”，那么您就开始挖ETC了！
 
-To check the statistics of your Jasminer on its UI, you will need to wait for a few minutes until the dashboard populates.
+要在Jasminer的用户界面上查看您的矿工的统计信息，您需要等待几分钟，直到仪表板填充数据。
 
-As seen on the image in this section, we have been mining ETC for more than 50 minutes, so the Jasminer dashboard has all the statistics for that period.
+如本部分的图像所示，我们已经挖矿超过50分钟，因此Jasminer的仪表板具有该时段的所有统计数据。
 
-The main chart shows the hashrate on a minute by minute basis. It has consistently been around 1900 MH/s which is the capacity of this machine.
+主要图表显示了每分钟的算力。它一直保持在大约1900 MH/s，这是这台机器的容量。
 
-Other data that it shows are the time mined, fan speeds, and the network data.
+其他显示的数据包括挖矿时间、风扇速度和网络数据。
 
-## 9. Checking Mining Statistics on Your Mining Pool
+## 9. 在您的矿池上检查挖矿统计数据
 
-Once you have your miner set up and working with the local statistics confirmed, then you can go to your mining pool statistics page to see how your Jasminer is doing from the mining pool’s perspective.
+一旦您的矿工设置好并经过本地统计数据的确认，您可以前往您的矿池统计页面，从矿池的角度查看您的Jasminer的情况。
 
-On your account, you must select “ETC” as the network you want to explore, and then go to the “Workers” link to see your Jasminer statistics.
+在您的帐户中，您必须选择“ETC”作为您要查看的网络，然后前往“矿工”链接以查看您的Jasminer的统计信息。
 
 ![](./8.png)
 
-In the next screen you will see the hash rate of your worker, and below a section with your worker name and its statistics.
+在下一个屏幕上，您将看到您的矿工的算力，以及下方有您的矿工名称和其统计信息的部分。
 
 ![](./9.png)
 
-If you scroll down, you will see a chart with the aggregate hash rate as time passes by.
+如果您向下滚动，您将看到一个随着时间推移的总算力图表。
 
-## 10. Congratulations!
+## 10. 祝贺！
 
-So, now that you have your Jasminer X16-Q High Throughput Quiet Server all set up and working we congratulate you for becoming an ETC miner!
+所以，现在您已经准备好并运行您的Jasminer X16-Q高通量静音服务器，我们恭喜您成为了一个ETC矿工！
 
 ![](./10.png)
 
-If you go to your F2pool account to the “Revenue” section, you will see your accumulated rewards in ETC, with tools to manage your money.
+如果您前往F2pool帐户的“收益”部分，您将看到您在ETC中累积的奖励，以及用于管理您的资金的工具。
 
-Happy mining!
+愿您挖矿愉快！
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about Jasminer please go to: https://jasminer.com
+了解更多有关茉莉矿机: https://jasminer.com
 
-To learn more about F2pool please go to: https://www.f2pool.com/
+了解更多有关F2pool: https://www.f2pool.com/
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC: https://ethereumclassic.org
