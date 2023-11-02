@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 1. All the Components of Bitcoin Already Existed"
+title: "ETC工作量证明课程：1. 比特币的所有组成部分已经存在"
 date: 2023-11-09
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**欢迎由此收听或观看本期视频:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e4e9CjvEUlE?si=rRGqoSJIjNMWRgPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,106 +16,106 @@ linkImage: ./banner.png
 
 ![](./1.png)
 
-After 14 years of existence of Bitcoin (BTC) we still cannot stop marvelling at the amazingness of the invention. A decentralized monetary system for the internet. The separation of money and state. Gold but inside the internet. A feat that some were seeking but no one could achieve, except Satoshi Nakamoto.
+14年来，比特币（BTC）的存在仍然令人惊叹，这是一项不可思议的发明。它是互联网上的去中心化货币系统，实现了货币与国家的分离。它就像黄金，但存在于互联网中。这是一项某些人一直在寻求但却没有实现的壮举，只有中本聪（Satoshi Nakamoto）实现了。
 
-However, Bitcoin is a collection of components that were all known in general, and to the men who were researching the subject before January of 2009, the time Bitcoin was launched. 
+然而，比特币是一系列已经广泛知晓的组成部分的集合，而且在2009年1月比特币发布之前，研究这一主题的人们已经了解了这些组成部分。
 
-There is no innovation in Bitcoin’s parts, and, in fact, the majority of their concepts and ideas were years or even centuries old!
+比特币的各部分没有创新，事实上，它们的大部分概念和思想都已经存在数年甚至数个世纪！
 
-In this post we go over the major components of Bitcoin, explain their preexistence, and prepare the stage to explain what was Bitcoin’s true revolutionary invention.
+在本篇文章中，我们将讨论比特币的主要组成部分，解释它们的存在，为解释比特币的真正革命性发明做好准备。
 
-## Peer-to-Peer Networks Already Existed
+## 对等网络已经存在
 
-It could be said that the internet itself is a peer-to-peer network. It was developed in the 1960s and consists of a series of computers that share the same protocol to send messages between each other.
+可以说互联网本身就是一个对等网络。它是在1960年代开发的，由一系列计算机组成，它们共享相同的协议来相互发送消息。
 
-Then, in 1999 the concept of file sharing in a peer-to-peer network was popularized by Napster, which enabled people to share music files over the internet.
+然后，1999年，对等网络中文件共享的概念由Napster普及，使人们能够通过互联网共享音乐文件。
 
-Bitcoin is a global peer-to-peer network of computers that hold the same exact copy of the blockchain, which is the database with the property titles that contains the cryptocurrency.
+比特币是一种全球性的对等计算机网络，这些计算机都拥有区块链的完全相同副本，这是包含加密货币的财产所有权的数据库。
 
-The idea of putting property titles in a peer-to-peer network was known and written about [as early as 1998](https://nakamotoinstitute.org/secure-property-titles/).
+将财产所有权放在对等网络中的想法早在1998年就已经被了解并写出。
 
-## Hard Money Already Existed
+## 基本货币已经存在
 
-Gold is money because it is divisible, portable, and durable, but most importantly because it is scarce.
+黄金之所以成为货币，是因为它具有可分割性、可携带性和耐久性，但最重要的是因为它是稀缺的。
 
-Scarcity is what gives a money its property of hardness. The more scarce the currency is, the harder it gets, and the harder it gets, the more it holds it value over time.
+稀缺性是货币硬度的来源。货币越稀缺，它就越硬，而它越硬，它就越能保持其价值。
 
-This lesson is something that humans had understood for millenia. When the Roman emperors started debasing their money by mixing the gold with lower value metals, they knew what they were doing and its inflationary consequences.
+这一教训是人类几千年来已经了解的。当罗马皇帝开始通过将黄金与低价值金属混合来贬值他们的货币时，他们知道他们在做什么以及它的通货膨胀后果。
 
-When Europe experienced high inflation in the 16th and 17th centuries because of the massive inflow of Spanish silver coins from the new world, they knew what was the source and the cause.
+当16世纪和17世纪的欧洲因来自新大陆的大规模银币涌入而经历高通货膨胀时，他们知道问题的根源和原因。
 
-If a new digital currency were to be created it had to be hard money.
+如果要创建一种新的数字货币，它必须是硬货币。
 
-## Triple Entry Accounting Already Existed
+## 三重记账已经存在
 
-When we are figuring out our budget or keeping track of money flows we may write a single column with the credits and debits. This is what is called “single entry accounting” because each transaction is just one entry in our column.
+当我们在制定预算或跟踪资金流动时，我们可能会写一个只有贷方和借方的单列。这被称为“单一记账”，因为每个交易都只是我们列中的一个输入。
 
-A few hundred years ago, to solve the accounting of more complex organizations, the “double entry accounting” system was developed. This consists of making two entries of the same transaction in two different ledgers, usually as a credit in one account and as a debit in another. This was a significant advance because when the accounts balanced, then they had a higher guarantee of accuracy.
+几百年前，为了解决更复杂的组织的会计问题，开发了“双重记账”系统。这包括在两个不同的分类账中制定同一交易的两个记录，通常一个是借记，另一个是贷记。这是一项重大进步，因为当账户平衡时，它们具有更高的准确性保证。
 
-Bitcoin uses what is called “triple entry accounting” which is to put in the same transaction the initial credit and debit, and to add to them a cryptographic signature to seal them. This increased the security and accuracy of the system even more.
+比特币使用的是所谓的“三重记账”，即在同一交易中放置初始的贷方和借方，并为它们添加一个加密签名以密封它们。这进一步提高了系统的
 
-However, triple entry accounting, the hallmark of Bitcoin’s “[UTXO](https://www.investopedia.com/terms/u/utxo.asp)” system had been proposed by Ian Grig years earlier [in 2005](https://iang.org/papers/triple_entry.html).
+安全性和准确性。
 
-## Fully Replicated Ledgers Already Existed
+然而，三重记账，也就是比特币的“UTXO”系统的特点，早在2005年由Ian Grig提出。
 
-The heart of Bitcoin’s security is the idea that the blockchain must be fully replicated in all participating nodes of the system.
+## 完全复制账本已经存在
 
-The more nodes hold the fully replicated ledger in as different continents, regions, cultures, and countries as possible, the more secure the system is because it becomes practically impossible to tamper with or damage by man or nature.
+比特币安全的核心是区块链必须在系统的所有参与节点中完全复制。
 
-The concept of networks of computers holding redundant copies of the information had been a standard in networking systems since the 1980s.
+拥有完全复制账本的节点越多，分布在不同大陆、地区、文化和国家，系统就越安全，因为几乎不可能通过人为或自然的方式篡改或损害它。
 
-The problem that these networks had was that if as little as 1/3 of the nodes of the system were to fail, then the whole system would fail. This is what was called the [Byzantine Generals Problem](https://lamport.azurewebsites.net/pubs/byz.pdf).
+自20世纪80年代以来，计算机网络系统中存在冗余信息副本的概念一直是一种标准。
 
-## Bit Gold Already Existed
+这些网络所面临的问题是，如果系统中的不到1/3的节点出现故障，整个系统将失败。这就是所谓的“拜占庭将军问题”。
 
-The idea that an object with the same characteristics of gold but inside the internet could theoretically be created was developed by Nick Szabo in early 1998.
+## 比特黄金已经存在
 
-He called his idea “[Bit Gold](https://nakamotoinstitute.org/bit-gold/)” and was inspired by a proof of work system created by Adam Back called [HashCash](http://www.hashcash.org/papers/). 
+可以理论上创建一个在互联网内部具有与黄金相同特性的物品的概念是由Nick Szabo于1998年初开发的。
 
-HashCash made computers do a lot of computational work to create a cryptographic stamp, also called a “proof of work”, that would be attached to an email. As each email would have to be stamped, then it would prevent spam, because whoever wanted to flood the internet with emails would have to spend a lot of computational cycles and electricity doing it.
+他称之为“Bit Gold”，并受到Adam Back创建的名为“HashCash”的工作证明系统的启发。
 
-Nick Szabo’s brilliant idea was that the proof of work cryptographic stamp could be analogous to gold but in the internet. If an ounce of gold requires a lot of work by gold miners to produce, and this makes it scarce, then if a cryptographic stamp requires a lot of work by computers to produce, this makes it scarce as well, hence “digital gold” or “Bit Gold”.
+HashCash通过让计算机执行大量计算工作来创建加密标志，也称为“工作证明”，然后将其附加到电子邮件上。因为每封电子邮件都必须加盖标志，所以它可以防止垃圾邮件，因为任何想要通过互联网发送大量电子邮件的人都必须花费大量的计算周期和电力。
 
-The heart of Bitcoin’s monetary system is this Bit Gold.
+Nick Szabo的杰出想法是，工作证明的加密标志可以类似于互联网中的黄金。如果一盎司黄金需要黄金矿工付出大量努力来生产，这使其变得稀缺，那么如果加密标志需要计算机付出大量努力来生产，那么这也使它稀缺，因此称为“数字黄金”或“Bit Gold”。
 
-## B-money Already Existed
+比特币货币系统的核心是这个Bit Gold。
 
-Based on the idea of Nick Szabo to create Bit Gold, Wei Dai thought of a system that would create coins backed by Bit Gold in a peer-to-peer network.
+## B-money已经存在
 
-He called his idea “B-money” and the way it worked was in the following steps:
+基于Nick Szabo创建Bit Gold的想法，Wei Dai想出了一种在对等网络中创建以Bit Gold支持的硬币的系统。
 
-1. Some computers in the peer-to-peer network work to produce a cryptographic stamp using a lot of computing power and electricity
+他称他的想法为“B-money”，它的工作方式如下：
 
-2. Then, they send the stamp to the rest of the network for verification that the work was done
+1. 对等网络中的一些计算机通过使用大量计算能力和电力来生成加密标志
 
-3. When the rest of the nodes in the system verify that the stamp is legitimate, then they pay the producers of the stamp a set number of newly created coins inside the system
+2. 然后，他们将标志发送给网络的其余部分，以验证工作是否已完成
 
-As you may have realized, the above is how Bitcoin works! However, Wei Dai’s [paper about B-money](http://www.weidai.com/bmoney.txt) was published in late 1998!
+3. 当系统中的其余节点验证标志是合法的时，他们会向标志的制作者支付系统内新创建的一定数量的硬币
 
-## Trust Minimization Already Existed
+正如你可能已经意识到的，上述就是比特币的运作方式！然而，Wei Dai于1998年末发表了关于B-money的[论文](http://www.weidai.com/bmoney.txt)！
 
-The whole point of the blockchain industry is to reduce trust in third parties because trusted third parties tend to abuse their power.
+## 信任最小化已经存在
 
-Indeed, Satoshi Nakamoto mentioned trust minimization [14 times](https://etherplan.com/2020/02/29/satoshi-nakamoto-mentioned-trust-minimization-14-times-in-the-bitcoin-white-paper/10210/) in the Bitcoin white paper!
+整个区块链行业的目标是减少对第三方的信任，因为可信赖的第三方往往滥用其权力。
 
-The idea is that the property of the coins, meaning the ledger with the accounts and balances, should not be under the custody of a trusted institution, and that the supply or monetary policy of the cryptocurrency should not be dictated by a group of people or government.
+事实上，Satoshi Nakamoto在比特币白皮书中提到了信任最小化[14次](https://etherplan.com/2020/02/29/satoshi-nakamoto-mentioned-trust-minimization-14-times-in-the-bitcoin-white-paper/10210/)！
 
-The full replication of the Bitcoin blockchain in thousands of computers worldwide, and that the network is totally decentralized makes it trust minimized because there is no party that can tamper with the ledger or change its monetary policy.
+其想法是，货币的属性，即账户和余额的分类账，不应该由受信任的机构保管，而加密货币的供应或货币政策也不应该由一组人或政府来决定。
 
-However, this concept and goal of trust minimization had already been developed and [written about](https://nakamotoinstitute.org/trusted-third-parties/) by Nick Szabo in 2001!
+比特币区块链在全球数千台计算机中的完全复制以及网络的完全去中心化使其信任最小化，因为没有任何一方可以篡改分类账或更改其货币政策。
 
-## So, What Was Bitcoin’s Invention?
+然而，这一信任最小化的概念和目标已经在2001年由Nick Szabo开发和[撰写](https://nakamotoinstitute.org/trusted-third-parties/)！
 
-This is an excellent question that many asked themselves in the [early days](https://unenumerated.blogspot.com/2011/05/bitcoin-what-took-ye-so-long.html)!
+那么，比特币的真正发明是什么？
 
-The amazing invention by Satoshi Nakamoto was not hard money, peer-to-peer networking, triple entry accounting, trust minimization, digital gold, a cryptocurrency, or a fully replicated ledger. 
+这是一个很好的问题，许多人在[早期曾问过自己](https://unenumerated.blogspot.com/2011/05/bitcoin-what-took-ye-so-long.html)！
 
-His invention was what is called “Nakamoto Consensus” which is HOW all these parts WORKED TOGETHER.
+Satoshi Nakamoto的不可思议的发明不是硬货币、对等网络、三重记账、信任最小化、数字黄金、加密货币或完全复制账本。他的发明是所谓的“中本聪共识”，即所有这些部分如何协同工作。
 
-We will explain how Nakamoto Consensus, also known as “Proof of Work”, works in the next class!
+我们将在下一课中解释中本聪共识，也称为“工作证明”，是如何工作的！
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
