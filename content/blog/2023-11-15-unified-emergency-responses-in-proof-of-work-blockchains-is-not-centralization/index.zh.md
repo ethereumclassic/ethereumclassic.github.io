@@ -50,7 +50,7 @@ When the patch is announced by core developers, then the whole ecosystem of thes
 
 **The 2013 Involuntary Fork:** In March 11 of 2013 some nodes in the Bitcoin network started to work on a different blockchain than the rest of the nodes, this is what is called a network split. The Bitcoin node software had been upgraded from version 0.7 to 0.8 but not all operators had done the upgrade. Because of a glitch in the 0.8 version, all the nodes and miners with that version split from the mainnet. After several alerts and alarms on social media, core developers started to work on a fix, and persuaded all network users to downgrade their nodes to the 0.7 version, fixing the failure.
 
-## Example Emergency Responses in Ethereum Classic
+## Example of Emergency Responses in Ethereum Classic
 
 **The Gas Reprice of 2016:** In October of 2016 a series of attacks on Ethereum Classic started to happen due to an inadequately low cost of certain operation codes in the virtual machine. After 10 to 14 days of development and ecosystem coordination, the fix to rebalance the gas costs were introduced by core developers by way of a hard fork on block 2,500,000.
 
