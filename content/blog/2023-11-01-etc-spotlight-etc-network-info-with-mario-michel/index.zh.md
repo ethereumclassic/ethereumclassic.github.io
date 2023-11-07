@@ -1,5 +1,5 @@
 ---
-title: "聚焦ETC：与Mario Michel讨论ETC-Network.Info"
+title: "ETC 生态系统聚焦：Mario Michel 的 ETC-Network.Info"
 date: 2023-11-01
 author: Donald McIntyre
 contributors: ["Donald McIntyre"]

@@ -1,3 +1,30 @@
+- date: 2023-10-26
+  title: HebeSwap Oracle
+  description: HebeSwap Oracle is a middleware that integrates off-chain data into the Ethereum Classic (ETC) blockchain, enhancing smart contract capabilities. It provides a bridge between external data sources and smart contracts, enabling real-time data utilization.
+  image: ./images/231026-1611-hebeswap-oracle.png
+  type: finance
+  author: HebeBlock
+  authorLink: https://hebeblock.com
+  verifiedContract: https://etc.blockscout.com/address/0x148A40DDb8cb3edd76319E81Be3fE6C072853b2a?tab=contract
+  openSource: https://github.com/HebePlatform/Oracle
+  links:
+    - name: Launch App
+      link: https://oracle.hebeswap.com
+    - name: github
+      link: https://github.com/HebePlatform/Oracle
+      icon: github
+    - name: twitter
+      link: https://twitter.com/EtcHebeBlock
+      icon: twitter
+    - name: telegram
+      link: https://t.me/hebeOffice
+      icon: telegram
+    - name: discord
+      link: https://discord.com/invite/HFBUJ3AKFT
+      icon: discord
+    - name: medium
+      link: https://medium.com/@hebeblock
+      icon: medium
 - date: 2023-10-06
   title: ETCMW MostWanted
   description: "ETC Most Wanted project provides opportunities to earn, build, play and socialize for all Ethereum Classic believers. ETCMW NFT is your key to all project infrastructure, it represents onchain as an enhanced ERC721 tokens with new existing features. Each ETCMW is completely unique, with a set of distinguishing traits and has one of the following roles: Common, Investor, Miner or Dev."
