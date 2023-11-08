@@ -4,7 +4,7 @@ date: 2023-11-08
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["philosophy"]
-linkImage: ./banner.png
+linkImage: ./banner-4.png
 ---
 
 ---
@@ -14,7 +14,7 @@ linkImage: ./banner.png
 
 ---
 
-![](./banner.png)
+![](./banner-4.png)
 
 We have produced many articles and videos explaining the benefits of proof of work (POW) and why it is a truly decentralized technology.
 
