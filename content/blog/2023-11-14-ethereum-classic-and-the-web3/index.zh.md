@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic and the Web3"
+title: "以太坊经典和Web3"
 date: 2023-11-14
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,82 +8,82 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aVcb8XfaODY?si=jK7WjtUGmauvahEf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-The promise of the blockchain industry is decentralization of technological systems and networks so that people and businesses may continue conducting their affairs while depending less on trusted third parties.
+区块链行业的承诺是去中心化技术系统和网络，以便人们和企业可以继续开展业务，同时不再过分依赖可信任的第三方。
 
-Trusted third parties; such as governments, corporations, and special interests; manage nearly all systems in the world through data centers and cloud services and are security holes because they tend to abuse the trust that has been deposited in them.
+可信任的第三方，例如政府、公司和特殊利益团体，通过数据中心和云服务管理世界上几乎所有的系统，它们是安全漏洞，因为它们倾向于滥用人们对它们的信任。
 
-The Web3 is a vision of a decentralized web and software applications using the capabilities of the blockchain industry.
+Web3 是一个分散式网络和软件应用程序的愿景，利用了区块链行业的能力。
 
-In the next sections we will explain what is the Web3, what is Ethereum Classic (ETC), how the Web3 will work on ETC and the blockchain sector in general, and why apps on ETC will be the most secure in the world.
+在接下来的部分中，我们将解释什么是 Web3，什么是以太经典（ETC），Web3 将如何在 ETC 和整个区块链行业中运作，以及为什么在 ETC 上的应用程序将是全球最安全的。
 
-## What Is the Web3?
+## 什么是 Web3？
 
-Websites and apps today use front end software code to deliver the user experience, back end code to perform the core operations and services of the applications, images, document files, and databases to store the information of users and system states.
+今天的网站和应用程序使用前端软件代码提供用户体验，使用后端代码执行应用程序的核心操作和服务，使用图像、文档文件和数据库存储用户和系统状态的信息。
 
-All these components are usually hosted and executed in centralized data centers or cloud services with servers controlled by few people.
+所有这些组件通常托管和在由少数人控制的集中数据中心或云服务中执行。
 
-Using the blockchain industry paradigm of decentralization, the future of websites and apps is that they will store and execute these components in decentralized systems.
+使用区块链行业的去中心化范例，网站和应用程序的未来将在分散式系统中存储和执行这些组件。
 
-For example, the images and files will be stored in file storage blockchains, the databases will be stored in database storage blockchains, the front end will be stored in distributed code networks, and the back end code will be stored and executed in smart contract blockchains such as ETC.
+例如，图像和文件将存储在文件存储区块链中，数据库将存储在数据库存储区块链中，前端将存储在分布式代码网络中，后端代码将存储和执行在智能合同区块链中，如 ETC。
 
-## What Is ETC?
+## 什么是 ETC？
 
-To give a glimpse of how these systems will work, an explanation of how ETC works will be illustrative.
+为了简要说明这些系统将如何运作，解释一下 ETC 的工作原理将有助于理解。
 
-Ethereum Classic is a blockchain that holds accounts, balances, and software programs. Both the ledger, with the accounts and balances, and the software programs are copied in all participating nodes in the network. This means that where in centralized systems everything is under the control of one entity in their servers, in ETC the ledger and the software programs are really replicated in many computers around the world, which are owned by many people of different regions, cultures, nations, and languages. 
+以太经典是一个区块链，保存账户、余额和软件程序。账户和余额的分类帐以及软件程序都复制在网络中的所有参与节点中。这意味着在集中式系统中，一切都在一个实体的服务器控制下，而在 ETC 中，分类帐和软件程序实际上在世界各地许多不同地区、文化、国家和语言的人们拥有的许多计算机中复制。
 
-A blockchain is a system that operates as described above, and when the software programs are stored in it, they become decentralized. These decentralized programs are what are called “smart contracts”.
+区块链是如上所述运作的系统，当软件程序存储在其中时，它们变得分散化。这些分散化的程序被称为“智能合同”。
 
-This level of decentralization guarantees that no one entity or group may tamper or arbitrarily change or censor the accounts, balances, and software programs in ETC.
+这种程度的去中心化保证没有一个实体或团体可以篡改或任意更改或审查 ETC 中的账户、余额和软件程序。
 
-## How Will the Web3 Work With ETC?
+## Web3 如何与 ETC 协同工作？
 
 ![](./banner.png)
 
-So, the way the Web3 will use ETC is that the Ethereum Classic blockchain will host the backend critical security components of website and applications. 
+因此，Web3 将使用以太经典区块链来托管网站和应用程序的关键后端安全组件。
 
-ETC will not really be used for file storage, heavy databases, or front end code.
+ETC 实际上不会用于文件存储、大型数据库或前端代码。
 
-As ETC is a highly secure smart contracts blockchain, because it uses proof of work as its consensus mechanism, the most appropriate use of its capabilities by websites and apps will be for such use cases as storage of treasuries and the rules to manage those treasuries.
+由于以太经典使用工作证明作为其共识机制，因此它是一个高度安全的智能合同区块链，网站和应用程序最适合利用其能力的用例将包括存储资金库和管理这些资金库的规则。
 
-Web3 will also use ETC for other highly secure back end functions such as for decentralized autonomous organizations (DAOs), property registries, and storing high value NFTs that may represent digital or real world objects, such as real estate or vehicles.
+Web3 还将使用 ETC 用于其他高度安全的后端功能，例如分散自治组织（DAO）、财产登记和存储代表数字或实际世界对象的高价值 NFT，例如房地产或车辆。
 
-## How Will the Web3 Work With the Blockchain Industry in General?
+## Web3 如何与整个区块链行业协同工作？
 
-If the Web3 will use ETC for backend code only, then what will it use to store and manage the rest of the components? 
+如果 Web3 仅用于后端代码，那么它将用于存储和管理其他组件的内容是什么呢？
 
-The blockchain industry is a collection of systems that, at their core, replicate all the information in as many nodes as possible to achieve decentralization, which has the benefits of trust minimization.
+区块链行业是一组系统，从本质上来说，它会在尽可能多的节点中复制所有信息，以实现去中心化，从而获得了最小化信任的好处。
 
-In the image below you may see how the industry will be layered. People will use their wallets to connect to Web3 and apps, then those apps will use the best blockchains and networks to run their components for their specific use cases.
+在下图中，您可以看到该行业将被分层。人们将使用他们的钱包连接到 Web3 和应用程序，然后这些应用程序将使用最佳区块链和网络来运行其特定用例的组件。
 
-However, today, the majority of websites used are centralized and the decentralized applications’ backends are stored exclusively in one blockchain such as Ethereum.
+然而，今天，使用的大多数网站都是集中的，分散式应用程序的后端仅存储在一个区块链中，例如以太坊。
 
-What will happen in the future is that websites and applications will use multiple blockchains and industry systems to provide the complete experience to users and to have ALL their components decentralized.
+未来将发生的是，网站和应用程序将使用多个区块链和行业系统，以为用户提供完整的体验，并将所有组件都去中心化。
 
-This means that, as said before, the front end code will be hosted in a specialized network, the files and images in another, the databases in another, and the backend code in ETC.
+这意味着，正如之前所说，前端代码将托管在专门的网络中，文件和图像将托管在另一个网络中，数据库将托管在另一个网络中，后端代码将托管在 ETC 区块链中。
 
 ![](./1.png)
 
-## Why Applications in ETC Will Be the Most Secure Apps in the World
+## 为什么 ETC 中的应用程序将成为世界上最安全的应用程序
 
-For the very high security use cases, the decentralized web and apps will not be so distributed, though.
+对于需要非常高安全标准的用例来说，分散式网络和应用程序将不会如此分散。
 
-There will be applications that will need very high security standards and those will only be provided by large proof of work networks such as ETC.
+将会有一些应用程序需要非常高的安全标准，而这些标准只会由大型工作证明网络，如 ETC，提供。
 
-Ethereum Classic is the environment where the most secure applications in the world will exist.
+以太经典是世界上最安全应用程序存在的环境。
 
-This is because it is a proof of work blockchain, it has a fixed monetary policy, and it is programmable with smart contracts. These three components combined in the same system, and the fact that it is the largest blockchain in the world with this design, provide the highest level of decentralization, thus trust minimization, thus security for the Web3.
+这是因为它是一个工作证明区块链，具有固定的货币政策，可以通过智能合同进行编程。这三个组件结合在同一系统中，以及它是世界上最大的采用这种设计的区块链，提供了最高水平的去中心化，从而最小化了信任，从而提高了Web3的安全性。
 
-For this kind of function, users will use their hardware wallets to interact with high security apps, and the apps will be simple user interfaces, probably locally hosted apps in personal computers or mobile devices, and will interact directly with ETC only.
+对于这种类型的功能，用户将使用他们的硬件钱包与高安全性的应用程序互动，这些应用程序将是简单的用户界面，可能是在个人计算机或移动设备上本地托管的应用程序，并且将仅直接与 ETC 互动。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC: https://ethereumclassic.org
