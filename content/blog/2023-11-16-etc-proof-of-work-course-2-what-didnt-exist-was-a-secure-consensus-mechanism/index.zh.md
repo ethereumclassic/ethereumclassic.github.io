@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 2. What Didn’t Exist Was a Secure Consensus Mechanism"
+title: "工作量证明课程：第2部分. 安全的共识机制的缺少"
 date: 2023-11-14
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,72 +8,76 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PukOAOwaCac?si=DpO9FpEQZ8RlN59S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-In the previous class, 1, we explained that all the components of Bitcoin already exited. So, what was Bitcoin’s invention?
+在前面的第1节课中，我们解释了比特币的所有组成部分都已存在。那么，比特币的发明是什么呢？
 
-As we wrote, the amazing invention by Satoshi Nakamoto was not hard money, peer-to-peer networking, triple entry accounting, trust minimization, digital gold, a cryptocurrency, or a fully replicated ledger. 
+正如我们所写的，中本聪的惊人发明不是硬通货、点对点网络、三重账簿会计、最小化信任、数字黄金、加密货币或完全复制的总账簿。
 
-His invention was what is called “Nakamoto Consensus” which is HOW all these parts WORKED TOGETHER.
+他的发明是所谓的“中本聪共识”，即所有这些部分如何协同工作的方式。
 
 ![](./1.png)
 
-The brilliant idea was that the proof of work (POW) cryptographic stamp not only could be used to create the analogy of gold on the internet, called “Bit Gold”, but that the information of the POW itself could be a focal point for all the nodes of the network globally to be on the same exact state of the database, all at the same time, in their complete isolation, without the need to consult with any other source or authority. This was the key to decentralization and the magnitude of proof of work!
+在上一节课中，我们解释了比特币的所有组成部分都已存在。那么，比特币的发明是什么呢？
 
-## What Is a Consensus Mechanism?
+正如我们所写的，中本聪的惊人发明不是硬通货、点对点网络、三重账簿会计、最小化信任、数字黄金、加密货币或完全复制的总账簿。
 
-The idea of blockchains is to replicate the same information on all nodes of the system. The problem was how machines which were controlled by different people in different continents, regions, and cultures could agree on which is the correct information to replicate and store locally.
+他的发明是所谓的“中本聪共识”，即所有这些部分如何协同工作的方式。
 
-This was because just by sending the information was not enough security because if only 1/3 of the participating machines in the system cheated, then the communication would fail.
+## 什么是共识机制？
 
-A consensus mechanism is a way for computers in a peer-to-peer network to distribute information to each other and to reach a consensus on the same exact state of the data every set amount of time, which is 10 minutes in the case of Bitcoin or 13 seconds in the case of Ethereum Classic (ETC).
+区块链的理念是在系统的所有节点上复制相同的信息。问题是，由不同地区、区域和文化的不同人控制的计算机如何就要复制和本地存储的正确信息达成一致。
 
-Satoshi’s invention of “Nakamoto Consensus”, which will be explained in detail in classes 3, 4, and 5, was a new consensus mechanism that had a higher security level than what was available at the time.
+这是因为仅仅发送信息并不足够安全，因为如果系统中参与的计算机中有三分之一的机器作弊，通信将失败。
 
-## POW As an Analogy of Gold
+共识机制是对等网络中的计算机相互分发信息并在每一定时间内达成数据的相同确切状态的一种方法，比特币的情况是每10分钟一次，以太坊经典（ETC）的情况是每13秒一次。
 
-So, the way the discovery progressed was that HashCash was invented in 1997 to prevent spam, and it used proof of work to make machines work every time they sent an email.
+中本聪的“中本聪共识”发明，将在第3、4和5课中详细解释，是一种比当时可用的共识机制更安全的新共识机制。
 
-Then, as we explained in the last class, Nick Szabo’s idea was that the proof of work cryptographic stamp itself could be analogous to gold but in the internet. 
+## 作为黄金类比的工作证明（POW）
 
-If an ounce of gold requires a lot of work by gold miners to produce, and this makes it scarce and valuable, then if a cryptographic stamp requires a lot of work by computers to produce, this should make it scarce and valuable as well, hence “digital gold” or “Bit Gold”, as Szabo called it.
+因此，这一发现的进展方式是，HashCash于1997年被发明出来，以防止垃圾邮件，它使用工作证明使机器在每次发送电子邮件时都要进行工作。
 
-The heart of Bitcoin’s monetary system is this Bit Gold, and the work to create Bit Gold would be the key to consensus.
+然后，正如我们在上一课中解释的，尼克·萨博的想法是，工作证明密码戳本身可以类比于黄金，但在互联网中。
 
-## Bit Gold As the Focal Point
+如果一盎司黄金需要黄金矿工大量劳动才能生产，这使得黄金稀缺且有价值，那么，如果加密戳需要计算机大量工作才能生成，这也应该使它稀缺且有价值，因此尼克·萨博称之为“数字黄金”或“比特黄金”。
 
-The way that Bit Gold, or the proof of work cryptographic stamp, works as a consensus mechanism is by contrast.
+比特币货币系统的核心是这个比特黄金，而创建比特黄金的工作将是达成共识的关键。
 
-If you were to receive several bars of gold, and all were of the same size and looked the same, but all except one were made of gold painted wood, then it would be very easy for you to know which is the real gold bar. Just by feeling the weight it would be enough of a hint to differentiate the dishonest vs the honest gold bars.
+## 比特黄金作为焦点
 
-In the same way, all computers in a proof of work blockchain such as Bitcoin may constantly receive blocks from several sources of which the majority may be imposters trying to trick them, but they always know which is the correct block every round just by checking the proof of work cryptographic hash. This is how Bit Gold becomes the focal point of consensus in the system.
+比特黄金或工作证明密码戳作为共识机制的工作方式是通过对比。
 
-## What Is to Be on the Same Exact State?
+如果你收到了几根黄金棒，它们的大小都相同，看起来都一样，但除了一根以外，其他都是木制的金条，那么很容易知道哪一根是真正的黄金条。仅凭重量就足以区分不诚实的与诚实的黄金条。
 
-As we explained in a previous section, the idea of blockchains is to replicate the same information on all nodes of the system to reach a consensus on the same exact state of the data every set amount of time.
+同样，比特币等工作证明区块链中的所有计算机可能不断从多个来源接收区块，其中大多数可能是试图欺骗它们的冒名顶替者，但它们总是通过检查工作证明密码散列来确定每一轮的正确区块。这是比特黄金如何成为系统中共识的焦点。
 
-By “data” it is meant the ledger with the accounts and balances of the cryptocurrency. This means that all the machines that work on the Bitcoin blockchain hold the same exact copy of the accounts and balances of all users.
+## 什么是相同的确切状态？
 
-To be on the same exact state means that every 10 minutes in Bitcoin, all the nodes in the system have their databases updated with the same exact new block, therefore they all have the same exact number of blocks, with the same exact copy of all the account and balance history.
+正如我们在前一节中所解释的，区块链的理念是在系统的所有节点上复制相同的信息，以便在每一定时间内达成数据的相同确切状态。
 
-## Why Is POW Secure?
+所谓的“数据”是指加密货币的账户和余额总账簿。这意味着所有工作在比特币区块链上的计算机都持有完全相同的所有用户的账户和余额历史的副本。
 
-The full replication of the data explained in the previous section is the central security strategy of Bitcoin as it guarantees a level of redundancy of the information that is very difficult to tamper with or destroy by man or nature.
+拥有相同确切状态意味着每10分钟在比特币中，系统中的所有节点都会将其数据库更新为相同确切的新区块，因此它们都具有相同数量的区块，以及相同的账户和余额历史的副本。
 
-The key contribution of proof of work, which was the key to the creation of Bitcoin and the whole blockchain industry, was that it enabled consensus between all machines with a higher threshold for attackers to be able to interfere with the integrity of the data. 
+## 为什么工作证明（POW）安全？
 
-To disrupt Bitcoin, more than 50% of the existing computing base or the same or larger computing base would have to be built to create attacking blocks to trick the rest of the network into accepting them.
+在前一节中解释的数据的完全复制是比特币的中央安全策略，因为它保证了信息的冗余程度，使其难以被人为或自然因素破坏。
 
-The other feature was that all the nodes, in their complete isolation, without the need to consult with any other source or authority, could reach this consensus on the same copy of the data. This is the key to decentralization.
+工作证明的关键贡献，也是比特币和整个区块链行业的关键，是它实现了所有机器之间的共识，同时提高了攻击者干扰数据完整性的门槛。
 
-In the next few classes we will explain how all of this works!
+要破坏比特币，必须构建超过50%的现有计算基础，或者构建相同或更大的计算基础，以创建攻击区块以欺骗网络的其余部分接受它们。
+
+另一个特征是，所有节点，在完全隔离的情况下，无需与任何其他来源或权威咨询，就能在相同数据副本上达成共识。这是分散化的关键。
+
+在接下来的几节课中，我们将解释所有这些是如何运作的！
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC: https://ethereumclassic.org
