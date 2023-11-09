@@ -1,5 +1,5 @@
 ---
-title: "ETC Spotlight: ETC-Network.Info With Mario Michel"
+title: "ETC Ecosystem Spotlight: ETC-Network.Info With Mario Michel"
 date: 2023-11-01
 author: Donald McIntyre
 contributors: ["Donald McIntyre"]
