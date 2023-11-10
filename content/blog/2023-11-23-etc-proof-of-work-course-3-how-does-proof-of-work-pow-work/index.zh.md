@@ -36,7 +36,11 @@ As blockchains are chains of blocks of data, the blocks are related to each othe
 
 ![](./2.png)
 
-The second step of the process is to pass the data described in the previous step through a cryptographic hashing algorithm. When this is done, a new stamp or hash is generated for this particular block. These hashes are very large hexadecimal numbers that look like this: `686f746a95b6f836d7d70567c302c3f9ebb5ee0def3d1220ee9d4e9f34f5e131`
+The second step of the process is to pass the data described in the previous step through a cryptographic hashing algorithm. When this is done, a new stamp or hash is generated for this particular block. These hashes are very large hexadecimal numbers that look like this: 
+
+`
+686f746a95b6f836d7d70567c302c3f9ebb5ee0def3d1220ee9d4e9f34f5e131
+`
 
 ## 3. Hitting the Target
 
