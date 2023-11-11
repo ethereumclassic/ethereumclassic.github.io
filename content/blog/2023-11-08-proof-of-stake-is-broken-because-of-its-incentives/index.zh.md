@@ -4,7 +4,7 @@ date: 2023-11-08
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["philosophy"]
-linkImage: ./banner.png
+linkImage: ./banner-4.png
 ---
 
 ---
@@ -14,7 +14,7 @@ linkImage: ./banner.png
 
 ---
 
-![](./banner.png)
+![](./banner-4.png)
 
 我们已经制作了许多文章和视频，解释了工作证明（POW）的好处，以及为什么它是一种真正去中心化的技术。
 
