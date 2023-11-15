@@ -36,7 +36,7 @@ In the following sections we will explain how to connect to your DappNode using 
 
 If you already got and set up your DappNode to run your ETC nodes, then access it by connecting to its WiFi network again, and then typing “my.dappnode” on your browser. When the DappNode user interface (UI) opens, you will see the DappNode dashboard with your ETC nodes running.
 
-## 2. Go to the VPM Tab on the Menu and Select the WireGuard Option
+## 2. Go to the VPN Tab on the Menu and Select the WireGuard Option
 
 ![](./2.png)
 
