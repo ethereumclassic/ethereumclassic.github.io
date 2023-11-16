@@ -1,6 +1,6 @@
 ---
 title: "ETC Proof of Work Course: 2. What Didn’t Exist Was a Secure Consensus Mechanism"
-date: 2023-11-14
+date: 2023-11-16
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["series", "education"]
