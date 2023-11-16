@@ -76,7 +76,7 @@ Once downloaded and installed, open your WireGuard application on your computer.
 
 ![](./8.png)
 
-Once opened, you will see the WireGuard icon on your desktop screen above or below depending on your operating system. Click on it and select “Manage Tunnels”. Next, you will see the WireGuard box to manage tunnels. Click on the “+” button on the box, or on the option that will let you add a tunnel, but NOT on “Import tunnel(s) from file” button.
+Once opened, you will see the WireGuard icon on your desktop screen above or below depending on your operating system. Click on it and select “Manage Tunnels”. Next, you will see the WireGuard box to manage tunnels. Click on the “+” button on the box, or on the option that will let you add a tunnel, but NOT on the “Import tunnel(s) from file” button.
 
 ## 9. See the WireGuard New Tunnel Form 
 
@@ -100,7 +100,7 @@ When the credentials section opens, then copy that text and go back to the WireG
 
 ![](./12.png)
 
-On the WireGuard form, delete whatever text was there before and paste the new credentials for your DappNode. Also, name this channel in the field above on the form, and them press “Save”. In our case we named our channel “dappnode_admin” and we pasted our credentials, but, for this example, we obfuscated our channel data for security reasons.
+On the WireGuard form, delete whatever text was there before and paste the new credentials for your DappNode. Also, name this channel in the field above on the form, and then press “Save”. In our case we named our channel “dappnode_admin” and we pasted our credentials, but, for this example, we obfuscated our channel data for security reasons.
 
 ## 13. Activate Your Channel
 
