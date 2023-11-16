@@ -4,13 +4,13 @@ date: 2023-11-29
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["series", "education"]
-linkImage: ./banner.png
+linkImage: ./banner1.png
 ---
 
 ---
 **You can listen to or watch this video here:**
 
-[video]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/owicpaMmutg?si=BfdV1tk7bf4bvuMF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
