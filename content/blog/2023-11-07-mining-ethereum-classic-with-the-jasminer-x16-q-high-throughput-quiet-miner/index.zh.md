@@ -4,7 +4,7 @@ date: 2023-11-07
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["guide"]
-linkImage: ./banner.png
+linkImage: ./banner-1.png
 ---
 
 ---
