@@ -497,3 +497,6 @@ items:
       CoinMarketCap Markets List:
         __name: CoinMarketCap Markets List
         __link: https://coinmarketcap.com/currencies/ethereum-classic/markets/
+      NOWPayments:
+        __name: NOWPayments
+        __link: https://nowpayments.io/
