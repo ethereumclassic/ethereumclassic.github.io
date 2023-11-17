@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 4. Why POW Based Nakamoto Consensus Is Secure and Complete"
+title: "ETC工作证明课程：4. 为什么基于POW的中本聪共识是安全和完整的"
 date: 2023-11-30
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,76 +8,76 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eprtLWC_QhA?si=moO_gymG2WBK_GUD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-In the previous class, 3, we explained how Proof of Work (POW) works, but that it is only a component of the general consensus mechanism technology that POW blockchains such as Bitcoin (BTC) and Ethereum Classic (ETC) use.
+在上一堂课，第3节，我们解释了工作证明（POW）的工作原理，但指出这仅仅是POW区块链（如比特币（BTC）和以太坊经典（ETC））使用的一般共识机制技术的组成部分。
 
-We described the four steps of the POW process and explained that the competition between miners is what increases the computer power of the network, and that this growth in computing power is what makes the system more secure and valuable.
+我们描述了POW过程的四个步骤，并解释了矿工之间的竞争是如何增加网络计算能力的，而这种计算能力的增长是使系统更安全和有价值的原因。
 
-In this class, we will explain the broader Nakamoto Consensus design, describe each step (which are also four), and then write about its features and benefits.
+在这一课中，我们将解释更广泛的中本聪共识设计，描述每个步骤（也是四个步骤），然后写一些关于其特征和优势的内容。
 
-## The Four Steps of Nakamoto Consensus
+## 中本聪共识的四个步骤
 
 ![](./1.png)
 
-The four steps of the Nakamoto Consensus mechanism are the reception of new transactions, block building by miners, transmission of the blocks to the rest of the network, and block verification by node operators.
+中本聪共识机制的四个步骤是接收新交易、矿工构建区块、将区块传输到网络的其余部分以及节点操作员验证区块。
 
-## 1. Reception of New Transactions
+## 1. 接收新交易
 
 ![](./2.png)
 
-A proof of work blockchain constantly receives transactions from users worldwide. When nodes in the network receive these transactions, they immediately turn around and re-send them to the rest of the nodes so they are fully replicated across the whole network.
+工作证明区块链不断接收来自全球用户的交易。当网络中的节点接收到这些交易时，它们立即将其重新发送到网络的其余节点，以便在整个网络中完全复制。
 
-## 2. Miners Group Transactions Into Batches and Build Blocks
+## 2. 矿工将交易分组并构建区块
 
 ![](./3.png)
 
-A subgroup of the participating machines in the system are what are called miners. When miners receive new transactions, they group them into batches and build the blocks doing a lot of work (hence “proof of work”) spending a lot of capital in infrastructure and electricity. (To learn how POW works, please see class 3.)
+系统中参与的机器的一个子组被称为矿工。当矿工收到新交易时，他们将其分组并构建区块，通过大量工作（因此称为“工作证明”）在基础设施和电力方面花费大量资金。 （要了解POW的工作原理，请参见第3节。）
 
-## 3. Finished Blocks Are Sent to Verifying Nodes
+## 3. 完成的区块被发送到验证节点
 
 ![](./4.png)
 
-When miners produce blocks, they immediately send them to the rest of the network for verification. As miners are competing with each other, it is imperative for them for the rest of the network to acknowledge their newly created blocks as soon as possible in case competing blocks are propagating across the network.
+当矿工产生区块时，他们立即将其发送到网络的其余部分进行验证。由于矿工彼此竞争，因此对于网络的其余部分尽快承认其新创建的区块是至关重要的，以防竞争区块正在网络中传播。
 
-## 4. Nodes Verify Blocks, Add Them to the Blockchain, And Pay Miners
+## 4. 节点验证区块，将其添加到区块链中，并支付矿工
 
 ![](./5.png)
 
-When the rest of the network receives the blocks, they verify them, including all transactions and that the cryptographic stamp was correct, and then they add the block as the latest one in the chain. As blocks are verified, they pay the winning miner the reward for that specific round.
+当网络的其余部分接收到区块时，它们验证区块，包括所有交易和加密戳是否正确，然后将该区块添加为链中的最新区块。随着区块的验证，它们向获胜的矿工支付该特定轮次的奖励。
 
-## What Are the Features And Benefits of Nakamoto Consensus?
+## 中本聪共识的特点和优势是什么？
 
-The economic model described above has been working with 99%+ uptime in Bitcoin since 2009 and in ETC since 2014. It is a perfect, balanced, decentralized method that has worked for years.
+上述经济模型自2009年比特币诞生以来一直在99%以上的正常运行，并且自2014年以太坊经典以来也一直如此。这是一个完美的、平衡的、分散的方法，已经运行多年。
 
-The benefits of proof of work based Nakamoto Consensus are decentralization, permissionlessness, and censorship resistance.
+基于工作证明的中本聪共识的优势包括分散化、无需许可和抗审查。
 
-Other benefits we have identified are:
+我们还确定的其他好处包括：
 
-**Survivability:** Because of the POW based security in ETC, accounts, balances, and smart contracts will survive in the long term.
+**生存能力：** 由于ETC基于POW的安全性，账户、余额和智能合约将在长期内保持存在。
 
-**Unstoppability:** In ETC, currency transfers and decentralized applications are unstoppable.
+**不可阻挡：** 在ETC中，货币转移和去中心化应用是无法阻挡的。
 
-**Uncompromisable:** Accounts, balances, and decentralized applications cannot be compromised as in traditional systems.
+**不可妥协：** 账户、余额和去中心化应用程序无法像传统系统中那样被妥协。
 
-**Uncapturable:** ETC cannot be captured by government, corporations, or special interests.
+**不可俘获：** ETC不能被政府、公司或特殊利益所俘获。
 
-We will explain how all this is accomplished in class 7!
+我们将在第7节中解释所有这些是如何实现的！
 
-## How Does Nakamoto Consensus Manage Hashrate Growth?
+## 中本聪共识如何管理算力增长？
 
-As hashrate grows in a proof of work blockchain, blocks get faster, if blocks get faster then the money is printed faster and the database gets bloated quickly, compromising security.
+随着工作证明区块链的算力增长，区块的速度加快，如果区块速度加快，那么货币的印刷速度就会加快，数据库会迅速膨胀，从而危及安全性。
 
-There had to be a method to regulate the timing of block creation not only when hashrate increased, but also when it decreased due to market conditions.
+必须有一种方法来调节区块创建的时间，不仅在算力增加时，而且在由于市场条件而减少时。
 
-The method created by Satoshi Nakamoto to accomplish this stabilization is something called the “difficulty adjustment” which we will explain in the next class, 5!
+中本聪创造的用于实现这种稳定的方法被称为“难度调整”，我们将在下一课，第5节中解释。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
