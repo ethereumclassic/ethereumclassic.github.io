@@ -1,5 +1,5 @@
 ---
-title: "What Is a 51% Attack?"
+title: "什么是51%攻击?"
 date: 2023-11-21
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听本次内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9z5emMxIeo4?si=4afKKIi1rqjC7nV1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,118 +16,120 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-As there seems to be many who still ask what are 51% attacks, what happened to Ethereum Classic (ETC) in the past, and have confusion about these things, we decided to write this post to answer all the doubts and correct all confusions.
+由于仍有许多人询问什么是51%攻击，以及以前发生在以太经典（ETC）上的事情，并对这些事情感到困惑，我们决定写下这篇文章，回答所有疑问并纠正所有困惑。
 
-Indeed, ETC was attacked in two opportunities when it was a smaller, secondary blockchain in the past.
+确实，在过去，ETC在成为较小、次要的区块链时曾两次遭受攻击。
 
-These attacks are not “hacks”, are narrow, and non-systemic, meaning that ETC never “broke”, the attacks only affect the victims but not all users, nor do they affect the whole network functionality.
+这些攻击不是“黑客攻击”，而是有限的、非系统性的，这意味着ETC从未“崩溃”，这些攻击只影响受害者，而不是所有用户，也不会影响整个网络功能。
 
-In the following sections we will explain the history of these kinds of networks, what are 51% attacks, and why ETC is now stronger than ever, thus it is extremely unlikely that there will be these kinds of attacks again.
+在接下来的章节中，我们将解释这些网络的历史，什么是51%攻击，以及为什么ETC现在比以往任何时候都更强大，因此极不可能再次发生这种类型的攻击。
 
-## Before it Was 33% Attacks
+## 在那之前是33%攻击
 
-Before the invention of Bitcoin and the use of what is called Nakamoto Consensus, which uses proof of work as its consensus method, peer-to-peer networks to manage digital currency were not possible because they were very easy to attack.
+在比特币的发明和所谓的纳卡莫托共识的使用之前，该共识方法使用工作证明作为其共识方法，点对点网络管理数字货币是不可能的，因为它们很容易受到攻击。
 
-In a [computer science paper](https://lamport.azurewebsites.net/pubs/byz.pdf) in 1982 it was proven that the threshold to attack these networks was only 33% of the nodes.
+在1982年的[计算机科学论文](https://lamport.azurewebsites.net/pubs/byz.pdf)中证明，攻击这些网络的门槛仅为节点的33%。
 
 ![The Byzantine Gnerals Problem](./2.png)
 
-This means that if only 1 in 3 of participating machines were to corrupt the information transmitted in the system, then the whole system could be compromised. 
+这意味着如果参与的三台机器中有一台损坏了系统中传输的信息，整个系统可能会受到威胁。
 
-This problem was called the “Byzantine Generals Problem”.
+这个问题被称为“拜占庭将军问题”。
 
-## Now it Is 51% Attacks
+## 现在是51%攻击
 
-The brilliant discovery by Satoshi Nakamoto, who invented Bitcoin, was that, using proof of work, the cryptographic stamps or hashes that seal each block of data in the network were in themselves a new form of consensus mechanism that would enable all nodes in the system to be synchronized in lockstep in a decentralized way.
+中本聪（Satoshi Nakamoto）的卓越发现是，使用工作证明，网络中每个数据块的密码印章或哈希本身就是一种新的共识机制形式，它可以使系统中的所有节点以一种去中心化的方式同步锁步。
 
-By using this signaling system, that requires enormous amounts of computational work and consumption of electricity, then the threshold to attack the network was raised from 33% of the participating machines to 51%.
+通过使用这个需要大量计算工作和电力消耗的信号系统，攻击网络的门槛从参与机器的33%提高到了51%。
 
-This higher level of security is what enabled Bitcoin to exist unchallenged to this day since its inception.
+这更高的安全级别是比特币自问世以来一直无可争议地存在的原因。
 
-The method created by Satoshi is what is called “Nakamoto Consensus”.
+中本聪创造的方法被称为“中本聪共识”。
 
-## What Happened in Ethereum Classic?
+## 以太经典发生了什么？
 
-However, that the threshold was raised from 33% to 51% in proof of work blockchains such as Bitcoin and ETC still means that this incredibly powerful system can still be attacked if anyone achieves 51% of the computing power.
+然而，即使在工作证明的区块链中，如比特币和ETC中，将门槛从33%提高到51%仍然意味着，如果有人获得51%的计算能力，这个强大的系统仍然可能受到攻击。
 
-This is what happened in ETC when it was a minor secondary blockchain.
+这就是在ETC作为较小次要区块链时发生的事情。
 
-In January 5th and 7th of 2019 there were two 51% attacks on the ETC network, and then, in August of 2020, there were three 51% attacks. 
+在2019年1月5日和7日，ETC网络遭受了两次51%攻击，然后在2020年8月，又发生了三次51%攻击。
 
-In all cases crypto exchanges were targeted and they lost millions of dollars in what are called “double spends” which is the only kind of attack that can be perpetrated using 51% of the computing power in these kinds of blockchains.
+在所有情况下，加密交易所成为攻击目标，它们在所谓的“双花”中损失了数百万美元，这是在这类区块链中只能实施的攻击。
 
-## What Is a Double Spend?
+## 什么是双花？
 
-As the name describes it, a double spend is to spend the same coins twice. However, this is just a simplistic term. 
+顾名思义，双花是指将同样的硬币花费两次。然而，这只是一个简单化的术语。
 
-Double spends are really that a thief may have coins in an address in a blockchain, and that they may transfer them to a victim, but then they can make them appear back again in their own address, thus tricking the victim while stealing from them something of value.
+双花实际上是指窃贼可能在区块链的一个地址中拥有硬币，并将其转移到受害者那里，但然后他们可以使硬币再次出现在他们自己的地址中，从而欺骗受害者，并窃取一些有价值的东西。
 
-The way they do this is by sending coins in a normal transaction which will be included in a block in the chain, and then reorganizing the the blocks in the network with new blocks that do not include the original transaction, therefore making the coins disappear from the victim’s account.
+他们这样做的方式是通过发送硬币进行正常交易，这将被包含在链中的一个块中，并且通过使用不包括原始交易的新块重新组织网络中的块，从而使硬币从受害者的帐户中消失。
 
-How this can be achieved will be explained in the next three sections.
+如何实现这一点将在接下来的三个部分中解释。
 
-## How ETC Nodes Reach Consensus
+## ETC节点如何达成共识
 
-To learn how a 51% or double spend attack (both are the same) may be achieved, it is important to know how nodes in a blockchain reach consensus of the same exact state of the chain every 13 seconds in the case of ETC.
+要了解51%或双花攻击（两者都是相同的）是如何实现的，重要的是要了解区块链中的节点如何在每13秒（在ETC的情况下）内达成链的完全相同状态的共识。
 
-A blockchain constantly receives new transactions, and these transactions are re-transmitted to all nodes in the system. When a subgroup of the nodes, called miners, receive the transactions, they accumulate them in batches and then seal them with a cryptographic stamp that requires an enormous amount of computational work to create, thus the name “proof of work”. When the miners create the stamp, they get the sealed block and send it to the rest of the network for verification. When the rest of the network verifies that the transactions are correct and that the cryptographic stamp is legitimate, then they include the block as the latest block in the chain of blocks, or “blockchain”.
+区块链不断接收新交易，这些交易被重新传输到系统中的所有节点。当一组称为矿工的节点收到交易时，它们将其积累成批次，然后用需要大量计算工作才能创建的密码印章密封它们，因此称为“工作证明”。当矿工创建印章时，他们得到密封的块并将其发送到网络的其余部分进行验证。当网络的其余部分验证交易正确且密码印章合法时，它们将该块包含为链上最新的块，或称为“区块链”。
 
-The fact that the enormous amount of work was done is actually the information that all nodes need to know that that is the correct block. This is because it is very difficult for attackers to build blocks without such a large computing base.
+实际上已经完成了大量工作的信息是所有节点需要知道的正确块。这是因为攻击者很难在没有如此庞大计算基础的情况下构建块。
 
-## The Rule of the Chain With the Most Work Done
+## 具有最多工作完成的链的规则
 
-The interesting thing is that the same information of the proof of work for each block is what keeps the blockchain unified at all times and permits nodes worldwide to join, leave, and join again whenever they want without censorship or the need of any permission.
+有趣的是，每个块的工作证明相同的信息实际上是区块链始终统一并允许全球节点随时加入、离开并在没有审查或任何许可的情况下重新加入的原因。
 
-They can do this by simply checking the accumulated work done in the whole chain of blocks. If there are attacking alternative blockchains, then they can add the total work done in each and just follow the one with the most accumulated work. Because the attacker chains would have a difficult time to build such a large computing base as in Bitcoin or ETC, then the network would always converge on the correct and honest chain.
+他们可以通过简单地检查整个区块链中累积的工作完成情况来实现这一点。如果存在攻击性的替代区块链，则它们可以添加每个区块链中完成的总工作，并只需按照具有最多累积工作的那个链。因为攻击者链将很难建立如比特币或ETC那样庞大的计算基础，所以网络将始终趋向于正确和诚实的链。
 
-So, the work done in each block keeps the network synchronized every round, and the addition of the accumulated work in the whole chain history keeps the system unified behind one single blockchain.
+因此，每轮完成的工作保持网络同步，而整个链历史中累积的工作加在一起则保持系统统一在一个单一的区块链后面。
 
-## Description of a 51% Attack
+## 51%攻击的描述
 
-The problem arises when attackers can temporarily garner 51% of the mining computing power. When this happens, then they do have the ability to build an alternative chain to perpetrate a 51% attack or double spend.
+当攻击者能够暂时获得51%的挖矿计算能力时，问题就出现了。当发生这种情况时，他们确实有能力构建替代链以进行51%攻击或双花。
 
-The way they do this is by selecting a victim, say a crypto exchange, then they send them a large amount of ETC worth several million dollars, and then they  exchange it for another coin, say Monero (XMR). When they have millions of dollars in XRM in their account in the exchange, then they withdraw all the XMR to their own address on the Monero blockchain.
+他们这样做的方式是选择一个受害者，比如一个加密交易所，然后向他们发送价值数百万美元的ETC，并将其兑换为另一种硬币，比如门罗（XMR）。当他们在交易所的账户中有数百万美元的XMR时，然后将所有XMR提取到门罗区块
 
-When they complete the withdrawal process of the XMR, then they start building, with their large computing base in ETC, which must be 51% or more of the total miner computing power in the network, an alternative blockchain starting from the block where their original transaction to the exchange is.
+链上的他们自己的地址。
 
-In this alternative chain, that will have more accumulated work than the main chain, they will actually delete their original transaction of ETC to the exchange. 
+当他们完成对XMR的提取过程后，然后他们开始使用他们在ETC中的大型计算基础，该基础必须占网络总挖矿计算能力的51%或更多，从其最初的交易到交易所的区块开始构建替代区块链。
 
-When they build the alternative chain that has more accumulated work than the main chain, then they will send it to the rest of the nodes of the network.
+在这个替代链中，将具有比主链更多的累积工作，他们将实际上删除其ETC到交易所的原始交易。
 
-Because of “the rule of the chain with the most work done” explained above, then all nodes in the ETC network will abandon the main chain they were working on and immediately adopt the new alternative chain built by the attacker.
+当他们构建具有比主链更多累积工作的替代链时，他们将其发送到网络的其余节点。
 
-Once the whole network migrates to the attacker’s blockchain, the original transaction to the exchange would have disappeared. This means that the exchange, that received the original deposit of millions of dollars in ETC, now does not have that money in their address any more. They have just disappeared.
+由于上面解释的“具有最多工作完成的链的规则”，那么ETC网络中的所有节点都将放弃他们曾经工作过的主链，并立即采纳攻击者构建的新的替代链。
 
-However, the thieves of the attacker chain, will now have two large amounts of coins worth millions of dollars: the original ETC that they recovered by deleting their original transaction to the exchange and the XMR in the Monero blockchain that they stole from the exchange.
+一旦整个网络迁移到攻击者的区块链，原始的交易到交易所的交易将消失。这意味着接收了数百万美元ETC的交易所现在不再在他们的地址中拥有这笔钱。他们刚刚消失了。
 
-This is how 51% attacks or double spends steal money from their victims.
+然而，攻击者链的窃贼现在将拥有两笔价值数百万美元的硬币：通过删除他们对交易所的原始交易而恢复的原始ETC和从交易所窃取的门罗区块链中的XMR。
 
-## How Can 51% Attacks Be Avoided?
+这就是51%攻击或双花从受害者那里窃取钱的方式。
 
-Even though they are unlikely, in all proof of work blockchains, including the largest one, Bitcoin, there are several strategies to avoid 51% attacks:
+## 如何避免51%攻击？
 
-**Network size:** The most obvious one, and the reason why 51% attacks are sporadic and unlikely, is to have the largest computing base as possible. The more attractive a coins is, the more the price rises, the more the price rises, the more rewards the miners will receive, the more the rewards the miners receive, the more hash power, and the more hash power, the less likely an attacker will be able to perpetrate double spends. This is how size protects proof of work blockchains.
+即使它们不太可能在所有工作证明的区块链中发生，包括最大的比特币在内，也有几种避免51%攻击的策略：
 
-**Leading in a specific mining algorithm:** Aside from sheer size, to be the leading chain in a specific mining algorithm is also a good form of protection. When a chain is second or third in a mining algorithm, then the miners of the bigger chains could point their machines to the smaller chain and attack it as it would be more or less trivial for them to achieve a 51% share of computing power. This is the reason why ETC was attacked before, because it was the second largest chain in its segment after Ethereum when it was a proof of work network.
+**网络规模：** 最明显的一个，也是51%攻击零星且不太可能发生的原因是尽可能拥有最大的计算基础。一种货币越有吸引力，价格上涨，矿工将获得的奖励越多，矿工获得的奖励越多，哈希功率越大，攻击者越不可能实施双花。这就是规模如何保护工作证明的区块链的方式。
 
-**Waiting for more confirmations:** At the user level, waiting for more confirmations before considering a transaction final is the main way to protect themselves from double spends. This is because the more blocks are created on top of the block in which a transaction is entered, the more secure that transaction gets. For example, if I received 100 ETC in the last block, that transaction is easier to reverse than a transaction that I received 100,000 blocks ago. This is because the attackers would have to re-do the whole 100,000 blocks, spending all that electricity and computing power again, before they could perpetrate the double spend.
+**在特定挖矿算法中领先：** 除了规模外，成为特定挖矿算法中的领先链也是一种良好的保护形式。当链在特定挖矿算法中排名第二或第三时，较大链的矿工可能会将他们的机器指向较小链并攻击它，因为对他们来说达到51%的计算能力可能相对轻松。这就是为什么ETC之前会受到攻击的原因，因为在它是工作证明网络时，在以太坊之后，它是其段中第二大的链。
 
-## Why Is ETC Unlikely to be Attacked Again
+**等待更多的确认：** 在用户级别上，等待更多的确认才考虑交易最终是保护自己免受双花的主要方法。这是因为在输入交易的块上创建更多的块，该交易就会变得更加安全。例如，如果我在最后一个块中收到了100 ETC，那么这笔交易比我在100,000个块之前收到的100 ETC更容易被反转。这是因为攻击者在执行双花之前必须重新做整个100,000块，再次花费所有那些电力和计算能力。
+
+## 为什么ETC不太可能再次受到攻击
 
 ![](./3.png)
 
-If having more hash power brings more protection and security to a blockchain, then ETC has become much more secure in the last 14 months.
+如果拥有更多的哈希功率能够为区块链带来更多的保护和安全性，那么在过去的14个月里，ETC已经变得更加安全。
 
-This is because Ethereum has migrated from proof of work to proof of stake in September of 2022 and this made many miners, who were left stranded, to start mining ETC.
+这是因为以太坊在2022年9月从工作证明迁移到了权益证明，这导致许多滞留下来的矿工开始挖矿ETC。
 
-As seen in the chart in this section, ETC’s computing base, as measured by hashrate, increased from around 24 TH/s to more than 150 TH/s since Ethereum’s migration.
+正如在本节图表中所示，ETC的计算基础，以哈希率为衡量标准，从以太坊迁移时的约24 TH/s增加到了超过150 TH/s。
 
-Not only did ETC gain in its mining computing base but also has become the leading blockchain in its hashing algorithm (ETCHash/ETHash) and the largest proof of work blockchain in the world.
+ETC不仅在其挖矿计算基础上取得了进展，而且已成为其哈希算法（ETCHash/ETHash）中的领先区块链，也是世界上最大的工作证明区块链。
 
-This provides yet another protection layer and makes it very unlikely that ETC will be attacked with double spends again.
+这提供了另一层保护，使得ETC极不可能再次遭受双花攻击。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
