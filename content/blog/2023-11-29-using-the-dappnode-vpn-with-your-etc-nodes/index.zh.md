@@ -1,5 +1,5 @@
 ---
-title: "Using the DappNode VPN With Your ETC Nodes"
+title: "与ETC节点一起使用DappNode VPN"
 date: 2023-11-29
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner1.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/owicpaMmutg?si=BfdV1tk7bf4bvuMF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,106 +16,106 @@ linkImage: ./banner1.png
 
 ![](./0.png)
 
-The DappNode hardware node is a device that lets users run nodes from their homes or offices. 
+DappNode 硬件节点是一种设备，允许用户在他们的家或办公室运行节点。
 
-The Ethereum Classic (ETC) core developer team maintains ETC client packages in the DappNode DappStore that users may activate to run ETC mainnet and testnet nodes.
+以太经典（ETC）核心开发团队在 DappNode DappStore 中维护 ETC 客户端包，用户可以激活以运行 ETC 主网和测试网节点。
 
-One of the features of the DappNode product is that it allows users to access their ETC nodes from remote locations globally using a VPN connection.
+DappNode 产品的一个特点是它允许用户使用 VPN 连接从全球任何地方远程访问他们的 ETC 节点。
 
-In this post we will explain how to connect to your DappNode instance from remote locations using the WireGuard VPN protocol.
+在本文中，我们将解释如何使用 WireGuard VPN 协议从远程位置连接到您的 DappNode 实例。
 
-If you don’t have a DappNode yet and wish to get one to run ETC nodes, please follow the instructions in the post we wrote about the subject:
+如果您还没有 DappNode 并希望获取一个来运行 ETC 节点，请按照我们关于此主题的文章中的说明操作：
 
-How to Run an Ethereum Classic Node Using DappNode
+如何使用 DappNode 运行以太经典节点
 
-In the following sections we will explain how to connect to your DappNode using the DappNode VPN service.
+在接下来的部分中，我们将解释如何使用 DappNode VPN 服务连接到您的 DappNode。
 
-## 1. Connect to Your DappNode in Your Local WiFi Network
+## 1. 在本地 WiFi 网络中连接到您的 DappNode
 
 ![](./1.png)
 
-If you already got and set up your DappNode to run your ETC nodes, then access it by connecting to its WiFi network again, and then typing “my.dappnode” on your browser. When the DappNode user interface (UI) opens, you will see the DappNode dashboard with your ETC nodes running.
+如果您已经获得并设置了 DappNode 以运行您的 ETC 节点，请再次连接到其 WiFi 网络，然后在浏览器中输入“my.dappnode”。当 DappNode 用户界面（UI）打开时，您将看到带有正在运行的 ETC 节点的 DappNode 仪表板。
 
-## 2. Go to the VPN Tab on the Menu and Select the WireGuard Option
+## 2. 转到菜单中的 VPN 选项卡并选择 WireGuard 选项
 
 ![](./2.png)
 
-To be able to connect to your DappNode remotely, from anywhere in the world using VPN, go to the VPN tab and then select the “WireGuard” option. This is the recommended protocol by DappNode. The DappNode team actually runs VPN servers so their users may connect to their local nodes.
+要能够从世界各地的任何地方远程连接到您的 DappNode，请转到 VPN 选项卡，然后选择“WireGuard”选项。这是 DappNode 推荐的协议。DappNode 团队实际上运行 VPN 服务器，以便用户可以连接到他们的本地节点。
 
-## 3. Go to the WireGuard Connection Documentation
+## 3. 转到 WireGuard 连接文档
 
 ![](./3.png)
 
-In the WireGuard VPN screen on your DappNode UI, click on the “How to connect to your Dappnode VPN” link. There, you will see all the documentation pertaining to the DappNode WireGuard VPN service.
+在您的 DappNode UI 上的 WireGuard VPN 屏幕上，点击“如何连接到您的 DappNode VPN”链接。在那里，您将看到有关 DappNode WireGuard VPN 服务的所有文档。
 
-## 4. Click on the WireGuard Website Link
+## 4. 点击 WireGuard 网站链接
 
 ![](./4.png)
 
-Once on the documentation, scroll down to section 2 and click on the link to the WireGuard website.
+一旦进入文档，滚动到第 2 节，然后点击链接到 WireGuard 网站的链接。
 
-## 5. Click on the WireGuard Client for Your Operating System 
+## 5. 选择适用于您操作系统的 WireGuard 客户端
 
 ![](./5.png)
 
-On the WireGuard website, you will see all the client download options for the different operating systems. Click on the one for your operating system to install the WireGuard client on your computer. In our case we used the macOS installation option.
+在 WireGuard 网站上，您将看到不同操作系统的所有客户端下载选项。点击适用于您操作系统的选项，以在计算机上安装 WireGuard 客户端。在我们的情况下，我们使用了 macOS 安装选项。
 
-## 6. Download the WireGuard Client
+## 6. 下载 WireGuard 客户端
 
 ![](./6.png)
 
-If in your operating system you need to use the App Store, Google Play, or other repository, then install the WireGuard client from there to your computer. In our case we downloaded and installed WireGuard from the Apple App Store.
+如果在您的操作系统中需要使用 App Store、Google Play 或其他仓库，则从那里将 WireGuard 客户端安装到您的计算机。在我们的情况下，我们从 Apple App Store 下载并安装了 WireGuard。
 
-## 7. Open Your WireGuard Client on Your Computer
+## 7. 打开您计算机上的 WireGuard 客户端
 
 ![](./7.png)
 
-Once downloaded and installed, open your WireGuard application on your computer.
+下载并安装后，在您的计算机上打开 WireGuard 应用程序。
 
-## 8. Add a New Tunnel on Your WireGuard Client
+## 8. 在 WireGuard 客户端上添加新的隧道
 
 ![](./8.png)
 
-Once opened, you will see the WireGuard icon on your desktop screen above or below depending on your operating system. Click on it and select “Manage Tunnels”. Next, you will see the WireGuard box to manage tunnels. Click on the “+” button on the box, or on the option that will let you add a tunnel, but NOT on the “Import tunnel(s) from file” button.
+一旦打开，您将在桌面屏幕上看到 WireGuard 图标，位置取决于您的操作系统是在上方还是在下方。点击它并选择“管理隧道”。接下来，您将看到管理隧道的 WireGuard 窗口。点击窗口上的“+”按钮，或者选择允许您添加隧道的选项，但不要点击“从文件导入隧道”按钮。
 
-## 9. See the WireGuard New Tunnel Form 
+## 9. 查看 WireGuard 新隧道表单
 
 ![](./9.png)
 
-In the next step, you will see the new tunnel form. In it, you will enter the WireGuard credentials for your local DappNode and the name of this tunnel, but first we need to get the credentials from our DappNode in the next section.
+在下一步中，您将看到新的隧道表单。在其中，您将输入您的本地 DappNode 的 WireGuard 凭据以及此隧道的名称，但首先我们需要在下一节中从我们的 DappNode 获取凭据。
 
-## 10. Get Your WireGuard Link Credentials From Your DappNode
+## 10. 从您的 DappNode 获取 WireGuard 链接凭据
 
 ![](./10.png)
 
-To get the VPN credentials, go back to your DappNode UI, go again to the VPN tab, to the WireGuard sub-page, and click on the “Get link” button.
+要获取 VPN 凭据，请返回到您的 DappNode UI，再次转到 VPN 选项卡，到 WireGuard 子页面，并点击“获取链接”按钮。
 
-## 11. Copy the VPN Credentials of Your DappNode
+## 11. 复制您的 DappNode 的 VPN 凭据
 
 ![](./11.png)
 
-When the credentials section opens, then copy that text and go back to the WireGuard new channel form.
+当凭据部分打开时，复制该文本，然后返回到 WireGuard 新通道表单。
 
-## 12. Paste the Credentials on WireGuard and Name Your Channel
+## 12. 在 WireGuard 上粘贴凭据并为您的通道命名
 
 ![](./12.png)
 
-On the WireGuard form, delete whatever text was there before and paste the new credentials for your DappNode. Also, name this channel in the field above on the form, and then press “Save”. In our case we named our channel “dappnode_admin” and we pasted our credentials, but, for this example, we obfuscated our channel data for security reasons.
+在 WireGuard 表单上，删除之前存在的任何文本并粘贴您的 DappNode 的新凭据。此外，在表单上方的字段中为此通道命名，然后按“保存”。在我们的情况下，我们将通道命名为“dappnode_admin”并粘贴了我们的凭据，但出于安全原因，对于这个示例，我们对通道数据进行了模糊处理。
 
-## 13. Activate Your Channel
+## 13. 激活您的通道
 
 ![](./13.png)
 
-In the next step, your WireGuard client will show your new channel already created. Now, you need to press the “Activate” button to go live with your new VPN connection.
+在下一步中，您的 WireGuard 客户端将显示您已经创建的新通道。现在，您需要按下“激活”按钮以启动您的新 VPN 连接。
 
-## 14. Connect Remotely to Your DappNode ETC Nodes
+## 14. 从远程位置连接到您的 DappNode ETC 节点
 
 ![](./14.png)
 
-Once you activated your new channel on your computer you need to wait a few minutes for the information to propagate to the corresponding servers and clients. Then, you can connect to your DappNode remotely!! As an example, in the image in this section, you will see that the WireGuard client icon is bright white now on our display, and we are connected from a remote location to our local network (my phone’s hotspot). From now on, you may connect to your DappNode from anywhere in the world using any WiFi connection by opening your WireGuard client on your computer and activating your DappNode tunnel!!
+一旦在计算机上激活了新通道，您需要等待几分钟，以便信息传播到相应的服务器和客户端。然后，您可以远程连接到您的 DappNode！！例如，在本节的图像中，您将看到我们的显示屏上的 WireGuard 客户端图标现在是明亮的白色，我们已从远程位置连接到我们的本地网络（我手机的热点）。从现在开始，您可以通过打开计算机上的 WireGuard 客户端并激活 DappNode 隧道，从世界任何地方的任何 WiFi 连接连接到您的 DappNode！
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
