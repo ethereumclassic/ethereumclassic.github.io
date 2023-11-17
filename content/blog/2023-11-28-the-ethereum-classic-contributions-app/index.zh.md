@@ -1,5 +1,5 @@
 ---
-title: "The Ethereum Classic Contributions App"
+title: "以太坊经典贡献应用"
 date: 2023-11-28
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mjvTWzWpaBc?si=TbzZUNDJcZ_yt0TU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,154 +16,154 @@ linkImage: ./banner.png
 
 ![](./1.png)
 
-[Istora Mandiri](https://github.com/IstoraMandiri) is one of the most important volunteer contributors to Ethereum Classic (ETC). He has built the [ethereumclassic.org](https://ethereumclassic.org/) website, wrote most or all of the static content (and some important posts as well), he wrote the [seminal essay](https://www.ethereumclassicclassic.org/) that finally defeated the Treasury attempt in ETC, he conducted the [ETC community calls](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw), he is building an application called [NourishMint](https://youtu.be/1nPnG8YHEFA?si=L28OHfzh7rHpyJyz) to incentivize other community members to contribute to ETC, and he built the app that is the subject of this post: the Ethereum Classic [Contributions](https://etc.contributions.app/) app!
+[Istora Mandiri](https://github.com/IstoraMandiri) 是以太经典（Ethereum Classic，简称 ETC）最重要的志愿贡献者之一。他创建了 [ethereumclassic.org](https://ethereumclassic.org/) 网站，编写了大部分或所有静态内容（以及一些重要的帖子），他还写了[开创性的文章](https://www.ethereumclassicclassic.org/)，最终击败了 ETC 中的财政尝试。他主持了 [ETC 社区会议](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw)，他正在构建一款名为 [NourishMint](https://youtu.be/1nPnG8YHEFA?si=L28OHfzh7rHpyJyz) 的应用，以激励其他社区成员为 ETC 做出贡献，而且他还建立了这篇文章所涉及的应用程序：Ethereum Classic [Contributions](https://etc.contributions.app/) 应用程序！
 
-Many people wish to contribute to the ETC assets mentioned above, but the problem is that it would require knowledge of how to use a platform for developers called GitHub.
+许多人希望为上述 ETC 资产做出贡献，但问题是这需要使用一个名为 GitHub 的开发者平台的知识。
 
-Therefore, a tool was needed to help this segment of the community so they could help keep the information about various aspects of Ethereum Classic up to date.
+因此，需要一个工具来帮助社区中的这一部分人，使他们能够帮助保持有关以太经典各个方面的信息最新。
 
-## What Is the ETC Contributions App?
+## 什么是 ETC Contributions App？
 
 ![](./2.png)
 
-This is why Istora decided to build the Ethereum Classic Contributions web application to make it very easy for any user globally to add content to the different ETC community assets without having to learn how to use GitHub.
+这就是为什么 Istora 决定构建以太经典贡献网络应用程序，使任何全球用户都能轻松添加内容到不同的 ETC 社区资产，而无需学习如何使用 GitHub。
 
-By going to the link [etc.contributions.app](https://etc.contributions.app/) anyone may contribute various types of content to ETC.
+通过访问链接 [etc.contributions.app](https://etc.contributions.app/)，任何人都可以为 ETC 贡献各种类型的内容。
 
-One of the great benefits of this system is that it not only opens the door for the general community to contribute, but it does it in a more decentralized manner and democratically, enabling anyone in the world to propose content.
+这个系统的一个巨大优势是它不仅为一般社区打开了贡献之门，而且以更加去中心化和民主的方式实现，使世界上的任何人都能提出内容建议。
 
-The security of the system is a team of administrators who curate the content before publication.
+系统的安全性由一组管理员团队负责，在发布之前审核内容。
 
-## Contributing Anonymously
+## 匿名贡献
 
 ![](./3.png)
 
-Another of the benefits is that users of the app may add their suggestions anonymously by just pressing on the CONTRIBUTE button and adding their proposals.
+另一个好处是应用程序的用户可以通过仅需点击“贡献”按钮并添加他们的建议来匿名地提出建议。
 
-As long as the content is relevant and positive for Ethereum Classic, it will be posted.
+只要内容与以太经典相关且积极，它将被发布。
 
-## Contributing Credited
+## 认可贡献
 
 ![](./4.png)
 
-However, if contributors wish to be credited with their additions, then they can create an account on GitHub and login to the app by pressing the button SIGN IN WITH GITHUB.
+然而，如果贡献者希望为他们的添加获得认可，那么他们可以在 GitHub 上创建帐户并通过按下“使用 GitHub 登录”按钮登录应用程序。
 
-In this case the contributions will be identified with the contributor’s user ID on GitHub.
+在这种情况下，贡献将使用贡献者在 GitHub 上的用户 ID 进行标识。
 
-In any case, users still don’t have to learn how to use GitHub to get credit. 
+无论如何，用户仍然不必学习如何使用 GitHub 就能获得认可。
 
-The option for accreditation is voluntary and only to identify the user who wishes so and is submitting the proposal.
+认证选项是自愿的，仅用于识别希望这样做并提交建议的用户。
 
-## Contribution Types
+## 贡献类型
 
 ![](./5.png)
 
-Regardless of anonymity or accreditation, all users may contribute any of these six types of content:
+无论匿名还是认证，所有用户都可以贡献以下六种类型的内容：
 
-- ETH_Classic tweets
-- ETC_Network tweets
-- App submissions
-- Video submissions
-- News article submissions
-- Links to services submissions
+- ETH_Classic 推文
+- ETC_Network 推文
+- 应用提交
+- 视频提交
+- 新闻文章提交
+- 服务链接提交
 
-The first two are tweets that are published on the Ethereum Classic X accounts which are [@eth_classic](https://twitter.com/eth_classic) and [@etc_network](https://x.com/etc_network).
+前两者是发布在以太经典 X 账户上的推文，这些账户是 [@eth_classic](https://twitter.com/eth_classic) 和 [@etc_network](https://x.com/etc_network)。
 
-The last four are submissions that are published on the [ethereumclassic.org](https://ethereumclassic.org/) website, in their corresponding sections.
+最后四个是在 [ethereumclassic.org](https://ethereumclassic.org/) 网站上发布的提交，在其相应部分中。
 
-## Contributing ETH_Classic Tweets
+## 贡献 ETH_Classic 推文
 
 ![](./6.png)
 
-To contribute to the [@eth_classic](https://twitter.com/eth_classic) X account of the ETC community, users need to press on the CONTRIBUTE button on the home of the app, and then on the “@eth_classic tweets” section in the next screen.
+要为 ETC 社区的 [@eth_classic](https://twitter.com/eth_classic) X 账户做贡献，用户需要在应用程序的主页上点击“贡献”按钮，然后在接下来的屏幕中选择“@eth_classic 推文”部分。
 
-In the next step, the contributions app will show users the form to fill so they can propose a tweet to the ETC admins.
+在下一步中，贡献应用程序将向用户展示填写表格的界面，以便他们可以向 ETC 管理员提议推文。
 
-The options are to create a new tweet from scratch, to do a retweet, or to reply to a tweet.
+用户可以选择从头开始创建新推文，转推，或回复推文。
 
-Then, there is a field to add the text which may include links, hashtags, and emojis.
+然后，有一个字段可添加文本，其中可能包括链接、标签和表情符号。
 
-Finally, the app lets users add images to tweets as well. 
+最后，该应用程序允许用户向推文中添加图片。
 
-## Contributing ETC_Network Tweets
+## 贡献 ETC_Network 推文
 
 ![](./7.png)
 
-To contribute to the [@etc_network](https://x.com/etc_network) X account of the ETC community, the process is the same as with the [@eth_classic](https://twitter.com/eth_classic) account.  Users have to press on the CONTRIBUTE button on the home of the app, and then select the “@etc_network tweets” section in the next screen.
+要为 ETC 社区的 [@etc_network](https://x.com/etc_network) X 账户做贡献，流程与 [@eth_classic](https://twitter.com/eth_classic) 账户相同。用户需要在应用程序的主页上点击“贡献”按钮，然后在接下来的屏幕中选择“@etc_network 推文”部分。
 
-In the next step, the contributions app will show users the form to fill so they can propose a tweet to the ETC admins.
+在下一步中，贡献应用程序将向用户展示填写表格的界面，以便他们可以向 ETC 管理员提议推文。
 
-The options are to create a new tweet from scratch, to do a retweet, or to reply to a tweet.
+用户可以选择从头开始创建新推文，转推，或回复推文。
 
-Then, there is a field to add the text which may include links, hashtags, and emojis.
+然后，有一个字段可添加文本，其中可能包括链接、标签和表情符号。
 
-At the bottom, the app lets users add images to tweets as well. 
+在底部，该应用程序还允许用户向推文中添加图片。
 
-## Submitting an App
+## 提交应用
 
 ![](./8.png)
 
-To submit a new decentralized application, or dapp, to the ETC community website, users need to press on the CONTRIBUTE button and then select “Application” in the menu.
+要向 ETC 社区网站提交新的去中心化应用程序（DApp），用户需要点击“贡献”按钮，然后在菜单中选择“应用”。
 
-Once in the form, users must fill the following fields and items:
+进入表格后，用户必须填写以下字段和项目：
 
-- App category
-- App name
-- URL to launch the app
-- App description
-- Upload an app icon
-- Author name
-- Author link
+- 应用类别
+- 应用名称
+- 启动应用的 URL
+- 应用描述
+- 上传应用图标
+- 作者名称
+- 作者链接
 
-Then there are other optional fields that dapp developers may use to enhance their listing and trust in their application. 
+然后还有其他可选字段，DApp 开发者可以使用这些字段来增强他们的列表和提高对他们应用程序的信任。
 
-## Submitting a Video
+## 提交视频
 
 ![](./9.png)
 
-To submit a new video link to the ETC community website, users need to press on the CONTRIBUTE button and then select “Video” in the menu.
+要向 ETC 社区网站提交新的视频链接，用户需要点击“贡献”按钮，然后在菜单中选择“视频”。
 
-Once in the form, users must fill the following fields and items:
+进入表格后，用户必须填写以下字段和项目：
 
-- YouTube video ID or link
-- Tags to mark what type it is
-- Override title in case the user does not want to use the original title of the video
-- An optional description of the video
-- The language in which the video is featured
+- YouTube 视频 ID 或链接
+- 标记视频类型的标签
+- 在用户不想使用视频的原始标题时覆盖标题的可选标题
+- 视频的可选描述
+- 视频特色的语言
 
-## Submitting a News Article
+## 提交新闻文章
 
 ![](./10.png)
 
-To submit a news article link to the ETC community website, users need to press on the CONTRIBUTE button and then select “News Article” in the menu.
+要向 ETC 社区网站提交新闻文章链接，用户需要点击“贡献”按钮，然后在菜单中选择“新闻文章”。
 
-Once in the form, users must fill the following fields and items:
+进入表格后，用户必须填写以下字段和项目：
 
-- Article title
-- Article URL
-- Author name
-- Source name
-- Published date
-- Tags
+- 文章标题
+- 文章 URL
+- 作者姓名
+- 来源名称
+- 发布日期
+- 标签
 
-Both in videos and articles submissions, it is important for users to propose content that is truly referred to ETC rather than tangential topics.
+在视频和文章提交中，用户应该提出真正与 ETC 有关而不是离题的内容。
 
-## Submitting a Service Link
+## 提交服务链接
 
 ![](./11.png)
 
-There are many services that support ETC in the market and many are listed on the Ethereum Classic community website.
+市场上有许多支持 ETC 的服务，而许多都在以太经典社区网站上列出。
 
-Any ETC service provider who wishes to submit a link to their product needs to press on the CONTRIBUTE button and then select “Service Link” in the menu.
+任何希望向其产品提交链接的 ETC 服务提供商都需要点击“贡献”按钮，然后在菜单中选择“服务链接”。
 
-Once in the form, providers must fill the following fields and items:
+进入表格后，提供商必须填写以下字段和项目：
 
-- Category
-- Service name
-- Service homepage or URL
+- 类别
+- 服务名称
+- 服务主页或 URL
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
