@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Is Programmable Digital Gold"
+title: "以太经典是可编程的数字黄金"
 date: 2023-11-22
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,67 +8,67 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**欢迎由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jYqxC9X_0Ac?si=HLjYPqJ2lvXc5LSN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 ![](./banner.png)
 
-Proof of work (POW) coins are digital gold because they are built on top of an objective proof of work base.
+工作证明（POW）币是数字黄金，因为它们建立在客观的工作证明基础之上。
 
-Proof of stake and proof of authority coins are pure fiat community money because they have no objective base, so they depend exclusively on their communities for their hardness, which is weak or weaker than trusting governments for the monetary policy.
+而权益证明和权威证明币则是纯粹的法定社区货币，因为它们没有客观基础，因此完全依赖于它们的社区来确保其硬度，这种硬度弱于或弱于信任政府的货币政策。
 
-In this post, we will focus on why proof of work coins are digital gold, why Ethereum Classic (ETC) in particular is programmable digital gold, and why this makes ETC the most trust minimized blockchain in the world.
+在这篇文章中，我们将重点讨论为什么工作证明币是数字黄金，为什么以太经典（ETC）特别是可编程数字黄金，以及为什么这使得ETC成为世界上最受信任的最小化区块链。
 
-## What Is Bit Gold?
+## 什么是比特黄金？
 
-It is very likely that Satoshi Nakamoto actually wanted to build Bit Gold when he created Bitcoin. The prefix “Bit” is a big hint, I would say!
+很可能中本聪在创建比特币时实际上想要构建比特黄金。前缀“比特”是一个很大的提示，我会说！
 
-In proof of work blockchains such as Bitcoin (BTC) and ETC there is actually Bit Gold hidden in their databases. This Bit Gold are the cryptographic stamps or hashes that seal each block. 
+在工作证明区块链中，如比特币（BTC）和ETC实际上隐藏着比特黄金。这个比特黄金就是密封每个区块的密码印章或哈希。
 
-This is what was envisioned was going to be the money on the internet originally.
+最初设想的是这将是互联网上的货币。
 
-However, because of problems in its design that couldn’t be solved at the time, Satoshi used the model proposed by Wei Dai to build the first proof of work blockchain. 
+然而，由于当时无法解决的设计问题，中本聪使用了韦戴提出的模型构建了第一个工作证明区块链。
 
-## What Is a Fiat Community Token?
+## 什么是法定社区代币？
 
-Wei Dai’s model was to use Bit Gold as a backup and then create a fiat currency to pay for the work done by the computers in the network.
+韦戴的模型是使用比特黄金作为备份，然后创建一种法定货币来支付网络中计算机执行的工作。
 
-It is very important to understand that BTC and ETC are fiat community tokens that are issued after a lot of work was done by miners in a proof of work network. But they are not the Bit Gold themselves.
+非常重要的是要理解BTC和ETC是在工作证明网络中矿工完成了大量工作之后发行的法定社区代币。但它们并不是比特黄金本身。
 
-These tokens are fiat community tokens because they are just a parameter in the software of the networks, they are not the direct product of computational work as the cryptographic hashes are.
+这些代币是法定社区代币，因为它们只是网络软件中的一个参数，它们不是与密码哈希一样是直接计算工作的直接产物。
 
-## Why Is Bitcoin Digital Gold?
+## 为什么比特币是数字黄金？
 
-Nevertheless, to create the coins in Bitcoin, miners have to do a lot of computational work and invest a lot of capital in operations and electricity. This means that the BTC tokens are not issued unless this enormous cost has been incurred. This is what makes BTC valuable and scarce, just as gold in the real world is valuable and scarce due to the cost of extracting it from nature.
+然而，为了在比特币中创建硬币，矿工必须进行大量的计算工作，并在运营和电力方面投资大量资本。这意味着除非发生了巨大的成本，否则不会发行BTC代币。这就是使BTC有价值和稀缺的原因，就像现实世界中黄金由于从自然界中提取的成本而有价值和稀缺一样。
 
-So the first reason why BTC is digital gold is because the work to create the blocks is the same work that is required to issue the coins.
+所以，BTC是数字黄金的第一个原因是创建区块的工作与发行硬币所需的工作相同。
 
-The second reason is that it has a fixed monetary policy. Bitcoins are not only costly to create, but they are being created at a decreasing rate (50% less per block every 4 years) and this establishes a total supply of 21,000,000 that will ever exist.
+第二个原因是它有一个固定的货币政策。比特币不仅制造成本高昂，而且制作速度递减（每4年每个区块减少50%），这确定了总供应量为2100万。
 
-## Why Is Ethereum Classic Programmable Digital Gold?
+## 为什么以太经典是可编程数字黄金？
 
-In exactly the same way as Bitcoin, to create the coins in ETC, miners have to do a lot of computational work and invest a lot of capital in operations and electricity. The ETC tokens are not issued unless this enormous cost has been incurred, thus making ETC digital gold just like BTC.
+与比特币完全相同，为了在ETC中创建硬币，矿工必须进行大量的计算工作，并在运营和电力方面投资大量资本。除非发生了巨大的成本，否则不会发行ETC代币，从而使ETC成为数字黄金，就像BTC一样。
 
-And, as Bitcoin, ETC has a fixed monetary policy. ETC is being created at a decreasing rate (20% less per block every 2 years) and this also establishes a total fixed supply, but in the case of ETC it will be 210,700,000.
+而且，与比特币一样，ETC有一个固定的货币政策。ETC的制作速度递减（每2年每个区块减少20%），这也确定了一个固定的总供应量，但在ETC的情况下是210,700,000。
 
-However, the additional feature that ETC has is that it supports smart contracts. Smart contracts are software programs that when they are sent to the ETC network, they become decentralized because they get replicated across all nodes of the system globally just like the ledger with accounts and balances.
+然而，ETC具有的附加功能是它支持智能合约。智能合约是一种软件程序，当它们发送到ETC网络时，它们变得去中心化，因为它们在全球系统的所有节点上都会被复制，就像账户和余额的分类账一样。
 
-This means that ETC coins are digital gold, but they can also be managed by these software programs or “Dapps” inside ETC, which means that ETC is programmable, and therefore programmable digital gold. 
+这意味着ETC硬币是数字黄金，但它们也可以由ETC内部的这些软件程序或“Dapps”管理，这意味着ETC是可编程的，因此是可编程数字黄金。
 
-## Why Is Ethereum Classic More Trust Minimized?
+## 为什么以太经典更加最小化信任？
 
-Indeed, arguably, ETC is the most trust minimized blockchain in the world as its decentralized applications are hosted inside the largest proof of work smart contracts blockchain in the world.
+实际上，可以说ETC是世界上最受信任的区块链，因为其去中心化应用程序托管在世界上最大的工作证明智能合约区块链内。
 
-If to manage digital gold, users need to use external applications that are not hosted inside the POW blockchain, then those applications are not as secure, thus not as trust minimized.
+如果用户需要使用不托管在POW区块链内的外部应用程序来管理数字黄金，那么这些应用程序就不够安全，因此不够信任。
 
-But in ETC, because the dapps are inside the highly secure environment of its POW system, then not only the digital gold is trust minimized but also its applications.
+但在ETC中，因为Dapps位于其POW系统的高度安全环境内，因此不仅数字黄金是受信任的，而且其应用程序也是受信任的。
 
-This is what makes ETC more trust minimized, and why programmable digital gold is so unique and valuable.
+这就是使ETC更受信任的原因，以及为什么可编程数字黄金是如此独特和有价值。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
