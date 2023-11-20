@@ -62,7 +62,7 @@ As the name describes it, a double spend is to spend the same coins twice. Howev
 
 Double spends are really that a thief may have coins in an address in a blockchain, and that they may transfer them to a victim, but then they can make them appear back again in their own address, thus tricking the victim while stealing from them something of value.
 
-The way they do this is by sending coins in a normal transaction which will be included in a block in the chain, and then reorganizing the the blocks in the network with new blocks that do not include the original transaction, therefore making the coins disappear from the victim’s account.
+The way they do this is by sending coins in a normal transaction which will be included in a block in the chain, and then reorganizing the blocks in the network with new blocks that do not include the original transaction, therefore making the coins disappear from the victim’s account.
 
 How this can be achieved will be explained in the next three sections.
 
