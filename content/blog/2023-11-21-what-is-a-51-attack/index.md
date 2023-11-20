@@ -30,7 +30,7 @@ Before the invention of Bitcoin and the use of what is called Nakamoto Consensus
 
 In a [computer science paper](https://lamport.azurewebsites.net/pubs/byz.pdf) in 1982 it was proven that the threshold to attack these networks was only 33% of the nodes.
 
-![The Byzantine Gnerals Problem](./2.png)
+![The Byzantine Generals Problem](./2.png)
 
 This means that if only 1 in 3 of participating machines were to corrupt the information transmitted in the system, then the whole system could be compromised. 
 
