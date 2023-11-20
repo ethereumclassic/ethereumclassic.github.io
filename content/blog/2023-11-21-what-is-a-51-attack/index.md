@@ -122,7 +122,7 @@ This is because Ethereum has migrated from proof of work to proof of stake in Se
 
 As seen in the chart in this section, ETC’s computing base, as measured by hashrate, increased from around 24 TH/s to more than 150 TH/s since Ethereum’s migration.
 
-Not only did ETC gain in its mining computing base but also has become the leading blockchain in its hashing algorithm (ETCHash/ETHash) and the largest proof of work blockchain in the world.
+Not only has ETC gained in its mining computing base, but also has become the leading blockchain in its hashing algorithm (ETCHash/ETHash) and the largest proof of work, smart-contract-capable blockchain in the world.
 
 This provides yet another protection layer and makes it very unlikely that ETC will be attacked with double spends again.
 
