@@ -52,7 +52,7 @@ However, that the threshold was raised from 33% to 51% in proof of work blockcha
 
 This is what happened in ETC when it was a minor secondary blockchain.
 
-In January 5th and 7th of 2019 there were two 51% attacks on the ETC network, and then, in August of 2020, there were three 51% attacks. 
+On January 5th and 7th of 2019, there were two 51% attacks on the ETC network, and then, in August of 2020, there were three 51% attacks. 
 
 In all cases crypto exchanges were targeted and they lost millions of dollars in what are called “double spends” which is the only kind of attack that can be perpetrated using 51% of the computing power in these kinds of blockchains.
 
