@@ -71,6 +71,11 @@ learn:
       name: Knowledge
       description: Further reading on the foundations that underpin ETC
       navItems:
+        course:
+          __link: /knowledge/course
+          name: Course
+          description: A structured video and article series about Ethereum Classic
+          __icon: hat
         foundation:
           __link: /knowledge/foundation
           name: Foundation
