@@ -18,9 +18,9 @@ In the previous class, 4, we explained the broader Nakamoto Consensus design, ea
 
 One of the most controversial parts of the proof of work (POW) method is the difficulty adjustment system. 
 
-Nick Szabo expressed concerns about it as it is a manipulable parameter, just like the monetary policy of POW coins, and not a completely objective and work based way of regulating the supply of the digital asset as is Bit Gold.
+Nick Szabo [expressed concerns](https://unenumerated.blogspot.com/2011/05/bitcoin-what-took-ye-so-long.html) about it as it is a manipulable parameter, just like the monetary policy of POW coins, and not a completely objective and work based way of regulating the supply of the digital asset as is Bit Gold.
 
-On the other hand, Saifedean Ammous, the author of The Bitcoin Standard, The Fiat Standard, and Principles of Economics, praised the difficulty adjustment as one of the most important components of Nakamoto Consensus because it regulates the supply of the cryptocurrency.
+On the other hand, Saifedean Ammous, the author of The Bitcoin Standard, The Fiat Standard, and Principles of Economics, [praised the difficulty adjustment](https://academy.saifedean.com/podcast/the-bitcoin-standard-podcast-seminar-september-10-2020/) as one of the most important components of Nakamoto Consensus because it regulates the supply of the cryptocurrency.
 
 In this post we will explain how the POW difficulty adjustment works, and what are its benefits.
 
