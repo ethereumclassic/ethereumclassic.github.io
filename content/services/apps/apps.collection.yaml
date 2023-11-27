@@ -1,3 +1,24 @@
+- date: 2023-11-22
+  title: MonoNFT
+  description: A non-fungible token Marketplace.
+  image: ./images/231122-1340-mononft.png
+  type: nfts
+  author: Mono Money Pty Ltd
+  links:
+    - name: Launch App
+      link: https://mononft.net
+    - name: Twitter
+      link: https://twitter.com/mononftnet
+      icon: twitter
+    - name: Telegram Channel
+      link: https://t.me/mononftnet
+      icon: telegram
+    - name: Telegram Group
+      link: https://t.me/mononftgroup
+      icon: telegram
+    - name: Documentation
+      link: https://docs.mononft.net
+      icon: book
 - date: 2023-10-26
   title: HebeSwap Oracle
   description: HebeSwap Oracle is a middleware that integrates off-chain data into the Ethereum Classic (ETC) blockchain, enhancing smart contract capabilities. It provides a bridge between external data sources and smart contracts, enabling real-time data utilization.
