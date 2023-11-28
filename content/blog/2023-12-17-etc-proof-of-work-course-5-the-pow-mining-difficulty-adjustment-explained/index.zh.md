@@ -4,7 +4,7 @@ date: 2023-12-07
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["series", "education"]
-linkImage: ./banner.png
+linkImage: ./banner-3.png
 ---
 
 ---
@@ -13,6 +13,8 @@ linkImage: ./banner.png
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zsm_DSjuOIk?si=4fXk_0XljVHHQNfm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
+
+![](./banner-3.png)
 
 In the previous class, 4, we explained the broader Nakamoto Consensus design, each of its steps, and its features and benefits.
 
@@ -25,6 +27,8 @@ On the other hand, Saifedean Ammous, the author of The Bitcoin Standard, The Fia
 In this post we will explain how the POW difficulty adjustment works, and what are its benefits.
 
 ## What Is the Difficulty Adjustment?
+
+![](./banner.png)
 
 The difficulty adjustment basically regulates the timing of the supply of coins in POW blockchains as it enlarges or reduces the target to hit to determine the cryptographic stamp per block so that blocks can be created more or less constantly at the stipulated time intervals in each network, thus printing the coins at a steady pace. 
 
