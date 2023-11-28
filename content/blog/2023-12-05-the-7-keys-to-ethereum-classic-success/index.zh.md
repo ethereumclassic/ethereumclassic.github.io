@@ -4,7 +4,7 @@ date: 2023-12-05
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["philosophy"]
-linkImage: ./banner-2.png
+linkImage: ./banner-1.png
 ---
 
 ---
@@ -14,7 +14,7 @@ linkImage: ./banner-2.png
 
 ---
 
-![](./banner-2.png)
+![](./banner-1.png)
 
 On a macro level, the blockchain industry may be divided into two large categories; the truly decentralized blockchains and the centralized systems that try to mimic the attributes of decentralized blockchains but changing some parts of their designs to conform to certain misguided ideas.
 
