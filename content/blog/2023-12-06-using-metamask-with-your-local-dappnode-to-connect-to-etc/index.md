@@ -4,7 +4,7 @@ date: 2023-12-06
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["series", "education"]
-linkImage: ./banner.png
+linkImage: ./banner-2.png
 ---
 
 ---
@@ -13,6 +13,8 @@ linkImage: ./banner.png
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4df8281L6F0?si=6yakdKeu3ROAS0Bf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
+
+![](./banner-2.png)
 
 A blockchain like Ethereum Classic (ETC) has two kinds of participants: miners and nodes.
 
@@ -67,6 +69,8 @@ Other wallets are more open and let users change their endpoints and point their
 MetaMask is one of this last kind of providers.
 
 ## Using Your Own Endpoint Using DappNode
+
+![](./banner.png)
 
 MetaMask users can not only use the RPC endpoints they wish, local or third parties, but they can add and remove blockchain networks from their wallets.
 
