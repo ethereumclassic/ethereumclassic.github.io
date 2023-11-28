@@ -4,7 +4,7 @@ date: 2023-12-05
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["philosophy"]
-linkImage: ./banner.png
+linkImage: ./banner-2.png
 ---
 
 ---
@@ -14,7 +14,7 @@ linkImage: ./banner.png
 
 ---
 
-![](./banner.png)
+![](./banner-2.png)
 
 On a macro level, the blockchain industry may be divided into two large categories; the truly decentralized blockchains and the centralized systems that try to mimic the attributes of decentralized blockchains but changing some parts of their designs to conform to certain misguided ideas.
 
@@ -87,6 +87,8 @@ In the blockchain industry, security is only achieved through proof of work, and
 ETC is now the largest blockchain in the ETHash/ETCHash algorithm, which makes it the most secure in that aspect as well.
 
 ## 7. Applications in ETC Are the Most Secure Apps in the World
+
+![](./banner.png)
 
 Applications in ETC are the most secure in the world because the combination of proof of work, hard money, programmability, full replication, composability, and the fact that it is the largest in its category make it the most secure environment there is to run and execute applications.
 
