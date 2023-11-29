@@ -1,6 +1,6 @@
 ---
 title: "工作量证明课程：第2部分. 安全的共识机制的缺少"
-date: 2023-11-14
+date: 2023-11-16
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["series", "education"]
