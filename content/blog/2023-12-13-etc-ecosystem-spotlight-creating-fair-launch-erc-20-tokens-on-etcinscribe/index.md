@@ -14,6 +14,8 @@ linkImage: ./banner.png
 
 ---
 
+![](./banner.png)
+
 ETCInscribe is a new product launched by HebeBlock who is a dapp developer team based in China. They also created HebeSwap, a popular ETC decentralized exchange, Hens, an ETC based domain name service, and ETCScan, an ETC block explorer.
 
 ETCInscribe is a dapp that lets users create and mint ERC-20 tokens in what is called a fair launch manner.
@@ -68,49 +70,73 @@ In the following sections we explain how to create your own fair launch ERC-20 o
 
 ### 1. Go to ETCInscribe.com
 
+![](./1.png)
+
 The first step to create a fair launch ERC-20 token on ETC using ETCInscribe is to go to their website at https://etcinscribe.com. Once there, connect your wallet and click on the “Create ERC20” button.
 
 ### 2. See the ERC-20 Token Creation Form
+
+![](./2.png)
 
 In the next screen you will see the fair ERC-20 token creation form with the fields “Token Name”, “Token Symbol”, “Number of Maxs”, and “Mint Limit”.
 
 ### 3. Enter Your Parameters and Create Your Fair ERC-20 Token Launch
 
+![](./3.png)
+
 Now you can enter your parameters and preferences for your new fair token launch. In our case we used the sample name “Token-Y”, the symbol “TKNY”, the number of max mints 1,000, and a limit per mint of 100,000 tokens. Once you enter your preferences, press the button “Create Fair ERC20”.
 
 ### 4. Confirm Your Transaction on Your Wallet
+
+![](./4.png)
 
 In the next step, ETCInscribe will generate the transaction on your ETC wallet. On your wallet press “Confirm” to execute the transaction to create your fair ERC-20 token.
 
 ### 5. Wait for Your Transaction to be Confirmed
 
+![](./5.png)
+
 Because the ETC network takes more or less 13 to 26 seconds to confirm transactions, you need to wait a short while to see your transaction execution.
 
 ### 6. Fair ERC-20 Token Is Created: Add Token To Your Wallet
+
+![](./6.png)
 
 When the ETC network confirms your fair launch ERC-20 smart contract creation, your wallet will ask you if you wish to import that token. Press “Add token” on your wallet to see your balances later.
 
 ### 7. See the Profile Page of Your New Token!
 
+![](./7.png)
+
 Once you added the token to your wallet, the wallet window will close and you will see the profile page of your new fair ERC-20 token! In our case, because we specified a 1,000 mint limit and a max amount of 100,000 tokens per mint, then the total supply of our ERC-20 token, if users mint them all, will be 100,000,000.
 
 ### 8. Mint Your Fair ERC-20 Token for Yourself!
+
+![](./8.png)
 
 Now that your new fair ERC-20 token has been created, you can mint tokens for yourself! To do this click on the “Free Mint” button.
 
 ### 9. Confirm Your Mint Transaction 
 
+![](./9.png)
+
 In the next step, ETCInscribe will send the transaction to your wallet. To execute the transaction, click on the “Confirm” button on your ETC wallet.
 
 ### 10. Wait Until the Transaction is Executed
+
+![](./10.png)
 
 Now you have to wait a few seconds again until the minting is executed.
 
 ### 11. Your Total Mint Number Goes Down
 
+![](./11.png)
+
 Once the minting transaction is executed, you will see your fair ERC-20 token profile page again, but you will see that now there is one less mint available on your token (in our case it went down from 1,000 to 999) because you did the first mint. As users mint your token that number will go down until it gets to zero.
 
 ### 12. Check Your Fair ERC-20 Token Balance on Your Wallet!
+
+![](./12.png)
 
 If you open your wallet to check your balances, you will see that now you have a balance of your newly created fair ERC-20 token! In our case we have a balance of 100,000 $TKNY as this was the set amount we defined during token creation.
 
