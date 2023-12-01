@@ -93,11 +93,17 @@ In other words, ETC is the best of both worlds.
 In summary, Ethereum Classic has 7 key advantages that neither Bitcoin nor Ethereum hold completely:
 
 **1. POW:** ETC is proof of work, Bitcoin is too but it is not programmable.
+
 **2. Programmable:** ETC is programmable, Ethereum is too but it is not proof of work.
+
 **3. Digital gold:** ETC is digital gold like Bitcoin, but Ethereum is just a fiat community token.
+
 **4. Fully replicated:** ETC is a fully replicated blockchain as both Bitcoin and Ethereum are.
+
 **5. Composable:** ETC is composable, but Bitcoin isn’t. Ethereum is, but they have plans to divide it through layer 2 systems.
+
 **6. The largest one:** ETC is the largest POW smart contracts blockchain in the world, Bitcoin and Ethereum are not.
+
 **7. The most secure apps:** Because of the complete combination of features above, unlike Bitcoin and Ethereum, apps in ETC are the most secure software applications in the world.
 
 Based on this analysis, we can confidently state that ETC is the best blockchain in the market.
