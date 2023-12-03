@@ -1,5 +1,5 @@
 ---
-title: "The 7 Keys to Ethereum Classic's Success"
+title: "7个决定ETC成功的关键因素"
 date: 2023-12-05
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner-1.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VwO3AEabErg?si=tezYq_dAhrA4UQl1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,88 +16,90 @@ linkImage: ./banner-1.png
 
 ![](./banner-1.png)
 
-On a macro level, the blockchain industry may be divided into two large categories; the truly decentralized blockchains and the centralized systems that try to mimic the attributes of decentralized blockchains but changing some parts of their designs to conform to certain misguided ideas.
+宏观上，区块链行业可以分为两大类：真正分散的区块链和试图模仿分散区块链属性但改变设计的中心化系统，以符合某些错误的观念。
 
-However, these misguided changes in themselves are what remove the main attribute of true blockchains which is trust minimization.
+然而，这些错误的变化本身正是移除真正区块链的主要属性，即信任最小化的原因。
 
-The other categorization is between those networks that are more versatile and those that are narrow in their use cases.
+另一种分类是那些更为多功能和用途较窄的网络之间的区别。
 
-In this post we will explain the 7 key reasons why Ethereum Classic (ETC) is in the most valuable position with regards to these categorizations.
+在本文中，我们将解释以太坊经典（ETC）在这些分类方面处于最有价值位置的7个关键原因。
 
-## 1. ETC Is a Proof of Work Blockchain
+## 1. ETC 是工作量证明区块链
 
-ETC is a proof of Work (POW) blockchain, and this puts it in the category of truly decentralized systems because POW is the only way known to man that guarantees decentralization and the free participation of any node in a peer to peer network.
+ETC是一种工作量证明（POW）区块链，这使其属于真正分散系统的范畴，因为POW是人类已知的唯一确保分散和任何节点自由参与点对点网络的方式。
 
-By “free participation” we mean that anyone in the world may operate a node or mine ETC without any permission or censorship. 
+所谓的“自由参与”是指世界上任何人都可以在没有任何许可或审查的情况下操作节点或挖掘ETC。
 
-It also means that anyone in the world may send transactions and have addresses with balances in ETC with the guarantee that they will not be confiscated nor tampered with by any special interest.
+这也意味着世界上任何人都可以发送交易并拥有ETC余额的地址，并保证它们不会被任何特殊利益没收或篡改。
 
-POW aditionally means that there is a cryptographic wall that protects the history of transactions in the system that is practically impossible to violate.
+此外，POW还意味着存在一个几乎不可能违反的加密墙，用于保护系统中交易历史。
 
-## 2. ETC Is Hard Money
+## 2. ETC 是硬货币
 
-ETC is hard money because it is a POW blockchain, therefore the cost of creating the blocks is the cost of creating the coins, thus creating scarcity, unforgeable costliness, and value similar to gold in the real world.
+ETC是硬货币，因为它是POW区块链，因此创建区块的成本就是创建硬币的成本，从而创造了类似黄金在现实世界中的稀缺性、不可伪造的昂贵性和价值。
 
-ETC also has a fixed coin supply schedule in its monetary policy, meaning that there will only be 210,700,000 ETC ever in existence. 
+ETC在其货币政策中还设有固定的货币供应计划，意味着将来只会有210,700,000个ETC存在。
 
-This stock is being issued as rewards are paid to miners on a per block basis, and is managed by reducing the amount paid by 20% every two years.
+这个库存是作为奖励按每个区块支付给矿工，并通过每两年减少20％的方式管理。
 
-The current inflation rate in ETC as per its present issuance is 3.91%; it will be less than 2% by 2032; and less than 1% by 2036. This trend will tend to zero in the following years.
+根据其当前发行情况，ETC的通货膨胀率为3.91％；到2032年将低于2％；到2036年将低于1％。这一趋势将在随后的几年趋近于零。
 
-As hard money, ETC protects the value of users’ savings and investments in the long term.
+作为硬货币，ETC在长期内保护用户储蓄和投资的价值。
 
-## 3. ETC Is Programmable
+## 3. ETC 是可编程的
 
-Ethereum Classic is programmable at the base layer through smart contracts inside its highly secure environment.
+以太坊经典通过其高度安全的环境内的智能合约在基础层面是可编程的。
 
-Smart contracts are software programs that when they are sent to the network, they get replicated in all the nodes of the systems, therefore becoming totally decentralized.
+智能合约是软件程序，当它们被发送到网络时，在系统的所有节点中都会被复制，因此变得完全分散。
 
-The other competing POW chains such as Bitcoin, Litecoin, DOGE, Monero, or Kaspa, are not programmable, thus are simple and limited systems that only hold accounts, balances, and can move money from one account to the other, but nothing else.
+其他竞争的POW链，如比特币、莱特币、狗狗币、门罗币或卡斯帕，都不可编程，因此是简单且功能有限的系统，只能保持帐户、余额并能够在帐户之间转移资金，但无法执行其他操作。
 
-ETC is a leap in versatility comparable to how computers were a leap in versatility versus pocket calculators in 1980s.
+ETC在多方面的可变性使其与20世纪80年代计算机与口袋计算器相比具有相似的可变性。
 
-## 4. ETC Is Fully Replicated
+## 4. ETC 是完全复制的
 
-ETC’s blockchain; or database, with accounts, balances, and smart contracts; is fully replicated, meaning that 100% of the nodes keep an identical copy of all the information. The more nodes there are, the more secure the system is.
+ETC的区块链，或者说数据库，包括帐户、余额和智能合约，是完全复制的，这意味着100%的节点保留了所有信息的相同副本。节点越多，系统越安全。
 
-This was the original goal of blockchains; to achieve the full replication of the data in as many participating peers as possible to guarantee maximal redundancy. 
+这是区块链的最初目标；在尽可能多的参与对等方中实现数据的完全复制，以确保最大的冗余性。
 
-POW was the key to achieve this replication through consensus in a decentralized way, and is actually the second most important security guarantee of the technology.
+POW是通过分散的方式实现这种复制的关键，实际上是技术的第二个最重要的安全保障。
 
-Full replication was the first security guarantee, and it offers a redundancy that makes the system resistant to tampering by man or destruction by nature. ETC can survive even a nuclear war!
+完全复制是第一个安全保障，它提供了一种冗余性，使系统能够抵抗人为篡改或自然破坏。ETC甚至可以在核战争中生存下来！
 
-## 5. ETC Is Composable
+## 5. ETC 是可组合的
 
-Ethereum Classic is composable, which is a very important quality.
+以太坊经典是可组合的，这是一个非常重要的特性。
 
-Composability is possible because all accounts, balances, and decentralized software programs are inside the same system, therefore complex multi-app transactions may be performed in single transaction executions.
+可组合性是可能的，因为所有帐户、余额和去中心化软件程序都在同一个系统中，因此可以在单个事务执行中执行复杂的多应用程序事务。
 
-When systems are separated; such as in Bitcoin, where the money is inside the blockchain but the applications are in other external platforms, because BTC is not programmable; then complex multi-app transactions are not possible as the blockchain does not have certainty of what is the state of the external system and the external system does not have certainty of what is the state of the blockchain.
+当系统分开时；比如在比特币中，其中资金在区块链内，但应用程序在其他外部平台上，因为BTC不可编程；则复杂的多应用程序事务是不可能的，因为区块链无法确定外部系统的状态，而外部系统也无法确定区块链的状态。
 
-Composability is very important because it enables instantaneous transactions, shorter settlement times, reduces friction, and lowers transactional costs.
+可组合性非常重要，因为它实现了即时交易、较短的结算时间，减少了摩擦，并降低了交易成本。
 
-## 6. ETC Is the Largest POW Smart Contracts Blockchain in the World
+## 6. ETC 是世界上最大的POW智能合约区块链
 
-Since Ethereum migrated to proof of stake in September of 2022, Ethereum Classic has become the largest proof of work smart contracts blockchain in the world.
+自以太坊于2022年9月迁移到权益证明后，以太坊经典已成为世界上最大的工作量证明智能合约区块链。
 
-Having this position makes ETC extremely attractive because, when markets start to realize that proof of stake and proof of authority consensus are centralized and vulnerable, developers, investors, users, miners, and node operators will start to move to ETC. 
+拥有这个地位使ETC非常有吸引力，因为当市场开始意识到权益证明和权威证明共识是中心化和脆弱的时候，开发者、投资者、用户、
 
-In the blockchain industry, security is only achieved through proof of work, and proof of work is only secure when the blockchain is the largest in its POW algorithm. 
+矿工和节点运营者将开始转向ETC。
 
-ETC is now the largest blockchain in the ETHash/ETCHash algorithm, which makes it the most secure in that aspect as well.
+在区块链行业，只有通过工作量证明才能实现安全性，而只有在区块链是其POW算法中最大的情况下，工作量证明才是安全的。
 
-## 7. Applications in ETC Are the Most Secure Apps in the World
+ETC现在是ETHash/ETCHash算法中最大的区块链，这也使其在这方面是最安全的。
+
+## 7. ETC上的应用是世界上最安全的应用
 
 ![](./banner.png)
 
-Applications in ETC are the most secure in the world because the combination of proof of work, hard money, programmability, full replication, composability, and the fact that it is the largest in its category make it the most secure environment there is to run and execute applications.
+在以太坊经典（ETC）上的应用之所以是世界上最安全的，是因为工作量证明、硬货币、可编程性、完全复制、可组合性以及它是其类别中最大的这些因素的结合，使其成为运行和执行应用程序最安全的环境。
 
-There is no other place in the universe where applications can be more secure than it ETC. 
+在整个宇宙中，没有其他地方可以比ETC更安全地运行应用程序。
 
-Not in military data centers, not in corporate data centers, not in cloud services, and not in any kind of network that is not the largest proof of work programmable blockchain.
+无论是在军事数据中心、企业数据中心、云服务中，还是在任何不是最大的工作量证明可编程区块链的网络中，都找不到比ETC更安全的应用环境。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
