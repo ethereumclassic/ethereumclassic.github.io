@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 6. ETC Is BTC Philosophy With ETH Technology"
+title: "ETC工作量证明课程：6.ETC是BTC哲学与ETH技术的结合"
 date: 2023-12-14
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,109 +8,110 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wcBmYWDlc7k?si=kApH47fbN7AfC1eV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-From classes 1 through 5 of this course, we have explained how POW works in detail. 
+在这门课的1到5课程中，我们详细解释了工作量证明（POW）的工作原理。
 
-The benefits of POW to Ethereum Classic (ETC) are:
+对于以太坊经典（ETC）而言，POW的好处包括：
 
-- Decentralization
-- Hard money
-- Permissionlessness
-- Censorship resistance
+- 去中心化
+- 硬货币
+- 无需许可
+- 抗审查性
 
-In this class, 6, we will explain the benefits and the great advantages of Ethereum Classic with regards to Bitcoin (BTC) and Ethereum (ETH).
+在第6课中，我们将解释以太坊经典相对于比特币（BTC）和以太坊（ETH）的好处和巨大优势。
 
-## Satoshi Nakamoto Actually Planned Smart Contracts for Bitcoin
+## 中本聪实际上计划在比特币上使用智能合约
 
-Satoshi Nakamoto had envisioned programmability for Bitcoin as seen in his comment of June of 2010 below:
+中本聪曾经设想过比特币的可编程性，正如他在2010年6月的以下评论中所示：
 
-*“The design supports a tremendous variety of possible transaction types that I designed years ago.  Escrow transactions, bonded contracts, third party arbitration, multi-party signature, etc.  If Bitcoin catches on in a big way, these are things we'll want to explore in the future, but they all had to be designed at the beginning to make sure they would be possible later.”*
+*“设计支持我多年前设计的各种可能的交易类型。 托管交易，保证金合同，第三方仲裁，多方签名等等。 如果比特币在很大程度上变得流行，这些都是我们将来想要探索的事情，但它们都必须在开始时进行设计，以确保它们以后是可能的。”*
 
-– Satoshi Nakamoto
+– 中本聪
 
 BitcoinTalk: https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
 
-This is actually one of the clues that Mr. Nakamoto was a cypherpunk, as these topics of money, Bit Gold, and smart contracts were developed only in those circles. 
+实际上，这是中本聪是密码朋克的线索之一，因为这些有关货币、Bit Gold 和智能合约的主题仅在这些圈子中发展起来。
 
-## But Smart Contracts Didn’t Work on Bitcoin
+## 但是比特币上的智能合约无法运行
 
-However, because of technical problems with its design, Bitcoin did not support smart contracts inside its highly secure environment.
+然而，由于其设计存在技术问题，比特币不支持在其高度安全的环境中运行智能合约。
 
-Bitcoin has a very limited scripting language and its model of handling addresses and transactions, called the “Unspent Transaction Output” model or “UTXO”, presented barriers to programmability.
+比特币有一种非常有限的脚本语言，以及其处理地址和交易的模型称为“未花费的交易输出”模型或“UTXO”对可编程性提出了障碍。
 
-Following Bitcoin’s invention, there were several attempts at adding  programmability to it, for example projects such as “[Colored Coins](https://en.bitcoin.it/wiki/Colored_Coins)” and “[MasterCoin](https://cryptochainuni.com/wp-content/uploads/Mastercoin-2nd-Bitcoin-Whitepaper.pdf)”, but they gained little traction and ran into the same problems as described above.
+在比特币发明后，曾有几次尝试向其添加可编程性，例如项目如 “[Colored Coins](https://en.bitcoin.it/wiki/Colored_Coins)” 和 “[MasterCoin](https://cryptochainuni.com/wp-content/uploads/Mastercoin-2nd-Bitcoin-Whitepaper.pdf)” 等，但它们几乎没有引起关注，并遇到了上述描述的相同问题。
 
-In essence, Bitcoin was to stay as a plain vanilla cryptocurrency.
+实质上，比特币被设计成保持为纯粹的加密货币。
 
-## The Invention of Ethereum Classic
+## 以太坊经典的发明
 
-This is why Vitalik Buterin invented Ethereum Classic, which is the original Ethereum, to be a POW blockchain, with digital gold, and that it could be programmable. 
+这就是为什么Vitalik Buterin发明了以太坊经典的原因，即原始以太坊，以成为POW区块链，具有数字黄金，并且可以编程。
 
-Smart contracts are the second most important invention of the blockchain industry, Nakamoto Consensus being the first.
+智能合约是区块链行业的第二大重要发明，中本聪共识是第一大发明。
 
-Mr. Buterin solved the smart contract problem by creating a totally new blockchain and adding to it the following components:
+Buterin先生通过创建一个全新的区块链并向其添加以下组件来解决智能合约问题：
 
-- The account system instead of the UTXO model
-- A virtual machine (the Ethereum Virtual Machine)
-- The ability to read and execute special programming languages
-- The GAS system that creates a payment system for miners to execute programs and avoids spam and the halting problem
+- 帐户系统而不是UTXO模型
+- 虚拟机（以太坊虚拟机）
+- 能够读取和执行特殊的编程语言
+- GAS系统，为矿工执行程序创建支付系统，并避免垃圾邮件和停机问题
 
-## In 2016 Ethereum Separated From Ethereum Classic
+## 在2016年，以太坊与以太坊经典分道扬镳
 
-The reason why today we have two blockchains named “Ethereum”, namely “Ethereum Classic” and “Ethereum”, is that in July 20 of 2016 Ethereum separated from the original chain due to a crisis with a specific application inside the system.
+之所以今天我们有两个名为“以太坊”的区块链，即“以太坊经典”和“以太坊”，是因为在2016年7月20日，由于系统内的特定应用出现危机，以太坊从原始链分离出来。
 
-The application was called “TheDAO”, it had accumulated more than $150 million in deposits in ether from the community, but it was hacked in June of 2016.
+该应用名为“TheDAO”，它从社区中累积了超过1.5亿美元的以太币，但在2016年6月被黑客攻击。
 
-The hacker stole more or less $50 million at the time, and the Ethereum community decided to return the money from the hacker to the original investors by manually reversing transactions in the blockchain.
+黑客当时窃取了大约5000万美元，以太坊社区决定通过手动撤销区块链中的交易，将黑客的钱返还给原始投资者。
 
-Because this broke the main ethos of immutability and security in a blockchain, a small portion of the community decided to keep maintaining the original Ethereum network and called it Ethereum Classic.
+因为这违反了不可变性和区块链安全性的主要伦理，社区的一小部分决定继续维护原始的以太坊网络，并将其称为以太坊经典。
 
-This is why ETC is the original untampered and secure chain.
+这就是为什么ETC是原始未篡改和安全链的原因。
 
-## In 2022 Ethereum Migrated to Proof of Stake
+## 在2022年，以太坊迁移到了股权证明
 
-Continuing with a philosophy of scalability and to “save the trees”, the Ethereum community decided to migrate from the highly secure proof of work consensus mechanism (Nakamoto Consensus) to a less secure but less electricity consuming format called proof of stake.
+继续推崇可扩展性和“拯救树木”的理念，以太坊社区决定从高度安全的工作量证明共识机制（中本聪共识）迁移到一个较不安全但较少消耗电力的格式，称为股权证明。
 
-When Ethereum migrated to proof of stake on September 15 2022, ETC became the largest proof of work smart contracts blockchain in the world.
+当以太坊于2022年9月15日迁移到股权证明时，ETC成为了全球最大的工作量证明智能合约区块链。
 
-It’s hashrate, the amount of computing power that a proof of work network has, increased from 25 TH/s to more than 200 TH/s, to stabilize today at around 150 TH/s. 
+其哈希率，即工作量证明网络拥有的计算能力，从25 TH/s增加到超过200 TH/s，目前稳定在约150 TH/s左右。
 
-## Ethereum Classic Is Bitcoin Philosophy With Ethereum Technology 
+## 以太坊经典是比特币哲学与以太坊技术的结合
 
 ![](./1.png)
 
-If we take into account that Ethereum Classic is a proof of work blockchain like Bitcoin, that it has a fixed monetary policy, making it digital gold, and that it is programmable like Ethereum, which makes it programmable digital gold, then we can say that ETC is Bitcoin’s philosophy with Ethereum’s technology.
+如果我们考虑到以太坊经典是像比特币一样的工作量证明区块链，具有固定的货币政策，使其成为数字黄金，并且像以太坊一样可编程，从而使其成为可编程的数字黄金，那么我们可以说ETC是比特币的哲学与以
 
-In other words, ETC is the best of both worlds.
+太坊技术的结合。
 
-## Ethereum Classic’s Key Advantages
+换句话说，ETC是两全其美。
 
-In summary, Ethereum Classic has 7 key advantages that neither Bitcoin nor Ethereum hold completely:
+## 以太坊经典的关键优势
 
-**1. POW:** ETC is proof of work, Bitcoin is too but it is not programmable.
+总的来说，以太坊经典拥有七个关键优势，而比特币和以太坊没有完全拥有：
 
-**2. Programmable:** ETC is programmable, Ethereum is too but it is not proof of work.
+**1. POW：** ETC是工作量证明，比特币也是，但它不能进行编程。
 
-**3. Digital gold:** ETC is digital gold like Bitcoin, but Ethereum is just a fiat community token.
+**2. 可编程：** ETC是可编程的，以太坊也是，但它不是工作量证明。
 
-**4. Fully replicated:** ETC is a fully replicated blockchain as both Bitcoin and Ethereum are.
+**3. 数字黄金：** ETC是数字黄金，就像比特币一样，但以太坊只是一个法定的社区代币。
 
-**5. Composable:** ETC is composable, but Bitcoin isn’t. Ethereum is, but they have plans to divide it through layer 2 systems.
+**4. 完全复制：** ETC是完全复制的区块链，就像比特币和以太坊一样。
 
-**6. The largest one:** ETC is the largest POW smart contracts blockchain in the world, Bitcoin and Ethereum are not.
+**5. 可组合：** ETC是可组合的，但比特币不是。以太坊是，但它们计划通过第二层系统来分割它。
 
-**7. The most secure apps:** Because of the complete combination of features above, unlike Bitcoin and Ethereum, apps in ETC are the most secure software applications in the world.
+**6. 最大的一个：** ETC是全球最大的工作量证明智能合约区块链，比特币和以太坊不是。
 
-Based on this analysis, we can confidently state that ETC is the best blockchain in the market.
+**7. 最安全的应用：** 由于以上所有功能的完美结合，与比特币和以太坊不同，ETC中的应用程序是世界上最安全的软件应用程序。
 
+基于这一分析，我们可以自信地说ETC是市场上最好的区块链。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC: https://ethereumclassic.org
