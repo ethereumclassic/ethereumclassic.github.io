@@ -4,7 +4,7 @@ date: 2023-12-12
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["series", "education"]
-linkImage: ./banner.png
+linkImage: ./banner-1.png
 ---
 
 ---
@@ -24,7 +24,7 @@ The data on these websites may be organized by block, by transactions, or addres
 
 ## What Is Blockscout?
 
-![](banner.png)
+![](banner-1.png)
 
 Blockscout in the most used block explorer for the Ethereum Classic (ETC) blockchain.
 
