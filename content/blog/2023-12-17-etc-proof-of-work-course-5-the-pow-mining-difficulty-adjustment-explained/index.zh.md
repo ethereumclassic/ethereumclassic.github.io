@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 5. The POW Mining Difficulty Adjustment Explained"
+title: "以太坊经典课程: 5. 矿工难度调整解释"
 date: 2023-12-07
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner-3.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zsm_DSjuOIk?si=4fXk_0XljVHHQNfm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,81 +16,81 @@ linkImage: ./banner-3.png
 
 ![](./banner.png)
 
-In the previous class, 4, we explained the broader Nakamoto Consensus design, each of its steps, and its features and benefits.
+在上一堂课中，第4堂，我们解释了更广义的中本聪共识设计，以及它的每个步骤、特点和优势。
 
-One of the most controversial parts of the proof of work (POW) method is the difficulty adjustment system. 
+在工作证明（POW）方法中，最具争议的部分之一是难度调整系统。
 
-Nick Szabo [expressed concerns](https://unenumerated.blogspot.com/2011/05/bitcoin-what-took-ye-so-long.html) about it as it is a manipulable parameter, just like the monetary policy of POW coins, and not a completely objective and work based way of regulating the supply of the digital asset as is Bit Gold.
+Nick Szabo在他的博客中[表达了担忧](https://unenumerated.blogspot.com/2011/05/bitcoin-what-took-ye-so-long.html)，因为这是一个可操纵的参数，就像POW币的货币政策一样，并不是一种完全客观和基于工作的方式来调节数字资产供应，就像比特黄金（Bit Gold）一样。
 
-On the other hand, Saifedean Ammous, the author of The Bitcoin Standard, The Fiat Standard, and Principles of Economics, [praised the difficulty adjustment](https://academy.saifedean.com/podcast/the-bitcoin-standard-podcast-seminar-september-10-2020/) as one of the most important components of Nakamoto Consensus because it regulates the supply of the cryptocurrency.
+另一方面，《比特币标准》、《法定货币标准》和《经济学原理》的作者Saifedean Ammous[赞扬了难度调整](https://academy.saifedean.com/podcast/the-bitcoin-standard-podcast-seminar-september-10-2020/)，认为它是中本聪共识的最重要组成部分之一，因为它调节了加密货币的供应。
 
-In this post we will explain how the POW difficulty adjustment works, and what are its benefits.
+在这篇文章中，我们将解释POW难度调整的工作原理，以及它的好处。
 
-## What Is the Difficulty Adjustment?
+## 什么是难度调整？
 
-The difficulty adjustment basically regulates the timing of the supply of coins in POW blockchains as it enlarges or reduces the target to hit to determine the cryptographic stamp per block so that blocks can be created more or less constantly at the stipulated time intervals in each network, thus printing the coins at a steady pace. 
+难度调整基本上调节了POW区块链中的硬币供应时间，因为它扩大或缩小了每个区块的加密戳的目标，以便在每个网络中可以以更或更少地在规定的时间间隔内创建区块，从而以稳定的速度打印硬币。
 
-For example, the difficulty adjustment keeps Bitcoin’s block creation at 10 minute intervals on average, ETC at 13 seconds, and Litecoin at 2 1/2 minutes. 
+例如，难度调整使比特币的区块平均创建时间保持在10分钟，ETC为13秒，莱特币为2分30秒。
 
-This ensures that the printing of the coins is not too fast or too slow when miners increase or decrease hashrate in each network due to market conditions.
+这确保了在矿工根据市场条件增加或减少算力时，硬币的打印速度不会太快或太慢。
 
-## How Does the Difficulty Adjustment Work?
+## 难度调整的工作原理是什么？
 
 ![](./1.png)
 
-As miners need to hit a target range of numbers when creating the cryptographic stamp per block, the target can be enlarged or reduced depending on the speed of the blocks. The speed of the blocks increases or decreases if the total computing power held by miners increases or decreases.
+由于矿工在创建每个区块的加密戳时需要命中一个数字范围，因此目标根据区块的速度可以扩大或缩小。如果矿工的总计算能力增加或减少，区块的速度就会增加或减少。
 
-In the next sections we will explain states and options of the difficulty adjustment system.
+在接下来的部分中，我们将解释难度调整系统的状态和选项。
 
-## 1. Stable Difficulty State
+## 1. 稳定的难度状态
 
 ![](./2.png)
 
-In a stable difficulty state, miners will take, on average, a certain time to hit the target for each block. In these conditions, that time is 10 minutes per block in Bitcoin, 13 seconds in ETC, and 2 ½ minutes for Litecoin. 
+在稳定的难度状态下，矿工平均需要一定的时间来命中每个区块的目标。在这些条件下，比特币每个区块的时间是10分钟，ETC是13秒，莱特币为2分30秒。
 
-Note in the diagram, that in the stable difficulty state, it takes a number of attempts (red crosses mean failed attempts) to hit the target (green cross).
+请注意，在图表中，在稳定的难度状态下，需要一定数量的尝试（红叉表示失败的尝试）才能命中目标（绿叉）。
 
-## 2. Reducing Difficulty
+## 2. 降低难度
 
 ![](./3.png)
 
-If, for example, miners reduce the hashing power because the coin market is down, then the time that it would take to find a block would increase, slowing the creation of coins. To solve this and adjust the time back to the desired average, the target range will be enlarged, making it less difficult to hit.
+例如，如果矿工减少哈希功率，因为币市下跌，那么找到一个区块所需的时间将增加，从而减缓硬币的创建。为了解决这个问题并将时间调整回所需的平均水平，目标范围将被扩大，使命中目标变得不那么困难。
 
-Note, as indicated in the diagram in this section, that less difficulty takes less attempts to hit the target.
+请注意，在本节图表中指示的是，难度较小时，命中目标所需的尝试较少。
 
-## 3. Increasing Difficulty
+## 3. 增加难度
 
 ![](./4.png)
 
-If miners were to increase the hashing power because the coin market is up, then the time that would take to find a block would decrease, creating more coins faster. To solve this and adjust the time back to the desired average, the target range will be reduced, making it more difficult to hit.
+如果矿工增加哈希功率，因为币市上涨，那么找到一个区块所需的时间将减少，从而更快地创建更多硬币。为了解决这个问题并将时间调整回所需的平均水平，目标范围将被缩小，使命中目标变得更加困难。
 
-Note, as indicated in the diagram in this section, that more difficulty takes more attempts to hit the target.
+请注意，在本节图表中指示的是，难度较大时，命中目标所需的尝试较多。
 
-## Benefits of the Difficulty Adjustment in Proof of Work Blockchains
+## POW区块链难度调整的好处
 
-The difficulty adjustment in Bitcoin avoided the problems that Satoshi had when he created it. 
+比特币中的难度调整避免了中本聪在创建时遇到的问题。
 
-There was no market inside the network to exchange the Bit Gold for coins, and there was no technology available yet to create these tokens backed by Bit Gold.
+在网络内部没有市场可以用Bit Gold交换硬币，而且还没有技术可用来创建由Bit Gold支持的代币。
 
-The difficulty adjustment simplified the mechanism by just creating coins in exchange for the work of the miners, but the Bit Gold itself was not used and has been buried in proof of work blockchains ever since.
+难度调整通过仅通过矿工的工作创建硬币来简化机制，但Bit Gold本身并未被使用，并一直深埋在工作证明区块链中。
 
-The end result is that the difficulty adjustment regulates supply of these coins by regulating blocktimes, therefore stabilizing the blockchains in terms of their monetary policies, hashrates, transaction velocities, confirmation times, settlement times, etc.
+最终结果是，难度调整通过调节区块时间来调节这些硬币的供应，从而稳定了区块链的货币政策、算力、交易速度、确认时间、结算时间等方面。
 
-## Putting it all Together for Ethereum Classic
+## 将所有内容整合到以太经典
 
-From classes 1 through 5 of this course, we have explained how POW works in detail. 
+在本课程的第1至第5课中，我们详细解释了POW的工作原理。
 
-The benefits of POW to ETC are:
+POW对ETC的好处包括：
 
-- Decentralization
-- Permissionlessness
-- Hard money
-- Censorship resistance
+- 分权
+- 无许可
+- 增强货币
+- 抗审查
 
-In the next class, 6, we will explain the benefits and the great advantages of ETC with regards to Bitcoin and Ethereum.
+在下一堂课，第6堂，我们将解释ETC相对于比特币和以太坊的好处和巨大优势。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，请访问: https://ethereumclassic.org
