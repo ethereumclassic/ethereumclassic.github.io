@@ -16,7 +16,7 @@ linkImage: ./banner.png
 
 ![](./1.png)
 
-On November 7th of 2023 Ethereum Classic (ETC) developer and community member Garalo reported on the ETC Discord server that he was having trouble attempting to launch smart contracts. He also reported that other developers had the same problem. 
+On November 7th of 2023 Ethereum Classic (ETC) developer and community member Garalo reported on the [ETC Discord server](https://ethereumclassic.org/discord) that he was having trouble attempting to launch smart contracts. He also reported that other developers had the same problem. 
 
 At that time, ETC core developer Chris Ziogas responded to the concern and started to work on finding and solving the problem. 
 
@@ -30,7 +30,7 @@ The gas limit establishes a maximum number of gas that may be used in a block, t
 
 The solution was to contact mining pools and miners to request them to raise the gas limit again to the 8 million level. 
 
-F2pool, the largest mining pool in the ETC blockchain, responded within several hours that the change back to 8 million gas per block had been implemented.
+F2pool, the largest mining pool in the ETC blockchain, [responded](https://twitter.com/f2pool_official/status/1722142321377206441) within several hours that the change back to 8 million gas per block had been implemented.
 
 ![](./4.png)
 
@@ -42,7 +42,7 @@ Later that day, developer and community member Garalo reported that his problem 
 
 ![](./6.png)
 
-As we write this post, we can see that the gas limit in ETC has been on its normal average of 8 million per block ever since. 
+As we write this post, we can [see](https://etc.blockscout.com/stats) that the gas limit in ETC has been on its normal average of 8 million per block ever since. 
 
 The abnormal gas limit fluctuation lasted from October 19th to November 8th of 2023.
 
