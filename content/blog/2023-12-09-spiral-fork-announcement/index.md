@@ -14,10 +14,8 @@ The Spiral Upgrade will be activated on **block 19,250,000**, which is estimated
 
 A service has been published to monitor adoption of the new client software at https://etcnodes.org/fork/spiral.
 
-Similar to previous upgrades on Ethereum Classic, the Spiral Hard Fork is a compatibility update that includes technical changes to a number of OPCODEs relevant to the network. The Spiral Upgrade will bring the ETC Network to parity with upstream EVM standards, facilitating contract development and migration. 
+Similar to previous upgrades on Ethereum Classic, the Spiral Hard Fork is a compatibility update that includes technical changes to a number of OPCODEs relevant to the network. The Spiral Upgrade will bring the ETC Network to parity with upstream EVM standards, facilitating contract development and migration.
 
-> Enable the outstanding Ethereum Foundation Shanghai network protocol upgrades on the Ethereum Classic network in a hard-fork code-named Spiral to enable maximum compatibility across these networks.
->
-> - [ECIP-1109](https://ecips.ethereumclassic.org/ECIPs/ecip-1109)
+[MESS (ECBP1100)](https://ecips.ethereumclassic.org/ECIPs/ecip-1100) is also scheduled to deactivate coincidentally with the Spiral hard fork.
 
 The technical specification of Spiral can be found at https://ecips.ethereumclassic.org/ECIPs/ecip-1109.
