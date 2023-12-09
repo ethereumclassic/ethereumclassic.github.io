@@ -2,7 +2,7 @@
 title: "以太坊经典是一种智能合约加密货币区块链"
 date: 2023-10-24
 author: Donald McIntyre
-contributors: ["Donald McIntyre"]
+contributors: ["DonaldMcIntyre"]
 tags: ["education", "series"]
 linkImage: ./banner.png
 ---
