@@ -4,7 +4,7 @@ date: 2023-11-21
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["education"]
-linkImage: ./banner.png
+linkImage: ./banner-1.png
 ---
 
 ---
@@ -14,7 +14,7 @@ linkImage: ./banner.png
 
 ---
 
-![](./banner.png)
+![](./banner-1.png)
 
 As there seems to be many who still ask what are 51% attacks, what happened to Ethereum Classic (ETC) in the past, and have confusion about these things, we decided to write this post to answer all the doubts and correct all confusions.
 
