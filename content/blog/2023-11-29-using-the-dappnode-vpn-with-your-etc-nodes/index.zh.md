@@ -4,7 +4,7 @@ date: 2023-11-29
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["series", "education"]
-linkImage: ./banner1.png
+linkImage: ./banner-2.png
 ---
 
 ---

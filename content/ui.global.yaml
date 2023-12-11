@@ -48,14 +48,14 @@ qa:
 announcement:
   __color: green
   __enabled: 1
-  __allPages: 1
-  __onlyi18n: 1
-  __icon: language
+  __allPages: 0
+  __onlyi18n: 0
+  __icon: bullhorn
   text: |
-    This website is now translated into multiple languages through machine learning. Click the flag at the top right of the page to change language. If you'd like to help correct translations, please contact us!
+    The Spiral Network Upgrade will be activated on block 19,250,000, which is estimated to arrive January 31, 2024. Please ensure your node software is updated to the latest version.
   button:
-    __link: https://github.com/ethereumclassic/ethereumclassic.github.io#translations
-    text: "Help Translate"
+    __link: /blog/2023-12-09-spiral-fork-announcement
+    text: "Learn More"
 ## Global Disclaimer
 disclaimer: |
   The content on this website is user-generated and solely for informational purposes. Do not interpret any content as an endorsement of any product or service. There's "no official anything" in Ethereum Classic. Always do your own research, and remember: don't trust, verify!
