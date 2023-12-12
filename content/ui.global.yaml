@@ -54,7 +54,7 @@ announcement:
   text: |
     The Spiral Network Upgrade will be activated on block 19,250,000, which is estimated to arrive January 31, 2024. Please ensure your node software is updated to the latest version.
   button:
-    __link: /blog/2023-12-09-spiral-fork-announcement
+    __link: https://ethereumclassic.org/blog/2023-12-09-spiral-fork-announcement
     text: "Learn More"
 ## Global Disclaimer
 disclaimer: |
