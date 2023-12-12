@@ -5,10 +5,6 @@ description: |
 items:
   monitors:
     items:
-      etc-network.info:
-        description: Een kleine site om u te helpen navigeren door de diensten van etc-network.info.
-      ETCNodes:
-        description: Ethereum Classic mainnet node verkenner.
       2Miners:
         description: Ethereum Classic stats dashboard biedt de belangrijkste blockchain statistieken, grafieken, en andere prestatiecijfers die direct van online nodes zijn vastgelegd.
       CoinMetrics:
@@ -17,6 +13,10 @@ items:
         description: Ethereum Classic mining informatie - inclusief een Ethereum Classic mining calculator, een lijst van Ethereum Classic mining hardware, Ethereum Classic moeilijkheidsgraad met historische grafieken, Ethereum Classic hashrate grafieken, alsook de huidige Ethereum Classic prijs.
       Emerald Insights:
         description: Emerald Insights is een onderdeel van het Emerald-project, dat statistieken, monitoring en geavanceerde informatie over de door Emerald gebruikte cryptocurrencies moet leveren.
+      etc-network.info:
+        description: Een kleine site om u te helpen navigeren door de diensten van etc-network.info.
+      ETCNodes:
+        description: Ethereum Classic mainnet node verkenner.
       ForkWatch:
         description: ForkWatch is een NiceHash monitoring tool die waarschuwt voor anomalieën op specifieke algoritmen op de NiceHash markt, met name wanneer de prijs voor het huren van BTC/TH/Day verandert. Dit helpt belanghebbenden van specifieke munten te waarschuwen voor het geval mijnkracht mogelijk wordt gehuurd voor een inkomende aanval op een specifiek netwerk.
       MiningPoolStats:
@@ -25,11 +25,9 @@ items:
         description: Historische moeilijkheid, moeilijkheidsgraad, bloktijd en prijs.
       PoolDetective:
         description: Mijnpools zijn belangrijke spelers in proof-of-work cryptocurrencies. Maar wie controleert waar ze hun miners aan laten werken? MIT's Digital Currency Initiative startte in de zomer van 2019 een project om het gedrag van mining pools te gaan monitoren.
-      TokenView:
-        description: Standaard historische netwerk statistieken.
-      WhatToMine:
-        description: Winstgevendheidscalculator voor het delven van Ethereum Classic en andere ketens.
-      Kotti Stats:
-        description: Netwerk statistieken voor het Ethereum Classic Kotti Testnet.
+      Tokenview:
+        description: Tokenview biedt een Algemene Multi-Crypto Blockchain Verkenner door het aantal publieke blockchains dat wordt gedekt, een Snelle en Stabiele blockchain API service, die sinds 2017 miljoenen gebruikers, bedrijven, projecten en financiële instellingen van dienst is.
       ua-mining:
         description: Ethereum Classic stats dashboard.
+      WhatToMine:
+        description: Winstgevendheidscalculator voor het delven van Ethereum Classic en andere ketens.

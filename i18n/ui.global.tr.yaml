@@ -47,9 +47,12 @@ qa:
 ## Announcement Banner
 announcement:
   text: |
-    Bu web sitesi artık makine öğrenimi yoluyla birden çok dile çevrilmiştir. Dili değiştirmek için sayfanın sağ üstündeki bayrağa tıklayın. Çevirilerin düzeltilmesine yardımcı olmak istiyorsanız, lütfen bizimle iletişime geçin!
+    Spiral Ağ Yükseltmesi, 31 Ocak 2024'te ulaşacağı tahmin edilen 19.250.000 numaralı blokta etkinleştirilecektir. Lütfen düğüm yazılımınızın en son sürüme güncellendiğinden emin olun.
   button:
-    text: "Çeviriye Yardım Edin"
+    text: "Daha Fazla Bilgi"
+## Global Disclaimer
+disclaimer: |
+  Bu web sitesindeki içerik kullanıcı tarafından oluşturulmuştur ve yalnızca bilgilendirme amaçlıdır. Hiçbir içeriği herhangi bir ürün veya hizmetin onaylanması olarak yorumlamayın. Ethereum Classic'te "resmi hiçbir şey" yoktur. Her zaman kendi araştırmanızı yapın ve unutmayın: güvenmeyin, doğrulayın!
 ## Footer
 signOff: Orijinal Ethereum Vizyonu için `<3` ile yapılmıştır
 socialHilight: ETC topluluğu Discord'da aktiftir

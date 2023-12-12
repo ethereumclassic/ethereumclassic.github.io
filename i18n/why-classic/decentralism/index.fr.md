@@ -107,7 +107,7 @@ Dans de nombreux cas, l'existence d'une équipe centrale dissuade les autres de 
 
 Cette dépendance à l'égard d'une équipe centrale peut fournir une direction et des budgets importants à court terme, mais elle fait peser sur le protocole une sorte de "dette de centralisation" difficile à rembourser. Finalement, comme toutes les organisations, l'équipe centrale cessera de fonctionner. Si le projet ne se défait pas de cette dépendance, il risque d'être abandonné ou mal adapté à la vie sans ce groupe.
 
-### Capture de l'espace vital
+### Capture d'espace de viande
 
 Pour les projets à forte valeur ajoutée qui dépendent trop des équipes centralisées, un sort bien plus insidieux que le simple abandon devient de plus en plus probable au fil du temps. Comme toutes les institutions centralisées du haut vers le bas, elles se laissent capturer par des intérêts particuliers au moyen de diverses techniques de manipulation.
 
@@ -143,7 +143,7 @@ La corruption est un problème aussi vieux que la civilisation. Bien qu'elle n'a
 
 À long terme, quoi qu'il arrive, les blockchains décentralisées finiront par s'imposer. Néanmoins, si l'humanité souhaite éviter une période de stagnation et de frein à l'innovation semblable à celle de l'âge sombre, il faut faire connaître les dangers de la centralisation afin de pouvoir y faire face avant qu'ils ne s'installent. Heureusement, il existe une fenêtre d'opportunité pour contrer les inévitables tentatives de captation des blockchains. Pour l'instant, les projets qui visent à _décentralisation maximalisme_ existent toujours et sont disponibles pour ceux qui souhaitent les utiliser.
 
-Bien qu'il s'agisse encore d'une démarche volontaire, plutôt que de s'en remettre à des figures d'autorité ou à des campagnes de marketing, les individus peuvent raisonner à partir des premiers principes et réfléchir aux leçons du passé pour tirer leurs propres conclusions sur les blockchains susceptibles d'apporter une valeur à long terme et avec lesquelles il vaut la peine d'interagir.
+Bien que cela reste volontaire, plutôt que de s'appuyer sur des figures d'autorité ou des campagnes de marketing, les individus peuvent raisonner à partir des premiers principes et réfléchir aux leçons du passé pour tirer leurs propres conclusions sur les chaînes de blocs susceptibles de fournir une valeur à long terme et avec lesquelles il vaut la peine d'interagir.
 
 En revenant aux racines de la technologie blockchain, à la théorie économique et aux leçons de l'histoire, la sagesse des décisions de conception derrière Bitcoin devient claire, et cette logique peut être réappliquée à d'autres avancées technologiques dans l'espace, y compris les plateformes de contrats intelligents comme Ethereum Classic.
 

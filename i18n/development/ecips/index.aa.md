@@ -1,44 +1,44 @@
 ---
-title: crwdns66092:0crwdne66092:0
-seo: crwdns66094:0crwdne66094:0
-license: CC-BY
+title: crwdns119769:0crwdne119769:0
+seo: crwdns119771:0crwdne119771:0
+license: crwdns119773:0crwdne119773:0
 contribute: true
-updated: 2022-02-22
+updated: crwdns119777:0crwdne119777:0
 contributors:
-  - gitr0n1n
-  - IstoraMandiri
-  - TheEnthusiasticAs
+  - crwdns119779:0crwdne119779:0
+  - crwdns119781:0crwdne119781:0
+  - crwdns119783:0crwdne119783:0
 ---
 
-## [crwdns66110:0crwdne66110:0](https://ecips.ethereumclassic.org/)
+## [crwdns119787:0crwdne119787:0](https://ecips.ethereumclassic.org/)
 
-### crwdns66112:0crwdne66112:0
+### crwdns119789:0crwdne119789:0
 
-crwdns66114:0crwdne66114:0 crwdns66116:0crwdne66116:0
+crwdns119791:0crwdne119791:0 crwdns119793:0crwdne119793:0
 
-### crwdns66118:0crwdne66118:0
+### crwdns119795:0crwdne119795:0
 
-crwdns66120:0crwdne66120:0 crwdns66122:0crwdne66122:0
+crwdns119797:0crwdne119797:0 crwdns119799:0crwdne119799:0
 
-### crwdns66124:0crwdne66124:0
+### crwdns119801:0crwdne119801:0
 
-crwdns66126:0crwdne66126:0
+crwdns119803:0crwdne119803:0
 
-- crwdns66128:0crwdne66128:0 crwdns66130:0crwdne66130:0 crwdns66132:0crwdne66132:0 crwdns66134:0crwdne66134:0 crwdns66136:0crwdne66136:0
-- crwdns66138:0crwdne66138:0
-- crwdns66140:0crwdne66140:0 crwdns66142:0crwdne66142:0 crwdns66144:0crwdne66144:0 crwdns66146:0crwdne66146:0
-- crwdns66148:0crwdne66148:0 crwdns66150:0crwdne66150:0
-- crwdns66152:0crwdne66152:0 crwdns66154:0crwdne66154:0 crwdns66156:0crwdne66156:0 crwdns66158:0crwdne66158:0
+- crwdns119805:0crwdne119805:0 crwdns119807:0crwdne119807:0 crwdns119809:0crwdne119809:0 crwdns119811:0crwdne119811:0 crwdns119813:0crwdne119813:0
+- crwdns119815:0crwdne119815:0
+- crwdns119817:0crwdne119817:0 crwdns119819:0crwdne119819:0 crwdns119821:0crwdne119821:0 crwdns119823:0crwdne119823:0
+- crwdns119825:0crwdne119825:0 crwdns119827:0crwdne119827:0
+- crwdns119829:0crwdne119829:0 crwdns119831:0crwdne119831:0 crwdns119833:0crwdne119833:0 crwdns119835:0crwdne119835:0
 
-### crwdns66160:0crwdne66160:0
+### crwdns119837:0crwdne119837:0
 
-- crwdns66162:0crwdne66162:0
-- crwdns66164:0crwdne66164:0
-- crwdns66166:0crwdne66166:0 crwdns66168:0crwdne66168:0
-- crwdns66170:0crwdne66170:0
+- crwdns119839:0crwdne119839:0
+- crwdns119841:0crwdne119841:0
+- crwdns119843:0crwdne119843:0 crwdns119845:0crwdne119845:0
+- crwdns119847:0crwdne119847:0
 
-crwdns66172:0crwdne66172:0
+crwdns119849:0crwdne119849:0
 
-## crwdns66174:0crwdne66174:0
+## crwdns119851:0crwdne119851:0
 
-crwdns66176:0crwdne66176:0
+crwdns119853:0crwdne119853:0

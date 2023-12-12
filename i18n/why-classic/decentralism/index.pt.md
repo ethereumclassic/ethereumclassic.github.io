@@ -41,7 +41,7 @@ No campo dos projetos de blockchain, existem muitas maneiras de medir a descentr
 
 Essa medida é conhecida como coeficiente [de Nakamoto](https://minima.global/blog/the-nakamoto-coefficient-an-attempt-to-quantify-decentralization)e, embora seja uma excelente ferramenta conceitual, é uma medida unidimensional de resolução razoavelmente baixa. Na realidade, os sistemas descentralizados podem ser projetados para tornar a captura menos provável, atribuindo diferentes grupos com diferentes responsabilidades. Devido à diversidade de responsabilidades e origens, a dificuldade em capturar uma rede torna-se então ligada não apenas à proporção de pessoas, mas a uma malha complicada de forças e fraquezas sobrepostas de diferentes atores dentro do sistema.
 
-Por exemplo, em blockchains Proof of Work, uma medição precisa da descentralização tentaria levar em conta a mineração por recompensa, clientes por base de código, desenvolvedores por commits, trocas por volume, nós por contagem e propriedade por distribuição de valor, etc. Mas mesmo essa abordagem com mais nuances está longe de ser perfeita, já que uma única medição instantânea não fornece muitos insights sobre se um sistema pode manter a descentralização ao longo do tempo.
+Por exemplo, em blockchains Proof of Work, uma medição precisa da descentralização tentaria levar em conta a mineração por recompensa, clientes por base de código, desenvolvedores por commits, trocas por volume, nós por contagem e propriedade por distribuição de valor, etc. Mas mesmo essa abordagem com mais nuances está longe de ser perfeita, já que uma única medição instantânea não fornece muitos insights sobre se um sistema pode manter a descentralização ao longo do tempo. Mas mesmo essa abordagem com mais nuances está longe de ser perfeita, já que uma única medição instantânea não fornece muitos insights sobre se um sistema pode manter a descentralização ao longo do tempo.
 
 Seja como for quantificado, os invasores que desejam "possuir" o sistema têm um trabalho mais difícil quanto mais descentralizado for o projeto. Para se defender contra invasões, os projetos precisam atingir um nível suficiente de descentralização, o que significa minimizar o número de pontos centrais de falha e gargalos, que podem existir em muitos locais do sistema.
 
@@ -93,7 +93,7 @@ Hoje, ainda mais do que quando o Ethereum (Classic) foi lançado em 2015, é cad
 
 Antes da internet e da tecnologia blockchain entrarem em cena, essas instituições tinham a realidade praticamente bloqueada, pois a sociedade dependia fortemente de pontos de controle centralizados para transferência de valor e informações, que eram prontamente exploradas. Com criptografia, Satoshi retrucou bem na hora certa, virando a mesa em [a lógica da violência](https://cryptonews.net/en/news/bitcoin/2927549/), e fornecendo à humanidade um caminho em direção a uma ordem emergente alternativa.
 
-Com o passar do tempo, os ataques contra alternativas livres, justas e abertas ao status quo aumentarão. Como resultado, o ecossistema de criptomoedas entrará em uma nova fase, uma fase altamente antagônica, onde a falta de censura da tecnologia blockchain será verdadeiramente testada e os pontos centrais de falha nos sistemas de criptomoedas que os possuem serão procurados e explorados. . Para casos de uso que os responsáveis desaprovam, apenas o _Sovereign Grade_ sobreviverá.
+Com o passar do tempo, os ataques contra alternativas livres, justas e abertas ao status quo aumentarão. Como resultado, o ecossistema de criptomoedas entrará em uma nova fase, uma fase altamente antagônica, onde a falta de censura da tecnologia blockchain será verdadeiramente testada e os pontos centrais de falha nos sistemas de criptomoedas que os possuem serão procurados e explorados. Para casos de uso que os responsáveis desaprovam, apenas o _Sovereign Grade_ sobreviverá.
 
 No futuro, para manter a utilidade e o valor, os blockchains devem resistir a uma série de ataques sociais, econômicos e tecnológicos que serão implantados contra eles. A lista de ataques é cada vez maior e novas formas de ataque certamente serão invocadas e combatidas, mas por enquanto, pelo menos, os estados de falha conhecidos mais óbvios devem ser evitados.
 
@@ -139,7 +139,7 @@ Como a parábola dos edifícios construídos sobre a rocha e a areia, para o olh
 
 ## Problemas Clássicos Requerem Soluções Clássicas
 
-A corrupção é um problema tão antigo quanto a civilização. Embora ainda não tenha levantado sua cabeça feia no espaço das criptomoedas, à medida que a tecnologia se torna mais influente, é provável que atraia forças que desejam refrear seu poder e moldá-lo para um futuro onde, longe de libertar a humanidade, blockchains se tornem ferramentas. para otimizar a escravidão.
+A corrupção é um problema tão antigo quanto a civilização. Embora ainda não tenha levantado sua cabeça feia no espaço das criptomoedas, à medida que a tecnologia se torna mais influente, é provável que atraia forças que desejam refrear seu poder e moldá-lo para um futuro onde, longe de libertar a humanidade, blockchains se tornem ferramentas.
 
 A longo prazo, aconteça o que acontecer, os blockchains descentralizados acabarão por prevalecer. Ainda assim, se a humanidade deseja evitar um período estilo idade das trevas de inovação dificultada e estagnação, a palavra deve ser espalhada sobre os perigos da centralização para que possam ser tratados antes que eles se instalem. Felizmente, existe uma janela de oportunidade para combater as inevitáveis tentativas contínuas de capturar blockchains. Por enquanto, projetos que buscam _maximalismo de descentralização_ ainda existem e estão disponíveis para quem quiser usá-los.
 
@@ -211,7 +211,7 @@ Onde faz sentido, por definição, essa abordagem não exige concessões. Mesmo 
 
 Seja qual for a encruzilhada, _maximalismo de descentralização_ requer vigilância eterna e o conhecimento de que os sistemas tendem naturalmente para a centralização, então toda decisão tomada deve considerar o custo pago na dívida da centralização, para manter o sistema livre de dívidas a longo prazo.
 
-## Avante
+## Em frente
 
 Se a humanidade deseja evitar outra idade das trevas, deve adotar sistemas que possam resistir às forças corruptas que ameaçam capturar o futuro da tecnologia blockchain. Somente sistemas que buscam _maximalismo de descentralização_ podem alcançar isso, mas de todos os projetos de blockchain que existem hoje, apenas um punhado reconhece esse requisito.
 

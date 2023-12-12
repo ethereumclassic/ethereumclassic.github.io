@@ -88,7 +88,7 @@ Les chaînes Proof of Stake sont vulnérables à toute une série d'attaques éc
 
 Les institutions financières modernes menacées par la technologie blockchain vont certainement mener une guerre économique contre les Proof of Stake, qui ne peuvent pas se contenter de jouer avec le prix, mais qui, ce faisant, peuvent potentiellement provoquer une défaillance totale du système. Grâce à la création de marchés dérivés et à la manipulation des prix, les attaquants sont en mesure d'acheter des droits de vote sur le réseau et d'entraver ou de détruire la capacité à atteindre un consensus par le biais d'attaques par piquetage.
 
-### L'attrition des mineurs et l'enrichissement des riches
+### Miner Attrition vs The Rich Get Richer
 
 Dans les systèmes de preuve de travail, outre les coûts d'électricité courants, les mineurs doivent continuellement mettre à niveau leur matériel, en dépensant des ressources supplémentaires pour rester compétitifs. Il en résulte que le nombre d'individus pouvant exploiter une mine de manière rentable est en constante évolution. Si un mineur est mauvais dans l'exploitation minière, il finira par perdre sa capacité à gagner sa vie, car il sera dépassé par d'autres mineurs.
 
@@ -172,7 +172,7 @@ Alternativement, en supposant que les deux parties d'un split _reconnaissent_ le
 
 Ethereum Classic est lui-même un excellent exemple du "mécanisme ultime de résolution des litiges" des chaînes Proof of Work, comme l'explique parfaitement le site [Ethereum.org](https://ethereum.org/en/governance/#dao-fork).
 
-Bien qu'elle dépende fortement des détails de mise en œuvre du protocole, en général, la preuve d'enjeu modifie la dynamique de la bifurcation dure en faveur de la majorité des bailleurs de fonds sur les outsiders, et dans de nombreux cas, détruit tout simplement la chaîne outsider, les forçant à bifurquer dure vers un nouveau protocole s'ils sont en désaccord avec une bifurcation controversée.
+Bien que fortement dépendant des détails de mise en œuvre du protocole, en général, Proof of Stake modifie la dynamique du hard forking en faveur des jalonneurs majoritaires par rapport aux outsiders, et dans de nombreux cas, détruit simplement la chaîne des outsiders, les forçant à hard fork vers un nouveau protocole s'ils ne sont pas d'accord avec un fork controversé.
 
 Contrairement à la Proof of Work, où la chaîne classique bénéficie de l'avantage de maintenir le statu quo et où les mineurs doivent activement passer à un nouveau fork, sur les chaînes Proof of Stake, la majorité des forkers ont l'avantage, car le côté hérité d'un fork controversé doit mettre en œuvre ses propres hard forks défensifs pour éviter d'être coupé par la majorité. Les nouvelles forks ont la possibilité de supprimer ou non les validateurs de l'ancienne chaîne, d'optimiser la punition des retardataires pour obtenir le résultat souhaité et de manipuler l'économie d'une décision de hard fork.
 

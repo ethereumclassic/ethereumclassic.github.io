@@ -44,6 +44,9 @@ learn:
       name: Знания
       description: Дополнительная информация об основах, лежащих в основе ETC
       navItems:
+        course:
+          name: Курс
+          description: Серия структурированных видео и статей о Ethereum Classic
         foundation:
           name: Фонд
           description: Основные принципы, формирующие прочную философскую базу ETC

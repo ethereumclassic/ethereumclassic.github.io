@@ -4,7 +4,7 @@ seo: Por que o Ethereum Classic é uma ótima escolha de longo prazo para minera
 updated: 2022-02-22
 ---
 
-Com a mudança iminente/recente do Ethereum para Proof of Stake, também conhecido como Proof of Stake "The Merge", Ethereum Classic torna-se a maior Proof of Work Smart Contract Platform e herda muitos dos mineradores que anteriormente mineravam Ethereum. Como o algoritmo de hash do Ethereum Classic é quase idêntico ao ETHash, ele suporta o mesmo hardware, e a mineração ETC deve ser tão simples quanto mudar para um pool de mineração que suporte ETC.
+Com a mudança iminente/recente do Ethereum para Proof of Stake, também conhecido como Proof of Stake Com a mudança iminente/recente do Ethereum para Proof of Stake, também conhecido como Proof of Stake "The Merge", Ethereum Classic torna-se a maior Proof of Work Smart Contract Platform e herda muitos dos mineradores que anteriormente mineravam Ethereum. Como o algoritmo de hash do Ethereum Classic é quase idêntico ao ETHash, ele suporta o mesmo hardware, e a mineração ETC deve ser tão simples quanto mudar para um pool de mineração que suporte ETC.
 
 O Ethereum Classic tem um compromisso [](/why-classic/proof-of-work) de longo prazo com a Prova de Trabalho, um mecanismo de consenso testado e comprovado que fornece uma base sólida para construir aplicativos imparáveis. Esse compromisso não ocorre por acaso, mas como uma escolha de design intencional em relação a outros mecanismos, como Proof of Stake, que vêm com compensações de segurança inerentes.
 

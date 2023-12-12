@@ -44,6 +44,9 @@ learn:
       name: Conocimiento
       description: Más información sobre los fundamentos del CFE
       navItems:
+        course:
+          name: Curso
+          description: Una serie estructurada de vídeos y artículos sobre Ethereum Classic
         foundation:
           name: Fundación
           description: Los principios básicos que conforman la sólida base filosófica de ETC

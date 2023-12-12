@@ -5,12 +5,12 @@ disclaimer: opinion
 seo: Paraya değer kazandıran faydalı özelliklerine ve Ethereum Classic ve Bitcoin de dahil olmak üzere bazı blok zincirlerinin merkeziyetsizlik ve uzun ömürlülük sağlamak için bu özellikleri para politikalarına kasıtlı olarak nasıl uyguladıklarına genel bir bakış.
 ---
 
-## Önemli Noktalar
+## Anahtar noktaları
 
 - Sağlam Para, Bitcoin ve blok zinciri teknolojisinin icadına ilham veren, internetten önce gelen bir kavramdır.
 - Para, çeşitli ölçülebilir özelliklere sahipse ve bu özellikler ETC'de kodlanmışsa sağlam olarak kabul edilebilir.
 - Önemli bir özellik _kıtlığı_olup, ETC bunu _sabit emisyon eğrisi_ ile _bilinen bir gelecek arzına_yol açarak elde etmektedir.
-- Eğer bir projenin _bilinen bir gelecek arzı_yoksa, bakıcılar keyfi olarak bir para biriminin değerini sahiplerinden uzakta şişirebilirler.
+- Bir projenin bilinen bir gelecek arzı _yoksa, sahipleri_olarak bir para biriminin değerini sahiplerinden uzaklaştırabilir.
 - Bu risk, Ethereum™ da dahil olmak üzere _sabit emisyon eğrisine_sahip olmayan tüm zincirlerde mevcut olmaya devam etmektedir.
 
 ## Giriş
@@ -39,9 +39,9 @@ Ethereum Classic'in sabit emisyon eğrisi [ECIP-1017](https://ecips.ethereumclas
 | Est. Tarih       | 5M20 Dönemi | Blok        | Blok Ödülü | Toplam Dönem Emisyonu   |
 | ---------------- | ----------- | ----------- | ---------- | ----------------------- |
 | 2015-07-30       | Çağ 1       | 1           | 5 ETC      | 25,000,000 ETC          |
-| 2017-12-11       | Dönem 2     | 5,000,001   | 4 ETC      | 20,000,000 ETC          |
+| 2017-12-11       | Çağ 2       | 5,000,001   | 4 ETC      | 20,000,000 ETC          |
 | 2020-03-17       | Çağ 3       | 10,000,001  | 3.2 ETC    | 16,000,000 ETC          |
-| 2022-04-15       | 4. Çağ      | 15,000,001  | 2,56 ETC   | 12.800.000 ETC          |
+| 2022-04-15       | 4.          | 15,000,001  | 2,56 ETC   | 12.800.000 ETC          |
 | 2024-05-07       | Çağ 5       | 20,000,001  | 2.048 ETC  | 10.240.000 ETC          |
 | ~Her 2 Yılda Bir | N+1         | N+5,000,000 | -20%       | Toplam ~200.000.000 ETC |
 

@@ -41,7 +41,7 @@ A curva de emissão fixa do Ethereum Classic foi introduzida por [ECIP-1017](htt
 | 30/07/2015     | Era 1    | 1           | 5 ETC               | 25.000.000 ETC          |
 | 11/12/2017     | Era 2    | 5.000.001   | 4 ETC               | 20.000.000 ETC          |
 | 17-03-2020     | Era 3    | 10.000.001  | 3.2 EPT             | 16.000.000 ETC          |
-| 15/04/2022     | Era 4    | 15.000.001  | 2.56 ETC            | 12.800.000 ETC          |
+| 2022-04-15     | Era 4    | 15.000.001  | 2.56 ETC            | 12.800.000 ETC          |
 | 2024-05-07     | Era 5    | 20.000.001  | 2.048 ETC           | 10.240.000 ETC          |
 | ~A cada 2 anos | N+1      | N+5.000.000 | -20%                | Total ~ 200.000.000 ETC |
 

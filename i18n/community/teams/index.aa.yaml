@@ -1,7 +1,7 @@
 __contribute: 1
 __updated: 2021-11-21
-title: crwdns65752:0crwdne65752:0
-seo: crwdns65754:0crwdne65754:0
+title: crwdns119429:0crwdne119429:0
+seo: crwdns119431:0crwdne119431:0
 __contributors:
   - arvicco
   - bobsummerwill
@@ -14,19 +14,19 @@ __contributors:
   - stevanlohja
   - TheEnthusiasticAs
 description: |
-  crwdns65776:0crwdne65776:0
+  crwdns119453:0crwdne119453:0
 items:
   teams:
     __type: table
     __sort: 0
     columnItems:
       year:
-        name: crwdns65782:0crwdne65782:0
+        name: crwdns119459:0crwdne119459:0
       name:
         __linkRef: link
-        name: crwdns65786:0crwdne65786:0
+        name: crwdns119463:0crwdne119463:0
       social:
-        name: crwdns65788:0crwdne65788:0
+        name: crwdns119465:0crwdne119465:0
         iconItems:
           github:
             __linkRef: github
@@ -36,7 +36,7 @@ items:
             __icon: twitter
       active:
         __checkRef: active
-        name: crwdns65800:0crwdne65800:0
+        name: crwdns119477:0crwdne119477:0
     items:
       Ethereum Foundation:
         __year: 2015
@@ -69,6 +69,13 @@ items:
         __link: https://mantisclient.io/
         __twitter: https://twitter.com/Mantis_IO
         __github: https://github.com/input-output-hk/mantis
+      Chippr Robotics:
+        __year: 2016
+        __name: Chippr Robotics
+        __active: 1
+        __link: https://chipprbots.com/
+        __twitter: https://twitter.com/chipprbots
+        __github: https://github.com/chippr-robootics/
       ETC Cooperative:
         __year: 2017
         __name: ETC Cooperative
@@ -110,13 +117,6 @@ items:
         __link: https://www.poa.network/
         __twitter: https://twitter.com/poanetwork
         __github: https://github.com/poanetwork
-      Chippr Robotics:
-        __year: 2019
-        __name: Chippr Robotics
-        __active: 1
-        __link: https://chipprbots.com/
-        __twitter: https://twitter.com/BotBridgette
-        __github: https://github.com/chippr-robootics/
       ETC Core:
         __year: 2019
         __name: ETC Core

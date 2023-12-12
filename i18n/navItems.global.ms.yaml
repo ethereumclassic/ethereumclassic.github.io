@@ -44,6 +44,9 @@ learn:
       name: Pengetahuan
       description: Bacaan lanjut mengenai asas yang menyokong DLL
       navItems:
+        course:
+          name: Kursus
+          description: Video berstruktur dan siri artikel tentang Ethereum Classic
         foundation:
           name: Asas
           description: Prinsip teras yang membentuk asas falsafah ETC yang kukuh

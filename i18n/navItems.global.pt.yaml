@@ -44,6 +44,9 @@ learn:
       name: Conhecimento
       description: Leitura adicional sobre os fundamentos que sustentam a ETC
       navItems:
+        course:
+          name: Curso
+          description: Uma série estruturada de vídeos e artigos sobre o Ethereum Classic
         foundation:
           name: Fundação
           description: Os princípios fundamentais que formam a sólida base filosófica da ETC

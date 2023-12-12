@@ -46,7 +46,7 @@ Kao što se može vidjeti gore, zadani popis mreža je Ethereum mainnet i njegov
 
 “RPC” je kratica za “remote procedure call”, što je termin za protokol koji strojevi koriste za programe za pozivanje drugih programa na udaljenim strojevima.
 
-![3. korak](./03.png)
+![Korak 3](./03.png)
 
 ## Korak 4: Odaberite prilagođeni RPC
 
