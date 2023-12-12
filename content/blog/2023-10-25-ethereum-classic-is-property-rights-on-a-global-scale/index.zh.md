@@ -2,7 +2,7 @@
 title: "以太坊经典是全球范围内的财产权"
 date: 2023-10-25
 author: Donald McIntyre
-contributors: ["Donald McIntyre"]
+contributors: ["DonaldMcIntyre"]
 tags: ["education", "series"]
 linkImage: ./banner.png
 ---
