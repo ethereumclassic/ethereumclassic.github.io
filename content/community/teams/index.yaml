@@ -71,6 +71,13 @@ items:
         __link: https://mantisclient.io/
         __twitter: https://twitter.com/Mantis_IO
         __github: https://github.com/input-output-hk/mantis
+      Chippr Robotics:
+        __year: 2016
+        __name: Chippr Robotics
+        __active: 1
+        __link: https://chipprbots.com/
+        __twitter: https://twitter.com/chipprbots
+        __github: https://github.com/chippr-robootics/
       ETC Cooperative:
         __year: 2017
         __name: ETC Cooperative
@@ -112,13 +119,6 @@ items:
         __link: https://www.poa.network/
         __twitter: https://twitter.com/poanetwork
         __github: https://github.com/poanetwork
-      Chippr Robotics:
-        __year: 2019
-        __name: Chippr Robotics
-        __active: 1
-        __link: https://chipprbots.com/
-        __twitter: https://twitter.com/BotBridgette
-        __github: https://github.com/chippr-robootics/
       ETC Core:
         __year: 2019
         __name: ETC Core

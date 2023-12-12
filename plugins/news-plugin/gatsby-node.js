@@ -51,8 +51,9 @@ exports.onCreateNode = async (
         type: "NewsItem",
       },
     };
-    if (obj.date) {
-      newsItem.date = new Date(obj.date); // normalize the date
+    const date = obj.uploaded || obj.date;
+    if (date) {
+      newsItem.date = new Date(date); // normalize the date
       newsItem.year = `${newsItem.date.getUTCFullYear()}`; // year string for easy filtering
     }
     createNode(newsItem);

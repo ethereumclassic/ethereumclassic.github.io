@@ -44,7 +44,7 @@ export const pageQuery = graphql`
       filter: $filterQuery
       skip: $skip
       limit: $limit
-      sort: { fields: [date, title], order: [DESC, ASC] }
+      sort: { fields: [uploaded, title], order: [DESC, ASC] }
     ) {
       edges {
         node {

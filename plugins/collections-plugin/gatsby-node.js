@@ -76,12 +76,15 @@ exports.onCreateNode = async (
 
     const type = _.upperFirst(_.camelCase(deduped));
 
+    const slugDate = obj.uploaded || obj.date;
+    const slugPrefix = slugDate
+      ? new Date(slugDate).toISOString().split("T")[0] + "-"
+      : "";
+
     const yamlNode = {
       ...obj,
       locale,
-      slug: `${
-        obj.date ? new Date(obj.date).toISOString().split("T")[0] + "-" : ""
-      }${urlSafe(obj.title)}`,
+      slug: `${slugPrefix}${urlSafe(obj.title)}`,
       id,
       children: [],
       parent: node.id,

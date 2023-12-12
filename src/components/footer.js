@@ -15,7 +15,7 @@ export default function Footer() {
   const { enabled: i18nEnabled } = useLocaleItems();
   const {
     navItems,
-    ui: { signOff },
+    ui: { signOff, disclaimer },
   } = useGlobals();
   return (
     <footer tw="bg-backdrop-light mt-16 py-16" aria-labelledby="footer-heading">
@@ -49,6 +49,9 @@ export default function Footer() {
           <Md tw="text-sm font-medium text-shade-light text-center">
             {signOff}
           </Md>
+          <div tw="text-xs pt-10 text-shade-light italic max-w-lg m-auto text-center">
+            {disclaimer}
+          </div>
         </div>
       </TwContainer>
     </footer>

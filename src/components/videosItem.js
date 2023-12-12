@@ -10,6 +10,7 @@ import VideoFrame from "./videoFrame";
 import Link from "./link";
 import TwContainer from "./twContainer";
 import { Helmet } from "react-helmet";
+import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
 
 export default function VideosItem({ item, featured, hash = true, ...rest }) {
   const {
@@ -22,6 +23,8 @@ export default function VideosItem({ item, featured, hash = true, ...rest }) {
     description,
     videoImage,
   } = item;
+  const { ui } = useGlobals();
+
   return (
     <div {...rest}>
       <Modal
@@ -33,6 +36,7 @@ export default function VideosItem({ item, featured, hash = true, ...rest }) {
               <title>{title}</title>
             </Helmet>
             <div tw="pointer-events-auto">
+              <div tw="mb-4 text-sm opacity-60">{ui.disclaimer}</div>
               <VideoFrame youtube={youtube} autoplay />
               <div tw="space-y-4 mt-4">
                 <div tw="flex text-lg space-x-4">

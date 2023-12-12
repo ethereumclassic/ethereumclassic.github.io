@@ -430,6 +430,9 @@ items:
       Emerald:
         __link: https://emerald.cash/
         __name: Emerald
+      Exchangio:
+        __name: Exchangio
+        __link: https://exchang.io/exchange-pairs/btc-to-etc
       Exodus:
         __link: https://www.exodus.com/
         __name: Exodus
@@ -439,15 +442,15 @@ items:
       FixedFloat:
         __link: https://fixedfloat.com/
         __name: FixedFloat
+      FLASHIFT:
+        __link: https://exchange.flashift.app/?currency_from=btc&currency_to=etc&amount=0.1
+        __name: FLASHIFT
       SimpleSwap:
         __link: https://simpleswap.io/coins/ethereum-classic
         __name: SimpleSwap
       StealthEx:
         __link: https://stealthex.io/
         __name: StealthEx
-      Swapika:
-        __name: Swapika
-        __link: https://swapika.com/exchange-pairs/btc-to-etc
       SwapSpace:
         __name: SwapSpace
         __link: https://swapspace.co/?from=etc&to=btc&amount=1
@@ -488,3 +491,12 @@ items:
       BestChange:
         __link: https://www.bestchange.com/ethereum-classic-to-bitcoin.html
         __name: BestChange
+      ChangeNOW:
+        __name: ChangeNOW
+        __link: https://changenow.io/
+      CoinMarketCap Markets List:
+        __name: CoinMarketCap Markets List
+        __link: https://coinmarketcap.com/currencies/ethereum-classic/markets/
+      NOWPayments:
+        __name: NOWPayments
+        __link: https://nowpayments.io/
