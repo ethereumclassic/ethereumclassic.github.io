@@ -287,7 +287,7 @@ Verwarrend genoeg bepaalde de Ethereum Foundation dat hun nieuwe forked chain "E
 
 Het langst lopende Smart Contract platform is, was en zal altijd _Ethereum Classic_zijn.
 
-### De onbevlekte ontvangenis
+### De Onbevlekte Ontvangenis
 
 De opkomst van Ethereum Classic was in vele opzichten wonderbaarlijk, zowel qua omstandigheden als qua inhoud. Zonder Bitcoin, Ethereum, de DAO, de Bug op lijn 666, de Hacker, de Split Function Time Limit, de Hard Fork Debat Coordination Trap, de Hard Fork zelf, en de dappere en charmante supporters van ETC, zou de wereld niet gezegend zijn met een echt gedecentraliseerd Smart Contract platform dat kampioen is _Code is Law_.
 
@@ -388,7 +388,7 @@ Er waren ook gedocumenteerde gevallen van kwaadwillig misbruik van nagespeelde t
 
 In die tijd was de enige gegarandeerde manier om te voorkomen dat transacties opnieuw werden gespeeld, ervoor te zorgen dat fondsen werden gescheiden naar verschillende adressen op elke keten, wat kon worden bereikt met een "splitter-contract", maar dit was een vervelend proces, vooral voor minder technisch ingestelde gebruikers. Enkele maanden later werd een protocollaire oplossing, [EIP-155](https://eips.ethereum.org/EIPS/eip-155), geïntroduceerd. Daarom respecteren EVM-blockchains nu een `CHAIN_ID`, een uniek nummer voor elke keten dat wordt opgegeven bij het ondertekenen van transacties, waardoor ze ongeldig zijn op andere ketens.
 
-## Geleerde lessen
+## Les geleerd
 
 Sinds de Hard Fork en de onmiddellijke gevolgen daarvan in 2016 is het stof grotendeels neergedaald, de animositeit vervaagd en zijn zowel Ethereum™ als Ethereum Classic zich blijven ontwikkelen en op hun eigen manier gegroeid. Nu het verleden achter ons ligt en de daden van individuen die in de wervelwind terecht zijn gekomen zijn vergeven, mogen de praktische en morele lessen die The DAO Fork ons heeft geleerd niet worden vergeten, zodat soortgelijke toekomstige debacles kunnen worden vermeden.
 

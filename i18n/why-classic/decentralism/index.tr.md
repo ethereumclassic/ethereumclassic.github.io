@@ -8,7 +8,7 @@ contributors:
   - "DonaldMcIntyre"
 ---
 
-## Önemli Noktalar
+## Anahtar noktaları
 
 - Ademi merkeziyetçilik, bir sistemde daha az sayıda tek hata noktası olmasını sağlayarak sistemin ele geçirilmesini zorlaştırır.
 - Blok zinciri sistemlerinde ademi merkeziyetçilik son derece önemlidir. Bir blok zincirini kullanışlı hale getirmek için, uygulamaya bağlı olarak belirli bir eşiğin karşılanması gerekir.
@@ -27,7 +27,7 @@ DAO Hard fork'undan sonra Ethereum Classic hakkında çıkan ilk yayınlardan bi
 
 Bu moda sözcükler dizisi, blok zinciri teknolojisinin gerçek değer potansiyelinin ortaya çıkarılması için bir reçetedir. Öncelikle, değişmezliği mümkün kılan, durdurulamazlığa izin veren ve daha önce bahsettiğimiz [parlak geleceği](/why-classic/code-is-law) mümkün kılan ademi merkeziyetçiliğe ihtiyacınız var.
 
-## Yerinden Yönetimin Sayısallaştırılması
+## Ademi Merkeziyetçiliği Ölçme
 
 > Yerinden yönetim, bir kuruluşun faaliyetlerinin, özellikle de planlama ve karar alma ile ilgili olanların merkezi, yetkili bir konum veya gruptan dağıtılması veya devredilmesi sürecidir.
 > 
@@ -63,7 +63,7 @@ ETC bu becerileri en üst düzeye çıkarmayı seçti çünkü bir blok zinciri 
 
 Günümüzde çoğu blok zinciri projesi, ölçeklenebilirlik ve merkezi bir grup tarafından koordine edilmenin faydaları karşılığında ademi merkeziyetçiliği en üst düzeye çıkarma fikrinden vazgeçmiştir. Bu durum, abartılı geliştirme veya pazarlama bütçelerinin finanse edilmesine olanak tanıdığı için kısa vadeli önyükleme için faydalı olabilir ve düşmanca olmayan bir ortamda bariz bir dezavantajı yoktur, ancak proje merkezileşmeye olan bu bağımlılığını azaltmadıkça, ki yarattığı teşvik yapıları nedeniyle bu imkansız olabilir, ağ bu nispeten merkezi yapının ele geçirilmesi yoluyla ele geçirilmeye maruz kalır.
 
-### Egemen Sınıf Sansür Direnişi
+### Egemen Dereceli Sansür Direnci
 
 Farklı blok zinciri projelerini değerlendirirken sorulması gereken bir soru da "yeterince merkezsizleştirilmiş mi?" sorusudur. Bunun cevabı tamamen kullanım örneğinin [tehdit modeline](https://en.wikipedia.org/wiki/Threat_model)ve belirli bir zincir üzerinde ne tür uygulamaların çalıştırılması gerektiğine bağlıdır. Soru, "bu zincirdeki uygulamaların çalışmasını kim durdurmak ister ve zincir onların sansür girişimlerine karşı koyabilir mi?" şeklinde yeniden çerçevelendirilebilir.
 
@@ -123,7 +123,7 @@ Merkezi bir ekip açıkça tehlikeye atılmasa bile, bu tehlikenin potansiyeli g
 
 Bu başarısızlık durumu, merkezi bir organizasyon komitesine dayanan herhangi bir blok zinciri projesinin doğasında var olan bir çelişkiyi göstermektedir. Protokol kağıt üzerinde ademi merkeziyetçi olsa da, gerçekte proje, bunu yapmanın maliyetinin buna değdiğini düşünen herkesin iradesine boyun eğebilecek ve eğecek merkezi bir gruba borçludur.
 
-### Kabuki Sikkeleri
+### Kabuki Paraları
 
 Merkezileşme, tıpkı yerçekimi gibi, sürekli olarak çeker ve kırılma noktasını bulmak için sosyoteknolojik bir yapıda herhangi bir zayıflık arar. Bir sistemin uzun vadede bu gücün üstesinden gelebilmesi için, hiçbir merkezi hata noktasından yararlanılamamasını sağlaması gerekir; bu da merkezileşmeye karşı sadece tek bir yerde değil, tüm alanlarda sürekli olarak geri adım atan sağlam karşı önlemler tasarlamak anlamına gelir.
 
@@ -211,7 +211,7 @@ Anlamlı olduğu yerlerde, tanımı gereği, bu yaklaşım taviz vermeyi gerekti
 
 Kavşak ne olursa olsun, _ademi merkeziyetçilik maksimalizmi_ sonsuz bir uyanıklık ve sistemlerin doğal olarak merkezileşme eğiliminde olduğu bilgisini gerektirir, bu nedenle alınan her karar, sistemi uzun vadede borçsuz tutmak için merkezileşme borcu olarak ödenen maliyeti dikkate almalıdır.
 
-## İleri
+## ileri
 
 İnsanlık bir başka karanlık çağdan kaçınmak istiyorsa, blok zinciri teknolojisinin geleceğini ele geçirmekle tehdit eden yozlaşmış güçlere direnebilecek sistemleri benimsemelidir. Yalnızca _ademi merkeziyetçilik maksimalizmi_ için çabalayan sistemler bunu başarabilir, ancak bugün var olan tüm blok zinciri projeleri arasında yalnızca bir avuç bu gereksinimi kabul etmektedir.
 

@@ -23,10 +23,10 @@ items:
         description: Nền tảng để xây dựng Dapps cho ETC blockchain.
       ESerialize:
         description: Mục tiêu của mô-đun này là cung cấp các chức năng dễ dàng để tuần tự hóa và giải mã hóa dữ liệu cho Ethereum Stack.
-      Ethereum JSON-RPC API:
-        description: Một đặc điểm kỹ thuật của các phương pháp JSON-RPC mà một ứng dụng khách blockchain dựa trên EVM phải triển khai.
       Eth Fiddle:
         description: Trình chỉnh sửa trực tuyến cho các hợp đồng thông minh.
+      Ethereum JSON-RPC API:
+        description: Một đặc điểm kỹ thuật của các phương pháp JSON-RPC mà một ứng dụng khách blockchain dựa trên EVM phải triển khai.
       EVM-LLVM:
         description: Các nhà phát triển không chỉ có thể sử dụng một phạm vi lớn các ngôn ngữ lập trình (Rust cho hợp đồng thông minh!) Ngoài Solidity để nhắm mục tiêu Máy ảo Ethereum (EVM), họ còn có thể hưởng lợi ngay lập tức từ các công cụ phát triển khác nhau được xây dựng xung quanh cơ sở hạ tầng LLVM.
       Ganache:
@@ -43,14 +43,18 @@ items:
         description: Quorum là một nền tảng blockchain mã nguồn mở kết hợp sự đổi mới của cộng đồng Ethereum công khai với những cải tiến để hỗ trợ nhu cầu của doanh nghiệp.
       Remix Online IDE:
         description: Một IDE trong trình duyệt hữu ích có thể biên dịch và xuất bản các hợp đồng thông minh lên các mạng Ethereum khác nhau. Bao gồm một linter.
-      Signatory:
-        description: Một giao dịch ngoại tuyến và người ký thông báo cho Ethereum Stack.
       Sidekik:
         description: Gỡ lỗi, thử nghiệm và tìm kiếm các hợp đồng thông minh bằng giao diện người dùng trực quan cho phép bạn tương tác với các hợp đồng thông minh dựa trên EVM cục bộ hoặc đã triển khai.
+      Signatory:
+        description: Một giao dịch ngoại tuyến và người ký thông báo cho Ethereum Stack.
       SOLL:
         description: Trình biên dịch LLVM cuối cùng cũng đến với Solidity. Với nó, chúng tôi có thể dễ dàng tạo các hợp đồng thông minh trên nhiều máy ảo blockchain. EVM trên Ethereum Classic và eWASM của ETH 2.0 là một trong những công cụ đầu tiên chúng tôi hỗ trợ.
       Sputnikvm:
         description: SputnikVM là một triển khai độc lập mã nguồn mở của Máy ảo Ethereum (EVM). Nó nhằm mục đích trở thành một máy ảo hiệu quả, có thể cắm được cho các chuỗi khối dựa trên Ethereum khác nhau.
+      thirdweb:
+        description: Mọi thứ bạn cần để kết nối ứng dụng hoặc trò chơi của mình với mạng phi tập trung. Các công cụ mạnh mẽ giúp đơn giản hóa việc phát triển web3.
+      Tokenview:
+        description: Một khuôn khổ thống nhất để tương tác với hơn 120 chuỗi khối. API chuỗi khối Tokenview có các điểm cuối mạnh mẽ giúp đơn giản hóa dữ liệu chuỗi khối phức tạp thành các lệnh gọi API duy nhất. Mã cho tất cả các chuỗi khối được hỗ trợ bằng cách sử dụng lệnh gọi API hợp nhất. Từ đây có thể dễ dàng nhận được giao dịch, địa chỉ, gas, hợp đồng, mã thông báo, NFT, nhật ký và bất kỳ thông tin nào từ chuỗi. Và Có, bạn cũng có thể gửi tx tới chuỗi. Cấu hình bằng một cú nhấp chuột với APIKey giúp các nhà phát triển Sử dụng, Tạo và Xây dựng.
       Truffle Suite:
         description: Môi trường phát triển đẳng cấp thế giới, khung thử nghiệm và đường dẫn tài sản cho các blockchain sử dụng Máy ảo Ethereum (EVM), nhằm mục đích làm cho cuộc sống của một nhà phát triển trở nên dễ dàng hơn.
   nodeTools:

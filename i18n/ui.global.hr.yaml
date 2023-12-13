@@ -47,9 +47,12 @@ qa:
 ## Announcement Banner
 announcement:
   text: |
-    Ova je web stranica sada prevedena na više jezika putem strojnog učenja. Kliknite zastavicu u gornjem desnom kutu stranice za promjenu jezika. Ako želite pomoći u ispravljanju prijevoda, kontaktirajte nas!
+    Nadogradnja spiralne mreže aktivirat će se na bloku 19.250.000, za koji se procjenjuje da će stići 31. siječnja 2024. Provjerite je li softver vašeg čvora ažuriran na najnoviju verziju.
   button:
-    text: "Pomoć u prijevodu"
+    text: "Saznajte više"
+## Global Disclaimer
+disclaimer: |
+  Sadržaj na ovoj web stranici kreiraju korisnici i služi isključivo u informativne svrhe. Ne tumačite nikakav sadržaj kao podršku bilo kojem proizvodu ili usluzi. Ne postoji "ništa službeno" u Ethereum Classicu. Uvijek istražite sami i zapamtite: ne vjerujte, provjerite!
 ## Footer
 signOff: Napravljeno s "<3" za izvornu Ethereum viziju
 socialHilight: ETC zajednica je aktivna na Discordu

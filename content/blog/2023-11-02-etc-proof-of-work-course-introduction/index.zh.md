@@ -2,7 +2,7 @@
 title: "ETC工作量证明课程:介绍"
 date: 2023-11-02
 author: Donald McIntyre
-contributors: ["Donald McIntyre"]
+contributors: ["DonaldMcIntyre"]
 tags: ["series", "education"]
 linkImage: ./banner-3.png
 ---

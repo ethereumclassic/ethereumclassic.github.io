@@ -5,10 +5,6 @@ description: |
 items:
   monitors:
     items:
-      etc-network.info:
-        description: ไซต์ขนาดเล็กที่จะช่วยคุณนำทางบริการต่างๆ ที่มีให้โดย etc-network.info
-      ETCNodes:
-        description: ตัวสำรวจโหนดเครือข่ายหลัก Ethereum Classic
       2Miners:
         description: แดชบอร์ดสถิติ Ethereum Classic ให้สถิติบล็อกเชน กราฟ และตัวชี้วัดประสิทธิภาพอื่น ๆ ที่บันทึกได้โดยตรงจากโหนดออนไลน์
       CoinMetrics:
@@ -17,6 +13,10 @@ items:
         description: ข้อมูลการขุด Ethereum Classic - รวมถึงเครื่องคำนวณการขุด Ethereum Classic รายการฮาร์ดแวร์การขุด Ethereum Classic ความยากของ Ethereum Classic พร้อมแผนภูมิในอดีต แผนภูมิแฮชเรต Ethereum Classic และราคา Ethereum Classic ปัจจุบัน
       Emerald Insights:
         description: Emerald Insights เป็นส่วนหนึ่งของโครงการ Emerald ซึ่งควรจะให้สถิติ การตรวจสอบ และข้อมูลขั้นสูงเกี่ยวกับ cryptocurrencies ที่ Emerald ใช้
+      etc-network.info:
+        description: ไซต์ขนาดเล็กที่จะช่วยคุณนำทางบริการต่างๆ ที่มีให้โดย etc-network.info
+      ETCNodes:
+        description: ตัวสำรวจโหนดเครือข่ายหลัก Ethereum Classic
       ForkWatch:
         description: ForkWatch เป็นเครื่องมือตรวจสอบ NiceHash ที่แจ้งเตือนเกี่ยวกับความผิดปกติของอัลกอริธึมเฉพาะในตลาด NiceHash โดยเฉพาะอย่างยิ่งเมื่อราคาเช่า BTC/TH/วัน เปลี่ยนแปลง สิ่งนี้จะช่วยเตือนผู้มีส่วนได้ส่วนเสียของเหรียญโดยเฉพาะในกรณีที่อาจมีการเช่าพลังการขุดสำหรับการโจมตีที่เข้ามาบนเครือข่ายเฉพาะ
       MiningPoolStats:
@@ -25,11 +25,9 @@ items:
         description: ความยากในอดีต ความยาก เวลาบล็อก และราคา
       PoolDetective:
         description: กลุ่มการขุดเป็นผู้เล่นที่สำคัญใน cryptocurrencies พิสูจน์การทำงาน แต่ใครเป็นผู้ตรวจสอบสิ่งที่พวกเขาบอกให้คนงานเหมืองทำงาน? Digital Currency Initiative ของ MIT เริ่มโครงการในฤดูร้อนปี 2019 เพื่อเริ่มตรวจสอบพฤติกรรมของกลุ่มการขุด
-      TokenView:
-        description: สถิติเครือข่ายในอดีตมาตรฐาน
-      WhatToMine:
-        description: เครื่องคำนวณการทำกำไรสำหรับการขุด Ethereum Classic และเชนอื่น ๆ
-      Kotti Stats:
-        description: สถิติเครือข่ายสำหรับ Ethereum Classic Kotti Testnet
+      Tokenview:
+        description: Tokenview ให้บริการ Multi-Crypto Blockchain Explorer ทั่วไปตามจำนวนบล็อกเชนสาธารณะที่ครอบคลุม บริการ API บล็อกเชนที่รวดเร็วและเสถียร ให้บริการผู้ใช้ ธุรกิจ โครงการ และสถาบันการเงินหลายล้านรายตั้งแต่ปี 2560
       ua-mining:
         description: แดชบอร์ดสถิติ Ethereum Classic
+      WhatToMine:
+        description: เครื่องคำนวณการทำกำไรสำหรับการขุด Ethereum Classic และเชนอื่น ๆ

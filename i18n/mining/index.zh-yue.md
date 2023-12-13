@@ -4,7 +4,7 @@ seo: 為什麼 Ethereum Classic 是加密貨幣挖掘的長期選擇，以及涵
 updated: 2022-02-22
 ---
 
-隨著以太坊即將/最近轉向股權證明 “The Merge”，Ethereum Classic 成為最大的工作量證明智能合約平台，並繼承了許多以前開採以太坊的礦工。 由於Ethereum Classic的哈希算法與ETHash幾乎完全相同，因此支持相同的硬件，挖ETC應該和支持ETC的礦池一樣簡單。
+隨著以太坊即將/最近轉向股權證明 隨著以太坊即將/最近轉向股權證明 “The Merge”，Ethereum Classic 成為最大的工作量證明智能合約平台，並繼承了許多以前開採以太坊的礦工。 由於Ethereum Classic的哈希算法與ETHash幾乎完全相同，因此支持相同的硬件，挖ETC應該和支持ETC的礦池一樣簡單。
 
 Ethereum Classic 對工作證明有一個長期的 [承諾](/why-classic/proof-of-work) ，這是一種久經考驗的真正共識機制，為構建不可阻擋的應用程序提供了堅實的基礎。 這種承諾並非偶然，而是作為一種有意的設計選擇，而不是其他機制，例如權益證明，這些機制具有固有的安全權衡。
 

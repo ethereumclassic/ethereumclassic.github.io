@@ -1,6 +1,6 @@
 ---
 title: เครื่องมือเครือข่าย
-seo: การเลือกเครื่องมือและทรัพยากรสำหรับการตรวจสอบและโต้ตอบกับเครือข่าย Ethereum Classic RPC Endpoints, Blockchain Explorers และ Network Monitors
+seo: การเลือกเครื่องมือและทรัพยากรสำหรับการตรวจสอบและโต้ตอบกับเครือข่าย Ethereum Classic RPC Endpoints, Blockchain Explorers และ Network Monitors RPC Endpoints, Blockchain Explorers และ Network Monitors
 updated: 2022-02-22
 contributors:
   - cyberus7569

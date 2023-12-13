@@ -23,10 +23,10 @@ items:
         description: Plateforme permettant de créer des applications numériques pour la blockchain ETC.
       ESerialize:
         description: L'objectif de ce module est de fournir des fonctions faciles pour sérialiser et désérialiser les données pour la pile Ethereum.
-      Ethereum JSON-RPC API:
-        description: Une spécification des méthodes JSON-RPC qu'un client de blockchain basé sur EVM doit mettre en œuvre.
       Eth Fiddle:
         description: Editeur en ligne pour les contrats intelligents.
+      Ethereum JSON-RPC API:
+        description: Une spécification des méthodes JSON-RPC qu'un client de blockchain basé sur EVM doit mettre en œuvre.
       EVM-LLVM:
         description: Non seulement les développeurs peuvent utiliser un large éventail de langages de programmation (Rust pour les contrats intelligents !) autres que Solidity pour cibler la machine virtuelle Ethereum (EVM), mais ils peuvent également bénéficier immédiatement de divers outils de développement construits autour de l'infrastructure LLVM.
       Ganache:
@@ -43,14 +43,18 @@ items:
         description: Quorum est une plateforme blockchain open source qui combine l'innovation de la communauté publique Ethereum avec des améliorations pour répondre aux besoins des entreprises.
       Remix Online IDE:
         description: Un IDE utile dans le navigateur qui peut compiler et publier des contrats intelligents sur divers réseaux Ethereum. Comprend un linter.
-      Signatory:
-        description: Un signataire de transactions et de messages hors ligne pour la pile Ethereum.
       Sidekik:
         description: Déboguez, testez et gérez des contrats intelligents avec une interface utilisateur visuelle qui vous permet d'interagir avec des contrats intelligents locaux ou déployés basés sur EVM.
+      Signatory:
+        description: Un signataire de transactions et de messages hors ligne pour la pile Ethereum.
       SOLL:
         description: Le compilateur LLVM arrive enfin dans Solidity. Grâce à lui, nous pouvons facilement créer des contrats intelligents sur plusieurs VM de blockchain. L'EVM sur Ethereum Classic et l'eWASM de ETH 2.0 sont parmi les premiers que nous prenons en charge.
       Sputnikvm:
         description: SputnikVM est une implémentation autonome open source de la machine virtuelle Ethereum (EVM). Elle vise à être une machine virtuelle efficace et enfichable pour différentes blockchains basées sur Ethereum.
+      thirdweb:
+        description: Tout ce dont vous avez besoin pour connecter vos applications ou jeux à des réseaux décentralisés. Des outils puissants qui simplifient le développement web3.
+      Tokenview:
+        description: Un cadre unifié pour interagir avec plus de 120+ blockchains. Les API blockchain de Tokenview ont des points d'extrémité puissants qui simplifient les données blockchain complexes en appels API uniques. Code pour toutes les blockchains supportées en utilisant des appels d'API unifiés. A partir d'ici, vous pouvez facilement obtenir la transaction, l'adresse, le gaz, le contrat, le jeton, le NFT, les journaux et toutes les informations de la chaîne. Et oui, vous pouvez également envoyer des tx à la chaîne. La configuration en un clic avec APIKey aide les développeurs à utiliser, à créer, à construire.
       Truffle Suite:
         description: Un environnement de développement, un cadre de test et un pipeline d'actifs de classe mondiale pour les blockchains utilisant la machine virtuelle Ethereum (EVM), visant à faciliter la vie des développeurs.
   nodeTools:

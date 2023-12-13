@@ -5,10 +5,6 @@ description: |
 items:
   monitors:
     items:
-      etc-network.info:
-        description: Небольшой сайт, помогающий ориентироваться в услугах, предоставляемых etc-network.info.
-      ETCNodes:
-        description: Проводник узлов основной сети Ethereum Classic.
       2Miners:
         description: Панель статистики Ethereum Classic предоставляет наиболее важные статистические данные блокчейна, графики и другие показатели производительности, полученные непосредственно с онлайн-узлов.
       CoinMetrics:
@@ -17,6 +13,10 @@ items:
         description: Информация о добыче Ethereum Classic - включая калькулятор добычи Ethereum Classic, список оборудования для добычи Ethereum Classic, сложность Ethereum Classic с историческими графиками, графики хэшрейта Ethereum Classic, а также текущую цену Ethereum Classic.
       Emerald Insights:
         description: Emerald Insights - это часть проекта Emerald, которая должна предоставлять статистику, мониторинг и расширенную информацию о криптовалютах, используемых Emerald.
+      etc-network.info:
+        description: Небольшой сайт, помогающий ориентироваться в услугах, предоставляемых etc-network.info.
+      ETCNodes:
+        description: Проводник узлов основной сети Ethereum Classic.
       ForkWatch:
         description: ForkWatch - это инструмент мониторинга NiceHash, который предупреждает об аномалиях на конкретных алгоритмах на рынке NiceHash, особенно при изменении цены аренды BTC/TH/Day. Это помогает владельцам конкретных монет быть предупрежденными в случае, если мощности для майнинга потенциально арендуются для готовящейся атаки на конкретную сеть.
       MiningPoolStats:
@@ -25,11 +25,9 @@ items:
         description: Историческая сложность, сложность, время блока и цена.
       PoolDetective:
         description: Майнинговые пулы - важные игроки в криптовалютах с доказательной базой. Но кто следит за тем, что они поручают своим майнерам? Инициатива MIT по цифровым валютам летом 2019 года начала проект по мониторингу поведения майнинговых пулов.
-      TokenView:
-        description: Стандартная историческая статистика сети.
-      WhatToMine:
-        description: Калькулятор прибыльности для добычи Ethereum Classic и других цепочек.
-      Kotti Stats:
-        description: Сетевая статистика для Ethereum Classic Kotti Testnet.
+      Tokenview:
+        description: Tokenview предоставляет общий мультикриптовалютный блокчейн-проводник по количеству охваченных публичных блокчейнов, быстрый и стабильный API-сервис блокчейна, обслуживающий миллионы пользователей, предприятий, проектов и финансовых учреждений с 2017 года.
       ua-mining:
         description: Приборная панель статистики Ethereum Classic.
+      WhatToMine:
+        description: Калькулятор прибыльности для добычи Ethereum Classic и других цепочек.

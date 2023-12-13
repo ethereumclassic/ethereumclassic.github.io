@@ -26,7 +26,7 @@ Bagi mereka yang sudah agak biasa dengan ekosistem mata wang kripto, wujud heuri
 
 Ramai daripada mereka yang terlibat dengan Ethereum sebelum Hack DAO berada di bawah tanggapan bahawa Ethereum berharap untuk melakukan perkara ini dengan tepat: dibina di atas idea teras yang mantap yang disediakan oleh Bitcoin tetapi menambah fungsi tambahan dalam bentuk Turing Complete Smart Platform Kontrak.
 
-Tetapi seperti yang ditunjukkan The DAO Hack, ini tidak berlaku. Apa yang kini dikenali sebagai Ethereum™ mempunyai sedikit kaitan dengan nilai desentralis yang dicipta oleh Bitcoin untuk diwujudkan.
+Tetapi seperti yang ditunjukkan oleh Hack DAO, ini tidak berlaku. Apa yang kini dikenali sebagai Ethereum™ mempunyai sedikit kaitan dengan nilai desentralis yang dicipta oleh Bitcoin untuk diwujudkan.
 
 Keputusan untuk The Ethereum Foundation untuk meninggalkan nilai desentralis yang digunakan untuk menarik sumbangan adalah malang tetapi mewujudkan kekosongan yang akhirnya memperhalusi lagi makna dan kepentingan nilai tersebut dan melahirkan projek yang misinya adalah untuk meneruskan _Original Ethereum Vision_itu.
 

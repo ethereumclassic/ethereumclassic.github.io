@@ -1,8 +1,8 @@
-title: crwdns70046:0crwdne70046:0
+title: crwdns123699:0crwdne123699:0
 __updated: 2022-02-22
 __contribute: 1
-seo: crwdns70052:0crwdne70052:0
-description: "crwdns70054:0[ETCHash]crwdne70054:0"
+seo: crwdns123705:0crwdne123705:0
+description: "crwdns123707:0crwdne123707:0"
 __contributors:
   - gitr0n1n
   - IstoraMandiri
@@ -12,22 +12,22 @@ items:
     __type: table
     columnItems:
       name:
-        name: crwdns70064:0crwdne70064:0
+        name: crwdns123717:0crwdne123717:0
         __linkRef: link
       windowsAmd:
-        name: crwdns70068:0crwdne70068:0
+        name: crwdns123721:0crwdne123721:0
         __checkRef: windowsAmd
       windowsNvidia:
-        name: crwdns70072:0crwdne70072:0
+        name: crwdns123725:0crwdne123725:0
         __checkRef: windowsNvidia
       linuxAmd:
-        name: crwdns70076:0crwdne70076:0
+        name: crwdns123729:0crwdne123729:0
         __checkRef: linuxAmd
       linuxNvidia:
-        name: crwdns70080:0crwdne70080:0
+        name: crwdns123733:0crwdne123733:0
         __checkRef: linuxNvidia
       guide:
-        text: crwdns70084:0crwdne70084:0
+        text: crwdns123737:0crwdne123737:0
         __linkRef: guide
         __icon: book
     items:

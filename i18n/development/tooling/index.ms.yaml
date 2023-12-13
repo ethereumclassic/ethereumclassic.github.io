@@ -23,10 +23,10 @@ items:
         description: Platform untuk membina Dapps untuk ETC blockchain.
       ESerialize:
         description: Matlamat modul ini adalah untuk menyediakan fungsi mudah untuk mensiri dan menyahsiri data untuk Timbunan Ethereum.
-      Ethereum JSON-RPC API:
-        description: Spesifikasi kaedah JSON-RPC yang pelanggan blockchain berasaskan EVM mesti laksanakan.
       Eth Fiddle:
         description: Editor dalam talian untuk kontrak pintar.
+      Ethereum JSON-RPC API:
+        description: Spesifikasi kaedah JSON-RPC yang pelanggan blockchain berasaskan EVM mesti laksanakan.
       EVM-LLVM:
         description: Pembangun bukan sahaja boleh menggunakan skop besar bahasa pengaturcaraan (Rust untuk kontrak pintar!) selain Solidity untuk menyasarkan Mesin Maya Ethereum (EVM), mereka juga boleh mendapat manfaat serta-merta daripada pelbagai alat pembangunan yang dibina di sekitar infrastruktur LLVM.
       Ganache:
@@ -43,14 +43,18 @@ items:
         description: Quorum ialah platform blockchain sumber terbuka yang menggabungkan inovasi komuniti Ethereum awam dengan peningkatan untuk menyokong keperluan perusahaan.
       Remix Online IDE:
         description: IDE dalam pelayar berguna yang boleh menyusun dan menerbitkan kontrak pintar ke pelbagai rangkaian Ethereum. Termasuk linter.
-      Signatory:
-        description: Transaksi luar talian dan penandatangan mesej untuk Ethereum Stack.
       Sidekik:
         description: Nyahpepijat, ujian dan kontrak pintar grok dengan UI visual yang membolehkan anda berinteraksi dengan kontrak pintar berasaskan EVM tempatan atau digunakan.
+      Signatory:
+        description: Transaksi luar talian dan penandatangan mesej untuk Ethereum Stack.
       SOLL:
         description: Pengkompil LLVM akhirnya datang ke Solidity. Dengan itu, kami boleh membuat kontrak pintar dengan mudah merentas berbilang VM blockchain. EVM pada Ethereum Classic dan eWASM ETH 2.0 adalah antara yang pertama kami sokong.
       Sputnikvm:
         description: SputnikVM ialah pelaksanaan kendiri sumber terbuka bagi Mesin Maya Ethereum (EVM). Ia bertujuan untuk menjadi mesin maya yang cekap dan boleh dipasang untuk blok blok berasaskan Ethereum yang berbeza.
+      thirdweb:
+        description: Semua yang anda perlukan untuk menyambungkan apl atau permainan anda ke rangkaian terdesentralisasi. Alat berkuasa yang memudahkan pembangunan web3.
+      Tokenview:
+        description: Rangka kerja bersatu untuk berinteraksi dengan lebih 120+ rantaian blok. API blok blok Tokenview mempunyai titik akhir berkuasa yang memudahkan data blok blok kompleks menjadi panggilan API tunggal. Kod untuk semua blok yang disokong menggunakan panggilan API bersatu. Dari sini untuk mendapatkan transaksi, alamat, gas, kontrak, token, NFT, log dan sebarang maklumat dengan mudah daripada rantaian. Dan Ya, anda juga boleh menghantar tx ke rantai. Konfigurasi satu klik dengan APIKey membantu pembangun untuk Menggunakan, untuk Mencipta, untuk Membina.
       Truffle Suite:
         description: Persekitaran pembangunan bertaraf dunia, rangka kerja ujian dan saluran paip aset untuk rantaian blok menggunakan Mesin Maya Ethereum (EVM), yang bertujuan untuk menjadikan kehidupan sebagai pembangun lebih mudah.
   nodeTools:

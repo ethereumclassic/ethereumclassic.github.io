@@ -23,10 +23,10 @@ items:
         description: ETCブロックチェーン向けのDappsを構築するためのプラットフォーム。
       ESerialize:
         description: このモジュールの目的は、Ethereum Stackのデータをシリアライズおよびデシリアライズするための簡単な関数を提供することです。
-      Ethereum JSON-RPC API:
-        description: EVMベースのブロックチェーンクライアントが実装しなければならないJSON-RPCメソッドの仕様です。
       Eth Fiddle:
         description: スマートコントラクト用のオンラインエディタ。
+      Ethereum JSON-RPC API:
+        description: EVMベースのブロックチェーンクライアントが実装しなければならないJSON-RPCメソッドの仕様です。
       EVM-LLVM:
         description: 開発者は、Solidity以外の広範囲のプログラミング言語(スマートコントラクトにはRust！)を使ってEthereum Virtual Machine(EVM)をターゲットにできるだけでなく、LLVMインフラを中心に構築されたさまざまな開発ツールの恩恵をすぐに受けることができるのです。
       Ganache:
@@ -43,14 +43,18 @@ items:
         description: Quorumは、公開されているEthereumコミュニティのイノベーションと、企業のニーズをサポートするための機能拡張を組み合わせたオープンソースのブロックチェーンプラットフォームです。
       Remix Online IDE:
         description: スマートコントラクトをコンパイルし、様々なEthereumネットワークに公開できる便利なインブラウザーIDEです。リンターを含む。
-      Signatory:
-        description: Ethereum Stack 用のオフライントランザクションおよびメッセージサイナーです。
       Sidekik:
         description: ローカルまたはデプロイされた EVM ベースのスマート コントラクトを操作できるビジュアル UI を使用して、スマート コントラクトをデバッグ、テスト、および理解します。
+      Signatory:
+        description: Ethereum Stack 用のオフライントランザクションおよびメッセージサイナーです。
       SOLL:
         description: LLVMコンパイラがついにSolidityに登場します。これを使えば、複数のブロックチェーンVMにまたがるスマートコントラクトを簡単に作成することができます。Ethereum ClassicのEVMとETH 2.0のeWASMは、私たちが最初にサポートするもののうちの1つです。
       Sputnikvm:
         description: SputnikVMは、Ethereum Virtual Machine(EVM)のオープンソースによるスタンドアロン実装です。Ethereumベースのさまざまなブロックチェーンに対応する効率的でプラグイン可能な仮想マシンとなることを目指しています。
+      thirdweb:
+        description: アプリやゲームを分散型ネットワークに接続するために必要なすべてが揃っています。Web3開発を簡素化する強力なツール。
+      Tokenview:
+        description: 120以上のブロックチェーンと対話するための統一されたフレームワーク。TokenviewブロックチェーンAPIは、複雑なブロックチェーンのデータを単一のAPIコールに簡素化する強力なエンドポイントを備えています。統一されたAPIコールを使用して、サポートされているすべてのブロックチェーンのコードを記述します。ここから、取引、アドレス、ガス、契約、トークン、NFT、ログ、チェーンからのあらゆる情報を簡単に取得できます。また、チェーンにTXを送信することもできます。APIKeyを使ってワンクリックで設定できるので、開発者は使用、作成、構築することができます。
       Truffle Suite:
         description: Ethereum Virtual Machine(EVM)を利用したブロックチェーン向けの世界最高水準の開発環境、テストフレームワーク、アセットパイプラインで、開発者の生活をより快適にすることを目的としています。
   nodeTools:

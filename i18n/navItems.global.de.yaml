@@ -44,6 +44,9 @@ learn:
       name: Wissen
       description: Weitere Informationen zu den Grundlagen von ETC
       navItems:
+        course:
+          name: Kurs
+          description: Eine strukturierte Video- und Artikelserie über Ethereum Classic
         foundation:
           name: Stiftung
           description: Die Grundprinzipien, die die solide philosophische Basis von ETC bilden

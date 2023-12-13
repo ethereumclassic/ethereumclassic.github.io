@@ -83,7 +83,7 @@ La Fundación Ethereum, que recaudó fondos en un crowdsale para crear Ethereum,
 
 En noviembre de 2015, el ahora ex CCO se asoció con algunos codificadores y formó una empresa llamada slock.it. Slock.it quería lanzar no sólo _una DAO de_ , sino _La DAO de_ , que se utilizaría como una especie de fondo de capital riesgo dirigido a proyectos de Ethereum. Se presentó como una forma de hacer crecer el ecosistema de Ethereum y los rendimientos netos para los inversores, que depositarían éter en el contrato de la DAO a cambio de tokens de la DAO, que permitirían votar y obtener recompensas de las inversiones realizadas por la DAO.
 
-### Amiguismo de los comisarios
+### Curador amiguismo
 
 La DAO se convirtió en una gran noticia en el mundo de Ethereum, entre otras cosas porque recibió un importante respaldo de muchos miembros de la Fundación Ethereum. Aparte de que el proyecto está dirigido por el reciente CCO de EF, el DAO había reclutado "curadores", a los que se les dio la capacidad de vetar acciones específicas y actuar como un mecanismo de seguridad, en efecto asegurando a los inversores que los fondos no estarían en riesgo de ciertos tipos de ataque. [Los 11 comisarios](https://medium.com/ursium-blog/vitalik-buterin-gavin-wood-alex-van-de-sande-vlad-zamfir-announced-amongst-stellar-dao-curators-44be4d12dd6e#.1mjq6cfn6) han trabajado directamente para el Proyecto Ethereum o la Fundación, incluidos algunos pesos pesados notables.
 
@@ -161,7 +161,7 @@ Uno de los detalles absurdos pero importantes que a menudo se olvidan sobre The 
 
 _ACTUALIZACIÓN:_ Este análisis se ha demostrado correcto, ya que la identidad de The DAO Hacker ha sido deducida por investigadores y miembros de RHG. De no haber existido una bifurcación, la presión para desenmascarar al hacker habría sido mucho mayor y probablemente habría ocurrido mucho antes.
 
-### ¿Borcar, o no bifurcar?
+### ¿A la bifurcación o no a la bifurcación?
 
 Mientras que este escenario relativamente modesto era aceptable para muchos poseedores de tokens DAO, cualquier cosa que no fuera la devolución inmediata del 100% de los fondos no era aceptable para un contingente influyente, por lo que el debate sobre la bifurcación dura continuó.
 

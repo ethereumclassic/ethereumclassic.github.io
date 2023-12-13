@@ -5,10 +5,6 @@ description: |
 items:
   monitors:
     items:
-      etc-network.info:
-        description: etc-network.info tarafından sağlanan hizmetlerde gezinmenize yardımcı olacak küçük bir site.
-      ETCNodes:
-        description: Ethereum Classic ana ağ düğüm gezgini.
       2Miners:
         description: Ethereum Classic istatistik panosu, doğrudan çevrimiçi düğümlerden yakalanan en önemli blok zinciri istatistiklerini, grafiklerini ve diğer performans ölçümlerini sağlar.
       CoinMetrics:
@@ -17,6 +13,10 @@ items:
         description: Ethereum Classic madencilik bilgileri - Ethereum Classic madencilik hesaplayıcısı, Ethereum Classic madencilik donanımlarının bir listesi, geçmiş grafiklerle Ethereum Classic zorluğu, Ethereum Classic hashrate grafikleri ve mevcut Ethereum Classic fiyatı dahil.
       Emerald Insights:
         description: Emerald Insights, Emerald tarafından kullanılan kripto para birimleri hakkında istatistik, izleme ve gelişmiş bilgiler sağlaması beklenen Emerald projesinin bir parçasıdır.
+      etc-network.info:
+        description: etc-network.info tarafından sağlanan hizmetlerde gezinmenize yardımcı olacak küçük bir site.
+      ETCNodes:
+        description: Ethereum Classic ana ağ düğüm gezgini.
       ForkWatch:
         description: ForkWatch, özellikle BTC/TH/Gün kiralama fiyatı değiştiğinde, NiceHash piyasasındaki belirli algoritmalardaki anormallikler hakkında uyarı veren bir NiceHash izleme aracıdır. Bu, belirli bir ağa gelen bir saldırı için madencilik gücünün potansiyel olarak kiralanması durumunda belirli coinlerin paydaşlarının uyarılmasına yardımcı olur.
       MiningPoolStats:
@@ -25,11 +25,9 @@ items:
         description: Tarihsel zorluk, zorluk, blok süresi ve fiyat.
       PoolDetective:
         description: Madencilik havuzları, iş ispatı kripto para birimlerinde önemli oyunculardır. Ancak madencilerine ne üzerinde çalışmalarını söylediklerini kim izliyor? MIT'nin Dijital Para Birimi Girişimi, 2019 yazında madencilik havuzlarının davranışlarını izlemeye başlamak için bir proje başlattı.
-      TokenView:
-        description: Standart geçmiş ağ istatistikleri.
-      WhatToMine:
-        description: Ethereum Classic ve diğer zincirlerin madenciliği için kârlılık hesaplayıcısı.
-      Kotti Stats:
-        description: Ethereum Classic Kotti Testnet için ağ istatistikleri.
+      Tokenview:
+        description: Tokenview, 2017'den bu yana milyonlarca kullanıcıya, işletmeye, projeye ve finansal kuruma hizmet veren Hızlı ve Kararlı bir blok zinciri API hizmeti olan, kapsanan halka açık blok zincirlerinin sayısına göre Genel Çoklu Kripto Blok Zinciri Gezgini sağlar.
       ua-mining:
         description: Ethereum Classic istatistik panosu.
+      WhatToMine:
+        description: Ethereum Classic ve diğer zincirlerin madenciliği için kârlılık hesaplayıcısı.

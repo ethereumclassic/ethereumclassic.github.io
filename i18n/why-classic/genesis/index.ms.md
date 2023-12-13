@@ -50,11 +50,11 @@ Terdapat beberapa perkara dalam cerita ini yang mungkin mencadangkan potensi kon
 
 Penciptaan Ethereum Classic adalah hasil yang pelik dan sebahagian besarnya tidak dijangka. Daripada menyalahkan individu atau kumpulan, mungkin lebih sihat untuk melihat kelahiran Ethereum Classic sebagai kemalangan yang menggembirakan.
 
-Atas sebab-sebab ini, renungan ini dengan sengaja akan mengelakkan individu yang menyemak nama, sebagaimana perbincangan akan datang mengenai topik tersebut. Hanya organisasi atau jawatan eksekutif berpangkat tinggi akan dikenal pasti apabila peranan mereka penting untuk memahami keadaan.
+Atas sebab-sebab ini, renungan ini dengan sengaja akan mengelakkan individu yang menyemak nama, seperti juga perbincangan masa depan mengenai topik tersebut. Hanya organisasi atau jawatan eksekutif berpangkat tinggi akan dikenal pasti apabila peranan mereka penting untuk memahami keadaan.
 
 ## Visi Ethereum Asal
 
-Pada mulanya, terdapat "Bina Aplikasi Tidak Boleh Dihentikan" dan untuk satu masa, ia adalah baik. Ia adalah revolusi sebenar, kerana purata pembangun anda dapat mencipta jenis perisian baharu yang tidak boleh dihentikan atau ditapis oleh sesiapa sahaja. Pada masa awal, terdapat sokongan bersatu di sebalik konsep _Code is Law_ dalam komuniti Ethereum. Ia bukan sahaja tidak kontroversi, tetapi misi itu sendiri.
+Pada mulanya, terdapat "Bina Aplikasi Tidak Boleh Dihentikan" dan untuk sementara waktu, ia adalah baik. Ia adalah revolusi sebenar, kerana purata pembangun anda dapat mencipta jenis perisian baharu yang tidak boleh dihentikan atau ditapis oleh sesiapa sahaja. Pada masa awal, terdapat sokongan bersatu di sebalik konsep _Code is Law_ dalam komuniti Ethereum. Ia bukan sahaja tidak kontroversi, tetapi misi itu sendiri.
 
 Ungkapan "Bina Aplikasi Tidak Boleh Dihalang" [muncul](https://web.archive.org/web/20150802035735/https://www.ethereum.org/) di laman web rasmi Ethereum, yang seperti yang kita [lihat sebelum ini](/why-classic/code-is-law) , adalah ciri yang bergantung pada _Kod ialah Undang-undang_. Tidak boleh dihalang bermakna kod Kontrak Pintar ialah penimbang tara muktamad hasil urus niaga, berbanding mahkamah atau kuasa lain di luar lapisan kontrak yang sebaliknya boleh menghentikan atau membatalkan permohonan.
 
@@ -153,7 +153,7 @@ Sebelum Hard Fork diputuskan, [disahkan](https://old.reddit.com/r/ethereum/comme
 > 
 > - [Serangan Balas DAO, Slock.it](https://blog.slock.it/a-dao-counter-attack-613548408dd7#.sthdgppgx)
 
-Ketakutan yang tidak realistik wujud bahawa Penggodam DAO tidak akan _berundur dan_ % akan dikunci selama-lamanya. Pada hakikatnya, ia hanya menunggu masa sebelum Kumpulan Robin Hood dapat menguasai baki dana, kerana RHG boleh mengautomasikan sisi kebuntuan mereka sambil mengejar jalan lain untuk membuka topeng atau mengganggu The Hacker.
+Ketakutan yang tidak realistik wujud bahawa Penggodam DAO _akan_ berundur dan 30% akan dikunci selama-lamanya. Pada hakikatnya, ia hanya menunggu masa sebelum Kumpulan Robin Hood dapat menguasai baki dana, kerana RHG boleh mengautomasikan sisi kebuntuan mereka sambil mengejar jalan lain untuk membuka topeng atau mengganggu The Hacker.
 
 Kebuntuan itu bermakna Whitehats telah menafikan The DAO Hacker daripada menerima apa-apa kejatuhan yang ketara, dan mengetahui bahawa jalan lain, termasuk rundingan, forensik rantaian dan kepolisan dunia sebenar boleh digunakan, The Hacker akhirnya akan dipaksa untuk sama ada menyerah secara sukarela atau berhadapan- akibat berantai yang akan menghalang mereka daripada mempertahankan sisi kebuntuan mereka.
 
@@ -212,7 +212,7 @@ Seperti yang akan kita renungkan kemudian, melalui lensa teori permainan, keselu
 
 ### Undi Syiling Yang Adil
 
-Semasa perdebatan The Ethereum Foundation cuba mengekalkan pendirian berkecuali. Apa sahaja yang telah dilakukan tentang The DAO Hack, ia adalah soalan untuk komuniti Ethereum __ untuk memutuskan, bukan sesuatu yang datang dari atas. Ini adalah jawatan penting untuk dipegang kerana menangguhkan pilihan akan, di atas kertas, menyelesaikan tanggungjawab mereka. Walau bagaimanapun, walaupun terdapat dakwaan ini, bukti jelas tentang kekurangan neutraliti di kalangan pelbagai sayap Yayasan Ethereum telah ditunjukkan.
+Semasa perdebatan The Ethereum Foundation cuba mengekalkan pendirian berkecuali. Apa sahaja yang dilakukan tentang The DAO Hack, ia adalah satu soalan untuk komuniti Ethereum __ untuk memutuskan, bukan sesuatu yang datang dari atas. Ini adalah jawatan penting untuk dipegang kerana menangguhkan pilihan akan, di atas kertas, menyelesaikan tanggungjawab mereka. Walau bagaimanapun, walaupun terdapat dakwaan ini, bukti jelas tentang kekurangan neutraliti di kalangan pelbagai sayap Yayasan Ethereum telah ditunjukkan.
 
 Satu masalah dengan melaksanakan Hard Fork ialah jika pengguna perlu ikut serta dengan konfigurasi tambahan, banyak pengendali nod dan pelombong akan lalai kepada rantai "tidak bercabang" apabila mereka secara rutin meningkatkan perisian mereka, yang semuanya akan menjamin perpecahan rantai akan berlaku. dan mencipta masalah. "Penyelesaian" adalah untuk mengemas kini tetapan lalai pelanggan Ethereum untuk mengikut peraturan Hard Fork baharu, dan memerlukan pengguna yang ingin menggunakan versi Ethereum tidak bercabang untuk memilih keluar daripada garpu.
 
@@ -222,7 +222,7 @@ Undian syiling, dengan 1 ETH = 1 undi, adalah alat yang terkenal buruk untuk men
 
 Ternyata, satu alamat mengundi dengan begitu banyak Ether sehingga ia berjumlah 25% daripada semua undian. Selain itu, undian syiling ini tidak mempunyai kuorum minimum, dan hanya 6% daripada jumlah Ether yang mengambil bahagian. Paling mengejutkan, ia diumumkan dan dimuktamadkan dalam masa 12 jam, memberikan sedikit masa untuk menyelaraskan sebarang tindak balas daripada anti-forker, dan menjadikannya mustahil untuk mendapatkan input daripada separuh planet yang sedang tidur.
 
-Dapat diramalkan, keputusannya banyak dicondongkan oleh segelintir ikan paus yang mungkin atau mungkin tidak mengetahui sebelumnya tentang pengumuman itu. Keputusan kritikal yang mana rantaian untuk Geth lalai kemudiannya didakwa dibuat "oleh komuniti" dan kemudiannya digunakan untuk mewajarkan sokongan Ethereum Foundation terhadap rantaian bercabang ke atas ETC.
+Dapat diramalkan, keputusannya telah banyak terpesong oleh segelintir ikan paus yang mungkin atau mungkin tidak mengetahui pengumuman itu. Keputusan kritikal yang mana rantaian untuk Geth lalai kemudiannya didakwa dibuat "oleh komuniti" dan kemudiannya digunakan untuk mewajarkan sokongan Ethereum Foundation terhadap rantaian bercabang ke atas ETC.
 
 Dipuji, dalam versi terkini laman web Ethereum.org, kontroversi yang mengelilingi undian syiling penting ini didokumenkan.
 
@@ -243,7 +243,7 @@ Untuk bersikap adil, beberapa pasukan Yayasan Ethereum yang lain cuba memberikan
 
 Malangnya, keputusan pelanggan Mist adalah jauh lebih kecil akibat daripada Geth, kerana pangkalan pengguna sasaran untuk Mist bukanlah pelombong atau pertukaran, jadi pilihan ini tidak mempunyai kesan yang ketara pada hashrate atau penggunaan pengguna, yang terutamanya ditentukan oleh pertukaran dan perkhidmatan dompet lain menggunakan Tetapan lalai baharu Geth.
 
-Beberapa ahli Yayasan Ethereum secara terbuka bersuara menentang Hard Fork, mengukuhkan idea bahawa konsensus adalah _bukan_ dicapai. Kepada mereka yang menyokong "Bina Aplikasi Tidak Boleh Dihalang" walaupun mendapat tekanan rakan sebaya, kami mengucapkan tahniah kepada anda.
+Beberapa ahli Yayasan Ethereum secara terbuka bersuara menentang Hard Fork, mengukuhkan idea bahawa konsensus adalah _bukan_ dicapai. Kepada mereka yang menyokong "Bina Aplikasi Tidak Boleh Dihentikan" walaupun mendapat tekanan rakan sebaya, kami mengucapkan tahniah kepada anda.
 
 ### Sangat Neutral, Banyak Konsensus
 
@@ -275,7 +275,7 @@ Seolah-olah oleh beberapa undang-undang universal ilahi, dinamik yang bertentang
 
 Apabila pengarangnya cuba untuk menghancurkan _Original Ethereum Vision_, alam semesta memberikan tindak balas yang sama dan bertentangan, dan pada hari yang menentukan itu, satu keajaiban berlaku. Dalam kesinambungan yang menentang _Kod ialah Undang-undang_, blok rantai asal terus dilombong, mengikut peraturan protokol _Klasik_ tidak bercabang.
 
-Buat pertama kalinya, teknologi itu telah menunjukkan mekanisme penyelesaian pertikaian muktamadnya dengan betul. Melalui perpecahan rantai, semua pihak mendapat apa yang mereka mahu; sama ada versi Ethereum dengan Kod _bukan Undang-undang_ atau rantaian yang janji "Bina Aplikasi Tidak Boleh Dihalang" ditegakkan.
+Buat pertama kalinya, teknologi itu telah menunjukkan mekanisme penyelesaian pertikaian muktamadnya dengan betul. Melalui perpecahan rantai, semua pihak mendapat apa yang mereka mahu; sama ada versi Ethereum yang Kod _bukan Undang-undang_ atau rantaian yang janji "Membina Aplikasi Tidak Boleh Dihalang" ditegakkan.
 
 DAO Fork ialah detik pembersihan suci untuk Ethereum, penghapusan rasuah dan pemusatan yang membolehkan The Fork berlaku. Mereka yang tidak menyukai _Kod ialah Undang-undang_ memulakan rantaian baharu dengan peraturan baharu, meninggalkan rantaian yang tidak bercabang beroperasi seperti sedia ada, dengan kurang bagasi, komuniti yang halus dan misi yang jelas.
 
@@ -293,7 +293,7 @@ Kemunculan Ethereum Classic adalah ajaib dalam banyak cara, baik dari segi keada
 
 Ethereum Classic juga mempunyai banyak sifat ajaib yang mustahil untuk dibayangkan secara buatan. Dengan komitmen kepada _Kod ialah Undang-undang_, tiada pengasas, tiada Yayasan Ethereum, tiada premine\*, pengedaran yang adil dan komuniti yang memilih sendiri berdasarkan keprihatinan terhadap prinsip berbanding kemudahan, ETC berdiri lebih tinggi daripada Standard Bitcoin pada banyak tiang desentralisme, memberikan ETC salah satu potensi terbesar dari semua rantaian blok untuk _Sovereign Grade Censorship Resistance_ dan kuasa realiti yang lebih baik yang dikeluarkannya.
 
-Keadaan kemunculan Ethereum Classic sangat jarang berlaku sehingga ia tidak mungkin berlaku lagi. Ethereum Classic, menjadi yang pertama menunjukkan kuasa Kod _ialah Undang-undang_ dan bahaya menolak garpu keras yang kontroversial, berfungsi sebagai amaran untuk mengelakkan situasi serupa daripada berlaku pada masa hadapan, menjadikan ETC satu-satunya rantaian yang mungkin mencapai sifat ini , terima kasih kepada pengarang asalnya yang meninggalkannya.
+Keadaan kemunculan Ethereum Classic sangat jarang berlaku sehingga tidak mungkin berlaku lagi. Ethereum Classic, menjadi yang pertama menunjukkan kuasa Kod _ialah Undang-undang_ dan bahaya menolak garpu keras yang kontroversial, berfungsi sebagai amaran untuk mengelakkan situasi serupa daripada berlaku pada masa hadapan, menjadikan ETC satu-satunya rantaian yang mungkin mencapai sifat ini , terima kasih kepada pengarang asalnya yang meninggalkannya.
 
 ### Kebangkitan
 
@@ -305,7 +305,7 @@ Dua hari kemudian, versi Geth telah dicabang yang menjadi lalai kepada rantai Kl
 
 Komuniti Ethereum Classic dengan cepat menyusun susunan sosial baru yang terdesentralisasi, melancarkan EthereumClassic.org, dan mengisytiharkan kemerdekaan daripada The Ethereum Foundation.
 
-> Biarkan seluruh dunia diketahui bahawa pada 20 Julai 2016, di blok 1,920,000, kami sebagai komuniti individu berdaulat bersatu dengan visi yang sama untuk meneruskan blockchain Ethereum asal yang benar-benar bebas daripada penapisan, penipuan atau campur tangan pihak ketiga . Dalam menyedari bahawa rantaian blok mewakili kebenaran mutlak, kami menyokongnya, menyokong kebolehubahannya dan masa depannya. Kami tidak membuat pengisytiharan ini dengan mudah, mahupun tanpa memikirkan akibat daripada tindakan kami.
+> Biarkan seluruh dunia diketahui bahawa pada 20 Julai 2016, di blok 1,920,000, kami sebagai komuniti individu berdaulat bersatu dengan visi yang sama untuk meneruskan blockchain Ethereum asal yang benar-benar bebas daripada penapisan, penipuan atau campur tangan pihak ketiga . Dalam menyedari bahawa blockchain mewakili kebenaran mutlak, kami menyokongnya, menyokong kebolehubahannya dan masa depannya. Kami tidak membuat pengisytiharan ini dengan mudah, mahupun tanpa memikirkan akibat daripada tindakan kami.
 > 
 > - [Pengisytiharan Kemerdekaan Klasik Ethereum](/blog/2016-08-13-declaration-of-independence)
 
@@ -317,7 +317,7 @@ Belah rantai itu jauh dari tidak menyakitkan. Sekiranya semua kesan sampingan di
 
 ### Rantaian Pencuri
 
-Para pecacai, daripada menerima tanggungjawab, mengisytiharkan bahawa perkara "Klasik" baru ini adalah masalah; ia adalah serangan ke atas Ethereum oleh Bitcoin Maximalists, rantaian protes kosong, zombi yang akan hilang dalam masa yang singkat, malah "rantaian pencuri" [sic]. DLL adalah banyak perkara, tetapi pasti _bukan_ sah. Tiada sesiapa pun yang menyokong Ethereum™ boleh menyokong Ethereum Classic dengan jujur. _Itu adalah_ sesat.
+Para pecacai, daripada menerima tanggungjawab, mengisytiharkan bahawa perkara "Klasik" baru ini adalah masalah; ia adalah serangan ke atas Ethereum oleh Bitcoin Maximalists, rantaian protes kosong, zombi yang akan hilang dalam masa yang singkat, malah "rantaian pencuri" [sic]. DLL adalah banyak perkara, tetapi pasti _bukan_ sah. Tiada sesiapa pun yang menyokong Ethereum™ boleh menyokong Ethereum Classic dengan jujur. __ adalah ajaran sesat.
 
 Bagi kebanyakan orang, mereka yang bertanggungjawab untuk Ethereum Classic adalah "bodoh", "orang gila", "penjahat", atau lebih teruk lagi, dan mereka terpaksa membayar untuk jenayah mereka. Sebahagian besar permusuhan selepas garpu ini telah ditangkap pada masa itu oleh pengulas, tetapi untuk mengelak daripada mengambil kudis, kami amat menasihatkan agar tidak menggoog tajuk bahagian ini.
 
@@ -327,9 +327,9 @@ Tetapi serangan terhadap Ethereum Classic tidak hanya terhad kepada panggilan na
 
 Akibat perpecahan rantai, setiap alamat yang memegang Eter sebelum Hard Fork kini meningkat dua kali ganda; mereka akan mempunyai Eter yang mereka pegang sebelum ini, yang dikenali sebagai ETC, serta jumlah yang sama bagi Forked Ether yang baru ditempa, menggunakan simbol ETH. Terima kasih kepada penyenaraian bursa ETC sejurus selepas perpecahan, pasaran cair muncul yang membolehkan penemuan harga antara kedua-dua rantaian.
 
-Pada hari-hari awal penemuan harga ini, ramai pro-forker berminat untuk menjual ETC "tidak bernilai" mereka pada kadar yang sangat rendah, membuang sejumlah besar ETC di bawah andaian ia adalah "perlumbaan ke bawah" pasaran yang semakin hampir, mendorong harga turun kepada serendah 0.01 ETH setiap ETC. Ini mungkin menyebabkan kebimbangan sementara, tetapi ia membenarkan penyokong ETC yang menggunakan tangan berlian untuk mengambil beberapa tawaran sekali dalam seumur hidup.
+Pada hari-hari awal penemuan harga ini, ramai pro-forker berminat untuk menjual ETC "tidak bernilai" mereka pada kadar yang sangat rendah, membuang sejumlah besar ETC di bawah andaian ia adalah "perlumbaan ke bawah" pasaran yang semakin hampir, mendorong harga turun kepada serendah 0.01 ETH setiap ETC. Ini mungkin telah menyebabkan kebimbangan sementara, tetapi ia membenarkan penyokong ETC yang menggunakan tangan berlian untuk mengambil beberapa tawaran sekali seumur hidup.
 
-Ini memuncak dalam kegilaan jualan pasaran dengan penjaja terkemuka yang mendakwa penjualan ETC mereka adalah "wang percuma". Bagi mereka, ia adalah perdagangan tanpa kos kerana ETC tidak mempunyai nilai, tetapi pada hakikatnya, mereka adalah peserta dalam salah satu acara pengagihan semula berasaskan pasaran cryptocurrency yang paling adil. ETC yang "tidak bernilai" pada dasarnya telah dipindahkan secara percuma daripada penyokong pro-forker yang bersemangat kepada mereka yang melihat masa depan dalam _Kod ialah Undang-undang_, dalam apa yang boleh diiktiraf hari ini sebagai "Pengagihan Semula Ultrafair".
+Ini memuncak dalam kegilaan menjual pasaran dengan penjahat terkemuka yang mendakwa penjualan ETC mereka adalah "wang percuma". Bagi mereka, ia adalah perdagangan tanpa kos kerana ETC tidak mempunyai nilai, tetapi pada hakikatnya, mereka adalah peserta dalam salah satu acara pengagihan semula berasaskan pasaran cryptocurrency yang paling adil. ETC yang "tidak bernilai" pada dasarnya telah dipindahkan secara percuma daripada penyokong pro-forker yang bersemangat kepada mereka yang melihat masa depan dalam _Kod ialah Undang-undang_, dalam apa yang boleh diiktiraf hari ini sebagai "Pengagihan Semula Ultrafair".
 
 ![Penemuan harga ETC selepas garpu, memuncak pada 0.4 ETH/ETC](./polo.png)
 
@@ -339,7 +339,7 @@ Mengejutkan ramai pro-forker, selepas mereka membuang ETC mereka, lambakan awal 
 
 Tapi tunggu sekejap. Apakah yang berlaku kepada dana yang diperoleh Robin Hood Group sebelum ini? Sebagai peringatan pantas, Kumpulan Robin Hood telah memperoleh 70% daripada dana yang hilang, kini dalam bentuk ETC. Untuk baki 30%, mereka telah mendapatkan bantuan daripada komuniti untuk memperoleh "kunci pengawal" Child DAO. Mereka mempunyai pilihan untuk mengekalkan kebuntuan perpecahan berterusan dengan The DAO Hacker.
 
-Walau bagaimanapun, selepas garpu, Kumpulan Robin Hood (RHG) menyerahkan roda (dan penjagaan ETC) kepada Kumpulan Topi Putih (WHG) yang baru dibentuk. Siapa yang membuat panggilan untuk White Hat Group sebenarnya tidak diketahui, tetapi pengumuman yang dibuat WHG telah diterbitkan oleh sebuah syarikat bernama Bity, yang kebetulan [bekerjasama](https://archive.is/3nWU0) dengan slock.it pada masa itu.
+Walau bagaimanapun, selepas garpu, Kumpulan Robin Hood (RHG) menyerahkan roda (dan jagaan ETC) kepada Kumpulan Topi Putih (WHG) yang baru dibentuk. Siapa yang membuat panggilan untuk White Hat Group sebenarnya tidak diketahui, tetapi pengumuman yang dibuat WHG telah diterbitkan oleh sebuah syarikat bernama Bity, yang kebetulan [bekerjasama](https://archive.is/3nWU0) dengan slock.it pada masa itu.
 
 Pada bahagian Ethereum Classic dalam perpecahan, keputusan telah dibuat oleh RHG/WHG _not_ untuk mempertahankan pihak mereka dalam kebuntuan, dan mereka tidak, walaupun diminta, memindahkan kunci DAO Kanak-kanak kepada beberapa kumpulan dipercayai lain untuk meneruskan kebuntuan bagi pihak mereka.
 
@@ -398,11 +398,11 @@ Satu perkara penting daripada The DAO Fork debacle, yang kini hanya boleh dikena
 
 Blockchain direka untuk menyelesaikan _masalah penyelarasan_, seperti yang dilakukan oleh Bitcoin dan Ethereum dengan menguruskan, tanpa apa-apa kecuali protokol yang jelas melaksanakan insentif ekonomi, mendapatkan berjuta-juta individu untuk bekerjasama dan, ringkasnya, melakukan banyak perkara yang menarik. . Tetapi nampaknya mekanisme yang tepat ini boleh, jika dibiarkan, berkerut dan berubah bentuk dengan sendirinya dan menghasilkan perkara yang jelas tidak menarik.
 
-Mengimbas kembali, nampaknya jelas bahawa The DAO Hard Fork adalah contoh perangkap penyelarasan __, yang menyebabkan individu yang bertindak atas kepentingan rasional ekonomi segera mereka sendiri untuk terlibat dalam tindakan yang secara keseluruhannya adalah lebih teruk bagi semua yang terlibat. Apabila difikirkan semula, peristiwa yang berlaku tidak begitu masuk akal memandangkan hasil yang buruk, jadi mengapa tidak jelas pada masa itu bahawa Hard Fork adalah idea yang tidak baik?
+Mengimbas kembali, nampaknya jelas bahawa The DAO Hard Fork ialah contoh perangkap penyelarasan __, yang menyebabkan individu yang bertindak atas kepentingan rasional ekonomi segera mereka sendiri untuk terlibat dalam tindakan yang secara keseluruhannya adalah lebih teruk bagi semua yang terlibat. Apabila difikirkan semula, peristiwa yang berlaku tidak begitu masuk akal memandangkan hasil yang buruk, jadi mengapa tidak jelas pada masa itu bahawa Hard Fork adalah idea yang tidak baik?
 
-Jawapan untuk ini adalah rumit, tetapi satu teori adalah bahawa pemikiran mereka yang berusaha keras untuk Hard Fork telah dikaburkan, gabungan kuasa yang tidak kena pada tempatnya, pandangan jauh yang lemah, dan mungkin yang paling berpengaruh, merampas amygdala berkat pertaruhan kewangan yang sangat tinggi. dan pergaduhan suku yang disebabkan oleh struktur insentif teori permainan di sekitar perdebatan Hard Fork, yang tidak menggalakkan sebarang bau untuk berundur dan memanfaatkan semangat pahlawan.
+Jawapan untuk ini adalah rumit, tetapi satu teori adalah bahawa pemikiran mereka yang begitu bersungguh-sungguh untuk Hard Fork telah kabur, gabungan kuasa yang salah tempat, pandangan jauh yang lemah, dan mungkin yang paling berpengaruh, merampas amygdala berkat pertaruhan kewangan yang sangat tinggi. dan pergaduhan suku yang disebabkan oleh struktur insentif teori permainan di sekitar perdebatan Hard Fork, yang tidak menggalakkan sebarang bau untuk berundur dan memanfaatkan semangat pahlawan.
 
-Perdebatan Hard Fork pada asasnya adalah permainan [yang kompleks ayam](https://en.wikipedia.org/wiki/Chicken_(game)), dan pihak yang bercabang telah diyakinkan bahawa mereka hanya boleh "menang" jika mereka menggandakan idea bahawa perpecahan rantai tidak akan berlaku. Oleh itu, mereka meremehkan kemungkinan perpecahan rantai dan, untuk memastikan keyakinan yang bersatu, menakut-nakutkan dan menghalang orang lain daripada membuat sebarang rancangan untuk menanganinya.
+Perdebatan Hard Fork pada asasnya adalah permainan [yang kompleks ayam](https://en.wikipedia.org/wiki/Chicken_(game)), dan pihak yang membuat keputusan percaya bahawa mereka hanya boleh "menang" jika mereka menggandakan idea bahawa perpecahan rantai tidak akan berlaku. Oleh itu, mereka memperkecilkan kemungkinan perpecahan rantai dan, untuk memastikan keyakinan yang bersatu, menakut-nakutkan dan menghalang orang lain daripada membuat sebarang rancangan untuk menanganinya.
 
 Setelah meminum [Kool-Aid](https://www.urbandictionary.com/define.php?term=drinking%20the%20kool-aid)mereka sendiri, ramai yang benar-benar percaya mereka yang menentang garpu keras atau memberi amaran bahawa perpecahan rantai boleh berlaku sama ada bersekutu dengan The Hacker atau Bitcoin Maximalists yang mahu melihat Ethereum mati. Akibatnya, penjahat, didorong oleh keinginan yang rasional tetapi strategi yang salah untuk melindungi kekayaan mereka, sanggup menyebarkan dan menggunakan propaganda yang semakin tidak masuk akal yang menyokong sokongan untuk Hard Fork, yang mencipta kitaran ganas yang menambah kesannya.
 
@@ -442,7 +442,7 @@ Kerosakan sebenar dan berkekalan yang berlaku telah dikenakan ke atas budaya rua
 
 Walaupun huru-hara, satu projek, atau lebih khusus, satu falsafah, walaupun ia masih jauh dari jelas pada masa itu, mendapat manfaat besar daripada Hard Fork; Ethereum Classic dan Kod _ialah Undang-undang_. Akhirnya, "pemenang" sebenar perdebatan Hard Fork yang ganas ialah anti-forker, yang telah dibuktikan betul oleh perpecahan rantai dan kembalinya ETC yang dipulihkan, menunjukkan bahawa Hard Fork tidak diperlukan. Lebih-lebih lagi, apabila ternyata bahawa _The Original Ethereum Vision_ tidak akan pergi secara senyap ke malam, ia telah diselesaikan; _Kod ialah Undang-undang_ diguna pakai.
 
-_Tetapi tunggu sebentar, adakah ini serius? Lihat sahaja topi pasaran Ethereum Classic berbanding Ethereum! Dalam dunia apakah Ethereum Classic dianggap sebagai pemenang?_
+_Tetapi tunggu sebentar, adakah ini serius? Lihat sahaja topi pasaran Ethereum Classic berbanding Ethereum! Di dunia apakah Ethereum Classic dianggap sebagai pemenang?_
 
 Bagi mereka yang mendapat _Kod ialah Undang-undang_ dan memahami nilai sebenar rantaian blok, jawapan untuk ini adalah jelas. Terdapat perbezaan dunia antara had pasaran dan nilai rangkaian, dan sementara pasaran boleh kekal tidak rasional untuk masa yang lama, akhirnya semua rantaian blok akan menghadapi cabaran wujud yang hanya boleh diatasi melalui tak berbelah bahagi komitmen untuk tidak dapat dihalang. Perlahan dan mantap memenangi perlumbaan itu.
 

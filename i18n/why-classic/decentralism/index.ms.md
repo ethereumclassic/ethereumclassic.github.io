@@ -53,7 +53,7 @@ Walau apa pun cara ia dikira, penyerang yang ingin "memiliki" sistem mempunyai t
 
 ![The Blockchain Trilemma](./trilemma.png)
 
-Blockchain Trilemma menerangkan had teknologi yang digunakan untuk semua protokol blockchain. Konsep yang sama juga digunakan pada lapisan sosial projek blockchain, dengan skala gelongsor pembuatan keputusan atas ke bawah vs bawah ke atas.
+Blockchain Trilemma menerangkan had teknologi yang digunakan untuk semua protokol blockchain. Konsep serupa juga digunakan pada lapisan sosial projek blockchain, dengan skala gelongsor pembuatan keputusan atas ke bawah vs bawah ke atas.
 
 Seperti mencipta watak permainan video, semua projek mesti menempatkan diri mereka di suatu tempat dalam ruang dimensi sosioteknologi ini, memperuntukkan mata keupayaan dan mengorbankan beberapa sifat untuk yang lain. Pemilihan mentakrifkan kelas, kebolehan dan keberkesanan blockchain dalam pertempuran.
 
@@ -69,19 +69,19 @@ Satu soalan yang perlu ditanya apabila menilai projek blockchain yang berbeza ia
 
 Sebagai contoh, dalam kes Bitcoin, aplikasi utamanya ialah syiling itu sendiri: kekurangan digital dan keupayaan untuk memindahkannya tanpa penapisan. Ia bersaing dengan banyak mata wang dan aset, termasuk dolar AS, dan oleh itu ia mesti menahan serangan daripada entiti yang sangat berkuasa untuk berterusan. Banyak daripada [pendahulu Bitcoin](https://blog.dassetx.com/the-known-and-possible-influences-of-satoshi-nakamoto-part-1-privately-issued-digital-currencies-before-bitcoin) telah ditutup kerana mereka mempunyai titik utama kegagalan, dan Bitcoin telah direka secara jelas untuk memintas penapisan jenis ini dengan terdesentralisasi yang secukupnya.
 
-Sebaliknya, sesetengah rantaian blok memerlukan rintangan penapisan yang kurang daripada Bitcoin dan hanya berhasrat, sebagai contoh, membolehkan pemindahan kad besbol maya, atau mempunyai kes penggunaan lain yang tidak kontroversial. Memandangkan tiada kuasa luar yang kuat mahu menghentikan aplikasi ini, rintangan penapisan adalah tidak diperlukan. Malah mungkin dilihat sebagai faedah jika sesetengah pihak pusat boleh mengatasi keadaan rantaian dalam keadaan tertentu, jadi mempunyai keseluruhan rantaian dikendalikan oleh segelintir pihak berkuasa boleh diterima untuk kes penggunaan ini. Dalam kes ini, apabila kes penggunaan tidak cukup penting untuk organisasi yang dibiayai dengan baik untuk ditutup, mungkin wajar untuk mengorbankan penyahpusatan untuk skalabiliti, dan teknologi bukan rantaian lain mungkin lebih sesuai.
+Sebaliknya, sesetengah rantaian blok memerlukan rintangan penapisan yang kurang daripada Bitcoin dan hanya berniat, sebagai contoh, membolehkan pemindahan kad besbol maya, atau mempunyai kes penggunaan lain yang tidak kontroversial. Memandangkan tiada kuasa luar yang kuat mahu menghentikan aplikasi ini, rintangan penapisan adalah tidak diperlukan. Malah mungkin dilihat sebagai faedah jika sesetengah pihak pusat boleh mengatasi keadaan rantaian dalam keadaan tertentu, jadi mempunyai keseluruhan rantaian dikendalikan oleh segelintir pihak berkuasa boleh diterima untuk kes penggunaan ini. Dalam kes ini, apabila kes penggunaan tidak cukup penting untuk organisasi yang dibiayai dengan baik untuk ditutup, mungkin wajar untuk mengorbankan desentralisasi untuk skalabiliti, dan teknologi bukan rantaian lain mungkin lebih sesuai.
 
 Ethereum Classic, walaupun pada tahun 2015 apabila ia dikenali sebagai Ethereum, berhasrat untuk mencapai cita-cita pada tahap sekurang-kurangnya terdedah kepada penapisan seperti Bitcoin.
 
-> Ethereum ialah platform pengkomputeran terdesentralisasi yang melaksanakan kontrak pintar. Aplikasi dijalankan betul-betul seperti yang diprogramkan tanpa kemungkinan penapisan, masa henti atau gangguan pihak ketiga.
+> Ethereum ialah platform pengkomputeran terdesentralisasi yang melaksanakan kontrak pintar. Aplikasi dijalankan tepat seperti yang diprogramkan tanpa kemungkinan penapisan, masa henti atau gangguan pihak ketiga.
 > 
 > - Ethereum.org, 2015
 
-Platform Kontrak Pintar Ethereum direka untuk bukan sahaja menyokong kes penggunaan mata wang asas Bitcoin, tetapi juga apa-apa jenis aplikasi blockchain. Oleh sebab itu, kemungkinan besar akan menarik percubaan penapisan daripada penyandang sistem warisan yang berisiko terganggu.
+Platform Kontrak Pintar Ethereum direka untuk bukan sahaja menyokong kes penggunaan mata wang asas Bitcoin, tetapi juga apa-apa jenis aplikasi blockchain. Disebabkan ini, kemungkinan besar akan menarik percubaan penapisan daripada penyandang sistem warisan yang berisiko terganggu.
 
 Untuk menyediakan penyelesaian di peringkat global yang perlu menghalang serangan daripada institusi berdaulat lain seperti negara bangsa dan organisasi multinasional, Ethereum, seperti Bitcoin, perlu mencapai tahap desentralisasi yang menjadikannya mustahil untuk mana-mana kumpulan ini menapis. ia; _Rintangan Penapisan Gred Berdaulat_ diperlukan.
 
-Ambang kritikal dicapai dengan tahap tidak penapisan ini. Memandangkan tiada institusi lain boleh menapis rangkaian, aplikasi menjadi lebih berguna, menjadi _tanpa amanah_. Mereka tidak lagi bergantung pada kepercayaan atau kebenaran beberapa syarikat atau kerajaan lain untuk beroperasi, dan, pada platform ini, penggunalah, bukannya penyedia yang boleh memutuskan perkara yang berlaku.
+Ambang kritikal dicapai dengan tahap tidak penapisan ini. Memandangkan tiada institusi lain boleh menapis rangkaian, aplikasi menjadi lebih berguna dengan ketara, menjadi _tanpa amanah_. Mereka tidak lagi bergantung pada kepercayaan atau kebenaran beberapa syarikat atau kerajaan lain untuk beroperasi, dan, pada platform ini, penggunalah, bukannya penyedia yang boleh memutuskan perkara yang berlaku.
 
 _Kod ialah Undang-undang_ hanya boleh beroperasi pada rantaian yang telah mencapai _Rintangan Penapisan Gred Berdaulat_. Tahap ini diperlukan untuk menghalang entiti lain daripada menapis operasinya, dan ini seterusnya memerlukan rantaian untuk memaksimumkan atribut desentralisasinya dan sentiasa mengekalkannya tanpa kompromi. _Kod ialah Undang-undang_ memerlukan _desentralisasi maksima_.
 
@@ -121,17 +121,17 @@ Salah satu elemen yang paling bermasalah dalam keadaan kegagalan jenis ini ialah
 
 Walaupun pasukan berpusat tidak dikompromi secara terang-terangan, potensi kompromi ini boleh menimbulkan ketidakpercayaan dan kegelisahan. Teori konspirasi dan mempersoalkan pembuatan keputusan boleh menjejaskan kepimpinan dan kestabilan projek jika ia kelihatan tidak didorong oleh merit semata-mata, dan taktik perpecahan dan penaklukan mudah yang digunakan terhadap jawatankuasa penganjur mungkin cukup untuk melumpuhkan projek.
 
-Keadaan kegagalan ini menunjukkan percanggahan yang wujud dalam mana-mana projek blockchain yang bergantung kepada jawatankuasa penganjur pusat. Walaupun protokol mungkin didesentralisasikan di atas kertas, pada hakikatnya projek itu bergantung kepada kumpulan pusat yang boleh dan akan tunduk kepada kehendak sesiapa sahaja yang merasakan bahawa kos untuk berbuat demikian adalah berbaloi.
+Keadaan kegagalan ini menunjukkan percanggahan yang wujud dalam mana-mana projek blockchain yang bergantung kepada jawatankuasa penganjur pusat. Walaupun protokol mungkin tidak berpusat di atas kertas, pada hakikatnya projek itu bergantung kepada kumpulan pusat yang boleh dan akan tunduk kepada kehendak sesiapa sahaja yang merasakan bahawa kos untuk berbuat demikian adalah berbaloi.
 
 ### Syiling Kabuki
 
 Pemusatan, seperti graviti, sentiasa menarik dan mencari sebarang kelemahan dalam struktur sosioteknologi untuk mencari titik pecahnya. Untuk sistem mengatasi kuasa ini dalam jangka panjang, ia mesti memastikan bahawa tiada titik pusat kegagalan boleh dieksploitasi, yang bermaksud mereka bentuk langkah balas yang teguh yang sentiasa menolak pemusatan bukan sahaja di satu tempat tetapi di semua kawasan.
 
-Oleh kerana itu, tidak ada gunanya melakukan desentralisasi dalam separuh langkah. Rantaian hanya sekuat pautan terlemahnya, dan rantaian blok hanya terdesentralisasi sebagai kesesakan yang paling terpusat. Atas sebab ini, _kesemua_ bahagian projek blockchain, dari segi teknikal dan sosial, mesti berusaha untuk mencapai _maksima desentralisasi_.
+Oleh kerana itu, tidak ada gunanya melakukan desentralisasi dalam separuh langkah. Rantaian hanya sekuat pautan terlemahnya, dan rantaian blok hanya terdesentralisasi sebagai kesesakan yang paling terpusat. Atas sebab ini, _kesemua_ bahagian projek blokchain, dari segi teknikal dan sosial, mesti berusaha untuk mencapai _maksima desentralisasi_.
 
 Malangnya, dalam ekosistem mata wang kripto, kepentingan _desentralisasi maksimalisme_ tidak difahami atau diterima pakai secara meluas, sehingga istilah _teater desentralisasi_ telah menjadi cara biasa untuk menggambarkan banyak _yang dipanggil_ sistem terdesentralisasi.
 
-Projek-projek ini mempunyai titik kegagalan tunggal yang halus dalam sistem mereka, tetapi penganjur mengalihkan tumpuan ke kawasan "terdesentralisasi" yang lain. Ini adalah taktik yang berkesan, kerana membuktikan bahawa sistem mempunyai titik pusat kegagalan yang berpotensi boleh ditangkap memerlukan pengetahuan mendalam tentang sistem, dan boleh menjadi sangat sukar atau mustahil untuk orang biasa, disebabkan oleh kemahiran teknikal dan pengetahuan orang dalam yang diperlukan untuk menilai dengan betul.
+Projek-projek ini mempunyai titik kegagalan tunggal yang halus dalam sistem mereka, tetapi penganjur mengalihkan tumpuan kepada kawasan "terdesentralisasi" yang lain. Ini adalah taktik yang berkesan, kerana membuktikan bahawa sistem mempunyai titik pusat kegagalan yang berpotensi boleh ditangkap memerlukan pengetahuan mendalam tentang sistem, dan boleh menjadi sangat sukar atau mustahil untuk orang biasa, disebabkan oleh kemahiran teknikal dan pengetahuan orang dalam yang diperlukan untuk menilai dengan betul.
 
 Seperti perumpamaan bangunan yang dibina di atas batu dan pasir, kepada mata yang tidak terlatih, dua projek mungkin kelihatan dibina dengan betul, dan dalam keadaan biasa kedua-duanya beroperasi seperti yang dimaksudkan. Tetapi di bawah permukaan, satu projek mempunyai kecacatan maut yang hanya akan membawa kepada kemusnahan semasa tekanan dan berkemungkinan akan menyebabkan kerosakan kepada mereka yang mengharapkan projek itu bertahan dalam ujian masa.
 
@@ -171,7 +171,7 @@ Hanya projek dengan cadangan nilai jangka panjang akan kekal, yang bermaksud han
 
 Daripada bergantung kepada suntikan tunai yang tidak mampan daripada pihak berkuasa pusat, projek mesti berkembang untuk mengekalkan diri mereka semata-mata berdasarkan sumbangan semula jadi, seperti yang melalui strategi _Beli dan Sumbangkan_ , di mana individu membeli projek dan mendorong mereka dari segi ekonomi untuk menyumbang kepadanya.
 
-Strategi ini berfungsi paling baik apabila seseorang individu mendapat ganjaran penuh daripada sumbangan mereka, yang hanya boleh berlaku apabila protokol adalah neutral. Protokol neutral melayan semua peserta pada kedudukan yang sama dan tidak memberikan sebarang keistimewaan kepada pihak tertentu. Projek blockchain terdesentralisasi akan bersaing antara satu sama lain atas dasar ini; hanya projek yang paling neutral, yang tanpa Asas, Cukai Dev, atau premine yang tidak dicairkan, akan menarik jenis sumbangan semula jadi yang membolehkan kemampanan jangka panjang.
+Strategi ini berfungsi paling baik apabila seseorang individu mendapat ganjaran penuh daripada sumbangan mereka, yang hanya boleh berlaku apabila protokol adalah neutral. Protokol neutral melayan semua peserta pada kedudukan yang sama dan tidak memberikan sebarang keistimewaan istimewa kepada pihak tertentu. Projek blockchain terdesentralisasi akan bersaing antara satu sama lain atas dasar ini; hanya projek yang paling neutral, yang tanpa Asas, Cukai Dev, atau premine yang tidak dicairkan, akan menarik jenis sumbangan semula jadi yang membolehkan kemampanan jangka panjang.
 
 ### Mengimbangi Kuasa
 

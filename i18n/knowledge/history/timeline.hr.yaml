@@ -2,7 +2,7 @@ title: Vremenska traka događaja
 items:
   frontierRelease:
     title: Pokretanje Ethereuma
-    text: Vitalik Buterin i Zaklada Ethereum stvaraju prvu platformu za pametne ugovore temeljenu na blockchainu koja se temelji na Turingu s izdanjem Frontier.
+    text: Vitalik Buterin i The Ethereum Foundation stvorili su prvu platformu za pametne ugovore temeljenu na blockchainu koja je potpuna Turing s izdanjem Frontier.
   frontierThawingUpgrade:
     title: Nadogradnja Frontier Thawing
     text: Mreža implementira 'Ledeno doba' u bloku 200.000 uvodeći Difficulty Bomb, mehanizam osmišljen za premještanje mrežnog mehanizma konsenzusa s Proof-of-Work na Proof-of-Stake.
@@ -269,19 +269,13 @@ items:
     text: Razvojni programeri jezgre Ethereum Classic implementiraju nadogradnje ETH-ovog londonskog mrežnog protokola kako bi održali operativni paritet sa svojim sestrinskim lancem.
   etcFlood:
     title: ETC pozdravlja novi hashrate
-    text: Ethereum Classic daje podršku algoritmu za rudarenje ETChash i trenutnom ekosustavu rudarenja. Ovo pozicionira Ethereum Classic kao mrežu koja je dobro pozicionirana da apsorbira većinu obespravljenih Ethash rudara s prelaskom ETH mreže na konsenzus o dokazu o udjelu.
-  etcdao:
-    title: Ethereum Classic DAO
-    text: Stabilno i dugoročno financiranje pokazalo se problemom za Ethereum Classic s napuštanjem Ethereum Foundationa 2016. U nastojanju da se riješi problem LTS financiranja mreže, Ethereum Classic DAO osnovan je s misijom budućeg dokazivanja razvoja mreže putem fond za razvoj otvorenog koda. Sredstva se generiraju upotrebom ETC DeFi skupa hostiranog na EthereumClassic.com
+    text: Ethereum Classic daje podršku algoritmu za rudarenje ETChash i trenutnom ekosustavu rudarenja. Ovo pozicionira Ethereum Classic kao mrežu u dobroj poziciji da apsorbira većinu obespravljenih Ethash rudara s prelaskom ETH mreže na konsenzus o dokazu o udjelu.
   era4:
     title: 5M20 Era 4
-    text: Nagrade za blokove Ethereum Classica smanjene su za 20% na 2,56 ETC po bloku, prema rasporedu emisija 5M20 inspiriranom bitcoinom. ETChash mining hasrate nastavlja se okretati prema ETC-u s mrežom koja doseže vrhunce svih vremena.
+    text: Nagrade za blokove Ethereum Classica smanjene su za 20% na 2,56 ETC po bloku, prema rasporedu emisija 5M20 inspiriranom bitcoinom. ETChash hashrate rudarenja nastavlja se okretati ETC-u s mrežom koja doseže vrhunce svih vremena.
   sha3Withdrawn:
-    title: ETC Coop SHA3 prijedlog povučen
-    text: Nakon više od tri godine sporne rasprave, Bob Summerwill priznaje sporni hardfork koji bi ECIP-1049 izazvao na mreži i povlači prijedlog. Negativna društvena cijena uzrokovana kampanjom dezinformiranja zagovornika ECIP-1049 i dalje negativno utječe na javnu percepciju mreže. Međutim, zahvaljujući svojoj otpornoj zajednici, Ethereum Classic ostaje u dobroj poziciji da napreduje na ETChashu u svijetu nakon spajanja.
-  etcswap:
-    title: ETCswap
-    text: Ethereum Classic DAO lansira svoj prvi proizvod - ETCswap. To osigurava da je mreža korak bliže stabilnom financiranju za razvoj otvorenog koda na Ethereum Classic. Profesionalni decentralizirani skup protokola bit će postavljen na Ethereum Classic.
+    title: SHA3 prijedlog povučen
+    text: Nakon više od tri godine sporne rasprave, ECIP-1049 je povučen zbog vjerojatnosti spornog hardforka. Ethereum Classic ostaje u dobroj poziciji da napreduje na ETChashu u svijetu nakon spajanja.
   vitalikEndorsesETC:
     title: Vitalik Buterin podržava Ethereum Classic
     text: Vitalik Buterin, najistaknutiji suosnivač Ethereuma, daje podršku izvornoj Ethereum mreži-- Ethereum Classic za one koji cijene lance Proof-of-Work.

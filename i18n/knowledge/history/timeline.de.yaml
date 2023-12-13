@@ -2,7 +2,7 @@ title: Zeitleiste der Ereignisse
 items:
   frontierRelease:
     title: Ethereum-Einführung
-    text: Vitalik Buterin und die Ethereum Foundation schaffen mit dem Frontier-Release die erste Blockchain-basierte Turing-komplette Smart-Contract-Plattform.
+    text: Vitalik Buterin und die Ethereum Foundation haben mit dem Frontier-Release die erste Blockchain-basierte Turing-komplette Smart-Contract-Plattform geschaffen.
   frontierThawingUpgrade:
     title: Upgrade der Grenzabtauung
     text: Das Netzwerk führt bei Block 200.000 eine "Eiszeit" ein, in der die Difficulty Bomb eingeführt wird, ein Mechanismus, der den Konsensmechanismus des Netzwerks von Proof-of-Work auf Proof-of-Stake umstellt.
@@ -269,19 +269,13 @@ items:
     text: Die Entwickler des Ethereum-Classic-Kerns implementieren die Londoner Netzwerkprotokoll-Upgrades von ETH, um die operative Parität mit der Schwesterkette aufrechtzuerhalten.
   etcFlood:
     title: ETC begrüßt die neue Hashrate
-    text: Ethereum Classic verpflichtet sich, den ETChash-Algorithmus und das aktuelle Mining-Ökosystem zu unterstützen. Dies positioniert Ethereum Classic als ein Netzwerk, das gut positioniert ist, um eine Mehrheit der entrechteten Ethash-Miner mit dem Wechsel des ETH-Netzwerks zum Proof-of-Stake-Konsens zu absorbieren.
-  etcdao:
-    title: Ethereum Classic DAO
-    text: Eine stabile und langfristige Finanzierung erweist sich als Problem für Ethereum Classic, das von der Ethereum Foundation im Jahr 2016 aufgegeben wurde. Um das Problem der langfristigen Finanzierung des Netzwerks zu lösen, wurde die Ethereum Classic DAO mit dem Ziel gegründet, die Entwicklung des Netzwerks über einen Open-Source-Entwicklungsfonds zukunftssicher zu machen. Die Finanzierung erfolgt über einen ETC-DeFi-Stack, der auf EthereumClassic.com gehostet wird.
+    text: Ethereum Classic verpflichtet sich, den ETChash-Algorithmus und das aktuelle Mining-Ökosystem zu unterstützen. Dies positioniert Ethereum Classic als ein Netzwerk, das gut positioniert ist, um einen Großteil der entrechteten Ethash-Miner zu absorbieren, wenn das ETH-Netzwerk zum Proof-of-Stake-Konsens übergeht.
   era4:
     title: 5M20 Epoche 4
-    text: Die Blockbelohnungen von Ethereum Classic werden gemäß dem von Bitcoin inspirierten 5M20-Emissionsplan um 20% auf 2,56 ETC pro Block reduziert. ETChash Bergbau Hashrate weiterhin zu ETC mit dem Netzwerk erreichen All-Time Highs drehen.
+    text: Die Blockbelohnungen von Ethereum Classic werden gemäß dem von Bitcoin inspirierten 5M20-Emissionsplan um 20% auf 2,56 ETC pro Block reduziert. Die ETChash-Mining-Hashrate geht weiterhin auf ETC über, wobei das Netzwerk All-Time-Highs erreicht.
   sha3Withdrawn:
-    title: ETC Coop SHA3-Vorschlag zurückgezogen
-    text: Nach mehr als drei Jahren kontroverser Debatten erkennt Bob Summerwill an, dass ECIP-1049 das Netz belasten würde und zieht den Vorschlag zurück. Die negativen sozialen Kosten, die durch die Fehlinformationskampagne der ECIP-1049-Befürworter verursacht wurden, wirken sich weiterhin negativ auf die öffentliche Wahrnehmung des Netzwerks aus. Dank seiner widerstandsfähigen Community ist Ethereum Classic jedoch gut positioniert, um in einer Post-Merge-Welt auf ETChash zu gedeihen.
-  etcswap:
-    title: ETCswap
-    text: Die Ethereum Classic DAO führt ihr erstes Produkt ein - ETCswap. Dies stellt sicher, dass das Netzwerk einen Schritt näher an einer stabilen Finanzierung für die Open-Source-Entwicklung auf Ethereum Classic ist. Ein professioneller dezentraler Protokollstack wird auf Ethereum Classic eingesetzt.
+    title: SHA3-Vorschlag zurückgezogen
+    text: Nach mehr als drei Jahren kontroverser Debatte wird ECIP-1049 aufgrund der Wahrscheinlichkeit einer umstrittenen Hardfork zurückgezogen. Ethereum Classic ist weiterhin gut positioniert, um in einer Post-Merge-Welt auf ETChash zu gedeihen.
   vitalikEndorsesETC:
     title: Vitalik Buterin unterstützt Ethereum Classic
     text: Vitalik Buterin, der prominenteste Mitbegründer von Ethereum, spricht sich für das ursprüngliche Ethereum-Netzwerk aus - Ethereum Classic für diejenigen, die Proof-of-Work-Ketten schätzen.
