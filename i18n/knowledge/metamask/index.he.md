@@ -76,7 +76,7 @@ contributors:
 - סמל מטבע (אופציונלי): `וכו'`
 - כתובת האתר של Block Explorer (אופציונלי): `https://blockscout.com/etc/mainnet/`
 
-עבור "כתובת ה-RPC" השתמשתי בנקודת הקצה שסופקה למטרה זו על ידי חברה בשם [Rivet](https://rivet.link/), שהתקשרה עם [ETC Cooperative](https://etccooperative.org) למטרה זו. תוכל למצוא עוד נקודות קצה RPC בסעיף [רשת](/network/endpoints).
+עבור "כתובת ה-RPC" השתמשתי בנקודת הקצה שסופקה למטרה זו על ידי חברה בשם [Rivet](https://rivet.link/), שהתקשרה עם [ETC Cooperative](https://etccooperative.org) למטרה זו. אתה יכול למצוא עוד נקודות קצה RPC בסעיף [רשת](/network/endpoints).
 
 "מזהה השרשרת" חייב להיות "61" כי זהו המזהה הספציפי של רשת Ethereum Classic לשליחת עסקאות ETC על ידי ארנקים וצמתים לבלוקצ'יין הפועל.
 

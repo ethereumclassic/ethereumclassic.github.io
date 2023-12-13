@@ -18,7 +18,7 @@ Dokumen ini adalah ringkasan proses Cadangan Penambahbaikan Klasik Ethereum (ECI
 
 ### Bermula
 
-Selepas membaca ECIP-1000, letakkan repositori dan tambahkan ECIP anda padanya, menggunakan templat penurunan harga ECIP yang disediakan. Serahkan dengan membuat Permintaan Tarik ke repositori Ethereum Classic ECIPs.
+Selepas membaca ECIP-1000, letakkan repositori dan tambahkan ECIP anda padanya, menggunakan templat penurunan harga ECIP yang disediakan. Serahkan dengan membuat Permintaan Tarik ke repositori ECIP Klasik Ethereum.
 
 ### Jenis-jenis Peserta
 

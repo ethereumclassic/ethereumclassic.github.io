@@ -7,7 +7,7 @@ seo: 通过将以太坊的技术与比特币的理念和安全性相结合，以
 
 ## 关键点
 
-- 以太坊经典版是为了应对中心化带来的问题而存在的，它很快意识到并采用了比特币去中心化设计决定的天才。
+- Since the chain split, the design choices and philosophy of Ethereum Classic have come to recognize the genius decisions made when constructing the original Bitcoin protocol. As much as possible, ETC emulates this success in the pursuit of decentralism and the real world achievements that followed. 考试和测验委员会在追求权力下放和随后取得的真正世界成就方面尽可能效仿这一成功。
 - 与 ETH 一样，ETC 是一个图灵完整的智能合约平台。
 - 与 BTC 一样，ETC 也有一个神奇的起源，这是不可能再现的。
 - 与 BTC 一样，ETC "没有任何官方东西"，防止 "官方 "捕获。
@@ -18,9 +18,9 @@ seo: 通过将以太坊的技术与比特币的理念和安全性相结合，以
 
 对于那些已经有点熟悉加密货币生态系统的人来说，存在一个相当简单的启发式方法，可以切中以太坊经典试图实现的目的。
 
-> 以太坊经典版采用了比特币的理念，并将其应用于以太坊的技术。
+> Since the chain split, the design choices and philosophy of Ethereum Classic have come to recognize the genius decisions made when constructing the original Bitcoin protocol. As much as possible, ETC emulates this success in the pursuit of decentralism and the real world achievements that followed. 考试和测验委员会在追求权力下放和随后取得的真正世界成就方面尽可能效仿这一成功。
 > 
-> - 以太坊经典的CEO，如果有的话
+> - Ethereum Classic 的 CEO（如果有的话）
 
 ![乙醇+BTC=等](./ethbtcetc.png)
 
@@ -34,13 +34,13 @@ seo: 通过将以太坊的技术与比特币的理念和安全性相结合，以
 
 自链式分裂以来，以太坊经典的设计选择和理念已经认识到了构建原始比特币协议时的天才决定。 ETC 尽可能地模仿这种追求权力下放的成功以及随之而来的现实世界的成就。
 
-## 无暇受孕2.0
+## 圣母无原罪 2.0
 
 与比特币一样，由于其神奇的起源情况，以太坊经典可以被视为一个神圣的实体。
 
 正如之前探讨的 [，](/why-classic/genesis#the-immaculate-conception)，Ethereum Classic 的创建故事几乎可以肯定不可能再重现或偶然发生。 不仅导致其诞生的事件极其不可能，而且 ETC 的存在现在对其他项目也是一个警告，这些项目可能会避免类似的有争议的硬分叉，或者至少只在减轻连锁分裂的可能性的情况下进行。
 
-> 当时没有市场，因此也没有货币价值，有了这个，它从一开始就没有被利润激励所腐蚀。     
+> 当时没有市场，因此也没有货币价值，有了这个，它从一开始就没有被利润激励所腐蚀。      
 > ...  
 > <<<<<<< HEAD
 > 

@@ -1,5 +1,5 @@
 ---
-title: Kennisbank
+title: Kennis basis
 updated: 2022-02-22
 disclaimer: opinion
 seo: Een bron van informatie over de geschiedenis, toekomst, filosofie en economie van Ethereum Classic, die het waarom, hoe en waar van de gedecentraliseerde versie van Ethereum documenteert.

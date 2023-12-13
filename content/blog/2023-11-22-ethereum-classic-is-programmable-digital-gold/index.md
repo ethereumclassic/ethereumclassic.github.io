@@ -4,7 +4,7 @@ date: 2023-11-22
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["philosophy"]
-linkImage: ./banner.png
+linkImage: ./banner-3.png
 ---
 
 ---
@@ -13,7 +13,7 @@ linkImage: ./banner.png
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jYqxC9X_0Ac?si=HLjYPqJ2lvXc5LSN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
-![](./banner.png)
+![](./banner-3.png)
 
 Proof of work (POW) coins are digital gold because they are built on top of an objective proof of work base.
 

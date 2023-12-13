@@ -47,9 +47,12 @@ qa:
 ## Announcement Banner
 announcement:
   text: |
-    Ce site Web est maintenant traduit en plusieurs langues grâce à l'apprentissage automatique. Cliquez sur le drapeau en haut à droite de la page pour changer de langue. Si vous souhaitez aider à corriger les traductions, contactez-nous !
+    La mise à niveau du réseau spiralé sera activée sur le bloc 19 250 000, dont la date d'arrivée est estimée au 31 janvier 2024. Veuillez vous assurer que le logiciel de votre nœud est mis à jour avec la dernière version.
   button:
-    text: "Aide à la traduction"
+    text: "En savoir plus"
+## Global Disclaimer
+disclaimer: |
+  Le contenu de ce site web est généré par les utilisateurs et sert uniquement à des fins d'information. N'interprétez pas ce contenu comme une approbation d'un produit ou d'un service. Il n'y a "rien d'officiel" dans Ethereum Classic. Faites toujours vos propres recherches et n'oubliez pas : ne faites pas confiance, vérifiez !
 ## Footer
 signOff: Réalisé avec `<3` pour la vision originale d'Ethereum
 socialHilight: La communauté ETC est active sur Discord

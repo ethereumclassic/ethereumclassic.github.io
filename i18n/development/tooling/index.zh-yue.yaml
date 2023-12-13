@@ -23,10 +23,10 @@ items:
         description: 為 ETC 區塊鏈構建 Dapps 的平台。
       ESerialize:
         description: 該模塊的目標是提供簡單的函數來序列化和反序列化以太坊堆棧的數據。
-      Ethereum JSON-RPC API:
-        description: 基於 EVM 的區塊鏈客戶端必須實現的 JSON-RPC 方法規範。
       Eth Fiddle:
         description: 智能合約的在線編輯器。
+      Ethereum JSON-RPC API:
+        description: 基於 EVM 的區塊鏈客戶端必須實現的 JSON-RPC 方法規範。
       EVM-LLVM:
         description: 開發人員不僅可以使用除 Solidity 之外的大量編程語言（用於智能合約的 Rust！）來針對以太坊虛擬機 (EVM)，他們還可以立即受益於圍繞 LLVM 基礎設施構建的各種開發工具。
       Ganache:
@@ -43,14 +43,18 @@ items:
         description: Quorum 是一個開源區塊鏈平台，它將公共以太坊社區的創新與支持企業需求的增強相結合。
       Remix Online IDE:
         description: 一個有用的瀏覽器內 IDE，可以編譯智能合約並將其發佈到各種以太坊網絡。包括棉絨。
-      Signatory:
-        description: 以太坊堆棧的離線交易和消息簽名者。
       Sidekik:
         description: 使用可視化 UI 調試、測試和理解智能合約，讓您可以與本地或部署的基於 EVM 的智能合約進行交互。
+      Signatory:
+        description: 以太坊堆棧的離線交易和消息簽名者。
       SOLL:
         description: LLVM 編譯器終於來到了 Solidity。有了它，我們可以輕鬆地跨多個區塊鏈虛擬機創建智能合約。 Ethereum Classic 上的 EVM 和 ETH 2.0 的 eWASM 是我們最先支持的。
       Sputnikvm:
         description: SputnikVM 是以太坊虛擬機 (EVM) 的開源獨立實現。它的目標是成為一個高效的、可插拔的虛擬機，適用於不同的基於以太坊的區塊鏈。
+      thirdweb:
+        description: 將應用程式或遊戲連接到去中心化網路所需的一切。簡化 web3 開發的強大工具。
+      Tokenview:
+        description: 與 120 多個區塊鏈互動的統一框架。 Tokenview 區塊鏈 API 具有強大的端點，可將複雜的區塊鏈資料簡化為單一 API 呼叫。使用統一 API 呼叫的所有受支援區塊鏈的程式碼。從這裡可以輕鬆獲取交易、地址、gas、合約、代幣、NFT、日誌和鏈上的任何資訊。是的，您也可以將 tx 傳送到鏈。 APIKey一鍵配置，幫助開發者使用、建立、建置。
       Truffle Suite:
         description: 使用以太坊虛擬機 (EVM) 的世界級區塊鏈開發環境、測試框架和資產管道，旨在讓開發人員的生活更輕鬆。
   nodeTools:

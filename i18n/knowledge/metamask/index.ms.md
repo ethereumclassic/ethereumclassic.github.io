@@ -94,7 +94,7 @@ Sebaik sahaja ETC ditambahkan, anda akan melihat dalam menu lungsur rangkaian ba
 
 ## Langkah 8: Anda Boleh Melihat Akaun Sama Anda tetapi di DLL
 
-Jika anda pergi ke akaun anda, anda akan perasan bahawa ia adalah sama dengan akaun ETH anda. Dalam kes saya, ia adalah sama `0x48c1...EfF3` akaun.
+Jika anda pergi ke akaun anda, anda akan perasan bahawa ia adalah sama dengan akaun ETH anda. Dalam kes saya, ia adalah akaun `0x48c1...EfF3` yang sama.
 
 Ini kerana kedua-dua ETH dan ETC menggunakan format akaun yang sama, jadi akaun di Ethereum juga boleh digunakan dalam Ethereum Classic.
 

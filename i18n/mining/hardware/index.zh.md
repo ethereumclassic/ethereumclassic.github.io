@@ -24,7 +24,7 @@ ETC挖矿算法与以太坊的ETHash几乎相同，只是做了一个小的升�
 
 一般来说，挖掘Ethereum Classic的最佳显卡是最省电的显卡，至少有4GB的内存。 在挑选GPU之前，寻找专门关于挖ETCHash的评论。 你可以在网上搜索"[当年]开采Ethereum Classic的最佳GPU "以获得建议，并访问 [WhatToMine](https://whattomine.com/coins?e4g=true) 以获得更多信息。
 
-### 集成电路
+### 专用集成电路
 
 ASIC，即特定应用集成电路，是专门制造的芯片，顾名思义，是为开采一种特定算法而设计的。 最初，由于DAG的内存密集型要求，ETHash对ASIC相当抵触，但随着时间的推移，像所有有利可图的算法一样，有很大的动力为ETHash建立ASIC，这些ASIC确实进入了市场。
 

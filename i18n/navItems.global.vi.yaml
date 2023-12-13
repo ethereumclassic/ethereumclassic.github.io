@@ -44,6 +44,9 @@ learn:
       name: Hiểu biết
       description: Đọc thêm về các nền tảng củng cố ETC
       navItems:
+        course:
+          name: Khóa học
+          description: Chuỗi bài viết và video có cấu trúc về Ethereum Classic
         foundation:
           name: Sự thành lập
           description: Các nguyên tắc cốt lõi hình thành cơ sở triết học vững chắc của ETC

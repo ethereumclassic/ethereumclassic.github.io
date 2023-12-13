@@ -161,7 +161,7 @@ Uno dei dettagli assurdi ma importanti che spesso vengono dimenticati riguardo a
 
 _AGGIORNAMENTO:_ L'analisi si è rivelata corretta, poiché l'identità del DAO Hacker è stata nel frattempo dedotta da ricercatori e membri di RHG. In assenza di una forchetta, la pressione per smascherare l'hacker sarebbe stata molto maggiore e probabilmente sarebbe avvenuta molto prima.
 
-### Inforcare o non inforcare?
+### Biforcare o non biforcare?
 
 Mentre questo scenario peggiore, relativamente modesto, era accettabile per molti detentori di token DAO, qualsiasi cosa inferiore alla restituzione immediata del 100% dei fondi non era accettabile per un contingente influente, per cui il dibattito sulla biforcazione durava ancora.
 
@@ -198,7 +198,7 @@ Ironia della sorte, nello stesso momento in cui era in corso questa caccia alle 
 
 Ormai il dibattito sull'Hard Fork assomiglia più a una crociata religiosa senza esclusione di colpi che a una sana discussione su ciò che è nel migliore interesse del progetto Ethereum, ma forse non si è mai trattato di questo.
 
-### Consenso prodotto
+### Consenso fabbricato
 
 Guardando il dibattito sulla biforcazione di DAO su Reddit, possiamo vedere che una parte consistente della comunità di Ethereum era contraria alla biforcazione, basandosi solo su [upvotes](https://old.reddit.com/r/ethereum/comments/4p7mhc/update_on_the_white_hat_attack/d4iqgx1/) . Tuttavia, nonostante ciò, sono state coinvolte forze influenti che hanno ritenuto che non ci fosse altra scelta se non quella di spingere per un Hard Fork per proteggere gli interessi finanziari.
 

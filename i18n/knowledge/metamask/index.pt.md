@@ -30,7 +30,7 @@ O primeiro passo é fazer login para desbloquear sua MetaMask.
 
 Você verá sua tela inicial normal. Neste caso, a rede padrão é Ethereum (ETH) e sua conta será exibida normalmente. À medida que você usa outras redes, elas aparecerão como padrão quando você desbloquear sua MetaMask, caso tenham sido as últimas usadas.
 
-No meu caso, mostra Ethereum como a rede inicial e tenho saldo zero na minha conta ETH `0x48c1...EfF3`.
+No meu caso, mostra Ethereum como a rede inicial e tenho saldo zero na minha conta ETH `0x48c1... EfF3`.
 
 ![Passo 2](./02.png)
 
@@ -94,7 +94,7 @@ Depois que o ETC for adicionado, você verá no menu suspenso de redes que ele f
 
 ## Etapa 8: você pode visualizar sua mesma conta, mas no ETC
 
-Se você acessar sua conta, notará que é igual à sua conta ETH. No meu caso, é a mesma conta `0x48c1...EfF3`.
+Se você acessar sua conta, notará que é igual à sua conta ETH. No meu caso, é a mesma conta `0x48c1... EfF3`.
 
 Isso ocorre porque tanto o ETH quanto o ETC usam o mesmo formato de conta, portanto, as contas no Ethereum também podem ser usadas no Ethereum Classic.
 
@@ -122,4 +122,4 @@ Desejo-lhe sucesso ao investir e usar o ETC!
 
 ---
 
-**Código é Lei**
+Código é Lei

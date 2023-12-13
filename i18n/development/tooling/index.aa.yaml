@@ -1,10 +1,10 @@
 __disclaimer: verify
 __updated: 2022-02-22
 __contribute: 1
-title: crwdns66744:0crwdne66744:0
-seo: crwdns66746:0crwdne66746:0
+title: crwdns120381:0crwdne120381:0
+seo: crwdns120383:0crwdne120383:0
 description: |
-  crwdns66748:0crwdne66748:0
+  crwdns120385:0crwdne120385:0
 __contributors:
   - antsankov
   - TheEnthusiasticAs
@@ -12,9 +12,9 @@ __contributors:
   - TheCrowbill
 items:
   prices:
-    title: crwdns66756:0crwdne66756:0
+    title: crwdns120395:0crwdne120395:0
     __type: buttons
-    description: crwdns66760:0crwdne66760:0
+    description: crwdns120399:0crwdne120399:0
     items:
       BeInCrypto:
         __link: https://beincrypto.com/price/ethereum-classic/
@@ -93,8 +93,8 @@ items:
         __name: Yahoo Finance
   processors:
     __type: buttons
-    title: crwdns66864:0crwdne66864:0
-    description: crwdns66866:0crwdne66866:0
+    title: crwdns120503:0crwdne120503:0
+    description: crwdns120505:0crwdne120505:0
     items:
       AnyCoinDirect:
         __link: https://anycoindirect.eu/en/buy-ethereum-classic
@@ -155,123 +155,131 @@ items:
         __name: Utrust
   dex:
     __type: links
-    title: crwdns66938:0crwdne66938:0
-    description: crwdns66940:0crwdne66940:0
+    title: crwdns120585:0crwdne120585:0
+    description: crwdns120587:0crwdne120587:0
     items:
       BUIDL IDE:
         __link: https://buidl.secondstate.io/etc
         __name: BUIDL IDE
-        description: crwdns66946:0crwdne66946:0
+        description: crwdns120593:0crwdne120593:0
       Dappkit:
         __link: https://dappkit.io/
         __name: Dappkit
-        description: crwdns66952:0crwdne66952:0
+        description: crwdns120599:0crwdne120599:0
       Embark Framework:
         __link: https://framework.embarklabs.io/
         __name: Embark Framework
-        description: crwdns66958:0crwdne66958:0
+        description: crwdns120605:0crwdne120605:0
       Emerald Platform:
         __link: https://github.com/ETCDEVTeam/emerald-platform
         __name: Emerald Platform
-        description: crwdns66964:0crwdne66964:0
+        description: crwdns120611:0crwdne120611:0
       ESerialize:
         __link: https://eserialize.com/?input=string&output=hex
         __name: ESerialize
-        description: crwdns66970:0crwdne66970:0
-      Ethereum JSON-RPC API:
-        __link: https://github.com/etclabscore/ethereum-json-rpc-specification
-        __name: Ethereum JSON-RPC API
-        description: crwdns66976:0crwdne66976:0
+        description: crwdns120617:0crwdne120617:0
       Eth Fiddle:
         __link: https://ethfiddle.com/
         __name: Eth Fiddle
-        description: crwdns66982:0crwdne66982:0
+        description: crwdns120629:0crwdne120629:0
+      Ethereum JSON-RPC API:
+        __link: https://github.com/etclabscore/ethereum-json-rpc-specification
+        __name: Ethereum JSON-RPC API
+        description: crwdns120623:0crwdne120623:0
       EVM-LLVM:
         __link: https://github.com/etclabscore/evm_llvm
         __name: EVM-LLVM
-        description: crwdns66988:0crwdne66988:0
+        description: crwdns120635:0crwdne120635:0
       Ganache:
         __link: https://www.trufflesuite.com/ganache
         __name: Ganache
-        description: crwdns66994:0crwdne66994:0
+        description: crwdns120641:0crwdne120641:0
       Jade Suite:
         __link: https://jade.builders/
         __name: Jade Suite
-        description: crwdns67000:0crwdne67000:0
+        description: crwdns120647:0crwdne120647:0
       Mythx:
         __link: https://mythx.io/
         __name: Mythx
-        description: crwdns67006:0crwdne67006:0
+        description: crwdns120653:0crwdne120653:0
       Open-RPC:
         __link: https://open-rpc.org/
         __name: Open-RPC
-        description: crwdns67012:0crwdne67012:0
+        description: crwdns120659:0crwdne120659:0
       OpenZeppelin:
         __link: https://openzeppelin.org/
         __name: OpenZeppelin
-        description: crwdns67018:0crwdne67018:0
+        description: crwdns120665:0crwdne120665:0
       Quorum:
         __link: https://www.goquorum.com/
         __name: Quorum
-        description: crwdns67024:0crwdne67024:0
+        description: crwdns120671:0crwdne120671:0
       Remix Online IDE:
         __link: https://remix.ethereum.org/
         __name: Remix Online IDE
-        description: crwdns67030:0crwdne67030:0
-      Signatory:
-        __link: https://signatory.dev/
-        __name: Signatory
-        description: crwdns67036:0crwdne67036:0
+        description: crwdns120677:0crwdne120677:0
       Sidekik:
         __link: https://sidekik.xyz/
         __name: Sidekik
-        description: crwdns108547:0crwdne108547:0
+        description: crwdns120689:0crwdne120689:0
+      Signatory:
+        __link: https://signatory.dev/
+        __name: Signatory
+        description: crwdns120683:0crwdne120683:0
       SOLL:
         __link: https://github.com/second-state/soll
         __name: SOLL
-        description: crwdns67042:0crwdne67042:0
+        description: crwdns120695:0crwdne120695:0
       Sputnikvm:
         __link: https://github.com/ETCDEVTeam/sputnikvm
         __name: Sputnikvm
-        description: crwdns67048:0crwdne67048:0
+        description: crwdns120701:0crwdne120701:0
+      thirdweb:
+        __name: thirdweb
+        __link: https://thirdweb.com/ethereum-classic
+        description: crwdns128904:0crwdne128904:0
+      Tokenview:
+        __name: Tokenview
+        __link: https://services.tokenview.io
+        description: crwdns128910:0crwdne128910:0
       Truffle Suite:
         __link: https://www.trufflesuite.com/
         __name: Truffle Suite
-        description: crwdns67054:0crwdne67054:0
+        description: crwdns120707:0crwdne120707:0
   nodeTools:
     __type: links
-    title: crwdns67058:0crwdne67058:0
-    description: crwdns67060:0crwdne67060:0
+    title: crwdns120711:0crwdne120711:0
+    description: crwdns120713:0crwdne120713:0
     items:
       Bloq Cloud:
         __name: Bloq Cloud
         __link: https://bloq.cloud/
-        description: crwdns67066:0crwdne67066:0
+        description: crwdns120719:0crwdne120719:0
       DappNode:
         __link: https://dappnode.io/
         __name: DappNode
-        description: crwdns67072:0crwdne67072:0
+        description: crwdns120725:0crwdne120725:0
       Rivet:
         __link: https://rivet.link/
         __name: Rivet
-        description: crwdns108553:0crwdne108553:0
+        description: crwdns120731:0crwdne120731:0
       GetBlock:
         __name: GetBlock
         __link: https://getblock.io
-        description: crwdns67084:0crwdne67084:0
+        description: crwdns120737:0crwdne120737:0
       Google BigQuery:
         __name: Google BigQuery
         __link: https://console.cloud.google.com/marketplace/details/ethereum-classic/crypto-ethereum-classic?filter=solution-type:dataset&q=ethereum%20classic&id=babd6e83-ec5f-4b0a-b44f-64d37710a71d
-        description: crwdns67090:0crwdne67090:0
+        description: crwdns120743:0crwdne120743:0
       Raspberry Pi Node:
         __link: https://core-geth.org/setup-on-raspberry-pi
         __name: Raspberry Pi Node
-        description: crwdns67096:0crwdne67096:0
+        description: crwdns120749:0crwdne120749:0
       Rivet Cloud:
         __link: https://rivet.cloud/
         __name: RIVET
-        description: crwdns67102:0crwdne67102:0
+        description: crwdns120755:0crwdne120755:0
       QuikNode:
         __link: https://quiknode.io/
         __name: QuikNode
-        description: crwdns67108:0crwdne67108:0
+        description: crwdns120761:0crwdne120761:0

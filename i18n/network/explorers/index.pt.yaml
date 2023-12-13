@@ -1,9 +1,9 @@
 title: Exploradores de Blockchain
 seo: Uma lista de serviços do blockchain explorer para Ethereum Classic e as várias redes de teste ETC.
 description: |
-  Os Blockchain Explorers fornecem uma maneira conveniente de obter informações sobre o estado atual e passado de uma determinada cadeia, permitindo que você inspecione o conteúdo de blocos, transações e saldos de contas.
+  Os Exploradores de Blockchain fornecem uma forma conveniente de obter informações sobre o estado atual e passado de uma determinada cadeia, permitindo-lhe inspecionar o conteúdo de blocos, transacções e saldos de contas.
 
-  Os seguintes exploradores terceirizados verificam independentemente o estado do Ethereum Classic e seus testnets. Eles são comumente usados para verificar se as transações foram transmitidas e confirmadas, mas muitos oferecem recursos mais avançados, como histórico de saldos de contas, verificação de contratos e muito mais.
+  Os seguintes exploradores de terceiros verificam de forma independente o estado do Ethereum Classic e das suas redes de teste. São normalmente utilizados para verificar se as transacções foram transmitidas e confirmadas, mas muitos oferecem funcionalidades mais avançadas, como saldos históricos de contas, verificação de contratos e muito mais.
 items:
   explorers:
     columnItems:

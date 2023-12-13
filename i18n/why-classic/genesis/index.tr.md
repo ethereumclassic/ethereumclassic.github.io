@@ -7,7 +7,7 @@ seo: Ethereum Classic'in kötü şöhretli DAO Hack'ini ve bunun sonucunda Ether
 info: "**Yasal Uyarı:** Bu hikayede anlatılan olayların doğru olduğuna inanılmaktadır, ancak birinci elden kaynaklar silindiği ya da başka bir şekilde tarihe karıştığı için bazı detaylar doğrulanamamıştır. Herhangi bir gerçek tartışmalı ise veya ek kaynaklar mevcutsa, düzeltmeleri memnuniyetle karşılıyoruz."
 ---
 
-## Önemli Noktalar
+## Anahtar noktaları
 
 - Ethereum™ ve Ethereum Classic bir zamanlar aynı blok zinciriydi.
 - DAO çok para toplayan bir sözleşmeydi, ancak istismar edilen bir hatası vardı. ETH potansiyel olarak Hacker'a kaptırılmıştı.
@@ -63,7 +63,7 @@ Başlangıçta, "Durdurulamaz Uygulamalar Oluşturun" vardı ve bir süre için 
 > 
 > - [Blockchain Teknolojisinin Değeri, Ethereum Blog, Nisan 2015](https://blog.ethereum.org/2015/04/13/visions-part-1-the-value-of-blockchain-technology/)
 
-![Ethereum.org Durdurulamaz Uygulamalar Oluşturuyor](./unstoppable.png)
+![Ethereum.org Durdurulamaz Uygulamalar Oluşturun](./unstoppable.png)
 
 > Blok zinciri teknolojisini kullanan bir kişi, herhangi bir keyfi tarafın kaprislerine maruz kalmak yerine, kimliğinin, fonlarının veya cihaz sahipliğinin durumunun Math™ tarafından desteklenen ultra güvenli, güvenilmez dağıtılmış bir defterde güvenli ve emniyetli bir şekilde muhafaza edildiğini bilerek rahatlayabilir.
 > 
@@ -83,7 +83,7 @@ Ethereum'u oluşturmak için kitlesel bir satışla fon toplayan Ethereum Vakfı
 
 Kasım 2015'te, eski CCO bazı kodlayıcılarla bir araya gelerek slock.it adlı bir şirket kurdu. Slock.it sadece _a_ DAO'yu değil, Ethereum projelerini hedefleyen bir tür risk sermayesi fonu olarak kullanılacak olan _The_ DAO'yu başlatmak istedi. Ethereum ekosistemini büyütmenin ve DAO sözleşmesine DAO Tokenları karşılığında eter yatıracak olan yatırımcılara net getiri sağlamanın bir yolu olarak sunuldu; bu da DAO tarafından yapılan yatırımlar için oylama yapılmasına ve bunlardan ödül kazanılmasına olanak tanıyacaktı.
 
-### Küratör Kayırmacılığı
+### Küratör kayırmacılığı
 
 DAO, Ethereum dünyasında büyük bir haber haline geldi, çünkü birçok Ethereum Vakfı üyesinden önemli destek aldı. EF'nin son CCO'su tarafından yönetilen projenin yanı sıra, DAO, belirli eylemleri veto etme ve bir arıza emniyeti olarak hareket etme yeteneği verilen "küratörleri" işe almış ve yatırımcılara fonların belirli saldırı türlerinden risk altında olmayacağına dair güvence vermiştir. [Aralarında bazı önemli ağır topların da bulunduğu 11 küratörün tamamı](https://medium.com/ursium-blog/vitalik-buterin-gavin-wood-alex-van-de-sande-vlad-zamfir-announced-amongst-stellar-dao-curators-44be4d12dd6e#.1mjq6cfn6) doğrudan Ethereum Projesi veya Vakfı için çalışmıştır.
 
@@ -204,13 +204,13 @@ Reddit'teki DAO Fork Tartışması'na baktığımızda, Ethereum topluluğunun b
 
 Ne yazık ki, ana tartışma forumları olan Reddit ve Twitter, astroturfing şeklinde [Sybil saldırılarına](https://en.wikipedia.org/wiki/Sybil_attack) karşı oldukça hassas olduğundan, _gerçek_ fikir birliğinin o sırada ne olduğunu anlamak muhtemelen imkansızdır. Hard Fork gerçek bir halk desteğine sahip miydi, yoksa sadece üretilmiş bir fikir birliği miydi? Muhtemelen hiçbir zaman bilemeyeceğiz, ancak en azından önemli bir geri itme oldu ve topluluğa dayatılacak olan şeyin bir _tartışmalı Hard Fork_olduğu inkar edilemez.
 
-### "Tartışma" Sonuçlandı
+### "Tartışma" Sona Erdi
 
 Bir Hard Fork uygulanıp uygulanmayacağına karar verildiğinde, bunun bir Hard Fork'tan çok daha fazlasıyla ilgili olduğu ortaya çıktı. Bu, her iki tarafın da kendi pozisyonlarına çok bağlı olduğu, birçoğunun mantıklı düşünemediği ve taviz veremediği tanıdık bir kabileci güç oyununa dönüşmüştü.
 
 Daha sonra üzerinde duracağımız üzere, oyun teorisi merceğinden bakıldığında, tüm bu süreç bir _koordinasyon tuzağı gibi görünüyordu_. Başından beri ekonomik teşvikler, her iki tarafı da "zafer ya da ölüm "e sürükleyecek şekilde hizalanmıştı. Sonuç olarak, forkerlar bir Hard Fork'un olası olumsuz sonuçlarını rasyonel bir şekilde küçümserken aynı zamanda bunu tek uygulanabilir seçenek gibi göstererek Robin Hood'un çabaları sayesinde durumun gerçekliğini görmezden geldiler.
 
-### Tamamen Adil Madeni Para Oylaması
+### Tamamen Adil Coin Oylaması
 
 Tartışma sırasında Ethereum Vakfı tarafsız bir duruş sergilemeye çalıştı. DAO Hack hakkında ne yapılırsa yapılsın, bu Ethereum _topluluğunun_ karar vermesi gereken bir soruydu, tepeden gelen bir şey değil. Bu önemli bir pozisyondu çünkü seçimi ertelemek, kağıt üzerinde sorumluluktan kurtulmalarını sağlayacaktı. Ancak bu iddiaya rağmen, Ethereum Vakfı'nın çeşitli kanatları arasında tarafsızlık eksikliği olduğuna dair açık kanıtlar gösterildi.
 
@@ -287,13 +287,13 @@ Ethereum Vakfı, kafa karıştırıcı bir şekilde, yeni çatallı zincirlerini
 
 En uzun süredir çalışan Akıllı Sözleşme platformu _Ethereum Classic_'dur ve her zaman öyle kalacaktır.
 
-### Lekesiz Gebelik
-
-Ethereum Classic'in ortaya çıkışı, hem koşullar hem de içerik açısından birçok yönden mucizeviydi. Bitcoin, Ethereum, DAO, 666. satırdaki Hata, Hacker, Bölünmüş Fonksiyon Zaman Sınırı, Hard Fork Tartışması Koordinasyon Tuzağı, Hard Fork'un kendisi ve ETC'nin cesur ve büyüleyici destekçileri olmasaydı, bu son derece olasılık dışı olaylar dizisi olmasaydı, dünya _Code is Law_şampiyonu olan gerçekten merkezi olmayan bir Akıllı Sözleşme platformuyla kutsanmayacaktı.
+### Lekesiz Hamilelik
 
 Ethereum Classic ayrıca yapay olarak yaratılması imkansız olan birçok mucizevi özelliğe sahiptir. _Code is Law_taahhüdü, kurucuların olmaması, Ethereum Vakfı'nın olmaması, premine\* olmaması, adil bir dağıtım ve kolaylıktan ziyade ilkelere önem vererek kendi kendini seçen bir topluluk ile ETC, adem-i merkeziyetçiliğin birçok sütununda Bitcoin Standardından bile daha yüksekte durmakta ve ETC'ye _Sovereign Grade Censorship Resistance_ için tüm blok zincirlerinin en büyük potansiyellerinden birini ve ortaya çıkardığı gerçekliği iyileştirme gücünü vermektedir.
 
 Ethereum Classic'in ortaya çıkış koşulları o kadar nadirdir ki bir daha gerçekleşmesi pek olası değildir. Ethereum Classic, _Code is Law_ 'un gücünü ve tartışmalı hard fork'ları zorlamanın tehlikesini gösteren ilk zincir olarak, gelecekte benzer durumların yaşanmasını önlemek için bir uyarı görevi görmektedir ve ETC'yi, orijinal yazarlarının onu terk etmesi sayesinde bu özelliklere ulaşması muhtemel tek zincir haline getirmektedir.
+
+Ethereum Classic'in ortaya çıkışı, hem koşullar hem de içerik açısından birçok yönden mucizeviydi. _Kodunun gücünün Yasa_ olduğunu ve tartışmalı hard forkları zorlama tehlikesini ilk gösteren Ethereum Classic, gelecekte benzer durumların yaşanmasını önlemek için bir uyarı görevi görür ve ETC'yi bu özelliklere ulaşma olasılığı olan tek zincir yapar. , orijinal yazarlarının onu terk etmesi sayesinde.
 
 ### Diriliş
 

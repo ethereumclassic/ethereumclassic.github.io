@@ -1,7 +1,7 @@
-title: crwdns67240:0crwdne67240:0
-seo: crwdns67242:0crwdne67242:0
-info: crwdns67244:0[discord]crwdne67244:0
-description: crwdns67246:0crwdne67246:0
+title: crwdns120899:0crwdne120899:0
+seo: crwdns120901:0crwdne120901:0
+info: crwdns120903:0crwdne120903:0
+description: crwdns120905:0crwdne120905:0
 __contribute: 1
 __contributors:
   - developerkevin
@@ -13,58 +13,58 @@ items:
     __type: questions
     items:
       hardware:
-        question: crwdns67258:0crwdne67258:0
+        question: crwdns120919:0crwdne120919:0
         answer: |
-          crwdns67260:0crwdne67260:0
+          crwdns120921:0crwdne120921:0
       software:
-        question: crwdns67262:0crwdne67262:0
+        question: crwdns120923:0crwdne120923:0
         answer: |
-          crwdns67264:0crwdne67264:0
+          crwdns120925:0crwdne120925:0
       switch:
-        question: crwdns67266:0crwdne67266:0
+        question: crwdns120927:0crwdne120927:0
         answer: |
-          crwdns67268:0crwdne67268:0
+          crwdns120929:0crwdne120929:0
       pools:
-        question: crwdns67270:0crwdne67270:0
+        question: crwdns120931:0crwdne120931:0
         answer: |
-          crwdns67272:0crwdne67272:0
+          crwdns120933:0crwdne120933:0
       poolsList:
-        question: crwdns67274:0crwdne67274:0
+        question: crwdns120935:0crwdne120935:0
         answer: |
-          crwdns67276:0crwdne67276:0
+          crwdns120937:0crwdne120937:0
       bestPool:
-        question: crwdns67278:0crwdne67278:0
+        question: crwdns120939:0crwdne120939:0
         answer: |
-          crwdns67280:0crwdne67280:0
+          crwdns120941:0crwdne120941:0
       schedule:
-        question: crwdns67282:0crwdne67282:0
+        question: crwdns120943:0crwdne120943:0
         answer: |
-          crwdns67284:0crwdne67284:0
+          crwdns120945:0crwdne120945:0
       ethash:
-        question: crwdns67286:0crwdne67286:0
+        question: crwdns120947:0crwdne120947:0
         answer: |
-          crwdns100905:0[ETCHash]crwdne100905:0
+          crwdns120949:0crwdne120949:0
       emission:
-        question: crwdns67290:0crwdne67290:0
+        question: crwdns120951:0crwdne120951:0
         answer: |
-          crwdns67292:0crwdne67292:0
+          crwdns120953:0crwdne120953:0
       asics:
-        question: crwdns67294:0crwdne67294:0
+        question: crwdns120955:0crwdne120955:0
         answer: |
-          crwdns100875:0crwdne100875:0
+          crwdns120957:0crwdne120957:0
       rewards:
-        question: crwdns67298:0crwdne67298:0
+        question: crwdns120959:0crwdne120959:0
         answer: |
-          crwdns100877:0crwdne100877:0
+          crwdns120961:0crwdne120961:0
       sha3:
-        question: crwdns67302:0crwdne67302:0
+        question: crwdns120963:0crwdne120963:0
         answer: |
-          crwdns67304:0crwdne67304:0
+          crwdns120965:0crwdne120965:0
       pos:
-        question: crwdns67306:0crwdne67306:0
+        question: crwdns120967:0crwdne120967:0
         answer: |
-          crwdns67308:0crwdne67308:0
+          crwdns120969:0crwdne120969:0
       uncle:
-        question: crwdns67310:0crwdne67310:0
+        question: crwdns120971:0crwdne120971:0
         answer: |
-          crwdns67312:0crwdne67312:0
+          crwdns120973:0crwdne120973:0

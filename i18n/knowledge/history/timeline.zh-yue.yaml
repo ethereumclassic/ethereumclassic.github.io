@@ -2,7 +2,7 @@ title: 事件時間表
 items:
   frontierRelease:
     title: 以太坊推出
-    text: Vitalik Buterin 和以太坊基金會通過 Frontier 版本創建了第一個基於區塊鏈的圖靈完備智能合約平台。
+    text: Vitalik Buterin 和以太坊基金會透過 Frontier 版本創建了第一個基於區塊鏈的圖靈完備智能合約平台。
   frontierThawingUpgrade:
     title: 邊境解凍升級
     text: 該網絡在第 200,000 個區塊實施了“冰河時代”，引入了難度炸彈，該機制旨在將網絡的共識機制從工作量證明轉移到權益證明。
@@ -269,19 +269,13 @@ items:
     text: Ethereum Classic 核心開發人員實施 ETH 的倫敦網絡協議升級，以保持與其姊妹鏈的操作對等。
   etcFlood:
     title: ETC 歡迎新算力
-    text: Ethereum Classic 承諾支持 ETChash 挖礦算法和當前的挖礦生態系統。這將 Ethereum Classic 定位為一個網絡，可以很好地吸收大多數被剝奪權利的 Ethash 礦工，ETH 網絡轉向權益證明共識。
-  etcdao:
-    title: 以太坊經典 DAO
-    text: 穩定和長期的資金證明是以太坊經典的一個問題，2016 年被以太坊基金會放棄。為了解決網絡的 LTS 資金問題，以太坊經典 DAO 的使命是通過未來證明網絡的發展開源開發基金。資金是通過使用 EthereumClassic.com 上託管的 ETC DeFi 堆棧產生的
+    text: 以太坊經典致力於支援 ETCash 挖礦演算法和目前的挖礦生態系統。這使得以太經典成為一個能夠吸收大多數被剝奪權利的 Ethash 礦工的網絡，同時 ETH 網路也將轉向權益證明共識。
   era4:
     title: 5M20時代4
-    text: 根據受比特幣啟發的 5M20 排放時間表，以太坊經典的區塊獎勵減少 20% 至每個區塊 2.56 ETC。隨著網絡達到歷史新高，ETChash 挖礦 hasrate 繼續轉向 ETC。
+    text: 根據比特幣啟發的 5M20 排放計劃，以太坊經典的區塊獎勵減少了 20%，至每個區塊 2.56 ETC。 ETCash 挖礦算力繼續轉向 ETC，網路達到歷史新高。
   sha3Withdrawn:
-    title: ETC Coop SHA3 提案撤回
-    text: 經過三年多的有爭議的辯論，Bob Summerwill 承認有爭議的硬分叉 ECIP-1049 將在網絡上引起並撤回該提案。 ECIP-1049 支持者的錯誤信息活動造成的負面社會成本繼續對網絡的公眾認知產生負面影響。然而，通過其具有彈性的社區，以太坊經典仍然處於有利地位，可以在合併後的世界中在 ETChash 上蓬勃發展。
-  etcswap:
-    title: ETC互換
-    text: Ethereum Classic DAO 推出了它的第一個產品——ETCswap。這確保了該網絡距離以太坊經典開源開發的穩定資金更近了一步。專業的去中心化協議棧將部署在 Ethereum Classic 上。
+    title: SHA3 提案已撤回
+    text: 經過三年多的爭議性辯論，ECIP-1049 由於可能發生有爭議的硬分叉而被撤回。以太經典仍然處於有利位置，可以在合併後的世界中在 ETCash 上蓬勃發展。
   vitalikEndorsesETC:
     title: Vitalik Buterin 支持以太坊經典
     text: 以太坊最著名的聯合創始人 Vitalik Buterin 對最初的以太坊網絡——以太坊經典為那些重視工作量證明鏈的人提供了支持。
