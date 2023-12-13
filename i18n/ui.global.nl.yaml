@@ -47,9 +47,12 @@ qa:
 ## Announcement Banner
 announcement:
   text: |
-    Deze website is nu vertaald in meerdere talen door middel van machine learning. Klik op de vlag rechtsboven op de pagina om de taal te wijzigen. Als je wilt helpen met het corrigeren van vertalingen, neem dan contact met ons op!
+    De Spiral Network Upgrade wordt geactiveerd op blok 19.250.000, dat naar schatting 31 januari 2024 aankomt. Zorg ervoor dat de software van je node is bijgewerkt naar de nieuwste versie.
   button:
-    text: "Help vertalen"
+    text: "Meer leren"
+## Global Disclaimer
+disclaimer: |
+  De inhoud op deze website is door gebruikers gegenereerd en uitsluitend bedoeld voor informatieve doeleinden. Interpreteer de inhoud niet als een goedkeuring van een product of dienst. Er is "geen officieel iets" in Ethereum Classic. Doe altijd je eigen onderzoek en onthoud: vertrouw niet, maar verifieer!
 ## Footer
 signOff: Gemaakt met `<3` voor de Originele Ethereum Visie
 socialHilight: De ETC-gemeenschap is actief op Discord

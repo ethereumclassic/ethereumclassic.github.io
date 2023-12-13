@@ -270,18 +270,12 @@ items:
   etcFlood:
     title: ETC Mengalu-alukan Hashrate Baharu
     text: Ethereum Classic memberikan sokongan kepada algoritma perlombongan ETChash dan ekosistem perlombongan semasa. Ini meletakkan Ethereum Classic sebagai rangkaian yang berada pada kedudukan yang baik untuk menyerap sebahagian besar pelombong Ethash yang tidak diberi hak dengan langkah rangkaian ETH untuk membuktikan konsensus kepentingan.
-  etcdao:
-    title: Ethereum Classic DAO
-    text: Pembiayaan yang stabil dan jangka panjang terbukti menjadi masalah untuk Ethereum Classic dengan pengabaian oleh Yayasan Ethereum pada tahun 2016. Dalam usaha menyelesaikan isu pembiayaan LTS rangkaian, Ethereum Classic DAO dibentuk dengan misi untuk membuktikan pembangunan rangkaian melalui dana pembangunan sumber terbuka. Pembiayaan dijana dengan menggunakan tindanan ETC DeFi yang dihoskan di EthereumClassic.com
   era4:
     title: Era 5M20 4
-    text: Ganjaran blok Ethereum Classic dikurangkan sebanyak 20% kepada 2.56 ETC setiap blok, mengikut jadual pelepasan 5M20 yang diinspirasikan bitcoin. Kadar hasrat perlombongan ETChash terus beralih kepada ETC dengan rangkaian mencapai Puncak Sepanjang Masa.
+    text: Ganjaran blok Ethereum Classic dikurangkan sebanyak 20% kepada 2.56 ETC setiap blok, mengikut jadual pelepasan 5M20 yang diinspirasikan bitcoin. Kadar hash perlombongan ETChash terus bertukar kepada ETC dengan rangkaian mencapai Puncak Sepanjang Masa.
   sha3Withdrawn:
-    title: Cadangan ETC Coop SHA3 Ditarik balik
-    text: Selepas lebih daripada tiga tahun perdebatan yang menimbulkan perbalahan, Bob Summerwill mengakui perbalahan hardfork ECIP-1049 akan menyebabkan pada rangkaian dan menarik balik cadangan itu. Kos sosial negatif yang disebabkan oleh kempen maklumat salah penyokong ECIP-1049 terus memberi kesan negatif kepada persepsi awam rangkaian. Walau bagaimanapun, melalui komunitinya yang berdaya tahan, Ethereum Classic kekal dalam kedudukan yang baik untuk berkembang maju di ETChash dalam dunia selepas penggabungan.
-  etcswap:
-    title: ETCswap
-    text: Ethereum Classic DAO melancarkan produk pertamanya- ETCswap. Ini memastikan rangkaian selangkah lebih dekat kepada pembiayaan yang stabil untuk pembangunan sumber terbuka pada Ethereum Classic. Timbunan protokol terpencar profesional akan digunakan pada Ethereum Classic.
+    title: Cadangan SHA3 Ditarik Balik
+    text: Selepas lebih daripada tiga tahun perdebatan yang menimbulkan perbalahan, ECIP-1049 ditarik balik kerana kemungkinan berlakunya hardfork yang dipertikaikan. Ethereum Classic kekal dalam kedudukan yang baik untuk berkembang maju di ETChash dalam dunia selepas penggabungan.
   vitalikEndorsesETC:
     title: Vitalik Buterin Menyokong Ethereum Classic
     text: Vitalik Buterin, pengasas bersama Ethereum yang paling terkemuka, memberikan pengesahan rangkaian Ethereum asal-- Ethereum Classic untuk mereka yang menghargai rantaian Bukti Kerja.

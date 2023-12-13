@@ -47,7 +47,7 @@ Kako god se kvantificiralo, napadači koji žele "posjedovati" sustav imaju tež
 
 ### Blockchain trilema
 
-> Temeljna struktura decentraliziranih mreža dolazi s jedinstvenim izazovima u usporedbi s centraliziranim mrežama. Još 1980-ih, računalni znanstvenici razvili su ono što se zove CAP teorem kako bi artikulirali možda najveći od ovih izazova. Prema teoremu CAP-a, decentralizirane pohrane podataka — čija je iteracija blockchain — mogu pružiti samo dva od tri jamstva istovremeno: dosljednost, dostupnost i toleranciju particije (CAP). U kontekstu modernih distribuiranih mreža, ovaj se teorem razvio u trilemu blockchaina. Ovo je popularno uvjerenje da javni lanci blokova moraju žrtvovati sigurnost, decentralizaciju ili skalabilnost u svojoj infrastrukturi.
+> Temeljna struktura decentraliziranih mreža dolazi s jedinstvenim izazovima u usporedbi s centraliziranim mrežama. Već 1980-ih, računalni znanstvenici razvili su ono što se zove CAP teorem kako bi artikulirali možda najveći od ovih izazova. Prema teoremu CAP-a, decentralizirane pohrane podataka — čija je iteracija blockchain — mogu pružiti samo dva od tri jamstva istovremeno: dosljednost, dostupnost i toleranciju particije (CAP). U kontekstu modernih distribuiranih mreža, ovaj se teorem razvio u trilemu blockchaina. Ovo je popularno uvjerenje da javni lanci blokova moraju žrtvovati sigurnost, decentralizaciju ili skalabilnost u svojoj infrastrukturi.
 > 
 > - Trilema blokovskog lanca, [Gemini.com](https://www.gemini.com/cryptopedia/blockchain-trilemma-decentralization-scalability-definition#section-what-is-the-blockchain-trilemma)
 
@@ -71,7 +71,7 @@ Na primjer, u slučaju Bitcoina, njegova glavna primjena je sam novčić: digita
 
 Nasuprot tome, neki lanci blokova zahtijevaju manji otpor cenzuri od Bitcoina i samo namjeravaju, na primjer, omogućiti prijenos virtualnih baseball kartica ili imaju druge nekontroverzne slučajeve upotrebe. Budući da nikakve moćne vanjske sile ne žele zaustaviti ove aplikacije, otpor cenzuri je nepotreban. Može se čak smatrati i dobrobiti ako neka središnja strana može nadjačati stanje lanca u određenim okolnostima, tako da je za ovaj slučaj upotrebe prihvatljivo da cijelim lancem upravlja nekolicina nadležnih tijela. U tim slučajevima, gdje slučaj upotrebe nije dovoljno važan da bi se dobro financirana organizacija zatvorila, možda bi imalo smisla žrtvovati decentralizaciju radi skalabilnosti, a druge tehnologije koje nisu blockchain mogle bi biti prikladnije.
 
-Ethereum Classic, još 2015. godine kada je bio poznat kao Ethereum, namjeravao je postići ambicije na razini koja je barem jednako sklona cenzuri kao Bitcoin.
+Ethereum Classic, još 2015. godine kada je bio poznat kao Ethereum, namjeravao je ostvariti ambicije na razini koja je barem jednako sklona cenzuri kao Bitcoin.
 
 > Ethereum je decentralizirana računalna platforma koja izvršava pametne ugovore. Aplikacije se pokreću točno onako kako je programirano bez mogućnosti cenzure, prekida rada ili uplitanja treće strane.
 > 
@@ -103,7 +103,7 @@ Povijesno gledano, broj jedan uzrok smrti za blockchain projekte je kada timovi 
 
 Organizacije mogu prestati s radom iz više razloga. Bilo da se radi o običnom trzanju, nedostatku sredstava, hakiranju, napadima regulatora, prometnim nesrećama ili bilo kojem drugom razlogu, ovi su čimbenici često izvan kontrole ovog tima, pa ovisi o tome hoće li projekt može preživjeti.
 
-U mnogim slučajevima postojanje središnjeg tima odvraća druge od doprinosa projektu jer nisu na jednakim uvjetima. Treće strane će uvijek biti građani drugog reda u usporedbi s ovim središnjim organizacijskim odborom, koji odlučuju i imaju neproporcionalnu korist od cijena u slučaju poreza na premine ili razvoj, što dodatno učvršćuje oslanjanje na ovaj tim za održavanje i usmjeravanje projekta, i, u najmanju ruku, sprječava pojavu prirodne organizacijske hijerarhije.
+U mnogim slučajevima postojanje središnjeg tima odvraća druge od doprinosa projektu jer nisu na jednakim uvjetima. Treće strane će uvijek biti građani drugog reda u usporedbi s ovim središnjim organizacijskim odborom, koji odlučuju i imaju neproporcionalnu korist od cijena u slučaju poreza na premiju ili razvoj, što dodatno učvršćuje oslanjanje na ovaj tim da održava i usmjerava projekt, i, u najmanju ruku, sprječava pojavu prirodne organizacijske hijerarhije.
 
 Ovo oslanjanje na središnji tim može pružiti smjernice i velike proračune u kratkom roku, ali opterećuje protokol nekom vrstom "centralizacijskog duga" koji je teško otplatiti. Na kraju će, kao i sve organizacije, središnji tim prestati s radom. Osim ako se projekt ne oslobodi ovog oslanjanja, vjerojatno će postati ili napušten ili neprilagođen životu bez ove skupine.
 
@@ -113,35 +113,35 @@ Za projekte visoke vrijednosti koji se pretjerano oslanjaju na centralizirane ti
 
 Pretpostavimo da se moćna institucija osjeća ugroženom novom tehnologijom. Umjesto da ga se iskorijeni, što bi moglo biti nemoguće, daleko je učinkovitije jednostavno kompromitirati i poremetiti njegovo djelovanje utječući na smjer razvoja na način koji suštinski ne remeti status quo.
 
-To se može postići pretvaranjem influencera i vodstva organizacije u marionete čije se konce povlače kroz razne mrkve i batine. Ljudi su pogrešivi i podložni svim stupnjevima manipulacije i iznude; pritisak vršnjaka, bijesna rulja, politika, mito, mito, psihopatija, medene zamke, kompromat, fizičke prijetnje, zatvor ili još gore.
+To se može postići pretvaranjem influencera i vodstva organizacije u marionete čije se konce povlače kroz razne mrkve i batine. Ljudi su pogrešivi i podložni svim stupnjevima manipulacije i iznude; pritisak vršnjaka, bijesna gomila, politika, mito, mito, psihopatija, medene zamke, kompromat, fizičke prijetnje, zatvor ili još gore.
 
 S dovoljno ključnih meta pod palcem napadača, oni mogu kontrolirati budućnost lanca svojim autoritetom, čineći suptilne inkrementalne promjene koje dodatno povećavaju njihov stisak i kontrolu nad donošenjem odluka.
 
-Jedan od najproblematičnijih elemenata ove vrste stanja neuspjeha je to što se to može učiniti na način koji se ne može detektirati. Može se dogoditi da je razina do koje je središnji tim kompromitiran nepoznata, a zarobljavanje postaje očito tek kada je prekasno da se išta učini po tom pitanju.
+Jedan od najproblematičnijih elemenata ove vrste stanja neuspjeha je to što se to može učiniti na način koji se ne može detektirati. Može se dogoditi da je razina do koje je središnji tim kompromitiran nepoznata, a zarobljavanje postaje očito tek kada je prekasno da se išta učini u vezi s tim.
 
 Čak i ako centralizirani tim nije otvoreno ugrožen, sam potencijal ovog kompromisa može posijati nepovjerenje i nelagodu. Teorije zavjere i preispitivanje donošenja odluka mogu potkopati vodstvo i stabilnost projekta ako se čini da nisu vođeni samo zaslugama, a jednostavna taktika zavadi pa vladaj primijenjena protiv organizacijskog odbora može biti dovoljna da paralizira projekt.
 
-Ovo stanje neuspjeha pokazuje inherentnu kontradikciju unutar bilo kojeg blockchain projekta koji se oslanja na središnji organizacijski odbor. Iako protokol može biti decentraliziran na papiru, u stvarnosti projekt pripada središnjoj skupini koja se može i hoće podvrgnuti volji svakoga tko smatra da se trošak toga isplati.
+Ovo stanje neuspjeha pokazuje inherentnu kontradikciju unutar bilo kojeg blockchain projekta koji se oslanja na središnji organizacijski odbor. Dok protokol može biti decentraliziran na papiru, u stvarnosti projekt pripada središnjoj skupini koja se može i hoće podvrgnuti volji svakoga tko smatra da se trošak toga isplati.
 
 ### Kabuki novčići
 
 Centralizacija, poput gravitacije, neprestano vuče i traži bilo kakvu slabost u sociotehnološkoj strukturi kako bi pronašla svoju prijelomnu točku. Da bi sustav dugoročno prevladao ovu silu, mora osigurati da se ne može iskoristiti nijedna središnja točka kvara, što znači osmišljavanje robusnih protumjera koje se stalno suprotstavljaju centralizaciji ne samo na jednom mjestu nego u svim područjima.
 
-Zbog toga nema smisla imati decentralizaciju na pola mjere. Lanac je jak onoliko koliko je jaka njegova najslabija karika, a blockchain je decentraliziran onoliko koliko je njegovo najcentraliziranije usko grlo. Iz tog razloga, _svi_ dijelovi blockchain projekta, tehnički i društveno, moraju težiti _decentralizacijskom maksimalizmu_.
+Zbog toga nema smisla imati decentralizaciju na pola mjere. Lanac je onoliko jak koliko je jaka njegova najslabija karika, a blockchain je decentraliziran onoliko koliko je njegovo najcentraliziranije usko grlo. Iz tog razloga, _svi_ dijelovi blockchain projekta, tehnički i društveno, moraju težiti _decentralizacijskom maksimalizmu_.
 
 Nažalost, unutar ekosustava kriptovaluta važnost _decentralizacijskog maksimalizma_ nije naširoko shvaćena niti prihvaćena, do točke u kojoj je pojam _kazalište decentralizacije_ postao uobičajen način za opisivanje mnogih _takozvanih_ decentraliziranih sustava.
 
-Ovi projekti imaju suptilne pojedinačne točke neuspjeha unutar svojih sustava, ali promotori prebacuju fokus na druga "decentralizirana" područja. Ovo je učinkovita taktika, budući da dokazivanje da sustav ima potencijalno uhvative središnje točke kvara zahtijeva intimno poznavanje sustava, a može biti vrlo teško ili nemoguće za laike, zbog tehničkih vještina i insajderskog znanja potrebnih za pravilnu procjenu.
+Ovi projekti imaju suptilne pojedinačne točke neuspjeha unutar svojih sustava, ali promotori prebacuju fokus na druga "decentralizirana" područja. Ovo je učinkovita taktika, budući da dokazivanje da sustav ima potencijalno uhvative centralne točke kvara zahtijeva intimno poznavanje sustava, a može biti vrlo teško ili nemoguće za laika, zbog tehničkih vještina i insajderskog znanja potrebnih za pravilnu procjenu.
 
-Poput prispodobe o zgradama izgrađenim na kamenu i pijesku, nevještom oku može se činiti da su dva projekta pravilno izgrađena i pod normalnim uvjetima oba funkcioniraju kako je zamišljeno. Ali ispod površine, jedan projekt ima kobnu grešku koja će samo dovesti do propasti u stresnim vremenima i vjerojatno će na kraju nanijeti štetu onima koji očekuju da će projekt izdržati test vremena.
+Poput prispodobe o zgradama izgrađenim na kamenu i pijesku, nevještom oku može se činiti da su dva projekta ispravno izgrađena, au normalnim uvjetima oba funkcioniraju kako je predviđeno. Ali ispod površine, jedan projekt ima kobnu grešku koja će samo dovesti do propasti u stresnim vremenima i vjerojatno će na kraju nanijeti štetu onima koji očekuju da će projekt izdržati test vremena.
 
 ![Blockchaini se, kao i zgrade, mogu graditi na jakim i slabim temeljima](./rocksand.jpeg)
 
 ## Klasični problemi zahtijevaju klasična rješenja
 
-Korupcija je problem star koliko i civilizacija. Iako možda još nije digla svoju ružnu glavu u prostoru kriptovaluta, kako tehnologija postaje sve utjecajnija, sigurno će privući sile koje žele obuzdati njezinu moć i oblikovati je prema budućnosti u kojoj, daleko od oslobađanja čovječanstva, blockchaini postaju alati za optimiziranje porobljavanja.
+Korupcija je problem star koliko i civilizacija. Iako možda još nije podignuo svoju ružnu glavu u prostoru kriptovaluta, kako tehnologija postaje sve utjecajnija, sigurno će privući sile koje žele obuzdati njezinu moć i oblikovati je prema budućnosti u kojoj blockchaini, daleko od oslobađanja čovječanstva, postaju alati za optimiziranje porobljavanja.
 
-Dugoročno gledano, što god se dogodilo, decentralizirani blockchaini će na kraju prevladati. Ipak, ako čovječanstvo želi izbjeći razdoblje mračnog vijeka spriječenih inovacija i stagnacije, mora se proširiti riječ o opasnostima centralizacije kako bi se s njom moglo pozabaviti prije nego što zavladaju. Srećom, postoji prilika za suzbijanje neizbježnih tekućih pokušaja zarobljavanja blockchaina. Za sada projekti koji teže _decentralizacijskom maksimalizmu_ još uvijek postoje i dostupni su onima koji ih žele koristiti.
+Dugoročno, što god se dogodilo, decentralizirani blockchaini će na kraju prevladati. Ipak, ako čovječanstvo želi izbjeći razdoblje mračnog vijeka spriječenih inovacija i stagnacije, mora se proširiti riječ o opasnostima centralizacije kako bi se s njom moglo pozabaviti prije nego što zavladaju. Srećom, postoji prilika za suzbijanje neizbježnih tekućih pokušaja zarobljavanja blockchaina. Za sada projekti koji teže _decentralizacijskom maksimalizmu_ još uvijek postoje i dostupni su onima koji ih žele koristiti.
 
 Iako je to još uvijek dobrovoljno, umjesto da se oslanja na autoritete ili marketinške kampanje, pojedinci mogu razmišljati polazeći od prvih načela i razmišljati o lekcijama iz prošlosti kako bi došli do vlastitih zaključaka o tome koji će lanci blokova vjerojatno pružiti dugoročnu vrijednost i s kojima vrijedi komunicirati.
 
@@ -153,25 +153,25 @@ Dok su institucije i ljudi koji ih čine pogrešivi, nestalni i krhki, ideje su 
 
 Dobre ideje stoje same za sebe, o njima se može raspravljati u javnosti i valjane su bez obzira na to tko ih proglašava, što ih čini savršenim za konstruiranje pojasa za obuzdavanje i zaštitu budućnosti blockchain projekta. Zato The Ethereum Classic Foundation nije *grupa*, već njezina *načela*, koja su na prvom mjestu i informiraju donošenje odluka.
 
-Pragmatizam je nizvodno od održavanja i poštivanja zdravih načela, jer oni omogućuju i praktičnu opstojnost, dugoročnu održivost i djeluju kao oblik oglašavanja koji privlači kvalitetne suradnike. Pristup temeljen na prvim načelima uvelike doprinosi osiguravanju da projekt može održati svoj tijek za mnoge generacije koje dolaze, budući da nije vođen stalno promjenjivim interesima središnje skupine, već vanjskim filozofskim referentnim točkama koje, čak i uz visoku promjena suradnika, može se ovjekovječiti i poboljšati u javnosti kako bi se usmjerila budućnost projekta.
+Pragmatizam je nizvodno od održavanja i poštivanja zdravih načela, jer oni omogućuju i praktičnu opstojnost, dugoročnu održivost i djeluju kao oblik oglašavanja koji privlači kvalitetne suradnike. Pristup koji temelji na prvim načelima uvelike doprinosi osiguravanju da projekt može održati svoj tijek za mnoge generacije koje dolaze, jer nije vođen stalno promjenjivim interesima središnje skupine, već vanjskim filozofskim referentnim točkama koje, čak i uz visoku promjena suradnika, može se ovjekovječiti i poboljšati u javnosti kako bi se usmjerila budućnost projekta.
 
-Nepostojanje središnje grupe koja bi odlučivala znači da bilo koji pojedinac ili grupa mogu preuzeti bilo koju ulogu, sve dok vjerno tumače i provode načela i vrijednosti ETC-a, kako ih razumiju dionici. Ako neki smatraju da se hard fork razlikuje od vrijednosti za koje su se prijavili, mogu nastaviti postojeću verziju lanca. Rizik od lančanog raskola znači da su svi sudionici potaknuti da rade zajedno kako bi riješili razlike, a nijedna strana u raspravi ne može nadglasati onu drugu ako je neslaganje neriješivo.
+Nepostojanje središnje grupe koja bi odlučivala znači da bilo koji pojedinac ili grupa mogu preuzeti bilo koju ulogu, sve dok vjerno tumače i provode načela i vrijednosti ETC-a, kako ih razumiju dionici. Ako neki smatraju da hard fork odstupa od vrijednosti za koje su se založili, mogu nastaviti postojeću verziju lanca. Rizik od lančanog raskola znači da su svi sudionici potaknuti na zajednički rad na rješavanju razlika, a nijedna strana u raspravi ne može nadglasati onu drugu ako je neslaganje neriješivo.
 
 ### Neutralnost protokola
 
-Budući da je noć još mlada u blockchain igri, problem [Ephemeral Foundations](#the-ephemeral-foundation) možda nije toliko očit. Bez obzira jesu li prevarene, slomljene ili na neki drugi način zarobljene, plemenite namjere koje upravljaju mnogim blockchain projektima sigurno će doći kraju, a s njima, ako se njihovi lanci ne mogu osloboditi oslanjanja, ne mogu izgubiti ni njihove ambicije.
+Budući da je noć još mlada u blockchain igri, problem [Ephemeral Foundations](#the-ephemeral-foundation) možda nije toliko očit. Bez obzira jesu li prevarene, slomljene ili na neki drugi način zarobljene, plemenite namjere koje upravljaju mnogim blockchain projektima sigurno će doći kraju, a s njima, ako se njihovi lanci ne mogu osloboditi oslanjanja, ne mogu se riješiti i njihove ambicije.
 
 Ovaj problem se pogoršava kada se sustavi donošenja odluka unutar blockchain projekta oslanjaju na središnju grupu dulje vrijeme. Alternativni mehanizmi za organiziranje projekta ne mogu se razviti, jer se očekuje da će donošenje odluka doći odozgo prema dolje, a ne odozdo prema gore. Kao rezultat toga, neprozirna autokracija postaje standard, koji okoštava i postaje krhak, umjesto da dopusti procvat anti-krhke otvorene meritokracije.
 
 To se očituje u _centralizacijskom gravitacijskom izvoru_, gdje oslanjanje na centralno donošenje odluka kao vanjski doprinos postaje teže, pa se projekt sve više i više oslanja na vodstvo odozgo prema dolje, a ciklus se ponavlja.
 
-Zbog toga će u budućnosti projekti koji se oslanjaju na centralizirane organizacije jedan po jedan padati žrtve ovog oslanjanja, a istina će se shvatiti da se samo projekti bez ovog oslanjanja mogu održati na dulje vrijeme. Budući da divlje vrijednosti koje kriptovalute trenutno uživaju ovise o nadi da će ti projekti imati neki stupanj dugovječnosti, postat će sve očiglednije da se samo u istinski decentralizirane projekte isplati uložiti novac, talent ili vrijeme, a tržište će se prema tome preraspodijeliti.
+Zbog toga će u budućnosti projekti koji se oslanjaju na centralizirane organizacije jedan po jedan padati kao žrtve ovog oslanjanja, a istina će se shvatiti da se samo projekti bez ovog oslanjanja mogu održati na duge periode. Budući da divlje vrijednosti koje kriptovalute trenutno uživaju ovise o nadi da će ti projekti imati neki stupanj dugovječnosti, postat će sve očiglednije da se samo u istinski decentralizirane projekte isplati uložiti novac, talent ili vrijeme, a tržište će se prema tome preraspodijeliti.
 
-Ostat će samo projekti s dugoročnim vrijednostima, što znači da će ostati samo oni koji se ne oslanjaju na središnje organizacijske odbore. Po istoj logici, postat će očito da će, ako su sve stvari jednake, projekti za koje se smatra da najmanje ovise o središnjim skupinama privući najveći doprinos i vrijednost.
+Ostat će samo projekti s dugoročnim vrijednostima, što znači da će ostati samo oni koji se ne oslanjaju na središnje organizacijske odbore. Po istoj logici, postat će očito da će, pod jednakim uvjetima, projekti za koje se smatra da najmanje ovise o središnjim skupinama privući najveći doprinos i vrijednost.
 
 Umjesto da se oslanjaju na neodržive novčane injekcije središnjih vlasti, projekti se moraju razvijati kako bi se održali isključivo na prirodnim doprinosima, poput onih kroz strategiju _Buy and Contribute_ , pri čemu pojedinci kupuju projekt i ekonomski se potiču da mu pridonesu.
 
-Ova strategija najbolje funkcionira kada pojedinac ubire punu nagradu za svoj doprinos, što se može dogoditi samo kada je protokol neutralan. Neutralni protokoli tretiraju sve sudionike na istoj osnovi i ne daju nikakve posebne privilegije određenim stranama. Decentralizirani blockchain projekti međusobno će se natjecati na ovoj osnovi; samo najneutralniji projekti, oni bez zaklade, poreza na razvoj ili nerazrijeđenog preminea, privući će vrstu prirodnog doprinosa koji omogućuje dugoročnu održivost.
+Ova strategija najbolje funkcionira kada pojedinac u potpunosti ubire nagradu za svoj doprinos, što se može dogoditi samo kada je protokol neutralan. Neutralni protokoli tretiraju sve sudionike na istoj osnovi i ne daju nikakve posebne privilegije određenim stranama. Decentralizirani blockchain projekti međusobno će se natjecati na ovoj osnovi; samo najneutralniji projekti, oni bez zaklade, poreza na razvoj ili nerazrijeđenog preminea, privući će vrstu prirodnog doprinosa koji omogućuje dugoročnu održivost.
 
 ### Balansiranje snage
 
@@ -187,7 +187,7 @@ Kao i kod vlade SAD-a, provjera i ravnoteža bitna su značajka Proof of Work bl
 | Rudari      | Osigurajte sigurnost od 51% napada              | Odvojite drugačiji lanac |
 | Financijeri | Osigurajte likvidnost i financijske inicijative | Prodajte posjede         |
 
-Usklađivanje tri glavne moći u lancima blokova Dokaz o radu osigurava stabilnost. Svaki od njih dodaje vrijednost sustavu na potpuno različite načine. Svaki od njih drži sustav odgovornim putem moći veta, što osigurava da nijedna druga grupa ne može previše zeznuti stvari. Bilo da vlada ili blockchain, stvari imaju tendenciju da pođu po zlu kada se umiješa u te provjere i ravnoteže.
+Usklađivanje tri glavne moći u lancima blokova Dokaz o radu osigurava stabilnost. Svaki od njih dodaje vrijednost sustavu na potpuno različite načine. Svaki od njih drži sustav odgovornim putem moći veta, što osigurava da nijedna druga grupa ne može previše zeznuti stvari. Bilo da vlada ili blockchain, stvari imaju tendenciju da pođu po zlu kada se umiješaju te provjere i ravnoteže.
 
 Imajte na umu da je ova konfiguracija troje važna, jer također znači da kolektiv može prevladati probleme konsenzusa putem pravila jednostavne većine. Ovo neparno biračko tijelo uobičajen je obrazac u distribuiranim sustavima. Do zastoja može doći samo s dva sudionika, jer nema treće strane koja bi riješila spor.
 
@@ -195,7 +195,7 @@ Rezultat je simfonija uravnotežene moći koju na okupu drže suprotstavljeni in
 
 Poput podupirača koji drže podnožje tornja, ovi dobro postavljeni poticaji oslanjaju se jedni na druge kao potporu. Zajedno, sve dok su pravilno raspoređeni, mogu dati novu strukturu veću od zbroja njihovih dijelova, i potencijalno mogu stajati tisućljećima.
 
-Povrh toga, raznolikost uloga čini sustav većim izazovom za rušenje potičući sudjelovanje stranaka s različitim interesima, profilima i slabostima. Kako je obrana višestruka, što je skupina sudionika koji osiguravaju lanac raznolikija, to je napadaču teže napraviti kompromis, budući da raznolikost slabosti zahtijeva raznolikost napada, a potrebni su veći troškovi za osvajanje sustava. Čak i s istim brojem sudionika, sustav s većim odvajanjem briga može se smatrati decentraliziranijim i teškim za obuhvatiti zbog te raznolikosti.
+Povrh toga, raznolikost uloga čini sustav većim izazovom za rušenje potičući sudjelovanje stranaka s različitim interesima, profilima i slabostima. Kako je obrana višestruka, što je raznolikiji skup sudionika koji osiguravaju lanac, to je napadaču teže napraviti kompromis, budući da raznolikost slabosti zahtijeva raznolikost napada, a potrebni su i veći troškovi za osvajanje sustava. Čak i s istim brojem sudionika, sustav s većim odvajanjem briga može se smatrati decentraliziranijim i teškim za obuhvatiti zbog te raznolikosti.
 
 Nacrt koji je uveo Bitcoin također su koristile mnoge druge kriptovalute uključujući Ethereum, koji je u biti kopirao osnove, dotjerao neke varijable i (briljantno) dodao Turingov kompletan virtualni stroj, EVM. Slično kao arhitektonski nacrt, koji kodira strukturu zgrade stvarnog svijeta, bilo bi naizgled nerazborito ukloniti jedan ili više ključnih potporanja koji sprječavaju urušavanje strukture u centralizirani nered.
 
@@ -207,7 +207,7 @@ _Decentralizacijski maksimalizam_ je jedini poznati mehanizam za dugoročno suzb
 
 Zahtijeva da se decentralizacija provodi holistički u svim područjima, u dizajnu protokola i društvenom sloju, gdje je to moguće. Cilj je učiniti protokol sigurnim od preuzimanja, a društveni sloj sigurnim od zarobljavanja. To što je Satoshi Nakamoto bio anoniman i šutio je klasičan primjer ove filozofije koja se primjenjuje na Bitcoin projekt, čiji je uspjeh mudro oponašati.
 
-Gdje ima smisla, po definiciji, ovaj pristup ne zahtijeva kompromis. Čak i najmanje žrtve, prekršaji ili izuzeci trebali bi biti nepodnošljivi, osim ako nisu potpuno neizbježni s nekim ukupnim vrijednim kompromisom u kontekstu poznatih kriterija zaustavljanja. Kako se centralizacije teško riješiti, ona se obično nakuplja tijekom vremena i gomilaće se sve dok sustav ne postane zarobljen na ovaj ili onaj način.
+Gdje ima smisla, po definiciji, ovaj pristup ne zahtijeva kompromis. Čak i najmanje žrtve, prekršaji ili izuzeci trebali bi biti nepodnošljivi, osim ako nisu potpuno neizbježni s nekim ukupnim vrijednim kompromisom u kontekstu poznatih kriterija zaustavljanja. Kako se centralizacije teško riješiti, ona se obično nakuplja tijekom vremena i gomilat će se sve dok sustav ne postane zarobljen na ovaj ili onaj način.
 
 Bez obzira na raskrižje, _decentralizacijski maksimalizam_ zahtijeva vječni oprez i znanje da sustavi prirodno teže centralizaciji, tako da svaka donesena odluka mora uzeti u obzir trošak plaćen centralizacijskim dugom, kako bi se sustav dugoročno održao bez dugova.
 

@@ -7,10 +7,10 @@ description: |
 
   Selain itu, Ethereum Classic mempunyai testnet sendiri yang mengendalikan versi Ethereum Classic EVM, dan penggunaan ke salah satu rangkaian ini juga sangat disyorkan sebelum pengeluaran pengeluaran. Testnet awam ini juga menyediakan faucet, jadi anda boleh memperoleh testnet ETC dan menggunakan kod anda dengan mudah.
 
-  Jika paip tidak berfungsi dengan betul, sila sertai Komuniti Klasik Ethereum [Discord](https://ethereumclassic.org/discord) untuk ping dana testnet. Seseorang dalam ruang sembang dev-general akan membantu anda.
+  Jika paip tidak berfungsi dengan betul, sertai Komuniti Klasik Ethereum [Discord](https://ethereumclassic.org/discord) untuk ping untuk mendapatkan dana testnet. Seseorang dalam ruang sembang dev-general akan membantu anda. Sebagai alternatif, anda boleh melombong dana testnet anda sendiri dengan mudah dengan menjalankan [core-geth] secara tempatan(https://etclabscore.github.io/core-geth/getting-started/installation/) dengan "geth --mordor --mine "perintah.
 
   Anda boleh menggunakan [chainlist.org](https://chainlist.org) untuk mengkonfigurasi dompet web3 anda dengan titik akhir dan peneroka RPC yang sesuai.
-  Konfigurasikan Dompet: [Kotti](https://chainlist.org/chain/6), [Mordor](https://chainlist.org/chain/63)
+  Konfigurasikan Dompet: [Mordor](https://chainlist.org/chain/63)
 items:
   testnets:
     i18n:

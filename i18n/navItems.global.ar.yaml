@@ -44,6 +44,9 @@ learn:
       name: معرفة
       description: مزيد من القراءة حول الأسس التي تقوم عليها ETC
       navItems:
+        course:
+          name: دورة
+          description: سلسلة فيديوهات ومقالات منظمة حول الإيثريوم كلاسيك
         foundation:
           name: مؤسسة
           description: المبادئ الأساسية التي تشكل القاعدة الفلسفية الصلبة لـ ETC

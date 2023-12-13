@@ -2,7 +2,7 @@
 title: "Ethereum Classic Is a Smart Contracts Cryptocurrency Blockchain"
 date: 2023-10-24
 author: Donald McIntyre
-contributors: ["Donald McIntyre"]
+contributors: ["DonaldMcIntyre"]
 tags: ["education", "series"]
 linkImage: ./banner.png
 ---

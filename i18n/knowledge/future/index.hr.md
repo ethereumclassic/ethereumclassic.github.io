@@ -25,11 +25,11 @@ Proces [Ethereum Classic Improvement Proposal (ECIP)](/development/ecips) način
 
 Tipično, implementacija novih značajki zahtijeva ogromnu podršku ili, barem, nikakvo značajno protivljenje zajednice Ethereum Classic, što ETC, kao i BTC, čini prilično opreznim u svom tehnološkom razvoju. Bez središnjih grupnih odluka o tome koje se nadogradnje implementiraju, prijetnja od razdvajanja lanca zbog značajnog odbijanja znači da su Hard Forkovi na ETC-u skloni biti sigurni, inkrementalni i iznad svega nesporni.
 
-Umjesto mentaliteta "kreni brzo i slomi stvari", koji može prouzročiti financijsku štetu ako stvari krenu po zlu, značajna ažuriranja obično se razmatraju, dorađuju i testiraju tijekom dugih razdoblja prije nego što se implementiraju u protokol kako bi se ispravno postigao konsenzus _prije_ . vilica.
+Umjesto mentaliteta "kreni brzo i pokvari stvari", koji može prouzročiti financijsku štetu ako stvari pođu po zlu, značajna ažuriranja obično se razmatraju, dorađuju i testiraju tijekom dugih razdoblja prije nego što se implementiraju u protokol kako bi se ispravno postigao konsenzus _prije_ . vilica.
 
 Osim toga, vodi se računa da se osigura da, koliko god je to moguće, ugovori koji su implementirani još 2015. mogu vjerno i trajno funkcionirati i da se _Kod je Zakon_ održava.
 
-To ne znači da ETC nije u stanju oportunistički inovirati. Jedan takav primjer je [Thanos fork](/knowledge/forks#thanos), koji je iskoristio Ethereumovu sigurnost povećanja veličine DAG-a dopuštajući inače napuštenoj kategoriji GPU-a rudarenje ETC-a, što je bila laka obostrana nadogradnja za Ethereum Classic.
+To ne znači da ETC nije u stanju oportunistički inovirati. Jedan takav primjer je [Thanos fork](/knowledge/forks#thanos), koji je iskoristio Ethereumovu sve veću sigurnost sweep veličine DAG-a dopuštajući inače napuštenoj kategoriji GPU-a rudarenje ETC-a, što je bila laka obostrana nadogradnja za Ethereum Classic.
 
 ### Naslijeđena inovacija
 
@@ -51,7 +51,7 @@ Nedavni rast djelomično je zahvaljujući rastućoj vojsci kreatora sadržaja Et
 
 ### Spajanje
 
-Ethereum™ mainnet lanac, iako ima neka manja kašnjenja, izgleda sve bliže dovršetku migracije s Proof of Work na Proof of Stake, poznat kao _The Merge_. Za Ethereum Classic ovo će biti izuzetno relevantan događaj, jer se čini da će novoizbačeni GPU rudari tražiti druge lance za rudarenje, a Ethereum Classic je očit izbor.
+Ethereum™ mainnet lanac, iako ima neka manja kašnjenja, čini se sve bliže dovršetku migracije s Proof of Work na Proof of Stake, poznat kao _The Merge_. Za Ethereum Classic ovo će biti izuzetno relevantan događaj, jer se čini da će novoizbačeni GPU rudari tražiti druge lance za rudarenje, a Ethereum Classic je očit izbor.
 
 Migracija rudara s ETH na ETC vjerojatno će donijeti novi val interesa za ekosustav Ethereum Classic, povećati sigurnost mreže i ubrzati usvajanje i vrijednost mreže.
 

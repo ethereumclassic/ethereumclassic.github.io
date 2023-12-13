@@ -16,29 +16,15 @@ items:
   web:
     title: 网络钱包
     description: 这些Web3钱包可以使用一个网页来访问。它们不应该被用来保证大量的资金，但允许你轻松地与ETC互动，而不需要下载。
-    items:
-      MyEtherWallet:
-        __primary: 1
   browsers:
     title: 浏览器集成钱包
     description: 这些Web3钱包被集成在网络浏览器中。通常情况下，它们向网站注入你的账户信息，以便让你在浏览器中与Ethereum Classic dapps无缝互动。
-    items:
-      MetaMask:
-        __primary: 1
   hardware:
     title: 硬件钱包
     description: 硬件钱包是为长期存储而设计的安全钱包。
-    items:
-      Ledger:
-        __primary: 1
-      Trezor:
-        __primary: 1
   software:
     title: 软件钱包
     description: 软件钱包是为短期存储而设计的桌面或移动设备。
-    items:
-      Trust Wallet:
-        __primary: 1
   other:
     title: 其他钱包产品
     description: 这些产品是对加密货币钱包的补充，如恢复种子存储。

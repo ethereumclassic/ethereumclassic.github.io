@@ -33,8 +33,6 @@ learn:
           name: ジェネシス
         decentralism:
           name: ディセントラリズム
-        ethBtcEtc:
-          __name: エス＋ビーティーシー＝エトセトラ
         soundMoney:
           name: サウンドマネー
         proofOfWork:
@@ -46,6 +44,9 @@ learn:
       name: ナレッジ
       description: ETCを支える基盤についての詳細情報
       navItems:
+        course:
+          name: コース
+          description: イーサリアムクラシックに関するビデオと記事シリーズ
         foundation:
           name: 財団
           description: ETCの揺るぎない哲学的基盤を形成する基本理念

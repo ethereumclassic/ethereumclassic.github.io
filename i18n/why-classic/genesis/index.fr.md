@@ -161,7 +161,7 @@ L'un des détails absurdes mais importants souvent oubliés à propos de The DAO
 
 _MISE À JOUR :_ Cette analyse s'est avérée correcte puisque l'identité du pirate de la DAO a depuis été déduite par les chercheurs et les membres de RHG. En l'absence de fourchette, la pression pour démasquer le pirate aurait été beaucoup plus forte et se serait probablement produite beaucoup plus tôt.
 
-### Fourcher ou ne pas fourcher ?
+### Fourcher ou ne pas forker ?
 
 Alors que ce scénario catastrophe relativement modeste était acceptable pour de nombreux détenteurs de jetons DAO, tout ce qui n'était pas le retour immédiat de 100 % des fonds n'était pas acceptable pour un contingent influent, de sorte que le débat sur le Hard Fork a fait rage.
 
@@ -376,7 +376,7 @@ Heureusement, dans un autre développement embarrassant, malgré la tentative de
 
 Bien que WHG ait fourni à l'adresse les raisons pour lesquelles elle voulait vendre les ETC récupérés, toutes ces excuses se sont révélées sans fondement grâce à la mise en œuvre ultérieure d'un contrat de retrait sur les ETC, qui a finalement permis aux détenteurs de jetons DAO de récupérer leurs ETC en toute sécurité et de décider eux-mêmes de ce qu'ils allaient en faire.
 
-### Attaques de relecture
+### Rejouer les attaques
 
 L'un des effets de l'absence de préparation à l'éventualité d'une scission de la chaîne était la perspective d'attaques par rejeu, qui pouvaient, tant accidentellement qu'intentionnellement, entraîner la perte de fonds ou le vol de l'un ou l'autre côté de la chaîne. La [possibilité](https://twitter.com/VladZamfir/status/759552287157133313) d'attaques par rejeu était connue à l'avance à l'adresse. Toutefois, sans doute pour minimiser la possibilité d'une rupture de chaîne, aucune mesure n'a été prise pour atténuer les risques ou même avertir la communauté à ce sujet.
 

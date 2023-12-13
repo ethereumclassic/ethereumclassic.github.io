@@ -76,7 +76,7 @@ Subtile spieltheoretische Bugs und Exploits in Blockchains sind extrem schwierig
 
 ### Ungleichgewicht der Kräfte
 
-Wie [bereits erforscht hat](/why-classic/decentralism/#balancing-power), wird durch die Herausnahme von Minern aus dem sozioökonomischen Modell einer Blockchain eine wichtige regulierende Kraft weggenommen, die andernfalls eine Vereinnahmung verhindern würde; andere Parteien werden durch die Androhung eines Vetos gegen schlechte Entscheidungen durch das selektive Mining von Ketten ehrlich gehalten. Bei Proof of Stake-Ketten sind Investoren und "Miner" (Staker) dieselbe Gruppe, so dass jeglicher Machtmissbrauch durch diese Gruppe relativ unkontrolliert bleibt und die Kette wahrscheinlich dazu neigt, sich auf Kosten anderer in einer Weise zu teilen, die dieser Gruppe zugute kommt, z. B. durch eine Erhöhung der Stake-Belohnungen.
+Wie [bereits erforscht hat](/why-classic/decentralism/#balancing-power), wird durch die Herausnahme von Minern aus dem sozioökonomischen Modell einer Blockchain eine wichtige regulierende Kraft weggenommen, die andernfalls eine Vereinnahmung verhindern würde; andere Parteien werden durch die Androhung eines Vetos gegen schlechte Entscheidungen durch das selektive Mining von Ketten ehrlich gehalten. Bei Proof of Stake-Ketten sind Investoren und "Miner" (Staker) dieselbe Gruppe, so dass jeglicher Machtmissbrauch durch diese Gruppe relativ unkontrolliert bleibt und die Kette wahrscheinlich dazu neigt, sich auf Kosten anderer in einer Weise zu teilen, die dieser Gruppe zugute kommt, z. B.
 
 ### Geld ist nicht Macht
 
@@ -154,7 +154,7 @@ Angriffe auf 51 % der Proof-of-Work-Systeme können zwar Schaden anrichten, betr
 
 Bei PoS-Ketten kann sich ein Angreifer, sobald er einen bestimmten Schwellenwert erreicht hat, nicht mehr erholen; da der Angreifer keine externen Ressourcen einsetzen muss, kann er nicht entlarvt werden. Die einzige Lösung für diesen Fehlerzustand ist das Hard-Forking des Angreifers, was _Code is Law_ bricht, den Zweck einer Blockchain zunichte macht, Subjektivität hinzufügt und die Kette weiter zentralisiert.
 
-### Nichts steht auf dem Spiel
+### Nichts auf dem Spiel
 
 Bei Proof of Work müssen die Miner im Falle einer Fork entscheiden, auf welcher Seite der Fork sie minen wollen, da die Erstellung von Blöcken mit externen Stromkosten verbunden ist. Wenn Bergleute die "falsche" Gabel abbauen, wird ihre Belohnung wertlos, und sie haben den für den Abbau aufgewendeten Strom verschwendet. Sie müssen also klug auswählen, was sie abbauen; es geht um die _Kosten für Strom_ .
 

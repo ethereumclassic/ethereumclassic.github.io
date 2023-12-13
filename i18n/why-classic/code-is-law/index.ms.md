@@ -24,7 +24,7 @@ _Code is Law_ meletakkan "Unstoppable" dalam "Build Unstoppable Applications", f
 
 Ramai yang berfikir secara mendalam tentang potensi teknologi blockchain mempunyai detik "eureka", di mana semuanya _klik_, dan penilaian liar ruang cryptocurrency tiba-tiba terasa sedikit. Mereka menyedari masa depan boleh wujud di mana semua perjanjian antara orang pada akhirnya ditadbir bukan oleh institusi yang boleh rosak tetapi oleh logik keras kod Kontrak Pintar.
 
-Pada masa hadapan ini, individu memutuskan sendiri kontrak yang mereka ingin libatkan, dan bukannya membuat keputusan melalui monopoli geografi yang mereka kebetulan dilahirkan. Tidak ada orang tengah kerana pencarian sewa di semua kawasan digantikan dengan disintermediasi, persaingan pasaran, dan pengoptimuman harga. Realiti ini lebih adil, lebih murah, saling beroperasi dan global. Ia menjadi pelarut universal yang melincirkan jentera ossified lama.
+Pada masa hadapan ini, individu memutuskan sendiri kontrak yang mereka ingin libatkan, dan bukannya membuat keputusan melalui monopoli geografi yang mereka kebetulan dilahirkan. Tidak ada orang tengah kerana pencarian sewa di semua kawasan digantikan dengan disintermediasi, persaingan pasaran, dan pengoptimuman harga. Realiti ini lebih adil, lebih murah, boleh dikendalikan dan global. Ia menjadi pelarut sejagat yang melincirkan mesin ossified lama.
 
 Era baharu manusia berkembang pesat, kerana masyarakat tidak terbelenggu daripada ketidakcekapan dan kelegapan rasuah. Ia tidak akan terlepas daripada kebangkitan baharu, sinar harapan yang bersinar-sinar dalam menghadapi alternatif yang lebih gelap, dan tambahan pula, ia boleh dicapai dalam hayat kita.
 
@@ -42,7 +42,7 @@ Apabila individu secara sukarela terlibat dengan Kontrak Pintar pada rantaian ya
 
 Setelah difikirkan, menjadi jelas bahawa Kod _ialah Undang-undang_ ialah _sahaja_ cara Kontrak Pintar boleh ditafsirkan secara adil atau berguna. Pada blok blok yang tidak menegakkan _Kod ialah Undang-undang_, hasil transaksi tidak dikawal oleh pilihan individu melalui kod kontrak, tetapi akhirnya atas perintah "tadbir urus" daripada sistem warisan, termasuk semua kelemahan yang dimaksudkan dengan memperkenalkan blockchain. untuk meringankan.
 
-Bagi mereka yang ingin "Membina _Aplikasi Tidak Boleh_ ", kebenaran yang nyata ialah _Kod ialah Undang-undang_ adalah perkara yang menjadikan blockchain berharga. Itulah sebabnya mereka wujud. Tanpa Kod _ialah Undang-undang_, terdapat banyak cara yang lebih cekap untuk "Membina _Aplikasi_ Stoppable", seperti Perkhidmatan Web Amazon, jadi mengapa perlu repot-repot dengan blockchain sama sekali?
+Bagi mereka yang ingin "Membina _Aplikasi Tidak Boleh Dihentikan", kebenaran_ nyata ialah _Kod ialah Undang-undang_ adalah perkara yang menjadikan blockchain berharga. Itulah sebabnya mereka wujud. Tanpa Kod _ialah Undang-undang_, terdapat banyak cara yang lebih cekap untuk "Membina _Aplikasi_ Stoppable", seperti Perkhidmatan Web Amazon, jadi mengapa perlu repot-repot dengan blockchain sama sekali?
 
 ## Bukan tanpa Pergaduhan
 
@@ -62,13 +62,13 @@ Cara kita melibatkan diri bergantung pada mengiktiraf sempadan Kod _ialah Undang
 
 Frasa itu bukan _sahaja Kod ialah Undang-undang_. Konsep Kod _ialah Undang-undang_ bercanggah tentang cara mana-mana konstabula tempatan tertentu mengendalikan ketakbolehhalangan Kontrak Pintar dalam bidang kuasa luar rantaian mereka. Kecurian mata wang kripto, sebagai contoh, dianggap menyalahi undang-undang di banyak tempat, dan penyokong _Kod ialah Undang-undang_ secara konsisten boleh menyokong pemulangan dana yang dicuri sambil juga menentang pembalikan transaksi yang berniat jahat.
 
-Memandangkan terdapat banyak bidang kuasa undang-undang dan pelbagai pendekatan untuk kepolisan, blok *Code is Law* mengakui bahawa untuk kekal relevan dan boleh diakses secara global, mereka mesti neutral dan mematuhi ** kontrak mereka sendiri. Kebimbangan di luar rantaian adalah di luar tanggungjawab rantaian, yang hanya berperanan untuk memastikan urus niaga _bukan_ boleh diterbalikkan melalui gangguan pihak ketiga terhadap protokol.
+Memandangkan terdapat banyak bidang kuasa undang-undang dan pelbagai pendekatan kepolisan, blok *Code is Law* mengakui bahawa untuk kekal relevan dan boleh diakses secara global, mereka mesti neutral dan mematuhi perjanjian kontrak mereka sendiri. Kebimbangan di luar rantaian adalah di luar tanggungjawab rantaian, yang hanya berperanan untuk memastikan urus niaga _bukan_ boleh diterbalikkan melalui gangguan pihak ketiga terhadap protokol.
 
 _Code is Law_ blockchains ialah sistem ikut serta yang boleh mempunyai akibat di luar rantaian yang bergantung pada cara ia digunakan. Dengan cara yang sama bahawa api boleh digunakan untuk kehangatan dan kemusnahan, sebagai primitif teknologi baharu, mengehadkan penggunaannya hanya akan menghalang pengehad, yang akan ditinggalkan apabila orang lain mengambil kesempatan daripadanya. Tidak ada persoalan bahawa cabaran besar wujud dalam memikirkan cara dunia berinteraksi dengan teknologi baharu ini, tetapi itu bergantung kepada kecenderungan budaya dan tidak semestinya dalam kawalan ahli teknologi. Walau apa pun, tolong jangan tembak messenger.
 
 ### Di luar Lapisan Kontrak
 
-Salah tanggapan yang lazim mengenai Kod _ialah Undang-undang_ ialah ia terpakai pada semua bahagian timbunan teknologi blockchain, termasuk kod pelanggan nod. Ini tidak masuk akal, kerana nod blockchain ditulis dalam bahasa pengaturcaraan konvensional dan beroperasi dalam persekitaran pelaksanaan tradisional, di mana kod tidak boleh menjadi undang-undang jika ia mahu. Sebaliknya, pelanggan blockchain ditulis untuk mengambil bahagian dalam protokol __yang diberikan, yang operasinya mewujudkan persekitaran pelaksanaan terdesentralisasi baharu; _Lapisan Kontrak_ yang terletak di atas, di mana _Kod ialah Undang-undang_ boleh beroperasi.
+Salah tanggapan yang lazim mengenai Kod _ialah Undang-undang_ ialah ia terpakai pada semua bahagian timbunan teknologi blockchain, termasuk kod pelanggan nod. Ini tidak masuk akal, kerana nod blockchain ditulis dalam bahasa pengaturcaraan konvensional dan beroperasi dalam persekitaran pelaksanaan tradisional, di mana kod tidak boleh menjadi undang-undang jika ia mahu. Sebaliknya, pelanggan blockchain ditulis untuk mengambil bahagian dalam protokol _blockchain yang_, yang operasinya mewujudkan persekitaran pelaksanaan terdesentralisasi baharu; _Lapisan Kontrak_ yang terletak di atas, di mana _Kod ialah Undang-undang_ boleh beroperasi.
 
 ### 9 daripada 10 Rantaian
 

@@ -44,6 +44,9 @@ learn:
       name: יֶדַע
       description: קריאה נוספת על היסודות העומדים בבסיס ETC
       navItems:
+        course:
+          name: קוּרס
+          description: סדרת סרטונים וכתבות מובנית על Ethereum Classic
         foundation:
           name: קרן
           description: עקרונות הליבה המהווים את הבסיס הפילוסופי האיתן של ETC

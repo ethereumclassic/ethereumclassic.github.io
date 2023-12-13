@@ -5,10 +5,6 @@ description: |
 items:
   monitors:
     items:
-      etc-network.info:
-        description: Mala stranica koja će vam pomoći u navigaciji uslugama koje nudi etc-network.info.
-      ETCNodes:
-        description: Ethereum Classic mainnet node explorer.
       2Miners:
         description: Nadzorna ploča statistike Ethereum Classic pruža najvažniju statistiku blockchaina, grafikone i druge metrike performansi snimljene izravno s mrežnih čvorova.
       CoinMetrics:
@@ -17,6 +13,10 @@ items:
         description: Informacije o rudarenju Ethereum Classic - uključujući kalkulator rudarenja Ethereum Classic, popis hardvera za rudarenje Ethereum Classic, poteškoće Ethereum Classic s povijesnim grafikonima, grafikone hashratea Ethereum Classic, kao i trenutnu cijenu Ethereum Classic.
       Emerald Insights:
         description: Emerald Insights je dio projekta Emerald koji bi trebao pružiti statistiku, praćenje i napredne informacije o kriptovalutama koje koristi Emerald.
+      etc-network.info:
+        description: Mala stranica koja će vam pomoći u navigaciji uslugama koje nudi etc-network.info.
+      ETCNodes:
+        description: Ethereum Classic mainnet node explorer.
       ForkWatch:
         description: ForkWatch je NiceHash alat za praćenje koji upozorava na anomalije na određenim algoritmima na NiceHash tržištu, posebno kada se mijenja cijena najma BTC/TH/Day. To pomaže dionicima određenih kovanica da budu upozoreni u slučaju da se moć rudarenja potencijalno iznajmi za dolazni napad na određenu mrežu.
       MiningPoolStats:
@@ -25,11 +25,9 @@ items:
         description: Povijesne poteškoće, poteškoće, vrijeme bloka i cijena.
       PoolDetective:
         description: Skupovi za rudarenje važni su igrači u kriptovalutama s dokazom o radu. Ali tko nadzire na čemu govore svojim rudarima da rade? MIT-ova Inicijativa za digitalnu valutu započela je projekt u ljeto 2019. za početak praćenja ponašanja bazena za rudarenje.
-      TokenView:
-        description: Standardna povijesna mrežna statistika.
-      WhatToMine:
-        description: Kalkulator profitabilnosti za rudarenje Ethereum Classic i drugih lanaca.
-      Kotti Stats:
-        description: Statistika mreže za Ethereum Classic Kotti Testnet.
+      Tokenview:
+        description: Tokenview pruža General Multi-Crypto Blockchain Explorer prema broju pokrivenih javnih blockchaina, brzu i stabilnu blockchain API uslugu, koja služi milijunima korisnika, tvrtki, projekata i financijskih institucija od 2017. godine.
       ua-mining:
         description: Ethereum Classic nadzorna ploča statistike.
+      WhatToMine:
+        description: Kalkulator profitabilnosti za rudarenje Ethereum Classic i drugih lanaca.

@@ -1,169 +1,172 @@
-title: crwdns72256:0crwdne72256:0
-seo: "crwdns72258:0crwdne72258:0"
+title: crwdns125923:0crwdne125923:0
+seo: "crwdns125925:0crwdne125925:0"
 #Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
-metaLocale: crwdns72260:0crwdne72260:0
+metaLocale: crwdns125927:0crwdne125927:0
 #Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
-htmlLang: crwdns72262:0crwdne72262:0
-published: crwdns72264:0crwdne72264:0
-updated: crwdns72266:0crwdne72266:0
-author: crwdns72268:0crwdne72268:0
+htmlLang: crwdns125929:0crwdne125929:0
+published: crwdns125931:0crwdne125931:0
+updated: crwdns125933:0crwdne125933:0
+author: crwdns125935:0crwdne125935:0
 timeline:
-  chronological: crwdns72270:0crwdne72270:0
-  reversed: crwdns72272:0crwdne72272:0
+  chronological: crwdns125937:0crwdne125937:0
+  reversed: crwdns125939:0crwdne125939:0
 disclaimers:
   verify:
-    title: crwdns72274:0crwdne72274:0
-    text: crwdns72276:0crwdne72276:0
+    title: crwdns125941:0crwdne125941:0
+    text: crwdns125943:0crwdne125943:0
   opinion:
-    title: crwdns72278:0crwdne72278:0
-    text: crwdns72280:0crwdne72280:0
-next: crwdns72282:0crwdne72282:0
-prev: crwdns72284:0crwdne72284:0
-contribute: crwdns72286:0[Discord]crwdnd72286:0[GitHub]crwdne72286:0
-contributors: "crwdns72288:0crwdne72288:0"
-allLanguages: crwdns72290:0crwdne72290:0
-noResults: crwdns72292:0crwdne72292:0
-netlify: crwdns72294:0crwdne72294:0
-crowdin: crwdns100909:0crwdne100909:0
-metaMask: crwdns72296:0crwdne72296:0
-helpTranslate: crwdns72298:0crwdne72298:0
-noItems: crwdns72300:0crwdne72300:0
+    title: crwdns125945:0crwdne125945:0
+    text: crwdns125947:0crwdne125947:0
+next: crwdns125949:0crwdne125949:0
+prev: crwdns125951:0crwdne125951:0
+contribute: crwdns125953:0crwdne125953:0
+contributors: "crwdns125955:0crwdne125955:0"
+allLanguages: crwdns125957:0crwdne125957:0
+noResults: crwdns125959:0crwdne125959:0
+netlify: crwdns125961:0crwdne125961:0
+crowdin: crwdns125963:0crwdne125963:0
+metaMask: crwdns125965:0crwdne125965:0
+helpTranslate: crwdns125967:0crwdne125967:0
+noItems: crwdns125969:0crwdne125969:0
 search:
-  box: crwdns72302:0crwdne72302:0
-  noResults: crwdns72304:0crwdne72304:0
-  poweredBy: crwdns72306:0crwdne72306:0
-  generalInfo: crwdns72308:0crwdne72308:0
-  blogArticles: crwdns72310:0crwdne72310:0
-  videos: crwdns72312:0crwdne72312:0
-  applications: crwdns72314:0crwdne72314:0
-  newsLinks: crwdns72316:0crwdne72316:0
-  txSearch: crwdns72318:0crwdne72318:0
-  blockScout: "crwdns72320:0crwdne72320:0"
-  explorers: crwdns72322:0crwdne72322:0
+  box: crwdns125971:0crwdne125971:0
+  noResults: crwdns125973:0crwdne125973:0
+  poweredBy: crwdns125975:0crwdne125975:0
+  generalInfo: crwdns125977:0crwdne125977:0
+  blogArticles: crwdns125979:0crwdne125979:0
+  videos: crwdns125981:0crwdne125981:0
+  applications: crwdns125983:0crwdne125983:0
+  newsLinks: crwdns125985:0crwdne125985:0
+  txSearch: crwdns125987:0crwdne125987:0
+  blockScout: "crwdns125989:0crwdne125989:0"
+  explorers: crwdns125991:0crwdne125991:0
 qa:
-  show: crwdns108533:0crwdne108533:0
-  hide: crwdns108535:0crwdne108535:0
+  show: crwdns125993:0crwdne125993:0
+  hide: crwdns125995:0crwdne125995:0
 ##
 ## Announcement Banner
 announcement:
   __color: green
   __enabled: 1
   __allPages: 0
-  __alli18nPages: 1
-  __icon: language
+  __onlyi18n: 0
+  __icon: bullhorn
   text: |
-    crwdns108527:0crwdne108527:0
+    crwdns128872:0crwdne128872:0
   button:
-    __link: 'https://github.com/ethereumclassic/ethereumclassic.github.io#translations'
-    text: "crwdns72338:0crwdne72338:0"
+    __link: /blog/2023-12-09-spiral-fork-announcement
+    text: "crwdns128876:0crwdne128876:0"
+## Global Disclaimer
+disclaimer: |
+  crwdns128878:0crwdne128878:0
 ## Footer
-signOff: crwdns72340:0crwdne72340:0
-socialHilight: crwdns72342:0crwdne72342:0
+signOff: crwdns126013:0crwdne126013:0
+socialHilight: crwdns126015:0crwdne126015:0
 socialItems:
   discord:
     __link: https://ethereumclassic.org/discord
     __icon: discord
     __hilight: 1
-    name: crwdns72350:0crwdne72350:0
+    name: crwdns126023:0crwdne126023:0
   discordCoop:
     __link: https://discord.gg/5wDyd6u6pU
     __icon: discord
-    name: crwdns72356:0crwdne72356:0
+    name: crwdns126029:0crwdne126029:0
   twitterEthclassic:
     __link: https://twitter.com/eth_classic
     __icon: twitter
-    name: crwdns108685:0crwdne108685:0
+    name: crwdns126035:0crwdne126035:0
   twitterEtcnetwork:
     __link: https://twitter.com/ETC_Network
     __icon: twitter
-    name: crwdns108691:0crwdne108691:0
+    name: crwdns126041:0crwdne126041:0
   githubOrg:
     __link: https://github.com/ethereumclassic
     __icon: github
-    name: crwdns72362:0crwdne72362:0
+    name: crwdns126047:0crwdne126047:0
   githubLabs:
     __link: https://github.com/etclabscore
     __icon: github
-    name: crwdns72368:0crwdne72368:0
+    name: crwdns126053:0crwdne126053:0
   reddit:
     __link: https://reddit.com/r/ethereumclassic
     __icon: reddit
-    name: crwdns72374:0crwdne72374:0
+    name: crwdns126059:0crwdne126059:0
 appTypes:
   finance:
     __color: green
     __icon: finance
-    name: crwdns72386:0crwdne72386:0
+    name: crwdns126065:0crwdne126065:0
   games:
     __icon: game
     __color: blue
-    name: crwdns72392:0crwdne72392:0
+    name: crwdns126071:0crwdne126071:0
   identity:
     __icon: identity
     __color: red
-    name: crwdns72398:0crwdne72398:0
+    name: crwdns126077:0crwdne126077:0
   interoperability:
     __icon: exchange
     __color: yellow
-    name: crwdns72404:0crwdne72404:0
+    name: crwdns126083:0crwdne126083:0
   nfts:
     __icon: award
     __color: purple
-    name: crwdns72410:0crwdne72410:0
+    name: crwdns126089:0crwdne126089:0
   other:
     __icon: etc
     __color: gray
-    name: crwdns72416:0crwdne72416:0
+    name: crwdns126095:0crwdne126095:0
 appLinks:
-  homepage: crwdns72418:0crwdne72418:0
-  app: crwdns72420:0crwdne72420:0
-  twitter: crwdns72422:0crwdne72422:0
-  github: crwdns72424:0crwdne72424:0
+  homepage: crwdns126097:0crwdne126097:0
+  app: crwdns126099:0crwdne126099:0
+  twitter: crwdns126101:0crwdne126101:0
+  github: crwdns126103:0crwdne126103:0
 newsTypes:
   news:
-    name: crwdns72426:0crwdne72426:0
+    name: crwdns126105:0crwdne126105:0
     __icon: external
   blog:
-    name: crwdns72430:0crwdne72430:0
+    name: crwdns126109:0crwdne126109:0
     __icon: news
   application:
-    name: crwdns72434:0crwdne72434:0
-    prefix: "crwdns108523:0crwdne108523:0"
+    name: crwdns126113:0crwdne126113:0
+    prefix: "crwdns126115:0crwdne126115:0"
     __icon: cursor
   video:
-    name: crwdns72440:0crwdne72440:0
-    prefix: "crwdns108525:0crwdne108525:0"
+    name: crwdns126119:0crwdne126119:0
+    prefix: "crwdns126121:0crwdne126121:0"
     __icon: video
 ## App Modal
 appModal:
-  verifiedContract: crwdns72446:0crwdne72446:0
-  openSource: crwdns72448:0crwdne72448:0
-  audit: crwdns72450:0crwdne72450:0
-  testSuite: crwdns72452:0crwdne72452:0
-  ipfsFrontend: crwdns72454:0crwdne72454:0
-  checkListRating: crwdns72456:0crwdne72456:0
-  warning: "crwdns72458:0crwdne72458:0"
-  added: crwdns72460:0crwdne72460:0
+  verifiedContract: crwdns126125:0crwdne126125:0
+  openSource: crwdns126127:0crwdne126127:0
+  audit: crwdns126129:0crwdne126129:0
+  testSuite: crwdns126131:0crwdne126131:0
+  ipfsFrontend: crwdns126133:0crwdne126133:0
+  checkListRating: crwdns126135:0crwdne126135:0
+  warning: "crwdns126137:0crwdne126137:0"
+  added: crwdns126139:0crwdne126139:0
 ## Tags
-tags: crwdns108693:0crwdne108693:0
+tags: crwdns126141:0crwdne126141:0
 tagNames:
-  blog: crwdns108695:0crwdne108695:0
-  announcement: crwdns108697:0crwdne108697:0
-  application: crwdns108699:0crwdne108699:0
-  development: crwdns108701:0crwdne108701:0
-  education: crwdns108703:0crwdne108703:0
-  event: crwdns108705:0crwdne108705:0
-  exchange: crwdns108707:0crwdne108707:0
-  guide: crwdns108709:0crwdne108709:0
-  hardfork: crwdns108711:0crwdne108711:0
-  media: crwdns108713:0crwdne108713:0
-  mining: crwdns108715:0crwdne108715:0
-  podcast: crwdns108717:0crwdne108717:0
-  teams: crwdns108719:0crwdne108719:0
-  trading: crwdns108721:0crwdne108721:0
-  wallet: crwdns108723:0crwdne108723:0
-  video: crwdns108725:0crwdne108725:0
-  news: crwdns109173:0crwdne109173:0
-  external: crwdns109175:0crwdne109175:0
-  philosophy: crwdns108729:0crwdne108729:0
-  series: crwdns108731:0crwdne108731:0
+  blog: crwdns126143:0crwdne126143:0
+  announcement: crwdns126145:0crwdne126145:0
+  application: crwdns126147:0crwdne126147:0
+  development: crwdns126149:0crwdne126149:0
+  education: crwdns126151:0crwdne126151:0
+  event: crwdns126153:0crwdne126153:0
+  exchange: crwdns126155:0crwdne126155:0
+  guide: crwdns126157:0crwdne126157:0
+  hardfork: crwdns126159:0crwdne126159:0
+  media: crwdns126161:0crwdne126161:0
+  mining: crwdns126163:0crwdne126163:0
+  podcast: crwdns126165:0crwdne126165:0
+  teams: crwdns126167:0crwdne126167:0
+  trading: crwdns126169:0crwdne126169:0
+  wallet: crwdns126171:0crwdne126171:0
+  video: crwdns126173:0crwdne126173:0
+  news: crwdns126175:0crwdne126175:0
+  external: crwdns126177:0crwdne126177:0
+  philosophy: crwdns126179:0crwdne126179:0
+  series: crwdns126181:0crwdne126181:0

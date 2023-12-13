@@ -114,7 +114,7 @@ In un certo senso, tutte le reti Proof of Stake sono già _soft captured_, poich
 
 Prendiamo l'esempio di una persona proveniente da una nazione meno sviluppata o isolata, che non ha la possibilità di effettuare transazioni in dollari; senza accesso al sistema bancario, e quindi all'onboarding attraverso le borse, e senza nessuno disposto a effettuare una transazione OTC in contanti nella sua zona, può sempre acquisire le valute Proof of Work semplicemente acquistando un hardware per estrarle. Questo stesso utente è escluso dalle blockchain Proof of Stake, rendendo queste reti meno accessibili, meno utili e meno preziose.
 
-### Centralizzazione delle puntate sulle borse
+### Centralizzazione dello Staking sugli Exchange
 
 L'elevata barriera tecnica e la _paura di sbagliare_ quando si gestisce un nodo e si effettua il picchettamento manuale lo rendono irraggiungibile per la stragrande maggioranza dei possessori occasionali di criptovalute, per cui è probabile che quasi tutti utilizzino servizi di terze parti, di solito le borse, per effettuare il picchettamento.
 
@@ -146,7 +146,7 @@ Le catene Proof of Stake possono essere definitivamente interrotte se un attacca
 
 Alcuni sostengono che non c'è _incentivo economico diretto_ a provocare un attacco di questo tipo perché l'attaccante rischia di svalutare le proprie partecipazioni, il che può essere vero, ma questa è anche un'ammissione del fatto che le catene di Proof of Stake sono suscettibili di essere bloccate tramite _incentivi economici indiretti_ come lo shorting. Ancora più importante, le catene di PoS sono suscettibili di attacchi al 33% da parte di attori come gli Stati nazionali, dove gli incentivi finanziari non sono la motivazione primaria, suggerendo che _Resistenza alla censura di grado sovrano_ non è oggetto di preoccupazione.
 
-### Perizia perpetuamente pura
+### Pwnage Perennemente Puro
 
 L'attacco di Proof of Stake _33%_ è un problema molto più grave dell'attacco di Proof of Work _51%_, che non è permanente in quanto ha un costo esterno continuo di elettricità, il che li rende poco pratici da eseguire per periodi prolungati. Inoltre, poiché gli attacchi al 51% hanno un costo iniziale e, a differenza di quelli al 33%, non hanno garanzia di successo, diminuisce l'incentivo a eseguirli, per non parlare dei costi di persistenza.
 
@@ -154,7 +154,7 @@ Sebbene gli attacchi al 51% nei sistemi di Proof of Work possano essere dannosi,
 
 Nelle catene PoS, una volta che un attaccante raggiunge una certa soglia di partecipazione, la catena non può più riprendersi; poiché l'attaccante non ha bisogno di impegnare risorse esterne, non può essere eliminato. L'unica soluzione a questo stato di fallimento è l'hard-forking che allontana l'attaccante, il che rompe _Code is Law_, vanifica lo scopo di avere una blockchain, aggiunge soggettività e centralizza ulteriormente la catena.
 
-### Non c'è niente in gioco
+### Niente in gioco
 
 In Proof of Work, se si verifica una biforcazione, i minatori devono decidere quale lato della biforcazione minare, poiché c'è un costo elettrico esterno associato alla creazione dei blocchi. Se i minatori estraggono la forchetta "sbagliata", la loro ricompensa diventerà priva di valore e avranno sprecato l'elettricità spesa per estrarla, quindi devono scegliere cosa estrarre con saggezza; c'è in gioco il costo _dell'elettricità_ .
 

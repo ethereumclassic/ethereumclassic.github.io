@@ -63,7 +63,7 @@ ETC heeft ervoor gekozen deze vaardigheden te maximaliseren omdat een blockchain
 
 Vandaag hebben de meeste blockchainprojecten het idee van maximale decentralisatie verlaten in ruil voor schaalbaarheid en de voordelen van coördinatie vanuit een centrale groep. Dit kan wel nuttig zijn voor het opstarten op korte termijn, omdat het de financiering van extravagante ontwikkelings- of marketingbudgetten mogelijk maakt, en er is geen duidelijke schaduwzijde in een omgeving die niet antagonistisch is, maar tenzij het project deze afhankelijkheid van centralisatie afbouwt, wat misschien onmogelijk is door de stimuleringsstructuren die het creëert, staat het netwerk bloot aan overname door het vastleggen van deze relatief gecentraliseerde opzet.
 
-### Soeverein verzet tegen censuur
+### Verzet tegen censuur van soevereine kwaliteit
 
 Een vraag die moet worden gesteld bij de evaluatie van verschillende blockchainprojecten is "is het voldoende gedecentraliseerd?". Het antwoord hierop hangt volledig af van het [bedreigingsmodel van de use case](https://en.wikipedia.org/wiki/Threat_model), dat afhangt van het soort toepassingen dat op een bepaalde keten moet worden uitgevoerd. De vraag kan worden geherformuleerd als "wie zou de toepassingen op deze keten willen tegenhouden, en kan de keten hun pogingen tot censuur weerstaan?".
 

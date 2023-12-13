@@ -44,6 +44,9 @@ learn:
       name: Connaissances
       description: Lectures complémentaires sur les fondations qui sous-tendent Ethereum Classic
       navItems:
+        course:
+          name: Cours
+          description: Une série structurée de vidéos et d'articles sur Ethereum Classic
         foundation:
           name: Fondation
           description: Les principes fondamentaux qui constituent la base philosophique solide d'Ethereum Classic
