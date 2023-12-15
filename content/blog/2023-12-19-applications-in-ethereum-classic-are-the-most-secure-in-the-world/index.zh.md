@@ -1,5 +1,5 @@
 ---
-title: "Applications in Ethereum Classic Are the most Secure in the World"
+title: "在以太经典上的应用是世界上最安全的"
 date: 2023-12-19
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,82 +8,82 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NFcB0iZgBJk?si=mDI8eXG-UWfPBMu_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-## What Is Security in the Blockchain Industry
+## 区块链行业中的安全性是什么
 
-In the context of the blockchain industry, the term “security” means to depend the least possible on trusted third parties when it comes to money and software applications to manage that money. 
+在区块链行业的背景下，“安全性”一词意味着在涉及货币和管理这些货币的软件应用时，尽量减少对可信第三方的依赖。
 
-A large part of the people who use these technologies come from advanced free nations, who tend to forget their revolutionary origins, and former lack of freedom, and have been attracted to the industry just for the speculative side, and, some, perhaps for the innovation. 
+使用这些技术的很大一部分人来自先进自由的国家，他们往往忘记了他们的革命起源和以前的缺乏自由，只是被行业的投机一面吸引，有些人可能是因为创新。
 
-However, proof of work (POW) blockchains such as Ethereum Classic (ETC) were invented to avoid the abuse of government, corporations, elites, and special interests. 
+然而，像以太经典（ETC）这样的工作量证明（POW）区块链是为了避免政府、企业、精英和特殊利益的滥用而发明的。
 
-This abuse is increasing even in advanced countries. Soon, the threat of global government, digital passports, CBDCs, constant health emergencies, climate hysteria (as seen by the attacks on POW), and generalized techno-tyranny will tend to enslave us, and the only escape will be non-compliance, and non-compliance will only be possible through technologies such as Ethereum Classic.
+即使在先进国家，这种滥用也在增加。很快，全球政府、数字护照、中央银行数字货币（CBDCs）、持续的健康紧急状况、气候恐慌（正如对POW的攻击所示）以及普遍的技术专制将倾向于奴役我们，唯一的逃脱将是不服从，而通过以太经典等技术，不服从才能成为可能。
 
-## The Keys to Ethereum Classic’s Security
+## 以太经典安全性的关键
 
-ETC has a unique set of attributes that no other network shares combined:
+ETC具有一组独特的属性，其他网络没有结合：
 
-**POW:** ETC is proof of work, which is the most secure consensus mechanism.
+**工作量证明：** ETC是工作量证明，这是最安全的共识机制。
 
-**Digital gold:** ETC is digital gold because it is POW and because it has a fixed monetary policy with a cap at 210,700,000 coins.
+**数字黄金：** ETC是数字黄金，因为它是POW，并且有一个固定的货币政策，硬顶为2,107万个硬币。
 
-**Programmable:** ETC is programmable with smart contracts which makes it programmable digital gold.
+**可编程性：** ETC可通过智能合约进行编程，使其成为可编程的数字黄金。
 
-**Fully replicated:** ETC is a fully replicated blockchain, which gives it redundancy globally protecting it from any contingency, caused either by nature or man.
+**完全复制：** ETC是一个完全复制的区块链，全球范围内的冗余性保护它免受任何由自然或人为引起的突发情况的影响。
 
-**Composable:** ETC is composable because all its data is unified under one single blockchain.
+**可组合：** ETC是可组合的，因为所有数据都统一在一个单一的区块链下。
 
-**The largest one:** ETC is the largest POW smart contracts blockchain in the world since Ethereum migrated to proof of stake (POS) in September of 2022.
+**最大的区块链：** 由于以太坊于2022年9月迁移到权益证明（POS），ETC是全球最大的POW智能合约区块链。
 
-## ETC Smart Contracts Are Better Than Bitcoin Smart Contracts
+## ETC智能合约比比特币智能合约更好
 
-The fallacy regarding Bitcoin (BTC) programmability, for example, is that smart contracts really don’t exist inside BTC because they run on layer 2 systems. If apps are not inside Bitcoin’s highly secure environment, then they are not secure.
+关于比特币（BTC）可编程性的谬论，例如，是因为智能合约实际上并不存在于BTC内部，因为它们在第2层系统上运行。如果应用程序不在比特币的高度安全的环境中，则它们就不安全。
 
-The security of Ethereum Classic is unrivaled because all the components to run decentralized applications are inside its highly secure proof of work system.
+以太经典的安全性是无与伦比的，因为运行去中心化应用程序的所有组件都在其高度安全的工作量证明系统内。
 
-On top of that, any system that is divided in layers and separated components cannot be composable.
+此外，任何分层和分离组件的系统都不能是可组合的。
 
-Composability, the ability to execute multi-application transactions in one execution, is a major advantage of an integrated system as ETC.
+可组合性，即在一个执行中执行多应用程序交易的能力，是ETC作为一个集成系统的主要优势。
 
-Composability reduces settlement times and frictional costs, therefore further reducing risks in the use of any kind of application.
+可组合性降低了结算时间和摩擦成本，从而在使用任何类型的应用程序时进一步降低了风险。
 
-## ETC Smart Contracts Are Better Than Ethereum Smart Contracts
+## ETC智能合约比以太坊智能合约更好
 
-There is a narrative in POS circles that POS networks such as Ethereum are superior to POW blockchains such as Bitcoin and ETC because POS offers deterministic finality, but POW offers only probabilistic finality. 
+在POS圈子里存在一种说法，即POS网络（如以太坊）比POW区块链（如比特币和ETC）更优越，因为POS提供确定性终局，而POW只提供概率性终局。
 
-This is a naive argument because both POS and POW are probabilistic, but the probability of reversing transactions in POS is much higher than in POW!
+这是一个天真的论点，因为POS和POW都是概率性的，但在POS中撤销交易的概率要比在POW中高得多！
 
-POS has no barrier to re-write the ledger, but POW has an enormous physical barrier. 
+POS没有重新编写分类账的障碍，但POW有巨大的物理障碍。
 
-POW blockchain transactions are irreversible not because the protocol has man made rules prohibiting it, or what they call “deterministic finality”, but because of the magnitude of the work that would be needed to do so, which could be called “physical finality”.
+POW区块链交易是不可逆转的，不是因为协议有禁止它的人为规定，或者他们所谓的“确定性终局”，而是因为执行此操作所需的工作量巨大，这可以称为“物理终局”。
 
-This makes ETC decentralized applications orders of magnitude more secure, thus better, than Ethereum’s. 
+这使得ETC的去中心化应用程序比以太坊的安全得多，因此更好。
 
-## Ethereum Classic and the Web3
+## 以太经典和Web3
 
-The web3 concept suffers of the same fallacies as the layered concept, that supposedly makes plain vanilla POW blockchains as Bitcoin programmable, and the POS concept, that supposedly makes networks as Ethereum have higher finality guarantees.
+Web3的概念遭受了与分层概念相同的谬误，即普通的POW区块链，如比特币，可以被编程，以及POS概念，即网络，如以太坊，具有更高的终局保证。
 
-The layered fallacy is that just the mere fact that the smart contracts are not inside a POW environment, and that any connectivity between blockchain systems must be insecure, necessarily makes the web3 less secure than using a single integrated network as ETC.
+分层的谬误在于，智能合约不仅不在POW环境内，而且在区块链系统之间的任何连接必须是不安全的，这必然使得Web3比使用ETC等单一集成网络更不安全。
 
-The POS fallacy is that man made rules of finality are inconsequential if the whole blockchain may be trivially reversed because it doesn’t have any proof of work done at all.
+POS的谬误在于，如果整个区块链可以轻松地被反转，因为它根本没有进行任何工作量证明，那么人为制定的终局规则是无关紧要的。
 
-All this means that if the web3 will depend on separated components and some of those will be POS, then any application running on this paradigm will be as weak as its weakest link.
+所有这一切意味着，如果Web3依赖于分离的组件，并且其中一些将是POS，那么在这个范 paradigm 上运行的任何应用程序都将与其最薄弱的链接一样脆弱。
 
-## Therefore, ETC Apps Are the Most Secure in the World
+## 因此，ETC应用程序是世界上最安全的
 
 ![](./1.png)
 
-In summary, Ethereum Classic is the environment where the most secure applications in the world will exist because it is a proof of work blockchain, it has a fixed monetary policy, it is programmable, fully replicated, composable, and is the largest one in the world with this combined design.
+总之，以太经典是世界上最安全的应用程序存在的环境，因为它是一个工作量证明的区块链，具有固定的货币政策，是可编程的、完全复制的、可组合的，而且是世界上最大的具有这种组合设计的区块链。
 
-These attributes in the same integrated system provide the highest level of decentralization, thus trust minimization, thus security for any application hosted in it.
+这些属性在同一集成系统中提供了最高水平的去中心化、最小化信任，因此对于托管在其中的任何应用程序而言，都提供了最高水平的安全性。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
