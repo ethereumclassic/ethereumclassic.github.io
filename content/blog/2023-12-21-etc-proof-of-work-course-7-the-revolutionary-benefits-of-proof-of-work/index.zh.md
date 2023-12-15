@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 7. The Revolutionary Benefits of Proof of Work"
+title: "ETC工作量证明课程：第7课 - 工作量证明的革命性好处"
 date: 2023-12-21
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y-tA0WKV7PY?si=76iqXIHcxPi44p-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,68 +16,68 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-From classes 1 through 5 of this course, we have explained how proof of work (POW) works in detail. 
+在这门课的第1到第5节中，我们详细解释了工作量证明（POW）的工作原理。
 
-In class 6, we explained the great advantages of Ethereum Classic (ETC) with regards to Bitcoin (BTC) and Ethereum (ETH).
+在第6节中，我们解释了以太经典（ETC）相对于比特币（BTC）和以太坊（ETH）的巨大优势。
 
-In this class, 7, we will go over what were the revolutionary benefits of the proof of work based Nakamoto Consensus.
+在第7节中，我们将讨论基于工作量证明的中本聪共识的革命性好处。
 
-We will explain that it enables consensus between all computers in the system, it provides a focal point for all participants, protects the history of transactions, and creates hard money.
+我们将解释它如何在系统中实现所有计算机之间的共识，提供所有参与者的焦点，保护交易历史，并创建硬货币。
 
-The fruits of these benefits are decentralization, permissionlessness, censorship resistance, and trust minimization.
+这些好处的成果是去中心化、无需许可、抗审查和最小信任。
 
-## 1. How Proof of Work Enables Consensus
+## 1. 工作量证明如何实现共识
 
 ![](./1.png)
 
-Proof of work enables consensus between all computers in the network because the only block that will be accepted as the latest block by all nodes in the network will be the one that has all the work done. 
+工作量证明通过使网络中的所有计算机仅接受完成了所有工作的最新区块，实现了系统中所有计算机之间的共识。
 
-It is very easy for all nodes to decide on the same exact block in every round because any alternative block sent by imposters that did not do the work will always be rejected.
+因为任何由冒名顶替者发送的未完成工作的替代区块都将被拒绝，所以所有节点在每一轮中都很容易决定相同的确切区块。
 
-An analogy of this method could be to think of someone who receives many boxes but needs to decide which is the most valuable box in every round. 
+这种方法的类比可以想象成一个人收到许多箱子，但需要决定每一轮哪个箱子最有价值。
 
-Of all the boxes that he receives in every round, most are made of cardboard except one which is made of gold. Because the gold box is very easy to differentiate from the cardboard boxes and is the most valuable, then it is very easy to know which is the correct one in each round.
+在每一轮中，他收到的大多数箱子都是纸板制成的，只有一个是由金子制成的。由于金箱子很容易与纸箱区分开并且最有价值，因此在每一轮中很容易知道哪个是正确的。
 
-## 2. How Proof of Work Provides a Focal Point
+## 2. 工作量证明如何提供焦点
 
-Proof of work provides a focal point for any computer in the world to enter, exit, or reenter the network as the same information; the great amount of work done by miners; that assures perfect consensus every round between all machines of the system, is the same information that may be used by any new entrant, or any machine that leaves and wants to enter again, to know which is the correct chain of blocks to join just by verifying that the work was done. 
+工作量证明为世界上的任何计算机提供了一个焦点，以相同的信息进入、退出或重新加入网络；由矿工完成的大量工作；保证了每轮系统中所有计算机之间的完美共识，这是任何新参与者或任何离开并希望重新加入的计算机可以使用的相同信息，只需验证已完成工作即可知道正确的区块链。
 
-Any proposed imposter chains that did not do the work will always be rejected.
+任何未完成工作的冒名顶替链都将被拒绝。
 
-For example, if someone downloads and starts running the ETC software client, that node will start communicating with existing nodes in the blockchain and receiving from them the blocks of the whole history.
+例如，如果有人下载并开始运行ETC软件客户端，该节点将开始与区块链中的现有节点通信，并从它们那里接收整个历史的区块。
 
-Because all the blocks have the accumulated work done in all of ETC’s history, then it is practically impossible for any malicious actor to trick this node into joining a alternative nefarious chain.
+由于所有区块都包含ETC整个历史上累积的工作，因此几乎不可能让任何恶意行为者欺骗该节点加入替代的邪恶链。
 
-## 3. How Proof of Work Provides Protection of Transaction History
+## 3. 工作量证明如何保护交易历史
 
-Proof of work provides protection of all the history of transactions because for any transaction that has been sent and included in a block, to be reversed, the same amount of work that was done for its inclusion must be done all over again, including all the blocks that were added on top. 
+工作量证明通过需要为包括在区块中的每个交易重新执行相同数量的工作（包括添加的所有区块），保护了所有交易历史。
 
-This deters attackers from reversing past transactions, and the older a transaction gets, the more difficult it is to reverse.
+这阻止了攻击者撤销过去的交易，而且交易变得越老，要撤销就变得越困难。
 
-For example, if each block in Bitcoin costs $300,000 in capital and electricity to build, and someone wants to reverse a transaction that happened 1,000 blocks in the past, then it would cost them $300,000,000 in capital and electricity to be able to accomplish that. If the transaction were 2,000 blocks away, then it would cost $600,000,000, and so on.
+例如，如果比特币中的每个区块成本为30万美元（包括资本和电费），并且有人想要撤销发生在1000个区块之前的交易，那么它将花费3亿美元的资本和电费来完成这项任务。如果交易距离2,000个区块，那么成本将达到6亿美元，依此类推。
 
-## 4. How Proof of Work Creates Digital Gold
+## 4. 工作量证明如何创造数字黄金
 
-Proof of work creates digital gold because the cost of creating the blocks is equal to the cost of creating the currency as the rewards are paid to miners only if they do the work required to hash or stamp the blocks.
+工作量证明创造数字黄金，因为创建区块的成本等于创建货币的成本，只有在矿工完成哈希或盖章区块的工作时才向矿工支付奖励。
 
-Additionally, blockchains such as Bitcoin and ETC have fixed monetary policies with capped supplies. This means that Bitcoin will have a total supply in its history of 21,000,000 coins and ETC of 210,700,000 coins. 
+此外，比特币和ETC等区块链具有固定的货币政策和有限供应。这意味着比特币的历史总供应量为21,000,000枚，ETC为210,700,000枚。
 
-This scarcity and unforgeable costliness of the cryptocurrencies make them similar in valuation as gold in the real world.
+这些加密货币的稀缺性和难以伪造的昂贵性使它们在现实世界中与黄金相似。
 
-## The Revolutionary Benefits of Proof of Work
+## 工作量证明的革命性好处
 
-The four benefits explained in the previous sections together form the most decentralized, permissionless, censorship resistant, and trust minimized, thus secure kind of network known to man. 
+前面解释的四个好处共同构成了人类所知道的最分散、无需许可、抗审查和最小信任的、因此最安全的网络。
 
-This is what was revolutionary about proof of work.
+这就是工作量证明的革命之处。
 
-## Proof of Work and Basic Rights
+## 工作量证明与基本权利
 
-Now that we know how POW works, its 4 revolutionary benefits, and the fruits of these benefits, which are decentralization, permissionlessness, censorship resistance, and trust minimization, we can study what are the implications for the entire world of this technology.
+现在我们知道了POW的工作原理、它的四个革命性的好处以及这些好处的成果——去中心化、无需许可、抗审查和最小信任，我们可以研究这项技术对整个世界的影响。
 
-In our next class, 8, we will talk about how POW promotes basic rights on a global scale.
+在我们的下一节，第8节，我们将讨论POW如何在全球范围内促进基本权利。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期内容!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
