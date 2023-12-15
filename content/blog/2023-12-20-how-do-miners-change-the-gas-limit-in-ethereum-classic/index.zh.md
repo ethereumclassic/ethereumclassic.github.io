@@ -1,5 +1,5 @@
 ---
-title: "How Do Miners Change the Gas Limit in Ethereum Classic?"
+title: "矿工如何在以太经典中更改燃气限制？"
 date: 2023-12-20
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0iBaEfb54mA?si=Pj6C_nuWylVCg0e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,80 +16,82 @@ linkImage: ./banner.png
 
 ![](./1.png)
 
-On November 7th of 2023 Ethereum Classic (ETC) developer and community member Garalo reported on the [ETC Discord server](https://ethereumclassic.org/discord) that he was having trouble attempting to launch smart contracts. He also reported that other developers had the same problem. 
+在2023年11月7日，以太经典（ETC）开发者和社区成员Garalo在[ETC Discord服务器](https://ethereumclassic.org/discord)上报告说，他尝试启动智能合约时遇到了问题。他还报告说其他开发者也遇到了同样的问题。
 
-At that time, ETC core developer Chris Ziogas responded to the concern and started to work on finding and solving the problem. 
+当时，ETC核心开发者Chris Ziogas回应了这个问题，并开始努力查找和解决问题。
 
 ![](./2.png)
 
-Around 9 hours later, ETC core developer Diego López León reported that the problem was that the gas limit per block in the Ethereum Classic network had been reduced by miners from the usual 8 million gas at which it was running to 1 million gas per block.
+大约9小时后，ETC核心开发者Diego López León报告说，问题在于以太经典网络中每个区块的燃气限制已被矿工从通常的800万燃气降低到每个区块的100万燃气。
 
-The gas limit establishes a maximum number of gas that may be used in a block, thus the size of the block itself, therefore the number of transactions and smart contracts that may fit.
+燃气限制规定了一个区块中可以使用的燃气的最大数量，因此确定了区块本身的大小，因此可以容纳的交易和智能合约的数量。
 
 ![](./3.png)
 
-The solution was to contact mining pools and miners to request them to raise the gas limit again to the 8 million level. 
+解决方案是联系矿池和矿工，请求他们将燃气限制再次提高到800万的水平。
 
-F2pool, the largest mining pool in the ETC blockchain, [responded](https://twitter.com/f2pool_official/status/1722142321377206441) within several hours that the change back to 8 million gas per block had been implemented.
+ETC区块链中最大的矿池F2pool在几小时内[回应](https://twitter.com/f2pool_official/status/1722142321377206441)说，已经实施了将每个区块的燃气限制更改回800万的操作。
 
 ![](./4.png)
 
-By the next day, the gas limit had returned back to the 8 million mark as reported by ETC core developer Isaac Ardis.
+次日，燃气限制恢复到800万标记，由ETC核心开发者Isaac Ardis报告。
 
 ![](./5.png)
 
-Later that day, developer and community member Garalo reported that his problem had been resolved and he could send smart contracts to ETC again.
+同一天晚些时候，开发者和社区成员Garalo报告说，他的问题已经解决，他可以再次发送智能合约到ETC。
 
 ![](./6.png)
 
-As we write this post, we can [see](https://etc.blockscout.com/stats) that the gas limit in ETC has been on its normal average of 8 million per block ever since. 
+截至我们撰写本文时，我们可以[看到](https://etc.blockscout.com/stats)，ETC的燃气限制自那时以来一直维持在每个区块的正常平均水平800万。
 
-The abnormal gas limit fluctuation lasted from October 19th to November 8th of 2023.
+异常的燃气限制波动持续了从2023年10月19日到11月8日。
 
-It is not known which miners or for what reason the gas limit was lowered in this incident, but it is possible it was just a parameter settings mistake. Others believe that it may have been an attempt by miners to increase fee revenues by restricting block space.
+目前不清楚在这一事件中是哪些矿工或出于何种原因降低了燃气限制，但有可能这只是一个参数设置错误。也有人认为，这可能是矿工试图通过限制区块空间来增加费用收入的尝试。
 
-## Why and How do Miners Change the Gas Limit?
+## 矿工为什么以及如何改变燃气限制？
 
 ![](./7.png)
 
-The way power is balanced in proof of work blockchains is that core developers propose the design of the protocol, miners produce blocks, and node operators verify the blocks. 
+在工作量证明区块链中，权力是如何平衡的：核心开发者提出协议的设计，矿工生成区块，节点运营者验证区块。
 
-If developers propose crazy rules for the system, miners and node operators may reject them or split, if miners propose dishonest blocks, node operators may reject them, and if node operators start to run software clients with new rules that have not been agreed by consensus, then developers and miners may rebuke them.
+如果开发者为系统提出荒谬的规则，矿工和节点运营者可以拒绝它们或分裂；如果矿工提出不诚实的区块，节点运营者可以拒绝它们；如果节点运营者开始运行未经共识同意的新规则的软件客户端，那么开发者和矿工可以指责他们。
 
-Taking into account this balancing act, when the Ethereum network was being created in 2014 and 2015, the original designers thought that the setting of the block size should be left to the miners in the free market. That miners should be able to raise or reduce the gas limit as they saw fit to adapt the conditions of the network to transaction volumes. 
+考虑到这种平衡，当以太坊网络在2014年和2015年创建时，最初的设计者认为区块大小的设置应该留给自由市场的矿工。矿工应该能够根据需要提高或降低燃气限制，以适应网络的交易量条件。
 
-By doing this, the reasoning went, developers would not have so much power and there would be a better balance amongst the different players of the system.
+据此推理，开发者将不会拥有太多权力，系统中的不同参与者之间将会有更好的平衡。
 
-Because Ethereum Classic is the original Ethereum blockchain, and it remains with the proof of work consensus mechanism, it inherited this feature.
+由于以太经典是原始的以太坊区块链，并且仍然采用工作量证明共识机制，因此继承了这一特性。
 
-The way miners, can increase or decrease the gas limit per block is by adjusting a simple parameter on a per block basis.
+矿工可以增加或减少每个区块的燃气限制，通过在每个区块的基础上调整一个简单的参数。
 
-Each block in ETC contains the gas limit that the miner who built it used. In ETC the average historical gas limit reported per block has been around 8 million gas.
+ETC中的每个区块包含构建它的矿工使用的燃气限制。在ETC中，每个区块的历史平均燃气限制约为800万燃气。
 
-If miners want to increase or decrease the gas limit, to increase or decrease the block size, to respond to increases or decreases in transaction volumes, they can increase or decrease the gas limit reported on a per block basis.
+如果矿工想要增加或减少燃气限制，以增加或减少区块大小，以响应交易量的增加或减少，他们可以在每个区块上报告燃气限制的增加或减少。
 
-However, they can only propose increments of 1/1024th over the previous block gas limit. 
+但是，他们只能提出相对于前一个区块燃气限制的1/1024的增量。
 
-For example, if the previous block mined had a gas limit of 8,000,000 established by the previous miner, then the next block’s gas limit can’t be more than 8,007,812 gas (7,812 is a 1024th of 8,000,000).
+例如，如果上一个被挖掘的区块的燃气限制由上一个矿工设定为800万，那么下一个区块的燃气限制不能超过800万812燃气（7812是800万的1/1024）。
 
-This means that the gas limit can only increase at these small increments, which may be called the block gas limit change rate, which is 0.0976% per block (1/1024 x 100).
+这意味着燃气限制只能以这些小的增量增加，这可以称为区块燃气限制变化率，即每个区块0.0976%（1/1024 x 100）。
 
-It also means that several thousand blocks should be built on ETC for significant increases or decreases of block size to happen. This is why it took several hours or days for the gas limit fluctuations to occur in ETC between October and November.
+这也意味着在ETC上要发生区块大小的显著增加或减少，需要建立几千个区块。这就是为什么在2023年10月至11月间，ETC的燃气限制波动需要几小时或几天的原因。
 
-As ETC blocks are created every 13 seconds on average, then it produces 6,646 blocks per day, which is a number enough to produce the recovery that was seen in the previous section.
+由于ETC区块平均每13秒创建一个，因此每天产生6646个区块，足以产生前一部分中所看
 
-## Should the Gas Limit be Fixed in ETC to Avoid These Situations?
+到的恢复。
 
-When observing the experience of Bitcoin, that blockchain started in 2009 with no block limit. Implicitly, this meant that miners had the option of filling each block with more or less transactions, occupying more or less space as they pleased. 
+## 在ETC中是否应该固定燃气限制以避免这些情况发生？
 
-However, to prevent spam or dishonest actors from creating large blocks to bloat the network, in 2010 Satoshi Nakamoto fixed the block size to 1 megabyte.
+观察比特币的经验，该区块链在2009年开始时没有区块限制。从含蓄的角度来看，这意味着矿工可以根据需要填充每个区块的更多或更少的交易，根据他们的意愿占用更多或更少的空间。
 
-Satoshi Nakamoto may be considered analogous to the core developer team in a blockchain. This means that the block size limit was hard coded and established by the core developer.
+然而，为了防止垃圾邮件或不诚实的行为者创建大区块来膨胀网络，2010年Satoshi Nakamoto将区块大小固定为1兆字节。
 
-As Bitcoin is the first and most successful blockchain in history, we could say, that it would be a good idea to imitate its model, therefore to eliminate the miner determined block gas limit and to fix it at an arbitrary level, for example at 8 million gas, which is the level that has been used historically by ETC.
+Satoshi Nakamoto可以被认为是区块链中的核心开发团队的类比。这意味着区块大小限制是通过硬编码并由核心开发者确定的。
+
+由于比特币是历史上第一个且最成功的区块链，我们可以说，模仿其模型，因此消除由矿工确定的区块燃气限制并将其固定在任意水平（例如800万燃气）可能是一个好主意。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
