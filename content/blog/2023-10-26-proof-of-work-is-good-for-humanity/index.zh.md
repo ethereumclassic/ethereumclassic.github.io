@@ -2,7 +2,7 @@
 title: "工作量证明对人类发展有益"
 date: 2023-10-26
 author: Donald McIntyre
-contributors: ["Donald McIntyre"]
+contributors: ["DonaldMcIntyre"]
 tags: ["philosophy"]
 linkImage: ./banner.png
 ---

@@ -43,7 +43,7 @@ Una de las ventajas de este enfoque es que Ethereum Classic puede quedarse al ma
 
 De este modo, otras cadenas de EVM pueden verse como redes de prueba incentivadas de Ethereum Classic, con pruebas mucho más rigurosas que las que podría ofrecer una red de prueba tradicional.
 
-## Mirando al futuro
+## Mirando hacia el futuro
 
 En el momento de escribir estas líneas, acaba de llegar el año 2022 y el ETC comienza el año con una gran actividad. Una letanía de nuevas aplicaciones de [](/services/apps) y los usuarios se han unido orgánicamente, y el ecosistema ETC está empezando a mostrar signos de efectos de red, lo que hará que la adopción se convierta en una bola de nieve a medida que la red sea más útil y valiosa.
 

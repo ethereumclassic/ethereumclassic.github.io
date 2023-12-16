@@ -2,7 +2,7 @@ title: Linha do tempo de eventos
 items:
   frontierRelease:
     title: Lançamentos Ethereum
-    text: Vitalik Buterin e The Ethereum Foundation criam a primeira plataforma de contrato inteligente Turing-completa baseada em blockchain com o lançamento da Frontier.
+    text: Vitalik Buterin e a Fundação Ethereum criaram a primeira plataforma de contrato inteligente Turing-complete baseada em blockchain com o lançamento do Frontier.
   frontierThawingUpgrade:
     title: Atualização de descongelamento de fronteira
     text: A rede implementa uma 'Era do Gelo' no bloco 200.000 introduzindo a bomba de dificuldade, um mecanismo projetado para mover o mecanismo de consenso da rede de Proof-of-Work para Proof-of-Stake.
@@ -269,19 +269,13 @@ items:
     text: Os principais desenvolvedores do Ethereum Classic implementam as atualizações do protocolo de rede de Londres da ETH para manter a paridade operacional com sua cadeia irmã.
   etcFlood:
     title: ETC dá as boas-vindas ao novo hashrate
-    text: O Ethereum Classic oferece suporte ao algoritmo de mineração ETCash e ao ecossistema de mineração atual. Isso posiciona o Ethereum Classic como uma rede bem posicionada para absorver a maioria dos mineradores Ethash desprivilegiados com a mudança da rede ETH para a prova de consenso de participação.
-  etcdao:
-    title: Ethereum Clássico DAO
-    text: Financiamento estável e de longo prazo prova ser um problema para Ethereum Classic com abandono pela Ethereum Foundation em 2016. fundo de desenvolvimento de código aberto. O financiamento é gerado com o uso de uma pilha ETC DeFi hospedada em EthereumClassic.com
+    text: O Ethereum Classic compromete-se a apoiar o algoritmo de mineração ETChash e o atual ecossistema de mineração. Isto posiciona o Ethereum Classic como uma rede bem posicionada para absorver a maioria dos mineiros Ethash privados de direitos com a mudança da rede ETH para a prova de consenso de participação.
   era4:
     title: 5M20 Era 4
-    text: As recompensas de bloco do Ethereum Classic são reduzidas em 20% para 2,56 ETC por bloco, de acordo com o cronograma de emissão 5M20 inspirado em bitcoin. Hasrate de mineração ETCash continua a passar para ETC com a rede atingindo máximos de todos os tempos.
+    text: As recompensas de bloco do Ethereum Classic são reduzidas em 20% para 2,56 ETC por bloco, de acordo com o cronograma de emissão 5M20 inspirado no bitcoin. O hashrate de mineração do ETChash continua a passar para o ETC, com a rede a atingir máximos históricos.
   sha3Withdrawn:
-    title: Proposta ETC Coop SHA3 retirada
-    text: Após mais de três anos de debate contencioso, Bob Summerwill reconhece o contencioso hardfork ECIP-1049 causaria na rede e retira a proposta. O custo social negativo causado pela campanha de desinformação dos proponentes do ECIP-1049 continua afetando negativamente a percepção pública da rede. No entanto, por meio de sua comunidade resiliente, o Ethereum Classic permanece bem posicionado para prosperar no ETCash em um mundo pós-fusão.
-  etcswap:
-    title: Troca ETC
-    text: Ethereum Classic DAO lança seu primeiro produto - ETCswap. Isso garante que a rede esteja um passo mais perto do financiamento estável para o desenvolvimento de código aberto no Ethereum Classic. Uma pilha de protocolo descentralizada profissional será implantada no Ethereum Classic.
+    title: Proposta SHA3 retirada
+    text: Após mais de três anos de debate polémico, o ECIP-1049 é retirado devido à probabilidade de um hardfork polémico. O Ethereum Classic continua bem posicionado para prosperar no ETChash num mundo pós-fusão.
   vitalikEndorsesETC:
     title: Vitalik Buterin endossa Ethereum Classic
     text: Vitalik Buterin, o cofundador mais proeminente da Ethereum, endossa a rede Ethereum original - Ethereum Classic para aqueles que valorizam as cadeias de prova de trabalho.

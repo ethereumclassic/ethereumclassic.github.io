@@ -1,5 +1,5 @@
 ---
-title: 加密去中心化宣言
+title: 低碳中心主义宣言
 date: 2016-07-11
 author: Arvicco
 contributors:

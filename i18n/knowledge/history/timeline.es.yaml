@@ -2,7 +2,7 @@ title: Cronología de eventos
 items:
   frontierRelease:
     title: Lanzamiento de Ethereum
-    text: Vitalik Buterin y la Fundación Ethereum crean la primera plataforma de contratos inteligentes basada en la cadena de bloques Turing con el lanzamiento de Frontier.
+    text: Vitalik Buterin y la Fundación Ethereum crearon la primera plataforma de contratos inteligentes Turing-completa basada en blockchain con el lanzamiento de Frontier.
   frontierThawingUpgrade:
     title: Mejora de la descongelación de la frontera
     text: La red implementa una "Edad de Hielo" en el bloque 200.000 introduciendo la Bomba de Dificultad, un mecanismo diseñado para alejar el mecanismo de consenso de la red del Proof-of-Work al Proof-of-Stake.
@@ -269,19 +269,13 @@ items:
     text: Los desarrolladores del núcleo de Ethereum Classic implementan las actualizaciones del protocolo de red de ETH en Londres para mantener la paridad operativa con su cadena hermana.
   etcFlood:
     title: ETC da la bienvenida al nuevo Hashrate
-    text: Ethereum Classic se compromete a apoyar el algoritmo de minería ETChash y el actual ecosistema de minería. Esto posiciona a Ethereum Classic como una red bien posicionada para absorber a la mayoría de los mineros de Ethash privados de sus derechos con el paso de la red ETH al consenso de prueba de participación.
-  etcdao:
-    title: DAO de Ethereum Classic
-    text: La financiación estable y a largo plazo resulta ser un problema para Ethereum Classic con el abandono de la Fundación Ethereum en 2016. En un esfuerzo por resolver el problema de financiación a largo plazo de la red, se crea la DAO de Ethereum Classic con la misión de garantizar el desarrollo de la red a través de un fondo de desarrollo de código abierto. La financiación se genera con el uso de una pila ETC DeFi alojada en EthereumClassic.com
+    text: Ethereum Classic se compromete a apoyar el algoritmo de minería ETChash y el ecosistema de minería actual. Esto posiciona a Ethereum Classic como una red bien posicionada para absorber a la mayoría de los mineros de Ethash privados de sus derechos con el paso de la red ETH al consenso de prueba de participación.
   era4:
     title: 5M20 Era 4
-    text: Las recompensas por bloque de Ethereum Classic se reducen en un 20% a 2,56 ETC por bloque, según el programa de emisión 5M20 inspirado en el bitcoin. El hasrate de la minería de ETChash sigue volcándose en ETC con la red alcanzando máximos históricos.
+    text: Las recompensas por bloque de Ethereum Classic se reducen un 20% a 2,56 ETC por bloque, según el calendario de emisiones 5M20 inspirado en bitcoin. El hashrate de minería de ETChash sigue volcándose a ETC con la red alcanzando máximos históricos.
   sha3Withdrawn:
-    title: Retirada de la propuesta SHA3 de ETC Coop
-    text: Después de más de tres años de polémico debate, Bob Summerwill reconoce la polémica bifurcación que la ECIP-1049 provocaría en la red y retira la propuesta. El coste social negativo causado por la campaña de desinformación de los proponentes de la ECIP-1049 sigue afectando negativamente a la percepción pública de la red. Sin embargo, gracias a su resistente comunidad, Ethereum Classic sigue estando bien posicionado para prosperar con ETChash en un mundo post-fusión.
-  etcswap:
-    title: ETCswap
-    text: 'La DAO de Ethereum Classic lanza su primer producto: ETCswap. Esto asegura que la red está un paso más cerca de la financiación estable para el desarrollo de código abierto en Ethereum Classic. Se desplegará una pila de protocolos descentralizada profesional en Ethereum Classic.'
+    title: Retirada de la propuesta SHA3
+    text: Tras más de tres años de polémico debate, se retira la ECIP-1049 debido a la probabilidad de un hardfork polémico. Ethereum Classic sigue estando bien posicionado para prosperar sobre ETChash en un mundo post-fusión.
   vitalikEndorsesETC:
     title: Vitalik Buterin apoya a Ethereum Classic
     text: 'Vitalik Buterin, el cofundador más destacado de Ethereum, da un espaldarazo a la red original de Ethereum: Ethereum Classic para los que valoran las cadenas Proof-of-Work.'

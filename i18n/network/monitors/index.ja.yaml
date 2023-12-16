@@ -5,10 +5,6 @@ description: |
 items:
   monitors:
     items:
-      etc-network.info:
-        description: etc-network.infoが提供するサービスをご案内するための小さなサイトです。
-      ETCNodes:
-        description: Ethereum Classicのメインネットノードエクスプローラー。
       2Miners:
         description: Ethereum Classic stats dashboardは、オンラインノードから直接取得した最も重要なブロックチェーン統計、グラフ、およびその他のパフォーマンスメトリクスを提供します。
       CoinMetrics:
@@ -17,6 +13,10 @@ items:
         description: イーサリアムクラシック採掘情報 - イーサリアムクラシック採掘計算機、イーサリアムクラシック採掘ハードウェアのリスト、イーサリアムクラシック難易度と履歴チャート、イーサリアムクラシックハッシュレートチャート、さらに現在のイーサリアムクラシック価格などです。
       Emerald Insights:
         description: Emerald InsightsはEmeraldプロジェクトの一部で、Emeraldで使用される暗号通貨に関する統計、監視、高度な情報の断片を提供することになっています。
+      etc-network.info:
+        description: etc-network.infoが提供するサービスをご案内するための小さなサイトです。
+      ETCNodes:
+        description: Ethereum Classicのメインネットノードエクスプローラー。
       ForkWatch:
         description: ForkWatchは、NiceHash市場の特定のアルゴリズムに関する異常について、特にBTC/TH/Dayのレンタル価格が変動した場合に警告を発するNiceHashモニタリングツールです。これにより、特定のネットワークに襲いかかる攻撃のためにマイニングパワーがレンタルされる可能性がある場合に、特定のコインの関係者に警告を発することができます。
       MiningPoolStats:
@@ -25,11 +25,9 @@ items:
         description: 歴史的難易度、難易度、ブロックタイム、価格。
       PoolDetective:
         description: マイニングプールは、プルーフ・オブ・ワーク型の暗号通貨において重要な役割を担っています。しかし、彼らがマイナーに作業を指示した内容を、誰が監視しているのだろうか。MITのDigital Currency Initiativeは、2019年夏、マイニングプールの行動監視を開始するプロジェクトを開始した。
-      TokenView:
-        description: 標準的なネットワーク統計の履歴。
-      WhatToMine:
-        description: Ethereum Classicやその他のチェーンを採掘するための採算性計算機。
-      Kotti Stats:
-        description: Ethereum Classic Kotti Testnetのネットワーク統計情報です。
+      Tokenview:
+        description: Tokenviewは、カバーするパブリックブロックチェーンの数による一般的なマルチクリプトブロックチェーンエクスプローラー、高速で安定したブロックチェーンAPIサービスを提供し、2017年以来、数百万人のユーザー、企業、プロジェクト、金融機関にサービスを提供しています。
       ua-mining:
         description: Ethereum Classicの統計ダッシュボード。
+      WhatToMine:
+        description: Ethereum Classicやその他のチェーンを採掘するための採算性計算機。

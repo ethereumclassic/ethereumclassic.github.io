@@ -2,7 +2,7 @@ title: イベントタイムライン
 items:
   frontierRelease:
     title: イーサリアムの販売開始
-    text: Vitalik ButerinとThe Ethereum Foundationは、Frontierのリリースにより、初のブロックチェーンベースのチューリング完全なスマートコントラクトプラットフォームを作成します。
+    text: ヴィタリック・ブテリンとイーサリアム財団は、フロンティアのリリースにより、初のブロックチェーンベースのチューリング完全スマートコントラクトプラットフォームを構築した。
   frontierThawingUpgrade:
     title: フロンティア 解凍アップグレード
     text: このネットワークは、ブロック200,000で「氷河期」を迎え、ネットワークの合意形成メカニズムをProof-of-WorkからProof-of-Stakeに移行するために設計されたメカニズム、Difficulty Bombを導入している。
@@ -269,19 +269,13 @@ items:
     text: Ethereum Classicのコア開発者は、ETHのロンドンネットワークプロトコルのアップグレードを実装し、姉妹チェーンとの運用上の同等性を維持します。
   etcFlood:
     title: ETCに新しいハッシュレートが登場
-    text: Ethereum Classicは、ETChashマイニングアルゴリズムと現在のマイニングエコシステムをサポートすることを約束します。これにより、ETHネットワークがプルーフ・オブ・ステーク・コンセンサスに移行することで、Ethashマイナーの大多数を吸収できるネットワークとして、Ethereum Classicは位置づけられることになります。
-  etcdao:
-    title: イーサリアムクラシックDAO
-    text: 安定的かつ長期的な資金調達は、2016年にイーサリアム財団によって放棄され、イーサリアムクラシックにとって問題であることが判明します。ネットワークのLTS資金調達の問題を解決するために、Ethereum Classic DAOは、オープンソースの開発ファンドを通じてネットワークの開発を将来的に証明することを使命として形成されています。資金調達は、EthereumClassic.comでホストされているETC DeFiスタックを使用して生成されます。
+    text: イーサリアムクラシックは、ETChashマイニングアルゴリズムと現在のマイニングエコシステムのサポートを約束します。これによりイーサリアムクラシックは、ETHネットワークのプルーフ・オブ・ステーク・コンセンサスへの移行に伴い、権利を奪われたEthashマイナーの大部分を吸収するのに適したネットワークとして位置づけられる。
   era4:
     title: 5M20 エラ4
-    text: Ethereum Classicのブロック報酬は、ビットコインにインスパイアされた5M20の排出スケジュールに従って、1ブロックあたり2.56ETCに20％削減されます。ETChashの採掘ハスレートは、ネットワークがAll-Time Highsに達しているため、ETCへの転換が続いています。
+    text: イーサリアムクラシックのブロック報酬は、ビットコインにインスパイアされた5M20排出スケジュールに従って、1ブロックあたり2.56ETCに20%削減されます。ETChashのマイニングハッシュレートは、ネットワークが史上最高値を更新する中、ETCへの移行が続いています。
   sha3Withdrawn:
-    title: ETC生協SHA3提案の取り下げについて
-    text: 3年以上にわたる論争を経て、Bob SummerwillはECIP-1049がネットワークに引き起こす論争的なハードフォークを認め、提案を撤回する。ECIP-1049提案者の誤報キャンペーンによって引き起こされた負の社会的コストは、ネットワークの社会的認知に悪影響を与え続けています。しかし、その弾力的なコミュニティを通じて、Ethereum Classicは、ポストマージ世界においてETChashで成功するために十分な位置を占め続けているのです。
-  etcswap:
-    title: ETCswap
-    text: Ethereum Classic DAOが初のプロダクト-ETCswapをローンチ。これにより、ネットワークはEthereum Classicでのオープンソース開発のための安定した資金調達に一歩近づいたことになります。プロフェッショナルな分散型プロトコルスタックがEthereum Classic上に展開される予定です。
+    title: SHA3提案の撤回
+    text: 3年以上にわたる論争の末、ECIP-1049は論争的なハードフォークの可能性があるため撤回された。イーサリアムクラシックは、マージ後の世界においてETChashで成功するための十分なポジションを維持している。
   vitalikEndorsesETC:
     title: Vitalik Buterin氏、Ethereum Classicを支持
     text: Ethereumの最も著名な共同創設者であるVitalik Buterin氏は、オリジナルのEthereumネットワーク--Proof-of-Workチェーンを重視する人向けのEthereum Classicを推奨している。

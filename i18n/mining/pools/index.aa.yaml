@@ -1,10 +1,10 @@
 __disclaimer: verify
 __updated: 2022-02-22
 __contribute: 1
-title: crwdns69770:0crwdne69770:0
-seo: crwdns69772:0crwdne69772:0
+title: crwdns123415:0crwdne123415:0
+seo: crwdns123417:0crwdne123417:0
 description: |
-  crwdns69774:0crwdne69774:0
+  crwdns123419:0crwdne123419:0
 __contributors:
   - arvicco
   - bobsummerwill
@@ -90,13 +90,13 @@ items:
       ETC Mining Club:
         __name: ETC Mining Club
         __link: https://www.etcmining.club/
-      ETC-POOL:
-        __name: ETC-POOL
-        __link: https://etc-pool.com/
       ETC Pool US:
         __name: ETCPool.us
         __link: https://etcpool.us/
         __primary: 1
+      ETC-POOL:
+        __name: ETC-POOL
+        __link: https://etc-pool.com/
       Ethermine:
         __name: Ethermine
         __link: https://etc.ethermine.org/
@@ -156,6 +156,9 @@ items:
         __name: Nanopool
         __link: https://etc.nanopool.org/
         __primary: 1
+      OKMINER:
+        __name: OKMINER
+        __link: https://okminer.com
       Open ETC Pool:
         __name: Open ETC Pool
         __link: https://github.com/etclabscore/open-etc-pool
@@ -166,6 +169,9 @@ items:
       Prohashing:
         __name: Prohashing
         __link: https://prohashing.com/
+      RICHPOOL:
+        __name: RICHPOOL
+        __link: https://richpool.pro/
       RociMining:
         __name: Roci Mining
         __link: http://rocimining.co.uk/

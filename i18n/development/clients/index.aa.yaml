@@ -1,7 +1,7 @@
 __contribute: 1
 __updated: 2022-02-22
-title: crwdns66022:0crwdne66022:0
-seo: crwdns66024:0crwdne66024:0
+title: crwdns119699:0crwdne119699:0
+seo: crwdns119701:0crwdne119701:0
 __contributors:
   - pyskell
   - bobsummerwill
@@ -15,20 +15,20 @@ __contributors:
   - TheEnthusiasticAs
   - gitr0n1n
 description: |
-  crwdns66048:0[tooling]crwdne66048:0
+  crwdns119725:0crwdne119725:0
 items:
   clients:
     __type: cells
     buttonItems:
       guide:
         __icon: book
-        name: crwdns66054:0crwdne66054:0
+        name: crwdns119731:0crwdne119731:0
       release:
         __icon: code
-        name: crwdns66058:0crwdne66058:0
+        name: crwdns119735:0crwdne119735:0
       support:
         __iconRef: supportIcon
-        name: crwdns66062:0crwdne66062:0
+        name: crwdns119739:0crwdne119739:0
     items:
       CoreGeth:
         __link: https://etclabscore.github.io/core-geth
@@ -37,7 +37,7 @@ items:
         __support: https://discord.gg/xQY3MTUTYd
         __supportIcon: discord
         __name: CoreGeth
-        description: crwdns66076:0crwdne66076:0
+        description: crwdns119753:0crwdne119753:0
       Hyperledger Besu:
         __link: https://besu.hyperledger.org/
         __guide: https://besu.hyperledger.org/en/stable/HowTo/Get-Started/Install-Binaries/
@@ -45,4 +45,4 @@ items:
         __support: https://discord.gg/xQY3MTUTYd
         __supportIcon: discord
         __name: Hyperledger Besu
-        description: crwdns66090:0crwdne66090:0
+        description: crwdns119767:0crwdne119767:0

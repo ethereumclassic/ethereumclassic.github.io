@@ -2,7 +2,7 @@
 title: "以太坊经典促使人类行动蓬勃发展"
 date: 2023-10-31
 author: Donald McIntyre
-contributors: ["Donald McIntyre"]
+contributors: ["DonaldMcIntyre"]
 tags: ["philosophy"]
 linkImage: ./banner.png
 ---

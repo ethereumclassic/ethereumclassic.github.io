@@ -1,7 +1,7 @@
 __contribute: 1
 __disclaimer: verify
 __updated: 2022-02-22
-title: crwdns71264:0crwdne71264:0
+title: crwdns124903:0crwdne124903:0
 __contributors:
   - antonegorov
   - arvicco
@@ -18,14 +18,14 @@ __contributors:
   - redsn0w0
   - TheCrowbill
   - TheEnthusiasticAs
-seo: crwdns71294:0crwdne71294:0
+seo: crwdns124935:0crwdne124935:0
 description: |
-  crwdns71296:0crwdne71296:0
+  crwdns124937:0crwdne124937:0
 items:
   Trust-Minimizing Exchanges:
     __type: buttons
-    title: crwdns71300:0crwdne71300:0
-    description: crwdns108629:0crwdne108629:0
+    title: crwdns124941:0crwdne124941:0
+    description: crwdns124943:0crwdne124943:0
     items:
       dYdX:
         __link: https://trade.dydx.exchange/trade/ETC-USD
@@ -47,7 +47,7 @@ items:
         __name: Soy Finance
   Centralized Spot Markets:
     __type: buttons
-    title: crwdns71330:0crwdne71330:0
+    title: crwdns124971:0crwdne124971:0
     items:
       AAX:
         __link: https://trade.aax.com/en-US/spot/ETC:USDT
@@ -312,7 +312,7 @@ items:
         __name: ZBG
   Centralized Derivative Markets:
     __type: buttons
-    title: crwdns71682:0crwdne71682:0
+    title: crwdns125323:0crwdne125323:0
     items:
       AAX_Perp:
         __link: https://www.aax.com/futures/trade/ETC:USDT
@@ -397,8 +397,8 @@ items:
         __name: WOO Network
   Cross-Chain Swap Exchanges:
     __type: buttons
-    title: crwdns71798:0crwdne71798:0
-    description: "crwdns71800:0crwdne71800:0"
+    title: crwdns125435:0crwdne125435:0
+    description: "crwdns125437:0crwdne125437:0"
     items:
       ABRA:
         __link: https://www.abra.com/
@@ -424,6 +424,9 @@ items:
       Emerald:
         __link: https://emerald.cash/
         __name: Emerald
+      Exchangio:
+        __name: Exchangio
+        __link: https://exchang.io/exchange-pairs/btc-to-etc
       Exodus:
         __link: https://www.exodus.com/
         __name: Exodus
@@ -433,15 +436,15 @@ items:
       FixedFloat:
         __link: https://fixedfloat.com/
         __name: FixedFloat
+      FLASHIFT:
+        __link: https://exchange.flashift.app/?currency_from=btc&currency_to=etc&amount=0.1
+        __name: FLASHIFT
       SimpleSwap:
         __link: https://simpleswap.io/coins/ethereum-classic
         __name: SimpleSwap
       StealthEx:
         __link: https://stealthex.io/
         __name: StealthEx
-      Swapika:
-        __name: Swapika
-        __link: https://swapika.com/exchange-pairs/btc-to-etc
       SwapSpace:
         __name: SwapSpace
         __link: https://swapspace.co/?from=etc&to=btc&amount=1
@@ -462,8 +465,8 @@ items:
         __name: XChange
   NFT Marketplaces:
     __type: buttons
-    title: crwdns71880:0crwdne71880:0
-    description: crwdns71882:0crwdne71882:0
+    title: crwdns125521:0crwdne125521:0
+    description: crwdns125523:0crwdne125523:0
     items:
       ClassicArt:
         __link: https://classicart.io
@@ -476,9 +479,18 @@ items:
         __name: Tradim
   Other:
     __type: buttons
-    title: crwdns108669:0crwdne108669:0
-    description: crwdns108671:0crwdne108671:0
+    title: crwdns125539:0crwdne125539:0
+    description: crwdns125541:0crwdne125541:0
     items:
       BestChange:
         __link: https://www.bestchange.com/ethereum-classic-to-bitcoin.html
         __name: BestChange
+      ChangeNOW:
+        __name: ChangeNOW
+        __link: https://changenow.io/
+      CoinMarketCap Markets List:
+        __name: CoinMarketCap Markets List
+        __link: https://coinmarketcap.com/currencies/ethereum-classic/markets/
+      NOWPayments:
+        __name: NOWPayments
+        __link: https://nowpayments.io/

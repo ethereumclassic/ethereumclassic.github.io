@@ -7,10 +7,10 @@ description: |
 
   Osim toga, Ethereum Classic ima vlastite testne mreže koje upravljaju Ethereum Classic verzijom EVM-a, a implementacija na jednu od tih mreža također se toplo preporučuje prije izdavanja u produkciju. Ove javne mreže za testiranje također pružaju slavine, tako da možete lako nabaviti testnet ETC i implementirati svoj kod.
 
-  Ako slavina ne radi ispravno, pridružite se Ethereum Classic Community [Discord](https://ethereumclassic.org/discord) kako biste pingali sredstva za testnet. Netko u dev-general chatroomu će vam pomoći.
+  Ako slavina ne radi ispravno, pridružite se Ethereum Classic zajednici [Discord](https://ethereumclassic.org/discord) da biste pingali sredstva za testnet. Netko u dev-general chatroomu će vam pomoći. Alternativno, možete jednostavno rudariti vlastita testnet sredstva lokalnim pokretanjem [core-geth](https://etclabscore.github.io/core-geth/getting-started/installation/) s "geth --mordor --mine "naredba.
 
   Možete koristiti [chainlist.org](https://chainlist.org) da konfigurirate svoj web3 novčanik s odgovarajućim RPC krajnjim točkama i istraživačima.
-  Konfigurirajte novčanik: [Kotti](https://chainlist.org/chain/6), [Mordor](https://chainlist.org/chain/63)
+  Konfigurirajte novčanik: [Mordor](https://chainlist.org/chain/63)
 items:
   testnets:
     i18n:

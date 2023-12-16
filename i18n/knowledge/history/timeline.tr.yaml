@@ -2,7 +2,7 @@ title: Olaylar Zaman Çizelgesi
 items:
   frontierRelease:
     title: Ethereum Lansmanları
-    text: Vitalik Buterin ve Ethereum Vakfı, Frontier sürümü ile ilk blok zinciri tabanlı Turing-tam akıllı sözleşme platformunu oluşturuyor.
+    text: Vitalik Buterin ve Ethereum Vakfı, Frontier sürümü ile ilk blok zinciri tabanlı Turing-complete akıllı sözleşme platformunu oluşturdu.
   frontierThawingUpgrade:
     title: Frontier Çözdürme Yükseltmesi
     text: Ağ, 200.000. blokta bir 'Buz Devri' uygulayarak ağın mutabakat mekanizmasını İş İspatından Pay İspatına taşımak için tasarlanmış bir mekanizma olan Zorluk Bombasını devreye sokar.
@@ -269,19 +269,13 @@ items:
     text: Ethereum Classic çekirdek geliştiricileri, kardeş zinciriyle operasyonel eşitliği korumak için ETH'nin Londra ağ protokolü yükseltmelerini uygulamaktadır.
   etcFlood:
     title: ETC Yeni Hashrate'i Ağırlıyor
-    text: Ethereum Classic, ETChash madencilik algoritmasına ve mevcut madencilik ekosistemine destek vermeyi taahhüt eder. Bu durum Ethereum Classic'i, ETH ağının hisse kanıtı mutabakatına geçmesiyle birlikte haklarından mahrum kalan Ethash madencilerinin çoğunluğunu emecek şekilde iyi konumlandırılmış bir ağ olarak konumlandırmaktadır.
-  etcdao:
-    title: Ethereum Classic DAO
-    text: İstikrarlı ve uzun vadeli finansman, Ethereum Classic için bir sorun teşkil etmekte ve 2016 yılında Ethereum Vakfı tarafından terk edilmektedir. Ağın LTS finansman sorununu çözmek amacıyla Ethereum Classic DAO, açık kaynaklı bir geliştirme fonu aracılığıyla ağın gelişimini geleceğe dönük olarak kanıtlama misyonuyla kurulmuştur. Fonlama, EthereumClassic.com adresinde barındırılan bir ETC DeFi yığını kullanılarak oluşturulur.
+    text: Ethereum Classic, ETChash madencilik algoritmasına ve mevcut madencilik ekosistemine destek vermeyi taahhüt eder. Bu durum Ethereum Classic'i, ETH ağının hisse kanıtı mutabakatına geçmesiyle birlikte haklarından mahrum kalan Ethash madencilerinin çoğunluğunu absorbe etmek için iyi konumlandırılmış bir ağ olarak konumlandırmaktadır.
   era4:
     title: 5M20 Dönem 4
-    text: Ethereum Classic'in blok ödülleri, bitcoin'den esinlenen 5M20 emisyon programına göre %20 azaltılarak blok başına 2,56 ETC'ye düşürüldü. ETChash madencilik hash oranı, ağın Tüm Zamanların En Yüksek Seviyesine ulaşmasıyla birlikte ETC'ye dönmeye devam ediyor.
+    text: Ethereum Classic'in blok ödülleri, bitcoin'den esinlenen 5M20 emisyon programına göre %20 azaltılarak blok başına 2,56 ETC'ye düşürüldü. ETChash madencilik hashrate'i, ağın Tüm Zamanların En Yüksek Seviyesine ulaşmasıyla birlikte ETC'ye dönmeye devam ediyor.
   sha3Withdrawn:
-    title: ETC Coop SHA3 Teklifi Geri Çekildi
-    text: Üç yıldan fazla süren çekişmeli tartışmaların ardından Bob Summerwill, ECIP-1049'un şebeke üzerinde yaratacağı tartışmalı zorluğu kabul ederek teklifi geri çekti. ECIP-1049 savunucularının yanlış bilgilendirme kampanyasının neden olduğu olumsuz sosyal maliyet, ağın kamuoyu algısını olumsuz etkilemeye devam ediyor. Bununla birlikte, dirençli topluluğu sayesinde Ethereum Classic, birleşme sonrası dünyada ETChash üzerinde gelişmek için iyi bir konuma sahip olmaya devam ediyor.
-  etcswap:
-    title: ETCswap
-    text: Ethereum Classic DAO ilk ürünü olan ETCswap'i piyasaya sürdü. Bu, ağın Ethereum Classic'te açık kaynak geliştirme için istikrarlı finansmana bir adım daha yaklaşmasını sağlar. Ethereum Classic üzerinde profesyonel bir merkezi olmayan protokol yığını kullanılacak.
+    title: SHA3 Teklifi Geri Çekildi
+    text: Üç yıldan fazla süren çekişmeli tartışmaların ardından ECIP-1049, çekişmeli bir hardfork olasılığı nedeniyle geri çekildi. Ethereum Classic, birleşme sonrası dünyada ETChash üzerinde gelişmek için iyi bir konuma sahip olmaya devam ediyor.
   vitalikEndorsesETC:
     title: Vitalik Buterin Ethereum Classic'i Destekliyor
     text: Ethereum'un en önde gelen kurucu ortağı Vitalik Buterin, orijinal Ethereum ağını - İş İspatı zincirlerine değer verenler için Ethereum Classic'i - onaylıyor.

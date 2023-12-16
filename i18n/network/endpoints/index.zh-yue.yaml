@@ -1,15 +1,15 @@
 title: 公共端點
 seo: 可用於通過 MetaMask 和其他應用程序與 ETC 交互的遠程過程調用 (RPC) 端點列表。
 description: |
-  遠程過程調用 (RPC) 端點是您通往 Ethereum Classic 的門戶，並允許您與 ETC 鏈進行通信並從中讀取數據。為了最大限度地免信任，您可以在本地運行 [ETC 客戶端](/development/clients)；本地端點通常在“http://localhost:8545”上可用。
+  遠端程序呼叫 (RPC) 端點是您通往以太坊經典的網關，可讓您與 ETC 鏈通訊並讀取資料。為了最大程度地免信任，您可以在本機上執行 [ETC 用戶端](/development/clients)；本地端點通常在“http://localhost:8545”處可用。
 
-  公共以太坊經典 RPC 端點也可用，免費提供給社區或作為訂閱服務。因為您可以使用諸如 [MetaMask](/guides/metamask) 之類的錢包在本地簽署和廣播交易，所以可以使用公共端點同時維護您的私鑰。
+  公共以太坊經典 RPC 端點也可用，免費提供給社區或作為訂閱服務。由於您可以使用 [MetaMask](/guides/metamask) 等錢包在本地簽署和廣播交易，因此可以使用公共端點，同時維護私鑰的保管。
 
-  您可以通過更新您的錢包或部署工具配置，使用這些 URL 進行交易並部署到 ETC（或其測試網）。確保您還將 Ethereum Classic 主網的 Chain ID 更改為“61”。
+  您可以透過更新錢包或部署工具配置，使用這些 URL 進行交易並部署到 ETC（或其測試網）。確保您還將以太坊經典主網的鏈 ID 更改為“61”。
 
-  有關其他網絡的更多信息，請查看 [testnets](/development/testnets) 部分。
+  有關其他網路的更多信息，請查看 [testnets](/development/testnets) 部分。
 
-  **建議在 [ChainList.org](https://chainlist.org/chain/61) 上選擇實時監控的 ETC RPC 端點之一。**
+  **建議在 [ChainList.org](https://chainlist.org/chain/61) 選擇即時監控的 ETC RPC 端點之一。**
 items:
   endpoints:
     columnItems:

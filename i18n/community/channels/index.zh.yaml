@@ -9,10 +9,8 @@ items:
     title: 聊天室
     items:
       chat Discord:
-        __primary: 1
         name: Discord (社区, 全球)
       chat Discord Coop:
-        __primary: 1
         name: Discord (ETC Coop)
       chat Facebook English:
         name: 脸书(英文)
@@ -82,10 +80,8 @@ items:
       twitter China:
         name: 中国
       twitter English 1:
-        __primary: 1
         name: "@ETC_Network"
       twitter English 2:
-        __primary: 1
         name: "@eth_classic"
       twitter Español:
         name: 班牙语

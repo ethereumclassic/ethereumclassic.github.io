@@ -4,7 +4,7 @@ date: 2023-11-22
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["philosophy"]
-linkImage: ./banner.png
+linkImage: ./banner-3.png
 ---
 
 ---
@@ -13,7 +13,7 @@ linkImage: ./banner.png
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jYqxC9X_0Ac?si=HLjYPqJ2lvXc5LSN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
-![](./banner.png)
+![](./banner-3.png)
 
 工作证明（POW）币是数字黄金，因为它们建立在客观的工作证明基础之上。
 

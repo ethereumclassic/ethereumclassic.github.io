@@ -33,7 +33,7 @@ contributors:
 ### 贡献的步骤
 
 - 审查ECIP-1000。
-- 点击右上角的 "Fork "来分叉这个版本库。
+- 通过单击右上角的“Fork”来创建存储库。
 - 将你的ECIP添加到你的分叉库中。 有一个ECIP的markdown模板。
 - 向Ethereum Classic的ECIPs存储库提交拉动请求。
 
