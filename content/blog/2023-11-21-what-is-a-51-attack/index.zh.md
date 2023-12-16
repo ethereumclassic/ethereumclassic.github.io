@@ -4,7 +4,7 @@ date: 2023-11-21
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["education"]
-linkImage: ./banner.png
+linkImage: ./banner-1.png
 ---
 
 ---
@@ -14,7 +14,7 @@ linkImage: ./banner.png
 
 ---
 
-![](./banner.png)
+![](./banner-1.png)
 
 由于仍有许多人询问什么是51%攻击，以及以前发生在以太经典（ETC）上的事情，并对这些事情感到困惑，我们决定写下这篇文章，回答所有疑问并纠正所有困惑。
 

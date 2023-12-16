@@ -1,213 +1,213 @@
 ---
-title: crwdns74132:0crwdne74132:0
-updated: 2022-02-22
+title: crwdns127853:0crwdne127853:0
+updated: crwdns127855:0crwdne127855:0
 disclaimer: opinion
-seo: crwdns74138:0crwdne74138:0
+seo: crwdns127859:0crwdne127859:0
 ---
 
-## crwdns74140:0crwdne74140:0
+## crwdns127861:0crwdne127861:0
 
-- crwdns74142:0crwdne74142:0
-- crwdns74144:0crwdne74144:0
-- crwdns74146:0crwdne74146:0
-- crwdns74148:0crwdne74148:0
+- crwdns127863:0crwdne127863:0
+- crwdns127865:0crwdne127865:0
+- crwdns127867:0crwdne127867:0
+- crwdns127869:0crwdne127869:0
 
-## crwdns74150:0crwdne74150:0
+## crwdns127871:0crwdne127871:0
 
-crwdns74152:0crwdne74152:0 crwdns74154:0crwdne74154:0
+crwdns127873:0crwdne127873:0 crwdns127875:0crwdne127875:0
 
-## crwdns74156:0crwdne74156:0
+## crwdns127877:0crwdne127877:0
 
-crwdns74158:0crwdne74158:0 crwdns74160:0crwdne74160:0 crwdns74162:0crwdne74162:0
+crwdns127879:0crwdne127879:0 crwdns127881:0crwdne127881:0 crwdns127883:0crwdne127883:0
 
-crwdns74164:0crwdne74164:0 crwdns74166:0crwdne74166:0 crwdns74168:0crwdne74168:0
+crwdns127885:0crwdne127885:0 crwdns127887:0crwdne127887:0 crwdns127889:0crwdne127889:0
 
-crwdns74170:0crwdne74170:0 crwdns74172:0crwdne74172:0 crwdns74174:0crwdne74174:0
+crwdns127891:0crwdne127891:0 crwdns127893:0crwdne127893:0 crwdns127895:0crwdne127895:0
 
-crwdns74176:0crwdne74176:0 crwdns74178:0crwdne74178:0 crwdns74180:0crwdne74180:0
+crwdns127897:0crwdne127897:0 crwdns127899:0crwdne127899:0 crwdns127901:0crwdne127901:0
 
-crwdns74182:0crwdne74182:0 crwdns74184:0crwdne74184:0 crwdns74186:0crwdne74186:0
+crwdns127903:0crwdne127903:0 crwdns127905:0crwdne127905:0 crwdns127907:0crwdne127907:0
 
-crwdns74188:0crwdne74188:0
+crwdns127909:0crwdne127909:0
 
-## crwdns74190:0crwdne74190:0
+## crwdns127911:0crwdne127911:0
 
-crwdns74192:0crwdne74192:0 crwdns74194:0crwdne74194:0
+crwdns127913:0crwdne127913:0 crwdns127915:0crwdne127915:0
 
-crwdns74196:0crwdne74196:0
+crwdns127917:0crwdne127917:0
 
-crwdns74198:0crwdne74198:0 crwdns74200:0crwdne74200:0
+crwdns127919:0crwdne127919:0 crwdns127921:0crwdne127921:0
 
-crwdns74202:0crwdne74202:0 crwdns74204:0crwdne74204:0
+crwdns127923:0crwdne127923:0 crwdns127925:0crwdne127925:0
 
-crwdns74206:0crwdne74206:0
+crwdns127927:0crwdne127927:0
 
-crwdns74208:0crwdne74208:0 crwdns74210:0crwdne74210:0
+crwdns127929:0crwdne127929:0 crwdns127931:0crwdne127931:0
 
-## crwdns74212:0crwdne74212:0
+## crwdns127933:0crwdne127933:0
 
-crwdns74214:0crwdne74214:0
+crwdns127935:0crwdne127935:0
 
-crwdns74216:0crwdne74216:0 crwdns74218:0crwdne74218:0 crwdns74220:0crwdne74220:0 crwdns74222:0crwdne74222:0
+crwdns127937:0crwdne127937:0 crwdns127939:0crwdne127939:0 crwdns127941:0crwdne127941:0 crwdns127943:0crwdne127943:0
 
-crwdns74224:0crwdne74224:0 crwdns74226:0crwdne74226:0 crwdns74228:0crwdne74228:0
+crwdns127945:0crwdne127945:0 crwdns127947:0crwdne127947:0 crwdns127949:0crwdne127949:0
 
-crwdns74230:0crwdne74230:0 crwdns74232:0crwdne74232:0
+crwdns127951:0crwdne127951:0 crwdns127953:0crwdne127953:0
 
-### crwdns74234:0crwdne74234:0
+### crwdns127955:0crwdne127955:0
 
-crwdns74236:0crwdne74236:0 crwdns74238:0crwdne74238:0
+crwdns127957:0crwdne127957:0 crwdns127959:0crwdne127959:0
 
-crwdns74240:0crwdne74240:0
+crwdns127961:0crwdne127961:0
 
-![crwdns74244:0crwdne74244:0](./engine.jpg)
+![crwdns127965:0crwdne127965:0](./engine.jpg)
 
-crwdns74246:0crwdne74246:0
+crwdns127967:0crwdne127967:0
 
-crwdns74248:0crwdne74248:0 crwdns74250:0crwdne74250:0
+crwdns127969:0crwdne127969:0 crwdns127971:0crwdne127971:0
 
-![crwdns74254:0crwdne74254:0](./overbalance.jpg)
+![crwdns127975:0crwdne127975:0](./overbalance.jpg)
 
-### crwdns74256:0crwdne74256:0
+### crwdns127977:0crwdne127977:0
 
-crwdns74258:0crwdne74258:0 crwdns74260:0crwdne74260:0
+crwdns127979:0crwdne127979:0 crwdns127981:0crwdne127981:0
 
-crwdns74262:0crwdne74262:0 crwdns74264:0crwdne74264:0
+crwdns127983:0crwdne127983:0 crwdns127985:0crwdne127985:0
 
-### crwdns74266:0crwdne74266:0
+### crwdns127987:0crwdne127987:0
 
-crwdns74268:0crwdne74268:0 crwdns74270:0crwdne74270:0
+crwdns127989:0crwdne127989:0 crwdns127991:0crwdne127991:0
 
-### crwdns74272:0crwdne74272:0
+### crwdns127993:0crwdne127993:0
 
-crwdns74274:0crwdne74274:0 crwdns74276:0crwdne74276:0 crwdns74278:0crwdne74278:0
+crwdns127995:0crwdne127995:0 crwdns127997:0crwdne127997:0 crwdns127999:0crwdne127999:0
 
-crwdns74280:0crwdne74280:0 crwdns74282:0crwdne74282:0 crwdns74284:0crwdne74284:0
+crwdns128001:0crwdne128001:0 crwdns128003:0crwdne128003:0 crwdns128005:0crwdne128005:0
 
-crwdns74286:0crwdne74286:0 crwdns74288:0crwdne74288:0 crwdns74290:0crwdne74290:0 crwdns74292:0crwdne74292:0
+crwdns128007:0crwdne128007:0 crwdns128009:0crwdne128009:0 crwdns128011:0crwdne128011:0 crwdns128013:0crwdne128013:0
 
-crwdns74294:0crwdne74294:0 crwdns74296:0crwdne74296:0
+crwdns128015:0crwdne128015:0 crwdns128017:0crwdne128017:0
 
-### crwdns74298:0crwdne74298:0
+### crwdns128019:0crwdne128019:0
 
-crwdns74300:0crwdne74300:0 crwdns74302:0crwdne74302:0 crwdns74304:0crwdne74304:0
+crwdns128021:0crwdne128021:0 crwdns128023:0crwdne128023:0 crwdns128025:0crwdne128025:0
 
-crwdns74306:0crwdne74306:0 crwdns74308:0crwdne74308:0
+crwdns128027:0crwdne128027:0 crwdns128029:0crwdne128029:0
 
-crwdns74310:0crwdne74310:0 crwdns74312:0crwdne74312:0 crwdns74314:0crwdne74314:0
+crwdns128031:0crwdne128031:0 crwdns128033:0crwdne128033:0 crwdns128035:0crwdne128035:0
 
-crwdns74316:0crwdne74316:0
+crwdns128037:0crwdne128037:0
 
-crwdns74318:0crwdne74318:0 crwdns74320:0crwdne74320:0
+crwdns128039:0crwdne128039:0 crwdns128041:0crwdne128041:0
 
-### crwdns74322:0crwdne74322:0
+### crwdns128043:0crwdne128043:0
 
-crwdns74324:0crwdne74324:0 crwdns74326:0crwdne74326:0
+crwdns128045:0crwdne128045:0 crwdns128047:0crwdne128047:0
 
-crwdns74328:0crwdne74328:0 crwdns74330:0crwdne74330:0
+crwdns128049:0crwdne128049:0 crwdns128051:0crwdne128051:0
 
-crwdns74332:0crwdne74332:0 crwdns74334:0crwdne74334:0
+crwdns128053:0crwdne128053:0 crwdns128055:0crwdne128055:0
 
-crwdns74336:0crwdne74336:0 crwdns74338:0crwdne74338:0
+crwdns128057:0crwdne128057:0 crwdns128059:0crwdne128059:0
 
-crwdns74340:0crwdne74340:0
+crwdns128061:0crwdne128061:0
 
-crwdns74342:0crwdne74342:0 crwdns74344:0crwdne74344:0
+crwdns128063:0crwdne128063:0 crwdns128065:0crwdne128065:0
 
-### crwdns74346:0crwdne74346:0
+### crwdns128067:0crwdne128067:0
 
-crwdns74348:0crwdne74348:0
+crwdns128069:0crwdne128069:0
 
-crwdns74350:0crwdne74350:0 crwdns74352:0crwdne74352:0
+crwdns128071:0crwdne128071:0 crwdns128073:0crwdne128073:0
 
-crwdns74354:0crwdne74354:0 crwdns74356:0crwdne74356:0
+crwdns128075:0crwdne128075:0 crwdns128077:0crwdne128077:0
 
-crwdns74358:0crwdne74358:0
+crwdns128079:0crwdne128079:0
 
-crwdns74360:0crwdne74360:0 crwdns74362:0crwdne74362:0
+crwdns128081:0crwdne128081:0 crwdns128083:0crwdne128083:0
 
-crwdns74364:0crwdne74364:0
+crwdns128085:0crwdne128085:0
 
-### crwdns74366:0crwdne74366:0
+### crwdns128087:0crwdne128087:0
 
-crwdns74368:0crwdne74368:0 crwdns74370:0crwdne74370:0 crwdns74372:0crwdne74372:0
+crwdns128089:0crwdne128089:0 crwdns128091:0crwdne128091:0 crwdns128093:0crwdne128093:0
 
-crwdns74374:0crwdne74374:0 crwdns74376:0crwdne74376:0
+crwdns128095:0crwdne128095:0 crwdns128097:0crwdne128097:0
 
-crwdns74378:0crwdne74378:0 crwdns74380:0crwdne74380:0
+crwdns128099:0crwdne128099:0 crwdns128101:0crwdne128101:0
 
-### crwdns74382:0crwdne74382:0
+### crwdns128103:0crwdne128103:0
 
-crwdns74384:0crwdne74384:0
+crwdns128105:0crwdne128105:0
 
-> crwdns74386:0crwdne74386:0 crwdns74388:0crwdne74388:0 crwdns74390:0crwdne74390:0
+> crwdns128107:0crwdne128107:0 crwdns128109:0crwdne128109:0 crwdns128111:0crwdne128111:0
 > 
-> - [crwdns74394:0crwdne74394:0](https://viktorbunin.medium.com/proof-of-stakes-security-model-is-being-dramatically-misunderstood-4ed7b19ca419)
+> - [crwdns128115:0crwdne128115:0](https://viktorbunin.medium.com/proof-of-stakes-security-model-is-being-dramatically-misunderstood-4ed7b19ca419)
 
-crwdns74396:0crwdne74396:0 crwdns74398:0crwdne74398:0
+crwdns128117:0crwdne128117:0 crwdns128119:0crwdne128119:0
 
-### crwdns74400:0crwdne74400:0
+### crwdns128121:0crwdne128121:0
 
-crwdns74402:0crwdne74402:0 crwdns74404:0crwdne74404:0
+crwdns128123:0crwdne128123:0 crwdns128125:0crwdne128125:0
 
-crwdns74406:0crwdne74406:0 crwdns74408:0crwdne74408:0
+crwdns128127:0crwdne128127:0 crwdns128129:0crwdne128129:0
 
-crwdns74410:0crwdne74410:0 crwdns74412:0crwdne74412:0
+crwdns128131:0crwdne128131:0 crwdns128133:0crwdne128133:0
 
-### crwdns74414:0crwdne74414:0
+### crwdns128135:0crwdne128135:0
 
-crwdns74416:0crwdne74416:0 crwdns74418:0crwdne74418:0
+crwdns128137:0crwdne128137:0 crwdns128139:0crwdne128139:0
 
-crwdns74420:0crwdne74420:0 crwdns74422:0crwdne74422:0 crwdns74424:0crwdne74424:0 crwdns74426:0crwdne74426:0
+crwdns128141:0crwdne128141:0 crwdns128143:0crwdne128143:0 crwdns128145:0crwdne128145:0 crwdns128147:0crwdne128147:0
 
-crwdns74428:0crwdne74428:0 crwdns74430:0crwdne74430:0
+crwdns128149:0crwdne128149:0 crwdns128151:0crwdne128151:0
 
-crwdns74432:0crwdne74432:0
+crwdns128153:0crwdne128153:0
 
-crwdns74434:0crwdne74434:0
+crwdns128155:0crwdne128155:0
 
-### crwdns74436:0crwdne74436:0
+### crwdns128157:0crwdne128157:0
 
-crwdns74438:0crwdne74438:0
+crwdns128159:0crwdne128159:0
 
-crwdns74440:0crwdne74440:0
+crwdns128161:0crwdne128161:0
 
-crwdns74442:0crwdne74442:0
+crwdns128163:0crwdne128163:0
 
-crwdns74444:0crwdne74444:0 crwdns74446:0crwdne74446:0
+crwdns128165:0crwdne128165:0 crwdns128167:0crwdne128167:0
 
-_crwdns74448:0crwdne74448:0_
+_crwdns128169:0crwdne128169:0_
 
-### crwdns74450:0crwdne74450:0
+### crwdns128171:0crwdne128171:0
 
-crwdns74452:0crwdne74452:0 crwdns74454:0crwdne74454:0 crwdns74456:0crwdne74456:0
+crwdns128173:0crwdne128173:0 crwdns128175:0crwdne128175:0 crwdns128177:0crwdne128177:0
 
-crwdns74458:0crwdne74458:0 crwdns74460:0crwdne74460:0 crwdns74462:0crwdne74462:0
+crwdns128179:0crwdne128179:0 crwdns128181:0crwdne128181:0 crwdns128183:0crwdne128183:0
 
-### crwdns74464:0crwdne74464:0
+### crwdns128185:0crwdne128185:0
 
-crwdns74466:0crwdne74466:0 crwdns74468:0crwdne74468:0 crwdns74470:0$ETCcrwdnd74470:0$BTCcrwdne74470:0
+crwdns128187:0crwdne128187:0 crwdns128189:0crwdne128189:0 crwdns128191:0$ETCcrwdnd128191:0$BTCcrwdne128191:0
 
-crwdns74472:0crwdne74472:0 crwdns74474:0crwdne74474:0
+crwdns128193:0crwdne128193:0 crwdns128195:0crwdne128195:0
 
-### crwdns74476:0crwdne74476:0
+### crwdns128197:0crwdne128197:0
 
-crwdns74478:0crwdne74478:0 crwdns74480:0crwdne74480:0 crwdns74482:0crwdne74482:0
+crwdns128199:0crwdne128199:0 crwdns128201:0crwdne128201:0 crwdns128203:0crwdne128203:0
 
-crwdns74484:0crwdne74484:0
+crwdns128205:0crwdne128205:0
 
-## crwdns74486:0crwdne74486:0
+## crwdns128207:0crwdne128207:0
 
-crwdns74488:0crwdne74488:0 crwdns74490:0crwdne74490:0 crwdns74492:0crwdne74492:0 crwdns74494:0crwdne74494:0
+crwdns128209:0crwdne128209:0 crwdns128211:0crwdne128211:0 crwdns128213:0crwdne128213:0 crwdns128215:0crwdne128215:0
 
-crwdns74496:0crwdne74496:0 crwdns74498:0crwdne74498:0 crwdns74500:0crwdne74500:0
+crwdns128217:0crwdne128217:0 crwdns128219:0crwdne128219:0 crwdns128221:0crwdne128221:0
 
-crwdns74502:0crwdne74502:0
+crwdns128223:0crwdne128223:0
 
-> crwdns74504:0crwdne74504:0 crwdns74506:0crwdne74506:0
+> crwdns128225:0crwdne128225:0 crwdns128227:0crwdne128227:0
 
-crwdns74508:0crwdne74508:0 crwdns74510:0crwdne74510:0
+crwdns128229:0crwdne128229:0 crwdns128231:0crwdne128231:0
 
-crwdns74512:0crwdne74512:0 crwdns74514:0crwdne74514:0
+crwdns128233:0crwdne128233:0 crwdns128235:0crwdne128235:0
 
-crwdns74516:0crwdne74516:0 crwdns74518:0crwdne74518:0
+crwdns128237:0crwdne128237:0 crwdns128239:0crwdne128239:0

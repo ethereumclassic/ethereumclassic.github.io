@@ -28,7 +28,7 @@ ETC-ova priča je fascinantno i bitno štivo za svakog istraživača kriptovalut
 
 ## Savjeti
 
-Misija Ethereum Classica može se adekvatno razumjeti samo kroz događaje koji okružuju njegovu priču o nastanku, što ga po definiciji stavlja u suprotnost sa svojim bratom [Ethereum™](https://ethereum.org) na nekoliko važnih načina. No te se razlike ne bi trebale pogrešno shvatiti kao suprotstavljanje Ethereum Classica i Ethereuma™ u cjelini. Naprotiv, ta dva projekta imaju daleko, daleko više zajedničkog od onoga što ih razdvaja. Oba Ethereum projekta dijele istu opću ambiciju da promijene svijet na bolje; razlika leži u tome što svaki projekt misli da je potrebno za postizanje ove promjene.
+Misija Ethereum Classica može se adekvatno razumjeti samo kroz događaje koji okružuju njegovu priču o nastanku, što ga po definiciji stavlja u suprotnost sa svojim bratom [Ethereum™](https://ethereum.org) na nekoliko važnih načina. Ali te se razlike ne bi trebale pogrešno shvatiti kao suprotstavljanje Ethereum Classica i Ethereuma™ u cjelini. Naprotiv, ta dva projekta imaju daleko, daleko više zajedničkog od onoga što ih razdvaja. Oba Ethereum projekta dijele istu opću ambiciju da promijene svijet na bolje; razlika leži u tome što svaki projekt misli da je potrebno za postizanje ove promjene.
 
 Ethereum Classic nije anti-Ethereum™. Ethereum Classic _je_ Ethereum.
 
@@ -85,7 +85,7 @@ U studenom 2015. sada već bivši CCO udružio se s nekim koderima i osnovao tvr
 
 ### Kustos kronizam
 
-DAO je postao velika vijest u svijetu Ethereuma, ne samo zato što je dobio značajnu potporu mnogih članova Ethereum Foundationa. Osim što je projekt vodio nedavni CCO EF-a, DAO je angažirao "kustose", koji su dobili mogućnost stavljanja veta na određene radnje i djelovali kao zaštita od kvarova, zapravo uvjeravajući ulagače da sredstva neće biti u opasnosti od određenih vrsta napada. [Svih 11 kustosa](https://medium.com/ursium-blog/vitalik-buterin-gavin-wood-alex-van-de-sande-vlad-zamfir-announced-amongst-stellar-dao-curators-44be4d12dd6e#.1mjq6cfn6) radilo je izravno za projekt ili Zakladu Ethereum, uključujući neke značajne teškaše.
+DAO je postao velika vijest u svijetu Ethereuma, ne samo zato što je dobio značajnu potporu mnogih članova Ethereum Foundationa. Osim što je projekt vodio nedavni CCO EF-a, DAO je angažirao "kustose", koji su dobili mogućnost stavljanja veta na određene radnje i djelovali kao zaštita od kvara, zapravo uvjeravajući ulagače da sredstva neće biti u opasnosti od određenih vrsta napada. [Svih 11 kustosa](https://medium.com/ursium-blog/vitalik-buterin-gavin-wood-alex-van-de-sande-vlad-zamfir-announced-amongst-stellar-dao-curators-44be4d12dd6e#.1mjq6cfn6) radilo je izravno za projekt ili Zakladu Ethereum, uključujući neke značajne teškaše.
 
 Službeno, sama Zaklada Ethereum nije bila uključena u The DAO, ali možda zato što je toliko mnogo kustosa imalo veze s EF-om, ovaj stav je morao biti izričit.
 
@@ -105,9 +105,9 @@ Ali unatoč ovim upozorenjima, do trenutka kad je crowdsale završio, DAO je pri
 
 Tjedan dana nakon završetka crowdsalea, sigurnosni istraživač javno je [otkrio](https://vessenes.com/more-ethereum-attacks-race-to-empty-is-the-real-deal) novu vrstu ranjivosti koju mnogi programeri Smart Contracta prethodno nisu razmatrali, takozvanu "pogrešku ponovnog ulaska".
 
-Greška se može pojaviti kada ugovor ne ažurira ispravno svoje stanje kada drugi ugovori stupaju u interakciju s njim, dopuštajući napadačima da izvrše istu funkciju mnogo puta protiv _namjere_ autora ugovora. To je poput automata koji ne provjerava je li novčić ispravno umetnut; napadač može zavezati konac oko novčića kako bi ga izvukao i upotrijebiti isti novčić za pometanje svih ukusnih poslastica.
+Greška se može pojaviti kada ugovor ne ažurira pravilno svoje stanje kada drugi ugovori s njim komuniciraju, dopuštajući napadačima da izvrše istu funkciju mnogo puta protiv _namjere_ autora ugovora. To je poput automata koji ne provjerava je li novčić ispravno umetnut; napadač može zavezati konac oko novčića kako bi ga izvukao i upotrijebiti isti novčić za pometanje svih ukusnih poslastica.
 
-Budući da je Ethereum bio tako nov i da se nisu razvile najbolje prakse oko razvoja pametnih ugovora, ova je pogreška bila prilično česta. Nakon što je vijest izašla u javnost, mnogi su ugovori iskorišteni i sredstva su izgubljena, ali srećom, DAO nije pogođen, [prema](https://medium.com/ursium-blog/no-dao-funds-at-risk-following-the-ethereum-smart-contract-recursive-call-bug-discovery-29f482d348b) za slock.it.
+Budući da je Ethereum bio tako nov i da se nisu razvile najbolje prakse oko razvoja pametnih ugovora, ova je pogreška bila prilično česta. Nakon što je vijest izašla u javnost, mnogi ugovori su iskorišteni i sredstva su izgubljena, ali srećom, DAO nije pogođen, [prema](https://medium.com/ursium-blog/no-dao-funds-at-risk-following-the-ethereum-smart-contract-recursive-call-bug-discovery-29f482d348b) za slock.it.
 
 ### ...i nestalo je
 
@@ -121,7 +121,7 @@ Kao rezultat hakiranja DAO-a, značajna količina ETH-a izvučena je iz DAO-a na
 
 ### Promjena dogovora
 
-Ovdje je važno napomenuti da DAO haker nije iskorištavao ništa u temeljnom Ethereum protokolu, jer je iskorištavanje bilo ograničeno na DAO ugovor. Također nisu "prekršili pravila" DAO ugovora, jer su jednostavno komunicirali s DAO-om na način koji njegovi autori nisu predvidjeli. Bez obzira na _namjeru_ njegovog autora, [Uvjeti DAO-a](http://web.archive.org/web/20160501124801/https://daohub.org/explainer.html) jasno pokazuju da bi sam ugovorni kod trebao biti konačni sudac. Prema autorima DAO-a, _kodeks je zakon_.
+Ovdje je važno napomenuti da DAO haker nije iskorištavao ništa u temeljnom Ethereum protokolu, jer je iskorištavanje bilo ograničeno na DAO ugovor. Također nisu "prekršili pravila" DAO ugovora, jer su jednostavno komunicirali s DAO-om na način koji njegovi autori nisu predvidjeli. Bez obzira na _namjeru_ njegovog autora, [Uvjeti DAO-](http://web.archive.org/web/20160501124801/https://daohub.org/explainer.html) jasno pokazuju da bi sam ugovorni kod trebao biti konačni sudac. Prema autorima DAO-a, _kodeks je zakon_.
 
 > Uvjeti The DAO Creation navedeni su u kodu pametnog ugovora koji postoji na Ethereum blockchainu na 0xbb9bc244d798123fde783fcc1c72d3bb8c189413. Ništa u ovom objašnjenju uvjeta ili u bilo kojem drugom dokumentu ili priopćenju ne smije modificirati ili dodati bilo kakve dodatne obveze ili jamstva osim onih navedenih u kodu DAO-a. Bilo koji i svi uvjeti objašnjenja ili opisi samo su ponuđeni u obrazovne svrhe i ne zamjenjuju niti modificiraju izričite uvjete koda DAO-a postavljenog na blockchainu; u mjeri u kojoj vjerujete da postoji bilo kakav sukob ili nepodudarnost između ovdje ponuđenih opisa i funkcionalnosti koda DAO-a na 0xbb9bc244d798123fde783fcc1c72d3bb8c189413, kod DAO-a kontrolira i postavlja sve uvjete stvaranja DAO-a.  
 > ...  
@@ -131,7 +131,7 @@ Ovdje je važno napomenuti da DAO haker nije iskorištavao ništa u temeljnom Et
 > ...  
 > Područje digitalne kriptografije vrlo je novo i iz tog razloga postoji rizik od nepredviđenog napada kako u smislu temeljnog kriptografskog protokola koji podupire funkcioniranje DAO-a tako i u vezi s 'teorijom igara' vektori koji do danas nisu dokumentirani. Oba ova vektora predstavljaju rizik koji bi mogao dovesti do gubitka DAO tokena ili ETH na jednom ili više ili čak na svim računima vlasnika DAO tokena.
 
-Mnogi dijele perspektivu da su investitori u The DAO, nakon što su pristali na gore navedene uvjete, bili svjesni da su rizici uključeni, i kao takvi, baš kao što su bili sretni prihvatiti prednost koju bi ti rizici mogli nagraditi, također su morali biti spremni prihvatiti negativne posljedice tih rizika ostvarene. Međutim, za mnoge nositelje DAO tokena to nije bio slučaj.
+Mnogi dijele perspektivu da su investitori u The DAO, nakon što su pristali na gore navedene uvjete, bili svjesni da su rizici uključeni, i kao takvi, baš kao što su bili sretni prihvatiti prednost koju bi ti rizici mogli nagraditi, također su morali biti spremni prihvatiti negativne posljedice tih rizika ostvarene. Međutim, za mnoge vlasnike DAO tokena to nije bio slučaj.
 
 ## DAO ratovi
 
@@ -145,7 +145,7 @@ Bi li Ethereum zaustavio nezaustavljivo? Mnogima je to bilo nezamislivo, no drug
 
 Dok se rasprava o Hard Forku odvijala, skupina plemenitih hakera s bijelim šeširima brzo je krenula u ofenzivu i osigurala većinu sredstava The DAO-a korištenjem iste eksploatacije ponovnog ulaska protiv The Hacker's split Child DAO-a.
 
-Prije nego što je odlučeno o hard forku, bilo je [potvrđeno](https://old.reddit.com/r/ethereum/comments/4p7mhc/update_on_the_white_hat_attack/d4ip04w/) da je 70% izgubljenih sredstava već sigurno vraćeno i da se može izvesti protunapad kako bi preostalih 30% bilo vraćeno ili zaključano u pat poziciji s DAO Hackerom. Tih preostalih 30% može se podijeliti i ponovno dijeliti zauvijek dok jedna strana ne odustane.
+Prije nego što je odlučeno o hard forku, bilo je [potvrđeno](https://old.reddit.com/r/ethereum/comments/4p7mhc/update_on_the_white_hat_attack/d4ip04w/) da je 70% izgubljenih sredstava već sigurno vraćeno i da se može izvesti protunapad kako bi preostalih 30% bilo vraćeno ili zaključano u pat poziciji s DAO Hackerom. Tih preostalih 30% moglo se podijeliti i ponovno dijeliti zauvijek dok jedna strana ne odustane.
 
 > Ali čak i ako [bilo soft ili hard] fork nije implementiran, zajednica može spriječiti napadača da ikada povuče svoj ether  
 > ...  
@@ -157,31 +157,31 @@ Postojao je nerealni strah da DAO Hacker _nikad_ neće odustati i da će 30% bit
 
 Zastoj je značio da su bijeli šeširi uskratili DAO Hackeru da dobije bilo kakvu značajnu dobit, a znajući da se mogu koristiti drugi načini, uključujući pregovore, forenziku lanca i policijsku kontrolu u stvarnom svijetu, Hacker će na kraju biti prisiljen ili dobrovoljno odustati ili se suočiti s lančane posljedice koje bi ih spriječile da zastupaju svoju stranu pat pozicije.
 
-Jedan od apsurdnih, ali važnih detalja koji se često zaboravlja o The DAO Fork je da je bio nepotreban jer je većina sredstava već bila vraćena, dok je ostatak bio jednako dobar kao vraćen. Bez Hard Forka, _najgori mogući scenarij_ za Držatelje DAO tokena bio je _privremeno smanjenje od_ %, ali kao što ćemo vidjeti, implementacija Hard Forka završila je uzrokujući daleko lošiji ishod ne samo za Držatelje DAO tokena, već cjelokupnu Ethereum zajednicu i kulturu kriptovalute u cjelini.
+Jedan od apsurdnih, ali važnih detalja koji se često zaboravlja o The DAO Fork je da je bio nepotreban jer je većina sredstava već bila vraćena, dok je ostatak bio jednako dobar kao vraćen. Bez Hard Forka, _najgori mogući scenarij_ za Držatelje DAO tokena bio je _privremeno smanjenje_ 30%, ali kao što ćemo vidjeti, implementacija Hard Forka završila je uzrokujući daleko lošiji ishod ne samo za Držatelje DAO tokena, već cjelokupnu Ethereum zajednicu i kulturu kriptovalute u cjelini.
 
-_AŽURIRANJE:_ Ova analiza se pokazala točnom jer su istraživači i članovi RHG-a otkrili identitet DAO Hackera. Da nije bilo forka, pritisak da se razotkrije haker bio bi mnogo veći i vjerojatno bi se dogodio mnogo ranije.
+_AŽURIRANJE:_ Ova analiza se pokazala ispravnom jer su istraživači i članovi RHG-a otkrili identitet DAO Hackera. Da nije bilo forka, pritisak da se razotkrije haker bio bi mnogo veći i vjerojatno bi se dogodio mnogo ranije.
 
 ### Na vilicu ili ne na vilicu?
 
 Iako je ovaj relativno skromni najgori mogući scenarij bio prihvatljiv mnogim držateljima DAO tokena, ništa manje od trenutnog povrata 100% sredstava nije bilo prihvatljivo utjecajnom kontingentu, tako da je rasprava o Hard Forku bjesnila.
 
-Ethereum zajednica podijeljena je na dva suprotstavljena plemena: forkere i antiforkere. Forkeri su bili uvjereni da je najbolji način za služenje pravdi i "ozdravljenje nositelja DAO tokena" implementacija Hard Forka. Svako drugo mišljenje bilo je neetično, a anti-forkeri su prikazani kao antisocijalni i za krađu, u biti suučesnici The Hackera.
+Zajednica Ethereuma podijeljena je na dva suprotstavljena plemena: forkere i antiforkere. Forkeri su bili uvjereni da je najbolji način za služenje pravdi i "ozdravljenje nositelja DAO tokena" implementacija Hard Forka. Svako drugo mišljenje bilo je neetično, a anti-forkeri su prikazani kao antisocijalni i za krađu, u biti suučesnici The Hackera.
 
 Jedan očiti problem koji je zamaglio raspravu bio je veliki financijski poticaj za mnoge nositelje DAO tokena da podrže Hard Fork. Pogrešno su bili dovedeni do uvjerenja da je to jedini način da se zajamči povrat ulaganja. Osim toga, mnoge utjecajne osobe, uključujući 11 kustosa, podržale su The DAO i izgubili bi ugled ako bi se vidjelo da ne čine sve što mogu da ozdrave ulagače na koje su utjecali.
 
-Neki zagovornici forkera netočno su vjerovali da bi dopuštanje DAO Hackeru da se izvuče s tako velikim količinama ETH značilo osuditi budućnost Ethereuma, koji ne bi mogao podnijeti lošeg aktera koji kontrolira tako veliki skup sredstava u Proof of Ulog. To su [zanijekali](https://old.reddit.com/r/ethereum/comments/4rohdy/vlad_zamfirs_thoughts_on_the_hard_fork/d52s60v/) arhitekti Ethereumove implementacije Proof of Stake, ali je svejedno popularizirano kako bi se ojačala podrška za fork, i to je mit koji još uvijek traje do danas.
+Neki zagovornici forkera netočno su vjerovali da bi dopuštanje DAO Hackeru da se izvuče s tako velikim količinama ETH značilo osuditi budućnost Ethereuma, koji ne bi mogao podnijeti lošeg aktera koji kontrolira tako veliki skup sredstava u Proof of Ulog. Ovo su [zanijekali](https://old.reddit.com/r/ethereum/comments/4rohdy/vlad_zamfirs_thoughts_on_the_hard_fork/d52s60v/) arhitekti Ethereumove implementacije Proof of Stake, ali je svejedno popularizirano kako bi se ojačala podrška za fork, i to je mit koji još uvijek traje do danas.
 
-Antiforkeri su, s druge strane, tvrdili da se "Izgradnja nezaustavljivih aplikacija" mora podržati i da implementacija Hard Forka ne samo da bi prekršila obećanja projekta Ethereum, već bi predstavljala [moralni hazard](https://en.wikipedia.org/wiki/Moral_hazard) koji je otvorio vrata budućim intervencijama. Neki su čak upozorili da priroda blockchaina znači da će kontroverzni Hard forkovi zajamčeno rezultirati podjelom lanca __, što bi moglo biti katastrofalno.
+Anti-forkeri su, s druge strane, tvrdili da se "Izgradnja nezaustavljivih aplikacija" mora podržati i da implementacija Hard Forka ne samo da bi prekršila obećanja projekta Ethereum, već bi predstavljala [moralni hazard](https://en.wikipedia.org/wiki/Moral_hazard) koji je otvorio vrata budućim intervencijama. Neki su čak upozorili da priroda blockchaina znači da će kontroverzni Hard forkovi zajamčeno rezultirati podjelom lanca __, što bi moglo biti katastrofalno.
 
 Anti-forkeri su također istaknuli da bi štetni učinci implementacije Hard Forka bili nepravedno opterećeni za sve na mreži, bez obzira na to jesu li vlasnici DAO tokena. Nasuprot tome, korisnici forka bili bi samo mali podskup dionika. Ova stvarnost "privatiziranih profita i socijaliziranih gubitaka" podsjećala je na financijsku krizu iz 2008., pri čemu su Hard Fork mnogi nazivali "spašavanjem", sa svojim različitim konotacijama.
 
-Kao odgovor na ovu zabrinutost, proforkeri su bili potaknuti da umanje značaj rizika od podjele lanca, stavljajući ga pod kategoriju "ne brinite o tome, to je teorija zavjere koju su stvorili bitcoin maksimalisti". Štoviše, nije izvršena bilo kakva priprema za podjelu lanca, kao što je implementacija zaštite od napada ponavljanjem ili informiranje razmjena o ovom potencijalnom ishodu kako bi se zaštitile od dvostruke potrošnje, jer bi to potvrdilo mogućnost podjele lanca i, zauzvrat , povećati vjerojatnost da će se jedno dogoditi.
+Kao odgovor na ovu zabrinutost, proforkeri su bili potaknuti da umanje značaj rizika od podjele lanca, stavljajući ga pod kategoriju "ne brinite o tome, to je teorija zavjere koju su stvorili bitcoin maksimalisti". Štoviše, nije napravljena bilo kakva priprema za podjelu lanca, kao što je implementacija zaštite od replay napada ili informiranje razmjena o ovom potencijalnom ishodu kako bi se zaštitile od dvostruke potrošnje, jer bi to potvrdilo mogućnost podele lanca i, zauzvrat , povećati vjerojatnost da će se jedno dogoditi.
 
 ![I tako, Hard Fork je bio jedini prihvatljiv put naprijed.](./forkyou.jpeg)
 
 ### Najmračniji sat Ethereuma
 
-Kako se približavao rok za podjelu Child DAO-a, rasprava se brzo pretvorila u iznimno otrovnu raspravu potaknutu financijskim interesima i filozofskom tjeskobom. Razdor je bio toliko intenzivan da su optužbe za kriminal i nedostatak etike bile bačene s obje strane. Bilo koja taktika korištena je za pobjedu u borbi, koja je postala borba gotovo na život i smrt.
+Kako se približavao rok za podjelu Child DAO-a, rasprava se brzo pretvorila u izuzetno otrovnu raspravu potaknutu financijskim interesima i filozofskom tjeskobom. Razdor je bio toliko intenzivan da su optužbe za kriminal i nedostatak etike bile bačene s obje strane. Bilo koja taktika korištena je za pobjedu u borbi, koja je postala borba gotovo na život i smrt.
 
 Tužna afera je nadopunjena prijetnjama doxxingom i drugim oblicima odmazde protiv onih koji su bili protiv Hard Forka. Slock.it je uputio pozive da se otkriju identiteti onih koji su se protivili Hard Forku, stvarajući jezive efekte i zastrašujući istaknute anti-forkere da ne progovore:
 
@@ -208,11 +208,11 @@ Nažalost, vjerojatno je nemoguće doći do dna onoga što je bio _stvarni_ kons
 
 Do trenutka kada je donesena odluka hoće li se implementirati Hard Fork, činilo se da se radi o mnogo više od samog Hard Forka. Postala je to poznata plemenska igra moći u kojoj su obje strane bile toliko ukorijenjene na svojim pozicijama da su mnoge bile izvan razuma i nisu mogle popustiti.
 
-Kao što ćemo kasnije razmisliti, kroz leću teorije igara, cijelo se iskušenje činilo kao _koordinacijska zamka_. Od početka su ekonomski poticaji bili usklađeni tako da su obje strane bile vođene "pobjedi ili smrti". Kao rezultat toga, forkeri su racionalno umanjili moguće nepovoljne ishode Hard Forka, dok su ga istovremeno činili jedinom održivom opcijom, prešućujući stvarnost situacije zahvaljujući naporima Robina Hooda.
+Kao što ćemo kasnije razmisliti, kroz leću teorije igara, cijela se muka činila kao _koordinacijska zamka_. Od početka su ekonomski poticaji bili usklađeni tako da su obje strane bile vođene "pobjedi ili smrti". Kao rezultat toga, forkeri su racionalno umanjili moguće nepovoljne ishode Hard Forka, dok su ga istovremeno činili jedinom održivom opcijom, prešućujući stvarnost situacije zahvaljujući naporima Robina Hooda.
 
 ### Potpuno pošteno glasovanje za novčiće
 
-Tijekom rasprave Zaklada Ethereum pokušala je zadržati neutralan stav. Što god da je učinjeno u vezi s The DAO Hackom, to je bilo pitanje o kojem je trebala odlučiti zajednica Ethereum __ , a ne nešto što je došlo s vrha. Ovo je bila važna pozicija jer bi ih odgađanje izbora, na papiru, riješilo odgovornosti. Međutim, unatoč ovoj tvrdnji, prikazan je jasan dokaz nedostatka neutralnosti među različitim krilima Zaklade Ethereum.
+Tijekom rasprave Zaklada Ethereum pokušala je zadržati neutralan stav. Što god da je učinjeno u vezi s The DAO Hackom, to je bilo pitanje o kojem je trebala odlučiti Ethereum _zajednica_ , a ne nešto što je došlo s vrha. Ovo je bila važna pozicija jer bi ih odgađanje izbora, na papiru, riješilo odgovornosti. Međutim, unatoč ovoj tvrdnji, prikazan je jasan dokaz nedostatka neutralnosti među različitim krilima Zaklade Ethereum.
 
 Jedan problem s implementacijom Hard Forka bio je taj da bi se korisnici, ako su se trebali uključiti s dodatnom konfiguracijom, mnogi operateri čvorova i rudari prema zadanim postavkama postavili na "unforked" lanac kada bi rutinski nadogradili svoj softver, što bi gotovo jamčilo da će doći do razdvajanja lanca i stvarati probleme. "Rješenje" je bilo ažurirati zadane postavke Ethereum klijenata kako bi slijedili nova pravila Hard Forka i zahtijevati od korisnika koji žele biti na neračvanoj verziji Ethereuma da odustanu od forka.
 
@@ -220,9 +220,9 @@ U prikrivenom pokušaju da se održi određena razina neutralnosti, odluka o tom
 
 Glasovi za novčiće, gdje je 1 ETH = 1 glas, notorno su loši alati za odražavanje mišljenja zajednice, posebno tamo gdje su oni koji glasaju financijski potaknuti. Pretpostavimo da jedan kit ima 90 000 ETH, a 10 000 predanih članova zajednice ima samo po 8 ETH. U tom slučaju, kit može jamčiti pobjedu i diktirati konsenzus "Ethereum zajednice". Glasači s manjim položajem također imaju manje poticaja za sudjelovanje jer pojedinačno imaju manje utjecaja i kolektivno zahtijevaju daleko veću razinu koordinacije, truda i naknade za gorivo za sudjelovanje.
 
-Ispostavilo se da je jedna jedina adresa glasala s toliko etera da je to iznosilo 25% svih glasova. Povrh svega, ovo glasovanje za coin nije imalo minimalni kvorum, a sudjelovalo je samo 6% ukupnog Ethera. Što je najšokantnije, najavljeno je i završeno u roku od 12 sati, dajući vrlo malo vremena za koordinaciju bilo kakvog odgovora anti-forkera, i onemogućilo je dobivanje informacija od polovice planeta koji je spavao.
+Ispostavilo se da je jedna adresa glasala s toliko etera da je to iznosilo 25% svih glasova. Povrh svega, ovo glasovanje za coin nije imalo minimalni kvorum, a sudjelovalo je samo 6% ukupnog Ethera. Što je najšokantnije, najavljeno je i završeno u roku od 12 sati, dajući vrlo malo vremena za koordinaciju bilo kakvog odgovora anti-forkera, i onemogućilo je dobivanje informacija od polovice planeta koji je spavao.
 
-Predvidljivo, rezultate je uvelike iskrivila šačica kitova koji su mogli, ali i ne moraju unaprijed znati ovu objavu. Tada se tvrdilo da kritičnu odluku o tome koji će lanac Geth postaviti prema defaultu donosi "zajednica", a kasnije je korištena da se opravda podrška Ethereum Foundationa račvanom lancu preko ETC-a.
+Očekivano, rezultate je uvelike iskrivila šačica kitova koji su možda, ali i ne moraju, unaprijed znali za objavu. Tada se tvrdilo da kritičnu odluku o tome koji će lanac Geth postaviti prema defaultu donosi "zajednica", a kasnije je korištena da se opravda podrška Ethereum Foundationa račvanom lancu preko ETC-a.
 
 Pohvalno je što je u novijim verzijama web stranice Ethereum.org dokumentirana kontroverza oko ovog važnog glasanja za novčiće.
 
@@ -237,7 +237,7 @@ Pohvalno je što je u novijim verzijama web stranice Ethereum.org dokumentirana 
 
 Iako je bilo jasno da neki pro-forkeri ne žele da Geth ili bilo koji proizvodi Ethereum Foundationa čak imaju opciju pokretanja neračvastog lanca, kako bi se osigurala neutralnost, zloglasna zastavica `--oppose-dao-fork` dodana je Gethu, omogućavanje korisnicima da se uključe u neračvasti lanac omogućavanjem ovog konfiguracijskog parametra. Međutim, ubrzo je uklonjen u kasnijim verzijama.
 
-Da budemo pošteni, neki drugi timovi Ethereum Foundationa pokušali su pružiti prave neutralne izbore. Na primjer, Mist, dapp preglednik, zahtijevao je od korisnika da prilikom otvaranja klijenta izričito odaberu koju će verziju lanca pokrenuti, umjesto da ih prema zadanim postavkama izaberu s jedne strane vilice.
+Da budemo pošteni, neki drugi timovi Ethereum Foundation pokušali su pružiti prave neutralne izbore. Na primjer, Mist, dapp preglednik, zahtijevao je od korisnika da prilikom otvaranja klijenta naprave izričit izbor verzije lanca za pokretanje, umjesto da ih prema zadanim postavkama izaberu s jedne strane vilice.
 
 ![Mist Wallet zaklade Ethereum zamolio je korisnike da odluče koju će vilicu koristiti](./mist.png)
 
@@ -261,9 +261,9 @@ Kako se približavao rok za dijeljenje Child DAO-a, proglašen je konsenzus i Et
 
 Na bloku 1.920.000, 20. srpnja 2016., ispisana je povijest. Dok je web stranica Ethereum™ još uvijek ponosno [proglasila](http://web.archive.org/web/20160731205712/https://ethereum.org/) "Izradite nezaustavljive aplikacije", njeni autori su promijenili Ethereum protokol s jedinom svrhom zaustavljanja The Hacker's Child DAO. Forkeri su posegnuli u sloj ugovora, izbacili _Code is Law_ kroz prozor, prepisali DAO-ov ugovor usred leta i zaplijenili ETH od The Hackera. [Misija obavljena!](https://twitter.com/initc3org/status/758000698881613824/photo/1)
 
-Suprotno uvriježenoj pogrešnoj predodžbi, DAO Hard Fork tehnički _nije_ "povratak", kako se obično naziva - nije bilo "vraćanja" na staro stanje. Umjesto toga, radilo se o "kirurškoj nepravilnoj promjeni stanja". Na mnogo načina, ovo je daleko gori ishod od vraćanja iz perspektive _Kodeks je Zakon_ , jer za razliku od duge reorganizacije, ovo je bila ručna intervencija ugovora, nadjačavanje njegove logike, _mijenjanje pravila igre_, i umetanje proizvoljnog zamjenskog koda određenog subjektivnim postupkom upravljanja izvan lanca gotovo bez ikakve transparentnosti.
+Suprotno uvriježenoj pogrešnoj predodžbi, DAO Hard Fork tehnički _nije_ "povratak", kako se obično naziva - nije bilo "vraćanja" na staro stanje. Umjesto toga, radilo se o "kirurškoj nepravilnoj promjeni stanja". Na mnogo načina, ovo je daleko gori ishod od vraćanja iz perspektive _Kodeks je Zakon_ , jer za razliku od duge reorganizacije, ovo je bila ručna intervencija ugovora, nadjačavanje njegove logike, _mijenjanje pravila igre_, i umetanje proizvoljnog zamjenskog koda određenog subjektivnim procesom upravljanja izvan lanca gotovo bez ikakve transparentnosti.
 
-Na ovoj novoj račvi, gdje je sloj ugovora bio oskrnavljen, obećanje nezaustavljivosti bilo je oskvrnjeno, a _Kod je Zakon_ je bio mrtav. F.
+Na ovoj novoj račvi, gdje je sloj ugovora bio oskrnavljen, obećanje nezaustavljivosti bilo je oskvrnjeno, a _Kod je Zakon_ bio je mrtav. F.
 
 DAO Hard Fork bio je drugačiji od tipičnih hard forkova koji se prilično često događaju na Ethereumu, a koji uključuju popravke protokola ili poboljšanja značajki; nije bilo "nadogradnje" protokola s tehničkog gledišta. Umjesto toga, po prvi put (i za sada posljednji), "nadogradnja" je bila politička i odnosila se samo na nadjačavanje nečega što se događa u sloju ugovora, što se [razlikuje](/why-classic/code-is-law/#outside-the-contract-layer) od protokola i reklamiralo se kao nezaustavljivo.
 
@@ -291,7 +291,7 @@ Platforma Smart Contract s najdužim radom je, bila je i uvijek će biti _Ethere
 
 Pojava Ethereum Classica bila je čudesna na mnoge načine, kako u okolnostima tako iu sadržaju. Da nije bilo Bitcoina, Ethereuma, DAO-a, Buga na liniji 666, Hackera, Vremenskog ograničenja funkcije Splita, Hard Fork Debate Coordination Trap, samog Hard Forka i hrabrih i šarmantnih pristaša ETC-a, bez ovoga niza krajnje nevjerojatnih događaja, svijet ne bi bio blagoslovljen istinski decentraliziranom platformom pametnog ugovora koja zagovara _Kod je zakon_.
 
-Ethereum Classic također ima mnoga čudesna svojstva koja je nemoguće umjetno dočarati. Uz predanost _Code is Law_, bez osnivača, bez Ethereum Foundationa, bez preminea\*, poštenu distribuciju i zajednicu koja sama odabire na temelju brige za načela nad praktičnošću, ETC stoji iznad čak i Bitcoin standarda na mnogi od stupova decentralizma, dajući ETC-u jedan od najvećih potencijala od svih blockchaina za _Sovereign Grade Censorship Resistance_ i moć poboljšanja stvarnosti koju oslobađa.
+Ethereum Classic također ima mnoga čudesna svojstva koja je nemoguće umjetno dočarati. Uz predanost _Code is Law_, bez osnivača, bez Ethereum Foundationa, bez preminea\*, pravednu distribuciju i zajednicu koja sama odabire na temelju brige za načela ispred praktičnosti, ETC stoji iznad čak i od Bitcoin standarda na mnogi od stupova decentralizma, dajući ETC-u jedan od najvećih potencijala od svih blockchaina za _Sovereign Grade Censorship Resistance_ i moć poboljšanja stvarnosti koju oslobađa.
 
 Okolnosti u kojima se pojavio Ethereum Classic toliko su rijetke da se vjerojatno više neće ponoviti. Ethereum Classic, kao prvi koji je pokazao snagu _Code is Law_ i opasnost od forsiranja kontroverznih hard forkova, služi kao upozorenje za sprječavanje sličnih situacija da se dogode u budućnosti, čineći ETC jedinim lancem koji će vjerojatno postići ta svojstva , zahvaljujući tome što su ga njegovi izvorni autori napustili.
 
@@ -313,7 +313,7 @@ Zajednica Ethereum Classic brzo se organizirala u novi decentralizirani društve
 
 Sada podijeljena Ethereum zajednica, već umorna od rata zahvaljujući raspravi o Hard Forku, pretjerala je s pojavom Ethereum Classica. Ono čemu su se mnogi nadali da će biti kraj borbe pokazalo se kao početak još jednog teškog poglavlja u demoralizirajućem razvoju koji je bio daleko gori nego što se tvrdilo i očekivalo samo nekoliko tjedana ranije.
 
-Rascjep lanca bio je daleko od bezbolnog. Da su sve nuspojave bile unaprijed poznate, čini se vrlo malo vjerojatnim da bi čak i najvatreniji pobornici Hard Forka smatrali prihvatljivim rješenjem, pogotovo u usporedbi s alternativama koje ne bi izazvale raskol. ETC je bio živi dokaz da su pro-forker jamstva o glatkom Hard Forku bila samo pusta želja. Nakon što je izazvao takvu halabuku, tko bi opet mogao vjerovati njihovoj prosudbi?
+Rascjep lanca bio je daleko od bezbolnog. Da su sve nuspojave bile unaprijed poznate, čini se krajnje nevjerojatnim da bi čak i najvatreniji pobornici Hard Forka smatrali prihvatljivim rješenjem, pogotovo u usporedbi s alternativama koje ne bi izazvale raskol. ETC je bio živi dokaz da su pro-forker jamstva o glatkom Hard Forku bila samo pusta želja. Nakon što je izazvao takvu halabuku, tko bi opet mogao vjerovati njihovoj prosudbi?
 
 ### Lanac lopova
 
@@ -327,9 +327,9 @@ Ali napadi na Ethereum Classic nisu bili ograničeni samo na prozivanje. Neki su
 
 Kao rezultat podjele lanca, svaka adresa koja je držala Ether prije Hard Forka sada se vidjela dvostruko; imali bi Ether koji su prethodno držali, a koji je postao poznat kao ETC, kao i jednaku količinu novo iskovanog Forked Ethera, prisvajajući simbol ETH. Zahvaljujući burzama koje su uvrštele ETC ubrzo nakon forka, pojavilo se likvidno tržište koje je omogućilo otkrivanje cijena između dvaju lanaca.
 
-Tijekom ovih ranih dana otkrivanja cijena, mnogi pro-forkeri su željeli prodati svoje "bezvrijedne" ETC-ove po smiješno niskim cijenama, bacajući ogromne količine ETC-a pod pretpostavkom da je to "utrka do dna" umirućeg tržišta, gurajući cijenu sve do samo 0,01 ETH po ETC-u. To je možda izazvalo privremenu zabrinutost, ali je omogućilo dijamantnim pristašama ETC-a da sklope neke ponude koje se događaju jednom u životu.
+Tijekom ovih ranih dana otkrivanja cijena mnogi su pro-forkeri željeli prodati svoje "bezvrijedne" ETC-ove po smiješno niskim cijenama, bacajući ogromne količine ETC-a pod pretpostavkom da je to "utrka do dna" umirućeg tržišta, gurajući cijenu sve do samo 0,01 ETH po ETC-u. To je možda izazvalo privremenu zabrinutost, ali je omogućilo dijamantnim pristašama ETC-a da sklope neke ponude koje se događaju jednom u životu.
 
-Ovo je kulminiralo u ludnici prodaje na tržištu s istaknutim forkerima koji su tvrdili da je prodaja njihovog ETC-a "besplatan novac". Za njih je to bila besplatna trgovina jer ETC nije imao nikakvu vrijednost, ali u stvarnosti su bili sudionici jednog od najpravednijih tržišnih događaja preraspodjele kriptovalute ikada. "Bezvrijedan" ETC je u biti prebačen besplatno daleko od gorljivih zagovornika forkera onima koji su vidjeli budućnost u _Code is Law_, u onome što se danas može prepoznati kao "Ultrafair Redistribucija".
+Ovo je kulminiralo u ludnici prodaje na tržištu s istaknutim forkerima koji su tvrdili da je prodaja njihovog ETC-a "besplatan novac". Za njih je to bila besplatna trgovina jer ETC nije imao nikakvu vrijednost, ali u stvarnosti su bili sudionici jednog od najpravednijih tržišnih događaja preraspodjele kriptovaluta ikada. "Bezvrijedan" ETC je u biti prebačen besplatno daleko od gorljivih zagovornika forkera onima koji su vidjeli budućnost u _Code is Law_, u onome što se danas može prepoznati kao "Ultrafair Redistribucija".
 
 ![Otkrivanje cijene ETC nakon forka, vrhunac na 0,4 ETH/ETC](./polo.png)
 
@@ -339,7 +339,7 @@ Na užas mnogih pro-forkera, nakon što su odbacili svoj ETC, početni dump je i
 
 Ali pričekaj malo. Što se dogodilo s tim sredstvima koja je Robin Hood Group prethodno osigurala? Podsjetimo, Robin Hood Group je već osigurao 70% izgubljenih sredstava, sada u obliku ETC-a. Za preostalih 30%, dobili su pomoć od zajednice da nabave Child DAO "ključeve kontrolera". Imali su mogućnost održavanja pat pozicije stalnih razlaza s DAO Hackerom.
 
-Međutim, nakon forka, Robin Hood Group (RHG) je predao volan (i skrbništvo nad ETC-om) novoformiranoj White Hat Group (WHG). Tko je točno upravljao White Hat Groupom nije poznato, ali najave koje je dao WHG objavila je tvrtka Bity, koja je slučajno bila [partner](https://archive.is/3nWU0) sa slock.it u to vrijeme.
+Međutim, nakon forka, Robin Hood Group (RHG) predao je volan (i skrbništvo nad ETC-om) novoformiranoj White Hat Group (WHG). Tko je točno upravljao White Hat Groupom nije poznato, ali najave koje je dao WHG objavila je tvrtka pod nazivom Bity, koja je slučajno bila [partner](https://archive.is/3nWU0) sa slock.it u to vrijeme.
 
 Što se tiče Ethereum Classic strane razlaza, odluku su donijeli RHG/WHG _, a ne_ da podrže svoju stranu zastoja i nisu, unatoč zahtjevima, prenijeli Child DAO ključeve nekoj drugoj grupi od povjerenja da nastave zastoj u njihovo ime.
 
@@ -349,7 +349,7 @@ Međutim, nakon forka, Robin Hood Group (RHG) je predao volan (i skrbništvo nad
 
 Kako su došli do ove odluke nije javno objavljeno, no može se samo pretpostaviti da je dijelom riječ o umoru i nadi da će Hard Fork značiti završetak sage, no možda je djelomično i igra teorije igre, gdje cilj nije bio dati ETC-u bilo kakav legitimitet.
 
-Strategija nepojavljivanja radi bilo kakvih priprema bila je najbolji način da se uopće smanje šanse da dođe do rascjepa lanca, jer bi ponašanje kao da će neračvani lanac izumrijeti, u teoriji, povećalo vjerojatnost da će izumrijeti kao percipiralo bi se kao napušteno. Hard Fork je trebao biti _the_ način da se držatelji DAO tokena ozdrave, a poduzimanje mjera opreza ili jurnjava za sredstvima na ETC-u potkopalo bi nedavna opravdanja za njegovu implementaciju.
+Strategija nepojavljivanja radi bilo kakvih priprema bila je najbolji način da se uopće smanje šanse da dođe do rascjepa lanca, jer bi ponašanje kao da će neračvani lanac izumrijeti, u teoriji, povećalo vjerojatnost da će izumrijeti kao percipiralo bi se kao napušteno. Hard Fork je trebao biti _the_ način da se nositelji DAO tokena ozdrave, a poduzimanje mjera opreza ili jurnjava za sredstvima na ETC-u potkopalo bi nedavna opravdanja za njegovu implementaciju.
 
 Bez obzira na namjeru, DAO-u The Hacker's Child DAO dopušteno je doći do roka bez ponovne podjele, a ovaj nedostatak radnje zapravo je značio predaju oko 3,5 milijuna ETC-a The DAO Hackeru, koji je i danas u njihovom [pritvoru](https://receipt.emerald.cash/balance/0x5e8f0e63e7614c47079a41ad4c37be7def06df5a).
 
@@ -367,8 +367,8 @@ Ova akcija je zapečatila dogovor za mnoge koji su sumnjali da ti "bijeli šeši
 
 Njihovi postupci nameću dva pitanja:
 
-- Zašto ne dati vlasnicima DAO tokena izbor po tom pitanju ili barem otvoriti raspravu o tome što učiniti? Mnogi vlasnici nisu podržavali Hard Fork, a kamoli željeli pretvoriti svoj ETC u ETH. Doista, mnogi još uvijek drže taj ETC do danas, tako da je jasno da ova akcija nije mogla biti usklađena sa željama _svih_ vlasnika DAO tokena.
-- Zašto pokušavati prevrnuti ETC? Ovo se čini sumnjivim i nema nikakvu svrhu osim da prevari burze da ne označe depozite. Ako je sve ovo bilo legitimno, što se dobiva zamagljivanjem?
+- Zašto ne dati vlasnicima DAO tokena izbor po tom pitanju ili barem otvoriti raspravu o tome što učiniti? Mnogi vlasnici nisu podržavali Hard Fork, a kamoli željeli pretvoriti svoj ETC u ETH. Doista, mnogi još uvijek drže taj ETC do danas, tako da je jasno da ova radnja nije mogla biti usklađena sa željama _svih_ vlasnika DAO tokena.
+- Zašto pokušavati prevrnuti ETC? Ovo se čini sumnjivim i nema nikakvu svrhu osim da prevari burze da ne označe depozite. Ako je sve ovo legitimno, što se dobiva zamagljivanjem?
 
 Čini se da samo najciničnija perspektiva može adekvatno odgovoriti na ova pitanja, jer se čini vjerojatnim da je WHG pokušavao financijski napasti Ethereum Classic izvlačeći što je više moguće vrijednosti od vlasnika ETC-a. Bez prethodne najave, to je spriječilo tržište da odredi cijene na otpadu i omogućilo špekulantima da se zaštite. Pad je možda bio pokušaj da se spriječi burza da označi sredstva, što bi ublažilo potrebu da bilo kome unaprijed objasne svoje postupke, što bi moglo omogućiti suzbijanje ekonomskog napada.
 
@@ -380,11 +380,11 @@ Iako je WHG pružio [obrazloženje](https://archive.is/tKKWY) zašto su željeli
 
 Jedan od učinaka nepripremanja za mogućnost razdvajanja lanca bila je mogućnost ponavljanja napada, koji bi mogli, slučajno ili namjerno, uzrokovati gubitak sredstava ili krađu s bilo koje strane lanca. Mogućnost ponovnih napada bila je [poznata](https://twitter.com/VladZamfir/status/759552287157133313) unaprijed, ali vjerojatno da bi se umanjila mogućnost podjele lanca kao zabrinutosti, nije poduzeta nikakva radnja da se ublaži ili čak upozori zajednica na njih.
 
-Nakon podjele, vlasnici ETH-a imali bi istu količinu ETC-a povezanu s istim adresama, a većina transakcija napravljenih s obje strane lanca bile su važeće i mogle su se kopirati na drugu. Potpisana transakcija mogla bi se emitirati na drugu stranu razdvajanja i objaviti u ovom lancu bez znanja ili namjere potpisnika. Ova opasnost isprva nije bila općepoznata i činilo se da bi neki klijenti ponekad objavljivali valjane transakcije u mempoolima oba lanca, stvarajući kaos i uzrokujući da nevine stranke izgube sredstva na razne načine.
+Nakon podjele, vlasnici ETH-a imali bi istu količinu ETC-a povezanu s istim adresama, a većina transakcija napravljenih s obje strane lanca bile su važeće i mogle su se kopirati na drugu. Potpisana transakcija mogla bi se emitirati na drugu stranu razdvajanja i objaviti u ovom lancu bez znanja ili namjere potpisnika. Ova opasnost u početku nije bila općepoznata i činilo se da bi neki klijenti ponekad objavljivali valjane transakcije u mempoolima oba lanca, stvarajući kaos i uzrokujući da nevine stranke izgube sredstva na razne načine.
 
-Jedan primjer ove zbrke bio je slučaj ugovora raspoređenih na ETH, ali ne i na ETC. Prijenos vrijednosti koji šalje ETH na ugovor, recimo multisig adresu, mogao bi se reproducirati na ETC-u, ali ETC bi se mogao zauvijek izgubiti budući da primateljska ugovorna adresa nema privatni ključ, a ugovorni kod nije raspoređen na tu adresu na Classicu. U ovom scenariju nisu bili potrebni zlonamjerni akteri, to je jednostavno bio loš ishod koji se mogao spriječiti uzrokovan nedostatkom pripreme.
+Jedan primjer ove zbrke bio je slučaj ugovora raspoređenih na ETH, ali ne i na ETC. Prijenos vrijednosti koji šalje ETH na ugovor, recimo multisig adresu, mogao bi se ponovno reproducirati na ETC-u, ali ETC bi se mogao zauvijek izgubiti budući da primateljska ugovorna adresa nema privatni ključ, a ugovorni kod nije raspoređen na tu adresu na Classicu. U ovom scenariju nisu bili potrebni zlonamjerni akteri, to je jednostavno bio loš ishod koji se mogao spriječiti uzrokovan nedostatkom pripreme.
 
-Bilo je i dokumentiranih slučajeva zlonamjernog iskorištavanja ponovljenih transakcija, obično s razmjenom kao žrtvom. Na primjer, napadač bi mogao polagati i podizati ETH više puta, svaki put _također_ povlačeći ETC iz razmjene ponovnom reprodukcijom transakcije povlačenja razmjene iz ETH u ETC, a kako većina razmjena nije imala pojma da ETC jest ili može biti stvar, velik dio ETC-a u vrućim novčanicima bio je zreo za odabir nakon što su oportunistički crni šeširi shvatili trik.
+Bilo je i dokumentiranih slučajeva zlonamjernog iskorištavanja ponovljenih transakcija, obično s razmjenom kao žrtva. Na primjer, napadač bi mogao polagati i podizati ETH više puta, svaki put _također_ povlačeći ETC iz razmjene ponovnom reprodukcijom transakcije povlačenja razmjene iz ETH u ETC, a kako većina razmjena nije imala pojma da ETC jest ili može biti stvar, velik dio ETC-a u vrućim novčanicima bio je zreo za odabir nakon što su oportunistički crni šeširi shvatili trik.
 
 U to vrijeme, jedini zajamčeni način da se spriječi ponovno reproduciranje transakcija bio je osigurati da su sredstva odvojena na različite adrese u svakom lancu, što se moglo postići korištenjem "splitter ugovora", ali to je bio dosadan proces, posebno za korisnike manje upućene u tehniku . Nekoliko mjeseci kasnije, uvedeno je rješenje sloja protokola, [EIP-155](https://eips.ethereum.org/EIPS/eip-155). Zbog toga EVM blockchains sada poštuje `CHAIN_ID`, jedinstveni broj za svaki lanac koji je naveden prilikom potpisivanja transakcija, što ih čini nevažećima u drugim lancima.
 
@@ -394,7 +394,7 @@ Od Hard Forka i njegovog neposrednog pada 2016., prašina se uglavnom slegla, ne
 
 ### Zamke koordinacije
 
-Jedan značajan zaključak iz debakla The DAO Fork, koji se sada može pravilno identificirati samo unatrag, jest opasnost od _koordinacijskih zamki_. Ovaj je pojam skovan ovdje kako bi se opisao fenomen u kontekstu blockchaina, ali isti koncept vrijedi i za mnoge sustave u kojima strukture poticaja daju loše rezultate.
+Jedan značajan zaključak iz debakla The DAO Fork, koji se sada može ispravno identificirati samo unatrag, jest opasnost od _koordinacijskih zamki_. Ovaj je pojam skovan ovdje kako bi se opisao fenomen u kontekstu lanca blokova, ali isti koncept vrijedi i za mnoge sustave u kojima strukture poticaja daju loše rezultate.
 
 Blockchaini su dizajnirani za rješavanje _problema koordinacije_, kao što su to učinili Bitcoin i Ethereum uspjevši, uz ništa osim dobro definiranog protokola koji implementira ekonomske poticaje, natjerati milijune pojedinaca da rade zajedno i, ukratko, rade hrpu cool stvari . No čini se da se upravo ti mehanizmi mogu, ako se ne kontroliraju, sami iskriviti i deformirati i proizvesti izrazito nehladne stvari.
 
@@ -404,9 +404,9 @@ Odgovor na ovo je kompliciran, ali jedna teorija je da je razmišljanje onih koj
 
 Debata o Hard Forku bila je u biti složena [igra piletine](https://en.wikipedia.org/wiki/Chicken_(game)), a forkeri su bili natjerani da vjeruju da mogu "pobijediti" samo ako udvostruče ideju da se ne bi dogodilo razdvajanje lanca. Dakle, umanjili su mogućnost podjele lanca i, kako bi osigurali ujedinjenu frontu povjerenja, zastrašili i spriječili druge da naprave bilo kakve planove za obračun s jednim.
 
-Nakon što su popili vlastiti [Kool-Aid](https://www.urbandictionary.com/define.php?term=drinking%20the%20kool-aid), mnogi su doista vjerovali da su oni koji su bili protiv hard forka ili su upozoravali da bi moglo doći do razdvajanja lanca ili bili u savezu s The Hackerom ili Bitcoin Maximalistsima koji su htjeli vidjeti Ethereum umrijeti. Kao rezultat toga, forkeri, potaknuti racionalnom željom, ali pogrešnom strategijom da zaštite svoje bogatstvo, bili su spremni širiti i konzumirati sve smješniju propagandu koja je ojačala podršku za Hard Fork, što je stvorilo začarani krug koji je pogoršao učinak.
+Nakon što su popili vlastiti [Kool-Aid](https://www.urbandictionary.com/define.php?term=drinking%20the%20kool-aid), mnogi su doista vjerovali da su oni koji su bili protiv hard forka ili su upozoravali da bi moglo doći do razdvajanja lanca bili ili u savezu s The Hackerom ili Bitcoin Maximalistsima koji su htjeli vidjeti Ethereum umrijeti. Kao rezultat toga, forkeri, potaknuti racionalnom željom, ali pogrešnom strategijom da zaštite svoje bogatstvo, bili su voljni širiti i konzumirati sve smješniju propagandu koja je ojačala podršku za Hard Fork, što je stvorilo začarani krug koji je pogoršao učinak.
 
-Temeljna pogrešna predodžba, koja je u to vrijeme bila razumna zbog nedostatka prošlih referenci, bila je da bi strategija pretvaranja da se razdvajanje lanca neće dogoditi smanjila vjerojatnost da se dogodi razdvajanje lanca. Postojala je nada da će, ako se može utjecati na dovoljno ljudi da napuste neračvasti lanac, on umrijeti. Kao što znamo danas, i nakon nekoliko istaknutih podjela na drugim lancima, ova se pretpostavka pokazala netočnom, budući da je potrebna samo šačica posvećenih pojedinaca da nastave s ne-račvastom verzijom lanca blokova, a tržišne sile rado će obaviti težak posao .
+Temeljna pogrešna predodžba, koja je u to vrijeme bila razumna zbog nedostatka prošlih referenci, bila je da bi strategija pretvaranja da se razdvajanje lanca neće dogoditi smanjila vjerojatnost da se dogodi razdvajanje lanca. Postojala je nada da će, ako se može utjecati na dovoljno ljudi da napuste neračvasti lanac, on umrijeti. Kao što znamo danas, i nakon nekoliko istaknutih podjela na drugim lancima, ova se pretpostavka pokazala netočnom, jer je potrebna samo šačica predanih pojedinaca da nastave ne-fork verziju blockchaina, a tržišne sile rado će obaviti težak posao .
 
 Kako blockchain projekti mogu izbjeći slične katastrofe u budućnosti? Snažna filozofska podloga pruža protuotrov za ovu i druge nedoumice teorije ludih igara. Načela djeluju kao referentna točka koja može ugušiti korijen ekonomskih interesa koji bi inače gurnuli zajednice u ove zamke. Zbog toga su principi važni i uzvodni su od svega za blockchaine koji očekuju da će trajati. Oni mogu društveno postaviti pravila igre i cijepiti lanac protiv cijelog niza nepredvidivih stanja neuspjeha koja se mogu dogoditi kada su ta pravila dvosmislena.
 
@@ -416,31 +416,31 @@ Za laike, Ethereum™ se još uvijek prodaje na pametnim ugovorima i ideji da bi
 
 Međutim, povijest Ethereuma™ sugerira upitan odnos s konceptom nezaustavljivosti i _Code is Law_. Izravna kontradikcija ovog koncepta u prošlosti Ethereuma™ znači da je projekt sada u shizofrenoj poziciji u kojoj je istovremeno za i protiv ideje _Code is Law_.
 
-Neki Eterijci kažu da je DAO Fork bio jednokratan slučaj koji se nikada više neće ponoviti; Ethereum™ doista slijedi _Code is Law_, ili barem tako od The Forka. Problem s ovom pozicijom je taj što, kada je važno, povijest Ethereuma™ pokazuje da je podložan intervenciji koja može poništiti _Kod je zakon_. Ako nešto _može_ poništiti _Kod je zakon_, nemate _Kod je zakon_, samo se pretvarate da to imate privremeno. Bilo na filozofskoj, društvenoj ili financijskoj razini, središnje točke neuspjeha _™ već su_ pokazale da su uhvaćene.
+Neki Eterijci kažu da je DAO Fork bio jednokratan slučaj koji se nikada više neće ponoviti; Ethereum™ doista slijedi _Code is Law_, ili barem tako od The Forka. Problem s ovom pozicijom je taj što, kada je važno, povijest Ethereuma™ pokazuje da je podložan intervenciji koja može poništiti _Kod je zakon_. Ako nešto _može_ poništiti _Kod je zakon_, nemate _Kod je zakon_, samo se pretvarate da to imate privremeno. Bilo na filozofskoj, društvenoj ili da su uhvaćene.
 
-Drugi voditelji mišljenja u Ethereum Foundationu kažu da je _Code is Law_ [nehuman](https://twitter.com/VladZamfir/status/936029138623774721), [sociopatski](https://medium.com/@Vlad_Zamfir/my-intentions-for-blockchain-governance-801d19d378e5) koncept; budući DAO Fork "ispravci" razine _su_ na stolu za Ethereum™, a to je značajka, a ne greška. Problem sa stajalištem _Code isn't Law_ je taj što krivo shvaća temeljnu vrijednosnu ponudu lanaca blokova, koji su korisni _jer_ posebni interesi ne mogu nadjačati. Za sve ostalo postoje puno učinkovitije opcije.
+Drugi voditelji mišljenja u Ethereum Foundationu kažu da je _Code is Law_ [nehuman](https://twitter.com/VladZamfir/status/936029138623774721), [sociopatski](https://medium.com/@Vlad_Zamfir/my-intentions-for-blockchain-governance-801d19d378e5) koncept; budući DAO Fork "ispravci" razine _su_ na stolu za Ethereum™, a to je značajka, a ne greška. Problem sa stajalištem _Code isn't Law_ je taj što krivo shvaća temeljnu vrijednosnu ponudu lanaca blokova, koji su korisni _jer ih_ interesi ne mogu nadjačati. Za sve ostalo postoje puno učinkovitije opcije.
 
-Povrh svega, usprkos rasvjeti koja traje do danas, DAO Fork je bio objektivna pseća večera, što samo dodaje empirijske dokaze koji podupiru slučaj _Code is Law_. Subjektivna intervencija u navodno nezaustavljivim aplikacijama sama je po sebi neuredna i mora se izbjegavati.
+Povrh svega, unatoč rasvjeti koja traje do danas, DAO Fork je bio objektivna pseća večera, što samo dodaje empirijske dokaze koji podupiru slučaj _Code is Law_. Subjektivna intervencija u navodno nezaustavljivim aplikacijama sama je po sebi neuredna i mora se izbjegavati.
 
 ### Duplo vezivanje
 
-Za Ethereum™ glavni problemi ostaju bez obzira na to je li kod __ ili _nije_ zakon; u filozofskoj je dvostrukoj svezi. Ne može zaokružiti krug svojih prošlih učinaka koji su u suprotnosti s njegovim vrijednosnim prijedlogom, i ostaje s visećom niti koja sve više iskušava mačića sudbine što je duže nepovučeno.
+Za Ethereum™ glavni problemi ostaju bez obzira na to je li kod __ ili _nije_ zakon; u filozofskoj je dvostrukoj svezi. Ne može zaokružiti krug svojih prošlih učinaka koji su u suprotnosti s njegovim vrijednosnim prijedlogom, i ostaje s visećom niti koja sve više iskušava mačića sudbine što je dulje nepovučeno.
 
 ![Kada bi se aplikacije trebale zaustaviti?](./code-isnt-law.jpg)
 
-Poput Wile E. Coyotea koji trči niz liticu, samo je pitanje vremena kada će repo-man neodgovorenih pitanja pokucati u obliku budućih izbora razine DAO Fork-a. Trenutna strateška dvosmislenost Ethereuma™ prema _Kod je zakon_ može poslužiti za privremeno smirivanje interesa, ali će u budućnosti jednostavno uzrokovati mnogo značajnije probleme u budućnosti, kada će jasan odgovor na pitanje _Kod je zakon_ spasiti hrpu nevolja.
+Poput Wile E. Coyotea koji trči s litice, samo je pitanje vremena da se repo-man pitanja bez odgovora pojavi u obliku budućih izbora razine DAO Fork-a. Trenutna strateška dvosmislenost Ethereuma™ prema _Kod je zakon_ može poslužiti za privremeno smirivanje interesa, ali će u budućnosti jednostavno uzrokovati mnogo značajnije probleme u budućnosti, kada će jasan odgovor na pitanje _Kod je zakon_ spasiti hrpu nevolja.
 
-Za razliku od Ethereum Classica, u Ethereumu™ pitanje "Kada treba zaustaviti aplikacije?" ostaje bez odgovora. Na primjer, bilo koji proces kojim se utvrđuje trebaju li se dogoditi forkovi na Ethereumu™ odlučio je da žrtve napada ponavljanja uzrokovanih DAO Hard Forkom ne bi trebale dobiti još jedan Hard Fork da ih _učini_ cijelim, a kamoli sve glavne greške Smart Contracta i DeFi-ja Hakovi. Pretpostavlja se da je dopuštanje _ovih_ gubitaka razina sociopatije prihvatljiva za _Kodeks nije Zakon_ brigadu.
+Za razliku od Ethereum Classica, u Ethereumu™ pitanje "Kada treba zaustaviti aplikacije?" ostaje bez odgovora. Na primjer, bilo koji proces kojim se utvrđuje hoće li se forkovi dogoditi na Ethereumu™ odlučio je da žrtve napada ponavljanja uzrokovanih DAO Hard Forkom ne bi trebale dobiti još jedan Hard Fork da ih _učini_ cijelim, a kamoli sve glavne pogreške Smart Contracta i DeFi-ja Hakovi. Pretpostavlja se da je dopuštanje _ovih_ gubitaka razina sociopatije prihvatljiva za _Kodeks nije Zakon_ brigadu.
 
 Ako ovo pitanje ostane bez odgovora, sigurno će stvoriti buduće probleme i to je ključni razlog zašto Ethereum Classic otvoreno zagovara načelo _Kod je Zakon_ u svim okolnostima. Iako to možda nije uvijek najprikladniji položaj u bilo kojem trenutku, to je jedini stav koji može tretirati sve sudionike neutralno, ostati filozofski dosljedan, i stoga ima potencijal izdržati test vremena.
 
 ## Zaključak
 
-Priča o DAO Forku pokazuje kako je Ethereum preotela visoko motivirana skupina s posebnim interesima, koja je prisilila na pogrešnu promjenu na mreži na svačiji račun. Za Ethereum™, Hard Fork je bio katastrofa. Ne samo da je doveo do podjele zajednice i mreže, gubeći svoj dragocjeni status koda _kao zakona_ , već je u naletu poetske pravde DAO Fork na kraju vratio manje sredstava držateljima DAO tokena nego alternativa bez forka koja je poštovala _Kodeks je zakon_ bi imao.
+Priča o DAO Forku pokazuje kako je Ethereum preotela visoko motivirana skupina s posebnim interesima, koja je prisilila na pogrešnu promjenu na mreži na svačiji račun. Za Ethereum™, Hard Fork je bio katastrofa. Ne samo da je doveo do podjele zajednice i mreže, gubeći svoj dragocjeni status _koda kao zakona_ , već je u naletu poetske pravde, DAO fork završio vraćanjem manje sredstava držateljima DAO tokena nego alternativa bez forka koja je poštovala _Kodeks je zakon_ bi imao.
 
 Prava, trajna šteta koja se dogodila nanesena je kulturi prostora kriptovaluta daleko izvan granica Ethereuma. Nažalost, generacija novih sudionika ne mari za "Code is Law" ili ga otvoreno ismijava kao nepoželjan, a ekosustav je pripremljen za još jedan veliki neuspjeh na DAO skali koji dovodi do subjektivnog uplitanja u bliskoj budućnosti, ili još gore, cenzure korisnici koji ovise o nepromjenjivosti.
 
-Unatoč kaosu, jedan projekt, ili točnije, jedna filozofija, iako je to u to vrijeme bilo daleko od očitog, je imala velike koristi od Hard Forka; Ethereum Classic i _Code is Law_. Na kraju, pravi "pobjednici" opake rasprave o Hard Forku bili su anti-forkeri, koji su bili u pravu razdjelom lanca i povratkom oporavljenog ETC-a, pokazujući da Hard Fork nije bio potreban. Štoviše, u trenutku kad je postalo očito da _Izvorna Ethereum vizija_ neće tiho otići u noć, bilo je riješeno; _Kodeks je zakon_ prevladava.
+Unatoč kaosu, jedan projekt, ili točnije, jedna filozofija, iako je to u to vrijeme bilo daleko od očitog, je imala velike koristi od Hard Forka; Ethereum Classic i _Code is Law_. Na kraju, pravi "pobjednici" žestoke rasprave o Hard Forku bili su anti-forkeri, koji su bili u pravu razdjelom lanca i povratkom oporavljenog ETC-a, pokazujući da Hard Fork nije bio potreban. Štoviše, u trenutku kad je postalo očito da _Izvorna Ethereum vizija_ neće tiho otići u noć, bilo je riješeno; _Kodeks je zakon_ prevladava.
 
 _Ali čekaj malo, je li ovo ozbiljno? Samo pogledajte tržišnu kapitalizaciju Ethereum Classica u usporedbi s Ethereumom! U kojem se svijetu Ethereum Classic smatra pobjednikom?_
 

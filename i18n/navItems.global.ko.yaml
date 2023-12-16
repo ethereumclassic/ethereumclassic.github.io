@@ -44,6 +44,9 @@ learn:
       name: 지식
       description: ETC를 뒷받침하는 토대에 대한 추가 읽기
       navItems:
+        course:
+          name: 코스
+          description: 이더리움 클래식에 대한 체계적인 동영상 및 기사 시리즈
         foundation:
           name: 기반
           description: ETC의 확고한 철학적 기반을 이루는 핵심 원칙

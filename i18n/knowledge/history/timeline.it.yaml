@@ -2,7 +2,7 @@ title: Cronologia degli eventi
 items:
   frontierRelease:
     title: Lancio di Ethereum
-    text: Vitalik Buterin e la Fondazione Ethereum creano la prima piattaforma di smart contract Turing-completa basata su blockchain con il rilascio di Frontier.
+    text: Vitalik Buterin e la Fondazione Ethereum hanno creato la prima piattaforma di smart contract Turing-completa basata su blockchain con il rilascio di Frontier.
   frontierThawingUpgrade:
     title: Aggiornamento dello scongelamento di frontiera
     text: La rete implementa una "era glaciale" al blocco 200.000, introducendo la Difficulty Bomb, un meccanismo progettato per spostare il meccanismo di consenso della rete dalla Proof-of-Work alla Proof-of-Stake.
@@ -269,19 +269,13 @@ items:
     text: Gli sviluppatori del nucleo di Ethereum Classic implementano gli aggiornamenti del protocollo di rete di Londra di ETH per mantenere la parità operativa con la catena sorella.
   etcFlood:
     title: ETC dà il benvenuto al nuovo Hashrate
-    text: Ethereum Classic si impegna a sostenere l'algoritmo di mining ETChash e l'attuale ecosistema di mining. Questo posiziona Ethereum Classic come una rete ben posizionata per assorbire la maggior parte dei minatori Ethash privati del loro supporto con il passaggio della rete ETH al consenso proof of stake.
-  etcdao:
-    title: Ethereum Classic DAO
-    text: Un finanziamento stabile e a lungo termine si rivela un problema per Ethereum Classic, con l'abbandono da parte della Fondazione Ethereum nel 2016. Nel tentativo di risolvere il problema del finanziamento a lungo termine della rete, è stata costituita la DAO di Ethereum Classic, con la missione di garantire lo sviluppo futuro della rete attraverso un fondo di sviluppo open source. I fondi sono generati con l'uso di uno stack ETC DeFi ospitato su EthereumClassic.com.
+    text: Ethereum Classic si impegna a sostenere l'algoritmo di mining ETChash e l'attuale ecosistema di mining. In questo modo Ethereum Classic si posiziona come una rete ben posizionata per assorbire la maggior parte dei minatori di Ethash che sono stati privati del loro lavoro con il passaggio della rete ETH al consenso proof of stake.
   era4:
     title: 5M20 Era 4
-    text: Le ricompense dei blocchi di Ethereum Classic sono ridotte del 20% a 2,56 ETC per blocco, come da programma di emissione 5M20 ispirato al bitcoin. Il tasso di mining di ETChash continua a passare a ETC con la rete che raggiunge i massimi storici.
+    text: Le ricompense dei blocchi di Ethereum Classic sono ridotte del 20% a 2,56 ETC per blocco, come da programma di emissione 5M20 ispirato al bitcoin. L'hashrate di mining di ETChash continua a passare a ETC con la rete che raggiunge i massimi storici.
   sha3Withdrawn:
-    title: Proposta ETC Coop SHA3 ritirata
-    text: Dopo oltre tre anni di dibattiti controversi, Bob Summerwill riconosce l'ostacolo che l'ECIP-1049 avrebbe causato alla rete e ritira la proposta. Il costo sociale negativo causato dalla campagna di disinformazione dei proponenti di ECIP-1049 continua a influire negativamente sulla percezione pubblica della rete. Tuttavia, grazie alla sua comunità resiliente, Ethereum Classic rimane ben posizionato per prosperare su ETChash in un mondo post-fusione.
-  etcswap:
-    title: ETCswap
-    text: 'Ethereum Classic DAO lancia il suo primo prodotto: ETCswap. Questo assicura che la rete sia un passo più vicina a un finanziamento stabile per lo sviluppo open source su Ethereum Classic. Uno stack di protocollo decentralizzato professionale sarà distribuito su Ethereum Classic.'
+    title: Proposta SHA3 ritirata
+    text: Dopo più di tre anni di dibattiti controversi, ECIP-1049 viene ritirato a causa della probabilità di un hardfork controverso. Ethereum Classic rimane ben posizionato per prosperare su ETChash in un mondo post-fusione.
   vitalikEndorsesETC:
     title: Vitalik Buterin sostiene Ethereum Classic
     text: Vitalik Buterin, il cofondatore più importante di Ethereum, ha dato il suo appoggio alla rete originale di Ethereum, Ethereum Classic, per coloro che apprezzano le catene Proof-of-Work.

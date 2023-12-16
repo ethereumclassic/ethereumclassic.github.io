@@ -44,6 +44,9 @@ learn:
       name: Bilgi
       description: ETC'yi destekleyen temeller hakkında daha fazla okuma
       navItems:
+        course:
+          name: Kurs
+          description: Ethereum Classic hakkında yapılandırılmış bir video ve makale serisi
         foundation:
           name: Vakıf
           description: ETC'nin sağlam felsefi temelini oluşturan temel ilkeler

@@ -63,7 +63,7 @@ Het alternatief voor een _bekend toekomstig aanbod_ is een _onbekend toekomstig 
 
 In extreme gevallen kunnen ketens met een beleid van handhaving van een _onbekende toekomstige aanvoer_ leiden tot [Zimbabwe-achtige hyperinflatie](https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe), een altijd aanwezige donkere wolk die boven alle houders van deze munten hangt. Hoewel het voor deze projecten misschien niet nodig is om vandaag de inflatiekraan open te draaien, kan dat in de toekomst om welke reden dan ook "noodzakelijk" worden. [](/why-classic/proof-of-work#the-apr-arms-race) Zonder het precedent van een vaste emissiecurve kan het centrale organisatiecomité van dergelijke projecten gemakkelijk een aantal rechtvaardigingen bedenken om zich waarde toe te eigenen van de houders als de enige manier om het project voort te zetten.
 
-![Een briefje van honderd triljoen Zimbabwaanse dollars...](./zimbabwedollar.jpg)
+![Een biljet van honderd biljoen Zimbabwaanse dollar](./zimbabwedollar.jpg)
 
 Sommige promotors van cryptocurrencies, misschien onbedoeld, laten hun medehouders geloven dat de checks and balances die worden geboden door _fixed future supply_ een belemmering zijn, door te stellen dat het op de een of andere manier in het financiële belang van de houders is om er geen te hebben.
 

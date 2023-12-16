@@ -2,7 +2,7 @@
 updated: 2022-02-22
 contribute: true
 title: เหตุการณ์
-seo: ภาพรวมของเหตุการณ์ที่เกี่ยวข้องกับโลกแห่งความจริงและเสมือน Ethereum Classic ETC Summit และ Community Call ประจำสัปดาห์ยินดีต้อนรับทุกคน!
+seo: ภาพรวมของเหตุการณ์ที่เกี่ยวข้องกับโลกแห่งความจริงและเสมือน Ethereum Classic ภาพรวมของเหตุการณ์ที่เกี่ยวข้องกับโลกแห่งความจริงและเสมือน Ethereum Classic ETC Summit และ Community Call ประจำสัปดาห์ยินดีต้อนรับทุกคน!
 contributors:
   - IstoraMandiri
   - bobsummerwill
@@ -15,9 +15,9 @@ contributors:
 
 อัปเดต: ขณะนี้ Community Calls ปกติรายสัปดาห์อยู่ระหว่างช่วงพัก
 
-ทุกวันพฤหัสบดี โดยปกติเวลา UTC 1500 การแชทด้วยเสียงแบบกลุ่มจะเกิดขึ้นในเซิร์ฟเวอร์ Ethereum Classic [Discord](https://ethereumclassic.org/discord) การโทรถูกสตรีมไปที่ [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos)แต่คุณยังสามารถเข้าร่วมได้ 1 ชั่วโมงก่อนที่เราจะถ่ายทอดสด เวลา 1400 UTC เพื่อแชทนอกบันทึกในห้องสีเขียว
+ทุกวันพฤหัสบดี โดยปกติเวลา UTC 1500 การแชทด้วยเสียงแบบกลุ่มจะเกิดขึ้นในเซิร์ฟเวอร์ Ethereum Classic [Discord](https://ethereumclassic.org/discord) การโทรถูกสตรีมไปที่ [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos)แต่คุณยังสามารถเข้าร่วมได้ 1 ชั่วโมงก่อนที่เราจะถ่ายทอดสด เวลา 1400 UTC เพื่อแชทนอกบันทึกในห้องสีเขียว การโทรถูกสตรีมไปที่ [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos)แต่คุณยังสามารถเข้าร่วมได้ 1 ชั่วโมงก่อนที่เราจะถ่ายทอดสด เวลา 1400 UTC เพื่อแชทนอกบันทึกในห้องสีเขียว
 
-ในบางครั้ง แขกพิเศษจะเข้าร่วมการสนทนาเพื่อถามและตอบกับชุมชน โดยปกติการโทรเหล่านี้จะถูกบันทึก และคุณสามารถค้นหาบันทึกเหล่านี้ได้ใน ETC Community Calls [repository](https://github.com/ethereumclassic/community-calls)
+ในบางครั้ง แขกรับเชิญพิเศษจะเข้าร่วมการแชทเพื่อถามคำถามและคำตอบกับชุมชน ในบางครั้ง แขกพิเศษจะเข้าร่วมการสนทนาเพื่อถามและตอบกับชุมชน โดยปกติการโทรเหล่านี้จะถูกบันทึก และคุณสามารถค้นหาบันทึกเหล่านี้ได้ใน ETC Community Calls [repository](https://github.com/ethereumclassic/community-calls)
 
 ทุกคน ไม่ว่าจะมีส่วนร่วมใน ETC ในระดับใด ก็สามารถเข้าร่วมการแชทนี้ได้ และโดยปกติแล้วจะมีเวลาให้เปิดประเด็นสำหรับคำถามหากคุณต้องการนำเสนออะไร
 
@@ -41,4 +41,4 @@ contributors:
 
 ETC Core Devs Call เป็นการสนทนาทางเทคนิคสำหรับนักพัฒนาที่ทำงานเกี่ยวกับไคลเอนต์ Ethereum Classic และ/หรือกระบวนการ ECIP
 
-การโทรเหล่านี้ไม่มีกำหนดเวลา แต่เกิดขึ้นค่อนข้างบ่อยตลอดทั้งปี ประกาศการโทรที่เสนอในรูปแบบของปัญหา GitHub ใน [ECIPs repo](https://github.com/ethereumclassic/ECIPs/issues?q=is%3Aissue+Devs+Call)
+การโทรเหล่านี้ไม่มีกำหนดเวลา แต่เกิดขึ้นค่อนข้างบ่อยตลอดทั้งปี การโทรเหล่านี้ไม่มีกำหนดเวลา แต่เกิดขึ้นค่อนข้างบ่อยตลอดทั้งปี ประกาศการโทรที่เสนอในรูปแบบของปัญหา GitHub ใน [ECIPs repo](https://github.com/ethereumclassic/ECIPs/issues?q=is%3Aissue+Devs+Call)

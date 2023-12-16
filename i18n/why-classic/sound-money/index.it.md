@@ -53,7 +53,7 @@ Una _fornitura futura nota_ non solo fornisce una prospera alternativa al sistem
 
 La moneta sonante, e la sua capacità di mantenere il valore nel tempo, è una proprietà fondamentale dei meccanismi di incentivazione che incoraggiano la partecipazione, in quanto, pur non garantendo l'apprezzamento di un bene, fornisce almeno un mezzo per calcolare il potenziale di guadagno futuro, data la crescita futura di un progetto. Significa che i detentori hanno la garanzia di beneficiare in modo equo degli utili di un progetto.
 
-## Denaro non solido
+## Soldi sonanti
 
 Che si tratti di valute fiat o criptovalute, la ridistribuzione dei fondi attraverso l'inflazione o lo svilimento della moneta è uno dei trucchi più vecchi del libro per pianificatori centrali impiccioni con un senso di autorità mal riposto. Nei momenti di difficoltà, usano inevitabilmente questo meccanismo per assicurarsi che quando la nave affonda, coloro che controllano le chiavi del castello saranno i primi a salire sulle zattere di salvataggio, potendo ridistribuire a se stessi qualsiasi briciola di valore rimasta a spese dei detentori della valuta, il tutto ovviamente in nome della sicurezza e della stabilità.
 

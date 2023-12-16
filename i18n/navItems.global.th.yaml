@@ -44,6 +44,9 @@ learn:
       name: ความรู้
       description: อ่านเพิ่มเติมเกี่ยวกับรากฐานที่สนับสนุน ETC
       navItems:
+        course:
+          name: คอร์ส
+          description: วิดีโอที่มีโครงสร้างและซีรีส์บทความเกี่ยวกับ Ethereum Classic
         foundation:
           name: พื้นฐาน
           description: หลักการสำคัญที่สร้างฐานปรัชญาที่มั่นคงของ ETC

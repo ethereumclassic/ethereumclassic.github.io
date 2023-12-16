@@ -430,6 +430,9 @@ items:
       Emerald:
         __link: https://emerald.cash/
         __name: Emerald
+      Exchangio:
+        __name: Exchangio
+        __link: https://exchang.io/exchange-pairs/btc-to-etc
       Exodus:
         __link: https://www.exodus.com/
         __name: Exodus
@@ -448,9 +451,6 @@ items:
       StealthEx:
         __link: https://stealthex.io/
         __name: StealthEx
-      Swapika:
-        __name: Swapika
-        __link: https://swapika.com/exchange-pairs/btc-to-etc
       SwapSpace:
         __name: SwapSpace
         __link: https://swapspace.co/?from=etc&to=btc&amount=1

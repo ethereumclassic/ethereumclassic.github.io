@@ -43,7 +43,7 @@ L'un des avantages de cette approche est qu'Ethereum Classic peut se contenter d
 
 De cette façon, les autres chaînes EVM peuvent être considérées comme des réseaux d'essai incités d'Ethereum Classic, avec des tests beaucoup plus rigoureux que ceux qu'un réseau d'essai traditionnel pourrait fournir.
 
-## L'avenir
+## Regarder vers l'avant
 
 À l'heure où nous écrivons ces lignes, 2022 vient d'arriver, et l'ETC commence l'année en connaissant un regain d'activité. Une multitude de nouvelles applications [](/services/apps) et d'utilisateurs se sont organiquement regroupés, et l'écosystème ETC commence à montrer des signes d'effets de réseau, qui feront boule de neige au fur et à mesure que le réseau deviendra plus utile et précieux.
 

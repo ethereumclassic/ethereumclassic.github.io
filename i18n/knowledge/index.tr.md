@@ -1,5 +1,5 @@
 ---
-title: Bilgi Bankası
+title: Bilgi tabanı
 updated: 2022-02-22
 disclaimer: opinion
 seo: Ethereum'un merkezi olmayan versiyonunun neden, nasıl ve nerede olduğunu belgeleyen Ethereum Classic'in Tarihi, Geleceği, Felsefesi ve Ekonomisi hakkında bir bilgi merkezi.

@@ -44,6 +44,9 @@ learn:
       name: Γνώση
       description: Περαιτέρω ανάγνωση σχετικά με τα θεμέλια που στηρίζουν την ETC
       navItems:
+        course:
+          name: Μάθημα
+          description: Μια δομημένη σειρά βίντεο και άρθρων για το Ethereum Classic
         foundation:
           name: Ίδρυμα
           description: Οι βασικές αρχές που αποτελούν τη σταθερή φιλοσοφική βάση της ETC

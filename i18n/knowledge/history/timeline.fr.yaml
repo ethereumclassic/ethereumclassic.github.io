@@ -2,7 +2,7 @@ title: Chronologie des événements
 items:
   frontierRelease:
     title: Lancement d'Ethereum
-    text: Vitalik Buterin et la Fondation Ethereum créent la première plateforme de contrats intelligents basée sur la blockchain et complète au sens de Turing avec la version Frontier.
+    text: Vitalik Buterin et la Fondation Ethereum ont créé la première plateforme de contrat intelligent Turing-complet basée sur la blockchain avec la version Frontier.
   frontierThawingUpgrade:
     title: Amélioration du dégel des frontières
     text: Le réseau met en œuvre une " ère glaciaire " au bloc 200 000 en introduisant la bombe de difficulté, un mécanisme conçu pour faire passer le mécanisme de consensus du réseau de la preuve de travail à la preuve d'acceptation.
@@ -269,19 +269,13 @@ items:
     text: Les développeurs du noyau d'Ethereum Classic mettent en œuvre les mises à niveau du protocole de réseau de Londres de l'ETH pour maintenir la parité opérationnelle avec sa chaîne sœur.
   etcFlood:
     title: ETC accueille un nouveau Hashrate
-    text: Ethereum Classic s'engage à soutenir l'algorithme minier ETChash et l'écosystème minier actuel. Cela positionne Ethereum Classic comme un réseau bien placé pour absorber une majorité des mineurs Ethash privés de leurs droits avec le passage du réseau ETH au consensus de preuve d'enjeu.
-  etcdao:
-    title: Ethereum Classic DAO
-    text: Le financement stable et à long terme s'avère être un problème pour Ethereum Classic avec l'abandon par la Fondation Ethereum en 2016. Dans un effort pour résoudre le problème de financement à long terme du réseau, l'Ethereum Classic DAO est formé avec la mission d'assurer le développement futur du réseau via un fonds de développement open source. Le financement est généré par l'utilisation d'une pile ETC DeFi hébergée sur EthereumClassic.com.
+    text: Ethereum Classic s'engage à soutenir l'algorithme de minage ETChash et l'écosystème de minage actuel. Cela fait d'Ethereum Classic un réseau bien placé pour absorber la majorité des mineurs Ethash privés de leurs droits avec le passage du réseau ETH à la preuve du consensus de l'enjeu.
   era4:
     title: 5M20 Era 4
-    text: Les récompenses de bloc d'Ethereum Classic sont réduites de 20 % à 2,56 ETC par bloc, conformément au calendrier d'émission 5M20 inspiré du bitcoin. Le taux de minage d'ETChash continue de se transformer en ETC, le réseau atteignant des sommets historiques.
+    text: Les récompenses de bloc d'Ethereum Classic sont réduites de 20 % à 2,56 ETC par bloc, conformément au calendrier d'émission 5M20 inspiré du bitcoin. Le hashrate de minage d'ETChash continue de passer à l'ETC, le réseau atteignant des sommets inégalés.
   sha3Withdrawn:
-    title: Retrait de la proposition du CTE Coop SHA3
-    text: Après plus de trois ans de débat litigieux, Bob Summerwill reconnaît que l'ECIP-1049 entraînerait un durcissement du réseau et retire la proposition. Le coût social négatif causé par la campagne de désinformation des promoteurs de l'ECIP-1049 continue d'affecter négativement la perception du réseau par le public. Cependant, grâce à sa communauté résiliente, Ethereum Classic reste bien positionné pour prospérer sur ETChash dans un monde post-fusion.
-  etcswap:
-    title: ETCswap
-    text: La DAO d'Ethereum Classic lance son premier produit - ETCswap. Le réseau se rapproche ainsi d'un financement stable pour le développement de logiciels libres sur Ethereum Classic. Une pile de protocoles professionnels décentralisés sera déployée sur Ethereum Classic.
+    title: Retrait de la proposition SHA3
+    text: Après plus de trois ans de débats controversés, l'ECIP-1049 est retiré en raison de la probabilité d'un hardfork litigieux. Ethereum Classic reste bien positionné pour prospérer sur ETChash dans un monde post-fusion.
   vitalikEndorsesETC:
     title: Vitalik Buterin soutient Ethereum Classic
     text: Vitalik Buterin, le plus éminent cofondateur d'Ethereum, donne son aval au réseau Ethereum original - Ethereum Classic pour ceux qui apprécient les chaînes de preuve de travail.

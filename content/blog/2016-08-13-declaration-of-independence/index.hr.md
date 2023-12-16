@@ -42,7 +42,7 @@ Međutim, čineći to, kompromitirali su temeljni stup Ethereuma samo kako bi u�
 
 ## Ethereum Classic Kodeks načela
 
-Vjerujemo u *decentralizirani blockchain otporan na cenzuru,* dopuštenja. Vjerujemo u izvornu viziju Ethereuma kao svjetskog računala koje se ne može isključiti, s nepovratnim pametnim ugovorima. Vjerujemo u snažno odvajanje problema, gdje su sistemski račvaci baze koda mogući samo kada se popravljaju ranjivosti na razini protokola, greške ili se pružaju nadogradnje funkcionalnosti. Vjerujemo u izvornu namjeru izgradnje i održavanja *cenzure otporne, nepouzdane i nepromjenjive* razvojne platforme.
+Vjerujemo u *decentralizirani, cenzurisani,* blockchain bez dopuštenja. Vjerujemo u izvornu viziju Ethereuma kao svjetskog računala koje se ne može isključiti, s nepovratnim pametnim ugovorima. Vjerujemo u snažno odvajanje problema, gdje su sistemski račvaci baze koda mogući samo kada se popravljaju ranjivosti na razini protokola, greške ili se pružaju nadogradnje funkcionalnosti. Vjerujemo u izvornu namjeru izgradnje i održavanja *cenzure otporne, nepouzdane i nepromjenjive* razvojne platforme.
 
 Ovdje su napisane deklarirane vrijednosti s kojima se slažu sudionici unutar Ethereum Classic zajednice. Potičemo da se ova načela ne mijenjaju putem edikta od strane bilo kojeg pojedinca ili frakcije koji tvrde da posjeduju moć, autoritet ili kredibilitet za to.
 

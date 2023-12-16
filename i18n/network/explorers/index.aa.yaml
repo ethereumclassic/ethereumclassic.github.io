@@ -1,5 +1,5 @@
 __disclaimer: verify
-title: crwdns70936:0crwdne70936:0
+title: crwdns124595:0crwdne124595:0
 __updated: 2022-02-22
 __contribute: 1
 __contributors:
@@ -12,9 +12,10 @@ __contributors:
   - pyskell
   - TheEnthusiasticAs
   - PauloBaronceli
-seo: crwdns70960:0crwdne70960:0
+  - TheCrowbill
+seo: crwdns124619:0crwdne124619:0
 description: |
-  crwdns70962:0crwdne70962:0
+  crwdns128920:0crwdne128920:0
 items:
   explorers:
     __type: table
@@ -24,10 +25,10 @@ items:
         __linkRef: etc
       kotti:
         __linkRef: kotti
-        text: crwdns70972:0crwdne70972:0
+        text: crwdns124631:0crwdne124631:0
       mordor:
         __linkRef: mordor
-        text: crwdns70976:0crwdne70976:0
+        text: crwdns124635:0crwdne124635:0
     items:
       BlockScout:
         __name: BlockScout
@@ -42,7 +43,7 @@ items:
         __etc: https://www.oklink.com/etc
       Tokenview:
         __name: Tokenview
-        __etc: https://etc.tokenview.com/
+        __etc: https://etc.tokenview.io/
       NovaExplorer:
         __name: Nova Explorer
         __etc: https://explorer.novanetwork.io/?network=Ethereum%20Classic
@@ -57,3 +58,6 @@ items:
         __etc: https://explorer-expedition.etc-network.info/?network=Ethereum+Classic+at+etc-network.info+BESU+-+DE
         __kotti: https://explorer-expedition.etc-network.info/?network=Ethereum+Classic+at+etc-network.info+GETH+Kotti
         __mordor: https://explorer-expedition.etc-network.info/?network=Ethereum+Classic+at+etc-network.info+GETH+Mordor
+      Etcerscan:
+        __name: Etcerscan
+        __etc: https://etcerscan.com/

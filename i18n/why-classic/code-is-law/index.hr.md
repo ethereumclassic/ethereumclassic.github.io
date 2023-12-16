@@ -22,7 +22,7 @@ _Code is Law_ stavlja "Unstoppable" u "Build Unstoppable Applications", filozofi
 
 ## Vizija za budućnost
 
-Mnogi koji duboko razmišljaju o potencijalu blockchain tehnologije imaju trenutak "eureke", u kojem sve klikne _,_divlja vrednovanja prostora kriptovaluta odjednom se osjećaju pomalo oskudno. Oni shvaćaju da budućnost može postojati u kojoj svim sporazumima između ljudi u konačnici ne upravljaju potkupljive institucije, već hladna, čvrsta logika kodeksa pametnog ugovora.
+Mnogi koji duboko razmišljaju o potencijalu blockchain tehnologije imaju trenutak "eureke", u kojem _klikne_, a divlja vrednovanja prostora kriptovaluta odjednom se osjećaju pomalo oskudno. Oni shvaćaju da budućnost može postojati u kojoj svim sporazumima između ljudi u konačnici ne upravljaju potkupljive institucije, već hladna, čvrsta logika kodeksa pametnog ugovora.
 
 U ovoj budućnosti, pojedinci sami odlučuju u koje ugovore žele sudjelovati, umjesto da bacaju kockice putem geografskih monopola u kojima su rođeni. Nema posrednika jer je traženje rente u svim područjima zamijenjeno disintermedijacijom, tržišnom konkurencijom i optimizacijom cijena. Ova stvarnost je pravednija, jeftinija, interoperabilna i globalna. Postaje univerzalno otapalo koje podmazuje stare okoštale strojeve.
 
@@ -34,7 +34,7 @@ U ovoj budućnosti, jedna ili više globalnih "virtualnih jurisdikcija" postoji,
 
 Za razliku od pravnih jurisdikcija koje postoje danas i kojima redovito manipuliraju hirovi moćnih, buduće virtualne jurisdikcije bit će vođene po načelu _Kod je zakon_, što znači da po prvi put čovječanstvo može djelovati pod _stvarnim_, kao suprotstavljena maski vladavine prava, kodificirane ne u ezoteričnim i pogrešno protumačivim pravnim tekstovima, već u čistoj matematici.
 
-_Code is Law_ omogućen je zahvaljujući blockchain tehnologiji i jednostavan je koncept koji ove virtualne jurisdikcije održava suverenima. To znači da je kod pametnog ugovora krajnji arbitar ishoda interakcije na lancu, za razliku od neke nadmoćne sile izvan mreže. Kao rezultat toga, _aplikacija_ su _nezaustavljive_i rade točno onako kako je programirano bez prekida rada, cenzure ili uplitanja treće strane.
+_Code is Law_ omogućen je tehnologijom blockchain i jednostavan je koncept koji ove virtualne jurisdikcije održava suverenima. To znači da je kod pametnog ugovora krajnji arbitar ishoda interakcije na lancu, za razliku od neke nadmoćne sile izvan mreže. Kao rezultat toga, _aplikacija_ su _nezaustavljive_i rade točno onako kako je programirano bez prekida rada, cenzure ili uplitanja treće strane.
 
 Kada se pojedinci dobrovoljno uključe u pametne ugovore u lancu koji slijedi _Kod je zakon_, oni prihvaćaju ishod bilo koje logike definirane unutar tih ugovora. Ako je ugovor loše napisan ili ima grešku, nije odgovornost šire mreže da "spaja" strane koje nisu zadovoljne danim ishodom. Ukratko, nema promjena, spašavanja ili povrata, osim ako nije unaprijed programirano.
 
@@ -42,7 +42,7 @@ Kada se pojedinci dobrovoljno uključe u pametne ugovore u lancu koji slijedi _K
 
 Nakon razmišljanja, postaje očito da je _Kodeks zakon_ _jedini_ način na koji se pametni ugovori mogu pošteno ili korisno tumačiti. Na lancima blokova koji ne podržavaju _Kod je zakon_, ishod transakcija nije reguliran individualnim izborom putem ugovornog koda, već u konačnici po nalogu "upravljanja" naslijeđenog sustava, uključujući sve nedostatke na koje se mislilo uvođenjem lanca blokova ublažiti.
 
-Za one koji žele "izgraditi _nezaustavljivih_ aplikacija", očita je istina da je _Code is Law_ upravo ono što blockchaine čini vrijednim. Zbog toga postoje. Bez _Code is Law_, postoje mnogo učinkovitiji načini za "izgradnju _aplikacije koje se mogu zaustaviti", kao što su Amazon Web Services, pa zašto se uopće mučiti s_?
+Za one koji žele "izgraditi _nezaustavljivih_ aplikacija", očigledna je istina da je _Code is Law_ upravo ono što blockchaine čini vrijednim. Zbog toga postoje. Bez _Kod je zakon_, postoje mnogo učinkovitiji načini za "izgradnju _aplikacije koje se mogu zaustaviti", kao što su Amazon Web Services,_ zašto se uopće mučiti s blockchainom?
 
 ## Ne bez borbe
 
@@ -54,7 +54,7 @@ Ako je [povijest](https://www.eff.org/wp/riaa-v-people-five-years-later) nešto 
 
 ## Gdje Zakon nije Zakon
 
-Koncept _Kodeks je Zakon_ potencijalno je provokativan i remeti postojeći globalni poredak, ali se protiv njega ne treba refleksno pobuniti. Kao i sve moćne tehnologije, _kako i gdje_ se primjenjuju određuje tko će imati koristi od njihove primjene. Kao i internet prije blockchaina, duh je izašao iz boce. To će nedvojbeno promijeniti postojeći krajolik, ali društvo će imati koristi od pozitivnog bavljenja tehnologijom.
+Koncept _Kod je zakon_ potencijalno je provokativan i remeti postojeći globalni poredak, ali se protiv njega ne treba refleksno pobuniti. Kao i sve moćne tehnologije, _kako i gdje_ se primjenjuju određuje tko će imati koristi od njihove primjene. Kao i internet prije blockchaina, duh je izašao iz boce. To će nedvojbeno promijeniti postojeći krajolik, ali društvo će imati koristi od pozitivnog bavljenja tehnologijom.
 
 Način na koji ćemo se angažirati ovisi o prepoznavanju granica _Kod je zakon_i razumijevanju da, poput žeravice vatre, može postojati samo u jedinstvenim okolnostima i mora se njegovati i sazrijevati u bijesni izvor svjetlosti koji ima potencijal postati.
 
@@ -68,7 +68,7 @@ _Kod je zakon_ blockchaini su opt-in sustavi koji mogu imati posljedice izvan la
 
 ### Izvan sloja ugovora
 
-Uobičajena pogrešna predodžba o _kodu je zakon_ je da se primjenjuje na sve dijelove tehnološkog niza lanca blokova, uključujući kod klijenata čvorova. Ovo je besmisleno, jer su blockchain čvorovi napisani na konvencionalnim programskim jezicima i rade u tradicionalnim izvršnim okruženjima, gdje kod ne bi mogao biti zakon ni da je htio. Umjesto toga, blockchain klijenti su napisani da sudjeluju u danom blockchain _protokolu_, čija operacija stvara novu decentraliziranu izvršnu okolinu; _Ugovorni sloj_ koji se nalazi na vrhu, gdje je _Kod Zakon_ može djelovati.
+Uobičajena pogrešna predodžba o _kodu je zakon_ je da se primjenjuje na sve dijelove tehnološkog niza lanca blokova, uključujući kod klijenata čvorova. Ovo je besmisleno, jer su blockchain čvorovi napisani na konvencionalnim programskim jezicima i rade u tradicionalnim izvršnim okruženjima, gdje kod ne bi mogao biti zakon ni da je htio. Umjesto toga, blockchain klijenti su napisani da sudjeluju u danom blockchain _protokolu_, čija operacija stvara novo decentralizirano okruženje za izvršavanje; _Ugovorni sloj_ koji se nalazi na vrhu, gdje je _Kod Zakon_ može djelovati.
 
 ### 9 od 10 lanaca
 

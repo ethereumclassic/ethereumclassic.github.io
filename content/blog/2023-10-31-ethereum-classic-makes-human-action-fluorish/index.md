@@ -2,7 +2,7 @@
 title: "Ethereum Classic Makes Human Action Flourish"
 date: 2023-10-31
 author: Donald McIntyre
-contributors: ["Donald McIntyre"]
+contributors: ["DonaldMcIntyre"]
 tags: ["philosophy"]
 linkImage: ./banner.png
 ---

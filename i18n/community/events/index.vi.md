@@ -2,7 +2,7 @@
 updated: 2022-02-22
 contribute: true
 title: Sự kiện
-seo: Tổng quan về thế giới thực và các sự kiện liên quan đến Ethereum Classic ảo. Hội nghị thượng đỉnh ETC và Cuộc gọi cộng đồng hàng tuần được chào đón đến tất cả!
+seo: Tổng quan về các sự kiện liên quan đến Ethereum Classic trong thế giới thực và ảo. Hội nghị thượng đỉnh ETC và Cuộc gọi cộng đồng hàng tuần đều được chào đón!
 contributors:
   - IstoraMandiri
   - bobsummerwill
@@ -15,9 +15,9 @@ contributors:
 
 CẬP NHẬT: Các cuộc gọi cộng đồng thường xuyên, hàng tuần hiện đang bị gián đoạn.
 
-Thứ Năm hàng tuần, thường vào lúc 1500 UTC, một cuộc trò chuyện thoại nhóm diễn ra trong máy chủ Ethereum Classic [Discord](https://ethereumclassic.org/discord). Cuộc gọi được truyền trực tuyến tới [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos), nhưng bạn cũng có thể tham gia 1 giờ trước khi chúng tôi phát trực tiếp, lúc 1400 UTC, để trò chuyện không lưu nội dung trò chuyện trong Green Room.
+Thứ Năm hàng tuần, thường là lúc 15:00 UTC, một cuộc trò chuyện thoại nhóm diễn ra trong máy chủ Ethereum Classic [Discord](https://ethereumclassic.org/discord). Cuộc gọi được truyền trực tuyến tới [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos)nhưng bạn cũng có thể tham gia 1 giờ trước khi chúng tôi phát trực tiếp, lúc 14:00 UTC, để trò chuyện không lưu nội dung trò chuyện trong Phòng Xanh.
 
-Thỉnh thoảng, một vị khách đặc biệt sẽ tham gia trò chuyện Hỏi và Đáp với cộng đồng. Những cuộc gọi này thường được ghi âm và bạn có thể tìm thấy những đoạn ghi âm này trên kho lưu trữ Cuộc gọi cộng đồng [của ETC](https://github.com/ethereumclassic/community-calls).
+Thỉnh thoảng sẽ có một khách mời đặc biệt tham gia trò chuyện Hỏi Đáp với cộng đồng. Các cuộc gọi này thường được ghi lại và bạn có thể tìm thấy các bản ghi này trên kho lưu trữ Cuộc gọi cộng đồng ETC [](https://github.com/ethereumclassic/community-calls).
 
 Tất cả mọi người, bất kể mức độ tham gia vào ETC, đều được hoan nghênh tham gia cuộc trò chuyện này và thường có thời gian sẵn sàng để trả lời các câu hỏi nếu bạn muốn đưa ra điều gì đó.
 
@@ -41,4 +41,4 @@ Video của các bài thuyết trình có sẵn trong phần [Video > Hội ngh�
 
 ETC Core Devs Call là một cuộc gọi thảo luận kỹ thuật dành cho các nhà phát triển làm việc trên các ứng dụng khách Ethereum Classic và / hoặc quy trình ECIP.
 
-Các cuộc gọi này không có lịch trình cụ thể, nhưng diễn ra khá thường xuyên trong năm. Các cuộc gọi đề xuất được thông báo dưới dạng các vấn đề GitHub trong [ECIPs repo](https://github.com/ethereumclassic/ECIPs/issues?q=is%3Aissue+Devs+Call).
+Những cuộc gọi này không có lịch trình cố định, nhưng diễn ra khá thường xuyên trong suốt cả năm. Các cuộc gọi được đề xuất được thông báo dưới dạng các sự cố GitHub trong repo [ECIP](https://github.com/ethereumclassic/ECIPs/issues?q=is%3Aissue+Devs+Call).

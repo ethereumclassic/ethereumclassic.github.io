@@ -23,10 +23,10 @@ items:
         description: ETC blok zinciri için Dapps oluşturma platformu.
       ESerialize:
         description: Bu modülün amacı, Ethereum Stack için verileri serileştirmek ve seriden çıkarmak için kolay işlevler sağlamaktır.
-      Ethereum JSON-RPC API:
-        description: EVM tabanlı bir blok zinciri istemcisinin uygulaması gereken JSON-RPC yöntemlerinin bir spesifikasyonu.
       Eth Fiddle:
         description: Akıllı sözleşmeler için çevrimiçi editör.
+      Ethereum JSON-RPC API:
+        description: EVM tabanlı bir blok zinciri istemcisinin uygulaması gereken JSON-RPC yöntemlerinin bir spesifikasyonu.
       EVM-LLVM:
         description: Geliştiriciler Ethereum Sanal Makinesini (EVM) hedeflemek için Solidity dışında geniş kapsamlı programlama dillerini (akıllı sözleşmeler için Rust!) kullanabilmenin yanı sıra, LLVM altyapısı etrafında inşa edilen çeşitli geliştirme araçlarından da hemen yararlanabilirler.
       Ganache:
@@ -43,14 +43,18 @@ items:
         description: Quorum, halka açık Ethereum topluluğunun yenilikçiliğini kurumsal ihtiyaçları desteklemek için geliştirmelerle birleştiren açık kaynaklı bir blok zinciri platformudur.
       Remix Online IDE:
         description: Akıllı sözleşmeleri derleyip çeşitli Ethereum ağlarında yayınlayabilen kullanışlı bir tarayıcı içi IDE. Bir linter içerir.
-      Signatory:
-        description: Ethereum Stack için çevrimdışı bir işlem ve mesaj imzalayıcı.
       Sidekik:
         description: Yerel veya devreye alınmış EVM tabanlı akıllı sözleşmelerle etkileşim kurmanıza izin veren görsel bir kullanıcı arabirimi ile akıllı sözleşmelerde hata ayıklayın, test edin ve grok yapın.
+      Signatory:
+        description: Ethereum Stack için çevrimdışı bir işlem ve mesaj imzalayıcı.
       SOLL:
         description: LLVM derleyicisi nihayet Solidity'ye geliyor. Bununla birlikte, birden fazla blok zinciri VM'sinde kolayca akıllı sözleşmeler oluşturabiliyoruz. Ethereum Classic'teki EVM ve ETH 2.0'ın eWASM'ı ilk desteklediklerimiz arasında.
       Sputnikvm:
         description: SputnikVM, Ethereum Sanal Makinesi'nin (EVM) açık kaynaklı bağımsız bir uygulamasıdır. Farklı Ethereum tabanlı blok zincirleri için verimli, takılabilir bir sanal makine olmayı amaçlamaktadır.
+      thirdweb:
+        description: Uygulamalarınızı veya oyunlarınızı merkezi olmayan ağlara bağlamak için ihtiyacınız olan her şey. Web3 geliştirmeyi basitleştiren güçlü araçlar.
+      Tokenview:
+        description: 120'den fazla blok zinciri ile etkileşim için birleşik bir çerçeve. Tokenview blockchain API'leri, karmaşık blockchain verilerini tek API çağrılarına basitleştiren güçlü uç noktalara sahiptir. Birleştirilmiş API çağrılarını kullanarak desteklenen tüm blok zincirleri için kod. Buradan kolayca işlem, adres, gaz, sözleşme, token, NFT, günlükler ve zincirden herhangi bir bilgi almak için. Ve evet, zincire tx de gönderebilirsiniz. APIKey ile tek tıklamayla yapılandırma, geliştiricilerin Kullanmasına, Oluşturmasına ve Oluşturmasına yardımcı olur.
       Truffle Suite:
         description: Ethereum Sanal Makinesi (EVM) kullanan blok zincirleri için dünya standartlarında bir geliştirme ortamı, test çerçevesi ve varlık hattı, bir geliştirici olarak hayatı kolaylaştırmayı amaçlamaktadır.
   nodeTools:
