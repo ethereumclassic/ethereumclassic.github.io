@@ -83,7 +83,7 @@ Die Ethereum Foundation, die in einem Crowdsale Gelder zur Schaffung von Ethereu
 
 Im November 2015 schloss sich der ehemalige CCO mit einigen Programmierern zusammen und gründete ein Unternehmen namens slock.it. Slock.it wollte nicht nur _eine_ DAO starten, sondern _die_ DAO, die als eine Art Risikokapitalfonds für Ethereum-Projekte dienen sollte. Es wurde als eine Möglichkeit angepriesen, das Ethereum-Ökosystem und die Renditen für Investoren zu steigern, die Ether in den DAO-Kontrakt einzahlen und im Gegenzug DAO-Token erhalten würden, die es ermöglichen würden, für die von der DAO getätigten Investitionen abzustimmen und daraus Gewinne zu erzielen.
 
-### Kuratoren-Kumpanei
+### Kurator Vetternwirtschaft
 
 Die DAO wurde zu einer großen Nachricht in der Ethereum-Welt, nicht zuletzt, weil sie von vielen Mitgliedern der Ethereum Foundation maßgeblich unterstützt wurde. Abgesehen davon, dass das Projekt von EFs aktuellem CCO geleitet wird, hat die DAO "Kuratoren" rekrutiert, die die Möglichkeit haben, ein Veto gegen bestimmte Aktionen einzulegen und als Ausfallsicherung zu fungieren, um den Anlegern zu versichern, dass die Fonds nicht durch bestimmte Arten von Angriffen gefährdet sind. [Alle 11 Kuratoren](https://medium.com/ursium-blog/vitalik-buterin-gavin-wood-alex-van-de-sande-vlad-zamfir-announced-amongst-stellar-dao-curators-44be4d12dd6e#.1mjq6cfn6) haben direkt für das Ethereum-Projekt oder die Ethereum-Stiftung gearbeitet, darunter einige namhafte Persönlichkeiten.
 
@@ -155,13 +155,13 @@ Bevor eine Hard Fork beschlossen wurde, bestätigte [](https://old.reddit.com/r/
 
 Es bestand die unrealistische Befürchtung, dass der DAO-Hacker _niemals zurückgehen würde_ und die 30 % für immer weggesperrt würden. In Wirklichkeit war es jedoch nur eine Frage der Zeit, bis die Robin Hood Group in der Lage sein würde, die Kontrolle über die verbleibenden Gelder zu erlangen, da die RHG ihren Teil des Pattes automatisieren konnte, während sie andere Wege verfolgte, um den Hacker zu entlarven oder zu stören.
 
-Die Pattsituation bedeutete, dass die Whitehats den DAO-Hacker daran hinderten, einen nennenswerten Gewinn zu erzielen, und da sie wussten, dass andere Wege, einschließlich Verhandlungen, Forensik in der Kette und polizeiliche Maßnahmen in der realen Welt, genutzt werden konnten, war der Hacker schließlich gezwungen, entweder freiwillig aufzugeben oder mit Konsequenzen außerhalb der Kette zu rechnen, die ihn daran hindern würden, seinen Teil der Pattsituation einzuhalten.
+Die Pattsituation bedeutete, dass die Whitehats The DAO Hacker daran gehindert hatten, einen nennenswerten Geldsegen zu erhalten, und da sie wussten, dass andere Wege, einschließlich Verhandlungen, Kettenforensik und Polizeiarbeit in der realen Welt, genutzt werden könnten, würde The Hacker schließlich gezwungen sein, entweder freiwillig aufzugeben oder gegen- Kettenfolgen, die sie daran hindern würden, ihre Seite der Pattsituation aufrechtzuerhalten.
 
 Eines der absurden, aber wichtigen Details, die oft über die DAO-Gabel vergessen werden, ist, dass sie unnötig war, da der Großteil der Gelder bereits eingezogen war und der Rest so gut wie eingezogen war. Ohne eine Hard Fork war das _Worst-Case-Szenario_ für DAO-Token-Inhaber ein _vorübergehender_ 30%iger Haircut, aber wie wir sehen werden, führte die Implementierung der Hard Fork zu einem weitaus schlimmeren Ergebnis, nicht nur für DAO-Token-Inhaber, sondern für die gesamte Ethereum-Community und die Kultur der Kryptowährung als Ganzes.
 
 _UPDATE:_ Diese Analyse hat sich als richtig erwiesen, da die Identität des DAO-Hackers inzwischen von Forschern und Mitgliedern der RHG herausgefunden wurde. Ohne eine Abspaltung wäre der Druck, den Hacker zu entlarven, viel größer gewesen und hätte wahrscheinlich viel früher stattgefunden.
 
-### Gabeln oder nicht Gabeln?
+### Forken oder nicht forken?
 
 Während dieses relativ bescheidene Worst-Case-Szenario für viele DAO-Token-Inhaber akzeptabel war, war alles, was weniger als die sofortige Rückgabe von 100 % der Gelder bedeutete, für einen einflussreichen Teil der Bevölkerung nicht akzeptabel, so dass die Hard-Fork-Debatte weiterging.
 
@@ -175,7 +175,7 @@ Die Fork-Gegner hingegen argumentierten, dass "Build Unstoppable Applications" b
 
 Die Fork-Gegner wiesen auch darauf hin, dass die negativen Auswirkungen einer Hard Fork alle Mitglieder des Netzwerks belasten würden, unabhängig davon, ob sie DAO-Token-Inhaber sind oder nicht. Im Gegensatz dazu wären die Nutznießer der Abspaltung nur eine kleine Teilmenge der Betroffenen. Diese Realität der "privatisierten Gewinne und sozialisierten Verluste" erinnerte an die Finanzkrise von 2008, wobei die Hard Fork von vielen als "Rettungsaktion" bezeichnet wurde, mit den unterschiedlichsten Konnotationen.
 
-Als Reaktion auf diese Bedenken wurden die Befürworter dazu angehalten, die Risiken einer Kettenspaltung herunterzuspielen und sie in die Kategorie "Mach dir keine Sorgen, das ist eine Verschwörungstheorie der Bitcoin-Maximalisten" zu stecken. Darüber hinaus wurden keinerlei Vorbereitungen für eine Kettenaufspaltung getroffen, wie z. B. die Implementierung eines Schutzes vor Wiederholungsangriffen oder die Information der Börsen über dieses mögliche Ergebnis, um sie vor doppelten Ausgaben zu schützen, da dies die Möglichkeit einer Kettenaufspaltung bekräftigen und damit die Wahrscheinlichkeit einer solchen erhöhen würde.
+Als Reaktion auf diese Bedenken wurden Pro-Forker dazu angeregt, die Risiken einer Kettenspaltung herunterzuspielen und sie unter der Kategorie „Mach dir keine Sorgen, das ist eine Verschwörungstheorie, die von Bitcoin-Maximalisten geschaffen wurde“ zurückzustellen. Darüber hinaus wurden keinerlei Vorbereitungen für eine Kettenaufspaltung getroffen, wie z. B. die Implementierung eines Schutzes vor Wiederholungsangriffen oder die Information der Börsen über dieses mögliche Ergebnis, um sie vor doppelten Ausgaben zu schützen, da dies die Möglichkeit einer Kettenaufspaltung bekräftigen und damit die Wahrscheinlichkeit einer solchen erhöhen würde.
 
 ![Und so war die Hard Fork der einzig akzeptable Weg nach vorne.](./forkyou.jpeg)
 
@@ -200,7 +200,7 @@ Mittlerweile glich die Hard Fork-Debatte eher einem religiösen Kreuzzug ohne je
 
 ### Hergestellter Konsens
 
-Ein Blick auf die DAO-Fork-Debatte auf Reddit zeigt, dass ein beträchtlicher Teil der Ethereum-Gemeinschaft gegen die Hard Fork war, allein aufgrund der [upvotes](https://old.reddit.com/r/ethereum/comments/4p7mhc/update_on_the_white_hat_attack/d4iqgx1/) . Dennoch waren einflussreiche Kräfte beteiligt, die der Meinung waren, dass es keine andere Wahl gab, als eine Hard Fork zu fordern, um die finanziellen Interessen zu schützen.
+Ein Blick auf die DAO-Fork-Debatte auf Reddit zeigt, dass ein beträchtlicher Teil der Ethereum-Gemeinschaft gegen die Hard Fork war, allein aufgrund der [upvotes](https://old.reddit.com/r/ethereum/comments/4p7mhc/update_on_the_white_hat_attack/d4iqgx1/) . Dennoch waren einflussreiche Kräfte beteiligt, die der Meinung waren, dass es keine andere Wahl gab, als eine Hard Fork zu fordern, um die finanziellen Interessen zu schützen. Trotzdem waren einflussreiche Kräfte beteiligt, die keine andere Wahl sahen, als auf eine Hard Fork zu drängen, um die finanziellen Interessen zu schützen.
 
 Leider ist es wahrscheinlich unmöglich, dem _tatsächlichen_ Konsens zu diesem Zeitpunkt auf den Grund zu gehen, da die wichtigsten Diskussionsforen - Reddit und Twitter - sehr anfällig für [Sybil-Angriffe](https://en.wikipedia.org/wiki/Sybil_attack) in Form von Astroturfing waren. Hatte die Hard Fork eine echte Unterstützung durch die Bevölkerung, oder war es nur ein künstlicher Konsens? Wir werden es wahrscheinlich nie erfahren, aber zumindest gab es einen erheblichen Widerstand, und es kann nicht geleugnet werden, dass das, was der Gemeinschaft auferlegt werden sollte, eine _umstrittene Hard Fork_ war.
 
@@ -267,7 +267,7 @@ Auf dieser neuen Abzweigung, wo die Vertragsebene entweiht wurde, war das Verspr
 
 Der DAO Hard Fork unterschied sich von den typischen Hard Forks, die bei Ethereum relativ häufig vorkommen und bei denen es sich um Protokollkorrekturen oder Funktionserweiterungen handelt; aus technischer Sicht gab es kein "Upgrade" des Protokolls. Stattdessen war das "Upgrade" zum ersten (und vorerst letzten) Mal politisch und betraf nur die Aufhebung von Vorgängen auf der Vertragsebene, die unter [](/why-classic/code-is-law/#outside-the-contract-layer) vom Protokoll zu unterscheiden ist und als unaufhaltsam vermarktet wurde.
 
-### Die Kettenspaltung
+### Der Kettenspalt
 
 Wie ein göttliches, universelles Gesetz zieht sich eine Dynamik der Gegensätze durch die gesamte Natur. Das Licht und die Dunkelheit, das Yin und das Yang, die Dezentralität und die Zentralität.
 
@@ -327,7 +327,7 @@ Doch die Angriffe gegen Ethereum Classic beschränkten sich nicht nur auf Beschi
 
 Als Ergebnis der Kettenaufspaltung sahen alle Adressen, die vor der Hard Fork Ether besaßen, nun das Doppelte: Sie besaßen sowohl die Ether, die sie zuvor besaßen, die als ETC bekannt wurden, als auch eine gleiche Menge der neu geprägten Forked Ether, die das Symbol ETH erhielten. Dank der Börsen, die ETC kurz nach der Abspaltung aufnahmen, entstand ein liquider Markt, der die Preisfindung zwischen den beiden Ketten ermöglichte.
 
-In diesen frühen Tagen der Preisermittlung waren viele Pro-Forcer darauf erpicht, ihre "wertlosen" ETC zu lächerlich niedrigen Kursen zu verkaufen. In der Annahme, es handele sich um einen "Wettlauf nach unten" auf einem sterbenden Markt, stießen sie massive Mengen an ETC ab und drückten den Preis auf bis zu 0,01 ETH pro ETC. Dies mag vorübergehend Besorgnis erregt haben, aber es ermöglichte den diamantenhändigen Anhängern von ETC, einige einmalige Geschäfte abzuschließen.
+In diesen frühen Tagen der Preisermittlung waren viele Pro-Forcer darauf erpicht, ihre "wertlosen" ETC zu lächerlich niedrigen Kursen zu verkaufen. In der Annahme, es handele sich um einen "Wettlauf nach unten" auf einem sterbenden Markt, stießen sie massive Mengen an ETC ab und drückten den Preis auf bis zu 0,01 ETH pro ETC. Dies mag vorübergehende Besorgnis ausgelöst haben, aber es ermöglichte es diamantenen Anhängern von ETC, einige einmalige Geschäfte zu machen.
 
 Dies gipfelte in einer Verkaufswut auf dem Markt, wobei prominente Forker behaupteten, der Verkauf ihrer ETC sei "kostenloses Geld". Für sie war es ein kostenloser Handel, da ETC keinen Wert hatte, aber in Wirklichkeit waren sie Teilnehmer an einem der fairsten marktbasierten Umverteilungsereignisse, die es je bei Kryptowährungen gab. Die "wertlose" ETC wurde im Wesentlichen kostenlos von den glühenden Befürwortern auf diejenigen übertragen, die eine Zukunft in _Code is Law_ sahen, was man heute als "ultrafaire Umverteilung" bezeichnen kann.
 
@@ -390,9 +390,9 @@ Damals bestand die einzige garantierte Möglichkeit, die Wiederholung von Transa
 
 ## Gelernte Lektionen
 
-Seit der Hard Fork und ihren unmittelbaren Auswirkungen im Jahr 2016 hat sich der Staub weitgehend gelegt, die Feindseligkeit ist verflogen, und sowohl Ethereum™ als auch Ethereum Classic haben sich weiterentwickelt und sind auf ihre eigene Weise gewachsen. Die Vergangenheit liegt hinter uns, und die Handlungen einzelner, die in den Strudel geraten sind, sind vergeben. Die praktischen und moralischen Lektionen, die uns die DAO-Gabel gelehrt hat, dürfen nicht vergessen werden, damit ähnliche Debakel in Zukunft vermieden werden können.
+Seit der Hard Fork und ihren unmittelbaren Auswirkungen im Jahr 2016 hat sich der Staub weitgehend gelegt, die Feindseligkeit ist verflogen, und sowohl Ethereum™ als auch Ethereum Classic haben sich weiterentwickelt und sind auf ihre eigene Weise gewachsen. Die praktischen und moralischen Lektionen, die uns die DAO-Gabel gelehrt hat, dürfen nicht vergessen werden, damit ähnliche Debakel in Zukunft vermieden werden können.
 
-### Fallen der Koordinierung
+### Koordinationsfallen
 
 Eine wichtige Erkenntnis aus dem DAO Fork-Debakel, die erst im Nachhinein richtig erkannt werden kann, ist die Gefahr von _Koordinationsfallen_. Dieser Begriff wurde hier geprägt, um ein Phänomen im Zusammenhang mit der Blockchain zu beschreiben, aber das gleiche Konzept gilt für viele Systeme, in denen Anreizstrukturen zu schlechten Ergebnissen führen.
 

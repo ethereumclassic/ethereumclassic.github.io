@@ -2,7 +2,7 @@
 title: "ETC工作量证明课程:介绍"
 date: 2023-11-02
 author: Donald McIntyre
-contributors: ["Donald McIntyre"]
+contributors: ["DonaldMcIntyre"]
 tags: ["series", "education"]
 linkImage: ./banner-3.png
 ---
@@ -35,7 +35,7 @@ linkImage: ./banner-3.png
 ## 第二部分：POW的好处
 
 6. ETC是比特币哲学与以太坊技术
-7. POW的革命性好处？
+7. POW的革命性好处
 8. POW促进基本权利
 9. POW中不可变性的含义
 10. POW的无权限悖论

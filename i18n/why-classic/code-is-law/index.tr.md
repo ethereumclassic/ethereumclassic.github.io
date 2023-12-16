@@ -5,7 +5,7 @@ disclaimer: opinion
 seo: '"Kod Yasadır" kavramının ve Ethereum Classic''in bu parlak geleceğin ortaya çıkmasına izin veren birkaç blok zinciri projesinden biri olduğunun açıklaması.'
 ---
 
-## Önemli Noktalar
+## Anahtar noktaları
 
 - Blockchain teknolojisi ve Akıllı Sözleşmeler, insanlığın gelişmesinde yeni bir çağın kilidini açma potansiyeline sahiptir.
 - _Akıllı Sözleşme Platformlarının sunduğu_ değer _Kod Kanundur_; _Durdurulamaz Uygulamalar Oluşturma_yeteneğidir.
@@ -28,7 +28,7 @@ Bu gelecekte bireyler, içine doğdukları coğrafi tekeller aracılığıyla za
 
 Toplum yolsuzluğun verimsizliği ve şeffaflığından kurtuldukça, insanlığın gelişmesinde yeni bir çağ açılacaktır. Bu, yeni bir rönesanstan, karanlık alternatifler karşısında ışıldayan bir umut ışığından başka bir şey olmayacaktır ve üstelik bu, bizim yaşam süremiz içinde gerçekleştirilebilir.
 
-## Sanal Yargı Alanları
+## Sanal Yetki Alanları
 
 Bu gelecekte, bugün işleyen coğrafi temelli yasal çerçevelerin üzerinde ve ötesinde, bazı durumlarda bunların yerine, bir veya daha fazla küresel "sanal yargı alanı" var olacaktır. Bu yeni yetki alanları, geleneksel alternatiflerinin tutarlı bir şekilde sağlayamadığı bir şeyi sundukları için tercih edilecektir: şeffaflık, adalet ve dürüstlük.
 

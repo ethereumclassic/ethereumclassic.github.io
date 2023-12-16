@@ -44,6 +44,9 @@ learn:
       name: Kennis
       description: Meer informatie over de grondslagen van ETC
       navItems:
+        course:
+          name: Cursus
+          description: Een gestructureerde video- en artikelenserie over Ethereum Classic
         foundation:
           name: Stichting
           description: De kernbeginselen die de solide filosofische basis van ETC vormen

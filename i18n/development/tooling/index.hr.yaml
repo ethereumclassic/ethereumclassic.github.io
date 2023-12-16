@@ -23,10 +23,10 @@ items:
         description: Platforma za izgradnju Dapps za ETC blockchain.
       ESerialize:
         description: Cilj ovog modula je pružiti jednostavne funkcije za serijalizaciju i deserijalizaciju podataka za Ethereum Stack.
-      Ethereum JSON-RPC API:
-        description: Specifikacija JSON-RPC metoda koje blockchain klijent temeljen na EVM-u mora implementirati.
       Eth Fiddle:
         description: Online uređivač za pametne ugovore.
+      Ethereum JSON-RPC API:
+        description: Specifikacija JSON-RPC metoda koje blockchain klijent temeljen na EVM-u mora implementirati.
       EVM-LLVM:
         description: Ne samo da programeri mogu koristiti veliki broj programskih jezika (Rust za pametne ugovore!) osim Solidityja za ciljanje Ethereum Virtual Machine (EVM), već mogu odmah imati koristi od raznih razvojnih alata izgrađenih oko LLVM infrastrukture.
       Ganache:
@@ -43,14 +43,18 @@ items:
         description: Quorum je blockchain platforma otvorenog koda koja kombinira inovacije javne Ethereum zajednice s poboljšanjima za podršku potrebama poduzeća.
       Remix Online IDE:
         description: Koristan IDE unutar preglednika koji može sastaviti i objaviti pametne ugovore na raznim Ethereum mrežama. Uključuje linter.
-      Signatory:
-        description: Izvanmrežni potpisnik transakcija i poruka za Ethereum Stack.
       Sidekik:
         description: Otklanjanje pogrešaka, testiranje i grok pametnih ugovora s vizualnim korisničkim sučeljem koje vam omogućuje interakciju s lokalnim ili implementiranim pametnim ugovorima temeljenim na EVM-u.
+      Signatory:
+        description: Izvanmrežni potpisnik transakcija i poruka za Ethereum Stack.
       SOLL:
         description: LLVM kompajler konačno dolazi u Solidity. S njim možemo jednostavno stvoriti pametne ugovore na više blockchain VM-ova. EVM na Ethereum Classic i eWASM ETH 2.0 među prvima su koje podržavamo.
       Sputnikvm:
         description: SputnikVM je samostalna implementacija Ethereum Virtual Machine (EVM) otvorenog koda. Cilj mu je biti učinkovit virtualni stroj koji se može priključiti za različite blockchaine temeljene na Ethereumu.
+      thirdweb:
+        description: Sve što vam je potrebno za povezivanje vaših aplikacija ili igara s decentraliziranim mrežama. Snažni alati koji pojednostavljuju web3 razvoj.
+      Tokenview:
+        description: Jedinstveni okvir za interakciju s više od 120 blockchaina. Tokenview blockchain API-ji imaju snažne krajnje točke koje pojednostavljuju složene blockchain podatke u pojedinačne API pozive. Kod za sve podržane lance blokova pomoću unificiranih API poziva. Odavde za jednostavno dobivanje transakcije, adrese, goriva, ugovora, tokena, NFT-a, zapisa i svih informacija iz lanca. I da, također možete poslati tx lancu. Konfiguracija jednim klikom s APIKeyem pomaže programerima da koriste, stvaraju i grade.
       Truffle Suite:
         description: Razvojno okruženje svjetske klase, okvir za testiranje i cjevovod imovine za blockchaine koji koriste Ethereum Virtual Machine (EVM), s ciljem da život programera učini lakšim.
   nodeTools:

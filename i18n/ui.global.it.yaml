@@ -47,9 +47,12 @@ qa:
 ## Announcement Banner
 announcement:
   text: |
-    Questo sito Web è ora tradotto in più lingue tramite l'apprendimento automatico. Fare clic sulla bandiera in alto a destra della pagina per cambiare lingua. Se desideri aiutare a correggere le traduzioni, contattaci!
+    L'aggiornamento della rete a spirale sarà attivato con il blocco 19.250.000, il cui arrivo è previsto per il 31 gennaio 2024. Assicuratevi che il software del vostro nodo sia aggiornato all'ultima versione.
   button:
-    text: "Aiuto per la traduzione"
+    text: "Per saperne di più"
+## Global Disclaimer
+disclaimer: |
+  Il contenuto di questo sito web è generato dagli utenti e ha esclusivamente scopo informativo. Non interpretate alcun contenuto come un'approvazione di un prodotto o di un servizio. In Ethereum Classic non c'è "nulla di ufficiale". Fate sempre le vostre ricerche e ricordate: non fidatevi, verificate!
 ## Footer
 signOff: Realizzato con `<3` per la visione originale di Ethereum
 socialHilight: La comunità ETC è attiva su Discord

@@ -51,11 +51,11 @@ Pertumbuhan terkini sebahagiannya disebabkan oleh kumpulan pencipta kandungan da
 
 ### Gabungan
 
-Rantaian utama Ethereum™, walaupun mengalami beberapa kelewatan kecil, semakin hampir untuk menyelesaikan penghijrahan dari Proof of Work ke Proof of Stake, yang dikenali sebagai _The Merge_. Untuk Ethereum Classic ini akan menjadi acara yang sangat relevan, kerana nampaknya pelombong GPU yang baru diusir akan melihat ke arah rantaian lain untuk saya, dan Ethereum Classic adalah pilihan yang jelas.
+Rangkaian utama Ethereum™, walaupun mengalami beberapa kelewatan kecil, semakin hampir untuk menyelesaikan penghijrahan dari Proof of Work ke Proof of Stake, yang dikenali sebagai _The Merge_. Untuk Ethereum Classic ini akan menjadi acara yang sangat relevan, kerana nampaknya pelombong GPU yang baru diusir akan melihat ke arah rantaian lain untuk saya, dan Ethereum Classic adalah pilihan yang jelas.
 
 Penghijrahan pelombong dari ETH ke ETC berkemungkinan akan membawa gelombang minat baharu kepada ekosistem Ethereum Classic, meningkatkan keselamatan rangkaian, dan mempercepatkan penerimaan dan nilai rangkaian.
 
-Selain itu, jika terdapat sebarang masalah jangka pendek semasa atau selepas "The Merge", mungkin disebabkan masalah teori permainan yang tidak dijangka atau eksploitasi protokol akibat kerumitan tambahan, Ethereum Classic akan bersedia dan menunggu untuk menyediakan rantaian sandaran yang kekal pada percubaan dan protokol Ethereum sebenar hari ini. Dalam jangka masa panjang, perpindahan ke Proof of Stake berkemungkinan akan mengakibatkan pemusatan lanjut pada mainnet Ethereum™, yang menjadikannya terdedah kepada jenis serangan sosial lain, yang sekali lagi, ETC akan kekal kebal terhadapnya.
+Selain itu, jika terdapat sebarang masalah jangka pendek semasa atau selepas "The Merge", mungkin disebabkan masalah teori permainan yang tidak dijangka atau eksploitasi protokol akibat kerumitan tambahan, Ethereum Classic akan bersedia dan menunggu untuk menyediakan rantaian sandaran yang kekal pada percubaan dan protokol Ethereum sebenar hari ini. Dalam jangka masa panjang, perpindahan ke Proof of Stake berkemungkinan akan mengakibatkan pemusatan lebih lanjut pada mainnet Ethereum™, yang menjadikannya terdedah kepada jenis serangan sosial lain, yang sekali lagi, ETC akan kekal kebal terhadapnya.
 
 ### Versi EVM
 

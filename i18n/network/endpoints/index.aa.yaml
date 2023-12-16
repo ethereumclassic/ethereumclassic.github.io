@@ -1,9 +1,9 @@
-title: crwdns70822:0crwdne70822:0
+title: crwdns124475:0crwdne124475:0
 __updated: 2022-12-22
 __contribute: 1
-seo: crwdns70828:0crwdne70828:0
+seo: crwdns124481:0crwdne124481:0
 description: |
-  crwdns108567:0[MetaMask]crwdnd108567:0[testnets]crwdnd108567:0[ChainList.org]crwdne108567:0
+  crwdns128890:0crwdne128890:0
 __contributors:
   - arvicco
   - dax-classix
@@ -12,24 +12,25 @@ __contributors:
   - ProphetDaniel
   - pyskell
   - TheEnthusiasticAs
+  - TheCrowbill
 items:
   endpoints:
     __type: table
     __sort: 0
     columnItems:
       name:
-        name: crwdns70850:0crwdne70850:0
+        name: crwdns124503:0crwdne124503:0
         __linkRef: link
       rpcUrl:
-        name: crwdns70854:0crwdne70854:0
+        name: crwdns124507:0crwdne124507:0
     items:
       ETC Cooperative:
         __rpcUrl: https://etc.rivet.link
         __link: https://rivet.link
         __name: ETC Cooperative
       ETC Cooperative (Mordor):
-        __rpcUrl: https://www.ethercluster.com/mordor
-        __link: https://www.ethercluster.com
+        __rpcUrl: https://rpc.mordor.etccooperative.org/
+        __link: https://etccooperative.org
         __name: ETC Cooperative (Mordor)
       HebeBlock:
         __rpcUrl: https://etc.etcdesktop.com/
@@ -76,6 +77,6 @@ items:
         __name: Rivet
         __rpcUrl: <API Key Required>
       TokenView API:
-        __link: https://services.tokenview.com
+        __link: https://services.tokenview.io
         __name: TokenView API
         __rpcUrl: <API Key Required>

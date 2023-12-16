@@ -12,7 +12,7 @@ contributors:
 
 ## [Proposte di miglioramento di Ethereum Classic](https://ecips.ethereumclassic.org/)
 
-### Sintesi
+### Riepilogo
 
 Questo documento è una sintesi del processo di proposta di miglioramento di Ethereum Classic (ECIP). Per visualizzare la descrizione completa del processo ECIP si prega di leggere ECIP-1000, che è il documento formale generalmente riconosciuto dall'ecosistema di Ethereum Classic (ETC), per consenso approssimativo, come il sistema più adatto per proporre nuove modifiche standard al protocollo ETC, documenti informativi o suggerimenti sul processo ECIP.
 

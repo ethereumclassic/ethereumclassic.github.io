@@ -2,7 +2,7 @@
 title: "ETC Proof of Work Course: Introduction"
 date: 2023-11-02
 author: Donald McIntyre
-contributors: ["Donald McIntyre"]
+contributors: ["DonaldMcIntyre"]
 tags: ["series", "education"]
 linkImage: ./banner-3.png
 ---
@@ -35,7 +35,7 @@ This course is divided in 8 sections that we list below. Each of sections 2 thro
 ## Part 2: Benefits of POW
 
 6. ETC Is BTC Philosophy With ETH Technology
-7. The Revolutionary Benefits of Proof of Work?
+7. The Revolutionary Benefits of Proof of Work
 8. POW Promotes Basic Rights
 9. The Meaning of Immutability in POW
 10. The POW Permissionless Paradox

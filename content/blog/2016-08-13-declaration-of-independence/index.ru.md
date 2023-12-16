@@ -73,7 +73,7 @@ tags:
 
 ### Рекомендации
 
-1. https://эфириум.org/
+1. https://ethereum.org/
 2. https://www.reddit.com/r/EthereumClassic/comments/4u4o61/call_for_action_what_can_i_do_to_help_ethereum/
 3. https://blog.ethereum.org/2016/06/28/security-alert-dos-vulnerability-in-the-soft-fork/
 4. https://www.reddit.com/r/ethereum/comments/4s0rz6/a_vote_that_nobody_knows_about_is_not_a_vote/d55nye3/

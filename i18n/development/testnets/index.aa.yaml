@@ -1,58 +1,50 @@
-title: crwdns66614:0crwdne66614:0
-__updated: 2023-04-03
+title: crwdns120291:0crwdne120291:0
+__updated: 2023-11-27
 __contribute: 1
-seo: crwdns108541:0crwdne108541:0
+seo: crwdns120297:0crwdne120297:0
 description: |
-  crwdns108757:0[Discord]crwdnd108757:0[chainlist.org]crwdnd108757:0[Kotti]crwdnd108757:0[Mordor]crwdne108757:0
+  crwdns128934:0crwdne128934:0
 __contributors:
   - gitr0n1n
   - IstoraMandiri
+  - chris-mercer
 items:
   testnets:
     __type: table
     __sort: 0
     i18n:
-      pow: crwdns66632:0crwdne66632:0
-      poa: crwdns66634:0crwdne66634:0
-      testnet: crwdns66636:0crwdne66636:0
-      experimental: crwdns66638:0crwdne66638:0
-      faucet: crwdns66640:0crwdne66640:0
+      pow: crwdns120309:0crwdne120309:0
+      poa: crwdns120311:0crwdne120311:0
+      testnet: crwdns120313:0crwdne120313:0
+      experimental: crwdns120315:0crwdne120315:0
+      faucet: crwdns120317:0crwdne120317:0
     columnItems:
       name:
-        name: crwdns66642:0crwdne66642:0
+        name: crwdns120319:0crwdne120319:0
         __linkRef: link
       faucet:
         __linkRef: faucet
-        text: crwdns66648:0crwdne66648:0
+        text: crwdns120325:0crwdne120325:0
         __icon: coins
       type:
-        name: crwdns66652:0crwdne66652:0
+        name: crwdns120329:0crwdne120329:0
         __textRef: type
       miningAlgo:
-        name: crwdns66656:0crwdne66656:0
+        name: crwdns120333:0crwdne120333:0
       consensusAlgo:
         __textRef: consensusAlgo
-        name: crwdns66660:0crwdne66660:0
+        name: crwdns120337:0crwdne120337:0
       networkId:
-        name: crwdns66662:0crwdne66662:0
+        name: crwdns120339:0crwdne120339:0
       chainId:
-        name: crwdns66664:0crwdne66664:0
+        name: crwdns120341:0crwdne120341:0
     items:
-      Testnet Kotti:
-        __name: Kotti
-        __chainId: 6
-        __type: testnet
-        __networkId: 6
-        __link: https://github.com/goerli/testnet
-        __faucet: http://kottifaucet.me/
-        __consensusAlgo: poa
-        __miningAlgo: Clique
       Testnet Mordor:
-        __name: Mordor
+        __name: Mordor Testnet
         __chainId: 63
         __type: testnet
         __networkId: 7
-        __link: https://github.com/eth-classic/mordor
-        __faucet: https://mordor.canhaz.net/
+        __link: https://github.com/mordortestnet
+        __faucet: 'https://easy.hebeswap.com/#/faucet'
         __consensusAlgo: pow
         __miningAlgo: Etchash

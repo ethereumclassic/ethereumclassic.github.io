@@ -37,13 +37,13 @@ Ethereum Classic, Ethereum Sanal Makinesi ile uyumluluğu korur, sözleşme sist
 
 Zincir dışı işlemler yoluyla ölçeklenebilirliği artıran ve gelecek vaat eden bir Katman 2 teknolojisi olan Optimistic Rollups bunun mükemmel bir örneğidir. Özgür Açık Kaynak Yazılımın doğası sayesinde, Ethereum Classic ile hiçbir ilişkisi olmayan projeler ve ekipler tarafından milyonlarca dolarlık araştırma ve geliştirme harcaması yapıldı. Bu yenilik, genelleştirilmiş EVM uyumluluğu sayesinde, ETC'nin faydasını ve değerini dolaylı olarak artırmıştır.
 
-### Bir Test Ağı Olarak Ethereum
+### Test ağı olarak Ethereum
 
 Bu yaklaşımın bir avantajı, Ethereum Classic'in diğer zincirlerin yeni özellikleri uygulama riskini üstlenmesini izlerken beklemede kalabilmesidir. Ancak güvenli ve etkili oldukları gösterildikten sonra, iyi özellikler minimum risk ve geliştirme çabasıyla uygulanabilir.
 
 Bu şekilde, diğer EVM zincirleri, geleneksel bir test ağının sağlayabileceğinden çok daha titiz testlerle Ethereum Classic'in teşvik edilmiş test ağları olarak görülebilir.
 
-## İleriye Bakmak
+## İleriye bakmak
 
 Bu yazıyı yazarken 2022 yılı henüz gelmişti ve ETC yıla büyük bir hareketlilikle başlıyor. Bir dizi yeni [uygulaması](/services/apps) ve kullanıcılar organik olarak bir araya geldi ve ETC ekosistemi, ağ daha kullanışlı ve değerli hale geldikçe benimsenmeyi çığ gibi büyütecek ağ etkilerinin işaretlerini göstermeye başlıyor.
 

@@ -16,7 +16,7 @@ contributors:
 
 Ce document est un résumé du processus de proposition d'amélioration de l'Ethereum Classic (ECIP). Pour consulter la description complète du processus ECIP, veuillez lire l'ECIP-1000 qui est le document formel généralement reconnu par l'écosystème Ethereum Classic (ETC), par un consensus approximatif, comme étant le système le plus approprié pour proposer de nouveaux changements de norme au protocole ETC, des documents d'information ou des suggestions de processus ECIP.
 
-### Premiers pas
+### Pour commencer
 
 Après avoir lu l'ECIP-1000, créez une branche du dépôt et ajoutez-y votre ECIP en utilisant le modèle markdown fourni. Soumettez en créant un Pull Request dans le dépôt d'ECIPs d'Ethereum Classic.
 

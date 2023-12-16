@@ -181,7 +181,7 @@ Como se refleja en la estructura de las instituciones existentes, como el gobier
 
 Al igual que el Gobierno de los Estados Unidos, los controles y equilibrios son una característica esencial de las cadenas de bloques Proof of Work, en las que existen tres grandes grupos de poder que se equilibran entre sí.
 
-| Grupo           | Papel                                               | Veto                        |
+| Grupo           | Role                                                | Veto                        |
 | --------------- | --------------------------------------------------- | --------------------------- |
 | Desarrolladores | Mantener los clientes y la infraestructura          | Dejar de mantener el código |
 | Mineros         | Proporcionar seguridad contra el 51% de los ataques | La mía una cadena diferente |

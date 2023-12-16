@@ -1,6 +1,6 @@
 ---
 title: Εργαλεία δικτύου
-seo: Μια επιλογή εργαλείων και πόρων για την επιθεώρηση και την αλληλεπίδραση με το δίκτυο Ethereum Classic. RPC Endpoints, Blockchain Explorers και Network Monitors.
+seo: Μια επιλογή εργαλείων και πόρων για επιθεώρηση και αλληλεπίδραση με το δίκτυο Ethereum Classic. RPC Endpoints, Blockchain Explorers και Network Monitors.
 updated: 2022-02-22
 contributors:
   - cyberus7569

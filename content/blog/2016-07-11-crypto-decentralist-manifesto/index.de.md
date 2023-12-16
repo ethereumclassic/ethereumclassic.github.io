@@ -34,7 +34,7 @@ Dezentralisierung ist also das wichtigste Merkmal von Blockchain-Systemen, von d
 
 **Wir Dezentralisten** setzen uns dafür ein, Blockchains offen, neutral und unveränderlich zu halten. Wir setzen uns dafür ein, Blockchain-Systeme dezentral zu halten. Dies beeinflusst alle unsere Handlungen und Positionen gegenüber allen Entwicklungen in der Kryptowelt und darüber hinaus. Alle Versuche, eines der wichtigsten Blockchain-Merkmale zu verletzen, sollten bekämpft werden. Alle Änderungen an den Regeln einer Blockchain, die neue Zentralisierungsrisiken einführen oder bestehende stärken, sollten bekämpft werden. Es sollten nur Entwicklungen unterstützt und gefördert werden, die der Dezentralisierung eindeutig zugute kommen oder die drei zentralen Blockchain-Eigenschaften stärken. Die Blockchain-Revolution wird nicht zentralisiert sein. Stellen wir es sicher.
 
-**Weiter.**
+**Vorwärts.**
 
 ---
 

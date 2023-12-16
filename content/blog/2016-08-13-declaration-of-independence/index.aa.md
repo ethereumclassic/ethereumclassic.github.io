@@ -1,5 +1,5 @@
 ---
-title: crwdns108855:0crwdne108855:0
+title: crwdns128535:0crwdne128535:0
 date: 2016-08-13
 author: Ethereum Classic
 tags:
@@ -10,82 +10,82 @@ tags:
   - "education"
 ---
 
-crwdns108871:0crwdne108871:0 crwdns108873:0crwdne108873:0 crwdns108875:0crwdne108875:0
+crwdns128551:0crwdne128551:0 crwdns128553:0crwdne128553:0 crwdns128555:0crwdne128555:0
 
-## crwdns108877:0crwdne108877:0
+## crwdns128557:0crwdne128557:0
 
-crwdns108879:0crwdne108879:0 crwdns108881:0crwdne108881:0
+crwdns128559:0crwdne128559:0 crwdns128561:0crwdne128561:0
 
-crwdns108883:0[1]crwdne108883:0 crwdns108885:0crwdne108885:0 crwdns108887:0crwdne108887:0
+crwdns128563:0crwdne128563:0 crwdns128565:0crwdne128565:0 crwdns128567:0crwdne128567:0
 
-## crwdns108889:0crwdne108889:0
+## crwdns128569:0crwdne128569:0
 
-crwdns108891:0[2]crwdne108891:0 crwdns108893:0crwdne108893:0
+crwdns128571:0crwdne128571:0 crwdns128573:0crwdne128573:0
 
-- crwdns108895:0crwdne108895:0
-- crwdns108897:0[3]crwdne108897:0
-- crwdns108899:0[4]crwdnd108899:0[5]crwdne108899:0
-- crwdns108901:0crwdne108901:0
-- crwdns108903:0[6]crwdne108903:0
+- crwdns128575:0crwdne128575:0
+- crwdns128577:0crwdne128577:0
+- crwdns128579:0crwdne128579:0
+- crwdns128581:0crwdne128581:0
+- crwdns128583:0crwdne128583:0
 
-## crwdns108905:0crwdne108905:0
+## crwdns128585:0crwdne128585:0
 
-crwdns108907:0[7]crwdne108907:0 crwdns108909:0crwdne108909:0 crwdns108911:0[8]crwdne108911:0
+crwdns128587:0crwdne128587:0 crwdns128589:0crwdne128589:0 crwdns128591:0crwdne128591:0
 
-crwdns108913:0crwdne108913:0 crwdns108915:0crwdne108915:0 crwdns108917:0crwdne108917:0 crwdns108919:0crwdne108919:0
+crwdns128593:0crwdne128593:0 crwdns128595:0crwdne128595:0 crwdns128597:0crwdne128597:0 crwdns128599:0crwdne128599:0
 
-crwdns108921:0crwdne108921:0 crwdns108923:0crwdne108923:0 crwdns108925:0crwdne108925:0 crwdns108927:0crwdne108927:0
+crwdns128601:0crwdne128601:0 crwdns128603:0crwdne128603:0 crwdns128605:0crwdne128605:0 crwdns128607:0crwdne128607:0
 
-crwdns108929:0crwdne108929:0
+crwdns128609:0crwdne128609:0
 
-crwdns108931:0crwdne108931:0 crwdns108933:0crwdne108933:0 crwdns108935:0crwdne108935:0
+crwdns128611:0crwdne128611:0 crwdns128613:0crwdne128613:0 crwdns128615:0crwdne128615:0
 
-## crwdns108937:0crwdne108937:0
+## crwdns128617:0crwdne128617:0
 
-crwdns108939:0crwdne108939:0 crwdns108941:0crwdne108941:0 crwdns108943:0crwdne108943:0 crwdns108945:0crwdne108945:0
+crwdns128619:0crwdne128619:0 crwdns128621:0crwdne128621:0 crwdns128623:0crwdne128623:0 crwdns128625:0crwdne128625:0
 
-crwdns108947:0crwdne108947:0 crwdns108949:0crwdne108949:0
+crwdns128627:0crwdne128627:0 crwdns128629:0crwdne128629:0
 
-crwdns108951:0crwdne108951:0
+crwdns128631:0crwdne128631:0
 
-- crwdns108953:0crwdne108953:0
-- crwdns108955:0crwdne108955:0
-- crwdns108957:0crwdne108957:0
-- crwdns108959:0crwdne108959:0
-- crwdns108961:0crwdne108961:0
-- crwdns108963:0crwdne108963:0
+- crwdns128633:0crwdne128633:0
+- crwdns128635:0crwdne128635:0
+- crwdns128637:0crwdne128637:0
+- crwdns128639:0crwdne128639:0
+- crwdns128641:0crwdne128641:0
+- crwdns128643:0crwdne128643:0
 
-## crwdns108965:0crwdne108965:0
+## crwdns128645:0crwdne128645:0
 
-crwdns108967:0crwdne108967:0
+crwdns128647:0crwdne128647:0
 
-crwdns108969:0crwdne108969:0
+crwdns128649:0crwdne128649:0
 
-crwdns108971:0crwdne108971:0
+crwdns128651:0crwdne128651:0
 
-crwdns108973:0crwdne108973:0
+crwdns128653:0crwdne128653:0
 
-crwdns108975:0crwdne108975:0 crwdns108977:0crwdne108977:0 crwdns108979:0[9]crwdne108979:0 crwdns108981:0[10]crwdne108981:0
+crwdns128655:0crwdne128655:0 crwdns128657:0crwdne128657:0 crwdns128659:0crwdne128659:0 crwdns128661:0crwdne128661:0
 
-crwdns108983:0crwdne108983:0
-
----
-
-### crwdns108985:0crwdne108985:0
-
-1. crwdns108987:0crwdne108987:0
-2. crwdns108989:0crwdne108989:0
-3. crwdns108991:0crwdne108991:0
-4. crwdns108993:0crwdne108993:0
-5. crwdns108995:0crwdne108995:0
-6. crwdns108997:0crwdne108997:0
-7. crwdns108999:0crwdne108999:0
-8. crwdns109001:0crwdne109001:0
-9. crwdns109003:0crwdne109003:0
-10. crwdns109005:0crwdne109005:0
+crwdns128663:0crwdne128663:0
 
 ---
 
-**crwdns109007:0crwdne109007:0**
+### crwdns128665:0crwdne128665:0
 
--crwdns109171:0crwdne109171:0
+1. crwdns128667:0crwdne128667:0
+2. crwdns128669:0crwdne128669:0
+3. crwdns128671:0crwdne128671:0
+4. crwdns128673:0crwdne128673:0
+5. crwdns128675:0crwdne128675:0
+6. crwdns128677:0crwdne128677:0
+7. crwdns128679:0crwdne128679:0
+8. crwdns128681:0crwdne128681:0
+9. crwdns128683:0crwdne128683:0
+10. crwdns128685:0crwdne128685:0
+
+---
+
+**crwdns128687:0crwdne128687:0**
+
+-crwdns128689:0crwdne128689:0
