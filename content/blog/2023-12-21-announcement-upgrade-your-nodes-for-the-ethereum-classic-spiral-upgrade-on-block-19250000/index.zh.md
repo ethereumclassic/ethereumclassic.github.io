@@ -1,5 +1,5 @@
 ---
-title: "ANNOUNCEMENT: Upgrade Your Nodes for the Ethereum Classic Spiral Hard Fork on Block 19,250,000"
+title: "公告：升级您的节点以适应以太经典螺旋硬分叉，分叉高度为19,250,000"
 date: 2023-12-21
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -7,49 +7,48 @@ tags: ["announcement"]
 linkImage: ./banner.png
 ---
 
-## ATTENTION ETHEREUM CLASSIC NODE OPERATORS AND MINERS:
+## 注意：以太经典节点运营商和矿工：
 
-The Ethereum Classic upgrade, code named SPIRAL, will occur on block 19,250,000. The estimated date for SPIRAL is January 31 2024.
+以太经典的升级，代号SPIRAL，将在区块19,250,000上发生。SPIRAL的预计日期是2024年1月31日。
 
 ![](./banner.png)
 
-Ethereum Classic core developers have posted [ECIP-1109](https://ecips.ethereumclassic.org/ECIPs/ecip-1109), which provides information for ETC’s SPIRAL hard fork.
+以太经典核心开发者已经发布了[ECIP-1109](https://ecips.ethereumclassic.org/ECIPs/ecip-1109)，其中提供了有关ETC的SPIRAL硬分叉的信息。
 
-This document proposes the following blocks at which to implement these changes in the Ethereum Classic networks:
+该文档提议在以太经典网络中实施这些更改的以下区块：
 
-```9_957_000``` on Mordor testnet (already upgraded in November of 2023)
+```9_957_000```在Mordor测试网上（已于2023年11月升级）
 
-```19_250_000``` on Ethereum Classic mainnet (estimated for January 31 2024)
+```19_250_000```在以太经典主网上（预计为2024年1月31日）
 
-For more information on the opcodes and their respective EIPs and implementations, please see the *Specification* section of this document.
+有关操作码及其相应EIP和实施的更多信息，请参阅本文档的*规范*部分。
 
-## Technical Details, Motivation, and Rationale
+## 技术细节、动机和原理
 
-For technical details, motivation, and rationale for the hard fork,  please visit ECIP-1109: [http://ecips.ethereumclassic.org/ECIPs/ecip-1109
-](https://ecips.ethereumclassic.org/ECIPs/ecip-1109)
+有关硬分叉的技术细节、动机和原理，请访问ECIP-1109：[http://ecips.ethereumclassic.org/ECIPs/ecip-1109](https://ecips.ethereumclassic.org/ECIPs/ecip-1109)
 
-## Node Explorer
+## 节点浏览器
 
-Adoption across publicly visible ETC nodes can be tracked on this dashboard by looking at the percentage of nodes for which ForkId (Next) = Spiral:
+可以通过查看ForkId（Next）= Spiral的节点百分比在此仪表板上跟踪公开可见的ETC节点的采用情况：
 
-–  [https://etcnodes.org/fork/spiral](https://etcnodes.org/fork/spiral)
+– [https://etcnodes.org/fork/spiral](https://etcnodes.org/fork/spiral)
 
-## Client supporting the SPIRAL hard-fork
+## 支持SPIRAL硬分叉的客户端
 
-The following client release contains SPIRAL support. All node operators are encouraged to upgrade as soon as possible.
+以下客户端版本包含SPIRAL支持。鼓励所有节点运营商尽快升级。
 
-– Core-geth [v1.12.17](https://github.com/etclabscore/core-geth/releases/tag/v1.12.17) or later.
+– Core-geth [v1.12.17](https://github.com/etclabscore/core-geth/releases/tag/v1.12.17) 或更高版本。
 
-## Communications
+## 通信
 
-If you are using a managed API service or third-party service provider, then please ensure they are ready for SPIRAL.
+如果您使用托管的API服务或第三方服务提供商，请确保它们已经为SPIRAL做好准备。
 
-The more people who ask, the more likely a provider is to make a public statement confirming their readiness.
+提出更多询问的人数越多，提供商发表公开声明确认他们的准备情况的可能性就越大。
 
-If you are a miner, mining pool, node operator, wallet operator or other kind of ETC stakeholder, please upgrade your node/s to minimize the risk of network splits.
+如果您是矿工、矿池、节点运营商、钱包运营商或其他类型的ETC利益相关者，请升级您的节点以最小化网络分裂的风险。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
