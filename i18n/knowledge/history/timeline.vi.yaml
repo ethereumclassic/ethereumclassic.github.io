@@ -2,7 +2,7 @@ title: Dòng thời gian sự kiện
 items:
   frontierRelease:
     title: Ra mắt Ethereum
-    text: Vitalik Buterin và Quỹ Ethereum tạo ra nền tảng hợp đồng thông minh hoàn chỉnh dựa trên blockchain đầu tiên của Turing với bản phát hành Frontier.
+    text: Vitalik Buterin và The Ethereum Foundation đã tạo ra nền tảng hợp đồng thông minh hoàn chỉnh Turing dựa trên blockchain đầu tiên với bản phát hành Frontier.
   frontierThawingUpgrade:
     title: Nâng cấp làm tan băng biên giới
     text: Mạng thực hiện 'Kỷ băng hà' ở khối 200.000 giới thiệu Quả bom độ khó, một cơ chế được thiết kế để chuyển cơ chế đồng thuận của mạng từ Proof-of-Work sang Proof-of-Stake.
@@ -269,19 +269,13 @@ items:
     text: Các nhà phát triển cốt lõi của Ethereum Classic thực hiện nâng cấp giao thức mạng London của ETH để duy trì hoạt động ngang bằng với chuỗi chị em của nó.
   etcFlood:
     title: ETC chào đón tỷ lệ băm mới
-    text: Ethereum Classic cam kết hỗ trợ thuật toán khai thác ETChash và hệ sinh thái khai thác hiện tại. Điều này cho thấy Ethereum Classic là một mạng có vị trí tốt để hấp thụ phần lớn các thợ đào Ethash bị tước quyền sử dụng với việc mạng ETH chuyển sang bằng chứng về sự đồng thuận cổ phần.
-  etcdao:
-    title: Ethereum Classic DAO
-    text: Nguồn vốn ổn định và dài hạn được chứng minh là một vấn đề đối với Ethereum Classic khi bị Quỹ Ethereum từ bỏ vào năm 2016. Trong nỗ lực giải quyết vấn đề tài trợ LTS của mạng, Ethereum Classic DAO được thành lập với sứ mệnh chứng minh sự phát triển của mạng trong tương lai thông qua một quỹ phát triển nguồn mở. Nguồn vốn được tạo bằng cách sử dụng ngăn xếp DeFi ETC được lưu trữ tại EthereumClassic.com
+    text: Ethereum Classic cam kết hỗ trợ thuật toán khai thác ETChash và hệ sinh thái khai thác hiện tại. Điều này định vị Ethereum Classic là một mạng có vị trí tốt để hấp thụ phần lớn các công cụ khai thác Ethash bị tước quyền sở hữu khi mạng ETH chuyển sang bằng chứng về sự đồng thuận cổ phần.
   era4:
     title: 5M20 Kỷ nguyên 4
-    text: Phần thưởng khối của Ethereum Classic giảm 20% xuống còn 2,56 ETC mỗi khối, theo lịch trình phát thải 5M20 lấy cảm hứng từ bitcoin. Hashrate khai thác ETChash tiếp tục chuyển sang ETC với mạng lưới đạt mức cao nhất mọi thời đại.
+    text: Phần thưởng khối của Ethereum Classic giảm 20% xuống còn 2,56 ETC mỗi khối, theo lịch phát hành 5 tháng 20 lấy cảm hứng từ bitcoin. Tốc độ băm khai thác ETChash tiếp tục chuyển sang ETC khi mạng đạt Mức cao nhất mọi thời đại.
   sha3Withdrawn:
-    title: Đã rút lại đề xuất ETC Coop SHA3
-    text: Sau hơn ba năm tranh luận gay gắt, Bob Summerwill thừa nhận khó khăn gây tranh cãi ECIP-1049 sẽ gây ra trên mạng và rút lại đề xuất. Chi phí xã hội tiêu cực do chiến dịch thông tin sai lệch của những người ủng hộ ECIP-1049 gây ra tiếp tục ảnh hưởng tiêu cực đến nhận thức của công chúng về mạng lưới. Tuy nhiên, thông qua cộng đồng kiên cường của nó, Ethereum Classic vẫn có vị trí tốt để phát triển mạnh mẽ trên ETChash trong một thế giới hậu hợp nhất.
-  etcswap:
-    title: Hoán đổi điện tử
-    text: Ethereum Classic DAO ra mắt sản phẩm đầu tiên - ETCswap. Điều này đảm bảo mạng tiến gần hơn một bước đến nguồn tài trợ ổn định cho phát triển mã nguồn mở trên Ethereum Classic. Một ngăn xếp giao thức phi tập trung chuyên nghiệp sẽ được triển khai trên Ethereum Classic.
+    title: Đề xuất SHA3 đã được rút lại
+    text: Sau hơn ba năm tranh luận, ECIP-1049 đã bị rút do có khả năng xảy ra một đợt hardfork gây tranh cãi. Ethereum Classic vẫn có vị trí tốt để phát triển mạnh trên ETChash trong thế giới hậu hợp nhất.
   vitalikEndorsesETC:
     title: Vitalik Buterin tán thành Ethereum Classic
     text: Vitalik Buterin, người đồng sáng lập nổi bật nhất của Ethereum, đưa ra sự chứng thực của mạng Ethereum ban đầu - Ethereum Classic cho những người coi trọng chuỗi Proof-of-Work.

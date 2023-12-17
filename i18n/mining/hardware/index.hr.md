@@ -14,7 +14,7 @@ Rudarenje Ethereum Classic gotovo je identično rudarenju Ethereuma, a podržava
 
 Algoritam ETC Mining gotovo je identičan Ethereum ETHash-u, uz malu nadogradnju koja ga je učinila lakšim za rudare. Krajem 2020., tijekom nadogradnje [Thanosa](/blog/2020-11-27-thanos-hard-fork-upgrade), ETC je implementirao [ECIP-1099](https://ecips.ethereumclassic.org/ECIPs/ecip-1099), koji je prilagodio algoritam ETHash u ono što je postalo poznato kao ETCHash.
 
-Uglavnom, u 2020. Ethereumov DAG premašio je 4 GB, što znači da mnogi GPU-i s 4 GB memorije ne bi mogli nastaviti rudariti ETH. Kao odgovor, Ethereum Classic je dotjerao svoj algoritam kako bi osigurao da će kartice s 4 GB moći nastaviti rudariti ETC do [otprilike do sredine 2025.](https://minerstat.com/dag-size-calculator).
+Uglavnom, u 2020. Ethereumov DAG premašio je 4 GB, što znači da mnogi GPU-i s 4 GB memorije ne bi mogli nastaviti rudariti ETH. Kao odgovor na to, Ethereum Classic je dotjerao svoj algoritam kako bi osigurao da će kartice s 4 GB moći nastaviti rudariti ETC do [otprilike do sredine 2025.](https://minerstat.com/dag-size-calculator).
 
 ## Hardverski zahtjevi
 

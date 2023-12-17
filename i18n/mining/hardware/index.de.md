@@ -8,11 +8,11 @@ contribute: true
 seo: Eine kurze Erläuterung der Hardware-Anforderungen für das Mining von Ethereum Classic, einschließlich ETHash vs. ETCHash, SHA3, GPUs und ASICs.
 ---
 
-Das Mining von Ethereum Classic ist fast identisch mit dem Mining von Ethereum und unterstützt die gleiche Hardware und Mining-Software. Wenn Sie ein Ethereum-Miner sind, der vor kurzem aus dem Verkehr gezogen wurde, liebt Ethereum Classic seine Miner und heißt Sie willkommen. Sie können mit Ihrer vorhandenen Hardware mit dem Mining von ETC beginnen, indem Sie einfach zu einem [Mining-Pool](/mining/pools) wechseln, der Ethereum Classic unterstützt.
+Der ETC-Mining-Algorithmus ist fast identisch mit dem ETHash von Ethereum, mit einem kleinen Upgrade, das ihn minerfreundlicher macht. Ende 2020, während des [Thanos-Upgrades](/blog/2020-11-27-thanos-hard-fork-upgrade), implementierte ETC [ECIP-1099](https://ecips.ethereumclassic.org/ECIPs/ecip-1099), mit dem der ETHash-Algorithmus zu dem weiterentwickelt wurde, was als ETCHash bekannt wurde.
 
 ## ETCHash
 
-Der ETC-Mining-Algorithmus ist fast identisch mit dem ETHash von Ethereum, mit einem kleinen Upgrade, das ihn minerfreundlicher macht. Ende 2020, während des [Thanos-Upgrades](/blog/2020-11-27-thanos-hard-fork-upgrade), implementierte ETC [ECIP-1099](https://ecips.ethereumclassic.org/ECIPs/ecip-1099), mit dem der ETHash-Algorithmus zu dem weiterentwickelt wurde, was als ETCHash bekannt wurde.
+Das Mining von Ethereum Classic ist fast identisch mit dem Mining von Ethereum und unterstützt die gleiche Hardware und Mining-Software. Ende 2020, während des [Thanos-Upgrades](/blog/2020-11-27-thanos-hard-fork-upgrade), implementierte ETC [ECIP-1099](https://ecips.ethereumclassic.org/ECIPs/ecip-1099), das den ETHash-Algorithmus zu etwas optimierte, das als ETCHash bekannt wurde.
 
 Im Jahr 2020 übersteigt die DAG von Ethereum 4 GB, was bedeutet, dass viele GPUs mit 4 GB Speicher nicht mehr in der Lage sind, ETH zu schürfen. Als Reaktion darauf hat Ethereum Classic seinen Algorithmus angepasst, um sicherzustellen, dass Karten mit 4 GB in der Lage sind, ETC bis [etwa Mitte 2025](https://minerstat.com/dag-size-calculator)zu schürfen.
 

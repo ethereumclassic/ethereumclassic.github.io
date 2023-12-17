@@ -2,7 +2,7 @@ title: Tijdlijn gebeurtenissen
 items:
   frontierRelease:
     title: Ethereum lanceert
-    text: Vitalik Buterin en The Ethereum Foundation creëren het eerste op blockchain gebaseerde Turing-complete smart contract platform met de Frontier release.
+    text: Vitalik Buterin en The Ethereum Foundation creëerden het eerste op blockchain gebaseerde Turing-complete smart contract platform met de Frontier release.
   frontierThawingUpgrade:
     title: Grensdooi upgrade
     text: Het netwerk voert een "ijstijd" in bij blok 200.000 en introduceert de "Difficulty Bomb", een mechanisme om het consensusmechanisme van het netwerk te verschuiven van "Proof-of-Work" naar "Proof-of-Stake".
@@ -269,19 +269,13 @@ items:
     text: Ethereum Classic core ontwikkelaars implementeren ETH's London netwerk protocol upgrades om operationele pariteit met haar zusterketen te behouden.
   etcFlood:
     title: ETC verwelkomt nieuwe Hashrate
-    text: Ethereum Classic zegt steun toe aan het ETChash mijnbouwalgoritme en het huidige mijnbouwecosysteem. Dit positioneert Ethereum Classic als een netwerk dat goed gepositioneerd is om een meerderheid van de verstoten Ethash miners te absorberen met de overstap van het ETH netwerk naar proof of stake consensus.
-  etcdao:
-    title: Ethereum Klassieke DAO
-    text: Stabiele en langdurige financiering blijkt een probleem te zijn voor Ethereum Classic met het opgeven door de Ethereum Foundation in 2016. In een poging om het LTS-financieringsprobleem van het netwerk op te lossen, wordt Ethereum Classic DAO opgericht met als missie de ontwikkeling van het netwerk toekomstbestendig te maken via een open source ontwikkelingsfonds. Financiering wordt gegenereerd met behulp van een ETC DeFi stack gehost op EthereumClassic.com.
+    text: Ethereum Classic biedt ondersteuning voor het ETChash mijnbouwalgoritme en het huidige mijnbouwecosysteem. Dit positioneert Ethereum Classic als een netwerk dat goed gepositioneerd is om een meerderheid van de Ethash miners te absorberen met de overstap van het ETH netwerk naar proof of stake consensus.
   era4:
     title: 5M20 Tijdperk 4
-    text: De blokbeloningen van Ethereum Classic worden met 20% verlaagd tot 2,56 ETC per blok, volgens het op bitcoin geïnspireerde 5M20-emissieschema. ETChash mining hasrate blijft omslaan naar ETC met het netwerk dat All-Time Highs bereikt.
+    text: De blokbeloningen van Ethereum Classic worden met 20% verlaagd naar 2,56 ETC per blok, volgens het op bitcoin geïnspireerde 5M20 emissieschema. ETChash mining hashrate blijft omslaan naar ETC met het netwerk dat All-Time Highs bereikt.
   sha3Withdrawn:
-    title: ETC Coop SHA3-voorstel ingetrokken
-    text: Na meer dan drie jaar van omstreden discussies erkent Bob Summerwill dat ECIP-1049 het netwerk in moeilijkheden zou brengen en trekt hij het voorstel in. De negatieve sociale kosten veroorzaakt door de misinformatiecampagne van de voorstanders van ECIP-1049 blijft de publieke perceptie van het netwerk negatief beïnvloeden. Dankzij haar veerkrachtige gemeenschap blijft Ethereum Classic echter goed gepositioneerd om te gedijen op ETChash in een wereld na de fusie.
-  etcswap:
-    title: ETCswap
-    text: Ethereum Classic DAO lanceert zijn eerste product- ETCswap. Hiermee is het netwerk een stap dichter bij stabiele financiering voor open source ontwikkeling op Ethereum Classic. Een professionele gedecentraliseerde protocol stack zal worden ingezet op Ethereum Classic.
+    title: SHA3-voorstel ingetrokken
+    text: Na meer dan drie jaar omstreden debat wordt ECIP-1049 ingetrokken vanwege de kans op een omstreden hardfork. Ethereum Classic blijft goed gepositioneerd om te gedijen op ETChash in een wereld na de fusie.
   vitalikEndorsesETC:
     title: Vitalik Buterin steunt Ethereum Classic
     text: Vitalik Buterin, de meest prominente medeoprichter van Ethereum, geeft een goedkeuring van het oorspronkelijke Ethereum-netwerk - Ethereum Classic voor degenen die waarde hechten aan Proof-of-Work-ketens.

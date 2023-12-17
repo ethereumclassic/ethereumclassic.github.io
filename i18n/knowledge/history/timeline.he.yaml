@@ -2,7 +2,7 @@ title: ציר זמן של אירועים
 items:
   frontierRelease:
     title: Ethereum השקות
-    text: Vitalik Buterin ו-The Ethereum Foundation יוצרים את פלטפורמת החוזה החכם הראשונה מבוססת בלוקצ'יין של Turing עם מהדורת Frontier.
+    text: Vitalik Buterin ו-The Ethereum Foundation יצרו את פלטפורמת החוזה החכם הראשונה מבוססת בלוקצ'יין של Turing עם שחרור Frontier.
   frontierThawingUpgrade:
     title: שדרוג הפשרת גבולות
     text: הרשת מיישמת 'עידן הקרח' בבלוק 200,000 ומציגה את פצצת הקושי, מנגנון שנועד להרחיק את מנגנון הקונצנזוס של הרשת מ-Proof-of-Work ל-Proof-of-Stake.
@@ -270,18 +270,12 @@ items:
   etcFlood:
     title: ETC מברכת את ה-Hashrate החדש
     text: Ethereum Classic מתחייבת לתמיכה באלגוריתם הכרייה של ETChash ובמערכת האקולוגית הנוכחית של הכרייה. זה ממצב את Ethereum Classic כרשת הממוקמת היטב לקלוט את רוב כורי ה-Ethash חסרי הזכויות עם המהלך של רשת ETH להוכחת הסכמה על הימור.
-  etcdao:
-    title: Ethereum Classic DAO
-    text: מימון יציב וארוך טווח מתגלה כבעיה עבור Ethereum Classic עם נטישה על ידי קרן Ethereum בשנת 2016. במאמץ לפתור את בעיית מימון ה-LTS של הרשת, Ethereum Classic DAO נוצר עם משימה להוכיח עתיד את פיתוח הרשת באמצעות קרן פיתוח בקוד פתוח. המימון נוצר עם שימוש בערימת ETC DeFi המתארחת ב-EthereumClassic.com
   era4:
     title: 5M20 עידן 4
-    text: תגמולי הבלוק של Ethereum Classic מופחתים ב-20% ל-2.56 ETC לכל בלוק, בהתאם ללוח הזמנים של פליטות 5M20 בהשראת הביטקוין. קצב כריית ETChash ממשיך לעבור ל-ETC כשהרשת מגיעה לשיאים של כל הזמנים.
+    text: תגמולי הבלוק של Ethereum Classic מופחתים ב-20% ל-2.56 ETC לכל בלוק, בהתאם ללוח הזמנים של פליטת 5M20 בהשראת הביטקוין. ההאשרט לכריית ETChash ממשיך לעבור ל-ETC כשהרשת מגיעה לשיאי כל הזמנים.
   sha3Withdrawn:
-    title: הצעת ETC Coop SHA3 בוטלה
-    text: לאחר יותר משלוש שנים של ויכוחים מעוררי מחלוקת, בוב סאמרוויל מכיר במחלוקת הקשה שיגרום ECIP-1049 לרשת ומושך את ההצעה. המחיר החברתי השלילי שנגרם על ידי מסע המידע השגוי של תומכי ECIP-1049 ממשיך להשפיע לרעה על התפיסה הציבורית של הרשת. עם זאת, באמצעות הקהילה הגמישה שלה, Ethereum Classic נשאר במיקום טוב לשגשג ב-ETChash בעולם שלאחר המיזוג.
-  etcswap:
-    title: ETCswap
-    text: Ethereum Classic DAO משיקה את המוצר הראשון שלה - ETCswap. זה מבטיח שהרשת נמצאת צעד אחד קרוב יותר למימון יציב לפיתוח קוד פתוח ב-Ethereum Classic. ערימת פרוטוקולים מבוזרת מקצועית תיפרס על Ethereum Classic.
+    title: הצעת SHA3 בוטלה
+    text: לאחר יותר משלוש שנים של ויכוחים שנוי במחלוקת, ECIP-1049 נסגר עקב הסבירות ל-hardfork שנוי במחלוקת. Ethereum Classic נשאר במיקום טוב כדי לשגשג ב-ETChash בעולם שלאחר המיזוג.
   vitalikEndorsesETC:
     title: Vitalik Buterin מאשר את Ethereum Classic
     text: Vitalik Buterin, המייסד המשותף הבולט ביותר של Ethereum, נותן תמיכה לרשת Ethereum המקורית - Ethereum Classic למי שמעריך רשתות Proof-of-Work.

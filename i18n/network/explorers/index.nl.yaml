@@ -1,9 +1,9 @@
 title: Blockchain Verkenners
 seo: Een lijst van blockchain explorer diensten voor Ethereum Classic en de verschillende ETC testnets.
 description: |
-  Blockchain Explorers bieden een handige manier om inzicht te krijgen in de huidige en vroegere staat van een bepaalde keten, waardoor u de inhoud van blokken, transacties en rekeningsaldi kunt inspecteren.
+  Blockchain Explorers bieden een handige manier om inzicht te krijgen in de huidige en vroegere staat van een bepaalde keten, zodat u de inhoud van blokken, transacties en rekeningsaldi kunt inspecteren.
 
-  De volgende explorers van derden verifiëren onafhankelijk de staat van Ethereum Classic en zijn testnetten. Ze worden gewoonlijk gebruikt om te controleren of transacties zijn uitgezonden en bevestigd, maar vele bieden meer geavanceerde functies zoals historische rekeningsaldi, contractverificatie en meer.
+  De volgende explorers van derden verifiëren onafhankelijk de staat van Ethereum Classic en zijn testnets. Ze worden vaak gebruikt om te controleren of transacties zijn uitgezonden en bevestigd, maar velen bieden meer geavanceerde functies zoals historische rekeningsaldi, contractverificatie en meer.
 items:
   explorers:
     columnItems:

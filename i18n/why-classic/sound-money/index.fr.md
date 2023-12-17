@@ -9,7 +9,7 @@ seo: Un aperçu des caractéristiques utiles de la monnaie qui lui donnent de la
 
 - L'argent sain est un concept antérieur à Internet qui a inspiré l'invention du bitcoin et de la technologie blockchain.
 - La monnaie peut être considérée comme saine si elle possède plusieurs propriétés quantifiables, et ces propriétés sont encodées dans l'ETC.
-- Une propriété importante est la rareté __, que l'ETC obtient grâce à sa courbe d'émission fixe __ conduisant à une offre future connue __.
+- Une propriété importante est _rareté_, qu'ETC obtient de sa _courbe d'émission fixe_ conduisant à une _offre future connue_.
 - Si un projet ne dispose pas d'une offre future connue, les responsables peuvent arbitrairement gonfler la valeur d'une monnaie au détriment des détenteurs.
 - Ce risque reste présent sur toutes les chaînes qui ne disposent pas d'une courbe d'émission fixe, y compris Ethereum™.
 

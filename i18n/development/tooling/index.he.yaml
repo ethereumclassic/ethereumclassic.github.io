@@ -23,10 +23,10 @@ items:
         description: פלטפורמה לבניית Dapps עבור blockchain ETC.
       ESerialize:
         description: המטרה של מודול זה היא לספק פונקציות קלות להסדרה ולדה-סריאליזציה של נתונים עבור ערימת Ethereum.
-      Ethereum JSON-RPC API:
-        description: מפרט של שיטות JSON-RPC שלקוח בלוקצ'יין מבוסס EVM חייב ליישם.
       Eth Fiddle:
         description: עורך מקוון לחוזים חכמים.
+      Ethereum JSON-RPC API:
+        description: מפרט של שיטות JSON-RPC שלקוח בלוקצ'יין מבוסס EVM חייב ליישם.
       EVM-LLVM:
         description: לא רק שמפתחים יכולים להשתמש בהיקף גדול של שפות תכנות (חלודה לחוזים חכמים!) מלבד Solidity כדי למקד את ה-Ethereum Virtual Machine (EVM), הם גם יכולים ליהנות מיד מכלי פיתוח שונים שנבנו סביב תשתית LLVM.
       Ganache:
@@ -43,14 +43,18 @@ items:
         description: Quorum היא פלטפורמת בלוקצ'יין בקוד פתוח המשלבת את החדשנות של קהילת Ethereum הציבורית עם שיפורים לתמיכה בצרכי הארגון.
       Remix Online IDE:
         description: IDE שימושי בדפדפן שיכול להרכיב ולפרסם חוזים חכמים לרשתות Ethereum שונות. כולל לינטר.
-      Signatory:
-        description: חותם עסקאות והודעות לא מקוונות עבור ערימת Ethereum.
       Sidekik:
         description: בצע ניקוי באגים, בדוק ופתח חוזים חכמים עם ממשק משתמש חזותי המאפשר לך ליצור אינטראקציה עם חוזים חכמים מקומיים או פרוסים מבוססי EVM.
+      Signatory:
+        description: חותם עסקאות והודעות לא מקוונות עבור ערימת Ethereum.
       SOLL:
         description: מהדר LLVM סוף סוף מגיע ל-Solidity. בעזרתו, אנו יכולים ליצור חוזים חכמים בקלות על פני מספר VMs בלוקצ'יין. ה-EVM על Ethereum Classic ו-eWASM של ETH 2.0 הם בין הראשונים שבהם אנו תומכים.
       Sputnikvm:
         description: SputnikVM הוא יישום עצמאי בקוד פתוח של Ethereum Virtual Machine (EVM). היא שואפת להיות מכונה וירטואלית יעילה וניתנת לחיבור עבור בלוקצ'יין שונים מבוססי Ethereum.
+      thirdweb:
+        description: כל מה שאתה צריך כדי לחבר את האפליקציות או המשחקים שלך לרשתות מבוזרות. כלים רבי עוצמה המפשטים פיתוח web3.
+      Tokenview:
+        description: מסגרת מאוחדת לאינטראקציה עם יותר מ-120 בלוקצ'יין. ל-Tokenview blockchain APIs יש נקודות קצה חזקות המפשטות נתוני blockchain מורכבים לקריאות API בודדות. קוד עבור כל הבלוקצ'יין הנתמכים באמצעות קריאות API מאוחדות. מכאן כדי לקבל בקלות עסקה, כתובת, גז, חוזה, אסימון, NFT, יומנים וכל מידע מהרשת. וכן אתה יכול גם לשלוח tx לשרשרת. תצורה בלחיצה אחת עם APIKey עוזרת למפתחים להשתמש, ליצור, לבנות.
       Truffle Suite:
         description: סביבת פיתוח ברמה עולמית, מסגרת בדיקה וצינור נכסים עבור blockchains באמצעות Ethereum Virtual Machine (EVM), במטרה להקל על החיים כמפתח.
   nodeTools:

@@ -7,10 +7,10 @@ description: |
 
   בנוסף, ל-Ethereum Classic יש רשתות בדיקה משלה שמפעילות את גרסת ה-Ethereum Classic של ה-EVM, וגם פריסה לאחת מהרשתות הללו מומלצת מאוד לפני שחרור הייצור. רשתות בדיקה ציבוריות אלו מספקות גם ברזים, כך שתוכל לרכוש בקלות testnet ETC ולפרוס את הקוד שלך.
 
-  אם ברז אינו פועל כהלכה, אנא הצטרף לקהילה Ethereum Classic [Discord](https://ethereumclassic.org/discord) כדי לבצע פינג עבור כספי testnet. מישהו בחדר הצ'אט הכללי של המפתחים יעזור לך.
+  אם ברז אינו פועל כהלכה, הצטרף לקהילת Ethereum Classic [Discord](https://ethereumclassic.org/discord) כדי לבצע פינג עבור כספי testnet. מישהו בחדר הצ'אט הכללי של המפתחים יעזור לך. לחלופין, אתה יכול לכרות בקלות את כספי ה-testnet שלך על ידי הפעלה מקומית של [core-geth](https://etclabscore.github.io/core-geth/getting-started/installation/) עם ה-"geth --mordor --mine " פקודה.
 
-  אתה יכול להשתמש [chainlist.org](https://chainlist.org) כדי להגדיר את ארנק ה-web3 שלך עם נקודות הקצה והסיירים המתאימות של RPC.
-  הגדר את הארנק: [Kotti](https://chainlist.org/chain/6), [Mordor](https://chainlist.org/chain/63)
+  אתה יכול להשתמש ב-[chainlist.org](https://chainlist.org) כדי להגדיר את ארנק ה-web3 שלך עם נקודות הקצה והסיירים המתאימות של RPC.
+  הגדר את הארנק: [Mordor](https://chainlist.org/chain/63)
 items:
   testnets:
     i18n:

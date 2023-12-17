@@ -33,8 +33,6 @@ learn:
           name: 创世纪
         decentralism:
           name: 分权主义
-        ethBtcEtc:
-          __name: ETH + BTC = ETC
         soundMoney:
           name: 健全的货币
         proofOfWork:
@@ -46,6 +44,9 @@ learn:
       name: 知识
       description: 关于支撑ETC的基础的进一步阅读
       navItems:
+        course:
+          name: 课程
+          description: 关于以太坊经典的结构化视频和文章系列
         foundation:
           name: 基金会
           description: 构成ETC坚实哲学基础的核心原则

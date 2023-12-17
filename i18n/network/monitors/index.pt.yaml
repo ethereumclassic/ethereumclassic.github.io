@@ -5,10 +5,6 @@ description: |
 items:
   monitors:
     items:
-      etc-network.info:
-        description: Um pequeno site para ajudá-lo a navegar pelos serviços fornecidos pelo etc-network.info.
-      ETCNodes:
-        description: Explorador de nós da rede principal Ethereum Classic.
       2Miners:
         description: O painel de estatísticas do Ethereum Classic fornece as estatísticas, gráficos e outras métricas de desempenho de blockchain mais importantes capturados diretamente de nós online.
       CoinMetrics:
@@ -17,6 +13,10 @@ items:
         description: Informações de mineração Ethereum Classic - incluindo uma calculadora de mineração Ethereum Classic, uma lista de hardware de mineração Ethereum Classic, dificuldade Ethereum Classic com gráficos históricos, gráficos de hashrate Ethereum Classic, bem como o preço atual do Ethereum Classic.
       Emerald Insights:
         description: O Emerald Insights faz parte do projeto Emerald, que deve fornecer estatísticas, monitoramento e informações avançadas sobre criptomoedas usadas pelo Emerald.
+      etc-network.info:
+        description: Um pequeno site para ajudá-lo a navegar pelos serviços fornecidos pelo etc-network.info.
+      ETCNodes:
+        description: Explorador de nós da rede principal Ethereum Classic.
       ForkWatch:
         description: ForkWatch é uma ferramenta de monitoramento NiceHash que alerta sobre anomalias em algoritmos específicos no mercado NiceHash, especialmente quando o preço do aluguel BTC/TH/Day muda. Isso ajuda as partes interessadas de moedas específicas a serem avisadas caso o poder de mineração seja potencialmente alugado para um ataque recebido em uma rede específica.
       MiningPoolStats:
@@ -25,11 +25,9 @@ items:
         description: Dificuldade histórica, dificuldade, tempo de bloqueio e preço.
       PoolDetective:
         description: Os pools de mineração são jogadores importantes em criptomoedas de prova de trabalho. Mas quem monitora o que eles mandam seus mineiros trabalharem? A Digital Currency Initiative do MIT iniciou um projeto no verão de 2019 para começar a monitorar o comportamento dos pools de mineração.
-      TokenView:
-        description: Estatísticas históricas padrão da rede.
-      WhatToMine:
-        description: Calculadora de rentabilidade para minerar Ethereum Classic e outras cadeias.
-      Kotti Stats:
-        description: Estatísticas de rede para o Ethereum Classic Kotti Testnet.
+      Tokenview:
+        description: O Tokenview fornece um General Multi-Crypto Blockchain Explorer por número de blockchains públicos cobertos, um serviço de API de blockchain rápido e estável, atendendo a milhões de usuários, empresas, projetos e instituições financeiras desde 2017.
       ua-mining:
         description: Painel de estatísticas do Ethereum Classic.
+      WhatToMine:
+        description: Calculadora de rentabilidade para minerar Ethereum Classic e outras cadeias.

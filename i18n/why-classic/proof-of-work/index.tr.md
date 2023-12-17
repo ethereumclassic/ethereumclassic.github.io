@@ -5,7 +5,7 @@ disclaimer: opinion
 seo: Proof of Stake'in devasa değişimler gerçekleştirmek isteyen blok zincirleri için neden uygun bir çözüm olmadığına ve Proof of Work'ün neden bunu yapabilecek bilinen tek mutabakat mekanizması olduğuna dair bir argüman.
 ---
 
-## Önemli Noktalar
+## Anahtar noktaları
 
 - Ethereum Classic, _ademi merkeziyetçilik maksimalizminin peşinde süresiz olarak Proof of Work üzerinde kalmaya kararlıdır_.
 - Proof of Work, denenmiş ve gerçek bir fikir birliği mekanizması olup, _Egemen Sınıf Sansür Direnci_sağladığı bilinen tek mekanizmadır.
@@ -88,7 +88,7 @@ Proof of Stake zincirleri, modern finansal silahlar ve ağın değerinin stake e
 
 Blok zinciri teknolojisi tarafından tehdit edilen modern finans kurumları, sadece fiyatla oynayamayan, ancak bunu yaparak potansiyel olarak toplam sistem arızasına neden olan Proof of Stake'e karşı ekonomik savaş açacaklarından eminler. Türev piyasaların oluşturulması ve fiyat manipülasyonu yoluyla saldırganlar ağdaki oy haklarını satın alabilir ve stake saldırıları yoluyla fikir birliğine varma yeteneğini engelleyebilir veya yok edebilirler.
 
-### Madenci Yıpranması vs Zengin Daha Zengin Oluyor
+### Madenci Yıpratması vs Zengin Daha Zengin Olur
 
 Proof of Work sistemlerinde, devam eden elektrik maliyetlerinin ötesinde, madenciler rekabetçi kalabilmek için ek kaynaklar harcayarak donanımı sürekli olarak yükseltmelidir. Bunun etkisi, karlı bir şekilde madencilik yapabilecek birey havuzunun sürekli olarak değişmesidir. Eğer bir madenci madencilikte kötüyse, diğer madenciler tarafından rekabet edilemeyeceği için eninde sonunda geçimini sağlama yeteneğini kaybedecektir.
 
@@ -154,7 +154,7 @@ Proof of Work sistemlerindeki %51 saldırıları zarar verici olsa da, yalnızca
 
 PoS zincirlerinde, bir saldırgan belirli bir hisse eşiğine ulaştığında, zincir asla toparlanamaz; saldırganın harici kaynaklar taahhüt etmesine gerek olmadığından, zincir çözülemez. Bu başarısızlık durumuna tek çözüm, saldırganı uzaklaştırmaktır; bu da _Code is Law_adresini bozar, blok zincirine sahip olma amacını ortadan kaldırır, öznellik ekler ve zinciri daha da merkezileştirir.
 
-### Tehlikede Bir Şey Yok
+### Hiçbir şey tehlikede değil
 
 Proof of Work'te, bir çatallanma meydana gelirse, blokların oluşturulmasıyla ilişkili harici bir elektrik maliyeti olduğu için madenciler çatallanmanın hangi tarafında madencilik yapacaklarına karar vermek zorundadır. Madenciler "yanlış" çatalı çıkarırlarsa, ödülleri değersiz hale gelecek ve onu çıkarmak için harcadıkları elektriği boşa harcamış olacaklardır, bu nedenle neyi çıkaracaklarını akıllıca seçmeleri gerekir; söz konusu olan _elektrik maliyeti_ .
 
@@ -190,7 +190,7 @@ Sağlam paranın temel fiziksel özelliklerinden biri, taklit edilemeyeceğini g
 
 Her blok başlığına gömülü harici bir objektif ölçüm nedeniyle bir sahibin BTC veya ETC'sinin sahte olmadığını objektif olarak doğrulamak kolaydır, ancak bu kanıt Proof of Stake sistemlerinde mevcut değildir. PoS sistemlerinde, hesapların ve bakiyelerin bulunduğu veritabanının sistemdeki düğümler ve paydaşlar tarafından yazılması önemsiz olduğundan, nesnel bir maliyet söz konusu değildir ve özgünlük varlıklarının doğrulanması çok daha karmaşık, hataya açık ve potansiyel olarak pahalı donanım gerektirir.
 
-### Birikmiş İş
+### Birikmiş Çalışma
 
 PoW blok zincirlerindeki madenciler blok bazında çalıştığından, bu çalışma yalnızca dürüst olmayan düğümlerin mevcut veya en son blokları kurcalaması için bir engel oluşturmakla kalmaz, aynı zamanda zincir inşa edildikçe bu çalışma aslında birikir. Bu, zincirde daha uzakta gömülü olan blokların saldırganlar tarafından değiştirilmesinin veya taklit edilmesinin katlanarak daha zor hale geldiği anlamına gelir. Örneğin, bu yazının yazıldığı sırada, Bitcoin ağındaki mevcut hash gücünün %100'ü ile tüm zinciri tersine çevirmek 340 gün sürecektir.
 

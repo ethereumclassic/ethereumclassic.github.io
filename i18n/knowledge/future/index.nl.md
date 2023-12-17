@@ -43,7 +43,7 @@ Een voordeel van deze aanpak is dat Ethereum Classic kan toekijken hoe andere ke
 
 Op deze manier kunnen andere EVM-ketens worden gezien als gestimuleerde testnetten van Ethereum Classic, met veel rigoureuzere tests dan een traditioneel testnet zou kunnen bieden.
 
-## Vooruitblik
+## Vooruit kijken
 
 Het jaar 2022 is nog maar net begonnen en ETC begint het jaar met een golf van activiteit. Een litanie van nieuwe [apps](/services/apps) en gebruikers zijn organisch samengekomen, en het ETC-ecosysteem begint tekenen van netwerkeffecten te vertonen, die de adoptie zullen doen toenemen naarmate het netwerk nuttiger en waardevoller wordt.
 

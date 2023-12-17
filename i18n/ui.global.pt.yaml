@@ -47,9 +47,12 @@ qa:
 ## Announcement Banner
 announcement:
   text: |
-    Este site agora é traduzido para vários idiomas por meio do aprendizado de máquina. Clique na bandeira no canto superior direito da página para alterar o idioma. Se você quiser ajudar a corrigir traduções, entre em contato conosco!
+    A Atualização da Rede Espiral será activada no bloco 19.250.000, cuja chegada está prevista para 31 de janeiro de 2024. Certifique-se de que o software do seu nó está atualizado com a versão mais recente.
   button:
-    text: "Ajuda Traduzir"
+    text: "Saiba mais"
+## Global Disclaimer
+disclaimer: |
+  O conteúdo deste sítio Web é gerado pelo utilizador e destina-se exclusivamente a fins informativos. Não interprete qualquer conteúdo como um endosso de qualquer produto ou serviço. Não existe "nada oficial" no Ethereum Classic. Faça sempre a sua própria investigação e lembre-se: não confie, verifique!
 ## Footer
 signOff: Feito com `<3` para o Ethereum Vision Original
 socialHilight: A comunidade ETC está ativa no Discord

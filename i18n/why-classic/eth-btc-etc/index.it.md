@@ -22,7 +22,7 @@ Per chi ha già una certa dimestichezza con l'ecosistema delle criptovalute, esi
 > 
 > - L'amministratore delegato di Ethereum Classic, se esistesse, sarebbe un'ottima scelta.
 
-![ET + BTC = ETC](./ethbtcetc.png)
+![ETH + BTC = ETC](./ethbtcetc.png)
 
 Molti di coloro che erano coinvolti in Ethereum prima del DAO Hack avevano l'impressione che Ethereum sperasse di fare proprio questo: essere costruito sulla base delle idee di base consolidate fornite da Bitcoin, ma aggiungere ulteriori funzionalità sotto forma di una piattaforma di contratti intelligenti completa di Turing.
 

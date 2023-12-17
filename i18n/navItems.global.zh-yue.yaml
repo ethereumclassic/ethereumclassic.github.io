@@ -44,6 +44,9 @@ learn:
       name: 知識
       description: 進一步閱讀支撐 ETC 的基礎
       navItems:
+        course:
+          name: 課程
+          description: 有關以太坊經典的結構化影片和文章系列
         foundation:
           name: 基礎
           description: 構成 ETC 堅實哲學基礎的核心原則

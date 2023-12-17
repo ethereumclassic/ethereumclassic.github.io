@@ -2,7 +2,7 @@
 title: "Ethereum Classic Is Property Rights on a Global Scale"
 date: 2023-10-25
 author: Donald McIntyre
-contributors: ["Donald McIntyre"]
+contributors: ["DonaldMcIntyre"]
 tags: ["education", "series"]
 linkImage: ./banner.png
 ---

@@ -5,7 +5,7 @@ disclaimer: opinion
 seo: Ethereum teknolojisini Bitcoin felsefesi ve güvenliği ile birleştiren Ethereum Classic, gerçek anlamda merkezi olmayan bir Akıllı Sözleşme Platformu sunma konusunda tek başına durmaktadır.
 ---
 
-## Önemli Noktalar
+## Anahtar noktaları
 
 - Merkezileşmenin yarattığı sorunlara yanıt olarak ortaya çıkan Ethereum Classic, Bitcoin'in adem-i merkeziyetçi tasarım kararlarının dehasını hızla fark etti ve benimsedi.
 - ETH gibi ETC de bir Turing Complete Akıllı Sözleşme Platformudur.
@@ -44,13 +44,13 @@ Daha önce [adresinde incelendiği gibi](/why-classic/genesis#the-immaculate-con
 > ...  
 > Diğer coinlerde durum böyle değil [ed: ETC hariç]; hepsi kâr etmek isteyen kurucularla piyasaya sürüldü, bit çıkışları arayan yatırımcılardan destek aldı ve doğal olarak perakendeciler de pozisyonlarını değiştirmek için ağızlarından köpükler saçtı.
 > 
-> - [Bitcoin El Kitabı, Neden Bir Sonraki Bitcoin Olmayacak](https://thebitcoinmanual.com/articles/why-there-wont-be-a-next-bitcoin/)
+> - [Bitcoin Kılavuzu, Neden Bir Sonraki Bitcoin Olmayacak?](https://thebitcoinmanual.com/articles/why-there-wont-be-a-next-bitcoin/)
 
 Bazı açılardan Ethereum Classic'in konsepti Bitcoin'inkinden bile daha "kusursuz"; hiç kimse tarafından planlanmadı ve Bitcoin'den farklı olarak Ethereum Classic'te Satoshi yok, yani Bitcoin'de teorik olarak mümkün olan, geri dönüp karar alma sürecini etkileyecek bir Satoshi yok.
 
 Ethereum Classic aynı zamanda %100 ademi merkeziyetçilik ilkelerine odaklanmış bir takipçi tabanı ile tohumlanan tek blok zinciri projesidir. Risklere rağmen, resmi Ethereum™ projesine karşı çıktılar ve özellikle DAO olayına ve merkezileşmenin sağladığı suistimallere gösterdikleri tepki nedeniyle kendi kendilerini seçtiler.
 
-## Resmi Bir Şey Yok
+## Resmi bir şey yok
 
 Bitcoin gibi Ethereum Classic'in de resmi bir geliştiricisi, koruyucusu veya lideri yoktur. Resmi bir logosu, resmi bir web sitesi ya da resmi bir konferansı yoktur. Ethereum Classic'in resmi bir _herhangi bir şey_ olamaz çünkü hiçbir kişi veya grup ETC'yi herhangi bir resmi sıfatla temsil ettiğini iddia etme yetkisine sahip değildir.
 
@@ -68,7 +68,7 @@ Ethereum Classic topluluğundaki pek çok kişi, "şişkinlik" ve ile donanım g
 
 Blok zincirlerini ölçeklendirmeye yönelik katmanlı bir yaklaşımın, _Blockchain Trilemma_ temel katmanı bozmayacak şekilde yerine getirirken verimi artırabileceği konusunda genel bir mutabakat vardır. Bireyler, L1'i etkilemeden farklı L2 sistemlerini güvenle deneyebilir ve uygulamaya ve kullanıcı gereksinimlerine bağlı olarak çeşitli ödünleşimlerde ince ayar yapabilir.
 
-## Yavaşça ÖPÜŞ
+## Yavaşça öp
 
 Temel katmanın çeşitli şekillerde güvenli olması gerekir; hem teknolojik olarak daha az hata ile hem de sosyoekonomik olarak çeşitli saldırı biçimlerine karşı güvenli olmalıdır.
 

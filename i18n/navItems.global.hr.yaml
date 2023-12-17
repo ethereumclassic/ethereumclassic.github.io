@@ -44,6 +44,9 @@ learn:
       name: Znanje
       description: Dodatno čitanje o temeljima koji podupiru ETC
       navItems:
+        course:
+          name: Tečaj
+          description: Strukturirani videozapis i serija članaka o Ethereum Classicu
         foundation:
           name: Temelj
           description: Temeljni principi koji čine ETC-ovu čvrstu filozofsku osnovu
