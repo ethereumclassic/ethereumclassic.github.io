@@ -4,14 +4,14 @@ date: 2024-01-16
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["announcement"]
-linkImage: ./banner.png
+linkImage: ./spiral-banner.png
 ---
 
 ## ATTENTION ETHEREUM CLASSIC NODE OPERATORS AND MINERS:
 
 The Ethereum Classic upgrade, code named SPIRAL, will occur on block 19,250,000. The estimated date for SPIRAL is January 31 2024.
 
-![](./banner.png)
+![](./spiral-banner.png)
 
 Ethereum Classic core developers have posted [ECIP-1109](https://ecips.ethereumclassic.org/ECIPs/ecip-1109), which provides information for ETC’s SPIRAL hard fork.
 
