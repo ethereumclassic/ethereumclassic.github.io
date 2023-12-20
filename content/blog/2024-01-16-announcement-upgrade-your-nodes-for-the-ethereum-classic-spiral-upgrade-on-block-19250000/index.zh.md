@@ -4,14 +4,14 @@ date: 2024-01-16
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["announcement"]
-linkImage: ./banner.png
+linkImage: ./spiral-banner.png
 ---
 
 ## 注意：以太经典节点运营商和矿工：
 
 以太经典的升级，代号SPIRAL，将在区块19,250,000上发生。SPIRAL的预计日期是2024年1月31日。
 
-![](./banner.png)
+![](./spiral-banner.png)
 
 以太经典核心开发者已经发布了[ECIP-1109](https://ecips.ethereumclassic.org/ECIPs/ecip-1109)，其中提供了有关ETC的SPIRAL硬分叉的信息。
 
