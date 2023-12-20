@@ -1,6 +1,6 @@
 ---
 title: "ANNOUNCEMENT: Upgrade Your Nodes for the Ethereum Classic Spiral Hard Fork on Block 19,250,000"
-date: 2023-12-21
+date: 2024-01-16
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["announcement"]
