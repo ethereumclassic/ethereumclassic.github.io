@@ -1,6 +1,6 @@
 ---
 title: "公告：升级您的节点以适应以太经典螺旋硬分叉，分叉高度为19,250,000"
-date: 2023-12-21
+date: 2024-01-16
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["announcement"]
