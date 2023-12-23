@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic at Scale Is Decentralized, Ethereum Is Centralized"
+title: "规模上的以太经典是去中心化的，以太坊是集中化的"
 date: 2023-12-27
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,82 +8,82 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s941neFSYN8?si=AbzsckfgktQ6mS5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-## All Blockchains When They Start Are Centralized
+## 所有区块链在开始时都是中心化的
 
-Every system when it is ideated or first thought is centralized because it is usually one person or a small team who has the idea and puts it into practice.
+每个系统在构想或最初思考时都是中心化的，因为通常只有一个人或一个小团队有这个想法并付诸实践。
 
-For example, when Bitcoin was launched in 2009, the only two node operators and miners were Satoshi Nakamoto, the inventor, and Hal Finney, another Cypherpunk who was the only other person running the software.
+例如，当比特币在2009年推出时，唯一的两个节点操作者和矿工是发明者中本聪（Satoshi Nakamoto）和另一位密码朋克（Cypherpunk）哈尔·芬尼（Hal Finney），后者是唯一一个运行该软件的人。
 
-For at least 2 years Mr. Nakamoto had nearly full control of the software and made changes to it practically unilaterally.
+在接下来的至少两年里，中本聪几乎完全控制了软件，并几乎独断地对其进行了更改。
 
-As Ethereum (ETH) and Ethereum Classic (ETC) were one network when it was launched in 2015, both systems were also centralized when they were conceived and first deployed.
+由于以太坊（ETH）和以太经典（ETC）在2015年推出时是同一网络，因此在构思和首次部署时，这两个系统也是中心化的。
 
-## All Blockchains When They Are Small Look Centralized
+## 所有小型区块链看起来都是中心化的
 
-Not only was Bitcoin centralized at the beginning because the inventor was the main driver of the project, maintainer, and decision maker, but also the network itself was small.
+比特币在开始时不仅因为发明者是项目的主要推动者、维护者和决策者而是中心化的，而且网络本身规模较小。
 
-Bitcoin had very few nodes around the world in the early stages and they were usually both verifying nodes and miners. The hashrate of the network was small and the machines creating blocks were mostly home computers and laptops.
+比特币在早期阶段全球范围内的节点非常少，它们通常既是验证节点又是矿工。网络的哈希率很小，创建区块的机器主要是家用电脑和笔记本电脑。
 
-In the first year or so, ETH and ETC were also small in terms of node operators and hashrate.
+在第一年左右，以太坊和以太经典在节点操作者和哈希率方面也很小。
 
-When blockchains are small they look centralized because they have few operators and also, if there are foundations or nonprofits supporting them, they give the that impression because these institutions have the money to hire core developers and pay for basic infrastructure to move the systems forward.
+当区块链规模较小时，由于操作者较少，它们看起来是中心化的，而且，如果有支持它们的基金会或非营利组织，它们也会给人这种印象，因为这些机构有资金聘请核心开发人员并支付基础设施费用，以推动系统发展。
 
-## However, What Is Important Is the Design
+## 重要的是设计
 
-Whether Bitcoin, Ethereum, or Ethereum Classic were centralized at the beginning or they looked centralized when they were small is irrelevant.
+无论比特币、以太坊还是以太经典在开始时是否中心化，或者在规模较小时是否看起来中心化，这都是无关紧要的。
 
-What is relevant is whether their designs are decentralized when they reach large scales.
+重要的是它们的设计在达到大规模时是否是去中心化的。
 
-As most economic systems and many phenomena in nature respond to power law, therefore [tend to centralization](https://en.wikipedia.org/wiki/Pareto_principle), in computer science operating systems and networks usually tend to centralization.
+由于大多数经济系统和自然界的许多现象都遵循幂律，因此[倾向于中心化](https://en.wikipedia.org/wiki/Pareto_principle)，在计算机科学中，操作系统和网络通常也倾向于中心化。
 
-Nevertheless, the major invention of Bitcoin was a design that actually guaranteed decentralization, thus censorship resistance, permissionlessness, and trust minimization in a peer to peer network.
+然而，比特币的主要发明是一种实际上保证了去中心化的设计，因此在点对点网络中实现了抗审查、无需许可和最小化信任。
 
-## Proof of Work Based Nakamoto Consensus Is the Only Decentralized Design
+## 基于工作证明的中本聪共识是唯一的去中心化设计
 
 ![](./1.png)
 
-It happens to be that this invention, Proof of Work (POW) Nakamoto Consensus, is the only blockchain design that is decentralized. 
+碰巧这个发明，工作证明（POW）中本聪共识，是唯一一种去中心化的区块链设计。
 
-Blockchains such as Bitcoin and ETC use this consensus mechanism and this is why they are orders of magnitude more secure, which means that they depend less on trusted third parties at scale than Proof of Stake (POS) networks such as Ethereum, Cardano, or BNB.
+诸如比特币和以太经典之类的区块链使用了这种共识机制，这就是它们在安全性上比基于股权证明（POS）的网络，如以太坊、卡尔达诺或BNB，更加安全的原因。
 
-Proof of Work is the only signaling system that enables nodes to independently recognize legitimate blocks and to join the correct chain whenever they wish to disconnect and reconnect or when they want to join for the first time.
+工作证明是唯一的信号系统，使节点能够独立识别合法的区块，并在需要断开和重新连接或首次连接时加入正确的链。
 
-All other systems, including Ethereum, need to trust third parties to be able to understand which is the next correct block or the right chain to join.
+所有其他系统，包括以太坊在内，都需要信任第三方，以便能够理解下一个正确的区块或正确的链是哪个。
 
-## Proof of Stake Is Centralized
+## 股权证明是中心化的
 
-For these reasons, Proof of Stake lacks the decentralization counter forces that POW has.
+因此，股权证明缺乏工作证明所具有的去中心化的制衡力。
 
-Proof of this is that Ethereum has an increasing dependency on trusted third parties, which are the Ethereum Foundation, staking pools, validators, and block builders and the network is currently more than 70% [censored](https://www.coindesk.com/tech/2023/12/06/ethereums-censorship-problem-is-getting-worse/). 
+证明是以太坊对受信任的第三方依赖不断增加的原因之一，这些第三方包括以太坊基金会、质押池、验证者和区块构建者，网络目前超过70% [受审查](https://www.coindesk.com/tech/2023/12/06/ethereums-censorship-problem-is-getting-worse/)。
 
-POS has many features that makes it centralized including that it has no objective fork choice method, staking is frictionless thus has strong economies of scale, and most of the network depends on a few participants to decide which is the next correct block and which is the correct chain to follow.
+POS具有许多使其中心化的特征，包括没有客观的分叉选择方法，质押是无摩擦的，因此具有强大的规模经济，大多数网络依赖于少数参与者来决定下一个正确的区块和要遵循的正确链。
 
-All these features are nearly identical to centralized cloud services.
+所有这些特征几乎与中心化的云服务相同。
 
-## Blockchain Mining Is Decentralized at Scale
+## 区块链挖矿在规模上是去中心化的
 
-Some people say that POW suffers of the same centralization biases, but this can’t be further from the truth!
+有人说POW受到相同的中心化偏见的影响，但这与事实相去甚远！
 
-Firstly, Bitcoin has nearly 15 years of operation and has never been centralized. This is enough information for those who follow the pragmatic scientific method of proving things by real life experiments!
+首先，比特币运行了将近15年，从未被中心化。对于那些遵循实证科学方法通过实际生活实验来证明事物的人来说，这已经足够的信息！
 
-Secondly, distribution of electricity generation sources in the world is very dispersed. Therefore, it is not possible for single unified mining operations to have any significant share of the hashrate.
+其次，世界上电力发电源的分布非常分散。因此，不可能让单一的统一采矿操作拥有任何重要的算力份额。
 
-And thirdly, if miners were to misbehave in the network, the rest of node operators would be able to split from them by changing the mining algorithm in the system. In POS this is impossible because the stakers are inside the network, they are not external as miners are in POW.
+第三，如果矿工在网络中表现不当，其余的节点操作者将能够通过更改系统中的挖矿算法与它们分开。在POS中，这是不可能的，因为质押者是在网络内部的，不像POW中的矿工是外部的。
 
-## Therefore, Ethereum Classic Is Decentralized at Scale
+## 因此，以太经典在规模上是去中心化的
 
-So, some people say that ETC is centralized because it has an institution, the ETC Cooperative, who has capital from a donation from an independent investor, who hires the core developers. Also, because the network has a few hundred economic nodes and hashrate is not yet at the level of Bitcoin.
+因此，有人说ETC是中心化的，因为它有一个机构，ETC合作社，其资金来自独立投资者的捐赠，该投资者雇佣核心开发人员。另外，因为网络有几百个经济节点，而算力尚未达到比特币的水平。
 
-But these are simplistic and limited analyses. In any case, when ETC captures mindshare, because it is the largest truly decentralized smart contracts blockchain in the world, and people and developers realize that all other systems are centralized and managed by special interests, then Ethereum Classic will rise in price and grow in hashrate, and any impressions of centralization will vanish because its core POW design is decentralized at scale.
+但这些都是简单和有限的分析。无论如何，当ETC获得人们的关注时，因为它是世界上最大的真正去中心化的智能合约区块链，而其他所有系统都是由特殊利益管理的中心化系统时，那么以太经典的价格将上升，算力将增长，任何中心化的印象都将消失，因为其核心的POW设计在规模上是去中心化的。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
