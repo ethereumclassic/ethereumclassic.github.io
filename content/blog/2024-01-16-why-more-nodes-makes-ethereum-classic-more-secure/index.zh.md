@@ -22,7 +22,7 @@ Trusted third parties are security holes because they hold our wealth and they h
 
 The most effective way humans have found to reduce the risk of trusted third parties in history has been to divide their power and to distribute their functions and responsibilities in as many parts as possible.
 
-This is at the heart of the purpose of blockchains as ETC.
+This is at the heart of the purpose of blockchains such as ETC.
 
 ## The Security of Full Replication
 
@@ -38,13 +38,13 @@ Indeed, the full replication of ETC makes it even resistant to nuclear war!
 
 ## Common Mistakes in the Industry
 
-Many think that proof of work blockchains are only protected by miners. This can’t be further from the truth because POW is just one part of the security model. The complete security model includes, proof of work, full replication, verification by nodes, and the coordination problem of the social layer.
+Many think that proof of work blockchains are only protected by miners. This can’t be further from the truth because POW is just one part of the security model. The complete security model includes proof of work, full replication, verification by nodes, and the coordination problem of the social layer.
 
 However, only proof of work blockchains as ETC can have this complete set of security guarantees.
 
 Thinking that only “the community” or the social layer provides security is another gross error in the industry. 
 
-As explained above, the lack of coordination ability by the ecosystem is only one of the security components, and the weakest at that.
+As explained above, the lack of coordination ability by the ecosystem is only one of the security components, and the weakest one at that.
 
 When blockchain designers have this confusion, then they introduce false security models such as proof of stake or proof of authority, which depend solely on the “honesty” of the social layer, thus re-centralizing their systems in trusted third parties all over again!
 
@@ -54,7 +54,7 @@ If you think of it mathematically, then each additional node in a blockchain tha
 
 If there is only one computer in the system, then all the risk is resting on that computer. This can be described as having a risk of 1, which is the highest risk.
 
-If there are two computers in the system, then the system will half the risk, or the risk will be resting in two nodes instead of only one. This can be described as having a risk of 1/2.
+If there are two computers in the system, then the system will halve the risk, or the risk will be resting in two nodes instead of only one. This can be described as having a risk of 1/2.
 
 If we keep adding nodes, for example, then three will lower the risk to 1/3, four to 1/4, five to 1/5, and so on, until the risk will tend to zero.
 
