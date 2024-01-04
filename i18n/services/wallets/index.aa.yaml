@@ -179,9 +179,6 @@ items:
       TokenPocket:
         __link: https://tokenpocket.pro/
         __name: TokenPocket
-      Tokenview:
-        __link: https://tokenview.com/cn/download
-        __name: Tokenview
       Trust Wallet:
         __link: https://trustwallet.com/ethereum-classic-wallet
         __name: Trust Wallet
