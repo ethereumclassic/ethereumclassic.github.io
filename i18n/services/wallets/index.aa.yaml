@@ -39,9 +39,6 @@ items:
       Portis:
         __link: https://www.portis.io/
         __name: Portis
-      Squarelink:
-        __link: https://squarelink.com/
-        __name: Squarelink
   browsers:
     __type: buttons
     title: crwdns125643:0crwdne125643:0
