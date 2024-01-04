@@ -39,6 +39,9 @@ items:
     title: Web Wallets
     description: These Web3 wallets can be accessed using a web page. They shouldn't be used to secure large amounts, but allow you to easily interacting with ETC without downloads.
     items:
+      Coin Wallet:
+        __link: https://coin.space/
+        __name: Coin Wallet
       MyCrypto:
         __link: https://www.mycrypto.com
         __name: MyCrypto
