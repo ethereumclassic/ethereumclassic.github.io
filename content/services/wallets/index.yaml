@@ -168,9 +168,6 @@ items:
       Hebe Core:
         __link: https://hebecore.com/
         __name: Hebe Core
-      Mantis Wallet:
-        __link: https://mantisclient.io/#wallet
-        __name: Mantis Wallet
       MathWallet:
         __link: https://mathwallet.org/
         __name: MathWallet
