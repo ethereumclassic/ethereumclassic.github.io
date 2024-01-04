@@ -158,9 +158,6 @@ items:
       Hebe Core:
         __link: https://hebecore.com/
         __name: Hebe Core
-      Jaxx Liberty:
-        __link: https://jaxx.io/
-        __name: Jaxx Liberty
       Mantis Wallet:
         __link: 'https://mantisclient.io/#wallet'
         __name: Mantis Wallet
