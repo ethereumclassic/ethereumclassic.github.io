@@ -132,9 +132,6 @@ items:
       Coinomi:
         __link: https://www.coinomi.com/
         __name: Coinomi
-      Cryptonator:
-        __link: https://www.cryptonator.com/
-        __name: Cryptonator
       Edge:
         __link: https://edge.app/
         __name: Edge
