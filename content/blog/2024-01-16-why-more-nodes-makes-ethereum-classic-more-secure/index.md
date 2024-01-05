@@ -4,7 +4,7 @@ date: 2024-01-16
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["philosophy"]
-linkImage: ./banner.png
+linkImage: ./banner-2.png
 ---
 
 ---
