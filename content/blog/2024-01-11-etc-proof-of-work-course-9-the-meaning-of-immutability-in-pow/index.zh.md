@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 9. The Meaning of Immutability in POW"
+title: "ETC工作量证明课程：第9课，POW中不可变性的含义"
 date: 2024-01-11
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,91 +8,93 @@ linkImage: ./banner-1.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OfUzTdiGico?si=7Ud-I8JvpCQimtSn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-In the previous class, 8, we talked about how proof of work (POW) promotes basic rights on a global scale.
+在上一节（第8课）中，我们讨论了工作量证明（POW）如何在全球范围内促进基本权利。
 
-One of the most important features of POW that guarantees these basic rights is the immutability of the ledger with accounts, balances, and smart contracts.
+POW的一个最重要的特性，保障这些基本权利的，就是账户、余额和智能合约的不可变性。
 
-In this class, 9, we will explain the concept of immutability in the blockchain industry and why it is important. 
+在本课（第9课）中，我们将解释区块链行业中不可变性的概念以及其重要性。
 
-The topics that we will touch will be:
+我们将涉及的主题包括：
 
-- What is immutability
-- Why immutability must be a core value
-- Immutability of past history
-- Immutability of future history
-- How POW guarantees immutability
-- Only users control their money, dapps, and assets
+- 什么是不可变性
+- 为什么不可变性必须是核心价值观
+- 过去历史的不可变性
+- 未来历史的不可变性
+- POW如何保证不可变性
+- 只有用户掌控他们的资金、DApps和资产
 
-## What Is Immutability in POW Blockchains?
+## POW区块链中的不可变性是什么？
 
 ![](./1.png)
 
-Immutability means that things don’t change overtime, or that they are unable to be changed. 
+不可变性意味着事物不随时间改变，或者说它们无法被改变。
 
-In the blockchain industry, we could say that accounts, balances, and dapps are unable to be changed by third parties who usually don’t have the best interests of users in mind.
+在区块链行业中，我们可以说账户、余额和DApps无法被通常不考虑用户最佳利益的第三方改变。
 
-These “third parties” may be just thieves who want to steal wealth, corporations or special interests who want to extract value from this wealth, or governments who want to control and direct people’s lives and money.
+这些“第三方”可能是想要窃取财富的小偷、想要从这些财富中提取价值的公司或特殊利益集团，或者想要控制和指导人们生活和金钱的政府。
 
-On POW blockchains, the principle of immutability guarantees that addresses, cryptocurrency balances, and dapps will not be changed by third parties. 
+在POW区块链上，不可变性的原则保证了地址、加密货币余额和DApps不会被第三方改变。
 
-## Why Immutability Must Be A Core Value
+## 为什么不可变性必须是核心价值观
 
-Truly decentralized public blockchains, as systems exposed to the environment with no protection other than their internal security, need to have especially strong immutability at the protocol layer. 
+真正去中心化的公共区块链，作为暴露于环境中且除了其内部安全性外没有其他保护的系统，需要在协议层具有特别强大的不可变性。
 
-Immutability is not only about directly securing the integrity and continuity of distributed basic rights, as we explained in our previous class, but also includes all the parts and parameters of those blockchains that assure those rights. 
+不可变性不仅仅是关于直接确保分布式基本权利的完整性和连续性，正如我们在之前的课程中解释的那样，它还包括确保这些权利的区块链的所有部分和参数。
 
-Immutability is achieved with decentralization, and decentralization is only achieved with the proof of work consensus mechanism.
+不可变性是通过去中心化实现的，而去中心化只能通过工作量证明共识机制实现。
 
-Immutability must be a core value in blockchain design so that the risk of damaging the integrity of the database, that contains the accounts, balances, and dapps people use, is minimized.
+不可变性必须是区块链设计中的核心价值观，以使包含人们使用的账户、余额和DApps的数据库的完整性的风险最小化。
 
-## Immutability of Past History
+## 过去历史的不可变性
 
-Immutability in a public POW blockchain may be divided in immutability of the past history or of the future history. 
+在公共POW区块链中，不可变性可以分为过去历史的不可变性和未来历史的不可变性。
 
-Both must be guaranteed.
+两者都必须得到保证。
 
-The immutability of past history is enforced by cryptography and blockchain design.
+过去历史的不可变性是通过加密和区块链设计强制执行的。
 
-If a blockchain uses public key cryptography for users to own and control their accounts and balances, and uses proof of work to build blocks, then the immutability of past history is guaranteed by the protocol itself and its internal design.
+如果区块链使用公钥加密让用户拥有和控制其账户和余额，并使用工作量证明构建区块，那么过去历史的不可变性由协议本身及其内部设计来保证。
 
-This objective form of guaranteeing immutability and thus security may be called “physical layer security”.
+这种确保不可变性和因此安全性的客观形式可以称为“物理层安全”。
 
-## Immutability of Future History
+## 未来历史的不可变性
 
-When The DAO hard fork that [violated immutability](https://ethereumclassic.org/blog/2023-01-26-ethereum-classic-course-6-ethereum-classic-is-the-original-chain) in Ethereum happened in 2016, thus making it split from the original chain, ETC, one of the false arguments developers used was that the immutability of the chain had not been violated because the change was done looking forward, not backward in time.
+当以太坊中发生了DAO硬分叉，违反了不可变性，导致其在2016年从原始链ETC中分离出来时，开发人员使用的一个虚假论点是该链的不可变性没有被违反，因为更改是朝前看的，而不是朝后看的。
 
-What they did was that the hacker’s account had $50 million dollars one moment and then zero the next, but the past history was not touched. They called this a “state change” and claimed it did not violate immutability because the history of the hacker’s account was not touched!
+他们所做的是黑客账户一刹那间有5000万美元，然后下一刹那为零，但过去的历史并未受到影响。他们称这为“状态变更”，并声称它并未违反不可变性，因为黑客账户的历史没有受到影响！
 
-This is why immutability must be a core value in blockchain ecosystems, to prevent this kind of trickery. 
+这就是为什么不可变性必须是区块链生态系统中的核心价值观，以防止这种欺诈手法。
 
-However, POW systems such as Bitcoin and ETC are so widespread, global, and decentralized that to coordinate a state change that violates future immutability would be practically impossible. This is what is called “social layer security”.
+然而，像比特币和ETC这样的POW系统是如此广泛、全球化和去中心化，以至于协调违反未来不可变性的状态变更几乎是不可能的。这就是所谓的“社会层安全”。
 
-## How POW Guarantees Immutability
+## POW如何保证不可变性
 
-POW guarantees immutability of both past and future history in two ways:
+POW通过两种方式保证过去和未来历史的不可变性：
 
-**Past history:** As each block in POW blockchains is built using a lot of electricity, computing power, and capital, then to change past history would be enormously onerous to anyone who would want to attack the chain. As time passes by, accounts and balances become even more immutable because to change the history would require all the work to be done again, not only for the block in question but for all subsequent blocks as well.
+**过去历史：** 由于POW区块链中的每个区块都是使用大量电力、计算能力和资本构建的，因此要改变过去的历史对于任何想要攻击该链的人来说都是极其繁重的任务。随着时间的推移，账户和余额变得更加不可变，因为要改变历史将需要重新执行所有工作，不仅仅是对于涉及的区块，而且对于所有随后的区块也是如此。
 
-**Future history:** Because POW guarantees true decentralization on a worldwide basis, then miners and node operators are distributed across many nations, regions, cultures, religions, languages, and jurisdictions, making it extremely difficult to coordinate changes that would violate immutability.
+**未来历史：** 由于POW在全球范围内保证了真正的去中心化，矿工和节点运营商分布在许多国家、地区、文化、宗教、语言和法域中，使得协调违反不可变性的变更变得极为困难。
 
-## Only Users Control Their Money, Dapps, and Assets
+## 只有用户掌控他们的资金、DApps和资产
 
-When we talk about immutability, we talk about accounts, balances, and decentralized applications being practically impossible to change by third parties.
+当我们谈论不可变性时，我们谈论的是账户、余额和去中心化应用几
 
-This does not mean that users who are owners of their assets on Bitcoin or ETC will not be able to change their property, move balances, or pay for things!
+乎无法被第三方改变。
 
-In fact, the only way to change the state of accounts and balances in POW blockchains is by their owners using their private keys to sign transactions. With their private keys, users can fully control their addresses, cryptocurrencies, other assets, or applications.
+这并不意味着拥有比特币或ETC上资产的用户将无法改变其所有权、移动余额或支付事物！
 
-This is why private key management is so important and such a paradigm change in the financial industry.
+事实上，改变POW区块链上账户和余额状态的唯一方式是由它们的所有者使用他们的私钥签署交易。通过私钥，用户可以完全掌控他们的地址、加密货币、其他资产或应用程序。
+
+这就是为什么私钥管理在金融行业中如此重要且是一种范式转变。
 
 ---
 
-**Thank you for reading this article!**
+**感谢阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
