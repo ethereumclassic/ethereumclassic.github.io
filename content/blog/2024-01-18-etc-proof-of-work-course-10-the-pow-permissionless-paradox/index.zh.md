@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 10. The POW Permissionless Paradox"
+title: "ETC工作量证明课程: 10. POW（工作量证明）无许可悖论"
 date: 2024-01-18
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,104 +8,106 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qEx0iPgY6WY?si=d2lEx8Hhko2fF-5z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-In the previous class, 9, we talked about the meaning of immutability in proof of work (POW) blockchains.
+## 第9课回顾：POW区块链中不可变性的含义
 
-We explained how a philosophy of immutability can protect users’ accounts, balances, and dapps’ past and future history.
+在上一堂课（第9课）中，我们讨论了在工作量证明（POW）区块链中不可变性的含义。
 
-Another strong principle in public POW blockchains is permissionlessness.
+我们解释了不可变性的哲学如何保护用户的账户、余额以及去中心化应用（DApps）的过去和未来历史。
 
-However, in this class, 10, we will explain that there is a paradox in the permissionless paradigm in POW blockchains. 
+在公共POW区块链中，另一个强烈的原则是无需许可。
 
-Contrary to what would be expected, permissionlessness is not necessarily good in all situations!
+然而，在本课程（第10课）中，我们将解释在POW区块链中无需许可的范式存在悖论。
 
-## What Is Permissionlessness?
+与预期相反，无需许可并非在所有情况下都是好事！
 
-Permissionlessness means that anyone in the world can run nodes, mine, have accounts and balances, and use proof of work blockchains such as Ethereum Classic (ETC) and Bitcoin (BTC) at will without the need for consent or approvals by any person, entity, or government.
+## 什么是无需许可？
 
-In contrast, traditional banking systems are permissioned: Because our money is in custody of the banks, then the only way to access it is through their proprietary websites, apps, or branch offices, and we have to prove our identity so they allow us to withdraw or move our own currency.
+无需许可意味着世界上任何人都可以自由运行节点、进行挖矿、拥有账户和余额，并自由使用工作量证明区块链，如以太经典（ETC）和比特币（BTC），而无需得到任何人、实体或政府的同意或批准。
 
-In POW blockchains, at the raw level, just by downloading the software, anyone from anywhere can join the system and start sending and receiving money.
+相反，传统银行系统是需要许可的：因为我们的资金由银行保管，所以唯一访问它的方式是通过它们专有的网站、应用程序或分支机构，并且我们必须证明我们的身份，以便他们允许我们提取或转移我们自己的货币。
 
-## The Permissionless Paradox
+在POW区块链中，在原始层面上，只需下载软件，来自世界各地的任何人都可以加入系统，开始发送和接收资金。
 
-However, POW blockchain permissionlessness has a paradox. 
+## 无需许可的悖论
 
-The permissionless paradox in POW networks is this: 
+然而，POW区块链的无需许可存在一个悖论。
 
-**To maximize permissionlessness in a POW blockchain, you must reduce permissionlessness in the community of people that most influences it.**
+POW网络中的无需许可悖论是这样的：
 
-Or, to put it more bluntly, a POW blockchain social layer should NOT be permissionless. 
+**为了最大程度地提高POW区块链的无需许可性，您必须在最大程度地减少对其最大程度影响的人群的无需许可性。**
 
-In a POW operating network, permissioned access is bad. In the POW blockchain community, permissioned access is good.
+换句话说，POW区块链的社交层不应该是无需许可的。
 
-## What Is Permissionness?
+在POW操作网络中，许可的访问是不好的。在POW区块链社区中，有许可的访问是好的。
 
-Contrary to permissionlessness, permissionness means that people must be vetted and allowed to participate in a POW blockchain community only if they share the values of the system.
+## 什么是有许可性？
 
-If they don’t agree with the principles, or if they say they agree verbally but don’t show a consistent behavior in practice, then they should be excluded from the community.
+与无需许可相反，有许可性意味着必须对人们进行审查，并仅在他们分享系统价值观的情况下允许他们参与POW区块链社区。
 
-For example, if a core principle of ETC is immutability, whoever proposes to reverse the chain or do an irregular state change for any reason, then that person should be banned from participating in any of the community assets.
+如果他们不同意原则，或者如果他们口头上表示同意但在实践中没有一贯的行为，那么他们应该被排除在社区之外。
 
-By “community assets” it is meant the public forums that are used by community members to express their opinions or work for the blockchain in question.
+例如，如果ETC的核心原则之一是不可变性，那么任何提出逆转链或因任何原因进行非正常状态更改的人都应该被禁止参与社区的任何资产。
 
-## What Is Security in a POW Blockchain?
+通过“社区资产”指的是社区成员用来表达他们的意见或为所涉及的区块链工作的公共论坛。
 
-Security in a proof of work blockchain is to depend as least as possible on trusted third parties.
+## POW区块链中的安全是什么？
 
-Trusted third parties are security holes because they hold our wealth and they hold our information, but they can make mistakes, commit fraud, be controlled by tyrannic governments, or abuse their position of trust.
+POW区块链中的安全性在于尽可能少地依赖受信任的第三方。
 
-In proof of work networks, the community of people that most influences the system are a kind of trusted third party because they are the ones who maintain the protocol, propose new rules, and influence the rest of the ecosystem as to the direction of the blockchain.
+受信任的第三方是安全隐患，因为它们掌握着我们的财富和信息，但它们可能犯错、实施欺诈、受到专制政府的控制，或滥用其信任的位置。
 
-This is why, special attention and care must exist when admitting members to the community.
+在工作量证明网络中，最影响系统的人群是某种程度上的受信任的第三方，因为他们是维护协议、提出新规则并影响区块链发展方向的人。
 
-## What Is Operating Network Security?
+这就是为什么在接纳社区成员时必须特别注意和小心的原因。
+
+## 什么是操作网络安全？
 
 ![](./1.png)
 
-To explain the rationale for this approach it is worth explaining the security model of POW blockchains.
+为了解释这种方法的合理性，值得解释一下POW区块链的安全模型。
 
-A blockchain is a group of nodes and miners owned and operated by people. The live network itself, with computers running the software protocol, may be called the operating network.
+区块链是由人拥有并操作的节点和矿工组成的。实际的网络本身，其中计算机运行软件协议，可以称为操作网络。
 
-This is the environment that is protected by the POW consensus mechanism and holds the database with accounts, balances, and dapps which is called “the blockchain”.
+这是由POW共识机制保护的环境，它持有包含账户、余额和DApps的数据库，称为“区块链”。
 
-This physical layer that represents the operating network is what provides the services of the blockchain to everyone on a global scale, and THIS is what should be permissionless and free to use by the whole world.
+代表操作网络的物理层是向全球所有人提供区块链服务的平台，这应该是无需许可的，并且可以免费使用。
 
-## What Is Social Layer Security?
+## 什么是社交层安全？
 
-The social layer of a blockchain is all the people who own the nodes and miners, the developers who manage the base protocol, entrepreneurs who build dapps, any nonprofit organizations that support the system, and the many scientists and volunteers who participate on a daily basis supporting and maintaining the network.
+区块链的社交层包括拥有节点和矿工的所有人、管理基本协议的开发人员、构建DApps的企业家、支持系统的任何非营利组织，以及每天积极参与支持和维护网络的许多科学家和志愿者。
 
-Because nodes and miners are located all around the world, and they are the ones who would have to run the software with the rules of the system to implement and deploy changes, it is very difficult for them to accept on a mass scale any controversial changes that would corrupt or degrade the system. This is what is called the coordination problem.
+由于节点和矿工分布在世界各地，他们是必须运行带有系统规则的软件来实施和部署更改的人，因此很难在大规模上接受可能损害或降低系统的任何有争议的更改。这就是所谓的协调问题。
 
-However, the more dedicated core community is the part of the social layer that wields the most influence in the system. From this group is that bad changes could be introduced.
+然而，更为专注的核心社区是社交层中最具影响力的部分。从这个群体中可能引入不良更改。
 
-## What Are the Threats at the Social Layer?
+## 社交层的威胁是什么？
 
-Think of this problem: If a core principle of ETC is permissionlessness, then why should whoever proposes new rules that would reduce or eliminate permissionlessness be banned from participating in any of the community assets?
+想一想这个问题：如果ETC的核心原则之一是无需许可，那么为什么提出新规则的人，其规则将减少或消除无需许可，应该被禁止参与社区的任何资产呢？
 
-Do you see the paradox?
+你看到悖论了吗？
 
-However, the seemingly unsolvable problem is actually resolved when we realize that the permissioness rule only applies at the social layer, where humans tend to have disagreements and usually try to cheat each others when competing for control.
+然而，这个看似无法解决的问题实际上在我们意识到，有许可性规则只适用于社交层时得到解决，而在那里人类往往存在分歧，通常在竞争控制权时会试图欺骗对方。
 
-The threat is that bad changes that would make the system centralized, thus permissioned, could be and [have been](https://etherplan.com/2021/06/01/ethereum-classic-treasury-response-to-charles-hoskinson/15909/) introduced through this layer.
+威胁在于通过这个层引入可能使系统中心化的不良更改。
 
-## How Does Permissionness Reduce Risk at the Social Layer?
+## 许可性如何降低社交层的风险？
 
-Change in POW blockchains should be slow, and the decision process on new rules should be long and thoroughly debated.
+在POW区块链中，更改应该是缓慢的，对新规则的决策过程应该是漫长且经过深入辩论的。
 
-Systems such as Bitcoin and ETC are not web apps or interesting tech gadgets on our phones. And, innovation is NOT the goal of highly secure public blockchains. 
+比特币和ETC等系统不是我们手机上的Web应用程序或有趣的技术小玩意。而高度安全的公共区块链的目标不是创新。
 
-These platforms are systems of money, property, agreements, and basic rights on a global scale for anyone in the world regardless of their human condition. 
+这些平台是一个全球规模的、供全球任何人使用的货币、财产、协议和基本权利的系统，无论他们的人类状况如何。
 
-When changes are proposed by people with no understanding or bad actors who persist in corrupting and degrading the system, then excluding these individuals from the core community reduces the frequency of these attacks, thus reducing the risk of bad changes flowing through to the operating network.
+当由于缺乏了解或坚持损害和降低系统的不良行为的人提出更改时，从核心社区中排除这些个体会减少这些攻击的频率，从而降低了不良更改传播到操作网络的风险。
 
 ---
 
-**Thank you for reading this article!**
+**感谢阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解有关ETC的更多信息，请访问：https://ethereumclassic.org
