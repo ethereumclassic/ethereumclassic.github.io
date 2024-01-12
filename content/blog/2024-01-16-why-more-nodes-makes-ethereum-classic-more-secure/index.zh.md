@@ -1,5 +1,5 @@
 ---
-title: "Why More Nodes Makes Ethereum Classic More Secure"
+title: "为什么更多的节点使得以太经典更加安全"
 date: 2024-01-16
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,96 +8,92 @@ linkImage: ./banner-2.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9yRQz7ZFU6U?si=ErQyBy0g7eayIP6e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-## What Is Security in Ethereum Classic?
+## 以太经典的安全性是什么？
 
-Security in Ethereum Classic (ETC) and any blockchain that is well designed is to depend as least as possible on trusted third parties.
+以太经典（ETC）以及任何良好设计的区块链的安全性在于尽量不依赖于可信任的第三方。
 
-Trusted third parties are security holes because they hold our wealth and they hold our information, but they can make mistakes, commit fraud, be controlled by tyrannic governments, or abuse their position of trust.
+可信任的第三方是安全漏洞，因为它们持有我们的财富和信息，但它们可能犯错、实施欺诈、受到专制政府控制，或滥用其信任地位。
 
-The most effective way humans have found to reduce the risk of trusted third parties in history has been to divide their power and to distribute their functions and responsibilities in as many parts as possible.
-
-This is at the heart of the purpose of blockchains such as ETC.
-
-## The Security of Full Replication
+人类历史上降低可信任第三方风险的最有效方式是分散其权力，并在尽可能多的部分中分配其功能和责任，这正是以太经典等区块链存在的目的。
 
 ![](./banner.png)
 
-In the case of Ethereum Classic this distribution is done by having the same database; which contains users’ accounts, balances, and dapps; copied identically in as many participating nodes as possible.
+## 完全复制的安全性
 
-This full replication of the blockchain is the essence of the security model of a proof of work (POW) blockchain.
+在以太经典的情况下，通过在尽可能多的参与节点中完全复制相同的数据库，其中包含用户的账户、余额和分布式应用（DApps），来实现这种分散。
 
-When the accounts, balances, and decentralized applications are replicated in more nodes, then the data is more redundant, and the more redundant the data is, the less likely it is that it will be corrupted or destroyed by man or nature.
+区块链的完全复制是工作量证明（POW）区块链安全模型的本质。
 
-Indeed, the full replication of ETC makes it even resistant to nuclear war!
+当账户、余额和去中心化应用在更多节点中被复制时，数据就更为冗余，数据越冗余，就越不容易被人为或自然灾害破坏。
 
-## Common Mistakes in the Industry
+事实上，ETC的完全复制甚至使其对核战争也更具抵抗力！
 
-Many think that proof of work blockchains are only protected by miners. This can’t be further from the truth because POW is just one part of the security model. The complete security model includes proof of work, full replication, verification by nodes, and the coordination problem of the social layer.
+## 行业中的常见错误
 
-However, only proof of work blockchains as ETC can have this complete set of security guarantees.
+许多人认为工作量证明区块链仅由矿工保护。事实远非如此，因为POW仅是安全模型的一部分。完整的安全模型包括工作量证明、完全复制、节点验证和社交层的协调问题。
 
-Thinking that only “the community” or the social layer provides security is another gross error in the industry. 
+然而，只有像ETC这样的工作量证明区块链才能具备完整的安全保障。
 
-As explained above, the lack of coordination ability by the ecosystem is only one of the security components, and the weakest one at that.
+认为只有“社区”或社交层提供安全性是行业中的另一个严重错误。
 
-When blockchain designers have this confusion, then they introduce false security models such as proof of stake or proof of authority, which depend solely on the “honesty” of the social layer, thus re-centralizing their systems in trusted third parties all over again!
+正如前文所述，生态系统缺乏协调能力只是安全组成部分之一，而且是最薄弱的部分。
 
-## Each Additional Node Subtracts a Fraction of Risk
+当区块链设计者有了这种混淆时，他们就会引入错误的安全模型，如股权证明或权威证明，这些模型完全依赖于社交层的“诚实”，从而再次将其系统重新集中在可信任的第三方身上！
 
-If you think of it mathematically, then each additional node in a blockchain that has a replicated copy of the whole history of the chain adds an additional fraction of security or, said another way, subtracts a fraction of risk.
+## 每个额外的节点都降低一部分风险
 
-If there is only one computer in the system, then all the risk is resting on that computer. This can be described as having a risk of 1, which is the highest risk.
+从数学的角度来看，每个在区块链中具有完全复制整个链历史的附加节点都会增加一部分安全性，或者换句话说，减少一部分风险。
 
-If there are two computers in the system, then the system will halve the risk, or the risk will be resting in two nodes instead of only one. This can be described as having a risk of 1/2.
+如果系统中只有一台计算机，那么所有风险都寄托在该计算机上。这可以描述为具有最高风险的风险为1。
 
-If we keep adding nodes, for example, then three will lower the risk to 1/3, four to 1/4, five to 1/5, and so on, until the risk will tend to zero.
+如果系统中有两台计算机，那么系统将减少一半的风险，或者风险将分散在两个节点而不仅仅是一个。这可以描述为具有1/2的风险。
 
-This is why blockchains such as ETC are so secure, because many nodes around the world have replicated its database. 
+如果我们继续添加节点，例如，三个将将风险降低到1/3，四个将降低到1/4，五个将降低到1/5，以此类推，直到风险趋近于零。
 
-## The Importance of Globality
+这就是为什么像ETC这样的区块链如此安全，因为世界各地的许多节点都复制了其数据库。
 
-We will emphasize the term “around the world” above because if all the nodes of a blockchain were operated or held in the same place, then they would all count as one because one or very few people would controle them, thus bringing back the high dependency on trusted third parties.
+## 全球性的重要性
 
-The key is to have the nodes distributed in as many people, countries, regions, cultures, religions, languages, and jurisdictions as possible. 
+我们在上文中强调了“全球性”这个术语，因为如果一个区块链的所有节点都在同一个地方运行或持有，那么它们将被视为一个，因为一个或很少的人将会掌控它们，从而再次高度依赖于可信任的第三方。
 
-This reduces even more the risk of coordination of the social layer and creates a physical redundancy that protects the system against natural disasters and also man made disasters such as tyranny, wars, excessive regulation, etc.
+关键是将节点分布在尽可能多的人、国家、地区、文化、宗教、语言和司法管辖区。这进一步减少了社交层协调的风险，并创造了对系统进行物理冗余保护，防范自然灾害以及人为灾害，比如专制、战争、过度监管等。
 
-## Security at the Individual Level
+## 在个体层面的安全性
 
-Security is also enhanced individually by running a node in ETC.
+通过在ETC中运行节点，个体的安全性也得到了提升。
 
-When people use wallets, exchanges, dapps, and other services to process their transactions, manage their smart contracts, and check their balances all their activity goes through ETC blockchain nodes.
+当人们使用钱包、交易所、DApps和其他服务来处理他们的交易、管理智能合约并检查余额时，他们的所有活动都通过ETC区块链节点进行。
 
-If these nodes belong to third parties, then users are depending on these entities as to the veracity of the information.
+如果这些节点属于第三方，那么用户就依赖这些实体来确认信息的真实性。
 
-The most secure setup to use a blockchain is to run your own node and to verify by yourself all information and to process all transactions safely.
+在区块链中使用最安全的设置是运行自己的节点，自己验证所有信息并安全处理所有交易。
 
-## Security at the Network Level
+## 在网络层面的安全性
 
-Unfortunately, there is no way to force, dictate, or to incentivize node operators safely to run more nodes in as many countries, regions, cultures, religions, languages, and jurisdictions as possible. Many have proposed some economic models or even are paying tokens to node operators to run more nodes, but these ideas usually have hidden risks.
+不幸的是，没有办法安全地强制、指导或激励节点运营商在尽可能多的国家、地区、文化、宗教、语言和司法管辖区运行更多的节点。许多人提出了一些经济模型，甚至向节点运营商支付代币以运行更多节点，但这些想法通常存在潜在风险。
 
-The way blockchains gain nodes is by the individual incentives described in the previous section. Usually high value economic nodes, such as popular wallets, exchanges, institutional investors, high networth individuals, banks, custodians, and others, tend to run several nodes each because of the value at risk that they manage in blockchains such as ETC.
+区块链获得节点的方式是通过前文描述的个体激励。通常，具有高价值经济节点的实体，如热门钱包、交易所、机构投资者、高净值个人、银行、托管方等，由于在ETC等区块链中管理的风险价值较高，往往会运行多个节点。
 
-The more value at risk, the more node operators will want to run their own nodes, thus the more nodes will exist on the blockchain. This is one of the reasons why the increase in market capitalization of a POW cryptocurrency is so important and central to its design.
+价值风险越高，节点运营商就越希望运行自己的节点，因此区块链上的节点就越多。这也是为什么POW加密货币市值的增加对其设计如此重要和中心的原因之一。
 
-## The Purpose of Proof of Work Was Always Full Replication
+## 工作量证明的目的始终是完全复制
 
-The main goal of Cypherpunks when designing systems for a cryptocurrency was to have what they called [secure property titles with ownership authority](https://nakamotoinstitute.org/secure-property-titles/). And, the main security model was to replicate the data in as many nodes, in as many places as possible.
+当Cypherpunks设计加密货币系统时，他们的主要目标是拥有他们所谓的[具有所有权权限的安全财产标题](https://nakamotoinstitute.org/secure-property-titles/)。而主要的安全模型是在尽可能多的节点、尽可能多的地方复制数据。
 
-Proof of work was the solution that provided the consensus mechanism so that all nodes could agree on the same replicated database, but it was a means to the end of full replication.
+工作量证明是为了提供共识机制，使所有节点能够就同一复制的数据库达成一致，但这只是完全复制的手段。
 
-As secondary benefits, POW provides hard money because the cost of creating the blocks in the blockchain is the same as creating the money; and a barrier to reverse the chain because the work will have to be done all over again to change past transactions.
+作为次要效益，POW提供了硬货币，因为在区块链中创建区块的成本与创建货币的成本相同；以及防止逆转链的障碍，因为要改变过去的交易必须重新进行所有工作。
 
-These were additional benefits, but what was sought was full replication in as many nodes, in as many places as possible.
+这些都是额外的好处，但追求的是在尽可能多的节点、尽可能多的地方进行完全复制。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解有关ETC的更多信息，请访问：https://ethereumclassic.org
