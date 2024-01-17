@@ -46,7 +46,7 @@ If personal, commercial, and governmental activities will be mediated by these d
 
 ## Examples of Continuous Cash Flows
 
-**Self employed persons:** Self employed individuals usually receive income from their clients, organize this information, and then pay taxes, expenses, and providers in separate transaction and moments. With continuous cash flows, they will receive payments from sales, and bills and taxes will be calculated, prorated, and paid immediately.
+**Self employed persons:** Self employed individuals usually receive income from their clients, organize this information, and then pay taxes, expenses, and providers in separate transactions and moments. With continuous cash flows, they will receive payments from sales, and bills and taxes will be calculated, prorated, and paid immediately.
 
 **Small businesses:** Similarly, small businesses, will receive payments for their sales, and then their expenses, providers, and even employees will be paid on a continuous basis in real time.
 
@@ -58,7 +58,7 @@ If personal, commercial, and governmental activities will be mediated by these d
 
 **Endowments:** Endowment funds will receive donations and simultaneously allocate them to planned investments, which will be visible by constituents, and, similar to non-profits, budgeted payments to beneficiaries will be continuous and transparent.
 
-**Securities:** As securities are promises of future cash flows, these will be structured and represented by smart contract more or less like spreadsheets but live on the blockchain. As the scheduled payments occur, the dividends or interest will be paid to securities holders simultaneously.
+**Securities:** As securities are promises of future cash flows, these will be structured and represented by smart contracts more or less like spreadsheets but live on the blockchain. As the scheduled payments occur, the dividends or interest will be paid to securities holders simultaneously.
 
 **Capital markets:** With composability, all the settlement delays and risks associated with trades will be practically eliminated. For example, when a complex multi-party trade occurs that includes a margin loan, the purchase of an assets, and the sale of another, all the components of the trade will be executed simultaneously, and the final settlement to all parties of the tarde will be finalized in 13 seconds!
 
