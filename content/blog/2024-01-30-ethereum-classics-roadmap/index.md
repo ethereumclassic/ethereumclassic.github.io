@@ -53,6 +53,7 @@ Ethereum Classic is part of the EVM standard where there are many blockchains wi
 ETC will always adopt the new changes that: 
 
 a) puts it in parity with the EVM standard, and 
+
 b) are best for ETC’s [decentralist](https://ethereumclassic.org/why-classic/decentralism) philosophy.
 
 The ECIP process (the Ethereum Classic Improvement Proposal process) is the method that is used for all ETC ecosystem participants to propose new ideas and changes. 
@@ -72,7 +73,7 @@ Istora summarized it like this: Decentralized pathways have:
 - greater flexibility and adaptability,
 - community-driven decision-making,
 - reduced risk of centralization and resilience to social attacks, and
-- learning from other projects' experiences
+- learning from other projects' experiences.
 
 ## There Are no Disadvantages for Not Having a Roadmap
 
