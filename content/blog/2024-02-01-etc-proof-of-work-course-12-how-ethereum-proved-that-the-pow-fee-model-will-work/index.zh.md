@@ -32,11 +32,11 @@ As this disintermediation happened the value of BTC would go down, and, with it,
 
 Shortly after Mr. Sztorc’s essay I published my response titled “[Why the Bitcoin Fee Model Will Work](https://etherplan.com/2019/05/17/why-the-bitcoin-fee-model-will-work/7587/)” where I gave the following reasons why POW blockchains would be viable in the long term through fees.
 
-1. There will be very few large POW blockchains in the future: Because of network effects and an aversion to risk, the market will eventually select very few, perhaps only 3 or 4, very large blockchains to be the base layer of the whole industry. There will be no cheap alternatives for users to send their transactions, except for layer 2 systems that will work on Bitcoin, ETC, and other POW chains.
+**1. There will be very few large POW blockchains in the future:** Because of network effects and an aversion to risk, the market will eventually select very few, perhaps only 3 or 4, very large blockchains to be the base layer of the whole industry. There will be no cheap alternatives for users to send their transactions, except for layer 2 systems that will work on Bitcoin, ETC, and other POW chains.
 
-2. Security costs: It is not the same to move value through BTC than through any other cheap chain. Security, permissionlessness, and censorship resistance cost money and people will pay for it. This is the whole point of POW blockchains!
+**2. Security costs:** It is not the same to move value through BTC than through any other cheap chain. Security, permissionlessness, and censorship resistance cost money and people will pay for it. This is the whole point of POW blockchains!
 
-3. Exchange costs: When moving value, if users were to sell the expensive POW blockchain coins with the high fees and then buy another coin, send the money through this other chain, and then sell the other coin to buy back the original POW blockchain coins, these frictional costs, which include the risks of doing all these steps, would cancel whatever savings people would have by not using the expensive blockchain.
+**3. Exchange costs:** When moving value, if users were to sell the expensive POW blockchain coins with the high fees and then buy another coin, send the money through this other chain, and then sell the other coin to buy back the original POW blockchain coins, these frictional costs, which include the risks of doing all these steps, would cancel whatever savings people would have by not using the expensive blockchain.
 
 In the essay I explained more reasons in more detail. To read my whole rationale I recommend the reader to read the post I linked above.
 
