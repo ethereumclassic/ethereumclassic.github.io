@@ -29,6 +29,9 @@ items:
     title: crwdns125619:0crwdne125619:0
     description: crwdns125621:0crwdne125621:0
     items:
+      Coin Wallet:
+        __link: https://coin.space/
+        __name: Coin Wallet
       MyCrypto:
         __link: https://www.mycrypto.com
         __name: MyCrypto
