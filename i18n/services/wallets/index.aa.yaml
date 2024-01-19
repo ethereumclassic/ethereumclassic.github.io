@@ -39,9 +39,6 @@ items:
       Portis:
         __link: https://www.portis.io/
         __name: Portis
-      Squarelink:
-        __link: https://squarelink.com/
-        __name: Squarelink
   browsers:
     __type: buttons
     title: crwdns125643:0crwdne125643:0
@@ -117,9 +114,6 @@ items:
       Alpha Wallet:
         __link: https://alphawallet.com/
         __name: Alpha Wallet
-      AToken:
-        __link: https://www.atoken.com/
-        __name: AToken
       Atomic Wallet:
         __link: https://atomicwallet.io/
         __name: Atomic Wallet
@@ -138,9 +132,6 @@ items:
       Coinomi:
         __link: https://www.coinomi.com/
         __name: Coinomi
-      Cryptonator:
-        __link: https://www.cryptonator.com/
-        __name: Cryptonator
       Edge:
         __link: https://edge.app/
         __name: Edge
@@ -154,9 +145,6 @@ items:
       eToro Wallet:
         __link: https://www.etorox.com/crypto-wallet/
         __name: eToro Wallet
-      Evercoin:
-        __link: https://evercoin.com
-        __name: Evercoin
       Exodus:
         __link: https://www.exodus.com/
         __name: Exodus
@@ -164,24 +152,12 @@ items:
       Guarda:
         __link: https://guarda.com/
         __name: Guarda
-      HubrisOne:
-        __link: https://hubrisone.com/wallet
-        __name: HubrisOne
       Huobi Wallet:
         __link: https://www.huobiwallet.com/
         __name: Huobi Wallet
       Hebe Core:
         __link: https://hebecore.com/
         __name: Hebe Core
-      Infinito Wallet:
-        __link: https://www.infinitowallet.io/
-        __name: Infinito Wallet
-      Jaxx Liberty:
-        __link: https://jaxx.io/
-        __name: Jaxx Liberty
-      Mantis Wallet:
-        __link: 'https://mantisclient.io/#wallet'
-        __name: Mantis Wallet
       MathWallet:
         __link: https://mathwallet.org/
         __name: MathWallet
@@ -203,9 +179,6 @@ items:
       TokenPocket:
         __link: https://tokenpocket.pro/
         __name: TokenPocket
-      Tokenview:
-        __link: https://tokenview.com/cn/download
-        __name: Tokenview
       Trust Wallet:
         __link: https://trustwallet.com/ethereum-classic-wallet
         __name: Trust Wallet
