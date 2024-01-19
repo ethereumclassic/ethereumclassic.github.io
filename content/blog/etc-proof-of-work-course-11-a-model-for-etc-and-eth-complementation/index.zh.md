@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 11. A Model for ETC and ETH Complementation"
+title: "ETC工作量证明课程：11. ETC和ETH的互补模型"
 date: 2024-01-25
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,90 +8,90 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9pE8Q4bNqiM?si=iv6mDof1OXz5Wvxj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-In the previous class, 10, we talked about the permissionless paradox in proof of work (POW) blockchains.
+在上一堂课（第10堂）中，我们讨论了工作量证明（POW）区块链中的非许可悖论。
 
-The permissionless paradox says that, to guarantee permissionlessness in a POW blockchain, the community that most influences it must not be permissionless.
+非许可悖论指出，为了在POW区块链中保证非许可性，最影响该区块链的社区必须是非许可的。
 
-This concept is related to this class, 11, because proof of stake (POS) blockchains are not permissionless, either at the blockchain or the community levels.
+这个概念与本节课（第11堂）有关，因为权益证明（POS）区块链在区块链或社区层面上也不是非许可的。
 
-However, this could be solved if Ethereum (ETH) used Ethereum Classic (ETC) as a way to add permissionlessness back into its system. This, in turn, would benefit ETC because it would gain Ethereum’s scalability.
+然而，如果以太坊（ETH）使用以太坊经典（ETC）作为将非许可性重新引入其系统的方式，这个问题可能得以解决。反过来，这将使ETC受益，因为它将获得以太坊的可扩展性。
 
-We will explain the rationale for this concept in this post.
+我们将在本文中解释这个概念的基本原理。
 
-## What Does “Complementation” Between ETC and ETH Mean?
+## “ETC和ETH之间的互补”是什么意思？
 
-As explained in the introduction, the complementation between Ethereum and ETC would be that both would gain if they were to integrate their systems further.
+正如介绍中所解释的，以太坊和ETC之间的互补意味着如果它们进一步集成它们的系统，两者都会获益。
 
-Today, both ETH and ETC follow the same technological standard which is called the “EVM standard” that is the “Ethereum Virtual Machine” paradigm that [brought](https://etherplan.com/ethereum-white-paper.pdf) smart contracts to the blockchain industry.
+如今，ETH和ETC都遵循相同的技术标准，称为“EVM标准”，即“以太坊虚拟机”范例，它将[智能合约](https://etherplan.com/ethereum-white-paper.pdf)引入了区块链行业。
 
-However, ETH and ETC differ in that their consensus mechanisms are powered by different methods. 
+然而，ETH和ETC的不同之处在于它们的共识机制采用了不同的方法。
 
-ETH uses proof of stake, a method that is [centralized](https://ethereumclassic.org/blog/2023-12-27-ethereum-classic-at-scale-is-decentralized-ethereum-is-centralized) and does not have a fork choice, and ETC uses proof of work, the only method that guarantees decentralization and has a fork choice.
+ETH使用权益证明，这是一种[集中化](https://ethereumclassic.org/blog/2023-12-27-ethereum-classic-at-scale-is-decentralized-ethereum-is-centralized)且没有分叉选择的方法，而ETC使用工作量证明，这是唯一可以保证去中心化并具有分叉选择的方法。
 
-On the other hand, proof of stake may be more scalable than proof of work. This means that if ETH and ETC were to integrate up to a certain point, then ETH would gain the security of ETC, and ETC would gain the scalability of ETH.
+另一方面，权益证明可能比工作量证明更具可扩展性。这意味着如果ETH和ETC在某个程度上进行集成，ETH将获得ETC的安全性，而ETC将获得ETH的可扩展性。
 
-## ETH Is Insecure, Convoluted, and Prone to Centralization
+## ETH是不安全、复杂且容易中心化的
 
-Ethereum was a system nearly identical to ETC before it migrated to proof of stake. However, because POS is centralized, ETH has become an insecure, convoluted system, prone to centralization.
+在迁移到权益证明之前，以太坊几乎与ETC相同。然而，由于POS是中心化的，ETH已经成为一个不安全、复杂且容易中心化的系统。
 
-There are times in which ETH [is censored](https://ethereumclassic.org/blog/2023-02-22-ethereum-classic-is-censorship-resistant-ethereum-is-not) in up to 70% of its transactions. Other problems it has are that big staking pools may control more than 33% of validators, which surpasses the security threshold of the system.
+有时，ETH的[交易](https://ethereumclassic.org/blog/2023-02-22-ethereum-classic-is-censorship-resistant-ethereum-is-not)在其70％的情况下会受到审查。它面临的其他问题是大型权益池可能控制超过33％的验证器，这超过了系统的安全阈值。
 
-In addition to these centralization tendencies, ETH staking has early no friction, therefore it has very efficient economies of scale, which inevitably leads to large staking interests and the large [staking elites](https://ethereumclassic.org/blog/2023-11-08-proof-of-stake-is-broken-because-of-its-incentives) getting richer and the rest of the economy getting poorer.
+除了这些中心化的趋势之外，ETH的权益投放几乎没有摩擦，因此具有非常高效的规模经济，这不可避免地导致大型权益利益和大型[权益精英](https://ethereumclassic.org/blog/2023-11-08-proof-of-stake-is-broken-because-of-its-incentives)变得更富有，而经济的其余部分变得更贫困。
 
-## ETH Has No Fork Choice on a Global Scale
+## ETH在全球范围内没有分叉选择
 
-Other than general centralization, proof of stake’s weakness is that it has no fork choice. A fork choice is a way for all nodes and validators to know on which chain to work in case there is a split or fork. 
+除了普遍的中心化之外，权益证明的弱点在于它没有分叉选择。分叉选择是一种使所有节点和验证器在发生分裂或分叉时知道在哪个链上工作的方法。
 
-Proof of work is very clear as to the choice nodes must make in case there is a split or fork, all must follow the chain with the most work done, which is very easy to calculate and verify. 
+工作量证明对于在发生分裂或分叉时所有节点必须做出的选择非常明确，所有节点必须遵循已完成工作最多的链，这是非常容易计算和验证的。
 
-Proof of stake does not have this, therefore it is necessary to depend on trusted third parties to know on which chain everyone else is working!
+权益证明没有这一点，因此必须依赖于可信的第三方来了解其他所有人正在使用哪条链！
 
-In a way, Ethereum is prone to centralization, very much because of this lack of fork choice. When there is fork choice, nodes can join and leave whenever they want without checking with anyone else. In other words, it is permissionless. 
+从某种意义上说，以太坊容易中心化，这很大程度上是因为缺乏分叉选择。当有分叉选择时，节点可以随时加入和离开，而无需与其他任何人核对。换句话说，它是非许可的。
 
-Ethereum is permissioned because it is always necessary to verify with trusted authorities where the correct chain is.
+以太坊是许可的，因为始终需要与可信的权威核实正确链的位置。
 
-Ethereum needs to gain a fork choice before a black swan event occurs, which would be catastrophic.
+以太坊在发生黑天鹅事件之前需要获得分叉选择，否则将是灾难性的。
 
-## ETH Can Keep Its Execution Layer
+## ETH可以保留其执行层
 
 ![](./1.png)
 
-Ethereum is convoluted because it is divided in two layers, the execution layer (EL) and the consensus layer (CL). This combined system is riddled with [complexity](https://www.lynalden.com/proof-of-stake/).
+以太坊很复杂，因为它分为两个层面，即执行层（EL）和共识层（CL）。这种组合系统充满了[复杂性](https://www.lynalden.com/proof-of-stake/)。
 
-However, in a potential integration with ETC, Ethereum could keep its execution layer, but use ETC as its consensus layer. 
+然而，在与ETC进行潜在集成的情况下，以太坊可以保留其执行层，但使用ETC作为其共识层。
 
-ETC could be ETH’s consensus layer by receiving ETH block templates from the Ethereum network and hashing them. After hashing them, they could return them to the Ethereum network of nodes for verification so that all computers in that system could know which is the correct block in each round.
+ETC可以成为ETH的共识层，通过从以太坊网络接收ETH块模板并对其进行散列来实现。在对其进行散列之后，它们可以返回给以太坊节点网络进行验证，以便该系统中的所有计算机都能知道每一轮中的正确区块。
 
-With this same system, all nodes in ETH could also know which would be the correct chain in case of splits or forks.
+通过这个相同的系统，ETH中的所有节点也可以在发生分裂或分叉时知道哪条是正确的链。
 
-## ETH Can Keep Both Its Execution and Consensus Layers
+## ETH可以保留其执行和共识层
 
-In another model, Ethereum could keep both its EL and CL layers but use ETC for stamping its state in specific intervals.
+在另一种模型中，以太坊可以保留其EL和CL层，但在特定间隔内使用ETC来标记其状态。
 
-For example, ETC could serve as a checkpointing system every 100 or 1000 blocks (every 20 or 200 minutes) to prevent stakers from reversing and tampering with the chain beyond those limitations.
+例如，ETC可以在每100或1000个区块（每20或200分钟）作为一个检查点系统，防止权益者超越这些限制来颠倒和篡改链。
 
-The way it would work would be that Ethereum could keep producing blocks as it does today, but it would send its whole state to ETC every 100 or 1000 blocks to record it in that POW blockchain.
+它的工作原理是以太坊可以继续生成区块，就像今天一样，但它将其整个状态发送到ETC，以便在POW区块链中记录每100或1000个区块。
 
-If for any reason the ETH chain were to split or be reversed by attackers, then nodes could go to the ETC chain, check the last checkpoint and continue from there instead of trying to find what is the correct chain by bickering at the social layer.
+如果由于某种原因ETH链分裂或被攻击者颠覆，那么节点可以转到ETC链，检查最后一个检查点，然后从那里继续，而不是试图通过在社交层争论来找到正确的链。
 
-## The Inexorability of POW As the Base Layer
+## 作为基础层的POW的不可避免性
 
-Both models of complementation proposed above would make Ethereum gain the key advantage of POW; which is to have a clear way of knowing what is the correct chain for all machines globally to be able to join and leave whenever they wish without any central control; and would provide a fork choice in case of partitions or attacks.
+上述提出的ETC和ETH互补的两种模型都将使以太坊获得POW的关键优势；即对于全球所有机器来说，有一种明确的方式知道什么是正确的链，以便它们可以随时加入和离开，而无需任何中央控制；并且在分割或攻击的情况下提供分叉选择。
 
-As the world realizes POS is a mirage, this kind of anchoring is inexorable in the whole segment, unless they wish to definitely kill Ethereum and the other POS systems. 
+随着世界意识到POS是一个幻觉，这种锚定在整个领域是不可避免的，除非他们希望最终消灭以太坊和其他POS系统。
 
-But, with so much competition and market cap at stake, it is very likely that when one does the move, the rest will follow.
+但是，考虑到竞争如此激烈，市值在游戏中，很有可能一旦有人采取行动，其他人就会跟随。
 
-In the process, POW blockchains such as ETC will gain in scalability as proof of stake networks settle their transactions using their highly secure consensus systems.
+在这个过程中，POW区块链，如ETC，将在保持其高度安全的共识系统的同时，在可扩展性方面获得优势。
 
 ---
 
-**Thank you for reading this article!**
+**感谢阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
