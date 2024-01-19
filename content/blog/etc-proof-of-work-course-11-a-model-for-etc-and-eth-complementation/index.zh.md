@@ -60,7 +60,7 @@ ETH使用权益证明，这是一种[集中化](https://ethereumclassic.org/blog
 
 ## ETH可以保留其执行层
 
-![](./1.png)
+![](./1-zh.png)
 
 以太坊很复杂，因为它分为两个层面，即执行层（EL）和共识层（CL）。这种组合系统充满了[复杂性](https://www.lynalden.com/proof-of-stake/)。
 
