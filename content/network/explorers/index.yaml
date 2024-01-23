@@ -7,6 +7,7 @@ __contributors:
   - cicorias
   - dax-classix
   - gitr0n1n
+  - Har01d
   - IstoraMandiri
   - ProphetDaniel
   - pyskell
@@ -32,6 +33,12 @@ items:
         __linkRef: mordor
         text: Mordor
     items:
+      3xpl:
+        __name: 3xpl
+        __etc: https://3xpl.com/ethereum-classic
+      Blockchair:
+        __name: Blockchair
+        __etc: https://blockchair.com/ethereum-classic
       BlockScout:
         __name: BlockScout
         __etc: https://blockscout.com/etc/mainnet/
