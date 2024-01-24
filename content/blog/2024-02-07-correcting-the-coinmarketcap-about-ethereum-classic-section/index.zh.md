@@ -29,11 +29,11 @@ Since its launch, Ethereum Classic has sought to  [differentiate itself from Eth
 
 Ethereum Classic (ETC) is the original [Ethereum](https://coinmarketcap.com/currencies/ethereum/) (ETH) blockchain that launched in July 2015. Its main function is as a [smart contract](https://coinmarketcap.com/alexandria/glossary/smart-contract) network, with the ability to host and support decentralized applications ([DApps](https://coinmarketcap.com/alexandria/glossary/decentralized-applications-dapps)). Its native token is ETC.
 
-Since its launch, Ethereum Classic has sought to uphold its original values of immutability, censorship resistance, and permissionlessness. However, ETC’s technology is on parity with the EVM (Ethereum Virtual machine Standard) as it seeks to be up-to-date with state of the art technology.
+Since its launch, Ethereum Classic has sought to uphold its original values of immutability, censorship resistance, and permissionlessness. However, ETC’s technology is on parity with the EVM (Ethereum Virtual Machine standard) as it seeks to be up-to-date with state of the art technology.
 
 **Rationale:**
 
-To state that ETC is a fork is an old error in the market and it is the responsibility of a service at CMC to correct these fallacies.
+To state that ETC is a fork is an old error in the market and it is the responsibility of a service as CMC to correct these fallacies.
 
 ETC does not diverge from the EVM roadmap, to the contrary ETC constantly performs hard forks to be on parity with Ethereum, except the upgrades that are detrimental to immutability, e.g. EIP-1559 or Proof of Stake.
 
@@ -91,7 +91,7 @@ Past events such as who liked it or not, and who are the current developers is i
 
 What is relevant is what ETC represents, which is that it is the largest and most secure smart contracts blockchain in the world.
 
-All other networks that seem larger because they have higher market caps are less secure, therefore ETC has a unique value proposition that needs to be highlighted by CMC.
+All other smart contract networks that seem larger because they have higher market caps are less secure, therefore ETC has a unique value proposition that should be highlighted by CMC.
 
 ## Section: How Is Ethereum Classic Different From Ethereum?
 
@@ -147,13 +147,13 @@ When ETC was a minority chain, it suffered some attacks. These included 51% atta
 
 Ethereum Classic uses the [Proof-of-Work](https://coinmarketcap.com/alexandria/glossary/proof-of-work-pow) (PoW) consensus algorithm. By resolving computationally intensive puzzles to create and validate blocks of transactions, Ethereum Classic miners protect the network.
 
-The ETC blockchain is also fully replicated, which makes it redundant across the world making it it practically impossible to take down or tamper with by nature or man.
+The ETC blockchain is also fully replicated, which makes it redundant across many nodes worldwide making it practically impossible to take down or tamper with by natural disaters or man.
 
-Now that it is the largest proof of work smart contracts blockchain in the world its security levels have significantly increased to the point that developers have removed the safety features they added after the 51% attacks of 2020.
+Now that it is the largest proof of work smart contracts blockchain in the world, its security levels have significantly increased to the point that developers have removed the safety features they added after the 51% attacks of 2020.
 
 **Rationale:**
 
-We added a more accurate description of the POW security mechanism and that the other security method is full replication. We also updated the information to show that the safety features that were added while ETC was a minority chain were removed because now it is the majority chain.
+We added a more accurate description of the POW security mechanism and that the other security method is full replication. We also updated the information to show that the safety features that were added while ETC was a minority chain were removed because now it is the majority chain in its POW algorithm.
 
 ## Section: How is Ethereum Classic Mined?
 
@@ -173,9 +173,11 @@ Once they do this, they create a new cryptographic stamp for this new block spec
 
 They may do this trillions of times per second, and this is what uses up so much energy and is referred to as “proof of work” because only by working in trying so many times, using so much computing power and electricity, is that, statistically, one of the miners will hit the target within the range of the standard block time, which is 13 seconds in ETC.
 
+When a miner hits the target, then they send the block to the rest of the network for verification and payment of the miner reward plus the block's transaction fees.
+
 **Rationale:**
 
-The CMC explanation has two paragraphs repeated and does not explain POW and how it works. In POW, miners do not “validate” transactions, that is done by the nodes and what they do is to “verify” transactions. We give here a straightforward explanation of how ETC is mined.
+The CMC explanation has two paragraphs repeated and does not explain POW and how it works. In POW, miners do not “validate” transactions, that is done by the nodes and what they do is to “verify” transactions. We give here a straightforward explanation of how ETC is mined and blocks created.
 
 ## Section: Where Can You Buy Ethereum Classic (ETC)?
 
@@ -213,7 +215,7 @@ Ethereum has grown in popularity due to network effects and more developer and u
 
 The main concerns of ETC are scalability, bloat, and backward compatibility. These are constraints shared by all layer 1 smart contracts blockchains. Both Ethereum and Ethereum Classic will be scalable through layer 2 systems.
 
-Backward compatibility will be solved when “Account Versioning” and “EVM versioning” are implemented in the EVM standard in general. Bloating is a work in progress and depends more on client efficiencies and advances.
+Backward compatibility will be solved when “Account Versioning” and “EVM Versioning” are implemented in the EVM standard in general. Bloating is a work in progress and depends more on client efficiencies, data structure changes, and other advances.
 
 **Rationale:**
 
