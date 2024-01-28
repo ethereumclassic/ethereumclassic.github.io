@@ -1,5 +1,5 @@
 ---
-title: ""以太坊经典上的‘持续现金流’将是什么""
+title: "以太坊经典上的‘持续现金流’将是什么"
 date: 2024-01-31
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
