@@ -7,8 +7,6 @@ tags: ["announcement"]
 linkImage: ./banner.png
 ---
 
----
-
 **由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fnKqR_5CV4w?si=G1_0G6i_c1lu1F03" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
