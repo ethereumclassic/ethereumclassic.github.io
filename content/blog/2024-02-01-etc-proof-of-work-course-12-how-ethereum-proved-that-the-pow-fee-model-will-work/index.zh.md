@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 12. How Ethereum Proved that the POW Fee Model Will Work"
+title: "ETC工作证明课程：12. 以太坊如何证明工作量证明费用模型将奏效"
 date: 2024-01-31
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,108 +8,103 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XdORWyiTKhs?si=azLA-atOpaYUbt3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-In the previous class, 11, we talked about how Ethereum (ETH) and Ethereum Classic (ETC) could complement each other by taking advantage and combining proof of stake’s (POS’s) scalability with proof of work’s (POW’s) security.
+在上一堂课，第11堂，我们讨论了以太坊（ETH）和以太坊经典（ETC）如何通过充分利用并结合权益证明（POS）的可扩展性和工作证明（POW）的安全性来互补。
 
-POW blockchains pay miners for their important function in two ways; the first is by creating coins in every block that are deposited in miners’ accounts, and the second is that miners collect the fees all users pay to process their transactions.
+POW区块链通过两种方式向矿工支付报酬，第一种是在每个区块中创建的硬币，存放在矿工的账户中，第二种是矿工收取所有用户为处理其交易而支付的费用。
 
-In this class, 12, we will explain an interesting occurrence that happened in 2020 in the Ethereum blockchain, when it was a POW network, which is that it proved, even before Bitcoin (BTC), that the POW fee model will work!
+在这第12课中，我们将解释在2020年以太坊区块链（当时是POW网络）发生的一件有趣的事情，即它证明了在比特币（BTC）之前，工作证明费用模型将奏效的事实！
 
-## The Perceived Threat of Proof of Work Blockchains
+## 工作证明区块链的被视威胁
 
-This occurrence in Ethereum was very important because for a long time many in the crypto community had been questioning if, in the future, fees alone would be enough to pay for the important role miners fulfill as the decreasing block reward schedule of BTC would diminish as per its monetary policy.
+这一事件在以太坊中是非常重要的，因为很长一段时间以来，加密社区中的许多人一直在质疑，在未来，仅仅靠手续费是否足以支付矿工在比特币减少区块奖励时间表下履行的重要角色。
 
-The theory went, as Paul Sztorc wrote in 2019 in his widely read essay “[Security Budget in the Long Term](http://www.truthcoin.info/blog/security-budget/)”, that when Bitcoin blocks were to be filled, transaction fees would go up in price and, consequently, users would stop using Bitcoin and start sending their transactions through other blockchains with cheaper fees.
+理论是，正如Paul Sztorc在2019年在他广泛阅读的文章“[Security Budget in the Long Term](http://www.truthcoin.info/blog/security-budget/)”中写的那样，当比特币区块填满时，交易费用会上涨，因此用户将停止使用比特币，并开始通过其他手续费更低的区块链发送他们的交易。
 
-As this disintermediation happened the value of BTC would go down, and, with it, the hash rate of the network, therefore Bitcoin would become insecure and economically infeasible.
+随着这种去中介化的发生，BTC的价值将下降，以及网络的哈希率，因此比特币将变得不安全且经济不可行。
 
-## My Response to Paul Sztorc
+## 对Paul Sztorc的回应
 
-Shortly after Mr. Sztorc’s essay I published my response titled “[Why the Bitcoin Fee Model Will Work](https://etherplan.com/2019/05/17/why-the-bitcoin-fee-model-will-work/7587/)” where I gave the following reasons why POW blockchains would be viable in the long term through fees.
+在Sztorc先生的文章发表后不久，我发表了我的回应，题为“[为什么比特币手续费模型将奏效](https://etherplan.com/2019/05/17/why-the-bitcoin-fee-model-will-work/7587/)”，我在回应中列举了以下几点，说明POW区块链将通过手续费在长期内可行的原因。
 
-**1. There will be very few large POW blockchains in the future:** Because of network effects and an aversion to risk, the market will eventually select very few, perhaps only 3 or 4, very large blockchains to be the base layer of the whole industry. There will be no cheap alternatives for users to send their transactions, except for layer 2 systems that will work on Bitcoin, ETC, and other POW chains.
+**1. 将来将只有很少几个大型POW区块链：** 由于网络效应和对风险的回避，市场最终将选择非常少的，也许只有3或4个非常大的区块链，作为整个行业的基础层。对于用户发送交易，将没有便宜的替代方案，除了将在比特币、ETC和其他POW链上运行的第2层系统。
 
-**2. Security costs:** It is not the same to move value through BTC than through any other cheap chain. Security, permissionlessness, and censorship resistance cost money and people will pay for it. This is the whole point of POW blockchains!
+**2. 安全成本：** 通过BTC和其他便宜链移动价值是不同的。安全性、无需许可和抗审查性是需要花费金钱的，人们愿意为此付费。这是POW区块链的整个目的！
 
-**3. Exchange costs:** When moving value, if users were to sell the expensive POW blockchain coins with the high fees and then buy another coin, send the money through this other chain, and then sell the other coin to buy back the original POW blockchain coins, these frictional costs, which include the risks of doing all these steps, would cancel whatever savings people would have by not using the expensive blockchain.
+**3. 交易所成本：** 在移动价值时，如果用户要卖掉高手续费的POW区块链币，然后购买另一种币，通过这种其他链发送资金，然后卖掉另一种币以购买回原始的POW区块链币，这些摩擦成本，包括执行所有这些步骤的风险，将抵消人们通过不使用昂贵区块链而节省的任何储蓄。
 
-In the essay I explained more reasons in more detail. To read my whole rationale I recommend the reader to read the post I linked above.
+在文章中，我详细解释了更多原因。我建议读者阅读我上面链接的帖子以了解我整体的推理。
 
-## My Email to Vitalik Buterin in September of 2020
+## 我在2020年9月给Vitalik Buterin的电子邮件
 
-This is an email I sent to Vitalik Buterin on September 18th 2020: 
+这是我于2020年9月18日发送给Vitalik Buterin的电子邮件：
 
-*"Hi Vitalik,*
+*"嗨Vitalik，*
 
-*[The] latest ETH stats are impressive and, I think, a significant undeniable achievement:*
+*[最新的] ETH统计数据令人印象深刻，我认为这是一个重要且不可否认的成就：*
 
-*- 1.4m daily transactions*
+*- 每日交易1.4百万次*
+*– 交易费用17百万美元*
+*– 每笔交易平均费用12美元*
+*– 奖励总额5.14百万美元*
+*– ETH市值：430亿美元*
+*– ERC20代币市值：500亿美元*
+*– Ethereum内部的Wrapped Bitcoin：8亿美元*
+*– 哈希率：245 TH/s*
 
-*– $17m in transaction fees*
+*我认为过去五年以太坊的演进和发展，尽管你知道我对已经做出的许多政策和决定完全不同意，但证明了当前[POW]模型的高价值。"*
 
-*– Average fee per transaction $12*
+## 以太坊如何证明POW手续费将奏效
 
-*– $5.14m in rewards*
+我所指的是，当时以太坊的POW区块链由于其有限的空间和低交易数量，其区块大小限制生成的费用高于矿工的区块奖励，这是我预料到的，证明了手续费将在长期内为POW区块链提供资金安全的事实。
 
-*– Market cap of ETH: $43 billion*
+正如我在邮件中指出的，在前一天，支付给矿工的费用为1700万美元，而区块奖励为514万美元。这证明了手续费将为POW区块链的安全性提供资金的事实。
 
-*– Market cap of ERC20 tokens: $50 billion*
+以太坊证明的第二种方式是，尽管ETH在2020年至2021年期间的一段时间内
 
-*– Wrapped Bitcoin inside Ethereum: $800m*
+的手续费非常高，但很少有人迁移到ETC，例如，在同一时期，ETC的手续费非常低，只是为了通过便宜的链发送资金。
 
-*– Hash rate: 245 TH/s*
+## 媒体对以太坊矿工手续费的报道
 
-*I think the evolution and development of Ethereum in the last five years, although you know I completely disagree with many policies and decisions that have been made, are proof of the high value of the current [POW] model."*
+当时以太坊的手续费高于矿工区块奖励的事件足够重要，以至于当时的媒体对此进行了报道。例如，在The Block的以下文章中：
 
-## How Ethereum Proved that POW Fees Will Work
+“[以太坊历史上第一次，矿工的手续费超过了区块奖励](https://finance.yahoo.com/news/first-time-ethereum-history-miners-125143799.html)”。
 
-What I was referring to was that the block size limit in Ethereum at the time, as a POW blockchain, with its scarce space and low transaction count, was generating fees that were higher than the block rewards for miners. 
+这在当时是重大新闻，正是因为担心手续费在减少时永远无法支付矿工奖励。
 
-As I pointed out in the email, in the previous day, the fees paid to miners were $17 million and the block rewards were $5.14 million. This was proof, as I had anticipated, that fees would finance security in the long term for POW blockchains.
-
-The second way Ethereum proved that people would not move value through competing chains just to avoid higher fees was that ETH had very high fees for a long time between 2020 and 2021 and few migrated to ETC, for example, which had very low fees during the same time period, just to send money through a cheaper chain.
-
-## Ethereum Fees to Miners in the Press
-
-The event that fees were higher than miner block rewards in Ethereum was important enough that it was covered by the press at the time. For example in the following article on The Block:
-
-“[First time in Ethereum’s history, miners made more from fees than from block rewards](https://finance.yahoo.com/news/first-time-ethereum-history-miners-125143799.html)”.
-
-This was big news at the time precisely because of the fear that fees would never cover for miner rewards when those diminished. 
-
-## Bitcoin Has Been Increasing Fees to Miners
+## 比特币一直在增加向矿工的手续费
 
 ![](1.png)
 
-On May 8 2023 Decrypt published the article titled  “[Bitcoin Transaction Fees Surpass Block Rewards for the First Time Since 2017](https://decrypt.co/139345/bitcoin-transaction-fees-surpass-block-rewards)”. 
+2023年5月8日，Decrypt发表了一篇名为“[比特币交易费首次自2017年以来超过区块奖励](https://decrypt.co/139345/bitcoin-transaction-fees-surpass-block-rewards)”的文章。
 
-This was important because although Ethereum had proven the model, BTC had only briefly during the 2017 bubble paid miners more fees than block rewards.
+这是重要的，因为尽管以太坊证明了这种模型，但在2017年泡沫期间，比特币只是短暂地支付了矿工比块奖励更多的手续费。
 
-However, Bitcoin has been generating increasing fees per day during 2023 as seen in the charts in this section.
+然而，2023年比特币每天的手续费正在增加，如本节图表所示。
 
-The reason is not only that there is more demand for the coin, but there are some new dapps that are using block space to “imprint” NFTs. 
+原因不仅仅是对该币种的需求增加，而且还有一些新的DApp正在使用区块空间来“打印”NFT。
 
-However, with the enormous value Bitcoin’ security has, transaction fees are likely to continue to climb higher.
+然而，由于比特币的巨大价值，交易费可能会继续上升。
 
-As Ethereum proved, it is only a matter of time until the fees surpass block rewards persistently and turn into the main financing method of security. 
+正如以太坊证明的那样，只是时间问题，直到手续费持续超过区块奖励，并成为安全性的主要资金方式。
 
-## Nakamoto Consensus Is a Sound Consensus and Security System
+## 中本聪共识是一种可靠的共识和安全系统
 
-In summary, Nakamoto Consensus is a sound consensus and security system because of the following reasons: 
+总之，中本聪共识是一种可靠的共识和安全系统，原因如下：
 
-1. It provides consensus through the sheer work miners do to produce blocks
-2. It is truly decentralized because this consensus mechanism does not need for nodes to check with trusted third parties which is the correct block in each round
-3. It creates a barrier to reverse transactions because to change past blocks the work has to be done all over again  
-4. It provides sound money because the cost of creating the money is equal to the cost of creating the blocks
-5. It is economically feasible because fees have and will pay for future security
+1. 它通过矿工产生区块的努力提供共识
+2. 它是真正分散的，因为这种共识机制不需要节点与可信赖的第三方核对每一轮的正确区块
+3. 它对撤销交易创建了一个障碍，因为要更改过去的区块，必须重新完成所有工作
+4. 它提供了健全的货币，因为创造货币的成本等于创造区块的成本
+5. 它在经济上是可行的，因为手续费已经支付并将支付未来的安全性
 
 ---
 
-**Thank you for reading this article!**
+**感谢阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解有关ETC的更多信息，请访问：https://ethereumclassic.org
