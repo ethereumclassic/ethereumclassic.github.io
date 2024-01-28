@@ -1,5 +1,5 @@
 ---
-title: "What Will Be 'Continuous Cash Flows' on Ethereum Classic"
+title: ""以太坊经典上的‘持续现金流’将是什么""
 date: 2024-01-31
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,62 +8,62 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fnKqR_5CV4w?si=G1_0G6i_c1lu1F03" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
+区块链行业将彻底改变的一项事物是会计和财务领域。
 
-One of the things that the blockchain industry will revolutionize will be accounting and finance.
+由于智能合约可以存在于同一区块链系统中，许多个人、商业和政府活动将通过DApps进行中介，因此持续现金流的机会出现了。
 
-Due to the fact that smart contracts may be in the same blockchain system, and that many personal, commercial, and governmental activities will be mediated by dapps, the opportunity for continuous cash flows emerges.
+今天，现金流是一系列离散的顺序步骤，分成间隔。例如，当完成销售时，然后收到付款，然后进行记账，然后使用资金支付费用，最后进行周期结束时的剩余金额计算。
 
-Today, cash flows are a series of discrete sequential steps, divided in intervals. For example, when a sale is done, then a payment is received, then it is booked, then the money is used to pay for expenses, and then there is a general end-of-period calculation of how much was left over.
+所有这些步骤都存在风险和延迟，因为它们可能发生在不同的系统中，导致错误，而且其中一些条目可能比其他条目需要更长的时间。
 
-All these steps have risks and delays because they may occur in different systems, incur in mistakes, and some of the entries may take longer than others.
+很可能所有这些风险、延迟和格式都将在持续现金流中发生根本性变化。
 
-It is very likely that all these risks, delays, and formats will change radically with continuous cash flows.
-
-## What Are Continuous Cash Flows?
+## 什么是持续现金流？
 
 ![](./1.png)
 
-Continuous cash flows means that instead of having entries move in sequential steps, with risks and delays, and booked in set intervals, that they may become either faster or simultaneous, reducing entry risks, and they may become real time instead of having time restrictions and reporting schedules.
+持续现金流意味着，与其使条目在顺序步骤中移动，存在风险和延迟，并在固定间隔内记账，不如使其变得更快或同时进行，减少了条目风险，并且它们可能是实时的，而不是有时间限制和报告时间表。
 
-For example, a sale, booking, payment of expenses, and calculation of surplus could be done either faster and continuously on a sale by sale basis, or simultaneously as the transactions occur.
+例如，销售、记账、支付费用和剩余金额的计算可以在销售基础上更快地连续进行，或者在交易发生时同时进行。
 
-Continuous cash flows means that instead of having two parallel processes, cash management and accounting, we will have them merged in a  continuous stream of entries that will move the cash, produce the reporting information, and then execute the transactions that result from that reporting. 
+持续现金流意味着，与其有两个并行进程，即现金管理和会计，我们将它们合并为一系列持续的条目流，这将推动资金，生成报告信息，然后执行由该报告产生的交易。
 
-Cash flows will become constant and real time from end to end.
+现金流将从始至终保持恒定和实时。
 
-## How ETC Composability Enables Continuous Cash Flows
+## ETC的可组合性如何实现持续现金流
 
-Ethereum Classic is composable, which is a very important quality.
+以太坊经典具有可组合性，这是一个非常重要的特性。
 
-Composability means that complex multi-dapp, multi-provider transactions may be performed in single executions. This is possible because in ETC all accounts, balances, and decentralized software programs are inside the same integrated system, therefore all components and entries of multi-dapp transactions may be received, verified, and executed at once.
+可组合性意味着可以在单个执行中执行复杂的多DApp、多提供者交易。这是因为在ETC中，所有账户、余额和去中心化软件程序都在同一个集成系统中，因此可以同时接收、验证和执行多DApp交易的所有组件和条目。
 
-If personal, commercial, and governmental activities will be mediated by these dapps in the same integrated blockchain, then composability enables faster or simultaneous book entries from end-user to end-provider, constantly, reducing risk, and eliminating the need for separate informational schedules with preset intervals and delayed reporting.
+如果个人、商业和政府活动将通过同一集成的区块链进行中介，那么可组合性将使从终端用户到终端提供者的记账条目更快或同时发生，不断减少风险，消除了需要具有预设间隔和延迟报告的独立信息时间表。
 
-## Examples of Continuous Cash Flows
+## 持续现金流的示例
 
-**Self employed persons:** Self employed individuals usually receive income from their clients, organize this information, and then pay taxes, expenses, and providers in separate transactions and moments. With continuous cash flows, they will receive payments from sales, and bills and taxes will be calculated, prorated, and paid immediately.
+**个体经营者：** 个体经营者通常从客户那里收到收入，组织这些信息，然后在不同的交易和时刻支付税款、费用和供应商。通过持续现金流，他们将从销售中收到付款，账单和税款将被立即计算、按比例分配和支付。
 
-**Small businesses:** Similarly, small businesses, will receive payments for their sales, and then their expenses, providers, and even employees will be paid on a continuous basis in real time.
+**小企业：** 类似地，小企业将收到销售款项，然后他们的费用、供应商甚至员工将在实时连续的基础上支付。
 
-**Large corporations:** Large corporations will not only use continuous cash flows to receive payments and pay all constituents continuously, but will also significantly shorten their typically quarterly reporting schedules, or even make them continuous as their complete results will be live and transparent on the blockchain.
+**大公司：** 大公司将不仅利用持续现金流不断地接收支付和持续地支付所有相关方，而且还将大幅缩短其通常的季度报告时间表，甚至使其成为连续的，因为它们的完整结果将在区块链上实时透明。
 
-**Non-profits:** Non-profit organizations will receive payments from donors and simultaneously execute their budget, sending payments or grants to their beneficiaries in real time. All this will be done while enhancing transparency so that board members and donors will see the reported activity continuously, more or less like checking a block explorer.
+**非营利组织：** 非营利组织将从捐赠者那里收到款项，并同时执行其预算，实时向受益者发送支付或资助。所有这些都将在提高透明度的同时进行，以便董事会成员和捐赠者可以持续地查看报告的活动，有点类似于查看区块浏览器。
 
-**Governments:** Transparency will be the name of the game for governments. Not only will governments receive tax revenues and pay government employees, agencies, and programmes continuously, but the budget and cash flows will be visible by the public. Corruption will likely be significantly reduced under these circumstances. 
+**政府：** 透明度将成为政府的关键。政府不仅将持续地收到税收和支付政府员工、机构和项目，而且预算和现金流将对公众可见。在这种情况下，腐败可能会显著减少。
 
-**Endowments:** Endowment funds will receive donations and simultaneously allocate them to planned investments, which will be visible by constituents, and, similar to non-profits, budgeted payments to beneficiaries will be continuous and transparent.
+**捐赠基金：** 捐赠基金将收到捐赠款项，并同时将它们分配给计划的投资，这将由相关方可见，类似于非营利组织，对受益者的预算支付将是持续的和透明的。
 
-**Securities:** As securities are promises of future cash flows, these will be structured and represented by smart contracts more or less like spreadsheets but live on the blockchain. As the scheduled payments occur, the dividends or interest will be paid to securities holders simultaneously.
+**证券：** 由于证券是未来现金流的承诺，这些将由智能合约结构化并表示，更或多或少地像区块链上的实时电子表格。随着计划的支付发生，股息或利息将同时支付给证券持有人。
 
-**Capital markets:** With composability, all the settlement delays and risks associated with trades will be practically eliminated. For example, when a complex multi-party trade occurs that includes a margin loan, the purchase of an assets, and the sale of another, all the components of the trade will be executed simultaneously, and the final settlement to all parties of the tarde will be finalized in 13 seconds!
+**资本市场：** 通过可组合性，与交易相关的所有结算延迟和风险几乎将被消除。例如，当发生包括保证金贷款、资产购买和另一方销售的复杂多方交易时，交易的所有组件将同时执行，交易的最终结算将在13秒内最终确定！
 
 ---
 
-**Thank you for reading this article!**
+**感谢阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解有关ETC的更多信息，请访问：https://ethereumclassic.org
