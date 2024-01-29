@@ -4,7 +4,7 @@ date: 2024-02-06
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["philosophy"]
-linkImage: ./banner.png
+linkImage: ./banner-2.png
 ---
 
 ---
@@ -13,6 +13,8 @@ linkImage: ./banner.png
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d58UxyXsLVw?si=JsH4XGWTA86QglHm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
+
+![](./banner-2.png)
 
 ## The Story of Ethereum and Ethereum Classic
 
