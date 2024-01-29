@@ -1,5 +1,5 @@
-- date: 2023-11-22
-  title: MonoNFT
+- title: MonoNFT
+  date: 2023-11-22
   description: A non-fungible token Marketplace.
   image: ./images/231122-1340-mononft.png
   type: nfts
@@ -19,8 +19,8 @@
     - name: Documentation
       link: https://docs.mononft.net
       icon: book
-- date: 2023-10-26
-  title: HebeSwap Oracle
+- title: HebeSwap Oracle
+  date: 2023-10-26
   description: HebeSwap Oracle is a middleware that integrates off-chain data into the Ethereum Classic (ETC) blockchain, enhancing smart contract capabilities. It provides a bridge between external data sources and smart contracts, enabling real-time data utilization.
   image: ./images/231026-1611-hebeswap-oracle.png
   type: finance
@@ -46,25 +46,8 @@
     - name: medium
       link: https://medium.com/@hebeblock
       icon: medium
-- date: 2023-10-06
-  title: ETCMW MostWanted
-  description: "ETC Most Wanted project provides opportunities to earn, build, play and socialize for all Ethereum Classic believers. ETCMW NFT is your key to all project infrastructure, it represents onchain as an enhanced ERC721 tokens with new existing features. Each ETCMW is completely unique, with a set of distinguishing traits and has one of the following roles: Common, Investor, Miner or Dev."
-  image: ./images/231006-0643-etcmw-mostwanted.png
-  type: nfts
-  author: Etcher
-  authorLink: https://etcherium.org
-  verifiedContract: https://etc.blockscout.com/token/0xb1D14553b9a826c020158008E0653B56F7EFa652
-  openSource: https://github.com/ksandr84on/etcmw_sc
-  links:
-    - name: Launch App
-      link: https://etcmw.org
-    - name: thirdweb
-      link: https://thirdweb.com/ethereum-classic/0xb1D14553b9a826c020158008E0653B56F7EFa652
-      icon: link
-    - name: Sourcify.eth
-      link: https://sourcify.dev/#/lookup/0xb1D14553b9a826c020158008E0653B56F7EFa652
-- date: 2023-09-20
-  title: Nabox
+- title: Nabox
+  date: 2023-09-20
   description: Nabox is a cross-chain DID application built for Web3.With Nabox, you can manage assets across different blockchains whether for DeFi, GameFi, NFT, and other use cases that come up. Nabox is your gateway to the multi-chain world.
   image: ./images/nabox.png
   type: interoperability
@@ -85,8 +68,8 @@
     - name: Discord
       link: http://discord.gg/mQVXZJXMkn
       icon: discord
-- date: 2023-09-20
-  title: SwapBox
+- title: SwapBox
+  date: 2023-09-20
   description: SwapBox aggregates mainstream DEXs to provide users with asset exchange and asset cross-chain exchange, and intelligently find the best exchange path.
   image: ./images/swapbox.png
   type: finance
@@ -107,8 +90,8 @@
     - name: Discord
       link: http://discord.gg/mQVXZJXMkn
       icon: discord
-- date: 2023-09-06
-  title: NerveNetwork
+- title: NerveNetwork
+  date: 2023-09-06
   description: NerveNetwork is a decentralized digital asset service network.NerveNetwork aims to connect all isolated blockchains and establish a cross-chain asset exchange network, providing all necessary underlying support for DeFi ecosystem.Let every digital asset holder experiences a truly secure, free and transparent DeFi application service.
   image: ./images/nervenetwork.jpeg
   type: interoperability
@@ -129,26 +112,8 @@
     - name: Discord
       link: https://discord.gg/PBkHeD7
       icon: discord
-- date: 2023-09-03
-  title: ETCNFT Marketplace
-  description: Explore all your best NFT collections with the new Traits Rank, which is based on trait occurrences and rarity rank. ETCNFT is a new generation NFT marketplace that provides order book trading for NFTs in ERC-721 and ERC-1155 formats without fees. ETCNFT is powered by Ethereum Classic.
-  image: ./images/230903-1150-etcnft-marketplace.jpeg
-  type: nfts
-  author: Etcher
-  authorLink: https://www.etcherium.org/
-  verifiedContract: https://thirdweb.com/ethereum-classic/0x5Fd01b0b5c31AdDed91B4E32d153cB935DdA33b0
-  audit: https://thirdweb.com/ethereum-classic/0x5Fd01b0b5c31AdDed91B4E32d153cB935DdA33b0
-  links:
-    - name: Launch App
-      link: https://etcnft.org/
-    - name: Twitter
-      link: https://twitter.com/etcherium
-      icon: twitter
-    - name: Telegram
-      link: https://t.me/etcherium
-      icon: telegram
-- date: 2023-07-28
-  title: ETCFROGB
+- title: ETCFROGB
+  date: 2023-07-28
   description: ETCFROGB is a cryptomining NFT. Mint your 🐸 NFTs and secure the ETC blockchain while receiving monthly dividends!
   image: ./images/etcfrogb.jpg
   type: nfts
@@ -164,8 +129,8 @@
     - name: ETCFROGB Telegram
       link: https://t.me/ETCFrogB
       icon: link
-- date: 2023-07-05
-  title: ETCMC DAO MEMBERSHIP
+- title: ETCMC DAO MEMBERSHIP
+  date: 2023-07-05
   description: The ETCMC DAO membership mint site. Mint your membership NFTs and help to build the ETC network.
   image: ./images/230705-2003-etcmc-dao-membership.png
   type: nfts
@@ -181,85 +146,6 @@
     - name: ETCMC Telegram
       link: https://t.me/+tZVSbPGAaWM1YTFk
       icon: link
-- date: 2023-07-01
-  title: ETCZuki Community Marketplace
-  description: Marketplace launched by community for community ETZuki NFT Project. No fees. Audited. Transparent.
-  image: ./images/230701-1355-etczuki-community-marketplace.png
-  type: nfts
-  author: Etcher
-  authorLink: https://twitter.com/etcherium
-  verifiedContract: https://thirdweb.com/ethereum-classic/0x5Fd01b0b5c31AdDed91B4E32d153cB935DdA33b0
-  audit: https://thirdweb.com/ethereum-classic/0x5Fd01b0b5c31AdDed91B4E32d153cB935DdA33b0
-  openSource: https://thirdweb.com/ethereum-classic/0x5Fd01b0b5c31AdDed91B4E32d153cB935DdA33b0/sources
-  links:
-    - name: Launch App
-      link: https://etczuki.etcherium.org/
-    - name: Marketplace Support
-      link: https://twitter.com/etcherium
-      icon: twitter
-    - name: ETCZuki project
-      link: https://etczuki.com
-      icon: link
-    - name: Telegram comminity
-      link: https://t.me/etcgarden
-- date: 2023-07-01
-  title: ETCZuki
-  description: ETCZuki is an NFT project on the Ethereum Classic blockchain that offers anime-inspired, high-quality artwork. All ETCZUKI NFT’s are unique. But ETCZuki is more than just art - it's a garden where minters can connect and share their passion for NFT’s and Ethereum Classic culture.
-  image: ./images/230701-0105-etczuki.jpeg
-  type: nfts
-  author: ETCZuki
-  authorLink: https://etczuki.com/index.html#team
-  verifiedContract: https://blockscout.com/etc/mainnet/address/0x44b6ad1DcceC2A512088997766cC39D0cf3f5D12/contracts#address-tabs
-  links:
-    - name: Launch App
-      link: https://etczuki.com/
-    - name: Discord
-      link: https://discord.gg/zREvKfjNxs
-      icon: discord
-    - name: Twitter
-      link: https://twitter.com/etczuki
-      icon: twitter
-    - name: Telegram
-      link: https://t.me/etczukinft
-      icon: telegram
-- date: 2023-06-28
-  title: Etcbillboard
-  description: Billboard advertising, Promoting goods and services for several advertisers with pixels in the Ethereum Classic blockchain ✨
-  image: ./images/230628-1956-etcbillboard.jpeg
-  type: nfts
-  author: Etcbillboard
-  authorLink: https://t.me/etcbillboard
-  links:
-    - name: Launch App
-      link: https://etcbillboard.com/
-    - icon: twitter
-      name: Twitter
-      link: https://twitter.com/etcbillboard
-    - icon: telegram
-      name: Telegram
-      link: https://t.me/etcbillboard
-    - icon: twitter
-      name: Twitter Etcbanner
-      link: https://twitter.com/etcbanner
-- date: 2023-06-18
-  title: ETC Prime Apes
-  description: A Premium HD Art Collection of 11.1k Unique & Epic Prime Apes!
-  image: ./images/230618-0203-etc-prime-apes.jpeg
-  type: nfts
-  verifiedContract: https://blockscout.com/etc/mainnet/address/0x9cE28c9deBAff2F9a2386252C04678ade5F0dce6/contracts#address-tabs
-  author: Prime Apes Society
-  authorLink: https://etcprime.webflow.io/
-  links:
-    - name: Launch App
-      link: https://etcprimeapesociety.netlify.app/
-    - name: LinkTree
-      link: https://linktr.ee/etcprimeapesociety
-      icon: link
-    - name: Telegram
-      link: https://t.me/ETCPrimeApes
-      icon: telegram
-    - name: ETC Planets
-      link: https://www.etcplanets.com/collection/ETCPRIME
 - title: in Argentum Veritas
   date: 2023-06-07
   image: ./images/iav.jpg
@@ -288,25 +174,6 @@
     - name: Discord
       link: https://discord.gg/Mh6Mz35G48
       icon: discord
-- title: Wrapped ETC
-  date: 2023-03-27
-  image: ./images/wrappedetc.png
-  author: HebeBlock
-  authorLink: https://hebeblock.com
-  verifiedContract: https://blockscout.com/etc/mainnet/address/0x82A618305706B14e7bcf2592D4B9324A366b6dAd/contracts
-  openSource: https://blockscout.com/etc/mainnet/address/0x82A618305706B14e7bcf2592D4B9324A366b6dAd/contracts
-  description: WETC is the wrapped version of ETC. Wrapped tokens, like WETC or Wrapped Bitcoin, are tokenized versions of cryptocurrencies that are pegged to the value of the original coin and can be unwrapped at any point.
-  type: interoperability
-  links:
-    - name: Wrapped ETC
-      link: https://blockscout.com/etc/mainnet/address/0x82A618305706B14e7bcf2592D4B9324A366b6dAd/read-contract
-      icon: link
-    - name: Website
-      link: https://hebeswap.com/wetc.html
-      icon: link
-    - name: Twitter
-      link: https://twitter.com/EtcHebeBlock
-      icon: twitter
 - title: TurbineSwap
   date: 2023-03-03
   image: https://i.ibb.co/923cbCs/Untitled-design-4.png
@@ -363,29 +230,6 @@
     - name: Github
       link: https://github.com/realGhostChain/
       icon: github
-- title: Shiba Classic
-  date: 2022-10-25
-  type: other
-  image: ./images/shibc.jpeg
-  verifiedContract: https://blockscout.com/etc/mainnet/address/0x1FDc495289B590e78d455cf7faa6cd804de5Cbc1/contracts#address-tabs
-  audit: https://twitter.com/SoteriaSC/status/1561793005530611713
-  description: The first meme coin on the Ethereum Classic chain.
-  links:
-    - name: Homepage
-      icon: home
-      link: https://www.shibaclassic.sc/
-    - name: GitHub
-      icon: github
-      link: https://github.com/Shiba-Classic-ETC
-    - name: Twitter
-      icon: twitter
-      link: https://twitter.com/shibctokenetc
-    - name: Telegram
-      icon: telegram
-      link: https://t.me/ShibCtokenERC
-    - name: Linktree
-      icon: link
-      link: https://linktr.ee/shibctoken
 - title: ETCPlanets
   date: 2022-10-14
   type: nfts
@@ -401,75 +245,6 @@
     - name: Telegram
       link: https://t.me/etcplanets
       icon: telegram
-- title: SHP
-  date: 2022-10-03
-  type: finance
-  image: ./images/SHP.png
-  author: shpstan
-  authorLink: https://staking.ltd/
-  audit: https://docs.staking.ltd/types-of-staking/audits
-  description: Hosting platform for savings and web wallets
-  links:
-    - name: Launch Dapp
-      link: https://staking.ltd/stakes/shp
-    - name: Website
-      link: https://staking.ltd
-      icon: home
-    - name: Documentation
-      link: https://docs.staking.ltd
-      icon: book
-    - name: Github
-      link: https://github.com/stakingled?tab=repositories
-      icon: github
-    - name: Twitter
-      link: https://twitter.com/stakingltd
-      icon: twitter
-    - name: Telegram
-      link: https://t.me/stakingltd
-      icon: telegram
-    - name: Medium
-      link: https://stakingltd.medium.com/
-      icon: medium
-- title: Billionaire Boys Classic
-  date: 2022-09-27
-  type: nfts
-  image: ./images/BBC LOGO.png
-  verifiedContract: https://blockscout.com/etc/mainnet/address/0xe36f8C511c7894C3B3173CD4d0D925790445348E
-  description: BILLIONARE BOYS CLASSIC are 999 FANCY DUDES LIVING ON THE ETHEREUM CLASSIC BLOCKCHAIN. They are cool they are diverse. SO WHO ARE YOU - APE DEVIL ALIEN or you are HUMAN being?
-  links:
-    - name: Website Minting NFTs
-      link: https://bbclassic.xyz/
-    - name: Twitter
-      link: https://twitter.com/bbclassic_nfts
-      icon: twitter
-    - name: Telegram
-      link: https://t.me/BillionaireBoysClassic
-      icon: telegram
-- title: MVRSWood - Become Metaverse Degen Royalty
-  date: 2022-09-21
-  type: nfts
-  image: ./images/mvrswood.jpg
-  author: MetRLabs Pte Ltd, Singapore
-  authorLink: https://metrlabs.com/
-  verifiedContract: https://blockscout.com/etc/mainnet/address/0xf577A14A90E837Da2B60042D616Ac95278e05eCD/contracts
-  openSource: https://blockscout.com/etc/mainnet/address/0xf577A14A90E837Da2B60042D616Ac95278e05eCD/contracts
-  teamSite: https://mvrswood.com/#team
-  description: MVRSWood is a fully built out Metaverse where you can own a property and play the game today
-  links:
-    - name: Launch App
-      link: https://mvrswood.com/index.php/download/
-    - name: Website
-      link: https://mvrswood.com
-      icon: home
-    - name: Documentation
-      link: https://medium.com/@greb_rekcuz/mvrswood-metaverse-1st-nft-2nd-e8c450b8b27f
-      icon: book
-    - name: Twitter
-      link: https://twitter.com/mvrswood
-      icon: twitter
-    - name: Medium
-      link: https://medium.com/@greb_rekcuz
-      icon: medium
 - title: ClassicHeroes
   date: 2022-09-22
   type: nfts
@@ -486,26 +261,6 @@
     - name: Discord
       link: https://discord.gg/kV37UnTcyA
       icon: discord
-- title: Matrixport
-  date: 2022-09-19
-  image: ./images/matrixport.png
-  author: Matrixport
-  authorLink: https://www.matrixport.com
-  description: Matrixport is one of the world's largest and most trusted digital assets financial services ecosystem.
-  type: other
-  links:
-    - name: Website
-      link: https://www.matrixport.com
-      icon: home
-    - name: Twitter
-      link: https://twitter.com/realMatrixport
-      icon: twitter
-    - name: Telegram
-      link: https://t.me/matrixport
-      icon: telegram
-    - name: Medium
-      link: https://matrixport.medium.com
-      icon: medium
 - title: SoyFinance
   date: 2022-09-12
   image: ./images/soyfinance.png
@@ -532,55 +287,23 @@
     - name: Telegram
       link: https://t.me/Soy_Finance
       icon: telegram
-- title: Fusion
-  date: 2022-09-01
-  image: ./images/fusion.png
-  author: Nova Network
-  authorLink: https://novanetwork.io/
-  verifiedContract: https://blockscout.com/etc/mainnet/address/0xab1E9D7551c1B161cedf96AeaC66b95bc5cCd7d4/contracts
-  openSource: https://github.com/nova-network-inc
-  testSuite: https://github.com/nova-network-inc
-  description: Fusion is the most advanced DeFi protocol in the crypto space. It hosts an array of yield generating protocols, has compatibility with next generation fNFTs, AMM, multi transfer, and other exclusive tools. All these comes with multichain interoperability for easy integration.
-  type: finance
+- title: MonkeyDoo
+  date: 2022-08-26
+  type: nfts
+  image: ./images/monkeydoo.jpg
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0xE86ae8f38372d26F8ffAC37deba733a77f101Ac7/transactions
+  description: MonkeyDoos are a collection of 3,000 NFTs (non-fungible tokens) that are made of a large number of high quality visual traits. Each MonkeyDoo is unique in its own way, but not equally rare. The MonkeyDoo collection includes dozens of rare layers that make some NFTs more valuable than the others.
   links:
-    - name: Launch App
-      link: https://fusion.novanetwork.io/
-      icon: home
-    - name: Github
-      link: https://github.com/nova-network-inc
-      icon: github
+    - name: MonkeyDoo
+      link: https://monkeydoonft.com/
     - name: Twitter
-      link: https://twitter.com/novafinofficial
+      link: https://twitter.com/MonkeyDoo_NFT?t=YtUCLKwoeuqsy5GUxIxxtQ&s=09
       icon: twitter
     - name: Discord
-      link: https://discord.gg/GfWCGB3
+      link: https://discord.com/invite/UhZFZHYwNx
       icon: discord
     - name: Telegram
-      link: https://t.me/thenovanetwork
-      icon: telegram
-- title: Nova USD Stablecoin
-  date: 2022-09-01
-  image: ./images/nusd.png
-  author: Nova Network
-  authorLink: https://novanetwork.io/
-  verifiedContract: https://blockscout.com/etc/mainnet/address/0xab1E9D7551c1B161cedf96AeaC66b95bc5cCd7d4
-  description: Nova USD is a fully-backed decentralized stablecoin that can be minted and redeemed on-chain. The contract is not ownable and the reserves can be audited 24/7 via its smart-contract. You can mint and redeem NUSD using Fusion.
-  type: finance
-  links:
-    - name: Launch App
-      link: https://fusion.novanetwork.io/
-      icon: home
-    - name: Github
-      link: https://github.com/nova-network-inc
-      icon: github
-    - name: Twitter
-      link: https://twitter.com/novafinofficial
-      icon: twitter
-    - name: Discord
-      link: https://discord.gg/GfWCGB3
-      icon: discord
-    - name: Telegram
-      link: https://t.me/thenovanetwork
+      link: https://t.me/MonkeyDoo_NFT
       icon: telegram
 - title: ClassicDAO
   date: 2022-08-12
@@ -630,38 +353,6 @@
     - name: Twitter
       link: https://twitter.com/EthClassicDAO
       icon: twitter
-- title: Multichain
-  date: 2022-05-23
-  image: ./images/multichain.png
-  author: Multichain
-  authorLink: https://multichain.org
-  verifiedContract: https://blockscout.com/etc/mainnet/address/0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818/contracts
-  openSource: https://blockscout.com/etc/mainnet/address/0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818/contracts
-  audit: https://github.com/anyswap/Anyswap-Audit
-  description: Multichain is the ultimate Router for web3. It is an infrastructure developed for arbitrary cross-chain interactions.
-  type: interoperability
-  links:
-    - name: Launch Router
-      link: https://app.multichain.org/#/router
-      icon: link
-    - name: Website
-      link: https://multichain.org
-      icon: home
-    - name: Documentation
-      link: https://docs.multichain.org
-      icon: book
-    - name: Github
-      link: https://github.com/anyswap
-      icon: github
-    - name: Twitter
-      link: https://twitter.com/MultichainOrg
-      icon: twitter
-    - name: Telegram
-      link: https://t.me/anyswap
-      icon: telegram
-    - name: Medium
-      link: https://medium.com/multichainorg
-      icon: medium
 - title: CoinRabbit
   date: 2022-05-19
   type: finance
@@ -693,15 +384,15 @@
     - name: Discord
       link: https://discord.gg/d56axYmRTa
       icon: discord
-- title: Canonical Wrapped Ether
+- title: The Canonical WETC Initiative
   date: 2022-05-06
   image: ./images/wetc.png
-  author: Ethereum Classic DAO
-  authorLink: https://ethereumclassic.com
+  author: Dapphub
+  authorLink: https://wrappedether.org
   verifiedContract: https://blockscout.com/etc/mainnet/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/contracts
   openSource: https://blockscout.com/etc/mainnet/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/contracts
   audit: https://github.com/gnosis/canonical-weth
-  description: Canonical Wrapped Ether (WETC) is a tokenized version of Ether (ETC), the native asset of the Ethereum Classic network. The Canonical Wrapped Ether (WETC) initiative standardizes the WETC asset through the DeFi stack on Ethereum Classic. The DeFi protocol stack on EthereumClassic.com supports this WETC contract. Please join in the effort to standardize WETC.
+  description: Canonical Wrapped Ether (WETC) is a tokenized version of Ether (ETC), the native asset of the Ethereum Classic network. The Canonical Wrapped Ether (WETC) Initiative deployed a WETC contract that follows modern best practices in Solidity since version 0.5+. This smart contract is a public good that standardizes the WETC asset throughout the DeFi stack on Ethereum Classic. If you're developing on Ethereum Classic and neet to wrap ETC into an ERC20 asset, please implement this public good contract to improve the UX for ETC network users.
   type: interoperability
   links:
     - name: Canonical Wrapped Ether
@@ -734,40 +425,6 @@
     - name: Telegram
       link: https://t.me/classicrewards
       icon: telegram
-- title: Nft List
-  date: 2022-03-07
-  type: nfts
-  author: HebeBlock
-  authorLink: https://hebeblock.com/
-  openSource: https://github.com/HebePlatform/NFTLIST-ETC
-  links:
-    - name: Launch App
-      link: https://nftlist.hebeswap.com/
-    - name: Twitter
-      link: https://twitter.com/EtcHebeBlock
-      icon: twitter
-    - name: Telegram
-      link: https://t.me/hebeOffice
-      icon: telegram
-    - name: Discord
-      link: https://discord.gg/HFBUJ3AKFT
-      icon: discord
-    - name: Medium
-      link: https://medium.com/@hebeblock
-      icon: medium
-  description: On Nft List, users can view the NFT collection held under the current address
-- title: Lazy Lions
-  date: 2022-02-25
-  type: nfts
-  image: ./images/lazylions.jpg
-  description: Lazy Lions, is an exclusive 5,000 only mint-able premium NFT. No two pieces of these 5,000 digital assets are alike. Each being unique and pristine, there is an order of rarity that makes certain ones more valuable than the others. each Lazy Lion is inspired by its Ethereum counterpart.
-  verifiedContract: https://blockscout.com/etc/mainnet/address/0x8F1BEA297e1ab79ae1db163B611Bd93A37d28E21/transactions
-  links:
-    - name: Launch App
-      link: https://ETCLazylions.com
-    - name: Twitter
-      link: https://twitter.com/LazylionsEtc
-      icon: twitter
 - title: ETC Bit Pixel
   date: 2022-02-23
   type: nfts
@@ -882,40 +539,6 @@
     - name: Twitter
       link: https://twitter.com/etczunks
       icon: twitter
-- title: ETC HODL Contract
-  date: 2022-01-07
-  type: finance
-  ipfsFrontend: https://ipfs.io/ipfs/QmVWD1sHPrKMmKcWoSPHGTfDpgaa8N4y6arftpFCnpJWcg
-  description: A simple HODL protocol for Ethereum Classic. Lock up your ETC and earn rewards when others unlock their ETC before you do.
-  links:
-    - name: Launch App
-      link: https://ipfs.io/ipfs/QmVWD1sHPrKMmKcWoSPHGTfDpgaa8N4y6arftpFCnpJWcg
-- title: NFTCREED
-  date: 2022-01-04
-  type: nfts
-  image: ./images/nftcreed.png
-  description: Create, Buy, Sell and Gamify NFTs
-  links:
-    - name: Launch App
-      link: https://nftcreed.io/
-    - name: Twitter
-      link: https://nitter.42l.fr/nftcreed_
-      icon: twitter
-- title: ETCBayc
-  date: 2022-01-01
-  type: nfts
-  image: ./images/etcbayc.jpg
-  verifiedContract: https://blockscout.com/etc/mainnet/address/0x59E34EF31049565D041Aec6137F40f518c2D47c1/contracts
-  description: Ethereum Classic Bored Ape Yacht Club (ETCBayc), is an exclusive 10,000 only mint-able premium NFT living on the Ethereum Classic (ETC) blockchain. No two pieces of these digital Bored Apes are alike. Each being unique and pristine, there is an order of rarity that makes certain ones more valuable than the others. These Bored Apes are amongst the first high-quality art projects in the blockchain ecosystems and in ETC. Be part of the club!
-  links:
-    - name: Launch App
-      link: https://etcbayc.com/
-    - name: Twitter
-      link: https://twitter.com/etcbayc
-      icon: twitter
-    - name: Medium
-      link: https://medium.com/@etcbayc
-      icon: medium
 - title: HebeSwap
   date: 2022-01-01
   image: ./images/hebeswap.png
@@ -945,37 +568,25 @@
     - name: Medium
       link: https://medium.com/@hebeblock
       icon: medium
-- title: ETCBits
-  date: 2021-12-26
-  image: ./images/etcbits.jpg
-  type: nfts
-  verifiedContract: https://blockscout.com/etc/mainnet/address/0x4938B060481D7aeD59fcD21abd51f29B48994EC8/contracts
-  description: ETCbits — 1st 3D collection and only 2nd NFT collection on Ethereum Classic
+- title: Wrapped ETC
+  date: 2021-12-28
+  image: ./images/wrappedetc.png
+  author: HebeBlock
+  authorLink: https://hebeblock.com
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x82A618305706B14e7bcf2592D4B9324A366b6dAd/contracts
+  openSource: https://blockscout.com/etc/mainnet/address/0x82A618305706B14e7bcf2592D4B9324A366b6dAd/contracts
+  description: WETC is the wrapped version of ETC. Wrapped tokens, like WETC or Wrapped Bitcoin, are tokenized versions of cryptocurrencies that are pegged to the value of the original coin and can be unwrapped at any point.
+  type: interoperability
   links:
-    - name: Launch App
-      link: https://etcbits.com
-    - name: Announcement
-      link: https://medium.com/@persn.assist/etcbits-1st-3d-collection-and-only-2nd-nft-collection-on-ethereum-classic-547e787f5633
-      icon: medium
+    - name: Wrapped ETC
+      link: https://blockscout.com/etc/mainnet/address/0x82A618305706B14e7bcf2592D4B9324A366b6dAd/read-contract
+      icon: link
+    - name: Website
+      link: https://hebeswap.com/wetc.html
+      icon: link
     - name: Twitter
-      link: https://twitter.com/etcbitsnft
+      link: https://twitter.com/EtcHebeBlock
       icon: twitter
-- title: Classic Savages
-  author: SavageProfits
-  authorLink: https://www.youtube.com/SavageProfits
-  image: ./images/classicsavages.jpg
-  date: 2021-12-25
-  type: nfts
-  description: The first original NFT project built on ETC by founder Savageprofits
-  links:
-    - name: Launch App
-      link: https://classicsavages.com/
-    - name: Twitter
-      link: https://twitter.com/classicsavages
-      icon: twitter
-    - name: Medium
-      link: https://medium.com/@ethereumclassicsavages
-      icon: medium
 - title: ETCPunks
   date: 2021-09-21
   type: nfts
@@ -987,17 +598,13 @@
     - name: Twitter
       link: https://twitter.com/etcpunks
       icon: twitter
-- title: Aqua Bank
-  date: 2020-02-11
-  type: games
-  description: In this game you take care about whale. Fish lives in a protected area with other endangered species. Player is supposed to feed the whale using plankton in order to let it grow. Whale also produces oil as it consumes plankton. Oil and whale meat slices are requested at the Port, where they also supply plankton for feeding. Relax by watching fish in the aquarium grow
-- title: Commonwealth Tribes
-  date: 2020-05-01
-  type: games
-  description: The purpose of Tribes is to reduce risk in investing in Commonwealth. Invest as a tribe!
+- title: Cryptwerk
+  date: 2020-05-07
+  type: other
+  description: Pay with Ethereum Classic. Companies and stores accepting ETC. Spend your crypto.
   links:
     - name: Homepage
-      link: https://commonwealth.gg/tribes.html
+      link: https://cryptwerk.com/pay-with/etc/
 - title: OriginalMy
   date: 2020-02-11
   type: identity
@@ -1012,44 +619,6 @@
   links:
     - name: Homepage
       link: https://stampery.com/
-- title: ETC-to-wETC
-  date: 2020-02-11
-  type: interoperability
-  author: PoA Network
-  authorLink: https://poa.network
-  openSource: https://github.com/poanetwork/token-bridge
-  description: The Ethereum Classic Bridge connects ETC-to-ETH, where ETC is available as wETC on the Ethereum (ETH) chain.
-  links:
-    - name: Launch App
-      link: https://wetc.app/
-- title: EVM-to-BNC Bridge
-  date: 2020-02-11
-  type: interoperability
-  description: The EVM-to-BNC bridge combines the TokenBridge approach with a TSS to approve relay operations and facilitate asset transfer between an EVM chain and the Binance chain.
-  links:
-    - name: Homepage
-      link: https://docs.tokenbridge.net/eth-bnc-bridge/about-eth-bnc-bridge
-- title: Token Bridge
-  date: 2020-02-11
-  type: interoperability
-  description: The TokenBridge allows users to transfer data (e.g. digital asset ownership information) between two chains in the Ethereum ecosystem. Cross-chain bridges provide fast and secure connections between blockchains, creating scalability and connection - interoperability - between Ethereum EVM networks.
-  links:
-    - name: Homepage
-      link: https://docs.tokenbridge.net/
-- title: Celsius Network
-  date: 2020-06-25
-  type: finance
-  description: Celsius Network, the industry-leading cryptocurrency interest-earning platform, allows ETC holders to deposit their digital assets into the Celsius wallet and earn interests.
-  links:
-    - name: Homepage
-      link: https://celsius.network/
-- title: Commonwealth
-  date: 2020-05-01
-  type: finance
-  description: The World’s Savings Fund. Immutable. Built 2018.
-  links:
-    - name: Homepage
-      link: https://commonwealth.gg
 - title: GitCoin
   date: 2020-02-11
   type: finance
@@ -1057,20 +626,6 @@
   links:
     - name: Homepage
       link: https://gitcoin.co/
-- title: Cryptwerk
-  date: 2020-05-07
-  type: other
-  description: Pay with Ethereum Classic. Companies and stores accepting ETC. Spend your crypto.
-  links:
-    - name: Homepage
-      link: https://cryptwerk.com/pay-with/etc/
-- title: XAR Network
-  date: 2020-03-08
-  type: other
-  description: Xar Network was created from a need of corporate and central banks to use blockchain technology in a private, permissioned space. As our feature set grew we noticed consistent cross-over with the decentralized finance ecosystem, so eventually the Xar toolkit grew to a full-fledged decentralized finance toolbox. Xar Network offers access to advantages of both purely traditional banking systems and blockchain systems - using blockchain based or decentralized finance (DeFi).
-  links:
-    - name: Homepage
-      link: https://xar.network/
 - title: Portal.Network
   date: 2020-02-11
   type: other
@@ -1079,21 +634,3 @@
   links:
     - name: Homepage
       link: https://www.portal.network/
-- title: MonkeyDoo
-  date: 2022-08-26
-  type: nfts
-  image: ./images/monkeydoo.jpg
-  verifiedContract: https://blockscout.com/etc/mainnet/address/0xE86ae8f38372d26F8ffAC37deba733a77f101Ac7/transactions
-  description: MonkeyDoos are a collection of 3,000 NFTs (non-fungible tokens) that are made of a large number of high quality visual traits. Each MonkeyDoo is unique in its own way, but not equally rare. The MonkeyDoo collection includes dozens of rare layers that make some NFTs more valuable than the others.
-  links:
-    - name: MonkeyDoo
-      link: https://monkeydoonft.com/
-    - name: Twitter
-      link: https://twitter.com/MonkeyDoo_NFT?t=YtUCLKwoeuqsy5GUxIxxtQ&s=09
-      icon: twitter
-    - name: Discord
-      link: https://discord.com/invite/UhZFZHYwNx
-      icon: discord
-    - name: Telegram
-      link: https://t.me/MonkeyDoo_NFT
-      icon: telegram
