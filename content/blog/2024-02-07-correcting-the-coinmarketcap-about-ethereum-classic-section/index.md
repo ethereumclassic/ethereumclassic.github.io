@@ -4,7 +4,7 @@ date: 2024-02-07
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["education"]
-linkImage: ./banner.png
+linkImage: ./banner-3.png
 ---
 
 CoinMarketCap (CMC) has an “About” section in the profile page of Ethereum Classic (ETC) in the following link:
