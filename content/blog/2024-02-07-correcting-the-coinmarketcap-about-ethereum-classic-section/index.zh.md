@@ -1,5 +1,5 @@
 ---
-title: "Correcting The CoinMarketCap 'About Ethereum Classic' Section"
+title: "更正 CoinMarketCap 上关于以太坊经典的部分"
 date: 2024-02-07
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -7,222 +7,220 @@ tags: ["education"]
 linkImage: ./banner-3.png
 ---
 
-CoinMarketCap (CMC) has an “About” section in the profile page of Ethereum Classic (ETC) in the following link:
+CoinMarketCap（CMC）在以下链接的Ethereum Classic（ETC）的个人资料页面中有一个“关于”部分：https://coinmarketcap.com/currencies/ethereum-classic/#About
 
-https://coinmarketcap.com/currencies/ethereum-classic/#About
+[](./banner.png)
 
-![](./banner.png)
+“关于”页面有9个部分，其中有几个部分的信息有错误。
 
-The About page has 9 sections, several of which have mistakes in the information.
+在以下部分，我们将指出每个错误所在的部分，提出纠正的短语，并为每个纠正添加我们的理由。
 
-In the following sections we will point out in which section each mistake is, we will propose corrected phrases, and add our rationale for each correction.
+## 部分：什么是Ethereum Classic（ETC）？
 
-## Section: What Is Ethereum Classic (ETC)?
+**CMC声明：**
 
-**CMC Statement:**
+Ethereum Classic（ETC）是[Ethereum](https://coinmarketcap.com/currencies/ethereum/)（ETH）的硬分叉，于2016年7月推出。它的主要功能是作为[智能合约](https://coinmarketcap.com/alexandria/glossary/smart-contract)网络，具有托管和支持去中心化应用程序（[DApps](https://coinmarketcap.com/alexandria/glossary/decentralized-applications-dapps)）的能力。它的本地代币是ETC。
 
-Ethereum Classic (ETC) is a hard fork of [Ethereum](https://coinmarketcap.com/currencies/ethereum/) (ETH) that launched in July 2016. Its main function is as a [smart contract](https://coinmarketcap.com/alexandria/glossary/smart-contract) network, with the ability to host and support decentralized applications ([DApps](https://coinmarketcap.com/alexandria/glossary/decentralized-applications-dapps)). Its native token is ETC.
+自推出以来，Ethereum Classic一直试图与Ethereum区分开来，两个网络的技术路线图随着时间的推移越来越不同。
 
-Since its launch, Ethereum Classic has sought to  [differentiate itself from Ethereum](https://coinmarketcap.com/alexandria/article/ethereum-vs-ethereum-classic), with the two networks’ technical roadmap diverging further and further from each other with time.
+**我们的更正：**
 
-**Our Correction:**
+Ethereum Classic（ETC）实际上是于2015年7月推出的[Ethereum](https://coinmarketcap.com/currencies/ethereum/)（ETH）区块链的原始版本。它的主要功能是作为[智能合约](https://coinmarketcap.com/alexandria/glossary/smart-contract)网络，具有托管和支持去中心化应用程序（[DApps](https://coinmarketcap.com/alexandria/glossary/decentralized-applications-dapps)）的能力。它的本地代币是ETC。
 
-Ethereum Classic (ETC) is the original [Ethereum](https://coinmarketcap.com/currencies/ethereum/) (ETH) blockchain that launched in July 2015. Its main function is as a [smart contract](https://coinmarketcap.com/alexandria/glossary/smart-contract) network, with the ability to host and support decentralized applications ([DApps](https://coinmarketcap.com/alexandria/glossary/decentralized-applications-dapps)). Its native token is ETC.
+自推出以来，Ethereum Classic一直试图坚守其原始的不可变性、抗审查性和无许可性的价值观。然而，ETC的技术与EVM（Ethereum Virtual Machine标准）保持一致，因为它力求与最先进的技术保持同步。
 
-Since its launch, Ethereum Classic has sought to uphold its original values of immutability, censorship resistance, and permissionlessness. However, ETC’s technology is on parity with the EVM (Ethereum Virtual Machine standard) as it seeks to be up-to-date with state of the art technology.
+**理由：**
 
-**Rationale:**
+声明ETC是一个分叉是市场上的一个古老错误，作为CMC这样的服务，纠正这些错误是我们的责任。
 
-To state that ETC is a fork is an old error in the market and it is the responsibility of a service as CMC to correct these fallacies.
+ETC并没有偏离EVM路线图，相反，ETC不断进行硬分叉，以与Ethereum保持一致，除了那些对不可变性有害的升级，例如EIP-1559或权益证明。
 
-ETC does not diverge from the EVM roadmap, to the contrary ETC constantly performs hard forks to be on parity with Ethereum, except the upgrades that are detrimental to immutability, e.g. EIP-1559 or Proof of Stake.
+## 部分：谁是Ethereum Classic的创始人？
 
-## Section: Who Are the Founders of Ethereum Classic?
+**CMC声明：**
 
-**CMC Statement:**
+事实上，Ethereum Classic实际上是Ethereum的遗产链，因此其真正的创作者是原始的Ethereum开发人员—Vitalik Buterin和Gavin Wood。
 
-Ethereum Classic is in fact the legacy chain of Ethereum, and its true creators are therefore the original Ethereum developers — Vitalik Buterin and Gavin Wood.
+**我们的更正：**
 
-**Our Correction:**
+事实上，Ethereum Classic实际上是Ethereum的遗产链，因此其真正的创作者是原始的Ethereum创始人—Vitalik Buterin。
 
-Ethereum Classic is in fact the legacy chain of Ethereum, and its true creator is therefore the original Ethereum founder — Vitalik Buterin.
+**理由：**
 
-**Rationale:**
+Ethereum和Ethereum Classic只有一个创始人，那就是Vitalik Buterin。其他人都是在Vitalik发明后加入的，围绕Vitalik的核心设计添加了他们的工作和贡献。因此，ETC的创始人是Vitalik Buterin。
 
-Ethereum and Ethereum Classic have only one founder and that is Vitalik Buterin. All the rest are persons who joined after Vitalik’s invention and added their work and contribution around the core design by Vitalik. Therefore, the founder of ETC is Vitalik Buterin.
+其余的段落都是正确的。
 
-The rest of the paragraphs are fine.
+## 部分：什么使Ethereum Classic独特？
 
-## Section: What Makes Ethereum Classic Unique?
+**CMC声明：**
 
-**CMC Statement:**
+Ethereum Classic的主要目标是保留Ethereum区块链的原始状态，而不是人为地对抗DAO黑客攻击。
 
-Ethereum Classic’s main aim is to preserve the Ethereum blockchain as it originally was, without artificially countering the DAO hack.
+它最初吸引的是那些不同意Ethereum的回应的人，但遗产网络目前已经获得了更广泛的粉丝群体，其中包括像Grayscale投资公司的首席执行官Barry Silbert这样的主要投资者。
 
-Its appeal was first to those who disagreed with Ethereum’s response, but the legacy network has since gained a wider fan base, which include major investors such as Barry Silbert, CEO of investment firm Grayscale.
+作为一个自愿组织，ETC的开发人员并不打算将网络变成盈利实体。用户支付与Ethereum相同的交易费用，矿工根据其完成的工作收取这些费用，依据是[工作量证明](https://coinmarketcap.com/alexandria/article/proof-of-work-vs-proof-of-stake)（PoW）挖掘算法。
 
-As a voluntary organization, the developers of ETC do not aim to turn the network into a for-profit entity. Users pay transaction fees as with Ethereum, and miners collect them based on work done as per the [proof-of-work](https://coinmarketcap.com/alexandria/article/proof-of-work-vs-proof-of-stake) (PoW) mining algorithm.
+与Ethereum不同，Ethereum Classic没有计划转换为[权益证明](https://coinmarketcap.com/alexandria/article/proof-of-work-vs-proof-of-stake)（PoS）挖掘算法，同时多个开发人员仍在致力于未来的改进，如扩展解决方案。
 
-Unlike Ethereum, Ethereum Classic has no plans to convert to a proof-of-stake (PoS) mining algorithm, while multiple developers continue to work on future improvements such as scaling solutions.
+**我们的更正：**
 
-**Our Correction:**
+Ethereum Classic的独特属性是以下特征的组合：
 
-Ethereum Classic’s unique attributes are a combination of the following features:
+**工作量证明：** ETC将继续作为[工作量证明](https://coinmarketcap.com/alexandria/article/proof-of-work-vs-proof-of-stake)区块链存在，这是目前人类已知的最安全的共识机制。
 
-**Proof-of-Work:** ETC is a will remain as a [proof-of-work](https://coinmarketcap.com/alexandria/article/proof-of-work-vs-proof-of-stake) blockchain which is the most secure consensus mechanism known to man.
+**稳健货币：** ETC是数字黄金，因为它是工作量证明区块链，因此生产货币的成本与生产区块的成本相同，它具有固定的货币政策，供应上限为210,700,000。
 
-**Sound money:** ETC is digital gold because it is a proof of work blockchain, thus the cost ti produce the money is the same as the cost to produce the blocks, and it has a fixed monetary policy with a supply cap of 210,700,000.
+**可编程性：** ETC是可编程的，具有智能合约，使其比其他简单的加密货币链，如比特币或莱特币，更加多才多艺和有用。
 
-**Programmability:** ETC is programmable with smart contracts making it much more versatile and useful than other simpler cryptocurrency chains such as Bitcoin or Litecoin.
+**完全复制：** ETC最安全，因为它在网络的所有节点上都进行了完全复制。其他智能合约区块链正在实施“分片”、“平行链”或“侧链”等减少安全性的方法，而ETC将保持完全复制。
 
-**Full replication:** ETC is most secure because it is fully replicated across all nodes of the network. Where other smart contract blockchains are implementing “sharding”, “parachains”, or “sidechains” that reduce security, ETC will remain fully replicated.
+**可组合性：** 在ETC中，可组合性意味着通过可编程性启用的所有应用程序都在同一系统内，因此它们同样安全，并且能够在单个复杂的交易中相互交互。
 
-**Composability:** Composability in ETC means that all the applications enabled by programmability are inside the same system, thus making them equally secure and also able to interact with each other in single complex transactions.
+**规模：** 区块链越大，尤其是如果它是其类别中最大的，使系统更加安全。ETC是全球最大的智能合约区块链，它是工作量证明并具有固定货币政策。
 
-**Size:** The larger a blockchains is, and even more if it is the largest in its category, makes the system eve more secure. ETC is the largest smart contracts blockchain that is proof of work and has a fixed monetary policy.
+所有上述独特特性的结合使ETC dapps成为世界上最安全的dapps。
 
-All the above unique features combined make ETC dapps the most secure daps in the world.
+**理由：**
 
-**Rationale:**
+Ethereum Classic在市场上有着极其有价值的定位。事实上，Ethereum转向权益证明更加强化了这一定位。
 
-Ethereum Classic has its own incredibly valuable positioning in the market. The fact that Ethereum moved to proof of stake enforces this positioning even more.
+过去的事件，例如谁喜欢它或不喜欢，以及当前的开发人员是无关紧要的。
 
-Past events such as who liked it or not, and who are the current developers is irrelevant. 
+重要的是ETC所代表的，即它是世界上最大且最安全的智能合约区块链。
 
-What is relevant is what ETC represents, which is that it is the largest and most secure smart contracts blockchain in the world.
+所有其他看似更大的智能合约网络因为市值较高而不够安全，因此ETC具有独特的价值主张，CMC应该突出显示这一点。
 
-All other smart contract networks that seem larger because they have higher market caps are less secure, therefore ETC has a unique value proposition that should be highlighted by CMC.
+## 部分：Ethereum Classic与Ethereum有何不同？
 
-## Section: How Is Ethereum Classic Different From Ethereum?
+**CMC声明：**
 
-**CMC Statement:**
+两者之间的另一个关键区别是它们的发展路线图。Ethereum致力于在合并后从工作量证明共识算法过渡到[权益证明](https://coinmarketcap.com/alexandria/article/proof-of-work-vs-proof-of-stake)（PoS）算法。另一方面，Ethereum Classic专注于保持其原始的PoW算法，忠于其去中心化的理念。
 
-Another key difference between the two is their development roadmap. Ethereum is focused on transitioning from a Proof-of-Work consensus algorithm to a proof-of-stake (PoS) algorithm after The Merge. Ethereum Classic, on the other hand, has focused on maintaining its original PoW algorithm and staying true to its decentralized philosophy.
+**我们的更正：**
 
-**Our Correction:**
+两者之间的另一个关键区别是它们的发展路线图。Ethereum已经在2022年9月的合并后从工作量证明（POW）共识算法过渡到权益证明（PoS）算法。另一方面，Ethereum Classic专注于保持其原始的PoW算法，忠于其去中心化的理念。
 
-Another key difference between the two is their development roadmap. Ethereum has transitioned from a Proof-of-Work (POW) consensus algorithm to a Proof-of-Stake (PoS) algorithm after The Merge in September 2022. Ethereum Classic, on the other hand, has focused on maintaining its original PoW algorithm and staying true to its decentralized philosophy.
+**理由：**
 
-**Rationale:**
+CMC的这一部分是优秀的，我们只是重新表述了最后一段，以显示Ethereum已经转向POS。
 
-This section in CMC is excellent, we only rephrased the last paragraph to show that Ethereum already transitioned to POS.
+## 部分：Ethereum Classic（ETC）的流通中有多少硬币？
 
-## Section: How Many Ethereum Classic (ETC) Coins Are There In Circulation?
+**CMC声明：**
 
-**CMC Statement:**
+ETC在技术上与ETH有着非常相似的状态，除了如何处理DAO黑客攻击的交易。
 
-ETC began in a very similar technical state to ETH, with the exception of how the DAO hack transactions were handled.
+然而，自推出以来，[tokenomics](https://coinmarketcap.com/alexandria/article/what-is-tokenomics)发生了变化，参与者在2017年12月投票决定限制ETC的供应。因此，最大供应量为210,700,000 ETC，大约是[Bitcoin](https://coinmarketcap.com/currencies/bitcoin/)（BTC）的十倍，而ETH没有上限。
 
-Since launch, however, changes in [tokenomics](https://coinmarketcap.com/alexandria/article/what-is-tokenomics) have occurred, with participants voting to cap the supply of ETC in December 2017. The maximum supply is thus 210,700,000 ETC, roughly ten times that of [Bitcoin](https://coinmarketcap.com/currencies/bitcoin/) (BTC), while ETH has no cap.
+ETC使用PoW挖掘算法，与[Bitcoin](https://coinmarketcap.com/currencies/bitcoin/)类似—矿工通过验证与彼此竞争的区块来获得新币。ETC的区块奖励随时间减少，下一次降低将在1500万个区块，大约在2022年4月，从3.2 ETC降至每个区块2.56 ETC。
 
-ETC uses a PoW mining algorithm, which functions like  [Bitcoin](https://coinmarketcap.com/currencies/bitcoin/)  — miners are rewarded with new coins for validating the blockchain in competition with each other. The ETC block reward decreases with time, with the next drop due at block 15,000,000, roughly in April 2022 — from 3.2 ETC to 2.56 ETC per block.
+**我们的更正：**
 
-**Our Correction:**
+ETC在技术上与ETH有着非常相似的状态，除了如何处理DAO黑客攻击的交易。
 
-ETC began in a very similar technical state to ETH, with the exception of how the DAO hack transactions were handled.
+然而，自推出以来，[tokenomics](https://coinmarketcap.com/alexandria/article/what-is-tokenomics)发生了变化，Ethereum Classic于2017年12月决定限制供应。因此，最大供应量为210,700,000 ETC，大约是[Bitcoin](https://coinmarketcap.com/currencies/bitcoin/)（BTC）的十倍，而ETH没有上限。
 
-Since launch, however, changes in [tokenomics](https://coinmarketcap.com/alexandria/article/what-is-tokenomics) have occurred, with Ethereum Classic establishing a cap to the supply in December 2017. The maximum supply is thus 210,700,000 ETC, roughly ten times that of [Bitcoin](https://coinmarketcap.com/currencies/bitcoin/) (BTC), while ETH has no cap.
+ETC使用PoW挖掘算法，与[Bitcoin](https://coinmarketcap.com/currencies/bitcoin/)类似—矿工通过在彼此竞争中构建区块来获得新币。ETC的区块奖励随时间以每两年或500万个区块为周期减少20%，下一次降低将在2000万个区块，大约在2024年6月，从2.56 ETC降至每个区块2.048 ETC。
 
-ETC uses a PoW mining algorithm, which functions like [Bitcoin](https://coinmarketcap.com/currencies/bitcoin/) — miners are rewarded with new coins for building blocks in competition with each other. The ETC block reward decreases with time at a rate of 20% every two years or 5 million blocks, with the next drop due at block 20,000,000, roughly in June 2024 — from 2.56 ETC to 2.048 ETC per block.
+**理由：**
 
-**Rationale:**
+我们更新了供应信息并删除了“参与者投票”，因为ETC通过共识来决定变更，而不是通过投票。我们将术语“验证”更改为“构建区块”，并添加了挖矿奖励中对矿工的折扣频率。
 
-We updated supply information above and removed “participants voting” because ETC decides changes by consensus, not by voting. We changed the term "validating" with "building blocks" and added the frequency of the discount to miners in the block rewards.
+## 部分：Ethereum Classic（ETC）的安全性如何？
 
-## Section: How Is Ethereum Classic (ETC) Secured?
+**CMC声明：**
 
-**CMC Statement:**
+Ethereum Classic使用[工作量证明](https://coinmarketcap.com/alexandria/glossary/proof-of-work-pow)（PoW）共识算法。通过解决计算上具有挑战性的谜题来创建和验证交易块，Ethereum Classic矿工保护网络。
 
-Ethereum Classic uses the [Proof-of-Work](https://coinmarketcap.com/alexandria/glossary/proof-of-work-pow) (PoW) consensus algorithm. By resolving computationally challenging riddles to create and validate blocks of transactions, Ethereum Classic miners protect the network.
+在此过程中，区块链上的所有数据状态都被记录。只要每个矿工或节点对块的创建顺序达成一致，网络就会移至下一个块。这个过程被称为共识。
 
-In this process, the state of all the data on the blockchain is recorded. The network moves on to the next block as long as every miner or node agrees on the order in which the blocks are created. This process is referred to as consensus.
+作为少数链，它本身遭受了定期的攻击。其中包括多次51%攻击，以控制挖矿算力并执行虚假交易和双重支付硬币，其中最近的一次发生在2020年8月。
 
-As a minority chain, it has suffered regular attacks itself. These include several 51% attacks to gain control of mining hashrate and execute spurious transactions and double spend coins, the most recent of which occurred in August 2020.
+在2020年对Ethereum Classic网络进行了一系列51%攻击之后，底层的Ethash挖矿算法发生了变化。该事件被称为Thanos升级。
 
-Following a series of 51% attacks on the Ethereum Classic network in 2020, the underlying Ethash mining algorithm was changed. The event was called Thanos upgrade.
+**我们的更正：**
 
-**Our Correction:**
+当ETC是少数链时，它遭受了一些攻击。这些包括为了控制挖矿算力并执行虚假交易和双重支付硬币而进行的51%攻击，其中最近的一次发生在2020年8月。
 
-When ETC was a minority chain, it suffered some attacks. These included 51% attacks to gain control of mining hashrate and execute spurious transactions and double spend coins, the most recent of which occurred in August 2020.
+Ethereum Classic使用[工作量证明](https://coinmarketcap.com/alexandria/glossary/proof-of-work-pow)（PoW）共识算法。通过解决计算上具有挑战性的谜题来创建和验证交易块，Ethereum Classic矿工保护网络。
 
-Ethereum Classic uses the [Proof-of-Work](https://coinmarketcap.com/alexandria/glossary/proof-of-work-pow) (PoW) consensus algorithm. By resolving computationally intensive puzzles to create and validate blocks of transactions, Ethereum Classic miners protect the network.
+ETC区块链也是完全复制的，这使得它在全球许多节点上都具有冗余性，从而使其几乎不可能被自然灾害或人为篡改。
 
-The ETC blockchain is also fully replicated, which makes it redundant across many nodes worldwide making it practically impossible to take down or tamper with by natural disaters or man.
+现在，它是世界上最大的工作量证明智能合约区块链，其安全级别已经显著提高到开发人员已经删除了在2020年51%攻击之后添加的安全功能。
 
-Now that it is the largest proof of work smart contracts blockchain in the world, its security levels have significantly increased to the point that developers have removed the safety features they added after the 51% attacks of 2020.
+**理由：**
 
-**Rationale:**
+我们添加了对POW安全机制的更准确描述，以及另一种安全方法是完全复制。我们还更新了信息，以显示现在它是POW算法中的大多数链，因此删除了在ETC是少数链时添加的安全功能。
 
-We added a more accurate description of the POW security mechanism and that the other security method is full replication. We also updated the information to show that the safety features that were added while ETC was a minority chain were removed because now it is the majority chain in its POW algorithm.
+## 部分：Ethereum Classic如何挖矿？
 
-## Section: How is Ethereum Classic Mined?
+**CMC声明：**
 
-**CMC Statement:**
+矿工使用他们的硬件来解决Ethereum Classic网络上的复杂数学方程并验证交易。第一个解决方案并验证新区块的矿工将以ETC的形式获得区块奖励。
 
-Miners use their hardware to solve complex mathematical equations and validate transactions on the Ethereum Classic network. The first miner to solve the equation and validate a new block receives a block reward in the form of ETC.
+矿工使用他们的硬件来解决Ethereum Classic网络上的复杂数学方程并验证交易。第一个解决方案并验证新区块的矿工将以ETC的形式获得区块奖励。
 
-Miners use their hardware to solve complex mathematical equations and validate transactions on the Ethereum Classic network. The first miner to solve the equation and validate a new block receives a block reward in the form of ETC.
+网络每两周自动调整挖矿的难度，以保持稳定的区块生产速率。难度基于网络的总计算能力，随着更多矿工加入网络，挖矿ETC变得更加具有挑战性。
 
-The network automatically adjusts the difficulty of mining Ethereum Classic every two weeks to maintain a stable block production rate. The difficulty is based on the total computational power of the network, and it becomes more challenging to mine ETC as more miners join the network.
+**我们的更正：**
 
-**Our Correction:**
+Ethereum Classic区块链的一小部分节点是矿工。这些矿工将交易分组成批次，为它们添加时间戳、前一个区块的加密戳或哈希，以及一个称为随机迭代数的随机数。
 
-A subgroup of the nodes of the Ethereum Classic blockchain are miners. These miners group transactions in batches, add to them a time stamp, the previous block cryptographic stamp or hash, and a random iterating number called a nonce. 
+一旦他们这样做了，他们为这个新区块专门创建一个新的加密戳，并立即检查它是否命中了协议确定的特定目标。如果没有命中目标，那么矿工就会返回，尽快更改随机迭代数，并再次尝试。如果他们再次没有命中目标，那么他们就会再次尝试，一次又一次，直到其中一个矿工命中目标。
 
-Once they do this, they create a new cryptographic stamp for this new block specifically and immediately check if it hit a specific target that the protocol determines. If it didn’t hit the target, then the miners go back, change the random iterating number as soon as possible and try again. If they didn’t hit the target again, then they try again, and again, and again, until one of the miners hits the target. 
+他们可能每秒尝试数万亿次，这就是为什么会消耗大量能量，并被称为“工作证明”的原因，因为只有通过尝试这么多次，使用大量的计算能力和电力，统计上，其中一个矿工会在标准区块时间范围内，也就是ETC的13秒内命中目标。
 
-They may do this trillions of times per second, and this is what uses up so much energy and is referred to as “proof of work” because only by working in trying so many times, using so much computing power and electricity, is that, statistically, one of the miners will hit the target within the range of the standard block time, which is 13 seconds in ETC.
+当一个矿工命中目标时，他们将区块发送给网络的其余部分进行验证，并支付矿工奖励以及区块的交易费用。
 
-When a miner hits the target, then they send the block to the rest of the network for verification and payment of the miner reward plus the block's transaction fees.
+**理由：**
 
-**Rationale:**
+CMC的解释重复了两段，并且没有解释POW及其工作原理。在POW中，矿工不“验证”交易，这是由节点完成的，他们所做的是“验证”交易。我们在此提供了有关ETC如何挖矿和创建区块的简明解释。
 
-The CMC explanation has two paragraphs repeated and does not explain POW and how it works. In POW, miners do not “validate” transactions, that is done by the nodes and what they do is to “verify” transactions. We give here a straightforward explanation of how ETC is mined and blocks created.
+## 部分：在哪里购买以太经典（ETC）？
 
-## Section: Where Can You Buy Ethereum Classic (ETC)?
+**CMC声明：**
 
-**CMC Statement:**
+ETC是一种市值较大的加密货币，在许多主要交易所上可以自由交易。
 
-ETC is a major market cap cryptocurrency and is freely tradable on a large number of major exchanges.
+可以使用稳定币、其他加密货币和法定货币进行交易，同时也存在衍生品和机构投资工具。允许您 [购买以太经典](https://www.binance.com/en/buy-Ethereum-Classic) 的交易所包括 [Binance](https://coinmarketcap.com/exchanges/binance/)、[OKEx](https://coinmarketcap.com/exchanges/okex/) 和 [Huobi Global](https://coinmarketcap.com/exchanges/huobi-global/)。
 
-Pairs are available against stablecoins, other cryptocurrencies and fiat currencies, while derivatives and institutional investment vehicles also exist. Exchanges that let you [buy Ethereum Classic](https://www.binance.com/en/buy-Ethereum-Classic) include [Binance](https://coinmarketcap.com/exchanges/binance/), [OKEx](https://coinmarketcap.com/exchanges/okex/) and [Huobi Global](https://coinmarketcap.com/exchanges/huobi-global/).
+对加密货币新手？阅读我们的 [简易指南](https://coinmarketcap.com/how-to-buy-bitcoin/) 以购买比特币和任何其他加密货币。
 
-Crypto newbie? Read our [easy guide](https://coinmarketcap.com/how-to-buy-bitcoin/) to buying Bitcoin and any other cryptocurrency.
+**我们的更正：**
 
-**Our Correction:**
+ETC是一种市值较大的加密货币，在许多主要交易所上可以自由交易。
 
-ETC is a major market cap cryptocurrency and is freely tradable on a large number of major exchanges.
+可以使用稳定币、其他加密货币和法定货币进行交易，同时也存在衍生品和机构投资工具。允许您 [购买以太经典](https://www.binance.com/en/buy-Ethereum-Classic) 的交易所包括 [Binance](https://coinmarketcap.com/exchanges/binance/)、[OKEx](https://coinmarketcap.com/exchanges/okex/) 和 [Huobi Global](https://coinmarketcap.com/exchanges/huobi-global/)，以及 [Coinbase](https://coinmarketcap.com/exchanges/coinbase-exchange/)。
 
-Pairs are available against stablecoins, other cryptocurrencies and fiat currencies, while derivatives and institutional investment vehicles also exist. Exchanges that let you [buy Ethereum Classic](https://www.binance.com/en/buy-Ethereum-Classic)  include  [Binance](https://coinmarketcap.com/exchanges/binance/),  [OKEx](https://coinmarketcap.com/exchanges/okex/)  and  [Huobi Global](https://coinmarketcap.com/exchanges/huobi-global/), and [Coinbase](https://coinmarketcap.com/exchanges/coinbase-exchange/)
+对加密货币新手？阅读我们的 [简易指南](https://coinmarketcap.com/how-to-buy-bitcoin/) 以购买比特币和任何其他加密货币。
 
-Crypto newbie? Read our [easy guide](https://coinmarketcap.com/how-to-buy-bitcoin/) to buying Bitcoin and any other cryptocurrency.
+**理由：**
 
-**Rationale:**
+这一部分是正常的，我们只是在购买ETC的交易所列表中添加了Coinbase。
 
-This section is fine, we just added Coinbase in the list of exchanges available to buy ETC.
+## 部分：对以太经典的担忧
 
-## Section: Concerns About Ethereum Classic
+**CMC声明：**
 
-**CMC Statement:**
+尽管以太经典和以太坊都提供 [智能合约](https://coinmarketcap.com/alexandria/glossary/smart-contract) 并竞争相同的市场，但由于网络效应和更多的开发者和用户活动，以太坊在两个网络中更为可信。
 
-Ethereum has grown in popularity as the more trustworthy one of the two networks, even though Ethereum Classic and Ethereum both offer [smart contracts](https://coinmarketcap.com/alexandria/glossary/smart-contract) and compete for the same market.
+以太经典可能面临的主要担忧之一是可扩展性的限制。该网络通常支持每秒15笔交易 ([TPS](https://coinmarketcap.com/alexandria/glossary/transactions-per-second))，远远低于像Visa这样支持每秒超过1,000笔交易的支付网络。尽管以太经典经历了许多软件改进，但在未来，其最大的问题之一仍将是其支付系统的可扩展性。
 
-The possible scalability constraints of Ethereum Classic are one of its main worries. The network can typically support 15 [transactions per second](https://coinmarketcap.com/alexandria/glossary/transactions-per-second) ([TPS](https://coinmarketcap.com/alexandria/glossary/transactions-per-second)), which is significantly lower than payment networks like Visa, which support more than 1,000 transactions per second. Although Ethereum Classic has undergone numerous software improvements, one of its largest problems moving ahead will continue to be the scalability of its payment systems.
+**我们的更正：**
 
-**Our Correction:**
+尽管以太经典和以太坊都提供 [智能合约](https://coinmarketcap.com/alexandria/glossary/smart-contract) 并竞争相同的市场，由于网络效应和更多的开发者和用户活动，以太坊在两个网络中更为可信。
 
-Ethereum has grown in popularity due to network effects and more developer and user activity, even though Ethereum Classic and Ethereum both offer [smart contracts](https://coinmarketcap.com/alexandria/glossary/smart-contract) and compete for the same market.
+ETC的主要担忧是可扩展性、膨胀和向后兼容性。这些是所有第一层智能合约区块链共享的约束。以太坊和以太经典都将通过第二层系统实现可扩展性。
 
-The main concerns of ETC are scalability, bloat, and backward compatibility. These are constraints shared by all layer 1 smart contracts blockchains. Both Ethereum and Ethereum Classic will be scalable through layer 2 systems.
+向后兼容性将在“账户版本”和“EVM版本”在EVM标准中普遍实施时解决。膨胀是一个正在进行的工作，并且更多取决于客户端效率、数据结构更改和其他进展。
 
-Backward compatibility will be solved when “Account Versioning” and “EVM Versioning” are implemented in the EVM standard in general. Bloating is a work in progress and depends more on client efficiencies, data structure changes, and other advances.
+**理由：**
 
-**Rationale:**
-
-Ethereum is not more trustworthy because it is less secure as it is a POS blockchain. We added scalability, bloat, and backward compatibility as the real concerns of a blockchain such as Ethereum Classic, but we presented the solution that will ameliorate these constraints.
+以太坊之所以更为可信并不是因为它更不安全，而是因为它是一个POS区块链。我们添加了可扩展性、膨胀和向后兼容性作为以太经典等区块链真正关注的问题，但我们提出了将缓解这些约束的解决方案。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
