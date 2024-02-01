@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 13. There Will Only Be 3 or 4 POW Blockchains in the Future"
+title: "ETC工作量证明课程：13. 未来只会有3或4个工作量证明区块链"
 date: 2024-02-08
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,64 +8,64 @@ linkImage: ./banner-4.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-D20HZhwmFc?si=yFYFrweD-DD26QnJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-In the previous class, 12, we explained an interesting occurrence that happened in 2020 in the Ethereum (ETH) blockchain, when it was a Proof of Work (POW) network, which is that it proved, even before Bitcoin (BTC), that the POW fee model will work!
+在上一堂第12课中，我们解释了在2020年以太坊（ETH）区块链作为工作量证明（POW）网络发生的一件有趣的事情，即在比特币（BTC）之前，它证明了POW费用模型将奏效的观点！
 
-The thesis that supports the idea is that not only did fees surpass the block reward in both ETH and BTC several times, but that because of network effects and the pursuit of security, users will gladly pay high fees to use these valuable networks.
+支持这一观点的论点不仅是在ETH和BTC中多次超过区块奖励的费用，而且由于网络效应和对安全性的追求，用户将愿意支付高昂的费用来使用这些有价值的网络。
 
-Similarly, in this class, 13, we will see how network effects and security will determine the number of and market share of each of the leading POW blockchains in the industry.
+同样，在这第13课中，我们将看到网络效应和安全性将决定行业领先的POW区块链的数量和市场份额。
 
-## Blockchains Are Like Operating Systems
+## 区块链就像操作系统
 
-As blockchains are like operating systems they will likely behave and be positioned as such.
+由于区块链就像操作系统，它们可能会表现和定位为操作系统。
 
-Operating systems are software code that associate the parts of the hardware in which they are installed to the applications used in those devices.
+操作系统是与其安装的硬件部分相关联的软件代码，用于这些设备中使用的应用程序。
 
-As such, they represent standards that developers of multiple applications and providers can rely on to build their apps so they can be compatible with each other and familiar to all users.
+因此，它们代表了开发多个应用程序和提供商可以依赖以构建其应用程序的标准，使它们与彼此兼容并对所有用户熟悉。
 
-Similarly, blockchains, especially programmable ones, are software systems that represent standards of how accounts, balances, and opcodes must be used by developers for their dapps to interact with each other and for users to find familiar and useful.
+同样，区块链，特别是可编程的区块链，是表示开发人员必须如何使用其dapp与彼此互动以及用户找到熟悉和有用的标准的软件系统。
 
-Given this status as operating systems but on global peer-to-peer networks, blockchains will likely evolve as such.
+鉴于它们作为全球点对点网络上的操作系统的地位，区块链可能会以这种方式发展。
 
-## Network Effects And Security Will Determine Their Market Shares
+## 网络效应和安全性将决定它们的市场份额
 
-It doesn’t matter what bells and whistles new competing entrants may have, the big blockchain players will overwhelm the rest with their network effects. It is more important for users to find other users on these platforms than better features or even better user experiences.
+新的竞争对手可能拥有什么样的功能并不重要，大型区块链参与者将通过它们的网络效应淹没其他竞争者。对于用户而言，在这些平台上找到其他用户比拥有更好的功能甚至更好的用户体验更为重要。
 
-In terms of security, network effects and scale produce more safety in these systems.
+在安全性方面，网络效应和规模会在这些系统中产生更多的安全性。
 
-Safety and security in the blockchain industry means less dependence on trusted third parties, which means censorship resistance and permissionlessness globally.
+在区块链行业，安全性意味着对信任第三方的依赖较少，这意味着全球无法审查和无需许可。
 
-Therefore, users will tradeoff the cheapness and low security of fiat and Proof of Stake (POS) systems for the popularity and safety of POW blockchains.
+因此，用户将权衡法币和股权证明（POS）系统的便宜和低安全性，以换取POW区块链的受欢迎程度和安全性。
 
-## The Global Operating System Market has 3 or 4 Large Players
+## 全球操作系统市场有3或4个大玩家
 
 ![](./1.png)
 
-Given that the global operating system market on all devices has 3 or 4 very large players (Linux is the winner in a small enterprise server niche), we may deduce that the Proof of Work blockchain segment of the industry will also have 3 or 4 large players as well. The rest will likely be insignificant.
+鉴于全球所有设备上的操作系统市场有3或4个非常大的玩家（Linux是小型企业服务器领域的赢家），我们可以推断，行业的POW区块链部分也将有3或4个大玩家。其他可能会无关紧要。
 
-## This Trend Is Already Observable in the Blockchain Industry
+## 这个趋势在区块链行业中已经可以观察到
 
 ![](./2.png)
 
-In aggregate, the trends mentioned in this post are already observable in the blockchain industry. Bitcoin has consistently had a share of around 50% of the whole market for a long time. Ethereum, as the second largest chain, has had a share of around 25%, and from there on the rest tend to be much smaller, or insignificant.
+总体而言，本文提到的趋势在区块链行业中已经可以观察到。比特币在整个市场中一直保持着约50%的份额。作为第二大链的以太坊一直保持着约25%的份额，从那以后，其他链往往要小得多，或者无关紧要。
 
-## Therefore, It Is Likely That There Will Be 3 or 4 Large POW Blockchains
+## 因此，很可能会有3或4个大型POW区块链
 
 ![](./3.png)
 
-Given that blockchains will likely behave as operating systems, that they usually have 3 or 4 large players, and that these trends are already observable in the market, we may deduce that the Proof of Work blockchain segment of the industry will have 3 or 4 large players as well, and that the rest will likely be insignificant.
+鉴于区块链可能会像操作系统一样行事，它们通常有3或4个大玩家，并且这些趋势已经在市场上可以观察到，我们可以推断，行业的POW区块链部分也将有3或4个大玩家，而其他则可能无关紧要。
 
-Consistent with this view, we estimate that Bitcoin will continue to command a 50% market share in the POW segment, then Ethereum Classic, as a programmable digital gold system, will likely rise to around a 25% share, then another system, probably Litecoin, will have around a 12.5% share, then maybe Monero, because of its privacy positioning, a 6.25% share, and the rest will follow but with less significant sizes.
+与这种观点一致，我们估计比特币将继续在POW部分占据50%的市场份额，然后作为可编程数字黄金系统的以太坊经典将可能占据约25%的份额，然后另一个系统，可能是莱特币，将占据约12.5%的份额，然后也许是门罗，因为它的隐私定位，将占据约6.25%的份额，其他将会跟随，但规模较小。
 
-In our next two classes we will make the same analogies but with global fiat currencies and we will explain how these things will play out with regard to the layers of the blockchain industry.
+在接下来的两堂课中，我们将使用全球法定货币进行相同的类比，并解释在区块链行业的各个层面上这些事物将如何发展。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解有关ETC的更多信息，请访问：https://ethereumclassic.org
