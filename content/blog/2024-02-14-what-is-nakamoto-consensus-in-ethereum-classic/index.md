@@ -10,7 +10,7 @@ linkImage: ./banner.png
 ---
 **You can listen to or watch this video here:**
 
-https://youtu.be/rxJI2NgaaK0
+https://youtu.be/WO_SVeDUnN4
 
 ---
 
