@@ -1,6 +1,6 @@
 ---
 title: "Ethereum Classic's Roadmap"
-date: 2024-02-30
+date: 2024-01-30
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["philosophy"]
