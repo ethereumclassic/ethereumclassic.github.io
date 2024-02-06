@@ -45,17 +45,17 @@ The columns are as follows:
 
 **Identity:** Sometimes the same node client software may be associated with different services. For example, in ETC there are [Core Geth](https://ethereumclassic.org/blog/2022-12-27-core-geth-explained) clients that are integrated in products such as [ETCMC](https://ethereumclassic.org/blog/2023-09-05-etc-spotlight-etcmc-ethereum-classic-plug-and-play-node-part-i) or [DappNode](https://ethereumclassic.org/blog/2023-04-26-how-run-an-ethereum-classic-node-using-dappnode) hardware nodes. To identify these variations, this column lists each one of them
 
-Version: The software clients to run ETC nodes may be from different dates. As the core developers upgrade the software, they go changing the version number for each one. This column lists the nodes by version.
+**Version:** The software clients to run ETC nodes may be from different dates. As the core developers upgrade the software, they go changing the version number for each one. This column lists the nodes by version.
 
-Protocol (eth): Nodes use protocols to communicate with each other and these have versions as well. 'eth' is a protocol that facilitates exchange of Ethereum blockchain information between the nodes. The latest version is v68. 
+**Protocol (eth):** Nodes use protocols to communicate with each other and these have versions as well. 'eth' is a protocol that facilitates exchange of Ethereum blockchain information between the nodes. The latest version is v68. 
 
-Protocol (Snap): The ‘snap’ protocol is another communications method between nodes and it facilitates the exchange of Ethereum state snapshots between peers. This feature is optional, and this column shows which node has it activated and what version it is using.
+**Protocol (Snap):** The ‘snap’ protocol is another communications method between nodes and it facilitates the exchange of Ethereum state snapshots between peers. This feature is optional, and this column shows which node has it activated and what version it is using.
 
-Fork ID: As blockchains go through upgrades, which are also called “forks”, there may be nodes with older software operating in the network. This column shows in which fork each node is operating.
+**Fork ID:** As blockchains go through upgrades, which are also called “forks”, there may be nodes with older software operating in the network. This column shows in which fork each node is operating.
 
-Uptime: The ‘uptime’ column indicates since when each node has been connected to the network.
+**Uptime:** The ‘uptime’ column indicates since when each node has been connected to the network.
 
-Last Seen: As the way to detect nodes by the ETCNodes website is by running its own nodes, then it can track the moment it last connected with each peer in the network. This columns shows this information.
+**Last Seen:** As the way to detect nodes by the ETCNodes website is by running its own nodes, then it can track the moment it last connected with each peer in the network. This columns shows this information.
 
 ## Side Section
 
