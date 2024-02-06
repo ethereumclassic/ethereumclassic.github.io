@@ -1,6 +1,6 @@
 ---
 title: "以太坊经典的路线图"
-date: 2024-02-30
+date: 2024-01-30
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["philosophy"]
