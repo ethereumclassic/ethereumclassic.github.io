@@ -1,5 +1,5 @@
 ---
-title: "Buying and Trading ETC Through Kraken"
+title: "购买和通过Kraken交易ETC"
 date: 2024-02-13
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YzurlIbyNLo?si=0YJu97L96fNEKSz9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,138 +16,136 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-## What Is Kraken?
+## 什么是Kraken?
 
-Kraken is a centralized cryptocurrency exchange.
+Kraken是一家中心化的加密货币交易所。
 
-A centralized cryptocurrency exchange (CEX) is a virtual location on the internet that serves as a meeting point for trading crypto assets such as Bitcoin (BTC) and Ethereum Classic (ETC).
+中心化的加密货币交易所（CEX）是互联网上的虚拟地点，用作比特币（BTC）和以太经典（ETC）等加密资产交易的聚集地。
 
-Kraken provides its servers over the internet for its customers to open accounts, send money, and start exchanging BTC, ETC, Ethereum (ETH), and other tokens.
+Kraken通过互联网为客户提供服务器，使他们能够开设账户、发送资金，并开始交换BTC、ETC、以太坊（ETH）和其他代币。
 
-CEXs must follow regulations, so they may be very restrictive, demanding customers to present evidence of identity and residence, performing background checks, and asking what is the source of their funds.
+CEX必须遵循法规，因此可能非常严格，要求客户提供身份和居住地的证明，进行背景检查，并询问资金来源。
 
-Among the risks of centralized exchanges is that they may go bankrupt and customers may lose their deposits and assets.
+中心化交易所的风险之一是它们可能破产，导致客户失去存款和资产。
 
-Kraken in particular is one of the largest cryptocurrency exchanges in the US and the world, it started operations in the United States in 2011, and now has an international presence.
+具体而言，Kraken是美国和全球最大的加密货币交易所之一，它于2011年开始在美国运营，现在已经具有国际业务。
 
-## Moving Your ETC to Non-Custodial Wallets
+## 将您的ETC转移到非托管钱包
 
 ![](0.png)
 
-Although you may be using a centralized cryptocurrency exchange for buying and trading in Ethereum Classic, the best way to [manage your ETC](https://ethereumclassic.org/blog/2023-05-31-how-to-start-using-etc-from-scratch) is to buy them in the centralized exchanges but then moving them to [non-custodial wallets](https://ethereumclassic.org/blog/2023-05-04-ethereum-classic-course-20-what-are-custodial-and-non-custodial-wallets) that you control.
+虽然您可能在中心化的加密货币交易所购买和交易以太经典，但[管理您的ETC](https://ethereumclassic.org/blog/2023-05-31-how-to-start-using-etc-from-scratch)的最佳方式是在中心化交易所购买后，将它们转移到[非托管钱包](https://ethereumclassic.org/blog/2023-05-04-ethereum-classic-course-20-what-are-custodial-and-non-custodial-wallets)，以便您有控制权。
 
-The steps are as follows:
+步骤如下：
 
-1. You start with your cash in your bank account
-2. You move your cash to the crypto exchange
-3. You buy ETC at the crypto exchange
-4. You get a non-custodial wallet or hardware wallet
-5. You move all your ETC to your non-custodial wallet
+1. 从您的银行账户开始
+2. 将现金转移到加密交易所
+3. 在加密交易所购买ETC
+4. 获得非托管钱包或硬件钱包
+5. 将所有ETC转移到您的非托管钱包
 
-The above method is the most secure method because you end up with your ETC on the blockchain directly, under your own control with your private keys, rather than at the centralized exchange, under their control.
+上述方法是最安全的方法，因为您最终将直接拥有在区块链上的ETC，由您自己的私钥控制，而不是在中心化交易所，由它们控制。
 
-In other words, it is more trust minimized.
-
-## Opening a Kraken Account
+## 开设Kraken账户
 
 ![](./1.png)
 
-The first step to create your account on Kraken will be to go to [Kraken.com](https://www.kraken.com/), then press on the “Sign up” button, and select the type of user you are, “Personal” or “Business”, and then proceed to the following stages. For this post we will use the “Personal” user path.
+在Kraken上创建账户的第一步是访问[Kraken.com](https://www.kraken.com/)，然后点击“注册”按钮，选择您是“个人”还是“商业”用户，然后按照以下步骤操作。在这篇文章中，我们将使用“个人”用户路径。
 
-As an individual, you need to enter your email and select a strong password. Then Kraken will ask you to verify your email.
+作为个人用户，您需要输入您的电子邮件并选择强密码。然后，Kraken将要求您验证您的电子邮件。
 
-After this, Kraken will ask you if you are new to crypto, if you own some crypto, or if you are experienced. We will choose the “I am new to crypto” option. 
+之后，Kraken将询问您是否是新手，是否拥有一些加密货币，或者是否有经验。我们将选择“我是新手”选项。
 
-Kraken will also ask you for your cell phone number and to add your personal information, which will include your name, your address, government ID, and other government documentation depending on your country.
+Kraken还会要求您提供您的手机号码和个人信息，包括您的姓名、地址、政府身份证明以及根据您所在国家可能需要的其他政府文件。
 
-Kraken uses identity verification in order to comply with Know Your Customer (KYC) laws. This means you will need to get an identity document, such as drivers license or passport, take photos of it, and submit them to Kraken through your computer or your Kraken phone app. They also may ask to upload or take a photo of yourself to verify the ID document.
+Kraken使用身份验证以符合了解您的客户（KYC）法规。这意味着您需要获取身份文件，例如驾驶执照或护照，拍摄照片，并通过您的计算机或Kraken手机应用程序将其提交给Kraken。他们还可能要求您上传或拍摄一张身份文件验证的照片。
 
-## Kraken or Kraken Pro?
+## Kraken还是Kraken Pro？
 
 ![](./2.png)
 
-When you go through the process above, you will notice that one of the steps is to select whether you want to use Kraken or Kraken Pro.
+在上述过程中，您将注意到其中一步是选择是否要使用Kraken还是Kraken Pro。
 
-Kraken is a basic service with a centralized wallet where you can see your balances, send and receive dollars, send and receive crypto, and easily buy and sell crypto.
+Kraken是一个基本服务，具有中心化的钱包，您可以在其中查看余额、发送和接收美元、发送和接收加密货币，并轻松购买和出售加密货币。
 
-Kraken Pro is for traders, professionals, or large volume investors.
+Kraken Pro专为交易员、专业人士或大额投资者设计。
 
-For this example, which is for new users, we will choose “Kraken”.
+对于这个例子，针对新用户，我们将选择“Kraken”。
 
-## Connecting a Bank Account and Depositing Money
+## 连接银行账户并存款
 
 ![](./3.png)
 
-After creating your account on Kraken, you can connect a bank account to your Kraken profile. This is to move fiat money to your Kraken account and then be able to buy ETC.
+在Kraken上创建账户后，您可以将银行账户连接到Kraken个人资料。这是为了将法定货币转移到您的Kraken账户，然后能够购买ETC。
 
-The payment methods available to connect in the United States are bank accounts and debit cards, but you may have other options in your country. We will use the bank account method in this post.
+在美国，可用的支付方法包括银行账户和借记卡，但您可能在您的国家有其他选项。在这篇文章中，我们将使用银行账户方法。
 
-To connect your bank account click on the “Transfer” link on the left menu and then select the “Add new account” button.
+要连接银行账户，请点击左侧菜单上的“转账”链接，然后选择“添加新账户”按钮。
 
-After you do this, you can proceed to add money to your Kraken account.
+完成此操作后，您可以继续向您的Kraken账户中添加资金。
 
-## Buying ETC on Kraken
+## 在Kraken上购买ETC
 
 ![](./4.png)
 
-Once you are all set with an account and transferred fiat money to your Kraken account, you will be ready to buy ETC.
+一旦您在Kraken上创建了账户并将法定货币转移到您的Kraken账户，您就可以准备购买ETC。
 
-There are two ways of buying ETC, the first one is the more rudimentary, which is to click on the “Buy crypto” button on the top right of the Kraken website or on your app. This method is just to buy and leave your ETC in your account, or to transfer them to your non-custodial wallet.
+购买ETC有两种方式，第一种是更基础的方式，即在Kraken网站或应用程序的右上角点击“购买加密货币”按钮。此方法只是购买并将您的ETC留在您的账户中，或将它们转移到您的非托管钱包。
 
-The second way, as explained before, is to use “Kraken Pro”, which is a professional trading platform for traders or large volume customers. We did not choose this method for this post.
+如前所述，第二种方式是使用“Kraken Pro”，这是一个专业的交易平台，供交易员或大额客户使用。我们在本文中未选择此方法。
 
-In both cases the commissions may vary according to your trading volume or the way you trade. But, they hover around 1.5% for medium and small trades on the regular service, or as low as 0.10% when trading on the Pro service.
+在两种情况下，佣金可能根据您的交易量或交易方式而有所不同。但是，在常规服务中，中小交易的佣金大约在1.5%左右，或在专业服务中交易时可能低至0.10%。
 
-Once you buy your ETC, they will be credited to your account and stay there until you move them or sell them again.
+一旦购买了您的ETC，它们将被记入您的账户，并保留在那里，直到您将它们移动或再次出售。
 
-## Sending ETC
+## 发送ETC
 
 ![](./5.png)
 
-When you buy ETC on Kraken they will probably become available to withdraw after a few days so you will be able to send them to your non-custodial wallet or other destinations.
+当您在Kraken上购买ETC后，它们可能会在几天后可用于提取，因此您可以将它们发送到您的非托管钱包或其他目的地。
 
-It may take a few days because your cash from the bank actually takes several days to move from your bank to Kraken. However, if you live in a jurisdiction that has instant bank transfers or other fast money transfer systems, you may have your purchased ETC available for withdrawal sooner.
+这可能需要几天，因为从您的银行取出现金实际上需要几天时间才能从银行转移到Kraken。但是，如果您居住在具有即时银行转账或其他快速货币转移系统的司法管辖区，您可能更早地可以提取购买的ETC。
 
-The way to send your ETC to your non-custodial wallet or to any other destination is by clicking on the “Transfer” tab again on the left menu, and then on the “Withdraw” link on the horizontal menu on the website or on your app.
+将ETC发送到非托管钱包或其他目的地的方式是再次点击左侧菜单上的“转账”选项，然后在网站或应用程序的水平菜单上点击“提取”链接。
 
-In the next step, select ETC and you can put the ETC address of your non-custodial wallet by clicking on the “Add Ethereum Classic address” button, or you can send to any other address.
+在下一步中，选择ETC，然后通过点击“添加以太经典地址”按钮，将您的非托管钱包的ETC地址添加进去，或者您可以发送到任何其他地址。
 
-## Receiving ETC
+## 接收ETC
 
 ![](./6.png)
 
-To receive ETC, you need to go again to the “Transfer” tab on the left menu, and then click on the “Deposit” button on the horizontal menu.
+要接收ETC，您需要再次转到左侧菜单上的“转账”选项，然后点击水平菜单上的“存款”按钮。
 
-In the next step, select ETC as the asset you want to receive, and then copy the address to send it to others, to paste on your own non-custodial wallet if you are sending ETC to your own Kraken account, or just show the QR code to others to send you ETC.
+在下一步中，选择要接收的资产为ETC，然后复制地址以将其发送给其他人，粘贴到您自己的非托管钱包中（如果您要将ETC发送到您自己的Kraken账户），或者向其他人显示QR代码以接收ETC。
 
-## Kraken Has Lowered the Confirmation Times on ETC!
+## Kraken已降低ETC的确认时间！
 
 ![](./7.png)
 
-After 51% attacks in 2019 and 2020 in ETC, many exchanges raised their confirmation times to very high levels.
+在2019年和2020年的ETC发生51%攻击后，许多交易所将其确认时间提高到非常高的水平。
 
-It could take several days to deposit ETC in some exchanges. This was due to the risk of double spends or 51% attacks if thieves wanted to commit fraud by reversing the chain.
+在一些交易所中，存款ETC可能需要数天时间。这是由于如果窃贼想通过反向链来实施欺诈，存在双花或51%攻击的风险。
 
-Now that ETC is the leading proof of work smart contracts blockchain in the world many exchanges have lowered these restrictions.
+现在，ETC是世界上领先的工作量证明智能合约区块链，许多交易所已经降低了这些限制。
 
-Kraken had raised their confirmation times to 40,000 blocks for a long time, which meant that users had to wait up to 6 days to have their ETC free to trade!
+Kraken曾将其确认时间提高到40,000个区块很长时间，这意味着用户需要等待长达6天才能自由交易他们的ETC！
 
-Now Kraken, like many other exchanges, has lowered the waiting period to only 12 hours or 2,880 confirmations!
+现在，像许多其他交易所一样，Kraken已将等待期降低到仅为12小时或2,880个确认！
 
-## Who Uses Kraken for Buying and Selling ETC?
+## 谁使用Kraken购买和出售ETC？
 
 ![](./8.png)
 
-**Investors:** ETC is an excellent long term investment alternative. This has attracted many investors who use exchanges such as Kraken to transfer their fiat money to exchange it for Ethereum Classic. However, these ETC buyers should think of moving their holdings to non-custodial wallets as explained before, so their assets may be more secure.
+**投资者：** ETC是一个出色的长期投资选择。这吸引了许多投资者使用诸如Kraken之类的交易所将他们的法定货币转移到交换为以太经典。但是，这些ETC买家应考虑按照前面解释的方式将其持有物转移到非托管钱包，以使其资产更加安全。
 
-**Miners:** A segment that uses exchanges frequently to trade ETC are miners. Ethereum Classic miners earn an average of 17,000 ETC per day, but they have to pay for their operations, which include payroll, data center costs, and electricity costs. For this they usually liquidate some of their daily earnings on exchanges such as Kraken to transform them into cash to pay for their bills.
+**矿工：** 经常使用交易所进行ETC交易的一个细分是矿工。以太经典矿工每天平均赚取17,000个ETC，但他们必须支付运营成本，包括工资、数据中心成本和电费。因此，他们通常会在诸如Kraken之类的交易所上抛售部分每日收益，以将其转化为现金支付账单。
 
-**Speculators:** Trading volumes on ETC are relatively high globally and much of this is by speculators who trade daily on exchanges such as Kraken. These participants are beneficial to the ecosystem as they provide liquidity to all other buyers and sellers.
+**投机者：** 全球范围内ETC的交易量相对较高，其中许多是由在交易所上进行日常交易的投机者完成的，如Kraken。这些参与者对生态系统有益，因为它们为所有其他买家和卖家提供了流动性。
 
-**Merchants:** Although still small, the use of ETC for buying a selling things in the broader economy is growing. Merchants who let their customers purchase items with ETC will use centralized exchanges as Kraken to liquidate their holdings for paying for their business expenses.
+**商户：** 尽管规模较小，但在更广泛的经济中使用ETC购买和销售商品的趋势正在增长。允许客户使用ETC购买物品的商户将使用诸如Kraken之类的中心化交易所抛售其持有物以支付业务费用。
 
 ---
 
-**Thank you for reading this article!**
+**感谢阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解有关ETC的更多信息，请访问：https://ethereumclassic.org
