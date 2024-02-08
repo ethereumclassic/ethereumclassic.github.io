@@ -1,5 +1,5 @@
 ---
-title: "ETC POW Course: 14. POW Winners Compared to Global Reserve Currencies"
+title: "ETC POW课程：14. 与全球储备货币相比的POW获胜者"
 date: 2024-02-15
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 https://youtu.be/wb7yyWTa_24
 
@@ -16,85 +16,84 @@ https://youtu.be/wb7yyWTa_24
 
 ![](./banner.png)
 
-In the previous class, 13, we explained why in the future there will likely be only 3 or 4 winning proof of work (POW) blockchains in the world. 
+在上一节课中，第13节，我们解释了未来世界可能只会有3或4个获胜的工作量证明（POW）区块链的原因。
 
-The reasons revolve around network effects, standards, and that these things tend to induce the market to use very few leading formats.
+这些原因围绕着网络效应、标准以及这些因素往往会促使市场使用极少数的领先格式。
 
-Because POW blockchains, especially Ethereum Classic (ETC), behave as operating systems, then the analogy with the current worldwide market for computer operating systems is justified: There are 4 large players; Android, Windows, iOS, and OS X; and the rest are insignificant.
+因为POW区块链，特别是以太坊经典（ETC），表现得像操作系统一样，那么与当前全球计算机操作系统市场的类比是合理的：有4个主要的参与者，分别是Android、Windows、iOS和OS X；其余都微不足道。
 
-In this class, 14, we will continue this analysis but we will compare POW blockchains with global reserve currencies and see how the similarities also hold.
+在这第14节课中，我们将继续这个分析，但会将POW区块链与全球储备货币进行比较，看看这些相似之处是否也成立。
 
-## What Is a Reserve Currency?
+## 什么是储备货币？
 
-The traditional description of money in economics is that it is a product that must be scarce, durable, portable, divisible, fungible, and transferable. When the market in a given economy adopts a certain form of money, it usually turns into the main or only form in that particular environment.
+经济学上对货币的传统描述是，它必须是稀缺的、耐用的、便携的、可分割的、可替代的和可转让的产品。当一个给定经济体的市场采用某种形式的货币时，通常会变成该特定环境中的主要或唯一形式。
 
-An additional definition of money by Nick Szabo, which applies to POW cryptocurrencies, is that they need to be costly to create. This “unforgeable costliness” given by POW  guarantees one of the main attributes, which is scarcity.
+由Nick Szabo提出的对POW加密货币的额外定义是，它们需要昂贵才能创建。由POW提供的“不可伪造的昂贵性”确保了其中一个主要属性，即稀缺性。
 
-On a global scale, when multiple economies are interconnected, usually there is one or few of the currencies in one or some of the participating economies that are adopted as the reserve currencies.
+在全球范围内，当多个经济体相互连接时，通常有一种或几种货币在其中一个或一些参与经济体中被采用为储备货币。
 
-Reserve currencies are the ones that promise scarcity so they can give certainty to the market that they will preserve their value.
+储备货币是那些承诺稀缺性以便向市场提供它们将保持其价值的确定性的货币。
 
-## Why Do Reserve Currencies Emerge?
+## 为什么会出现储备货币？
 
-Once one or a few forms of money become reserve currencies, then governments, central banks, and private organizations globally tend to adopt them as stores of value.
+一旦某种或几种货币成为储备货币，那么全球范围内的政府、中央银行和私人组织通常会将其采用为价值存储工具。
 
-The status of reserve currency makes a form of money more demanded, it becomes the unit of account, and it is used to denominate the majority of international transactions, contracts, and debt obligations. 
+储备货币的地位使一种货币更受欢迎，它成为计价单位，并用于标价大多数国际交易、合同和债务义务。
 
-Governments and market players make these choices that result in very few global reserve currencies because of the following reasons:
+由于以下原因，政府和市场参与者做出这些选择，这导致全球储备货币非常有限：
 
-**Mental costs:** If multiple economies, lenders, debtors, traders, exporters, importers, and other economic agents were to adopt many currencies, then the mental cost of tracking and processing trade would be very high and finances and payments would become risky and unmanageable.
+**心理成本：** 如果多个经济体、借款人、债务人、交易商、出口商、进口商和其他经济主体采用许多货币，那么跟踪和处理贸易的心理成本将非常高，财务和支付将变得风险重重且难以管理。
 
-**Coordination costs:** If multiple economies, lenders, debtors, traders, exporters, importers, and other economic agents were to adopt many currencies, then the cost of coordination between all these players would skyrocket and commerce and contracts would shrink as they become cumbersome and onerous.
+**协调成本：** 如果多个经济体、借款人、债务人、交易商、出口商、进口商和其他经济主体采用许多货币，那么所有这些参与者之间的协调成本将飙升，商业和合同将因变得繁琐和烦琐而萎缩。
 
-**Simplification of prices:** Related to mental costs, if many currencies were adopted by the global economy, then there would need to be many prices for each product making the system confusing and difficult to grasp.
+**价格简化：** 与心理成本相关，如果全球经济采用了许多货币，那么每种产品都需要有许多价格，使得系统变得混乱且难以理解。
 
-**Network effects:** Once a critical mass of economic agents adopt a currency to simplify their life and do commerce and contracting more efficiently, then that currency becomes more valuable for other agents who want to participate in the global economy. The more peoples use a currency worldwide the more valuable it becomes for other peoples.
+**网络效应：** 一旦达到了经济主体采用一种货币以简化他们的生活并更有效地进行商业和合同，那么该货币对于希望参与全球经济的其他主体来说就变得更有价值。全球范围内使用某种货币的人越多，对其他人来说它就变得更有价值。
 
-For all of the reasons above, global reserve currencies inexorably emerge.
+由于以上所有原因，全球储备货币势不可挡地出现。
 
-## What Are the Current Reserve Currencies in the World?
+## 当前世界的储备货币是什么？
 
 ![](./1.png)
 
-For those who may say that blockchains are not operating systems, as we described in the previous class, but are reserve currencies, we can say exactly the same for reserve currencies anyway. 
+对于那些可能说区块链不是操作系统，正如我们在上一节中所描述的那样，而是储备货币的人，我们同样可以对储备货币说同样的话。
 
-Global reserve currencies have the same network effects and there are 3 or 4 winners in that segment as well.
+全球储备货币具有相同的网络效应，同样有3或4个在这一领域获胜的人。
 
-As may be seen in the chart in this section, the first 4 top global reserve currencies; the US dollar, the euro, the yen, and the pound sterling; have a combined share of 89.29%. This follows the same pattern as with operating systems. 
+正如本节中的图表所示，前4个全球储备货币，美元、欧元、日元和英镑的联合份额为89.29%。这与操作系统的模式相同。
 
-Note the distribution in global reserve currencies that the largest is very large, and then the rest fall steeply, and after the fourth player the rest are practically insignificant.
+请注意，全球储备货币的分布是最大的非常大，然后其余的迅速下降，而在第四名之后的其余货币几乎微不足道。
 
-All this affirms the thesis that there will be 3 or 4 very large POW blockchains in the future as they follow both the pattern of operating systems and global reserve currencies.
+所有这些都证实了这一观点：未来将会有3或4个非常大的POW区块链，因为它们既符合操作系统的模式，又符合全球储备货币的模式。
 
-## Why Bitcoin, ETC, and Other Cryptocurrencies Will Prevail
+## 为什么比特币、ETC和其他加密货币将占主导地位
 
-If we can conclude that there will be very few winning cryptocurrency platform that will command the largest market share globally, then we can analyze how these will not only dominate within the blockchain industry but will do so in other segments of the economy as well.
+如果我们能得出这样的结论：将会有很少数的获胜的加密货币平台在全球占据最大市场份额，那么我们可以分析这些加密货币不仅将在区块链行业内占主导地位，而且在经济的其他领域也将如此。
 
-Just as Gold, Silver, copper, and other metals were the money and reserve currencies for centuries in the past, it is very likely that Bitcoin, ETC and other cryptocurrencies, such as Litecoin and Monero, will also occupy that space.
+正如黄金、白银、铜等金属在过去几个世纪中一直是货币和储备货币一样，很可能比特币、ETC和其他加密货币，如莱特币和门罗币，也将占据这个领域。
 
-The shelflife left for fiat money is very short. It may take only two or three more decades for hard money cryptocurrency coins to take over as reserve currencies globally.
+法定货币的寿命非常短。硬币加密货币可能只需要两三十年的时间就能在全球范围内取代。
 
-The main attraction of these forms of money are not only their hard coded scarcity but that they are trust minimized, so no hegemonic powers can control the financial affairs of other countries at their will.
+这些形式的货币的主要吸引力不仅在于它们的硬编码稀缺性，而且在于它们是信任最小化的，因此没有霸权国家可以随心所欲地控制其他国家的金融事务。
 
-## These Trends Are Already Observable in the Blockchain Industry
+## 这些趋势在区块链行业中已经可观察到
 
 ![](./2.png)
 
-As we mentioned in the previous class, in aggregate, the trends mentioned in these posts are already observable in the blockchain industry. Bitcoin has consistently had a share of around 50% of the whole market for a long time. Ethereum, as the second largest chain, has had a share of around 25%, and from there on the rest tend to be much smaller, or insignificant.
+正如我们在上一节中提到的，从总体上看，这些帖子中提到的趋势在区块链行业中已经可以观察到。比特币长期以来一直占据整个市场的大约50%份额。作为第二大链的以太坊，其份额约为25%，然后其余的趋势往往要小得多，或微不足道。
 
-## Conclusion
+## 结论
 
 ![](./3.png)
 
-Given that blockchains will likely behave as operating systems and reserve currencies, that these segments usually have 3 or 4 large players, and that these trends are already observable in the current market, we may deduce that the Proof of Work blockchain layer of the industry will have 3 or 4 large players as well, and that the rest will likely be insignificant.
+考虑到区块链很可能会像操作系统和储备货币一样运作，这些领域通常有3或4个大玩家，而且这些趋势已经在当前市场上可以观察到，我们可以推断，区块链行业的工作量证明层将会有3或4个大玩家，而其他可能会微不足道。
 
-Consistent with this view, we estimate that Bitcoin will continue to command a 50% share in the POW segment, then Ethereum Classic, as a programmable digital gold system, will likely rise to around a 25% share, then another system, probably Litecoin, will have around a 12.5% share, then maybe Monero, because of its privacy positioning, a 6.25% share, and the rest will follow but with less significant sizes.
+与这一观点一致，我们估计比特币将继续在POW领域占据50%的份额，然后作为可编程数字黄金系统的以太坊经典可能会占据25%的份额，然后另一个系统，可能是莱特币，将占据12.5%的份额，然后可能是门罗，由于其隐私定位，将占据6.25%的份额，其余将随之而来但规模不太显著。
 
-In our next class we will explain how these things will play out with regard to the layers of the blockchain industry.
-
+在我们的下一节课中，我们将解释这些事情将如何在区块链行业的各个层面发挥作用。
 
 ---
 
-**Thank you for reading this article!**
+**感谢阅读本文章！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
