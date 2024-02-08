@@ -1,3 +1,19 @@
+- date: 2024-02-02
+  title: SafeClassic
+  description: SafeClassic - The first Deflationary token of the ecosystem Ethereum Classic
+  image: ./images/240202-1634-safeclassic.jpeg
+  type: other
+  author: Max Classic
+  verifiedContract: https://etc.blockscout.com/address/0xEce01807F7d9B93529174533E997e5DE168B0b39
+  links:
+    - name: Launch App
+      link: https://safeclassic.com/
+    - name: Twitter
+      link: https://twitter.com/SafeClassic
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/safeclassicgroup
+      icon: telegram
 - title: MonoNFT
   date: 2023-11-22
   description: A non-fungible token Marketplace.
