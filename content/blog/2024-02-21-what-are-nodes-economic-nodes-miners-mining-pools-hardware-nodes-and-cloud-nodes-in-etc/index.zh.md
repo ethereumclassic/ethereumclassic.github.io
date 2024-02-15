@@ -1,5 +1,5 @@
 ---
-title: "What Are Nodes, Economic Nodes, Miners, Mining Pools, Hardware Nodes, and Cloud Nodes in ETC?"
+title: "什么是ETC中的节点、经济节点、矿工、矿池、硬件节点和云节点"
 date: 2024-02-21
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W9y2BrwOMZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,96 +16,96 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-Recently we wrote an article on why [more nodes](https://ethereumclassic.org/blog/2024-01-16-why-more-nodes-makes-ethereum-classic-more-secure) makes Ethereum Classic (ETC) more secure.
+最近，我们撰写了一篇关于为什么[更多节点](https://ethereumclassic.org/blog/2024-01-16-why-more-nodes-makes-ethereum-classic-more-secure)使得以太坊经典（ETC）更安全的文章。
 
-We also wrote an article on the difference between [nodes and miners](https://ethereumclassic.org/blog/2024-01-17-the-difference-between-nodes-and-miners-in-ethereum-classic) in ETC noting that there was some additional confusion with regard to mining, staking, liquidity providers, and yield harvesting, while clarifying these concepts.
+我们还写了一篇关于[节点和矿工](https://ethereumclassic.org/blog/2024-01-17-the-difference-between-nodes-and-miners-in-ethereum-classic)在ETC中的区别，指出在挖矿、质押、流动性提供者和收益获取方面存在一些额外的混淆，同时澄清了这些概念。
 
-And, finally, we wrote a post to help users understand the ETC [node count](https://ethereumclassic.org/blog/2024-02-20-understanding-the-ethereum-classic-node-count-on-etcnodes-org) and statistics on [ETCNodes.org](https://etcnodes.org/).
+最后，我们撰写了一篇帮助用户了解ETC [节点计数](https://ethereumclassic.org/blog/2024-02-20-understanding-the-ethereum-classic-node-count-on-etcnodes-org)和 [ETCNodes.org](https://etcnodes.org/)上的统计数据的文章。
 
-But, many may be asking, what are nodes? And, what are the different kinds of participants in the network?
+但是，许多人可能会问，什么是节点？还有，网络中有哪些不同类型的参与者？
 
-In this post we will go over what are nodes, economic nodes, miners, mining pools, hardware nodes, and cloud nodes.
+在这篇文章中，我们将介绍节点、经济节点、矿工、矿池、硬件节点和云节点。
 
-## What Are Nodes in Ethereum Classic?
+## 以太坊经典中的节点是什么？
 
-Blockchains are peer to peer networks and each participating machine in the system is called a node.
+区块链是点对点网络，系统中的每台参与计算机都被称为一个节点。
 
-For a machine to be a node it needs to run a software application that contains the set of rules of the protocol of that particular network. In ETC the most popular software client is [Core Geth](https://ethereumclassic.org/blog/2022-12-27-core-geth-explained).
+要使一台计算机成为节点，它需要运行一个包含该特定网络协议规则集的软件应用程序。在ETC中，最受欢迎的软件客户端是[Core Geth](https://ethereumclassic.org/blog/2022-12-27-core-geth-explained)。
 
-The participating computers in Ethereum Classic that don’t create blocks, but constantly receive and redistribute new transactions, and do the same with new blocks, are what are called “nodes”.
+在以太坊经典中，不创建区块但不断接收和重新分发新交易，并对新区块执行相同操作的计算机被称为“节点”。
 
-These machines redistribute transactions and blocks, and keep a copy of the whole chain of blocks, also known as a ‘blockchain’, in their local disk drive.
+这些计算机重新分发交易和区块，并在其本地磁盘驱动器上保留整个区块链的副本，也称为“区块链”。
 
 ![](./1.png)
 
-Nodes are located everywhere in the world and have the essential role of constantly verifying that transactions and blocks are correct and true.
+节点分布在世界各地，其基本作用是不断验证交易和区块是否正确和真实。
 
-The other essential role of nodes is to create a global level of redundancy in the blockchain of ETC; which contains the accounts, balances, and smart contracts of all users; so that it becomes practically impossible to take down or attack the network because it is replicated in so many places. 
+节点的另一个基本作用是在ETC的区块链中创建全球级的冗余，其中包含所有用户的帐户、余额和智能合约；这使得网络变得几乎不可能被关闭或攻击，因为它在如此多的地方复制。
 
-## What Are Economic Nodes?
+## 什么是经济节点？
 
-At the time of this writing there were 5,063 ETC nodes worldwide. A subgroup of those nodes are what are called ‘economic nodes’.
+在撰写本文时，全球范围内有5,063个ETC节点。这些节点中的一个子组被称为“经济节点”。
 
-Economic nodes are financially significant nodes ran by key business players in the ecosystem that tend to process large financial capital volumes and large numbers of transactions per day.
+经济节点是由生态系统中关键业务参与者运行的财务上重要的节点，它们往往处理大量财务资本和每天大量的交易。
 
-For example, centralized exchanges such as [Coinbase](https://ethereumclassic.org/blog/2023-10-04-buying-and-trading-etc-through-coinbase), [Kraken](https://ethereumclassic.org/blog/2024-02-13-buying-and-trading-etc-through-kraken), and [Binance](https://www.binance.com/en/how-to-buy/ethereum-classic) run their own nodes to verify incoming transactions, check balances, hold custody of their customer’s funds, and to send transactions to the system.
+例如，中心化交易所，如[Coinbase](https://ethereumclassic.org/blog/2023-10-04-buying-and-trading-etc-through-coinbase)、[Kraken](https://ethereumclassic.org/blog/2024-02-13-buying-and-trading-etc-through-kraken)和[Binance](https://www.binance.com/en/how-to-buy/ethereum-classic)运行它们自己的节点，以验证传入的交易、检查余额、保管客户资金，并将交易发送到系统。
 
-These kinds of node operators manage massive volumes of transactions, hold billions of dollars in custody, and are critical at the time of network upgrades.
+这类节点运营商管理大量的交易量，保管数十亿美元的资金，在网络升级时至关重要。
 
-Other kinds of economic nodes may be wallet operators and block explorers.
+其他类型的经济节点可能包括钱包操作者和区块浏览器。
 
-## What Are Miners in Ethereum Classic?
+## 以太坊经典中的矿工是什么？
 
-Aside from the stock of visible nodes in ETC there is an additional stock of machines, of which many are not visible, that are miners.
+除了ETC中可见的节点库存外，还有一部分机器，其中许多是不可见的，它们是矿工。
 
-Miners receive transactions from common nodes, group them in batches, stamp them with a cryptographic hash doing a lot of work (hence ‘[proof of work](https://ethereumclassic.org/blog/2023-02-23-ethereum-classic-course-10-proof-of-work-explained)’), and then send the finished blocks back to the rest of the network for verification.
+矿工从普通节点接收交易，将它们分组成批次，用密码哈希戳记它们（因此称为“[工作证明](https://ethereumclassic.org/blog/2023-02-23-ethereum-classic-course-10-proof-of-work-explained)”），然后将已完成的区块发送回网络供验证。
 
-Miners are critical to Ethereum Classic because their work fulfills several roles:
+矿工对以太坊经典至关重要，因为他们的工作履行了几个角色：
 
-1. It enables consensus between all participants worldwide
-2. It protects the history of the ledger from tampering
-3. It enables computers in the network to unify back in case of splits
+1. 它在全球范围内实现共识
+2. 保护总帐的历史免受篡改
+3. 在分裂的情况下，使网络中的计算机重新统一
 
-## What Are Mining Pools?
+## 什么是矿池？
 
-The reason that there are a large number of mining machines not visible as common nodes in the ETC network is that a large portion of them work through mining pools.
+在ETC网络中，有许多不可见的矿机之所以如此之多，是因为其中很大一部分是通过矿池工作的。
 
-Mining pools run their own ETC nodes, and are yet another important kind of economic node.
+矿池运行它们自己的ETC节点，是另一种重要的经济节点。
 
-Mining pools gather large amounts of hashrate from many mining machines across the world and present themselves to the network as a single visible large player with enormous amounts of computing power.
+矿池从全球范围内的许多矿机中聚集大量的哈希率，并将自己呈现给网络，作为一个具有巨大计算能力的单一可见玩家。
 
-This benefits miners because by pooling their resources they gain a higher probability of winning blocks and they get paid more frequently rather than sporadically.
+这使得矿工通过集中资源，获得赢得区块的更高概率，并且他们更频繁地而不是零星地获得报酬。
 
-Mining pools make money by charging miners a percentage of the mining rewards they earn through them.
+矿池通过向矿工收取他们通过其获得的挖矿奖励的一部分来赚钱。
 
-Some important mining pools in ETC are [F2pool](https://ethereumclassic.org/blog/2023-09-13-mining-ethereum-classic-through-f2pool) and [2miners](https://ethereumclassic.org/blog/2023-03-14-mining-ethereum-classic-with-an-ipollo-asic-through-2miners-pool).
+在ETC中一些重要的矿池包括[F2pool](https://ethereumclassic.org/blog/2023-09-13-mining-ethereum-classic-through-f2pool)和[2miners](https://ethereumclassic.org/blog/2023-03-14-mining-ethereum-classic-with-an-ipollo-asic-through-2miners-pool)。
 
-## What Are Hardware Nodes in Ethereum Classic?
+## 以太坊经典中的硬件节点是什么？
 
-One of the most important principles in the blockchain industry is that as many people as possible should run their own nodes.
+在区块链行业中的一个最重要原则是尽可能让更多的人运行自己的节点。
 
-This is because, by running a node, users can verify balances by themselves and send transactions directly to the blockchain rather than depending on trusted third parties.
+这是因为通过运行节点，用户可以自行验证余额并直接将交易发送到区块链，而不依赖于可信第三方。
 
-One of the ways of doing this practically is to buy what are called ‘hardware nodes’.
+实现这一点的一种实际方法是购买所谓的“硬件节点”。
 
-Hardware nodes are dedicated machines that run ETC nodes, usually using the Core Geth software client.
+硬件节点是专用机器，运行ETC节点，通常使用Core Geth软件客户端。
 
-People and businesses may install these devices in their homes or offices and use them to send transactions, verify their balances, and support the blockchain at large by verifying blocks and holding a copy of the full database.
+个人和企业可以将这些设备安装在家中或办公室，并使用它们发送交易、验证余额，并通过验证区块并持有完整数据库的副本来支持整个区块链。
 
-The two important brands doing this in ETC are [Dappnode](https://ethereumclassic.org/blog/2023-04-26-how-run-an-ethereum-classic-node-using-dappnode) and [ETCMC](https://ethereumclassic.org/blog/2023-09-05-etc-spotlight-etcmc-ethereum-classic-plug-and-play-node-part-i).
+在ETC中执行此操作的两个重要品牌是[Dappnode](https://ethereumclassic.org/blog/2023-04-26-how-run-an-ethereum-classic-node-using-dappnode)和[ETCMC](https://ethereumclassic.org/blog/2023-09-05-etc-spotlight-etcmc-ethereum-classic-plug-and-play-node-part-i)。
 
-## What Are Cloud Nodes?
+## 什么是云节点？
 
-As not everyone follows the principle of running their own node as explained in the previous section, there are private services that offer what are called RPC endpoints so that users, or even wallets operators, may send transactions and check their balances.
+由于并非每个人都遵循前一部分中解释的运行自己节点的原则，因此有些私人服务提供了所谓的RPC端点，以便用户或钱包运营商可以发送交易和检查余额。
 
-This setup is not very secure because users must trust these third parties for the correct management of their transactions and information.
+这种设置并不是很安全，因为用户必须信任这些第三方正确管理他们的交易和信息。
 
-Nevertheless, these services may be considered critical infrastructure in blockchains such as ETC and consequently also have an important role at the time of network upgrades.
+然而，这些服务在以太坊经典等区块链中可能被视为关键基础设施，因此在网络升级时也发挥着重要作用。
 
-A list of public RPC endpoints for ETC may be found [on the ETC community website](https://ethereumclassic.org/network/endpoints).
+ETC的公共RPC端点列表可以在[ETC社区网站](https://ethereumclassic.org/network/endpoints)上找到。
 
 ---
 
-**Thank you for reading this article!**
+**感谢阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解有关ETC的更多信息，请访问：https://ethereumclassic.org
