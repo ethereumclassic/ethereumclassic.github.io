@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 15. POW Will Be the Base Layer of the Blockchain Industry"
+title: "ETC工作量证明课程: 15. 工作量证明将成为行业中的基础层"
 date: 2024-02-22
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,82 +8,81 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OaU2KJ2j8YQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
 ![](./banner.png)
+在上一堂课，第14堂课，我们解释了什么是储备货币，以及工作证明（POW）加密货币，如比特币（BTC）和以太坊经典（ETC），将取代当前的法定储备货币，成为未来主要的货币形式。
 
-In the previous class, 14, we explained what are reserve currencies and how proof of work (POW) cryptocurrencies such as Bitcoin (BTC) and Ethereum Classic (ETC) will displace current fiat reserve currencies to become the leading forms of money of the future.
+在这堂课，第15堂课，我们将再次讨论POW区块链如何作为操作系统行为，并可能成为全球储备货币的类比，并解释这些事物将导致这些网络成为行业的基础层，或第一层（L1）加密货币。
 
-In this class, 15, we will go over again the analogies of how POW blockchains will behave as operating systems and will likely become global reserve money, and we will explain how these things will cause these networks to become the base layer, or layer 1 (L1) cryptocurrencies in the industry.
+随后，我们将论述为什么我们认为它们将取得可能的份额，并说明这已经在当前市场中发生。
 
-Subsequently, we will argue why we think they will a have the shares they will likely achieve and how this is already happening in the current market.
+## POW区块链作为操作系统
 
-## POW Blockchains As Operating Systems
+正如我们在第13堂课中解释的，操作系统是与其安装的硬件部分相关联的软件代码，用于这些设备中使用的应用程序。
 
-As we explained in class 13, operating systems are software code that associate the parts of the hardware in which they are installed to the applications used in those devices.
+因此，它们代表了开发多个应用程序和提供商可以依赖以构建其应用程序，使其与彼此兼容并对所有用户熟悉的标准。
 
-As such, they represent standards that developers of multiple applications and providers can rely on to build their apps so they can be compatible with each other and familiar to all users.
+同样，区块链，特别是可编程的区块链，是代表开发人员必须如何使用账户、余额和操作码的软件系统的标准，以便他们的dapp相互交互，并使用户感到熟悉和有用。
 
-Similarly, blockchains, especially programmable ones, are software systems that represent standards of how accounts, balances, and opcodes must be used by developers for their dapps to interact with each other and for users to find familiar and useful.
+鉴于这种作为全球点对点网络操作系统的地位，区块链很可能会演变成这样。
 
-Given this status as operating systems but on global peer-to-peer networks, blockchains will likely evolve as such.
+## POW区块链作为储备货币
 
-## POW Blockchains as Reserve Currencies
+正如我们在第14堂课中解释的，储备货币是一小组被广泛持有的受信任货币，由政府财政部、中央银行、企业和普通人作为价值储备。
 
-As we explained in class 14, reserved currencies are a small group of trusted currencies that are widely held globally as stores of value by government treasuries, central banks, businesses, and people in general.
+正如金、银、铜和其他金属在过去几个世纪中是货币和储备货币一样，比特币、ETC和其他加密货币，如莱特币（LTC）和门罗币（XMR），也很可能占据这个空间。
 
-Just as Gold, Silver, copper, and other metals were the money and reserve currencies for centuries in the past, it is very likely that Bitcoin, ETC and other cryptocurrencies, such as Litecoin (LTC) and Monero (XMR), will also occupy that space.
+法定货币的寿命非常短，因为它们由各国政府不负责任地管理，不断贬值，并且完全受到可信赖的第三方的控制。
 
-The shelflife left for fiat money is very short because they are managed irresponsibly by their governments, they constantly lose value, and they are absolutely controlled by trusted third parties.
+硬通货币加密货币很可能在未来二三十年内取代世界储备货币。
 
-It may take only two or three more decades for hard money cryptocurrency coins to take over as reserve currencies in the world.
+这些货币的主要吸引力不仅在于它们的硬编码稀缺性，还在于它们是最小化信任的，因此没有霸权国家可以随意控制其他国家和人民的财务事务。
 
-The main attraction of these forms of money are not only their hard coded scarcity but that they are trust minimized, so no hegemonic powers can control the financial affairs of other countries and peoples at will.
-
-## The Layers of the Blockchain Industry
+## 区块链行业的层次结构
 
 ![](./1.png)
 
-Just as any technology stack is divided in layers and components, the blockchain industry will be divided in layers and components.
+正如任何技术堆栈都分为层次和组件一样，区块链行业将分为层次和组件。
 
-As the volumes managed and technology demands increase and put pressure on the current stack, more and more layers and components will be created to solve various problems that will emerge. 
+随着管理的交易量和技术需求的增加，对当前堆栈施加压力，将创建越来越多的层次和组件来解决可能出现的各种问题。
 
-These will range from handling large numbers of transactions to providing adequate security for such volumes, including the underlying accounts, balances, decentralized applications, and significant values at risk.
+这些问题将涉及处理大量交易、为这些交易提供足够的安全性，包括底层的账户、余额、分散应用程序和面临重大风险的显著价值。
 
-These pressures will result in a complex ecosystem where each component will complement others and vice versa by providing value where the others can’t.
+这些压力将导致一个复杂的生态系统，其中每个组件都将通过在其他地方提供其他地方无法提供的价值来相辅相成。
 
-As it can already be seen in the industry, the major layers that are emerging are from base layer blockchains, to proof of stake networks, the channels, rollups, and sharding technologies above them, and then the dapp and web 3 layer, topped by the user interfaces which are usually non-custodial wallets.
+正如在行业中已经可以看到的，正在崛起的主要层次包括基础层区块链、股权证明网络、通道、rollups和位于其上的分片技术，然后是dapp和web 3层，最后是通常是非托管钱包的用户界面。
 
-## Why POW Will be the Base Layer or Layer 1
+## 为什么POW将成为基础层或第一层
 
-The reason why POW blockchains will be the base layer or layer 1 of the industry is because financial system technology stacks usually organize themselves by security and scalability levels.
+POW区块链将成为行业基础层或第一层的原因是，金融系统技术堆栈通常按照安全性和可扩展性水平进行组织。
 
-Highly secure objects of value such as gold, silver, or physical cash are usually stored in technologies such as vaults. Then, ledgers and transaction communications systems are created on top so that people and businesses can transfer ownership of these assets through higher layer rails. These rails usually have the capacity to process larger volumes of transactions, but are less secure.
+像黄金、银、现金等价值高度安全的对象通常存储在金库等技术中。然后，在其上创建分类帐和交易通信系统，以便人们和企业可以通过更高层的轨道转让这些资产的所有权。这些轨道通常能够处理更大量的交易，但安全性较低。
 
-Because POW blockchains, as digital gold, are the most secure and valuable, but are unscalable, then all the other systems will be built on top to be able to provide scalability to the base layer.
+因为POW区块链，作为数字黄金，是最安全和有价值的，但不可扩展，所以所有其他系统将在其上构建，以提供可扩展性给基础层。
 
-## What Will be the Size of the Top POW Blockchains
+## 最大的POW区块链的规模将是多大
 
 ![](./2.png)
 
-As a simplification, and following the pattern of operating systems and reserve currencies explained in the previous classes, we could say that the largest POW coin, likely BTC, will have around a 50% market share in the segment, then the second one, probably ETC, 1/2 of that or 25%, the next one, possibly LTC, 12.50%, the fourth, maybe XMR, 6.25%, and all the rest the remaining 6.25%. 
+为了简化，并遵循前面课程中解释的操作系统和储备货币的模式，我们可以说最大的POW硬币，可能是BTC，将在该细分市场中占据约50%的市场份额，其次是第二个，可能是ETC，其份额的1/2，或25%，接下来，可能是LTC，12.50%，第四个可能是XMR，6.25%，而所有其余的则剩下6.25%。
 
-These very large, unscalable, but very secure base layer blockchains will be the reserve currencies and operating systems of the world and serve as anchors for the whole industry. 
+这些非常庞大、不可扩展、但非常安全的基础层区块链将成为世界的储备货币和操作系统，并作为整个行业的锚点。
 
-On top of these systems Proof of Stake networks may create more scalable and diverse services as second layers that anchor on POW; with channels, sharding, and rollups as third layers; then dapps and web3 applications; and, finally, the wallet brands and other interfaces with end users at the top.
+在这些系统之上，权益证明网络可能创建更具可扩展性和多样性的服务，作为锚定POW的第二层；然后是通道、分片和rollups作为第三层；然后是dapps和web3应用程序；最后是非托管钱包等接口与最终用户接触。
 
-## These Trends Are Already Observable in the Blockchain Industry
+## 这些趋势已经在区块链行业中可观察到
 
 ![](./3.png)
 
-As we mentioned in the previous classes, in aggregate, the trends mentioned in these posts are already observable in the blockchain industry. Bitcoin has consistently had a share of around 50% of the whole market for a long time. Ethereum, as the second largest chain, has had a share of around 25%, and from there on the rest tend to be much smaller, or insignificant.
+正如我们在前几堂课中提到的，总体而言，这些帖子中提到的趋势已经在区块链行业中可观察到。比特币一直在整个市场中保持着约50%的份额。作为第二大链的以太坊，市场份额约为25%，然后其他通常较小或无关紧要。
 
 ---
 
-**Thank you for reading this article!**
+**感谢阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解有关ETC的更多信息，请访问：https://ethereumclassic.org
