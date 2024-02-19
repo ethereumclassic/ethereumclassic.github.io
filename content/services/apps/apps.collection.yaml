@@ -1,4 +1,15 @@
 - date: 2024-02-02
+  title: SafeClassic Community NFT
+  description: More deflation! By owning Safe Classic NFЕ, you will receive monthly rewards in the form of ETC and Safe Classic to your balance! The price of a mint increases after each mint!
+  image: ./images/240202-1638-safeclassic-community-nft.png
+  type: nfts
+  author: Max Classic
+  verifiedContract: https://etc.blockscout.com/token/0x8789D665706370100926E77Bcd115e27F9a18D2e
+  ipfsFrontend: https://ipfs.io/ipfs/Qmd9p46U88pWg9ZqEoKzrTpnb5XuhPrcg9VX7SFr1Buh7N/
+  links:
+    - name: Launch App
+      link: https://safeclassic.com/nft/
+- date: 2024-02-02
   title: SafeClassic
   description: SafeClassic - The first Deflationary token of the ecosystem Ethereum Classic
   image: ./images/240202-1634-safeclassic.jpeg
