@@ -1,5 +1,5 @@
 ---
-title: "The Difference Between Ethereum Classic and Dapps on Ethereum Classic"
+title: "以太坊经典（Ethereum Classic）与以太坊经典上的去中心化应用程序（Dapps）之间的区别"
 date: 2024-02-28
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,94 +8,94 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9D5bCiEA_rQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-In previous posts we have explained the many parts of Ethereum Classic (ETC), such as what are nodes, economic nodes, miners, mining pools, hardware nodes, and cloud nodes. We have also explained the importance of these things and how to follow their statistics.
+在之前的帖子中，我们已经解释了以太坊经典（ETC）的许多部分，比如节点、经济节点、矿工、矿池、硬件节点和云节点。我们还解释了这些事物的重要性以及如何关注它们的统计数据。
 
-However, there are still confusions about the layers of a blockchain system such as ETC. 
+然而，关于区块链系统（如ETC）的层次结构仍然存在一些困惑。
 
-Some people still confuse the blockchain itself with applications that run on it, and even have difficulty differentiating what are tokens vs the base coins in these systems.
+有些人仍然将区块链本身与在其上运行的应用程序混淆，甚至难以区分在这些系统中什么是代币与基础货币。
 
-In this post in particular we will explain the difference between ETC and dapps in ETC. In a future article and video we will explain the differences between the coin and the tokens, which is a related topic!
+特别是在这篇文章中，我们将解释ETC与ETC中的去中心化应用程序（dapps）之间的区别。在未来的文章和视频中，我们将解释代币与基础货币之间的区别，这是一个相关的主题！
 
-## What Is Ethereum Classic?
+## 什么是以太坊经典？
 
-To explain, then, the difference between ETC and dapps inside ETC, it is important to explain what is Ethereum Classic in the first place.
+为了解释ETC和ETC内的dapps之间的区别，首先要解释什么是以太坊经典。
 
-ETC is a global network of computers that run the Ethereum Classic software client. 
+ETC是一组运行以太坊经典软件客户端的全球计算机网络。
 
-The Ethereum Classic software client is a set of rules that enables the machines that run it to host the ETC blockchain, which is the database that contains the ledger with all the accounts and balances of ETC, and all the decentralized software programs that are hosted in it.
+以太坊经典软件客户端是一组规则，使运行它的计算机能够托管ETC区块链，这是包含所有ETC账户和余额以及其中托管的所有分散式软件程序的账本数据库。
 
-All the computers as a whole function as if they were a single machine that every 13 seconds updates the state of the system to exactly the same point in its history in all computers on a global scale.
+所有计算机作为一个整体的运作方式就好像它们是全球范围内每13秒更新系统状态到其历史中的完全相同点的单一机器。
 
-## Ethereum Classic as an Operating System
+## 以太坊经典作为操作系统
 
-ETC is like a cloud service, but decentralized and works as an operating system, more or less like Android, Windows, macOS, or iOS.
+ETC就像一个云服务，但是去中心化并且像Android、Windows、macOS或iOS一样作为操作系统运行。
 
-Operating systems are software code that associate the parts of the hardware in which they are installed to the applications used in those devices.
+操作系统是将其安装的硬件部分与这些设备中使用的应用程序相关联的软件代码。
 
-As such, they represent standards that developers of multiple applications and providers can rely on to build their apps so they can be compatible with each other and familiar to all users.
+因此，它们代表了多个应用程序和提供商的开发人员可以依赖于构建其应用程序，以便与彼此兼容并且对所有用户来说是熟悉和有用的标准。
 
-Similarly, Ethereum Classic, as a programmable blockchain, is a software system that represents standards of how accounts, balances, and opcodes must be used by developers for their applications to interact with each other and for ETC users to find familiar and useful.
+同样，作为可编程区块链，以太坊经典是一个软件系统，它代表了开发人员必须使用这些应用程序之间进行交互以及ETC用户发现熟悉和有用的账户、余额和操作码的标准。
 
-## What Are Smart Contracts?
+## 什么是智能合约？
 
-So, we have mentioned “dapps” and “applications” inside ETC, but how do these things work?
+所以，我们已经提到了“dapps”和ETC内的“应用程序”，但这些东西是如何工作的呢？
 
-As we said, Ethereum Classic is a programmable blockchain. This means that it may host what are called “smart contracts”.
+正如我们所说，以太坊经典是一个可编程区块链。这意味着它可能托管所谓的“智能合约”。
 
-Smart contracts are nothing more than software programs! 
+智能合约实际上不过是软件程序！
 
-The unique aspect of these software programs in ETC is that they are hosted in all the machines of the network and, therefore, become decentralized when they are sent to it. 
+这些软件程序在ETC网络中的所有计算机上托管，因此当它们被发送到其中时，它们变得去中心化。
 
-This is because they get multiplied and replicated in all computers of the system globally.
+这是因为它们在全球范围内的所有计算机中得到了复制和复制。
 
-## What Are Dapps?
+## 什么是Dapps？
 
-These software programs can power what we usually call “applications”, but because they are in the ETC database or ledger, we call them “decentralized applications” or “dapps” for short.
+这些软件程序可以驱动我们通常称为“应用程序”的东西，但由于它们位于ETC数据库或账本中，我们将它们称为“去中心化应用程序”或简称为“dapps”。
 
-Again, dapps are simply smart contracts or software programs that become decentralized because they are stored in the blockchain, which is identically replicated in all the computers of the system.
+再次强调，dapps实际上只是存储在区块链中的智能合约或软件程序，因此它们变得去中心化，这在系统的所有计算机中都被完全复制。
 
-These dapps may do whatever they are programmed to do. For example, they may be decentralized exchanges, yield farming services, domain name services, NFTs, insurance products, or property registries.
+这些dapps可以执行它们被编程执行的任何操作。例如，它们可以是去中心化交易所、流动性挖矿服务、域名服务、NFT、保险产品或财产登记。
 
-In the future there will be hundreds or thousands of kinds applications in ETC. 
+在将来，ETC将会有数百或数千种应用程序。
 
-## Dapps are as Apps on Operating Systems but on Ethereum Classic
+## Dapps就像操作系统上的应用程序，但在以太坊经典上
 
-So, here is where the distinction comes in: That ETC is a software that is run in all the computers of the system to host the database which contains all the smart contracts, does not mean that the smart contracts are ETC itself!
+因此，这就是区别所在：ETC是在系统的所有计算机上运行的软件，以托管包含所有智能合约的数据库，但这并不意味着智能合约就是ETC本身！
 
-ETC is just the operating system as Android may be the operating system of your phone.
+ETC只是操作系统，就像Android可能是您手机的操作系统一样。
 
-In your phone you can download the app of your bank, Facebook, Instagram, an app to edit photos, YouTube, or even your favorite music app.
+在手机上，您可以下载您银行的应用程序、Facebook、Instagram、用于编辑照片的应用程序、YouTube，甚至是您最喜欢的音乐应用程序。
 
-Just as these apps are not Android itself, dapps in ETC are not ETC itself. They are just applications that developers have deployed to provide services through this blockchain, which happens to be the most secure in the world for decentralized applications!
+就像这些应用程序不是Android本身一样，在ETC中的dapps也不是ETC本身。它们只是开发人员已部署以通过这个区块链提供服务的应用程序，这恰好是世界上最安全的去中心化应用程序。
 
-## What Is the Web3?
+## 什么是Web3？
 
-So, now that we know the difference between the Ethereum Classic blockchain as an operating system and decentralized applications as mere apps that run on it, we can explain how dapps will change the landscape of the web.
+因此，现在我们知道了以太坊经典区块链作为操作系统和存储在其上运行的应用程序之间的区别，我们可以解释dapps将如何改变Web的景观。
 
-The concept of the web3 is that the current web runs in centralized servers and data centers controlled by corporations or governments. 
+Web3的概念是当前的Web在由企业或政府控制的集中服务器和数据中心中运行。
 
-With blockchains such as ETC, all these web services could be transformed into decentralized web services, also known as the “web3”, and, therefore, would become impossible to censor, a problem that has plagued the traditional web.
+有了诸如ETC之类的区块链，所有这些Web服务都可以转变为去中心化的Web服务，也被称为“Web3”，因此将变得不可能被审查，这是困扰传统Web的问题。
 
-This will be a major paradigm change in the world, and ETC will be one of the main motors driving it.
+这将是世界上的一次重大范式转变，而ETC将是推动这一转变的主要引擎之一。
 
-## How We Use Ethereum Classic and Its Dapps Through Wallets
+## 我们如何通过钱包使用以太坊经典及其Dapps
 
 ![](./1.png)
 
-Speaking of layers, if Ethereum Classic may be considered a base layer of the blockchain industry because it functions as a highly secure operating system for smart contracts, then the dapps may be considered a second layer on top of ETC or layer 2 (L2).
+说到层次，如果以太坊经典可以被认为是区块链行业的基础层，因为它作为智能合约的高度安全操作系统，那么dapps可以被认为是在ETC之上的第二层或第二层（L2）。
 
-If dapps and the web3 are essentially the same thing, then the web3 in itself may be considered an L2 as well.
+如果dapps和Web3本质上是相同的东西，那么Web3本身也可以被认为是第二层。
 
-Finally, the user interfaces that will be the tools utilized by the public and businesses to send transactions and use all the dapps and manage their assets in ETC will be what we call the wallets, primarily non-custodial wallets such as Metamask, Trust Wallet, Emerald, Ledger, or Trezor. These will be our windows to dapps and the web3.
+最后，将是由公众和企业用于发送交易、使用所有dapps并管理他们在ETC中的资产的工具的用户界面，我们称之为钱包，主要是非托管钱包，如Metamask、Trust Wallet、Emerald、Ledger或Trezor。这将是我们访问dapps和Web3的窗口。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
