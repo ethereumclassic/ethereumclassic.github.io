@@ -1,6 +1,6 @@
 ---
 title: "ETC工作证明课程：12. 以太坊如何证明工作量证明费用模型将奏效"
-date: 2024-01-31
+date: 2024-02-01
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["series", "education"]

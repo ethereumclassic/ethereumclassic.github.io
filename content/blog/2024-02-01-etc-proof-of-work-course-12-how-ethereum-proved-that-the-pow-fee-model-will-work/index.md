@@ -1,6 +1,6 @@
 ---
 title: "ETC Proof of Work Course: 12. How Ethereum Proved that the POW Fee Model Will Work"
-date: 2024-01-31
+date: 2024-02-01
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["series", "education"]
