@@ -1,5 +1,5 @@
 ---
-title: "Using the Ledger Nano S Plus With Ethereum Classic"
+title: "使用Ledger Nano S Plus与Ethereum Classic"
 date: 2024-02-27
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gCoMipvQJtY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,114 +16,114 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-In this post we will explain how to use Ethereum Classic with Ledger Nano S Plus; the hardware wallet and the desktop app; how to add the Ethereum Classic (ETC) blockchain app to it, and how to create your first ETC address.
+在这篇文章中，我们将解释如何使用Ledger Nano S Plus与Ethereum Classic；硬件钱包和桌面应用程序的使用方法；如何将Ethereum Classic（ETC）区块链应用程序添加到其中，以及如何创建您的第一个ETC地址。
 
-## The Ledger Hardware and Software Components
+## Ledger硬件和软件组件
 
-Ledger Nano S Plus is a hardware wallet, so to use it you need to have your Ledger Nano S Plus device and install the Ledger Live app on your computer. You will also need a card to write your secret passphrase, as will be explained later.
+Ledger Nano S Plus是一款硬件钱包，因此要使用它，您需要拥有Ledger Nano S Plus设备并在计算机上安装Ledger Live应用程序。您还需要一张卡来写下您的秘密密码，稍后将进行解释。
 
-In this tutorial we will explain how to set up your Ledger Nano S Plus and to add Ethereum Classic to it and on your computer.
+在本教程中，我们将解释如何设置Ledger Nano S Plus并将Ethereum Classic添加到它以及在计算机上。
 
-We will show the parallel actions on your Ledger Nanos S Plus and on your computer where appropriate.
+我们将在适当的地方展示您的Ledger Nanos S Plus设备和计算机上的并行操作。
 
 ![](./1.png)
 
-## 1. Install the Ledger Live App on Your Computer
+## 1. 在计算机上安装Ledger Live应用程序
 
-Everything starts with the hardware wallet and the Ledger Live app on your computer. To download the app you need to go to:
+一切都始于硬件钱包和计算机上的Ledger Live应用程序。要下载该应用程序，您需要访问：
 
 https://www.ledger.com/start
 
-Then, open it on your computer and press the “Get started” button.
+然后，在计算机上打开它并点击“开始”按钮。
 
 ![](./2.png)
 
-## 2. Select Device and Setup Style
+## 2. 选择设备和设置样式
 
-In the next few steps Ledger Live will ask you which device model you own, if you are setting it up for the first time, or if you already have a recovery phrase from before. Since this post is for Ledger Nano S Plus and a new setup, then press “Select” on the Ledger Nano S Plus model and then click the “SETUP NEW NANO S PLUS” link.
+在接下来的几步中，Ledger Live将询问您拥有哪种设备型号，是否是首次设置，或者是否已经有以前的恢复短语。由于这篇文章是为Ledger Nano S Plus和新的设置而写的，因此在Ledger Nano S Plus型号上按“选择”，然后点击“设置新Nano S Plus”链接。
 
-After this, the app will show you a short educational message. When you finished reading it, then press “Let’s do this”.
+完成后，该应用程序将显示一条简短的教育消息。阅读完毕后，点击“开始吧”。
 
 ![](./3.png)
 
-## 3. Prepare to Set Up Your Device and Turn it On
+## 3. 准备设置设备并打开它
 
-In the next screen, Ledger Live on your computer will explain how the process will work and how long it will take. When you finish reading press on the “OK I’m ready!” button. After this, it will tell you to connect your Ledger Nano S Plus to your computer (see the next screen for parallel actions on your Ledger Nano S Plus device) and to follow the steps until you get to the message “Set up as new device”.
+在下一个屏幕上，计算机上的Ledger Live将解释过程的工作原理以及所需的时间。阅读完毕后，点击“好的，我准备好了！”按钮。之后，它会告诉您将您的Ledger Nano S Plus连接到计算机（在您的Ledger Nano S Plus设备上查看并行操作的下一个屏幕），并按照步骤操作，直到出现“设置为新设备”的消息。
 
-Press “Next step” on the Ledger Live app on your computer and on your Ledger Nano S Plus device initiate “Set up as new device” by pressing both buttons at the top of the device at the same time.
+在计算机上的Ledger Live应用程序上点击“下一步”，在您的Ledger Nano S Plus设备上通过同时按下设备顶部的两个按钮来启动“设置为新设备”。
 
 ![](./4.png)
 
-### Connect Your Ledger Nano S Plus and Set Up as New Device In Parallel
+### 同时连接您的Ledger Nano S Plus并设置为新设备
 
-As you follow the steps on your computer app, connect your Ledger Nano S Plus device to your computer and follow the steps and instructions on it.
+在计算机应用程序上按照步骤操作的同时，将您的Ledger Nano S Plus设备连接到计算机，并在设备上按照步骤和说明操作。
 
-When you get to the point where it says “Set up as new device”, then press both menu buttons at the top of your device at the same time as shown in the image on the right.
+当到达“设置为新设备”的点时，请像右侧图像所示同时按下设备顶部的两个菜单按钮。
 
 ![](./5.png)
 
-## 4. Set Up the Device Pin Code
+## 4. 设置设备PIN码
 
-In the next step, Ledger Live on your computer will tell you that you need to select a four to eight digit PIN CODE for your device.
+在下一步中，计算机上的Ledger Live将告诉您需要为设备选择一个四到八位的PIN码。
 
-In parallel, you will see on your device the message “Choose PIN”. Press both menu buttons to select your PIN.
+同时，在您的设备上，您将看到“选择PIN”的消息。按下两个菜单按钮以选择您的PIN。
 
-When you have selected and re-confirmed your PIN number on your Ledger Nano S Plus device, it will go to the next step. Press “Next step” on your Ledger Live on your computer as well, read the guide about your PIN code, and then press “Get started”.
+当您在Ledger Nano S Plus设备上选择并重新确认了您的PIN码后，它将进入下一步。在计算机上的Ledger Live上点击“下一步”，阅读有关您的PIN码的指南，然后点击“开始吧”。
 
-![](./6.png)
+![图片](./6.png)
 
-## 5. Write Down Your Recovery Phrase
+## 5. 记下您的恢复短语
 
-In the next step, Ledger Live on your computer will ask you to check and write down your 24 word recovery phrase. On your device, you will need to press the right menu button to start the process. After a few instructions, you will see “word #1” first, then “word #2” next, and so on until you reached the 24th word. Write them all down in a card provided in the box of your Ledger Nano S Plus.
+在下一步中，计算机上的Ledger Live将要求您检查并记下您的24个单词的恢复短语。在您的设备上，您需要按下右侧菜单按钮开始该过程。经过一些说明后，您将首先看到“单词＃1”，然后是“单词＃2”，依此类推，直到您达到第24个单词。将它们全部写在Ledger Nano S Plus盒子中提供的卡上。
 
-You got up to three cards, so you may copy the passphrase up to three times so you may put them in different safe places as a backup.
+您最多可以得到三张卡，因此您可以将密码短语复制多达三次，以备份到不同的安全位置。
 
 ![](./7.png)
 
-## 6. Confirm Your Recovery Phrase
+## 6. 确认您的恢复短语
 
-To make sure that you copied the 24 word passphrase correctly and in the right order, Ledger Live on your computer will ask you to confirm each word.
+为了确保您正确地按顺序复制了24个单词的短语，计算机上的Ledger Live将要求您确认每个单词。
 
-In parallel, on your Ledger Nano S Plus device, you will see each word again as you press the right menu button. Several of them will be wrong on purpose, so you need to scroll right or left with the menu buttons to search for the correct words, and confirming them by pressing both menu buttons.
+与此同时，在您的Ledger Nano S Plus设备上，当您按下右侧菜单按钮时，您将再次看到每个单词。其中一些故意错误，因此您需要使用菜单按钮左右滚动以寻找正确的单词，并通过同时按下两个菜单按钮来确认它们。
 
-When you confirm all 24 words, then your Ledger Nano S Plus will tell you that your recovery phrase is set.
+当您确认了所有24个单词后，您的Ledger Nano S Plus将告诉您您的恢复短语已设置。
 
 ![](./8.png)
 
-## 7. Hide Recovery Phrase and Perform Genuine Check
+## 7. 隐藏恢复短语并进行真实检查
 
-In the next screen, Ledger Live will ask you to hide your recovery phrase in a safe place, or several places if you made more copies. After this, it will greet you and ask you a few questions to see if you understood the security features of the system. Then, it will ask you to perform a “GENUINE CHECK” to make sure that the device you are using is real and from the original equipment manufacturer.
+在下一个屏幕上，Ledger Live将要求您将恢复短语隐藏在安全的地方，如果您复制了多个副本，则可以隐藏在多个地方。之后，它将问您一些问题，以查看您是否理解了系统的安全功能。然后，它将要求您执行“真实检查”以确保您使用的设备是真实且来自原始设备制造商。
 
-After the genuine check is approved and confirmed, press “Continue”.
+真实检查获得批准和确认后，点击“继续”。
 
 ![](./9.png)
 
-## 8. Add the Ethereum Classic App to Your Ledger Nano S Plus
+## 8. 在您的Ledger Nano S Plus上添加Ethereum Classic应用程序
 
-In the next step, you will see the homepage of your Ledger Live app on your computer. To add Ethereum Classic, we need to add the ETC app both inside the Ledger Live on your computer and on your Ledger Nano S Plus device.
+在下一步中，您将在计算机上的Ledger Live应用程序的主页上看到。要添加Ethereum Classic，我们需要在计算机上的Ledger Live和Ledger Nano S Plus设备内添加ETC应用程序。
 
-To add ETC, search for “Ethereum Classic” in the field provided. When “Ethereum Classic (ETC)” appears, click the “Install” button on its right. In the next screen Ledger Live will report that it will install both the Ethereum and the Ethereum Classic apps for technical reasons. Press “Install apps”. In the next screen, Ledger Live will show you that the ETC app is installed. In parallel to this process you may see the installation of ETC on your Ledger Nano s Plus as well.
+要添加ETC，请在提供的字段中搜索“Ethereum Classic”。当“Ethereum Classic（ETC）”出现时，点击其右侧的“安装”按钮。在接下来的屏幕上，Ledger Live将报告出于技术原因将安装Ethereum和Ethereum Classic应用程序。点击“安装应用程序”。在接下来的屏幕上，Ledger Live将显示ETC应用程序已安装。与此过程同时，您还可以在您的Ledger Nano S Plus上看到ETC的安装。
 
 ![](./10.png)
 
-## 9. Add Your First ETC Account to Your Ledger Nano S Plus
+## 9. 在您的Ledger Nano S Plus上添加您的第一个ETC帐户
 
-To add your first ETC address to your Ledger nano S Plus, you need to press the “Manage my accounts” button in the screen where we left in the previous section. Then, we need to open the Ethereum Classic app that we installed in our Ledger Nano S Plus device by pressing on both top buttons at the same time.
+要将您的第一个ETC地址添加到Ledger Nano S Plus，您需要在我们上一节离开的屏幕上点击“管理我的帐户”按钮。然后，通过同时按下设备顶部的两个按钮打开我们在Ledger Nano S Plus设备中安装的Ethereum Classic应用程序。
 
-In the next screen, Ledger Live will show you on your computer that the device and the app on your computer are “Synchronizing” to set up an ETC account.
+在接下来的屏幕上，Ledger Live将在计算机上显示设备和应用程序正在“同步”以设置ETC帐户。
 
 ![](./11.png)
 
-After a few second, your Ledger Live on your computer will show you an Ethereum Classic address to add as a new account. Press the “Add account” button to add it. The default name on it will be “Ethereum Classic 1”  but you may change it.
+几秒钟后，您的计算机上的Ledger Live将向您显示一个Ethereum Classic地址，以将其添加为新帐户。点击“添加帐户”按钮进行添加。其默认名称将为“Ethereum Classic 1”，但您可以更改它。
 
-In the next screen, Ledger Live will report that the account was added successfully. To continue, press “Done”.
+在接下来的屏幕上，Ledger Live将报告已成功添加帐户。要继续，请点击“完成”。
 
-Finally, by clicking on the left vertical menu on the “Accounts” tab, you will be taken to the ETC profile page on Ledger Live and you will see the ETC address “Ethereum Classic 1” as the first account at the top.
+最后，通过点击左侧垂直菜单上的“帐户”选项卡，您将进入Ledger Live上的ETC配置页面，您将在顶部看到“Ethereum Classic 1”作为第一个帐户的ETC地址。
 
 ![](./12.png)
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解有关ETC的更多信息，请访问：https://ethereumclassic.org
