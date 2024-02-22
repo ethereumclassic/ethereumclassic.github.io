@@ -24,7 +24,7 @@ The inflation rate of ETC is currently running at 4.26%. After the next fiftheni
 
 ## What Is the Fifthenning?
 
-![](./1.png)
+![](./11.png)
 
 When Satoshi Nakamoto set the supply schedule of BTC, he determined that every 210,000 blocks, or 4 years, the payment to miners was going to be reduced by 50%, hence the “halving”. This payment schedule will reduce the issuance of BTC until it reaches zero. This will determine a total supply of BTC that will ever exist of 21,000,000.
 
