@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 16. The Three Pillars of Ethereum Classic"
+title: "ETC工作量证明课程: 16. 以太坊经典的三大支柱"
 date: 2024-02-29
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xxsdDcjxWuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,82 +16,82 @@ linkImage: ./banner.png
 
 ![](banner.png)
 
-In the previous class, 15, we explained how proof of work (POW) blockchains such as Bitcoin (BTC) and Ethereum Classic (ETC) will be the base layer of the blockchain industry because of their security and qualities as digital gold.
+在上一课，第15课中，我们解释了工作证明（POW）区块链，如比特币（BTC）和以太坊经典（ETC），将成为区块链行业的基础层，因为它们具有数字黄金的安全性和品质。
 
-However, ETC has a unique combination of attributes because it is not only a proof of work blockchain and has a fixed monetary policy, but it is also programmable with smart contracts. 
+然而，ETC具有独特的属性组合，因为它不仅是一个工作证明区块链，具有固定的货币政策，而且还可以通过智能合约进行编程。
 
-This unique positioning for ETC has already made it the largest POW smart contracts blockchain in the world, and the fifth largest POW blockchain overall. 
+这种独特的ETC定位已使其成为全球最大的POW智能合约区块链，并且在所有POW区块链中排名第五。
 
-These three pillars enable the true concepts of “Code Is Law” and “Unstoppability”.
+这三个支柱使得“代码即法律”和“不可阻挡”的概念成为可能。
 
-In this class, 16, we will explain the three pillars of ETC; POW, a fixed supply, and smart contracts; and why they enable the true concepts of “Code Is Law” and “Unstoppability”.
+在第16课中，我们将解释ETC的三个支柱：POW、固定供应和智能合约；以及为什么它们使“代码即法律”和“不可阻挡”的真正概念成为可能。
 
-## Pillar 1: Ethereum Classic Is a Proof of Work Blockchain
+## 支柱1：以太坊经典是工作证明区块链
 
-Proof of Work is the most secure consensus mechanism for peer-to-peer computer networks such as ETC in the world. There is no other system as secure known to man.
+工作证明是世界上点对点计算机网络最安全的共识机制。人类已知没有其他系统能与之相比。
 
-This means that all participating machines in the network can agree (hence the term “consensus”) on the same exact the state of the database, also called the “blockchain”, every 13 seconds in a totally decentralized way, with no possibility of censorship or control by special interests.
+这意味着网络中的所有参与计算机都可以以完全去中心化的方式每13秒就“共识”（因此称为“共识”）数据库的确切状态，也称为“区块链”，没有任何审查或受特殊利益控制的可能性。
 
-“Security” in this context means decentralization, and decentralization means trust minimization, [the main goal](https://ethereumclassic.org/blog/2023-03-08-ethereum-classics-focus-on-trust-minimization) of blockchains such as ETC.
+在这个上下文中，“安全性”意味着去中心化，而去中心化则意味着信任最小化，是[以太坊经典](https://ethereumclassic.org/blog/2023-03-08-ethereum-classics-focus-on-trust-minimization)等区块链的主要目标。
 
-In essence, POW makes ETC the most secure smart contracts blockchain in the world.
+实质上，POW使ETC成为全球最安全的智能合约区块链。
 
-## Pillar 2: Ethereum Classic Has a Fixed Supply
+## 支柱2：以太坊经典有固定供应
 
-Just as trust minimization is a main goal of Ethereum Classic, sound money is equally important.
+就像信任最小化是以太坊经典的主要目标一样，健全的货币同样重要。
 
-The ETC coin is sound money because it is scarce, durable, costly to create, portable, divisible, fungible, and transferable.
+ETC币是健全的货币，因为它稀缺、耐用、制造成本高、便携、可分割、可互换和可转移。
 
-ETC is scarce in particular because it has a monetary policy integrated in its protocol that diminishes the issuance of coins through block rewards to miners by 20% every 2 years. This determines a [supply cap](https://ethereumclassic.org/blog/2023-10-18-ethereum-classic-has-a-supply-cap-like-bitcoin) of ETC that will ever exist in its history of 210,700,000.
+ETC之所以稀缺，是因为它的协议中集成了一项货币政策，通过每2年将奖励矿工的区块奖励减少20%的方式减少发行的硬币。这确定了ETC在其历史中将存在的[总供应](https://ethereumclassic.org/blog/2023-10-18-ethereum-classic-has-a-supply-cap-like-bitcoin)为210,700,000。
 
-ETC is costly to create because, as a POW blockchain, to issue the coins to pay miners for building the blocks, they have to do a lot of work, similar to gold miners in the real world, hence the term “digital gold” to describe it.
+ETC的制造成本高，因为作为POW区块链，为了向矿工支付构建区块的硬币，他们必须进行大量的工作，类似于现实世界中的黄金矿工，因此有“数字黄金”这个术语来描述它。
 
-## Pillar 3: Ethereum Classic Has Smart Contracts
+## 支柱3：以太坊经典具有智能合约
 
-When Bitcoin was launched by Satoshi Nakamoto, [he envisioned smart contracts in it](https://ethereumclassic.org/blog/2023-12-14-etc-proof-of-work-course-6-etc-is-btc-philosophy-with-eth-technology) to make it programmable.
+当中本聪创建比特币时，[他设想其中有智能合约](https://ethereumclassic.org/blog/2023-12-14-etc-proof-of-work-course-6-etc-is-btc-philosophy-with-eth-technology)使其可编程。
 
-However, because of technical problems with its design, Bitcoin did not support smart contracts inside its highly secure environment. 
+然而，由于其设计的技术问题，比特币不支持在其高度安全的环境中部署智能合约。
 
-This is why Vitalik Buterin invented Ethereum Classic, which is [the original Ethereum](https://ethereumclassic.org/blog/2023-01-26-ethereum-classic-course-6-ethereum-classic-is-the-original-chain) blockchain, to be a POW blockchain, with digital gold, and that it could be programmable. 
+这就是为什么Vitalik Buterin发明了以太坊经典，它是[最初的以太坊](https://ethereumclassic.org/blog/2023-01-26-ethereum-classic-course-6-ethereum-classic-is-the-original-chain)区块链，是一个POW区块链，具有数字黄金，并且它可以进行编程。
 
-Hence, ETC is Bitcoin’s philosophy with Ethereum’s technology. In other words, the best of both worlds.
+因此，ETC是比特币的哲学与以太坊的技术的结合。换句话说，是两者兼得。
 
-Programmability with smart contracts makes ETC the most versatile and secure blockchain in the world.
+通过智能合约的可编程性，ETC成为了全球最多才多艺且安全的区块链。
 
-## How Do These Pillars Enable “Code Is Law”?
+## 这些支柱如何使“代码即法律”成为可能？
 
-The philosophy of “Code Is Law” in Ethereum Classic means that once smart contract powered decentralized applications, or dapps, are deployed in it, then they become immutable and impossible to change.
+在以太坊经典中，“代码即法律”的哲学意味着一旦在其中部署了由智能合约驱动的去中心化应用程序（dapps），它们就变得不可变且无法更改。
 
-Inside ETC’s highly secure environment, “Code Is Law” is an analogy of the laws of physics, not human law.
+在ETC的高度安全环境中，“代码即法律”类似于物理法则，而不是人的法律。
 
-Outside, in the real world, people may have disputes and seek resolution of these things through their legal systems.
+在现实世界外，人们可能发生争议，并通过他们的法律体系寻求解决这些问题。
 
-However, inside ETC, it is the combination of POW, a fixed supply, and smart contracts that enable immutability of applications available to anyone on a global scale.
+然而，在ETC内部，正是POW、固定供应和智能合约的结合使得全球范围内的应用程序变得不可变。
 
-## How Do They Enable “Unstoppability”?
+## 它们如何使“不可阻挡”成为可能？
 
-Similarly, the three pillars of ETC enable unstoppability of dapps, accounts, and balances.
+同样，ETC的三个支柱使得dapps、账户和余额变得不可阻挡。
 
-Once anyone in the world sends a transaction to ETC, as long as it is received and formed correctly as per protocol rules, it will be processed and executed by the system.
+一旦世界上的任何人向ETC发送交易，只要根据协议规则正确接收并形成，它就会被系统处理和执行。
 
-This includes the execution of dapps and it happens in a totally decentralized and permissionless way, on a global scale.
+这包括dapps的执行，它以完全去中心化和无许可的方式在全球范围内进行。
 
-Unstoppability means certainty that people, through their own private keys, will have exclusive long term control of their assets and dapps in Ethereum Classic, without the risk of interference by any third parties or special interests.
+“不可阻挡”意味着确保人们通过自己的私钥，将长期独占地控制他们在以太坊经典中的资产和dapps的确定性，而不会受到任何第三方或特殊利益的干扰风险。
 
-## Applications in Ethereum Classic Are the Most Secure Apps in the World
+## 以太坊经典中的应用程序是世界上最安全的应用程序
 
-Why are the three pillars of ETC so important?
+为什么ETC的三个支柱如此重要呢？
 
 ![](1.png)
 
-In summary, Ethereum Classic is the environment where the most secure applications in the world will exist because it is a proof of work blockchain, therefore truly decentralized; it has a fixed monetary policy, therefore it is sound money; and it is programmable, therefore much more versatile and secure than the alternatives.
+总而言之，以太坊经典是全球最安全的应用程序存在的环境，因为它是一个POW区块链，因此真正去中心化；它具有固定的货币政策，因此是健全的货币；而且它是可编程的，因此比其他替代品更加多才多艺和安全。
 
-In addition to these qualities, ETC is a fully replicated blockchain, which increases its safety; and composable, which reduces risks and settlement costs; and is the largest one in the world with this combined design!
+除了这些品质之外，ETC是一个完全复制的区块链，这增加了它的安全性；它是可组合的，这减少了风险和结算成本；而且是具有这种组合设计的全球最大的区块链！
 
-These attributes in the same integrated system provide the highest level of decentralization, thus trust minimization, thus security for any application hosted in it.
+在同一集成系统中，这些属性为其中托管的任何应用程序提供了最高级别的去中心化，从而实现了最高水平的信任最小化和安全性。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
