@@ -7,13 +7,6 @@ tags: ["announcement"]
 linkImage: ./banner.png
 ---
 
----
-**You can listen to or watch this video here:**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XXX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
----
-
 We are pleased to announce that the Ethereum Classic (ETC) Spiral upgrade was a success!
 
 ![](./banner.png)
