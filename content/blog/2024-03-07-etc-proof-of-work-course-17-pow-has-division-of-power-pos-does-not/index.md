@@ -66,7 +66,7 @@ One of the threats to miners by the node operators was that if miners continued 
 
 ## How Verifying Nodes Can Fire Miners
 
-![./2.png]
+![](./2.png)
 
 The rest of the network could make this threat realistically because, in proof of work blockchains, node operators may choose to change the mining algorithm, effectively firing miners if they aggressively misbehave.
 
@@ -78,7 +78,7 @@ This was how, by proposing a change in the mining algorithm, that node operators
 
 ## In Proof of Stake Splitting From Stakers Is Not Possible
 
-![./3.png]
+![](./3.png)
 
 Staking basically involves making a deposit of the native cryptocurrency of the system in exchange for the right to build blocks.
 
