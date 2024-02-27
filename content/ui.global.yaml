@@ -47,7 +47,7 @@ qa:
 ## Announcement Banner
 announcement:
   __color: green
-  __enabled: 1
+  __enabled: 0
   __allPages: 0
   __onlyi18n: 0
   __icon: bullhorn
