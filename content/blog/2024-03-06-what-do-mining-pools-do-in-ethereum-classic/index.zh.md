@@ -1,5 +1,5 @@
 ---
-title: "What Do Mining Pools Do in Ethereum Classic?"
+title: "在以太坊经典中，矿池的作用是什么？"
 date: 2024-03-06
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./1.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看视频:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wGSVY_Vb3_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,88 +16,88 @@ linkImage: ./1.png
 
 ![](1.png)
 
-A blockchain such as Ethereum Classic (ETC) is a network of computers around the world that constantly receive new transactions from users.
+区块链，如以太坊经典（ETC），是全球计算机网络，不断接收来自用户的新交易。
 
-The purpose of the network is to execute these transactions and keep track of accounts and balances in a ledger or database called a blockchain.
+网络的目的是执行这些交易，并在称为区块链的分类账或数据库中跟踪账户和余额。
 
-ETC also hosts what are called smart contracts, which are software programs that become decentralized when they are stored in the network.
+ETC还托管所谓的智能合约，这是一种存储在网络中时变得分散的软件程序。
 
-All nodes of the system hold an identical copy of all transactions, accounts, balances, and smart contracts. This is the key of the decentralization of the system.  
+系统的所有节点都持有所有交易、账户、余额和智能合约的相同副本。这是系统分散化的关键。
 
-## What Do Nodes Do?
+## 节点的作用是什么？
 
-Of all the machines participating in the network, a subgroup are what are called “nodes”.
+在参与网络的所有计算机中，有一组称为“节点”的子集。
 
-Nodes are the ones that receive the new transactions all the time, they resend them to all other nodes, they store the replicated blockchain, and verify that transactions and blocks are correct before including them in the database.
+节点是那些始终接收新交易的计算机，它们将其转发给所有其他节点，存储复制的区块链，并在将交易和区块包含在数据库之前验证它们的正确性。
 
-“Blocks” are batches of transactions built and sent to the nodes by what are called “miners”.
+“区块”是由称为“矿工”的计算机构建并发送到节点的交易批次。
 
-## What Do Miners Do?
+## 矿工的作用是什么？
 
-Miners are the other subgroup of computers in the system.
+矿工是系统中的另一组计算机。
 
-As said in the previous section, miners accumulate new transactions in batches, they seal them with what is called a hash or cryptographic stamp, and then send them as “blocks” to the nodes of the network for verification.
+如前所述，矿工将新交易累积成批次，用称为哈希或密码印章密封它们，然后将它们作为“区块”发送到网络的节点进行验证。
 
-To seal these transactions, miners have to do a lot of computational work in a process called “proof of work” that creates these hashes or seals. This process requires enormous amounts of power and consequently cost a lot of money.
+为了密封这些交易，矿工必须在称为“工作证明”的过程中进行大量计算工作，以创建这些哈希或印章。这个过程需要巨大的计算能力，因此成本很高。
 
-This work and investment by miners is critical to secure blockchains such as ETC while making their coins hard money, thus digital gold.
+矿工的这种工作和投资对于保护诸如ETC之类的区块链以及使它们的硬币成为坚实货币，即数字黄金，至关重要。
 
-## What Are the Economics of Miners?
+## 矿工的经济学是什么？
 
-The economics of miners are based on their capacity to produce the computational work to seal blocks. It is a competitive lottery system, where one miner wins each round. Consequently, each isolated miner’s economics are determined by the following variables:
+矿工的经济学是基于他们产生计算工作密封区块的能力。这是一个竞争性的抽奖系统，每轮都有一个矿工获胜。因此，每个孤立的矿工的经济学取决于以下变量：
 
-**Block rewards:** Each time a miner wins a round, meaning that they sealed a block first and the nodes accepted it, it gets paid in ETC. The current payment is 2.56 ETC per block. As ETC produces around 6,646 blocks per day, it pays miners a total of 17,013 ETC per day.
+**区块奖励：** 每当矿工赢得一轮，即密封了一个区块并且节点接受了它，它会得到以ETC支付的报酬。当前支付是每个区块2.56 ETC。由于ETC每天产生大约6,646个区块，它每天向矿工支付总计17,013 ETC。
 
-**Market price:** The market price of ETC determines the revenues in fiat money for the miners. If a miner wins a round and gets paid 2.56 ETC and the market price of the coin is $25, then he earned $64 for that round.
+**市场价格：** ETC的市场价格决定了矿工的法定货币收入。如果矿工赢得一轮并获得2.56 ETC的支付，而硬币的市场价格为25美元，那么他在该轮赚了64美元。
 
-**Hash rate:** The hash rate is the capacity to do computations per second by the miner. The more computations per second it can do, the higher the probability that it will win a round. Consequently, miners seek to accumulate as much hash rate as possible. 
+**哈希率：** 哈希率是矿工每秒执行的计算量。它每秒执行的计算越多，它赢得一轮的概率就越高。因此，矿工努力积累尽可能多的哈希率。
 
-**Capital investment:** To accumulate as much hash rate as possible, miners need to buy as many machines with as much hash power as possible. This is the core of the capital investment by miners.
+**资本投资：** 为了积累尽可能多的哈希率，矿工需要购买尽可能多的拥有尽可能多哈希功率的机器。这是矿工的核心资本投资。
 
-**Electricity costs:** Once miners have their mining computers running, these use enormous amounts of electricity to compute the trillions of hashes per second they need to compete to win a round. On average it is estimated that more than 50% of the costs of miners is electricity.
+**电力成本：** 一旦矿工的挖矿计算机运行，它们使用大量电力来计算每秒需要数万亿次的哈希，以竞争赢得一轮。平均估计超过50%的矿工成本是电费。
 
-**Operational expenses:** Although it may be a minor part of the total costs, operational expenses are an additional cost to take into account. These may range from data center setup, plant, and installations, to personnel taking care of the mining gear and operations.
+**运营费用：** 尽管可能是总成本的一小部分，但运营费用是一个需要考虑的额外成本。这可能涉及从数据中心设置、设备和设施到负责挖矿设备和运营的人员。
 
-## What Are Mining Pools?
+## 什么是矿池？
 
-Given the economics of mining, it can be a very dry, isolated, and financially demanding effort to work with a standalone mining operation.
+考虑到挖矿的经济学，与独立的挖矿操作相比，使用独立的挖矿操作可能是一项非常干燥、孤立和经济负担较大的工作。
 
-To facilitate the aggregation of miners, especially those with lower hash rates, such as home or office miners, mining pools are services that help aggregate the hash power of many mining machines worldwide so that they may operate as a single and larger miner operation.
+为了便于聚合矿工，尤其是那些哈希率较低的矿工，如家庭或办公矿工，矿池是一种服务，可以帮助有效地聚合全球许多挖矿机的哈希功率，以便它们可以作为单一而较大的挖矿操作运行。
 
-## How Do Mining Pools Work?
+## 矿池是如何工作的？
 
-The way pools work is that they function as node operators, they have no mining capacity, but they receive all the transactions as a regular node, and then they prepare with them a template of the next block, just as a stand alone miner would do, and pre-produce the template so that the aggregated miners of the pool may work on it each round.
+矿池的工作方式是它们作为节点操作员，它们没有挖矿能力，但它们像常规节点一样接收所有交易，然后与它们一起准备下一个区块的模板，就像独立矿工一样，然后预先制作模板，以便矿池的聚合矿工可以每轮工作在上面。
 
-When Pools create the template for the next block, they send it to their participating mining machines. When these receive it, they immediately start producing trillions of hashes per second for that template and checking if they hit a target set by the pool.
+当矿池为下一个区块创建模板时，它将其发送到参与的挖矿机。当这些机器收到它时，它们立即开始为该模板生成数万亿次的哈希，并检查它们是否击中矿池设定的目标。
 
-If they didn’t hit the target, then they keep producing more hashes. If a miner hits the target given, they send the information to the pool operator.
+如果没有击中目标，那么它们会继续生成更多的哈希。如果矿工击中了给定的目标，它们将信息发送给矿池操作员。
 
-When the pool operator receives the information, they verify whether the hash hit the protocol target, and if it did, they prepare and send the new block to the rest of the network for approval.
+当矿池操作员收到信息时，他们验证哈希是否达到协议目标，如果达到，他们准备并发送新的区块给网络的其余部分以供批准。
 
-If no miner hit the target and a block for the round was won by another pool or solo miner elsewhere, then the pool immediately prepares a new template for the next round and sends it to the participating miners so they can discard the previous template and start working on the new one.
+如果没有矿工击中目标，而该轮的区块被其他矿池或独立矿工赢得，那么矿池立即为下一轮准备新的模板，并将其发送给参与的矿工，以便他们可以丢弃先前的模板并开始处理新的模板。
 
-## What Are the Economic Benefits of Pools to Miners?
+## 矿池对矿工的经济利益是什么？
 
-Mining pools usually charge a fee that may hover around 1% to run their operations and aggregate miners worldwide efficiently.
+矿池通常收取约1%的费用来运行他们的操作并有效地聚合全球矿工。
 
-The economic benefits to miners of using mining pools is that when operating alone, they depend completely on the randomness of the revenues. This is that, if they have a small fraction of the hash power of all the network, then it may take days to win even one round of 2.56 ETC. 
+矿工使用矿池的经济利益在于，当独自运行时，他们完全依赖于收入的随机性。也就是说，如果他们的哈希功率仅占网络总体的一小部分，那么可能需要数天才能赢得一轮2.56 ETC。
 
-However, when participating in a pool, the pool operator smooths out the revenues by wining many more blocks, perhaps many per day, and then distributing those revenues evenly among all the participating machines on a daily basis based on their contributed hashrate.
+然而，当参与矿池时，矿池操作员通过赢得更多的区块（可能是每天多个），然后根据其贡献的哈希率在所有参与机器之间均匀分配这些收入，从而平滑了收入。
 
 ![](3.png)
 
-For example, in the image in this section is the daily revenue table of a miner who has only 0.0035% of the hashing power of ETC, but receives around 0.60 ETC on a daily basis due to the effects of pooling the hashrate with others.
+例如，在本节的图像中是一名矿工的每日收入表，该矿工仅拥有ETC哈希率的0.0035%，但由于合并哈希率的效果，每天收到约0.60 ETC。
 
-## List of Top Mining Pools
+## 矿池的前十名列表
 
 ![](2.png)
 
-For anyone looking to mine ETC who wishes to join a mining pool, in this section we show the top 10 mining pools in ETC as per the website [Mining Pool Stats](https://miningpoolstats.stream/ethereumclassic).
+对于希望参与矿池的任何希望挖掘ETC的人，我们在本节展示了根据[挖矿池统计](https://miningpoolstats.stream/ethereumclassic)网站的前10个ETC挖矿池。
 
-To join any of the pools, miners need to go to their website, then register and associate their mining machines to the pool by using the URLs provided by them and configuring their miners.
+要加入任何矿池，矿工需要访问其网站，然后注册并通过使用由它们提供的URL配置矿工，将他们的挖矿机与矿池关联起来。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解有关ETC的更多信息，请访问：https://ethereumclassic.org
