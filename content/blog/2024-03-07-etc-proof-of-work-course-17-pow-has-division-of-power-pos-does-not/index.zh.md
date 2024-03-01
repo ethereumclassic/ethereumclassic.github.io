@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 17. POW Has Division of Power, POS Does Not"
+title: "ETC工作证明课程：17. POW有权力划分，POS则没有"
 date: 2024-03-07
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,100 +8,100 @@ linkImage: ./1.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7jla4AEdvBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-In the previous class, 16, we explained the three pillars of ETC; Proof of Work (POW), a fixed supply, and smart contracts; and why they enable the true concepts of “Code Is Law” and “Unstoppability”.
+在上一节16中，我们解释了ETC的三个支柱；工作证明（POW），固定供应和智能合约；以及它们为何使“代码即法律”和“不可阻挡”等真实概念成为可能。
 
-We saw how POW secures the system and provides the basis for a truly decentralized network.
+我们看到了POW如何保护系统并为一个真正分散的网络提供基础。
 
-In this class, 17, we will present another feature of POW blockchains that enhances security and decentralization in networks such as Ethereum Classic (ETC). 
+在这一节17中，我们将介绍POW区块链的另一个特性，该特性增强了网络（如以太坊经典ETC）的安全性和分散性。
 
-This is that, in the case that miners may behave irresponsibly, like it happened [in Bitcoin in 2017](https://www.bitstamp.net/learn/crypto-101/what-was-the-blocksize-war/), node operators have a very important recourse to defend the network.
+在矿工可能表现不负责任的情况下，例如在[2017年比特币中发生的情况](https://www.bitstamp.net/learn/crypto-101/what-was-the-blocksize-war/)，节点操作员有一个非常重要的手段来保卫网络。
 
-## The Right to Split
+## 分割的权利
 
-One of the main protection forms that POW blockchains as ETC have is that whenever new rules or arbitrary changes are introduced or proposed to the system, any group of nodes or participants may choose not to follow those rules and split from the network.
+POW区块链（如ETC）的主要保护形式之一是，每当向系统引入或提出新规则或任意更改时，任何节点组或参与者都可以选择不遵循这些规则并从网络中分割出去。
 
-POW is very particular in this because anyone who wishes to be part of the network can do it without any need of permission or the risk of censorship.
+POW在这方面非常特殊，因为任何希望成为网络一部分的人都可以在无需许可或面临审查风险的情况下加入。
 
-This level of freedom is very powerful and enables all participants to basically follow the set of rules that is most valuable to them with no central governments or special interest dictating their obligatory mandates.
+这种自由程度非常强大，使所有参与者基本上可以遵循对他们最有价值的规则集，而没有中央政府或特殊利益规定他们的强制法令。
 
-## The Example of the Ethereum Classic Split Against Ethereum 
+## 以太坊经典对抗以太坊的分裂案例
 
-ETC’s [rebellion](https://ethereumclassic.org/blog/2023-01-26-ethereum-classic-course-6-ethereum-classic-is-the-original-chain) against the arbitrary irregular state change of TheDAO in 2016 is an excellent example of this.
+ETC对抗2016年TheDAO的任意不规则状态更改是一个很好的例子。
 
-What happened was that the Ethereum (ETH) community at the time decided to confiscate the money from a hacker to return it to the original owners. The intervention occurred on block 1,920,000.
+当时，以太坊（ETH）社区决定没收黑客的资金以返还给原始所有者。这次干预发生在第1,920,000块。
 
-Approximately 95% of the Ethereum community went with the proposed irregular network change, but 5% continued with the unaltered Ethereum network, which became to be known as “Ethereum Classic”.
+大约95%的以太坊社区同意提出的不规则网络更改，但有5%继续使用未更改的以太坊网络，后者被称为“以太坊经典”。
 
-By executing the fork and the confiscation of funds, Ethereum broke its original immutability ethos. This is when Ethereum Classic decided to follow a "Code Is Law" ethos by effectively splitting and continuing with the original untampered chain.
+通过执行分叉和没收资金，以太坊违反了其最初的不可变性理念。这就是以太坊经典决定遵循“代码即法律”理念的方式，通过有效地分裂并继续使用原始未篡改的链条。
 
-## The Importance of Verifying Nodes and Miners
+## 验证节点和矿工的重要性
 
-This is all possible because, in proof of work, the roles in the network are divided between verifiers and miners. 
+这一切都是可能的，因为在工作证明中，网络中的角色分为验证者和矿工。
 
-Miners produce blocks and verifiers check that they are correct.
+矿工产生区块，验证者检查它们是否正确。
 
-Miners are external to the network and use a lot of electricity to transform it into a hashed block that then they send to the rest of the nodes for verification. 
+矿工是外部于网络的，他们使用大量电力将其转化为散列块，然后将其发送到其余节点进行验证。
 
-If the blocks are rejected because of flaws or dishonest practices, then miners do not get paid for their enormous investment in their operations.
+如果由于缺陷或不诚实的做法而拒绝了这些区块，矿工将无法获得他们在运营中的巨额投资的支付。
 
-Herein lies the fundamental feature of division of power in POW blockchains. That if miners don’t mine, then there are no blocks, but if verifiers don’t verify the blocks, then there is no pay to the miners!
+在这里，POW区块链的权力分割基本上是在于，如果矿工不挖矿，那么就没有区块，但如果验证者不验证区块，那么就没有支付给矿工！
 
-## The Supposed Long Term Threat of Miners
+## 矿工的所谓长期威胁
 
-For a long time people have feared the “power of miners” as it is an industry that tends to concentration, albeit much less than with stakers in proof of stake (POS).
+很长一段时间以来，人们一直担心“矿工的权力”，因为这是一个趋向集中的行业，尽管远不及权益证明（POS）中的质押者。
 
-What happened in 2017 in Bitcoin is a case in point. 
+比特币在2017年发生的事情就是一个例证。
 
-As Bitcoin was considered “unscalable” beyond 7 transactions per second, a group of miners decided to arbitrarily increase the block size of Bitcoin by changing its rules.
+由于比特币被认为“不可扩展”，无法超过每秒7笔交易，一组矿工决定通过更改规则来任意增加比特币的区块大小。
 
-Because the rest of the network believed that larger blocks presented a risk of centralization, then they rejected those new rules and miners had to comply.
+由于网络的其余部分认为更大的区块存在集中化的风险，因此他们拒绝了那些新规则，矿工不得不遵守。
 
-One of the threats to miners by the node operators was that if miners continued with their attitude, that they would be fired.
+节点操作员对矿工的威胁之一是，如果矿工继续保持他们的态度，他们将被解雇。
 
-## How Verifying Nodes Can Fire Miners
+## 验证节点如何解雇矿工
 
 ![](./2.png)
 
-The rest of the network could make this threat realistically because, in proof of work blockchains, node operators may choose to change the mining algorithm, effectively firing miners if they aggressively misbehave.
+网络的其余部分之所以可以实现这一威胁，是因为在工作证明区块链中，节点操作员可以选择更改挖矿算法，从而在矿工行为不端时实际上解雇矿工。
 
-This is because miners invest enormous amounts of capital in their installed capacity by buying hundreds of thousands of specialized mining machines called [ASICs](https://www.investopedia.com/terms/a/asic.asp).
+这是因为矿工通过购买数十万台称为[ASIC](https://www.investopedia.com/terms/a/asic.asp)的专业挖矿机器而投入了巨额资本。
 
-ASICs only work for a specific mining algorithm. If the algorithm is changed, then the miners become useless immediately losing their capital.
+ASIC仅适用于特定的挖矿算法。如果算法更改，那么矿工立即变得无用，立即失去了他们的资本。
 
-This was how, by proposing a change in the mining algorithm, that node operators in Bitcoin could have effectively fired the miners, which mitigated the threat they were posing at the time.
+这就是在比特币中通过提出挖矿算法的变更，节点操作员可以有效解雇矿工，从而减轻当时他们所构成的威胁的方式。
 
-## In Proof of Stake Splitting From Stakers Is Not Possible
+## 在权益证明中，从质押者那里分裂是不可能的
 
 ![](./3.png)
 
-Staking basically involves making a deposit of the native cryptocurrency of the system in exchange for the right to build blocks.
+质押基本上涉及向系统的本地加密货币进行存款，以换取建立区块的权利。
 
-This means that in proof of stake, the stakers are inside the ledger, therefore it is impossible to fire them because, even if you split from the chain, however many times you wish, the stakers will be replicated in every split. 
+这意味着在权益证明中，质押者在账簿内部，因此不可能解雇他们，因为即使您无论多少次从链条中分裂，质押者都会在每个分裂中复制。
 
-This is because the accounts and balances of stakers are on the blockchain ledger, therefore splitting carries them to the new copies.
+这是因为质押者的账户和余额在区块链账簿上，因此分裂将它们带到新副本中。
 
-Because of this reason, “verification” in POS is a mirage and all participants are essentially slaves of the staking elites who can change things or manipulate the system at their will, suffering no consequences.
+由于这个原因，在POS中，“验证”是一个幻觉，所有参与者基本上都是质押精英的奴隶，他们可以在他们的意愿下进行更改或操纵系统，而不会受到任何后果。
 
-## POW Is Much More Secure Than POS
+## POW比POS安全得多
 
-All of the things explained above lead us to the conclusion that POW has division of power and POS does not.
+以上所述的所有因素都导致我们的结论，即POW具有权力分割，而POS则没有。
 
-In POW node operators cannot mine, but they have the power to stop blocks from miners or to change the rules to effectively fire them. This, in itself, is a magnificent deterrent for potential bad behavior.
+在POW中，节点操作员无法挖矿，但他们有权阻止矿工的区块或更改规则以有效解雇他们。这本身就是一种对潜在不良行为的杰出威慑。
 
-In POS it is impossible to control what stakers do. As stakers are the ones who build the blocks, and the blocks are built according to a set of protocol rules, this means that the staking elites can get together and make the changes they wish, whenever they wish, and there will be no deterrence at all.
+在POS中，无法控制质押者的行为。由于质押者是构建区块的人，而区块是根据一组协议规则构建的，这意味着质押精英可以汇聚在一起，并在他们愿意的任何时候进行更改，而没有任何威慑。
 
-Even the supposed penalties and slashing that the protocol may impose stakers are useless to control them because they can reverse the effects of those things anyway.
+即使协议可能对质押者施加的所谓的惩罚和削减对于控制他们是无用的，因为他们可以反转这些事物的影响。
 
-Because of these reasons, POW is much more secure than POS.
+由于这些原因，POW比POS更安全。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解有关ETC的更多信息，请访问：https://ethereumclassic.org
