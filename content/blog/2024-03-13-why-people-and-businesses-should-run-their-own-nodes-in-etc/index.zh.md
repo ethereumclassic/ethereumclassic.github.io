@@ -1,5 +1,5 @@
 ---
-title: "Why People and Businesses Should Run Their Own Nodes in ETC"
+title: "为什么个人和企业应该在以太坊经典（ETC）中运行自己的节点？"
 date: 2024-03-13
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z-pdoA_T40U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,72 +16,72 @@ linkImage: ./banner.png
 
 ![](1.png)
 
-## The Paradigm Change From Banking to Blockchain
+## 从银行到区块链的范式变革
 
-In the last 600 years man has gotten accustomed to having trusted third parties holding custody of their assets.
+在过去的600年里，人们已经习惯了将其资产托付给可信的第三方进行保管。
 
-The banking system is a system where the trusted third parties hold the owners’ wealth, and they give permissioned and limited access to it.
+银行系统是一个由可信的第三方持有所有者财富的系统，他们给予授权和有限的访问权限。
 
-However, the blockchain industry, through the principle of decentralization, has turned this around. In the blockchain industry, owners have direct access and control of their wealth whenever they wish with no permission necessary.
+然而，通过去中心化原则，区块链行业已经改变了这一切。在区块链行业，所有者可以随时无需许可直接访问和控制其财富。
 
-Where in banking people’s wealth is the liability of trusted third parties, in the blockchain industry people’s wealth are true assets with full possession and control.
+在银行中，人们的财富是受信任第三方的责任，而在区块链行业，人们的财富是真正的资产，具有完全的拥有和控制权。
 
-## Control of Addresses With Private Keys
+## 通过私钥控制地址
 
-In Ethereum Classic (ETC), the way this works is by having total control of the addresses under which the assets are held inside the blockchain through private keys.
+在以太坊经典（ETC）中，这是通过通过私钥完全控制在区块链中保存资产的地址来实现的。
 
-Private keys are like passwords held only by the owners of wealth in ETC, and only with those passwords can the assets be moved or exchanged.
+私钥类似于仅由ETC财富所有者持有的密码，只有使用这些密码，资产才能被移动或交换。
 
-By putting together in one system a proof of work based peer-to-peer blockchain network as ETC and having users control their assets through their private keys, the influence of trusted third parties has been significantly reduced and the only way to sign for valid transactions is by using the secret keys only held by end users.
+通过在一个系统中将基于工作证明的点对点区块链网络（如ETC）与用户通过私钥控制其资产结合在一起，显著减少了受信任第三方的影响，而签署有效交易的唯一方式是使用仅由最终用户持有的秘密密钥。
 
-## Mechanics of ETC Transactions
+## ETC交易的机制
 
-Nevertheless, holding the private keys alone is not the complete security model.
+然而，仅持有私钥并不是完整的安全模型。
 
-The way transactions are signed and sent to the ETC network involves an app on the end user side where they specify the transaction details; such as the address where the funds are going and the amount to be transferred or exchanged; and then the signing of the transaction using the private key.
+交易是如何签署并发送到ETC网络的涉及到最终用户端的应用程序，在这个应用程序中，他们指定交易详细信息，比如资金去向的地址和转移或交换的金额，然后使用私钥签署交易。
 
-When a transaction is signed and sent, then it needs to reach an ETC blockchain node so that it may be retransmitted to the whole network for full replication and to be included in a block by the miners.
+当交易被签署并发送时，它需要达到一个ETC区块链节点，以便将其重新传播到整个网络进行完全复制，并由矿工包含在块中。
 
-Once included in a block that becomes verified and accepted by the network of nodes, then the transaction is executed and finalized. 
+一旦包含在块中并被网络中的节点验证和接受，交易就会执行和完成。
 
-## Mechanics of ETC Queries
+## ETC查询的机制
 
-Queries in ETC work in a similar way, but don’t need the private keys.
+ETC中的查询以类似的方式工作，但不需要私钥。
 
-To query the blockchain, to check their balances and other information about their assets and transactions, users need to use the same kind of apps as in the previous section.
+要查询区块链，检查其余额以及关于其资产和交易的其他信息，用户需要使用与上一部分相同类型的应用程序。
 
-When they open their apps to check their information on the ETC blockchain, the app consults with remote ETC nodes to retrieve the relevant data from the blockchain associated with their addresses.
+当他们打开应用程序以在ETC区块链上查看其信息时，该应用程序将与远程ETC节点协商，以从与其地址相关联的区块链中检索相关数据。
 
-The great majority of users in ETC send transactions and do their queries using third party nodes.
+在ETC中，绝大多数用户发送交易和进行查询时使用第三方节点。
 
-## The Risks of Third Party Nodes
+## 第三方节点的风险
 
-In a way, a blockchain is a kind of trusted third party, but the fact the the network is decentralized, and the data is replicated in all nodes globally, minimizes the influence of these trusted third parties to a sufficient degree that the security to users’ is very high.
+在某种程度上，区块链是一种可信的第三方，但网络是去中心化的，并且数据在全球所有节点中进行复制，这在足够程度上减小了这些可信第三方对用户的影响，使用户的安全性非常高。
 
-However, even if one uses their own private keys and addresses, if the sending of transactions and querying of the blockchain is done through remote trusted third party nodes, then a significant part of the security to users is diminished.
+然而，即使使用自己的私钥和地址，如果通过远程可信第三方节点发送交易和查询区块链，那么用户的安全性的一部分就会减弱。
 
-This is because the dependency on third party nodes means that the nodes may not be accessible in certain circumstances, or that the nodes may be corrupted, so they could be processing transactions and queries fraudulently providing the wrong information to users or directing transactions and queries to alternative fraudulent chains.
+这是因为对第三方节点的依赖意味着在某些情况下可能无法访问节点，或者节点可能被损坏，因此它们可能在欺诈性地处理交易和查询，向用户提供错误的信息，或将交易和查询引导到替代的欺诈链。
 
-## The Most Secure Setup
+## 最安全的设置
 
-For these reasons, for users such as people and businesses who value their holdings in ETC or with significant assets, the most secure setup is to actually run their own ETC nodes so they can be part of the blockchain directly.
+因此，对于像个人和企业这样重视其在ETC中的持有或具有重要资产的用户来说，最安全的设置是实际上运行他们自己的ETC节点，以便他们可以直接参与区块链。
 
-This configuration ensures that transactions will always be sent to the right blockchain and that the queries will always be truthful.
+这种配置确保交易将始终发送到正确的区块链，并且查询将始终是真实的。
 
-In a way, seen from the traditional paradigm of banking, the combination of holding the private keys to the addresses and running their own nodes makes users full custodians of their own wealth and assets because they not only have exclusive ability to sign transactions but they also have personal and physical control of the information of the network.
+在某种程度上，从银行的传统范式来看，持有地址的私钥并运行自己的节点的组合使用户成为其财富和资产的全权监护人，因为他们不仅拥有签署交易的独特能力，而且还对网络信息具有个人和物理控制。
 
-## How Can Users Run Their Own ETC Nodes?
+## 用户如何运行自己的ETC节点？
 
-To start running your own nodes and to connect your wallets to them so you can have your direct and complete access and custody of your ETC wealth, there are three options currently in the market:
+要开始运行自己的节点并将钱包连接到它们，以便可以直接完全访问和监护ETC财富，目前市场上有三种选择：
 
-**The ETC [Core Geth](https://github.com/etclabscore/core-geth/releases) node:** This is the core software client that is used by the great majority of node operators in ETC. It is the standard ETC community node that may be run on normal computers.
+**ETC[Core Geth](https://github.com/etclabscore/core-geth/releases)节点：** 这是由ETC大多数节点运营商使用的核心软件客户端。它是标准的ETC社区节点，可以在普通计算机上运行。
 
-**The [ETCMC](https://etcmc.org/etcmc-etc-node) hardware node:** This is a hardware ETC node that is part of a greater community with token compensation and various sources of revenues for participating in the system.
+**[ETCMC](https://etcmc.org/etcmc-etc-node)硬件节点：** 这是硬件ETC节点，是更大社区的一部分，参与系统并获得代币补偿以及各种收入来源。
 
-**The [DappNode](https://dappnode.com/en-us/collections/all) hardware node:** DappNode is a plain vanilla hardware node and may be used to run ETC mainnet nodes as well as the ETC Mordor testnet, and even clients of other blockchains.
+**[DappNode](https://dappnode.com/en-us/collections/all)硬件节点：** DappNode是一个普通的硬件节点，可以用于运行ETC主网节点以及ETC Mordor测试网，甚至其他区块链的客户端。
 
 ---
 
-**Thank you for reading this article!**
+**感谢阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解有关ETC的更多信息，请访问：https://ethereumclassic.org
