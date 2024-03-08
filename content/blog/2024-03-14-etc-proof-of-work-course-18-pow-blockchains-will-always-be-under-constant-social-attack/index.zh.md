@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 18. POW Blockchains Will Always Be Under Constant Social Attack"
+title: "ETC工作量证明课程：18. POW区块链将始终受到持续的社会攻击"
 date: 2024-03-14
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,104 +8,104 @@ linkImage: ./1.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nPUiAJzR5q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-In the previous class, 17, we explained how proof of work (POW) blockchains such as Bitcoin and Ethereum Classic (ETC) have division of power and proof of stake (POS) chains do not.
+在上一节（第17节）中，我们解释了工作证明（POW）区块链，如比特币和以太坊经典（ETC）具有权力分配，而权益证明（POS）链则没有。
 
-We saw how the “right to split”, or separate, in the case of the introduction of nefarious rules or controversies, gave these systems a higher level of security.  
+我们看到在引入恶意规则或争议的情况下，“分裂权”或分离给予这些系统更高水平的安全性。
 
-In a related topic, in this class, 18, we will learn why POW blockchains will always be under constant social attack because in truly decentralized systems there are no higher authorities to impose order.
+在相关主题中，在本节（第18节）中，我们将了解为什么POW区块链将始终受到持续的社会攻击，因为在真正去中心化的系统中，没有更高的权威来强加秩序。
 
-In technical discussions or upgrade controversies, each faction must fight for their desired outcomes. 
+在技术讨论或升级争议中，每个派别必须为他们期望的结果而战。
 
-Additionally, true decentralization is disagreeable to elites and governments. Consequently, toxicity and maximalism are necessary postures to defend the principles of these systems.
+此外，真正的去中心化对精英和政府是不受欢迎的。因此，毒性和极端主义是捍卫这些系统原则的必要立场。
 
-## Truly Decentralized Systems Will Never Be Centralized
+## 真正去中心化的系统永远不会集中
 
-Proof of work is the only signaling systems that enables true decentralization.
+工作证明是唯一使真正去中心化成为可能的信号系统。
 
-In social groups, if decentralization is achievable without degenerating the systems, then free participants will always choose decentralization. 
+在社会群体中，如果可以在不退化系统的情况下实现去中心化，那么自由参与者将始终选择去中心化。
 
-Centralization is not a desired state of affairs. 
+集中不是期望的状态。
 
-“Voting”, “Democracy”, and “Republic” are not ideal systems, they are just the least worse we can do. 
+“投票”、“民主”和“共和国”并不是理想的系统，它们只是我们能做到的最差的选择。
 
-But in proof of work systems there cannot be tyrants, kings, constitutions, presidents, or congresses. 
+但在工作证明系统中，不能有暴君、国王、宪法、总统或国会。
 
-They are not possible because participants will never choose them, because they are not necessary, and they will always prefer to split.
+这是因为参与者永远不会选择它们，因为它们是不必要的，他们总是更愿意分裂。
 
-## Proof of Work Ungovernance
+## 工作证明的无治理
 
-Proof of work blockchains actually work better without governance. 
+实际上，工作证明区块链在没有治理的情况下运作得更好。
 
-In these systems the “constitution” is the blockchain protocol itself. 
+在这些系统中，“宪法”本身就是区块链协议。
 
-In Bitcoin, for example, that miners can earn BTC by working in building blocks according to the rules is an organizing principle that drives the whole industry which is totally decentralized on a global scale.
+例如，在比特币中，矿工通过按照规则构建区块而赚取BTC的事实是一个组织原则，推动了整个行业的发展，这在全球范围内完全是去中心化的。
 
-In Ethereum Classic, the fact that it is programmable and permissionless directs developers worldwide to build applications on it, following the distributed EVM design, and naturally incentivizing them to defend it.
+在以太坊经典中，它是可编程和无许可的，这指导全球开发者在其上构建应用程序，遵循分布式EVM设计，并自然激励他们保卫它。
 
-This is why in POW blockchains there are no leaders or administrators that impose their will. It is just the value and the incentives of the system that guides the global ecosystem to decentralization.
+这就是为什么在POW区块链中没有领导人或管理员来强加其意愿的原因。是系统的价值和激励引导全球生态系统走向去中心化。
 
-## True Decentralization Means no Authority
+## 真正的去中心化意味着没有权威
 
-In a context of true decentralization, there are no arbiters or authorities to impose order. 
+在真正去中心化的背景下，没有仲裁者或当局来强加秩序。
 
-If there are no paternal figures or administrators to impose order in a blockchain, then the factions must fight for their desired outcomes when it comes to changing the rules or implementing upgrades.
+如果在区块链中没有父母或管理员来强加秩序，那么在改变规则或实施升级时，各派别必须为他们期望的结果而战。
 
-Therefore, it is impossible to have “civilized debates” in these scenarios.
+因此，在这些情况下不可能进行“文明的辩论”。
 
-It is more or less like when children are with their parents or not. If their parents are present, then they will be much better behaved, but when the parents leave, then they may fight over candy or a sibling may pull the hair of the other.
+这有点像儿童是否与父母在一起。如果父母在场，那么他们会表现得更好，但是当父母离开时，他们可能会为糖果而争吵，或者兄弟姐妹可能互相拉扯头发。
 
-Genuine decentralization means no authority, and no authority means that brute argumentative force becomes the name of the game.
+真正的去中心化意味着没有权威，没有权威意味着蛮力争论成为游戏规则。
 
-## No Authority Must Lead to Toxicity
+## 没有权威必须导致毒性
 
-![](./2.png)
+如果蛮力争论成为捍卫这些系统原则的游戏规则，那么所谓的“毒性”必须是必要的。
 
-If brute argumentative force becomes the name of the game to defend the principles of these systems, then the so called “toxicity” must be necessary. 
+因此，所有批评毒性因为它伤害感情的人都是错误的。
 
-Consequently, all those who criticize toxicity because it hurts their feelings are wrong. 
+毒性和极端主义实际上是去中心化系统中理性的博弈论和进化稳定行为。
 
-Toxicity and maximalism are actually rational game-theoretical and evolutionarily stable behaviors in decentralized systems. 
+如果在和平时期毒性缺失，派别似乎解散，这并不是因为它们失败了。这是因为它们暂时不需要。
 
-If toxicity is absent during periods of peace, and the factions seem to dissolve, it is not because they failed. It is because they were temporarily not needed. 
+但是当新的威胁再次出现，这是不可避免的，那么毒性极端主义者也将重新出现，并将被视为英雄。
 
-But when new threats emerge again, which is inevitable, then, the toxic maximalists will re-emerge as well and will be welcomed as heroes.
+毒性对POW区块链是有益的。
 
-Toxicity is good for POW blockchains.
+## 权益证明非毒性谬论
 
-## The Proof of Stake Non-Toxicity Fallacy
+因为权益证明（POS）是集中的，所以对它没有社会攻击。
 
-Because proof of stake (POS) is centralized, then there are no social attacks on it.
+事实上，在POS中，参与者甚至无法分裂！因此，除了向当局屈服外，没有其他争论。
 
-Indeed, in POS participants can’t even split! Therefore, there is no argument to be had other than submitting to the authorities.
+这就是为什么很多人发现POS“社区”如此愉快，因为它们似乎友好而受人欢迎。
 
-This is why so many people find POS “communities” so pleasant, because they seem friendly and inviting. But this is because they are after your money and they deceive you.
+但这是因为他们追求你的钱并欺骗你。
 
-Although they may seem non-toxic in the surface, the evil in the systems is their centralization. 
+尽管它们在表面上看起来是非毒性的，但系统中的邪恶是它们的集中。
 
-They control you, they submit you, and you have no recourse but to comply. 
+他们控制你，他们屈从于你，你除了顺从别无选择。
 
-The perversion is orders of magnitude worse than the harmless “toxicity” in POW.
+这种颠倒是比POW中无害的“毒性”恶劣得多。
 
-## How BlackRock Will Be Neutralized
+## 如何中和黑石（BlackRock）
 
-Many have cheered and welcomed the participation of the global asset management giant BlackRock in the Bitcoin ecosystem. 
+许多人对全球资产管理巨头黑石参与比特币生态系统表示欢迎。
 
-Soon this globalist and passionate “Environmental, Social, and Governance” behemoth will also make incursions in other networks such as Ethereum, and eventually ETC.
+很快，这家全球主义和充满激情的“环境、社会和治理”巨头还将进入其他网络，如以太坊，最终是ETC。
 
-Being BlackRock a faithful representative of elite philosophy and government power, it is inexorable that they will try to change the rules of these systems to centralize them.
+由于黑石是精英哲学和政府权力的忠实代表，他们将不可避免地试图改变这些系统的规则以实现集中。
 
-However, because of the reasons explained in this and previous classes, POW blockchains are well equipped to defend their principles and integrity in front of these threats.
+然而，由于本节和前几节中解释的原因，POW区块链已经做好了在面对这些威胁时捍卫其原则和完整性的准备。
 
-Toxicity will certainly push back at their attacks, and things such as the “right to split” and the sheer protection barrier that is POW will defend them.
+毒性肯定会抵制他们的攻击，而“分裂权”和是POW的保护屏障也将保卫它们。
 
 ---
 
-**Thank you for reading this article!**
+**感谢阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解有关ETC的更多信息，请访问：https://ethereumclassic.org
