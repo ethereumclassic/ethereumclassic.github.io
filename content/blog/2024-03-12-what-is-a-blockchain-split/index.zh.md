@@ -1,5 +1,5 @@
 ---
-title: "What Is a Blockchain Split?"
+title: "什么是区块链分叉？"
 date: 2024-03-12
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./1.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5hPEbBgMyVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,94 +16,92 @@ linkImage: ./1.png
 
 ![](./1.png)
 
-To understand what is a blockchain split, first we need to understand what is a blockchain.
+理解什么是区块链分叉，首先我们需要了解什么是区块链。
 
-A blockchain is a peer-to-peer network of computers around the world that constantly receive new transactions, they replicate these transactions in all participating nodes of the system, and they store them in a ledger with accounts and balances called a “blockchain”.
+区块链是一个全球范围的点对点计算机网络，不断接收新的交易，它们在系统的所有参与节点中复制这些交易，并将它们存储在一个带有账户和余额的分类帐中，称为“区块链”。
 
-All the node machines in the network are called “peers” because all run the software of the system and store the same exact replicated data with the accounts and balances.
+网络中的所有节点机器都被称为“节点”，因为它们都运行系统的软件并存储具有相同的账户和余额的完全复制数据。
 
-In the case of Ethereum Classic (ETC), it stores not only accounts and balances, but also what are called smart contracts, which are applications to manage that money.
+在以太坊经典（ETC）的情况下，它不仅存储账户和余额，还存储所谓的智能合约，这些是用于管理资金的应用程序。
 
-## How Do Blockchains Work?
+## 区块链如何工作？
 
-The way blockchains work is that, as said in the introduction, they receive new transactions to move money all the time, but a subgroup of the participating machines do what is called “proof of work” to seal batches of these transactions, also known as “blocks”.
+区块链的工作方式是，正如在介绍中所述，它们不断接收新的交易以转移资金，但参与机器的子组会进行所谓的“工作证明”来封存这些交易的批次，也称为“块”。
 
-The subset of the computers that does this work, producing the blocks, are known as “miners”. Miners use a lot of computational power and spend enormous amounts of electricity creating what are called “cryptographic hashes”, which are like mathematical stamps to seal these blocks.
+执行此工作、生成块的计算机子集被称为“矿工”。矿工使用大量计算能力，并花费大量电力创建所谓的“密码散列”，这类似于数学印章，用于封存这些块。
 
-When they build each block doing all this work, then they send it to the rest of the network for verification. 
+当他们构建每个块并完成所有这些工作时，然后将其发送到网络的其余部分进行验证。
 
-Once the rest of the network of computers verify the blocks, they add them to the database.
+一旦计算机网络的其余部分验证了这些块，它们将其添加到数据库中。
 
-This is why the database is called a “chain of blocks” or “blockchain”, for short.
+这就是为什么数据库被称为“区块链”或“链”简称。
 
-## Blockchains Are Sets of Rules
+## 区块链是一组规则
 
-If a blockchain is a network of computers around the world; owned by diverse peoples in different continents, in different countries, speaking different languages, with different religions, and cultures; they all agree on the same exact database every ten minutes in the case of Bitcoin or every thirteen seconds in the case of ETC; and all are equal peers in the system with no hierarchy; then a lot of coordination must be needed!
+如果区块链是全球范围内拥有不同大陆、不同国家、说不同语言、信仰不同宗教和文化的各种人拥有的计算机网络；它们在比特币的情况下是每十分钟一次，以太坊经典的情况下是每十三秒一次，所有这些都同意使用相同的数据库；并且在系统中没有等级制度，所有都是平等的节点，那么一定需要很多协调！
 
-To accomplish this amazing feat, all computers have to follow a very strict set of rules called a “blockchain protocol”.
+为了完成这一令人惊异的壮举，所有计算机都必须遵循一个被称为“区块链协议”的非常严格的规则集。
 
-These rules determine things such as how transactions must be written and sent to the network, how they must be distributed among all nodes, how miners must build the blocks, how they must be verified by the rest of the nodes, and how much the miners get paid for this work.
+这些规则确定诸如交易必须如何编写和发送到网络，它们必须在所有节点之间如何分发，矿工必须如何构建块，它们必须如何被其他节点验证，以及矿工为此工作获得多少报酬等事项。
 
-## The Software Clients Contain The Rules
+## 软件客户端包含规则
 
-All the rules of the blockchain protocol are contained in what are called the software clients that must be run to participate by the computers of the network.
+所有区块链协议的规则都包含在所谓的软件客户端中，这些客户端必须由网络中的计算机运行以参与。
 
-The most popular software client in Bitcoin is called “[Bitcoin Core](https://bitcoin.org/en/bitcoin-core/)” and the most popular in ETC is called “[Core Geth](https://ethereumclassic.org/blog/2022-12-27-core-geth-explained)”.
+比特币中最流行的软件客户端称为“[比特币核心](https://bitcoin.org/en/bitcoin-core/)”，而ETC中最流行的软件客户端称为“[Core Geth](https://ethereumclassic.org/blog/2022-12-27-core-geth-explained)” 。
 
-If all the nodes run the corresponding client for a blockchain, and all contain the same exact blockchain protocol, then all the machines in the network can share the information and be in absolute synchronicity in a totally decentralized way. 
+如果所有节点运行相应的区块链客户端，并且所有包含相同的区块链协议，那么网络中的所有计算机都可以共享信息，并以完全去中心化的方式在全球范围内保持绝对同步。
 
-This decentralization is the main goal of blockchains such as Bitcoin and ETC.
+这种去中心化是比特币和ETC等区块链的主要目标。
 
-If any or a group of nodes have even a slight difference in the set of rules they follow in the protocol because the software client was changed, or it has bug, then they would separate, or “split”, from the network.
+如果任何节点或一组节点在协议中遵循的规则集中有一点点差异，因为软件客户端已更改或存在错误，那么它们将分离或“分叉”出网络。
 
-## How Are Rules Changed in a Blockchain
+## 如何更改区块链的规则
 
-If even the slightest modification in the rules may cause a computer or group of computers to split from the chain, then every time that the software or the rules of the network are upgraded, the process must be handled in a very delicate manner.
+如果在规则中的最小修改可能导致计算机或计算机组从链中分离，那么每次升级软件或网络规则的过程都必须以非常谨慎的方式进行处理。
 
-This is because thousands of people around the world, who don’t even know each other, in a decentralized way, must upgrade their nodes at the same time, with the same exact set of rules, in a fully coordinated fashion to be able to stay synchronized with the main network on a global scale.
+这是因为全球范围内的数千人，他们甚至不互相认识，以去中心化的方式必须同时升级他们的节点，具有相同的规则集，以完全协调的方式与主网络保持同步。
 
-For this, blockchains such as Bitcoin or ETC have public processes, with debates and technical discussions, that serve as tools to facilitate this coordination.
+为此，比特币或ETC等区块链具有公开的流程，包括辩论和技术讨论，用作促进此协调的工具。
 
-In the case of Bitcoin the process is called the [Bitcoin Improvement Proposal process or “BIP”](https://github.com/bitcoin/bips/blob/master/bip-0002.mediawiki), and in the case of ETC it is called the [Ethereum Classic Improvement Proposal process or “ECIP”](https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1000.md).
+在比特币的情况下，该过程被称为“[比特币改进提案过程或“BIP”](https://github.com/bitcoin/bips/blob/master/bip-0002.mediawiki)” ，在ETC的情况下被称为“[以太坊经典改进提案过程或“ECIP”](https://github.com/ethereumclassic/ECIPs/blob/master/_specs/ecip-1000.md)” 。
 
-## The Right to Split
+## 分裂的权利
 
-However, in these debates and technical discussions, many times there is no agreement or even strong controversies may arise on the future changes of the protocol.
+然而，在这些辩论和技术讨论中，很多时候可能没有一致意见，甚至可能在协议的未来变更上引发严重争议。
 
-If things get very extreme, then it sometimes happens that some nodes of the system may decide to follow a different path and separate from the network.
+如果情况变得非常极端，有时系统的一些节点可能决定走一条不同的道路并与网络分开。
 
-This is what may be called “the right to split”, which is a very critical security feature of truly decentralized blockchains.
+这就是所谓的“分裂权利”，这是真正去中心化区块链的非常关键的安全特性。
 
-The right to split ensures all participants that they can separate from the main blockchain if, for any reason, they perceive that rules are being changed in a way that is detrimental to the network or themselves.
+分裂权利确保所有参与者，如果出于任何原因他们认为规则的变更对网络或他们自己有害，他们可以从主区块链中分离出来。
 
-## The Example of How Ethereum Split From Ethereum Classic
+## 以太坊如何从以太坊经典中分裂的例子
 
 ![](./2.png)
 
-A very famous example of a large blockchain split happened when the Ethereum community decided to manually hack the network to fix what they saw as a problem.
+一个非常著名的大型区块链分裂的例子发生在以太坊社区决定手动入侵网络以修复他们看到的问题。
 
-Ethereum and Ethereum Classic were one single chain originally, but in 2016 there was an exploit of a smart contract in the system, so a large constituency of participants decided to reverse the chain to return the funds to the original owners.
+以太坊和以太坊经典最初是同一链，但在2016年，系统中的智能合约存在漏洞，因此大多数参与者决定反转链以将资金退还给原始所有者。
 
-However, the rest of the community was against this “reverse hack” because it violated the central ethos of immutability of the system, which is a key security principle in proof of work blockchains.
+然而，社区的其余部分反对这种“反向黑客”，因为它违反了系统不可变性的核心原则，这是工作证明区块链的关键安全原则。
 
-Due to this disagreement, it came the time of adopting the new rules, and the Ethereum network split from the original untampered chain, ETC, creating two blockchains out of one as of that moment. 
+由于这一分歧，采纳新规则的时刻到来，以太坊网络与未受篡改的原始链ETC分离，从而从那一刻起形成了两个区块链。
 
-## The Problem of Liquidity
+## 流动性的问题
 
-There are other examples of large blockchain splits. For example “Bitcoin Cash” is a split of Bitcoin that was caused by a big controversy that [happened in 2017](https://www.bitstamp.net/learn/crypto-101/what-was-the-blocksize-war/).
+还有其他大型区块链分裂的例子。例如，“比特币现金”是比特币的一个分裂，是由[2017年发生的一场大争论](https://www.bitstamp.net/learn/crypto-101/what-was-the-blocksize-war/)引起的。
 
-However, it is not that easy to just say “let’s split” and separate from a blockchain.
+然而，仅仅说“我们分裂”并从区块链中分离并不那么容易。
 
-There is something called liquidity that is critical to the long term survival of these systems, especially small splits with small communities.
+有一种称为流动性的东西对于这些系统的长期生存至关重要，尤其是对于具有较小社区的小型分裂。
 
-Liquidity means that there must be a minimal critical mass of participants, activity, and value in the blockchain for the new offshoot to be sustainable.
+流动性意味着新分支在可持续性方面必须有一个最低临界质量的参与者、活动和价值。
 
-If these minimal levels of sustainability are not met then the splits suffer the fates of failed systems such as other known Bitcoin splits like Bitcoin Classic, Bitcoin SV, and Bitcoin XT.
+如果不满足这些最低的可持续性水平，那么分裂就会遭受失败系统的命运，例如其他众所周知的比特币分裂，如比特币经典，比特币SV和比特币XT。
 
 ---
 
-**Thank you for reading this article!**
+**感谢阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
-
-What Is a Blockchain Split?
+要了解有关ETC的更多信息，请访问：https://ethereumclassic.org
